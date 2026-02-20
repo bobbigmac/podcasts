@@ -2,10 +2,10 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"djEuMi4wOjE3NzE0MzA0MzkzNDM="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T15:53:04+00:00`
+- checked_at: `2026-02-20T15:53:04+00:00`
+- etag: `"djEuMi4wOjE3NzE1OTk2Mzk0MTc="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,14 +17,39 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-20T15:53:04+00:00",
+  "owners": [
+    "Benjamin Thompson",
+    "Noah Baker"
+  ],
   "common_speakers": [],
   "categories": [
     "education",
     "science"
   ],
   "episodes": [
+    {
+      "key": "733a339f4a26efe89ec415df4f8cd4ff65bc0ef5",
+      "title": "Briefing chat: How hovering bumblebees keep their cool",
+      "published_at": "2026-02-20T15:00:00+00:00",
+      "link": "https://shows.acast.com/nature/episodes/briefing-chat-how-hovering-bumblebees-keep-their-cool",
+      "description": "00:25 How brains differ by sex and age Nature: Brain differences between sexes get more pronounced from puberty 07:14 Bumblebees ‘fan themselves’ during flight to keep cool Science: How do busy bees avoid overheating from flying? Video: Birds gliding through bubbles reveal aerodynamic trick Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1771596963980-189eded9-cbac-4fca-ad2c-a5aea59b6816.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69986bb4166f176858c8040f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20164926",
+      "itunes_duration": "13:59",
+      "speakers": [
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "briefing",
+        "chat",
+        "bumblebee"
+      ]
+    },
     {
       "key": "2621c7e55cf6ffb2eeb48167cce872285c672456",
       "title": "This chunk of glass could store two million books for 10,000 years",
@@ -37,7 +62,9 @@
       "enclosure_length": "31235544",
       "itunes_duration": "21:40",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chunk",
@@ -58,7 +85,9 @@
       "enclosure_length": "9499645",
       "itunes_duration": "9:52",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chat",
@@ -82,7 +111,9 @@
       "itunes_duration": "25:02",
       "speakers": [
         "Cho et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "cell",
@@ -101,7 +132,9 @@
       "enclosure_length": "10628025",
       "itunes_duration": "11:03",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chat",
@@ -122,7 +155,9 @@
       "enclosure_length": "21231251",
       "itunes_duration": "22:05",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "ridge",
@@ -141,7 +176,9 @@
       "enclosure_length": "9953824",
       "itunes_duration": "10:21",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chat",
@@ -161,7 +198,9 @@
       "enclosure_length": "23102926",
       "itunes_duration": "24:02",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "brain",
@@ -180,7 +219,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17807407",
       "itunes_duration": "18:29",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "scientist",
@@ -199,7 +241,9 @@
       "enclosure_length": "11590732",
       "itunes_duration": "12:03",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chat",
@@ -219,7 +263,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38231850",
       "itunes_duration": "26:32",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "physicist",
         "atom",
@@ -238,7 +285,9 @@
       "enclosure_length": "9686781",
       "itunes_duration": "10:04",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chat",
@@ -260,7 +309,9 @@
       "itunes_duration": "21:38",
       "speakers": [
         "Hao et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "scientist",
@@ -280,7 +331,9 @@
       "enclosure_length": "15898824",
       "itunes_duration": "16:32",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "fingerprint",
@@ -302,7 +355,9 @@
       "itunes_duration": "11:53",
       "speakers": [
         "Miryam Naddaf",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -320,7 +375,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17234546",
       "itunes_duration": "17:54",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "obesity",
@@ -343,7 +401,9 @@
       "speakers": [
         "Werner Heisenberg",
         "Lizzie Gibney",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -363,7 +423,9 @@
       "enclosure_length": "19559512",
       "itunes_duration": "20:20",
       "speakers": [
-        "Asteroid Bennu"
+        "Asteroid Bennu",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -385,7 +447,9 @@
       "itunes_duration": "42:16",
       "speakers": [
         "Very Model",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -404,7 +468,9 @@
       "enclosure_length": "32465588",
       "itunes_duration": "22:32",
       "speakers": [
-        "Research Highlight"
+        "Research Highlight",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "neanderthal",
@@ -425,7 +491,9 @@
       "itunes_duration": "23:06",
       "speakers": [
         "Borlaff et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "satellite",
@@ -445,7 +513,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16684635",
       "itunes_duration": "17:19",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "faulty",
@@ -467,7 +538,9 @@
       "speakers": [
         "Jeff Tollefson",
         "Jenna Ahart",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "lightning",
@@ -489,7 +562,9 @@
         "Wei et al",
         "Research Highlight",
         "Zhang et",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "insulin",
@@ -511,7 +586,9 @@
       "enclosure_length": "14524711",
       "itunes_duration": "15:06",
       "speakers": [
-        "Yoshua Bengio"
+        "Yoshua Bengio",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "machine",
@@ -532,7 +609,9 @@
       "speakers": [
         "Callingham et al",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "eruption",
@@ -551,7 +630,9 @@
       "enclosure_length": "27677677",
       "itunes_duration": "28:48",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "tyrannosaur",
@@ -571,7 +652,9 @@
       "itunes_duration": "22:50",
       "speakers": [
         "Ahmadi et al Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "whale",
@@ -590,7 +673,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14976408",
       "itunes_duration": "15:33",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "night",
@@ -610,7 +696,9 @@
       "enclosure_length": "49522546",
       "itunes_duration": "34:22",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "honey",
@@ -632,7 +720,9 @@
       "itunes_duration": "22:30",
       "speakers": [
         "Kok et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "bird",
@@ -654,7 +744,9 @@
       "itunes_duration": "35:31",
       "speakers": [
         "Flora Graham",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "stereotype",
@@ -675,7 +767,9 @@
       "speakers": [
         "Highlights Longer",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "embryo",
@@ -694,7 +788,9 @@
       "enclosure_length": "24625541",
       "itunes_duration": "25:36",
       "speakers": [
-        "Kennedy Jr"
+        "Kennedy Jr",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -715,7 +811,9 @@
       "enclosure_length": "47129685",
       "itunes_duration": "32:42",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "tick",
@@ -735,7 +833,9 @@
       "enclosure_length": "26574619",
       "itunes_duration": "27:39",
       "speakers": [
-        "Lizzie Wade"
+        "Lizzie Wade",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "apocalypse",
@@ -755,7 +855,9 @@
       "enclosure_length": "51165836",
       "itunes_duration": "35:31",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "tool",
@@ -778,7 +880,8 @@
       "speakers": [
         "Benjamin Thompson",
         "Cole Miller",
-        "Albert Einstein"
+        "Albert Einstein",
+        "Noah Baker"
       ],
       "topics": [
         "wave"
@@ -797,7 +900,9 @@
       "itunes_duration": "36:39",
       "speakers": [
         "Donald Trump",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "heat",
@@ -822,7 +927,9 @@
       "speakers": [
         "Brian Wansink",
         "Dan Fox",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "research",
@@ -843,7 +950,9 @@
       "itunes_duration": "10:57",
       "speakers": [
         "Mariana Lenharo",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -865,7 +974,9 @@
       "itunes_duration": "27:06",
       "speakers": [
         "Highlights Humans",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "specie",
@@ -883,7 +994,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19204498",
       "itunes_duration": "19:57",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "consciousness",
@@ -904,7 +1018,9 @@
       "itunes_duration": "24:44",
       "speakers": [
         "Zapperi et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "spread",
@@ -925,7 +1041,9 @@
       "itunes_duration": "19:57",
       "speakers": [
         "Chen et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "fusion",
@@ -945,7 +1063,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "12586557",
       "itunes_duration": "13:05",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "climate",
         "report",
@@ -967,7 +1088,9 @@
       "enclosure_length": "45939393",
       "itunes_duration": "31:53",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "flyer",
@@ -988,7 +1111,9 @@
       "speakers": [
         "Liao et al",
         "Arnold et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "glue",
@@ -1014,7 +1139,9 @@
         "Research Highlight",
         "Chia et al News",
         "Lizzie Gibney",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "earth",
@@ -1035,7 +1162,9 @@
       "itunes_duration": "35:38",
       "speakers": [
         "Alex Witze",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "laser",
@@ -1058,7 +1187,9 @@
       "itunes_duration": "49:19",
       "speakers": [
         "Dan Fox",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "bounty",
@@ -1079,7 +1210,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47300313",
       "itunes_duration": "32:50",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "stealth",
         "flipper",
@@ -1100,7 +1234,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "12304285",
       "itunes_duration": "12:47",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "week",
         "hide",
@@ -1124,7 +1261,9 @@
       "itunes_duration": "37:06",
       "speakers": [
         "Lefebvre et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "farming",
@@ -1142,7 +1281,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15626547",
       "itunes_duration": "16:13",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "vaccine",
@@ -1162,7 +1304,9 @@
       "itunes_duration": "27:19",
       "speakers": [
         "Queen Hatshepsut",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "wasp",
@@ -1182,7 +1326,9 @@
       "enclosure_length": "30270583",
       "itunes_duration": "31:30",
       "speakers": [
-        "Kalluri et al"
+        "Kalluri et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "link",
@@ -1204,7 +1350,9 @@
       "speakers": [
         "Dreyer et al",
         "Highlights Nigeria",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "flight",
@@ -1226,7 +1374,9 @@
       "itunes_duration": "9:07",
       "speakers": [
         "Werner Heisenberg",
-        "Lizzie Gibney"
+        "Lizzie Gibney",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "hundred",
@@ -1250,7 +1400,9 @@
         "amphibian embryos",
         "Sheng et al",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "stretchy",
@@ -1270,7 +1422,9 @@
       "enclosure_length": "11334796",
       "itunes_duration": "11:47",
       "speakers": [
-        "Donald Trump"
+        "Donald Trump",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "trump",
@@ -1293,7 +1447,9 @@
       "itunes_duration": "30:08",
       "speakers": [
         "Blurry Vision",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "mouse",
@@ -1313,7 +1469,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15398220",
       "itunes_duration": "15:59",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "earth",
@@ -1332,7 +1491,9 @@
       "enclosure_length": "29092138",
       "itunes_duration": "20:11",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "boom",
@@ -1355,7 +1516,9 @@
       "enclosure_length": "45627135",
       "itunes_duration": "31:40",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "malaria",
@@ -1377,7 +1540,9 @@
       "itunes_duration": "30:31",
       "speakers": [
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "antimatter"
@@ -1395,7 +1560,9 @@
       "enclosure_length": "10833065",
       "itunes_duration": "11:15",
       "speakers": [
-        "Donald Trump"
+        "Donald Trump",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "number",
@@ -1416,7 +1583,9 @@
       "speakers": [
         "Herring Selective",
         "Slotte et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "population",
@@ -1440,7 +1609,9 @@
         "Donald Trump",
         "Research Highlight",
         "Gregor Mendel",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "dismantling",
@@ -1459,7 +1630,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16893091",
       "itunes_duration": "17:33",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "smartphone",
@@ -1480,7 +1654,9 @@
       "enclosure_length": "19669927",
       "itunes_duration": "20:27",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "brand",
@@ -1506,7 +1682,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31979673",
       "itunes_duration": "33:11",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "matter",
         "bang",
@@ -1526,7 +1705,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31397597",
       "itunes_duration": "32:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "trove",
         "potato",
@@ -1548,7 +1730,9 @@
       "speakers": [
         "Hadron Collider",
         "Webby Awards",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "insight",
@@ -1568,7 +1752,9 @@
       "itunes_duration": "32:27",
       "speakers": [
         "Carl Zimmer",
-        "Hidden History"
+        "Hidden History",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "hippocrates",
@@ -1588,7 +1774,9 @@
       "enclosure_length": "11090914",
       "itunes_duration": "11:32",
       "speakers": [
-        "Trump White House"
+        "Trump White House",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "trump",
@@ -1611,7 +1799,9 @@
       "speakers": [
         "Zhang et al",
         "Eyting et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "world",
@@ -1631,7 +1821,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17266034",
       "itunes_duration": "17:56",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "clock",
@@ -1653,7 +1846,9 @@
         "Jangra et al",
         "Florian Altermatt",
         "Iceberg Breaks Away Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "drug",
@@ -1676,7 +1871,9 @@
         "James Zou",
         "Donald Trump",
         "Max Kozlov",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "satellite",
@@ -1696,7 +1893,9 @@
       "enclosure_length": "31888777",
       "itunes_duration": "33:12",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "sapphire",
@@ -1718,7 +1917,9 @@
       "speakers": [
         "Ignacio de la Torre",
         "Highlights Cane",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "bone",
@@ -1738,7 +1939,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15576915",
       "itunes_duration": "16:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "risk",
@@ -1760,7 +1964,9 @@
       "itunes_duration": "19:58",
       "speakers": [
         "Jake Sunshine",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "heart",
@@ -1783,7 +1989,9 @@
         "Richard Van Noorden",
         "Trump’s Dei",
         "Rfk Jr",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rating",
@@ -1807,7 +2015,9 @@
       "speakers": [
         "Donald Trump",
         "Briefing Chat",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "record",
@@ -1826,7 +2036,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33810875",
       "itunes_duration": "35:11",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "variant",
         "storm",
@@ -1850,7 +2063,9 @@
       "speakers": [
         "Highlights Wolverine",
         "Gu et al News",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "world",
@@ -1869,7 +2084,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15911257",
       "itunes_duration": "16:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "revolution",
         "datum",
@@ -1892,7 +2110,9 @@
         "Glavin et al",
         "Research Highlight",
         "Lombardo et al",
-        "Hermenegildo et al"
+        "Hermenegildo et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "asteroid",
@@ -1917,7 +2137,8 @@
         "Research Highlight",
         "Noah Baker",
         "Ehsan Masood",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson"
       ],
       "topics": [
         "professor",
@@ -1936,7 +2157,9 @@
       "enclosure_length": "32538990",
       "itunes_duration": "33:52",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "antivenom",
@@ -1955,7 +2178,9 @@
       "enclosure_length": "24888396",
       "itunes_duration": "25:53",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "year",
@@ -1977,7 +2202,9 @@
       "itunes_duration": "11:24",
       "speakers": [
         "Miryam Naddaf",
-        "Donald Trump"
+        "Donald Trump",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -1996,7 +2223,9 @@
       "enclosure_length": "11488979",
       "itunes_duration": "11:55",
       "speakers": [
-        "Marc Abrahams"
+        "Marc Abrahams",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -2017,7 +2246,9 @@
       "enclosure_length": "47730724",
       "itunes_duration": "49:40",
       "speakers": [
-        "Agnew Sex"
+        "Agnew Sex",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -2036,7 +2267,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35882097",
       "itunes_duration": "24:53",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "scene",
         "nature",
@@ -2056,7 +2290,9 @@
       "enclosure_length": "53998207",
       "itunes_duration": "37:29",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -2079,7 +2315,9 @@
         "Pond Erik Mcnerny",
         "Pond Richard Smithson",
         "Pond Thick-billed",
-        "Andrew Spencer"
+        "Andrew Spencer",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "species",
@@ -2105,7 +2343,9 @@
       "speakers": [
         "Research Highlight",
         "Kalogriopoulos et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "mrna",
@@ -2129,7 +2369,9 @@
       "speakers": [
         "Zoologist Arik Kershenbaum",
         "Arik Kershenbaum Hyrax",
-        "Arik Kershenbaum Pileated"
+        "Arik Kershenbaum Pileated",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "human",
@@ -2154,7 +2396,9 @@
       "itunes_duration": "30:06",
       "speakers": [
         "Briefing Chat",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "breast",
@@ -2174,7 +2418,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "12738803",
       "itunes_duration": "13:13",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "blizzard",
@@ -2195,7 +2442,9 @@
       "speakers": [
         "Highlights Bacteria",
         "Liao et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "faece",
@@ -2219,7 +2468,9 @@
         "Arrick et al",
         "Zhang et al",
         "Liu et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "squid",
@@ -2242,7 +2493,9 @@
       "speakers": [
         "Highlights Elderly",
         "Leckenby et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "bone",
@@ -2263,7 +2516,9 @@
       "enclosure_length": "25354784",
       "itunes_duration": "26:23",
       "speakers": [
-        "Samantha Harvey Vintage"
+        "Samantha Harvey Vintage",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rapture",
@@ -2288,7 +2543,9 @@
       "itunes_duration": "27:36",
       "speakers": [
         "Ryu et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "surprise",
@@ -2392,7 +2649,9 @@
       "itunes_duration": "35:23",
       "speakers": [
         "Jeff Tollefson",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "trauma",
@@ -2411,7 +2670,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17947329",
       "itunes_duration": "18:39",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "system",
@@ -2435,7 +2697,9 @@
       "speakers": [
         "Language Model",
         "Dathathri et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "massive",
@@ -2456,7 +2720,9 @@
       "enclosure_length": "28433436",
       "itunes_duration": "29:36",
       "speakers": [
-        "Alfaro et al"
+        "Alfaro et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "star",
@@ -2479,7 +2745,9 @@
       "speakers": [
         "Graphene Tongue Researchers",
         "Flora Graham",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "tongue",
@@ -2501,7 +2769,9 @@
       "speakers": [
         "Østgaard et",
         "Bronze Age",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "gamma",
@@ -2521,7 +2791,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19547493",
       "itunes_duration": "20:19",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "life",
@@ -2541,7 +2814,9 @@
       "enclosure_length": "21111777",
       "itunes_duration": "21:58",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "child",
@@ -2563,7 +2838,9 @@
       "enclosure_length": "32763399",
       "itunes_duration": "34:06",
       "speakers": [
-        "Wei et al"
+        "Wei et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "colossal",
@@ -2586,7 +2863,9 @@
       "itunes_duration": "41:41",
       "speakers": [
         "Rapa Nui",
-        "Moreno-Mayar et al News"
+        "Moreno-Mayar et al News",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "debunk",
@@ -2606,7 +2885,9 @@
       "enclosure_length": "20884024",
       "itunes_duration": "14:29",
       "speakers": [
-        "Indigenous Peoples"
+        "Indigenous Peoples",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "stat",
@@ -2627,7 +2908,9 @@
       "itunes_duration": "31:24",
       "speakers": [
         "Zhang et al News",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "clock",
@@ -2645,7 +2928,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17026852",
       "itunes_duration": "17:44",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "result"
@@ -2664,7 +2950,9 @@
       "itunes_duration": "20:40",
       "speakers": [
         "Hoffman et al",
-        "Chatbot AI"
+        "Chatbot AI",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "racism",
@@ -2687,7 +2975,9 @@
       "enclosure_length": "29559686",
       "itunes_duration": "30:43",
       "speakers": [
-        "Venki Ramakrishnan"
+        "Venki Ramakrishnan",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "ageing",
@@ -2706,7 +2996,9 @@
       "enclosure_length": "19060150",
       "itunes_duration": "19:50",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "thing",
@@ -2725,7 +3017,9 @@
       "enclosure_length": "32889151",
       "itunes_duration": "22:49",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "mystery",
@@ -2745,7 +3039,9 @@
       "enclosure_length": "53078071",
       "itunes_duration": "36:50",
       "speakers": [
-        "Large Language Models"
+        "Large Language Models",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chatgpt",
@@ -2768,7 +3064,9 @@
       "speakers": [
         "Henley et al News",
         "Max Kozlov",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "plant",
@@ -2790,7 +3088,9 @@
       "itunes_duration": "32:37",
       "speakers": [
         "Dong et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "light",
@@ -2810,7 +3110,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22201685",
       "itunes_duration": "23:04",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "hope",
@@ -2834,7 +3137,9 @@
       "itunes_duration": "34:57",
       "speakers": [
         "Kim et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "sepsis",
@@ -2858,7 +3163,9 @@
       "itunes_duration": "28:21",
       "speakers": [
         "Bianco et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "plastic",
@@ -2878,7 +3185,9 @@
       "enclosure_length": "39405431",
       "itunes_duration": "27:21",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "mother",
@@ -2897,7 +3206,9 @@
       "enclosure_length": "52617076",
       "itunes_duration": "36:31",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "frog",
@@ -2917,7 +3228,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14500960",
       "itunes_duration": "15:04",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "nasa",
@@ -2937,7 +3251,9 @@
       "enclosure_length": "25256932",
       "itunes_duration": "17:31",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "source",
@@ -2962,7 +3278,9 @@
       "speakers": [
         "Research Highlight",
         "Schulze et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "fish",
@@ -2984,7 +3302,9 @@
       "itunes_duration": "38:14",
       "speakers": [
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "work",
@@ -3005,7 +3325,9 @@
       "enclosure_length": "26799696",
       "itunes_duration": "27:54",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "twitter",
@@ -3027,7 +3349,9 @@
       "enclosure_length": "22425032",
       "itunes_duration": "23:19",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "robotic",
@@ -3050,7 +3374,9 @@
       "itunes_duration": "36:57",
       "speakers": [
         "Freeman Hrabowski",
-        "Martin Luther King Jr"
+        "Martin Luther King Jr",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "freeman",
@@ -3070,7 +3396,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17023210",
       "itunes_duration": "17:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "psychology",
@@ -3091,7 +3420,9 @@
       "enclosure_length": "29367062",
       "itunes_duration": "20:23",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "addiction",
@@ -3112,7 +3443,9 @@
       "itunes_duration": "31:27",
       "speakers": [
         "Makoond et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "lizard",
@@ -3134,7 +3467,9 @@
       "itunes_duration": "21:33",
       "speakers": [
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "alphafold",
@@ -3154,7 +3489,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84493726",
       "itunes_duration": "58:39",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "gender"
       ]
@@ -3171,7 +3509,9 @@
       "enclosure_length": "24242069",
       "itunes_duration": "25:14",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "microbiome",
@@ -3191,7 +3531,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14419040",
       "itunes_duration": "14:58",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "loneliness",
@@ -3210,7 +3553,9 @@
       "enclosure_length": "27487521",
       "itunes_duration": "28:36",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "gliding",
@@ -3230,7 +3575,9 @@
       "enclosure_length": "36699111",
       "itunes_duration": "38:11",
       "speakers": [
-        "Settle Space"
+        "Settle Space",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "mars"
@@ -3249,7 +3596,9 @@
       "itunes_duration": "34:10",
       "speakers": [
         "James Webb Space Telescope",
-        "Daume et al"
+        "Daume et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "keys",
@@ -3273,7 +3622,9 @@
       "speakers": [
         "Engert et al",
         "TVYHmP Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "ghost",
@@ -3292,7 +3643,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15869803",
       "itunes_duration": "16:29",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "people",
@@ -3311,7 +3665,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23587067",
       "itunes_duration": "24:32",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "pregnancy",
         "effect",
@@ -3334,7 +3691,9 @@
       "itunes_duration": "26:49",
       "speakers": [
         "Big Bang",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "climate",
@@ -3356,7 +3715,9 @@
       "speakers": [
         "Chen et al",
         "Protein Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "factor",
@@ -3379,7 +3740,9 @@
       "speakers": [
         "Farah et al",
         "Highlights Residue",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "killer",
@@ -3401,7 +3764,9 @@
       "itunes_duration": "36:43",
       "speakers": [
         "Bridges et al News",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "fish",
@@ -3422,7 +3787,9 @@
       "itunes_duration": "26:23",
       "speakers": [
         "Atek et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "time",
@@ -3443,7 +3810,9 @@
       "enclosure_length": "23707803",
       "itunes_duration": "24:39",
       "speakers": [
-        "Feature Chimpanzees"
+        "Feature Chimpanzees",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -3464,7 +3833,9 @@
       "enclosure_length": "20844312",
       "itunes_duration": "14:28",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "whale",
@@ -3484,7 +3855,9 @@
       "itunes_duration": "30:41",
       "speakers": [
         "Efferson et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "altruism",
@@ -3504,7 +3877,9 @@
       "enclosure_length": "31105788",
       "itunes_duration": "21:35",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "change",
@@ -3526,7 +3901,9 @@
       "speakers": [
         "Lucy Odling-Smee",
         "Fabrice André",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "cancer"
@@ -3547,7 +3924,9 @@
         "Garcia et al",
         "Richard Feynman",
         "Shellfishly Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "cancer",
@@ -3568,7 +3947,9 @@
       "enclosure_length": "25014690",
       "itunes_duration": "17:21",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "cancer"
@@ -3586,7 +3967,9 @@
       "enclosure_length": "41436463",
       "itunes_duration": "28:45",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "mystery",
@@ -3606,7 +3989,9 @@
       "enclosure_length": "11935443",
       "itunes_duration": "12:23",
       "speakers": [
-        "Feature Long Covid"
+        "Feature Long Covid",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -3630,7 +4015,9 @@
       "itunes_duration": "24:30",
       "speakers": [
         "Johnson Space Centre",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "steel"
@@ -3650,7 +4037,9 @@
       "speakers": [
         "Tye et al",
         "Mission Blog",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "geometry",
@@ -3670,7 +4059,9 @@
       "enclosure_length": "28549096",
       "itunes_duration": "29:42",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -3691,7 +4082,9 @@
       "enclosure_length": "19566029",
       "itunes_duration": "13:34",
       "speakers": [
-        "Miryam Naddaf"
+        "Miryam Naddaf",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -3709,7 +4102,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "250059296",
       "itunes_duration": "23:37",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "kind",
@@ -3733,7 +4129,9 @@
         "Rosalind Franklin",
         "James Watson",
         "Francis Crick",
-        "Research Highlight"
+        "Research Highlight",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -3753,7 +4151,9 @@
       "enclosure_length": "54393539",
       "itunes_duration": "37:45",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "mystery",
@@ -3772,7 +4172,9 @@
       "enclosure_length": "65526593",
       "itunes_duration": "45:29",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -3793,7 +4195,9 @@
       "enclosure_length": "33735431",
       "itunes_duration": "35:04",
       "speakers": [
-        "Aomawa Shields"
+        "Aomawa Shields",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "planet",
@@ -3816,7 +4220,9 @@
       "enclosure_length": "11405787",
       "itunes_duration": "7:54",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "vaccine",
@@ -3836,7 +4242,9 @@
       "enclosure_length": "37175655",
       "itunes_duration": "25:48",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "parasite",
@@ -3856,7 +4264,9 @@
       "enclosure_length": "44698147",
       "itunes_duration": "31:01",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "world",
@@ -3878,7 +4288,9 @@
       "itunes_duration": "9:02",
       "speakers": [
         "Molina et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "sanitary",
@@ -3901,7 +4313,9 @@
       "itunes_duration": "25:30",
       "speakers": [
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "degree",
@@ -3919,7 +4333,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17251283",
       "itunes_duration": "17:55",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "apple",
@@ -3943,7 +4360,9 @@
       "speakers": [
         "Highlights Botulinum",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "polio",
@@ -3962,7 +4381,9 @@
       "enclosure_length": "25782452",
       "itunes_duration": "26:47",
       "speakers": [
-        "Jay Owens"
+        "Jay Owens",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "dust",
@@ -3981,7 +4402,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25696442",
       "itunes_duration": "26:45",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "print",
         "robot"
@@ -4000,7 +4424,9 @@
       "itunes_duration": "27:55",
       "speakers": [
         "Maji et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "life",
@@ -4019,7 +4445,9 @@
       "enclosure_length": "43749299",
       "itunes_duration": "30:22",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -4040,7 +4468,9 @@
       "itunes_duration": "23:27",
       "speakers": [
         "Jin et al News",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "hydrogel",
@@ -4060,7 +4490,9 @@
       "itunes_duration": "11:56",
       "speakers": [
         "Bmi when diagnosing",
-        "treating obesity"
+        "treating obesity",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -4080,7 +4512,9 @@
       "itunes_duration": "13:23",
       "speakers": [
         "Samuel et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "sound",
@@ -4101,7 +4535,9 @@
       "enclosure_length": "24392914",
       "itunes_duration": "25:23",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "sound",
@@ -4124,7 +4560,9 @@
       "itunes_duration": "30:17",
       "speakers": [
         "Camara-Wilpert et",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "system",
@@ -4145,7 +4583,9 @@
       "itunes_duration": "21:04",
       "speakers": [
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "gene",
@@ -4169,7 +4609,9 @@
         "Shobhana Narasimhan",
         "Sana Odeh",
         "Anne Pichon",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "woman",
@@ -4194,7 +4636,9 @@
       "speakers": [
         "Coe et al",
         "Flora Graham",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "astronomer",
@@ -4213,7 +4657,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19333234",
       "itunes_duration": "20:05",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "animal",
@@ -4235,7 +4682,9 @@
       "itunes_duration": "30:55",
       "speakers": [
         "Alex Witze",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -4256,7 +4705,9 @@
       "enclosure_length": "22772901",
       "itunes_duration": "23:42",
       "speakers": [
-        "Research Highlight"
+        "Research Highlight",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "cancer",
@@ -4278,7 +4729,9 @@
       "itunes_duration": "33:42",
       "speakers": [
         "Mertens et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "glue",
@@ -4297,7 +4750,9 @@
       "enclosure_length": "13058063",
       "itunes_duration": "13:34",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "ancestor",
@@ -4319,7 +4774,9 @@
       "speakers": [
         "Kondo et al",
         "Kaufmann et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "physicist",
@@ -4339,7 +4796,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25453852",
       "itunes_duration": "26:28",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "medicine",
@@ -4362,7 +4822,9 @@
         "Metzger et",
         "Willett et al News",
         "Doughty et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "brain",
@@ -4387,7 +4849,9 @@
         "Research Highlight",
         "Bronze Age",
         "Arecibo Observatory",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "fruit",
@@ -4407,7 +4871,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43248637",
       "itunes_duration": "44:58",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "racism",
         "health",
@@ -4429,7 +4896,9 @@
       "itunes_duration": "25:56",
       "speakers": [
         "Bansak et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "refugee",
@@ -4450,7 +4919,9 @@
       "enclosure_length": "31013817",
       "itunes_duration": "32:14",
       "speakers": [
-        "Athene Donald"
+        "Athene Donald",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "woman",
@@ -4470,7 +4941,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14719026",
       "itunes_duration": "15:17",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "mouse",
@@ -4492,7 +4966,9 @@
       "itunes_duration": "9:30",
       "speakers": [
         "Nyhan et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "echo",
@@ -4517,7 +4993,9 @@
         "Bao et al",
         "Benjamin Franklin",
         "Ben Franklin",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "night",
@@ -4538,7 +5016,9 @@
       "enclosure_length": "23625650",
       "itunes_duration": "24:35",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "snail",
@@ -4561,7 +5041,9 @@
       "enclosure_length": "21638607",
       "itunes_duration": "14:59",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chatgpt",
@@ -4584,7 +5066,9 @@
       "speakers": [
         "Highlights Dolphins",
         "Nature’s Davide Castelvecchi",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "cell",
@@ -4603,7 +5087,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "203160832",
       "itunes_duration": "19:11",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "chemist",
@@ -4626,7 +5113,9 @@
       "speakers": [
         "Wang et al",
         "Junge et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "octopus",
@@ -4648,7 +5137,9 @@
       "itunes_duration": "29:26",
       "speakers": [
         "Fu et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "bladder",
@@ -4672,7 +5163,9 @@
         "Kim et al News",
         "Research Highlight",
         "Nardou et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "result",
@@ -4694,7 +5187,9 @@
       "speakers": [
         "Mei et al",
         "Bale et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "brain",
@@ -4716,7 +5211,9 @@
       "speakers": [
         "Theodoris et al",
         "Highlights Microbes",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "gene",
@@ -4737,7 +5234,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25174699",
       "itunes_duration": "17:27",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "survey",
@@ -4762,7 +5262,9 @@
       "speakers": [
         "Zemp et",
         "Crispr Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "tree",
@@ -4786,7 +5288,9 @@
       "itunes_duration": "30:22",
       "speakers": [
         "James Webb Space Telescope",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "jwst",
@@ -4806,7 +5310,9 @@
       "enclosure_length": "37469688",
       "itunes_duration": "26:00",
       "speakers": [
-        "Can Registered Reports"
+        "Can Registered Reports",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -4831,7 +5337,9 @@
         "Liao et al",
         "Guarracino et al News",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "pangenome",
@@ -4854,7 +5362,9 @@
         "Kerri Smith",
         "Heidi Ledford",
         "De et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "menopause",
@@ -4874,7 +5384,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25260685",
       "itunes_duration": "17:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "conquering",
@@ -4899,7 +5412,9 @@
         "Rosalind Franklin",
         "James Watson",
         "Francis Crick",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rosalind",
@@ -4920,7 +5435,9 @@
       "itunes_duration": "21:13",
       "speakers": [
         "Dong et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "plastic"
@@ -4939,7 +5456,9 @@
       "itunes_duration": "24:06",
       "speakers": [
         "Sander van der Linden",
-        "Sander van der"
+        "Sander van der",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "battle",
@@ -4962,7 +5481,9 @@
       "speakers": [
         "Kang et al",
         "Allard et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "octopus",
@@ -4983,7 +5504,9 @@
       "itunes_duration": "31:53",
       "speakers": [
         "Chen et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "hole",
@@ -5005,7 +5528,9 @@
       "enclosure_length": "17092947",
       "itunes_duration": "11:50",
       "speakers": [
-        "What Turkey"
+        "What Turkey",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -5029,7 +5554,9 @@
       "speakers": [
         "Research Highlight",
         "Nature’s Lucy Odling-Smee",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "syrinx",
@@ -5050,7 +5577,9 @@
       "itunes_duration": "19:21",
       "speakers": [
         "Feng et al",
-        "Smriti Mallapaty"
+        "Smriti Mallapaty",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "driverless",
@@ -5068,7 +5597,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45577852",
       "itunes_duration": "31:38",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "virus",
         "cell"
@@ -5088,7 +5620,9 @@
       "speakers": [
         "News Views",
         "Zia Mehrabi",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "wildfire",
@@ -5114,7 +5648,9 @@
         "Daly et al",
         "Li et al",
         "Cheng et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "heart",
@@ -5135,7 +5671,9 @@
       "enclosure_length": "38021684",
       "itunes_duration": "26:23",
       "speakers": [
-        "Elon Musk"
+        "Elon Musk",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -5155,7 +5693,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23603065",
       "itunes_duration": "16:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "brush",
@@ -5177,7 +5718,9 @@
       "itunes_duration": "28:54",
       "speakers": [
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "twisting",
@@ -5197,7 +5740,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43280232",
       "itunes_duration": "30:02",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "metadevice",
         "electronic"
@@ -5215,7 +5761,9 @@
       "enclosure_length": "41024808",
       "itunes_duration": "28:28",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "space",
@@ -5236,7 +5784,9 @@
       "itunes_duration": "29:31",
       "speakers": [
         "Rageot et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "mummy",
@@ -5255,7 +5805,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25270720",
       "itunes_duration": "17:32",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "breakthrough",
@@ -5278,7 +5831,9 @@
       "speakers": [
         "Handzlik et al News",
         "Sargassum Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "acid",
@@ -5301,7 +5856,9 @@
       "enclosure_length": "29498774",
       "itunes_duration": "20:28",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "laser",
@@ -5323,7 +5880,9 @@
       "itunes_duration": "23:39",
       "speakers": [
         "Books Arts",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -5344,7 +5903,9 @@
       "itunes_duration": "15:18",
       "speakers": [
         "Miryam Naddaf",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -5365,7 +5926,9 @@
       "speakers": [
         "Spyrou et al",
         "Highlights Hippos",
-        "Maloney et al News"
+        "Maloney et al News",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -5385,7 +5948,9 @@
       "enclosure_length": "50213281",
       "itunes_duration": "34:51",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -5408,7 +5973,9 @@
       "speakers": [
         "Msemburi et al",
         "Covid Editorial",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "death",
@@ -5429,7 +5996,9 @@
       "itunes_duration": "17:53",
       "speakers": [
         "Stegmann et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "year",
@@ -5450,7 +6019,9 @@
       "speakers": [
         "Gaia Vince",
         "Nomad Century",
-        "Allen Lane"
+        "Allen Lane",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "gaia",
@@ -5472,7 +6043,9 @@
       "enclosure_length": "29260995",
       "itunes_duration": "20:18",
       "speakers": [
-        "Briefing Chat"
+        "Briefing Chat",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "fluid",
@@ -5491,7 +6064,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23697246",
       "itunes_duration": "16:26",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "science",
@@ -5511,7 +6087,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34437359",
       "itunes_duration": "23:54",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "satellite",
         "alternative"
@@ -5532,7 +6111,9 @@
         "Alex Witze",
         "Okholm Kryger et",
         "Flora Graham",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "alzheimer",
@@ -5553,7 +6134,9 @@
       "enclosure_length": "45147356",
       "itunes_duration": "31:19",
       "speakers": [
-        "Kathleen Folbigg"
+        "Kathleen Folbigg",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -5576,7 +6159,9 @@
       "speakers": [
         "Su et al",
         "Jeff Tollefson",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "cage",
@@ -5594,7 +6179,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28295573",
       "itunes_duration": "19:37",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "embryo",
@@ -5616,7 +6204,9 @@
       "speakers": [
         "Fenk et al",
         "Oliver Belcher",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": []
     },
@@ -5631,7 +6221,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57187331",
       "itunes_duration": "39:35",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "racism",
         "health",
@@ -5650,7 +6243,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33166172",
       "itunes_duration": "23:01",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "family",
         "neanderthals",
@@ -5670,7 +6266,9 @@
       "itunes_duration": "18:05",
       "speakers": [
         "Revah et al News",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "brain",
@@ -5692,7 +6290,9 @@
       "itunes_duration": "18:40",
       "speakers": [
         "Flora Graham",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "library",
@@ -5711,7 +6311,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30557720",
       "itunes_duration": "21:12",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "ukraine",
@@ -5729,7 +6332,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32640387",
       "itunes_duration": "22:38",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "scientist",
@@ -5754,7 +6360,9 @@
         "Gai et al",
         "Research Highlight",
         "Paisley Currah",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "trove",
@@ -5775,7 +6383,9 @@
       "enclosure_length": "28720342",
       "itunes_duration": "19:56",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "dataset",
@@ -5796,7 +6406,9 @@
       "itunes_duration": "20:15",
       "speakers": [
         "Xu et al News",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "cell",
@@ -5818,7 +6430,9 @@
       "speakers": [
         "Maloney et al News",
         "James Webb Space Telescope",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "foot",
@@ -5837,7 +6451,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33927342",
       "itunes_duration": "23:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "brain",
@@ -5858,7 +6475,9 @@
       "enclosure_length": "44270137",
       "itunes_duration": "30:43",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "water",
@@ -5877,7 +6496,9 @@
       "enclosure_length": "31766397",
       "itunes_duration": "22:03",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "proton",
@@ -5897,7 +6518,9 @@
       "enclosure_length": "35323451",
       "itunes_duration": "24:31",
       "speakers": [
-        "all together"
+        "all together",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -5918,7 +6541,9 @@
       "itunes_duration": "21:54",
       "speakers": [
         "tumours glucose",
-        "Seki et al"
+        "Seki et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "temperature",
@@ -5940,7 +6565,9 @@
       "speakers": [
         "Chetty et al",
         "Chetty et al News",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "massive",
@@ -5960,7 +6587,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50899974",
       "itunes_duration": "35:17",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "science",
@@ -5983,7 +6613,9 @@
       "enclosure_length": "40243892",
       "itunes_duration": "27:56",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "human",
@@ -6008,7 +6640,9 @@
         "Araujo et al",
         "Research Highlight",
         "Dietrich et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "researcher",
@@ -6029,7 +6663,9 @@
       "itunes_duration": "28:30",
       "speakers": [
         "James Webb Space Telescope",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "record",
@@ -6051,7 +6687,9 @@
       "speakers": [
         "Lizzie Gibney",
         "Federico Levi",
-        "Hadron Collider"
+        "Hadron Collider",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "higgs",
@@ -6072,7 +6710,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16541717",
       "itunes_duration": "11:27",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "covid",
@@ -6093,7 +6734,9 @@
       "itunes_duration": "29:32",
       "speakers": [
         "Higgs boson",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "higgs",
@@ -6114,7 +6757,9 @@
       "enclosure_length": "42443765",
       "itunes_duration": "29:26",
       "speakers": [
-        "Ed Yong"
+        "Ed Yong",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "yong",
@@ -6136,7 +6781,9 @@
       "itunes_duration": "30:08",
       "speakers": [
         "Ghosh et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "noroviru",
@@ -6156,7 +6803,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27794494",
       "itunes_duration": "19:16",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "country",
@@ -6174,7 +6824,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31016748",
       "itunes_duration": "21:30",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "vaccine"
@@ -6193,7 +6846,9 @@
       "itunes_duration": "32:24",
       "speakers": [
         "Diamantopoulou et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -6214,7 +6869,9 @@
       "speakers": [
         "Spyrou et al",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "black",
@@ -6234,7 +6891,9 @@
       "enclosure_length": "29529823",
       "itunes_duration": "20:28",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6256,7 +6915,9 @@
       "itunes_duration": "18:23",
       "speakers": [
         "giraffe evolution",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "giraffe",
@@ -6275,7 +6936,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32397888",
       "itunes_duration": "22:28",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "brain",
@@ -6297,7 +6961,9 @@
       "itunes_duration": "26:13",
       "speakers": [
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "robot",
@@ -6319,7 +6985,9 @@
       "enclosure_length": "20792407",
       "itunes_duration": "14:24",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6342,7 +7010,9 @@
       "itunes_duration": "26:48",
       "speakers": [
         "Hirasawa et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "analysis",
@@ -6365,7 +7035,9 @@
       "itunes_duration": "28:12",
       "speakers": [
         "van Dokkum",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "galaxy",
@@ -6384,7 +7056,9 @@
       "enclosure_length": "20678149",
       "itunes_duration": "14:20",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6408,7 +7082,9 @@
       "enclosure_length": "36506492",
       "itunes_duration": "25:20",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "retinas",
@@ -6433,7 +7109,9 @@
         "Research Highlight",
         "Zhao et al",
         "Webby Award",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "meat",
@@ -6451,7 +7129,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13840840",
       "itunes_duration": "9:34",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "diabete",
@@ -6471,7 +7152,9 @@
       "itunes_duration": "24:18",
       "speakers": [
         "Chan et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "meeting",
@@ -6489,7 +7172,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26285281",
       "itunes_duration": "18:13",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "quest",
@@ -6509,7 +7195,9 @@
       "itunes_duration": "18:40",
       "speakers": [
         "Info Confirms",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "warming"
@@ -6527,7 +7215,9 @@
       "enclosure_length": "16277862",
       "itunes_duration": "11:16",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6548,7 +7238,9 @@
       "enclosure_length": "40325220",
       "itunes_duration": "27:59",
       "speakers": [
-        "Cagan et al News"
+        "Cagan et al News",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "giraffe"
@@ -6566,7 +7258,9 @@
       "enclosure_length": "37246317",
       "itunes_duration": "25:51",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "year",
@@ -6585,7 +7279,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26926172",
       "itunes_duration": "18:40",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "genome",
@@ -6606,7 +7303,9 @@
       "itunes_duration": "27:37",
       "speakers": [
         "Calafat et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "road",
@@ -6625,7 +7324,9 @@
       "enclosure_length": "41395832",
       "itunes_duration": "28:44",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "milky",
@@ -6646,7 +7347,9 @@
       "enclosure_length": "19958717",
       "itunes_duration": "13:50",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6668,7 +7371,9 @@
       "itunes_duration": "15:23",
       "speakers": [
         "Marty Reiswig",
-        "Lorna Stewart"
+        "Lorna Stewart",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coin",
@@ -6690,7 +7395,9 @@
       "itunes_duration": "27:17",
       "speakers": [
         "Yan et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "vest",
@@ -6709,7 +7416,9 @@
       "enclosure_length": "40133505",
       "itunes_duration": "27:51",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "graffiti"
@@ -6726,7 +7435,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24266374",
       "itunes_duration": "16:50",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "covid",
@@ -6746,7 +7458,9 @@
       "enclosure_length": "43839002",
       "itunes_duration": "30:26",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "stimulus",
@@ -6766,7 +7480,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33667802",
       "itunes_duration": "23:21",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "race",
@@ -6787,7 +7504,9 @@
       "itunes_duration": "24:42",
       "speakers": [
         "Briefing Chat",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "dinosaur",
@@ -6807,7 +7526,9 @@
       "enclosure_length": "35747728",
       "itunes_duration": "24:48",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "tongan",
@@ -6829,7 +7550,9 @@
       "enclosure_length": "27752822",
       "itunes_duration": "0",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6850,7 +7573,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35869500",
       "itunes_duration": "0",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "test",
         "pregnancy",
@@ -6869,7 +7595,9 @@
       "enclosure_length": "16082027",
       "itunes_duration": "0",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6889,7 +7617,9 @@
       "enclosure_length": "24453272",
       "itunes_duration": "0",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "water",
@@ -6909,7 +7639,9 @@
       "enclosure_length": "19300213",
       "itunes_duration": "0",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6928,7 +7660,9 @@
       "enclosure_length": "27997422",
       "itunes_duration": "0",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "battery",
@@ -6947,7 +7681,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22349502",
       "itunes_duration": "0",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "precision",
@@ -6968,7 +7705,9 @@
       "enclosure_length": "42503162",
       "itunes_duration": "0",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -6989,7 +7728,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44549938",
       "itunes_duration": "0",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "mutation"
       ]
@@ -7007,7 +7749,9 @@
       "itunes_duration": "0",
       "speakers": [
         "Simon Butler",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -7029,7 +7773,9 @@
       "itunes_duration": "0",
       "speakers": [
         "Webb Space Telescope",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "webb",
@@ -7051,7 +7797,9 @@
       "enclosure_length": "15930677",
       "itunes_duration": "0",
       "speakers": [
-        "Davide Castelvecchi"
+        "Davide Castelvecchi",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -7069,7 +7817,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23147750",
       "itunes_duration": "16:04",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "life",
@@ -7087,7 +7838,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52030098",
       "itunes_duration": "36:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "highlight"
       ]
@@ -7109,7 +7863,8 @@
         "Deep Mind",
         "Kerri Smith",
         "Phil Self",
-        "DeepMind’s AI"
+        "DeepMind’s AI",
+        "Benjamin Thompson"
       ],
       "topics": [
         "nature",
@@ -7131,7 +7886,9 @@
       "itunes_duration": "31:33",
       "speakers": [
         "Covid vaccine",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7153,7 +7910,9 @@
       "speakers": [
         "Sputnik Planitia",
         "Morison et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "pluto",
@@ -7173,7 +7932,9 @@
       "enclosure_length": "25820288",
       "itunes_duration": "17:54",
       "speakers": [
-        "Covid vaccine"
+        "Covid vaccine",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "vaccine",
@@ -7194,7 +7955,9 @@
       "speakers": [
         "James Webb Space Telescope",
         "James Webb",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "megastudie",
@@ -7213,7 +7976,9 @@
       "enclosure_length": "17133485",
       "itunes_duration": "11:52",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7232,7 +7997,9 @@
       "enclosure_length": "39356165",
       "itunes_duration": "26:45",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "diet",
@@ -7251,7 +8018,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32653820",
       "itunes_duration": "22:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "chase",
@@ -7270,7 +8040,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13633974",
       "itunes_duration": "9:26",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "covid",
@@ -7289,7 +8062,9 @@
       "enclosure_length": "33378038",
       "itunes_duration": "22:36",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "researcher",
@@ -7312,7 +8087,9 @@
       "enclosure_length": "35472824",
       "itunes_duration": "24:39",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "squirt",
@@ -7332,7 +8109,9 @@
       "enclosure_length": "26158975",
       "itunes_duration": "18:08",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7353,7 +8132,9 @@
       "enclosure_length": "26302514",
       "itunes_duration": "18:16",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "past",
@@ -7375,7 +8156,9 @@
       "itunes_duration": "20:19",
       "speakers": [
         "Lake Kivu",
-        "Democratic Republic"
+        "Democratic Republic",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -7396,7 +8179,9 @@
       "enclosure_length": "28479892",
       "itunes_duration": "19:47",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -7417,7 +8202,9 @@
       "enclosure_length": "21676796",
       "itunes_duration": "15:01",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "china",
@@ -7440,7 +8227,9 @@
         "Zhang et al News",
         "Guillaume Cabanac",
         "Jeff Tollefson",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "genomics",
@@ -7461,7 +8250,9 @@
       "enclosure_length": "23160172",
       "itunes_duration": "16:04",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7487,7 +8278,9 @@
         "Pham et al",
         "Francis Collin",
         "Francis Collins",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "presence",
@@ -7507,7 +8300,9 @@
       "enclosure_length": "24884833",
       "itunes_duration": "17:15",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7528,7 +8323,9 @@
       "itunes_duration": "25:40",
       "speakers": [
         "Liu et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "acupuncture",
@@ -7548,7 +8345,9 @@
       "enclosure_length": "15132855",
       "itunes_duration": "10:30",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7572,7 +8371,9 @@
       "speakers": [
         "AI Short",
         "Flora Graham",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chance",
@@ -7590,7 +8391,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34111424",
       "itunes_duration": "23:42",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "science",
         "scene"
@@ -7607,7 +8411,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26291868",
       "itunes_duration": "18:16",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "science"
       ]
@@ -7623,7 +8430,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18526808",
       "itunes_duration": "12:51",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "science"
       ]
@@ -7639,7 +8449,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18344453",
       "itunes_duration": "12:43",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "science"
       ]
@@ -7656,7 +8469,9 @@
       "enclosure_length": "15531822",
       "itunes_duration": "10:46",
       "speakers": [
-        "Daniel Bose"
+        "Daniel Bose",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science"
@@ -7674,7 +8489,9 @@
       "enclosure_length": "22567622",
       "itunes_duration": "15:40",
       "speakers": [
-        "Great Barrier Reef"
+        "Great Barrier Reef",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -7695,7 +8512,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29554307",
       "itunes_duration": "20:30",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "covid",
@@ -7716,7 +8536,9 @@
       "enclosure_length": "27785167",
       "itunes_duration": "19:18",
       "speakers": [
-        "Kim et al"
+        "Kim et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "sensor",
@@ -7736,7 +8558,9 @@
       "itunes_duration": "22:26",
       "speakers": [
         "Ismahane Elouafi",
-        "Tang et al"
+        "Tang et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "world",
@@ -7757,7 +8581,9 @@
       "itunes_duration": "13:33",
       "speakers": [
         "Groucutt et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "year",
@@ -7779,7 +8605,9 @@
       "speakers": [
         "Seibold et al",
         "Highlights Massive",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "tree",
@@ -7799,7 +8627,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20041953",
       "itunes_duration": "13:55",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "sport",
@@ -7819,7 +8650,9 @@
       "enclosure_length": "20151236",
       "itunes_duration": "13:58",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7839,7 +8672,9 @@
       "enclosure_length": "47017596",
       "itunes_duration": "32:41",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "isizulu",
@@ -7860,7 +8695,9 @@
       "enclosure_length": "26772502",
       "itunes_duration": "18:34",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7883,7 +8720,9 @@
       "speakers": [
         "Wang et al",
         "Jeff Tollefson",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "brain",
@@ -7903,7 +8742,9 @@
       "enclosure_length": "18289153",
       "itunes_duration": "12:41",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -7923,7 +8764,9 @@
       "enclosure_length": "46116549",
       "itunes_duration": "31:28",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "risk",
@@ -7943,7 +8786,9 @@
       "enclosure_length": "33407902",
       "itunes_duration": "23:13",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "world",
@@ -7961,7 +8806,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34551387",
       "itunes_duration": "24:01",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "people",
@@ -7983,7 +8831,9 @@
       "enclosure_length": "22068008",
       "itunes_duration": "15:18",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8004,7 +8854,9 @@
       "enclosure_length": "39013361",
       "itunes_duration": "26:33",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "violence",
@@ -8022,7 +8874,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29705983",
       "itunes_duration": "20:37",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "england",
@@ -8045,7 +8900,9 @@
       "speakers": [
         "Nick Holmes",
         "Richard Branson",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "heat",
@@ -8065,7 +8922,9 @@
       "enclosure_length": "14688029",
       "itunes_duration": "10:11",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8085,7 +8944,9 @@
       "itunes_duration": "29:30",
       "speakers": [
         "Alfonso Mejia",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "food",
@@ -8104,7 +8965,9 @@
       "enclosure_length": "21737229",
       "itunes_duration": "15:04",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8126,7 +8989,9 @@
       "speakers": [
         "Yuan Longping",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "scientist",
@@ -8146,7 +9011,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31849506",
       "itunes_duration": "22:08",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "flaw",
@@ -8166,7 +9034,9 @@
       "enclosure_length": "16576544",
       "itunes_duration": "11:30",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8187,7 +9057,9 @@
       "itunes_duration": "27:43",
       "speakers": [
         "Xu et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "quantum",
@@ -8209,7 +9081,9 @@
       "itunes_duration": "13:29",
       "speakers": [
         "Pfizer BioNtec",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "curevac",
@@ -8231,7 +9105,9 @@
       "enclosure_length": "44075459",
       "itunes_duration": "30:38",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "community",
@@ -8254,7 +9130,9 @@
       "itunes_duration": "10:46",
       "speakers": [
         "Covid Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8275,7 +9153,9 @@
       "itunes_duration": "25:40",
       "speakers": [
         "Hua et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "google",
@@ -8297,7 +9177,9 @@
       "itunes_duration": "16:25",
       "speakers": [
         "Covid Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8319,7 +9201,9 @@
       "enclosure_length": "26049513",
       "itunes_duration": "18:06",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "origin",
@@ -8339,7 +9223,9 @@
       "itunes_duration": "20:50",
       "speakers": [
         "Autheman et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "hope",
@@ -8359,7 +9245,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30764463",
       "itunes_duration": "21:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "microplastic"
@@ -8379,7 +9268,9 @@
       "speakers": [
         "Scholten et al",
         "Highlights Aesthetic",
-        "Faraway Nasa"
+        "Faraway Nasa",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "zombie",
@@ -8400,7 +9291,9 @@
       "enclosure_length": "12438608",
       "itunes_duration": "8:37",
       "speakers": [
-        "severe disease"
+        "severe disease",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8422,7 +9315,9 @@
       "itunes_duration": "26:28",
       "speakers": [
         "Willett et al News",
-        "Anna Ploszajski"
+        "Anna Ploszajski",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "brain",
@@ -8443,7 +9338,9 @@
       "enclosure_length": "29775452",
       "itunes_duration": "20:41",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8468,7 +9365,9 @@
       "itunes_duration": "19:41",
       "speakers": [
         "Webby Awards",
-        "Nguyen et al"
+        "Nguyen et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "burial",
@@ -8491,7 +9390,9 @@
       "itunes_duration": "26:47",
       "speakers": [
         "Amy Maxmen",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "special",
@@ -8514,7 +9415,9 @@
       "speakers": [
         "Webby Awards",
         "Mann et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "fruit",
@@ -8534,7 +9437,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27197307",
       "itunes_duration": "18:53",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "drugmaker",
@@ -8552,7 +9458,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23480197",
       "itunes_duration": "16:18",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "vaccine"
@@ -8571,7 +9480,9 @@
       "itunes_duration": "26:12",
       "speakers": [
         "Vijaya Ramachandran",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "origami",
@@ -8590,7 +9501,9 @@
       "enclosure_length": "26359360",
       "itunes_duration": "18:19",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8614,7 +9527,9 @@
       "speakers": [
         "Catherine Coleman Flowers",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "sanitation",
@@ -8635,7 +9550,9 @@
       "itunes_duration": "21:51",
       "speakers": [
         "Rick Bright",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8657,7 +9574,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34246488",
       "itunes_duration": "23:47",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "rise",
@@ -8677,7 +9597,9 @@
       "enclosure_length": "18648415",
       "itunes_duration": "12:57",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8699,7 +9621,9 @@
       "itunes_duration": "28:53",
       "speakers": [
         "Briefing Chat",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "antimatter",
@@ -8719,7 +9643,9 @@
       "enclosure_length": "27513747",
       "itunes_duration": "19:07",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8741,7 +9667,9 @@
       "itunes_duration": "28:00",
       "speakers": [
         "Camille Noûs",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "network",
@@ -8762,7 +9690,9 @@
       "enclosure_length": "21088335",
       "itunes_duration": "14:39",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -8783,7 +9713,9 @@
       "enclosure_length": "33570762",
       "itunes_duration": "22:45",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": []
     },
@@ -8798,7 +9730,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18872680",
       "itunes_duration": "13:07",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "pregnancy"
@@ -8817,7 +9752,9 @@
       "itunes_duration": "29:59",
       "speakers": [
         "Fukushima Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "measurement",
@@ -8835,7 +9772,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26251079",
       "itunes_duration": "18:14",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "covid",
@@ -8858,7 +9798,9 @@
       "speakers": [
         "Research Highlight",
         "Graf et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "covid",
@@ -8877,7 +9819,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27788321",
       "itunes_duration": "19:18",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "google",
@@ -8899,7 +9844,9 @@
       "itunes_duration": "26:24",
       "speakers": [
         "Sugimoto et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "quark",
@@ -8919,7 +9866,9 @@
       "enclosure_length": "32940704",
       "itunes_duration": "22:53",
       "speakers": [
-        "Thundercloud Project"
+        "Thundercloud Project",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -8940,7 +9889,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24271432",
       "itunes_duration": "16:51",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "future",
@@ -8960,7 +9912,9 @@
       "itunes_duration": "30:56",
       "speakers": [
         "et al",
-        "Briefing Chat"
+        "Briefing Chat",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "discovery",
@@ -8980,7 +9934,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23425570",
       "itunes_duration": "16:16",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "vaccine",
@@ -9000,7 +9957,9 @@
       "itunes_duration": "27:12",
       "speakers": [
         "Magdalena Skipper",
-        "Bromham et al"
+        "Bromham et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "human",
@@ -9023,7 +9982,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25697601",
       "itunes_duration": "17:51",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "variant"
@@ -9041,7 +10003,9 @@
       "enclosure_length": "40747139",
       "itunes_duration": "27:44",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "einsteinium",
@@ -9059,7 +10023,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30268605",
       "itunes_duration": "21:01",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "world",
@@ -9077,7 +10044,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22270714",
       "itunes_duration": "15:28",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "push",
@@ -9098,7 +10068,9 @@
       "enclosure_length": "40727994",
       "itunes_duration": "27:44",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "device",
@@ -9123,7 +10095,9 @@
         "Joe Biden",
         "Joe Biden’s Covid",
         "Eric Lander",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "discrimination",
@@ -9166,7 +10140,9 @@
       "enclosure_length": "47421374",
       "itunes_duration": "32:23",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "extinction",
@@ -9184,7 +10160,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30802119",
       "itunes_duration": "20:50",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "science",
@@ -9203,7 +10182,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69042885",
       "itunes_duration": "48:00",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "highlight"
       ]
@@ -9243,7 +10225,9 @@
       "itunes_duration": "36:47",
       "speakers": [
         "Nature Briefing",
-        "Next Tianwen-one"
+        "Next Tianwen-one",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "pandemic",
@@ -9263,7 +10247,9 @@
       "enclosure_length": "54781819",
       "itunes_duration": "38:05",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "origin",
@@ -9285,7 +10271,9 @@
       "speakers": [
         "Erna Solberg",
         "Philip Campbell",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "norway",
@@ -9308,7 +10296,9 @@
       "itunes_duration": "46:22",
       "speakers": [
         "Lu et al News",
-        "Morel et al"
+        "Morel et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "ageing",
@@ -9330,7 +10320,9 @@
       "enclosure_length": "51665237",
       "itunes_duration": "35:20",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "neutrinos",
@@ -9351,7 +10343,9 @@
       "enclosure_length": "23498651",
       "itunes_duration": "16:20",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -9372,7 +10366,9 @@
       "enclosure_length": "50374519",
       "itunes_duration": "35:01",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rise",
@@ -9392,7 +10388,9 @@
       "enclosure_length": "27593248",
       "itunes_duration": "19:10",
       "speakers": [
-        "like legs"
+        "like legs",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "read",
@@ -9413,7 +10411,9 @@
       "enclosure_length": "57776404",
       "itunes_duration": "39:36",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "impact",
@@ -9434,7 +10434,9 @@
       "enclosure_length": "49971297",
       "itunes_duration": "34:43",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "radio",
@@ -9531,7 +10533,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55766032",
       "itunes_duration": "38:46",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "brain",
         "debate",
@@ -9552,7 +10557,9 @@
       "speakers": [
         "Haumann et al",
         "Julie Posselt",
-        "Briefing Chat"
+        "Briefing Chat",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "science",
@@ -9572,7 +10579,9 @@
       "enclosure_length": "58329775",
       "itunes_duration": "39:59",
       "speakers": [
-        "Salesperson Record"
+        "Salesperson Record",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "superconductivity"
@@ -9589,7 +10598,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26331629",
       "itunes_duration": "18:17",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "animal"
@@ -9610,7 +10622,9 @@
         "Joe Biden",
         "Donald Trump",
         "Research Highlight",
-        "Schiavo et al"
+        "Schiavo et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "biden",
@@ -9631,7 +10645,9 @@
       "itunes_duration": "35:43",
       "speakers": [
         "Research Highlight",
-        "Lee et al"
+        "Lee et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "greenland",
@@ -9652,7 +10668,9 @@
       "itunes_duration": "37:59",
       "speakers": [
         "Xu et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "decade",
@@ -9677,7 +10695,9 @@
       "speakers": [
         "Shnaiderman et al",
         "Briefing Chat",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "gene",
@@ -9700,7 +10720,9 @@
       "itunes_duration": "39:09",
       "speakers": [
         "et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "computer",
@@ -9720,7 +10742,9 @@
       "itunes_duration": "35:40",
       "speakers": [
         "Kim et al",
-        "Elon Musk"
+        "Elon Musk",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "view",
@@ -9740,7 +10764,9 @@
       "itunes_duration": "34:39",
       "speakers": [
         "Vepsäläinen et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "challenge",
@@ -9762,7 +10788,9 @@
       "itunes_duration": "37:20",
       "speakers": [
         "Henry et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "world",
@@ -9784,7 +10812,9 @@
         "Guo et al",
         "Shahal et al",
         "Sugiura Subscribe",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "chemical",
@@ -9804,7 +10834,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26175817",
       "itunes_duration": "18:11",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "read",
         "pluto",
@@ -9822,7 +10855,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48799317",
       "itunes_duration": "33:54",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "skin"
       ]
@@ -9839,7 +10875,9 @@
       "enclosure_length": "61855137",
       "itunes_duration": "42:26",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "people",
@@ -9859,7 +10897,9 @@
       "enclosure_length": "55583363",
       "itunes_duration": "38:03",
       "speakers": [
-        "Arora et al"
+        "Arora et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "graphene",
@@ -9878,7 +10918,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66678524",
       "itunes_duration": "46:21",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "coronavirus",
@@ -9898,7 +10941,9 @@
       "enclosure_length": "36538963",
       "itunes_duration": "24:48",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "year",
@@ -9921,7 +10966,8 @@
       "itunes_duration": "33:03",
       "speakers": [
         "Benjamin Thompson",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -9944,7 +10990,9 @@
       "speakers": [
         "Research Highlight",
         "Armstrong et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "structure",
@@ -9965,7 +11013,9 @@
       "enclosure_length": "46224594",
       "itunes_duration": "32:08",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -9987,7 +11037,9 @@
       "speakers": [
         "Maria Konnikova",
         "Research Highlight",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "playing",
@@ -10007,7 +11059,9 @@
       "enclosure_length": "54119181",
       "itunes_duration": "37:37",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -10030,7 +11084,9 @@
       "itunes_duration": "29:23",
       "speakers": [
         "Nidhi Subbaraman",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "incest",
@@ -10051,7 +11107,9 @@
       "enclosure_length": "22428365",
       "itunes_duration": "15:35",
       "speakers": [
-        "International Space Station"
+        "International Space Station",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "long",
@@ -10073,7 +11131,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48276140",
       "itunes_duration": "33:33",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "surgisphere",
@@ -10095,7 +11156,9 @@
       "enclosure_length": "32852261",
       "itunes_duration": "22:15",
       "speakers": [
-        "Dielforder et al"
+        "Dielforder et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "space"
@@ -10113,7 +11176,9 @@
       "enclosure_length": "1876524",
       "itunes_duration": "1:17",
       "speakers": [
-        "com Editorial"
+        "com Editorial",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "shutdownstem",
@@ -10135,7 +11200,9 @@
       "speakers": [
         "George Floyd",
         "Richard Van Noorden",
-        "Nick Howe"
+        "Nick Howe",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -10158,7 +11225,9 @@
       "speakers": [
         "Lee et al",
         "Xu et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "skin",
@@ -10178,7 +11247,8 @@
       "itunes_duration": "26:37",
       "speakers": [
         "Denis Shiryaev",
-        "Noah Baker"
+        "Noah Baker",
+        "Benjamin Thompson"
       ],
       "topics": [
         "coronapod",
@@ -10200,7 +11270,9 @@
       "enclosure_length": "29106008",
       "itunes_duration": "19:38",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "catalyst",
@@ -10221,7 +11293,8 @@
       "enclosure_length": "49259214",
       "itunes_duration": "34:15",
       "speakers": [
-        "Noah Baker"
+        "Noah Baker",
+        "Benjamin Thompson"
       ],
       "topics": [
         "coronapod",
@@ -10247,7 +11320,9 @@
       "speakers": [
         "Gu et al",
         "Highlights Dazzling",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "human"
@@ -10265,7 +11340,9 @@
       "enclosure_length": "45523655",
       "itunes_duration": "31:38",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -10289,7 +11366,9 @@
         "Elisabeth Bik",
         "Tully Monster",
         "Wang et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "super",
@@ -10314,7 +11393,9 @@
       "itunes_duration": "28:04",
       "speakers": [
         "Nora Volkow",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "coronapod",
@@ -10339,7 +11420,9 @@
       "itunes_duration": "22:18",
       "speakers": [
         "Bacteria Can Eat",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "galileo",
@@ -10360,7 +11443,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46032655",
       "itunes_duration": "32:00",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronapod",
         "contact",
@@ -10384,7 +11470,9 @@
       "itunes_duration": "23:05",
       "speakers": [
         "Arzi et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "april",
@@ -10432,7 +11520,9 @@
       "enclosure_length": "33979117",
       "itunes_duration": "23:03",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "april",
@@ -10501,7 +11591,9 @@
       "enclosure_length": "24807162",
       "itunes_duration": "16:40",
       "speakers": [
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "april",
@@ -10548,7 +11640,9 @@
       "speakers": [
         "Broken Hill",
         "Yuk et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "april",
@@ -10594,7 +11688,9 @@
       "speakers": [
         "Falanga et al",
         "Ouyang et al",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "march",
@@ -10617,7 +11713,9 @@
       "speakers": [
         "Marie Curie Radioactive",
         "Marie Skłodowska Curie",
-        "Lizzie Gibney"
+        "Lizzie Gibney",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -10665,7 +11763,9 @@
         "Marie Skłodowska Curie",
         "Rosamund Pike",
         "Marie Curie",
-        "Nature Briefing"
+        "Nature Briefing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "march",
@@ -10686,7 +11786,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26235634",
       "itunes_duration": "18:14",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "podcast",
         "extra",
@@ -10707,7 +11810,9 @@
       "enclosure_length": "21516642",
       "itunes_duration": "14:57",
       "speakers": [
-        "Kerri Smith"
+        "Kerri Smith",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "long",
@@ -10729,7 +11834,9 @@
       "enclosure_length": "40291910",
       "itunes_duration": "27:26",
       "speakers": [
-        "Li et al"
+        "Li et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "march",
@@ -10752,7 +11859,9 @@
       "enclosure_length": "35945322",
       "itunes_duration": "24:25",
       "speakers": [
-        "Highlights Calorie"
+        "Highlights Calorie",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "march",
@@ -10773,7 +11882,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22463308",
       "itunes_duration": "15:03",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "coronavirus"
       ]
@@ -10791,7 +11903,9 @@
       "itunes_duration": "21:22",
       "speakers": [
         "Wang et al",
-        "Highlights Ancient"
+        "Highlights Ancient",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "february",
@@ -10815,7 +11929,9 @@
       "itunes_duration": "5:11",
       "speakers": [
         "Nick Howe",
-        "Bartosz Gryzbowski"
+        "Bartosz Gryzbowski",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -10841,7 +11957,9 @@
       "speakers": [
         "Highlights Deciphering",
         "Gu et al",
-        "Liu et al"
+        "Liu et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "february",
@@ -10862,7 +11980,9 @@
       "enclosure_length": "39472381",
       "itunes_duration": "26:52",
       "speakers": [
-        "Yu et al"
+        "Yu et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "february",
@@ -10882,7 +12002,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37775880",
       "itunes_duration": "25:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "february",
         "office",
@@ -10909,7 +12032,9 @@
       "speakers": [
         "Isaac Asimov",
         "mummy speaks",
-        "Howard et al"
+        "Howard et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "january",
@@ -10934,7 +12059,9 @@
       "speakers": [
         "grey hair",
         "Zhang et al",
-        "Research Highlight"
+        "Research Highlight",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "january",
@@ -10957,7 +12084,9 @@
       "enclosure_length": "37590487",
       "itunes_duration": "25:34",
       "speakers": [
-        "Ciurlo et al"
+        "Ciurlo et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "january",
@@ -10980,7 +12109,9 @@
       "enclosure_length": "16031497",
       "itunes_duration": "10:34",
       "speakers": [
-        "Davide Castelvecchi"
+        "Davide Castelvecchi",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "january",
@@ -11001,7 +12132,9 @@
       "itunes_duration": "38:54",
       "speakers": [
         "Li et al",
-        "John Goodenough"
+        "John Goodenough",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "january",
@@ -11021,7 +12154,9 @@
       "enclosure_length": "9480861",
       "itunes_duration": "12:29",
       "speakers": [
-        "Max Planck"
+        "Max Planck",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -11045,7 +12180,9 @@
       "speakers": [
         "Greta Thunberg",
         "Farhana Yamin",
-        "Sara Abdulla"
+        "Sara Abdulla",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -11067,7 +12204,9 @@
       "enclosure_length": "16720736",
       "itunes_duration": "11:03",
       "speakers": [
-        "Nick Howe"
+        "Nick Howe",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -11086,7 +12225,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47587046",
       "itunes_duration": "32:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "december",
         "body",
@@ -11105,7 +12247,9 @@
       "enclosure_length": "23351488",
       "itunes_duration": "15:39",
       "speakers": [
-        "Kerri Smith"
+        "Kerri Smith",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "long",
@@ -11127,7 +12271,9 @@
       "enclosure_length": "40124252",
       "itunes_duration": "27:20",
       "speakers": [
-        "Highlights Killer"
+        "Highlights Killer",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "december",
@@ -11148,7 +12294,9 @@
       "enclosure_length": "41160694",
       "itunes_duration": "28:02",
       "speakers": [
-        "Highlights Bare"
+        "Highlights Bare",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "december",
@@ -11167,7 +12315,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13125385",
       "itunes_duration": "13:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "pastcast",
@@ -11186,7 +12337,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36311039",
       "itunes_duration": "24:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "nature",
@@ -11206,7 +12360,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27140789",
       "itunes_duration": "18:50",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "antibiotic",
@@ -11227,7 +12384,9 @@
       "enclosure_length": "33406479",
       "itunes_duration": "23:13",
       "speakers": [
-        "Duan et al"
+        "Duan et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "november",
@@ -11248,7 +12407,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25753172",
       "itunes_duration": "17:53",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "anniversary"
@@ -11266,7 +12428,9 @@
       "enclosure_length": "45173401",
       "itunes_duration": "31:24",
       "speakers": [
-        "Piot et al"
+        "Piot et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "november",
@@ -11293,7 +12457,9 @@
         "Carl Sagan",
         "David Kaiser",
         "Charles Cockell",
-        "Frank Drake"
+        "Frank Drake",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -11318,7 +12484,9 @@
       "enclosure_length": "35626275",
       "itunes_duration": "24:46",
       "speakers": [
-        "Seibold et al"
+        "Seibold et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "october",
@@ -11340,7 +12508,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14640845",
       "itunes_duration": "10:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "podcast",
         "extra",
@@ -11359,7 +12530,9 @@
       "enclosure_length": "38156095",
       "itunes_duration": "26:31",
       "speakers": [
-        "Research Highlight"
+        "Research Highlight",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "october",
@@ -11380,7 +12553,9 @@
       "enclosure_length": "34874474",
       "itunes_duration": "24:15",
       "speakers": [
-        "Burstein et al"
+        "Burstein et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "october",
@@ -11403,7 +12578,9 @@
       "enclosure_length": "33919198",
       "itunes_duration": "23:35",
       "speakers": [
-        "Highlights Vampire"
+        "Highlights Vampire",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "october",
@@ -11425,7 +12602,8 @@
       "enclosure_length": "6339074",
       "itunes_duration": "4:24",
       "speakers": [
-        "Benjamin Thompson"
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -11450,7 +12628,8 @@
       "itunes_duration": "8:02",
       "speakers": [
         "Didier Queloz",
-        "Benjamin Thompson"
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -11475,7 +12654,9 @@
       "itunes_duration": "25:57",
       "speakers": [
         "Mei et al",
-        "Research Highlight"
+        "Research Highlight",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "october",
@@ -11497,7 +12678,9 @@
       "enclosure_length": "15226756",
       "itunes_duration": "15:53",
       "speakers": [
-        "Fred Vine"
+        "Fred Vine",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -11521,7 +12704,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33810274",
       "itunes_duration": "23:30",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "september",
         "mystery",
@@ -11543,7 +12729,9 @@
       "enclosure_length": "22981376",
       "itunes_duration": "15:58",
       "speakers": [
-        "Randall Munroe"
+        "Randall Munroe",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -11563,7 +12751,9 @@
       "enclosure_length": "26996654",
       "itunes_duration": "18:45",
       "speakers": [
-        "Covering Climate Now"
+        "Covering Climate Now",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "climate"
@@ -11583,7 +12773,9 @@
       "speakers": [
         "Farhana Yamin",
         "Randall Munroe",
-        "Extinction Rebellion"
+        "Extinction Rebellion",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "september",
@@ -11604,7 +12796,9 @@
       "enclosure_length": "34545824",
       "itunes_duration": "24:01",
       "speakers": [
-        "Zheng et al"
+        "Zheng et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "september",
@@ -11625,7 +12819,9 @@
       "enclosure_length": "36706168",
       "itunes_duration": "25:31",
       "speakers": [
-        "stun prey"
+        "stun prey",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "september",
@@ -11645,7 +12841,9 @@
       "enclosure_length": "13389616",
       "itunes_duration": "18:36",
       "speakers": [
-        "Margaret Thatcher"
+        "Margaret Thatcher",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -11670,7 +12868,9 @@
       "itunes_duration": "26:10",
       "speakers": [
         "Research Highlight",
-        "hominin skull"
+        "hominin skull",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "august",
@@ -11691,7 +12891,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35067282",
       "itunes_duration": "24:23",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "august",
         "hate",
@@ -11710,7 +12913,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35443520",
       "itunes_duration": "24:38",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "august",
         "espionage",
@@ -11732,7 +12938,9 @@
       "itunes_duration": "26:08",
       "speakers": [
         "Tuna Methylmercury",
-        "Schartup et al"
+        "Schartup et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "august",
@@ -11756,7 +12964,9 @@
       "speakers": [
         "Microbe-free placentas",
         "de Goffau",
-        "Masson et al"
+        "Masson et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "august",
@@ -11778,7 +12988,9 @@
       "itunes_duration": "15:25",
       "speakers": [
         "Jon Agar",
-        "John Westcott"
+        "John Westcott",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -11801,7 +13013,9 @@
       "itunes_duration": "19:04",
       "speakers": [
         "Neukom et al",
-        "Boris Johnson"
+        "Boris Johnson",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "july",
@@ -11822,7 +13036,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37646741",
       "itunes_duration": "26:09",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "backchat",
         "july",
@@ -11844,7 +13061,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38348690",
       "itunes_duration": "26:39",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "july",
         "quantum",
@@ -11866,7 +13086,9 @@
       "itunes_duration": "13:21",
       "speakers": [
         "Alex Witze",
-        "Nick Howe"
+        "Nick Howe",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "july",
@@ -11885,7 +13107,9 @@
       "enclosure_length": "33267550",
       "itunes_duration": "23:08",
       "speakers": [
-        "Tshitoyan et al"
+        "Tshitoyan et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "july",
@@ -11908,7 +13132,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11823052",
       "itunes_duration": "16:25",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "pastcast",
@@ -11929,7 +13156,9 @@
       "enclosure_length": "39286522",
       "itunes_duration": "27:19",
       "speakers": [
-        "Wang et al"
+        "Wang et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "june",
@@ -11951,7 +13180,9 @@
       "itunes_duration": "23:35",
       "speakers": [
         "Highlights Crafting",
-        "Aubin et al"
+        "Aubin et al",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "june",
@@ -11973,7 +13204,9 @@
       "enclosure_length": "35007186",
       "itunes_duration": "24:20",
       "speakers": [
-        "Highlights Macaques"
+        "Highlights Macaques",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "june",
@@ -11994,7 +13227,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30843650",
       "itunes_duration": "21:26",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "june",
         "microbe",
@@ -12015,7 +13251,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15241977",
       "itunes_duration": "15:50",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "pastcast",
@@ -12035,7 +13274,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23188932",
       "itunes_duration": "16:07",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "fusion",
         "gender",
@@ -12055,7 +13297,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39924416",
       "itunes_duration": "27:45",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "plankton",
         "population",
@@ -12074,7 +13319,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34114355",
       "itunes_duration": "23:43",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "recoding",
         "genome",
@@ -12093,7 +13341,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30814562",
       "itunes_duration": "21:25",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "urban",
         "rural",
@@ -12113,7 +13364,9 @@
       "enclosure_length": "38520010",
       "itunes_duration": "26:46",
       "speakers": [
-        "Road Initiative"
+        "Road Initiative",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "china",
@@ -12137,7 +13390,9 @@
       "speakers": [
         "James Watson",
         "Francis Crick",
-        "Raymond Gosling"
+        "Raymond Gosling",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -12159,7 +13414,8 @@
       "itunes_duration": "10:37",
       "speakers": [
         "Benjamin Thompson",
-        "Nisha Gaind"
+        "Nisha Gaind",
+        "Noah Baker"
       ],
       "topics": [
         "april",
@@ -12182,7 +13438,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39966063",
       "itunes_duration": "27:46",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "april",
         "reviving",
@@ -12205,7 +13464,8 @@
       "itunes_duration": "6:32",
       "speakers": [
         "Davide Castelvecchi",
-        "Benjamin Thompson"
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -12225,7 +13485,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34202539",
       "itunes_duration": "23:46",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "april",
         "heart",
@@ -12246,7 +13509,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36868557",
       "itunes_duration": "25:37",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "april",
         "mdma",
@@ -12266,7 +13532,9 @@
       "enclosure_length": "30654759",
       "itunes_duration": "21:18",
       "speakers": [
-        "Backchat March"
+        "Backchat March",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "backchat",
@@ -12288,7 +13556,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42558255",
       "itunes_duration": "29:35",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "march",
         "impact",
@@ -12311,7 +13582,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36576584",
       "itunes_duration": "25:25",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "march",
         "antibiotics",
@@ -12331,7 +13605,9 @@
       "enclosure_length": "11602674",
       "itunes_duration": "16:04",
       "speakers": [
-        "Arthur Eddington"
+        "Arthur Eddington",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -12356,7 +13632,8 @@
       "itunes_duration": "11:44",
       "speakers": [
         "Benjamin Thompson",
-        "Amy Maxmen"
+        "Amy Maxmen",
+        "Noah Baker"
       ],
       "topics": [
         "march",
@@ -12377,7 +13654,9 @@
       "enclosure_length": "38952578",
       "itunes_duration": "27:04",
       "speakers": [
-        "Mileva Marić"
+        "Mileva Marić",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "march",
@@ -12399,7 +13678,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44752377",
       "itunes_duration": "31:06",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "february",
         "cuckoo",
@@ -12420,7 +13702,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36267477",
       "itunes_duration": "25:12",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "february",
         "mouse",
@@ -12439,7 +13724,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33999279",
       "itunes_duration": "23:37",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "february",
         "atherosclerosis",
@@ -12457,7 +13745,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35825132",
       "itunes_duration": "24:53",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "february",
         "chemical",
@@ -12477,7 +13768,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31402144",
       "itunes_duration": "21:48",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "january",
         "woman",
@@ -12497,7 +13791,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33425948",
       "itunes_duration": "23:13",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "january",
         "downturn",
@@ -12515,7 +13812,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33549935",
       "itunes_duration": "23:18",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "january",
         "splicing",
@@ -12537,7 +13837,9 @@
       "speakers": [
         "Nick Sireau",
         "Geoff Marsh",
-        "Lakshminarayan Ranganath"
+        "Lakshminarayan Ranganath",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -12559,7 +13861,9 @@
       "enclosure_length": "30044758",
       "itunes_duration": "20:52",
       "speakers": [
-        "Fast Radio Bursts"
+        "Fast Radio Bursts",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "january",
@@ -12581,7 +13885,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33585866",
       "itunes_duration": "23:19",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "december",
         "reporter",
@@ -12599,7 +13906,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48357808",
       "itunes_duration": "33:36",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "december",
         "quantum",
@@ -12618,7 +13928,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14186694",
       "itunes_duration": "9:45",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "podcast",
         "extra",
@@ -12638,7 +13951,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34895210",
       "itunes_duration": "24:15",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "december",
         "science",
@@ -12656,7 +13972,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35070759",
       "itunes_duration": "24:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "december",
         "heart",
@@ -12676,7 +13995,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35182215",
       "itunes_duration": "24:27",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "clock",
@@ -12698,7 +14020,9 @@
       "enclosure_length": "35018846",
       "itunes_duration": "24:20",
       "speakers": [
-        "moving parts"
+        "moving parts",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "november",
@@ -12718,7 +14042,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31345328",
       "itunes_duration": "21:46",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "barnard",
@@ -12737,7 +14064,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36445323",
       "itunes_duration": "25:19",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "designer",
@@ -12757,7 +14087,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32398643",
       "itunes_duration": "22:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "mood",
@@ -12777,7 +14110,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34297010",
       "itunes_duration": "23:50",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "october",
         "cannabis",
@@ -12797,7 +14133,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33089984",
       "itunes_duration": "22:58",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "october",
         "life",
@@ -12816,7 +14155,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44049483",
       "itunes_duration": "30:36",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "october",
         "latent",
@@ -12836,7 +14178,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31748622",
       "itunes_duration": "22:03",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "september",
         "biosensor",
@@ -12854,7 +14199,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36661263",
       "itunes_duration": "25:28",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "september",
         "emission",
@@ -12873,7 +14221,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35433509",
       "itunes_duration": "24:37",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "september",
         "drawing",
@@ -12892,7 +14243,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33241293",
       "itunes_duration": "23:06",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "september",
         "space",
@@ -12913,7 +14267,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33134621",
       "itunes_duration": "23:01",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "august",
         "gravity",
@@ -12932,7 +14289,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34905613",
       "itunes_duration": "24:12",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "backchat",
         "august",
@@ -12954,7 +14314,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35923055",
       "itunes_duration": "24:57",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "august",
         "quantum",
@@ -12973,7 +14336,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43130932",
       "itunes_duration": "29:58",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "august",
         "bumblebee",
@@ -12993,7 +14359,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38904994",
       "itunes_duration": "27:02",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "august",
         "aggression",
@@ -13012,7 +14381,9 @@
       "enclosure_length": "46249554",
       "itunes_duration": "32:08",
       "speakers": [
-        "terraforming Mars"
+        "terraforming Mars",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "august",
@@ -13035,7 +14406,9 @@
       "enclosure_length": "41508401",
       "itunes_duration": "28:51",
       "speakers": [
-        "Dna tests"
+        "Dna tests",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "july",
@@ -13055,7 +14428,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38387574",
       "itunes_duration": "26:40",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "july",
         "scaffold",
@@ -13078,7 +14454,9 @@
       "enclosure_length": "44856170",
       "itunes_duration": "31:10",
       "speakers": [
-        "Cape Town"
+        "Cape Town",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "july",
@@ -13098,7 +14476,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44026589",
       "itunes_duration": "30:35",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "july",
         "computer",
@@ -13119,7 +14500,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27752392",
       "itunes_duration": "19:14",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "backchat",
         "june",
@@ -13140,7 +14524,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42086227",
       "itunes_duration": "29:14",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "june",
         "pollution",
@@ -13160,7 +14547,9 @@
       "enclosure_length": "39107379",
       "itunes_duration": "27:10",
       "speakers": [
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "june",
@@ -13181,7 +14570,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47847540",
       "itunes_duration": "33:12",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "june",
         "baobab",
@@ -13203,7 +14595,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44844385",
       "itunes_duration": "31:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "june",
         "animal",
@@ -13224,7 +14619,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35125580",
       "itunes_duration": "24:24",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "diversity",
         "physics",
@@ -13244,7 +14642,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46097850",
       "itunes_duration": "32:02",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "climate",
         "cost",
@@ -13265,7 +14666,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40807876",
       "itunes_duration": "28:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "proton",
         "research",
@@ -13286,7 +14690,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42267366",
       "itunes_duration": "29:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "neuroscience",
         "crystal",
@@ -13305,7 +14712,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41720420",
       "itunes_duration": "28:59",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "embryo",
         "fear",
@@ -13325,7 +14735,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29802042",
       "itunes_duration": "20:42",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "april",
         "brain",
@@ -13345,7 +14758,9 @@
       "enclosure_length": "39628559",
       "itunes_duration": "27:31",
       "speakers": [
-        "Backchat April"
+        "Backchat April",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "backchat",
@@ -13368,7 +14783,9 @@
       "enclosure_length": "45237340",
       "itunes_duration": "31:26",
       "speakers": [
-        "big effects"
+        "big effects",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "april",
@@ -13390,7 +14807,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32588224",
       "itunes_duration": "22:39",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "april",
         "power",
@@ -13411,7 +14831,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35024156",
       "itunes_duration": "24:20",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "april",
         "human",
@@ -13431,7 +14854,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33100315",
       "itunes_duration": "23:00",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "march",
         "chemistry",
@@ -13451,7 +14877,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43456649",
       "itunes_duration": "30:08",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "march",
         "cavefish",
@@ -13472,7 +14901,9 @@
       "enclosure_length": "33837992",
       "itunes_duration": "23:28",
       "speakers": [
-        "Geoengineering Antarctica"
+        "Geoengineering Antarctica",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "march",
@@ -13491,7 +14922,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31188428",
       "itunes_duration": "21:40",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "march",
         "graphene",
@@ -13511,7 +14945,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45133600",
       "itunes_duration": "31:19",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "march",
         "brain",
@@ -13532,7 +14969,9 @@
       "enclosure_length": "33965927",
       "itunes_duration": "23:30",
       "speakers": [
-        "Backchat February"
+        "Backchat February",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "backchat",
@@ -13553,7 +14992,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39695641",
       "itunes_duration": "27:32",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "february",
         "focus",
@@ -13571,7 +15013,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39050772",
       "itunes_duration": "27:05",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "february",
         "clock",
@@ -13591,7 +15036,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43269964",
       "itunes_duration": "30:01",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "february",
         "timber",
@@ -13611,7 +15059,9 @@
       "enclosure_length": "30455464",
       "itunes_duration": "21:08",
       "speakers": [
-        "Stone Age"
+        "Stone Age",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "february",
@@ -13634,7 +15084,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41410532",
       "itunes_duration": "28:44",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "january",
         "robot",
@@ -13654,7 +15107,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34914388",
       "itunes_duration": "24:13",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "january",
         "climate",
@@ -13673,7 +15129,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46344618",
       "itunes_duration": "32:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "january",
         "conflict",
@@ -13694,7 +15153,9 @@
       "enclosure_length": "36023485",
       "itunes_duration": "24:58",
       "speakers": [
-        "Donald Trump"
+        "Donald Trump",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "backchat",
@@ -13716,7 +15177,9 @@
       "enclosure_length": "54127347",
       "itunes_duration": "37:34",
       "speakers": [
-        "Earth science AI"
+        "Earth science AI",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "december",
@@ -13736,7 +15199,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43668536",
       "itunes_duration": "30:18",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "december",
         "volcanoes",
@@ -13755,7 +15221,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33533640",
       "itunes_duration": "23:16",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "december",
         "exoplanet",
@@ -13775,7 +15244,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34287812",
       "itunes_duration": "23:47",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "unnatural",
@@ -13794,7 +15266,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37324696",
       "itunes_duration": "25:54",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "sleep",
@@ -13813,7 +15288,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34360921",
       "itunes_duration": "23:49",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "inequality",
@@ -13831,7 +15309,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32588562",
       "itunes_duration": "22:36",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "axolotls",
@@ -13850,7 +15331,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36098805",
       "itunes_duration": "25:02",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "november",
         "evolving",
@@ -13870,7 +15354,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42129477",
       "itunes_duration": "29:14",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "october",
         "undead",
@@ -13890,7 +15377,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31738534",
       "itunes_duration": "22:01",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "october",
         "neutron",
@@ -13911,7 +15401,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42564726",
       "itunes_duration": "29:32",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "october",
         "dwarf",
@@ -13931,7 +15424,9 @@
       "enclosure_length": "86846049",
       "itunes_duration": "1:00:17",
       "speakers": [
-        "Nature Extra"
+        "Nature Extra",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -13949,7 +15444,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57504779",
       "itunes_duration": "39:54",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -13967,7 +15465,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33779207",
       "itunes_duration": "23:26",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -13985,7 +15486,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32983936",
       "itunes_duration": "22:53",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14003,7 +15507,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39735299",
       "itunes_duration": "27:34",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14021,7 +15528,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34924655",
       "itunes_duration": "24:14",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14039,7 +15549,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40058059",
       "itunes_duration": "27:48",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14057,7 +15570,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41670017",
       "itunes_duration": "28:55",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14075,7 +15591,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "31:27",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14094,7 +15613,9 @@
       "enclosure_length": "45080909",
       "itunes_duration": "31:17",
       "speakers": [
-        "Al Gore"
+        "Al Gore",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14113,7 +15634,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41785733",
       "itunes_duration": "29:00",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14131,7 +15655,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "29:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14149,7 +15676,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40161374",
       "itunes_duration": "27:52",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14168,7 +15698,9 @@
       "enclosure_length": "37231266",
       "itunes_duration": "25:48",
       "speakers": [
-        "Grand Challenges"
+        "Grand Challenges",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "grand",
@@ -14189,7 +15721,9 @@
       "itunes_duration": "17:34",
       "speakers": [
         "Kerri Smith",
-        "Adrian Owen"
+        "Adrian Owen",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "grey",
@@ -14207,7 +15741,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "23:01",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "backchat",
         "june"
@@ -14224,7 +15761,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "29:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14242,7 +15782,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "29:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14260,7 +15803,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "30:52",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14279,7 +15825,9 @@
       "enclosure_length": "0",
       "itunes_duration": "24:44",
       "speakers": [
-        "Grand Challenges"
+        "Grand Challenges",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "grand",
@@ -14299,7 +15847,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "30:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14318,7 +15869,9 @@
       "enclosure_length": "10794980",
       "itunes_duration": "7:28",
       "speakers": [
-        "Shamini Bundell"
+        "Shamini Bundell",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14337,7 +15890,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34191978",
       "itunes_duration": "23:43",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "backchat"
       ]
@@ -14354,7 +15910,9 @@
       "enclosure_length": "0",
       "itunes_duration": "27:57",
       "speakers": [
-        "colour vision"
+        "colour vision",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14372,7 +15930,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "29:20",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -14389,7 +15950,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "29:40",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -14406,7 +15970,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "28:43",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -14425,7 +15992,9 @@
       "itunes_duration": "29:53",
       "speakers": [
         "Grand Challenges",
-        "Ageing Ageing"
+        "Ageing Ageing",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "grand",
@@ -14445,7 +16014,9 @@
       "itunes_duration": "7:27",
       "speakers": [
         "Shamini Bundell",
-        "Graham Robert Scott"
+        "Graham Robert Scott",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14465,7 +16036,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "30:57",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14483,7 +16057,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34124652",
       "itunes_duration": "23:40",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "backchat",
         "april"
@@ -14501,7 +16078,9 @@
       "enclosure_length": "0",
       "itunes_duration": "28:52",
       "speakers": [
-        "East Antarctica"
+        "East Antarctica",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14520,7 +16099,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "29:26",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14540,7 +16122,9 @@
       "itunes_duration": "27:58",
       "speakers": [
         "Grand Challenges",
-        "Mental Health Mental"
+        "Mental Health Mental",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "grand",
@@ -14561,7 +16145,9 @@
       "enclosure_length": "9654694",
       "itunes_duration": "6:41",
       "speakers": [
-        "Shamini Bundell"
+        "Shamini Bundell",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14581,7 +16167,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "29:29",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14600,7 +16189,9 @@
       "enclosure_length": "0",
       "itunes_duration": "23:16",
       "speakers": [
-        "Great Barrier Reef"
+        "Great Barrier Reef",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "march"
@@ -14617,7 +16208,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "28:25",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14635,7 +16229,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "27:44",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14654,7 +16251,9 @@
       "enclosure_length": "23247526",
       "itunes_duration": "16:08",
       "speakers": [
-        "Arthur Eddington"
+        "Arthur Eddington",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rebroadcast",
@@ -14674,7 +16273,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44119483",
       "itunes_duration": "30:37",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14692,7 +16294,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39374590",
       "itunes_duration": "27:19",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14712,7 +16317,9 @@
       "itunes_duration": "21:48",
       "speakers": [
         "reluctant sources",
-        "space missions"
+        "space missions",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "backchat",
@@ -14733,7 +16340,9 @@
       "speakers": [
         "Shamini Bundell",
         "Richard Hodson",
-        "David Gullen"
+        "David Gullen",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14753,7 +16362,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40973029",
       "itunes_duration": "28:26",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14772,7 +16384,9 @@
       "enclosure_length": "40244853",
       "itunes_duration": "27:55",
       "speakers": [
-        "Winston Churchill"
+        "Winston Churchill",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14792,7 +16406,9 @@
       "enclosure_length": "17417341",
       "itunes_duration": "12:05",
       "speakers": [
-        "Raymond Dart"
+        "Raymond Dart",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rebroadcast",
@@ -14812,7 +16428,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44994640",
       "itunes_duration": "31:14",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14830,7 +16449,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42494629",
       "itunes_duration": "29:29",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14849,7 +16471,9 @@
       "enclosure_length": "8147829",
       "itunes_duration": "5:38",
       "speakers": [
-        "Shamini Bundell"
+        "Shamini Bundell",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14869,7 +16493,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32740051",
       "itunes_duration": "22:43",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "january"
       ]
@@ -14885,7 +16512,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44530149",
       "itunes_duration": "30:54",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14903,7 +16533,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44509964",
       "itunes_duration": "30:53",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -14922,7 +16555,9 @@
       "enclosure_length": "22471847",
       "itunes_duration": "15:36",
       "speakers": [
-        "William Röntgen"
+        "William Röntgen",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rebroadcast",
@@ -14943,7 +16578,9 @@
       "enclosure_length": "33352723",
       "itunes_duration": "23:09",
       "speakers": [
-        "New Zealand"
+        "New Zealand",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14965,7 +16602,9 @@
       "speakers": [
         "reading picks",
         "science carols",
-        "word games"
+        "word games",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -14984,7 +16623,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43162471",
       "itunes_duration": "29:57",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15003,7 +16645,9 @@
       "enclosure_length": "9046625",
       "itunes_duration": "12:32",
       "speakers": [
-        "Max Planck"
+        "Max Planck",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rebroadcast",
@@ -15023,7 +16667,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43485317",
       "itunes_duration": "30:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15043,7 +16690,9 @@
       "itunes_duration": "5:42",
       "speakers": [
         "Adam Levy",
-        "Troy Stieglitz"
+        "Troy Stieglitz",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15063,7 +16712,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37414517",
       "itunes_duration": "25:58",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15081,7 +16733,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41073667",
       "itunes_duration": "28:30",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15100,7 +16755,9 @@
       "enclosure_length": "29006949",
       "itunes_duration": "20:07",
       "speakers": [
-        "Donald Trump"
+        "Donald Trump",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15118,7 +16775,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28458568",
       "itunes_duration": "19:44",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15136,7 +16796,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13177927",
       "itunes_duration": "13:44",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "rebroadcast",
         "nature",
@@ -15155,7 +16818,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44678544",
       "itunes_duration": "31:00",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15174,7 +16840,9 @@
       "enclosure_length": "41477258",
       "itunes_duration": "28:47",
       "speakers": [
-        "Werner Herzog"
+        "Werner Herzog",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15194,7 +16862,9 @@
       "enclosure_length": "11567138",
       "itunes_duration": "8:01",
       "speakers": [
-        "Shamini Bundell"
+        "Shamini Bundell",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15214,7 +16884,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45206011",
       "itunes_duration": "31:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15233,7 +16906,9 @@
       "enclosure_length": "32598877",
       "itunes_duration": "22:37",
       "speakers": [
-        "Nature Backchat"
+        "Nature Backchat",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15251,7 +16926,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40466279",
       "itunes_duration": "28:05",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15269,7 +16947,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19279627",
       "itunes_duration": "13:23",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "rebroadcast",
         "nature",
@@ -15288,7 +16969,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42055245",
       "itunes_duration": "29:11",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15309,7 +16993,9 @@
       "speakers": [
         "Nature Extra",
         "Nobel News Science",
-        "Nobel Prizes"
+        "Nobel Prizes",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15329,7 +17015,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33275367",
       "itunes_duration": "23:05",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15348,7 +17037,9 @@
       "enclosure_length": "35859419",
       "itunes_duration": "24:52",
       "speakers": [
-        "Nature Backchat"
+        "Nature Backchat",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15366,7 +17057,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37878987",
       "itunes_duration": "26:17",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15386,7 +17080,9 @@
       "itunes_duration": "7:38",
       "speakers": [
         "Miranda Keeling",
-        "Andrew Neil Gray"
+        "Andrew Neil Gray",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15406,7 +17102,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42652579",
       "itunes_duration": "29:36",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15424,7 +17123,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15293893",
       "itunes_duration": "15:57",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "rebroadcast",
         "nature",
@@ -15443,7 +17145,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40330406",
       "itunes_duration": "27:59",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15462,7 +17167,9 @@
       "enclosure_length": "51848241",
       "itunes_duration": "35:59",
       "speakers": [
-        "Star Trek"
+        "Star Trek",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15481,7 +17188,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20907627",
       "itunes_duration": "14:30",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15501,7 +17211,9 @@
       "itunes_duration": "6:17",
       "speakers": [
         "Kerri Smith",
-        "Brian Trent"
+        "Brian Trent",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "future",
@@ -15519,7 +17231,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33627076",
       "itunes_duration": "23:20",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "august"
@@ -15536,7 +17251,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37303939",
       "itunes_duration": "25:53",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15554,7 +17272,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13441887",
       "itunes_duration": "18:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "rebroadcast",
         "nature",
@@ -15573,7 +17294,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40322875",
       "itunes_duration": "27:59",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15591,7 +17315,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36943803",
       "itunes_duration": "25:38",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15609,7 +17336,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40565927",
       "itunes_duration": "28:09",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15628,7 +17358,9 @@
       "enclosure_length": "22284073",
       "itunes_duration": "15:29",
       "speakers": [
-        "John Westcott"
+        "John Westcott",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rebroadcast",
@@ -15649,7 +17381,9 @@
       "enclosure_length": "9703840",
       "itunes_duration": "6:43",
       "speakers": [
-        "Adam Levy"
+        "Adam Levy",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15670,7 +17404,9 @@
       "enclosure_length": "38862258",
       "itunes_duration": "26:58",
       "speakers": [
-        "indigenous peoples"
+        "indigenous peoples",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15690,7 +17426,9 @@
       "enclosure_length": "37998519",
       "itunes_duration": "26:22",
       "speakers": [
-        "Nature Backchat"
+        "Nature Backchat",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15708,7 +17446,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40748335",
       "itunes_duration": "28:16",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15726,7 +17467,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46565744",
       "itunes_duration": "32:19",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15745,7 +17489,9 @@
       "enclosure_length": "39329365",
       "itunes_duration": "27:17",
       "speakers": [
-        "swan song"
+        "swan song",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15765,7 +17511,9 @@
       "enclosure_length": "8648453",
       "itunes_duration": "5:59",
       "speakers": [
-        "Wendy Nikel"
+        "Wendy Nikel",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15785,7 +17533,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39381419",
       "itunes_duration": "27:20",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15803,7 +17554,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40067231",
       "itunes_duration": "27:48",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15821,7 +17575,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32929038",
       "itunes_duration": "22:51",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "backchat",
@@ -15839,7 +17596,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42020257",
       "itunes_duration": "29:09",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15857,7 +17617,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23707350",
       "itunes_duration": "16:29",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "rebroadcast",
         "nature",
@@ -15876,7 +17639,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40447329",
       "itunes_duration": "28:04",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15894,7 +17660,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44267039",
       "itunes_duration": "30:43",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -15913,7 +17682,9 @@
       "enclosure_length": "9027256",
       "itunes_duration": "6:15",
       "speakers": [
-        "Shamini Bundell"
+        "Shamini Bundell",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15932,7 +17703,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42903037",
       "itunes_duration": "29:46",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -15949,7 +17723,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44229234",
       "itunes_duration": "30:42",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -15968,7 +17745,9 @@
       "itunes_duration": "25:18",
       "speakers": [
         "Nature Extra",
-        "Backchat May"
+        "Backchat May",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -15987,7 +17766,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40938437",
       "itunes_duration": "28:24",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -16005,7 +17787,9 @@
       "enclosure_length": "15301191",
       "itunes_duration": "15:54",
       "speakers": [
-        "Jonathan Shanklin"
+        "Jonathan Shanklin",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "rebroadcast",
@@ -16027,7 +17811,9 @@
       "speakers": [
         "Adam Levy",
         "Shamini Bundell",
-        "Karlo Yeager Rodríguez"
+        "Karlo Yeager Rodríguez",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16047,7 +17833,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39897896",
       "itunes_duration": "27:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -16064,7 +17853,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40740085",
       "itunes_duration": "28:16",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16085,7 +17877,9 @@
       "speakers": [
         "Nature Extra",
         "Backchat April",
-        "Prime Minister"
+        "Prime Minister",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16105,7 +17899,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39538560",
       "itunes_duration": "27:26",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16123,7 +17920,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43279073",
       "itunes_duration": "30:02",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16141,7 +17941,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20907213",
       "itunes_duration": "14:30",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "rebroadcast",
         "nature",
@@ -16160,7 +17963,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40460978",
       "itunes_duration": "28:05",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16179,7 +17985,9 @@
       "enclosure_length": "8470270",
       "itunes_duration": "5:52",
       "speakers": [
-        "Shamini Bundell"
+        "Shamini Bundell",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16199,7 +18007,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44854039",
       "itunes_duration": "31:07",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16218,7 +18029,9 @@
       "enclosure_length": "45049467",
       "itunes_duration": "31:16",
       "speakers": [
-        "radio waves"
+        "radio waves",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16239,7 +18052,9 @@
       "itunes_duration": "24:58",
       "speakers": [
         "Nature Extra",
-        "Backchat March"
+        "Backchat March",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16259,7 +18074,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45601751",
       "itunes_duration": "31:39",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16277,7 +18095,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39772610",
       "itunes_duration": "27:36",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16297,7 +18118,9 @@
       "itunes_duration": "5:16",
       "speakers": [
         "Shamini Bundell",
-        "Samantha Murray"
+        "Samantha Murray",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16317,7 +18140,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42663026",
       "itunes_duration": "29:36",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16337,7 +18163,9 @@
       "itunes_duration": "22:13",
       "speakers": [
         "Nature Extra",
-        "Backchat February"
+        "Backchat February",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16357,7 +18185,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36253694",
       "itunes_duration": "25:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16375,7 +18206,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39423649",
       "itunes_duration": "27:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16395,7 +18229,9 @@
       "itunes_duration": "7:27",
       "speakers": [
         "Adam Levy",
-        "Alexandra Witze"
+        "Alexandra Witze",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16414,7 +18250,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42032982",
       "itunes_duration": "29:10",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16432,7 +18271,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43521235",
       "itunes_duration": "30:12",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16452,7 +18294,9 @@
       "itunes_duration": "6:25",
       "speakers": [
         "Shamini Bundell",
-        "Mike Brotherton"
+        "Mike Brotherton",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16474,7 +18318,9 @@
       "itunes_duration": "30:00",
       "speakers": [
         "Nature Extra",
-        "Backchat January"
+        "Backchat January",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16495,7 +18341,9 @@
       "enclosure_length": "32622708",
       "itunes_duration": "22:38",
       "speakers": [
-        "John Dee"
+        "John Dee",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16515,7 +18363,9 @@
       "enclosure_length": "37086058",
       "itunes_duration": "25:44",
       "speakers": [
-        "murder mystery"
+        "murder mystery",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16534,7 +18384,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39530615",
       "itunes_duration": "27:26",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16552,7 +18405,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31259885",
       "itunes_duration": "21:41",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16571,7 +18427,9 @@
       "enclosure_length": "15634118",
       "itunes_duration": "10:50",
       "speakers": [
-        "Travis Langley"
+        "Travis Langley",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -16593,7 +18451,9 @@
       "enclosure_length": "69318255",
       "itunes_duration": "48:07",
       "speakers": [
-        "Star Wa"
+        "Star Wa",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16612,7 +18472,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36798093",
       "itunes_duration": "25:32",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16630,7 +18493,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38762359",
       "itunes_duration": "26:54",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16649,7 +18515,9 @@
       "enclosure_length": "7937418",
       "itunes_duration": "5:30",
       "speakers": [
-        "Kerri Smith"
+        "Kerri Smith",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16669,7 +18537,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30788619",
       "itunes_duration": "21:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "extra",
@@ -16688,7 +18559,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36237712",
       "itunes_duration": "25:09",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16708,7 +18582,9 @@
       "itunes_duration": "31:57",
       "speakers": [
         "taste perception",
-        "transfer plan"
+        "transfer plan",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16727,7 +18603,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37535811",
       "itunes_duration": "26:03",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16747,7 +18626,9 @@
       "itunes_duration": "6:31",
       "speakers": [
         "Shamini Bundell",
-        "Alex Shvartsman"
+        "Alex Shvartsman",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16767,7 +18648,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39720210",
       "itunes_duration": "27:34",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16785,7 +18669,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37635761",
       "itunes_duration": "26:07",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16805,7 +18692,9 @@
       "itunes_duration": "28:11",
       "speakers": [
         "Nature Extra",
-        "Backchat October"
+        "Backchat October",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16825,7 +18714,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40646049",
       "itunes_duration": "28:12",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16843,7 +18735,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39754188",
       "itunes_duration": "27:35",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16863,7 +18758,9 @@
       "itunes_duration": "4:25",
       "speakers": [
         "Geoff Marsh",
-        "Carie Juettner"
+        "Carie Juettner",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16883,7 +18780,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41223372",
       "itunes_duration": "28:39",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16901,7 +18801,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40685276",
       "itunes_duration": "28:16",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16919,7 +18822,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34637282",
       "itunes_duration": "24:04",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16939,7 +18845,9 @@
       "itunes_duration": "25:18",
       "speakers": [
         "Nature Extra",
-        "Backchat September"
+        "Backchat September",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16959,7 +18867,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39966030",
       "itunes_duration": "27:47",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -16979,7 +18890,9 @@
       "itunes_duration": "14:45",
       "speakers": [
         "Steve Silberman",
-        "Geoff Marsh"
+        "Geoff Marsh",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -16998,7 +18911,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32901373",
       "itunes_duration": "22:52",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17018,7 +18934,9 @@
       "itunes_duration": "6:53",
       "speakers": [
         "Shamini Bundell",
-        "Eric Garside Hosted"
+        "Eric Garside Hosted",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17038,7 +18956,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39948773",
       "itunes_duration": "27:46",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17057,7 +18978,9 @@
       "enclosure_length": "17913991",
       "itunes_duration": "12:26",
       "speakers": [
-        "David Wootton"
+        "David Wootton",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -17077,7 +19000,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40377053",
       "itunes_duration": "28:04",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17098,7 +19024,9 @@
       "speakers": [
         "Nature Extra",
         "Backchat August",
-        "Geoff Brumfiel"
+        "Geoff Brumfiel",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17119,7 +19047,9 @@
       "enclosure_length": "37370094",
       "itunes_duration": "25:59",
       "speakers": [
-        "Hurricane Katrina"
+        "Hurricane Katrina",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17138,7 +19068,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23573376",
       "itunes_duration": "16:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17156,7 +19089,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36864270",
       "itunes_duration": "25:37",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17174,7 +19110,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40831463",
       "itunes_duration": "28:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17194,7 +19133,9 @@
       "itunes_duration": "5:11",
       "speakers": [
         "Shamini Bundell",
-        "Dan Stout Hosted"
+        "Dan Stout Hosted",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17216,7 +19157,9 @@
       "itunes_duration": "23:22",
       "speakers": [
         "Nature Extra",
-        "Backchat July"
+        "Backchat July",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17236,7 +19179,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38895846",
       "itunes_duration": "27:02",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17254,7 +19200,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39588643",
       "itunes_duration": "27:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17273,7 +19222,9 @@
       "enclosure_length": "22879351",
       "itunes_duration": "15:54",
       "speakers": [
-        "Frank Wilczek"
+        "Frank Wilczek",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "podcast",
@@ -17292,7 +19243,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41120143",
       "itunes_duration": "28:35",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17310,7 +19264,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38653204",
       "itunes_duration": "26:52",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17330,7 +19287,9 @@
       "itunes_duration": "6:17",
       "speakers": [
         "Geoff Marsh",
-        "Roth Hosted"
+        "Roth Hosted",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17350,7 +19309,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36855640",
       "itunes_duration": "25:36",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17371,7 +19333,9 @@
       "speakers": [
         "Nature Extra",
         "Backchat June",
-        "Jurassic World"
+        "Jurassic World",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17391,7 +19355,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38429030",
       "itunes_duration": "26:42",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17410,7 +19377,9 @@
       "enclosure_length": "39314209",
       "itunes_duration": "27:19",
       "speakers": [
-        "Bronze Age"
+        "Bronze Age",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17429,7 +19398,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37587518",
       "itunes_duration": "26:07",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17449,7 +19421,9 @@
       "itunes_duration": "24:33",
       "speakers": [
         "Nature Extra",
-        "Backchat May"
+        "Backchat May",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17469,7 +19443,9 @@
       "itunes_duration": "5:43",
       "speakers": [
         "Geoff Marsh",
-        "Tian Li"
+        "Tian Li",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17488,7 +19464,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36425695",
       "itunes_duration": "25:19",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -17505,7 +19484,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33885887",
       "itunes_duration": "23:32",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "audiofile",
         "search",
@@ -17523,7 +19505,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39392151",
       "itunes_duration": "27:22",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -17542,7 +19527,9 @@
       "itunes_duration": "28:48",
       "speakers": [
         "Hadron Collider",
-        "Oliver Sacks"
+        "Oliver Sacks",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17560,7 +19547,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37184810",
       "itunes_duration": "25:50",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast"
@@ -17577,7 +19567,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40381976",
       "itunes_duration": "28:04",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17596,7 +19589,9 @@
       "enclosure_length": "42564488",
       "itunes_duration": "29:29",
       "speakers": [
-        "Geoff Marsh"
+        "Geoff Marsh",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "audiofile",
@@ -17615,7 +19610,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35610475",
       "itunes_duration": "24:45",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17633,7 +19631,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32733155",
       "itunes_duration": "22:45",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "backchat",
@@ -17651,7 +19652,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "30:31",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17669,7 +19673,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42442666",
       "itunes_duration": "29:30",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17687,7 +19694,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41098127",
       "itunes_duration": "28:34",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17705,7 +19715,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40320641",
       "itunes_duration": "28:01",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "podcast",
@@ -17725,7 +19738,9 @@
       "itunes_duration": "21:12",
       "speakers": [
         "Nature Extra",
-        "Backchat Where"
+        "Backchat Where",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17745,7 +19760,8 @@
       "itunes_duration": "5:33",
       "speakers": [
         "Noah Baker",
-        "Deborah Walker"
+        "Deborah Walker",
+        "Benjamin Thompson"
       ],
       "topics": [
         "nature",
@@ -17766,7 +19782,9 @@
       "itunes_duration": "5:33",
       "speakers": [
         "Geoff Marsh",
-        "Christoph Weber"
+        "Christoph Weber",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17785,7 +19803,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22928265",
       "itunes_duration": "21:12",
-      "speakers": [],
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
       "topics": [
         "nature",
         "extra"
@@ -17803,7 +19824,8 @@
       "enclosure_length": "5503683",
       "itunes_duration": "4:25",
       "speakers": [
-        "Noah Baker"
+        "Noah Baker",
+        "Benjamin Thompson"
       ],
       "topics": [
         "nature",
@@ -17826,7 +19848,9 @@
       "speakers": [
         "Lizzie Gibney",
         "Benjy’s Birthday",
-        "John Grant"
+        "John Grant",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17848,7 +19872,9 @@
       "itunes_duration": "4:25",
       "speakers": [
         "Kerri Smith",
-        "Marissa Lingen"
+        "Marissa Lingen",
+        "Benjamin Thompson",
+        "Noah Baker"
       ],
       "topics": [
         "nature",
@@ -17864,869 +19890,870 @@
 
 ## Episodes (newest first)
 
-- 2026-02-18 — This chunk of glass could store two million books for 10,000 years — speakers: Nature Briefing
-- 2026-02-13 — Briefing Chat: Caffeine slows brain ageing, suggests decades of data — speakers: Nature Briefing
-- 2026-02-11 — These hungry immune cells tidy sleeping flies' brains — speakers: Cho et al, Nature Briefing
-- 2026-02-06 — Briefing Chat: 'External lungs' keep man alive for 48 hours until transplant — speakers: Nature Briefing
-- 2026-02-04 — These mysterious ridges could help skin regenerate — speakers: Nature Briefing
-- 2026-01-30 — Briefing Chat: What Brazilian centenarians could reveal about the science of ageing — speakers: Nature Briefing
-- 2026-01-28 — How your brain chemistry rewards hard work — speakers: Nature Briefing
-- 2026-01-26 — Audio long read: ‘I rarely get outside’ — scientists ditch fieldwork in the age of AI
-- 2026-01-23 — Briefing Chat: The canny cow that can use tools, and how babies share their microbiomes — speakers: Nature Briefing
-- 2026-01-21 — The biggest 'Schrödinger's cat' yet — physicists put 7,000 atoms in superposition
-- 2026-01-16 — Briefing Chat: Can NASA return rocks from Mars? And why dogs have long ears — speakers: Nature Briefing
-- 2026-01-14 — AI can turbocharge scientists' careers — but limit their scope — speakers: Hao et al, Nature Briefing
-- 2026-01-07 — A mysterious ancient fingerprint and a lemon-shaped planet — the stories you’ve missed — speakers: Nature Briefing
-- 2026-01-01 — Science in 2026: what to expect this year — speakers: Miryam Naddaf, Nature Briefing
-- 2025-12-29 — Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
-- 2025-12-24 — The Nature Podcast highlights of 2025 — speakers: Werner Heisenberg, Lizzie Gibney, Nature Briefing
-- 2025-12-19 — Nature's News & Views roundup of 2025 — speakers: Asteroid Bennu
-- 2025-12-17 — The Nature Podcast festive spectacular 2025 — speakers: Very Model, Nature Briefing
-- 2025-12-10 — Neanderthals mastered fire — 400,000 years ago — speakers: Research Highlight
-- 2025-12-03 — Photobombing satellites could ruin the night sky for space telescopes — speakers: Borlaff et al, Nature Briefing
-- 2025-11-28 — Audio long read: Faulty mitochondria cause deadly diseases — fixing them is about to get a lot easier
-- 2025-11-26 — This is what lightning on Mars sounds like — speakers: Jeff Tollefson, Jenna Ahart, Nature Briefing
-- 2025-11-19 — Insulin cream offers needle-free option for diabetes — speakers: Wei et al, Research Highlight, Zhang et, Nature Briefing
-- 2025-11-14 — ‘Malicious use is already happening’: machine-learning pioneer on making AI safer — speakers: Yoshua Bengio
-- 2025-11-12 — Huge eruption on a distant star confirmed at last — speakers: Callingham et al, Research Highlight, Nature Briefing
-- 2025-11-05 — Meet the ‘Wee-rex’. Tiny tyrannosaur is its own species — speakers: Nature Briefing
-- 2025-10-29 — Bowhead whales can live for more than 200 years – this protein might be why — speakers: Ahmadi et al Subscribe, Nature Briefing
-- 2025-10-24 — Audio long read: How to get the best night’s sleep — what the science says
-- 2025-10-22 — Honey, I ate the kids: how hunger and hormones make mice aggressive — speakers: Nature Briefing
-- 2025-10-15 — New bird flu vaccine could tackle multiple variants with one shot — speakers: Kok et al, Nature Briefing
-- 2025-10-08 — How stereotypes shape AI – and what that means for the future of hiring — speakers: Flora Graham, Nature Briefing
-- 2025-10-01 — Ancient viral DNA helps human embryos develop — speakers: Highlights Longer, Research Highlight, Nature Briefing
-- 2025-09-26 — Audio long read: Autism is on the rise — what’s really behind the increase? — speakers: Kennedy Jr
-- 2025-09-24 — How a dangerous tick-borne virus sneaks into the brain — speakers: Nature Briefing
-- 2025-09-19 — Apocalypse then: how cataclysms shaped human societies — speakers: Lizzie Wade
-- 2025-09-17 — This AI tool predicts your risk of 1,000 diseases — by looking at your medical records — speakers: Nature Briefing
-- 2025-09-12 — Detecting gravitational waves — speakers: Benjamin Thompson, Cole Miller, Albert Einstein
-- 2025-09-10 — Feeling the heat: fossil-fuel producers linked to dozens of heatwaves — speakers: Donald Trump, Nature Briefing
-- 2025-09-08 — Research misconduct: how the scientific community is fighting back — speakers: Brian Wansink, Dan Fox, Nature Briefing
-- 2025-09-05 — Nature goes inside the world’s largest ‘mosquito factory’ — here’s the buzz — speakers: Mariana Lenharo, Nature Briefing
-- 2025-09-03 — Two ants, two species, one mother — speakers: Highlights Humans, Nature Briefing
-- 2025-08-29 — Audio long read: How to detect consciousness in people, animals and maybe even AI
-- 2025-08-27 — Viral spread: how rumours surged in revolutionary France — speakers: Zapperi et al, Nature Briefing
-- 2025-08-20 — Fusion energy gets a boost from cold fusion chemistry — speakers: Chen et al, Nature Briefing
-- 2025-08-15 — Controversial climate report from Trump team galvanizes scientists into action
-- 2025-08-13 — Sun-powered flyers could explore the mysterious mesosphere — speakers: Nature Briefing
-- 2025-08-06 — Underwater glue shows its sticking power in rubber duck test — speakers: Liao et al, Arnold et al, Nature Briefing
-- 2025-07-30 — Earth's deepest ecosystem discovered six miles below the sea — speakers: Peng et, Research Highlight, Chia et al News, Lizzie Gibney, Nature Briefing
-- 2025-07-23 — Giant laser heats solid gold to 14 times its melting point — speakers: Alex Witze, Nature Briefing
-- 2025-07-21 — AI, bounties and culture change, how scientists are taking on errors — speakers: Dan Fox, Nature Briefing
-- 2025-07-16 — ‘Stealth flippers’ helped this extinct mega-predator stalk its prey
-- 2025-07-11 — Three weeks in a hide to spot one elusive bear: the life of a wildlife film-maker
-- 2025-07-09 — Ancient DNA reveals farming led to more human diseases — speakers: Lefebvre et al, Nature Briefing
-- 2025-07-04 — Audio long read: How to speak to a vaccine sceptic — research reveals what works
-- 2025-07-02 — 3D-printed fake wasps help explain bad animal mimicry — speakers: Queen Hatshepsut, Nature Briefing
-- 2025-06-25 — Is AI watching you? The hidden links between research and surveillance — speakers: Kalluri et al
-- 2025-06-18 — Flight simulator for moths reveals they navigate by starlight — speakers: Dreyer et al, Highlights Nigeria, Nature Briefing
-- 2025-06-13 — Hundreds of physicists on a remote island: we visit the ultimate quantum party — speakers: Werner Heisenberg, Lizzie Gibney
-- 2025-06-11 — This stretchy neural implant grows with an axolotl's brain — speakers: amphibian embryos, Sheng et al, Research Highlight, Nature Briefing
-- 2025-06-06 — Trump wants to put humans on Mars: what scientists think of the plan — speakers: Donald Trump
-- 2025-06-04 — Male mice can grow female organs — if their mothers lack iron — speakers: Blurry Vision, Nature Briefing
-- 2025-05-30 — Audio long read: Three ways to cool Earth by pulling carbon from the sky
-- 2025-05-28 — AI linked to boom in biomedical papers, infrared contact lenses, and is Earth's core leaking? — speakers: Nature Briefing
-- 2025-05-21 — These malaria drugs treat the mosquitos — not the people — speakers: Nature Briefing
-- 2025-05-14 — How to transport antimatter — stick it on the back of a van — speakers: Research Highlight, Nature Briefing
-- 2025-05-12 — NSF terminates huge number of grants and stops awarding new ones — speakers: Donald Trump
-- 2025-05-07 — Herring population loses migration 'memory' after heavy fishing — speakers: Herring Selective, Slotte et al, Nature Briefing
-- 2025-04-30 — The dismantling of US science: can it survive Trump 2.0? — speakers: Donald Trump, Research Highlight, Gregor Mendel, Nature Briefing
-- 2025-04-25 — Audio long read: Do smartphones and social media really harm teens’ mental health?
-- 2025-04-23 — A brand-new colour created by lasers, a pig-liver transplant trial gets the green light, and a nugget-sized chunk of lab-grown meat — speakers: Nature Briefing
-- 2025-04-22 — ‘Dark matter’, 'Big Bang' and ‘spin’: how physics terms can confuse researchers
-- 2025-04-16 — What a trove of potato genomes reveals about the humble spud
-- 2025-04-09 — Long-awaited ape genomes give new insights into their evolution — and ours — speakers: Hadron Collider, Webby Awards, Nature Briefing
-- 2025-04-07 — From Hippocrates to COVID-19: the scientific fight to prove diseases can be airborne — speakers: Carl Zimmer, Hidden History
-- 2025-04-04 — Trump team removes senior NIH chiefs in shock move — speakers: Trump White House
-- 2025-04-02 — World’s tiniest pacemaker could revolutionize heart surgery — speakers: Zhang et al, Eyting et al, Nature Briefing
-- 2025-03-28 — Audio long read: How quickly are you ageing? What molecular ‘clocks’ can tell you about your health
-- 2025-03-26 — New lasso-shaped antibiotic kills drug-resistant bacteria — speakers: Jangra et al, Florian Altermatt, Iceberg Breaks Away Subscribe, Nature Briefing
-- 2025-03-19 — Tiny satellite sets new record for secure quantum communication — speakers: Li et al, James Zou, Donald Trump, Max Kozlov, Nature Briefing
-- 2025-03-12 — Sapphire anvils squeeze metals atomically-thin — speakers: Nature Briefing
-- 2025-03-05 — Earliest crafted bone tools date back 1.5 million years — speakers: Ignacio de la Torre, Highlights Cane, Nature Briefing
-- 2025-02-28 — Audio long read: Why kids need to take more risks — science reveals the benefits of wild, free play
-- 2025-02-26 — If your heart stops, this smartwatch-AI can call for help — speakers: Jake Sunshine, Nature Briefing
-- 2025-02-19 — Racist ratings linger in five-star systems — a thumbs up could fix that — speakers: Richard Van Noorden, Trump’s Dei, Rfk Jr, Nature Briefing
-- 2025-02-12 — Record-breaking neutrino detected by huge underwater telescope — speakers: Donald Trump, Briefing Chat, Nature Briefing
-- 2025-02-07 — From viral variants to devastating storms, how names shape the public's reaction to science
-- 2025-02-05 — Kids' real-world arithmetic skills don't transfer to the classroom — speakers: Highlights Wolverine, Gu et al News, Nature Briefing
-- 2025-01-31 — The AI revolution is running out of data. What can researchers do?
-- 2025-01-29 — Asteroid Bennu contains building blocks of life — speakers: Asteroid Bennu, Glavin et al, Research Highlight, Lombardo et al, Hermenegildo et al
-- 2025-01-22 — What's the best way to become a professor? The answer depends on where you are — speakers: Lim et al, Research Highlight, Noah Baker, Ehsan Masood, Nature Briefing
-- 2025-01-15 — AI-designed antivenoms could help treat lethal snakebites — speakers: Nature Briefing
-- 2025-01-08 — A new-year round-up of the science stories you may have missed — speakers: Nature Briefing
-- 2025-01-01 — Science in 2025: what to expect this year — speakers: Miryam Naddaf, Donald Trump
-- 2024-12-27 — Audio long read: How a silly science prize changed my career — speakers: Marc Abrahams
-- 2024-12-25 — The Nature Podcast highlights of 2024 — speakers: Agnew Sex
-- 2024-12-20 — Behind the scenes of Nature News and Views in 2024
-- 2024-12-18 — The Nature Podcast festive spectacular 2024 — speakers: Nature Briefing
-- 2024-12-16 — Should offensive species names be changed? The organisms that honour dictators, racists and criminals — speakers: Pond Opcono, Pond Erik Mcnerny, Pond Richard Smithson, Pond Thick-billed, Andrew Spencer
-- 2024-12-11 — Targeted mRNA therapy tackles deadly pregnancy condition in mice — speakers: Research Highlight, Kalogriopoulos et al, Nature Briefing
-- 2024-12-09 — Will humans ever speak wolf? A scientist unravels the complexities of animal chatter — speakers: Zoologist Arik Kershenbaum, Arik Kershenbaum Hyrax, Arik Kershenbaum Pileated
-- 2024-12-04 — Why breast cancer treatments might work best just after your period — speakers: Briefing Chat, Nature Briefing
-- 2024-11-29 — Audio long read: AI has dreamt up a blizzard of new proteins. Do any of them actually work?
-- 2024-11-27 — Fossilised faeces helps explain dinosaurs' rise to dominance — speakers: Highlights Bacteria, Liao et al, Nature Briefing
-- 2024-11-20 — Squid-inspired pills squirt drugs straight into your gut — speakers: Arrick et al, Zhang et al, Liu et al, Nature Briefing
-- 2024-11-13 — Bone marrow in the skull plays a surprisingly important role in ageing — speakers: Highlights Elderly, Leckenby et al, Nature Briefing
-- 2024-11-08 — ’Rapture and beauty’: a writer's portrait of the International Space Station — speakers: Samantha Harvey Vintage
-- 2024-11-06 — Surprise finding reveals mitochondrial 'energy factories' come in two different types — speakers: Ryu et al, Nature Briefing
+- 2026-02-20 — Briefing chat: How hovering bumblebees keep their cool — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-02-18 — This chunk of glass could store two million books for 10,000 years — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-02-13 — Briefing Chat: Caffeine slows brain ageing, suggests decades of data — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-02-11 — These hungry immune cells tidy sleeping flies' brains — speakers: Cho et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-02-06 — Briefing Chat: 'External lungs' keep man alive for 48 hours until transplant — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-02-04 — These mysterious ridges could help skin regenerate — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-01-30 — Briefing Chat: What Brazilian centenarians could reveal about the science of ageing — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-01-28 — How your brain chemistry rewards hard work — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-01-26 — Audio long read: ‘I rarely get outside’ — scientists ditch fieldwork in the age of AI — speakers: Benjamin Thompson, Noah Baker
+- 2026-01-23 — Briefing Chat: The canny cow that can use tools, and how babies share their microbiomes — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-01-21 — The biggest 'Schrödinger's cat' yet — physicists put 7,000 atoms in superposition — speakers: Benjamin Thompson, Noah Baker
+- 2026-01-16 — Briefing Chat: Can NASA return rocks from Mars? And why dogs have long ears — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-01-14 — AI can turbocharge scientists' careers — but limit their scope — speakers: Hao et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-01-07 — A mysterious ancient fingerprint and a lemon-shaped planet — the stories you’ve missed — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2026-01-01 — Science in 2026: what to expect this year — speakers: Miryam Naddaf, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-12-29 — Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment? — speakers: Benjamin Thompson, Noah Baker
+- 2025-12-24 — The Nature Podcast highlights of 2025 — speakers: Werner Heisenberg, Lizzie Gibney, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-12-19 — Nature's News & Views roundup of 2025 — speakers: Asteroid Bennu, Benjamin Thompson, Noah Baker
+- 2025-12-17 — The Nature Podcast festive spectacular 2025 — speakers: Very Model, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-12-10 — Neanderthals mastered fire — 400,000 years ago — speakers: Research Highlight, Benjamin Thompson, Noah Baker
+- 2025-12-03 — Photobombing satellites could ruin the night sky for space telescopes — speakers: Borlaff et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-11-28 — Audio long read: Faulty mitochondria cause deadly diseases — fixing them is about to get a lot easier — speakers: Benjamin Thompson, Noah Baker
+- 2025-11-26 — This is what lightning on Mars sounds like — speakers: Jeff Tollefson, Jenna Ahart, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-11-19 — Insulin cream offers needle-free option for diabetes — speakers: Wei et al, Research Highlight, Zhang et, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-11-14 — ‘Malicious use is already happening’: machine-learning pioneer on making AI safer — speakers: Yoshua Bengio, Benjamin Thompson, Noah Baker
+- 2025-11-12 — Huge eruption on a distant star confirmed at last — speakers: Callingham et al, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-11-05 — Meet the ‘Wee-rex’. Tiny tyrannosaur is its own species — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-10-29 — Bowhead whales can live for more than 200 years – this protein might be why — speakers: Ahmadi et al Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-10-24 — Audio long read: How to get the best night’s sleep — what the science says — speakers: Benjamin Thompson, Noah Baker
+- 2025-10-22 — Honey, I ate the kids: how hunger and hormones make mice aggressive — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-10-15 — New bird flu vaccine could tackle multiple variants with one shot — speakers: Kok et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-10-08 — How stereotypes shape AI – and what that means for the future of hiring — speakers: Flora Graham, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-10-01 — Ancient viral DNA helps human embryos develop — speakers: Highlights Longer, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-09-26 — Audio long read: Autism is on the rise — what’s really behind the increase? — speakers: Kennedy Jr, Benjamin Thompson, Noah Baker
+- 2025-09-24 — How a dangerous tick-borne virus sneaks into the brain — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-09-19 — Apocalypse then: how cataclysms shaped human societies — speakers: Lizzie Wade, Benjamin Thompson, Noah Baker
+- 2025-09-17 — This AI tool predicts your risk of 1,000 diseases — by looking at your medical records — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-09-12 — Detecting gravitational waves — speakers: Benjamin Thompson, Cole Miller, Albert Einstein, Noah Baker
+- 2025-09-10 — Feeling the heat: fossil-fuel producers linked to dozens of heatwaves — speakers: Donald Trump, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-09-08 — Research misconduct: how the scientific community is fighting back — speakers: Brian Wansink, Dan Fox, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-09-05 — Nature goes inside the world’s largest ‘mosquito factory’ — here’s the buzz — speakers: Mariana Lenharo, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-09-03 — Two ants, two species, one mother — speakers: Highlights Humans, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-08-29 — Audio long read: How to detect consciousness in people, animals and maybe even AI — speakers: Benjamin Thompson, Noah Baker
+- 2025-08-27 — Viral spread: how rumours surged in revolutionary France — speakers: Zapperi et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-08-20 — Fusion energy gets a boost from cold fusion chemistry — speakers: Chen et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-08-15 — Controversial climate report from Trump team galvanizes scientists into action — speakers: Benjamin Thompson, Noah Baker
+- 2025-08-13 — Sun-powered flyers could explore the mysterious mesosphere — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-08-06 — Underwater glue shows its sticking power in rubber duck test — speakers: Liao et al, Arnold et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-07-30 — Earth's deepest ecosystem discovered six miles below the sea — speakers: Peng et, Research Highlight, Chia et al News, Lizzie Gibney, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-07-23 — Giant laser heats solid gold to 14 times its melting point — speakers: Alex Witze, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-07-21 — AI, bounties and culture change, how scientists are taking on errors — speakers: Dan Fox, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-07-16 — ‘Stealth flippers’ helped this extinct mega-predator stalk its prey — speakers: Benjamin Thompson, Noah Baker
+- 2025-07-11 — Three weeks in a hide to spot one elusive bear: the life of a wildlife film-maker — speakers: Benjamin Thompson, Noah Baker
+- 2025-07-09 — Ancient DNA reveals farming led to more human diseases — speakers: Lefebvre et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-07-04 — Audio long read: How to speak to a vaccine sceptic — research reveals what works — speakers: Benjamin Thompson, Noah Baker
+- 2025-07-02 — 3D-printed fake wasps help explain bad animal mimicry — speakers: Queen Hatshepsut, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-06-25 — Is AI watching you? The hidden links between research and surveillance — speakers: Kalluri et al, Benjamin Thompson, Noah Baker
+- 2025-06-18 — Flight simulator for moths reveals they navigate by starlight — speakers: Dreyer et al, Highlights Nigeria, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-06-13 — Hundreds of physicists on a remote island: we visit the ultimate quantum party — speakers: Werner Heisenberg, Lizzie Gibney, Benjamin Thompson, Noah Baker
+- 2025-06-11 — This stretchy neural implant grows with an axolotl's brain — speakers: amphibian embryos, Sheng et al, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-06-06 — Trump wants to put humans on Mars: what scientists think of the plan — speakers: Donald Trump, Benjamin Thompson, Noah Baker
+- 2025-06-04 — Male mice can grow female organs — if their mothers lack iron — speakers: Blurry Vision, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-05-30 — Audio long read: Three ways to cool Earth by pulling carbon from the sky — speakers: Benjamin Thompson, Noah Baker
+- 2025-05-28 — AI linked to boom in biomedical papers, infrared contact lenses, and is Earth's core leaking? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-05-21 — These malaria drugs treat the mosquitos — not the people — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-05-14 — How to transport antimatter — stick it on the back of a van — speakers: Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-05-12 — NSF terminates huge number of grants and stops awarding new ones — speakers: Donald Trump, Benjamin Thompson, Noah Baker
+- 2025-05-07 — Herring population loses migration 'memory' after heavy fishing — speakers: Herring Selective, Slotte et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-04-30 — The dismantling of US science: can it survive Trump 2.0? — speakers: Donald Trump, Research Highlight, Gregor Mendel, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-04-25 — Audio long read: Do smartphones and social media really harm teens’ mental health? — speakers: Benjamin Thompson, Noah Baker
+- 2025-04-23 — A brand-new colour created by lasers, a pig-liver transplant trial gets the green light, and a nugget-sized chunk of lab-grown meat — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-04-22 — ‘Dark matter’, 'Big Bang' and ‘spin’: how physics terms can confuse researchers — speakers: Benjamin Thompson, Noah Baker
+- 2025-04-16 — What a trove of potato genomes reveals about the humble spud — speakers: Benjamin Thompson, Noah Baker
+- 2025-04-09 — Long-awaited ape genomes give new insights into their evolution — and ours — speakers: Hadron Collider, Webby Awards, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-04-07 — From Hippocrates to COVID-19: the scientific fight to prove diseases can be airborne — speakers: Carl Zimmer, Hidden History, Benjamin Thompson, Noah Baker
+- 2025-04-04 — Trump team removes senior NIH chiefs in shock move — speakers: Trump White House, Benjamin Thompson, Noah Baker
+- 2025-04-02 — World’s tiniest pacemaker could revolutionize heart surgery — speakers: Zhang et al, Eyting et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-03-28 — Audio long read: How quickly are you ageing? What molecular ‘clocks’ can tell you about your health — speakers: Benjamin Thompson, Noah Baker
+- 2025-03-26 — New lasso-shaped antibiotic kills drug-resistant bacteria — speakers: Jangra et al, Florian Altermatt, Iceberg Breaks Away Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-03-19 — Tiny satellite sets new record for secure quantum communication — speakers: Li et al, James Zou, Donald Trump, Max Kozlov, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-03-12 — Sapphire anvils squeeze metals atomically-thin — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-03-05 — Earliest crafted bone tools date back 1.5 million years — speakers: Ignacio de la Torre, Highlights Cane, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-02-28 — Audio long read: Why kids need to take more risks — science reveals the benefits of wild, free play — speakers: Benjamin Thompson, Noah Baker
+- 2025-02-26 — If your heart stops, this smartwatch-AI can call for help — speakers: Jake Sunshine, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-02-19 — Racist ratings linger in five-star systems — a thumbs up could fix that — speakers: Richard Van Noorden, Trump’s Dei, Rfk Jr, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-02-12 — Record-breaking neutrino detected by huge underwater telescope — speakers: Donald Trump, Briefing Chat, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-02-07 — From viral variants to devastating storms, how names shape the public's reaction to science — speakers: Benjamin Thompson, Noah Baker
+- 2025-02-05 — Kids' real-world arithmetic skills don't transfer to the classroom — speakers: Highlights Wolverine, Gu et al News, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-01-31 — The AI revolution is running out of data. What can researchers do? — speakers: Benjamin Thompson, Noah Baker
+- 2025-01-29 — Asteroid Bennu contains building blocks of life — speakers: Asteroid Bennu, Glavin et al, Research Highlight, Lombardo et al, Hermenegildo et al, Benjamin Thompson, Noah Baker
+- 2025-01-22 — What's the best way to become a professor? The answer depends on where you are — speakers: Lim et al, Research Highlight, Noah Baker, Ehsan Masood, Nature Briefing, Benjamin Thompson
+- 2025-01-15 — AI-designed antivenoms could help treat lethal snakebites — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-01-08 — A new-year round-up of the science stories you may have missed — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2025-01-01 — Science in 2025: what to expect this year — speakers: Miryam Naddaf, Donald Trump, Benjamin Thompson, Noah Baker
+- 2024-12-27 — Audio long read: How a silly science prize changed my career — speakers: Marc Abrahams, Benjamin Thompson, Noah Baker
+- 2024-12-25 — The Nature Podcast highlights of 2024 — speakers: Agnew Sex, Benjamin Thompson, Noah Baker
+- 2024-12-20 — Behind the scenes of Nature News and Views in 2024 — speakers: Benjamin Thompson, Noah Baker
+- 2024-12-18 — The Nature Podcast festive spectacular 2024 — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-12-16 — Should offensive species names be changed? The organisms that honour dictators, racists and criminals — speakers: Pond Opcono, Pond Erik Mcnerny, Pond Richard Smithson, Pond Thick-billed, Andrew Spencer, Benjamin Thompson, Noah Baker
+- 2024-12-11 — Targeted mRNA therapy tackles deadly pregnancy condition in mice — speakers: Research Highlight, Kalogriopoulos et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-12-09 — Will humans ever speak wolf? A scientist unravels the complexities of animal chatter — speakers: Zoologist Arik Kershenbaum, Arik Kershenbaum Hyrax, Arik Kershenbaum Pileated, Benjamin Thompson, Noah Baker
+- 2024-12-04 — Why breast cancer treatments might work best just after your period — speakers: Briefing Chat, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-11-29 — Audio long read: AI has dreamt up a blizzard of new proteins. Do any of them actually work? — speakers: Benjamin Thompson, Noah Baker
+- 2024-11-27 — Fossilised faeces helps explain dinosaurs' rise to dominance — speakers: Highlights Bacteria, Liao et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-11-20 — Squid-inspired pills squirt drugs straight into your gut — speakers: Arrick et al, Zhang et al, Liu et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-11-13 — Bone marrow in the skull plays a surprisingly important role in ageing — speakers: Highlights Elderly, Leckenby et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-11-08 — ’Rapture and beauty’: a writer's portrait of the International Space Station — speakers: Samantha Harvey Vintage, Benjamin Thompson, Noah Baker
+- 2024-11-06 — Surprise finding reveals mitochondrial 'energy factories' come in two different types — speakers: Ryu et al, Nature Briefing, Benjamin Thompson, Noah Baker
 - 2024-11-03 — REBROADCAST: Talking politics, talking science — speakers: Noah Baker, Benjamin Thompson, Deborah Blum, Bruce Lewenstein, Dan Sarewitz, Hannah Schmid-Petri, Shobita Parthasarathy, Beth Simone Noveck
 - 2024-11-02 — REBROADCAST: Politics of the life scientific — speakers: Noah Baker, Benjamin Thompson, Mayana Zatz, Michael Erard, Peg AtKisson, Susannah Gal, Allen Rostron, Mark Rosenberg
 - 2024-11-01 — REBROADCAST: A brief history of politics and science — speakers: Noah Baker, Benjamin Thompson, Shobita Parthasarathy, Alice Bell, Dan Sarewitz, Anna Jay, Melinda Baldwin, Magdelena Skipper
-- 2024-10-30 — How to recover from the trauma of a climate disaster — speakers: Jeff Tollefson, Nature Briefing
-- 2024-10-25 — Audio long read: Which is the fairest electoral system? Mega-election year sparks debate
-- 2024-10-23 — Massive lost mountain cities revealed by lasers — speakers: Language Model, Dathathri et al, Nature Briefing
-- 2024-10-16 — Star-eating black hole could power cosmic particle accelerator — speakers: Alfaro et al
-- 2024-10-09 — This AI powered 'tongue' can tell Coke and Pepsi apart — speakers: Graphene Tongue Researchers, Flora Graham, Nature Briefing
-- 2024-10-02 — Strange gamma-ray flickers seen in thunderstorms for the first time — speakers: Østgaard et, Bronze Age, Nature Briefing
-- 2024-09-27 — Audio long read: A day in the life of the world’s fastest supercomputer
-- 2024-09-25 — Children with Down's syndrome are more likely to get leukaemia: stem-cells hint at why — speakers: Nature Briefing
-- 2024-09-18 — Colossal 'jets' shooting from a black hole defy physicists' theories — speakers: Wei et al
-- 2024-09-11 — Ancient DNA debunks Rapa Nui ‘ecological suicide’ theory — speakers: Rapa Nui, Moreno-Mayar et al News
-- 2024-09-06 — The baseless stat that could be harming Indigenous conservation efforts — speakers: Indigenous Peoples
-- 2024-09-04 — Long-sought 'nuclear clocks' are one tick closer — speakers: Zhang et al News, Nature Briefing
-- 2024-08-30 — Audio long read: So you got a null result. Will anyone publish it?
-- 2024-08-28 — Covert racism in AI chatbots, precise Stone Age engineering, and the science of paper cuts — speakers: Hoffman et al, Chatbot AI
-- 2024-08-22 — Can ageing be stopped? A biologist explains — speakers: Venki Ramakrishnan
-- 2024-08-21 — AI can't learn new things forever — an algorithm can fix that — speakers: Nature Briefing
-- 2024-08-14 — The mystery of Stonehenge's central stone unearthed — speakers: Nature Briefing
-- 2024-08-09 — ChatGPT has a language problem — but science can fix it — speakers: Large Language Models
-- 2024-08-07 — Where weird plants thrive: aridity spurs diversity of traits — speakers: Henley et al News, Max Kozlov, Nature Briefing
-- 2024-07-31 — How light-based computers could cut AI’s energy needs — speakers: Dong et al, Nature Briefing
-- 2024-07-26 — Audio long read: Hope, despair and CRISPR — the race to save one woman’s life
-- 2024-07-24 — Rapid sepsis test identifies bacteria that spark life-threatening infection — speakers: Kim et al, Nature Briefing
-- 2024-07-17 — The plastic that biodegrades in your home compost — speakers: Bianco et al, Nature Briefing
-- 2024-07-10 — Breastfeeding should break down mothers' bones — here's why it doesn't — speakers: Nature Briefing
-- 2024-07-03 — These frog 'saunas’ could help endangered species fight off a deadly fungus — speakers: Nature Briefing
-- 2024-06-28 — Audio long read: How NASA astronauts are training to walk on the Moon in 2026
-- 2024-06-26 — Why ‘open source’ AIs could be anything but, the derailment risks of long freight trains, and breeding better wheat — speakers: Nature Briefing
-- 2024-06-19 — How do fish know where a sound comes from? Scientists have an answer — speakers: Research Highlight, Schulze et al, Nature Briefing
-- 2024-06-12 — Hybrid working works: huge study reveals no drop in productivity — speakers: Research Highlight, Nature Briefing
-- 2024-06-05 — Twitter suspended 70,000 accounts after the Capitol riots and it curbed misinformation — speakers: Nature Briefing
-- 2024-05-29 — How AI could improve robotics, the cockroach’s origins, and promethium spills its secrets — speakers: Nature Briefing
-- 2024-05-28 — How mathematician Freeman Hrabowski opened doors for Black scientists — speakers: Freeman Hrabowski, Martin Luther King Jr
-- 2024-05-24 — Audio long read: How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models
-- 2024-05-22 — Fentanyl addiction: the brain pathways behind the opioid crisis — speakers: Nature Briefing
-- 2024-05-15 — Lizard-inspired building design could save lives — speakers: Makoond et al, Nature Briefing
-- 2024-05-08 — Alphafold 3.0: the AI protein predictor gets an upgrade — speakers: Research Highlight, Nature Briefing
-- 2024-05-02 — Talking about sex and gender doesn't need to be toxic
-- 2024-05-01 — Dad's microbiome can affect offsprings' health — in mice — speakers: Nature Briefing
-- 2024-04-26 — Audio long read: Why loneliness is bad for your health
-- 2024-04-24 — How gliding marsupials got their 'wings' — speakers: Nature Briefing
-- 2024-04-19 — Living on Mars would probably suck — here's why — speakers: Settle Space
-- 2024-04-17 — Keys, wallet, phone: the neuroscience behind working memory — speakers: James Webb Space Telescope, Daume et al
-- 2024-04-10 — The 'ghost roads' driving tropical deforestation — speakers: Engert et al, TVYHmP Subscribe, Nature Briefing
-- 2024-04-05 — Audio long read: Why are so many young people getting cancer? What the data say
-- 2024-04-03 — Pregnancy's effect on 'biological' age, polite birds, and the carbon cost of home-grown veg
-- 2024-03-27 — How climate change is affecting global timekeeping — speakers: Big Bang, Nature Briefing
-- 2024-03-20 — AI hears hidden X factor in zebra finch love songs — speakers: Chen et al, Protein Subscribe, Nature Briefing
-- 2024-03-13 — Killer whales have menopause. Now scientists think they know why — speakers: Farah et al, Highlights Residue, Nature Briefing
-- 2024-03-06 — These tiny fish combine electric pulses to probe the environment — speakers: Bridges et al News, Nature Briefing
-- 2024-02-28 — Could this one-time ‘epigenetic’ treatment control cholesterol? — speakers: Atek et al, Nature Briefing
-- 2024-02-26 — Audio long read: Chimpanzees are dying from our colds — these scientists are trying to save them — speakers: Feature Chimpanzees
-- 2024-02-23 — How whales sing without drowning, an anatomical mystery solved — speakers: Nature Briefing
-- 2024-02-21 — Why are we nice? Altruism's origins are put to the test — speakers: Efferson et al, Nature Briefing
-- 2024-02-14 — Smoking changes your immune system, even years after quitting — speakers: Nature Briefing
-- 2024-02-09 — Why we need to rethink how we talk about cancer — speakers: Lucy Odling-Smee, Fabrice André, Nature Briefing
-- 2024-02-07 — Cancer's power harnessed — lymphoma mutations supercharge T cells — speakers: Garcia et al, Richard Feynman, Shellfishly Subscribe, Nature Briefing
-- 2024-02-04 — Cervical cancer could be eliminated: here's how — speakers: Nature Briefing
-- 2024-01-31 — Ancient DNA solves the mystery of who made a set of stone tools — speakers: Nature Briefing
-- 2024-01-26 — Audio long read: Long COVID is a double curse in low-income nations — here’s why — speakers: Feature Long Covid
-- 2024-01-24 — Toxic red mud could be turned into 'green' steel — speakers: Johnson Space Centre, Nature Briefing
-- 2024-01-17 — This AI just figured out geometry — is this a step towards artificial reasoning? — speakers: Tye et al, Mission Blog, Nature Briefing
-- 2024-01-10 — The science stories you missed over the holiday period — speakers: Nature Briefing
-- 2024-01-03 — Science in 2024: what to expect this year — speakers: Miryam Naddaf
-- 2023-12-29 — Audio long read: A new kind of solar cell is coming — is it the future of green energy?
-- 2023-12-27 — The Nature Podcast highlights of 2023 — speakers: Rosalind Franklin, James Watson, Francis Crick, Research Highlight
-- 2023-12-22 — How AI works is often a mystery — that's a problem — speakers: Nature Briefing
-- 2023-12-20 — The Nature Podcast Festive Spectacular 2023 — speakers: Nature Briefing
-- 2023-12-15 — Navigating planets, plays and prejudice — a conversation with Aomawa Shields — speakers: Aomawa Shields
-- 2023-12-14 — Inhaled vaccine prevents COVID in monkeys — speakers: Nature Briefing
-- 2023-12-13 — Cat parasite Toxoplasma tricked to grow in a dish — speakers: Nature Briefing
-- 2023-12-06 — The world’s smallest light-trapping silicon cavity — speakers: Nature Briefing
-- 2023-11-30 — Sanitary products made from plants could help tackle period poverty — speakers: Molina et al, Nature Briefing
-- 2023-11-29 — Why COP28 probably won't keep the 1.5 degree dream alive — speakers: Research Highlight, Nature Briefing
-- 2023-11-24 — Audio long read: Apple revival — how science is bringing historic varieties back to life
-- 2023-11-22 — Polio could be eradicated within 3 years — what happens then? — speakers: Highlights Botulinum, Research Highlight, Nature Briefing
-- 2023-11-17 — Dust: the tiny substance with enormous power — speakers: Jay Owens
-- 2023-11-15 — How to 3D print fully-formed robots
-- 2023-11-08 — How to tame a toxic yet life-saving antifungal — speakers: Maji et al, Nature Briefing
-- 2023-11-03 — Nature's Take: How will ChatGPT and generative AI transform research? — speakers: Nature Briefing
-- 2023-11-01 — A new hydrogel can be directly injected into muscle to help it regenerate — speakers: Jin et al News, Nature Briefing
-- 2023-10-30 — Audio long read: Why BMI is flawed — and how to redefine obesity — speakers: Bmi when diagnosing, treating obesity
-- 2023-10-27 — Martian sounds reveal the secrets of the red planet's core — speakers: Samuel et al, Nature Briefing
-- 2023-10-25 — Sounds of recovery: AI helps monitor wildlife during forest restoration — speakers: Nature Briefing
-- 2023-10-18 — An anti-CRISPR system that helps save viruses from destruction — speakers: Camara-Wilpert et, Nature Briefing
-- 2023-10-11 — Gene edits move pig organs closer to human transplantation — speakers: Research Highlight, Nature Briefing
-- 2023-10-10 — 'This doesn't just fall on women': computer scientists reflect on gender biases in STEM — speakers: Shobhana Narasimhan, Sana Odeh, Anne Pichon, Nature Briefing
-- 2023-10-04 — Astronomers are worried by a satellite brighter than most stars — speakers: Coe et al, Flora Graham, Nature Briefing
-- 2023-09-29 — Audio long read: These animals are racing towards extinction. A new home might be their last chance
-- 2023-09-27 — This isn't the Nature Podcast — how deepfakes are distorting reality — speakers: Alex Witze, Nature Briefing
-- 2023-09-20 — Why does cancer spread to the spine? Newly discovered stem cells might be the key — speakers: Research Highlight
-- 2023-09-13 — A mussel-inspired glue for more sustainable sticking — speakers: Mertens et al, Nature Briefing
-- 2023-09-06 — Our ancestors lost nearly 99% of their population, 900,000 years ago — speakers: Nature Briefing
-- 2023-08-30 — Physicists finally observe strange isotope Oxygen 28 – raising fundamental questions — speakers: Kondo et al, Kaufmann et al, Nature Briefing
-- 2023-08-25 — Audio long read: Medicine is plagued by untrustworthy clinical trials. How many studies are faked or flawed?
-- 2023-08-23 — Brain-reading implants turn thoughts into speech — speakers: Metzger et, Willett et al News, Doughty et al, Nature Briefing
-- 2023-08-16 — Fruit flies' ability to sense magnetic fields thrown into doubt — speakers: News Views, Research Highlight, Bronze Age, Arecibo Observatory, Nature Briefing
-- 2023-08-10 — Racism in health: the roots of the US Black maternal mortality crisis
-- 2023-08-09 — How welcome are refugees in Europe? A giant study has some answers — speakers: Bansak et al, Nature Briefing
-- 2023-08-02 — How to get more women in science, with Athene Donald — speakers: Athene Donald
-- 2023-07-31 — Audio long read: Lab mice go wild — making experiments more natural in order to decode the brain
-- 2023-07-27 — Facebook ‘echo chamber’ has little impact on polarized views, according to study — speakers: Nyhan et al, Nature Briefing
-- 2023-07-26 — AI-enhanced night-vision lets users see in the dark — speakers: Bao et al, Benjamin Franklin, Ben Franklin, Nature Briefing
-- 2023-07-19 — Disrupting snail food-chain curbs parasitic disease in Senegal — speakers: Nature Briefing
-- 2023-07-12 — ChatGPT can write a paper in an hour — but there are downsides — speakers: Nature Briefing
-- 2023-07-05 — Even a 'minimal cell' can grow stronger, thanks to evolution — speakers: Highlights Dolphins, Nature’s Davide Castelvecchi, Nature Briefing
-- 2023-06-30 — Audio long read: ‘Almost magical’ — chemists can now move single atoms in and out of a molecule’s core
-- 2023-06-28 — Do octopuses dream? Neural activity resembles human sleep stages — speakers: Wang et al, Junge et al, Nature Briefing
-- 2023-06-21 — Why bladder cancer cells that shed their Y chromosome become more aggressive — speakers: Fu et al, Nature Briefing
-- 2023-06-14 — What IBM's result means for quantum computing — speakers: Kim et al News, Research Highlight, Nardou et al, Nature Briefing
-- 2023-06-07 — A brain circuit for infanticide, in mice — speakers: Mei et al, Bale et al, Nature Briefing
-- 2023-05-31 — AI identifies gene interactions to speed up search for treatment targets — speakers: Theodoris et al, Highlights Microbes, Nature Briefing
-- 2023-05-26 — Audio long read: Can giant surveys of scientists fight misinformation on COVID, climate change and more?
-- 2023-05-24 — ‘Tree islands’ give oil-palm plantation a biodiversity boost — speakers: Zemp et, Crispr Subscribe, Nature Briefing
-- 2023-05-17 — JWST shows an ancient galaxy in stunning spectroscopic detail — speakers: James Webb Space Telescope, Nature Briefing
-- 2023-05-12 — Nature's Take: Can Registered Reports help tackle publication bias? — speakers: Can Registered Reports
-- 2023-05-10 — ‘Pangenome’ aims to capture the breadth of human diversity — speakers: Liao et al, Guarracino et al News, Research Highlight, Nature Briefing
-- 2023-05-03 — Menopause and women’s health: why science needs to catch up — speakers: Kerri Smith, Heidi Ledford, De et al, Nature Briefing
-- 2023-04-28 — Audio long read: Conquering Alzheimer’s — a look at the therapies of the future
-- 2023-04-26 — How Rosalind Franklin’s story was rewritten — speakers: Rosalind Franklin, James Watson, Francis Crick, Nature Briefing
-- 2023-04-19 — A smarter way to melt down plastics? — speakers: Dong et al, Nature Briefing
-- 2023-04-14 — How to battle misinformation with Sander van der Linden — speakers: Sander van der Linden, Sander van der
-- 2023-04-12 — Octopuses hunt by 'tasting' with their suckers — speakers: Kang et al, Allard et al, Nature Briefing
-- 2023-04-05 — Giant black-hole pair from the early Universe gives clues to how galaxies form — speakers: Chen et al, Nature Briefing
-- 2023-03-31 — Audio long read: What Turkey’s earthquake tells us about the science of seismic forecasting — speakers: What Turkey
-- 2023-03-29 — Bacterial ‘syringes’ could inject drugs directly into human cells — speakers: Research Highlight, Nature’s Lucy Odling-Smee, Nature Briefing
-- 2023-03-22 — How to make driverless cars safer — expose them to lots of dangerous drivers — speakers: Feng et al, Smriti Mallapaty
-- 2023-03-15 — How to build a virus-proof cell
-- 2023-03-08 — How the Australian wildfires devastated the ozone layer — speakers: News Views, Zia Mehrabi, Nature Briefing
-- 2023-03-01 — How an increased heart rate could induce anxiety in mice — speakers: News Views, Alex Witze, Thomas et al, Daly et al, Li et al, Cheng et al, Nature Briefing
-- 2023-02-27 — Nature's Take: How Twitter's changes could affect science — speakers: Elon Musk
-- 2023-02-24 — Audio long read: How your first brush with COVID warps your immunity
-- 2023-02-22 — A twisting microscope that could unlock the secrets of 2D materials — speakers: Research Highlight, Nature Briefing
-- 2023-02-15 — How 'metadevices' could make electronics faster
-- 2023-02-08 — This mysterious space rock shouldn’t have a ring — but it does — speakers: Nature Briefing
-- 2023-02-01 — How mummies were prepared: Ancient Egyptian pots spill secrets — speakers: Rageot et al, Nature Briefing
-- 2023-01-30 — Audio long read: The ‘breakthrough’ obesity drugs that have stunned researchers
-- 2023-01-25 — Amino acid slows nerve damage from diabetes, in mouse study — speakers: Handzlik et al News, Sargassum Subscribe, Nature Briefing
-- 2023-01-18 — Laser 'lightning rod' diverts strikes high in the Alps — speakers: Nature Briefing
-- 2023-01-11 — The science stories you missed over the past four weeks — speakers: Books Arts, Nature Briefing
-- 2023-01-06 — Science in 2023: what to expect this year — speakers: Miryam Naddaf, Nature Briefing
-- 2022-12-28 — The Nature Podcast’s highlights of 2022 — speakers: Spyrou et al, Highlights Hippos, Maloney et al News
-- 2022-12-21 — The Nature Podcast Festive Spectacular 2022 — speakers: Nature Briefing
-- 2022-12-14 — COVID deaths: three times the official toll — speakers: Msemburi et al, Covid Editorial, Nature Briefing
-- 2022-12-07 — Oldest DNA reveals two-million-year-old ecosystem — speakers: Stegmann et al, Nature Briefing
-- 2022-12-02 — Gaia Vince on how climate change will shape where people live — speakers: Gaia Vince, Nomad Century, Allen Lane
-- 2022-11-30 — Mysterious fluid from ant pupae helps feed colony — speakers: Briefing Chat
-- 2022-11-25 — Audio long read: Science and the World Cup — how big data is transforming football
-- 2022-11-23 — The satellite-free alternative to GPS
-- 2022-11-16 — How a key Alzheimer's gene wreaks havoc in the brain — speakers: Alex Witze, Okholm Kryger et, Flora Graham, Nature Briefing
-- 2022-11-14 — Audio long read: She was convicted of killing her four children. Could a gene mutation set her free? — speakers: Kathleen Folbigg
-- 2022-11-09 — Molecular cages sift 'heavy' water from near-identical H2O — speakers: Su et al, Jeff Tollefson, Nature Briefing
-- 2022-11-04 — Audio long read: The controversial embryo tests that promise a better baby
-- 2022-11-02 — Flies can move their rigid, omnidirectional eyes – a little — speakers: Fenk et al, Oliver Belcher, Nature Briefing
-- 2022-10-28 — Racism in Health: the harms of biased medicine
-- 2022-10-26 — Ancient DNA reveals family of Neanderthals living in Siberian cave
-- 2022-10-12 — Human brain organoids implanted into rats could offer new way to model disease — speakers: Revah et al News, Nature Briefing
-- 2022-10-05 — Virtual library of LSD-like drugs could reveal new antidepressants — speakers: Flora Graham, Nature Briefing
-- 2022-10-03 — Nature's Take: How the war in Ukraine is impacting science
-- 2022-09-30 — Audio long read: What scientists have learnt from COVID lockdowns
-- 2022-09-28 — A trove of ancient fish fossils helps trace the origin of jaws — speakers: Henry Gee, Zhu et al, Gai et al, Research Highlight, Paisley Currah, Nature Briefing
-- 2022-09-21 — Huge dataset shows 80% of US professors come from just 20% of institutions — speakers: Nature Briefing
-- 2022-09-14 — Complex synthetic cells bring scientists closer to artificial cellular life — speakers: Xu et al News, Nature Briefing
-- 2022-09-07 — Missing foot reveals world’s oldest amputation — speakers: Maloney et al News, James Webb Space Telescope, Nature Briefing
-- 2022-08-26 — Audio long read: Hybrid brains – the ethics of transplanting human neurons into animals
-- 2022-08-24 — How to make water that's full of holes — speakers: Nature Briefing
-- 2022-08-17 — Do protons have intrinsic charm? New evidence suggests yes — speakers: Nature Briefing
-- 2022-08-15 — Nature's Take: what's next for the preprint revolution — speakers: all together
-- 2022-08-10 — Why low temperatures could help starve tumours of fuel — speakers: tumours glucose, Seki et al
-- 2022-08-03 — Massive Facebook study reveals a key to social mobility — speakers: Chetty et al, Chetty et al News, Nature Briefing
-- 2022-07-29 — Coronapod: the open-science plan to unseat big Pharma and tackle vaccine inequity
-- 2022-07-27 — How humans adapted to digest lactose — after thousands of years of milk drinking — speakers: Nature Briefing
-- 2022-07-20 — How researchers have pinpointed the origin of 'warm-blooded' mammals — speakers: Araujo et al, Research Highlight, Dietrich et al, Nature Briefing
-- 2022-07-13 — Ancient mud reveals the longest record of climate from the tropics — speakers: James Webb Space Telescope, Nature Briefing
-- 2022-07-11 — Higgs boson at 10: a deep dive into the mysterious, mass-giving particle — speakers: Lizzie Gibney, Federico Levi, Hadron Collider
-- 2022-07-08 — Coronapod: detecting COVID variants in sewage
-- 2022-07-06 — Higgs boson turns ten: the mysteries physicists are still trying to solve — speakers: Higgs boson, Nature Briefing
-- 2022-07-01 — Ed Yong on the wondrous world of animal senses — speakers: Ed Yong
-- 2022-06-29 — Norovirus could spread through saliva: a new route for infection? — speakers: Ghosh et al, Nature Briefing
-- 2022-06-27 — Audio long read: These six countries are about to go to the Moon
-- 2022-06-24 — Coronapod: USA authorises vaccines for youngest of kids
-- 2022-06-22 — How science can tackle inequality — speakers: Diamantopoulou et al, Nature Briefing
-- 2022-06-15 — How the Black Death got its start — speakers: Spyrou et al, Research Highlight, Nature Briefing
-- 2022-06-11 — Coronapod: COVID and smell loss, what the science says — speakers: Nature Briefing
-- 2022-06-08 — Ancient 'giraffes' sported thick helmets for headbutting — speakers: giraffe evolution, Nature Briefing
-- 2022-06-06 — Audio long read: The brain-reading devices helping paralysed people to move, talk and touch
-- 2022-06-01 — Robot exercises shoulder cells for better tissue transplants — speakers: Research Highlight, Nature Briefing
-- 2022-05-30 — Coronapod: 'A generational loss' - COVID's devastating impact on education — speakers: Nature Briefing
-- 2022-05-25 — X-ray analysis hints at answers to fossil mystery — speakers: Hirasawa et al, Nature Briefing
-- 2022-05-18 — How galaxies could exist without dark matter — speakers: van Dokkum, Nature Briefing
-- 2022-05-13 — Coronapod: 'viral ghosts' support idea that SARS-CoV-2 reservoirs could be behind long COVID — speakers: Nature Briefing
-- 2022-05-11 — Retinas revived after donor's death open door to new science — speakers: Nature Briefing
-- 2022-05-04 — Swapping in a bit of microbial 'meat' has big eco-gains — speakers: Research Highlight, Zhao et al, Webby Award, Nature Briefing
-- 2022-04-29 — Coronapod: COVID and diabetes, what the science says
-- 2022-04-27 — How virtual meetings can limit creative ideas — speakers: Chan et al, Nature Briefing
-- 2022-04-25 — Audio long-read: The quest to prevent MS — and understand other post-viral diseases
-- 2022-04-20 — We could still limit global warming to just 2˚C — but there's an 'if' — speakers: Info Confirms, Nature Briefing
-- 2022-04-15 — Coronapod: Infected immune cells hint at cause of severe COVID — speakers: Nature Briefing
-- 2022-04-13 — Why do naked mole rats live as long as giraffes? — speakers: Cagan et al News
-- 2022-04-06 — Five years in the coldest fridge in the known Universe — speakers: Nature Briefing
-- 2022-04-05 — Audio long-read: A more-inclusive genome project aims to capture all of human diversity
-- 2022-03-30 — Winding roads could make you a better navigator — speakers: Calafat et al, Nature Briefing
-- 2022-03-23 — Milky Way's origin story revealed by 250,000 stars — speakers: Nature Briefing
-- 2022-03-18 — Coronapod: How vaccine complacency is plaguing 'COVID zero' strategies — speakers: Nature Briefing
-- 2022-03-17 — The coin toss of Alzheimer's inheritance — speakers: Marty Reiswig, Lorna Stewart
-- 2022-03-16 — The vest that can hear your heartbeat — speakers: Yan et al, Nature Briefing
-- 2022-03-09 — The AI that deciphers ancient Greek graffiti — speakers: Nature Briefing
-- 2022-03-04 — Coronapod: why stopping COVID testing would be a mistake
-- 2022-03-02 — COVID stimulus spending failed to deliver on climate promises — speakers: Nature Briefing
-- 2022-02-28 — Audio long-read: The race to save the Internet from quantum hackers
-- 2022-02-23 — Dinosaur-destroying asteroid struck in spring — speakers: Briefing Chat, Nature Briefing
-- 2022-02-16 — Tongan volcano eruption leaves scientists with unanswered questions — speakers: Nature Briefing
-- 2022-02-11 — Coronapod: How African scientists are copying Moderna's COVID vaccine — speakers: Nature Briefing
-- 2022-02-09 — RNA test detects deadly pregnancy disorder early
-- 2022-02-04 — Coronapod: what people get wrong about endemic COVID — speakers: Nature Briefing
-- 2022-02-02 — Weirdly flowing water finally has an explanation: 'quantum friction' — speakers: Nature Briefing
-- 2022-01-28 — Coronapod: Why T cells have been overlooked — speakers: Nature Briefing
-- 2022-01-26 — How can battery-powered aircraft get off the ground? — speakers: Nature Briefing
-- 2022-01-24 — Audio long read: Is precision public health the future — or a contradiction?
-- 2022-01-21 — Coronapod: COVID death toll is likely millions more than official counts — speakers: Nature Briefing
-- 2022-01-19 — Why mutation is not as random as we thought
-- 2022-01-14 — Podcast Extra: Recreating the lost sounds of spring — speakers: Simon Butler, Nature Briefing
-- 2022-01-12 — Webb Space Telescope makes history after tense launch — speakers: Webb Space Telescope, Nature Briefing
-- 2022-01-05 — Science in 2022: what to expect this year — speakers: Davide Castelvecchi
-- 2021-12-31 — Audio long-read: The secret lives of cells — as never seen before
-- 2021-12-29 — Our podcast highlights of 2021
-- 2021-12-22 — The Nature Podcast annual holiday spectacular — speakers: Noah Baker, Emily Renshaw-Kidd, Deep Mind, Kerri Smith, Phil Self, DeepMind’s AI
-- 2021-12-17 — Coronapod: Omicron - your questions answered — speakers: Covid vaccine, Nature Briefing
-- 2021-12-15 — Pluto's strange ice patterns explained by new theory — speakers: Sputnik Planitia, Morison et al, Nature Briefing
-- 2021-12-10 — Coronapod: vaccines and long COVID, how protected are you? — speakers: Covid vaccine
-- 2021-12-08 — How 'megastudies' are changing behavioural science — speakers: James Webb Space Telescope, James Webb, Nature Briefing
-- 2021-12-03 — Coronapod: How has COVID impacted mental health? — speakers: Nature Briefing
-- 2021-12-01 — What’s the best diet for people and the planet? — speakers: Nature Briefing
-- 2021-11-29 — Audio long-read: The chase for fusion energy
-- 2021-11-26 — Coronapod: everything we know about the new COVID variant
-- 2021-11-24 — Researcher careers under the microscope: salary satisfaction and COVID impacts — speakers: Nature Briefing
-- 2021-11-17 — Sea squirts teach new lessons in evolution — speakers: Nature Briefing
-- 2021-11-12 — Coronapod: new hope from COVID antiviral drugs — speakers: Nature Briefing
-- 2021-11-10 — The past and future of the Earth's climate — speakers: Nature Briefing
-- 2021-11-08 — Audio long-read: How dangerous is Africa’s explosive Lake Kivu? — speakers: Lake Kivu, Democratic Republic
-- 2021-11-03 — Podcast special: onboard the climate train to COP26 — speakers: Nature Briefing
-- 2021-10-29 — China’s COVID vaccines have been crucial — now immunity is waning — speakers: Nature Briefing
-- 2021-10-27 — Genomics unwraps mystery of the Tarim mummies — speakers: Zhang et al News, Guillaume Cabanac, Jeff Tollefson, Nature Briefing
-- 2021-10-25 — Coronapod: can scientists harness COVID super-immunity? — speakers: Nature Briefing
-- 2021-10-20 — Viking presence in the Americas pinpointed by ancient solar storm — speakers: Kuitems et al, Research Highlight, Pham et al, Francis Collin, Francis Collins, Nature Briefing
-- 2021-10-18 — Coronapod: the COVID scientists facing violent threats — speakers: Nature Briefing
-- 2021-10-13 — How electric acupuncture zaps inflammation in mice — speakers: Liu et al, Nature Briefing
-- 2021-10-10 — Coronapod: new data affirms the benefits of air filters and masks — speakers: Nature Briefing
-- 2021-10-06 — The AI that accurately predicts the chances of rain — speakers: AI Short, Flora Graham, Nature Briefing
-- 2021-09-29 — Starting up in science: behind the scenes
-- 2021-09-29 — Starting up in science: Episode 4
-- 2021-09-29 — Starting up in science: Episode 3
-- 2021-09-29 — Starting up in science: Episode 2
-- 2021-09-29 — Starting up in science: Episode 1 — speakers: Daniel Bose
-- 2021-09-27 — Audio long-read: Can artificially altered clouds save the Great Barrier Reef? — speakers: Great Barrier Reef
-- 2021-09-25 — Coronapod: solving the COVID vaccine manufacturing problem
-- 2021-09-22 — The floating sensors inspired by seeds — speakers: Kim et al
-- 2021-09-15 — How to help feed the world with 'Blue Foods' — speakers: Ismahane Elouafi, Tang et al
-- 2021-09-08 — The billion years missing from Earth’s history — speakers: Groucutt et al, Nature Briefing
-- 2021-09-01 — Dead trees play an under-appreciated role in climate change — speakers: Seibold et al, Highlights Massive, Nature Briefing
-- 2021-08-25 — Audio long-read: why sports concussions are worse for women
-- 2021-08-21 — Coronapod: How Delta is changing the game — speakers: Nature Briefing
-- 2021-08-18 — What’s the isiZulu for dinosaur? How science neglected African languages — speakers: Nature Briefing
-- 2021-08-14 — Coronapod: COVID boosters amidst global vaccine inequity — speakers: Nature Briefing
-- 2021-08-11 — The brain cells that help animals navigate in 3D — speakers: Wang et al, Jeff Tollefson, Nature Briefing
-- 2021-08-06 — Coronapod: Ivermectin, what the science says — speakers: Nature Briefing
-- 2021-08-04 — Flood risk rises as people surge into vulnerable regions — speakers: Nature Briefing
-- 2021-07-28 — Has the world’s oldest known animal been discovered? — speakers: Nature Briefing
-- 2021-07-26 — Audio long-read: How ancient people fell in love with bread, beer and other carbs
-- 2021-07-24 — Coronapod: the latest on COVID and sporting events — speakers: Nature Briefing
-- 2021-07-21 — How the US is rebooting gun violence research — speakers: Nature Briefing
-- 2021-07-16 — Coronapod: Does England's COVID strategy risk breeding deadly variants?
-- 2021-07-14 — How deadly heat waves expose historic racism — speakers: Nick Holmes, Richard Branson, Nature Briefing
-- 2021-07-09 — Coronapod: Will COVID become a disease of the young? — speakers: Nature Briefing
-- 2021-07-07 — Food shocks and how to avoid them — speakers: Alfonso Mejia, Nature Briefing
-- 2021-07-02 — Coronapod: the biomarker that could change COVID vaccines — speakers: Nature Briefing
-- 2021-06-30 — The scientist whose hybrid rice helped feed billions — speakers: Yuan Longping, Research Highlight, Nature Briefing
-- 2021-06-28 — Audio long-read: How COVID exposed flaws in evidence-based medicine
-- 2021-06-25 — Coronapod: should you have a COVID vaccine when breastfeeding? — speakers: Nature Briefing
-- 2021-06-23 — Quantum compass might help birds 'see' magnetic fields — speakers: Xu et al, Nature Briefing
-- 2021-06-18 — CureVac disappoints in COVID vaccine trial — speakers: Pfizer BioNtec, Nature Briefing
-- 2021-06-16 — Communities, COVID and credit: the state of science collaborations — speakers: Nature Briefing
-- 2021-06-11 — Coronapod: Counting the cost of long COVID — speakers: Covid Subscribe, Nature Briefing
-- 2021-06-09 — Google AI beats humans at designing computer chips — speakers: Hua et al, Nature Briefing
-- 2021-06-04 — Coronapod: Uncertainty and the COVID 'lab-leak' theory — speakers: Covid Subscribe, Nature Briefing
-- 2021-06-02 — On the origin of numbers — speakers: Nature Briefing
-- 2021-05-26 — New hope for vaccine against a devastating livestock disease — speakers: Autheman et al, Nature Briefing
-- 2021-05-24 — Audio long-read: How harmful are microplastics?
-- 2021-05-19 — The 'zombie' fires that keep burning under snow-covered forests — speakers: Scholten et al, Highlights Aesthetic, Faraway Nasa
-- 2021-05-14 — Coronapod: The variant blamed for India's catastrophic second wave — speakers: severe disease
-- 2021-05-12 — The brain implant that turns thoughts into text — speakers: Willett et al News, Anna Ploszajski
-- 2021-05-07 — Coronapod: Waiving vaccine patents and coronavirus genome data disputes — speakers: Nature Briefing
-- 2021-05-05 — Oldest African burial site uncovers Stone Age relationship with death — speakers: Webby Awards, Nguyen et al
-- 2021-04-30 — Coronapod special: The inequality at the heart of the pandemic — speakers: Amy Maxmen, Nature Briefing
-- 2021-04-28 — What fruit flies could teach scientists about brain imaging — speakers: Webby Awards, Mann et al, Nature Briefing
-- 2021-04-26 — Audio long-read: How drugmakers can be better prepared for the next pandemic
-- 2021-04-23 — Coronapod: Kids and COVID vaccines
-- 2021-04-21 — Meet the inflatable, origami-inspired structures — speakers: Vijaya Ramachandran, Nature Briefing
-- 2021-04-16 — Coronapod: could COVID vaccines cause blood clots? Here's what the science says — speakers: Nature Briefing
-- 2021-04-14 — The sanitation crisis making rural America ill — speakers: Catherine Coleman Flowers, Research Highlight, Nature Briefing
-- 2021-04-09 — Coronapod: A whistle-blower’s quest to take politics out of coronavirus surveillance — speakers: Rick Bright, Nature Briefing
-- 2021-04-06 — Audio long-read: Rise of the robo-writers
-- 2021-04-02 — Coronapod: How to define rare COVID vaccine side effects — speakers: Nature Briefing
-- 2021-03-31 — Antimatter cooled with lasers for the first time — speakers: Briefing Chat, Nature Briefing
-- 2021-03-26 — Coronapod: the Oxford-AstraZeneca COVID vaccine - what you need to know — speakers: Nature Briefing
-- 2021-03-24 — Network of world's most accurate clocks paves way to redefine time — speakers: Camille Noûs, Nature Briefing
-- 2021-03-19 — Coronapod: Why COVID antibody treatments may not be the answer — speakers: Nature Briefing
-- 2021-03-17 — The AI that argues back — speakers: Nature Briefing
-- 2021-03-12 — Coronapod: COVID and pregnancy - what do we know?
-- 2021-03-10 — The smallest measurement of gravity ever recorded — speakers: Fukushima Subscribe, Nature Briefing
-- 2021-03-05 — Coronapod: COVID's origins and the 'lab leak' theory
-- 2021-03-03 — COVID, 2020 and a year of lost research — speakers: Research Highlight, Graf et al, Nature Briefing
-- 2021-02-26 — Coronapod: Google-backed database could help answer big COVID questions
-- 2021-02-24 — The quark of the matter: what's really inside a proton? — speakers: Sugimoto et al, Nature Briefing
-- 2021-02-23 — Audio long-read: Thundercloud Project tackles a gamma-ray mystery — speakers: Thundercloud Project
-- 2021-02-19 — Coronapod: our future with an ever-present coronavirus
-- 2021-02-17 — A mammoth discovery: oldest DNA on record from million-year-old teeth — speakers: et al, Briefing Chat
-- 2021-02-12 — Coronapod: Is mixing COVID vaccines a good idea?
-- 2021-02-10 — Human Genome Project - Nature’s editor-in-chief reflects 20 years on — speakers: Magdalena Skipper, Bromham et al
-- 2021-02-05 — Coronapod: Variants – what you need to know
-- 2021-02-03 — Mysterious einsteinium spills its secrets — speakers: Nature Briefing
-- 2021-01-29 — Coronapod: Fixing the world’s pandemic alarm
-- 2021-01-28 — Audio long-read: Push, pull and squeeze – the hidden forces that shape life
-- 2021-01-27 — How a spinal device could relieve a neglected effect of cord injury — speakers: Nature Briefing
-- 2021-01-20 — Hiring discrimination laid bare by mountain of data — speakers: Hangartner et al, Joe Biden, Joe Biden’s Covid, Eric Lander, Nature Briefing
+- 2024-10-30 — How to recover from the trauma of a climate disaster — speakers: Jeff Tollefson, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-10-25 — Audio long read: Which is the fairest electoral system? Mega-election year sparks debate — speakers: Benjamin Thompson, Noah Baker
+- 2024-10-23 — Massive lost mountain cities revealed by lasers — speakers: Language Model, Dathathri et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-10-16 — Star-eating black hole could power cosmic particle accelerator — speakers: Alfaro et al, Benjamin Thompson, Noah Baker
+- 2024-10-09 — This AI powered 'tongue' can tell Coke and Pepsi apart — speakers: Graphene Tongue Researchers, Flora Graham, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-10-02 — Strange gamma-ray flickers seen in thunderstorms for the first time — speakers: Østgaard et, Bronze Age, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-09-27 — Audio long read: A day in the life of the world’s fastest supercomputer — speakers: Benjamin Thompson, Noah Baker
+- 2024-09-25 — Children with Down's syndrome are more likely to get leukaemia: stem-cells hint at why — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-09-18 — Colossal 'jets' shooting from a black hole defy physicists' theories — speakers: Wei et al, Benjamin Thompson, Noah Baker
+- 2024-09-11 — Ancient DNA debunks Rapa Nui ‘ecological suicide’ theory — speakers: Rapa Nui, Moreno-Mayar et al News, Benjamin Thompson, Noah Baker
+- 2024-09-06 — The baseless stat that could be harming Indigenous conservation efforts — speakers: Indigenous Peoples, Benjamin Thompson, Noah Baker
+- 2024-09-04 — Long-sought 'nuclear clocks' are one tick closer — speakers: Zhang et al News, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-08-30 — Audio long read: So you got a null result. Will anyone publish it? — speakers: Benjamin Thompson, Noah Baker
+- 2024-08-28 — Covert racism in AI chatbots, precise Stone Age engineering, and the science of paper cuts — speakers: Hoffman et al, Chatbot AI, Benjamin Thompson, Noah Baker
+- 2024-08-22 — Can ageing be stopped? A biologist explains — speakers: Venki Ramakrishnan, Benjamin Thompson, Noah Baker
+- 2024-08-21 — AI can't learn new things forever — an algorithm can fix that — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-08-14 — The mystery of Stonehenge's central stone unearthed — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-08-09 — ChatGPT has a language problem — but science can fix it — speakers: Large Language Models, Benjamin Thompson, Noah Baker
+- 2024-08-07 — Where weird plants thrive: aridity spurs diversity of traits — speakers: Henley et al News, Max Kozlov, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-07-31 — How light-based computers could cut AI’s energy needs — speakers: Dong et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-07-26 — Audio long read: Hope, despair and CRISPR — the race to save one woman’s life — speakers: Benjamin Thompson, Noah Baker
+- 2024-07-24 — Rapid sepsis test identifies bacteria that spark life-threatening infection — speakers: Kim et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-07-17 — The plastic that biodegrades in your home compost — speakers: Bianco et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-07-10 — Breastfeeding should break down mothers' bones — here's why it doesn't — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-07-03 — These frog 'saunas’ could help endangered species fight off a deadly fungus — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-06-28 — Audio long read: How NASA astronauts are training to walk on the Moon in 2026 — speakers: Benjamin Thompson, Noah Baker
+- 2024-06-26 — Why ‘open source’ AIs could be anything but, the derailment risks of long freight trains, and breeding better wheat — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-06-19 — How do fish know where a sound comes from? Scientists have an answer — speakers: Research Highlight, Schulze et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-06-12 — Hybrid working works: huge study reveals no drop in productivity — speakers: Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-06-05 — Twitter suspended 70,000 accounts after the Capitol riots and it curbed misinformation — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-05-29 — How AI could improve robotics, the cockroach’s origins, and promethium spills its secrets — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-05-28 — How mathematician Freeman Hrabowski opened doors for Black scientists — speakers: Freeman Hrabowski, Martin Luther King Jr, Benjamin Thompson, Noah Baker
+- 2024-05-24 — Audio long read: How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models — speakers: Benjamin Thompson, Noah Baker
+- 2024-05-22 — Fentanyl addiction: the brain pathways behind the opioid crisis — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-05-15 — Lizard-inspired building design could save lives — speakers: Makoond et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-05-08 — Alphafold 3.0: the AI protein predictor gets an upgrade — speakers: Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-05-02 — Talking about sex and gender doesn't need to be toxic — speakers: Benjamin Thompson, Noah Baker
+- 2024-05-01 — Dad's microbiome can affect offsprings' health — in mice — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-04-26 — Audio long read: Why loneliness is bad for your health — speakers: Benjamin Thompson, Noah Baker
+- 2024-04-24 — How gliding marsupials got their 'wings' — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-04-19 — Living on Mars would probably suck — here's why — speakers: Settle Space, Benjamin Thompson, Noah Baker
+- 2024-04-17 — Keys, wallet, phone: the neuroscience behind working memory — speakers: James Webb Space Telescope, Daume et al, Benjamin Thompson, Noah Baker
+- 2024-04-10 — The 'ghost roads' driving tropical deforestation — speakers: Engert et al, TVYHmP Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-04-05 — Audio long read: Why are so many young people getting cancer? What the data say — speakers: Benjamin Thompson, Noah Baker
+- 2024-04-03 — Pregnancy's effect on 'biological' age, polite birds, and the carbon cost of home-grown veg — speakers: Benjamin Thompson, Noah Baker
+- 2024-03-27 — How climate change is affecting global timekeeping — speakers: Big Bang, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-03-20 — AI hears hidden X factor in zebra finch love songs — speakers: Chen et al, Protein Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-03-13 — Killer whales have menopause. Now scientists think they know why — speakers: Farah et al, Highlights Residue, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-03-06 — These tiny fish combine electric pulses to probe the environment — speakers: Bridges et al News, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-02-28 — Could this one-time ‘epigenetic’ treatment control cholesterol? — speakers: Atek et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-02-26 — Audio long read: Chimpanzees are dying from our colds — these scientists are trying to save them — speakers: Feature Chimpanzees, Benjamin Thompson, Noah Baker
+- 2024-02-23 — How whales sing without drowning, an anatomical mystery solved — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-02-21 — Why are we nice? Altruism's origins are put to the test — speakers: Efferson et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-02-14 — Smoking changes your immune system, even years after quitting — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-02-09 — Why we need to rethink how we talk about cancer — speakers: Lucy Odling-Smee, Fabrice André, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-02-07 — Cancer's power harnessed — lymphoma mutations supercharge T cells — speakers: Garcia et al, Richard Feynman, Shellfishly Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-02-04 — Cervical cancer could be eliminated: here's how — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-01-31 — Ancient DNA solves the mystery of who made a set of stone tools — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-01-26 — Audio long read: Long COVID is a double curse in low-income nations — here’s why — speakers: Feature Long Covid, Benjamin Thompson, Noah Baker
+- 2024-01-24 — Toxic red mud could be turned into 'green' steel — speakers: Johnson Space Centre, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-01-17 — This AI just figured out geometry — is this a step towards artificial reasoning? — speakers: Tye et al, Mission Blog, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-01-10 — The science stories you missed over the holiday period — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2024-01-03 — Science in 2024: what to expect this year — speakers: Miryam Naddaf, Benjamin Thompson, Noah Baker
+- 2023-12-29 — Audio long read: A new kind of solar cell is coming — is it the future of green energy? — speakers: Benjamin Thompson, Noah Baker
+- 2023-12-27 — The Nature Podcast highlights of 2023 — speakers: Rosalind Franklin, James Watson, Francis Crick, Research Highlight, Benjamin Thompson, Noah Baker
+- 2023-12-22 — How AI works is often a mystery — that's a problem — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-12-20 — The Nature Podcast Festive Spectacular 2023 — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-12-15 — Navigating planets, plays and prejudice — a conversation with Aomawa Shields — speakers: Aomawa Shields, Benjamin Thompson, Noah Baker
+- 2023-12-14 — Inhaled vaccine prevents COVID in monkeys — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-12-13 — Cat parasite Toxoplasma tricked to grow in a dish — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-12-06 — The world’s smallest light-trapping silicon cavity — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-11-30 — Sanitary products made from plants could help tackle period poverty — speakers: Molina et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-11-29 — Why COP28 probably won't keep the 1.5 degree dream alive — speakers: Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-11-24 — Audio long read: Apple revival — how science is bringing historic varieties back to life — speakers: Benjamin Thompson, Noah Baker
+- 2023-11-22 — Polio could be eradicated within 3 years — what happens then? — speakers: Highlights Botulinum, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-11-17 — Dust: the tiny substance with enormous power — speakers: Jay Owens, Benjamin Thompson, Noah Baker
+- 2023-11-15 — How to 3D print fully-formed robots — speakers: Benjamin Thompson, Noah Baker
+- 2023-11-08 — How to tame a toxic yet life-saving antifungal — speakers: Maji et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-11-03 — Nature's Take: How will ChatGPT and generative AI transform research? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-11-01 — A new hydrogel can be directly injected into muscle to help it regenerate — speakers: Jin et al News, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-10-30 — Audio long read: Why BMI is flawed — and how to redefine obesity — speakers: Bmi when diagnosing, treating obesity, Benjamin Thompson, Noah Baker
+- 2023-10-27 — Martian sounds reveal the secrets of the red planet's core — speakers: Samuel et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-10-25 — Sounds of recovery: AI helps monitor wildlife during forest restoration — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-10-18 — An anti-CRISPR system that helps save viruses from destruction — speakers: Camara-Wilpert et, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-10-11 — Gene edits move pig organs closer to human transplantation — speakers: Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-10-10 — 'This doesn't just fall on women': computer scientists reflect on gender biases in STEM — speakers: Shobhana Narasimhan, Sana Odeh, Anne Pichon, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-10-04 — Astronomers are worried by a satellite brighter than most stars — speakers: Coe et al, Flora Graham, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-09-29 — Audio long read: These animals are racing towards extinction. A new home might be their last chance — speakers: Benjamin Thompson, Noah Baker
+- 2023-09-27 — This isn't the Nature Podcast — how deepfakes are distorting reality — speakers: Alex Witze, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-09-20 — Why does cancer spread to the spine? Newly discovered stem cells might be the key — speakers: Research Highlight, Benjamin Thompson, Noah Baker
+- 2023-09-13 — A mussel-inspired glue for more sustainable sticking — speakers: Mertens et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-09-06 — Our ancestors lost nearly 99% of their population, 900,000 years ago — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-08-30 — Physicists finally observe strange isotope Oxygen 28 – raising fundamental questions — speakers: Kondo et al, Kaufmann et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-08-25 — Audio long read: Medicine is plagued by untrustworthy clinical trials. How many studies are faked or flawed? — speakers: Benjamin Thompson, Noah Baker
+- 2023-08-23 — Brain-reading implants turn thoughts into speech — speakers: Metzger et, Willett et al News, Doughty et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-08-16 — Fruit flies' ability to sense magnetic fields thrown into doubt — speakers: News Views, Research Highlight, Bronze Age, Arecibo Observatory, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-08-10 — Racism in health: the roots of the US Black maternal mortality crisis — speakers: Benjamin Thompson, Noah Baker
+- 2023-08-09 — How welcome are refugees in Europe? A giant study has some answers — speakers: Bansak et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-08-02 — How to get more women in science, with Athene Donald — speakers: Athene Donald, Benjamin Thompson, Noah Baker
+- 2023-07-31 — Audio long read: Lab mice go wild — making experiments more natural in order to decode the brain — speakers: Benjamin Thompson, Noah Baker
+- 2023-07-27 — Facebook ‘echo chamber’ has little impact on polarized views, according to study — speakers: Nyhan et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-07-26 — AI-enhanced night-vision lets users see in the dark — speakers: Bao et al, Benjamin Franklin, Ben Franklin, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-07-19 — Disrupting snail food-chain curbs parasitic disease in Senegal — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-07-12 — ChatGPT can write a paper in an hour — but there are downsides — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-07-05 — Even a 'minimal cell' can grow stronger, thanks to evolution — speakers: Highlights Dolphins, Nature’s Davide Castelvecchi, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-06-30 — Audio long read: ‘Almost magical’ — chemists can now move single atoms in and out of a molecule’s core — speakers: Benjamin Thompson, Noah Baker
+- 2023-06-28 — Do octopuses dream? Neural activity resembles human sleep stages — speakers: Wang et al, Junge et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-06-21 — Why bladder cancer cells that shed their Y chromosome become more aggressive — speakers: Fu et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-06-14 — What IBM's result means for quantum computing — speakers: Kim et al News, Research Highlight, Nardou et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-06-07 — A brain circuit for infanticide, in mice — speakers: Mei et al, Bale et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-05-31 — AI identifies gene interactions to speed up search for treatment targets — speakers: Theodoris et al, Highlights Microbes, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-05-26 — Audio long read: Can giant surveys of scientists fight misinformation on COVID, climate change and more? — speakers: Benjamin Thompson, Noah Baker
+- 2023-05-24 — ‘Tree islands’ give oil-palm plantation a biodiversity boost — speakers: Zemp et, Crispr Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-05-17 — JWST shows an ancient galaxy in stunning spectroscopic detail — speakers: James Webb Space Telescope, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-05-12 — Nature's Take: Can Registered Reports help tackle publication bias? — speakers: Can Registered Reports, Benjamin Thompson, Noah Baker
+- 2023-05-10 — ‘Pangenome’ aims to capture the breadth of human diversity — speakers: Liao et al, Guarracino et al News, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-05-03 — Menopause and women’s health: why science needs to catch up — speakers: Kerri Smith, Heidi Ledford, De et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-04-28 — Audio long read: Conquering Alzheimer’s — a look at the therapies of the future — speakers: Benjamin Thompson, Noah Baker
+- 2023-04-26 — How Rosalind Franklin’s story was rewritten — speakers: Rosalind Franklin, James Watson, Francis Crick, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-04-19 — A smarter way to melt down plastics? — speakers: Dong et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-04-14 — How to battle misinformation with Sander van der Linden — speakers: Sander van der Linden, Sander van der, Benjamin Thompson, Noah Baker
+- 2023-04-12 — Octopuses hunt by 'tasting' with their suckers — speakers: Kang et al, Allard et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-04-05 — Giant black-hole pair from the early Universe gives clues to how galaxies form — speakers: Chen et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-03-31 — Audio long read: What Turkey’s earthquake tells us about the science of seismic forecasting — speakers: What Turkey, Benjamin Thompson, Noah Baker
+- 2023-03-29 — Bacterial ‘syringes’ could inject drugs directly into human cells — speakers: Research Highlight, Nature’s Lucy Odling-Smee, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-03-22 — How to make driverless cars safer — expose them to lots of dangerous drivers — speakers: Feng et al, Smriti Mallapaty, Benjamin Thompson, Noah Baker
+- 2023-03-15 — How to build a virus-proof cell — speakers: Benjamin Thompson, Noah Baker
+- 2023-03-08 — How the Australian wildfires devastated the ozone layer — speakers: News Views, Zia Mehrabi, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-03-01 — How an increased heart rate could induce anxiety in mice — speakers: News Views, Alex Witze, Thomas et al, Daly et al, Li et al, Cheng et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-02-27 — Nature's Take: How Twitter's changes could affect science — speakers: Elon Musk, Benjamin Thompson, Noah Baker
+- 2023-02-24 — Audio long read: How your first brush with COVID warps your immunity — speakers: Benjamin Thompson, Noah Baker
+- 2023-02-22 — A twisting microscope that could unlock the secrets of 2D materials — speakers: Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-02-15 — How 'metadevices' could make electronics faster — speakers: Benjamin Thompson, Noah Baker
+- 2023-02-08 — This mysterious space rock shouldn’t have a ring — but it does — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-02-01 — How mummies were prepared: Ancient Egyptian pots spill secrets — speakers: Rageot et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-01-30 — Audio long read: The ‘breakthrough’ obesity drugs that have stunned researchers — speakers: Benjamin Thompson, Noah Baker
+- 2023-01-25 — Amino acid slows nerve damage from diabetes, in mouse study — speakers: Handzlik et al News, Sargassum Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-01-18 — Laser 'lightning rod' diverts strikes high in the Alps — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-01-11 — The science stories you missed over the past four weeks — speakers: Books Arts, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2023-01-06 — Science in 2023: what to expect this year — speakers: Miryam Naddaf, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-12-28 — The Nature Podcast’s highlights of 2022 — speakers: Spyrou et al, Highlights Hippos, Maloney et al News, Benjamin Thompson, Noah Baker
+- 2022-12-21 — The Nature Podcast Festive Spectacular 2022 — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-12-14 — COVID deaths: three times the official toll — speakers: Msemburi et al, Covid Editorial, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-12-07 — Oldest DNA reveals two-million-year-old ecosystem — speakers: Stegmann et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-12-02 — Gaia Vince on how climate change will shape where people live — speakers: Gaia Vince, Nomad Century, Allen Lane, Benjamin Thompson, Noah Baker
+- 2022-11-30 — Mysterious fluid from ant pupae helps feed colony — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
+- 2022-11-25 — Audio long read: Science and the World Cup — how big data is transforming football — speakers: Benjamin Thompson, Noah Baker
+- 2022-11-23 — The satellite-free alternative to GPS — speakers: Benjamin Thompson, Noah Baker
+- 2022-11-16 — How a key Alzheimer's gene wreaks havoc in the brain — speakers: Alex Witze, Okholm Kryger et, Flora Graham, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-11-14 — Audio long read: She was convicted of killing her four children. Could a gene mutation set her free? — speakers: Kathleen Folbigg, Benjamin Thompson, Noah Baker
+- 2022-11-09 — Molecular cages sift 'heavy' water from near-identical H2O — speakers: Su et al, Jeff Tollefson, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-11-04 — Audio long read: The controversial embryo tests that promise a better baby — speakers: Benjamin Thompson, Noah Baker
+- 2022-11-02 — Flies can move their rigid, omnidirectional eyes – a little — speakers: Fenk et al, Oliver Belcher, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-10-28 — Racism in Health: the harms of biased medicine — speakers: Benjamin Thompson, Noah Baker
+- 2022-10-26 — Ancient DNA reveals family of Neanderthals living in Siberian cave — speakers: Benjamin Thompson, Noah Baker
+- 2022-10-12 — Human brain organoids implanted into rats could offer new way to model disease — speakers: Revah et al News, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-10-05 — Virtual library of LSD-like drugs could reveal new antidepressants — speakers: Flora Graham, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-10-03 — Nature's Take: How the war in Ukraine is impacting science — speakers: Benjamin Thompson, Noah Baker
+- 2022-09-30 — Audio long read: What scientists have learnt from COVID lockdowns — speakers: Benjamin Thompson, Noah Baker
+- 2022-09-28 — A trove of ancient fish fossils helps trace the origin of jaws — speakers: Henry Gee, Zhu et al, Gai et al, Research Highlight, Paisley Currah, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-09-21 — Huge dataset shows 80% of US professors come from just 20% of institutions — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-09-14 — Complex synthetic cells bring scientists closer to artificial cellular life — speakers: Xu et al News, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-09-07 — Missing foot reveals world’s oldest amputation — speakers: Maloney et al News, James Webb Space Telescope, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-08-26 — Audio long read: Hybrid brains – the ethics of transplanting human neurons into animals — speakers: Benjamin Thompson, Noah Baker
+- 2022-08-24 — How to make water that's full of holes — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-08-17 — Do protons have intrinsic charm? New evidence suggests yes — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-08-15 — Nature's Take: what's next for the preprint revolution — speakers: all together, Benjamin Thompson, Noah Baker
+- 2022-08-10 — Why low temperatures could help starve tumours of fuel — speakers: tumours glucose, Seki et al, Benjamin Thompson, Noah Baker
+- 2022-08-03 — Massive Facebook study reveals a key to social mobility — speakers: Chetty et al, Chetty et al News, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-07-29 — Coronapod: the open-science plan to unseat big Pharma and tackle vaccine inequity — speakers: Benjamin Thompson, Noah Baker
+- 2022-07-27 — How humans adapted to digest lactose — after thousands of years of milk drinking — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-07-20 — How researchers have pinpointed the origin of 'warm-blooded' mammals — speakers: Araujo et al, Research Highlight, Dietrich et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-07-13 — Ancient mud reveals the longest record of climate from the tropics — speakers: James Webb Space Telescope, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-07-11 — Higgs boson at 10: a deep dive into the mysterious, mass-giving particle — speakers: Lizzie Gibney, Federico Levi, Hadron Collider, Benjamin Thompson, Noah Baker
+- 2022-07-08 — Coronapod: detecting COVID variants in sewage — speakers: Benjamin Thompson, Noah Baker
+- 2022-07-06 — Higgs boson turns ten: the mysteries physicists are still trying to solve — speakers: Higgs boson, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-07-01 — Ed Yong on the wondrous world of animal senses — speakers: Ed Yong, Benjamin Thompson, Noah Baker
+- 2022-06-29 — Norovirus could spread through saliva: a new route for infection? — speakers: Ghosh et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-06-27 — Audio long read: These six countries are about to go to the Moon — speakers: Benjamin Thompson, Noah Baker
+- 2022-06-24 — Coronapod: USA authorises vaccines for youngest of kids — speakers: Benjamin Thompson, Noah Baker
+- 2022-06-22 — How science can tackle inequality — speakers: Diamantopoulou et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-06-15 — How the Black Death got its start — speakers: Spyrou et al, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-06-11 — Coronapod: COVID and smell loss, what the science says — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-06-08 — Ancient 'giraffes' sported thick helmets for headbutting — speakers: giraffe evolution, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-06-06 — Audio long read: The brain-reading devices helping paralysed people to move, talk and touch — speakers: Benjamin Thompson, Noah Baker
+- 2022-06-01 — Robot exercises shoulder cells for better tissue transplants — speakers: Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-05-30 — Coronapod: 'A generational loss' - COVID's devastating impact on education — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-05-25 — X-ray analysis hints at answers to fossil mystery — speakers: Hirasawa et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-05-18 — How galaxies could exist without dark matter — speakers: van Dokkum, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-05-13 — Coronapod: 'viral ghosts' support idea that SARS-CoV-2 reservoirs could be behind long COVID — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-05-11 — Retinas revived after donor's death open door to new science — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-05-04 — Swapping in a bit of microbial 'meat' has big eco-gains — speakers: Research Highlight, Zhao et al, Webby Award, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-04-29 — Coronapod: COVID and diabetes, what the science says — speakers: Benjamin Thompson, Noah Baker
+- 2022-04-27 — How virtual meetings can limit creative ideas — speakers: Chan et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-04-25 — Audio long-read: The quest to prevent MS — and understand other post-viral diseases — speakers: Benjamin Thompson, Noah Baker
+- 2022-04-20 — We could still limit global warming to just 2˚C — but there's an 'if' — speakers: Info Confirms, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-04-15 — Coronapod: Infected immune cells hint at cause of severe COVID — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-04-13 — Why do naked mole rats live as long as giraffes? — speakers: Cagan et al News, Benjamin Thompson, Noah Baker
+- 2022-04-06 — Five years in the coldest fridge in the known Universe — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-04-05 — Audio long-read: A more-inclusive genome project aims to capture all of human diversity — speakers: Benjamin Thompson, Noah Baker
+- 2022-03-30 — Winding roads could make you a better navigator — speakers: Calafat et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-03-23 — Milky Way's origin story revealed by 250,000 stars — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-03-18 — Coronapod: How vaccine complacency is plaguing 'COVID zero' strategies — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-03-17 — The coin toss of Alzheimer's inheritance — speakers: Marty Reiswig, Lorna Stewart, Benjamin Thompson, Noah Baker
+- 2022-03-16 — The vest that can hear your heartbeat — speakers: Yan et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-03-09 — The AI that deciphers ancient Greek graffiti — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-03-04 — Coronapod: why stopping COVID testing would be a mistake — speakers: Benjamin Thompson, Noah Baker
+- 2022-03-02 — COVID stimulus spending failed to deliver on climate promises — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-02-28 — Audio long-read: The race to save the Internet from quantum hackers — speakers: Benjamin Thompson, Noah Baker
+- 2022-02-23 — Dinosaur-destroying asteroid struck in spring — speakers: Briefing Chat, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-02-16 — Tongan volcano eruption leaves scientists with unanswered questions — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-02-11 — Coronapod: How African scientists are copying Moderna's COVID vaccine — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-02-09 — RNA test detects deadly pregnancy disorder early — speakers: Benjamin Thompson, Noah Baker
+- 2022-02-04 — Coronapod: what people get wrong about endemic COVID — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-02-02 — Weirdly flowing water finally has an explanation: 'quantum friction' — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-01-28 — Coronapod: Why T cells have been overlooked — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-01-26 — How can battery-powered aircraft get off the ground? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-01-24 — Audio long read: Is precision public health the future — or a contradiction? — speakers: Benjamin Thompson, Noah Baker
+- 2022-01-21 — Coronapod: COVID death toll is likely millions more than official counts — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-01-19 — Why mutation is not as random as we thought — speakers: Benjamin Thompson, Noah Baker
+- 2022-01-14 — Podcast Extra: Recreating the lost sounds of spring — speakers: Simon Butler, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-01-12 — Webb Space Telescope makes history after tense launch — speakers: Webb Space Telescope, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2022-01-05 — Science in 2022: what to expect this year — speakers: Davide Castelvecchi, Benjamin Thompson, Noah Baker
+- 2021-12-31 — Audio long-read: The secret lives of cells — as never seen before — speakers: Benjamin Thompson, Noah Baker
+- 2021-12-29 — Our podcast highlights of 2021 — speakers: Benjamin Thompson, Noah Baker
+- 2021-12-22 — The Nature Podcast annual holiday spectacular — speakers: Noah Baker, Emily Renshaw-Kidd, Deep Mind, Kerri Smith, Phil Self, DeepMind’s AI, Benjamin Thompson
+- 2021-12-17 — Coronapod: Omicron - your questions answered — speakers: Covid vaccine, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-12-15 — Pluto's strange ice patterns explained by new theory — speakers: Sputnik Planitia, Morison et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-12-10 — Coronapod: vaccines and long COVID, how protected are you? — speakers: Covid vaccine, Benjamin Thompson, Noah Baker
+- 2021-12-08 — How 'megastudies' are changing behavioural science — speakers: James Webb Space Telescope, James Webb, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-12-03 — Coronapod: How has COVID impacted mental health? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-12-01 — What’s the best diet for people and the planet? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-11-29 — Audio long-read: The chase for fusion energy — speakers: Benjamin Thompson, Noah Baker
+- 2021-11-26 — Coronapod: everything we know about the new COVID variant — speakers: Benjamin Thompson, Noah Baker
+- 2021-11-24 — Researcher careers under the microscope: salary satisfaction and COVID impacts — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-11-17 — Sea squirts teach new lessons in evolution — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-11-12 — Coronapod: new hope from COVID antiviral drugs — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-11-10 — The past and future of the Earth's climate — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-11-08 — Audio long-read: How dangerous is Africa’s explosive Lake Kivu? — speakers: Lake Kivu, Democratic Republic, Benjamin Thompson, Noah Baker
+- 2021-11-03 — Podcast special: onboard the climate train to COP26 — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-10-29 — China’s COVID vaccines have been crucial — now immunity is waning — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-10-27 — Genomics unwraps mystery of the Tarim mummies — speakers: Zhang et al News, Guillaume Cabanac, Jeff Tollefson, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-10-25 — Coronapod: can scientists harness COVID super-immunity? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-10-20 — Viking presence in the Americas pinpointed by ancient solar storm — speakers: Kuitems et al, Research Highlight, Pham et al, Francis Collin, Francis Collins, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-10-18 — Coronapod: the COVID scientists facing violent threats — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-10-13 — How electric acupuncture zaps inflammation in mice — speakers: Liu et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-10-10 — Coronapod: new data affirms the benefits of air filters and masks — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-10-06 — The AI that accurately predicts the chances of rain — speakers: AI Short, Flora Graham, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-09-29 — Starting up in science: behind the scenes — speakers: Benjamin Thompson, Noah Baker
+- 2021-09-29 — Starting up in science: Episode 4 — speakers: Benjamin Thompson, Noah Baker
+- 2021-09-29 — Starting up in science: Episode 3 — speakers: Benjamin Thompson, Noah Baker
+- 2021-09-29 — Starting up in science: Episode 2 — speakers: Benjamin Thompson, Noah Baker
+- 2021-09-29 — Starting up in science: Episode 1 — speakers: Daniel Bose, Benjamin Thompson, Noah Baker
+- 2021-09-27 — Audio long-read: Can artificially altered clouds save the Great Barrier Reef? — speakers: Great Barrier Reef, Benjamin Thompson, Noah Baker
+- 2021-09-25 — Coronapod: solving the COVID vaccine manufacturing problem — speakers: Benjamin Thompson, Noah Baker
+- 2021-09-22 — The floating sensors inspired by seeds — speakers: Kim et al, Benjamin Thompson, Noah Baker
+- 2021-09-15 — How to help feed the world with 'Blue Foods' — speakers: Ismahane Elouafi, Tang et al, Benjamin Thompson, Noah Baker
+- 2021-09-08 — The billion years missing from Earth’s history — speakers: Groucutt et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-09-01 — Dead trees play an under-appreciated role in climate change — speakers: Seibold et al, Highlights Massive, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-08-25 — Audio long-read: why sports concussions are worse for women — speakers: Benjamin Thompson, Noah Baker
+- 2021-08-21 — Coronapod: How Delta is changing the game — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-08-18 — What’s the isiZulu for dinosaur? How science neglected African languages — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-08-14 — Coronapod: COVID boosters amidst global vaccine inequity — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-08-11 — The brain cells that help animals navigate in 3D — speakers: Wang et al, Jeff Tollefson, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-08-06 — Coronapod: Ivermectin, what the science says — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-08-04 — Flood risk rises as people surge into vulnerable regions — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-07-28 — Has the world’s oldest known animal been discovered? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-07-26 — Audio long-read: How ancient people fell in love with bread, beer and other carbs — speakers: Benjamin Thompson, Noah Baker
+- 2021-07-24 — Coronapod: the latest on COVID and sporting events — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-07-21 — How the US is rebooting gun violence research — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-07-16 — Coronapod: Does England's COVID strategy risk breeding deadly variants? — speakers: Benjamin Thompson, Noah Baker
+- 2021-07-14 — How deadly heat waves expose historic racism — speakers: Nick Holmes, Richard Branson, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-07-09 — Coronapod: Will COVID become a disease of the young? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-07-07 — Food shocks and how to avoid them — speakers: Alfonso Mejia, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-07-02 — Coronapod: the biomarker that could change COVID vaccines — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-30 — The scientist whose hybrid rice helped feed billions — speakers: Yuan Longping, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-28 — Audio long-read: How COVID exposed flaws in evidence-based medicine — speakers: Benjamin Thompson, Noah Baker
+- 2021-06-25 — Coronapod: should you have a COVID vaccine when breastfeeding? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-23 — Quantum compass might help birds 'see' magnetic fields — speakers: Xu et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-18 — CureVac disappoints in COVID vaccine trial — speakers: Pfizer BioNtec, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-16 — Communities, COVID and credit: the state of science collaborations — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-11 — Coronapod: Counting the cost of long COVID — speakers: Covid Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-09 — Google AI beats humans at designing computer chips — speakers: Hua et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-04 — Coronapod: Uncertainty and the COVID 'lab-leak' theory — speakers: Covid Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-06-02 — On the origin of numbers — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-05-26 — New hope for vaccine against a devastating livestock disease — speakers: Autheman et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-05-24 — Audio long-read: How harmful are microplastics? — speakers: Benjamin Thompson, Noah Baker
+- 2021-05-19 — The 'zombie' fires that keep burning under snow-covered forests — speakers: Scholten et al, Highlights Aesthetic, Faraway Nasa, Benjamin Thompson, Noah Baker
+- 2021-05-14 — Coronapod: The variant blamed for India's catastrophic second wave — speakers: severe disease, Benjamin Thompson, Noah Baker
+- 2021-05-12 — The brain implant that turns thoughts into text — speakers: Willett et al News, Anna Ploszajski, Benjamin Thompson, Noah Baker
+- 2021-05-07 — Coronapod: Waiving vaccine patents and coronavirus genome data disputes — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-05-05 — Oldest African burial site uncovers Stone Age relationship with death — speakers: Webby Awards, Nguyen et al, Benjamin Thompson, Noah Baker
+- 2021-04-30 — Coronapod special: The inequality at the heart of the pandemic — speakers: Amy Maxmen, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-04-28 — What fruit flies could teach scientists about brain imaging — speakers: Webby Awards, Mann et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-04-26 — Audio long-read: How drugmakers can be better prepared for the next pandemic — speakers: Benjamin Thompson, Noah Baker
+- 2021-04-23 — Coronapod: Kids and COVID vaccines — speakers: Benjamin Thompson, Noah Baker
+- 2021-04-21 — Meet the inflatable, origami-inspired structures — speakers: Vijaya Ramachandran, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-04-16 — Coronapod: could COVID vaccines cause blood clots? Here's what the science says — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-04-14 — The sanitation crisis making rural America ill — speakers: Catherine Coleman Flowers, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-04-09 — Coronapod: A whistle-blower’s quest to take politics out of coronavirus surveillance — speakers: Rick Bright, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-04-06 — Audio long-read: Rise of the robo-writers — speakers: Benjamin Thompson, Noah Baker
+- 2021-04-02 — Coronapod: How to define rare COVID vaccine side effects — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-03-31 — Antimatter cooled with lasers for the first time — speakers: Briefing Chat, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-03-26 — Coronapod: the Oxford-AstraZeneca COVID vaccine - what you need to know — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-03-24 — Network of world's most accurate clocks paves way to redefine time — speakers: Camille Noûs, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-03-19 — Coronapod: Why COVID antibody treatments may not be the answer — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-03-17 — The AI that argues back — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-03-12 — Coronapod: COVID and pregnancy - what do we know? — speakers: Benjamin Thompson, Noah Baker
+- 2021-03-10 — The smallest measurement of gravity ever recorded — speakers: Fukushima Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-03-05 — Coronapod: COVID's origins and the 'lab leak' theory — speakers: Benjamin Thompson, Noah Baker
+- 2021-03-03 — COVID, 2020 and a year of lost research — speakers: Research Highlight, Graf et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-02-26 — Coronapod: Google-backed database could help answer big COVID questions — speakers: Benjamin Thompson, Noah Baker
+- 2021-02-24 — The quark of the matter: what's really inside a proton? — speakers: Sugimoto et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-02-23 — Audio long-read: Thundercloud Project tackles a gamma-ray mystery — speakers: Thundercloud Project, Benjamin Thompson, Noah Baker
+- 2021-02-19 — Coronapod: our future with an ever-present coronavirus — speakers: Benjamin Thompson, Noah Baker
+- 2021-02-17 — A mammoth discovery: oldest DNA on record from million-year-old teeth — speakers: et al, Briefing Chat, Benjamin Thompson, Noah Baker
+- 2021-02-12 — Coronapod: Is mixing COVID vaccines a good idea? — speakers: Benjamin Thompson, Noah Baker
+- 2021-02-10 — Human Genome Project - Nature’s editor-in-chief reflects 20 years on — speakers: Magdalena Skipper, Bromham et al, Benjamin Thompson, Noah Baker
+- 2021-02-05 — Coronapod: Variants – what you need to know — speakers: Benjamin Thompson, Noah Baker
+- 2021-02-03 — Mysterious einsteinium spills its secrets — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-01-29 — Coronapod: Fixing the world’s pandemic alarm — speakers: Benjamin Thompson, Noah Baker
+- 2021-01-28 — Audio long-read: Push, pull and squeeze – the hidden forces that shape life — speakers: Benjamin Thompson, Noah Baker
+- 2021-01-27 — How a spinal device could relieve a neglected effect of cord injury — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2021-01-20 — Hiring discrimination laid bare by mountain of data — speakers: Hangartner et al, Joe Biden, Joe Biden’s Covid, Eric Lander, Nature Briefing, Benjamin Thompson, Noah Baker
 - 2021-01-14 — Coronapod: The rise of RNA vaccines — speakers: Benjamin Thompson, Noah Baker, Elie Dolgin, Nature Briefing
-- 2021-01-13 — The mysterious extinction of the dire wolf — speakers: Nature Briefing
-- 2020-12-30 — Audio long-read: Controlling COVID with science - Iceland's story
-- 2020-12-23 — Our podcast highlights of 2020
+- 2021-01-13 — The mysterious extinction of the dire wolf — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-12-30 — Audio long-read: Controlling COVID with science - Iceland's story — speakers: Benjamin Thompson, Noah Baker
+- 2020-12-23 — Our podcast highlights of 2020 — speakers: Benjamin Thompson, Noah Baker
 - 2020-12-17 — Coronapod: The big COVID research papers of 2020 — speakers: Benjamin Thompson, Noah Baker, Traci Watson
-- 2020-12-16 — Could you prevent a pandemic? A very 2020 video game — speakers: Nature Briefing, Next Tianwen-one
-- 2020-12-09 — Don’t think too deeply about the origin of life – it may have started in puddles — speakers: Nature Briefing
-- 2020-12-03 — Norway's prime minister reveals plans to protect the world's oceans — speakers: Erna Solberg, Philip Campbell, Nature Briefing
-- 2020-12-02 — Cellular ageing: turning back the clock restores vision in mice — speakers: Lu et al News, Morel et al
-- 2020-11-25 — Neutrinos give insights into the workings of the Sun’s core — speakers: Nature Briefing
-- 2020-11-19 — Coronapod: What could falling COVID death rates mean for the pandemic? — speakers: Nature Briefing
-- 2020-11-18 — The troubling rise of facial recognition technology — speakers: Nature Briefing
-- 2020-11-13 — Audio long-read: The enigmatic organisms of the Ediacaran Period — speakers: like legs
-- 2020-11-11 — Revealed: the impact of noise and light pollution on birds — speakers: Nature Briefing
-- 2020-11-04 — A powerful radio burst from a magnetic star — speakers: Nature Briefing
+- 2020-12-16 — Could you prevent a pandemic? A very 2020 video game — speakers: Nature Briefing, Next Tianwen-one, Benjamin Thompson, Noah Baker
+- 2020-12-09 — Don’t think too deeply about the origin of life – it may have started in puddles — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-12-03 — Norway's prime minister reveals plans to protect the world's oceans — speakers: Erna Solberg, Philip Campbell, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-12-02 — Cellular ageing: turning back the clock restores vision in mice — speakers: Lu et al News, Morel et al, Benjamin Thompson, Noah Baker
+- 2020-11-25 — Neutrinos give insights into the workings of the Sun’s core — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-11-19 — Coronapod: What could falling COVID death rates mean for the pandemic? — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-11-18 — The troubling rise of facial recognition technology — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-11-13 — Audio long-read: The enigmatic organisms of the Ediacaran Period — speakers: like legs, Benjamin Thompson, Noah Baker
+- 2020-11-11 — Revealed: the impact of noise and light pollution on birds — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-11-04 — A powerful radio burst from a magnetic star — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
 - 2020-10-30 — Talking politics, talking science — speakers: Nick Howe, Noah Baker, Benjamin Thompson, Deborah Blum, Bruce Lewenstein, Dan Sarewitz, Hannah Schmid-Petri, Shobita Parthasarathy
 - 2020-10-29 — Politics of the life scientific — speakers: Nick Howe, Noah Baker, Benjamin Thompson, Mayana Zatz, Michael Erard, Peg AtKisson, Susannah Gal, Allen Rostron
 - 2020-10-28 — A brief history of politics and science — speakers: Nick Howe, Noah Baker, Benjamin Thompson, Shobita Parthasarathy, Alice Bell, Dan Sarewitz, Anna Jay, Melinda Baldwin
-- 2020-10-28 — Lab–grown brains and the debate over consciousness
-- 2020-10-21 — The science behind an 'uncrushable' beetle’s exoskeleton — speakers: Haumann et al, Julie Posselt, Briefing Chat
-- 2020-10-14 — Superconductivity gets heated — speakers: Salesperson Record
-- 2020-10-09 — Audio long-read: What animals really think
-- 2020-10-07 — Trump vs. Biden: what's at stake for science? — speakers: Joe Biden, Donald Trump, Research Highlight, Schiavo et al
-- 2020-09-30 — Greenland's ice will melt faster than any time in the past 12,000 years — speakers: Research Highlight, Lee et al
-- 2020-09-23 — After decades of trying, scientists coax plastic particles into a diamond-like structure — speakers: Xu et al, Nature Briefing
-- 2020-09-16 — Genes chart Vikings' spread across Europe — speakers: Shnaiderman et al, Briefing Chat, Nature Briefing
-- 2020-09-09 — A new way to cool computer chips — from within — speakers: et al, Nature Briefing
-- 2020-09-02 — Revealed: A clearer view of how general anaesthetics actually work — speakers: Kim et al, Elon Musk
-- 2020-08-26 — The challenge of reproducing results from ten-year-old code — speakers: Vepsäläinen et al, Nature Briefing
-- 2020-08-19 — 3D-printing some of the world's lightest materials — speakers: Henry et al, Nature Briefing
-- 2020-08-12 — The chemical that turns locusts from Jekyll into Hyde — speakers: Guo et al, Shahal et al, Sugiura Subscribe, Nature Briefing
-- 2020-08-07 — Audio long-read: Pluto’s dark side is overflowing with secrets
-- 2020-07-29 — Why skin grows bigger as you stretch it
-- 2020-07-22 — When did people arrive in the Americas? New evidence stokes debate — speakers: Nature Briefing
-- 2020-07-15 — Graphene’s magic angle reveals a new twist — speakers: Arora et al
-- 2020-07-10 — Coronapod: Massive coronavirus outbreak strikes iconic Californian prison after it rejected expert aid
-- 2020-07-08 — The six-year-old space agency with hopes for Mars — speakers: Nature Briefing
-- 2020-07-03 — Coronapod: Lessons from pandemic ‘war-game’ simulations — speakers: Benjamin Thompson, Nature Briefing
-- 2020-07-01 — What the atomic structure of enamel tells us about tooth decay — speakers: Research Highlight, Armstrong et al, Nature Briefing
-- 2020-06-26 — Coronapod: The state of the pandemic, six months in — speakers: Nature Briefing
-- 2020-06-24 — How playing poker can help you make decisions — speakers: Maria Konnikova, Research Highlight, Nature Briefing
-- 2020-06-19 — Coronapod: Dexamethasone, the cheap steroid that could cut coronavirus deaths — speakers: Nature Briefing
-- 2020-06-17 — Incest in the elite of Neolithic Ireland — speakers: Nidhi Subbaraman, Nature Briefing
-- 2020-06-15 — Long Read Podcast: Enigmatic neutron stars may soon give up their secrets — speakers: International Space Station
-- 2020-06-12 — Coronapod: The Surgisphere scandal that rocked coronavirus drug research
-- 2020-06-11 — The quantum space lab — speakers: Dielforder et al
-- 2020-06-09 — #ShutDownSTEM and the Nature Podcast — speakers: com Editorial
-- 2020-06-05 — Coronapod: The heavy toll on people of colour — speakers: George Floyd, Richard Van Noorden, Nick Howe
-- 2020-06-03 — Lab-made skin grows its own hair — speakers: Lee et al, Xu et al, Nature Briefing
-- 2020-05-29 — Coronapod: The divisive hydroxychloroquine study that's triggering mass confusion — speakers: Denis Shiryaev, Noah Baker
-- 2020-05-27 — Super-efficient catalyst boosts hopes for hydrogen fuel — speakers: Nature Briefing
-- 2020-05-22 — Coronapod: Hope and caution greet vaccine trial result, and Trump vs the WHO — speakers: Noah Baker
-- 2020-05-20 — A synthetic eye that 'sees' like a human — speakers: Gu et al, Highlights Dazzling, Nature Briefing
-- 2020-05-15 — Coronapod: The misinformation pandemic, and science funding fears — speakers: Nature Briefing
-- 2020-05-13 — The super-sleuth who spots trouble in science papers, and the puzzle of urban smog — speakers: Elisabeth Bik, Tully Monster, Wang et al, Nature Briefing
-- 2020-05-08 — Coronapod: The dangers of ignoring outbreaks in homeless shelters, plus coronavirus and drug abuse — speakers: Nora Volkow, Nature Briefing
-- 2020-05-06 — 07 May 2020: Galileo and the science deniers, and physicists probe the mysterious pion — speakers: Bacteria Can Eat, Nature Briefing
-- 2020-05-01 — Coronapod: What use are contact tracing apps? And new hopes for coronavirus drug remdesivir
-- 2020-04-29 — 30 April 2020: A sniff test for consciousness, and how to cut antibiotics use — with vaccines — speakers: Arzi et al, Nature Briefing
+- 2020-10-28 — Lab–grown brains and the debate over consciousness — speakers: Benjamin Thompson, Noah Baker
+- 2020-10-21 — The science behind an 'uncrushable' beetle’s exoskeleton — speakers: Haumann et al, Julie Posselt, Briefing Chat, Benjamin Thompson, Noah Baker
+- 2020-10-14 — Superconductivity gets heated — speakers: Salesperson Record, Benjamin Thompson, Noah Baker
+- 2020-10-09 — Audio long-read: What animals really think — speakers: Benjamin Thompson, Noah Baker
+- 2020-10-07 — Trump vs. Biden: what's at stake for science? — speakers: Joe Biden, Donald Trump, Research Highlight, Schiavo et al, Benjamin Thompson, Noah Baker
+- 2020-09-30 — Greenland's ice will melt faster than any time in the past 12,000 years — speakers: Research Highlight, Lee et al, Benjamin Thompson, Noah Baker
+- 2020-09-23 — After decades of trying, scientists coax plastic particles into a diamond-like structure — speakers: Xu et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-09-16 — Genes chart Vikings' spread across Europe — speakers: Shnaiderman et al, Briefing Chat, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-09-09 — A new way to cool computer chips — from within — speakers: et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-09-02 — Revealed: A clearer view of how general anaesthetics actually work — speakers: Kim et al, Elon Musk, Benjamin Thompson, Noah Baker
+- 2020-08-26 — The challenge of reproducing results from ten-year-old code — speakers: Vepsäläinen et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-08-19 — 3D-printing some of the world's lightest materials — speakers: Henry et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-08-12 — The chemical that turns locusts from Jekyll into Hyde — speakers: Guo et al, Shahal et al, Sugiura Subscribe, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-08-07 — Audio long-read: Pluto’s dark side is overflowing with secrets — speakers: Benjamin Thompson, Noah Baker
+- 2020-07-29 — Why skin grows bigger as you stretch it — speakers: Benjamin Thompson, Noah Baker
+- 2020-07-22 — When did people arrive in the Americas? New evidence stokes debate — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-07-15 — Graphene’s magic angle reveals a new twist — speakers: Arora et al, Benjamin Thompson, Noah Baker
+- 2020-07-10 — Coronapod: Massive coronavirus outbreak strikes iconic Californian prison after it rejected expert aid — speakers: Benjamin Thompson, Noah Baker
+- 2020-07-08 — The six-year-old space agency with hopes for Mars — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-07-03 — Coronapod: Lessons from pandemic ‘war-game’ simulations — speakers: Benjamin Thompson, Nature Briefing, Noah Baker
+- 2020-07-01 — What the atomic structure of enamel tells us about tooth decay — speakers: Research Highlight, Armstrong et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-06-26 — Coronapod: The state of the pandemic, six months in — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-06-24 — How playing poker can help you make decisions — speakers: Maria Konnikova, Research Highlight, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-06-19 — Coronapod: Dexamethasone, the cheap steroid that could cut coronavirus deaths — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-06-17 — Incest in the elite of Neolithic Ireland — speakers: Nidhi Subbaraman, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-06-15 — Long Read Podcast: Enigmatic neutron stars may soon give up their secrets — speakers: International Space Station, Benjamin Thompson, Noah Baker
+- 2020-06-12 — Coronapod: The Surgisphere scandal that rocked coronavirus drug research — speakers: Benjamin Thompson, Noah Baker
+- 2020-06-11 — The quantum space lab — speakers: Dielforder et al, Benjamin Thompson, Noah Baker
+- 2020-06-09 — #ShutDownSTEM and the Nature Podcast — speakers: com Editorial, Benjamin Thompson, Noah Baker
+- 2020-06-05 — Coronapod: The heavy toll on people of colour — speakers: George Floyd, Richard Van Noorden, Nick Howe, Benjamin Thompson, Noah Baker
+- 2020-06-03 — Lab-made skin grows its own hair — speakers: Lee et al, Xu et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-05-29 — Coronapod: The divisive hydroxychloroquine study that's triggering mass confusion — speakers: Denis Shiryaev, Noah Baker, Benjamin Thompson
+- 2020-05-27 — Super-efficient catalyst boosts hopes for hydrogen fuel — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-05-22 — Coronapod: Hope and caution greet vaccine trial result, and Trump vs the WHO — speakers: Noah Baker, Benjamin Thompson
+- 2020-05-20 — A synthetic eye that 'sees' like a human — speakers: Gu et al, Highlights Dazzling, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-05-15 — Coronapod: The misinformation pandemic, and science funding fears — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-05-13 — The super-sleuth who spots trouble in science papers, and the puzzle of urban smog — speakers: Elisabeth Bik, Tully Monster, Wang et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-05-08 — Coronapod: The dangers of ignoring outbreaks in homeless shelters, plus coronavirus and drug abuse — speakers: Nora Volkow, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-05-06 — 07 May 2020: Galileo and the science deniers, and physicists probe the mysterious pion — speakers: Bacteria Can Eat, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-05-01 — Coronapod: What use are contact tracing apps? And new hopes for coronavirus drug remdesivir — speakers: Benjamin Thompson, Noah Baker
+- 2020-04-29 — 30 April 2020: A sniff test for consciousness, and how to cut antibiotics use — with vaccines — speakers: Arzi et al, Nature Briefing, Benjamin Thompson, Noah Baker
 - 2020-04-24 — Coronapod: The race to expand antibody testing — speakers: Benjamin Thompson, Noah Baker, Amy Maxmen, Jim Yong Kim, Nature Briefing
-- 2020-04-22 — 23 April 2020: Denisovan DNA in modern Europeans, and the birth of an unusual celestial object — speakers: Nature Briefing
+- 2020-04-22 — 23 April 2020: Denisovan DNA in modern Europeans, and the birth of an unusual celestial object — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
 - 2020-04-17 — Coronapod: Troubling news — speakers: Benjamin Thompson, Noah Baker, Amy Maxmen, Donald Trump, Tom Moore, Nature Briefing
 - 2020-04-10 — Coronapod: An untapped resource — speakers: Benjamin Thompson, Noah Baker, Amy Maxmen, Leung et al, Nature Briefing
-- 2020-04-08 — 09 April 2020: A plastic-recycling enzyme, and supercooled molecules — speakers: Nature Briefing
+- 2020-04-08 — 09 April 2020: A plastic-recycling enzyme, and supercooled molecules — speakers: Nature Briefing, Benjamin Thompson, Noah Baker
 - 2020-04-03 — Coronapod: Ramping up responses — speakers: Benjamin Thompson, Noah Baker, Amy Maxmen, Evening Standard, Patrick Stewart, Nature Briefing
-- 2020-04-01 — 02 April 2020: Dating an ancient hominid skull, and an ancient Antarctic rainforest — speakers: Broken Hill, Yuk et al, Nature Briefing
+- 2020-04-01 — 02 April 2020: Dating an ancient hominid skull, and an ancient Antarctic rainforest — speakers: Broken Hill, Yuk et al, Nature Briefing, Benjamin Thompson, Noah Baker
 - 2020-03-27 — Coronapod: Old treatments and new hopes — speakers: Benjamin Thompson, Noah Baker, Amy Maxmen, Nature Briefing
-- 2020-03-25 — 25 March 2020: Ultra-fast electrical switches, and computing heart health — speakers: Falanga et al, Ouyang et al, Nature Briefing
-- 2020-03-21 — Podcast Extra: Rosamund Pike on portraying Marie Curie — speakers: Marie Curie Radioactive, Marie Skłodowska Curie, Lizzie Gibney
+- 2020-03-25 — 25 March 2020: Ultra-fast electrical switches, and computing heart health — speakers: Falanga et al, Ouyang et al, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-03-21 — Podcast Extra: Rosamund Pike on portraying Marie Curie — speakers: Marie Curie Radioactive, Marie Skłodowska Curie, Lizzie Gibney, Benjamin Thompson, Noah Baker
 - 2020-03-20 — Coronapod: “Test, test, test!” — speakers: Benjamin Thompson, Noah Baker, Amy Maxmen, Rebecca Katz, Nature Briefing
-- 2020-03-18 — 19 March 2020: Rosamund Pike in Radioactive, and the resurgence of Russian science — speakers: Marie Skłodowska Curie, Rosamund Pike, Marie Curie, Nature Briefing
-- 2020-03-17 — Podcast Extra: Coronavirus - science in the pandemic
-- 2020-03-13 — Long Read Podcast: Are feelings more than skin deep? — speakers: Kerri Smith
-- 2020-03-11 — 12 March 2020: An ancient bird trapped in amber, and life beneath the ocean floor — speakers: Li et al
-- 2020-03-04 — 05 March 2020: Ultrafast machine vision, and quicker crystal creation — speakers: Highlights Calorie
-- 2020-02-28 — Backchat: Covering coronavirus
-- 2020-02-26 — 27 February 2020: Mapping fruit flies’ neural circuitry, and perfecting the properties of metallic glass — speakers: Wang et al, Highlights Ancient
-- 2020-02-26 — Podcast Extra: ‘There is lots of anxiety’: a scientist’s view from South Korea — speakers: Nick Howe, Bartosz Gryzbowski
-- 2020-02-19 — 20 February 2020: Improving battery charging, and harnessing energy from the air — speakers: Highlights Deciphering, Gu et al, Liu et al
-- 2020-02-12 — 13 February 2020: The puzzling structures of muddled materials, and paving the way for the quantum internet — speakers: Yu et al
-- 2020-02-05 — 06 February 2020: Out-of-office emails and work-life-balance, and an update on the novel coronavirus outbreak
-- 2020-01-29 — 30 January 2020: Linking Australian bushfires to climate change, and Asimov's robot ethics — speakers: Isaac Asimov, mummy speaks, Howard et al
-- 2020-01-22 — 23 January: How stress can cause grey hair, and the attitude needed to tackle climate change — speakers: grey hair, Zhang et al, Research Highlight
-- 2020-01-15 — 16 January 2020: Strange objects at the centre of the galaxy, and improving measurements of online activity — speakers: Ciurlo et al
-- 2020-01-08 — 09 January 2020: A look ahead at science in 2020 — speakers: Davide Castelvecchi
-- 2020-01-01 — 01 January 2020: Our reporters’ top picks of 2019 — speakers: Li et al, John Goodenough
-- 2019-12-27 — Nature PastCast, December 1920: The Quantum Theory — speakers: Max Planck
-- 2019-12-23 — Podcast Extra: From climate lawyer to climate activist — speakers: Greta Thunberg, Farhana Yamin, Sara Abdulla
-- 2019-12-20 — Podcast Extra: Epigenetics — speakers: Nick Howe
-- 2019-12-18 — 19 December 2019: The three-body problem, and festive fun
-- 2019-12-16 — Long Read Podcast: How to save coral reefs as the world warms — speakers: Kerri Smith
-- 2019-12-11 — 12 December 2019: Social priming, and acoustic science — speakers: Highlights Killer
-- 2019-12-04 — 05 December 2019: Genomic sequencing and the source of solar winds — speakers: Highlights Bare
-- 2019-11-29 — Nature Pastcast, November 1869: The first issue of Nature
-- 2019-11-27 — 28 November 2019: Nature’s 2019 PhD survey, and older women in sci-fi novels
-- 2019-11-20 — 21 November 2019: A new antibiotic from nematode guts, grant funding ‘lotteries’, and butterfly genomes
-- 2019-11-13 — 14 November 2019: A rapid, multi-material 3D printer, and a bacterium’s role in alcoholic hepatitis — speakers: Duan et al
-- 2019-11-07 — Backchat: Nature's 150th anniversary
-- 2019-11-06 — 07 November 2019: The fossil of an upright ape, science in 150 years, and immunization progress around the world — speakers: Piot et al
-- 2019-10-31 — Nature Pastcast, October 1993: Carl Sagan uses Galileo to search for signs of life — speakers: Carl Sagan, David Kaiser, Charles Cockell, Frank Drake
-- 2019-10-30 — 31 October 2019: An AI masters the video game StarCraft II, and measuring arthropod abundance — speakers: Seibold et al
-- 2019-10-28 — Podcast Extra: Detecting gravitational waves
-- 2019-10-23 — 24 October 2019: Quantum supremacy and ancient mammals — speakers: Research Highlight
-- 2019-10-16 — 17 October 2019: Mapping childhood mortality, and evolving ‘de novo’ genes — speakers: Burstein et al
-- 2019-10-09 — 10 October 2019: Estimating earthquake risk, and difficulties for deep-learning — speakers: Highlights Vampire
-- 2019-10-09 — Podcast Extra: Q&A with Nobel Prize winner John B Goodenough — speakers: Benjamin Thompson
-- 2019-10-08 — Podcast Extra: Q&A with Nobel Prize winner Didier Queloz — speakers: Didier Queloz, Benjamin Thompson
-- 2019-10-02 — 03 October 2019: Leapfrogging speciation, and migrating mosquitoes — speakers: Mei et al, Research Highlight
-- 2019-09-27 — Nature PastCast, September 1963: Plate tectonics – the unifying theory of Earth sciences — speakers: Fred Vine
-- 2019-09-25 — 26 September 2019: Mysteries of the ancient mantle, and the Hitchhikers Guide to the Galaxy
-- 2019-09-21 — Podcast Extra: Absurd scientific advice — speakers: Randall Munroe
-- 2019-09-19 — Backchat: Covering Climate Now — speakers: Covering Climate Now
-- 2019-09-18 — 19 September 2019: XKCD, and Extinction Rebellion — speakers: Farhana Yamin, Randall Munroe, Extinction Rebellion
-- 2019-09-11 — 12 September 2019: Modelling early embryos, and male-dominated conferences — speakers: Zheng et al
-- 2019-09-04 — 05 September 2019: Persistent antibiotic resistance, and modelling hot cities — speakers: stun prey
-- 2019-08-30 — Nature PastCast, August 1975: Antibodies’ ascendency to blockbuster drug status — speakers: Margaret Thatcher
-- 2019-08-28 — 29 August 2019: Carbon-based computing, and depleting ancient-human genomes — speakers: Research Highlight, hominin skull
-- 2019-08-21 — 22 August 2019: Combating online hate speech, and identifying early fossils
-- 2019-08-14 — 15 August 2019: Atomic espionage in the Second World War, and exploring the early Universe
-- 2019-08-07 — 08 August 2019: A mindset for success, and mercury in fish — speakers: Tuna Methylmercury, Schartup et al
-- 2019-07-31 — 01 August 2019: The placental microbiome, and advances in artificial intelligence — speakers: Microbe-free placentas, de Goffau, Masson et al
-- 2019-07-26 — Nature PastCast, July 1942: Secret science in World War 2 — speakers: Jon Agar, John Westcott
-- 2019-07-24 — 25 July 2019: The history of climate change, and making vaccines mandatory — speakers: Neukom et al, Boris Johnson
-- 2019-07-19 — Backchat July 2019: Breaking news, audience-led journalism and human gene editing
-- 2019-07-17 — 18 July 2019: Quantum logic gates in silicon, and moving on from lab disasters
-- 2019-07-10 — 11 July 2019: The moon, past, present, and future — speakers: Alex Witze, Nick Howe
-- 2019-07-03 — 04 July 2019: Machine learning in materials science, and sand’s sustainability — speakers: Tshitoyan et al
-- 2019-06-28 — Nature PastCast, June 1876: Gorillas, man-eating monsters?
-- 2019-06-26 — 27 June 2019: Callused feet, and protein-based archaeology — speakers: Wang et al
-- 2019-06-19 — 20 June 2019: Non-native species, and a blood-inspired robot battery — speakers: Highlights Crafting, Aubin et al
-- 2019-06-12 — 13 June 2019: Mighty magnets, and aerosols in the atmosphere — speakers: Highlights Macaques
-- 2019-06-05 — 06 June 2019: Microbes modifying medicine and kickstarting plate tectonics
-- 2019-05-31 — Nature PastCast May 1983: Discovering the ozone layer hole
-- 2019-05-30 — 30 May 2019: Cold fusion, gender parity in universities, and studying wildfires
-- 2019-05-22 — 23 May 2019: Pre-industrial plankton populations, European science, and ancient fungi.
-- 2019-05-15 — 16 May 2019: Recoding genomes, and material from the Moon's far side
-- 2019-05-08 — 09 May 2019: Urban vs Rural BMI, and the health of rivers
-- 2019-05-01 — 02 May 2019: China's growing science network, and talking brain signals — speakers: Road Initiative
-- 2019-04-26 — Nature PastCast April 1953: The other DNA papers — speakers: James Watson, Francis Crick, Raymond Gosling
-- 2019-04-25 — 25 April 2019: Tiny earthquakes, the genetics of height, and how US-China politics is affecting research — speakers: Benjamin Thompson, Nisha Gaind
-- 2019-04-17 — 18 April 2019: Reviving brains, lightning, and spring books
-- 2019-04-11 — Podcast Extra: The first image of a black hole — speakers: Davide Castelvecchi, Benjamin Thompson
-- 2019-04-10 — 11 April 2019: Heart failure and vacuum field fluctuations.
-- 2019-04-03 — 04 April 2019: MDMA and the malleable mind, and keeping skin young
-- 2019-03-29 — Backchat March 2019: Calls for a research moratorium, and the evolution of science reporting — speakers: Backchat March
-- 2019-03-27 — 28 March 2019: Human impacts on Mount Kilimanjaro, sex differences in pain, and a crystal-based cooling method
-- 2019-03-20 — 21 March 2019: Antibiotics in orchards, and rethinking statistical significance
-- 2019-03-15 — Nature Pastcast March 1918: The eclipse expedition to put Einstein to the test — speakers: Arthur Eddington
-- 2019-03-14 — 14 March 2019: Ebola in DRC, a new HIV treatment, and the proposed US budget. — speakers: Benjamin Thompson, Amy Maxmen
-- 2019-03-06 — 07 March 2019: Coastal carbon-sinks, mobile health, and Mileva Marić — speakers: Mileva Marić
-- 2019-02-27 — 28 February 2019: Cuckoo parasitism, topological materials, and cannabinoids in yeast.
-- 2019-02-20 — 21 February 2019: Mouse cell atlases and cataloguing viruses
-- 2019-02-13 — 14 February 2019: Atherosclerosis and disruptive science
-- 2019-02-06 — 07 February 2019: Massive chemical libraries, and CRISPR-CasX
-- 2019-01-30 — 31 January 2019: Women of the periodic table, and harvesting energy from Wi-Fi
-- 2019-01-23 — 24 January 2019: Economic downturns and black holes
-- 2019-01-16 — 17 January 2019: RNA splicing in yeast, and a walking fossil
-- 2019-01-11 — Podcast Extra: The search for a rare disease treatment — speakers: Nick Sireau, Geoff Marsh, Lakshminarayan Ranganath
-- 2019-01-09 — 10 January 2019: Fast Radio Bursts and new year future gazing — speakers: Fast Radio Bursts
-- 2018-12-26 — 26 December 2018: Our reporters' top picks of 2018
-- 2018-12-19 — 20 December 2018: Quantum physics adds a twist, and festive fun
-- 2018-12-13 — Podcast Extra: Evidence of a ‘transmissible’ Alzheimer’s protein
-- 2018-12-12 — 13 December 2018: The art of performing science, and chiral chemistry
-- 2018-12-05 — 06 December 2018: Heart xenotransplants and phage fighting
-- 2018-11-28 — 29 November 2018: Atomic clock accuracy and wind farm worries
-- 2018-11-21 — 22 November 2018: An ion-drive aeroplane, and DNA rearrangement. — speakers: moving parts
-- 2018-11-14 — 15 November 2018: Barnard’s Star, and clinical trials
-- 2018-11-07 — 08 November 2018: Designer cells, and a Breakthrough researcher
-- 2018-10-31 — 01 November 2018: Mood forecasting technology, and where are the WIMPs?
-- 2018-10-17 — 18 October 2018: Cannabis horticulture and the Sun's place in history
-- 2018-10-10 — 11 October 2018: The life of a new Nobel laureate and organised ants
-- 2018-10-03 — 04 October 2018: Latent HIV, bird personalities and the Hyabusa2 mission
-- 2018-09-26 — 27 September 2018: A wearable biosensor and a mechanical metamaterial.
-- 2018-09-19 — 20 September 2018: Negative emissions and swarms under strain
-- 2018-09-12 — 13 September 2018: The oldest drawing and the energy of data
-- 2018-09-05 — 6 September 2018: Space junk, and a physicist’s perspective on life
-- 2018-08-29 — 30 August 2018: Gravity’s big G and the evolution of babies
-- 2018-08-24 — Backchat August 2018: Audio reporting, audience feedback, and Brexit
-- 2018-08-22 — 23 August 2018: Quantum computers and labour division in ants
-- 2018-08-15 — 16 August 2018: Bumblebees, opioids, and ocean weather
-- 2018-08-08 — 8 August 2018: Fox aggression, microbiota and geoengineering
-- 2018-08-01 — 02 August 2018: Zebra finch colour perception, terraforming Mars, and attributing extreme weather — speakers: terraforming Mars
-- 2018-07-25 — 26 July 2018: Conservation, automata, and pet DNA tests — speakers: Dna tests
-- 2018-07-18 — 19 July 2018: DNA scaffolds, climate-altering microbes, and a robot chemist
-- 2018-07-11 — 12 July 2018: Rats, reefs, and career streaks — speakers: Cape Town
-- 2018-07-04 — 05 July 2018: A DNA computer, the koala genome, and the invisibility of LGBTQ+ researchers
-- 2018-06-29 — Backchat June 2018: Lab health, email briefings, and CRISPR
-- 2018-06-27 — 27 June 2018: Air pollution, sick plants, and stress
-- 2018-06-20 — 21 June 2018: Pancreatic cancer, silica cages, and AI bias — speakers: Artificial Intelligence
-- 2018-06-13 — 14 June 2018: Baobab tree death, zebrafish stem cells, and ice in Antarctica
-- 2018-06-06 — 07 June 2018: Magnetic animal migration, cold enzymes, and mouse memory
-- 2018-05-30 — 31 May 2018: Boosting diversity in physics, and life after an asteroid impact
-- 2018-05-23 — 24 May 2018: Climate costs, cleverer cab journeys, and peering through matter with muons
-- 2018-05-16 — 17 May 2018: Probing the proton, research misconduct, and making sense of mystery genes
-- 2018-05-09 — 10 May 2018: AI neuroscience, liquid crystals, and depression in academia
-- 2018-05-02 — 03 May 2018: Building early embryos, the fear response in mice, and ancient rhino remains
-- 2018-04-25 — 26 April 2018: Mini brains, and an updated enzyme image
-- 2018-04-20 — Backchat April 2018: Sexual harassment, social media, and celebrity scientists — speakers: Backchat April
-- 2018-04-18 — 19 April 2018: Synchronised shrimp, supernova science, and spring books. — speakers: big effects
-- 2018-04-11 — 12 April 2018: The power of remote sensing, and watching a neutron star glitch
-- 2018-04-04 — 05 April 2018: Human's influence on the Mississippi and 'dirty' mice
-- 2018-03-28 — 29 March 2018: AI in chemistry, and liquid droplets in living cells.
-- 2018-03-21 — 22 March 2018: Mexican cavefish, the gut microbiome, and a wearable brain scanner.
-- 2018-03-14 — 15 March 2018: Geoengineering Antarctica and increasing NMR’s resolution. — speakers: Geoengineering Antarctica
-- 2018-03-07 — 8 March 2018: Surprising graphene superconductors, and 50 years dreaming of electric sheep.
-- 2018-02-28 — 1 March 2018: Brain waves and a fingerprint from the early Universe
-- 2018-02-23 — Backchat February 2018: Luck, debate, and the quantum internet — speakers: Backchat February
-- 2018-02-21 — 22 February 2018: A focus on adolescence
-- 2018-02-14 — 15 February 2018: Optical clocks, healthy ageing, and fieldwork during pregnancy
-- 2018-02-07 — 08 February 2018: Tough timber, magpie intelligence, and invasive crayfish
-- 2018-01-31 — 01 February 2018: Stone Age tools in India, and coral reefs in crisis — speakers: Stone Age
-- 2018-01-24 — 25 January 2018: Tiny robots, 3D images, and a honeycomb maze
-- 2018-01-17 — 18 January 2018: Climate sensitivity, and the fetal microbiome
-- 2018-01-10 — 10 January 2018: Conflict conservation, and the shape of a memory
-- 2017-12-22 — Backchat December 2017: Trump, physics, and uncited papers — speakers: Donald Trump
-- 2017-12-20 — 21 December 2017: Earth AI, a news quiz, and sci-fi — speakers: Earth science AI
-- 2017-12-13 — 14 December 2017: Volcanoes, viruses & electric eels
-- 2017-12-06 — 7 December 2017: Exoplanet geology & duck-like dinosaurs
-- 2017-11-29 — 30 November 2017: Unnatural DNA & worm mothers
-- 2017-11-22 — 23 November 2017: Sleep deprivation & radioactive lightning
-- 2017-11-15 — 16 November 2017: Ancient inequality & bacterial communication
-- 2017-11-08 — 9 November 2017: Axolotls & treating a genetic skin condition
-- 2017-11-01 — 2 November 2017: Evolving verbs & Earth's microbiome
-- 2017-10-25 — 26 October 2017: Undead cells & Antarctic instability
-- 2017-10-19 — 19 October 2017: Neutron star gravitational waves & the future of work
-- 2017-10-11 — 12 October 2017: A dwarf planet & DNA sequencing
-- 2017-10-06 — Nature Extra: 500th show compilation — speakers: Nature Extra
-- 2017-10-04 — Nature Podcast: 5 October 2017
-- 2017-09-20 — Nature Podcast: 21 September 2017
-- 2017-09-13 — Nature Podcast: 14 September 2017
-- 2017-09-06 — Nature Podcast: 7 September 2017
-- 2017-08-23 — Nature Podcast: 24 August 2017
-- 2017-08-16 — Nature Podcast: 17 August 2017
-- 2017-08-11 — Nature Podcast: 10 August 2017
-- 2017-08-02 — Nature Podcast: 3 August 2017
-- 2017-07-26 — Nature Podcast: 27 July 2017 — speakers: Al Gore
-- 2017-07-19 — Nature Podcast: 20 July 2017
-- 2017-07-12 — Nature Podcast: 13 July 2017
-- 2017-07-05 — Nature Podcast: 6 July 2017
-- 2017-07-03 — Grand Challenges: Energy — speakers: Grand Challenges
-- 2017-06-30 — Extra: The grey zone — speakers: Kerri Smith, Adrian Owen
-- 2017-06-16 — Backchat: June 2017
-- 2017-06-14 — Nature Podcast: 15 June 2017
-- 2017-06-14 — Nature Podcast: 15 June 2017
-- 2017-06-07 — Nature Podcast: 8 June 2017
-- 2017-06-05 — Grand Challenges: Food security — speakers: Grand Challenges
-- 2017-05-31 — Nature Podcast: 1 June 2017
-- 2017-05-31 — Nature Extra: Futures May 2017 — speakers: Shamini Bundell
-- 2017-05-26 — Backchat: May 2017
-- 2017-05-24 — Nature Podcast: 25 May 2017 — speakers: colour vision
-- 2017-05-18 — Nature Podcast: 18 May 2017
-- 2017-05-10 — Nature Podcast: 11 May 2017
-- 2017-05-03 — Nature Podcast: 4 May 2017
-- 2017-05-01 — Grand Challenges: Ageing — speakers: Grand Challenges, Ageing Ageing
-- 2017-04-28 — Nature Extra: Futures April 2017 — speakers: Shamini Bundell, Graham Robert Scott
-- 2017-04-26 — Nature Podcast: 27 April 2017
-- 2017-04-21 — Backchat: April 2017
-- 2017-04-12 — Nature Podcast: 13 April 2017 — speakers: East Antarctica
-- 2017-04-05 — Nature Podcast: 6 April 2017
-- 2017-04-03 — Grand Challenges: Mental Health — speakers: Grand Challenges, Mental Health Mental
-- 2017-03-31 — Nature Extra: Futures March 2017 — speakers: Shamini Bundell
-- 2017-03-29 — Nature Podcast: 30 March 2017
-- 2017-03-23 — Backchat: March 2017 — speakers: Great Barrier Reef
-- 2017-03-22 — Nature Podcast: 23 March 2017
-- 2017-03-15 — Nature Podcast: 16 March 2017
-- 2017-03-10 — REBROADCAST: Nature PastCast - March 1918 — speakers: Arthur Eddington
-- 2017-03-09 — Nature Podcast: 9 March 2017
-- 2017-03-01 — Nature Podcast: 2 March 2017
-- 2017-03-01 — Backchat: February 2017 — speakers: reluctant sources, space missions
-- 2017-02-27 — Nature Extra: Futures February 2017 — speakers: Shamini Bundell, Richard Hodson, David Gullen
-- 2017-02-22 — Nature Podcast: 23 February 2017
-- 2017-02-15 — Nature Podcast: 16 February 2017 — speakers: Winston Churchill
-- 2017-02-10 — REBROADCAST: Nature PastCast - February 1925 — speakers: Raymond Dart
-- 2017-02-08 — Nature Podcast: 9 February 2017
-- 2017-02-01 — Nature Podcast: 2 February 2017
-- 2017-01-31 — Nature Extra: Futures January 2017 — speakers: Shamini Bundell
-- 2017-01-27 — Backchat: January 2017
-- 2017-01-25 — Nature Podcast: 26 January 2017
-- 2017-01-18 — Nature Podcast: 19 January 2017
-- 2017-01-13 — REBROADCAST: Nature PastCast - January 1896 — speakers: William Röntgen
-- 2017-01-11 — Nature Podcast: 12 January 2017 — speakers: New Zealand
-- 2016-12-21 — Nature Podcast: 22 December 2016 — speakers: reading picks, science carols, word games
-- 2016-12-14 — Nature Podcast: 15 December 2016
-- 2016-12-09 — REBROADCAST: Nature PastCast - December 1920 — speakers: Max Planck
-- 2016-12-07 — Nature Podcast: 8 December 2016
-- 2016-12-01 — Nature Extra: Futures November 2016 — speakers: Adam Levy, Troy Stieglitz
-- 2016-11-30 — Nature Podcast: 1 December 2016
-- 2016-11-23 — Nature Podcast: 24 November 2016
-- 2016-11-21 — Nature Backchat: November 2016 — speakers: Donald Trump
-- 2016-11-16 — Nature Podcast: 17 November 2016
-- 2016-11-11 — REBROADCAST: Nature PastCast - November 1869
-- 2016-11-09 — Nature Podcast: 10 November 2016
-- 2016-11-02 — Nature Podcast: 3 November 2016 — speakers: Werner Herzog
-- 2016-10-31 — Nature Extra: Futures October 2016 — speakers: Shamini Bundell
-- 2016-10-26 — Nature Podcast: 27 October 2016
-- 2016-10-21 — Nature Backchat: October 2016 — speakers: Nature Backchat
-- 2016-10-19 — Nature Podcast: 20 October 2016
-- 2016-10-14 — REBROADCAST: Nature PastCast - October 1993
-- 2016-10-12 — Nature Podcast: 13 October 2016
-- 2016-10-06 — Nature Extra: Nobel News — speakers: Nature Extra, Nobel News Science, Nobel Prizes
-- 2016-10-05 — Nature Podcast: 6 October 2016
-- 2016-10-03 — Nature Backchat: September 2016 — speakers: Nature Backchat
-- 2016-09-28 — Nature Podcast: 29 September 2016
-- 2016-09-22 — Nature Extra: Futures September 2016 — speakers: Miranda Keeling, Andrew Neil Gray
-- 2016-09-21 — Nature Podcast: 22 September 2016
-- 2016-09-15 — REBROADCAST: Nature PastCast - September 1963
-- 2016-09-14 — Nature Podcast: 15 September 2016
-- 2016-09-07 — Nature Podcast: 8 September 2016 — speakers: Star Trek
-- 2016-08-31 — Nature Podcast: 1 September 2016
-- 2016-08-30 — Futures: August 2016 — speakers: Kerri Smith, Brian Trent
-- 2016-08-24 — Nature Backchat: August 2016
-- 2016-08-24 — Nature Podcast: 25 August 2016
-- 2016-08-23 — REBROADCAST: Nature PastCast - August 1975
-- 2016-08-17 — Nature Podcast: 18 August 2016
-- 2016-08-10 — Nature Podcast: 11 August 2016
-- 2016-08-03 — Nature Podcast: 4 August 2016
-- 2016-08-01 — REBROADCAST: Nature PastCast - July 1942 — speakers: John Westcott
-- 2016-07-29 — Nature Extra: Futures July 2016 — speakers: Adam Levy
-- 2016-07-27 — Nature Podcast: 28 July 2016 — speakers: indigenous peoples
-- 2016-07-21 — Nature Backchat: July 2016 — speakers: Nature Backchat
-- 2016-07-20 — Nature Podcast: 21 July 2016
-- 2016-07-13 — Nature Podcast: 14 July 2016
-- 2016-07-06 — Nature Podcast: 7 July 2016 — speakers: swan song
-- 2016-07-01 — Nature Extra: Futures June 2016 — speakers: Wendy Nikel
-- 2016-06-29 — Nature Podcast: 30 June 2016
-- 2016-06-22 — Nature Podcast: 23 June 2016
-- 2016-06-22 — Nature Backchat: June 2016
-- 2016-06-15 — Nature Podcast: 16 June 2016
-- 2016-06-10 — REBROADCAST: Nature PastCast - June 1876
-- 2016-06-08 — Nature Podcast: 9 June 2016
-- 2016-06-01 — Nature Podcast: 2 June 2016
-- 2016-05-27 — Nature Extra: Futures May 2016 — speakers: Shamini Bundell
-- 2016-05-25 — Nature Podcast: 26 May 2016
-- 2016-05-18 — Nature Podcast: 19 May 2016
-- 2016-05-16 — Nature Extra: Backchat May 2016 — speakers: Nature Extra, Backchat May
-- 2016-05-11 — Nature Podcast: 12 May 2016
-- 2016-05-09 — REBROADCAST: Nature PastCast - May 1985 — speakers: Jonathan Shanklin
-- 2016-05-06 — Nature Extra: Futures April 2016 — speakers: Adam Levy, Shamini Bundell, Karlo Yeager Rodríguez
-- 2016-05-04 — Nature Podcast: 5 May 2016
-- 2016-04-27 — Nature Podcast: 28 April 2016
-- 2016-04-26 — Nature Extra: Backchat April 2016 — speakers: Nature Extra, Backchat April, Prime Minister
-- 2016-04-20 — Nature Podcast: 21 April 2016
-- 2016-04-13 — Nature Podcast: 14 April 2016
-- 2016-04-08 — REBROADCAST: Nature PastCast - April 1953
-- 2016-04-06 — Nature Podcast: 7 April 2016
-- 2016-03-31 — Nature Extra: Futures March 2016 — speakers: Shamini Bundell
-- 2016-03-30 — Nature Podcast: 31 March 2016
-- 2016-03-23 — Nature Podcast: 24 March 2016 — speakers: radio waves
-- 2016-03-21 — Nature Extra: Backchat March 2016 — speakers: Nature Extra, Backchat March
-- 2016-03-16 — Nature Podcast: 17 March 2016
-- 2016-03-09 — Nature Podcast: 10 March 2016
-- 2016-03-08 — Nature Extra: Futures February 2016 — speakers: Shamini Bundell, Samantha Murray
-- 2016-03-02 — Nature Podcast: 3 March 2016
-- 2016-02-25 — Nature Extra: Backchat February 2016 — speakers: Nature Extra, Backchat February
-- 2016-02-24 — Nature Podcast: 25 February 2016
-- 2016-02-17 — Nature Podcast: 18 February 2016
-- 2016-02-12 — Nature Extra: Gravitational waves — speakers: Adam Levy, Alexandra Witze
-- 2016-02-10 — Nature Podcast: 11 February 2016
-- 2016-02-03 — Nature Podcast: 4 February 2016
-- 2016-02-01 — Nature Extra: Futures January 2016 — speakers: Shamini Bundell, Mike Brotherton
-- 2016-01-29 — Nature Extra: Backchat January 2016 — speakers: Nature Extra, Backchat January
-- 2016-01-27 — Nature Podcast: 28 January 2016 — speakers: John Dee
-- 2016-01-20 — Nature Podcast: 21 January 2016 — speakers: murder mystery
-- 2016-01-13 — Nature Podcast: 14 January 2016
-- 2016-01-06 — Nature Podcast: 7 January 2016
-- 2015-12-21 — Podcast Extra – The Psychology of Star Wars — speakers: Travis Langley
-- 2015-12-17 — Nature Podcast: 17 December 2015 — speakers: Star Wa
-- 2015-12-09 — Nature Podcast: 10 December 2015
-- 2015-12-02 — Nature Podcast: 3 December 2015
-- 2015-11-29 — Nature Extra: Futures November 2015 — speakers: Kerri Smith
-- 2015-11-26 — Nature Extra: Backchat November 2015
-- 2015-11-25 — Nature Podcast: 26 November 2015
-- 2015-11-18 — Nature Podcast: 19 November 2015 — speakers: taste perception, transfer plan
-- 2015-11-11 — Nature Podcast: 12 November 2015
-- 2015-11-05 — Nature Extra: Futures October 2015 — speakers: Shamini Bundell, Alex Shvartsman
-- 2015-11-04 — Nature Podcast: 5 November 2015
-- 2015-10-28 — Nature Podcast: 29 October 2015
-- 2015-10-23 — Nature Extra: Backchat October 2015 — speakers: Nature Extra, Backchat October
-- 2015-10-22 — Nature Podcast: 22 October 2015
-- 2015-10-14 — Nature Podcast: 15 October 2015
-- 2015-10-08 — Nature Extra: Futures September 2015 — speakers: Geoff Marsh, Carie Juettner
-- 2015-10-07 — Nature Podcast: 8 October 2015
-- 2015-09-30 — Nature Podcast: 1 October 2015
-- 2015-09-23 — Nature Podcast: 24 September 2015
-- 2015-09-22 — Nature Extra: Backchat September 2015 — speakers: Nature Extra, Backchat September
-- 2015-09-16 — Nature Podcast: 17 September 2015
-- 2015-09-09 — Nature Extra - Neurotribes — speakers: Steve Silberman, Geoff Marsh
-- 2015-09-09 — Nature Podcast: 10 September 2015
-- 2015-09-03 — Nature Extra: Futures August 2015 — speakers: Shamini Bundell, Eric Garside Hosted
-- 2015-09-02 — Nature Podcast: 3 September 2015
-- 2015-08-26 — Podcast Extra: The Invention of Science — speakers: David Wootton
-- 2015-08-26 — Nature Podcast: 27 August 2015
-- 2015-08-21 — Nature Extra: Backchat August 2015 — speakers: Nature Extra, Backchat August, Geoff Brumfiel
-- 2015-08-18 — Nature Podcast: 20 August 2015 — speakers: Hurricane Katrina
-- 2015-08-12 — Nature Podcast: 13 August 2015
-- 2015-08-05 — Nature Podcast: 6 August 2015
-- 2015-07-29 — Nature Podcast: 30 July 2015
-- 2015-07-27 — Nature Extra: Futures July 2015 — speakers: Shamini Bundell, Dan Stout Hosted
-- 2015-07-24 — Nature Extra: Backchat July 2015 — speakers: Nature Extra, Backchat July
-- 2015-07-22 — Nature Podcast: 23 July 2015
-- 2015-07-15 — Nature Podcast: 16 July 2015
-- 2015-07-14 — Podcast Extra - A Beautiful Question — speakers: Frank Wilczek
-- 2015-07-08 — Nature Podcast: 9 July 2015
-- 2015-07-02 — Nature Podcast: 2 July 2015
-- 2015-07-01 — Nature Extra: Futures June 2015 — speakers: Geoff Marsh, Roth Hosted
-- 2015-06-24 — Nature Podcast: 24 June 2015
-- 2015-06-23 — Nature Extra: Backchat June 2015 — speakers: Nature Extra, Backchat June, Jurassic World
-- 2015-06-17 — Nature Podcast: 18 June 2015
-- 2015-06-10 — Nature Podcast: 11 June 2015 — speakers: Bronze Age
-- 2015-06-03 — Nature Podcast: 4 June 2015
-- 2015-05-28 — Nature Extra: Backchat May 2015 — speakers: Nature Extra, Backchat May
-- 2015-05-28 — Nature Extra: Futures May 2015 — speakers: Geoff Marsh, Tian Li
-- 2015-05-27 — Nature Podcast: 28 May 2015
-- 2015-05-26 — Audiofile: In search of lost sound
-- 2015-05-20 — Nature Podcast: 21 May 2015
-- 2015-05-13 — Nature Podcast: 14 May 2015 — speakers: Hadron Collider, Oliver Sacks
-- 2015-05-06 — Nature Podcast: 7 May 2015
-- 2015-04-29 — Nature Podcast: 30 April 2015
-- 2015-04-24 — Audiofile: Real life Dr Dolittles — speakers: Geoff Marsh
-- 2015-04-22 — Nature Podcast: 23 April 2015
-- 2015-04-21 — Nature: Backchat April 2015
-- 2015-04-15 — Nature Podcast: 16 April 2015
-- 2015-04-08 — Nature Podcast: 9 April 2015
-- 2015-04-01 — Nature Podcast: 2 April 2015
-- 2015-03-25 — Nature Podcast: 26 March 2015
-- 2015-03-25 — Nature Extra: Backchat — speakers: Nature Extra, Backchat Where
-- 2015-02-27 — Nature Extra: Futures — speakers: Noah Baker, Deborah Walker
-- 2015-01-30 — Nature Extra: Futures — speakers: Geoff Marsh, Christoph Weber
-- 2014-10-14 — Nature Extra: Backchat
-- 2014-09-29 — Nature Podcast Extra: Futures — speakers: Noah Baker
-- 2014-08-01 — Nature Podcast Extra: Futures — speakers: Lizzie Gibney, Benjy’s Birthday, John Grant
-- 2014-04-01 — Nature Podcast Extra: Futures — speakers: Kerri Smith, Marissa Lingen
+- 2020-03-18 — 19 March 2020: Rosamund Pike in Radioactive, and the resurgence of Russian science — speakers: Marie Skłodowska Curie, Rosamund Pike, Marie Curie, Nature Briefing, Benjamin Thompson, Noah Baker
+- 2020-03-17 — Podcast Extra: Coronavirus - science in the pandemic — speakers: Benjamin Thompson, Noah Baker
+- 2020-03-13 — Long Read Podcast: Are feelings more than skin deep? — speakers: Kerri Smith, Benjamin Thompson, Noah Baker
+- 2020-03-11 — 12 March 2020: An ancient bird trapped in amber, and life beneath the ocean floor — speakers: Li et al, Benjamin Thompson, Noah Baker
+- 2020-03-04 — 05 March 2020: Ultrafast machine vision, and quicker crystal creation — speakers: Highlights Calorie, Benjamin Thompson, Noah Baker
+- 2020-02-28 — Backchat: Covering coronavirus — speakers: Benjamin Thompson, Noah Baker
+- 2020-02-26 — 27 February 2020: Mapping fruit flies’ neural circuitry, and perfecting the properties of metallic glass — speakers: Wang et al, Highlights Ancient, Benjamin Thompson, Noah Baker
+- 2020-02-26 — Podcast Extra: ‘There is lots of anxiety’: a scientist’s view from South Korea — speakers: Nick Howe, Bartosz Gryzbowski, Benjamin Thompson, Noah Baker
+- 2020-02-19 — 20 February 2020: Improving battery charging, and harnessing energy from the air — speakers: Highlights Deciphering, Gu et al, Liu et al, Benjamin Thompson, Noah Baker
+- 2020-02-12 — 13 February 2020: The puzzling structures of muddled materials, and paving the way for the quantum internet — speakers: Yu et al, Benjamin Thompson, Noah Baker
+- 2020-02-05 — 06 February 2020: Out-of-office emails and work-life-balance, and an update on the novel coronavirus outbreak — speakers: Benjamin Thompson, Noah Baker
+- 2020-01-29 — 30 January 2020: Linking Australian bushfires to climate change, and Asimov's robot ethics — speakers: Isaac Asimov, mummy speaks, Howard et al, Benjamin Thompson, Noah Baker
+- 2020-01-22 — 23 January: How stress can cause grey hair, and the attitude needed to tackle climate change — speakers: grey hair, Zhang et al, Research Highlight, Benjamin Thompson, Noah Baker
+- 2020-01-15 — 16 January 2020: Strange objects at the centre of the galaxy, and improving measurements of online activity — speakers: Ciurlo et al, Benjamin Thompson, Noah Baker
+- 2020-01-08 — 09 January 2020: A look ahead at science in 2020 — speakers: Davide Castelvecchi, Benjamin Thompson, Noah Baker
+- 2020-01-01 — 01 January 2020: Our reporters’ top picks of 2019 — speakers: Li et al, John Goodenough, Benjamin Thompson, Noah Baker
+- 2019-12-27 — Nature PastCast, December 1920: The Quantum Theory — speakers: Max Planck, Benjamin Thompson, Noah Baker
+- 2019-12-23 — Podcast Extra: From climate lawyer to climate activist — speakers: Greta Thunberg, Farhana Yamin, Sara Abdulla, Benjamin Thompson, Noah Baker
+- 2019-12-20 — Podcast Extra: Epigenetics — speakers: Nick Howe, Benjamin Thompson, Noah Baker
+- 2019-12-18 — 19 December 2019: The three-body problem, and festive fun — speakers: Benjamin Thompson, Noah Baker
+- 2019-12-16 — Long Read Podcast: How to save coral reefs as the world warms — speakers: Kerri Smith, Benjamin Thompson, Noah Baker
+- 2019-12-11 — 12 December 2019: Social priming, and acoustic science — speakers: Highlights Killer, Benjamin Thompson, Noah Baker
+- 2019-12-04 — 05 December 2019: Genomic sequencing and the source of solar winds — speakers: Highlights Bare, Benjamin Thompson, Noah Baker
+- 2019-11-29 — Nature Pastcast, November 1869: The first issue of Nature — speakers: Benjamin Thompson, Noah Baker
+- 2019-11-27 — 28 November 2019: Nature’s 2019 PhD survey, and older women in sci-fi novels — speakers: Benjamin Thompson, Noah Baker
+- 2019-11-20 — 21 November 2019: A new antibiotic from nematode guts, grant funding ‘lotteries’, and butterfly genomes — speakers: Benjamin Thompson, Noah Baker
+- 2019-11-13 — 14 November 2019: A rapid, multi-material 3D printer, and a bacterium’s role in alcoholic hepatitis — speakers: Duan et al, Benjamin Thompson, Noah Baker
+- 2019-11-07 — Backchat: Nature's 150th anniversary — speakers: Benjamin Thompson, Noah Baker
+- 2019-11-06 — 07 November 2019: The fossil of an upright ape, science in 150 years, and immunization progress around the world — speakers: Piot et al, Benjamin Thompson, Noah Baker
+- 2019-10-31 — Nature Pastcast, October 1993: Carl Sagan uses Galileo to search for signs of life — speakers: Carl Sagan, David Kaiser, Charles Cockell, Frank Drake, Benjamin Thompson, Noah Baker
+- 2019-10-30 — 31 October 2019: An AI masters the video game StarCraft II, and measuring arthropod abundance — speakers: Seibold et al, Benjamin Thompson, Noah Baker
+- 2019-10-28 — Podcast Extra: Detecting gravitational waves — speakers: Benjamin Thompson, Noah Baker
+- 2019-10-23 — 24 October 2019: Quantum supremacy and ancient mammals — speakers: Research Highlight, Benjamin Thompson, Noah Baker
+- 2019-10-16 — 17 October 2019: Mapping childhood mortality, and evolving ‘de novo’ genes — speakers: Burstein et al, Benjamin Thompson, Noah Baker
+- 2019-10-09 — 10 October 2019: Estimating earthquake risk, and difficulties for deep-learning — speakers: Highlights Vampire, Benjamin Thompson, Noah Baker
+- 2019-10-09 — Podcast Extra: Q&A with Nobel Prize winner John B Goodenough — speakers: Benjamin Thompson, Noah Baker
+- 2019-10-08 — Podcast Extra: Q&A with Nobel Prize winner Didier Queloz — speakers: Didier Queloz, Benjamin Thompson, Noah Baker
+- 2019-10-02 — 03 October 2019: Leapfrogging speciation, and migrating mosquitoes — speakers: Mei et al, Research Highlight, Benjamin Thompson, Noah Baker
+- 2019-09-27 — Nature PastCast, September 1963: Plate tectonics – the unifying theory of Earth sciences — speakers: Fred Vine, Benjamin Thompson, Noah Baker
+- 2019-09-25 — 26 September 2019: Mysteries of the ancient mantle, and the Hitchhikers Guide to the Galaxy — speakers: Benjamin Thompson, Noah Baker
+- 2019-09-21 — Podcast Extra: Absurd scientific advice — speakers: Randall Munroe, Benjamin Thompson, Noah Baker
+- 2019-09-19 — Backchat: Covering Climate Now — speakers: Covering Climate Now, Benjamin Thompson, Noah Baker
+- 2019-09-18 — 19 September 2019: XKCD, and Extinction Rebellion — speakers: Farhana Yamin, Randall Munroe, Extinction Rebellion, Benjamin Thompson, Noah Baker
+- 2019-09-11 — 12 September 2019: Modelling early embryos, and male-dominated conferences — speakers: Zheng et al, Benjamin Thompson, Noah Baker
+- 2019-09-04 — 05 September 2019: Persistent antibiotic resistance, and modelling hot cities — speakers: stun prey, Benjamin Thompson, Noah Baker
+- 2019-08-30 — Nature PastCast, August 1975: Antibodies’ ascendency to blockbuster drug status — speakers: Margaret Thatcher, Benjamin Thompson, Noah Baker
+- 2019-08-28 — 29 August 2019: Carbon-based computing, and depleting ancient-human genomes — speakers: Research Highlight, hominin skull, Benjamin Thompson, Noah Baker
+- 2019-08-21 — 22 August 2019: Combating online hate speech, and identifying early fossils — speakers: Benjamin Thompson, Noah Baker
+- 2019-08-14 — 15 August 2019: Atomic espionage in the Second World War, and exploring the early Universe — speakers: Benjamin Thompson, Noah Baker
+- 2019-08-07 — 08 August 2019: A mindset for success, and mercury in fish — speakers: Tuna Methylmercury, Schartup et al, Benjamin Thompson, Noah Baker
+- 2019-07-31 — 01 August 2019: The placental microbiome, and advances in artificial intelligence — speakers: Microbe-free placentas, de Goffau, Masson et al, Benjamin Thompson, Noah Baker
+- 2019-07-26 — Nature PastCast, July 1942: Secret science in World War 2 — speakers: Jon Agar, John Westcott, Benjamin Thompson, Noah Baker
+- 2019-07-24 — 25 July 2019: The history of climate change, and making vaccines mandatory — speakers: Neukom et al, Boris Johnson, Benjamin Thompson, Noah Baker
+- 2019-07-19 — Backchat July 2019: Breaking news, audience-led journalism and human gene editing — speakers: Benjamin Thompson, Noah Baker
+- 2019-07-17 — 18 July 2019: Quantum logic gates in silicon, and moving on from lab disasters — speakers: Benjamin Thompson, Noah Baker
+- 2019-07-10 — 11 July 2019: The moon, past, present, and future — speakers: Alex Witze, Nick Howe, Benjamin Thompson, Noah Baker
+- 2019-07-03 — 04 July 2019: Machine learning in materials science, and sand’s sustainability — speakers: Tshitoyan et al, Benjamin Thompson, Noah Baker
+- 2019-06-28 — Nature PastCast, June 1876: Gorillas, man-eating monsters? — speakers: Benjamin Thompson, Noah Baker
+- 2019-06-26 — 27 June 2019: Callused feet, and protein-based archaeology — speakers: Wang et al, Benjamin Thompson, Noah Baker
+- 2019-06-19 — 20 June 2019: Non-native species, and a blood-inspired robot battery — speakers: Highlights Crafting, Aubin et al, Benjamin Thompson, Noah Baker
+- 2019-06-12 — 13 June 2019: Mighty magnets, and aerosols in the atmosphere — speakers: Highlights Macaques, Benjamin Thompson, Noah Baker
+- 2019-06-05 — 06 June 2019: Microbes modifying medicine and kickstarting plate tectonics — speakers: Benjamin Thompson, Noah Baker
+- 2019-05-31 — Nature PastCast May 1983: Discovering the ozone layer hole — speakers: Benjamin Thompson, Noah Baker
+- 2019-05-30 — 30 May 2019: Cold fusion, gender parity in universities, and studying wildfires — speakers: Benjamin Thompson, Noah Baker
+- 2019-05-22 — 23 May 2019: Pre-industrial plankton populations, European science, and ancient fungi. — speakers: Benjamin Thompson, Noah Baker
+- 2019-05-15 — 16 May 2019: Recoding genomes, and material from the Moon's far side — speakers: Benjamin Thompson, Noah Baker
+- 2019-05-08 — 09 May 2019: Urban vs Rural BMI, and the health of rivers — speakers: Benjamin Thompson, Noah Baker
+- 2019-05-01 — 02 May 2019: China's growing science network, and talking brain signals — speakers: Road Initiative, Benjamin Thompson, Noah Baker
+- 2019-04-26 — Nature PastCast April 1953: The other DNA papers — speakers: James Watson, Francis Crick, Raymond Gosling, Benjamin Thompson, Noah Baker
+- 2019-04-25 — 25 April 2019: Tiny earthquakes, the genetics of height, and how US-China politics is affecting research — speakers: Benjamin Thompson, Nisha Gaind, Noah Baker
+- 2019-04-17 — 18 April 2019: Reviving brains, lightning, and spring books — speakers: Benjamin Thompson, Noah Baker
+- 2019-04-11 — Podcast Extra: The first image of a black hole — speakers: Davide Castelvecchi, Benjamin Thompson, Noah Baker
+- 2019-04-10 — 11 April 2019: Heart failure and vacuum field fluctuations. — speakers: Benjamin Thompson, Noah Baker
+- 2019-04-03 — 04 April 2019: MDMA and the malleable mind, and keeping skin young — speakers: Benjamin Thompson, Noah Baker
+- 2019-03-29 — Backchat March 2019: Calls for a research moratorium, and the evolution of science reporting — speakers: Backchat March, Benjamin Thompson, Noah Baker
+- 2019-03-27 — 28 March 2019: Human impacts on Mount Kilimanjaro, sex differences in pain, and a crystal-based cooling method — speakers: Benjamin Thompson, Noah Baker
+- 2019-03-20 — 21 March 2019: Antibiotics in orchards, and rethinking statistical significance — speakers: Benjamin Thompson, Noah Baker
+- 2019-03-15 — Nature Pastcast March 1918: The eclipse expedition to put Einstein to the test — speakers: Arthur Eddington, Benjamin Thompson, Noah Baker
+- 2019-03-14 — 14 March 2019: Ebola in DRC, a new HIV treatment, and the proposed US budget. — speakers: Benjamin Thompson, Amy Maxmen, Noah Baker
+- 2019-03-06 — 07 March 2019: Coastal carbon-sinks, mobile health, and Mileva Marić — speakers: Mileva Marić, Benjamin Thompson, Noah Baker
+- 2019-02-27 — 28 February 2019: Cuckoo parasitism, topological materials, and cannabinoids in yeast. — speakers: Benjamin Thompson, Noah Baker
+- 2019-02-20 — 21 February 2019: Mouse cell atlases and cataloguing viruses — speakers: Benjamin Thompson, Noah Baker
+- 2019-02-13 — 14 February 2019: Atherosclerosis and disruptive science — speakers: Benjamin Thompson, Noah Baker
+- 2019-02-06 — 07 February 2019: Massive chemical libraries, and CRISPR-CasX — speakers: Benjamin Thompson, Noah Baker
+- 2019-01-30 — 31 January 2019: Women of the periodic table, and harvesting energy from Wi-Fi — speakers: Benjamin Thompson, Noah Baker
+- 2019-01-23 — 24 January 2019: Economic downturns and black holes — speakers: Benjamin Thompson, Noah Baker
+- 2019-01-16 — 17 January 2019: RNA splicing in yeast, and a walking fossil — speakers: Benjamin Thompson, Noah Baker
+- 2019-01-11 — Podcast Extra: The search for a rare disease treatment — speakers: Nick Sireau, Geoff Marsh, Lakshminarayan Ranganath, Benjamin Thompson, Noah Baker
+- 2019-01-09 — 10 January 2019: Fast Radio Bursts and new year future gazing — speakers: Fast Radio Bursts, Benjamin Thompson, Noah Baker
+- 2018-12-26 — 26 December 2018: Our reporters' top picks of 2018 — speakers: Benjamin Thompson, Noah Baker
+- 2018-12-19 — 20 December 2018: Quantum physics adds a twist, and festive fun — speakers: Benjamin Thompson, Noah Baker
+- 2018-12-13 — Podcast Extra: Evidence of a ‘transmissible’ Alzheimer’s protein — speakers: Benjamin Thompson, Noah Baker
+- 2018-12-12 — 13 December 2018: The art of performing science, and chiral chemistry — speakers: Benjamin Thompson, Noah Baker
+- 2018-12-05 — 06 December 2018: Heart xenotransplants and phage fighting — speakers: Benjamin Thompson, Noah Baker
+- 2018-11-28 — 29 November 2018: Atomic clock accuracy and wind farm worries — speakers: Benjamin Thompson, Noah Baker
+- 2018-11-21 — 22 November 2018: An ion-drive aeroplane, and DNA rearrangement. — speakers: moving parts, Benjamin Thompson, Noah Baker
+- 2018-11-14 — 15 November 2018: Barnard’s Star, and clinical trials — speakers: Benjamin Thompson, Noah Baker
+- 2018-11-07 — 08 November 2018: Designer cells, and a Breakthrough researcher — speakers: Benjamin Thompson, Noah Baker
+- 2018-10-31 — 01 November 2018: Mood forecasting technology, and where are the WIMPs? — speakers: Benjamin Thompson, Noah Baker
+- 2018-10-17 — 18 October 2018: Cannabis horticulture and the Sun's place in history — speakers: Benjamin Thompson, Noah Baker
+- 2018-10-10 — 11 October 2018: The life of a new Nobel laureate and organised ants — speakers: Benjamin Thompson, Noah Baker
+- 2018-10-03 — 04 October 2018: Latent HIV, bird personalities and the Hyabusa2 mission — speakers: Benjamin Thompson, Noah Baker
+- 2018-09-26 — 27 September 2018: A wearable biosensor and a mechanical metamaterial. — speakers: Benjamin Thompson, Noah Baker
+- 2018-09-19 — 20 September 2018: Negative emissions and swarms under strain — speakers: Benjamin Thompson, Noah Baker
+- 2018-09-12 — 13 September 2018: The oldest drawing and the energy of data — speakers: Benjamin Thompson, Noah Baker
+- 2018-09-05 — 6 September 2018: Space junk, and a physicist’s perspective on life — speakers: Benjamin Thompson, Noah Baker
+- 2018-08-29 — 30 August 2018: Gravity’s big G and the evolution of babies — speakers: Benjamin Thompson, Noah Baker
+- 2018-08-24 — Backchat August 2018: Audio reporting, audience feedback, and Brexit — speakers: Benjamin Thompson, Noah Baker
+- 2018-08-22 — 23 August 2018: Quantum computers and labour division in ants — speakers: Benjamin Thompson, Noah Baker
+- 2018-08-15 — 16 August 2018: Bumblebees, opioids, and ocean weather — speakers: Benjamin Thompson, Noah Baker
+- 2018-08-08 — 8 August 2018: Fox aggression, microbiota and geoengineering — speakers: Benjamin Thompson, Noah Baker
+- 2018-08-01 — 02 August 2018: Zebra finch colour perception, terraforming Mars, and attributing extreme weather — speakers: terraforming Mars, Benjamin Thompson, Noah Baker
+- 2018-07-25 — 26 July 2018: Conservation, automata, and pet DNA tests — speakers: Dna tests, Benjamin Thompson, Noah Baker
+- 2018-07-18 — 19 July 2018: DNA scaffolds, climate-altering microbes, and a robot chemist — speakers: Benjamin Thompson, Noah Baker
+- 2018-07-11 — 12 July 2018: Rats, reefs, and career streaks — speakers: Cape Town, Benjamin Thompson, Noah Baker
+- 2018-07-04 — 05 July 2018: A DNA computer, the koala genome, and the invisibility of LGBTQ+ researchers — speakers: Benjamin Thompson, Noah Baker
+- 2018-06-29 — Backchat June 2018: Lab health, email briefings, and CRISPR — speakers: Benjamin Thompson, Noah Baker
+- 2018-06-27 — 27 June 2018: Air pollution, sick plants, and stress — speakers: Benjamin Thompson, Noah Baker
+- 2018-06-20 — 21 June 2018: Pancreatic cancer, silica cages, and AI bias — speakers: Artificial Intelligence, Benjamin Thompson, Noah Baker
+- 2018-06-13 — 14 June 2018: Baobab tree death, zebrafish stem cells, and ice in Antarctica — speakers: Benjamin Thompson, Noah Baker
+- 2018-06-06 — 07 June 2018: Magnetic animal migration, cold enzymes, and mouse memory — speakers: Benjamin Thompson, Noah Baker
+- 2018-05-30 — 31 May 2018: Boosting diversity in physics, and life after an asteroid impact — speakers: Benjamin Thompson, Noah Baker
+- 2018-05-23 — 24 May 2018: Climate costs, cleverer cab journeys, and peering through matter with muons — speakers: Benjamin Thompson, Noah Baker
+- 2018-05-16 — 17 May 2018: Probing the proton, research misconduct, and making sense of mystery genes — speakers: Benjamin Thompson, Noah Baker
+- 2018-05-09 — 10 May 2018: AI neuroscience, liquid crystals, and depression in academia — speakers: Benjamin Thompson, Noah Baker
+- 2018-05-02 — 03 May 2018: Building early embryos, the fear response in mice, and ancient rhino remains — speakers: Benjamin Thompson, Noah Baker
+- 2018-04-25 — 26 April 2018: Mini brains, and an updated enzyme image — speakers: Benjamin Thompson, Noah Baker
+- 2018-04-20 — Backchat April 2018: Sexual harassment, social media, and celebrity scientists — speakers: Backchat April, Benjamin Thompson, Noah Baker
+- 2018-04-18 — 19 April 2018: Synchronised shrimp, supernova science, and spring books. — speakers: big effects, Benjamin Thompson, Noah Baker
+- 2018-04-11 — 12 April 2018: The power of remote sensing, and watching a neutron star glitch — speakers: Benjamin Thompson, Noah Baker
+- 2018-04-04 — 05 April 2018: Human's influence on the Mississippi and 'dirty' mice — speakers: Benjamin Thompson, Noah Baker
+- 2018-03-28 — 29 March 2018: AI in chemistry, and liquid droplets in living cells. — speakers: Benjamin Thompson, Noah Baker
+- 2018-03-21 — 22 March 2018: Mexican cavefish, the gut microbiome, and a wearable brain scanner. — speakers: Benjamin Thompson, Noah Baker
+- 2018-03-14 — 15 March 2018: Geoengineering Antarctica and increasing NMR’s resolution. — speakers: Geoengineering Antarctica, Benjamin Thompson, Noah Baker
+- 2018-03-07 — 8 March 2018: Surprising graphene superconductors, and 50 years dreaming of electric sheep. — speakers: Benjamin Thompson, Noah Baker
+- 2018-02-28 — 1 March 2018: Brain waves and a fingerprint from the early Universe — speakers: Benjamin Thompson, Noah Baker
+- 2018-02-23 — Backchat February 2018: Luck, debate, and the quantum internet — speakers: Backchat February, Benjamin Thompson, Noah Baker
+- 2018-02-21 — 22 February 2018: A focus on adolescence — speakers: Benjamin Thompson, Noah Baker
+- 2018-02-14 — 15 February 2018: Optical clocks, healthy ageing, and fieldwork during pregnancy — speakers: Benjamin Thompson, Noah Baker
+- 2018-02-07 — 08 February 2018: Tough timber, magpie intelligence, and invasive crayfish — speakers: Benjamin Thompson, Noah Baker
+- 2018-01-31 — 01 February 2018: Stone Age tools in India, and coral reefs in crisis — speakers: Stone Age, Benjamin Thompson, Noah Baker
+- 2018-01-24 — 25 January 2018: Tiny robots, 3D images, and a honeycomb maze — speakers: Benjamin Thompson, Noah Baker
+- 2018-01-17 — 18 January 2018: Climate sensitivity, and the fetal microbiome — speakers: Benjamin Thompson, Noah Baker
+- 2018-01-10 — 10 January 2018: Conflict conservation, and the shape of a memory — speakers: Benjamin Thompson, Noah Baker
+- 2017-12-22 — Backchat December 2017: Trump, physics, and uncited papers — speakers: Donald Trump, Benjamin Thompson, Noah Baker
+- 2017-12-20 — 21 December 2017: Earth AI, a news quiz, and sci-fi — speakers: Earth science AI, Benjamin Thompson, Noah Baker
+- 2017-12-13 — 14 December 2017: Volcanoes, viruses & electric eels — speakers: Benjamin Thompson, Noah Baker
+- 2017-12-06 — 7 December 2017: Exoplanet geology & duck-like dinosaurs — speakers: Benjamin Thompson, Noah Baker
+- 2017-11-29 — 30 November 2017: Unnatural DNA & worm mothers — speakers: Benjamin Thompson, Noah Baker
+- 2017-11-22 — 23 November 2017: Sleep deprivation & radioactive lightning — speakers: Benjamin Thompson, Noah Baker
+- 2017-11-15 — 16 November 2017: Ancient inequality & bacterial communication — speakers: Benjamin Thompson, Noah Baker
+- 2017-11-08 — 9 November 2017: Axolotls & treating a genetic skin condition — speakers: Benjamin Thompson, Noah Baker
+- 2017-11-01 — 2 November 2017: Evolving verbs & Earth's microbiome — speakers: Benjamin Thompson, Noah Baker
+- 2017-10-25 — 26 October 2017: Undead cells & Antarctic instability — speakers: Benjamin Thompson, Noah Baker
+- 2017-10-19 — 19 October 2017: Neutron star gravitational waves & the future of work — speakers: Benjamin Thompson, Noah Baker
+- 2017-10-11 — 12 October 2017: A dwarf planet & DNA sequencing — speakers: Benjamin Thompson, Noah Baker
+- 2017-10-06 — Nature Extra: 500th show compilation — speakers: Nature Extra, Benjamin Thompson, Noah Baker
+- 2017-10-04 — Nature Podcast: 5 October 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-09-20 — Nature Podcast: 21 September 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-09-13 — Nature Podcast: 14 September 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-09-06 — Nature Podcast: 7 September 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-08-23 — Nature Podcast: 24 August 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-08-16 — Nature Podcast: 17 August 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-08-11 — Nature Podcast: 10 August 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-08-02 — Nature Podcast: 3 August 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-07-26 — Nature Podcast: 27 July 2017 — speakers: Al Gore, Benjamin Thompson, Noah Baker
+- 2017-07-19 — Nature Podcast: 20 July 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-07-12 — Nature Podcast: 13 July 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-07-05 — Nature Podcast: 6 July 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-07-03 — Grand Challenges: Energy — speakers: Grand Challenges, Benjamin Thompson, Noah Baker
+- 2017-06-30 — Extra: The grey zone — speakers: Kerri Smith, Adrian Owen, Benjamin Thompson, Noah Baker
+- 2017-06-16 — Backchat: June 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-06-14 — Nature Podcast: 15 June 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-06-14 — Nature Podcast: 15 June 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-06-07 — Nature Podcast: 8 June 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-06-05 — Grand Challenges: Food security — speakers: Grand Challenges, Benjamin Thompson, Noah Baker
+- 2017-05-31 — Nature Podcast: 1 June 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-05-31 — Nature Extra: Futures May 2017 — speakers: Shamini Bundell, Benjamin Thompson, Noah Baker
+- 2017-05-26 — Backchat: May 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-05-24 — Nature Podcast: 25 May 2017 — speakers: colour vision, Benjamin Thompson, Noah Baker
+- 2017-05-18 — Nature Podcast: 18 May 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-05-10 — Nature Podcast: 11 May 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-05-03 — Nature Podcast: 4 May 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-05-01 — Grand Challenges: Ageing — speakers: Grand Challenges, Ageing Ageing, Benjamin Thompson, Noah Baker
+- 2017-04-28 — Nature Extra: Futures April 2017 — speakers: Shamini Bundell, Graham Robert Scott, Benjamin Thompson, Noah Baker
+- 2017-04-26 — Nature Podcast: 27 April 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-04-21 — Backchat: April 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-04-12 — Nature Podcast: 13 April 2017 — speakers: East Antarctica, Benjamin Thompson, Noah Baker
+- 2017-04-05 — Nature Podcast: 6 April 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-04-03 — Grand Challenges: Mental Health — speakers: Grand Challenges, Mental Health Mental, Benjamin Thompson, Noah Baker
+- 2017-03-31 — Nature Extra: Futures March 2017 — speakers: Shamini Bundell, Benjamin Thompson, Noah Baker
+- 2017-03-29 — Nature Podcast: 30 March 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-03-23 — Backchat: March 2017 — speakers: Great Barrier Reef, Benjamin Thompson, Noah Baker
+- 2017-03-22 — Nature Podcast: 23 March 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-03-15 — Nature Podcast: 16 March 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-03-10 — REBROADCAST: Nature PastCast - March 1918 — speakers: Arthur Eddington, Benjamin Thompson, Noah Baker
+- 2017-03-09 — Nature Podcast: 9 March 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-03-01 — Nature Podcast: 2 March 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-03-01 — Backchat: February 2017 — speakers: reluctant sources, space missions, Benjamin Thompson, Noah Baker
+- 2017-02-27 — Nature Extra: Futures February 2017 — speakers: Shamini Bundell, Richard Hodson, David Gullen, Benjamin Thompson, Noah Baker
+- 2017-02-22 — Nature Podcast: 23 February 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-02-15 — Nature Podcast: 16 February 2017 — speakers: Winston Churchill, Benjamin Thompson, Noah Baker
+- 2017-02-10 — REBROADCAST: Nature PastCast - February 1925 — speakers: Raymond Dart, Benjamin Thompson, Noah Baker
+- 2017-02-08 — Nature Podcast: 9 February 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-02-01 — Nature Podcast: 2 February 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-01-31 — Nature Extra: Futures January 2017 — speakers: Shamini Bundell, Benjamin Thompson, Noah Baker
+- 2017-01-27 — Backchat: January 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-01-25 — Nature Podcast: 26 January 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-01-18 — Nature Podcast: 19 January 2017 — speakers: Benjamin Thompson, Noah Baker
+- 2017-01-13 — REBROADCAST: Nature PastCast - January 1896 — speakers: William Röntgen, Benjamin Thompson, Noah Baker
+- 2017-01-11 — Nature Podcast: 12 January 2017 — speakers: New Zealand, Benjamin Thompson, Noah Baker
+- 2016-12-21 — Nature Podcast: 22 December 2016 — speakers: reading picks, science carols, word games, Benjamin Thompson, Noah Baker
+- 2016-12-14 — Nature Podcast: 15 December 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-12-09 — REBROADCAST: Nature PastCast - December 1920 — speakers: Max Planck, Benjamin Thompson, Noah Baker
+- 2016-12-07 — Nature Podcast: 8 December 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-12-01 — Nature Extra: Futures November 2016 — speakers: Adam Levy, Troy Stieglitz, Benjamin Thompson, Noah Baker
+- 2016-11-30 — Nature Podcast: 1 December 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-11-23 — Nature Podcast: 24 November 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-11-21 — Nature Backchat: November 2016 — speakers: Donald Trump, Benjamin Thompson, Noah Baker
+- 2016-11-16 — Nature Podcast: 17 November 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-11-11 — REBROADCAST: Nature PastCast - November 1869 — speakers: Benjamin Thompson, Noah Baker
+- 2016-11-09 — Nature Podcast: 10 November 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-11-02 — Nature Podcast: 3 November 2016 — speakers: Werner Herzog, Benjamin Thompson, Noah Baker
+- 2016-10-31 — Nature Extra: Futures October 2016 — speakers: Shamini Bundell, Benjamin Thompson, Noah Baker
+- 2016-10-26 — Nature Podcast: 27 October 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-10-21 — Nature Backchat: October 2016 — speakers: Nature Backchat, Benjamin Thompson, Noah Baker
+- 2016-10-19 — Nature Podcast: 20 October 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-10-14 — REBROADCAST: Nature PastCast - October 1993 — speakers: Benjamin Thompson, Noah Baker
+- 2016-10-12 — Nature Podcast: 13 October 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-10-06 — Nature Extra: Nobel News — speakers: Nature Extra, Nobel News Science, Nobel Prizes, Benjamin Thompson, Noah Baker
+- 2016-10-05 — Nature Podcast: 6 October 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-10-03 — Nature Backchat: September 2016 — speakers: Nature Backchat, Benjamin Thompson, Noah Baker
+- 2016-09-28 — Nature Podcast: 29 September 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-09-22 — Nature Extra: Futures September 2016 — speakers: Miranda Keeling, Andrew Neil Gray, Benjamin Thompson, Noah Baker
+- 2016-09-21 — Nature Podcast: 22 September 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-09-15 — REBROADCAST: Nature PastCast - September 1963 — speakers: Benjamin Thompson, Noah Baker
+- 2016-09-14 — Nature Podcast: 15 September 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-09-07 — Nature Podcast: 8 September 2016 — speakers: Star Trek, Benjamin Thompson, Noah Baker
+- 2016-08-31 — Nature Podcast: 1 September 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-08-30 — Futures: August 2016 — speakers: Kerri Smith, Brian Trent, Benjamin Thompson, Noah Baker
+- 2016-08-24 — Nature Backchat: August 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-08-24 — Nature Podcast: 25 August 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-08-23 — REBROADCAST: Nature PastCast - August 1975 — speakers: Benjamin Thompson, Noah Baker
+- 2016-08-17 — Nature Podcast: 18 August 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-08-10 — Nature Podcast: 11 August 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-08-03 — Nature Podcast: 4 August 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-08-01 — REBROADCAST: Nature PastCast - July 1942 — speakers: John Westcott, Benjamin Thompson, Noah Baker
+- 2016-07-29 — Nature Extra: Futures July 2016 — speakers: Adam Levy, Benjamin Thompson, Noah Baker
+- 2016-07-27 — Nature Podcast: 28 July 2016 — speakers: indigenous peoples, Benjamin Thompson, Noah Baker
+- 2016-07-21 — Nature Backchat: July 2016 — speakers: Nature Backchat, Benjamin Thompson, Noah Baker
+- 2016-07-20 — Nature Podcast: 21 July 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-07-13 — Nature Podcast: 14 July 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-07-06 — Nature Podcast: 7 July 2016 — speakers: swan song, Benjamin Thompson, Noah Baker
+- 2016-07-01 — Nature Extra: Futures June 2016 — speakers: Wendy Nikel, Benjamin Thompson, Noah Baker
+- 2016-06-29 — Nature Podcast: 30 June 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-06-22 — Nature Podcast: 23 June 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-06-22 — Nature Backchat: June 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-06-15 — Nature Podcast: 16 June 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-06-10 — REBROADCAST: Nature PastCast - June 1876 — speakers: Benjamin Thompson, Noah Baker
+- 2016-06-08 — Nature Podcast: 9 June 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-06-01 — Nature Podcast: 2 June 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-05-27 — Nature Extra: Futures May 2016 — speakers: Shamini Bundell, Benjamin Thompson, Noah Baker
+- 2016-05-25 — Nature Podcast: 26 May 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-05-18 — Nature Podcast: 19 May 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-05-16 — Nature Extra: Backchat May 2016 — speakers: Nature Extra, Backchat May, Benjamin Thompson, Noah Baker
+- 2016-05-11 — Nature Podcast: 12 May 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-05-09 — REBROADCAST: Nature PastCast - May 1985 — speakers: Jonathan Shanklin, Benjamin Thompson, Noah Baker
+- 2016-05-06 — Nature Extra: Futures April 2016 — speakers: Adam Levy, Shamini Bundell, Karlo Yeager Rodríguez, Benjamin Thompson, Noah Baker
+- 2016-05-04 — Nature Podcast: 5 May 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-04-27 — Nature Podcast: 28 April 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-04-26 — Nature Extra: Backchat April 2016 — speakers: Nature Extra, Backchat April, Prime Minister, Benjamin Thompson, Noah Baker
+- 2016-04-20 — Nature Podcast: 21 April 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-04-13 — Nature Podcast: 14 April 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-04-08 — REBROADCAST: Nature PastCast - April 1953 — speakers: Benjamin Thompson, Noah Baker
+- 2016-04-06 — Nature Podcast: 7 April 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-03-31 — Nature Extra: Futures March 2016 — speakers: Shamini Bundell, Benjamin Thompson, Noah Baker
+- 2016-03-30 — Nature Podcast: 31 March 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-03-23 — Nature Podcast: 24 March 2016 — speakers: radio waves, Benjamin Thompson, Noah Baker
+- 2016-03-21 — Nature Extra: Backchat March 2016 — speakers: Nature Extra, Backchat March, Benjamin Thompson, Noah Baker
+- 2016-03-16 — Nature Podcast: 17 March 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-03-09 — Nature Podcast: 10 March 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-03-08 — Nature Extra: Futures February 2016 — speakers: Shamini Bundell, Samantha Murray, Benjamin Thompson, Noah Baker
+- 2016-03-02 — Nature Podcast: 3 March 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-02-25 — Nature Extra: Backchat February 2016 — speakers: Nature Extra, Backchat February, Benjamin Thompson, Noah Baker
+- 2016-02-24 — Nature Podcast: 25 February 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-02-17 — Nature Podcast: 18 February 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-02-12 — Nature Extra: Gravitational waves — speakers: Adam Levy, Alexandra Witze, Benjamin Thompson, Noah Baker
+- 2016-02-10 — Nature Podcast: 11 February 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-02-03 — Nature Podcast: 4 February 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-02-01 — Nature Extra: Futures January 2016 — speakers: Shamini Bundell, Mike Brotherton, Benjamin Thompson, Noah Baker
+- 2016-01-29 — Nature Extra: Backchat January 2016 — speakers: Nature Extra, Backchat January, Benjamin Thompson, Noah Baker
+- 2016-01-27 — Nature Podcast: 28 January 2016 — speakers: John Dee, Benjamin Thompson, Noah Baker
+- 2016-01-20 — Nature Podcast: 21 January 2016 — speakers: murder mystery, Benjamin Thompson, Noah Baker
+- 2016-01-13 — Nature Podcast: 14 January 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2016-01-06 — Nature Podcast: 7 January 2016 — speakers: Benjamin Thompson, Noah Baker
+- 2015-12-21 — Podcast Extra – The Psychology of Star Wars — speakers: Travis Langley, Benjamin Thompson, Noah Baker
+- 2015-12-17 — Nature Podcast: 17 December 2015 — speakers: Star Wa, Benjamin Thompson, Noah Baker
+- 2015-12-09 — Nature Podcast: 10 December 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-12-02 — Nature Podcast: 3 December 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-11-29 — Nature Extra: Futures November 2015 — speakers: Kerri Smith, Benjamin Thompson, Noah Baker
+- 2015-11-26 — Nature Extra: Backchat November 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-11-25 — Nature Podcast: 26 November 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-11-18 — Nature Podcast: 19 November 2015 — speakers: taste perception, transfer plan, Benjamin Thompson, Noah Baker
+- 2015-11-11 — Nature Podcast: 12 November 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-11-05 — Nature Extra: Futures October 2015 — speakers: Shamini Bundell, Alex Shvartsman, Benjamin Thompson, Noah Baker
+- 2015-11-04 — Nature Podcast: 5 November 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-10-28 — Nature Podcast: 29 October 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-10-23 — Nature Extra: Backchat October 2015 — speakers: Nature Extra, Backchat October, Benjamin Thompson, Noah Baker
+- 2015-10-22 — Nature Podcast: 22 October 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-10-14 — Nature Podcast: 15 October 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-10-08 — Nature Extra: Futures September 2015 — speakers: Geoff Marsh, Carie Juettner, Benjamin Thompson, Noah Baker
+- 2015-10-07 — Nature Podcast: 8 October 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-09-30 — Nature Podcast: 1 October 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-09-23 — Nature Podcast: 24 September 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-09-22 — Nature Extra: Backchat September 2015 — speakers: Nature Extra, Backchat September, Benjamin Thompson, Noah Baker
+- 2015-09-16 — Nature Podcast: 17 September 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-09-09 — Nature Extra - Neurotribes — speakers: Steve Silberman, Geoff Marsh, Benjamin Thompson, Noah Baker
+- 2015-09-09 — Nature Podcast: 10 September 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-09-03 — Nature Extra: Futures August 2015 — speakers: Shamini Bundell, Eric Garside Hosted, Benjamin Thompson, Noah Baker
+- 2015-09-02 — Nature Podcast: 3 September 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-08-26 — Podcast Extra: The Invention of Science — speakers: David Wootton, Benjamin Thompson, Noah Baker
+- 2015-08-26 — Nature Podcast: 27 August 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-08-21 — Nature Extra: Backchat August 2015 — speakers: Nature Extra, Backchat August, Geoff Brumfiel, Benjamin Thompson, Noah Baker
+- 2015-08-18 — Nature Podcast: 20 August 2015 — speakers: Hurricane Katrina, Benjamin Thompson, Noah Baker
+- 2015-08-12 — Nature Podcast: 13 August 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-08-05 — Nature Podcast: 6 August 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-07-29 — Nature Podcast: 30 July 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-07-27 — Nature Extra: Futures July 2015 — speakers: Shamini Bundell, Dan Stout Hosted, Benjamin Thompson, Noah Baker
+- 2015-07-24 — Nature Extra: Backchat July 2015 — speakers: Nature Extra, Backchat July, Benjamin Thompson, Noah Baker
+- 2015-07-22 — Nature Podcast: 23 July 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-07-15 — Nature Podcast: 16 July 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-07-14 — Podcast Extra - A Beautiful Question — speakers: Frank Wilczek, Benjamin Thompson, Noah Baker
+- 2015-07-08 — Nature Podcast: 9 July 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-07-02 — Nature Podcast: 2 July 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-07-01 — Nature Extra: Futures June 2015 — speakers: Geoff Marsh, Roth Hosted, Benjamin Thompson, Noah Baker
+- 2015-06-24 — Nature Podcast: 24 June 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-06-23 — Nature Extra: Backchat June 2015 — speakers: Nature Extra, Backchat June, Jurassic World, Benjamin Thompson, Noah Baker
+- 2015-06-17 — Nature Podcast: 18 June 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-06-10 — Nature Podcast: 11 June 2015 — speakers: Bronze Age, Benjamin Thompson, Noah Baker
+- 2015-06-03 — Nature Podcast: 4 June 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-05-28 — Nature Extra: Backchat May 2015 — speakers: Nature Extra, Backchat May, Benjamin Thompson, Noah Baker
+- 2015-05-28 — Nature Extra: Futures May 2015 — speakers: Geoff Marsh, Tian Li, Benjamin Thompson, Noah Baker
+- 2015-05-27 — Nature Podcast: 28 May 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-05-26 — Audiofile: In search of lost sound — speakers: Benjamin Thompson, Noah Baker
+- 2015-05-20 — Nature Podcast: 21 May 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-05-13 — Nature Podcast: 14 May 2015 — speakers: Hadron Collider, Oliver Sacks, Benjamin Thompson, Noah Baker
+- 2015-05-06 — Nature Podcast: 7 May 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-04-29 — Nature Podcast: 30 April 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-04-24 — Audiofile: Real life Dr Dolittles — speakers: Geoff Marsh, Benjamin Thompson, Noah Baker
+- 2015-04-22 — Nature Podcast: 23 April 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-04-21 — Nature: Backchat April 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-04-15 — Nature Podcast: 16 April 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-04-08 — Nature Podcast: 9 April 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-04-01 — Nature Podcast: 2 April 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-03-25 — Nature Podcast: 26 March 2015 — speakers: Benjamin Thompson, Noah Baker
+- 2015-03-25 — Nature Extra: Backchat — speakers: Nature Extra, Backchat Where, Benjamin Thompson, Noah Baker
+- 2015-02-27 — Nature Extra: Futures — speakers: Noah Baker, Deborah Walker, Benjamin Thompson
+- 2015-01-30 — Nature Extra: Futures — speakers: Geoff Marsh, Christoph Weber, Benjamin Thompson, Noah Baker
+- 2014-10-14 — Nature Extra: Backchat — speakers: Benjamin Thompson, Noah Baker
+- 2014-09-29 — Nature Podcast Extra: Futures — speakers: Noah Baker, Benjamin Thompson
+- 2014-08-01 — Nature Podcast Extra: Futures — speakers: Lizzie Gibney, Benjy’s Birthday, John Grant, Benjamin Thompson, Noah Baker
+- 2014-04-01 — Nature Podcast Extra: Futures — speakers: Kerri Smith, Marissa Lingen, Benjamin Thompson, Noah Baker

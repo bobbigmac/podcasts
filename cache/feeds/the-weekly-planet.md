@@ -2,10 +2,10 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"djEuMi4wOjE3NzE1MDQyMzk1MjI="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T15:53:04+00:00`
+- checked_at: `2026-02-20T15:53:04+00:00`
+- etag: `"djEuMi4wOjE3NzE1OTk0NzAyOTg="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,11 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-20T15:53:04+00:00",
+  "owners": [
+    "James Clement",
+    "Nick Mason"
+  ],
   "common_speakers": [],
   "categories": [
     "entertainment"
@@ -39,7 +42,9 @@
         "Luke Skywalker",
         "Darth Vader",
         "Death Star",
-        "George Lucas"
+        "George Lucas",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "return",
@@ -63,7 +68,9 @@
         "John Wick",
         "Tom Cruise",
         "Brad Pitt",
-        "John Wick Video"
+        "John Wick Video",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "crime",
@@ -86,7 +93,9 @@
       "itunes_duration": "39:24",
       "speakers": [
         "Luke Skywalker",
-        "George Lucas"
+        "George Lucas",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "empire",
@@ -105,7 +114,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154625076",
       "itunes_duration": "1:47:22",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "super",
         "bowl",
@@ -131,7 +143,9 @@
         "John Williams",
         "Harrison Ford",
         "Carrie Fisher",
-        "Mark Hamill"
+        "Mark Hamill",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -155,7 +169,9 @@
         "Catherine O’Hara",
         "Tomb Raider",
         "Catherine O'Hara Rip",
-        "Kathleen Kennedy"
+        "Kathleen Kennedy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -175,7 +191,9 @@
       "itunes_duration": "4:42:30",
       "speakers": [
         "Austin Powers",
-        "Benson Boone"
+        "Benson Boone",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weekly",
@@ -193,7 +211,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141768969",
       "itunes_duration": "1:38:14",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "weekly",
         "planet",
@@ -216,7 +237,9 @@
       "speakers": [
         "Peter Greene",
         "James Ransone",
-        "James Ransone Rip Avatar"
+        "James Ransone Rip Avatar",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -236,7 +259,9 @@
       "enclosure_length": "25548310",
       "itunes_duration": "25:03",
       "speakers": [
-        "Sam Worthington"
+        "Sam Worthington",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wrath",
@@ -260,7 +285,9 @@
         "Rob Reiner",
         "Michele Singer Reiner",
         "Officially Cast",
-        "Doomsday Teaser"
+        "Doomsday Teaser",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avatar",
@@ -282,7 +309,9 @@
         "Sam Worthington",
         "Ray Harryhausen",
         "Liam Neeson",
-        "Ralph Finnes Hades"
+        "Ralph Finnes Hades",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "clash",
@@ -304,7 +333,9 @@
       "itunes_duration": "1:33:12",
       "speakers": [
         "Jennifer Lawrence",
-        "Josh Hutcherson"
+        "Josh Hutcherson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "supergirl",
@@ -327,7 +358,9 @@
       "itunes_duration": "25:16",
       "speakers": [
         "Brad Bird",
-        "George Clooney"
+        "George Clooney",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -348,7 +381,9 @@
       "speakers": [
         "Quentin Tarantino",
         "Nicholas Cage",
-        "Paul Dano"
+        "Paul Dano",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "netflix",
@@ -373,7 +408,9 @@
         "Johnny Depp",
         "Hans Zimmer",
         "Gore Verbinski",
-        "Armie Hammer"
+        "Armie Hammer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lone",
@@ -395,7 +432,9 @@
       "itunes_duration": "1:54:11",
       "speakers": [
         "Dave Warneke",
-        "Watch Dave"
+        "Watch Dave",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "knife",
@@ -419,7 +458,9 @@
         "John Carter Caravan",
         "Anrew Stanton",
         "Taylor Kitsch",
-        "Edgar Rice Burroughs"
+        "Edgar Rice Burroughs",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "john",
@@ -441,7 +482,9 @@
       "itunes_duration": "1:42:25",
       "speakers": [
         "Ninja Turtles",
-        "Labubu Movie"
+        "Labubu Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "good",
@@ -460,7 +503,9 @@
       "enclosure_length": "24758470",
       "itunes_duration": "24:51",
       "speakers": [
-        "Nick Cage"
+        "Nick Cage",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "sorcerer",
@@ -483,7 +528,9 @@
       "speakers": [
         "Steven King",
         "Miles Teller",
-        "Jimmy Olsen Spin-Off"
+        "Jimmy Olsen Spin-Off",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "running"
@@ -501,7 +548,9 @@
       "enclosure_length": "28403254",
       "itunes_duration": "27:58",
       "speakers": [
-        "Shane Black"
+        "Shane Black",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "predator",
@@ -522,7 +571,9 @@
       "itunes_duration": "1:35:03",
       "speakers": [
         "Brendan Fraser",
-        "Rachel Weisz"
+        "Rachel Weisz",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "predator",
@@ -541,7 +592,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28754614",
       "itunes_duration": "28:02",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "predator",
         "caravan",
@@ -562,7 +616,9 @@
       "speakers": [
         "Stephen King",
         "Reeves Sci-Fi",
-        "Frankenstein Spoiler"
+        "Frankenstein Spoiler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "frankenstein",
@@ -583,7 +639,9 @@
       "speakers": [
         "Arnold Schwarzenegger",
         "Danny Glover",
-        "Gary Busey"
+        "Gary Busey",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "predator",
@@ -606,7 +664,9 @@
         "James Bond",
         "Bob Iger",
         "James Gunn",
-        "David Fincher"
+        "David Fincher",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kylo",
@@ -626,7 +686,9 @@
       "enclosure_length": "23509366",
       "itunes_duration": "23:26",
       "speakers": [
-        "Arnold Schwarzenegger"
+        "Arnold Schwarzenegger",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "predator",
@@ -649,7 +711,9 @@
         "Wonder Man",
         "Sigourney Weaver",
         "Diane Keaton",
-        "Jim Carrey"
+        "Jim Carrey",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mattel",
@@ -672,7 +736,9 @@
       "itunes_duration": "1:48:32",
       "speakers": [
         "James Bond",
-        "James Bond Gone Woke"
+        "James Bond Gone Woke",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "tron",
@@ -694,7 +760,9 @@
       "itunes_duration": "29:29",
       "speakers": [
         "Jeff Bridges",
-        "Kevin Flynn"
+        "Kevin Flynn",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "tron",
@@ -716,7 +784,9 @@
       "itunes_duration": "27:11",
       "speakers": [
         "Jeff Bridges",
-        "Glowing Pyjamas"
+        "Glowing Pyjamas",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "tron",
@@ -739,7 +809,9 @@
         "Brendan Fraser",
         "Rachael Weisz",
         "Watch James",
-        "Guillermo Del Toro"
+        "Guillermo Del Toro",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "actor",
@@ -762,7 +834,9 @@
       "speakers": [
         "Tom Cruise",
         "Javier Bardem",
-        "Johnny Depp"
+        "Johnny Depp",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mummy",
@@ -785,7 +859,9 @@
         "Lee Returns",
         "Paul Thomas Anderson",
         "Stan Lee",
-        "Mad Max"
+        "Mad Max",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "battle",
@@ -807,7 +883,9 @@
       "speakers": [
         "Dracula Untold Caravan",
         "Dracula Untold",
-        "Luke Evans"
+        "Luke Evans",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dracula",
@@ -829,7 +907,9 @@
       "itunes_duration": "1:28:40",
       "speakers": [
         "Robert Redford",
-        "Liam Hemsworth"
+        "Liam Hemsworth",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -853,7 +933,9 @@
         "Lon Chaney Jr",
         "Anthony Hopkins",
         "Emily Blunt",
-        "Joe Johnston"
+        "Joe Johnston",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wolfman",
@@ -880,7 +962,9 @@
         "Doom Avengers",
         "David Zaslav",
         "Michael Caine Returns",
-        "Wake Up Dead Man"
+        "Wake Up Dead Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "doctor",
@@ -907,7 +991,9 @@
         "Van Helsing",
         "Hugh Jackman",
         "Kate Beckinsale",
-        "Gabriel Van Hesling"
+        "Gabriel Van Hesling",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "helsing",
@@ -931,7 +1017,9 @@
         "Thumb Cramps",
         "Lara Croft",
         "Tomb Raider",
-        "Bluey Movie"
+        "Bluey Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "tomorrow",
@@ -952,7 +1040,9 @@
       "itunes_duration": "21:21",
       "speakers": [
         "Percy Jackson",
-        "Pierce Brosnan"
+        "Pierce Brosnan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "percy",
@@ -979,7 +1069,9 @@
         "Darren Aronofsky",
         "Caught Stealing",
         "Alan Ritchson",
-        "Demon Hunters Overtakes"
+        "Demon Hunters Overtakes",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caught",
@@ -1005,7 +1097,9 @@
         "Harry Potter",
         "Rick Riordan",
         "Percy Jackson",
-        "Christopher Columbus"
+        "Christopher Columbus",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "percy",
@@ -1034,7 +1128,9 @@
         "Ian McKellen",
         "Jason Bourne",
         "James Gunn",
-        "James Bourne Return"
+        "James Bourne Return",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "peacemaker",
@@ -1055,7 +1151,9 @@
       "itunes_duration": "23:36",
       "speakers": [
         "Elizabeth Shawit",
-        "Michael Fassbender"
+        "Michael Fassbender",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "alien",
@@ -1082,7 +1180,9 @@
         "James Gunn",
         "Thumb Cramps",
         "James Gunn Starts",
-        "Zach Creggar"
+        "Zach Creggar",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "alien",
@@ -1102,7 +1202,9 @@
       "itunes_duration": "25:37",
       "speakers": [
         "Ridley Scott",
-        "Damon Lindelof"
+        "Damon Lindelof",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "prometheus",
@@ -1126,7 +1228,9 @@
         "Michael Bay",
         "Will Smith",
         "Tom Cruise",
-        "Tom Cruise Movie"
+        "Tom Cruise Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weapon"
@@ -1145,7 +1249,9 @@
       "itunes_duration": "26:15",
       "speakers": [
         "Tom Cruise",
-        "Joseph Kosinski"
+        "Joseph Kosinski",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "oblivion",
@@ -1167,7 +1273,9 @@
       "speakers": [
         "Robert Downey Jr",
         "James Boon",
-        "James Bond"
+        "James Bond",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "future"
@@ -1185,7 +1293,9 @@
       "enclosure_length": "26912518",
       "itunes_duration": "25:43",
       "speakers": [
-        "Sean William Scott"
+        "Sean William Scott",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bulletproof",
@@ -1212,7 +1322,9 @@
         "James Gunn",
         "Henry Cavill",
         "Kevin Feige",
-        "Dredd Movie"
+        "Dredd Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fantastic",
@@ -1234,7 +1346,9 @@
         "Barb Wire Caravan",
         "Pamela Anderson",
         "Barb Wire",
-        "Dark Horse"
+        "Dark Horse",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "barb",
@@ -1257,7 +1371,9 @@
       "speakers": [
         "Comic Characters",
         "John Malkovich’s Red Ghost",
-        "Clayface Movie"
+        "Clayface Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -1280,7 +1396,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24956086",
       "itunes_duration": "23:33",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "timecop",
         "caravan",
@@ -1299,7 +1418,9 @@
       "enclosure_length": "140784148",
       "itunes_duration": "1:37:45",
       "speakers": [
-        "Black Superman Movie"
+        "Black Superman Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman"
@@ -1318,7 +1439,9 @@
       "itunes_duration": "30:39",
       "speakers": [
         "Clark Kent Superman",
-        "Christopher Reeve"
+        "Christopher Reeve",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "smallville",
@@ -1342,7 +1465,9 @@
         "Michael Madson",
         "Julian McMahon",
         "Paul Walker Returns",
-        "Mcu Blade Costumes"
+        "Mcu Blade Costumes",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jurassic",
@@ -1363,7 +1488,9 @@
       "itunes_duration": "30:21",
       "speakers": [
         "Starring Teri Hatcher",
-        "Dean Cain"
+        "Dean Cain",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lois",
@@ -1391,7 +1518,9 @@
         "James Bond",
         "Michael Bay",
         "Iron Heart",
-        "Michael Bay Returning"
+        "Michael Bay Returning",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ironheart",
@@ -1415,7 +1544,9 @@
         "James Gunn",
         "George Reeves",
         "Jimmy Olsen",
-        "Lois Lane"
+        "Lois Lane",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "adventure",
@@ -1440,7 +1571,9 @@
         "Alex Garland",
         "John Bernthal",
         "Tom Rhys Harries",
-        "James Gunn"
+        "James Gunn",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "year"
@@ -1460,7 +1593,9 @@
       "speakers": [
         "Michael Crichton",
         "John McTiernan",
-        "Antonio Banderas"
+        "Antonio Banderas",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "warrior",
@@ -1486,7 +1621,9 @@
         "Mortal Kombat II",
         "Disney Sue Midjourney",
         "Mortal Kombat",
-        "Disney Sue Midjourney AI"
+        "Disney Sue Midjourney AI",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "materialists",
@@ -1511,7 +1648,9 @@
         "Paul Walker",
         "Gerry Butler",
         "Frances O'Connor",
-        "Billy Connolly"
+        "Billy Connolly",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "timeline",
@@ -1533,7 +1672,9 @@
       "speakers": [
         "John Wick",
         "Kathleen Kennedy",
-        "David Zazslav"
+        "David Zazslav",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "world",
@@ -1556,7 +1697,9 @@
       "speakers": [
         "Michael Crichton",
         "Dustin Hoffman",
-        "Sharon Stone"
+        "Sharon Stone",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -1580,7 +1723,9 @@
         "Chris Hemsworth",
         "Mark Hamill",
         "Luke Skywalker",
-        "Michael Bay"
+        "Michael Bay",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -1599,7 +1744,9 @@
       "enclosure_length": "24240622",
       "itunes_duration": "23:20",
       "speakers": [
-        "Michael Crichton"
+        "Michael Crichton",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "congo",
@@ -1625,7 +1772,9 @@
         "Top Gun",
         "James Maso",
         "Tony Gilroy vs Marvel",
-        "Alex Garland"
+        "Alex Garland",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -1647,7 +1796,9 @@
         "Jason Bourne Caravan",
         "Jason Bourne",
         "Tommy Lee Jones",
-        "Vincent Cassel"
+        "Vincent Cassel",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jason",
@@ -1669,7 +1820,9 @@
       "itunes_duration": "1:47:28",
       "speakers": [
         "Hbo Max",
-        "David Zaslav"
+        "David Zaslav",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -1692,7 +1845,9 @@
         "Jeremy Renner",
         "Adjacent Bourne",
         "Aaron Cross",
-        "Jason Bourne"
+        "Jason Bourne",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bourne",
@@ -1715,7 +1870,9 @@
       "speakers": [
         "Bob Iger",
         "Kevin Feige",
-        "Donald Trump"
+        "Donald Trump",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "action",
@@ -1737,7 +1894,9 @@
       "itunes_duration": "21:55",
       "speakers": [
         "Jason Bourne",
-        "Aaron Cross"
+        "Aaron Cross",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bourne",
@@ -1761,7 +1920,9 @@
         "Sergeant Rock",
         "Jeremy Renner",
         "Ryan Reynolds",
-        "James Bond"
+        "James Bond",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thunderbolt"
@@ -1782,7 +1943,9 @@
         "Matt Damon",
         "Jason Bourne",
         "Paul Greengrass",
-        "Tony Gilroy"
+        "Tony Gilroy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bourne",
@@ -1808,7 +1971,9 @@
         "Mace Windu",
         "Thumb Cramps",
         "Jason Bourne",
-        "Turn Down Star"
+        "Turn Down Star",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dawn",
@@ -1834,7 +1999,9 @@
         "Julia Stiles",
         "Brian Cox",
         "Clive Owen",
-        "Chris Cooper"
+        "Chris Cooper",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bourne",
@@ -1857,7 +2024,9 @@
       "speakers": [
         "Ryan Coogler",
         "James Gunn",
-        "Darth Maul Animated"
+        "Darth Maul Animated",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "sinners",
@@ -1880,7 +2049,9 @@
       "speakers": [
         "Tom Holland",
         "Nathan Drake",
-        "Mark Whalberg"
+        "Mark Whalberg",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "uncharted",
@@ -1900,7 +2071,9 @@
       "enclosure_length": "143087072",
       "itunes_duration": "1:39:21",
       "speakers": [
-        "Josh Earl"
+        "Josh Earl",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "black",
@@ -1922,7 +2095,9 @@
       "speakers": [
         "Mark Hamill",
         "Matthew Lillard",
-        "Chris Roberts"
+        "Chris Roberts",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wing",
@@ -1946,7 +2121,9 @@
         "Karate Kid",
         "Quentin Tarrentino",
         "David Fincher",
-        "Val Kilmer"
+        "Val Kilmer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "minecraft",
@@ -1966,7 +2143,9 @@
       "itunes_duration": "26:24",
       "speakers": [
         "Kylie Minogue",
-        "Raul Julia"
+        "Raul Julia",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "street",
@@ -1993,7 +2172,9 @@
         "James Bond",
         "Jason Statham",
         "Snow White",
-        "New James Bond"
+        "New James Bond",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avenger",
@@ -2015,7 +2196,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28445876",
       "itunes_duration": "25:07",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "dragon",
         "extended",
@@ -2039,7 +2223,8 @@
         "Jason Bourne",
         "John Wick Ballerina",
         "Jason Bourne Returns",
-        "Nick Mason"
+        "Nick Mason",
+        "James Clement"
       ],
       "topics": [
         "severance",
@@ -2062,7 +2247,9 @@
       "speakers": [
         "Ray Stevenson",
         "Frank Castle",
-        "Lexi Alexander"
+        "Lexi Alexander",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "punisher",
@@ -2086,7 +2273,9 @@
         "Black Bag",
         "John Wick",
         "Sadie Sink",
-        "John Wick Universe"
+        "John Wick Universe",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "electric",
@@ -2107,7 +2296,9 @@
       "itunes_duration": "21:53",
       "speakers": [
         "John Travolta",
-        "Frank Castle"
+        "Frank Castle",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "punisher",
@@ -2127,7 +2318,9 @@
       "enclosure_length": "169739168",
       "itunes_duration": "1:57:52",
       "speakers": [
-        "Latest License"
+        "Latest License",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mickey",
@@ -2147,7 +2340,9 @@
       "enclosure_length": "28000582",
       "itunes_duration": "24:47",
       "speakers": [
-        "Dolph Lundgren"
+        "Dolph Lundgren",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "punisher",
@@ -2170,7 +2365,9 @@
         "Kathleen Kennedy",
         "Jackson Baly",
         "Joel Zammit",
-        "Michelle Trachtenberg Rip"
+        "Michelle Trachtenberg Rip",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kathleen",
@@ -2196,7 +2393,9 @@
       "enclosure_length": "29375038",
       "itunes_duration": "25:28",
       "speakers": [
-        "Jennifer Garner"
+        "Jennifer Garner",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "elektra",
@@ -2220,7 +2419,9 @@
         "James Gunn",
         "Zack Snyder",
         "Controls James Bond",
-        "James Gunn Zack"
+        "James Gunn Zack",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "monkey",
@@ -2246,7 +2447,9 @@
         "Matt Murdoch",
         "Michael Clarke Duncan",
         "Colin Farrell",
-        "Jennifer Garner"
+        "Jennifer Garner",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "daredevil",
@@ -2267,7 +2470,9 @@
       "itunes_duration": "1:43:13",
       "speakers": [
         "Rebel Moon",
-        "Harry Potter"
+        "Harry Potter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "captain",
@@ -2289,7 +2494,9 @@
       "itunes_duration": "35:51",
       "speakers": [
         "Tony Stark",
-        "Sokovia Accords"
+        "Sokovia Accords",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "captain",
@@ -2312,7 +2519,9 @@
       "itunes_duration": "1:41:39",
       "speakers": [
         "Anthony Mackie",
-        "Benson Boone"
+        "Benson Boone",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fantastic",
@@ -2334,7 +2543,9 @@
       "itunes_duration": "37:39",
       "speakers": [
         "Steve Rogers",
-        "Nick Fury"
+        "Nick Fury",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "captain",
@@ -2359,7 +2570,9 @@
       "speakers": [
         "Anthony Mackie",
         "Harry Potter",
-        "Netflix Cancel Sandman"
+        "Netflix Cancel Sandman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "companion",
@@ -2385,7 +2598,9 @@
         "Peggy Carter",
         "Sebastian Stan",
         "Bucky Barnes",
-        "Stanley Tucci"
+        "Stanley Tucci",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "captain",
@@ -2411,7 +2626,9 @@
         "David Lynch",
         "James Guest Appearance",
         "Oscar Noms",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -2432,7 +2649,9 @@
       "speakers": [
         "Tom Holland",
         "Outro James Twitter",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weekly",
@@ -2452,7 +2671,9 @@
       "itunes_duration": "36:23",
       "speakers": [
         "James Twitter",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "greatest",
@@ -2477,7 +2698,9 @@
         "Christopher Nolan",
         "Chris Nolan",
         "Spider-Man Movie Latest",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -2501,7 +2724,9 @@
         "Super Superman",
         "James Bond",
         "James Bond News",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -2519,7 +2744,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43413310",
       "itunes_duration": "38:25",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "lord",
         "rings",
@@ -2546,7 +2774,9 @@
         "Jeremy Allen White",
         "Chris Evans Returns",
         "Barbie Movie Sequel Update",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kraven",
@@ -2571,7 +2801,8 @@
         "James Gunn Explains",
         "Alan Moore",
         "Skeleton Crew Spoiler",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "creature",
@@ -2591,7 +2822,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32311990",
       "itunes_duration": "27:50",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "lord",
         "rings",
@@ -2615,7 +2849,9 @@
         "Moana Woah",
         "Tom Cruise",
         "Denis Villeneuve",
-        "Moana Spoiler"
+        "Moana Spoiler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "moana"
@@ -2636,7 +2872,9 @@
         "James Gunn",
         "Daniel Craig",
         "James Gunn Talks",
-        "Daniel Craig Cast"
+        "Daniel Craig Cast",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wicked"
@@ -2661,7 +2899,9 @@
         "Cate Blanchett",
         "Ian Holm",
         "Sean Bean",
-        "Orlando Bloom"
+        "Orlando Bloom",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lord",
@@ -2686,7 +2926,9 @@
         "Dwayne Johnson",
         "Tomb Raider",
         "Amierca Brave Big Bird",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "penguin"
@@ -2707,7 +2949,9 @@
         "Darren Aronofsky",
         "Russell Crowe",
         "Rusty Crowe",
-        "Robin Hood"
+        "Robin Hood",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "noah",
@@ -2734,7 +2978,9 @@
         "James Gunn",
         "Donald Trump Good",
         "Denis Villeneuve",
-        "Quentin Tarantino"
+        "Quentin Tarantino",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": []
     },
@@ -2754,7 +3000,9 @@
         "Russell Crowe",
         "Paul Bettany",
         "Billy Boyd",
-        "James D'Arcy"
+        "James D'Arcy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "master",
@@ -2779,7 +3027,9 @@
         "Robert Zemeckis",
         "Ant Man Quantumania Made",
         "Skeleton Crew Star",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "agatha"
@@ -2802,7 +3052,9 @@
         "Connie Nielson",
         "Djimon Hounsou",
         "Richard Harris",
-        "Oliver Reed"
+        "Oliver Reed",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "gladiator",
@@ -2825,7 +3077,9 @@
         "Christopher Nolan",
         "Tom Holland",
         "Alien Romulus",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "venom",
@@ -2845,7 +3099,9 @@
       "itunes_duration": "24:37",
       "speakers": [
         "Mary Elizabeth Winstead",
-        "Joel Edgerton"
+        "Joel Edgerton",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thing",
@@ -2870,7 +3126,9 @@
         "Wolf Man",
         "Tom Holland",
         "John Wick Movie Re-Shoots",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "krypto",
@@ -2895,7 +3153,9 @@
         "Kurt Russell",
         "Keith David",
         "Rob Bottin",
-        "Ennio Morricone"
+        "Ennio Morricone",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thing",
@@ -2922,7 +3182,9 @@
         "Aaron Pierre",
         "Christopher Nolan",
         "Zachery Levi",
-        "Henry Cavill Cast"
+        "Henry Cavill Cast",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "transformers",
@@ -2946,7 +3208,9 @@
         "James Franco",
         "Michelle Williams",
         "Milla Kunis",
-        "Rachael Weisz"
+        "Rachael Weisz",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -2972,7 +3236,9 @@
         "Rip Kris Kristofferson",
         "Lead Cast",
         "Better Man",
-        "Robbie Williams"
+        "Robbie Williams",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "joker",
@@ -2992,7 +3258,9 @@
       "enclosure_length": "22111654",
       "itunes_duration": "19:55",
       "speakers": [
-        "Jack Pumpkin Head"
+        "Jack Pumpkin Head",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -3018,7 +3286,9 @@
         "Green Lantern",
         "James joins",
         "Kyle Chandler Green",
-        "Megalopolis Spoiler"
+        "Megalopolis Spoiler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "megalopolis",
@@ -3037,7 +3307,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32331382",
       "itunes_duration": "28:06",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "wizard",
         "caravan",
@@ -3057,7 +3330,9 @@
       "itunes_duration": "1:00:33",
       "speakers": [
         "James Twitter",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "culture",
@@ -3081,7 +3356,9 @@
       "speakers": [
         "Ron Pearlman",
         "David Harbour",
-        "Neil Marshall"
+        "Neil Marshall",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hellboy",
@@ -3102,7 +3379,9 @@
       "itunes_duration": "1:43:10",
       "speakers": [
         "James Twitter",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "morbius",
@@ -3126,7 +3405,9 @@
       "itunes_duration": "24:22",
       "speakers": [
         "Ron Pearlman",
-        "Doug Jones"
+        "Doug Jones",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hellboy",
@@ -3153,7 +3434,9 @@
         "Ian McKellen",
         "Josh Brolin",
         "Hal Jordan",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "beetlejuice",
@@ -3178,7 +3461,9 @@
         "Abe Sapien",
         "Selma Blair",
         "Liz Sherman",
-        "Ogdru Jahad"
+        "Ogdru Jahad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hellboy",
@@ -3198,7 +3483,9 @@
       "enclosure_length": "126522545",
       "itunes_duration": "1:27:51",
       "speakers": [
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "crow",
@@ -3221,7 +3508,9 @@
         "Arnold Schwarzenegger",
         "Linda Hamilton",
         "Sarah Connor",
-        "John Connor"
+        "John Connor",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "terminator",
@@ -3245,7 +3534,9 @@
         "James Spader",
         "Robert Downey Jr",
         "Michael Keaton",
-        "Blink Twice"
+        "Blink Twice",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "acolyte",
@@ -3273,7 +3564,9 @@
         "Sarah Connor",
         "John Connor",
         "Michael Biehn",
-        "Kyle Reece"
+        "Kyle Reece",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "terminator",
@@ -3300,7 +3593,9 @@
         "Maso Guest",
         "Disney Marvel",
         "James Gunn Superman",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "alien",
@@ -3321,7 +3616,9 @@
       "enclosure_length": "27443110",
       "itunes_duration": "23:49",
       "speakers": [
-        "Sigourney Weaver"
+        "Sigourney Weaver",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "alien",
@@ -3344,7 +3641,9 @@
       "speakers": [
         "Snow White",
         "David Zaslav",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "borderlands",
@@ -3369,7 +3668,9 @@
       "itunes_duration": "25:52",
       "speakers": [
         "Ellen Ripley",
-        "David Fincher"
+        "David Fincher",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "alien",
@@ -3391,7 +3692,9 @@
       "speakers": [
         "Harrison Ford",
         "Robert Downey Jr",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "trap",
@@ -3410,7 +3713,9 @@
       "enclosure_length": "37546016",
       "itunes_duration": "26:04",
       "speakers": [
-        "James Cameron"
+        "James Cameron",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "aliens",
@@ -3437,7 +3742,9 @@
         "James Maso",
         "Michael Bay Skibidi Toilet",
         "Robert Downey Jr Returns",
-        "Doom Please"
+        "Doom Please",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "deadpool",
@@ -3456,7 +3763,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21829366",
       "itunes_duration": "19:25",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "alien",
         "caravan",
@@ -3482,7 +3792,9 @@
         "Booster Gold",
         "Rebel Moon",
         "Rdj Return Rumour",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "acolyte",
@@ -3502,7 +3814,9 @@
       "enclosure_length": "26160550",
       "itunes_duration": "22:51",
       "speakers": [
-        "Hugh Jackman"
+        "Hugh Jackman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "logan",
@@ -3526,7 +3840,9 @@
         "Joel Duscher",
         "Shelly Duvall",
         "Kevin Costners Horizon",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "twisters",
@@ -3546,7 +3862,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "260126308",
       "itunes_duration": "22:34",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "wolverine",
         "caravan",
@@ -3568,7 +3887,9 @@
         "Bron Lewis",
         "Claire Tonti",
         "Rumour Hellboy",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "beverly",
@@ -3591,7 +3912,9 @@
       "enclosure_length": "32123134",
       "itunes_duration": "29:01",
       "speakers": [
-        "Hugh Jackman"
+        "Hugh Jackman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "origin",
@@ -3614,7 +3937,9 @@
       "speakers": [
         "Harry Potter",
         "Jeffrey Combs Film Festival",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "quiet",
@@ -3634,7 +3959,9 @@
       "itunes_duration": "22:25",
       "speakers": [
         "Jim Carrey",
-        "Dave Lizewski"
+        "Dave Lizewski",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kick",
@@ -3658,7 +3985,9 @@
         "Caped Crusader",
         "Jordan Peele",
         "Rip Donald",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "blade",
@@ -3681,7 +4010,9 @@
       "itunes_duration": "17:37",
       "speakers": [
         "Mark Millar",
-        "Dave Lizewski"
+        "Dave Lizewski",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -3707,7 +4038,9 @@
         "Dwayne Johnson Disney",
         "Zack Snyder Reveals Rebel",
         "Cuts Doom",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "boys",
@@ -3727,7 +4060,9 @@
       "enclosure_length": "28893430",
       "itunes_duration": "25:19",
       "speakers": [
-        "Michael Fassbender"
+        "Michael Fassbender",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "assassin",
@@ -3753,7 +4088,9 @@
         "Adria Arjona",
         "Jordan Peele",
         "Wonder Woman",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "acolyte"
@@ -3771,7 +4108,9 @@
       "enclosure_length": "26936830",
       "itunes_duration": "24:08",
       "speakers": [
-        "Duncan Jones"
+        "Duncan Jones",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "warcraft",
@@ -3797,7 +4136,9 @@
         "Announce More AI",
         "Zack Snyder",
         "Mummy Prequel Movie",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "insane",
@@ -3818,7 +4159,9 @@
       "enclosure_length": "28433254",
       "itunes_duration": "25:22",
       "speakers": [
-        "Jacob Gyllenhaal"
+        "Jacob Gyllenhaal",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "prince",
@@ -3847,7 +4190,9 @@
         "Beetlejuice Beetlejuice",
         "Pixar Lay-Offs",
         "Dwayne Johnson",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "furiosa",
@@ -3868,7 +4213,9 @@
       "speakers": [
         "Max Payne Caravan",
         "Max Payne",
-        "Mark Wahlberg"
+        "Mark Wahlberg",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "payne",
@@ -3895,7 +4242,9 @@
         "Spider-Man Noir",
         "Nic Cage",
         "Croft Tomb Raider Amazon",
-        "Donnie Yen"
+        "Donnie Yen",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": []
     },
@@ -3911,7 +4260,9 @@
       "enclosure_length": "19613326",
       "itunes_duration": "17:24",
       "speakers": [
-        "Wesley McCullough"
+        "Wesley McCullough",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "planet",
@@ -3937,7 +4288,9 @@
         "Dwayne Johnson",
         "Caped Crusader",
         "Mad Max",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kingdom",
@@ -3955,7 +4308,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23264470",
       "itunes_duration": "20:37",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "dawn",
         "planet",
@@ -3981,7 +4337,9 @@
         "Jeff Brides",
         "Jeff Bridges Returns",
         "Dwayne Johnson",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dwayne",
@@ -4003,7 +4361,9 @@
       "enclosure_length": "20078758",
       "itunes_duration": "17:52",
       "speakers": [
-        "Andy Serkis"
+        "Andy Serkis",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rise",
@@ -4027,7 +4387,9 @@
       "speakers": [
         "Matt Stewart",
         "Tom Cruise",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fall",
@@ -4049,7 +4411,9 @@
       "speakers": [
         "Mel Gibson",
         "Tom Hardy",
-        "Mad Max"
+        "Mad Max",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fury",
@@ -4073,7 +4437,9 @@
         "Zack Snyder",
         "Rebel Moon",
         "David Zazslav",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rebel",
@@ -4096,7 +4462,9 @@
         "Mel Gibsons",
         "Max Rockatansky",
         "Tina Turner",
-        "Gary Stephen"
+        "Gary Stephen",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thunderdome",
@@ -4122,7 +4490,9 @@
         "Zack Snyder",
         "Iron Man Return",
         "Robbie Monopoly",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "civil",
@@ -4144,7 +4514,9 @@
       "itunes_duration": "23:42",
       "speakers": [
         "George Miller",
-        "Mad Max"
+        "Mad Max",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "road",
@@ -4171,7 +4543,9 @@
         "Monkey Man",
         "Do Go",
         "Bob Iger's Big Win",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "monkey",
@@ -4196,7 +4570,9 @@
         "Max Fury Road",
         "Mad Max",
         "George Miller",
-        "Melvin Gibson"
+        "Melvin Gibson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -4217,7 +4593,9 @@
       "speakers": [
         "Do Go",
         "Disney Marvel",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "godzilla",
@@ -4236,7 +4614,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27390118",
       "itunes_duration": "24:12",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "king",
         "kong",
@@ -4260,7 +4641,9 @@
         "James Bond",
         "Beetlejuice Beetlejuice",
         "Aaron Taylor-Johnson",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ghostbuster",
@@ -4279,7 +4662,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18749734",
       "itunes_duration": "16:13",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "godzilla",
         "caravan",
@@ -4303,7 +4689,9 @@
         "Henry Cavill",
         "Shang Chi",
         "Patty Jenkins Back",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -4323,7 +4711,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26998532",
       "itunes_duration": "23:38",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "ghostbusters",
         "caravan",
@@ -4346,7 +4737,9 @@
         "Bradley Cooper",
         "Zack Snyder",
         "Rebel Moon",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -4367,7 +4760,9 @@
       "itunes_duration": "21:28",
       "speakers": [
         "Antonio Banderas",
-        "Catherine Zeta Jones"
+        "Catherine Zeta Jones",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "legend",
@@ -4389,7 +4784,9 @@
       "itunes_duration": "1:39:46",
       "speakers": [
         "Kevin Costner Cowboy",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dune"
@@ -4411,7 +4808,9 @@
         "Anthony Hopkins",
         "Catherine Zeta-Jones",
         "Martin Campbell",
-        "Good Zorro-ing"
+        "Good Zorro-ing",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mask",
@@ -4434,7 +4833,9 @@
       "speakers": [
         "Batman Beyond",
         "Henry Cavill",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avatar",
@@ -4452,7 +4853,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30022102",
       "itunes_duration": "29:37",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "airbender",
         "caravan",
@@ -4472,7 +4876,9 @@
       "itunes_duration": "1:39:25",
       "speakers": [
         "Miles Morales",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "madame",
@@ -4492,7 +4898,9 @@
       "enclosure_length": "31987990",
       "itunes_duration": "28:57",
       "speakers": [
-        "Andrew Garfield"
+        "Andrew Garfield",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -4513,7 +4921,9 @@
       "enclosure_length": "135605007",
       "itunes_duration": "1:34:10",
       "speakers": [
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superbowl",
@@ -4535,7 +4945,9 @@
       "speakers": [
         "Tony Stark Iron Man",
         "Peter Parker",
-        "Nick Fury"
+        "Nick Fury",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -4559,7 +4971,9 @@
         "Matthew Vaughn",
         "Carl Weathers",
         "Monkey Man",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "argylle",
@@ -4584,7 +4998,9 @@
         "Peter Park",
         "Tom Holland",
         "Michael Keaton",
-        "Tony Stark Iron Man"
+        "Tony Stark Iron Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -4610,7 +5026,9 @@
         "Top Gun",
         "Tom Cruise",
         "Indy Game",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -4631,7 +5049,9 @@
       "speakers": [
         "Rebel Moon",
         "James Twitter",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weekly",
@@ -4653,7 +5073,8 @@
         "Rob Collings",
         "Nick Mason",
         "James Gunn",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "best",
@@ -4675,7 +5096,9 @@
       "speakers": [
         "Rebel Moon",
         "Zack Snyder's Star",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rebel",
@@ -4698,7 +5121,9 @@
       "speakers": [
         "Zach Snyder",
         "Zack Snyder",
-        "Ray Fisher"
+        "Ray Fisher",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "zach",
@@ -4724,7 +5149,9 @@
         "James Gunn",
         "James Gunn Hates",
         "Dwayne Johnson Safdie Brothers",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wonka",
@@ -4745,7 +5172,9 @@
       "speakers": [
         "Tim Burton",
         "Johnny Depp",
-        "Gene Wilder"
+        "Gene Wilder",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "charlie",
@@ -4770,7 +5199,9 @@
         "David Tennant",
         "Hugh Grant",
         "Sean Gunn",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "doctor",
@@ -4789,7 +5220,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21129142",
       "itunes_duration": "19:03",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "godzilla",
         "kong",
@@ -4812,7 +5246,9 @@
         "Zach Snyder",
         "Dark Knight",
         "Jordan Vogt-Roberts",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "godzilla",
@@ -4831,7 +5267,9 @@
       "enclosure_length": "21436894",
       "itunes_duration": "19:39",
       "speakers": [
-        "King Ghidora"
+        "King Ghidora",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "godzilla",
@@ -4857,7 +5295,9 @@
         "Lex Luthoer",
         "Dave Filoni",
         "Karate Kid",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "napoleon"
@@ -4877,7 +5317,9 @@
       "speakers": [
         "Tom Hiddleston",
         "Brie Larson",
-        "Sam Jackson"
+        "Sam Jackson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kong",
@@ -4900,7 +5342,9 @@
       "itunes_duration": "1:15:49",
       "speakers": [
         "Pedro Pascal",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "madame",
@@ -4923,7 +5367,9 @@
       "itunes_duration": "23:05",
       "speakers": [
         "Gareth Edwards",
-        "Bryan Cranston"
+        "Bryan Cranston",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "godzilla",
@@ -4947,7 +5393,9 @@
         "Frozen Empire",
         "Kevin Feige Star",
         "Jeremy Allen White",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "marvels",
@@ -4967,7 +5415,9 @@
       "enclosure_length": "20356054",
       "itunes_duration": "18:52",
       "speakers": [
-        "Julianne Moore"
+        "Julianne Moore",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hunger",
@@ -4993,7 +5443,9 @@
         "Nicholas Cage",
         "Nic Cage Talks",
         "Joe Biden",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "crisis",
@@ -5014,7 +5466,9 @@
       "enclosure_length": "20257076",
       "itunes_duration": "18:50",
       "speakers": [
-        "Harry Potter"
+        "Harry Potter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hunger",
@@ -5038,7 +5492,9 @@
       "speakers": [
         "Max Landis",
         "Spider-Man Thor Latest News",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "nights",
@@ -5058,7 +5514,9 @@
       "itunes_duration": "21:33",
       "speakers": [
         "Jennifer Lawrence",
-        "Phillip Seymor Hoffman"
+        "Phillip Seymor Hoffman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hunger",
@@ -5082,7 +5540,9 @@
       "speakers": [
         "Brie Larson",
         "Matthew Vaughn",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "killers",
@@ -5105,7 +5565,9 @@
       "enclosure_length": "22321750",
       "itunes_duration": "20:04",
       "speakers": [
-        "Jennifer Lawrence"
+        "Jennifer Lawrence",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hunger",
@@ -5128,7 +5590,9 @@
       "speakers": [
         "Keith Giffen",
         "Zack Snyder",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -5152,7 +5616,9 @@
         "Michel Gondry",
         "Christoph Waltz",
         "Jay Chou",
-        "Cameron Diaz"
+        "Cameron Diaz",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "green",
@@ -5175,7 +5641,9 @@
       "speakers": [
         "Taylor Swift Deadpool",
         "James Gunn",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ahsoka",
@@ -5196,7 +5664,9 @@
       "itunes_duration": "20:56",
       "speakers": [
         "Starring Billy Zane",
-        "Kit Walker"
+        "Kit Walker",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "phantom",
@@ -5219,7 +5689,9 @@
         "Martin Scorsese",
         "David McCallum",
         "Matthew Vaughn",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "creator"
@@ -5240,7 +5712,9 @@
         "Tim Burton",
         "Alec Baldwin",
         "Bruce Wayne",
-        "Lamont Cranston"
+        "Lamont Cranston",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "shadow",
@@ -5263,7 +5737,9 @@
         "Tim Burton",
         "Chris Evans",
         "John Wick Prequel",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": []
     },
@@ -5279,7 +5755,9 @@
       "enclosure_length": "27385774",
       "itunes_duration": "25:13",
       "speakers": [
-        "Joe Johnston"
+        "Joe Johnston",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rocketeer",
@@ -5300,7 +5778,9 @@
       "itunes_duration": "1:10:47",
       "speakers": [
         "Blue Beetle",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "blue",
@@ -5324,7 +5804,9 @@
         "Warren Beatty",
         "Al Pacino",
         "Dustin Hoffman",
-        "James Cann"
+        "James Cann",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dick",
@@ -5347,7 +5829,9 @@
       "speakers": [
         "Sam Raimi",
         "Taylor Swift",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "piece",
@@ -5373,7 +5857,9 @@
         "Michael Keaton",
         "Jack Earl Haley",
         "Abbie Cornish",
-        "Sam Jackson"
+        "Sam Jackson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "robocop",
@@ -5398,7 +5884,8 @@
         "Nick Mason",
         "Disney Cancelling",
         "James Gunn Again",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "tmnt",
@@ -5421,7 +5908,9 @@
       "itunes_duration": "23:56",
       "speakers": [
         "Peter Weller",
-        "Robert John Burke"
+        "Robert John Burke",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "robocop",
@@ -5444,7 +5933,9 @@
         "Zach Snyder",
         "Rebel Moon",
         "Mayhem Helps Make",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ahsoka",
@@ -5464,7 +5955,9 @@
       "enclosure_length": "24842324",
       "itunes_duration": "22:22",
       "speakers": [
-        "Peter Weller"
+        "Peter Weller",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "robocop",
@@ -5487,7 +5980,9 @@
         "Jack Druce",
         "Disney Gets",
         "Barbie Beats Batman",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "blue",
@@ -5511,7 +6006,9 @@
       "itunes_duration": "21:17",
       "speakers": [
         "Paul Verhoeven",
-        "Peter Weller"
+        "Peter Weller",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "robocop",
@@ -5536,7 +6033,9 @@
         "Rip William Friedkin",
         "Bob Iger",
         "William Friedkin",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "voyage",
@@ -5558,7 +6057,9 @@
       "itunes_duration": "24:00",
       "speakers": [
         "Lars Mikkelsen",
-        "Ezra Bridger"
+        "Ezra Bridger",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -5583,7 +6084,9 @@
         "Stephen Amell",
         "Matt Stewart",
         "Stephen Amell Sag-Aftra Strike",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "controversies",
@@ -5601,7 +6104,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24840310",
       "itunes_duration": "22:37",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "ninja",
         "turtles",
@@ -5624,7 +6130,9 @@
       "speakers": [
         "Wrong Lesson",
         "Barbie Movie Sequel",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "secret",
@@ -5646,7 +6154,9 @@
       "speakers": [
         "Michael Bay",
         "Megan Fox",
-        "April O'Niel"
+        "April O'Niel",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "michael",
@@ -5669,7 +6179,9 @@
       "itunes_duration": "1:46:47",
       "speakers": [
         "Tom Cruise",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "barbie",
@@ -5688,7 +6200,9 @@
       "enclosure_length": "27691510",
       "itunes_duration": "25:32",
       "speakers": [
-        "Dolph Lundgren"
+        "Dolph Lundgren",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "master",
@@ -5710,7 +6224,9 @@
       "itunes_duration": "1:59:49",
       "speakers": [
         "Hugh Jackman",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -5731,7 +6247,9 @@
       "itunes_duration": "23:06",
       "speakers": [
         "Solomon Lane",
-        "Henry Cavill"
+        "Henry Cavill",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -5756,7 +6274,9 @@
         "Shang Chi",
         "Shang-Chi Sequel",
         "Harrison Ford Movies",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "brands",
@@ -5779,7 +6299,9 @@
         "Ethan Hunt",
         "Sean Harris",
         "Solomon Lane",
-        "Rebecca Ferguson"
+        "Rebecca Ferguson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -5808,7 +6330,9 @@
         "Tom Cruise",
         "David Corenswet",
         "Indiana Jones",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "indiana",
@@ -5833,7 +6357,9 @@
         "Jeremy Renner",
         "Paula Patton",
         "Simon Peggs Benji",
-        "Ving Rhames Luther"
+        "Ving Rhames Luther",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -5857,7 +6383,9 @@
       "itunes_duration": "1:59:54",
       "speakers": [
         "Rotten Tomatoes",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "flash",
@@ -5879,7 +6407,9 @@
       "enclosure_length": "32714998",
       "itunes_duration": "29:52",
       "speakers": [
-        "Harrison Ford"
+        "Harrison Ford",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "indiana",
@@ -5906,7 +6436,9 @@
         "John Romita Snr",
         "Christopher Nolan",
         "John Romita Sr",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "flash"
@@ -5923,7 +6455,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22731524",
       "itunes_duration": "20:23",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "indiana",
         "jones",
@@ -5946,7 +6481,9 @@
       "speakers": [
         "Chris Hemsworth",
         "James Gunn Superman",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "transformer",
@@ -5968,7 +6505,9 @@
       "speakers": [
         "Ke Huy Quan",
         "Kate Capshaw",
-        "Willie Scott"
+        "Willie Scott",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "indiana",
@@ -5997,7 +6536,9 @@
         "Tom Cruise",
         "Christopher Nolan",
         "Jason Momoa",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -6018,7 +6559,9 @@
       "speakers": [
         "Harrison Ford",
         "Steven Speilberg",
-        "George Lucas"
+        "George Lucas",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "indiana",
@@ -6043,7 +6586,9 @@
       "speakers": [
         "Claire Tonti",
         "James Cameron",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "delays",
@@ -6064,7 +6609,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31876918",
       "itunes_duration": "29:09",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "transformer",
         "movie",
@@ -6086,7 +6634,9 @@
       "speakers": [
         "Jake Extraction",
         "Rick Dalton",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fast"
@@ -6103,7 +6653,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31824286",
       "itunes_duration": "29:39",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "caravan",
         "garbage"
@@ -6123,7 +6676,8 @@
       "speakers": [
         "Nick Mason",
         "Zack Snyder’s DC",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "longest",
@@ -6143,7 +6697,9 @@
       "enclosure_length": "28772662",
       "itunes_duration": "26:37",
       "speakers": [
-        "Owen Shaw"
+        "Owen Shaw",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fast",
@@ -6165,7 +6721,9 @@
       "itunes_duration": "1:41:38",
       "speakers": [
         "Mortal Kombat",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "guardians",
@@ -6186,7 +6744,9 @@
       "speakers": [
         "Paul Walker",
         "Vin Diesel",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "extended",
@@ -6206,7 +6766,9 @@
       "enclosure_length": "189052032",
       "itunes_duration": "2:11:17",
       "speakers": [
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "cinemacon",
@@ -6226,7 +6788,9 @@
       "enclosure_length": "18533374",
       "itunes_duration": "17:20",
       "speakers": [
-        "Paul Walkers Brian O'Conner"
+        "Paul Walkers Brian O'Conner",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fast",
@@ -6249,7 +6813,9 @@
       "speakers": [
         "Michelle Yeoh",
         "John Boyega",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "evil",
@@ -6273,7 +6839,9 @@
       "speakers": [
         "George Clooney",
         "Val Kilmer",
-        "Michael Keaton"
+        "Michael Keaton",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -6299,7 +6867,9 @@
         "Aunty Donna",
         "Muerto Movie",
         "Andy Serkis",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "marvels",
@@ -6322,7 +6892,9 @@
       "speakers": [
         "Joel Schumacher",
         "Val Kilmer",
-        "Bruce Wayne"
+        "Bruce Wayne",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -6350,7 +6922,9 @@
         "Perlmutter Update",
         "Spider-Man Across",
         "Skeleton Crew",
-        "Dave Filoni"
+        "Dave Filoni",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "super",
@@ -6374,7 +6948,9 @@
       "itunes_duration": "25:06",
       "speakers": [
         "Mega Man",
-        "Teenage Mutant"
+        "Teenage Mutant",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wizard",
@@ -6399,7 +6975,8 @@
         "Ike Perlmutter",
         "Liv Tyler Returns",
         "Nick Mason",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "dungeons",
@@ -6419,7 +6996,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22171390",
       "itunes_duration": "21:02",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "pixel",
         "caravan",
@@ -6442,7 +7022,8 @@
         "Lady Gaga",
         "Harley Quinn",
         "Nick Mason",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "john",
@@ -6463,7 +7044,9 @@
       "itunes_duration": "28:33",
       "speakers": [
         "Chris Pine",
-        "Jimmy Olsen"
+        "Jimmy Olsen",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dungeon",
@@ -6491,7 +7074,8 @@
         "Ben Affleck",
         "James Gunn Confirms Superman",
         "Nick Mason",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "shazam",
@@ -6515,7 +7099,9 @@
         "Michael Keaton",
         "Batman Returns",
         "Danny DeVito",
-        "Max Shreck"
+        "Max Shreck",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -6540,7 +7126,9 @@
         "John Bernthal",
         "James Gunn Superman",
         "Dinosaurs Movie",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "scream",
@@ -6564,7 +7152,9 @@
         "Laura Vandervoort",
         "Melissa Benoist",
         "Reeve Superman",
-        "Helen Slater"
+        "Helen Slater",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "supergirl",
@@ -6585,7 +7175,9 @@
       "itunes_duration": "1:40:03",
       "speakers": [
         "Mayhem Cast",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "creed"
@@ -6603,7 +7195,9 @@
       "enclosure_length": "25444198",
       "itunes_duration": "23:37",
       "speakers": [
-        "John Wesley Shipp"
+        "John Wesley Shipp",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "flash",
@@ -6626,7 +7220,9 @@
         "Steven Yeun's Character",
         "Ant Man",
         "James Gunn",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "cocaine",
@@ -6647,7 +7243,9 @@
       "enclosure_length": "24480070",
       "itunes_duration": "22:28",
       "speakers": [
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "shrek",
@@ -6673,7 +7271,9 @@
         "Harley Quinn",
         "Ezra Miller",
         "Harrison Ford",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wasp",
@@ -6693,7 +7293,9 @@
       "itunes_duration": "21:53",
       "speakers": [
         "Justin Timberlake",
-        "Eric Idle"
+        "Eric Idle",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "shrek",
@@ -6720,7 +7322,9 @@
         "Riddick Returns",
         "Indiana Jones",
         "James Twitter",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "super",
@@ -6738,7 +7342,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23354396",
       "itunes_duration": "21:52",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "shrek",
         "caravan",
@@ -6761,7 +7368,9 @@
         "Aunty Donna",
         "James Gunn",
         "Peter Safran",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "slate",
@@ -6786,7 +7395,9 @@
       "speakers": [
         "Mike Myers",
         "Eddie Murphy",
-        "Cameron Diaz"
+        "Cameron Diaz",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "shrek",
@@ -6806,7 +7417,9 @@
       "enclosure_length": "154921260",
       "itunes_duration": "1:47:35",
       "speakers": [
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "m3gan",
@@ -6831,7 +7444,9 @@
         "Jeremy Renner",
         "Jason Momoa",
         "Michael Bay Did",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -6852,7 +7467,9 @@
       "speakers": [
         "Tom Holland",
         "James Bond Pitch",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weekly",
@@ -6873,7 +7490,9 @@
       "speakers": [
         "Gal Gadot",
         "Tom Cruise",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -6899,7 +7518,9 @@
         "Patty Jenkins",
         "Black Adam",
         "Adam Driver",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avatar",
@@ -6918,7 +7539,9 @@
       "enclosure_length": "28800766",
       "itunes_duration": "27:00",
       "speakers": [
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avatar",
@@ -6946,7 +7569,9 @@
         "Robert Pattinson Sci-Fi",
         "Beyond Movie",
         "Superman Return",
-        "Jedi Survivor"
+        "Jedi Survivor",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movie"
@@ -6965,7 +7590,9 @@
       "itunes_duration": "34:40",
       "speakers": [
         "James Cameron’s Titanic",
-        "Kate Winslet"
+        "Kate Winslet",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -6987,7 +7614,8 @@
         "Rian Johnson",
         "Nick Mason",
         "James Gunn",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "glass",
@@ -7012,7 +7640,9 @@
         "James Cameron",
         "Starring Ed Harris",
         "Mary Elizabeth Mastrantonio",
-        "Michael Biehn"
+        "Michael Biehn",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "abyss",
@@ -7035,7 +7665,8 @@
         "James Gunn",
         "Bob Iger",
         "Nick Mason",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "guardians",
@@ -7059,7 +7690,9 @@
         "Alan Moore-athon",
         "Paul Dini",
         "Kevin Conroy",
-        "Mark Hamill"
+        "Mark Hamill",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -7085,7 +7718,9 @@
         "Steven Spielberg",
         "Chris Hemsworth",
         "Terrific Teased",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "remembering",
@@ -7106,7 +7741,9 @@
       "itunes_duration": "26:01",
       "speakers": [
         "Natalie Portman",
-        "Alan Moore"
+        "Alan Moore",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "vendetta",
@@ -7133,7 +7770,9 @@
         "Kong Movie",
         "Tom Holland Spider-Man",
         "James Gunn",
-        "Jason Momoa"
+        "Jason Momoa",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "black",
@@ -7154,7 +7793,9 @@
       "itunes_duration": "29:47",
       "speakers": [
         "Alan Moore-athon",
-        "Alan Quartermaine"
+        "Alan Quartermaine",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "league",
@@ -7178,7 +7819,9 @@
       "speakers": [
         "Worry Darling",
         "James Gunn",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "franchise",
@@ -7201,7 +7844,9 @@
         "Alan Moore",
         "Starring Johnny Depp",
         "Heather Graham",
-        "Ian Holm"
+        "Ian Holm",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hell",
@@ -7225,7 +7870,9 @@
         "Matt Perry",
         "Ant Man",
         "Henry Cavill",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "james",
@@ -7250,7 +7897,9 @@
         "Francis Ford",
         "Gary Oldman",
         "Anthony Hopkins",
-        "Winona Ryder"
+        "Winona Ryder",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bram",
@@ -7276,7 +7925,9 @@
         "Black Adam",
         "Adam Driver",
         "Michael Keaton Batman Return",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "black",
@@ -7294,7 +7945,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23611078",
       "itunes_duration": "23:16",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "scorpion",
         "king",
@@ -7317,7 +7971,9 @@
         "Harrison Ford",
         "John Carpenter",
         "Liam Neeson Naked",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "halloween"
@@ -7335,7 +7991,9 @@
       "enclosure_length": "24772126",
       "itunes_duration": "24:12",
       "speakers": [
-        "Avi Arad"
+        "Avi Arad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thing",
@@ -7357,7 +8015,9 @@
       "itunes_duration": "1:31:13",
       "speakers": [
         "Henry Cavill",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "werewolf",
@@ -7377,7 +8037,9 @@
       "itunes_duration": "29:56",
       "speakers": [
         "Edward Norton",
-        "Bruce Banner"
+        "Bruce Banner",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "incredible",
@@ -7403,7 +8065,9 @@
         "Harrison Ford",
         "Bruce Willis AI",
         "Blade Movie Troubles Mason",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hugh",
@@ -7424,7 +8088,9 @@
       "enclosure_length": "29944868",
       "itunes_duration": "28:23",
       "speakers": [
-        "Eric Bana"
+        "Eric Bana",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hulk",
@@ -7446,7 +8112,9 @@
       "speakers": [
         "James Bond",
         "Hulk Catch-Up",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "andor",
@@ -7465,7 +8133,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28308958",
       "itunes_duration": "27:26",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "hobbit",
         "battle",
@@ -7488,7 +8159,9 @@
       "speakers": [
         "Blade Runner",
         "Prey Spoiler",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "nope",
@@ -7510,7 +8183,9 @@
       "itunes_duration": "26:39",
       "speakers": [
         "Benedict Cumberbatch",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hobbit",
@@ -7538,7 +8213,9 @@
         "Snow White",
         "Peter Pan",
         "Hot Scoop",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "marvel",
@@ -7561,7 +8238,9 @@
       "enclosure_length": "30222358",
       "itunes_duration": "29:46",
       "speakers": [
-        "Peter Jackson"
+        "Peter Jackson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hobbit",
@@ -7584,7 +8263,9 @@
       "speakers": [
         "Kevin Feige",
         "Kevin Feige How",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "disaster"
@@ -7602,7 +8283,9 @@
       "enclosure_length": "64183186",
       "itunes_duration": "44:34",
       "speakers": [
-        "Tina Turner"
+        "Tina Turner",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "james",
@@ -7625,7 +8308,9 @@
       "enclosure_length": "106837068",
       "itunes_duration": "1:51:32",
       "speakers": [
-        "Wolverine Origins"
+        "Wolverine Origins",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wolverine",
@@ -7650,7 +8335,9 @@
       "speakers": [
         "Keanu Reeve",
         "Shang Chi",
-        "revisit monthbius"
+        "revisit monthbius",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "comic",
@@ -7673,7 +8360,9 @@
       "enclosure_length": "31363821",
       "itunes_duration": "32:40",
       "speakers": [
-        "Comic Book Movie"
+        "Comic Book Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "covered",
@@ -7693,7 +8382,9 @@
       "enclosure_length": "22160804",
       "itunes_duration": "20:58",
       "speakers": [
-        "Avp Requiem"
+        "Avp Requiem",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "alien",
@@ -7718,7 +8409,9 @@
         "John Wick",
         "Alan Grant",
         "Prequel Preview",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -7739,7 +8432,9 @@
       "speakers": [
         "Cinema Multiverse",
         "Steven Spielberg",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "deciphering",
@@ -7760,7 +8455,9 @@
       "itunes_duration": "2:00:47",
       "speakers": [
         "James Cameron",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thor",
@@ -7785,7 +8482,9 @@
         "Chris Harmsworth",
         "Tom Hiddleston",
         "Natalie Portman",
-        "Jane Foster"
+        "Jane Foster",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thor",
@@ -7814,7 +8513,9 @@
         "Taika Waititi",
         "Millie Bobby Brown",
         "Russo Bros",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -7843,7 +8544,9 @@
         "Natalie Portman",
         "Jane Foster",
         "Anthony Hopkins",
-        "Rene Russo"
+        "Rene Russo",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thor",
@@ -7865,7 +8568,9 @@
       "speakers": [
         "John Williams",
         "Kevin Feige",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "umbrella",
@@ -7885,7 +8590,9 @@
       "enclosure_length": "18240596",
       "itunes_duration": "17:18",
       "speakers": [
-        "George Lucas"
+        "George Lucas",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -7912,7 +8619,9 @@
         "Guy Ritchie Hercules Movie",
         "Lady Gaga",
         "Disney Pixar",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lightyear",
@@ -7934,7 +8643,9 @@
         "Sam Neil",
         "Alan Grant",
         "Laura Dern",
-        "Ellie Sattler"
+        "Ellie Sattler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jurassic",
@@ -7957,7 +8668,9 @@
       "speakers": [
         "Duke Nukem Movie",
         "Joker Sequel Folie",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jurassic",
@@ -7977,7 +8690,9 @@
       "enclosure_length": "24889150",
       "itunes_duration": "23:36",
       "speakers": [
-        "Steven Spielberg"
+        "Steven Spielberg",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lost",
@@ -8001,7 +8716,9 @@
       "itunes_duration": "1:22:21",
       "speakers": [
         "Stark Trek",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "boys",
@@ -8021,7 +8738,9 @@
       "enclosure_length": "34876460",
       "itunes_duration": "32:59",
       "speakers": [
-        "Steven Spielberg"
+        "Steven Spielberg",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jurassic",
@@ -8047,7 +8766,9 @@
         "Indiana Jones",
         "Maverick Review",
         "Two Review",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -8070,7 +8791,9 @@
       "speakers": [
         "George Lucas",
         "Anakin Skywalker",
-        "Darth Vader"
+        "Darth Vader",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -8095,7 +8818,9 @@
         "Stan Lee Cameos",
         "Kevin Feige",
         "Kathleen Kennedy",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hulk",
@@ -8123,7 +8848,9 @@
         "Dan Stevens",
         "Godzilla vs Kong",
         "Christopher Walken",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avatar",
@@ -8147,7 +8874,9 @@
         "Sam Raimi",
         "Wan Kenobi",
         "Ranking Multiverse",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "doctor",
@@ -8168,7 +8897,9 @@
       "enclosure_length": "45279111",
       "itunes_duration": "47:16",
       "speakers": [
-        "Anakin Skywalker"
+        "Anakin Skywalker",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -8193,7 +8924,9 @@
         "Andrew Garfield",
         "Michael Caine",
         "Best Cameos",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "future",
@@ -8216,7 +8949,9 @@
       "itunes_duration": "1:38:39",
       "speakers": [
         "Ezra Miller Bad News",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "death",
@@ -8238,7 +8973,9 @@
       "speakers": [
         "George Lucas",
         "Qui-Gon Jinn",
-        "Jar Jar Binks"
+        "Jar Jar Binks",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -8263,7 +9000,8 @@
         "Nick Mason",
         "Ezra Miller Flash",
         "Strange Multiverse",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement"
       ],
       "topics": [
         "reshuffle"
@@ -8286,7 +9024,9 @@
         "Nicolas Cage Ama",
         "Raimi Spider-Man Possible Star",
         "Ezra Miller",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "beasts"
@@ -8307,7 +9047,9 @@
         "Green Lantern Caravan",
         "Ryan Reynolds",
         "Martin Campbell",
-        "James Bond Twice"
+        "James Bond Twice",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "green",
@@ -8330,7 +9072,9 @@
       "speakers": [
         "Bruce Willis",
         "Ezra Miller",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "morbiu",
@@ -8348,7 +9092,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18943476",
       "itunes_duration": "19:43",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "losers",
         "caravan",
@@ -8366,7 +9113,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120436717",
       "itunes_duration": "1:38:15",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "worst",
         "movie",
@@ -8392,7 +9142,9 @@
         "Josh Brolin",
         "Megan Fox",
         "Michael Fassbender",
-        "John Malkovich"
+        "John Malkovich",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jonah",
@@ -8413,7 +9165,9 @@
       "itunes_duration": "1:51:38",
       "speakers": [
         "Nick Fury",
-        "wikipediabrown Maso"
+        "wikipediabrown Maso",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -8434,7 +9188,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21396270",
       "itunes_duration": "22:17",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "constantine",
         "caravan",
@@ -8456,7 +9213,9 @@
         "Ben Affleck",
         "Florence Pugh",
         "Wan Kenobi",
-        "Adam Project"
+        "Adam Project",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kenobi",
@@ -8475,7 +9234,9 @@
       "enclosure_length": "25096311",
       "itunes_duration": "26:12",
       "speakers": [
-        "Halle Berry"
+        "Halle Berry",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "catwoman",
@@ -8497,7 +9258,9 @@
       "speakers": [
         "Da Bat",
         "Matt Reeves",
-        "Every Sequel Hint"
+        "Every Sequel Hint",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman"
@@ -8514,7 +9277,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22821993",
       "itunes_duration": "23:46",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "twilight",
         "dawn",
@@ -8538,7 +9304,9 @@
         "Steven Spielberg",
         "Tom Holland",
         "James Bond Pitch",
-        "Charlie Cox Daredevil"
+        "Charlie Cox Daredevil",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ranking",
@@ -8557,7 +9325,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24402423",
       "itunes_duration": "25:25",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "twilight",
         "dawn",
@@ -8580,7 +9351,9 @@
         "Tom Holland",
         "Ivan Reitman",
         "Francis Ford",
-        "Strange Multiverse"
+        "Strange Multiverse",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "peacemaker",
@@ -8599,7 +9372,9 @@
       "enclosure_length": "18177447",
       "itunes_duration": "18:56",
       "speakers": [
-        "Peak Twilight"
+        "Peak Twilight",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "twilight",
@@ -8623,7 +9398,9 @@
         "Zack Snyder’s Star",
         "Blade Runner",
         "Jordan Peele",
-        "Boba Fett Spoiler"
+        "Boba Fett Spoiler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "book",
@@ -8648,7 +9425,9 @@
       "itunes_duration": "22:26",
       "speakers": [
         "Edward Cullen",
-        "Jacob Black"
+        "Jacob Black",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "twilight",
@@ -8671,7 +9450,9 @@
       "speakers": [
         "Roland Emmerich",
         "Batman Begins",
-        "Boba Fett"
+        "Boba Fett",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "moonfall",
@@ -8692,7 +9473,9 @@
       "speakers": [
         "Robert Pattinson",
         "Bruce Wayne",
-        "Edward Cullen"
+        "Edward Cullen",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "twilight",
@@ -8715,7 +9498,9 @@
         "Tom Cruise",
         "Michael Morbius Delayed",
         "Idris Elba Bond",
-        "Joss Whedon"
+        "Joss Whedon",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -8734,7 +9519,9 @@
       "enclosure_length": "224994884",
       "itunes_duration": "3:54:54",
       "speakers": [
-        "Rob Collings"
+        "Rob Collings",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weekly",
@@ -8756,7 +9543,9 @@
         "Boba Fett",
         "Best Worst",
         "Betty White",
-        "Tom Holland"
+        "Tom Holland",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -8778,7 +9567,9 @@
         "Michael Keaton",
         "Zod Returns",
         "Movie Box",
-        "Spider-Man Secret Wars"
+        "Spider-Man Secret Wars",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "matrix"
@@ -8795,7 +9586,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16001958",
       "itunes_duration": "16:42",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "animatrix",
         "caravan",
@@ -8817,7 +9611,9 @@
         "Beetle Release",
         "Tom Holland",
         "Fred Astaire Dr",
-        "Strange Reshoots"
+        "Strange Reshoots",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -8836,7 +9632,9 @@
       "enclosure_length": "20514315",
       "itunes_duration": "21:25",
       "speakers": [
-        "Peter Parker"
+        "Peter Parker",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "japanese",
@@ -8859,7 +9657,9 @@
       "itunes_duration": "1:30:01",
       "speakers": [
         "Cowboy Bebop",
-        "Charlie Cox Daredevil Confirmed"
+        "Charlie Cox Daredevil Confirmed",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -8879,7 +9679,9 @@
       "enclosure_length": "19885896",
       "itunes_duration": "20:45",
       "speakers": [
-        "Peter Parker"
+        "Peter Parker",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -8903,7 +9705,9 @@
         "Tom Cruise",
         "Nicholas Cage",
         "Chris Stuckmann",
-        "Nicolas Cage Dracula Movie"
+        "Nicolas Cage Dracula Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movies",
@@ -8923,7 +9727,9 @@
       "itunes_duration": "23:45",
       "speakers": [
         "Matt Murdoch",
-        "John Rhys Davies"
+        "John Rhys Davies",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "defends",
@@ -8946,7 +9752,9 @@
       "speakers": [
         "Ridley Scott",
         "Book Cheat",
-        "Scott Yells"
+        "Scott Yells",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "venom"
@@ -8964,7 +9772,9 @@
       "enclosure_length": "18168690",
       "itunes_duration": "18:58",
       "speakers": [
-        "Tony Stark"
+        "Tony Stark",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "iron",
@@ -8988,7 +9798,8 @@
       "speakers": [
         "Nick Mason",
         "Kathleen Kennedy",
-        "Tom Holland Spider-Man"
+        "Tom Holland Spider-Man",
+        "James Clement"
       ],
       "topics": [
         "spider",
@@ -9012,7 +9823,9 @@
       "speakers": [
         "Wan Kenobi",
         "tonts Two",
-        "Prequel Ghostbusters"
+        "Prequel Ghostbusters",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "disney",
@@ -9031,7 +9844,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24055062",
       "itunes_duration": "25:06",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "ghostbuster",
         "caravan",
@@ -9056,7 +9872,9 @@
         "Taika Waititi",
         "Chris Nolan",
         "Matt Smith",
-        "Shang Chi Review"
+        "Shang Chi Review",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "eternals",
@@ -9078,7 +9896,9 @@
         "Bill Murray",
         "Dan Aykroyd",
         "Harold Ramis",
-        "Ernie Hudson"
+        "Ernie Hudson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ghostbusters",
@@ -9099,7 +9919,9 @@
       "itunes_duration": "1:38:16",
       "speakers": [
         "Tom Holland",
-        "Villain Brendan Fraser"
+        "Villain Brendan Fraser",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "halloween",
@@ -9122,7 +9944,9 @@
         "Bill Murray",
         "Dan Aykroyd",
         "Harold Ramis",
-        "Ernie Hudson"
+        "Ernie Hudson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ghostbusters",
@@ -9144,7 +9968,9 @@
       "speakers": [
         "Dune o'clock",
         "Denis Villeneuve sci-fi",
-        "Halyna Hutchins"
+        "Halyna Hutchins",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dune",
@@ -9164,7 +9990,9 @@
       "itunes_duration": "34:18",
       "speakers": [
         "Andrew Garfield",
-        "Peter Parker"
+        "Peter Parker",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "amazing",
@@ -9186,7 +10014,9 @@
       "itunes_duration": "1:39:25",
       "speakers": [
         "Adam Warlock",
-        "Michael Caine"
+        "Michael Caine",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fandome",
@@ -9207,7 +10037,9 @@
       "speakers": [
         "Andrew Garfield",
         "Emma Stone",
-        "Gwen Stacey"
+        "Gwen Stacey",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "amazing",
@@ -9230,7 +10062,9 @@
       "speakers": [
         "James Bond",
         "James Gunn Teases Greatest",
-        "Jake Gyllenhaal"
+        "Jake Gyllenhaal",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -9253,7 +10087,9 @@
       "speakers": [
         "Spectre Caravan",
         "Daniel Craig",
-        "James Bond"
+        "James Bond",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spectre",
@@ -9273,7 +10109,9 @@
       "enclosure_length": "125966256",
       "itunes_duration": "1:27:36",
       "speakers": [
-        "Boba Fett"
+        "Boba Fett",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "free",
@@ -9292,7 +10130,9 @@
       "enclosure_length": "27916065",
       "itunes_duration": "29:08",
       "speakers": [
-        "Daniel Craig James Bond"
+        "Daniel Craig James Bond",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "skyfall",
@@ -9312,7 +10152,9 @@
       "enclosure_length": "122868182",
       "itunes_duration": "1:25:27",
       "speakers": [
-        "Chris Pratt"
+        "Chris Pratt",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "chris",
@@ -9336,7 +10178,9 @@
       "itunes_duration": "24:22",
       "speakers": [
         "James Bond",
-        "Daniel Craig"
+        "Daniel Craig",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "quantum",
@@ -9359,7 +10203,9 @@
       "speakers": [
         "James Wan's Malignant",
         "Denis Villeneuve",
-        "Christopher Nolan Universal"
+        "Christopher Nolan Universal",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "malignant",
@@ -9380,7 +10226,9 @@
       "speakers": [
         "James Bond",
         "Daniel Craig",
-        "Vesper Lynd"
+        "Vesper Lynd",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "casino",
@@ -9402,7 +10250,9 @@
       "enclosure_length": "119444588",
       "itunes_duration": "1:23:04",
       "speakers": [
-        "Max Furiosa Delayed"
+        "Max Furiosa Delayed",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "matrix",
@@ -9422,7 +10272,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28211718",
       "itunes_duration": "29:27",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "matrix",
         "revolutions",
@@ -9444,7 +10297,9 @@
       "speakers": [
         "bigsandwich co",
         "Shang Chi",
-        "Shang Chi Breaks"
+        "Shang Chi Breaks",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "shang"
@@ -9461,7 +10316,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24924924",
       "itunes_duration": "26:01",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "matrix",
         "caravan",
@@ -9479,7 +10337,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147721008",
       "itunes_duration": "1:42:44",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "spider",
         "home",
@@ -9500,7 +10361,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25303560",
       "itunes_duration": "26:25",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "matrix",
         "caravan",
@@ -9521,7 +10385,9 @@
       "speakers": [
         "Michael Keaton",
         "John Boyega Star",
-        "Bruce Willis"
+        "Bruce Willis",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movies"
@@ -9542,7 +10408,9 @@
         "Tron Legacy",
         "Shang Chi Releasing Exclusively",
         "Leaves Powerpuff",
-        "Idris Elba"
+        "Idris Elba",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -9565,7 +10433,9 @@
       "itunes_duration": "1:31:25",
       "speakers": [
         "Chadwick Boseman",
-        "James Gunn"
+        "James Gunn",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "suicide",
@@ -9587,7 +10457,9 @@
         "Suicide Squad Caravan",
         "Harley Joker",
         "Richolas Flagg",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "suicide",
@@ -9609,7 +10481,9 @@
       "itunes_duration": "1:50:15",
       "speakers": [
         "Bob Odenkirk",
-        "David Ayer"
+        "David Ayer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "disney",
@@ -9633,7 +10507,9 @@
         "Channing Tatum",
         "Rock Johnson",
         "Bruce Willis",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "retaliation",
@@ -9653,7 +10529,9 @@
       "enclosure_length": "113894472",
       "itunes_duration": "1:19:12",
       "speakers": [
-        "Leslie Grace"
+        "Leslie Grace",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "history"
@@ -9672,7 +10550,9 @@
       "itunes_duration": "23:27",
       "speakers": [
         "Channing Tatum",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rise",
@@ -9694,7 +10574,9 @@
       "itunes_duration": "1:26:34",
       "speakers": [
         "Space Jam",
-        "Antonio Banderas Joins"
+        "Antonio Banderas Joins",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "space",
@@ -9713,7 +10595,9 @@
       "enclosure_length": "25291467",
       "itunes_duration": "26:24",
       "speakers": [
-        "Tony Stark"
+        "Tony Stark",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "iron",
@@ -9737,7 +10621,9 @@
         "Hugh Jack",
         "Zack Snyder",
         "Zack Sndyer",
-        "Comic Con"
+        "Comic Con",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "black",
@@ -9756,7 +10642,9 @@
       "enclosure_length": "26539965",
       "itunes_duration": "27:42",
       "speakers": [
-        "Justin Hammer"
+        "Justin Hammer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "iron",
@@ -9778,7 +10666,9 @@
       "speakers": [
         "Space Jam",
         "Dexter Killer",
-        "Optimus Pearlman"
+        "Optimus Pearlman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "tomorrow",
@@ -9803,7 +10693,9 @@
         "Iron Man",
         "Tony Stark",
         "Robert Downey Jr",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "iron",
@@ -9827,7 +10719,9 @@
         "James Gunn",
         "Harrison Ford",
         "Gamey Gamey Game",
-        "Vin Diesel"
+        "Vin Diesel",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fast",
@@ -9849,7 +10743,9 @@
       "itunes_duration": "19:19",
       "speakers": [
         "Jack Henley",
-        "Sung Kang"
+        "Sung Kang",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fast",
@@ -9874,7 +10770,9 @@
       "speakers": [
         "Dave Lee",
         "Gerry Butler",
-        "Dave Lee Down"
+        "Dave Lee Down",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -9899,7 +10797,9 @@
         "Paul Walker",
         "Vin Diesels",
         "Tyrese Gibson",
-        "James Remar"
+        "James Remar",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "furious",
@@ -9926,7 +10826,9 @@
         "Blue Beetle",
         "Hbo Max",
         "Boba Fett Finished",
-        "Soldier Boy First"
+        "Soldier Boy First",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "indiana",
@@ -9946,7 +10848,9 @@
       "itunes_duration": "22:21",
       "speakers": [
         "Paul Walker",
-        "Vin Diesel"
+        "Vin Diesel",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fast",
@@ -9967,7 +10871,9 @@
       "enclosure_length": "114440970",
       "itunes_duration": "1:19:35",
       "speakers": [
-        "Sweet Tooth"
+        "Sweet Tooth",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -9989,7 +10895,9 @@
       "itunes_duration": "23:39",
       "speakers": [
         "Jamie Kennedy",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mask",
@@ -10013,7 +10921,9 @@
         "Oscar Isaac",
         "Zack Snyder’s Star",
         "Jungle Cruise",
-        "Zack Snyder"
+        "Zack Snyder",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "quiet",
@@ -10034,7 +10944,9 @@
       "itunes_duration": "21:09",
       "speakers": [
         "Jim Carey",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mask",
@@ -10057,7 +10969,9 @@
         "Zack Snyder",
         "James Bond",
         "Henry Cavill",
-        "James Bond Talks"
+        "James Bond Talks",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "zack",
@@ -10080,7 +10994,9 @@
         "Looney Tunes",
         "Michael Jordan",
         "Bugs Bunny",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "space",
@@ -10102,7 +11018,9 @@
       "speakers": [
         "Emily Blunt",
         "Shang Chi",
-        "Jungle Cruise"
+        "Jungle Cruise",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "venom",
@@ -10126,7 +11044,9 @@
         "Shawnee Smith",
         "Donnie Whalberg",
         "Leigh Whannell",
-        "Space Jam"
+        "Space Jam",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -10145,7 +11065,9 @@
       "enclosure_length": "116205038",
       "itunes_duration": "1:20:49",
       "speakers": [
-        "Andrew Garfield"
+        "Andrew Garfield",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -10165,7 +11087,9 @@
       "enclosure_length": "15732993",
       "itunes_duration": "16:25",
       "speakers": [
-        "Donnie Whalberg"
+        "Donnie Whalberg",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -10186,7 +11110,9 @@
       "speakers": [
         "Citizen Kane",
         "Green Lantern",
-        "Charlie Clausen"
+        "Charlie Clausen",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "invincible",
@@ -10206,7 +11132,9 @@
       "itunes_duration": "17:52",
       "speakers": [
         "Leigh Whannell",
-        "James Wan"
+        "James Wan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -10232,7 +11160,9 @@
         "Russell Crowe",
         "Michael Keaton",
         "Russell Crowe Thor",
-        "Keaton Confirmed"
+        "Keaton Confirmed",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mortal",
@@ -10254,7 +11184,9 @@
         "Mortal Kombat",
         "Legacy Karavan",
         "Liu Kang",
-        "Johnny Cage"
+        "Johnny Cage",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kombat",
@@ -10275,7 +11207,9 @@
       "enclosure_length": "140582730",
       "itunes_duration": "1:37:46",
       "speakers": [
-        "Mark Millar"
+        "Mark Millar",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "franchise"
@@ -10294,7 +11228,9 @@
       "itunes_duration": "19:59",
       "speakers": [
         "Mortal Kombat",
-        "Mortal Kombat Annihilation"
+        "Mortal Kombat Annihilation",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kombat",
@@ -10316,7 +11252,8 @@
       "itunes_duration": "1:36:32",
       "speakers": [
         "Space Jam",
-        "Nick Mason"
+        "Nick Mason",
+        "James Clement"
       ],
       "topics": [
         "movies",
@@ -10339,7 +11276,9 @@
         "Liu Kang",
         "Sonya Blade",
         "Johnny Cage",
-        "Shang Tsung"
+        "Shang Tsung",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kombat",
@@ -10363,7 +11302,9 @@
       "speakers": [
         "Space Jam",
         "Russell Crowe",
-        "Obi Wan"
+        "Obi Wan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "godzilla",
@@ -10384,7 +11325,9 @@
       "speakers": [
         "Zack Snyder",
         "Clark Kent",
-        "Green Arrow"
+        "Green Arrow",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "smallville",
@@ -10407,7 +11350,9 @@
       "itunes_duration": "1:24:44",
       "speakers": [
         "Zack Snyder",
-        "Jessica Walter"
+        "Jessica Walter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "invincible",
@@ -10428,7 +11373,9 @@
       "itunes_duration": "19:55",
       "speakers": [
         "Peter Jackson",
-        "Jack Black"
+        "Jack Black",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "king",
@@ -10451,7 +11398,9 @@
       "speakers": [
         "Zack Snyder",
         "Yaphet Kotto",
-        "Hourman Movie"
+        "Hourman Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "zack",
@@ -10472,7 +11421,9 @@
       "enclosure_length": "19925928",
       "itunes_duration": "20:48",
       "speakers": [
-        "Nick Fury"
+        "Nick Fury",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "nick",
@@ -10498,7 +11449,9 @@
         "Zack Snyder",
         "James Gunn",
         "bang bang",
-        "Pepe Le Pew"
+        "Pepe Le Pew",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "justice",
@@ -10523,7 +11476,9 @@
       "itunes_duration": "20:12",
       "speakers": [
         "Richard Donner",
-        "com wikipediabrown"
+        "com wikipediabrown",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -10546,7 +11501,9 @@
       "itunes_duration": "1:30:12",
       "speakers": [
         "Space Jam",
-        "Lois Season"
+        "Lois Season",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wandavision"
@@ -10566,7 +11523,9 @@
       "speakers": [
         "Chris Reeve",
         "Gene Hackman",
-        "James Twitter"
+        "James Twitter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -10589,7 +11548,9 @@
       "itunes_duration": "1:20:09",
       "speakers": [
         "Tom Holland",
-        "Joe Lady"
+        "Joe Lady",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -10611,7 +11572,9 @@
         "Lex Luthor",
         "Christopher Reeve",
         "Richard Pryor",
-        "James Twitter"
+        "James Twitter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -10637,7 +11600,9 @@
         "Rian Johnson",
         "Mortal Kombat",
         "Zack Snyder",
-        "Ezra Bridger"
+        "Ezra Bridger",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "video",
@@ -10658,7 +11623,9 @@
       "itunes_duration": "23:41",
       "speakers": [
         "Richard Donner",
-        "Richard Lester"
+        "Richard Lester",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -10680,7 +11647,9 @@
       "speakers": [
         "Tom Holland",
         "Gina Carano",
-        "Snyder Cut"
+        "Snyder Cut",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weird",
@@ -10705,7 +11674,9 @@
         "Christopher Reeve",
         "Margot Kidder",
         "Marlon Brando",
-        "Gene Hackman"
+        "Gene Hackman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -10728,7 +11699,9 @@
       "speakers": [
         "Bruce Willis",
         "Armor Wars",
-        "Snyder Cut"
+        "Snyder Cut",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -10748,7 +11721,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27806811",
       "itunes_duration": "29:01",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "awful",
         "inhumans",
@@ -10771,7 +11747,9 @@
         "George Clooney",
         "Buck Rogers",
         "Teaser Invincible",
-        "Harry Potter"
+        "Harry Potter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated"
@@ -10788,7 +11766,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19625271",
       "itunes_duration": "20:29",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "inhumans",
         "caravan",
@@ -10807,7 +11788,9 @@
       "enclosure_length": "161286428",
       "itunes_duration": "1:52:10",
       "speakers": [
-        "Mortal Kombat"
+        "Mortal Kombat",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -10826,7 +11809,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62509888",
       "itunes_duration": "43:28",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "sandwich",
         "clickbait",
@@ -10844,7 +11830,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "279072084",
       "itunes_duration": "3:14:05",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "weekly",
         "planet"
@@ -10862,7 +11851,9 @@
       "enclosure_length": "211764564",
       "itunes_duration": "2:27:16",
       "speakers": [
-        "Mark Hamill"
+        "Mark Hamill",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -10882,7 +11873,9 @@
       "itunes_duration": "1:40:13",
       "speakers": [
         "Wonder Woman",
-        "Snyder Cut"
+        "Snyder Cut",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wonder",
@@ -10902,7 +11895,9 @@
       "itunes_duration": "19:15",
       "speakers": [
         "Diana Prince",
-        "WonderWoman Hosted"
+        "WonderWoman Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "failed",
@@ -10931,7 +11926,9 @@
         "Rip Jeremy Bulloch",
         "Lady Sif Returns",
         "Chris Pine Joins",
-        "Jeremy Bulloch"
+        "Jeremy Bulloch",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mandalorian",
@@ -10949,7 +11946,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18099051",
       "itunes_duration": "18:53",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "santa",
         "clause",
@@ -10976,7 +11976,9 @@
         "Max Backlash",
         "Patty Jenkins",
         "Ben Affleck",
-        "Disney Rude Stuff"
+        "Disney Rude Stuff",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "huge",
@@ -10999,7 +12001,9 @@
       "enclosure_length": "18587775",
       "itunes_duration": "19:24",
       "speakers": [
-        "Tim Allen"
+        "Tim Allen",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "santa",
@@ -11024,7 +12028,9 @@
         "Snyder Cut",
         "Max Slate",
         "David Prowse",
-        "Solid Snake"
+        "Solid Snake",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": []
     },
@@ -11040,7 +12046,9 @@
       "enclosure_length": "19948863",
       "itunes_duration": "20:49",
       "speakers": [
-        "Tim Allen"
+        "Tim Allen",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "santa",
@@ -11063,7 +12071,9 @@
       "speakers": [
         "Joss Whedon",
         "Mads Mikkelsen",
-        "Amazons Spin"
+        "Amazons Spin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dying",
@@ -11084,7 +12094,9 @@
       "speakers": [
         "Anakin Skywalker",
         "Darth Vader",
-        "James Twitter"
+        "James Twitter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -11111,7 +12123,9 @@
         "Chaos Walking",
         "Zack Snyder’s Justice",
         "James Bond Game Announcement",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wonder",
@@ -11135,7 +12149,9 @@
       "speakers": [
         "Batman Heart",
         "Harley Quinn",
-        "Batman Beyond"
+        "Batman Beyond",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -11158,7 +12174,9 @@
       "speakers": [
         "Wonder Woman",
         "Sylvester Stallone Suicide",
-        "Christopher Nolan"
+        "Christopher Nolan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "tenet"
@@ -11177,7 +12195,9 @@
       "itunes_duration": "26:23",
       "speakers": [
         "Aunty Donna",
-        "Donna Netflix"
+        "Donna Netflix",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "quibi",
@@ -11202,7 +12222,9 @@
       "speakers": [
         "Aunty Donna",
         "Johnny Depp",
-        "Boba Fett"
+        "Boba Fett",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "house",
@@ -11225,7 +12247,9 @@
       "speakers": [
         "Creed Netflix",
         "Spider-Man Starts",
-        "Shang Chi Wraps"
+        "Shang Chi Wraps",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "super",
@@ -11246,7 +12270,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16992333",
       "itunes_duration": "17:44",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "clone",
         "wars",
@@ -11271,7 +12298,9 @@
         "Zack Snyder",
         "John McClane",
         "Snyder Cut Re-shoots",
-        "Spooky Movie"
+        "Spooky Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "cursed",
@@ -11291,7 +12320,9 @@
       "enclosure_length": "22941672",
       "itunes_duration": "23:57",
       "speakers": [
-        "Karl Urban"
+        "Karl Urban",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dredd",
@@ -11313,7 +12344,8 @@
       "speakers": [
         "Andrew Garfield",
         "Jiu Jitsu",
-        "Nick Mason"
+        "Nick Mason",
+        "James Clement"
       ],
       "topics": [
         "ending"
@@ -11333,7 +12365,9 @@
       "speakers": [
         "Tom Cruise",
         "Holmes Shared",
-        "Freeze Solo Movie"
+        "Freeze Solo Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "boys",
@@ -11355,7 +12389,9 @@
         "Kobra Kai",
         "Jamie Fox",
         "James Bond Quiz",
-        "Jamie Foxx’s Spider-Man Return"
+        "Jamie Foxx’s Spider-Man Return",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "electro",
@@ -11377,7 +12413,9 @@
       "itunes_duration": "24:51",
       "speakers": [
         "Tom Cruises",
-        "Phillip Seymore Hoffman"
+        "Phillip Seymore Hoffman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -11398,7 +12436,9 @@
       "enclosure_length": "145236414",
       "itunes_duration": "1:41:00",
       "speakers": [
-        "Snyder Cut"
+        "Snyder Cut",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movies",
@@ -11420,7 +12460,9 @@
       "itunes_duration": "23:52",
       "speakers": [
         "Tom Cruise",
-        "John Woo"
+        "John Woo",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -11442,7 +12484,9 @@
       "itunes_duration": "1:43:46",
       "speakers": [
         "Diana Rigg",
-        "Max Robat Battinbat"
+        "Max Robat Battinbat",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movies",
@@ -11463,7 +12507,9 @@
       "speakers": [
         "Tom Cruise",
         "De Palma",
-        "Tom Cruises"
+        "Tom Cruises",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -11485,7 +12531,9 @@
       "itunes_duration": "1:40:22",
       "speakers": [
         "Wonder Woman",
-        "Daisy Ridley Kenobi"
+        "Daisy Ridley Kenobi",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "franchise"
@@ -11503,7 +12551,9 @@
       "enclosure_length": "15257196",
       "itunes_duration": "15:55",
       "speakers": [
-        "Disney Hosted"
+        "Disney Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mulan",
@@ -11524,7 +12574,9 @@
       "itunes_duration": "1:28:25",
       "speakers": [
         "Chadwick Boseman",
-        "John Boyega"
+        "John Boyega",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mulan",
@@ -11547,7 +12599,9 @@
         "Matthew Matthew McConaughey",
         "Anne Hathaway",
         "Jessica Chastain",
-        "Michael Caine"
+        "Michael Caine",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "interstellar",
@@ -11571,7 +12625,9 @@
         "Chadwick Boseman",
         "Ted Face",
         "Snyder Cut",
-        "Tom Cruise"
+        "Tom Cruise",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rest",
@@ -11593,7 +12649,9 @@
       "itunes_duration": "22:53",
       "speakers": [
         "Christopher Nolan",
-        "Leonardo DiCaprio"
+        "Leonardo DiCaprio",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "inception",
@@ -11620,7 +12678,8 @@
         "sG QVmYGddQ",
         "Automobiles Reboot Quibi Update",
         "Wonder Woman",
-        "Batfleck Returns"
+        "Batfleck Returns",
+        "James Clement"
       ],
       "topics": [
         "fandome"
@@ -11638,7 +12697,9 @@
       "enclosure_length": "21013464",
       "itunes_duration": "21:56",
       "speakers": [
-        "Christopher Nolan"
+        "Christopher Nolan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "prestige",
@@ -11660,7 +12721,8 @@
       "speakers": [
         "Nick Mason",
         "Jared Leto",
-        "Snyder Zombie Movie Recast"
+        "Snyder Zombie Movie Recast",
+        "James Clement"
       ],
       "topics": [
         "bill",
@@ -11682,7 +12744,9 @@
       "itunes_duration": "26:19",
       "speakers": [
         "Cade Yeager",
-        "Optimus Prime"
+        "Optimus Prime",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "transformer",
@@ -11709,7 +12773,8 @@
         "James Wan",
         "Knight Rider",
         "Seth Rogen",
-        "Kravitz Catwoman"
+        "Kravitz Catwoman",
+        "James Clement"
       ],
       "topics": [
         "fandom",
@@ -11732,7 +12797,9 @@
       "speakers": [
         "Michael Bay",
         "Mark Wahlberg Cade Yeager",
-        "Dinobots ya know"
+        "Dinobots ya know",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "extinction",
@@ -11755,7 +12822,9 @@
         "Comic Con",
         "Courtney Cox Returns",
         "Comic Bomb",
-        "Robat Battinbat"
+        "Robat Battinbat",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "umbrella",
@@ -11779,7 +12848,9 @@
       "speakers": [
         "Megan Fox",
         "Rosie Huntington-Whiteley",
-        "Leonard Nimoy"
+        "Leonard Nimoy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "transformer",
@@ -11803,7 +12874,9 @@
       "speakers": [
         "Comic Con",
         "Donald Glover Returning",
-        "Bbq Talk"
+        "Bbq Talk",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "comic",
@@ -11823,7 +12896,9 @@
       "itunes_duration": "25:45",
       "speakers": [
         "Michael Bay Transformers Universe",
-        "Megan Fox"
+        "Megan Fox",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "transformer",
@@ -11850,7 +12925,9 @@
         "Tom Holland",
         "Henry Cavill",
         "Comic Con",
-        "Atom Smasher"
+        "Atom Smasher",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -11872,7 +12949,9 @@
       "enclosure_length": "22623501",
       "itunes_duration": "23:37",
       "speakers": [
-        "Megan Fox"
+        "Megan Fox",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "transformer",
@@ -11896,7 +12975,9 @@
         "Leigh Whannell",
         "Javicia Leslie",
         "Junkie XL",
-        "Hans Zimmer"
+        "Hans Zimmer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "guard",
@@ -11915,7 +12996,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21131475",
       "itunes_duration": "22:03",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "pacific",
         "caravan",
@@ -11936,7 +13020,9 @@
       "speakers": [
         "Joss Whedon",
         "Christopher Nolan",
-        "Holmes News"
+        "Holmes News",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "justice",
@@ -11960,7 +13046,9 @@
       "speakers": [
         "Tom Cruise",
         "Emily Blunt",
-        "Bill Paxton"
+        "Bill Paxton",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "edge",
@@ -11984,7 +13072,9 @@
         "Michael Keaton",
         "Hahaaaaaaa Keaton",
         "Joel Schmacher",
-        "Jonah Jameson"
+        "Jonah Jameson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "michael",
@@ -12005,7 +13095,9 @@
       "itunes_duration": "19:36",
       "speakers": [
         "Christian Bale",
-        "Matthew McConaughey"
+        "Matthew McConaughey",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "reign",
@@ -12027,7 +13119,9 @@
       "itunes_duration": "1:34:35",
       "speakers": [
         "Keith Blocker",
-        "Ian Holm"
+        "Ian Holm",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -12048,7 +13142,9 @@
       "enclosure_length": "31799169",
       "itunes_duration": "33:12",
       "speakers": [
-        "Justice League"
+        "Justice League",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "justice",
@@ -12073,7 +13169,9 @@
         "Dracula Bleh",
         "Comic Con",
         "Miles Morales",
-        "Standalone Superman"
+        "Standalone Superman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": []
     },
@@ -12089,7 +13187,9 @@
       "enclosure_length": "40990683",
       "itunes_duration": "42:47",
       "speakers": [
-        "Batman Hosted"
+        "Batman Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -12111,7 +13211,9 @@
       "itunes_duration": "1:37:31",
       "speakers": [
         "Bane Solo",
-        "iDvPm Suggestible"
+        "iDvPm Suggestible",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "theories",
@@ -12136,7 +13238,9 @@
         "Amy Adams",
         "Lois Lane",
         "Russel Crowe",
-        "Kevin Costner"
+        "Kevin Costner",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "steel",
@@ -12163,7 +13267,9 @@
         "Ryan Gosling",
         "Henry Cavill",
         "Christopher Nolan",
-        "Scott Derrickson"
+        "Scott Derrickson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -12185,7 +13291,9 @@
       "speakers": [
         "Pierce Brosnan",
         "James Bond",
-        "Halle Berry"
+        "Halle Berry",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -12205,7 +13313,9 @@
       "itunes_duration": "1:12:05",
       "speakers": [
         "Snyder Cut",
-        "Timothy Olyphant"
+        "Timothy Olyphant",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "snyder"
@@ -12226,7 +13336,9 @@
         "James Bond",
         "Robbie Coltrane",
         "Elektra King",
-        "Denise Richards"
+        "Denise Richards",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "james",
@@ -12255,7 +13367,9 @@
         "Percy Jackson",
         "Rip Fred Willard",
         "Rip Lynn Shelton",
-        "Jerry Stiller"
+        "Jerry Stiller",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mutants",
@@ -12278,7 +13392,9 @@
       "speakers": [
         "James Bond",
         "Michelle Yeoh",
-        "Teri Hatcher"
+        "Teri Hatcher",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "james",
@@ -12307,7 +13423,9 @@
         "Sylvester Stallone",
         "Demolition Man",
         "Hayden Christensen",
-        "Vader Immortal"
+        "Vader Immortal",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "boba",
@@ -12328,7 +13446,9 @@
       "speakers": [
         "James Bond GoldenEye Caravan",
         "Daniel Craig",
-        "Scoob Hosted"
+        "Scoob Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "james",
@@ -12355,7 +13475,9 @@
         "John Wick",
         "Alan Moore",
         "Frank Miller Adaptations",
-        "Sam Lloyd"
+        "Sam Lloyd",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -12380,7 +13502,9 @@
         "Prinze Jr",
         "Linda Cardellini",
         "Neil Fanning",
-        "Scoob Hosted"
+        "Scoob Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "scooby",
@@ -12403,7 +13527,9 @@
       "itunes_duration": "1:33:41",
       "speakers": [
         "Chris Hemsworth",
-        "Chris Pine"
+        "Chris Pine",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "extraction",
@@ -12429,7 +13555,9 @@
         "Linda Cardellini",
         "Neil Fanning",
         "Rowan Atkinson",
-        "Scoob Hosted"
+        "Scoob Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "scooby",
@@ -12452,7 +13580,9 @@
         "Sam Raimi",
         "Joss Whedon",
         "John Krazinski",
-        "Comic Con"
+        "Comic Con",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superhero",
@@ -12472,7 +13602,9 @@
       "itunes_duration": "21:24",
       "speakers": [
         "Josh Trank",
-        "Mcu Hosted"
+        "Mcu Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "extended"
@@ -12492,7 +13624,9 @@
       "speakers": [
         "Ezra Miller",
         "Robin Hood",
-        "Michael Shanks"
+        "Michael Shanks",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movie",
@@ -12512,7 +13646,9 @@
       "itunes_duration": "33:37",
       "speakers": [
         "Michael Shanks",
-        "Rebooted Hosted"
+        "Rebooted Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movie",
@@ -12534,7 +13670,9 @@
       "speakers": [
         "Chris Evan",
         "Johnny Storm",
-        "Mcu Hosted"
+        "Mcu Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rise",
@@ -12557,7 +13695,9 @@
       "itunes_duration": "2:01:59",
       "speakers": [
         "Harry Potter",
-        "Adam Schlesinger"
+        "Adam Schlesinger",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "marvel",
@@ -12582,7 +13722,9 @@
         "Jessica Alba",
         "Michael Chiklis",
         "Julian McMahon",
-        "Mcu Hosted"
+        "Mcu Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -12602,7 +13744,9 @@
       "itunes_duration": "1:33:21",
       "speakers": [
         "Robin Help",
-        "Man Wonder"
+        "Man Wonder",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "history",
@@ -12622,7 +13766,9 @@
       "itunes_duration": "19:00",
       "speakers": [
         "Roger Corman",
-        "Mcu Hosted"
+        "Mcu Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fantastic",
@@ -12644,7 +13790,9 @@
       "itunes_duration": "1:47:32",
       "speakers": [
         "Wonder Woman",
-        "Rosario Dawson"
+        "Rosario Dawson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weird",
@@ -12669,7 +13817,9 @@
         "Michael Crichton",
         "Starring Yul Brynner",
         "James Brolin",
-        "Richard Benjamin"
+        "Richard Benjamin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "westworld",
@@ -12690,7 +13840,9 @@
       "itunes_duration": "1:35:25",
       "speakers": [
         "Shang Chi",
-        "Peter Pan"
+        "Peter Pan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bloodshot"
@@ -12707,7 +13859,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20905878",
       "itunes_duration": "21:49",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "trek",
@@ -12727,7 +13882,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114928953",
       "itunes_duration": "1:59:59",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "movies"
       ]
@@ -12745,7 +13903,9 @@
       "itunes_duration": "17:47",
       "speakers": [
         "Karl Urban",
-        "Rosamund Pike"
+        "Rosamund Pike",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "doom",
@@ -12766,7 +13926,9 @@
       "itunes_duration": "1:26:53",
       "speakers": [
         "Dark Universe",
-        "Bob Iger"
+        "Bob Iger",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": []
     },
@@ -12786,7 +13948,9 @@
         "Brendan Fraser",
         "Rick O'Connell",
         "Rachel Weisz",
-        "Jet Li"
+        "Jet Li",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mummy",
@@ -12810,7 +13974,9 @@
       "itunes_duration": "1:38:29",
       "speakers": [
         "Ben Affleck",
-        "Dan Didio"
+        "Dan Didio",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "controversial",
@@ -12832,7 +13998,9 @@
       "itunes_duration": "19:25",
       "speakers": [
         "Brendan Fraser",
-        "Rachel Weisz"
+        "Rachel Weisz",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mummy",
@@ -12853,7 +14021,9 @@
       "enclosure_length": "92646141",
       "itunes_duration": "1:36:43",
       "speakers": [
-        "Robat Battinbat"
+        "Robat Battinbat",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batsuit",
@@ -12873,7 +14043,9 @@
       "enclosure_length": "20179881",
       "itunes_duration": "21:04",
       "speakers": [
-        "Mario Bros"
+        "Mario Bros",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "super",
@@ -12896,7 +14068,9 @@
       "itunes_duration": "1:25:16",
       "speakers": [
         "Prey Bombs",
-        "Sam Raimi"
+        "Sam Raimi",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bird",
@@ -12918,7 +14092,9 @@
       "speakers": [
         "Garbage Birds",
         "Harley Quinn",
-        "James Twitter"
+        "James Twitter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "birds",
@@ -12940,7 +14116,9 @@
       "enclosure_length": "78929760",
       "itunes_duration": "1:22:24",
       "speakers": [
-        "Owen Wilson"
+        "Owen Wilson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "super",
@@ -12961,7 +14139,9 @@
       "speakers": [
         "Genndy Tartakovsky",
         "Anakin Skywalker",
-        "James Twitter"
+        "James Twitter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -12982,7 +14162,9 @@
       "enclosure_length": "85561728",
       "itunes_duration": "1:29:19",
       "speakers": [
-        "Terry Jones"
+        "Terry Jones",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movies"
@@ -13003,7 +14185,9 @@
         "Brendan Fraser",
         "Rachael Weisz",
         "John Hannah",
-        "Arnold Vosloo"
+        "Arnold Vosloo",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mummy",
@@ -13024,7 +14208,9 @@
       "itunes_duration": "2:10:22",
       "speakers": [
         "Scott Derrickson",
-        "Taika Waititi"
+        "Taika Waititi",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -13045,7 +14231,9 @@
       "speakers": [
         "Christopher Reeve Superman",
         "Superman Returns",
-        "Bryan Singer"
+        "Bryan Singer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -13065,7 +14253,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "245910027",
       "itunes_duration": "2:49:59",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "weekly",
         "planet"
@@ -13084,7 +14275,9 @@
       "itunes_duration": "2:20:37",
       "speakers": [
         "Daniel Radcliff",
-        "Moon Knight"
+        "Moon Knight",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -13102,7 +14295,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113838915",
       "itunes_duration": "1:58:51",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "rise",
@@ -13126,7 +14322,9 @@
         "Dark Rey",
         "Dark Luke Skywalker",
         "Boba Fett",
-        "Jedi Holocrons"
+        "Jedi Holocrons",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "return",
@@ -13147,7 +14345,9 @@
       "enclosure_length": "99482439",
       "itunes_duration": "1:43:51",
       "speakers": [
-        "ReleaseTheSnyderCut Release"
+        "ReleaseTheSnyderCut Release",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jumanji",
@@ -13168,7 +14368,9 @@
       "speakers": [
         "Jon Faveau sci-fi",
         "Iron Man",
-        "Robin Williams"
+        "Robin Williams",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "zathura",
@@ -13190,7 +14392,9 @@
       "enclosure_length": "82274517",
       "itunes_duration": "1:25:54",
       "speakers": [
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "black",
@@ -13211,7 +14415,9 @@
       "speakers": [
         "Michael Jackson",
         "VS Godzilla",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "irishman",
@@ -13230,7 +14436,9 @@
       "enclosure_length": "16000707",
       "itunes_duration": "16:42",
       "speakers": [
-        "Kylo Ren"
+        "Kylo Ren",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kylo",
@@ -13255,7 +14463,9 @@
       "speakers": [
         "Rian Johnson",
         "Kathleen Kennedy",
-        "Black Adam"
+        "Black Adam",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "knife",
@@ -13277,7 +14487,9 @@
         "Frozen Extended Caravan",
         "Kristen Bell",
         "Jonathan Groff",
-        "Josh Gad"
+        "Josh Gad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "frozen",
@@ -13301,7 +14513,9 @@
         "Jedi Fallen Order",
         "Death Stranding",
         "Mark Whalberg",
-        "Wars Jedi Fallen Order"
+        "Wars Jedi Fallen Order",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mandalorian",
@@ -13326,7 +14540,9 @@
         "Death Trap",
         "Mace Windu",
         "Anakin Skywalker",
-        "wikipediabrown Buy"
+        "wikipediabrown Buy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "boba",
@@ -13352,7 +14568,9 @@
       "speakers": [
         "Dark Fate",
         "James Dean",
-        "Carrie Fisher"
+        "Carrie Fisher",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "franchise",
@@ -13375,7 +14593,9 @@
         "Michael Bay",
         "Ben Affleck",
         "James Cameron",
-        "Midway Hosted"
+        "Midway Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "pearl",
@@ -13400,7 +14620,9 @@
       "speakers": [
         "Dark Fate",
         "DB Weis",
-        "David Benioff"
+        "David Benioff",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "terminator",
@@ -13424,7 +14646,9 @@
       "itunes_duration": "17:14",
       "speakers": [
         "Sarah Connor",
-        "wikipediabrown Buy"
+        "wikipediabrown Buy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "terminator",
@@ -13447,7 +14671,9 @@
       "enclosure_length": "118238682",
       "itunes_duration": "2:03:26",
       "speakers": [
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "horror",
@@ -13470,7 +14696,9 @@
         "Zack Snyder",
         "Damon Lindelof",
         "Alan Moore",
-        "wikipediabrown Buy"
+        "wikipediabrown Buy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "watchmen",
@@ -13495,7 +14723,9 @@
         "Kevin Feige",
         "Jared Leto",
         "Cowboy Bebop",
-        "Liv Tyler"
+        "Liv Tyler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "catwoman",
@@ -13519,7 +14749,9 @@
         "Emma Stone",
         "Jesse Eisenberg",
         "Abigail Breslin",
-        "wikipediabrown Buy"
+        "wikipediabrown Buy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "cancelled",
@@ -13543,7 +14775,9 @@
       "itunes_duration": "1:33:23",
       "speakers": [
         "Gemini Man",
-        "Jungle Cruise"
+        "Jungle Cruise",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "gemini",
@@ -13567,7 +14801,9 @@
         "Linda Hamilton",
         "Robert Patrick",
         "Edward Furlong",
-        "wikipediabrown Buy"
+        "wikipediabrown Buy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "forgotten",
@@ -13588,7 +14824,9 @@
       "enclosure_length": "85915344",
       "itunes_duration": "1:29:42",
       "speakers": [
-        "Tom Holland"
+        "Tom Holland",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "joker",
@@ -13607,7 +14845,9 @@
       "enclosure_length": "30635739",
       "itunes_duration": "31:59",
       "speakers": [
-        "Tim Burton"
+        "Tim Burton",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -13631,7 +14871,9 @@
         "Superman Returns",
         "Lex Luthor",
         "Jeffrey Wright",
-        "Jonah Hill"
+        "Jonah Hill",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "edgy",
@@ -13652,7 +14894,9 @@
       "enclosure_length": "17682885",
       "itunes_duration": "18:27",
       "speakers": [
-        "Dark Fate"
+        "Dark Fate",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "terminator",
@@ -13675,7 +14919,9 @@
       "speakers": [
         "Tom Welling",
         "Clark Kent",
-        "JJ Abrams"
+        "JJ Abrams",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rambo",
@@ -13696,7 +14942,9 @@
       "enclosure_length": "18181617",
       "itunes_duration": "18:58",
       "speakers": [
-        "Sylvester Stallone"
+        "Sylvester Stallone",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rambo",
@@ -13721,7 +14969,9 @@
         "Darth Vader TV",
         "Tony Stark",
         "Hailee Steinfeld",
-        "Kate Bishop"
+        "Kate Bishop",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -13745,7 +14995,9 @@
       "enclosure_length": "16614531",
       "itunes_duration": "17:20",
       "speakers": [
-        "Stephen King"
+        "Stephen King",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "chapter",
@@ -13768,7 +15020,9 @@
         "weeklyplanet Check",
         "Bad Boys",
         "Jo Jo Rabbit",
-        "Hayley Atwell"
+        "Hayley Atwell",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "chapter"
@@ -13787,7 +15041,9 @@
       "itunes_duration": "16:46",
       "speakers": [
         "wikipediabrown Buy",
-        "T-Shirts Merch"
+        "T-Shirts Merch",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "chapter",
@@ -13807,7 +15063,9 @@
       "enclosure_length": "112424034",
       "itunes_duration": "1:57:22",
       "speakers": [
-        "Dark Fate"
+        "Dark Fate",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "matrix",
@@ -13829,7 +15087,9 @@
       "speakers": [
         "Boba Fett",
         "Dangerous Bounty Caravan",
-        "Jango Fett Bloodlines"
+        "Jango Fett Bloodlines",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "story",
@@ -13857,7 +15117,9 @@
         "Dave Warnake Pie Guy",
         "Miscellaneous Whatevs Marvel",
         "Wan Kenobi TV",
-        "Buy Spider-Man"
+        "Buy Spider-Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -13882,7 +15144,9 @@
         "Bruce Wayne",
         "Kevin Conroy",
         "Mark Hamill",
-        "Buy Return"
+        "Buy Return",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -13906,7 +15170,9 @@
       "speakers": [
         "Peter Fonda",
         "Richard Williams",
-        "Johnson Star"
+        "Johnson Star",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "series",
@@ -13926,7 +15192,9 @@
       "enclosure_length": "20312904",
       "itunes_duration": "21:12",
       "speakers": [
-        "Buy Blade"
+        "Buy Blade",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "blade",
@@ -13945,7 +15213,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31498512",
       "itunes_duration": "32:53",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "weekly",
         "planet",
@@ -13966,7 +15237,9 @@
       "speakers": [
         "Quentin Tarantino",
         "Kevin Conroy",
-        "Will Deadpool"
+        "Will Deadpool",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "reservoir",
@@ -13992,7 +15265,9 @@
         "Mos Def",
         "Seth Green",
         "Edward Norton",
-        "James Twitter"
+        "James Twitter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "caravan",
@@ -14013,7 +15288,9 @@
       "speakers": [
         "Ben Affleck",
         "Andy Serkis",
-        "Ben Affleck’s Batman"
+        "Ben Affleck’s Batman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "boys",
@@ -14033,7 +15310,9 @@
       "enclosure_length": "19168239",
       "itunes_duration": "20:00",
       "speakers": [
-        "Abby Arcane"
+        "Abby Arcane",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "swamp",
@@ -14057,7 +15336,9 @@
         "Blade Runner",
         "Mad Max",
         "Kill Bill Vol",
-        "Bill Vol"
+        "Bill Vol",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lion",
@@ -14081,7 +15362,9 @@
         "Shang Chi",
         "Dark Fate",
         "Brandon Routh",
-        "Doom Patrol"
+        "Doom Patrol",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "comic",
@@ -14100,7 +15383,9 @@
       "enclosure_length": "15242601",
       "itunes_duration": "15:54",
       "speakers": [
-        "Hans Zimmer"
+        "Hans Zimmer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lion",
@@ -14122,7 +15407,9 @@
       "itunes_duration": "1:32:45",
       "speakers": [
         "weeklyplanet Stranger",
-        "Shang Chi"
+        "Shang Chi",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "stranger",
@@ -14141,7 +15428,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30024417",
       "itunes_duration": "31:20",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "spider",
         "caravan",
@@ -14159,7 +15449,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "6702441",
       "itunes_duration": "6:59",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "wolverine",
         "lost",
@@ -14178,7 +15471,9 @@
       "enclosure_length": "91448934",
       "itunes_duration": "1:35:28",
       "speakers": [
-        "Little Mermaid"
+        "Little Mermaid",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -14198,7 +15493,9 @@
       "itunes_duration": "30:11",
       "speakers": [
         "Peter Parker",
-        "Tobey Maguire"
+        "Tobey Maguire",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -14219,7 +15516,9 @@
       "itunes_duration": "1:33:15",
       "speakers": [
         "Flash Gordon",
-        "Paul Rudd"
+        "Paul Rudd",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weird",
@@ -14238,7 +15537,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24851115",
       "itunes_duration": "25:56",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "spider",
         "caravan",
@@ -14258,7 +15560,9 @@
       "itunes_duration": "1:21:10",
       "speakers": [
         "Toy Story",
-        "Buy Toy"
+        "Buy Toy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "story"
@@ -14276,7 +15580,9 @@
       "enclosure_length": "95195679",
       "itunes_duration": "1:39:23",
       "speakers": [
-        "Dark Phoenix"
+        "Dark Phoenix",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "international",
@@ -14296,7 +15602,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36680154",
       "itunes_duration": "38:17",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "weekly",
         "planet",
@@ -14314,7 +15623,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14029131",
       "itunes_duration": "14:38",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "black",
         "animated",
@@ -14338,7 +15650,9 @@
         "Wars Jedi Fallen Order",
         "Django Zorro",
         "Prey Wonder Woman Poster",
-        "Jedi Fallen Order"
+        "Jedi Fallen Order",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dark",
@@ -14357,7 +15671,9 @@
       "enclosure_length": "23617629",
       "itunes_duration": "24:39",
       "speakers": [
-        "Bryan Singer"
+        "Bryan Singer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "stand",
@@ -14379,7 +15695,9 @@
       "speakers": [
         "Robat Battinbat",
         "VS Spider-Man",
-        "Tom King"
+        "Tom King",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "godzilla",
@@ -14398,7 +15716,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23093043",
       "itunes_duration": "24:06",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "godzilla",
         "caravan",
@@ -14419,7 +15740,9 @@
       "speakers": [
         "Dark Fate",
         "John Wick",
-        "Buy Aladdin"
+        "Buy Aladdin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "aladdin",
@@ -14440,7 +15763,9 @@
       "enclosure_length": "18654078",
       "itunes_duration": "19:28",
       "speakers": [
-        "Hates Aladdin"
+        "Hates Aladdin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mason",
@@ -14464,7 +15789,9 @@
       "speakers": [
         "John Wick",
         "Mortal Kombat",
-        "John Wick Chapter"
+        "John Wick Chapter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -14487,7 +15814,9 @@
         "Suicide Squad",
         "Titanic Spider-Man Far",
         "Michael Rooker",
-        "Detective Pikachu"
+        "Detective Pikachu",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "detective",
@@ -14505,7 +15834,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19679064",
       "itunes_duration": "20:32",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "pokemon",
         "worst",
@@ -14527,7 +15859,9 @@
       "itunes_duration": "1:34:54",
       "speakers": [
         "John Singleton",
-        "Peter Mayhew"
+        "Peter Mayhew",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "future"
@@ -14546,7 +15880,9 @@
       "itunes_duration": "17:32",
       "speakers": [
         "Most Embarrassing Moment",
-        "Avengers Infinity War"
+        "Avengers Infinity War",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thano",
@@ -14566,7 +15902,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95990064",
       "itunes_duration": "1:40:13",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "avengers",
         "endgame"
@@ -14584,7 +15923,9 @@
       "enclosure_length": "71641851",
       "itunes_duration": "1:14:47",
       "speakers": [
-        "Mar Whalbergs"
+        "Mar Whalbergs",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avengers",
@@ -14605,7 +15946,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20623986",
       "itunes_duration": "21:31",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "clone",
@@ -14630,7 +15974,9 @@
         "Bruce Wayne",
         "Tomb Raider",
         "New Bruce Wayne",
-        "Fallen Order"
+        "Fallen Order",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -14654,7 +16000,9 @@
       "speakers": [
         "Wil Anderson",
         "Dark Fate",
-        "Taika Waititi"
+        "Taika Waititi",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "shazam"
@@ -14673,7 +16021,9 @@
       "itunes_duration": "21:02",
       "speakers": [
         "Hey Look",
-        "Captain Marvel"
+        "Captain Marvel",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "shazam",
@@ -14696,7 +16046,9 @@
         "Jordan Peele",
         "Jared Leto’s Joker",
         "Mark Hamill",
-        "Ben Affleck"
+        "Ben Affleck",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -14716,7 +16068,9 @@
       "enclosure_length": "18224151",
       "itunes_duration": "19:01",
       "speakers": [
-        "ResDolph Twitter"
+        "ResDolph Twitter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mason",
@@ -14740,7 +16094,9 @@
       "speakers": [
         "Wil Anderson",
         "John Wick",
-        "Taika Waititi"
+        "Taika Waititi",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hellboy",
@@ -14761,7 +16117,9 @@
       "speakers": [
         "James Gunn Returns Avengers",
         "James Gunn",
-        "Shang Chi"
+        "Shang Chi",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "james",
@@ -14783,7 +16141,9 @@
       "enclosure_length": "17192076",
       "itunes_duration": "17:57",
       "speakers": [
-        "Marvel Amazon"
+        "Marvel Amazon",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "skrull",
@@ -14805,7 +16165,9 @@
       "itunes_duration": "1:49:03",
       "speakers": [
         "Luke Perry",
-        "Luke Perry Shazam"
+        "Luke Perry Shazam",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "captain",
@@ -14823,7 +16185,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15035769",
       "itunes_duration": "15:41",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "captain",
         "marvel",
@@ -14848,7 +16213,9 @@
         "Riley Jones Blog",
         "Dark Phoenix",
         "Will Smith",
-        "X-Men Ghost School"
+        "X-Men Ghost School",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dark",
@@ -14870,7 +16237,9 @@
       "speakers": [
         "Charlie Clausen",
         "Space Jam",
-        "Hulk Hogan"
+        "Hulk Hogan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "umbrella",
@@ -14890,7 +16259,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23489819",
       "itunes_duration": "24:25",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "dragonball",
         "sigh",
@@ -14918,7 +16290,9 @@
         "Ben Affleck Batman",
         "Harley Quinn",
         "Dune June",
-        "Buy Alita"
+        "Buy Alita",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "alita",
@@ -14937,7 +16311,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22687754",
       "itunes_duration": "23:35",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "superfast",
         "super",
@@ -14961,7 +16338,9 @@
         "Manga Adaptations",
         "Danai Gurira",
         "Kingsman Prequel",
-        "Avengers Endgame"
+        "Avengers Endgame",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -14983,7 +16362,9 @@
       "speakers": [
         "Bud Light",
         "Ben Affleck",
-        "Snyder Zombie"
+        "Snyder Zombie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batfleck",
@@ -15004,7 +16385,9 @@
       "itunes_duration": "19:07",
       "speakers": [
         "Peter Parker",
-        "Buy Spider-Man"
+        "Buy Spider-Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -15027,7 +16410,9 @@
       "speakers": [
         "Christopher Nolan",
         "Bizarre Spider-Man Villains",
-        "Oscar Nom"
+        "Oscar Nom",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -15048,7 +16433,9 @@
       "speakers": [
         "Plus Spider-Man Far",
         "Kevin Hart Monopoly Ghostbusters",
-        "Buy Glass"
+        "Buy Glass",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "glas",
@@ -15067,7 +16454,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "132550381",
       "itunes_duration": "2:18:01",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "weekly",
         "planet"
@@ -15086,7 +16476,9 @@
       "itunes_duration": "20:46",
       "speakers": [
         "Dumbest Enemy Caravan",
-        "Buy Aquaman"
+        "Buy Aquaman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "aquaman",
@@ -15111,7 +16503,9 @@
         "Jordan Peele",
         "Jude Law",
         "Jude Law’s Captain Marvel",
-        "Bird Box"
+        "Bird Box",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bestworst"
@@ -15130,7 +16524,9 @@
       "itunes_duration": "19:47",
       "speakers": [
         "James Cameron",
-        "tkL AE"
+        "tkL AE",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "james",
@@ -15155,7 +16551,9 @@
         "Will Smith’s Genie",
         "Aquaman Easter",
         "Will Smith",
-        "Buy Aquaman"
+        "Buy Aquaman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "aquaman",
@@ -15177,7 +16575,9 @@
         "Usb Tapes",
         "Henry Cavill",
         "Buy Spider",
-        "Tuqaz Hosted"
+        "Tuqaz Hosted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -15200,7 +16600,9 @@
         "Tom Cruise",
         "Shang Chi",
         "Usb X-Mas Tapes",
-        "Shang Chi Master"
+        "Shang Chi Master",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avenger",
@@ -15219,7 +16621,9 @@
       "enclosure_length": "22222573",
       "itunes_duration": "23:05",
       "speakers": [
-        "Buy Spider-Man"
+        "Buy Spider-Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -15243,7 +16647,9 @@
       "speakers": [
         "Cowboy Bebop",
         "Nick Nolte",
-        "Blade Runner"
+        "Blade Runner",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "daredevil",
@@ -15264,7 +16670,9 @@
       "itunes_duration": "27:59",
       "speakers": [
         "Robin Hood Movie Caravan",
-        "Robin Hood"
+        "Robin Hood",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "robin",
@@ -15288,7 +16696,9 @@
       "speakers": [
         "Robin Hood Check",
         "Robin Hood",
-        "Lego Movie"
+        "Lego Movie",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lion",
@@ -15315,7 +16725,9 @@
         "Detective Pikachu",
         "John Cryer",
         "Chris Pratt",
-        "Toy Story"
+        "Toy Story",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "beasts"
@@ -15334,7 +16746,9 @@
       "itunes_duration": "1:31:19",
       "speakers": [
         "Breaking Bad",
-        "Watchem Spin-off"
+        "Watchem Spin-off",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rocky",
@@ -15353,7 +16767,9 @@
       "enclosure_length": "13399238",
       "itunes_duration": "13:54",
       "speakers": [
-        "Harry Potter"
+        "Harry Potter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "voldemort",
@@ -15375,7 +16791,9 @@
       "enclosure_length": "106434835",
       "itunes_duration": "1:50:49",
       "speakers": [
-        "Flash Gordon"
+        "Flash Gordon",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "state",
@@ -15399,7 +16817,9 @@
         "Wonder Woman",
         "Tim Burton",
         "George Miller",
-        "Spike Lee"
+        "Spike Lee",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "halloween"
@@ -15417,7 +16837,9 @@
       "enclosure_length": "92187000",
       "itunes_duration": "1:35:58",
       "speakers": [
-        "Luke Cage"
+        "Luke Cage",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -15438,7 +16860,9 @@
       "itunes_duration": "1:44:23",
       "speakers": [
         "Iron Fist",
-        "James Gunn"
+        "James Gunn",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "halloween",
@@ -15458,7 +16882,9 @@
       "itunes_duration": "20:44",
       "speakers": [
         "Eddie Brock",
-        "Ghost Rider"
+        "Ghost Rider",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dumbest",
@@ -15483,7 +16909,9 @@
       "speakers": [
         "Chris Evans",
         "Robbie Barbie",
-        "America Avengers"
+        "America Avengers",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "venom"
@@ -15501,7 +16929,9 @@
       "enclosure_length": "114864641",
       "itunes_duration": "1:59:36",
       "speakers": [
-        "Kathleen Kennedy"
+        "Kathleen Kennedy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superhero",
@@ -15522,7 +16952,9 @@
       "speakers": [
         "Wonder Woman",
         "Mary Poppins",
-        "James Gunn X-Men Marvel"
+        "James Gunn X-Men Marvel",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "joker",
@@ -15545,7 +16977,9 @@
         "Heny Cavill",
         "Kit Harington",
         "Kevin VS",
-        "Gamey Game Game"
+        "Gamey Game Game",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "predator"
@@ -15565,7 +16999,9 @@
       "speakers": [
         "Henry Cavill",
         "Burt Reynolds",
-        "Buy Spider-Man PS Game"
+        "Buy Spider-Man PS Game",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "captain",
@@ -15586,7 +17022,9 @@
       "itunes_duration": "17:57",
       "speakers": [
         "VS Predator Caravan",
-        "Buy Batman"
+        "Buy Batman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -15610,7 +17048,9 @@
         "Wesley Snipes",
         "Alec Baldwin",
         "Thomas Wayne",
-        "Robin Wright"
+        "Robin Wright",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "predator",
@@ -15636,7 +17076,9 @@
         "Kelly Marie Tran",
         "Dominic Monaghan",
         "Marie Tran",
-        "Danny Boyle"
+        "Danny Boyle",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "history",
@@ -15661,7 +17103,9 @@
         "Hal Jordan",
         "Robocop Returns",
         "James Gunn",
-        "Peter Weller"
+        "Peter Weller",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -15684,7 +17128,9 @@
         "Jason Statham Movies",
         "Jason Statham",
         "Family Guy",
-        "James Gunn"
+        "James Gunn",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -15706,7 +17152,9 @@
       "enclosure_length": "21187479",
       "itunes_duration": "22:01",
       "speakers": [
-        "Forgotten Aquaman Caravan"
+        "Forgotten Aquaman Caravan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "forgotten",
@@ -15729,7 +17177,9 @@
       "speakers": [
         "Sarah Connor",
         "Harry Potter",
-        "James Gunn"
+        "James Gunn",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "princess",
@@ -15751,7 +17201,9 @@
       "enclosure_length": "82693089",
       "itunes_duration": "1:26:05",
       "speakers": [
-        "Impossible Fallout"
+        "Impossible Fallout",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -15776,7 +17228,9 @@
         "James Gunn",
         "Rip Jon Schnepp",
         "James Gunn Robin Hood",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "comic",
@@ -15796,7 +17250,9 @@
       "itunes_duration": "1:22:43",
       "speakers": [
         "Joss Whedon",
-        "Comic Con"
+        "Comic Con",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "skyscraper",
@@ -15816,7 +17272,9 @@
       "enclosure_length": "14072505",
       "itunes_duration": "19:28",
       "speakers": [
-        "Video Version"
+        "Video Version",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -15837,7 +17295,9 @@
       "itunes_duration": "1:41:46",
       "speakers": [
         "Sam Jackson",
-        "Buy Ant-Man"
+        "Buy Ant-Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wasp"
@@ -15855,7 +17315,9 @@
       "enclosure_length": "11795048",
       "itunes_duration": "16:18",
       "speakers": [
-        "Buy Ant-Man"
+        "Buy Ant-Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dumbest",
@@ -15877,7 +17339,9 @@
       "itunes_duration": "2:02:07",
       "speakers": [
         "Obi Wan",
-        "Jared Leto"
+        "Jared Leto",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "unresolved",
@@ -15897,7 +17361,9 @@
       "enclosure_length": "31620992",
       "itunes_duration": "32:53",
       "speakers": [
-        "Comedy Podcasting"
+        "Comedy Podcasting",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "presents",
@@ -15917,7 +17383,9 @@
       "itunes_duration": "17:11",
       "speakers": [
         "Ever Created",
-        "Avengers Infinity War"
+        "Avengers Infinity War",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thing",
@@ -15937,7 +17405,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100596794",
       "itunes_duration": "1:44:44",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "jurassic",
         "world",
@@ -15956,7 +17427,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19969572",
       "itunes_duration": "20:45",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "presents",
         "thing"
@@ -15978,7 +17452,9 @@
         "Wonder Woman",
         "Geoff Johns",
         "George Lucas",
-        "Paul Hogan"
+        "Paul Hogan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "incredibles",
@@ -15998,7 +17474,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47022374",
       "itunes_duration": "48:55",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "presents"
       ]
@@ -16016,7 +17495,9 @@
       "itunes_duration": "1:26:31",
       "speakers": [
         "Leto Joker",
-        "Star Wars"
+        "Star Wars",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "bumblebee",
@@ -16036,7 +17517,9 @@
       "enclosure_length": "33392279",
       "itunes_duration": "34:44",
       "speakers": [
-        "Sam Loy"
+        "Sam Loy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "presents",
@@ -16056,7 +17539,9 @@
       "enclosure_length": "19539942",
       "itunes_duration": "27:04",
       "speakers": [
-        "Video Edition"
+        "Video Edition",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -16081,7 +17566,9 @@
         "Wonder Woman",
         "Peter Pan",
         "Zack Snyder",
-        "Solo Deleted Scenes"
+        "Solo Deleted Scenes",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -16101,7 +17588,9 @@
       "enclosure_length": "39929985",
       "itunes_duration": "41:32",
       "speakers": [
-        "Planet Broadcasting"
+        "Planet Broadcasting",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "presents"
@@ -16119,7 +17608,9 @@
       "enclosure_length": "20274708",
       "itunes_duration": "21:04",
       "speakers": [
-        "Wars Saga"
+        "Wars Saga",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "solo",
@@ -16145,7 +17636,9 @@
         "Boba Fett",
         "Solo Easter",
         "Danny Boyle",
-        "Matt Groening"
+        "Matt Groening",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "solo",
@@ -16166,7 +17659,9 @@
       "enclosure_length": "87356643",
       "itunes_duration": "1:30:56",
       "speakers": [
-        "Willow Deadpool"
+        "Willow Deadpool",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "deadpool"
@@ -16185,7 +17680,9 @@
       "itunes_duration": "1:58:23",
       "speakers": [
         "Star Wars TV",
-        "Peter Jackson"
+        "Peter Jackson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "crazy",
@@ -16206,7 +17703,9 @@
       "speakers": [
         "Cobar Kai",
         "Robin Hood",
-        "Robin Hood Solo"
+        "Robin Hood Solo",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "action",
@@ -16226,7 +17725,9 @@
       "itunes_duration": "18:21",
       "speakers": [
         "Ben Chinapen",
-        "Erik Chen"
+        "Erik Chen",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avenger",
@@ -16246,7 +17747,9 @@
       "enclosure_length": "119456349",
       "itunes_duration": "2:04:23",
       "speakers": [
-        "Nick Fury"
+        "Nick Fury",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avengers",
@@ -16268,7 +17771,9 @@
         "James Cameron",
         "Allison Mack",
         "Fallen Kingdom",
-        "Spielberg Blackhawks"
+        "Spielberg Blackhawks",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "films"
@@ -16287,7 +17792,9 @@
       "itunes_duration": "1:30:41",
       "speakers": [
         "Stan Lee",
-        "TJ Miller"
+        "TJ Miller",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rampage",
@@ -16307,7 +17814,9 @@
       "itunes_duration": "1:21:44",
       "speakers": [
         "Johnny English",
-        "Zack Snyder"
+        "Zack Snyder",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "quiet",
@@ -16330,7 +17839,9 @@
         "Ready Player",
         "Wonder Woman",
         "Uwe Boll",
-        "Rom Space Knight"
+        "Rom Space Knight",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ready",
@@ -16348,7 +17859,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13138461",
       "itunes_duration": "13:38",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "player",
         "caravan",
@@ -16371,7 +17885,9 @@
         "Kobra Kai",
         "No Venom",
         "Tessa Thompson",
-        "Chris Evans"
+        "Chris Evans",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "pacific",
@@ -16392,7 +17908,9 @@
       "speakers": [
         "Tomb Raider",
         "Nicholas Cage",
-        "Danny Boyle"
+        "Danny Boyle",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avengers",
@@ -16420,7 +17938,9 @@
         "Mary Poppins",
         "Tom Cruise",
         "Vin Diesel",
-        "Michael Bay"
+        "Michael Bay",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "comic",
@@ -16442,7 +17962,9 @@
       "speakers": [
         "Steele Wars Mendo",
         "Mark Hamill",
-        "Marvel Avengers"
+        "Marvel Avengers",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "films",
@@ -16463,7 +17985,9 @@
       "speakers": [
         "Jessica Jones Season",
         "Joss Whedon",
-        "Wynter Dark"
+        "Wynter Dark",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "joss",
@@ -16484,7 +18008,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94645021",
       "itunes_duration": "1:38:32",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "black",
         "panther"
@@ -16503,7 +18030,9 @@
       "itunes_duration": "17:12",
       "speakers": [
         "Crap Black Panther Origin",
-        "Black Panther"
+        "Black Panther",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "crap",
@@ -16527,7 +18056,9 @@
       "itunes_duration": "1:30:59",
       "speakers": [
         "Michael Bay",
-        "David Goyer"
+        "David Goyer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "cloverfield",
@@ -16547,7 +18078,9 @@
       "enclosure_length": "11702585",
       "itunes_duration": "16:11",
       "speakers": [
-        "Boba Fett"
+        "Boba Fett",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "solo",
@@ -16569,7 +18102,9 @@
       "enclosure_length": "89639552",
       "itunes_duration": "1:33:19",
       "speakers": [
-        "Tom Cruise"
+        "Tom Cruise",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "super",
@@ -16589,7 +18124,9 @@
       "itunes_duration": "1:33:30",
       "speakers": [
         "Duke Nukem",
-        "Henry Cavill"
+        "Henry Cavill",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -16608,7 +18145,9 @@
       "enclosure_length": "11875820",
       "itunes_duration": "12:19",
       "speakers": [
-        "Tomb Raider"
+        "Tomb Raider",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "tomb",
@@ -16633,7 +18172,9 @@
         "Crocodile Dundee",
         "Ben Affleck",
         "Tomb Raider",
-        "Tom Holland"
+        "Tom Holland",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "news"
@@ -16650,7 +18191,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "159410319",
       "itunes_duration": "2:46:00",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "weekly",
         "planet"
@@ -16668,7 +18212,9 @@
       "enclosure_length": "115641213",
       "itunes_duration": "2:00:24",
       "speakers": [
-        "George Lucas"
+        "George Lucas",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -16689,7 +18235,9 @@
       "speakers": [
         "Luke Skywalker Died",
         "Luke Skywalker",
-        "Wars Saga"
+        "Wars Saga",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "luke",
@@ -16709,7 +18257,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107954952",
       "itunes_duration": "1:52:24",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "jedi"
@@ -16729,7 +18280,9 @@
       "speakers": [
         "Battle Angel",
         "Robin Hood",
-        "Schrodinger’s Bat Aquaman"
+        "Schrodinger’s Bat Aquaman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jurassic",
@@ -16751,7 +18304,9 @@
       "itunes_duration": "1:25:26",
       "speakers": [
         "Zack Snyder",
-        "John Cena"
+        "John Cena",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avengers",
@@ -16772,7 +18327,9 @@
       "speakers": [
         "Lizzy Caplan",
         "Fallen Kingdom",
-        "Filthy Casuals"
+        "Filthy Casuals",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superhero",
@@ -16792,7 +18349,9 @@
       "itunes_duration": "1:50:18",
       "speakers": [
         "Gamey Game Game",
-        "Multiple Man"
+        "Multiple Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "justice",
@@ -16813,7 +18372,9 @@
       "speakers": [
         "Dark Universe",
         "Black Adam",
-        "Jedi Fallen Order"
+        "Jedi Fallen Order",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -16838,7 +18399,9 @@
       "speakers": [
         "Henry Cavill",
         "Ragnarok Easter",
-        "Rocksteady Superman"
+        "Rocksteady Superman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thor",
@@ -16857,7 +18420,9 @@
       "enclosure_length": "84018461",
       "itunes_duration": "1:27:28",
       "speakers": [
-        "Justin Lin"
+        "Justin Lin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "stranger",
@@ -16879,7 +18444,9 @@
       "enclosure_length": "84989796",
       "itunes_duration": "1:28:28",
       "speakers": [
-        "Sweet Tees"
+        "Sweet Tees",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "geostorm",
@@ -16900,7 +18467,9 @@
       "itunes_duration": "1:47:56",
       "speakers": [
         "Jared Leto",
-        "Luke’s Green Lightsaber"
+        "Luke’s Green Lightsaber",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jedi",
@@ -16921,7 +18490,9 @@
       "itunes_duration": "1:40:33",
       "speakers": [
         "Blade Runner",
-        "Danny Elfman"
+        "Danny Elfman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "blade",
@@ -16945,7 +18516,9 @@
       "speakers": [
         "Steele Saunders",
         "Blade Runner",
-        "Denis Villeneuve"
+        "Denis Villeneuve",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "blade",
@@ -16974,7 +18547,9 @@
         "Kingsman Will",
         "James Bond",
         "Jedi Council",
-        "Tomb Raider"
+        "Tomb Raider",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kingsman",
@@ -16993,7 +18568,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80582397",
       "itunes_duration": "1:23:53",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "insane",
         "movie",
@@ -17013,7 +18591,9 @@
       "itunes_duration": "1:46:37",
       "speakers": [
         "gd Check",
-        "alasdairtb Check"
+        "alasdairtb Check",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -17036,7 +18616,9 @@
       "itunes_duration": "1:26:45",
       "speakers": [
         "Luke Cage",
-        "Melbourne Show"
+        "Melbourne Show",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "inhumans"
@@ -17055,7 +18637,9 @@
       "itunes_duration": "1:51:56",
       "speakers": [
         "James Cameron",
-        "James Cameron Hates"
+        "James Cameron Hates",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "biggest",
@@ -17076,7 +18660,9 @@
       "itunes_duration": "1:15:41",
       "speakers": [
         "James Bond",
-        "Jessica Jones"
+        "Jessica Jones",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "defenders",
@@ -17096,7 +18682,9 @@
       "itunes_duration": "1:49:12",
       "speakers": [
         "Talking Venom",
-        "Karl Urban"
+        "Karl Urban",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "blatant",
@@ -17120,7 +18708,9 @@
         "Charlie Clausen",
         "Wolf Creek",
         "Karate Kid",
-        "Cake Boss Ralph Make"
+        "Cake Boss Ralph Make",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -17143,7 +18733,9 @@
       "enclosure_length": "103850666",
       "itunes_duration": "1:48:07",
       "speakers": [
-        "Wil Anderson"
+        "Wil Anderson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "moustache",
@@ -17169,7 +18761,9 @@
         "Comic Con",
         "Ben Affleck",
         "gl TWuhKR",
-        "Affleck Leaving"
+        "Affleck Leaving",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "woooo"
@@ -17189,7 +18783,9 @@
       "speakers": [
         "Edgar Wright",
         "Baby Driver",
-        "Homecoming Spoiler"
+        "Homecoming Spoiler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "baby",
@@ -17216,7 +18812,9 @@
         "Joan Lee",
         "Jeremy Renner",
         "Homecoming Spoiler Free Review",
-        "Homecoming Spoiler"
+        "Homecoming Spoiler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -17239,7 +18837,9 @@
         "Wonder Woman",
         "Death Note",
         "Peter Parker",
-        "Homecoming Review"
+        "Homecoming Review",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "cornetto",
@@ -17258,7 +18858,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95696225",
       "itunes_duration": "1:39:38",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "transformers",
         "knight"
@@ -17277,7 +18880,9 @@
       "itunes_duration": "1:56:14",
       "speakers": [
         "Danny Elfman",
-        "James Gunn"
+        "James Gunn",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "failed",
@@ -17298,7 +18903,9 @@
       "itunes_duration": "1:31:24",
       "speakers": [
         "Adam West",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "black",
@@ -17321,7 +18928,9 @@
         "Wonder Woman",
         "Dark Universe",
         "Mortal Kombat",
-        "Baby Bumblebee"
+        "Baby Bumblebee",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "wonder",
@@ -17346,7 +18955,9 @@
         "Roger Moore",
         "Dark Universe Universe",
         "Tom Holland",
-        "Nathan Drake"
+        "Nathan Drake",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "zack",
@@ -17371,7 +18982,9 @@
       "speakers": [
         "Han Solo",
         "Wonder Woman",
-        "Aliens Arcade Caravan"
+        "Aliens Arcade Caravan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "alien",
@@ -17395,7 +19008,9 @@
       "speakers": [
         "Sam Loy",
         "Blade Runner",
-        "Find Sam Loy"
+        "Find Sam Loy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "prometheus",
@@ -17417,7 +19032,9 @@
       "speakers": [
         "Blade Runner",
         "Wonder Woman",
-        "Blade Runnerer"
+        "Blade Runnerer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "guardians",
@@ -17437,7 +19054,9 @@
       "itunes_duration": "1:45:01",
       "speakers": [
         "Golden Circle",
-        "Alien Covenant"
+        "Alien Covenant",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superhero",
@@ -17462,7 +19081,9 @@
         "Kylo Ren",
         "Find Levins",
         "Ripley’s Alien",
-        "Language Warning"
+        "Language Warning",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movies",
@@ -17482,7 +19103,9 @@
       "enclosure_length": "112560478",
       "itunes_duration": "1:57:12",
       "speakers": [
-        "Josh Brolin"
+        "Josh Brolin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jedi",
@@ -17507,7 +19130,9 @@
         "Wonder Woman",
         "Carrie Fisher",
         "Marvel Netflix",
-        "Alec Baldwin"
+        "Alec Baldwin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "princess",
@@ -17530,7 +19155,9 @@
       "enclosure_length": "90878425",
       "itunes_duration": "1:34:37",
       "speakers": [
-        "Ruining Spider-man"
+        "Ruining Spider-man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "sony",
@@ -17559,7 +19186,9 @@
         "Pete Ford",
         "Emma Sharp",
         "Erik Chen",
-        "Steve Hacklin"
+        "Steve Hacklin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "justice",
@@ -17582,7 +19211,9 @@
       "speakers": [
         "Gotg Stallone",
         "Lex Luthor",
-        "Henry Cavill"
+        "Henry Cavill",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "iron",
@@ -17606,7 +19237,9 @@
         "Baby Driver",
         "Atomic Blonde",
         "Logan Deleted Scene",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kong",
@@ -17631,7 +19264,9 @@
         "Bill Paxton",
         "Underwater Welder",
         "Logan Easter",
-        "Buy Logan"
+        "Buy Logan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "logan",
@@ -17652,7 +19287,9 @@
       "itunes_duration": "1:24:27",
       "speakers": [
         "Alien Covenant",
-        "Han Solo"
+        "Han Solo",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "nightwing",
@@ -17676,7 +19313,9 @@
       "speakers": [
         "Lion King",
         "Mel Gibson",
-        "Suicide Squad"
+        "Suicide Squad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -17698,7 +19337,9 @@
       "enclosure_length": "92963628",
       "itunes_duration": "1:36:47",
       "speakers": [
-        "Keanu Reeves"
+        "Keanu Reeves",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avengers",
@@ -17724,7 +19365,9 @@
       "speakers": [
         "Matt Stewart",
         "Ben Affleck",
-        "Ben Affleck Left"
+        "Ben Affleck Left",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "affleck",
@@ -17751,7 +19394,9 @@
         "Bryan Singer",
         "Woody Harrelson",
         "John Hurt",
-        "David Ayer Suicide Squad"
+        "David Ayer Suicide Squad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jedi",
@@ -17775,7 +19420,9 @@
       "speakers": [
         "Xander Cage",
         "Green Lantern",
-        "Miguel Ferrer"
+        "Miguel Ferrer",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "logan",
@@ -17800,7 +19447,9 @@
         "Carrie Fisher",
         "David Ayer",
         "Peter Dinklage",
-        "Max Sequel Uncharted"
+        "Max Sequel Uncharted",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -17821,7 +19470,9 @@
       "speakers": [
         "Dirt Bikes",
         "Scrooge McDuck",
-        "Bruce Wayne"
+        "Bruce Wayne",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weekly",
@@ -17843,7 +19494,9 @@
         "Blade Runner",
         "Alien Covenant",
         "Carrie Fisher",
-        "Jesse Eisenberg"
+        "Jesse Eisenberg",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -17863,7 +19516,9 @@
       "itunes_duration": "1:28:22",
       "speakers": [
         "Gotham City Sirens",
-        "Robin Hood"
+        "Robin Hood",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rogue",
@@ -17883,7 +19538,9 @@
       "enclosure_length": "94989456",
       "itunes_duration": "1:38:53",
       "speakers": [
-        "Zack Snyder"
+        "Zack Snyder",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -17903,7 +19560,9 @@
       "enclosure_length": "23747955",
       "itunes_duration": "24:41",
       "speakers": [
-        "Darth Vader"
+        "Darth Vader",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "darth",
@@ -17930,7 +19589,9 @@
         "Filthy Casuals",
         "MF Gotg",
         "Billy Dee Williams",
-        "Pikachu Detective"
+        "Pikachu Detective",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "gotg",
@@ -17952,7 +19613,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26690812",
       "itunes_duration": "27:45",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "wars",
@@ -17974,7 +19638,9 @@
       "itunes_duration": "1:25:07",
       "speakers": [
         "Alien Covenant",
-        "Ron Glass"
+        "Ron Glass",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -17996,7 +19662,9 @@
       "enclosure_length": "18576156",
       "itunes_duration": "19:18",
       "speakers": [
-        "Loot Crate"
+        "Loot Crate",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "death",
@@ -18017,7 +19685,9 @@
       "enclosure_length": "83356864",
       "itunes_duration": "1:26:46",
       "speakers": [
-        "Emilia Clarke"
+        "Emilia Clarke",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fantastic",
@@ -18040,7 +19710,9 @@
         "Strange Deleted",
         "Leonard Cohen",
         "Robert Vaughn",
-        "Tom Holland"
+        "Tom Holland",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -18065,7 +19737,9 @@
         "Lego Batman",
         "Strange Easter",
         "Johnny Depp",
-        "Strange Spoiler"
+        "Strange Spoiler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "doctor",
@@ -18085,7 +19759,9 @@
       "enclosure_length": "89733181",
       "itunes_duration": "1:33:25",
       "speakers": [
-        "Dark Universe"
+        "Dark Universe",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "deadpool",
@@ -18108,7 +19784,9 @@
       "speakers": [
         "Tim Miller",
         "Donald Glover",
-        "Joss Whedon Star Wars"
+        "Joss Whedon Star Wars",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "logan",
@@ -18126,7 +19804,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "598430",
       "itunes_duration": "0:34",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "death",
         "star",
@@ -18147,7 +19828,9 @@
       "enclosure_length": "87497521",
       "itunes_duration": "1:31:05",
       "speakers": [
-        "Harry Potter"
+        "Harry Potter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rogue",
@@ -18171,7 +19854,9 @@
         "Ben Afflecks",
         "Ben Affleck Batman",
         "Blade Runner",
-        "John Wick Chapter"
+        "John Wick Chapter",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "york",
@@ -18191,7 +19876,9 @@
       "itunes_duration": "16:22",
       "speakers": [
         "Luke Cage",
-        "Marvel Universe"
+        "Marvel Universe",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weirdest",
@@ -18220,7 +19907,9 @@
         "Stan Lee",
         "Justin Lin",
         "Luke Cage Spoiler Free",
-        "Luke Cage Spoiler"
+        "Luke Cage Spoiler",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "luke",
@@ -18240,7 +19929,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21363504",
       "itunes_duration": "22:12",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "worst",
         "justice",
@@ -18262,7 +19954,9 @@
       "enclosure_length": "81757236",
       "itunes_duration": "1:25:06",
       "speakers": [
-        "Jared Leto"
+        "Jared Leto",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -18283,7 +19977,9 @@
       "speakers": [
         "Superman Movie Caravan",
         "Loot Crate",
-        "Shaquille O'Neal"
+        "Shaquille O'Neal",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superman",
@@ -18305,7 +20001,9 @@
       "itunes_duration": "1:26:07",
       "speakers": [
         "Harley Quinn",
-        "Paul Walker"
+        "Paul Walker",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -18326,7 +20024,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28169125",
       "itunes_duration": "29:17",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "lost",
         "star",
@@ -18349,7 +20050,9 @@
       "itunes_duration": "1:44:10",
       "speakers": [
         "Daniel Craig",
-        "Mel Gibson"
+        "Mel Gibson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "casting",
@@ -18372,7 +20075,9 @@
       "speakers": [
         "Gene Wilder",
         "Happy Hogan",
-        "Luke Skywalker"
+        "Luke Skywalker",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -18393,7 +20098,9 @@
       "itunes_duration": "1:42:10",
       "speakers": [
         "Steve Rogers",
-        "Dark Universe"
+        "Dark Universe",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superhero",
@@ -18413,7 +20120,9 @@
       "itunes_duration": "1:54:40",
       "speakers": [
         "Blade Runner",
-        "Batman Return"
+        "Batman Return",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "disappointing",
@@ -18435,7 +20144,9 @@
         "Luke Cage",
         "Kenny Baker",
         "Wonder Woman",
-        "Donald Glover"
+        "Donald Glover",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rogue",
@@ -18456,7 +20167,9 @@
       "speakers": [
         "Suicide Squad",
         "Jimmy Smits",
-        "Mark Ruffalo"
+        "Mark Ruffalo",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "suicide",
@@ -18481,7 +20194,9 @@
         "Jason Bourne Spoiler Free",
         "Jason Bourne Spoiler",
         "Harry Potter",
-        "Buy Jason Bourne"
+        "Buy Jason Bourne",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jason",
@@ -18506,7 +20221,9 @@
         "Comic Con",
         "Luke Cage",
         "Guy Richie",
-        "Brie Larson"
+        "Brie Larson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "comic",
@@ -18530,7 +20247,9 @@
       "enclosure_length": "88580484",
       "itunes_duration": "1:32:13",
       "speakers": [
-        "James Franco"
+        "James Franco",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ghostbuster",
@@ -18554,7 +20273,9 @@
         "Tony Stark",
         "Iron Man",
         "Jedi Council",
-        "George Takei"
+        "George Takei",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dumb",
@@ -18575,7 +20296,9 @@
       "itunes_duration": "1:37:15",
       "speakers": [
         "James Cameron",
-        "XnZ Buy"
+        "XnZ Buy",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "game",
@@ -18596,7 +20319,9 @@
       "itunes_duration": "1:28:36",
       "speakers": [
         "Anton Yelchin Rip",
-        "Bryan Cranston"
+        "Bryan Cranston",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "justice",
@@ -18619,7 +20344,9 @@
       "itunes_duration": "1:30:21",
       "speakers": [
         "Arkham VR",
-        "Tyler Hoechlin"
+        "Tyler Hoechlin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "reveals",
@@ -18640,7 +20367,9 @@
       "speakers": [
         "Alien Covenant",
         "John Boyega",
-        "James Wan"
+        "James Wan",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -18662,7 +20391,9 @@
       "speakers": [
         "Doc Savage",
         "Muhammad Ali",
-        "Brie Larson"
+        "Brie Larson",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ultimate",
@@ -18684,7 +20415,9 @@
       "speakers": [
         "Hydra Mel Gibson",
         "Sam Mendes",
-        "Jamie Bell"
+        "Jamie Bell",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "apocalypse"
@@ -18703,7 +20436,9 @@
       "itunes_duration": "1:40:03",
       "speakers": [
         "Harley Quinn",
-        "Michael Keaton"
+        "Michael Keaton",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "changes",
@@ -18726,7 +20461,9 @@
       "itunes_duration": "1:44:46",
       "speakers": [
         "Darwyn Cook",
-        "Threequel Films"
+        "Threequel Films",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fantastic",
@@ -18750,7 +20487,9 @@
         "Ben Affleck",
         "Tom Cruises Mummy",
         "Tom Cruise",
-        "Adam McKay"
+        "Adam McKay",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "captain",
@@ -18773,7 +20512,9 @@
         "Lara Croft",
         "Fox Pulls",
         "George Miller",
-        "Green Lantern"
+        "Green Lantern",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "rumours",
@@ -18797,7 +20538,9 @@
         "Michelle McNamara",
         "Joins Spider",
         "Willem Dafoe",
-        "Spider-Man Homecoming"
+        "Spider-Man Homecoming",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "iron",
@@ -18824,7 +20567,9 @@
         "Michael Keaton",
         "Tessa Thompson",
         "Ben Affleck Solo Batman",
-        "Buy Batman"
+        "Buy Batman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "doctor",
@@ -18846,7 +20591,9 @@
       "enclosure_length": "88100265",
       "itunes_duration": "1:31:43",
       "speakers": [
-        "Theron Joins Fast"
+        "Theron Joins Fast",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -18870,7 +20617,9 @@
       "speakers": [
         "Blade Runner",
         "Batman Returns",
-        "Buy Burton"
+        "Buy Burton",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "office",
@@ -18891,7 +20640,9 @@
       "itunes_duration": "2:04:30",
       "speakers": [
         "Gary Shandling",
-        "Peter Serafinowicz"
+        "Peter Serafinowicz",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -18913,7 +20664,9 @@
       "speakers": [
         "Daredevil Season",
         "Indiana Jones",
-        "George Lucas"
+        "George Lucas",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "daredevil",
@@ -18940,7 +20693,9 @@
         "Daisy Ridley",
         "Sylvester Stallone",
         "Jim Gordon Daredevil",
-        "Cloverfield Lane"
+        "Cloverfield Lane",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -18968,7 +20723,9 @@
         "Luke Skywalker Gay",
         "Gordon Levitt",
         "Suicide Squad",
-        "Ian McShane"
+        "Ian McShane",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ghostbusters",
@@ -18989,7 +20746,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98703419",
       "itunes_duration": "1:42:46",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "rated",
         "comic",
@@ -19015,7 +20775,9 @@
         "Bruce Wayne VS",
         "Scrooge McDuch",
         "Bruce Wayne",
-        "Phasma VS Boba Fett"
+        "Phasma VS Boba Fett",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superhero",
@@ -19035,7 +20797,9 @@
       "itunes_duration": "1:27:52",
       "speakers": [
         "Battlestar Galactica",
-        "Sonic Animated"
+        "Sonic Animated",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "deadpool",
@@ -19055,7 +20819,9 @@
       "itunes_duration": "1:26:06",
       "speakers": [
         "Zack Synder",
-        "Cloverfield Lane X-Men"
+        "Cloverfield Lane X-Men",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spots",
@@ -19078,7 +20844,9 @@
       "speakers": [
         "Mooney Returning",
         "Snyder’s Batman",
-        "Guillermo Del"
+        "Guillermo Del",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -19100,7 +20868,9 @@
       "itunes_duration": "1:40:36",
       "speakers": [
         "Wonder Woman",
-        "Stephen Moffat"
+        "Stephen Moffat",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "massive",
@@ -19130,7 +20900,9 @@
         "Alan Rickman",
         "Jamie Fox",
         "Robin Hood",
-        "X-Files Revival Reviews"
+        "X-Files Revival Reviews",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mary",
@@ -19152,7 +20924,9 @@
       "speakers": [
         "Michael Bay",
         "Battling Boy",
-        "Strange Images"
+        "Strange Images",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -19170,7 +20944,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108750400",
       "itunes_duration": "1:53:14",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "weekly",
         "planet"
@@ -19188,7 +20965,9 @@
       "enclosure_length": "115302664",
       "itunes_duration": "2:00:03",
       "speakers": [
-        "Least Annoyed"
+        "Least Annoyed",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -19206,7 +20985,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108500432",
       "itunes_duration": "1:52:58",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "force",
@@ -19228,7 +21010,9 @@
       "itunes_duration": "1:44:09",
       "speakers": [
         "Kylo Ren",
-        "Luke Skywalker"
+        "Luke Skywalker",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -19252,7 +21036,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88978383",
       "itunes_duration": "1:32:38",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "batman",
         "superman"
@@ -19270,7 +21057,9 @@
       "enclosure_length": "68314911",
       "itunes_duration": "1:11:06",
       "speakers": [
-        "Tom Cruise"
+        "Tom Cruise",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "civil",
@@ -19292,7 +21081,9 @@
       "speakers": [
         "Jessica Jones",
         "Peter Jackson",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jessica",
@@ -19312,7 +21103,9 @@
       "enclosure_length": "87681805",
       "itunes_duration": "1:31:17",
       "speakers": [
-        "Suicide Squad"
+        "Suicide Squad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spectre",
@@ -19332,7 +21125,9 @@
       "itunes_duration": "1:55:43",
       "speakers": [
         "Star Wars",
-        "Doctor Strange"
+        "Doctor Strange",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "characters",
@@ -19353,7 +21148,9 @@
       "enclosure_length": "97140294",
       "itunes_duration": "1:41:08",
       "speakers": [
-        "Suicide Squad"
+        "Suicide Squad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -19375,7 +21172,9 @@
       "itunes_duration": "1:25:59",
       "speakers": [
         "Jessica Jones",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -19398,7 +21197,9 @@
       "itunes_duration": "1:43:49",
       "speakers": [
         "Vin Diesel",
-        "Battle Angel Alita"
+        "Battle Angel Alita",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hulk",
@@ -19422,7 +21223,9 @@
       "speakers": [
         "Joker Twist",
         "Lex Luthor",
-        "Boba Fett"
+        "Boba Fett",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "flash",
@@ -19447,7 +21250,9 @@
       "speakers": [
         "Matt Damon",
         "Ridley Scott",
-        "Robin Hood"
+        "Robin Hood",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "martian"
@@ -19466,7 +21271,9 @@
       "itunes_duration": "1:17:46",
       "speakers": [
         "Best Sci-Fi Films",
-        "Darth Vader"
+        "Darth Vader",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -19485,7 +21292,9 @@
       "enclosure_length": "103231223",
       "itunes_duration": "1:47:29",
       "speakers": [
-        "Bill Finger"
+        "Bill Finger",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "james",
@@ -19506,7 +21315,9 @@
       "enclosure_length": "84479066",
       "itunes_duration": "1:27:57",
       "speakers": [
-        "Matt Damon"
+        "Matt Damon",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "defunct",
@@ -19526,7 +21337,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128521041",
       "itunes_duration": "2:13:49",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "prequel"
@@ -19544,7 +21358,9 @@
       "enclosure_length": "95266589",
       "itunes_duration": "1:39:11",
       "speakers": [
-        "Showdown Returns"
+        "Showdown Returns",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "superhero",
@@ -19565,7 +21381,9 @@
       "itunes_duration": "1:49:55",
       "speakers": [
         "Michael Shannon",
-        "Victor Frankenstien"
+        "Victor Frankenstien",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -19586,7 +21404,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72471549",
       "itunes_duration": "1:15:26",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "civil",
         "star",
@@ -19604,7 +21425,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79876090",
       "itunes_duration": "1:23:09",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "fantastic",
         "deadpool"
@@ -19623,7 +21447,9 @@
       "itunes_duration": "1:23:01",
       "speakers": [
         "Impossible Rogue Nation",
-        "Star Wars"
+        "Star Wars",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "mission",
@@ -19648,7 +21474,9 @@
         "Worst Mission Impossible Films",
         "Mission Impossible",
         "Rogue Nation",
-        "Fantastic Four"
+        "Fantastic Four",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -19670,7 +21498,9 @@
       "enclosure_length": "95448775",
       "itunes_duration": "1:39:22",
       "speakers": [
-        "Suicide Squad"
+        "Suicide Squad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "suicide",
@@ -19690,7 +21520,9 @@
       "itunes_duration": "1:28:08",
       "speakers": [
         "Comic Con",
-        "Suicide Squad"
+        "Suicide Squad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "comic",
@@ -19711,7 +21543,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63958974",
       "itunes_duration": "1:06:34",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "terminator",
         "genisys",
@@ -19731,7 +21566,9 @@
       "enclosure_length": "112776183",
       "itunes_duration": "1:57:25",
       "speakers": [
-        "Arkham Knight"
+        "Arkham Knight",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -19751,7 +21588,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93338947",
       "itunes_duration": "1:37:10",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "game",
         "thrones"
@@ -19769,7 +21609,9 @@
       "enclosure_length": "82170644",
       "itunes_duration": "1:25:32",
       "speakers": [
-        "Comic Con"
+        "Comic Con",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "jurassic",
@@ -19788,7 +21630,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88927416",
       "itunes_duration": "1:32:35",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "entourage",
         "movie"
@@ -19807,7 +21652,9 @@
       "itunes_duration": "1:24:06",
       "speakers": [
         "Suicide Squad",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "andreas",
@@ -19825,7 +21672,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75490052",
       "itunes_duration": "1:18:35",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "flash",
         "arrow",
@@ -19845,7 +21695,9 @@
       "enclosure_length": "81438391",
       "itunes_duration": "1:24:47",
       "speakers": [
-        "Johnny Depps"
+        "Johnny Depps",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "fury",
@@ -19865,7 +21717,9 @@
       "itunes_duration": "1:21:51",
       "speakers": [
         "Suicide Squad",
-        "Boba Fett"
+        "Boba Fett",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "civil",
@@ -19886,7 +21740,9 @@
       "itunes_duration": "1:21:35",
       "speakers": [
         "Star Wars",
-        "Suicide Squad"
+        "Suicide Squad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "avengers",
@@ -19904,7 +21760,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97370625",
       "itunes_duration": "1:41:22",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "wars",
@@ -19925,7 +21784,9 @@
       "enclosure_length": "85266547",
       "itunes_duration": "1:28:46",
       "speakers": [
-        "Force Awakens"
+        "Force Awakens",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -19946,7 +21807,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71948170",
       "itunes_duration": "1:14:53",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "daredevil",
         "netflix"
@@ -19963,7 +21827,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74757298",
       "itunes_duration": "1:17:49",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "furious",
         "deadpool",
@@ -19982,7 +21849,9 @@
       "enclosure_length": "89446861",
       "itunes_duration": "1:33:07",
       "speakers": [
-        "Lex Luthor"
+        "Lex Luthor",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -20005,7 +21874,9 @@
         "Stories Not",
         "Justice League",
         "Civil War",
-        "Weekly Pl"
+        "Weekly Pl",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -20025,7 +21896,9 @@
       "enclosure_length": "87240942",
       "itunes_duration": "1:30:49",
       "speakers": [
-        "Comic Con"
+        "Comic Con",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -20044,7 +21917,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106599502",
       "itunes_duration": "1:50:59",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "best",
         "comic",
@@ -20065,7 +21941,9 @@
       "itunes_duration": "1:52:47",
       "speakers": [
         "Best Comic Book Trilogies",
-        "Power Rangers"
+        "Power Rangers",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -20087,7 +21965,9 @@
       "itunes_duration": "1:07:50",
       "speakers": [
         "Everything Aquaman",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "aquaman"
@@ -20104,7 +21984,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87747939",
       "itunes_duration": "1:31:21",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "spider",
         "marvel",
@@ -20124,7 +22007,9 @@
       "itunes_duration": "1:14:58",
       "speakers": [
         "Green Lantern",
-        "Mark Millar"
+        "Mark Millar",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "daredevil",
@@ -20144,7 +22029,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88282653",
       "itunes_duration": "1:32:10",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "fantastic"
       ]
@@ -20161,7 +22049,9 @@
       "enclosure_length": "104851231",
       "itunes_duration": "1:49:10",
       "speakers": [
-        "Star Wars"
+        "Star Wars",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movies"
@@ -20181,7 +22071,9 @@
       "speakers": [
         "Super Villain Showdown",
         "Men Apocalypse",
-        "Captain America"
+        "Captain America",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "super",
@@ -20200,7 +22092,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84647908",
       "itunes_duration": "1:28:07",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "agent",
         "carter"
@@ -20218,7 +22113,9 @@
       "enclosure_length": "55530805",
       "itunes_duration": "57:47",
       "speakers": [
-        "Middle Earth"
+        "Middle Earth",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "minisode",
@@ -20239,7 +22136,9 @@
       "speakers": [
         "Star Wars",
         "Star Trek",
-        "Doctor Who"
+        "Doctor Who",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -20258,7 +22157,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77646661",
       "itunes_duration": "1:20:50",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "christmas"
       ]
@@ -20275,7 +22177,9 @@
       "enclosure_length": "93047633",
       "itunes_duration": "1:36:52",
       "speakers": [
-        "Mad Max"
+        "Mad Max",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -20298,7 +22202,9 @@
       "itunes_duration": "1:42:55",
       "speakers": [
         "Peter Jackson",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "lord",
@@ -20321,7 +22227,9 @@
       "itunes_duration": "1:37:12",
       "speakers": [
         "Blade Runner",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -20343,7 +22251,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82067892",
       "itunes_duration": "1:25:26",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "hunger",
         "games",
@@ -20368,7 +22279,9 @@
         "Wonder Woman",
         "Captain America",
         "Civil War",
-        "Infinity Wa"
+        "Infinity Wa",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -20390,7 +22303,9 @@
       "enclosure_length": "79247861",
       "itunes_duration": "1:22:30",
       "speakers": [
-        "Harley Quin"
+        "Harley Quin",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "interstellar",
@@ -20410,7 +22325,9 @@
       "itunes_duration": "1:50:08",
       "speakers": [
         "New Line",
-        "Nolan Big"
+        "Nolan Big",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "marvel",
@@ -20433,7 +22350,9 @@
       "itunes_duration": "1:49:17",
       "speakers": [
         "Plus Wonder Woman",
-        "Suicide Squad"
+        "Suicide Squad",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "ultron",
@@ -20458,7 +22377,9 @@
       "enclosure_length": "104630174",
       "itunes_duration": "1:48:56",
       "speakers": [
-        "Film Line-up Superhero"
+        "Film Line-up Superhero",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "civil",
@@ -20480,7 +22401,9 @@
       "enclosure_length": "77295568",
       "itunes_duration": "1:20:28",
       "speakers": [
-        "Universals Dracula Untold"
+        "Universals Dracula Untold",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "arrow",
@@ -20500,7 +22423,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72373238",
       "itunes_duration": "1:15:20",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "flash"
       ]
@@ -20516,7 +22442,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72259651",
       "itunes_duration": "1:15:13",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "gotham",
         "agents",
@@ -20537,7 +22466,9 @@
       "enclosure_length": "113570295",
       "itunes_duration": "1:58:15",
       "speakers": [
-        "Tommy Dassalo"
+        "Tommy Dassalo",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "toonstravaganza",
@@ -20556,7 +22487,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1878603",
       "itunes_duration": "1:54",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "minisode"
       ]
@@ -20572,7 +22506,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82543435",
       "itunes_duration": "1:25:56",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "best",
         "batman",
@@ -20593,7 +22530,9 @@
       "speakers": [
         "Doctor Strange",
         "Fantastic Four",
-        "Greatest American Hero"
+        "Greatest American Hero",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "movies",
@@ -20612,7 +22551,9 @@
       "enclosure_length": "84028054",
       "itunes_duration": "1:27:28",
       "speakers": [
-        "James Bond"
+        "James Bond",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -20632,7 +22573,9 @@
       "enclosure_length": "90338464",
       "itunes_duration": "1:34:03",
       "speakers": [
-        "Ben Hur"
+        "Ben Hur",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -20652,7 +22595,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81090287",
       "itunes_duration": "1:24:25",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "infinity",
         "stones",
@@ -20674,7 +22620,9 @@
       "itunes_duration": "1:46:40",
       "speakers": [
         "Marvels Guardians",
-        "Mad Max"
+        "Mad Max",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "guardians",
@@ -20695,7 +22643,9 @@
       "itunes_duration": "1:33:53",
       "speakers": [
         "Wonder Woman",
-        "Brett Ratner"
+        "Brett Ratner",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "diego",
@@ -20714,7 +22664,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109978792",
       "itunes_duration": "1:54:30",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "best",
         "worst",
@@ -20737,7 +22690,9 @@
       "itunes_duration": "1:45:48",
       "speakers": [
         "Oscar Contender",
-        "Brandon Routh"
+        "Brandon Routh",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "dawn",
@@ -20761,7 +22716,9 @@
       "enclosure_length": "86275055",
       "itunes_duration": "1:29:49",
       "speakers": [
-        "Kevin Smith"
+        "Kevin Smith",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -20782,7 +22739,9 @@
       "enclosure_length": "94212922",
       "itunes_duration": "1:38:05",
       "speakers": [
-        "Michael Bay"
+        "Michael Bay",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "transformer",
@@ -20801,7 +22760,9 @@
       "enclosure_length": "98800406",
       "itunes_duration": "1:42:52",
       "speakers": [
-        "Matt Damon"
+        "Matt Damon",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "transformers",
@@ -20823,7 +22784,9 @@
       "itunes_duration": "1:14:25",
       "speakers": [
         "Gramps Harrison Ford",
-        "Harrison Ford"
+        "Harrison Ford",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "doctor",
@@ -20847,7 +22810,9 @@
       "itunes_duration": "1:07:31",
       "speakers": [
         "Tom Cruise",
-        "Plus Ant-man"
+        "Plus Ant-man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "edge",
@@ -20868,7 +22833,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87450768",
       "itunes_duration": "1:31:02",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "star",
         "wars",
@@ -20886,7 +22854,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95581740",
       "itunes_duration": "1:39:30",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "future",
         "past"
@@ -20903,7 +22874,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90998871",
       "itunes_duration": "1:34:44",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "godzilla",
         "batsuit",
@@ -20922,7 +22896,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75498325",
       "itunes_duration": "1:18:35",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "best",
         "worst",
@@ -20941,7 +22918,9 @@
       "enclosure_length": "73457067",
       "itunes_duration": "1:16:28",
       "speakers": [
-        "Terminator Genesis"
+        "Terminator Genesis",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "amazing",
@@ -20960,7 +22939,9 @@
       "enclosure_length": "89655081",
       "itunes_duration": "1:33:20",
       "speakers": [
-        "VS Superman"
+        "VS Superman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -20981,7 +22962,9 @@
       "itunes_duration": "1:35:30",
       "speakers": [
         "VS Superman",
-        "Sam Raimi Spider-man"
+        "Sam Raimi Spider-man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -21001,7 +22984,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79913654",
       "itunes_duration": "1:23:11",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "marvel",
         "movies"
@@ -21019,7 +23005,9 @@
       "enclosure_length": "72213702",
       "itunes_duration": "1:15:10",
       "speakers": [
-        "Ninja Turtle"
+        "Ninja Turtle",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "captain",
@@ -21042,7 +23030,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77285569",
       "itunes_duration": "1:20:27",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "history",
         "captain",
@@ -21062,7 +23053,9 @@
       "enclosure_length": "105637014",
       "itunes_duration": "1:49:59",
       "speakers": [
-        "VS Superman"
+        "VS Superman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "anticipated",
@@ -21082,7 +23075,9 @@
       "enclosure_length": "106819419",
       "itunes_duration": "1:51:13",
       "speakers": [
-        "VS Superman"
+        "VS Superman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "costumes",
@@ -21104,7 +23099,9 @@
       "enclosure_length": "84665958",
       "itunes_duration": "1:28:08",
       "speakers": [
-        "Arkham Knight"
+        "Arkham Knight",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -21126,7 +23123,9 @@
       "enclosure_length": "76206410",
       "itunes_duration": "1:19:20",
       "speakers": [
-        "VS Superman"
+        "VS Superman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "spider",
@@ -21147,7 +23146,9 @@
       "enclosure_length": "65696817",
       "itunes_duration": "1:31:10",
       "speakers": [
-        "Galaxy Things"
+        "Galaxy Things",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "guardians",
@@ -21166,7 +23167,9 @@
       "enclosure_length": "49089830",
       "itunes_duration": "1:08:06",
       "speakers": [
-        "VS Superman"
+        "VS Superman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "gotham",
@@ -21185,7 +23188,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72262623",
       "itunes_duration": "1:40:18",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "animated",
         "movies"
@@ -21204,7 +23210,9 @@
       "itunes_duration": "1:12:39",
       "speakers": [
         "Jesse Eisenberg",
-        "Lex Luthor"
+        "Lex Luthor",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "eisenberg",
@@ -21226,7 +23234,9 @@
       "itunes_duration": "1:25:10",
       "speakers": [
         "Wonder Woman",
-        "Killer Crow"
+        "Killer Crow",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "comic",
@@ -21248,7 +23258,9 @@
       "enclosure_length": "73835254",
       "itunes_duration": "1:16:51",
       "speakers": [
-        "Boba Fett"
+        "Boba Fett",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "history"
@@ -21266,7 +23278,9 @@
       "enclosure_length": "58862312",
       "itunes_duration": "1:21:41",
       "speakers": [
-        "VS Superman"
+        "VS Superman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "star",
@@ -21289,7 +23303,9 @@
       "enclosure_length": "41452552",
       "itunes_duration": "57:30",
       "speakers": [
-        "Michael Bay"
+        "Michael Bay",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "kryptonian",
@@ -21313,7 +23329,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69463465",
       "itunes_duration": "1:12:18",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "movies"
       ]
@@ -21332,7 +23351,9 @@
       "speakers": [
         "Paul Rudd",
         "Jaoquin Pheonix",
-        "Lex Luthor"
+        "Lex Luthor",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "worst",
@@ -21353,7 +23374,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69292618",
       "itunes_duration": "1:12:07",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "dumbest",
         "moments",
@@ -21376,7 +23400,9 @@
       "itunes_duration": "58:17",
       "speakers": [
         "Gal Gadot",
-        "Wonder Woman"
+        "Wonder Woman",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "weird",
@@ -21398,7 +23424,9 @@
       "itunes_duration": "1:23:22",
       "speakers": [
         "Popular Comic Book Movies",
-        "Iron Man"
+        "Iron Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "terrible",
@@ -21425,7 +23453,9 @@
       "itunes_duration": "1:05:16",
       "speakers": [
         "Catching Fire",
-        "Doctor Who"
+        "Doctor Who",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "hunger",
@@ -21446,7 +23476,9 @@
       "enclosure_length": "85007784",
       "itunes_duration": "1:28:29",
       "speakers": [
-        "Iron Man"
+        "Iron Man",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -21468,7 +23500,9 @@
         "Why Everyone Hates Agents",
         "Superman Nightwing",
         "Wonder Woman",
-        "Netflix Announce"
+        "Netflix Announce",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "agents",
@@ -21489,7 +23523,9 @@
       "enclosure_length": "59163349",
       "itunes_duration": "1:01:34",
       "speakers": [
-        "Any Good"
+        "Any Good",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "thor",
@@ -21512,7 +23548,9 @@
       "speakers": [
         "Arkham Orgins Yay",
         "Arkham Origins",
-        "Harrison Fords"
+        "Harrison Fords",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "batman",
@@ -21532,7 +23570,9 @@
       "enclosure_length": "68598338",
       "itunes_duration": "1:11:24",
       "speakers": [
-        "Captain America"
+        "Captain America",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -21552,7 +23592,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60492086",
       "itunes_duration": "1:02:57",
-      "speakers": [],
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
       "topics": [
         "superman",
         "batman",
@@ -21574,7 +23617,9 @@
       "enclosure_length": "67117569",
       "itunes_duration": "1:09:52",
       "speakers": [
-        "Comic Book"
+        "Comic Book",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "best",
@@ -21598,7 +23643,9 @@
       "itunes_duration": "1:07:16",
       "speakers": [
         "Underrated Comic Book Movies",
-        "Mr Sunday"
+        "Mr Sunday",
+        "James Clement",
+        "Nick Mason"
       ],
       "topics": [
         "underrated",
@@ -21614,979 +23661,979 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Return of the Jedi - Caravan Of Garbage — speakers: Luke Skywalker, Darth Vader, Death Star, George Lucas
-- 2026-02-15 — 610 Crime 101 & Marvel vs Star Wars Crossover — speakers: John Wick, Tom Cruise, Brad Pitt, John Wick Video
-- 2026-02-12 — The Empire Strikes Back - Caravan Of Garbage — speakers: Luke Skywalker, George Lucas
-- 2026-02-09 — 609 Super Bowl Trailers & Most Anticipated Movies 2026
-- 2026-02-05 — Star Wars - Caravan Of Garbage — speakers: Wars Caravan, George Lucas, John Williams, Harrison Ford, Carrie Fisher, Mark Hamill
-- 2026-02-01 — 608 Most Anticipated Movies & Shows 2026 Part I — speakers: Catherine O’Hara, Tomb Raider, Catherine O'Hara Rip, Kathleen Kennedy
-- 2026-01-12 — Best of The Weekly Planet 2025 — speakers: Austin Powers, Benson Boone
-- 2026-01-05 — X-Men (2000) - The Weekly Planet Movie Commentary Track
-- 2025-12-29 — 607 The Best & Worst of 2025 Awards — speakers: Peter Greene, James Ransone, James Ransone Rip Avatar
-- 2025-12-26 — Wrath of the Titans - Caravan Of Garbage — speakers: Sam Worthington
-- 2025-12-22 — 606 Avatar: Fire & Ash — speakers: Rob Reiner, Michele Singer Reiner, Officially Cast, Doomsday Teaser
-- 2025-12-18 — Clash of the Titans - Caravan Of Garbage — speakers: Sam Worthington, Ray Harryhausen, Liam Neeson, Ralph Finnes Hades
-- 2025-12-14 — 605 Supergirl Trailer & Paramount vs Netflix for Warner Bros — speakers: Jennifer Lawrence, Josh Hutcherson
-- 2025-12-10 — Tomorrowland - Caravan Of Garbage — speakers: Brad Bird, George Clooney
-- 2025-12-08 — 604 The Netflix Warner Bros Deal — speakers: Quentin Tarantino, Nicholas Cage, Paul Dano
-- 2025-12-04 — The Lone Ranger - Caravan Of Garbage — speakers: Lone Ranger Caravan, Johnny Depp, Hans Zimmer, Gore Verbinski, Armie Hammer
-- 2025-11-30 — 603 Wake Up Dead Man: A Knives Out Mystery (with Dave Warneke) — speakers: Dave Warneke, Watch Dave
-- 2025-11-27 — John Carter - Caravan Of Garbage — speakers: John Carter Caravan, Anrew Stanton, Taylor Kitsch, Edgar Rice Burroughs
-- 2025-11-24 — 602 Wicked: For Good & Moana But Worse — speakers: Ninja Turtles, Labubu Movie
-- 2025-11-20 — The Sorcerer's Apprentice - Caravan Of Garbage — speakers: Nick Cage
-- 2025-11-17 — 601 The Running Man — speakers: Steven King, Miles Teller, Jimmy Olsen Spin-Off
-- 2025-11-13 — The Predator - Caravan Of Garbage — speakers: Shane Black
-- 2025-11-10 — 600 Predator: Badlands & Pluribus — speakers: Brendan Fraser, Rachel Weisz
-- 2025-11-07 — Predators - Caravan Of Garbage
-- 2025-11-03 — 599 Frankenstein 2025 & IT: Welcome To Derry — speakers: Stephen King, Reeves Sci-Fi, Frankenstein Spoiler
-- 2025-10-30 — Predator 2 - Caravan Of Garbage — speakers: Arnold Schwarzenegger, Danny Glover, Gary Busey
-- 2025-10-27 — 598 Cancelled Kylo Ren Movie & Gen V Season 2 — speakers: James Bond, Bob Iger, James Gunn, David Fincher
-- 2025-10-23 — Predator - Caravan Of Garbage — speakers: Arnold Schwarzenegger
-- 2025-10-20 — 597 The Mattel Cinematic Universe & Why Tron: Ares Bombed — speakers: Wonder Man, Sigourney Weaver, Diane Keaton, Jim Carrey
-- 2025-10-13 — 596 Tron: Ares & Peacemaker S2 Finale! — speakers: James Bond, James Bond Gone Woke
-- 2025-10-10 — Tron: Legacy - Caravan Of Garbage — speakers: Jeff Bridges, Kevin Flynn
-- 2025-10-07 — Tron - Caravan Of Garbage — speakers: Jeff Bridges, Glowing Pyjamas
-- 2025-10-05 — 595 New AI Actor Controversy & The Smashing Machine — speakers: Brendan Fraser, Rachael Weisz, Watch James, Guillermo Del Toro
-- 2025-10-02 — The Mummy 2017 - Caravan Of Garbage — speakers: Tom Cruise, Javier Bardem, Johnny Depp
-- 2025-09-29 — 594 One Battle After Another & Stan Lee Returns! — speakers: Lee Returns, Paul Thomas Anderson, Stan Lee, Mad Max
-- 2025-09-25 — Dracula Untold - Caravan Of Garbage — speakers: Dracula Untold Caravan, Dracula Untold, Luke Evans
-- 2025-09-21 — 593 The Batman 2 Villain Speculation & Gen V Season 2 — speakers: Robert Redford, Liam Hemsworth
-- 2025-09-18 — The Wolfman - Caravan Of Garbage — speakers: Lon Chaney Jr, Anthony Hopkins, Emily Blunt, Joe Johnston
-- 2025-09-15 — 592 New Doctor Doom First Look & The Long Walk — speakers: Stephen King, Mark Hamill, Robert Downey Jr, David Zslav, Doom Avengers, David Zaslav, Michael Caine Returns, Wake Up Dead Man
-- 2025-09-11 — Van Helsing - Caravan Of Garbage — speakers: Van Helsing Caravan, Dark Universe, Van Helsing, Hugh Jackman, Kate Beckinsale, Gabriel Van Hesling
-- 2025-09-08 — 591 Man Of Tomorrow & Best Actors Who Pivoted — speakers: James Bond, Thumb Cramps, Lara Croft, Tomb Raider, Bluey Movie
-- 2025-09-04 — Percy Jackson: Sea of Monsters - Caravan Of Garbage — speakers: Percy Jackson, Pierce Brosnan
-- 2025-09-01 — 590 Caught Stealing & Kpop Demon Hunters vs Red Notice — speakers: Demon Hunters, Kpop Demon Hunters, Darren Aronofsky, Caught Stealing, Alan Ritchson, Demon Hunters Overtakes
-- 2025-08-28 — Percy Jackson & the Olympians: The Lightning Thief - Caravan Of Garbage — speakers: Harry Potter, Rick Riordan, Percy Jackson, Christopher Columbus
-- 2025-08-25 — 589 Peacemaker Season 2 & The Naked Gun — speakers: Alan Cumming, Mahershala Ali, Ian McKellen, Jason Bourne, James Gunn, James Bourne Return
-- 2025-08-21 — Alien: Covenant - Caravan Of Garbage — speakers: Elizabeth Shawit, Michael Fassbender
-- 2025-08-18 — 588 Alien: Earth — speakers: Ryan Reynold, Jeff Bezos, Simon Kinberg, James Gunn, Thumb Cramps, James Gunn Starts, Zach Creggar
-- 2025-08-14 — Prometheus - Caravan Of Garbage — speakers: Ridley Scott, Damon Lindelof
-- 2025-08-10 — 587 Weapons — speakers: Matt Smith, Michael Bay, Will Smith, Tom Cruise, Tom Cruise Movie
-- 2025-08-07 — Oblivion - Caravan Of Garbage — speakers: Tom Cruise, Joseph Kosinski
-- 2025-08-04 — 586 Together & The Future of New DCU/MCU — speakers: Robert Downey Jr, James Boon, James Bond
-- 2025-07-31 — Bulletproof Monk - Caravan Of Garbage — speakers: Sean William Scott
-- 2025-07-28 — 585 The Fantastic Four: First Steps — speakers: John Krasinski, Chris Evans, Mortal Kombat, James Gunn, Henry Cavill, Kevin Feige, Dredd Movie
-- 2025-07-24 — Barb Wire - Caravan Of Garbage — speakers: Barb Wire Caravan, Pamela Anderson, Barb Wire, Dark Horse
-- 2025-07-20 — 584 Superman Success & Best/Worst Legacy Comic Characters — speakers: Comic Characters, John Malkovich’s Red Ghost, Clayface Movie
-- 2025-07-17 — Timecop - Caravan Of Garbage
-- 2025-07-14 — 583 Superman 2025! — speakers: Black Superman Movie
-- 2025-07-09 — Smallville - Caravan Of Garbage — speakers: Clark Kent Superman, Christopher Reeve
-- 2025-07-06 — 582 Jurassic World Rebirth — speakers: Paul Walker, Michael Madson, Julian McMahon, Paul Walker Returns, Mcu Blade Costumes
-- 2025-07-03 — Lois & Clark: The New Adventures of Superman - Caravan Of Garbage — speakers: Starring Teri Hatcher, Dean Cain
-- 2025-06-30 — 581 F1, Ironheart & New James Bond Director — speakers: Maverick Joseph Kosinski, William Bradley Pitt, James Bond, Michael Bay, Iron Heart, Michael Bay Returning
-- 2025-06-26 — Adventures of Superman - Caravan Of Garbage — speakers: James Gunn, George Reeves, Jimmy Olsen, Lois Lane
-- 2025-06-23 — 580 28 Years Later (23 Years Later) — speakers: Danny Boyle, Alex Garland, John Bernthal, Tom Rhys Harries, James Gunn
-- 2025-06-19 — The 13th Warrior - Caravan Of Garbage — speakers: Michael Crichton, John McTiernan, Antonio Banderas
-- 2025-06-16 — 579 Materialists & Final Superman Trailer — speakers: Chris Evans, Pedro Pascal, Wonder Woman, Mortal Kombat II, Disney Sue Midjourney, Mortal Kombat, Disney Sue Midjourney AI
-- 2025-06-12 — Timeline - Caravan Of Garbage — speakers: Michael Crichton, Richard Donner, Paul Walker, Gerry Butler, Frances O'Connor, Billy Connolly
-- 2025-06-09 — 578 From the World of John Wick: Ballerina — speakers: John Wick, Kathleen Kennedy, David Zazslav
-- 2025-06-05 — Sphere - Caravan Of Garbage — speakers: Michael Crichton, Dustin Hoffman, Sharon Stone
-- 2025-06-02 — 577 Bring Her Back & Superman VS Fantastic Four — speakers: Skibidi Toilet, James Gunn, Chris Hemsworth, Mark Hamill, Luke Skywalker, Michael Bay
-- 2025-05-29 — Congo - Caravan Of Garbage — speakers: Michael Crichton
-- 2025-05-26 — 576 Mission: Impossible – The Final Reckoning — speakers: Tom Cruise, Andor’s Tony Gilroy, Clown Town, Top Gun, James Maso, Tony Gilroy vs Marvel, Alex Garland
-- 2025-05-22 — Jason Bourne - Caravan Of Garbage — speakers: Jason Bourne Caravan, Jason Bourne, Tommy Lee Jones, Vincent Cassel
-- 2025-05-19 — 575 New Superman Trailer & Andor Season 2 — speakers: Hbo Max, David Zaslav
-- 2025-05-16 — The Bourne Legacy - Caravan Of Garbage — speakers: Jeremy Renner, Adjacent Bourne, Aaron Cross, Jason Bourne
-- 2025-05-12 — 574 Action Movie Wrap Up & MCU back on track? — speakers: Bob Iger, Kevin Feige, Donald Trump
-- 2025-05-08 — The Bourne Ultimatum - Caravan Of Garbage — speakers: Jason Bourne, Aaron Cross
-- 2025-05-05 — 573 Thunderbolts* — speakers: Sergeant Rock, Jeremy Renner, Ryan Reynolds, James Bond
-- 2025-05-01 — The Bourne Supremecy - Caravan Of Garbage — speakers: Matt Damon, Jason Bourne, Paul Greengrass, Tony Gilroy
-- 2025-04-28 — 572 Until Dawn the Movie — speakers: Until Dawn, Sam Jackson, Mace Windu, Thumb Cramps, Jason Bourne, Turn Down Star
-- 2025-04-24 — The Bourne Identity - Caravan Of Garbage — speakers: Jason Bourne, Jason Bourne-universe, Doug Liman, Matt Damon, Julia Stiles, Brian Cox, Clive Owen, Chris Cooper
-- 2025-04-21 — 571 Sinners & Star Wars Celebration 2025 — speakers: Ryan Coogler, James Gunn, Darth Maul Animated
-- 2025-04-18 — Uncharted - Caravan Of Garbage — speakers: Tom Holland, Nathan Drake, Mark Whalberg
-- 2025-04-14 — 570 Black Mirror Season 7 — speakers: Josh Earl
-- 2025-04-11 — Wing Commander - Caravan Of Garbage — speakers: Mark Hamill, Matthew Lillard, Chris Roberts
-- 2025-04-06 — 569 A Minecraft Movie — speakers: Karate Kid, Quentin Tarrentino, David Fincher, Val Kilmer
-- 2025-04-03 — Street Fighter The Movie (Extended) - Caravan of Garbage — speakers: Kylie Minogue, Raul Julia
-- 2025-03-31 — 568 Avengers: Doomsday Cast & A Working Man (with Matt Stewart) — speakers: Matt Stewart, James Bond, Jason Statham, Snow White, New James Bond
-- 2025-03-27 — Double Dragon (Extended) - Caravan Of Garbage
-- 2025-03-24 — 567 Severance Season 2 (with Sammy Petersen) — speakers: Sammy Petersen, Jason Bourne, John Wick Ballerina, Jason Bourne Returns, Nick Mason
-- 2025-03-20 — Punisher: War Zone - Caravan Of Garbage — speakers: Ray Stevenson, Frank Castle, Lexi Alexander
-- 2025-03-17 — 566 The Electric State & Black Bag — speakers: Black Bag, John Wick, Sadie Sink, John Wick Universe
-- 2025-03-14 — The Punisher (2004) - Caravan Of Garbage — speakers: John Travolta, Frank Castle
-- 2025-03-10 — 565 Mickey 17 & Avengers Leaks — speakers: Latest License
-- 2025-03-06 — The Punisher (1989) - Caravan Of Garbage — speakers: Dolph Lundgren
-- 2025-03-02 — 564 Kathleen Kennedy GONE & Best/Worst Fantasy Movies (with Sanspants Radio) — speakers: Kathleen Kennedy, Jackson Baly, Joel Zammit, Michelle Trachtenberg Rip
-- 2025-02-27 — Elektra - Caravan Of Garbage — speakers: Jennifer Garner
-- 2025-02-24 — 563 The Monkey & James Bond/Amazon Deal — speakers: James Bond, James Gunn, Zack Snyder, Controls James Bond, James Gunn Zack
-- 2025-02-20 — Daredevil - Caravan Of Garbage — speakers: Ben Affleck, Matt Murdoch, Michael Clarke Duncan, Colin Farrell, Jennifer Garner
-- 2025-02-17 — 562 Captain America: Brave New World — speakers: Rebel Moon, Harry Potter
-- 2025-02-13 — Captain America: Civil War - Caravan Of Garbage — speakers: Tony Stark, Sokovia Accords
-- 2025-02-10 — 561 The Fantastic Four & Big Game Super Bowl Trailers — speakers: Anthony Mackie, Benson Boone
-- 2025-02-06 — Captain America: The Winter Soldier - Caravan Of Garbage — speakers: Steve Rogers, Nick Fury
-- 2025-02-02 — 560 Companion & Nosferatu — speakers: Anthony Mackie, Harry Potter, Netflix Cancel Sandman
-- 2025-01-30 — Captain America: The First Avenger - Caravan Of Garbage — speakers: Chris Evan, Steve Rogers, Joe Johnston, Hayley Atwell, Peggy Carter, Sebastian Stan, Bucky Barnes, Stanley Tucci
-- 2025-01-27 — 559 Most Anticipated Movies & Shows 2025 — speakers: Oscar Nominations, David Lynch, James Guest Appearance, Oscar Noms, wikipediabrown Maso
-- 2025-01-13 — Best of The Weekly Planet 2024 — speakers: Tom Holland, Outro James Twitter, wikipediabrown Maso
-- 2025-01-06 — The Greatest Action Movies of All Time - Clickbait Bonus Episode — speakers: James Twitter, wikipediabrown Maso
-- 2024-12-30 — 558 The Best & Worst of 2024 Awards — speakers: Christopher Nolan, Chris Nolan, Spider-Man Movie Latest, wikipediabrown Maso
-- 2024-12-23 — 557 Superman Trailer & Mufasa — speakers: James Gunn, Super Superman, James Bond, James Bond News, wikipediabrown Maso
-- 2024-12-19 — The Lord of the Rings: The Return of the King - Caravan Of Garbage
-- 2024-12-16 — 556 Kraven the Hunter — speakers: Chris Evans, Henry Cavill, Jeremy Allen White, Chris Evans Returns, Barbie Movie Sequel Update, wikipediabrown Maso
-- 2024-12-09 — 555 Creature Commandos & Skeleton Crew — speakers: Viggo Mortensen, Booster Gold, Nick Mason, James Gunn Explains, Alan Moore, Skeleton Crew Spoiler, wikipediabrown Maso
-- 2024-12-05 — The Lord of the Rings: The Two Towers - Caravan Of Garbage
-- 2024-12-02 — 554 Moana 2 — speakers: Moana Woah, Tom Cruise, Denis Villeneuve, Moana Spoiler
-- 2024-11-25 — 553 Wicked! Part 1 — speakers: James Gunn, Daniel Craig, James Gunn Talks, Daniel Craig Cast
-- 2024-11-21 — The Lord of the Rings: The Fellowship of the Rings - Caravan Of Garbage — speakers: Peter Jackon, Seasn Astin, Ian McKellen, Viggo Mortensen, Cate Blanchett, Ian Holm, Sean Bean, Orlando Bloom
-- 2024-11-18 — 552 Glad2ator & The Penguin — speakers: Dwayne Johnson, Tomb Raider, Amierca Brave Big Bird, wikipediabrown Maso
-- 2024-11-14 — Noah - Caravan Of Garbage — speakers: Darren Aronofsky, Russell Crowe, Rusty Crowe, Robin Hood
-- 2024-11-11 — 551 Red One & Big MCU Trailers! — speakers: Rock Johnson, Chris Evans, Daniel Craig, Dennis Villeneuve, James Gunn, Donald Trump Good, Denis Villeneuve, Quentin Tarantino
-- 2024-11-07 — Master & Commander: The Far Side of the World - Caravan Of Garbage — speakers: Rusty Crowe, Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy
-- 2024-11-04 — 550 Agatha All Along & Here — speakers: Robert Zemeckis, Ant Man Quantumania Made, Skeleton Crew Star, wikipediabrown Maso
-- 2024-10-31 — Gladiator - Caravan Of Garbage — speakers: Russell Crowe, Joaquin Phoenix, Connie Nielson, Djimon Hounsou, Richard Harris, Oliver Reed
-- 2024-10-28 — 549 Venom: The Last Dance — speakers: Christopher Nolan, Tom Holland, Alien Romulus, wikipediabrown Maso
-- 2024-10-24 — The Thing but 2011 - Caravan Of Garbage — speakers: Mary Elizabeth Winstead, Joel Edgerton
-- 2024-10-21 — 548 Krypto the Superdog & Trailers Galore! — speakers: Christopher Nolan, John Wick, Wolf Man, Tom Holland, John Wick Movie Re-Shoots, wikipediabrown Maso
-- 2024-10-17 — The Thing - Caravan Of Garbage — speakers: John Carpenter, Kurt Russell, Keith David, Rob Bottin, Ennio Morricone
-- 2024-10-14 — 547 Transformers One & Hellboy: The Crooked Man — speakers: Bird Man, Robert Downey Jr, Henry Cavill, Francis Ford Coppola, Aaron Pierre, Christopher Nolan, Zachery Levi, Henry Cavill Cast
-- 2024-10-10 — Oz the Great and Powerful - Caravan Of Garbage — speakers: Sam Raimi, James Franco, Michelle Williams, Milla Kunis, Rachael Weisz
-- 2024-10-07 — 546 Joker: Folie à Deux — speakers: Lee Quinzel, Kris Kristofferson, Andrew Garfield, Nicholas Cage, Rip Kris Kristofferson, Lead Cast, Better Man, Robbie Williams
-- 2024-10-03 — Return to Oz - Caravan Of Garbage — speakers: Jack Pumpkin Head
-- 2024-09-30 — 545 Megalopolis (mega-FLOP-olis) — speakers: Francis Ford Coppola, John Cassaday, Crook Bloke, Kyle Chandler, Green Lantern, James joins, Kyle Chandler Green, Megalopolis Spoiler
-- 2024-09-26 — The Wizard of Oz - Caravan Of Garbage
-- 2024-09-23 — Pop Culture in 2005 - James & Maso's Time Crapsule — speakers: James Twitter, wikipediabrown Maso
-- 2024-09-19 — Hellboy 2019 - Caravan Of Garbage — speakers: Ron Pearlman, David Harbour, Neil Marshall
-- 2024-09-16 — Morbius - The Weekly Planet Movie Commentary Track — speakers: James Twitter, wikipediabrown Maso
-- 2024-09-12 — Hellboy II: The Golden Army - Caravan Of Garbage — speakers: Ron Pearlman, Doug Jones
-- 2024-09-09 — 544 Beetlejuice Beetlejuice & Joker 2 First Reactions — speakers: Mcu Blade, Armor Wars, Ian McKellen, Josh Brolin, Hal Jordan, wikipediabrown Maso
-- 2024-09-05 — Hellboy - Caravan Of Garbage — speakers: Rob Pearlman, Doug Jones, Abe Sapien, Selma Blair, Liz Sherman, Ogdru Jahad
-- 2024-09-02 — 543 The Crow & Gambit Returns — speakers: wikipediabrown Maso
-- 2024-08-29 — Terminator 2: Judgment Day - Caravan Of Garbage — speakers: Arnold Schwarzenegger, Linda Hamilton, Sarah Connor, John Connor
-- 2024-08-26 — 542 The Acolyte Cancelled & Blink Twice — speakers: James Spader, Robert Downey Jr, Michael Keaton, Blink Twice
-- 2024-08-22 — The Terminator - Caravan Of Garbage — speakers: James Cameron, Gale Anne Hurd, Arnold Schwarzenegger, Linda Hamilton, Sarah Connor, John Connor, Michael Biehn, Kyle Reece
-- 2024-08-19 — 541 Alien: Romulus (with Alexei Toliopoulos) — speakers: Alexei Toliopoulos, Beau DeMayo, James Gunn, James Guests, Maso Guest, Disney Marvel, James Gunn Superman, wikipediabrown Maso
-- 2024-08-15 — Alien: Resurrection - Caravan Of Garbage — speakers: Sigourney Weaver
-- 2024-08-12 — 540 Borderlands & D23 Round-Up (Marvel, Star Wars, Tron: Ares) — speakers: Snow White, David Zaslav, wikipediabrown Maso
-- 2024-08-08 — Alien 3 - Caravan Of Garbage — speakers: Ellen Ripley, David Fincher
-- 2024-08-05 — 539 Trap! And Big MCU Rumors — speakers: Harrison Ford, Robert Downey Jr, wikipediabrown Maso
-- 2024-08-01 — Aliens - Caravan Of Garbage — speakers: James Cameron
-- 2024-07-29 — 538 Deadpool & Wolverine and SDCC 2024 — speakers: San Diego, Robert Downey Jr, Rebel Moon, Rude Edition, James Maso, Michael Bay Skibidi Toilet, Robert Downey Jr Returns, Doom Please
-- 2024-07-25 — Alien - Caravan Of Garbage
-- 2024-07-22 — 537 The Acolyte, The Boys & Longlegs — speakers: Comic Con, Robert Downey Jr, Terminator Zero, Kumail Nanjiani, Booster Gold, Rebel Moon, Rdj Return Rumour, wikipediabrown Maso
-- 2024-07-18 — Logan - Caravan Of Garbage — speakers: Hugh Jackman
-- 2024-07-15 — 536 Twisters & Despicable Me 4 (with Sanspants Radio) — speakers: Jackson Bailey, Joel Duscher, Shelly Duvall, Kevin Costners Horizon, wikipediabrown Maso
-- 2024-07-11 — The Wolverine - Caravan Of Garbage
-- 2024-07-08 — 535 Beverly Hills Cop: Axel F & Inside Out 2 (with Bron Lewis) — speakers: Bron Lewis, Claire Tonti, Rumour Hellboy, wikipediabrown Maso
-- 2024-07-04 — X-Men Origins: Wolverine - Caravan Of Garbage — speakers: Hugh Jackman
-- 2024-07-01 — 534 A Quiet Place: Day One — speakers: Harry Potter, Jeffrey Combs Film Festival, wikipediabrown Maso
-- 2024-06-27 — Kick-Ass 2 - Caravan Of Garbage — speakers: Jim Carrey, Dave Lizewski
-- 2024-06-24 — 533 Blade Troubles & Immaculate, Abigail, Sting — speakers: Donald Sutherland, Caped Crusader, Jordan Peele, Rip Donald, wikipediabrown Maso
-- 2024-06-20 — Kick-Ass - Caravan Of Garbage — speakers: Mark Millar, Dave Lizewski
-- 2024-06-17 — 532 The Boys Season 4 Premiere — speakers: Dwayne Johnson, Harry Potter, Zack Snyder, Ben Potter, Dwayne Johnson Disney, Zack Snyder Reveals Rebel, Cuts Doom, wikipediabrown Maso
-- 2024-06-13 — Assassin's Creed - Caravan Of Garbage — speakers: Michael Fassbender
-- 2024-06-10 — 531 Hit Man & The Acolyte — speakers: Richard Linklater, Glen Powell, Adria Arjona, Jordan Peele, Wonder Woman, wikipediabrown Maso
-- 2024-06-06 — Warcraft - Caravan Of Garbage — speakers: Duncan Jones
-- 2024-06-03 — 530 The Most Insane Hollywood Development Deals — speakers: Mad Max, Chris Hemsworth, Popcorn Bucket, Announce More AI, Zack Snyder, Mummy Prequel Movie, wikipediabrown Maso
-- 2024-05-30 — Prince of Persia: The Sands of Time - Caravan Of Garbage — speakers: Jacob Gyllenhaal
-- 2024-05-27 — 529 Furiosa: A Mad Max Saga — speakers: Liam Hemsworth, Adam Wingard, Beverley Hills Cop, Beetlejuice Beetlejuice, Pixar Lay-Offs, Dwayne Johnson, wikipediabrown Maso
-- 2024-05-23 — Max Payne - Caravan Of Garbage — speakers: Max Payne Caravan, Max Payne, Mark Wahlberg
-- 2024-05-20 — 528 X-Men '97 — speakers: Nicholas Cage, Tomb Raider, John Wick, Mad Max, Spider-Man Noir, Nic Cage, Croft Tomb Raider Amazon, Donnie Yen
-- 2024-05-16 — War for the Planet of the Apes - Caravan Of Garbage — speakers: Wesley McCullough
-- 2024-05-13 — 527 Kingdom of the Planet of the Apes — speakers: Roger Corman, James Gunn, Dwayne Johnson, Caped Crusader, Mad Max, wikipediabrown Maso
-- 2024-05-09 — Dawn of the Planet of the Apes - Caravan Of Garbage
-- 2024-05-06 — 526 Dwayne Johnson Drama & Hollywood Divas — speakers: Rock Johnson, Chris Hemsworth, Jeff Brides, Jeff Bridges Returns, Dwayne Johnson, wikipediabrown Maso
-- 2024-05-02 — Rise of the Planet of the Apes - Caravan Of Garbage — speakers: Andy Serkis
-- 2024-04-29 — 525 The Fall Guy and Deadpool & Wolverine Trailer — speakers: Matt Stewart, Tom Cruise, wikipediabrown Maso
-- 2024-04-25 — Mad Max: Fury Road - Caravan Of Garbage — speakers: Mel Gibson, Tom Hardy, Mad Max
-- 2024-04-22 — 524 Rebel Moon - Part Two: The Scargiver — speakers: Zack Snyder, Rebel Moon, David Zazslav, wikipediabrown Maso
-- 2024-04-18 — Mad Max: Beyond Thunderdome - Caravan Of Garbage — speakers: Mel Gibsons, Max Rockatansky, Tina Turner, Gary Stephen
-- 2024-04-15 — 523 Civil War & Joker: Folie à Deux Trailer — speakers: Thunderbolts Asterix, Joker Folie, Iron Man, Zack Snyder, Iron Man Return, Robbie Monopoly, wikipediabrown Maso
-- 2024-04-11 — Mad Max 2: The Road Warrior - Caravan Of Garbage — speakers: George Miller, Mad Max
-- 2024-04-08 — 522 Monkey Man & Silver Surfing Casting — speakers: Bob Igers, Dune Iii news, Dev Patel, Monkey Man, Do Go, Bob Iger's Big Win, wikipediabrown Maso
-- 2024-04-04 — Mad Max - Caravan Of Garbage — speakers: Max Caravan, Max Fury Road, Mad Max, George Miller, Melvin Gibson
-- 2024-04-01 — 521 Godzilla x Kong: The New Empire — speakers: Do Go, Disney Marvel, wikipediabrown Maso
-- 2024-03-28 — King Kong 1933 - Caravan Of Garbage
-- 2024-03-25 — 520 Ghostbusters: Frozen Empire — speakers: Frozen Empire, James Bond, Beetlejuice Beetlejuice, Aaron Taylor-Johnson, wikipediabrown Maso
-- 2024-03-21 — Godzilla 1954 - Caravan Of Garbage
-- 2024-03-18 — 519 Best & Worst Legacy Sequels — speakers: Neve Campbell, Ryan Gosling, Henry Cavill, Shang Chi, Patty Jenkins Back, wikipediabrown Maso
-- 2024-03-14 — The Real Ghostbusters - Caravan Of Garbage
-- 2024-03-11 — 518 Should Batman Kill & The Oscars 2024 — speakers: Akira Toriyama, Bradley Cooper, Zack Snyder, Rebel Moon, wikipediabrown Maso
-- 2024-03-07 — The Legend Of Zorro - Caravan Of Garbage — speakers: Antonio Banderas, Catherine Zeta Jones
-- 2024-03-04 — 517 Dune: Part Two — speakers: Kevin Costner Cowboy, wikipediabrown Maso
-- 2024-02-29 — The Mask Of Zorro - Caravan Of Garbage — speakers: Antonio Banderas, Anthony Hopkins, Catherine Zeta-Jones, Martin Campbell, Good Zorro-ing
-- 2024-02-26 — 516 Avatar: The Last Airbender — speakers: Batman Beyond, Henry Cavill, wikipediabrown Maso
-- 2024-02-22 — The Last Airbender - Caravan Of Garbage
-- 2024-02-19 — 515 Madame Web & The Fantastic Four Casting — speakers: Miles Morales, wikipediabrown Maso
-- 2024-02-15 — Spider-Man: No Way Home - Caravan Of Garbage — speakers: Andrew Garfield
-- 2024-02-12 — 514 Superbowl 2024 Trailers! Deadpool & Wolverine! — speakers: wikipediabrown Maso
-- 2024-02-08 — Spider-Man: Far From Home - Caravan Of Garbage — speakers: Tony Stark Iron Man, Peter Parker, Nick Fury
-- 2024-02-05 — 513 Argylle (from the Twisted Mind of Matthew Vaughn) — speakers: Matthew Vaughn, Carl Weathers, Monkey Man, wikipediabrown Maso
-- 2024-02-01 — Spider-Man: Homecoming - Caravan Of Garbage — speakers: Peter Park, Tom Holland, Michael Keaton, Tony Stark Iron Man
-- 2024-01-29 — 512 Most Anticipated Movies & Shows 2024 — speakers: Rey Movie, Mando Movie, Top Gun, Tom Cruise, Indy Game, wikipediabrown Maso
-- 2024-01-15 — Best of The Weekly Planet 2023 — speakers: Rebel Moon, James Twitter, wikipediabrown Maso
-- 2024-01-01 — 511 The Best & Worst of 2023 (& Aquaman 2 I guess) — speakers: Rob Collings, Nick Mason, James Gunn, wikipediabrown Maso
-- 2023-12-25 — 510 Rebel Moon: Part One - A Child On Fire — speakers: Rebel Moon, Zack Snyder's Star, wikipediabrown Maso
-- 2023-12-21 — Zach Snyder's Justice League - Caravan Of Garbage — speakers: Zach Snyder, Zack Snyder, Ray Fisher
-- 2023-12-18 — 509 Wonka Prequel — speakers: James Gunn, James Gunn Hates, Dwayne Johnson Safdie Brothers, wikipediabrown Maso
-- 2023-12-14 — Charlie & The Chocolate Factory - Caravan Of Garbage — speakers: Tim Burton, Johnny Depp, Gene Wilder
-- 2023-12-11 — 508 Doctor Who 60th Anniversary Specials — speakers: David Tennant, Hugh Grant, Sean Gunn, wikipediabrown Maso
-- 2023-12-07 — Godzilla VS Kong - Caravan Of Garbage
-- 2023-12-04 — 507 Godzilla Minus One — speakers: Zach Snyder, Dark Knight, Jordan Vogt-Roberts, wikipediabrown Maso
-- 2023-11-30 — Godzilla: King of the Monsters - Caravan Of Garbage — speakers: King Ghidora
-- 2023-11-27 — 506 Napoleon (the horny little rat man) — speakers: Melissa Barrera, Lex Luthoer, Dave Filoni, Karate Kid, wikipediabrown Maso
-- 2023-11-23 — Kong: Skull Island - Caravan Of Garbage — speakers: Tom Hiddleston, Brie Larson, Sam Jackson
-- 2023-11-20 — 505 Madame Web & Three Hour Hunger Games Prequel — speakers: Pedro Pascal, wikipediabrown Maso
-- 2023-11-16 — Godzilla 2014 - Caravan Of Garbage — speakers: Gareth Edwards, Bryan Cranston
-- 2023-11-13 — 504 The Marvels & The End of the Actors Strike! — speakers: Kevin Feige, Frozen Empire, Kevin Feige Star, Jeremy Allen White, wikipediabrown Maso
-- 2023-11-09 — The Hunger Games: Mockingjay Part II - Caravan Of Garbage — speakers: Julianne Moore
-- 2023-11-06 — 503 Crisis At Marvel & The Killer Review — speakers: David Fincher, Nicholas Cage, Nic Cage Talks, Joe Biden, wikipediabrown Maso
-- 2023-11-02 — The Hunger Games: Mockingjay Part I - Caravan Of Garbage — speakers: Harry Potter
-- 2023-10-30 — 502 Saw X & Five Nights at Freddy's — speakers: Max Landis, Spider-Man Thor Latest News, wikipediabrown Maso
-- 2023-10-26 — The Hunger Games: Catching Fire - Caravan Of Garbage — speakers: Jennifer Lawrence, Phillip Seymor Hoffman
-- 2023-10-23 — 501 Killers of the Flower Moon & Reboot Star Wars! — speakers: Brie Larson, Matthew Vaughn, wikipediabrown Maso
-- 2023-10-19 — The Hunger Games - Caravan Of Garbage — speakers: Jennifer Lawrence
-- 2023-10-16 — 500 Best, Worst & Weirdest Movies of the Last Ten Years — speakers: Keith Giffen, Zack Snyder, wikipediabrown Maso
-- 2023-10-12 — The Green Hornet - Caravan Of Garbage — speakers: Michel Gondry, Christoph Waltz, Jay Chou, Cameron Diaz
-- 2023-10-09 — 499: Ahsoka, Loki S2 and The Beekeeper — speakers: Taylor Swift Deadpool, James Gunn, wikipediabrown Maso
-- 2023-10-05 — The Phantom - Caravan Of Garbage — speakers: Starring Billy Zane, Kit Walker
-- 2023-10-02 — 498 The Creator & The DCU Hasn't Started Yet — speakers: Martin Scorsese, David McCallum, Matthew Vaughn, wikipediabrown Maso
-- 2023-09-28 — The Shadow - Caravan Of Garbage — speakers: Tim Burton, Alec Baldwin, Bruce Wayne, Lamont Cranston
-- 2023-09-25 — 497 No One Will Save You — speakers: Tim Burton, Chris Evans, John Wick Prequel, wikipediabrown Maso
-- 2023-09-21 — The Rocketeer - Caravan Of Garbage — speakers: Joe Johnston
-- 2023-09-18 — 496 Blue Beetle & Aquaman 2 Trailer — speakers: Blue Beetle, wikipediabrown Maso
-- 2023-09-14 — Dick Tracy - Caravan Of Garbage — speakers: Dick Tracey, Warren Beatty, Al Pacino, Dustin Hoffman, James Cann
-- 2023-09-11 — 495 One Piece & The Rotten Tomatoes Scandal — speakers: Sam Raimi, Taylor Swift, wikipediabrown Maso
-- 2023-09-07 — RoboCop 2014 - Caravan Of Garbage — speakers: Joel Kinnerman, Alex Murphy, Michael Keaton, Jack Earl Haley, Abbie Cornish, Sam Jackson
-- 2023-09-04 — 494 TMNT: Mutant Mayhem & James Gunn Cancelled — speakers: James Gunn, Arleen Sorkin, Nick Mason, Disney Cancelling, James Gunn Again, wikipediabrown Maso
-- 2023-08-31 — RoboCop 3 - Caravan Of Garbage — speakers: Peter Weller, Robert John Burke
-- 2023-08-28 — 493 Ahsoka & Rebel Moon Trailer — speakers: Zach Snyder, Rebel Moon, Mayhem Helps Make, wikipediabrown Maso
-- 2023-08-24 — RoboCop 2 - Caravan Of Garbage — speakers: Peter Weller
-- 2023-08-21 — 492 Blue Beetle Bombs & Hollywood Urban Legends — speakers: Jack Druce, Disney Gets, Barbie Beats Batman, wikipediabrown Maso
-- 2023-08-18 — RoboCop - Caravan of Garbage — speakers: Paul Verhoeven, Peter Weller
-- 2023-08-14 — 491 The Last Voyage of the Demeter (Dracula on a Boat) — speakers: Somehow Dracula, David Ayer, Rip William Friedkin, Bob Iger, William Friedkin, wikipediabrown Maso
-- 2023-08-10 — Star Wars: Rebels Finale - Caravan Of Garbage — speakers: Lars Mikkelsen, Ezra Bridger
-- 2023-08-07 — 490 The Meg 2 & Controversies Galore — speakers: Stephen Amell, Matt Stewart, Stephen Amell Sag-Aftra Strike, wikipediabrown Maso
-- 2023-08-03 — Ninja Turtles: Out Of The Shadows - Caravan of Garbage
-- 2023-07-31 — 489 Secret Invasion & Talk To Me — speakers: Wrong Lesson, Barbie Movie Sequel, wikipediabrown Maso
-- 2023-07-27 — Michael Bay's Ninja Turtles - Caravan Of Garbage — speakers: Michael Bay, Megan Fox, April O'Niel
-- 2023-07-24 — 488 Barbie & Oppenheimer — speakers: Tom Cruise, wikipediabrown Maso
-- 2023-07-20 — Masters Of The Universe - Caravan Of Garbage — speakers: Dolph Lundgren
-- 2023-07-17 — 487 Mission Impossible: Dead Reckoning Part I — speakers: Hugh Jackman, wikipediabrown Maso
-- 2023-07-13 — Mission Impossible: Fallout - Caravan Of Garbage — speakers: Solomon Lane, Henry Cavill
-- 2023-07-10 — 486 Big Brands & Big Bombs — speakers: Shang Chi, Shang-Chi Sequel, Harrison Ford Movies, wikipediabrown Maso
-- 2023-07-07 — Mission Impossible: Rogue Nation - Caravan Of Garbage — speakers: Tom Cruise, Ethan Hunt, Sean Harris, Solomon Lane, Rebecca Ferguson
-- 2023-07-03 — 485 Indiana Jones and The Dial of Destiny — speakers: Harrison Ford, Alan Arkin, James Gunn’s Superman, Tom Cruise, David Corenswet, Indiana Jones, wikipediabrown Maso
-- 2023-06-29 — Mission Impossible: Ghost Protocol - Caravan Of Garbage — speakers: Tom Cruise, Jeremy Renner, Paula Patton, Simon Peggs Benji, Ving Rhames Luther
-- 2023-06-26 — 484 The Flash Bombs & Extraction 2/Black Mirror — speakers: Rotten Tomatoes, wikipediabrown Maso
-- 2023-06-22 — Indiana Jones & The Kingdom Of The Crystal Skull - Caravan Of Garbage — speakers: Harrison Ford
-- 2023-06-19 — 483 The Flash — speakers: John Romita Snr, Christopher Nolan, John Romita Sr, wikipediabrown Maso
-- 2023-06-15 — Indiana Jones & The Last Crusade - Caravan Of Garbage
-- 2023-06-12 — 482 Transformers: Rise of the Beasts — speakers: Chris Hemsworth, James Gunn Superman, wikipediabrown Maso
-- 2023-06-08 — Indiana Jones & The Temple Of Doom - Caravan Of Garbage — speakers: Ke Huy Quan, Kate Capshaw, Willie Scott
-- 2023-06-05 — 481 Spider-Man: Across the Spider-Verse — speakers: Spider-Man Across, Kim Cattrall, Miles Morales, Tom Cruise, Christopher Nolan, Jason Momoa, wikipediabrown Maso
-- 2023-06-01 — Indiana Jones & The Raiders Of The Lost Ark - Caravan Of Garbage — speakers: Harrison Ford, Steven Speilberg, George Lucas
-- 2023-05-29 — 480 More MCU Delays & The Little Mermaid (with Claire Tonti) — speakers: Claire Tonti, James Cameron, wikipediabrown Maso
-- 2023-05-25 — Transformers: The Movie - Caravan Of Garbage
-- 2023-05-22 — 479 Fast X — speakers: Jake Extraction, Rick Dalton, wikipediabrown Maso
-- 2023-05-18 — Furious 7 - Caravan Of Garbage
-- 2023-05-15 — 478 Longest Running Franchises — speakers: Nick Mason, Zack Snyder’s DC, wikipediabrown Maso
-- 2023-05-11 — Fast & Furious 6 - Caravan Of Garbage — speakers: Owen Shaw
-- 2023-05-08 — 477 Guardians of the Galaxy Vol. 3 — speakers: Mortal Kombat, wikipediabrown Maso
-- 2023-05-04 — Fast 5 (Extended) - Caravan of Garbage — speakers: Paul Walker, Vin Diesel, com wikipediabrown
-- 2023-05-01 — 476 CinemaCon 2023 & Superhero Showdown! — speakers: wikipediabrown Maso
-- 2023-04-27 — Fast & Furious 4 - Caravan Of Garbage — speakers: Paul Walkers Brian O'Conner
-- 2023-04-24 — 475 Evil Dead Rise & The Mandalorian Season 3 — speakers: Michelle Yeoh, John Boyega, wikipediabrown Maso
-- 2023-04-20 — Batman & Robin - Caravan Of Garbage — speakers: George Clooney, Val Kilmer, Michael Keaton
-- 2023-04-17 — 474 The Marvels Trailer, HBO Max Reboot & Aunty Donna are here! — speakers: Harry Potter, Coffee Cafe, Aunty Donna, Muerto Movie, Andy Serkis, wikipediabrown Maso
-- 2023-04-13 — Batman Forever - Caravan Of Garbage — speakers: Joel Schumacher, Val Kilmer, Bruce Wayne
-- 2023-04-10 — 473 The Super Mario Bros. Movie & Star Wars Celebration — speakers: Dave Fioni, Rey Skywalker, Jedi Order, Harry Potter, Perlmutter Update, Spider-Man Across, Skeleton Crew, Dave Filoni
-- 2023-04-06 — The Wizard & Super Mario Bros. - Caravan Of Garbage — speakers: Mega Man, Teenage Mutant
-- 2023-04-03 — 472 Dungeons & Dragons: Honor Among Thieves — speakers: Ike Perlmutter, Liv Tyler Returns, Nick Mason, wikipediabrown Maso
-- 2023-03-30 — Pixels - Caravan Of Garbage
-- 2023-03-27 — 471 John Wick: Chapter 4 — speakers: John Wick, Lady Gaga, Harley Quinn, Nick Mason, wikipediabrown Maso
-- 2023-03-23 — Dungeons & Dragons (2000) - Caravan Of Garbage — speakers: Chris Pine, Jimmy Olsen
-- 2023-03-20 — 470 Shazam! Fury of the Gods — speakers: Lance Reddick, Tom Cruise, James Gunn, Reddick Rip, Ben Affleck, James Gunn Confirms Superman, Nick Mason, wikipediabrown Maso
-- 2023-03-16 — Batman Returns - Caravan Of Garbage — speakers: Tim Burton, Michael Keaton, Batman Returns, Danny DeVito, Max Shreck
-- 2023-03-13 — 469 Scream VI & 65 Dinosaurs Movie — speakers: James Gunn, John Bernthal, James Gunn Superman, Dinosaurs Movie, wikipediabrown Maso
-- 2023-03-09 — Supergirl 1984 - Caravan Of Garbage — speakers: Sasha Calle, Laura Vandervoort, Melissa Benoist, Reeve Superman, Helen Slater
-- 2023-03-06 — 468 Creed III — speakers: Mayhem Cast, wikipediabrown Maso
-- 2023-03-02 — The Flash (1990) - Caravan Of Garbage — speakers: John Wesley Shipp
-- 2023-02-27 — 467 Cocaine Bear & More Lord Of The Rings — speakers: Steven Yeun's Character, Ant Man, James Gunn, wikipediabrown Maso
-- 2023-02-23 — Shrek Forever After - Caravan of Garbage — speakers: com wikipediabrown
-- 2023-02-19 — 466 Ant-Man and the Wasp: Quantumania — speakers: John Wick Chapter, John Wick, Lady Gaga, Harley Quinn, Ezra Miller, Harrison Ford, wikipediabrown Maso
-- 2023-02-16 — Shrek The Third - Caravan Of Garbage — speakers: Justin Timberlake, Eric Idle
-- 2023-02-13 — 465 Super Bowl 2023 Trailers! — speakers: George Clooney, Dick Tracy, Clooney Batman Returns, Vin Diesel, Riddick Returns, Indiana Jones, James Twitter, wikipediabrown Maso
-- 2023-02-09 — Shrek 2 - Caravan Of Garbage
-- 2023-02-06 — 464 DCU Slate Reveal & Knock At The Cabin (with Michelle Brasier) — speakers: Michelle Brasier, Aunty Donna, James Gunn, Peter Safran, wikipediabrown Maso
-- 2023-02-02 — Shrek - Caravan Of Garbage — speakers: Mike Myers, Eddie Murphy, Cameron Diaz
-- 2023-01-30 — 463 M3GAN & Everything Is Getting Cancelled — speakers: wikipediabrown Maso
-- 2023-01-23 — 462 Most Anticipated Movies & Shows 2023 — speakers: James Gunn, Jeremy Renner, Jason Momoa, Michael Bay Did, wikipediabrown Maso
-- 2023-01-01 — Best of The Weekly Planet 2022 — speakers: Tom Holland, James Bond Pitch, wikipediabrown Maso
-- 2022-12-26 — 461 The Best & Worst of 2022 — speakers: Gal Gadot, Tom Cruise, wikipediabrown Maso
-- 2022-12-19 — 460 Avatar: The Way Of Water — speakers: Henry Cavill, Wonder Woman, Chris Nolan, Donald Glover Spider-Man Spin-Off, Patty Jenkins, Black Adam, Adam Driver, wikipediabrown Maso
-- 2022-12-15 — Avatar (Extended) - Caravan of Garbage — speakers: com wikipediabrown
-- 2022-12-12 — 459 A Big DC Movie Shake Up — speakers: James Gunn, Patty Jenkins Wonder Woman, Henry Cavill, Claire Tonti, Robert Pattinson Sci-Fi, Beyond Movie, Superman Return, Jedi Survivor
-- 2022-12-08 — Titanic - Caravan of Garbage — speakers: James Cameron’s Titanic, Kate Winslet
-- 2022-12-05 — 458 Glass Onion + Guardians Vol 3 & Indiana Jones 5 Trailers — speakers: Rian Johnson, Nick Mason, James Gunn, wikipediabrown Maso
-- 2022-12-01 — The Abyss - Caravan of Garbage — speakers: James Cameron, Starring Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn
-- 2022-11-28 — 457 The Guardians of the Galaxy Holiday Special — speakers: James Gunn, Bob Iger, Nick Mason, wikipediabrown Maso
-- 2022-11-24 — Batman: The Killing Joke - Caravan Of Garbage — speakers: Alan Moore-athon, Paul Dini, Kevin Conroy, Mark Hamill
-- 2022-11-21 — 456 Remembering Kevin Conroy — speakers: Kevin Conroy, Steven Spielberg, Chris Hemsworth, Terrific Teased, wikipediabrown Maso
-- 2022-11-17 — V For Vendetta - Caravan Of Garbage — speakers: Natalie Portman, Alan Moore
-- 2022-11-14 — 455 Black Panther: Wakanda Forever — speakers: Wakanda Forever, Chadwick Boseman, John Wick, Kevin Conroy, Kong Movie, Tom Holland Spider-Man, James Gunn, Jason Momoa
-- 2022-11-10 — The League Of Extraordinary Gentlemen - Caravan Of Garbage — speakers: Alan Moore-athon, Alan Quartermaine
-- 2022-11-07 — 454 More Franchises 4ever & Don't Worry Darling — speakers: Worry Darling, James Gunn, wikipediabrown Maso
-- 2022-11-03 — From Hell - Caravan Of Garbage — speakers: Alan Moore, Starring Johnny Depp, Heather Graham, Ian Holm
-- 2022-10-31 — 453 James Gunn Takes Over DC & HALLOWEEN SPOOKY TIMES BOO — speakers: James Gunn, Matt Perry, Ant Man, Henry Cavill, wikipediabrown Maso
-- 2022-10-27 — Bram Stoker's Horny Dracula - Caravan Of Garbage — speakers: Bram Stoker, Francis Ford, Gary Oldman, Anthony Hopkins, Winona Ryder
-- 2022-10-24 — 452 Black Adam — speakers: Black Adam, Adam Driver, Michael Keaton Batman Return, wikipediabrown Maso
-- 2022-10-20 — The Scorpion King - Caravan Of Garbage
-- 2022-10-17 — 451 Halloween (Probably) Ends — speakers: Harrison Ford, John Carpenter, Liam Neeson Naked, wikipediabrown Maso
-- 2022-10-13 — Man-Thing (Extended) - Caravan Of Garbage — speakers: Avi Arad
-- 2022-10-10 — 450 A Werewolf? By Night? — speakers: Henry Cavill, wikipediabrown Maso
-- 2022-10-06 — The Incredible Hulk - Caravan Of Garbage — speakers: Edward Norton, Bruce Banner
-- 2022-10-03 — 449 Hugh Jackman RETURNS As Wolverine — speakers: Ryan Reynolds, Hugh Jackman, Harrison Ford, Bruce Willis AI, Blade Movie Troubles Mason, wikipediabrown Maso
-- 2022-09-29 — Hulk (2003) - Caravan Of Garbage — speakers: Eric Bana
-- 2022-09-26 — 448 Andor (Star Wars is good again we think?) — speakers: James Bond, Hulk Catch-Up, wikipediabrown Maso
-- 2022-09-22 — The Hobbit: The Battle Of The Five Armies - Caravan Of Garbage
-- 2022-09-19 — 447 Nope, Prey, Sandman & Pinocchio — speakers: Blade Runner, Prey Spoiler, wikipediabrown Maso
-- 2022-09-15 — The Hobbit: The Desolation of Smaug - Caravan of Garbage — speakers: Benedict Cumberbatch, com wikipediabrown
-- 2022-09-12 — 446 D23 (Marvel, Star Wars, Live Action remakes for eternity) — speakers: Joker Movie Hot, Kevin Feige Search, Percy Jackson, Snow White, Peter Pan, Hot Scoop, wikipediabrown Maso
-- 2022-09-08 — The Hobbit: An Unexpected Journey - Caravan Of Garbage — speakers: Peter Jackson
-- 2022-09-05 — 445 The Never Ending DC Disaster — speakers: Kevin Feige, Kevin Feige How, wikipediabrown Maso
-- 2022-08-29 — James & Maso's Time Crapsule! - Big Sandwich Bonus Content! — speakers: Tina Turner
-- 2022-08-22 — X-Men Wolverine Origins Movie Commentary - Big Sandwich Bonus Content! — speakers: Wolverine Origins
-- 2022-08-15 — Comic Book Club (and it's Morbius) - Big Sandwich Bonus Content! — speakers: Keanu Reeve, Shang Chi, revisit monthbius
-- 2022-08-08 — We Got, We Got This Covered, Covered - Big Sandwich Bonus Content! — speakers: Comic Book Movie
-- 2022-07-28 — Aliens VS Predator: Requiem - Caravan Of Garbage — speakers: Avp Requiem
-- 2022-07-25 — 444 Best & Worst of Comic Con 2022 — speakers: John Wick, Alan Grant, Prequel Preview, wikipediabrown Maso
-- 2022-07-18 — 443 Deciphering Marvel's Phase Four — speakers: Cinema Multiverse, Steven Spielberg, wikipediabrown Maso
-- 2022-07-11 — 442 Thor: Love and Thunder & The Boys Season 3 — speakers: James Cameron, wikipediabrown Maso
-- 2022-07-07 — Thor: The Dark World (Extended) - Caravan Of Garbage — speakers: Chris Harmsworth, Tom Hiddleston, Natalie Portman, Jane Foster
-- 2022-07-04 — 441 Best/Worst of Star Trek and Comic Con Preview — speakers: Comic Con, Ben Russell, James Bond, Taika Waititi, Millie Bobby Brown, Russo Bros, wikipediabrown Maso
-- 2022-06-30 — Thor (2011) - Caravan Of Garbage — speakers: Kenneth Branagh, Chris Hemsworth, Tom Hiddleston, Natalie Portman, Jane Foster, Anthony Hopkins, Rene Russo
-- 2022-06-27 — 440 The Umbrella Academy Season 3 — speakers: John Williams, Kevin Feige, wikipediabrown Maso
-- 2022-06-23 — Star Wars: The Clone Wars 2008 - Caravan Of Garbage — speakers: George Lucas
-- 2022-06-19 — 439 Lightyear & Joker 2: The Musical — speakers: Ezra Miller, Tim Sale Rip, Guy Ritchie Hercules Movie, Lady Gaga, Disney Pixar, wikipediabrown Maso
-- 2022-06-16 — Jurassic Park III - Caravan Of Garbage — speakers: Sam Neil, Alan Grant, Laura Dern, Ellie Sattler
-- 2022-06-13 — 438 Jurassic World: Dominion — speakers: Duke Nukem Movie, Joker Sequel Folie, wikipediabrown Maso
-- 2022-06-09 — The Lost World: Jurassic Park - Caravan Of Garbage — speakers: Steven Spielberg
-- 2022-06-06 — 437 The Boys & Morbius Returns — speakers: Stark Trek, wikipediabrown Maso
-- 2022-06-02 — Jurassic Park - Caravan Of Garbage — speakers: Steven Spielberg
-- 2022-05-30 — 436 Star Wars Celebration & Top Gun: Maverick — speakers: Abrams Thor, Taika Waititi, Indiana Jones, Maverick Review, Two Review, wikipediabrown Maso
-- 2022-05-26 — Star Wars: Revenge of the Sith - Caravan Of Garbage — speakers: George Lucas, Anakin Skywalker, Darth Vader
-- 2022-05-23 — 435 She Hulk Controversy & Chip 'n' Dale — speakers: Stan Lee Cameos, Kevin Feige, Kathleen Kennedy, wikipediabrown Maso
-- 2022-05-16 — 434 Avatar 2 Trailer & Multiverse of Madness Exclusive — speakers: George Pérez Rip, Adam Driver, Megalopolis Movie, Alan Ritchson, Dan Stevens, Godzilla vs Kong, Christopher Walken, wikipediabrown Maso
-- 2022-05-09 — 433 Doctor Strange in the Multiverse of Madness — speakers: Sam Raimi, Wan Kenobi, Ranking Multiverse, wikipediabrown Maso
-- 2022-05-05 — Star Wars: Attack Of The Clones - Caravan Of Garbage — speakers: Anakin Skywalker
-- 2022-05-02 — 432 The Future Of SPUMM & Best Movie Cameos — speakers: Andrew Garfield, Michael Caine, Best Cameos, wikipediabrown Maso
-- 2022-04-25 — 431 The Death Of Netflix & The Northman — speakers: Ezra Miller Bad News, wikipediabrown Maso
-- 2022-04-21 — Star Wars: The Phantom Menace - Caravan Of Garbage — speakers: George Lucas, Qui-Gon Jinn, Jar Jar Binks
-- 2022-04-18 — 430 Another DC Reshuffle & Everything Everywhere All at Once — speakers: Nick Mason, Ezra Miller Flash, Strange Multiverse, wikipediabrown Maso
-- 2022-04-11 — 429 Fantastic Beasts again I guess — speakers: Will Smith, Brie Larson, Nicolas Cage Ama, Raimi Spider-Man Possible Star, Ezra Miller, wikipediabrown Maso
-- 2022-04-07 — Green Lantern - Caravan Of Garbage — speakers: Green Lantern Caravan, Ryan Reynolds, Martin Campbell, James Bond Twice
-- 2022-04-04 — 428 MORBIUS. Morbius — speakers: Bruce Willis, Ezra Miller, wikipediabrown Maso
-- 2022-03-31 — The Losers - Caravan of Garbage
-- 2022-03-28 — 427 Worst Movie & Series Spin-Offs
-- 2022-03-24 — Jonah Hex - Caravan of Garbage — speakers: Jonah Hex Caravan, Jonah Hex, Josh Brolin, Megan Fox, Michael Fassbender, John Malkovich
-- 2022-03-21 — 426 Best Movie & Series Spin-Offs — speakers: Nick Fury, wikipediabrown Maso
-- 2022-03-17 — Constantine - Caravan Of Garbage
-- 2022-03-14 — 425 Kenobi Trailer & Big DC Delays — speakers: Ben Affleck, Florence Pugh, Wan Kenobi, Adam Project
-- 2022-03-10 — Catwoman - Caravan Of Garbage — speakers: Halle Berry
-- 2022-03-07 — 424 The Batman! — speakers: Da Bat, Matt Reeves, Every Sequel Hint
-- 2022-03-03 — Twilight: Breaking Dawn Part II - Caravan Of Garbage
-- 2022-02-28 — 423 Ranking Every Batman Movie — speakers: Penguin Spin-Off, Steven Spielberg, Tom Holland, James Bond Pitch, Charlie Cox Daredevil
-- 2022-02-24 — Twilight: Breaking Dawn Part I - Caravan Of Garbage
-- 2022-02-21 — 422 Peacemaker & Uncharted — speakers: Tom Holland, Ivan Reitman, Francis Ford, Strange Multiverse
-- 2022-02-17 — Twilight: Eclipse - Caravan Of Garbage — speakers: Peak Twilight
-- 2022-02-14 — 421 Book of Boba Fett & Super Bowl Trailers Ahoy! — speakers: Zack Snyder’s Star, Blade Runner, Jordan Peele, Boba Fett Spoiler
-- 2022-02-10 — Twilight: New Moon - Caravan Of Garbage — speakers: Edward Cullen, Jacob Black
-- 2022-02-07 — 420 My God. It's Moonfall time — speakers: Roland Emmerich, Batman Begins, Boba Fett
-- 2022-02-03 — Twilight - Caravan Of Garbage — speakers: Robert Pattinson, Bruce Wayne, Edward Cullen
-- 2022-01-31 — 419 Most Anticipated Movies & Shows 2022 — speakers: Tom Cruise, Michael Morbius Delayed, Idris Elba Bond, Joss Whedon
-- 2022-01-10 — Best of The Weekly Planet 2021 — speakers: Rob Collings
-- 2022-01-03 — 418 The Best & Worst of 2021 — speakers: Boba Fett, Best Worst, Betty White, Tom Holland
-- 2021-12-27 — 417 Somehow The Matrix has returned — speakers: Michael Keaton, Zod Returns, Movie Box, Spider-Man Secret Wars
-- 2021-12-23 — The Animatrix - Caravan Of Garbage
-- 2021-12-20 — 416 Spider-Man: No Way Home — speakers: Beetle Release, Tom Holland, Fred Astaire Dr, Strange Reshoots
-- 2021-12-16 — Japanese Spider-Man Is Bonkers - Caravan Of Garbage — speakers: Peter Parker
-- 2021-12-13 — 415 Spider-Man Eve & Ghostbusters: Afterlife — speakers: Cowboy Bebop, Charlie Cox Daredevil Confirmed
-- 2021-12-09 — The Spider-Man Wars! - Caravan Of Garbage — speakers: Peter Parker
-- 2021-12-06 — 414 Movies We Changed Our Minds On — speakers: Tom Cruise, Nicholas Cage, Chris Stuckmann, Nicolas Cage Dracula Movie
-- 2021-12-02 — Daredevil Defends The Hulk - Caravan Of Garbage — speakers: Matt Murdoch, John Rhys Davies
-- 2021-11-29 — 413 Venom 2: Carnage The Big Red Venom — speakers: Ridley Scott, Book Cheat, Scott Yells
-- 2021-11-25 — Iron Man The Animated Series - Caravan Of Gatbage — speakers: Tony Stark
-- 2021-11-22 — 412 Spider-Man No Way Home Trailer & Dead Movie Genres — speakers: Nick Mason, Kathleen Kennedy, Tom Holland Spider-Man
-- 2021-11-15 — 411 Disney Plus Day & No Time To Die — speakers: Wan Kenobi, tonts Two, Prequel Ghostbusters
-- 2021-11-11 — Ghostbusters 2016 - Caravan Of Garbage
-- 2021-11-08 — 410 The Eternals & Shang Chi — speakers: bigsandwich co, Shang Chi, Chris Pratt, Taika Waititi, Chris Nolan, Matt Smith, Shang Chi Review
-- 2021-11-04 — Ghostbusters II - Caravan Of Garbage — speakers: Bill Murray, Dan Aykroyd, Harold Ramis, Ernie Hudson
-- 2021-11-01 — 409 Halloween Kills (the franchise) — speakers: Tom Holland, Villain Brendan Fraser
-- 2021-10-28 — Ghostbusters - Caravan Of Garbage — speakers: Bill Murray, Dan Aykroyd, Harold Ramis, Ernie Hudson
-- 2021-10-25 — 408 Dune. It's Dune time — speakers: Dune o'clock, Denis Villeneuve sci-fi, Halyna Hutchins
-- 2021-10-21 — The Amazing Spider-Man 2 - Caravan Of Garbage — speakers: Andrew Garfield, Peter Parker
-- 2021-10-18 — 407 DC Fandome 2021 (off the dome?) — speakers: Adam Warlock, Michael Caine
-- 2021-10-14 — The Amazing Spider-Man - Caravan Of Garbage — speakers: Andrew Garfield, Emma Stone, Gwen Stacey
-- 2021-10-11 — 406 Best Movie Spies Of All Time — speakers: James Bond, James Gunn Teases Greatest, Jake Gyllenhaal
-- 2021-10-07 — Spectre - Caravan Of Garbage — speakers: Spectre Caravan, Daniel Craig, James Bond
-- 2021-10-04 — 405 Free Guy & The Beach That Makes You Old — speakers: Boba Fett
-- 2021-09-30 — Skyfall - Caravan of Garbage — speakers: Daniel Craig James Bond
-- 2021-09-27 — 404 Chris Pratt Is A Mario & Star Wars Visions — speakers: Chris Pratt
-- 2021-09-23 — Quantum Of Solace - Caravan Of Garbage — speakers: James Bond, Daniel Craig
-- 2021-09-20 — 403 Malignant & Hawkeye Trailer — speakers: James Wan's Malignant, Denis Villeneuve, Christopher Nolan Universal
-- 2021-09-16 — Casino Royale (Extended) - Caravan Of Garbage — speakers: James Bond, Daniel Craig, Vesper Lynd
-- 2021-09-13 — 402 The Matrix Resurrections & Spider-Man Returns — speakers: Max Furiosa Delayed
-- 2021-09-09 — The Matrix Revolutions - Caravan Of Garbage
-- 2021-09-06 — 401 Not Shang Chi — speakers: bigsandwich co, Shang Chi, Shang Chi Breaks
-- 2021-09-02 — The Matrix Reloaded - Caravan Of Garbage
-- 2021-08-30 — 400! Spider-Man: No Way Home & Best Comic Character Movies
-- 2021-08-26 — The Matrix - Caravan Of Garbage
-- 2021-08-23 — 399 Movies about being trapped! — speakers: Michael Keaton, John Boyega Star, Bruce Willis
-- 2021-08-16 — 398 Best & Worst Movies About Video Games — speakers: Tron Legacy, Shang Chi Releasing Exclusively, Leaves Powerpuff, Idris Elba
-- 2021-08-09 — 397 The Suicide Squad — speakers: Chadwick Boseman, James Gunn
-- 2021-08-05 — Suicide Squad - Caravan of Garbage — speakers: Suicide Squad Caravan, Harley Joker, Richolas Flagg, com wikipediabrown
-- 2021-08-02 — 396 Disney Gets Sued & Jungle Cruise — speakers: Bob Odenkirk, David Ayer
-- 2021-07-29 — GI Joe: Retaliation - Caravan of Garbage — speakers: Channing Tatum, Rock Johnson, Bruce Willis, com wikipediabrown
-- 2021-07-26 — 395 A Brief History Of GI Joe — speakers: Leslie Grace
-- 2021-07-22 — GI Joe: The Rise Of Cobra - Caravan of Garbage — speakers: Channing Tatum, com wikipediabrown
-- 2021-07-19 — 394 Space Jam: A Terrible Legacy — speakers: Space Jam, Antonio Banderas Joins
-- 2021-07-15 — Iron Man 3 - Caravan Of Garbage — speakers: Tony Stark
-- 2021-07-12 — 393 Black Widow! — speakers: Richard Donner, Hugh Jack, Zack Snyder, Zack Sndyer, Comic Con
-- 2021-07-08 — Iron Man 2 - Caravan Of Garbage — speakers: Justin Hammer
-- 2021-07-05 — 392 The Tomorrow War & Best Time Travel Methods — speakers: Space Jam, Dexter Killer, Optimus Pearlman
-- 2021-07-01 — Iron Man - Caravan Of Garbage — speakers: Iron Man, Tony Stark, Robert Downey Jr, com wikipediabrown
-- 2021-06-28 — 391: Fast and Furious 9 & New Trailers Ahoy — speakers: Shang Chi, James Gunn, Harrison Ford, Gamey Gamey Game, Vin Diesel
-- 2021-06-24 — The Fast & The Furious: Tokyo Drift - Caravan Of Garbage — speakers: Jack Henley, Sung Kang
-- 2021-06-21 — 390 Best & Worst Disney Live Action Remakes — speakers: Dave Lee, Gerry Butler, Dave Lee Down
-- 2021-06-17 — 2 Fast 2 Furious - Caravan Of Garbage — speakers: Paul Walker, Vin Diesels, Tyrese Gibson, James Remar
-- 2021-06-14 — 389 Indiana Jones 5 & Some Of E3 — speakers: Boba Fett, Obi Wan, Space Jam, Soldier Boy, Blue Beetle, Hbo Max, Boba Fett Finished, Soldier Boy First
-- 2021-06-10 — The Fast & The Furious - Caravan Of Garbage — speakers: Paul Walker, Vin Diesel
-- 2021-06-07 — 388 Batman Returns (again) & Sweet Tooth — speakers: Sweet Tooth
-- 2021-06-03 — Son Of The Mask - Caravan Of Garbage — speakers: Jamie Kennedy, com wikipediabrown
-- 2021-05-31 — 387 A Quiet Place Part II & Joker 2 — speakers: Claire Tonti, Oscar Isaac, Zack Snyder’s Star, Jungle Cruise, Zack Snyder
-- 2021-05-27 — The Mask - Caravan of Garbage — speakers: Jim Carey, com wikipediabrown
-- 2021-05-24 — 386 Zack Snyder's Army of the Dead — speakers: Zack Snyder, James Bond, Henry Cavill, James Bond Talks
-- 2021-05-20 — Space Jam - Caravan Of Garbage — speakers: Looney Tunes, Michael Jordan, Bugs Bunny, com wikipediabrown
-- 2021-05-17 — 385 Venom 2 & Spiral: From The Book Of Sawnarios — speakers: Emily Blunt, Shang Chi, Jungle Cruise
-- 2021-05-13 — Saw III - Caravan Of Garbage — speakers: Shawnee Smith, Donnie Whalberg, Leigh Whannell, Space Jam
-- 2021-05-10 — 384 A New Superman & Jupiter's Legacy — speakers: Andrew Garfield
-- 2021-05-06 — Saw II - Caravan Of Garbage — speakers: Donnie Whalberg
-- 2021-05-03 — 383 Invincible Season One — speakers: Citizen Kane, Green Lantern, Charlie Clausen
-- 2021-04-29 — Saw - Caravan Of Garbage — speakers: Leigh Whannell, James Wan
-- 2021-04-26 — 382 Mortal Kombat 2021 — speakers: Naomi Higgins, Mark Bonanno, Mortal Kombat, Shang Chi, Russell Crowe, Michael Keaton, Russell Crowe Thor, Keaton Confirmed
-- 2021-04-22 — Mortal Kombat: Legacy - Karavan Of Garbage — speakers: Mortal Kombat, Legacy Karavan, Liu Kang, Johnny Cage
-- 2021-04-19 — 381 Franchises Brought Back From The Dead — speakers: Mark Millar
-- 2021-04-15 — Mortal Kombat: Annihilation - Caravan Of Garbage — speakers: Mortal Kombat, Mortal Kombat Annihilation
-- 2021-04-12 — 380 The Biggest Movies Of All Time — speakers: Space Jam, Nick Mason
-- 2021-04-08 — Mortal Kombat 1995 (Extended) - The Weekly Planet Podcast — speakers: Mortal Kombat, Liu Kang, Sonya Blade, Johnny Cage, Shang Tsung
-- 2021-04-04 — 379 Godzilla VS Kong — speakers: Space Jam, Russell Crowe, Obi Wan
-- 2021-04-01 — Smallville's Justice League - Caravan Of Garbage — speakers: Zack Snyder, Clark Kent, Green Arrow
-- 2021-03-29 — 378 Invincible (and death of the Snyderverse) — speakers: Zack Snyder, Jessica Walter
-- 2021-03-25 — King Kong 2005 - Caravan Of Garbage — speakers: Peter Jackson, Jack Black
-- 2021-03-22 — 377 Zack Snyder's Justice League — speakers: Zack Snyder, Yaphet Kotto, Hourman Movie
-- 2021-03-18 — Nick Fury: Agent Of Shield - Caravan Of Garbage — speakers: Nick Fury
-- 2021-03-15 — 376 Justice League Leaks & Small Details That Ruin Movies — speakers: Zack Snyder, James Gunn, bang bang, Pepe Le Pew
-- 2021-03-11 — Superman II: The Donner Cut - The Weekly Planet Podcast — speakers: Richard Donner, com wikipediabrown
-- 2021-03-08 — 375 WandaVision wrap up! — speakers: Space Jam, Lois Season
-- 2021-03-04 — Superman IV: A Quest For Peace - Caravan Of Garbage — speakers: Chris Reeve, Gene Hackman, James Twitter
-- 2021-03-01 — 374 A New Superman & Superman and Lois — speakers: Tom Holland, Joe Lady
-- 2021-02-25 — Superman III - Caravan Of Garbage — speakers: Lex Luthor, Christopher Reeve, Richard Pryor, James Twitter
-- 2021-02-22 — 373 How To Adapt Video Games To Movies — speakers: Naomi Higgins, Mark Bonanno, Tim Burton, Rian Johnson, Mortal Kombat, Zack Snyder, Ezra Bridger
-- 2021-02-18 — Superman II - Caravan Of Garbage — speakers: Richard Donner, Richard Lester
-- 2021-02-15 — 372 Weird Members of the Justice League — speakers: Tom Holland, Gina Carano, Snyder Cut
-- 2021-02-11 — Superman The Movies - Caravan Of Garbage — speakers: Richard Donner, Christopher Reeve, Margot Kidder, Marlon Brando, Gene Hackman
-- 2021-02-08 — 371 Best & Worst Movies Based on Books — speakers: Bruce Willis, Armor Wars, Snyder Cut
-- 2021-02-04 — More Of The Awful Inhumans - Caravan Of Garbage
-- 2021-02-01 — 370 Most Anticipated TV Shows 2021 — speakers: George Clooney, Buck Rogers, Teaser Invincible, Harry Potter
-- 2021-01-28 — Inhumans - Caravan Of Garbage
-- 2021-01-25 — 369 Most Anticipated Movies 2021 & WandaVision — speakers: Mortal Kombat
-- 2021-01-18 — Big Sandwich Clickbait Special
-- 2021-01-11 — Best of The Weekly Planet 2020
-- 2021-01-04 — 368 The Best & Worst of 2020 — speakers: Mark Hamill
-- 2020-12-28 — 367 Wonder Woman 1984 — speakers: Wonder Woman, Snyder Cut
-- 2020-12-24 — The Failed Wonder Woman Pilot - Caravan Of Garbage — speakers: Diana Prince, WonderWoman Hosted
-- 2020-12-21 — 366 The Mandalorian Season 2 — speakers: Tom Cruise, Snyder Cut, Lady Sif, Rip Jeremy Bulloch, Lady Sif Returns, Chris Pine Joins, Jeremy Bulloch
-- 2020-12-15 — The Santa Clause 3: The Escape Clause - Caravan Of Garbage
-- 2020-12-14 — 365 Huge Marvel, Star Wars & Disney News — speakers: Wonder Woman, Ben Affleck’s Batman, Hbo Max, Max Backlash, Patty Jenkins, Ben Affleck, Disney Rude Stuff
-- 2020-12-10 — The Santa Clause 2 - Caravan Of Garbage — speakers: Tim Allen
-- 2020-12-07 — 364 Everything Is Coming to HBO Max — speakers: Oscar Isaac, Snyder Cut, Max Slate, David Prowse, Solid Snake
-- 2020-12-03 — The Santa Clause - Caravan Of Garbage — speakers: Tim Allen
-- 2020-11-30 — 363 How To Reboot Dying Franchises — speakers: Joss Whedon, Mads Mikkelsen, Amazons Spin
-- 2020-11-26 — Star Wars Rebels: Twilight Of The Apprentice - Caravan Of Garbage — speakers: Anakin Skywalker, Darth Vader, James Twitter
-- 2020-11-23 — 362 Wonder Woman For Christmas & The New Mutants (more like old mutants) — speakers: Chaos Walking, Zack Snyder’s Justice, James Bond Game Announcement, Wonder Woman
-- 2020-11-19 — Batman Heart Of Ice - Caravan Of Garbage — speakers: Batman Heart, Harley Quinn, Batman Beyond
-- 2020-11-16 — 361 We saw Tenet — speakers: Wonder Woman, Sylvester Stallone Suicide, Christopher Nolan
-- 2020-11-12 — Quibi's The Golden Arm - Caravan Of Garbage (ft Aunty Donna) — speakers: Aunty Donna, Donna Netflix
-- 2020-11-09 — 360 Big Ol' House of Sad Movies (with Aunty Donna) — speakers: Aunty Donna, Johnny Depp, Boba Fett
-- 2020-11-02 — 03 Super Weird Star Wars Characters — speakers: Creed Netflix, Spider-Man Starts, Shang Chi Wraps
-- 2020-10-29 — The Clone Wars Finale - Caravan Of Garbage
-- 2020-10-26 — 02 Cursed Movies & TV Shows — speakers: Aunty Donna, Zack Snyder, John McClane, Snyder Cut Re-shoots, Spooky Movie
-- 2020-10-23 — Dredd - Caravan Of Garbage — speakers: Karl Urban
-- 2020-10-19 — 01 Worst TV Show Endings — speakers: Andrew Garfield, Jiu Jitsu, Nick Mason
-- 2020-10-12 — 356 The Boys Season 2 — speakers: Tom Cruise, Holmes Shared, Freeze Solo Movie
-- 2020-10-05 — 355 Electro Returns & Trailers Ahoy! — speakers: Kobra Kai, Jamie Fox, James Bond Quiz, Jamie Foxx’s Spider-Man Return
-- 2020-10-01 — Mission Impossible 3 - Caravan Of Garbage — speakers: Tom Cruises, Phillip Seymore Hoffman
-- 2020-09-28 — 354 Movies That Need Sequels 2: Cruise Control — speakers: Snyder Cut
-- 2020-09-24 — Mission Impossible 2 - Caravan Of Garbage — speakers: Tom Cruise, John Woo
-- 2020-09-21 — 353 Movies That Need Sequels — speakers: Diana Rigg, Max Robat Battinbat
-- 2020-09-17 — Mission Impossible - Caravan Of Garbage — speakers: Tom Cruise, De Palma, Tom Cruises
-- 2020-09-14 — 352 Franchises That Should Have Died — speakers: Wonder Woman, Daisy Ridley Kenobi
-- 2020-09-10 — Mulan - Caravan Of Garbage — speakers: Disney Hosted
-- 2020-09-07 — 351 Mulan & The Boys Season 2 — speakers: Chadwick Boseman, John Boyega
-- 2020-09-03 — Interstellar - Caravan Of Garbage — speakers: Matthew Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine
-- 2020-08-31 — 350 Rest In Power, Chadwick Boseman — speakers: Chadwick Boseman Visit, Chadwick Boseman, Ted Face, Snyder Cut, Tom Cruise
-- 2020-08-27 — Inception - Caravan of Garbage — speakers: Christopher Nolan, Leonardo DiCaprio
-- 2020-08-24 — 349 DC FANDOME! — speakers: Zack Snyder, Squad Kills, Gotham Knights, Nick Mason, sG QVmYGddQ, Automobiles Reboot Quibi Update, Wonder Woman, Batfleck Returns
-- 2020-08-20 — The Prestige - Caravan Of Garbage — speakers: Christopher Nolan
-- 2020-08-17 — 348 The Bill & Ted Movies & Project Power — speakers: Nick Mason, Jared Leto, Snyder Zombie Movie Recast
-- 2020-08-13 — Transformers: The Last Knight - Caravan Of Garbage — speakers: Cade Yeager, Optimus Prime
-- 2020-08-10 — 347 DC Fandom Preview & Mulan Comes To Streaming — speakers: John Wick, Nick Mason, John Wick Sequels, James Wan, Knight Rider, Seth Rogen, Kravitz Catwoman
-- 2020-08-06 — Trans4mers: Age Of Extinction - Caravan Of Garbage — speakers: Michael Bay, Mark Wahlberg Cade Yeager, Dinobots ya know
-- 2020-08-03 — 346 Umbrella Academy Season 2 & Comic Con Bomb — speakers: Comic Con, Courtney Cox Returns, Comic Bomb, Robat Battinbat
-- 2020-07-30 — Transformers: Dark Of The Moon - Caravan Of Garbage — speakers: Megan Fox, Rosie Huntington-Whiteley, Leonard Nimoy
-- 2020-07-27 — 345 Comic Con 2020 (woooo?) — speakers: Comic Con, Donald Glover Returning, Bbq Talk
-- 2020-07-23 — Transformers: Revenge Of The Fallen - Caravan Of Garbage — speakers: Michael Bay Transformers Universe, Megan Fox
-- 2020-07-20 — 344 Best Starter Comics (Marvel Edition) — speakers: Adam Smasher, Black Adam, Tom Holland, Henry Cavill, Comic Con, Atom Smasher
-- 2020-07-16 — Transformers 2007 - Caravan Of Garbage — speakers: Megan Fox
-- 2020-07-13 — 343 The Old Guard & New Batman Series — speakers: Kills Teaser, Leigh Whannell, Javicia Leslie, Junkie XL, Hans Zimmer
-- 2020-07-09 — Pacific Rim - Caravan Of Garbage
-- 2020-07-05 — 342 Justice League Controversy & Harley Quinn — speakers: Joss Whedon, Christopher Nolan, Holmes News
-- 2020-07-02 — Edge Of Tomorrow - Caravan Of Garbage — speakers: Tom Cruise, Emily Blunt, Bill Paxton
-- 2020-06-29 — 341 Michael Keaton Is Batman Returning — speakers: Michael Keaton, Hahaaaaaaa Keaton, Joel Schmacher, Jonah Jameson
-- 2020-06-27 — Reign Of Fire - Caravan Of Garbage — speakers: Christian Bale, Matthew McConaughey
-- 2020-06-22 — 340 Best Starter Comics (DC Edition) — speakers: Keith Blocker, Ian Holm
-- 2020-06-19 — Justice League - Caravan Of Garbage — speakers: Justice League
-- 2020-06-15 — 339 PC Has Gone Mad — speakers: Wonder Woman, Dracula Bleh, Comic Con, Miles Morales, Standalone Superman
-- 2020-06-12 — Batman V Superman - Caravan Of Garbage — speakers: Batman Hosted
-- 2020-06-08 — 338 Fan Theories Hot Stuff Sexy Dads — speakers: Bane Solo, iDvPm Suggestible
-- 2020-06-04 — Man Of Steel - Caravan Of Garbage — speakers: Henry Cavill, Michael Shannon, Amy Adams, Lois Lane, Russel Crowe, Kevin Costner
-- 2020-06-01 — 337 Best & Worst Director Cuts — speakers: Cuts Joshua, Doug Liman, Tom Cruise, James Mangold, Ryan Gosling, Henry Cavill, Christopher Nolan, Scott Derrickson
-- 2020-05-28 — Die Another Day - Caravan Of Garbage — speakers: Pierce Brosnan, James Bond, Halle Berry
-- 2020-05-25 — 336 The Snyder Cut Is Coming — speakers: Snyder Cut, Timothy Olyphant
-- 2020-05-21 — James Bond The World Is Not Enough - Caravan Of Garbage — speakers: James Bond, Robbie Coltrane, Elektra King, Denise Richards
-- 2020-05-18 — 335 The New Mutants Release Date (more like old mutants) — speakers: Fred Willad, Lynn Shelton, Jerry Stiller Rip, Robat Battinbat, Percy Jackson, Rip Fred Willard, Rip Lynn Shelton, Jerry Stiller
-- 2020-05-14 — James Bond Tomorrow Never Dies! - Caravan Of Garbage — speakers: James Bond, Michelle Yeoh, Teri Hatcher
-- 2020-05-11 — 334 Boba Fett Is Back! — speakers: Boba Fett, Ms Monopoly, Comic Con, Tom Cruise, Sylvester Stallone, Demolition Man, Hayden Christensen, Vader Immortal
-- 2020-05-07 — James Bond GoldenEye - Caravan Of Garbage — speakers: James Bond GoldenEye Caravan, Daniel Craig, Scoob Hosted
-- 2020-05-04 — 333 Best & Worst Apocalypse Movies — speakers: Harrison Ford, Space Jam, John Wick, Alan Moore, Frank Miller Adaptations, Sam Lloyd
-- 2020-04-30 — Scooby-Doo 2: Monsters Unleashed - Caravan Of Garbage — speakers: Sarah Michelle Gellar, Prinze Jr, Linda Cardellini, Neil Fanning, Scoob Hosted
-- 2020-04-27 — 332 Extraction! Chris Hemsworth! — speakers: Chris Hemsworth, Chris Pine
-- 2020-04-23 — Scooby-Doo 2002 - Caravan Of Garbage — speakers: Matthew Lillard, Sarah Michelle Gellar, Prinze Jr, Linda Cardellini, Neil Fanning, Rowan Atkinson, Scoob Hosted
-- 2020-04-20 — 331 Superhero Showdown 7 — speakers: Sam Raimi, Joss Whedon, John Krazinski, Comic Con
-- 2020-04-16 — Fant4stic Four 2015 Extended - C4ravan Of G4rbage — speakers: Josh Trank, Mcu Hosted
-- 2020-04-13 — 330 Movie Castings That Nearly Happened — speakers: Ezra Miller, Robin Hood, Michael Shanks
-- 2020-04-12 — How To Get Your Movie Made (With Michael Shanks) — speakers: Michael Shanks, Rebooted Hosted
-- 2020-04-09 — Fantastic Four: Rise Of The Silver Surfer - Caravan Of Garbage — speakers: Chris Evan, Johnny Storm, Mcu Hosted
-- 2020-04-06 — 329 New Marvel Dates & Harry Potter 5 & 6 — speakers: Harry Potter, Adam Schlesinger
-- 2020-04-02 — Fantastic Four 2005 - Caravan Of Garbage — speakers: Johnny Storm, Jessica Alba, Michael Chiklis, Julian McMahon, Mcu Hosted
-- 2020-03-30 — 328 The History Of Robin — speakers: Robin Help, Man Wonder
-- 2020-03-26 — The Fantastic Four 1994 Extended - Caravan Of Garbage — speakers: Roger Corman, Mcu Hosted
-- 2020-03-23 — 327 A Weird Disney Plus Deep Dive — speakers: Wonder Woman, Rosario Dawson
-- 2020-03-23 — The First Westworld - Caravan Of Garbage — speakers: Michael Crichton, Starring Yul Brynner, James Brolin, Richard Benjamin
-- 2020-03-16 — 326 Everything Is Cancelled (except Bloodshot) — speakers: Shang Chi, Peter Pan
-- 2020-03-13 — Star Trek Generations - Caravan Of Garbage
-- 2020-03-09 — 325 Movies That Were Long Delayed
-- 2020-03-05 — Doom 2005 - Caravan Of Garbage — speakers: Karl Urban, Rosamund Pike
-- 2020-03-02 — 324 The Invisible Man — speakers: Dark Universe, Bob Iger
-- 2020-02-27 — The Mummy: Tomb Of The Dragon Emperor - Caravan Of Garbage — speakers: Dragon Emperor, Brendan Fraser, Rick O'Connell, Rachel Weisz, Jet Li
-- 2020-02-24 — 323 Controversial Comic Book Moments — speakers: Ben Affleck, Dan Didio
-- 2020-02-20 — The Mummy Returns - Caravan Of Garbage — speakers: Brendan Fraser, Rachel Weisz
-- 2020-02-17 — 322 The New Batsuit & Sonic The Movie — speakers: Robat Battinbat
-- 2020-02-14 — Super Mario Bros. The Movie - Caravan Of Garbage — speakers: Mario Bros
-- 2020-02-10 — 321 Birds Of Prey Bombs — speakers: Prey Bombs, Sam Raimi
-- 2020-02-07 — The Worst Birds of Prey Extended - Caravan Of Garbage — speakers: Garbage Birds, Harley Quinn, James Twitter
-- 2020-02-03 — 320 Super Bowl Trailers — speakers: Owen Wilson
-- 2020-01-30 — Star Wars: Clone Wars (Vol 2) - Caravan Of Garbage — speakers: Genndy Tartakovsky, Anakin Skywalker, James Twitter
-- 2020-01-27 — 319 Movies Set In 2020 — speakers: Terry Jones
-- 2020-01-23 — The Mummy 1999 - Caravan Of Garbage — speakers: Brendan Fraser, Rachael Weisz, John Hannah, Arnold Vosloo
-- 2020-01-20 — 318 Most Anticipated Movies 2020 — speakers: Scott Derrickson, Taika Waititi
-- 2020-01-16 — Superman Return - Caravan Of Garbage — speakers: Christopher Reeve Superman, Superman Returns, Bryan Singer
-- 2020-01-06 — Best of The Weekly Planet 2019
-- 2019-12-30 — 317 Best/Worst Of 2019 — speakers: Daniel Radcliff, Moon Knight
-- 2019-12-23 — 316 Star Wars: The Rise Of Skywalker
-- 2019-12-19 — The First Return Of The Emperor - Caravan Of Garbage — speakers: Dark Horse, Luke Skywalker, Dark Rey, Dark Luke Skywalker, Boba Fett, Jedi Holocrons
-- 2019-12-16 — 315 The Jumanji Movies — speakers: ReleaseTheSnyderCut Release
-- 2019-12-13 — Zathura: Space Jumanji - Caravan Of Garbage — speakers: Jon Faveau sci-fi, Iron Man, Robin Williams
-- 2019-12-09 — 314 Black Widow Trailer — speakers: Wonder Woman
-- 2019-12-02 — 313 The Irishman & A New Superman? — speakers: Michael Jackson, VS Godzilla, Wonder Woman
-- 2019-11-29 — Kylo Ren's Weird Animated Origin - Caravan Of Garbage — speakers: Kylo Ren
-- 2019-11-25 — 312 Knives Out & Looper Revisited — speakers: Rian Johnson, Kathleen Kennedy, Black Adam
-- 2019-11-22 — Frozen Extended - Caravan Of Garbage — speakers: Frozen Extended Caravan, Kristen Bell, Jonathan Groff, Josh Gad
-- 2019-11-18 — 311 The Mandalorian & Jedi Fallen Order — speakers: Jedi Fallen Order, Death Stranding, Mark Whalberg, Wars Jedi Fallen Order
-- 2019-11-15 — Boba Fett's Revenge (The Clone Wars) - Caravan Of Garbage — speakers: Boba Fett, Death Trap, Mace Windu, Anakin Skywalker, wikipediabrown Buy
-- 2019-11-11 — 310 Franchise Killing Movies — speakers: Dark Fate, James Dean, Carrie Fisher
-- 2019-11-08 — Pearl Harbor (Michael Bay's Titanic) - Caravan Of Garbage — speakers: Michael Bay, Ben Affleck, James Cameron, Midway Hosted
-- 2019-11-04 — 309 Terminator Dark Fate & More Star Wars Trouble — speakers: Dark Fate, DB Weis, David Benioff
-- 2019-11-01 — Terminator: The Sarah Connor Chronicles - Caravan Of Garbage — speakers: Sarah Connor, wikipediabrown Buy
-- 2019-10-28 — 308 Horror Icon Showdown — speakers: Wonder Woman
-- 2019-10-25 — Watchmen (Zack Snyder 2009) - Caravan Of Garbage — speakers: Zack Snyder, Damon Lindelof, Alan Moore, wikipediabrown Buy
-- 2019-10-21 — 307 The New Catwoman & Zombieland Double Tap — speakers: Kevin Feige, Jared Leto, Cowboy Bebop, Liv Tyler
-- 2019-10-18 — The Cancelled Zombieland Amazon Series - Caravan Of Garbage — speakers: Woody Harrleson, Emma Stone, Jesse Eisenberg, Abigail Breslin, wikipediabrown Buy
-- 2019-10-14 — 306 Gemini Man (BOO) & El Camino (YAY) — speakers: Gemini Man, Jungle Cruise
-- 2019-10-11 — The Forgotten Terminator 3 - Caravan Of Garbage — speakers: Dark Fate, Arnold Schwarzenegger, Linda Hamilton, Robert Patrick, Edward Furlong, wikipediabrown Buy
-- 2019-10-07 — 305 Joker The Movie Joker — speakers: Tom Holland
-- 2019-10-04 — Batman 1989 - Caravan Of Garbage — speakers: Tim Burton
-- 2019-09-29 — 304 Edgy Movies & Spider-Man Returns — speakers: Kevin Feige, Superman Returns, Lex Luthor, Jeffrey Wright, Jonah Hill
-- 2019-09-27 — Terminator 3: Rise Of The Machines - Caravan Of Garbage — speakers: Dark Fate
-- 2019-09-23 — 303 Rambo Last Blood & Brad Astra — speakers: Tom Welling, Clark Kent, JJ Abrams
-- 2019-09-20 — Rambo 3: Worst Blood - Caravan Of Garbage — speakers: Sylvester Stallone
-- 2019-09-16 — 302 Best & Worst Stallone Movies & New Suicide Squad Cast — speakers: Spider-Man Mcu, Darth Vader TV, Tony Stark, Hailee Steinfeld, Kate Bishop
-- 2019-09-13 — IT Chapter Two (1990) - Caravan Of Garbage — speakers: Stephen King
-- 2019-09-09 — 301 IT Chapter Two is... — speakers: weeklyplanet Check, Bad Boys, Jo Jo Rabbit, Hayley Atwell
-- 2019-09-05 — IT Chapter One (1990) - Caravan Of Garbage — speakers: wikipediabrown Buy, T-Shirts Merch
-- 2019-09-02 — 300 The Matrix Trilogy Revisited — speakers: Dark Fate
-- 2019-08-30 — The Story Of Boba Fett's Most Dangerous Bounty - Caravan Of Garbage — speakers: Boba Fett, Dangerous Bounty Caravan, Jango Fett Bloodlines
-- 2019-08-26 — 299 D23 & Spider-Man Leaves The MCU — speakers: Moon Knight, Breaking Bad, Dave Warnake Pie Guy, Miscellaneous Whatevs Marvel, Wan Kenobi TV, Buy Spider-Man
-- 2019-08-23 — Batman Beyond Return Of The Joker - Caravan Of Garbage — speakers: Beyond Return, Batman Beyond, Terry McGuiness, Bruce Wayne, Kevin Conroy, Mark Hamill, Buy Return
-- 2019-08-19 — 298 Obi Wan Series & Once Upon A Time In Hollywood — speakers: Peter Fonda, Richard Williams, Johnson Star
-- 2019-08-16 — Blade 1998 - Caravan Of Garbage — speakers: Buy Blade
-- 2019-08-15 — The Weekly Planet Presents - Suggestible
-- 2019-08-12 — 297 Reservoir Dogs & Pulp Fiction — speakers: Quentin Tarantino, Kevin Conroy, Will Deadpool
-- 2019-08-09 — The Italian Job (2003) - Caravan Of Garbage — speakers: Jason Statham, Mark Whalberg, Mos Def, Seth Green, Edward Norton, James Twitter
-- 2019-08-05 — 296 The Boys & Hobbs And Shaw — speakers: Ben Affleck, Andy Serkis, Ben Affleck’s Batman
-- 2019-08-01 — Swamp Thing 2019 & 1982 - Caravan Of Garbage — speakers: Abby Arcane
-- 2019-07-29 — 295 The Lion King 2019 — speakers: Blade Runner, Mad Max, Kill Bill Vol, Bill Vol
-- 2019-07-22 — 294 Comic Con 2019 & Wooo — speakers: Comic Con, Marvel’s Phase, Shang Chi, Dark Fate, Brandon Routh, Doom Patrol
-- 2019-07-19 — The Lion King - Caravan Of Garbage — speakers: Hans Zimmer
-- 2019-07-15 — 293 Stranger Things Season 3 & The New 007 — speakers: weeklyplanet Stranger, Shang Chi
-- 2019-07-13 — Spider-Man 3 - Caravan Of Garbage
-- 2019-07-10 — Wolverine: The Lost Trail
-- 2019-07-08 — 292 Spider-Man: Far Home is... — speakers: Little Mermaid
-- 2019-07-04 — Spider-Man 2 - Caravan Of Garbage — speakers: Peter Parker, Tobey Maguire
-- 2019-07-01 — 291 Weird Versions Of Spider-Man — speakers: Flash Gordon, Paul Rudd
-- 2019-06-29 — Spider-Man (2002) - Caravan Of Garbage
-- 2019-06-24 — 290 Toy Story 4... — speakers: Toy Story, Buy Toy
-- 2019-06-17 — 289 MIB International & Black Mirror Season 5 — speakers: Dark Phoenix
-- 2019-06-14 — The Weekly Planet Presents - Hey Fam E3 2019
-- 2019-06-11 — Men In Black: The Animated Series - Caravan Of Garbage
-- 2019-06-10 — 288 X-Men Dark Phoenix is... — speakers: Wars Jedi Fallen Order, Django Zorro, Prey Wonder Woman Poster, Jedi Fallen Order
-- 2019-06-04 — X-Men: The Last Stand - Caravan Of Garbage — speakers: Bryan Singer
-- 2019-06-03 — 287 Godzilla King Of The Monsters Is... — speakers: Robat Battinbat, VS Spider-Man, Tom King
-- 2019-05-29 — Godzilla 1998 (Still Terrible) - Caravan Of Garbage
-- 2019-05-27 — 286 Aladdin, Brightburn & Game Of Thrones — speakers: Dark Fate, John Wick, Buy Aladdin
-- 2019-05-21 — Mason Hates Aladdin? - Caravan Of Garbage — speakers: Hates Aladdin
-- 2019-05-20 — 285 The New Batman & John Wick 3 — speakers: John Wick, Mortal Kombat, John Wick Chapter
-- 2019-05-13 — 284 Detective Pikachu is... — speakers: Suicide Squad, Titanic Spider-Man Far, Michael Rooker, Detective Pikachu
-- 2019-05-09 — Pokemon: The Worst Movie - Caravan Of Garbage
-- 2019-05-06 — 283 The Future Of The MCU — speakers: John Singleton, Peter Mayhew
-- 2019-05-03 — Thanos' Most Embarrassing Moment - Caravan Of Garbage — speakers: Most Embarrassing Moment, Avengers Infinity War
-- 2019-04-29 — 282 Avengers: Endgame is...
-- 2019-04-22 — 281 Avengers Endgame Leaks (no spoilers) & Thor 4 — speakers: Mar Whalbergs
-- 2019-04-16 — Star Wars: Clone Wars 2003 - Caravan Of Garbage
-- 2019-04-15 — 280 Star Wars The Rise Of Skywalker & Hellboy 2019 — speakers: Jedi Fallen Order, Bruce Wayne, Tomb Raider, New Bruce Wayne, Fallen Order
-- 2019-04-08 — 279 Shazam! is... — speakers: Wil Anderson, Dark Fate, Taika Waititi
-- 2019-04-02 — Hey Look! It's The Worst Shazam - Caravan Of Garbage — speakers: Hey Look, Captain Marvel
-- 2019-04-01 — 278 Us & Star Wars 9 Leaks — speakers: Jordan Peele, Jared Leto’s Joker, Mark Hamill, Ben Affleck
-- 2019-03-26 — Mason Hates Dumbo - Caravan Of Garbage — speakers: ResDolph Twitter
-- 2019-03-25 — 277 The Hellboy Movies — speakers: Wil Anderson, John Wick, Taika Waititi
-- 2019-03-18 — 276 James Gunn Returns & Avengers: Endgame Trailer 2 — speakers: James Gunn Returns Avengers, James Gunn, Shang Chi
-- 2019-03-12 — The First Skrull Invasion - Caravan Of Garbage — speakers: Marvel Amazon
-- 2019-03-11 — 275 Captain Marvel is... — speakers: Luke Perry, Luke Perry Shazam
-- 2019-03-04 — Captain Marvel's Horrible Fate - Caravan Of Garbage
-- 2019-03-04 — 274 Dark Phoenix & Hellboy trailers — speakers: Riley Jones Blog, Dark Phoenix, Will Smith, X-Men Ghost School
-- 2019-02-25 — 273 Umbrella Academy & Kenobi TV Series — speakers: Charlie Clausen, Space Jam, Hulk Hogan
-- 2019-02-19 — Dragonball *sigh* Evolution - Caravan Of Garbage
-- 2019-02-18 — 272 Alita: Battle Angel is... — speakers: Battle Angel, Ben Affleck’s Batman, Ninja Turtles, Breaking Bad, Ben Affleck Batman, Harley Quinn, Dune June, Buy Alita
-- 2019-02-13 — Superfast & Super Terrible - Caravan Of Garbage
-- 2019-02-11 — 271 Worst Anime Adaptations — speakers: Manga Adaptations, Danai Gurira, Kingsman Prequel, Avengers Endgame
-- 2019-02-04 — 270 Batfleck Out & Super Bowl Trailers — speakers: Bud Light, Ben Affleck, Snyder Zombie
-- 2019-01-29 — Spider-Man V Mysterio 1994 - Caravan Of Garbage — speakers: Peter Parker, Buy Spider-Man
-- 2019-01-28 — 269 Most Anticipated Movies 2019 — speakers: Christopher Nolan, Bizarre Spider-Man Villains, Oscar Nom
-- 2019-01-21 — 268 GLASS: The movie Glass — speakers: Plus Spider-Man Far, Kevin Hart Monopoly Ghostbusters, Buy Glass
-- 2019-01-14 — Best Of The Weekly Planet 2018
-- 2019-01-06 — Aquaman's Dumbest Enemy - Caravan Of Garbage — speakers: Dumbest Enemy Caravan, Buy Aquaman
-- 2018-12-31 — 267 Best/Worst Of 2018 — speakers: Jordan Peele, Jude Law, Jude Law’s Captain Marvel, Bird Box
-- 2018-12-25 — James Cameron's Aquaman - Caravan Of Garbage — speakers: James Cameron, tkL AE
-- 2018-12-24 — 266 Aquaman & Bumblebee — speakers: Will Smith’s Genie, Aquaman Easter, Will Smith, Buy Aquaman
-- 2018-12-17 — 265 Spider-Man: Into The Spider-Verse is... — speakers: Usb Tapes, Henry Cavill, Buy Spider, Tuqaz Hosted
-- 2018-12-10 — 264 Avengers: Endgame Trailer — speakers: Avengers Endgame, Tom Cruise, Shang Chi, Usb X-Mas Tapes, Shang Chi Master
-- 2018-12-06 — Spider-Man Night Of The Clones - Caravan Of Garbage — speakers: Buy Spider-Man
-- 2018-12-03 — 263 Daredevil Cancelled & Creed 2 — speakers: Cowboy Bebop, Nick Nolte, Blade Runner
-- 2018-11-27 — The Worst Robin Hood Movie - Caravan Of Garbage — speakers: Robin Hood Movie Caravan, Robin Hood
-- 2018-11-26 — 262 The Lion King Trailer & Robin Hood — speakers: Robin Hood Check, Robin Hood, Lego Movie
-- 2018-11-19 — 261 Fantastic Beasts They Did Another One — speakers: Stan Lee, Lex Luthor, Sweet Tooth, Detective Pikachu, John Cryer, Chris Pratt, Toy Story
-- 2018-11-12 — 260 The Rocky Films — speakers: Breaking Bad, Watchem Spin-off
-- 2018-11-06 — The Voldemort Origin Movie - Caravan Of Garbage — speakers: Harry Potter
-- 2018-11-05 — 259 The State Of Marvel Television — speakers: Flash Gordon
-- 2018-10-29 — 258 Halloween 2018 is... — speakers: Boba Fett, Wonder Woman, Tim Burton, George Miller, Spike Lee
-- 2018-10-22 — 257 Best Horror Movies — speakers: Luke Cage
-- 2018-10-15 — 256 The Halloween Franchise — speakers: Iron Fist, James Gunn
-- 2018-10-14 — The Dumbest Venom Story Of All Time - Caravan Of Garbage — speakers: Eddie Brock, Ghost Rider
-- 2018-10-08 — 255 Venom is... — speakers: Chris Evans, Robbie Barbie, America Avengers
-- 2018-10-01 — 254 Superhero Showdown...6? — speakers: Kathleen Kennedy
-- 2018-09-24 — 253 The Joker & Captain Marvel Trailer — speakers: Wonder Woman, Mary Poppins, James Gunn X-Men Marvel
-- 2018-09-17 — 252 The Predator is... — speakers: Heny Cavill, Kit Harington, Kevin VS, Gamey Game Game
-- 2018-09-10 — 251 Captain Marvel & Spider-Man PS4 — speakers: Henry Cavill, Burt Reynolds, Buy Spider-Man PS Game
-- 2018-09-06 — Batman VS Predator - Caravan Of Garbage — speakers: VS Predator Caravan, Buy Batman
-- 2018-09-03 — 250 The Predator Films — speakers: Wesley Snipes, Alec Baldwin, Thomas Wayne, Robin Wright
-- 2018-08-27 — 249 History Of Image Comics — speakers: Ben Affleck, Hans Zimmer, Wonder Woman, Brendan Fraser, Kelly Marie Tran, Dominic Monaghan, Marie Tran, Danny Boyle
-- 2018-08-20 — 248 The Meg & Star Wars Resistance — speakers: Wars Resistence, Tom Cruise, Hal Jordan, Robocop Returns, James Gunn, Peter Weller
-- 2018-08-13 — 247 Best & Worst Jason Statham Movies — speakers: Jason Statham Movies, Jason Statham, Family Guy, James Gunn
-- 2018-08-07 — The Forgotten Aquaman - Caravan Of Garbage — speakers: Forgotten Aquaman Caravan
-- 2018-08-06 — 246 Princess Leia Returns & Harry Potter 3 & 4 — speakers: Sarah Connor, Harry Potter, James Gunn
-- 2018-07-30 — 245 Mission: Impossible Fallout is... — speakers: Impossible Fallout
-- 2018-07-23 — 244 Comic Con 2018 (wooooo?) — speakers: Comic Con, Jon Schnepp, James Gunn, Rip Jon Schnepp, James Gunn Robin Hood, Wonder Woman
-- 2018-07-16 — 243 Skyscraper & Robocop Returns — speakers: Joss Whedon, Comic Con
-- 2018-07-10 — Mission: Impossible (but it's the 80's) - Caravan Of Garbage — speakers: Video Version
-- 2018-07-09 — 242 Ant-man & The Wasp is... — speakers: Sam Jackson, Buy Ant-Man
-- 2018-07-03 — Ant-man's Dumbest Enemy - Caravan Of Garbage — speakers: Buy Ant-Man
-- 2018-07-02 — 241 Unresolved Movie/TV Cliffhangers — speakers: Obi Wan, Jared Leto
-- 2018-06-28 — TWP Presents - TOFOP — speakers: Comedy Podcasting
-- 2018-06-26 — The Worst Thing Marvel Ever Created - Caravan Of Garbage — speakers: Ever Created, Avengers Infinity War
-- 2018-06-25 — 240 Jurassic World: Fallen Kingdom is...
-- 2018-06-21 — TWP Presents - Just Make The Thing
-- 2018-06-18 — 239 The Incredibles 2 & Upgrade (with Leigh Whannell) — speakers: Leigh Whannell, Wonder Woman, Geoff Johns, George Lucas, Paul Hogan
-- 2018-06-14 — TWP Presents - Hey Fam
-- 2018-06-11 — 238 Bumblebee, Spiderverse, E3 & Oceans 8 — speakers: Leto Joker, Star Wars
-- 2018-06-07 — TWP Presents - Human Ordinary — speakers: Sam Loy
-- 2018-06-05 — The Worst Ocean's 11 Movie - Caravan Of Garbage — speakers: Video Edition
-- 2018-06-04 — 237 Star Wars Fatigue — speakers: Wonder Woman, Peter Pan, Zack Snyder, Solo Deleted Scenes
-- 2018-05-31 — TWP Presents - Do Go On — speakers: Planet Broadcasting
-- 2018-05-29 — Not Solo A Star Wars Story - Caravan Of Garbage — speakers: Wars Saga
-- 2018-05-27 — 236 Solo: A Star Wars Story is... — speakers: Boba Fett, Solo Easter, Danny Boyle, Matt Groening
-- 2018-05-21 — 235 Deadpool 2 is... — speakers: Willow Deadpool
-- 2018-05-14 — 234 Crazy Fan Theories — speakers: Star Wars TV, Peter Jackson
-- 2018-05-07 — 233 Best 80's Action Movies — speakers: Cobar Kai, Robin Hood, Robin Hood Solo
-- 2018-05-01 — The Avenger In The 80's - Caravan Of Garbage — speakers: Ben Chinapen, Erik Chen
-- 2018-04-30 — 232 Avengers Infinity War is... — speakers: Nick Fury
-- 2018-04-23 — 231 Essential MCU Films — speakers: James Cameron, Allison Mack, Fallen Kingdom, Spielberg Blackhawks
-- 2018-04-16 — 230 Rampage & The Incredibles 2 Trailer — speakers: Stan Lee, TJ Miller
-- 2018-04-09 — 229 A Quiet Place & BVS Answers — speakers: Johnny English, Zack Snyder
-- 2018-04-02 — 228 Ready Player One is... — speakers: Ready Player, Wonder Woman, Uwe Boll, Rom Space Knight
-- 2018-03-27 — Not Ready Player One - Caravan Of Garbage
-- 2018-03-26 — 227 Pacific Rim Uprising is... — speakers: Cobra Kai, Kobra Kai, No Venom, Tessa Thompson, Chris Evans
-- 2018-03-19 — 226 Avengers Infinity War trailer & Tomb Raider 2018 — speakers: Tomb Raider, Nicholas Cage, Danny Boyle
-- 2018-03-12 — 225 Comic Book Movies Are Better Than Ever — speakers: Jessica Jones, Wonder Woman, Extreme Universe, Christopher Robin, Mary Poppins, Tom Cruise, Vin Diesel, Michael Bay
-- 2018-03-05 — 224 New MCU Films & Red Sparrow — speakers: Steele Wars Mendo, Mark Hamill, Marvel Avengers
-- 2018-02-26 — 223 Joss Whedon Leaves Batgirl & Mute — speakers: Jessica Jones Season, Joss Whedon, Wynter Dark
-- 2018-02-19 — 222 Black Panther is...
-- 2018-02-13 — A Crap Black Panther Origin - Caravan Of Garbage — speakers: Crap Black Panther Origin, Black Panther
-- 2018-02-12 — 221 The Cloverfield Paradox & Venom trailer — speakers: Michael Bay, David Goyer
-- 2018-02-11 — Han Solo's Dumbest Adventure - Caravan Of Garbage — speakers: Boba Fett
-- 2018-02-05 — 220 Super Bowl 2018 Trailers — speakers: Tom Cruise
-- 2018-01-29 — 219 Most Anticipated Movies 2018 — speakers: Duke Nukem, Henry Cavill
-- 2018-01-24 — The Worst Tomb Raider Thing - Caravan Of Garbage — speakers: Tomb Raider
-- 2018-01-22 — 218 Big News Catch Up! — speakers: Crocodile Dundee, Ben Affleck, Tomb Raider, Tom Holland
-- 2018-01-02 — Best Of The Weekly Planet 2017
-- 2017-12-26 — 217 Best/Worst Movies Of 2017 — speakers: George Lucas
-- 2017-12-20 — What If Luke Skywalker Died? - Caravan Of Garbage — speakers: Luke Skywalker Died, Luke Skywalker, Wars Saga
-- 2017-12-18 — 216 Star Wars:The Last Jedi is...
-- 2017-12-11 — 215 Jurassic World Fallen Kingdom trailer — speakers: Battle Angel, Robin Hood, Schrodinger’s Bat Aquaman
-- 2017-12-04 — 214 Avengers Infinity War Trailer — speakers: Zack Snyder, John Cena
-- 2017-11-27 — 213 Superhero Fatigue? — speakers: Lizzy Caplan, Fallen Kingdom, Filthy Casuals
-- 2017-11-20 — 212 Justice League is... — speakers: Gamey Game Game, Multiple Man
-- 2017-11-13 — 211 New Star Wars Trilogy & Best Star Wars Video Games — speakers: Dark Universe, Black Adam, Jedi Fallen Order
-- 2017-11-06 — 210 Thor Ragnarok is... — speakers: Henry Cavill, Ragnarok Easter, Rocksteady Superman
-- 2017-10-30 — 209 Stranger Things Season 2 & Shazam Casting — speakers: Justin Lin
-- 2017-10-23 — 208 Geostorm (is bad) & Black Panther trailer — speakers: Sweet Tees
-- 2017-10-16 — 207 The Last Jedi Trailer & Rick And Morty — speakers: Jared Leto, Luke’s Green Lightsaber
-- 2017-10-09 — 206 Blade Runner 2049 & Fast & Furious Spin Off — speakers: Blade Runner, Danny Elfman
-- 2017-10-02 — 205 Blade Runner & No More DCEU (with Steele Saunders) — speakers: Steele Saunders, Blade Runner, Denis Villeneuve
-- 2017-09-25 — 204 Kingsman The Golden Circle is... — speakers: Golden Circle, Taika Waitti, Harry Stanton, JJ Abrams, Kingsman Will, James Bond, Jedi Council, Tomb Raider
-- 2017-09-18 — 203 Biggest/Most Insane Movie Feuds
-- 2017-09-11 — 202 It 2017 & Star Wars Loses Another Director (with Two In The Think Tank) — speakers: gd Check, alasdairtb Check
-- 2017-09-04 — 201 The Inhumans (is terrible) & #GOTBros2017 — speakers: Luke Cage, Melbourne Show
-- 2017-08-28 — 200 Biggest Box Office Bombs — speakers: James Cameron, James Cameron Hates
-- 2017-08-21 — 199 The Defenders & Obi Wan The Movie — speakers: James Bond, Jessica Jones
-- 2017-08-14 — 198 Most Blatant Movie Product Placement — speakers: Talking Venom, Karl Urban
-- 2017-08-07 — 197 Best/Worst Movie To TV Adaptations (with Charlie Clausen) — speakers: Charlie Clausen, Wolf Creek, Karate Kid, Cake Boss Ralph Make
-- 2017-07-31 — 196 Moustache Madness & The Dark Knight Trilogy (with Wil Anderson) — speakers: Wil Anderson
-- 2017-07-24 — 195 Comic Con 2017 (woooo) — speakers: Comic Con, Ben Affleck, gl TWuhKR, Affleck Leaving
-- 2017-07-17 — 194 D23 & Baby Driver (with Edgar Wright) — speakers: Edgar Wright, Baby Driver, Homecoming Spoiler
-- 2017-07-10 — 193 Spider-man Homecoming is... — speakers: Rip Joan Lee, Nick Fury, Homecoming Easter, Joan Lee, Jeremy Renner, Homecoming Spoiler Free Review, Homecoming Spoiler
-- 2017-07-03 — 192 The Cornetto Trilogy & Inhumans Trailer — speakers: Edgar Wright, Wonder Woman, Death Note, Peter Parker, Homecoming Review
-- 2017-06-26 — 191 Transformers The Last Knight is...
-- 2017-06-19 — 190 Failed Movie Franchises — speakers: Danny Elfman, James Gunn
-- 2017-06-12 — 189 Black Panther & The Mummy (is terrible) — speakers: Adam West, Wonder Woman
-- 2017-06-05 — 188 Wonder Woman is... — speakers: Wonder Woman, Dark Universe, Mortal Kombat, Baby Bumblebee
-- 2017-05-29 — 187 Zack Snyder Departs Justice League & Pirates 5 — speakers: Zack Snyder, Dark Universe, Aliens Arcade Caravan, Roger Moore, Dark Universe Universe, Tom Holland, Nathan Drake
-- 2017-05-22 — 186 Alien: Covenant & The Venom Solo Movie — speakers: Han Solo, Wonder Woman, Aliens Arcade Caravan
-- 2017-05-15 — 185 Prometheus & The Bad Alien Films (with Sam Loy) — speakers: Sam Loy, Blade Runner, Find Sam Loy
-- 2017-05-08 — 184 Guardians Of The Galaxy Vol 2 talking about it — speakers: Blade Runner, Wonder Woman, Blade Runnerer
-- 2017-05-01 — 183 Superhero Showdown & Indy 5! — speakers: Golden Circle, Alien Covenant
-- 2017-04-24 — 182 Are Movies Ever Better Than Comics? (with Levins) — speakers: Andrew Levins, Will Smith, Kylo Ren, Find Levins, Ripley’s Alien, Language Warning
-- 2017-04-17 — 181 The Last Jedi Trailer, FF8 & Thor: Ragnarok — speakers: Josh Brolin
-- 2017-04-10 — 180 Princess Leia's Return, Invincible & Lego Batman — speakers: Lego Batman, Michael Bay, Wonder Woman, Carrie Fisher, Marvel Netflix, Alec Baldwin
-- 2017-04-03 — 179 Sony Ruining Spider-man, Legion & Ghost In The Shell — speakers: Ruining Spider-man
-- 2017-03-27 — 178 Justice League Trailer & Power Rangers — speakers: Brad Pitt, Chris Evan, Claire Tonti, Phil Kitt, Pete Ford, Emma Sharp, Erik Chen, Steve Hacklin
-- 2017-03-20 — 177 Is Iron Fist A Terrible Crap Thing? — speakers: Gotg Stallone, Lex Luthor, Henry Cavill
-- 2017-03-13 — 176 Kong: Skull Island & IRON FIIIST! — speakers: Baby Driver, Atomic Blonde, Logan Deleted Scene, Wonder Woman
-- 2017-03-06 — 175 Logan is... & Deadpool 2 Teaser — speakers: Bill Paxton, Underwater Welder, Logan Easter, Buy Logan
-- 2017-02-26 — 174 Nightwing The Movie & Wolverine Trivia, Facts, FUN. — speakers: Alien Covenant, Han Solo
-- 2017-02-20 — 173 Best/Worst Comic Book Movie Directors — speakers: Lion King, Mel Gibson, Suicide Squad
-- 2017-02-13 — 172 Avengers Infinity War Begins & Best Keanu Reeves Films — speakers: Keanu Reeves
-- 2017-02-06 — 171 Affleck Leaves Batman & Best Universes with Matt Stewart — speakers: Matt Stewart, Ben Affleck, Ben Affleck Left
-- 2017-01-30 — 170 The Last Jedi & Resident Evil The Final Chapter — speakers: Bryan Singer, Woody Harrelson, John Hurt, David Ayer Suicide Squad
-- 2017-01-23 — 169 Logan Trailer, Triple X3 & Sherlock Season 4 — speakers: Xander Cage, Green Lantern, Miguel Ferrer
-- 2017-01-16 — 168 Most Anticipated Movies Of 2017 — speakers: gl HtbHN, Carrie Fisher, David Ayer, Peter Dinklage, Max Sequel Uncharted
-- 2017-01-02 — Best of The Weekly Planet 2016 — speakers: Dirt Bikes, Scrooge McDuck, Bruce Wayne
-- 2016-12-26 — 167 Best/Worst Movies 2016 — speakers: Blade Runner, Alien Covenant, Carrie Fisher, Jesse Eisenberg
-- 2016-12-19 — 166 Rogue One A Star Wars Rogue One — speakers: Gotham City Sirens, Robin Hood
-- 2016-12-12 — 165 Spider-man Homecoming Trailer & Best TV 2016 — speakers: Zack Snyder
-- 2016-12-11 — Darth Vader In Video Games - Caravan Of Garbage — speakers: Darth Vader
-- 2016-12-05 — 164 GOTG Vol 2 Trailer & Best/Worst Video Games Based Off Movies — speakers: Ben Vernel, Filthy Casuals, MF Gotg, Billy Dee Williams, Pikachu Detective
-- 2016-12-01 — The First Star Wars TV Series - Caravan Of Garbage
-- 2016-11-28 — 163 Best Disney Movies (That Mason Hates) — speakers: Alien Covenant, Ron Glass
-- 2016-11-24 — What If The Death Star Wasn't Destroyed? - Caravan Of Garbage — speakers: Loot Crate
-- 2016-11-21 — 162 Fantastic Beast & Where Are They Or Whatever (in the case) — speakers: Emilia Clarke
-- 2016-11-14 — 161 Best/Worst Comic Book Movies 2016 — speakers: Strange Deleted, Leonard Cohen, Robert Vaughn, Tom Holland
-- 2016-11-07 — 160 Doctor Strange is...(& Batman woes) — speakers: Wonder Woman, Lego Batman, Strange Easter, Johnny Depp, Strange Spoiler
-- 2016-10-31 — 159 Deadpool 2 Troubles & Black Mirror — speakers: Dark Universe
-- 2016-10-24 — 158 Logan Trailer For The Logan Movie — speakers: Tim Miller, Donald Glover, Joss Whedon Star Wars
-- 2016-10-20 — Death Star Heist - Caravan Of Garbage
-- 2016-10-17 — 157 Rogue One Trailer/Harry Potter 1 & 2 — speakers: Harry Potter
-- 2016-10-10 — 156 New York Comic Con 2016! — speakers: John Wick, Ben Afflecks, Ben Affleck Batman, Blade Runner, John Wick Chapter
-- 2016-10-06 — The Weirdest Luke Cage Adventure - Caravan Of Garbage — speakers: Luke Cage, Marvel Universe
-- 2016-10-03 — 155 Luke Cage & New Marvel Villains — speakers: Luke Cage, Lion King, Ben Affleck Batman, Stan Lee, Justin Lin, Luke Cage Spoiler Free, Luke Cage Spoiler
-- 2016-09-29 — The Worst Justice League Film - Caravan Of Garbage
-- 2016-09-26 — 154 Best Western Movies — speakers: Jared Leto
-- 2016-09-22 — The Only 90's Superman Movie - Caravan Of Garbage — speakers: Superman Movie Caravan, Loot Crate, Shaquille O'Neal
-- 2016-09-19 — 153 Batman (Best, Worst & Weirdest Versions) — speakers: Harley Quinn, Paul Walker
-- 2016-09-15 — The Lost Star Wars Sequel - Caravan Of Garbage
-- 2016-09-12 — 152 New DC Casting & Guilty Pleasure Movies — speakers: Daniel Craig, Mel Gibson
-- 2016-09-05 — 151 Best/Worst Summer Movies 2016 — speakers: Gene Wilder, Happy Hogan, Luke Skywalker
-- 2016-08-29 — 150 SUPERHERO SHOWDOWN! — speakers: Steve Rogers, Dark Universe
-- 2016-08-22 — 149 Most Disappointing Movies — speakers: Blade Runner, Batman Return
-- 2016-08-15 — 148 Rogue One Trailer & DC EXPOSED (but not really) — speakers: Luke Cage, Kenny Baker, Wonder Woman, Donald Glover
-- 2016-08-08 — 147 Suicide Squad is... — speakers: Suicide Squad, Jimmy Smits, Mark Ruffalo
-- 2016-08-01 — 146 Jason Bourne is…& The Batman Solo Movie — speakers: Jason Bourne, Joss Whedon, Ben Affleck, Jason Bourne Spoiler Free, Jason Bourne Spoiler, Harry Potter, Buy Jason Bourne
-- 2016-07-25 — 145 Comic Con 2016 - Justice League! Wonder Woman! Marvel Stuff! — speakers: Comic Con, Luke Cage, Guy Richie, Brie Larson
-- 2016-07-18 — 144 Ghostbusters is...& Star Wars Celebration — speakers: James Franco
-- 2016-07-11 — 143 Dumb Movie Futures That Are Wrong — speakers: Tony Stark, Iron Man, Jedi Council, George Takei
-- 2016-07-04 — 142 Game Of Thrones S6 & BVS Ultimate Cut — speakers: James Cameron, XnZ Buy
-- 2016-06-27 — 141 Big Justice League News & Independence Day: Resurgence — speakers: Anton Yelchin Rip, Bryan Cranston
-- 2016-06-20 — 140 Big E3 Reveals & Warcraft is... — speakers: Arkham VR, Tyler Hoechlin
-- 2016-06-13 — 139 Best Cartoons To Adapt Into Movies — speakers: Alien Covenant, John Boyega, James Wan
-- 2016-06-06 — 138 BVS Ultimate Cut & Ninja Turtles 2 — speakers: Doc Savage, Muhammad Ali, Brie Larson
-- 2016-05-30 — 137 X-Men: Apocalypse is... — speakers: Hydra Mel Gibson, Sam Mendes, Jamie Bell
-- 2016-05-23 — 136 Big DC Changes & Defunct Comic Book Universes 2! — speakers: Harley Quinn, Michael Keaton
-- 2016-05-16 — 135 Fantastic Four 2 & Best/Worst Threequels — speakers: Darwyn Cook, Threequel Films
-- 2016-05-09 — 134 Captain America: Civil War is... — speakers: Ben Affleck, Tom Cruises Mummy, Tom Cruise, Adam McKay
-- 2016-05-02 — 133 DC Rumours Plus Alien & Aliens (Are Great) — speakers: Lara Croft, Fox Pulls, George Miller, Green Lantern
-- 2016-04-25 — 132 Iron Man In Spider-man & Bourne Returns — speakers: Jason Bourne, Michelle McNamara, Joins Spider, Willem Dafoe, Spider-Man Homecoming
-- 2016-04-18 — 131 Doctor Strange & Suicide Squad Trailers! — speakers: Suicide Squad, Jason Statham, Channing Tatum, Michael Keaton, Tessa Thompson, Ben Affleck Solo Batman, Buy Batman
-- 2016-04-11 — 130 Star Wars Rogue One Trailer (A Star Wars Story Sounds Dumb) — speakers: Theron Joins Fast
-- 2016-04-04 — 129 BVS Box Office & Burton's Batman — speakers: Blade Runner, Batman Returns, Buy Burton
-- 2016-03-27 — 128 Batman V Superman Is...(dramatic pause) — speakers: Gary Shandling, Peter Serafinowicz
-- 2016-03-21 — 127 Daredevil Season 2! DISCUSSION! — speakers: Daredevil Season, Indiana Jones, George Lucas
-- 2016-03-14 — 126 Spider-man & Civil War Trailer Plus 10 Cloverfield Lane — speakers: Cloverfield Lane Hey, New Spider-Man, Tomb Raider, GoTBros Mason, Daisy Ridley, Sylvester Stallone, Jim Gordon Daredevil, Cloverfield Lane
-- 2016-03-07 — 125 Ghostbusters Trailer & Christopher Reeve Superman Films — speakers: Christopher Reeve Superman Films, Christopher Reeve Superman, Green Lantern, Luke Skywalker, Luke Skywalker Gay, Gordon Levitt, Suicide Squad, Ian McShane
-- 2016-02-29 — 124 R Rated Comic Book We Want To See
-- 2016-02-22 — 123 SUPERHERO SHOWDOWN! — speakers: Blade Runner, Blade Runner Release, Steve Rogers VS, Alex Mercer, Bruce Wayne VS, Scrooge McDuch, Bruce Wayne, Phasma VS Boba Fett
-- 2016-02-15 — 122 Deadpool movie, any good? — speakers: Battlestar Galactica, Sonic Animated
-- 2016-02-08 — 121 SUPERBOWL TV SPOTS! Civil War, Batman V Superman, X-Men! — speakers: Zack Synder, Cloverfield Lane X-Men
-- 2016-02-01 — 120 Best/Worst Cancelled Comic Book Movies 3! — speakers: Mooney Returning, Snyder’s Batman, Guillermo Del
-- 2016-01-25 — 119 DC's Massive Line Up! Sucide Squad, Wonder Woman & More! — speakers: Wonder Woman, Stephen Moffat
-- 2016-01-18 — 118 Rey a Mary Sue, Cloverfield 2 & New Han Solo...too — speakers: Mary Sue, Herd Aquaman, Cloverfield Lane, David Bowie, Alan Rickman, Jamie Fox, Robin Hood, X-Files Revival Reviews
-- 2016-01-11 — 117 Most Anticipated Movies Of 2016 — speakers: Michael Bay, Battling Boy, Strange Images
-- 2016-01-04 — BONUS! Best (Not Really) Of The Weekly Planet
-- 2015-12-28 — 116 Best & Worst Of 2015! — speakers: Least Annoyed
-- 2015-12-21 — 115 Star Wars: The Force Awakens, Success Or Rehash?
-- 2015-12-14 — 114 Star Wars The Force Awakens Predictions, X-Men: Apocalypse & Ninja Turtles 2 — speakers: Kylo Ren, Luke Skywalker
-- 2015-12-07 — 113 Batman V Superman Trailer Ruins Everything
-- 2015-11-30 — 112 Civil War Trailer (& differences from the comic) — speakers: Tom Cruise
-- 2015-11-23 — 111 Jessica Jones, best Marvel property yet? — speakers: Jessica Jones, Peter Jackson, Wonder Woman
-- 2015-11-16 — 110 Spectre (Is Balls) — speakers: Suicide Squad
-- 2015-11-09 — 109 Best/Worst CGI Characters, Warcraft & Star Wars! — speakers: Star Wars, Doctor Strange
-- 2015-11-02 — 108 Best Horror Movie Icons — speakers: Suicide Squad
-- 2015-10-26 — 107 Star Wars The Force Awakens Final Trailer — speakers: Jessica Jones, Wonder Woman
-- 2015-10-19 — 106 Hulk Joins Thor: Ragnarok & Back To The Future! — speakers: Vin Diesel, Battle Angel Alita
-- 2015-10-12 — 105 Flash & Arrow Premieres (Plus Gotham's Joker Twist) — speakers: Joker Twist, Lex Luthor, Boba Fett
-- 2015-10-05 — 104 The Martian — speakers: Matt Damon, Ridley Scott, Robin Hood
-- 2015-09-28 — 103 Best Sci-Fi Films — speakers: Best Sci-Fi Films, Darth Vader
-- 2015-09-21 — 102 James Bond - The Craig Years — speakers: Bill Finger
-- 2015-09-14 — 101 Defunct Comic Book Universes — speakers: Matt Damon
-- 2015-09-07 — 100! Star. Wars. Prequels
-- 2015-08-31 — 99 Superhero Showdown Returns! — speakers: Showdown Returns
-- 2015-08-24 — 98 Best & Worst Video Game Movies — speakers: Michael Shannon, Victor Frankenstien
-- 2015-08-17 — 97 Civil War, Star Wars & The Man From U.N.C.L.E
-- 2015-08-10 — 96 Fantastic Four & Deadpool Trailer
-- 2015-08-03 — 95 Mission: Impossible Rogue Nation (The Roguiest One Yet?) — speakers: Impossible Rogue Nation, Star Wars
-- 2015-07-27 — 94 Best & Worst Mission Impossible Films — speakers: Worst Mission Impossible Films, Mission Impossible, Rogue Nation, Fantastic Four
-- 2015-07-20 — 93 Ant-Man! And Suicide Squad — speakers: Suicide Squad
-- 2015-07-13 — 92 Comic Con! Batman V Superman, Deadpool, Warcraft — speakers: Comic Con, Suicide Squad
-- 2015-07-05 — 91 Terminator: Genisys (with Nicholas J Johnson)
-- 2015-06-29 — 90 New Spider-man, Terminator & Arkham Knight — speakers: Arkham Knight
-- 2015-06-22 — 89 Game Of Thrones & E3
-- 2015-06-15 — 88 Jurassic World & The New Punisher — speakers: Comic Con
-- 2015-06-08 — 87 Entourage, Spy & Obi Wan The Movie
-- 2015-06-01 — 86 San Andreas & Tomorrowland — speakers: Suicide Squad, Wonder Woman
-- 2015-05-25 — 85 The Flash, Arrow, S.H.I.E.L.D & Gotham Finales
-- 2015-05-18 — 84 Mad Max: Fury Road — speakers: Johnny Depps
-- 2015-05-11 — 83 Everything Mad Max, Civil War & Suicide Squad — speakers: Suicide Squad, Boba Fett
-- 2015-05-04 — 82 Avengers: Age Of Ultron! — speakers: Star Wars, Suicide Squad
-- 2015-04-27 — 81 Star Wars Original Trilogy & The New Joker
-- 2015-04-20 — 80 Trailers! Batman v Superman, Force Awakens, the rest — speakers: Force Awakens
-- 2015-04-13 — 79 Daredevil! Netflix!
-- 2015-04-06 — 78 Furious 7 & Deadpool's R Rating
-- 2015-03-30 — 77 Best Movie Spies — speakers: Lex Luthor
-- 2015-03-23 — 76 Best Spider-man Stories — speakers: Best Spider, Stories Not, Justice League, Civil War, Weekly Pl
-- 2015-03-16 — 75 Star Wars: Rogue One & Chappie — speakers: Comic Con
-- 2015-03-09 — 74 Best Comic Book Weapons
-- 2015-03-02 — 73 Best Comic Book Trilogies — speakers: Best Comic Book Trilogies, Power Rangers
-- 2015-02-23 — 72 Everything Aquaman! — speakers: Everything Aquaman, Wonder Woman
-- 2015-02-16 — 71 Spider-man Back At Marvel & Kingsman
-- 2015-02-09 — 70 Daredevil, DC Reboot & Mark Millar — speakers: Green Lantern, Mark Millar
-- 2015-02-02 — 69 Fantastic Four Is...Something?
-- 2015-01-27 — 68 Most Exciting Movies Of 2015 — speakers: Star Wars
-- 2015-01-20 — 67 Super Villain Showdown! — speakers: Super Villain Showdown, Men Apocalypse, Captain America
-- 2015-01-12 — 66 Ant-man & Agent Carter
-- 2015-01-05 — Minisode - The Hobbit 3 (Is Terrible) — speakers: Middle Earth
-- 2014-12-29 — 65 Best & Worst Films Of 2014 — speakers: Star Wars, Star Trek, Doctor Who
-- 2014-12-22 — 64 Best Christmas Everything Or Whatever
-- 2014-12-15 — 63 Spider-man & Sony Hack & Mid-Season Wrap Up — speakers: Mad Max
-- 2014-12-08 — 62 The Lord Of The Rings Trilogy & Suicide Squad — speakers: Peter Jackson, Wonder Woman
-- 2014-12-01 — 61 Star Wars: The Force Awakens, Jurassic World & Gotham — speakers: Blade Runner, Wonder Woman
-- 2014-11-23 — 60 The Hunger Games Mockingjay Pt 1 & Doctor Who
-- 2014-11-17 — 59 Best/Worst Comic Book Video Games — speakers: Worst Comic Book Video, Games Comic, Wonder Woman, Captain America, Civil War, Infinity Wa
-- 2014-11-10 — 58 Interstellar (Amazing Or Overrated?) — speakers: Harley Quin
-- 2014-11-03 — 57 Marvel's New Line-Up & The Films Of Christopher Nolan — speakers: New Line, Nolan Big
-- 2014-10-27 — 56 Age Of Ultron Plus Best/Worst Trailers Of All Time (& the thing about lightsaber fights) — speakers: Plus Wonder Woman, Suicide Squad
-- 2014-10-20 — 55 Civil War, DC's Film Line-up & SUPERHERO SHOWDOWN! — speakers: Film Line-up Superhero
-- 2014-10-13 — 54 Arrow, The Flash & Dracula Untold — speakers: Universals Dracula Untold
-- 2014-10-06 — 53 Everything The Flash!
-- 2014-09-29 — 52 Gotham, Agents Of S.H.I.E.L.D. & Star Wars Rebels
-- 2014-09-22 — 51 Toonstravaganza! (with Tommy Dassalo) — speakers: Tommy Dassalo
-- 2014-09-15 — Minisode? Minisode.
-- 2014-09-08 — 50 Best Batman Moments
-- 2014-09-01 — 49 Movies That Need Reboots — speakers: Doctor Strange, Fantastic Four, Greatest American Hero
-- 2014-08-25 — 48 Best/Worst Cancelled CBM's Part 2 — speakers: James Bond
-- 2014-08-18 — 47 Best/Worst Action Films & The Expendables 3 — speakers: Ben Hur
-- 2014-08-11 — 46 The Infinity Stones & Batman V Captain America
-- 2014-08-04 — 45 Guardians Of The Friggan Galaxy! — speakers: Marvels Guardians, Mad Max
-- 2014-07-28 — 44 San Diego Comic Con & Hercules! — speakers: Wonder Woman, Brett Ratner
-- 2014-07-21 — 43 The Best & Worst Of Ninja Turtles & Female Thor
-- 2014-07-14 — 42 Dawn Of The Planet Of The Apes & Andy Serkis Oscar Contender — speakers: Oscar Contender, Brandon Routh
-- 2014-07-07 — 41 Best & Worst Planet Of The Apes Movies — speakers: Kevin Smith
-- 2014-06-30 — 40 Transformers: Age Of Extinction — speakers: Michael Bay
-- 2014-06-23 — 39 Transformers Movies - Best & Worst — speakers: Matt Damon
-- 2014-06-16 — 38 Everything Doctor Strange & Grumpy Old Gramps Harrison Ford — speakers: Gramps Harrison Ford, Harrison Ford
-- 2014-06-09 — 37 Edge Of Tomorrow (& Tom Cruise Runs Like A Muppet) — speakers: Tom Cruise, Plus Ant-man
-- 2014-06-02 — 36 Star Wars Spin-Off's We Want To See
-- 2014-05-26 — 35 X-Men: Days Of Future Past is...
-- 2014-05-19 — 34 Godzilla, The Batsuit + Best & Worse X-Men Movies Continued
-- 2014-05-12 — 33 Best & Worst X-Men Films
-- 2014-05-05 — 32 The Amazing Spider-man 2 is... — speakers: Terminator Genesis
-- 2014-04-28 — 31 Best/Worst Cancelled CBM's Part 1 — speakers: VS Superman
-- 2014-04-21 — 30 Best & Worst Spider-man Films — speakers: VS Superman, Sam Raimi Spider-man
-- 2014-04-14 — 29 Marvel Movies We Want To See
-- 2014-04-06 — 28 Captain America: The Winter Soldier - Best Or Worst Movie Ever — speakers: Ninja Turtle
-- 2014-03-31 — 27 The (Terrible) History of Captain America In Film
-- 2014-03-24 — 26 Most Anticipated Summer Movies Of 2014 — speakers: VS Superman
-- 2014-03-17 — 25 Worst CBM Costumes & Batman VS Superman VS Captain America — speakers: VS Superman
-- 2014-03-10 — 24 Batman Arkham Knight, 300: Rise Of An Empire & Transformers 4 — speakers: Arkham Knight
-- 2014-03-03 — 23 Spider-man In The Avengers, A New Matrix Trilogy & 300! — speakers: VS Superman
-- 2014-02-24 — 22 Everything Guardians Of The Galaxy — speakers: Galaxy Things
-- 2014-02-17 — 21 Gotham TV Series & Robocop 2014 — speakers: VS Superman
-- 2014-02-10 — 20 The Best DC Animated Movies
-- 2014-02-03 — 19 Eisenberg/Luthor & History Of Robocop — speakers: Jesse Eisenberg, Lex Luthor
-- 2014-01-27 — 18 Comic Book Movies Stuck In Development Hell — speakers: Wonder Woman, Killer Crow
-- 2014-01-21 — 17 History Of Ant-Man — speakers: Boba Fett
-- 2014-01-13 — 16 Star Wars, Batman VS Superman & Superhero Movies Not Based On Comics — speakers: VS Superman
-- 2014-01-07 — 15 Kryptonian Wonder Woman, The Rock As Green Lantern & Most Anticipated Films! — speakers: Michael Bay
-- 2013-12-30 — 14 Best And Worst Movies Of 2013
-- 2013-12-23 — 13 Best And Worst Comic Book Movie Casting — speakers: Paul Rudd, Jaoquin Pheonix, Lex Luthor
-- 2013-12-16 — 12 Dumbest Moments In Comic Book Movies, Godzilla & More!
-- 2013-12-09 — 11 The Weird History Of Spider-man In Film — speakers: Gal Gadot, Wonder Woman
-- 2013-12-03 — 10 Terrible/Bizarre/Better Alternate Endings To Popular Comic Book Movies — speakers: Popular Comic Book Movies, Iron Man
-- 2013-11-26 — 9 The Hunger Games: Catching Fire & Doctor Who: The Day Of The Doctor — speakers: Catching Fire, Doctor Who
-- 2013-11-19 — 8 Best & Worst CBM's Of 2013 — speakers: Iron Man
-- 2013-11-12 — 7 Why Everyone Hates Agents Of S.H.I.E.L.D. & Batman VS Superman News — speakers: Why Everyone Hates Agents, Superman Nightwing, Wonder Woman, Netflix Announce
-- 2013-11-05 — 6 Thor: The Dark World (Any Good?) — speakers: Any Good
-- 2013-10-29 — 5 Batman Arkham Orgins - Yay Or Nay? — speakers: Arkham Orgins Yay, Arkham Origins, Harrison Fords
-- 2013-10-22 — 4 Best & Worst Marvel Movies — speakers: Captain America
-- 2013-10-15 — 3 Superman VS. Batman - Facts, Rumours, Speculation, Nonsense
-- 2013-10-08 — 2 Best & Worst Comic To TV Adaptations - Plus Agents Of S.H.I.E.L.D. Discussion — speakers: Comic Book
-- 2013-09-30 — 1 Underrated Comic Book Movies — speakers: Underrated Comic Book Movies, Mr Sunday
+- 2026-02-19 — Return of the Jedi - Caravan Of Garbage — speakers: Luke Skywalker, Darth Vader, Death Star, George Lucas, James Clement, Nick Mason
+- 2026-02-15 — 610 Crime 101 & Marvel vs Star Wars Crossover — speakers: John Wick, Tom Cruise, Brad Pitt, John Wick Video, James Clement, Nick Mason
+- 2026-02-12 — The Empire Strikes Back - Caravan Of Garbage — speakers: Luke Skywalker, George Lucas, James Clement, Nick Mason
+- 2026-02-09 — 609 Super Bowl Trailers & Most Anticipated Movies 2026 — speakers: James Clement, Nick Mason
+- 2026-02-05 — Star Wars - Caravan Of Garbage — speakers: Wars Caravan, George Lucas, John Williams, Harrison Ford, Carrie Fisher, Mark Hamill, James Clement, Nick Mason
+- 2026-02-01 — 608 Most Anticipated Movies & Shows 2026 Part I — speakers: Catherine O’Hara, Tomb Raider, Catherine O'Hara Rip, Kathleen Kennedy, James Clement, Nick Mason
+- 2026-01-12 — Best of The Weekly Planet 2025 — speakers: Austin Powers, Benson Boone, James Clement, Nick Mason
+- 2026-01-05 — X-Men (2000) - The Weekly Planet Movie Commentary Track — speakers: James Clement, Nick Mason
+- 2025-12-29 — 607 The Best & Worst of 2025 Awards — speakers: Peter Greene, James Ransone, James Ransone Rip Avatar, James Clement, Nick Mason
+- 2025-12-26 — Wrath of the Titans - Caravan Of Garbage — speakers: Sam Worthington, James Clement, Nick Mason
+- 2025-12-22 — 606 Avatar: Fire & Ash — speakers: Rob Reiner, Michele Singer Reiner, Officially Cast, Doomsday Teaser, James Clement, Nick Mason
+- 2025-12-18 — Clash of the Titans - Caravan Of Garbage — speakers: Sam Worthington, Ray Harryhausen, Liam Neeson, Ralph Finnes Hades, James Clement, Nick Mason
+- 2025-12-14 — 605 Supergirl Trailer & Paramount vs Netflix for Warner Bros — speakers: Jennifer Lawrence, Josh Hutcherson, James Clement, Nick Mason
+- 2025-12-10 — Tomorrowland - Caravan Of Garbage — speakers: Brad Bird, George Clooney, James Clement, Nick Mason
+- 2025-12-08 — 604 The Netflix Warner Bros Deal — speakers: Quentin Tarantino, Nicholas Cage, Paul Dano, James Clement, Nick Mason
+- 2025-12-04 — The Lone Ranger - Caravan Of Garbage — speakers: Lone Ranger Caravan, Johnny Depp, Hans Zimmer, Gore Verbinski, Armie Hammer, James Clement, Nick Mason
+- 2025-11-30 — 603 Wake Up Dead Man: A Knives Out Mystery (with Dave Warneke) — speakers: Dave Warneke, Watch Dave, James Clement, Nick Mason
+- 2025-11-27 — John Carter - Caravan Of Garbage — speakers: John Carter Caravan, Anrew Stanton, Taylor Kitsch, Edgar Rice Burroughs, James Clement, Nick Mason
+- 2025-11-24 — 602 Wicked: For Good & Moana But Worse — speakers: Ninja Turtles, Labubu Movie, James Clement, Nick Mason
+- 2025-11-20 — The Sorcerer's Apprentice - Caravan Of Garbage — speakers: Nick Cage, James Clement, Nick Mason
+- 2025-11-17 — 601 The Running Man — speakers: Steven King, Miles Teller, Jimmy Olsen Spin-Off, James Clement, Nick Mason
+- 2025-11-13 — The Predator - Caravan Of Garbage — speakers: Shane Black, James Clement, Nick Mason
+- 2025-11-10 — 600 Predator: Badlands & Pluribus — speakers: Brendan Fraser, Rachel Weisz, James Clement, Nick Mason
+- 2025-11-07 — Predators - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2025-11-03 — 599 Frankenstein 2025 & IT: Welcome To Derry — speakers: Stephen King, Reeves Sci-Fi, Frankenstein Spoiler, James Clement, Nick Mason
+- 2025-10-30 — Predator 2 - Caravan Of Garbage — speakers: Arnold Schwarzenegger, Danny Glover, Gary Busey, James Clement, Nick Mason
+- 2025-10-27 — 598 Cancelled Kylo Ren Movie & Gen V Season 2 — speakers: James Bond, Bob Iger, James Gunn, David Fincher, James Clement, Nick Mason
+- 2025-10-23 — Predator - Caravan Of Garbage — speakers: Arnold Schwarzenegger, James Clement, Nick Mason
+- 2025-10-20 — 597 The Mattel Cinematic Universe & Why Tron: Ares Bombed — speakers: Wonder Man, Sigourney Weaver, Diane Keaton, Jim Carrey, James Clement, Nick Mason
+- 2025-10-13 — 596 Tron: Ares & Peacemaker S2 Finale! — speakers: James Bond, James Bond Gone Woke, James Clement, Nick Mason
+- 2025-10-10 — Tron: Legacy - Caravan Of Garbage — speakers: Jeff Bridges, Kevin Flynn, James Clement, Nick Mason
+- 2025-10-07 — Tron - Caravan Of Garbage — speakers: Jeff Bridges, Glowing Pyjamas, James Clement, Nick Mason
+- 2025-10-05 — 595 New AI Actor Controversy & The Smashing Machine — speakers: Brendan Fraser, Rachael Weisz, Watch James, Guillermo Del Toro, James Clement, Nick Mason
+- 2025-10-02 — The Mummy 2017 - Caravan Of Garbage — speakers: Tom Cruise, Javier Bardem, Johnny Depp, James Clement, Nick Mason
+- 2025-09-29 — 594 One Battle After Another & Stan Lee Returns! — speakers: Lee Returns, Paul Thomas Anderson, Stan Lee, Mad Max, James Clement, Nick Mason
+- 2025-09-25 — Dracula Untold - Caravan Of Garbage — speakers: Dracula Untold Caravan, Dracula Untold, Luke Evans, James Clement, Nick Mason
+- 2025-09-21 — 593 The Batman 2 Villain Speculation & Gen V Season 2 — speakers: Robert Redford, Liam Hemsworth, James Clement, Nick Mason
+- 2025-09-18 — The Wolfman - Caravan Of Garbage — speakers: Lon Chaney Jr, Anthony Hopkins, Emily Blunt, Joe Johnston, James Clement, Nick Mason
+- 2025-09-15 — 592 New Doctor Doom First Look & The Long Walk — speakers: Stephen King, Mark Hamill, Robert Downey Jr, David Zslav, Doom Avengers, David Zaslav, Michael Caine Returns, Wake Up Dead Man, James Clement, Nick Mason
+- 2025-09-11 — Van Helsing - Caravan Of Garbage — speakers: Van Helsing Caravan, Dark Universe, Van Helsing, Hugh Jackman, Kate Beckinsale, Gabriel Van Hesling, James Clement, Nick Mason
+- 2025-09-08 — 591 Man Of Tomorrow & Best Actors Who Pivoted — speakers: James Bond, Thumb Cramps, Lara Croft, Tomb Raider, Bluey Movie, James Clement, Nick Mason
+- 2025-09-04 — Percy Jackson: Sea of Monsters - Caravan Of Garbage — speakers: Percy Jackson, Pierce Brosnan, James Clement, Nick Mason
+- 2025-09-01 — 590 Caught Stealing & Kpop Demon Hunters vs Red Notice — speakers: Demon Hunters, Kpop Demon Hunters, Darren Aronofsky, Caught Stealing, Alan Ritchson, Demon Hunters Overtakes, James Clement, Nick Mason
+- 2025-08-28 — Percy Jackson & the Olympians: The Lightning Thief - Caravan Of Garbage — speakers: Harry Potter, Rick Riordan, Percy Jackson, Christopher Columbus, James Clement, Nick Mason
+- 2025-08-25 — 589 Peacemaker Season 2 & The Naked Gun — speakers: Alan Cumming, Mahershala Ali, Ian McKellen, Jason Bourne, James Gunn, James Bourne Return, James Clement, Nick Mason
+- 2025-08-21 — Alien: Covenant - Caravan Of Garbage — speakers: Elizabeth Shawit, Michael Fassbender, James Clement, Nick Mason
+- 2025-08-18 — 588 Alien: Earth — speakers: Ryan Reynold, Jeff Bezos, Simon Kinberg, James Gunn, Thumb Cramps, James Gunn Starts, Zach Creggar, James Clement, Nick Mason
+- 2025-08-14 — Prometheus - Caravan Of Garbage — speakers: Ridley Scott, Damon Lindelof, James Clement, Nick Mason
+- 2025-08-10 — 587 Weapons — speakers: Matt Smith, Michael Bay, Will Smith, Tom Cruise, Tom Cruise Movie, James Clement, Nick Mason
+- 2025-08-07 — Oblivion - Caravan Of Garbage — speakers: Tom Cruise, Joseph Kosinski, James Clement, Nick Mason
+- 2025-08-04 — 586 Together & The Future of New DCU/MCU — speakers: Robert Downey Jr, James Boon, James Bond, James Clement, Nick Mason
+- 2025-07-31 — Bulletproof Monk - Caravan Of Garbage — speakers: Sean William Scott, James Clement, Nick Mason
+- 2025-07-28 — 585 The Fantastic Four: First Steps — speakers: John Krasinski, Chris Evans, Mortal Kombat, James Gunn, Henry Cavill, Kevin Feige, Dredd Movie, James Clement, Nick Mason
+- 2025-07-24 — Barb Wire - Caravan Of Garbage — speakers: Barb Wire Caravan, Pamela Anderson, Barb Wire, Dark Horse, James Clement, Nick Mason
+- 2025-07-20 — 584 Superman Success & Best/Worst Legacy Comic Characters — speakers: Comic Characters, John Malkovich’s Red Ghost, Clayface Movie, James Clement, Nick Mason
+- 2025-07-17 — Timecop - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2025-07-14 — 583 Superman 2025! — speakers: Black Superman Movie, James Clement, Nick Mason
+- 2025-07-09 — Smallville - Caravan Of Garbage — speakers: Clark Kent Superman, Christopher Reeve, James Clement, Nick Mason
+- 2025-07-06 — 582 Jurassic World Rebirth — speakers: Paul Walker, Michael Madson, Julian McMahon, Paul Walker Returns, Mcu Blade Costumes, James Clement, Nick Mason
+- 2025-07-03 — Lois & Clark: The New Adventures of Superman - Caravan Of Garbage — speakers: Starring Teri Hatcher, Dean Cain, James Clement, Nick Mason
+- 2025-06-30 — 581 F1, Ironheart & New James Bond Director — speakers: Maverick Joseph Kosinski, William Bradley Pitt, James Bond, Michael Bay, Iron Heart, Michael Bay Returning, James Clement, Nick Mason
+- 2025-06-26 — Adventures of Superman - Caravan Of Garbage — speakers: James Gunn, George Reeves, Jimmy Olsen, Lois Lane, James Clement, Nick Mason
+- 2025-06-23 — 580 28 Years Later (23 Years Later) — speakers: Danny Boyle, Alex Garland, John Bernthal, Tom Rhys Harries, James Gunn, James Clement, Nick Mason
+- 2025-06-19 — The 13th Warrior - Caravan Of Garbage — speakers: Michael Crichton, John McTiernan, Antonio Banderas, James Clement, Nick Mason
+- 2025-06-16 — 579 Materialists & Final Superman Trailer — speakers: Chris Evans, Pedro Pascal, Wonder Woman, Mortal Kombat II, Disney Sue Midjourney, Mortal Kombat, Disney Sue Midjourney AI, James Clement, Nick Mason
+- 2025-06-12 — Timeline - Caravan Of Garbage — speakers: Michael Crichton, Richard Donner, Paul Walker, Gerry Butler, Frances O'Connor, Billy Connolly, James Clement, Nick Mason
+- 2025-06-09 — 578 From the World of John Wick: Ballerina — speakers: John Wick, Kathleen Kennedy, David Zazslav, James Clement, Nick Mason
+- 2025-06-05 — Sphere - Caravan Of Garbage — speakers: Michael Crichton, Dustin Hoffman, Sharon Stone, James Clement, Nick Mason
+- 2025-06-02 — 577 Bring Her Back & Superman VS Fantastic Four — speakers: Skibidi Toilet, James Gunn, Chris Hemsworth, Mark Hamill, Luke Skywalker, Michael Bay, James Clement, Nick Mason
+- 2025-05-29 — Congo - Caravan Of Garbage — speakers: Michael Crichton, James Clement, Nick Mason
+- 2025-05-26 — 576 Mission: Impossible – The Final Reckoning — speakers: Tom Cruise, Andor’s Tony Gilroy, Clown Town, Top Gun, James Maso, Tony Gilroy vs Marvel, Alex Garland, James Clement, Nick Mason
+- 2025-05-22 — Jason Bourne - Caravan Of Garbage — speakers: Jason Bourne Caravan, Jason Bourne, Tommy Lee Jones, Vincent Cassel, James Clement, Nick Mason
+- 2025-05-19 — 575 New Superman Trailer & Andor Season 2 — speakers: Hbo Max, David Zaslav, James Clement, Nick Mason
+- 2025-05-16 — The Bourne Legacy - Caravan Of Garbage — speakers: Jeremy Renner, Adjacent Bourne, Aaron Cross, Jason Bourne, James Clement, Nick Mason
+- 2025-05-12 — 574 Action Movie Wrap Up & MCU back on track? — speakers: Bob Iger, Kevin Feige, Donald Trump, James Clement, Nick Mason
+- 2025-05-08 — The Bourne Ultimatum - Caravan Of Garbage — speakers: Jason Bourne, Aaron Cross, James Clement, Nick Mason
+- 2025-05-05 — 573 Thunderbolts* — speakers: Sergeant Rock, Jeremy Renner, Ryan Reynolds, James Bond, James Clement, Nick Mason
+- 2025-05-01 — The Bourne Supremecy - Caravan Of Garbage — speakers: Matt Damon, Jason Bourne, Paul Greengrass, Tony Gilroy, James Clement, Nick Mason
+- 2025-04-28 — 572 Until Dawn the Movie — speakers: Until Dawn, Sam Jackson, Mace Windu, Thumb Cramps, Jason Bourne, Turn Down Star, James Clement, Nick Mason
+- 2025-04-24 — The Bourne Identity - Caravan Of Garbage — speakers: Jason Bourne, Jason Bourne-universe, Doug Liman, Matt Damon, Julia Stiles, Brian Cox, Clive Owen, Chris Cooper, James Clement, Nick Mason
+- 2025-04-21 — 571 Sinners & Star Wars Celebration 2025 — speakers: Ryan Coogler, James Gunn, Darth Maul Animated, James Clement, Nick Mason
+- 2025-04-18 — Uncharted - Caravan Of Garbage — speakers: Tom Holland, Nathan Drake, Mark Whalberg, James Clement, Nick Mason
+- 2025-04-14 — 570 Black Mirror Season 7 — speakers: Josh Earl, James Clement, Nick Mason
+- 2025-04-11 — Wing Commander - Caravan Of Garbage — speakers: Mark Hamill, Matthew Lillard, Chris Roberts, James Clement, Nick Mason
+- 2025-04-06 — 569 A Minecraft Movie — speakers: Karate Kid, Quentin Tarrentino, David Fincher, Val Kilmer, James Clement, Nick Mason
+- 2025-04-03 — Street Fighter The Movie (Extended) - Caravan of Garbage — speakers: Kylie Minogue, Raul Julia, James Clement, Nick Mason
+- 2025-03-31 — 568 Avengers: Doomsday Cast & A Working Man (with Matt Stewart) — speakers: Matt Stewart, James Bond, Jason Statham, Snow White, New James Bond, James Clement, Nick Mason
+- 2025-03-27 — Double Dragon (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2025-03-24 — 567 Severance Season 2 (with Sammy Petersen) — speakers: Sammy Petersen, Jason Bourne, John Wick Ballerina, Jason Bourne Returns, Nick Mason, James Clement
+- 2025-03-20 — Punisher: War Zone - Caravan Of Garbage — speakers: Ray Stevenson, Frank Castle, Lexi Alexander, James Clement, Nick Mason
+- 2025-03-17 — 566 The Electric State & Black Bag — speakers: Black Bag, John Wick, Sadie Sink, John Wick Universe, James Clement, Nick Mason
+- 2025-03-14 — The Punisher (2004) - Caravan Of Garbage — speakers: John Travolta, Frank Castle, James Clement, Nick Mason
+- 2025-03-10 — 565 Mickey 17 & Avengers Leaks — speakers: Latest License, James Clement, Nick Mason
+- 2025-03-06 — The Punisher (1989) - Caravan Of Garbage — speakers: Dolph Lundgren, James Clement, Nick Mason
+- 2025-03-02 — 564 Kathleen Kennedy GONE & Best/Worst Fantasy Movies (with Sanspants Radio) — speakers: Kathleen Kennedy, Jackson Baly, Joel Zammit, Michelle Trachtenberg Rip, James Clement, Nick Mason
+- 2025-02-27 — Elektra - Caravan Of Garbage — speakers: Jennifer Garner, James Clement, Nick Mason
+- 2025-02-24 — 563 The Monkey & James Bond/Amazon Deal — speakers: James Bond, James Gunn, Zack Snyder, Controls James Bond, James Gunn Zack, James Clement, Nick Mason
+- 2025-02-20 — Daredevil - Caravan Of Garbage — speakers: Ben Affleck, Matt Murdoch, Michael Clarke Duncan, Colin Farrell, Jennifer Garner, James Clement, Nick Mason
+- 2025-02-17 — 562 Captain America: Brave New World — speakers: Rebel Moon, Harry Potter, James Clement, Nick Mason
+- 2025-02-13 — Captain America: Civil War - Caravan Of Garbage — speakers: Tony Stark, Sokovia Accords, James Clement, Nick Mason
+- 2025-02-10 — 561 The Fantastic Four & Big Game Super Bowl Trailers — speakers: Anthony Mackie, Benson Boone, James Clement, Nick Mason
+- 2025-02-06 — Captain America: The Winter Soldier - Caravan Of Garbage — speakers: Steve Rogers, Nick Fury, James Clement, Nick Mason
+- 2025-02-02 — 560 Companion & Nosferatu — speakers: Anthony Mackie, Harry Potter, Netflix Cancel Sandman, James Clement, Nick Mason
+- 2025-01-30 — Captain America: The First Avenger - Caravan Of Garbage — speakers: Chris Evan, Steve Rogers, Joe Johnston, Hayley Atwell, Peggy Carter, Sebastian Stan, Bucky Barnes, Stanley Tucci, James Clement, Nick Mason
+- 2025-01-27 — 559 Most Anticipated Movies & Shows 2025 — speakers: Oscar Nominations, David Lynch, James Guest Appearance, Oscar Noms, wikipediabrown Maso, James Clement, Nick Mason
+- 2025-01-13 — Best of The Weekly Planet 2024 — speakers: Tom Holland, Outro James Twitter, wikipediabrown Maso, James Clement, Nick Mason
+- 2025-01-06 — The Greatest Action Movies of All Time - Clickbait Bonus Episode — speakers: James Twitter, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-12-30 — 558 The Best & Worst of 2024 Awards — speakers: Christopher Nolan, Chris Nolan, Spider-Man Movie Latest, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-12-23 — 557 Superman Trailer & Mufasa — speakers: James Gunn, Super Superman, James Bond, James Bond News, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-12-19 — The Lord of the Rings: The Return of the King - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-12-16 — 556 Kraven the Hunter — speakers: Chris Evans, Henry Cavill, Jeremy Allen White, Chris Evans Returns, Barbie Movie Sequel Update, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-12-09 — 555 Creature Commandos & Skeleton Crew — speakers: Viggo Mortensen, Booster Gold, Nick Mason, James Gunn Explains, Alan Moore, Skeleton Crew Spoiler, wikipediabrown Maso, James Clement
+- 2024-12-05 — The Lord of the Rings: The Two Towers - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-12-02 — 554 Moana 2 — speakers: Moana Woah, Tom Cruise, Denis Villeneuve, Moana Spoiler, James Clement, Nick Mason
+- 2024-11-25 — 553 Wicked! Part 1 — speakers: James Gunn, Daniel Craig, James Gunn Talks, Daniel Craig Cast, James Clement, Nick Mason
+- 2024-11-21 — The Lord of the Rings: The Fellowship of the Rings - Caravan Of Garbage — speakers: Peter Jackon, Seasn Astin, Ian McKellen, Viggo Mortensen, Cate Blanchett, Ian Holm, Sean Bean, Orlando Bloom, James Clement, Nick Mason
+- 2024-11-18 — 552 Glad2ator & The Penguin — speakers: Dwayne Johnson, Tomb Raider, Amierca Brave Big Bird, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-11-14 — Noah - Caravan Of Garbage — speakers: Darren Aronofsky, Russell Crowe, Rusty Crowe, Robin Hood, James Clement, Nick Mason
+- 2024-11-11 — 551 Red One & Big MCU Trailers! — speakers: Rock Johnson, Chris Evans, Daniel Craig, Dennis Villeneuve, James Gunn, Donald Trump Good, Denis Villeneuve, Quentin Tarantino, James Clement, Nick Mason
+- 2024-11-07 — Master & Commander: The Far Side of the World - Caravan Of Garbage — speakers: Rusty Crowe, Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy, James Clement, Nick Mason
+- 2024-11-04 — 550 Agatha All Along & Here — speakers: Robert Zemeckis, Ant Man Quantumania Made, Skeleton Crew Star, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-10-31 — Gladiator - Caravan Of Garbage — speakers: Russell Crowe, Joaquin Phoenix, Connie Nielson, Djimon Hounsou, Richard Harris, Oliver Reed, James Clement, Nick Mason
+- 2024-10-28 — 549 Venom: The Last Dance — speakers: Christopher Nolan, Tom Holland, Alien Romulus, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-10-24 — The Thing but 2011 - Caravan Of Garbage — speakers: Mary Elizabeth Winstead, Joel Edgerton, James Clement, Nick Mason
+- 2024-10-21 — 548 Krypto the Superdog & Trailers Galore! — speakers: Christopher Nolan, John Wick, Wolf Man, Tom Holland, John Wick Movie Re-Shoots, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-10-17 — The Thing - Caravan Of Garbage — speakers: John Carpenter, Kurt Russell, Keith David, Rob Bottin, Ennio Morricone, James Clement, Nick Mason
+- 2024-10-14 — 547 Transformers One & Hellboy: The Crooked Man — speakers: Bird Man, Robert Downey Jr, Henry Cavill, Francis Ford Coppola, Aaron Pierre, Christopher Nolan, Zachery Levi, Henry Cavill Cast, James Clement, Nick Mason
+- 2024-10-10 — Oz the Great and Powerful - Caravan Of Garbage — speakers: Sam Raimi, James Franco, Michelle Williams, Milla Kunis, Rachael Weisz, James Clement, Nick Mason
+- 2024-10-07 — 546 Joker: Folie à Deux — speakers: Lee Quinzel, Kris Kristofferson, Andrew Garfield, Nicholas Cage, Rip Kris Kristofferson, Lead Cast, Better Man, Robbie Williams, James Clement, Nick Mason
+- 2024-10-03 — Return to Oz - Caravan Of Garbage — speakers: Jack Pumpkin Head, James Clement, Nick Mason
+- 2024-09-30 — 545 Megalopolis (mega-FLOP-olis) — speakers: Francis Ford Coppola, John Cassaday, Crook Bloke, Kyle Chandler, Green Lantern, James joins, Kyle Chandler Green, Megalopolis Spoiler, James Clement, Nick Mason
+- 2024-09-26 — The Wizard of Oz - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-09-23 — Pop Culture in 2005 - James & Maso's Time Crapsule — speakers: James Twitter, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-09-19 — Hellboy 2019 - Caravan Of Garbage — speakers: Ron Pearlman, David Harbour, Neil Marshall, James Clement, Nick Mason
+- 2024-09-16 — Morbius - The Weekly Planet Movie Commentary Track — speakers: James Twitter, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-09-12 — Hellboy II: The Golden Army - Caravan Of Garbage — speakers: Ron Pearlman, Doug Jones, James Clement, Nick Mason
+- 2024-09-09 — 544 Beetlejuice Beetlejuice & Joker 2 First Reactions — speakers: Mcu Blade, Armor Wars, Ian McKellen, Josh Brolin, Hal Jordan, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-09-05 — Hellboy - Caravan Of Garbage — speakers: Rob Pearlman, Doug Jones, Abe Sapien, Selma Blair, Liz Sherman, Ogdru Jahad, James Clement, Nick Mason
+- 2024-09-02 — 543 The Crow & Gambit Returns — speakers: wikipediabrown Maso, James Clement, Nick Mason
+- 2024-08-29 — Terminator 2: Judgment Day - Caravan Of Garbage — speakers: Arnold Schwarzenegger, Linda Hamilton, Sarah Connor, John Connor, James Clement, Nick Mason
+- 2024-08-26 — 542 The Acolyte Cancelled & Blink Twice — speakers: James Spader, Robert Downey Jr, Michael Keaton, Blink Twice, James Clement, Nick Mason
+- 2024-08-22 — The Terminator - Caravan Of Garbage — speakers: James Cameron, Gale Anne Hurd, Arnold Schwarzenegger, Linda Hamilton, Sarah Connor, John Connor, Michael Biehn, Kyle Reece, James Clement, Nick Mason
+- 2024-08-19 — 541 Alien: Romulus (with Alexei Toliopoulos) — speakers: Alexei Toliopoulos, Beau DeMayo, James Gunn, James Guests, Maso Guest, Disney Marvel, James Gunn Superman, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-08-15 — Alien: Resurrection - Caravan Of Garbage — speakers: Sigourney Weaver, James Clement, Nick Mason
+- 2024-08-12 — 540 Borderlands & D23 Round-Up (Marvel, Star Wars, Tron: Ares) — speakers: Snow White, David Zaslav, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-08-08 — Alien 3 - Caravan Of Garbage — speakers: Ellen Ripley, David Fincher, James Clement, Nick Mason
+- 2024-08-05 — 539 Trap! And Big MCU Rumors — speakers: Harrison Ford, Robert Downey Jr, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-08-01 — Aliens - Caravan Of Garbage — speakers: James Cameron, James Clement, Nick Mason
+- 2024-07-29 — 538 Deadpool & Wolverine and SDCC 2024 — speakers: San Diego, Robert Downey Jr, Rebel Moon, Rude Edition, James Maso, Michael Bay Skibidi Toilet, Robert Downey Jr Returns, Doom Please, James Clement, Nick Mason
+- 2024-07-25 — Alien - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-07-22 — 537 The Acolyte, The Boys & Longlegs — speakers: Comic Con, Robert Downey Jr, Terminator Zero, Kumail Nanjiani, Booster Gold, Rebel Moon, Rdj Return Rumour, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-07-18 — Logan - Caravan Of Garbage — speakers: Hugh Jackman, James Clement, Nick Mason
+- 2024-07-15 — 536 Twisters & Despicable Me 4 (with Sanspants Radio) — speakers: Jackson Bailey, Joel Duscher, Shelly Duvall, Kevin Costners Horizon, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-07-11 — The Wolverine - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-07-08 — 535 Beverly Hills Cop: Axel F & Inside Out 2 (with Bron Lewis) — speakers: Bron Lewis, Claire Tonti, Rumour Hellboy, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-07-04 — X-Men Origins: Wolverine - Caravan Of Garbage — speakers: Hugh Jackman, James Clement, Nick Mason
+- 2024-07-01 — 534 A Quiet Place: Day One — speakers: Harry Potter, Jeffrey Combs Film Festival, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-06-27 — Kick-Ass 2 - Caravan Of Garbage — speakers: Jim Carrey, Dave Lizewski, James Clement, Nick Mason
+- 2024-06-24 — 533 Blade Troubles & Immaculate, Abigail, Sting — speakers: Donald Sutherland, Caped Crusader, Jordan Peele, Rip Donald, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-06-20 — Kick-Ass - Caravan Of Garbage — speakers: Mark Millar, Dave Lizewski, James Clement, Nick Mason
+- 2024-06-17 — 532 The Boys Season 4 Premiere — speakers: Dwayne Johnson, Harry Potter, Zack Snyder, Ben Potter, Dwayne Johnson Disney, Zack Snyder Reveals Rebel, Cuts Doom, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-06-13 — Assassin's Creed - Caravan Of Garbage — speakers: Michael Fassbender, James Clement, Nick Mason
+- 2024-06-10 — 531 Hit Man & The Acolyte — speakers: Richard Linklater, Glen Powell, Adria Arjona, Jordan Peele, Wonder Woman, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-06-06 — Warcraft - Caravan Of Garbage — speakers: Duncan Jones, James Clement, Nick Mason
+- 2024-06-03 — 530 The Most Insane Hollywood Development Deals — speakers: Mad Max, Chris Hemsworth, Popcorn Bucket, Announce More AI, Zack Snyder, Mummy Prequel Movie, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-05-30 — Prince of Persia: The Sands of Time - Caravan Of Garbage — speakers: Jacob Gyllenhaal, James Clement, Nick Mason
+- 2024-05-27 — 529 Furiosa: A Mad Max Saga — speakers: Liam Hemsworth, Adam Wingard, Beverley Hills Cop, Beetlejuice Beetlejuice, Pixar Lay-Offs, Dwayne Johnson, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-05-23 — Max Payne - Caravan Of Garbage — speakers: Max Payne Caravan, Max Payne, Mark Wahlberg, James Clement, Nick Mason
+- 2024-05-20 — 528 X-Men '97 — speakers: Nicholas Cage, Tomb Raider, John Wick, Mad Max, Spider-Man Noir, Nic Cage, Croft Tomb Raider Amazon, Donnie Yen, James Clement, Nick Mason
+- 2024-05-16 — War for the Planet of the Apes - Caravan Of Garbage — speakers: Wesley McCullough, James Clement, Nick Mason
+- 2024-05-13 — 527 Kingdom of the Planet of the Apes — speakers: Roger Corman, James Gunn, Dwayne Johnson, Caped Crusader, Mad Max, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-05-09 — Dawn of the Planet of the Apes - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-05-06 — 526 Dwayne Johnson Drama & Hollywood Divas — speakers: Rock Johnson, Chris Hemsworth, Jeff Brides, Jeff Bridges Returns, Dwayne Johnson, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-05-02 — Rise of the Planet of the Apes - Caravan Of Garbage — speakers: Andy Serkis, James Clement, Nick Mason
+- 2024-04-29 — 525 The Fall Guy and Deadpool & Wolverine Trailer — speakers: Matt Stewart, Tom Cruise, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-04-25 — Mad Max: Fury Road - Caravan Of Garbage — speakers: Mel Gibson, Tom Hardy, Mad Max, James Clement, Nick Mason
+- 2024-04-22 — 524 Rebel Moon - Part Two: The Scargiver — speakers: Zack Snyder, Rebel Moon, David Zazslav, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-04-18 — Mad Max: Beyond Thunderdome - Caravan Of Garbage — speakers: Mel Gibsons, Max Rockatansky, Tina Turner, Gary Stephen, James Clement, Nick Mason
+- 2024-04-15 — 523 Civil War & Joker: Folie à Deux Trailer — speakers: Thunderbolts Asterix, Joker Folie, Iron Man, Zack Snyder, Iron Man Return, Robbie Monopoly, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-04-11 — Mad Max 2: The Road Warrior - Caravan Of Garbage — speakers: George Miller, Mad Max, James Clement, Nick Mason
+- 2024-04-08 — 522 Monkey Man & Silver Surfing Casting — speakers: Bob Igers, Dune Iii news, Dev Patel, Monkey Man, Do Go, Bob Iger's Big Win, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-04-04 — Mad Max - Caravan Of Garbage — speakers: Max Caravan, Max Fury Road, Mad Max, George Miller, Melvin Gibson, James Clement, Nick Mason
+- 2024-04-01 — 521 Godzilla x Kong: The New Empire — speakers: Do Go, Disney Marvel, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-03-28 — King Kong 1933 - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-03-25 — 520 Ghostbusters: Frozen Empire — speakers: Frozen Empire, James Bond, Beetlejuice Beetlejuice, Aaron Taylor-Johnson, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-03-21 — Godzilla 1954 - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-03-18 — 519 Best & Worst Legacy Sequels — speakers: Neve Campbell, Ryan Gosling, Henry Cavill, Shang Chi, Patty Jenkins Back, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-03-14 — The Real Ghostbusters - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-03-11 — 518 Should Batman Kill & The Oscars 2024 — speakers: Akira Toriyama, Bradley Cooper, Zack Snyder, Rebel Moon, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-03-07 — The Legend Of Zorro - Caravan Of Garbage — speakers: Antonio Banderas, Catherine Zeta Jones, James Clement, Nick Mason
+- 2024-03-04 — 517 Dune: Part Two — speakers: Kevin Costner Cowboy, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-02-29 — The Mask Of Zorro - Caravan Of Garbage — speakers: Antonio Banderas, Anthony Hopkins, Catherine Zeta-Jones, Martin Campbell, Good Zorro-ing, James Clement, Nick Mason
+- 2024-02-26 — 516 Avatar: The Last Airbender — speakers: Batman Beyond, Henry Cavill, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-02-22 — The Last Airbender - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2024-02-19 — 515 Madame Web & The Fantastic Four Casting — speakers: Miles Morales, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-02-15 — Spider-Man: No Way Home - Caravan Of Garbage — speakers: Andrew Garfield, James Clement, Nick Mason
+- 2024-02-12 — 514 Superbowl 2024 Trailers! Deadpool & Wolverine! — speakers: wikipediabrown Maso, James Clement, Nick Mason
+- 2024-02-08 — Spider-Man: Far From Home - Caravan Of Garbage — speakers: Tony Stark Iron Man, Peter Parker, Nick Fury, James Clement, Nick Mason
+- 2024-02-05 — 513 Argylle (from the Twisted Mind of Matthew Vaughn) — speakers: Matthew Vaughn, Carl Weathers, Monkey Man, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-02-01 — Spider-Man: Homecoming - Caravan Of Garbage — speakers: Peter Park, Tom Holland, Michael Keaton, Tony Stark Iron Man, James Clement, Nick Mason
+- 2024-01-29 — 512 Most Anticipated Movies & Shows 2024 — speakers: Rey Movie, Mando Movie, Top Gun, Tom Cruise, Indy Game, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-01-15 — Best of The Weekly Planet 2023 — speakers: Rebel Moon, James Twitter, wikipediabrown Maso, James Clement, Nick Mason
+- 2024-01-01 — 511 The Best & Worst of 2023 (& Aquaman 2 I guess) — speakers: Rob Collings, Nick Mason, James Gunn, wikipediabrown Maso, James Clement
+- 2023-12-25 — 510 Rebel Moon: Part One - A Child On Fire — speakers: Rebel Moon, Zack Snyder's Star, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-12-21 — Zach Snyder's Justice League - Caravan Of Garbage — speakers: Zach Snyder, Zack Snyder, Ray Fisher, James Clement, Nick Mason
+- 2023-12-18 — 509 Wonka Prequel — speakers: James Gunn, James Gunn Hates, Dwayne Johnson Safdie Brothers, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-12-14 — Charlie & The Chocolate Factory - Caravan Of Garbage — speakers: Tim Burton, Johnny Depp, Gene Wilder, James Clement, Nick Mason
+- 2023-12-11 — 508 Doctor Who 60th Anniversary Specials — speakers: David Tennant, Hugh Grant, Sean Gunn, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-12-07 — Godzilla VS Kong - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2023-12-04 — 507 Godzilla Minus One — speakers: Zach Snyder, Dark Knight, Jordan Vogt-Roberts, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-11-30 — Godzilla: King of the Monsters - Caravan Of Garbage — speakers: King Ghidora, James Clement, Nick Mason
+- 2023-11-27 — 506 Napoleon (the horny little rat man) — speakers: Melissa Barrera, Lex Luthoer, Dave Filoni, Karate Kid, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-11-23 — Kong: Skull Island - Caravan Of Garbage — speakers: Tom Hiddleston, Brie Larson, Sam Jackson, James Clement, Nick Mason
+- 2023-11-20 — 505 Madame Web & Three Hour Hunger Games Prequel — speakers: Pedro Pascal, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-11-16 — Godzilla 2014 - Caravan Of Garbage — speakers: Gareth Edwards, Bryan Cranston, James Clement, Nick Mason
+- 2023-11-13 — 504 The Marvels & The End of the Actors Strike! — speakers: Kevin Feige, Frozen Empire, Kevin Feige Star, Jeremy Allen White, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-11-09 — The Hunger Games: Mockingjay Part II - Caravan Of Garbage — speakers: Julianne Moore, James Clement, Nick Mason
+- 2023-11-06 — 503 Crisis At Marvel & The Killer Review — speakers: David Fincher, Nicholas Cage, Nic Cage Talks, Joe Biden, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-11-02 — The Hunger Games: Mockingjay Part I - Caravan Of Garbage — speakers: Harry Potter, James Clement, Nick Mason
+- 2023-10-30 — 502 Saw X & Five Nights at Freddy's — speakers: Max Landis, Spider-Man Thor Latest News, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-10-26 — The Hunger Games: Catching Fire - Caravan Of Garbage — speakers: Jennifer Lawrence, Phillip Seymor Hoffman, James Clement, Nick Mason
+- 2023-10-23 — 501 Killers of the Flower Moon & Reboot Star Wars! — speakers: Brie Larson, Matthew Vaughn, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-10-19 — The Hunger Games - Caravan Of Garbage — speakers: Jennifer Lawrence, James Clement, Nick Mason
+- 2023-10-16 — 500 Best, Worst & Weirdest Movies of the Last Ten Years — speakers: Keith Giffen, Zack Snyder, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-10-12 — The Green Hornet - Caravan Of Garbage — speakers: Michel Gondry, Christoph Waltz, Jay Chou, Cameron Diaz, James Clement, Nick Mason
+- 2023-10-09 — 499: Ahsoka, Loki S2 and The Beekeeper — speakers: Taylor Swift Deadpool, James Gunn, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-10-05 — The Phantom - Caravan Of Garbage — speakers: Starring Billy Zane, Kit Walker, James Clement, Nick Mason
+- 2023-10-02 — 498 The Creator & The DCU Hasn't Started Yet — speakers: Martin Scorsese, David McCallum, Matthew Vaughn, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-09-28 — The Shadow - Caravan Of Garbage — speakers: Tim Burton, Alec Baldwin, Bruce Wayne, Lamont Cranston, James Clement, Nick Mason
+- 2023-09-25 — 497 No One Will Save You — speakers: Tim Burton, Chris Evans, John Wick Prequel, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-09-21 — The Rocketeer - Caravan Of Garbage — speakers: Joe Johnston, James Clement, Nick Mason
+- 2023-09-18 — 496 Blue Beetle & Aquaman 2 Trailer — speakers: Blue Beetle, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-09-14 — Dick Tracy - Caravan Of Garbage — speakers: Dick Tracey, Warren Beatty, Al Pacino, Dustin Hoffman, James Cann, James Clement, Nick Mason
+- 2023-09-11 — 495 One Piece & The Rotten Tomatoes Scandal — speakers: Sam Raimi, Taylor Swift, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-09-07 — RoboCop 2014 - Caravan Of Garbage — speakers: Joel Kinnerman, Alex Murphy, Michael Keaton, Jack Earl Haley, Abbie Cornish, Sam Jackson, James Clement, Nick Mason
+- 2023-09-04 — 494 TMNT: Mutant Mayhem & James Gunn Cancelled — speakers: James Gunn, Arleen Sorkin, Nick Mason, Disney Cancelling, James Gunn Again, wikipediabrown Maso, James Clement
+- 2023-08-31 — RoboCop 3 - Caravan Of Garbage — speakers: Peter Weller, Robert John Burke, James Clement, Nick Mason
+- 2023-08-28 — 493 Ahsoka & Rebel Moon Trailer — speakers: Zach Snyder, Rebel Moon, Mayhem Helps Make, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-08-24 — RoboCop 2 - Caravan Of Garbage — speakers: Peter Weller, James Clement, Nick Mason
+- 2023-08-21 — 492 Blue Beetle Bombs & Hollywood Urban Legends — speakers: Jack Druce, Disney Gets, Barbie Beats Batman, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-08-18 — RoboCop - Caravan of Garbage — speakers: Paul Verhoeven, Peter Weller, James Clement, Nick Mason
+- 2023-08-14 — 491 The Last Voyage of the Demeter (Dracula on a Boat) — speakers: Somehow Dracula, David Ayer, Rip William Friedkin, Bob Iger, William Friedkin, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-08-10 — Star Wars: Rebels Finale - Caravan Of Garbage — speakers: Lars Mikkelsen, Ezra Bridger, James Clement, Nick Mason
+- 2023-08-07 — 490 The Meg 2 & Controversies Galore — speakers: Stephen Amell, Matt Stewart, Stephen Amell Sag-Aftra Strike, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-08-03 — Ninja Turtles: Out Of The Shadows - Caravan of Garbage — speakers: James Clement, Nick Mason
+- 2023-07-31 — 489 Secret Invasion & Talk To Me — speakers: Wrong Lesson, Barbie Movie Sequel, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-07-27 — Michael Bay's Ninja Turtles - Caravan Of Garbage — speakers: Michael Bay, Megan Fox, April O'Niel, James Clement, Nick Mason
+- 2023-07-24 — 488 Barbie & Oppenheimer — speakers: Tom Cruise, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-07-20 — Masters Of The Universe - Caravan Of Garbage — speakers: Dolph Lundgren, James Clement, Nick Mason
+- 2023-07-17 — 487 Mission Impossible: Dead Reckoning Part I — speakers: Hugh Jackman, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-07-13 — Mission Impossible: Fallout - Caravan Of Garbage — speakers: Solomon Lane, Henry Cavill, James Clement, Nick Mason
+- 2023-07-10 — 486 Big Brands & Big Bombs — speakers: Shang Chi, Shang-Chi Sequel, Harrison Ford Movies, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-07-07 — Mission Impossible: Rogue Nation - Caravan Of Garbage — speakers: Tom Cruise, Ethan Hunt, Sean Harris, Solomon Lane, Rebecca Ferguson, James Clement, Nick Mason
+- 2023-07-03 — 485 Indiana Jones and The Dial of Destiny — speakers: Harrison Ford, Alan Arkin, James Gunn’s Superman, Tom Cruise, David Corenswet, Indiana Jones, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-06-29 — Mission Impossible: Ghost Protocol - Caravan Of Garbage — speakers: Tom Cruise, Jeremy Renner, Paula Patton, Simon Peggs Benji, Ving Rhames Luther, James Clement, Nick Mason
+- 2023-06-26 — 484 The Flash Bombs & Extraction 2/Black Mirror — speakers: Rotten Tomatoes, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-06-22 — Indiana Jones & The Kingdom Of The Crystal Skull - Caravan Of Garbage — speakers: Harrison Ford, James Clement, Nick Mason
+- 2023-06-19 — 483 The Flash — speakers: John Romita Snr, Christopher Nolan, John Romita Sr, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-06-15 — Indiana Jones & The Last Crusade - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2023-06-12 — 482 Transformers: Rise of the Beasts — speakers: Chris Hemsworth, James Gunn Superman, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-06-08 — Indiana Jones & The Temple Of Doom - Caravan Of Garbage — speakers: Ke Huy Quan, Kate Capshaw, Willie Scott, James Clement, Nick Mason
+- 2023-06-05 — 481 Spider-Man: Across the Spider-Verse — speakers: Spider-Man Across, Kim Cattrall, Miles Morales, Tom Cruise, Christopher Nolan, Jason Momoa, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-06-01 — Indiana Jones & The Raiders Of The Lost Ark - Caravan Of Garbage — speakers: Harrison Ford, Steven Speilberg, George Lucas, James Clement, Nick Mason
+- 2023-05-29 — 480 More MCU Delays & The Little Mermaid (with Claire Tonti) — speakers: Claire Tonti, James Cameron, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-05-25 — Transformers: The Movie - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2023-05-22 — 479 Fast X — speakers: Jake Extraction, Rick Dalton, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-05-18 — Furious 7 - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2023-05-15 — 478 Longest Running Franchises — speakers: Nick Mason, Zack Snyder’s DC, wikipediabrown Maso, James Clement
+- 2023-05-11 — Fast & Furious 6 - Caravan Of Garbage — speakers: Owen Shaw, James Clement, Nick Mason
+- 2023-05-08 — 477 Guardians of the Galaxy Vol. 3 — speakers: Mortal Kombat, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-05-04 — Fast 5 (Extended) - Caravan of Garbage — speakers: Paul Walker, Vin Diesel, com wikipediabrown, James Clement, Nick Mason
+- 2023-05-01 — 476 CinemaCon 2023 & Superhero Showdown! — speakers: wikipediabrown Maso, James Clement, Nick Mason
+- 2023-04-27 — Fast & Furious 4 - Caravan Of Garbage — speakers: Paul Walkers Brian O'Conner, James Clement, Nick Mason
+- 2023-04-24 — 475 Evil Dead Rise & The Mandalorian Season 3 — speakers: Michelle Yeoh, John Boyega, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-04-20 — Batman & Robin - Caravan Of Garbage — speakers: George Clooney, Val Kilmer, Michael Keaton, James Clement, Nick Mason
+- 2023-04-17 — 474 The Marvels Trailer, HBO Max Reboot & Aunty Donna are here! — speakers: Harry Potter, Coffee Cafe, Aunty Donna, Muerto Movie, Andy Serkis, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-04-13 — Batman Forever - Caravan Of Garbage — speakers: Joel Schumacher, Val Kilmer, Bruce Wayne, James Clement, Nick Mason
+- 2023-04-10 — 473 The Super Mario Bros. Movie & Star Wars Celebration — speakers: Dave Fioni, Rey Skywalker, Jedi Order, Harry Potter, Perlmutter Update, Spider-Man Across, Skeleton Crew, Dave Filoni, James Clement, Nick Mason
+- 2023-04-06 — The Wizard & Super Mario Bros. - Caravan Of Garbage — speakers: Mega Man, Teenage Mutant, James Clement, Nick Mason
+- 2023-04-03 — 472 Dungeons & Dragons: Honor Among Thieves — speakers: Ike Perlmutter, Liv Tyler Returns, Nick Mason, wikipediabrown Maso, James Clement
+- 2023-03-30 — Pixels - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2023-03-27 — 471 John Wick: Chapter 4 — speakers: John Wick, Lady Gaga, Harley Quinn, Nick Mason, wikipediabrown Maso, James Clement
+- 2023-03-23 — Dungeons & Dragons (2000) - Caravan Of Garbage — speakers: Chris Pine, Jimmy Olsen, James Clement, Nick Mason
+- 2023-03-20 — 470 Shazam! Fury of the Gods — speakers: Lance Reddick, Tom Cruise, James Gunn, Reddick Rip, Ben Affleck, James Gunn Confirms Superman, Nick Mason, wikipediabrown Maso, James Clement
+- 2023-03-16 — Batman Returns - Caravan Of Garbage — speakers: Tim Burton, Michael Keaton, Batman Returns, Danny DeVito, Max Shreck, James Clement, Nick Mason
+- 2023-03-13 — 469 Scream VI & 65 Dinosaurs Movie — speakers: James Gunn, John Bernthal, James Gunn Superman, Dinosaurs Movie, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-03-09 — Supergirl 1984 - Caravan Of Garbage — speakers: Sasha Calle, Laura Vandervoort, Melissa Benoist, Reeve Superman, Helen Slater, James Clement, Nick Mason
+- 2023-03-06 — 468 Creed III — speakers: Mayhem Cast, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-03-02 — The Flash (1990) - Caravan Of Garbage — speakers: John Wesley Shipp, James Clement, Nick Mason
+- 2023-02-27 — 467 Cocaine Bear & More Lord Of The Rings — speakers: Steven Yeun's Character, Ant Man, James Gunn, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-02-23 — Shrek Forever After - Caravan of Garbage — speakers: com wikipediabrown, James Clement, Nick Mason
+- 2023-02-19 — 466 Ant-Man and the Wasp: Quantumania — speakers: John Wick Chapter, John Wick, Lady Gaga, Harley Quinn, Ezra Miller, Harrison Ford, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-02-16 — Shrek The Third - Caravan Of Garbage — speakers: Justin Timberlake, Eric Idle, James Clement, Nick Mason
+- 2023-02-13 — 465 Super Bowl 2023 Trailers! — speakers: George Clooney, Dick Tracy, Clooney Batman Returns, Vin Diesel, Riddick Returns, Indiana Jones, James Twitter, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-02-09 — Shrek 2 - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2023-02-06 — 464 DCU Slate Reveal & Knock At The Cabin (with Michelle Brasier) — speakers: Michelle Brasier, Aunty Donna, James Gunn, Peter Safran, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-02-02 — Shrek - Caravan Of Garbage — speakers: Mike Myers, Eddie Murphy, Cameron Diaz, James Clement, Nick Mason
+- 2023-01-30 — 463 M3GAN & Everything Is Getting Cancelled — speakers: wikipediabrown Maso, James Clement, Nick Mason
+- 2023-01-23 — 462 Most Anticipated Movies & Shows 2023 — speakers: James Gunn, Jeremy Renner, Jason Momoa, Michael Bay Did, wikipediabrown Maso, James Clement, Nick Mason
+- 2023-01-01 — Best of The Weekly Planet 2022 — speakers: Tom Holland, James Bond Pitch, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-12-26 — 461 The Best & Worst of 2022 — speakers: Gal Gadot, Tom Cruise, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-12-19 — 460 Avatar: The Way Of Water — speakers: Henry Cavill, Wonder Woman, Chris Nolan, Donald Glover Spider-Man Spin-Off, Patty Jenkins, Black Adam, Adam Driver, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-12-15 — Avatar (Extended) - Caravan of Garbage — speakers: com wikipediabrown, James Clement, Nick Mason
+- 2022-12-12 — 459 A Big DC Movie Shake Up — speakers: James Gunn, Patty Jenkins Wonder Woman, Henry Cavill, Claire Tonti, Robert Pattinson Sci-Fi, Beyond Movie, Superman Return, Jedi Survivor, James Clement, Nick Mason
+- 2022-12-08 — Titanic - Caravan of Garbage — speakers: James Cameron’s Titanic, Kate Winslet, James Clement, Nick Mason
+- 2022-12-05 — 458 Glass Onion + Guardians Vol 3 & Indiana Jones 5 Trailers — speakers: Rian Johnson, Nick Mason, James Gunn, wikipediabrown Maso, James Clement
+- 2022-12-01 — The Abyss - Caravan of Garbage — speakers: James Cameron, Starring Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn, James Clement, Nick Mason
+- 2022-11-28 — 457 The Guardians of the Galaxy Holiday Special — speakers: James Gunn, Bob Iger, Nick Mason, wikipediabrown Maso, James Clement
+- 2022-11-24 — Batman: The Killing Joke - Caravan Of Garbage — speakers: Alan Moore-athon, Paul Dini, Kevin Conroy, Mark Hamill, James Clement, Nick Mason
+- 2022-11-21 — 456 Remembering Kevin Conroy — speakers: Kevin Conroy, Steven Spielberg, Chris Hemsworth, Terrific Teased, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-11-17 — V For Vendetta - Caravan Of Garbage — speakers: Natalie Portman, Alan Moore, James Clement, Nick Mason
+- 2022-11-14 — 455 Black Panther: Wakanda Forever — speakers: Wakanda Forever, Chadwick Boseman, John Wick, Kevin Conroy, Kong Movie, Tom Holland Spider-Man, James Gunn, Jason Momoa, James Clement, Nick Mason
+- 2022-11-10 — The League Of Extraordinary Gentlemen - Caravan Of Garbage — speakers: Alan Moore-athon, Alan Quartermaine, James Clement, Nick Mason
+- 2022-11-07 — 454 More Franchises 4ever & Don't Worry Darling — speakers: Worry Darling, James Gunn, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-11-03 — From Hell - Caravan Of Garbage — speakers: Alan Moore, Starring Johnny Depp, Heather Graham, Ian Holm, James Clement, Nick Mason
+- 2022-10-31 — 453 James Gunn Takes Over DC & HALLOWEEN SPOOKY TIMES BOO — speakers: James Gunn, Matt Perry, Ant Man, Henry Cavill, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-10-27 — Bram Stoker's Horny Dracula - Caravan Of Garbage — speakers: Bram Stoker, Francis Ford, Gary Oldman, Anthony Hopkins, Winona Ryder, James Clement, Nick Mason
+- 2022-10-24 — 452 Black Adam — speakers: Black Adam, Adam Driver, Michael Keaton Batman Return, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-10-20 — The Scorpion King - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2022-10-17 — 451 Halloween (Probably) Ends — speakers: Harrison Ford, John Carpenter, Liam Neeson Naked, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-10-13 — Man-Thing (Extended) - Caravan Of Garbage — speakers: Avi Arad, James Clement, Nick Mason
+- 2022-10-10 — 450 A Werewolf? By Night? — speakers: Henry Cavill, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-10-06 — The Incredible Hulk - Caravan Of Garbage — speakers: Edward Norton, Bruce Banner, James Clement, Nick Mason
+- 2022-10-03 — 449 Hugh Jackman RETURNS As Wolverine — speakers: Ryan Reynolds, Hugh Jackman, Harrison Ford, Bruce Willis AI, Blade Movie Troubles Mason, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-09-29 — Hulk (2003) - Caravan Of Garbage — speakers: Eric Bana, James Clement, Nick Mason
+- 2022-09-26 — 448 Andor (Star Wars is good again we think?) — speakers: James Bond, Hulk Catch-Up, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-09-22 — The Hobbit: The Battle Of The Five Armies - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2022-09-19 — 447 Nope, Prey, Sandman & Pinocchio — speakers: Blade Runner, Prey Spoiler, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-09-15 — The Hobbit: The Desolation of Smaug - Caravan of Garbage — speakers: Benedict Cumberbatch, com wikipediabrown, James Clement, Nick Mason
+- 2022-09-12 — 446 D23 (Marvel, Star Wars, Live Action remakes for eternity) — speakers: Joker Movie Hot, Kevin Feige Search, Percy Jackson, Snow White, Peter Pan, Hot Scoop, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-09-08 — The Hobbit: An Unexpected Journey - Caravan Of Garbage — speakers: Peter Jackson, James Clement, Nick Mason
+- 2022-09-05 — 445 The Never Ending DC Disaster — speakers: Kevin Feige, Kevin Feige How, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-08-29 — James & Maso's Time Crapsule! - Big Sandwich Bonus Content! — speakers: Tina Turner, James Clement, Nick Mason
+- 2022-08-22 — X-Men Wolverine Origins Movie Commentary - Big Sandwich Bonus Content! — speakers: Wolverine Origins, James Clement, Nick Mason
+- 2022-08-15 — Comic Book Club (and it's Morbius) - Big Sandwich Bonus Content! — speakers: Keanu Reeve, Shang Chi, revisit monthbius, James Clement, Nick Mason
+- 2022-08-08 — We Got, We Got This Covered, Covered - Big Sandwich Bonus Content! — speakers: Comic Book Movie, James Clement, Nick Mason
+- 2022-07-28 — Aliens VS Predator: Requiem - Caravan Of Garbage — speakers: Avp Requiem, James Clement, Nick Mason
+- 2022-07-25 — 444 Best & Worst of Comic Con 2022 — speakers: John Wick, Alan Grant, Prequel Preview, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-07-18 — 443 Deciphering Marvel's Phase Four — speakers: Cinema Multiverse, Steven Spielberg, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-07-11 — 442 Thor: Love and Thunder & The Boys Season 3 — speakers: James Cameron, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-07-07 — Thor: The Dark World (Extended) - Caravan Of Garbage — speakers: Chris Harmsworth, Tom Hiddleston, Natalie Portman, Jane Foster, James Clement, Nick Mason
+- 2022-07-04 — 441 Best/Worst of Star Trek and Comic Con Preview — speakers: Comic Con, Ben Russell, James Bond, Taika Waititi, Millie Bobby Brown, Russo Bros, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-06-30 — Thor (2011) - Caravan Of Garbage — speakers: Kenneth Branagh, Chris Hemsworth, Tom Hiddleston, Natalie Portman, Jane Foster, Anthony Hopkins, Rene Russo, James Clement, Nick Mason
+- 2022-06-27 — 440 The Umbrella Academy Season 3 — speakers: John Williams, Kevin Feige, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-06-23 — Star Wars: The Clone Wars 2008 - Caravan Of Garbage — speakers: George Lucas, James Clement, Nick Mason
+- 2022-06-19 — 439 Lightyear & Joker 2: The Musical — speakers: Ezra Miller, Tim Sale Rip, Guy Ritchie Hercules Movie, Lady Gaga, Disney Pixar, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-06-16 — Jurassic Park III - Caravan Of Garbage — speakers: Sam Neil, Alan Grant, Laura Dern, Ellie Sattler, James Clement, Nick Mason
+- 2022-06-13 — 438 Jurassic World: Dominion — speakers: Duke Nukem Movie, Joker Sequel Folie, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-06-09 — The Lost World: Jurassic Park - Caravan Of Garbage — speakers: Steven Spielberg, James Clement, Nick Mason
+- 2022-06-06 — 437 The Boys & Morbius Returns — speakers: Stark Trek, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-06-02 — Jurassic Park - Caravan Of Garbage — speakers: Steven Spielberg, James Clement, Nick Mason
+- 2022-05-30 — 436 Star Wars Celebration & Top Gun: Maverick — speakers: Abrams Thor, Taika Waititi, Indiana Jones, Maverick Review, Two Review, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-05-26 — Star Wars: Revenge of the Sith - Caravan Of Garbage — speakers: George Lucas, Anakin Skywalker, Darth Vader, James Clement, Nick Mason
+- 2022-05-23 — 435 She Hulk Controversy & Chip 'n' Dale — speakers: Stan Lee Cameos, Kevin Feige, Kathleen Kennedy, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-05-16 — 434 Avatar 2 Trailer & Multiverse of Madness Exclusive — speakers: George Pérez Rip, Adam Driver, Megalopolis Movie, Alan Ritchson, Dan Stevens, Godzilla vs Kong, Christopher Walken, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-05-09 — 433 Doctor Strange in the Multiverse of Madness — speakers: Sam Raimi, Wan Kenobi, Ranking Multiverse, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-05-05 — Star Wars: Attack Of The Clones - Caravan Of Garbage — speakers: Anakin Skywalker, James Clement, Nick Mason
+- 2022-05-02 — 432 The Future Of SPUMM & Best Movie Cameos — speakers: Andrew Garfield, Michael Caine, Best Cameos, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-04-25 — 431 The Death Of Netflix & The Northman — speakers: Ezra Miller Bad News, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-04-21 — Star Wars: The Phantom Menace - Caravan Of Garbage — speakers: George Lucas, Qui-Gon Jinn, Jar Jar Binks, James Clement, Nick Mason
+- 2022-04-18 — 430 Another DC Reshuffle & Everything Everywhere All at Once — speakers: Nick Mason, Ezra Miller Flash, Strange Multiverse, wikipediabrown Maso, James Clement
+- 2022-04-11 — 429 Fantastic Beasts again I guess — speakers: Will Smith, Brie Larson, Nicolas Cage Ama, Raimi Spider-Man Possible Star, Ezra Miller, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-04-07 — Green Lantern - Caravan Of Garbage — speakers: Green Lantern Caravan, Ryan Reynolds, Martin Campbell, James Bond Twice, James Clement, Nick Mason
+- 2022-04-04 — 428 MORBIUS. Morbius — speakers: Bruce Willis, Ezra Miller, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-03-31 — The Losers - Caravan of Garbage — speakers: James Clement, Nick Mason
+- 2022-03-28 — 427 Worst Movie & Series Spin-Offs — speakers: James Clement, Nick Mason
+- 2022-03-24 — Jonah Hex - Caravan of Garbage — speakers: Jonah Hex Caravan, Jonah Hex, Josh Brolin, Megan Fox, Michael Fassbender, John Malkovich, James Clement, Nick Mason
+- 2022-03-21 — 426 Best Movie & Series Spin-Offs — speakers: Nick Fury, wikipediabrown Maso, James Clement, Nick Mason
+- 2022-03-17 — Constantine - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2022-03-14 — 425 Kenobi Trailer & Big DC Delays — speakers: Ben Affleck, Florence Pugh, Wan Kenobi, Adam Project, James Clement, Nick Mason
+- 2022-03-10 — Catwoman - Caravan Of Garbage — speakers: Halle Berry, James Clement, Nick Mason
+- 2022-03-07 — 424 The Batman! — speakers: Da Bat, Matt Reeves, Every Sequel Hint, James Clement, Nick Mason
+- 2022-03-03 — Twilight: Breaking Dawn Part II - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2022-02-28 — 423 Ranking Every Batman Movie — speakers: Penguin Spin-Off, Steven Spielberg, Tom Holland, James Bond Pitch, Charlie Cox Daredevil, James Clement, Nick Mason
+- 2022-02-24 — Twilight: Breaking Dawn Part I - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2022-02-21 — 422 Peacemaker & Uncharted — speakers: Tom Holland, Ivan Reitman, Francis Ford, Strange Multiverse, James Clement, Nick Mason
+- 2022-02-17 — Twilight: Eclipse - Caravan Of Garbage — speakers: Peak Twilight, James Clement, Nick Mason
+- 2022-02-14 — 421 Book of Boba Fett & Super Bowl Trailers Ahoy! — speakers: Zack Snyder’s Star, Blade Runner, Jordan Peele, Boba Fett Spoiler, James Clement, Nick Mason
+- 2022-02-10 — Twilight: New Moon - Caravan Of Garbage — speakers: Edward Cullen, Jacob Black, James Clement, Nick Mason
+- 2022-02-07 — 420 My God. It's Moonfall time — speakers: Roland Emmerich, Batman Begins, Boba Fett, James Clement, Nick Mason
+- 2022-02-03 — Twilight - Caravan Of Garbage — speakers: Robert Pattinson, Bruce Wayne, Edward Cullen, James Clement, Nick Mason
+- 2022-01-31 — 419 Most Anticipated Movies & Shows 2022 — speakers: Tom Cruise, Michael Morbius Delayed, Idris Elba Bond, Joss Whedon, James Clement, Nick Mason
+- 2022-01-10 — Best of The Weekly Planet 2021 — speakers: Rob Collings, James Clement, Nick Mason
+- 2022-01-03 — 418 The Best & Worst of 2021 — speakers: Boba Fett, Best Worst, Betty White, Tom Holland, James Clement, Nick Mason
+- 2021-12-27 — 417 Somehow The Matrix has returned — speakers: Michael Keaton, Zod Returns, Movie Box, Spider-Man Secret Wars, James Clement, Nick Mason
+- 2021-12-23 — The Animatrix - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2021-12-20 — 416 Spider-Man: No Way Home — speakers: Beetle Release, Tom Holland, Fred Astaire Dr, Strange Reshoots, James Clement, Nick Mason
+- 2021-12-16 — Japanese Spider-Man Is Bonkers - Caravan Of Garbage — speakers: Peter Parker, James Clement, Nick Mason
+- 2021-12-13 — 415 Spider-Man Eve & Ghostbusters: Afterlife — speakers: Cowboy Bebop, Charlie Cox Daredevil Confirmed, James Clement, Nick Mason
+- 2021-12-09 — The Spider-Man Wars! - Caravan Of Garbage — speakers: Peter Parker, James Clement, Nick Mason
+- 2021-12-06 — 414 Movies We Changed Our Minds On — speakers: Tom Cruise, Nicholas Cage, Chris Stuckmann, Nicolas Cage Dracula Movie, James Clement, Nick Mason
+- 2021-12-02 — Daredevil Defends The Hulk - Caravan Of Garbage — speakers: Matt Murdoch, John Rhys Davies, James Clement, Nick Mason
+- 2021-11-29 — 413 Venom 2: Carnage The Big Red Venom — speakers: Ridley Scott, Book Cheat, Scott Yells, James Clement, Nick Mason
+- 2021-11-25 — Iron Man The Animated Series - Caravan Of Gatbage — speakers: Tony Stark, James Clement, Nick Mason
+- 2021-11-22 — 412 Spider-Man No Way Home Trailer & Dead Movie Genres — speakers: Nick Mason, Kathleen Kennedy, Tom Holland Spider-Man, James Clement
+- 2021-11-15 — 411 Disney Plus Day & No Time To Die — speakers: Wan Kenobi, tonts Two, Prequel Ghostbusters, James Clement, Nick Mason
+- 2021-11-11 — Ghostbusters 2016 - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2021-11-08 — 410 The Eternals & Shang Chi — speakers: bigsandwich co, Shang Chi, Chris Pratt, Taika Waititi, Chris Nolan, Matt Smith, Shang Chi Review, James Clement, Nick Mason
+- 2021-11-04 — Ghostbusters II - Caravan Of Garbage — speakers: Bill Murray, Dan Aykroyd, Harold Ramis, Ernie Hudson, James Clement, Nick Mason
+- 2021-11-01 — 409 Halloween Kills (the franchise) — speakers: Tom Holland, Villain Brendan Fraser, James Clement, Nick Mason
+- 2021-10-28 — Ghostbusters - Caravan Of Garbage — speakers: Bill Murray, Dan Aykroyd, Harold Ramis, Ernie Hudson, James Clement, Nick Mason
+- 2021-10-25 — 408 Dune. It's Dune time — speakers: Dune o'clock, Denis Villeneuve sci-fi, Halyna Hutchins, James Clement, Nick Mason
+- 2021-10-21 — The Amazing Spider-Man 2 - Caravan Of Garbage — speakers: Andrew Garfield, Peter Parker, James Clement, Nick Mason
+- 2021-10-18 — 407 DC Fandome 2021 (off the dome?) — speakers: Adam Warlock, Michael Caine, James Clement, Nick Mason
+- 2021-10-14 — The Amazing Spider-Man - Caravan Of Garbage — speakers: Andrew Garfield, Emma Stone, Gwen Stacey, James Clement, Nick Mason
+- 2021-10-11 — 406 Best Movie Spies Of All Time — speakers: James Bond, James Gunn Teases Greatest, Jake Gyllenhaal, James Clement, Nick Mason
+- 2021-10-07 — Spectre - Caravan Of Garbage — speakers: Spectre Caravan, Daniel Craig, James Bond, James Clement, Nick Mason
+- 2021-10-04 — 405 Free Guy & The Beach That Makes You Old — speakers: Boba Fett, James Clement, Nick Mason
+- 2021-09-30 — Skyfall - Caravan of Garbage — speakers: Daniel Craig James Bond, James Clement, Nick Mason
+- 2021-09-27 — 404 Chris Pratt Is A Mario & Star Wars Visions — speakers: Chris Pratt, James Clement, Nick Mason
+- 2021-09-23 — Quantum Of Solace - Caravan Of Garbage — speakers: James Bond, Daniel Craig, James Clement, Nick Mason
+- 2021-09-20 — 403 Malignant & Hawkeye Trailer — speakers: James Wan's Malignant, Denis Villeneuve, Christopher Nolan Universal, James Clement, Nick Mason
+- 2021-09-16 — Casino Royale (Extended) - Caravan Of Garbage — speakers: James Bond, Daniel Craig, Vesper Lynd, James Clement, Nick Mason
+- 2021-09-13 — 402 The Matrix Resurrections & Spider-Man Returns — speakers: Max Furiosa Delayed, James Clement, Nick Mason
+- 2021-09-09 — The Matrix Revolutions - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2021-09-06 — 401 Not Shang Chi — speakers: bigsandwich co, Shang Chi, Shang Chi Breaks, James Clement, Nick Mason
+- 2021-09-02 — The Matrix Reloaded - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2021-08-30 — 400! Spider-Man: No Way Home & Best Comic Character Movies — speakers: James Clement, Nick Mason
+- 2021-08-26 — The Matrix - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2021-08-23 — 399 Movies about being trapped! — speakers: Michael Keaton, John Boyega Star, Bruce Willis, James Clement, Nick Mason
+- 2021-08-16 — 398 Best & Worst Movies About Video Games — speakers: Tron Legacy, Shang Chi Releasing Exclusively, Leaves Powerpuff, Idris Elba, James Clement, Nick Mason
+- 2021-08-09 — 397 The Suicide Squad — speakers: Chadwick Boseman, James Gunn, James Clement, Nick Mason
+- 2021-08-05 — Suicide Squad - Caravan of Garbage — speakers: Suicide Squad Caravan, Harley Joker, Richolas Flagg, com wikipediabrown, James Clement, Nick Mason
+- 2021-08-02 — 396 Disney Gets Sued & Jungle Cruise — speakers: Bob Odenkirk, David Ayer, James Clement, Nick Mason
+- 2021-07-29 — GI Joe: Retaliation - Caravan of Garbage — speakers: Channing Tatum, Rock Johnson, Bruce Willis, com wikipediabrown, James Clement, Nick Mason
+- 2021-07-26 — 395 A Brief History Of GI Joe — speakers: Leslie Grace, James Clement, Nick Mason
+- 2021-07-22 — GI Joe: The Rise Of Cobra - Caravan of Garbage — speakers: Channing Tatum, com wikipediabrown, James Clement, Nick Mason
+- 2021-07-19 — 394 Space Jam: A Terrible Legacy — speakers: Space Jam, Antonio Banderas Joins, James Clement, Nick Mason
+- 2021-07-15 — Iron Man 3 - Caravan Of Garbage — speakers: Tony Stark, James Clement, Nick Mason
+- 2021-07-12 — 393 Black Widow! — speakers: Richard Donner, Hugh Jack, Zack Snyder, Zack Sndyer, Comic Con, James Clement, Nick Mason
+- 2021-07-08 — Iron Man 2 - Caravan Of Garbage — speakers: Justin Hammer, James Clement, Nick Mason
+- 2021-07-05 — 392 The Tomorrow War & Best Time Travel Methods — speakers: Space Jam, Dexter Killer, Optimus Pearlman, James Clement, Nick Mason
+- 2021-07-01 — Iron Man - Caravan Of Garbage — speakers: Iron Man, Tony Stark, Robert Downey Jr, com wikipediabrown, James Clement, Nick Mason
+- 2021-06-28 — 391: Fast and Furious 9 & New Trailers Ahoy — speakers: Shang Chi, James Gunn, Harrison Ford, Gamey Gamey Game, Vin Diesel, James Clement, Nick Mason
+- 2021-06-24 — The Fast & The Furious: Tokyo Drift - Caravan Of Garbage — speakers: Jack Henley, Sung Kang, James Clement, Nick Mason
+- 2021-06-21 — 390 Best & Worst Disney Live Action Remakes — speakers: Dave Lee, Gerry Butler, Dave Lee Down, James Clement, Nick Mason
+- 2021-06-17 — 2 Fast 2 Furious - Caravan Of Garbage — speakers: Paul Walker, Vin Diesels, Tyrese Gibson, James Remar, James Clement, Nick Mason
+- 2021-06-14 — 389 Indiana Jones 5 & Some Of E3 — speakers: Boba Fett, Obi Wan, Space Jam, Soldier Boy, Blue Beetle, Hbo Max, Boba Fett Finished, Soldier Boy First, James Clement, Nick Mason
+- 2021-06-10 — The Fast & The Furious - Caravan Of Garbage — speakers: Paul Walker, Vin Diesel, James Clement, Nick Mason
+- 2021-06-07 — 388 Batman Returns (again) & Sweet Tooth — speakers: Sweet Tooth, James Clement, Nick Mason
+- 2021-06-03 — Son Of The Mask - Caravan Of Garbage — speakers: Jamie Kennedy, com wikipediabrown, James Clement, Nick Mason
+- 2021-05-31 — 387 A Quiet Place Part II & Joker 2 — speakers: Claire Tonti, Oscar Isaac, Zack Snyder’s Star, Jungle Cruise, Zack Snyder, James Clement, Nick Mason
+- 2021-05-27 — The Mask - Caravan of Garbage — speakers: Jim Carey, com wikipediabrown, James Clement, Nick Mason
+- 2021-05-24 — 386 Zack Snyder's Army of the Dead — speakers: Zack Snyder, James Bond, Henry Cavill, James Bond Talks, James Clement, Nick Mason
+- 2021-05-20 — Space Jam - Caravan Of Garbage — speakers: Looney Tunes, Michael Jordan, Bugs Bunny, com wikipediabrown, James Clement, Nick Mason
+- 2021-05-17 — 385 Venom 2 & Spiral: From The Book Of Sawnarios — speakers: Emily Blunt, Shang Chi, Jungle Cruise, James Clement, Nick Mason
+- 2021-05-13 — Saw III - Caravan Of Garbage — speakers: Shawnee Smith, Donnie Whalberg, Leigh Whannell, Space Jam, James Clement, Nick Mason
+- 2021-05-10 — 384 A New Superman & Jupiter's Legacy — speakers: Andrew Garfield, James Clement, Nick Mason
+- 2021-05-06 — Saw II - Caravan Of Garbage — speakers: Donnie Whalberg, James Clement, Nick Mason
+- 2021-05-03 — 383 Invincible Season One — speakers: Citizen Kane, Green Lantern, Charlie Clausen, James Clement, Nick Mason
+- 2021-04-29 — Saw - Caravan Of Garbage — speakers: Leigh Whannell, James Wan, James Clement, Nick Mason
+- 2021-04-26 — 382 Mortal Kombat 2021 — speakers: Naomi Higgins, Mark Bonanno, Mortal Kombat, Shang Chi, Russell Crowe, Michael Keaton, Russell Crowe Thor, Keaton Confirmed, James Clement, Nick Mason
+- 2021-04-22 — Mortal Kombat: Legacy - Karavan Of Garbage — speakers: Mortal Kombat, Legacy Karavan, Liu Kang, Johnny Cage, James Clement, Nick Mason
+- 2021-04-19 — 381 Franchises Brought Back From The Dead — speakers: Mark Millar, James Clement, Nick Mason
+- 2021-04-15 — Mortal Kombat: Annihilation - Caravan Of Garbage — speakers: Mortal Kombat, Mortal Kombat Annihilation, James Clement, Nick Mason
+- 2021-04-12 — 380 The Biggest Movies Of All Time — speakers: Space Jam, Nick Mason, James Clement
+- 2021-04-08 — Mortal Kombat 1995 (Extended) - The Weekly Planet Podcast — speakers: Mortal Kombat, Liu Kang, Sonya Blade, Johnny Cage, Shang Tsung, James Clement, Nick Mason
+- 2021-04-04 — 379 Godzilla VS Kong — speakers: Space Jam, Russell Crowe, Obi Wan, James Clement, Nick Mason
+- 2021-04-01 — Smallville's Justice League - Caravan Of Garbage — speakers: Zack Snyder, Clark Kent, Green Arrow, James Clement, Nick Mason
+- 2021-03-29 — 378 Invincible (and death of the Snyderverse) — speakers: Zack Snyder, Jessica Walter, James Clement, Nick Mason
+- 2021-03-25 — King Kong 2005 - Caravan Of Garbage — speakers: Peter Jackson, Jack Black, James Clement, Nick Mason
+- 2021-03-22 — 377 Zack Snyder's Justice League — speakers: Zack Snyder, Yaphet Kotto, Hourman Movie, James Clement, Nick Mason
+- 2021-03-18 — Nick Fury: Agent Of Shield - Caravan Of Garbage — speakers: Nick Fury, James Clement, Nick Mason
+- 2021-03-15 — 376 Justice League Leaks & Small Details That Ruin Movies — speakers: Zack Snyder, James Gunn, bang bang, Pepe Le Pew, James Clement, Nick Mason
+- 2021-03-11 — Superman II: The Donner Cut - The Weekly Planet Podcast — speakers: Richard Donner, com wikipediabrown, James Clement, Nick Mason
+- 2021-03-08 — 375 WandaVision wrap up! — speakers: Space Jam, Lois Season, James Clement, Nick Mason
+- 2021-03-04 — Superman IV: A Quest For Peace - Caravan Of Garbage — speakers: Chris Reeve, Gene Hackman, James Twitter, James Clement, Nick Mason
+- 2021-03-01 — 374 A New Superman & Superman and Lois — speakers: Tom Holland, Joe Lady, James Clement, Nick Mason
+- 2021-02-25 — Superman III - Caravan Of Garbage — speakers: Lex Luthor, Christopher Reeve, Richard Pryor, James Twitter, James Clement, Nick Mason
+- 2021-02-22 — 373 How To Adapt Video Games To Movies — speakers: Naomi Higgins, Mark Bonanno, Tim Burton, Rian Johnson, Mortal Kombat, Zack Snyder, Ezra Bridger, James Clement, Nick Mason
+- 2021-02-18 — Superman II - Caravan Of Garbage — speakers: Richard Donner, Richard Lester, James Clement, Nick Mason
+- 2021-02-15 — 372 Weird Members of the Justice League — speakers: Tom Holland, Gina Carano, Snyder Cut, James Clement, Nick Mason
+- 2021-02-11 — Superman The Movies - Caravan Of Garbage — speakers: Richard Donner, Christopher Reeve, Margot Kidder, Marlon Brando, Gene Hackman, James Clement, Nick Mason
+- 2021-02-08 — 371 Best & Worst Movies Based on Books — speakers: Bruce Willis, Armor Wars, Snyder Cut, James Clement, Nick Mason
+- 2021-02-04 — More Of The Awful Inhumans - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2021-02-01 — 370 Most Anticipated TV Shows 2021 — speakers: George Clooney, Buck Rogers, Teaser Invincible, Harry Potter, James Clement, Nick Mason
+- 2021-01-28 — Inhumans - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2021-01-25 — 369 Most Anticipated Movies 2021 & WandaVision — speakers: Mortal Kombat, James Clement, Nick Mason
+- 2021-01-18 — Big Sandwich Clickbait Special — speakers: James Clement, Nick Mason
+- 2021-01-11 — Best of The Weekly Planet 2020 — speakers: James Clement, Nick Mason
+- 2021-01-04 — 368 The Best & Worst of 2020 — speakers: Mark Hamill, James Clement, Nick Mason
+- 2020-12-28 — 367 Wonder Woman 1984 — speakers: Wonder Woman, Snyder Cut, James Clement, Nick Mason
+- 2020-12-24 — The Failed Wonder Woman Pilot - Caravan Of Garbage — speakers: Diana Prince, WonderWoman Hosted, James Clement, Nick Mason
+- 2020-12-21 — 366 The Mandalorian Season 2 — speakers: Tom Cruise, Snyder Cut, Lady Sif, Rip Jeremy Bulloch, Lady Sif Returns, Chris Pine Joins, Jeremy Bulloch, James Clement, Nick Mason
+- 2020-12-15 — The Santa Clause 3: The Escape Clause - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2020-12-14 — 365 Huge Marvel, Star Wars & Disney News — speakers: Wonder Woman, Ben Affleck’s Batman, Hbo Max, Max Backlash, Patty Jenkins, Ben Affleck, Disney Rude Stuff, James Clement, Nick Mason
+- 2020-12-10 — The Santa Clause 2 - Caravan Of Garbage — speakers: Tim Allen, James Clement, Nick Mason
+- 2020-12-07 — 364 Everything Is Coming to HBO Max — speakers: Oscar Isaac, Snyder Cut, Max Slate, David Prowse, Solid Snake, James Clement, Nick Mason
+- 2020-12-03 — The Santa Clause - Caravan Of Garbage — speakers: Tim Allen, James Clement, Nick Mason
+- 2020-11-30 — 363 How To Reboot Dying Franchises — speakers: Joss Whedon, Mads Mikkelsen, Amazons Spin, James Clement, Nick Mason
+- 2020-11-26 — Star Wars Rebels: Twilight Of The Apprentice - Caravan Of Garbage — speakers: Anakin Skywalker, Darth Vader, James Twitter, James Clement, Nick Mason
+- 2020-11-23 — 362 Wonder Woman For Christmas & The New Mutants (more like old mutants) — speakers: Chaos Walking, Zack Snyder’s Justice, James Bond Game Announcement, Wonder Woman, James Clement, Nick Mason
+- 2020-11-19 — Batman Heart Of Ice - Caravan Of Garbage — speakers: Batman Heart, Harley Quinn, Batman Beyond, James Clement, Nick Mason
+- 2020-11-16 — 361 We saw Tenet — speakers: Wonder Woman, Sylvester Stallone Suicide, Christopher Nolan, James Clement, Nick Mason
+- 2020-11-12 — Quibi's The Golden Arm - Caravan Of Garbage (ft Aunty Donna) — speakers: Aunty Donna, Donna Netflix, James Clement, Nick Mason
+- 2020-11-09 — 360 Big Ol' House of Sad Movies (with Aunty Donna) — speakers: Aunty Donna, Johnny Depp, Boba Fett, James Clement, Nick Mason
+- 2020-11-02 — 03 Super Weird Star Wars Characters — speakers: Creed Netflix, Spider-Man Starts, Shang Chi Wraps, James Clement, Nick Mason
+- 2020-10-29 — The Clone Wars Finale - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2020-10-26 — 02 Cursed Movies & TV Shows — speakers: Aunty Donna, Zack Snyder, John McClane, Snyder Cut Re-shoots, Spooky Movie, James Clement, Nick Mason
+- 2020-10-23 — Dredd - Caravan Of Garbage — speakers: Karl Urban, James Clement, Nick Mason
+- 2020-10-19 — 01 Worst TV Show Endings — speakers: Andrew Garfield, Jiu Jitsu, Nick Mason, James Clement
+- 2020-10-12 — 356 The Boys Season 2 — speakers: Tom Cruise, Holmes Shared, Freeze Solo Movie, James Clement, Nick Mason
+- 2020-10-05 — 355 Electro Returns & Trailers Ahoy! — speakers: Kobra Kai, Jamie Fox, James Bond Quiz, Jamie Foxx’s Spider-Man Return, James Clement, Nick Mason
+- 2020-10-01 — Mission Impossible 3 - Caravan Of Garbage — speakers: Tom Cruises, Phillip Seymore Hoffman, James Clement, Nick Mason
+- 2020-09-28 — 354 Movies That Need Sequels 2: Cruise Control — speakers: Snyder Cut, James Clement, Nick Mason
+- 2020-09-24 — Mission Impossible 2 - Caravan Of Garbage — speakers: Tom Cruise, John Woo, James Clement, Nick Mason
+- 2020-09-21 — 353 Movies That Need Sequels — speakers: Diana Rigg, Max Robat Battinbat, James Clement, Nick Mason
+- 2020-09-17 — Mission Impossible - Caravan Of Garbage — speakers: Tom Cruise, De Palma, Tom Cruises, James Clement, Nick Mason
+- 2020-09-14 — 352 Franchises That Should Have Died — speakers: Wonder Woman, Daisy Ridley Kenobi, James Clement, Nick Mason
+- 2020-09-10 — Mulan - Caravan Of Garbage — speakers: Disney Hosted, James Clement, Nick Mason
+- 2020-09-07 — 351 Mulan & The Boys Season 2 — speakers: Chadwick Boseman, John Boyega, James Clement, Nick Mason
+- 2020-09-03 — Interstellar - Caravan Of Garbage — speakers: Matthew Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine, James Clement, Nick Mason
+- 2020-08-31 — 350 Rest In Power, Chadwick Boseman — speakers: Chadwick Boseman Visit, Chadwick Boseman, Ted Face, Snyder Cut, Tom Cruise, James Clement, Nick Mason
+- 2020-08-27 — Inception - Caravan of Garbage — speakers: Christopher Nolan, Leonardo DiCaprio, James Clement, Nick Mason
+- 2020-08-24 — 349 DC FANDOME! — speakers: Zack Snyder, Squad Kills, Gotham Knights, Nick Mason, sG QVmYGddQ, Automobiles Reboot Quibi Update, Wonder Woman, Batfleck Returns, James Clement
+- 2020-08-20 — The Prestige - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
+- 2020-08-17 — 348 The Bill & Ted Movies & Project Power — speakers: Nick Mason, Jared Leto, Snyder Zombie Movie Recast, James Clement
+- 2020-08-13 — Transformers: The Last Knight - Caravan Of Garbage — speakers: Cade Yeager, Optimus Prime, James Clement, Nick Mason
+- 2020-08-10 — 347 DC Fandom Preview & Mulan Comes To Streaming — speakers: John Wick, Nick Mason, John Wick Sequels, James Wan, Knight Rider, Seth Rogen, Kravitz Catwoman, James Clement
+- 2020-08-06 — Trans4mers: Age Of Extinction - Caravan Of Garbage — speakers: Michael Bay, Mark Wahlberg Cade Yeager, Dinobots ya know, James Clement, Nick Mason
+- 2020-08-03 — 346 Umbrella Academy Season 2 & Comic Con Bomb — speakers: Comic Con, Courtney Cox Returns, Comic Bomb, Robat Battinbat, James Clement, Nick Mason
+- 2020-07-30 — Transformers: Dark Of The Moon - Caravan Of Garbage — speakers: Megan Fox, Rosie Huntington-Whiteley, Leonard Nimoy, James Clement, Nick Mason
+- 2020-07-27 — 345 Comic Con 2020 (woooo?) — speakers: Comic Con, Donald Glover Returning, Bbq Talk, James Clement, Nick Mason
+- 2020-07-23 — Transformers: Revenge Of The Fallen - Caravan Of Garbage — speakers: Michael Bay Transformers Universe, Megan Fox, James Clement, Nick Mason
+- 2020-07-20 — 344 Best Starter Comics (Marvel Edition) — speakers: Adam Smasher, Black Adam, Tom Holland, Henry Cavill, Comic Con, Atom Smasher, James Clement, Nick Mason
+- 2020-07-16 — Transformers 2007 - Caravan Of Garbage — speakers: Megan Fox, James Clement, Nick Mason
+- 2020-07-13 — 343 The Old Guard & New Batman Series — speakers: Kills Teaser, Leigh Whannell, Javicia Leslie, Junkie XL, Hans Zimmer, James Clement, Nick Mason
+- 2020-07-09 — Pacific Rim - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2020-07-05 — 342 Justice League Controversy & Harley Quinn — speakers: Joss Whedon, Christopher Nolan, Holmes News, James Clement, Nick Mason
+- 2020-07-02 — Edge Of Tomorrow - Caravan Of Garbage — speakers: Tom Cruise, Emily Blunt, Bill Paxton, James Clement, Nick Mason
+- 2020-06-29 — 341 Michael Keaton Is Batman Returning — speakers: Michael Keaton, Hahaaaaaaa Keaton, Joel Schmacher, Jonah Jameson, James Clement, Nick Mason
+- 2020-06-27 — Reign Of Fire - Caravan Of Garbage — speakers: Christian Bale, Matthew McConaughey, James Clement, Nick Mason
+- 2020-06-22 — 340 Best Starter Comics (DC Edition) — speakers: Keith Blocker, Ian Holm, James Clement, Nick Mason
+- 2020-06-19 — Justice League - Caravan Of Garbage — speakers: Justice League, James Clement, Nick Mason
+- 2020-06-15 — 339 PC Has Gone Mad — speakers: Wonder Woman, Dracula Bleh, Comic Con, Miles Morales, Standalone Superman, James Clement, Nick Mason
+- 2020-06-12 — Batman V Superman - Caravan Of Garbage — speakers: Batman Hosted, James Clement, Nick Mason
+- 2020-06-08 — 338 Fan Theories Hot Stuff Sexy Dads — speakers: Bane Solo, iDvPm Suggestible, James Clement, Nick Mason
+- 2020-06-04 — Man Of Steel - Caravan Of Garbage — speakers: Henry Cavill, Michael Shannon, Amy Adams, Lois Lane, Russel Crowe, Kevin Costner, James Clement, Nick Mason
+- 2020-06-01 — 337 Best & Worst Director Cuts — speakers: Cuts Joshua, Doug Liman, Tom Cruise, James Mangold, Ryan Gosling, Henry Cavill, Christopher Nolan, Scott Derrickson, James Clement, Nick Mason
+- 2020-05-28 — Die Another Day - Caravan Of Garbage — speakers: Pierce Brosnan, James Bond, Halle Berry, James Clement, Nick Mason
+- 2020-05-25 — 336 The Snyder Cut Is Coming — speakers: Snyder Cut, Timothy Olyphant, James Clement, Nick Mason
+- 2020-05-21 — James Bond The World Is Not Enough - Caravan Of Garbage — speakers: James Bond, Robbie Coltrane, Elektra King, Denise Richards, James Clement, Nick Mason
+- 2020-05-18 — 335 The New Mutants Release Date (more like old mutants) — speakers: Fred Willad, Lynn Shelton, Jerry Stiller Rip, Robat Battinbat, Percy Jackson, Rip Fred Willard, Rip Lynn Shelton, Jerry Stiller, James Clement, Nick Mason
+- 2020-05-14 — James Bond Tomorrow Never Dies! - Caravan Of Garbage — speakers: James Bond, Michelle Yeoh, Teri Hatcher, James Clement, Nick Mason
+- 2020-05-11 — 334 Boba Fett Is Back! — speakers: Boba Fett, Ms Monopoly, Comic Con, Tom Cruise, Sylvester Stallone, Demolition Man, Hayden Christensen, Vader Immortal, James Clement, Nick Mason
+- 2020-05-07 — James Bond GoldenEye - Caravan Of Garbage — speakers: James Bond GoldenEye Caravan, Daniel Craig, Scoob Hosted, James Clement, Nick Mason
+- 2020-05-04 — 333 Best & Worst Apocalypse Movies — speakers: Harrison Ford, Space Jam, John Wick, Alan Moore, Frank Miller Adaptations, Sam Lloyd, James Clement, Nick Mason
+- 2020-04-30 — Scooby-Doo 2: Monsters Unleashed - Caravan Of Garbage — speakers: Sarah Michelle Gellar, Prinze Jr, Linda Cardellini, Neil Fanning, Scoob Hosted, James Clement, Nick Mason
+- 2020-04-27 — 332 Extraction! Chris Hemsworth! — speakers: Chris Hemsworth, Chris Pine, James Clement, Nick Mason
+- 2020-04-23 — Scooby-Doo 2002 - Caravan Of Garbage — speakers: Matthew Lillard, Sarah Michelle Gellar, Prinze Jr, Linda Cardellini, Neil Fanning, Rowan Atkinson, Scoob Hosted, James Clement, Nick Mason
+- 2020-04-20 — 331 Superhero Showdown 7 — speakers: Sam Raimi, Joss Whedon, John Krazinski, Comic Con, James Clement, Nick Mason
+- 2020-04-16 — Fant4stic Four 2015 Extended - C4ravan Of G4rbage — speakers: Josh Trank, Mcu Hosted, James Clement, Nick Mason
+- 2020-04-13 — 330 Movie Castings That Nearly Happened — speakers: Ezra Miller, Robin Hood, Michael Shanks, James Clement, Nick Mason
+- 2020-04-12 — How To Get Your Movie Made (With Michael Shanks) — speakers: Michael Shanks, Rebooted Hosted, James Clement, Nick Mason
+- 2020-04-09 — Fantastic Four: Rise Of The Silver Surfer - Caravan Of Garbage — speakers: Chris Evan, Johnny Storm, Mcu Hosted, James Clement, Nick Mason
+- 2020-04-06 — 329 New Marvel Dates & Harry Potter 5 & 6 — speakers: Harry Potter, Adam Schlesinger, James Clement, Nick Mason
+- 2020-04-02 — Fantastic Four 2005 - Caravan Of Garbage — speakers: Johnny Storm, Jessica Alba, Michael Chiklis, Julian McMahon, Mcu Hosted, James Clement, Nick Mason
+- 2020-03-30 — 328 The History Of Robin — speakers: Robin Help, Man Wonder, James Clement, Nick Mason
+- 2020-03-26 — The Fantastic Four 1994 Extended - Caravan Of Garbage — speakers: Roger Corman, Mcu Hosted, James Clement, Nick Mason
+- 2020-03-23 — 327 A Weird Disney Plus Deep Dive — speakers: Wonder Woman, Rosario Dawson, James Clement, Nick Mason
+- 2020-03-23 — The First Westworld - Caravan Of Garbage — speakers: Michael Crichton, Starring Yul Brynner, James Brolin, Richard Benjamin, James Clement, Nick Mason
+- 2020-03-16 — 326 Everything Is Cancelled (except Bloodshot) — speakers: Shang Chi, Peter Pan, James Clement, Nick Mason
+- 2020-03-13 — Star Trek Generations - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2020-03-09 — 325 Movies That Were Long Delayed — speakers: James Clement, Nick Mason
+- 2020-03-05 — Doom 2005 - Caravan Of Garbage — speakers: Karl Urban, Rosamund Pike, James Clement, Nick Mason
+- 2020-03-02 — 324 The Invisible Man — speakers: Dark Universe, Bob Iger, James Clement, Nick Mason
+- 2020-02-27 — The Mummy: Tomb Of The Dragon Emperor - Caravan Of Garbage — speakers: Dragon Emperor, Brendan Fraser, Rick O'Connell, Rachel Weisz, Jet Li, James Clement, Nick Mason
+- 2020-02-24 — 323 Controversial Comic Book Moments — speakers: Ben Affleck, Dan Didio, James Clement, Nick Mason
+- 2020-02-20 — The Mummy Returns - Caravan Of Garbage — speakers: Brendan Fraser, Rachel Weisz, James Clement, Nick Mason
+- 2020-02-17 — 322 The New Batsuit & Sonic The Movie — speakers: Robat Battinbat, James Clement, Nick Mason
+- 2020-02-14 — Super Mario Bros. The Movie - Caravan Of Garbage — speakers: Mario Bros, James Clement, Nick Mason
+- 2020-02-10 — 321 Birds Of Prey Bombs — speakers: Prey Bombs, Sam Raimi, James Clement, Nick Mason
+- 2020-02-07 — The Worst Birds of Prey Extended - Caravan Of Garbage — speakers: Garbage Birds, Harley Quinn, James Twitter, James Clement, Nick Mason
+- 2020-02-03 — 320 Super Bowl Trailers — speakers: Owen Wilson, James Clement, Nick Mason
+- 2020-01-30 — Star Wars: Clone Wars (Vol 2) - Caravan Of Garbage — speakers: Genndy Tartakovsky, Anakin Skywalker, James Twitter, James Clement, Nick Mason
+- 2020-01-27 — 319 Movies Set In 2020 — speakers: Terry Jones, James Clement, Nick Mason
+- 2020-01-23 — The Mummy 1999 - Caravan Of Garbage — speakers: Brendan Fraser, Rachael Weisz, John Hannah, Arnold Vosloo, James Clement, Nick Mason
+- 2020-01-20 — 318 Most Anticipated Movies 2020 — speakers: Scott Derrickson, Taika Waititi, James Clement, Nick Mason
+- 2020-01-16 — Superman Return - Caravan Of Garbage — speakers: Christopher Reeve Superman, Superman Returns, Bryan Singer, James Clement, Nick Mason
+- 2020-01-06 — Best of The Weekly Planet 2019 — speakers: James Clement, Nick Mason
+- 2019-12-30 — 317 Best/Worst Of 2019 — speakers: Daniel Radcliff, Moon Knight, James Clement, Nick Mason
+- 2019-12-23 — 316 Star Wars: The Rise Of Skywalker — speakers: James Clement, Nick Mason
+- 2019-12-19 — The First Return Of The Emperor - Caravan Of Garbage — speakers: Dark Horse, Luke Skywalker, Dark Rey, Dark Luke Skywalker, Boba Fett, Jedi Holocrons, James Clement, Nick Mason
+- 2019-12-16 — 315 The Jumanji Movies — speakers: ReleaseTheSnyderCut Release, James Clement, Nick Mason
+- 2019-12-13 — Zathura: Space Jumanji - Caravan Of Garbage — speakers: Jon Faveau sci-fi, Iron Man, Robin Williams, James Clement, Nick Mason
+- 2019-12-09 — 314 Black Widow Trailer — speakers: Wonder Woman, James Clement, Nick Mason
+- 2019-12-02 — 313 The Irishman & A New Superman? — speakers: Michael Jackson, VS Godzilla, Wonder Woman, James Clement, Nick Mason
+- 2019-11-29 — Kylo Ren's Weird Animated Origin - Caravan Of Garbage — speakers: Kylo Ren, James Clement, Nick Mason
+- 2019-11-25 — 312 Knives Out & Looper Revisited — speakers: Rian Johnson, Kathleen Kennedy, Black Adam, James Clement, Nick Mason
+- 2019-11-22 — Frozen Extended - Caravan Of Garbage — speakers: Frozen Extended Caravan, Kristen Bell, Jonathan Groff, Josh Gad, James Clement, Nick Mason
+- 2019-11-18 — 311 The Mandalorian & Jedi Fallen Order — speakers: Jedi Fallen Order, Death Stranding, Mark Whalberg, Wars Jedi Fallen Order, James Clement, Nick Mason
+- 2019-11-15 — Boba Fett's Revenge (The Clone Wars) - Caravan Of Garbage — speakers: Boba Fett, Death Trap, Mace Windu, Anakin Skywalker, wikipediabrown Buy, James Clement, Nick Mason
+- 2019-11-11 — 310 Franchise Killing Movies — speakers: Dark Fate, James Dean, Carrie Fisher, James Clement, Nick Mason
+- 2019-11-08 — Pearl Harbor (Michael Bay's Titanic) - Caravan Of Garbage — speakers: Michael Bay, Ben Affleck, James Cameron, Midway Hosted, James Clement, Nick Mason
+- 2019-11-04 — 309 Terminator Dark Fate & More Star Wars Trouble — speakers: Dark Fate, DB Weis, David Benioff, James Clement, Nick Mason
+- 2019-11-01 — Terminator: The Sarah Connor Chronicles - Caravan Of Garbage — speakers: Sarah Connor, wikipediabrown Buy, James Clement, Nick Mason
+- 2019-10-28 — 308 Horror Icon Showdown — speakers: Wonder Woman, James Clement, Nick Mason
+- 2019-10-25 — Watchmen (Zack Snyder 2009) - Caravan Of Garbage — speakers: Zack Snyder, Damon Lindelof, Alan Moore, wikipediabrown Buy, James Clement, Nick Mason
+- 2019-10-21 — 307 The New Catwoman & Zombieland Double Tap — speakers: Kevin Feige, Jared Leto, Cowboy Bebop, Liv Tyler, James Clement, Nick Mason
+- 2019-10-18 — The Cancelled Zombieland Amazon Series - Caravan Of Garbage — speakers: Woody Harrleson, Emma Stone, Jesse Eisenberg, Abigail Breslin, wikipediabrown Buy, James Clement, Nick Mason
+- 2019-10-14 — 306 Gemini Man (BOO) & El Camino (YAY) — speakers: Gemini Man, Jungle Cruise, James Clement, Nick Mason
+- 2019-10-11 — The Forgotten Terminator 3 - Caravan Of Garbage — speakers: Dark Fate, Arnold Schwarzenegger, Linda Hamilton, Robert Patrick, Edward Furlong, wikipediabrown Buy, James Clement, Nick Mason
+- 2019-10-07 — 305 Joker The Movie Joker — speakers: Tom Holland, James Clement, Nick Mason
+- 2019-10-04 — Batman 1989 - Caravan Of Garbage — speakers: Tim Burton, James Clement, Nick Mason
+- 2019-09-29 — 304 Edgy Movies & Spider-Man Returns — speakers: Kevin Feige, Superman Returns, Lex Luthor, Jeffrey Wright, Jonah Hill, James Clement, Nick Mason
+- 2019-09-27 — Terminator 3: Rise Of The Machines - Caravan Of Garbage — speakers: Dark Fate, James Clement, Nick Mason
+- 2019-09-23 — 303 Rambo Last Blood & Brad Astra — speakers: Tom Welling, Clark Kent, JJ Abrams, James Clement, Nick Mason
+- 2019-09-20 — Rambo 3: Worst Blood - Caravan Of Garbage — speakers: Sylvester Stallone, James Clement, Nick Mason
+- 2019-09-16 — 302 Best & Worst Stallone Movies & New Suicide Squad Cast — speakers: Spider-Man Mcu, Darth Vader TV, Tony Stark, Hailee Steinfeld, Kate Bishop, James Clement, Nick Mason
+- 2019-09-13 — IT Chapter Two (1990) - Caravan Of Garbage — speakers: Stephen King, James Clement, Nick Mason
+- 2019-09-09 — 301 IT Chapter Two is... — speakers: weeklyplanet Check, Bad Boys, Jo Jo Rabbit, Hayley Atwell, James Clement, Nick Mason
+- 2019-09-05 — IT Chapter One (1990) - Caravan Of Garbage — speakers: wikipediabrown Buy, T-Shirts Merch, James Clement, Nick Mason
+- 2019-09-02 — 300 The Matrix Trilogy Revisited — speakers: Dark Fate, James Clement, Nick Mason
+- 2019-08-30 — The Story Of Boba Fett's Most Dangerous Bounty - Caravan Of Garbage — speakers: Boba Fett, Dangerous Bounty Caravan, Jango Fett Bloodlines, James Clement, Nick Mason
+- 2019-08-26 — 299 D23 & Spider-Man Leaves The MCU — speakers: Moon Knight, Breaking Bad, Dave Warnake Pie Guy, Miscellaneous Whatevs Marvel, Wan Kenobi TV, Buy Spider-Man, James Clement, Nick Mason
+- 2019-08-23 — Batman Beyond Return Of The Joker - Caravan Of Garbage — speakers: Beyond Return, Batman Beyond, Terry McGuiness, Bruce Wayne, Kevin Conroy, Mark Hamill, Buy Return, James Clement, Nick Mason
+- 2019-08-19 — 298 Obi Wan Series & Once Upon A Time In Hollywood — speakers: Peter Fonda, Richard Williams, Johnson Star, James Clement, Nick Mason
+- 2019-08-16 — Blade 1998 - Caravan Of Garbage — speakers: Buy Blade, James Clement, Nick Mason
+- 2019-08-15 — The Weekly Planet Presents - Suggestible — speakers: James Clement, Nick Mason
+- 2019-08-12 — 297 Reservoir Dogs & Pulp Fiction — speakers: Quentin Tarantino, Kevin Conroy, Will Deadpool, James Clement, Nick Mason
+- 2019-08-09 — The Italian Job (2003) - Caravan Of Garbage — speakers: Jason Statham, Mark Whalberg, Mos Def, Seth Green, Edward Norton, James Twitter, James Clement, Nick Mason
+- 2019-08-05 — 296 The Boys & Hobbs And Shaw — speakers: Ben Affleck, Andy Serkis, Ben Affleck’s Batman, James Clement, Nick Mason
+- 2019-08-01 — Swamp Thing 2019 & 1982 - Caravan Of Garbage — speakers: Abby Arcane, James Clement, Nick Mason
+- 2019-07-29 — 295 The Lion King 2019 — speakers: Blade Runner, Mad Max, Kill Bill Vol, Bill Vol, James Clement, Nick Mason
+- 2019-07-22 — 294 Comic Con 2019 & Wooo — speakers: Comic Con, Marvel’s Phase, Shang Chi, Dark Fate, Brandon Routh, Doom Patrol, James Clement, Nick Mason
+- 2019-07-19 — The Lion King - Caravan Of Garbage — speakers: Hans Zimmer, James Clement, Nick Mason
+- 2019-07-15 — 293 Stranger Things Season 3 & The New 007 — speakers: weeklyplanet Stranger, Shang Chi, James Clement, Nick Mason
+- 2019-07-13 — Spider-Man 3 - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-07-10 — Wolverine: The Lost Trail — speakers: James Clement, Nick Mason
+- 2019-07-08 — 292 Spider-Man: Far Home is... — speakers: Little Mermaid, James Clement, Nick Mason
+- 2019-07-04 — Spider-Man 2 - Caravan Of Garbage — speakers: Peter Parker, Tobey Maguire, James Clement, Nick Mason
+- 2019-07-01 — 291 Weird Versions Of Spider-Man — speakers: Flash Gordon, Paul Rudd, James Clement, Nick Mason
+- 2019-06-29 — Spider-Man (2002) - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-06-24 — 290 Toy Story 4... — speakers: Toy Story, Buy Toy, James Clement, Nick Mason
+- 2019-06-17 — 289 MIB International & Black Mirror Season 5 — speakers: Dark Phoenix, James Clement, Nick Mason
+- 2019-06-14 — The Weekly Planet Presents - Hey Fam E3 2019 — speakers: James Clement, Nick Mason
+- 2019-06-11 — Men In Black: The Animated Series - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-06-10 — 288 X-Men Dark Phoenix is... — speakers: Wars Jedi Fallen Order, Django Zorro, Prey Wonder Woman Poster, Jedi Fallen Order, James Clement, Nick Mason
+- 2019-06-04 — X-Men: The Last Stand - Caravan Of Garbage — speakers: Bryan Singer, James Clement, Nick Mason
+- 2019-06-03 — 287 Godzilla King Of The Monsters Is... — speakers: Robat Battinbat, VS Spider-Man, Tom King, James Clement, Nick Mason
+- 2019-05-29 — Godzilla 1998 (Still Terrible) - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-05-27 — 286 Aladdin, Brightburn & Game Of Thrones — speakers: Dark Fate, John Wick, Buy Aladdin, James Clement, Nick Mason
+- 2019-05-21 — Mason Hates Aladdin? - Caravan Of Garbage — speakers: Hates Aladdin, James Clement, Nick Mason
+- 2019-05-20 — 285 The New Batman & John Wick 3 — speakers: John Wick, Mortal Kombat, John Wick Chapter, James Clement, Nick Mason
+- 2019-05-13 — 284 Detective Pikachu is... — speakers: Suicide Squad, Titanic Spider-Man Far, Michael Rooker, Detective Pikachu, James Clement, Nick Mason
+- 2019-05-09 — Pokemon: The Worst Movie - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-05-06 — 283 The Future Of The MCU — speakers: John Singleton, Peter Mayhew, James Clement, Nick Mason
+- 2019-05-03 — Thanos' Most Embarrassing Moment - Caravan Of Garbage — speakers: Most Embarrassing Moment, Avengers Infinity War, James Clement, Nick Mason
+- 2019-04-29 — 282 Avengers: Endgame is... — speakers: James Clement, Nick Mason
+- 2019-04-22 — 281 Avengers Endgame Leaks (no spoilers) & Thor 4 — speakers: Mar Whalbergs, James Clement, Nick Mason
+- 2019-04-16 — Star Wars: Clone Wars 2003 - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-04-15 — 280 Star Wars The Rise Of Skywalker & Hellboy 2019 — speakers: Jedi Fallen Order, Bruce Wayne, Tomb Raider, New Bruce Wayne, Fallen Order, James Clement, Nick Mason
+- 2019-04-08 — 279 Shazam! is... — speakers: Wil Anderson, Dark Fate, Taika Waititi, James Clement, Nick Mason
+- 2019-04-02 — Hey Look! It's The Worst Shazam - Caravan Of Garbage — speakers: Hey Look, Captain Marvel, James Clement, Nick Mason
+- 2019-04-01 — 278 Us & Star Wars 9 Leaks — speakers: Jordan Peele, Jared Leto’s Joker, Mark Hamill, Ben Affleck, James Clement, Nick Mason
+- 2019-03-26 — Mason Hates Dumbo - Caravan Of Garbage — speakers: ResDolph Twitter, James Clement, Nick Mason
+- 2019-03-25 — 277 The Hellboy Movies — speakers: Wil Anderson, John Wick, Taika Waititi, James Clement, Nick Mason
+- 2019-03-18 — 276 James Gunn Returns & Avengers: Endgame Trailer 2 — speakers: James Gunn Returns Avengers, James Gunn, Shang Chi, James Clement, Nick Mason
+- 2019-03-12 — The First Skrull Invasion - Caravan Of Garbage — speakers: Marvel Amazon, James Clement, Nick Mason
+- 2019-03-11 — 275 Captain Marvel is... — speakers: Luke Perry, Luke Perry Shazam, James Clement, Nick Mason
+- 2019-03-04 — Captain Marvel's Horrible Fate - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-03-04 — 274 Dark Phoenix & Hellboy trailers — speakers: Riley Jones Blog, Dark Phoenix, Will Smith, X-Men Ghost School, James Clement, Nick Mason
+- 2019-02-25 — 273 Umbrella Academy & Kenobi TV Series — speakers: Charlie Clausen, Space Jam, Hulk Hogan, James Clement, Nick Mason
+- 2019-02-19 — Dragonball *sigh* Evolution - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-02-18 — 272 Alita: Battle Angel is... — speakers: Battle Angel, Ben Affleck’s Batman, Ninja Turtles, Breaking Bad, Ben Affleck Batman, Harley Quinn, Dune June, Buy Alita, James Clement, Nick Mason
+- 2019-02-13 — Superfast & Super Terrible - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2019-02-11 — 271 Worst Anime Adaptations — speakers: Manga Adaptations, Danai Gurira, Kingsman Prequel, Avengers Endgame, James Clement, Nick Mason
+- 2019-02-04 — 270 Batfleck Out & Super Bowl Trailers — speakers: Bud Light, Ben Affleck, Snyder Zombie, James Clement, Nick Mason
+- 2019-01-29 — Spider-Man V Mysterio 1994 - Caravan Of Garbage — speakers: Peter Parker, Buy Spider-Man, James Clement, Nick Mason
+- 2019-01-28 — 269 Most Anticipated Movies 2019 — speakers: Christopher Nolan, Bizarre Spider-Man Villains, Oscar Nom, James Clement, Nick Mason
+- 2019-01-21 — 268 GLASS: The movie Glass — speakers: Plus Spider-Man Far, Kevin Hart Monopoly Ghostbusters, Buy Glass, James Clement, Nick Mason
+- 2019-01-14 — Best Of The Weekly Planet 2018 — speakers: James Clement, Nick Mason
+- 2019-01-06 — Aquaman's Dumbest Enemy - Caravan Of Garbage — speakers: Dumbest Enemy Caravan, Buy Aquaman, James Clement, Nick Mason
+- 2018-12-31 — 267 Best/Worst Of 2018 — speakers: Jordan Peele, Jude Law, Jude Law’s Captain Marvel, Bird Box, James Clement, Nick Mason
+- 2018-12-25 — James Cameron's Aquaman - Caravan Of Garbage — speakers: James Cameron, tkL AE, James Clement, Nick Mason
+- 2018-12-24 — 266 Aquaman & Bumblebee — speakers: Will Smith’s Genie, Aquaman Easter, Will Smith, Buy Aquaman, James Clement, Nick Mason
+- 2018-12-17 — 265 Spider-Man: Into The Spider-Verse is... — speakers: Usb Tapes, Henry Cavill, Buy Spider, Tuqaz Hosted, James Clement, Nick Mason
+- 2018-12-10 — 264 Avengers: Endgame Trailer — speakers: Avengers Endgame, Tom Cruise, Shang Chi, Usb X-Mas Tapes, Shang Chi Master, James Clement, Nick Mason
+- 2018-12-06 — Spider-Man Night Of The Clones - Caravan Of Garbage — speakers: Buy Spider-Man, James Clement, Nick Mason
+- 2018-12-03 — 263 Daredevil Cancelled & Creed 2 — speakers: Cowboy Bebop, Nick Nolte, Blade Runner, James Clement, Nick Mason
+- 2018-11-27 — The Worst Robin Hood Movie - Caravan Of Garbage — speakers: Robin Hood Movie Caravan, Robin Hood, James Clement, Nick Mason
+- 2018-11-26 — 262 The Lion King Trailer & Robin Hood — speakers: Robin Hood Check, Robin Hood, Lego Movie, James Clement, Nick Mason
+- 2018-11-19 — 261 Fantastic Beasts They Did Another One — speakers: Stan Lee, Lex Luthor, Sweet Tooth, Detective Pikachu, John Cryer, Chris Pratt, Toy Story, James Clement, Nick Mason
+- 2018-11-12 — 260 The Rocky Films — speakers: Breaking Bad, Watchem Spin-off, James Clement, Nick Mason
+- 2018-11-06 — The Voldemort Origin Movie - Caravan Of Garbage — speakers: Harry Potter, James Clement, Nick Mason
+- 2018-11-05 — 259 The State Of Marvel Television — speakers: Flash Gordon, James Clement, Nick Mason
+- 2018-10-29 — 258 Halloween 2018 is... — speakers: Boba Fett, Wonder Woman, Tim Burton, George Miller, Spike Lee, James Clement, Nick Mason
+- 2018-10-22 — 257 Best Horror Movies — speakers: Luke Cage, James Clement, Nick Mason
+- 2018-10-15 — 256 The Halloween Franchise — speakers: Iron Fist, James Gunn, James Clement, Nick Mason
+- 2018-10-14 — The Dumbest Venom Story Of All Time - Caravan Of Garbage — speakers: Eddie Brock, Ghost Rider, James Clement, Nick Mason
+- 2018-10-08 — 255 Venom is... — speakers: Chris Evans, Robbie Barbie, America Avengers, James Clement, Nick Mason
+- 2018-10-01 — 254 Superhero Showdown...6? — speakers: Kathleen Kennedy, James Clement, Nick Mason
+- 2018-09-24 — 253 The Joker & Captain Marvel Trailer — speakers: Wonder Woman, Mary Poppins, James Gunn X-Men Marvel, James Clement, Nick Mason
+- 2018-09-17 — 252 The Predator is... — speakers: Heny Cavill, Kit Harington, Kevin VS, Gamey Game Game, James Clement, Nick Mason
+- 2018-09-10 — 251 Captain Marvel & Spider-Man PS4 — speakers: Henry Cavill, Burt Reynolds, Buy Spider-Man PS Game, James Clement, Nick Mason
+- 2018-09-06 — Batman VS Predator - Caravan Of Garbage — speakers: VS Predator Caravan, Buy Batman, James Clement, Nick Mason
+- 2018-09-03 — 250 The Predator Films — speakers: Wesley Snipes, Alec Baldwin, Thomas Wayne, Robin Wright, James Clement, Nick Mason
+- 2018-08-27 — 249 History Of Image Comics — speakers: Ben Affleck, Hans Zimmer, Wonder Woman, Brendan Fraser, Kelly Marie Tran, Dominic Monaghan, Marie Tran, Danny Boyle, James Clement, Nick Mason
+- 2018-08-20 — 248 The Meg & Star Wars Resistance — speakers: Wars Resistence, Tom Cruise, Hal Jordan, Robocop Returns, James Gunn, Peter Weller, James Clement, Nick Mason
+- 2018-08-13 — 247 Best & Worst Jason Statham Movies — speakers: Jason Statham Movies, Jason Statham, Family Guy, James Gunn, James Clement, Nick Mason
+- 2018-08-07 — The Forgotten Aquaman - Caravan Of Garbage — speakers: Forgotten Aquaman Caravan, James Clement, Nick Mason
+- 2018-08-06 — 246 Princess Leia Returns & Harry Potter 3 & 4 — speakers: Sarah Connor, Harry Potter, James Gunn, James Clement, Nick Mason
+- 2018-07-30 — 245 Mission: Impossible Fallout is... — speakers: Impossible Fallout, James Clement, Nick Mason
+- 2018-07-23 — 244 Comic Con 2018 (wooooo?) — speakers: Comic Con, Jon Schnepp, James Gunn, Rip Jon Schnepp, James Gunn Robin Hood, Wonder Woman, James Clement, Nick Mason
+- 2018-07-16 — 243 Skyscraper & Robocop Returns — speakers: Joss Whedon, Comic Con, James Clement, Nick Mason
+- 2018-07-10 — Mission: Impossible (but it's the 80's) - Caravan Of Garbage — speakers: Video Version, James Clement, Nick Mason
+- 2018-07-09 — 242 Ant-man & The Wasp is... — speakers: Sam Jackson, Buy Ant-Man, James Clement, Nick Mason
+- 2018-07-03 — Ant-man's Dumbest Enemy - Caravan Of Garbage — speakers: Buy Ant-Man, James Clement, Nick Mason
+- 2018-07-02 — 241 Unresolved Movie/TV Cliffhangers — speakers: Obi Wan, Jared Leto, James Clement, Nick Mason
+- 2018-06-28 — TWP Presents - TOFOP — speakers: Comedy Podcasting, James Clement, Nick Mason
+- 2018-06-26 — The Worst Thing Marvel Ever Created - Caravan Of Garbage — speakers: Ever Created, Avengers Infinity War, James Clement, Nick Mason
+- 2018-06-25 — 240 Jurassic World: Fallen Kingdom is... — speakers: James Clement, Nick Mason
+- 2018-06-21 — TWP Presents - Just Make The Thing — speakers: James Clement, Nick Mason
+- 2018-06-18 — 239 The Incredibles 2 & Upgrade (with Leigh Whannell) — speakers: Leigh Whannell, Wonder Woman, Geoff Johns, George Lucas, Paul Hogan, James Clement, Nick Mason
+- 2018-06-14 — TWP Presents - Hey Fam — speakers: James Clement, Nick Mason
+- 2018-06-11 — 238 Bumblebee, Spiderverse, E3 & Oceans 8 — speakers: Leto Joker, Star Wars, James Clement, Nick Mason
+- 2018-06-07 — TWP Presents - Human Ordinary — speakers: Sam Loy, James Clement, Nick Mason
+- 2018-06-05 — The Worst Ocean's 11 Movie - Caravan Of Garbage — speakers: Video Edition, James Clement, Nick Mason
+- 2018-06-04 — 237 Star Wars Fatigue — speakers: Wonder Woman, Peter Pan, Zack Snyder, Solo Deleted Scenes, James Clement, Nick Mason
+- 2018-05-31 — TWP Presents - Do Go On — speakers: Planet Broadcasting, James Clement, Nick Mason
+- 2018-05-29 — Not Solo A Star Wars Story - Caravan Of Garbage — speakers: Wars Saga, James Clement, Nick Mason
+- 2018-05-27 — 236 Solo: A Star Wars Story is... — speakers: Boba Fett, Solo Easter, Danny Boyle, Matt Groening, James Clement, Nick Mason
+- 2018-05-21 — 235 Deadpool 2 is... — speakers: Willow Deadpool, James Clement, Nick Mason
+- 2018-05-14 — 234 Crazy Fan Theories — speakers: Star Wars TV, Peter Jackson, James Clement, Nick Mason
+- 2018-05-07 — 233 Best 80's Action Movies — speakers: Cobar Kai, Robin Hood, Robin Hood Solo, James Clement, Nick Mason
+- 2018-05-01 — The Avenger In The 80's - Caravan Of Garbage — speakers: Ben Chinapen, Erik Chen, James Clement, Nick Mason
+- 2018-04-30 — 232 Avengers Infinity War is... — speakers: Nick Fury, James Clement, Nick Mason
+- 2018-04-23 — 231 Essential MCU Films — speakers: James Cameron, Allison Mack, Fallen Kingdom, Spielberg Blackhawks, James Clement, Nick Mason
+- 2018-04-16 — 230 Rampage & The Incredibles 2 Trailer — speakers: Stan Lee, TJ Miller, James Clement, Nick Mason
+- 2018-04-09 — 229 A Quiet Place & BVS Answers — speakers: Johnny English, Zack Snyder, James Clement, Nick Mason
+- 2018-04-02 — 228 Ready Player One is... — speakers: Ready Player, Wonder Woman, Uwe Boll, Rom Space Knight, James Clement, Nick Mason
+- 2018-03-27 — Not Ready Player One - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2018-03-26 — 227 Pacific Rim Uprising is... — speakers: Cobra Kai, Kobra Kai, No Venom, Tessa Thompson, Chris Evans, James Clement, Nick Mason
+- 2018-03-19 — 226 Avengers Infinity War trailer & Tomb Raider 2018 — speakers: Tomb Raider, Nicholas Cage, Danny Boyle, James Clement, Nick Mason
+- 2018-03-12 — 225 Comic Book Movies Are Better Than Ever — speakers: Jessica Jones, Wonder Woman, Extreme Universe, Christopher Robin, Mary Poppins, Tom Cruise, Vin Diesel, Michael Bay, James Clement, Nick Mason
+- 2018-03-05 — 224 New MCU Films & Red Sparrow — speakers: Steele Wars Mendo, Mark Hamill, Marvel Avengers, James Clement, Nick Mason
+- 2018-02-26 — 223 Joss Whedon Leaves Batgirl & Mute — speakers: Jessica Jones Season, Joss Whedon, Wynter Dark, James Clement, Nick Mason
+- 2018-02-19 — 222 Black Panther is... — speakers: James Clement, Nick Mason
+- 2018-02-13 — A Crap Black Panther Origin - Caravan Of Garbage — speakers: Crap Black Panther Origin, Black Panther, James Clement, Nick Mason
+- 2018-02-12 — 221 The Cloverfield Paradox & Venom trailer — speakers: Michael Bay, David Goyer, James Clement, Nick Mason
+- 2018-02-11 — Han Solo's Dumbest Adventure - Caravan Of Garbage — speakers: Boba Fett, James Clement, Nick Mason
+- 2018-02-05 — 220 Super Bowl 2018 Trailers — speakers: Tom Cruise, James Clement, Nick Mason
+- 2018-01-29 — 219 Most Anticipated Movies 2018 — speakers: Duke Nukem, Henry Cavill, James Clement, Nick Mason
+- 2018-01-24 — The Worst Tomb Raider Thing - Caravan Of Garbage — speakers: Tomb Raider, James Clement, Nick Mason
+- 2018-01-22 — 218 Big News Catch Up! — speakers: Crocodile Dundee, Ben Affleck, Tomb Raider, Tom Holland, James Clement, Nick Mason
+- 2018-01-02 — Best Of The Weekly Planet 2017 — speakers: James Clement, Nick Mason
+- 2017-12-26 — 217 Best/Worst Movies Of 2017 — speakers: George Lucas, James Clement, Nick Mason
+- 2017-12-20 — What If Luke Skywalker Died? - Caravan Of Garbage — speakers: Luke Skywalker Died, Luke Skywalker, Wars Saga, James Clement, Nick Mason
+- 2017-12-18 — 216 Star Wars:The Last Jedi is... — speakers: James Clement, Nick Mason
+- 2017-12-11 — 215 Jurassic World Fallen Kingdom trailer — speakers: Battle Angel, Robin Hood, Schrodinger’s Bat Aquaman, James Clement, Nick Mason
+- 2017-12-04 — 214 Avengers Infinity War Trailer — speakers: Zack Snyder, John Cena, James Clement, Nick Mason
+- 2017-11-27 — 213 Superhero Fatigue? — speakers: Lizzy Caplan, Fallen Kingdom, Filthy Casuals, James Clement, Nick Mason
+- 2017-11-20 — 212 Justice League is... — speakers: Gamey Game Game, Multiple Man, James Clement, Nick Mason
+- 2017-11-13 — 211 New Star Wars Trilogy & Best Star Wars Video Games — speakers: Dark Universe, Black Adam, Jedi Fallen Order, James Clement, Nick Mason
+- 2017-11-06 — 210 Thor Ragnarok is... — speakers: Henry Cavill, Ragnarok Easter, Rocksteady Superman, James Clement, Nick Mason
+- 2017-10-30 — 209 Stranger Things Season 2 & Shazam Casting — speakers: Justin Lin, James Clement, Nick Mason
+- 2017-10-23 — 208 Geostorm (is bad) & Black Panther trailer — speakers: Sweet Tees, James Clement, Nick Mason
+- 2017-10-16 — 207 The Last Jedi Trailer & Rick And Morty — speakers: Jared Leto, Luke’s Green Lightsaber, James Clement, Nick Mason
+- 2017-10-09 — 206 Blade Runner 2049 & Fast & Furious Spin Off — speakers: Blade Runner, Danny Elfman, James Clement, Nick Mason
+- 2017-10-02 — 205 Blade Runner & No More DCEU (with Steele Saunders) — speakers: Steele Saunders, Blade Runner, Denis Villeneuve, James Clement, Nick Mason
+- 2017-09-25 — 204 Kingsman The Golden Circle is... — speakers: Golden Circle, Taika Waitti, Harry Stanton, JJ Abrams, Kingsman Will, James Bond, Jedi Council, Tomb Raider, James Clement, Nick Mason
+- 2017-09-18 — 203 Biggest/Most Insane Movie Feuds — speakers: James Clement, Nick Mason
+- 2017-09-11 — 202 It 2017 & Star Wars Loses Another Director (with Two In The Think Tank) — speakers: gd Check, alasdairtb Check, James Clement, Nick Mason
+- 2017-09-04 — 201 The Inhumans (is terrible) & #GOTBros2017 — speakers: Luke Cage, Melbourne Show, James Clement, Nick Mason
+- 2017-08-28 — 200 Biggest Box Office Bombs — speakers: James Cameron, James Cameron Hates, James Clement, Nick Mason
+- 2017-08-21 — 199 The Defenders & Obi Wan The Movie — speakers: James Bond, Jessica Jones, James Clement, Nick Mason
+- 2017-08-14 — 198 Most Blatant Movie Product Placement — speakers: Talking Venom, Karl Urban, James Clement, Nick Mason
+- 2017-08-07 — 197 Best/Worst Movie To TV Adaptations (with Charlie Clausen) — speakers: Charlie Clausen, Wolf Creek, Karate Kid, Cake Boss Ralph Make, James Clement, Nick Mason
+- 2017-07-31 — 196 Moustache Madness & The Dark Knight Trilogy (with Wil Anderson) — speakers: Wil Anderson, James Clement, Nick Mason
+- 2017-07-24 — 195 Comic Con 2017 (woooo) — speakers: Comic Con, Ben Affleck, gl TWuhKR, Affleck Leaving, James Clement, Nick Mason
+- 2017-07-17 — 194 D23 & Baby Driver (with Edgar Wright) — speakers: Edgar Wright, Baby Driver, Homecoming Spoiler, James Clement, Nick Mason
+- 2017-07-10 — 193 Spider-man Homecoming is... — speakers: Rip Joan Lee, Nick Fury, Homecoming Easter, Joan Lee, Jeremy Renner, Homecoming Spoiler Free Review, Homecoming Spoiler, James Clement, Nick Mason
+- 2017-07-03 — 192 The Cornetto Trilogy & Inhumans Trailer — speakers: Edgar Wright, Wonder Woman, Death Note, Peter Parker, Homecoming Review, James Clement, Nick Mason
+- 2017-06-26 — 191 Transformers The Last Knight is... — speakers: James Clement, Nick Mason
+- 2017-06-19 — 190 Failed Movie Franchises — speakers: Danny Elfman, James Gunn, James Clement, Nick Mason
+- 2017-06-12 — 189 Black Panther & The Mummy (is terrible) — speakers: Adam West, Wonder Woman, James Clement, Nick Mason
+- 2017-06-05 — 188 Wonder Woman is... — speakers: Wonder Woman, Dark Universe, Mortal Kombat, Baby Bumblebee, James Clement, Nick Mason
+- 2017-05-29 — 187 Zack Snyder Departs Justice League & Pirates 5 — speakers: Zack Snyder, Dark Universe, Aliens Arcade Caravan, Roger Moore, Dark Universe Universe, Tom Holland, Nathan Drake, James Clement, Nick Mason
+- 2017-05-22 — 186 Alien: Covenant & The Venom Solo Movie — speakers: Han Solo, Wonder Woman, Aliens Arcade Caravan, James Clement, Nick Mason
+- 2017-05-15 — 185 Prometheus & The Bad Alien Films (with Sam Loy) — speakers: Sam Loy, Blade Runner, Find Sam Loy, James Clement, Nick Mason
+- 2017-05-08 — 184 Guardians Of The Galaxy Vol 2 talking about it — speakers: Blade Runner, Wonder Woman, Blade Runnerer, James Clement, Nick Mason
+- 2017-05-01 — 183 Superhero Showdown & Indy 5! — speakers: Golden Circle, Alien Covenant, James Clement, Nick Mason
+- 2017-04-24 — 182 Are Movies Ever Better Than Comics? (with Levins) — speakers: Andrew Levins, Will Smith, Kylo Ren, Find Levins, Ripley’s Alien, Language Warning, James Clement, Nick Mason
+- 2017-04-17 — 181 The Last Jedi Trailer, FF8 & Thor: Ragnarok — speakers: Josh Brolin, James Clement, Nick Mason
+- 2017-04-10 — 180 Princess Leia's Return, Invincible & Lego Batman — speakers: Lego Batman, Michael Bay, Wonder Woman, Carrie Fisher, Marvel Netflix, Alec Baldwin, James Clement, Nick Mason
+- 2017-04-03 — 179 Sony Ruining Spider-man, Legion & Ghost In The Shell — speakers: Ruining Spider-man, James Clement, Nick Mason
+- 2017-03-27 — 178 Justice League Trailer & Power Rangers — speakers: Brad Pitt, Chris Evan, Claire Tonti, Phil Kitt, Pete Ford, Emma Sharp, Erik Chen, Steve Hacklin, James Clement, Nick Mason
+- 2017-03-20 — 177 Is Iron Fist A Terrible Crap Thing? — speakers: Gotg Stallone, Lex Luthor, Henry Cavill, James Clement, Nick Mason
+- 2017-03-13 — 176 Kong: Skull Island & IRON FIIIST! — speakers: Baby Driver, Atomic Blonde, Logan Deleted Scene, Wonder Woman, James Clement, Nick Mason
+- 2017-03-06 — 175 Logan is... & Deadpool 2 Teaser — speakers: Bill Paxton, Underwater Welder, Logan Easter, Buy Logan, James Clement, Nick Mason
+- 2017-02-26 — 174 Nightwing The Movie & Wolverine Trivia, Facts, FUN. — speakers: Alien Covenant, Han Solo, James Clement, Nick Mason
+- 2017-02-20 — 173 Best/Worst Comic Book Movie Directors — speakers: Lion King, Mel Gibson, Suicide Squad, James Clement, Nick Mason
+- 2017-02-13 — 172 Avengers Infinity War Begins & Best Keanu Reeves Films — speakers: Keanu Reeves, James Clement, Nick Mason
+- 2017-02-06 — 171 Affleck Leaves Batman & Best Universes with Matt Stewart — speakers: Matt Stewart, Ben Affleck, Ben Affleck Left, James Clement, Nick Mason
+- 2017-01-30 — 170 The Last Jedi & Resident Evil The Final Chapter — speakers: Bryan Singer, Woody Harrelson, John Hurt, David Ayer Suicide Squad, James Clement, Nick Mason
+- 2017-01-23 — 169 Logan Trailer, Triple X3 & Sherlock Season 4 — speakers: Xander Cage, Green Lantern, Miguel Ferrer, James Clement, Nick Mason
+- 2017-01-16 — 168 Most Anticipated Movies Of 2017 — speakers: gl HtbHN, Carrie Fisher, David Ayer, Peter Dinklage, Max Sequel Uncharted, James Clement, Nick Mason
+- 2017-01-02 — Best of The Weekly Planet 2016 — speakers: Dirt Bikes, Scrooge McDuck, Bruce Wayne, James Clement, Nick Mason
+- 2016-12-26 — 167 Best/Worst Movies 2016 — speakers: Blade Runner, Alien Covenant, Carrie Fisher, Jesse Eisenberg, James Clement, Nick Mason
+- 2016-12-19 — 166 Rogue One A Star Wars Rogue One — speakers: Gotham City Sirens, Robin Hood, James Clement, Nick Mason
+- 2016-12-12 — 165 Spider-man Homecoming Trailer & Best TV 2016 — speakers: Zack Snyder, James Clement, Nick Mason
+- 2016-12-11 — Darth Vader In Video Games - Caravan Of Garbage — speakers: Darth Vader, James Clement, Nick Mason
+- 2016-12-05 — 164 GOTG Vol 2 Trailer & Best/Worst Video Games Based Off Movies — speakers: Ben Vernel, Filthy Casuals, MF Gotg, Billy Dee Williams, Pikachu Detective, James Clement, Nick Mason
+- 2016-12-01 — The First Star Wars TV Series - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2016-11-28 — 163 Best Disney Movies (That Mason Hates) — speakers: Alien Covenant, Ron Glass, James Clement, Nick Mason
+- 2016-11-24 — What If The Death Star Wasn't Destroyed? - Caravan Of Garbage — speakers: Loot Crate, James Clement, Nick Mason
+- 2016-11-21 — 162 Fantastic Beast & Where Are They Or Whatever (in the case) — speakers: Emilia Clarke, James Clement, Nick Mason
+- 2016-11-14 — 161 Best/Worst Comic Book Movies 2016 — speakers: Strange Deleted, Leonard Cohen, Robert Vaughn, Tom Holland, James Clement, Nick Mason
+- 2016-11-07 — 160 Doctor Strange is...(& Batman woes) — speakers: Wonder Woman, Lego Batman, Strange Easter, Johnny Depp, Strange Spoiler, James Clement, Nick Mason
+- 2016-10-31 — 159 Deadpool 2 Troubles & Black Mirror — speakers: Dark Universe, James Clement, Nick Mason
+- 2016-10-24 — 158 Logan Trailer For The Logan Movie — speakers: Tim Miller, Donald Glover, Joss Whedon Star Wars, James Clement, Nick Mason
+- 2016-10-20 — Death Star Heist - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2016-10-17 — 157 Rogue One Trailer/Harry Potter 1 & 2 — speakers: Harry Potter, James Clement, Nick Mason
+- 2016-10-10 — 156 New York Comic Con 2016! — speakers: John Wick, Ben Afflecks, Ben Affleck Batman, Blade Runner, John Wick Chapter, James Clement, Nick Mason
+- 2016-10-06 — The Weirdest Luke Cage Adventure - Caravan Of Garbage — speakers: Luke Cage, Marvel Universe, James Clement, Nick Mason
+- 2016-10-03 — 155 Luke Cage & New Marvel Villains — speakers: Luke Cage, Lion King, Ben Affleck Batman, Stan Lee, Justin Lin, Luke Cage Spoiler Free, Luke Cage Spoiler, James Clement, Nick Mason
+- 2016-09-29 — The Worst Justice League Film - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2016-09-26 — 154 Best Western Movies — speakers: Jared Leto, James Clement, Nick Mason
+- 2016-09-22 — The Only 90's Superman Movie - Caravan Of Garbage — speakers: Superman Movie Caravan, Loot Crate, Shaquille O'Neal, James Clement, Nick Mason
+- 2016-09-19 — 153 Batman (Best, Worst & Weirdest Versions) — speakers: Harley Quinn, Paul Walker, James Clement, Nick Mason
+- 2016-09-15 — The Lost Star Wars Sequel - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2016-09-12 — 152 New DC Casting & Guilty Pleasure Movies — speakers: Daniel Craig, Mel Gibson, James Clement, Nick Mason
+- 2016-09-05 — 151 Best/Worst Summer Movies 2016 — speakers: Gene Wilder, Happy Hogan, Luke Skywalker, James Clement, Nick Mason
+- 2016-08-29 — 150 SUPERHERO SHOWDOWN! — speakers: Steve Rogers, Dark Universe, James Clement, Nick Mason
+- 2016-08-22 — 149 Most Disappointing Movies — speakers: Blade Runner, Batman Return, James Clement, Nick Mason
+- 2016-08-15 — 148 Rogue One Trailer & DC EXPOSED (but not really) — speakers: Luke Cage, Kenny Baker, Wonder Woman, Donald Glover, James Clement, Nick Mason
+- 2016-08-08 — 147 Suicide Squad is... — speakers: Suicide Squad, Jimmy Smits, Mark Ruffalo, James Clement, Nick Mason
+- 2016-08-01 — 146 Jason Bourne is…& The Batman Solo Movie — speakers: Jason Bourne, Joss Whedon, Ben Affleck, Jason Bourne Spoiler Free, Jason Bourne Spoiler, Harry Potter, Buy Jason Bourne, James Clement, Nick Mason
+- 2016-07-25 — 145 Comic Con 2016 - Justice League! Wonder Woman! Marvel Stuff! — speakers: Comic Con, Luke Cage, Guy Richie, Brie Larson, James Clement, Nick Mason
+- 2016-07-18 — 144 Ghostbusters is...& Star Wars Celebration — speakers: James Franco, James Clement, Nick Mason
+- 2016-07-11 — 143 Dumb Movie Futures That Are Wrong — speakers: Tony Stark, Iron Man, Jedi Council, George Takei, James Clement, Nick Mason
+- 2016-07-04 — 142 Game Of Thrones S6 & BVS Ultimate Cut — speakers: James Cameron, XnZ Buy, James Clement, Nick Mason
+- 2016-06-27 — 141 Big Justice League News & Independence Day: Resurgence — speakers: Anton Yelchin Rip, Bryan Cranston, James Clement, Nick Mason
+- 2016-06-20 — 140 Big E3 Reveals & Warcraft is... — speakers: Arkham VR, Tyler Hoechlin, James Clement, Nick Mason
+- 2016-06-13 — 139 Best Cartoons To Adapt Into Movies — speakers: Alien Covenant, John Boyega, James Wan, James Clement, Nick Mason
+- 2016-06-06 — 138 BVS Ultimate Cut & Ninja Turtles 2 — speakers: Doc Savage, Muhammad Ali, Brie Larson, James Clement, Nick Mason
+- 2016-05-30 — 137 X-Men: Apocalypse is... — speakers: Hydra Mel Gibson, Sam Mendes, Jamie Bell, James Clement, Nick Mason
+- 2016-05-23 — 136 Big DC Changes & Defunct Comic Book Universes 2! — speakers: Harley Quinn, Michael Keaton, James Clement, Nick Mason
+- 2016-05-16 — 135 Fantastic Four 2 & Best/Worst Threequels — speakers: Darwyn Cook, Threequel Films, James Clement, Nick Mason
+- 2016-05-09 — 134 Captain America: Civil War is... — speakers: Ben Affleck, Tom Cruises Mummy, Tom Cruise, Adam McKay, James Clement, Nick Mason
+- 2016-05-02 — 133 DC Rumours Plus Alien & Aliens (Are Great) — speakers: Lara Croft, Fox Pulls, George Miller, Green Lantern, James Clement, Nick Mason
+- 2016-04-25 — 132 Iron Man In Spider-man & Bourne Returns — speakers: Jason Bourne, Michelle McNamara, Joins Spider, Willem Dafoe, Spider-Man Homecoming, James Clement, Nick Mason
+- 2016-04-18 — 131 Doctor Strange & Suicide Squad Trailers! — speakers: Suicide Squad, Jason Statham, Channing Tatum, Michael Keaton, Tessa Thompson, Ben Affleck Solo Batman, Buy Batman, James Clement, Nick Mason
+- 2016-04-11 — 130 Star Wars Rogue One Trailer (A Star Wars Story Sounds Dumb) — speakers: Theron Joins Fast, James Clement, Nick Mason
+- 2016-04-04 — 129 BVS Box Office & Burton's Batman — speakers: Blade Runner, Batman Returns, Buy Burton, James Clement, Nick Mason
+- 2016-03-27 — 128 Batman V Superman Is...(dramatic pause) — speakers: Gary Shandling, Peter Serafinowicz, James Clement, Nick Mason
+- 2016-03-21 — 127 Daredevil Season 2! DISCUSSION! — speakers: Daredevil Season, Indiana Jones, George Lucas, James Clement, Nick Mason
+- 2016-03-14 — 126 Spider-man & Civil War Trailer Plus 10 Cloverfield Lane — speakers: Cloverfield Lane Hey, New Spider-Man, Tomb Raider, GoTBros Mason, Daisy Ridley, Sylvester Stallone, Jim Gordon Daredevil, Cloverfield Lane, James Clement, Nick Mason
+- 2016-03-07 — 125 Ghostbusters Trailer & Christopher Reeve Superman Films — speakers: Christopher Reeve Superman Films, Christopher Reeve Superman, Green Lantern, Luke Skywalker, Luke Skywalker Gay, Gordon Levitt, Suicide Squad, Ian McShane, James Clement, Nick Mason
+- 2016-02-29 — 124 R Rated Comic Book We Want To See — speakers: James Clement, Nick Mason
+- 2016-02-22 — 123 SUPERHERO SHOWDOWN! — speakers: Blade Runner, Blade Runner Release, Steve Rogers VS, Alex Mercer, Bruce Wayne VS, Scrooge McDuch, Bruce Wayne, Phasma VS Boba Fett, James Clement, Nick Mason
+- 2016-02-15 — 122 Deadpool movie, any good? — speakers: Battlestar Galactica, Sonic Animated, James Clement, Nick Mason
+- 2016-02-08 — 121 SUPERBOWL TV SPOTS! Civil War, Batman V Superman, X-Men! — speakers: Zack Synder, Cloverfield Lane X-Men, James Clement, Nick Mason
+- 2016-02-01 — 120 Best/Worst Cancelled Comic Book Movies 3! — speakers: Mooney Returning, Snyder’s Batman, Guillermo Del, James Clement, Nick Mason
+- 2016-01-25 — 119 DC's Massive Line Up! Sucide Squad, Wonder Woman & More! — speakers: Wonder Woman, Stephen Moffat, James Clement, Nick Mason
+- 2016-01-18 — 118 Rey a Mary Sue, Cloverfield 2 & New Han Solo...too — speakers: Mary Sue, Herd Aquaman, Cloverfield Lane, David Bowie, Alan Rickman, Jamie Fox, Robin Hood, X-Files Revival Reviews, James Clement, Nick Mason
+- 2016-01-11 — 117 Most Anticipated Movies Of 2016 — speakers: Michael Bay, Battling Boy, Strange Images, James Clement, Nick Mason
+- 2016-01-04 — BONUS! Best (Not Really) Of The Weekly Planet — speakers: James Clement, Nick Mason
+- 2015-12-28 — 116 Best & Worst Of 2015! — speakers: Least Annoyed, James Clement, Nick Mason
+- 2015-12-21 — 115 Star Wars: The Force Awakens, Success Or Rehash? — speakers: James Clement, Nick Mason
+- 2015-12-14 — 114 Star Wars The Force Awakens Predictions, X-Men: Apocalypse & Ninja Turtles 2 — speakers: Kylo Ren, Luke Skywalker, James Clement, Nick Mason
+- 2015-12-07 — 113 Batman V Superman Trailer Ruins Everything — speakers: James Clement, Nick Mason
+- 2015-11-30 — 112 Civil War Trailer (& differences from the comic) — speakers: Tom Cruise, James Clement, Nick Mason
+- 2015-11-23 — 111 Jessica Jones, best Marvel property yet? — speakers: Jessica Jones, Peter Jackson, Wonder Woman, James Clement, Nick Mason
+- 2015-11-16 — 110 Spectre (Is Balls) — speakers: Suicide Squad, James Clement, Nick Mason
+- 2015-11-09 — 109 Best/Worst CGI Characters, Warcraft & Star Wars! — speakers: Star Wars, Doctor Strange, James Clement, Nick Mason
+- 2015-11-02 — 108 Best Horror Movie Icons — speakers: Suicide Squad, James Clement, Nick Mason
+- 2015-10-26 — 107 Star Wars The Force Awakens Final Trailer — speakers: Jessica Jones, Wonder Woman, James Clement, Nick Mason
+- 2015-10-19 — 106 Hulk Joins Thor: Ragnarok & Back To The Future! — speakers: Vin Diesel, Battle Angel Alita, James Clement, Nick Mason
+- 2015-10-12 — 105 Flash & Arrow Premieres (Plus Gotham's Joker Twist) — speakers: Joker Twist, Lex Luthor, Boba Fett, James Clement, Nick Mason
+- 2015-10-05 — 104 The Martian — speakers: Matt Damon, Ridley Scott, Robin Hood, James Clement, Nick Mason
+- 2015-09-28 — 103 Best Sci-Fi Films — speakers: Best Sci-Fi Films, Darth Vader, James Clement, Nick Mason
+- 2015-09-21 — 102 James Bond - The Craig Years — speakers: Bill Finger, James Clement, Nick Mason
+- 2015-09-14 — 101 Defunct Comic Book Universes — speakers: Matt Damon, James Clement, Nick Mason
+- 2015-09-07 — 100! Star. Wars. Prequels — speakers: James Clement, Nick Mason
+- 2015-08-31 — 99 Superhero Showdown Returns! — speakers: Showdown Returns, James Clement, Nick Mason
+- 2015-08-24 — 98 Best & Worst Video Game Movies — speakers: Michael Shannon, Victor Frankenstien, James Clement, Nick Mason
+- 2015-08-17 — 97 Civil War, Star Wars & The Man From U.N.C.L.E — speakers: James Clement, Nick Mason
+- 2015-08-10 — 96 Fantastic Four & Deadpool Trailer — speakers: James Clement, Nick Mason
+- 2015-08-03 — 95 Mission: Impossible Rogue Nation (The Roguiest One Yet?) — speakers: Impossible Rogue Nation, Star Wars, James Clement, Nick Mason
+- 2015-07-27 — 94 Best & Worst Mission Impossible Films — speakers: Worst Mission Impossible Films, Mission Impossible, Rogue Nation, Fantastic Four, James Clement, Nick Mason
+- 2015-07-20 — 93 Ant-Man! And Suicide Squad — speakers: Suicide Squad, James Clement, Nick Mason
+- 2015-07-13 — 92 Comic Con! Batman V Superman, Deadpool, Warcraft — speakers: Comic Con, Suicide Squad, James Clement, Nick Mason
+- 2015-07-05 — 91 Terminator: Genisys (with Nicholas J Johnson) — speakers: James Clement, Nick Mason
+- 2015-06-29 — 90 New Spider-man, Terminator & Arkham Knight — speakers: Arkham Knight, James Clement, Nick Mason
+- 2015-06-22 — 89 Game Of Thrones & E3 — speakers: James Clement, Nick Mason
+- 2015-06-15 — 88 Jurassic World & The New Punisher — speakers: Comic Con, James Clement, Nick Mason
+- 2015-06-08 — 87 Entourage, Spy & Obi Wan The Movie — speakers: James Clement, Nick Mason
+- 2015-06-01 — 86 San Andreas & Tomorrowland — speakers: Suicide Squad, Wonder Woman, James Clement, Nick Mason
+- 2015-05-25 — 85 The Flash, Arrow, S.H.I.E.L.D & Gotham Finales — speakers: James Clement, Nick Mason
+- 2015-05-18 — 84 Mad Max: Fury Road — speakers: Johnny Depps, James Clement, Nick Mason
+- 2015-05-11 — 83 Everything Mad Max, Civil War & Suicide Squad — speakers: Suicide Squad, Boba Fett, James Clement, Nick Mason
+- 2015-05-04 — 82 Avengers: Age Of Ultron! — speakers: Star Wars, Suicide Squad, James Clement, Nick Mason
+- 2015-04-27 — 81 Star Wars Original Trilogy & The New Joker — speakers: James Clement, Nick Mason
+- 2015-04-20 — 80 Trailers! Batman v Superman, Force Awakens, the rest — speakers: Force Awakens, James Clement, Nick Mason
+- 2015-04-13 — 79 Daredevil! Netflix! — speakers: James Clement, Nick Mason
+- 2015-04-06 — 78 Furious 7 & Deadpool's R Rating — speakers: James Clement, Nick Mason
+- 2015-03-30 — 77 Best Movie Spies — speakers: Lex Luthor, James Clement, Nick Mason
+- 2015-03-23 — 76 Best Spider-man Stories — speakers: Best Spider, Stories Not, Justice League, Civil War, Weekly Pl, James Clement, Nick Mason
+- 2015-03-16 — 75 Star Wars: Rogue One & Chappie — speakers: Comic Con, James Clement, Nick Mason
+- 2015-03-09 — 74 Best Comic Book Weapons — speakers: James Clement, Nick Mason
+- 2015-03-02 — 73 Best Comic Book Trilogies — speakers: Best Comic Book Trilogies, Power Rangers, James Clement, Nick Mason
+- 2015-02-23 — 72 Everything Aquaman! — speakers: Everything Aquaman, Wonder Woman, James Clement, Nick Mason
+- 2015-02-16 — 71 Spider-man Back At Marvel & Kingsman — speakers: James Clement, Nick Mason
+- 2015-02-09 — 70 Daredevil, DC Reboot & Mark Millar — speakers: Green Lantern, Mark Millar, James Clement, Nick Mason
+- 2015-02-02 — 69 Fantastic Four Is...Something? — speakers: James Clement, Nick Mason
+- 2015-01-27 — 68 Most Exciting Movies Of 2015 — speakers: Star Wars, James Clement, Nick Mason
+- 2015-01-20 — 67 Super Villain Showdown! — speakers: Super Villain Showdown, Men Apocalypse, Captain America, James Clement, Nick Mason
+- 2015-01-12 — 66 Ant-man & Agent Carter — speakers: James Clement, Nick Mason
+- 2015-01-05 — Minisode - The Hobbit 3 (Is Terrible) — speakers: Middle Earth, James Clement, Nick Mason
+- 2014-12-29 — 65 Best & Worst Films Of 2014 — speakers: Star Wars, Star Trek, Doctor Who, James Clement, Nick Mason
+- 2014-12-22 — 64 Best Christmas Everything Or Whatever — speakers: James Clement, Nick Mason
+- 2014-12-15 — 63 Spider-man & Sony Hack & Mid-Season Wrap Up — speakers: Mad Max, James Clement, Nick Mason
+- 2014-12-08 — 62 The Lord Of The Rings Trilogy & Suicide Squad — speakers: Peter Jackson, Wonder Woman, James Clement, Nick Mason
+- 2014-12-01 — 61 Star Wars: The Force Awakens, Jurassic World & Gotham — speakers: Blade Runner, Wonder Woman, James Clement, Nick Mason
+- 2014-11-23 — 60 The Hunger Games Mockingjay Pt 1 & Doctor Who — speakers: James Clement, Nick Mason
+- 2014-11-17 — 59 Best/Worst Comic Book Video Games — speakers: Worst Comic Book Video, Games Comic, Wonder Woman, Captain America, Civil War, Infinity Wa, James Clement, Nick Mason
+- 2014-11-10 — 58 Interstellar (Amazing Or Overrated?) — speakers: Harley Quin, James Clement, Nick Mason
+- 2014-11-03 — 57 Marvel's New Line-Up & The Films Of Christopher Nolan — speakers: New Line, Nolan Big, James Clement, Nick Mason
+- 2014-10-27 — 56 Age Of Ultron Plus Best/Worst Trailers Of All Time (& the thing about lightsaber fights) — speakers: Plus Wonder Woman, Suicide Squad, James Clement, Nick Mason
+- 2014-10-20 — 55 Civil War, DC's Film Line-up & SUPERHERO SHOWDOWN! — speakers: Film Line-up Superhero, James Clement, Nick Mason
+- 2014-10-13 — 54 Arrow, The Flash & Dracula Untold — speakers: Universals Dracula Untold, James Clement, Nick Mason
+- 2014-10-06 — 53 Everything The Flash! — speakers: James Clement, Nick Mason
+- 2014-09-29 — 52 Gotham, Agents Of S.H.I.E.L.D. & Star Wars Rebels — speakers: James Clement, Nick Mason
+- 2014-09-22 — 51 Toonstravaganza! (with Tommy Dassalo) — speakers: Tommy Dassalo, James Clement, Nick Mason
+- 2014-09-15 — Minisode? Minisode. — speakers: James Clement, Nick Mason
+- 2014-09-08 — 50 Best Batman Moments — speakers: James Clement, Nick Mason
+- 2014-09-01 — 49 Movies That Need Reboots — speakers: Doctor Strange, Fantastic Four, Greatest American Hero, James Clement, Nick Mason
+- 2014-08-25 — 48 Best/Worst Cancelled CBM's Part 2 — speakers: James Bond, James Clement, Nick Mason
+- 2014-08-18 — 47 Best/Worst Action Films & The Expendables 3 — speakers: Ben Hur, James Clement, Nick Mason
+- 2014-08-11 — 46 The Infinity Stones & Batman V Captain America — speakers: James Clement, Nick Mason
+- 2014-08-04 — 45 Guardians Of The Friggan Galaxy! — speakers: Marvels Guardians, Mad Max, James Clement, Nick Mason
+- 2014-07-28 — 44 San Diego Comic Con & Hercules! — speakers: Wonder Woman, Brett Ratner, James Clement, Nick Mason
+- 2014-07-21 — 43 The Best & Worst Of Ninja Turtles & Female Thor — speakers: James Clement, Nick Mason
+- 2014-07-14 — 42 Dawn Of The Planet Of The Apes & Andy Serkis Oscar Contender — speakers: Oscar Contender, Brandon Routh, James Clement, Nick Mason
+- 2014-07-07 — 41 Best & Worst Planet Of The Apes Movies — speakers: Kevin Smith, James Clement, Nick Mason
+- 2014-06-30 — 40 Transformers: Age Of Extinction — speakers: Michael Bay, James Clement, Nick Mason
+- 2014-06-23 — 39 Transformers Movies - Best & Worst — speakers: Matt Damon, James Clement, Nick Mason
+- 2014-06-16 — 38 Everything Doctor Strange & Grumpy Old Gramps Harrison Ford — speakers: Gramps Harrison Ford, Harrison Ford, James Clement, Nick Mason
+- 2014-06-09 — 37 Edge Of Tomorrow (& Tom Cruise Runs Like A Muppet) — speakers: Tom Cruise, Plus Ant-man, James Clement, Nick Mason
+- 2014-06-02 — 36 Star Wars Spin-Off's We Want To See — speakers: James Clement, Nick Mason
+- 2014-05-26 — 35 X-Men: Days Of Future Past is... — speakers: James Clement, Nick Mason
+- 2014-05-19 — 34 Godzilla, The Batsuit + Best & Worse X-Men Movies Continued — speakers: James Clement, Nick Mason
+- 2014-05-12 — 33 Best & Worst X-Men Films — speakers: James Clement, Nick Mason
+- 2014-05-05 — 32 The Amazing Spider-man 2 is... — speakers: Terminator Genesis, James Clement, Nick Mason
+- 2014-04-28 — 31 Best/Worst Cancelled CBM's Part 1 — speakers: VS Superman, James Clement, Nick Mason
+- 2014-04-21 — 30 Best & Worst Spider-man Films — speakers: VS Superman, Sam Raimi Spider-man, James Clement, Nick Mason
+- 2014-04-14 — 29 Marvel Movies We Want To See — speakers: James Clement, Nick Mason
+- 2014-04-06 — 28 Captain America: The Winter Soldier - Best Or Worst Movie Ever — speakers: Ninja Turtle, James Clement, Nick Mason
+- 2014-03-31 — 27 The (Terrible) History of Captain America In Film — speakers: James Clement, Nick Mason
+- 2014-03-24 — 26 Most Anticipated Summer Movies Of 2014 — speakers: VS Superman, James Clement, Nick Mason
+- 2014-03-17 — 25 Worst CBM Costumes & Batman VS Superman VS Captain America — speakers: VS Superman, James Clement, Nick Mason
+- 2014-03-10 — 24 Batman Arkham Knight, 300: Rise Of An Empire & Transformers 4 — speakers: Arkham Knight, James Clement, Nick Mason
+- 2014-03-03 — 23 Spider-man In The Avengers, A New Matrix Trilogy & 300! — speakers: VS Superman, James Clement, Nick Mason
+- 2014-02-24 — 22 Everything Guardians Of The Galaxy — speakers: Galaxy Things, James Clement, Nick Mason
+- 2014-02-17 — 21 Gotham TV Series & Robocop 2014 — speakers: VS Superman, James Clement, Nick Mason
+- 2014-02-10 — 20 The Best DC Animated Movies — speakers: James Clement, Nick Mason
+- 2014-02-03 — 19 Eisenberg/Luthor & History Of Robocop — speakers: Jesse Eisenberg, Lex Luthor, James Clement, Nick Mason
+- 2014-01-27 — 18 Comic Book Movies Stuck In Development Hell — speakers: Wonder Woman, Killer Crow, James Clement, Nick Mason
+- 2014-01-21 — 17 History Of Ant-Man — speakers: Boba Fett, James Clement, Nick Mason
+- 2014-01-13 — 16 Star Wars, Batman VS Superman & Superhero Movies Not Based On Comics — speakers: VS Superman, James Clement, Nick Mason
+- 2014-01-07 — 15 Kryptonian Wonder Woman, The Rock As Green Lantern & Most Anticipated Films! — speakers: Michael Bay, James Clement, Nick Mason
+- 2013-12-30 — 14 Best And Worst Movies Of 2013 — speakers: James Clement, Nick Mason
+- 2013-12-23 — 13 Best And Worst Comic Book Movie Casting — speakers: Paul Rudd, Jaoquin Pheonix, Lex Luthor, James Clement, Nick Mason
+- 2013-12-16 — 12 Dumbest Moments In Comic Book Movies, Godzilla & More! — speakers: James Clement, Nick Mason
+- 2013-12-09 — 11 The Weird History Of Spider-man In Film — speakers: Gal Gadot, Wonder Woman, James Clement, Nick Mason
+- 2013-12-03 — 10 Terrible/Bizarre/Better Alternate Endings To Popular Comic Book Movies — speakers: Popular Comic Book Movies, Iron Man, James Clement, Nick Mason
+- 2013-11-26 — 9 The Hunger Games: Catching Fire & Doctor Who: The Day Of The Doctor — speakers: Catching Fire, Doctor Who, James Clement, Nick Mason
+- 2013-11-19 — 8 Best & Worst CBM's Of 2013 — speakers: Iron Man, James Clement, Nick Mason
+- 2013-11-12 — 7 Why Everyone Hates Agents Of S.H.I.E.L.D. & Batman VS Superman News — speakers: Why Everyone Hates Agents, Superman Nightwing, Wonder Woman, Netflix Announce, James Clement, Nick Mason
+- 2013-11-05 — 6 Thor: The Dark World (Any Good?) — speakers: Any Good, James Clement, Nick Mason
+- 2013-10-29 — 5 Batman Arkham Orgins - Yay Or Nay? — speakers: Arkham Orgins Yay, Arkham Origins, Harrison Fords, James Clement, Nick Mason
+- 2013-10-22 — 4 Best & Worst Marvel Movies — speakers: Captain America, James Clement, Nick Mason
+- 2013-10-15 — 3 Superman VS. Batman - Facts, Rumours, Speculation, Nonsense — speakers: James Clement, Nick Mason
+- 2013-10-08 — 2 Best & Worst Comic To TV Adaptations - Plus Agents Of S.H.I.E.L.D. Discussion — speakers: Comic Book, James Clement, Nick Mason
+- 2013-09-30 — 1 Underrated Comic Book Movies — speakers: Underrated Comic Book Movies, Mr Sunday, James Clement, Nick Mason
