@@ -2,10 +2,10 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- last_modified: `Mon, 16 Feb 2026 07:30:00 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T19:06:07+00:00`
+- checked_at: `2026-02-20T19:06:07+00:00`
+- last_modified: `Fri, 20 Feb 2026 17:14:34 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,11 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-20T19:06:07+00:00",
+  "owners": [
+    "Luke Westaway",
+    "Andy Farrant"
+  ],
   "common_speakers": [],
   "categories": [
     "comedy"
@@ -35,7 +38,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115668950",
       "itunes_duration": "02:00:29",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "cheetah",
         "girl",
@@ -55,7 +61,9 @@
       "itunes_duration": "01:59:03",
       "speakers": [
         "Erik von Detten",
-        "Sam Horrigan"
+        "Sam Horrigan",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "witch",
@@ -76,7 +84,9 @@
       "speakers": [
         "Mouse Hunt",
         "Kevin McCallister",
-        "Lars Smuntz"
+        "Lars Smuntz",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "mouse",
@@ -97,7 +107,9 @@
       "speakers": [
         "Mouse Hunt",
         "Marshall Teller",
-        "Betty Wilson"
+        "Betty Wilson",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "extra",
@@ -122,7 +134,9 @@
       "itunes_duration": "02:29:20",
       "speakers": [
         "Emily Melrose",
-        "Lacey Chabert"
+        "Lacey Chabert",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "holly"
@@ -140,7 +154,9 @@
       "enclosure_length": "122701113",
       "itunes_duration": "02:07:48",
       "speakers": [
-        "Kevin Jonas"
+        "Kevin Jonas",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "jonas",
@@ -160,7 +176,9 @@
       "enclosure_length": "117612460",
       "itunes_duration": "02:02:30",
       "speakers": [
-        "Les Camembert"
+        "Les Camembert",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "teen",
@@ -181,7 +199,9 @@
       "itunes_duration": "01:55:03",
       "speakers": [
         "John Blackhorse",
-        "Buffalo Dreams"
+        "Buffalo Dreams",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "buffalo",
@@ -199,7 +219,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133481534",
       "itunes_duration": "02:19:02",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "halloween"
       ]
@@ -215,7 +238,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144852532",
       "itunes_duration": "02:30:53",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "girl",
         "monster"
@@ -234,7 +260,9 @@
       "itunes_duration": "02:22:17",
       "speakers": [
         "Hatching Pete",
-        "Mitchell Musso"
+        "Mitchell Musso",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "pete"
@@ -254,7 +282,9 @@
       "speakers": [
         "John Scaduto",
         "Vernon Baxter",
-        "Hatching Pete"
+        "Hatching Pete",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "principal",
@@ -277,7 +307,9 @@
         "Mrs Doubtfire-esque",
         "Mrs Zamboni",
         "Money Plane",
-        "Shesaperfectden Mother"
+        "Shesaperfectden Mother",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "brother"
@@ -300,7 +332,9 @@
         "Jack Reese",
         "Darius Emmanuel Grouch Iii",
         "Yosemite Sam",
-        "Daily Greens"
+        "Daily Greens",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "money",
@@ -319,7 +353,9 @@
       "enclosure_length": "142621884",
       "itunes_duration": "02:28:33",
       "speakers": [
-        "Aka Albert"
+        "Aka Albert",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -335,7 +371,9 @@
       "enclosure_length": "133599399",
       "itunes_duration": "02:19:09",
       "speakers": [
-        "Christopher Wilde"
+        "Christopher Wilde",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "starstruck"
@@ -355,7 +393,9 @@
       "speakers": [
         "Amy-Jo Johnson",
         "Justin Whalin",
-        "Daily Greens"
+        "Daily Greens",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "susie"
@@ -376,7 +416,9 @@
         "Neal Morris",
         "Will Melissa",
         "Zoome Con",
-        "Daily Greens"
+        "Daily Greens",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "dadnapped"
@@ -395,7 +437,9 @@
       "itunes_duration": "02:05:16",
       "speakers": [
         "Max Keeble",
-        "Tony Hawk"
+        "Tony Hawk",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "keeble"
@@ -417,7 +461,9 @@
         "Robert Oppenheimer",
         "King Arthur",
         "Vivian Morgan",
-        "Max Keeble"
+        "Max Keeble",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "knight",
@@ -435,7 +481,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "149759373",
       "itunes_duration": "02:35:59",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "cheetah",
         "girl"
@@ -452,7 +501,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65778834",
       "itunes_duration": "01:08:31",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "extra",
         "helpings",
@@ -473,7 +525,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150961423",
       "itunes_duration": "02:37:15",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "minuteman"
       ]
@@ -491,7 +546,9 @@
       "itunes_duration": "02:25:23",
       "speakers": [
         "Double Teamed",
-        "Heidi Burge"
+        "Heidi Burge",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "double",
@@ -512,7 +569,9 @@
       "speakers": [
         "Demi Lovato",
         "Selena Gomez",
-        "Double Teamed"
+        "Double Teamed",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "princess",
@@ -536,7 +595,9 @@
         "Mitchie Torres",
         "Demi Lovato",
         "Jonas Brother",
-        "Will Mitchie"
+        "Will Mitchie",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "camp",
@@ -555,7 +616,9 @@
       "enclosure_length": "128157988",
       "itunes_duration": "02:13:29",
       "speakers": [
-        "Marigold Ballard"
+        "Marigold Ballard",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "poof",
@@ -575,7 +638,9 @@
       "itunes_duration": "02:22:21",
       "speakers": [
         "Lindsay Lohan",
-        "Will Casey"
+        "Will Casey",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "life",
@@ -594,7 +659,9 @@
       "enclosure_length": "129642579",
       "itunes_duration": "02:15:02",
       "speakers": [
-        "Jamie Bartlett"
+        "Jamie Bartlett",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -611,7 +678,9 @@
       "itunes_duration": "02:31:42",
       "speakers": [
         "Sharpay Evans",
-        "Will Troy"
+        "Will Troy",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "high",
@@ -631,7 +700,9 @@
       "enclosure_length": "63471699",
       "itunes_duration": "01:06:06",
       "speakers": [
-        "Tad Raxall"
+        "Tad Raxall",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "extra",
@@ -655,7 +726,9 @@
       "itunes_duration": "02:12:28",
       "speakers": [
         "Melissa Joan Hart",
-        "Mario Lopez"
+        "Mario Lopez",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "holiday",
@@ -673,7 +746,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124859454",
       "itunes_duration": "02:10:03",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "frosty"
       ]
@@ -694,7 +770,9 @@
         "Matthew Lawrence",
         "Dave Heinrich",
         "Will Dave",
-        "Will Griffelkin"
+        "Will Griffelkin",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "double",
@@ -715,7 +793,9 @@
       "itunes_duration": "02:11:23",
       "speakers": [
         "Marnie Cromwell",
-        "Best Person"
+        "Best Person",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "halloweentown",
@@ -737,7 +817,9 @@
         "Eddie Murphy",
         "Jim Evers",
         "Gracey Manor",
-        "Will Eddie Murphy"
+        "Will Eddie Murphy",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "haunted",
@@ -756,7 +838,9 @@
       "enclosure_length": "123750609",
       "itunes_duration": "02:08:54",
       "speakers": [
-        "Tamera Mowry"
+        "Tamera Mowry",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "twitch"
@@ -774,7 +858,9 @@
       "enclosure_length": "125721704",
       "itunes_duration": "02:10:57",
       "speakers": [
-        "Joy Jumpers"
+        "Joy Jumpers",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -791,7 +877,9 @@
       "itunes_duration": "02:24:56",
       "speakers": [
         "Jett Jackson",
-        "Michael Ironside"
+        "Michael Ironside",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "jett",
@@ -810,7 +898,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143061159",
       "itunes_duration": "02:29:01",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "zenon"
       ]
@@ -827,7 +918,9 @@
       "enclosure_length": "149133270",
       "itunes_duration": "02:35:20",
       "speakers": [
-        "Jackal Johnson"
+        "Jackal Johnson",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "cheetah",
@@ -847,7 +940,9 @@
       "itunes_duration": "02:12:58",
       "speakers": [
         "Calvin Wheeler",
-        "Gotham Man"
+        "Gotham Man",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "life",
@@ -871,7 +966,9 @@
         "Sydney Miller",
         "Will Sydney",
         "Girl Pop",
-        "Tyler Van Den Berg"
+        "Tyler Van Den Berg",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "girl"
@@ -890,7 +987,9 @@
       "itunes_duration": "02:37:42",
       "speakers": [
         "Zac Efron",
-        "Vanessa Hudgens"
+        "Vanessa Hudgens",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "high",
@@ -913,7 +1012,9 @@
         "Stevens Movie",
         "Stevens Bit",
         "Louis Stevens",
-        "Alan Twitty"
+        "Alan Twitty",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "stevens",
@@ -933,7 +1034,9 @@
       "itunes_duration": "02:12:15",
       "speakers": [
         "Duncan Fletcher",
-        "Wesley Snipes"
+        "Wesley Snipes",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "date",
@@ -954,7 +1057,9 @@
       "itunes_duration": "02:15:30",
       "speakers": [
         "Katelin Kingsford",
-        "Will Katelin"
+        "Will Katelin",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "figure"
@@ -972,7 +1077,9 @@
       "enclosure_length": "140924551",
       "itunes_duration": "02:26:47",
       "speakers": [
-        "Loretta Modern"
+        "Loretta Modern",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "pixel"
@@ -990,7 +1097,9 @@
       "enclosure_length": "124681404",
       "itunes_duration": "02:09:52",
       "speakers": [
-        "Zachariah Kull"
+        "Zachariah Kull",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "scream",
@@ -1012,7 +1121,9 @@
         "Justin Yoder",
         "Frankie Muniz",
         "Patrick Levis",
-        "Old Man Vic"
+        "Old Man Vic",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "miracle",
@@ -1032,7 +1143,9 @@
       "itunes_duration": "02:02:58",
       "speakers": [
         "Johnny Kapahala",
-        "Johnny Tsunami"
+        "Johnny Tsunami",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "johnny",
@@ -1052,7 +1165,9 @@
       "enclosure_length": "125921071",
       "itunes_duration": "02:11:10",
       "speakers": [
-        "Will Jennie"
+        "Will Jennie",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "jennie",
@@ -1071,7 +1186,9 @@
       "enclosure_length": "132229329",
       "itunes_duration": "02:17:44",
       "speakers": [
-        "Jace Newfield"
+        "Jace Newfield",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -1088,7 +1205,9 @@
       "itunes_duration": "02:11:10",
       "speakers": [
         "Mike Pillsbury",
-        "Will Mike"
+        "Will Mike",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "worm"
@@ -1108,7 +1227,9 @@
       "speakers": [
         "Eddie Ogden",
         "Will Eddie",
-        "Iron Chef Bobby Flay"
+        "Iron Chef Bobby Flay",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "eddie",
@@ -1131,7 +1252,9 @@
         "Wendy Wu",
         "Brenda Song",
         "Yan Lo",
-        "Will Wendy"
+        "Will Wendy",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "wendy",
@@ -1151,7 +1274,9 @@
       "itunes_duration": "02:33:58",
       "speakers": [
         "Melissa Joan Hart",
-        "Kate Holiday"
+        "Kate Holiday",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "nutty",
@@ -1169,7 +1294,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108987454",
       "itunes_duration": "01:53:31",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "ultimate",
         "christmas",
@@ -1188,7 +1316,9 @@
       "enclosure_length": "121104509",
       "itunes_duration": "02:06:09",
       "speakers": [
-        "Erica Enders"
+        "Erica Enders",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "track"
@@ -1209,7 +1339,9 @@
         "Steve Guttenberg",
         "Kirsten Dunst",
         "Buzzy Crocker",
-        "Will Buzzy"
+        "Will Buzzy",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "tower",
@@ -1228,7 +1360,9 @@
       "enclosure_length": "105168561",
       "itunes_duration": "01:49:33",
       "speakers": [
-        "Larry Houdini"
+        "Larry Houdini",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -1244,7 +1378,9 @@
       "enclosure_length": "128098220",
       "itunes_duration": "02:13:26",
       "speakers": [
-        "Will Marnie"
+        "Will Marnie",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "halloweentown",
@@ -1266,7 +1402,9 @@
       "speakers": [
         "Pete Riley",
         "Will Pete",
-        "Mickey Rooney"
+        "Mickey Rooney",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "phantom",
@@ -1284,7 +1422,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114861871",
       "itunes_duration": "01:59:38",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "ready"
       ]
@@ -1303,7 +1444,9 @@
       "speakers": [
         "Lindsay Lohan",
         "Steve Guttenberg",
-        "Kirsten Dunst"
+        "Kirsten Dunst",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "clue"
@@ -1323,7 +1466,9 @@
       "speakers": [
         "Zenon Kar",
         "Proto Zoa",
-        "Will Zenon"
+        "Will Zenon",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "zenon",
@@ -1344,7 +1489,9 @@
       "speakers": [
         "Cadet Kelly",
         "Kelly Collins",
-        "Hillary Duff"
+        "Hillary Duff",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "cadet",
@@ -1363,7 +1510,9 @@
       "enclosure_length": "123280404",
       "itunes_duration": "02:08:24",
       "speakers": [
-        "Alley Cats Strike"
+        "Alley Cats Strike",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "alley"
@@ -1381,7 +1530,9 @@
       "enclosure_length": "118191333",
       "itunes_duration": "02:03:06",
       "speakers": [
-        "Jordan Cahill"
+        "Jordan Cahill",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "suburb"
@@ -1400,7 +1551,9 @@
       "itunes_duration": "01:52:08",
       "speakers": [
         "Avengers Endgame",
-        "Horse Sense"
+        "Horse Sense",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "jumping",
@@ -1419,7 +1572,9 @@
       "enclosure_length": "16230191",
       "itunes_duration": "00:16:54",
       "speakers": [
-        "Extra Helpings"
+        "Extra Helpings",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "helping"
@@ -1436,7 +1591,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112741982",
       "itunes_duration": "01:57:26",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "stepsister",
         "planet",
@@ -1457,7 +1615,9 @@
       "speakers": [
         "Sam Simms",
         "Luke Davenport",
-        "Volante Design"
+        "Volante Design",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -1475,7 +1635,9 @@
       "speakers": [
         "Nicole Richie",
         "Courtney Callum",
-        "Cow Belles"
+        "Cow Belles",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "belle"
@@ -1493,7 +1655,9 @@
       "enclosure_length": "105703549",
       "itunes_duration": "01:50:06",
       "speakers": [
-        "Jay Martin"
+        "Jay Martin",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "hounded"
@@ -1512,7 +1676,9 @@
       "itunes_duration": "01:43:08",
       "speakers": [
         "Spencer Breslin",
-        "Vanessa Carlton"
+        "Vanessa Carlton",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -1531,7 +1697,8 @@
         "Luke Westaway",
         "Vicky Austin",
         "Adam Eddington",
-        "Zachary Gray"
+        "Zachary Gray",
+        "Andy Farrant"
       ],
       "topics": [
         "ring",
@@ -1552,7 +1719,9 @@
       "itunes_duration": "01:43:01",
       "speakers": [
         "Jamie Grover",
-        "George Washington"
+        "George Washington",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "quint"
@@ -1570,7 +1739,9 @@
       "enclosure_length": "87586272",
       "itunes_duration": "01:31:14",
       "speakers": [
-        "Kyle Johnson"
+        "Kyle Johnson",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "luck"
@@ -1589,7 +1760,9 @@
       "itunes_duration": "01:33:43",
       "speakers": [
         "Will Browning",
-        "Andrew Lawrence"
+        "Andrew Lawrence",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "other"
@@ -1608,7 +1781,9 @@
       "itunes_duration": "01:38:55",
       "speakers": [
         "Scott Marshall",
-        "Bronze Eagle"
+        "Bronze Eagle",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -1625,7 +1800,9 @@
       "itunes_duration": "01:22:59",
       "speakers": [
         "Charlie Boyle",
-        "Chaz Anthony"
+        "Chaz Anthony",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "genius"
@@ -1642,7 +1819,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75348845",
       "itunes_duration": "01:18:29",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "brink"
       ]
@@ -1662,7 +1842,9 @@
         "Breaking Bad",
         "Bryan Cranston",
         "Nick Wrigley",
-        "Will Danny"
+        "Will Danny",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "night"
@@ -1682,7 +1864,9 @@
       "speakers": [
         "Andi Carson",
         "Andy Carson",
-        "Dean Talon"
+        "Dean Talon",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "motocrossed"
@@ -1700,7 +1884,9 @@
       "enclosure_length": "84951875",
       "itunes_duration": "01:28:29",
       "speakers": [
-        "Mystic Max"
+        "Mystic Max",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": []
     },
@@ -1717,7 +1903,9 @@
       "itunes_duration": "02:05:53",
       "speakers": [
         "Malachi Van Helsing",
-        "Loading Bar"
+        "Loading Bar",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "date",
@@ -1736,7 +1924,9 @@
       "enclosure_length": "64323918",
       "itunes_duration": "01:07:00",
       "speakers": [
-        "Cornbread Hemp"
+        "Cornbread Hemp",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "wraps"
@@ -1754,7 +1944,9 @@
       "enclosure_length": "66496888",
       "itunes_duration": "01:09:16",
       "speakers": [
-        "Will Marnie"
+        "Will Marnie",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "halloweentown"
@@ -1773,7 +1965,9 @@
       "itunes_duration": "01:06:20",
       "speakers": [
         "Zenon Kar",
-        "Proto Zoa"
+        "Proto Zoa",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "zenon",
@@ -1792,7 +1986,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "4577071",
       "itunes_duration": "00:04:46",
-      "speakers": [],
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
       "topics": [
         "announcement",
         "pinocchio"
@@ -1811,7 +2008,9 @@
       "itunes_duration": "01:04:16",
       "speakers": [
         "Johnny Tsunami Prepare",
-        "Johnny Tsunami"
+        "Johnny Tsunami",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "johnny",
@@ -1831,7 +2030,9 @@
       "itunes_duration": "01:09:43",
       "speakers": [
         "Cody Griffin",
-        "Will Cody"
+        "Will Cody",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "thirteenth",
@@ -1852,7 +2053,9 @@
       "speakers": [
         "Will Michael",
         "Kevin Costner",
-        "Horse Sense"
+        "Horse Sense",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "horse",
@@ -1871,7 +2074,9 @@
       "enclosure_length": "57645348",
       "itunes_duration": "01:00:02",
       "speakers": [
-        "Daniel Craig"
+        "Daniel Craig",
+        "Luke Westaway",
+        "Andy Farrant"
       ],
       "topics": [
         "lucky"
@@ -1904,99 +2109,99 @@
 
 ## Episodes (newest first)
 
-- 2026-02-16 — The Cheetah Girls: One World
-- 2026-02-02 — Escape to Witch Mountain — speakers: Erik von Detten, Sam Horrigan
-- 2026-01-19 — Mouse Hunt — speakers: Mouse Hunt, Kevin McCallister, Lars Smuntz
-- 2026-01-05 — Extra Helpings Feed Drop: Eerie, Indiana S1 E1 - ForeverWare — speakers: Mouse Hunt, Marshall Teller, Betty Wilson
-- 2025-12-22 — Haul Out the Holly — speakers: Emily Melrose, Lacey Chabert
-- 2025-12-08 — A Very Jonas Christmas Movie — speakers: Kevin Jonas
-- 2025-11-24 — Teen Beach Movie — speakers: Les Camembert
-- 2025-11-10 — Buffalo Dreams — speakers: John Blackhorse, Buffalo Dreams
-- 2025-10-27 — Haul Out the Halloween
-- 2025-10-13 — Girl vs. Monster
-- 2025-09-29 — Hatching Pete — speakers: Hatching Pete, Mitchell Musso
-- 2025-09-15 — Principal Takes a Holiday — speakers: John Scaduto, Vernon Baxter, Hatching Pete
-- 2025-09-01 — Den Brother — speakers: Alex Pearson, Mrs Doubtfire-esque, Mrs Zamboni, Money Plane, Shesaperfectden Mother
-- 2025-08-18 — Money Plane — speakers: Horse Sense, Money Plane, Jack Reese, Darius Emmanuel Grouch Iii, Yosemite Sam, Daily Greens
-- 2025-08-04 — How to Build a Better Boy — speakers: Aka Albert
-- 2025-07-21 — Starstruck — speakers: Christopher Wilde
-- 2025-07-07 — Susie Q — speakers: Amy-Jo Johnson, Justin Whalin, Daily Greens
-- 2025-06-23 — Dadnapped — speakers: Neal Morris, Will Melissa, Zoome Con, Daily Greens
-- 2025-06-09 — Max Keeble's Big Move — speakers: Max Keeble, Tony Hawk
-- 2025-05-26 — A Knight in Camelot — speakers: Marie Curie, Robert Oppenheimer, King Arthur, Vivian Morgan, Max Keeble
-- 2025-05-12 — The Cheetah Girls 2
-- 2025-05-05 — Extra Helpings Feed Drop: So Weird S3 E06 - Banglebye
-- 2025-04-28 — Minutemen
-- 2025-04-14 — Double Teamed — speakers: Double Teamed, Heidi Burge
-- 2025-03-31 — Princess Protection Program — speakers: Demi Lovato, Selena Gomez, Double Teamed
-- 2025-03-17 — Camp Rock — speakers: Joe Jonas, Mitchie Torres, Demi Lovato, Jonas Brother, Will Mitchie
-- 2025-03-03 — The Poof Point — speakers: Marigold Ballard
-- 2025-02-17 — Life-Size — speakers: Lindsay Lohan, Will Casey
-- 2025-02-03 — Read It and Weep — speakers: Jamie Bartlett
-- 2025-01-20 — High School Musical 2 — speakers: Sharpay Evans, Will Troy
-- 2025-01-06 — Extra Helpings Feed Drop: So Weird S2 E10 - Oopa — speakers: Tad Raxall
-- 2024-12-23 — Holiday in Handcuffs — speakers: Melissa Joan Hart, Mario Lopez
-- 2024-12-09 — Hot Frosty
-- 2024-11-25 — H-E Double Hockey Sticks — speakers: Will Friedel, Matthew Lawrence, Dave Heinrich, Will Dave, Will Griffelkin
-- 2024-11-11 — Halloweentown High — speakers: Marnie Cromwell, Best Person
-- 2024-10-28 — The Haunted Mansion — speakers: Eddie Murphy, Jim Evers, Gracey Manor, Will Eddie Murphy
-- 2024-10-14 — Twitches — speakers: Tamera Mowry
-- 2024-09-30 — Jump In! — speakers: Joy Jumpers
-- 2024-09-16 — Jett Jackson: The Movie — speakers: Jett Jackson, Michael Ironside
-- 2024-09-02 — Zenon: Z3
-- 2024-08-19 — The Cheetah Girls — speakers: Jackal Johnson
-- 2024-08-05 — Life is Ruff — speakers: Calvin Wheeler, Gotham Man
-- 2024-07-22 — Rip Girls — speakers: Rip Girls, Johnny Tsunami, Sydney Miller, Will Sydney, Girl Pop, Tyler Van Den Berg
-- 2024-07-08 — High School Musical — speakers: Zac Efron, Vanessa Hudgens
-- 2024-06-24 — The Even Stevens Movie — speakers: Stevens Movie, Stevens Bit, Louis Stevens, Alan Twitty
-- 2024-06-10 — My Date with the President's Daughter — speakers: Duncan Fletcher, Wesley Snipes
-- 2024-05-27 — Go Figure — speakers: Katelin Kingsford, Will Katelin
-- 2024-05-13 — Pixel Perfect — speakers: Loretta Modern
-- 2024-04-29 — The Scream Team — speakers: Zachariah Kull
-- 2024-04-15 — Miracle in Lane 2 — speakers: Justin Yoder, Frankie Muniz, Patrick Levis, Old Man Vic
-- 2024-04-01 — Johnny Kapahala: Back on Board — speakers: Johnny Kapahala, Johnny Tsunami
-- 2024-03-18 — The Jennie Project — speakers: Will Jennie
-- 2024-03-04 — Going to the Mat — speakers: Jace Newfield
-- 2024-02-19 — Can of Worms — speakers: Mike Pillsbury, Will Mike
-- 2024-02-05 — Eddie's Million Dollar Cook-Off — speakers: Eddie Ogden, Will Eddie, Iron Chef Bobby Flay
-- 2024-01-22 — Wendy Wu: Homecoming Warrior — speakers: Wendy Wu, Brenda Song, Yan Lo, Will Wendy
-- 2023-12-25 — A Very Nutty Christmas — speakers: Melissa Joan Hart, Kate Holiday
-- 2023-12-11 — The Ultimate Christmas Present
-- 2023-11-27 — Right on Track — speakers: Erica Enders
-- 2023-11-13 — Tower of Terror — speakers: Steve Guttenberg, Kirsten Dunst, Buzzy Crocker, Will Buzzy
-- 2023-10-30 — Don't Look Under the Bed — speakers: Larry Houdini
-- 2023-10-16 — Halloweentown II: Kalabar's Revenge — speakers: Will Marnie
-- 2023-10-02 — Phantom of the Megaplex — speakers: Pete Riley, Will Pete, Mickey Rooney
-- 2023-09-18 — Ready to Run
-- 2023-09-04 — Get a Clue — speakers: Lindsay Lohan, Steve Guttenberg, Kirsten Dunst
-- 2023-08-21 — Zenon: The Zequel — speakers: Zenon Kar, Proto Zoa, Will Zenon
-- 2023-08-07 — Cadet Kelly — speakers: Cadet Kelly, Kelly Collins, Hillary Duff
-- 2023-07-24 — Alley Cats Strike — speakers: Alley Cats Strike
-- 2023-07-10 — Stuck in the Suburbs — speakers: Jordan Cahill
-- 2023-06-26 — Jumping Ship — speakers: Avengers Endgame, Horse Sense
-- 2023-06-19 — Introducing Mom Can't Cook! Extra Helpings — speakers: Extra Helpings
-- 2023-06-12 — Stepsister From Planet Weird
-- 2023-05-28 — First Kid — speakers: Sam Simms, Luke Davenport, Volante Design
-- 2023-05-15 — Cow Belles — speakers: Nicole Richie, Courtney Callum, Cow Belles
-- 2023-05-01 — Hounded — speakers: Jay Martin
-- 2023-04-17 — You Wish! — speakers: Spencer Breslin, Vanessa Carlton
-- 2023-04-03 — A Ring of Endless Light — speakers: Luke Westaway, Vicky Austin, Adam Eddington, Zachary Gray
-- 2023-03-20 — Quints — speakers: Jamie Grover, George Washington
-- 2023-03-05 — The Luck of the Irish — speakers: Kyle Johnson
-- 2023-02-20 — The Other Me — speakers: Will Browning, Andrew Lawrence
-- 2023-02-06 — Up, Up and Away — speakers: Scott Marshall, Bronze Eagle
-- 2023-01-23 — Genius — speakers: Charlie Boyle, Chaz Anthony
-- 2023-01-09 — Brink!
-- 2022-12-19 — 'Twas the Night — speakers: Breaking Bad, Bryan Cranston, Nick Wrigley, Will Danny
-- 2022-12-05 — Motocrossed — speakers: Andi Carson, Andy Carson, Dean Talon
-- 2022-11-21 — Now You See It... — speakers: Mystic Max
-- 2022-11-07 — Mom's Got a Date with a Vampire — speakers: Malachi Van Helsing, Loading Bar
-- 2022-10-24 — Under Wraps — speakers: Cornbread Hemp
-- 2022-10-10 — Halloweentown — speakers: Will Marnie
-- 2022-09-26 — Zenon: Girl of the 21st Century — speakers: Zenon Kar, Proto Zoa
-- 2022-09-20 — LIVE SHOW ANNOUNCEMENT! Also: Dunking on Pinocchio (2022)
-- 2022-09-12 — Johnny Tsunami — speakers: Johnny Tsunami Prepare, Johnny Tsunami
-- 2022-08-29 — The Thirteenth Year — speakers: Cody Griffin, Will Cody
-- 2022-08-15 — Horse Sense — speakers: Will Michael, Kevin Costner, Horse Sense
-- 2022-08-01 — You Lucky Dog — speakers: Daniel Craig
+- 2026-02-16 — The Cheetah Girls: One World — speakers: Luke Westaway, Andy Farrant
+- 2026-02-02 — Escape to Witch Mountain — speakers: Erik von Detten, Sam Horrigan, Luke Westaway, Andy Farrant
+- 2026-01-19 — Mouse Hunt — speakers: Mouse Hunt, Kevin McCallister, Lars Smuntz, Luke Westaway, Andy Farrant
+- 2026-01-05 — Extra Helpings Feed Drop: Eerie, Indiana S1 E1 - ForeverWare — speakers: Mouse Hunt, Marshall Teller, Betty Wilson, Luke Westaway, Andy Farrant
+- 2025-12-22 — Haul Out the Holly — speakers: Emily Melrose, Lacey Chabert, Luke Westaway, Andy Farrant
+- 2025-12-08 — A Very Jonas Christmas Movie — speakers: Kevin Jonas, Luke Westaway, Andy Farrant
+- 2025-11-24 — Teen Beach Movie — speakers: Les Camembert, Luke Westaway, Andy Farrant
+- 2025-11-10 — Buffalo Dreams — speakers: John Blackhorse, Buffalo Dreams, Luke Westaway, Andy Farrant
+- 2025-10-27 — Haul Out the Halloween — speakers: Luke Westaway, Andy Farrant
+- 2025-10-13 — Girl vs. Monster — speakers: Luke Westaway, Andy Farrant
+- 2025-09-29 — Hatching Pete — speakers: Hatching Pete, Mitchell Musso, Luke Westaway, Andy Farrant
+- 2025-09-15 — Principal Takes a Holiday — speakers: John Scaduto, Vernon Baxter, Hatching Pete, Luke Westaway, Andy Farrant
+- 2025-09-01 — Den Brother — speakers: Alex Pearson, Mrs Doubtfire-esque, Mrs Zamboni, Money Plane, Shesaperfectden Mother, Luke Westaway, Andy Farrant
+- 2025-08-18 — Money Plane — speakers: Horse Sense, Money Plane, Jack Reese, Darius Emmanuel Grouch Iii, Yosemite Sam, Daily Greens, Luke Westaway, Andy Farrant
+- 2025-08-04 — How to Build a Better Boy — speakers: Aka Albert, Luke Westaway, Andy Farrant
+- 2025-07-21 — Starstruck — speakers: Christopher Wilde, Luke Westaway, Andy Farrant
+- 2025-07-07 — Susie Q — speakers: Amy-Jo Johnson, Justin Whalin, Daily Greens, Luke Westaway, Andy Farrant
+- 2025-06-23 — Dadnapped — speakers: Neal Morris, Will Melissa, Zoome Con, Daily Greens, Luke Westaway, Andy Farrant
+- 2025-06-09 — Max Keeble's Big Move — speakers: Max Keeble, Tony Hawk, Luke Westaway, Andy Farrant
+- 2025-05-26 — A Knight in Camelot — speakers: Marie Curie, Robert Oppenheimer, King Arthur, Vivian Morgan, Max Keeble, Luke Westaway, Andy Farrant
+- 2025-05-12 — The Cheetah Girls 2 — speakers: Luke Westaway, Andy Farrant
+- 2025-05-05 — Extra Helpings Feed Drop: So Weird S3 E06 - Banglebye — speakers: Luke Westaway, Andy Farrant
+- 2025-04-28 — Minutemen — speakers: Luke Westaway, Andy Farrant
+- 2025-04-14 — Double Teamed — speakers: Double Teamed, Heidi Burge, Luke Westaway, Andy Farrant
+- 2025-03-31 — Princess Protection Program — speakers: Demi Lovato, Selena Gomez, Double Teamed, Luke Westaway, Andy Farrant
+- 2025-03-17 — Camp Rock — speakers: Joe Jonas, Mitchie Torres, Demi Lovato, Jonas Brother, Will Mitchie, Luke Westaway, Andy Farrant
+- 2025-03-03 — The Poof Point — speakers: Marigold Ballard, Luke Westaway, Andy Farrant
+- 2025-02-17 — Life-Size — speakers: Lindsay Lohan, Will Casey, Luke Westaway, Andy Farrant
+- 2025-02-03 — Read It and Weep — speakers: Jamie Bartlett, Luke Westaway, Andy Farrant
+- 2025-01-20 — High School Musical 2 — speakers: Sharpay Evans, Will Troy, Luke Westaway, Andy Farrant
+- 2025-01-06 — Extra Helpings Feed Drop: So Weird S2 E10 - Oopa — speakers: Tad Raxall, Luke Westaway, Andy Farrant
+- 2024-12-23 — Holiday in Handcuffs — speakers: Melissa Joan Hart, Mario Lopez, Luke Westaway, Andy Farrant
+- 2024-12-09 — Hot Frosty — speakers: Luke Westaway, Andy Farrant
+- 2024-11-25 — H-E Double Hockey Sticks — speakers: Will Friedel, Matthew Lawrence, Dave Heinrich, Will Dave, Will Griffelkin, Luke Westaway, Andy Farrant
+- 2024-11-11 — Halloweentown High — speakers: Marnie Cromwell, Best Person, Luke Westaway, Andy Farrant
+- 2024-10-28 — The Haunted Mansion — speakers: Eddie Murphy, Jim Evers, Gracey Manor, Will Eddie Murphy, Luke Westaway, Andy Farrant
+- 2024-10-14 — Twitches — speakers: Tamera Mowry, Luke Westaway, Andy Farrant
+- 2024-09-30 — Jump In! — speakers: Joy Jumpers, Luke Westaway, Andy Farrant
+- 2024-09-16 — Jett Jackson: The Movie — speakers: Jett Jackson, Michael Ironside, Luke Westaway, Andy Farrant
+- 2024-09-02 — Zenon: Z3 — speakers: Luke Westaway, Andy Farrant
+- 2024-08-19 — The Cheetah Girls — speakers: Jackal Johnson, Luke Westaway, Andy Farrant
+- 2024-08-05 — Life is Ruff — speakers: Calvin Wheeler, Gotham Man, Luke Westaway, Andy Farrant
+- 2024-07-22 — Rip Girls — speakers: Rip Girls, Johnny Tsunami, Sydney Miller, Will Sydney, Girl Pop, Tyler Van Den Berg, Luke Westaway, Andy Farrant
+- 2024-07-08 — High School Musical — speakers: Zac Efron, Vanessa Hudgens, Luke Westaway, Andy Farrant
+- 2024-06-24 — The Even Stevens Movie — speakers: Stevens Movie, Stevens Bit, Louis Stevens, Alan Twitty, Luke Westaway, Andy Farrant
+- 2024-06-10 — My Date with the President's Daughter — speakers: Duncan Fletcher, Wesley Snipes, Luke Westaway, Andy Farrant
+- 2024-05-27 — Go Figure — speakers: Katelin Kingsford, Will Katelin, Luke Westaway, Andy Farrant
+- 2024-05-13 — Pixel Perfect — speakers: Loretta Modern, Luke Westaway, Andy Farrant
+- 2024-04-29 — The Scream Team — speakers: Zachariah Kull, Luke Westaway, Andy Farrant
+- 2024-04-15 — Miracle in Lane 2 — speakers: Justin Yoder, Frankie Muniz, Patrick Levis, Old Man Vic, Luke Westaway, Andy Farrant
+- 2024-04-01 — Johnny Kapahala: Back on Board — speakers: Johnny Kapahala, Johnny Tsunami, Luke Westaway, Andy Farrant
+- 2024-03-18 — The Jennie Project — speakers: Will Jennie, Luke Westaway, Andy Farrant
+- 2024-03-04 — Going to the Mat — speakers: Jace Newfield, Luke Westaway, Andy Farrant
+- 2024-02-19 — Can of Worms — speakers: Mike Pillsbury, Will Mike, Luke Westaway, Andy Farrant
+- 2024-02-05 — Eddie's Million Dollar Cook-Off — speakers: Eddie Ogden, Will Eddie, Iron Chef Bobby Flay, Luke Westaway, Andy Farrant
+- 2024-01-22 — Wendy Wu: Homecoming Warrior — speakers: Wendy Wu, Brenda Song, Yan Lo, Will Wendy, Luke Westaway, Andy Farrant
+- 2023-12-25 — A Very Nutty Christmas — speakers: Melissa Joan Hart, Kate Holiday, Luke Westaway, Andy Farrant
+- 2023-12-11 — The Ultimate Christmas Present — speakers: Luke Westaway, Andy Farrant
+- 2023-11-27 — Right on Track — speakers: Erica Enders, Luke Westaway, Andy Farrant
+- 2023-11-13 — Tower of Terror — speakers: Steve Guttenberg, Kirsten Dunst, Buzzy Crocker, Will Buzzy, Luke Westaway, Andy Farrant
+- 2023-10-30 — Don't Look Under the Bed — speakers: Larry Houdini, Luke Westaway, Andy Farrant
+- 2023-10-16 — Halloweentown II: Kalabar's Revenge — speakers: Will Marnie, Luke Westaway, Andy Farrant
+- 2023-10-02 — Phantom of the Megaplex — speakers: Pete Riley, Will Pete, Mickey Rooney, Luke Westaway, Andy Farrant
+- 2023-09-18 — Ready to Run — speakers: Luke Westaway, Andy Farrant
+- 2023-09-04 — Get a Clue — speakers: Lindsay Lohan, Steve Guttenberg, Kirsten Dunst, Luke Westaway, Andy Farrant
+- 2023-08-21 — Zenon: The Zequel — speakers: Zenon Kar, Proto Zoa, Will Zenon, Luke Westaway, Andy Farrant
+- 2023-08-07 — Cadet Kelly — speakers: Cadet Kelly, Kelly Collins, Hillary Duff, Luke Westaway, Andy Farrant
+- 2023-07-24 — Alley Cats Strike — speakers: Alley Cats Strike, Luke Westaway, Andy Farrant
+- 2023-07-10 — Stuck in the Suburbs — speakers: Jordan Cahill, Luke Westaway, Andy Farrant
+- 2023-06-26 — Jumping Ship — speakers: Avengers Endgame, Horse Sense, Luke Westaway, Andy Farrant
+- 2023-06-19 — Introducing Mom Can't Cook! Extra Helpings — speakers: Extra Helpings, Luke Westaway, Andy Farrant
+- 2023-06-12 — Stepsister From Planet Weird — speakers: Luke Westaway, Andy Farrant
+- 2023-05-28 — First Kid — speakers: Sam Simms, Luke Davenport, Volante Design, Luke Westaway, Andy Farrant
+- 2023-05-15 — Cow Belles — speakers: Nicole Richie, Courtney Callum, Cow Belles, Luke Westaway, Andy Farrant
+- 2023-05-01 — Hounded — speakers: Jay Martin, Luke Westaway, Andy Farrant
+- 2023-04-17 — You Wish! — speakers: Spencer Breslin, Vanessa Carlton, Luke Westaway, Andy Farrant
+- 2023-04-03 — A Ring of Endless Light — speakers: Luke Westaway, Vicky Austin, Adam Eddington, Zachary Gray, Andy Farrant
+- 2023-03-20 — Quints — speakers: Jamie Grover, George Washington, Luke Westaway, Andy Farrant
+- 2023-03-05 — The Luck of the Irish — speakers: Kyle Johnson, Luke Westaway, Andy Farrant
+- 2023-02-20 — The Other Me — speakers: Will Browning, Andrew Lawrence, Luke Westaway, Andy Farrant
+- 2023-02-06 — Up, Up and Away — speakers: Scott Marshall, Bronze Eagle, Luke Westaway, Andy Farrant
+- 2023-01-23 — Genius — speakers: Charlie Boyle, Chaz Anthony, Luke Westaway, Andy Farrant
+- 2023-01-09 — Brink! — speakers: Luke Westaway, Andy Farrant
+- 2022-12-19 — 'Twas the Night — speakers: Breaking Bad, Bryan Cranston, Nick Wrigley, Will Danny, Luke Westaway, Andy Farrant
+- 2022-12-05 — Motocrossed — speakers: Andi Carson, Andy Carson, Dean Talon, Luke Westaway, Andy Farrant
+- 2022-11-21 — Now You See It... — speakers: Mystic Max, Luke Westaway, Andy Farrant
+- 2022-11-07 — Mom's Got a Date with a Vampire — speakers: Malachi Van Helsing, Loading Bar, Luke Westaway, Andy Farrant
+- 2022-10-24 — Under Wraps — speakers: Cornbread Hemp, Luke Westaway, Andy Farrant
+- 2022-10-10 — Halloweentown — speakers: Will Marnie, Luke Westaway, Andy Farrant
+- 2022-09-26 — Zenon: Girl of the 21st Century — speakers: Zenon Kar, Proto Zoa, Luke Westaway, Andy Farrant
+- 2022-09-20 — LIVE SHOW ANNOUNCEMENT! Also: Dunking on Pinocchio (2022) — speakers: Luke Westaway, Andy Farrant
+- 2022-09-12 — Johnny Tsunami — speakers: Johnny Tsunami Prepare, Johnny Tsunami, Luke Westaway, Andy Farrant
+- 2022-08-29 — The Thirteenth Year — speakers: Cody Griffin, Will Cody, Luke Westaway, Andy Farrant
+- 2022-08-15 — Horse Sense — speakers: Will Michael, Kevin Costner, Horse Sense, Luke Westaway, Andy Farrant
+- 2022-08-01 — You Lucky Dog — speakers: Daniel Craig, Luke Westaway, Andy Farrant
 - 2022-07-18 — Smart House — speakers: Luke Westaway, Andy Farrant

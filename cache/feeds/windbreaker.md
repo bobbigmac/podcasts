@@ -2,10 +2,10 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `W/"36d04-hWsAlWz6F3Fv0CXN4p4GXGpt6t4"`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T19:06:07+00:00`
+- checked_at: `2026-02-20T19:06:07+00:00`
+- etag: `W/"36d04-d9EIW3OZUPSvSI5m5LXiN9cHi6c"`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,11 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-20T19:06:07+00:00",
+  "owners": [
+    "Yahtzee Croshaw",
+    "Marty Sliva"
+  ],
   "common_speakers": [],
   "categories": [
     "entertainment"
@@ -35,7 +38,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143041568",
       "itunes_duration": "01:39:20",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "favorite",
         "video",
@@ -56,7 +62,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87016176",
       "itunes_duration": "01:30:38",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "weird",
         "wild",
@@ -77,7 +86,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60135131",
       "itunes_duration": "01:02:38",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "windbreaker",
@@ -95,7 +107,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73208894",
       "itunes_duration": "01:16:15",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "favorite",
         "games",
@@ -115,7 +130,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95205344",
       "itunes_duration": "01:06:06",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "gaming",
         "windbreaker",
@@ -133,7 +151,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64960888",
       "itunes_duration": "01:07:40",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "alters",
         "yahtzee",
@@ -154,7 +175,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79311516",
       "itunes_duration": "01:22:36",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "best",
         "gaming",
@@ -175,7 +199,9 @@
       "enclosure_length": "106419488",
       "itunes_duration": "01:13:54",
       "speakers": [
-        "Edmund McMillen"
+        "Edmund McMillen",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "indie",
@@ -198,7 +224,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75531493",
       "itunes_duration": "01:18:40",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "video",
         "game",
@@ -218,7 +247,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78484375",
       "itunes_duration": "01:21:45",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "genre",
@@ -237,7 +269,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67862778",
       "itunes_duration": "01:10:41",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "past",
         "present",
@@ -259,7 +294,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78439235",
       "itunes_duration": "01:21:42",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "game",
         "awards",
@@ -280,7 +318,9 @@
       "enclosure_length": "72672653",
       "itunes_duration": "01:15:42",
       "speakers": [
-        "Jesse Galena"
+        "Jesse Galena",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "atmosphere",
@@ -299,7 +339,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69629910",
       "itunes_duration": "01:12:31",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "tables",
         "video",
@@ -319,7 +362,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99840835",
       "itunes_duration": "01:44:00",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "joys",
         "person",
@@ -339,7 +385,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82155729",
       "itunes_duration": "01:25:34",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "year",
         "identity",
@@ -358,7 +407,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85608071",
       "itunes_duration": "01:29:10",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "video",
         "game",
@@ -379,7 +431,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82476303",
       "itunes_duration": "01:25:54",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "japan",
         "best",
@@ -399,7 +454,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76920790",
       "itunes_duration": "01:20:07",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "favorite",
         "power",
@@ -418,7 +476,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76303046",
       "itunes_duration": "01:19:28",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "fine",
         "silksong",
@@ -438,7 +499,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80330919",
       "itunes_duration": "01:23:40",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "hype",
@@ -457,7 +521,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96024868",
       "itunes_duration": "01:40:01",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "ending",
         "windbreaker",
@@ -475,7 +542,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88833044",
       "itunes_duration": "01:32:32",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "video",
         "game",
@@ -497,7 +567,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60693942",
       "itunes_duration": "01:03:13",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "good",
         "weird",
@@ -519,7 +592,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96046602",
       "itunes_duration": "01:40:02",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "franchise",
         "dignity",
@@ -538,7 +614,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84909662",
       "itunes_duration": "01:28:26",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "point",
         "game",
@@ -558,7 +637,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89440757",
       "itunes_duration": "01:33:10",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "annoying",
         "design",
@@ -579,7 +661,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94365152",
       "itunes_duration": "01:38:17",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "state",
         "nintendo",
@@ -599,7 +684,9 @@
       "enclosure_length": "68883435",
       "itunes_duration": "01:11:45",
       "speakers": [
-        "Hideo Kojima"
+        "Hideo Kojima",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "kojima",
@@ -619,7 +706,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77494648",
       "itunes_duration": "01:20:43",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "open",
         "world",
@@ -639,7 +729,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113983738",
       "itunes_duration": "01:58:43",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "backlog",
         "windbreaker",
@@ -657,7 +750,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87971213",
       "itunes_duration": "01:31:38",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "time",
         "worst",
@@ -678,7 +774,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99471360",
       "itunes_duration": "01:43:36",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "better",
@@ -698,7 +797,9 @@
       "enclosure_length": "85665332",
       "itunes_duration": "01:29:14",
       "speakers": [
-        "Catching Yahtzee"
+        "Catching Yahtzee",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "yahtzee",
@@ -720,7 +821,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100605701",
       "itunes_duration": "01:44:47",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "cozy",
         "game",
@@ -739,7 +843,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90831307",
       "itunes_duration": "01:34:36",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "game",
         "advertising",
@@ -758,7 +865,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89763840",
       "itunes_duration": "01:33:30",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "great",
         "video",
@@ -779,7 +889,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79299813",
       "itunes_duration": "01:22:36",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "clones",
         "gone",
@@ -798,7 +911,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95707637",
       "itunes_duration": "01:39:41",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "musical",
         "moments",
@@ -818,7 +934,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88224914",
       "itunes_duration": "01:31:54",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "strange",
         "state",
@@ -838,7 +957,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73228120",
       "itunes_duration": "01:16:16",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "solving",
         "mysteries",
@@ -858,7 +980,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135145184",
       "itunes_duration": "01:33:51",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "edged",
         "sword",
@@ -879,7 +1004,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108879584",
       "itunes_duration": "01:15:36",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "windbreaker",
         "podcast"
@@ -896,7 +1024,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "134982752",
       "itunes_duration": "01:33:44",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "graphic",
         "matter",
@@ -915,7 +1046,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138849440",
       "itunes_duration": "01:36:25",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "peaks",
         "genre",
@@ -935,7 +1069,9 @@
       "enclosure_length": "136405472",
       "itunes_duration": "01:34:43",
       "speakers": [
-        "Jack Packard"
+        "Jack Packard",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "wonder",
@@ -959,7 +1095,9 @@
       "enclosure_length": "130464032",
       "itunes_duration": "01:30:35",
       "speakers": [
-        "Mario Day"
+        "Mario Day",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "mario",
@@ -980,7 +1118,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135788000",
       "itunes_duration": "01:34:17",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "kinds",
         "levels",
@@ -1000,7 +1141,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138733088",
       "itunes_duration": "01:36:20",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "pirate",
         "games",
@@ -1021,7 +1165,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127127264",
       "itunes_duration": "01:28:16",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "video",
         "game",
@@ -1042,7 +1189,9 @@
       "enclosure_length": "128055776",
       "itunes_duration": "01:28:55",
       "speakers": [
-        "Jack Packard"
+        "Jack Packard",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "hobby",
@@ -1063,7 +1212,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135532832",
       "itunes_duration": "01:34:07",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "desert",
@@ -1083,7 +1235,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147197984",
       "itunes_duration": "01:42:13",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "video",
         "game",
@@ -1103,7 +1258,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140952992",
       "itunes_duration": "01:37:53",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "windbreaker",
@@ -1122,7 +1280,9 @@
       "enclosure_length": "115604960",
       "itunes_duration": "01:20:16",
       "speakers": [
-        "Second Wind"
+        "Second Wind",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "point",
@@ -1141,7 +1301,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136482080",
       "itunes_duration": "01:34:46",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "gaming",
         "resolutions",
@@ -1163,7 +1326,9 @@
       "speakers": [
         "Game Awards Results",
         "Game Awards",
-        "Second Wind"
+        "Second Wind",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "game",
@@ -1184,7 +1349,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "132694304",
       "itunes_duration": "01:32:08",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "game",
         "windbreaker",
@@ -1202,7 +1370,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137245280",
       "itunes_duration": "01:35:18",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "tour",
         "handheld",
@@ -1222,7 +1393,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121992800",
       "itunes_duration": "01:24:43",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "defense",
         "janky",
@@ -1242,7 +1416,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127271853",
       "itunes_duration": "01:28:22",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "game",
         "award",
@@ -1262,7 +1439,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148505517",
       "itunes_duration": "01:43:07",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "decade",
@@ -1281,7 +1461,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129406509",
       "itunes_duration": "01:29:51",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "weirdest",
         "video",
@@ -1302,7 +1485,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148561389",
       "itunes_duration": "01:43:10",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "horror",
         "game",
@@ -1324,7 +1510,9 @@
       "enclosure_length": "176931693",
       "itunes_duration": "02:02:52",
       "speakers": [
-        "Gavin Dunne"
+        "Gavin Dunne",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "best",
@@ -1348,7 +1536,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130145422",
       "itunes_duration": "01:30:22",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "simple",
         "games",
@@ -1367,7 +1558,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150207196",
       "itunes_duration": "01:44:18",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "original",
         "silent",
@@ -1390,7 +1584,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137598381",
       "itunes_duration": "01:35:33",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "character",
         "game",
@@ -1409,7 +1606,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "151349980",
       "itunes_duration": "01:45:05",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "franchise",
         "windbreaker",
@@ -1427,7 +1627,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "149174428",
       "itunes_duration": "01:43:35",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "realism",
         "windbreaker",
@@ -1446,7 +1649,9 @@
       "enclosure_length": "158063170",
       "itunes_duration": "01:49:45",
       "speakers": [
-        "Astro Bot"
+        "Astro Bot",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "platformer",
@@ -1465,7 +1670,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144864220",
       "itunes_duration": "01:40:35",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "failure",
         "windbreaker",
@@ -1483,7 +1691,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130194292",
       "itunes_duration": "01:30:24",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "harder",
@@ -1502,7 +1713,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133870990",
       "itunes_duration": "01:32:57",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "movies",
         "influenced",
@@ -1522,7 +1736,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154387714",
       "itunes_duration": "01:47:12",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "alternate",
         "history",
@@ -1543,7 +1760,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "162274666",
       "itunes_duration": "01:52:40",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "gaming",
         "magazines",
@@ -1564,7 +1784,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147329500",
       "itunes_duration": "01:42:18",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "ending",
         "windbreaker",
@@ -1582,7 +1805,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145033694",
       "itunes_duration": "01:40:42",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "favorite",
         "game",
@@ -1603,7 +1829,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111659240",
       "itunes_duration": "01:17:15",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "head",
         "windbreaker",
@@ -1621,7 +1850,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140510098",
       "itunes_duration": "01:37:34",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "laugh",
@@ -1640,7 +1872,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130239343",
       "itunes_duration": "01:30:26",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "medium",
         "lore",
@@ -1661,7 +1896,9 @@
       "enclosure_length": "156310469",
       "itunes_duration": "01:48:15",
       "speakers": [
-        "Elden Ring Shadow"
+        "Elden Ring Shadow",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "windbreaker",
@@ -1679,7 +1916,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138638316",
       "itunes_duration": "01:35:59",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "franchise",
         "identity",
@@ -1700,7 +1940,9 @@
       "enclosure_length": "130004397",
       "itunes_duration": "01:30:16",
       "speakers": [
-        "Catching Yahtzee"
+        "Catching Yahtzee",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "yahtzee",
@@ -1722,7 +1964,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124213869",
       "itunes_duration": "01:26:15",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "line",
         "game",
@@ -1742,7 +1987,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110595501",
       "itunes_duration": "01:16:48",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "infamous",
         "series",
@@ -1761,7 +2009,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152466669",
       "itunes_duration": "01:45:52",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "weird",
@@ -1780,7 +2031,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "151295661",
       "itunes_duration": "01:45:03",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "shhh",
         "video",
@@ -1801,7 +2055,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "157495149",
       "itunes_duration": "01:49:22",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "video",
         "game",
@@ -1822,7 +2079,9 @@
       "enclosure_length": "164219949",
       "itunes_duration": "01:54:02",
       "speakers": [
-        "Ross Scott"
+        "Ross Scott",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "stop",
@@ -1846,7 +2105,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125324973",
       "itunes_duration": "01:27:01",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "leveling",
         "windbreaker",
@@ -1864,7 +2126,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142977645",
       "itunes_duration": "01:39:17",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "thing",
         "favorite",
@@ -1884,7 +2149,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125847981",
       "itunes_duration": "01:27:23",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "save",
         "system",
@@ -1903,7 +2171,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127736109",
       "itunes_duration": "01:28:42",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "best",
         "waifu",
@@ -1922,7 +2193,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "172006317",
       "itunes_duration": "01:59:26",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "attack",
         "microtransactions",
@@ -1941,7 +2215,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122926509",
       "itunes_duration": "01:25:21",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "trends",
         "gaming",
@@ -1960,7 +2237,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "185703021",
       "itunes_duration": "02:08:57",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "developer",
         "windbreaker",
@@ -1978,7 +2258,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "178409133",
       "itunes_duration": "02:03:53",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "gaming",
         "sins",
@@ -1997,7 +2280,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "146112237",
       "itunes_duration": "01:41:27",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "world",
         "cynical",
@@ -2017,7 +2303,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122991021",
       "itunes_duration": "01:25:24",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "quest",
         "windbreaker",
@@ -2037,7 +2326,9 @@
       "itunes_duration": "01:21:15",
       "speakers": [
         "Kinda Sucks",
-        "Second Wind"
+        "Second Wind",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "video",
@@ -2061,7 +2352,9 @@
       "enclosure_length": "132899373",
       "itunes_duration": "01:32:17",
       "speakers": [
-        "Nick Calandra"
+        "Nick Calandra",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "sunk",
@@ -2088,7 +2381,9 @@
       "itunes_duration": "02:06:16",
       "speakers": [
         "Jack Packard",
-        "Second Wind"
+        "Second Wind",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "games",
@@ -2110,7 +2405,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "163567917",
       "itunes_duration": "01:53:35",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "redo",
@@ -2129,7 +2427,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139405869",
       "itunes_duration": "01:36:48",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "metroidvania",
         "windbreaker",
@@ -2147,7 +2448,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142314669",
       "itunes_duration": "01:38:49",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "good",
         "grind",
@@ -2166,7 +2470,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154450989",
       "itunes_duration": "01:47:15",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "games",
         "windbreaker",
@@ -2184,7 +2491,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154756269",
       "itunes_duration": "01:47:28",
-      "speakers": [],
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
       "topics": [
         "point",
         "game",
@@ -2205,7 +2515,9 @@
       "enclosure_length": "125038125",
       "itunes_duration": "01:26:49",
       "speakers": [
-        "Second Wind"
+        "Second Wind",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "standout",
@@ -2227,7 +2539,9 @@
       "enclosure_length": "161356077",
       "itunes_duration": "01:52:03",
       "speakers": [
-        "Second Wind"
+        "Second Wind",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
       ],
       "topics": [
         "state",
@@ -2270,114 +2584,114 @@
 
 ## Episodes (newest first)
 
-- 2026-02-17 — Our Favorite Video Game Couple Is Better Than Your Favorite Video Game Couple | Windbreaker Podcast
-- 2026-02-10 — The Wide, Weird, and Wild World of Mods | Windbreaker Podcast
-- 2026-02-03 — How to (Not) Do Climbing in Games | Windbreaker Podcast
-- 2026-01-27 — Choosing Our Favorite Games From 5, 10, 20, and 30 Years Ago | Windbreaker Podcast
-- 2026-01-20 — Will VR Gaming Ever Really Break Through? | Windbreaker Podcast
-- 2026-01-13 — So Why Was The Alters Yahtzee's Game of the Year? | Windbreaker Podcast
-- 2026-01-06 — The Best Gaming Moments of 2025 | Windbreaker Podcast
-- 2025-12-16 — How Indie Gaming Has Evolved Over the Past 25 Years (ft. Edmund McMillen) | Windbreaker Podcast — speakers: Edmund McMillen
-- 2025-12-09 — Yeah, I'd Eat That Video Game Food | Windbreaker Podcast
-- 2025-12-02 — Games in a Genre of Their Own | Windbreaker Podcast
-- 2025-11-25 — The Past, Present, and Future of Episodic Gaming | Windbreaker Podcast
-- 2025-11-18 — Breaking Down the 2025 Game Awards Nominations | Windbreaker Podcast
-- 2025-11-11 — What Makes a Great “Atmosphere” | Windbreaker Podcast — speakers: Jesse Galena
-- 2025-11-04 — Are Tables Better Than Video Games? | Windbreaker Podcast
-- 2025-10-28 — The Joys of In-Person Gaming | Windbreaker Podcast
-- 2025-10-14 — 5 Years Later, Does the PS5 Have an Identity? | Windbreaker Podcast
-- 2025-10-07 — The Video Game Stories That Stick With Us | Windbreaker Podcast
-- 2025-09-30 — Does Japan Make the Best Horror? | Windbreaker Podcast
-- 2025-09-23 — Our Favorite Power-Ups | Windbreaker Podcast
-- 2025-09-16 — Alright, Fine, Let's Chat About Silksong's Difficulty | Windbreaker Podcast
-- 2025-09-09 — Can Games Ever Live Up to Their Hype? | Windbreaker Podcast
-- 2025-09-02 — The Best, Worst, and Most Annoying "True" Endings | Windbreaker Podcast
-- 2025-08-26 — Making a Video Game Developer Alignment Chart | Windbreaker Podcast
-- 2025-08-19 — The Good, the Bad, and the Weird Kinds of "Yellow Paint" | Windbreaker Podcast
-- 2025-08-12 — Letting Franchises Die With Dignity | Windbreaker Podcast
-- 2025-08-05 — The Point in a Game That Kills the Replay | Windbreaker Podcast
-- 2025-07-29 — Annoying Design Choices in Games | Windbreaker Podcast
-- 2025-07-22 — The State of Nintendo in 2025 | Windbreaker Podcast
-- 2025-07-15 — Let's Have a Kojima Conversation | Windbreaker Podcast — speakers: Hideo Kojima
-- 2025-07-08 — What Makes an Open World Actually Fun? | Windbreaker Podcast
-- 2025-07-01 — Learning to Love the Backlog | Windbreaker Podcast
-- 2025-06-24 — Time Is the Best (and Worst) Game Mechanic | Windbreaker Podcast
-- 2025-06-17 — Are Games Better Now Than They Were in 2015? | Windbreaker Podcast
-- 2025-06-10 — Catching Yahtzee Up on Summer Game Fest 2025 | Windbreaker Podcast — speakers: Catching Yahtzee
-- 2025-06-03 — What Even Is a "Cozy" Game? | Windbreaker Podcast
-- 2025-05-27 — Game Advertising That Actually Worked on You | Windbreaker Podcast
-- 2025-05-20 — What Makes a Great Video Game Weapon? | Windbreaker Podcast
-- 2025-05-13 — Where Have All the GTA Clones Gone? | Windbreaker Podcast
-- 2025-05-06 — The Best Musical Moments in Games | Windbreaker Podcast
-- 2025-04-29 — The Strange State of AA Games | Windbreaker Podcast
-- 2025-04-22 — The Joy of Solving Mysteries in Games | Windbreaker Podcast
-- 2025-04-15 — The Double-Edged Sword of Roguelikes and Roguelites in 2025 | Windbreaker Podcast
-- 2025-04-08 — Sometimes 'Good' Is Good Enough | Windbreaker Podcast
-- 2025-04-01 — Do ‘Good Graphics’ Even Matter in 2025? | Windbreaker Podcast
-- 2025-03-25 — The Peaks of Every Genre | Windbreaker Podcast
-- 2025-03-18 — Do 'One-Hit Wonders' Exist in Games? (ft. Jack Packard) | Windbreaker Podcast — speakers: Jack Packard
-- 2025-03-11 — The Four Mario Games We’d Save If All the Rest Had To Be Destroyed | Windbreaker Podcast — speakers: Mario Day
-- 2025-03-04 — The Worst Kinds of Levels in Games | Windbreaker Podcast
-- 2025-02-25 — Why Are Pirate Games So Damn Good? | Windbreaker Podcast
-- 2025-02-18 — How to NOT Do a Video Game Merchant | Windbreaker Podcast
-- 2025-02-11 — Gaming Is the Most Complicated Hobby (ft. Jack Packard) | Windbreaker Podcast — speakers: Jack Packard
-- 2025-02-04 — The Five Games We'd Take With Us on a Desert Island | Windbreaker Podcast
-- 2025-01-28 — Building the Video Game Syllabus | Windbreaker Podcast
-- 2025-01-21 — There’s Nothing Wrong With Cheating in Games | Windbreaker Podcast
-- 2025-01-14 — At What Point Does It Become Stealing? | Windbreaker Podcast — speakers: Second Wind
-- 2025-01-07 — Our 2025 Gaming Resolutions | Windbreaker Podcast
-- 2024-12-17 — Digesting the Game Awards Results | Windbreaker Podcast — speakers: Game Awards Results, Game Awards, Second Wind
-- 2024-12-10 — THIS Is How You Start Off a Game | Windbreaker Podcast
-- 2024-12-03 — A Tour Through Handheld History | Windbreaker Podcast
-- 2024-11-26 — In Defense of Janky Games | Windbreaker Podcast
-- 2024-11-19 — Breaking Down the Game Award Nominees | Windbreaker Podcast
-- 2024-11-12 — Are Games Better Than They Were A Decade Ago? | Windbreaker Podcast
-- 2024-11-05 — The Best, Worst, and Weirdest Video Game Leaders | Windbreaker Podcast
-- 2024-10-30 — Horror Game Deep Cuts to Play For Halloween | Windbreaker Podcast
-- 2024-10-22 — The Best Video Game Music (ft. Miracle of Sound) | Windbreaker Podcast — speakers: Gavin Dunne
-- 2024-10-15 — The Joy of Simple Games | Windbreaker Podcast
-- 2024-10-08 — Yes, the Original Silent Hill 2 is the Best Horror Game Ever, Shut Up | Windbreaker Podcast
-- 2024-10-01 — Characters Who Deserve Their Own Game | Windbreaker Podcast
-- 2024-09-24 — How to Ruin a Perfectly Good Franchise | Windbreaker Podcast
-- 2024-09-17 — Realism is Overrated | Windbreaker Podcast
-- 2024-09-10 — How to (Not) Do a 3D Platformer | Windbreaker Podcast — speakers: Astro Bot
-- 2024-09-03 — Making Failure Feel Good | Windbreaker Podcast
-- 2024-08-27 — Making Games Harder For Ourselves | Windbreaker Podcast
-- 2024-08-20 — The Movies That Influenced Games the Most | Windbreaker Podcast
-- 2024-08-13 — An Alternate History of Video Game "What Ifs?" | Windbreaker Podcast
-- 2024-08-06 — The Gaming Magazines, Media, and Spaces That Defined Us | Windbreaker Podcast
-- 2024-07-30 — How to (Not) Do an Ending | Windbreaker Podcast
-- 2024-07-23 — Our Favorite Game Devs and Studios | Windbreaker Podcast
-- 2024-07-17 — Can't Get You Out of My Head | Windbreaker Podcast
-- 2024-07-09 — Games That Actually Make Us Laugh | Windbreaker Podcast
-- 2024-07-02 — Modern Media Has a Lore Problem | Windbreaker Podcast
-- 2024-06-26 — How Hard is Too Hard? | Windbreaker Podcast — speakers: Elden Ring Shadow
-- 2024-06-21 — AAA's Franchise Identity Problem | Windbreaker Podcast
-- 2024-06-11 — Catching Yahtzee Up on Summer Game Fest | Windbreaker Podcast — speakers: Catching Yahtzee
-- 2024-06-04 — The Line Between a Game and an Experience | Windbreaker Podcast
-- 2024-05-28 — Reminiscing About the Infamous Series | Windbreaker Podcast
-- 2024-05-21 — More Games Need to Embrace the Weird | Windbreaker Podcast
-- 2024-05-14 — Shhh... Let's Talk About Video Game Secrets | Windbreaker Podcast
-- 2024-05-08 — What We Want from Our Video Game Villains | Windbreaker Podcast
-- 2024-04-30 — The Stop Killing Games Campaign (ft. Ross Scott) | Windbreaker Podcast — speakers: Ross Scott
-- 2024-04-23 — The Art of Leveling Up | Windbreaker Podcast
-- 2024-04-16 — The Worst Things About our Favorite Games | Windbreaker Podcast
-- 2024-04-10 — How to Build a Better Save System | Windbreaker Podcast
-- 2024-04-03 — Who Is Best Waifu? | Windbreaker Podcast
-- 2024-03-27 — Attack of the Microtransactions | Windbreaker Podcast
-- 2024-03-25 — Predicting the Next Big Trends in Gaming | Windbreaker Podcast
-- 2024-03-13 — What Do Developers Actually "Owe" Us? | Windbreaker Podcast
-- 2024-03-06 — Gaming's Unforgivable Sins | Windbreaker Podcast
-- 2024-02-28 — Has The World Become Too Cynical For Superheroes? | Windbreaker Podcast
-- 2024-02-22 — To Side Quest, or Not to Side Quest | Windbreaker Podcast
-- 2024-02-15 — Your Video Game City Kinda Sucks | Windbreaker Podcast — speakers: Kinda Sucks, Second Wind
-- 2024-02-07 — The Sunk-Cost Fallacy of Finishing Games (ft. Nick Calandra) | Windbreaker Podcast — speakers: Nick Calandra
-- 2024-01-31 — The Games and Genres We Just Don't Get (ft. Jack Packard) | Windbreaker Podcast — speakers: Jack Packard, Second Wind
-- 2024-01-25 — Games That Actually Deserve a Redo | Windbreaker Podcast
-- 2024-01-17 — How to NOT Do A Metroidvania | Windbreaker Podcast
-- 2024-01-09 — The Good, The Bad, and The Ugly Grind | Windbreaker Podcast
-- 2023-12-20 — Let's Fix Games in 2024 | Windbreaker Podcast
-- 2023-12-13 — What's the Point of The Game Awards? | Windbreaker Podcast
-- 2023-12-06 — The Standout Game Mechanics of 2023 | Windbreaker Podcast — speakers: Second Wind
-- 2023-11-28 — The State of Modern Games Coverage | Windbreaker Podcast — speakers: Second Wind
+- 2026-02-17 — Our Favorite Video Game Couple Is Better Than Your Favorite Video Game Couple | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2026-02-10 — The Wide, Weird, and Wild World of Mods | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2026-02-03 — How to (Not) Do Climbing in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2026-01-27 — Choosing Our Favorite Games From 5, 10, 20, and 30 Years Ago | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2026-01-20 — Will VR Gaming Ever Really Break Through? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2026-01-13 — So Why Was The Alters Yahtzee's Game of the Year? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2026-01-06 — The Best Gaming Moments of 2025 | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-12-16 — How Indie Gaming Has Evolved Over the Past 25 Years (ft. Edmund McMillen) | Windbreaker Podcast — speakers: Edmund McMillen, Yahtzee Croshaw, Marty Sliva
+- 2025-12-09 — Yeah, I'd Eat That Video Game Food | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-12-02 — Games in a Genre of Their Own | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-11-25 — The Past, Present, and Future of Episodic Gaming | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-11-18 — Breaking Down the 2025 Game Awards Nominations | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-11-11 — What Makes a Great “Atmosphere” | Windbreaker Podcast — speakers: Jesse Galena, Yahtzee Croshaw, Marty Sliva
+- 2025-11-04 — Are Tables Better Than Video Games? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-10-28 — The Joys of In-Person Gaming | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-10-14 — 5 Years Later, Does the PS5 Have an Identity? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-10-07 — The Video Game Stories That Stick With Us | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-09-30 — Does Japan Make the Best Horror? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-09-23 — Our Favorite Power-Ups | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-09-16 — Alright, Fine, Let's Chat About Silksong's Difficulty | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-09-09 — Can Games Ever Live Up to Their Hype? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-09-02 — The Best, Worst, and Most Annoying "True" Endings | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-08-26 — Making a Video Game Developer Alignment Chart | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-08-19 — The Good, the Bad, and the Weird Kinds of "Yellow Paint" | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-08-12 — Letting Franchises Die With Dignity | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-08-05 — The Point in a Game That Kills the Replay | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-07-29 — Annoying Design Choices in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-07-22 — The State of Nintendo in 2025 | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-07-15 — Let's Have a Kojima Conversation | Windbreaker Podcast — speakers: Hideo Kojima, Yahtzee Croshaw, Marty Sliva
+- 2025-07-08 — What Makes an Open World Actually Fun? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-07-01 — Learning to Love the Backlog | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-06-24 — Time Is the Best (and Worst) Game Mechanic | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-06-17 — Are Games Better Now Than They Were in 2015? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-06-10 — Catching Yahtzee Up on Summer Game Fest 2025 | Windbreaker Podcast — speakers: Catching Yahtzee, Yahtzee Croshaw, Marty Sliva
+- 2025-06-03 — What Even Is a "Cozy" Game? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-05-27 — Game Advertising That Actually Worked on You | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-05-20 — What Makes a Great Video Game Weapon? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-05-13 — Where Have All the GTA Clones Gone? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-05-06 — The Best Musical Moments in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-04-29 — The Strange State of AA Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-04-22 — The Joy of Solving Mysteries in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-04-15 — The Double-Edged Sword of Roguelikes and Roguelites in 2025 | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-04-08 — Sometimes 'Good' Is Good Enough | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-04-01 — Do ‘Good Graphics’ Even Matter in 2025? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-03-25 — The Peaks of Every Genre | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-03-18 — Do 'One-Hit Wonders' Exist in Games? (ft. Jack Packard) | Windbreaker Podcast — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva
+- 2025-03-11 — The Four Mario Games We’d Save If All the Rest Had To Be Destroyed | Windbreaker Podcast — speakers: Mario Day, Yahtzee Croshaw, Marty Sliva
+- 2025-03-04 — The Worst Kinds of Levels in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-02-25 — Why Are Pirate Games So Damn Good? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-02-18 — How to NOT Do a Video Game Merchant | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-02-11 — Gaming Is the Most Complicated Hobby (ft. Jack Packard) | Windbreaker Podcast — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva
+- 2025-02-04 — The Five Games We'd Take With Us on a Desert Island | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-01-28 — Building the Video Game Syllabus | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-01-21 — There’s Nothing Wrong With Cheating in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-01-14 — At What Point Does It Become Stealing? | Windbreaker Podcast — speakers: Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2025-01-07 — Our 2025 Gaming Resolutions | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-12-17 — Digesting the Game Awards Results | Windbreaker Podcast — speakers: Game Awards Results, Game Awards, Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2024-12-10 — THIS Is How You Start Off a Game | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-12-03 — A Tour Through Handheld History | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-11-26 — In Defense of Janky Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-11-19 — Breaking Down the Game Award Nominees | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-11-12 — Are Games Better Than They Were A Decade Ago? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-11-05 — The Best, Worst, and Weirdest Video Game Leaders | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-10-30 — Horror Game Deep Cuts to Play For Halloween | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-10-22 — The Best Video Game Music (ft. Miracle of Sound) | Windbreaker Podcast — speakers: Gavin Dunne, Yahtzee Croshaw, Marty Sliva
+- 2024-10-15 — The Joy of Simple Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-10-08 — Yes, the Original Silent Hill 2 is the Best Horror Game Ever, Shut Up | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-10-01 — Characters Who Deserve Their Own Game | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-09-24 — How to Ruin a Perfectly Good Franchise | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-09-17 — Realism is Overrated | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-09-10 — How to (Not) Do a 3D Platformer | Windbreaker Podcast — speakers: Astro Bot, Yahtzee Croshaw, Marty Sliva
+- 2024-09-03 — Making Failure Feel Good | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-08-27 — Making Games Harder For Ourselves | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-08-20 — The Movies That Influenced Games the Most | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-08-13 — An Alternate History of Video Game "What Ifs?" | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-08-06 — The Gaming Magazines, Media, and Spaces That Defined Us | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-07-30 — How to (Not) Do an Ending | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-07-23 — Our Favorite Game Devs and Studios | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-07-17 — Can't Get You Out of My Head | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-07-09 — Games That Actually Make Us Laugh | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-07-02 — Modern Media Has a Lore Problem | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-06-26 — How Hard is Too Hard? | Windbreaker Podcast — speakers: Elden Ring Shadow, Yahtzee Croshaw, Marty Sliva
+- 2024-06-21 — AAA's Franchise Identity Problem | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-06-11 — Catching Yahtzee Up on Summer Game Fest | Windbreaker Podcast — speakers: Catching Yahtzee, Yahtzee Croshaw, Marty Sliva
+- 2024-06-04 — The Line Between a Game and an Experience | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-05-28 — Reminiscing About the Infamous Series | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-05-21 — More Games Need to Embrace the Weird | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-05-14 — Shhh... Let's Talk About Video Game Secrets | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-05-08 — What We Want from Our Video Game Villains | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-04-30 — The Stop Killing Games Campaign (ft. Ross Scott) | Windbreaker Podcast — speakers: Ross Scott, Yahtzee Croshaw, Marty Sliva
+- 2024-04-23 — The Art of Leveling Up | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-04-16 — The Worst Things About our Favorite Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-04-10 — How to Build a Better Save System | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-04-03 — Who Is Best Waifu? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-03-27 — Attack of the Microtransactions | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-03-25 — Predicting the Next Big Trends in Gaming | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-03-13 — What Do Developers Actually "Owe" Us? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-03-06 — Gaming's Unforgivable Sins | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-02-28 — Has The World Become Too Cynical For Superheroes? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-02-22 — To Side Quest, or Not to Side Quest | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-02-15 — Your Video Game City Kinda Sucks | Windbreaker Podcast — speakers: Kinda Sucks, Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2024-02-07 — The Sunk-Cost Fallacy of Finishing Games (ft. Nick Calandra) | Windbreaker Podcast — speakers: Nick Calandra, Yahtzee Croshaw, Marty Sliva
+- 2024-01-31 — The Games and Genres We Just Don't Get (ft. Jack Packard) | Windbreaker Podcast — speakers: Jack Packard, Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2024-01-25 — Games That Actually Deserve a Redo | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-01-17 — How to NOT Do A Metroidvania | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2024-01-09 — The Good, The Bad, and The Ugly Grind | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2023-12-20 — Let's Fix Games in 2024 | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2023-12-13 — What's the Point of The Game Awards? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2023-12-06 — The Standout Game Mechanics of 2023 | Windbreaker Podcast — speakers: Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2023-11-28 — The State of Modern Games Coverage | Windbreaker Podcast — speakers: Second Wind, Yahtzee Croshaw, Marty Sliva
 - 2023-11-22 — Slightly Somewhere Else (ft. Stephanie Sterling) | Windbreaker Podcast — speakers: Stephanie Sterling, Yahtzee Croshaw, Marty Sliva, Sebastian Ruiz, Second Wind

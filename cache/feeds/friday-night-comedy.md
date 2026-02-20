@@ -2,11 +2,11 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"980bf4f2e5866ca1c66121a34401c0bd"`
-- last_modified: `Thu, 19 Feb 2026 18:57:03 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T19:06:07+00:00`
+- checked_at: `2026-02-20T19:06:07+00:00`
+- etag: `"6da361a4b495545dea131d69c216c554"`
+- last_modified: `Fri, 20 Feb 2026 19:00:06 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,14 +18,41 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-20T19:06:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
-    "comedy/british",
+    "comedy",
     "radio"
   ],
   "episodes": [
+    {
+      "key": "4288ce1524fa30c55439c53dfd3b6d4ddc980c3a",
+      "title": "The News Quiz: Ep6. Is the UK getting sunnier?",
+      "published_at": "2026-02-20T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n03c57",
+      "description": "This week the panel discuss PM Keir Starmer fighting off a potential coup; whether it’s a good idea to take Valentine’s day tips from a two-timing Norwegian athlete; and after 40 days of rain in some parts of the UK, is the country actually getting sunnier? Joining Andy this week is Alasdair Beckett-King, Rachel Fairburn, Stephen Bush and Mhairi Black Written by Andy Zaltzman. With additional material by: Cody Dahler, Eve Delaney, Jade Gebbie, Ruth Husko and Peter Tellouche. Producer: Georgia Keating Executive Producer: James Robinson Production Coordinator: Giulia Lopes Mazzu Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n0zmtj.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27312000",
+      "itunes_duration": "1707",
+      "speakers": [
+        "Joining Andy",
+        "Alasdair Beckett-King",
+        "Rachel Fairburn",
+        "Stephen Bush",
+        "Mhairi Black Written",
+        "Andy Zaltzman",
+        "Cody Dahler",
+        "Eve Delaney"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "sunnier"
+      ]
+    },
     {
       "key": "90d8debeef646f6f29c23d1c2ad4cfdc6c620146",
       "title": "The News Quiz: Ep5. The Prince of Darkness",
@@ -6704,6 +6731,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — The News Quiz: Ep6. Is the UK getting sunnier? — speakers: Joining Andy, Alasdair Beckett-King, Rachel Fairburn, Stephen Bush, Mhairi Black Written, Andy Zaltzman, Cody Dahler, Eve Delaney
 - 2026-02-13 — The News Quiz: Ep5. The Prince of Darkness — speakers: Keir Starmer, Peter Mandelson, Helping Andy, Desiree Burch, Pierre Novellie, Daniel Finkelstein, Catherine Bohart, Andy Zaltzman
 - 2026-02-06 — The News Quiz: Ep4. By-elections, hello defections — speakers: Suella Braverman, Hugo Rifkind, Holly Walsh, Andy Zaltzman, Christina Riggs, Cameron Loxdale, Sarah Mills Producer, Pete Strauss Production Coordinator
 - 2026-01-30 — The News Quiz: Ep3. Bored of peace — speakers: Lucy Porter, Alasdair Beckett-King, Stephen Bush, Shappi Khorsandi, Andy Zaltzman, Christina Riggs, Cameron Loxdale, Ruth Husko

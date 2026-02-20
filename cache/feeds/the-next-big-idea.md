@@ -2,10 +2,10 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- last_modified: `Thu, 19 Feb 2026 10:30:00 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T19:06:07+00:00`
+- checked_at: `2026-02-20T19:06:07+00:00`
+- last_modified: `Fri, 20 Feb 2026 16:26:24 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,11 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/ea863c046e0db9c66e9d56c929b96c33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-20T19:06:07+00:00",
+  "owners": [
+    "Rufus Griscom",
+    "Caleb Bissinger"
+  ],
   "common_speakers": [],
   "categories": [
     "education"
@@ -29,7 +32,7 @@
       "title": "The Science of Change",
       "published_at": "2026-02-19T10:30:00+00:00",
       "link": null,
-      "description": "The only constant is change. You’ve heard it a thousand times. But here’s what the cliche leaves out: Change may be inevitable, but how you respond to it — and who you become because of it — that part’s up to you. Maya Shankar knows a thing or two about this. She’s studied change as a cognitive scientist, explored it on her podcast “ A Slight Change of Plans,” and now written a book — The Other Side of Change — about how the hardest moments of our lives can transform us … for the better. In the book, she tells remarkable stories of people overcoming colossal change — debilitating diagnoses, amnesia, incarceration — and extracts universal lessons grounded in the latest science. “When a big change happens to us,” she tells us in this episode, “it can feel like a personal apocalypse of sorts. And that the word apocalypse comes from the Greek word apokálypsis, which actually means revelation. That etymology is instructive. Change can upend us, yes. But it can also reveal things to us.” * * * Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠here⁠⁠ . Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at podcast@nextbigideaclub.com . We love getting fan mail. The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠nextbigideaclub.com⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). That Tim Kreider essay we quoted is called “Reprieve,” and you can find it in his wonderful book We Learn Nothing . The George Saunders clip comes from his lovely conversation with David Marchese, co-host of “The Interview.” You can listen to it here . Sponsored By: Factor — Head to factormeals.com/idea50off and use code idea50off to get 50% off your first box Shopify — Start your $1/month trial at ⁠⁠shopify.com/nbi⁠⁠",
+      "description": "The only constant is change. You’ve heard it a thousand times. But here’s what the cliche leaves out: Change may be inevitable, but how you respond to it — and who you become because of it — that part’s up to you. Maya Shankar knows a thing or two about this. She’s studied change as a cognitive scientist, explored it on her podcast “ A Slight Change of Plans,” and now written a book — The Other Side of Change — about how the hardest moments of our lives can transform us … for the better. In the book, she tells remarkable stories of people overcoming colossal change — debilitating diagnoses, amnesia, incarceration — and extracts universal lessons grounded in the latest science. “When a big change happens to us,” she tells us in this episode, “it can feel like a personal apocalypse of sorts. And that the word apocalypse comes from the Greek word apokálypsis, which actually means revelation. That etymology is instructive. Change can upend us, yes. But it can also reveal things to us.” * * * Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠here⁠⁠ . Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at podcast@nextbigideaclub.com . We love getting fan mail. The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠nextbigideaclub.com⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). That Tim Kreider essay we quoted is called “Reprieve,” and you can find it in his wonderful book We Learn Nothing . The George Saunders clip comes from his lovely conversation with David Marchese, co-host of “The Interview.” You can listen to it here . Sponsored By: Bitdefender — Get 30% off your plan at bitdefender.com/idea Factor — Head to factormeals.com/idea50off and use code idea50off to get 50% off your first box Shopify — Start your $1/month trial at ⁠⁠shopify.com/nbi⁠⁠",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP4963791586.mp3?updated=1771467211",
       "enclosure_type": "audio/mpeg",
@@ -40,7 +43,9 @@
         "Follow Rufus",
         "Tim Kreider",
         "George Saunders",
-        "David Marchese"
+        "David Marchese",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "science",
@@ -65,7 +70,9 @@
         "Kelly McGonigal",
         "Chris van Tulleken",
         "Eric Topol",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "simple",
@@ -86,7 +93,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3918",
       "speakers": [
-        "Brad Stulberg"
+        "Brad Stulberg",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "practical",
@@ -107,7 +116,9 @@
       "itunes_duration": "3250",
       "speakers": [
         "Jennifer Wallace",
-        "Rebecca Goldstein"
+        "Rebecca Goldstein",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "mattering"
@@ -129,7 +140,9 @@
         "Charles Duhigg",
         "David Brooks",
         "John Colapinto",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "superpower"
@@ -147,7 +160,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3925",
       "speakers": [
-        "Evan Ratliff"
+        "Evan Ratliff",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "real",
@@ -170,7 +185,9 @@
         "Jeremy Allaire",
         "Walter Isaacson",
         "NextBigIdeaClub Want",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "crypto",
@@ -190,7 +207,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4147",
       "speakers": [
-        "Chris Dixon"
+        "Chris Dixon",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "blockchain",
@@ -209,7 +228,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2783",
       "speakers": [
-        "Maryanne Wolf"
+        "Maryanne Wolf",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "human",
@@ -228,7 +249,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2554",
       "speakers": [
-        "Priya Parker"
+        "Priya Parker",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "holiday",
@@ -248,7 +271,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4639",
       "speakers": [
-        "Daniel Coyle"
+        "Daniel Coyle",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "flourish",
@@ -269,7 +294,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3565",
       "speakers": [
-        "Kari Leibowitz"
+        "Kari Leibowitz",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "kari",
@@ -289,7 +316,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4257",
       "speakers": [
-        "Daniel Coyle"
+        "Daniel Coyle",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "successful",
@@ -312,7 +341,9 @@
         "Nicholas Dirks",
         "Julie Samuels",
         "Matthew Johnson-Roberson",
-        "Sal Khan"
+        "Sal Khan",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "future",
@@ -333,7 +364,9 @@
       "speakers": [
         "David Brooks",
         "Griscom Guest",
-        "David Brooks Book"
+        "David Brooks Book",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "david",
@@ -355,7 +388,9 @@
         "Brené Brown",
         "Adam Grant",
         "Strong Ground",
-        "Walter Isaacson"
+        "Walter Isaacson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "strong",
@@ -381,7 +416,9 @@
         "Brené Brown",
         "Adam Grant",
         "Strong Ground",
-        "Walter Isaacson"
+        "Walter Isaacson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "brown",
@@ -407,7 +444,9 @@
         "Elon Musk",
         "Steve Jobs",
         "Benjamin Franklin",
-        "Jennifer Doudna"
+        "Jennifer Doudna",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "walter",
@@ -433,7 +472,9 @@
         "Albert Einstein",
         "Benjamin Franklin",
         "Leonardo da Vinci",
-        "Elon Musk"
+        "Elon Musk",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "elon",
@@ -452,7 +493,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4142",
       "speakers": [
-        "Andrew Ross Sorkin"
+        "Andrew Ross Sorkin",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "andrew",
@@ -474,7 +517,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3807",
       "speakers": [
-        "Nick Thompson"
+        "Nick Thompson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "nick",
@@ -499,7 +544,9 @@
         "Cancel Culture",
         "Common Knowledge",
         "Brené Brown",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "knowledge",
@@ -525,7 +572,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2778",
       "speakers": [
-        "Sam Kass"
+        "Sam Kass",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "food",
@@ -546,7 +595,9 @@
       "speakers": [
         "Dave Blundin",
         "Link Ventures",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "future"
@@ -565,7 +616,9 @@
       "itunes_duration": "3937",
       "speakers": [
         "Malcolm Gladwell",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "primal",
@@ -585,7 +638,9 @@
       "itunes_duration": "4317",
       "speakers": [
         "Steven Pinker",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "steven",
@@ -610,7 +665,9 @@
       "speakers": [
         "Gaurav Suri",
         "Jay McClelland",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "brain"
@@ -629,7 +686,9 @@
       "itunes_duration": "5041",
       "speakers": [
         "Jonathan Haidt",
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "jonathan",
@@ -650,7 +709,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4828",
       "speakers": [
-        "Follow Rufus"
+        "Follow Rufus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "arthur",
@@ -672,7 +733,9 @@
       "speakers": [
         "Ethan Mollick",
         "Steven Johnson",
-        "Andy Sack"
+        "Andy Sack",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "future",
@@ -702,7 +765,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "sebastian",
@@ -723,7 +788,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3521",
       "speakers": [
-        "Laura Huang"
+        "Laura Huang",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "intuition",
@@ -742,7 +809,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2879",
       "speakers": [
-        "Sam Kean"
+        "Sam Kean",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "rogue",
@@ -763,7 +832,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4103",
       "speakers": [
-        "Emily Falk"
+        "Emily Falk",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "value",
@@ -789,7 +860,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "super",
@@ -811,7 +884,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4340",
       "speakers": [
-        "Eric Topol"
+        "Eric Topol",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "super",
@@ -835,7 +910,9 @@
       "speakers": [
         "Arthur Schopenhauer",
         "Thomas Edison",
-        "Helen Lewis"
+        "Helen Lewis",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "myth",
@@ -856,7 +933,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3290",
       "speakers": [
-        "Kevin Kelly"
+        "Kevin Kelly",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -880,7 +959,9 @@
       "itunes_duration": "3781",
       "speakers": [
         "Andy Sack",
-        "Adam Brotman"
+        "Adam Brotman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "tsunami"
@@ -900,7 +981,9 @@
       "speakers": [
         "Michael Lewis Runs Toward",
         "Michael Lewis",
-        "Sam Bankman-Fried"
+        "Sam Bankman-Fried",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "michael",
@@ -922,7 +1005,9 @@
       "itunes_duration": "2738",
       "speakers": [
         "Susan Cain",
-        "Susan’s Substack"
+        "Susan’s Substack",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "susan",
@@ -946,7 +1031,9 @@
         "Malcolm Gladwell",
         "Susan Cain",
         "Daniel Pink",
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "hope",
@@ -969,7 +1056,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2706",
       "speakers": [
-        "Scott Barry Kaufman"
+        "Scott Barry Kaufman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "potential"
@@ -987,7 +1076,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4818",
       "speakers": [
-        "Rutger Bregman"
+        "Rutger Bregman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "moral",
@@ -1011,7 +1102,9 @@
         "Stephen Witt",
         "Jensen Huang",
         "Walter Isaacson",
-        "Elon Musk"
+        "Elon Musk",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "nvidia",
@@ -1032,7 +1125,9 @@
       "itunes_duration": "3156",
       "speakers": [
         "Alex Hutchinson",
-        "David Grann"
+        "David Grann",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "exploration",
@@ -1052,7 +1147,9 @@
       "itunes_duration": "5797",
       "speakers": [
         "Superhuman AI",
-        "Daniel Kokotajlo"
+        "Daniel Kokotajlo",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "corner"
@@ -1074,7 +1171,9 @@
         "Michael Lewis",
         "Sebastian Junger",
         "Kara Swisher",
-        "David Grann"
+        "David Grann",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "editing",
@@ -1097,7 +1196,9 @@
       "itunes_duration": "3126",
       "speakers": [
         "Family Dynamics",
-        "Susan Dominus"
+        "Susan Dominus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "family",
@@ -1120,7 +1221,9 @@
       "itunes_duration": "4351",
       "speakers": [
         "Derek Thompson",
-        "Ezra Klein"
+        "Ezra Klein",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "abundance",
@@ -1146,7 +1249,9 @@
         "Adam Grant",
         "Daniel Pink",
         "Kim Scott",
-        "James Clear"
+        "James Clear",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "giver",
@@ -1169,7 +1274,9 @@
       "speakers": [
         "Satoshi Nakamoto",
         "Ben Wallace",
-        "Nakamoto Want"
+        "Nakamoto Want",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "bitcoin",
@@ -1193,7 +1300,9 @@
       "itunes_duration": "3040",
       "speakers": [
         "Olga Khazan",
-        "Daniel Pink Guest"
+        "Daniel Pink Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "better",
@@ -1216,7 +1325,9 @@
       "itunes_duration": "3346",
       "speakers": [
         "Hidden History",
-        "Carl Zimmer"
+        "Carl Zimmer",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "carl",
@@ -1237,7 +1348,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3905",
       "speakers": [
-        "Sahil Bloom"
+        "Sahil Bloom",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "sahil",
@@ -1258,7 +1371,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2711",
       "speakers": [
-        "Will Storr"
+        "Will Storr",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "story"
@@ -1276,7 +1391,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3249",
       "speakers": [
-        "Will Storr"
+        "Will Storr",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "story",
@@ -1297,7 +1414,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3172",
       "speakers": [
-        "Rajiv Shah"
+        "Rajiv Shah",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "head"
@@ -1314,7 +1433,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2204",
-      "speakers": [],
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
       "topics": [
         "thing",
         "year"
@@ -1332,7 +1454,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3659",
       "speakers": [
-        "Reid Hoffman"
+        "Reid Hoffman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "superagency"
@@ -1350,7 +1474,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4050",
       "speakers": [
-        "Ethan Kross"
+        "Ethan Kross",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "shift",
@@ -1369,7 +1495,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3552",
       "speakers": [
-        "Kari Leibowitz"
+        "Kari Leibowitz",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "winter",
@@ -1392,7 +1520,9 @@
       "speakers": [
         "Daniel Pink",
         "James Clear",
-        "Kim Scott"
+        "Kim Scott",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "drive",
@@ -1417,7 +1547,9 @@
       "itunes_duration": "4603",
       "speakers": [
         "James Clear’s Ultimate Guide",
-        "James Clear"
+        "James Clear",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "james",
@@ -1442,7 +1574,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4289",
       "speakers": [
-        "Deep Purpose"
+        "Deep Purpose",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "purpose",
@@ -1462,7 +1596,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3519",
       "speakers": [
-        "Sara Walker"
+        "Sara Walker",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -1482,7 +1618,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3716",
       "speakers": [
-        "Sara Walker"
+        "Sara Walker",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -1505,7 +1643,9 @@
       "itunes_duration": "3677",
       "speakers": [
         "Seth Godin",
-        "Tony Fadell"
+        "Tony Fadell",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "strategy",
@@ -1524,7 +1664,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3209",
-      "speakers": [],
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
       "topics": [
         "tech",
         "agnostic",
@@ -1546,7 +1689,9 @@
       "itunes_duration": "4056",
       "speakers": [
         "Will Guidara",
-        "Unreasonable Hospitality Take"
+        "Unreasonable Hospitality Take",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "remarkable",
@@ -1568,7 +1713,9 @@
       "speakers": [
         "Ann Wroe",
         "Elizabeth II",
-        "Paul Newman"
+        "Paul Newman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "soul",
@@ -1589,7 +1736,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3905",
       "speakers": [
-        "Lorraine Besser"
+        "Lorraine Besser",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "interesting",
@@ -1608,7 +1757,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2509",
-      "speakers": [],
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
       "topics": [
         "productivity",
         "podclass",
@@ -1627,7 +1779,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4245",
       "speakers": [
-        "David Wengrow"
+        "David Wengrow",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "history",
@@ -1646,7 +1800,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4846",
       "speakers": [
-        "Oliver Burkeman"
+        "Oliver Burkeman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -1667,7 +1823,9 @@
       "itunes_duration": "3371",
       "speakers": [
         "Adam Moss",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "work"
@@ -1688,7 +1846,9 @@
         "Anxious Generation",
         "Jonathan Haidt",
         "Will Storr",
-        "Anna Lembke"
+        "Anna Lembke",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "generation",
@@ -1710,7 +1870,9 @@
       "itunes_duration": "3249",
       "speakers": [
         "Anxious Generation",
-        "Jonathan Haidt"
+        "Jonathan Haidt",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "generation",
@@ -1730,7 +1892,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5510",
       "speakers": [
-        "Will Storr"
+        "Will Storr",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -1751,7 +1915,9 @@
       "speakers": [
         "Malcolm Gladwell",
         "Daniel Pink",
-        "Adam Moss"
+        "Adam Moss",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "revenge",
@@ -1779,7 +1945,9 @@
       "speakers": [
         "Malcolm Gladwell",
         "Daniel Pink",
-        "Adam Moss"
+        "Adam Moss",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "future",
@@ -1803,7 +1971,9 @@
         "Yuval Noah Harari",
         "Safeguard Humanity",
         "Daniel Pink",
-        "Adam Moss"
+        "Adam Moss",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "nexus",
@@ -1827,7 +1997,9 @@
       "itunes_duration": "3563",
       "speakers": [
         "Yuval Noah Harari",
-        "Griscom Guest"
+        "Griscom Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "nexus",
@@ -1853,7 +2025,9 @@
         "Rory Stewart",
         "Bill Gates",
         "Watch Rory",
-        "Ted Talk"
+        "Ted Talk",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "poverty",
@@ -1876,7 +2050,9 @@
         "Michael Lewis Wants",
         "Sam Bankman-Fried",
         "Michael Lewis",
-        "Yuval Noah Harari"
+        "Yuval Noah Harari",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "infinite",
@@ -1901,7 +2077,9 @@
       "speakers": [
         "Jamie Metzl",
         "Yuval Noah Harari",
-        "Azeem Azhar"
+        "Azeem Azhar",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "superconvergence",
@@ -1922,7 +2100,9 @@
       "itunes_duration": "3602",
       "speakers": [
         "Anxious Achiever",
-        "Morra Aarons-Mele"
+        "Morra Aarons-Mele",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "achiever",
@@ -1943,7 +2123,9 @@
       "itunes_duration": "2594",
       "speakers": [
         "Nate Silver",
-        "Sam Bankman-Fried"
+        "Sam Bankman-Fried",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "edge",
@@ -1962,7 +2144,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2560",
       "speakers": [
-        "Nate Silver"
+        "Nate Silver",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "edge",
@@ -1987,7 +2171,9 @@
       "itunes_duration": "4329",
       "speakers": [
         "Sam Bankman-Fried",
-        "Will MacAskill"
+        "Will MacAskill",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "case",
@@ -2008,7 +2194,9 @@
       "itunes_duration": "3960",
       "speakers": [
         "Devon Price",
-        "Griscom Guest"
+        "Griscom Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "laziness"
@@ -2027,7 +2215,9 @@
       "itunes_duration": "3575",
       "speakers": [
         "Edward Slingerland",
-        "Susan Dominus"
+        "Susan Dominus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "alcohol",
@@ -2047,7 +2237,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4447",
       "speakers": [
-        "Emily Austin"
+        "Emily Austin",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "pleasure"
@@ -2066,7 +2258,9 @@
       "itunes_duration": "3119",
       "speakers": [
         "Thomas Bayes",
-        "Tom Chivers"
+        "Tom Chivers",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "probability",
@@ -2087,7 +2281,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3129",
       "speakers": [
-        "Casey Means"
+        "Casey Means",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "energy",
@@ -2107,7 +2303,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3278",
       "speakers": [
-        "Feel Incredible"
+        "Feel Incredible",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "energy",
@@ -2129,7 +2327,9 @@
       "speakers": [
         "Ben Franklin",
         "Benjamin Franklin",
-        "Eric Weiner"
+        "Eric Weiner",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "franklin",
@@ -2154,7 +2354,9 @@
         "Superhuman AI",
         "Andy Sack",
         "Adam Brotman",
-        "Adam’s AI"
+        "Adam’s AI",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "bill",
@@ -2175,7 +2377,9 @@
       "itunes_duration": "2476",
       "speakers": [
         "Adam Grant",
-        "Bob Sutton"
+        "Bob Sutton",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "friction",
@@ -2201,7 +2405,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4189",
       "speakers": [
-        "Steven Johnson"
+        "Steven Johnson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "infernal",
@@ -2230,7 +2436,9 @@
         "Susan Cain",
         "Daniel Pink",
         "Panio Gianopoulos",
-        "Panio Gianopoulos Guest"
+        "Panio Gianopoulos Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "uncertainty",
@@ -2251,7 +2459,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4021",
       "speakers": [
-        "Sal Khan"
+        "Sal Khan",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "khan"
@@ -2275,7 +2485,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "afterlife",
@@ -2302,7 +2514,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "funner",
@@ -2328,7 +2542,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "demon",
@@ -2352,7 +2568,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3183",
       "speakers": [
-        "Scott Galloway"
+        "Scott Galloway",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "algebra",
@@ -2381,7 +2599,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "science",
@@ -2401,7 +2621,9 @@
       "itunes_duration": "3772",
       "speakers": [
         "Cal Newport",
-        "Scott Galloway"
+        "Scott Galloway",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "slow",
@@ -2420,7 +2642,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3350",
       "speakers": [
-        "Amanda Montell"
+        "Amanda Montell",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "magical",
@@ -2444,7 +2668,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "paul",
@@ -2467,7 +2693,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "picture",
@@ -2493,7 +2721,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -2517,7 +2747,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "generosity",
@@ -2542,7 +2774,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "burn",
@@ -2570,7 +2804,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "supercommunicators"
@@ -2588,7 +2824,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3777",
       "speakers": [
-        "Chip Conley"
+        "Chip Conley",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "midlife",
@@ -2608,7 +2846,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4144",
       "speakers": [
-        "Kim Scott"
+        "Kim Scott",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "radical",
@@ -2631,7 +2871,9 @@
       "itunes_duration": "3956",
       "speakers": [
         "Chris Dixon",
-        "Sam Bankman-Fried"
+        "Sam Bankman-Fried",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "blockchain",
@@ -2653,7 +2895,9 @@
       "speakers": [
         "Rajiv Shah",
         "Griscom Guest",
-        "Rajiv Shah Book"
+        "Rajiv Shah Book",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "bets",
@@ -2675,7 +2919,9 @@
       "itunes_duration": "3596",
       "speakers": [
         "Hannah Ritchie",
-        "Caleb Bissinger Guest"
+        "Caleb Bissinger Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "climate",
@@ -2695,7 +2941,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4045",
       "speakers": [
-        "Robert Sapolsky"
+        "Robert Sapolsky",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "better",
@@ -2716,7 +2964,9 @@
       "speakers": [
         "Atomic Habits",
         "James Clear’s Ultimate Guide",
-        "James Clear"
+        "James Clear",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "atomic",
@@ -2743,7 +2993,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3420",
       "speakers": [
-        "Marc Schulz"
+        "Marc Schulz",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -2766,7 +3018,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4349",
       "speakers": [
-        "Edward Slingerland"
+        "Edward Slingerland",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "danced",
@@ -2786,7 +3040,9 @@
       "itunes_duration": "3970",
       "speakers": [
         "Rory Stewart",
-        "Caleb Bissinger Guest"
+        "Caleb Bissinger Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "stewart",
@@ -2807,7 +3063,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3876",
       "speakers": [
-        "Griscom Guest"
+        "Griscom Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "psychology",
@@ -2830,7 +3088,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3981",
       "speakers": [
-        "Cat Bohannon"
+        "Cat Bohannon",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "body",
@@ -2851,7 +3111,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2699",
       "speakers": [
-        "Jessi Hempel"
+        "Jessi Hempel",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "family",
@@ -2872,7 +3134,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4061",
       "speakers": [
-        "Anna Sale"
+        "Anna Sale",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "conversation",
@@ -2895,7 +3159,9 @@
         "Jennifer Breheny Wallace",
         "Daniel Markovits",
         "Daniel Markovits Click",
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "achievement",
@@ -2914,7 +3180,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3510",
       "speakers": [
-        "Amy Edmondson"
+        "Amy Edmondson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "failure",
@@ -2935,7 +3203,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3879",
       "speakers": [
-        "David Brooks"
+        "David Brooks",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "person",
@@ -2956,7 +3226,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4054",
       "speakers": [
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "hidden",
@@ -2981,7 +3253,9 @@
       "itunes_duration": "3125",
       "speakers": [
         "Kashmir Hill",
-        "Panio Gianopoulos"
+        "Panio Gianopoulos",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "recognition",
@@ -3005,7 +3279,9 @@
       "speakers": [
         "Daniel Pink",
         "Brian Lowery",
-        "Jennifer Breheny Wallace"
+        "Jennifer Breheny Wallace",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "daniel",
@@ -3026,7 +3302,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4452",
       "speakers": [
-        "Susan Cain"
+        "Susan Cain",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "susan",
@@ -3048,7 +3326,9 @@
       "itunes_duration": "4298",
       "speakers": [
         "Stuart Russell",
-        "Griscom Guest"
+        "Griscom Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "compatible",
@@ -3070,7 +3350,9 @@
       "speakers": [
         "Unreasonable Hospitality",
         "Will Guidara",
-        "Caleb Bissinger Guest"
+        "Caleb Bissinger Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "unreasonable",
@@ -3096,7 +3378,9 @@
         "Albert Einstein",
         "Benjamin Franklin",
         "Leonardo da Vinci",
-        "Elon Musk"
+        "Elon Musk",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "elon",
@@ -3120,7 +3404,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3742",
       "speakers": [
-        "Brad Stulberg"
+        "Brad Stulberg",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "change",
@@ -3139,7 +3425,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3218",
       "speakers": [
-        "Laura Meckler"
+        "Laura Meckler",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "dream",
@@ -3163,7 +3451,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3401",
       "speakers": [
-        "Mauro Guillén"
+        "Mauro Guillén",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "perennials",
@@ -3182,7 +3472,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4521",
       "speakers": [
-        "Chris van Tulleken"
+        "Chris van Tulleken",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "ultra",
@@ -3205,7 +3497,9 @@
       "itunes_duration": "4092",
       "speakers": [
         "Annie Duke",
-        "Griscom Guest"
+        "Griscom Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "quitting"
@@ -3224,7 +3518,9 @@
       "itunes_duration": "4443",
       "speakers": [
         "Anna Lembke",
-        "Griscom Guest"
+        "Griscom Guest",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "modern",
@@ -3249,7 +3545,8 @@
         "John Kaag",
         "Jonathan Van Belle",
         "Caleb Bissinger",
-        "John Kaag Book"
+        "John Kaag Book",
+        "Rufus Griscom"
       ],
       "topics": [
         "henry",
@@ -3270,7 +3567,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3636",
       "speakers": [
-        "Kate Oliver"
+        "Kate Oliver",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "perfect",
@@ -3292,7 +3591,9 @@
         "Steven Johnson",
         "David Chalmers",
         "John Borthwick",
-        "Michael Specter"
+        "Michael Specter",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "artificial",
@@ -3314,7 +3615,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4435",
       "speakers": [
-        "Catherine Price"
+        "Catherine Price",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "summer"
@@ -3332,7 +3635,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4135",
       "speakers": [
-        "Henry Grabar"
+        "Henry Grabar",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "parking",
@@ -3356,7 +3661,9 @@
         "Tim Spector",
         "Russell Foster",
         "David Chalmers",
-        "John Borthwick"
+        "John Borthwick",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "outlive",
@@ -3382,7 +3689,9 @@
         "Peter Attia",
         "Steven Johnson",
         "David Chalmers",
-        "John Borthwick"
+        "John Borthwick",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "outlive",
@@ -3408,7 +3717,9 @@
         "David Grann Tells",
         "Mutiny David Grann",
         "Caleb Bissinger Guest",
-        "David Grann"
+        "David Grann",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "wager",
@@ -3431,7 +3742,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2841",
       "speakers": [
-        "Adam Gopnik"
+        "Adam Gopnik",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "real",
@@ -3454,7 +3767,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3332",
       "speakers": [
-        "Kelly McGonigal"
+        "Kelly McGonigal",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "movement",
@@ -3480,7 +3795,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "breakthrough",
@@ -3500,7 +3817,9 @@
       "itunes_duration": "2966",
       "speakers": [
         "Kevin Kelly",
-        "Steven Johnson"
+        "Steven Johnson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "excellent",
@@ -3526,7 +3845,9 @@
       "itunes_duration": "3363",
       "speakers": [
         "Brian Lowery",
-        "Steven Johnson"
+        "Steven Johnson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "selfless",
@@ -3546,7 +3867,9 @@
       "enclosure_length": "0",
       "itunes_duration": "632",
       "speakers": [
-        "Steven Johnson"
+        "Steven Johnson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -3570,7 +3893,9 @@
       "itunes_duration": "3439",
       "speakers": [
         "Steven Johnson",
-        "Michael Specter"
+        "Michael Specter",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "steven",
@@ -3593,7 +3918,9 @@
       "enclosure_length": "0",
       "itunes_duration": "884",
       "speakers": [
-        "Michael Kovnat"
+        "Michael Kovnat",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "bedtime",
@@ -3614,7 +3941,9 @@
       "itunes_duration": "3308",
       "speakers": [
         "Gretchen Rubin’s Guide",
-        "Gretchen Rubin"
+        "Gretchen Rubin",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "sens",
@@ -3638,7 +3967,9 @@
       "itunes_duration": "3741",
       "speakers": [
         "Paul Bloom",
-        "Sigmund Freud"
+        "Sigmund Freud",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "psych",
@@ -3659,7 +3990,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3799",
       "speakers": [
-        "Maggie Bullock"
+        "Maggie Bullock",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "preppy",
@@ -3685,7 +4018,9 @@
         "Rupert Murdoch",
         "Jesse Armstrong",
         "Sumner Redstone",
-        "Rachel Abrams"
+        "Rachel Abrams",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "succession",
@@ -3705,7 +4040,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3686",
       "speakers": [
-        "Matthew Desmond"
+        "Matthew Desmond",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "abolish",
@@ -3726,7 +4063,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2869",
       "speakers": [
-        "Maryanne Wolf"
+        "Maryanne Wolf",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "reading"
@@ -3745,7 +4084,9 @@
       "itunes_duration": "6117",
       "speakers": [
         "David Chalmers Thinks",
-        "David Chalmers"
+        "David Chalmers",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "david",
@@ -3765,7 +4106,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3995",
       "speakers": [
-        "Kevin Roose"
+        "Kevin Roose",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "conversation",
@@ -3785,7 +4128,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3483",
       "speakers": [
-        "Dean Rickles"
+        "Dean Rickles",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -3810,7 +4155,9 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "music",
@@ -3829,7 +4176,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4359",
       "speakers": [
-        "Cade Metz"
+        "Cade Metz",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "origin",
@@ -3848,7 +4197,9 @@
       "enclosure_length": "0",
       "itunes_duration": "710",
       "speakers": [
-        "Becky Blades"
+        "Becky Blades",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "failure",
@@ -3869,7 +4220,9 @@
       "itunes_duration": "3502",
       "speakers": [
         "Siddhartha Mukherjee",
-        "Ken Burns"
+        "Ken Burns",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "cells",
@@ -3895,7 +4248,9 @@
         "Susan Cain",
         "Greg McKeown",
         "Daniel Pink",
-        "Kim Scott"
+        "Kim Scott",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -3914,7 +4269,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4398",
       "speakers": [
-        "Emily Austin"
+        "Emily Austin",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "pleasure",
@@ -3939,7 +4296,9 @@
         "Malcolm Gladwell William Cohan",
         "Malcolm Gladwell",
         "William Cohan",
-        "Jack Welch"
+        "Jack Welch",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "power",
@@ -3963,7 +4322,9 @@
       "itunes_duration": "3579",
       "speakers": [
         "Tim Spector",
-        "Twitter Want"
+        "Twitter Want",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "diet",
@@ -3987,7 +4348,9 @@
         "Avoid Burnout",
         "Adam Grant",
         "Atul Gawande",
-        "Being Mortal"
+        "Being Mortal",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "passions",
@@ -4012,7 +4375,9 @@
       "speakers": [
         "Liz Fosslien",
         "Mollie West Duffy",
-        "Susan Cain"
+        "Susan Cain",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "feeling",
@@ -4041,7 +4406,9 @@
         "Jennifer Raff",
         "Christopher Ryan",
         "Ray Dalio",
-        "Jane McGonigal"
+        "Jane McGonigal",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "sapiens",
@@ -4064,7 +4431,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3199",
       "speakers": [
-        "David Sax"
+        "David Sax",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "analog",
@@ -4083,7 +4452,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4051",
       "speakers": [
-        "Russell Foster"
+        "Russell Foster",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "sleep",
@@ -4107,7 +4478,9 @@
         "Alexandra Horowitz",
         "James Bridle",
         "Justin Gregg",
-        "Tom Mustill"
+        "Tom Mustill",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "animals"
@@ -4126,7 +4499,9 @@
       "itunes_duration": "4465",
       "speakers": [
         "Jennifer Aaker",
-        "Naomi Bagdonas"
+        "Naomi Bagdonas",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "humor",
@@ -4150,7 +4525,9 @@
       "itunes_duration": "3266",
       "speakers": [
         "Adam Grant",
-        "Bo Seo"
+        "Bo Seo",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "argument",
@@ -4174,7 +4551,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4195",
       "speakers": [
-        "Chantel Prat"
+        "Chantel Prat",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "neurodiversity",
@@ -4193,7 +4572,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5400",
       "speakers": [
-        "Will Storr"
+        "Will Storr",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "status",
@@ -4215,7 +4596,9 @@
         "Susan Cain",
         "Shankar Vedantam",
         "Lisa Feldman Barrett",
-        "Vivek Murthy"
+        "Vivek Murthy",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "bittersweet",
@@ -4238,7 +4621,9 @@
       "itunes_duration": "3563",
       "speakers": [
         "Eric Barker",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "eric",
@@ -4261,7 +4646,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4548",
       "speakers": [
-        "William MacAskill"
+        "William MacAskill",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "longtermism",
@@ -4281,7 +4668,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4033",
       "speakers": [
-        "Annie Duke"
+        "Annie Duke",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "ahead"
@@ -4298,7 +4687,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3176",
-      "speakers": [],
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
       "topics": [
         "puzzles",
         "crosswords",
@@ -4321,7 +4713,9 @@
       "itunes_duration": "4008",
       "speakers": [
         "Tony Fadell’s Guide",
-        "Tony Fadell"
+        "Tony Fadell",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "build",
@@ -4344,7 +4738,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3779",
       "speakers": [
-        "Douglas Rushkoff"
+        "Douglas Rushkoff",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "survival",
@@ -4367,7 +4763,9 @@
       "itunes_duration": "4169",
       "speakers": [
         "Brooks Shares",
-        "Deep Purpose"
+        "Deep Purpose",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "happiness",
@@ -4393,7 +4791,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3128",
       "speakers": [
-        "Steven Johnson"
+        "Steven Johnson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "deepmind",
@@ -4416,7 +4816,9 @@
       "speakers": [
         "Ron Shelton",
         "Kevin Costner",
-        "Susan Sarandon"
+        "Susan Sarandon",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "summer",
@@ -4438,7 +4840,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3497",
-      "speakers": [],
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
       "topics": [
         "summer",
         "getaway",
@@ -4460,7 +4865,9 @@
       "itunes_duration": "3566",
       "speakers": [
         "Ben McGrath",
-        "Dick Conant"
+        "Dick Conant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "summer",
@@ -4482,7 +4889,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3064",
       "speakers": [
-        "Sarah Stodola"
+        "Sarah Stodola",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "summer",
@@ -4504,7 +4913,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2527",
       "speakers": [
-        "Ryan Holiday"
+        "Ryan Holiday",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "stillness",
@@ -4524,7 +4935,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4431",
       "speakers": [
-        "Amanda Little"
+        "Amanda Little",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "amanda",
@@ -4545,7 +4958,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5408",
       "speakers": [
-        "John Colapinto"
+        "John Colapinto",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "john",
@@ -4570,7 +4985,9 @@
       "speakers": [
         "Daniel Pink",
         "Susan Cain",
-        "Malcolm Gladwell"
+        "Malcolm Gladwell",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "essential",
@@ -4590,7 +5007,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3717",
       "speakers": [
-        "Jody Rosen"
+        "Jody Rosen",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "bicycles",
@@ -4610,7 +5029,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4109",
       "speakers": [
-        "Seth Stephens-Davidowitz"
+        "Seth Stephens-Davidowitz",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "data",
@@ -4633,7 +5054,9 @@
       "itunes_duration": "3377",
       "speakers": [
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "susan",
@@ -4660,7 +5083,9 @@
       "speakers": [
         "Eric Barker",
         "Daniel Pink",
-        "Arthur Aron"
+        "Arthur Aron",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "relationship",
@@ -4680,7 +5105,9 @@
       "itunes_duration": "2942",
       "speakers": [
         "Daniel Pink",
-        "Julie Lythcott-Haims"
+        "Julie Lythcott-Haims",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "grown"
@@ -4698,7 +5125,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4227",
       "speakers": [
-        "Jane McGonigal"
+        "Jane McGonigal",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "future"
@@ -4716,7 +5145,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4330",
       "speakers": [
-        "Daniel Coyle"
+        "Daniel Coyle",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "culture",
@@ -4737,7 +5168,9 @@
       "itunes_duration": "3110",
       "speakers": [
         "Ayelet Fishbach",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "science",
@@ -4757,7 +5190,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2385",
       "speakers": [
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "resignation",
@@ -4779,7 +5214,9 @@
       "itunes_duration": "4343",
       "speakers": [
         "Catherine Price",
-        "Catherine’s books courses"
+        "Catherine’s books courses",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": []
     },
@@ -4798,7 +5235,9 @@
         "Elon Musk",
         "Steven Johnson",
         "Adjacent Possible",
-        "Jill Lepore"
+        "Jill Lepore",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "twitter",
@@ -4827,7 +5266,9 @@
         "Annie Murphy Paul",
         "Steven Pinker",
         "Antonio Damasio",
-        "Extended Mind"
+        "Extended Mind",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "emotional",
@@ -4846,7 +5287,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4151",
       "speakers": [
-        "Jennifer Raff"
+        "Jennifer Raff",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "origin",
@@ -4866,7 +5309,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4412",
       "speakers": [
-        "Susan Cain"
+        "Susan Cain",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "bittersweet",
@@ -4889,7 +5334,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4018",
       "speakers": [
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "regret",
@@ -4910,7 +5357,9 @@
       "itunes_duration": "4111",
       "speakers": [
         "David Chalmers",
-        "Virtual Worlds"
+        "Virtual Worlds",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "simulation"
@@ -4929,7 +5378,9 @@
       "itunes_duration": "3570",
       "speakers": [
         "Paul Bloom",
-        "Susan Cain"
+        "Susan Cain",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "pleasures",
@@ -4953,7 +5404,9 @@
       "itunes_duration": "4371",
       "speakers": [
         "Why Ray Dalio Thinks",
-        "Ray Dalio"
+        "Ray Dalio",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "empire",
@@ -4974,7 +5427,9 @@
       "itunes_duration": "3292",
       "speakers": [
         "Malcolm Gladwell",
-        "Oliver Burkeman"
+        "Oliver Burkeman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "time",
@@ -5000,7 +5455,9 @@
       "speakers": [
         "Elon Musk’s Sci-Fi Visions",
         "Elon Musk",
-        "Jill Lepore"
+        "Jill Lepore",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "evening",
@@ -5025,7 +5482,9 @@
       "speakers": [
         "Wendy Suzuki",
         "Lauren Miller Rogen",
-        "Seth Rogen"
+        "Seth Rogen",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "good",
@@ -5046,7 +5505,9 @@
       "itunes_duration": "4395",
       "speakers": [
         "Wendy Wood",
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "hack",
@@ -5069,7 +5530,9 @@
       "itunes_duration": "2757",
       "speakers": [
         "Vivek Murthy",
-        "Susan Cain"
+        "Susan Cain",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "surgeon",
@@ -5092,7 +5555,9 @@
       "itunes_duration": "3097",
       "speakers": [
         "Dave DeSteno",
-        "Lisa Miller"
+        "Lisa Miller",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "spiritual",
@@ -5114,7 +5579,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4821",
       "speakers": [
-        "David Wengrow"
+        "David Wengrow",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "dawn",
@@ -5134,7 +5601,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4460",
       "speakers": [
-        "Anna Lembke"
+        "Anna Lembke",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "dopamine",
@@ -5159,7 +5628,9 @@
       "speakers": [
         "Achieve Success",
         "Shellye Archambeau",
-        "Susan Cain"
+        "Susan Cain",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "ambition",
@@ -5179,7 +5650,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2931",
       "speakers": [
-        "Lydia Denworth"
+        "Lydia Denworth",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "friendship",
@@ -5202,7 +5675,9 @@
       "speakers": [
         "Jeff Bezos",
         "Lex Luther",
-        "Vin Diesel"
+        "Vin Diesel",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "exponential",
@@ -5222,7 +5697,9 @@
       "itunes_duration": "2632",
       "speakers": [
         "Spread Ideas",
-        "Henry Timms"
+        "Henry Timms",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "power",
@@ -5246,7 +5723,9 @@
       "speakers": [
         "Hockey Coach",
         "Alexi Pappas",
-        "Tom Vanderbilt"
+        "Tom Vanderbilt",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "sports",
@@ -5270,7 +5749,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3845",
       "speakers": [
-        "Antonio Damasio"
+        "Antonio Damasio",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "feeling",
@@ -5295,7 +5776,9 @@
         "Annie Murphy Paul",
         "Malcolm Gladwell",
         "Susan Cain",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "adam",
@@ -5317,7 +5800,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3911",
       "speakers": [
-        "Devon Price"
+        "Devon Price",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "laziness",
@@ -5338,7 +5823,9 @@
       "speakers": [
         "Katy Milkman",
         "Daniel Pink",
-        "Harry Potter"
+        "Harry Potter",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "science",
@@ -5363,7 +5850,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3776",
       "speakers": [
-        "Steven Pinker"
+        "Steven Pinker",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "rationality",
@@ -5387,7 +5876,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3708",
       "speakers": [
-        "Safi Bahcall"
+        "Safi Bahcall",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "loonshots",
@@ -5414,7 +5905,9 @@
       "itunes_duration": "2783",
       "speakers": [
         "Christopher Cox",
-        "Rivka Galchen"
+        "Rivka Galchen",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "deadline",
@@ -5434,7 +5927,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4266",
       "speakers": [
-        "Steven Johnson"
+        "Steven Johnson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -5456,7 +5951,9 @@
       "speakers": [
         "Melinda Wenner",
         "Rogers Neighborhood",
-        "Emily Oster"
+        "Emily Oster",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "parenting",
@@ -5477,7 +5974,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4112",
       "speakers": [
-        "Christian Jarrett"
+        "Christian Jarrett",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "science"
@@ -5496,7 +5995,9 @@
       "itunes_duration": "2526",
       "speakers": [
         "Ingrid Fetell Lee",
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "joyful",
@@ -5522,7 +6023,9 @@
         "Adam Neumann",
         "Eliot Brown",
         "Maureen Farrell",
-        "Mike Isaac"
+        "Mike Isaac",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "cult",
@@ -5541,7 +6044,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2842",
       "speakers": [
-        "James Nestor"
+        "James Nestor",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "breath",
@@ -5563,7 +6068,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4349",
       "speakers": [
-        "Edward Slingerland"
+        "Edward Slingerland",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "drunk",
@@ -5584,7 +6091,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4240",
       "speakers": [
-        "Anna Sale"
+        "Anna Sale",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "death",
@@ -5608,7 +6117,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3483",
       "speakers": [
-        "Malcolm Gladwell"
+        "Malcolm Gladwell",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "bomber",
@@ -5635,7 +6146,9 @@
       "speakers": [
         "Teddy Roosevelt",
         "Greg McKeown",
-        "Jon Acuff"
+        "Jon Acuff",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "effortless",
@@ -5657,7 +6170,9 @@
       "itunes_duration": "3021",
       "speakers": [
         "Susan Cain",
-        "Amanda Ripley"
+        "Amanda Ripley",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "conflict",
@@ -5681,7 +6196,9 @@
       "itunes_duration": "4450",
       "speakers": [
         "Extended Mind",
-        "Annie Murphy Paul"
+        "Annie Murphy Paul",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "extended",
@@ -5702,7 +6219,9 @@
       "itunes_duration": "3501",
       "speakers": [
         "Shankar Vedantam",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "delusion",
@@ -5728,7 +6247,9 @@
       "itunes_duration": "4230",
       "speakers": [
         "Frank Rosenblatt",
-        "Cade Metz"
+        "Cade Metz",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "extraordinary",
@@ -5750,7 +6271,9 @@
       "itunes_duration": "4351",
       "speakers": [
         "Michael Heller",
-        "James Salzman"
+        "James Salzman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "rules",
@@ -5771,7 +6294,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2765",
       "speakers": [
-        "Priya Parker"
+        "Priya Parker",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": []
     },
@@ -5787,7 +6312,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4409",
       "speakers": [
-        "Cal Newport"
+        "Cal Newport",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "email",
@@ -5807,7 +6334,9 @@
       "itunes_duration": "2712",
       "speakers": [
         "Adam Grant",
-        "James Suzman"
+        "James Suzman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "adam",
@@ -5833,7 +6362,9 @@
         "Walter Isaacson",
         "Jennifer Doudna",
         "Ben Franklin",
-        "Steve Jobs"
+        "Steve Jobs",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "code",
@@ -5855,7 +6386,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4508",
       "speakers": [
-        "Amanda Little"
+        "Amanda Little",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "food",
@@ -5875,7 +6408,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3782",
       "speakers": [
-        "Ethan Kross"
+        "Ethan Kross",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "chatter",
@@ -5896,7 +6431,9 @@
       "itunes_duration": "4498",
       "speakers": [
         "Jennifer Aaker",
-        "Naomi Bagdonas"
+        "Naomi Bagdonas",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "humor",
@@ -5916,7 +6453,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4288",
       "speakers": [
-        "Tom Vanderbilt"
+        "Tom Vanderbilt",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "beginner",
@@ -5936,7 +6475,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5335",
       "speakers": [
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "adam",
@@ -5957,7 +6498,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5524",
       "speakers": [
-        "John Colapinto"
+        "John Colapinto",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "voice"
@@ -5976,7 +6519,9 @@
       "itunes_duration": "3629",
       "speakers": [
         "Lisa Feldman Barrett",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "brain",
@@ -5998,7 +6543,9 @@
       "itunes_duration": "3766",
       "speakers": [
         "Good Luck",
-        "Christian Busch"
+        "Christian Busch",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "serendipity",
@@ -6018,7 +6565,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5036",
       "speakers": [
-        "Carl Hart"
+        "Carl Hart",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "drug",
@@ -6038,7 +6587,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4121",
       "speakers": [
-        "Scott Galloway"
+        "Scott Galloway",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "post",
@@ -6061,7 +6612,9 @@
       "itunes_duration": "147",
       "speakers": [
         "New Ideas",
-        "Next Big Idea"
+        "Next Big Idea",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "season",
@@ -6082,7 +6635,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3957",
       "speakers": [
-        "Sam Harris"
+        "Sam Harris",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "harris",
@@ -6102,7 +6657,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2975",
       "speakers": [
-        "Maria Konnikova"
+        "Maria Konnikova",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "mind",
@@ -6124,7 +6681,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3122",
       "speakers": [
-        "Scott Barry Kaufman"
+        "Scott Barry Kaufman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "transcendence",
@@ -6143,7 +6702,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2868",
       "speakers": [
-        "Rutger Bregman"
+        "Rutger Bregman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "humankind",
@@ -6165,7 +6726,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2836",
       "speakers": [
-        "Sonia Shah"
+        "Sonia Shah",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "migration",
@@ -6185,7 +6748,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2862",
       "speakers": [
-        "James Nestor"
+        "James Nestor",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "breath",
@@ -6206,7 +6771,9 @@
       "itunes_duration": "2999",
       "speakers": [
         "Change People’s Minds Businesses",
-        "Jonah Berger"
+        "Jonah Berger",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "persuasion",
@@ -6226,7 +6793,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2885",
       "speakers": [
-        "Ainissa Ramirez"
+        "Ainissa Ramirez",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "alchemy",
@@ -6246,7 +6815,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2797",
       "speakers": [
-        "Dan Heath"
+        "Dan Heath",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "problem"
@@ -6264,7 +6835,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3046",
       "speakers": [
-        "Christopher Ryan"
+        "Christopher Ryan",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "civilization",
@@ -6285,7 +6858,9 @@
       "itunes_duration": "2846",
       "speakers": [
         "Vivek Murthy",
-        "Susan Cain"
+        "Susan Cain",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "doctor",
@@ -6307,7 +6882,9 @@
       "itunes_duration": "2764",
       "speakers": [
         "Olga Khazan",
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "weirdness",
@@ -6326,7 +6903,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2681",
       "speakers": [
-        "Peggy Orenstein"
+        "Peggy Orenstein",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "boys",
@@ -6345,7 +6924,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3000",
       "speakers": [
-        "Lydia Denworth"
+        "Lydia Denworth",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "friendship",
@@ -6368,7 +6949,9 @@
       "itunes_duration": "2855",
       "speakers": [
         "Malcolm Gladwell",
-        "Steven Johnson"
+        "Steven Johnson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "life",
@@ -6387,7 +6970,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2662",
       "speakers": [
-        "Kate Murphy"
+        "Kate Murphy",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "listening"
@@ -6405,7 +6990,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2889",
       "speakers": [
-        "Daniel Levitin"
+        "Daniel Levitin",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "successful",
@@ -6426,7 +7013,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2881",
       "speakers": [
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -6449,7 +7038,9 @@
       "itunes_duration": "2215",
       "speakers": [
         "Rethinking Big Ideas",
-        "Priya Parker"
+        "Priya Parker",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -6470,7 +7061,9 @@
       "itunes_duration": "1893",
       "speakers": [
         "Rethinking Big Ideas",
-        "Yancey Strickler"
+        "Yancey Strickler",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -6491,7 +7084,9 @@
       "itunes_duration": "2498",
       "speakers": [
         "Rethinking Big Ideas",
-        "Daniel Pink"
+        "Daniel Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -6514,7 +7109,9 @@
       "itunes_duration": "1800",
       "speakers": [
         "Rethinking Big Ideas",
-        "Ingrid Fetell Lee"
+        "Ingrid Fetell Lee",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -6535,7 +7132,9 @@
       "itunes_duration": "1968",
       "speakers": [
         "Rethinking Big Ideas",
-        "Steven Johnson"
+        "Steven Johnson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -6558,7 +7157,9 @@
       "itunes_duration": "1421",
       "speakers": [
         "Rethinking Big Ideas",
-        "Susan Cain"
+        "Susan Cain",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "idea",
@@ -6580,7 +7181,9 @@
       "itunes_duration": "2692",
       "speakers": [
         "Leonardo da Vinci",
-        "Ryan Holiday"
+        "Ryan Holiday",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "stillness",
@@ -6602,7 +7205,9 @@
       "itunes_duration": "2847",
       "speakers": [
         "Andrew Yang Thinks",
-        "Andrew Yang"
+        "Andrew Yang",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "money",
@@ -6626,7 +7231,9 @@
       "speakers": [
         "Wendy Wood",
         "Bad Habits",
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "habit",
@@ -6645,7 +7252,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2723",
       "speakers": [
-        "Priya Parker"
+        "Priya Parker",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "time"
@@ -6663,7 +7272,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2919",
       "speakers": [
-        "Yancey Strickler"
+        "Yancey Strickler",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "future",
@@ -6682,7 +7293,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2792",
       "speakers": [
-        "Daniel Markovits"
+        "Daniel Markovits",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "success",
@@ -6701,7 +7314,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2499",
       "speakers": [
-        "Malcolm Gladwell"
+        "Malcolm Gladwell",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "trust",
@@ -6722,7 +7337,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2610",
       "speakers": [
-        "Henry Timms"
+        "Henry Timms",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "power"
@@ -6740,7 +7357,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2656",
       "speakers": [
-        "Don Hoffman"
+        "Don Hoffman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "perception",
@@ -6759,7 +7378,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2829",
       "speakers": [
-        "Zachary Wood"
+        "Zachary Wood",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "free",
@@ -6780,7 +7401,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2602",
       "speakers": [
-        "Buster Benson"
+        "Buster Benson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "conflict",
@@ -6800,7 +7423,9 @@
       "itunes_duration": "2483",
       "speakers": [
         "Ingrid Fetell Lee",
-        "Adam Grant"
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "joyful",
@@ -6819,7 +7444,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2474",
       "speakers": [
-        "Clive Thompson"
+        "Clive Thompson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "coder",
@@ -6840,7 +7467,9 @@
       "itunes_duration": "2585",
       "speakers": [
         "Jennifer Eberhardt",
-        "Dan Pink"
+        "Dan Pink",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "racial",
@@ -6861,7 +7490,9 @@
       "speakers": [
         "Staying Focused",
         "Distractions Nir Eyal",
-        "Silicon Valley"
+        "Silicon Valley",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "indistractable",
@@ -6882,7 +7513,9 @@
       "itunes_duration": "2840",
       "speakers": [
         "Malcolm Gladwell",
-        "David Epstein"
+        "David Epstein",
+        "Rufus Griscom",
+        "Caleb Bissinger"
       ],
       "topics": [
         "range",
@@ -6902,7 +7535,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "184",
-      "speakers": [],
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
       "topics": [
         "idea"
       ]
@@ -6914,317 +7550,317 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — The Science of Change — speakers: Maya Shankar, Follow Rufus, Tim Kreider, George Saunders, David Marchese
-- 2026-02-12 — Six Simple Rules for a Long and Healthy Life — speakers: Healthy Life, Russell Foster, Tim Spector, Kelly McGonigal, Chris van Tulleken, Eric Topol, Follow Rufus
-- 2026-02-05 — A Practical Guide to Achieving Excellence — speakers: Brad Stulberg
-- 2026-01-29 — Does "Mattering" Explain Everything? — speakers: Jennifer Wallace, Rebecca Goldstein
-- 2026-01-22 — The Superpower You Didn’t Know You Had — speakers: Kate Murphy, Charles Duhigg, David Brooks, John Colapinto, Follow Rufus
-- 2026-01-15 — ‘It’s a Real Company Run by Fake People’ — speakers: Evan Ratliff
-- 2026-01-08 — CRYPTO: Is It Quietly Transforming the Global Economy? — speakers: Jeremy Allaire, Walter Isaacson, NextBigIdeaClub Want, Follow Rufus
-- 2026-01-06 — Why the Blockchain Is Still Critical to Our Future — speakers: Chris Dixon
-- 2025-12-28 — Reading Rewired the Human Brain. What Happens If We Stop Doing It? — speakers: Maryanne Wolf
-- 2025-12-23 — How to Make Your Holiday Gatherings Memorable — speakers: Priya Parker
-- 2025-12-16 — FLOURISH: Daniel Coyle on the Art and Science of Feeling Alive — speakers: Daniel Coyle
-- 2025-12-11 — Kari Leibowitz Loves Winter (And You Can Too) — speakers: Kari Leibowitz
-- 2025-12-04 — Best Of: How Successful Groups Work — speakers: Daniel Coyle
-- 2025-12-02 — AI and the Future of the University — speakers: Nabiha Syed, Nicholas Dirks, Julie Samuels, Matthew Johnson-Roberson, Sal Khan
-- 2025-11-27 — Best Of: David Brooks on the Art of Seeing Others Deeply — speakers: David Brooks, Griscom Guest, David Brooks Book
-- 2025-11-25 — STRONG GROUND: Brené Brown on the Daring Leadership the World Needs Now — speakers: Brené Brown, Adam Grant, Strong Ground, Walter Isaacson
-- 2025-11-20 — Brené Brown on courageous leadership (from ReThinking with Adam Grant) — speakers: Brené Brown, Adam Grant, Strong Ground, Walter Isaacson
-- 2025-11-18 — Walter Isaacson on The Greatest Sentence Ever Written — speakers: Walter Isaacson, Elon Musk, Steve Jobs, Benjamin Franklin, Jennifer Doudna
-- 2025-11-13 — Best Of: Decoding Elon Musk — speakers: Walter Isaacson, Steve Jobs, Albert Einstein, Benjamin Franklin, Leonardo da Vinci, Elon Musk
-- 2025-11-06 — Andrew Ross Sorkin: What the Crash of 1929 Says About Today — speakers: Andrew Ross Sorkin
-- 2025-10-30 — Atlantic CEO Nick Thompson on What Running Can Teach Us — speakers: Nick Thompson
-- 2025-10-23 — COMMON KNOWLEDGE: Steven Pinker on Awkward Dates, Cancel Culture and the Necessity of Norms — speakers: Steven Pinker, Awkward Dates, Cancel Culture, Common Knowledge, Brené Brown, Follow Rufus
-- 2025-10-16 — A Food Crisis Is Brewing. Are We Ready? — speakers: Sam Kass
-- 2025-10-09 — The Future Is Going to Be Great — speakers: Dave Blundin, Link Ventures, Follow Rufus
-- 2025-10-02 — PRIMAL INTELLIGENCE: You’re Smarter Than You Realize — speakers: Malcolm Gladwell, Follow Rufus
-- 2025-09-25 — STEVEN PINKER: How Common Knowledge and Rationality Make the World Go Round — speakers: Steven Pinker, Follow Rufus
-- 2025-09-18 — AI & THE BRAIN: How Different Are They? — speakers: Gaurav Suri, Jay McClelland, Follow Rufus
-- 2025-09-11 — Best Of: Jonathan Haidt on What Social Media Is Doing to Our Kids — speakers: Jonathan Haidt, Follow Rufus
-- 2025-09-04 — ARTHUR C. BROOKS: Success Won’t Make You Happy — Here’s What Will — speakers: Follow Rufus
-- 2025-08-28 — THE FUTURE OF WRITING: A Conversation with Ethan Mollick and Steven Johnson — speakers: Ethan Mollick, Steven Johnson, Andy Sack
-- 2025-08-21 — Best Of: Sebastian Junger’s Journey to the Edge and Back — speakers: Sebastian Junger’s Journey, Sebastian Junger, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2025-08-14 — INTUITION: The Science of Trusting Your Gut — speakers: Laura Huang
-- 2025-08-07 — Can Rogue Archeologists Bring the Past Back to Life? — speakers: Sam Kean
-- 2025-07-31 — WHAT WE VALUE: A Neuroscientist's Guide to Making Better Choices — speakers: Emily Falk
-- 2025-07-24 — SUPER AGERS (Part 2): Eric Topol on Sleep, GLP-1s, and AI — speakers: Eric Topol, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2025-07-17 — SUPER AGERS (Part 1): The Revolutionary New Science of Longevity — speakers: Eric Topol
-- 2025-07-10 — GENIUS MYTH: The Dangerous Allure of Rule-Breakers — speakers: Arthur Schopenhauer, Thomas Edison, Helen Lewis
-- 2025-07-03 — Best Of: Life Lessons From Wired Co-Founder Kevin Kelly — speakers: Kevin Kelly
-- 2025-06-26 — AI FIRST: The Tsunami Is Already Here — speakers: Andy Sack, Adam Brotman
-- 2025-06-19 — Best Of: Michael Lewis Runs Toward Pleasure — speakers: Michael Lewis Runs Toward, Michael Lewis, Sam Bankman-Fried
-- 2025-06-12 — How Susan Cain Found Her Voice — speakers: Susan Cain, Susan’s Substack
-- 2025-06-05 — HOPE FOR CYNICS: The Surprising Science of Human Goodness — speakers: Jamil Zaki, Malcolm Gladwell, Susan Cain, Daniel Pink, Adam Grant
-- 2025-05-29 — RISE ABOVE: How to Realize Your Full Potential — speakers: Scott Barry Kaufman
-- 2025-05-22 — MORAL AMBITION: Are You Wasting Your Talent? — speakers: Rutger Bregman
-- 2025-05-15 — NVIDIA: Jensen Huang Bet Big on AI. What Comes Next? — speakers: Jensen Huang Bet Big, Stephen Witt, Jensen Huang, Walter Isaacson, Elon Musk
-- 2025-05-08 — EXPLORATION: Why We Seek Out Big Challenges — speakers: Alex Hutchinson, David Grann
-- 2025-05-01 — AI 2027: What If Superhuman AI Is Right Around the Corner? — speakers: Superhuman AI, Daniel Kokotajlo
-- 2025-04-24 — THE ART OF EDITING: Graydon Carter on the Golden Age of Magazines — speakers: Graydon Carter, Michael Lewis, Sebastian Junger, Kara Swisher, David Grann
-- 2025-04-17 — FAMILY DYNAMICS: Unraveling the Mystery of Sibling Success — speakers: Family Dynamics, Susan Dominus
-- 2025-04-10 — ABUNDANCE: Derek Thompson on How to Actually Rebuild the American Dream — speakers: Derek Thompson, Ezra Klein
-- 2025-04-03 — WHY GIVERS WIN: Adam Grant Revisits 'Give and Take' — speakers: Adam Grant Revisits, Adam Grant, Daniel Pink, Kim Scott, James Clear
-- 2025-03-27 — BITCOIN: A 15-Year Quest to Unmask the Mysterious Inventor of Crypto — speakers: Satoshi Nakamoto, Ben Wallace, Nakamoto Want
-- 2025-03-20 — YOU, BUT BETTER: The Science and Promise of Personality Change — speakers: Olga Khazan, Daniel Pink Guest
-- 2025-03-13 — CARL ZIMMER: The Untold Story of the Air We Breathe — speakers: Hidden History, Carl Zimmer
-- 2025-03-06 — SAHIL BLOOM: The 5 Types of Wealth — speakers: Sahil Bloom
-- 2025-02-27 — STORY: How to Tell a Great One (Part 2) — speakers: Will Storr
-- 2025-02-20 — STORY: The Science Behind Humanity’s Superpower (Part 1) — speakers: Will Storr
-- 2025-02-13 — The Former Head of USAID on Why Foreign Aid Benefits Everyone — speakers: Rajiv Shah
-- 2025-02-06 — Three Things We Learned Last Year
-- 2025-01-30 — SUPERAGENCY: What Could Go Right With AI? — speakers: Reid Hoffman
-- 2025-01-23 — SHIFT: How to Manage Your Emotions — speakers: Ethan Kross
-- 2025-01-16 — WINTER: The Secret to Thriving in the Darkest Season — speakers: Kari Leibowitz
-- 2025-01-09 — DRIVE: A Fresh Look at the Science of Motivation (with Daniel Pink) — speakers: Daniel Pink, James Clear, Kim Scott
-- 2025-01-02 — James Clear’s Ultimate Guide to Building Good Habits (Encore) — speakers: James Clear’s Ultimate Guide, James Clear
-- 2024-12-26 — How to Find Purpose, Meaning, and Success (2022) — speakers: Deep Purpose
-- 2024-12-19 — WHAT IS LIFE? (Part 2): Consciousness, AI, and Aliens — speakers: Sara Walker
-- 2024-12-17 — WHAT IS LIFE? (Part 1): A Mind-Bending Conversation with Sara Walker — speakers: Sara Walker
-- 2024-12-12 — STRATEGY: How to Make Better Plans — speakers: Seth Godin, Tony Fadell
-- 2024-12-05 — TECH AGNOSTIC: How Technology Became the World's Top Religion
-- 2024-11-28 — The Remarkable Power of Giving People More Than They Expect (2023) — speakers: Will Guidara, Unreasonable Hospitality Take
-- 2024-11-21 — CATCHING SOULS: An Obituary Writer’s Lessons for Living — speakers: Ann Wroe, Elizabeth II, Paul Newman
-- 2024-11-18 — THE INTERESTING: How to Live the Good Life — speakers: Lorraine Besser
-- 2024-11-14 — A Productivity Podclass with Cal Newport
-- 2024-11-07 — Human History Is Not Set In Stone — speakers: David Wengrow
-- 2024-10-31 — Want a More Meaningful Life? Embrace Your Limitations. — speakers: Oliver Burkeman
-- 2024-10-24 — THE WORK OF ART: How Something Comes From Nothing — speakers: Adam Moss, Daniel Pink
-- 2024-10-17 — ANXIOUS GENERATION (Part 2): How to Raise Resilient Kids in the Digital Age — speakers: Anxious Generation, Jonathan Haidt, Will Storr, Anna Lembke
-- 2024-10-14 — ANXIOUS GENERATION (Part 1): What Social Media Is Doing to Our Kids — speakers: Anxious Generation, Jonathan Haidt
-- 2024-10-10 — Life Is a Game. Here's How to Play It. — speakers: Will Storr
-- 2024-10-03 — REVENGE OF THE TIPPING POINT: Malcolm Gladwell Revisits the Science of Social Contagion — speakers: Malcolm Gladwell, Daniel Pink, Adam Moss
-- 2024-09-26 — The Future of Storytelling, According to Malcolm Gladwell — speakers: Malcolm Gladwell, Daniel Pink, Adam Moss
-- 2024-09-19 — NEXUS (Part 2): Yuval Noah Harari on How to Safeguard Humanity in the Age of AI — speakers: Yuval Noah Harari, Safeguard Humanity, Daniel Pink, Adam Moss
-- 2024-09-16 — NEXUS (Part 1): Can Democracy Survive the AI Revolution? (with Yuval Noah Harari) — speakers: Yuval Noah Harari, Griscom Guest
-- 2024-09-12 — Can We End Poverty by Just Giving People Cash? — speakers: Rory Stewart, Bill Gates, Watch Rory, Ted Talk
-- 2024-09-05 — GOING INFINITE: Michael Lewis Wants to Change Your Mind About Sam Bankman-Fried — speakers: Michael Lewis Wants, Sam Bankman-Fried, Michael Lewis, Yuval Noah Harari
-- 2024-08-29 — SUPERCONVERGENCE: Biotechnology Is About to Transform the World. Are We Ready? — speakers: Jamie Metzl, Yuval Noah Harari, Azeem Azhar
-- 2024-08-22 — ANXIOUS ACHIEVER: How You Can Turn Anxiety Into a Superpower — speakers: Anxious Achiever, Morra Aarons-Mele
-- 2024-08-15 — ON THE EDGE (Part 2): How to Get Ahead by Thinking Probabilistically — speakers: Nate Silver, Sam Bankman-Fried
-- 2024-08-12 — ON THE EDGE (Part 1): Nate Silver on Politics, Poker, and Risk-Taking — speakers: Nate Silver
-- 2024-08-08 — The Case for Effective Altruism — speakers: Sam Bankman-Fried, Will MacAskill
-- 2024-08-01 — Laziness Does Not Exist — speakers: Devon Price, Griscom Guest
-- 2024-07-25 — ALCOHOL: The Good, the Bad, and the Bubbly — speakers: Edward Slingerland, Susan Dominus
-- 2024-07-22 — Living for Pleasure — speakers: Emily Austin
-- 2024-07-18 — PROBABILITY: How a 250-Year-Old Theorem Still Explains the World — speakers: Thomas Bayes, Tom Chivers
-- 2024-07-11 — GOOD ENERGY (Part 2): Casey Means on How to Supercharge Your Diet — speakers: Casey Means
-- 2024-07-08 — GOOD ENERGY (Part 1): How to Feel Incredible, Avoid Disease, and Age Well — speakers: Feel Incredible
-- 2024-07-04 — BEN FRANKLIN: A Founder's Formula for a Long and Useful Life — speakers: Ben Franklin, Benjamin Franklin, Eric Weiner
-- 2024-06-27 — Bill Gates Says Superhuman AI May Be Closer Than You Think — speakers: Bill Gates, Superhuman AI, Andy Sack, Adam Brotman, Adam’s AI
-- 2024-06-20 — FRICTION: How Smart Leaders Make the Right Things Easier (with Adam Grant & Bob Sutton) — speakers: Adam Grant, Bob Sutton
-- 2024-06-13 — INFERNAL MACHINE: Dynamite, Anarchy and the Future of Creativity — speakers: Steven Johnson
-- 2024-06-06 — UNCERTAINTY: The Surprising Power of Being Unsure — speakers: Maggie Jackson, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Panio Gianopoulos, Panio Gianopoulos Guest
-- 2024-05-30 — SAL KHAN: How AI Will Revolutionize the Way We Learn — speakers: Sal Khan
-- 2024-05-23 — AFTERLIFE: Sebastian Junger’s Journey to the Edge and Back — speakers: Sebastian Junger’s Journey, Sebastian Junger, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-05-16 — FUNNER: How Language Evolves and Why It Matters — speakers: Anne Curzan, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-05-09 — DEMON OF UNREST: Why the Civil War Matters Today (with Erik Larson) — speakers: Erik Larson, Abraham Lincoln, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-05-02 — ALGEBRA OF WEALTH: Scott Galloway’s Formula for Financial Success — speakers: Scott Galloway
-- 2024-04-25 — WHY WE REMEMBER: The New Science of Improving Your Memory — speakers: Jean Renoir, Charan Ranganath, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-04-18 — SLOW PRODUCTIVITY: Can We Get More Done by Doing Less? — speakers: Cal Newport, Scott Galloway
-- 2024-04-11 — MAGICAL OVERTHINKING: Why Modern Life Is Making Us More Irrational — speakers: Amanda Montell
-- 2024-04-04 — Everything Paul Bloom Knows About Psychology — speakers: Paul Bloom, Sigmund Freud, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-03-28 — GET THE PICTURE: Why Bother With Art? — speakers: Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-03-21 — LOOK AGAIN: How to See Your Life With Fresh Eyes — speakers: Logan Roy, Tali Sharot, Sharot Host, Michael Kovnat, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-03-14 — GENEROSITY: How Simple Acts of Kindness Can Change the World — speakers: Chris Anderson, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-03-07 — BURN BOOK: Kara Swisher Takes on Big Tech — speakers: Kara Swisher, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-02-29 — SUPERCOMMUNICATORS: How to Connect With Anyone — speakers: Oscar Wilde, Charles Duhigg, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2024-02-22 — MIDLIFE: Once a Crisis, Now an Opportunity — speakers: Chip Conley
-- 2024-02-15 — RADICAL CANDOR: Why Compassionate Honesty Is a Gift — speakers: Kim Scott
-- 2024-02-08 — BLOCKCHAIN: Why Chris Dixon Still Thinks It Matters — speakers: Chris Dixon, Sam Bankman-Fried
-- 2024-02-01 — BIG BETS: A Practical Guide to Changing the World — speakers: Rajiv Shah, Griscom Guest, Rajiv Shah Book
-- 2024-01-25 — CLIMATE OPTIMISM: Can We Still Build a Sustainable World? — speakers: Hannah Ritchie, Caleb Bissinger Guest
-- 2024-01-18 — FREE WILL: Are We Better Off Without It? — speakers: Robert Sapolsky
-- 2024-01-11 — ATOMIC HABITS: James Clear’s Ultimate Guide to Building Good Habits (and Breaking Bad Ones) — speakers: Atomic Habits, James Clear’s Ultimate Guide, James Clear
-- 2024-01-04 — THE GOOD LIFE: Lessons From the World's Longest Study of Happiness — speakers: Marc Schulz
-- 2023-12-28 — How We Sipped, Danced, and Stumbled Our Way to Civilization (2021) — speakers: Edward Slingerland
-- 2023-12-21 — Rory Stewart on Politics, Ambition, and Making a Difference — speakers: Rory Stewart, Caleb Bissinger Guest
-- 2023-12-14 — PSYCHOLOGY OF MONEY: Timeless Lessons from Morgan Housel — speakers: Griscom Guest
-- 2023-12-07 — EVE: How the Female Body Drove 200 Million Years of Human Evolution — speakers: Cat Bohannon
-- 2023-11-30 — THE FAMILY OUTING: Secrets, Memory, and Living Authentically — speakers: Jessi Hempel
-- 2023-11-23 — Mastering the Art of Difficult Conversations (with Anna Sale) — speakers: Anna Sale
-- 2023-11-16 — ACHIEVEMENT CULTURE: What It’s Doing to Our Kids—and to Us — speakers: Jennifer Breheny Wallace, Daniel Markovits, Daniel Markovits Click, Adam Grant
-- 2023-11-09 — FAILURE: The Science of Learning From Your Mistakes — speakers: Amy Edmondson
-- 2023-11-02 — HOW TO KNOW A PERSON: The Art of Seeing Others Deeply (with David Brooks) — speakers: David Brooks
-- 2023-10-26 — HIDDEN POTENTIAL: Adam Grant on the Science of Achieving Greater Things — speakers: Adam Grant
-- 2023-10-19 — FACIAL RECOGNITION: A Secretive Startup's Quest to End Privacy as We Know It — speakers: Kashmir Hill, Panio Gianopoulos
-- 2023-10-12 — Daniel Pink and Brian Lowery Aren’t Sure That You Exist — speakers: Daniel Pink, Brian Lowery, Jennifer Breheny Wallace
-- 2023-10-05 — Susan Cain on the Power of the Bittersweet (2022) — speakers: Susan Cain
-- 2023-09-28 — HUMAN COMPATIBLE: Can We Control Artificial Intelligence? — speakers: Stuart Russell, Griscom Guest
-- 2023-09-21 — UNREASONABLE HOSPITALITY: The Power of Giving People More Than They Expect — speakers: Unreasonable Hospitality, Will Guidara, Caleb Bissinger Guest
-- 2023-09-14 — ELON MUSK: Walter Isaacson on the World’s Most Polarizing Person — speakers: Walter Isaacson, Steve Jobs, Albert Einstein, Benjamin Franklin, Leonardo da Vinci, Elon Musk
-- 2023-09-07 — CHANGE: How to Excel When Everything Is in Flux — speakers: Brad Stulberg
-- 2023-08-31 — DREAM TOWN: Shaker Heights and the Quest for Racial Equity — speakers: Laura Meckler
-- 2023-08-24 — PERENNIALS: How to Thrive in a Post-Generational Society — speakers: Mauro Guillén
-- 2023-08-17 — ULTRA-PROCESSED: What Fake Food Is Doing to Our Health — speakers: Chris van Tulleken
-- 2023-08-10 — How to Succeed by Quitting (2022) — speakers: Annie Duke, Griscom Guest
-- 2023-08-03 — Why the Modern World Puts Us All at Risk for Addiction (2021) — speakers: Anna Lembke, Griscom Guest
-- 2023-07-27 — WORK: Henry David Thoreau on Making a Meaningful Living — speakers: Henry David Thoreau, John Kaag, Jonathan Van Belle, Caleb Bissinger, John Kaag Book
-- 2023-07-20 — RISE AND SHINE: How to Have the Perfect Morning — speakers: Kate Oliver
-- 2023-07-13 — Artificial Intelligence Meets Virtual Worlds: The Future of Sentience — speakers: Steven Johnson, David Chalmers, John Borthwick, Michael Specter
-- 2023-07-06 — You Should Have More Fun This Summer. Here’s Why. — speakers: Catherine Price
-- 2023-06-29 — PARKING: How It Explains the World — speakers: Henry Grabar
-- 2023-06-22 — OUTLIVE (Part 2): How to Optimize Your Diet, Sleep, and Emotional Health — speakers: Peter Attia, Steven Johnson, Tim Spector, Russell Foster, David Chalmers, John Borthwick
-- 2023-06-15 — OUTLIVE (Part 1): Peter Attia’s Guide to the Science of Longevity — speakers: Peter Attia’s Guide, Peter Attia, Steven Johnson, David Chalmers, John Borthwick
-- 2023-06-08 — THE WAGER: David Grann Tells a Tale of Shipwreck and Mutiny — speakers: David Grann Tells, Mutiny David Grann, Caleb Bissinger Guest, David Grann
-- 2023-06-01 — THE REAL WORK: Adam Gopnik on the Mystery of Mastery — speakers: Adam Gopnik
-- 2023-05-25 — JOY OF MOVEMENT: How Exercise Can Help You Find Happiness and Connection — speakers: Kelly McGonigal
-- 2023-05-18 — BREAKTHROUGH: How to Get Unstuck and Achieve Anything — speakers: Adam Alter, creative cul-de-sacs, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2023-05-11 — EXCELLENT ADVICE: Life Lessons From Wired Co-Founder Kevin Kelly — speakers: Kevin Kelly, Steven Johnson
-- 2023-05-04 — SELFLESS: Why “You” Are a Social Creation — speakers: Brian Lowery, Steven Johnson
-- 2023-05-02 — The Next Big Idea Club Presents — "Immortality: A User's Guide" — speakers: Steven Johnson
-- 2023-04-27 — Steven Johnson & Michael Specter on the Future of Life — speakers: Steven Johnson, Michael Specter
-- 2023-04-25 — You Need a Bedtime (from The Next Big Idea Daily) — speakers: Michael Kovnat
-- 2023-04-20 — SENSES: Gretchen Rubin’s Guide to Getting Out of Your Head and Into the World — speakers: Gretchen Rubin’s Guide, Gretchen Rubin
-- 2023-04-13 — PSYCH: The Story of the Human Mind — speakers: Paul Bloom, Sigmund Freud
-- 2023-04-06 — PREPPY: The Surprising Origins of American Style — speakers: Maggie Bullock
-- 2023-03-30 — SUCCESSION: The True Story Behind the Hit Show — speakers: Logan Roy, Rupert Murdoch, Jesse Armstrong, Sumner Redstone, Rachel Abrams
-- 2023-03-23 — ABOLISH POVERTY: Matthew Desmond on How We Can Do It — speakers: Matthew Desmond
-- 2023-03-16 — READING: Are We Forgetting How To Do It? — speakers: Maryanne Wolf
-- 2023-03-09 — David Chalmers Thinks We May Be Living in a Simulation (and He’s OK With It) — speakers: David Chalmers Thinks, David Chalmers
-- 2023-03-02 — Is AI Moving Too Fast? A Conversation With Kevin Roose — speakers: Kevin Roose
-- 2023-02-23 — LIFE IS SHORT: The Upside of Death — speakers: Dean Rickles
-- 2023-02-16 — MUSIC: What the Songs You Love Say About You — speakers: Susan Rogers, Daniel Levitin, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
-- 2023-02-09 — AI: The Origin Story — speakers: Cade Metz
-- 2023-02-06 — Not Finished Is Not Failure (from The Next Big Idea Daily) — speakers: Becky Blades
-- 2023-02-02 — CELLS: Siddhartha Mukherjee on the Breakthroughs That Are Revolutionizing Medicine — speakers: Siddhartha Mukherjee, Ken Burns
-- 2023-01-30 — Introducing: The Next Big Idea Daily — speakers: Adam Grant, Susan Cain, Greg McKeown, Daniel Pink, Kim Scott
-- 2023-01-26 — PLEASURE: An Epicurean Guide to the Good Life — speakers: Emily Austin
-- 2023-01-19 — POWER FAILURE: What Happened to GE? (with Malcolm Gladwell & William Cohan) — speakers: Malcolm Gladwell William Cohan, Malcolm Gladwell, William Cohan, Jack Welch
-- 2023-01-12 — DIET: The New Science of Healthy Eating — speakers: Tim Spector, Twitter Want
-- 2023-01-05 — How to Develop Your Passions and Avoid Burnout (with Atul Gawande and Adam Grant) — speakers: Avoid Burnout, Adam Grant, Atul Gawande, Being Mortal
-- 2022-12-29 — FEELINGS: The Secret Power of Embracing Emotions at Work — speakers: Liz Fosslien, Mollie West Duffy, Susan Cain
-- 2022-12-22 — SAPIENS: Yuval Noah Harari on Our Past, Present, and Future — speakers: Yuval Noah Harari, Homo Deus, David Wengrow, Jennifer Raff, Christopher Ryan, Ray Dalio, Jane McGonigal
-- 2022-12-15 — ANALOG: Let’s Build a More Human World — speakers: David Sax
-- 2022-12-08 — SLEEP: How Understanding Your Body’s Clock Can Revolutionize Your Health — speakers: Russell Foster
-- 2022-12-01 — ANIMALS: They’re Smarter Than You Think — speakers: Alexandra Horowitz, James Bridle, Justin Gregg, Tom Mustill
-- 2022-11-24 — HUMOR: The Case for Navigating Life on the Precipice of a Smile — speakers: Jennifer Aaker, Naomi Bagdonas
-- 2022-11-17 — GOOD ARGUMENTS: Adam Grant and Champion Debater Bo Seo on the Craft of Persuasion — speakers: Adam Grant, Bo Seo
-- 2022-11-10 — NEURODIVERSITY: Why No Two Brains Are Alike — speakers: Chantel Prat
-- 2022-11-03 — STATUS: Does Our Need for It Explain ... Everything? — speakers: Will Storr
-- 2022-10-27 — Bittersweet: An Audio E-Course by Susan Cain — speakers: Susan Cain, Shankar Vedantam, Lisa Feldman Barrett, Vivek Murthy
-- 2022-10-20 — Bonus: Eric Barker Gives Daniel Pink Relationship Advice — speakers: Eric Barker, Daniel Pink
-- 2022-10-13 — LONGTERMISM: Why You Should Care About Future People — speakers: William MacAskill
-- 2022-10-06 — QUIT: Why You Have to Give Up if You Want to Get Ahead — speakers: Annie Duke
-- 2022-09-29 — PUZZLES: What Crosswords, Riddles, and Wordle Can Teach You About the Meaning of Life
-- 2022-09-22 — BUILD: Tony Fadell’s Guide to Making Cool Stuff — speakers: Tony Fadell’s Guide, Tony Fadell
-- 2022-09-15 — SURVIVAL OF THE RICHEST: How Tech Billionaires Are Preparing for Doomsday — speakers: Douglas Rushkoff
-- 2022-09-08 — HAPPINESS: Arthur C. Brooks Shares His Roadmap for Finding Purpose, Meaning, and Success — speakers: Brooks Shares, Deep Purpose
-- 2022-09-01 — DeepMind's Demis Hassabis on the future of AI (from The TED Interview) — speakers: Steven Johnson
-- 2022-08-26 — Summer Getaway #4: The Making of ‘Bull Durham’ (with Ron Shelton) — speakers: Ron Shelton, Kevin Costner, Susan Sarandon
-- 2022-08-19 — Summer Getaway #3: The 12-Hour Walk (with Colin O’Brady)
-- 2022-08-11 — Summer Getaway #2: An American Odyssey (with Ben McGrath) — speakers: Ben McGrath, Dick Conant
-- 2022-08-04 — Summer Getaway #1: The Beach (with Sarah Stodola) — speakers: Sarah Stodola
-- 2022-07-28 — Finding Stillness With Ryan Holiday — speakers: Ryan Holiday
-- 2022-07-21 — Amanda Little on the Fate of Food — speakers: Amanda Little
-- 2022-07-14 — John Colapinto on the Power and Beauty of the Human Voice — speakers: John Colapinto
-- 2022-07-07 — THE ESSENTIALS: Our Favorite Moments From Season 4 — speakers: Daniel Pink, Susan Cain, Malcolm Gladwell
-- 2022-06-30 — BICYCLES: Are They the Future of Transportation? — speakers: Jody Rosen
-- 2022-06-23 — BIG DATA: Cracking the Codes of Love, Happiness and Success — speakers: Seth Stephens-Davidowitz
-- 2022-06-16 — Susan Cain & Daniel Pink: Writing, Longing, and the Search for Meaning — speakers: Susan Cain, Daniel Pink
-- 2022-06-09 — RELATIONSHIPS: Why Everything You Know About Them Is (Mostly) Wrong — speakers: Eric Barker, Daniel Pink, Arthur Aron
-- 2022-06-02 — How To Be a Grown-Up — speakers: Daniel Pink, Julie Lythcott-Haims
-- 2022-05-26 — IMAGINABLE: How Anyone Can Predict the Future (Yes, Even You) — speakers: Jane McGonigal
-- 2022-05-19 — CULTURE: How Successful Groups Work — speakers: Daniel Coyle
-- 2022-05-12 — GET IT DONE: How the Science of Motivation Can Help You Achieve Your Goals — speakers: Ayelet Fishbach, Daniel Pink
-- 2022-05-08 — Bonus: The Not-So-Great Resignation (WorkLife with Adam Grant) — speakers: Adam Grant
-- 2022-05-05 — FUN: How to Have More of It — speakers: Catherine Price, Catherine’s books courses
-- 2022-04-28 — TWITTER: What Elon Musk’s Acquisition Means for the Future of Social Media — speakers: Elon Musk, Steven Johnson, Adjacent Possible, Jill Lepore
-- 2022-04-21 — EMOTIONAL: Do Your Feelings Make You Smarter? — speakers: Leonard Mlodinow, Annie Murphy Paul, Steven Pinker, Antonio Damasio, Extended Mind
-- 2022-04-14 — ORIGIN: How Did Humans Migrate to the Americas? — speakers: Jennifer Raff
-- 2022-04-07 — BITTERSWEET: Susan Cain on the Beauty of Sorrow and Longing — speakers: Susan Cain
-- 2022-03-31 — Regrets: Daniel Pink Has a Few (And So Should You) — speakers: Daniel Pink
-- 2022-03-24 — REALITY+: Are We Living in a Simulation? — speakers: David Chalmers, Virtual Worlds
-- 2022-03-17 — HURT SO GOOD: The Pleasures of Suffering (Paul Bloom & Susan Cain) — speakers: Paul Bloom, Susan Cain
-- 2022-03-10 — EMPIRE: Why Ray Dalio Thinks We May Be Headed for Civil War — speakers: Why Ray Dalio Thinks, Ray Dalio
-- 2022-03-03 — TIME MANAGEMENT FOR MORTALS: Malcolm Gladwell and Oliver Burkeman — speakers: Malcolm Gladwell, Oliver Burkeman
-- 2022-02-24 — EVENING ROCKET: Decoding Elon Musk’s Sci-Fi Visions of the Future — speakers: Elon Musk’s Sci-Fi Visions, Elon Musk, Jill Lepore
-- 2022-01-12 — GOOD ANXIETY: Can You Turn Worrying Into a Superpower? — speakers: Wendy Suzuki, Lauren Miller Rogen, Seth Rogen
-- 2022-01-05 — HACK YOUR HABITS: The Science of Making Changes That Stick — speakers: Wendy Wood, Adam Grant
-- 2021-12-29 — TOGETHER: The Surgeon General’s Prescription for Health and Happiness — speakers: Vivek Murthy, Susan Cain
-- 2021-12-22 — SPIRITUAL TECHNOLOGIES: Two Scientists Debate the Benefits of Religion — speakers: Dave DeSteno, Lisa Miller
-- 2021-12-15 — DAWN OF EVERYTHING: The True History of Humanity — speakers: David Wengrow
-- 2021-12-08 — DOPAMINE NATION: Why the Modern World Puts Us All at Risk for Addiction — speakers: Anna Lembke
-- 2021-12-01 — AMBITION: How to Achieve Success on Your Own Terms — speakers: Achieve Success, Shellye Archambeau, Susan Cain
-- 2021-11-24 — FRIENDSHIP: The Science Behind Life’s Deepest Bond — speakers: Lydia Denworth
-- 2021-11-17 — EXPONENTIAL AGE: Everything Is Accelerating. Who’s at the Wheel? — speakers: Jeff Bezos, Lex Luther, Vin Diesel
-- 2021-11-10 — NEW POWER: How to Spread Ideas, Build Movements, and Leap Ahead — speakers: Spread Ideas, Henry Timms
-- 2021-11-03 — SPORTS: Life Lessons From an Olympian, a Hockey Coach, and a Middle-Aged Beginner — speakers: Hockey Coach, Alexi Pappas, Tom Vanderbilt
-- 2021-10-27 — FEELING & KNOWING: Unlocking the Secrets of Consciousness — speakers: Antonio Damasio
-- 2021-10-20 — Bonus: Adam Grant and Annie Murphy Paul — speakers: Adam Grant, Annie Murphy Paul, Malcolm Gladwell, Susan Cain, Daniel Pink
-- 2021-10-13 — LAZINESS: There's No Such Thing — speakers: Devon Price
-- 2021-10-06 — HOW TO CHANGE: Science-Backed Tips for Becoming Your Best Self (Katy Milkman & Daniel Pink) — speakers: Katy Milkman, Daniel Pink, Harry Potter
-- 2021-09-29 — RATIONALITY: Steven Pinker’s Love Song to Critical Thinking — speakers: Steven Pinker
-- 2021-09-22 — LOONSHOTS: The Science of Generating Crazy Ideas (Safi Bahcall & Daniel Pink) — speakers: Safi Bahcall
-- 2021-09-15 — DEADLINE EFFECT: Can You Work Like It's the Last Minute Before the Last Minute? — speakers: Christopher Cox, Rivka Galchen
-- 2021-09-08 — EXTRA LIFE: We Doubled Life Expectancy in the Last Century. Can We Do It Again? — speakers: Steven Johnson
-- 2021-09-01 — PARENTING: Learn How to Do It Better With Science, Data, and Mr. Rogers — speakers: Melinda Wenner, Rogers Neighborhood, Emily Oster
-- 2021-08-25 — PERSONALITY: The Science of Being Who You Want — speakers: Christian Jarrett
-- 2021-08-18 — JOYFUL: Ingrid Fetell Lee and Adam Grant on the Objects That Make Us Happy — speakers: Ingrid Fetell Lee, Adam Grant
-- 2021-08-11 — CULT OF WE: How WeWork's CEO Vaporized $40 Billion — speakers: Adam Neumann, Eliot Brown, Maureen Farrell, Mike Isaac
-- 2021-08-04 — BREATH: Is Deep Breathing the Secret to Long Living? — speakers: James Nestor
-- 2021-07-27 — DRUNK: Can Alcohol Make You More Creative, Sociable, and Attractive? — speakers: Edward Slingerland
-- 2021-07-21 — DEATH, SEX & MONEY: Anna Sale Talks About Hard Things — speakers: Anna Sale
-- 2021-07-14 — THE BOMBER MAFIA: Malcolm Gladwell on Warfare, Audiobooks, and the Future of Storytelling — speakers: Malcolm Gladwell
-- 2021-07-07 — EFFORTLESS: Embrace the Easy Option — speakers: Teddy Roosevelt, Greg McKeown, Jon Acuff
-- 2021-06-30 — HIGH CONFLICT: How to Defuse Any Squabble (Amanda Ripley & Susan Cain) — speakers: Susan Cain, Amanda Ripley
-- 2021-06-23 — EXTENDED MIND: Want to Get Smarter? Try Thinking Outside of Your Brain — speakers: Extended Mind, Annie Murphy Paul
-- 2021-06-16 — DELUSIONS: How Self-Deception Can Help You Flourish (Shankar Vedantam & Daniel Pink) — speakers: Shankar Vedantam, Daniel Pink
-- 2021-06-09 — AI: The Extraordinary Story of the Tech That’s Changing the World — speakers: Frank Rosenblatt, Cade Metz
-- 2021-06-02 — MINE: How the Rules of Ownership Control Our Lives — speakers: Michael Heller, James Salzman
-- 2021-05-26 — GATHERING: Mastering the Art of Hanging Out — speakers: Priya Parker
-- 2021-05-19 — EMAIL: Would the World Be Better Without It? — speakers: Cal Newport
-- 2021-05-12 — WORK: Should You Do Less of It? Adam Grant and James Suzman on the 15-Hour Workweek. — speakers: Adam Grant, James Suzman
-- 2021-05-05 — CODE BREAKER: Why Walter Isaacson Thinks CRISPR Will Change Life As We Know It — speakers: Walter Isaacson, Jennifer Doudna, Ben Franklin, Steve Jobs
-- 2021-04-28 — FOOD: Can We Taste Climate Change? — speakers: Amanda Little
-- 2021-04-21 — CHATTER: Learning to Love the Voice in Your Head — speakers: Ethan Kross
-- 2021-04-14 — HUMOR: How to Turn Levity Into Your Secret Weapon — speakers: Jennifer Aaker, Naomi Bagdonas
-- 2021-04-07 — BEGINNERS: The Joys of Being an Amateur — speakers: Tom Vanderbilt
-- 2021-03-31 — THINK AGAIN: Adam Grant on the Power of Changing Your Mind — speakers: Adam Grant
-- 2021-03-24 — VOICE: You Are What You Speak — speakers: John Colapinto
-- 2021-03-17 — THE BRAIN: A User’s Guide to the Blob Between Your Ears — speakers: Lisa Feldman Barrett, Daniel Pink
-- 2021-03-10 — SERENDIPITY: Good Luck and How to Get It — speakers: Good Luck, Christian Busch
-- 2021-03-03 — DRUG USE: Is Getting High an American Right? — speakers: Carl Hart
-- 2021-02-25 — POST CORONA: Predicting the Future With Scott Galloway — speakers: Scott Galloway
-- 2021-02-19 — Season 3: New Ideas, Same Great Taste — speakers: New Ideas, Next Big Idea
-- 2020-09-25 — LET’S BE REASONABLE: Sam Harris and Rufus in Conversation — speakers: Sam Harris
-- 2020-09-01 — MIND GAMES: What Poker Can Teach Us About Luck, Skill, and Ourselves — speakers: Maria Konnikova
-- 2020-08-25 — TRANSCENDENCE: Finding Fulfillment Beyond Ourselves — speakers: Scott Barry Kaufman
-- 2020-08-18 — HUMANKIND: Finding Hope in Human History — speakers: Rutger Bregman
-- 2020-08-11 — MIGRATION: Why Human Beings Were Built to Move — speakers: Sonia Shah
-- 2020-08-04 — BREATH: Harnessing the Power of a Lost Art — speakers: James Nestor
-- 2020-07-28 — PERSUASION: How to Change People’s Minds — speakers: Change People’s Minds Businesses, Jonah Berger
-- 2020-07-21 — ALCHEMY: How Our Creations Recreate Us — speakers: Ainissa Ramirez
-- 2020-07-14 — UPSTREAM: Solving Problems Before They Happen — speakers: Dan Heath
-- 2020-07-07 — CIVILIZATION: Recalculating the Price of Progress — speakers: Christopher Ryan
-- 2020-06-30 — TOGETHER: A Doctor’s Prescription for Health and Happiness — speakers: Vivek Murthy, Susan Cain
-- 2020-06-23 — WEIRDNESS: How to Make it Your Superpower — speakers: Olga Khazan, Adam Grant
-- 2020-06-16 — BOYS & SEX: Coming of Age in America — speakers: Peggy Orenstein
-- 2020-06-09 — FRIENDSHIP: The Science and Power of Life’s Deepest Bond — speakers: Lydia Denworth
-- 2020-06-03 — THINKING AHEAD: How to Make Life’s Big Decisions — speakers: Malcolm Gladwell, Steven Johnson
-- 2020-05-26 — LISTENING: What You’re Missing and Why it Matters — speakers: Kate Murphy
-- 2020-05-19 — SUCCESSFUL AGING: How to Live a Full, Long Life — speakers: Daniel Levitin
-- 2020-05-12 — Rethinking Big Ideas: Adam Grant on Finding Balance — speakers: Adam Grant
-- 2020-05-05 — Rethinking Big Ideas: Priya Parker on Gathering Apart — speakers: Rethinking Big Ideas, Priya Parker
-- 2020-04-28 — Rethinking Big Ideas: The Path to a More Generous World — speakers: Rethinking Big Ideas, Yancey Strickler
-- 2020-04-21 — Rethinking Big Ideas: Daniel Pink on the Future of Work — speakers: Rethinking Big Ideas, Daniel Pink
-- 2020-04-16 — Rethinking Big Ideas: On Finding Joy in Simple Pleasures — speakers: Rethinking Big Ideas, Ingrid Fetell Lee
-- 2020-04-09 — Rethinking Big Ideas: Steven Johnson on Scientific Breakthroughs — speakers: Rethinking Big Ideas, Steven Johnson
-- 2020-04-02 — Rethinking Big Ideas: Susan Cain on Solitude — speakers: Rethinking Big Ideas, Susan Cain
-- 2020-01-28 — STILLNESS: How to Find Peace in a Frantic World — speakers: Leonardo da Vinci, Ryan Holiday
-- 2020-01-21 — FREE MONEY: Why Andrew Yang Thinks a Giveaway Can Save the Economy — speakers: Andrew Yang Thinks, Andrew Yang
-- 2020-01-14 — HABITS: How to Let Go of The Old and Bring in the New — speakers: Wendy Wood, Bad Habits, Adam Grant
-- 2020-01-07 — GATHERING: How to Make Our Time Together Meaningful — speakers: Priya Parker
-- 2019-12-24 — FUTURE: Can We Build a More Generous World — speakers: Yancey Strickler
-- 2019-12-17 — SUCCESS: The Dirty Secret of Getting Ahead — speakers: Daniel Markovits
-- 2019-12-10 — TRUST: Malcolm Gladwell on How We Talk To Strangers — speakers: Malcolm Gladwell
-- 2019-12-03 — POWER: Why You Have More Than You Think — speakers: Henry Timms
-- 2019-11-26 — PERCEPTION: Why What You See Is Not Reality — speakers: Don Hoffman
-- 2019-11-19 — UNCENSORED: What Free Speech Debates Teach Us About Empathy — speakers: Zachary Wood
-- 2019-11-12 — CONFLICT: How to Have More Productive Disagreements — speakers: Buster Benson
-- 2019-11-06 — JOYFUL: Why Ordinary Objects Can Make You Extraordinarily Happy — speakers: Ingrid Fetell Lee, Adam Grant
-- 2019-10-30 — CODERS: The Invisible Architects Who Shape Our Lives — speakers: Clive Thompson
-- 2019-10-22 — RACIAL BIAS: Why We Have It and What We Can Do About It — speakers: Jennifer Eberhardt, Dan Pink
-- 2019-10-16 — INDISTRACTABLE: Staying Focused in a World of Distractions — speakers: Staying Focused, Distractions Nir Eyal, Silicon Valley
-- 2019-10-02 — RANGE: Why Generalists Succeed in a Specialists’ World — speakers: Malcolm Gladwell, David Epstein
-- 2019-10-01 — Introducing The Next Big Idea
+- 2026-02-19 — The Science of Change — speakers: Maya Shankar, Follow Rufus, Tim Kreider, George Saunders, David Marchese, Rufus Griscom, Caleb Bissinger
+- 2026-02-12 — Six Simple Rules for a Long and Healthy Life — speakers: Healthy Life, Russell Foster, Tim Spector, Kelly McGonigal, Chris van Tulleken, Eric Topol, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2026-02-05 — A Practical Guide to Achieving Excellence — speakers: Brad Stulberg, Rufus Griscom, Caleb Bissinger
+- 2026-01-29 — Does "Mattering" Explain Everything? — speakers: Jennifer Wallace, Rebecca Goldstein, Rufus Griscom, Caleb Bissinger
+- 2026-01-22 — The Superpower You Didn’t Know You Had — speakers: Kate Murphy, Charles Duhigg, David Brooks, John Colapinto, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2026-01-15 — ‘It’s a Real Company Run by Fake People’ — speakers: Evan Ratliff, Rufus Griscom, Caleb Bissinger
+- 2026-01-08 — CRYPTO: Is It Quietly Transforming the Global Economy? — speakers: Jeremy Allaire, Walter Isaacson, NextBigIdeaClub Want, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2026-01-06 — Why the Blockchain Is Still Critical to Our Future — speakers: Chris Dixon, Rufus Griscom, Caleb Bissinger
+- 2025-12-28 — Reading Rewired the Human Brain. What Happens If We Stop Doing It? — speakers: Maryanne Wolf, Rufus Griscom, Caleb Bissinger
+- 2025-12-23 — How to Make Your Holiday Gatherings Memorable — speakers: Priya Parker, Rufus Griscom, Caleb Bissinger
+- 2025-12-16 — FLOURISH: Daniel Coyle on the Art and Science of Feeling Alive — speakers: Daniel Coyle, Rufus Griscom, Caleb Bissinger
+- 2025-12-11 — Kari Leibowitz Loves Winter (And You Can Too) — speakers: Kari Leibowitz, Rufus Griscom, Caleb Bissinger
+- 2025-12-04 — Best Of: How Successful Groups Work — speakers: Daniel Coyle, Rufus Griscom, Caleb Bissinger
+- 2025-12-02 — AI and the Future of the University — speakers: Nabiha Syed, Nicholas Dirks, Julie Samuels, Matthew Johnson-Roberson, Sal Khan, Rufus Griscom, Caleb Bissinger
+- 2025-11-27 — Best Of: David Brooks on the Art of Seeing Others Deeply — speakers: David Brooks, Griscom Guest, David Brooks Book, Rufus Griscom, Caleb Bissinger
+- 2025-11-25 — STRONG GROUND: Brené Brown on the Daring Leadership the World Needs Now — speakers: Brené Brown, Adam Grant, Strong Ground, Walter Isaacson, Rufus Griscom, Caleb Bissinger
+- 2025-11-20 — Brené Brown on courageous leadership (from ReThinking with Adam Grant) — speakers: Brené Brown, Adam Grant, Strong Ground, Walter Isaacson, Rufus Griscom, Caleb Bissinger
+- 2025-11-18 — Walter Isaacson on The Greatest Sentence Ever Written — speakers: Walter Isaacson, Elon Musk, Steve Jobs, Benjamin Franklin, Jennifer Doudna, Rufus Griscom, Caleb Bissinger
+- 2025-11-13 — Best Of: Decoding Elon Musk — speakers: Walter Isaacson, Steve Jobs, Albert Einstein, Benjamin Franklin, Leonardo da Vinci, Elon Musk, Rufus Griscom, Caleb Bissinger
+- 2025-11-06 — Andrew Ross Sorkin: What the Crash of 1929 Says About Today — speakers: Andrew Ross Sorkin, Rufus Griscom, Caleb Bissinger
+- 2025-10-30 — Atlantic CEO Nick Thompson on What Running Can Teach Us — speakers: Nick Thompson, Rufus Griscom, Caleb Bissinger
+- 2025-10-23 — COMMON KNOWLEDGE: Steven Pinker on Awkward Dates, Cancel Culture and the Necessity of Norms — speakers: Steven Pinker, Awkward Dates, Cancel Culture, Common Knowledge, Brené Brown, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2025-10-16 — A Food Crisis Is Brewing. Are We Ready? — speakers: Sam Kass, Rufus Griscom, Caleb Bissinger
+- 2025-10-09 — The Future Is Going to Be Great — speakers: Dave Blundin, Link Ventures, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2025-10-02 — PRIMAL INTELLIGENCE: You’re Smarter Than You Realize — speakers: Malcolm Gladwell, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2025-09-25 — STEVEN PINKER: How Common Knowledge and Rationality Make the World Go Round — speakers: Steven Pinker, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2025-09-18 — AI & THE BRAIN: How Different Are They? — speakers: Gaurav Suri, Jay McClelland, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2025-09-11 — Best Of: Jonathan Haidt on What Social Media Is Doing to Our Kids — speakers: Jonathan Haidt, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2025-09-04 — ARTHUR C. BROOKS: Success Won’t Make You Happy — Here’s What Will — speakers: Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2025-08-28 — THE FUTURE OF WRITING: A Conversation with Ethan Mollick and Steven Johnson — speakers: Ethan Mollick, Steven Johnson, Andy Sack, Rufus Griscom, Caleb Bissinger
+- 2025-08-21 — Best Of: Sebastian Junger’s Journey to the Edge and Back — speakers: Sebastian Junger’s Journey, Sebastian Junger, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2025-08-14 — INTUITION: The Science of Trusting Your Gut — speakers: Laura Huang, Rufus Griscom, Caleb Bissinger
+- 2025-08-07 — Can Rogue Archeologists Bring the Past Back to Life? — speakers: Sam Kean, Rufus Griscom, Caleb Bissinger
+- 2025-07-31 — WHAT WE VALUE: A Neuroscientist's Guide to Making Better Choices — speakers: Emily Falk, Rufus Griscom, Caleb Bissinger
+- 2025-07-24 — SUPER AGERS (Part 2): Eric Topol on Sleep, GLP-1s, and AI — speakers: Eric Topol, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2025-07-17 — SUPER AGERS (Part 1): The Revolutionary New Science of Longevity — speakers: Eric Topol, Rufus Griscom, Caleb Bissinger
+- 2025-07-10 — GENIUS MYTH: The Dangerous Allure of Rule-Breakers — speakers: Arthur Schopenhauer, Thomas Edison, Helen Lewis, Rufus Griscom, Caleb Bissinger
+- 2025-07-03 — Best Of: Life Lessons From Wired Co-Founder Kevin Kelly — speakers: Kevin Kelly, Rufus Griscom, Caleb Bissinger
+- 2025-06-26 — AI FIRST: The Tsunami Is Already Here — speakers: Andy Sack, Adam Brotman, Rufus Griscom, Caleb Bissinger
+- 2025-06-19 — Best Of: Michael Lewis Runs Toward Pleasure — speakers: Michael Lewis Runs Toward, Michael Lewis, Sam Bankman-Fried, Rufus Griscom, Caleb Bissinger
+- 2025-06-12 — How Susan Cain Found Her Voice — speakers: Susan Cain, Susan’s Substack, Rufus Griscom, Caleb Bissinger
+- 2025-06-05 — HOPE FOR CYNICS: The Surprising Science of Human Goodness — speakers: Jamil Zaki, Malcolm Gladwell, Susan Cain, Daniel Pink, Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2025-05-29 — RISE ABOVE: How to Realize Your Full Potential — speakers: Scott Barry Kaufman, Rufus Griscom, Caleb Bissinger
+- 2025-05-22 — MORAL AMBITION: Are You Wasting Your Talent? — speakers: Rutger Bregman, Rufus Griscom, Caleb Bissinger
+- 2025-05-15 — NVIDIA: Jensen Huang Bet Big on AI. What Comes Next? — speakers: Jensen Huang Bet Big, Stephen Witt, Jensen Huang, Walter Isaacson, Elon Musk, Rufus Griscom, Caleb Bissinger
+- 2025-05-08 — EXPLORATION: Why We Seek Out Big Challenges — speakers: Alex Hutchinson, David Grann, Rufus Griscom, Caleb Bissinger
+- 2025-05-01 — AI 2027: What If Superhuman AI Is Right Around the Corner? — speakers: Superhuman AI, Daniel Kokotajlo, Rufus Griscom, Caleb Bissinger
+- 2025-04-24 — THE ART OF EDITING: Graydon Carter on the Golden Age of Magazines — speakers: Graydon Carter, Michael Lewis, Sebastian Junger, Kara Swisher, David Grann, Rufus Griscom, Caleb Bissinger
+- 2025-04-17 — FAMILY DYNAMICS: Unraveling the Mystery of Sibling Success — speakers: Family Dynamics, Susan Dominus, Rufus Griscom, Caleb Bissinger
+- 2025-04-10 — ABUNDANCE: Derek Thompson on How to Actually Rebuild the American Dream — speakers: Derek Thompson, Ezra Klein, Rufus Griscom, Caleb Bissinger
+- 2025-04-03 — WHY GIVERS WIN: Adam Grant Revisits 'Give and Take' — speakers: Adam Grant Revisits, Adam Grant, Daniel Pink, Kim Scott, James Clear, Rufus Griscom, Caleb Bissinger
+- 2025-03-27 — BITCOIN: A 15-Year Quest to Unmask the Mysterious Inventor of Crypto — speakers: Satoshi Nakamoto, Ben Wallace, Nakamoto Want, Rufus Griscom, Caleb Bissinger
+- 2025-03-20 — YOU, BUT BETTER: The Science and Promise of Personality Change — speakers: Olga Khazan, Daniel Pink Guest, Rufus Griscom, Caleb Bissinger
+- 2025-03-13 — CARL ZIMMER: The Untold Story of the Air We Breathe — speakers: Hidden History, Carl Zimmer, Rufus Griscom, Caleb Bissinger
+- 2025-03-06 — SAHIL BLOOM: The 5 Types of Wealth — speakers: Sahil Bloom, Rufus Griscom, Caleb Bissinger
+- 2025-02-27 — STORY: How to Tell a Great One (Part 2) — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
+- 2025-02-20 — STORY: The Science Behind Humanity’s Superpower (Part 1) — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
+- 2025-02-13 — The Former Head of USAID on Why Foreign Aid Benefits Everyone — speakers: Rajiv Shah, Rufus Griscom, Caleb Bissinger
+- 2025-02-06 — Three Things We Learned Last Year — speakers: Rufus Griscom, Caleb Bissinger
+- 2025-01-30 — SUPERAGENCY: What Could Go Right With AI? — speakers: Reid Hoffman, Rufus Griscom, Caleb Bissinger
+- 2025-01-23 — SHIFT: How to Manage Your Emotions — speakers: Ethan Kross, Rufus Griscom, Caleb Bissinger
+- 2025-01-16 — WINTER: The Secret to Thriving in the Darkest Season — speakers: Kari Leibowitz, Rufus Griscom, Caleb Bissinger
+- 2025-01-09 — DRIVE: A Fresh Look at the Science of Motivation (with Daniel Pink) — speakers: Daniel Pink, James Clear, Kim Scott, Rufus Griscom, Caleb Bissinger
+- 2025-01-02 — James Clear’s Ultimate Guide to Building Good Habits (Encore) — speakers: James Clear’s Ultimate Guide, James Clear, Rufus Griscom, Caleb Bissinger
+- 2024-12-26 — How to Find Purpose, Meaning, and Success (2022) — speakers: Deep Purpose, Rufus Griscom, Caleb Bissinger
+- 2024-12-19 — WHAT IS LIFE? (Part 2): Consciousness, AI, and Aliens — speakers: Sara Walker, Rufus Griscom, Caleb Bissinger
+- 2024-12-17 — WHAT IS LIFE? (Part 1): A Mind-Bending Conversation with Sara Walker — speakers: Sara Walker, Rufus Griscom, Caleb Bissinger
+- 2024-12-12 — STRATEGY: How to Make Better Plans — speakers: Seth Godin, Tony Fadell, Rufus Griscom, Caleb Bissinger
+- 2024-12-05 — TECH AGNOSTIC: How Technology Became the World's Top Religion — speakers: Rufus Griscom, Caleb Bissinger
+- 2024-11-28 — The Remarkable Power of Giving People More Than They Expect (2023) — speakers: Will Guidara, Unreasonable Hospitality Take, Rufus Griscom, Caleb Bissinger
+- 2024-11-21 — CATCHING SOULS: An Obituary Writer’s Lessons for Living — speakers: Ann Wroe, Elizabeth II, Paul Newman, Rufus Griscom, Caleb Bissinger
+- 2024-11-18 — THE INTERESTING: How to Live the Good Life — speakers: Lorraine Besser, Rufus Griscom, Caleb Bissinger
+- 2024-11-14 — A Productivity Podclass with Cal Newport — speakers: Rufus Griscom, Caleb Bissinger
+- 2024-11-07 — Human History Is Not Set In Stone — speakers: David Wengrow, Rufus Griscom, Caleb Bissinger
+- 2024-10-31 — Want a More Meaningful Life? Embrace Your Limitations. — speakers: Oliver Burkeman, Rufus Griscom, Caleb Bissinger
+- 2024-10-24 — THE WORK OF ART: How Something Comes From Nothing — speakers: Adam Moss, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-10-17 — ANXIOUS GENERATION (Part 2): How to Raise Resilient Kids in the Digital Age — speakers: Anxious Generation, Jonathan Haidt, Will Storr, Anna Lembke, Rufus Griscom, Caleb Bissinger
+- 2024-10-14 — ANXIOUS GENERATION (Part 1): What Social Media Is Doing to Our Kids — speakers: Anxious Generation, Jonathan Haidt, Rufus Griscom, Caleb Bissinger
+- 2024-10-10 — Life Is a Game. Here's How to Play It. — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
+- 2024-10-03 — REVENGE OF THE TIPPING POINT: Malcolm Gladwell Revisits the Science of Social Contagion — speakers: Malcolm Gladwell, Daniel Pink, Adam Moss, Rufus Griscom, Caleb Bissinger
+- 2024-09-26 — The Future of Storytelling, According to Malcolm Gladwell — speakers: Malcolm Gladwell, Daniel Pink, Adam Moss, Rufus Griscom, Caleb Bissinger
+- 2024-09-19 — NEXUS (Part 2): Yuval Noah Harari on How to Safeguard Humanity in the Age of AI — speakers: Yuval Noah Harari, Safeguard Humanity, Daniel Pink, Adam Moss, Rufus Griscom, Caleb Bissinger
+- 2024-09-16 — NEXUS (Part 1): Can Democracy Survive the AI Revolution? (with Yuval Noah Harari) — speakers: Yuval Noah Harari, Griscom Guest, Rufus Griscom, Caleb Bissinger
+- 2024-09-12 — Can We End Poverty by Just Giving People Cash? — speakers: Rory Stewart, Bill Gates, Watch Rory, Ted Talk, Rufus Griscom, Caleb Bissinger
+- 2024-09-05 — GOING INFINITE: Michael Lewis Wants to Change Your Mind About Sam Bankman-Fried — speakers: Michael Lewis Wants, Sam Bankman-Fried, Michael Lewis, Yuval Noah Harari, Rufus Griscom, Caleb Bissinger
+- 2024-08-29 — SUPERCONVERGENCE: Biotechnology Is About to Transform the World. Are We Ready? — speakers: Jamie Metzl, Yuval Noah Harari, Azeem Azhar, Rufus Griscom, Caleb Bissinger
+- 2024-08-22 — ANXIOUS ACHIEVER: How You Can Turn Anxiety Into a Superpower — speakers: Anxious Achiever, Morra Aarons-Mele, Rufus Griscom, Caleb Bissinger
+- 2024-08-15 — ON THE EDGE (Part 2): How to Get Ahead by Thinking Probabilistically — speakers: Nate Silver, Sam Bankman-Fried, Rufus Griscom, Caleb Bissinger
+- 2024-08-12 — ON THE EDGE (Part 1): Nate Silver on Politics, Poker, and Risk-Taking — speakers: Nate Silver, Rufus Griscom, Caleb Bissinger
+- 2024-08-08 — The Case for Effective Altruism — speakers: Sam Bankman-Fried, Will MacAskill, Rufus Griscom, Caleb Bissinger
+- 2024-08-01 — Laziness Does Not Exist — speakers: Devon Price, Griscom Guest, Rufus Griscom, Caleb Bissinger
+- 2024-07-25 — ALCOHOL: The Good, the Bad, and the Bubbly — speakers: Edward Slingerland, Susan Dominus, Rufus Griscom, Caleb Bissinger
+- 2024-07-22 — Living for Pleasure — speakers: Emily Austin, Rufus Griscom, Caleb Bissinger
+- 2024-07-18 — PROBABILITY: How a 250-Year-Old Theorem Still Explains the World — speakers: Thomas Bayes, Tom Chivers, Rufus Griscom, Caleb Bissinger
+- 2024-07-11 — GOOD ENERGY (Part 2): Casey Means on How to Supercharge Your Diet — speakers: Casey Means, Rufus Griscom, Caleb Bissinger
+- 2024-07-08 — GOOD ENERGY (Part 1): How to Feel Incredible, Avoid Disease, and Age Well — speakers: Feel Incredible, Rufus Griscom, Caleb Bissinger
+- 2024-07-04 — BEN FRANKLIN: A Founder's Formula for a Long and Useful Life — speakers: Ben Franklin, Benjamin Franklin, Eric Weiner, Rufus Griscom, Caleb Bissinger
+- 2024-06-27 — Bill Gates Says Superhuman AI May Be Closer Than You Think — speakers: Bill Gates, Superhuman AI, Andy Sack, Adam Brotman, Adam’s AI, Rufus Griscom, Caleb Bissinger
+- 2024-06-20 — FRICTION: How Smart Leaders Make the Right Things Easier (with Adam Grant & Bob Sutton) — speakers: Adam Grant, Bob Sutton, Rufus Griscom, Caleb Bissinger
+- 2024-06-13 — INFERNAL MACHINE: Dynamite, Anarchy and the Future of Creativity — speakers: Steven Johnson, Rufus Griscom, Caleb Bissinger
+- 2024-06-06 — UNCERTAINTY: The Surprising Power of Being Unsure — speakers: Maggie Jackson, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Panio Gianopoulos, Panio Gianopoulos Guest, Rufus Griscom, Caleb Bissinger
+- 2024-05-30 — SAL KHAN: How AI Will Revolutionize the Way We Learn — speakers: Sal Khan, Rufus Griscom, Caleb Bissinger
+- 2024-05-23 — AFTERLIFE: Sebastian Junger’s Journey to the Edge and Back — speakers: Sebastian Junger’s Journey, Sebastian Junger, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-05-16 — FUNNER: How Language Evolves and Why It Matters — speakers: Anne Curzan, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-05-09 — DEMON OF UNREST: Why the Civil War Matters Today (with Erik Larson) — speakers: Erik Larson, Abraham Lincoln, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-05-02 — ALGEBRA OF WEALTH: Scott Galloway’s Formula for Financial Success — speakers: Scott Galloway, Rufus Griscom, Caleb Bissinger
+- 2024-04-25 — WHY WE REMEMBER: The New Science of Improving Your Memory — speakers: Jean Renoir, Charan Ranganath, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-04-18 — SLOW PRODUCTIVITY: Can We Get More Done by Doing Less? — speakers: Cal Newport, Scott Galloway, Rufus Griscom, Caleb Bissinger
+- 2024-04-11 — MAGICAL OVERTHINKING: Why Modern Life Is Making Us More Irrational — speakers: Amanda Montell, Rufus Griscom, Caleb Bissinger
+- 2024-04-04 — Everything Paul Bloom Knows About Psychology — speakers: Paul Bloom, Sigmund Freud, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-03-28 — GET THE PICTURE: Why Bother With Art? — speakers: Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-03-21 — LOOK AGAIN: How to See Your Life With Fresh Eyes — speakers: Logan Roy, Tali Sharot, Sharot Host, Michael Kovnat, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-03-14 — GENEROSITY: How Simple Acts of Kindness Can Change the World — speakers: Chris Anderson, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-03-07 — BURN BOOK: Kara Swisher Takes on Big Tech — speakers: Kara Swisher, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-02-29 — SUPERCOMMUNICATORS: How to Connect With Anyone — speakers: Oscar Wilde, Charles Duhigg, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-02-22 — MIDLIFE: Once a Crisis, Now an Opportunity — speakers: Chip Conley, Rufus Griscom, Caleb Bissinger
+- 2024-02-15 — RADICAL CANDOR: Why Compassionate Honesty Is a Gift — speakers: Kim Scott, Rufus Griscom, Caleb Bissinger
+- 2024-02-08 — BLOCKCHAIN: Why Chris Dixon Still Thinks It Matters — speakers: Chris Dixon, Sam Bankman-Fried, Rufus Griscom, Caleb Bissinger
+- 2024-02-01 — BIG BETS: A Practical Guide to Changing the World — speakers: Rajiv Shah, Griscom Guest, Rajiv Shah Book, Rufus Griscom, Caleb Bissinger
+- 2024-01-25 — CLIMATE OPTIMISM: Can We Still Build a Sustainable World? — speakers: Hannah Ritchie, Caleb Bissinger Guest, Rufus Griscom, Caleb Bissinger
+- 2024-01-18 — FREE WILL: Are We Better Off Without It? — speakers: Robert Sapolsky, Rufus Griscom, Caleb Bissinger
+- 2024-01-11 — ATOMIC HABITS: James Clear’s Ultimate Guide to Building Good Habits (and Breaking Bad Ones) — speakers: Atomic Habits, James Clear’s Ultimate Guide, James Clear, Rufus Griscom, Caleb Bissinger
+- 2024-01-04 — THE GOOD LIFE: Lessons From the World's Longest Study of Happiness — speakers: Marc Schulz, Rufus Griscom, Caleb Bissinger
+- 2023-12-28 — How We Sipped, Danced, and Stumbled Our Way to Civilization (2021) — speakers: Edward Slingerland, Rufus Griscom, Caleb Bissinger
+- 2023-12-21 — Rory Stewart on Politics, Ambition, and Making a Difference — speakers: Rory Stewart, Caleb Bissinger Guest, Rufus Griscom, Caleb Bissinger
+- 2023-12-14 — PSYCHOLOGY OF MONEY: Timeless Lessons from Morgan Housel — speakers: Griscom Guest, Rufus Griscom, Caleb Bissinger
+- 2023-12-07 — EVE: How the Female Body Drove 200 Million Years of Human Evolution — speakers: Cat Bohannon, Rufus Griscom, Caleb Bissinger
+- 2023-11-30 — THE FAMILY OUTING: Secrets, Memory, and Living Authentically — speakers: Jessi Hempel, Rufus Griscom, Caleb Bissinger
+- 2023-11-23 — Mastering the Art of Difficult Conversations (with Anna Sale) — speakers: Anna Sale, Rufus Griscom, Caleb Bissinger
+- 2023-11-16 — ACHIEVEMENT CULTURE: What It’s Doing to Our Kids—and to Us — speakers: Jennifer Breheny Wallace, Daniel Markovits, Daniel Markovits Click, Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2023-11-09 — FAILURE: The Science of Learning From Your Mistakes — speakers: Amy Edmondson, Rufus Griscom, Caleb Bissinger
+- 2023-11-02 — HOW TO KNOW A PERSON: The Art of Seeing Others Deeply (with David Brooks) — speakers: David Brooks, Rufus Griscom, Caleb Bissinger
+- 2023-10-26 — HIDDEN POTENTIAL: Adam Grant on the Science of Achieving Greater Things — speakers: Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2023-10-19 — FACIAL RECOGNITION: A Secretive Startup's Quest to End Privacy as We Know It — speakers: Kashmir Hill, Panio Gianopoulos, Rufus Griscom, Caleb Bissinger
+- 2023-10-12 — Daniel Pink and Brian Lowery Aren’t Sure That You Exist — speakers: Daniel Pink, Brian Lowery, Jennifer Breheny Wallace, Rufus Griscom, Caleb Bissinger
+- 2023-10-05 — Susan Cain on the Power of the Bittersweet (2022) — speakers: Susan Cain, Rufus Griscom, Caleb Bissinger
+- 2023-09-28 — HUMAN COMPATIBLE: Can We Control Artificial Intelligence? — speakers: Stuart Russell, Griscom Guest, Rufus Griscom, Caleb Bissinger
+- 2023-09-21 — UNREASONABLE HOSPITALITY: The Power of Giving People More Than They Expect — speakers: Unreasonable Hospitality, Will Guidara, Caleb Bissinger Guest, Rufus Griscom, Caleb Bissinger
+- 2023-09-14 — ELON MUSK: Walter Isaacson on the World’s Most Polarizing Person — speakers: Walter Isaacson, Steve Jobs, Albert Einstein, Benjamin Franklin, Leonardo da Vinci, Elon Musk, Rufus Griscom, Caleb Bissinger
+- 2023-09-07 — CHANGE: How to Excel When Everything Is in Flux — speakers: Brad Stulberg, Rufus Griscom, Caleb Bissinger
+- 2023-08-31 — DREAM TOWN: Shaker Heights and the Quest for Racial Equity — speakers: Laura Meckler, Rufus Griscom, Caleb Bissinger
+- 2023-08-24 — PERENNIALS: How to Thrive in a Post-Generational Society — speakers: Mauro Guillén, Rufus Griscom, Caleb Bissinger
+- 2023-08-17 — ULTRA-PROCESSED: What Fake Food Is Doing to Our Health — speakers: Chris van Tulleken, Rufus Griscom, Caleb Bissinger
+- 2023-08-10 — How to Succeed by Quitting (2022) — speakers: Annie Duke, Griscom Guest, Rufus Griscom, Caleb Bissinger
+- 2023-08-03 — Why the Modern World Puts Us All at Risk for Addiction (2021) — speakers: Anna Lembke, Griscom Guest, Rufus Griscom, Caleb Bissinger
+- 2023-07-27 — WORK: Henry David Thoreau on Making a Meaningful Living — speakers: Henry David Thoreau, John Kaag, Jonathan Van Belle, Caleb Bissinger, John Kaag Book, Rufus Griscom
+- 2023-07-20 — RISE AND SHINE: How to Have the Perfect Morning — speakers: Kate Oliver, Rufus Griscom, Caleb Bissinger
+- 2023-07-13 — Artificial Intelligence Meets Virtual Worlds: The Future of Sentience — speakers: Steven Johnson, David Chalmers, John Borthwick, Michael Specter, Rufus Griscom, Caleb Bissinger
+- 2023-07-06 — You Should Have More Fun This Summer. Here’s Why. — speakers: Catherine Price, Rufus Griscom, Caleb Bissinger
+- 2023-06-29 — PARKING: How It Explains the World — speakers: Henry Grabar, Rufus Griscom, Caleb Bissinger
+- 2023-06-22 — OUTLIVE (Part 2): How to Optimize Your Diet, Sleep, and Emotional Health — speakers: Peter Attia, Steven Johnson, Tim Spector, Russell Foster, David Chalmers, John Borthwick, Rufus Griscom, Caleb Bissinger
+- 2023-06-15 — OUTLIVE (Part 1): Peter Attia’s Guide to the Science of Longevity — speakers: Peter Attia’s Guide, Peter Attia, Steven Johnson, David Chalmers, John Borthwick, Rufus Griscom, Caleb Bissinger
+- 2023-06-08 — THE WAGER: David Grann Tells a Tale of Shipwreck and Mutiny — speakers: David Grann Tells, Mutiny David Grann, Caleb Bissinger Guest, David Grann, Rufus Griscom, Caleb Bissinger
+- 2023-06-01 — THE REAL WORK: Adam Gopnik on the Mystery of Mastery — speakers: Adam Gopnik, Rufus Griscom, Caleb Bissinger
+- 2023-05-25 — JOY OF MOVEMENT: How Exercise Can Help You Find Happiness and Connection — speakers: Kelly McGonigal, Rufus Griscom, Caleb Bissinger
+- 2023-05-18 — BREAKTHROUGH: How to Get Unstuck and Achieve Anything — speakers: Adam Alter, creative cul-de-sacs, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2023-05-11 — EXCELLENT ADVICE: Life Lessons From Wired Co-Founder Kevin Kelly — speakers: Kevin Kelly, Steven Johnson, Rufus Griscom, Caleb Bissinger
+- 2023-05-04 — SELFLESS: Why “You” Are a Social Creation — speakers: Brian Lowery, Steven Johnson, Rufus Griscom, Caleb Bissinger
+- 2023-05-02 — The Next Big Idea Club Presents — "Immortality: A User's Guide" — speakers: Steven Johnson, Rufus Griscom, Caleb Bissinger
+- 2023-04-27 — Steven Johnson & Michael Specter on the Future of Life — speakers: Steven Johnson, Michael Specter, Rufus Griscom, Caleb Bissinger
+- 2023-04-25 — You Need a Bedtime (from The Next Big Idea Daily) — speakers: Michael Kovnat, Rufus Griscom, Caleb Bissinger
+- 2023-04-20 — SENSES: Gretchen Rubin’s Guide to Getting Out of Your Head and Into the World — speakers: Gretchen Rubin’s Guide, Gretchen Rubin, Rufus Griscom, Caleb Bissinger
+- 2023-04-13 — PSYCH: The Story of the Human Mind — speakers: Paul Bloom, Sigmund Freud, Rufus Griscom, Caleb Bissinger
+- 2023-04-06 — PREPPY: The Surprising Origins of American Style — speakers: Maggie Bullock, Rufus Griscom, Caleb Bissinger
+- 2023-03-30 — SUCCESSION: The True Story Behind the Hit Show — speakers: Logan Roy, Rupert Murdoch, Jesse Armstrong, Sumner Redstone, Rachel Abrams, Rufus Griscom, Caleb Bissinger
+- 2023-03-23 — ABOLISH POVERTY: Matthew Desmond on How We Can Do It — speakers: Matthew Desmond, Rufus Griscom, Caleb Bissinger
+- 2023-03-16 — READING: Are We Forgetting How To Do It? — speakers: Maryanne Wolf, Rufus Griscom, Caleb Bissinger
+- 2023-03-09 — David Chalmers Thinks We May Be Living in a Simulation (and He’s OK With It) — speakers: David Chalmers Thinks, David Chalmers, Rufus Griscom, Caleb Bissinger
+- 2023-03-02 — Is AI Moving Too Fast? A Conversation With Kevin Roose — speakers: Kevin Roose, Rufus Griscom, Caleb Bissinger
+- 2023-02-23 — LIFE IS SHORT: The Upside of Death — speakers: Dean Rickles, Rufus Griscom, Caleb Bissinger
+- 2023-02-16 — MUSIC: What the Songs You Love Say About You — speakers: Susan Rogers, Daniel Levitin, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2023-02-09 — AI: The Origin Story — speakers: Cade Metz, Rufus Griscom, Caleb Bissinger
+- 2023-02-06 — Not Finished Is Not Failure (from The Next Big Idea Daily) — speakers: Becky Blades, Rufus Griscom, Caleb Bissinger
+- 2023-02-02 — CELLS: Siddhartha Mukherjee on the Breakthroughs That Are Revolutionizing Medicine — speakers: Siddhartha Mukherjee, Ken Burns, Rufus Griscom, Caleb Bissinger
+- 2023-01-30 — Introducing: The Next Big Idea Daily — speakers: Adam Grant, Susan Cain, Greg McKeown, Daniel Pink, Kim Scott, Rufus Griscom, Caleb Bissinger
+- 2023-01-26 — PLEASURE: An Epicurean Guide to the Good Life — speakers: Emily Austin, Rufus Griscom, Caleb Bissinger
+- 2023-01-19 — POWER FAILURE: What Happened to GE? (with Malcolm Gladwell & William Cohan) — speakers: Malcolm Gladwell William Cohan, Malcolm Gladwell, William Cohan, Jack Welch, Rufus Griscom, Caleb Bissinger
+- 2023-01-12 — DIET: The New Science of Healthy Eating — speakers: Tim Spector, Twitter Want, Rufus Griscom, Caleb Bissinger
+- 2023-01-05 — How to Develop Your Passions and Avoid Burnout (with Atul Gawande and Adam Grant) — speakers: Avoid Burnout, Adam Grant, Atul Gawande, Being Mortal, Rufus Griscom, Caleb Bissinger
+- 2022-12-29 — FEELINGS: The Secret Power of Embracing Emotions at Work — speakers: Liz Fosslien, Mollie West Duffy, Susan Cain, Rufus Griscom, Caleb Bissinger
+- 2022-12-22 — SAPIENS: Yuval Noah Harari on Our Past, Present, and Future — speakers: Yuval Noah Harari, Homo Deus, David Wengrow, Jennifer Raff, Christopher Ryan, Ray Dalio, Jane McGonigal, Rufus Griscom, Caleb Bissinger
+- 2022-12-15 — ANALOG: Let’s Build a More Human World — speakers: David Sax, Rufus Griscom, Caleb Bissinger
+- 2022-12-08 — SLEEP: How Understanding Your Body’s Clock Can Revolutionize Your Health — speakers: Russell Foster, Rufus Griscom, Caleb Bissinger
+- 2022-12-01 — ANIMALS: They’re Smarter Than You Think — speakers: Alexandra Horowitz, James Bridle, Justin Gregg, Tom Mustill, Rufus Griscom, Caleb Bissinger
+- 2022-11-24 — HUMOR: The Case for Navigating Life on the Precipice of a Smile — speakers: Jennifer Aaker, Naomi Bagdonas, Rufus Griscom, Caleb Bissinger
+- 2022-11-17 — GOOD ARGUMENTS: Adam Grant and Champion Debater Bo Seo on the Craft of Persuasion — speakers: Adam Grant, Bo Seo, Rufus Griscom, Caleb Bissinger
+- 2022-11-10 — NEURODIVERSITY: Why No Two Brains Are Alike — speakers: Chantel Prat, Rufus Griscom, Caleb Bissinger
+- 2022-11-03 — STATUS: Does Our Need for It Explain ... Everything? — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
+- 2022-10-27 — Bittersweet: An Audio E-Course by Susan Cain — speakers: Susan Cain, Shankar Vedantam, Lisa Feldman Barrett, Vivek Murthy, Rufus Griscom, Caleb Bissinger
+- 2022-10-20 — Bonus: Eric Barker Gives Daniel Pink Relationship Advice — speakers: Eric Barker, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2022-10-13 — LONGTERMISM: Why You Should Care About Future People — speakers: William MacAskill, Rufus Griscom, Caleb Bissinger
+- 2022-10-06 — QUIT: Why You Have to Give Up if You Want to Get Ahead — speakers: Annie Duke, Rufus Griscom, Caleb Bissinger
+- 2022-09-29 — PUZZLES: What Crosswords, Riddles, and Wordle Can Teach You About the Meaning of Life — speakers: Rufus Griscom, Caleb Bissinger
+- 2022-09-22 — BUILD: Tony Fadell’s Guide to Making Cool Stuff — speakers: Tony Fadell’s Guide, Tony Fadell, Rufus Griscom, Caleb Bissinger
+- 2022-09-15 — SURVIVAL OF THE RICHEST: How Tech Billionaires Are Preparing for Doomsday — speakers: Douglas Rushkoff, Rufus Griscom, Caleb Bissinger
+- 2022-09-08 — HAPPINESS: Arthur C. Brooks Shares His Roadmap for Finding Purpose, Meaning, and Success — speakers: Brooks Shares, Deep Purpose, Rufus Griscom, Caleb Bissinger
+- 2022-09-01 — DeepMind's Demis Hassabis on the future of AI (from The TED Interview) — speakers: Steven Johnson, Rufus Griscom, Caleb Bissinger
+- 2022-08-26 — Summer Getaway #4: The Making of ‘Bull Durham’ (with Ron Shelton) — speakers: Ron Shelton, Kevin Costner, Susan Sarandon, Rufus Griscom, Caleb Bissinger
+- 2022-08-19 — Summer Getaway #3: The 12-Hour Walk (with Colin O’Brady) — speakers: Rufus Griscom, Caleb Bissinger
+- 2022-08-11 — Summer Getaway #2: An American Odyssey (with Ben McGrath) — speakers: Ben McGrath, Dick Conant, Rufus Griscom, Caleb Bissinger
+- 2022-08-04 — Summer Getaway #1: The Beach (with Sarah Stodola) — speakers: Sarah Stodola, Rufus Griscom, Caleb Bissinger
+- 2022-07-28 — Finding Stillness With Ryan Holiday — speakers: Ryan Holiday, Rufus Griscom, Caleb Bissinger
+- 2022-07-21 — Amanda Little on the Fate of Food — speakers: Amanda Little, Rufus Griscom, Caleb Bissinger
+- 2022-07-14 — John Colapinto on the Power and Beauty of the Human Voice — speakers: John Colapinto, Rufus Griscom, Caleb Bissinger
+- 2022-07-07 — THE ESSENTIALS: Our Favorite Moments From Season 4 — speakers: Daniel Pink, Susan Cain, Malcolm Gladwell, Rufus Griscom, Caleb Bissinger
+- 2022-06-30 — BICYCLES: Are They the Future of Transportation? — speakers: Jody Rosen, Rufus Griscom, Caleb Bissinger
+- 2022-06-23 — BIG DATA: Cracking the Codes of Love, Happiness and Success — speakers: Seth Stephens-Davidowitz, Rufus Griscom, Caleb Bissinger
+- 2022-06-16 — Susan Cain & Daniel Pink: Writing, Longing, and the Search for Meaning — speakers: Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2022-06-09 — RELATIONSHIPS: Why Everything You Know About Them Is (Mostly) Wrong — speakers: Eric Barker, Daniel Pink, Arthur Aron, Rufus Griscom, Caleb Bissinger
+- 2022-06-02 — How To Be a Grown-Up — speakers: Daniel Pink, Julie Lythcott-Haims, Rufus Griscom, Caleb Bissinger
+- 2022-05-26 — IMAGINABLE: How Anyone Can Predict the Future (Yes, Even You) — speakers: Jane McGonigal, Rufus Griscom, Caleb Bissinger
+- 2022-05-19 — CULTURE: How Successful Groups Work — speakers: Daniel Coyle, Rufus Griscom, Caleb Bissinger
+- 2022-05-12 — GET IT DONE: How the Science of Motivation Can Help You Achieve Your Goals — speakers: Ayelet Fishbach, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2022-05-08 — Bonus: The Not-So-Great Resignation (WorkLife with Adam Grant) — speakers: Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2022-05-05 — FUN: How to Have More of It — speakers: Catherine Price, Catherine’s books courses, Rufus Griscom, Caleb Bissinger
+- 2022-04-28 — TWITTER: What Elon Musk’s Acquisition Means for the Future of Social Media — speakers: Elon Musk, Steven Johnson, Adjacent Possible, Jill Lepore, Rufus Griscom, Caleb Bissinger
+- 2022-04-21 — EMOTIONAL: Do Your Feelings Make You Smarter? — speakers: Leonard Mlodinow, Annie Murphy Paul, Steven Pinker, Antonio Damasio, Extended Mind, Rufus Griscom, Caleb Bissinger
+- 2022-04-14 — ORIGIN: How Did Humans Migrate to the Americas? — speakers: Jennifer Raff, Rufus Griscom, Caleb Bissinger
+- 2022-04-07 — BITTERSWEET: Susan Cain on the Beauty of Sorrow and Longing — speakers: Susan Cain, Rufus Griscom, Caleb Bissinger
+- 2022-03-31 — Regrets: Daniel Pink Has a Few (And So Should You) — speakers: Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2022-03-24 — REALITY+: Are We Living in a Simulation? — speakers: David Chalmers, Virtual Worlds, Rufus Griscom, Caleb Bissinger
+- 2022-03-17 — HURT SO GOOD: The Pleasures of Suffering (Paul Bloom & Susan Cain) — speakers: Paul Bloom, Susan Cain, Rufus Griscom, Caleb Bissinger
+- 2022-03-10 — EMPIRE: Why Ray Dalio Thinks We May Be Headed for Civil War — speakers: Why Ray Dalio Thinks, Ray Dalio, Rufus Griscom, Caleb Bissinger
+- 2022-03-03 — TIME MANAGEMENT FOR MORTALS: Malcolm Gladwell and Oliver Burkeman — speakers: Malcolm Gladwell, Oliver Burkeman, Rufus Griscom, Caleb Bissinger
+- 2022-02-24 — EVENING ROCKET: Decoding Elon Musk’s Sci-Fi Visions of the Future — speakers: Elon Musk’s Sci-Fi Visions, Elon Musk, Jill Lepore, Rufus Griscom, Caleb Bissinger
+- 2022-01-12 — GOOD ANXIETY: Can You Turn Worrying Into a Superpower? — speakers: Wendy Suzuki, Lauren Miller Rogen, Seth Rogen, Rufus Griscom, Caleb Bissinger
+- 2022-01-05 — HACK YOUR HABITS: The Science of Making Changes That Stick — speakers: Wendy Wood, Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2021-12-29 — TOGETHER: The Surgeon General’s Prescription for Health and Happiness — speakers: Vivek Murthy, Susan Cain, Rufus Griscom, Caleb Bissinger
+- 2021-12-22 — SPIRITUAL TECHNOLOGIES: Two Scientists Debate the Benefits of Religion — speakers: Dave DeSteno, Lisa Miller, Rufus Griscom, Caleb Bissinger
+- 2021-12-15 — DAWN OF EVERYTHING: The True History of Humanity — speakers: David Wengrow, Rufus Griscom, Caleb Bissinger
+- 2021-12-08 — DOPAMINE NATION: Why the Modern World Puts Us All at Risk for Addiction — speakers: Anna Lembke, Rufus Griscom, Caleb Bissinger
+- 2021-12-01 — AMBITION: How to Achieve Success on Your Own Terms — speakers: Achieve Success, Shellye Archambeau, Susan Cain, Rufus Griscom, Caleb Bissinger
+- 2021-11-24 — FRIENDSHIP: The Science Behind Life’s Deepest Bond — speakers: Lydia Denworth, Rufus Griscom, Caleb Bissinger
+- 2021-11-17 — EXPONENTIAL AGE: Everything Is Accelerating. Who’s at the Wheel? — speakers: Jeff Bezos, Lex Luther, Vin Diesel, Rufus Griscom, Caleb Bissinger
+- 2021-11-10 — NEW POWER: How to Spread Ideas, Build Movements, and Leap Ahead — speakers: Spread Ideas, Henry Timms, Rufus Griscom, Caleb Bissinger
+- 2021-11-03 — SPORTS: Life Lessons From an Olympian, a Hockey Coach, and a Middle-Aged Beginner — speakers: Hockey Coach, Alexi Pappas, Tom Vanderbilt, Rufus Griscom, Caleb Bissinger
+- 2021-10-27 — FEELING & KNOWING: Unlocking the Secrets of Consciousness — speakers: Antonio Damasio, Rufus Griscom, Caleb Bissinger
+- 2021-10-20 — Bonus: Adam Grant and Annie Murphy Paul — speakers: Adam Grant, Annie Murphy Paul, Malcolm Gladwell, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2021-10-13 — LAZINESS: There's No Such Thing — speakers: Devon Price, Rufus Griscom, Caleb Bissinger
+- 2021-10-06 — HOW TO CHANGE: Science-Backed Tips for Becoming Your Best Self (Katy Milkman & Daniel Pink) — speakers: Katy Milkman, Daniel Pink, Harry Potter, Rufus Griscom, Caleb Bissinger
+- 2021-09-29 — RATIONALITY: Steven Pinker’s Love Song to Critical Thinking — speakers: Steven Pinker, Rufus Griscom, Caleb Bissinger
+- 2021-09-22 — LOONSHOTS: The Science of Generating Crazy Ideas (Safi Bahcall & Daniel Pink) — speakers: Safi Bahcall, Rufus Griscom, Caleb Bissinger
+- 2021-09-15 — DEADLINE EFFECT: Can You Work Like It's the Last Minute Before the Last Minute? — speakers: Christopher Cox, Rivka Galchen, Rufus Griscom, Caleb Bissinger
+- 2021-09-08 — EXTRA LIFE: We Doubled Life Expectancy in the Last Century. Can We Do It Again? — speakers: Steven Johnson, Rufus Griscom, Caleb Bissinger
+- 2021-09-01 — PARENTING: Learn How to Do It Better With Science, Data, and Mr. Rogers — speakers: Melinda Wenner, Rogers Neighborhood, Emily Oster, Rufus Griscom, Caleb Bissinger
+- 2021-08-25 — PERSONALITY: The Science of Being Who You Want — speakers: Christian Jarrett, Rufus Griscom, Caleb Bissinger
+- 2021-08-18 — JOYFUL: Ingrid Fetell Lee and Adam Grant on the Objects That Make Us Happy — speakers: Ingrid Fetell Lee, Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2021-08-11 — CULT OF WE: How WeWork's CEO Vaporized $40 Billion — speakers: Adam Neumann, Eliot Brown, Maureen Farrell, Mike Isaac, Rufus Griscom, Caleb Bissinger
+- 2021-08-04 — BREATH: Is Deep Breathing the Secret to Long Living? — speakers: James Nestor, Rufus Griscom, Caleb Bissinger
+- 2021-07-27 — DRUNK: Can Alcohol Make You More Creative, Sociable, and Attractive? — speakers: Edward Slingerland, Rufus Griscom, Caleb Bissinger
+- 2021-07-21 — DEATH, SEX & MONEY: Anna Sale Talks About Hard Things — speakers: Anna Sale, Rufus Griscom, Caleb Bissinger
+- 2021-07-14 — THE BOMBER MAFIA: Malcolm Gladwell on Warfare, Audiobooks, and the Future of Storytelling — speakers: Malcolm Gladwell, Rufus Griscom, Caleb Bissinger
+- 2021-07-07 — EFFORTLESS: Embrace the Easy Option — speakers: Teddy Roosevelt, Greg McKeown, Jon Acuff, Rufus Griscom, Caleb Bissinger
+- 2021-06-30 — HIGH CONFLICT: How to Defuse Any Squabble (Amanda Ripley & Susan Cain) — speakers: Susan Cain, Amanda Ripley, Rufus Griscom, Caleb Bissinger
+- 2021-06-23 — EXTENDED MIND: Want to Get Smarter? Try Thinking Outside of Your Brain — speakers: Extended Mind, Annie Murphy Paul, Rufus Griscom, Caleb Bissinger
+- 2021-06-16 — DELUSIONS: How Self-Deception Can Help You Flourish (Shankar Vedantam & Daniel Pink) — speakers: Shankar Vedantam, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2021-06-09 — AI: The Extraordinary Story of the Tech That’s Changing the World — speakers: Frank Rosenblatt, Cade Metz, Rufus Griscom, Caleb Bissinger
+- 2021-06-02 — MINE: How the Rules of Ownership Control Our Lives — speakers: Michael Heller, James Salzman, Rufus Griscom, Caleb Bissinger
+- 2021-05-26 — GATHERING: Mastering the Art of Hanging Out — speakers: Priya Parker, Rufus Griscom, Caleb Bissinger
+- 2021-05-19 — EMAIL: Would the World Be Better Without It? — speakers: Cal Newport, Rufus Griscom, Caleb Bissinger
+- 2021-05-12 — WORK: Should You Do Less of It? Adam Grant and James Suzman on the 15-Hour Workweek. — speakers: Adam Grant, James Suzman, Rufus Griscom, Caleb Bissinger
+- 2021-05-05 — CODE BREAKER: Why Walter Isaacson Thinks CRISPR Will Change Life As We Know It — speakers: Walter Isaacson, Jennifer Doudna, Ben Franklin, Steve Jobs, Rufus Griscom, Caleb Bissinger
+- 2021-04-28 — FOOD: Can We Taste Climate Change? — speakers: Amanda Little, Rufus Griscom, Caleb Bissinger
+- 2021-04-21 — CHATTER: Learning to Love the Voice in Your Head — speakers: Ethan Kross, Rufus Griscom, Caleb Bissinger
+- 2021-04-14 — HUMOR: How to Turn Levity Into Your Secret Weapon — speakers: Jennifer Aaker, Naomi Bagdonas, Rufus Griscom, Caleb Bissinger
+- 2021-04-07 — BEGINNERS: The Joys of Being an Amateur — speakers: Tom Vanderbilt, Rufus Griscom, Caleb Bissinger
+- 2021-03-31 — THINK AGAIN: Adam Grant on the Power of Changing Your Mind — speakers: Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2021-03-24 — VOICE: You Are What You Speak — speakers: John Colapinto, Rufus Griscom, Caleb Bissinger
+- 2021-03-17 — THE BRAIN: A User’s Guide to the Blob Between Your Ears — speakers: Lisa Feldman Barrett, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2021-03-10 — SERENDIPITY: Good Luck and How to Get It — speakers: Good Luck, Christian Busch, Rufus Griscom, Caleb Bissinger
+- 2021-03-03 — DRUG USE: Is Getting High an American Right? — speakers: Carl Hart, Rufus Griscom, Caleb Bissinger
+- 2021-02-25 — POST CORONA: Predicting the Future With Scott Galloway — speakers: Scott Galloway, Rufus Griscom, Caleb Bissinger
+- 2021-02-19 — Season 3: New Ideas, Same Great Taste — speakers: New Ideas, Next Big Idea, Rufus Griscom, Caleb Bissinger
+- 2020-09-25 — LET’S BE REASONABLE: Sam Harris and Rufus in Conversation — speakers: Sam Harris, Rufus Griscom, Caleb Bissinger
+- 2020-09-01 — MIND GAMES: What Poker Can Teach Us About Luck, Skill, and Ourselves — speakers: Maria Konnikova, Rufus Griscom, Caleb Bissinger
+- 2020-08-25 — TRANSCENDENCE: Finding Fulfillment Beyond Ourselves — speakers: Scott Barry Kaufman, Rufus Griscom, Caleb Bissinger
+- 2020-08-18 — HUMANKIND: Finding Hope in Human History — speakers: Rutger Bregman, Rufus Griscom, Caleb Bissinger
+- 2020-08-11 — MIGRATION: Why Human Beings Were Built to Move — speakers: Sonia Shah, Rufus Griscom, Caleb Bissinger
+- 2020-08-04 — BREATH: Harnessing the Power of a Lost Art — speakers: James Nestor, Rufus Griscom, Caleb Bissinger
+- 2020-07-28 — PERSUASION: How to Change People’s Minds — speakers: Change People’s Minds Businesses, Jonah Berger, Rufus Griscom, Caleb Bissinger
+- 2020-07-21 — ALCHEMY: How Our Creations Recreate Us — speakers: Ainissa Ramirez, Rufus Griscom, Caleb Bissinger
+- 2020-07-14 — UPSTREAM: Solving Problems Before They Happen — speakers: Dan Heath, Rufus Griscom, Caleb Bissinger
+- 2020-07-07 — CIVILIZATION: Recalculating the Price of Progress — speakers: Christopher Ryan, Rufus Griscom, Caleb Bissinger
+- 2020-06-30 — TOGETHER: A Doctor’s Prescription for Health and Happiness — speakers: Vivek Murthy, Susan Cain, Rufus Griscom, Caleb Bissinger
+- 2020-06-23 — WEIRDNESS: How to Make it Your Superpower — speakers: Olga Khazan, Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2020-06-16 — BOYS & SEX: Coming of Age in America — speakers: Peggy Orenstein, Rufus Griscom, Caleb Bissinger
+- 2020-06-09 — FRIENDSHIP: The Science and Power of Life’s Deepest Bond — speakers: Lydia Denworth, Rufus Griscom, Caleb Bissinger
+- 2020-06-03 — THINKING AHEAD: How to Make Life’s Big Decisions — speakers: Malcolm Gladwell, Steven Johnson, Rufus Griscom, Caleb Bissinger
+- 2020-05-26 — LISTENING: What You’re Missing and Why it Matters — speakers: Kate Murphy, Rufus Griscom, Caleb Bissinger
+- 2020-05-19 — SUCCESSFUL AGING: How to Live a Full, Long Life — speakers: Daniel Levitin, Rufus Griscom, Caleb Bissinger
+- 2020-05-12 — Rethinking Big Ideas: Adam Grant on Finding Balance — speakers: Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2020-05-05 — Rethinking Big Ideas: Priya Parker on Gathering Apart — speakers: Rethinking Big Ideas, Priya Parker, Rufus Griscom, Caleb Bissinger
+- 2020-04-28 — Rethinking Big Ideas: The Path to a More Generous World — speakers: Rethinking Big Ideas, Yancey Strickler, Rufus Griscom, Caleb Bissinger
+- 2020-04-21 — Rethinking Big Ideas: Daniel Pink on the Future of Work — speakers: Rethinking Big Ideas, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2020-04-16 — Rethinking Big Ideas: On Finding Joy in Simple Pleasures — speakers: Rethinking Big Ideas, Ingrid Fetell Lee, Rufus Griscom, Caleb Bissinger
+- 2020-04-09 — Rethinking Big Ideas: Steven Johnson on Scientific Breakthroughs — speakers: Rethinking Big Ideas, Steven Johnson, Rufus Griscom, Caleb Bissinger
+- 2020-04-02 — Rethinking Big Ideas: Susan Cain on Solitude — speakers: Rethinking Big Ideas, Susan Cain, Rufus Griscom, Caleb Bissinger
+- 2020-01-28 — STILLNESS: How to Find Peace in a Frantic World — speakers: Leonardo da Vinci, Ryan Holiday, Rufus Griscom, Caleb Bissinger
+- 2020-01-21 — FREE MONEY: Why Andrew Yang Thinks a Giveaway Can Save the Economy — speakers: Andrew Yang Thinks, Andrew Yang, Rufus Griscom, Caleb Bissinger
+- 2020-01-14 — HABITS: How to Let Go of The Old and Bring in the New — speakers: Wendy Wood, Bad Habits, Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2020-01-07 — GATHERING: How to Make Our Time Together Meaningful — speakers: Priya Parker, Rufus Griscom, Caleb Bissinger
+- 2019-12-24 — FUTURE: Can We Build a More Generous World — speakers: Yancey Strickler, Rufus Griscom, Caleb Bissinger
+- 2019-12-17 — SUCCESS: The Dirty Secret of Getting Ahead — speakers: Daniel Markovits, Rufus Griscom, Caleb Bissinger
+- 2019-12-10 — TRUST: Malcolm Gladwell on How We Talk To Strangers — speakers: Malcolm Gladwell, Rufus Griscom, Caleb Bissinger
+- 2019-12-03 — POWER: Why You Have More Than You Think — speakers: Henry Timms, Rufus Griscom, Caleb Bissinger
+- 2019-11-26 — PERCEPTION: Why What You See Is Not Reality — speakers: Don Hoffman, Rufus Griscom, Caleb Bissinger
+- 2019-11-19 — UNCENSORED: What Free Speech Debates Teach Us About Empathy — speakers: Zachary Wood, Rufus Griscom, Caleb Bissinger
+- 2019-11-12 — CONFLICT: How to Have More Productive Disagreements — speakers: Buster Benson, Rufus Griscom, Caleb Bissinger
+- 2019-11-06 — JOYFUL: Why Ordinary Objects Can Make You Extraordinarily Happy — speakers: Ingrid Fetell Lee, Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2019-10-30 — CODERS: The Invisible Architects Who Shape Our Lives — speakers: Clive Thompson, Rufus Griscom, Caleb Bissinger
+- 2019-10-22 — RACIAL BIAS: Why We Have It and What We Can Do About It — speakers: Jennifer Eberhardt, Dan Pink, Rufus Griscom, Caleb Bissinger
+- 2019-10-16 — INDISTRACTABLE: Staying Focused in a World of Distractions — speakers: Staying Focused, Distractions Nir Eyal, Silicon Valley, Rufus Griscom, Caleb Bissinger
+- 2019-10-02 — RANGE: Why Generalists Succeed in a Specialists’ World — speakers: Malcolm Gladwell, David Epstein, Rufus Griscom, Caleb Bissinger
+- 2019-10-01 — Introducing The Next Big Idea — speakers: Rufus Griscom, Caleb Bissinger

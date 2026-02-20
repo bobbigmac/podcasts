@@ -2,11 +2,11 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"d5b82a4057bfee937a38c8694e53fd24"`
-- last_modified: `Thu, 19 Feb 2026 15:28:10 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T19:06:07+00:00`
+- checked_at: `2026-02-20T19:06:07+00:00`
+- etag: `"98214eb44d6545739b1dc18515a69dac"`
+- last_modified: `Fri, 20 Feb 2026 17:35:58 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,17 +18,42 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-20T19:06:07+00:00",
   "owners": [
     "Elis James",
     "John Robins"
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british",
+    "comedy",
     "radio"
   ],
   "episodes": [
+    {
+      "key": "3a15b04827f7660731c81b8d8ada8cf3bb54573b",
+      "title": "#516 - Master of The Memoir, French Flag Fancy and I Am Full of Eggs",
+      "published_at": "2026-02-20T17:32:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n2bl4z",
+      "description": "It’s Melvin Brain in the chair today as we go all Radio 4. What is thought? What is the self? High. Brow. This is the Best Comedy show at the British Podcast Awards 2025. Parenting Hell simply isn't doing this. There’s even an academic called Dr Loevenbruck involved. It is a full spectrum of vibes today. From deep psychology to S’ing yourself twice in a heartbeat. Elsewhere, John has a hollow coldness in the bones. In other words, he’s hungry. Meanwhile, Elis has eggs on the brain. And it turns out there’s hope for John in meeting the love of his life taking life two steps at a time. elisandjohn@bbc.co.uk on the email to get in touch - but do know that Producer Michael has read an awful lot of emails about inner monologues this week. The sheer quality of correspondence this week has been top tier.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n2bk7n.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57600000",
+      "itunes_duration": "3600",
+      "speakers": [
+        "Dr Loevenbruck",
+        "Producer Michael",
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "master",
+        "memoir",
+        "flag",
+        "fancy",
+        "eggs"
+      ]
+    },
     {
       "key": "35aa02af47f04f339969f582ab3092f04ef68bab",
       "title": "#515 - Lads FM, Acquire It and Do you Want Vibes with That?",
@@ -12768,6 +12793,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — #516 - Master of The Memoir, French Flag Fancy and I Am Full of Eggs — speakers: Dr Loevenbruck, Producer Michael, Elis James, John Robins
 - 2026-02-17 — #515 - Lads FM, Acquire It and Do you Want Vibes with That? — speakers: John Ford, James Cameron, Frank Zappa, Snoop Dogg, Drs Chris, Xand van Tulleken, Elis James, John Robins
 - 2026-02-13 — #514 - Chinese Geese, Caribbean Soaks and Emre Can Headspace — speakers: Mad Dads, Elis James, John Robins
 - 2026-02-10 — #513 - John Laughter, Alan Giggles and Pierre Novellie — speakers: John Laughter, Alan Giggles, Pierre Novellie, Elis James, John Robins
