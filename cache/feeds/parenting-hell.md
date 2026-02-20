@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-02-19T23:01:49+00:00`
-- checked_at: `2026-02-19T23:01:49+00:00`
-- last_modified: `Thu, 19 Feb 2026 22:44:02 GMT`
+- fetched_at: `2026-02-20T01:14:00+00:00`
+- checked_at: `2026-02-20T01:14:00+00:00`
+- last_modified: `Fri, 20 Feb 2026 00:15:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ba087785b67546b4a9494b8c48ed8202.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-19T23:01:49+00:00",
+  "fetched_at": "2026-02-20T01:14:00+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ace721ec23226955b558b82ed01d85964a47a031",
+      "title": "S12 EP14: Seann Walsh",
+      "published_at": "2026-02-20T00:15:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) it's the return of comedian and friend - Seann Walsh. Since we last spoke he's had another child with partner Grace and is navigating the considerable increase in energy and bandwidth anyone with two kids (let alone close to two under two!) will understand very well!! Seann Walsh is on tour with This Is Torture, tickets are on sale now and available from https://www.seannwalsh.com . Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4473386682.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3236",
+      "speakers": [
+        "Seann Walsh",
+        "Parenting Hell",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "seann",
+        "walsh"
+      ]
+    },
     {
       "key": "c48696aee02de16c248a7a01e3cab35ef0fe55ef",
       "title": "S12 EP13: Anti-Valentines: Playground Sha*gers (Part 4)",
@@ -12347,6 +12369,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — S12 EP14: Seann Walsh — speakers: Seann Walsh, Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2026-02-17 — S12 EP13: Anti-Valentines: Playground Sha*gers (Part 4) — speakers: Playground Sha gers, Rob Beckett, Josh Widdicombe, Playground Shaggers, Parenting Hell
 - 2026-02-13 — S12 EP12: Lou Beckett (The Return) — speakers: Lou Beckett, Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2026-02-10 — S12 EP11: A Kitten Update — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell

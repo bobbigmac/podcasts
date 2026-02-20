@@ -2,10 +2,10 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- last_modified: `Thu, 19 Feb 2026 00:06:42 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T01:14:00+00:00`
+- checked_at: `2026-02-20T01:14:00+00:00`
+- last_modified: `Fri, 20 Feb 2026 01:06:39 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,16 +17,34 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-20T01:14:00+00:00",
   "owners": [
     "Frank Skinner"
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british",
+    "comedy",
     "radio"
   ],
   "episodes": [
+    {
+      "key": "5d13321394cf42c0c036ec119ed027ce6632ecd1",
+      "title": "A Disastrous Valentine's Day",
+      "published_at": "2026-02-20T01:00:00+00:00",
+      "link": null,
+      "description": "This time Frank and Emily are joined by Milo Edwards! Frank has a moral dilemma and has had a phone call from the police. Also Milo has a tale from a Russian train journey. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3670410706.mp3?updated=1771456781",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2330",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "valentine"
+      ]
+    },
     {
       "key": "e49a9e9d3b3be72ef2d7280578d274bdd45a97b3",
       "title": "Frank Skinner’s Radio Days: Olympic Torch",
@@ -11766,22 +11784,22 @@
       ]
     },
     {
-      "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
-      "title": "The Frank Skinner Show",
+      "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
+      "title": "The Best of Frank 2009 - 2011",
       "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170222103109.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2015 - 2016. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a7991afe-817e-11ef-8fe9-dff118a13380/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7403625260.mp3?updated=1738248136",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170208081140.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2009 - 2011. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a716fc9a-817e-11ef-8fe9-17afc22bd574/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9438067069.mp3?updated=1739807264",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4974",
+      "itunes_duration": "3157",
       "speakers": [
         "Frank Skinner"
       ],
       "topics": [
-        "frank",
-        "skinner"
+        "best",
+        "frank"
       ]
     },
     {
@@ -11823,22 +11841,22 @@
       ]
     },
     {
-      "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
-      "title": "The Best of Frank 2009 - 2011",
+      "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
+      "title": "The Frank Skinner Show",
       "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170208081140.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2009 - 2011. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a716fc9a-817e-11ef-8fe9-17afc22bd574/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9438067069.mp3?updated=1739807264",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170222103109.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2015 - 2016. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a7991afe-817e-11ef-8fe9-dff118a13380/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7403625260.mp3?updated=1738248136",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3157",
+      "itunes_duration": "4974",
       "speakers": [
         "Frank Skinner"
       ],
       "topics": [
-        "best",
-        "frank"
+        "frank",
+        "skinner"
       ]
     },
     {
@@ -13526,13 +13544,13 @@
       ]
     },
     {
-      "key": "909af024d5d1470daf77598b7f74c36a738f988f",
+      "key": "864fc7223ea4db3d1f6994c74a1833ed766874a0",
       "title": "The Frank Skinner Show - Late Review",
       "published_at": "2015-08-08T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124012.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying any day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dc6a22c8-817e-11ef-8fe9-035c7d632db0/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3168595967.mp3?updated=1738241570",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124717.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying ant day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db8407e8-817e-11ef-8fe9-9746e1f354ec/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5260248061.mp3?updated=1738241551",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4626",
@@ -13550,13 +13568,13 @@
       ]
     },
     {
-      "key": "864fc7223ea4db3d1f6994c74a1833ed766874a0",
+      "key": "909af024d5d1470daf77598b7f74c36a738f988f",
       "title": "The Frank Skinner Show - Late Review",
       "published_at": "2015-08-08T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124717.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying ant day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/db8407e8-817e-11ef-8fe9-9746e1f354ec/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5260248061.mp3?updated=1738241551",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124012.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying any day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dc6a22c8-817e-11ef-8fe9-035c7d632db0/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3168595967.mp3?updated=1738241570",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4626",
@@ -21021,6 +21039,2333 @@
         "weekend",
         "podcast"
       ]
+    },
+    {
+      "key": "ffabd130b2224dee58eae32038d5493a92df59de",
+      "title": "Frank Skinner - 2 Oct - Alun Cochrane",
+      "published_at": "2010-10-04T08:22:02+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20101004092202.mp3",
+      "description": "This week the team talk about Frank's cosmetic surgery, the Millibands and Gareth's scary surgery. Alun Cochrane's the guest. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d4b598e0-817f-11ef-8fe9-8741a4e72970/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4567918348.mp3?updated=1739351679",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3125",
+      "speakers": [
+        "Alun Cochrane",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "alun",
+        "cochrane"
+      ]
+    },
+    {
+      "key": "149cb7f1123df74d32ffbc00e208238b6e51891d",
+      "title": "Not the Weekend Podcast - 29 Sept",
+      "published_at": "2010-09-29T07:47:42+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100929084742.mp3",
+      "description": "Frank, Emily and Gareth chat about posh dinners, sorbet > relationships and Kate Winslets feet. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d52d1ffa-817f-11ef-8fe9-7f2171a24eeb/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9541375944.mp3?updated=1728559706",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1933",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "weekend",
+        "podcast",
+        "sept"
+      ]
+    },
+    {
+      "key": "6c59cb5eb698bf5d7801246c879ca8c77e787e0d",
+      "title": "Frank Skinner - Guest: Isy Suttie",
+      "published_at": "2010-09-25T13:32:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100925143255.mp3",
+      "description": "Frank, Emily and Gareth talk cuddly toys, Samuel Johnson and David Beckham. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5862a82-817f-11ef-8fe9-b767f4c0a41b/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8106919944.mp3?updated=1739352571",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3515",
+      "speakers": [
+        "Frank Skinner Guest",
+        "Samuel Johnson",
+        "David Beckham",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "guest",
+        "suttie"
+      ]
+    },
+    {
+      "key": "1fe5a0f700b1e5e5146d7ab82e8e958ada6fdb7d",
+      "title": "The Frank Skinner Show",
+      "published_at": "2010-09-22T13:25:08+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100922142508.mp3",
+      "description": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5e1a736-817f-11ef-8fe9-f7e9934dfe8c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7893127249.mp3?updated=1728559712",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1640",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner"
+      ]
+    },
+    {
+      "key": "f21b28c2a6f47ae069375d368dfb3b3204d5772c",
+      "title": "Frank Skinner - Guest: Shazia Mirza",
+      "published_at": "2010-09-18T12:14:08+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100918131408.mp3",
+      "description": "This week the show was recorded in Birmingham and brummie comedian Shazia Mirza popped in for a chat. There was also talk about George Michael, The Pope and Beijing. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d666a206-817f-11ef-8fe9-6f09a850101e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6349255927.mp3?updated=1739351739",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3335",
+      "speakers": [
+        "Frank Skinner Guest",
+        "Shazia Mirza",
+        "George Michael",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "guest",
+        "shazia",
+        "mirza"
+      ]
+    },
+    {
+      "key": "9dd31210da26db28b41cbe3aa66f745e04b152bf",
+      "title": "Frank Skinner - Not the Weekend Podcast",
+      "published_at": "2010-09-15T07:32:38+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100915083238.mp3",
+      "description": "Frank, Emily and Gareth chat about some of the things they didn't have time to cover in last weeks show, including Ethan's Nursery report and Autumn/Winter Style 2010. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6fce568-817f-11ef-8fe9-2344ff877237/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1394058225.mp3?updated=1728559733",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1859",
+      "speakers": [
+        "Frank Skinner Not",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "b0d309e3d1475512ec9f225bf14d4bb9065e82dc",
+      "title": "Frank Skinner - Guest: Stewart Francis",
+      "published_at": "2010-09-11T13:07:51+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100911140751.mp3",
+      "description": "Frank, Emily and Gareth talk about the strangest places they have ever slept, plus Stewart Francis pops in for a chat about his Tour De Francis. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d75a38bc-817f-11ef-8fe9-8714bfcdd91e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6935912911.mp3?updated=1739351772",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3411",
+      "speakers": [
+        "Frank Skinner Guest",
+        "Stewart Francis Frank",
+        "Stewart Francis",
+        "Tour De Francis",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "guest",
+        "stewart",
+        "francis"
+      ]
+    },
+    {
+      "key": "6a0689f3c37fd0f75ef25d3edc53eb77e196f59d",
+      "title": "Frank Skinner - Not the Weekend Podcast",
+      "published_at": "2010-09-08T10:59:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100908115103.mp3",
+      "description": "Frank, Emily and Gareth discuss the books they are embarrassed to admit they read, from the Mid-life Manual to Harry Potter, plus random chat about Prince Charles, Vintage Clothing and Sunday Mass. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d8eeeccc-817f-11ef-8fe9-6b02a0c69365/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5499616702.mp3?updated=1728559724",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2014",
+      "speakers": [
+        "Frank Skinner Not",
+        "Harry Potter",
+        "Vintage Clothing",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "ddf397d027199ba96a37f0e14033d6305d072a73",
+      "title": "Frank Skinner - Guest: Midnight Beast",
+      "published_at": "2010-09-04T12:28:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100904132802.mp3",
+      "description": "Frank, Emily and Gareth discuss the strangest things they've seen in pubs and chat to Midnight Beast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d949aa18-817f-11ef-8fe9-b739a2de7e66/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1166570166.mp3?updated=1739352630",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3526",
+      "speakers": [
+        "Frank Skinner Guest",
+        "Midnight Beast Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "guest",
+        "midnight",
+        "beast"
+      ]
+    },
+    {
+      "key": "2b48b74e10377726ebdf7f5c22c40e2b89214958",
+      "title": "Frank Skinner - Not the Weekend Podcast",
+      "published_at": "2010-09-01T11:47:13+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100901124713.mp3",
+      "description": "Frank tells Emily and Gareth about a strange incident that have happened to him last week involving a fellow called Ray Gordon. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/da51b14e-817f-11ef-8fe9-1fd7f71c5498/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1269745221.mp3?updated=1728559726",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1944",
+      "speakers": [
+        "Frank Skinner Not",
+        "Ray Gordon",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "79d44191932b3db3a8a6ae6466c83bbdd0f9542d",
+      "title": "Frank Skinner - Guest Sarah Millican",
+      "published_at": "2010-08-28T16:20:57+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100828172057.mp3",
+      "description": "Frank, Emily and Gareth do their last show from Edinburgh and talk awards nominations, unusual honours and traffic jams. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db3e3c9e-817f-11ef-8fe9-63556384dbb5/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7275303948.mp3?updated=1739352753",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3190",
+      "speakers": [
+        "Frank Skinner Guest",
+        "Sarah Millican Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "guest",
+        "sarah",
+        "millican"
+      ]
+    },
+    {
+      "key": "16c773d279e123839f92b64741445618ae3b8b8e",
+      "title": "Frank Skinner - Not the Weekend Podcast",
+      "published_at": "2010-08-25T08:27:28+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100825092728.mp3",
+      "description": "Frank and the team are still up in Edinburgh. Emily tells of her studio incident and Gareth walks out on his birthday dinner. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db9850ee-817f-11ef-8fe9-a72be63b64ca/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2483127573.mp3?updated=1728559736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1931",
+      "speakers": [
+        "Frank Skinner Not",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "af2595edf07c7aee76bc564245eb71c03350171e",
+      "title": "The Frank Skinner Show",
+      "published_at": "2010-08-21T15:40:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100823164022.mp3",
+      "description": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dbf9a1be-817f-11ef-8fe9-17a765531e10/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1333809361.mp3?updated=1739351897",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3514",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner"
+      ]
+    },
+    {
+      "key": "7f50985760877723c88e123050948358c4fee4e2",
+      "title": "Frank Skinner Midweek Podcast - 18 August",
+      "published_at": "2010-08-18T09:49:19+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100818104919.mp3",
+      "description": "Frank, Emily and Gareth are in Edinburgh and in this podcast they talk about all of the things they didn't get chance to get through on the radio. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dc517c54-817f-11ef-8fe9-7783d91f69d6/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4513975600.mp3?updated=1728559737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1935",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "midweek",
+        "podcast",
+        "august"
+      ]
+    },
+    {
+      "key": "2ea2137d36bb31e66f773541d5d9470563e807df",
+      "title": "Frank Skinner - 14 Aug - Tom Wrigglesworth",
+      "published_at": "2010-08-14T18:10:31+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100814191031.mp3",
+      "description": "Frank, Emily and Gareth are in Edinburgh and welcome Tom to the show Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dd7a0312-817f-11ef-8fe9-1bf8b29603ee/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1768115487.mp3?updated=1739351919",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3210",
+      "speakers": [
+        "Wrigglesworth Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "wrigglesworth"
+      ]
+    },
+    {
+      "key": "62a0b211d715fe8d9acdf1f27e0a472f93a0fd59",
+      "title": "Frank Skinner talks to Christian O'Connell",
+      "published_at": "2010-08-12T12:05:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100812130553.mp3",
+      "description": "Frank gets interviewed by the OC in a special midweek podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/de2667a6-817f-11ef-8fe9-d3d92590da4c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1095713927.mp3?updated=1728559734",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1470",
+      "speakers": [
+        "Frank Skinner",
+        "Christian O'Connell"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "christian"
+      ]
+    },
+    {
+      "key": "f639fd997a95b20cfd23cbbc137c47a8c9ef38a7",
+      "title": "Frank Skinner meets Christian O'Connell",
+      "published_at": "2010-08-11T13:26:04+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100811142604.mp3",
+      "description": "A special midweek podcast as Frank meets Christian O'Connell and has a chat about life, love, radio and stand-up comedy Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/df070248-817f-11ef-8fe9-afded2905d5d/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9875607423.mp3?updated=1728559736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1423",
+      "speakers": [
+        "Frank Skinner",
+        "Christian O'Connell"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "christian"
+      ]
+    },
+    {
+      "key": "ca6c086de785f620741c7bc81ce5794265c23708",
+      "title": "Frank Skinner - Guest: Micky Flanagan",
+      "published_at": "2010-08-07T14:03:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100807150310.mp3",
+      "description": "Frank is back from his holiday and is joined by Emily and Steve Williams. They chat about crazes, including sacklining, crisp packet fashion accessories and the chicken foot. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e132e6cc-817f-11ef-8fe9-537add11838f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4657253834.mp3?updated=1739351984",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3372",
+      "speakers": [
+        "Frank Skinner Guest",
+        "Micky Flanagan Frank",
+        "Steve Williams",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "guest",
+        "micky",
+        "flanagan"
+      ]
+    },
+    {
+      "key": "4eda7e9eba7246d07636eeb311bded2c26ff7f77",
+      "title": "Guest: Josie Long",
+      "published_at": "2010-07-24T10:10:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100727111049.mp3",
+      "description": "Lee Mack fills in for Frank Skinner and talks rom-coms, glamping and crying with Emily and Gareth. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e18e544e-817f-11ef-8fe9-5f3681dc4c9b/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3082103119.mp3?updated=1739351985",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2643",
+      "speakers": [
+        "Josie Long",
+        "Lee Mack",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "josie",
+        "long"
+      ]
+    },
+    {
+      "key": "dfc0744badf9cabf85602f0442a02906861d37a9",
+      "title": "Frank Skinner - 22 June - Not The Weekend Podcast",
+      "published_at": "2010-07-23T08:34:01+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100723093401.mp3",
+      "description": "More musings from Frank, Emily & Gareth which never made it to the Radio show. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e4484442-817f-11ef-8fe9-3bfe6615442b/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1429380350.mp3?updated=1728559748",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1060",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "june",
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "29509c02f1f29cc2bc4a6dc1a95987ea737b74b5",
+      "title": "Guest: Andy Zaltzman",
+      "published_at": "2010-07-17T13:53:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100717145352.mp3",
+      "description": "Frank returns from South Africa and is pleased to be reunited with Emily and Gareth. Like old friends catching up they chat about moral dilemmas, sausage rolls and GMTV. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e500b23e-817f-11ef-8fe9-ef994348937b/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3131231505.mp3?updated=1739352016",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3132",
+      "speakers": [
+        "Andy Zaltzman Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "andy",
+        "zaltzman"
+      ]
+    },
+    {
+      "key": "9754eac01c34258a0029351084e52bf80527961b",
+      "title": "Russell Kane on Absolute Radio",
+      "published_at": "2010-07-10T12:00:24+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100710130024.mp3",
+      "description": "This week comedian Russell Kane stands in for Frank Skinner. Russell, Emily and Gareth talk about the male/female divide and Prince's technology predictions. Gareth has a personality change after a fizzy drink incident. This week's guest is Holly Walsh. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e55bd3ee-817f-11ef-8fe9-5faf4e02047a/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7646608716.mp3?updated=1739352802",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3088",
+      "speakers": [
+        "Russell Kane",
+        "Frank Skinner",
+        "Holly Walsh"
+      ],
+      "topics": [
+        "russell",
+        "kane",
+        "absolute",
+        "radio"
+      ]
+    },
+    {
+      "key": "8746c364d44ba1d3684194165e2acf5a259cf478",
+      "title": "Al Murray On Absolute Radio",
+      "published_at": "2010-07-03T12:33:41+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100703133341.mp3",
+      "description": "Al joins Emily and Gareth once again. They talk Russian spies and things they haven't got round to. Stand up comedian Dan Antopolski is this week's guest. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e5b9c6ac-817f-11ef-8fe9-3f7a0c9d671f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8541615238.mp3?updated=1739352034",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2899",
+      "speakers": [
+        "Al Murray",
+        "Dan Antopolski",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "murray",
+        "absolute",
+        "radio"
+      ]
+    },
+    {
+      "key": "0a1b2a8ef9a0502f9ac9f7029f722a9935d34533",
+      "title": "Baddiel & Skinner - Live Show 3",
+      "published_at": "2010-07-01T18:48:01+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100701194801.mp3",
+      "description": "Frank's in South Africa and this was the third of the live shows he did on Absolute Radio with David Baddiel. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e6169e9a-817f-11ef-8fe9-dba8fbc8ebd6/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1303995225.mp3?updated=1728559758",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1434",
+      "speakers": [
+        "David Baddiel",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "baddiel",
+        "skinner"
+      ]
+    },
+    {
+      "key": "59ab7cc444ca199b0370704c69ba50ffaecea9db",
+      "title": "Lee Mack on Absolute Radio",
+      "published_at": "2010-06-26T11:29:17+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100626122917.mp3",
+      "description": "This week Lee Mack covers for Frank Skinner. Lee, Emily and Gareth talk mobile discos and parenting skills. This week's guest is We Are Klang and Inbetweeners star Greg Davies. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e6c89c3a-817f-11ef-8fe9-c74014402b71/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4432446919.mp3?updated=1739365057",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3133",
+      "speakers": [
+        "Lee Mack",
+        "Frank Skinner",
+        "Greg Davies"
+      ],
+      "topics": [
+        "mack",
+        "absolute",
+        "radio"
+      ]
+    },
+    {
+      "key": "4eedb837fad3c8b6aca9e9719eee0697a7a70cd6",
+      "title": "Baddiel & Skinner - Live Show 2",
+      "published_at": "2010-06-22T09:51:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100622105137.mp3",
+      "description": "Frank fans - we thought you'd like to hear David and Frank's live show from South Africa Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e85aa7c8-817f-11ef-8fe9-8fc6136fc1a3/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1337788377.mp3?updated=1739352862",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1596",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "baddiel",
+        "skinner"
+      ]
+    },
+    {
+      "key": "466a57bb6c3a8a66cee52ffb7b5ed7b9144d3875",
+      "title": "Lee Mack on Absolute Radio",
+      "published_at": "2010-06-19T12:55:18+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100619135518.mp3",
+      "description": "This week Lee Mack covers for Frank. The team talk about England's football misery and annoying phrases. They are joined by Danny Wallace and discuss awkward situations. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e952f144-817f-11ef-8fe9-03db8bfb07e6/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2621860033.mp3?updated=1739352210",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3146",
+      "speakers": [
+        "Lee Mack",
+        "Danny Wallace",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "mack",
+        "absolute",
+        "radio"
+      ]
+    },
+    {
+      "key": "11737131e44be75b485239e41886d13b7971480b",
+      "title": "The Frank Skinner Show",
+      "published_at": "2010-06-17T08:50:51+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100617095051.mp3",
+      "description": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e9adf9d6-817f-11ef-8fe9-affb4e79c6b3/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5727242222.mp3?updated=1739352202",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1601",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner"
+      ]
+    },
+    {
+      "key": "fc7ab5f4318b69df46583213883c2e1c0da355d7",
+      "title": "Al Murray on Absolute Radio",
+      "published_at": "2010-06-12T13:24:07+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100612142407.mp3",
+      "description": "Al Murray covers for Frank Skinner this week. Al, Emil and Gareth talk breakfast and the World Cup. Lee Nelson is the guest who brings his cockney charm in to the studio. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ea08070a-817f-11ef-8fe9-5f309369a6d5/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6869444675.mp3?updated=1739803657",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2464",
+      "speakers": [
+        "Al Murray",
+        "Frank Skinner",
+        "Lee Nelson"
+      ],
+      "topics": [
+        "murray",
+        "absolute",
+        "radio"
+      ]
+    },
+    {
+      "key": "04b343bd8a283c8cfe0462e6d27577f830ef5910",
+      "title": "Frank Skinner - 9June - Not The Weekend Podcast",
+      "published_at": "2010-06-09T08:08:30+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100609090830.mp3",
+      "description": "More musings from Frank, Emily & Gareth which never made it to the Radio show. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ea672244-817f-11ef-8fe9-1bdb822b39c0/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1532761650.mp3?updated=1728559787",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1873",
+      "speakers": [
+        "Frank Skinner June",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "af343d60f7c95037db1650aebef7420474e2abda",
+      "title": "Frank Skinner - 05 June - Guest: Andy Nyman",
+      "published_at": "2010-06-05T14:13:41+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100605151341.mp3",
+      "description": "Frank, Emily and Gareth talk about Last Of The Summer Wine, Lembit Opik's debut stand up show and South Africa. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/eb11804a-817f-11ef-8fe9-6b3e075f37d8/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4187135475.mp3?updated=1739352896",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3078",
+      "speakers": [
+        "Frank Skinner",
+        "Andy Nyman Frank"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "june",
+        "guest",
+        "andy",
+        "nyman"
+      ]
+    },
+    {
+      "key": "ac72b7ab7cebd2e7cd31c5c3f2df870b536f9d55",
+      "title": "Frank Skinner - 2June - Not the Weekend Podcast",
+      "published_at": "2010-06-02T07:22:55+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100602082255.mp3",
+      "description": "Frank, Emily and Gareth mull over all of the stuff they didn't get chance to talk about on-air Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/eb6f733a-817f-11ef-8fe9-971cb2292aaa/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7751443174.mp3?updated=1728559784",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1682",
+      "speakers": [
+        "Frank Skinner June",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "c4923f746be858fe63663a5d2a7a19ee63b1347f",
+      "title": "Frank Skinner - 29May - Guest: Jane Turner",
+      "published_at": "2010-05-29T13:08:59+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100529140859.mp3",
+      "description": "This week the team discussed idiotic eureka moments, model villages and the Sex and the City 2 Premiere. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ebc96a7a-817f-11ef-8fe9-278f5e6f331e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7348509105.mp3?updated=1739803609",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3367",
+      "speakers": [
+        "Frank Skinner May Guest",
+        "Jane Turner",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "guest",
+        "jane",
+        "turner"
+      ]
+    },
+    {
+      "key": "e5a3bd7673b60c97bcfea07fdb6c7239a1f2ac45",
+      "title": "Frank Skinner - 26May - Not the Weekend Podcast",
+      "published_at": "2010-05-26T11:08:44+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100526120844.mp3",
+      "description": "Frank, Emily and Gareth talk about the Millabands, Kate Moss and Cauliflower. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ec24a9a8-817f-11ef-8fe9-e729cf743c21/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7056635628.mp3?updated=1728559790",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1690",
+      "speakers": [
+        "Frank Skinner May",
+        "Kate Moss",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "4ebdb12e0b8cc14a10ea41bc4d7aba4ef22ed0ef",
+      "title": "Baddiel & Skinner's Absolute Radio Podcast",
+      "published_at": "2010-05-25T08:27:05+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100525092705.mp3",
+      "description": "Frank and Dave look at Fabio's 30 man squad. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ec85440c-817f-11ef-8fe9-d71c5a917009/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8229024996.mp3?updated=1728559791",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1599",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "baddiel",
+        "skinner",
+        "absolute",
+        "radio",
+        "podcast"
+      ]
+    },
+    {
+      "key": "f8c3b28f751a9ec3a3ea97de3e956e775721c5d9",
+      "title": "Guest: Mark Watson",
+      "published_at": "2010-05-22T15:55:17+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100522165517.mp3",
+      "description": "Frank, Emily and Gareth talk about childhood games,celebrity weddings and butlers. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ecded09e-817f-11ef-8fe9-bf6613e6a37f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9069998495.mp3?updated=1728559812",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3401",
+      "speakers": [
+        "Mark Watson Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "mark",
+        "watson"
+      ]
+    },
+    {
+      "key": "e57d09ba648451e89e7a23ff7917853ed8e6fc7d",
+      "title": "Not The Weekend Podcast",
+      "published_at": "2010-05-19T07:34:41+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100519083441.mp3",
+      "description": "Frank, Gareth and Laura Solon have a rather surreal conversation about stuffed animals. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ed41c0be-817f-11ef-8fe9-5bb3d5dfcc98/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3577590656.mp3?updated=1728559795",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1501",
+      "speakers": [
+        "Laura Solon",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "abb347359008ca4c0b08714d548da20640e1b94f",
+      "title": "Guest: Tim Vine",
+      "published_at": "2010-05-15T16:04:05+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100515170405.mp3",
+      "description": "This week Frank is joined by Gareth and Laura Solon (Emily is on her hols). Tim Vine is the guest, who shares a love of The Fall, Elvis and puns with Mr Skinner. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ed9f8aaa-817f-11ef-8fe9-abfb3c40206f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1153482362.mp3?updated=1739803591",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3398",
+      "speakers": [
+        "Tim Vine",
+        "Laura Solon",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "vine"
+      ]
+    },
+    {
+      "key": "740d72aeb299effe095c6b3ec788f46c23d23d5e",
+      "title": "The Not The Weekend Podcast",
+      "published_at": "2010-05-12T07:48:11+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100512084811.mp3",
+      "description": "Frank talks about the 28,000 Britons who still watch a black & white TV, Emily expresses her distress over an insult she received from a child Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/edfaab06-817f-11ef-8fe9-077f0eb050c7/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9515777383.mp3?updated=1728559803",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "cbb76796eb130151a4bc2dbb645165d9fa2f6bc4",
+      "title": "Guest: Richard Herring",
+      "published_at": "2010-05-08T16:55:05+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100508175505.mp3",
+      "description": "Frank, Emily & Gareth talk elections, Room 101 and a recent experience involving The Fall. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ee642892-817f-11ef-8fe9-bfd8d5d79df3/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6779497012.mp3?updated=1728559821",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3140",
+      "speakers": [
+        "Richard Herring Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "richard",
+        "herring"
+      ]
+    },
+    {
+      "key": "4070a49667113579579374220730540c6c975085",
+      "title": "Guest: Henning Wehn",
+      "published_at": "2010-05-01T16:11:02+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100501171102.mp3",
+      "description": "On this weeks show Frank, Emily and Gareth share some old wives tales, they chat about Paul McKenna and Frank reveals that he once wanted to be a rapper. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/eebe82d8-817f-11ef-8fe9-ef6b29c0f2cf/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4342823031.mp3?updated=1739803381",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3464",
+      "speakers": [
+        "Henning Wehn",
+        "Paul McKenna",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "henning",
+        "wehn"
+      ]
+    },
+    {
+      "key": "5639e7ecd4447d02405081d377161c2304ee6f83",
+      "title": "The Not the Weekend Podcast",
+      "published_at": "2010-04-28T08:53:06+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100428095306.mp3",
+      "description": "This week the adults get all childish with chat about Micky Mouse, Chewbacca and willy jokes. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ef3d0784-817f-11ef-8fe9-9be2fa487fec/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1950803533.mp3?updated=1728559808",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1598",
+      "speakers": [
+        "Micky Mouse",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "f8edff4a12ff49dc1a14b57855ea65615de021d4",
+      "title": "Guest: Pappys",
+      "published_at": "2010-04-24T14:32:19+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100424153219.mp3",
+      "description": "Frank, Emily and Gareth discuss what made them famous at school, including stories of Bobby the dog, a Charles and Diana flask and a holy sheet. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ef9827e0-817f-11ef-8fe9-e75f7a7b6134/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2534795831.mp3?updated=1739803317",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3146",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "pappys"
+      ]
+    },
+    {
+      "key": "e4e2008403f85ac2b5a7b20c805694346a47a43e",
+      "title": "Not the Weekend Podcast (21/04/10)",
+      "published_at": "2010-04-21T08:31:27+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100421093127.mp3",
+      "description": "Frank, Gareth and Emily get round to discussing all the things they didn't have time for during the show. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/effe105a-817f-11ef-8fe9-c78dac01db63/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1442299483.mp3?updated=1728559808",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1333",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "34b5030271cda6e80fe293e4123e8c0f5f5bb5ea",
+      "title": "Guest: Stephen Mangan & Rhys Thomas",
+      "published_at": "2010-04-18T14:24:37+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100418152437.mp3",
+      "description": "This week Frank, Emily and Gareth are joined by Stephen Mangan and Rhys Thomas, stars of new UK Indie flick 'Beyond The Pole'. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f0fb2088-817f-11ef-8fe9-b399948cba88/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9016853654.mp3?updated=1739803282",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3230",
+      "speakers": [
+        "Stephen Mangan",
+        "Rhys Thomas",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "stephen",
+        "mangan",
+        "rhys",
+        "thomas"
+      ]
+    },
+    {
+      "key": "671063782c4be409e993f1729c74446b2ae117f1",
+      "title": "The Not the Weekend Podcast",
+      "published_at": "2010-04-14T08:06:55+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100414090655.mp3",
+      "description": "Frank, Emily and Gareth with all of the stuff they never got the time to talk about on the radio Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f1ec29ce-817f-11ef-8fe9-4f456037e06b/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9878542102.mp3?updated=1728559820",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1475",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "0cf85926b86663f3d22a04f2853ba1b08edc8b7a",
+      "title": "Guest: Scott Capurro",
+      "published_at": "2010-04-10T16:24:56+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100410172456.mp3",
+      "description": "This week Frank talks to American comedian Scott Capurro about his live chat show at the Royal Vauxhall Tavern. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f24b2a46-817f-11ef-8fe9-635e68bc521f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8071631451.mp3?updated=1739365131",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3317",
+      "speakers": [
+        "Scott Capurro",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "scott",
+        "capurro"
+      ]
+    },
+    {
+      "key": "e2f1255d3153380f162fdf79a13062a61e0d79ca",
+      "title": "Not the Weekend Podcast",
+      "published_at": "2010-04-07T09:56:12+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100407105612.mp3",
+      "description": "Frank's back with more stuff that he didn't get chance to talk about on the show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f38bbb32-817f-11ef-8fe9-6b677ca4decb/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9761634310.mp3?updated=1728559834",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1479",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "weekend",
+        "podcast"
+      ]
+    },
+    {
+      "key": "a90d02bdd340b792498c3e92fef66a5b25b3df42",
+      "title": "Guest: David Baddiel",
+      "published_at": "2010-04-03T16:12:29+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100403171229.mp3",
+      "description": "David Baddiel joins Frank, Emily & Gareth to talk about his new film The Infidel. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f3e5bb64-817f-11ef-8fe9-5bdb6eba6b8a/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1841631948.mp3?updated=1728559847",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3612",
+      "speakers": [
+        "David Baddiel David Baddiel",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "david",
+        "baddiel"
+      ]
+    },
+    {
+      "key": "83c9bee145653f04540182431fbae2738323b88b",
+      "title": "Frank's Midweek Mini",
+      "published_at": "2010-04-01T09:34:23+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100401103423.mp3",
+      "description": "Live from Preston....plus more debate about this podcast's name? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f440533a-817f-11ef-8fe9-f7ee72801872/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8931857004.mp3?updated=1728559842",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1804",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "midweek",
+        "mini"
+      ]
+    },
+    {
+      "key": "a94343f2568919e4f0f1c6e2a43146d403bb6dd4",
+      "title": "Guest: Chris Ramsey",
+      "published_at": "2010-03-27T12:20:14+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100327122014.mp3",
+      "description": "This week Frank and the team broadcast from Preston, they discussed bad celebrity endorsed adverts. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f49807ce-817f-11ef-8fe9-37ab9dbc27d5/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4184081693.mp3?updated=1728559850",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3105",
+      "speakers": [
+        "Chris Ramsey",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "chris",
+        "ramsey"
+      ]
+    },
+    {
+      "key": "6463fa4fc80a343fb35321e61e6a0bd80a3954d4",
+      "title": "Frank's Midweek Mini",
+      "published_at": "2010-03-25T13:36:02+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100325133602.mp3",
+      "description": "The Kate Winslett Tribute Episode Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f4f05514-817f-11ef-8fe9-0f8793995738/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1591610534.mp3?updated=1728559840",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1217",
+      "speakers": [
+        "Midweek Mini",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "midweek",
+        "mini"
+      ]
+    },
+    {
+      "key": "c188f292605025e7cab2cdc4730a151191cd9e7f",
+      "title": "Guest: Graham Fellows",
+      "published_at": "2010-03-20T13:58:58+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100320135858.mp3",
+      "description": "This week Frank told the team about his musical debut, Emily revealed she has a personal trainer and Gareth squeezed another story out of his Ray Montblanc visit. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f54e1834-817f-11ef-8fe9-c7b4c354f2af/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1016517561.mp3?updated=1728559854",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3047",
+      "speakers": [
+        "Graham Fellows",
+        "Ray Montblanc",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "graham",
+        "fellows"
+      ]
+    },
+    {
+      "key": "c4850411938cf4c7474b86c1bc48049b47ca82f9",
+      "title": "Frank's Midweek Mini",
+      "published_at": "2010-03-18T08:57:28+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100318085728.mp3",
+      "description": "The 101 year old Chinese lady Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f5be0b30-817f-11ef-8fe9-b316e796b402/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3224143083.mp3?updated=1728559848",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1513",
+      "speakers": [
+        "Midweek Mini",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "midweek",
+        "mini"
+      ]
+    },
+    {
+      "key": "9fc04d97f95c02667ed537c9a676c294efa5c3b8",
+      "title": "Guest - Toyah Wilcox",
+      "published_at": "2010-03-13T15:34:51+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100313153451.mp3",
+      "description": "Frank, Emily and Gareth celebrate their one year anniversary with Absolute Radio, they've got cake, they've got balloons and they've got old pig iron. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f617b2b6-817f-11ef-8fe9-97c00b74abe8/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6614412368.mp3?updated=1728559862",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2833",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "toyah",
+        "wilcox"
+      ]
+    },
+    {
+      "key": "1b21d2d3640e1382e3483493d90acbfb3e9a6932",
+      "title": "Frank's Midweek Mini",
+      "published_at": "2010-03-10T08:29:46+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100310082946.mp3",
+      "description": "Your Wednesday dose of the Saturday show. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f6c30e54-817f-11ef-8fe9-23fd1cd42f63/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5050885473.mp3?updated=1728559852",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1069",
+      "speakers": [
+        "Midweek Mini",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "midweek",
+        "mini"
+      ]
+    },
+    {
+      "key": "f14aa9962b0c4b784d5d2d691cc81e094cc7a6f5",
+      "title": "Guest:Tom Basden",
+      "published_at": "2010-03-06T16:00:29+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100306160029.mp3",
+      "description": "Frank had a few opinions on the Sugababes and Emily and Gareth discussed Carol Vorderman's appearence on Question Time. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f7947d86-817f-11ef-8fe9-431733a7000b/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9752368152.mp3?updated=1728559878",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3355",
+      "speakers": [
+        "Tom Basden Frank",
+        "Carol Vorderman",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "basden"
+      ]
+    },
+    {
+      "key": "0954df503109238198fe99d4ed67aed2f778c769",
+      "title": "Frank's Midweek Mini",
+      "published_at": "2010-03-03T10:52:19+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100303105219.mp3",
+      "description": "Crutch Running & Other Short Stories Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f8344168-817f-11ef-8fe9-9f0f7df2c446/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2018063673.mp3?updated=1728559866",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1365",
+      "speakers": [
+        "Midweek Mini Crutch Running",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "midweek",
+        "mini"
+      ]
+    },
+    {
+      "key": "cecce75709d72e6ffcc56cd0b32251cdff069211",
+      "title": "Guest: Ben Miller",
+      "published_at": "2010-02-27T16:36:24+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100227163624.mp3",
+      "description": "This week's show was very show business with talk about the BAFTAs, Frank's film epiphany and Ben Miller's new movie 'Huge'. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f8926586-817f-11ef-8fe9-0b77a8adff1b/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6111873630.mp3?updated=1728559874",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3205",
+      "speakers": [
+        "Ben Miller",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "miller"
+      ]
+    },
+    {
+      "key": "3ca8272577ded55765110d21fdba563802980917",
+      "title": "Frank's Midweek Mini",
+      "published_at": "2010-02-24T08:56:35+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100224085635.mp3",
+      "description": "The Gibbon, The Ostrich and The Yemen Chameleon Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f912e238-817f-11ef-8fe9-bfb9758381c6/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4404541402.mp3?updated=1728559869",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1258",
+      "speakers": [
+        "Midweek Mini",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "midweek",
+        "mini"
+      ]
+    },
+    {
+      "key": "9710393650fde20ff4456e4c0c1f74867523d779",
+      "title": "Guest: Sarah Millican",
+      "published_at": "2010-02-20T17:46:14+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100220174614.mp3",
+      "description": "On this weeks show Frank and Gareth had a debate about manners, Emily had a few words to say about Ashley Cole and Sarah Millican answered the nations problems. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f96d2522-817f-11ef-8fe9-23b5449e9d18/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1232038486.mp3?updated=1728559879",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2819",
+      "speakers": [
+        "Sarah Millican",
+        "Ashley Cole",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "sarah",
+        "millican"
+      ]
+    },
+    {
+      "key": "7f918e0701ab1fd93e74f65eb704d999628e0b38",
+      "title": "Frank's Midweek Mini",
+      "published_at": "2010-02-17T10:04:05+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100217100405.mp3",
+      "description": "Celebrity Parades and Cashmere toilet rolls Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fa482d0c-817f-11ef-8fe9-2309f5ac30f1/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7948020778.mp3?updated=1728559872",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1054",
+      "speakers": [
+        "Midweek Mini",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "midweek",
+        "mini"
+      ]
+    },
+    {
+      "key": "a409f557dfe9b966e4034398751838fa427de95e",
+      "title": "Guest: Sean Lock",
+      "published_at": "2010-02-13T17:09:55+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100213170955.mp3",
+      "description": "This week was a bit of a love special. Frank told us all about his girlfriend's unusual catchphrases, Emily gave some great advice to all of the fabulous single women listening and Gareth struggled to remember his wife's natural hair colour. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/faef43d0-817f-11ef-8fe9-9b937c2a7f85/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4125231899.mp3?updated=1728559894",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3003",
+      "speakers": [
+        "Sean Lock",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "sean",
+        "lock"
+      ]
+    },
+    {
+      "key": "2c534493d17947fa41b568349ddd090d4b323086",
+      "title": "Frank's Midweek Fix - Elbow Wars",
+      "published_at": "2010-02-10T10:16:43+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100210101643.mp3",
+      "description": "Welcome to the first midweek podcast from Frank. We hope it helps to bridge the gap between Saturdays for you! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fbc6c40e-817f-11ef-8fe9-c36cc9f1aab3/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1099501356.mp3?updated=1728559890",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1236",
+      "speakers": [
+        "Midweek Fix Elbow",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "midweek",
+        "elbow"
+      ]
+    },
+    {
+      "key": "7d54300c840186d39d3a9fc71554aa435437ac72",
+      "title": "Guest: Mark Little",
+      "published_at": "2010-02-06T14:26:12+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100206142612.mp3",
+      "description": "On this week's show Frank had an incident at the hairdressers, Emily gave us an Instyle update and Gareth revealed Ethan's football phobia. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fc25d174-817f-11ef-8fe9-bf151f08f125/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9813581511.mp3?updated=1728559902",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3053",
+      "speakers": [
+        "Mark Little",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "mark",
+        "little"
+      ]
+    },
+    {
+      "key": "3dfe3f2b31804b825a6983b7e5a113fe2b7984e5",
+      "title": "Guest: Alex Horne",
+      "published_at": "2010-01-30T16:20:15+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100130162015.mp3",
+      "description": "It was a show of awards ceremonies, birthday parties and catchphrases, plus Alex Horne popped in to have a chat about his new tour 'Wordwatching'. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fc89887c-817f-11ef-8fe9-07b5a4b1d3df/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3858577693.mp3?updated=1728559898",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3170",
+      "speakers": [
+        "Alex Horne",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "alex",
+        "horne"
+      ]
+    },
+    {
+      "key": "6f6d0b7064ffcdd4b5b76d15a134414c324012ad",
+      "title": "Guest: Jo Caulfield",
+      "published_at": "2010-01-23T13:50:18+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100123135018.mp3",
+      "description": "On this week's show Frank reveals that he doesn't change his pants for 48 hours, Emily confesses to her work wardrobe nightmare and Gareth comes up with a unique designer challenge for the podcast listeners. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fcf3a8f6-817f-11ef-8fe9-53ce9211b5d0/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3449792930.mp3?updated=1728559896",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2598",
+      "speakers": [
+        "Jo Caulfield",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "caulfield"
+      ]
+    },
+    {
+      "key": "0fd452d63e08195ac078874b3bd8bfa654607443",
+      "title": "Guest: Lee Mack",
+      "published_at": "2010-01-16T16:00:34+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100116160034.mp3",
+      "description": "Lee Mack joins Frank, Emily & Gareth and chats darts, touring and celebrity big brother. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fd5bca26-817f-11ef-8fe9-ab21ba093c0a/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8898743650.mp3?updated=1728559907",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3412",
+      "speakers": [
+        "Lee Mack",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "mack"
+      ]
+    },
+    {
+      "key": "1cf174dc08cadb1bc1c8a46f02b32633984460b6",
+      "title": "Guest: The Pajama Men",
+      "published_at": "2010-01-09T16:20:09+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100109162009.mp3",
+      "description": "Frank talks about Celebrity Big Brother, Emily charms The Pajama Men and Gareth turns in to the incredible sulk. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fdf0d5c6-817f-11ef-8fe9-8beed01b7d10/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9367772199.mp3?updated=1728559903",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2788",
+      "speakers": [
+        "Celebrity Big Brother",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "pajama"
+      ]
+    },
+    {
+      "key": "4aaba31d840944778ee0567762519732e8747fab",
+      "title": "Guest: Tim Key",
+      "published_at": "2010-01-02T16:18:08+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20100102161808.mp3",
+      "description": "It's the 43rd show, but the first show of 2010 and Frank, Emily & Gareth share their New Years Eve stories. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fe51520c-817f-11ef-8fe9-2b9e9389230f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4174488715.mp3?updated=1728559911",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3633",
+      "speakers": [
+        "Tim Key",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest"
+      ]
+    },
+    {
+      "key": "cb4a9fed1c2bb94cb1f53901b97037ebc004c56f",
+      "title": "Guest: Camille O'Sullivan",
+      "published_at": "2009-12-26T12:34:55+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091226123455.mp3",
+      "description": "It's the last podcast of the year so Frank, Emily & Gareth decide to reveal their most embarrassing moments of 2009 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fed4c772-817f-11ef-8fe9-c3a15e11b552/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6532678161.mp3?updated=1728559913",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3159",
+      "speakers": [
+        "Camille O'Sullivan",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "camille"
+      ]
+    },
+    {
+      "key": "37108b4ab6de41510dd926b7e226c5de4508dac7",
+      "title": "Guest: Joey Tempest",
+      "published_at": "2009-12-19T17:32:23+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091219173223.mp3",
+      "description": "It's the last podcast before Christmas and it's a festive 45 minutes. Gareth sings his own composed Christmas song, Frank has a few words to say about X factor Joe and Emily expresses her love for Joey's...hair! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ff5d26da-817f-11ef-8fe9-df6936d8da32/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1957013506.mp3?updated=1728559913",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2791",
+      "speakers": [
+        "Joey Tempest",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "joey",
+        "tempest"
+      ]
+    },
+    {
+      "key": "18d603a73f5a4eb844b179951ce1f7d57204ca13",
+      "title": "Guest: Adrian Chiles",
+      "published_at": "2009-12-12T16:52:23+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091212165223.mp3",
+      "description": "Adrian Chiles joins Frank, Emily & Gareth for the 2nd time this year, this time to talk about his new DVD '2 Good 2 Bad'. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ffba74a2-817f-11ef-8fe9-e32856eeedac/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5977454324.mp3?updated=1728559920",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2740",
+      "speakers": [
+        "joins Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "adrian",
+        "chiles"
+      ]
+    },
+    {
+      "key": "a0938e7fb666dc5ad375d75419deb79a4a86c21b",
+      "title": "merriment with this week's guest Charlotte Hatherley",
+      "published_at": "2009-12-05T13:24:49+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091205132449.mp3",
+      "description": "This week Frank Skinner, Emily and Gateth are joined by Charlotte Hatherley and have exciting World Cup news! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/001e58a0-8180-11ef-8fe9-1730359a010e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7734722802.mp3?updated=1728559061",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1885",
+      "speakers": [
+        "Charlotte Hatherley",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "merriment",
+        "week",
+        "guest",
+        "charlotte",
+        "hatherley"
+      ]
+    },
+    {
+      "key": "aca908dbe1c61da64ddad78bf10bb9eb8f439547",
+      "title": "Guest: Jon Richardson",
+      "published_at": "2009-11-28T14:48:46+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091128144846.mp3",
+      "description": "Frank wants to know if you have any pets with unusual names, Emily has news from beautifulpeople.com and Gareth discovers that he looks like an Ocean Colour Scene fan. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/00c4db08-8180-11ef-8fe9-a363bf375102/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3352426461.mp3?updated=1728559068",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2555",
+      "speakers": [
+        "Jon Richardson Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "richardson"
+      ]
+    },
+    {
+      "key": "a3eb0301c63db81fec0443f19cf2cdad21d73106",
+      "title": "Guest: Jason Manford",
+      "published_at": "2009-11-21T14:42:12+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091121144212.mp3",
+      "description": "Frank asks what celebrity memorabilia do you own? Emily applies to beautifulpeople.com and Gareth describes his first live experience of The Fall. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/013002a2-8180-11ef-8fe9-13b6f6cbea2c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2596584625.mp3?updated=1728559078",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3216",
+      "speakers": [
+        "Jason Manford Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "jason",
+        "manford"
+      ]
+    },
+    {
+      "key": "bc25790e6b3fcba3f473d09c05cf651a44f565b4",
+      "title": "Guest: Micky Flanagan",
+      "published_at": "2009-11-14T14:19:46+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091114141946.mp3",
+      "description": "Funny man Micky Flanagan joins Frank, Emily & Gareth, who talk class, comedy workshops and prison. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/01e320b2-8180-11ef-8fe9-4b96ae4e5b5f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1579473591.mp3?updated=1728559078",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2839",
+      "speakers": [
+        "Micky Flanagan",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "micky",
+        "flanagan"
+      ]
+    },
+    {
+      "key": "865c07a3613154423f0a6b626254f8a809a8f07c",
+      "title": "Guest: Rob Deering",
+      "published_at": "2009-11-07T13:32:54+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091107133254.mp3",
+      "description": "Frank, Emily & Gareth talk bonfires, beauty queens and old fashioned sayings, plus Rob Deering is this weeks guest. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/023d4aec-8180-11ef-8fe9-bf3b11b2fe7d/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1360868214.mp3?updated=1728559086",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2959",
+      "speakers": [
+        "Rob Deering Frank",
+        "Rob Deering",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "deering"
+      ]
+    },
+    {
+      "key": "81a4638c7a10ad3a8e5e1602d3a9027fa5352805",
+      "title": "Guest: Rhod Gilbert",
+      "published_at": "2009-10-31T12:56:45+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091031125645.mp3",
+      "description": "This week Frank, Emily & Gareth ask what is the best advice you have ever received? Plus Rhod Gilbert pops in for a chat. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/029dc5e8-8180-11ef-8fe9-d3d781a0b833/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4234864682.mp3?updated=1728559085",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2871",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "rhod",
+        "gilbert"
+      ]
+    },
+    {
+      "key": "43154411de93fef67aa0c8b10b8cefcc4305ce10",
+      "title": "Guest: Andy Parsons",
+      "published_at": "2009-10-25T18:13:44+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091025181344.mp3",
+      "description": "This week Emily has a sore throat so Laura Solon joins Frank & Gareth, who have fun coming up with puns to describe Tess Daly's new slim tum. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/03ceb7b0-8180-11ef-8fe9-e7f8c2f703b1/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3432563980.mp3?updated=1728559089",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2217",
+      "speakers": [
+        "Andy Parsons",
+        "Laura Solon",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "andy",
+        "parsons"
+      ]
+    },
+    {
+      "key": "158d14785db24d26a2af9f3e77a7e446c86e797d",
+      "title": "Ed In A Ditch",
+      "published_at": "2009-10-18T15:35:15+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091018163515.mp3",
+      "description": "This week Frank, Emily & Gareth talked about the things that scared them as children, evolution and an incident that involved Ed Byrne driving in to a ditch. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/054295b2-8180-11ef-8fe9-a3bf312bf3d6/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9065996175.mp3?updated=1728559096",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2647",
+      "speakers": [
+        "Ed Byrne",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "ditch"
+      ]
+    },
+    {
+      "key": "18c1ac5d99d19cd185f009fffe01038e5c4c7267",
+      "title": "Guest: Russell Kane",
+      "published_at": "2009-10-10T12:57:51+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091010135751.mp3",
+      "description": "Frank, Emily & Gareth discuss the most annoying words and phrases, plus funny man Russell Kane joins them to talk about his new tour 'Human Dressage'. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0f0027ea-8180-11ef-8fe9-73de7433ada8/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3809471067.mp3?updated=1728559144",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2795",
+      "speakers": [
+        "Russell Kane Frank",
+        "Russell Kane",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "russell",
+        "kane"
+      ]
+    },
+    {
+      "key": "e91b6c531cbdd43069e3c5df8b2fefa41fbcda22",
+      "title": "Guest: David Essex",
+      "published_at": "2009-10-03T12:38:50+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20091003133850.mp3",
+      "description": "This week Emily tells Frank and Gareth all about her trip to the Worlds Strongest Man final in Malta, which involves swags, eggs and pulling planes. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1804ea60-8180-11ef-8fe9-73f923b50f79/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1120489158.mp3?updated=1728559169",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2639",
+      "speakers": [
+        "David Essex",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "david",
+        "essex"
+      ]
+    },
+    {
+      "key": "fb4a18db961d0b204d7dabe876585c145944fc3c",
+      "title": "Guest: Cerys Matthews",
+      "published_at": "2009-09-27T18:34:42+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090927193442.mp3",
+      "description": "Cerys Matthews joins Frank, Emily & Gareth to talk about her new single and album, she also chats about busking, illegal downloads and travelling by tube. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/187cae38-8180-11ef-8fe9-f7819d5f451f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2297554001.mp3?updated=1728559169",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2349",
+      "speakers": [
+        "Cerys Matthews",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "cerys",
+        "matthew"
+      ]
+    },
+    {
+      "key": "6713f7d9a72940835e23297106df066b14b8349e",
+      "title": "Ross Noble",
+      "published_at": "2009-09-19T12:49:30+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090919134930.mp3",
+      "description": "Frank, Emily and Gareth are joined by stand up comedian Ross Noble to talk about his current tour and his unusual idea for new a TV Show... Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/18dbed8a-8180-11ef-8fe9-e7ce67bfae54/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2567417677.mp3?updated=1728559174",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2492",
+      "speakers": [
+        "Ross Noble Frank",
+        "Ross Noble",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "ross",
+        "noble"
+      ]
+    },
+    {
+      "key": "b0ddd39da6739b7be07188140561d8dafdbc36db",
+      "title": "Guest: Laura Solon",
+      "published_at": "2009-09-12T13:29:48+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090912142948.mp3",
+      "description": "This week Frank, Emily and Gareth are joined in the studio by comedian Laura Solon, who discuss stuffed rabbits, stuffed kittens and stuffed lions! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1942891e-8180-11ef-8fe9-57c820bd49d4/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4850057149.mp3?updated=1728559176",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2454",
+      "speakers": [
+        "Laura Solon",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "laura",
+        "solon"
+      ]
+    },
+    {
+      "key": "4be203fe3841da36a4a03ee7816778bd02c96b9c",
+      "title": "Guest: Charlie Higson",
+      "published_at": "2009-09-05T12:36:11+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090905133611.mp3",
+      "description": "This week author and comedian Charlie Higson joins Frank, Emily & Gareth in the studio to talk about his new book 'The Enemy'. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/19a14030-8180-11ef-8fe9-ffd89ae2f494/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4007015948.mp3?updated=1728559187",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2996",
+      "speakers": [
+        "Charlie Higson",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "charlie",
+        "higson"
+      ]
+    },
+    {
+      "key": "17fff7c3c9bf8f5368565bb4cfbfff4e6b46e878",
+      "title": "Guest: Greg Behrendt",
+      "published_at": "2009-08-29T17:47:15+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090829184715.mp3",
+      "description": "Lee Mack sits in for Frank Skinner with Emily & Gareth by his side. American comic and author Greg Behrendt is this weeks guest. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/19fb2a1e-8180-11ef-8fe9-5f6ef838b390/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9946938932.mp3?updated=1728559189",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2775",
+      "speakers": [
+        "Greg Behrendt",
+        "Lee Mack",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "greg",
+        "behrendt"
+      ]
+    },
+    {
+      "key": "2f255400ad766fb1f71c60f62f462a3fec1969df",
+      "title": "Guest: Jason Byrne",
+      "published_at": "2009-08-24T19:50:51+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090824205051.mp3",
+      "description": "Frank is live from Edinburgh and this week he talks about his favourite shows from the fringe, the king of the Edinburgh festival and celebrity moustaches. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1a551272-8180-11ef-8fe9-ffc79b4b3c16/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6806437365.mp3?updated=1728559187",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2878",
+      "speakers": [
+        "Jason Byrne Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "jason",
+        "byrne"
+      ]
+    },
+    {
+      "key": "b0c66737866dbbd977b182b190f68751839670e9",
+      "title": "Guest: Janeane Garofalo",
+      "published_at": "2009-08-16T10:29:40+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090816112940.mp3",
+      "description": "This week Frank, Emily and Gareth are live from the Edinburgh Festival and are joined in the studio by Hollywood's very funny Janeane Garofalo. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1ab55a6a-8180-11ef-8fe9-7be0d091046a/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7250043953.mp3?updated=1728559191",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3033",
+      "speakers": [
+        "Janeane Garofalo",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "janeane",
+        "garofalo"
+      ]
+    },
+    {
+      "key": "8a00d12dcbc032cbd810fe1ce9c7f2d1c7c7c88d",
+      "title": "Guest: Lee Mack",
+      "published_at": "2009-08-09T10:49:13+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090809114913.mp3",
+      "description": "Frank and Emily are joined in the studio by comedian Lee Mack and celebrity chef Aldo Zilli, who delivers a special veggie breakfast. Gareth reports from the Edinburgh festival and due to technical hiccups Frank decides to read the news and travel! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1b10a834-8180-11ef-8fe9-8fa6d44201c5/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2208440584.mp3?updated=1728559194",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2874",
+      "speakers": [
+        "Lee Mack Frank",
+        "Lee Mack",
+        "Aldo Zilli",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "mack"
+      ]
+    },
+    {
+      "key": "2b32ac8d25a3bb903038e25e2505be194c52be2c",
+      "title": "Guest: Alun Cochrane",
+      "published_at": "2009-08-03T07:55:42+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090803085542.mp3",
+      "description": "Frank, Emily & Gareth broadcast from Birmingham as Frank prepares to be inducted in to the Walk Of Stars. Alun Cochrane is this week's guest and Frank talks to West Brom's new manager Roberto Di Matteo on the phone. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1b6ade4e-8180-11ef-8fe9-cb1b86b17718/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1977696499.mp3?updated=1728559196",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2966",
+      "speakers": [
+        "Alun Cochrane Frank",
+        "Alun Cochrane",
+        "Roberto Di Matteo",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "alun",
+        "cochrane"
+      ]
+    },
+    {
+      "key": "cfb90d3315f939079952ab5633c23c9d847971d6",
+      "title": "Guest: Richard Herring",
+      "published_at": "2009-07-25T13:01:52+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090725140152.mp3",
+      "description": "Frank, Emily & Gareth are joined in the studio by funny man Richard Herring. They also talk about Swine Flu, something called Bowlingual and Latitude festival. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1bd0891a-8180-11ef-8fe9-b7df4270c641/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1586577710.mp3?updated=1728559198",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2839",
+      "speakers": [
+        "Richard Herring Frank",
+        "Richard Herring",
+        "Swine Flu",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "richard",
+        "herring"
+      ]
+    },
+    {
+      "key": "8378bef1f6c8a8a3b6f6284e2d0960bc1f3495a9",
+      "title": "Guest: The Lightning Seeds",
+      "published_at": "2009-07-18T12:02:52+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090718130252.mp3",
+      "description": "Frank, Emily & Gareth discuss chat up lines, the fourth plinth and their hair dreams. They are also joined in the studio by Ian Broudie aka 'The Lightning Seeds' Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1c308766-8180-11ef-8fe9-cb8926b368a4/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7424272068.mp3?updated=1728559209",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2837",
+      "speakers": [
+        "Ian Broudie",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "lightning",
+        "seed"
+      ]
+    },
+    {
+      "key": "54166047a91c184d82f6858222f090f0b1cb2cc3",
+      "title": "Guest: Phil Nichol",
+      "published_at": "2009-07-11T16:41:56+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090711174156.mp3",
+      "description": "Frank, Emily & Gareth give away tickets to the Wembley Cup, a competition that causes a studio meltdown! Emily celebrates her birthday and comedy actor Phil Nichol is this weeks guest. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1cada7c8-8180-11ef-8fe9-0b66ff4fca78/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7694985325.mp3?updated=1728559209",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3370",
+      "speakers": [
+        "Phil Nichol",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "phil",
+        "nichol"
+      ]
+    },
+    {
+      "key": "7394c1cf64aab43e63025620e7b8975773af181d",
+      "title": "Guest: Reece Shearsmith",
+      "published_at": "2009-07-04T13:24:38+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090704142438.mp3",
+      "description": "Frank, Emily & Gareth talk about pet foxes, hot lamb and key rings, plus comedy actor Reece Shearsmith from Psychoville & The League of Gentlemen joins them in the studio. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1d0a868c-8180-11ef-8fe9-c7748efa7329/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7859145007.mp3?updated=1728559207",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2521",
+      "speakers": [
+        "Reece Shearsmith Frank",
+        "Reece Shearsmith",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "reece",
+        "shearsmith"
+      ]
+    },
+    {
+      "key": "edd9fe9ad6a643608042aee76f36cfb477a368f2",
+      "title": "Guest: The Duckworth Lewis Method",
+      "published_at": "2009-06-27T13:38:21+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090627143821.mp3",
+      "description": "Frank, Emily & Gareth are joined in the studio by 'The Duckworth Lewis Method' aka Neil Hannon and Thomas Walsh. They discuss holidays, cricket and Memorabilia. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1d672c98-8180-11ef-8fe9-6777d1d63d1f/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5192504709.mp3?updated=1739812432",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2430",
+      "speakers": [
+        "Neil Hannon",
+        "Thomas Walsh",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "duckworth",
+        "lewis",
+        "method"
+      ]
+    },
+    {
+      "key": "3afbb57d96912daead5496f2fc29a17303180de1",
+      "title": "Guest: Jenny Eclair",
+      "published_at": "2009-06-06T12:18:05+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090606131805.mp3",
+      "description": "Dave Gorman fills in for Frank Skinner with friends Jimmy McGhie and Emily Dean. Jenny Eclair is this weeks guest. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1dd3e658-8180-11ef-8fe9-eb44872a95d5/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9185057495.mp3?updated=1739812512",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2766",
+      "speakers": [
+        "Jenny Eclair",
+        "Dave Gorman",
+        "Frank Skinner",
+        "Jimmy McGhie",
+        "Emily Dean"
+      ],
+      "topics": [
+        "guest",
+        "jenny",
+        "eclair"
+      ]
+    },
+    {
+      "key": "5291855e1851c6d0131d0f9887c0c86455d0023c",
+      "title": "Guest: Isy Suttie",
+      "published_at": "2009-05-30T15:02:56+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090530160256.mp3",
+      "description": "Frank, Emily & Gareth are joined in the studio by funny lady Isy Suttie. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1e310400-8180-11ef-8fe9-d7147cd394df/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5220948969.mp3?updated=1739812576",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3232",
+      "speakers": [
+        "Isy Suttie Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "suttie"
+      ]
+    },
+    {
+      "key": "4cb1df81715bc5ece60ef5bc4b30a3d29b830281",
+      "title": "Guest: Alistair McGowan",
+      "published_at": "2009-05-23T13:33:20+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090523143320.mp3",
+      "description": "Frank, Emily & Gareth are joined in the studio by funny man and impressionist Alistair McGowan. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1e8cb48a-8180-11ef-8fe9-a3ebeed6b217/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5781803077.mp3?updated=1739812601",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3118",
+      "speakers": [
+        "Alistair McGowan",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "alistair",
+        "mcgowan"
+      ]
+    },
+    {
+      "key": "50efbff689d5a156fa719ec2c32a3cf90df8d23d",
+      "title": "Guest: Katy Brand",
+      "published_at": "2009-05-09T13:05:57+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090509140557.mp3",
+      "description": "A podcast full of anecdotes about Sir Alan Sugar & Sir Paul McCartney, what else do ya bleeding want? A guest? Well you're in luck; the very funny Katy Brand was also on the show. BOOM! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1f139cde-8180-11ef-8fe9-07ba6fd951e9/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3051771046.mp3?updated=1738249465",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3456",
+      "speakers": [
+        "Katy Brand",
+        "Alan Sugar",
+        "Paul McCartney",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "katy",
+        "brand"
+      ]
+    },
+    {
+      "key": "cc12e9959d356cdef7506061e93adffa88c310ea",
+      "title": "Guest: Gaby Roslin",
+      "published_at": "2009-05-02T13:42:01+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090502144201.mp3",
+      "description": "Gaby Roslin is in the building, but did Frank, Emily & Gareth make it in or were they struck down by 'The Swines?'. You'll have to listen to find out. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1f8a7c14-8180-11ef-8fe9-ffa1459c281b/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8239816810.mp3?updated=1738249572",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3442",
+      "speakers": [
+        "Gaby Roslin",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "gaby",
+        "roslin"
+      ]
+    },
+    {
+      "key": "f674dd3eb3b15d24d63df3a4aa25277a4eaca2f1",
+      "title": "Guest: Omid Djalili",
+      "published_at": "2009-04-29T13:10:48+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090429141048.mp3",
+      "description": "Frank has his haircut live on the show. Find out if it was a cut above the rest or not. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1fe61b6e-8180-11ef-8fe9-e74165560c83/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7595384778.mp3?updated=1738249701",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3129",
+      "speakers": [
+        "Djalili Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "omid",
+        "djalili"
+      ]
+    },
+    {
+      "key": "33890916b3a25f63ac10da98f7fe987e76153cd2",
+      "title": "Guest: Nick Hancock",
+      "published_at": "2009-04-25T15:10:04+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090425161004.mp3",
+      "description": "Frank, Emily & Gareth are joined by two very special guests this week; Nick Hancock and the one-and-only Sandy Mason Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2049efb8-8180-11ef-8fe9-eb4b387a8810/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6541179415.mp3?updated=1738249803",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3370",
+      "speakers": [
+        "Nick Hancock Frank",
+        "Nick Hancock",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "nick",
+        "hancock"
+      ]
+    },
+    {
+      "key": "a9924677b42187eaa933b312d558364727f7e45b",
+      "title": "Guest: Simon Bird",
+      "published_at": "2009-04-18T11:04:43+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090418120443.mp3",
+      "description": "Frank, Emily & Gareth giggle like school children with this week's guest; Simon Bird AKA Will from 'The Inbetweeners' hehehe Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/20b15b4e-8180-11ef-8fe9-f7df21d305d7/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8601711921.mp3?updated=1739812834",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3129",
+      "speakers": [
+        "Simon Bird Frank",
+        "Simon Bird",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "simon",
+        "bird"
+      ]
+    },
+    {
+      "key": "34ab753b89aca0f1f08d90257c4c0b031ada5643",
+      "title": "Guest: Derren Brown",
+      "published_at": "2009-04-04T13:22:47+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090404142247.mp3",
+      "description": "Would ya bloody believe it, Derren Brown guested this week and told Frank how he does every trick under the sun. Or did? Let your lug holes be the judge. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2109df4e-8180-11ef-8fe9-931feedaaeab/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2982252610.mp3?updated=1738249896",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3280",
+      "speakers": [
+        "Derren Brown",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "derren",
+        "brown"
+      ]
+    },
+    {
+      "key": "a66220bd326c042d55d867b7c7606de8deccf129",
+      "title": "Guest: Adrian Chiles",
+      "published_at": "2009-03-28T14:42:45+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090328144245.mp3",
+      "description": "Adrian Chiles popped into the studio to talk about The Apprentice, football and being a West Midlander. Can you audio-spot the difference? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/22241db8-8180-11ef-8fe9-f305699b1306/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2668327533.mp3?updated=1738250046",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2915",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "adrian",
+        "chiles"
+      ]
+    },
+    {
+      "key": "b87852daa10afe27e268a1fc58c10a9c2c61fa2a",
+      "title": "Guest: Ben Miller",
+      "published_at": "2009-03-21T09:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090321090000.mp3",
+      "description": "Ben Miller popped in for a chat to do what he does best; plugging his own work. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/227e77f4-8180-11ef-8fe9-3fc2feb30828/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6940055753.mp3?updated=1738250196",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2504",
+      "speakers": [
+        "Ben Miller",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "miller"
+      ]
+    },
+    {
+      "key": "1daa66aa20dcebb4acbc8bbc8e74e5ca4c90ac3f",
+      "title": "Guest: Dave Gorman",
+      "published_at": "2009-03-14T09:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20090314090000.mp3",
+      "description": "You might not be called Dave Gorman, but Dave Gorman is, and he was in to talk about 'Genius' inventions. Genius! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/22db3ef8-8180-11ef-8fe9-e7f569eb3133/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1416241493.mp3?updated=1739813021",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2746",
+      "speakers": [
+        "Dave Gorman",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "guest",
+        "dave",
+        "gorman"
+      ]
     }
   ]
 }
@@ -21029,6 +23374,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — A Disastrous Valentine's Day — speakers: Frank Skinner
 - 2026-02-18 — Frank Skinner’s Radio Days: Olympic Torch — speakers: Frank Skinner, Jubilee Flotilla
 - 2026-02-16 — Arguing Inside a Virtual World — speakers: Johnny White Really-Really, Frank Skinner
 - 2026-02-13 — They Want Tears, Not Laughter — speakers: Johnny White Really-Really, Michael McIntyre, Frank Skinner
@@ -21608,10 +23954,10 @@
 - 2017-02-18 — The Frank Skinner Show - What does the snake want? — speakers: Frank Skinner
 - 2017-02-11 — The Frank Skinner Show - Unconventional Laughter — speakers: Frank Skinner
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
-- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
+- 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
-- 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
+- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
 - 2017-01-21 — The Frank Skinner Show - Diamante Detail — speakers: Frank Skinner
 - 2017-01-14 — The Frank Skinner Show - The Abuse Of The Fork — speakers: Frank Skinner, Henry Viii
@@ -22029,3 +24375,112 @@
 - 2010-10-13 — Not the Weekend Podcast - 13th Oct — speakers: Oct Frank, Frank Skinner
 - 2010-10-09 — Frank Skinner - Frank, Emily and Gareth — speakers: Frank Skinner Frank, Frank Skinner
 - 2010-10-06 — Not the Weekend Podcast - 6 Oct — speakers: Frank Skinner
+- 2010-10-04 — Frank Skinner - 2 Oct - Alun Cochrane — speakers: Alun Cochrane, Frank Skinner
+- 2010-09-29 — Not the Weekend Podcast - 29 Sept — speakers: Frank Skinner
+- 2010-09-25 — Frank Skinner - Guest: Isy Suttie — speakers: Frank Skinner Guest, Samuel Johnson, David Beckham, Frank Skinner
+- 2010-09-22 — The Frank Skinner Show — speakers: Frank Skinner
+- 2010-09-18 — Frank Skinner - Guest: Shazia Mirza — speakers: Frank Skinner Guest, Shazia Mirza, George Michael, Frank Skinner
+- 2010-09-15 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Frank Skinner
+- 2010-09-11 — Frank Skinner - Guest: Stewart Francis — speakers: Frank Skinner Guest, Stewart Francis Frank, Stewart Francis, Tour De Francis, Frank Skinner
+- 2010-09-08 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Harry Potter, Vintage Clothing, Frank Skinner
+- 2010-09-04 — Frank Skinner - Guest: Midnight Beast — speakers: Frank Skinner Guest, Midnight Beast Frank, Frank Skinner
+- 2010-09-01 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Ray Gordon, Frank Skinner
+- 2010-08-28 — Frank Skinner - Guest Sarah Millican — speakers: Frank Skinner Guest, Sarah Millican Frank, Frank Skinner
+- 2010-08-25 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Frank Skinner
+- 2010-08-21 — The Frank Skinner Show — speakers: Frank Skinner
+- 2010-08-18 — Frank Skinner Midweek Podcast - 18 August — speakers: Frank Skinner
+- 2010-08-14 — Frank Skinner - 14 Aug - Tom Wrigglesworth — speakers: Wrigglesworth Frank, Frank Skinner
+- 2010-08-12 — Frank Skinner talks to Christian O'Connell — speakers: Frank Skinner, Christian O'Connell
+- 2010-08-11 — Frank Skinner meets Christian O'Connell — speakers: Frank Skinner, Christian O'Connell
+- 2010-08-07 — Frank Skinner - Guest: Micky Flanagan — speakers: Frank Skinner Guest, Micky Flanagan Frank, Steve Williams, Frank Skinner
+- 2010-07-24 — Guest: Josie Long — speakers: Josie Long, Lee Mack, Frank Skinner
+- 2010-07-23 — Frank Skinner - 22 June - Not The Weekend Podcast — speakers: Frank Skinner
+- 2010-07-17 — Guest: Andy Zaltzman — speakers: Andy Zaltzman Frank, Frank Skinner
+- 2010-07-10 — Russell Kane on Absolute Radio — speakers: Russell Kane, Frank Skinner, Holly Walsh
+- 2010-07-03 — Al Murray On Absolute Radio — speakers: Al Murray, Dan Antopolski, Frank Skinner
+- 2010-07-01 — Baddiel & Skinner - Live Show 3 — speakers: David Baddiel, Frank Skinner
+- 2010-06-26 — Lee Mack on Absolute Radio — speakers: Lee Mack, Frank Skinner, Greg Davies
+- 2010-06-22 — Baddiel & Skinner - Live Show 2 — speakers: Frank Skinner
+- 2010-06-19 — Lee Mack on Absolute Radio — speakers: Lee Mack, Danny Wallace, Frank Skinner
+- 2010-06-17 — The Frank Skinner Show — speakers: Frank Skinner
+- 2010-06-12 — Al Murray on Absolute Radio — speakers: Al Murray, Frank Skinner, Lee Nelson
+- 2010-06-09 — Frank Skinner - 9June - Not The Weekend Podcast — speakers: Frank Skinner June, Frank Skinner
+- 2010-06-05 — Frank Skinner - 05 June - Guest: Andy Nyman — speakers: Frank Skinner, Andy Nyman Frank
+- 2010-06-02 — Frank Skinner - 2June - Not the Weekend Podcast — speakers: Frank Skinner June, Frank Skinner
+- 2010-05-29 — Frank Skinner - 29May - Guest: Jane Turner — speakers: Frank Skinner May Guest, Jane Turner, Frank Skinner
+- 2010-05-26 — Frank Skinner - 26May - Not the Weekend Podcast — speakers: Frank Skinner May, Kate Moss, Frank Skinner
+- 2010-05-25 — Baddiel & Skinner's Absolute Radio Podcast — speakers: Frank Skinner
+- 2010-05-22 — Guest: Mark Watson — speakers: Mark Watson Frank, Frank Skinner
+- 2010-05-19 — Not The Weekend Podcast — speakers: Laura Solon, Frank Skinner
+- 2010-05-15 — Guest: Tim Vine — speakers: Tim Vine, Laura Solon, Frank Skinner
+- 2010-05-12 — The Not The Weekend Podcast — speakers: Frank Skinner
+- 2010-05-08 — Guest: Richard Herring — speakers: Richard Herring Frank, Frank Skinner
+- 2010-05-01 — Guest: Henning Wehn — speakers: Henning Wehn, Paul McKenna, Frank Skinner
+- 2010-04-28 — The Not the Weekend Podcast — speakers: Micky Mouse, Frank Skinner
+- 2010-04-24 — Guest: Pappys — speakers: Frank Skinner
+- 2010-04-21 — Not the Weekend Podcast (21/04/10) — speakers: Frank Skinner
+- 2010-04-18 — Guest: Stephen Mangan & Rhys Thomas — speakers: Stephen Mangan, Rhys Thomas, Frank Skinner
+- 2010-04-14 — The Not the Weekend Podcast — speakers: Frank Skinner
+- 2010-04-10 — Guest: Scott Capurro — speakers: Scott Capurro, Frank Skinner
+- 2010-04-07 — Not the Weekend Podcast — speakers: Frank Skinner
+- 2010-04-03 — Guest: David Baddiel — speakers: David Baddiel David Baddiel, Frank Skinner
+- 2010-04-01 — Frank's Midweek Mini — speakers: Frank Skinner
+- 2010-03-27 — Guest: Chris Ramsey — speakers: Chris Ramsey, Frank Skinner
+- 2010-03-25 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
+- 2010-03-20 — Guest: Graham Fellows — speakers: Graham Fellows, Ray Montblanc, Frank Skinner
+- 2010-03-18 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
+- 2010-03-13 — Guest - Toyah Wilcox — speakers: Frank Skinner
+- 2010-03-10 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
+- 2010-03-06 — Guest:Tom Basden — speakers: Tom Basden Frank, Carol Vorderman, Frank Skinner
+- 2010-03-03 — Frank's Midweek Mini — speakers: Midweek Mini Crutch Running, Frank Skinner
+- 2010-02-27 — Guest: Ben Miller — speakers: Ben Miller, Frank Skinner
+- 2010-02-24 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
+- 2010-02-20 — Guest: Sarah Millican — speakers: Sarah Millican, Ashley Cole, Frank Skinner
+- 2010-02-17 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
+- 2010-02-13 — Guest: Sean Lock — speakers: Sean Lock, Frank Skinner
+- 2010-02-10 — Frank's Midweek Fix - Elbow Wars — speakers: Midweek Fix Elbow, Frank Skinner
+- 2010-02-06 — Guest: Mark Little — speakers: Mark Little, Frank Skinner
+- 2010-01-30 — Guest: Alex Horne — speakers: Alex Horne, Frank Skinner
+- 2010-01-23 — Guest: Jo Caulfield — speakers: Jo Caulfield, Frank Skinner
+- 2010-01-16 — Guest: Lee Mack — speakers: Lee Mack, Frank Skinner
+- 2010-01-09 — Guest: The Pajama Men — speakers: Celebrity Big Brother, Frank Skinner
+- 2010-01-02 — Guest: Tim Key — speakers: Tim Key, Frank Skinner
+- 2009-12-26 — Guest: Camille O'Sullivan — speakers: Camille O'Sullivan, Frank Skinner
+- 2009-12-19 — Guest: Joey Tempest — speakers: Joey Tempest, Frank Skinner
+- 2009-12-12 — Guest: Adrian Chiles — speakers: joins Frank, Frank Skinner
+- 2009-12-05 — merriment with this week's guest Charlotte Hatherley — speakers: Charlotte Hatherley, Frank Skinner
+- 2009-11-28 — Guest: Jon Richardson — speakers: Jon Richardson Frank, Frank Skinner
+- 2009-11-21 — Guest: Jason Manford — speakers: Jason Manford Frank, Frank Skinner
+- 2009-11-14 — Guest: Micky Flanagan — speakers: Micky Flanagan, Frank Skinner
+- 2009-11-07 — Guest: Rob Deering — speakers: Rob Deering Frank, Rob Deering, Frank Skinner
+- 2009-10-31 — Guest: Rhod Gilbert — speakers: Frank Skinner
+- 2009-10-25 — Guest: Andy Parsons — speakers: Andy Parsons, Laura Solon, Frank Skinner
+- 2009-10-18 — Ed In A Ditch — speakers: Ed Byrne, Frank Skinner
+- 2009-10-10 — Guest: Russell Kane — speakers: Russell Kane Frank, Russell Kane, Frank Skinner
+- 2009-10-03 — Guest: David Essex — speakers: David Essex, Frank Skinner
+- 2009-09-27 — Guest: Cerys Matthews — speakers: Cerys Matthews, Frank Skinner
+- 2009-09-19 — Ross Noble — speakers: Ross Noble Frank, Ross Noble, Frank Skinner
+- 2009-09-12 — Guest: Laura Solon — speakers: Laura Solon, Frank Skinner
+- 2009-09-05 — Guest: Charlie Higson — speakers: Charlie Higson, Frank Skinner
+- 2009-08-29 — Guest: Greg Behrendt — speakers: Greg Behrendt, Lee Mack, Frank Skinner
+- 2009-08-24 — Guest: Jason Byrne — speakers: Jason Byrne Frank, Frank Skinner
+- 2009-08-16 — Guest: Janeane Garofalo — speakers: Janeane Garofalo, Frank Skinner
+- 2009-08-09 — Guest: Lee Mack — speakers: Lee Mack Frank, Lee Mack, Aldo Zilli, Frank Skinner
+- 2009-08-03 — Guest: Alun Cochrane — speakers: Alun Cochrane Frank, Alun Cochrane, Roberto Di Matteo, Frank Skinner
+- 2009-07-25 — Guest: Richard Herring — speakers: Richard Herring Frank, Richard Herring, Swine Flu, Frank Skinner
+- 2009-07-18 — Guest: The Lightning Seeds — speakers: Ian Broudie, Frank Skinner
+- 2009-07-11 — Guest: Phil Nichol — speakers: Phil Nichol, Frank Skinner
+- 2009-07-04 — Guest: Reece Shearsmith — speakers: Reece Shearsmith Frank, Reece Shearsmith, Frank Skinner
+- 2009-06-27 — Guest: The Duckworth Lewis Method — speakers: Neil Hannon, Thomas Walsh, Frank Skinner
+- 2009-06-06 — Guest: Jenny Eclair — speakers: Jenny Eclair, Dave Gorman, Frank Skinner, Jimmy McGhie, Emily Dean
+- 2009-05-30 — Guest: Isy Suttie — speakers: Isy Suttie Frank, Frank Skinner
+- 2009-05-23 — Guest: Alistair McGowan — speakers: Alistair McGowan, Frank Skinner
+- 2009-05-09 — Guest: Katy Brand — speakers: Katy Brand, Alan Sugar, Paul McCartney, Frank Skinner
+- 2009-05-02 — Guest: Gaby Roslin — speakers: Gaby Roslin, Frank Skinner
+- 2009-04-29 — Guest: Omid Djalili — speakers: Djalili Frank, Frank Skinner
+- 2009-04-25 — Guest: Nick Hancock — speakers: Nick Hancock Frank, Nick Hancock, Frank Skinner
+- 2009-04-18 — Guest: Simon Bird — speakers: Simon Bird Frank, Simon Bird, Frank Skinner
+- 2009-04-04 — Guest: Derren Brown — speakers: Derren Brown, Frank Skinner
+- 2009-03-28 — Guest: Adrian Chiles — speakers: Frank Skinner
+- 2009-03-21 — Guest: Ben Miller — speakers: Ben Miller, Frank Skinner
+- 2009-03-14 — Guest: Dave Gorman — speakers: Dave Gorman, Frank Skinner

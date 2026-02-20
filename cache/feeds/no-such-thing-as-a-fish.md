@@ -2,11 +2,11 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `W/"fa836cd5f26eb3cf1e0a5ce572afa949"`
-- last_modified: `Thu, 19 Feb 2026 17:25:25 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T01:14:00+00:00`
+- checked_at: `2026-02-20T01:14:00+00:00`
+- etag: `W/"6b4511e075bee6ea2f6009b370ea69f9"`
+- last_modified: `Thu, 19 Feb 2026 23:55:00 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-20T01:14:00+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -27,11 +27,35 @@
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british",
-    "facts",
+    "comedy",
     "science"
   ],
   "episodes": [
+    {
+      "key": "fa1660836912e42836cb623a7ce398fbff344d06",
+      "title": "No Such Thing As Magical Fox Phishing",
+      "published_at": "2026-02-19T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8863325",
+      "description": "Ray O'Leary joins Dan, James and Andy to discuss Rousseau, rays, receptionists and remarkable royalties. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
+      "image_url": "https://audioboom.com/i/43483069.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8863325.mp3?modified=1771522930&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3162",
+      "speakers": [
+        "Ray O'Leary",
+        "Download Saily",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "magical",
+        "phishing"
+      ]
+    },
     {
       "key": "44c4aeaf8957b965f12c45b8da43799f0452c142",
       "title": "Little Fish: Gary Scrabble",
@@ -15793,6 +15817,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-19 — No Such Thing As Magical Fox Phishing — speakers: Ray O'Leary, Download Saily, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-15 — Little Fish: Gary Scrabble — speakers: Gary Scrabble Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-12 — No Such Thing As Supercritical Hot Rock Music — speakers: Maddie Moate, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-08 — Little Fish: The OId Ron Brown — speakers: Ron Brown, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
