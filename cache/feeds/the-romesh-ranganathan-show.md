@@ -2,10 +2,10 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- last_modified: `Thu, 19 Feb 2026 00:15:07 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T21:17:34+00:00`
+- checked_at: `2026-02-20T21:17:34+00:00`
+- last_modified: `Fri, 20 Feb 2026 21:01:59 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,10 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/2bd761193d6895adbeb3644032f20f68.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-20T21:17:34+00:00",
+  "owners": [
+    "Romesh Ranganathan"
+  ],
   "common_speakers": [],
   "categories": [
     "entertainment"
@@ -37,7 +39,8 @@
       "itunes_duration": "2219",
       "speakers": [
         "Sheridan Smith",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "romesh",
@@ -65,7 +68,8 @@
         "Mark Owen",
         "Gary Barlow",
         "Howard Donald",
-        "Boy Band"
+        "Boy Band",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "sheridan",
@@ -89,7 +93,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1550",
       "speakers": [
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "romesh",
@@ -112,7 +117,8 @@
         "Mark Owen",
         "Howard Donald",
         "Ranga Bee Production",
-        "Boy Band"
+        "Boy Band",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "regret",
@@ -136,7 +142,8 @@
       "itunes_duration": "2329",
       "speakers": [
         "George Clooney",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "gift",
@@ -160,7 +167,8 @@
         "Jack Thorne",
         "Ranga Bee Production",
         "Adolescence Jack",
-        "Brad Pitt"
+        "Brad Pitt",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "jack",
@@ -184,7 +192,8 @@
       "itunes_duration": "2034",
       "speakers": [
         "Will Arnett",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -209,7 +218,8 @@
         "John Bishop",
         "Jürgen Klopp",
         "Ranga Bee Production",
-        "Will BoJack Horseman"
+        "Will BoJack Horseman",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "arnett",
@@ -233,7 +243,8 @@
       "itunes_duration": "1512",
       "speakers": [
         "James Bond",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -259,7 +270,8 @@
       "speakers": [
         "Thierry Henry Singer",
         "Thierry Henry",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "crookes",
@@ -284,7 +296,8 @@
         "James Acaster",
         "Chris Eubank",
         "Michael Macintyre",
-        "Ranga Bee"
+        "Ranga Bee",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "romesh",
@@ -309,7 +322,8 @@
       "speakers": [
         "James Acaster",
         "Off Menu",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "james",
@@ -335,7 +349,8 @@
       "itunes_duration": "1841",
       "speakers": [
         "Ranga Bee",
-        "Etiquette Learn"
+        "Etiquette Learn",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "mums",
@@ -359,7 +374,8 @@
         "Ranga Bee Production",
         "Joe Wilkinson",
         "Tom Hanks",
-        "Tim Allen"
+        "Tim Allen",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "ricky",
@@ -386,7 +402,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2389",
       "speakers": [
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -406,7 +423,8 @@
       "itunes_duration": "3855",
       "speakers": [
         "Chris McCausland",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "chris",
@@ -426,7 +444,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2020",
       "speakers": [
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "ranganathan",
@@ -446,7 +465,8 @@
       "itunes_duration": "4327",
       "speakers": [
         "Bret McKenzie",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "bret",
@@ -471,7 +491,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1467",
       "speakers": [
-        "Ranga Bee"
+        "Ranga Bee",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "weird",
@@ -497,7 +518,8 @@
         "Ranga Bee Production",
         "Chat Gpt",
         "Mark Hamill",
-        "Stephen’s Adult"
+        "Stephen’s Adult",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "stephen",
@@ -521,7 +543,8 @@
       "speakers": [
         "garlic curry",
         "Sky Cinema",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -545,7 +568,8 @@
       "speakers": [
         "Tim Key",
         "Susie Dent",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "world",
@@ -567,7 +591,8 @@
       "itunes_duration": "2134",
       "speakers": [
         "Ranga Bee Production",
-        "Dilemmas Ben"
+        "Dilemmas Ben",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -587,7 +612,8 @@
       "itunes_duration": "3761",
       "speakers": [
         "Saltburn Success",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "sophie",
@@ -613,7 +639,8 @@
       "speakers": [
         "Ranga Bee Production",
         "Jack Whitehall",
-        "Gen Alpha"
+        "Gen Alpha",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -639,7 +666,8 @@
       "speakers": [
         "Jack Whitehall",
         "Danny Dyer",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "jack",
@@ -662,7 +690,8 @@
       "speakers": [
         "Andy Murray",
         "Ranga Bee Production",
-        "Law Birthday Party"
+        "Law Birthday Party",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -689,7 +718,8 @@
         "Santander Pay Smarter",
         "Santander Edge",
         "Ranga Bee Production",
-        "Ranganathan Learn"
+        "Ranganathan Learn",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "andy",
@@ -713,7 +743,8 @@
       "itunes_duration": "2472",
       "speakers": [
         "Ranga Bee Production",
-        "Loyle Carner"
+        "Loyle Carner",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "romesh",
@@ -739,7 +770,8 @@
         "Santander Edge",
         "Ranga Bee Production",
         "Lianne La Havas",
-        "James Bond"
+        "James Bond",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "loyle",
@@ -766,7 +798,8 @@
         "Santander Pay Smarter",
         "Santander Edge",
         "Ranga Bee Production",
-        "Mel Gibson"
+        "Mel Gibson",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -792,7 +825,8 @@
         "Daisy May",
         "Ranga Bee Production",
         "Charlie Really Believe",
-        "Daisy’s Creepy"
+        "Daisy’s Creepy",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "daisy",
@@ -821,7 +855,8 @@
         "Santander Pay Smarter",
         "Santander Edge",
         "Ranga Bee Production",
-        "Ben’s Apples"
+        "Ben’s Apples",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "romesh",
@@ -844,7 +879,8 @@
         "Jameela Jamil",
         "Ranga Bee Production",
         "Larry David",
-        "Fox Learn"
+        "Fox Learn",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "jameela",
@@ -870,7 +906,8 @@
         "Santander Pay Smarter",
         "Santander Edge",
         "Ranga Bee Production",
-        "Tim Minchin"
+        "Tim Minchin",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "romesh",
@@ -894,7 +931,8 @@
         "Tim Minchin",
         "Santander Pay Smarter",
         "Santander Edge",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "minchin",
@@ -921,7 +959,8 @@
         "Santander Pay Smarter",
         "Santander Edge",
         "Ranga Bee Production",
-        "Jamie Redknapp"
+        "Jamie Redknapp",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -946,7 +985,8 @@
       "speakers": [
         "Jamie Redknapp",
         "Santander Pay Smarter",
-        "Santander Edge"
+        "Santander Edge",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "jamie",
@@ -970,7 +1010,8 @@
         "Santander Pay Smarter",
         "Santander Edge",
         "Ranga Bee Production",
-        "Kitchen Makeovers"
+        "Kitchen Makeovers",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "romesh",
@@ -998,7 +1039,8 @@
         "Santander Edge",
         "Ranga Bee Production",
         "Boy George Ambition",
-        "Angelina Jolie"
+        "Angelina Jolie",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "paloma",
@@ -1024,7 +1066,8 @@
         "Santander Pay Smarter",
         "Santander Edge",
         "Ranga Bee Production",
-        "Michael Sheen Listener"
+        "Michael Sheen Listener",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "shanthi",
@@ -1044,7 +1087,8 @@
       "itunes_duration": "3124",
       "speakers": [
         "Michael Sheen",
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "michael",
@@ -1065,7 +1109,8 @@
       "enclosure_length": "0",
       "itunes_duration": "78",
       "speakers": [
-        "Ranga Bee Production"
+        "Ranga Bee Production",
+        "Romesh Ranganathan"
       ],
       "topics": [
         "romesh",
@@ -1079,46 +1124,46 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Romesh’s Near Death Experience & Solving The Beckham’s Drama — speakers: Sheridan Smith, Ranga Bee Production
-- 2026-02-16 — Sheridan Smith: Comedy, Imposter Syndrome & Her Dream Role — speakers: Sheridan Smith, Ranga Bee Production, Mark Owen, Gary Barlow, Howard Donald, Boy Band
-- 2026-02-12 — Would Romesh Ever LEAVE Crawley? — speakers: Ranga Bee Production
-- 2026-02-09 — Take That: 90s Regrets, Songwriting Pressures & The Circus Tour Returns — speakers: Gary Barlow, Mark Owen, Howard Donald, Ranga Bee Production, Boy Band
-- 2026-02-05 — Should Gifts Be Equal in a Relationship? — speakers: George Clooney, Ranga Bee Production
-- 2026-02-02 — Jack Thorne: Adolescence, Stephen Graham, and Anxiety — speakers: Jack Thorne Adolescence, Stephen Graham, Jack Thorne, Ranga Bee Production, Adolescence Jack, Brad Pitt
-- 2026-01-29 — Shanthi’s Own Cooking Show & How To Stop Tantrums! — speakers: Will Arnett, Ranga Bee Production
-- 2026-01-26 — Will Arnett: Why People LOVE Bojack Horseman & Pretending To Be A Comedian — speakers: Will Arnett, BoJack Horseman, John Bishop, Jürgen Klopp, Ranga Bee Production, Will BoJack Horseman
-- 2026-01-22 — Shanthi's Acting Skills, Genie Wishes & Expensive Taste — speakers: James Bond, Ranga Bee Production
-- 2026-01-19 — Joy Crookes: Making Music, Heritage & Thierry Henry — speakers: Thierry Henry Singer, Thierry Henry, Ranga Bee Production
-- 2026-01-15 — Romesh’s BEST Impressions & Why Shanthi LOVES James Acaster?! — speakers: James Acaster, Chris Eubank, Michael Macintyre, Ranga Bee
-- 2026-01-12 — James Acaster: Hecklers, Mental Health & Stealing Romesh's Family — speakers: James Acaster, Off Menu, Ranga Bee Production
-- 2026-01-08 — Why Do Mums Ignore Boundaries? — speakers: Ranga Bee, Etiquette Learn
-- 2026-01-05 — Ricky Gervais: Roasting Celebrities At The Golden Globes & Giving Millions To Animal Charities — speakers: Ricky Gervais, Ranga Bee Production, Joe Wilkinson, Tom Hanks, Tim Allen
-- 2025-12-29 — Shanthi's Best Bits 2025 — speakers: Ranga Bee Production
-- 2025-12-22 — Chris McCausland: Strictly Magic & Why You Shouldn't Care — speakers: Chris McCausland, Ranga Bee Production
-- 2025-12-18 — A Very Ranganathan Christmas — speakers: Ranga Bee Production
-- 2025-12-15 — Bret McKenzie: Flight of the Conchords, Lord Of The Rings Cameos & Oscar Win — speakers: Bret McKenzie, Ranga Bee Production
-- 2025-12-11 — Trying Weird Food Combos & Why Moving Abroad is a Mistake! — speakers: Ranga Bee
-- 2025-12-08 — Stephen Merchant: Being The Awkward Guy & Letting Go Of THE OFFICE — speakers: Stephen Merchant, Ranga Bee Production, Chat Gpt, Mark Hamill, Stephen’s Adult
-- 2025-12-04 — Shanthi’s BIZARRE Method To Get Kids To Sleep & Why Romesh Was Bullied?! — speakers: garlic curry, Sky Cinema, Ranga Bee Production
-- 2025-12-01 — Tim Key: Trying The World’s HOTTEST Curry & Struggling With Panel Shows — speakers: Tim Key, Susie Dent, Ranga Bee Production
-- 2025-11-27 — Would Shanthi Ever Go On Taskmaster? — speakers: Ranga Bee Production, Dilemmas Ben
-- 2025-11-24 — Sophie Ellis-Bextor: Saltburn Success, Stealing from the Royals & Embracing Age — speakers: Saltburn Success, Ranga Bee Production
-- 2025-11-20 — Shanthi’s PERFECT First Date, Gen Z Slang Test & Celeb Dreams… — speakers: Ranga Bee Production, Jack Whitehall, Gen Alpha
-- 2025-11-17 — Jack Whitehall: From Fangirling Over The Rock to Fatherhood — speakers: Jack Whitehall, Danny Dyer, Ranga Bee Production
-- 2025-11-13 — Shanthi on Girlfriends, Overprotective Parents & “Love You, Mummy” — speakers: Andy Murray, Ranga Bee Production, Law Birthday Party
-- 2025-11-10 — Andy Murray: Retirement, Tennis Grunts & Finally Feeling Pride — speakers: Andy Murray, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Ranganathan Learn
-- 2025-11-06 — Romesh & Shanthi Open Up — speakers: Ranga Bee Production, Loyle Carner
-- 2025-11-03 — Loyle Carner: Glastonbury, Ottolenghi and James Bond Exclusive! — speakers: Loyle Carner, James Bond Exclusive, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Lianne La Havas, James Bond
-- 2025-10-30 — Shanthi Holds a Grudge & Romesh SINGS Whitney! — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Mel Gibson
-- 2025-10-27 — Daisy May Cooper & Charlie Cooper: Ghost Hunts, Sibling Rivalry & Threadworm — speakers: Charlie Cooper, Daisy May, Ranga Bee Production, Charlie Really Believe, Daisy’s Creepy
-- 2025-10-22 — Controlling Romesh's Life & What Shanthi Looks For In A Man! — speakers: Jameela Jamil, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Ben’s Apples
-- 2025-10-19 — Jameela Jamil: Accidentally Becoming A Hollywood Star & Why I Don’t Trust Journalists — speakers: Jameela Jamil, Ranga Bee Production, Larry David, Fox Learn
-- 2025-10-15 — Romesh's Medical MIX UP & Should Grandparents Choose Their Nicknames? — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Tim Minchin
-- 2025-10-12 — Tim Minchin: How I Wrote Matilda the Musical! Quitting Social Media & Imposter Syndrome! — speakers: Tim Minchin, Santander Pay Smarter, Santander Edge, Ranga Bee Production
-- 2025-10-08 — Shanthi Goes VIRAL On TikTok & Romesh ABANDONS Shanthi at a Wedding!? — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Jamie Redknapp
-- 2025-10-05 — Jamie Redknapp: Becoming a Dad AGAIN at 49, Coached By My Dad & Flirting With Romesh's Mum... — speakers: Jamie Redknapp, Santander Pay Smarter, Santander Edge
-- 2025-10-01 — Romesh Got SCAMMED On Holiday & Shanthi’s BIZARRE Parenting Trick?! — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Kitchen Makeovers
-- 2025-09-28 — Paloma Faith: Feeling REJECTED By The Music Industry & Teaching Romesh To Sing! — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Boy George Ambition, Angelina Jolie
-- 2025-09-24 — Introducing Shanthi Ranganathan — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Michael Sheen Listener
-- 2025-09-21 — Michael Sheen: Handing Back My OBE + Accidentally Stalking My Hero — speakers: Michael Sheen, Ranga Bee Production
-- 2025-09-21 — Introducing The Romesh Ranganathan Show! — speakers: Ranga Bee Production
+- 2026-02-19 — Romesh’s Near Death Experience & Solving The Beckham’s Drama — speakers: Sheridan Smith, Ranga Bee Production, Romesh Ranganathan
+- 2026-02-16 — Sheridan Smith: Comedy, Imposter Syndrome & Her Dream Role — speakers: Sheridan Smith, Ranga Bee Production, Mark Owen, Gary Barlow, Howard Donald, Boy Band, Romesh Ranganathan
+- 2026-02-12 — Would Romesh Ever LEAVE Crawley? — speakers: Ranga Bee Production, Romesh Ranganathan
+- 2026-02-09 — Take That: 90s Regrets, Songwriting Pressures & The Circus Tour Returns — speakers: Gary Barlow, Mark Owen, Howard Donald, Ranga Bee Production, Boy Band, Romesh Ranganathan
+- 2026-02-05 — Should Gifts Be Equal in a Relationship? — speakers: George Clooney, Ranga Bee Production, Romesh Ranganathan
+- 2026-02-02 — Jack Thorne: Adolescence, Stephen Graham, and Anxiety — speakers: Jack Thorne Adolescence, Stephen Graham, Jack Thorne, Ranga Bee Production, Adolescence Jack, Brad Pitt, Romesh Ranganathan
+- 2026-01-29 — Shanthi’s Own Cooking Show & How To Stop Tantrums! — speakers: Will Arnett, Ranga Bee Production, Romesh Ranganathan
+- 2026-01-26 — Will Arnett: Why People LOVE Bojack Horseman & Pretending To Be A Comedian — speakers: Will Arnett, BoJack Horseman, John Bishop, Jürgen Klopp, Ranga Bee Production, Will BoJack Horseman, Romesh Ranganathan
+- 2026-01-22 — Shanthi's Acting Skills, Genie Wishes & Expensive Taste — speakers: James Bond, Ranga Bee Production, Romesh Ranganathan
+- 2026-01-19 — Joy Crookes: Making Music, Heritage & Thierry Henry — speakers: Thierry Henry Singer, Thierry Henry, Ranga Bee Production, Romesh Ranganathan
+- 2026-01-15 — Romesh’s BEST Impressions & Why Shanthi LOVES James Acaster?! — speakers: James Acaster, Chris Eubank, Michael Macintyre, Ranga Bee, Romesh Ranganathan
+- 2026-01-12 — James Acaster: Hecklers, Mental Health & Stealing Romesh's Family — speakers: James Acaster, Off Menu, Ranga Bee Production, Romesh Ranganathan
+- 2026-01-08 — Why Do Mums Ignore Boundaries? — speakers: Ranga Bee, Etiquette Learn, Romesh Ranganathan
+- 2026-01-05 — Ricky Gervais: Roasting Celebrities At The Golden Globes & Giving Millions To Animal Charities — speakers: Ricky Gervais, Ranga Bee Production, Joe Wilkinson, Tom Hanks, Tim Allen, Romesh Ranganathan
+- 2025-12-29 — Shanthi's Best Bits 2025 — speakers: Ranga Bee Production, Romesh Ranganathan
+- 2025-12-22 — Chris McCausland: Strictly Magic & Why You Shouldn't Care — speakers: Chris McCausland, Ranga Bee Production, Romesh Ranganathan
+- 2025-12-18 — A Very Ranganathan Christmas — speakers: Ranga Bee Production, Romesh Ranganathan
+- 2025-12-15 — Bret McKenzie: Flight of the Conchords, Lord Of The Rings Cameos & Oscar Win — speakers: Bret McKenzie, Ranga Bee Production, Romesh Ranganathan
+- 2025-12-11 — Trying Weird Food Combos & Why Moving Abroad is a Mistake! — speakers: Ranga Bee, Romesh Ranganathan
+- 2025-12-08 — Stephen Merchant: Being The Awkward Guy & Letting Go Of THE OFFICE — speakers: Stephen Merchant, Ranga Bee Production, Chat Gpt, Mark Hamill, Stephen’s Adult, Romesh Ranganathan
+- 2025-12-04 — Shanthi’s BIZARRE Method To Get Kids To Sleep & Why Romesh Was Bullied?! — speakers: garlic curry, Sky Cinema, Ranga Bee Production, Romesh Ranganathan
+- 2025-12-01 — Tim Key: Trying The World’s HOTTEST Curry & Struggling With Panel Shows — speakers: Tim Key, Susie Dent, Ranga Bee Production, Romesh Ranganathan
+- 2025-11-27 — Would Shanthi Ever Go On Taskmaster? — speakers: Ranga Bee Production, Dilemmas Ben, Romesh Ranganathan
+- 2025-11-24 — Sophie Ellis-Bextor: Saltburn Success, Stealing from the Royals & Embracing Age — speakers: Saltburn Success, Ranga Bee Production, Romesh Ranganathan
+- 2025-11-20 — Shanthi’s PERFECT First Date, Gen Z Slang Test & Celeb Dreams… — speakers: Ranga Bee Production, Jack Whitehall, Gen Alpha, Romesh Ranganathan
+- 2025-11-17 — Jack Whitehall: From Fangirling Over The Rock to Fatherhood — speakers: Jack Whitehall, Danny Dyer, Ranga Bee Production, Romesh Ranganathan
+- 2025-11-13 — Shanthi on Girlfriends, Overprotective Parents & “Love You, Mummy” — speakers: Andy Murray, Ranga Bee Production, Law Birthday Party, Romesh Ranganathan
+- 2025-11-10 — Andy Murray: Retirement, Tennis Grunts & Finally Feeling Pride — speakers: Andy Murray, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Ranganathan Learn, Romesh Ranganathan
+- 2025-11-06 — Romesh & Shanthi Open Up — speakers: Ranga Bee Production, Loyle Carner, Romesh Ranganathan
+- 2025-11-03 — Loyle Carner: Glastonbury, Ottolenghi and James Bond Exclusive! — speakers: Loyle Carner, James Bond Exclusive, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Lianne La Havas, James Bond, Romesh Ranganathan
+- 2025-10-30 — Shanthi Holds a Grudge & Romesh SINGS Whitney! — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Mel Gibson, Romesh Ranganathan
+- 2025-10-27 — Daisy May Cooper & Charlie Cooper: Ghost Hunts, Sibling Rivalry & Threadworm — speakers: Charlie Cooper, Daisy May, Ranga Bee Production, Charlie Really Believe, Daisy’s Creepy, Romesh Ranganathan
+- 2025-10-22 — Controlling Romesh's Life & What Shanthi Looks For In A Man! — speakers: Jameela Jamil, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Ben’s Apples, Romesh Ranganathan
+- 2025-10-19 — Jameela Jamil: Accidentally Becoming A Hollywood Star & Why I Don’t Trust Journalists — speakers: Jameela Jamil, Ranga Bee Production, Larry David, Fox Learn, Romesh Ranganathan
+- 2025-10-15 — Romesh's Medical MIX UP & Should Grandparents Choose Their Nicknames? — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Tim Minchin, Romesh Ranganathan
+- 2025-10-12 — Tim Minchin: How I Wrote Matilda the Musical! Quitting Social Media & Imposter Syndrome! — speakers: Tim Minchin, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Romesh Ranganathan
+- 2025-10-08 — Shanthi Goes VIRAL On TikTok & Romesh ABANDONS Shanthi at a Wedding!? — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Jamie Redknapp, Romesh Ranganathan
+- 2025-10-05 — Jamie Redknapp: Becoming a Dad AGAIN at 49, Coached By My Dad & Flirting With Romesh's Mum... — speakers: Jamie Redknapp, Santander Pay Smarter, Santander Edge, Romesh Ranganathan
+- 2025-10-01 — Romesh Got SCAMMED On Holiday & Shanthi’s BIZARRE Parenting Trick?! — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Kitchen Makeovers, Romesh Ranganathan
+- 2025-09-28 — Paloma Faith: Feeling REJECTED By The Music Industry & Teaching Romesh To Sing! — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Boy George Ambition, Angelina Jolie, Romesh Ranganathan
+- 2025-09-24 — Introducing Shanthi Ranganathan — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Michael Sheen Listener, Romesh Ranganathan
+- 2025-09-21 — Michael Sheen: Handing Back My OBE + Accidentally Stalking My Hero — speakers: Michael Sheen, Ranga Bee Production, Romesh Ranganathan
+- 2025-09-21 — Introducing The Romesh Ranganathan Show! — speakers: Ranga Bee Production, Romesh Ranganathan
