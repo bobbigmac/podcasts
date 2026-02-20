@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-02-20T00:38:53+00:00`
-- checked_at: `2026-02-20T00:38:53+00:00`
-- etag: `"0589e63e15d26b9886bef20ab332404d"`
-- last_modified: `Fri, 13 Feb 2026 05:00:04 GMT`
+- fetched_at: `2026-02-20T07:14:33+00:00`
+- checked_at: `2026-02-20T07:14:33+00:00`
+- etag: `"cd8bb4e864f59bb07412f1e9baece224"`
+- last_modified: `Fri, 20 Feb 2026 06:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-02-20T00:38:53+00:00",
+  "fetched_at": "2026-02-20T07:14:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,36 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "bb1085c8902e1c9fd9fcd6b92df7528aab9b1f25",
+      "title": "Lena Horne: racism and resilience in the Golden Age of Hollywood",
+      "published_at": "2026-02-20T06:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002qggw",
+      "description": "Greg Jenner is joined in twentieth-century America by Dr Hannah Thuraisingam Robbins and comedian Desiree Burch to learn all about singer and Hollywood actress Lena Horne. Born into a middle class Black family in New York, a young Lena Horne soon followed in the footsteps of her actress mother and made her début at the famous Cotton Club aged only 16. After making her name as a singer and performer – and following the end of her tumultuous first marriage – Horne transferred to the west coast and bagged a Hollywood contract with MGM. There, she appeared in a number of classic films, including Stormy Weather and Cabin in the Sky. Over the next several years, she would also perform for the troops in the Second World War, fall in love with and marry a white composer and arranger, undertake an international tour, and become one of the most popular nightclub performers of the post-war era. But the racism of segregation-era America would also shape and limit the career of the woman known as ‘the first Black pin-up girl’, eventually leading her to the civil rights movement and Black activism in the 1960s. This episode traces Lena’s journey from young dancer to Hollywood star and renowned vocalist, along the way exploring her connections with figures including Billie Holliday and Martin Luther King Jr., and the injustice she spent so much of her career fighting against. If you’re a fan of the history of cinema, mid-century America, and Black cultural icons, you’ll love our episode on Lena Horne. If you want more musical icons with Desiree Burch, listen to our episodes on Paul Robeson, Josephine Baker, and Broadway Musicals. And for more film history, check out our episodes on the history of Bollywood and Sarah Bernhardt. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Rosalyn Sklar Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n1zp22.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57824000",
+      "itunes_duration": "3614",
+      "speakers": [
+        "Lena Horne",
+        "Greg Jenner",
+        "Hannah Thuraisingam Robbins",
+        "Desiree Burch",
+        "Martin Luther King Jr",
+        "Paul Robeson",
+        "Josephine Baker",
+        "Sarah Bernhardt"
+      ],
+      "topics": [
+        "lena",
+        "horne",
+        "racism",
+        "resilience",
+        "golden",
+        "hollywood"
+      ]
+    },
     {
       "key": "9f84acee6023c33b865e3667133a0d58d407107d",
       "title": "Philippe, Duc d’Orléans: in the shadow of the Sun King",
@@ -6533,6 +6563,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — Lena Horne: racism and resilience in the Golden Age of Hollywood — speakers: Lena Horne, Greg Jenner, Hannah Thuraisingam Robbins, Desiree Burch, Martin Luther King Jr, Paul Robeson, Josephine Baker, Sarah Bernhardt
 - 2026-02-13 — Philippe, Duc d’Orléans: in the shadow of the Sun King — speakers: Greg Jenner, Jonathan Spangler, Tom Allen, Louis Xiv, Catherine de Medici, Marie Antoinette, Benedetta Carlini, Emma Mitchell
 - 2026-02-06 — Renaissance Medicine: healthcare and disease in early modern England — speakers: Greg Jenner, Alanna Skuse, Ria Lina, Stuart England, Henry Viii, William Harvey, Christopher Wren, Zheng Yi Sao
 - 2026-01-30 — Emperor Nero: ancient Rome’s most infamous ruler — speakers: Greg Jenner, Mary Beard, Patton Oswalt, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett, Philip Sellars

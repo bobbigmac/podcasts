@@ -2,10 +2,10 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpFMU1qZzNOVGMxTXpJPTo6c2F4ZXNz"`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T07:14:33+00:00`
+- checked_at: `2026-02-20T07:14:33+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpFMU5qY3lNems0TWpRPTo6c2F4ZXNz"`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,28 +17,26 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-20T07:14:33+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british",
-    "advice",
-    "life/relationships"
+    "comedy"
   ],
   "episodes": [
     {
       "key": "86819d80cd55a24f15a409281ff8c12248f43732",
       "title": "Jordan FAINTS | And Sushi With Half Pints",
-      "published_at": "2026-02-19T06:00:00+00:00",
+      "published_at": "2026-02-20T06:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/jordan-faints-and-sushi-with-half-pints",
-      "description": "There are a few things that stress Jordan out: to-do lists, unread messages, a missing dressing gown belt. But you’ll never guess the reason that made Jordan FAINT! The boys also cover their big plans for Jordan’s birthday and why Producer Ben is the Voldemort of Help I Sexted My Boss.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "There are a few things that stress Jordan out: to-do lists, unread messages, a missing dressing gown belt. But you’ll never guess the reason that made Jordan FAINT! The boys also cover their big plans for Jordan’s birthday and why Producer Ben is the Voldemort of Help I Sexted My Boss. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1771432103526-97f855c8-7706-402f-aa46-73c3689884f6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6995e8ed4a6b6137bf30d1c7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=c8ZrODYicFTCTWqEY8bMnIVy1LV1l1jJubzAOhKH1iI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40906152",
       "itunes_duration": "28:11",
       "speakers": [
         "Producer Ben",
@@ -13744,7 +13742,7 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Jordan FAINTS | And Sushi With Half Pints — speakers: Producer Ben, William Hanson, Jordan North
+- 2026-02-20 — Jordan FAINTS | And Sushi With Half Pints — speakers: Producer Ben, William Hanson, Jordan North
 - 2026-02-17 — Help There’s A Fishy Smell | And William Gets Chintzy — speakers: Fishy Smell, William Gets Chintzy, William Hanson, Jordan North
 - 2026-02-13 — Who’s The CAMPEST?! | And Taking Advantage Of Jordan — speakers: Burnley Wallet, William Hanson, Jordan North
 - 2026-02-10 — Help He’s Got A P*ss Lolly | And Roleplaying As Old Ladies — speakers: William Hanson, Jordan North
