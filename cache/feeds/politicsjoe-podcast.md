@@ -2,10 +2,10 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"djEuMi4wOjE3NzE1Mjc2MzkzODU="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T13:33:38+00:00`
+- checked_at: `2026-02-20T13:33:38+00:00`
+- etag: `"djEuMi4wOjE3NzE1OTI0MzkzMjU="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,13 +17,37 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
+  "fetched_at": "2026-02-20T13:33:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4ee7f7e20aa70a3b500a576a12300d3fa30505da",
+      "title": "The Truth about Morgan McSweeney | Peter Oborne interview",
+      "published_at": "2026-02-20T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6997419a4a6b6137bf919662",
+      "description": "Today Ava is joined by journalist Peter Oborne to discuss the Labour party under Keir Starmer, and the man that dragged him into power: Morgan McSweeney. Peter breaks down the allegiances that McSweeney built over a long career campaigning for the Labour Party, leading to his links to the man that almost brought down Starmer's premiership - the former American Ambassador Peter Mandelson. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6997419a4a6b6137bf919662/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57463800",
+      "itunes_duration": "29:54",
+      "speakers": [
+        "Peter Oborne",
+        "Keir Starmer",
+        "Peter Mandelson"
+      ],
+      "topics": [
+        "truth",
+        "morgan",
+        "mcsweeney",
+        "peter",
+        "oborne"
+      ]
+    },
     {
       "key": "688ce501f454daab18bf9ff198a05a43d0e7de77",
       "title": "Will Rupert Lowe end Reform's surge?",
@@ -13256,6 +13280,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — The Truth about Morgan McSweeney | Peter Oborne interview — speakers: Peter Oborne, Keir Starmer, Peter Mandelson
 - 2026-02-19 — Will Rupert Lowe end Reform's surge? — speakers: Will Rupert Lowe end, Rupert Lowe
 - 2026-02-19 — Andrew Mountbatten-Windsor is arrested — speakers: Andrew Mountbatten-Windsor, Prince Andrew
 - 2026-02-18 — The Truth about Tony Blair | Michael Waldman interview — speakers: Tony Blair, Michael Waldman

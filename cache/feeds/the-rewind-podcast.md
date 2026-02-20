@@ -2,10 +2,10 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `W/"13b18-osEO0Lzd+IuA9LhwACbEGTJb32E"`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T13:33:38+00:00`
+- checked_at: `2026-02-20T13:33:38+00:00`
+- etag: `W/"13b18-p3sBQaw+B11KgyqqobViPls+Hgw"`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,12 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-20T13:33:38+00:00",
+  "owners": [
+    "Darren Mooney",
+    "Jack Packard",
+    "Marty Sliva"
+  ],
   "common_speakers": [],
   "categories": [
     "entertainment"
@@ -38,7 +42,10 @@
       "speakers": [
         "Wonder Man",
         "Iron Lung",
-        "Send Help"
+        "Send Help",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "thoughts",
@@ -62,7 +69,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "297593312",
       "itunes_duration": "03:26:39",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "sinner",
         "record",
@@ -84,7 +95,10 @@
       "enclosure_length": "158193824",
       "itunes_duration": "01:49:51",
       "speakers": [
-        "Jenna Stoeber"
+        "Jenna Stoeber",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "pluribus",
@@ -105,7 +119,10 @@
       "itunes_duration": "03:21:32",
       "speakers": [
         "Rip Rob Reiner",
-        "Rob Reiner"
+        "Rob Reiner",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "warner",
@@ -129,7 +146,10 @@
       "enclosure_length": "244908320",
       "itunes_duration": "02:50:04",
       "speakers": [
-        "Murder Mysteries"
+        "Murder Mysteries",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "dead",
@@ -150,7 +170,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "238817696",
       "itunes_duration": "02:45:50",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "predator",
         "badlands",
@@ -171,7 +195,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "227673824",
       "itunes_duration": "02:38:06",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "jack",
         "darren",
@@ -194,7 +222,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "209695136",
       "itunes_duration": "02:25:37",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "perfect",
         "halloween",
@@ -215,7 +247,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "173017184",
       "itunes_duration": "02:00:09",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "battle",
         "kind",
@@ -237,7 +273,10 @@
       "itunes_duration": "02:35:39",
       "speakers": [
         "Long Walk",
-        "Demon Slayer"
+        "Demon Slayer",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "long",
@@ -261,7 +300,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "204725408",
       "itunes_duration": "02:22:10",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "conjuring",
         "rites",
@@ -282,7 +325,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "210180128",
       "itunes_duration": "02:25:57",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "alien",
         "earth",
@@ -304,7 +351,10 @@
       "enclosure_length": "219208352",
       "itunes_duration": "02:32:13",
       "speakers": [
-        "Demon Hunters"
+        "Demon Hunters",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "weapon",
@@ -326,7 +376,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "200403104",
       "itunes_duration": "02:19:10",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "fantastic",
         "steps",
@@ -348,7 +402,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "275444384",
       "itunes_duration": "03:11:16",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "superman",
         "jurassic",
@@ -370,7 +428,10 @@
       "enclosure_length": "212674208",
       "itunes_duration": "02:27:41",
       "speakers": [
-        "Denis Villeneuve"
+        "Denis Villeneuve",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "year",
@@ -394,7 +455,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "232593440",
       "itunes_duration": "02:41:31",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "predators",
         "ballerinas",
@@ -414,7 +479,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "212281376",
       "itunes_duration": "02:27:25",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "andor",
         "tier",
@@ -436,7 +505,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "218820704",
       "itunes_duration": "02:31:57",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "thunderbolt",
         "thought",
@@ -459,7 +532,10 @@
       "enclosure_length": "220525664",
       "itunes_duration": "02:33:08",
       "speakers": [
-        "Until Dawn"
+        "Until Dawn",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "sinner",
@@ -480,7 +556,10 @@
       "enclosure_length": "139423712",
       "itunes_duration": "01:36:49",
       "speakers": [
-        "Second Wind"
+        "Second Wind",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "minecraft",
@@ -501,7 +580,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "199057568",
       "itunes_duration": "02:18:14",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "hollywood",
         "eternal",
@@ -521,7 +604,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128706656",
       "itunes_duration": "01:29:22",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "worth",
         "mickey",
@@ -543,7 +630,10 @@
       "enclosure_length": "194221472",
       "itunes_duration": "02:14:52",
       "speakers": [
-        "Gene Hackman"
+        "Gene Hackman",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "oscars",
@@ -562,7 +652,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "209814944",
       "itunes_duration": "02:25:42",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "captain",
         "america",
@@ -583,7 +677,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "204740960",
       "itunes_duration": "02:22:10",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "hell",
         "market",
@@ -604,7 +702,10 @@
       "enclosure_length": "190809824",
       "itunes_duration": "02:12:30",
       "speakers": [
-        "David Lynch"
+        "David Lynch",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "severance",
@@ -628,7 +729,10 @@
       "enclosure_length": "212881568",
       "itunes_duration": "02:27:50",
       "speakers": [
-        "Squid Game"
+        "Squid Game",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "nosferatu",
@@ -650,7 +754,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "182701472",
       "itunes_duration": "02:06:52",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "holiday",
         "season",
@@ -669,7 +777,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "164388128",
       "itunes_duration": "01:54:09",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "frosty",
         "gladiator",
@@ -689,7 +801,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "158757165",
       "itunes_duration": "01:50:14",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "arcane",
         "penguin",
@@ -710,7 +826,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "186701229",
       "itunes_duration": "02:09:39",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "halloween",
         "rewind",
@@ -728,7 +848,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "195567805",
       "itunes_duration": "02:15:48",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "rings",
         "power",
@@ -749,7 +873,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "188919523",
       "itunes_duration": "02:11:10",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "megalopolis",
         "mess",
@@ -770,7 +898,10 @@
       "itunes_duration": "02:23:46",
       "speakers": [
         "Beetlejuice Beetlejuice",
-        "Beetlejuiece Beetlejuice"
+        "Beetlejuiece Beetlejuice",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
       ],
       "topics": [
         "beetlejuice",
@@ -791,7 +922,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118557541",
       "itunes_duration": "01:22:19",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "thoughts",
         "alien",
@@ -811,7 +946,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "221140441",
       "itunes_duration": "02:33:33",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "summer",
         "blockbusters",
@@ -832,7 +971,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "181543411",
       "itunes_duration": "02:06:03",
-      "speakers": [],
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
       "topics": [
         "twisters",
         "rewind",
@@ -869,42 +1012,42 @@
 
 ## Episodes (newest first)
 
-- 2026-02-11 — Our Thoughts on Iron Lung, Fallout Season 2, and Wonder Man | The Rewind Podcast — speakers: Wonder Man, Iron Lung, Send Help
-- 2026-01-28 — Sinners' Record-Breaking Oscar Nominations | The Rewind Podcast
-- 2026-01-14 — We Need to Talk About Pluribus | The Rewind Podcast — speakers: Jenna Stoeber
-- 2025-12-18 — Unpacking the Warner Bros. Sale, Christmas Media, and RIP Rob Reiner | The Rewind Podcast — speakers: Rip Rob Reiner, Rob Reiner
-- 2025-12-05 — Wake Up Dead Man, Murder Mysteries, and More | The Rewind Podcast — speakers: Murder Mysteries
-- 2025-11-19 — Gabbing About Predator: Badlands, The Running Man, Pluribus, and More! | The Rewind Podcast
-- 2025-11-05 — Jack and Darren Talk Star Trek for Two Hours | The Rewind Podcast
-- 2025-10-22 — Building the Perfect Halloween Party Playlist | The Rewind Podcast
-- 2025-10-08 — One Battle After Another Is All Kinds of Revolutionary | The Rewind Podcast
-- 2025-09-24 — The Long Walk, Demon Slayer: Infinity Castle, and More | The Rewind Podcast — speakers: Long Walk, Demon Slayer
-- 2025-09-10 — The Conjuring: Last Rites, Highest 2 Lowest, and More | The Rewind Podcast
-- 2025-08-27 — Alien: Earth, Peacemaker Season 2, and More | The Rewind Podcast
-- 2025-08-12 — Weapons and The Naked Gun Prove Why Theaters Are Still King | The Rewind Podcast — speakers: Demon Hunters
-- 2025-07-30 — Did Either The Fantastic Four: First Steps or Happy Gilmore 2 Spark Joy? | The Rewind Podcast
-- 2025-07-16 — Where We Landed on Superman + Jurassic World Rebirth | The Rewind Podcast
-- 2025-07-02 — 28 Years Years Later + Denis Villeneuve's Bond Movie | The Rewind Podcast — speakers: Denis Villeneuve
-- 2025-06-18 — Chatting About Predators, Ballerinas, and Spaceballs | The Rewind Podcast
-- 2025-05-28 — Andor Isn't Just Top-Tier Star Wars, It's Top-Tier Television | The Rewind Podcast
-- 2025-05-15 — Thunderbolts* Thoughts and Our Summer Movie Preview | The Rewind Podcast
-- 2025-04-30 — Sinners Is the First Must-See Movie of 2025 | The Rewind Podcast — speakers: Until Dawn
-- 2025-04-16 — A Minecraft Movie Has Saved Cinema | The Rewind Podcast — speakers: Second Wind
-- 2025-04-02 — Hollywood's Eternal Obsession With Itself | The Rewind Podcast
-- 2025-03-19 — $450 Million Worth of Sci-Fi in Mickey 17 and The Electric State | The Rewind Podcast
-- 2025-03-05 — Who Are the Oscars Actually For? | The Rewind Podcast — speakers: Gene Hackman
-- 2025-02-19 — We Do Not Agree on Captain America: Brave New World | The Rewind Podcast
-- 2025-02-05 — How the Hell Do You Market Movies & TV in 2025? | The Rewind Podcast
-- 2025-01-22 — Severance, The Brutalist, and Remembering David Lynch | The Rewind Podcast — speakers: David Lynch
-- 2025-01-08 — Nosferatu, Squid Game, and What We Watched Over the Break | The Rewind Podcast — speakers: Squid Game
-- 2024-12-11 — What to Watch This Holiday Season | The Rewind Podcast
-- 2024-11-28 — HOT FROSTY (Also Gladiator II and Wicked, I Guess) | The Rewind Podcast
-- 2024-11-13 — Arcane, Penguin, and the State of Comedies | The Rewind Podcast
-- 2024-10-30 — What to Watch This Halloween | The Rewind Podcast
-- 2024-10-16 — The Rings of Power Feels Like an Appendix, Not a Story | The Rewind Podcast
-- 2024-10-02 — Megalopolis is a Fascinating Mess That's Impossible to Look Away From | The Rewind Podcast
-- 2024-09-18 — Beetlejuice Beetlejuice and a Pop Culture Grab Bag | The Rewind Podcast — speakers: Beetlejuice Beetlejuice, Beetlejuiece Beetlejuice
-- 2024-08-21 — Our Thoughts on Alien: Romulus | The Rewind Podcast
-- 2024-08-08 — Are Summer Blockbusters Dying or Thriving? | The Rewind Podcast
-- 2024-07-24 — It's Weird That Twisters Is So Good | The Rewind Podcast
+- 2026-02-11 — Our Thoughts on Iron Lung, Fallout Season 2, and Wonder Man | The Rewind Podcast — speakers: Wonder Man, Iron Lung, Send Help, Darren Mooney, Jack Packard, Marty Sliva
+- 2026-01-28 — Sinners' Record-Breaking Oscar Nominations | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2026-01-14 — We Need to Talk About Pluribus | The Rewind Podcast — speakers: Jenna Stoeber, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-12-18 — Unpacking the Warner Bros. Sale, Christmas Media, and RIP Rob Reiner | The Rewind Podcast — speakers: Rip Rob Reiner, Rob Reiner, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-12-05 — Wake Up Dead Man, Murder Mysteries, and More | The Rewind Podcast — speakers: Murder Mysteries, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-11-19 — Gabbing About Predator: Badlands, The Running Man, Pluribus, and More! | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-11-05 — Jack and Darren Talk Star Trek for Two Hours | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-10-22 — Building the Perfect Halloween Party Playlist | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-10-08 — One Battle After Another Is All Kinds of Revolutionary | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-09-24 — The Long Walk, Demon Slayer: Infinity Castle, and More | The Rewind Podcast — speakers: Long Walk, Demon Slayer, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-09-10 — The Conjuring: Last Rites, Highest 2 Lowest, and More | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-08-27 — Alien: Earth, Peacemaker Season 2, and More | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-08-12 — Weapons and The Naked Gun Prove Why Theaters Are Still King | The Rewind Podcast — speakers: Demon Hunters, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-07-30 — Did Either The Fantastic Four: First Steps or Happy Gilmore 2 Spark Joy? | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-07-16 — Where We Landed on Superman + Jurassic World Rebirth | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-07-02 — 28 Years Years Later + Denis Villeneuve's Bond Movie | The Rewind Podcast — speakers: Denis Villeneuve, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-06-18 — Chatting About Predators, Ballerinas, and Spaceballs | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-05-28 — Andor Isn't Just Top-Tier Star Wars, It's Top-Tier Television | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-05-15 — Thunderbolts* Thoughts and Our Summer Movie Preview | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-04-30 — Sinners Is the First Must-See Movie of 2025 | The Rewind Podcast — speakers: Until Dawn, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-04-16 — A Minecraft Movie Has Saved Cinema | The Rewind Podcast — speakers: Second Wind, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-04-02 — Hollywood's Eternal Obsession With Itself | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-03-19 — $450 Million Worth of Sci-Fi in Mickey 17 and The Electric State | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-03-05 — Who Are the Oscars Actually For? | The Rewind Podcast — speakers: Gene Hackman, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-02-19 — We Do Not Agree on Captain America: Brave New World | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-02-05 — How the Hell Do You Market Movies & TV in 2025? | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2025-01-22 — Severance, The Brutalist, and Remembering David Lynch | The Rewind Podcast — speakers: David Lynch, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-01-08 — Nosferatu, Squid Game, and What We Watched Over the Break | The Rewind Podcast — speakers: Squid Game, Darren Mooney, Jack Packard, Marty Sliva
+- 2024-12-11 — What to Watch This Holiday Season | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2024-11-28 — HOT FROSTY (Also Gladiator II and Wicked, I Guess) | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2024-11-13 — Arcane, Penguin, and the State of Comedies | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2024-10-30 — What to Watch This Halloween | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2024-10-16 — The Rings of Power Feels Like an Appendix, Not a Story | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2024-10-02 — Megalopolis is a Fascinating Mess That's Impossible to Look Away From | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2024-09-18 — Beetlejuice Beetlejuice and a Pop Culture Grab Bag | The Rewind Podcast — speakers: Beetlejuice Beetlejuice, Beetlejuiece Beetlejuice, Darren Mooney, Jack Packard, Marty Sliva
+- 2024-08-21 — Our Thoughts on Alien: Romulus | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2024-08-08 — Are Summer Blockbusters Dying or Thriving? | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
+- 2024-07-24 — It's Weird That Twisters Is So Good | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2024-07-10 — Our Favorite Movies and TV of 2024 (So Far) | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
