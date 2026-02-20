@@ -2,10 +2,10 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `W/"1ad3d-ntUybFgyjjPSHJI2djoVpwmuL+k"`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-20T09:57:48+00:00`
+- checked_at: `2026-02-20T09:57:48+00:00`
+- etag: `W/"1b1ae-brCV7F68JLPhAuIPI5X15abz7Uw"`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
+  "fetched_at": "2026-02-20T09:57:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3ded11e33f9d138e72818ca261a3aec734886a81",
+      "title": "#7 Jon Richardson Podcast with Paul Sinha",
+      "published_at": "2026-02-20T06:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/7-Jon-Richardson-Podcast-with-Paul-Sinha-e3faspn",
+      "description": "#7 Jon Richardson Podcast with Paul Sinha",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771525095635-04e77a615f972.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115749111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2Fa998e649-6e13-69c8-abf7-cd7410e09872.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42327392",
+      "itunes_duration": "00:58:47",
+      "speakers": [
+        "Paul Sinha"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "paul",
+        "sinha"
+      ]
+    },
     {
       "key": "15c3ca1fa4359aac28a64f9fc6efa5090888e02b",
       "title": "#6 Jon Richardson Podcast with Rufus Hound",
@@ -1916,6 +1937,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — #7 Jon Richardson Podcast with Paul Sinha — speakers: Paul Sinha
 - 2026-02-19 — #6 Jon Richardson Podcast with Rufus Hound — speakers: Rufus Hound
 - 2026-02-18 — #5 Jon Richardson Podcast with Stephen Grant — speakers: Stephen Grant
 - 2026-02-17 — #4 Jon Richardson Podcast with John Robins — speakers: John Robins
