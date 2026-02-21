@@ -2,10 +2,10 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- last_modified: `Tue, 17 Feb 2026 12:00:00 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-21T15:39:26+00:00`
+- checked_at: `2026-02-21T15:39:26+00:00`
+- last_modified: `Sat, 21 Feb 2026 13:42:23 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,15 +17,14 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/967914911d6e26f1bb9223e736bc7c12.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-21T15:39:26+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
   "common_speakers": [],
   "categories": [
     "comedy",
-    "culture/feminism",
-    "news/politics"
+    "politics"
   ],
   "episodes": [
     {
@@ -453,8 +452,7 @@
         "Tom Salinsky",
         "Abigoliah Schamaun",
         "Ben Elton",
-        "big-speeches Come",
-        "Deborah Frances-White"
+        "big-speeches Come"
       ],
       "topics": [
         "elton",
@@ -2168,7 +2166,6 @@
       "speakers": [
         "Natalie Evans",
         "Georgie Laming",
-        "Elon Musk Presented",
         "Deborah Frances-White",
         "Mark Hodge",
         "Claire Hooper"
@@ -3194,8 +3191,7 @@
         "Kate Cheka",
         "Sara Barron",
         "Alison Spittle",
-        "Edinburgh Previews Presented",
-        "Deborah Frances-White"
+        "Edinburgh Previews Presented"
       ],
       "topics": [
         "feminist",
@@ -5572,7 +5568,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2333",
       "speakers": [
-        "Boris Johnson",
         "Thimali Kodikara",
         "Mathilda Mallinson",
         "Deborah Frances-White"
@@ -6274,8 +6269,7 @@
         "Liz Deasy",
         "Liz Deasy Recorded",
         "Mark Hodge",
-        "Nick Sheldon",
-        "Deborah Frances-White"
+        "Nick Sheldon"
       ],
       "topics": [
         "culture",
@@ -7775,8 +7769,7 @@
         "Jelena Sofronijevic jelsofron",
         "Mark Hodge",
         "Nick Sheldon Chopin",
-        "Anait Karpova",
-        "Deborah Frances-White"
+        "Anait Karpova"
       ],
       "topics": [
         "white",
@@ -11746,7 +11739,6 @@
       "itunes_duration": "260",
       "speakers": [
         "Deborah Frances-White",
-        "Albert Hall",
         "Livestream Extravaganza"
       ],
       "topics": [
@@ -12014,8 +12006,7 @@
         "Jessica Fostekew",
         "Grace Petrie Recorded",
         "Mark Hodge",
-        "Nick Sheldon",
-        "Deborah Frances-White"
+        "Nick Sheldon"
       ],
       "topics": [
         "christmas",
@@ -13822,10 +13813,8 @@
         "Nick Sheldon",
         "Callum Baker",
         "Grundy le Zimbra",
-        "Albert Hall",
         "Adjoa Andoh",
-        "Jess Robinson JessieRobinson",
-        "Deborah Frances-White"
+        "Jess Robinson JessieRobinson"
       ],
       "topics": [
         "royal",
@@ -13850,10 +13839,8 @@
         "Nick Sheldon",
         "Callum Baker",
         "Grundy le Zimbra",
-        "Albert Hall",
         "Adjoa Andoh",
-        "Jess Robinson JessieRobinson",
-        "Deborah Frances-White"
+        "Jess Robinson JessieRobinson"
       ],
       "topics": [
         "royal",
@@ -14239,8 +14226,7 @@
         "Athena Kugblenu",
         "Deborah Frances-White Recorded",
         "Mark Hodge",
-        "Nick Sheldon",
-        "Deborah Frances-White"
+        "Nick Sheldon"
       ],
       "topics": [
         "guilty",
@@ -14673,7 +14659,6 @@
         "Mark Hodge",
         "Nick Sheldon",
         "Guilty Feminist",
-        "Albert Hall",
         "Edinburgh Playhouse"
       ],
       "topics": [
@@ -14704,7 +14689,6 @@
         "Deborah Frances-White",
         "Mark Hodge",
         "Nick Sheldon",
-        "Albert Hall",
         "Guilty Feminist",
         "Edinburgh Playhouse"
       ],
@@ -14738,7 +14722,6 @@
         "Kate Bolick Recorded",
         "Mark Hodge",
         "Nick Sheldon",
-        "Albert Hall",
         "Guilty Feminist"
       ],
       "topics": [
@@ -14767,7 +14750,6 @@
         "Deborah Frances-White",
         "Mark Hodge",
         "Nick Sheldon",
-        "Albert Hall",
         "Guilty Feminist",
         "Edinburgh Playhouse"
       ],
@@ -14824,7 +14806,6 @@
         "Mark Hodge",
         "Nick Sheldon",
         "Guilty Feminist",
-        "Albert Hall",
         "Edinburgh Playhouse"
       ],
       "topics": [
@@ -14848,14 +14829,12 @@
       "itunes_duration": "662",
       "speakers": [
         "Eve Ensler",
-        "Albert Hall Brexit",
         "David Benson",
         "Adam Astill",
         "Margaret Cabourn-Smith",
         "Jessica Fostekew",
         "Thom Tuck",
-        "Robert Khan",
-        "Deborah Frances-White"
+        "Robert Khan"
       ],
       "topics": [
         "announcement",
@@ -15916,8 +15895,7 @@
         "Sara Pascoe",
         "Ruby Wax",
         "Juliet Stevenson",
-        "Kulvinder Ghir",
-        "Deborah Frances-White"
+        "Kulvinder Ghir"
       ],
       "topics": [
         "amnesty",
@@ -16745,7 +16723,6 @@
         "Stella Creasy",
         "Sisters Uncut",
         "Deborah Frances-White",
-        "Albert Hall",
         "Mark Hodge",
         "Nick Sheldon",
         "Global Pillage"
@@ -16977,8 +16954,7 @@
         "Alice Snedden",
         "Deborah Frances-White",
         "Mark Hodge",
-        "Global Pillage",
-        "Albert Hall"
+        "Global Pillage"
       ],
       "topics": [
         "charge",
@@ -17004,8 +16980,7 @@
         "Kate Phillips",
         "Mark Hodge",
         "Global Pillage",
-        "com ItsJessRegan",
-        "Albert Hall"
+        "com ItsJessRegan"
       ],
       "topics": [
         "wonder",
@@ -17031,8 +17006,7 @@
         "Hannah Gadsby Recorded",
         "Mark Hodge",
         "Anna Sinfield",
-        "Global Pillage",
-        "Albert Hall"
+        "Global Pillage"
       ],
       "topics": [
         "hannah",
@@ -17056,8 +17030,7 @@
         "Dana Alexander Recorded",
         "Edinburgh Fringe",
         "Mark Hodge",
-        "Global Pillage",
-        "Albert Hall"
+        "Global Pillage"
       ],
       "topics": [
         "labour",
@@ -17082,8 +17055,7 @@
         "Mark Hodge",
         "Global Pillage",
         "Jessica Fostekew",
-        "Sindhu Vee",
-        "Albert Hall"
+        "Sindhu Vee"
       ],
       "topics": [
         "strength",
@@ -17107,8 +17079,7 @@
         "Deborah Frances-White",
         "Zoe Coombs-Marr",
         "Anna Sinfield",
-        "Global Pillage",
-        "Albert Hall"
+        "Global Pillage"
       ],
       "topics": [
         "deal",
@@ -17133,8 +17104,7 @@
         "Deborah Frances-White",
         "Miriam Battye Recorded",
         "Mark Hodge",
-        "Global Pillage",
-        "Albert Hall"
+        "Global Pillage"
       ],
       "topics": [
         "living",
@@ -17160,8 +17130,7 @@
         "Deborah Frances-White",
         "Mark Hodge",
         "Grace Gelder",
-        "Global Pillage Standard",
-        "Albert Hall"
+        "Global Pillage Standard"
       ],
       "topics": [
         "mess",
@@ -17185,8 +17154,7 @@
         "Grace Campbell",
         "Deborah Frances-White",
         "Mark Hodge",
-        "Global Pillage Standard",
-        "Albert Hall"
+        "Global Pillage Standard"
       ],
       "topics": [
         "period",
@@ -17217,8 +17185,7 @@
         "Sara Barron Recorded",
         "Mark Hodge",
         "Global Pillage Standard",
-        "sarabarron com",
-        "Albert Hall"
+        "sarabarron com"
       ],
       "topics": [
         "friendships",
@@ -17244,8 +17211,7 @@
         "Manchester Dancehouse",
         "Mark Hodge",
         "Global Pillage Standard",
-        "co uk",
-        "Albert Hall"
+        "co uk"
       ],
       "topics": [
         "mothers",
@@ -17271,8 +17237,7 @@
         "Lauren Duca Recorded",
         "Mark Hodge",
         "Jon Tjhia",
-        "com Utopiana",
-        "Albert Hall"
+        "com Utopiana"
       ],
       "topics": [
         "hell",
@@ -17297,8 +17262,7 @@
         "Deborah Frances-White",
         "Mark Hodge",
         "Grace Gelder",
-        "Global Pillage Standard",
-        "Albert Hall"
+        "Global Pillage Standard"
       ],
       "topics": [
         "weinstein",
@@ -19823,7 +19787,7 @@
 - 2025-12-15 — 461. ROAD TO GILEAD: Homophobia and How to Fight It with Jessica Fosekew and Russell T Davies — speakers: Jessica Fosekew, Deborah Frances-White, Jessica Fostkew, Mark Hodge, Jessica Fostekew, big-speeches Come
 - 2025-12-08 — 460. ROAD TO GILEAD: Making Our Voices Heard with Jessica Fosekew, Baroness Barker and Monica Ferro — speakers: Jessica Fosekew, Monica Ferro, Deborah Frances-White, Jessica Fostkew, Mark Hodge, Jessica Fostekew, Baroness Liz Barker, big-speeches Come
 - 2025-12-01 — 459. ROAD TO GILEAD: Christian Nationalism with Felicity Ward, Minnie Rahman and Lucy Winkett — speakers: Christian Nationalism, Minnie Rahman, Lucy Winkett, Christian Nationalism Presented, Deborah Frances-White, Mark Hodge, big-speeches Come
-- 2025-11-27 — Ben Elton Explains British Comedy — speakers: Ben Elton Explains, British Comedy Ben Elton, British Comedy, Comedy Explained, Tom Salinsky, Abigoliah Schamaun, Ben Elton, big-speeches Come, Deborah Frances-White
+- 2025-11-27 — Ben Elton Explains British Comedy — speakers: Ben Elton Explains, British Comedy Ben Elton, British Comedy, Comedy Explained, Tom Salinsky, Abigoliah Schamaun, Ben Elton, big-speeches Come
 - 2025-11-24 — 458. Annie Lennox in Conversation at the V&A — speakers: Annie Lennox, Deborah Frances-White, Tara Paterson, Gina Decio, Sophie Liardet, Stefanie Agar, Mark Hodge, big-speeches Come
 - 2025-11-17 — Fifth update from Gaza nurse Alaa Al-ghoul — speakers: Alaa Al-ghoul, Deborah Frances-White, Mark Hodge
 - 2025-11-17 — 457. ROAD TO GILEAD: The Fight Back for Gender Justice with Alison Spittle and Chiara Capraro — speakers: Chiara Capraro, Deborah Frances-White, Alison Spittle, Mark Hodge, Jessica Fostekew, big-speeches Come, Bill Murray
@@ -19888,7 +19852,7 @@
 - 2025-02-24 — The Guilty Feminist Redux: Health and Being Heard with Felicity Ward, Jamila Rizvi and Astrid Edwards — speakers: Jamila Rizvi, Astrid Edwards, Deborah Frances-White, Mark Hodge
 - 2025-02-17 — 426. Community with Claire Hooper and Gina Martin — speakers: Claire Hooper, Gina Martin, Deborah Frances-White, Gina Martin Recorded, Mark Hodge
 - 2025-02-10 — The Guilty Feminist Redux: What’s the Deal with Men? — speakers: Deborah Frances-White, Zoe Coombs-Marr, Mark Hodge, Claire Hooper
-- 2025-02-03 — 425. People vs Elon Musk with Natalie Evans and Georgie Laming — speakers: Natalie Evans, Georgie Laming, Elon Musk Presented, Deborah Frances-White, Mark Hodge, Claire Hooper
+- 2025-02-03 — 425. People vs Elon Musk with Natalie Evans and Georgie Laming — speakers: Natalie Evans, Georgie Laming, Deborah Frances-White, Mark Hodge, Claire Hooper
 - 2025-01-27 — 424. Free Narges Mohammadi — speakers: Deborah Frances-White, Mark Hodge
 - 2025-01-20 — 423. Black Box Diaries with Megumi Inman and Shiori Ito — speakers: Megumi Inman, Shiori Ito, Deborah Frances-White, Shiori Ito Recorded, Mark Hodge
 - 2025-01-13 — The Guilty Feminist Redux: The Windrush Generation in association with Guardian Live — speakers: Deborah Frances-White, Yassmin Abdel-Magied, Dana Alexander, Katherine Viner, Amelia Gentleman, Judy Griffith, Mark Hodge
@@ -19925,7 +19889,7 @@
 - 2024-08-02 — The Guilty Feminist Culture Club – Tits Up with Sarah Thornton — speakers: Sarah Thornton, Sarah Thornton Presented, Deborah Frances-White Recorded, Mark Hodge, Deborah Frances-White, Jessica Regan, Edinburgh Fringe
 - 2024-07-31 — The Guilty Feminist Culture Club – Rebel Girl Kathleen Hanna — speakers: Kathleen Hanna, Deborah Frances-White Recorded, Mark Hodge, Deborah Frances-White, Edinburgh Fringe
 - 2024-07-29 — The Guilty Feminist Redux: Who’s Afraid of Giving Birth? with Kiri Pritchard-McLean, Jessica Fostekew and Melody Robinson — speakers: Jessica Fostekew, Melody Robinson, Melody Robinson Presented, Deborah Frances-White, Mark Hodge, Jessica Regan, Edinburgh Fringe
-- 2024-07-22 — 404. Guilty Feminist Edinburgh Previews with Zoe Brownstone, Jessica Regan, Kate Cheka, Sara Barron and Alison Spittle — speakers: Guilty Feminist, Edinburgh Previews, Zoe Brownstone, Jessica Regan, Kate Cheka, Sara Barron, Alison Spittle, Edinburgh Previews Presented, Deborah Frances-White
+- 2024-07-22 — 404. Guilty Feminist Edinburgh Previews with Zoe Brownstone, Jessica Regan, Kate Cheka, Sara Barron and Alison Spittle — speakers: Guilty Feminist, Edinburgh Previews, Zoe Brownstone, Jessica Regan, Kate Cheka, Sara Barron, Alison Spittle, Edinburgh Previews Presented
 - 2024-07-15 — 403. Guilty Feminist Book Club: Scaffolding and The Inseparables with Jessica Fostekew and Lauren Elkin — speakers: Jessica Fostekew, Lauren Elkin, Inseparables Presented, Deborah Frances-White, Lauren Elkin Recorded, Mark Hodge, Kings Place, Edinburgh Fringe
 - 2024-07-12 — The Guilty Feminist Culture Club - Danielle de Niese in The Merry Widow — speakers: Deborah Frances-White Recorded, Mark Hodge, Deborah Frances-White, Kings Place, Edinburgh Fringe
 - 2024-07-08 — 402. Live from Perth, Australia with Claire Hooper, Dureshawar Khan, Aisha Novakovich and Grace Petrie - part two — speakers: Claire Hooper, Dureshawar Khan, Aisha Novakovich, Deborah Frances-White, Mark Hodge, Grace Petrie, Kings Place, Edinburgh Fringe
@@ -20007,7 +19971,7 @@
 - 2023-08-05 — The Guilty Feminist watches And Just Like That - Season 2, Episode 8 with Sara Pascoe — speakers: Sara Pascoe, Deborah Frances-White, Jessica Regan, Guilty Feminist
 - 2023-07-31 — The Guilty Feminist Redux: Not Having Kids with Sofie Hagen and special guest Susan Calman — speakers: Sofie Hagen, Susan Calman, Deborah Frances-White, Mark Hodge, com SusanCalman, Jessica Regan, Guilty Feminist
 - 2023-07-30 — The Guilty Feminist watches And Just Like That - Season 2, Episode 7 with Syrus Lowe and Lee Knight — speakers: Syrus Lowe, Lee Knight, Deborah Frances-White, Jessica Regan, Guilty Feminist
-- 2023-07-28 — World on fire: El Niño and Labour’s ULEZ debate - with Media Storm — speakers: Boris Johnson, Thimali Kodikara, Mathilda Mallinson, Deborah Frances-White
+- 2023-07-28 — World on fire: El Niño and Labour’s ULEZ debate - with Media Storm — speakers: Thimali Kodikara, Mathilda Mallinson, Deborah Frances-White
 - 2023-07-24 — The Guilty Feminist Redux: Weinstein Culture with Cal Wilson and special guest Kristine Ziwica — speakers: Cal Wilson, Kristine Ziwica, Deborah Frances-White, Mark Hodge, Jessica Regan, Guilty Feminist
 - 2023-07-22 — The Guilty Feminist watches And Just Like That - Season 2, Episode 6 - with Catherine Bohart — speakers: Catherine Bohart, Deborah Frances-White, Catherine Bohart Season, Jessica Regan, Guilty Feminist
 - 2023-07-20 — Unpicking the media storm - Trans rights as a threat to women — speakers: Charlie Craggs, Mathilda Mallinson, pitch cis, Deborah Frances-White
@@ -20033,7 +19997,7 @@
 - 2023-05-01 — 356. Self Care with Celya AB and special guest Sophie Galpin — speakers: Deborah Frances-White, Mark Hodge, Nick Sheldon, Jessica Regan, Guilty Feminist
 - 2023-04-27 — Media Storm series 3 trailer - a third storm is coming — speakers: Deborah Frances-White
 - 2023-04-24 — 355. Stop Trying to Be Fantastic with Grace Petrie and special guest Molly Naylor — speakers: Molly Naylor, Deborah Frances-White, Grace Petrie, Mark Hodge, Nick Sheldon, Jessica Regan, Guilty Feminist
-- 2023-04-20 — Culture Club: Strike! With Alison Spittle and guests Tracy Ryan, Mary Manning, Karen Gearon and Liz Deasy — speakers: Alison Spittle, Tracy Ryan, Mary Manning, Karen Gearon, Liz Deasy, Liz Deasy Recorded, Mark Hodge, Nick Sheldon, Deborah Frances-White
+- 2023-04-20 — Culture Club: Strike! With Alison Spittle and guests Tracy Ryan, Mary Manning, Karen Gearon and Liz Deasy — speakers: Alison Spittle, Tracy Ryan, Mary Manning, Karen Gearon, Liz Deasy, Liz Deasy Recorded, Mark Hodge, Nick Sheldon
 - 2023-04-17 — 354. Romance with Zoe Brownstone and special guest Esther Manito — speakers: Zoe Brownstone, Esther Manito, Romance Presented, Deborah Frances-White, Mark Hodge, Nick Sheldon, Jessica Regan
 - 2023-04-13 — Culture Club: The Return of the Erotic Thriller with Sara Barron — speakers: Sara Barron, Deborah Frances-White, Sara Barron Recorded, Mark Hodge, Nick Sheldon, com itsjessregan, Jessica Regan
 - 2023-04-12 — Culture Club: No Season But the Summer — speakers: Deborah Frances-White, Matilda Leyser, Mark Hodge, Nick Sheldon, Jessica Regan, Guilty Feminist
@@ -20084,7 +20048,7 @@
 - 2022-11-07 — 331. Live from Brisbane with Steph Tisdell and guests Breeanna Brock and Cathy Hunt - part two — speakers: Steph Tisdell, Breeanna Brock, Cathy Hunt Presented, Deborah Frances-White, Cathy Hunt, Mark Hodge, Nick Sheldon, Grace Petrie
 - 2022-11-07 — 331. Live from Brisbane with Steph Tisdell and guests Breeanna Brock and Cathy Hunt - part one — speakers: Steph Tisdell, Breeanna Brock, Cathy Hunt Presented, Deborah Frances-White, Cathy Hunt, Mark Hodge, Nick Sheldon, Grace Petrie
 - 2022-11-04 — Attitudes Towards Female Sexuality with special guests Laura Bates and Leyla Hussein — speakers: Laura Bates, Deborah Frances-White, Hussein Recorded, Mark Hodge, Nick Sheldon, Kings Place
-- 2022-11-03 — White (Other): Anti-Eastern European prejudice — speakers: Mathilda Mallinson, Alex Bulat, Kasia Tee, Dagmar Myslinska, Jelena Sofronijevic jelsofron, Mark Hodge, Nick Sheldon Chopin, Anait Karpova, Deborah Frances-White
+- 2022-11-03 — White (Other): Anti-Eastern European prejudice — speakers: Mathilda Mallinson, Alex Bulat, Kasia Tee, Dagmar Myslinska, Jelena Sofronijevic jelsofron, Mark Hodge, Nick Sheldon Chopin, Anait Karpova
 - 2022-10-31 — 330. Block 13 with Kemah Bob and Chris Lani-McAllister — speakers: Kemah Bob, Chris Lani-McAllister, Deborah Frances-White, Mark Hodge, Nick Sheldon, com kemahbob, Kings Place
 - 2022-10-24 — 329. Live from the Edinburgh Fringe with Kemah Bob, Rosie Holt and music from Flo and Joan — speakers: Kemah Bob, Rosie Holt, Deborah Frances-White, Joan Recorded, Mark Hodge, Nick Sheldon, com kemahbob, com floandjoan
 - 2022-10-20 — Mental health and the media - with Scarlett Curtis and Kamilah McInnis — speakers: Scarlett Curtis, Kamilah McInnis, Mathilda Mallinson, Mark Hodge, Nick Sheldon, Deborah Frances-White
@@ -20223,7 +20187,7 @@
 - 2021-03-15 — 245. Women in Medicine with Jo Brand and guests Angela Saini and Dame Sally Davies — speakers: Jo Brand, Angela Saini, Deborah Frances-White, Mark Hodge, Nick Sheldon
 - 2021-03-08 — 244. Being a Grown-up with Alison Spittle and guests Marian Keyes and Roxana Nic Liam — speakers: Marian Keyes, Roxana Nic Liam, Deborah Frances-White, Alison Spittle, Roxanna Nic Liam Recorded, Mark Hodge, Nick Sheldon, Maria Bamford
 - 2021-03-01 — 243. Invisibility with Steph Tisdell and special guest Mel Buttle — speakers: Steph Tisdell, Mel Buttle, Deborah Frances-White, Mark Hodge, Nick Sheldon, Tom Salinsky, Grace Petrie
-- 2021-02-25 — Special Announcement - Special Livestream Extravaganza — speakers: Deborah Frances-White, Albert Hall, Livestream Extravaganza
+- 2021-02-25 — Special Announcement - Special Livestream Extravaganza — speakers: Deborah Frances-White, Livestream Extravaganza
 - 2021-02-22 — 242. It's a Sin with Kemah Bob and guests Lydia West and Jill Nalder — speakers: Jill Nalder, Deborah Frances-White, Mark Hodge, Nick Sheldon, Kemah Bob
 - 2021-02-15 — 241. Feminist Divorce with Jessica Fostekew and special guest Samantha Baines — speakers: Jessica Fostekew, Samantha Baines, Deborah Frances-White, Gemma Berongoy, Mark Hodge, Nick Sheldon
 - 2021-02-08 — 240. Being Overlooked with Jessica Fostekew and guests Yasmin Benoit and ZOZËY — speakers: Jessica Fostekew, Yasmin Benoit, Deborah Frances-White, Mark Hodge, Nick Sheldon
@@ -20233,7 +20197,7 @@
 - 2021-01-11 — 236. Phoebe Waller-Bridge at the Royal Festival Hall — speakers: Deborah Frances-White, Phoebe Waller-Bridge, Mark Hodge, Nick Sheldon
 - 2021-01-04 — 235. Identity with Sophie Duker and special guest Sophie Williams — speakers: Sophie Williams, Deborah Frances-White, Mark Hodge, Nick Sheldon, Kiley Reid
 - 2020-12-28 — 234. A Conversation with Dawn French — speakers: Deborah Frances-White, Mark Hodge, Nick Sheldon
-- 2020-12-21 — 233. This is for Christmas and your Birthday — speakers: Sindhu Vee, Alison Spittle, Susan Wokoma, Kemah Bob, Jessica Fostekew, Grace Petrie Recorded, Mark Hodge, Nick Sheldon, Deborah Frances-White
+- 2020-12-21 — 233. This is for Christmas and your Birthday — speakers: Sindhu Vee, Alison Spittle, Susan Wokoma, Kemah Bob, Jessica Fostekew, Grace Petrie Recorded, Mark Hodge, Nick Sheldon
 - 2020-12-14 — 232. Silver Linings with Alison Spittle, Juliet Stevenson, Pinar, Josie Naughton and Julia Gillard — speakers: Alison Spittle, Juliet Stevenson, Josie Naughton, Julia Gillard, Deborah Frances-White, Silver Liningswith, Julia Gillard Recorded, Mark Hodge
 - 2020-12-07 — 231. A conversation with Sandi Toksvig — speakers: Sandi Toksvig, Deborah Frances-White, Mark Hodge, Nick Sheldon, Grace Petrie
 - 2020-11-30 — 230. Families Together with Alison Spittle and guests Vick Hope and Kawthar — speakers: Alison Spittle, Vick Hope, Deborah Frances-White, Ranjana Ghatak Recorded, Mark Hodge, Nick Sheldon
@@ -20295,8 +20259,8 @@
 - 2019-11-25 — 177. Friendship with Jessica Fostekew and guests Stef Smith and Sukh Ojla — speakers: Jessica Fostekew, Stef Smith, Sukh Ojla, Deborah Frances-White, Joan Recorded, Mark Hodge, Nick Sheldon, com FloandJoan
 - 2019-11-18 — 176. Fatherhood with Johnny Cochrane, Elliot Rae and JJ — speakers: Johnny Cochrane, Elliot Rae, Deborah Frances-White, Mark Hodge, Nick Sheldon, Guilty Feminist, Secret Policeman’s Ball
 - 2019-11-11 — 175. Lemonade with Abigoliah Schamaun and guest Nell Gifford — speakers: Abigoliah Schamaun, Nell Gifford, Deborah Frances-White, Nell Gifford Recorded, Mark Hodge, Nick Sheldon, Guilty Feminist, Secret Policeman’s Ball
-- 2019-11-05 — 174. Live from the Royal Albert Hall - part two — speakers: Deborah Frances-White Recorded, Mark Hodge, Nick Sheldon, Callum Baker, Grundy le Zimbra, Albert Hall, Adjoa Andoh, Jess Robinson JessieRobinson, Deborah Frances-White
-- 2019-11-04 — 174. Live from the Royal Albert Hall - part one — speakers: Deborah Frances-White Recorded, Mark Hodge, Nick Sheldon, Callum Baker, Grundy le Zimbra, Albert Hall, Adjoa Andoh, Jess Robinson JessieRobinson, Deborah Frances-White
+- 2019-11-05 — 174. Live from the Royal Albert Hall - part two — speakers: Deborah Frances-White Recorded, Mark Hodge, Nick Sheldon, Callum Baker, Grundy le Zimbra, Adjoa Andoh, Jess Robinson JessieRobinson
+- 2019-11-04 — 174. Live from the Royal Albert Hall - part one — speakers: Deborah Frances-White Recorded, Mark Hodge, Nick Sheldon, Callum Baker, Grundy le Zimbra, Adjoa Andoh, Jess Robinson JessieRobinson
 - 2019-10-31 — Announcement: Big Speeches workshops in Brighton and London — speakers: Deborah Frances-White
 - 2019-10-28 — 173. Sex Worker Rights with Alison Spittle and guests Miranda Kane and Niki Adams — speakers: Alison Spittle, Miranda Kane, Niki Adams, Deborah Frances-White, Niki Adams Recorded, Mark Hodge, Nick Sheldon, com ProstitutesColl
 - 2019-10-21 — 172. Plugging in with Athena Kugblenu and guests Renée Davis and Heidi Regan — speakers: Renée Davis, Heidi Regan, Deborah Frances-White, Heidi Regan Recorded, Mark Hodge, Nick Sheldon, Renee Davis, Guilty Feminist
@@ -20309,7 +20273,7 @@
 - 2019-09-30 — 169. Freedom of Speech with Rosie Jones, Jena Friedman and Jess Robinson — speakers: Rosie Jones, Jena Friedman, Jess Robinson, Deborah Frances-White, Jess Robinson Recorded, Mark Hodge, Nick Sheldon, Guilty Feminist
 - 2019-09-25 — The Guilty Feminist Crossover #3: All Killa No Feminism — speakers: Rachel Fairburn, Deborah Frances-White Recorded, Mark Hodge, Nick Sheldon, Deborah Frances-White, killnofillpod More, Manchester Palace
 - 2019-09-23 — 168. Climate Change with Sara Pascoe and guests Helen Clarkson and Clemency Carter — speakers: Sara Pascoe, Helen Clarkson, Clemency Carter, Deborah Frances-White, Mark Hodge, Nick Sheldon, hl clarkson, Guilty Feminist
-- 2019-09-18 — The Guilty Feminist Crossover #2: No Such Thing as a Guilty Feminist — speakers: Dan Schreiber, Anna Ptaszynski, James Harkin, Andrew Hunter-Murray, Athena Kugblenu, Deborah Frances-White Recorded, Mark Hodge, Nick Sheldon, Deborah Frances-White
+- 2019-09-18 — The Guilty Feminist Crossover #2: No Such Thing as a Guilty Feminist — speakers: Dan Schreiber, Anna Ptaszynski, James Harkin, Andrew Hunter-Murray, Athena Kugblenu, Deborah Frances-White Recorded, Mark Hodge, Nick Sheldon
 - 2019-09-16 — 167. The Testaments with Kemah Bob, Kajal Odedra, Amanda Palmer and Margaret Atwood — speakers: Kajal Odedra, Margaret Atwood, Deborah Frances-White, Mark Hodge, Nick Sheldon, com kemahbob, Guilty Feminist
 - 2019-09-13 — The Secret Policeman's Tour - Edinburgh 2019 — speakers: Deborah Frances-White Recorded, Deborah Frances-White, Hollie McNish, Larry Dean, Steve Ali, Grace Petrie
 - 2019-09-11 — The Guilty Feminist Crossover #1: The Guilty Bugle — speakers: Guilty Bugle, Andy Zaltzman, Alice Fraser, Deborah Frances-White, Mark Hodge, Nick Sheldon, Guilty Feminist
@@ -20324,13 +20288,13 @@
 - 2019-07-19 — The Secret Policeman's Tour - Hackney Empire 2019 — speakers: Deborah Frances-White Recorded, Deborah Frances-White, Konnie Huq Sindhu, Maria Munir
 - 2019-07-15 — 158. Safety at Night with Zoe Lyons and guests Amy Lamé and Alicia Wittmeyer — speakers: Amy Lamé, Alicia Wittmeyer, Deborah Frances-White, Mark Hodge, Nick Sheldon, Grace Gelder, Guilty Feminist, Edinburgh Playhouse
 - 2019-07-08 — 157. Going Undercover with Alison Spittle and guests Ellen Coyne and Molly Sterling — speakers: Ellen Coyne, Molly Sterling, Deborah Frances-White, Alison Spittle, Mark Hodge, Nick Sheldon, Guilty Feminist, Edinburgh Playhouse
-- 2019-07-01 — 156. Women in STEM with Athena Kugblenu and special guests Faith Uwadiaea and Amali de Alwis — speakers: Athena Kugblenu, Amali de Alwis, Deborah Frances-White, Mark Hodge, Nick Sheldon, Guilty Feminist, Albert Hall, Edinburgh Playhouse
-- 2019-06-24 — 155. Sex Education with Jen Brister and guests Carys Afoko, Lynn Enright, Suzi Boulting — speakers: Lynn Enright, Deborah Frances-White, Mark Hodge, Nick Sheldon, Albert Hall, Guilty Feminist, Edinburgh Playhouse
-- 2019-06-17 — 154. Flying Solo with Geraldine Hickey and special guest Kate Bolick — speakers: Geraldine Hickey, Kate Bolick, Deborah Frances-White, Kate Bolick Recorded, Mark Hodge, Nick Sheldon, Albert Hall, Guilty Feminist
-- 2019-06-10 — 153. Being Too Much with Cal Wilson and Lizzie Marvelly — speakers: Cal Wilson, Lizzie Marvelly, Deborah Frances-White, Mark Hodge, Nick Sheldon, Albert Hall, Guilty Feminist, Edinburgh Playhouse
+- 2019-07-01 — 156. Women in STEM with Athena Kugblenu and special guests Faith Uwadiaea and Amali de Alwis — speakers: Athena Kugblenu, Amali de Alwis, Deborah Frances-White, Mark Hodge, Nick Sheldon, Guilty Feminist, Edinburgh Playhouse
+- 2019-06-24 — 155. Sex Education with Jen Brister and guests Carys Afoko, Lynn Enright, Suzi Boulting — speakers: Lynn Enright, Deborah Frances-White, Mark Hodge, Nick Sheldon, Guilty Feminist, Edinburgh Playhouse
+- 2019-06-17 — 154. Flying Solo with Geraldine Hickey and special guest Kate Bolick — speakers: Geraldine Hickey, Kate Bolick, Deborah Frances-White, Kate Bolick Recorded, Mark Hodge, Nick Sheldon, Guilty Feminist
+- 2019-06-10 — 153. Being Too Much with Cal Wilson and Lizzie Marvelly — speakers: Cal Wilson, Lizzie Marvelly, Deborah Frances-White, Mark Hodge, Nick Sheldon, Guilty Feminist, Edinburgh Playhouse
 - 2019-06-03 — 152. Late Night with Emma Thompson and Mindy Kaling — speakers: Emma Thompson, Mindy Kaling, Deborah Frances-White, Mindy Kaling Recorded, Mark Hodge, Nick Sheldon, Guilty Feminist, Secret Policeman’s Tour
-- 2019-05-27 — 151. Shame with Jen Brister and guests Dolly Alderton and Kemah Bob — speakers: Dolly Alderton, Kemah Bob, Deborah Frances-White, Mark Hodge, Nick Sheldon, Guilty Feminist, Albert Hall, Edinburgh Playhouse
-- 2019-05-23 — Announcement: Brexit the play, Eve Ensler and the Royal Albert Hall — speakers: Eve Ensler, Albert Hall Brexit, David Benson, Adam Astill, Margaret Cabourn-Smith, Jessica Fostekew, Thom Tuck, Robert Khan, Deborah Frances-White
+- 2019-05-27 — 151. Shame with Jen Brister and guests Dolly Alderton and Kemah Bob — speakers: Dolly Alderton, Kemah Bob, Deborah Frances-White, Mark Hodge, Nick Sheldon, Guilty Feminist, Edinburgh Playhouse
+- 2019-05-23 — Announcement: Brexit the play, Eve Ensler and the Royal Albert Hall — speakers: Eve Ensler, David Benson, Adam Astill, Margaret Cabourn-Smith, Jessica Fostekew, Thom Tuck, Robert Khan
 - 2019-05-20 — 150. Disobedience with Sara Pascoe and guests Hot Brown Honey and Routes Collective — speakers: Sara Pascoe, Routes Collective, Deborah Frances-White, Lisa Fa’alfi, Ofa Fotu, Daisy Jacobs Recorded, Mark Hodge, Nick Sheldon
 - 2019-05-13 — 149. Home with Zoe Lyons and special guest Hannah Gousy — speakers: Hannah Gousy, Deborah Frances-White, Hannah Gousy Recorded, Mark Hodge, Nick Sheldon, Grace Gelder Give, Hannah Gousey, Guilty Feminist
 - 2019-05-06 — 148. Women in Science with Sara Pascoe and guests Dr Maggie Aderin-Pocock and Dr Anne-Marie Imafidon — speakers: Maggie Aderin-Pocock, Dr Anne-Marie Imafidon, Deborah Frances-White, Dr Anne-Marie Imafidon Recorded, Mark Hodge, Nick Sheldon, Guilty Feminist, Edinburgh Playhouse
@@ -20367,7 +20331,7 @@
 - 2018-11-04 — Guilty Feminist Tour 2019 — speakers: Guilty Feminist, Comedian Deborah Frances-White, Birmingham Symphony Hall, Brighton Brighton Centre, Nottingham Royal Concert Hall, Deborah Frances-White
 - 2018-10-29 — 121. Brexit in association with Guardian Live — speakers: Deborah Frances-White, Yassmin Abdel-Magied, Bridget Christie, Joanna Maycock, Odera Ndujiuba, Mae O’Hagan, Mark Hodge, Nick Sheldon
 - 2018-10-22 — 120. The Windrush Generation in association with Guardian Live — speakers: Deborah Frances-White, Yassmin Abdel-Magied, Dana Alexander, Katherine Viner, Amelia Gentleman, Judy Griffith, Mark Hodge, Nick Sheldon
-- 2018-10-18 — Amnesty International and The Guilty Feminist present The Secret Policeman's Podcast Live - Part Two — speakers: Tom Salinsky, Garry Boyle, Malcolm McCurrach, Nazanin Zaghari-Ratcliffe, Sara Pascoe, Ruby Wax, Juliet Stevenson, Kulvinder Ghir, Deborah Frances-White
+- 2018-10-18 — Amnesty International and The Guilty Feminist present The Secret Policeman's Podcast Live - Part Two — speakers: Tom Salinsky, Garry Boyle, Malcolm McCurrach, Nazanin Zaghari-Ratcliffe, Sara Pascoe, Ruby Wax, Juliet Stevenson, Kulvinder Ghir
 - 2018-10-15 — 119. Finding your Power with Alison Spittle and special guests Lynn Ruane, Tara Flynn and Sarah Cahill — speakers: Lynn Ruane, Tara Flynn, Sarah Cahill, Deborah Frances-White, Alison Spittle, Mark Hodge, Nick Sheldon, ie Rage-In
 - 2018-10-11 — Amnesty International and The Guilty Feminist present The Secret Policeman's Podcast Live — speakers: Tom Salinsky, Garry Boyle, Malcolm McCurrach, Sajid Javid, Rachel Parris, Deborah Frances-White, Rosie Jones, Tim Brooke-Taylor
 - 2018-10-08 — 118. Women Fighting on Stage and Screen with Jessica Regan and special guest Jessica Hynes — speakers: Jessica Regan, Jessica Hynes, Deborah Frances-White, Mark Hodge, Nick Sheldon, com ItsJessRegan, Guilty Feminist
@@ -20397,7 +20361,7 @@
 - 2018-04-23 — 95. Identity with Yassmin Abdel-Magied and Liv Francis-Cornibert — speakers: Yassmin Abdel-Magied, Liv Francis-Cornibert, Deborah Frances-White, Mark Hodge, Nick Sheldon, Global Pillage, susan wokoma, yassminam com
 - 2018-04-16 — 94. Comparisons with Anna Drezen — speakers: Anna Drezen, Deborah Frances-White, Mark Hodge, Nick Sheldon, Global Pillage
 - 2018-04-09 — 93. The Tool of Funny with Kemah Bob — speakers: Kemah Bob, Deborah Frances-White, Kemah Bob Recorded, Mark Hodge, Nick Sheldon, Global Pillage, bishakali com
-- 2018-04-02 — 92. Politics with Stella Creasy and Sisters Uncut — speakers: Stella Creasy, Sisters Uncut, Deborah Frances-White, Albert Hall, Mark Hodge, Nick Sheldon, Global Pillage
+- 2018-04-02 — 92. Politics with Stella Creasy and Sisters Uncut — speakers: Stella Creasy, Sisters Uncut, Deborah Frances-White, Mark Hodge, Nick Sheldon, Global Pillage
 - 2018-03-30 — Calais Refugee Special — speakers: Calais Refugee Special, Mark Hodge, Deborah Frances-White
 - 2018-03-26 — 91. Autonomy with Gemma Arterton — speakers: Deborah Frances-White, Gemma Arterton, Mark Hodge, Global Pillage
 - 2018-03-19 — 90. Sexy with Michelle Law — speakers: Michelle Law, Deborah Frances-White, Cal Wilson, Michelle Law Recorded, Mark Hodge, Nick Sheldon, Anna Sinfield, Global Pillage
@@ -20406,19 +20370,19 @@
 - 2018-02-26 — 87. Mental Health with Milly Thomas — speakers: Milly Thomas, Deborah Frances-White, Mark Hodge, Global Pillage, com missmillythomas
 - 2018-02-19 — 86.5 Suffragette Centenary Special with Guardian Live - part two — speakers: Deborah Frances-White, Suffragette Centenary Special, Ali McGregor, Hannah Gadsby, Margaret Cabourn-Smith, Jessica Fostekew, Zoe Williams, Ash Sarkar
 - 2018-02-12 — 86. Suffragette Centenary Special with Guardian Live - part one — speakers: Suffragette Centenary Special, Deborah Frances-White, Carrie Quinlan, Margaret Cabourn-Smith, Jessica Fostekew, Sara Pascoe, Anita Anand, Rachel Holmes
-- 2018-02-05 — 85. Taking Charge with Alice Snedden — speakers: Alice Snedden, Deborah Frances-White, Mark Hodge, Global Pillage, Albert Hall
-- 2018-01-29 — 84. More than Wonder Woman with Sam Bain — speakers: Wonder Woman, Sam Bain, Deborah Frances-White, Kate Phillips, Mark Hodge, Global Pillage, com ItsJessRegan, Albert Hall
-- 2018-01-22 — 83. Hope with Hannah Gadsby — speakers: Hannah Gadsby, Deborah Frances-White, Cal Wilson, Hannah Gadsby Recorded, Mark Hodge, Anna Sinfield, Global Pillage, Albert Hall
-- 2018-01-15 — 82. Emotional Labour with Dana Alexander — speakers: Dana Alexander, Deborah Frances-White, Dana Alexander Recorded, Edinburgh Fringe, Mark Hodge, Global Pillage, Albert Hall
-- 2018-01-08 — 81. Strength and Weakness with Sindhu Vee — speakers: Deborah Frances-White, Sindhu Vee Recorded, Mark Hodge, Global Pillage, Jessica Fostekew, Sindhu Vee, Albert Hall
-- 2018-01-01 — 80. What's the Deal with Men? with Tiff Stevenson — speakers: Tiff Stevenson, Deborah Frances-White, Zoe Coombs-Marr, Anna Sinfield, Global Pillage, Albert Hall
-- 2017-12-25 — 79. Living Arrangements with Vanessa Kisuule and Miriam Battye — speakers: Vanessa Kisuule, Miriam Battye, Deborah Frances-White, Miriam Battye Recorded, Mark Hodge, Global Pillage, Albert Hall
-- 2017-12-18 — 78. Doing Your Best But Being a Mess with Roisin Conaty — speakers: Deborah Frances-White, Mark Hodge, Grace Gelder, Global Pillage Standard, Albert Hall
-- 2017-12-11 — 77. Period Poverty with Gemma Cairney, Amika George, Grace Campbell — speakers: Amika George, Grace Campbell, Deborah Frances-White, Mark Hodge, Global Pillage Standard, Albert Hall
-- 2017-12-04 — 76. Female Friendships with Sara Barron — speakers: Female Friendships, Sara Barron, Deborah Frances-White, Sara Barron Recorded, Mark Hodge, Global Pillage Standard, sarabarron com, Albert Hall
-- 2017-11-27 — 75. Us and Our Mothers with Charlotte Keatley — speakers: Charlotte Keatley, Deborah Frances-White, Charlotte Keatley Recorded, Manchester Dancehouse, Mark Hodge, Global Pillage Standard, co uk, Albert Hall
-- 2017-11-20 — 74. What the Hell? The Handmaid's Tale in 2017 — speakers: Deborah Frances-White, Quinn Eades, Celeste Liddle, Lauren Duca Recorded, Mark Hodge, Jon Tjhia, com Utopiana, Albert Hall
-- 2017-11-13 — 73. Weinstein Culture part #metoo with Jo Brand — speakers: Weinstein Culture, Jo Brand, Deborah Frances-White, Mark Hodge, Grace Gelder, Global Pillage Standard, Albert Hall
+- 2018-02-05 — 85. Taking Charge with Alice Snedden — speakers: Alice Snedden, Deborah Frances-White, Mark Hodge, Global Pillage
+- 2018-01-29 — 84. More than Wonder Woman with Sam Bain — speakers: Wonder Woman, Sam Bain, Deborah Frances-White, Kate Phillips, Mark Hodge, Global Pillage, com ItsJessRegan
+- 2018-01-22 — 83. Hope with Hannah Gadsby — speakers: Hannah Gadsby, Deborah Frances-White, Cal Wilson, Hannah Gadsby Recorded, Mark Hodge, Anna Sinfield, Global Pillage
+- 2018-01-15 — 82. Emotional Labour with Dana Alexander — speakers: Dana Alexander, Deborah Frances-White, Dana Alexander Recorded, Edinburgh Fringe, Mark Hodge, Global Pillage
+- 2018-01-08 — 81. Strength and Weakness with Sindhu Vee — speakers: Deborah Frances-White, Sindhu Vee Recorded, Mark Hodge, Global Pillage, Jessica Fostekew, Sindhu Vee
+- 2018-01-01 — 80. What's the Deal with Men? with Tiff Stevenson — speakers: Tiff Stevenson, Deborah Frances-White, Zoe Coombs-Marr, Anna Sinfield, Global Pillage
+- 2017-12-25 — 79. Living Arrangements with Vanessa Kisuule and Miriam Battye — speakers: Vanessa Kisuule, Miriam Battye, Deborah Frances-White, Miriam Battye Recorded, Mark Hodge, Global Pillage
+- 2017-12-18 — 78. Doing Your Best But Being a Mess with Roisin Conaty — speakers: Deborah Frances-White, Mark Hodge, Grace Gelder, Global Pillage Standard
+- 2017-12-11 — 77. Period Poverty with Gemma Cairney, Amika George, Grace Campbell — speakers: Amika George, Grace Campbell, Deborah Frances-White, Mark Hodge, Global Pillage Standard
+- 2017-12-04 — 76. Female Friendships with Sara Barron — speakers: Female Friendships, Sara Barron, Deborah Frances-White, Sara Barron Recorded, Mark Hodge, Global Pillage Standard, sarabarron com
+- 2017-11-27 — 75. Us and Our Mothers with Charlotte Keatley — speakers: Charlotte Keatley, Deborah Frances-White, Charlotte Keatley Recorded, Manchester Dancehouse, Mark Hodge, Global Pillage Standard, co uk
+- 2017-11-20 — 74. What the Hell? The Handmaid's Tale in 2017 — speakers: Deborah Frances-White, Quinn Eades, Celeste Liddle, Lauren Duca Recorded, Mark Hodge, Jon Tjhia, com Utopiana
+- 2017-11-13 — 73. Weinstein Culture part #metoo with Jo Brand — speakers: Weinstein Culture, Jo Brand, Deborah Frances-White, Mark Hodge, Grace Gelder, Global Pillage Standard
 - 2017-11-06 — 72. Getting Older with Jenny Eclair — speakers: Getting Older, Jenny Eclair, Deborah Frances-White, Mark Hodge, Grace Gelder, Global Pillage Harry, Harry Leslie Smith Standard, Sindhu Vee
 - 2017-10-30 — 71. Weinstein Culture with Kristine Ziwica — speakers: Weinstein Culture, Kristine Ziwica, Deborah Frances-White, Cal Wilson, Mark Hodge, Anna Sinfield
 - 2017-10-23 — 70. Role Models with Suzi Ruffell — speakers: Role Models, Suzi Ruffell, Deborah Frances-White, Suzi Ruffell Recorded, Edinburgh Fringe, Mark Hodge, Global Pillage, Auckland Town Hall
