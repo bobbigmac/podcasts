@@ -1,0 +1,14508 @@
+# Chatabix
+
+- slug: `chatabix`
+- source: `https://feeds.megaphone.fm/GLT7256806225`
+- fetched_at: `2026-02-21T00:11:50+00:00`
+- checked_at: `2026-02-21T00:11:50+00:00`
+- last_modified: `Fri, 20 Feb 2026 16:25:43 GMT`
+- max_episodes_per_feed: `2000`
+
+<!-- FEED_JSON -->
+```json
+{
+  "version": 1,
+  "slug": "chatabix",
+  "source_url": "https://feeds.megaphone.fm/GLT7256806225",
+  "title": "Chatabix",
+  "link": "https://feeds.megaphone.fm/GLT7256806225",
+  "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
+  "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "owners": [
+    "Joe Wilkinson",
+    "David Earl"
+  ],
+  "common_speakers": [],
+  "categories": [
+    "comedy",
+    "chat"
+  ],
+  "episodes": [
+    {
+      "key": "8afa271aae35498d861d68219acd47c35c7b9444",
+      "title": "S15 Ep 780 Listener’s Mailbag: Jason Orange and Dad Jokes",
+      "published_at": "2026-02-20T03:00:00+00:00",
+      "link": null,
+      "description": "This week’s emails includes message about being a body double for Jason Orange, early memories of quipping, more pot-head information for Joe and a long list of dad jokes. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram T ikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4940699288.mp3?updated=1771244248",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1921",
+      "speakers": [
+        "Jason Orange",
+        "Patreon Merch",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "jason",
+        "orange",
+        "jokes"
+      ]
+    },
+    {
+      "key": "3b9b491af0bea5b06802ba89d9232025748f504f",
+      "title": "S15 Ep 779: Trains Tales and London Part Two",
+      "published_at": "2026-02-19T03:00:00+00:00",
+      "link": null,
+      "description": "After yesterday’s recounting of his previous trip, David is swiftly back up in his London hotel room and feeling all discombobulated again. With a very eventful train journey there, including an encounter with a 60 year old weed-smoker, he and Joe are keen to pick up on their conversation about his awkwardness with leaving home and having to spend time in a big city. It’s his London adventures part two! And there’ll be more next week as they ended up chatting about it the next day too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠⁠⁠ YouTube⁠⁠⁠ ⁠⁠⁠ Instagram ⁠⁠⁠ ⁠⁠⁠ TikTok ⁠⁠⁠ ⁠⁠⁠Patreon⁠⁠⁠ ⁠⁠⁠Merch ⁠⁠⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5773849291.mp3?updated=1770975087",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2547",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tales",
+        "london"
+      ]
+    },
+    {
+      "key": "96e2e444e5ae56142a3af6927632c28c4594f6bd",
+      "title": "S15 Ep 778: What I Do When I Get To Paddington",
+      "published_at": "2026-02-18T03:00:00+00:00",
+      "link": null,
+      "description": "David’s doing a few days work a week in London at the moment, so he use today’s episode to tell Joe how it’s been going. As it involves leaving his comfort zone (in more ways than one), each week the trip starts off with an anxious train journey from Totness to Paddington station. And his feelings of awkwardness continue throughout the two days, all the way up to the relief-filled train ride home. It turns out that Joe has similar feelings when he stays away for work, so they decide to continue the discussion next time and turn it into a two-parter. Plus, David reads out a few Patreon responses to our ‘Our Little Systems’ idea. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠⁠ YouTube⁠⁠ ⁠⁠Instagram ⁠⁠ ⁠⁠TikTok ⁠⁠ ⁠⁠Patreon ⁠⁠ ⁠⁠ Merch⁠⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5142584605.mp3?updated=1770975046",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3492",
+      "speakers": [
+        "Merch Email",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paddington"
+      ]
+    },
+    {
+      "key": "ee86c520d112cb285aafac0b787f726e42c3e02f",
+      "title": "S15 Ep 777: The 1% Quipping Club",
+      "published_at": "2026-02-17T03:00:00+00:00",
+      "link": null,
+      "description": "David’s been watching a lot of The 1% Club recently and has noticed how much the show relies on the brilliant quipping from its host, Lee Mack. Knowing Joe’s considerable mastery of impromptu quips, David’s thought of a great game that they can play on today’s pod. That’s if Joe can keep quiet for long enough for David to explain it to him - don’t hold your breath… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠ YouTube ⁠ ⁠Instagram⁠ ⁠ TikTok⁠ ⁠Patreon⁠ ⁠ Merch⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4100291520.mp3?updated=1770974660",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2507",
+      "speakers": [
+        "Lee Mack",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "quipping",
+        "club"
+      ]
+    },
+    {
+      "key": "f230c38b1f0397136f878f58b8343f628e92c4ff",
+      "title": "S15 Ep 776 Vault Mondays: Putting A Bet On A Horse and Joe Davis",
+      "published_at": "2026-02-16T03:00:00+00:00",
+      "link": null,
+      "description": "In this old show, David and Joe put a bet on a horse and talk about Joe Davis. First posted on: 29th October 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9569170268.mp3?updated=1770974644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1836",
+      "speakers": [
+        "Joe Davis",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "horse",
+        "davis"
+      ]
+    },
+    {
+      "key": "095be2331faa171e4e395171012074239d967f68",
+      "title": "S15 Ep 775 Listener’s Mailbag: Cockfields Quips and Ben Rufus Green",
+      "published_at": "2026-02-13T03:00:00+00:00",
+      "link": null,
+      "description": "This week’s Mailbag show starts off normal enough - but then David reads a confusing quipping email from their Cockfields co-star, Ben Rufus Green. So they get in touch with him to see if he’s up for explaining things and luckily he's free to join them on Zoom straight away. So they get a full explanation of his quip and then do some reminiscing about filming The Cockfields and working with the late, great Bobby Ball. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Contact us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9308447064.mp3?updated=1770832816",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2243",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Ben Rufus Green",
+        "Bobby Ball",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "cockfields",
+        "rufus",
+        "green"
+      ]
+    },
+    {
+      "key": "bb966dc215c2a508122494aaa3f73b4d1e58b09b",
+      "title": "S15 Ep 774: The Primrose Hill Lot",
+      "published_at": "2026-02-12T03:00:00+00:00",
+      "link": null,
+      "description": "The other day, Joe found himself stood up in a cafe in London chatting with three other celebrities - which made him feel very self-conscious indeed. So obviously he and David use today’s episode to dissect the whole incident and analyse Joe’s awkward feelings about it. Amongst other revelations, it turns out Joe felt like ‘that Primrose Hill lot in the 90’s’ - who he was a little jealous of at the time. So, plenty there for David to wind Joe up about then. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠ chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8263841233.mp3?updated=1770377370",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3628",
+      "speakers": [
+        "Primrose Hill",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "primrose",
+        "hill"
+      ]
+    },
+    {
+      "key": "30fdd13deb71704b9e29c4382e15f72b4d79d947",
+      "title": "S15 Ep 773: Dopplebangers and ‘Our Little Systems’",
+      "published_at": "2026-02-11T03:00:00+00:00",
+      "link": null,
+      "description": "Joe wants to come up with a new section idea for the pod and has been inspired by a word he learn recently - dopplebangers. It’s a term used for couples who look like each other and he’s wondering if there any other new phrases that the listeners could tell them about. And also if they invent any with partners to describe a particular idiosyncrasy. David’s not convinced that but asks Chat GPT to come up with a name for the new show - and then puts a request out on Patreon to see what response they get. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2467260466.mp3?updated=1770377296",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2851",
+      "speakers": [
+        "Chat Gpt",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "dopplebanger",
+        "systems"
+      ]
+    },
+    {
+      "key": "8c578fb3775f1dd0edf32cbd4184c997f95c805d",
+      "title": "S15 Ep 772: Posthumous Pods and Judgy Joe",
+      "published_at": "2026-02-10T03:00:00+00:00",
+      "link": null,
+      "description": "On today's show David and Joe chat about sorting out their wills, posting the pod after their deaths, wondering when listeners listen to Chatabix, dealing badly with compliments and have another long discussion about how uncomfortable they are with showing off. Then, following our Instagram clip of Joe’s ‘old lady on a train doing coke’ story, they analyse some of the comments about it and Joe gets all judgy. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: h⁠ttps://www.youtube.com/@chatabixpodcast ⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠ chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3485022197.mp3?updated=1770377053",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2880",
+      "speakers": [
+        "Posthumous Pods",
+        "Judgy Joe",
+        "Joe’s old",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "pods",
+        "judgy"
+      ]
+    },
+    {
+      "key": "40956dba33432d36f9c561cb2c1ce4c291c92cae",
+      "title": "S15 Ep 771 Vault Mondays: Joe takes an IQ test",
+      "published_at": "2026-02-09T03:00:00+00:00",
+      "link": null,
+      "description": "It’s Monday - so it must be archive episode time! And in this one, we chatted about the quote on Joe's bedroom wall, the charts, and Joe took an IQ test. First posted on: 8th June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: h ttps://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4509342538.mp3?updated=1770376838",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1785",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "test"
+      ]
+    },
+    {
+      "key": "4c3c08cac952cc24ef245113d42d556e50e886a3",
+      "title": "S15 Ep 770: One In A Million - A Baked Bean and Some Door Keys",
+      "published_at": "2026-02-06T03:00:00+00:00",
+      "link": null,
+      "description": "For our first One In A Million of the year, we have messages about a lucky time doing pub quizzes, Pink Floyd and Paul McCartney co-incidences, a brilliant baked bean flick, two Australian brothers, a amazing discovery with some door keys, a golfing success story and a suggestion for Joe’s OIAM gameshow idea. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9362100792.mp3?updated=1769767065",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2149",
+      "speakers": [
+        "Pink Floyd",
+        "Paul McCartney",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "baked",
+        "bean",
+        "door"
+      ]
+    },
+    {
+      "key": "c361914d96e8c758c7744dde76dd7fe328433cf5",
+      "title": "S15 Ep 769: Two Farting Dogs and Intimidating Comedians",
+      "published_at": "2026-02-05T03:00:00+00:00",
+      "link": null,
+      "description": "First up, there’s chat about tomato juice, some recent dreams, Joe overhearing a conversation about comedy podcasts and David sitting next to two farting dogs on a train. Then they start discussing which comedians they were intimidated by when first doing stand up - and then quickly realise the idea could be made into a great game. So they find a list of names on a comedy website and the quizzing begins… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4096013648.mp3?updated=1769767222",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3555",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "dogs",
+        "intimidating",
+        "comedians"
+      ]
+    },
+    {
+      "key": "7790aa9a337419b9b386811b41007a41010a6b3f",
+      "title": "S15 Ep 768: Why Are You Still Listening?",
+      "published_at": "2026-02-04T03:00:00+00:00",
+      "link": null,
+      "description": "Despite David and Joe having absolutely nothing to talk about today, it’s a busy old episode. Subjects up for discussion include staying in hotels, walking in London, repeating ourselves on the pod, a slow start to the new series, how best to adjust your pants in public, uncomfortable moments with cab drivers, Joe’s mysterious phone message, looking really old to younger people, David’s strange walk and ending the pod for good. Which all begs the question - just why are you still listening? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5083683580.mp3?updated=1769766807",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2230",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "d8980905c31db4217f0a99a90afea2cf8a26baa6",
+      "title": "S15 Ep 767: Touching Tongues",
+      "published_at": "2026-02-03T03:00:00+00:00",
+      "link": null,
+      "description": "David and Joe are tight for time this morning, so the episode is literally on the clock - they’ve set an alarm to know when to finish. They kick things off by rattling through some quick-fire questions, before David casually mentions a picture of a boy he kissed at school when he was eight. Or more like, they touched tongues. Either way, Joe obviously wants to know everything about David’s revelation and the questioning takes up the rest of the show. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2839076630.mp3?updated=1769766567",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2055",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tongue"
+      ]
+    },
+    {
+      "key": "5f4ad7c5ad3454540068c897588558c6135d0fc3",
+      "title": "S14 Ep 766 Vault Mondays: Surprise Guest - Kerry Godliman",
+      "published_at": "2026-02-02T03:00:00+00:00",
+      "link": null,
+      "description": "It’s another show from the Chatabix archives and for this one, old pal and comedian Kerry Godliman joins David & Joe as a surprise guest. They talk about acting, After Life and how Kerry was a camel for the whole term at Drama School. Kerry also gives David some therapy and tells them what she gets up to when not working. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7030268178.mp3?updated=1769766774",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4720",
+      "speakers": [
+        "Kerry Godliman",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "surprise",
+        "guest",
+        "kerry",
+        "godliman"
+      ]
+    },
+    {
+      "key": "530ad34f08760fb992a9235280cd7872a267ce42",
+      "title": "S15 Ep 765 Listener’s Mailbag: Police Surveillance and Helen DeGeneres",
+      "published_at": "2026-01-30T03:00:00+00:00",
+      "link": null,
+      "description": "In today’s Mailbag, we read messages about undercover police work, a new use for David’s Happy Happy Girl song, a game of arsehole to beak, Joe’s ‘Helen’ DeGeneres slip-up, work nicknames, the insanity of house snooping, a few quips and a sexual activity tracking App. What a way to end the week - happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9724291921.mp3?updated=1769176279",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1615",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Helen DeGeneres",
+        "David’s Happy Happy Girl",
+        "Joe’s Helen DeGeneres",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "police",
+        "surveillance",
+        "helen",
+        "degeneres"
+      ]
+    },
+    {
+      "key": "78a70e461ee043f222dcf56db2ed002f049db5ad",
+      "title": "S15 Ep 764: Josh’s Houses and Live Tour Deliberations",
+      "published_at": "2026-01-29T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a packed episode of chatting today! To kick things off, Joe tells David about seeing pictures of Josh Widdicombe’s house in a newspaper recently, David daydreams about more lovely homes in Bath, they both wonder how on earth people manage to afford multi-million pound houses, they plot to get Right Move to sponsor the pod and David explains how he ended up buying a pair of Chatabiscuit’s shoes. Then they have think about what it would take for them to do a Chatabix live tour - and their deliberations take up the rest of the show. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6534838917.mp3?updated=1769176457",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3904",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "josh",
+        "houses",
+        "tour",
+        "deliberations"
+      ]
+    },
+    {
+      "key": "21f4b907a15a43107c1cdb001bfc92ae8830ceaa",
+      "title": "S15 Ep 763: David’s Back In Brighton",
+      "published_at": "2026-01-28T03:00:00+00:00",
+      "link": null,
+      "description": "David’s staying near Joe in Brighton for a few days, so they’re recording today’s show in very close proximity. But despite Joe’s best efforts to meet him for a walk, David’s determined to spend the day driving around looking at all the local villages. He’s also hoping to see some stand-up comedy later that evening. So they have a chat about all of that and David does some more reminiscing about the time he worked as a gardener in the West Sussex area. Plus, a heated debate about doing up Brighton pier. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1942936836.mp3?updated=1769176126",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3106",
+      "speakers": [
+        "David’s Back",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "brighton"
+      ]
+    },
+    {
+      "key": "2c8f45cf93869fa0a7133cdbd54a4efb3cd7c364",
+      "title": "S15 Ep 762: New Series, Same Old Drivel",
+      "published_at": "2026-01-27T03:00:00+00:00",
+      "link": null,
+      "description": "Chatabix is back to kick off 2026! And it might be a brand new series but nothing much has changed, as Joe’s talking to David from a hotel room and dealing with some dodgy Wi-Fi. But once that’s all sorted, there’s chat about new conversation ideas, some recent quipping and David’s Christmas holiday trips to Bath, Brighton and Lapland. Joe also reveals that he’s recently been on a run with some Chatabiscuits and David has a think about going to see The Cure’s last ever gig. It’s great to be back podding! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4853708165.mp3?updated=1769176133",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3323",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "series",
+        "drivel"
+      ]
+    },
+    {
+      "key": "b6e5ce20181486ab081e2285e6af1d95aad21d66",
+      "title": "S15 Ep 761 Vault Mondays: Guest - Former Gangster, Charlie Breaker",
+      "published_at": "2026-01-26T03:00:00+00:00",
+      "link": null,
+      "description": "For this week’s archive show, it’s the one when David and Joe were joined by former gangster, Charlie Breaker. First posted on 6th Dec 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6674551580.mp3?updated=1769175941",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4633",
+      "speakers": [
+        "Charlie Breaker",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "gangster",
+        "charlie",
+        "breaker"
+      ]
+    },
+    {
+      "key": "45b2e6823ae258e89cd3962260de4c486296514c",
+      "title": "S14 Ep 760: TV Joe’s Quiz of the Year",
+      "published_at": "2025-12-23T03:00:00+00:00",
+      "link": null,
+      "description": "What better way to kick off the Christmas holidays than with a brilliantly festive quiz from TV Joe! And this time he’s prepared his very own ‘inordinately large quiz of the year’, with questions on all of the important news, entertainment and Chatabix trivia from 2025. But before all that, there’s some chat about TV Joe’s new barber shop, a recording studio in Willesden and David visiting Robert Smith’s childhood home. Then it’s own with the quizzing!!! Have yourselves a wonderful break over the festive season and we’ll see you again in 2026. Crunch crunch x FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8758133333.mp3?updated=1766156261",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4283",
+      "speakers": [
+        "Joe’s Quiz",
+        "Robert Smith",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "quiz",
+        "year"
+      ]
+    },
+    {
+      "key": "86ffe3bf4e11cfccf826787dcb6ee1d898e0d516",
+      "title": "S14 Ep 759 Vault Mondays: Guest - Steve Davis",
+      "published_at": "2025-12-22T03:00:00+00:00",
+      "link": null,
+      "description": "For this week’s archive show, we bring you one of the most loved episodes of the Chatabix back catalogue. It’s our chat with the wonderful Steve Davis - a true sporting great! First posted on 4th May 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6989694274.mp3?updated=1766156112",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3772",
+      "speakers": [
+        "Steve Davis",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "steve",
+        "davis"
+      ]
+    },
+    {
+      "key": "8f23e16d8ebd62b8e24e18a359c99c58e8ec971f",
+      "title": "S14 Ep 758: Christmas Mailbag - This Morning and Early Retirement",
+      "published_at": "2025-12-19T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a Christmas edition of Mailbag this week - in spite of most of the messages having nothing to do with the festive season. First up, we read an email from a This Morning camera operator, then there’s updates on David’s Ibiza holiday romance and Joe’s Park Run stalker. Plus, more weed stories, a 50th birthday drugs-fest, an early retirement routine, a VLODing clarification and to finish things off, a collection of quick-fire messages about the regularity of sex when married. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3455130656.mp3?updated=1765811586",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2483",
+      "speakers": [
+        "David’s Ibiza",
+        "Joe’s Park Run",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "christmas",
+        "mailbag",
+        "morning",
+        "early",
+        "retirement"
+      ]
+    },
+    {
+      "key": "fa174a190f3776d256677f7f7d2b3253bc3ceb95",
+      "title": "S14 Ep 757: Joe’s Christmassy Walk (to the Station)",
+      "published_at": "2025-12-18T03:00:00+00:00",
+      "link": null,
+      "description": "You’ve guessed it, Joe’s on his way to Brighton station to catch a train, so he uses the time to call David and record a pod. So prepare yourself for an enchanted Christmassy walk with some winter stories, a random act of festive generosity, chat about being grateful, Robert Smith’s favourite comedians and David talks Joe through his Synex addiction, again. Plus, some crunch crunching through imaginary snow. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2140635510.mp3?updated=1765548908",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2418",
+      "speakers": [
+        "Robert Smith",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "christmassy",
+        "walk",
+        "station"
+      ]
+    },
+    {
+      "key": "90ca43ee3390945808898197f08211ce35e3390f",
+      "title": "S14 Ep 756: Nasty Messages and Lovely Pods",
+      "published_at": "2025-12-17T03:00:00+00:00",
+      "link": null,
+      "description": "On today’s show, Joe reveals that after a long time not reading any messages on social media about himself, he saw one recently which really wound him up. So him and David have a deep dive onto all of that. Then David reveals that this would be just the kind of episode that he would have liked when listening to pods as a gardener. So him and Joe talk through what other Chatabix episodes would have been his favourites - and discuss some other pods too, of course. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3600422853.mp3?updated=1765548819",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2578",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "nasty",
+        "messages",
+        "lovely"
+      ]
+    },
+    {
+      "key": "ce9da71a5ff47f7191eea457d78b8dfb19206afc",
+      "title": "S14 Ep 755: I Ain’t A Square",
+      "published_at": "2025-12-16T03:00:00+00:00",
+      "link": null,
+      "description": "David’s got a shirt on today, so we kick things off with talking about wearing smarter clothes and Joe not wearing jeans any more. Then the subject of Joe being a square comes up - so David challenges him to prove that he’s not by providing one amazingly rebellious fact about himself. And what Joe comes up with is an absolute revelation! So much so, it’s all they can talk about for the rest of the show. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5558042484.mp3?updated=1765548920",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3211",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "square"
+      ]
+    },
+    {
+      "key": "d6e27ccd72e460b40a847e8814008ddb7a757507",
+      "title": "S14 Ep 754 Vault Mondays: Talking About Stuff and Not Talking About Stuff",
+      "published_at": "2025-12-15T03:00:00+00:00",
+      "link": null,
+      "description": "Archive episode time! And in this one we chat about Joe's shit, arguing with partners and then we shut down. First posted on 22nd June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5549519971.mp3?updated=1765548576",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1804",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "stuff"
+      ]
+    },
+    {
+      "key": "5434841122ff96bfde4bf7e4c33ec717e7c036b9",
+      "title": "S14 Ep 753 Listener’s Mailbag: Red Mist and Beautiful Bath",
+      "published_at": "2025-12-12T03:00:00+00:00",
+      "link": null,
+      "description": "In today’s selection of Mailbag emails, we have messages about the pleasures of computer gaming, moving to Bath from Australia, VODing vs VLODing, a twins birthday quip, a ‘better that it first appears to be’ quip to group of mechanics, seeing the red mist and another selection of pub jokes. This episode is dedicated to Chatabiscuit Adam - rest in peace. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6366528288.mp3?updated=1765444925",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1902",
+      "speakers": [
+        "Beautiful Bath",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "mist",
+        "beautiful",
+        "bath"
+      ]
+    },
+    {
+      "key": "a70aaa09803b85860164fbb30010f51491c3b30e",
+      "title": "S14 Ep 752: Not Good Enough",
+      "published_at": "2025-12-11T03:00:00+00:00",
+      "link": null,
+      "description": "Well, let’s be honest - today’s show was a bit of a struggle as both David and Joe had nothing much to talk about and no inspiration. But even so, they still manage to rustle up some chat about the wholesomeness of tea, opinions on coffee drinkers, very early morning walks, Jack Russell dogs, Joe getting better at letting stuff go and the possibility of David’s postman listening to the pod. But all in all, in both their opinions - definitely not good enough to put out. Enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5723233225.mp3?updated=1764933682",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2349",
+      "speakers": [
+        "Jack Russell",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "f5885eb15e5b9d2612d7bc5f2d6d5f90fc62ebbf",
+      "title": "S14 Ep 751: Poos and Key-Bumps",
+      "published_at": "2025-12-10T03:00:00+00:00",
+      "link": null,
+      "description": "Apologies in advance - it’s a scatological start to today’s episode. David decides to tell Joe about reluctantly having to do a poo on his train up to London the previous morning. It’s a subject that neither of them are comfortable talking about but they still manage to fill the first 20 minutes discussing it. After that, it’s chat about OAP cocaine users, Ben Shephard being a Chatabiscuit, meeting Dawn French, Joe being on the Lorraine show, visiting TV studio sets and being rude in a voiceover session. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3481358723.mp3?updated=1764933533",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2849",
+      "speakers": [
+        "Ben Shephard",
+        "Dawn French",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "poos",
+        "bumps"
+      ]
+    },
+    {
+      "key": "3166975f2387e23ede57916d12790f64d11bb69a",
+      "title": "S14 Ep 750: David’s Teenage Holiday Romance",
+      "published_at": "2025-12-09T03:00:00+00:00",
+      "link": null,
+      "description": "At the end of a recent Mailbag episode, David and Joe started talking about holiday romances. And more specifically, a very special one that David had on a family holiday to Ibiza in 1989, when he was 15 years old. His memories are a little patchy but he’s pretty sure her name was Claire and they almost certainly visited a secret cove on a nearby beach. Either way, he insisted that it would need it’s own episode to tell the full story - so here it is for you now… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9369364943.mp3?updated=1764933211",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2190",
+      "speakers": [
+        "David’s Teenage",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "teenage",
+        "holiday",
+        "romance"
+      ]
+    },
+    {
+      "key": "c63c2db9b3b416d4cf723d5dd92bf93fa3cb15c5",
+      "title": "S14 Ep 749 Vault Mondays: Howards Way and Romesh and Tom's Podcast",
+      "published_at": "2025-12-08T03:00:00+00:00",
+      "link": null,
+      "description": "It’s right back to the early day of the pod for this week’s archive show. We chat about David helping his wife get the car off the drive, how the podcast is doing, how to move up the charts, preparing for tomorrow's episode and Howards Way First posted on 6th April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4905861794.mp3?updated=1764933089",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1687",
+      "speakers": [
+        "Howards Way",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "howard",
+        "romesh",
+        "podcast"
+      ]
+    },
+    {
+      "key": "7c18efdd7eb8fa465271c18bbbc5479ba4550c00",
+      "title": "S14 Ep 748 Listener’s Mailbag: Podcasts, Psychologists and Princesses",
+      "published_at": "2025-12-05T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a right old mixed bag of messages from you lovely listeners this week. There’s info about a Chatabiscuit’s podcast, an offer of some help from a drone operator, a bit of behavioural psychology, an old FHM anecdote, a barrage of pub jokes, a quip query, a visit to a Bristol comedy club, a trip to London to see the Queen, more on Sting's brother and a trio of recollections about Princess Diana’s funeral. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7071502572.mp3?updated=1764264253",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2703",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "podcast",
+        "psychologists",
+        "princesses"
+      ]
+    },
+    {
+      "key": "350f64c53f0858725fb5f403367922088cac6063",
+      "title": "S14 Pp 747 One In A Million: Haemorrhoids and Doppelgängers",
+      "published_at": "2025-12-04T03:00:00+00:00",
+      "link": null,
+      "description": "We’re back with another cracking selection of incredible stories, which may or may not be one in a million. There’s a shooting star, an awkward haemorrhoid check, an amorous camping coincidence, a pool que knockout, a fraudulent grandmother, a helpful geology professor, a jury duty doppelgänger and a business meeting mix up. What more could you want? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6701868197.mp3?updated=1764263943",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2541",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "haemorrhoids"
+      ]
+    },
+    {
+      "key": "a331fcdb3a4e04a684eb1c564e61e5c0dbf91275",
+      "title": "S14 Ep 746: Are We Likable?",
+      "published_at": "2025-12-03T03:00:00+00:00",
+      "link": null,
+      "description": "It’s an introspective episode today as Joe and David investigate some of their numerous insecurities - such as worrying about not being likeable (both on and off the pod), very variable confidence, whether they’re nice guys, low intelligence levels and having verbal diarrhoea. It’s quite the therapy session! Plus, David explains how he might be meeting Dawn French soon, Joe’s reveals his latest quip, there’s a quick One In A Million from a friend of the pod and we celebrate our recent Instagram success. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5734913790.mp3?updated=1764263783",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2522",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "0a26f8b0a6e264ee3c872360fb0de885a3c40157",
+      "title": "S14 Ep 745: Joe's Midas Month and that Waitrose Christmas Advert",
+      "published_at": "2025-12-02T03:00:00+00:00",
+      "link": null,
+      "description": "It’s the one you’ve all been waiting for - David finally gets his chance to ask Joe about co-starring in the Waitrose Christmas advert. And more importantly, what it was like kissing Keira Knightly? What with him being in one of the biggest adverts of the year and the huge success of The Celebrity Traitors, this really has been Joe’s Midas month! So settle back and relax as Joe, somewhat reluctantly, tells David how he’s feeling about his newfound fame. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2210396320.mp3?updated=1764263722",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3700",
+      "speakers": [
+        "Keira Knightly",
+        "Joe’s Midas",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "midas",
+        "month",
+        "waitrose",
+        "christmas",
+        "advert"
+      ]
+    },
+    {
+      "key": "e7dae38d6e1cc1d0d39c33ad7872fce39d0cc39d",
+      "title": "S14 Ep 744 Vault Mondays: Recurring Dreams and Double Acts",
+      "published_at": "2025-12-01T03:00:00+00:00",
+      "link": null,
+      "description": "Straight from the archives - it’s another old Chatabix show! And in this one, we chat about dreams, what women want, Hale and Pace and watching loads of TV First posted on 2nd April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3874757403.mp3?updated=1764263431",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1684",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "dreams"
+      ]
+    },
+    {
+      "key": "87117ac666cb30ef580a9abd382c0f61f4f6ef23",
+      "title": "S14 Ep 743 Listener’s Mailbag: Scenery Painters and Memorial Flowers",
+      "published_at": "2025-11-28T03:00:00+00:00",
+      "link": null,
+      "description": "On today’s fun-packed Mailbag show, David and Joe read messages about a film and television scenery painter, thanks from a retiring builder, a few more quips, observations on Joe visiting Princess Diana’s memorial flowers, some Italian translations, Canary Islands life and having parents with the same name. Plus, an offer from Cameo (the personalised video service, not the 80's band) and David tries to get ChatGPT to write a funny story - spoiler alert, it doesn’t do very well. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4140696440.mp3?updated=1763746354",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2245",
+      "speakers": [
+        "Memorial Flowers",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "scenery",
+        "painters",
+        "memorial",
+        "flowers"
+      ]
+    },
+    {
+      "key": "99b398f8c29c9b4d39aeda00ed342e2eb616097e",
+      "title": "S14 Ep 742: Guests Analysis and The Misery Train",
+      "published_at": "2025-11-27T03:00:00+00:00",
+      "link": null,
+      "description": "On today’s show, the guys analyse some of their strange behaviour when speaking with guests on the pod - beginning with the very blunt opener from David when they were joined by the lovely Dermot O’Leary. They then wonder if their rather chaotic approach to recording Chatabix ends up confusing many of the listeners and what they could do to improve things. They also take a look back at some old episode, discuss more about Joe’s dog poo app and David introduces us to the Misery Train. Don’t worry, it’s not as depressing as it sounds. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8932104612.mp3?updated=1763746181",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2339",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guests",
+        "analysis",
+        "misery",
+        "train"
+      ]
+    },
+    {
+      "key": "1ea45093f144ff23996de3755f612b6b2edb6b5e",
+      "title": "S14 Ep 741: Bumping into David Olusoga and Behind the Scenes at Cats Does Countdown",
+      "published_at": "2025-11-26T03:00:00+00:00",
+      "link": null,
+      "description": "Joe’s filming in Manchester at the moment, where he happened to bump into fellow Celebrity Traitors contestant David Olusoga, who’s staying at the same hotel. So he tells David (Earl) what a lovely moment that was and how nostalgic it made him feel. They also chat about not having much to talk about every autumn and look back at some old Chatabix episode titles from this time last year. Then, as Joe’s recording new Cats Does Countdown shows, David finally takes his opportunity to ask Joe about how it’s all put together. That’s until the conversation gets totally derailed by a scandalous bit of gossip - which obviously has to be honked out. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5830557080.mp3?updated=1763745993",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2411",
+      "speakers": [
+        "David Olusoga",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "olusoga",
+        "scenes",
+        "cats"
+      ]
+    },
+    {
+      "key": "052c03ae62e3210557066fe729a36e9a89d99933",
+      "title": "S14 Ep 740: Boy Bands and Bad Wi-Fi",
+      "published_at": "2025-11-25T03:00:00+00:00",
+      "link": null,
+      "description": "Well, this episode starts off promisingly enough, with some chat about a great boy band TV documentary that David’s currently watching. But then Joe’s Wi-Fi has a complete meltdown and things become pretty chaotic for quite some time. At least we have David to sings us some Take That songs whilst Joe does a bit of fault finding with his router. So hold tight, this one’s gonna be a bumpy ride - crunch crunch! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2760217288.mp3?updated=1763745878",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2320",
+      "speakers": [
+        "Bad Wi-Fi",
+        "Joe’s Wi-Fi",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bands"
+      ]
+    },
+    {
+      "key": "a647ee2ef1f625c5443cf44ba734f60f95744e5a",
+      "title": "S14 Ep 739 Vault Mondays: The Joe Wilkinson Appreciation Episode",
+      "published_at": "2025-11-24T03:00:00+00:00",
+      "link": null,
+      "description": "Time to wind back the clock and hear an old episode of the pod. In this one, Patreon members call in to tell everyone why they love Joe Wilkinson. First posted on 6th June 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9162558404.mp3?updated=1763745775",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2869",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "wilkinson",
+        "appreciation"
+      ]
+    },
+    {
+      "key": "b2f199462f29375c752a0e50ec0d11c1bf3e6a13",
+      "title": "S14 Ep 738 Listener’s Mailbag: Olympic Swimmers and David’s Prediction Video",
+      "published_at": "2025-11-21T03:00:00+00:00",
+      "link": null,
+      "description": "In this week’s selection from the Mailbag, we read messages about boisterous scaffolders, an Olympic swimming team let-down, a regular work quip and a quip fail, the offer of some acting work, a case put forward for the clinical use of cannabis and an embarrassing video of David making some football predictions. Thanks to the lovely people at Stretford Paddock YouTube channel for sending it in! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3067426861.mp3?updated=1763054723",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2450",
+      "speakers": [
+        "David’s Prediction Video",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "olympic",
+        "swimmers",
+        "david",
+        "prediction",
+        "video"
+      ]
+    },
+    {
+      "key": "92d2cdd6d848b510b0a455831e43f8bb12a44019",
+      "title": "S14 Ep 737: Joe on BBC Breakfast and Old Traitors News",
+      "published_at": "2025-11-20T03:00:00+00:00",
+      "link": null,
+      "description": "At first Joe and David fear they’ve nothing to talk about on today’s show. But then Joe mentions he’s just been on BBC Breakfast to discuss The Celebrity Traitors, so obviously David wants to know all about that. The talk then moves onto doing Zoom calls on TV, some belated and very out of date chat about who will win Traitors, a potential new TV show for Joe Mahler, Phil Kay in a bath tub at the top of a pole in Forest Row, prank emails, going viral and a quick check of the charts. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8383669531.mp3?updated=1763054637",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2579",
+      "speakers": [
+        "Joe Mahler",
+        "Phil Kay",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "breakfast",
+        "traitors",
+        "news"
+      ]
+    },
+    {
+      "key": "5c06a8e0d2b0af9706901eb7b34a4c5f8a51fed6",
+      "title": "S14 Ep 736 One in a Million: Merch Stats & A Canoe Exhibition",
+      "published_at": "2025-11-19T03:00:00+00:00",
+      "link": null,
+      "description": "On our latest edition of One in a Million, we read tales about a cosmic merch alignment on the London Underground, great luck with pedestrian crossings, a canoe exhibition in the 80s and a black eye at a job interview. Plus, a quick mailbag email from someone called Mary - or should that be Ben? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5879510639.mp3?updated=1763054441",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1926",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "merch",
+        "stats",
+        "canoe",
+        "exhibition"
+      ]
+    },
+    {
+      "key": "6ce063e6f8344ea935c0159996beb338d1dda638",
+      "title": "S14 Ep 735: The One in a Million Gameshow",
+      "published_at": "2025-11-18T03:00:00+00:00",
+      "link": null,
+      "description": "Before the guys start recording a new episode of One In A Million, Joe wants to tell David about his idea for a One In A Million TV gameshow. So he pitches the full concept to David but has a pretty tough time convincing him of its potential. And more importantly, will any TV execs - let alone Richard Osman - have any interest in buying and developing the show further? See what you think - could it be the new king of primetime Saturday night gameshows??? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1456321834.mp3?updated=1763054377",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2526",
+      "speakers": [
+        "Richard Osman",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "million",
+        "gameshow"
+      ]
+    },
+    {
+      "key": "56dff342328a873e204cd0f3f72625121fcc0b73",
+      "title": "S14 Ep 734 Vault Mondays: Guest - Ricky Gervais",
+      "published_at": "2025-11-17T03:00:00+00:00",
+      "link": null,
+      "description": "It’s archive episode time again! And this one’s a classic as Ricky Gervais joins us for a chat. First posted on 7th February 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7674163819.mp3?updated=1763054486",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4569",
+      "speakers": [
+        "Ricky Gervais",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "ricky",
+        "gervais"
+      ]
+    },
+    {
+      "key": "a2507f3e931f1f70662ab876939619d0f78680ce",
+      "title": "S14 Ep 733 Listener’s Mailbag: Bears, Brothers and Strongbow",
+      "published_at": "2025-11-14T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a brand new batch of your Mailbag emails! And this time there’s messages about a robot mower quip, spotting Sting’s brother, showing off dressing up as a bear, Jools Holland’s wedding, some safari park anecdotes, a big pile of discarded Strongbow cans, Joe on Celebrity Traitors and a first class encounter on a train. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9764058729.mp3?updated=1762538396",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2178",
+      "speakers": [
+        "Jools Holland",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "bear",
+        "brothers",
+        "strongbow"
+      ]
+    },
+    {
+      "key": "21e481f530d2312d6811b93c2dd2582ebef62950",
+      "title": "S14 Ep 732: David Driving to his VO Recording",
+      "published_at": "2025-11-13T03:00:00+00:00",
+      "link": null,
+      "description": "David’s driving to a voiceover recording session this morning and of course Joe joins him on a Zoom call to have a chat along the way. So there’s lots of talk about what exactly he’ll be doing for the job and how he’ll behave for it. Plus, some discussion about high-vis jackets, French & Saunders, Absolutely Fabulous and a quick surprise guest quiz too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8539680369.mp3?updated=1762704016",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1729",
+      "speakers": [
+        "David Driving",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "recording"
+      ]
+    },
+    {
+      "key": "c270a351cff3419f496057885a1a2ae15db350df",
+      "title": "S14 Ep 731: The Marvelous Mind of Mark Simmons",
+      "published_at": "2025-11-12T03:00:00+00:00",
+      "link": null,
+      "description": "Picking up from yesterday’s episode and the subject of miserable colds, Joe tells David about a reliable remedy that the comedian Mark Simmons uses to fight off the winter bugs. Then, after discussing how much they love Mark’s stand-up and his brilliant and very quick off-the-cough one liners, they decide to find out if they’re any good at coming up with some themselves. After a few early successes, they soon realise that it’s a little harder than they thought - but plough on regardless. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7973496201.mp3?updated=1762537939",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1860",
+      "speakers": [
+        "Mark Simmons",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mind",
+        "mark",
+        "simmons"
+      ]
+    },
+    {
+      "key": "5cf999f379dfbf94cec84a71b56ff070ebb94949",
+      "title": "S14 Ep 730: Colds, Flus and a Traitors Debrief Debriefing",
+      "published_at": "2025-11-11T03:00:00+00:00",
+      "link": null,
+      "description": "As you might have noticed, there’s been a distinct lack of podding at Chatabix towers for the past few weeks. But David and Joe are back and here to tell you all about what’s been happening. Well, mainly suffering from various illnesses and lots of other important stuff going on in their lives at the moment. The timing of which could not have been worse, what with Joe being in Celebrity Traitors, of course. So, with only the final still left to broadcast (at the time of recording), David and Joe take the opportunity to finally catch up on their debriefs of the show. Plus, Joe’s tells us his idea for an app and recounts a very odd experience he had at a recent Park Run. Apologies and advance for all the coughing and spluttering. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7271390788.mp3?updated=1762537909",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3080",
+      "speakers": [
+        "Park Run",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "colds",
+        "flus",
+        "traitors",
+        "debrief",
+        "debriefing"
+      ]
+    },
+    {
+      "key": "35488ad5fe75245b55b4a9896d2ff06d713ec802",
+      "title": "S14 Ep 729 Vault Mondays: Joe Lies To His Wife and The Electrician",
+      "published_at": "2025-11-10T03:00:00+00:00",
+      "link": null,
+      "description": "In this old episode of pod, we chat about Joe sneaking out of the house and recording the podcast behind his wife's back. And then an electrician enter's David's house - it’s bloody chaos. First posted on 12th May 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6880798111.mp3?updated=1762537537",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1479",
+      "speakers": [
+        "Joe Lies",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "wife",
+        "electrician"
+      ]
+    },
+    {
+      "key": "ef818ba522b88cdff6ef9a794c05e81bb05cf4f9",
+      "title": "S13 Ep 728 One In A Million: Paper Planes & Lightening Strikes",
+      "published_at": "2025-10-29T03:00:00+00:00",
+      "link": null,
+      "description": "One In A Million is back! And in this great selection of messages, there’s tales about a golfing celebrity (with quip), a paper plane disaster, a treacle tart hat-trick, multiple lightening strikes and a remarkable family history find. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9579420144.mp3?updated=1761301300",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2086",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paper",
+        "planes",
+        "lightening",
+        "strikes"
+      ]
+    },
+    {
+      "key": "3e827009598c17a7fdd1043ff92bb1d41b86e269",
+      "title": "S13 Ep 727: Kit and Peter - Director and Producer of Clarkson’s Farm",
+      "published_at": "2025-10-28T03:00:00+00:00",
+      "link": null,
+      "description": "Following our recent episodes about loving Clarkson’s Farm, the director and producer of the show - Kit Lynch-Robinson and Peter Richardson - got in touch to say hello. David and Joe were absolutely chuffed and of course invited them onto the pod for a chat - and here they are! So settle in for a proper Chatabix deep dive into all things Jeremy Clarkson and his well loved TV show about running a farm in the Cotswold countryside. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1746406501.mp3?updated=1761301477",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4221",
+      "speakers": [
+        "Peter Director",
+        "Peter Richardson",
+        "Jeremy Clarkson",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "peter",
+        "director",
+        "producer",
+        "clarkson",
+        "farm"
+      ]
+    },
+    {
+      "key": "9c5bb66713603f785176c18c0dd2246d64665809",
+      "title": "S13 Ep 726 Vault Mondays: Joe Leads David Around The Fawlty Towers Set",
+      "published_at": "2025-10-27T03:00:00+00:00",
+      "link": null,
+      "description": "It’s archive time again. In this one, David closes his eyes and imagines walking round the Fawlty Towers set and then Joe talks about Open All Hours. First posted on 5th October 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8009318623.mp3?updated=1761301115",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1767",
+      "speakers": [
+        "Joe Leads",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "david",
+        "fawlty",
+        "towers"
+      ]
+    },
+    {
+      "key": "bf831d1a980075407024e59e770149676b71b92f",
+      "title": "S13 Ep 725: I Don’t Have A Boss - Part 2",
+      "published_at": "2025-10-23T02:00:00+00:00",
+      "link": null,
+      "description": "Following on from yesterday’s episode, it’s time for more chat about our old work bosses. Well, that was the plan but in true Chatabix fashion, David and Joe soon get diverted from the task at hand. So instead you can expect discussions about David’s old VHS copy of MMA fights, not doing much work as a petrol station attendant in the 90s, travel plans, Joe’s fears of Thailand and David’s long forgotten dreams about moving to Antigua. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7809483237.mp3?updated=1760973418",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2743",
+      "speakers": [
+        "David’s old",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "boss"
+      ]
+    },
+    {
+      "key": "28837d295fcbb0c0b699cf57cc3536300f52fb46",
+      "title": "S13 Ep 724: I Don’t Have A Boss - Part 1",
+      "published_at": "2025-10-22T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe’s chat for the first half of the episode includes podcast sponsorship, getting free stuff, abandoned hobbies, looking busy (whilst not being busy) and the smoke and mirrors involved in press releases. During all of which, Joe realises he doesn’t have an actual boss and really appreciates it. He then tells David about a Direct Debit that he’s unknowingly been paying for months. He reckons he’s been scammed and is absolutely furious about it! So David digs in for the full story… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4177718480.mp3?updated=1760719498",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3073",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "boss"
+      ]
+    },
+    {
+      "key": "01e0de75d62e1665a0f34bb96d4730a080cc39a9",
+      "title": "S13 Ep 723: More on our 'Magical Sitcom Tour' TV show",
+      "published_at": "2025-10-21T02:00:00+00:00",
+      "link": null,
+      "description": "After chatting about a dream David had the previous night and Joe discovering he’s much more confident recording intros to pods than the actual pods themselves - they soon realise they’ve nothing to talk about for the rest of the episode. So they return to discussing their new TV show and more specifically, what an emotional roller coaster ride the filming was for David. A heady mix of discomfort, then comfort, then discomfort about feeling comfortable about it - plus quite a bit of bickering with Joe too. So, all pretty much Chatabix business as usual then. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7263817833.mp3?updated=1760718702",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2389",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "magical",
+        "sitcom",
+        "tour"
+      ]
+    },
+    {
+      "key": "580b450c8f7de10a2a7fe5509a5dae91a4e53cc6",
+      "title": "S13 Ep 722 Vault Mondays: In The Shade and Sue",
+      "published_at": "2025-10-20T02:00:00+00:00",
+      "link": null,
+      "description": "Another episode straight from the Chatabix archives! And in this one, we chat about footballers showing off and listen to the song, In The Shade First posted on 3rd June 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8659507117.mp3?updated=1760718335",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2222",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "shade"
+      ]
+    },
+    {
+      "key": "93ce96cdb5a795fe31e059037d8587db00a57134",
+      "title": "S13 Ep 721 Listener’s Mailbag: Quips, Giggling and Lynley",
+      "published_at": "2025-10-17T02:00:00+00:00",
+      "link": null,
+      "description": "It’s about time we had another Mailbag episode - so here it is! We kick things off with a whole load of quips and also do some analysis of Joe’s constant giggling. Then read messages about Pottery Throw Down, teaching Joe about weed, a prank on Michaela Strachan’s TV show, a sneaky One In A Million, some Inspector Lynley info and a Totness one night stand. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8904521900.mp3?updated=1760639743",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1931",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Michaela Strachan’s TV",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "quip",
+        "giggling",
+        "lynley"
+      ]
+    },
+    {
+      "key": "53c6993dd9bbdfb5ec62fb631177dd867c84353d",
+      "title": "S13 Ep 720: Joe’s Celebrity Traitors Debrief - Episode 3 (includes spoilers)",
+      "published_at": "2025-10-16T14:20:00+00:00",
+      "link": null,
+      "description": "It’s Celebrity Traitors time again and hot off the press, here’s David and Joe’s debrief of last night’s Episode 3. So stand by for some high calibre Chatabix analysis of all the latest goings on in the castle - and hopefully some inside gossip too. Warning: these pods will contain spoilers about each specified episode of Celebrity Traitors, but definitely no more than that. So if you’re watching the show, please don’t listen to them until you’ve seen the episode in question. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5119437430.mp3?updated=1760624608",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1916",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "celebrity",
+        "traitors",
+        "debrief",
+        "spoiler"
+      ]
+    },
+    {
+      "key": "16cce2d753b1c1db9b299d9c1748e9780046ede8",
+      "title": "S13 Ep 719: Mark Bonnar’s Inspector Linley Dissection",
+      "published_at": "2025-10-15T02:00:00+00:00",
+      "link": null,
+      "description": "Well the wait is over as the brilliant actor Mark Bonnar finally join’s David and Joe to discuss all things Inspector Lynley. And most importantly, what he thought of David’s performance and behaviour on that fateful evening filming his scene in Series 6 Episode 2 of the show - Know Thine Enemy. As well as all that, he also chats about playing a killer on Taggart, working with Ridley Scott & Joaquin Phoenix on Napoleon, self-tapes, auditioning, dealing with rejection, David’s Midas-month and moody film-set technicians. It’s a proper Chatabix classic! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1651560036.mp3?updated=1760467799",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4761",
+      "speakers": [
+        "Mark Bonnar",
+        "Linley Dissection",
+        "David’s Midas",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mark",
+        "bonnar",
+        "inspector",
+        "linley",
+        "dissection"
+      ]
+    },
+    {
+      "key": "e0c4937cb307bcb2e9b4e1ad738b533c07863aeb",
+      "title": "S13 Ep 718: Our New TV Show",
+      "published_at": "2025-10-14T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe have just finished filming their new TV series for U&Gold, which will be out next year. They’ve been asked by the channel to record something about it on the podcast, which can then be used as promotion for the show. So David and Joe give it their best shot to concisely explain the premise, but are predictably un-nerved by the task and soon lose confidence in themselves. That's until Joe has the idea to ask the show’s producer James Fidler to join them on the Zoom call to help out with things. After which things run a lot more smoothly - thanks James! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6084736868.mp3?updated=1760375961",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3825",
+      "speakers": [
+        "James Fidler",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "04f7cb445f84280bc453b1c3ebdcee61161b9d05",
+      "title": "S13 Ep 717: Joe’s Celebrity Traitors Ep 2 Debrief with Mark Bonnar",
+      "published_at": "2025-10-13T22:18:00+00:00",
+      "link": null,
+      "description": "Well the second episode aired last week and for our next debrief, we’re joined by a very special guest - it’s Joe’s fellow Celebrity Traitor contestant Mark Bonnar! So it’s two insider insights for the price of one. Who says we never spoil you, buckle up for one heck of a Traitors extravaganza. Warning: these pods will contain spoilers about each specified episode of Celebrity Traitors, but definitely no more than that. So if you’re watching the show, please don’t listen to them until you’ve seen the episode in question. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2310318936.mp3?updated=1760393860",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1994",
+      "speakers": [
+        "Mark Bonnar",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "celebrity",
+        "traitors",
+        "debrief",
+        "mark",
+        "bonnar"
+      ]
+    },
+    {
+      "key": "40b64603b5da23b068cabd72c4d2e2f855439ba2",
+      "title": "S13 Ep 716 Vault Mondays: Guest - Colin Hoult",
+      "published_at": "2025-10-13T02:00:00+00:00",
+      "link": null,
+      "description": "In this old episode of pod, the lovely Colin Hoult joins us to chat about everything from buying a house and drinking too much red wine to winning an award at Edinburgh and performing as the wonderful Anna Mann. First posted on 12th October 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2997187910.mp3?updated=1760117282",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3889",
+      "speakers": [
+        "Colin Hoult",
+        "Anna Mann",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "colin",
+        "hoult"
+      ]
+    },
+    {
+      "key": "1c2371405e20f30cb82183342f80747d3f5be5fd",
+      "title": "S13 Ep 715: Joe’s Celebrity Traitors Debrief - Episode 1",
+      "published_at": "2025-10-09T15:00:00+00:00",
+      "link": null,
+      "description": "Yes that’s right, it’s the first of our Celebrity Traitors specials! The series kicked off last night and all the contestants have entered the infamous Traitors castle - including our very own Joe Wilkinson, of course. So from now until the game has reached its dramatic conclusion, David and Joe will be discussing each episode after it’s broadcast. Tune in to hear all the details and inside gossip that David can think to ask Joe about, plus plenty of the usual Chatabix diversions. Lovely stuff! Warning: these pods will contain spoilers about each specified episode of Celebrity Traitors, but definitely no more than that. So if you’re watching the show, please don’t listen to them until you’ve seen the episode in question. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7462628715.mp3?updated=1760020616",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3180",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "celebrity",
+        "traitors",
+        "debrief"
+      ]
+    },
+    {
+      "key": "4e07d0703833c75b257d2ba88045496932c38921",
+      "title": "S13 Ep 714: Back On The Farm",
+      "published_at": "2025-10-08T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s now watched two more episodes of Clarkson’s Farm - and is absolutely loving it! So he and David are back to discuss even more about the show and the man himself, Jeremy Clarkson. They’re both a little bit in awe of him but are now seriously regretting having a go at his Top Gear and Grand Tour shows. And wonder if they’ve blown their chances of him ever wanting to be a guest on Chatabix. Later in the show, they imagine what it would be like to appear on Clarkson’s Farm themselves and also come up with a plan to teach him about podcasting. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3402429959.mp3?updated=1759480558",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3187",
+      "speakers": [
+        "Jeremy Clarkson",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "farm"
+      ]
+    },
+    {
+      "key": "5764af42480feee9d80dba14b46b63b7d2c4a2f5",
+      "title": "S13 Ep 713: Joe’s started watching Clarkson’s Farm",
+      "published_at": "2025-10-07T02:00:00+00:00",
+      "link": null,
+      "description": "As you might well know, David is a fully committed member of the Clarkson’s Farm fan club - he thinks it’s just wonderfully cosy TV. But Joe wasn't convinced he’ll like it and in spite of David’s encouragement, still hadn't gotten around to giving it a go. That is until now, as he’s finally watched the first episode! So settle in for Joe’s full review - did he like it, will he watch more and will they ever manage to get Jeremy Clarkson to be a guest on the Chatabix? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1210681153.mp3?updated=1759480254",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3210",
+      "speakers": [
+        "Jeremy Clarkson",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "clarkson",
+        "farm"
+      ]
+    },
+    {
+      "key": "545c44242df05e83e9299313acca4c73ec49182f",
+      "title": "S13 Ep 712 Vault Mondays: How Rich Is Your Grandad?",
+      "published_at": "2025-10-06T02:00:00+00:00",
+      "link": null,
+      "description": "It’s archive episode time! And in this one, whilst David and Joe wait for their guest to turn up (who doesn’t) they have to think on their feet. First posted on 28th October 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9720163288.mp3?updated=1759480072",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2509",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "rich",
+        "grandad"
+      ]
+    },
+    {
+      "key": "9474e4ea77416afcb8f22842314c8a39b4c11d19",
+      "title": "S13 Ep 711: An Exit Survey and More One In A Million",
+      "published_at": "2025-10-02T02:00:00+00:00",
+      "link": null,
+      "description": "David’s recently discovered an ‘Exit Survey’ on the Chatabix Patreon account - which is a list of reasons both positive and negative that listeners have submitted when un-subscribing. So naturally he reads some of them to Joe. It’s all very revealing and leads them to think about what exactly listeners want from the pod. Then, in a complete change in direction, they decide to read some more One In A Million stories. It’s a bit of a mixed bag and they almost give up at one point, but thankfully there’s a few great ones in there to keep their spirits up. There’s also a brilliant story sent in by the one and only Jamie Demetriou - do not miss! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7331415531.mp3?updated=1758878279",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3477",
+      "speakers": [
+        "Jamie Demetriou",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "exit",
+        "survey"
+      ]
+    },
+    {
+      "key": "a7e5d1d3f847ae12657fcf33ab84cbefcf8d76fb",
+      "title": "S13 Ep 710: Compliments, Omelettes and Camping",
+      "published_at": "2025-10-01T02:00:00+00:00",
+      "link": null,
+      "description": "First up, some chat about an embarrassing compliment that David received recently, a lovely Crunch Crunch Joe got at his recent Park Run and how to best to cook an omelette. Then the talk returns to Joe’s wild camping plans. How are things progressing with the tent-buying, where is he going to do it and just how is he feeling about the whole idea now that he’s had a chance to let it settle in? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Patreon: ⁠https://chatabixshop.com/⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4129534697.mp3?updated=1758878290",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2459",
+      "speakers": [
+        "Park Run",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "compliment",
+        "omelettes",
+        "camping"
+      ]
+    },
+    {
+      "key": "cb170300a015324e7310f6b6ffe1a0889151a382",
+      "title": "S13 Ep 709: Shall I Wild Camp?",
+      "published_at": "2025-09-30T02:00:00+00:00",
+      "link": null,
+      "description": "Joe wants to go on a proper adventure for the podcast and possibly even record it to broadcast too. So he and David spend lot of today’s show coming up with ideas about what he might do. Then David suggests wild camping in the Ashdown Forest - which despite Joe’s many reservations, is the idea he decides to go for. So stay tuned for all the details and more importantly, find out if it will ever actually happen. Plus, there’s a cheeky little listener’s quip to end the show on. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://chatabixshop.com/ Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2067184189.mp3?updated=1758877859",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3448",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "wild",
+        "camp"
+      ]
+    },
+    {
+      "key": "c290b1af42037e3bd6e7fba39440df6aeaac9a38",
+      "title": "S13 Ep 708: The Day David Got Sacked From A Ch4 Sketch Show For Being Crap",
+      "published_at": "2025-09-29T02:00:00+00:00",
+      "link": null,
+      "description": "A not so random pick from the archives this week. As David’s sacking from the Spoons sketch show came up recently, we’re posting the old episode that we recorded about it. To find out more about that fateful day, we chatted to comedy producer and writer Neil Webster about why he had to fire David and why exactly he wasn't up to the job. First posted on 7th April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5983869196.mp3?updated=1758877547",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1617",
+      "speakers": [
+        "Sketch Show",
+        "Neil Webster",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "sketch",
+        "crap"
+      ]
+    },
+    {
+      "key": "e29201c6e69c5022e75513c81a510712ec73ea96",
+      "title": "S13 Ep 707: The Inspector Lynley Mark Bonnar Preamble Pt 2",
+      "published_at": "2025-09-25T02:00:00+00:00",
+      "link": null,
+      "description": "Following on from yesterday’s episode - and in preparation for their upcoming chat with Mark Bonnar about it - here’s yet more analysis of David’s performance on the Inspector Lynley Mysteries set. Just how god damn bad was he?! Plus, there’s talk about David’s sacking from Spoons, Joe’s first acting job on Him And Her and what it would be like to audition for Holby City. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3586932316.mp3?updated=1758715731",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2467",
+      "speakers": [
+        "Lynley Mark Bonnar",
+        "Mark Bonnar",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "inspector",
+        "lynley",
+        "mark",
+        "bonnar",
+        "preamble"
+      ]
+    },
+    {
+      "key": "2c53a1bf1bd94b46e7b9cf2d63d8fa3f94146105",
+      "title": "S13 Ep 706: The Inspector Lynley Mark Bonnar Preamble Pt 1",
+      "published_at": "2025-09-24T02:00:00+00:00",
+      "link": null,
+      "description": "It’s recently come to light that the wonderful actor Mark Bonnar appeared alongside David in his infamous Inspector Lynley Mysteries scene. So Joe, being a friend of Marks, has asked him to come on the pod to give his impression of how David behaved on the day. Was he really as nervous, time-waisting and rubbish at acting as David believes? The only problem is that Mark’s suddenly had to cancel and re-schedule the chat. So Joe and David take the opportunity to have a deep-dive into the whole Inspector Lynley experience - so much so that they had to make this episode a 2-parter. Part two coming tomorrow… Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9374120033.mp3?updated=1758714709",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2550",
+      "speakers": [
+        "Lynley Mark Bonnar",
+        "Mark Bonnar",
+        "Lynley Mysteries",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "inspector",
+        "lynley",
+        "mark",
+        "bonnar",
+        "preamble"
+      ]
+    },
+    {
+      "key": "6d6ec35bb14c94b43719a7800a32271084b35191",
+      "title": "S13 Ep 705: The Old Man on Dartmoor and Celebrating London",
+      "published_at": "2025-09-23T02:00:00+00:00",
+      "link": null,
+      "description": "David kicks things off by telling Joe about the lovely old man he met walking on Dartmoor the other day. But also how the man thought David was about 57, which didn’t go down so well. This leads both David and Joe to talking about their aging and looking older too. Then it’s onto old jobs and the time David worked as a runner in Soho - and how David really does’t like London. So there’s lots of chat about David’s many issues with the city and how he was pretty scared of Plumstead when he lived there. But eventually, after talking through the pros and cons, both of them realise that they actually quite like London and decide to celebrate it instead. Well, celebrate bits of it at least. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3150382043.mp3?updated=1758272088",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2898",
+      "speakers": [
+        "Celebrating London",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "dartmoor",
+        "celebrating",
+        "london"
+      ]
+    },
+    {
+      "key": "5ef89bcb938351c58a6a9c1b5c602d6a9489ae91",
+      "title": "S13 Ep 704 Vault Mondays: Deleted Files and Believe",
+      "published_at": "2025-09-22T02:00:00+00:00",
+      "link": null,
+      "description": "An archive show for the Chatabix diehards out there. In this one, the recording went wrong and so we got ready for work whilst playing a song called Believe from 1991. Congratulations if you make it to the end. First posted on June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8503652259.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1006",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "files"
+      ]
+    },
+    {
+      "key": "8abfacbee2d8e23125eb9045efe265639c362c69",
+      "title": "S13 Ep 703 Listener’s Mailbag: A Cross Cleaner and Bus Driver Quips",
+      "published_at": "2025-09-19T02:00:00+00:00",
+      "link": null,
+      "description": "In today’s Mailbag we have messages about a Chatabiscuit boyfriend, lots more funny names, getting told off by a no-nonsense cleaner at work, cheeky house viewings (from the owner's perspective), a pretty lame dating prank and a collection of superb pre-prepared quips used by a bus driver. Lovey stuff! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠ chatabix@yahoo.com ⁠⁠⁠ ⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2738430209.mp3?updated=1757596346",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1779",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "cross",
+        "cleaner",
+        "driver"
+      ]
+    },
+    {
+      "key": "3531e52d3bd8dca0159bcafd85a4f358f70e71d0",
+      "title": "S13 Ep 702: Reading Out Our Spotify Reviews",
+      "published_at": "2025-09-18T02:00:00+00:00",
+      "link": null,
+      "description": "Well this episode does exactly what it says on the tin. After a message about them from one of our Patreons, David’s decided he wants to use today’s show to read out some of the less than positive Chatabix reviews left on Spotify. And some nice ones too, of course. Joe’s not 100% sure it’s a good idea to do it on the pod - but is intrigued enough to give it a go. So settle in for half an hour of listener’s moans, compliments and complaints - it’s like Points Of View for podcasting. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠ chatabix@yahoo.com ⁠⁠ ⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5239821583.mp3?updated=1757596283",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2453",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "spotify",
+        "review"
+      ]
+    },
+    {
+      "key": "d0de784260a82d6504f763879f30f703584d5468",
+      "title": "S13 Ep 701: Filming Nerves and Grand Designs",
+      "published_at": "2025-09-17T02:00:00+00:00",
+      "link": null,
+      "description": "There’s lots to get through on today’s jam-packed episode. Firstly, Joe and David are starting filming on a new project tomorrow and David’s beginning to feel very anxious about it. Meanwhile, Joe was asked a pretty big favour from someone he doesn’t really know and is now feeling resentful about it. Then David reveals that over the weekend he met a man at the beach who he really got on with - and was then quickly dumped by him. Also, David has finally watched an episode of Grand Designs so he and Joe can now discuss the show and there’s some more chat about weed smoking. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠ chatabix@yahoo.com ⁠ ⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5117456798.mp3?updated=1757596177",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3544",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "filming",
+        "nerves",
+        "grand",
+        "designs"
+      ]
+    },
+    {
+      "key": "2e1377e7585df86c208e9e0b46da4fc83f6083df",
+      "title": "S13 Ep 700: More House Viewings and Not Being Ladish",
+      "published_at": "2025-09-16T02:00:00+00:00",
+      "link": null,
+      "description": "David’s been up to his sneaky house-viewing tricks again - and this time, he and Naomi loved the house and also the old couple who owned it. So Joe grills him once more about the what and why of it all and David ponders how big the decisions are when trying to find a new house. Then Joe wants to tell David about a really ‘laddie’ environment he found himself in recently and that even though he found it quite uncomfortable, he was determined not to join in. He reckons it’s a new-found confidence since turning 50. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5914563291.mp3?updated=1757596049",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3608",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "house",
+        "viewings"
+      ]
+    },
+    {
+      "key": "30ff83e26201a17f305d2fe3b88a61315ac1ce03",
+      "title": "S13 Ep 699 Vault Mondays: On Set and On a Train",
+      "published_at": "2025-09-15T02:00:00+00:00",
+      "link": null,
+      "description": "On today’s archive show, we chat about David's weight, being on the set of Afterlife, The Cockfields, Joe's ADR session, Celebrity Big Brother 2005, Needles and who our wives fancy. First posted on 5th May 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9751978318.mp3?updated=1757595867",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1931",
+      "speakers": [
+        "Celebrity Big Brother",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "train"
+      ]
+    },
+    {
+      "key": "0c6f76cda32340c6528202759a26a960cc033f6f",
+      "title": "S13 Ep 698 Listeners Mailbag: Dog Walkers and Groom’s Speeches",
+      "published_at": "2025-09-12T02:00:00+00:00",
+      "link": null,
+      "description": "It’s Friday, so it’s gotta be Mailbag time. And this week we read messages about an inconveniently named sex shop, some love from Switzerland, a very experienced weed-smoker, some great info about Blue Plaques, a very unconventional house sale, a selection of dog walking quips, a groom’s speech joke query and an anti-littering convert. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2568533622.mp3?updated=1757067428",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2301",
+      "speakers": [
+        "Groom’s Speeches",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "walkers",
+        "groom",
+        "speech"
+      ]
+    },
+    {
+      "key": "9f156443a4e77cec9601262d572c9d01b1f5664c",
+      "title": "S13 Ep 697: TV Joe’s Mastermind Quiz",
+      "published_at": "2025-09-11T02:00:00+00:00",
+      "link": null,
+      "description": "TV Joe is back with another of his superb quizzes - and this time it’s a Chatabix version of Mastermind. But before he puts David and Joe through their paces in the ultimate battle of the brains, he tells them about meeting Stevie Wonder recently and also Roy Hodgson - plus a bit of cricket chat too. Then it’s on with the quizzing as David and Joe pit their wits in both specialist subject and general knowledge rounds. It’s one of TV Joe’s tenses quizzes yet - who will be victorious and crowned the ultimate Chatabix Mastermind?! The link for TV Joe’s fundraising friend are… Alistair's 40 by 40 Instagram Alistair's 40 by 40 JustGiving FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9758733315.mp3?updated=1757067413",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3468",
+      "speakers": [
+        "Joe’s Mastermind Quiz",
+        "Stevie Wonder",
+        "Roy Hodgson plus",
+        "Chatabix Mastermind",
+        "Instagram Alistair",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mastermind",
+        "quiz"
+      ]
+    },
+    {
+      "key": "a561cc66994e6076f9a0ea0cc437ae01d6add284",
+      "title": "WWF CHARITY NIGHT IN SUSSEX",
+      "published_at": "2025-09-10T12:41:00+00:00",
+      "link": null,
+      "description": "My friend has organised this event to support the World Wildlife Fund in its efforts to create Ocean Sanctuaries. £25 a ticket and it all goes to the WWF (there is a £2.80 online ticket vendor's fee). The event runs on the 20th September at The Anchor Inn, Barcombe, East Sussex. Simply search for \"Wild by the River\" on the web, and you will find the ticketing website with all the necessary information. There will be four live bands/acts (Dynamite, Wild Estate, Dreamytime Escorts, and Francesca Morris), plus DJ Daft Kraft, an award-winning close-up Magician, and a costume artist on stilts roaming the crowd. There will be short, inspirational talks from The WWF, our local coastal heroes - Sussex Underwater and Greenpeace. There is free camping available on a first-come, first-served basis. Local businesses have also donated some auction items. Watch the movie, get inspired, go! Wild by the River. 20th September at The Anchor Inn, Barcombe, East Sussex. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7d1b3bea-8e43-11f0-9a69-bb64e22cf020/image/dde3dd68a65311063f5a2bff18d1e71a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5059341868.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "215",
+      "speakers": [
+        "Sussex Underwater",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "charity",
+        "night",
+        "sussex"
+      ]
+    },
+    {
+      "key": "5d6d8d7f2de237ac08098fb2d4ef0ea76f058e79",
+      "title": "S13 Ep 696: A 3 pack of assorted high-waisted briefs",
+      "published_at": "2025-09-10T02:00:00+00:00",
+      "link": null,
+      "description": "Huge Chatabix news - Joe has started wearing Y-fronts instead of boxers. So for the first part of today’s show, him and David discuss that and then read out some reviews of the M&S high-waisted briefs that he bought recently. Then they move onto talking about having guests on the pod again and the sort of people they’d like to talk to. They also reminisce about old TV programmes, talk about growing old and David gets Joe to re-tell his story about getting Beetroot stuck in his throat. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2605170596.mp3?updated=1757067292",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3339",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "pack",
+        "brief"
+      ]
+    },
+    {
+      "key": "05e3a3e1dc82790531472bd603ff10a658a01601",
+      "title": "S13 Ep 695 One In A Million: A Casino Win And A Shop Fire",
+      "published_at": "2025-09-09T02:00:00+00:00",
+      "link": null,
+      "description": "After the success of our recent episode reading out listener’s One In A Million stories - it’s time to do it again. So, a little unsure as to whether the quality will remain as high, David and Joe tentatively prepare for yet more amazing tales of bizarre flukes and very strange co-incidences. But they needn’t have worried, as amongst this week’s great selection of yarns is a very lucky casino win, a shop fire whist under the influence, a night-time encounter with a flying fish and repeat customers for a cabbie. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4686778781.mp3?updated=1757067052",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2031",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "casino",
+        "shop",
+        "fire"
+      ]
+    },
+    {
+      "key": "1a5fa5832b2aab636cbafa5dda27954cadb85bc0",
+      "title": "S13 Ep 694 Vault Monday: Our New TV Reviewer and The New Telly Addicts Game",
+      "published_at": "2025-09-08T02:00:00+00:00",
+      "link": null,
+      "description": "In this landmark episode from the Chatabix archives, which features the very first appearance of TV Joe, we chat about a Zoom link, why Joe is feeling low, TV reviews and play The Telly Addicts Game. First posted on 23 April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6513519076.mp3?updated=1757066922",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1628",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "monday",
+        "reviewer",
+        "telly",
+        "addicts",
+        "game"
+      ]
+    },
+    {
+      "key": "27991097afb127fa8faf831a02cec944b8bdfe8c",
+      "title": "S13 Ep 693 Listeners Mailbag: Haunted Pubs and a Chatabiscuit Dream",
+      "published_at": "2025-09-05T02:00:00+00:00",
+      "link": null,
+      "description": "Delving into our listener's mailbag once again, first we read a slightly annoying ’no I haven’t’ message, then answer emails about a spooky night at the Skirrid Inn in Wales, thanks from a new listener, a couple of childhood celebrity spots, meeting a Chatabiscuit in a dream, repeated phone thefts, a grandad quip and a safari one too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4263897174.mp3?updated=1756455836",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1779",
+      "speakers": [
+        "Listeners Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "haunted",
+        "pubs",
+        "chatabiscuit",
+        "dream"
+      ]
+    },
+    {
+      "key": "06adc6f8fef7d02a4f650f7cdb05a22ddab7c322",
+      "title": "S13 Ep 692: Knocking On Doors Again",
+      "published_at": "2025-09-04T02:00:00+00:00",
+      "link": null,
+      "description": "We kick off today’s show with more health and fitness chat - mainly about the mileage David does on his Peloton and the salad he had for lunch yesterday. Then David reveals to Joe that over the weekend that he and Naomi went out knocking on a few more doors of houses for sale, again without the all-important estate agent appointment. So Joe decides to get to the bottom of David’s reasoning behind such bold move. Plus, we find out how Joe is settling into his new house and if it feels like home yet, question whether are our episode lengths are too long and have a quick check of the charts. Well, it’s been a while. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3691383473.mp3?updated=1756457133",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3586",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "door"
+      ]
+    },
+    {
+      "key": "120376ae41ab2a3571807f6389aec9df3ed0bfb3",
+      "title": "S13 Ep 691: Joe’s Saliva Jet and Justin Hawkins Body",
+      "published_at": "2025-09-03T02:00:00+00:00",
+      "link": null,
+      "description": "For today’s topics of conversation, Joe suggests the strange jet of saliva that comes out of his mouth occasionally and an idea about opening a picture framing shop. But David would rather talk about the inch worm - a new exercise he’s doing as part of his morning workout. Which leads him to talk about losing weight and getting a flat stomach - yes, again. Plus, Joe’s biscuit addiction, what it’d be like to have Justin Hawkins body, David’s Pelaton statistics and a big tattoo of the Red Arrows. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6935711822.mp3?updated=1756455659",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3262",
+      "speakers": [
+        "Joe’s Saliva Jet",
+        "Justin Hawkins Body",
+        "Justin Hawkins",
+        "David’s Pelaton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "saliva",
+        "justin",
+        "hawkins",
+        "body"
+      ]
+    },
+    {
+      "key": "df68bead05fd4b18a1ef7e0c5ce20f6a73bd9882",
+      "title": "S13 Ep 690: One In A Million",
+      "published_at": "2025-09-02T02:00:00+00:00",
+      "link": null,
+      "description": "Following Joe’s recent story about the girl he saw on Brighton beach appearing in the newspaper the following day and his idea to find more ‘one in a million’ stories, David put a message on Patreon about it and loads of response have already been sent in. So sit back and relax as we read out a wonderful selection of your amazing stories of bizarre flukes, chance encounters and very strange co-incidences. And also some not so good ones too - enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2401876698.mp3?updated=1756455447",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3304",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "80187a7bc5ed82c32ef688b3317a37be62d3a47c",
+      "title": "S13 Ep 689 Vault Mondays: Driving Down To London",
+      "published_at": "2025-09-01T02:00:00+00:00",
+      "link": null,
+      "description": "Joe rings David for a chat whilst David is driving from Wales to London - Audio is poor, but give us a break. First posted on 19th April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7717027842.mp3?updated=1756455216",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1692",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "london"
+      ]
+    },
+    {
+      "key": "88678a4b38782bf4bd645a2b032890b2c77abdae",
+      "title": "S13 Ep 688 Listeners Mailbag: A Hotbox and A Tool Quiz",
+      "published_at": "2025-08-29T02:00:00+00:00",
+      "link": null,
+      "description": "It’s time for more of our listener’s emails. And on this week’s show, we have a career advisers inappropriate response to a funny name, a superb Spanish restaurant quip, Joe’s tactics on Last One Laughing, Cole Zero headaches, Cornish pastie crusts, Tyson Fury on The Tower Of Power, a bunking-off work excuse, a hot-boxing weed story and a ’Tool or Tool’ quiz to finish on. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3285587921.mp3?updated=1755872317",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2222",
+      "speakers": [
+        "Cole Zero",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "hotbox",
+        "tool",
+        "quiz"
+      ]
+    },
+    {
+      "key": "e142e4ee6e327652ddd92772efd74b59b7fa5e30",
+      "title": "S13 Ep 687: Bond Girls and Jersey Flights",
+      "published_at": "2025-08-28T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s mum has just re-connected with an old friend of hers, whom Joe is very keen to tell David about. It turns out she was as Bond Girl in the 80’s, appearing alongside Roger Moore in a very famous scene involving a magnetic watch. So for the first half of the episode there’s a lot of chat about that and Bond films in general. Then Joe remembers they were going to book David a flight to Jersey so he could visit the old cricket ground there where he scored a half century. So they attempt to book the tickets live on the pod, which takes the rest of the show to sort out. It’s absolutely riveting podding! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3550747685.mp3?updated=1755872272",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2753",
+      "speakers": [
+        "Roger Moore",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bond",
+        "girls",
+        "jersey",
+        "flights"
+      ]
+    },
+    {
+      "key": "c4e25a7acd4234dbb7a09309cf74c57d95204807",
+      "title": "S13 Ep 686: Joe’s Two ‘Manic Energy’ Stories",
+      "published_at": "2025-08-27T02:00:00+00:00",
+      "link": null,
+      "description": "David had two double expressos before starting today’s pod, so who knows where this one’s gonna go?! But once Joe's calmed him down a bit, he starts telling David about a young lady he sat next to on Brighton beach the other day with a very ‘manic energy’. And later, tells another longer story about a bizarre encounter he had in a pub a few years ago with a lady in a wedding dress - who had a very similar ‘manic energy’. Confused? Yes, David was a little too but it’ll hopefully all make sense in the end. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9924124907.mp3?updated=1755872114",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2986",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "manic",
+        "energy",
+        "story"
+      ]
+    },
+    {
+      "key": "69406e4de557294a0c3c9327aef62c721c386797",
+      "title": "S13 Ep 685: David Gets His Car MOT’d",
+      "published_at": "2025-08-26T02:00:00+00:00",
+      "link": null,
+      "description": "David’s off to get his car MOT’d this morning - so what better time to do some podding. We join David in his car driving to Exeter whist Joe’s at home in his office wondering if it’s a wise idea, considering Devon’s very patchy 5G signal. But of course they plough on undeterred. On the journey they mainly discuss Vodcasts and whether the trend will last. And once David arrives at the garage there’s a lot of whispering and trying to work out what the difference is between a hatchback and a SUV. As you’d expect, this is podding of the very highest calibre! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9818726194.mp3?updated=1755871782",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2294",
+      "speakers": [
+        "David Gets",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david"
+      ]
+    },
+    {
+      "key": "b2a40c48bb753f3f63c4b78b017f1958d0e1f676",
+      "title": "S13 Ep 684 Vault Mondays: Great Bodies and Twitter",
+      "published_at": "2025-08-25T02:00:00+00:00",
+      "link": null,
+      "description": "Vault episode time - and this week we’re talking about great bodies, and, mainly, why we tweet. First posted on 24th May 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5515325077.mp3?updated=1755871671",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2277",
+      "speakers": [
+        "Twitter Vault",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "great",
+        "bodies",
+        "twitter"
+      ]
+    },
+    {
+      "key": "b55e69cf916494819384e6380e6c8e52569305e4",
+      "title": "S13 Ep 683 Listeners Mailbag: Totally Distracted and A Funhouse Audition",
+      "published_at": "2025-08-22T02:00:00+00:00",
+      "link": null,
+      "description": "Before the guys have a chance to get started with today’s Mailbag, they get totally distracted by a photo sent in from a listener of Joe at the Pride Parade and the news that the actor Mark Bonnar was also in David’s Inspector Linley scene. But once that’s all dealt with, they read messages about a very exciting Funhouse audition at school, a clothes shop-owning weed smoker, some advice about playing 5-a-side football, a retro TV YouTube channel, a multi-purpose beard quip and spotting Greg Rusedski at a Genesis concert. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2050045949.mp3?updated=1755265509",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2037",
+      "speakers": [
+        "Listeners Mailbag",
+        "Mark Bonnar",
+        "Greg Rusedski",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "funhouse",
+        "audition"
+      ]
+    },
+    {
+      "key": "4d2314a0321579a436c48153ef7f74dfae66fbbe",
+      "title": "S13 Ep 682: Skateboarder Joe and The Terrorism Police",
+      "published_at": "2025-08-21T02:00:00+00:00",
+      "link": null,
+      "description": "Joe had a recent vigilante incident involving some teenage skateboarders that he really wants to tell David about. But before he can do that, David is shocked to learn that Joe used to skateboard in his youth - so that gets discussed immediately along with roller blading, roller discos and yo-yoing. David also tells Joe about some very quirky characters he came across in Totness the other day, before we finally get back to Joe’s vigilante story. And as if all that wasn’t enough, David finishes the episode by telling Joe about the time he had a run-in with some Gatwick airport counter-terrorism police. It was all very dramatic indeed! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8673040309.mp3?updated=1755265379",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3336",
+      "speakers": [
+        "Skateboarder Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "skateboarder",
+        "terrorism",
+        "police"
+      ]
+    },
+    {
+      "key": "24c558626d9008e1ce5c2ad4e3e30d170702d0b5",
+      "title": "S13 Ep 681: David’s Exercises and Joe’s Meatball Recipe",
+      "published_at": "2025-08-20T02:00:00+00:00",
+      "link": null,
+      "description": "David’s been settling in to a new exercise routine over the past few months, which he does with a personal trainer both in person and online. So he kicks off this episode by explaining to Joe what it exactly entails and demonstrating some of the moves - much to Joe’s amusement. Then later in the show they chat about getting good bodies (or not), eating regimes, Joe doing most of the cooking at home, how best to cook an omelet and the perfect recipe for meatballs - a la Wilkinson! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8817356301.mp3?updated=1755265098",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3352",
+      "speakers": [
+        "David’s Exercises",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "exercises",
+        "meatball",
+        "recipe"
+      ]
+    },
+    {
+      "key": "1d87374e090d4c065100256c167151876b222e33",
+      "title": "S13 Ep 680: Joe’s Kevin McCloud Type Jackets",
+      "published_at": "2025-08-19T02:00:00+00:00",
+      "link": null,
+      "description": "Joe has two Kevin McCloud type artists jackets which are a little out of his comfort zone - but he’s been wearing them a lot recently and now feels much more comfortable in them. That was until this morning when he saw someone wearing one (along with a Cornish fisherman’s hat) and is now really unsure about the whole look. So he asks David for some advice about it - which might not be that helpful at all?! They also chat about answering the phone in the nude, David’s linen trousers, delivering beds, read a nice review of the pod and get sent a lovely wedding photo with Joe in it. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4680454973.mp3?updated=1755264969",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2770",
+      "speakers": [
+        "Jackets Joe",
+        "Kevin McCloud",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "kevin",
+        "mccloud",
+        "type",
+        "jacket"
+      ]
+    },
+    {
+      "key": "047f2793a7be951e91d9bea7510e3d70332da710",
+      "title": "S13 Ep 679 Vault Mondays: Richard Webster - Kick Start Competitor, 1985",
+      "published_at": "2025-08-18T02:00:00+00:00",
+      "link": null,
+      "description": "It’s a great 80’s TV show themed vault ep today as we chat to Richard Webster - a Kick Start competitor from 1985. First posted on 7th March 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6751397842.mp3?updated=1755264291",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2480",
+      "speakers": [
+        "Start Competitor",
+        "Richard Webster",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "richard",
+        "webster",
+        "kick",
+        "start",
+        "competitor"
+      ]
+    },
+    {
+      "key": "cab09ff69ad07c6350c48311196f5f1c21dfbf27",
+      "title": "S13 Ep 678 Listener’s Mailbag: Stretford Paddock and MMU Massages",
+      "published_at": "2025-08-15T02:00:00+00:00",
+      "link": null,
+      "description": "It’s another great mailbag this weeks as we read messages about some Chatabix fans at the Stretford Paddock Man U YouTube channel, an embarrassing quip (and several others too), a query about David’s attitude to Joe’s MMU massage day, a trio of funny names, Bradley Walsh on The Chase, a Sir Winch-a-lot musical and more littering stories. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9601929195.mp3?updated=1754652062",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1886",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Joe’s Mmu",
+        "Bradley Walsh",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "stretford",
+        "paddock",
+        "massages"
+      ]
+    },
+    {
+      "key": "14a4ace87ad18bd1532691c8aa5c480114da9d4f",
+      "title": "S13 Ep 677: Canal Georgie Returns",
+      "published_at": "2025-08-14T02:00:00+00:00",
+      "link": null,
+      "description": "Our resident canal boat living Chatabiscuit Georgie is back on the pod to tell David and Joe more glorious tales from the towpath. And as it’s the height of summer, she’ll be filling them in on all the pleasures of a canal boat lifestyle when the weather’s warm and the sun is shining. And a bit about all the characters she’d been meeting on and off the water too. So settle back and relax for a wonderful hour of cosy canal chat - David and Joe are in heaven! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4422512812.mp3?updated=1754652174",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3973",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "georgie",
+        "return"
+      ]
+    },
+    {
+      "key": "4aed5d060f2dbc9d19c2d24fc41c89eaec64d4f3",
+      "title": "S13 Ep 676: Grumpy David and Joe at the Pride Parade",
+      "published_at": "2025-08-13T02:00:00+00:00",
+      "link": null,
+      "description": "It’s a grumpy David at the start of today’s show as he’s just found out his Peloton is broken and hasn’t been able to exercise this morning. So Joe tries to distract him by telling him about how much he enjoyed the Brighton Pride Parade recently and even had a little dance there. He also tells David about some art he’s just bought and a great new song he’s heard - all of which David doesn’t seem that interested in. But eventually he begins to cheer up a bit and they start nattering about lorries and lorry drivers, find out what other things Joe gets up to in Brighton and have a go at playing Mock The Week’s ‘most unlikely to hear at’ game. It’s a funny old episode but we get there in the end. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5407329106.mp3?updated=1754651953",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3870",
+      "speakers": [
+        "Grumpy David",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "grumpy",
+        "david",
+        "pride",
+        "parade"
+      ]
+    },
+    {
+      "key": "af738c6af52b43c8da307c66326868507321c752",
+      "title": "S13 Ep 675: A Mevagissey Morning and Retirement Plans",
+      "published_at": "2025-08-12T02:00:00+00:00",
+      "link": null,
+      "description": "Following his recent holiday in Cornwall, David wants to spend today’s show recounting a magical morning he had whilst staying in the small fishing town of Mevagissey. But it seems he’s going to have to go some way to convince Joe it’ll be interesting enough to fill an episode, for both him and the listeners. David’s undeterred and ploughs on regardless - sound effects and all! Also, having met several very contented retirees down by the harbour that day, David starts to wonder what he and Joe would do in their retirement? It turns out shop-keeping and allotment tending may well be on the cards for them. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2851623293.mp3?updated=1754651718",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3527",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mevagissey",
+        "morning",
+        "retirement",
+        "plan"
+      ]
+    },
+    {
+      "key": "b54ae880ec7e5917acf99bf3ae7ba25b716df1c2",
+      "title": "S13 Ep 674 Vault Mondays: Reading Out Cockfield Comments on Facebook and Pantomime Opportunities",
+      "published_at": "2025-08-11T02:00:00+00:00",
+      "link": null,
+      "description": "On this week’s vault show, we talk about running, read out shit comments and then talk about a possible pantomime opportunity. First posted on 10th November 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7296604996.mp3?updated=1754651463",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2260",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "cockfield",
+        "comment",
+        "facebook",
+        "pantomime",
+        "opportunity"
+      ]
+    },
+    {
+      "key": "7eebed3ea531d3eff15661e36bfab156669254b6",
+      "title": "S13 Ep 673 Listeners Mailbag: School Bands and David’s Wire Mill Gig",
+      "published_at": "2025-08-08T02:00:00+00:00",
+      "link": null,
+      "description": "On this week’s show, there’s emails about a rather out of date weatherman audition, a shite old school band, a long detour from David telling Joe about his last gig with The Colour Of Mary, tales of an early retirement and more silly names. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5582929249.mp3?updated=1754126750",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1941",
+      "speakers": [
+        "David’s Wire Mill",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "school",
+        "bands",
+        "david",
+        "wire",
+        "mill"
+      ]
+    },
+    {
+      "key": "71b66e5eaf433f883890b29b0fcc049f5e13f1b9",
+      "title": "S13 Ep 672: Summer Quip Special!",
+      "published_at": "2025-08-07T02:00:00+00:00",
+      "link": null,
+      "description": "That’s right you lucky listeners, for this very special episode Joe and David bring you a whole show dedicated to the finest quips that money can buy. And a few not so great examples too. So let’s celebrate the summer with a whole load of quipping - what better way to spend an hour! And thanks to all the Chatabiscuits who’ve been sending them into us - we couldn’t have done it without you. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9073707233.mp3?updated=1754126862",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3527",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "summer",
+        "quip",
+        "special"
+      ]
+    },
+    {
+      "key": "120a0dd5f61a960bb22cfa4ead4597ea74f1bf77",
+      "title": "S13 Ep 671: David’s Away and Joe’s in an Egg Chair",
+      "published_at": "2025-08-06T02:00:00+00:00",
+      "link": null,
+      "description": "Since moving house and recording in a new room, Joe’s sound quality for the pod really hasn’t been great. So for this episode, he’s sitting in an egg chair to see if that’ll improve things. Meanwhile, David’s away on holiday in Mevagissey which he loves, but has also visited some nearby towns which he really didn’t like. So they discuss all of that before their editor James joins them for a chat about Joe’s problematic audio. We also hear about the time David and Joe met Wet Leg (just before they got famous) and Joe tells us about a big bag of coins he took into a bank. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9790681177.mp3?updated=1754126620",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3402",
+      "speakers": [
+        "David’s Away",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "away",
+        "chair"
+      ]
+    },
+    {
+      "key": "fc4d67e796a83e0c5346e06e4cd2a86fd7f5bb63",
+      "title": "S13 Ep 670: David’s Second Incredible Fire Story",
+      "published_at": "2025-08-05T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s away again and guess what, he’s back in his car to record today’s pod. And after a little talking in French and chatting about going to see Princess Diana’s memorial flowers (yes, it’s quite the opener!), Joe asks David to tell the full story of him seeing a huge house fire, which he started recounting in a previous ep. So stay tuned for all the detail of his dramatic story - where more things than just a house went up in smoke that night. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9197172504.mp3?updated=1754125993",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2746",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "second",
+        "incredible",
+        "fire",
+        "story"
+      ]
+    },
+    {
+      "key": "1f279c57318873093aa69fbb0a4a3d8d75bbc5de",
+      "title": "S13 Ep 669 Vault Mondays: The Day David Was Crap On The Inspector Linley Mysteries",
+      "published_at": "2025-08-04T02:00:00+00:00",
+      "link": null,
+      "description": "It’s another episode from the Chata-vaults and in this one, we chat about David's appalling acting in The Inspector Lynley Mysteries First posted on 21st April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4600498387.mp3?updated=1754125781",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1792",
+      "speakers": [
+        "Linley Mysteries",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "david",
+        "crap",
+        "inspector",
+        "linley",
+        "mysteries"
+      ]
+    },
+    {
+      "key": "a2bb40bc83d5187e03bdea9ce5cfcdfe679e89e2",
+      "title": "S13 Ep 668 Listeners Mailbag: Funny Names and Spotting Swingers",
+      "published_at": "2025-08-01T02:00:00+00:00",
+      "link": null,
+      "description": "On today’s show, there’s messages about penpals, favourite comical names, quipping when very tired, a knitting Chatabiscuit, spotting the signs of swinger activity, sex shops on the A1, a Gladiator sighting and meeting a footballing hero. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2059324847.mp3?updated=1753938092",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1632",
+      "speakers": [
+        "Listeners Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "funny",
+        "names",
+        "spotting",
+        "swinger"
+      ]
+    },
+    {
+      "key": "5a8e04974ebde6da59cde5cf4edc76f79e18c7ce",
+      "title": "S13 Ep 667: David Calls The Fire Brigade",
+      "published_at": "2025-07-31T02:00:00+00:00",
+      "link": null,
+      "description": "Late the other night, David noticed a very strange burning smell in his lounge. Perplexed at where it was coming from and concerned for his family’s safety, he consulted various things like ChatGTP and The National Grid for help. But eventually he called the fire brigade and they soon arrived to get to the bottom of things. So stay tuned to find out what happened and if disaster was avoided?! Plus, there’s some chat about David seeing a house fire in his early 20’s and Joe stopping a drunk driver outside his house. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9031126502.mp3?updated=1753929431",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2541",
+      "speakers": [
+        "David Calls",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "fire",
+        "brigade"
+      ]
+    },
+    {
+      "key": "e9b04286fb21daf68e6d311e9068077c74751171",
+      "title": "S13 Ep 666: Joe’s Brand New Home Pt 2",
+      "published_at": "2025-07-30T02:00:00+00:00",
+      "link": null,
+      "description": "Following on from the previous episode, we return to Joe’s house-moving tales after he’s just discovered he’s got the bin day wrong - one of the many pleasures of getting used to a new home. So settle back and relax as he tell’s David even more about his past few weeks activities. There’s chat about spending lots of money (and saving it too), the jeopardy of property chains, saying goodbye to the old house and meeting the new neighbours. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9582383125.mp3?updated=1753945885",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3141",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "brand",
+        "home"
+      ]
+    },
+    {
+      "key": "1995b25aae90e83375efef7f7be463680df27904",
+      "title": "S13 Ep 665: Joe’s Brand New Home Pt 1",
+      "published_at": "2025-07-29T02:00:00+00:00",
+      "link": null,
+      "description": "You’ll never guess - Joe has just moved house! So him and Petra are now happily unpacking, getting comfortable in their new home and exploring the neighbourhood. And in true Chatabix fashion, David wants to know absolutely every thing about it - from finding the house and selling their old place, to how the move went and how exactly Joe and Petra are feeling now. There’s lots to discuss, so part 2 is coming tomorrow… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9258376165.mp3?updated=1753937288",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2477",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "brand",
+        "home"
+      ]
+    },
+    {
+      "key": "fea986d251b190248bb536fe12eccf0c797db267",
+      "title": "S13 Ep 664 Vault Mondays: Feeling Thick and Bed Bases",
+      "published_at": "2025-07-28T02:00:00+00:00",
+      "link": null,
+      "description": "Time for another repeat of a golden oldie episode. And in this one, the lads chat about feeling really thick all their life and then David tells Joe about the base he’s getting built for his bed. First posted on 9th September 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2183174317.mp3?updated=1753927154",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2102",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "basis"
+      ]
+    },
+    {
+      "key": "b48b681cbc7bdd940323bdf84c081aac99f2031b",
+      "title": "S13 Ep 663 Listeners Mailbag: One Night Stands and A Quip Rampage",
+      "published_at": "2025-07-25T02:00:00+00:00",
+      "link": null,
+      "description": "In this weeks mailbag we read messages about Cliff Richard’s Wired For Sound, meeting Alan Carr, an embarrassing one night stand, a non-farting masseuse, a quip rampage, compilation albums, pot-head complaints and a beautiful quip at an X Factor live show. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9961143943.mp3?updated=1753927483",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1941",
+      "speakers": [
+        "Alan Carr",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "night",
+        "quip",
+        "rampage"
+      ]
+    },
+    {
+      "key": "f3f5bd302ce59be53a751967d3c8ad74e9ec23ee",
+      "title": "S13 Ep 662: Prank Videos & Through The Keyhole",
+      "published_at": "2025-07-24T02:00:00+00:00",
+      "link": null,
+      "description": "We kick off today’s episode with some more discussion about Joe’s letter being read out on the Stick To Football pod and David’s continuing tummy troubles. After that, David tells Joe about the time in his 20’s when he made silly pranking videos with his mates, Joe remembers some early comedy routines and they both run through a few new format ideas for the pod. Joe then reveals a shocking secret about Through The Keyhole - and they play an impromptu game of it too. Lovely stuff. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9829690192.mp3?updated=1753926480",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3006",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "prank",
+        "videos",
+        "keyhole"
+      ]
+    },
+    {
+      "key": "b7c63a611f3638d01d1b5893013b6d957d5ff87c",
+      "title": "S13 Ep 661: Joe’s Boisterous Scaffolders",
+      "published_at": "2025-07-23T02:00:00+00:00",
+      "link": null,
+      "description": "As Joe and Petra’s house had a leak in its roof, they’d recently arranged for scaffolding to be put up for repairs to be done. The only problem was that when the scaffolders arrived to do it, Petra was out and Joe really wasn’t sure what needed to be done. He also found the whole experience very unsettling as the guys were incredibly energetic and noisy - and also recognised him from the TV. So sit back and relax as David enjoys every squirming minute of Joe recounting his very awkward afternoon. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3143434222.mp3?updated=1753936997",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2552",
+      "speakers": [
+        "Joe’s Boisterous Scaffolders",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "boisterous",
+        "scaffolders"
+      ]
+    },
+    {
+      "key": "5fa9fa16eb8c336d579990123b82c8ef341209af",
+      "title": "S13 Ep 660: Property TV and Tour Shows",
+      "published_at": "2025-07-22T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s still away and in his car again to record the pod. And once David’s had a little worry about his behaviour on yesterday’s episode, Joe explains what one of his favourite ways to spend a day is and David tells him about a recent quip that he’d like some feedback on. Then it’s some chat about conversational segues, Love It Or List It and other property TV shows, Joe appearing on Gogglebox and David’s old stand-up tour. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8893667980.mp3?updated=1753921261",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2003",
+      "speakers": [
+        "David’s old",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "property",
+        "tour",
+        "show"
+      ]
+    },
+    {
+      "key": "556832f959f6e7512e28c435007f0013138f5a43",
+      "title": "S13 Ep 659 Vault Mondays: Working Out Our Roles On The Podcast",
+      "published_at": "2025-07-21T02:00:00+00:00",
+      "link": null,
+      "description": "It’s time for an old episode repeat - and in this one, we chatted about the imbalance of our roles. First posted on 31st May 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5498207166.mp3?updated=1753945726",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2863",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "roles",
+        "podcast"
+      ]
+    },
+    {
+      "key": "773ea6c9d494d3aa2e0d3073c748b450d06ed0c8",
+      "title": "S13 Ep 658 Listener’s Mailbag: Snake Catchers and True Crime Pods",
+      "published_at": "2025-07-18T02:00:00+00:00",
+      "link": null,
+      "description": "Happy Friday everyone! And on today's show, pulled from our mailbag are messages about a shower room quip, a snake catcher (and a phone call to him in Australia), prostate problems, a game show name, another Blue Plaque, a True Crime podcast guest suggestion, living in a camper van and a quick pub joke to end on. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5920918279.mp3?updated=1752494121",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1837",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "snake",
+        "catchers",
+        "true",
+        "crime"
+      ]
+    },
+    {
+      "key": "147e2f7dd28200ad9d9d105838f0cc448de0ca61",
+      "title": "S13 Ep 657: A See-Through Blouse and The Town Game",
+      "published_at": "2025-07-16T02:00:00+00:00",
+      "link": null,
+      "description": "In today’s packed episode, there’s chat about Joe being away (and podding from his car), yet more tummy troubles, a lady in a see-through blouse that David saw on Totnes bridge recently, Joe’s old family holidays, lovely seaside homes and a whole host of stories about colourful characters that Joe and David have met whilst living in Brighton. They also have an impromptu game of ‘do you know anything about this town?’, chat about Noel Edmonds new TV show and work out how they’d deal with being filmed all the time for a TV show. This is Chatabix drivel at its finest - or in David’s words, ‘quite a good ep actually, 6.5 out of 10’. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5915578653.mp3?updated=1752493978",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3297",
+      "speakers": [
+        "Noel Edmonds",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "blouse",
+        "town",
+        "game"
+      ]
+    },
+    {
+      "key": "ebddd125396dbbc2b3bc0c44cdf20f05758c01f2",
+      "title": "S13 Ep 656 Vault Mondays: Blackadder Impressions and Going Quiet",
+      "published_at": "2025-07-14T02:00:00+00:00",
+      "link": null,
+      "description": "In this old show from way back in 2021, David does impressions of Rick Mayall and then loses motivation again. First posted on 8th December 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7247485551.mp3?updated=1752316972",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1840",
+      "speakers": [
+        "Going Quiet",
+        "Rick Mayall",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "blackadder",
+        "impressions"
+      ]
+    },
+    {
+      "key": "3930b3df37cfabd615c68b8d78facaa05ca1e465",
+      "title": "S13 Ep 655 Listener’s Mailbag: Animal Songs and Cranleigh Celebs",
+      "published_at": "2025-07-11T02:00:00+00:00",
+      "link": null,
+      "description": "It’s Friday - so it must be Mailbag time! And this week we’ve massage about early retirement, David’s bum, a song about animals from 2021, a great gardening quip, recording Judy Dench at her home, rude names, turning 50, multiple celeb spots in Cranleigh and plenty more. Enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4151108876.mp3?updated=1751621749",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1685",
+      "speakers": [
+        "Listener’s Mailbag",
+        "David’s bum",
+        "Judy Dench",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "animal",
+        "songs",
+        "cranleigh",
+        "celebs"
+      ]
+    },
+    {
+      "key": "e3a53ee42517b771162daddaf4a4951393346765",
+      "title": "S13 Ep 654: Being Frosty and Very Busy Pubs",
+      "published_at": "2025-07-10T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s builders have broken a light, so before recording the pod he gave them the frosty treatment when they arrived to fix it. Well, sort of - because when David questions him on the details, he doesn’t sound that convinced about how he handled it. Moving on, David then tells Joe about being embarrassed when he listened back to one of their recent episodes, explains that he’s still got a bit of a dodgy tummy and recounts a recent family meal in a very busy pub that he had to abandon because of it. Then the two of them discuss more old jobs they used to have, like cleaning offices and being a barman. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5571937974.mp3?updated=1751621684",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3263",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "frosty"
+      ]
+    },
+    {
+      "key": "ea443824a1679f03be7bae387231a8ab75ccd74e",
+      "title": "S13 Ep 653: Tummy Trouble and Young Crushes",
+      "published_at": "2025-07-09T02:00:00+00:00",
+      "link": null,
+      "description": "David’s feeling a little off today and thinks he might be getting some tummy trouble. So Joe takes the conversational lead and tells him about wanting to be liked by people, inspired by seeing his gym instructor getting a nice compliment from a customer. Then David has an idea to tell Joe about his Inspector Lindley audition, in as much detail as possible. The only problem is, Joe reckons David’s told that story on the pod plenty of times before. But he kicks off regardless, before quickly being completely sidetracked talking about the nasty old couple he gardened for at the time and the girl he really fancied when he was 12, who lived in the same area. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9996872351.mp3?updated=1751621504",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2769",
+      "speakers": [
+        "Young Crushes",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tummy",
+        "trouble",
+        "young",
+        "crushes"
+      ]
+    },
+    {
+      "key": "90ad9da589ae20a1575c3240109721db7bf70ca8",
+      "title": "S13 Ep 652: Joe At The Beach And The Stick Incident",
+      "published_at": "2025-07-08T02:00:00+00:00",
+      "link": null,
+      "description": "To kick today’s episode off, Joe’s gone down to the beach for a swim. So David joins him there on Zoom and gives us a running commentary about how Joe’s getting on in the sea. It’s a lovely way to start the show - but the two of them soon loose confidence in the idea and Joe returns home to continue the episode. Once there, he recounts a recent shameful incident to David involving his car and a very drunk person with a stick. The two of them then remember a few other stories about loosing their rags and seeing the ‘red mist’. It’s all very embarrassing indeed. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1514947037.mp3?updated=1751621783",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2954",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "beach",
+        "stick",
+        "incident"
+      ]
+    },
+    {
+      "key": "4db2d0829dbfc24503163999e548c919f162f03a",
+      "title": "S13 Ep 651 Vault Mondays: Battle Of The Bands and Mid Life Crisis",
+      "published_at": "2025-07-07T02:00:00+00:00",
+      "link": null,
+      "description": "We chat about the kettle, David attempting to write songs, the battle of the bands, Joe's childhood and Travis Perkins. First posted on 27th July 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3044178983.mp3?updated=1751621079",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1860",
+      "speakers": [
+        "Travis Perkins",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "battle",
+        "bands",
+        "life",
+        "crisis"
+      ]
+    },
+    {
+      "key": "2c91b97ceabacf35fdb7de69462900750b2c43c1",
+      "title": "S13 Ep 650 Listener’s Mailbag: Billy Ocean and Wacaday",
+      "published_at": "2025-07-04T02:00:00+00:00",
+      "link": null,
+      "description": "This week, we’ve got messages about cold-call house viewings, doing drugs (which sends Joe off on one), a Billy Ocean concert, more gardeners and weed smokers, a quip that might not actually be a quip, some mystery tunnels in Kibworth, a few local celebrities, a visit to the Wacaday set and a submission for ‘finding the funny’. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8303818977.mp3?updated=1751015520",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2152",
+      "speakers": [
+        "Billy Ocean",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "billy",
+        "ocean",
+        "wacaday"
+      ]
+    },
+    {
+      "key": "02e5071fc7a96c8194df79d1a4567855b531c8a0",
+      "title": "S13 Ep 649: David’s Cricket Story (Part B) and Joe’s Footie Try-Outs",
+      "published_at": "2025-07-03T02:00:00+00:00",
+      "link": null,
+      "description": "So here it is, the conclusion of David’s wonderful story about the summer in his teens when he played cricket for Sussex. We pick things up with him at the crease for an important tour match in Jersey. Then, after that’s all wrapped up, Joe the tells David about the time he very unexpectedly got himself a try-out at his local semi-pro football club. This is an episode absolute bursting at the seems with sporting potential! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7626830238.mp3?updated=1751015436",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2152",
+      "speakers": [
+        "David’s Cricket Story",
+        "Joe’s Footie Try-Outs",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "cricket",
+        "story",
+        "footie"
+      ]
+    },
+    {
+      "key": "d106db5223c60090a542a8c47a44340b3a2ced20",
+      "title": "S13 Ep 648: Celebrating The Pod and David’s Cricket Story (Part A)",
+      "published_at": "2025-07-02T02:00:00+00:00",
+      "link": null,
+      "description": "On today’s show, Joe wants to celebrate their podcast. So him and David both count their blessings about how much they enjoy doing it and come up with some new ideas for it too. First up is ‘We Did Wednesdays’, where David goes out to experience something new and then reports back on the pod about it. And to get the ball rolling, he books in a visit to Agatha Christie’s house. Then David wants to tell Joe about how proud he is to have played cricket for Sussex as a teenager. So sit back and relax as he weaves another of his magical tales - the conclusion of which will be in tomorrow’s episode (you know how these things go). FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8273454079.mp3?updated=1751015342",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3355",
+      "speakers": [
+        "David’s Cricket Story",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "cricket",
+        "story"
+      ]
+    },
+    {
+      "key": "7be7287c333adc948de17f3d1fe70b7afa9c71aa",
+      "title": "S13 Ep 647: Crunch Crunches and Opening A Clothes Shop",
+      "published_at": "2025-07-01T02:00:00+00:00",
+      "link": null,
+      "description": "Amongst the very varied subjects on today’s show, Joe and David discuss smoking weed (again), going to the Queens tennis tournament, getting some lovely Crunch Crunches, what type of men David likes, opening a clothes shop and really enjoying looking around women’s clothes stores. That’s Chatabix for you! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6706648010.mp3?updated=1751015212",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3210",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "crunch",
+        "crunches",
+        "opening",
+        "clothes",
+        "shop"
+      ]
+    },
+    {
+      "key": "a8b0f0c3ef86a9313a695a902de62957d0356cb2",
+      "title": "S13 Ep 646 Vault Mondays: Gravestones and Sniffing",
+      "published_at": "2025-06-30T02:00:00+00:00",
+      "link": null,
+      "description": "Straight from the Chatavaults - and in this one, David chats about the Beach Bomber and Joe chats about gas. First posted on 3rd October 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4966636880.mp3?updated=1751015014",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1659",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "gravestone"
+      ]
+    },
+    {
+      "key": "c93fb3ca3f3b504b383b6e3d643ec6c8f480cfb3",
+      "title": "S13 Ep 645 Listener’s Mailbag: Dog Fouling and a Top Tier Quip",
+      "published_at": "2025-06-27T02:00:00+00:00",
+      "link": null,
+      "description": "From this weeks mailbag, we read messages about Jasper Carrot, Rod Stewart and Henry Coopers brothers, a Diet Coke warning, some dog fouling - which leads to a long conversation about Joe’s vigilante-ism - and a top tier quip on a cruise ship. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ TikTok: ⁠⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4483238964.mp3?updated=1750941502",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1438",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Jasper Carrot",
+        "Rod Stewart",
+        "Henry Coopers",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "fouling",
+        "tier",
+        "quip"
+      ]
+    },
+    {
+      "key": "a348104a0a4f46385e537ed42d28ebae930e1f44",
+      "title": "S13 Ep 644 - EMERGENCY - Joe's Email Is Read Out On Stick To Football Podcast",
+      "published_at": "2025-06-26T10:39:00+00:00",
+      "link": null,
+      "description": "Joe and David get together to react to the news that Joe's email was read out today on the STICK TO FOOTBALL podcast - and they're beside themselves. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠ https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠ https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠ https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠ https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠ chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e452bfe6-5279-11f0-bd45-0f4bd3268d73/image/912763b1dbe3ad6336bbd4a86bb60190.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8398021776.mp3?updated=1750941482",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1222",
+      "speakers": [
+        "Emergency Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "email",
+        "stick",
+        "football",
+        "podcast"
+      ]
+    },
+    {
+      "key": "35c4023a207d353cd3849525901b4f48955c8340",
+      "title": "S13 Ep 643: Reunion Debrief and Shiatsu Massage",
+      "published_at": "2025-06-26T02:00:00+00:00",
+      "link": null,
+      "description": "Joe recently went to the reunion with his office pals who he worked with in Surrey in the late 90’s, which he spoke about on the pod a few weeks ago. He had a great evening and there’s lots to tell David about - but it’s seems like David’s only really interested in how much older everyone looked and how many of them had got fatter. Then in another blast from the past, David tells David about the time in his early 20’s when he studied Shiatsu massage - which totally blows Joes mind! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ TikTok: ⁠⁠⁠https://www.tiktok.com/@chatabix⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1448631770.mp3?updated=1750500923",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3019",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "reunion",
+        "debrief",
+        "shiatsu",
+        "massage"
+      ]
+    },
+    {
+      "key": "de71086132f2667147b7a54b8a5f073bb16930ce",
+      "title": "S13 Ep 642: TV Joe’s Name That TV Theme Tune",
+      "published_at": "2025-06-25T02:00:00+00:00",
+      "link": null,
+      "description": "TV Joe is back with a brand new quiz. Well, it’s actually an old one but with a lovely television twist - Names That Tune for 90’s TV theme tunes. Lovely stuff. But before they start the game, David and Joe chat about being called famous by strangers and George Clooney’s height - then have catch up with TV Joe, discuss a bit of football and get some great TV recommendations too. It’s a wonderful way to spend an hour! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ TikTok: ⁠⁠https://www.tiktok.com/@chatabix⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1972765623.mp3?updated=1750502028",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3654",
+      "speakers": [
+        "Joe’s Name",
+        "George Clooney",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "theme",
+        "tune"
+      ]
+    },
+    {
+      "key": "ce1776f05d3257c719368a29c7c3b10ad275f337",
+      "title": "S13 Ep 641: Home Alone And The Craft Fair Affair",
+      "published_at": "2025-06-24T02:00:00+00:00",
+      "link": null,
+      "description": "David’s wife Naomi is going away for six days, leaving David to look after the kids and home all on his own. It’s not something he’s particularly looking forward to, especially the first night which always makes him feel very lonely indeed. So he talks that all through with Joe and then reveals that as a prank, Naomi got one of her friends to invite him to a craft fair while she’s away to make him feel uncomfortable, trying to suggest that she fancies him. Even though David quickly realised it was a joke, it leads him and Joe to wonder how he would have behaved if it had all been for real. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ TikTok: ⁠https://www.tiktok.com/@chatabix⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3033039246.mp3?updated=1750500652",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2435",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "home",
+        "craft",
+        "fair",
+        "affair"
+      ]
+    },
+    {
+      "key": "5de37c36f21dcf0f36e9b872d90ff2d12ca2240f",
+      "title": "S13 Ep 640 Vault Mondays: Gas",
+      "published_at": "2025-06-23T02:00:00+00:00",
+      "link": null,
+      "description": "Straight from the Chatavaults - and in this one, David chats about the Beach Bomber and Joe chats about gas. First posted on 3rd October 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ TikTok: https://www.tiktok.com/@chatabix Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8633633978.mp3?updated=1750500518",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1925",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays"
+      ]
+    },
+    {
+      "key": "8826375b23d5ee29dfee85392a4141748b9ba55d",
+      "title": "S13 Ep 639 Listener’s Mailbag: Celeb Meets and Teaching Podding",
+      "published_at": "2025-06-20T02:00:00+00:00",
+      "link": null,
+      "description": "Time to reach into the Chatabix Mailbag again. And this time, David and Joe read messages about an encounter with a cheeky celebrity, teaching podcasting to school children, a Blue Plaque and a dirty joke. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3985305198.mp3?updated=1749831491",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1307",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "celeb",
+        "meets",
+        "teaching",
+        "podding"
+      ]
+    },
+    {
+      "key": "81aea2c6c432bc60fba982d09e9fa83c0b4f89ff",
+      "title": "S13 Ep 638: Majorca Part B",
+      "published_at": "2025-06-19T02:00:00+00:00",
+      "link": null,
+      "description": "In this episode, David is whisking us back to Majorca to tell us more about his lovely holidays there at the all-inclusive hotel resort. And he’s got plenty more points on the list of things he made while there that he wants to discuss with Joe. Which include - wanting to become a waiter, living a more relaxed life, opinions on thongs, not belonging in England, scary night time toilet trips and a mystery topic that David’s too embarrassed to read out on the pod. So he texts it to Joe instead. It’s all inclusio!! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5166933131.mp3?updated=1749831620",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3455",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "majorca"
+      ]
+    },
+    {
+      "key": "e7e531ad38f26c9c8fa528004daed64a1b9cf582",
+      "title": "S13 Ep 637: Rob Beckett Returns",
+      "published_at": "2025-06-18T02:00:00+00:00",
+      "link": null,
+      "description": "It’s a return visit to Chatabix for the wonderful Rob Beckett, who first joined us on the pod way back in 2022. And this time, David and Joe have lots of new questions to ask him. Top of that list is what it was like being on Celebrity Gladiators earlier this year, where he competed against Joel Dommett. How high were the platforms, how fast was the travelator, how fun were the balls to hold and just how big are those Gladiators??? But before all that, they also find time to chat about keeping in shape, being one of the biggest podcasters in the UK, dealing with fame and being on Last One Laughing with Joe. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1157814879.mp3?updated=1749831300",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3303",
+      "speakers": [
+        "Rob Beckett Returns",
+        "Rob Beckett",
+        "Joel Dommett",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "beckett",
+        "return"
+      ]
+    },
+    {
+      "key": "e7cc109d9b06e41539e9e99e9b0bf2a20d302513",
+      "title": "S13 Ep 636: Early Starts and A Squashed Flight To Majorca",
+      "published_at": "2025-06-17T02:00:00+00:00",
+      "link": null,
+      "description": "Over the past few months, David’s been getting up at 5 am to start working and wants to tell Joe about how much he’s been loving it. So much so, he’s buzzing! All of which Joe finds a little confusing, but he’s very happy for David that he’s being so productive. Moving on, David’s also recently back from a week’s family holiday in Majorca and made loads of notes while there of things that happened that he wants to discuss. The first of which is the very squashed seats he had on the flight out there. Buckle up, this episode is about to depart! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7354143441.mp3?updated=1749831188",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3318",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "starts",
+        "flight",
+        "majorca"
+      ]
+    },
+    {
+      "key": "0d6b3bf96c4488b2b8ce7a462ff16906eb0447b7",
+      "title": "S13 Ep 635 Vault Mondays: Widecombe In The Moor",
+      "published_at": "2025-06-16T02:00:00+00:00",
+      "link": null,
+      "description": "In this archive episode, David takes Joe for a journey up to Widecombe In The Moor. Wild horses, old ramblers and cream teas. First posted on 18th November 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7030721242.mp3?updated=1749830855",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2102",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "widecombe",
+        "moor"
+      ]
+    },
+    {
+      "key": "7903e1a37995dc6737761c8709898205fcf9bf45",
+      "title": "S13 Ep 634 Listener’s Mailbag: Old Bands and A Quick Quip",
+      "published_at": "2025-06-13T02:00:00+00:00",
+      "link": null,
+      "description": "In this week’s mailbag, David and Joe read a message about a friend’s old band called The Leading Edge, who played with Tears For Fear in the 80’s. This sparks off a long conversation about making music, being successful at it and some of the names that the teenage David considered for his band - pretty much at the expense of any other emails. That’s Mailbag for you! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6668384427.mp3?updated=1749207967",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1533",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "bands",
+        "quick",
+        "quip"
+      ]
+    },
+    {
+      "key": "b92b763466b225c6a0eba6235bfec7d77263e2a3",
+      "title": "S13 Ep 633: Joe’s Old Work Photos",
+      "published_at": "2025-06-12T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s going to a reunion with some of his very old pals from an office he worked at in Surrey in the late 90’s. And before they all meet, one of them has sent them some photos from the time, which really takes Joe back and gets him feeling very nostalgic. Or should that be melancholic? Either way, he’s giving off a very weird energy which David definitely wants to find out more about. So settle back and enjoy one of our strangest episodes yet. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8463612460.mp3?updated=1749207677",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3115",
+      "speakers": [
+        "Photos Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "work",
+        "photo"
+      ]
+    },
+    {
+      "key": "82e75a70ca390a0d6f21dfa45a7d0a3fa5ea74af",
+      "title": "S13 Ep 632: What’s It Like To Have A Hangover?",
+      "published_at": "2025-06-11T02:00:00+00:00",
+      "link": null,
+      "description": "David was on the Gin & Tonics last night watching the football with his family and now has a pretty bad hangover to deal with. So it’s anyone’s guess how this episode will go - but Joe does his best to keep things on track for us. Stay tuned to find out what happens and if Joe manages to get David to take some Asprins. If the conversation flags too much though, they always have Joe’s good old book of quips to save the day. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5521426680.mp3?updated=1749207459",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2829",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "hangover"
+      ]
+    },
+    {
+      "key": "1900d8cdafa4139f210eb03b133d82536b75f819",
+      "title": "S13 Ep 631: Sneaky House Viewings",
+      "published_at": "2025-06-10T02:00:00+00:00",
+      "link": null,
+      "description": "David and his wife Naomi have recently done some sneaky viewings of homes for sale just by knocking on the door and having a chat with the owners. They’re bypassing those pesky estate agents completely and loving it. Joe however, who really likes the idea of having a snoop around other peoples houses, doesn’t think it’s a good idea at all - let alone safe!? So, David decides it’s time to convince him otherwise. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5918780013.mp3?updated=1749207358",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2881",
+      "speakers": [
+        "Viewings David",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "sneaky",
+        "house",
+        "viewings"
+      ]
+    },
+    {
+      "key": "df428ae66a15b3662bbf681f634b8f2b97694156",
+      "title": "S13 Ep 630 Vault Mondays: Paul Heaton Working In Redhill and Struggling",
+      "published_at": "2025-06-09T02:00:00+00:00",
+      "link": null,
+      "description": "Vault episode time! In this episode we talk about Joe morphing into his Dad, Paul Heaton working in Redhill, David struggling with Vodafone and a shit Cockfields review from series 1 First posted on 3rd November 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3806070248.mp3?updated=1749207076",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2373",
+      "speakers": [
+        "Paul Heaton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "paul",
+        "heaton",
+        "working",
+        "redhill"
+      ]
+    },
+    {
+      "key": "2bc67c0417f0a6f94cb4b308cc2851fafd12e249",
+      "title": "S13 Ep 629 Listeners Mailbag: Armando and A Portable Ashtray",
+      "published_at": "2025-06-06T02:00:00+00:00",
+      "link": null,
+      "description": "This week, we read messages about a Crunch Crunch opportunity with Armando Iannucci, appropriate farts, a portable ashtray user, Fuck The Suits, Laurence Llewelyn-Bowen’s clothes, Judy Dench (again), not listening to Chatabix in the mornings, more jokes, a few quips and another selection of pot-heads. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2904729036.mp3?updated=1748592633",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1755",
+      "speakers": [
+        "Armando Iannucci",
+        "Laurence Llewelyn-Bowen",
+        "Judy Dench",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "armando",
+        "portable",
+        "ashtray"
+      ]
+    },
+    {
+      "key": "de37a42b45b4861411cb388ba55909f81fa66d58",
+      "title": "S13 Ep 628: Mersea Island vs Wild Camping",
+      "published_at": "2025-06-05T02:00:00+00:00",
+      "link": null,
+      "description": "After a quick chat about helping out around the house more, Joe wants to talk to David about the TV crime documentary he watched last night, which was set on Mersea Island in Essex. But David then remembers he’s not yet told Joe about his wild camping trip to Sheepstor on Dartmoor, which he absolutely loved. The question is though, will Joe be interested in it enough to chat about it for the rest of the episode - or does he just want to talk about Mersea Island? Plus, in a bizarre left turn, they finish the episode off with a chat about sex shops. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3271749116.mp3?updated=1748592616",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3853",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mersea",
+        "island",
+        "wild",
+        "camping"
+      ]
+    },
+    {
+      "key": "bac24ff20a6416f88cf943c740274a4e49d848be",
+      "title": "S12 Ep 627: All-Inclusive Holidays and Whispering",
+      "published_at": "2025-06-04T02:00:00+00:00",
+      "link": null,
+      "description": "David’s considering an all-inclusive summer holiday for him and his family this year. But he’s really not too sure about it and wants to get Joe’s thoughts on the matter. The only problem is that Joe’s having to whisper (as Petra is asleep next door) and David’s finding it pretty hard to hear him. So as you can imagine, the conversation flows wonderfully! But they do manage to reach a conclusion on his idea eventually - and also fit in some other chat about quipping, being unsettled by TV programs and what it’d be like to interview Robert De Niro. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5902551496.mp3?updated=1748592601",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2580",
+      "speakers": [
+        "All-Inclusive Holidays",
+        "Robert De Niro",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "inclusive",
+        "holidays",
+        "whispering"
+      ]
+    },
+    {
+      "key": "12626fa3a1c069c18d665df25b1f1d5e380f8e64",
+      "title": "S12 Ep 626: Volunteering and Being A Prat",
+      "published_at": "2025-06-03T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s starting some volunteering work which involves a bit of running, so he tells David about that. He’s also wondering if a friend of his thinks he’s a bit of a prat - so they have a deep dive into all that too. Plus, Joe’s new phone app, David does some impressions and they chat about Swatch watches and confident people they knew at school. Classic Chatabix drivel - lovely! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2529927719.mp3?updated=1748592581",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2606",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "volunteering",
+        "prat"
+      ]
+    },
+    {
+      "key": "42cccc3061c961b9a8b723ebdb978324da8bd929",
+      "title": "S12 Ep 625 Vault Mondays: Guest - Goldie",
+      "published_at": "2025-06-02T02:00:00+00:00",
+      "link": null,
+      "description": "That’s right, it’s a special guest vault episode - Goldie joins David and Joe to chat about Buckingham Palace's gravel and banana cake. First posted on 7th December 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Twitter: https://twitter.com/chatabix1 Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8706086072.mp3?updated=1748592564",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4783",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "goldie"
+      ]
+    },
+    {
+      "key": "28adfc6b6ad38e6c9235851fb8b4a0f62b0d2275",
+      "title": "S12 Ep 624 Listener’s Mailbag: Gardeners And Magicians",
+      "published_at": "2025-05-30T02:00:00+00:00",
+      "link": null,
+      "description": "Amongst this weeks messages, we hear from a happy gardener in The Isle of Man, a magician at a speed-awareness course, send a birthday message to a Swedish Chatabiscuit, then read out a few old pub jokes and a bunch more quips too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠⁠ Insta: ⁠⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠⁠ Patreon: ⁠⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠⁠ Merch: ⁠⁠⁠⁠https://chatabixshop.com/⁠⁠⁠⁠ Contact us: ⁠⁠⁠⁠chatabix@yahoo.com⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4956911998.mp3?updated=1748592548",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1488",
+      "speakers": [
+        "chatabix Insta",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "gardeners",
+        "magicians"
+      ]
+    },
+    {
+      "key": "0ae1ea742ac8283fedc50e83eaa45c45fdacc307",
+      "title": "S12 Ep 623: David’s Clapham Wood Challenge",
+      "published_at": "2025-05-29T02:00:00+00:00",
+      "link": null,
+      "description": "Following Joe’s failed attempt to ride Hyperia at Thorpe Park, David wants to convince Joe that visiting haunted woods and castles are just as scary as going on a roller-coaster. So knowing that Joe lives quite near to Clapham Wood - a renowned site of ghosts, ghouls and creepy goings on, David sets about telling him everything about the place to get him properly spooked. And then challenges him to visit there in the dead of night. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠⁠ Twitter: ⁠⁠⁠https://twitter.com/chatabix1⁠⁠⁠ Insta: ⁠⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠⁠ Patreon: ⁠⁠⁠https://www.patreon.com/chatabix⁠⁠⁠ Merch: ⁠⁠⁠https://chatabixshop.com/⁠⁠⁠ Contact us: ⁠⁠⁠chatabix@yahoo.com⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5635445296.mp3?updated=1748157744",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2380",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "clapham",
+        "wood",
+        "challenge"
+      ]
+    },
+    {
+      "key": "3e0877dfb74e669db9b95fa6b4629f7fedc80bb0",
+      "title": "S12 Ep 622: The Rotten Cherry",
+      "published_at": "2025-05-28T02:00:00+00:00",
+      "link": null,
+      "description": "In the previous episode, David and Joe promised you an extra ‘cherry-on-top’ for their Thorpe Park Hyperia Roller Coaster ride debrief. So here it is - albeit a slightly rotten little cherry. Apologies in advance for Joe’s poor location audio. Enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8845044620.mp3?updated=1748157315",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1325",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "rotten",
+        "cherry"
+      ]
+    },
+    {
+      "key": "6580299c9788fa646a0b7ed46fbe323798fcccc2",
+      "title": "S12 Ep 621: Thorpe Park Debrief",
+      "published_at": "2025-05-27T02:00:00+00:00",
+      "link": null,
+      "description": "The day of Joe’s long awaited trip to Thorpe Park has finally arrived and he's made his way there to ride the dreaded Hyperia - Britain’s tallest and fastest roller coaster! What will happen, how will he cope with the nerves and how will he feel after such an exhilarating/petrifying experience. Well, not everything goes quite as planned, in more ways than one. So stay tuned for the full debrief… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠ chatabix@yahoo.com ⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7776339523.mp3?updated=1748323499",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2584",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "thorpe",
+        "park",
+        "debrief"
+      ]
+    },
+    {
+      "key": "61e1a82daa71d0492758056f5e7505a2ab04c91a",
+      "title": "S12 Ep 620 Vault Mondays: A Day In The Life Of Polperro Joe",
+      "published_at": "2025-05-26T02:00:00+00:00",
+      "link": null,
+      "description": "It’s time to revisit another old Chatabix episode. And in this one, as Joe lived in Polperro for 4 months, he tells David about his perfect day there. First posted on 22nd September 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5466057101.mp3?updated=1748156952",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3320",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "life",
+        "polperro"
+      ]
+    },
+    {
+      "key": "e80132a5f3171dbf60f8aa1dd634794b25d55bc8",
+      "title": "S12 Ep 619 Listener’s Mailbag: A Letter From Oz and Pot Smokers",
+      "published_at": "2025-05-23T02:00:00+00:00",
+      "link": null,
+      "description": "It’s Mailbag time! And Joe kicks off the show with a very special letter from a Chatabix listener in Australia about Ronnie Barker. That’s followed by messages about an embarrassing encounter with an American sports legend, another littering story, a whole bunch of emails from pot smokers and a load more quips. Lovely! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8821807236.mp3?updated=1747478099",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1858",
+      "speakers": [
+        "Ronnie Barker",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "letter",
+        "smokers"
+      ]
+    },
+    {
+      "key": "ee98a763ccb3926c2be4e116b16523ce27189411",
+      "title": "S12 Ep 618: TV Joe’s Straight Road Of Fibs Quiz",
+      "published_at": "2025-05-22T02:00:00+00:00",
+      "link": null,
+      "description": "It’s about that time for some more TV Joe - and for this episode he’s brought a brand new quiz with him. Essentially, it’s a copy of the Bridge Of Lies TV game show - but with a twist. So there’s David answering questions about Chortle comedians, Joe trying to remember Chatabix episode titles and the two of them battling it out over true or false Patreon's names. Plus, there’s also time for some TV reviews and a couple of sports quizzes from David too. It’s a right quiz-a-thon! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1228036293.mp3?updated=1747478102",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3275",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "straight",
+        "road",
+        "fibs",
+        "quiz"
+      ]
+    },
+    {
+      "key": "b88d3b0ded64ee0fda4e4a1da82b9f14cd8591e5",
+      "title": "S12 Ep 617: David At The Gym and The Gladiators",
+      "published_at": "2025-05-21T02:00:00+00:00",
+      "link": null,
+      "description": "After joining the gym a while back, David’s finally started using it and Joe wants to know how he’s getting on. As you might expect, David’s a little reluctant to speak about it - but Joe tries his best anyway and we do eventually get some details. Then, in a clever avoidance move, David starts talking about The Gladiators, which he’s loving at the moment. And before you know it, they’ve invented a quiz about the show to test how much of a fan David actually is. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5269184331.mp3?updated=1747477737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2636",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "gladiator"
+      ]
+    },
+    {
+      "key": "7aa1a2613d945da71e0ae85362694ae8e02c6888",
+      "title": "S12 Ep 616: The Countdown Set and Listing Celebrity Sightings",
+      "published_at": "2025-05-20T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s still in Manchester, filming for Cats Does Countdown. So in this episode, David tries to get Joe to tell him about the famous Countdown set and what exactly happens during a recording of the show. Joe’s a little over-tired though, so isn’t particularly receptive to David’s questioning. But when the subject of all the famous people he’s seen at the studios comes up, the two of them get much more animated. So they them embark on a game of ‘Celebrities I’ve Seen’, which last for the rest of the episode. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4251734994.mp3?updated=1747477421",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3226",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "countdown",
+        "listing",
+        "celebrity",
+        "sightings"
+      ]
+    },
+    {
+      "key": "aa43d93b2a0cfe4fc5952368fd8c916965367d47",
+      "title": "S12 Ep 615 Vault Mondays: In The Army Now and No Pubes",
+      "published_at": "2025-05-19T02:00:00+00:00",
+      "link": null,
+      "description": "A golden oldie from the archives - David and Joe chat about Status Quo's In The Army Now and then David tells Joe about a girl he fell in love with at school. First posted on 30th September 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3993087127.mp3?updated=1747925477",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2018",
+      "speakers": [
+        "Status Quo",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "army",
+        "pubes"
+      ]
+    },
+    {
+      "key": "a4afdc1c54ffeea5e2d624da9371ab7d8da421d7",
+      "title": "S12 Ep 614: Saying Hi To Colin Jackson",
+      "published_at": "2025-05-15T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s been filming in Manchester for the past few days and with so much going on there, he wants to use today’s episode to tell David everything that’s happened. Well, that was the plan. But when he kicks things off with an embarrassing story about saying hello to Olympic-star Colin Jackson in his hotel restaurant, things very quick get de-railed. After a bit of digging from David, it turns out Joe’s insecurities about turning 50 are far from over and the dissecting of that takes up most of the rest of the show. Then, in a shock announcement to end things on, David reveals that he wants to start do stand-up again. We certainly didn’t see that one coming! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2449615594.mp3?updated=1746778557",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3212",
+      "speakers": [
+        "Saying Hi",
+        "Colin Jackson",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "colin",
+        "jackson"
+      ]
+    },
+    {
+      "key": "584848ace2954f391ab1fec70286a8257caad76b",
+      "title": "S12 Ep 613: Charlie Fish",
+      "published_at": "2025-05-14T02:00:00+00:00",
+      "link": null,
+      "description": "David bough £55 of fish from a door-to-door salesman last night. And even though he found the fella very trustworthy and also took his telephone number - now in David’s phone as ‘Charlie Fish’ - he’s now wondering if it might have been some sort of scam? So him and Joe run though all the possibilities, before discussing a number of con-artists that Joe’s come across in the past. It’s a right old scam-fest. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9103192755.mp3?updated=1746778588",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2888",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "charlie",
+        "fish"
+      ]
+    },
+    {
+      "key": "03e34db3a58a609db231d35f37a38a46740c1bb3",
+      "title": "S12 Ep 612: Joe on the Chris Moyles Show",
+      "published_at": "2025-05-13T02:00:00+00:00",
+      "link": null,
+      "description": "After a couple of frustrating minutes texting about things they can’t talk about on the pod, David asks Joe about his recent appearance on the Chris Moyles Radio X Breakfast Show. Being such a fan of Chris, David wants to know everything about the experience and especially how Joe managed to remain so comfortable with it all. Which somewhat predictably makes Joe feel very uncomfortable for the majority of this episode. YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9047813187.mp3?updated=1746778152",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3048",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "chris",
+        "moyles"
+      ]
+    },
+    {
+      "key": "fba4c68b76c650f369aee91c2700187b3e93bd11",
+      "title": "S12 Ep 611 Vault Mondays: Ben Rufus Green and an old copy of Playboy",
+      "published_at": "2025-05-12T02:00:00+00:00",
+      "link": null,
+      "description": "Chata-vaults time! And apologies in advance as the audio is pretty ropey on this one. Friend of the pod Ben Rufus Green pops on and chats about his new podcast Metro Retro and Joe regrets showing David and Ben an old copy of playboy. First posted on 14th June 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9656068748.mp3?updated=1748159439",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1973",
+      "speakers": [
+        "Ben Rufus Green",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "rufus",
+        "green",
+        "copy",
+        "playboy"
+      ]
+    },
+    {
+      "key": "e9172cfae1bc6218f4da25ad528a0bf481f2282f",
+      "title": "S12 Ep 610: Giving Up Five-A-Side and His & Hers Training",
+      "published_at": "2025-05-08T02:00:00+00:00",
+      "link": null,
+      "description": "After a tough evening at his five-a-side footie match last night, Joe’s again wondering if it’s time to hang up his boots. Is it all now too physically demanding on his 50 year old body? Which leads him and David to wondering about the general markers of ageing and what, if anything, they can do to hold them back. Well, David’s started doing daily morning yoga and Peloton exercises with his wife - so that’s definitely something Joe wants to know more about. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠⁠https://www.youtube.com/@chatabixpodcast⁠⁠ Twitter: ⁠⁠https://twitter.com/chatabix1⁠⁠ Insta: ⁠⁠https://www.instagram.com/chatabixpodcast/⁠⁠ Patreon: ⁠⁠https://www.patreon.com/chatabix⁠⁠ Merch: ⁠⁠https://chatabixshop.com/⁠⁠ Contact us: ⁠⁠chatabix@yahoo.com⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9968165016.mp3?updated=1746435162",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2110",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "training"
+      ]
+    },
+    {
+      "key": "534e52882e13f9e3c0113cfe25c8577204ef60a3",
+      "title": "S12 Ep 609: Feeling Low and Doing Scouse Accents",
+      "published_at": "2025-05-07T02:00:00+00:00",
+      "link": null,
+      "description": "David’s in a bit of a mood this morning and feeling pretty low. So to cheer him up, Joe tells him about the great time he had recently at a Comic Relief charity tennis match. Which seems to work, eventually. Then in other news, they talk about finding ‘chore days’ really satisfying, try to work out if they are any good at Scouse accents and finish things off with some introspection about why they pod. Well, it’s been a while. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: ⁠https://www.youtube.com/@chatabixpodcast⁠ Twitter: ⁠https://twitter.com/chatabix1⁠ Insta: ⁠https://www.instagram.com/chatabixpodcast/⁠ Patreon: ⁠https://www.patreon.com/chatabix⁠ Merch: ⁠https://chatabixshop.com/⁠ Contact us: ⁠chatabix@yahoo.com⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5970772915.mp3?updated=1746434780",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2379",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "scouse",
+        "accent"
+      ]
+    },
+    {
+      "key": "1d11f0a7c8131c24b4aeff62440f073f98864220",
+      "title": "S12 Ep 608: Wheel Of Fortune",
+      "published_at": "2025-05-06T02:00:00+00:00",
+      "link": null,
+      "description": "After an indecisive start to the show, David and Joe invent a ‘Wheel Of Fortune’ type game to select a topic to talk about. David then comes up with three things he reckons might be interesting to chat about - 1) planning his family’s driving holiday around Europe, 2) impulsively joining a gym, and 3) his thumbnail coming off after shutting it in the car door a few weeks ago. So let’s spin that wheel and see which conversational cul-de-sac fate takes us down first. Joe also find some time amongst all that to talk about the podcast charts, again. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4831062700.mp3?updated=1746434653",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2339",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "wheel",
+        "fortune"
+      ]
+    },
+    {
+      "key": "6c60fb83d163691b2cbf8e126b74337bb976d756",
+      "title": "S12 Ep 607 Vault Mondays: Recording Our Advert For Our Patreon",
+      "published_at": "2025-05-05T02:00:00+00:00",
+      "link": null,
+      "description": "It's another episode dug out from our extensive archives. And in this one, we try and record our advert for our Patreon and we get to know our new horse. First posted on 25th April 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2576885744.mp3?updated=1745576049",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2364",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "advert",
+        "patreon"
+      ]
+    },
+    {
+      "key": "40b2549d64a23cf3ed7b58bb7e3ba0194f1beb2f",
+      "title": "NATALIE PALAMIDES - ADVERT ADVERT ADVERT",
+      "published_at": "2025-05-01T08:06:00+00:00",
+      "link": null,
+      "description": "Weer - SoHo Theatre Walthamstow She is the funniest person. May 2nd - 10th 8pm https://sohotheatre.com/events/natalie-palamides-weer-3/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1929134064.mp3?updated=1746087097",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "227",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "natalie",
+        "palamides",
+        "advert"
+      ]
+    },
+    {
+      "key": "395421b7b21370f7eb66ee3db612c830ef6d0a72",
+      "title": "S12 Ep 606: Feeling Great and More MMUs",
+      "published_at": "2025-05-01T02:00:00+00:00",
+      "link": null,
+      "description": "David’s in a brilliant mood this morning (ie. he’s had 2 double expressos), which slightly wrong-foots Joe to begin with. He’s just been doing some household chores and is really not as upbeat as David. So the pod's all a little imbalanced for the first 15 mins or so. Then Joe realises that with David in this mood, it’s a great time to ask him again about his attitude to MMUs, hoping for a better response than last time. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4328632232.mp3?updated=1745568426",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2457",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "5a25d7a0d3e1bbc4eeb5729f1de78a1bb95df91e",
+      "title": "S12 Ep 605: David’s Birthday and Buying Clothes",
+      "published_at": "2025-04-30T02:00:00+00:00",
+      "link": null,
+      "description": "It was David’s 51st Birthday recently, so Joe kicks things off by finding out what he got up to and what presents he was given. It turns out that one gift was a shirt, which was a little too ‘Woodcuttery’ for David’s liking. So the chat soon turns to buying clothes, for both themselves and their other halves, which all gets a little heated. They also talk about discomfort when rummaging in clothes shops, being bad at small-talk, David looking into moving again and some listener feedback on the MMU’s. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7043043143.mp3?updated=1745575900",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2736",
+      "speakers": [
+        "David’s Birthday",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "birthday",
+        "clothe"
+      ]
+    },
+    {
+      "key": "d252dfccd5b7980b30989a6d103b7d23642ec88e",
+      "title": "S12 Ep 604: Joe’s MMU Go-Karting",
+      "published_at": "2025-04-29T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s just completed his most recent Mystery Meet Up, which was an evening of Go-Kart racing. So David digs in to find out what Joe thought of it and how well he performed on the track. It turns out it was a great success - but that doesn’t stop David from pulling Joe’s leg about it, a lot. Then in other news, David’s arranged to go to a football match with one of his Coffee Dude mates and he also gives Joe an update on the superb massage that he had yesterday. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1387873299.mp3?updated=1745566374",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2886",
+      "speakers": [
+        "Mystery Meet",
+        "Coffee Dude",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "1de078054d4fe73b6466cfaa01dc037ede64bf82",
+      "title": "S12 Ep 603 Vault Mondays: The Bathroom and Bong Bong The Cow",
+      "published_at": "2025-04-28T02:00:00+00:00",
+      "link": null,
+      "description": "Time for another episode from our Chata-vaults. In this one, we chat about Joe's problem with my toilet, play Through The Keyhole, Honk The Mole and Bong Bong The Cow First posted on 14th June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2816180926.mp3?updated=1745568392",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Bong Bong",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "bathroom",
+        "bong"
+      ]
+    },
+    {
+      "key": "b50ed2454f5e28dd268b42da205517354110ac9f",
+      "title": "S12 Ep 602 Listener’s Mailbag: Chatabiscuit Jingles and Ronnie Barker’s Letter",
+      "published_at": "2025-04-25T02:00:00+00:00",
+      "link": null,
+      "description": "Digging deep into the Chatabix mailbag, this week we read messages about a pre-planned bollock quip, a couple of celebrity interactions, some theme tune jingles written by a Chatabiscuit, a very special letter received from Ronny Barker and a littering story that ended in a fine. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2487753777.mp3?updated=1744801866",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2056",
+      "speakers": [
+        "Ronnie Barker’s Letter Digging",
+        "Ronny Barker",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "chatabiscuit",
+        "jingles",
+        "ronnie",
+        "barker",
+        "letter"
+      ]
+    },
+    {
+      "key": "7cdb91a4256bb986622f020c5ae88dc0a6c187d9",
+      "title": "S12 Ep 601: A Curry Quiz and Farting Masseuses",
+      "published_at": "2025-04-24T02:00:00+00:00",
+      "link": null,
+      "description": "David’s been away visiting family and stayed in a triangular-shaped AirBnB last night, so he kicks off the show by explaining that all to Joe. Their chat then soon wanders off into a very mixed bag of topics, such as keeping positive in conversations, enthusiastic early morning radio DJs, an impromptu curry quiz, some reminiscing about strange local characters, David’s upcoming massage and Joe’s complete disinterest in ever having one. Classic Chatabix drivel. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6942130595.mp3?updated=1744802366",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3075",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "curry",
+        "quiz",
+        "farting",
+        "masseuses"
+      ]
+    },
+    {
+      "key": "50e153bbe6ed70e0092c680c3f88e6d27741c2f0",
+      "title": "S12 Ep 600: David’s Bad B&Q Attitude",
+      "published_at": "2025-04-23T02:00:00+00:00",
+      "link": null,
+      "description": "David’s realised he takes on a strange persona whenever he’s in a DIY shop or garden centre, which is something his wife Naomi picked up on recently when they were at their local B&Q. He thinks it might be connected to his old job as a gardener and what little knowledge from that time he’s managed to retain. Suffice to say, he really doesn’t like who he becomes in these situations - but it’s something that Joe very much enjoys hearing about on today’s pod. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8668060708.mp3?updated=1744801634",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2675",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "attitude"
+      ]
+    },
+    {
+      "key": "02db9bf55b7ec224d404f3e1cec76187d301ccee",
+      "title": "S12 Ep 599: Joe’s Tennis Court Opening",
+      "published_at": "2025-04-22T02:00:00+00:00",
+      "link": null,
+      "description": "Joe was recently invited to host the opening of some new tennis courts near to where he lives - and with his bold new ‘helping out in the community’ attitude, he enthusiastically accepted. So as that’s now happened, David wants to hear all the details from Joe and find out if he managed to maintain his positivity throughout the day. Spoiler alert, he didn’t feel hugely comfortable with the big comedy scissors he was given to cut the ribbon with. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7807869777.mp3?updated=1744801599",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2614",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tennis",
+        "court",
+        "opening"
+      ]
+    },
+    {
+      "key": "0e9f9bab2051fb318dd118845406f4481dfe46ff",
+      "title": "S12 Ep 598 Vault Monday’s: The Talent Agency Pilot",
+      "published_at": "2025-04-21T02:00:00+00:00",
+      "link": null,
+      "description": "In this old episode from the archives, we couldn't record a Chatabix on that morning - so thought we'd upload a pilot of a new podcast idea. First posted on 12th April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9180588014.mp3?updated=1744802107",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2584",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "monday",
+        "talent",
+        "agency",
+        "pilot"
+      ]
+    },
+    {
+      "key": "8ea47f1298b76ffcae3454f92b826023f3982d03",
+      "title": "S12 Ep 597 Listener’s Mailbag: Happy Happy Girl and Beach Huts",
+      "published_at": "2025-04-18T02:00:00+00:00",
+      "link": null,
+      "description": "On this week's show, we read emails about getting told off as an adult, a paid for cover version of Happy Happy Girl, a secret tunnel under Gillingham, a very interesting farm leaflet, an edible munching CEO, beach hut repairs and lot a praise for Joe. Plus a very confusing quip to end on. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9444955630.mp3?updated=1744377988",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1694",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "happy",
+        "girl",
+        "beach",
+        "huts"
+      ]
+    },
+    {
+      "key": "423425189b5952cf9b34b5fab9b8bd5742cdcc2a",
+      "title": "S12 Ep 596: Joe In Paris and 50s Angst",
+      "published_at": "2025-04-17T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s convinced he’s already told David about his 50th birthday trip to Paris - but David’s not sure he’s heard the whole story and definitely wants more of the details. So somewhat reluctantly, Joe recounts his and Petra’s four day holiday, in as much depth as possible. But he soon gets distracted by a new pair of trousers he now regrets buying and then a growing disappointment that he’s not more dynamic when planning and being on holidays. As you might expect, a fair amount of unravelling then ensues and there's a load more angst about turning 50 too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7956550329.mp3?updated=1744378158",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3879",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paris",
+        "angst"
+      ]
+    },
+    {
+      "key": "0a73aec5cc2178aa4f711627ae06652e2a61af7b",
+      "title": "S12 Ep 595: Graffiti and Stan Laurel’s House",
+      "published_at": "2025-04-16T02:00:00+00:00",
+      "link": null,
+      "description": "It’s the third part of David’s holiday tales trilogy. But before that, Joe has a bit of a moan about seeing someone graffitiing in Brighton the previous evening, which got him very riled up indeed. Then once that’s out of the way, David finally recounts his wonderful visit to Stan Laurel’s old house in Ulverston, Cumbria. But we’ll leave it up to you to decide just how wonderful it actually was? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6369313809.mp3?updated=1744378108",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2130",
+      "speakers": [
+        "Stan Laurel",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "graffiti",
+        "stan",
+        "laurel",
+        "house"
+      ]
+    },
+    {
+      "key": "d66f88437f27a27e366328c00743e3520a885d60",
+      "title": "S12 Ep 594: Cheddar Gorge and Longleat Safari Park",
+      "published_at": "2025-04-15T02:00:00+00:00",
+      "link": null,
+      "description": "Following David’s recent tales from the Lake District, in this episode he tells Joe about more family trips to Cheddar Gorge in Somerset - with stories about caves, gorges, pricy admission tickets, edgy vibes and ice cream shop wars. And then to Longleat Safari Park in Wiltshire, where he spent a wonderful day in and amongst the gazelles, lions, rhinos, emus and monkeys. Plus an invisible Elephant called Ann. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1127038515.mp3?updated=1744377837",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3136",
+      "speakers": [
+        "Following David",
+        "Cheddar Gorge",
+        "Longleat Safari Park",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "cheddar",
+        "gorge",
+        "longleat",
+        "safari",
+        "park"
+      ]
+    },
+    {
+      "key": "21d1700976ac1a9477654062158e672a4cd78b8a",
+      "title": "S12 Ep 593 Vault Monday’s: Canal Thursdays #1",
+      "published_at": "2025-04-14T02:00:00+00:00",
+      "link": null,
+      "description": "Well, this is a very important episode from the Chata-vaults - the very first Canal Thursdays. And what better way to kick things off than by choosing our first narrowboat to buy. First posted on 13th January 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8855194996.mp3?updated=1744377561",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1935",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "monday",
+        "canal",
+        "thursdays"
+      ]
+    },
+    {
+      "key": "0e6c3096742f5692cd449468f1f3f471864a42db",
+      "title": "S12 Ep 592 Listener’s Mailbag: Galaxy Pugs and Joe Singing",
+      "published_at": "2025-04-11T02:00:00+00:00",
+      "link": null,
+      "description": "On today’s slightly shorter but oh so sweet Mailbag show, David and Joe read messages about a very interesting shell grotto, the return of old pub jokes, a Chataiscuit marathon runner, Joe’s Galaxy Pugs voiceover and a singer who sounds a lot like him too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4976413404.mp3?updated=1743775388",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1307",
+      "speakers": [
+        "Joe Singing",
+        "Joe’s Galaxy Pugs",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "galaxy",
+        "pugs",
+        "singing"
+      ]
+    },
+    {
+      "key": "7c0d4eca655bffdd9e8511e45fbd857fb2061026",
+      "title": "S12 Ep 591: A Visit to Beatrix Potter’s House",
+      "published_at": "2025-04-10T02:00:00+00:00",
+      "link": null,
+      "description": "David’s recent family holiday included a trip to the Lake District, which he totally fell in love with. Whist there they visited the former home of the children’s writer Beatrix Potter, which was an equally magical experience. So for this episode, he settles in and recounts the whole story to Joe, in his own inimitable style. ‘Can we have some music here James please’. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2268626403.mp3?updated=1743775121",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2876",
+      "speakers": [
+        "Beatrix Potter",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "visit",
+        "beatrix",
+        "potter",
+        "house"
+      ]
+    },
+    {
+      "key": "da57da86f2bbc496a3e8fcca4cdbd7404aea4a9c",
+      "title": "S12 Ep 590 Surprise Guest: Keith Brymer Jones - host of The Great Pottery Throw Down",
+      "published_at": "2025-04-09T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s done it again and lined up another brilliant surprise guest for David. But this time, we’re so excited to have this person on the show that we couldn’t wait to reveal who it is you. We’re joined by the amazing Keith Brymer Jones - pottery expert, ceramics designer and beloved host of The Great Pottery Thrown Down. As you’ll all know, David is one of Keith’s biggest fans and utterly obsessed with the show. So once he’s calmed down from the surprise, he can’t wait to get all nerdy about pottery and discover lots of the backstage details from Keith. Let’s get those pottery wheels spinning! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6627565803.mp3?updated=1743775027",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4067",
+      "speakers": [
+        "Keith Brymer",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "keith",
+        "brymer",
+        "jones",
+        "host",
+        "great",
+        "pottery"
+      ]
+    },
+    {
+      "key": "8b9fde27f1c0a34405e86023af67e2bf1ddddbf0",
+      "title": "S12 Ep 589: The Return of Andy Goldstein",
+      "published_at": "2025-04-08T02:00:00+00:00",
+      "link": null,
+      "description": "Andy Goldstein is back! And it’s been quite a while since David and Joe last spoke to him, so there’s plenty for them to catch up on. Amongst all the usual chaos, they discuss David’s recent visit to the Manchester United stadium, Andy’s golfing holiday, favourite board games, Joe going on Mastermind, the prospect of playing a waiter in a film, some fascinating Bond facts and a brilliant new game about guessing the length of an animal - Nose To Arsehole. It’s one bumper of an episode! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2608633349.mp3?updated=1743418616",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3724",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "return",
+        "andy",
+        "goldstein"
+      ]
+    },
+    {
+      "key": "6bbed3859cc5b3eac29bfe8b79ae513826cd78fa",
+      "title": "S12 Ep 588 Vault Mondays: The Weatherperson Auditions",
+      "published_at": "2025-04-07T02:00:00+00:00",
+      "link": null,
+      "description": "Monday means it's Vault time! And in this one, we audition a few Chatabiscuits for the role of a Weatherperson. First posted on 30 April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1236747021.mp3?updated=1743775168",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2490",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "weatherperson",
+        "auditions"
+      ]
+    },
+    {
+      "key": "9a7e59fa60cff17aa31c8273ad413171180db215",
+      "title": "S12 Ep 587 Listener’s Mailbag: The Beach Dildo and Breath Coaching",
+      "published_at": "2025-04-04T02:00:00+00:00",
+      "link": null,
+      "description": "After a slightly embarrassing chat about calling into radio shows and writing letters to podcasts, David and Joe read messages about a dildo on a beach, a load more lovely quips, an idea for a TV show, an offer of some free breathe coaching (whatever the heck that is?) and a nasty bone break in Bristol. Thank you for your emails. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2184751111.mp3?updated=1743420556",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2328",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "beach",
+        "dildo",
+        "breath",
+        "coaching"
+      ]
+    },
+    {
+      "key": "b7c7a11e7076278655ddf701942742ee1107079a",
+      "title": "S12 Ep 586: Volunteering and Mother's Day Balloons",
+      "published_at": "2025-04-03T02:00:00+00:00",
+      "link": null,
+      "description": "In further ‘just turned 50’ revelations, Joe’s decided he wants to start volunteering to help out in the community and give little more back. So this time, he’s less of the vigilante and much more about charity. Then in other news, David tried to surprise his wife on Mothering Sunday with a car full of balloons - but got a load of grief from a grumpy old-timer about his bad parking. Charming! Plus, Joe’s been up to more high-quality quipping at a recent Park Run. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9080565686.mp3?updated=1743437371",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2241",
+      "speakers": [
+        "Park Run",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "volunteering",
+        "mother",
+        "balloon"
+      ]
+    },
+    {
+      "key": "fc75ac20674c1ab7ff8447f233ee06ce6bebf5b3",
+      "title": "S12 Ep 585: Vigilante Joe and A Pottery Visit",
+      "published_at": "2025-04-02T02:00:00+00:00",
+      "link": null,
+      "description": "In this episode, Joe reveals to David his new-found attitude to fighting crime and tackling antisocial behaviour. Since turning 50, he’s decided enough is enough and is full of a new confidence to put the louts in their place. There’s a new vigilante in town - and he’s called Super J! Then, in a swift left turn, David tells Joe about his recent visit to the Pottery Throw Down set in Stoke-on-Trent. And then gives us an update on his progress with ditching his smart phone. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4606844330.mp3?updated=1743420475",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2771",
+      "speakers": [
+        "Vigilante Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vigilante",
+        "pottery",
+        "visit"
+      ]
+    },
+    {
+      "key": "18eb180773a2398d1aae9bb11f0a1655cdc99559",
+      "title": "S12 Ep 584: Being 50 and Speaking French",
+      "published_at": "2025-04-01T02:00:00+00:00",
+      "link": null,
+      "description": "It’s the first time that the guys have spoken since Joe’s 50th Birthday. So David’s keen to hear how Joe’s feeling about reaching his first century and also find out what he did to celebrate. It turns out that he and Petra went to Paris for a few days, which they both loved and Joe even tried speaking some French. As luck would have it, David’s wife Naomi is a fluent French speaker, so she joins them to check out how well that all went. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5758715869.mp3?updated=1743323296",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3237",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "french"
+      ]
+    },
+    {
+      "key": "374a172eac272e8e9aad1622f6232bad7f0a5201",
+      "title": "S12 Ep 583 Vault Mondays: Incredibly Tired and Rusty Lee",
+      "published_at": "2025-03-31T02:00:00+00:00",
+      "link": null,
+      "description": "In this old episode, we chat about not wanting to do the podcast, audio issues, Cilla Black, when the podcast grows, recording in a hotel and Rusty Lee. First posted on 1st June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6144400713.mp3?updated=1743322917",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1751",
+      "speakers": [
+        "Rusty Lee",
+        "Cilla Black",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "tired",
+        "rusty"
+      ]
+    },
+    {
+      "key": "73eaf92a56133c3c59c14619e0712777e86ede61",
+      "title": "S12 Ep 582 Listener’s Mailbag: Litter Blogs & Haunted Beds",
+      "published_at": "2025-03-28T03:00:00+00:00",
+      "link": null,
+      "description": "Delving into the Mailbag one again, David and Joe read messages about celebrity neighbours, an lockdown anti-littering blog, David’s Zoom song, more Andy Parsons impressions, a Joe Wilkinson look-a-like, a haunted bed ghost story, more quips and a visit to a nudist beach. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2659531545.mp3?updated=1742734170",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1709",
+      "speakers": [
+        "David’s Zoom",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "litter",
+        "blogs",
+        "haunted",
+        "beds"
+      ]
+    },
+    {
+      "key": "9df432223a7d072dbcdef1eb11ccd91ce906536a",
+      "title": "S12 Ep 581: Joe’s 50th Birthday - Part 2",
+      "published_at": "2025-03-27T03:00:00+00:00",
+      "link": null,
+      "description": "It’s time for Part 2 of Joe’s 50th Birthday celebrations. So you can expect plenty more wonderful treats from David and TV Joe’s ‘Audio Bags’ of delights. And they finished off the show with some extra special surprises for him, which he’s totally blown away by. Happy Birthday Joe! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3449993122.mp3?updated=1742734298",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3957",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "birthday"
+      ]
+    },
+    {
+      "key": "8c8e9c41221a0567ef9ec5d7ae8e455889e1c78a",
+      "title": "S12 Ep 580: Joe’s 50th Birthday - Part 1",
+      "published_at": "2025-03-26T03:00:00+00:00",
+      "link": null,
+      "description": "It’s been a long old run up, but it’s finally Joe’s 50th Birthday and to celebrate, David and TV Joe have something very special planned for him. This is all a complete surprise to Joe though, as he thinks he’s just playing a little quiz with David. So stay tuned to find out what it’s all about and what on earth an ‘Audio Bag’ is. David and TV Joe have three of them to go through - so it’s definitely gonna have to be a 2-part episode. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3402403441.mp3?updated=1743058126",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4062",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "birthday"
+      ]
+    },
+    {
+      "key": "63298a915d39e642f09979f0005d711bab060ca1",
+      "title": "S12 Ep 579: Barney The Dog and The Pod Date Game",
+      "published_at": "2025-03-25T03:00:00+00:00",
+      "link": null,
+      "description": "Joe’s looking after his friend’s dog Barney, so kicks off today’s show by introducing him to David - and they all get on wonderfully. Then, after some chat about broken Americana session cassettes, David buying a shed and sharing office space with a pottery wheel, it’s onto the main topic of the show. David’s invented a quiz where he and Joe will try to guess the dates of old Chatabix episodes - which sounds considerably duller than it turns out to be. Game on! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9527943924.mp3?updated=1742734312",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2643",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "barney",
+        "date",
+        "game"
+      ]
+    },
+    {
+      "key": "07c146730db6899be26bc16b9c7e7dbfd1674339",
+      "title": "S12 Ep 578 Vault Mondays: Our Female Versions and Boxing",
+      "published_at": "2025-03-24T03:00:00+00:00",
+      "link": null,
+      "description": "For this week's vault show, it’s right back to episode four of the pod. We chat about realising that we're bantering, middle names, our female versions and the sport of boxing. First posted on 1st April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2835136714.mp3?updated=1742733536",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1603",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "female",
+        "versions",
+        "boxing"
+      ]
+    },
+    {
+      "key": "6fd17bffb27bec718c71ee63591238158b0d9099",
+      "title": "S12 Ep 577 Listener’s Mailbag: Quips Quips Quips",
+      "published_at": "2025-03-21T03:00:00+00:00",
+      "link": null,
+      "description": "Today’s Mailbag (now with added sound effects) has messages about after-pod debriefs, some Judy Dench and Noel Edmonds trivia, a very experienced gameshow contestant, Ground Force, a Film & TV location manager and then a whole load of very impressive stories about quipping. What better way to kick off your weekend! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4249475945.mp3?updated=1742029665",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1844",
+      "speakers": [
+        "Judy Dench",
+        "Noel Edmonds",
+        "Ground Force",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "b4bffd51ed985643b7a7f00f94575241ababe438",
+      "title": "S12 Ep 576: Ideas Cards and The Americana Sessions",
+      "published_at": "2025-03-20T03:00:00+00:00",
+      "link": null,
+      "description": "Picking up from yesterday’s cliffhanger, David and Joe are now gonna play their ‘Idea Cards Game’ - where they randomly pick a conversation topic from the writing prompt boards they both have on their walls. So, amongst other subjects, you can expect some high calibre chat about old flats, very strange neighbours, broken bones and finally hoarding - which leads onto a very deep dive into David’s Americana Sessions. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7161296712.mp3?updated=1742029981",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3481",
+      "speakers": [
+        "David’s Americana Sessions",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "ideas",
+        "cards",
+        "americana",
+        "sessions"
+      ]
+    },
+    {
+      "key": "6cd70d0d5511cb7402a04217b4edbb30e3595971",
+      "title": "S12 Ep 575: The Podmasters Quiz",
+      "published_at": "2025-03-19T03:00:00+00:00",
+      "link": null,
+      "description": "Joe’s come up with a game called Podmasters, where the contestant is played up to 10 seconds from a top 50 iTunes Comedy Chart show and has to guess which one it is. There are various other rules and point scoring possibilities, but we won't go into all those now as they get quite convoluted. More importantly, guess who the first contestant is going to be? Buckle up David, this is going to be one fun-packed quiz! Or is it… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7776723526.mp3?updated=1742029868",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2282",
+      "speakers": [
+        "Quiz Joe",
+        "Comedy Chart",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "podmasters",
+        "quiz"
+      ]
+    },
+    {
+      "key": "758aef4790c1a4a98801229d4d67e4cff1c6c2e5",
+      "title": "S12 Ep 574: Joe’s Baking Course",
+      "published_at": "2025-03-18T03:00:00+00:00",
+      "link": null,
+      "description": "David’s got a snotty cold so doesn’t have much to offer today. But thankfully, Joe went on a baking course over the weekend, which Petra had bought him as a Christmas present. So he’s happy to take the reins for the episode and tell David everything about it. But they also stumble across a few bad reviews of the pod - so we’ll have to wait and see if that knocks Joe’s confidence with his story telling… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1568577297.mp3?updated=1742280002",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2689",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "course"
+      ]
+    },
+    {
+      "key": "3368cdff76907d51621e98fdb80c85d754315ca9",
+      "title": "S12 Ep 573 Vault Mondays: Learning The Game Of Cricket and Personal Trainers",
+      "published_at": "2025-03-17T03:00:00+00:00",
+      "link": null,
+      "description": "In this 2022 episode from our archives, we talk about personal trainers, clever lightbulbs and cricket. Plus, the very moment that Canal Thursdays was created, no less. First posted on 10th January 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9371549331.mp3?updated=1742029642",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3086",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "game",
+        "cricket",
+        "personal",
+        "trainers"
+      ]
+    },
+    {
+      "key": "d235c88827babb8ca9c9438b6bc7c3dbd30e86f9",
+      "title": "S12 Ep 572: Listener's Mailbag - Top 50 Eps & Pyramind",
+      "published_at": "2025-03-14T03:00:00+00:00",
+      "link": null,
+      "description": "In today’s selection of emails from our lovely listeners, there messages about someone’s top 50 episodes of Chatabix, a joke about a dog, a reminder about House Snoopers, a shy show-off, a lot of arthritis, meeting Bella Emberg, David getting a dog and the long awaited return of Pyramind. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3591750130.mp3?updated=1741776641",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1961",
+      "speakers": [
+        "Bella Emberg",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "pyramind"
+      ]
+    },
+    {
+      "key": "c70aaae2ae2748e53c884d120090906e89dd3343",
+      "title": "S12 Ep 571: Joe’s MMU Report Card",
+      "published_at": "2025-03-13T03:00:00+00:00",
+      "link": null,
+      "description": "As talked about recently on the pod, Joe has organised the latest activity for his Mystery Meet Up mates - which is indoor rock climbing at their local leisure centre. With that now completed, today he gives David the full run down of how it all went and also gets some live feedback from one the other attendees on what they thought of it. So, was it the huge success that he’d hoped for - or just a bit of a let down? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7056595400.mp3?updated=1741775441",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3157",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "report",
+        "card"
+      ]
+    },
+    {
+      "key": "2d7eddfd75ddaa50a1efd957f2bd2c900c0aba99",
+      "title": "S12 Ep 570: More Pottery Throw Down",
+      "published_at": "2025-03-12T03:00:00+00:00",
+      "link": null,
+      "description": "After putting off watching it for a while, Joe has just discover the joys of The Great Pottery Throw Down. So, re-invigorated by this news, David tries once again to work out if he’d be any good at presenting the show. And as luck would have it, he’s also been contacted recently by one of the executive produces of the show after they heard him and Joe discussing it on the pod. Could David be one step closer to his dream presenting job - or nightmare, depending on his confidence levels. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6935007403.mp3?updated=1741358521",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2798",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "pottery"
+      ]
+    },
+    {
+      "key": "464a6081731a1b1b5f11a7846e67baa7ef567622",
+      "title": "S12 Ep 569: Walking vs Rock Climbing",
+      "published_at": "2025-03-11T03:00:00+00:00",
+      "link": null,
+      "description": "To kick things off, David starts to recount a walk he went on recently from Bolt Head to South Sands. But try as he might to be enthusiastic with his story-telling, it’s not long before he loses interest and they decide to roll the dice on some other conversation topics. First up from Joe is that he’s organising his next Mystery Meet Up event and has chosen rock climbing. It just so happens that David took his boys to a climbing wall quite recently and really didn’t like what he saw. So his and Joe’s ensuing disagreement about that takes up the rest of the episode. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2479864718.mp3?updated=1741358415",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3376",
+      "speakers": [
+        "Bolt Head",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "rock",
+        "climbing"
+      ]
+    },
+    {
+      "key": "863153e80958cd47c25622c3e5940a6fbc84a38e",
+      "title": "S12 Ep 568 Vault Mondays: Performance Nerves and Nana Pud Pud",
+      "published_at": "2025-03-10T03:00:00+00:00",
+      "link": null,
+      "description": "It’s vault time again! And in this one, we talk about the same old bollocks again. Apologies. First posted on 23rd November 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5864790965.mp3?updated=1741358507",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2046",
+      "speakers": [
+        "Nana Pud Pud",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "performance",
+        "nerves",
+        "nana"
+      ]
+    },
+    {
+      "key": "8725977e6e0677c247a2b1cd83851836fc9772b1",
+      "title": "S12 Ep 567 Listener’s Mailbag: The Chanctonbury Ring & Celebrity Stories",
+      "published_at": "2025-03-07T03:00:00+00:00",
+      "link": null,
+      "description": "This week, we’ve a couple of emails from gameshow winners, a suggestion of a haunted place for Joe to visit, tales of serving fish and chips to a rock legend and a whole host of other local celebrity stories. Plus, a message from our old friend the Heart Attack man, a quip report, a public telling off and an impression of Andy Parsons. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8949835529.mp3?updated=1740673504",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1992",
+      "speakers": [
+        "Andy Parsons",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "chanctonbury",
+        "ring",
+        "celebrity",
+        "stories"
+      ]
+    },
+    {
+      "key": "fc0fc105454bbfc41d88256be00a29afa4aeef55",
+      "title": "S12 Ep 566: Well Done Me",
+      "published_at": "2025-03-06T03:00:00+00:00",
+      "link": null,
+      "description": "On today’s show, David has two ideas that he hopes will make for a great episode. Firstly he reads an email from a listener who, off the back of some medical problems, made a very risky quip to his doctor. Joe is suitably impressed and reckons it's one of the best quips he’s ever heard. Then secondly, David wants to know if Joe is pleased and thankful for his career - and asks him to congratulate himself about it too. So as you’d expect, that doesn’t go down quite so well. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5978873884.mp3?updated=1740673403",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2520",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "46d72ee9edb1b0df8690d6a34cef10eca4e0909d",
+      "title": "S12 Ep 565: Surprise Guest Time",
+      "published_at": "2025-03-05T03:00:00+00:00",
+      "link": null,
+      "description": "It’s time to wheel out the spiny chair again and for one of our hosts to get all nervous with anticipation. This time it’s David in the hot seat, as Joe’s lined up brilliant surprise guest for him. And here’s a little clue - they’re very handy and we’ve mentioned them on the pod many times before. Who could it be???? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7871313509.mp3?updated=1740673415",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4039",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "time"
+      ]
+    },
+    {
+      "key": "604f0e428cd0277eb19f7d9dea732f14a847f571",
+      "title": "S12 Ep 564: Calling The Police and A Pod Story Game",
+      "published_at": "2025-03-04T03:00:00+00:00",
+      "link": null,
+      "description": "Today’s episode is a bit of a Crimewatch special. Joe explains why he recently had to call the Police, David researches some tourist scams and pickpocketing techniques and they then both recount the times that they’ve been mugged, both in the UK and whilst away on holiday. So after all that, they decide it’s time to lighten the mood with an ad hoc gameshow - and this one’s all about remembering the details of stories they’ve previously told on the pod. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4984010084.mp3?updated=1740673513",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3069",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "police",
+        "story",
+        "game"
+      ]
+    },
+    {
+      "key": "41590e6da91376831f11a7f08875f032844f9ec3",
+      "title": "S12 Ep 563 Vault Mondays: Happy Happy Girl - The Complete Works",
+      "published_at": "2025-03-03T03:00:00+00:00",
+      "link": null,
+      "description": "Another episode straight from the Chatabix vaults and in this one, a listener sends us a quite remarkable email. First posted on 7th October 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4346085317.mp3?updated=1740672841",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2031",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "happy",
+        "girl",
+        "complete",
+        "work"
+      ]
+    },
+    {
+      "key": "759d27543c7d4edb1e983d7eb4e63a8b7652b738",
+      "title": "S12 Ep 562 Listener’s Mailbag - iPhones & Footballers",
+      "published_at": "2025-02-28T03:00:00+00:00",
+      "link": null,
+      "description": "On today’s very random selection of emails from our listeners, there’s some advice about using your phone less (plus an update from David about how his plans with that are going), some more offers to help out on the pod, a bit of praise, a pitch to supply Chatabix with some footballer guests and meeting Hale and Pace at the school gates. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5203332516.mp3?updated=1740212168",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1605",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "iphones",
+        "footballer"
+      ]
+    },
+    {
+      "key": "77c37c99dd308a43e61da511edb85fc8ca69c25a",
+      "title": "S12 Ep 561: Joe’s Birthday Lunch Video",
+      "published_at": "2025-02-27T03:00:00+00:00",
+      "link": null,
+      "description": "David and Joe kick off today’s show with some Traitors chat, as a load of secret Paul Gorton Chatabix episodes have just been posted on our Patreon. So if you're a Traitors fan, do make sure to check them out. Then it’s onto the main topic of the show - a video that Joe’s been sent of a very pleasant birthday lunch he went to recently. But he’s really not happy with his behaviour in it as he reckons he does far too much talking. So he sends the video to David to get his take on it and a full dissection of the goings on. A little later, David then reveals an embarrassing experience of his own, when he met up with Rob Beckett recently at a football match in Devon. Let’s just say, there’s a lot of cringing from the both of them. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8366562585.mp3?updated=1740149982",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2705",
+      "speakers": [
+        "Joe’s Birthday Lunch Video",
+        "Paul Gorton Chatabix",
+        "Rob Beckett",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "birthday",
+        "lunch",
+        "video"
+      ]
+    },
+    {
+      "key": "007ad45a575ec628aab5b3596f6f179cc0b9fd1c",
+      "title": "S12 Ep 560: TV Joe’s Weakest Link",
+      "published_at": "2025-02-26T03:00:00+00:00",
+      "link": null,
+      "description": "TV Joe is back with another of his now legendary quizzes. And this time, he’s going all Anne Robinson and treating us to a very special Chatabix version of The Weakest Link. But who are all the contestants going to be, we hear you ask? Well, David and Joe have invited along some friends of the pod to battle it out with them. There’s Rosie, Vyvyan, Eyes On Legs, Mezz Coleman, Canal Boat Georgie, Editor James and our Patreon competition winner Alex. So who will be the weakest of the links, who will be the best at banking, who will vote off who and which two quizzers will make it all the way through to the final round??? Ready yourselves - this is gonna be one heck of a gameshow! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4014510975.mp3?updated=1740150025",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4544",
+      "speakers": [
+        "TV Joe",
+        "Anne Robinson",
+        "Mezz Coleman",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "weakest",
+        "link"
+      ]
+    },
+    {
+      "key": "b09ca903091d0d2e3b84279d5f8406a2d3e770fd",
+      "title": "S12 Ep 559: Roller Coaster Re-bookings",
+      "published_at": "2025-02-25T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a very positive start to today’s show as Joe is determined not to let his negativity take over the conversation. And in that spirit, he and David decide to re-book a ticket for the roller coaster ride that Joe failed to go on last year. Full of enthusiasm, he dives straight in and books one for Chessington - before realising he actually needs to go to the bigger ride at Thorpe Park. So he books one for there too. Much to David’s delight, Joe now has a two roller coaster day in store for himself - watch this space…. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2443463773.mp3?updated=1740149415",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2503",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "roller",
+        "coaster",
+        "booking"
+      ]
+    },
+    {
+      "key": "5e91cd720c8dc49cd266f0dbab7d539d91e30d93",
+      "title": "S12 Ep 558 Vault Mondays: Guest - Rob Beckett",
+      "published_at": "2025-02-24T03:00:00+00:00",
+      "link": null,
+      "description": "The brilliantly funny Rob Beckett joins David and Joe to chat about self loathing, mainly. First posted on 28th November 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1393687033.mp3?updated=1740149898",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4192",
+      "speakers": [
+        "Rob Beckett",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "beckett"
+      ]
+    },
+    {
+      "key": "0d8722e03ef0b96ae327bf489ef13d0e25d11965",
+      "title": "S12 Ep 557 Listener’s Mailbag: Gardeners & Washing Machines",
+      "published_at": "2025-02-21T03:00:00+00:00",
+      "link": null,
+      "description": "Well it’s Friday - so it must be another selection of wonderful emails from our Chatabix mailbag. This time, there’s messages from a gardener who loves running, some comments about upsetting Joe, an observation about David’s relationship with stand-up comedy, a couple playing the relocation game, an offer to smoke weed on the pod, a few pub jokes, a rather lame story about a washing machine and a new job at a very aptly named business. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2841100395.mp3?updated=1739612525",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1504",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "gardeners",
+        "washing",
+        "machines"
+      ]
+    },
+    {
+      "key": "35ef73dfafa8fe0530ee0fb20163539683910454",
+      "title": "S12 Ep 556: Being Nude and Why We Pod",
+      "published_at": "2025-02-20T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a smutty start to today’s pod but once things settle down, Joe returns to his fascination with the pod charts - and what Chatabix’s current position is. Then somewhat bizarrely, the conversation moves onto being naked. And specifically, how comfortable the two of them are with being naked at home. In an attempt to change the subject to something more savoury, they then chat about their various injuries, going to the gym, being pooped after podding and why exactly do people make podcasts. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9491828070.mp3?updated=1739613502",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3055",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "3ff4bc252d6d5d8c0141254d8040aec05d509e1c",
+      "title": "S12 Ep 555: Ginger Biscuits, Aquariums and Public Interactions",
+      "published_at": "2025-02-19T03:00:00+00:00",
+      "link": null,
+      "description": "After a kicking off the show with some chocolate ginger biscuit chat, Joe then tells David about a frustrating encounter he had recently with someone at the Sea Life aquarium in London. And another incident with an inconsiderate passenger on the train journey home the very same day. So David quizzes Joe about what he does and doesn’t do when people recognise him. As you’d imagine, it’s quite an awkward chat. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5601243565.mp3?updated=1739930562",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2906",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "ginger",
+        "biscuits",
+        "aquariums",
+        "public",
+        "interactions"
+      ]
+    },
+    {
+      "key": "35df94d651b69dc1bf46e4fd2aecf9d4e9a4ea55",
+      "title": "S12 Ep 554: Keep It Joyful",
+      "published_at": "2025-02-18T03:00:00+00:00",
+      "link": null,
+      "description": "After an invigorating run before recording today’s pod, Joe’s in a really upbeat mood and loving his life at the moment. It’s a sentiment that David is really pleased to hear as he’s needing a bit of a pick-up. So they both decide to have a really positive conversation for the whole of today’s show. But it’s not as easy as it sounds as those negative thoughts start creeping back in quite quickly - and they keep on having to remind themselves to ‘keep it joyful! Plus, there’s news about David’s postman, a chat about famous people who live in Devon, David reveals he has high cholesterol, Joe thinks he’s got a wheat allergy and we hear about Will Andrews brilliant Shed Show. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2047831065.mp3?updated=1739613244",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3198",
+      "speakers": [
+        "Will Andrews",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "6cc754472a96c7c9f105d2462832458b0125b54a",
+      "title": "S12 Ep 553 Vault Mondays: Joe Does Some Press Ups and Patrons Call In",
+      "published_at": "2025-02-17T03:00:00+00:00",
+      "link": null,
+      "description": "Joe does 4 press ups and then some lovely Patrons phone in. First posted on 11th October 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9721725417.mp3?updated=1739613004",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2965",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "press",
+        "patrons"
+      ]
+    },
+    {
+      "key": "d1e61dcdb9e2cdc905257526c80ff5a4d838a7a0",
+      "title": "S12 Ep 552 Listener’s Mailbag: Great Grans and True Crime",
+      "published_at": "2025-02-14T03:00:00+00:00",
+      "link": null,
+      "description": "On todays show, there’s messages about an inspirational grandmother, a gardener from the Surrey Downs, an obsession with the Isle of White, a song about paving slabs, some praise for the pod and a reminder of Joe’s promiser to ride a rollercoaster, a true crime podcast audition, a reply from Barry Morris and a couple of littering stores from a very conscientious farmer. What better way to kick off your Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1944797565.mp3?updated=1738918436",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1925",
+      "speakers": [
+        "Barry Morris",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "great",
+        "grans",
+        "true",
+        "crime"
+      ]
+    },
+    {
+      "key": "3a7903b7a7c3d895bad3d139317cec740764a6a6",
+      "title": "S12 Ep 551: Canal Chat with Georgie",
+      "published_at": "2025-02-13T03:00:00+00:00",
+      "link": null,
+      "description": "Whilst holidaying on a barge in Bath last summer, David met the wonderful Georgie on the Kennet and Avon canal. Not only has Georgie been living on barges for the past four years, she’s also a dedicated Chatabiscuit. So what better way to learn more about the highs and lows of a life lived on the canals than inviting her onto the pod for a good old natter. David and Joe are in their element as Georgie tells them everything they want to know - this the real Canal Thursdays after all! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3048963714.mp3?updated=1738918632",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3961",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "chat",
+        "georgie"
+      ]
+    },
+    {
+      "key": "3d5d2d138759732e150475c9b00664dc1c34a46c",
+      "title": "S12 Ep 550: Toe Yoga and Feeling Untethered",
+      "published_at": "2025-02-12T03:00:00+00:00",
+      "link": null,
+      "description": "David and Joe are in a very introspective mood for today’s show and it’s a right mixed bag of conversation. Amongst other things, they cover David starting his walking again, getting fitter, toe yoga, wide shoes, spending money, all or nothing attitudes, conversation shutters, Joe turning fifty, having 10 year goals, an American musical comedy show called Sir Winchalot, being untethered and coming up with new life plans. Plus, there’s an update on how David’s little Nokia phone experiment is going. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3091185922.mp3?updated=1738918518",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2474",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "yoga"
+      ]
+    },
+    {
+      "key": "92404c7384c0ea979322c97ffc1cc491e7ff0b8e",
+      "title": "S12 Ep 549: Share The Wealth",
+      "published_at": "2025-02-11T03:00:00+00:00",
+      "link": null,
+      "description": "Soon after they start todays’s episode, Joe realises he’s left his phone in his car and rushes off to get it as he’s worried it might be stolen. Seeing a perfect opportunity to wind Joe up, David tells him he shouldn’t get so stressed about things like that. He also recommends a much more zen attitude to theft and to even start thinking of it as ’sharing the wealth’. Well, there are plenty out there who might need it more. As you’d expect, this doesn’t go down well with Joe and the sparks soon start to fly. They also manage to have a bit of an argument about doing the housework too. This is one fiery episode - enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8520689043.mp3?updated=1738918210",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3370",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "wealth"
+      ]
+    },
+    {
+      "key": "4bc1c379ff1ed055dd072301744d6f999b56ccc0",
+      "title": "S12 Ep 548 Vault Mondays: Omar Sharif's House and Water Slides",
+      "published_at": "2025-02-10T03:00:00+00:00",
+      "link": null,
+      "description": "In today’s blast from the Chatabix past, we chat about Omar Sharif's house, our bodies and being young. First posted on 2nd December 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4361030579.mp3?updated=1738917862",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2074",
+      "speakers": [
+        "Vault Mondays",
+        "Omar Sharif",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "omar",
+        "sharif",
+        "house",
+        "water",
+        "slides"
+      ]
+    },
+    {
+      "key": "8bc69d5018c173ab2b313fe995b991deecf6eb70",
+      "title": "S12 Ep 547 Listener’s Mailbag: The British Museum and Muscle Music",
+      "published_at": "2025-02-07T03:00:00+00:00",
+      "link": null,
+      "description": "David and Joe are opening the Chatabox mailbag again as it’s time for some more listener’s emails. This weeks messages include a request for help with a best man’s speech, some attention from Parenting Hell, an offer from the British Library, a Chatabiscuit in Santa Barbara, a touching story about surviving a stroke, some music from a listener’s old punk band and a superb letter from a composer who wrote the score to a body-building film. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3394954292.mp3?updated=1738321732",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1898",
+      "speakers": [
+        "Parenting Hell",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "british",
+        "museum",
+        "muscle",
+        "music"
+      ]
+    },
+    {
+      "key": "1904e472bb427aa63abb360077ab2ec6845500d0",
+      "title": "S12 Ep 546: Ditching The iPhone",
+      "published_at": "2025-02-06T03:00:00+00:00",
+      "link": null,
+      "description": "David’s decided he’s had enough of smart phones and has bought himself a little Nokia to free himself of his iPhone addiction. He’s full of hope for his new phone-free life and has even come up with some clever tactics to deal with not having any of his apps. Joe’s very supportive of the idea and even considers doing it himself - that is until he starts to see some cracks appear in David’s resolve. Then they both start to worry that it’s a really boring subject to discuss on the pod. Just how long will David’s plan last? And more importantly, how long will they manage to keep the listener’s attention for? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5096045357.mp3?updated=1738321595",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2581",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "iphone"
+      ]
+    },
+    {
+      "key": "6c3f5a9727947c9e2d1c96782040c1bc4aedce49",
+      "title": "S12 Ep 545: David’s Flu and Joe In The Sauna",
+      "published_at": "2025-02-05T03:00:00+00:00",
+      "link": null,
+      "description": "David’s recent family holiday to the beautiful seaside village of Polperro in Cornwall was unceremoniously ruined by him catching a nasty bout of flu. So he explains to Joe just how promisingly the trip began and how disappointed he was when he had to spend the rest of it shivering in bed. Poor old David - but thankfully he’s over it now and feeling much more positive. Talk then turns to Joe’s new found enthusiasm for saunas. He went to one recently with his Mystery Meet Up pals and it turns out he really liked it - so has been a few more times since. But David’s very surprised to hear all this and digs in with his questioning to get to bottom of this very uncharacteristic move from Joe. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6140450111.mp3?updated=1738748904",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3320",
+      "speakers": [
+        "David’s Flu",
+        "Mystery Meet",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "sauna"
+      ]
+    },
+    {
+      "key": "28c03e73e4b6a4e657c5c9b4b45a5c5d3605a110",
+      "title": "S12 Ep 544: David’s Prostate Problems",
+      "published_at": "2025-02-04T03:00:00+00:00",
+      "link": null,
+      "description": "After having some pretty serious problems with his prostate, David is thankfully on the mend and has just received the all clear on his most recent test results. So as well as being hugely relieved, he’s keen to talk about it with Joe on the pod and do his bit to help de-stigmatise some of the issues around prostate health. He’s also wants to let other men know who might find themselves in the same position that they’re not alone. But this is Chatabix of course, so the discussion is not without its fair share of awkwardness, self-doubt, leg-pulling and laughter. This is healthcare the Chatabix way! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8646082300.mp3?updated=1738321279",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2807",
+      "speakers": [
+        "David’s Prostate Problems",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "prostate",
+        "problems"
+      ]
+    },
+    {
+      "key": "84fb163642e248d457d505a662f058b7f3067707",
+      "title": "S12 Ep 543 Vault Mondays: Actor and Impressionist Terry Mynott",
+      "published_at": "2025-02-03T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a Chata-vault classic - our special guest for this one is the amazing impressionist Terry Mynott. First posted on 14th December 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7610033233.mp3?updated=1738321213",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3297",
+      "speakers": [
+        "Terry Mynott",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "actor",
+        "impressionist",
+        "terry",
+        "mynott"
+      ]
+    },
+    {
+      "key": "86dbdddd78164249a5d6dc1e8afe50b32f9038b5",
+      "title": "S12 Ep 542 Listener’s Mailbag: Funerals and Spas",
+      "published_at": "2025-01-31T03:00:00+00:00",
+      "link": null,
+      "description": "On this weeks selection of emails from our listeners, we read messages about Ken Campbell’s funeral, more offers to help out with the pod, some scandalous tales from a health spa employee, bread-baking advice, a rather bitter story about Eddie ‘The Eagle’ Edwards and a lovely complement from one of our Patreons. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4432688654.mp3?updated=1737724220",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1752",
+      "speakers": [
+        "Ken Campbell",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "funeral",
+        "spas"
+      ]
+    },
+    {
+      "key": "9d8abaeafaf52c1ca5884a9af0ba257445cb8a78",
+      "title": "S12 Ep 541: Yoga and Judy Dench",
+      "published_at": "2025-01-30T03:00:00+00:00",
+      "link": null,
+      "description": "After David’s caffeine crisis in the last episode, he’s especially keen not to talk too much today. But after Joe tell’s him he’s just back from the gym, an argument soon starts about David’s sensitivities with body-building and being picked on as a kid because his dad was into it. Essentially, it’s round two of the heated discussion they had about it a month or so ago. So in attempt to calm things down a bit, they talk about David’s Yoga - which is all very relaxing. Then talk turns to being young and getting old - and for some reason David remembers when he saw Judy Dench at a windmill in Outwood when he was 10 years old. This then leads to a whole host of random conversations about TV celebrities, local villages and childhood memories. It’s all very Chatabix indeed. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9942354701.mp3?updated=1738233141",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3437",
+      "speakers": [
+        "Judy Dench",
+        "David’s Yoga",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "yoga",
+        "judy",
+        "dench"
+      ]
+    },
+    {
+      "key": "7f80813bc4203b2e428ab75a61628bfb05e57993",
+      "title": "S12 Ep 540: What’s Your Sin and Woodcutter Jackets",
+      "published_at": "2025-01-29T03:00:00+00:00",
+      "link": null,
+      "description": "Joe’s comes up with what he thinks is a great idea for today’s episode - to ask each other ‘What’s Your Sin?’. David however has a had a bit too much coffee and much to Joe’s annoyance, is finding it really difficult to concentrate. So their conversation veers all over the place and we never really get to find out what either of their sins are - other than David having a pair of shoes made for himself. They then have a discussion about the middle-aged men’s fashion style of woodcutter jackets worn with rugged jeans, key-chains and big boots. It’s a look that neither of them seem to like very much - until they ask Petra for her opinion on it and it’s definitely not what Joe expects to hear. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5216231506.mp3?updated=1737725270",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3497",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "woodcutter",
+        "jacket"
+      ]
+    },
+    {
+      "key": "f15a2e9d248d84eac0dedaf943e88ea66c73cbfb",
+      "title": "S12 Ep 539: David’s Pottery Throw Down - Part 2",
+      "published_at": "2025-01-28T03:00:00+00:00",
+      "link": null,
+      "description": "Yes that’s right, we’re back for the second part The Great Chatabix Pottery Throw Down. So stay tuned for more pottery presenting practicing, a load of questions for Joe about him being a contestant on Celebrity Bake Off and more panicking from David about if he ever got offered to actually be on the show. It’s a right rollercoaster of emotions this one - enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8916252421.mp3?updated=1737723882",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2907",
+      "speakers": [
+        "David’s Pottery",
+        "Celebrity Bake Off",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "pottery"
+      ]
+    },
+    {
+      "key": "1deb47fe6bafe2f4fd4440bb7f3f9e6fd67b4b81",
+      "title": "S12 Ep 538 Vault Mondays: Ambition and Hotmail Roulette",
+      "published_at": "2025-01-27T03:00:00+00:00",
+      "link": null,
+      "description": "In our next episode dug out from the Chatabix archives, we chat about our horrible ambition, we play hotmail roulette and we talk about Dr Peter Thraft First posted on 3rd May 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6731396794.mp3?updated=1737723604",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2230",
+      "speakers": [
+        "Hotmail Roulette",
+        "Peter Thraft",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "ambition",
+        "hotmail",
+        "roulette"
+      ]
+    },
+    {
+      "key": "c6c1190db6a96c93069d2aa9c7c7c1d54bb6bf76",
+      "title": "S12 Ep 537: Listener’s Mailbag: Jaws Analysis and Tackling Litterers",
+      "published_at": "2025-01-24T03:00:00+00:00",
+      "link": null,
+      "description": "On this week's Mailbag, David and Joe read messages about some praise for the pod and offers of help with it, a pot of yogurt on Horrible Histories, analysing the film Jaws, giving up on metal detecting, rude road names and a whole load of emails about taking litterers to task. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6024041548.mp3?updated=1737283096",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1700",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "jaws",
+        "analysis",
+        "tackling",
+        "litterer"
+      ]
+    },
+    {
+      "key": "d700b62b3eb79cf2c627f2ddfb0214be9ac0720b",
+      "title": "S12 Ep 536: David’s Pottery Throw Down - Part 1",
+      "published_at": "2025-01-23T03:00:00+00:00",
+      "link": null,
+      "description": "David is absolutely loving the current series of The Great Pottery Throw Down, so much so that he really wants to become one of its hosts. As Joe’s not seen the show before, David enthusiastically explains everything about it to him and what incredibly cosy TV it is. They then both have a think about what skills would be needed for David to join its presenting team. But after quite a few tries at him reading out some of the presenter links, they start to suspect that he might not have the right personality for it? Undeterred by this, they plough on with the presenter practicing - and even get in touch with one of the show’s previous hosts Ellie Taylor to get some tips. This one was a long old episode to record, so we’ve split it in half for you. Part two coming very soon… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4574648328.mp3?updated=1737220281",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3636",
+      "speakers": [
+        "David’s Pottery",
+        "Ellie Taylor",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "pottery"
+      ]
+    },
+    {
+      "key": "aaaddecb1de32bde8e5d977b9c1ee0d848c9ca29",
+      "title": "S12 Ep 535: Paul Gorton Returns",
+      "published_at": "2025-01-22T03:00:00+00:00",
+      "link": null,
+      "description": "Mr Paul Gorton is back! He’s the star of last’s year series of The Traitors, the longest Deal Or No Deal storyteller in history and official Chatabix royalty. So sit back and relax as he reunites with David and Joe for a good old natter and to update them on all the recent twists and turns in his rise to stardom. And as Series 3 of The Traitors draws to a close, he gives us more of his unique take on the show with all his insider knowledge. Lovely stuff! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3719720413.mp3?updated=1737219772",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3476",
+      "speakers": [
+        "Paul Gorton Returns",
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paul",
+        "gorton"
+      ]
+    },
+    {
+      "key": "dcb2f5163e88f098839df35322e669da88399862",
+      "title": "S12 Ep 534: Chatabix Towers Comes Tumbling Down",
+      "published_at": "2025-01-21T03:00:00+00:00",
+      "link": null,
+      "description": "What would David and Joe do if Chatabix ever came to an end and they weren’t able to pod anymore? Well, in this episode it’s a predicament that they decide to have a good long think about. But that’s not before they’ve have a load of very inappropriately timed technical problems to sort out. Could it be that Chatabix Towers is finally coming tumbling down? Stay tuned to find out… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6215670876.mp3?updated=1737219364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2444",
+      "speakers": [
+        "Chatabix Towers",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "chatabix",
+        "tower"
+      ]
+    },
+    {
+      "key": "4aeea4f0245e031e740e0f5c12f5e035bd2a4b44",
+      "title": "S12 Ep 533 Vault Mondays: Postman Pat and Take That Play Nirvana",
+      "published_at": "2025-01-20T03:00:00+00:00",
+      "link": null,
+      "description": "On this week’s vault classic, we chat about whether we want to do the podcast anymore, which podcasts don't deserve to be above us in the charts, Postman Pat facts, David's weight, Honk the Mole is back, we celebrate completing our scripts, the TV drama Doctor Foster, Take That playing Smells Like Teen Spirit LIVE, and then more Happy Happy Girl First posted on 10th May 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7720483290.mp3?updated=1737219123",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1958",
+      "speakers": [
+        "Vault Mondays",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "postman",
+        "play",
+        "nirvana"
+      ]
+    },
+    {
+      "key": "c2086a6de3c457a3e02cda941b1960b62dcc3102",
+      "title": "S12 Ep 532 Listener’s Mailbag: Chatabiscuit Tracks and Cruise Ship Tales",
+      "published_at": "2025-01-17T03:00:00+00:00",
+      "link": null,
+      "description": "David and Joe are back with their big bag of listener’s emails. And this week, there’s messages about a very long brick wall, three music tracks sent in from Chatabiscuits, moving to Lanzarote in the 90s, suggestions for guests, the pleasures of cruise ship holidays and some useful feedback on our merch. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8545376294.mp3?updated=1736520925",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2048",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "chatabiscuit",
+        "track",
+        "cruise",
+        "ship",
+        "tales"
+      ]
+    },
+    {
+      "key": "405722e56218cd833628a180e3f8905c24a8d461",
+      "title": "S12 Ep 531: The Singing Coach (with Eyes On Legs)",
+      "published_at": "2025-01-16T03:00:00+00:00",
+      "link": null,
+      "description": "Following on from the previous episode, where the subject of David and Joe having a singing lesson came up, the guys are joined today by Daniel Reid - aka Eyes On Legs. Daniel’s a brilliant music producer, the re-mixer of many of David’s Chatabix tracks and is also a bloody good singer and songwriter too. So David and Joe are hoping he can give them some coaching to improve their singing and get them more confident in front of the microphone. And as usual, they’re also wondering if it could make for a great new TV format. So good luck Daniel - but you might have your work cut out for you? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1781772408.mp3?updated=1736520810",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2955",
+      "speakers": [
+        "Daniel Reid aka",
+        "David’s Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "singing",
+        "coach",
+        "legs"
+      ]
+    },
+    {
+      "key": "1678992824c3249885886d74da0d2c0e95504cc8",
+      "title": "S12 Ep 530: David’s Roachford Cover",
+      "published_at": "2025-01-15T03:00:00+00:00",
+      "link": null,
+      "description": "As a surprise, David’s recorded a cover version of one of Joe’s favourite songs - Roachford’s Only To Be With You. They take a listen to it so Joe can tell him what he thinks and to seal the deal, David also plays him some of it live on his guitar. Joe seems to like it but David can’t quite work out if he’s being truthful - and he doesn’t get a great reaction when he offers to record a whole album for him. They then wonder if Roachford would be up for a collaboration and consider sending the track to him to find out. Finally, the idea of having singing lessons comes up and they hatch a plan to invite someone onto the pod to teach them both. Watch this space… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7467466523.mp3?updated=1736520683",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2900",
+      "speakers": [
+        "David’s Roachford Cover",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "roachford",
+        "cover"
+      ]
+    },
+    {
+      "key": "36c7d1a8bca2d9acd0007336c712b6f522d81706",
+      "title": "S12 Ep 529: Life Admin and VR Podcasts",
+      "published_at": "2025-01-14T03:00:00+00:00",
+      "link": null,
+      "description": "Joe’s bored with all the life admin he has to do today - which is mainly just car stuff and paying a parking ticket. So he’s in a bit of a mood, which David makes the most of teasing him about. Then David mentions the date mornings that he’s started doing with his wife Naomi, which Joe seems a little uncomfortable about. There’s also some news they can’t talk about on the pod and Joe reveals how frustrated he gets with wasting money. Plus, David gives us his predictions about the future of podcasting - and it’s all going to be about virtual reality, apparently? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1434807980.mp3?updated=1736520919",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2799",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "life",
+        "admin",
+        "podcasts"
+      ]
+    },
+    {
+      "key": "ba2a3fac395b31447993bc03671e2622420d8e88",
+      "title": "S12 Ep 528 Vault Mondays: Guest - Paul Chowdhry",
+      "published_at": "2025-01-13T03:00:00+00:00",
+      "link": null,
+      "description": "On this week’s show from the Chatabix archives, the very funny Paul Chowdhry joins us for a little chat. Topics include Paul's body, Paul's diet, Joe's willy and crap auditions. First posted on 19th October 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8385461231.mp3?updated=1736520687",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4989",
+      "speakers": [
+        "Paul Chowdhry",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "paul",
+        "chowdhry"
+      ]
+    },
+    {
+      "key": "b89dedb62155737a9bc12c7ba7d52db18c630e3b",
+      "title": "S12 Ep 527 Listener’s Mailbag: Bakery Tales and SAS Grandads",
+      "published_at": "2025-01-10T03:00:00+00:00",
+      "link": null,
+      "description": "To kick off this week’s Mailbag we get a follow-up email from Grace at The Almond Thief bakery in Devon and hear some very useful health and lifestyle advice from a recent retiree. Then we read messages about an endurance swimmer, changing careers to become a dog trainer, a heroic grandad who was in the SAS, play a listener’s song and receive an invitation to guest on someone’s podcast. You gotta love a bit of Mailbag! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7860864950.mp3?updated=1735900180",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2119",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "bakery",
+        "tales",
+        "grandad"
+      ]
+    },
+    {
+      "key": "e3256caa739c1b078f4ece4e7e4603946f4a1ebb",
+      "title": "S12 Ep 526: Even More Old Jobs",
+      "published_at": "2025-01-09T03:00:00+00:00",
+      "link": null,
+      "description": "In a desperate attempt to think of a something to discuss on today’s show, David tells Joe about the time he got a job making paving slabs on a farm. And then another job he had as a waiter in an Italian restaurant, which he absolutely hated. They’re both not sure if the restaurant story has come up before on the pod, but with few other options, David ploughs on with telling Joe all about it. Needless to say, that job was very short-lived indeed. Joe then remembers an old flat that he bailed out on almost as quickly - so they have think about other things they’ve quit and it turns out there’s quite a few… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2600387500.mp3?updated=1735900162",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2719",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "jobs"
+      ]
+    },
+    {
+      "key": "65cc1958dc6355cbcce3fa4fd3de9b0f8ede4909",
+      "title": "S12 Ep 525: More Gyms and Antigua Memories",
+      "published_at": "2025-01-08T03:00:00+00:00",
+      "link": null,
+      "description": "The last time that Joe going to the gym came up in conversation, he and David got totally distracted by 80s bodybuilding. So in this episode, David picks up on his questioning about why Joe’s no longer dismissive of using gyms and looking after his body. Then, in a total change in subject, David remembers it’s a year ago exactly he was on holiday in Antigua. That sparks off a whole load of reminiscing - and plenty of embarrassment too when he recalls his idea about moving there. It’s a very meandering episode, in the best Chatabix way of course. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9157638671.mp3?updated=1735900106",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3417",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "antigua",
+        "memories"
+      ]
+    },
+    {
+      "key": "3fe5e60027693450b6bea6cbc0043f9d97d9d31f",
+      "title": "S12 Ep 524: Joe’s Book of Quips",
+      "published_at": "2025-01-07T03:00:00+00:00",
+      "link": null,
+      "description": "David’s away from home so doing the pod remotely and Joe’s just back from a weekend in Bath. So they have a de-brief on all of that and David also reads out a negative review of the pod he’s recently seen. But rather than letting that get them down, they decide to celebrate Chatabix instead. They’ve both been loving recording again after their break and feel very privileged to do the podcast. Then it’s onto the main subject of the episode - an update on Joe’s quipping. For the past few weeks he’s been attempting to write down all of the silly little gags he constantly makes when out in public and they both reckon it’d make for a great book. So they decide to turn it into a quip quiz and Joe tests David to see if he can work out what some of them were. And what a very fun game it is too! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5592148757.mp3?updated=1735899791",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3014",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "book",
+        "quip"
+      ]
+    },
+    {
+      "key": "6b144cbc3e1b54b95e10e70fa1ba8c7e7a18271e",
+      "title": "S12 Ep 523 Vault Mondays: Being Skinny and Lunch With Linda Lusardi",
+      "published_at": "2025-01-06T03:00:00+00:00",
+      "link": null,
+      "description": "We’re kicking off the new year with a classic from the Chatabix archives - which has one of our favourite episode titles ever. In this one, we chat about Happy Happy Girl, when Joe was skinny, being sacked again, Andrew Roachford, Linda Lusardi, Chris Tarrant and Who wants to be a millionaire First Posted on 8th April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1869255351.mp3?updated=1735896099",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1691",
+      "speakers": [
+        "Linda Lusardi",
+        "Andrew Roachford",
+        "Chris Tarrant",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "skinny",
+        "lunch",
+        "linda",
+        "lusardi"
+      ]
+    },
+    {
+      "key": "40a38efcd8d6b0b9787de3d5de34172c66f85cd4",
+      "title": "S12 Ep 522: The 2024 Christmas Show",
+      "published_at": "2024-12-23T03:00:00+00:00",
+      "link": null,
+      "description": "T’was the night before Christmas - well, a couple of days before it actually - and David and Joe have got together to record one final pod before the big day. And it’s a biggie of an episode too. So settle in for a whole load of festive fun and gift giving, with chat about plans for the holidays, winter spa days, taking up fencing, some YouTube trolling and plenty of resolutions for the New Year. Have yourselves a very merry Christmas and we’ll see you all again in the new year. Crunch crunch! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9621567543.mp3?updated=1734863355",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6098",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "christmas"
+      ]
+    },
+    {
+      "key": "321d1f43cb21d6e3919e459de81158c4bf71f692",
+      "title": "S12 Ep 521: Listener’s Mailbag Christmas Edition",
+      "published_at": "2024-12-20T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a festive edition of messages from our listener’s Mailbag - which aren’t actually festive themselves, it’s just that we’re doing it the week before Christmas. But to mark the occasion, we’re giving away a pair of amazing Flare Audio Earphones (Chatabix Edition) to the writers of each email we read out. And we’re also giving away a few more in a little Christmas competition for our lovely Patreons. Merry Christmas!!! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1093546545.mp3?updated=1734106737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2380",
+      "speakers": [
+        "Christmas Edition",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "christmas",
+        "edition"
+      ]
+    },
+    {
+      "key": "8eed3358c9068a4d7a0ee3cb6c130a55f369ef1f",
+      "title": "S12 Ep 520: TV Joe’s Festive Christmas Quiz",
+      "published_at": "2024-12-19T03:00:00+00:00",
+      "link": null,
+      "description": "It’s that time of the year again - TV Joe is back and he’s brought his big sack of Christmas quizzes with him. To kick things off, David and Joe give him his Christmas present and in return, he runs them through some of his television highlights of this Christmas season. Then it’s time to sit back and relax while TV Joe tests the guys on some wonderfully festive trivia questions, followed by another classic Christmas-themed ‘Name That Tune’ challenge. As ever, this is quizzing at its very best! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1168083792.mp3?updated=1734104016",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4218",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "festive",
+        "christmas",
+        "quiz"
+      ]
+    },
+    {
+      "key": "232d0223c90847261692d61960dcbd02ac5ef7d2",
+      "title": "S12 Ep 519: Our Christmas Special with Natalie Cassidy",
+      "published_at": "2024-12-18T03:00:00+00:00",
+      "link": null,
+      "description": "The one and only Natalie Cassidy joins David and Joe for our most Christmassy Chatabix episode of the year! It’s been ages since they’ve spoke to Nat so there’s plenty of catching up to do, before the chat moves on to all matters festive. They discuss everything from putting up decorations, entertaining the family and their favourite Christmas board games, to the highs and lows being in a pantomime, some favourite moments of the year and their hopes and dreams for 2025. They simply have the most wonderful Christmas time - ho ho ho! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6025724235.mp3?updated=1734104320",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4245",
+      "speakers": [
+        "Natalie Cassidy",
+        "ho ho",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "christmas",
+        "special",
+        "natalie",
+        "cassidy"
+      ]
+    },
+    {
+      "key": "38ece13aeea79a8c866520e56957df83861f0299",
+      "title": "S12 Ep 518: Listing Comedians Names from the Chortle Website K to N",
+      "published_at": "2024-12-17T03:00:00+00:00",
+      "link": null,
+      "description": "Yes that’s right, it’s time once again for the now legendary annual festive ‘Listing Comedians Names from the Chortle Website’ episode. And this year, David and Joe take on the letters K to N. It is, as ever, a thrilling rollercoaster ride of an episode, so hold onto your Santa hats. And for those who make it all the way through, there’s a bonus quiz at the end to reward you for your patience. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6734487537.mp3?updated=1734103767",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4078",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "comedians",
+        "names",
+        "chortle",
+        "website"
+      ]
+    },
+    {
+      "key": "82ab8cdd3a415f5d68e5fbc44843aceafd11dc00",
+      "title": "S12 Ep 517 Vault Mondays: We're Number 1 In The Podcast Charts!!!",
+      "published_at": "2024-12-16T03:00:00+00:00",
+      "link": null,
+      "description": "This week’s episode from the Chatatbix archives was a proper landmark for the show. We celebrated being number 1 in the iTunes podcast charts - and then lost confidence. First posted on 27th June 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3335767819.mp3?updated=1734104176",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2400",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "number",
+        "podcast",
+        "charts"
+      ]
+    },
+    {
+      "key": "af5ccb3f9918f34e6e6498fa8a3bc8eac7bb2872",
+      "title": "S12 Ep 516 Listener’s Mailbag 2: Rich in Chichester & The Humble Bee",
+      "published_at": "2024-12-13T03:00:00+00:00",
+      "link": null,
+      "description": "On this week’s mailbag, we get some incorrect advice about a wealthy acquaintance of David’s from Chichester, a collection of coincidences from two newlywed Chatabiscuits, The Cockfields filming locations, Port Isaac, a listener sting, musical repeats, guest recommendations and a list of names for weed. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1658700715.mp3?updated=1734332264",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1732",
+      "speakers": [
+        "Port Isaac",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "rich",
+        "chichester",
+        "humble"
+      ]
+    },
+    {
+      "key": "c000fbe7ba9c0af05cfa8cb40325a67abe2fc214",
+      "title": "S12 Ep 515: Using Gyms and 80’s Bodybuilding",
+      "published_at": "2024-12-12T03:00:00+00:00",
+      "link": null,
+      "description": "Joe revealed recently that he’s started going to the gym regularly. And as it’s quite a change in attitude for him, David wants to know the what, where and why about it all. Which doesn’t make Joe feel particularly comfortable. What with all the chat about gyms, David also reveals that his dad was really into the whole bodybuilding scene in the 80’s and once took him to see the world's strongest man - Bill Kazmaier - training in Brighton. So we get a full run down of the Mr Universe competitions from him, and Joe watches some old footage of it too. It’s quite the muscle-flexing episode. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9996151191.mp3?updated=1733989209",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2953",
+      "speakers": [
+        "Bill Kazmaier training",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gyms",
+        "bodybuilding"
+      ]
+    },
+    {
+      "key": "3fea583c881f15b123cde7909ed148cca9af7946",
+      "title": "S12 Ep 514: Baking Bread With Joe",
+      "published_at": "2024-12-11T03:00:00+00:00",
+      "link": null,
+      "description": "David’s very keen to hear all about Joe’s new hobby of bread baking, which he’s taken up in an attempt to be more wholesome with his spare time. So David hatches a lovely plan to record a cosy Bake-Off style episode and begins by asking Joe to explain exactly what’s involved, in as much detail as possible. But Joe seems strangely reluctant to get into it all. Could it be that cracks are stating to appear in his bread baking enthusiasm already??? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5128309243.mp3?updated=1733392540",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2217",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bread"
+      ]
+    },
+    {
+      "key": "9019ca2d4d8cf8ed389ebd7554becacd522a338f",
+      "title": "S12 Ep 513: Cokey-Z and Snipers Ally",
+      "published_at": "2024-12-10T03:00:00+00:00",
+      "link": null,
+      "description": "First up, an enthusiastic but short-lived idea to resurrect local radio phone-in shows on the pod. Then there’s some really big news from Joe when he reveals he’s given up drinking Coke Zero and is also trying to cut down on processed foods. In an attempt to avoid the dreaded ‘snipers ally’, Joe’s now all about less bacon, fewer evening biccies and brown pasta with his meatballs. And it turns out David’s pretty consumed with a healthy diet too and now only buys from farm shops. Then the chat turn to David’s very busy trip to Ikea, the time Joe’s dad helped him renovate his flat in Tooting and an update on metal detecting. It’s all of life of Chatabix today. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5632040070.mp3?updated=1733392793",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2808",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "cokey",
+        "snipers",
+        "ally"
+      ]
+    },
+    {
+      "key": "ce89547f97963f93ca2fb282b956c9beabfbfe23",
+      "title": "S12 Ep 512 Vault Mondays: Chockablock and Stalkers",
+      "published_at": "2024-12-09T03:00:00+00:00",
+      "link": null,
+      "description": "Straight from the vaults - in this one we struggle for a while, talk about Chockablock, stalkers and The Cockfields Facebook thread. First posted on 11th November 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3912624255.mp3?updated=1733392750",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1861",
+      "speakers": [
+        "Vault Mondays",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "chockablock",
+        "stalker"
+      ]
+    },
+    {
+      "key": "ce3ad03f20011df1dcfa2c7759b3ab7add546e45",
+      "title": "S12 Ep 511 Listener’s Mailbag 1: Canal Boats & Music Shop Rows",
+      "published_at": "2024-12-06T03:00:00+00:00",
+      "link": null,
+      "description": "New series, new mailbag. And this week, we read messages about listening to the pod at double speed, canal boating hassles, several sightings of David out in public, some belated birthday wishes and more on TV prop storage. There’s also a long deviation from the emails when David recounts a recent altercation with a music shop assistant. Enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1499065770.mp3?updated=1732814250",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2156",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "canal",
+        "boats",
+        "music",
+        "shop",
+        "rows"
+      ]
+    },
+    {
+      "key": "b74e672f0b98dfc30d9d316bea4b0261b82d9f67",
+      "title": "S12 Ep 510: The Return of the Surprise Guest Episodes",
+      "published_at": "2024-12-05T03:00:00+00:00",
+      "link": null,
+      "description": "It’s been a long while coming but it’s finally time to dust off the spinney chair and get David ready for another nail-biting surprise guest reveal. And for this one, Joe’s lined up a right corker, as it’s someone with a very special connection to the pod. So who could it be - stay tuned to find out??? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4401358193.mp3?updated=1732814274",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2108",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "return",
+        "surprise",
+        "guest"
+      ]
+    },
+    {
+      "key": "58a7a057389324f31380464e93b0543dd59e595d",
+      "title": "S12 Ep 509: Mystery Meet Ups and The Cafe Boys",
+      "published_at": "2024-12-04T03:00:00+00:00",
+      "link": null,
+      "description": "Right, this one’s a little tricky to explain, so here we go… After a brief chat about David’s recent trip to Ikea which doesn’t really go anywhere, Joe tells him about the monthly mystery meet-ups he does with a group of friends from Brighton. Continuing with the theme, David then recounts an impromptu morning he spent in a cafe recently with some of the other dads from his neighbourhood. All of which leads to both of them revealing their general awkwardness when making plans with mates. In true Chatabix fashion, they find the subject very embarrassing to discuss and spend the rest of the episode seriously unraveling. It’s a very awkward conversation indeed - lovely stuff. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3856033123.mp3?updated=1732814296",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2817",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mystery",
+        "meet",
+        "cafe",
+        "boys"
+      ]
+    },
+    {
+      "key": "c4a40cb6cf7d7e4d1ace5c35e238caca273f7bf2",
+      "title": "S12 Ep 508: Our First Episode Back!",
+      "published_at": "2024-12-03T03:00:00+00:00",
+      "link": null,
+      "description": "It’s the first episode of our brand new series! And to mark the new start, the guys are determined to display a lot more wisdom on the pod from now on. After a quick catch up, the chat turns to David’s teenage dreams of being in a successful band and the time he first saw The Cure play at Wembley Arena. Then, with The Cure’s new album recently released, David gets Joe to listen to one of its tracks and he reluctantly shares his thoughts on it. They also discuss music that makes them cry and both have a go at some singing. It’s great to be back - with non-stop wisdom guaranteed. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6525540797.mp3?updated=1732814349",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2766",
+      "speakers": [
+        "Wembley Arena",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "6230ed8ac600a26df53caa38da779b82064fc684",
+      "title": "S12 Ep 507 Vault Mondays: The Wizard Of Woof",
+      "published_at": "2024-12-02T03:00:00+00:00",
+      "link": null,
+      "description": "In this week's archive show from the Chatabix vaults, we chat about feeling embarrassed about performing. Again. First posted on 27th April 2022 Ps. David’s football podcast we mention at the start of the show is now called You Don’t Know What You’re Doing - and available in all the usual pod places. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1369725684.mp3?updated=1732814379",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1829",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "wizard",
+        "woof"
+      ]
+    },
+    {
+      "key": "dc3bbc5dd9f5ded0dcf6083fa9637cf814ecd9b8",
+      "title": "S11 Ep 506 Vault Mondays: The 100th Episode",
+      "published_at": "2024-11-25T00:00:00+00:00",
+      "link": null,
+      "description": "It’s a biggie of a Vault show this week as in this episode, we celebrated our 100th episode!!!! First posted on 25th November 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8779977973.mp3?updated=1731688015",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1886",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays"
+      ]
+    },
+    {
+      "key": "4effcc630a50073998b45c522c2d7974df038145",
+      "title": "S11 Ep 505 Vault Mondays: Joe's Music Library and Becoming A Model",
+      "published_at": "2024-11-18T03:00:00+00:00",
+      "link": null,
+      "description": "In this week’s show from the Chatabix archives, we chat about technical difficulties, Ben Rufus Green, Joe's music library and turning Joe into a successful model. First posted on 23rd June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2380928544.mp3?updated=1731672172",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1837",
+      "speakers": [
+        "Ben Rufus Green",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "music",
+        "library",
+        "model"
+      ]
+    },
+    {
+      "key": "c5f5779a19291ad273e64bfda975dac35fe5d50b",
+      "title": "S11 Ep 504 Vault Mondays: Learning Sea Shanties with Vyvyan Our Weatherman",
+      "published_at": "2024-11-11T03:00:00+00:00",
+      "link": null,
+      "description": "It's another wonderful show from our archive vaults. And in this one, first posted on 18th January 2022, Vyvyan joins us - and we sing! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8761158810.mp3?updated=1730312779",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2592",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "learning",
+        "shanties",
+        "vyvyan",
+        "weatherman"
+      ]
+    },
+    {
+      "key": "0a74ed84654b19bb800832871044cdfec77e6ac5",
+      "title": "S11 Ep 503 Vault Mondays: Impressions Competition and A Surprise Guest",
+      "published_at": "2024-11-04T03:00:00+00:00",
+      "link": null,
+      "description": "In this week’s show from the Chatabix archives, we chat about the charts, listeners unsubscribing and Chatabix buses - then play an impressions games and introduce a surprise guest. First posted on 27th April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1579139385.mp3?updated=1730133551",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1729",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "impressions",
+        "competition",
+        "surprise",
+        "guest"
+      ]
+    },
+    {
+      "key": "31865a0f075a66c95af676f3b3cb058acb4c837d",
+      "title": "S11 Ep 502 Vault Mondays: The Final Episode",
+      "published_at": "2024-10-28T03:00:00+00:00",
+      "link": null,
+      "description": "We might be on a short break until our new series begins - but the Vault Monday shows continue regardless! In this episode, first posted on 29th July 2021, we chat about bad thoughts, what presents to buy and we sing an improvised farewell song. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6377423591.mp3?updated=1729861444",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1872",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays"
+      ]
+    },
+    {
+      "key": "e548fcd0a8e589b0e1bbb685b50a9519efa50df2",
+      "title": "S11 Ep 501 Bonus Vault Episode: Guest - Richard Osman",
+      "published_at": "2024-10-24T02:00:00+00:00",
+      "link": null,
+      "description": "To finish your Chatabix week off in style, we bring you an extra episode from our back-catalogue vaults. And in this show, first posted on 16th November 2022, we’re joined by the brilliant genius Richard Osman, who chats mainly to David about the county of Sussex, whilst Joe watches iPlayer. Then they all turn their attention to gameshows and how to come up with great new TV ideas. There’s also a lot of chat about Deal or No Deal, which it turns out Richard was the producer of for many years. It’s one heck of an episode! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3741928788.mp3?updated=1729528508",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4718",
+      "speakers": [
+        "Richard Osman",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "guest",
+        "richard",
+        "osman"
+      ]
+    },
+    {
+      "key": "65f695697b1f0ddad08910dbd0472c2af593c5dd",
+      "title": "S11 Ep 500 Series Finale: Listener’s Mailbag 9",
+      "published_at": "2024-10-23T02:00:00+00:00",
+      "link": null,
+      "description": "It’s our 500th show and the final episode of this series. So what better way to end things before we take a short break than with a Listener’s Mailbag! We kick things off with a message from someone very close to the pod about Joe’s domestic cleaning - which is all rather awkward for him. And it’s pretty uncomfortable for David too when Joe asks him for an update on his washed sofa covers. This leads onto a long conversation about keeping up with the household chores and their plans to do more cooking. After all that, there’s just time for a few more of your emails, which this week are about catching up on the back catalogue, buying Noel Edmonds old house, going to Bagdad, supporting a mates band and high strength hand-dryers. Thanks for all your messages, we love reading them. Please send us more at chatabix@yahoo.com A bonus Vault episode will be going out tomorrow (Thursday) and our usual Vault Monday shows will continue through the break. We'll be back soon! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7369372129.mp3?updated=1729716815",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1532",
+      "speakers": [
+        "Noel Edmonds old",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "series",
+        "finale",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "684bc79bc26996dfccb63a58cb597282fa1d1bd3",
+      "title": "S11 Ep 499: Patreon Swinger Stories",
+      "published_at": "2024-10-22T02:00:00+00:00",
+      "link": null,
+      "description": "After last week’s episode about swingers, David suggests they ask the Chatabix Patreons if any have swung and might be up for coming on the pod to chat about it. Much like last time, it’s a subject that makes Joe feel very uncomfortable - but he can’t quite explain to David exactly why. After failing to get to the bottom all that, they send out the message and surprisingly get quite a few responses. So they invite one of the people who’ve replied to join them and he kindly Zooms in to reveal all. It turns out he has two very unfortunate stories which are quite the rollercoaster ride. So hold onto your hats - it’s an instant Chatabix classic! Many thanks to our Patreon ‘Minnie’ (not his real name) for being such a good sport. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7427747842.mp3?updated=1729509111",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3323",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "patreon",
+        "swinger",
+        "stories"
+      ]
+    },
+    {
+      "key": "1124c26ef8ff743c9d5e9f0143e43301905c3db6",
+      "title": "S11 Ep 498 Vault Mondays: David Pranks Joe",
+      "published_at": "2024-10-21T02:00:00+00:00",
+      "link": null,
+      "description": "To kick off the Chatabix week, each Monday we’re putting out an episode from the early days of the pod, as there’s plenty you might not have heard. Well, we have recorded about 12,000 episodes. Please excuse any dodgy sound quality as there was plenty of that back then - but we’re hoping you might find that all part of the charm. In this week’s episode, first posted on 31st January 2022, David gets someone on to pretend to be an England cricketer and Joe falls for it and feels very uncomfortable at one point. Enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3808188510.mp3?updated=1729144759",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2770",
+      "speakers": [
+        "David Pranks Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "david",
+        "pranks"
+      ]
+    },
+    {
+      "key": "2ae76c50e4b0652deeec4d4f97cbe39a7f9d6e8f",
+      "title": "S11 Ep 497 Friday Treat: Listener’s Mailbag 8",
+      "published_at": "2024-10-18T02:00:00+00:00",
+      "link": null,
+      "description": "Just in time to kick off your weekend, it’s more treats from the Chatabix mailbag. This week, David and Joe read out messages about a Cliff Richard Blue Plaque, a Chatabix book club, the Totness market bakery, a recent dream about the pod, a song inspired by biscuits, sea-shanties, a potential new theme tune and a listener’s dance music track. It’s a proper musical episode - enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6036277167.mp3?updated=1729142559",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1942",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "fd9ebcb90d0a3036518d65ced587d476d40f2116",
+      "title": "S11 Ep 496: Life Hacks and 5 Year Plans",
+      "published_at": "2024-10-17T02:00:00+00:00",
+      "link": null,
+      "description": "After a quick brainstorm about what to talk about on today’s show, Joe and David decide to look at some life hacks. But after a promising start, they soon get board of the idea. So they scrap that and switch things up by David asking Joe what he’ll be doing in five years time - which sends Joe into a bit of a spin. So you can expect loads of slightly uncomfortable chat about difficult decisions, getting older, maybe relocating to the countryside and whether for not to build a podcast studio in the garden. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7838647114.mp3?updated=1729141560",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2887",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "life",
+        "hack",
+        "year",
+        "plan"
+      ]
+    },
+    {
+      "key": "620dc77ecf401f1812d8924be45a72337fa9d992",
+      "title": "S11 Ep 495: Searching For Swingers",
+      "published_at": "2024-10-16T02:00:00+00:00",
+      "link": null,
+      "description": "After listening to an old Chatabix episode from a couple of years ago, David’s remembered his plan to track down some swingers to talk to on the pod. He and Joe quickly realise it might be quite a weird thing to do, but plough on with the idea nonetheless. Joe’s also pretty worried about the dark web, as he thinks they may have to use it for their research. But as David can’t turn off his browser’s safe-search setting, it looks like it might be up to Joe to do most of the work. So stay tuned to find out what they discover and if they decide to go through with any of it… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6627388092.mp3?updated=1729059912",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2745",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "swinger"
+      ]
+    },
+    {
+      "key": "b63edb1a0b62b1db6a4c30548b6f8dc9a116a815",
+      "title": "S11 Ep 494: Joe Goes to London",
+      "published_at": "2024-10-15T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s travelling up to London for some work and while he’s on the train, he Zooms David to record today’s episode. So, there’s lots of chat about trains, they both tell stories about weird passengers they’ve encountered, we all learn a bit about what ADR is and Joe tell’s David about a recent encounter with a litterer which got him properly worked up. Plus, there’s the obligatory patchy WI-Fi signal, of course. It’s a great way to kick off the Chatabix week! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1204046014.mp3?updated=1728918504",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2296",
+      "speakers": [
+        "Joe Goes",
+        "Zooms David",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "london"
+      ]
+    },
+    {
+      "key": "9bb2e733ca58fe50fc06a4140dc969bebf7bda2e",
+      "title": "S11 Ep 493 Vault Mondays: Joe Takes An IQ Test",
+      "published_at": "2024-10-14T02:00:00+00:00",
+      "link": null,
+      "description": "Another one straight from the vaults - and this time we’re chatting about the quote on Joe's bedroom wall, the charts and Joe takes an IQ test First posted 8th June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9157128408.mp3?updated=1728665496",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1786",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "test"
+      ]
+    },
+    {
+      "key": "8d45eb5ce2710f7fe0d57af780a4a85f02af9857",
+      "title": "S11 Ep 492 Friday Treat: Listener’s Mailbag 7",
+      "published_at": "2024-10-11T02:00:00+00:00",
+      "link": null,
+      "description": "More mailbag, more of your emails - and this week’s selection includes a request for a personalised birthday message, a repot of a kissing Joe, advice on buying a narrowboat, recollections from a holiday in Majorca, information on old TV prop storage, a lovely listener jingle and some momories from a listeners old raving days. Thanks for all your messages, we love reading them! Please send us more at chatabix@yahoo.com FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8698102035.mp3?updated=1728562933",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1925",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "acc8499087a0adf7371b997eba20015c497c1011",
+      "title": "S11 Ep 491: The Secret Housework Quiz",
+      "published_at": "2024-10-10T02:00:00+00:00",
+      "link": null,
+      "description": "After some chat about Spotify playlists and whether they’re starting to looking old, Joe asks David if he’s had any progress with his plans to become a house-husband. Which naturally leads them onto discussing housework in general and just how much of it they actually do? To get to the bottom of things, they come up with a nifty little quiz to find out which of them does the most - and it turns out to be a pretty revealing 15 minutes for the both of them. Also, after wondering how much housework other comedian do, they text Rob Beckett for his take on things and Joe reluctantly reveals his very special recipe for meatballs. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9000549096.mp3?updated=1728493752",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3031",
+      "speakers": [
+        "Rob Beckett",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "secret",
+        "housework",
+        "quiz"
+      ]
+    },
+    {
+      "key": "cb6f2e478b0bc1bc3d8b4870ed029b20df77f9cf",
+      "title": "S11 Ep 490: Old Christmas Promos and Quipping Less",
+      "published_at": "2024-10-09T02:00:00+00:00",
+      "link": null,
+      "description": "It’s a right old mixed bag of chat on today’s show - all very Chatabixy! So, after starting off with David playing some old BBC Christmas promos from the 80’s, the conversation moves onto feeling nostalgic (or not), location film sets in Devon and Brighton, David losing another tooth, feeling weird about people knowing where you live, a few messages from listeners and finally Joe’s ongoing battle to quip less. Whether that’s a good or a bad thing, we’ll leave up too you to decide… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5411588748.mp3?updated=1728373004",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2151",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "christmas",
+        "promos",
+        "quipping"
+      ]
+    },
+    {
+      "key": "b0ac2be4f75cf2362ad9b340fa0f68800443a033",
+      "title": "S11 Ep 489: David Home Alone and Doing Housework",
+      "published_at": "2024-10-08T02:00:00+00:00",
+      "link": null,
+      "description": "To kick off today’s show, Joe tells David that he’s started drawing using his iPad, which he’s really loving and has almost finished his first picture. Also, as they’ve both been ill for the past week, they compare notes on all that. Then it’s onto the main topic of the episode - David’s week alone at home without Naomi, taking full responsibility for looking after the kids and doing all of the household chores. He reckon’s he’s been coping wonderfully and wonders what all the fuss is about. But after a little questioning from Joe, it turns out David might not having been quite as successful as he thought. Will Naomi in fact be returning to a bit of a disaster zone - and will David be able to keep any of it up after she’s back? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9859060045.mp3?updated=1728366442",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3021",
+      "speakers": [
+        "David Home Alone",
+        "Will Naomi",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "home",
+        "housework"
+      ]
+    },
+    {
+      "key": "5b25ad03d75ce7d36ef160ff21733f2050a1b08c",
+      "title": "S11 Ep 488 Vault Mondays: Wearing Makeup and Teenage Songs",
+      "published_at": "2024-10-07T02:00:00+00:00",
+      "link": null,
+      "description": "In this week’s show from the Chatabix archives, first posted on 30th March 2021 (and our second ever episode), David and Joe talk about wearing make up and terrible teenage songs. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7728547654.mp3?updated=1727431452",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1666",
+      "speakers": [
+        "Wearing Makeup",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "makeup",
+        "teenage",
+        "song"
+      ]
+    },
+    {
+      "key": "7f821681b84f849e6c2a12345f4c8a380c945e0c",
+      "title": "S11 Ep 487 Friday Treat: Listener’s Mailbag 6",
+      "published_at": "2024-10-04T02:00:00+00:00",
+      "link": null,
+      "description": "This week’s mail (i.e. emails sent into us over the past 3 years) includes messages about gut-barging, painting canal barges, a missing goat, talking about teeth and a most unfortunate cycling injury. Plus, in a Mailbag first, we speak to the actual Joe Wilkinson whose email we read out last week. What a lovely Chatabiscuit! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1401274630.mp3?updated=1735899051",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2154",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "b42cf304642d3de3a926cf5a7a63500e27e764c1",
+      "title": "S11 Ep 486: David's Regrettable Dance Floor Adventures",
+      "published_at": "2024-10-03T02:00:00+00:00",
+      "link": null,
+      "description": "David has come up with three potential topics to discuss on today’s show and thankfully, Joe likes the sound of all of them. But when David begins with a very embarrassing story from his youth about going to the Café de Paris nightclub in London and the first time he took an ecstasy pill - Joe’s really only interested in hearing more about that. So buckle up for a full hour of revelations about his drug-fuelled night of podium dancing, an extremely regretful dance-floor compliment and some very short-lived DJing aspirations too. Trust us, it’s quite the episode. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1140696267.mp3?updated=1735899111",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3117",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "dance",
+        "floor",
+        "adventure"
+      ]
+    },
+    {
+      "key": "2dc4b656b0ec4b731a9e00bfd4afa86548c91f10",
+      "title": "S11 Ep 485: We Talk To Andrew Who Has Had A Heart Attack",
+      "published_at": "2024-10-02T02:00:00+00:00",
+      "link": null,
+      "description": "On a recent episode of the pod, David and Joe talked about heart attacks and mentioned that they’d be fascinated to speak with someone who’s had one. It turns out that loyal Chatabiscuit Andrew White had one about 10 years ago - and he graciously emailed in to say he’d be happy to have a chat. So he joins us on today’s show for a good old natter about it all. Thankfully Andrew fully recovered from the awful incident and whilst keeping ever vigilant about his health, he’s been making the most of things ever since. Cheers Andrew! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1864328162.mp3?updated=1735899133",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2925",
+      "speakers": [
+        "Andrew White",
+        "Thankfully Andrew",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "andrew",
+        "heart",
+        "attack"
+      ]
+    },
+    {
+      "key": "db0a773fac724f6099e0f1d06c8b1775419f14c6",
+      "title": "S11 Ep 484: Being Alone and Driving Altercations",
+      "published_at": "2024-10-01T02:00:00+00:00",
+      "link": null,
+      "description": "Petra’s been away for a week and to be honest, Joe’s been struggling on his own. Which gets him and David thinking about what life would be like if they became single again - and as it turns out, it’s pretty bleak. Joe then reveals he had an altercation whilst out driving the other day, so him and David swap stories about other annoying road incidents. After all that, to lighten the mood, David tells a story about re-enacting a family photo and looking around his grandparent’s old house in Devon. Lovely stuff. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5887398778.mp3?updated=1727338800",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3239",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "altercation"
+      ]
+    },
+    {
+      "key": "a4e320669d23bbeb9a99b6227171985d19764690",
+      "title": "S11 Ep 483 Vault Mondays: Mark Roberts - The Greatest Streaker In The World",
+      "published_at": "2024-09-30T02:00:00+00:00",
+      "link": null,
+      "description": "To kick off the Chatabix week, each Monday we’re putting out an episode from the early days of the pod, as there’s plenty you might not have heard. Well, we have recorded about 12,000 episodes. Please excuse any dodgy sound quality as there was plenty of that back then - but we’re hoping you might find that all part of the charm. Enjoy! In this week’s show, first posted on 22nd February 2022, we chat to Mark Roberts - the greatest streaker in the world! He's streaked at every event you can think of. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3791602349.mp3?updated=1727337248",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5004",
+      "speakers": [
+        "Greatest Streaker",
+        "Mark Roberts",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "mark",
+        "roberts",
+        "streaker",
+        "world"
+      ]
+    },
+    {
+      "key": "f90a05c645be257d51b4c764fff88a12395a57e9",
+      "title": "S11 Ep 482 Friday Treat: Listener’s Mailbag 5",
+      "published_at": "2024-09-27T02:00:00+00:00",
+      "link": null,
+      "description": "More listener’s emails, both old and new. And the first one we read out is from another Joe Wilkinson - how mad is that! Thanks Joe, lovely to hear from you. Other messages include an invite to a game of tennis, more sightings of Blue Plaques, some behavioural therapy regarding showing off, the problems with listening to the pod whilst using a chainsaw, television props, being on the Krypton Factor and working at Millbank Tower. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8858615576.mp3?updated=1727033295",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1672",
+      "speakers": [
+        "Joe Wilkinson how",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "1cac3f6631f5827ee63d9980af022f9b1c91232b",
+      "title": "S11 Ep 481 Regular Guest: TV Joe and a ‘Name That Age’ Quiz",
+      "published_at": "2024-09-26T02:00:00+00:00",
+      "link": null,
+      "description": "TV Joe’s just back from a trip to Nashville USA. So David and Joe kick things off by finding out how that all went and also ask him a lot of questions about cowboy boots. But of course TV Joe has a new quiz for them to play - and this time it’s a great, three-part game called ‘Name That Age’. David and Joe are pretty excited about it - so much so that they even wonder if Richard Osmond might be interested in the format? So stay tuned to find out what it’s all about and hear how David and Joe get on once the quiz begins. This one’s definitely a winner! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1858555385.mp3?updated=1727033264",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3561",
+      "speakers": [
+        "Richard Osmond",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest",
+        "quiz"
+      ]
+    },
+    {
+      "key": "e8a3501638f0abf26492b1440378cf346b17a20e",
+      "title": "S11 Ep 480: The Drugs Episode",
+      "published_at": "2024-09-25T02:00:00+00:00",
+      "link": null,
+      "description": "Today’s episode begins all very innocently, with David and Joe talking about waterproof watches and looking at some old photos of themselves. But when Joe tells David about the Massive Attack concert he went to recently, it turns out he saw a few people taking drugs there. It made him feel pretty uncomfortable at the time and he admits it’s something that’s always baffled him. Seizing his chance, David then tries to find out exactly what Joe does and doesn’t know about recreational drug use. So the topic for the rest of the episode is set - and it’s a right Chatabix drugs-fest. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6685671297.mp3?updated=1727033209",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3663",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drug"
+      ]
+    },
+    {
+      "key": "dc922124502354cb97d469d6728c32eeebc7efbf",
+      "title": "S11 Ep 479: The Isle of White, the RNLI and a Relocation Gameshow",
+      "published_at": "2024-09-24T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s just back from a trip to the Isle of White where he over-ate and also had quite a few compliments from the locals about The Cockfields. Being a big supporter of the RNLI, he also took the opportunity to visit their station in Bembridge and tells David about watching one of the boats launch. Then for some reason, David remembers that David Walliams has swam the English Channel and so they want to find someone who’s done that too, to ask them what it’s like. Talk then inevitably turns to moving to the Isle of White and also, who gets the ball rolling on discussions about stuff like that with their wives. They then consider loads of other locations across the UK as possibilities to relocate to - so much so that it soon develops into a ‘yes or no’ game show. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3523901919.mp3?updated=1727033183",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2916",
+      "speakers": [
+        "David Walliams",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "isle",
+        "white",
+        "rnli",
+        "relocation",
+        "gameshow"
+      ]
+    },
+    {
+      "key": "ccda61652bca2854152e8bc2962135ca5429fcc2",
+      "title": "S11 Ep 478: Friday Treat: Listener’s Mailbag 4",
+      "published_at": "2024-09-20T02:00:00+00:00",
+      "link": null,
+      "description": "It’s Friday folks - and definitely time for some more emails from the Chatabiscuits. So, after a quick revelation from Joe that he recently went to a Massive Attack concert (much more on that in a future episode hopefully), we read messages about a listener’s band, an embarrassing audio recording from David’s past, a rather awkward situation about an ignored tattoo and some lovely information about three different blue plaques. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2448185236.mp3?updated=1726994179",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1414",
+      "speakers": [
+        "Massive Attack",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "9a367ea4048df0e67e154e5c945269cc2c57a7cf",
+      "title": "S11 Ep 477: Back to St Ives, More Art & A Chat With A Patreon",
+      "published_at": "2024-09-19T02:00:00+00:00",
+      "link": null,
+      "description": "As David’s returning to St Ives for another visit soon, Joe tells him about the time he went to the Tate gallery there. So they discuss some of the art it has and David recounts an afternoon he spent in the town, visiting cosy little art galleries and chatting to a few of the artists. Then he imagines setting a up podcast studio there - much to the annoyance of the other artists. He also visited the beautiful seaside village of Zenner, and tells Joe about that too. So talk inevitably turns to moving to Cornwall again. Finally, as they’re keen to speak to someone who lives in St Ives, they put a call out to the Patreons. And as luck would have it, James does and has lived all his life there. So joins them on Zoom to tell them about it - lovely. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6563313697.mp3?updated=1726994141",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3549",
+      "speakers": [
+        "St Ives",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "ives",
+        "chat",
+        "patreon"
+      ]
+    },
+    {
+      "key": "d415a3e23aa66018aafda44fed21393958173e93",
+      "title": "S11 Ep 476: New Pens and Pod Art - Part 2",
+      "published_at": "2024-09-18T02:00:00+00:00",
+      "link": null,
+      "description": "Picking up from the previous episode, David and Joe continue with their art discussion and firstly consider what it takes to be good at photography. Moving on, they then have a think what their favourite artworks are, discuss Picasso’s Three Dancers, wonder at the brilliance of Bob Dylan’s paintings and worry about coming across as pretentious. David also selects a few more episode titles for Joe to start painting and tries his hand at teaching Joe how to be better at painting. Art-world stardom awaits! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7644316484.mp3?updated=1726994117",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2036",
+      "speakers": [
+        "Bob Dylan",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "pens"
+      ]
+    },
+    {
+      "key": "47a18dcf6fafefa45e0ca55a649e5b671bc037b8",
+      "title": "S11 Ep 475: New Pens and Pod Art - Part 1",
+      "published_at": "2024-09-17T02:00:00+00:00",
+      "link": null,
+      "description": "David’s just ordered a load of fancy new pens, as he started doing sketches of Cornish cottages whilst on holiday and properly got into it. In an amazing co-incidence, it turns out Joe’s recently started drawing again too - great minds think alike and all that. He’s also been wondering about painting pictures based on old episode titles of the pod, and the first one he wants to attempt is ‘Being Skinny and Having Lunch With Linda Lusardi’. Which is an occasion David remembers well, so he starts describing the details for Joe to sketch. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4198168488.mp3?updated=1726994095",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2310",
+      "speakers": [
+        "Linda Lusardi",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "pens"
+      ]
+    },
+    {
+      "key": "bb5b2821956a36150ce6454d9c7c63d23fc3e06d",
+      "title": "S11 Ep 474 Friday Treat: Listener’s Mailbag 3",
+      "published_at": "2024-09-13T02:00:00+00:00",
+      "link": null,
+      "description": "Delving into the Chatabix mailbag once again, we read emails about an actor who was in the Only Fools & Horses spin-off show, advice about weight loss, American football, opinions on Horsham, a very eventful summer job in a London hotel, a suggestion to add tension to David and Joe’s Pyramid game, camper van hassles and John Challis’s house. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3747313374.mp3?updated=1726994065",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2022",
+      "speakers": [
+        "Joe’s Pyramid",
+        "van hassles",
+        "John Challis",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "f0428833dadc673715dfc9dabf4fece83eb09f91",
+      "title": "S11 Ep 473 Regular Guest: Natalie Cassidy with an Eastenders Quiz",
+      "published_at": "2024-09-12T02:00:00+00:00",
+      "link": null,
+      "description": "It’s a wonderful day at Chatabix Towers as Natalie Cassidy is back with David and Joe for a good old natter. And it’s a proper family affair to begin with as she’s joined by her husband Mark and one of their daughters too. They all spent the night camping in the garden. They soon both need to leave to pack up the tents, but not before Davids takes the chance to ask Mark a few questions about being a camera operator at Wimbledon. Then, it’s onto the chatting proper and Nat updates us on a new series she’s filming, how things are going with her podcasts and what working with Ricky Gervais was like. Plus, David hosts an exciting Eastenders quiz and Nat tells us all about how her career got started. It’s one bumper of an episode! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8178581851.mp3?updated=1726994041",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4279",
+      "speakers": [
+        "Natalie Cassidy",
+        "Ricky Gervais",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest",
+        "natalie",
+        "cassidy",
+        "eastenders",
+        "quiz"
+      ]
+    },
+    {
+      "key": "3c67162b8152487c7ff1754aa07d44052ea3eff0",
+      "title": "S11 Ep 472: Tales from the St Ives Museum",
+      "published_at": "2024-09-11T02:00:00+00:00",
+      "link": null,
+      "description": "During David’s recent holiday in Cornwall, he visited the St Ives Museum where he discovered some spooky family history. So he tells Joe all about it, along with plenty more of the Cornish delights that he learnt about at the museum. So sit tight for some wonderful tales from the past, such as the story of the Hearts Ice Cream brothers, the history of the Sloop Inn and the origins of the good old Cornish Pasty. Plus, we meet Podcast Man - a decidedly lacklustre superhero. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3405517062.mp3?updated=1725871495",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2428",
+      "speakers": [
+        "Cornish Pasty",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tale",
+        "ives",
+        "museum"
+      ]
+    },
+    {
+      "key": "bb11d4234d62349811f1b8b0d2dbce457956df50",
+      "title": "S11 Ep 471: David’s Cancelled Walk",
+      "published_at": "2024-09-10T02:00:00+00:00",
+      "link": null,
+      "description": "Worst news - David has hurt his leg and had to cancel his long-planned Two Moors Walk, right before he was supposed to start it. And when he explains what’s happened, it sounds like Joe had exactly the same injury a few years ago. So they compare notes on their symptoms. The big question is though, will David still keep his B&B bookings so he doest lose out on the money he’s paid for them? It’s a huge disappointment and a tough decision to make, so there’s a lot to discuss. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7757617107.mp3?updated=1725869800",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3385",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "walk"
+      ]
+    },
+    {
+      "key": "fd93657cf03db9f7098d370b22eb49ac90603dfa",
+      "title": "S11 Ep 470 Friday Treat: Listener’s Mailbag 2",
+      "published_at": "2024-09-06T02:00:00+00:00",
+      "link": null,
+      "description": "Time to open up the lovely old Chatabix listener’s mailbag once again - and we kick things off with some really old ones. Sorry it’s taken so long to get around to them, but we got there in the end. This week, your topics include Deacon Blue, a Paul Foot gig, a new gardening business, short-lived hobbies, Ibizan Chatabiscuits and foreign listener meet-ups, playing chess, the psychology of showing off and being on Blind Date. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1411530196.mp3?updated=1725276718",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2336",
+      "speakers": [
+        "Paul Foot",
+        "Ibizan Chatabiscuits",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "0b27706e366129d08cd9a536c8bdbcc67b288db2",
+      "title": "S11 Ep 469 Regular Guest: Andy Goldstein (The Nine-Ball Pool King!)",
+      "published_at": "2024-09-05T02:00:00+00:00",
+      "link": null,
+      "description": "Andy is back on the Bix! And it’s been such a long time - so David and Joe are really keen to find out what he’s been up to. Well, as it happens he’s just back from America where he somehow manage to play in the US Nine-Ball Pool Open in Atlantic City. It was undoubtably the trip of a lifetime for him so he tells us all. And with all the deviations and distractions that the three of them always have when chatting, the story takes up the whole of the show. Plus, a whole lotta chat about 80’s chocolate adverts. Lovely stuff. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5063467094.mp3?updated=1725626372",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3313",
+      "speakers": [
+        "Andy Goldstein",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest",
+        "andy",
+        "goldstein",
+        "ball",
+        "pool",
+        "king"
+      ]
+    },
+    {
+      "key": "c53cfe78f1cd0e01b56789500b069d75deacb28e",
+      "title": "S11 Ep 468: David’s At The Dentist Again - Part 2",
+      "published_at": "2024-09-04T02:00:00+00:00",
+      "link": null,
+      "description": "We left the last episode on a right cliffhanger, so hold on tight for the big reveal - just how did David get on at the Dental Implant Centre?! But this is Groundhog Day podding after all, so you know the drill - plenty more repetitious dentistry chat. And stay tuned for some properly dramatic news about his Bath move. There’s also a lot of awful 4G reception from David, so apologies for that. All in all, it’s a classic bit of Chatabix. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9741309236.mp3?updated=1725626390",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2300",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "dentist"
+      ]
+    },
+    {
+      "key": "d7f9567e03720f6e7debbc151e958463e175695e",
+      "title": "S11 Ep 467: David’s At The Dentist Again - Part 1",
+      "published_at": "2024-09-03T02:00:00+00:00",
+      "link": null,
+      "description": "David’s about to go back to the dentist for some more work on his teeth - or should that be the Dental Implant Centre? Either way, he’s pretty anxious again and speaks to Joe beforehand to explain exactly what he’s having done and how much it’s all costing. They also discuss the awkwardness of teeth whitening, read out some dental surgery reviews, consider death (of course) and wonder if all podcasters are ‘just a bit shit’. Joe also points out that they might be repeating a lot of this from their previous dentist episode, but none-the-less has another go at telling David about his hernia op. It’s a proper Groundhog Day edition of the pod. Make sure to check out part 2 to find out how the appointment went. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2500485009.mp3?updated=1725263680",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2759",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "dentist"
+      ]
+    },
+    {
+      "key": "f496a9d38619169c19fecd3592aba25499f36d90",
+      "title": "S11 Ep 466 Friday Treat: Listener’s Mailbag 1",
+      "published_at": "2024-08-30T02:00:00+00:00",
+      "link": null,
+      "description": "In an exciting new addition our Friday Treat shows, David and Joe open up the Chatabix mailbag (well, email account actually) and read out a selection of your recent messages. And some not so recent too, as its been while since they last checked. So you can expect a right mixed bag of suggestions, questions, praise, criticisms and advice from some of our lovely listeners out there. This week’s topics include rollercoasters, mudlarking, American fans and mystery football matches. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9364061208.mp3?updated=1724497213",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1600",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "listener",
+        "mailbag"
+      ]
+    },
+    {
+      "key": "b30f29d84e787e2ec659393bb0dce5daed6dc7ac",
+      "title": "S11 Ep 465: Joe’s Embarrassing BBQ Games",
+      "published_at": "2024-08-29T02:00:00+00:00",
+      "link": null,
+      "description": "Joe went to a friend’s BBQ at the weekend, where all the guests played lots of games in the garden. He knows he got very competitive about it all and fortunately for us, some of the action was filmed. So he reluctantly sends David a few of the video clips for an analysis of his behaviour. And it turns out Joe’s excitement when celebrating was just as embarrassing as he remembers. David digs in to make the most of the discomfort - this is one deliciously awkward episode. Enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9364111848.mp3?updated=1724495633",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2895",
+      "speakers": [
+        "Games Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "embarrassing",
+        "games"
+      ]
+    },
+    {
+      "key": "eeb50b642f2f604167bfb806541497b3d7506c8b",
+      "title": "S11 Ep 464: David’s Beautiful Bath Tour Part 2",
+      "published_at": "2024-08-28T02:00:00+00:00",
+      "link": null,
+      "description": "We’re back with David in Bath as he continues his tour of the city - with Joe on Zoom, following him on Google Maps. But they don’t get very far this time as David soon stumbles upon a beautiful cricket ground, right in the centre of town alongside the river. He’s instantly in heaven. He also gets recognised and is offered a cup of coffee while he watches the players warm up for their match. Then it’s a wander along the river Avon, whilst he and Joe imagine what a new life living there would be like. Lovely stuff. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3149057221.mp3?updated=1724493620",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2014",
+      "speakers": [
+        "David’s Beautiful Bath Tour",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "beautiful",
+        "bath",
+        "tour"
+      ]
+    },
+    {
+      "key": "03e0fa58c9d7b08fef094d4dec759e5b76b6ccb3",
+      "title": "S11 Ep 463: David’s Beautiful Bath Tour Part 1",
+      "published_at": "2024-08-27T02:00:00+00:00",
+      "link": null,
+      "description": "David’s in the beautiful city of Bath for a few days, to scout for a potential new home - so Joe join’s him on Zoom while he has a drive around. With eight house viewings already booked in, David also wants to see some sights and get a feel for the place that he’s rapidly falling in love with. It just so happens that where David is starting off is right near Joe’s mother-in-law’s house, and also where his favourite place in Bath is. So they make sure to include those destinations on the journey. Off they go on their exiting adventure to explore the city… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5646690665.mp3?updated=1724492433",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2072",
+      "speakers": [
+        "David’s Beautiful Bath Tour",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "beautiful",
+        "bath",
+        "tour"
+      ]
+    },
+    {
+      "key": "39f69015ca7e582acbfe84b03a4e480b37ca25a2",
+      "title": "S11 Ep 462: David’s Bought A Cold Tub",
+      "published_at": "2024-08-22T02:00:00+00:00",
+      "link": null,
+      "description": "In some very exciting news, David’s bought a cold tub and of course Joe wants him to get into it on the pod. But for a number of reasons he won’t today, so that’s the end of that for the moment (watch this space). David does have a boxer-size class later in the morning though, so he does some demonstrations for Joe. In true Chatabix fashion, the conversation then spirals off into a whole host of miscellaneous delights. They even have a little competition over how long they can crouch down leaning against a wall for. It’s all go on today’s show. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6371626551.mp3?updated=1724246011",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2279",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "cold"
+      ]
+    },
+    {
+      "key": "d43f64dfa158178dbe3be566f9481727cd4c5513",
+      "title": "S11 Ep 461 Special Guest: Tim Oliver - The David Brent Impersonator",
+      "published_at": "2024-08-21T02:00:00+00:00",
+      "link": null,
+      "description": "On today’s show, our very special guest is the world’s best David Brent impersonator, Tim Oliver. So once Joe and David have calmed down after first seeing and hearing him in character (he’s so good it’s all a bit overwhelming), they chat to Tim about how on earth he got into it all. Plus, appearances at work parties, stag-do’s and a even wake, doing 1000’s of Cameo videos, how best to maintain a permanent goatee and the time he got to interview Ricky Gervais himself. It has to be said, Tim is one of the guy’s favourite guests ever - fact! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9886324738.mp3?updated=1724056872",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3000",
+      "speakers": [
+        "David Brent",
+        "Tim Oliver",
+        "Ricky Gervais",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "special",
+        "guest",
+        "oliver",
+        "david",
+        "brent",
+        "impersonator"
+      ]
+    },
+    {
+      "key": "d5f117dc0ff3c1dfe75f03bd472ed17add06e5e2",
+      "title": "S11 Ep 460: Thinking About Getting A Dog",
+      "published_at": "2024-08-20T02:00:00+00:00",
+      "link": null,
+      "description": "It’s another electric start to the show with the guys both pumped and ready for action. Not really - this is Monday morning podding after all. Once they eventually wake up and have a chat about their weekends, David reveals that he’s bought a hamster for his son. But unfortunately, he’s already worrying about it dying. So Joe tells him about the sickly dog his family had when he was growing up. It just so happens that David’s really thinking about getting a dog at the moment, so he asks Joe loads of questions about what it’s like to look after one. They don’t quite see eye to eye on the matter and decide to way up the pros and cons - with the picking up of its shit seemingly of primary concern. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9414447406.mp3?updated=1724245986",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2447",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "e380c9e9df8b37beea078de3a87c600e4f2298be",
+      "title": "S11 Ep 459 Friday Treat: Pub Jokes 6",
+      "published_at": "2024-08-16T02:00:00+00:00",
+      "link": null,
+      "description": "More Friday treats for you courtesy of the Chatabix old pub jokes mail bag. And with Joe in a rather cheeky mood, it’s a right smutty selection this time - you have been warned. Have a good laugh and a wonderful weekend too! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2724129931.mp3?updated=1723450276",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1547",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "jokes"
+      ]
+    },
+    {
+      "key": "d63b062607458a369bb0b3168f5c1d99df2e9006",
+      "title": "S11 Ep 458 Regular Guest: TV Joe’s Name That Theme",
+      "published_at": "2024-08-15T02:00:00+00:00",
+      "link": null,
+      "description": "Thanks heavens, it’s TV Joe time again. And he’s back with more television-themed quizzes for us. But that’s not before David and Joe have quizzed him on a few things themselves, like what’s it like being a session musician, if he has any good show-biz anecdotes and what music TV shows he’s played on. Plus a bit of cricket scoring chat and some TV news too. Then, it’s on with the wonderful new gameshows - name that theme and name that scene. Quiz-on! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7196448583.mp3?updated=1723449448",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3747",
+      "speakers": [
+        "Joe’s Name",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest",
+        "theme"
+      ]
+    },
+    {
+      "key": "b252f4791bc5b2fbe380e6418fe702555a20a934",
+      "title": "S11 Ep 457: David Goes To The Dentist",
+      "published_at": "2024-08-14T02:00:00+00:00",
+      "link": null,
+      "description": "David’s going to the dentist for a filling and is pretty anxious about it as he hasn’t been for ages. So it’s an obvious opportunity to document the whole experience on the pod - this is Chatabix after all. Speaking to Joe beforehand, David’s a little high on nerves and distracts himself by singing some old songs and finding out about the hernia operation Joe had years ago. And they continue the chat as David leaves home and drives to the surgery, in spite of some pretty terrible Wi-Fi. Then finally, with the procedure complete and his mouth still a little numb, David gives Joe a full debrief - and what a brave boy he’s been. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7874852384.mp3?updated=1723448554",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2547",
+      "speakers": [
+        "David Goes",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "dentist"
+      ]
+    },
+    {
+      "key": "46a9d2a7e576df48349ecfbc2acba071c88c2466",
+      "title": "S11 Ep 456 Drivel 19: Eleven Podcast Discussion Points",
+      "published_at": "2024-08-13T02:00:00+00:00",
+      "link": null,
+      "description": "When the guys realise they’ve nothing to talk about on today’s pod, David decides to list all the things that have been on his mind recently. And for some reason, Joe writes them all down. But that thankfully provides the solution to the rest of the show, as he dives in to quiz David about them all - one by one and ticking them off as he goes. Genius podding! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9632695714.mp3?updated=1723447303",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2567",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "podcast",
+        "discussion",
+        "points"
+      ]
+    },
+    {
+      "key": "fc0015a0bbf388839e06b913417fbfb72056c6c1",
+      "title": "S11 Ep 455 Friday Treat: Coin-Toss Snooker Final",
+      "published_at": "2024-08-09T02:00:00+00:00",
+      "link": null,
+      "description": "It’s the day you’ve all been waiting for - the grand final of our Coin-Toss Snooker Tournament! And we’re back in glorious Sheffield with a capacity crowd at The Crucible to watch all the action. Our two finalists have battled their way through three gruelling rounds and now face each other across the baize. They are of course, Chris ‘The Spider’ Webster and Oakley ‘Perky’ Perkinson. Who will win the day and be crowned the Chatabix Coin-Toss Champion? Or should that be Plectrum-Toss? Crumbs this is exciting! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8105795472.mp3?updated=1723038459",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1243",
+      "speakers": [
+        "Oakley Perky",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "coin",
+        "toss",
+        "snooker",
+        "final"
+      ]
+    },
+    {
+      "key": "414de9e03627221c74443aa5f72b90a3f1a69291",
+      "title": "S11 Ep 454: Usual Drivel: A Female Joe and Getting Older",
+      "published_at": "2024-08-08T02:00:00+00:00",
+      "link": null,
+      "description": "Despite David feeling a little bit iffy, he and Joe plough on with today’s show and start off by imagining what Joe would be like as a woman. And they come up with a pretty comprehensive picture actually - looks, clothes, husband, son and a profession too. Moving on, talk turns to their short-realised ideas, such as moving to Antigua, surfing, metal detecting, and magnet fishing. Then some thoughts about Joe’s 50th and the guys have a bit of a panic about getting older. Fun times on the pod! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6800398229.mp3?updated=1722859097",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2083",
+      "speakers": [
+        "Female Joe",
+        "Getting Older",
+        "Joe’s th",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "female"
+      ]
+    },
+    {
+      "key": "89582343c8ff6a186ec32108a48c6d48e604770c",
+      "title": "S11 Ep 453: The Constable of Camping - Joe Goes Camping Pt 2",
+      "published_at": "2024-08-07T02:00:00+00:00",
+      "link": null,
+      "description": "More tales of woe from Joe’s recent campaign trip. Find out whether things improved at all on his second day in the glorious Sussex countryside, and if he actually mange another night sleeping in his tent? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6696592644.mp3?updated=1722857227",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1934",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "constable",
+        "camping"
+      ]
+    },
+    {
+      "key": "7413f65b96d4406ce57cce990ea204fc66f47d01",
+      "title": "S11 Ep 452 Usual Drivel: Joe Goes Camping Pt 1",
+      "published_at": "2024-08-06T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s just back from a weekend away camping with Petra and a load of their friends. He’d revealed to David beforehand that he really wasn’t looking forward to the camping side of the trip - especially things like pitching the tent and using the showers and toilets. So David digs in deep on all of the details and relishes every minute of Joe’s tales of discomfort, irritability and complete ineptitude in helping out with practical matters. We end things on a cliffhanger moment, the morning after Joe’s first stressful night of sleeping in a tent. So make sure you catch part 2 to find out what happened. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5988787424.mp3?updated=1722854952",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2911",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "camping"
+      ]
+    },
+    {
+      "key": "98e7eed975fbfdab534fdd65d63961d83ec0a96c",
+      "title": "S11 Ep 451 Friday Treat: The Podcast Charts Quiz",
+      "published_at": "2024-08-02T05:06:00+00:00",
+      "link": null,
+      "description": "David and Joe come up with an idea to play a game based on the podcast charts. They get over excited and really enjoy themselves. Pathetic really. David's 50 and Joe's 49 - grow up lads, yeh? Anyway, here's some Friday fun. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1584142379.mp3?updated=1722584209",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1927",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "podcast",
+        "charts",
+        "quiz"
+      ]
+    },
+    {
+      "key": "ee68dd6c061ac38de7cc193f6638c09cfcd8a097",
+      "title": "S11 Ep 450 Usual Drivel: Room Service vs Fruit & Mozzarella",
+      "published_at": "2024-08-01T02:00:00+00:00",
+      "link": null,
+      "description": "David stayed at a London hotel last night and is shattered after a late night out in Soho. He’s also feeling very old after being around so many trendy, young London people. But he’s ordered some room service, which Joe reveals he’s never done before - so David wants to know why. It turns out he’s rather more of reluctant to spend money than David had realised. So stay tuned to find out why rather than the occasional hotel luxury, Joe prefers a trip to the supermarket to buy some fruit and a carton of mini mozzarella balls. Somewhat predictably, this episode contains quite a bit of unraveling… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5290367824.mp3?updated=1722254279",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3396",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "room",
+        "service",
+        "fruit",
+        "mozzarella"
+      ]
+    },
+    {
+      "key": "5fa1a66558ddfaadc2779a0aae1476b747517988",
+      "title": "S11 Ep 449 Usual Drivel: Pembrokeshire and House Extensions",
+      "published_at": "2024-07-31T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s just back from a holiday in Pembrokeshire, so he tells David about what he got up to. Unfortunately the weather wasn’t great but he did bump into comedian Paul F. Taylor, which was nice. And they discuss why they both always imaging living in the different holiday destinations that they visit. Joe also got stuck in a huge traffic jam on his way home, which may have tarnished his memory of the holiday - along with having to clear up the AirBnB at the end. Then, as David’s no longer moving, a home extension is on the cards at the Earl household. So there’s plenty more for them to discuss as Joe’s already been through the process. But they’re both worried this might be a really boring chat to listen to? Plus, news of a potential new Friday Treat episode about bunking off excuses. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4719334427.mp3?updated=1722415337",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3086",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "pembrokeshire",
+        "house",
+        "extensions"
+      ]
+    },
+    {
+      "key": "36e2c25d0285f0f6f51a91a56cfcf72e811f8ebb",
+      "title": "S11 Ep 448 Usual Drivel: David’s New Bathroom Chaos",
+      "published_at": "2024-07-30T02:00:00+00:00",
+      "link": null,
+      "description": "We’re not gonna lie, it’s a haphazard start to the opening of the show. But once things have settled down, Joe and David start chatting about house extensions and how much hassle they may or may not be to organise. Which leads onto David recounting his rather stressful visit to a bathroom showroom recently with his family. Let’s just say the whole experience left him a little despondent. But thanks to the sterling efforts of his wife Naomi, at least they have a new bathroom to look forward to. Plus, some chat about crappy old jobs and news about Joe joining a gym. Classic Chatabix! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1198432492.mp3?updated=1722252151",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2539",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david",
+        "bathroom",
+        "chaos"
+      ]
+    },
+    {
+      "key": "8c88cc1cecb070bc014117798818e840d31adfaa",
+      "title": "S11 Ep 447 Regular Guest: TV Joe's Family Fortunes",
+      "published_at": "2024-07-25T02:00:00+00:00",
+      "link": null,
+      "description": "Time for another visit from TV Joe, who’s back with a new (or should that be old?) TV gameshow for David and Joe to play - Family Fortunes! First up though, and in spite of it being very old news now, the guys have a re-cap of Joe’s recent trip to Germany for the Euro’s semi-final. Which leads to a conversation about iconic sporting events and despite Joe’s disinterest, quite a bit of cricket chat too. Then it’s on with the game - which is considerably more difficult than the three of them had expected. Our survey said… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4795245128.mp3?updated=1721298409",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3164",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest",
+        "family",
+        "fortunes"
+      ]
+    },
+    {
+      "key": "8c6dae781baf357384fddb0dfe1f000e7e0fc070",
+      "title": "S11 Ep 446 Usual Drivel: The Wedding Speech Debrief",
+      "published_at": "2024-07-24T02:00:00+00:00",
+      "link": null,
+      "description": "It’s the first time that the guys have spoken since David did his best man speech, and Joe’s really keen to find out how things went. But first they need to get some tech issues sorted, discuss a few ailments and have a look at the special running shoes Joe wears because of his ‘blocky’ feet. Then, once David finally gets over his reticence to talk about it, he reveals all about doing his speech. The wedding was also in Joe’s home town of Brighton, so he wants to know exactly where and when everything happened. And there’s quite a lot of chat about crying too and surprisingly, some quotes from Gary Neville. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6116529007.mp3?updated=1721296390",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2458",
+      "speakers": [
+        "Gary Neville",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "wedding",
+        "speech",
+        "debrief"
+      ]
+    },
+    {
+      "key": "55cd5470036ddfdb237e5faecfc99648672898e4",
+      "title": "S11 Ep 445 Usual Drivel: The Day Before David’s Best Man Speech",
+      "published_at": "2024-07-23T02:00:00+00:00",
+      "link": null,
+      "description": "It’s the day before David’s best man speech and his best friend Mike’s wedding day, of course. So Joe and David have a lot to talk about - from practicing his speech and the weather prospects, to tactics for overcoming nerves and what suit he’s going to wear. And also whether he can get away with wearing his huge compass watch on the big day? They also both reminisce about their own weddings and how great they were. Then, in a complete change of subject, they excitedly reveal to each other what their latest Mystery Football shirts are, and have a check of the charts too. Well, it’s been a while. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1238860581.mp3?updated=1721296410",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2687",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "david",
+        "best",
+        "speech"
+      ]
+    },
+    {
+      "key": "8b9a107182397aac0d0dd18c36e1163c96edbd03",
+      "title": "S10 Ep 444 Friday Treat: Pub Jokes 5",
+      "published_at": "2024-07-21T09:01:00+00:00",
+      "link": null,
+      "description": "It’s time to kickstart your weekend with another cracking Chatabix selection of old-school pub jokes. So expect loads and loads and loads of laughs as David and Joe are joke heaven! Thanks for all the submissions you’ve been sending in and keep ‘em coming at chatabix@yahoo.com FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5098557724.mp3?updated=1721552789",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1329",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "joke"
+      ]
+    },
+    {
+      "key": "1e8c7530fb3c7e1ca32ba0d30112c944057c0463",
+      "title": "S10 Ep 443 Ad Hoc Drivel: David Goes To Watch The National",
+      "published_at": "2024-07-18T02:00:00+00:00",
+      "link": null,
+      "description": "David’s just been to see one of his favourite bands The National, who were performing a concert at the Eden Project in Cornwall. He was shattered for the whole evening and had a weary drive there and back, but loved every minute of the show. Well, those minutes that he actually stayed for, as he may of may not have made it to the end? The concert got him thinking about what it’s like being 50 and playing in a band for a living - and also that their drummer looks a lot like Joe. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3561508765.mp3?updated=1721282466",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2412",
+      "speakers": [
+        "David Goes",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "david",
+        "national"
+      ]
+    },
+    {
+      "key": "9f4cefdf27a4296906e572977a9355c1e6391498",
+      "title": "S10 Ep 442 Ad Hoc Drivel: Joe at the Ibiza Proms",
+      "published_at": "2024-07-17T02:00:00+00:00",
+      "link": null,
+      "description": "Joe went to an Ibiza Proms concert on Brighton beach at the weekend and David wants to know everything about it. Unsurprisingly, Joe wasn’t in his comfort zone for most of the event - and even popped home to watch some football for a few hours. So David digs in for more information and enjoys every minute of Joe’s squirming. Plus, there’s some chat about DJing, a tale about meeting a millionaire and an update on the long awaited stag-do that David’s just returned from. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2351003432.mp3?updated=1721042241",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2993",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "ibiza",
+        "proms"
+      ]
+    },
+    {
+      "key": "4157a3b633ec50980662937264b4c7712f12c399",
+      "title": "S10 Ep 441 Back Catalogue Guest: Parkrun founder Paul Sinton-Hewitt",
+      "published_at": "2024-07-16T02:00:00+00:00",
+      "link": null,
+      "description": "It’s the last of our Back Chatalogue surprise guest repeats - and this one was a very special occasion for Joe. Earlier this year, he and David were joined by Paul Sinton-Hewit, who is the founder of Parkrun. It’s a fantastic organisation which has played an important part in thousands of runner’s lives all over the world since Paul founded it in 2004. Least of all Joe’s, who might be one of its biggest fans. So Paul kicks things off with some of Joe’s running and volenteering statistics, before going on to explain how Parkrun came about and grew into the much-loved institution that it is now. Joe was in heaven! Recorded March 2024 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6403043508.mp3?updated=1720709524",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3381",
+      "speakers": [
+        "Paul Sinton",
+        "Paul Sinton-Hewit",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "parkrun",
+        "founder",
+        "paul",
+        "sinton",
+        "hewitt"
+      ]
+    },
+    {
+      "key": "87074fa92f1b3c6c1bf3c5928658a101e3694cfb",
+      "title": "S10 Ep 440 Friday Treat: Coin Toss Snooker - The Semi-Finals",
+      "published_at": "2024-07-12T02:00:00+00:00",
+      "link": null,
+      "description": "We’re down to the last four players in our Chatabix Coin-Toss Snooker Tournament - and the tension is really mounting! Today’s two matches are Karen ‘Have-a’ Loveday vs Chris ‘The Spider’ Webster, and Oakley ‘Perky’ Perkinson vs Jennifer ‘The Umlaut’ Grunwald. Who will make it through to the grand final? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3405831722.mp3?updated=1721043484",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1065",
+      "speakers": [
+        "Oakley Perky",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "coin",
+        "toss",
+        "snooker",
+        "semi",
+        "final"
+      ]
+    },
+    {
+      "key": "d10d0a657e4a5702ea68e0ad7e67cede5a5de8e1",
+      "title": "S10 Ep 439 (BONUS!): Joe's Review Of The Euro Semi Final",
+      "published_at": "2024-07-11T07:51:00+00:00",
+      "link": null,
+      "description": "Joe was at the Euro Semi Final in Dortmund and gives us the lowdown. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8868030036.mp3?updated=1720709708",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2021",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "review",
+        "euro",
+        "semi",
+        "final"
+      ]
+    },
+    {
+      "key": "e7b877c11e8bbdb670ddf830fac94411cfbc1508",
+      "title": "S10 Ep 438: David’s Trip To London",
+      "published_at": "2024-07-11T02:00:00+00:00",
+      "link": null,
+      "description": "David’s taken the train up to London for a meeting in Soho. So while he walks there from Paddington station, he gives Joe a call so they can chat on the way. Joe suggest’s doing a Blue Plaque tour, reads out some local London history and also tries to convince David to overcome his fear of the Underground. No chance! David also pops in to Superdrug to get some deodorant, grabs a sandwich from Pret, and tracks down the Post-Production offices where he used to work many years ago. It’s a lovey little wander through the West End. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6686755836.mp3?updated=1720709611",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2389",
+      "speakers": [
+        "David’s Trip",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "trip",
+        "london"
+      ]
+    },
+    {
+      "key": "7b413b71c6047881bec9b9049cdd019fb0b6dc31",
+      "title": "S10 Ep437 (BONUS!): Where's Joe Now - Bonus episode!",
+      "published_at": "2024-07-10T08:49:00+00:00",
+      "link": null,
+      "description": "Joe calls David and does an extra special where's Joe Now. Completely out of the blue, this episode. Hence the terrible audio. But, please - there was nothing we could do. Nothing. Almost, nothing. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1891611936.mp3?updated=1720709673",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1172",
+      "speakers": [
+        "Joe Now",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "7d78015253cef055b6627191665ad44fb63aedb1",
+      "title": "S10 Ep 436 Ad Hoc Drivel: One Belter Of An Episode!",
+      "published_at": "2024-07-10T02:00:00+00:00",
+      "link": null,
+      "description": "It’s a sticky start to the episode as the guys have nothing to talk about. So they have a try at anything they can think of - from playing Pictionary and checking the charts, to reading out dodgy limericks and reminding themselves of the 90’s TV show Win Lose Or Draw. Then talk turns to celebrities they’ve met earlier in life, like Natalie Imbruglia and Daley Thompson. Which sparks off a whole lot of reminiscing about shitty old jobs. Plus, David closes the show by singing a whole James Blunt song - Chatabix drivel at its finest! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5780675180.mp3?updated=1720432068",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3250",
+      "speakers": [
+        "Natalie Imbruglia",
+        "Daley Thompson",
+        "James Blunt",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "belter"
+      ]
+    },
+    {
+      "key": "be3382986ffda4db1e4e5e8e2943f9dae64d8350",
+      "title": "S10 Ep 435 Back Catalogue Guest: Lee Mack Part 2",
+      "published_at": "2024-07-09T02:00:00+00:00",
+      "link": null,
+      "description": "It’s the second part of Joe and David’s mega-chat with last week’s guest Lee Mack. Picking things up again, the talk turns to game shows, pitching new ideas, learning lines, script read-through and the challenges of recording with a live audience. Plus, Lee tries to cast David as a policeman in his huge hit sit-com Not Going Out. It’s another epic episode! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7777563576.mp3?updated=1719904021",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4001",
+      "speakers": [
+        "Lee Mack",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "mack"
+      ]
+    },
+    {
+      "key": "dc8dff35a2fa1138ac0cfa8fee8da4f71e999277",
+      "title": "S10 Ep 434 Friday Treat: Pub Jokes 4",
+      "published_at": "2024-07-05T02:00:00+00:00",
+      "link": null,
+      "description": "Time for another selection from all the great old-school pub jokes that you’ve been sending into us. And this time there’s some right classics in there! We couldn’t think of a better way to finish off the week. Thanks to all everyone for sending them in - keep ‘em coming at chatabix@yahoo.com FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8405732755.mp3?updated=1720020353",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1481",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "joke"
+      ]
+    },
+    {
+      "key": "c74a52f1b76788c8887e509faa0b9fe372904559",
+      "title": "S10 Ep 433 Regular Guest: John Fendley aka Fenners",
+      "published_at": "2024-07-04T02:00:00+00:00",
+      "link": null,
+      "description": "Fenners is back! And even though he’s on a tight schedule for the recording, he’s got loads to tell us about. It’s a heady mix of flat tires, speeding tickets, Soccer Aid, his new podcast about a fictional football team, changing rooms, training grounds, old TV shows, favourite interviews, presenting an awards ceremony and a very secret new project. So much to talk about! They only just remember right at the end to see how Fenners did with Joe’s challenge to find him a new jacket. There’s three to choose from - which will Joe pick? Make sure to check out Fenners new podcast FC Bullard - available on all the usual pod platforms. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8093193472.mp3?updated=1720018803",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4365",
+      "speakers": [
+        "John Fendley",
+        "Soccer Aid",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest",
+        "john",
+        "fendley",
+        "fenner"
+      ]
+    },
+    {
+      "key": "81a5286031e37739e04d26d52060f96ff26b4ea1",
+      "title": "S10 Ep 432 Ad Hoc Drivel: Insta Live Podding & Rollercoaster Club",
+      "published_at": "2024-07-03T02:00:00+00:00",
+      "link": null,
+      "description": "To kick off the show, Joe tries to trick David by being on a Insta Live at the same time as recording the pod. That soon falls flat though as David knew anyway. In spite of their discomfort at being ‘live’, they plough on regardless and let’s just say, things don’t go smoothly. But then they get one of the viewers to join them who saves the days with some wonderful words of encouragement - thanks Emma! Then Joe tells David about his magical day at the ceremony to award Sue Johnston the Freedom Of The City Of Liverpool and also explains why he’s not going to Thorpe Park today to ride the rollercoasters. David then puts a call-out to the Patreons to see who’s been on The Tower Of Power waterslide in Tenerife. After a short wait there are plenty of Chatabiscuits joining them - so let the rollercoaster club commence! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5937177910.mp3?updated=1719904464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3388",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "insta",
+        "podding",
+        "rollercoaster",
+        "club"
+      ]
+    },
+    {
+      "key": "6304fef666cdc597901e824bb660a1159693f309",
+      "title": "S10 Ep 431 Back Catalogue Guest: Lee Mack Part 1",
+      "published_at": "2024-07-02T02:00:00+00:00",
+      "link": null,
+      "description": "It’s time for another ‘no longer a surprise guest’ repeat show - and we’ve only gone and got Lee Mack joing us! As you’ll all know, Lee is one of the UK’s most well-loved comedians and the undisputed fastest mind in comedy. So unsurprisingly, this is one heck of a Chatabix episode and the guys had so much to talk about, we had to split it into two halves. Part 2 coming next week… Recorded October 2023 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1831537866.mp3?updated=1719980567",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3866",
+      "speakers": [
+        "Lee Mack",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "mack"
+      ]
+    },
+    {
+      "key": "df85bf74f88148c56d938b6bbf5a4a2f8ebbbf9f",
+      "title": "S10 Ep 430 Friday Treat: Coin-Toss Snooker Tournament Round 2",
+      "published_at": "2024-06-28T02:00:00+00:00",
+      "link": null,
+      "description": "We’re back for the quarter finals of David and Joe’s coin-toss snooker tournament. Although if you remember from last time, they actually use a guitar plectrum rather than a coin - CROCODILE / PLAIN! The players are ready in their dressing rooms and the tension in the auditorium is mounting. Who of the eight young hopefuls will move one step closer to their dream? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5663592235.mp3?updated=1718628945",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1410",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "coin",
+        "toss",
+        "snooker",
+        "tournament",
+        "round"
+      ]
+    },
+    {
+      "key": "fc75e31324b498c43142ae1eeb115eca00f159e9",
+      "title": "S10 Ep 429 Special Guest: Kiell Smith-Bynoe",
+      "published_at": "2024-06-27T02:00:00+00:00",
+      "link": null,
+      "description": "After a slightly awkward discussion about how easy it is to get sucked into buying Apple Mac products, David are Joe are thankfully joined by the wonderful Kiell Smith-Bynoe! As you’ll all know, Kiell is a hugely successful actor and comedian and one of the busiest people in showbiz, so they were thrilled he could join them for a chat. Their conversation covers everything from sleeping habits and late night partying to presenting the Great British Sowing Bee and dealing with tiny autocues. Then David remembers about the ‘guest question game’ they played with Roisin Conaty using his ideas board - so Kiell picks his first topic… Make sure to catch Kiell’s group-improv show ‘Kool Story Bro’ at the Edinburgh Festival’s Plesance Theatre this August - or the Brighton Corn Exchange in October. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7384377881.mp3?updated=1718796740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5115",
+      "speakers": [
+        "Kiell Smith-Bynoe",
+        "Kool Story Bro",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "special",
+        "guest",
+        "kiell",
+        "smith",
+        "bynoe"
+      ]
+    },
+    {
+      "key": "8ba8e7771ab5c4c629e7b1bfb75febb7bf5e5ebc",
+      "title": "S10 Ep 428 Ad Hoc Drivel: David’s 120 Mile Walk",
+      "published_at": "2024-06-26T02:00:00+00:00",
+      "link": null,
+      "description": "David’s just booked his 120 mile walk across Dartmoor and Exmoor, so there’s plenty for him to discuss. But first he wants to know why Joe isn’t swimming anymore and things get a little tense. Then Joe has to help Petra with her car, so David outlines his walking route for us while he waits for Joe to return. The conversation then soon gets back on track and David comes up with a plan for Joe to do the same walk in reveres and meet him halfway. David reckons it’d be great to record it all for the pod, but Joe gonna need some convincing about that. Plus, they finish things off with a long overdue look at the charts and invent a spur of the moment quiz about them too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7651760982.mp3?updated=1718623312",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2678",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "david",
+        "mile",
+        "walk"
+      ]
+    },
+    {
+      "key": "ab7f6dbfe889613e15c620c7947a2ba68b038eea",
+      "title": "S10 Ep 427 Back Catalogue Guest: Sue Johnston",
+      "published_at": "2024-06-25T02:00:00+00:00",
+      "link": null,
+      "description": "This week’s repeat show ‘no longer a surprise guest’ guest is the one and only Sue Johnston! Sue’s not only a national treasure and one of our very favourite actors, we’ve also had the privilege of working with her on a number of sit-coms too. So there was lots to catch up on, reminisce and chat about - once we got all the technical issues out the way first that is. We hope you enjoy listening as much as we did recording it. First broadcast in March 2023 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8207188470.mp3?updated=1719303079",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3625",
+      "speakers": [
+        "Sue Johnston",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "johnston"
+      ]
+    },
+    {
+      "key": "f6ed343d8a7014e443a2ff845641dff10c4a77b4",
+      "title": "S10 Ep 426 Friday Treat: Pub Jokes Galore!",
+      "published_at": "2024-06-21T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s got a stinking cold and a very croaky throat - so what better way to cheer him up than with some more of the old-school pub jokes you’ve been sending in. And it’s a great selection this week, so you can sit back and enjoy too. Thanks to all everyone for sending them in - keep ‘em coming at chatabix@yahoo.com FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5848353796.mp3?updated=1718622290",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1573",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "jokes",
+        "galore"
+      ]
+    },
+    {
+      "key": "42c29fde4b98c7d56465bfea60790e28bc51841f",
+      "title": "S10 Ep 425 Regular Guest: TV Joe’s Name That Tune",
+      "published_at": "2024-06-20T02:00:00+00:00",
+      "link": null,
+      "description": "It’s been a while but TV Joe is back - and he’s got more great quizzes for us! But first things first, David and Joe want to know what he’s been up to over the past few months since leaving the Abba band. So TV Joe fills them in on all the travelling he’s been doing, the session bass playing work he’s done, gives some TV recommendations and also a bit of advice about best man’s speeches. Then it’s onto the main event - his June-based general knowledge quiz followed by a nail-biting game of name that tune. Quiztastic! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9191156955.mp3?updated=1721298474",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3736",
+      "speakers": [
+        "Joe’s Name",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest",
+        "tune"
+      ]
+    },
+    {
+      "key": "dc4c42f9e59726199db0f9ae7d89559fe71dba03",
+      "title": "S10 Ep 424 Ad Hoc Drivel: Joe’s Rollercoaster Ticket",
+      "published_at": "2024-06-19T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s found out that his computer viewing settings are all wrong and David’s getting frustrated with him. But once they realise that’s a very boring subject for the pod, they move on to talking about Joe’s upcoming rollercoaster ride. Much more exciting! He’s booked a ticket for Thorpe Park’s new Hyperia ride, which is the UK’s tallest rollercoaster. So he's pretty nervous already and might be regretting that he’s decided to do it on is own? Nail-biting stuff! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7302207168.mp3?updated=1718290226",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2162",
+      "speakers": [
+        "Joe’s Rollercoaster Ticket Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "rollercoaster",
+        "ticket"
+      ]
+    },
+    {
+      "key": "5b063cb34a9a5496eed3bf634106167722cc6113",
+      "title": "S10 Ep 423 Back Catalogue Guest: Roachford",
+      "published_at": "2024-06-18T02:00:00+00:00",
+      "link": null,
+      "description": "It’s another ‘meet your hero’ moment on this week’s Back Chatalogue guest episode - as Joe’s music idol Roachford joins him and David for a chat. They discuss in depth the origins of 'Cuddly Toy' which is Joe's favourite song, and he tells Roachford about playing it at his wedding. Plus loads more chat about writing hit songs, meeting Stevie Wonder, having Gary Barlow as a fan and touring his latest album. Joe is in heaven! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6419231320.mp3?updated=1718002135",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3690",
+      "speakers": [
+        "Stevie Wonder",
+        "Gary Barlow",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "roachford"
+      ]
+    },
+    {
+      "key": "5bf4d4b6d5939399379007249807844f48d0e1a4",
+      "title": "S10 Ep 422 Friday Treat: Pub Cryptic Crossword",
+      "published_at": "2024-06-14T02:00:00+00:00",
+      "link": null,
+      "description": "A silly make-believe episode for you, just coz it’s Friday. David and Joe have gone to the pub and are a little bit worse for wear. They see a Cryptic Crossword in the paper and decide to give it a go - but unsurprisingly, they’re pretty baffled by it all. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7054210735.mp3?updated=1718002976",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "458",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "cryptic",
+        "crossword"
+      ]
+    },
+    {
+      "key": "3092bda6645246eaeb3125bcc58a7355b52cff87",
+      "title": "S10 Ep 421 Regular Guest: Natalie Cassidy is back!",
+      "published_at": "2024-06-13T02:00:00+00:00",
+      "link": null,
+      "description": "Our favourite national treasure Natalie Cassidy is back on Chatabix. It’s been ages since David, Joe and Nat last spoke so they’ve lots to catch up on. But first things first, Nat’s in an executive car and the guys are desperate to know where she’s going. It’s all top secret though so they quickly change the subject, as they’re even more excited to find out about Nat’s new podcast - Life with Nat - which wend straight to number 1! So expect loads of chat about the charts along with all the other news that Nat has for us. Plus, David tries out an Instagram Live, live on the pod - this is raw podding!. Nat's podcast LIFE WITH NAT https://podfollow.com/lifewithnat/view FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4171902240.mp3?updated=1721298543",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2884",
+      "speakers": [
+        "Natalie Cassidy",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest",
+        "natalie",
+        "cassidy"
+      ]
+    },
+    {
+      "key": "ad480bf3d4eba3f00a8a636151d650e9c7db38fc",
+      "title": "S10 Ep 420 Ad Hoc Drivel: Moving to Bath?",
+      "published_at": "2024-06-12T02:00:00+00:00",
+      "link": null,
+      "description": "This is a follow on from last week’s Episode 417, which was all about David's canaling holiday along the Kennet and Avon. He finished the trip in Bath where he then spent a few days - and was about to tell us some exciting news about his thoughts on the city. Well, it turns out he’s fallen head over heels in love with the city and is now frantically scouring RightMove for a home to move him and his family too. But Joe suspects we might have another ‘Antigua’ on our hands. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6273390883.mp3?updated=1717750771",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2150",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "bath"
+      ]
+    },
+    {
+      "key": "09fd6c32fab5ecba45b3a23cf4086270232c8b9f",
+      "title": "S10 Ep 419 Back Catalogue Guest: Lol Tolhurst",
+      "published_at": "2024-06-11T02:00:00+00:00",
+      "link": null,
+      "description": "For this week’s ‘no longer a surprise guest’ repeat show, we’ve got a biggie for you - it’s drummer, keyboardist and founding member of The Cure, Lol Tolhurst! David was blown away to have one of his all time heroes on the show, if not a little intimidated. But he, Lol and Joe got on wonderfully and happily chatted about all things The Cure to their hearts content. Sit back and enjoy… Recorded February 2023. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6817275682.mp3?updated=1717667338",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5539",
+      "speakers": [
+        "Lol Tolhurst",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "tolhurst"
+      ]
+    },
+    {
+      "key": "db5935d41e1582463ca4bff9323c48edc27a6b34",
+      "title": "S10 Ep 418 Friday Treat: More Old Pub Jokes",
+      "published_at": "2024-06-07T02:00:00+00:00",
+      "link": null,
+      "description": "An extra little treat to finish the week with - it's another episode of old-school pub jokes for you. David and Joe loved reading them all, so sit back and enjoy! Thanks to all the listeners and Patreons for sending them in - keep ‘em coming! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9450686817.mp3?updated=1725448808",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1314",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "treat",
+        "joke"
+      ]
+    },
+    {
+      "key": "73e0a38a258ec97d8fa6b4c8048a882043252a32",
+      "title": "S10 Ep 417 Ad Hoc Drivel: Joe’s Hair and David’s Canal Holiday",
+      "published_at": "2024-06-06T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s worried that his hair is getting too long and thinks he should get it cut? But David’s not so sure and reckons he’s starting to look like Jason Momoa- hunky! Swiftly moving on, they have a chat about Joe’s holiday in Corfu before David excitedly recounts his Kennet and Avon canal adventures whilst holidaying in Wiltshire. But unfortunately he’s a bit distracted as he’s supposed to be writing a best-man’s speech. So they halt proceedings to discuss all of that before David continues with his story in full. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6583264732.mp3?updated=1717599204",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2045",
+      "speakers": [
+        "Joe’s Hair",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "hair",
+        "david",
+        "canal",
+        "holiday"
+      ]
+    },
+    {
+      "key": "d808812ebc54564e289d771fb1a81454e5f71e21",
+      "title": "S10 Ep 416 Ad Hoc Drivel: Joe’s Canal Walk",
+      "published_at": "2024-06-05T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s in Edinburgh and taking a stroll along the canal, so David takes the opportunity to Zoom him for a chat. They reminisce about their times performing at the festival and how little interest they’d have in doing it now. Joe also recalls the year he shared a ‘party house’ with Tiff Stevenson and Jimmy McGhie, and was possibly a little bit grumpy about it all. So he texts them both to try and get them on the pod - which he then immediately regrets… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1807428870.mp3?updated=1717167984",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2556",
+      "speakers": [
+        "Tiff Stevenson",
+        "Jimmy McGhie",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "canal",
+        "walk"
+      ]
+    },
+    {
+      "key": "4bcfae7dd04125c4752fdea35ef67db37a74ccc9",
+      "title": "S10 Ep 415 Back Catalogue Guest: Stuart Goldsmith",
+      "published_at": "2024-06-04T02:00:00+00:00",
+      "link": null,
+      "description": "Time for another Back Catalogue guest who’s no longer a surprise - it’s the brilliant Stuart Goldsmith! Stand-up comedian, actor and host of the long-running Comedian’s Comedian Podcast, on which he’s interviewed practically every comedian you could think of - except Joe and David that is. So he takes the opportunity to turn the tables and start asking some questions - enjoy! Recorded February 2023 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2314898468.mp3?updated=1717168989",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5145",
+      "speakers": [
+        "Stuart Goldsmith",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "stuart",
+        "goldsmith"
+      ]
+    },
+    {
+      "key": "b5e727705528539e853bae4caa24664b7c900bbc",
+      "title": "S10 Ep 414: Joe and Paul at the BAFTAs",
+      "published_at": "2024-05-30T02:00:00+00:00",
+      "link": null,
+      "description": "Joe has arranged a last minute surprise guest for David - and it’s none other than our very own rising star Paul Gorton. He’s fresh from the BAFTA TV awards, where he and Joe met in person for the very first time (although neither of them can believe that they hadn’t done already). Joe and Paul tell David all about their glamorous evening and the stars they mingled with, including Stephen Merchant and Declan Donnelly - who it turns out is a Chatabiscuit. Crunch Crunch Dec! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7384059892.mp3?updated=1716931140",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3217",
+      "speakers": [
+        "Paul Gorton",
+        "Stephen Merchant",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paul",
+        "bafta"
+      ]
+    },
+    {
+      "key": "d6c9ec150209f6679c197d165b6f1b29e7641dfb",
+      "title": "S10 Ep 413 Ad Hoc Drivel: Telling Jokes",
+      "published_at": "2024-05-29T02:00:00+00:00",
+      "link": null,
+      "description": "After some chatting about neighbours, the charts, tranquil countryside walks and noisy families, Joe and David decide to track down the best old-school jokes they can find. So they have a think and search around on the internet until the Chatabix Patreons come to the rescue with some right belters. So prepare yourselves for a shed load of top class gags and a proper giggle-fest! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4395085393.mp3?updated=1716457160",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2729",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "joke"
+      ]
+    },
+    {
+      "key": "6997515a76660048986792b9440b32c075d39c2b",
+      "title": "S10 Ep 412 Back Catalogue Guest: Tim Vine",
+      "published_at": "2024-05-28T02:00:00+00:00",
+      "link": null,
+      "description": "For this week’s ‘no longer a surprise guest’ repeat show, we return to 2nd November 2022, when David and Joe were joined by the inimitable Tim Vine. Tim is of course a comedy legend and the undisputed king of one-liners - so it’s no surprise he was one of the funniest guests we’ve had on the pod. Enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2300640819.mp3?updated=1716222210",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3721",
+      "speakers": [
+        "Tim Vine",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "vine"
+      ]
+    },
+    {
+      "key": "4688e8f66256f53de53e8b034d1ec4ea8df00071",
+      "title": "S10 Ep 411 Ad Hoc Drivel: Not Showing Off",
+      "published_at": "2024-05-23T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe text their old friend and Chatabiscuit Jamie Demetriou to find out what it’s like working with big Hollywood stars. While they wait for his reply, they do a de-brief on Joe’s recent Instagram Live experience. And very quickly descend into a good half hour or so of self-loathing and embarrassment about showing off. It’s Chatabix business as usual - enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8162529162.mp3?updated=1716389803",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2880",
+      "speakers": [
+        "Jamie Demetriou",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel"
+      ]
+    },
+    {
+      "key": "89852b0f524060d554447f29a290fe5df5a512f3",
+      "title": "S10 Ep 410 Ad Hoc Drivel: Chatabix +30 and Rob Beckett Live!",
+      "published_at": "2024-05-22T02:00:00+00:00",
+      "link": null,
+      "description": "After a quick chat about T-shirts, body confidence and weight loss frustrations, David and Joe come up with an idea for a geriatric version of the pod - Chatatxix +30. They want to find two willing (but not too showy) 80 year olds to be the hosts, so put a call-out to the Patrons for some help. Expectation warning: it’s yet another new pod idea that will probably never see the light of day. After all that, they then attempt to do an Instagram Live, live on the podcast - and even manage to get Rob Beckett to join them. Somewhat predictably, it’s bloody chaos! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6270190196.mp3?updated=1716223322",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3239",
+      "speakers": [
+        "Rob Beckett",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "chatabix",
+        "beckett"
+      ]
+    },
+    {
+      "key": "2172a82970fdeaa15f04463d30071573a2167769",
+      "title": "S10 Ep 409 Back Catalogue Guest: Paul Foot",
+      "published_at": "2024-05-21T02:00:00+00:00",
+      "link": null,
+      "description": "This week’s repeat show ‘no longer a surprise guest’ guest is the one and only Paul Foot! Paul is one of our very favourite comedians and an old pal too, so it was an absolute joy when he joined us for a chat on the 26th October 2022. Hold onto your hats - this one’s a bit of a wild ride… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2406657415.mp3?updated=1716271601",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3557",
+      "speakers": [
+        "Paul Foot",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "paul",
+        "foot"
+      ]
+    },
+    {
+      "key": "5919db299da7f4aa7a082873a9c78d8fe784051b",
+      "title": "S10 Ep 408 Ad Hoc Drivel: Coin Toss Snooker Tournament",
+      "published_at": "2024-05-16T02:00:00+00:00",
+      "link": null,
+      "description": "After the success of their recent heads or tails competition, David and Joe have struck upon what they hope will a great new game for the pod. It’s a fantasy snooker tournament where the winner of each frame is decided by the toss of a coin. They decide to use randomly selected names from our wonderful Chatabix Patreon subscribers - and give them all snooker player nicknames too. Let the contest begin! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1591146393.mp3?updated=1715788242",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3442",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "coin",
+        "toss",
+        "snooker",
+        "tournament"
+      ]
+    },
+    {
+      "key": "961cd7aa62c7c9d8eac43e74e9d47db5534ae349",
+      "title": "S10 Ep 407 Ad Hoc Drivel: A Flat Tyre and A Leaving Present",
+      "published_at": "2024-05-15T02:00:00+00:00",
+      "link": null,
+      "description": "With a flat tyre and the school run to do, it’s a hectic morning for David. But once that’s all sorted, he finally joins Joe to record the pod and give Petra her leaving present. It’s a very heartfelt thank you for all her hard work producing the show over the past few years. But in true Chatabix fashion, the present might have to be returned - so they look back through their old messages to work out who’s to blame. Then have a very tense coin tossing contest! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4910660808.mp3?updated=1715758524",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1742",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "flat",
+        "tyre",
+        "leaving",
+        "present"
+      ]
+    },
+    {
+      "key": "c8d58b7e32ee6171165f280062e869c38c7c114c",
+      "title": "S10 Ep 406 Back Catalogue Guest: James O’Brien",
+      "published_at": "2024-05-14T02:00:00+00:00",
+      "link": null,
+      "description": "For the first of our ‘no longer a surprise guest’ repeats, we bring you the brilliant LBC presenter, journalist, author and podcaster - James O’Brien. We recorded this show way back in the early days of the pod on the 26th July 2022 - and absolutely loved it! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5411201666.mp3?updated=1715674896",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3015",
+      "speakers": [
+        "James O’Brien",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "catalogue",
+        "guest",
+        "james"
+      ]
+    },
+    {
+      "key": "027e748947542401c255b8fab76742bf9249646d",
+      "title": "S10 Ep 405 Specialist Guest - Detectorist Nigel Richardson",
+      "published_at": "2024-05-08T04:00:00+00:00",
+      "link": null,
+      "description": "David and Joe chat with Nigel Richardson, author of 'The Accidental Detectorist'. David latches on to Nigel and begs him to be his detectorist guru asking if he'll ever stop feeling like a wally when he's out and about with all the gear and if it can ever be sexy. Crucially, David wants to know what his chances are of ever finding anything worthwhile. Nigel shows off his hoard of finds which invigorates David to carry on with his new found hobby. Buy Nigel's book here http://nigel-richardson.co.uk/ https://www.instagram.com/the_accidental_detectorist/ FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8960793260.mp3?updated=1715152204",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3915",
+      "speakers": [
+        "Nigel Richardson David",
+        "Nigel Richardson",
+        "Buy Nigel",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "detectorist",
+        "nigel",
+        "richardson"
+      ]
+    },
+    {
+      "key": "2778067f34627ee2c58d69863eb4df5c5c44f26d",
+      "title": "S10 Ep 404 Specialist Guest - Police Officer James",
+      "published_at": "2024-05-07T02:00:00+00:00",
+      "link": null,
+      "description": "Joe and David chat to a lovely police officer called James who is based in a police station in London's east end. The lads absolutely loved chatting to James but quickly realise they don’t really know what a police officer is or does. Luckily James puts them straight and they chat about dealing with members of the public, police stakeouts, bringing down drug gangs and getting interrupted when you’re trying to buy your lunch in Sainsburys. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8716640046.mp3?updated=1714997292",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4557",
+      "speakers": [
+        "James Joe",
+        "Luckily James",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "police",
+        "officer",
+        "james"
+      ]
+    },
+    {
+      "key": "670af091f5dc1d7deaadcfe9f2020b4495ffa7f3",
+      "title": "S10 Ep 403 Where's David Now ? Cosy spaces and a cuppa",
+      "published_at": "2024-05-01T02:00:00+00:00",
+      "link": null,
+      "description": "A few months ago David spent a few days in a place he booked through a company called Canopy and Stars. He wanged on about it on the pod and they heard and got in touch to see if he wanted to pod from one of their locations. He was sent a few options of interesting places and in this episode he takes Joe to see the one he liked the best. David get's a bit anxious getting out of the car but settles down when he meets the lovely owner Yvette who takes him through woodland to the location. The place David has chosen is incredible and very unusual and has been on George Clarkes Amazing Spaces much to Joe's delight. Yvette tells them all about how she designed the space herself and her husband built it. David takes on the role of estate agent. After the tour Yvette invites David in for a cuppa and he finds himself in a strangers kitchen on a random morning. It’s fair to say he was out of his comfort zone. See the place David showed Joe here: https://www.canopyandstars.co.uk/britain/england/devon/honeyside-down/humble-bee https://www.canopyandstars.co.uk/a-life-more-wild-podcast/ FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5030442398.mp3?updated=1714492895",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2999",
+      "speakers": [
+        "David Now",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "space",
+        "cuppa"
+      ]
+    },
+    {
+      "key": "a60e90e9219c5eed3278a867aaec82b72cb8f908",
+      "title": "S10 Ep 402 Pranksters Josh Pieters & Archie Manners",
+      "published_at": "2024-04-30T02:00:00+00:00",
+      "link": null,
+      "description": "You Tube pranksters Josh Pieters & Archie Manners are on the pod and mayhem ensues. They are running late so while Joe and David wait for them to appear they start worrying that they are being pranked. After a few tech issues the lads appear like whirling dervishes telling Joe he looks older than he does on tv. They talk about some of their pranks including flying Katie Hopkins over to Prague to pick up the Campaign to Unify The Nation award. Joe is concerned that they are spending a lot of money on their pranks and wonders how much coin they are left with. Moving on they discuss employing an expensive lawyer so they don't get sued, trying to put Buckingham Palace on Air BNB and Archie admits he didn't turn up for the first record as he was hungover. They suggest doing a tour together called Young v Old and base the live show on memory and eyesight tests. Joe describes the whole experience of recording this ep as being on a rollercoaster without a seatbelt and David get's quite sweaty. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1741706945.mp3?updated=1714429871",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4837",
+      "speakers": [
+        "Katie Hopkins",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "pranksters",
+        "josh",
+        "pieters",
+        "archie",
+        "manners"
+      ]
+    },
+    {
+      "key": "c5b6e90e89ffe5776fe25a7eae5d72cea2ffb191",
+      "title": "S10 Ep 401 Where's Joe Now ? Living His Best Life",
+      "published_at": "2024-04-25T02:00:00+00:00",
+      "link": null,
+      "description": "Joe's off on another adventure, this time he's in Cornwall having returned to a special place that brings back fond memories. David has no idea where Joe is in the world despite it being mentioned on numerous pods before and the place that sparked Joe's interest in his latest hobby. After showing David the view and giving him a tour of the holiday home where he is staying Joe's meets up with a new buddy called Russ. The holiday rental is a stones throw from a stunning beach so Joe and his new pal set off down the hill and across sand dunes before submerging David underwater on zoom. Luckily the iphone sheath is waterproof and they can just about carry on podding ! This is where Joe stayed in Cornwall https://www.trevincesennencove.com/ FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7791071377.mp3?updated=1713801888",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4370",
+      "speakers": [
+        "Joe Now",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "life"
+      ]
+    },
+    {
+      "key": "0b4b1aa91545323f6b80d3275a7bddb730452b20",
+      "title": "S10 Ep 400 Gabby Logan - Celebrity Guest",
+      "published_at": "2024-04-24T02:00:00+00:00",
+      "link": null,
+      "description": "Gabby Logan is today's guest and David repeatedly describes her as Royalty. Joe and David both can’t stop saying “can I ask a question” much to Gabby's amusement and then promise that they will try and stop saying it as that's what she's there for. She gives them tips on how to change the subject during an interview. Gabby reminds Joe that she has worked with him before even though Joe thinks he met her in a lift at the Holiday Inn. Gabby goes on to tell them all about her favourite room in the Holiday Inn. Moving on to more meatier topics they ask Gabby what it's like being one of only a few woman working in Sports TV especially in the early days. They also want to know what it's like being the host on Match Of The Day. Gabby has a new podcast out called 'The Sports Agent' which Joe loves and can't stop telling her how brilliant it is. Gabby’s new podcast The Sports Agents is out now https://www.globalplayer.com/podcasts/42Kx2B/ FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9215464265.mp3?updated=1713800573",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5652",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gabby",
+        "logan",
+        "celebrity",
+        "guest"
+      ]
+    },
+    {
+      "key": "c58344ba22f09a45f6369a77877789bcf5b20a7e",
+      "title": "S10 Ep 399 Usual Drivel: The Gardening Tour Continues",
+      "published_at": "2024-04-23T02:00:00+00:00",
+      "link": null,
+      "description": "Following on from last weeks episode David is still podding from his car and continues to take Joe on a tour of houses where he used to do gardening. This time they take in the gardens of Ditchling (where it turns out the phone reception is even worse than in Twineham) David show Joe the triangle of grass he used to mow for an extra 25 quid and he re-enacts mowing it for Joe. Then they chat about the Brighton Marathon and photo booths for a bit. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1669481713.mp3?updated=1713799704",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2853",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "gardening",
+        "tour"
+      ]
+    },
+    {
+      "key": "b14540ac29fb4f3803ceb51a42ca4e5fa807fdfa",
+      "title": "S10 Ep 398 Where's Joe Now ? Having The Time Of His Life.",
+      "published_at": "2024-04-18T02:00:00+00:00",
+      "link": null,
+      "description": "Joe is out and about again but this time he is off on an urban adventure ! David tries to guess where Joe is as he comes out of the train station. Apparently they have been speaking about visiting this place for a year and a half but David still doesn't twig. That is until Joe introduces him to a Chatabix regular and then the penny drops. Joe takes David behind the scenes and explains there is a special reason why he has decided to pod from the location today of all days. Joe introduces David to some people who are milling about via zoom and they settle in for a chat about the thing Joe has gone to see and how it all came about. Joe also delivers a long overdue Christmas present. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8003899249.mp3?updated=1713191432",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2613",
+      "speakers": [
+        "Joe Now",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "time",
+        "life"
+      ]
+    },
+    {
+      "key": "a368ec29b4cf5e580c4f98c347a52e2e4bd1f96e",
+      "title": "S10 Ep 397 Ted Robbins - Celeb Guest",
+      "published_at": "2024-04-17T02:00:00+00:00",
+      "link": null,
+      "description": "Joe and David chat to the comic and actor Ted Robbins best known for his roles in Benidorm, Little Britain, The League of Gentleman and Phoenix Nights. Ted tells them about being related to Paul McCartney and what it was like growing up with him and seeing him at family gatherings. He tells them he once watched Paul record at Abbey Road and John Lennon gave him a chocolate rabbit. In between telling them a load of brilliant jokes, Ted tells David & Joe about when he collapsed on stage in front of tens of thousands of people at the Phoenix Nights live show and about the friend that helped save his life. What a lovely funny man FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6781383513.mp3?updated=1713200626",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5128",
+      "speakers": [
+        "Ted Robbins Celeb Guest",
+        "Ted Robbins",
+        "Paul McCartney",
+        "John Lennon",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "robbins",
+        "celeb",
+        "guest"
+      ]
+    },
+    {
+      "key": "00fe8fb3a8b00694a959b136c54a5f8e1ae89c78",
+      "title": "S10 Ep 396 Usual Drivel: A Tour of David's Old Gardening Round",
+      "published_at": "2024-04-16T02:00:00+00:00",
+      "link": null,
+      "description": "David's in an air-bnb but the wifi is terrible so he decamps to the car and decides to take Joe on a tour of some of the houses where he used to work as a gardener. The tour predominantly focusses on Twineham and ends up in a motorway service station where David would take his daily nap. He has very little in the way of information for each of the houses but nonetheless Joe finds it all very exciting. Podding doesn’t get much better than this FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4994110416.mp3?updated=1713187809",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2325",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "tour",
+        "david",
+        "gardening",
+        "round"
+      ]
+    },
+    {
+      "key": "9cc5b3fd454e71ffb01e26dcd284f8c5478622ab",
+      "title": "S10 Ep 395 Joe's out running again trying to beat his 1k record.",
+      "published_at": "2024-04-11T02:00:00+00:00",
+      "link": null,
+      "description": "Joe decides to try and break his 1k time again and heads to Brighton seafront for a run. He tells David his personal best for doing 5k is 21.17 so David does the math to work out what Joe needs to do to break his 1k time and then tells Joe that the world record is 2min 11. Joe doesn't think this is relevant as Steve Ovett wasn't podding at the time. They discuss whether Joe can break the 4 minute barrier for 1k and shave 10 seconds off his original time. Joe get's out of the car and gives it a good go as David watches on, offering motivational tips and trying not to giggle. There's an awful lot of huffing, puffing and panting as Joe really goes for it before collapsing on the beach. They bump into Petra and have a little sit on the pebbles. Joe puts his feet in the sea but it's not as warm as it looks. They decide to rebrand these pods as Adventure Pods to try and get people out trying something new. David reveals whether Joe has actually beat his PB or not. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4845500655.mp3?updated=1712584698",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2553",
+      "speakers": [
+        "Steve Ovett",
+        "Adventure Pods",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "record"
+      ]
+    },
+    {
+      "key": "a502734b61ea228094952ad63abb08e4055d8d21",
+      "title": "S10 Ep 394 It's David's turn for a Surprise Guest ! Who can it be ?",
+      "published_at": "2024-04-10T02:00:00+00:00",
+      "link": null,
+      "description": "David's in the spinny seat waiting for his surprise guest. He's feeling very anxious and looks to Joe for reassurance. He's been drinking black coffee which is not helping his jitters. When the guest appears David is overwhelmed to see one of his heroes. He's speechless and the only thing he can think of to say is 'Thankyou' and then they start talking about the weather. The guest tells them about a miracle sports gel he has been using which got him back on his feet after some serious injuries. David hasn't got a clue what is going on so continues to stare at the guest before eventually plucking up the courage to ask a series of questions about what is probably one of his most favourite things in the world ! For info about the sports gel www.ethicacbd.com FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3543099366.mp3?updated=1712584623",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3527",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "turn",
+        "surprise",
+        "guest"
+      ]
+    },
+    {
+      "key": "e1dc48a95e237f8f6a76f43dad34822a4ff30849",
+      "title": "S10 Ep 393 Usual Drivel: David's gets an unexpected box of detectorist goodies",
+      "published_at": "2024-04-09T02:00:00+00:00",
+      "link": null,
+      "description": "David has had a big package delivered and hasn't got a clue what it is or who it's from. He opens it to find its a load of metal detecting accesories. Joe reveals that the gear has been sent by Peter at LP Metal Detecting to aid David with his detecting adventures. David excitedly unpacks his goodies one by one which include tactical gloves, a tactical bag & water bottle carrier and a Garrett Camouflage Padded Carry Bag to lug his detector around in. David is over the moon despite earlier proclaiming he has everything he needs in life. They wonder about buying some land for David to detect on so he doesn't have to go up the Gallop and Joe asks him how the relationship with the farmer is going. Metal detecting accesories in todays ep gifted by https://www.lpmetaldetecting.com/ FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7483600960.mp3?updated=1712584496",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2886",
+      "speakers": [
+        "Carry Bag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david",
+        "detectorist",
+        "goody"
+      ]
+    },
+    {
+      "key": "0712010937251f9f4fdf8892c32a8e5743e8ee6f",
+      "title": "S10 Ep 392 This Is Your Podlife with TV JOE - David's 50th Birthday Surprise",
+      "published_at": "2024-04-04T02:00:00+00:00",
+      "link": null,
+      "description": "It's David's 50th birthday and TV Joe has come up with an idea for a special birthday surprise ep following David's pod life since Chatabix first started 3 years ago. David is overwhelmed when TV Joe takes him on a meandering journey down memory lane and plays him messages from old Chatabix guests including Neil Webster the Producer who fired him, Ben Rufus-Green from the Cockfields days, the OG weatherman Vyvyan Almond, the first ever pod guest Ed Gamble, the first ever surprise guest Dermot O'Leary, a boatload of Canal Thursday characters including Mr Taylor, Steve Coogan (ahem or is that the brilliant impressionist Terry Mynett), Rosie from Gigging Diaries, Steve Davis the snooker legend who waved to them at The Crucible and got them back stage at Blur, the one and only game show contestant Paul Gorton, Daniel the jingle maker from Eyes on Legs, Eastenders Natalie Cassidy with some ol'bollox, the actor Martin Freeman (who they still can't believe came on the pod), WW2 historian and bunker hunter Andrew Chatterton and David's sister with some podcast advice ! Even Honk the mole has sent in a message and Andy Goldstein makes a surprise appearance. What a day ! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4976444402.mp3?updated=1712146177",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6648",
+      "speakers": [
+        "Joe David",
+        "Neil Webster",
+        "Ben Rufus-Green",
+        "Vyvyan Almond",
+        "Ed Gamble",
+        "Steve Coogan",
+        "Terry Mynett",
+        "Steve Davis"
+      ],
+      "topics": [
+        "podlife",
+        "david",
+        "birthday",
+        "surprise"
+      ]
+    },
+    {
+      "key": "d985079f9f13ebc99d1b3d23b988eda3db1facc6",
+      "title": "S10 Ep 391 Roisin Conaty - Celeb Guest",
+      "published_at": "2024-04-03T02:00:00+00:00",
+      "link": null,
+      "description": "Joe and David catch up with their old mate comedian Roisin Conaty. While they wait for her they tell each other elephant jokes. Roisin kicks off by telling them about cold water swimming, getting the shits and losing her voice. After swapping loads of funny stories they start taking post-it notes off David’s pin board and talking about whatever is on it, this throws up some even funnier stories including being bullied into touching a stags antlers. They decide Roisin is a wise owl, Joe is an old soul and David is a kid at heart. Joe reminisces about when Roisin used to run a weird little gig in Westminster and he thought she worked for the government. Roisin talks about people having their lights on or off and explains the concept to David before asking them if they went to prison what crime would they have comitted. The chat has whizzed by and Joe and David don’t want it to end but sadly it must. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8252633855.mp3?updated=1711724831",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4685",
+      "speakers": [
+        "Roisin Conaty",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "roisin",
+        "conaty",
+        "celeb",
+        "guest"
+      ]
+    },
+    {
+      "key": "df17c555778cfcab4fc3dce0fe921cc1449e82bd",
+      "title": "S10 Ep 390 Usual Drivel: Showing Off On The Peloton",
+      "published_at": "2024-04-02T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe get excited about the possibility of Joe getting his hair cut live on the pod by Nicky Clarke. Joe's been sent a Dry Robe after his visit to the Wave because he got so cold. David and Joe struggle to find anything to talk about and find themselves talking about the next ep as they can't find anything to talk about in the current ep. Clutching at straws, David shows Joe how he rides his Peloton but Joe finds watching it unbearable and begs him to stop. David carries on riding, bobbing up and down until Joe threatens to turn the camera off. They talk about old jobs they have had and David reminisces about working at a golf club and how many mistakes he made. Joe reminds David that he also worked on a gold course and can't believe that David can't remember this despite telling him 20 times. They compare swishing and green keeping stories and David recalls his boss telling him off for spilling diesel all over the green and killing the grass. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3605733903.mp3?updated=1711721794",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3285",
+      "speakers": [
+        "Nicky Clarke",
+        "Dry Robe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "peloton"
+      ]
+    },
+    {
+      "key": "34ab058d6a7adbdf40aed2046cf6fd83ffe7cdc9",
+      "title": "S10 Ep 389 Fenners Fashion Advice For Middle Aged Men",
+      "published_at": "2024-03-28T03:00:00+00:00",
+      "link": null,
+      "description": "Joe and David have another lovely little catch up with Fenners. Joe is still not comfortable calling him Fenners because he did it too early last time but David is very comfortable with it. Fenners updates Joe and David on his latest charity shop finds. And they all try and work out what Fenners eps can be about if he still wants to be a regular guest. And then they hit on an idea!!! Fenners is going to be the Chatabix fashion advisor. Each week Joe or David are going to tell Fenners what new item of clothing they fancy owning and Fenners is going to go hunting for it and hopefully bag them a bargain. Joe and David will try the item of clothing on and if its not quite right, back to bargain hunting he goes. They decide Fenners will have a 40 quid budget every week. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4778840293.mp3?updated=1711386939",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4293",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "fenners",
+        "fashion",
+        "advice",
+        "aged"
+      ]
+    },
+    {
+      "key": "d7e239cff4cc1bcc9b6e00387b0cfe7600c6b604",
+      "title": "S10 Ep 388 It's Joe's Turn For A Surprise Guest - Who Can It Be ?",
+      "published_at": "2024-03-27T03:00:00+00:00",
+      "link": null,
+      "description": "It's Joe's turn for a surprise guest and he doesn't have a clue who is coming on. After a slightly anxious start, Joe turns away from the screen so he can't see who the guest is. When David tell's him to spin around in the spinny chair for the big reveal Joe doesn't recognise the person in front of him. This is understandable as the guest is not someone you'd recognise but is someone who started an amazing event that happens in 22 countries worldwide. When David reveals who it is, Joe is over the moon as it's someone he's always wanted to talk to about a subject close to his heart. They bed in for a lovely chat. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4826449630.mp3?updated=1711388003",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3767",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "turn",
+        "surprise",
+        "guest"
+      ]
+    },
+    {
+      "key": "9842ba3d2e1668f7b1553d683a6891f93e7f1695",
+      "title": "S10 Ep 387 Usual Drivel: Getting Some Vinyl In The Post",
+      "published_at": "2024-03-26T03:00:00+00:00",
+      "link": null,
+      "description": "Joe opens a flat looking parcel, it is a present from the Battle Of The Chatabands winner Mezz Coleman. Mezz has sent Joe her album so he can play it on the retro record player his wife Petra bought him for Christmas. He goes downstairs to play it but things get a bit awkward because the cleaner is in the kitchen. Joe beats a hasty retreat back upstairs to his office. Then David takes Joe on some metal detecting forums and they realise that all metal detectorists either sound like proper metal detectorists or professional golfers. After wondering if women have hobbies, Joe looks at one of his Petra's interior design magazines. They decide it would be nice to use Mezz's song to play them out but after playing it they carry on nattering and the song doesn’t really play them out at all. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8971784005.mp3?updated=1711385286",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3004",
+      "speakers": [
+        "Mezz Coleman",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "vinyl",
+        "post"
+      ]
+    },
+    {
+      "key": "b9cef2af6ccbd5443c56bd915adb94839462518d",
+      "title": "S10 Ep 386 David's Out Hunting For Gold - Metal Detecting part 3",
+      "published_at": "2024-03-21T03:00:00+00:00",
+      "link": null,
+      "description": "At last it has stopped raining so David can take Joe metal detecting. David goes to his his usual field and fires up the kit. Joe is loving it but to say its a slow start is an understatement. They realise they don't really know how the Garrett Pro Pointer works so Joe tries to read out the instructions for David as they go. Excitingly they get a hit and David digs and digs and digs and digs and digs and digs but NOTHING. So they start again which feels like a step back. But eventually they get another hit and believe it or not they find something incredible (a nut and bolt with an Allen Key top). This is just the beginning of David's hunt for gold. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9930098131.mp3?updated=1710784053",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3168",
+      "speakers": [
+        "Allen Key",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "gold",
+        "metal",
+        "detecting"
+      ]
+    },
+    {
+      "key": "e24c27405f74592a9e0b85d0813b2f593fee9359",
+      "title": "S10 Ep 385 Lolly Adefope - Celebrity Guest",
+      "published_at": "2024-03-20T03:00:00+00:00",
+      "link": null,
+      "description": "Comedy actress Lolly Adefope is on the pod. Joe and David are delighted to see her and they talk about popping round to her house unannounced and what that would be like. After chatting about what it was like all working together on David and Joe's discontinued sitcom Rovers they ask Lolly what it was like working on Ghosts, a sitcom that did get recommisioned multiple times. Lolly tells them how she cried on the last day of filming Ghosts and how much she loved working on it. They talk about Lolly being in Mission Impossible (as a typist) and doing a scene with Tom Cruise slamming into the window behind her. She tells them she is the same height as Tom and what a lovely man he is as he gave her a compliment. They make her recreate her audition piece on the pod while they watch and give her direction. Lolly asks them about Paul Gorton and The Traitors connection. After telling them about her new Superhero's project, Joe asks her what it's like to be flown to LA for filming. They worry they haven't made the most of the time with Lolly and have asked her too many silly billy questions. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3045057369.mp3?updated=1710783969",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4583",
+      "speakers": [
+        "Lolly Adefope",
+        "Tom Cruise",
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "lolly",
+        "adefope",
+        "celebrity",
+        "guest"
+      ]
+    },
+    {
+      "key": "c93861b038cef4e8c430ebb1a9eb6e31b9744c53",
+      "title": "S10 Ep 384 David's 50th Surprise Pressie - Metal Detecting part 2",
+      "published_at": "2024-03-19T03:00:00+00:00",
+      "link": null,
+      "description": "David is 5 mins late for recording this episode as he's busy eating scrambled eggs so while Joe waits he chats to the listeners about Davids 50th birthday present possibly arriving live on the pod. When David turns up he is concerned that this episode is going nowhere, that is until the present arrives and the whole ep is turned on its head. Joe has bought him a Garrett Pro Pointer which is a tool to help with his metal detecting. David is over the moon with his new prober and is keen to try it out so he takes Joe with him to the field where he has been metal detecting. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9291815109.mp3?updated=1710772446",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2150",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "surprise",
+        "pressie",
+        "metal",
+        "detecting"
+      ]
+    },
+    {
+      "key": "451132a79050a14cbcfbc23f8fbab4eb5208ef99",
+      "title": "S10 Ep 383 Scared of the Farmer - Metal Detecting with David part 1",
+      "published_at": "2024-03-14T03:00:00+00:00",
+      "link": null,
+      "description": "David has bought a metal detector and was going to take Joe out to experience his new found hobby but it’s pissing down and apparently the machine doesn’t work very well in the rain. So instead David tells Joe all about how much fun he had yesterday when he went metal detecting with the family. David tells Joe that he couldn't pluck up the courage to ask a farmer for permission to use the detector in their field so he got his wife Naomi to ask. They discuss why Naomi agreed to be the one to knock on the farmers door even though it's David's hobby. Continuing his story David tells Joe how they all climbed the fence to get in the field and within 5 minutes of firing up the dector found a Hay Rack Tine. David and Joe aren't really sure what this is. The metal detecting series is to be continued... what will David find next ? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1189974626.mp3?updated=1710173560",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3396",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "scared",
+        "farmer",
+        "metal",
+        "detecting",
+        "david"
+      ]
+    },
+    {
+      "key": "fc8ffc50c89eafaf943ff1a705532358e1e0bc6d",
+      "title": "S10 Ep 382 Alex Lowe - Celeb Guest",
+      "published_at": "2024-03-13T03:00:00+00:00",
+      "link": null,
+      "description": "David and Joe are delighted to chat to old comedy pal Alex Lowe. They insist he does some of his characters including Barry from Watford. David and Joe then give it a go themselves, trying to copy Barry's mad voice with not much success as they are laughing too much. They ask Alex where he gets his ideas from for his fantastic characters and then discuss his time on the brilliant Phoenix Nights with Peter Kaye and want to know what it was like doing a live show version in an enormous arena. Alex is great fun and divulges a couple of show business secrets which Joe and David obviously lap up. Alex Lowe is an English actor, comedian and voice artist. He is the creator and performer of the character Barry from Watford on Steve Wright's BBC Radio 2 show and Iain Lee's shows, as well as also being the creator and performer behind the character Clinton Baptiste, originally seen in Phoenix Nights as whom he has since toured. Get tickets for Alex's UK tour as 'Clinton Baptiste' in Rollercoaster http://clintonbaptiste.com/tour FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7598783414.mp3?updated=1710171476",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4423",
+      "speakers": [
+        "Guest David",
+        "Alex Lowe",
+        "Peter Kaye",
+        "Steve Wright",
+        "Iain Lee",
+        "Clinton Baptiste",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "alex",
+        "lowe",
+        "celeb",
+        "guest"
+      ]
+    },
+    {
+      "key": "af58643b68482219b9f35aeaba5aca8ba0db588a",
+      "title": "S10 Ep 381 Usual Drivel: Rudderless Old Men With New Hobbies",
+      "published_at": "2024-03-12T03:00:00+00:00",
+      "link": null,
+      "description": "Joe shows David his magnet fishing set and David shows Joe his metal detecting apparatus. They are very excited about their new bits of kit. Joe imagines what it would be like to magnet fish a blue metal teapot out of a river and discovers there are regulations about where you can and can't use a magnet. They both worry about where they are going to do their new found hobbies and how embarrassing it is going to be. Joe helps David with some role play and pretends to be the farmer as David asks if he can metal detect on his land. They get a bit sidetracked when a bomb shell relevation hits them like a ton of lead. Nat Cassidy has a new podcast out and it sounds really good and its pushed Chatabix even further down the charts. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9389174342.mp3?updated=1710173202",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3927",
+      "speakers": [
+        "Nat Cassidy",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "rudderless",
+        "hobbies"
+      ]
+    },
+    {
+      "key": "07b4023d0d2032b920a9133f8121688575cf2ab1",
+      "title": "S10 Ep 380 Where's Joe Now ? It's Cold, Wet and Wavy.",
+      "published_at": "2024-03-07T03:00:00+00:00",
+      "link": null,
+      "description": "Joe is off an adventure and zoom's David to show him where he is. It takes David a while to cotton on to where Joe is and what he is doing there. He's in the west country and near what looks like a big mass of water that isn't the sea. David thinks he can see canoe's in the background but Joe points out some waves and a wave making machine. After revealing where he is, Joe changes into what can only be described as a gimp suit. Joe is taken off by an instructor for a lesson while David watches on providing commentary on Joe's progress. It's cold, it's wet, it's exhausting but Joe's emerges from the water happy as larry, triumphantly punching the air, mid life crisis in full swing ! The UK's inland surf destination https://www.thewave.com/ FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1402432549.mp3?updated=1709657447",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3492",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "cold",
+        "wavy"
+      ]
+    },
+    {
+      "key": "165e230d77d1da8265a4de2c674634d0ad114bca",
+      "title": "S10 Ep 379 Tommie Trelawny & The Worlds Hardest Puzzle - Specialist Guest",
+      "published_at": "2024-03-06T03:00:00+00:00",
+      "link": null,
+      "description": "Joe and David chat with Tommie Trelawny (who they've nicknamed Puzzle man) about his new bonkers podcast The Worlds Hardest Puzzle which follows his year long investigation into the complex and mysterious Cicada 3301 puzzles . He tells the lads all about the mad adventures he went on trying to find out who was behind the cryptic post that appeared online seeking 'highly intelligent individuals'. They also discuss other rabbit holes he’s been down which include looking into alien hijacks and trawling the dark web which scared Joe and David. Tommie has investigated some fascinating stuff including The Southern Television interruption of 1977 and is the creator of the Hochelaga channel on YouTube which is dedicated to exploring obscure topics that deserve more attention. The Worlds Hardest Puzzle follows Tommie and co-host, Nicky Anderson, on their year long investigation into the complex and mysterious Cicada 3301 puzzles. ﻿https://lnk.to/archivepodcast Hochelga channel: https://www.youtube.com/c/hochelaga FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8127519714.mp3?updated=1709575987",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4065",
+      "speakers": [
+        "Tommie Trelawny",
+        "Nicky Anderson",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tommie",
+        "trelawny",
+        "worlds",
+        "hardest",
+        "puzzle",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "2178f37c5f8ef92874273b89d0917cbbf72653fa",
+      "title": "S10 Ep 378 Usual Drivel: The Old Lady Who Flirted With David",
+      "published_at": "2024-03-05T03:00:00+00:00",
+      "link": null,
+      "description": "David tells Joe about his flirty window cleaning client that he had to deal with in the 90s who kept stroking his hands. They discuss whether this was appropriate behaviour for a client and what they would do if their wives held hands with the window cleaner. Then they introduce a new section called 'Leg Up' where they help promote a new venture or anyone that needs a leg up. Joe's friend has just started a jock strap business called Sticky Beard and secretly sent David a sample so they talk about this and how David thought it was someone else who had sent it to him. Joe has to restart his computer because he can hear his voice echoing in his own head. Because the echoing is doing his head in he decides he can't go on so they agree to talk about their new metal detecting and magnet fishing kit in the next episode. This weeks leg up is for Sticky Beard https://www.stickybeard.co.uk/ If you want to be considered for a leg up please email chatabixlegup@gmail.com FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8936203203.mp3?updated=1709564602",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2728",
+      "speakers": [
+        "Sticky Beard",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "lady",
+        "david"
+      ]
+    },
+    {
+      "key": "6cd1ed412be02e53fe62ead3f3722620d250a067",
+      "title": "S10 Ep 377 RISING STAR Ep 2 - with Paul Gorton",
+      "published_at": "2024-03-03T18:00:00+00:00",
+      "link": null,
+      "description": "In the 2nd episode of our Rising Star mini series Joe and David catch up with The Traitors Paul Gorton about what he’s been up to since they last spoke. It's insane how much he’s been up to and Joe and David really start to believe Paul has a future in telly. Paul has chosen his agent and this guy sounds like he has a plan for Pauls career. He’s having loads of meetings and there are a multiple irons in the fire, ideas for podcasts and TV Shows for the big man are flying in left right and centre. He's also presented an award at The TV Quick awards and the band 1975 gave him a shout out at their concert ! King Paul is surprisingly calm about all this and they discuss whether Paul's next move should be to distance himself from Traitors or lean into it. https://www.instagram.com/paulgorton/ FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com ﻿ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6394068937.mp3?updated=1709489168",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4692",
+      "speakers": [
+        "Paul Gorton",
+        "King Paul",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "star",
+        "paul",
+        "gorton"
+      ]
+    },
+    {
+      "key": "12e074c7547dbac388a3158e887b502f52f26102",
+      "title": "S10 Ep 376 Where's David Now ? Folklore of the Moor",
+      "published_at": "2024-02-29T03:00:00+00:00",
+      "link": null,
+      "description": "David takes Joe out for a supposedly scary trip along the remote roads of Dartmoor looking for the spirits and ghosts that are said to inhabit the county of Devon. Annoyingly it's not very dark but David still hopes they will come across the legendary 'Hairy Hands' on the B3212. Joe and David discuss that Josh Widdicombe has spoken about the tale of 'Hairy Hands' on quite a few different tv shows so they text him and he kindly joins them for a quick chat about it all. Josh goes on to tell them about another well known landmark on Dartmoor, a small burial ground called Jay’s Grave where fresh flowers mysteriously appear. Joe and Josh think that would have been a better place for David to have visited but David doesn’t agree. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2104809850.mp3?updated=1708959834",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2647",
+      "speakers": [
+        "David Now",
+        "Josh Widdicombe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "folklore",
+        "moor"
+      ]
+    },
+    {
+      "key": "d9ab1a4d862a606e0d2e00b5a620046c6063dc61",
+      "title": "S10 Ep 375 The Magic Mod: Specialist Guest",
+      "published_at": "2024-02-28T03:00:00+00:00",
+      "link": null,
+      "description": "Joe and David meet Rock'n Rolls favourite magician Ben Taylor, a brilliant and funny magician who is also a mod hence his name 'The Magic Mod'. The wonder of magic never fails to enthrall and it's not long before they've regressed back to being excited children delighted to see Ben's magic tricks up close. Joe tries to narrate the tricks so listeners can enjoy them too, however this is harder than it looks so you might just have to listen to the lads enjoy them instead. The Magic Mod's love of magic is incredibly infectious and Joe and David have a super time in his company, impressed not only by his tricks but his quick one liners and piss-takes as well. There’s also chat about coming from the same neck of the woods as David, being a mod, how he got into magic, his love for Paul Daniels and teaching magic to Paul Weller's kids. Ben reveals he's now a member of the magic circle which is MODgic (another brilliant one liner !) Rock'n Rolls favourite magician The Magic Mod has toured with Paul Weller, The Libertines, Reverend and the makers, Pete Doherty, The Brian Jonestown Massacare, Shaun Ryder & Alan McGee and has been on TV's Soccer Am. Podcast 'Talking to Mod' https://themagicmod.com/latest-episodes/ Insta https://www.instagram.com/themagicmod/ Twitter https://twitter.com/TaylorMod FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9576315228.mp3?updated=1708959697",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4174",
+      "speakers": [
+        "Ben Taylor",
+        "Paul Weller",
+        "Pete Doherty",
+        "Jonestown Massacare",
+        "Alan McGee",
+        "com TaylorMod",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "magic",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "b2edfda55631ba095ffb180877e744d24cd2c4d4",
+      "title": "S10 Ep 374: Usual Drivel - Worrying about our interviewing technique",
+      "published_at": "2024-02-27T03:00:00+00:00",
+      "link": null,
+      "description": "David and Joe start worrying about their interviewing technique so David has the idea to listen back to some snippets of old interviews and see how they are behaving and its not good. They start opening up about how they feel while they are interviewing and all their insecurities pour out. David worries he says 'yeah' too much and Joe worries he giggles unnecessarily. After much squirming they come to the conclusion that Josh Widdicombe and Rob Beckett are much better at it cause they are really quick and funny. Joe and David decide they can’t compete with such professional podders. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: You Tube: https://www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3034538416.mp3?updated=1708959448",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4065",
+      "speakers": [
+        "Josh Widdicombe",
+        "Rob Beckett",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "technique"
+      ]
+    },
+    {
+      "key": "cf232606ae55307f45da310c5de3f5de434ee266",
+      "title": "S10 Ep 373 Andy Goldstein impressions & magic tricks - Regular Guest",
+      "published_at": "2024-02-22T03:00:00+00:00",
+      "link": null,
+      "description": "David does some impressions for Andy who then does his best woody woodpecker impression. They talk about their first crushes, age gap love and fancying their mates mum. Joe discloses his first crush was Helen Mirren which they are confused about as figure if Joe was 8, Helen would have been about 30. Talk turns to toilet habits and they time how long it takes Joe to go for a wee. Other topics in today's Andyathon include being embarrased at the doctors, getting told bad news but having to get on with stuff, not losing weight after taking aloe vera, doing the 24 hour pod, Joe wearing a dress as Madame Haystacks, giving up drinking and going on a charity bike ride together. Andy does a couple of magic tricks which David struggles to get his head round and they play an anagram game. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8292852155.mp3?updated=1708542002",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5166",
+      "speakers": [
+        "Helen Mirren",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "andy",
+        "goldstein",
+        "impression",
+        "trick",
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "9b01a547efa84d29a698c66315e9c05ffd8e4661",
+      "title": "S10 Ep 372 Sally Lindsay - Celeb Guest",
+      "published_at": "2024-02-21T03:00:00+00:00",
+      "link": null,
+      "description": "David are Joe are very excited to talk to the well known Coronation Street actress Sally Lindsay and pick her brains about her amazing career. They want to know how she dealt with being in the centre of the worlds longest running television soap opera, what it was like to walk on to the Royle Family set and how she wrote herself her dream job with The Madame Blanc Mysteries. They also share some fond memories about the wonderful, kind and hilarious Bobby Ball. Joe and David worry they have offended Sally as she disapears off the zoom call but in fact it was just her internet going down. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4968970769.mp3?updated=1708339171",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4945",
+      "speakers": [
+        "Guest David",
+        "Sally Lindsay",
+        "Bobby Ball",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "sally",
+        "lindsay",
+        "celeb",
+        "guest"
+      ]
+    },
+    {
+      "key": "df04907a93047f855c8c157749676b6e5ad3412a",
+      "title": "S10 Ep 371 Usual Drivel: Not really talking about David's Peloton",
+      "published_at": "2024-02-20T03:00:00+00:00",
+      "link": null,
+      "description": "David & Joe try to do a Peloton based pod (which David's been dying to do for ages as he's bought one) but David’s feeling poorly and it falls flat. Despite feeling ill David manages to talk through the features of his Peloton bike but as he's not very close to the mic it becomes frustrating for Joe. They agree this isn't making the most of the Peloton ep and decide to try again another time. Moving on they discuss a YouTube video that takes the piss out of podcasters but decide that they are too quirky so don't need to worry about it effecting them. David thinks he might have covid and if he does, they can bonafide look back at this ep and realise that's why it was so low energy. Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7753707526.mp3?updated=1708422866",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3319",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david",
+        "peloton"
+      ]
+    },
+    {
+      "key": "755f6a883308808db0c6f867acbf1c6bfb46895f",
+      "title": "S10 Ep 370 Juicing and multiple kitchens with Natalie Cassidy - Regular Guest",
+      "published_at": "2024-02-15T03:00:00+00:00",
+      "link": null,
+      "description": "David and Joe have an even cosier chat than normal with regular guest, Eastenders actor Natalie Cassidy. Nat talks about her recent juicing experience before revealing she has two kitchens. This blows David's mind who thinks having multiple kitchens should be celebrated. Nat analyses some previous pod episodes saying that TV Joe didn't offend her at the Chatabix Christmas party when he was hungover and David shouldn't have walked out of the Spa Day. They have a go at doing some accents but Joe doesn't join in for some reason. After agreeing how bloody lovely it is to catch up and see each other again, David invents a new feature called feather plumping. Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3163396110.mp3?updated=1707929310",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4905",
+      "speakers": [
+        "Guest David",
+        "Natalie Cassidy",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "kitchen",
+        "natalie",
+        "cassidy",
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "c141cd11ba00c6a3a9789d95f98448d4a6149283",
+      "title": "S10 Ep 369: Our lovely wives - Valentines Special",
+      "published_at": "2024-02-14T03:00:00+00:00",
+      "link": null,
+      "description": "Joe and David have planned a lovely surprise for their wives for Valentines Day. Naomi and Petra are very surprised at the surprise. David's written a song for them but is too embarrassed to play it so he reads out some of the lyrics. While waiting for Naomi to get home, Joe asks about David's Peleton. David wants to keep this for another episode so the conversation becomes quite frustrating. You can hear the song 'We Love Our Wives' song David has written at the end of this episode even though their wives haven't heard it ! Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4846403328.mp3?updated=1707729419",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2737",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "wife",
+        "valentines",
+        "special"
+      ]
+    },
+    {
+      "key": "c586501b13b0ab9111866c07a8d2121b0ad84909",
+      "title": "S10 Ep 368 Usual Drivel: Joe admits he wants to go dancing",
+      "published_at": "2024-02-13T03:00:00+00:00",
+      "link": null,
+      "description": "David is worried they have nothing to talk about until Joe reveals that an old ‘pathetic’ tweet he put out has come back to haunt him. Hearing this, David is in heaven. Joe opens up to David, admitting that he fancied going for a dance after hearing a remix of a song by Lionel Richie in a beach cafe-bar. They delve into why Joe can't show he is enjoying music and why they become such different people when they go on holiday. Questioning why they can't be more free and easy (like they are on holiday) in their real lives, they discuss opening their own beach bar. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5562844669.mp3?updated=1707727560",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3813",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "dancing"
+      ]
+    },
+    {
+      "key": "49c95a6d85dd4e912fd411036943c6c9120c0fec",
+      "title": "S10 Ep 367 Soccer AM's John Fendley 'Fenners' part 2 - Celeb Guest",
+      "published_at": "2024-02-09T03:00:00+00:00",
+      "link": null,
+      "description": "This is the second part of David and Joe's chat with former Soccer AM presenter John Fendley 'Fenners'. The ep starts off more football heavy and Fenners tells them what it was like working on Soccer AM with Jimmy Bullard. David continues with his quick fire questions starting with 'the footballer that surprised you most at how good they were' ? Then they get derailed when John tries to sell them an iphone 12 case for £10 including delivery. They decide Fenners would make a great sales man for their new podcast Bootsale Bobby. After showing them Pele's signed football shirt John opens his special autograph folder to show David & Joe but can't remember which footballers signatures they are. This sparks an idea for another new podcast. Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3155529520.mp3?updated=1707411040",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3385",
+      "speakers": [
+        "John Fendley Fenners",
+        "Jimmy Bullard",
+        "Bootsale Bobby",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "soccer",
+        "john",
+        "fendley",
+        "fenner",
+        "celeb",
+        "guest"
+      ]
+    },
+    {
+      "key": "95a46e4f3b504d5c786d85fe9b99d5ddf79d3245",
+      "title": "S10 Ep 366 David goes bunker hunting with WW2 historian Andrew Chatterton",
+      "published_at": "2024-02-08T03:00:00+00:00",
+      "link": null,
+      "description": "WW2 Historian and bunker expert Andrew Chatterton is back. David and Andrew go on a hunt for an undiscovered WW2 bunker while Joe watches via zoom. They have some clues to work from and try to peice together the intel as they search the countryside. They know the name of the woods and that the bunker is near a zig zag in a road. It's not much to go on but will they get lucky and find it? In his eagerness David has a couple of tumbles . Joe finds it all genuinely and utterly fascinating. If school was like this we would all know a lot more. Buy Andrews book: https://www.amazon.co.uk/Britains-Secret-Defences-saboteurs-assassins/dp/163624100X Find out about the British Resistance: https://www.staybehinds.com/ Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2940554512.mp3?updated=1707314647",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4784",
+      "speakers": [
+        "Andrew Chatterton",
+        "WW Historian",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "bunker",
+        "historian",
+        "andrew",
+        "chatterton"
+      ]
+    },
+    {
+      "key": "136792e93e150064893f3d6624ce549621dd157c",
+      "title": "S10 Ep 365: Soccer AM legend John \"Fenners\" - Celeb Guest",
+      "published_at": "2024-02-07T03:00:00+00:00",
+      "link": null,
+      "description": "Joe and David chat to TV Presenter John Fendley (the artist formely known as Fenners) about all things Soccer AM and all the footballing legends he has met over the years. Joe can't believe that John has a signed shirt from Pele and has also met his hero Glenn Hoddle. Fenners tries to sell them a phone case and a pair of his shoes. David drops in a series of not so quick fire questions for John including which footballer smells the best. John tells them how his wife got a sniff of David Beckham who smelt particularily good. They also come up with several new podcast ideas one of which is actually good. John promises to send David and Joe a signed shirt and they toy with the idea of starting a WhatsApp group. This is a long ep because none of them wanted to leave - part 2 is coming out as a Bonus ep on Friday 9th Feb. For all things Chatabix: Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5621390223.mp3?updated=1707231063",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4105",
+      "speakers": [
+        "Guest Joe",
+        "John Fendley",
+        "Glenn Hoddle",
+        "David Beckham",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "soccer",
+        "john",
+        "fenners",
+        "celeb",
+        "guest"
+      ]
+    },
+    {
+      "key": "10c4d64a0c6e70f643db006096a94fe43f44e333",
+      "title": "S10 Ep 364 Usual Drivel: Pay back for Antigua beach spotting",
+      "published_at": "2024-02-06T03:00:00+00:00",
+      "link": null,
+      "description": "Joe is opening up to David about how he gets annoyed with himself for getting annoyed when he is on holiday. Then unbeknown to Joe, their friend Lizzy pops up on the zoom to discuss how she saw Joe doing the park run two and half years ago. This is David's pay back for Joe arranging Adam to come on the pod a few weeks ago to discuss David’s body when he spotted him on the beach in Antigua. Lizzy and David dissect Joe’s running style and more importantly, discuss whether the way he runs is a deliberate decision because he thinks people might be watching him. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2726160672.mp3?updated=1706894344",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3823",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "antigua",
+        "beach"
+      ]
+    },
+    {
+      "key": "ed8c64f6c3a603944fac2440461a5bbb34abd259",
+      "title": "S10 Ep 363 RISING STAR: Pilot episode with Paul Gorton",
+      "published_at": "2024-02-02T03:00:00+00:00",
+      "link": null,
+      "description": "Rising Star is a new Chatabix segment, a monthly spin off that follows a contestant after they've been on a reality show like Traitors, The Apprentice or Love Island. David & Joe want to find the next Mark Wright or Alison Hammond and document their journey to (hopefully) fame and fortune, discussing what happens next and how they'll approach stardom. From getting their first TV agent, to deciding if they should they go on I’m A Celebrity, the rising stars will hopefully spill the beans on how it felt going on Loose Women for the first time ! Joe & David will follow someone they think have a great chance of having a TV career beyond the show that they have just been on. In this first pilot episode they chat to Paul Gorton, that tall traitorish guy from Series 2 of The Traitors UK. Tracking Paul's progress as he tries to make it in the industry they chat about all the offers he has had, what TV & radio shows he's done, how many insta followers he now has and what's next. Paul then displays his acting skills hoping this may land him a job in Hollywood. Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4125842110.mp3?updated=1706800392",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3623",
+      "speakers": [
+        "Paul Gorton",
+        "Mark Wright",
+        "Alison Hammond",
+        "Joe David",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "star",
+        "pilot",
+        "paul",
+        "gorton"
+      ]
+    },
+    {
+      "key": "7948c356ab9df54ba7cea1e59043f0a180d00977",
+      "title": "S10 Ep 362 TV JOE'S got a quiz - Regular Guest",
+      "published_at": "2024-02-01T03:00:00+00:00",
+      "link": null,
+      "description": "Everyone's favourite, TV Joe is back on again after the spa episode fiasco. This time he get's to do the special January TV quiz he's prepared for Joe and David. They get cross if he doesn't have one so are very happy today. Joe gets over competitive again but David seems to know his stuff. Disapointingly TV Joe hasn’t been watching Traitors so they can't natter about it but they do wang on about the old and new Gladiators show. A few bits and bobs have to be honked out because of potential repercussions ! TV Joe doesn't get round to awarding any krispies. Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6161464941.mp3?updated=1706388100",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2861",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "quiz",
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "a54a56d748f1c6ef2cd3615b7d3be6c7bf44a53e",
+      "title": "S10 Ep 361 Usual Drivel: TV Joe's on the pod but David's at the spa",
+      "published_at": "2024-01-31T03:00:00+00:00",
+      "link": null,
+      "description": "While they are waiting for David to come on the zoom, Joe and TV Joe plan next years christmas party. TV Joe apologises for snapping at Natalie Cassidy when he was hungover at the last Chatabix christmas party. As they continue to wait, it becomes clear that David has forgotten they are podding. When David eventually appears he is outside a not so luxury spa that he has walked out of because he felt too uncomfortable. It transpires he went to the spa for the day with his wife Naomi and got the days muddled thinking TV Joe was on the following week. After some digging about why they left the spa early it seems that David's perception of events don’t quite tally up with his wifes. Joe makes David take Naomi for a pub lunch. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8397597596.mp3?updated=1706386885",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2456",
+      "speakers": [
+        "Natalie Cassidy",
+        "David take Naomi",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david"
+      ]
+    },
+    {
+      "key": "4161f95e258f9ef66e67b30893592923aaca48a4",
+      "title": "S10 Ep 360 Regular guest Paul Gorton is back in the bosom",
+      "published_at": "2024-01-30T03:00:00+00:00",
+      "link": null,
+      "description": "It's so good to have Paul Gorton back in the bosom of Chatabix once again after his appearance on BBC1 show The Traitors series 2. Joe and David try to think of some questions that Paul hasn’t already been asked in the hundreds of interviews he's done since leaving the show. David is overwhelmed by the weight of what to ask. Paul tells them how he’s coping with his new found fame. He's actually loving it. They ask Paul the million dollar question everyone wants to know, 'is the turret real' ? After his success as a traitor on the telly box, discussion turns to what's next for Paul. This segues nicely into Joe and David’s new show idea ‘Rising Star.’ It’s great to have Paul back for a (long) chat and he doesn’t disappoint. There's some bleeping in this ep cos he cant give too much away about what happens behind the scenes on The Traitors UK. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8666462464.mp3?updated=1706559285",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6551",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guest",
+        "paul",
+        "gorton",
+        "bosom"
+      ]
+    },
+    {
+      "key": "ea020ca8869f9745da694bd0353429486c0f132c",
+      "title": "S10 Ep 359 Where's Joe Now: Backstage at Off Menu Live",
+      "published_at": "2024-01-25T03:00:00+00:00",
+      "link": null,
+      "description": "Joe is a guest on Off Menu Live at The Dome Brighton. In this ep Joe experiences what it's really like behind the scenes at a live pod event. Taking David on the journey, he leaves his house and walks to the venue. They have a look around backstage and eavesdrop on James Acaster and Ed Gamble smashing it on stage. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2947934474.mp3?updated=1705839091",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3832",
+      "speakers": [
+        "James Acaster",
+        "Ed Gamble",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "backstage",
+        "menu"
+      ]
+    },
+    {
+      "key": "ef46cf2f559f1a747b08fcee7f97c6dfd4098731",
+      "title": "S10 Ep 358 Specialist Guests: New York Comedy Writer Big Wigs",
+      "published_at": "2024-01-24T03:00:00+00:00",
+      "link": null,
+      "description": "Joe and David chat to two elite American comedy writers, big wigs Kevin Bleyer and Doug Abeles. They ask Kev & Doug what its like to live in New York City cos they think it sounds great. This is a dream come true for Joe as he gets to ask them what its like to write on the Daily Show and Saturday Night Live. He desperately wants to know how stressful it is. Our American friends are happy to go into great detail of what a week in the life of a top comedy writer in America is like. Joe and David decide it all sounds way to stressful for them. Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8684898901.mp3?updated=1705837029",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6187",
+      "speakers": [
+        "Kevin Bleyer",
+        "Doug Abeles",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guests",
+        "york",
+        "comedy",
+        "writer",
+        "wigs"
+      ]
+    },
+    {
+      "key": "8d56e1264ee0a2ac2a856b110bba4f4b64326d63",
+      "title": "S10 Ep 357 Usual Drivel: David spotted in Antigua",
+      "published_at": "2024-01-23T03:00:00+00:00",
+      "link": null,
+      "description": "David is late to the record and nearly misses the surprise guest which Joe has arranged. Joe has managed to track down Adam, the guy who spotted David on the beach in Antigua. Adam walks us through all the times he spotted David while he was on holiday including the beach, the airport and back at Heathrow. He also tells us what he was thinking when he saw David in the sea and the first time he took his top off. And it turns out Adam can tell what David is thinking at all times as he correctly depicts what David was thinking when he was trying to put his luggage in the over head locker Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6681569710.mp3?updated=1705836034",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4152",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david",
+        "antigua"
+      ]
+    },
+    {
+      "key": "8dfe7a44c1c1d174a0a9a4b6142885a60f36358a",
+      "title": "S10 Ep 356 Emergency Pod: Review Ep 8 'The Traitors'",
+      "published_at": "2024-01-19T11:08:00+00:00",
+      "link": null,
+      "description": "The lads are gutted. Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! Gutted! And it comes across in the ep. They admit they are waffling and they temporarily hater Harry for killing their Paul. It feels like being knocked out the world up. And they have already forgotten about Sonja. SPOILER ALERT: If you've not watched Ep 8 The Traitors UK then watch it before listening to this ! Traitors (S2) contestant Paul Gorton is a regular contestant on Chatabix https://www.instagram.com/paulgorton/ FOLLOW CHATABIX: Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ You Tube: https://www.youtube.com/@chatabixpodcast Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4020613146.mp3?updated=1705663038",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2328",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "review",
+        "traitors"
+      ]
+    },
+    {
+      "key": "e1910669e388e1e5aee3851da2b73d85659c2199",
+      "title": "S10 Ep 355 Emergency Pod: Dissecting Ep 7 ' The Traitors'",
+      "published_at": "2024-01-18T17:19:00+00:00",
+      "link": null,
+      "description": "David and Joe are gobsmacked by what they have seen in ep 7 and it takes them a while to be able to speak. They decide Paul Gorton is a magician like no other they have other seen. Joe get's distracted by some fireworks that appear on his zoom background. After composing themselves they get on with dissecting the ep and come up with their own theories about what they think is going to happen ! SPOILER ALERT: If you've not watched Ep 7 The Traitors UK then watch it before listening to this ! Traitors (S2) contestant Paul Gorton is a regular contestant on Chatabix https://www.instagram.com/paulgorton/ FOLLOW CHATABIX: Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ You Tube: https://www.youtube.com/@chatabixpodcast Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8551798878.mp3?updated=1705599044",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2337",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "dissecting",
+        "traitors"
+      ]
+    },
+    {
+      "key": "77480b5d5446fd3fae2455e7e148e4f0c399aec4",
+      "title": "S10 Ep 354 Battle Of The Chatabands Final",
+      "published_at": "2024-01-18T03:00:00+00:00",
+      "link": null,
+      "description": "It's the grand final in the Battle of The Chatabands series. David and Joe are joined by music producer Steve Baker and guest judge, music journalist Simon Price as they decide who will be crowned the Chataband of the year. Steve kicks off the ep by playing the guitar and Simon is wearing a Simon Cowell mask. They listen to songs from Lisa Osborne, Seadog and Mezz Coleman before casting their votes. We play all the songs in full at the end of the ep. The lucky winner get's a pair of bespoke Chatabix branded earphones from Flare Audio. https://www.flareaudio.com/ FOLLOW CHATABIX: Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ You Tube: https://www.youtube.com/@chatabixpodcast Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5773048525.mp3?updated=1705509951",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4840",
+      "speakers": [
+        "Steve Baker",
+        "Simon Price",
+        "Simon Cowell",
+        "Lisa Osborne",
+        "Mezz Coleman",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "battle",
+        "chatabands",
+        "final"
+      ]
+    },
+    {
+      "key": "2bd2fa17608bb4d799cb794fb8e658c5e52189da",
+      "title": "S10 Ep 353 Jon Pointing - Celeb Guest",
+      "published_at": "2024-01-17T03:00:00+00:00",
+      "link": null,
+      "description": "Comedy actor Jon Pointing, best known for his roles in Plebs and Big Boys, takes a break from his trip of a lifetime to come on the pod. Unbeknown to Joe and David he is in a villa in Thailand. The episode starts with the usual wifi issues and then they settle in for a chat about being actors, the longest distance they've ever walked in the nude and how young Jon looks. At the end of the pod David & Joe get Jon to jump in the pool (trunks on !) Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7357567329.mp3?updated=1705405612",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4551",
+      "speakers": [
+        "Jon Pointing",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "pointing",
+        "celeb",
+        "guest"
+      ]
+    },
+    {
+      "key": "f6bae59674c2ee915e326b27dd5d0f06a2e111b0",
+      "title": "S10 Ep 352 Usual Drivel: David Is Spotted In The Coop",
+      "published_at": "2024-01-16T03:00:00+00:00",
+      "link": null,
+      "description": "David has a heavy cold and is not sure he'll make it to the end of the pod. He's too tired to talk about his new Peloton and is not finding anything funny. They discuss laughter and analyse how they giggle. Joe says he uses his laugh to cover embarrassment and give himself thinking time. The pod hits an all time low when David see's if he can drift off for a nap while Joe watches. David tells Joe about getting recognised in a supermarket and how he dealt with it quite badly. Then they have a semi melt down about being talked about by other podcasters. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6986554214.mp3?updated=1705341304",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2440",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "david",
+        "coop"
+      ]
+    },
+    {
+      "key": "689666eb15be17cc0730bad179094cb1f52cd9af",
+      "title": "S10 Ep 351 Emergency Pod: Discussing Ep 6 'The Traitors'",
+      "published_at": "2024-01-15T09:23:00+00:00",
+      "link": null,
+      "description": "David and Joe discuss the latest episode of the Traitors. David has noticed a contestant in a black vest that he's never seen before. He wonders what the chances of getting Claudia Winkleman on the pod are and tells Joe he loves it when she shrieks 'run' at the constestants when they are doing a task. They list all the contestants that have left and can't wait to get Paul Gorton on the pod when the show has finished to find out all the juicy gossip. SPOILER ALERT: If you've not watched Ep 6 The Traitors UK then watch it before listening to this ! The Traitors UK (S2) contestant Paul Gorton is a regular guest on Chatabix https://www.instagram.com/paulgorton Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9328925728.mp3?updated=1705310904",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2199",
+      "speakers": [
+        "Claudia Winkleman",
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "traitors"
+      ]
+    },
+    {
+      "key": "91be95b77198f55d5addcfebf975be5ba102ae7e",
+      "title": "S10 Ep 350 Emergency Pod: Debriefing Ep 5 with Maddy 'The Traitors'",
+      "published_at": "2024-01-12T13:26:00+00:00",
+      "link": null,
+      "description": "David and Joe delve in to last nights episode of The Traitors UK. They are joined by Maddy Smedley a contestant on the show last year. They ask Maddy how Paul Gorton might be feeling based on her experience and what the pressure is like sitting around the round table. Maddy tells them loads of insider information which they lap up before making a prediction on when Paul may be out. SPOILER ALERT: If you've not watched Ep 5 The Traitors UK then watch it before listening to this ! Traitors (S2) contestant Paul Gorton is a regular guest on Chatabix https://www.instagram.com/paulgorton Madelyn Smedley was a contestant on last years Traitors (S1) https://www.instagram.com/madelynsmedley/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4205407807.mp3?updated=1705066273",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3010",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "debriefing",
+        "maddy",
+        "traitors"
+      ]
+    },
+    {
+      "key": "719f35ca9fc55422d742353a2bb2e2a7713435b6",
+      "title": "S10 Ep 349 Emergency Pod: Delving in to Traitors Ep 4",
+      "published_at": "2024-01-11T13:52:00+00:00",
+      "link": null,
+      "description": "David and Joe discuss whether Paul Gorton needs to keep his head down a little bit and whether he can slither himself out of the hole he’s dug for himself. They wonder if the turret set is real and talk about how they will feel when Tall Paul is eventually out, which they worry will be soon. David receives an unexpected surprise which leaves a nasty tasty in his mouth. SPOILER ALERT: If you've not watched Ep 4 Traitors then watch it before listening to this ! Trairtors contestant Paul Gorton is a regular guest on Chatabix https://www.instagram.com/paulgorton Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2039608953.mp3?updated=1704981431",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2112",
+      "speakers": [
+        "Paul Gorton",
+        "Tall Paul",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "traitors"
+      ]
+    },
+    {
+      "key": "3a823c697e0d993d3390d7d68dd39aef7ee8fbb2",
+      "title": "S10 Ep 348 Usual Drivel: Joe Goes Running",
+      "published_at": "2024-01-11T03:00:00+00:00",
+      "link": null,
+      "description": "Now it's Joe's turn to run while David watches him. Joe's decided he wants to try and break his record time for running 1k. David has taken on the role of run coach telling Joe 'lets get fast'. It's really cold out and starting to rain so Joe's not that keen to get out of the car. After a bit of moaning from Joe, David starts the stopwatch and shouts motivational comments over zoom. After a false start due to giggling Joe sprints off. Watch a clip of this ep on You Tube www.youtube.com/@chatabixpodcast Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4320634245.mp3?updated=1704905701",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2203",
+      "speakers": [
+        "Joe Goes Running",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel"
+      ]
+    },
+    {
+      "key": "62767f036f1fe3193d37d31f3b59cd83e42d7c9c",
+      "title": "S10 Ep 347 Specialist Guest: Floor Manager Tony Guyan",
+      "published_at": "2024-01-10T03:00:00+00:00",
+      "link": null,
+      "description": "David is in heaven when he meets Tony Guyan who was the floor manager of Fawlty Towers from many years ago. When Joe and David find out it was Tony's job to rearrange the letters on the Fawlty Towers sign at the start of each ep to ‘Flowery Twats’ they freak out. Tony tells them about one of the shows most iconic scenes and how it was his job to give John Cleese a choice of branches to whack the broken down car with, standing just off camera to hand them to him. This blows their mind even further. Regrettably, Tony tells them he turned down an offer to work on the second series for a tv show none of them can remember. He also once forgot Bernard Cribbins name at a very crucial moment. If you're a fan of TV nostalgia and old sitcoms you'll love this ep as much as David and Joe. For Merch: https://chatabixshop.com/ Follow us Twitter: https://twitter.com/chatabix1 Follow us Insta: www.instagram.com/chatabixpodcast Join us Patreon: www.patreon.com/chatabix Watch us You Tube: www.youtube.com/@chatabixpodcast Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6045439305.mp3?updated=1704881050",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4979",
+      "speakers": [
+        "Tony Guyan",
+        "John Cleese",
+        "Bernard Cribbins",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "floor",
+        "manager",
+        "tony",
+        "guyan"
+      ]
+    },
+    {
+      "key": "ac49de20ceea10d4a0ec3ea1bbe6e8e3af056b92",
+      "title": "S10 Ep 346 Usual Drivel: David Goes Running",
+      "published_at": "2024-01-09T03:00:00+00:00",
+      "link": null,
+      "description": "David's going for a run. After a bit of procrastination, some rain and a couple of tech issues he's not made it out of the front door. Thirteen minutes in and David still hasn't left. After some gentle persuasion from Joe he's off, but set's off too fast. Unfortunately he's too puffed out to talk and they end up giggling when David passes a neighbour in his dressing gown. Joe watches David puff his way around a cul de sac complaining his lungs are hurting. Desite his heavy breathing David manages to tell Joe a story about a guy who saw him on the beach in Antigua who said he looked strong. They decide that for the next pod Joe has to try and break his record for a 5k. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2871600896.mp3?updated=1704798299",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3077",
+      "speakers": [
+        "David Goes Running David",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david"
+      ]
+    },
+    {
+      "key": "3b843f9fe856f7c6d1d204e3dd37da6bc42d6927",
+      "title": "Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:36:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults and was originally released in Feb 2023. This is the one where David and Joe suggest Paul Gorton should go on Traitors saying he'd be really good on it. And so the seed is planted ! Paul is well up for it, even though he's not seen any of series 1 and knows nothing about the show. It turns out Joe didn't know anyone who worked on it so that was a waste of time. They also talk about who would make a good Deal Or No Deal host Richard Madeley, Titchmarsh or Nick Knowles. Paul tells them that he and Noel did the nosey posey with one of the contestants before revealing he has managed to track down the episode he was in! Joe and David are raring to see it. Paul Gorton is currently appearing in BBC show The Traitors UK series 2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4250488473.mp3?updated=1704724783",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4094",
+      "speakers": [
+        "Paul Gorton",
+        "Richard Madeley",
+        "Nick Knowles",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
+        "moment",
+        "dond",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
+      "key": "7d5608a0274d914f7bdfacf408646143b138034b",
+      "title": "Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:36:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults and was originally released in Nov 2022. Paul Gorton is back for the third time to talk about his Deal or No Deal experience. He's eighteen shows down and tells us that Daddy has now left. Paul is asked to be the new Daddy of the team which he's thrilled about. He tells them about the holding pen for the contestants. David wants to know details about the set. Noel Edmunds tells Paul off for disrupting the show as he needs yet another wee. David and Joe realise Paul is playing the long game and will definitely be back for another episode. Paul Gorton is currently in BBC One show The Traitors UK S2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6945072813.mp3?updated=1704724753",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3673",
+      "speakers": [
+        "Paul Gorton",
+        "Noel Edmunds",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
+        "deal",
+        "saga",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
+      "key": "f712aae5f7b66d93af8b8a8af248ce019437fb7e",
+      "title": "Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:35:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults and was originally released in Sept 2022. Paul Gorton is back with loads more anecdotes from his 'Deal or No Deal' days. He tells us tales of backstage camaraderie and gives a glimpse into the mind games going on with Noel Edmunds. It's the first time Paul met Noel so he was a bit nervous. David asks what Noel was wearing and they have a long conversation about his hair. Paul tells David & Joe about the dodgy hotel the contestants stayed in, feeling more confident on the show, trying to remember the box numbers and a very awkward kiss ! Paul Gorton is currently in BBC One show The Traitors UK S2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7048305337.mp3?updated=1704724734",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3896",
+      "speakers": [
+        "Paul Gorton",
+        "Noel Edmunds",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
+        "deal",
+        "saga",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
+      "key": "ef1b582767a738b4d57bedcab718ba69a050375b",
+      "title": "Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:35:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults. It first went out in August 2022 long before Paul Gorton applied to go on The Traitors. He originally got in touch with Chatabix as David and Joe wanted to talk to someone who had been on a game show. As a past contestant on Deal or No Deal with Noel Edmunds, Paul had lots of great stories to tell. They all got on like a house on fire and the rest, as they say, is history. Paul Gorton is currently in the BBC show The Traitors UK (series 2) https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4580271085.mp3?updated=1704724690",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3105",
+      "speakers": [
+        "Paul Gorton",
+        "Noel Edmunds",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
+        "start",
+        "deal",
+        "saga",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
+      "key": "87131145a79edc3deb1bcbd4e72a11b308d031c2",
+      "title": "S10 Ep 341. Emergency Pod: Deep Dive Ep 3 The Traitors",
+      "published_at": "2024-01-08T12:47:00+00:00",
+      "link": null,
+      "description": "We're three episodes in and this just got even better. Joe and David get to the meat of the latest episode of BBC show The Traitors UK. They can't believe what they have just seen. One of the eyebrow raising contestants, Paul Gorton is a regular guest on Chatabix so they have a vested interest. SPOILER ALERT: If you've not watched Ep 3 Traitors then watch it before listening to this ! Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2701667462.mp3?updated=1704718821",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1996",
+      "speakers": [
+        "Deep Dive",
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "deep",
+        "dive",
+        "traitors"
+      ]
+    },
+    {
+      "key": "671d99214d4637f9158a391297048bb2ac8f05a8",
+      "title": "S10 Ep 340 Emergency Pod: Dissecting Ep 2 The Traitors",
+      "published_at": "2024-01-05T11:20:00+00:00",
+      "link": null,
+      "description": "More analysis from David and Joe as they deep dive into the second episode of The Traitors UK. Joe decides he doesn't want to be a traitor as he'd have to stay up later than the others. Chatabix regular Paul Gorton is blossoming on the show. SPOILER ALERT: If you've not watched Ep 2 Traitors then watch it before listening to this ! Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1270149528.mp3?updated=1704459534",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2072",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "dissecting",
+        "traitors"
+      ]
+    },
+    {
+      "key": "9f488f0b49f15a8ec3823f1b43c8f46b549649b6",
+      "title": "S10 Ep 339 Emergency Pod: Debrief Traitors Ep 1",
+      "published_at": "2024-01-04T12:31:00+00:00",
+      "link": null,
+      "description": "David & Joe are giddy with excitement watching the first episode of The Traitors UK (S2) as Chatabix regular Paul Gorton is one of the contestants. In this ep they dissect the first episode. SPOILER ALERT: If you've not watched Ep 1 Traitors then watch it before listening to this ! Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2625261747.mp3?updated=1704371694",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1963",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emergency",
+        "debrief",
+        "traitors"
+      ]
+    },
+    {
+      "key": "38e21d0af7cb1912728845bd27ef1ca23a9a3dbd",
+      "title": "S10 Ep 338 Usual Drivel: David Denies Trashing A Hotel",
+      "published_at": "2024-01-04T03:00:00+00:00",
+      "link": null,
+      "description": "David starts with a rant about The Rest Is Politics and how good they are compared to Chatabix. They talk about doing a live show and what it might look like, then talk themselves out of it. David says he could be persuaded if Joe insisted but is concerned it wouldn't be good value for money. David had a shout out for his son on Talk Sport and Joe discovers he's got the same floor tiles as Andy Goldstein has in the bog. After discussing this ep, they decide it really isn't good enough and David worries it will scupper his chances of buying a villa in Antigua. They decide to rally the troups by doing a heart felt plea to the listeners asking them to share the pod and leave (only good) reviews. Moving on David tells Joe about trashing a hotel room when he was 18 on a football tour. Disclaimer: if his mums listening, he had a minor role and only threw toilet rolls. They talk about the ringleader and David shows Joe a piccie. If you like the pod, please, please spread the word and 'Pass The Bix' to your freinds, neighbours and anyone else you can think of who might like it ! #doublethenumbers Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3356195132.mp3?updated=1704793502",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3113",
+      "speakers": [
+        "Talk Sport",
+        "Andy Goldstein",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david",
+        "denies",
+        "trashing",
+        "hotel"
+      ]
+    },
+    {
+      "key": "6560e5736f9bcdd24c515946ef8fea99e91763ee",
+      "title": "S10 Ep 337 Dynamite In A Can (Special Ep)",
+      "published_at": "2024-01-03T11:59:00+00:00",
+      "link": null,
+      "description": "David and Joe have a big announcement to make. Something they have been keeping quiet for a long time. What can it be ? Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6373343715.mp3?updated=1704283356",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2242",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "dynamite",
+        "special"
+      ]
+    },
+    {
+      "key": "41d8109a889e1dbefc29e17ef188f41ac236c4d5",
+      "title": "S10 Ep 336 Usual Drivel: Joe Is Embarrassed Of Doing Stand up, David Is Embarrassed Of Twitch",
+      "published_at": "2024-01-03T03:00:00+00:00",
+      "link": null,
+      "description": "The stress of having more listeners is worrying Joe and David. They wonder if they’ve hit a ceiling in the podcast world questioning if anyone actually like's them. They worry it's only a matter of time before people catch on they don't know what they are doing. Moving on they talk about stand up and doing twitch. Joe refuses to talk about it but David grinds him down. David admits he is a bit embarrassed about doing twitch in his office on his own. Joe admits he was worried about what David would think when a photo of him taken at a gig was on twitter. They discuss how unhealthy everything they do is and how they spend a lot of time sitting about. Changing the subject, David tells Joe he stopped midrun when doing couch to 5k on holiday because he heard lots of dogs barking so he just walked home. Joe probes further and David admits he thought the dogs might have rabies and bite him. They talk about the size of Joe's new monitor. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7571395908.mp3?updated=1704793381",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2650",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "stand",
+        "david",
+        "twitch"
+      ]
+    },
+    {
+      "key": "dbc6feb5742cdca4fc207f38b0e1a70ac53593e4",
+      "title": "S10 Ep 335 Usual Drivel: David Gets His Body Out On Holiday",
+      "published_at": "2024-01-02T03:00:00+00:00",
+      "link": null,
+      "description": "Joe’s not sure if he wants to know about David’s recent holiday but they plough on, talking about how comfortable David felt having his top off. David calls himself Big Daddy D and they chat about how lovely it is swimming in the sea even if you hate your body. David tells Joe how he got carried away on holiday and bought a local antiguan bracelet which felt right at the time but embarrassing when you get it home. They try to work out what size house the Off Menu pod could afford in Antigua. David tells Joe how he paid ridiculously over the top for breakfast and was driven to a cash point because he was too embarrassed to say 'this all feels a bit fishy'. They also worry they do too much podding as struggle to relax and do normal stuff without thinking about how it will affect the pod. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8599764568.mp3?updated=1704793304",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3179",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david",
+        "body",
+        "holiday"
+      ]
+    },
+    {
+      "key": "e434685e701afab5ee9838da0eeed443dfad988a",
+      "title": "S9 Ep 334 Christmas Special",
+      "published_at": "2023-12-21T03:00:00+00:00",
+      "link": null,
+      "description": "It's the last episode for 2023 and David and Joe are having a christmas party with regular guests Andy Goldstein, Natalie Cassidy, 'Deal or No Deal Saga' Paul Gorton, music reviewer Steve Baker, gigging diaries Rosie, TV Joe and editor James. Joe has bought them all presents to open on the pod but unfortunately not all of them have arrived on time. They try to persuade Nat's husband to do a magic trick but he's not having it. TV Joe hosts a few rounds of Name That Tune but is struggling with a festive hangover. It descends into chaos. David decides to get a patreon on (who goes by the name of Big Bum) at the end. Ho ho ho. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9425471001.mp3?updated=1703108652",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6397",
+      "speakers": [
+        "Christmas Special",
+        "Andy Goldstein",
+        "Natalie Cassidy",
+        "Paul Gorton",
+        "Steve Baker",
+        "Ho ho ho",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "christmas",
+        "special"
+      ]
+    },
+    {
+      "key": "1f6cb114deebb428348f8cb3e3623692509baa8e",
+      "title": "S9 Ep 333 Specialist Guest: Submariner George Aitken",
+      "published_at": "2023-12-20T03:00:00+00:00",
+      "link": null,
+      "description": "Specialist guest George Aitken was in the Royal Navy Submarines for 10 years. David & Joe have a thousand questions for him but start with small talk about coming from the Isle Of Wight, filming in Lymington and Howards Way. David gets claustrophobia and wants to know about people who have lost their minds on board, how much space he'd have down there and what would happen if he had a panic attack. George tells them there are 100 or more crew living in a confined space and it can get a bit stinky. Joe reckons he would be fine living in a tube underwater as it would be cosy. They talk about stalking other submarines to gain intel and using mini subs to get to the surface to undertake secret missions James Bond style. David asks if they've ever come across an unidentified mass on the sonar. George says this is usually a whale or a giant squid mating with the submarine. Joe asks if there is any truth behind the saying of having a girl in every port. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8825501542.mp3?updated=1702993453",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4205",
+      "speakers": [
+        "George Aitken Specialist",
+        "George Aitken",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "submariner",
+        "george",
+        "aitken"
+      ]
+    },
+    {
+      "key": "1af4e658db2c910a762f55202c1c2f4d13154e8c",
+      "title": "S9 Ep 332 Usual Drivel: Listing Comedians again (G to J)",
+      "published_at": "2023-12-19T03:00:00+00:00",
+      "link": null,
+      "description": "David & Joe are struggling to come up with new drivel so after discussing if Chatabix would send you to sleep on the morning commute they resume listing comedians names from the Chortle website. David starts reading names beginning with the letter G. Joe has to answer yes or no if he knows them and tell David an anecdote. Joe tries to think of one piece of information for each comedian including Imran Yusuf's dinosaur impression. Continuing on with the letter J, Jamie Demetriou get's a drum roll. There are lots of comedians starting with J, they power through until Joe gives up the will to live. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4310650626.mp3?updated=1702656053",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4298",
+      "speakers": [
+        "Jamie Demetriou",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "comedians"
+      ]
+    },
+    {
+      "key": "1216cc4f2cdbda0b4dcda9307afbaa79a77d0203",
+      "title": "S9 Ep 331 Battle of The Chatabands - Round 3",
+      "published_at": "2023-12-14T03:00:00+00:00",
+      "link": null,
+      "description": "It's the final round of the Battle of the Chatabands. Joe, David & Steve review three songs chosen at random and give them a score. The song with the highest score goes through to the final. The three of them are not enjoying their new found roles as music reviewers and worry they are being judged for their musical opinions. Joe wants to hear something that sounds like Looking For Linda and David favours a punk tune. They struggle to find something that makes them tingle until they listen to the final song. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9389073888.mp3?updated=1702403934",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3122",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "battle",
+        "chatabands",
+        "round"
+      ]
+    },
+    {
+      "key": "ebff2aa1ff631dee417a12730a5ce6320328fa7b",
+      "title": "S9 Ep 330 Jamie Demetriou - Celeb Guest",
+      "published_at": "2023-12-13T03:00:00+00:00",
+      "link": null,
+      "description": "Comedy actor and writer Jamie Demitriou is on the pod. It doesn't get off to a good start as he has trouble with his wifi and has to walk around the house. When they eventually settle in Jamie tells them it was a career highlight working on Joe & David's sitcom Rovers. They talk about Craig Cash having a sit on lawnmower. David & Joe ask Jamie what it's like now he is in massive shows and he tells them he struggles doing an american accent. Jamie then asks them both a difficult question about how they feel working with each other. It get's a bit awkward, David says he's bought Joe a surf board so that about covers it. Moving on they talk about how brilliant Stath Let's Flat's was. Jamie tells them he got writers block during lockdown and sought inspiration in his local post office. They move on to discussing their toilet habits and Jamie tells them a couple of amusing anecdotes before confessing to being a forever fan. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9399786889.mp3?updated=1702396297",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5290",
+      "speakers": [
+        "Guest Comedy",
+        "Jamie Demitriou",
+        "Craig Cash",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "jamie",
+        "demetriou",
+        "celeb",
+        "guest"
+      ]
+    },
+    {
+      "key": "6e31a631b9c19a25ef0347fdb853ba119767cb7c",
+      "title": "S9 Ep 329 Usual Drivel - Chatadates",
+      "published_at": "2023-12-12T03:00:00+00:00",
+      "link": null,
+      "description": "David & Joe are not sure what topic to talk about on the pod today so decide upon Chatadates. David puts a message on Patreon to see if there are any chatabiscuits who are interested in a date. Harry pops up on the zoom and tells them all about himself. Joe plays Cilla and asks Harry what he's looking for in a partner. Lynsey pops up on zoom and is up for a date but they end up talking about living in Cornwall. Lynsey agrees to be the first person to go on a Chatadate. Harry tells them he'd like to take his date to drink fine wine & play crazy golf. They come up with a dating questionnaire but have a disagreement on what it should look like. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3215464523.mp3?updated=1702308128",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2463",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "chatadate"
+      ]
+    },
+    {
+      "key": "bb18efe217e6b6aa6dcf14f4b9ca072aa829d979",
+      "title": "S9 Ep 328 Where's Joe Now - Underground bunkers at Coleshill House",
+      "published_at": "2023-12-07T03:00:00+00:00",
+      "link": null,
+      "description": "We're back talking to WW2 Historian Andrew Chatterton who first came on the pod in August 2023 to tell David & Joe all about Britains secret defences. This time he takes Joe on a fascinating field trip to Coleshill House, HQ for the Auxiliary Units. It was here the secret resistance learnt how to assasinate people and blow things up. Andrew shows them a disguised chicken shed with a false wall and an upside down horse shoe used as a secret signal. Joe get's to explore an underground bunker and crawl through an escape tunnel while David (who's feeling poorly) watches the excitement unfold on zoom. Andrews book: https://www.amazon.co.uk/Britains-Secret-Defences-saboteurs-assassins/dp/163624100X The British Resistance Archive https://www.staybehinds.com/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com/chatabixpodcast/ Patreon: https://www.patreon.com/chatabix Contact us chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1941047469.mp3?updated=1701894380",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3732",
+      "speakers": [
+        "Joe Now Underground",
+        "WW Historian Andrew Chatterton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bunker",
+        "coleshill",
+        "house"
+      ]
+    },
+    {
+      "key": "c44a58e9473cbee91640996e38af5192d3939cba",
+      "title": "S9 Ep 327 Barry Hearn - Specialist Guest",
+      "published_at": "2023-12-06T03:00:00+00:00",
+      "link": null,
+      "description": "Barry Hearn, sport promoter and founder of Matchroom Sport is having trouble getting on the zoom call ! David tells Barry he used to be scared of him when he was 12. Barry tells them stories about boxing greats Mike Tyson and Frank Bruno but admits he was shite at boxing himself. Joe asks what the perfect night would look like as a boxing promoter. He says that a fight between David & Joe could potentially be a big seller. They find out that Barry is best mates with Steve Davis. so they tell him they hugged Steve at the Blur concert. Barry talks about his formative years, growing up on a council estate with short trousers, no money and his mum sending him to elecution lessons. He tells them about his route to success and how he got into the sport promotions world regaling them with funny stories from the golden age of snooker. They ask Barry if he's ever seen the mythical Chris Eubank painting of the Last Supper and are delighted when he confirms it's real ! Barry finishes the ep with some brilliant antidotes from the boxing ring. Read Barry's book My Life https://www.amazon.co.uk/Barry-Hearn-Knockouts-Snookers-Bullseyes/dp/1529393310 Merch: https://chatabixshop.com Twitter: https://twitter.com/chatabix1 Insta: https://www.instagram.com Patreon: https://www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8871925015.mp3?updated=1701790561",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3781",
+      "speakers": [
+        "Barry Hearn Specialist",
+        "Barry Hearn",
+        "Matchroom Sport",
+        "Mike Tyson",
+        "Frank Bruno",
+        "Steve Davis",
+        "Chris Eubank",
+        "Read Barry"
+      ],
+      "topics": [
+        "barry",
+        "hearn",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "2fbf02ebf5780d628815c60b5a4725439f09a2db",
+      "title": "S9 Ep326 Usual Drivel - Not one but two Chrissy songs",
+      "published_at": "2023-12-05T03:00:00+00:00",
+      "link": null,
+      "description": "In today's ep we play not one but two Christmas songs we've written for the festive season. David reads out all the names of the Patrons who recorded lyrics for the backing vocals. David & Joe realise they wouldn't cope well without their wives so they call them in to tell them they love them. Petra & Naomi are a bit bemused. David reads out some comments which he's seen on social media about not finishing anything and talking over guests. They talk about getting reviews, Chortle forums and if they're comfortable being podcasters. They play the first christmas song then wonder how they can add some zest to the ep. Joe offers to drive around Brighton pointing out stuff. They play the second christmas song which Joe wrote in a blind panic when he thought the first song couldn't go out. Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Instagram: https://chatabixshop.com/ Patron: https://www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4178828872.mp3?updated=1701696975",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2360",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "chrissy",
+        "song"
+      ]
+    },
+    {
+      "key": "ce7ae4f77f470bca27106d828fabdde345fa4863",
+      "title": "S9 Ep 325: Battle Of The Chatabands - Round 2",
+      "published_at": "2023-11-30T03:00:00+00:00",
+      "link": null,
+      "description": "It's the 2nd round in the Battle of The Chatabands when David, Joe and music producer Steve Baker score three songs out of 10. David is feeling really uncomfortable in his role as a music reviewer. Steve kicks off by telling Joe that Roachford is playing in Brighton. They listen to each song in turn giving their opinion on each one. Joe thinks the first song is grungy, Steve thinks it has high energy while David struggles to review it as feels like a pratt. Joe thinks he loves the 2nd song. David tries to talk him out of liking it despite liking it himself and it reminding him of Biff Bang Pow. Steve agrees with Joe. Scores on the doors Joe gives 7.5, David gives an 8, Steve also gives an 8. David decides he's a punk as the final song sounds like the Pogues. Steve enjoyed it and Joe imagines listening to it in a seafaring pub in Ventnor. Steve reads out the final scores. Which one will be going through to the final ? Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7000578719.mp3?updated=1701192550",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3906",
+      "speakers": [
+        "Steve Baker",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "battle",
+        "chatabands",
+        "round"
+      ]
+    },
+    {
+      "key": "657a1ae9718546a5b399585ed4ab6904929dd8ba",
+      "title": "S9 Ep 324: Anna Williamson & Luisa Zissman (LuAnna) - Guests",
+      "published_at": "2023-11-29T03:00:00+00:00",
+      "link": null,
+      "description": "When two pods collide, Luisa Zissman (The Apprentice) & Anna Williams (Celebs go Dating) have brought some high energy from LuAnna podcast. Luisa has been putting her Christmas tree up and tells them about her daughters trip to the dentist. Anna is using an AI Assistant but professes to being a tech dinosaur. They tell the lads about booking the London Palladium on a whim for their podcast live. David & Joe tell them about wanting to do a ladies night for a Chatabix Live but Luisa doen't think this is a good business model considering the demographic. They give the lads some business tips for doing a live show which they scribble down. Joe get's distressed when the girls exchange some filthy stories. As a trained Psychoanlyst, Anna offers David & Joe some life coaching to help them get over the fear of doing a live show. Energy levels are up (fleetingly). Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1081736959.mp3?updated=1701187808",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5334",
+      "speakers": [
+        "Luisa Zissman",
+        "Anna Williams",
+        "David Joe",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "anna",
+        "williamson",
+        "luisa",
+        "zissman",
+        "luanna",
+        "guest"
+      ]
+    },
+    {
+      "key": "911696f04221582472d8adee7cfd67940fa0a854",
+      "title": "S9 Ep 323: Utter Drivel - Choccies, going on Off Menu Live & the Postman",
+      "published_at": "2023-11-28T03:00:00+00:00",
+      "link": null,
+      "description": "Joe & David are eating chocolates for breakfast. David asks Joe if he's been surfing on the board he bought him and suggests sending it back if he hasn't. Joe's a guest on Off Menu Live and they discuss how Joe's feeling about it. They plan doing a 'Where's Joe Now' style recording before the show. David wants to watch Joe from the sidelines as he enters the stage but Joe's not keen, he's feeling stressed about the night and David's not helping. They reminisce about old comedy venues where they've both done stand up together. The postman walks in with a package. It's the new Chatabix caps ! David's wife Naomi has had a word with the Postman about not walking in when David's podding. It seems to have fallen on deaf ears. David forgets to get Ethan Lawrence on the pod so plug Ethan's new drama 'Boat Story' instead. Thanks to The Little House Dorset for the choccie treats: www.thelittlehousedorset.com Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6269786442.mp3?updated=1701116394",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2949",
+      "speakers": [
+        "Joe Now",
+        "Ethan Lawrence",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "utter",
+        "drivel",
+        "choccies",
+        "menu",
+        "postman"
+      ]
+    },
+    {
+      "key": "731f145e208f3fb90b377bab0e84472c12bdf1f3",
+      "title": "S9 Ep 322: Andy Goldstein - Regular Guest",
+      "published_at": "2023-11-23T03:00:00+00:00",
+      "link": null,
+      "description": "It's the first after dark episode which gets off to a miserable start. Andy is drinking whiskey, David has man flu and Joe is in a bad mood after playing badly at five-aside. By the end of the pod they are all laughing and happy again. David and Joe can't believe that Andy is best freinds with Robbie Williams and want to know all about his house, if he owns a phone charger and the size of his island. Andy asks David if he can get a part if one of his movies. After demonstrating his acting skills Joe and David come up with a film for him called 'Fingers & Thumbs' with Andy playing the part of Tony the Cobbler. Gossip turns to famous peoples houses they have been in and Bruce Forsyth stories. They suggest doing a 24 hour live pod on New Years eve and what that might look like before realising it's quite late and they should turn in. They bid each other goodnight, Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8455166419.mp3?updated=1700650112",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4657",
+      "speakers": [
+        "Andy Goldstein Regular Guest",
+        "Robbie Williams",
+        "Bruce Forsyth",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "andy",
+        "goldstein",
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "770b8dea7708c7f94d67ab997ef52078e7c26cbf",
+      "title": "S9 Ep 321: Simon Price 'Curepedia' - Guest",
+      "published_at": "2023-11-22T03:00:00+00:00",
+      "link": null,
+      "description": "Today's specialist guest is Simon Price, a music journalist who has written a very thick A-Z book about The Cure. David's in his element. Joe's feeling a bit anxious as he doesn't know anything about The Cure but has prepared a quiz. David shows Simon his Cure memorabilia and Joe feels left out. He asks Simon if he likes Roachford. They talk about being a music reviewer and Joe confesses he used to buy copies of Melody Maker to appear cool. Simon tells them about his career and early life in the music industry when he used to put on gigs with Ricky Gervais. As expected, the chat turns to The Cure and Simon's book. Simon admits he's never actually met Robert Smith. They swap stories about the music industry. He tells them the artist formerly known as Prince used to be really good at basket ball. Joe asks them his quiz questions about The Cure. It's neck & neck between David and Simon. Find Simon's book 'Curepedia' here & info on his events https://linktr.ee/simonprice Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1200651171.mp3?updated=1700566579",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4457",
+      "speakers": [
+        "Simon Price",
+        "Ricky Gervais",
+        "Robert Smith",
+        "Find Simon",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "simon",
+        "price",
+        "curepedia",
+        "guest"
+      ]
+    },
+    {
+      "key": "c9e266e9ca560e3a1597b5a1a8d220b7d66a2d5f",
+      "title": "S9 Ep 320: Utter Drivel - Feeling grateful & Joe's surprise delivery",
+      "published_at": "2023-11-21T03:00:00+00:00",
+      "link": null,
+      "description": "Joe talks about what it was like being on the Chris Moyles radio show and how busy he has been promoting his book. David is feeling positive and is grateful they are podcasters and the pod is doing well. He has a feeling that this ep will be in the top 50. David has arranged a surprise present for Joe which arrives in the middle of the recording. It's in a massive box which gives the game away a bit. They decide the pod should be rebranded as the Mid Life Crisis pod. David suggests some local options for Joe to do some training in his new found hobby. Joe is excited to try his pressie out. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3487709517.mp3?updated=1700530090",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2843",
+      "speakers": [
+        "grateful Joe",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "utter",
+        "drivel",
+        "surprise",
+        "delivery"
+      ]
+    },
+    {
+      "key": "5706bcabaf17ea497d37973486851cbaa21b2f27",
+      "title": "Battle of the Chatabands - round 1",
+      "published_at": "2023-11-16T03:00:00+00:00",
+      "link": null,
+      "description": "The first round of Battle Of The Chatabands - Joe & David have teamed up with music producer Steve Baker for an exciting new mini- series. They've asked for unpublished bands / songwriters to send songs to Chatabix and have chosen three at random to play live on the pod. One of the bands will get chosen to go through to the grand final at the end of the year (which hopefully will be judged by someone from the muso industry). The bands will be revealed live on the pod. David pretends he's submitted one of the songs. Joe struggles to review the songs from a technical perspective and David realises he's not very good at reviewing music. Luckily Steve Baker has a good technical and musical ear. Joe asks what would have happened if Lewis Capaldi hadn't been invented and gets confused between A&R and A&E. After much umming and ahhing they score each song for tingle factor but only one makes it through to the final. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7136856777.mp3?updated=1700064344",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3446",
+      "speakers": [
+        "Steve Baker",
+        "Luckily Steve Baker",
+        "Lewis Capaldi",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "battle",
+        "chatabands",
+        "round"
+      ]
+    },
+    {
+      "key": "2f990bed3fc38797df6a318f563e8c8d72c91a22",
+      "title": "Natasia Demetriou - Guest",
+      "published_at": "2023-11-15T03:00:00+00:00",
+      "link": null,
+      "description": "Comedy actress Natasia Demitriou (What We Do In The Shadows & Stath Let's Flats) comes on the pod to give us a good talking to. Tash helps pin point why some of Chatabix makes absolutely no sense and suggests we at least number the eps. She calls David & Joe the Del Boy & Rodney of podding and highlights exactly what eps don't work telling them they need to focus. She also confirms that there isn't a Whatsapp group with her and her comedy friends called Chatadicks but David & Joe don't believe her. She eventually admits that it's the best podcast out there. They move on to discussing pest control and Tash struggles to tell them about what she's up to workwise because she can't stop giggling. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5281476614.mp3?updated=1699966237",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5474",
+      "speakers": [
+        "Natasia Demetriou Guest Comedy",
+        "Natasia Demitriou",
+        "David Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "natasia",
+        "demetriou",
+        "guest"
+      ]
+    },
+    {
+      "key": "22be3b4d57da61b34c947bdaaf61484493d712e8",
+      "title": "Usual Drivel - Weetabix & Black Adder impersonations",
+      "published_at": "2023-11-14T03:00:00+00:00",
+      "link": null,
+      "description": "Joe does a shout out for his mum who wants a Chatabix mug and they talk about nice sounding surnames. David opens a package that he got from Weetabix. They are not really sure why they got sent a hamper of fourteen different types of weetabix but hope it's one step closer to getting a sponsorship deal. Joe is feeling his age at his 5 aside football as there are some new younger players. He decides to write a song with Eyes on Legs about being nearly 50. Joe re-tells a story he heard from a friends, friends dad about Robbie Williams allegedly bouncing on a sofa when he was 20. David does a bit of Black Adder, impersonating Rik Mayall. At the end we hear a little snippet from the Joe Marler Show Live recording which Joe recently went on. Listen to Joe on the full ep Joe Marler Show Live : https://pod.fo/e/1ffba6 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Merch: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3580350414.mp3?updated=1699899626",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2438",
+      "speakers": [
+        "Robbie Williams",
+        "Rik Mayall",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "weetabix",
+        "black",
+        "adder",
+        "impersonation"
+      ]
+    },
+    {
+      "key": "d70a3ddd197a4772f71d2d9034eacba479d70c75",
+      "title": "Joe Goes Surfing: A damp squib",
+      "published_at": "2023-11-09T03:00:00+00:00",
+      "link": null,
+      "description": "Joe's struggles to finish the surfing saga as it's been too long and he can't recreate the life changing moment when he was surfing in California. They quickly move on to how a bookcase stuffed full of books makes you feel intelligent. Joe's bookcase is cluttered with untidy books much to David's disgust. They talk about what it's like to retire and being free from the daily grind at a young'ish age but Joe worries about running out of money by retiring too young. Campervanning is suggested as a perfect post-retirement activity. David's been to Totnes market and tries to tell Joe about it. The surfing ep morphs into a cosy ep. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7571775777.mp3?updated=1699458613",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2831",
+      "speakers": [
+        "Joe Goes Surfing",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surfing",
+        "squib"
+      ]
+    },
+    {
+      "key": "4e1d1706d86dcdafba08b6997a79e7e3ccaceae8",
+      "title": "Iain Stirling: Celeb Chataguest",
+      "published_at": "2023-11-08T03:00:00+00:00",
+      "link": null,
+      "description": "Comedian Iain Stirling is in his home studio which David & Joe are very excited about as this is where he records Love Island. Before they settle down Iain has to sort out his burrito delivery. They talk about ordering food in the day time. Joe asks Iain if he's ever had hemorrhoids. Iain thinks David is ripped, they discuss weight gain and Joe's concave chest. Moving on to comedy, they talk about the Chortle Student awards and being on the sold out board at Edinburgh Festival. (Joe's never been on it). Iain tells them about working in a clothes shop and gives them some shoplifting tips. They play a game of connecting words that Iain plays with his wife. David asks Iain what it's like to be hot property in the 'biz'. They chat about their processes for coming up with new material and end up workshopping about conkers. They play guess the weight of the burrito. Iain tells them about getting recognised by his voice in a kebab shop. Iain Stirling's 'Relevant' stand up tour starts March 2024, its going to be brilliant. https://www.iaindoesjokes.com/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6350546598.mp3?updated=1699378385",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4706",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "iain",
+        "stirling",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "da7fe3dd386f23e45d407fafc30fabefed9d39bf",
+      "title": "Usual Drivel: Joe's book & one Bean.",
+      "published_at": "2023-11-07T03:00:00+00:00",
+      "link": null,
+      "description": "Extra drivel today as we are joined by comedian and illustrator Henry Paker. He has a brilliant brain and is one of the Beans from the Three Bean Salad podcast. Henry did the illustrations for Joe's book 'My Autobiograpy' and is here to talk about what it was like making the book with Joe. However instead of talking about the book they reminisce about the heady days of stand-up. Henry has a lot of stories about cake, Russell Howard and comedy. When they eventually get on to the subject of the book they talk about who's name looks better on the front cover. Henry Paker's podcast is Three Bean Salad with Mike Wozniak & Benjamin Partridge. You can listen to it here (after you've listened to ours obvs) https://linktr.ee/threebeansalad Joe's book 'My Autobiograpy' is out on 9th Nov. Pre-order's & book signing details here: https://linktr.ee/joewilkinsonbook Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3253368279.mp3?updated=1699302007",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4854",
+      "speakers": [
+        "Henry Paker",
+        "Russell Howard",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "book",
+        "bean"
+      ]
+    },
+    {
+      "key": "e26669cdbe2a51d22f9c28e993c1bbb8e3b22bbf",
+      "title": "Joe Goes Surfing - about to ride the first wave (part 3)",
+      "published_at": "2023-11-02T03:00:00+00:00",
+      "link": null,
+      "description": "We're back in SoCal and Joe's yet to stand on the surfboard. In today's ep Joe has his wetsuit on and begins the lesson on the beach. After putting their boards on a flat bit of sand the instructor Mark demo's how to jump up. Then it's Joe's go. David's draws parallels with how he felt about playing Cricket. Joe get's told to ping up to his knees, he talks David through step by step how hard this was for a 48 year old man. Joe finally get's in the sea but struggles to carry the board in the massive waves. As they hang out on the boards waiting to catch the big one Mark tells Joe his life story. Then it's time to surf ! Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9593919906.mp3?updated=1698853634",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2160",
+      "speakers": [
+        "Joe Goes Surfing",
+        "Mark demo",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surfing",
+        "wave"
+      ]
+    },
+    {
+      "key": "b2f430c70bdab96ad055a925cc8e1cbcd9710095",
+      "title": "Surprise Guest - Who can it be ?",
+      "published_at": "2023-11-01T03:00:00+00:00",
+      "link": null,
+      "description": "Todays guest is a special surprise for Joe. It's someone he's wanted to talk to after watching a tv show. When the guest arrives Joe doesn't recognise them at first as they look very different from how they looked at the end of the TV Show. When the penny drops Joe get overexcited and flaps his arms around. He;s possibly more excited than when Roachford came on. There is so much Joe wants to know. They settle in for a lovely chat. Find out more about this surprise guest here (but listen to the ep first if you don't want to spoil the surprise): www.desertislandsurvival.com Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8747357643.mp3?updated=1698755453",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4374",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest"
+      ]
+    },
+    {
+      "key": "8bdb319988201a97813afcc0a152a7bdd3df73d0",
+      "title": "Joe Goes Surfing - Meeting Rusty at Lifeguard Tower 37 (part 2)",
+      "published_at": "2023-10-31T03:00:00+00:00",
+      "link": null,
+      "description": "It's the second part of Joe's surfing story but before they pick up where they left off the lads have a little romanticise about what life would be like doing the pod if Joe was a surf dude and David was a muso tinkering with his guitar all day. Joe tells David about nervously walking along the beachfront in Carlsbad with a rolled up towel under his arm to meet Rusty who he has booked the surf lesson with. On arrival Joe's asked to change into a wetsuit which throws up loads of uncomfortable feelings and Joe secretly wishes the lesson would get cancelled as the waves are too big. As Joe enters the ocean the instructor Mark asks him if he's ever surfed before. Joe tells him no, definitely not, not even skateboarded mate, in the vague hope that he'd be impressed by how quick he picks it up. The midlife crisis has fully kicked in. Joe's about to ride his first wave - part 3 out on Thursday 2nd Nov. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1612266576.mp3?updated=1698674487",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2190",
+      "speakers": [
+        "Meeting Rusty",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surfing",
+        "meeting",
+        "rusty",
+        "lifeguard",
+        "tower"
+      ]
+    },
+    {
+      "key": "05f0272f03d2ca9d2c6e6314c5326443a5c31fc0",
+      "title": "Joe Goes Surfing - the run up to the lesson (part 1)",
+      "published_at": "2023-10-26T02:00:00+00:00",
+      "link": null,
+      "description": "It's the run up to the surf lesson: Joe's been on holiday to California and David wants to know all about it. Joe confesses he struggles to say LAX as it's embarrasing and babbles on about the Hollywood Sign, seeing Jared Leto's house and the 9 lane traffic on the freeway. Eventually they get to the meaty bit when Joe reveals he's had a surfing lesson at the end of the holiday. David is all ears. The discussion turns to mid life crisis's and Joe's surfboard being akin to David's new guitar. Joe tells David that he felt empowered having his surf lesson but now just feels embarrassed. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7039413950.mp3?updated=1698245440",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2368",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surfing",
+        "lesson"
+      ]
+    },
+    {
+      "key": "ac31b7f6801794a4e305104ce5738bec5a3a28fd",
+      "title": "Lee Mack surprise guest (part 2)",
+      "published_at": "2023-10-25T02:00:00+00:00",
+      "link": null,
+      "description": "It’s the second part of Joe and David’s mega-chat with last week’s surprise guest Lee Mack. Picking things up again, the talk turns to game shows, Lee’s brilliant 1% Club, Joe and David’s Pyramind idea and pitching new shows. Then it’s back to sit-coms with learning lines, script read-throughs, viewing figures, the challenges of recording with a live audience and casting David as a policeman in Not Going Out. There’s also some reminiscing about the 90’s stand-up scene, Lee’s early days starting out in comedy, the pleasures of podding and bizarrely, some damaged cushions that Joe and David begrudgingly agree to replace. Part one of this Ep with Lee Mack (ep 306) released 18th Oct 2023 if you want to listen to that first ! Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8076988804.mp3?updated=1698077312",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4005",
+      "speakers": [
+        "Lee Mack",
+        "David’s Pyramind",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mack",
+        "surprise",
+        "guest"
+      ]
+    },
+    {
+      "key": "4afd1bac7816ce2af657b82abeb4a69397859a35",
+      "title": "Usual Drivel - Wifi issues, brain speed & Spotify HQ",
+      "published_at": "2023-10-24T02:00:00+00:00",
+      "link": null,
+      "description": "Off to a flying start, Joe has returned from holiday complaining about his ailments and then has trouble with his wifi booster. They talk about a recent visit to Spotify HQ, meeting Ben Foster and how nice the pulled pork was. David's intent on telling Joe about his window cleaning expertise again and when to use a chamois or a squeegee. They ponder over why they're not very snappy at podcasting and reflect on an old interview with James Acaster. They put it down to having slow brain speeds. David shows Joe his new guitar. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4345553254.mp3?updated=1698082005",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2225",
+      "speakers": [
+        "Ben Foster",
+        "James Acaster",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "wifi",
+        "issue",
+        "brain",
+        "speed",
+        "spotify"
+      ]
+    },
+    {
+      "key": "5260f943228bd6ebc98586fa9578702d94f1087c",
+      "title": "Where's David Now? David goes for a Walk",
+      "published_at": "2023-10-19T02:00:00+00:00",
+      "link": null,
+      "description": "It’s David’s turn to go on location for the pod and in spite of the very shaky G4 signal, he’s talking Joe to one of his favourite places - Dartmoor. Starting off at Widecombe in the Moor, he jumps in the Beech Bomber (or should that be Moor Bomber?) and heads to one of Dartmoor’s most famous landmarks, the Haytor Rocks. There he plans to hike up to the top of the hill and show Joe the spectacular views. Beautiful! Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8932247117.mp3?updated=1697214673",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2717",
+      "speakers": [
+        "David Now",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "walk"
+      ]
+    },
+    {
+      "key": "3f2f7695569f322c5656779bd22dbab51fa2235a",
+      "title": "Surprise Guest: Who is it this time?",
+      "published_at": "2023-10-18T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s lined up another surprise guest for David, so he’s back in the spinny chair and really feeling the nerves again. As usual, he desperately tries to guess who it’ll be and this time, after so many failed attempts, may actually have got it right?! Stay tuned to find out who the extra special guest is - so special in fact that we had to make it a two parter. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4628209460.mp3?updated=1697213856",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4299",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "time"
+      ]
+    },
+    {
+      "key": "080d9bba7c68d99cddff35bd97d01613d56bf3fd",
+      "title": "Usual Drivel: Scams, Telly & Hiking",
+      "published_at": "2023-10-17T02:00:00+00:00",
+      "link": null,
+      "description": "Joe thinks the world of scamming would be a great topic to discuss but David’s not really interest. So they quickly move onto television - programs they’ve seen recently, wanting to watch things live and struggling with too much choice. But then David remembers he hasn’t finished telling Joe about his Devon hiking holiday - and picks up where he left off last week. We may or may not get to the end of this tale… Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5369669564.mp3?updated=1697546647",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2760",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "scams",
+        "telly",
+        "hiking"
+      ]
+    },
+    {
+      "key": "cf7d7ffd0ada56267f0c1e2bac1008c46b5e2aab",
+      "title": "Natalie Cassidy: Regular Guest",
+      "published_at": "2023-10-12T02:00:00+00:00",
+      "link": null,
+      "description": "Our favourite national treasure Natalie Cassidy is back on the pod, but David’s had a late night and is really tired. So they kick things off chatting about napping, snoring, bed times and eye masks too. Moving on from sleep, Nat suggests a wonderful idea for a Chatabix Christmas party, tells them about a traumatic experience she had presenting This Morning, has some visitors in her garden and sends over a copy of her poem to read out at the end of the show. But that’s not before the three of them workshop a great idea for a new TV sit-com - The Blueberries. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3095245418.mp3?updated=1696673599",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4892",
+      "speakers": [
+        "Natalie Cassidy",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "natalie",
+        "cassidy",
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "186260849e88f30a5334b41edd8b969ea7beb944",
+      "title": "Russell Tovey: Celeb Chataguest",
+      "published_at": "2023-10-11T02:00:00+00:00",
+      "link": null,
+      "description": "Star of stage and screen Russell Tovey is today’s very special guest. Joe and David immediately take the opportunity to ask Russell how to be good at acting and he suggests all three of them have imposter syndrome. They discuss filming Him And Her, learning lines, overcoming nerves, lying on your résumé and having to have stunt double legs. They also talk about art and how to enjoy making it, which makes David awkward but Joe pulls out his parrot painting. Then Russell tells them all about his brilliant art podcast and some of his current favourite artists too. Russell's 'Talkart' podcast and book: https://talkartpodcast.komi.io/ Russell’s new TV show 'Juice' with Mawaan Rizwan: www.bbc.co.uk/iplayer/episodes/p0gbkx4m/juice Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8540473677.mp3?updated=1696667166",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5550",
+      "speakers": [
+        "Russell Tovey",
+        "Mawaan Rizwan",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "russell",
+        "tovey",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "faffddce28cd16328eeb6d9937d1f292a34f1d71",
+      "title": "Usual Drivel: Cornwall Step by Step",
+      "published_at": "2023-10-10T02:00:00+00:00",
+      "link": null,
+      "description": "First up, David and Joe discuss how to pronounce an old friend’s surname and make an attempt to swear less on the pod. Then the chat turns to David’s recent holiday spent hiking in Cornwall with his eldest son. He recounts their journey ‘step-by-step’ from Kingsand to Mevagissey via Polperro, including all the pre-planning details and extensive list of kit he bought (and some he forgot!). Then they get a voicemail update which seems like the perfect point to end the show. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1393502552.mp3?updated=1696665431",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2414",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "cornwall",
+        "step"
+      ]
+    },
+    {
+      "key": "c918c20da673908a869fb91196f06a871d85f3ff",
+      "title": "TV Joe's back: Regular Guest",
+      "published_at": "2023-10-05T02:00:00+00:00",
+      "link": null,
+      "description": "It’s an explosive start to the show as David and Joe are both tired, unmotivated and moaning about their achilles tendons. But then they remember Joe has a new book coming out, which they talk about until TV Joe arrives. They chat with him about not exercising, matinee performances and Chatabix holograms before moving onto the main event - TV reviews, song name games and trivia quizzes! Well, that’s until David’s TV aerial man arrives and disrupts things considerably. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9868135632.mp3?updated=1695995570",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3931",
+      "speakers": [
+        "David’s TV",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "f71f57cce90b01dc1529f11caa3dc5d6cb000203",
+      "title": "Specialist Guest: 'The Perfection Trap' Thomas Curran",
+      "published_at": "2023-10-04T02:00:00+00:00",
+      "link": null,
+      "description": "What on earth is perfection? Well, David and Joe have the perfect person to ask as they’re joined by professor, author and perfectionism specialist Thomas Curran. His latest book The Perfection Trap explores ‘the impossibly high expectations that stand in the way of health, happiness, and success’. Which all sounds very familiar to David and Joe - so they’re hoping Thomas can help them out. Twitter: @thom_curran LinkedIn: https://www.linkedin.com/in/thom-curran/ Link to book here: https://www.penguin.co.uk/books/447202/the-perfection-trap-by-curran-thomas/9781847943842 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2869060067.mp3?updated=1696395259",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4709",
+      "speakers": [
+        "Thomas Curran",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "perfection",
+        "trap",
+        "thomas",
+        "curran"
+      ]
+    },
+    {
+      "key": "e0ff62c9822741b3505f833b19004865f68505fe",
+      "title": "Usual Drivel: Camper Vanning",
+      "published_at": "2023-10-03T02:00:00+00:00",
+      "link": null,
+      "description": "Joe wants to know all about David’s recent family holiday spent camper vanning around North Wales. He’s long dreamt of the camper van lifestyle and hopes that David’s experiences will bring him a little closer to his ambition. Let the enchanted story commence, in as long-winded detail as possible… Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4279049857.mp3?updated=1695995254",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3845",
+      "speakers": [
+        "van lifestyle",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "camper",
+        "vanning"
+      ]
+    },
+    {
+      "key": "b1135e95c139e80256a5dac005e7518ded36e78d",
+      "title": "Gigging Diaries: Rosie live from a Gig",
+      "published_at": "2023-09-28T02:00:00+00:00",
+      "link": null,
+      "description": "One of the Chatabix regulars comedian Rosie Francis takes Joe & David to one of her gigs.. She walks them in and introduces them to a a couple of familiar faces before showing them the stage. David and Joe feel nervous as if they are about to do the gig and want to know every little detail. Rosie takes it all in her stride and has a chat with some of the punters before she does her set. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8678159543.mp3?updated=1695650993",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3005",
+      "speakers": [
+        "Rosie Francis",
+        "Joe David",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "diaries",
+        "rosie"
+      ]
+    },
+    {
+      "key": "4d262e1aa839feab1eb0bab8257a52bcb7870eff",
+      "title": "Specialist Guest: William Orbit Music Producer",
+      "published_at": "2023-09-27T02:00:00+00:00",
+      "link": null,
+      "description": "Award winning Music Producer William Orbit chews the fat with David & Joe. He's sold 200 million recordings worldwide but has a few tech issues getting on zoom. William walks them around his flat in Venice and shows them the view out of his window before giving them a history lesson. He's been writing some new tracks which he's excited about as his assistant has been bopping to them. William tells them about working on a drum loop with Madonna. He tells them how he got into music at the age of 23 playing dusty old instruments in a squat. David tells him about his song Happy Happy Girl. Williams new album: https://www.williamorbit.com/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9590691647.mp3?updated=1695308688",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5317",
+      "speakers": [
+        "William Orbit Music",
+        "William Orbit",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "william",
+        "orbit",
+        "music",
+        "producer"
+      ]
+    },
+    {
+      "key": "ecea090b5f1b8997be34c325b834e88568be394c",
+      "title": "Usual Drivel : Headphones, builders, not talking about camping",
+      "published_at": "2023-09-26T02:00:00+00:00",
+      "link": null,
+      "description": "Joe wants to know know about David's camping holiday but they never get there. They discuss their wonderful new headphones from Flare Audio and its phallic packaging. David struggles to say anything as he has builders milling about his office. He feels awkward speaking in front of them so talks to Joe by signing. This prompts a new jingle. Natalie Cassidy drops by so Joe and David can ask her to host their Right Move podcast idea Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2775503307.mp3?updated=1695402837",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2353",
+      "speakers": [
+        "Natalie Cassidy",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "drivel",
+        "headphone",
+        "builder",
+        "camping"
+      ]
+    },
+    {
+      "key": "7905ad02936509dcf84b9044a75a0e04c1781b56",
+      "title": "Where's Joe Now - Choo Choo !",
+      "published_at": "2023-09-21T02:00:00+00:00",
+      "link": null,
+      "description": "Where's Joe Now ? He's gone on an adventure and zooms David to show him where he is. Annoyingly it's a place David knows very well and used to go there when he was young. Joe gives David a tour anyway and they get very excited when they find out that one of Elton John's album cover was shot at the location. Joe trys to recreate the album cover. They get to meet some of the people who work there and find out loads of interesting facts. David waves Joe off as he carries on his journey. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4985988315.mp3?updated=1695228874",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2746",
+      "speakers": [
+        "Joe Now Choo Choo",
+        "Joe Now",
+        "Elton John",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "choo"
+      ]
+    },
+    {
+      "key": "3ebd2b768be77b291cdbc962999bbabf050943d4",
+      "title": "Josh Widdicombe - Celeb Chataguest",
+      "published_at": "2023-09-20T02:00:00+00:00",
+      "link": null,
+      "description": "Comedian Josh Widdicombe is today's guest chewing the fat with Joe and David. They hope Josh brings his A game and ask him what's in it for him. Josh is a Blur obsessive and excitedly tells a story about exchanging emails with Damon Albarn. They talk about all being at the Blur concert. Josh brings up Paul Daniels and they perform magic tricks for each other. It takes over an hour for Josh to finish his Steve Davis anecdote. David asks Josh about winning FHM 'Comedian of the Year' 15 years ago. Obviously they touch on the chartz. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5960031051.mp3?updated=1695048404",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4763",
+      "speakers": [
+        "Damon Albarn",
+        "Steve Davis",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "3c135d6fae3d98beade3fbaa1259ec6013461123",
+      "title": "Usual Drivel - Jarlath's Silky Voice",
+      "published_at": "2023-09-19T02:00:00+00:00",
+      "link": null,
+      "description": "Joe & David are wearing the same coloured tee shirts which makes them uncomfortable. They think they look like scaffolders. Joe tries to get out of doing the rollercoaster ep and they chat about possible scary rides he could go on. They revisit the Right Move pod and David suggests getting someone else in to host it and creaming off the top. David's going on a walking holiday in Cornwall but is worried he will pull his achiles and has bought some walking sticks. They discuss fellow podcaster Jarlath Regan and think he has a silky voice. They ask him to record a voice note to soothe them. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5916437854.mp3?updated=1694785142",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2296",
+      "speakers": [
+        "Drivel Jarlath",
+        "Jarlath Regan",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "jarlath",
+        "silky",
+        "voice"
+      ]
+    },
+    {
+      "key": "be250177d3832d0a0036615c19176127bc8faa66",
+      "title": "Andy Goldstein - Regular Guest",
+      "published_at": "2023-09-14T02:00:00+00:00",
+      "link": null,
+      "description": "Regular guest Andy Goldstein is on the pod, he confesses to being a bit jealous when they have other guests on that are not him. Andy tells them he knows Jane Torvill and she came to his wedding. They play 'guess the correct answer' game to try and find out why she came to the wedding and quiz Andy about all the Celebrities that went to his wedding. They obsess about Lee Sharpe. David and Joe try to persuade Andy to get them jobs hosting a TV Sport Show for middle aged men. Andy's specialist subject on Mastermind is Goodfellas so the guys ask him some questions. He doesn't do very well. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5954886195.mp3?updated=1694608227",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4856",
+      "speakers": [
+        "Andy Goldstein Regular Guest",
+        "Andy Goldstein",
+        "Jane Torvill",
+        "Lee Sharpe",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "andy",
+        "goldstein",
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "a543934dbf4fe5bf3c284bdde3573c1ad4867f8d",
+      "title": "Surprise Guest - Who can it be this time ?",
+      "published_at": "2023-09-13T02:00:00+00:00",
+      "link": null,
+      "description": "Joe has arranged a surprise guest for David. David has no idea who it is and has to sit in the spinny chair to wait for the guest. It seems to take ages and David is a bag of nerves. When the guest arrives Joe tells David to spin round in his chair to see for the first time who the guest is ! Who can it be ? Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6744609057.mp3?updated=1694520125",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4059",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "time"
+      ]
+    },
+    {
+      "key": "5c60609c8acd069573e90c02e96ec5030c5093a3",
+      "title": "Usual Drivel - Farting in Yurts, Riddles & Rhymes.",
+      "published_at": "2023-09-12T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe chat about supporting their football teams and how long it takes to get to the ground. They talk about staying on a Pirate Ship, farting in yurts and the joys of family holidays and David reads out some riddles for Joe to guess. They both rate this ep against the rest of the terrible eps they have done but think it's ok because they are owning it. They puzzle over why the pod has gone up in the charts even though they are doing less eps and only ever talk about being in the charts. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3683262584.mp3?updated=1694440975",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3666",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "farting",
+        "yurts",
+        "riddles",
+        "rhymes"
+      ]
+    },
+    {
+      "key": "5e2667e7994529e3146aa561f61065bd2013a951",
+      "title": "Where's David Now -The Haunted Castle",
+      "published_at": "2023-09-07T02:00:00+00:00",
+      "link": null,
+      "description": "David goes to Berry Pomeroy Castle allegedly the most haunted castle in England. It's getting dark and the castle is closed so he scales the locked gate and calls Joe. It get's darker. He get's more spooked. He hears noises and wonders if he will see the ghost of the Blue Lady. As he approaches the castle he starts to think someone is watching him. He decides it's not worth it just to get the pod in the charts. Joe tries his best to get David to go and sit on the bench next to the castle. David's had enough and runs back to the car in the pitch black. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1031181111.mp3?updated=1694013058",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2285",
+      "speakers": [
+        "David Now",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "haunted",
+        "castle"
+      ]
+    },
+    {
+      "key": "8c3596109035d7de6ceeebc0ddbc94181f807f5e",
+      "title": "Jayne Torvill - Celeb Chataguest",
+      "published_at": "2023-09-06T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe sing the Bolero theme tune while they wait for Olympic ice skater Jayne Torvill. When she arrives they both blush. They have a good chat about Heathfield and ask Jayne if she's ever bumped into David's mum. They talk about the highs and lows of competing for olympic medals. Jayne tells them she fell in love with ice skating at a young age persuading her mum to buy her some white boots. She tells them about choosing the Bolero music and how her and Christopher Dean did all the choreography. David asks how long it would take for her to train him up to be a figure skater. They talk about the celebrities on Dancing On Ice and Joe asks Jayne why she's not married to Chris. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7825908275.mp3?updated=1693923026",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4355",
+      "speakers": [
+        "David Joe",
+        "Jayne Torvill",
+        "Christopher Dean",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "jayne",
+        "torvill",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "a620c22a7741418776beca1139bdc3eacbec13d3",
+      "title": "Usual Drivel - Haunted House pre-amble",
+      "published_at": "2023-09-05T02:00:00+00:00",
+      "link": null,
+      "description": "It's the morning of David's trip to Berry Pomeroy Castle to go ghost hunting on his own in the dark. He tells Joe the story of the castle which is allegedly one of the most haunted sites in the British Isles. David is pretending not to be scared. Joe is worried that David won't be able to get in if it's locked up at night. They worry there isn't much tension in the ep but then David gets a call from his wife who has just spotted a celebrity in a bright red sports car being pulled over by the police. David remembers what he is doing that evening and thinks he may cry while Joe giggles at him. He tries to get out of it. Joe ends the ep with a bit of juggling. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8638444918.mp3?updated=1693841244",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1943",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "haunted",
+        "house"
+      ]
+    },
+    {
+      "key": "2f2f5782f1fd0dc807b5174bc13bd3786dc7f016",
+      "title": "Paul Gorton's Lung Winded Story",
+      "published_at": "2023-08-31T02:00:00+00:00",
+      "link": null,
+      "description": "Ex 'Deal Or No Deal'contestant Paul Gorton is back on the pod but this time telling David and Joe about how he hurt his lung playing football. This ends up in a long winded story with Paul revealing all about his footballing career and his famous friends. When he finally get's round to the story of the collapsed lung it's actually pretty scary. David feels a bit queasy. Joe's been watching a game of walking football and suggests this might be the way forward. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2734967678.mp3?updated=1692965678",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3934",
+      "speakers": [
+        "Paul Gorton",
+        "Lung Winded Story Ex",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paul",
+        "gorton",
+        "lung",
+        "winded",
+        "story"
+      ]
+    },
+    {
+      "key": "e237d4cd2e7ef6a08436241b1431b64773a7f73c",
+      "title": "Specialist Guest: WW2 Historian Andrew Chatterton",
+      "published_at": "2023-08-30T02:00:00+00:00",
+      "link": null,
+      "description": "Historian Andrew Chatterton reveals the long-hidden secrets of an undercover resistance network set up during WW2 in case of German invasion. He tells David & Joe about networks of civilians who appeared to be leading normal lives but were undertaking training in sabotage and guerilla warfare (and not telling their families what they were up to). David & Joe are hanging off his every word. He goes on to explain about a network of hidden underground bunkers which would have been used to slow down the Germans advance. They decide Andrew must get a lot of date nights with his fascinating stories. Joe decides he doesn't want the job of Patrol Leader as he might have to assasinate someone. Andrew's book 'Britains Secret Defences' available here https://www.casematepublishing.co.uk/britain-s-secret-defences.html Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6756569280.mp3?updated=1692965662",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5027",
+      "speakers": [
+        "WW Historian Andrew Chatterton",
+        "Historian Andrew Chatterton",
+        "David Joe",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "historian",
+        "andrew",
+        "chatterton"
+      ]
+    },
+    {
+      "key": "dbf8f47bedbf5a90adcf9fcef7b27c5fc41d48b7",
+      "title": "S8 EP 284: The Right Move Pilot",
+      "published_at": "2023-08-29T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe have an idea for a property podcast. They talk about the format and how it might work but then realise they'd have to do it properly and speak faster with more energy like Phil Spencer. David get's sidetracked by his phone notifications pinging. They argue about how to end the episode. To test the format David finds Joe three random properties in Jarrow to choose from and realise they've made the property equivalent of Blind Date. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7146167877.mp3?updated=1701288644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3819",
+      "speakers": [
+        "Phil Spencer",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "right",
+        "pilot"
+      ]
+    },
+    {
+      "key": "19eb1f5af84c86e14668e005b9fcf77369c2c179",
+      "title": "It's TV Joe time - Regular Guest",
+      "published_at": "2023-08-24T02:00:00+00:00",
+      "link": null,
+      "description": "Our TV reviewer Joe is back. He's also a guitarist at ABBA Voyage and tells Joe & David that he has now done over 350 shows. TV Joe bursts David & Joe's \"thats what she says\" bubble telling them the phrase has in fact been used a lot in the American Office. After they get over the annoyance of this, they talk about TV game shows and join in a rowdy game of Name That Tune. They tell TV Joe how popular he is as a regular guest on the pod and talk about getting old. TV Joe doesn't get around to doing any TV reviews. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3021286105.mp3?updated=1692798152",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3681",
+      "speakers": [
+        "David Joe",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "time",
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "8bc1384010cd0ab079bd670598a735490832aff8",
+      "title": "Olympic Cyclist Sir Chris Hoy - Specialist Guest",
+      "published_at": "2023-08-23T02:00:00+00:00",
+      "link": null,
+      "description": "World champion cyclist Sir Chris Hoy is today's guest. He confesses to being a fan of the pod and loves listening to David's cackles. He tells them some brilliant stories about what it's like track centre during the big competitions. Joe get's confused between a backdraft or a slipstream so Chris explains how the slipstream works. David asks Chris if he's ever peed himself during a race. They talk about Chris's stunning legs and he tells them what it feels like standing on the podium after winning olympic gold. Chris shows them both how to do a press up properly. Chris Hoy has his own podcast Sporting Misadventure available here https://pod.link/1680181306 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8942587330.mp3?updated=1692710598",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5118",
+      "speakers": [
+        "Chris Hoy Specialist",
+        "Chris Hoy",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "cyclist",
+        "chris",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "0e22d3d8a085b99d1e83f93097ec35cf041ce07c",
+      "title": "Usual Drivel - David's Clown Film",
+      "published_at": "2023-08-22T02:00:00+00:00",
+      "link": null,
+      "description": "In this special ep David and Joe are joined by George Kane the Director on Apocalypse Clown (the film David was in). George explains it's a bonkers dystopian comedy set in Ireland with 4 anarchic clowns on a road trip. David Earl plays Bobo, one of the clowns. George says how brilliant David was in the film and they discuss what it's like telling actors what to do. It's not long till the chat turns to drivel. David shows Joe his clown nose, they compare stories of working on set during the covid days and coming across a wall of Ben's. Apocalypse Clown is coming to Irish / UK cinemas September 1st. There's an early screening at The Prince Charles Cinema, London on Weds 30th August Tickets here: https://princecharlescinema.com/PrinceCharlesCinema.dll/WhatsOn?f=28268531 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7444259649.mp3?updated=1692644152",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3496",
+      "speakers": [
+        "Drivel David",
+        "George Kane",
+        "David Earl",
+        "Apocalypse Clown",
+        "Joe Wilkinson"
+      ],
+      "topics": [
+        "usual",
+        "drivel",
+        "david",
+        "clown",
+        "film"
+      ]
+    },
+    {
+      "key": "b278ed0caea951f091e3971a8efc2ea3ec491cc8",
+      "title": "Where's Joe Now - Allotment Special",
+      "published_at": "2023-08-17T02:00:00+00:00",
+      "link": null,
+      "description": "Joe's off on another adventure and zooms David to show him where he is. He's at an allotment but who's allotment is it ? David googles the shit out of it and is over the moon when he finds out the story behind it all. Joe's friend (a comedian also called Joe) gives them both a guided tour and they try to recreate some scenes. They move on to another location and beard Joe can't contain his excitement ! Guide Joe gives them both a thoughtful gift to end the show. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9865240235.mp3?updated=1692202970",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3719",
+      "speakers": [
+        "Special Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "allotment",
+        "special"
+      ]
+    },
+    {
+      "key": "1eee839b074977aad4f92c0d712c09c3e78bed55",
+      "title": "Martin Freeman - Celeb Chataguest",
+      "published_at": "2023-08-16T02:00:00+00:00",
+      "link": null,
+      "description": "After several minutes of tech issues at Martin's end Joe and David get to guff about how brilliant they think he is. They try and glean from him how to also be brilliant. David tells Martin about his first acting job on Inspector Linley and forgetting to learn his lines. Martin is a bit perplexed about David's obsession with behind the scenes on a tv show, he tells them about filming the Office and sharing the building with real people working down the corridor. They talk about bedtime routines and Martin tells them what time he goes to bed. Joe tells Martin about crying when his hero Roachford came on the pod. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5054221910.mp3?updated=1692129133",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6104",
+      "speakers": [
+        "Martin Freeman Celeb Chataguest",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "martin",
+        "freeman",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "391613c77f55375b9ed33d9c1a23740021f16b16",
+      "title": "The Jingle, The Painting & The Chartz.",
+      "published_at": "2023-08-15T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe analyse how other hosts start their pods and then try to talk as quickly as possible, obsessing over the charts once again. They do a bit about if they were a football team who they would be, who the big hitter pods would be and where they all would be in the league. Listening to Joe's '3 Dayz A Week' song' David reads out some comments from Patreon and has a sing of it himself. David finally shows Joe his painting which is framed and hanging in the hallway. Joe phones his mum to ask if she can take a photo of a painting he did of a ballerina shoe when he was 14. He shows it to David and they talk about whether Joe's mum really likes the picture or if she has just been humouring Joe for 30 years. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8488181038.mp3?updated=1691917129",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2840",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "jingle",
+        "painting",
+        "chartz"
+      ]
+    },
+    {
+      "key": "4c93bec1a9437fc286fd055473f8348c956739c1",
+      "title": "Natabix with Natalie Cassidy - Regular Guest",
+      "published_at": "2023-08-10T02:00:00+00:00",
+      "link": null,
+      "description": "Natalie Cassidy is back on the pod talking more bollox with David and Joe. She tells them about her trip to Wimbledon and her appearance on Parenting Hell. They talk about holidays in Cornwall and enjoying art. Nat & Joe try to persuade David to show them his painting. They collaborate together to write a poem. Natalie writes the first line... they turn it into a game show called Stick It Up Your Arts. Natalie gives her opinion on the pod going to three days a week and puts the cat amongst the pigeons. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9371706940.mp3?updated=1691594432",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4848",
+      "speakers": [
+        "Natalie Cassidy Regular Guest",
+        "Natalie Cassidy",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "natabix",
+        "natalie",
+        "cassidy",
+        "regular",
+        "guest"
+      ]
+    },
+    {
+      "key": "6c2ec67d271914fa09cb203622f4c565eb40104a",
+      "title": "Boxer Chris Billam-Smith - Specialist Guest",
+      "published_at": "2023-08-09T02:00:00+00:00",
+      "link": null,
+      "description": "WBO Cruiserweight Champion Chris Billam-Smith is on the pod. Joe asks him if he wears his WBO belt around the house. David shows off his boxing gloves and puts them on the wrong hand. Chris tells them about his training programme, feeing nervous before sparring, his journey to becoming a world champ and being in the changing room pre-fight. They find out how Chris got his moniker 'The Gentleman', then discuss his choice of shorts and wonder who would win in a fight between David and Chris. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2973367661.mp3?updated=1691509752",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4379",
+      "speakers": [
+        "Chris Billam-Smith Specialist Guest",
+        "Chris Billam-Smith",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "boxer",
+        "chris",
+        "billam",
+        "smith",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "34910870f00ad83dce78cd462fb3f86a11b85f18",
+      "title": "Raving parents, Jennifer Rush, the chartz and doing a bit.",
+      "published_at": "2023-08-08T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe chat about going to 3 days a week and the added pressure of trying to make good eps. David tells Joe about a family event he attended when the adults were getting on it dancing to hip hop. They talk about what it would have been like in their parents day at a fete with a cup of squash and mum listening to Jennifer Rush. The postman comes in again. After analysing the podcast a bit they start doubting if they are any good at it. They talk about the episode charts, being loads behind Wolf & Owl and levels of awkwardness 'doing a bit'. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8238906099.mp3?updated=1691438929",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2799",
+      "speakers": [
+        "Jennifer Rush",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "parent",
+        "jennifer",
+        "rush",
+        "chartz"
+      ]
+    },
+    {
+      "key": "3091ef9fafef6a2c8e832defe8d17eca620199c3",
+      "title": "David's cricket adventure - part 2",
+      "published_at": "2023-08-04T02:00:00+00:00",
+      "link": null,
+      "description": "Part two of an ongoing chat about David's cricket match. The chat starts with David & Joe having the realisation that in their heyday they weren't actually very good at cricket or football and they have, in fact been living in a dream. David tells Joe a bit more about his day playing cricket at The Valley Of The Rocks and how he felt donning his shin pads and going out to bat. He talks Joe through his performance on the pitch, getting recognised by the groundsman and refusing to down a 'man of the match' pint. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4727593478.mp3?updated=1691092483",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4053",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "cricket",
+        "adventure"
+      ]
+    },
+    {
+      "key": "78287984f86036f7e594a4eaa18a134c58e8cbb0",
+      "title": "CANAL THURSDAY #16 The ramblings of Robin Cooper",
+      "published_at": "2023-08-03T02:00:00+00:00",
+      "link": null,
+      "description": "In this comedy improv series, Joe & David are driving their fictitous narrowboat down the canal and spot an old aquaintance Robin Cooper having a picnic. They stop for a chat and immediately regret it. Mr Cooper has soooo much to tell them, all about Lilian Driftwoods mother being poisoned by black milk and the wood carving he is doing for his wife who can count to 100 and smells of beautiful damp. He fills them in on his red setter business and tells them a couple of harrowing tales about maggot stuffed meat and ants. David & Joe can't wait to get back on the boat and pootle off to the genius bar to get David's laptop fixed. Robin Cooper is played by the brilliant Robert Popper. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6217808996.mp3?updated=1690976039",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3195",
+      "speakers": [
+        "Robin Cooper",
+        "Robert Popper",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "rambling",
+        "robin",
+        "cooper"
+      ]
+    },
+    {
+      "key": "432c27b04d769bb325013e2bb86bdf5ea94ae2a2",
+      "title": "Iain Lee - Celeb Chataguest",
+      "published_at": "2023-08-02T02:00:00+00:00",
+      "link": null,
+      "description": "Former broadcaster and radio presenter Iain Lee joins David and Joe for a candid chat about his life and career, getting old, feeling anxious at parties and everything in-between. Joe asks him about his experience in the jungle on I'm A Celebrity Get Me Out Of Here and David want's to know about the dunny. Iain names some brilliant guests he has been lucky enought to interview on the radio. David is insanely jealous that Iain's dad worked in the BBC props department. He tells them about his new career as a counsellor and how this came about. Three middle aged men who don’t mind telling one another how nervous they are. Then they meet Swavey, Iains pet snake. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4569879096.mp3?updated=1690909741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5442",
+      "speakers": [
+        "Iain Lee",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "iain",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "d404f5fef4cc7fb21e6df1ff899d767cbf30f2e7",
+      "title": "Professor of Criminology David Wilson - Specialist Guest",
+      "published_at": "2023-08-01T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe talk to David Wilson, a former prison governor and well known criminologist. Despite the grim subject, they manage to get a smile from the professor before settling down for an indepth chat about true crime and psychopathic behaviour. They talk about the 'Sixth Commandment' BBC dramatisation. David Wilson previously wrote a book A Plot to Kill about this tragic true story (before the drama came out) and he tells them a bit more about what he knows from researching for the book. David and Joe ask loads of questions about serial killers. David Wilson tells them about getting mistaken for Graham Norton. Professor Wilson's Criminology course - use code CHATABIX25 to get 25% discount on the Premium Version. https://www.ecademi.co.uk/anintroductiontocriminology 'A Plot To Kill' available online, at bookstores or Amazon https://www.amazon.co.uk/Plot-Kill-deception-betrayal-English/dp/0751582166 https://www.instagram.com/emeritusdavidwilson/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9713613538.mp3?updated=1690560527",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5434",
+      "speakers": [
+        "David Wilson Specialist",
+        "David Wilson",
+        "Graham Norton",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "professor",
+        "criminology",
+        "david",
+        "wilson",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "13c5ab35e13918f12de0695a336ac767764b64ab",
+      "title": "Nearly forgetting the announcement",
+      "published_at": "2023-07-31T02:00:00+00:00",
+      "link": null,
+      "description": "Joe & David catch up after the weekend. They discuss ring lights, lecturing in podcasting and how they would cope talking to uni students. David try's to explain about doing twitch, role playing as Brian Gittins in Grand Theft Auto and they muck about speeding up and slowing down the boring bits. They nearly forget to mention that the pod is moving to three days a week (which was the point of the ep) and honk the mole makes a surprise appearance. They talk about their artwork. Joe is reminded that he said he had farted when he was over excited about the Paul McCaffery prank. In this ep there is a surprise jingle which Joe has recorded unbeknownst to David. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7490441229.mp3?updated=1690554433",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3713",
+      "speakers": [
+        "Brian Gittins",
+        "Paul McCaffery",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "announcement"
+      ]
+    },
+    {
+      "key": "2bc2dcbd295beea7f1ef9fb554551f128898554d",
+      "title": "David's cricket adventure - part 1",
+      "published_at": "2023-07-28T02:00:00+00:00",
+      "link": null,
+      "description": "David has rekindled his love for cricket and tells Joe all about his recent game at England's most picturesque cricket ground Lynton & Lynmouth in the centre of the Valley Of The Rocks. Twenty seven minutes in he still hasn't told Joe anything about the game. He tells him about getting his old kit out of the loft, how he's missed his thigh pads and being in a panic shutting the mini bus door. Joe loses interest. David shows Joe how to hold a cricket ball and announces that he can still catch. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2464180027.mp3?updated=1690486513",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4525",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "cricket",
+        "adventure"
+      ]
+    },
+    {
+      "key": "7e6f715267c07be6a57c498087984cf137375298",
+      "title": "Access All Areas: Blur Concert at Wembley",
+      "published_at": "2023-07-27T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe managed to blag some Access All Area backstage passes to the Blur Concert at Wembley Stadium. They talk about the day and play some snippets of them exploring back stage and looking out on the arena before the crowds arrive. They feel like two dorks standing on the stage with their tiny microphones. Their new pal Steve Davis is DJ'ing so they hang out in his dressing room and have a little chat with him about being one of Blur's fluffers. Steve try's to figure out why Blur asked him to support them and they conclude it's down to the Chatabix effect. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3383811299.mp3?updated=1690283553",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3406",
+      "speakers": [
+        "Blur Concert",
+        "Steve Davis",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "area",
+        "blur",
+        "concert",
+        "wembley"
+      ]
+    },
+    {
+      "key": "503599bf9e7630f4d30e71c9822cbbf0fdbeb292",
+      "title": "Cricketer David Gower",
+      "published_at": "2023-07-26T02:00:00+00:00",
+      "link": null,
+      "description": "Former England cricket captain David Gower comes onto the show and Joe tries his best to keep up with the cricket chat whilst David feels the need to prove to Mr Gower that he played cricket to a half decent standard. Mr Gower tells them about joy riding in a tiger moth for an impromtu fly-by during the 1990/91 Ashes tour in Australia. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8857889694.mp3?updated=1690294715",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4901",
+      "speakers": [
+        "David Gower",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "cricketer",
+        "david",
+        "gower"
+      ]
+    },
+    {
+      "key": "1710f78d41937934569dc342b928dc475dc6399f",
+      "title": "Royal Navy Jac Hughes - Specialist Guest",
+      "published_at": "2023-07-25T02:00:00+00:00",
+      "link": null,
+      "description": "Ex-Navy Jac Hughes joins David and Joe to chat about his experiences on board a giant ship in the sea. Unfortunately Jac realised he suffered from sea sickness not long after joining the Navy. He talks about being one of thirty nine blokes in the mess, sleeping arrangements, not seeing land for two months and all the games that men play when they’re trapped in a big vessel. After he tells them about meeting some pirates David decides he doesn't want to join the Navy. They're delighted with the navy nicknames Jac gives them, Joe is Tiny or Razor and David is Teabag. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8758027256.mp3?updated=1689962467",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4726",
+      "speakers": [
+        "Jac Hughes Specialist",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "royal",
+        "navy",
+        "hughes",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "56cc20b5b6363e02869e917276fe56009daf5c34",
+      "title": "The Deal or No Deal memorabilia arrives",
+      "published_at": "2023-07-24T02:00:00+00:00",
+      "link": null,
+      "description": "Joe & David have recently bid on some Deal or No Deal memorabilia. The auction house have sent the box of goodies to David's house. David excitedly opens the box live on the pod but is a bit disappointed with the quality of the four red prop boxes and the grubby state of the crew clothing. They find a handwritten message from the auction house and then discover that the pencil drawing of the Deal Or No Deal is actually a photocopy. They decide it's all very underwhelming so talk about David's painting instead. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1993794893.mp3?updated=1689859491",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2137",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "deal",
+        "memorabilia"
+      ]
+    },
+    {
+      "key": "a5f5acee874e1752fcf92eb31094310b2d79c43d",
+      "title": "Andy Goldstein is Good to Go",
+      "published_at": "2023-07-21T02:00:00+00:00",
+      "link": null,
+      "description": "We welcome back old pal Andy Goldstein but again do very little snooker chat (even though he is supposed to be our Snooker Correspondent.) Andy tells the lads about his recent ailments and strained testicle. Joe shares his teeth cleaning routine and David reveals that worryingly his old Osteopath might have been a fraud. Andy and David guess how many footballs are in Joe’s ball bag and they come up with a new catchphrase. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3069700118.mp3?updated=1689857015",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4646",
+      "speakers": [
+        "Andy Goldstein",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "andy",
+        "goldstein"
+      ]
+    },
+    {
+      "key": "dc51ec4096ed5bd338d94ef12286052ff7c65dec",
+      "title": "CANAL THURSDAY #15 Canalside Workout",
+      "published_at": "2023-07-20T02:00:00+00:00",
+      "link": null,
+      "description": "Joe & David interrupt elderly couple Duncy and Cecily stretching and doing a workout by the side of the canal. Duncan has a dicky tummy because their little dog Dorothy has been eating blue cheese. David joins them for some stretches and has a therapy session with Cecily. Barney, one of Cecily's clients turns up in a bit of a state. They discover that Cecily has also worked with Nigel Havers. Then they all go for a ploughman’s at the pub. Duncan is played by the brilliant Seb Cardinal and Cecily is played by the equally brilliant Julia Davis. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7457587402.mp3?updated=1689842348",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3209",
+      "speakers": [
+        "Nigel Havers",
+        "Julia Davis",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "canalside",
+        "workout"
+      ]
+    },
+    {
+      "key": "af82e3b967f0e064f60188af44c3293c4d9ae1a4",
+      "title": "Tommy Cannon - Celeb Chataguest",
+      "published_at": "2023-07-19T02:00:00+00:00",
+      "link": null,
+      "description": "Tommy Cannon chats to David & Joe about his wonderful career with the late Bobby Ball and how they started off in the clubs ending up with their very own Saturday night show. The lads are honoured to talk to Tommy having worked with Bobby on their sitcom The Cockfields. They are massive fans and lap up all his stories. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4094307501.mp3?updated=1689691250",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4181",
+      "speakers": [
+        "Tommy Cannon Celeb Chataguest",
+        "Tommy Cannon",
+        "Bobby Ball",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tommy",
+        "cannon",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "f9d4610ae7499648b84d4287b6a31287c8910745",
+      "title": "Prison Officer Danny Knight - Specialist Guest",
+      "published_at": "2023-07-18T02:00:00+00:00",
+      "link": null,
+      "description": "Ex prison officer, Danny Knight joins Joe and David to talk about his experiences of working in HMP Bristol when it was a Cat A prison. David and Joe get over excited and it turns into something reminiscent of the Deal or No Deal episodes. Danny walks them through prison guard life in fine detail. Joe thinks he would prefer to do a prison admin role. Danny Knight has his own podcast about the high ocatane world of Formula 1 and a radio show Join the Lights Out, Let's Go team. Broadcast weekly on Jaxx Radio on Wednesday night at 7pm https://podcasts.apple.com/gb/podcast/lights-out-lets-go-f1-podcast/id1555652446 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5910809007.mp3?updated=1689621147",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4320",
+      "speakers": [
+        "Danny Knight Specialist",
+        "Danny Knight",
+        "Jaxx Radio",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "prison",
+        "officer",
+        "danny",
+        "knight",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "6f19c96c956f1af56ee48423665084bd8b1a69d7",
+      "title": "Placing our bid. Deal or No Deal Auction - final part",
+      "published_at": "2023-07-17T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe have finally reached the auction lot for the Deal or No Deal memorabilia. They place the first bid. Someone else is bidding. It's all very tense. Going head to head they raise the bid, is it enough ? The hammer comes down. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8563753749.mp3?updated=1689327550",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2242",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "deal",
+        "auction"
+      ]
+    },
+    {
+      "key": "baf3ba56b8ce893085514884c35a72ac4ad8dc50",
+      "title": "Waiting for William Orbit",
+      "published_at": "2023-07-14T02:00:00+00:00",
+      "link": null,
+      "description": "While waiting for today's guest, music producer William Orbit, David sings some of his songs to Joe and they talk about the amazing people William has worked with. William seems to have got the dates muddled and doesn't appear on zoom. To fill time they talk about the 'Derek' prank they played on Paul McCaffrey and come up with a list of potential comedy mates they could play the same prank on. When William's assistant pops up to lets them know that he has actually forgotten they turn the ep into pranky time. They call Sean Walsh and ask him how he feels about the prank then get carried away sending the prank to comedian Jarred Christmas. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6986380297.mp3?updated=1689084401",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4341",
+      "speakers": [
+        "William Orbit",
+        "Paul McCaffrey",
+        "Sean Walsh",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "william",
+        "orbit"
+      ]
+    },
+    {
+      "key": "b08137c0d4b015b396f05324a939a9fa9d70fd8e",
+      "title": "The day of the Sheffield Park Run",
+      "published_at": "2023-07-13T02:00:00+00:00",
+      "link": null,
+      "description": "Joe and David are in Sheffield for the Crucible and have arranged to do the Park Run together on saturday morning. They are at the AIR BNB having a chat over breakfast. David's a bit nervous. Joe struggles to get them a taxi and David hopes he doesn't have to do it. It's a promising start. They arrive at the park which seems to be full of elite runners. It transpires it's a tough course and David's calfs let him down on the hills so he joins Petra for a coffee. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2496120332.mp3?updated=1689086904",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3128",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "sheffield",
+        "park"
+      ]
+    },
+    {
+      "key": "f4a94aa5509f68cd358b165c5663ddf37f4a18c0",
+      "title": "Connor Swindells - Celeb Chataguest",
+      "published_at": "2023-07-12T02:00:00+00:00",
+      "link": null,
+      "description": "The actor Connor Swindells is on the show having a chinwag with David & Joe. He tells them all about his experiences as an actor and feeling intimidated working with Will Ferrell on the Barbie movie. David asks him about doing nude scenes in Sex Education. They talk about panic attacks and getting mugged and show each other pictures that have been painted of them. David & Joe try to impress Connor with their gun acting skills. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7566748144.mp3?updated=1689070064",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5167",
+      "speakers": [
+        "Connor Swindells Celeb Chataguest",
+        "Connor Swindells",
+        "Will Ferrell",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "connor",
+        "swindells",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "2ff97731706676b6aa4eb151edc7b18c98eec456",
+      "title": "Emmanuel Asuquo - Finance Wiz: Specialist Guest",
+      "published_at": "2023-07-11T02:00:00+00:00",
+      "link": null,
+      "description": "Financial expert Emmanuel Asuquo joins Joe & David on the show to chat all things money. Coming from a council estate in Tower Hamlets he was the youngest financial advisor at Barclays. He tells his story, how he got out of corporate finance and started helping people who really needed it. He shares some of his financial wisdom with David & Joe giving them some top tips on what to do with £100. David reveals he did Business Studies for 6 weeks in 1993. Find Emmanuel here https://www.instagram.com/theemaneffectuk/ https://emmanuelasuquo.com/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8192534611.mp3?updated=1689001937",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3825",
+      "speakers": [
+        "Emmanuel Asuquo",
+        "Find Emmanuel",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "emmanuel",
+        "asuquo",
+        "finance",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "03092814925b1a9442804125304288e1e9879108",
+      "title": "Amusing ourselves: Deal or No Deal memorabilia auction - part 3",
+      "published_at": "2023-07-10T02:00:00+00:00",
+      "link": null,
+      "description": "While waiting for the Deal or No Deal memorabilia auction lot to come up David & Joe discuss how much they'd get if they auctioned off David's post it notes and a painting of Joe naked on a horse. They are on Lot 139. They decide to amuse themselves by sending 10 of their comedian mates a picture of the building the set of Derek was based on to see who, if anyone, gets back to them. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1753506889.mp3?updated=1688835926",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2216",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "deal",
+        "memorabilia",
+        "auction"
+      ]
+    },
+    {
+      "key": "e7b995e8d5954837c13381b58fb93b16fdcc7b8f",
+      "title": "Paul Gorton is back: the Deal Or No Deal chapters",
+      "published_at": "2023-07-07T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe discuss with Paul whether the Deal Or No Deal saga has run it's course. Paul shares his screen and carries on showing them the DOND episode he was in, talking them through what happened when Noel met his family. David & Joe are back in the room, totally mesmerised ! Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5924121465.mp3?updated=1688675314",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4168",
+      "speakers": [
+        "Paul Gorton",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paul",
+        "gorton",
+        "deal",
+        "chapter"
+      ]
+    },
+    {
+      "key": "d4838d2590f9b1da5b9851b6c5e39c9aa9613580",
+      "title": "Where's Joe Now - Football Special",
+      "published_at": "2023-07-06T02:00:00+00:00",
+      "link": null,
+      "description": "In this special 'Where's Joe Now' ep Joe and his five-a-side mates 'Team Chatabix' are playing a football match but David has no idea where this is taking place or what is going on... When David see's where Joe is he feels intense jealousy. Joe show's him round the ground before the tournament commences. David watches the game via Zoom and provides some light touch punditry while Petra holds the camera and Joe subs himself off. They love their new branded Chatabix football tops. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5433109900.mp3?updated=1688474716",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4425",
+      "speakers": [
+        "Joe Now Football Special",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "football",
+        "special"
+      ]
+    },
+    {
+      "key": "a1d6210faacaba9c3f385b2e75910cdaab88789b",
+      "title": "Thomas Turgoose - Celeb Chataguest",
+      "published_at": "2023-07-05T02:00:00+00:00",
+      "link": null,
+      "description": "We talk to actor Thomas Turgoose who played Shaun in the gritty series 'This Is England' and more recently in period drama 'The Gallows Pole'. Tommo tells David & Joe about being street cast in the role, working with Shane Meadows and how he got into acting. They talk behind the scenes, winging it and what David would do if Shane Meadows called him up. David sings about Ira Jackson Jnr. and Joe tries to think of things that are overrated. Thomas blames his agent for turning down a role in Joe & David's sitcom Rovers. Thomas & Andrew Ellis (Gadget) have their own podcast 'Overrated Everything' - give it a try https://linktr.ee/overratedeverythingpod Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6612833618.mp3?updated=1688472255",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5684",
+      "speakers": [
+        "Thomas Turgoose Celeb Chataguest",
+        "Thomas Turgoose",
+        "Shane Meadows",
+        "Ira Jackson Jnr",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "thomas",
+        "turgoose",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "d9f5a4d942fcc33ee068d810727bf1de705c3ea2",
+      "title": "Musician Keaton Henson - Specialist Guest",
+      "published_at": "2023-07-04T02:00:00+00:00",
+      "link": null,
+      "description": "Brilliant, brilliant, brilliant musician, Keaton Henson hops onto the Chatabus to give a very rare interview. It’s basically love at first sight for David, Joe and Keaton as they get on like a blimming house on fire. Keaton tells them all about his songwriting process. David brings up The Americana Sessions and Keaton writes a beautiful song for Chatabix called Moonlight On Your Nose. We play it at the end of the episode. Keaton's new album is out now - give it a listen https://keatonhenson.ffm.to/houseparty.OPR Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1351484857.mp3?updated=1688142542",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4919",
+      "speakers": [
+        "Keaton Henson Specialist",
+        "Keaton Henson",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "musician",
+        "keaton",
+        "henson",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "9ab8256f42801195df415c560fed9d885c124de7",
+      "title": "Bidding for Deal or No Deal memorabilia - part 2",
+      "published_at": "2023-07-03T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe are still waiting to bid for the Deal of No Deal memorabilia. While they wait for the lot to come up they dissect last weeks episode when they called up the DOND set designer. David tells a story from 2009 when he was doing his first acting job with Marc Wootton. They are only on Lot 88. Joe tells a story about doing his first read through and how harrowing it was. They are on Lot 99. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3772645924.mp3?updated=1688139704",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1956",
+      "speakers": [
+        "Marc Wootton",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "deal",
+        "memorabilia"
+      ]
+    },
+    {
+      "key": "bcc059d5007186519b0ef14b9d0ee2d57d33ecd1",
+      "title": "Everyone loves a bit of TV Joe.",
+      "published_at": "2023-06-30T02:00:00+00:00",
+      "link": null,
+      "description": "TV Joe is back on the Chatabus with David and Joe. He tells them what he's been up to on holiday and what he's been watching but they get side tracked with sport. TV Joe reviews some recent telly shows and awards some krispies. Joe talks about the Arnold Schwarzenegger documentary and they give it 3 krispies. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3952332252.mp3?updated=1687875779",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3880",
+      "speakers": [
+        "Arnold Schwarzenegger",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "b8f8e61d609803970525518c05084da8e7568ce9",
+      "title": "CANAL THURSDAY #14 Damsel in distress",
+      "published_at": "2023-06-29T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe are enjoying their first little jaunt down the canal in a while when they see a lady in distress. She pops on board for a cup of tea and explains about her time in the theatre. It never really becomes clear why she was in distress. (Something about a man with a string bag on his chest.) Damsel in Distress Anna Mann - played by Colin Hoult https://iamcolinhoult.com/ If you want to hear more from Anna check out her Podcast https://pod.link/1350548208 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2328238180.mp3?updated=1688048851",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2873",
+      "speakers": [
+        "Anna Mann played",
+        "iamcolinhoult com",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "damsel",
+        "distress"
+      ]
+    },
+    {
+      "key": "d0d648c0fd5bb17b10addd9e162682300adbd7fd",
+      "title": "Katherine Ryan - Celeb Chataguest",
+      "published_at": "2023-06-28T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe have a lovely natter with Katherine Ryan about work, family and her philosophy on life. Joe finds Katherine entrancing and wants her to be his guru. Katherine talks about doing Gogglebox with Bobby and then starts gossiping about an episode of Below Deck. They disect the world of PR and Katherine decides to take on Joe and David as a project. She sings them a song and finishes on a story about a taxi driver needing the loo. Katherine has her own podcast Telling Everybody Everything https://shows.acast.com/katherine-ryan-telling-everybody-everything Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4621926322.mp3?updated=1687874137",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4586",
+      "speakers": [
+        "David Joe",
+        "Katherine Ryan",
+        "Below Deck",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "katherine",
+        "ryan",
+        "celeb",
+        "chataguest"
+      ]
+    },
+    {
+      "key": "92a170255e64e2d00200866de0ce59a14a475969",
+      "title": "Sailor Tracy Edwards MBE - Specialist Guest",
+      "published_at": "2023-06-27T02:00:00+00:00",
+      "link": null,
+      "description": "It's the Specialist Guest section and David & Joe welcome sailor Tracy Edwards MBE onto the Chatabus (after David get's himself comfortable). In 1989 Tracy skippered the first all female crew in the Whitbread Round The World Yacht Race on her boat The Maiden. David makes the most of this opportunity by asking Tracy if she's ever seen a big whale. Tracy regales them with tales of her misspent youth and how she got into sailing. Tracy says 'At 26 years old I captained the yacht ‘Maiden’, with the first all-female crew to ever sail around the world. We were told we couldn’t do it, but we showed how sailing is a level playing field. Now, I’m making it my mission to advocate for girls’ education around the world.” The Maiden Factor Foundation works with communities to enable girls into education and empower and support them to remain throughout their teenage years to reach their full potential and create better futures for all. https://www.themaidenfactor.org/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5342659193.mp3?updated=1687855068",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4189",
+      "speakers": [
+        "Tracy Edwards Mbe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "sailor",
+        "tracy",
+        "edwards",
+        "specialist",
+        "guest"
+      ]
+    },
+    {
+      "key": "cec8207d1fac081ce9c7794599afddc705e5f593",
+      "title": "Bidding for Deal or No Deal Memorabilia",
+      "published_at": "2023-06-26T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe have been tipped off that some Deal or No Deal memorabilia is up for auction. They decide to bid on it but can't decide how much they are prepared to spend. They log on to the auction site and realise it might take a while to get to lot 198. David is very interested in the drawings of the set design and wants to find out more. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4850363359.mp3?updated=1687716869",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1831",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "deal",
+        "memorabilia"
+      ]
+    },
+    {
+      "key": "bdb1773cc8c213d6602d031fd7062c21c10648af",
+      "title": "Middle aged grafters",
+      "published_at": "2023-06-23T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe chat about hiring a campervan, no me time and family holidays. They talk about the podcast charts yet again and how much graft they put in. David has a brainwave and mentions they should do private podcast gigs for billionaires. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8727494641.mp3?updated=1687426386",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3696",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "grafter"
+      ]
+    },
+    {
+      "key": "6a7239b8aacf9de829d3a76a55dcc3ab043470dd",
+      "title": "Crucible Adventures part 4 - in the belly",
+      "published_at": "2023-06-22T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe are in the belly of the beast at the Crucible. After some fine dining at the Century Club they go into the auditorium to watch a snooker match. The atmosphere is electric and Steve Davis gives them a wave. They meet Jimmy White and get to interview him for Eurosport. Their Chatabix interviewing techniques holds them up when David asks Jimmy if he's ever worn a cloak. An excellent day. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8543320135.mp3?updated=1687165962",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3124",
+      "speakers": [
+        "Steve Davis",
+        "Jimmy White",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "crucible",
+        "adventures",
+        "belly"
+      ]
+    },
+    {
+      "key": "8cfd0c56b57cecf0ce2cf67c22cda47d535dc61c",
+      "title": "Crucible Adventures part 3 - today's the day",
+      "published_at": "2023-06-21T02:00:00+00:00",
+      "link": null,
+      "description": "After testing the kit David & Joe leave the air bnb with minutes to spare and walk to the Crucible Theatre. It's raining. After stopping to taste some free vegan food they arrive at the stage door and meet Ivan who takes them for a quick behind the scenes tour. They meet some snooker legends in the Players Lounge and get to play on the actual practice tables. This blows their mind. They get filmed by the BBC and get a Crunch Crunch. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6525556648.mp3?updated=1687190599",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2984",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "crucible",
+        "adventures",
+        "today"
+      ]
+    },
+    {
+      "key": "2c8f98c67b471fe8587040ff5edecaeb3c9f6a58",
+      "title": "Crucible Adventures part 2 - don't take crisps in",
+      "published_at": "2023-06-20T02:00:00+00:00",
+      "link": null,
+      "description": "It's the morning of the Crucible visit. David and Joe are at the AIR BNB in Sheffield. They call Andy Goldstein for some moral support and play a game of 'guess the age of the snooker player'. Uncle Andy gives them a few words of advice and tells them not to take crisps into the auditorium then waves them off on their adventure. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4749206119.mp3?updated=1687178861",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2593",
+      "speakers": [
+        "Andy Goldstein",
+        "Uncle Andy",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "crucible",
+        "adventures",
+        "crisp"
+      ]
+    },
+    {
+      "key": "193381261dc2a80043173733fc475e9c03a63c40",
+      "title": "Crucible Adventures part 1 - giddy with excitement",
+      "published_at": "2023-06-19T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe have managed to wangle an invite to the World Snooker Championships at The Crucible thanks to Andy Goldstein. They are beyond excited and chat about what they are going to wear and where they will sit. To try and calm their nerves before the big day they have a chat with Andy. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ A Big Oval Plate / Keep It Light Media Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4559637334.mp3?updated=1687119793",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3774",
+      "speakers": [
+        "Andy Goldstein",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "crucible",
+        "adventures",
+        "giddy",
+        "excitement"
+      ]
+    },
+    {
+      "key": "6239df483aa5303a6f5064bfa8ba2f578c69e098",
+      "title": "Not recording an intro for the new series.",
+      "published_at": "2023-06-16T02:00:00+00:00",
+      "link": null,
+      "description": "It's the first new ep of the new series. David and Joe have been asked to record a punchy little intro about all the brilliant guests and exciting eps they have coming up in Series 8. Instead they talk about something else. A cracking start to The Damaged Calf Series. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ A Big Oval Plate / Keep It Light Media Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9481694130.mp3?updated=1687119771",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3188",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "intro",
+        "series"
+      ]
+    },
+    {
+      "key": "21c6d720bca12ab81833923fc951134a8c84b895",
+      "title": "Canal Thursday #13 The Maiden Voyage",
+      "published_at": "2023-06-15T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe are finally ready to set sail on their narrowboat. Before they leave on the maiden voyage a few old friends pop over for a BBQ... Davide Darood tells them all about his new lottery prediction business and introduces them to his brother Christopher. Mr Taylor and ticklish Tel turn up but Mr Taylor is hiding from Roger Babbage Quantock. Joe starts up the boat and as they set sail all their freinds wave them off and give them a couple of words of advice.... Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7649509936.mp3?updated=1686590881",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2256",
+      "speakers": [
+        "Roger Babbage Quantock",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "maiden",
+        "voyage"
+      ]
+    },
+    {
+      "key": "3b494dd1f7c652585632fdc98eeffa7a3309adc3",
+      "title": "Canal Thursday #12 Mr Taylor's massive cwumble",
+      "published_at": "2023-06-14T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe have had a lot of problems with the narrowboat so ask Mr Taylor to come round so they can run through everything that has gone wrong. Mr Taylor is making a massive crumble. He tells them all about his winklepickers and then his assistant ticklish Tel knocks on the door. Mr Taylor owns 12 themed barges that he manages with his other assistant Logan. Tel sings a fleetwood mac song and Mr Taylor trys to recite the names of each of the barges. (Mr Taylor is played by the amazing Seb Cardinal) Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7975946663.mp3?updated=1686681982",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2480",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "taylor"
+      ]
+    },
+    {
+      "key": "b5e1061090dddcbd6e4e486f2095d5680f72ec56",
+      "title": "Canal Thursday #11 Old timer Eddie Phillips",
+      "published_at": "2023-06-13T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe get some narrowboating tips and tales from Eddie Phillips an old guy who's been hanging about the canal for nigh on 40 years. Ted recites some poems from his new book Tales of a Seafaring Man and tells them about his wife Sheila who slipped off the boat into the sluice gate after drinking too much Mateus Rose. He then went on to have an affair with Sheena (or was it Shona?) and Patrick Duffy saw a ghost in his toilet. (Eddie Phillips is played by Alex Lowe who has announced a new tour for 2024 as Clinton Baptiste www.clintonbaptiste.com ) Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7555490115.mp3?updated=1686591290",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2843",
+      "speakers": [
+        "Eddie Phillips",
+        "Mateus Rose",
+        "Patrick Duffy",
+        "Alex Lowe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "timer",
+        "eddie",
+        "phillips"
+      ]
+    },
+    {
+      "key": "b52278d47b4b2bc4686d4c405de94366e5a9d7f8",
+      "title": "Canal Thursday #10 Brother Paul visits the boat",
+      "published_at": "2023-06-12T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe's brother Paul is coming to visit them on the narrowboat. They are a bit nervous as Paul has just finished an 18 year stretch inside. While they wait for him to arrive they struggle to remember their favourite Paul stories. When Paul turns up he tells them all about his crimes, childhood illnesses and how he passed his time in solitary. David has made Paul some spag bol but Paul has brought his own lunch. The visit doesn't go well. (Brother Paul is played by Alistair Green who is currently touring his own show) https://showandtellpresents.com/events/what-are-we-like-eh#shows Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6697972781.mp3?updated=1686498149",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2354",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "brother",
+        "paul",
+        "boat"
+      ]
+    },
+    {
+      "key": "4237bbbf26f68e3d7260f683378565b7a43465f6",
+      "title": "Canal Thursday #9 Davide Darood's boat cleaning services",
+      "published_at": "2023-06-09T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe are looking for someone to clean their new narrowboat. They come across Davide Darood who lives in a thatched cottage and has a plethora of businesses including a cleaning company called Lemony Zing. Davide takes a look at the boat which is covered in weetabix and decides he may need his assistant Jammie to help him clean it. Davide Darood played by Greg McHugh who be will taking another of his great characters Gary Tank Commander to the Edinburgh Festival this year ‘Gary Talks: YOUS LISTEN!’ 18-28th August (not 22nd) Gilded Balloon Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7843817394.mp3?updated=1686297044",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2320",
+      "speakers": [
+        "Lemony Zing",
+        "Greg McHugh",
+        "Gary Tank",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "davide",
+        "darood",
+        "boat",
+        "service"
+      ]
+    },
+    {
+      "key": "dde789e1e4f999962bc65e180184d222db34b026",
+      "title": "Canal Thursday #8 Edward meets with an accident",
+      "published_at": "2023-06-08T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe meet Edward who is the custodian of the boat they have just purchased from Mr Taylor. He is supposed to be giving them the keys and showing them how to drive the narrowboat but is listening to Ian Dale. Edward makes them a cup of tea and tells them about a murder. They start the boat up with one of the 14 keys. It ends up in a bit of a barney and Edward ends up in the canal. (Edward is played by John Kearns www.johnkearnscomedy.co.uk ) Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9030614131.mp3?updated=1686151827",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2517",
+      "speakers": [
+        "Ian Dale",
+        "John Kearns",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "edward",
+        "accident"
+      ]
+    },
+    {
+      "key": "000c91d269da37da84537283f1b4e5835e41486f",
+      "title": "Canal Thursday #7 Doing a deal with Mr Taylor",
+      "published_at": "2023-06-07T02:00:00+00:00",
+      "link": null,
+      "description": "David & Joe decide to buy Mr Taylor's narrowboat so they go to see him in the pub to do a deal. He tells them all about his girlfriend Lilibet and they meet Johnson who is related to Noddy Holder. They handover the cash and Mr Taylor's real name is revealed by Lilibet. (Mr Taylor & Lilibet played by Seb Cardinal) Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7166913821.mp3?updated=1686060597",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2295",
+      "speakers": [
+        "Taylor David Joe",
+        "Noddy Holder",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "deal",
+        "taylor"
+      ]
+    },
+    {
+      "key": "774faaf24229aa08762e506ee05dbe026ad02899",
+      "title": "Canal Thursday #6 Buying red setters from Mr Cooper",
+      "published_at": "2023-06-06T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe decide they need three Red Setters for the boat. They go to see Mr Cooper who has three identical dogs of different sizes for sale and a room full of sedated dogs. He tells them about his friends Lilian & Peter Driftwood and Peter Lake. Mr Cooper also has a lamination and de-lamination business as a sideline. Mr Cooper devised and played by Robert Popper Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9675039356.mp3?updated=1685974236",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2045",
+      "speakers": [
+        "Peter Lake",
+        "Robert Popper Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "setter",
+        "cooper"
+      ]
+    },
+    {
+      "key": "4ad6158fdfb920bee97cceff4202adf6560bb0cd",
+      "title": "Canal Thursday #5 Boat ownership responsibilities",
+      "published_at": "2023-06-05T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe have start to think about the realities of owning a canal boat. They discuss their roles and responsibilities and run through a checklist for narrow boat owners. They decide to buy three skittish red setters called Aerial, Archive and Barney. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2805745680.mp3?updated=1685703093",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1866",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "boat",
+        "ownership",
+        "responsibility"
+      ]
+    },
+    {
+      "key": "975973fe1103967b062867e311671c33fce0b3e3",
+      "title": "Canal Thursday #4 Mrs Falconio's boat",
+      "published_at": "2023-06-02T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe go to look at another boat on the same stretch of canal. They drop in on a surprised Mrs Falconio and ask about buying her big 57ft narrowboat. Mrs Falconio tells them all about her husband Jonny who is in a coma due to a cricket accident. Then Mrs Falconio introduces them to Martin who happens to be building a dock for the boat. (Mrs Falconio is played by Anna Crilly) Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6331648640.mp3?updated=1685645740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1688",
+      "speakers": [
+        "Mrs Falconio",
+        "Anna Crilly",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "falconio",
+        "boat"
+      ]
+    },
+    {
+      "key": "0c2c3b398fe62bf922d8f2d19ffcd16e6af8c753",
+      "title": "Canal Thursday #3 Meeting Mr Taylor",
+      "published_at": "2023-06-01T00:00:00+00:00",
+      "link": null,
+      "description": "David and Joe wake up in the AirBNB in Glenfield. They take a drive back to Rothley to see if the owner of the boat they want to buy is at home. His name is Mr Taylor. To his surprise they ask to see the boat. Mr Taylor tells them all about his son, a man called Gerald and Avocado Attack. They try to guess his age and he shows them round the boat. (the brilliant character Mr Taylor devised and played by the amazing Seb Cardinal) Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ KILM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1671474177.mp3?updated=1685577583",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2262",
+      "speakers": [
+        "Taylor David",
+        "Avocado Attack",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "meeting",
+        "taylor"
+      ]
+    },
+    {
+      "key": "54e7b2e71447e95397b9e4dd3d634697caae5dab",
+      "title": "Canal Thursday #2 Visiting Rothley to view the boat",
+      "published_at": "2023-05-31T02:00:00+00:00",
+      "link": null,
+      "description": "David and Joe travel to Rothley to view the boat. The narrowboat owner isn't at home so they take a stroll along the canal and book an Airbnb. They make a couple of calls to see if they can get a boat mortgage. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4425682128.mp3?updated=1685362991",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2437",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "visiting",
+        "rothley",
+        "boat"
+      ]
+    },
+    {
+      "key": "be4741a3e4366c4d8dbd6ea843945885d2a4ac6c",
+      "title": "Canal Thursday #1 Buying a boat",
+      "published_at": "2023-05-30T02:00:00+00:00",
+      "link": null,
+      "description": "Joe and David embark on a remarkable quest to buy their very own narrowboat. Diving headfirst into the world of canal boat living, the pair set out on a mission to find the perfect floating home. But first they have to agree on where it will be moored (amongst other things.) This is the very first of their canal boat adventures from the Chatabix 'Back Chatalogue'. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2753341065.mp3?updated=1685392324",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1949",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "canal",
+        "thursday",
+        "boat"
+      ]
+    },
+    {
+      "key": "db8a87254c1f248d994b902ce5dcc45b735478f6",
+      "title": "End Of Series Finale with TV Joe",
+      "published_at": "2023-04-14T04:55:56+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/end-of-series-finale-with-tv-joe",
+      "description": "It's the last episode in the series and Joe and David play some games with TV Joe. They play Who Wants To Be a Millionaire. Annoyingly none of their 'phone a friend' friends pick up.Then a shocking thing happens. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d54732fc-f3d0-11ed-bede-230395c9d079/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3831684493.mp3?updated=1708647819",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4784",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "series",
+        "finale"
+      ]
+    },
+    {
+      "key": "4accf2b3ad1f6af8700bacf3b7d44ab7449e0516",
+      "title": "The Murder Capital",
+      "published_at": "2023-04-13T04:50:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/the-murder-capital",
+      "description": "David and Joe talk to the Irish post punk band The Murder Capital. They are young, cool and succesful. David is in awe of them. https://themurdercapital.com/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d55eba3a-f3d0-11ed-bede-876c5beab493/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8084838167.mp3?updated=1699491098",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4598",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "murder",
+        "capital"
+      ]
+    },
+    {
+      "key": "1514a5018e73633dc06f58dd34c1a51db257b697",
+      "title": "Andy Goldstein - Snooker Loopy",
+      "published_at": "2023-04-12T04:50:53+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/andy-goldstein-snooker-loop",
+      "description": "David and Joe are very excited to have their new best mate Andy Goldstein back for more Snooker Loopy. They talk about radio broadcasting, going to The Crucible, Chris Eubanks painting and Jimmy White. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5776bd4-f3d0-11ed-bede-1f9a719e65c3/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8796724060.mp3?updated=1708647835",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4252",
+      "speakers": [
+        "Loopy David",
+        "Andy Goldstein",
+        "Chris Eubanks",
+        "Jimmy White",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "andy",
+        "goldstein",
+        "snooker",
+        "loopy"
+      ]
+    },
+    {
+      "key": "80a02b6340c2e6ddfde6f509a29ae0afd7d3a1ae",
+      "title": "Specialist Guest: Mark Pusey RNLI Volunteer",
+      "published_at": "2023-04-11T04:50:06+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/specialist-guest-mark-pusey-rnli-volunteer",
+      "description": "David and Joe chat to Mark who is a volunteer with the RNLI on the Thames at Chiswick. (he also happens to play the drums for Elton John.) Before they start the interview Joe has to explain to David what a lifeboat man/woman is. Joe loves a RNLI cap so is pleased with his new one supporting the RNLI fundraiser Mayday Mile. https://rnli.social/RNLImile Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d58e790a-f3d0-11ed-bede-e3308826122d/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7019026389.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4784",
+      "speakers": [
+        "Volunteer David",
+        "Elton John",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "mark",
+        "pusey",
+        "rnli",
+        "volunteer"
+      ]
+    },
+    {
+      "key": "fa1693666f23a281a860e17cfa6ca3ac09de1036",
+      "title": "Our game show idea Pyramind",
+      "published_at": "2023-04-10T04:50:16+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/our-game-show-idea-pyramind",
+      "description": "David and Joe try to work out if their gameshow idea called Pyramind works or not. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5a467ba-f3d0-11ed-bede-c3e30aa102f1/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7936491164.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2711",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "game",
+        "idea",
+        "pyramind"
+      ]
+    },
+    {
+      "key": "771c468e39dd7169153fb71e9fc1ae447e4bd48e",
+      "title": "Dissecting the Roachford interview",
+      "published_at": "2023-04-07T04:50:29+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/dissecting-the-roachford-interview",
+      "description": "Joe and David go back to the Roachford ep and dissect it. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5ba755a-f3d0-11ed-bede-bb31683672d8/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4220616797.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2221",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "roachford"
+      ]
+    },
+    {
+      "key": "8ff918ca1ed942031fd8578196f1e10bbfdbbf17",
+      "title": "Where's David Now ?",
+      "published_at": "2023-04-06T04:50:57+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/wheres-david-now",
+      "description": "This time it's David's turn to show Joe around. He's out and about but where is he ? Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5d0c940-f3d0-11ed-bede-d79d646360cd/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1421050038.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2290",
+      "speakers": [
+        "David Now",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david"
+      ]
+    },
+    {
+      "key": "e15eed5cf5f4c7ef937dff2b3bc6e30ba72db349",
+      "title": "Nats Bollox - Natalie Cassidy is back !",
+      "published_at": "2023-04-05T04:50:10+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/guest-natalie-cassidy",
+      "description": "David and Joe had such a lovely time with Natalie Cassidy they invite her back to talk more Bollox. She interupts Joe and David talking about their old man ailments. They talk about marathon training which sparks an idea for a new TV show. Then they talk about teeth. David promises Nat a natabix jingle. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5e6cf7e-f3d0-11ed-bede-53b2ef433275/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3850801892.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3299",
+      "speakers": [
+        "Nats Bollox Natalie Cassidy",
+        "Natalie Cassidy",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bollox",
+        "natalie",
+        "cassidy"
+      ]
+    },
+    {
+      "key": "3c3cdcb01c6c6e82691f1a6da820504583641fd6",
+      "title": "Specialist Guest: Keith McCloskey author of Mystery The Lighthouse",
+      "published_at": "2023-04-04T04:50:51+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/specialist-guest-author-keith-mccloskey-writer-of-mystery-th",
+      "description": "Keith McCloskey tells David and Joe about The Lighthouse which is a true story about the chilling tale of three lighthouse men who vanished. David and Joe are fascinated. Can they get to the bottom of the mystery and work out what actually happened. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5fd45ba-f3d0-11ed-bede-af7173c34587/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4459962620.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3930",
+      "speakers": [
+        "Keith McCloskey",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "keith",
+        "mccloskey",
+        "author",
+        "mystery",
+        "lighthouse"
+      ]
+    },
+    {
+      "key": "dadfcfa448fe13b9a740fc402ba29ca286bd618e",
+      "title": "Preparing for the Roachford dissection",
+      "published_at": "2023-04-03T04:50:44+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/preparing-for-the-roachford-dissection",
+      "description": "David and Joe decide to watch back the Zoom record from when Roachford came on the pod. Unfortunately the tech defeats them. Petra is called in for tech support but is horrified by the colour of Joe's new rug. They talk about the podcast charts while waiting for the video to download. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6152090-f3d0-11ed-bede-076e1232ba5e/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2154215667.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2875",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "roachford",
+        "dissection"
+      ]
+    },
+    {
+      "key": "3809edd38d148d6b60c8368fbae8bd800afe0fcc",
+      "title": "More from TV Joe",
+      "published_at": "2023-03-31T04:50:45+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/more-from-tv-joe",
+      "description": "TV Joe is back to review a bit more telly. David tells Joe and TV Joe about a barney he had that morning. After a bit of football chat they talk about 'The Gold'. TV Joe gives it some rice krispies. Then they talk about doing jury service and the tv documentary series Parole. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d62ae18c-f3d0-11ed-bede-abd1ee49b697/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6832070059.mp3?updated=1684231737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3073",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "afd0210697c3d5b098142d52df3a69d4a292587b",
+      "title": "Joe's Playlist #5",
+      "published_at": "2023-03-30T04:50:06+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/joes-playlist-5",
+      "description": "Steve Baker has chosen three more songs to see if he can 100% tingle Joe and get them on Joe's Playlist. David's also chosen a song and added some new levers to the listening booth which Joe's very happy about. Steve has brought an old pal along to surprise Joe. SONGS ON THE PLAYLIST THIS WEEK: WhyWhyWhyWhyWhy - SAULT Divorce - Alex Cameron Caught Me Thinkin - Bahamas Beautiful Serene - Wild Estate Find the Spotify Playlist: https://linktr.ee/chatabix Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d64063c2-f3d0-11ed-bede-db90af819b2d/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7642411992.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3408",
+      "speakers": [
+        "Steve Baker",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "playlist"
+      ]
+    },
+    {
+      "key": "baf174d90c9aa88fa74c669e23ec0ff59f0ccbe1",
+      "title": "Chatabix 2 Year Anniversary",
+      "published_at": "2023-03-29T04:50:30+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/chatabix-2-year-anniversary",
+      "description": "It's the pods 2 year anniversary. Joe and David go for a meal to celebrate and chat about the first ever Chatabix ep which they recorded on 29th March 2021. A friend pops by to wish them a happy anniversary. They play the first ever ep (all about Sinus addictions and cokey Z) at the end. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6561f82-f3d0-11ed-bede-03334cf58794/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5563575980.mp3?updated=1684231736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4446",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "chatabix",
+        "year",
+        "anniversary"
+      ]
+    },
+    {
+      "key": "ab2cd9de209a66bbf6b49c0dfbcb3761aeaf943d",
+      "title": "Guest: Neil Forsyth - writer 'The Gold'",
+      "published_at": "2023-03-28T04:50:48+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/guest-neil-forsyth-writer-the-gold",
+      "description": "Neil Forsyth writer of 'The Gold' (the recent tv show about Britains biggest heist - Brinks Mat) chats to Joe and David about making the show. Joe gets distracted by a phone call. David and Joe are over the moon to find out Neil is an avid Chatabiscuit. They try to promote Neils new book 'The Gold'. https://www.amazon.co.uk/Gold-Behind-Brinks-Mat-Britains-Biggest/dp/B0BNQSWBZR/ref=sr_1_1?keywords=gold+book&qid=1679507853&sr=8-1 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d66ae1c4-f3d0-11ed-bede-7b8860416cac/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9452111390.mp3?updated=1684231737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4420",
+      "speakers": [
+        "Neil Forsyth",
+        "Brinks Mat",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guest",
+        "neil",
+        "forsyth",
+        "writer",
+        "gold"
+      ]
+    },
+    {
+      "key": "1d49638f792378c1ea22cdcf991e0bb0a88272f3",
+      "title": "Paul Gorton Wingwalking Decision Day",
+      "published_at": "2023-03-27T04:50:10+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/paul-gorton-wingwalking-decision",
+      "description": "After some time for contemplation it's Wingwalking decision day for Paul Gorton. Will he be taking to the skys on the wings of a plane ? David and Joe feel bad about putting him forward as they are too scared to do it themselves. Paul has his final answer for them. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6806d82-f3d0-11ed-bede-87ffe82f24f1/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8958471299.mp3?updated=1684231737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3178",
+      "speakers": [
+        "Paul Gorton",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paul",
+        "gorton",
+        "wingwalking",
+        "decision"
+      ]
+    },
+    {
+      "key": "05fcb7c28d9431bd0195442a043eb017faca1a4e",
+      "title": "Joe and David have something to ask Paul Gorton",
+      "published_at": "2023-03-24T05:50:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/joe-and-david-have-something-to-ask-paul-gorton",
+      "description": "David and Joe have something to ask Paul. Then they backtrack as think they may have got a bit carried away. They ask Paul's wife Kate what she thinks about Paul doing the thing they are asking. Paul says if Elon Musk has done it then he's in. They all decide on a cooling off period before the final decision is made. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d69682ac-f3d0-11ed-bede-a3c3921645b3/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2473124964.mp3?updated=1684231737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2341",
+      "speakers": [
+        "Paul Gorton",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "paul",
+        "gorton"
+      ]
+    },
+    {
+      "key": "de98391e2bece45d5a710dba1a975ed075707f32",
+      "title": "Where's Joe Now - Northern Ireland Special",
+      "published_at": "2023-03-23T05:50:59+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/wheres-joe-now-northern-ireland-special",
+      "description": "Where's Joe Now? Northern Ireland Edition. Joe's gone for a walk. But - where is he? He sits in a boot and meets a handsome stranger from Northern Ireland. Here are some hints - along the way he could have stopped at The Dark Hedges, as seen on Game of Thrones, the spectacular Dunluce Castle or the atmospheric town of Portrush. To discover more destinations in Northern Ireland, check out https://tripadvisor.lnk.to/northernireland SPONSORED BY TOURISM IRELAND Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6af000c-f3d0-11ed-bede-437ee6b81e58/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9419177477.mp3?updated=1684231737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2319",
+      "speakers": [
+        "Special Where",
+        "Joe Now",
+        "Dunluce Castle",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "northern",
+        "ireland",
+        "special"
+      ]
+    },
+    {
+      "key": "cd35e31dfdc96a14518a2f1ecbf9849b8a2d2e9a",
+      "title": "Special Guest: Susie Dent",
+      "published_at": "2023-03-22T05:50:07+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/special-guest-susie-dent",
+      "description": "David and Joe chat to the incredibly brainy Susie Dent from Countdown's Dictionary Corner. They ask her the meanings of lots of words and phrases and as a lexicographer she knows the answers to all of them. David and Joe realise they have been saying things wrong for years and they are idiots. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6c96460-f3d0-11ed-bede-cb8e920678ab/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3729534138.mp3?updated=1684231737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4731",
+      "speakers": [
+        "Susie Dent David",
+        "Susie Dent",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "special",
+        "guest",
+        "susie",
+        "dent"
+      ]
+    },
+    {
+      "key": "7cee51ffecf4e96b6c94ff0c8c8fdec632368f14",
+      "title": "Specialist Guest: Kirsten Pobjoy Wingwalker",
+      "published_at": "2023-03-21T05:50:30+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/specialist-guest-kirsten-pobjoy-wing-alker",
+      "description": "David and Joe talk to Kirsten Pobjoy who gets strapped to the wings of a biplane for a living. They can't quite get their head around the concept of Wingwalking and it terrifies them. She invites them to come to the airfield and have a go with her team AeroSuperBatics . They decide it's not for them and will ask Paul Gorton if he fancies it. https://www.gowingwalking.com Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6e29b6a-f3d0-11ed-bede-0b0580b226a0/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8668363387.mp3?updated=1684231737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3299",
+      "speakers": [
+        "Kirsten Pobjoy",
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "kirsten",
+        "pobjoy",
+        "wingwalker"
+      ]
+    },
+    {
+      "key": "08615d37c65c1b5520d5ea5b7f7164c135db286b",
+      "title": "David's birthday",
+      "published_at": "2023-03-20T05:50:47+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/davids-birthday",
+      "description": "It's David's birthday and his sister has got him a present which he's a bit disappointed with. Joe texts her to see what she feels about the present. David decides to celebrate his birthday with joy even though he's feeling old. Then they record a new song called 'Screw You Boss Man'. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6fc4920-f3d0-11ed-bede-1f1541c955f5/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3394142061.mp3?updated=1684231737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2609",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "birthday"
+      ]
+    },
+    {
+      "key": "f7d4035cff9e2f239a5a83f4d46e1a7acd76fa02",
+      "title": "Joes moves his office around",
+      "published_at": "2023-03-17T05:50:19+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/Joe-moves-his-office-around",
+      "description": "Joe has shed envy. He shows David his office which he has moved around to make it more like his freind Josh's shed. Joe tells David about getting in trouble with his wife who spent days re-designing his office for him. David can't see what Joe has done that is any different. Then they have a tidy up and move some more stuff about. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d715c2f6-f3d0-11ed-bede-6fa061463ea9/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9832512654.mp3?updated=1684231738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2390",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "office"
+      ]
+    },
+    {
+      "key": "d151f7bb14022279794f7f72fe7bc8aa9464b7db",
+      "title": "Joe's Playlist #4",
+      "published_at": "2023-03-16T05:50:52+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/joes-playlist-4",
+      "description": "Usual drill. Music producer Steve Baker chooses 3 songs to play to Joe in the 'listening booth' while David observes Joe's enjoyment measured by amount and vigour of head nods. If Joe nods a lot he likes the song and it goes on his play list. If he doesn't like the song... SONGS THIS WEEK: Fucking Wizadry - Self Esteem Rollercoaster - Bleachers Never There - CAKE PLAYLIST HERE: https://open.spotify.com/playlist/2SzbBtv4l6baoHRoNxd4Ve?si=0150ea491d724db5 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7303d5c-f3d0-11ed-bede-470cd1863eff/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7884017554.mp3?updated=1684231738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3125",
+      "speakers": [
+        "Steve Baker",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "playlist"
+      ]
+    },
+    {
+      "key": "49a8cebcaef0d19bb8c2b156fd94ca39347b6b96",
+      "title": "Surprise Guest: Who Can It Be ?",
+      "published_at": "2023-03-15T05:50:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/surprise-guest-who-can-it-be",
+      "description": "Joe is in the spinny chair. He's finding it rather stressful. When Joe spins round unfortunately the guest can't hear them. After a bit of tech support they settle in for a lovely chat with this national treasure ! Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7496656-f3d0-11ed-bede-3fbe3e273d23/image/95268547c14121c9f96a41ef435e3acb.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1919434508.mp3?updated=1713275981",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3909",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest"
+      ]
+    },
+    {
+      "key": "d39d3b9858c6515718eea87a800dd504efc1381b",
+      "title": "Guest: TV Producer John Lloyd",
+      "published_at": "2023-03-14T05:55:15+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/guest-tv-producer-john-lloyd",
+      "description": "TV Producer and Writer John LLoyd who's CV reads Black Adder, Not The NineO'Clock News, Spitting Image and Hitchhikers Guide to The Galaxy comes on the pod. It's a joy for David and Joe but they are nervous and worry they'll come across as thickies. John talks about mid life crisis and doing the right thing. David asks how big the Spitting Image puppets are. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7637c6c-f3d0-11ed-bede-335b2c1ce4df/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7390993898.mp3?updated=1684231738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4875",
+      "speakers": [
+        "John Lloyd TV",
+        "John LLoyd",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guest",
+        "producer",
+        "john",
+        "lloyd"
+      ]
+    },
+    {
+      "key": "6eeee939bc9b914961cb4684233375518d7626cf",
+      "title": "David's eating plan and Armando Iannucci",
+      "published_at": "2023-03-13T05:55:21+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/davids-eating-plan-and-armando-iannucci",
+      "description": "Joe and David discuss David's eating plan. David doesn't think he has lost weight but Joe can see it in his face. Then they discuss whether an earlier guest Armando Iannucci liked them and if he would use them in his TV shows. They both agree this is highly unlikely. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d77e35a2-f3d0-11ed-bede-8bcd1c876926/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7942065493.mp3?updated=1684231738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1863",
+      "speakers": [
+        "Armando Iannucci",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "plan",
+        "armando",
+        "iannucci"
+      ]
+    },
+    {
+      "key": "1ac203f4f32524fb1c8c4b779ca2f46c8340f0b0",
+      "title": "Paul Gorton: Deal or No Deal (not the Finale)",
+      "published_at": "2023-03-10T05:55:19+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/paul-gorton-deal-or-no-deal-not-the-finale",
+      "description": "Paul Gorton is back. He has found the Deal Or No Deal Episode he was on. Once they get round some technical issues he shares his screen with David and Joe and they settle in to watch the show. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7970226-f3d0-11ed-bede-6bd045042c02/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2863915989.mp3?updated=1684231738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3743",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "paul",
+        "gorton",
+        "deal",
+        "finale"
+      ]
+    },
+    {
+      "key": "9f5705b77fe12912babd199e5480c7ad14691f4f",
+      "title": "David has an announcement",
+      "published_at": "2023-03-09T05:50:32+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/david-has-an-announcement",
+      "description": "David has some big news so calls an emergency pod record. Joe is blown away by the news. What can it be ? Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7af0542-f3d0-11ed-bede-6f38af478bc6/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6543446430.mp3?updated=1684231738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2297",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "announcement"
+      ]
+    },
+    {
+      "key": "b47d35037c9e5e88e1499865f66195a3cb335c29",
+      "title": "Guest: Armando Iannucci",
+      "published_at": "2023-03-08T05:50:52+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/guest-armando-iannucci",
+      "description": "Joe and David meet one of their all time heroes the comedy genius Armando Iannucci. They talk about what colours suit him and then pick his big ol' comedy brain about some of the shows he has worked on (while trying not to make idiots of themselves.) Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7c4c9c2-f3d0-11ed-bede-135e8d2626e7/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9279280782.mp3?updated=1684231738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4329",
+      "speakers": [
+        "Armando Iannucci Joe",
+        "Armando Iannucci",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guest",
+        "armando",
+        "iannucci"
+      ]
+    },
+    {
+      "key": "be4fc8f929b5a8a5b2f5e0711d318acb727978c6",
+      "title": "Running motivation with Tom Wheatley",
+      "published_at": "2023-03-07T05:50:12+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/running-motivation-with-tom-wheatly",
+      "description": "Tom Wheatley is a runner and personal trainer who also reviews running gear. They talk about Park Run and David making a grand entrance. Tom gives David some motivational tips to help get him out running. Then they talk about the Brighton Half Marathon which Joe has just run. When Tom tells Joe his finish time it takes the wind out of Joe's sails somewhat ! https://theruntesters.com/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7db413e-f3d0-11ed-bede-b728011476da/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6894231695.mp3?updated=1684231738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3510",
+      "speakers": [
+        "Tom Wheatley",
+        "Park Run",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "motivation",
+        "wheatley"
+      ]
+    },
+    {
+      "key": "7f1baeab62d6e7df68cf31c5df71e561fc759eb1",
+      "title": "Dissecting the Lol Tolhurst Interview",
+      "published_at": "2023-03-06T05:50:07+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/dissecting-the-lol-tolhurst-interview",
+      "description": "Meeting your heroes. Joe talks about Roachford again. David tries to watch the zoom video back of him meeting his hero (former drummer of the Cure) Lol Tolhurst but can't bear it as thinks he's behaving like a pratt. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7f0e12e-f3d0-11ed-bede-9fdcbd60a6f0/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8936838405.mp3?updated=1684231739",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2999",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tolhurst"
+      ]
+    },
+    {
+      "key": "9c05bf12c87f8aad9500c293f1624d4895873a3e",
+      "title": "Running and Spiders",
+      "published_at": "2023-03-03T05:50:02+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/running-and-spiders",
+      "description": "Joe shows David where he runs everyday but has to bleep out the road names - that's annoying. It gets chaotic when David lets Patreons in to the zoom call to talk about Spiders. None of them have any stories about spiders. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d806ff0e-f3d0-11ed-bede-e706f1b3673c/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8784355982.mp3?updated=1684231739",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2092",
+      "speakers": [
+        "David lets Patreons",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "spider"
+      ]
+    },
+    {
+      "key": "a43ee975eb927caed226666b7055ab55773cf18c",
+      "title": "Joe's Playlist #3",
+      "published_at": "2023-03-02T05:50:40+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/joes",
+      "description": "After they chat a bit more about Roachford, music producer Steve Baker plays the tunes, Joe listens along in the make believe listening booth and David provides a running commentary while guessing if any of the three songs will make Joe's play list. Songs this week: Only You by Steve Monite, Wildfire by SBTRKT & Little Dragon, There She Goes my Beautiful World by Nick Cave & the Bad Seeds SONGS HERE https://open.spotify.com/playlist/2MZdavYaMRmB03YpUPKwxQ?si=2bdaf57eec784811 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d81ca7d2-f3d0-11ed-bede-9bd34c5e7908/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8962237025.mp3?updated=1684231739",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3447",
+      "speakers": [
+        "Steve Baker",
+        "Steve Monite",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "playlist"
+      ]
+    },
+    {
+      "key": "bdb38612ffbcfae8bea56f6a72490901d4502c26",
+      "title": "Surprise Guest: both Joe and David have no idea",
+      "published_at": "2023-03-01T05:50:45+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/surprise-guest-both-joe-and-david-have-no-idea",
+      "description": "Joe's wife has organised a double surprise guest for Joe and David. The guest also surprises them by talking about trains. Joe and David have no idea how this all happened and they still don't. But they have a lovely chat about Hornby Trains. Who can it be ? Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d8326176-f3d0-11ed-bede-d7510c9a0904/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2305109945.mp3?updated=1684231739",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3257",
+      "speakers": [
+        "Hornby Trains",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "david",
+        "idea"
+      ]
+    },
+    {
+      "key": "e1c43c93d9b863ab5ece6a025295366f61ac9478",
+      "title": "Specialist Guest: TV Producer Wiiiiill from TFI Friday",
+      "published_at": "2023-02-28T05:50:02+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/specialist-guest-tv-producer-wiiiiill-from-tfi-friday",
+      "description": "Will MacDonald was the producer of massive TV shows TFI Friday and Don't Forget Your Toothbrush back in the day with Chris Evans. No man on the planet has more bizarre celeb stories than this guy. Joe and David lap it all up. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d847db6e-f3d0-11ed-bede-ef07c851ea2f/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9683035220.mp3?updated=1684231740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4803",
+      "speakers": [
+        "Producer Wiiiiill",
+        "Will MacDonald",
+        "Chris Evans",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "producer",
+        "wiiiiill",
+        "friday"
+      ]
+    },
+    {
+      "key": "3be7190b37c1351bd1b7aa7352cb4a21dbc4ddd3",
+      "title": "Surprise Guest: Roachford",
+      "published_at": "2023-02-27T05:50:21+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/surprise-guest-roachford",
+      "description": "Legendary R&B singer Andrew Roachford pops up on zoom as a surprise guest for Joe. This blows Joe's mind. Joe gets emoosh as Roachford is his all time hero. They discuss in depth the origins of 'Cuddly Toy' which is Joe's favourite song. He tells Roachford about playing it in the registry office at his wedding. Roachford is currently on tour in support of Independent Music Venues (Joe is all over this) http://roachford.co.uk/ He is also performing with Mike and the Mechanics https://mikeandthemechanics.com/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d85d198e-f3d0-11ed-bede-b3f56ea11a42/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2436483876.mp3?updated=1684231740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4496",
+      "speakers": [
+        "Andrew Roachford",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "roachford"
+      ]
+    },
+    {
+      "key": "bd7f4f3aa17c2ef011cf39a5e96f190c48398099",
+      "title": "TV Joe Reviews",
+      "published_at": "2023-02-24T05:50:34+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/tv-joe-regular-guest",
+      "description": "TV Joe is back to review some of the latest TV highlights and award some Krispies. He talks about about how many ABBA shows he has done and how he has very little else going on in his life. Joe and David don't want him to get bored so they set him a challenge. They also talk about East Grinstead. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d8727414-f3d0-11ed-bede-67cd43915963/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7145306127.mp3?updated=1684231740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2997",
+      "speakers": [
+        "Joe Reviews",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "reviews"
+      ]
+    },
+    {
+      "key": "70c41aa4b2d89c5bfe148ba75f53b158002062f8",
+      "title": "Surprise Guest: Lol Tolhurst (Part 2)",
+      "published_at": "2023-02-23T05:50:54+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/LolTolhurstPart2",
+      "description": "Founder member of The Cure Lol Tolhurst has come on the pod as a Surprise Guest for David who is a mega fan. This is the 2nd part of the interview as David didn't want him to leave. https://loltolhurst.com/cured/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d888603a-f3d0-11ed-bede-e7d58c3c3ad6/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1242395770.mp3?updated=1684231740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2924",
+      "speakers": [
+        "Lol Tolhurst",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "tolhurst"
+      ]
+    },
+    {
+      "key": "d3e00b2109db25794419346318a8c6e9d6f702f3",
+      "title": "Surprise Guest: Lol Tolhurst (Part 1)",
+      "published_at": "2023-02-22T05:50:54+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/LolTolhurstPart1",
+      "description": "David's mind is blown when one of his all time heroes Lol Tolhurst appears on zoom from LA. Laurence ' Lol' is a founding member and former drummer and keyboardist of The Cure. While David fangurls Joe is embarrassed. David seems to know more about Lol than Lol does ! Curious Creatures - Lol & Budgie's Podcast https://curiouscreaturespodcast.com Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d8a0d67e-f3d0-11ed-bede-83bec6ec3133/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7674981053.mp3?updated=1684231740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3583",
+      "speakers": [
+        "Lol Tolhurst",
+        "David fangurls Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "tolhurst"
+      ]
+    },
+    {
+      "key": "e19ab4147ee30c033b803d60067194fbc50a2e21",
+      "title": "Specialist Guest: Andy Goldstein Snooker (kind of)",
+      "published_at": "2023-02-21T05:50:03+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/specialist-guest-andy-goldstein-snooker",
+      "description": "Joe and David chat to talkSPORTS Andy Goldstein about Snooker for all of about 4 minutes. Andy repeats a story from the first time he came on the pod and begrudgingly tells them his top 5 snooker players. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d8b6420c-f3d0-11ed-bede-8ff7f9a42d91/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7478207444.mp3?updated=1684231740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2691",
+      "speakers": [
+        "Andy Goldstein Snooker",
+        "Andy Goldstein",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "specialist",
+        "guest",
+        "andy",
+        "goldstein",
+        "snooker"
+      ]
+    },
+    {
+      "key": "6e7958998255a648822221f97b0f889c09748c71",
+      "title": "Badminton names and David shows Joe his guitar",
+      "published_at": "2023-02-20T05:50:59+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/badminton-naem-and-david-shows-joe-his-guitar",
+      "description": "Joe reels off the names of the people he plays Badminton with and tells David what he had for dinner. David shows Joe his guitar and chews on the back of a picture frame. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d8cba19c-f3d0-11ed-bede-6b1d0394ffd5/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9827780361.mp3?updated=1684231740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2103",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "badminton",
+        "name",
+        "david",
+        "guitar"
+      ]
+    },
+    {
+      "key": "bb8eca03b1dd4b1cce139c3761054897c76c0751",
+      "title": "BONUS EP: we listen to ourselves on CO OP radio",
+      "published_at": "2023-02-17T21:00:33+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/bonus-ep-we-listen-to-ourselves-on-co-op-radio",
+      "description": "Joe and David pop into their local Co Ops to try and listen to themselves on the co op radio. Turn the bloody volume up Co Op a lot of work has gone into this Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d8eb1ca2-f3d0-11ed-bede-1761cb3f51a3/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7971230559.mp3?updated=1684231740",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1463",
+      "speakers": [
+        "Co Ops",
+        "Co Op",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "radio"
+      ]
+    },
+    {
+      "key": "6241f9294b97a7b78b5eb1e096994621609c5f8c",
+      "title": "Recording links for Coop Radio",
+      "published_at": "2023-02-17T05:50:28+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/recording-links-for-coop-radio",
+      "description": "Somehow Joe & David have managed to secure a spot on Coop Radio. But now they have to record ten professional links for them. That's clearly never going to happen. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d901f4fe-f3d0-11ed-bede-93646b6cf7fb/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7012378642.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3695",
+      "speakers": [
+        "Coop Radio Somehow Joe",
+        "Coop Radio",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "link",
+        "coop",
+        "radio"
+      ]
+    },
+    {
+      "key": "30b905c4cb4ed4fc7159c9d2af8a99a97e0246b1",
+      "title": "Where's Joe Now ? #4",
+      "published_at": "2023-02-16T05:50:54+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/wheres-joe-now-4",
+      "description": "This ep is a mash up of Surprise Guest, House Snoopers and Where's Joe Now ! But where is Joe and who is that behind the door ? Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d918893a-f3d0-11ed-bede-8b30b9297ea9/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2220561397.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3183",
+      "speakers": [
+        "Joe Now",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "8a5b51c75b7ada89dc7bcf9efa37ef28f5300b78",
+      "title": "Guest: Natalie Cassidy",
+      "published_at": "2023-02-15T05:50:46+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/natalie-cassidy",
+      "description": "Eastenders star Natalie Cassidy comes on the pod and talks total bollocks with David and Joe. They absolutely love her. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d92fc9d8-f3d0-11ed-bede-47de8a6dfb10/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4818449123.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4054",
+      "speakers": [
+        "Natalie Cassidy",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guest",
+        "natalie",
+        "cassidy"
+      ]
+    },
+    {
+      "key": "dd916b7c59d395be71b1a339ace8db8b88095a39",
+      "title": "Guest: Chris Atkins author 'A Bit Of A Stretch'",
+      "published_at": "2023-02-14T05:50:01+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/specialist-chris-atkins-prison-diaries",
+      "description": "Documentary film-maker Chris Atkins was given a 5 year prison sentence for tax fraud. He tells David & Joe what is was like being incarcarated, spending time in one of the UK's toughest prisons HMP Wandsworth. This scares Joe and David a lot who's own experiences of prison amount to delivering paint to HMP Lewes. Chris talks about his book and Podcast 'A Bit Of A Stretch' the Diaries of a Prisoner. https://www.waterstones.com/book/a-bit-of-a-stretch/chris-atkins/9781838950170 https://podcasts.apple.com/gb/podcast/a-bit-of-a-stretch-the-podcast/id1532249561 Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d9458e44-f3d0-11ed-bede-2f5671036877/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3353979398.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4668",
+      "speakers": [
+        "Chris Atkins",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guest",
+        "chris",
+        "atkins",
+        "author",
+        "stretch"
+      ]
+    },
+    {
+      "key": "982819b3a730ea893f902752524b8104573a9726",
+      "title": "Recording a Promo for the Pod",
+      "published_at": "2023-02-13T05:50:07+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/PromoForThePod",
+      "description": "Joe and David begrudgingly record a Promo for their own podcast. A glimpse behind the curtains of the PR machine at Chatabix HQ. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d95b6a52-f3d0-11ed-bede-cbb9b6c4caca/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7876707961.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1880",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "promo"
+      ]
+    },
+    {
+      "key": "0d67f6cb07665f2ec31353b7446387671542923a",
+      "title": "Rosie's Gigging Diaries",
+      "published_at": "2023-02-10T05:50:47+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/gigging-diaries-rosie-francis",
+      "description": "Regular guest, comedian Rosie Francis is back to tell Joe and David about her gigging adventures so far this year. Sounds like she's been smashing it, winning stand-up comps left right and centre. Rosie plays us some 'live' voice notes recorded after the gigs. Check out Rosie's Insta for gig info: https://www.instagram.com/rosiedotfrancis/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d9702f82-f3d0-11ed-bede-1b4bfb67a8e4/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9926244295.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2592",
+      "speakers": [
+        "Rosie Francis",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "rosie",
+        "gigging",
+        "diaries"
+      ]
+    },
+    {
+      "key": "5a55f2f85bfc3c0fa690caef209f278e40ff7254",
+      "title": "Joe's Playlist #2",
+      "published_at": "2023-02-09T05:50:19+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/joes-playlist-2",
+      "description": "Music Producer Steve Baker picks and plays the tunes, Joe listens along in the listening booth and David guesses from Joe's facial expressions if any of the songs will make Joe's play list ! Songs this week: Dark by Biig Piig, NBPQ (Topless) by Sudan Archives and UK GRIM by Sleaford Mods SONGS HERE https://open.spotify.com/playlist/6d0OJhRcOCI2RNktPWjfIA Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d98831b8-f3d0-11ed-bede-530631022159/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4119450547.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3005",
+      "speakers": [
+        "Steve Baker",
+        "Sleaford Mods Songs",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "playlist"
+      ]
+    },
+    {
+      "key": "efded973461f13ae74dc6793756ee34ede91ba15",
+      "title": "Surprise Guest: For David",
+      "published_at": "2023-02-08T05:50:19+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/surprise-guest-for-David",
+      "description": "In todays Ep, David is in the spinny chair. When he spins round who will the surprise guest be ? Listen to find out. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d99ffb54-f3d0-11ed-bede-2fb4ca497a88/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1552422231.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5397",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "surprise",
+        "guest",
+        "david"
+      ]
+    },
+    {
+      "key": "e9cfc68678accc2da850987769a3a875d393ed79",
+      "title": "Guest: Simon Newton - Former Bodyguard",
+      "published_at": "2023-02-07T05:50:02+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/specialist-guest-simon-newton-bodyguard",
+      "description": "Simon Newton is an ex-bodyguard turned actor with a shedload of juicy stories. He tells us how he went from dressing up as Rocky the Bear to doing military service in Afganistan and being a celeb Bodyguard. He also tells us about walking round Top Shop at midnight with Michael Jackson. https://simonnewtonlondon.com/ https://www.instagram.com/simon.newton/ Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d9b5b41c-f3d0-11ed-bede-bffcde0bbf6d/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2958136825.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4624",
+      "speakers": [
+        "Simon Newton",
+        "Top Shop",
+        "Michael Jackson",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guest",
+        "simon",
+        "newton",
+        "bodyguard"
+      ]
+    },
+    {
+      "key": "b4f7f248a8ad60eb287606a9bf05fc7775fae0a3",
+      "title": "Bafta nom and Top Bins",
+      "published_at": "2023-02-06T05:50:19+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/j",
+      "description": "Joe and David wittering on, mostly drivel. Some BAFTA chat, being good at sport and picking through Joe's Soccer AM Top Bins performance. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d9cb67f8-f3d0-11ed-bede-dbb15a52683c/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5434266732.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2241",
+      "speakers": [
+        "Top Bins Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bafta",
+        "bins"
+      ]
+    },
+    {
+      "key": "fe87db78f38ad44fdbaf7af8519d7a588f0b3b36",
+      "title": "Deal or No Deal Contestant: Paul Gorton",
+      "published_at": "2023-02-03T05:50:03+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/paul-gorton-returns",
+      "description": "Paul Gorton comes back on the pod to continue the never ending story of when he was a contestant on Deal or No Deal. He has some very exciting news for David and Joe. He has managed to find the Deal or No Deal Ep and tries to share it with them. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d9e5693c-f3d0-11ed-bede-637de2064960/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6403303409.mp3?updated=1684231741",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3974",
+      "speakers": [
+        "Paul Gorton",
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "deal",
+        "contestant",
+        "paul",
+        "gorton"
+      ]
+    },
+    {
+      "key": "b4dbf0f02968f983983b4b8a0128a4d8d3338fed",
+      "title": "Where's Joe Now ? #3",
+      "published_at": "2023-02-02T05:50:12+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/wheres-joe-now-venice",
+      "description": "Joe has travelled somewhere to record a new 'Wheres Joe Now' ep for the pod. David tries to guess where Joe is and comes up with some weird and wonderful guesses. Joe gives David a tour on zoom and they try out some language skills. But where is Joe ? Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/da03012c-f3d0-11ed-bede-cfe215a9ee57/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7680096331.mp3?updated=1684231742",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2703",
+      "speakers": [
+        "Joe Now",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "0256bf9eb24dd1bcfb45cd299dd31bac2e61e697",
+      "title": "Guest: Maddy from The Traitors",
+      "published_at": "2023-02-01T05:50:47+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/celeb-guest-madd-from-traitors",
+      "description": "Our first guest of the new series is the lovely Maddy from The Traitors tv show. David & Joe find out what really went on behind the scenes in that Castle. Maddy tells them how she came to be on the show and why she suspected Wilf. They are 100% Faithful. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/da19a684-f3d0-11ed-bede-9b531f185719/image/1650870009921-51c8742073fb06bb02dd031707ec2b2b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8557872391.mp3?updated=1684231742",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3838",
+      "speakers": [
+        "David Joe",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "guest",
+        "maddy",
+        "traitors"
+      ]
+    },
+    {
+      "key": "850798ad773a1ec1b59d5a0b91a7698a88b0a113",
+      "title": "Back With A Bang",
+      "published_at": "2023-01-31T05:50:00+00:00",
+      "link": null,
+      "description": "Wallop ! Kicking off the new series with some high energy chat from Joe and David plus the usual mic issues. Ahhh it's good to be back. Follow Chatabix on Twitter & Instagram: twitter.com/chatabix1 www.instagram.com/chatabixpodcast/ Patreon for early access to our eps: https://www.patreon.com/chatabix Crunchy fresh tees and hoodies: https://chatabixshop.com/ Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/da3058e8-f3d0-11ed-bede-9f7f503eca08/image/95268547c14121c9f96a41ef435e3acb.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9099313272.mp3?updated=1726155871",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1927",
+      "speakers": [
+        "Follow Chatabix",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bang"
+      ]
+    },
+    {
+      "key": "8f6390cfbf58032e48872e3b4702d4b679c2aa21",
+      "title": "Chatabix Trailer",
+      "published_at": "2021-03-26T16:13:00+00:00",
+      "link": "https://play.acast.com/s/chatabix/chatabixtrailer",
+      "description": "Possibly one of the worst trailers for anything, ever. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f793805e-f3d0-11ed-bede-f7d679a911ce/image/61ba06e5cb08390012d7cea2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7782806566.mp3?updated=1684231783",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "234",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "chatabix"
+      ]
+    }
+  ]
+}
+```
+<!-- /FEED_JSON -->
+
+## Episodes (newest first)
+
+- 2026-02-20 — S15 Ep 780 Listener’s Mailbag: Jason Orange and Dad Jokes — speakers: Jason Orange, Patreon Merch, Joe Wilkinson, David Earl
+- 2026-02-19 — S15 Ep 779: Trains Tales and London Part Two — speakers: Joe Wilkinson, David Earl
+- 2026-02-18 — S15 Ep 778: What I Do When I Get To Paddington — speakers: Merch Email, Joe Wilkinson, David Earl
+- 2026-02-17 — S15 Ep 777: The 1% Quipping Club — speakers: Lee Mack, Joe Wilkinson, David Earl
+- 2026-02-16 — S15 Ep 776 Vault Mondays: Putting A Bet On A Horse and Joe Davis — speakers: Joe Davis, Joe Wilkinson, David Earl
+- 2026-02-13 — S15 Ep 775 Listener’s Mailbag: Cockfields Quips and Ben Rufus Green — speakers: Listener’s Mailbag, Ben Rufus Green, Bobby Ball, Joe Wilkinson, David Earl
+- 2026-02-12 — S15 Ep 774: The Primrose Hill Lot — speakers: Primrose Hill, Joe Wilkinson, David Earl
+- 2026-02-11 — S15 Ep 773: Dopplebangers and ‘Our Little Systems’ — speakers: Chat Gpt, Joe Wilkinson, David Earl
+- 2026-02-10 — S15 Ep 772: Posthumous Pods and Judgy Joe — speakers: Posthumous Pods, Judgy Joe, Joe’s old, Joe Wilkinson, David Earl
+- 2026-02-09 — S15 Ep 771 Vault Mondays: Joe takes an IQ test — speakers: Joe Wilkinson, David Earl
+- 2026-02-06 — S15 Ep 770: One In A Million - A Baked Bean and Some Door Keys — speakers: Pink Floyd, Paul McCartney, Joe Wilkinson, David Earl
+- 2026-02-05 — S15 Ep 769: Two Farting Dogs and Intimidating Comedians — speakers: Joe Wilkinson, David Earl
+- 2026-02-04 — S15 Ep 768: Why Are You Still Listening? — speakers: Joe Wilkinson, David Earl
+- 2026-02-03 — S15 Ep 767: Touching Tongues — speakers: Joe Wilkinson, David Earl
+- 2026-02-02 — S14 Ep 766 Vault Mondays: Surprise Guest - Kerry Godliman — speakers: Kerry Godliman, Joe Wilkinson, David Earl
+- 2026-01-30 — S15 Ep 765 Listener’s Mailbag: Police Surveillance and Helen DeGeneres — speakers: Listener’s Mailbag, Helen DeGeneres, David’s Happy Happy Girl, Joe’s Helen DeGeneres, Joe Wilkinson, David Earl
+- 2026-01-29 — S15 Ep 764: Josh’s Houses and Live Tour Deliberations — speakers: Joe Wilkinson, David Earl
+- 2026-01-28 — S15 Ep 763: David’s Back In Brighton — speakers: David’s Back, Joe Wilkinson, David Earl
+- 2026-01-27 — S15 Ep 762: New Series, Same Old Drivel — speakers: Joe Wilkinson, David Earl
+- 2026-01-26 — S15 Ep 761 Vault Mondays: Guest - Former Gangster, Charlie Breaker — speakers: Charlie Breaker, Joe Wilkinson, David Earl
+- 2025-12-23 — S14 Ep 760: TV Joe’s Quiz of the Year — speakers: Joe’s Quiz, Robert Smith, Joe Wilkinson, David Earl
+- 2025-12-22 — S14 Ep 759 Vault Mondays: Guest - Steve Davis — speakers: Steve Davis, Joe Wilkinson, David Earl
+- 2025-12-19 — S14 Ep 758: Christmas Mailbag - This Morning and Early Retirement — speakers: David’s Ibiza, Joe’s Park Run, Joe Wilkinson, David Earl
+- 2025-12-18 — S14 Ep 757: Joe’s Christmassy Walk (to the Station) — speakers: Robert Smith, Joe Wilkinson, David Earl
+- 2025-12-17 — S14 Ep 756: Nasty Messages and Lovely Pods — speakers: Joe Wilkinson, David Earl
+- 2025-12-16 — S14 Ep 755: I Ain’t A Square — speakers: Joe Wilkinson, David Earl
+- 2025-12-15 — S14 Ep 754 Vault Mondays: Talking About Stuff and Not Talking About Stuff — speakers: Joe Wilkinson, David Earl
+- 2025-12-12 — S14 Ep 753 Listener’s Mailbag: Red Mist and Beautiful Bath — speakers: Beautiful Bath, Joe Wilkinson, David Earl
+- 2025-12-11 — S14 Ep 752: Not Good Enough — speakers: Jack Russell, Joe Wilkinson, David Earl
+- 2025-12-10 — S14 Ep 751: Poos and Key-Bumps — speakers: Ben Shephard, Dawn French, Joe Wilkinson, David Earl
+- 2025-12-09 — S14 Ep 750: David’s Teenage Holiday Romance — speakers: David’s Teenage, Joe Wilkinson, David Earl
+- 2025-12-08 — S14 Ep 749 Vault Mondays: Howards Way and Romesh and Tom's Podcast — speakers: Howards Way, Joe Wilkinson, David Earl
+- 2025-12-05 — S14 Ep 748 Listener’s Mailbag: Podcasts, Psychologists and Princesses — speakers: Joe Wilkinson, David Earl
+- 2025-12-04 — S14 Pp 747 One In A Million: Haemorrhoids and Doppelgängers — speakers: Joe Wilkinson, David Earl
+- 2025-12-03 — S14 Ep 746: Are We Likable? — speakers: Joe Wilkinson, David Earl
+- 2025-12-02 — S14 Ep 745: Joe's Midas Month and that Waitrose Christmas Advert — speakers: Keira Knightly, Joe’s Midas, Joe Wilkinson, David Earl
+- 2025-12-01 — S14 Ep 744 Vault Mondays: Recurring Dreams and Double Acts — speakers: Joe Wilkinson, David Earl
+- 2025-11-28 — S14 Ep 743 Listener’s Mailbag: Scenery Painters and Memorial Flowers — speakers: Memorial Flowers, Joe Wilkinson, David Earl
+- 2025-11-27 — S14 Ep 742: Guests Analysis and The Misery Train — speakers: Joe Wilkinson, David Earl
+- 2025-11-26 — S14 Ep 741: Bumping into David Olusoga and Behind the Scenes at Cats Does Countdown — speakers: David Olusoga, Joe Wilkinson, David Earl
+- 2025-11-25 — S14 Ep 740: Boy Bands and Bad Wi-Fi — speakers: Bad Wi-Fi, Joe’s Wi-Fi, Joe Wilkinson, David Earl
+- 2025-11-24 — S14 Ep 739 Vault Mondays: The Joe Wilkinson Appreciation Episode — speakers: Joe Wilkinson, David Earl
+- 2025-11-21 — S14 Ep 738 Listener’s Mailbag: Olympic Swimmers and David’s Prediction Video — speakers: David’s Prediction Video, Joe Wilkinson, David Earl
+- 2025-11-20 — S14 Ep 737: Joe on BBC Breakfast and Old Traitors News — speakers: Joe Mahler, Phil Kay, Joe Wilkinson, David Earl
+- 2025-11-19 — S14 Ep 736 One in a Million: Merch Stats & A Canoe Exhibition — speakers: Joe Wilkinson, David Earl
+- 2025-11-18 — S14 Ep 735: The One in a Million Gameshow — speakers: Richard Osman, Joe Wilkinson, David Earl
+- 2025-11-17 — S14 Ep 734 Vault Mondays: Guest - Ricky Gervais — speakers: Ricky Gervais, Joe Wilkinson, David Earl
+- 2025-11-14 — S14 Ep 733 Listener’s Mailbag: Bears, Brothers and Strongbow — speakers: Jools Holland, Joe Wilkinson, David Earl
+- 2025-11-13 — S14 Ep 732: David Driving to his VO Recording — speakers: David Driving, Joe Wilkinson, David Earl
+- 2025-11-12 — S14 Ep 731: The Marvelous Mind of Mark Simmons — speakers: Mark Simmons, Joe Wilkinson, David Earl
+- 2025-11-11 — S14 Ep 730: Colds, Flus and a Traitors Debrief Debriefing — speakers: Park Run, Joe Wilkinson, David Earl
+- 2025-11-10 — S14 Ep 729 Vault Mondays: Joe Lies To His Wife and The Electrician — speakers: Joe Lies, Joe Wilkinson, David Earl
+- 2025-10-29 — S13 Ep 728 One In A Million: Paper Planes & Lightening Strikes — speakers: Joe Wilkinson, David Earl
+- 2025-10-28 — S13 Ep 727: Kit and Peter - Director and Producer of Clarkson’s Farm — speakers: Peter Director, Peter Richardson, Jeremy Clarkson, Joe Wilkinson, David Earl
+- 2025-10-27 — S13 Ep 726 Vault Mondays: Joe Leads David Around The Fawlty Towers Set — speakers: Joe Leads, Joe Wilkinson, David Earl
+- 2025-10-23 — S13 Ep 725: I Don’t Have A Boss - Part 2 — speakers: David’s old, Joe Wilkinson, David Earl
+- 2025-10-22 — S13 Ep 724: I Don’t Have A Boss - Part 1 — speakers: Joe Wilkinson, David Earl
+- 2025-10-21 — S13 Ep 723: More on our 'Magical Sitcom Tour' TV show — speakers: Joe Wilkinson, David Earl
+- 2025-10-20 — S13 Ep 722 Vault Mondays: In The Shade and Sue — speakers: Joe Wilkinson, David Earl
+- 2025-10-17 — S13 Ep 721 Listener’s Mailbag: Quips, Giggling and Lynley — speakers: Listener’s Mailbag, Michaela Strachan’s TV, Joe Wilkinson, David Earl
+- 2025-10-16 — S13 Ep 720: Joe’s Celebrity Traitors Debrief - Episode 3 (includes spoilers) — speakers: Joe Wilkinson, David Earl
+- 2025-10-15 — S13 Ep 719: Mark Bonnar’s Inspector Linley Dissection — speakers: Mark Bonnar, Linley Dissection, David’s Midas, Joe Wilkinson, David Earl
+- 2025-10-14 — S13 Ep 718: Our New TV Show — speakers: James Fidler, Joe Wilkinson, David Earl
+- 2025-10-13 — S13 Ep 717: Joe’s Celebrity Traitors Ep 2 Debrief with Mark Bonnar — speakers: Mark Bonnar, Joe Wilkinson, David Earl
+- 2025-10-13 — S13 Ep 716 Vault Mondays: Guest - Colin Hoult — speakers: Colin Hoult, Anna Mann, Joe Wilkinson, David Earl
+- 2025-10-09 — S13 Ep 715: Joe’s Celebrity Traitors Debrief - Episode 1 — speakers: Joe Wilkinson, David Earl
+- 2025-10-08 — S13 Ep 714: Back On The Farm — speakers: Jeremy Clarkson, Joe Wilkinson, David Earl
+- 2025-10-07 — S13 Ep 713: Joe’s started watching Clarkson’s Farm — speakers: Jeremy Clarkson, Joe Wilkinson, David Earl
+- 2025-10-06 — S13 Ep 712 Vault Mondays: How Rich Is Your Grandad? — speakers: Joe Wilkinson, David Earl
+- 2025-10-02 — S13 Ep 711: An Exit Survey and More One In A Million — speakers: Jamie Demetriou, Joe Wilkinson, David Earl
+- 2025-10-01 — S13 Ep 710: Compliments, Omelettes and Camping — speakers: Park Run, Joe Wilkinson, David Earl
+- 2025-09-30 — S13 Ep 709: Shall I Wild Camp? — speakers: Joe Wilkinson, David Earl
+- 2025-09-29 — S13 Ep 708: The Day David Got Sacked From A Ch4 Sketch Show For Being Crap — speakers: Sketch Show, Neil Webster, Joe Wilkinson, David Earl
+- 2025-09-25 — S13 Ep 707: The Inspector Lynley Mark Bonnar Preamble Pt 2 — speakers: Lynley Mark Bonnar, Mark Bonnar, Joe Wilkinson, David Earl
+- 2025-09-24 — S13 Ep 706: The Inspector Lynley Mark Bonnar Preamble Pt 1 — speakers: Lynley Mark Bonnar, Mark Bonnar, Lynley Mysteries, Joe Wilkinson, David Earl
+- 2025-09-23 — S13 Ep 705: The Old Man on Dartmoor and Celebrating London — speakers: Celebrating London, Joe Wilkinson, David Earl
+- 2025-09-22 — S13 Ep 704 Vault Mondays: Deleted Files and Believe — speakers: Joe Wilkinson, David Earl
+- 2025-09-19 — S13 Ep 703 Listener’s Mailbag: A Cross Cleaner and Bus Driver Quips — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
+- 2025-09-18 — S13 Ep 702: Reading Out Our Spotify Reviews — speakers: Joe Wilkinson, David Earl
+- 2025-09-17 — S13 Ep 701: Filming Nerves and Grand Designs — speakers: Joe Wilkinson, David Earl
+- 2025-09-16 — S13 Ep 700: More House Viewings and Not Being Ladish — speakers: Joe Wilkinson, David Earl
+- 2025-09-15 — S13 Ep 699 Vault Mondays: On Set and On a Train — speakers: Celebrity Big Brother, Joe Wilkinson, David Earl
+- 2025-09-12 — S13 Ep 698 Listeners Mailbag: Dog Walkers and Groom’s Speeches — speakers: Groom’s Speeches, Joe Wilkinson, David Earl
+- 2025-09-11 — S13 Ep 697: TV Joe’s Mastermind Quiz — speakers: Joe’s Mastermind Quiz, Stevie Wonder, Roy Hodgson plus, Chatabix Mastermind, Instagram Alistair, Joe Wilkinson, David Earl
+- 2025-09-10 — WWF CHARITY NIGHT IN SUSSEX — speakers: Sussex Underwater, Joe Wilkinson, David Earl
+- 2025-09-10 — S13 Ep 696: A 3 pack of assorted high-waisted briefs — speakers: Joe Wilkinson, David Earl
+- 2025-09-09 — S13 Ep 695 One In A Million: A Casino Win And A Shop Fire — speakers: Joe Wilkinson, David Earl
+- 2025-09-08 — S13 Ep 694 Vault Monday: Our New TV Reviewer and The New Telly Addicts Game — speakers: Joe Wilkinson, David Earl
+- 2025-09-05 — S13 Ep 693 Listeners Mailbag: Haunted Pubs and a Chatabiscuit Dream — speakers: Listeners Mailbag, Joe Wilkinson, David Earl
+- 2025-09-04 — S13 Ep 692: Knocking On Doors Again — speakers: Joe Wilkinson, David Earl
+- 2025-09-03 — S13 Ep 691: Joe’s Saliva Jet and Justin Hawkins Body — speakers: Joe’s Saliva Jet, Justin Hawkins Body, Justin Hawkins, David’s Pelaton, Joe Wilkinson, David Earl
+- 2025-09-02 — S13 Ep 690: One In A Million — speakers: Joe Wilkinson, David Earl
+- 2025-09-01 — S13 Ep 689 Vault Mondays: Driving Down To London — speakers: Joe Wilkinson, David Earl
+- 2025-08-29 — S13 Ep 688 Listeners Mailbag: A Hotbox and A Tool Quiz — speakers: Cole Zero, Joe Wilkinson, David Earl
+- 2025-08-28 — S13 Ep 687: Bond Girls and Jersey Flights — speakers: Roger Moore, Joe Wilkinson, David Earl
+- 2025-08-27 — S13 Ep 686: Joe’s Two ‘Manic Energy’ Stories — speakers: Joe Wilkinson, David Earl
+- 2025-08-26 — S13 Ep 685: David Gets His Car MOT’d — speakers: David Gets, Joe Wilkinson, David Earl
+- 2025-08-25 — S13 Ep 684 Vault Mondays: Great Bodies and Twitter — speakers: Twitter Vault, Joe Wilkinson, David Earl
+- 2025-08-22 — S13 Ep 683 Listeners Mailbag: Totally Distracted and A Funhouse Audition — speakers: Listeners Mailbag, Mark Bonnar, Greg Rusedski, Joe Wilkinson, David Earl
+- 2025-08-21 — S13 Ep 682: Skateboarder Joe and The Terrorism Police — speakers: Skateboarder Joe, Joe Wilkinson, David Earl
+- 2025-08-20 — S13 Ep 681: David’s Exercises and Joe’s Meatball Recipe — speakers: David’s Exercises, Joe Wilkinson, David Earl
+- 2025-08-19 — S13 Ep 680: Joe’s Kevin McCloud Type Jackets — speakers: Jackets Joe, Kevin McCloud, Joe Wilkinson, David Earl
+- 2025-08-18 — S13 Ep 679 Vault Mondays: Richard Webster - Kick Start Competitor, 1985 — speakers: Start Competitor, Richard Webster, Joe Wilkinson, David Earl
+- 2025-08-15 — S13 Ep 678 Listener’s Mailbag: Stretford Paddock and MMU Massages — speakers: Listener’s Mailbag, Joe’s Mmu, Bradley Walsh, Joe Wilkinson, David Earl
+- 2025-08-14 — S13 Ep 677: Canal Georgie Returns — speakers: Joe Wilkinson, David Earl
+- 2025-08-13 — S13 Ep 676: Grumpy David and Joe at the Pride Parade — speakers: Grumpy David, Joe Wilkinson, David Earl
+- 2025-08-12 — S13 Ep 675: A Mevagissey Morning and Retirement Plans — speakers: Joe Wilkinson, David Earl
+- 2025-08-11 — S13 Ep 674 Vault Mondays: Reading Out Cockfield Comments on Facebook and Pantomime Opportunities — speakers: Joe Wilkinson, David Earl
+- 2025-08-08 — S13 Ep 673 Listeners Mailbag: School Bands and David’s Wire Mill Gig — speakers: David’s Wire Mill, Joe Wilkinson, David Earl
+- 2025-08-07 — S13 Ep 672: Summer Quip Special! — speakers: Joe Wilkinson, David Earl
+- 2025-08-06 — S13 Ep 671: David’s Away and Joe’s in an Egg Chair — speakers: David’s Away, Joe Wilkinson, David Earl
+- 2025-08-05 — S13 Ep 670: David’s Second Incredible Fire Story — speakers: Joe Wilkinson, David Earl
+- 2025-08-04 — S13 Ep 669 Vault Mondays: The Day David Was Crap On The Inspector Linley Mysteries — speakers: Linley Mysteries, Joe Wilkinson, David Earl
+- 2025-08-01 — S13 Ep 668 Listeners Mailbag: Funny Names and Spotting Swingers — speakers: Listeners Mailbag, Joe Wilkinson, David Earl
+- 2025-07-31 — S13 Ep 667: David Calls The Fire Brigade — speakers: David Calls, Joe Wilkinson, David Earl
+- 2025-07-30 — S13 Ep 666: Joe’s Brand New Home Pt 2 — speakers: Joe Wilkinson, David Earl
+- 2025-07-29 — S13 Ep 665: Joe’s Brand New Home Pt 1 — speakers: Joe Wilkinson, David Earl
+- 2025-07-28 — S13 Ep 664 Vault Mondays: Feeling Thick and Bed Bases — speakers: Joe Wilkinson, David Earl
+- 2025-07-25 — S13 Ep 663 Listeners Mailbag: One Night Stands and A Quip Rampage — speakers: Alan Carr, Joe Wilkinson, David Earl
+- 2025-07-24 — S13 Ep 662: Prank Videos & Through The Keyhole — speakers: Joe Wilkinson, David Earl
+- 2025-07-23 — S13 Ep 661: Joe’s Boisterous Scaffolders — speakers: Joe’s Boisterous Scaffolders, Joe Wilkinson, David Earl
+- 2025-07-22 — S13 Ep 660: Property TV and Tour Shows — speakers: David’s old, Joe Wilkinson, David Earl
+- 2025-07-21 — S13 Ep 659 Vault Mondays: Working Out Our Roles On The Podcast — speakers: Joe Wilkinson, David Earl
+- 2025-07-18 — S13 Ep 658 Listener’s Mailbag: Snake Catchers and True Crime Pods — speakers: Joe Wilkinson, David Earl
+- 2025-07-16 — S13 Ep 657: A See-Through Blouse and The Town Game — speakers: Noel Edmonds, Joe Wilkinson, David Earl
+- 2025-07-14 — S13 Ep 656 Vault Mondays: Blackadder Impressions and Going Quiet — speakers: Going Quiet, Rick Mayall, Joe Wilkinson, David Earl
+- 2025-07-11 — S13 Ep 655 Listener’s Mailbag: Animal Songs and Cranleigh Celebs — speakers: Listener’s Mailbag, David’s bum, Judy Dench, Joe Wilkinson, David Earl
+- 2025-07-10 — S13 Ep 654: Being Frosty and Very Busy Pubs — speakers: Joe Wilkinson, David Earl
+- 2025-07-09 — S13 Ep 653: Tummy Trouble and Young Crushes — speakers: Young Crushes, Joe Wilkinson, David Earl
+- 2025-07-08 — S13 Ep 652: Joe At The Beach And The Stick Incident — speakers: Joe Wilkinson, David Earl
+- 2025-07-07 — S13 Ep 651 Vault Mondays: Battle Of The Bands and Mid Life Crisis — speakers: Travis Perkins, Joe Wilkinson, David Earl
+- 2025-07-04 — S13 Ep 650 Listener’s Mailbag: Billy Ocean and Wacaday — speakers: Billy Ocean, Joe Wilkinson, David Earl
+- 2025-07-03 — S13 Ep 649: David’s Cricket Story (Part B) and Joe’s Footie Try-Outs — speakers: David’s Cricket Story, Joe’s Footie Try-Outs, Joe Wilkinson, David Earl
+- 2025-07-02 — S13 Ep 648: Celebrating The Pod and David’s Cricket Story (Part A) — speakers: David’s Cricket Story, Joe Wilkinson, David Earl
+- 2025-07-01 — S13 Ep 647: Crunch Crunches and Opening A Clothes Shop — speakers: Joe Wilkinson, David Earl
+- 2025-06-30 — S13 Ep 646 Vault Mondays: Gravestones and Sniffing — speakers: Joe Wilkinson, David Earl
+- 2025-06-27 — S13 Ep 645 Listener’s Mailbag: Dog Fouling and a Top Tier Quip — speakers: Listener’s Mailbag, Jasper Carrot, Rod Stewart, Henry Coopers, Joe Wilkinson, David Earl
+- 2025-06-26 — S13 Ep 644 - EMERGENCY - Joe's Email Is Read Out On Stick To Football Podcast — speakers: Emergency Joe, Joe Wilkinson, David Earl
+- 2025-06-26 — S13 Ep 643: Reunion Debrief and Shiatsu Massage — speakers: Joe Wilkinson, David Earl
+- 2025-06-25 — S13 Ep 642: TV Joe’s Name That TV Theme Tune — speakers: Joe’s Name, George Clooney, Joe Wilkinson, David Earl
+- 2025-06-24 — S13 Ep 641: Home Alone And The Craft Fair Affair — speakers: Joe Wilkinson, David Earl
+- 2025-06-23 — S13 Ep 640 Vault Mondays: Gas — speakers: Joe Wilkinson, David Earl
+- 2025-06-20 — S13 Ep 639 Listener’s Mailbag: Celeb Meets and Teaching Podding — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
+- 2025-06-19 — S13 Ep 638: Majorca Part B — speakers: Joe Wilkinson, David Earl
+- 2025-06-18 — S13 Ep 637: Rob Beckett Returns — speakers: Rob Beckett Returns, Rob Beckett, Joel Dommett, Joe Wilkinson, David Earl
+- 2025-06-17 — S13 Ep 636: Early Starts and A Squashed Flight To Majorca — speakers: Joe Wilkinson, David Earl
+- 2025-06-16 — S13 Ep 635 Vault Mondays: Widecombe In The Moor — speakers: Joe Wilkinson, David Earl
+- 2025-06-13 — S13 Ep 634 Listener’s Mailbag: Old Bands and A Quick Quip — speakers: Joe Wilkinson, David Earl
+- 2025-06-12 — S13 Ep 633: Joe’s Old Work Photos — speakers: Photos Joe, Joe Wilkinson, David Earl
+- 2025-06-11 — S13 Ep 632: What’s It Like To Have A Hangover? — speakers: Joe Wilkinson, David Earl
+- 2025-06-10 — S13 Ep 631: Sneaky House Viewings — speakers: Viewings David, Joe Wilkinson, David Earl
+- 2025-06-09 — S13 Ep 630 Vault Mondays: Paul Heaton Working In Redhill and Struggling — speakers: Paul Heaton, Joe Wilkinson, David Earl
+- 2025-06-06 — S13 Ep 629 Listeners Mailbag: Armando and A Portable Ashtray — speakers: Armando Iannucci, Laurence Llewelyn-Bowen, Judy Dench, Joe Wilkinson, David Earl
+- 2025-06-05 — S13 Ep 628: Mersea Island vs Wild Camping — speakers: Joe Wilkinson, David Earl
+- 2025-06-04 — S12 Ep 627: All-Inclusive Holidays and Whispering — speakers: All-Inclusive Holidays, Robert De Niro, Joe Wilkinson, David Earl
+- 2025-06-03 — S12 Ep 626: Volunteering and Being A Prat — speakers: Joe Wilkinson, David Earl
+- 2025-06-02 — S12 Ep 625 Vault Mondays: Guest - Goldie — speakers: Joe Wilkinson, David Earl
+- 2025-05-30 — S12 Ep 624 Listener’s Mailbag: Gardeners And Magicians — speakers: chatabix Insta, Joe Wilkinson, David Earl
+- 2025-05-29 — S12 Ep 623: David’s Clapham Wood Challenge — speakers: Joe Wilkinson, David Earl
+- 2025-05-28 — S12 Ep 622: The Rotten Cherry — speakers: Joe Wilkinson, David Earl
+- 2025-05-27 — S12 Ep 621: Thorpe Park Debrief — speakers: Joe Wilkinson, David Earl
+- 2025-05-26 — S12 Ep 620 Vault Mondays: A Day In The Life Of Polperro Joe — speakers: Joe Wilkinson, David Earl
+- 2025-05-23 — S12 Ep 619 Listener’s Mailbag: A Letter From Oz and Pot Smokers — speakers: Ronnie Barker, Joe Wilkinson, David Earl
+- 2025-05-22 — S12 Ep 618: TV Joe’s Straight Road Of Fibs Quiz — speakers: Joe Wilkinson, David Earl
+- 2025-05-21 — S12 Ep 617: David At The Gym and The Gladiators — speakers: Joe Wilkinson, David Earl
+- 2025-05-20 — S12 Ep 616: The Countdown Set and Listing Celebrity Sightings — speakers: Joe Wilkinson, David Earl
+- 2025-05-19 — S12 Ep 615 Vault Mondays: In The Army Now and No Pubes — speakers: Status Quo, Joe Wilkinson, David Earl
+- 2025-05-15 — S12 Ep 614: Saying Hi To Colin Jackson — speakers: Saying Hi, Colin Jackson, Joe Wilkinson, David Earl
+- 2025-05-14 — S12 Ep 613: Charlie Fish — speakers: Joe Wilkinson, David Earl
+- 2025-05-13 — S12 Ep 612: Joe on the Chris Moyles Show — speakers: Joe Wilkinson, David Earl
+- 2025-05-12 — S12 Ep 611 Vault Mondays: Ben Rufus Green and an old copy of Playboy — speakers: Ben Rufus Green, Joe Wilkinson, David Earl
+- 2025-05-08 — S12 Ep 610: Giving Up Five-A-Side and His & Hers Training — speakers: Joe Wilkinson, David Earl
+- 2025-05-07 — S12 Ep 609: Feeling Low and Doing Scouse Accents — speakers: Joe Wilkinson, David Earl
+- 2025-05-06 — S12 Ep 608: Wheel Of Fortune — speakers: Joe Wilkinson, David Earl
+- 2025-05-05 — S12 Ep 607 Vault Mondays: Recording Our Advert For Our Patreon — speakers: Joe Wilkinson, David Earl
+- 2025-05-01 — NATALIE PALAMIDES - ADVERT ADVERT ADVERT — speakers: Joe Wilkinson, David Earl
+- 2025-05-01 — S12 Ep 606: Feeling Great and More MMUs — speakers: Joe Wilkinson, David Earl
+- 2025-04-30 — S12 Ep 605: David’s Birthday and Buying Clothes — speakers: David’s Birthday, Joe Wilkinson, David Earl
+- 2025-04-29 — S12 Ep 604: Joe’s MMU Go-Karting — speakers: Mystery Meet, Coffee Dude, Joe Wilkinson, David Earl
+- 2025-04-28 — S12 Ep 603 Vault Mondays: The Bathroom and Bong Bong The Cow — speakers: Bong Bong, Joe Wilkinson, David Earl
+- 2025-04-25 — S12 Ep 602 Listener’s Mailbag: Chatabiscuit Jingles and Ronnie Barker’s Letter — speakers: Ronnie Barker’s Letter Digging, Ronny Barker, Joe Wilkinson, David Earl
+- 2025-04-24 — S12 Ep 601: A Curry Quiz and Farting Masseuses — speakers: Joe Wilkinson, David Earl
+- 2025-04-23 — S12 Ep 600: David’s Bad B&Q Attitude — speakers: Joe Wilkinson, David Earl
+- 2025-04-22 — S12 Ep 599: Joe’s Tennis Court Opening — speakers: Joe Wilkinson, David Earl
+- 2025-04-21 — S12 Ep 598 Vault Monday’s: The Talent Agency Pilot — speakers: Joe Wilkinson, David Earl
+- 2025-04-18 — S12 Ep 597 Listener’s Mailbag: Happy Happy Girl and Beach Huts — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
+- 2025-04-17 — S12 Ep 596: Joe In Paris and 50s Angst — speakers: Joe Wilkinson, David Earl
+- 2025-04-16 — S12 Ep 595: Graffiti and Stan Laurel’s House — speakers: Stan Laurel, Joe Wilkinson, David Earl
+- 2025-04-15 — S12 Ep 594: Cheddar Gorge and Longleat Safari Park — speakers: Following David, Cheddar Gorge, Longleat Safari Park, Joe Wilkinson, David Earl
+- 2025-04-14 — S12 Ep 593 Vault Monday’s: Canal Thursdays #1 — speakers: Joe Wilkinson, David Earl
+- 2025-04-11 — S12 Ep 592 Listener’s Mailbag: Galaxy Pugs and Joe Singing — speakers: Joe Singing, Joe’s Galaxy Pugs, Joe Wilkinson, David Earl
+- 2025-04-10 — S12 Ep 591: A Visit to Beatrix Potter’s House — speakers: Beatrix Potter, Joe Wilkinson, David Earl
+- 2025-04-09 — S12 Ep 590 Surprise Guest: Keith Brymer Jones - host of The Great Pottery Throw Down — speakers: Keith Brymer, Joe Wilkinson, David Earl
+- 2025-04-08 — S12 Ep 589: The Return of Andy Goldstein — speakers: Joe Wilkinson, David Earl
+- 2025-04-07 — S12 Ep 588 Vault Mondays: The Weatherperson Auditions — speakers: Joe Wilkinson, David Earl
+- 2025-04-04 — S12 Ep 587 Listener’s Mailbag: The Beach Dildo and Breath Coaching — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
+- 2025-04-03 — S12 Ep 586: Volunteering and Mother's Day Balloons — speakers: Park Run, Joe Wilkinson, David Earl
+- 2025-04-02 — S12 Ep 585: Vigilante Joe and A Pottery Visit — speakers: Vigilante Joe, Joe Wilkinson, David Earl
+- 2025-04-01 — S12 Ep 584: Being 50 and Speaking French — speakers: Joe Wilkinson, David Earl
+- 2025-03-31 — S12 Ep 583 Vault Mondays: Incredibly Tired and Rusty Lee — speakers: Rusty Lee, Cilla Black, Joe Wilkinson, David Earl
+- 2025-03-28 — S12 Ep 582 Listener’s Mailbag: Litter Blogs & Haunted Beds — speakers: David’s Zoom, Joe Wilkinson, David Earl
+- 2025-03-27 — S12 Ep 581: Joe’s 50th Birthday - Part 2 — speakers: Joe Wilkinson, David Earl
+- 2025-03-26 — S12 Ep 580: Joe’s 50th Birthday - Part 1 — speakers: Joe Wilkinson, David Earl
+- 2025-03-25 — S12 Ep 579: Barney The Dog and The Pod Date Game — speakers: Joe Wilkinson, David Earl
+- 2025-03-24 — S12 Ep 578 Vault Mondays: Our Female Versions and Boxing — speakers: Joe Wilkinson, David Earl
+- 2025-03-21 — S12 Ep 577 Listener’s Mailbag: Quips Quips Quips — speakers: Judy Dench, Noel Edmonds, Ground Force, Joe Wilkinson, David Earl
+- 2025-03-20 — S12 Ep 576: Ideas Cards and The Americana Sessions — speakers: David’s Americana Sessions, Joe Wilkinson, David Earl
+- 2025-03-19 — S12 Ep 575: The Podmasters Quiz — speakers: Quiz Joe, Comedy Chart, Joe Wilkinson, David Earl
+- 2025-03-18 — S12 Ep 574: Joe’s Baking Course — speakers: Joe Wilkinson, David Earl
+- 2025-03-17 — S12 Ep 573 Vault Mondays: Learning The Game Of Cricket and Personal Trainers — speakers: Joe Wilkinson, David Earl
+- 2025-03-14 — S12 Ep 572: Listener's Mailbag - Top 50 Eps & Pyramind — speakers: Bella Emberg, Joe Wilkinson, David Earl
+- 2025-03-13 — S12 Ep 571: Joe’s MMU Report Card — speakers: Joe Wilkinson, David Earl
+- 2025-03-12 — S12 Ep 570: More Pottery Throw Down — speakers: Joe Wilkinson, David Earl
+- 2025-03-11 — S12 Ep 569: Walking vs Rock Climbing — speakers: Bolt Head, Joe Wilkinson, David Earl
+- 2025-03-10 — S12 Ep 568 Vault Mondays: Performance Nerves and Nana Pud Pud — speakers: Nana Pud Pud, Joe Wilkinson, David Earl
+- 2025-03-07 — S12 Ep 567 Listener’s Mailbag: The Chanctonbury Ring & Celebrity Stories — speakers: Andy Parsons, Joe Wilkinson, David Earl
+- 2025-03-06 — S12 Ep 566: Well Done Me — speakers: Joe Wilkinson, David Earl
+- 2025-03-05 — S12 Ep 565: Surprise Guest Time — speakers: Joe Wilkinson, David Earl
+- 2025-03-04 — S12 Ep 564: Calling The Police and A Pod Story Game — speakers: Joe Wilkinson, David Earl
+- 2025-03-03 — S12 Ep 563 Vault Mondays: Happy Happy Girl - The Complete Works — speakers: Joe Wilkinson, David Earl
+- 2025-02-28 — S12 Ep 562 Listener’s Mailbag - iPhones & Footballers — speakers: Joe Wilkinson, David Earl
+- 2025-02-27 — S12 Ep 561: Joe’s Birthday Lunch Video — speakers: Joe’s Birthday Lunch Video, Paul Gorton Chatabix, Rob Beckett, Joe Wilkinson, David Earl
+- 2025-02-26 — S12 Ep 560: TV Joe’s Weakest Link — speakers: TV Joe, Anne Robinson, Mezz Coleman, Joe Wilkinson, David Earl
+- 2025-02-25 — S12 Ep 559: Roller Coaster Re-bookings — speakers: Joe Wilkinson, David Earl
+- 2025-02-24 — S12 Ep 558 Vault Mondays: Guest - Rob Beckett — speakers: Rob Beckett, Joe Wilkinson, David Earl
+- 2025-02-21 — S12 Ep 557 Listener’s Mailbag: Gardeners & Washing Machines — speakers: Joe Wilkinson, David Earl
+- 2025-02-20 — S12 Ep 556: Being Nude and Why We Pod — speakers: Joe Wilkinson, David Earl
+- 2025-02-19 — S12 Ep 555: Ginger Biscuits, Aquariums and Public Interactions — speakers: Joe Wilkinson, David Earl
+- 2025-02-18 — S12 Ep 554: Keep It Joyful — speakers: Will Andrews, Joe Wilkinson, David Earl
+- 2025-02-17 — S12 Ep 553 Vault Mondays: Joe Does Some Press Ups and Patrons Call In — speakers: Joe Wilkinson, David Earl
+- 2025-02-14 — S12 Ep 552 Listener’s Mailbag: Great Grans and True Crime — speakers: Barry Morris, Joe Wilkinson, David Earl
+- 2025-02-13 — S12 Ep 551: Canal Chat with Georgie — speakers: Joe Wilkinson, David Earl
+- 2025-02-12 — S12 Ep 550: Toe Yoga and Feeling Untethered — speakers: Joe Wilkinson, David Earl
+- 2025-02-11 — S12 Ep 549: Share The Wealth — speakers: Joe Wilkinson, David Earl
+- 2025-02-10 — S12 Ep 548 Vault Mondays: Omar Sharif's House and Water Slides — speakers: Vault Mondays, Omar Sharif, Joe Wilkinson, David Earl
+- 2025-02-07 — S12 Ep 547 Listener’s Mailbag: The British Museum and Muscle Music — speakers: Parenting Hell, Joe Wilkinson, David Earl
+- 2025-02-06 — S12 Ep 546: Ditching The iPhone — speakers: Joe Wilkinson, David Earl
+- 2025-02-05 — S12 Ep 545: David’s Flu and Joe In The Sauna — speakers: David’s Flu, Mystery Meet, Joe Wilkinson, David Earl
+- 2025-02-04 — S12 Ep 544: David’s Prostate Problems — speakers: David’s Prostate Problems, Joe Wilkinson, David Earl
+- 2025-02-03 — S12 Ep 543 Vault Mondays: Actor and Impressionist Terry Mynott — speakers: Terry Mynott, Joe Wilkinson, David Earl
+- 2025-01-31 — S12 Ep 542 Listener’s Mailbag: Funerals and Spas — speakers: Ken Campbell, Joe Wilkinson, David Earl
+- 2025-01-30 — S12 Ep 541: Yoga and Judy Dench — speakers: Judy Dench, David’s Yoga, Joe Wilkinson, David Earl
+- 2025-01-29 — S12 Ep 540: What’s Your Sin and Woodcutter Jackets — speakers: Joe Wilkinson, David Earl
+- 2025-01-28 — S12 Ep 539: David’s Pottery Throw Down - Part 2 — speakers: David’s Pottery, Celebrity Bake Off, Joe Wilkinson, David Earl
+- 2025-01-27 — S12 Ep 538 Vault Mondays: Ambition and Hotmail Roulette — speakers: Hotmail Roulette, Peter Thraft, Joe Wilkinson, David Earl
+- 2025-01-24 — S12 Ep 537: Listener’s Mailbag: Jaws Analysis and Tackling Litterers — speakers: Joe Wilkinson, David Earl
+- 2025-01-23 — S12 Ep 536: David’s Pottery Throw Down - Part 1 — speakers: David’s Pottery, Ellie Taylor, Joe Wilkinson, David Earl
+- 2025-01-22 — S12 Ep 535: Paul Gorton Returns — speakers: Paul Gorton Returns, Paul Gorton, Joe Wilkinson, David Earl
+- 2025-01-21 — S12 Ep 534: Chatabix Towers Comes Tumbling Down — speakers: Chatabix Towers, Joe Wilkinson, David Earl
+- 2025-01-20 — S12 Ep 533 Vault Mondays: Postman Pat and Take That Play Nirvana — speakers: Vault Mondays, Joe Wilkinson, David Earl
+- 2025-01-17 — S12 Ep 532 Listener’s Mailbag: Chatabiscuit Tracks and Cruise Ship Tales — speakers: Joe Wilkinson, David Earl
+- 2025-01-16 — S12 Ep 531: The Singing Coach (with Eyes On Legs) — speakers: Daniel Reid aka, David’s Chatabix, Joe Wilkinson, David Earl
+- 2025-01-15 — S12 Ep 530: David’s Roachford Cover — speakers: David’s Roachford Cover, Joe Wilkinson, David Earl
+- 2025-01-14 — S12 Ep 529: Life Admin and VR Podcasts — speakers: Joe Wilkinson, David Earl
+- 2025-01-13 — S12 Ep 528 Vault Mondays: Guest - Paul Chowdhry — speakers: Paul Chowdhry, Joe Wilkinson, David Earl
+- 2025-01-10 — S12 Ep 527 Listener’s Mailbag: Bakery Tales and SAS Grandads — speakers: Joe Wilkinson, David Earl
+- 2025-01-09 — S12 Ep 526: Even More Old Jobs — speakers: Joe Wilkinson, David Earl
+- 2025-01-08 — S12 Ep 525: More Gyms and Antigua Memories — speakers: Joe Wilkinson, David Earl
+- 2025-01-07 — S12 Ep 524: Joe’s Book of Quips — speakers: Joe Wilkinson, David Earl
+- 2025-01-06 — S12 Ep 523 Vault Mondays: Being Skinny and Lunch With Linda Lusardi — speakers: Linda Lusardi, Andrew Roachford, Chris Tarrant, Joe Wilkinson, David Earl
+- 2024-12-23 — S12 Ep 522: The 2024 Christmas Show — speakers: Joe Wilkinson, David Earl
+- 2024-12-20 — S12 Ep 521: Listener’s Mailbag Christmas Edition — speakers: Christmas Edition, Joe Wilkinson, David Earl
+- 2024-12-19 — S12 Ep 520: TV Joe’s Festive Christmas Quiz — speakers: Joe Wilkinson, David Earl
+- 2024-12-18 — S12 Ep 519: Our Christmas Special with Natalie Cassidy — speakers: Natalie Cassidy, ho ho, Joe Wilkinson, David Earl
+- 2024-12-17 — S12 Ep 518: Listing Comedians Names from the Chortle Website K to N — speakers: Joe Wilkinson, David Earl
+- 2024-12-16 — S12 Ep 517 Vault Mondays: We're Number 1 In The Podcast Charts!!! — speakers: Joe Wilkinson, David Earl
+- 2024-12-13 — S12 Ep 516 Listener’s Mailbag 2: Rich in Chichester & The Humble Bee — speakers: Port Isaac, Joe Wilkinson, David Earl
+- 2024-12-12 — S12 Ep 515: Using Gyms and 80’s Bodybuilding — speakers: Bill Kazmaier training, Joe Wilkinson, David Earl
+- 2024-12-11 — S12 Ep 514: Baking Bread With Joe — speakers: Joe Wilkinson, David Earl
+- 2024-12-10 — S12 Ep 513: Cokey-Z and Snipers Ally — speakers: Joe Wilkinson, David Earl
+- 2024-12-09 — S12 Ep 512 Vault Mondays: Chockablock and Stalkers — speakers: Vault Mondays, Joe Wilkinson, David Earl
+- 2024-12-06 — S12 Ep 511 Listener’s Mailbag 1: Canal Boats & Music Shop Rows — speakers: Joe Wilkinson, David Earl
+- 2024-12-05 — S12 Ep 510: The Return of the Surprise Guest Episodes — speakers: Joe Wilkinson, David Earl
+- 2024-12-04 — S12 Ep 509: Mystery Meet Ups and The Cafe Boys — speakers: Joe Wilkinson, David Earl
+- 2024-12-03 — S12 Ep 508: Our First Episode Back! — speakers: Wembley Arena, Joe Wilkinson, David Earl
+- 2024-12-02 — S12 Ep 507 Vault Mondays: The Wizard Of Woof — speakers: Joe Wilkinson, David Earl
+- 2024-11-25 — S11 Ep 506 Vault Mondays: The 100th Episode — speakers: Joe Wilkinson, David Earl
+- 2024-11-18 — S11 Ep 505 Vault Mondays: Joe's Music Library and Becoming A Model — speakers: Ben Rufus Green, Joe Wilkinson, David Earl
+- 2024-11-11 — S11 Ep 504 Vault Mondays: Learning Sea Shanties with Vyvyan Our Weatherman — speakers: Joe Wilkinson, David Earl
+- 2024-11-04 — S11 Ep 503 Vault Mondays: Impressions Competition and A Surprise Guest — speakers: Joe Wilkinson, David Earl
+- 2024-10-28 — S11 Ep 502 Vault Mondays: The Final Episode — speakers: Joe Wilkinson, David Earl
+- 2024-10-24 — S11 Ep 501 Bonus Vault Episode: Guest - Richard Osman — speakers: Richard Osman, Joe Wilkinson, David Earl
+- 2024-10-23 — S11 Ep 500 Series Finale: Listener’s Mailbag 9 — speakers: Noel Edmonds old, Joe Wilkinson, David Earl
+- 2024-10-22 — S11 Ep 499: Patreon Swinger Stories — speakers: Joe Wilkinson, David Earl
+- 2024-10-21 — S11 Ep 498 Vault Mondays: David Pranks Joe — speakers: David Pranks Joe, Joe Wilkinson, David Earl
+- 2024-10-18 — S11 Ep 497 Friday Treat: Listener’s Mailbag 8 — speakers: Joe Wilkinson, David Earl
+- 2024-10-17 — S11 Ep 496: Life Hacks and 5 Year Plans — speakers: Joe Wilkinson, David Earl
+- 2024-10-16 — S11 Ep 495: Searching For Swingers — speakers: Joe Wilkinson, David Earl
+- 2024-10-15 — S11 Ep 494: Joe Goes to London — speakers: Joe Goes, Zooms David, Joe Wilkinson, David Earl
+- 2024-10-14 — S11 Ep 493 Vault Mondays: Joe Takes An IQ Test — speakers: Joe Wilkinson, David Earl
+- 2024-10-11 — S11 Ep 492 Friday Treat: Listener’s Mailbag 7 — speakers: Joe Wilkinson, David Earl
+- 2024-10-10 — S11 Ep 491: The Secret Housework Quiz — speakers: Rob Beckett, Joe Wilkinson, David Earl
+- 2024-10-09 — S11 Ep 490: Old Christmas Promos and Quipping Less — speakers: Joe Wilkinson, David Earl
+- 2024-10-08 — S11 Ep 489: David Home Alone and Doing Housework — speakers: David Home Alone, Will Naomi, Joe Wilkinson, David Earl
+- 2024-10-07 — S11 Ep 488 Vault Mondays: Wearing Makeup and Teenage Songs — speakers: Wearing Makeup, Joe Wilkinson, David Earl
+- 2024-10-04 — S11 Ep 487 Friday Treat: Listener’s Mailbag 6 — speakers: Joe Wilkinson, David Earl
+- 2024-10-03 — S11 Ep 486: David's Regrettable Dance Floor Adventures — speakers: Joe Wilkinson, David Earl
+- 2024-10-02 — S11 Ep 485: We Talk To Andrew Who Has Had A Heart Attack — speakers: Andrew White, Thankfully Andrew, Joe Wilkinson, David Earl
+- 2024-10-01 — S11 Ep 484: Being Alone and Driving Altercations — speakers: Joe Wilkinson, David Earl
+- 2024-09-30 — S11 Ep 483 Vault Mondays: Mark Roberts - The Greatest Streaker In The World — speakers: Greatest Streaker, Mark Roberts, Joe Wilkinson, David Earl
+- 2024-09-27 — S11 Ep 482 Friday Treat: Listener’s Mailbag 5 — speakers: Joe Wilkinson how, Joe Wilkinson, David Earl
+- 2024-09-26 — S11 Ep 481 Regular Guest: TV Joe and a ‘Name That Age’ Quiz — speakers: Richard Osmond, Joe Wilkinson, David Earl
+- 2024-09-25 — S11 Ep 480: The Drugs Episode — speakers: Joe Wilkinson, David Earl
+- 2024-09-24 — S11 Ep 479: The Isle of White, the RNLI and a Relocation Gameshow — speakers: David Walliams, Joe Wilkinson, David Earl
+- 2024-09-20 — S11 Ep 478: Friday Treat: Listener’s Mailbag 4 — speakers: Massive Attack, Joe Wilkinson, David Earl
+- 2024-09-19 — S11 Ep 477: Back to St Ives, More Art & A Chat With A Patreon — speakers: St Ives, Joe Wilkinson, David Earl
+- 2024-09-18 — S11 Ep 476: New Pens and Pod Art - Part 2 — speakers: Bob Dylan, Joe Wilkinson, David Earl
+- 2024-09-17 — S11 Ep 475: New Pens and Pod Art - Part 1 — speakers: Linda Lusardi, Joe Wilkinson, David Earl
+- 2024-09-13 — S11 Ep 474 Friday Treat: Listener’s Mailbag 3 — speakers: Joe’s Pyramid, van hassles, John Challis, Joe Wilkinson, David Earl
+- 2024-09-12 — S11 Ep 473 Regular Guest: Natalie Cassidy with an Eastenders Quiz — speakers: Natalie Cassidy, Ricky Gervais, Joe Wilkinson, David Earl
+- 2024-09-11 — S11 Ep 472: Tales from the St Ives Museum — speakers: Cornish Pasty, Joe Wilkinson, David Earl
+- 2024-09-10 — S11 Ep 471: David’s Cancelled Walk — speakers: Joe Wilkinson, David Earl
+- 2024-09-06 — S11 Ep 470 Friday Treat: Listener’s Mailbag 2 — speakers: Paul Foot, Ibizan Chatabiscuits, Joe Wilkinson, David Earl
+- 2024-09-05 — S11 Ep 469 Regular Guest: Andy Goldstein (The Nine-Ball Pool King!) — speakers: Andy Goldstein, Joe Wilkinson, David Earl
+- 2024-09-04 — S11 Ep 468: David’s At The Dentist Again - Part 2 — speakers: Joe Wilkinson, David Earl
+- 2024-09-03 — S11 Ep 467: David’s At The Dentist Again - Part 1 — speakers: Joe Wilkinson, David Earl
+- 2024-08-30 — S11 Ep 466 Friday Treat: Listener’s Mailbag 1 — speakers: Joe Wilkinson, David Earl
+- 2024-08-29 — S11 Ep 465: Joe’s Embarrassing BBQ Games — speakers: Games Joe, Joe Wilkinson, David Earl
+- 2024-08-28 — S11 Ep 464: David’s Beautiful Bath Tour Part 2 — speakers: David’s Beautiful Bath Tour, Joe Wilkinson, David Earl
+- 2024-08-27 — S11 Ep 463: David’s Beautiful Bath Tour Part 1 — speakers: David’s Beautiful Bath Tour, Joe Wilkinson, David Earl
+- 2024-08-22 — S11 Ep 462: David’s Bought A Cold Tub — speakers: Joe Wilkinson, David Earl
+- 2024-08-21 — S11 Ep 461 Special Guest: Tim Oliver - The David Brent Impersonator — speakers: David Brent, Tim Oliver, Ricky Gervais, Joe Wilkinson, David Earl
+- 2024-08-20 — S11 Ep 460: Thinking About Getting A Dog — speakers: Joe Wilkinson, David Earl
+- 2024-08-16 — S11 Ep 459 Friday Treat: Pub Jokes 6 — speakers: Joe Wilkinson, David Earl
+- 2024-08-15 — S11 Ep 458 Regular Guest: TV Joe’s Name That Theme — speakers: Joe’s Name, Joe Wilkinson, David Earl
+- 2024-08-14 — S11 Ep 457: David Goes To The Dentist — speakers: David Goes, Joe Wilkinson, David Earl
+- 2024-08-13 — S11 Ep 456 Drivel 19: Eleven Podcast Discussion Points — speakers: Joe Wilkinson, David Earl
+- 2024-08-09 — S11 Ep 455 Friday Treat: Coin-Toss Snooker Final — speakers: Oakley Perky, Joe Wilkinson, David Earl
+- 2024-08-08 — S11 Ep 454: Usual Drivel: A Female Joe and Getting Older — speakers: Female Joe, Getting Older, Joe’s th, Joe Wilkinson, David Earl
+- 2024-08-07 — S11 Ep 453: The Constable of Camping - Joe Goes Camping Pt 2 — speakers: Joe Wilkinson, David Earl
+- 2024-08-06 — S11 Ep 452 Usual Drivel: Joe Goes Camping Pt 1 — speakers: Joe Wilkinson, David Earl
+- 2024-08-02 — S11 Ep 451 Friday Treat: The Podcast Charts Quiz — speakers: Joe Wilkinson, David Earl
+- 2024-08-01 — S11 Ep 450 Usual Drivel: Room Service vs Fruit & Mozzarella — speakers: Joe Wilkinson, David Earl
+- 2024-07-31 — S11 Ep 449 Usual Drivel: Pembrokeshire and House Extensions — speakers: Joe Wilkinson, David Earl
+- 2024-07-30 — S11 Ep 448 Usual Drivel: David’s New Bathroom Chaos — speakers: Joe Wilkinson, David Earl
+- 2024-07-25 — S11 Ep 447 Regular Guest: TV Joe's Family Fortunes — speakers: Joe Wilkinson, David Earl
+- 2024-07-24 — S11 Ep 446 Usual Drivel: The Wedding Speech Debrief — speakers: Gary Neville, Joe Wilkinson, David Earl
+- 2024-07-23 — S11 Ep 445 Usual Drivel: The Day Before David’s Best Man Speech — speakers: Joe Wilkinson, David Earl
+- 2024-07-21 — S10 Ep 444 Friday Treat: Pub Jokes 5 — speakers: Joe Wilkinson, David Earl
+- 2024-07-18 — S10 Ep 443 Ad Hoc Drivel: David Goes To Watch The National — speakers: David Goes, Joe Wilkinson, David Earl
+- 2024-07-17 — S10 Ep 442 Ad Hoc Drivel: Joe at the Ibiza Proms — speakers: Joe Wilkinson, David Earl
+- 2024-07-16 — S10 Ep 441 Back Catalogue Guest: Parkrun founder Paul Sinton-Hewitt — speakers: Paul Sinton, Paul Sinton-Hewit, Joe Wilkinson, David Earl
+- 2024-07-12 — S10 Ep 440 Friday Treat: Coin Toss Snooker - The Semi-Finals — speakers: Oakley Perky, Joe Wilkinson, David Earl
+- 2024-07-11 — S10 Ep 439 (BONUS!): Joe's Review Of The Euro Semi Final — speakers: Joe Wilkinson, David Earl
+- 2024-07-11 — S10 Ep 438: David’s Trip To London — speakers: David’s Trip, Joe Wilkinson, David Earl
+- 2024-07-10 — S10 Ep437 (BONUS!): Where's Joe Now - Bonus episode! — speakers: Joe Now, Joe Wilkinson, David Earl
+- 2024-07-10 — S10 Ep 436 Ad Hoc Drivel: One Belter Of An Episode! — speakers: Natalie Imbruglia, Daley Thompson, James Blunt, Joe Wilkinson, David Earl
+- 2024-07-09 — S10 Ep 435 Back Catalogue Guest: Lee Mack Part 2 — speakers: Lee Mack, Joe Wilkinson, David Earl
+- 2024-07-05 — S10 Ep 434 Friday Treat: Pub Jokes 4 — speakers: Joe Wilkinson, David Earl
+- 2024-07-04 — S10 Ep 433 Regular Guest: John Fendley aka Fenners — speakers: John Fendley, Soccer Aid, Joe Wilkinson, David Earl
+- 2024-07-03 — S10 Ep 432 Ad Hoc Drivel: Insta Live Podding & Rollercoaster Club — speakers: Joe Wilkinson, David Earl
+- 2024-07-02 — S10 Ep 431 Back Catalogue Guest: Lee Mack Part 1 — speakers: Lee Mack, Joe Wilkinson, David Earl
+- 2024-06-28 — S10 Ep 430 Friday Treat: Coin-Toss Snooker Tournament Round 2 — speakers: Joe Wilkinson, David Earl
+- 2024-06-27 — S10 Ep 429 Special Guest: Kiell Smith-Bynoe — speakers: Kiell Smith-Bynoe, Kool Story Bro, Joe Wilkinson, David Earl
+- 2024-06-26 — S10 Ep 428 Ad Hoc Drivel: David’s 120 Mile Walk — speakers: Joe Wilkinson, David Earl
+- 2024-06-25 — S10 Ep 427 Back Catalogue Guest: Sue Johnston — speakers: Sue Johnston, Joe Wilkinson, David Earl
+- 2024-06-21 — S10 Ep 426 Friday Treat: Pub Jokes Galore! — speakers: Joe Wilkinson, David Earl
+- 2024-06-20 — S10 Ep 425 Regular Guest: TV Joe’s Name That Tune — speakers: Joe’s Name, Joe Wilkinson, David Earl
+- 2024-06-19 — S10 Ep 424 Ad Hoc Drivel: Joe’s Rollercoaster Ticket — speakers: Joe’s Rollercoaster Ticket Joe, Joe Wilkinson, David Earl
+- 2024-06-18 — S10 Ep 423 Back Catalogue Guest: Roachford — speakers: Stevie Wonder, Gary Barlow, Joe Wilkinson, David Earl
+- 2024-06-14 — S10 Ep 422 Friday Treat: Pub Cryptic Crossword — speakers: Joe Wilkinson, David Earl
+- 2024-06-13 — S10 Ep 421 Regular Guest: Natalie Cassidy is back! — speakers: Natalie Cassidy, Joe Wilkinson, David Earl
+- 2024-06-12 — S10 Ep 420 Ad Hoc Drivel: Moving to Bath? — speakers: Joe Wilkinson, David Earl
+- 2024-06-11 — S10 Ep 419 Back Catalogue Guest: Lol Tolhurst — speakers: Lol Tolhurst, Joe Wilkinson, David Earl
+- 2024-06-07 — S10 Ep 418 Friday Treat: More Old Pub Jokes — speakers: Joe Wilkinson, David Earl
+- 2024-06-06 — S10 Ep 417 Ad Hoc Drivel: Joe’s Hair and David’s Canal Holiday — speakers: Joe’s Hair, Joe Wilkinson, David Earl
+- 2024-06-05 — S10 Ep 416 Ad Hoc Drivel: Joe’s Canal Walk — speakers: Tiff Stevenson, Jimmy McGhie, Joe Wilkinson, David Earl
+- 2024-06-04 — S10 Ep 415 Back Catalogue Guest: Stuart Goldsmith — speakers: Stuart Goldsmith, Joe Wilkinson, David Earl
+- 2024-05-30 — S10 Ep 414: Joe and Paul at the BAFTAs — speakers: Paul Gorton, Stephen Merchant, Joe Wilkinson, David Earl
+- 2024-05-29 — S10 Ep 413 Ad Hoc Drivel: Telling Jokes — speakers: Joe Wilkinson, David Earl
+- 2024-05-28 — S10 Ep 412 Back Catalogue Guest: Tim Vine — speakers: Tim Vine, Joe Wilkinson, David Earl
+- 2024-05-23 — S10 Ep 411 Ad Hoc Drivel: Not Showing Off — speakers: Jamie Demetriou, Joe Wilkinson, David Earl
+- 2024-05-22 — S10 Ep 410 Ad Hoc Drivel: Chatabix +30 and Rob Beckett Live! — speakers: Rob Beckett, Joe Wilkinson, David Earl
+- 2024-05-21 — S10 Ep 409 Back Catalogue Guest: Paul Foot — speakers: Paul Foot, Joe Wilkinson, David Earl
+- 2024-05-16 — S10 Ep 408 Ad Hoc Drivel: Coin Toss Snooker Tournament — speakers: Joe Wilkinson, David Earl
+- 2024-05-15 — S10 Ep 407 Ad Hoc Drivel: A Flat Tyre and A Leaving Present — speakers: Joe Wilkinson, David Earl
+- 2024-05-14 — S10 Ep 406 Back Catalogue Guest: James O’Brien — speakers: James O’Brien, Joe Wilkinson, David Earl
+- 2024-05-08 — S10 Ep 405 Specialist Guest - Detectorist Nigel Richardson — speakers: Nigel Richardson David, Nigel Richardson, Buy Nigel, Joe Wilkinson, David Earl
+- 2024-05-07 — S10 Ep 404 Specialist Guest - Police Officer James — speakers: James Joe, Luckily James, Joe Wilkinson, David Earl
+- 2024-05-01 — S10 Ep 403 Where's David Now ? Cosy spaces and a cuppa — speakers: David Now, Joe Wilkinson, David Earl
+- 2024-04-30 — S10 Ep 402 Pranksters Josh Pieters & Archie Manners — speakers: Katie Hopkins, Joe Wilkinson, David Earl
+- 2024-04-25 — S10 Ep 401 Where's Joe Now ? Living His Best Life — speakers: Joe Now, Joe Wilkinson, David Earl
+- 2024-04-24 — S10 Ep 400 Gabby Logan - Celebrity Guest — speakers: Joe Wilkinson, David Earl
+- 2024-04-23 — S10 Ep 399 Usual Drivel: The Gardening Tour Continues — speakers: Joe Wilkinson, David Earl
+- 2024-04-18 — S10 Ep 398 Where's Joe Now ? Having The Time Of His Life. — speakers: Joe Now, Joe Wilkinson, David Earl
+- 2024-04-17 — S10 Ep 397 Ted Robbins - Celeb Guest — speakers: Ted Robbins Celeb Guest, Ted Robbins, Paul McCartney, John Lennon, Joe Wilkinson, David Earl
+- 2024-04-16 — S10 Ep 396 Usual Drivel: A Tour of David's Old Gardening Round — speakers: Joe Wilkinson, David Earl
+- 2024-04-11 — S10 Ep 395 Joe's out running again trying to beat his 1k record. — speakers: Steve Ovett, Adventure Pods, Joe Wilkinson, David Earl
+- 2024-04-10 — S10 Ep 394 It's David's turn for a Surprise Guest ! Who can it be ? — speakers: Joe Wilkinson, David Earl
+- 2024-04-09 — S10 Ep 393 Usual Drivel: David's gets an unexpected box of detectorist goodies — speakers: Carry Bag, Joe Wilkinson, David Earl
+- 2024-04-04 — S10 Ep 392 This Is Your Podlife with TV JOE - David's 50th Birthday Surprise — speakers: Joe David, Neil Webster, Ben Rufus-Green, Vyvyan Almond, Ed Gamble, Steve Coogan, Terry Mynett, Steve Davis
+- 2024-04-03 — S10 Ep 391 Roisin Conaty - Celeb Guest — speakers: Roisin Conaty, Joe Wilkinson, David Earl
+- 2024-04-02 — S10 Ep 390 Usual Drivel: Showing Off On The Peloton — speakers: Nicky Clarke, Dry Robe, Joe Wilkinson, David Earl
+- 2024-03-28 — S10 Ep 389 Fenners Fashion Advice For Middle Aged Men — speakers: Joe Wilkinson, David Earl
+- 2024-03-27 — S10 Ep 388 It's Joe's Turn For A Surprise Guest - Who Can It Be ? — speakers: Joe Wilkinson, David Earl
+- 2024-03-26 — S10 Ep 387 Usual Drivel: Getting Some Vinyl In The Post — speakers: Mezz Coleman, Joe Wilkinson, David Earl
+- 2024-03-21 — S10 Ep 386 David's Out Hunting For Gold - Metal Detecting part 3 — speakers: Allen Key, Joe Wilkinson, David Earl
+- 2024-03-20 — S10 Ep 385 Lolly Adefope - Celebrity Guest — speakers: Lolly Adefope, Tom Cruise, Paul Gorton, Joe Wilkinson, David Earl
+- 2024-03-19 — S10 Ep 384 David's 50th Surprise Pressie - Metal Detecting part 2 — speakers: Joe Wilkinson, David Earl
+- 2024-03-14 — S10 Ep 383 Scared of the Farmer - Metal Detecting with David part 1 — speakers: Joe Wilkinson, David Earl
+- 2024-03-13 — S10 Ep 382 Alex Lowe - Celeb Guest — speakers: Guest David, Alex Lowe, Peter Kaye, Steve Wright, Iain Lee, Clinton Baptiste, Joe Wilkinson, David Earl
+- 2024-03-12 — S10 Ep 381 Usual Drivel: Rudderless Old Men With New Hobbies — speakers: Nat Cassidy, Joe Wilkinson, David Earl
+- 2024-03-07 — S10 Ep 380 Where's Joe Now ? It's Cold, Wet and Wavy. — speakers: Joe Wilkinson, David Earl
+- 2024-03-06 — S10 Ep 379 Tommie Trelawny & The Worlds Hardest Puzzle - Specialist Guest — speakers: Tommie Trelawny, Nicky Anderson, Joe Wilkinson, David Earl
+- 2024-03-05 — S10 Ep 378 Usual Drivel: The Old Lady Who Flirted With David — speakers: Sticky Beard, Joe Wilkinson, David Earl
+- 2024-03-03 — S10 Ep 377 RISING STAR Ep 2 - with Paul Gorton — speakers: Paul Gorton, King Paul, Joe Wilkinson, David Earl
+- 2024-02-29 — S10 Ep 376 Where's David Now ? Folklore of the Moor — speakers: David Now, Josh Widdicombe, Joe Wilkinson, David Earl
+- 2024-02-28 — S10 Ep 375 The Magic Mod: Specialist Guest — speakers: Ben Taylor, Paul Weller, Pete Doherty, Jonestown Massacare, Alan McGee, com TaylorMod, Joe Wilkinson, David Earl
+- 2024-02-27 — S10 Ep 374: Usual Drivel - Worrying about our interviewing technique — speakers: Josh Widdicombe, Rob Beckett, Joe Wilkinson, David Earl
+- 2024-02-22 — S10 Ep 373 Andy Goldstein impressions & magic tricks - Regular Guest — speakers: Helen Mirren, Joe Wilkinson, David Earl
+- 2024-02-21 — S10 Ep 372 Sally Lindsay - Celeb Guest — speakers: Guest David, Sally Lindsay, Bobby Ball, Joe Wilkinson, David Earl
+- 2024-02-20 — S10 Ep 371 Usual Drivel: Not really talking about David's Peloton — speakers: Joe Wilkinson, David Earl
+- 2024-02-15 — S10 Ep 370 Juicing and multiple kitchens with Natalie Cassidy - Regular Guest — speakers: Guest David, Natalie Cassidy, Joe Wilkinson, David Earl
+- 2024-02-14 — S10 Ep 369: Our lovely wives - Valentines Special — speakers: Joe Wilkinson, David Earl
+- 2024-02-13 — S10 Ep 368 Usual Drivel: Joe admits he wants to go dancing — speakers: Joe Wilkinson, David Earl
+- 2024-02-09 — S10 Ep 367 Soccer AM's John Fendley 'Fenners' part 2 - Celeb Guest — speakers: John Fendley Fenners, Jimmy Bullard, Bootsale Bobby, Joe Wilkinson, David Earl
+- 2024-02-08 — S10 Ep 366 David goes bunker hunting with WW2 historian Andrew Chatterton — speakers: Andrew Chatterton, WW Historian, Joe Wilkinson, David Earl
+- 2024-02-07 — S10 Ep 365: Soccer AM legend John "Fenners" - Celeb Guest — speakers: Guest Joe, John Fendley, Glenn Hoddle, David Beckham, Joe Wilkinson, David Earl
+- 2024-02-06 — S10 Ep 364 Usual Drivel: Pay back for Antigua beach spotting — speakers: Joe Wilkinson, David Earl
+- 2024-02-02 — S10 Ep 363 RISING STAR: Pilot episode with Paul Gorton — speakers: Paul Gorton, Mark Wright, Alison Hammond, Joe David, Joe Wilkinson, David Earl
+- 2024-02-01 — S10 Ep 362 TV JOE'S got a quiz - Regular Guest — speakers: Joe Wilkinson, David Earl
+- 2024-01-31 — S10 Ep 361 Usual Drivel: TV Joe's on the pod but David's at the spa — speakers: Natalie Cassidy, David take Naomi, Joe Wilkinson, David Earl
+- 2024-01-30 — S10 Ep 360 Regular guest Paul Gorton is back in the bosom — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-25 — S10 Ep 359 Where's Joe Now: Backstage at Off Menu Live — speakers: James Acaster, Ed Gamble, Joe Wilkinson, David Earl
+- 2024-01-24 — S10 Ep 358 Specialist Guests: New York Comedy Writer Big Wigs — speakers: Kevin Bleyer, Doug Abeles, Joe Wilkinson, David Earl
+- 2024-01-23 — S10 Ep 357 Usual Drivel: David spotted in Antigua — speakers: Joe Wilkinson, David Earl
+- 2024-01-19 — S10 Ep 356 Emergency Pod: Review Ep 8 'The Traitors' — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-18 — S10 Ep 355 Emergency Pod: Dissecting Ep 7 ' The Traitors' — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-18 — S10 Ep 354 Battle Of The Chatabands Final — speakers: Steve Baker, Simon Price, Simon Cowell, Lisa Osborne, Mezz Coleman, Joe Wilkinson, David Earl
+- 2024-01-17 — S10 Ep 353 Jon Pointing - Celeb Guest — speakers: Jon Pointing, Joe Wilkinson, David Earl
+- 2024-01-16 — S10 Ep 352 Usual Drivel: David Is Spotted In The Coop — speakers: Joe Wilkinson, David Earl
+- 2024-01-15 — S10 Ep 351 Emergency Pod: Discussing Ep 6 'The Traitors' — speakers: Claudia Winkleman, Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-12 — S10 Ep 350 Emergency Pod: Debriefing Ep 5 with Maddy 'The Traitors' — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-11 — S10 Ep 349 Emergency Pod: Delving in to Traitors Ep 4 — speakers: Paul Gorton, Tall Paul, Joe Wilkinson, David Earl
+- 2024-01-11 — S10 Ep 348 Usual Drivel: Joe Goes Running — speakers: Joe Goes Running, Joe Wilkinson, David Earl
+- 2024-01-10 — S10 Ep 347 Specialist Guest: Floor Manager Tony Guyan — speakers: Tony Guyan, John Cleese, Bernard Cribbins, Joe Wilkinson, David Earl
+- 2024-01-09 — S10 Ep 346 Usual Drivel: David Goes Running — speakers: David Goes Running David, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton — speakers: Paul Gorton, Richard Madeley, Nick Knowles, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton — speakers: Paul Gorton, Noel Edmunds, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton — speakers: Paul Gorton, Noel Edmunds, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Noel Edmunds, Joe Wilkinson, David Earl
+- 2024-01-08 — S10 Ep 341. Emergency Pod: Deep Dive Ep 3 The Traitors — speakers: Deep Dive, Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-05 — S10 Ep 340 Emergency Pod: Dissecting Ep 2 The Traitors — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-04 — S10 Ep 339 Emergency Pod: Debrief Traitors Ep 1 — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-04 — S10 Ep 338 Usual Drivel: David Denies Trashing A Hotel — speakers: Talk Sport, Andy Goldstein, Joe Wilkinson, David Earl
+- 2024-01-03 — S10 Ep 337 Dynamite In A Can (Special Ep) — speakers: Joe Wilkinson, David Earl
+- 2024-01-03 — S10 Ep 336 Usual Drivel: Joe Is Embarrassed Of Doing Stand up, David Is Embarrassed Of Twitch — speakers: Joe Wilkinson, David Earl
+- 2024-01-02 — S10 Ep 335 Usual Drivel: David Gets His Body Out On Holiday — speakers: Joe Wilkinson, David Earl
+- 2023-12-21 — S9 Ep 334 Christmas Special — speakers: Christmas Special, Andy Goldstein, Natalie Cassidy, Paul Gorton, Steve Baker, Ho ho ho, Joe Wilkinson, David Earl
+- 2023-12-20 — S9 Ep 333 Specialist Guest: Submariner George Aitken — speakers: George Aitken Specialist, George Aitken, Joe Wilkinson, David Earl
+- 2023-12-19 — S9 Ep 332 Usual Drivel: Listing Comedians again (G to J) — speakers: Jamie Demetriou, Joe Wilkinson, David Earl
+- 2023-12-14 — S9 Ep 331 Battle of The Chatabands - Round 3 — speakers: Joe Wilkinson, David Earl
+- 2023-12-13 — S9 Ep 330 Jamie Demetriou - Celeb Guest — speakers: Guest Comedy, Jamie Demitriou, Craig Cash, Joe Wilkinson, David Earl
+- 2023-12-12 — S9 Ep 329 Usual Drivel - Chatadates — speakers: Joe Wilkinson, David Earl
+- 2023-12-07 — S9 Ep 328 Where's Joe Now - Underground bunkers at Coleshill House — speakers: Joe Now Underground, WW Historian Andrew Chatterton, Joe Wilkinson, David Earl
+- 2023-12-06 — S9 Ep 327 Barry Hearn - Specialist Guest — speakers: Barry Hearn Specialist, Barry Hearn, Matchroom Sport, Mike Tyson, Frank Bruno, Steve Davis, Chris Eubank, Read Barry
+- 2023-12-05 — S9 Ep326 Usual Drivel - Not one but two Chrissy songs — speakers: Joe Wilkinson, David Earl
+- 2023-11-30 — S9 Ep 325: Battle Of The Chatabands - Round 2 — speakers: Steve Baker, Joe Wilkinson, David Earl
+- 2023-11-29 — S9 Ep 324: Anna Williamson & Luisa Zissman (LuAnna) - Guests — speakers: Luisa Zissman, Anna Williams, David Joe, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-11-28 — S9 Ep 323: Utter Drivel - Choccies, going on Off Menu Live & the Postman — speakers: Joe Now, Ethan Lawrence, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-11-23 — S9 Ep 322: Andy Goldstein - Regular Guest — speakers: Andy Goldstein Regular Guest, Robbie Williams, Bruce Forsyth, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-11-22 — S9 Ep 321: Simon Price 'Curepedia' - Guest — speakers: Simon Price, Ricky Gervais, Robert Smith, Find Simon, Joe Wilkinson, David Earl
+- 2023-11-21 — S9 Ep 320: Utter Drivel - Feeling grateful & Joe's surprise delivery — speakers: grateful Joe, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-11-16 — Battle of the Chatabands - round 1 — speakers: Steve Baker, Luckily Steve Baker, Lewis Capaldi, Joe Wilkinson, David Earl
+- 2023-11-15 — Natasia Demetriou - Guest — speakers: Natasia Demetriou Guest Comedy, Natasia Demitriou, David Joe, Joe Wilkinson, David Earl
+- 2023-11-14 — Usual Drivel - Weetabix & Black Adder impersonations — speakers: Robbie Williams, Rik Mayall, Joe Wilkinson, David Earl
+- 2023-11-09 — Joe Goes Surfing: A damp squib — speakers: Joe Goes Surfing, Joe Wilkinson, David Earl
+- 2023-11-08 — Iain Stirling: Celeb Chataguest — speakers: Joe Wilkinson, David Earl
+- 2023-11-07 — Usual Drivel: Joe's book & one Bean. — speakers: Henry Paker, Russell Howard, Joe Wilkinson, David Earl
+- 2023-11-02 — Joe Goes Surfing - about to ride the first wave (part 3) — speakers: Joe Goes Surfing, Mark demo, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-11-01 — Surprise Guest - Who can it be ? — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-31 — Joe Goes Surfing - Meeting Rusty at Lifeguard Tower 37 (part 2) — speakers: Meeting Rusty, Joe Wilkinson, David Earl
+- 2023-10-26 — Joe Goes Surfing - the run up to the lesson (part 1) — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-25 — Lee Mack surprise guest (part 2) — speakers: Lee Mack, David’s Pyramind, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-24 — Usual Drivel - Wifi issues, brain speed & Spotify HQ — speakers: Ben Foster, James Acaster, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-19 — Where's David Now? David goes for a Walk — speakers: David Now, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-18 — Surprise Guest: Who is it this time? — speakers: Joe Wilkinson, David Earl
+- 2023-10-17 — Usual Drivel: Scams, Telly & Hiking — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-12 — Natalie Cassidy: Regular Guest — speakers: Natalie Cassidy, Joe Wilkinson, David Earl
+- 2023-10-11 — Russell Tovey: Celeb Chataguest — speakers: Russell Tovey, Mawaan Rizwan, Joe Wilkinson, David Earl
+- 2023-10-10 — Usual Drivel: Cornwall Step by Step — speakers: Joe Wilkinson, David Earl
+- 2023-10-05 — TV Joe's back: Regular Guest — speakers: David’s TV, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-04 — Specialist Guest: 'The Perfection Trap' Thomas Curran — speakers: Thomas Curran, Joe Wilkinson, David Earl
+- 2023-10-03 — Usual Drivel: Camper Vanning — speakers: van lifestyle, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-28 — Gigging Diaries: Rosie live from a Gig — speakers: Rosie Francis, Joe David, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-27 — Specialist Guest: William Orbit Music Producer — speakers: William Orbit Music, William Orbit, Joe Wilkinson, David Earl
+- 2023-09-26 — Usual Drivel : Headphones, builders, not talking about camping — speakers: Natalie Cassidy, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-21 — Where's Joe Now - Choo Choo ! — speakers: Joe Now Choo Choo, Joe Now, Elton John, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-20 — Josh Widdicombe - Celeb Chataguest — speakers: Damon Albarn, Steve Davis, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-19 — Usual Drivel - Jarlath's Silky Voice — speakers: Drivel Jarlath, Jarlath Regan, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-14 — Andy Goldstein - Regular Guest — speakers: Andy Goldstein Regular Guest, Andy Goldstein, Jane Torvill, Lee Sharpe, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-13 — Surprise Guest - Who can it be this time ? — speakers: Joe Wilkinson, David Earl
+- 2023-09-12 — Usual Drivel - Farting in Yurts, Riddles & Rhymes. — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-07 — Where's David Now -The Haunted Castle — speakers: David Now, Joe Wilkinson, David Earl
+- 2023-09-06 — Jayne Torvill - Celeb Chataguest — speakers: David Joe, Jayne Torvill, Christopher Dean, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-05 — Usual Drivel - Haunted House pre-amble — speakers: Joe Wilkinson, David Earl
+- 2023-08-31 — Paul Gorton's Lung Winded Story — speakers: Paul Gorton, Lung Winded Story Ex, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-08-30 — Specialist Guest: WW2 Historian Andrew Chatterton — speakers: WW Historian Andrew Chatterton, Historian Andrew Chatterton, David Joe, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-08-29 — S8 EP 284: The Right Move Pilot — speakers: Phil Spencer, Joe Wilkinson, David Earl
+- 2023-08-24 — It's TV Joe time - Regular Guest — speakers: David Joe, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-08-23 — Olympic Cyclist Sir Chris Hoy - Specialist Guest — speakers: Chris Hoy Specialist, Chris Hoy, Joe Wilkinson, David Earl
+- 2023-08-22 — Usual Drivel - David's Clown Film — speakers: Drivel David, George Kane, David Earl, Apocalypse Clown, Joe Wilkinson
+- 2023-08-17 — Where's Joe Now - Allotment Special — speakers: Special Joe, Joe Wilkinson, David Earl
+- 2023-08-16 — Martin Freeman - Celeb Chataguest — speakers: Martin Freeman Celeb Chataguest, Joe Wilkinson, David Earl
+- 2023-08-15 — The Jingle, The Painting & The Chartz. — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-08-10 — Natabix with Natalie Cassidy - Regular Guest — speakers: Natalie Cassidy Regular Guest, Natalie Cassidy, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-08-09 — Boxer Chris Billam-Smith - Specialist Guest — speakers: Chris Billam-Smith Specialist Guest, Chris Billam-Smith, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-08-08 — Raving parents, Jennifer Rush, the chartz and doing a bit. — speakers: Jennifer Rush, Joe Wilkinson, David Earl
+- 2023-08-04 — David's cricket adventure - part 2 — speakers: Joe Wilkinson, David Earl
+- 2023-08-03 — CANAL THURSDAY #16 The ramblings of Robin Cooper — speakers: Robin Cooper, Robert Popper, Joe Wilkinson, David Earl
+- 2023-08-02 — Iain Lee - Celeb Chataguest — speakers: Iain Lee, Joe Wilkinson, David Earl
+- 2023-08-01 — Professor of Criminology David Wilson - Specialist Guest — speakers: David Wilson Specialist, David Wilson, Graham Norton, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-31 — Nearly forgetting the announcement — speakers: Brian Gittins, Paul McCaffery, Joe Wilkinson, David Earl
+- 2023-07-28 — David's cricket adventure - part 1 — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-27 — Access All Areas: Blur Concert at Wembley — speakers: Blur Concert, Steve Davis, Joe Wilkinson, David Earl
+- 2023-07-26 — Cricketer David Gower — speakers: David Gower, Joe Wilkinson, David Earl
+- 2023-07-25 — Royal Navy Jac Hughes - Specialist Guest — speakers: Jac Hughes Specialist, Joe Wilkinson, David Earl
+- 2023-07-24 — The Deal or No Deal memorabilia arrives — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-21 — Andy Goldstein is Good to Go — speakers: Andy Goldstein, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-20 — CANAL THURSDAY #15 Canalside Workout — speakers: Nigel Havers, Julia Davis, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-19 — Tommy Cannon - Celeb Chataguest — speakers: Tommy Cannon Celeb Chataguest, Tommy Cannon, Bobby Ball, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-18 — Prison Officer Danny Knight - Specialist Guest — speakers: Danny Knight Specialist, Danny Knight, Jaxx Radio, Joe Wilkinson, David Earl
+- 2023-07-17 — Placing our bid. Deal or No Deal Auction - final part — speakers: Joe Wilkinson, David Earl
+- 2023-07-14 — Waiting for William Orbit — speakers: William Orbit, Paul McCaffrey, Sean Walsh, Joe Wilkinson, David Earl
+- 2023-07-13 — The day of the Sheffield Park Run — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-12 — Connor Swindells - Celeb Chataguest — speakers: Connor Swindells Celeb Chataguest, Connor Swindells, Will Ferrell, Joe Wilkinson, David Earl
+- 2023-07-11 — Emmanuel Asuquo - Finance Wiz: Specialist Guest — speakers: Emmanuel Asuquo, Find Emmanuel, Joe Wilkinson, David Earl
+- 2023-07-10 — Amusing ourselves: Deal or No Deal memorabilia auction - part 3 — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-07 — Paul Gorton is back: the Deal Or No Deal chapters — speakers: Paul Gorton, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-06 — Where's Joe Now - Football Special — speakers: Joe Now Football Special, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-05 — Thomas Turgoose - Celeb Chataguest — speakers: Thomas Turgoose Celeb Chataguest, Thomas Turgoose, Shane Meadows, Ira Jackson Jnr, Joe Wilkinson, David Earl
+- 2023-07-04 — Musician Keaton Henson - Specialist Guest — speakers: Keaton Henson Specialist, Keaton Henson, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-07-03 — Bidding for Deal or No Deal memorabilia - part 2 — speakers: Marc Wootton, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-30 — Everyone loves a bit of TV Joe. — speakers: Arnold Schwarzenegger, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-29 — CANAL THURSDAY #14 Damsel in distress — speakers: Anna Mann played, iamcolinhoult com, Joe Wilkinson, David Earl
+- 2023-06-28 — Katherine Ryan - Celeb Chataguest — speakers: David Joe, Katherine Ryan, Below Deck, Joe Wilkinson, David Earl
+- 2023-06-27 — Sailor Tracy Edwards MBE - Specialist Guest — speakers: Tracy Edwards Mbe, Joe Wilkinson, David Earl
+- 2023-06-26 — Bidding for Deal or No Deal Memorabilia — speakers: Joe Wilkinson, David Earl
+- 2023-06-23 — Middle aged grafters — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-22 — Crucible Adventures part 4 - in the belly — speakers: Steve Davis, Jimmy White, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-21 — Crucible Adventures part 3 - today's the day — speakers: Joe Wilkinson, David Earl
+- 2023-06-20 — Crucible Adventures part 2 - don't take crisps in — speakers: Andy Goldstein, Uncle Andy, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-19 — Crucible Adventures part 1 - giddy with excitement — speakers: Andy Goldstein, Joe Wilkinson, David Earl
+- 2023-06-16 — Not recording an intro for the new series. — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-15 — Canal Thursday #13 The Maiden Voyage — speakers: Roger Babbage Quantock, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-14 — Canal Thursday #12 Mr Taylor's massive cwumble — speakers: Joe Wilkinson, David Earl
+- 2023-06-13 — Canal Thursday #11 Old timer Eddie Phillips — speakers: Eddie Phillips, Mateus Rose, Patrick Duffy, Alex Lowe, Joe Wilkinson, David Earl
+- 2023-06-12 — Canal Thursday #10 Brother Paul visits the boat — speakers: Joe Wilkinson, David Earl
+- 2023-06-09 — Canal Thursday #9 Davide Darood's boat cleaning services — speakers: Lemony Zing, Greg McHugh, Gary Tank, Joe Wilkinson, David Earl
+- 2023-06-08 — Canal Thursday #8 Edward meets with an accident — speakers: Ian Dale, John Kearns, Joe Wilkinson, David Earl
+- 2023-06-07 — Canal Thursday #7 Doing a deal with Mr Taylor — speakers: Taylor David Joe, Noddy Holder, Joe Wilkinson, David Earl
+- 2023-06-06 — Canal Thursday #6 Buying red setters from Mr Cooper — speakers: Peter Lake, Robert Popper Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-05 — Canal Thursday #5 Boat ownership responsibilities — speakers: Joe Wilkinson, David Earl
+- 2023-06-02 — Canal Thursday #4 Mrs Falconio's boat — speakers: Mrs Falconio, Anna Crilly, Joe Wilkinson, David Earl
+- 2023-06-01 — Canal Thursday #3 Meeting Mr Taylor — speakers: Taylor David, Avocado Attack, Joe Wilkinson, David Earl
+- 2023-05-31 — Canal Thursday #2 Visiting Rothley to view the boat — speakers: Joe Wilkinson, David Earl
+- 2023-05-30 — Canal Thursday #1 Buying a boat — speakers: Joe Wilkinson, David Earl
+- 2023-04-14 — End Of Series Finale with TV Joe — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-04-13 — The Murder Capital — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-04-12 — Andy Goldstein - Snooker Loopy — speakers: Loopy David, Andy Goldstein, Chris Eubanks, Jimmy White, Joe Wilkinson, David Earl
+- 2023-04-11 — Specialist Guest: Mark Pusey RNLI Volunteer — speakers: Volunteer David, Elton John, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-04-10 — Our game show idea Pyramind — speakers: Joe Wilkinson, David Earl
+- 2023-04-07 — Dissecting the Roachford interview — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-04-06 — Where's David Now ? — speakers: David Now, Joe Wilkinson, David Earl
+- 2023-04-05 — Nats Bollox - Natalie Cassidy is back ! — speakers: Nats Bollox Natalie Cassidy, Natalie Cassidy, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-04-04 — Specialist Guest: Keith McCloskey author of Mystery The Lighthouse — speakers: Keith McCloskey, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-04-03 — Preparing for the Roachford dissection — speakers: Joe Wilkinson, David Earl
+- 2023-03-31 — More from TV Joe — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-30 — Joe's Playlist #5 — speakers: Steve Baker, Joe Wilkinson, David Earl
+- 2023-03-29 — Chatabix 2 Year Anniversary — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-28 — Guest: Neil Forsyth - writer 'The Gold' — speakers: Neil Forsyth, Brinks Mat, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-27 — Paul Gorton Wingwalking Decision Day — speakers: Paul Gorton, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-24 — Joe and David have something to ask Paul Gorton — speakers: Paul Gorton, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-23 — Where's Joe Now - Northern Ireland Special — speakers: Special Where, Joe Now, Dunluce Castle, Joe Wilkinson, David Earl
+- 2023-03-22 — Special Guest: Susie Dent — speakers: Susie Dent David, Susie Dent, Joe Wilkinson, David Earl
+- 2023-03-21 — Specialist Guest: Kirsten Pobjoy Wingwalker — speakers: Kirsten Pobjoy, Paul Gorton, Joe Wilkinson, David Earl
+- 2023-03-20 — David's birthday — speakers: Joe Wilkinson, David Earl
+- 2023-03-17 — Joes moves his office around — speakers: Joe Wilkinson, David Earl
+- 2023-03-16 — Joe's Playlist #4 — speakers: Steve Baker, Joe Wilkinson, David Earl
+- 2023-03-15 — Surprise Guest: Who Can It Be ? — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-14 — Guest: TV Producer John Lloyd — speakers: John Lloyd TV, John LLoyd, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-13 — David's eating plan and Armando Iannucci — speakers: Armando Iannucci, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-10 — Paul Gorton: Deal or No Deal (not the Finale) — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2023-03-09 — David has an announcement — speakers: Joe Wilkinson, David Earl
+- 2023-03-08 — Guest: Armando Iannucci — speakers: Armando Iannucci Joe, Armando Iannucci, Joe Wilkinson, David Earl
+- 2023-03-07 — Running motivation with Tom Wheatley — speakers: Tom Wheatley, Park Run, Joe Wilkinson, David Earl
+- 2023-03-06 — Dissecting the Lol Tolhurst Interview — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-03 — Running and Spiders — speakers: David lets Patreons, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-02 — Joe's Playlist #3 — speakers: Steve Baker, Steve Monite, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-01 — Surprise Guest: both Joe and David have no idea — speakers: Hornby Trains, Joe Wilkinson, David Earl
+- 2023-02-28 — Specialist Guest: TV Producer Wiiiiill from TFI Friday — speakers: Producer Wiiiiill, Will MacDonald, Chris Evans, Joe Wilkinson, David Earl
+- 2023-02-27 — Surprise Guest: Roachford — speakers: Andrew Roachford, Joe Wilkinson, David Earl
+- 2023-02-24 — TV Joe Reviews — speakers: Joe Reviews, Joe Wilkinson, David Earl
+- 2023-02-23 — Surprise Guest: Lol Tolhurst (Part 2) — speakers: Lol Tolhurst, Joe Wilkinson, David Earl
+- 2023-02-22 — Surprise Guest: Lol Tolhurst (Part 1) — speakers: Lol Tolhurst, David fangurls Joe, Joe Wilkinson, David Earl
+- 2023-02-21 — Specialist Guest: Andy Goldstein Snooker (kind of) — speakers: Andy Goldstein Snooker, Andy Goldstein, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-20 — Badminton names and David shows Joe his guitar — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-17 — BONUS EP: we listen to ourselves on CO OP radio — speakers: Co Ops, Co Op, Joe Wilkinson, David Earl
+- 2023-02-17 — Recording links for Coop Radio — speakers: Coop Radio Somehow Joe, Coop Radio, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-16 — Where's Joe Now ? #4 — speakers: Joe Now, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-15 — Guest: Natalie Cassidy — speakers: Natalie Cassidy, Joe Wilkinson, David Earl
+- 2023-02-14 — Guest: Chris Atkins author 'A Bit Of A Stretch' — speakers: Chris Atkins, Joe Wilkinson, David Earl
+- 2023-02-13 — Recording a Promo for the Pod — speakers: Joe Wilkinson, David Earl
+- 2023-02-10 — Rosie's Gigging Diaries — speakers: Rosie Francis, Joe Wilkinson, David Earl
+- 2023-02-09 — Joe's Playlist #2 — speakers: Steve Baker, Sleaford Mods Songs, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-08 — Surprise Guest: For David — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-07 — Guest: Simon Newton - Former Bodyguard — speakers: Simon Newton, Top Shop, Michael Jackson, Joe Wilkinson, David Earl
+- 2023-02-06 — Bafta nom and Top Bins — speakers: Top Bins Joe, Joe Wilkinson, David Earl
+- 2023-02-03 — Deal or No Deal Contestant: Paul Gorton — speakers: Paul Gorton, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-02 — Where's Joe Now ? #3 — speakers: Joe Now, Joe Wilkinson, David Earl
+- 2023-02-01 — Guest: Maddy from The Traitors — speakers: David Joe, Joe Wilkinson, David Earl
+- 2023-01-31 — Back With A Bang — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2021-03-26 — Chatabix Trailer — speakers: Joe Wilkinson, David Earl

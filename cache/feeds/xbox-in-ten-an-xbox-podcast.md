@@ -2,11 +2,11 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"c52c33ba254b938d96acce6af16ff5e8"`
-- last_modified: `Mon, 16 Feb 2026 05:20:33 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-21T00:11:50+00:00`
+- checked_at: `2026-02-21T00:11:50+00:00`
+- etag: `"0de4a02164c1668f3b7cb6c8faa5e105"`
+- last_modified: `Fri, 20 Feb 2026 22:27:15 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,13 +18,45 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "owners": [
+    "Brandon Rosa"
+  ],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b587a5785d21e2e18cd1427aabd9125e6cd886bf",
+      "title": "Phil Spencer Retiring, Sarah Bond Out & Matt Booty Promoted - (Xbox In Ten: An Xbox Podcast - Ep. 352)",
+      "published_at": "2026-02-20T22:23:00+00:00",
+      "link": "https://xboxinten.libsyn.com/phil-spencer-retiring-sarah-bond-out-matt-booty-promoted-xbox-in-ten-an-xbox-podcast-ep-352",
+      "description": "Week of: 2-16-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/e/6/7/f/e67f1a7e6edd877116c3140a3186d450/352.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/Ep_352.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27907120",
+      "itunes_duration": "20:30",
+      "speakers": [
+        "Phil Spencer Retiring",
+        "Sarah Bond Out",
+        "Matt Booty Promoted",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "phil",
+        "spencer",
+        "retiring",
+        "sarah",
+        "bond",
+        "matt",
+        "booty",
+        "promoted",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "f9a0499a57c4736ac987f486069917a4baf067bf",
       "title": "All The Xbox Reveals From February 2026's State Of Play - (Xbox In Ten: An Xbox Podcast - Ep. 351)",
@@ -38,7 +70,8 @@
       "itunes_duration": "11:34",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -62,7 +95,8 @@
       "speakers": [
         "Xbox Release Windows Teased",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -89,7 +123,8 @@
         "Xbox Hardware Revenue Dropping",
         "Two Years Straight",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -115,7 +150,8 @@
       "speakers": [
         "Xbox Developer Direct",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -137,7 +173,8 @@
       "enclosure_length": "14174176",
       "itunes_duration": "09:59",
       "speakers": [
-        "Forza Horizon"
+        "Forza Horizon",
+        "Brandon Rosa"
       ],
       "topics": [
         "forza",
@@ -164,7 +201,8 @@
         "Returns January",
         "Fallout Remasters Coming",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "return",
@@ -189,7 +227,8 @@
       "speakers": [
         "Gen Xbox Consoles Could",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -212,7 +251,8 @@
       "speakers": [
         "New Xbox Games",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -235,7 +275,8 @@
         "Every Xbox Owned Video",
         "Game Studio",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "status",
@@ -260,7 +301,8 @@
       "itunes_duration": "11:59",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "game",
@@ -282,7 +324,8 @@
       "enclosure_length": "15065248",
       "itunes_duration": "10:44",
       "speakers": [
-        "Fallout Creator Rejoins Obsidian"
+        "Fallout Creator Rejoins Obsidian",
+        "Brandon Rosa"
       ],
       "topics": [
         "fallout",
@@ -306,7 +349,8 @@
       "enclosure_length": "12657856",
       "itunes_duration": "08:47",
       "speakers": [
-        "Ram Shortages"
+        "Ram Shortages",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -332,7 +376,8 @@
         "Full Screen Experience",
         "Partner Preview Recap",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -358,7 +403,8 @@
       "enclosure_length": "14738176",
       "itunes_duration": "10:15",
       "speakers": [
-        "Xbox Next Generation"
+        "Xbox Next Generation",
+        "Brandon Rosa"
       ],
       "topics": [
         "valve",
@@ -382,7 +428,8 @@
       "speakers": [
         "Until November",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "november",
@@ -405,7 +452,8 @@
         "Huge Xbox Report Details",
         "Gen Console",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "huge",
@@ -431,7 +479,8 @@
         "Campaign Evolved",
         "Remake Coming",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -454,7 +503,8 @@
       "enclosure_length": "15979456",
       "itunes_duration": "11:06",
       "speakers": [
-        "Battlefield Sold Million Copies"
+        "Battlefield Sold Million Copies",
+        "Brandon Rosa"
       ],
       "topics": [
         "battlefield",
@@ -478,7 +528,8 @@
       "speakers": [
         "Next Gen Console Leaks",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -502,7 +553,8 @@
       "speakers": [
         "Game Pass Changes",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "game",
@@ -527,7 +579,8 @@
       "itunes_duration": "12:40",
       "speakers": [
         "Forza Horizon",
-        "Xbox Reveals"
+        "Xbox Reveals",
+        "Brandon Rosa"
       ],
       "topics": [
         "forza",
@@ -557,7 +610,8 @@
         "Raising Prices",
         "Xbox Consoles",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -582,7 +636,8 @@
         "Xbox Games",
         "Nintendo Direct",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -609,7 +664,8 @@
         "Save Xbox",
         "Perfect Dark Reboot",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "save",
@@ -633,7 +689,8 @@
       "itunes_duration": "10:56",
       "speakers": [
         "Cloud Gaming",
-        "Xbox Game Pass"
+        "Xbox Game Pass",
+        "Brandon Rosa"
       ],
       "topics": [
         "ways",
@@ -659,7 +716,8 @@
       "itunes_duration": "13:11",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -681,7 +739,8 @@
       "enclosure_length": "14750272",
       "itunes_duration": "10:15",
       "speakers": [
-        "Xbox Release"
+        "Xbox Release",
+        "Brandon Rosa"
       ],
       "topics": [
         "helldiver",
@@ -708,7 +767,8 @@
         "Xbox Cancels Contraband",
         "Years After",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -733,7 +793,8 @@
       "speakers": [
         "Top Publisher",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -757,7 +818,8 @@
       "speakers": [
         "Xbox Game",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "outer",
@@ -782,7 +844,8 @@
       "speakers": [
         "Black Ops",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "duty",
@@ -806,7 +869,8 @@
       "speakers": [
         "No Multiplayer",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -828,7 +892,8 @@
       "enclosure_length": "20711296",
       "itunes_duration": "14:23",
       "speakers": [
-        "Xbox Layoffs"
+        "Xbox Layoffs",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -856,7 +921,8 @@
       "speakers": [
         "Launcher Update Aggregates Steam",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -883,7 +949,8 @@
       "speakers": [
         "Next Gen Consoles",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -907,7 +974,8 @@
         "Xbox Game Pass Price",
         "Increase Incoming",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -930,7 +998,8 @@
       "enclosure_length": "54775360",
       "itunes_duration": "38:03",
       "speakers": [
-        "Xbox Showcase"
+        "Xbox Showcase",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -956,7 +1025,8 @@
       "enclosure_length": "17195968",
       "itunes_duration": "11:57",
       "speakers": [
-        "Xbox Handheld"
+        "Xbox Handheld",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -983,7 +1053,8 @@
         "Retro Games",
         "Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1008,7 +1079,8 @@
       "speakers": [
         "Marathon Uses",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "bungie",
@@ -1033,7 +1105,8 @@
       "speakers": [
         "Reloaded Releasing Everywhere August",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gear",
@@ -1056,7 +1129,8 @@
       "speakers": [
         "Xbox Raises Prices",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "delayed",
@@ -1079,7 +1153,8 @@
       "speakers": [
         "Oblivion Remastered Finally Releases",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "elder",
@@ -1105,7 +1180,8 @@
       "speakers": [
         "Oblivion Remastered Releasing",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "oblivion",
@@ -1132,7 +1208,8 @@
         "Release Date",
         "Game Showcase",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "marathon",
@@ -1160,7 +1237,8 @@
       "speakers": [
         "Xbox Tease Gaming Handheld",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "asus",
@@ -1182,7 +1260,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16581952",
       "itunes_duration": "11:31",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "tencent",
         "investment",
@@ -1206,7 +1286,8 @@
         "Xbox Evidence",
         "Microsoft Removed",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "steam",
@@ -1229,7 +1310,8 @@
       "enclosure_length": "16532416",
       "itunes_duration": "11:29",
       "speakers": [
-        "Xbox Handheld"
+        "Xbox Handheld",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -1253,7 +1335,8 @@
       "speakers": [
         "War Game Entries",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gear",
@@ -1278,7 +1361,8 @@
         "Fable Delayed",
         "Xbox Showcase February",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "fable",
@@ -1304,7 +1388,8 @@
         "Xbox Introduces Muse",
         "Gunnar Dume Glasses Review",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1331,7 +1416,8 @@
       "itunes_duration": "15:17",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1355,7 +1441,8 @@
       "speakers": [
         "Still Launching",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox"
@@ -1373,7 +1460,8 @@
       "enclosure_length": "19555840",
       "itunes_duration": "13:35",
       "speakers": [
-        "Forza Horizon"
+        "Forza Horizon",
+        "Brandon Rosa"
       ],
       "topics": [
         "forza",
@@ -1392,7 +1480,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21101824",
       "itunes_duration": "14:40",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "xbox",
         "recap"
@@ -1413,7 +1503,8 @@
         "Developer Direct Surprise",
         "Legendary Japanese",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1437,7 +1528,8 @@
       "itunes_duration": "14:52",
       "speakers": [
         "Developer Direct Returns",
-        "Million Per Game"
+        "Million Per Game",
+        "Brandon Rosa"
       ],
       "topics": [
         "developer",
@@ -1461,7 +1553,8 @@
       "speakers": [
         "Xbox Game",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "kojima",
@@ -1484,7 +1577,8 @@
       "speakers": [
         "Xbox Game",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "kojima",
@@ -1507,7 +1601,8 @@
       "speakers": [
         "Classic Halo Content Leaks",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "year",
@@ -1530,7 +1625,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "12304576",
       "itunes_duration": "08:33",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "xbox",
         "developer",
@@ -1555,7 +1652,8 @@
       "speakers": [
         "Xbox Recap",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "game",
@@ -1579,7 +1677,8 @@
       "speakers": [
         "Xbox Year",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1598,7 +1697,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13779136",
       "itunes_duration": "09:35",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "xbox",
         "avatar",
@@ -1617,7 +1718,8 @@
       "enclosure_length": "16200640",
       "itunes_duration": "11:15",
       "speakers": [
-        "Xbox Cloud Gaming Call"
+        "Xbox Cloud Gaming Call",
+        "Brandon Rosa"
       ],
       "topics": [
         "games",
@@ -1644,7 +1746,8 @@
       "speakers": [
         "New Marketing Campaign",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1665,7 +1768,8 @@
       "enclosure_length": "14246272",
       "itunes_duration": "09:54",
       "speakers": [
-        "Death Stranding"
+        "Death Stranding",
+        "Brandon Rosa"
       ],
       "topics": [
         "death",
@@ -1694,7 +1798,8 @@
         "Duty Launch Ever",
         "Sets Game Pass Records",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "duty",
@@ -1719,7 +1824,8 @@
       "enclosure_length": "14688640",
       "itunes_duration": "10:12",
       "speakers": [
-        "Joseph Staten Returning"
+        "Joseph Staten Returning",
+        "Brandon Rosa"
       ],
       "topics": [
         "joseph",
@@ -1742,7 +1848,8 @@
       "speakers": [
         "Xbox Partner Preview October",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1768,7 +1875,8 @@
         "Unreal Engine",
         "Under Rebranded Halo Studios",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -1794,7 +1902,8 @@
         "Seeking Feedback",
         "Studios Not Launching",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -1818,7 +1927,8 @@
         "All Xbox News",
         "Tokyo Game Show",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1846,7 +1956,8 @@
         "Broadcast Details",
         "Final Fantasy Showing Up",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1873,7 +1984,8 @@
         "Black Ops",
         "Skipping Campaign Early Access",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "duty",
@@ -1896,7 +2008,8 @@
       "itunes_duration": "10:31",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -1920,7 +2033,8 @@
         "Everything Announced",
         "Black Ops",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "duty",
@@ -1943,7 +2057,8 @@
       "speakers": [
         "Xbox Reveals",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gamescom",
@@ -1965,7 +2080,8 @@
       "enclosure_length": "17945920",
       "itunes_duration": "12:28",
       "speakers": [
-        "Tango Gameworks Resurrected"
+        "Tango Gameworks Resurrected",
+        "Brandon Rosa"
       ],
       "topics": [
         "rush",
@@ -1990,7 +2106,8 @@
       "speakers": [
         "Avowed Delayed",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "february",
@@ -2009,7 +2126,8 @@
       "enclosure_length": "19034560",
       "itunes_duration": "13:14",
       "speakers": [
-        "Xbox Hardware Revenue"
+        "Xbox Hardware Revenue",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2032,7 +2150,8 @@
       "enclosure_length": "14934592",
       "itunes_duration": "10:23",
       "speakers": [
-        "Sag-Aftra Strike"
+        "Sag-Aftra Strike",
+        "Brandon Rosa"
       ],
       "topics": [
         "aftra",
@@ -2051,7 +2170,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16583680",
       "itunes_duration": "11:31",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "college",
         "football",
@@ -2077,7 +2198,8 @@
         "Xbox Game Pass Changes",
         "Price Hikes",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2103,7 +2225,8 @@
         "Dead Rising Deluxe Remaster",
         "Release September",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "dead",
@@ -2126,7 +2249,8 @@
       "enclosure_length": "18894592",
       "itunes_duration": "13:08",
       "speakers": [
-        "Xbox Cloud Gaming Coming"
+        "Xbox Cloud Gaming Coming",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2151,7 +2275,8 @@
         "More Exclusives",
         "Other Platforms",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2173,7 +2298,8 @@
       "itunes_duration": "09:25",
       "speakers": [
         "Xbox Handheld Teased",
-        "Phil Spencer"
+        "Phil Spencer",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2198,7 +2324,8 @@
         "Duty Direct",
         "Summer Games Fest Recaps",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2227,7 +2354,8 @@
         "Black Ops",
         "Xbox Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -2253,7 +2381,8 @@
         "Duty Black Ops",
         "Dark New Chapter",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "duty",
@@ -2278,7 +2407,8 @@
       "speakers": [
         "Xbox Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "duty",
@@ -2300,7 +2430,8 @@
       "itunes_duration": "18:19",
       "speakers": [
         "Arkane Austin",
-        "Tango Gameworks"
+        "Tango Gameworks",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -2327,7 +2458,8 @@
       "speakers": [
         "Xbox Games Showcase Followed",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2349,7 +2481,8 @@
       "enclosure_length": "16166656",
       "itunes_duration": "11:14",
       "speakers": [
-        "Activision Blizzard"
+        "Activision Blizzard",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2374,7 +2507,8 @@
         "Fallout Games See Massive",
         "Player Boost After Show",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "fallout",
@@ -2399,7 +2533,8 @@
       "speakers": [
         "Gen Update Finally Out",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "fallout",
@@ -2421,7 +2556,8 @@
       "itunes_duration": "10:59",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "senua",
@@ -2446,7 +2582,8 @@
         "Epic Games Store",
         "Xbox Consoles",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "steam",
@@ -2472,7 +2609,8 @@
         "New Xbox Dev Kit",
         "South Korea",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2494,7 +2632,8 @@
       "speakers": [
         "Subscription Service",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "minecraft",
@@ -2517,7 +2656,8 @@
       "speakers": [
         "Xbox Partner Preview March",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2541,7 +2681,8 @@
       "speakers": [
         "Cheaper All",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "cheaper",
@@ -2565,7 +2706,8 @@
         "Thieves Coming",
         "Play Station",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "pentiment",
@@ -2591,7 +2733,8 @@
       "speakers": [
         "Xbox Business Update Summary",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2616,7 +2759,8 @@
         "Microsoft Will Share Details",
         "Xbox Games Going",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -2640,7 +2784,8 @@
       "itunes_duration": "11:57",
       "speakers": [
         "Games Played",
-        "Overall Games"
+        "Overall Games",
+        "Brandon Rosa"
       ],
       "topics": [
         "brandon",
@@ -2667,7 +2812,8 @@
         "Million Copies",
         "Details Roadmap",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "palword",
@@ -2692,7 +2838,8 @@
       "itunes_duration": "21:38",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2713,7 +2860,8 @@
       "itunes_duration": "13:55",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2734,7 +2882,8 @@
       "speakers": [
         "Xbox Developer Direct",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2758,7 +2907,8 @@
         "New Games Coming",
         "All Game Pass Releases",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "update",
@@ -2781,7 +2931,8 @@
       "enclosure_length": "16404304",
       "itunes_duration": "11:32",
       "speakers": [
-        "Activision Blizzard"
+        "Activision Blizzard",
+        "Brandon Rosa"
       ],
       "topics": [
         "bobby",
@@ -2808,7 +2959,8 @@
         "Xbox Game Pass",
         "Watching Ads",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2832,7 +2984,8 @@
       "speakers": [
         "Xbox Announcements",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "game",
@@ -2853,7 +3006,8 @@
       "enclosure_length": "29510080",
       "itunes_duration": "20:25",
       "speakers": [
-        "Will Break"
+        "Will Break",
+        "Brandon Rosa"
       ],
       "topics": [
         "reveal",
@@ -2876,7 +3030,8 @@
       "speakers": [
         "European Sales Tank",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2900,7 +3055,8 @@
       "speakers": [
         "Modern Warfare",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "modern",
@@ -2925,7 +3081,8 @@
         "Modern Warfare",
         "Reportedly Developed",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "modern",
@@ -2946,7 +3103,8 @@
       "enclosure_length": "27461026",
       "itunes_duration": "11:27",
       "speakers": [
-        "Bungie Layoffs"
+        "Bungie Layoffs",
+        "Brandon Rosa"
       ],
       "topics": [
         "bungie",
@@ -2973,7 +3131,8 @@
         "Xbox Partner Preview Showcase",
         "New President Announcement",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -2997,7 +3156,8 @@
       "enclosure_length": "8758336",
       "itunes_duration": "03:00",
       "speakers": [
-        "Phil Spencer"
+        "Phil Spencer",
+        "Brandon Rosa"
       ],
       "topics": [
         "phil",
@@ -3022,7 +3182,8 @@
       "enclosure_length": "33417664",
       "itunes_duration": "13:56",
       "speakers": [
-        "Blizzard King"
+        "Blizzard King",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -3049,7 +3210,8 @@
         "Microsoft Reportedly Aiming",
         "Complete Activision Blizzard Acquisition",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3077,7 +3239,8 @@
         "Challenges Microsoft",
         "Activision Blizzard Deal",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3099,7 +3262,8 @@
       "enclosure_length": "41300160",
       "itunes_duration": "17:13",
       "speakers": [
-        "Xbox Leak"
+        "Xbox Leak",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -3123,7 +3287,8 @@
       "enclosure_length": "26846464",
       "itunes_duration": "11:12",
       "speakers": [
-        "Mod Support"
+        "Mod Support",
+        "Brandon Rosa"
       ],
       "topics": [
         "starfield",
@@ -3145,7 +3310,8 @@
       "enclosure_length": "29923264",
       "itunes_duration": "12:29",
       "speakers": [
-        "Xbox Digital Broadcast"
+        "Xbox Digital Broadcast",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3171,7 +3337,8 @@
         "Starfield Early Access Passes",
         "Concurrent Players",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "starfield",
@@ -3193,7 +3360,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33696064",
       "itunes_duration": "14:03",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "starfield",
         "reviews",
@@ -3213,7 +3382,8 @@
       "enclosure_length": "31015744",
       "itunes_duration": "12:56",
       "speakers": [
-        "Starfield Preloads Go"
+        "Starfield Preloads Go",
+        "Brandon Rosa"
       ],
       "topics": [
         "starfield",
@@ -3236,7 +3406,8 @@
         "Duty Modern Warfare",
         "Releases November",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "duty",
@@ -3261,7 +3432,8 @@
       "speakers": [
         "Microsoft Reveals Xbox",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3286,7 +3458,8 @@
         "More Coming",
         "Square Enix",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "fantasy",
@@ -3306,7 +3479,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31432384",
       "itunes_duration": "13:06",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "xbox",
         "game",
@@ -3329,7 +3504,8 @@
       "enclosure_length": "33080704",
       "itunes_duration": "13:47",
       "speakers": [
-        "Activision Blizzard"
+        "Activision Blizzard",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3353,7 +3529,8 @@
       "speakers": [
         "Xbox Demo Fest Returns",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "demo",
@@ -3376,7 +3553,8 @@
       "itunes_duration": "19:25",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "shocking",
@@ -3398,7 +3576,8 @@
       "itunes_duration": "19:56",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3421,7 +3600,8 @@
         "Everything Revealed",
         "Xbox Games Showcase Extended",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -3446,7 +3626,8 @@
         "Starfield Direct",
         "Summer Games Fest",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -3474,7 +3655,8 @@
         "Rocky Development Lost Arkane",
         "Dev Team",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "redfall",
@@ -3499,7 +3681,8 @@
       "enclosure_length": "20473024",
       "itunes_duration": "08:32",
       "speakers": [
-        "Xbox Confirms Games"
+        "Xbox Confirms Games",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -3521,7 +3704,8 @@
       "itunes_duration": "13:48",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -3546,7 +3730,8 @@
         "Battle Pass",
         "Launch Content Prices Revealed",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "diablo",
@@ -3571,7 +3756,8 @@
       "enclosure_length": "37687744",
       "itunes_duration": "15:43",
       "speakers": [
-        "Phil Spencer Apologizes"
+        "Phil Spencer Apologizes",
+        "Brandon Rosa"
       ],
       "topics": [
         "phil",
@@ -3598,7 +3784,8 @@
       "speakers": [
         "Activision Blizzard Deal Blocked",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3623,7 +3810,8 @@
       "speakers": [
         "Server Slam Beta Arrives",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "diablo",
@@ -3647,7 +3835,8 @@
       "speakers": [
         "Redfall Launching",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "redfall",
@@ -3670,7 +3859,8 @@
       "speakers": [
         "Storage Expansion Option",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "cheaper",
@@ -3696,7 +3886,8 @@
         "Xbox Game Pass Offer",
         "No More",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3722,7 +3913,8 @@
         "Substantially Lessen",
         "Console Gaming Competition",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "states",
@@ -3751,7 +3943,8 @@
         "Bring Activision Games",
         "More Services",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3775,7 +3968,8 @@
       "enclosure_length": "30638464",
       "itunes_duration": "12:46",
       "speakers": [
-        "Starfield Delayed"
+        "Starfield Delayed",
+        "Brandon Rosa"
       ],
       "topics": [
         "starfield",
@@ -3797,7 +3991,8 @@
       "enclosure_length": "26965504",
       "itunes_duration": "11:15",
       "speakers": [
-        "Elden Ring Dlc"
+        "Elden Ring Dlc",
+        "Brandon Rosa"
       ],
       "topics": [
         "elden",
@@ -3821,7 +4016,8 @@
       "speakers": [
         "Microsoft Signs",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3847,7 +4043,8 @@
       "speakers": [
         "Open Beta Coming Soon",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "diablo",
@@ -3868,7 +4065,8 @@
       "enclosure_length": "25862400",
       "itunes_duration": "10:47",
       "speakers": [
-        "Regulator Warnings"
+        "Regulator Warnings",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3895,7 +4093,8 @@
         "Industries Making",
         "Next Halo Game",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "industries",
@@ -3919,7 +4118,8 @@
       "speakers": [
         "Showcase Summary",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -3940,7 +4140,8 @@
       "enclosure_length": "30697984",
       "itunes_duration": "12:48",
       "speakers": [
-        "Joseph Staten"
+        "Joseph Staten",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -3969,7 +4170,8 @@
         "Monster Hunter Rise Review",
         "Hour Single Player",
         "Hour Single Player Point",
-        "Pass If"
+        "Pass If",
+        "Brandon Rosa"
       ],
       "topics": [
         "monster",
@@ -3996,7 +4198,8 @@
       "itunes_duration": "15:13",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4017,7 +4220,8 @@
       "enclosure_length": "13471360",
       "itunes_duration": "09:22",
       "speakers": [
-        "Reiterates Starfield"
+        "Reiterates Starfield",
+        "Brandon Rosa"
       ],
       "topics": [
         "bethesda",
@@ -4040,7 +4244,8 @@
       "enclosure_length": "8952640",
       "itunes_duration": "06:14",
       "speakers": [
-        "Xbox Game Pass"
+        "Xbox Game Pass",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4067,7 +4272,8 @@
         "Microsoft Confirms Sony Blocked",
         "Xbox Forever",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -4092,7 +4298,8 @@
         "Microsoft Could Introduce",
         "Supported Game Pass Tier",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -4116,7 +4323,8 @@
       "speakers": [
         "Microsoft Sued",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -4141,7 +4349,8 @@
       "speakers": [
         "Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "game",
@@ -4164,7 +4373,8 @@
       "itunes_duration": "10:25",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4184,7 +4394,8 @@
       "enclosure_length": "18421648",
       "itunes_duration": "12:44",
       "speakers": [
-        "Streaming Box"
+        "Streaming Box",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4205,7 +4416,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15683392",
       "itunes_duration": "11:34",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "battlefield",
         "xbox",
@@ -4229,7 +4442,8 @@
         "Microsoft Promises",
         "Keep Call",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -4253,7 +4467,8 @@
         "Xbox Won",
         "Avoid Price Hikes Forever",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4277,7 +4492,8 @@
         "Deal Blocks Call",
         "Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "sony",
@@ -4307,7 +4523,8 @@
         "Phone Requirements",
         "Campaign Unlocks",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "modern",
@@ -4333,7 +4550,8 @@
       "speakers": [
         "Slipspace Engine",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -4361,7 +4579,8 @@
         "Players Need",
         "Old Characters",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "overwatch",
@@ -4387,7 +4606,8 @@
         "People Working",
         "Big Halo Infinite Project",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "certain",
@@ -4411,7 +4631,8 @@
       "enclosure_length": "24666928",
       "itunes_duration": "17:01",
       "speakers": [
-        "Halo Boss Bonnie Ross"
+        "Halo Boss Bonnie Ross",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -4439,7 +4660,8 @@
         "Ubisoft Forward",
         "Sony Punching Back",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "ubisoft",
@@ -4466,7 +4688,8 @@
         "Halo Infinite",
         "Bad News After Bad",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -4491,7 +4714,8 @@
       "speakers": [
         "No Plan",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "plan",
@@ -4516,7 +4740,8 @@
         "Death Stranding",
         "Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "death",
@@ -4543,7 +4768,8 @@
         "Sony Blocking Games",
         "Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4570,7 +4796,8 @@
       "speakers": [
         "Graphical Performance",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -4595,7 +4822,8 @@
       "speakers": [
         "Black Panther Game",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "black",
@@ -4617,7 +4845,8 @@
       "enclosure_length": "13922752",
       "itunes_duration": "09:57",
       "speakers": [
-        "Xbox Calls"
+        "Xbox Calls",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4639,7 +4868,8 @@
       "speakers": [
         "New Skate",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "skate",
@@ -4662,7 +4892,8 @@
         "Sold More",
         "Double Xbox One",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4686,7 +4917,8 @@
         "Halo Infinite Campaign Co",
         "Beta Finally",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -4711,7 +4943,8 @@
       "speakers": [
         "Will Replace Overwatch",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "overwatch",
@@ -4734,7 +4967,8 @@
         "Xbox Games Showcase Extended",
         "Xbox Demo Event",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4760,7 +4994,8 @@
       "speakers": [
         "Bethesda Showcase",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "giant",
@@ -4785,7 +5020,8 @@
         "Resident Evil",
         "Remake Coming Early",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "resident",
@@ -4806,7 +5042,8 @@
       "enclosure_length": "17050864",
       "itunes_duration": "11:42",
       "speakers": [
-        "Wars Jedi"
+        "Wars Jedi",
+        "Brandon Rosa"
       ],
       "topics": [
         "star",
@@ -4828,7 +5065,8 @@
       "enclosure_length": "18308272",
       "itunes_duration": "12:55",
       "speakers": [
-        "Xbox Outsells PlayStation"
+        "Xbox Outsells PlayStation",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4850,7 +5088,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16645216",
       "itunes_duration": "11:33",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "starfield",
         "redfall",
@@ -4869,7 +5109,8 @@
       "enclosure_length": "19553776",
       "itunes_duration": "13:42",
       "speakers": [
-        "Xbox Cloud Gaming Evolves"
+        "Xbox Cloud Gaming Evolves",
+        "Brandon Rosa"
       ],
       "topics": [
         "fortnite",
@@ -4893,7 +5134,8 @@
       "speakers": [
         "Bethesda Games Showcase",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -4919,7 +5161,8 @@
         "New Multiplayer Modes Including",
         "Battle Royale",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -4946,7 +5189,8 @@
         "Master Chief Collection Adds",
         "Platform Co",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -4968,7 +5212,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11628144",
       "itunes_duration": "09:40",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "halo",
         "infinite",
@@ -4993,7 +5239,8 @@
       "speakers": [
         "Pass Family Plan Coming",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -5017,7 +5264,8 @@
       "speakers": [
         "Build Mode",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "fortnite",
@@ -5040,7 +5288,8 @@
       "speakers": [
         "Hogwarts Legacy Looks Great",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "hogwarts",
@@ -5066,7 +5315,8 @@
         "Halo Infinite Campaign Co",
         "Delayed Again",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5089,7 +5339,8 @@
       "speakers": [
         "Resident Evil",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "resident",
@@ -5110,7 +5361,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17923984",
       "itunes_duration": "12:29",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "elden",
         "ring",
@@ -5134,7 +5387,8 @@
       "speakers": [
         "Gen Update Finally",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "cyberpunk",
@@ -5158,7 +5412,8 @@
         "Modern Warfare",
         "Sequel Announced",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "warzone",
@@ -5181,7 +5436,8 @@
       "enclosure_length": "20676304",
       "itunes_duration": "14:21",
       "speakers": [
-        "Buys Bungie"
+        "Buys Bungie",
+        "Brandon Rosa"
       ],
       "topics": [
         "sony",
@@ -5207,7 +5463,8 @@
         "Halo Battle Royale",
         "Monster Hunter Clone Coming",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5231,7 +5488,8 @@
       "enclosure_length": "23203984",
       "itunes_duration": "16:23",
       "speakers": [
-        "Blizzard King"
+        "Blizzard King",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -5257,7 +5515,8 @@
         "Become Fastest",
         "Selling Microsoft Consoles",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -5280,7 +5539,8 @@
       "itunes_duration": "13:07",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "goldeneye",
@@ -5302,7 +5562,8 @@
         "Another New Remedy Project",
         "Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "remedy",
@@ -5327,7 +5588,8 @@
         "Double Fine Working",
         "Multiple New Projects",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "fine",
@@ -5351,7 +5613,8 @@
         "Slayer Playlists Arrive",
         "Halo Infinite",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "slayer",
@@ -5373,7 +5636,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21867712",
       "itunes_duration": "15:05",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "halo",
         "infinite",
@@ -5396,7 +5661,8 @@
       "enclosure_length": "14729920",
       "itunes_duration": "10:29",
       "speakers": [
-        "Game Pass Ultimate"
+        "Game Pass Ultimate",
+        "Brandon Rosa"
       ],
       "topics": [
         "monthly",
@@ -5421,7 +5687,8 @@
       "enclosure_length": "14053120",
       "itunes_duration": "10:00",
       "speakers": [
-        "Halo Infinite Changes"
+        "Halo Infinite Changes",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5446,7 +5713,8 @@
         "Halo Infinite Multiplayer Launch",
         "Year Celebration",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5472,7 +5740,8 @@
       "speakers": [
         "New Xbox Exclusives Reportedly",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -5493,7 +5762,8 @@
       "speakers": [
         "Halo Infinite Battle Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5519,7 +5789,8 @@
         "New Wu",
         "Tang Clan",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "tang",
@@ -5543,7 +5814,8 @@
         "New Starfield Video About",
         "Settled Systems",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "starfield",
@@ -5568,7 +5840,8 @@
         "Avowed Reportedly",
         "Deep Into Pre",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "reportedly",
@@ -5589,7 +5862,8 @@
       "enclosure_length": "15459808",
       "itunes_duration": "10:58",
       "speakers": [
-        "Xbox Cloud Gaming Now"
+        "Xbox Cloud Gaming Now",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -5614,7 +5888,8 @@
         "Xbox Console Supply Issues",
         "Will Continue",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -5638,7 +5913,8 @@
         "Perfect Dark Reboot Co",
         "Crystal Dynamics",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "perfect",
@@ -5661,7 +5937,8 @@
       "enclosure_length": "21496240",
       "itunes_duration": "15:09",
       "speakers": [
-        "Leaks Galore"
+        "Leaks Galore",
+        "Brandon Rosa"
       ],
       "topics": [
         "delay",
@@ -5685,7 +5962,8 @@
         "Another Halo Infinite",
         "Multiplayer Preview Upcoming",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5711,7 +5989,8 @@
         "Exclusive Xbox News Coming",
         "Tokyo Game Show",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "exclusive",
@@ -5735,7 +6014,8 @@
       "speakers": [
         "Halo Infinite Launches December",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5760,7 +6040,8 @@
         "Halo Infinite Launching Without",
         "Campaign Co",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5783,7 +6064,8 @@
       "enclosure_length": "16479856",
       "itunes_duration": "12:00",
       "speakers": [
-        "Xbox Gamescom"
+        "Xbox Gamescom",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -5806,7 +6088,8 @@
       "speakers": [
         "Halo Battle Royale Reference",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5832,7 +6115,8 @@
         "Larger Halo Infinite",
         "Technical Previews",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5857,7 +6141,8 @@
         "Halo Infinite",
         "Technical Preview Starts Next",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5884,7 +6169,8 @@
         "Handheld Xbox Thanks",
         "Steam Deck",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "handheld",
@@ -5908,7 +6194,8 @@
       "itunes_duration": "10:59",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "deathloop",
@@ -5928,7 +6215,8 @@
       "enclosure_length": "18327856",
       "itunes_duration": "13:03",
       "speakers": [
-        "Xbox Cloud Gaming"
+        "Xbox Cloud Gaming",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -5950,7 +6238,8 @@
       "enclosure_length": "19033456",
       "itunes_duration": "13:09",
       "speakers": [
-        "Halo Infinite"
+        "Halo Infinite",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -5976,7 +6265,8 @@
         "Halo Infinite Free Multiplayer",
         "Details Galore",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -6000,7 +6290,8 @@
       "enclosure_length": "50231632",
       "itunes_duration": "34:56",
       "speakers": [
-        "Xbox Showcase"
+        "Xbox Showcase",
+        "Brandon Rosa"
       ],
       "topics": [
         "best",
@@ -6025,7 +6316,8 @@
         "Leaked Marvel",
         "Borderlands Spin Off Coming",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "leaked",
@@ -6051,7 +6343,8 @@
       "speakers": [
         "Showcase Coming Soon",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6071,7 +6364,8 @@
       "enclosure_length": "18082624",
       "itunes_duration": "12:54",
       "speakers": [
-        "Starfield Heavily Rumored"
+        "Starfield Heavily Rumored",
+        "Brandon Rosa"
       ],
       "topics": [
         "starfield",
@@ -6093,7 +6387,8 @@
         "Unreal Engine",
         "New Coalition Projects",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gear",
@@ -6119,7 +6414,8 @@
         "Mass Effect",
         "Legendary Edition",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6145,7 +6441,8 @@
         "Halo Infinite",
         "Cross Play",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -6169,7 +6466,8 @@
       "enclosure_length": "16381888",
       "itunes_duration": "11:36",
       "speakers": [
-        "Xbox Cloud Gaming"
+        "Xbox Cloud Gaming",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6192,7 +6490,8 @@
       "itunes_duration": "10:44",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "thieves",
@@ -6214,7 +6513,8 @@
       "speakers": [
         "Xbox Exclusive Game",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "kojima",
@@ -6237,7 +6537,8 @@
       "speakers": [
         "Xbox Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "sony",
@@ -6261,7 +6562,8 @@
         "Xbox Game Pass Getting",
         "New Games",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6286,7 +6588,8 @@
         "Play Now",
         "Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "game",
@@ -6308,7 +6611,8 @@
       "speakers": [
         "New Bethesda Games",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "bethesda",
@@ -6332,7 +6636,8 @@
         "No Major Xbox Announcement",
         "Events Soon",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "major",
@@ -6353,7 +6658,8 @@
       "enclosure_length": "22341400",
       "itunes_duration": "12:15",
       "speakers": [
-        "Halo Infinite"
+        "Halo Infinite",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -6375,7 +6681,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31977184",
       "itunes_duration": "17:13",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "frame",
         "rates",
@@ -6399,7 +6707,8 @@
         "Halo Infinite",
         "Overhauled Vehicle Gameplay",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -6424,7 +6733,8 @@
       "itunes_duration": "14:08",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox"
@@ -6444,7 +6754,8 @@
       "speakers": [
         "Optimizing Halo Infinite",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -6465,7 +6776,8 @@
       "enclosure_length": "18613936",
       "itunes_duration": "11:54",
       "speakers": [
-        "Gold Price"
+        "Gold Price",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -6491,7 +6803,8 @@
         "Lucasfilm Games",
         "Star Wars Exclusivity",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "lucasfilm",
@@ -6515,7 +6828,8 @@
       "enclosure_length": "16715200",
       "itunes_duration": "10:30",
       "speakers": [
-        "Buy Nintendo"
+        "Buy Nintendo",
+        "Brandon Rosa"
       ],
       "topics": [
         "nintendo",
@@ -6536,7 +6850,8 @@
       "itunes_duration": "11:24",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6560,7 +6875,8 @@
         "Take Flight",
         "Microsoft Flight Simulator",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "flight",
@@ -6583,7 +6899,8 @@
       "speakers": [
         "Refund Debacle",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "cyberpunk",
@@ -6608,7 +6925,8 @@
         "Halo Infinite Fall",
         "Perfect Dark",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -6634,7 +6952,8 @@
       "speakers": [
         "Holiday Xbox Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "holiday",
@@ -6656,7 +6975,8 @@
       "enclosure_length": "18859216",
       "itunes_duration": "12:15",
       "speakers": [
-        "Xbox Working"
+        "Xbox Working",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6680,7 +7000,8 @@
       "speakers": [
         "Halo Infinite Updates Coming",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -6701,7 +7022,8 @@
       "enclosure_length": "19823776",
       "itunes_duration": "12:38",
       "speakers": [
-        "Xbox History"
+        "Xbox History",
+        "Brandon Rosa"
       ],
       "topics": [
         "launch",
@@ -6721,7 +7043,8 @@
       "enclosure_length": "21349984",
       "itunes_duration": "13:49",
       "speakers": [
-        "Review Roundup"
+        "Review Roundup",
+        "Brandon Rosa"
       ],
       "topics": [
         "roundup",
@@ -6741,7 +7064,8 @@
       "enclosure_length": "19484272",
       "itunes_duration": "12:58",
       "speakers": [
-        "Launch Kick Off Stream"
+        "Launch Kick Off Stream",
+        "Brandon Rosa"
       ],
       "topics": [
         "launch",
@@ -6762,7 +7086,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17741584",
       "itunes_duration": "10:56",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "project",
         "xcloud",
@@ -6787,7 +7113,8 @@
         "Games Fully Optimized",
         "Launch Day",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "games",
@@ -6811,7 +7138,8 @@
       "speakers": [
         "Xbox Consoles",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "project",
@@ -6837,7 +7165,8 @@
         "Play Joins Xbox Game",
         "Pass Ultimate",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "joins",
@@ -6861,7 +7190,8 @@
       "enclosure_length": "21674752",
       "itunes_duration": "13:31",
       "speakers": [
-        "Xbox Buys Bethesda"
+        "Xbox Buys Bethesda",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6882,7 +7212,8 @@
       "itunes_duration": "15:21",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6905,7 +7236,8 @@
       "speakers": [
         "Launch November",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6928,7 +7260,8 @@
       "speakers": [
         "Another Week",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "week",
@@ -6952,7 +7285,8 @@
         "Bungie Veteran Joins",
         "Help Halo Infinite",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "bungie",
@@ -6976,7 +7310,8 @@
       "itunes_duration": "12:52",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -6995,7 +7330,8 @@
       "enclosure_length": "17813776",
       "itunes_duration": "11:00",
       "speakers": [
-        "Halo Infinite Delayed"
+        "Halo Infinite Delayed",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -7019,7 +7355,8 @@
       "itunes_duration": "13:34",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "project",
@@ -7043,7 +7380,8 @@
       "speakers": [
         "Free Halo Infinite Multiplayer",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "free",
@@ -7067,7 +7405,8 @@
       "speakers": [
         "Xbox Games Showcase July",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7089,7 +7428,8 @@
       "enclosure_length": "9295273",
       "itunes_duration": "09:41",
       "speakers": [
-        "Xbox Game Pass Ultimate"
+        "Xbox Game Pass Ultimate",
+        "Brandon Rosa"
       ],
       "topics": [
         "free",
@@ -7116,7 +7456,8 @@
         "Purchase More",
         "Party Studios",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7139,7 +7480,8 @@
         "First Party July Event",
         "Reportedly Dated",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7164,7 +7506,8 @@
       "speakers": [
         "Halo Infinite Teaser Confirms",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -7189,7 +7532,8 @@
       "speakers": [
         "Keep Same Xbox One",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7211,7 +7555,8 @@
       "speakers": [
         "So Far",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7232,7 +7577,8 @@
       "speakers": [
         "Game Delays",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "destiny",
@@ -7254,7 +7600,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "12224903",
       "itunes_duration": "12:44",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "xbox",
         "series",
@@ -7275,7 +7623,8 @@
       "itunes_duration": "12:32",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gear",
@@ -7297,7 +7646,8 @@
       "itunes_duration": "11:26",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -7320,7 +7670,8 @@
       "speakers": [
         "Inside Xbox May",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7340,7 +7691,8 @@
       "itunes_duration": "10:36",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gameplay",
@@ -7362,7 +7714,8 @@
       "speakers": [
         "Game Reveals Coming Soon",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7385,7 +7738,8 @@
         "Dark Cyberpunk",
         "Xbox One",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "glow",
@@ -7409,7 +7763,8 @@
         "Inside Xbox April",
         "News Recap",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7432,7 +7787,8 @@
       "speakers": [
         "No Working Plan",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "working",
@@ -7456,7 +7812,8 @@
       "speakers": [
         "Microsoft Working",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -7478,7 +7835,8 @@
       "speakers": [
         "Full Spec Reveal",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "spec",
@@ -7501,7 +7859,8 @@
       "speakers": [
         "Event After",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7525,7 +7884,8 @@
         "Bleeding Edge",
         "New Crazy Cyborg Dolphin",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "bleeding",
@@ -7550,7 +7910,8 @@
       "speakers": [
         "Gen Details Galore",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7574,7 +7935,8 @@
         "Weapon Skins Returning",
         "Halo Infinite",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "weapon",
@@ -7598,7 +7960,8 @@
       "speakers": [
         "Preview Begins",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "project",
@@ -7624,7 +7987,8 @@
       "speakers": [
         "Google Not Nintendo",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7648,7 +8012,8 @@
       "itunes_duration": "10:39",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7671,7 +8036,8 @@
       "speakers": [
         "Alleged Photos",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "photo",
@@ -7692,7 +8058,8 @@
       "enclosure_length": "11649614",
       "itunes_duration": "12:08",
       "speakers": [
-        "Game Delays"
+        "Game Delays",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7715,7 +8082,8 @@
       "speakers": [
         "Largest Ever Console Processor",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "console",
@@ -7736,7 +8104,8 @@
       "enclosure_length": "9296373",
       "itunes_duration": "09:41",
       "speakers": [
-        "Leaked Specs"
+        "Leaked Specs",
+        "Brandon Rosa"
       ],
       "topics": [
         "leaked",
@@ -7760,7 +8129,8 @@
         "Long Load Times",
         "Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "microsoft",
@@ -7783,7 +8153,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "10482207",
       "itunes_duration": "10:55",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "xbox"
       ]
@@ -7799,7 +8171,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11649614",
       "itunes_duration": "12:08",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "power",
         "dreams",
@@ -7820,7 +8194,8 @@
       "itunes_duration": "11:17",
       "speakers": [
         "Phil Spencer",
-        "Project Scarlett"
+        "Project Scarlett",
+        "Brandon Rosa"
       ],
       "topics": [
         "phil",
@@ -7842,7 +8217,8 @@
       "enclosure_length": "11121998",
       "itunes_duration": "11:35",
       "speakers": [
-        "Xbox Project Scarlett"
+        "Xbox Project Scarlett",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7862,7 +8238,8 @@
       "enclosure_length": "12785486",
       "itunes_duration": "13:19",
       "speakers": [
-        "Xbox Scarlett"
+        "Xbox Scarlett",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7883,7 +8260,8 @@
       "speakers": [
         "News Blowout",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7905,7 +8283,8 @@
       "speakers": [
         "Event Details",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -7924,7 +8303,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11026015",
       "itunes_duration": "11:29",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "xbox",
         "access",
@@ -7945,7 +8326,8 @@
       "enclosure_length": "13906045",
       "itunes_duration": "14:29",
       "speakers": [
-        "Taco Bell Food"
+        "Taco Bell Food",
+        "Brandon Rosa"
       ],
       "topics": [
         "free",
@@ -7970,7 +8352,8 @@
       "speakers": [
         "Modern Warfare Battle Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "modern",
@@ -7995,7 +8378,8 @@
       "speakers": [
         "Doom Eternal Delayed",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "doom",
@@ -8016,7 +8400,8 @@
       "enclosure_length": "11986007",
       "itunes_duration": "12:29",
       "speakers": [
-        "Spotify Premium"
+        "Spotify Premium",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -8040,7 +8425,8 @@
       "speakers": [
         "Public Tests",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "project",
@@ -8065,7 +8451,8 @@
       "speakers": [
         "Create Custom Characters",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "custom",
@@ -8088,7 +8475,8 @@
       "speakers": [
         "Resident Evil Project Resistance",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "resident",
@@ -8113,7 +8501,8 @@
       "speakers": [
         "Release Week",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gear",
@@ -8136,7 +8525,8 @@
       "speakers": [
         "Million User Maps",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "halo",
@@ -8159,7 +8549,8 @@
       "speakers": [
         "Gamescom News Blowout",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gamescom",
@@ -8181,7 +8572,8 @@
       "itunes_duration": "12:21",
       "speakers": [
         "Phil Spencer Talks",
-        "Scarlett Details"
+        "Scarlett Details",
+        "Brandon Rosa"
       ],
       "topics": [
         "phil",
@@ -8205,7 +8597,8 @@
       "enclosure_length": "11298266",
       "itunes_duration": "11:46",
       "speakers": [
-        "Phil Spencer"
+        "Phil Spencer",
+        "Brandon Rosa"
       ],
       "topics": [
         "phil",
@@ -8229,7 +8622,8 @@
       "speakers": [
         "New Game Pass Games",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "game",
@@ -8253,7 +8647,8 @@
       "speakers": [
         "New Xbox One Dashboard",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -8273,7 +8668,8 @@
       "itunes_duration": "10:36",
       "speakers": [
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "gamescom",
@@ -8292,7 +8688,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "10817856",
       "itunes_duration": "11:16",
-      "speakers": [],
+      "speakers": [
+        "Brandon Rosa"
+      ],
       "topics": [
         "xbox",
         "controller",
@@ -8316,7 +8714,8 @@
         "Developer Thoughts",
         "Xbox Game Pass",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "developer",
@@ -8338,7 +8737,8 @@
       "enclosure_length": "11057861",
       "itunes_duration": "11:31",
       "speakers": [
-        "Trade Tariffs"
+        "Trade Tariffs",
+        "Brandon Rosa"
       ],
       "topics": [
         "console",
@@ -8362,7 +8762,8 @@
       "speakers": [
         "One Next Gen Xbox",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "focus",
@@ -8385,7 +8786,8 @@
       "speakers": [
         "Xbox News Blowout",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -8408,7 +8810,8 @@
         "Cross Saves",
         "New Expansion",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "destiny",
@@ -8432,7 +8835,8 @@
       "speakers": [
         "Duty Modern Warfare Reboot",
         "Xbox Gaming News",
-        "Fun Fact"
+        "Fun Fact",
+        "Brandon Rosa"
       ],
       "topics": [
         "duty",
@@ -8454,7 +8858,8 @@
       "enclosure_length": "7418620",
       "itunes_duration": "03:52",
       "speakers": [
-        "Every Monday"
+        "Every Monday",
+        "Brandon Rosa"
       ],
       "topics": [
         "xbox",
@@ -8468,357 +8873,358 @@
 
 ## Episodes (newest first)
 
-- 2026-02-16 — All The Xbox Reveals From February 2026's State Of Play - (Xbox In Ten: An Xbox Podcast - Ep. 351) — speakers: Xbox Gaming News, Fun Fact
-- 2026-02-09 — Xbox Release Windows Teased For Halo, Gears & More in 2026 - (Xbox In Ten: An Xbox Podcast - Ep. 350) — speakers: Xbox Release Windows Teased, Xbox Gaming News, Fun Fact
-- 2026-02-02 — Xbox Hardware Revenue Dropping for Two Years Straight - (Xbox In Ten: An Xbox Podcast - Ep. 349) — speakers: Xbox Hardware Revenue Dropping, Two Years Straight, Xbox Gaming News, Fun Fact
-- 2026-01-26 — Xbox Developer Direct 2026 Recap - (Xbox In Ten: An Xbox Podcast - Ep. 348) — speakers: Xbox Developer Direct, Xbox Gaming News, Fun Fact
-- 2026-01-19 — Forza Horizon 6 Leaked Release Month? - (Xbox In Ten: An Xbox Podcast - Ep. 347) — speakers: Forza Horizon
-- 2026-01-12 — Developer_Direct Returns January 22 & Fallout Remasters Coming? - (Xbox In Ten: An Xbox Podcast - Ep. 346) — speakers: Returns January, Fallout Remasters Coming, Xbox Gaming News, Fun Fact
-- 2026-01-05 — Next-Gen Xbox Consoles Could be Delayed by Rising RAM Prices - (Xbox In Ten: An Xbox Podcast - Ep. 345) — speakers: Gen Xbox Consoles Could, Xbox Gaming News, Fun Fact
-- 2025-12-29 — New Xbox Games for 2026 and Beyond - (Xbox In Ten: An Xbox Podcast - Ep. 344) — speakers: New Xbox Games, Xbox Gaming News, Fun Fact
-- 2025-12-22 — The Status of Every Xbox Owned Video Game Studio - (Xbox In Ten: An Xbox Podcast - Ep. 343) — speakers: Every Xbox Owned Video, Game Studio, Xbox Gaming News, Fun Fact
-- 2025-12-15 — The Game Awards 2025 Recap for Xbox - (Xbox In Ten: An Xbox Podcast - Ep. 342) — speakers: Xbox Gaming News, Fun Fact
-- 2025-12-08 — Fallout Creator Rejoins Obsidian...But Not Working On New Vegas 2? - (Xbox In Ten: An Xbox Podcast - Ep. 341) — speakers: Fallout Creator Rejoins Obsidian
-- 2025-12-01 — Is Another Xbox Console Price Increase Coming Due to Ram Shortages? - (Xbox In Ten: An Xbox Podcast - Ep. 340) — speakers: Ram Shortages
-- 2025-11-24 — Xbox FSE (Full Screen Experience) Releases on Handhelds + Partner Preview Recap - (Xbox In Ten: An Xbox Podcast - Ep. 339) — speakers: Full Screen Experience, Partner Preview Recap, Xbox Gaming News, Fun Fact
-- 2025-11-17 — Valve's New Hardware Set to Compete With Xbox Next Generation - (Xbox In Ten: An Xbox Podcast - Ep. 338) — speakers: Xbox Next Generation
-- 2025-11-10 — GTA 6 Is Delayed Again...Until November 2026 - (Xbox In Ten: An Xbox Podcast - Ep. 337) — speakers: Until November, Xbox Gaming News, Fun Fact
-- 2025-11-03 — Huge Xbox Report Details the Next-Gen Console - (Xbox In Ten: An Xbox Podcast - Ep. 336) — speakers: Huge Xbox Report Details, Gen Console, Xbox Gaming News, Fun Fact
-- 2025-10-27 — Halo: Campaign Evolved - A Halo 1 Remake Coming in 2026 - (Xbox In Ten: An Xbox Podcast - Ep. 335) — speakers: Campaign Evolved, Remake Coming, Xbox Gaming News, Fun Fact
-- 2025-10-20 — Battlefield 6 Sold 7 Million Copies in 3 Days...Best Ever Launch - (Xbox In Ten: An Xbox Podcast - Ep. 334) — speakers: Battlefield Sold Million Copies
-- 2025-10-13 — Xbox 'Magnus' Next Gen Console Leaks - (Xbox In Ten: An Xbox Podcast - Ep. 333) — speakers: Next Gen Console Leaks, Xbox Gaming News, Fun Fact
-- 2025-10-06 — Game Pass Changes...$30/Month For Ultimate Now! - (Xbox In Ten: An Xbox Podcast - Ep. 332) — speakers: Game Pass Changes, Xbox Gaming News, Fun Fact
-- 2025-09-29 — Forza Horizon 6 in Japan! + Xbox Reveals at Sony State of Play & Tokyo Game Show - (Xbox In Ten: An Xbox Podcast - Ep. 331) — speakers: Forza Horizon, Xbox Reveals
-- 2025-09-22 — Microsoft is Raising Prices on Xbox Consoles in the US...Again - (Xbox In Ten: An Xbox Podcast - Ep. 330) — speakers: Raising Prices, Xbox Consoles, Xbox Gaming News, Fun Fact
-- 2025-09-15 — 14 Xbox Games from September's Nintendo Direct - (Xbox In Ten: An Xbox Podcast - Ep. 329) — speakers: Xbox Games, Nintendo Direct, Xbox Gaming News, Fun Fact
-- 2025-09-08 — Take Two Tried to Save Xbox's Perfect Dark Reboot - (Xbox In Ten: An Xbox Podcast - Ep. 328) — speakers: Take Two Tried, Save Xbox, Perfect Dark Reboot, Xbox Gaming News, Fun Fact
-- 2025-09-01 — New Ways to Stream and Play with Cloud Gaming & Xbox Game Pass - (Xbox In Ten: An Xbox Podcast - Ep. 327) — speakers: Cloud Gaming, Xbox Game Pass
-- 2025-08-25 — All The Xbox Reveals From Gamescom Opening Night Live 2025 - (Xbox In Ten: An Xbox Podcast - Ep. 326) — speakers: Xbox Gaming News, Fun Fact
-- 2025-08-18 — Helldivers 2 Teases a Halo 3 ODST Crossover Ahead of Xbox Release - (Xbox In Ten: An Xbox Podcast - Ep. 325) — speakers: Xbox Release
-- 2025-08-11 — Xbox Cancels Contraband, 4 Years After E3 Announcement - (Xbox In Ten: An Xbox Podcast - Ep. 324) — speakers: Xbox Cancels Contraband, Years After, Xbox Gaming News, Fun Fact
-- 2025-08-04 — Microsoft is Now the Top Publisher on PlayStation & Xbox - (Xbox In Ten: An Xbox Podcast - Ep. 323) — speakers: Top Publisher, Xbox Gaming News, Fun Fact
-- 2025-07-28 — The Outer Worlds 2 will NOT be Microsoft's first $80 Xbox Game - (Xbox In Ten: An Xbox Podcast - Ep. 322) — speakers: Xbox Game, Xbox Gaming News, Fun Fact
-- 2025-07-21 — Call Of Duty: Black Ops 7 Releasing on November 14 2025? - (Xbox In Ten: An Xbox Podcast - Ep. 321) — speakers: Black Ops, Xbox Gaming News, Fun Fact
-- 2025-07-14 — Halo 1 Remake but No Multiplayer in 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 320) — speakers: No Multiplayer, Xbox Gaming News, Fun Fact
-- 2025-07-07 — Xbox Layoffs, Game Cancellations, & Studio Closures Mark a Lowpoint for the Brand - (Xbox In Ten: An Xbox Podcast - Ep. 319) — speakers: Xbox Layoffs
-- 2025-06-30 — Xbox PC Launcher Update Aggregates Steam, Epic, & Other PC Libraries - (Xbox In Ten: An Xbox Podcast - Ep. 318) — speakers: Launcher Update Aggregates Steam, Xbox Gaming News, Fun Fact
-- 2025-06-23 — Xbox and AMD Partner for Next Gen Consoles - (Xbox In Ten: An Xbox Podcast - Ep. 317) — speakers: Next Gen Consoles, Xbox Gaming News, Fun Fact
-- 2025-06-16 — Xbox Game Pass Price Increase Incoming? - (Xbox In Ten: An Xbox Podcast - Ep. 316) — speakers: Xbox Game Pass Price, Increase Incoming, Xbox Gaming News, Fun Fact
-- 2025-06-08 — Xbox Showcase 2025 Recap + Summer Game Fest & State of Play - (Xbox In Ten: An Xbox Podcast - Ep. 315) — speakers: Xbox Showcase
-- 2025-06-02 — Microsoft Reportedly Pulls Back Development on Its Own Xbox Handheld - (Xbox In Ten: An Xbox Podcast - Ep. 314) — speakers: Xbox Handheld
-- 2025-05-26 — Xbox Adds 50+ Retro Games to Game Pass - (Xbox In Ten: An Xbox Podcast - Ep. 313) — speakers: Xbox Adds, Retro Games, Game Pass, Xbox Gaming News, Fun Fact
-- 2025-05-19 — Bungie's Marathon Uses "Unauthorized" Artwork - (Xbox In Ten: An Xbox Podcast - Ep. 312) — speakers: Marathon Uses, Xbox Gaming News, Fun Fact
-- 2025-05-12 — Gears of War: Reloaded Releasing Everywhere August 26 2025 - (Xbox In Ten: An Xbox Podcast - Ep. 311) — speakers: Reloaded Releasing Everywhere August, Xbox Gaming News, Fun Fact
-- 2025-05-05 — GTA 6 Delayed & Xbox Raises Prices...On Everything - (Xbox In Ten: An Xbox Podcast - Ep. 310) — speakers: Xbox Raises Prices, Xbox Gaming News, Fun Fact
-- 2025-04-28 — The Elder Scrolls 4: Oblivion Remastered Finally Releases - (Xbox In Ten: An Xbox Podcast - Ep. 309) — speakers: Oblivion Remastered Finally Releases, Xbox Gaming News, Fun Fact
-- 2025-04-21 — Oblivion Remastered Releasing this Week?! - (Xbox In Ten: An Xbox Podcast - Ep. 308) — speakers: Oblivion Remastered Releasing, Xbox Gaming News, Fun Fact
-- 2025-04-14 — Marathon Reveal + Release Date & Xbox's Game Showcase 2025 Dated - (Xbox In Ten: An Xbox Podcast - Ep. 307) — speakers: Marathon Reveal, Release Date, Game Showcase, Xbox Gaming News, Fun Fact
-- 2025-04-07 — Asus and Xbox Tease Gaming Handheld - (Xbox In Ten: An Xbox Podcast - Ep. 306) — speakers: Xbox Tease Gaming Handheld, Xbox Gaming News, Fun Fact
-- 2025-03-31 — Tencent's €1.16 Billion Investment to Save Ubisoft? - (Xbox In Ten: An Xbox Podcast - Ep. 305)
-- 2025-03-24 — Steam on Xbox Evidence that Microsoft Removed - (Xbox In Ten: An Xbox Podcast - Ep. 304) — speakers: Xbox Evidence, Microsoft Removed, Xbox Gaming News, Fun Fact
-- 2025-03-17 — Microsoft is Reportedly 'Partnering' on an Xbox Handheld for 2025 - (Xbox In Ten: An Xbox Podcast - Ep. 303) — speakers: Xbox Handheld
-- 2025-03-10 — Gears of War Game Entries in 2025 & 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 302) — speakers: War Game Entries, Xbox Gaming News, Fun Fact
-- 2025-03-03 — Fable Delayed to 2026 & ID@Xbox Showcase February 2025 Recap - (Xbox In Ten: An Xbox Podcast - Ep. 301) — speakers: Fable Delayed, Xbox Showcase February, Xbox Gaming News, Fun Fact
-- 2025-02-24 — Xbox Introduces Muse, A Generative AI Model + Gunnar Dume Glasses Review - (Xbox In Ten: An Xbox Podcast - Ep. 300) — speakers: Xbox Introduces Muse, Gunnar Dume Glasses Review, Xbox Gaming News, Fun Fact
-- 2025-02-17 — All The Xbox Reveals From February 2025's Sony State Of Play - (Xbox In Ten - Ep. 299) — speakers: Xbox Gaming News, Fun Fact
-- 2025-02-10 — GTA 6 Still Launching in 2025 - (Xbox In Ten - Ep. 298) — speakers: Still Launching, Xbox Gaming News, Fun Fact
-- 2025-02-03 — Forza Horizon 5 Is Coming to PS5 - (Xbox In Ten - Ep. 297) — speakers: Forza Horizon
-- 2025-01-27 — Xbox Developer_Direct 2025 Recap - (Xbox In Ten - Ep. 296)
-- 2025-01-20 — Xbox's Developer Direct Surprise is Reportedly a Legendary Japanese IP - (Xbox In Ten - Ep. 295) — speakers: Developer Direct Surprise, Legendary Japanese, Xbox Gaming News, Fun Fact
-- 2025-01-13 — Developer Direct Returns on January 23 for 2025 - (Xbox In Ten - Ep. 294) — speakers: Developer Direct Returns, Million Per Game
-- 2025-01-06 — Kojima's Xbox Game 'OD' Suffered Setbacks In 2024 - (Xbox In Ten - Ep. 293) — speakers: Xbox Game, Xbox Gaming News, Fun Fact
-- 2025-01-06 — Kojima's Xbox Game 'OD' Suffered Setbacks In 2024 - (Xbox In Ten - Ep. 293) — speakers: Xbox Game, Xbox Gaming News, Fun Fact
-- 2024-12-30 — Over 25 Years of Classic Halo Content Leaks Online - (Xbox In Ten - Ep. 292) — speakers: Classic Halo Content Leaks, Xbox Gaming News, Fun Fact
-- 2024-12-23 — Xbox Developer Direct Showcase in January 2025 with the Oblivion Remake? - (Xbox In Ten - Ep. 291)
-- 2024-12-16 — The Game Awards 2024 Xbox Recap: All the Awards and Reveals - (Xbox In Ten - Ep. 290) — speakers: Xbox Recap, Xbox Gaming News, Fun Fact
-- 2024-12-09 — Xbox Year in Review 2024 is Here - (Xbox In Ten - Ep. 289) — speakers: Xbox Year, Xbox Gaming News, Fun Fact
-- 2024-12-02 — Xbox Is Shutting Down the Avatar Editor App - (Xbox In Ten - Ep. 288)
-- 2024-11-25 — Stream Your Own Games with Xbox Cloud Gaming + Call of Duty Gunnar Glasses Review - (Xbox In Ten - Ep. 287) — speakers: Xbox Cloud Gaming Call
-- 2024-11-18 — This is an Xbox is Microsoft's New Marketing Campaign - (Xbox In Ten - Ep. 286) — speakers: New Marketing Campaign, Xbox Gaming News, Fun Fact
-- 2024-11-11 — Death Stranding's Surpise Xbox Release from Kojima Productions - (Xbox In Ten - Ep. 285) — speakers: Death Stranding
-- 2024-11-04 — Call of Duty: Black Ops 6 is the Biggest Call of Duty Launch Ever & Sets Game Pass Records - (Xbox In Ten - Ep. 284) — speakers: Black Ops, Biggest Call, Duty Launch Ever, Sets Game Pass Records, Xbox Gaming News, Fun Fact
-- 2024-10-28 — Is Joseph Staten Returning to Halo? - (Xbox In Ten - Ep. 283) — speakers: Joseph Staten Returning
-- 2024-10-21 — Xbox Partner Preview October 2024 Recap - (Xbox In Ten - Ep. 282) — speakers: Xbox Partner Preview October, Xbox Gaming News, Fun Fact
-- 2024-10-14 — Halo Moving to Unreal Engine 5 Under Rebranded Halo Studios - (Xbox In Ten - Ep. 281) — speakers: Halo Moving, Unreal Engine, Under Rebranded Halo Studios, Xbox Gaming News, Fun Fact
-- 2024-10-07 — Microsoft is Seeking Feedback from Studios Not Launching on Xbox - (Xbox In Ten - Ep. 280) — speakers: Seeking Feedback, Studios Not Launching, Xbox Gaming News, Fun Fact
-- 2024-09-30 — All Xbox News from Tokyo Game Show and Sony's State of Play - (Xbox In Ten - Ep. 279) — speakers: All Xbox News, Tokyo Game Show, Xbox Gaming News, Fun Fact
-- 2024-09-23 — Xbox Tokyo Game Show 2024 Broadcast Details and Final Fantasy Showing Up? - (Xbox In Ten - Ep. 278) — speakers: Xbox Tokyo Game Show, Broadcast Details, Final Fantasy Showing Up, Xbox Gaming News, Fun Fact
-- 2024-09-16 — Call of Duty: Black Ops 6 Skipping Campaign Early Access - (Xbox In Ten - Ep. 277) — speakers: Black Ops, Skipping Campaign Early Access, Xbox Gaming News, Fun Fact
-- 2024-09-09 — The Xbox Broadcast Returns to TGS 2024 - (Xbox In Ten - Ep. 276) — speakers: Xbox Gaming News, Fun Fact
-- 2024-09-02 — Call of Duty Next 2024: Everything Announced for Black Ops 6 and Warzone - (Xbox In Ten - Ep. 275) — speakers: Duty Next, Everything Announced, Black Ops, Xbox Gaming News, Fun Fact
-- 2024-08-26 — Gamescom Opening Night Live 2024 Xbox Reveals - (Xbox In Ten - Ep. 274) — speakers: Xbox Reveals, Xbox Gaming News, Fun Fact
-- 2024-08-19 — Hi-Fi Rush IP and Tango Gameworks Resurrected by Krafton - (Xbox In Ten - Ep. 273) — speakers: Tango Gameworks Resurrected
-- 2024-08-12 — Avowed Delayed until February 18th, 2025 - (Xbox In Ten - Ep. 272) — speakers: Avowed Delayed, Xbox Gaming News, Fun Fact
-- 2024-08-05 — Xbox Hardware Revenue Down 42% From Last Year & Destiny Troubles - (Xbox In Ten - Ep. 271) — speakers: Xbox Hardware Revenue
-- 2024-07-29 — GTA 6 Unaffected by SAG-AFTRA Strike - (Xbox In Ten - Ep. 270) — speakers: Sag-Aftra Strike
-- 2024-07-22 — EA College Football 25 Team Builder Releases with Game - (Xbox In Ten - Ep. 269)
-- 2024-07-15 — Xbox Game Pass Changes and Price Hikes - (Xbox In Ten - Ep. 268) — speakers: Xbox Game Pass Changes, Price Hikes, Xbox Gaming News, Fun Fact
-- 2024-07-08 — Dead Rising Deluxe Remaster Release September 19 - (Xbox In Ten - Ep. 267) — speakers: Dead Rising Deluxe Remaster, Release September, Xbox Gaming News, Fun Fact
-- 2024-07-01 — Xbox Cloud Gaming Coming to Amazon Fire TV - (Xbox In Ten - Ep. 266) — speakers: Xbox Cloud Gaming Coming
-- 2024-06-24 — Xbox Is Going Big at Gamescom 2024 & More Exclusives on Other Platforms? - (Xbox In Ten - Ep. 265) — speakers: More Exclusives, Other Platforms, Xbox Gaming News, Fun Fact
-- 2024-06-17 — Xbox Handheld Teased by Phil Spencer - (Xbox In Ten - Ep. 264) — speakers: Xbox Handheld Teased, Phil Spencer
-- 2024-06-10 — Xbox Games Showcase 2024, Call of Duty Direct & Summer Games Fest Recaps - (Xbox In Ten - Ep. 263) — speakers: Xbox Games Showcase, Duty Direct, Summer Games Fest Recaps, Xbox Gaming News, Fun Fact
-- 2024-06-03 — Microsoft Confirms Call of Duty: Black Ops 6 is Coming to Xbox Game Pass - (Xbox In Ten - Ep. 262) — speakers: Microsoft Confirms Call, Black Ops, Xbox Game Pass, Xbox Gaming News, Fun Fact
-- 2024-05-27 — Call of Duty Black Ops 6 - A "Dark New Chapter" in the Franchise - (Xbox In Ten - Ep. 261) — speakers: Duty Black Ops, Dark New Chapter, Xbox Gaming News, Fun Fact
-- 2024-05-20 — Call of Duty 2024 in Xbox Game Pass? - (Xbox In Ten - Ep. 260) — speakers: Xbox Game Pass, Xbox Gaming News, Fun Fact
-- 2024-05-13 — Microsoft Closes Arkane Austin, Tango Gameworks, and More in Cuts at Bethesda - (Xbox In Ten - Ep. 259) — speakers: Arkane Austin, Tango Gameworks
-- 2024-05-06 — Xbox Games Showcase Followed by REDACTED Direct on June 9 - (Xbox In Ten - Ep. 258) — speakers: Xbox Games Showcase Followed, Xbox Gaming News, Fun Fact
-- 2024-04-29 — Xbox Gaming Financials Boosted by Activision Blizzard - (Xbox In Ten - Ep. 257) — speakers: Activision Blizzard
-- 2024-04-22 — Fallout Games See Massive Player Boost After Show's Release - (Xbox In Ten - Ep. 256) — speakers: Fallout Games See Massive, Player Boost After Show, Xbox Gaming News, Fun Fact
-- 2024-04-15 — The Fallout 4 Next-Gen Update Finally Out Later this Month - (Xbox In Ten - Ep. 255) — speakers: Gen Update Finally Out, Xbox Gaming News, Fun Fact
-- 2024-04-08 — Senua's Saga: Hellblade 2 Runs at 30 FPS & Previews are Excellent! - (Xbox In Ten - Ep. 254) — speakers: Xbox Gaming News, Fun Fact
-- 2024-04-01 — Steam and Epic Games Store on Xbox Consoles? - (Xbox In Ten - Ep. 253) — speakers: Epic Games Store, Xbox Consoles, Xbox Gaming News, Fun Fact
-- 2024-03-25 — What is the New Xbox Dev Kit that was Certified in South Korea? - (Xbox In Ten - Ep. 252) — speakers: New Xbox Dev Kit, South Korea, Xbox Gaming News, Fun Fact
-- 2024-03-18 — Minecraft Now Has a Subscription Service - (Xbox In Ten - Ep. 251) — speakers: Subscription Service, Xbox Gaming News, Fun Fact
-- 2024-03-11 — Xbox Partner Preview March 2024 Recap - (Xbox In Ten - Ep. 250) — speakers: Xbox Partner Preview March, Xbox Gaming News, Fun Fact
-- 2024-03-04 — Is a Cheaper All-Digital Xbox Series X Launching in 2024? - (Xbox In Ten - Ep. 249) — speakers: Cheaper All, Xbox Gaming News, Fun Fact
-- 2024-02-26 — Pentiment, Hi-Fi RUSH, Grounded & Sea of Thieves Coming to Play Station & Switch - (Xbox In Ten - Ep. 248) — speakers: Thieves Coming, Play Station, Xbox Gaming News, Fun Fact
-- 2024-02-19 — Xbox Business Update Summary = Salvation? - (Xbox In Ten - Ep. 247) — speakers: Xbox Business Update Summary, Xbox Gaming News, Fun Fact
-- 2024-02-12 — Microsoft Will Share Details on Xbox Games Going to PlayStation this Week - (Xbox In Ten - Ep. 246) — speakers: Microsoft Will Share Details, Xbox Games Going, Xbox Gaming News, Fun Fact
-- 2024-02-05 — Brandon's 2023 Games Played & Game of the Year - (Xbox In Ten - Ep. 245) — speakers: Games Played, Overall Games
-- 2024-01-29 — Palword Sells 7 Million Copies in 5 Days & Details Roadmap - (Xbox In Ten - Ep. 244) — speakers: Palword Sells, Million Copies, Details Roadmap, Xbox Gaming News, Fun Fact
-- 2024-01-22 — Xbox Developer_Direct: All the News and Announcements - (Xbox In Ten - Ep. 243) — speakers: Xbox Gaming News, Fun Fact
-- 2024-01-15 — Xbox to Present Developer_Direct on January 18 - (Xbox In Ten - Ep. 242) — speakers: Xbox Gaming News, Fun Fact
-- 2024-01-08 — Xbox Developer Direct 2024 in January? - (Xbox In Ten - Ep. 241) — speakers: Xbox Developer Direct, Xbox Gaming News, Fun Fact
-- 2024-01-01 — 2024 Update: New Games Coming to Xbox & All Game Pass Releases - (Xbox In Ten - Ep. 240) — speakers: New Games Coming, All Game Pass Releases, Xbox Gaming News, Fun Fact
-- 2023-12-25 — Bobby Kotick Leaving Activision Blizzard on December 29 - (Xbox In Ten - Ep. 239) — speakers: Activision Blizzard
-- 2023-12-18 — "Free" Xbox Game Pass in Exchange for Watching Ads? - (Xbox In Ten - Ep. 238) — speakers: Xbox Game Pass, Watching Ads, Xbox Gaming News, Fun Fact
-- 2023-12-11 — The Game Awards 2023 Xbox Announcements - (Xbox In Ten - Ep. 237) — speakers: Xbox Announcements, Xbox Gaming News, Fun Fact
-- 2023-12-04 — GTA 6 Trailer Reveal on Tuesday Will Break the Internet - (Xbox In Ten - Ep. 236) — speakers: Will Break
-- 2023-11-27 — Xbox Series X/S European Sales Tank - (Xbox In Ten - Ep. 235) — speakers: European Sales Tank, Xbox Gaming News, Fun Fact
-- 2023-11-20 — Modern Warfare 3 Season 1 Details - (Xbox In Ten - Ep. 234) — speakers: Modern Warfare, Xbox Gaming News, Fun Fact
-- 2023-11-13 — Modern Warfare 3 Reportedly Developed in Just 16 Months - (Xbox In Ten - Ep. 233) — speakers: Modern Warfare, Reportedly Developed, Xbox Gaming News, Fun Fact
-- 2023-11-06 — Bungie Layoffs, Trust Issues & Potential Delays - (Xbox In Ten - Ep. 232) — speakers: Bungie Layoffs
-- 2023-10-30 — Xbox Partner Preview Showcase Recap & New President Announcement - (Xbox In Ten - Ep. 231) — speakers: Xbox Partner Preview Showcase, New President Announcement, Xbox Gaming News, Fun Fact
-- 2023-10-23 — Phil Spencer Explains Lack of Activision Games on Game Pass in 2023 - (Xbox In Ten - Ep. 230) — speakers: Phil Spencer
-- 2023-10-16 — Xbox Fully Acquires Activision Blizzard King...FINALLY - (Xbox In Ten - Ep. 229) — speakers: Blizzard King
-- 2023-10-09 — Microsoft Reportedly Aiming to Complete Activision Blizzard Acquisition this Week! - (Xbox In Ten - Ep. 228) — speakers: Microsoft Reportedly Aiming, Complete Activision Blizzard Acquisition, Xbox Gaming News, Fun Fact
-- 2023-10-02 — FTC Challenges Microsoft's Activision Blizzard Deal...Again - (Xbox In Ten - Ep. 227) — speakers: Challenges Microsoft, Activision Blizzard Deal, Xbox Gaming News, Fun Fact
-- 2023-09-25 — Biggest Xbox Leak in History, Tokyo Game Show Recap & CMA Approval - (Xbox In Ten - Ep. 226) — speakers: Xbox Leak
-- 2023-09-18 — Starfield Updates & Official Mod Support in 2024 - (Xbox In Ten - Ep. 225) — speakers: Mod Support
-- 2023-09-11 — Microsoft Announces Xbox Digital Broadcast for Tokyo Game Show 2023 - (Xbox In Ten - Ep. 224) — speakers: Xbox Digital Broadcast
-- 2023-09-04 — Starfield Early Access Passes 230,000 Concurrent Players on Steam - (Xbox In Ten - Ep. 223) — speakers: Starfield Early Access Passes, Concurrent Players, Xbox Gaming News, Fun Fact
-- 2023-08-28 — Starfield Reviews Go Live August 31! - (Xbox In Ten - Ep. 222)
-- 2023-08-21 — Starfield Preloads Go Live! - (Xbox In Ten - Ep. 221) — speakers: Starfield Preloads Go
-- 2023-08-14 — Call of Duty Modern Warfare 3 Releases November 10, 2023 - (Xbox In Ten - Ep. 220) — speakers: Duty Modern Warfare, Releases November, Xbox Gaming News, Fun Fact
-- 2023-08-07 — Microsoft Reveals Xbox at Gamescom 2023 Plans - (Xbox In Ten - Ep. 219) — speakers: Microsoft Reveals Xbox, Xbox Gaming News, Fun Fact
-- 2023-07-31 — Final Fantasy 14 and More Coming to Xbox from Square Enix - (Xbox In Ten - Ep. 218) — speakers: Final Fantasy, More Coming, Square Enix, Xbox Gaming News, Fun Fact
-- 2023-07-24 — Xbox Game Pass Core Replaces Xbox Live Gold in September - (Xbox In Ten - Ep. 217)
-- 2023-07-17 — Microsoft Finally Set to Acquire Activision Blizzard via Win vs FTC. - (Xbox In Ten - Ep. 216) — speakers: Activision Blizzard
-- 2023-07-10 — ID@Xbox Demo Fest Returns July 11 - (Xbox In Ten - Ep. 215) — speakers: Xbox Demo Fest Returns, Xbox Gaming News, Fun Fact
-- 2023-07-03 — 12 Big & Shocking Reveals From the Xbox FTC Trial - (Xbox In Ten - Ep. 214) — speakers: Xbox Gaming News, Fun Fact
-- 2023-06-26 — Microsoft vs FTC Hearing & Everything We Learned - (Xbox In Ten - Ep. 213) — speakers: Xbox Gaming News, Fun Fact
-- 2023-06-19 — Everything Revealed at Xbox Games Showcase Extended 2023 - (Xbox In Ten - Ep. 212) — speakers: Everything Revealed, Xbox Games Showcase Extended, Xbox Gaming News, Fun Fact
-- 2023-06-11 — Xbox Games Showcase 2023, Starfield Direct & Summer Games Fest 2023 Recaps - (Xbox In Ten - Ep. 211) — speakers: Xbox Games Showcase, Starfield Direct, Summer Games Fest, Xbox Gaming News, Fun Fact
-- 2023-06-05 — Redfall's Rocky Development Lost Arkane 70% Of It's Prey's Dev Team - (Xbox In Ten - Ep. 210) — speakers: Rocky Development Lost Arkane, Dev Team, Xbox Gaming News, Fun Fact
-- 2023-05-29 — Xbox Confirms 12 Games from PlayStation Showcase - (Xbox In Ten - Ep. 209) — speakers: Xbox Confirms Games
-- 2023-05-22 — Xbox PC Games For NVIDIA GeForce NOW Members - (Xbox In Ten - Ep. 208) — speakers: Xbox Gaming News, Fun Fact
-- 2023-05-15 — Diablo IV Battle Pass and Post-Launch Content Prices Revealed - (Xbox In Ten - Ep. 207) — speakers: Battle Pass, Launch Content Prices Revealed, Xbox Gaming News, Fun Fact
-- 2023-05-08 — Phil Spencer Apologizes for Redfall and Takes Ownership of Xbox Mistakes - (Xbox In Ten - Ep. 206) — speakers: Phil Spencer Apologizes
-- 2023-05-01 — Microsoft's Activision Blizzard Deal Blocked by UK Regulator (CMA) - (Xbox In Ten - Ep. 205) — speakers: Activision Blizzard Deal Blocked, Xbox Gaming News, Fun Fact
-- 2023-04-24 — Diablo IV Server Slam Beta Arrives on May 12 - (Xbox In Ten - Ep. 204) — speakers: Server Slam Beta Arrives, Xbox Gaming News, Fun Fact
-- 2023-04-17 — Redfall Launching at 30fps on Xbox Series X|S - (Xbox In Ten - Ep. 203) — speakers: Redfall Launching, Xbox Gaming News, Fun Fact
-- 2023-04-10 — Cheaper New Xbox Series X|S 1TB Storage Expansion Option on the Way - (Xbox In Ten - Ep. 202) — speakers: Storage Expansion Option, Xbox Gaming News, Fun Fact
-- 2023-04-03 — Microsoft's $1 Xbox Game Pass Offer is No More - (Xbox In Ten - Ep. 201) — speakers: Xbox Game Pass Offer, No More, Xbox Gaming News, Fun Fact
-- 2023-03-27 — The CMA States the Xbox Activision Deal Won't "Substantially Lessen" UK Console Gaming Competition - (Xbox In Ten - Ep. 200) — speakers: Xbox Activision Deal Won, Substantially Lessen, Console Gaming Competition, Xbox Gaming News, Fun Fact
-- 2023-03-20 — Microsoft Is Signing Deals to Bring Activision Games to More Services - (Xbox In Ten - Ep. 199) — speakers: Bring Activision Games, More Services, Xbox Gaming News, Fun Fact
-- 2023-03-13 — Starfield Delayed to September & Starfield Direct in June - (Xbox In Ten - Ep. 198) — speakers: Starfield Delayed
-- 2023-03-06 — Elden Ring DLC is In Active Development - (Xbox In Ten - Ep. 197) — speakers: Elden Ring Dlc
-- 2023-02-27 — Microsoft Signs 10-Year Deal To Bring Call Of Duty To Nintendo - (Xbox In Ten - Ep. 196) — speakers: Microsoft Signs, Xbox Gaming News, Fun Fact
-- 2023-02-20 — Diablo IV Open Beta Coming Soon - (Xbox In Ten - Ep. 195) — speakers: Open Beta Coming Soon, Xbox Gaming News, Fun Fact
-- 2023-02-13 — Is the Microsoft's Activision Acquisition in Peril after UK Regulator Warnings? - (Xbox In Ten - Ep. 194) — speakers: Regulator Warnings
-- 2023-02-06 — Is a Smaller 343 Industries Making the Next Halo Game in Unreal? - (Xbox In Ten - Ep. 193) — speakers: Industries Making, Next Halo Game, Xbox Gaming News, Fun Fact
-- 2023-01-30 — Xbox & Bethesda Developer_Direct Showcase Summary - (Xbox In Ten - Ep. 192) — speakers: Showcase Summary, Xbox Gaming News, Fun Fact
-- 2023-01-23 — Microsoft Layoffs Hit Multiple Xbox Game Studios & Joseph Staten Leaves Halo - (Xbox In Ten - Ep. 191) — speakers: Joseph Staten
-- 2023-01-17 — Monster Hunter Rise Review: A 24 Hour Single Player POV - (Xbox in Ten Podcast Review) — speakers: Monster Hunter Rise Review, Hour Single Player, Hour Single Player Point, Pass If
-- 2023-01-16 — Xbox & Bethesda to Present Developer_Direct Livestream on January 25 - (Xbox In Ten - Ep. 190) — speakers: Xbox Gaming News, Fun Fact
-- 2023-01-09 — Bethesda Reiterates Starfield's Release in First Half of 2023 - (Xbox In Ten - Ep. 189) — speakers: Reiterates Starfield
-- 2023-01-02 — Xbox Game Pass 2023 Games List & Release Dates - (Xbox In Ten - Ep. 188) — speakers: Xbox Game Pass
-- 2022-12-26 — Microsoft Confirms Sony Blocked 4 Games from Xbox Forever - (Xbox In Ten - Ep. 187) — speakers: Microsoft Confirms Sony Blocked, Xbox Forever, Xbox Gaming News, Fun Fact
-- 2022-12-19 — Microsoft Could Introduce a Cheaper, Ad-Supported Game Pass Tier - (Xbox In Ten - Ep. 186) — speakers: Microsoft Could Introduce, Supported Game Pass Tier, Xbox Gaming News, Fun Fact
-- 2022-12-12 — Microsoft Sued by FTC for ABK Acquisition & The Game Awards Recap - (Xbox In Ten - Ep. 185) — speakers: Microsoft Sued, Xbox Gaming News, Fun Fact
-- 2022-12-05 — Play 16 of The Game Awards 2022 Nominees in Game Pass - (Xbox In Ten - Ep. 184) — speakers: Game Pass, Xbox Gaming News, Fun Fact
-- 2022-11-28 — The Next Xbox Consoles are Coming in 2028 at the Earliest - (Xbox In Ten - Ep. 183) — speakers: Xbox Gaming News, Fun Fact
-- 2022-11-21 — Xbox Shelved Game Streaming Box Due to High Cost - (Xbox In Ten - Ep. 182) — speakers: Streaming Box
-- 2022-11-14 — Battlefield 2042 on Xbox Game Pass with Season 3 - (Xbox In Ten - Ep. 181)
-- 2022-11-07 — Microsoft Promises to Keep Call of Duty on PlayStation - (Xbox In Ten - Ep. 180) — speakers: Microsoft Promises, Keep Call, Xbox Gaming News, Fun Fact
-- 2022-10-31 — Xbox Won't be Able to Avoid Price Hikes Forever - (Xbox In Ten - Ep. 179) — speakers: Xbox Won, Avoid Price Hikes Forever, Xbox Gaming News, Fun Fact
-- 2022-10-24 — Sony & Activision's Deal Blocks Call of Duty from Game Pass for "Years" - (Xbox In Ten - Ep. 178) — speakers: Deal Blocks Call, Game Pass, Xbox Gaming News, Fun Fact
-- 2022-10-17 — Modern Warfare 2 Phone Requirements & Campaign Unlocks for MP - (Xbox In Ten - Ep. 177) — speakers: Modern Warfare, Phone Requirements, Campaign Unlocks, Xbox Gaming News, Fun Fact
-- 2022-10-10 — Is Halo Infinite Ditching the Slipspace Engine for Unreal? - (Xbox In Ten - Ep. 176) — speakers: Slipspace Engine, Xbox Gaming News, Fun Fact
-- 2022-10-03 — New Overwatch 2 Players Need 100 Matches to get Old Characters - (Xbox In Ten - Ep. 175) — speakers: New Overwatch, Players Need, Old Characters, Xbox Gaming News, Fun Fact
-- 2022-09-26 — Certain Affinity has 100 People Working on a Big Halo Infinite Project - (Xbox In Ten - Ep. 174) — speakers: Certain Affinity, People Working, Big Halo Infinite Project, Xbox Gaming News, Fun Fact
-- 2022-09-19 — Halo Boss Bonnie Ross Leaves 343 & Tokyo Game Show Recap - (Xbox In Ten - Ep. 173) — speakers: Halo Boss Bonnie Ross
-- 2022-09-12 — Ubisoft Forward 2022 Recap & Sony Punching Back on COD Exclusivity - (Xbox In Ten - Ep. 172) — speakers: Ubisoft Forward, Sony Punching Back, Xbox Gaming News, Fun Fact
-- 2022-09-05 — Halo Infinite's Bad News After Bad News - Forge/Co-Op in November - (Xbox In Ten - Ep. 171) — speakers: Halo Infinite, Bad News After Bad, Xbox Gaming News, Fun Fact
-- 2022-08-29 — No Plan to Increase the Prices of the Xbox Series X/S Consoles - (Xbox In Ten - Ep. 170) — speakers: No Plan, Xbox Gaming News, Fun Fact
-- 2022-08-22 — Death Stranding coming to PC Game Pass this Week? - (Xbox In Ten - Ep. 169) — speakers: Death Stranding, Game Pass, Xbox Gaming News, Fun Fact
-- 2022-08-15 — Xbox's Gamescom Plans & Sony Blocking Games from Game Pass - (Xbox In Ten - Ep. 168) — speakers: Gamescom Plans, Sony Blocking Games, Game Pass, Xbox Gaming News, Fun Fact
-- 2022-08-08 — Microsoft is Improving Xbox Series S Graphical Performance - (Xbox In Ten - Ep. 167) — speakers: Graphical Performance, Xbox Gaming News, Fun Fact
-- 2022-08-01 — An EA Black Panther Game is Reportedly In Development - (Xbox In Ten - Ep. 166) — speakers: Black Panther Game, Xbox Gaming News, Fun Fact
-- 2022-07-25 — Connecting Xbox Calls from Consoles to Discord Finally Arrives - (Xbox In Ten - Ep. 165) — speakers: Xbox Calls
-- 2022-07-18 — EA's New Skate will be Free to Play & Live Service - (Xbox In Ten - Ep. 164) — speakers: New Skate, Xbox Gaming News, Fun Fact
-- 2022-07-11 — Xbox Series Has Already Sold More than Double Xbox One in Japan - (Xbox In Ten - Ep. 163) — speakers: Sold More, Double Xbox One, Xbox Gaming News, Fun Fact
-- 2022-07-04 — Halo Infinite Campaign Co-op Beta Finally on July 11 - (Xbox In Ten - Ep. 162) — speakers: Halo Infinite Campaign Co, Beta Finally, Xbox Gaming News, Fun Fact
-- 2022-06-27 — Overwatch 2 Will Replace Overwatch at Launch - (Xbox In Ten - Ep. 161) — speakers: Will Replace Overwatch, Xbox Gaming News, Fun Fact
-- 2022-06-20 — Xbox Games Showcase Extended 2022 Recap + ID@Xbox Demo Event - (Xbox In Ten - Ep. 160) — speakers: Xbox Games Showcase Extended, Xbox Demo Event, Xbox Gaming News, Fun Fact
-- 2022-06-13 — The Giant Xbox + Bethesda Showcase 2022 Recap - (Xbox In Ten - Ep. 159) — speakers: Bethesda Showcase, Xbox Gaming News, Fun Fact
-- 2022-06-06 — Resident Evil 4 Remake Coming Early 2023 - (Xbox In Ten - Ep. 158) — speakers: Resident Evil, Remake Coming Early, Xbox Gaming News, Fun Fact
-- 2022-05-30 — Star Wars Jedi: Survivor Revealed for 2023 - (Xbox In Ten - Ep. 157) — speakers: Wars Jedi
-- 2022-05-23 — Xbox Outsells PlayStation in Japan for First Time in 8 years - (Xbox In Ten - Ep. 156) — speakers: Xbox Outsells PlayStation
-- 2022-05-16 — Starfield and Redfall Delayed to 2023 - (Xbox In Ten - Ep. 155)
-- 2022-05-09 — Fortnite Back on iOS as Xbox Cloud Gaming Evolves - (Xbox In Ten - Ep. 154) — speakers: Xbox Cloud Gaming Evolves
-- 2022-05-02 — Xbox and Bethesda Games Showcase on June 12 - (Xbox In Ten - Ep. 153) — speakers: Bethesda Games Showcase, Xbox Gaming News, Fun Fact
-- 2022-04-25 — Halo Infinite Getting 3 New Multiplayer Modes Including a Battle Royale? - (Xbox In Ten - Ep. 152) — speakers: Halo Infinite Getting, New Multiplayer Modes Including, Battle Royale, Xbox Gaming News, Fun Fact
-- 2022-04-18 — Halo: Master Chief Collection Adds Cross-Platform Co-op - (Xbox In Ten - Ep. 151) — speakers: Master Chief Collection Adds, Platform Co, Xbox Gaming News, Fun Fact
-- 2022-04-11 — Halo Infinite Season 2 in May - New Maps, Modes, And Events - (Xbox In Ten - Ep. 150)
-- 2022-04-04 — Is An Xbox Game Pass Family Plan Coming? - (Xbox In Ten - Ep. 149) — speakers: Pass Family Plan Coming, Xbox Gaming News, Fun Fact
-- 2022-03-28 — Is Fortnite No-Build Mode is Here to Stay? - (Xbox In Ten - Ep. 148) — speakers: Build Mode, Xbox Gaming News, Fun Fact
-- 2022-03-21 — Hogwarts Legacy Looks Great & Sets to Release This Holiday - (Xbox In Ten - Ep. 147) — speakers: Hogwarts Legacy Looks Great, Xbox Gaming News, Fun Fact
-- 2022-03-14 — Halo Infinite Campaign Co-op Delayed Again - (Xbox In Ten - Ep. 146) — speakers: Halo Infinite Campaign Co, Delayed Again, Xbox Gaming News, Fun Fact
-- 2022-03-07 — Resident Evil 2, 3 and 7 Getting Xbox Series X/S Upgrades - (Xbox In Ten - Ep. 145) — speakers: Resident Evil, Xbox Gaming News, Fun Fact
-- 2022-02-28 — Elden Ring Is One of the Best-Reviewed Games of All Time - (Xbox In Ten - Ep. 144)
-- 2022-02-21 — Cyberpunk 2077's Next-Gen Update Finally on Xbox Series X / S - (Xbox In Ten - Ep. 143) — speakers: Gen Update Finally, Xbox Gaming News, Fun Fact
-- 2022-02-14 — Warzone 2 & Modern Warfare 2019 Sequel Announced - (Xbox In Ten - Ep. 142) — speakers: Modern Warfare, Sequel Announced, Xbox Gaming News, Fun Fact
-- 2022-02-07 — Sony Buys Bungie but Future Games Will Remain on Xbox - (Xbox In Ten - Ep. 141) — speakers: Buys Bungie
-- 2022-01-31 — Is a Halo Battle Royale and Monster Hunter Clone Coming to Xbox? - (Xbox In Ten - Ep. 140) — speakers: Halo Battle Royale, Monster Hunter Clone Coming, Xbox Gaming News, Fun Fact
-- 2022-01-24 — Microsoft Purchases Activision Blizzard King - (Xbox In Ten - Ep. 139) — speakers: Blizzard King
-- 2022-01-17 — Xbox Series X|S Become Fastest-Selling Microsoft Consoles - (Xbox In Ten - Ep. 138) — speakers: Become Fastest, Selling Microsoft Consoles, Xbox Gaming News, Fun Fact
-- 2022-01-10 — Is Goldeneye 007 Returning on Xbox? - (Xbox In Ten - Ep. 137) — speakers: Xbox Gaming News, Fun Fact
-- 2022-01-03 — Another New Remedy Project & Game Pass in 2022 - (Xbox In Ten - Ep. 136) — speakers: Another New Remedy Project, Game Pass, Xbox Gaming News, Fun Fact
-- 2021-12-27 — Double Fine Working on Multiple New Projects - (Xbox In Ten - Ep. 135) — speakers: Double Fine Working, Multiple New Projects, Xbox Gaming News, Fun Fact
-- 2021-12-20 — Slayer Playlists Arrive in Halo Infinite - (Xbox In Ten - Ep. 134) — speakers: Slayer Playlists Arrive, Halo Infinite, Xbox Gaming News, Fun Fact
-- 2021-12-13 — Halo Infinite's Open World Cut Down From Zelda Like Size - (Xbox In Ten - Ep. 133)
-- 2021-12-06 — Monthly Halo Infinite Freebies with Game Pass Ultimate - (Xbox In Ten - Ep. 132) — speakers: Game Pass Ultimate
-- 2021-11-29 — Halo Infinite Changes "Will Take Time" - (Xbox In Ten - Ep. 131) — speakers: Halo Infinite Changes
-- 2021-11-22 — Halo Infinite Multiplayer Launch & Xbox 20 Year Celebration - (Xbox In Ten - Ep. 130) — speakers: Halo Infinite Multiplayer Launch, Year Celebration, Xbox Gaming News, Fun Fact
-- 2021-11-15 — 2 New Xbox Exclusives Reportedly Leaked - (Xbox In Ten - Ep. 129) — speakers: New Xbox Exclusives Reportedly, Xbox Gaming News, Fun Fact
-- 2021-11-08 — Halo Infinite Battle Pass Details - (Xbox In Ten - Ep. 128) — speakers: Halo Infinite Battle Pass, Xbox Gaming News, Fun Fact
-- 2021-11-01 — New Wu-Tang Clan RPG In Development for Xbox? - (Xbox In Ten - Ep. 127) — speakers: New Wu, Tang Clan, Xbox Gaming News, Fun Fact
-- 2021-10-25 — New Starfield Video About the "Settled Systems" - (Xbox In Ten - Ep. 126) — speakers: New Starfield Video About, Settled Systems, Xbox Gaming News, Fun Fact
-- 2021-10-18 — Avowed Reportedly is Deep Into Pre-Production - (Xbox In Ten - Ep. 125) — speakers: Avowed Reportedly, Deep Into Pre, Xbox Gaming News, Fun Fact
-- 2021-10-11 — Xbox Cloud Gaming Now Powered by Series X Hardware - (Xbox In Ten - Ep. 124) — speakers: Xbox Cloud Gaming Now
-- 2021-10-04 — Xbox Console Supply Issues Will Continue into 2022 - (Xbox In Ten - Ep. 123) — speakers: Xbox Console Supply Issues, Will Continue, Xbox Gaming News, Fun Fact
-- 2021-09-27 — Perfect Dark Reboot Co-Developed by Crystal Dynamics? - (Xbox In Ten - Ep. 122) — speakers: Perfect Dark Reboot Co, Crystal Dynamics, Xbox Gaming News, Fun Fact
-- 2021-09-20 — More Delays into 2022 and Leaks Galore - (Xbox In Ten - Ep. 121) — speakers: Leaks Galore
-- 2021-09-13 — Another Halo Infinite's Multiplayer Preview Upcoming - (Xbox In Ten - Ep. 120) — speakers: Another Halo Infinite, Multiplayer Preview Upcoming, Xbox Gaming News, Fun Fact
-- 2021-09-06 — Exclusive Xbox News Coming for Tokyo Game Show 2021 - (Xbox In Ten - Ep. 119) — speakers: Exclusive Xbox News Coming, Tokyo Game Show, Xbox Gaming News, Fun Fact
-- 2021-08-30 — Halo Infinite Launches December 8th - (Xbox In Ten - Ep. 118) — speakers: Halo Infinite Launches December, Xbox Gaming News, Fun Fact
-- 2021-08-23 — Halo Infinite Launching Without Campaign Co-op & Forge - (Xbox In Ten - Ep. 117) — speakers: Halo Infinite Launching Without, Campaign Co, Xbox Gaming News, Fun Fact
-- 2021-08-16 — Xbox Gamescom 2021 Showcase Confirmed - (Xbox In Ten - Ep. 116) — speakers: Xbox Gamescom
-- 2021-08-09 — A Halo Battle Royale Reference Found in the Files - (Xbox In Ten - Ep. 115) — speakers: Halo Battle Royale Reference, Xbox Gaming News, Fun Fact
-- 2021-08-02 — Larger Halo Infinite's Technical Previews to Come - (Xbox In Ten - Ep. 114) — speakers: Larger Halo Infinite, Technical Previews, Xbox Gaming News, Fun Fact
-- 2021-07-26 — Halo Infinite's Technical Preview Starts Next Week? - (Xbox In Ten - Ep. 113) — speakers: Halo Infinite, Technical Preview Starts Next, Xbox Gaming News, Fun Fact
-- 2021-07-19 — A Handheld Xbox Thanks to Valve's Steam Deck? - (Xbox In Ten - Ep. 112) — speakers: Handheld Xbox Thanks, Steam Deck, Xbox Gaming News, Fun Fact
-- 2021-07-12 — Deathloop on Xbox in September 2022? - (Xbox In Ten - Ep. 111) — speakers: Xbox Gaming News, Fun Fact
-- 2021-07-05 — Xbox Cloud Gaming on iOS, PC and Hardware Upgrades - (Xbox In Ten - Ep. 110) — speakers: Xbox Cloud Gaming
-- 2021-06-27 — Halo Infinite's 1st MP Season will be Reach Themed - (Xbox In Ten - Ep. 109) — speakers: Halo Infinite
-- 2021-06-21 — Halo Infinite Free Multiplayer Details Galore - (Xbox In Ten - Ep. 108) — speakers: Halo Infinite Free Multiplayer, Details Galore, Xbox Gaming News, Fun Fact
-- 2021-06-14 — Best Xbox Showcase to Date! - E3 2021 Recap - (Xbox In Ten - Ep. 107) — speakers: Xbox Showcase
-- 2021-06-07 — A Leaked Marvel XCOM & Borderlands Spin Off Coming? - (Xbox In Ten - Ep. 106) — speakers: Leaked Marvel, Borderlands Spin Off Coming, Xbox Gaming News, Fun Fact
-- 2021-05-31 — Xbox & Bethesda E3 2021 Showcase Coming Soon! - (Xbox In Ten - Ep. 105) — speakers: Showcase Coming Soon, Xbox Gaming News, Fun Fact
-- 2021-05-24 — Starfield Heavily Rumored for 2022 - (Xbox In Ten - Ep. 104) — speakers: Starfield Heavily Rumored
-- 2021-05-17 — Gears on Unreal Engine 5 & New Coalition Projects - (Xbox In Ten - Ep. 103) — speakers: Unreal Engine, New Coalition Projects, Xbox Gaming News, Fun Fact
-- 2021-05-10 — Xbox Series X Outperforming PS5 in Mass Effect: Legendary Edition - (Xbox In Ten - Ep. 102) — speakers: Mass Effect, Legendary Edition, Xbox Gaming News, Fun Fact
-- 2021-05-03 — Halo Infinite PC Details + Cross Play & Progression - (Xbox In Ten - Ep. 101) — speakers: Halo Infinite, Cross Play, Xbox Gaming News, Fun Fact
-- 2021-04-26 — Xbox Cloud Gaming on PC and Apple Devices! - (Xbox In Ten - Ep. 100) — speakers: Xbox Cloud Gaming
-- 2021-04-19 — Journey the Sea of Thieves for Season 2 - (Xbox In Ten - Ep. 99) — speakers: Xbox Gaming News, Fun Fact
-- 2021-04-12 — Is Kojima Making an Xbox Exclusive Game? - (Xbox In Ten - Ep. 98) — speakers: Xbox Exclusive Game, Xbox Gaming News, Fun Fact
-- 2021-04-05 — Sony's MLB The Show 21 on Xbox Game Pass - (Xbox In Ten - Ep. 97) — speakers: Xbox Game Pass, Xbox Gaming News, Fun Fact
-- 2021-03-29 — Xbox Game Pass Getting 20 New Games at Launch - (Xbox In Ten - Ep. 96) — speakers: Xbox Game Pass Getting, New Games, Xbox Gaming News, Fun Fact
-- 2021-03-22 — EA Play Now on Game Pass for PC - (Xbox In Ten - Ep. 95) — speakers: Play Now, Game Pass, Xbox Gaming News, Fun Fact
-- 2021-03-15 — New Bethesda Games will be Exclusive to Xbox! - (Xbox In Ten - Ep. 94) — speakers: New Bethesda Games, Xbox Gaming News, Fun Fact
-- 2021-03-08 — No Major Xbox Announcement Events Soon - (Xbox In Ten - Ep. 93) — speakers: No Major Xbox Announcement, Events Soon, Xbox Gaming News, Fun Fact
-- 2021-03-01 — Halo Infinite: The Most Open & Adventure-Filled Halo Game Ever - (Xbox In Ten - Ep. 92) — speakers: Halo Infinite
-- 2021-02-22 — Doubling Frame Rates with FPS Boost on Series S/X - (Xbox In Ten - Ep. 91)
-- 2021-02-15 — Halo Infinite's Overhauled Vehicle Gameplay & MCC News - (Xbox In Ten - Ep. 90) — speakers: Halo Infinite, Overhauled Vehicle Gameplay, Xbox Gaming News, Fun Fact
-- 2021-02-08 — MLB The Show 2021 on Xbox! - (Xbox In Ten - Ep. 89) — speakers: Xbox Gaming News, Fun Fact
-- 2021-02-01 — Optimizing Halo Infinite on all Platforms - (Xbox In Ten - Ep. 88) — speakers: Optimizing Halo Infinite, Xbox Gaming News, Fun Fact
-- 2021-01-25 — Microsoft Reverses Xbox Live Gold Price Hike - (Xbox In Ten - Ep. 87) — speakers: Gold Price
-- 2021-01-18 — Lucasfilm Games & Goodbye EA Star Wars Exclusivity - (Xbox In Ten - Ep. 86) — speakers: Lucasfilm Games, Star Wars Exclusivity, Xbox Gaming News, Fun Fact
-- 2021-01-11 — Trying to Buy Nintendo got Microsoft Laughed At - (Xbox In Ten - Ep. 85) — speakers: Buy Nintendo
-- 2021-01-04 — Is Xbox Game Pass Game of the Year? - (Xbox In Ten - Ep. 84) — speakers: Xbox Gaming News, Fun Fact
-- 2020-12-28 — Take Flight in VR in Microsoft Flight Simulator - (Xbox In Ten - Ep. 83) — speakers: Take Flight, Microsoft Flight Simulator, Xbox Gaming News, Fun Fact
-- 2020-12-21 — Cyberpunk 2077 Performance & Refund Debacle - (Xbox In Ten - Ep. 82) — speakers: Refund Debacle, Xbox Gaming News, Fun Fact
-- 2020-12-14 — Halo Infinite Fall 2021 & Perfect Dark from The Initiative - (Xbox In Ten - Ep. 81) — speakers: Halo Infinite Fall, Perfect Dark, Xbox Gaming News, Fun Fact
-- 2020-12-07 — Holiday Xbox Game Pass Galore - (Xbox In Ten - Ep. 80) — speakers: Holiday Xbox Game Pass, Xbox Gaming News, Fun Fact
-- 2020-11-30 — Xbox Working on PS5 Outperforming on Certain Series X Games - (Xbox In Ten - Ep. 79) — speakers: Xbox Working
-- 2020-11-23 — Halo Infinite Updates Coming Soon - (Xbox In Ten - Ep. 78) — speakers: Halo Infinite Updates Coming, Xbox Gaming News, Fun Fact
-- 2020-11-16 — The Biggest Launch in Xbox History - (Xbox In Ten - Ep. 77) — speakers: Xbox History
-- 2020-11-09 — Review Roundup For Xbox Series X & Xbox Series S - (Xbox In Ten - Ep. 76) — speakers: Review Roundup
-- 2020-11-02 — Launch Kick Off Stream For Xbox Series S/X - (Xbox In Ten - Ep. 75) — speakers: Launch Kick Off Stream
-- 2020-10-26 — New Project xCloud Streaming Devices in the Works? - (Xbox In Ten - Ep. 74)
-- 2020-10-19 — 30 Games Fully Optimized on Series S/X Launch Day - (Xbox In Ten - Ep. 73) — speakers: Games Fully Optimized, Launch Day, Xbox Gaming News, Fun Fact
-- 2020-10-12 — Project xCloud to iPhones, iPads, Xbox Consoles & PC in 2021? - (Xbox In Ten - Ep. 72) — speakers: Xbox Consoles, Xbox Gaming News, Fun Fact
-- 2020-10-05 — EA Play Joins Xbox Game Pass Ultimate & Series X Impressions - (Xbox In Ten - Ep. 71) — speakers: Play Joins Xbox Game, Pass Ultimate, Xbox Gaming News, Fun Fact
-- 2020-09-28 — Xbox Buys Bethesda for $7.5 Billion - (Xbox In Ten - Ep. 70) — speakers: Xbox Buys Bethesda
-- 2020-09-21 — Xbox Series X & S Pre-Orders on September 22 - (Xbox In Ten - Ep. 69) — speakers: Xbox Gaming News, Fun Fact
-- 2020-09-14 — Xbox Series S ($299) and Series X ($499) Launch November 10 - (Xbox In Ten - Ep. 68) — speakers: Launch November, Xbox Gaming News, Fun Fact
-- 2020-09-07 — Another Week...Another Xbox Series S Leak - (Xbox In Ten - Ep. 67) — speakers: Another Week, Xbox Gaming News, Fun Fact
-- 2020-08-31 — Bungie Veteran Joins 343 to Help Halo Infinite - (Xbox In Ten - Ep. 66) — speakers: Bungie Veteran Joins, Help Halo Infinite, Xbox Gaming News, Fun Fact
-- 2020-08-24 — Is the Xbox Series X Going to Cost $600? - (Xbox In Ten - Ep. 65) — speakers: Xbox Gaming News, Fun Fact
-- 2020-08-17 — Halo Infinite Delayed from Series X November Launch - (Xbox In Ten - Ep. 64) — speakers: Halo Infinite Delayed
-- 2020-08-10 — Project xCloud Missing iOS on September 15 Launch - (Xbox In Ten - Ep. 63) — speakers: Xbox Gaming News, Fun Fact
-- 2020-08-03 — Free Halo Infinite Multiplayer! - (Xbox In Ten - Ep. 62) — speakers: Free Halo Infinite Multiplayer, Xbox Gaming News, Fun Fact
-- 2020-07-27 — Xbox Games Showcase July 2020 Recap - (Xbox In Ten - Ep. 61) — speakers: Xbox Games Showcase July, Xbox Gaming News, Fun Fact
-- 2020-07-20 — Free Project xCloud with Xbox Game Pass Ultimate! - (Xbox In Ten - Ep. 60) — speakers: Xbox Game Pass Ultimate
-- 2020-07-13 — Is Xbox Going to Purchase More 1st Party Studios? - (Xbox In Ten - Ep. 59) — speakers: Purchase More, Party Studios, Xbox Gaming News, Fun Fact
-- 2020-07-06 — Xbox's First Party July Event Reportedly Dated - (Xbox In Ten - Ep. 58) — speakers: First Party July Event, Reportedly Dated, Xbox Gaming News, Fun Fact
-- 2020-06-29 — Halo Infinite Teaser Confirms Return of The Banished - (Xbox In Ten - Ep. 57) — speakers: Halo Infinite Teaser Confirms, Xbox Gaming News, Fun Fact
-- 2020-06-22 — Xbox Series X to Keep Same Xbox One Dashboard - (Xbox In Ten - Ep. 56) — speakers: Keep Same Xbox One, Xbox Gaming News, Fun Fact
-- 2020-06-15 — Everything We Know About Xbox Series X So Far - (Xbox In Ten - Ep. 55) — speakers: So Far, Xbox Gaming News, Fun Fact
-- 2020-06-08 — Destiny 2 Year 4 Reveal & Game Delays - (Xbox In Ten - Ep. 54) — speakers: Game Delays, Xbox Gaming News, Fun Fact
-- 2020-06-01 — Xbox Series X Launching with Thousands of Games - (Xbox In Ten - Ep. 53)
-- 2020-05-25 — Gears of Wars 3 Port on PS3? - (Xbox In Ten - Ep. 52) — speakers: Xbox Gaming News, Fun Fact
-- 2020-05-18 — Is Microsoft Waiting For Sony to Reveal PS5 Price? - (Xbox In Ten - Ep. 51) — speakers: Xbox Gaming News, Fun Fact
-- 2020-05-11 — Inside Xbox May 2020 Recap - (Xbox In Ten - Ep. 50) — speakers: Inside Xbox May, Xbox Gaming News, Fun Fact
-- 2020-05-04 — First XSX Gameplay Showing This Week! - (Xbox In Ten - Ep. 49) — speakers: Xbox Gaming News, Fun Fact
-- 2020-04-27 — Xbox Series X Game Reveals Coming Soon! - (Xbox In Ten - Ep. 48) — speakers: Game Reveals Coming Soon, Xbox Gaming News, Fun Fact
-- 2020-04-20 — A Glow in the Dark Cyberpunk 2077 Xbox One X? - (Xbox In Ten - Ep. 47) — speakers: Dark Cyberpunk, Xbox One, Xbox Gaming News, Fun Fact
-- 2020-04-13 — Inside Xbox April 2020 News Recap - (Xbox In Ten - Ep. 46) — speakers: Inside Xbox April, News Recap, Xbox Gaming News, Fun Fact
-- 2020-04-06 — No Working Plan B for Xbox Series X Launch - (Xbox In Ten - Ep. 45) — speakers: No Working Plan, Xbox Gaming News, Fun Fact
-- 2020-03-30 — Microsoft Working to Maintain Xbox Live Amid Coronavirus - (Xbox In Ten - Ep. 44) — speakers: Microsoft Working, Xbox Gaming News, Fun Fact
-- 2020-03-23 — Full Spec Reveal of the Xbox Series X - (Xbox In Ten - Ep. 43) — speakers: Full Spec Reveal, Xbox Gaming News, Fun Fact
-- 2020-03-16 — An Xbox Digital Coming Event After E3's Cancellation - (Xbox In Ten - Ep. 42) — speakers: Event After, Xbox Gaming News, Fun Fact
-- 2020-03-09 — Bleeding Edge's New Crazy Cyborg Dolphin - (Xbox In Ten - Ep. 41) — speakers: Bleeding Edge, New Crazy Cyborg Dolphin, Xbox Gaming News, Fun Fact
-- 2020-03-02 — Xbox Series X & Next-Gen Details Galore - (Xbox In Ten - Ep. 40) — speakers: Gen Details Galore, Xbox Gaming News, Fun Fact
-- 2020-02-24 — Weapon Skins Returning to Halo Infinite - (Xbox In Ten - Ep. 39) — speakers: Weapon Skins Returning, Halo Infinite, Xbox Gaming News, Fun Fact
-- 2020-02-17 — Project xCloud Limited iOS TestFlight Preview Begins - (Xbox In Ten - Ep. 38) — speakers: Preview Begins, Xbox Gaming News, Fun Fact
-- 2020-02-10 — Xbox's Focus is on Amazon/Google Not Nintendo/Sony - (Xbox In Ten - Ep. 37) — speakers: Google Not Nintendo, Xbox Gaming News, Fun Fact
-- 2020-02-03 — Xbox's Studio The Initiative Doing New & "Old" Things - (Xbox In Ten - Ep. 36) — speakers: Xbox Gaming News, Fun Fact
-- 2020-01-27 — Alleged Photos of the Xbox Series X Console - (Xbox In Ten - Ep. 35) — speakers: Alleged Photos, Xbox Gaming News, Fun Fact
-- 2020-01-20 — Xbox at E3 2020 & Major Game Delays - (Xbox In Ten - Ep. 34) — speakers: Game Delays
-- 2020-01-13 — Largest Ever Console Processor In Xbox Series X - (Xbox In Ten - Ep. 33) — speakers: Largest Ever Console Processor, Xbox Gaming News, Fun Fact
-- 2020-01-06 — Leaked Specs for Xbox Series X vs PS5 - (Xbox In Ten - Ep. 32) — speakers: Leaked Specs
-- 2019-12-30 — Microsoft To Cut Down on Long Load Times in Game Pass - (Xbox In Ten - Ep. 31) — speakers: Long Load Times, Game Pass, Xbox Gaming News, Fun Fact
-- 2019-12-23 — The Next Gen of Xbox is Just...Xbox? - (Xbox In Ten - Ep. 30)
-- 2019-12-16 — Power Your Dreams with Xbox Series X - (Xbox In Ten - Ep. 29)
-- 2019-12-09 — Phil Spencer is Using Project Scarlett - (Xbox In Ten - Ep. 28) — speakers: Phil Spencer, Project Scarlett
-- 2019-12-02 — No VR on Xbox Project Scarlett? - (Xbox In Ten - Ep. 27) — speakers: Xbox Project Scarlett
-- 2019-11-25 — Xbox Scarlett to Support Play Anywhere - (Xbox In Ten - Ep. 26) — speakers: Xbox Scarlett
-- 2019-11-18 — Xbox's X019 News Blowout - (Xbox In Ten - Ep. 25) — speakers: News Blowout, Xbox Gaming News, Fun Fact
-- 2019-11-11 — Xbox's X019 Event Details - (Xbox In Ten - Ep. 24) — speakers: Event Details, Xbox Gaming News, Fun Fact
-- 2019-11-04 — Xbox All Access & An Upgrade Option to Scarlett - (Xbox In Ten - Ep. 23)
-- 2019-10-28 — Free Xbox Games with Taco Bell Food? - (Xbox In Ten - Ep. 22) — speakers: Taco Bell Food
-- 2019-10-21 — COD: Modern Warfare Battle Pass + Progression - (Xbox In Ten - Ep. 21) — speakers: Modern Warfare Battle Pass, Xbox Gaming News, Fun Fact
-- 2019-10-14 — Doom Eternal Delayed to March 2020 - (Xbox In Ten - Ep. 20) — speakers: Doom Eternal Delayed, Xbox Gaming News, Fun Fact
-- 2019-10-07 — Xbox Game Pass + Spotify Premium - (Xbox In Ten - Ep. 19) — speakers: Spotify Premium
-- 2019-09-30 — Project xCloud Public Tests in October - (Xbox In Ten - Ep. 18) — speakers: Public Tests, Xbox Gaming News, Fun Fact
-- 2019-09-23 — Create Custom Characters in Minecraft - (Xbox In Ten - Ep. 17) — speakers: Create Custom Characters, Xbox Gaming News, Fun Fact
-- 2019-09-16 — Resident Evil Project Resistance Revealed - (Xbox In Ten - Ep. 16) — speakers: Resident Evil Project Resistance, Xbox Gaming News, Fun Fact
-- 2019-09-09 — Gears 5 Release Week! - (Xbox In Ten - Ep. 15) — speakers: Release Week, Xbox Gaming News, Fun Fact
-- 2019-09-02 — Halo MCC Adding 6.6 Million User Maps - (Xbox In Ten - Ep. 14) — speakers: Million User Maps, Xbox Gaming News, Fun Fact
-- 2019-08-26 — Gamescom News Blowout - (Xbox In Ten - Ep. 13) — speakers: Gamescom News Blowout, Xbox Gaming News, Fun Fact
-- 2019-08-19 — Phil Spencer Talks Project Scarlett Details - (Xbox In Ten - Ep. 12) — speakers: Phil Spencer Talks, Scarlett Details
-- 2019-08-12 — Phil Spencer Confirms More Single Player Exclusives - (Xbox In Ten - Ep. 11) — speakers: Phil Spencer
-- 2019-08-05 — New Game Pass Games & No 4K Minecraft? - (Xbox In Ten - Ep. 10) — speakers: New Game Pass Games, Xbox Gaming News, Fun Fact
-- 2019-07-29 — New Xbox One Dashboard - (Xbox In Ten - Ep. 9) — speakers: New Xbox One Dashboard, Xbox Gaming News, Fun Fact
-- 2019-07-22 — Gamescom Plans For Xbox - (Xbox In Ten - Ep. 8) — speakers: Xbox Gaming News, Fun Fact
-- 2019-07-15 — New Xbox Controller Patents to Pair with Project xCloud - (Xbox In Ten - Ep. 7)
-- 2019-07-08 — Developer Thoughts on Xbox Game Pass - (Xbox In Ten - Ep. 6) — speakers: Developer Thoughts, Xbox Game Pass, Xbox Gaming News, Fun Fact
-- 2019-07-01 — Next Gen Console Prices vs. Trade Tariffs - (Xbox In Ten - Ep. 5) — speakers: Trade Tariffs
-- 2019-06-24 — The Focus Shifts To One Next Gen Xbox Console - (Xbox In Ten - Ep. 4) — speakers: One Next Gen Xbox, Xbox Gaming News, Fun Fact
-- 2019-06-17 — E3 2019 Xbox News Blowout - (Xbox In Ten - Ep. 3) — speakers: Xbox News Blowout, Xbox Gaming News, Fun Fact
-- 2019-06-10 — Destiny 2 Cross Saves, Free to Play & New Expansion - (Xbox In Ten - Ep. 2) — speakers: Cross Saves, New Expansion, Xbox Gaming News, Fun Fact
-- 2019-06-03 — Call of Duty Modern Warfare Reboot - (Xbox In Ten - Ep. 1) — speakers: Duty Modern Warfare Reboot, Xbox Gaming News, Fun Fact
-- 2019-06-03 — Welcome To The Xbox In Ten Podcast — speakers: Every Monday
+- 2026-02-20 — Phil Spencer Retiring, Sarah Bond Out & Matt Booty Promoted - (Xbox In Ten: An Xbox Podcast - Ep. 352) — speakers: Phil Spencer Retiring, Sarah Bond Out, Matt Booty Promoted, Brandon Rosa
+- 2026-02-16 — All The Xbox Reveals From February 2026's State Of Play - (Xbox In Ten: An Xbox Podcast - Ep. 351) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2026-02-09 — Xbox Release Windows Teased For Halo, Gears & More in 2026 - (Xbox In Ten: An Xbox Podcast - Ep. 350) — speakers: Xbox Release Windows Teased, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2026-02-02 — Xbox Hardware Revenue Dropping for Two Years Straight - (Xbox In Ten: An Xbox Podcast - Ep. 349) — speakers: Xbox Hardware Revenue Dropping, Two Years Straight, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2026-01-26 — Xbox Developer Direct 2026 Recap - (Xbox In Ten: An Xbox Podcast - Ep. 348) — speakers: Xbox Developer Direct, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2026-01-19 — Forza Horizon 6 Leaked Release Month? - (Xbox In Ten: An Xbox Podcast - Ep. 347) — speakers: Forza Horizon, Brandon Rosa
+- 2026-01-12 — Developer_Direct Returns January 22 & Fallout Remasters Coming? - (Xbox In Ten: An Xbox Podcast - Ep. 346) — speakers: Returns January, Fallout Remasters Coming, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2026-01-05 — Next-Gen Xbox Consoles Could be Delayed by Rising RAM Prices - (Xbox In Ten: An Xbox Podcast - Ep. 345) — speakers: Gen Xbox Consoles Could, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-12-29 — New Xbox Games for 2026 and Beyond - (Xbox In Ten: An Xbox Podcast - Ep. 344) — speakers: New Xbox Games, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-12-22 — The Status of Every Xbox Owned Video Game Studio - (Xbox In Ten: An Xbox Podcast - Ep. 343) — speakers: Every Xbox Owned Video, Game Studio, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-12-15 — The Game Awards 2025 Recap for Xbox - (Xbox In Ten: An Xbox Podcast - Ep. 342) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-12-08 — Fallout Creator Rejoins Obsidian...But Not Working On New Vegas 2? - (Xbox In Ten: An Xbox Podcast - Ep. 341) — speakers: Fallout Creator Rejoins Obsidian, Brandon Rosa
+- 2025-12-01 — Is Another Xbox Console Price Increase Coming Due to Ram Shortages? - (Xbox In Ten: An Xbox Podcast - Ep. 340) — speakers: Ram Shortages, Brandon Rosa
+- 2025-11-24 — Xbox FSE (Full Screen Experience) Releases on Handhelds + Partner Preview Recap - (Xbox In Ten: An Xbox Podcast - Ep. 339) — speakers: Full Screen Experience, Partner Preview Recap, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-11-17 — Valve's New Hardware Set to Compete With Xbox Next Generation - (Xbox In Ten: An Xbox Podcast - Ep. 338) — speakers: Xbox Next Generation, Brandon Rosa
+- 2025-11-10 — GTA 6 Is Delayed Again...Until November 2026 - (Xbox In Ten: An Xbox Podcast - Ep. 337) — speakers: Until November, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-11-03 — Huge Xbox Report Details the Next-Gen Console - (Xbox In Ten: An Xbox Podcast - Ep. 336) — speakers: Huge Xbox Report Details, Gen Console, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-10-27 — Halo: Campaign Evolved - A Halo 1 Remake Coming in 2026 - (Xbox In Ten: An Xbox Podcast - Ep. 335) — speakers: Campaign Evolved, Remake Coming, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-10-20 — Battlefield 6 Sold 7 Million Copies in 3 Days...Best Ever Launch - (Xbox In Ten: An Xbox Podcast - Ep. 334) — speakers: Battlefield Sold Million Copies, Brandon Rosa
+- 2025-10-13 — Xbox 'Magnus' Next Gen Console Leaks - (Xbox In Ten: An Xbox Podcast - Ep. 333) — speakers: Next Gen Console Leaks, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-10-06 — Game Pass Changes...$30/Month For Ultimate Now! - (Xbox In Ten: An Xbox Podcast - Ep. 332) — speakers: Game Pass Changes, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-09-29 — Forza Horizon 6 in Japan! + Xbox Reveals at Sony State of Play & Tokyo Game Show - (Xbox In Ten: An Xbox Podcast - Ep. 331) — speakers: Forza Horizon, Xbox Reveals, Brandon Rosa
+- 2025-09-22 — Microsoft is Raising Prices on Xbox Consoles in the US...Again - (Xbox In Ten: An Xbox Podcast - Ep. 330) — speakers: Raising Prices, Xbox Consoles, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-09-15 — 14 Xbox Games from September's Nintendo Direct - (Xbox In Ten: An Xbox Podcast - Ep. 329) — speakers: Xbox Games, Nintendo Direct, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-09-08 — Take Two Tried to Save Xbox's Perfect Dark Reboot - (Xbox In Ten: An Xbox Podcast - Ep. 328) — speakers: Take Two Tried, Save Xbox, Perfect Dark Reboot, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-09-01 — New Ways to Stream and Play with Cloud Gaming & Xbox Game Pass - (Xbox In Ten: An Xbox Podcast - Ep. 327) — speakers: Cloud Gaming, Xbox Game Pass, Brandon Rosa
+- 2025-08-25 — All The Xbox Reveals From Gamescom Opening Night Live 2025 - (Xbox In Ten: An Xbox Podcast - Ep. 326) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-08-18 — Helldivers 2 Teases a Halo 3 ODST Crossover Ahead of Xbox Release - (Xbox In Ten: An Xbox Podcast - Ep. 325) — speakers: Xbox Release, Brandon Rosa
+- 2025-08-11 — Xbox Cancels Contraband, 4 Years After E3 Announcement - (Xbox In Ten: An Xbox Podcast - Ep. 324) — speakers: Xbox Cancels Contraband, Years After, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-08-04 — Microsoft is Now the Top Publisher on PlayStation & Xbox - (Xbox In Ten: An Xbox Podcast - Ep. 323) — speakers: Top Publisher, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-07-28 — The Outer Worlds 2 will NOT be Microsoft's first $80 Xbox Game - (Xbox In Ten: An Xbox Podcast - Ep. 322) — speakers: Xbox Game, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-07-21 — Call Of Duty: Black Ops 7 Releasing on November 14 2025? - (Xbox In Ten: An Xbox Podcast - Ep. 321) — speakers: Black Ops, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-07-14 — Halo 1 Remake but No Multiplayer in 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 320) — speakers: No Multiplayer, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-07-07 — Xbox Layoffs, Game Cancellations, & Studio Closures Mark a Lowpoint for the Brand - (Xbox In Ten: An Xbox Podcast - Ep. 319) — speakers: Xbox Layoffs, Brandon Rosa
+- 2025-06-30 — Xbox PC Launcher Update Aggregates Steam, Epic, & Other PC Libraries - (Xbox In Ten: An Xbox Podcast - Ep. 318) — speakers: Launcher Update Aggregates Steam, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-06-23 — Xbox and AMD Partner for Next Gen Consoles - (Xbox In Ten: An Xbox Podcast - Ep. 317) — speakers: Next Gen Consoles, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-06-16 — Xbox Game Pass Price Increase Incoming? - (Xbox In Ten: An Xbox Podcast - Ep. 316) — speakers: Xbox Game Pass Price, Increase Incoming, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-06-08 — Xbox Showcase 2025 Recap + Summer Game Fest & State of Play - (Xbox In Ten: An Xbox Podcast - Ep. 315) — speakers: Xbox Showcase, Brandon Rosa
+- 2025-06-02 — Microsoft Reportedly Pulls Back Development on Its Own Xbox Handheld - (Xbox In Ten: An Xbox Podcast - Ep. 314) — speakers: Xbox Handheld, Brandon Rosa
+- 2025-05-26 — Xbox Adds 50+ Retro Games to Game Pass - (Xbox In Ten: An Xbox Podcast - Ep. 313) — speakers: Xbox Adds, Retro Games, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-05-19 — Bungie's Marathon Uses "Unauthorized" Artwork - (Xbox In Ten: An Xbox Podcast - Ep. 312) — speakers: Marathon Uses, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-05-12 — Gears of War: Reloaded Releasing Everywhere August 26 2025 - (Xbox In Ten: An Xbox Podcast - Ep. 311) — speakers: Reloaded Releasing Everywhere August, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-05-05 — GTA 6 Delayed & Xbox Raises Prices...On Everything - (Xbox In Ten: An Xbox Podcast - Ep. 310) — speakers: Xbox Raises Prices, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-04-28 — The Elder Scrolls 4: Oblivion Remastered Finally Releases - (Xbox In Ten: An Xbox Podcast - Ep. 309) — speakers: Oblivion Remastered Finally Releases, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-04-21 — Oblivion Remastered Releasing this Week?! - (Xbox In Ten: An Xbox Podcast - Ep. 308) — speakers: Oblivion Remastered Releasing, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-04-14 — Marathon Reveal + Release Date & Xbox's Game Showcase 2025 Dated - (Xbox In Ten: An Xbox Podcast - Ep. 307) — speakers: Marathon Reveal, Release Date, Game Showcase, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-04-07 — Asus and Xbox Tease Gaming Handheld - (Xbox In Ten: An Xbox Podcast - Ep. 306) — speakers: Xbox Tease Gaming Handheld, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-03-31 — Tencent's €1.16 Billion Investment to Save Ubisoft? - (Xbox In Ten: An Xbox Podcast - Ep. 305) — speakers: Brandon Rosa
+- 2025-03-24 — Steam on Xbox Evidence that Microsoft Removed - (Xbox In Ten: An Xbox Podcast - Ep. 304) — speakers: Xbox Evidence, Microsoft Removed, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-03-17 — Microsoft is Reportedly 'Partnering' on an Xbox Handheld for 2025 - (Xbox In Ten: An Xbox Podcast - Ep. 303) — speakers: Xbox Handheld, Brandon Rosa
+- 2025-03-10 — Gears of War Game Entries in 2025 & 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 302) — speakers: War Game Entries, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-03-03 — Fable Delayed to 2026 & ID@Xbox Showcase February 2025 Recap - (Xbox In Ten: An Xbox Podcast - Ep. 301) — speakers: Fable Delayed, Xbox Showcase February, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-02-24 — Xbox Introduces Muse, A Generative AI Model + Gunnar Dume Glasses Review - (Xbox In Ten: An Xbox Podcast - Ep. 300) — speakers: Xbox Introduces Muse, Gunnar Dume Glasses Review, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-02-17 — All The Xbox Reveals From February 2025's Sony State Of Play - (Xbox In Ten - Ep. 299) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-02-10 — GTA 6 Still Launching in 2025 - (Xbox In Ten - Ep. 298) — speakers: Still Launching, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-02-03 — Forza Horizon 5 Is Coming to PS5 - (Xbox In Ten - Ep. 297) — speakers: Forza Horizon, Brandon Rosa
+- 2025-01-27 — Xbox Developer_Direct 2025 Recap - (Xbox In Ten - Ep. 296) — speakers: Brandon Rosa
+- 2025-01-20 — Xbox's Developer Direct Surprise is Reportedly a Legendary Japanese IP - (Xbox In Ten - Ep. 295) — speakers: Developer Direct Surprise, Legendary Japanese, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-01-13 — Developer Direct Returns on January 23 for 2025 - (Xbox In Ten - Ep. 294) — speakers: Developer Direct Returns, Million Per Game, Brandon Rosa
+- 2025-01-06 — Kojima's Xbox Game 'OD' Suffered Setbacks In 2024 - (Xbox In Ten - Ep. 293) — speakers: Xbox Game, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2025-01-06 — Kojima's Xbox Game 'OD' Suffered Setbacks In 2024 - (Xbox In Ten - Ep. 293) — speakers: Xbox Game, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-12-30 — Over 25 Years of Classic Halo Content Leaks Online - (Xbox In Ten - Ep. 292) — speakers: Classic Halo Content Leaks, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-12-23 — Xbox Developer Direct Showcase in January 2025 with the Oblivion Remake? - (Xbox In Ten - Ep. 291) — speakers: Brandon Rosa
+- 2024-12-16 — The Game Awards 2024 Xbox Recap: All the Awards and Reveals - (Xbox In Ten - Ep. 290) — speakers: Xbox Recap, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-12-09 — Xbox Year in Review 2024 is Here - (Xbox In Ten - Ep. 289) — speakers: Xbox Year, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-12-02 — Xbox Is Shutting Down the Avatar Editor App - (Xbox In Ten - Ep. 288) — speakers: Brandon Rosa
+- 2024-11-25 — Stream Your Own Games with Xbox Cloud Gaming + Call of Duty Gunnar Glasses Review - (Xbox In Ten - Ep. 287) — speakers: Xbox Cloud Gaming Call, Brandon Rosa
+- 2024-11-18 — This is an Xbox is Microsoft's New Marketing Campaign - (Xbox In Ten - Ep. 286) — speakers: New Marketing Campaign, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-11-11 — Death Stranding's Surpise Xbox Release from Kojima Productions - (Xbox In Ten - Ep. 285) — speakers: Death Stranding, Brandon Rosa
+- 2024-11-04 — Call of Duty: Black Ops 6 is the Biggest Call of Duty Launch Ever & Sets Game Pass Records - (Xbox In Ten - Ep. 284) — speakers: Black Ops, Biggest Call, Duty Launch Ever, Sets Game Pass Records, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-10-28 — Is Joseph Staten Returning to Halo? - (Xbox In Ten - Ep. 283) — speakers: Joseph Staten Returning, Brandon Rosa
+- 2024-10-21 — Xbox Partner Preview October 2024 Recap - (Xbox In Ten - Ep. 282) — speakers: Xbox Partner Preview October, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-10-14 — Halo Moving to Unreal Engine 5 Under Rebranded Halo Studios - (Xbox In Ten - Ep. 281) — speakers: Halo Moving, Unreal Engine, Under Rebranded Halo Studios, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-10-07 — Microsoft is Seeking Feedback from Studios Not Launching on Xbox - (Xbox In Ten - Ep. 280) — speakers: Seeking Feedback, Studios Not Launching, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-09-30 — All Xbox News from Tokyo Game Show and Sony's State of Play - (Xbox In Ten - Ep. 279) — speakers: All Xbox News, Tokyo Game Show, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-09-23 — Xbox Tokyo Game Show 2024 Broadcast Details and Final Fantasy Showing Up? - (Xbox In Ten - Ep. 278) — speakers: Xbox Tokyo Game Show, Broadcast Details, Final Fantasy Showing Up, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-09-16 — Call of Duty: Black Ops 6 Skipping Campaign Early Access - (Xbox In Ten - Ep. 277) — speakers: Black Ops, Skipping Campaign Early Access, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-09-09 — The Xbox Broadcast Returns to TGS 2024 - (Xbox In Ten - Ep. 276) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-09-02 — Call of Duty Next 2024: Everything Announced for Black Ops 6 and Warzone - (Xbox In Ten - Ep. 275) — speakers: Duty Next, Everything Announced, Black Ops, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-08-26 — Gamescom Opening Night Live 2024 Xbox Reveals - (Xbox In Ten - Ep. 274) — speakers: Xbox Reveals, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-08-19 — Hi-Fi Rush IP and Tango Gameworks Resurrected by Krafton - (Xbox In Ten - Ep. 273) — speakers: Tango Gameworks Resurrected, Brandon Rosa
+- 2024-08-12 — Avowed Delayed until February 18th, 2025 - (Xbox In Ten - Ep. 272) — speakers: Avowed Delayed, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-08-05 — Xbox Hardware Revenue Down 42% From Last Year & Destiny Troubles - (Xbox In Ten - Ep. 271) — speakers: Xbox Hardware Revenue, Brandon Rosa
+- 2024-07-29 — GTA 6 Unaffected by SAG-AFTRA Strike - (Xbox In Ten - Ep. 270) — speakers: Sag-Aftra Strike, Brandon Rosa
+- 2024-07-22 — EA College Football 25 Team Builder Releases with Game - (Xbox In Ten - Ep. 269) — speakers: Brandon Rosa
+- 2024-07-15 — Xbox Game Pass Changes and Price Hikes - (Xbox In Ten - Ep. 268) — speakers: Xbox Game Pass Changes, Price Hikes, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-07-08 — Dead Rising Deluxe Remaster Release September 19 - (Xbox In Ten - Ep. 267) — speakers: Dead Rising Deluxe Remaster, Release September, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-07-01 — Xbox Cloud Gaming Coming to Amazon Fire TV - (Xbox In Ten - Ep. 266) — speakers: Xbox Cloud Gaming Coming, Brandon Rosa
+- 2024-06-24 — Xbox Is Going Big at Gamescom 2024 & More Exclusives on Other Platforms? - (Xbox In Ten - Ep. 265) — speakers: More Exclusives, Other Platforms, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-06-17 — Xbox Handheld Teased by Phil Spencer - (Xbox In Ten - Ep. 264) — speakers: Xbox Handheld Teased, Phil Spencer, Brandon Rosa
+- 2024-06-10 — Xbox Games Showcase 2024, Call of Duty Direct & Summer Games Fest Recaps - (Xbox In Ten - Ep. 263) — speakers: Xbox Games Showcase, Duty Direct, Summer Games Fest Recaps, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-06-03 — Microsoft Confirms Call of Duty: Black Ops 6 is Coming to Xbox Game Pass - (Xbox In Ten - Ep. 262) — speakers: Microsoft Confirms Call, Black Ops, Xbox Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-05-27 — Call of Duty Black Ops 6 - A "Dark New Chapter" in the Franchise - (Xbox In Ten - Ep. 261) — speakers: Duty Black Ops, Dark New Chapter, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-05-20 — Call of Duty 2024 in Xbox Game Pass? - (Xbox In Ten - Ep. 260) — speakers: Xbox Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-05-13 — Microsoft Closes Arkane Austin, Tango Gameworks, and More in Cuts at Bethesda - (Xbox In Ten - Ep. 259) — speakers: Arkane Austin, Tango Gameworks, Brandon Rosa
+- 2024-05-06 — Xbox Games Showcase Followed by REDACTED Direct on June 9 - (Xbox In Ten - Ep. 258) — speakers: Xbox Games Showcase Followed, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-04-29 — Xbox Gaming Financials Boosted by Activision Blizzard - (Xbox In Ten - Ep. 257) — speakers: Activision Blizzard, Brandon Rosa
+- 2024-04-22 — Fallout Games See Massive Player Boost After Show's Release - (Xbox In Ten - Ep. 256) — speakers: Fallout Games See Massive, Player Boost After Show, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-04-15 — The Fallout 4 Next-Gen Update Finally Out Later this Month - (Xbox In Ten - Ep. 255) — speakers: Gen Update Finally Out, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-04-08 — Senua's Saga: Hellblade 2 Runs at 30 FPS & Previews are Excellent! - (Xbox In Ten - Ep. 254) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-04-01 — Steam and Epic Games Store on Xbox Consoles? - (Xbox In Ten - Ep. 253) — speakers: Epic Games Store, Xbox Consoles, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-03-25 — What is the New Xbox Dev Kit that was Certified in South Korea? - (Xbox In Ten - Ep. 252) — speakers: New Xbox Dev Kit, South Korea, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-03-18 — Minecraft Now Has a Subscription Service - (Xbox In Ten - Ep. 251) — speakers: Subscription Service, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-03-11 — Xbox Partner Preview March 2024 Recap - (Xbox In Ten - Ep. 250) — speakers: Xbox Partner Preview March, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-03-04 — Is a Cheaper All-Digital Xbox Series X Launching in 2024? - (Xbox In Ten - Ep. 249) — speakers: Cheaper All, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-02-26 — Pentiment, Hi-Fi RUSH, Grounded & Sea of Thieves Coming to Play Station & Switch - (Xbox In Ten - Ep. 248) — speakers: Thieves Coming, Play Station, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-02-19 — Xbox Business Update Summary = Salvation? - (Xbox In Ten - Ep. 247) — speakers: Xbox Business Update Summary, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-02-12 — Microsoft Will Share Details on Xbox Games Going to PlayStation this Week - (Xbox In Ten - Ep. 246) — speakers: Microsoft Will Share Details, Xbox Games Going, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-02-05 — Brandon's 2023 Games Played & Game of the Year - (Xbox In Ten - Ep. 245) — speakers: Games Played, Overall Games, Brandon Rosa
+- 2024-01-29 — Palword Sells 7 Million Copies in 5 Days & Details Roadmap - (Xbox In Ten - Ep. 244) — speakers: Palword Sells, Million Copies, Details Roadmap, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-01-22 — Xbox Developer_Direct: All the News and Announcements - (Xbox In Ten - Ep. 243) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-01-15 — Xbox to Present Developer_Direct on January 18 - (Xbox In Ten - Ep. 242) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-01-08 — Xbox Developer Direct 2024 in January? - (Xbox In Ten - Ep. 241) — speakers: Xbox Developer Direct, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2024-01-01 — 2024 Update: New Games Coming to Xbox & All Game Pass Releases - (Xbox In Ten - Ep. 240) — speakers: New Games Coming, All Game Pass Releases, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-12-25 — Bobby Kotick Leaving Activision Blizzard on December 29 - (Xbox In Ten - Ep. 239) — speakers: Activision Blizzard, Brandon Rosa
+- 2023-12-18 — "Free" Xbox Game Pass in Exchange for Watching Ads? - (Xbox In Ten - Ep. 238) — speakers: Xbox Game Pass, Watching Ads, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-12-11 — The Game Awards 2023 Xbox Announcements - (Xbox In Ten - Ep. 237) — speakers: Xbox Announcements, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-12-04 — GTA 6 Trailer Reveal on Tuesday Will Break the Internet - (Xbox In Ten - Ep. 236) — speakers: Will Break, Brandon Rosa
+- 2023-11-27 — Xbox Series X/S European Sales Tank - (Xbox In Ten - Ep. 235) — speakers: European Sales Tank, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-11-20 — Modern Warfare 3 Season 1 Details - (Xbox In Ten - Ep. 234) — speakers: Modern Warfare, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-11-13 — Modern Warfare 3 Reportedly Developed in Just 16 Months - (Xbox In Ten - Ep. 233) — speakers: Modern Warfare, Reportedly Developed, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-11-06 — Bungie Layoffs, Trust Issues & Potential Delays - (Xbox In Ten - Ep. 232) — speakers: Bungie Layoffs, Brandon Rosa
+- 2023-10-30 — Xbox Partner Preview Showcase Recap & New President Announcement - (Xbox In Ten - Ep. 231) — speakers: Xbox Partner Preview Showcase, New President Announcement, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-10-23 — Phil Spencer Explains Lack of Activision Games on Game Pass in 2023 - (Xbox In Ten - Ep. 230) — speakers: Phil Spencer, Brandon Rosa
+- 2023-10-16 — Xbox Fully Acquires Activision Blizzard King...FINALLY - (Xbox In Ten - Ep. 229) — speakers: Blizzard King, Brandon Rosa
+- 2023-10-09 — Microsoft Reportedly Aiming to Complete Activision Blizzard Acquisition this Week! - (Xbox In Ten - Ep. 228) — speakers: Microsoft Reportedly Aiming, Complete Activision Blizzard Acquisition, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-10-02 — FTC Challenges Microsoft's Activision Blizzard Deal...Again - (Xbox In Ten - Ep. 227) — speakers: Challenges Microsoft, Activision Blizzard Deal, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-09-25 — Biggest Xbox Leak in History, Tokyo Game Show Recap & CMA Approval - (Xbox In Ten - Ep. 226) — speakers: Xbox Leak, Brandon Rosa
+- 2023-09-18 — Starfield Updates & Official Mod Support in 2024 - (Xbox In Ten - Ep. 225) — speakers: Mod Support, Brandon Rosa
+- 2023-09-11 — Microsoft Announces Xbox Digital Broadcast for Tokyo Game Show 2023 - (Xbox In Ten - Ep. 224) — speakers: Xbox Digital Broadcast, Brandon Rosa
+- 2023-09-04 — Starfield Early Access Passes 230,000 Concurrent Players on Steam - (Xbox In Ten - Ep. 223) — speakers: Starfield Early Access Passes, Concurrent Players, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-08-28 — Starfield Reviews Go Live August 31! - (Xbox In Ten - Ep. 222) — speakers: Brandon Rosa
+- 2023-08-21 — Starfield Preloads Go Live! - (Xbox In Ten - Ep. 221) — speakers: Starfield Preloads Go, Brandon Rosa
+- 2023-08-14 — Call of Duty Modern Warfare 3 Releases November 10, 2023 - (Xbox In Ten - Ep. 220) — speakers: Duty Modern Warfare, Releases November, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-08-07 — Microsoft Reveals Xbox at Gamescom 2023 Plans - (Xbox In Ten - Ep. 219) — speakers: Microsoft Reveals Xbox, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-07-31 — Final Fantasy 14 and More Coming to Xbox from Square Enix - (Xbox In Ten - Ep. 218) — speakers: Final Fantasy, More Coming, Square Enix, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-07-24 — Xbox Game Pass Core Replaces Xbox Live Gold in September - (Xbox In Ten - Ep. 217) — speakers: Brandon Rosa
+- 2023-07-17 — Microsoft Finally Set to Acquire Activision Blizzard via Win vs FTC. - (Xbox In Ten - Ep. 216) — speakers: Activision Blizzard, Brandon Rosa
+- 2023-07-10 — ID@Xbox Demo Fest Returns July 11 - (Xbox In Ten - Ep. 215) — speakers: Xbox Demo Fest Returns, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-07-03 — 12 Big & Shocking Reveals From the Xbox FTC Trial - (Xbox In Ten - Ep. 214) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-06-26 — Microsoft vs FTC Hearing & Everything We Learned - (Xbox In Ten - Ep. 213) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-06-19 — Everything Revealed at Xbox Games Showcase Extended 2023 - (Xbox In Ten - Ep. 212) — speakers: Everything Revealed, Xbox Games Showcase Extended, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-06-11 — Xbox Games Showcase 2023, Starfield Direct & Summer Games Fest 2023 Recaps - (Xbox In Ten - Ep. 211) — speakers: Xbox Games Showcase, Starfield Direct, Summer Games Fest, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-06-05 — Redfall's Rocky Development Lost Arkane 70% Of It's Prey's Dev Team - (Xbox In Ten - Ep. 210) — speakers: Rocky Development Lost Arkane, Dev Team, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-05-29 — Xbox Confirms 12 Games from PlayStation Showcase - (Xbox In Ten - Ep. 209) — speakers: Xbox Confirms Games, Brandon Rosa
+- 2023-05-22 — Xbox PC Games For NVIDIA GeForce NOW Members - (Xbox In Ten - Ep. 208) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-05-15 — Diablo IV Battle Pass and Post-Launch Content Prices Revealed - (Xbox In Ten - Ep. 207) — speakers: Battle Pass, Launch Content Prices Revealed, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-05-08 — Phil Spencer Apologizes for Redfall and Takes Ownership of Xbox Mistakes - (Xbox In Ten - Ep. 206) — speakers: Phil Spencer Apologizes, Brandon Rosa
+- 2023-05-01 — Microsoft's Activision Blizzard Deal Blocked by UK Regulator (CMA) - (Xbox In Ten - Ep. 205) — speakers: Activision Blizzard Deal Blocked, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-04-24 — Diablo IV Server Slam Beta Arrives on May 12 - (Xbox In Ten - Ep. 204) — speakers: Server Slam Beta Arrives, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-04-17 — Redfall Launching at 30fps on Xbox Series X|S - (Xbox In Ten - Ep. 203) — speakers: Redfall Launching, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-04-10 — Cheaper New Xbox Series X|S 1TB Storage Expansion Option on the Way - (Xbox In Ten - Ep. 202) — speakers: Storage Expansion Option, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-04-03 — Microsoft's $1 Xbox Game Pass Offer is No More - (Xbox In Ten - Ep. 201) — speakers: Xbox Game Pass Offer, No More, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-03-27 — The CMA States the Xbox Activision Deal Won't "Substantially Lessen" UK Console Gaming Competition - (Xbox In Ten - Ep. 200) — speakers: Xbox Activision Deal Won, Substantially Lessen, Console Gaming Competition, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-03-20 — Microsoft Is Signing Deals to Bring Activision Games to More Services - (Xbox In Ten - Ep. 199) — speakers: Bring Activision Games, More Services, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-03-13 — Starfield Delayed to September & Starfield Direct in June - (Xbox In Ten - Ep. 198) — speakers: Starfield Delayed, Brandon Rosa
+- 2023-03-06 — Elden Ring DLC is In Active Development - (Xbox In Ten - Ep. 197) — speakers: Elden Ring Dlc, Brandon Rosa
+- 2023-02-27 — Microsoft Signs 10-Year Deal To Bring Call Of Duty To Nintendo - (Xbox In Ten - Ep. 196) — speakers: Microsoft Signs, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-02-20 — Diablo IV Open Beta Coming Soon - (Xbox In Ten - Ep. 195) — speakers: Open Beta Coming Soon, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-02-13 — Is the Microsoft's Activision Acquisition in Peril after UK Regulator Warnings? - (Xbox In Ten - Ep. 194) — speakers: Regulator Warnings, Brandon Rosa
+- 2023-02-06 — Is a Smaller 343 Industries Making the Next Halo Game in Unreal? - (Xbox In Ten - Ep. 193) — speakers: Industries Making, Next Halo Game, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-01-30 — Xbox & Bethesda Developer_Direct Showcase Summary - (Xbox In Ten - Ep. 192) — speakers: Showcase Summary, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-01-23 — Microsoft Layoffs Hit Multiple Xbox Game Studios & Joseph Staten Leaves Halo - (Xbox In Ten - Ep. 191) — speakers: Joseph Staten, Brandon Rosa
+- 2023-01-17 — Monster Hunter Rise Review: A 24 Hour Single Player POV - (Xbox in Ten Podcast Review) — speakers: Monster Hunter Rise Review, Hour Single Player, Hour Single Player Point, Pass If, Brandon Rosa
+- 2023-01-16 — Xbox & Bethesda to Present Developer_Direct Livestream on January 25 - (Xbox In Ten - Ep. 190) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2023-01-09 — Bethesda Reiterates Starfield's Release in First Half of 2023 - (Xbox In Ten - Ep. 189) — speakers: Reiterates Starfield, Brandon Rosa
+- 2023-01-02 — Xbox Game Pass 2023 Games List & Release Dates - (Xbox In Ten - Ep. 188) — speakers: Xbox Game Pass, Brandon Rosa
+- 2022-12-26 — Microsoft Confirms Sony Blocked 4 Games from Xbox Forever - (Xbox In Ten - Ep. 187) — speakers: Microsoft Confirms Sony Blocked, Xbox Forever, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-12-19 — Microsoft Could Introduce a Cheaper, Ad-Supported Game Pass Tier - (Xbox In Ten - Ep. 186) — speakers: Microsoft Could Introduce, Supported Game Pass Tier, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-12-12 — Microsoft Sued by FTC for ABK Acquisition & The Game Awards Recap - (Xbox In Ten - Ep. 185) — speakers: Microsoft Sued, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-12-05 — Play 16 of The Game Awards 2022 Nominees in Game Pass - (Xbox In Ten - Ep. 184) — speakers: Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-11-28 — The Next Xbox Consoles are Coming in 2028 at the Earliest - (Xbox In Ten - Ep. 183) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-11-21 — Xbox Shelved Game Streaming Box Due to High Cost - (Xbox In Ten - Ep. 182) — speakers: Streaming Box, Brandon Rosa
+- 2022-11-14 — Battlefield 2042 on Xbox Game Pass with Season 3 - (Xbox In Ten - Ep. 181) — speakers: Brandon Rosa
+- 2022-11-07 — Microsoft Promises to Keep Call of Duty on PlayStation - (Xbox In Ten - Ep. 180) — speakers: Microsoft Promises, Keep Call, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-10-31 — Xbox Won't be Able to Avoid Price Hikes Forever - (Xbox In Ten - Ep. 179) — speakers: Xbox Won, Avoid Price Hikes Forever, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-10-24 — Sony & Activision's Deal Blocks Call of Duty from Game Pass for "Years" - (Xbox In Ten - Ep. 178) — speakers: Deal Blocks Call, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-10-17 — Modern Warfare 2 Phone Requirements & Campaign Unlocks for MP - (Xbox In Ten - Ep. 177) — speakers: Modern Warfare, Phone Requirements, Campaign Unlocks, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-10-10 — Is Halo Infinite Ditching the Slipspace Engine for Unreal? - (Xbox In Ten - Ep. 176) — speakers: Slipspace Engine, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-10-03 — New Overwatch 2 Players Need 100 Matches to get Old Characters - (Xbox In Ten - Ep. 175) — speakers: New Overwatch, Players Need, Old Characters, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-09-26 — Certain Affinity has 100 People Working on a Big Halo Infinite Project - (Xbox In Ten - Ep. 174) — speakers: Certain Affinity, People Working, Big Halo Infinite Project, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-09-19 — Halo Boss Bonnie Ross Leaves 343 & Tokyo Game Show Recap - (Xbox In Ten - Ep. 173) — speakers: Halo Boss Bonnie Ross, Brandon Rosa
+- 2022-09-12 — Ubisoft Forward 2022 Recap & Sony Punching Back on COD Exclusivity - (Xbox In Ten - Ep. 172) — speakers: Ubisoft Forward, Sony Punching Back, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-09-05 — Halo Infinite's Bad News After Bad News - Forge/Co-Op in November - (Xbox In Ten - Ep. 171) — speakers: Halo Infinite, Bad News After Bad, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-08-29 — No Plan to Increase the Prices of the Xbox Series X/S Consoles - (Xbox In Ten - Ep. 170) — speakers: No Plan, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-08-22 — Death Stranding coming to PC Game Pass this Week? - (Xbox In Ten - Ep. 169) — speakers: Death Stranding, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-08-15 — Xbox's Gamescom Plans & Sony Blocking Games from Game Pass - (Xbox In Ten - Ep. 168) — speakers: Gamescom Plans, Sony Blocking Games, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-08-08 — Microsoft is Improving Xbox Series S Graphical Performance - (Xbox In Ten - Ep. 167) — speakers: Graphical Performance, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-08-01 — An EA Black Panther Game is Reportedly In Development - (Xbox In Ten - Ep. 166) — speakers: Black Panther Game, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-07-25 — Connecting Xbox Calls from Consoles to Discord Finally Arrives - (Xbox In Ten - Ep. 165) — speakers: Xbox Calls, Brandon Rosa
+- 2022-07-18 — EA's New Skate will be Free to Play & Live Service - (Xbox In Ten - Ep. 164) — speakers: New Skate, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-07-11 — Xbox Series Has Already Sold More than Double Xbox One in Japan - (Xbox In Ten - Ep. 163) — speakers: Sold More, Double Xbox One, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-07-04 — Halo Infinite Campaign Co-op Beta Finally on July 11 - (Xbox In Ten - Ep. 162) — speakers: Halo Infinite Campaign Co, Beta Finally, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-06-27 — Overwatch 2 Will Replace Overwatch at Launch - (Xbox In Ten - Ep. 161) — speakers: Will Replace Overwatch, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-06-20 — Xbox Games Showcase Extended 2022 Recap + ID@Xbox Demo Event - (Xbox In Ten - Ep. 160) — speakers: Xbox Games Showcase Extended, Xbox Demo Event, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-06-13 — The Giant Xbox + Bethesda Showcase 2022 Recap - (Xbox In Ten - Ep. 159) — speakers: Bethesda Showcase, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-06-06 — Resident Evil 4 Remake Coming Early 2023 - (Xbox In Ten - Ep. 158) — speakers: Resident Evil, Remake Coming Early, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-05-30 — Star Wars Jedi: Survivor Revealed for 2023 - (Xbox In Ten - Ep. 157) — speakers: Wars Jedi, Brandon Rosa
+- 2022-05-23 — Xbox Outsells PlayStation in Japan for First Time in 8 years - (Xbox In Ten - Ep. 156) — speakers: Xbox Outsells PlayStation, Brandon Rosa
+- 2022-05-16 — Starfield and Redfall Delayed to 2023 - (Xbox In Ten - Ep. 155) — speakers: Brandon Rosa
+- 2022-05-09 — Fortnite Back on iOS as Xbox Cloud Gaming Evolves - (Xbox In Ten - Ep. 154) — speakers: Xbox Cloud Gaming Evolves, Brandon Rosa
+- 2022-05-02 — Xbox and Bethesda Games Showcase on June 12 - (Xbox In Ten - Ep. 153) — speakers: Bethesda Games Showcase, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-04-25 — Halo Infinite Getting 3 New Multiplayer Modes Including a Battle Royale? - (Xbox In Ten - Ep. 152) — speakers: Halo Infinite Getting, New Multiplayer Modes Including, Battle Royale, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-04-18 — Halo: Master Chief Collection Adds Cross-Platform Co-op - (Xbox In Ten - Ep. 151) — speakers: Master Chief Collection Adds, Platform Co, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-04-11 — Halo Infinite Season 2 in May - New Maps, Modes, And Events - (Xbox In Ten - Ep. 150) — speakers: Brandon Rosa
+- 2022-04-04 — Is An Xbox Game Pass Family Plan Coming? - (Xbox In Ten - Ep. 149) — speakers: Pass Family Plan Coming, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-03-28 — Is Fortnite No-Build Mode is Here to Stay? - (Xbox In Ten - Ep. 148) — speakers: Build Mode, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-03-21 — Hogwarts Legacy Looks Great & Sets to Release This Holiday - (Xbox In Ten - Ep. 147) — speakers: Hogwarts Legacy Looks Great, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-03-14 — Halo Infinite Campaign Co-op Delayed Again - (Xbox In Ten - Ep. 146) — speakers: Halo Infinite Campaign Co, Delayed Again, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-03-07 — Resident Evil 2, 3 and 7 Getting Xbox Series X/S Upgrades - (Xbox In Ten - Ep. 145) — speakers: Resident Evil, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-02-28 — Elden Ring Is One of the Best-Reviewed Games of All Time - (Xbox In Ten - Ep. 144) — speakers: Brandon Rosa
+- 2022-02-21 — Cyberpunk 2077's Next-Gen Update Finally on Xbox Series X / S - (Xbox In Ten - Ep. 143) — speakers: Gen Update Finally, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-02-14 — Warzone 2 & Modern Warfare 2019 Sequel Announced - (Xbox In Ten - Ep. 142) — speakers: Modern Warfare, Sequel Announced, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-02-07 — Sony Buys Bungie but Future Games Will Remain on Xbox - (Xbox In Ten - Ep. 141) — speakers: Buys Bungie, Brandon Rosa
+- 2022-01-31 — Is a Halo Battle Royale and Monster Hunter Clone Coming to Xbox? - (Xbox In Ten - Ep. 140) — speakers: Halo Battle Royale, Monster Hunter Clone Coming, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-01-24 — Microsoft Purchases Activision Blizzard King - (Xbox In Ten - Ep. 139) — speakers: Blizzard King, Brandon Rosa
+- 2022-01-17 — Xbox Series X|S Become Fastest-Selling Microsoft Consoles - (Xbox In Ten - Ep. 138) — speakers: Become Fastest, Selling Microsoft Consoles, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-01-10 — Is Goldeneye 007 Returning on Xbox? - (Xbox In Ten - Ep. 137) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2022-01-03 — Another New Remedy Project & Game Pass in 2022 - (Xbox In Ten - Ep. 136) — speakers: Another New Remedy Project, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-12-27 — Double Fine Working on Multiple New Projects - (Xbox In Ten - Ep. 135) — speakers: Double Fine Working, Multiple New Projects, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-12-20 — Slayer Playlists Arrive in Halo Infinite - (Xbox In Ten - Ep. 134) — speakers: Slayer Playlists Arrive, Halo Infinite, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-12-13 — Halo Infinite's Open World Cut Down From Zelda Like Size - (Xbox In Ten - Ep. 133) — speakers: Brandon Rosa
+- 2021-12-06 — Monthly Halo Infinite Freebies with Game Pass Ultimate - (Xbox In Ten - Ep. 132) — speakers: Game Pass Ultimate, Brandon Rosa
+- 2021-11-29 — Halo Infinite Changes "Will Take Time" - (Xbox In Ten - Ep. 131) — speakers: Halo Infinite Changes, Brandon Rosa
+- 2021-11-22 — Halo Infinite Multiplayer Launch & Xbox 20 Year Celebration - (Xbox In Ten - Ep. 130) — speakers: Halo Infinite Multiplayer Launch, Year Celebration, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-11-15 — 2 New Xbox Exclusives Reportedly Leaked - (Xbox In Ten - Ep. 129) — speakers: New Xbox Exclusives Reportedly, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-11-08 — Halo Infinite Battle Pass Details - (Xbox In Ten - Ep. 128) — speakers: Halo Infinite Battle Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-11-01 — New Wu-Tang Clan RPG In Development for Xbox? - (Xbox In Ten - Ep. 127) — speakers: New Wu, Tang Clan, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-10-25 — New Starfield Video About the "Settled Systems" - (Xbox In Ten - Ep. 126) — speakers: New Starfield Video About, Settled Systems, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-10-18 — Avowed Reportedly is Deep Into Pre-Production - (Xbox In Ten - Ep. 125) — speakers: Avowed Reportedly, Deep Into Pre, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-10-11 — Xbox Cloud Gaming Now Powered by Series X Hardware - (Xbox In Ten - Ep. 124) — speakers: Xbox Cloud Gaming Now, Brandon Rosa
+- 2021-10-04 — Xbox Console Supply Issues Will Continue into 2022 - (Xbox In Ten - Ep. 123) — speakers: Xbox Console Supply Issues, Will Continue, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-09-27 — Perfect Dark Reboot Co-Developed by Crystal Dynamics? - (Xbox In Ten - Ep. 122) — speakers: Perfect Dark Reboot Co, Crystal Dynamics, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-09-20 — More Delays into 2022 and Leaks Galore - (Xbox In Ten - Ep. 121) — speakers: Leaks Galore, Brandon Rosa
+- 2021-09-13 — Another Halo Infinite's Multiplayer Preview Upcoming - (Xbox In Ten - Ep. 120) — speakers: Another Halo Infinite, Multiplayer Preview Upcoming, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-09-06 — Exclusive Xbox News Coming for Tokyo Game Show 2021 - (Xbox In Ten - Ep. 119) — speakers: Exclusive Xbox News Coming, Tokyo Game Show, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-08-30 — Halo Infinite Launches December 8th - (Xbox In Ten - Ep. 118) — speakers: Halo Infinite Launches December, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-08-23 — Halo Infinite Launching Without Campaign Co-op & Forge - (Xbox In Ten - Ep. 117) — speakers: Halo Infinite Launching Without, Campaign Co, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-08-16 — Xbox Gamescom 2021 Showcase Confirmed - (Xbox In Ten - Ep. 116) — speakers: Xbox Gamescom, Brandon Rosa
+- 2021-08-09 — A Halo Battle Royale Reference Found in the Files - (Xbox In Ten - Ep. 115) — speakers: Halo Battle Royale Reference, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-08-02 — Larger Halo Infinite's Technical Previews to Come - (Xbox In Ten - Ep. 114) — speakers: Larger Halo Infinite, Technical Previews, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-07-26 — Halo Infinite's Technical Preview Starts Next Week? - (Xbox In Ten - Ep. 113) — speakers: Halo Infinite, Technical Preview Starts Next, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-07-19 — A Handheld Xbox Thanks to Valve's Steam Deck? - (Xbox In Ten - Ep. 112) — speakers: Handheld Xbox Thanks, Steam Deck, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-07-12 — Deathloop on Xbox in September 2022? - (Xbox In Ten - Ep. 111) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-07-05 — Xbox Cloud Gaming on iOS, PC and Hardware Upgrades - (Xbox In Ten - Ep. 110) — speakers: Xbox Cloud Gaming, Brandon Rosa
+- 2021-06-27 — Halo Infinite's 1st MP Season will be Reach Themed - (Xbox In Ten - Ep. 109) — speakers: Halo Infinite, Brandon Rosa
+- 2021-06-21 — Halo Infinite Free Multiplayer Details Galore - (Xbox In Ten - Ep. 108) — speakers: Halo Infinite Free Multiplayer, Details Galore, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-06-14 — Best Xbox Showcase to Date! - E3 2021 Recap - (Xbox In Ten - Ep. 107) — speakers: Xbox Showcase, Brandon Rosa
+- 2021-06-07 — A Leaked Marvel XCOM & Borderlands Spin Off Coming? - (Xbox In Ten - Ep. 106) — speakers: Leaked Marvel, Borderlands Spin Off Coming, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-05-31 — Xbox & Bethesda E3 2021 Showcase Coming Soon! - (Xbox In Ten - Ep. 105) — speakers: Showcase Coming Soon, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-05-24 — Starfield Heavily Rumored for 2022 - (Xbox In Ten - Ep. 104) — speakers: Starfield Heavily Rumored, Brandon Rosa
+- 2021-05-17 — Gears on Unreal Engine 5 & New Coalition Projects - (Xbox In Ten - Ep. 103) — speakers: Unreal Engine, New Coalition Projects, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-05-10 — Xbox Series X Outperforming PS5 in Mass Effect: Legendary Edition - (Xbox In Ten - Ep. 102) — speakers: Mass Effect, Legendary Edition, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-05-03 — Halo Infinite PC Details + Cross Play & Progression - (Xbox In Ten - Ep. 101) — speakers: Halo Infinite, Cross Play, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-04-26 — Xbox Cloud Gaming on PC and Apple Devices! - (Xbox In Ten - Ep. 100) — speakers: Xbox Cloud Gaming, Brandon Rosa
+- 2021-04-19 — Journey the Sea of Thieves for Season 2 - (Xbox In Ten - Ep. 99) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-04-12 — Is Kojima Making an Xbox Exclusive Game? - (Xbox In Ten - Ep. 98) — speakers: Xbox Exclusive Game, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-04-05 — Sony's MLB The Show 21 on Xbox Game Pass - (Xbox In Ten - Ep. 97) — speakers: Xbox Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-03-29 — Xbox Game Pass Getting 20 New Games at Launch - (Xbox In Ten - Ep. 96) — speakers: Xbox Game Pass Getting, New Games, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-03-22 — EA Play Now on Game Pass for PC - (Xbox In Ten - Ep. 95) — speakers: Play Now, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-03-15 — New Bethesda Games will be Exclusive to Xbox! - (Xbox In Ten - Ep. 94) — speakers: New Bethesda Games, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-03-08 — No Major Xbox Announcement Events Soon - (Xbox In Ten - Ep. 93) — speakers: No Major Xbox Announcement, Events Soon, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-03-01 — Halo Infinite: The Most Open & Adventure-Filled Halo Game Ever - (Xbox In Ten - Ep. 92) — speakers: Halo Infinite, Brandon Rosa
+- 2021-02-22 — Doubling Frame Rates with FPS Boost on Series S/X - (Xbox In Ten - Ep. 91) — speakers: Brandon Rosa
+- 2021-02-15 — Halo Infinite's Overhauled Vehicle Gameplay & MCC News - (Xbox In Ten - Ep. 90) — speakers: Halo Infinite, Overhauled Vehicle Gameplay, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-02-08 — MLB The Show 2021 on Xbox! - (Xbox In Ten - Ep. 89) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-02-01 — Optimizing Halo Infinite on all Platforms - (Xbox In Ten - Ep. 88) — speakers: Optimizing Halo Infinite, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-01-25 — Microsoft Reverses Xbox Live Gold Price Hike - (Xbox In Ten - Ep. 87) — speakers: Gold Price, Brandon Rosa
+- 2021-01-18 — Lucasfilm Games & Goodbye EA Star Wars Exclusivity - (Xbox In Ten - Ep. 86) — speakers: Lucasfilm Games, Star Wars Exclusivity, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2021-01-11 — Trying to Buy Nintendo got Microsoft Laughed At - (Xbox In Ten - Ep. 85) — speakers: Buy Nintendo, Brandon Rosa
+- 2021-01-04 — Is Xbox Game Pass Game of the Year? - (Xbox In Ten - Ep. 84) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-12-28 — Take Flight in VR in Microsoft Flight Simulator - (Xbox In Ten - Ep. 83) — speakers: Take Flight, Microsoft Flight Simulator, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-12-21 — Cyberpunk 2077 Performance & Refund Debacle - (Xbox In Ten - Ep. 82) — speakers: Refund Debacle, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-12-14 — Halo Infinite Fall 2021 & Perfect Dark from The Initiative - (Xbox In Ten - Ep. 81) — speakers: Halo Infinite Fall, Perfect Dark, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-12-07 — Holiday Xbox Game Pass Galore - (Xbox In Ten - Ep. 80) — speakers: Holiday Xbox Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-11-30 — Xbox Working on PS5 Outperforming on Certain Series X Games - (Xbox In Ten - Ep. 79) — speakers: Xbox Working, Brandon Rosa
+- 2020-11-23 — Halo Infinite Updates Coming Soon - (Xbox In Ten - Ep. 78) — speakers: Halo Infinite Updates Coming, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-11-16 — The Biggest Launch in Xbox History - (Xbox In Ten - Ep. 77) — speakers: Xbox History, Brandon Rosa
+- 2020-11-09 — Review Roundup For Xbox Series X & Xbox Series S - (Xbox In Ten - Ep. 76) — speakers: Review Roundup, Brandon Rosa
+- 2020-11-02 — Launch Kick Off Stream For Xbox Series S/X - (Xbox In Ten - Ep. 75) — speakers: Launch Kick Off Stream, Brandon Rosa
+- 2020-10-26 — New Project xCloud Streaming Devices in the Works? - (Xbox In Ten - Ep. 74) — speakers: Brandon Rosa
+- 2020-10-19 — 30 Games Fully Optimized on Series S/X Launch Day - (Xbox In Ten - Ep. 73) — speakers: Games Fully Optimized, Launch Day, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-10-12 — Project xCloud to iPhones, iPads, Xbox Consoles & PC in 2021? - (Xbox In Ten - Ep. 72) — speakers: Xbox Consoles, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-10-05 — EA Play Joins Xbox Game Pass Ultimate & Series X Impressions - (Xbox In Ten - Ep. 71) — speakers: Play Joins Xbox Game, Pass Ultimate, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-09-28 — Xbox Buys Bethesda for $7.5 Billion - (Xbox In Ten - Ep. 70) — speakers: Xbox Buys Bethesda, Brandon Rosa
+- 2020-09-21 — Xbox Series X & S Pre-Orders on September 22 - (Xbox In Ten - Ep. 69) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-09-14 — Xbox Series S ($299) and Series X ($499) Launch November 10 - (Xbox In Ten - Ep. 68) — speakers: Launch November, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-09-07 — Another Week...Another Xbox Series S Leak - (Xbox In Ten - Ep. 67) — speakers: Another Week, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-08-31 — Bungie Veteran Joins 343 to Help Halo Infinite - (Xbox In Ten - Ep. 66) — speakers: Bungie Veteran Joins, Help Halo Infinite, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-08-24 — Is the Xbox Series X Going to Cost $600? - (Xbox In Ten - Ep. 65) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-08-17 — Halo Infinite Delayed from Series X November Launch - (Xbox In Ten - Ep. 64) — speakers: Halo Infinite Delayed, Brandon Rosa
+- 2020-08-10 — Project xCloud Missing iOS on September 15 Launch - (Xbox In Ten - Ep. 63) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-08-03 — Free Halo Infinite Multiplayer! - (Xbox In Ten - Ep. 62) — speakers: Free Halo Infinite Multiplayer, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-07-27 — Xbox Games Showcase July 2020 Recap - (Xbox In Ten - Ep. 61) — speakers: Xbox Games Showcase July, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-07-20 — Free Project xCloud with Xbox Game Pass Ultimate! - (Xbox In Ten - Ep. 60) — speakers: Xbox Game Pass Ultimate, Brandon Rosa
+- 2020-07-13 — Is Xbox Going to Purchase More 1st Party Studios? - (Xbox In Ten - Ep. 59) — speakers: Purchase More, Party Studios, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-07-06 — Xbox's First Party July Event Reportedly Dated - (Xbox In Ten - Ep. 58) — speakers: First Party July Event, Reportedly Dated, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-06-29 — Halo Infinite Teaser Confirms Return of The Banished - (Xbox In Ten - Ep. 57) — speakers: Halo Infinite Teaser Confirms, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-06-22 — Xbox Series X to Keep Same Xbox One Dashboard - (Xbox In Ten - Ep. 56) — speakers: Keep Same Xbox One, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-06-15 — Everything We Know About Xbox Series X So Far - (Xbox In Ten - Ep. 55) — speakers: So Far, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-06-08 — Destiny 2 Year 4 Reveal & Game Delays - (Xbox In Ten - Ep. 54) — speakers: Game Delays, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-06-01 — Xbox Series X Launching with Thousands of Games - (Xbox In Ten - Ep. 53) — speakers: Brandon Rosa
+- 2020-05-25 — Gears of Wars 3 Port on PS3? - (Xbox In Ten - Ep. 52) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-05-18 — Is Microsoft Waiting For Sony to Reveal PS5 Price? - (Xbox In Ten - Ep. 51) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-05-11 — Inside Xbox May 2020 Recap - (Xbox In Ten - Ep. 50) — speakers: Inside Xbox May, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-05-04 — First XSX Gameplay Showing This Week! - (Xbox In Ten - Ep. 49) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-04-27 — Xbox Series X Game Reveals Coming Soon! - (Xbox In Ten - Ep. 48) — speakers: Game Reveals Coming Soon, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-04-20 — A Glow in the Dark Cyberpunk 2077 Xbox One X? - (Xbox In Ten - Ep. 47) — speakers: Dark Cyberpunk, Xbox One, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-04-13 — Inside Xbox April 2020 News Recap - (Xbox In Ten - Ep. 46) — speakers: Inside Xbox April, News Recap, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-04-06 — No Working Plan B for Xbox Series X Launch - (Xbox In Ten - Ep. 45) — speakers: No Working Plan, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-03-30 — Microsoft Working to Maintain Xbox Live Amid Coronavirus - (Xbox In Ten - Ep. 44) — speakers: Microsoft Working, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-03-23 — Full Spec Reveal of the Xbox Series X - (Xbox In Ten - Ep. 43) — speakers: Full Spec Reveal, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-03-16 — An Xbox Digital Coming Event After E3's Cancellation - (Xbox In Ten - Ep. 42) — speakers: Event After, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-03-09 — Bleeding Edge's New Crazy Cyborg Dolphin - (Xbox In Ten - Ep. 41) — speakers: Bleeding Edge, New Crazy Cyborg Dolphin, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-03-02 — Xbox Series X & Next-Gen Details Galore - (Xbox In Ten - Ep. 40) — speakers: Gen Details Galore, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-02-24 — Weapon Skins Returning to Halo Infinite - (Xbox In Ten - Ep. 39) — speakers: Weapon Skins Returning, Halo Infinite, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-02-17 — Project xCloud Limited iOS TestFlight Preview Begins - (Xbox In Ten - Ep. 38) — speakers: Preview Begins, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-02-10 — Xbox's Focus is on Amazon/Google Not Nintendo/Sony - (Xbox In Ten - Ep. 37) — speakers: Google Not Nintendo, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-02-03 — Xbox's Studio The Initiative Doing New & "Old" Things - (Xbox In Ten - Ep. 36) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-01-27 — Alleged Photos of the Xbox Series X Console - (Xbox In Ten - Ep. 35) — speakers: Alleged Photos, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-01-20 — Xbox at E3 2020 & Major Game Delays - (Xbox In Ten - Ep. 34) — speakers: Game Delays, Brandon Rosa
+- 2020-01-13 — Largest Ever Console Processor In Xbox Series X - (Xbox In Ten - Ep. 33) — speakers: Largest Ever Console Processor, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2020-01-06 — Leaked Specs for Xbox Series X vs PS5 - (Xbox In Ten - Ep. 32) — speakers: Leaked Specs, Brandon Rosa
+- 2019-12-30 — Microsoft To Cut Down on Long Load Times in Game Pass - (Xbox In Ten - Ep. 31) — speakers: Long Load Times, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-12-23 — The Next Gen of Xbox is Just...Xbox? - (Xbox In Ten - Ep. 30) — speakers: Brandon Rosa
+- 2019-12-16 — Power Your Dreams with Xbox Series X - (Xbox In Ten - Ep. 29) — speakers: Brandon Rosa
+- 2019-12-09 — Phil Spencer is Using Project Scarlett - (Xbox In Ten - Ep. 28) — speakers: Phil Spencer, Project Scarlett, Brandon Rosa
+- 2019-12-02 — No VR on Xbox Project Scarlett? - (Xbox In Ten - Ep. 27) — speakers: Xbox Project Scarlett, Brandon Rosa
+- 2019-11-25 — Xbox Scarlett to Support Play Anywhere - (Xbox In Ten - Ep. 26) — speakers: Xbox Scarlett, Brandon Rosa
+- 2019-11-18 — Xbox's X019 News Blowout - (Xbox In Ten - Ep. 25) — speakers: News Blowout, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-11-11 — Xbox's X019 Event Details - (Xbox In Ten - Ep. 24) — speakers: Event Details, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-11-04 — Xbox All Access & An Upgrade Option to Scarlett - (Xbox In Ten - Ep. 23) — speakers: Brandon Rosa
+- 2019-10-28 — Free Xbox Games with Taco Bell Food? - (Xbox In Ten - Ep. 22) — speakers: Taco Bell Food, Brandon Rosa
+- 2019-10-21 — COD: Modern Warfare Battle Pass + Progression - (Xbox In Ten - Ep. 21) — speakers: Modern Warfare Battle Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-10-14 — Doom Eternal Delayed to March 2020 - (Xbox In Ten - Ep. 20) — speakers: Doom Eternal Delayed, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-10-07 — Xbox Game Pass + Spotify Premium - (Xbox In Ten - Ep. 19) — speakers: Spotify Premium, Brandon Rosa
+- 2019-09-30 — Project xCloud Public Tests in October - (Xbox In Ten - Ep. 18) — speakers: Public Tests, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-09-23 — Create Custom Characters in Minecraft - (Xbox In Ten - Ep. 17) — speakers: Create Custom Characters, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-09-16 — Resident Evil Project Resistance Revealed - (Xbox In Ten - Ep. 16) — speakers: Resident Evil Project Resistance, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-09-09 — Gears 5 Release Week! - (Xbox In Ten - Ep. 15) — speakers: Release Week, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-09-02 — Halo MCC Adding 6.6 Million User Maps - (Xbox In Ten - Ep. 14) — speakers: Million User Maps, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-08-26 — Gamescom News Blowout - (Xbox In Ten - Ep. 13) — speakers: Gamescom News Blowout, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-08-19 — Phil Spencer Talks Project Scarlett Details - (Xbox In Ten - Ep. 12) — speakers: Phil Spencer Talks, Scarlett Details, Brandon Rosa
+- 2019-08-12 — Phil Spencer Confirms More Single Player Exclusives - (Xbox In Ten - Ep. 11) — speakers: Phil Spencer, Brandon Rosa
+- 2019-08-05 — New Game Pass Games & No 4K Minecraft? - (Xbox In Ten - Ep. 10) — speakers: New Game Pass Games, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-07-29 — New Xbox One Dashboard - (Xbox In Ten - Ep. 9) — speakers: New Xbox One Dashboard, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-07-22 — Gamescom Plans For Xbox - (Xbox In Ten - Ep. 8) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-07-15 — New Xbox Controller Patents to Pair with Project xCloud - (Xbox In Ten - Ep. 7) — speakers: Brandon Rosa
+- 2019-07-08 — Developer Thoughts on Xbox Game Pass - (Xbox In Ten - Ep. 6) — speakers: Developer Thoughts, Xbox Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-07-01 — Next Gen Console Prices vs. Trade Tariffs - (Xbox In Ten - Ep. 5) — speakers: Trade Tariffs, Brandon Rosa
+- 2019-06-24 — The Focus Shifts To One Next Gen Xbox Console - (Xbox In Ten - Ep. 4) — speakers: One Next Gen Xbox, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-06-17 — E3 2019 Xbox News Blowout - (Xbox In Ten - Ep. 3) — speakers: Xbox News Blowout, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-06-10 — Destiny 2 Cross Saves, Free to Play & New Expansion - (Xbox In Ten - Ep. 2) — speakers: Cross Saves, New Expansion, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-06-03 — Call of Duty Modern Warfare Reboot - (Xbox In Ten - Ep. 1) — speakers: Duty Modern Warfare Reboot, Xbox Gaming News, Fun Fact, Brandon Rosa
+- 2019-06-03 — Welcome To The Xbox In Ten Podcast — speakers: Every Monday, Brandon Rosa

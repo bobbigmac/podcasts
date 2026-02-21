@@ -1,0 +1,247 @@
+# Breaking the News (BBC Radio Scotland)
+
+- slug: `breaking-the-news`
+- source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
+- fetched_at: `2026-02-21T00:11:50+00:00`
+- checked_at: `2026-02-21T00:11:50+00:00`
+- etag: `"83cda8dc5ae4c9c6792baa8040fef5ae"`
+- last_modified: `Fri, 20 Feb 2026 14:56:10 GMT`
+- max_episodes_per_feed: `2000`
+
+<!-- FEED_JSON -->
+```json
+{
+  "version": 1,
+  "slug": "breaking-the-news",
+  "source_url": "https://podcasts.files.bbci.co.uk/b066zypj.rss",
+  "title": "Breaking the News (BBC Radio Scotland)",
+  "link": "http://www.bbc.co.uk/programmes/b066zypj",
+  "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
+  "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
+  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "owners": [
+    "Bbc Radio Scotland"
+  ],
+  "common_speakers": [],
+  "categories": [
+    "comedy",
+    "bbc",
+    "news",
+    "radio"
+  ],
+  "episodes": [
+    {
+      "key": "9d4ac60dea2a0d1e16585ed92a8bf2a55a6faddd",
+      "title": "Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid",
+      "published_at": "2026-02-20T14:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002rgl1",
+      "description": "Des and the teams break up the week's big news. Including: the arrest of Andrew Mountbatten-Windsor, the Curling drama at the Winter Olympics, the East Neuk’s starring role in an international video game and more, Lead Writer: Nathan Cowley Additional material: Scott Graham, Rebecca Bain and Alex Garrick-Wright, Stephen Holford, Matthew McLane, Gabi Celaya, Mike Wooles, Fearghas Kelly, Cooper Mawhinney Sweryt, Lucy Rycroft-Smith, Claire Cox, Hughie Shepherd-Cross and Neil Bratchpiece Producer: Chris Quilietti Senior Producer: Lauren Mackay Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n28s4x.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Gareth Waugh",
+        "Ria Lina",
+        "Christopher Macarthur-Boyd",
+        "Val McDermid Des",
+        "Andrew Mountbatten-Windsor",
+        "Nathan Cowley Additional",
+        "Scott Graham",
+        "Rebecca Bain"
+      ],
+      "topics": [
+        "gareth",
+        "waugh",
+        "lina",
+        "christopher",
+        "macarthur",
+        "boyd",
+        "mcdermid"
+      ]
+    },
+    {
+      "key": "4eea289e872a6eb031efdee058baf5e5efb3533f",
+      "title": "Breaking the Year",
+      "published_at": "2026-01-01T13:33:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002pgz1",
+      "description": "Des and the teams look back at the biggest stories of 2025: including year one for Sir Keir Starmer, term two for President Trump, and of course that wonderful world cup qualifier. Lead Writer: Elaine Malcolmson Additional material: Jay Bhatt, Duncan Black, Neil Bratchpiece, Alex Buchanan, Uttom Chowdhury, Nathan Cowley, James Docherty, Mark Granger, Skylar MacDonald, Ben Moore, Cooper Mawhinney-Sweryt, Christopher Stanners, Sarah Tattersall, Steve Trott, Dan Welton Assistant Producer: Chris Quilietti Senior Producer: Lauren Mackay Series Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mp5m2j.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Lead Writer",
+        "Elaine Malcolmson Additional",
+        "Jay Bhatt",
+        "Duncan Black",
+        "Neil Bratchpiece",
+        "Alex Buchanan",
+        "Uttom Chowdhury"
+      ],
+      "topics": [
+        "year"
+      ]
+    },
+    {
+      "key": "b3a1660af54965050eb13f835b31b82605d24aec",
+      "title": "The Best of Unbroadcast",
+      "published_at": "2025-12-26T14:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002nvsm",
+      "description": "Join Des Clarke for all the hilarious previously unbroadcast material from Breaking The News in 2025. It’s your chance to get the full live recording experience as we present to you the finest quips and stories and outtakes from the year. Producer: Chris Quilietti Series Producer: David Flynn In order of appearance: Diona Doherty Sam Lake Jay Lafferty Mark Nelson Kemah Bob Amy Matthews Gareth Waugh Krystal Evans Liam Withnail Ashley Storrie Robin Ince Marjolein Robertson Ria Lina Raymond Mearns Stuart Mitchell Susie McCabe Felicity Ward Athena Kugblenu Jim Smith Marc Jennings Chris Forbes Tiff Stevenson Ignacio Lopez",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mpm3y5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Chris Quilietti",
+        "David Flynn",
+        "Sam Lake Jay",
+        "Mark Nelson Kemah",
+        "Bob Amy Matthews",
+        "Evans Liam",
+        "Robertson Ria",
+        "Raymond Mearns"
+      ],
+      "topics": [
+        "best",
+        "unbroadcast"
+      ]
+    },
+    {
+      "key": "dec7dda47c333767ea1152ac3fcfc74cb23e417e",
+      "title": "10 Years of Breaking the News",
+      "published_at": "2025-12-19T14:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002nk7k",
+      "description": "Des and the teams break up the biggest stories of the past ten years. Lead Writer: Laura Major Additional material: Chris Ballard, Nathan Cowley, Lucienne Cummings, Stephen Halford, Ishbel McLachlan, Jennifer Walker. Producer: Chris Quilietti Senior Producer: Lauren Mackay Series Producer: David Flynn Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mmph17.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Lead Writer",
+        "Laura Major",
+        "Chris Ballard",
+        "Nathan Cowley",
+        "Stephen Halford",
+        "Jennifer Walker",
+        "Chris Quilietti",
+        "David Flynn Script"
+      ],
+      "topics": [
+        "year",
+        "news"
+      ]
+    },
+    {
+      "key": "ec2dc233692906ae4f7962976eb3f6563c972513",
+      "title": "Vittorio Angelone, Kathleen Hughes, Tiffany Stevenson and Scott Agnew",
+      "published_at": "2025-12-12T14:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002n98t",
+      "description": "Des and the teams break up the week's big news. Including: Fifa's ethics being called into question, the Australian social media ban, a banks ban on Christmas jumpers in the workplace, Judy Murray’s push for more support for PE in schools and more. Lead Writer: Rebecca Bain and Alex Garrick Wright. Additional material: Nathan Cowley, Stuart Beale, Gregor Paton, Alan Hazlie, Andrew Duthie, Dan Welton and Sarah Tattersall. Producer: Chris Quilietti Senior Producer: Lauren Mackay Series Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mn5tmd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Vittorio Angelone",
+        "Kathleen Hughes",
+        "Scott Agnew",
+        "Judy Murray",
+        "Lead Writer",
+        "Rebecca Bain",
+        "Alex Garrick Wright",
+        "Nathan Cowley"
+      ],
+      "topics": [
+        "vittorio",
+        "angelone",
+        "kathleen",
+        "hughes",
+        "tiffany",
+        "stevenson",
+        "scott",
+        "agnew"
+      ]
+    },
+    {
+      "key": "71d1b0b605d48a769a5a17d323a4bf4f82bebf42",
+      "title": "Susie McCabe, Ahir Shah, Elaine Malcolmson and Chris Thorburn",
+      "published_at": "2025-12-05T14:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002n0fn",
+      "description": "Des and the teams break up the week's big news. Including: The fallout from Rachel Reeves's Budget, Gaelic and Scots being recognised as official languages, the prickly debate around Christmas trees, travelling from Dull to Vienna, Zarah Sultana’s new political party and more. Lead Writer: Adele Cliff Additional material: Darren Miller & Grant Morrison, Nathan Cowley, Rebecca Bain & Alex Garrick Wright , Andrew Duthie, Skylar Macdonald, Alan Hazlie, Matt Oakley, Chris Willshaw Producer: Chris Quilietti Senior Producer: Lauren Mackay Series Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mlrbwt.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Susie McCabe",
+        "Ahir Shah",
+        "Elaine Malcolmson",
+        "Chris Thorburn",
+        "Rachel Reeves",
+        "Zarah Sultana",
+        "Grant Morrison",
+        "Nathan Cowley"
+      ],
+      "topics": [
+        "susie",
+        "mccabe",
+        "ahir",
+        "shah",
+        "elaine",
+        "malcolmson",
+        "chris",
+        "thorburn"
+      ]
+    },
+    {
+      "key": "f0f7a4e94fbe19dbce24f8597c67ccdf62a005e2",
+      "title": "Jim Smith, Ria Lina, Raymond Mearns and Athena Kugblenu",
+      "published_at": "2025-11-28T14:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002mp5s",
+      "description": "Des and the teams break up the week's big news. Including: the UK Government's Budget, the rise in the use of private weight-loss jabs, new research into brain development, a pub that’s caused outrage by banning solo drinkers after 9, Dick Van Dyke at 100 and much more. Lead Writer: Nathan Cowley Additional material: Chris Stanners, Scott Graham, Chris Willshaw, Lucienne Cummings, Chris Ballard, Skylar Macdonald, Kit Proudfoot , Gregor Paton, Terry Hughes, Claire Cox Producer: Chris Quilietti Producer: Jodie White Senior Producer: Lauren Mackay Series Producer: David Flynn Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mkccmm.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Jim Smith",
+        "Ria Lina",
+        "Raymond Mearns",
+        "Athena Kugblenu Des",
+        "Dick Van Dyke",
+        "Lead Writer",
+        "Nathan Cowley Additional",
+        "Chris Stanners"
+      ],
+      "topics": [
+        "smith",
+        "lina",
+        "raymond",
+        "mearns",
+        "athena",
+        "kugblenu"
+      ]
+    }
+  ]
+}
+```
+<!-- /FEED_JSON -->
+
+## Episodes (newest first)
+
+- 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Nathan Cowley Additional, Scott Graham, Rebecca Bain
+- 2026-01-01 — Breaking the Year — speakers: Lead Writer, Elaine Malcolmson Additional, Jay Bhatt, Duncan Black, Neil Bratchpiece, Alex Buchanan, Uttom Chowdhury
+- 2025-12-26 — The Best of Unbroadcast — speakers: Chris Quilietti, David Flynn, Sam Lake Jay, Mark Nelson Kemah, Bob Amy Matthews, Evans Liam, Robertson Ria, Raymond Mearns
+- 2025-12-19 — 10 Years of Breaking the News — speakers: Lead Writer, Laura Major, Chris Ballard, Nathan Cowley, Stephen Halford, Jennifer Walker, Chris Quilietti, David Flynn Script
+- 2025-12-12 — Vittorio Angelone, Kathleen Hughes, Tiffany Stevenson and Scott Agnew — speakers: Vittorio Angelone, Kathleen Hughes, Scott Agnew, Judy Murray, Lead Writer, Rebecca Bain, Alex Garrick Wright, Nathan Cowley
+- 2025-12-05 — Susie McCabe, Ahir Shah, Elaine Malcolmson and Chris Thorburn — speakers: Susie McCabe, Ahir Shah, Elaine Malcolmson, Chris Thorburn, Rachel Reeves, Zarah Sultana, Grant Morrison, Nathan Cowley
+- 2025-11-28 — Jim Smith, Ria Lina, Raymond Mearns and Athena Kugblenu — speakers: Jim Smith, Ria Lina, Raymond Mearns, Athena Kugblenu Des, Dick Van Dyke, Lead Writer, Nathan Cowley Additional, Chris Stanners
