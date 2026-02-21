@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-02-20T09:57:48+00:00`
-- checked_at: `2026-02-20T09:57:48+00:00`
-- etag: `W/"1b1ae-brCV7F68JLPhAuIPI5X15abz7Uw"`
+- fetched_at: `2026-02-21T02:48:00+00:00`
+- checked_at: `2026-02-21T02:48:00+00:00`
+- etag: `W/"1b63a-MpmFiw6gzQcI+mCR8WTDZOCEfVA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-02-20T09:57:48+00:00",
+  "fetched_at": "2026-02-21T02:48:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b5a812b7bf1550fbe3ff4946f85348fb95aba59f",
+      "title": "#8 Jon Richardson Podcast with Jarred Christmas",
+      "published_at": "2026-02-20T19:17:04+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/8-Jon-Richardson-Podcast-with-Jarred-Christmas-e3fchl8",
+      "description": "#8 Jon Richardson Podcast with Jarred Christmas",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771615011501-5e8ad037da32e.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115803240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-20%2F710ee911-cb3f-0f43-59f0-dcaee45d0893.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46621760",
+      "itunes_duration": "01:04:44",
+      "speakers": [],
+      "topics": [
+        "richardson",
+        "podcast",
+        "jarred",
+        "christmas"
+      ]
+    },
     {
       "key": "3ded11e33f9d138e72818ca261a3aec734886a81",
       "title": "#7 Jon Richardson Podcast with Paul Sinha",
@@ -1937,6 +1956,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — #8 Jon Richardson Podcast with Jarred Christmas
 - 2026-02-20 — #7 Jon Richardson Podcast with Paul Sinha — speakers: Paul Sinha
 - 2026-02-19 — #6 Jon Richardson Podcast with Rufus Hound — speakers: Rufus Hound
 - 2026-02-18 — #5 Jon Richardson Podcast with Stephen Grant — speakers: Stephen Grant
