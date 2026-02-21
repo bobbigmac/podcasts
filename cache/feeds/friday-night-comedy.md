@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-02-20T19:06:07+00:00`
-- checked_at: `2026-02-20T19:06:07+00:00`
-- etag: `"6da361a4b495545dea131d69c216c554"`
-- last_modified: `Fri, 20 Feb 2026 19:00:06 GMT`
+- fetched_at: `2026-02-21T13:11:17+00:00`
+- checked_at: `2026-02-21T13:11:17+00:00`
+- etag: `"7e3f8f08c3a4af842fe170a0c60fa328"`
+- last_modified: `Sat, 21 Feb 2026 12:05:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-02-20T19:06:07+00:00",
+  "fetched_at": "2026-02-21T13:11:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -65,7 +65,6 @@
       "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
-        "Keir Starmer",
         "Peter Mandelson",
         "Helping Andy",
         "Desiree Burch",
@@ -164,24 +163,6 @@
       ]
     },
     {
-      "key": "3cb83441821e4c4f4c805f79fe6f63f254842ce9",
-      "title": "Introducing The Skewer",
-      "published_at": "2026-01-22T12:05:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0mwgc4c",
-      "description": "Here's a chance for Friday Night Comedy listeners to hear another satirical comedy from BBC Radio 4, as Jon Holmes introduces the latest episode of his series The Skewer. The four-time Gold Comedy winner at the Radio Academy Awards returns as Jon Holmes mashes up more news with pop culture to create a current affairs comedy concept album. This week: Trump vs The World, Jenrick The Secret Traitor, No Way Nobel and Peace Board Assemble! To listen to more episodes from the series, just search for The Skewer on BBC Sounds. Producer: Jon Holmes An unusual production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mwgb7p.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14960000",
-      "itunes_duration": "935",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": [
-        "skewer"
-      ]
-    },
-    {
       "key": "f962e43e84842cee0ed3f318d8db66fe2e72f91c",
       "title": "The News Quiz: Ep1. Red, White, Blue and Green-land",
       "published_at": "2026-01-16T19:00:00+00:00",
@@ -223,7 +204,6 @@
       "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
-        "King Charles",
         "Leo Xiv",
         "Andy Zaltzman",
         "Rajiv Karia",
@@ -306,7 +286,6 @@
       "itunes_duration": "1661",
       "speakers": [
         "Alan Carr",
-        "Keir Starmer",
         "Jan Ravens",
         "Jess Robinson",
         "Kieran Hodgson",
@@ -457,7 +436,6 @@
       "enclosure_length": "26640000",
       "itunes_duration": "1665",
       "speakers": [
-        "Taylor Swift",
         "Andrew Hunter Murray",
         "Jon Holmes",
         "Andrew Hunter Murray Guests",
@@ -1394,7 +1372,6 @@
       "enclosure_length": "27424000",
       "itunes_duration": "1714",
       "speakers": [
-        "Liz Truss",
         "Andrew Hunter Murray",
         "Jon Holmes Katie Sayer",
         "Sarah Dempster Jason Hazeley",
@@ -1601,7 +1578,6 @@
         "Athena Kugblenu",
         "Susie McCabe",
         "Hugo Rifkind",
-        "Keir Starmer",
         "Cameron Loxdale",
         "Sascha LO"
       ],
@@ -1628,7 +1604,6 @@
         "Val McDermid",
         "Jay Lafferty",
         "Stuart Mitchell",
-        "Donald Trump",
         "Prince Harry",
         "Neil Gray"
       ],
@@ -1655,8 +1630,6 @@
         "Sara Barron",
         "Glenn Moore",
         "Zing Tsjeng",
-        "Donald Trump",
-        "Keir Starmer",
         "Cody Dahler"
       ],
       "topics": [
@@ -1682,10 +1655,7 @@
         "Geoff Norcott",
         "Paul Sinha",
         "Angela Barnes",
-        "Anushka Asthana",
-        "Donald Trump",
-        "Keir Starmer",
-        "Elon Musk"
+        "Anushka Asthana"
       ],
       "topics": [
         "news",
@@ -1765,7 +1735,6 @@
       "itunes_duration": "1717",
       "speakers": [
         "Uncanny Ghosts",
-        "Nigel Farage",
         "Andrew Hunter Murray",
         "Amy Hoggart",
         "Jon Holmes Katie Sayer",
@@ -1885,9 +1854,7 @@
       "itunes_duration": "1710",
       "speakers": [
         "Jeremy Clarkson",
-        "Nigel Farage",
         "Rachel Reeves",
-        "Donald Trump",
         "Jon Culshaw",
         "Jan Ravens",
         "Lewis MacLeod",
@@ -1911,7 +1878,6 @@
       "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
-        "Donald Trump",
         "Justin Welby",
         "Jan Ravens",
         "Jess Robinson",
@@ -1939,9 +1905,6 @@
       "enclosure_length": "27376000",
       "itunes_duration": "1711",
       "speakers": [
-        "Donald Trump",
-        "Joe Biden",
-        "Nigel Farage",
         "Jon Culshaw",
         "Jan Ravens",
         "Jess Robinson",
@@ -1968,7 +1931,6 @@
       "speakers": [
         "Rachel Reeves",
         "Kamala Harris",
-        "Joe Biden",
         "JD Vance",
         "Tim Walz",
         "Rishi Sunak",
@@ -1999,7 +1961,6 @@
         "Amy Hoggart",
         "Alasdair Beckett-King",
         "Susie McCabe",
-        "King Charles",
         "Alex Kealy",
         "Cameron Loxdale"
       ],
@@ -2113,7 +2074,6 @@
         "Alice Fraser",
         "Ash Sarkar",
         "Andy Zaltzman",
-        "Keir Starmer",
         "Jade Gebbie",
         "Mark Granger"
       ],
@@ -2426,7 +2386,6 @@
         "Ria Lina",
         "Simon Evans",
         "Andy Zaltzman",
-        "Keir Starmer",
         "Peter Tellouche",
         "Alice Fraser",
         "Cameron Loxdale"
@@ -2637,7 +2596,6 @@
       "speakers": [
         "Dead Ringers th",
         "Rishi Sunak",
-        "Elon Musk",
         "Tom Jamieson",
         "Laurence Howarth",
         "Ed Amsden Tom Coles",
@@ -2893,7 +2851,6 @@
         "Ashley Storrie",
         "Stuart Mitchell",
         "Andy Zaltzman",
-        "Gordon Brown",
         "Lee Anderson",
         "Cody Dahler",
         "Rebecca Bain"
@@ -2919,7 +2876,6 @@
         "Andrew Doyle",
         "Lucy Porter",
         "Andy Zaltzman",
-        "Donald Trump",
         "Cody Dahler",
         "Cameron Loxdale",
         "Viv May Producer",
@@ -3029,7 +2985,6 @@
         "Geoff Norcott",
         "Alasdair Beckett-King",
         "Cindy Yu",
-        "Keir Starmer",
         "Cody Dahler",
         "Mike Shephard"
       ],
@@ -3126,7 +3081,6 @@
         "Jan Ravens",
         "Bill Dare",
         "Dead Ringers",
-        "David Cameron",
         "Ed Miliband"
       ],
       "topics": [
@@ -3150,7 +3104,6 @@
         "Dead Ringers",
         "Katherine Jenkins",
         "Ncuti Gatwa",
-        "King Charles",
         "Tom Jamieson",
         "Laurence Howarth",
         "Ed Amsden Tom Coles",
@@ -3743,7 +3696,6 @@
       "itunes_duration": "1675",
       "speakers": [
         "Dead Ringers th July",
-        "King Charles",
         "Kier Starmer",
         "Tom Jamieson",
         "Laurence Howarth",
@@ -4149,7 +4101,6 @@
         "Samira Ahmed",
         "Alasdair Beckett-King",
         "Matt Hancock’s WhatsApps",
-        "King Charles",
         "Alice Fraser",
         "Zoë Tomalin"
       ],
@@ -4175,7 +4126,6 @@
         "Holly Walsh",
         "Andy Parsons",
         "Kate Andrews",
-        "Keir Starmer",
         "Andy Zaltzman",
         "Alice Fraser",
         "Catherine Brinkworth"
@@ -4230,7 +4180,6 @@
         "Ria Lina",
         "Catherine Bohart",
         "Rishi Sunak",
-        "Liz Truss",
         "Alice Fraser",
         "Zoë Tomalin"
       ],
@@ -4311,7 +4260,6 @@
         "Shaparak Khorsandi",
         "Helen Lewis",
         "Ian Smith",
-        "Keir Starmer",
         "Alice Fraser",
         "Mike Shephard"
       ],
@@ -4366,7 +4314,6 @@
         "Samira Ahmed",
         "Scott Bennett",
         "Rishi Sunak",
-        "Keir Starmer",
         "Alice Fraser"
       ],
       "topics": [
@@ -4411,7 +4358,6 @@
       "enclosure_length": "26928000",
       "itunes_duration": "1683",
       "speakers": [
-        "King Charles",
         "Jon Culshaw",
         "Jan Ravens",
         "Duncan Wisbey",
@@ -4439,7 +4385,6 @@
       "itunes_duration": "1706",
       "speakers": [
         "Matt Hancock’s Covid",
-        "Keir Starmer",
         "Jon Culshaw",
         "Lewis McLeod",
         "Jan Ravens",
@@ -4762,7 +4707,6 @@
       "enclosure_length": "26848000",
       "itunes_duration": "1678",
       "speakers": [
-        "Gordon Brown",
         "Henry Tobin",
         "Starring Miles Jupp",
         "Ingrid Oliver",
@@ -4788,7 +4732,6 @@
       "enclosure_length": "26688000",
       "itunes_duration": "1668",
       "speakers": [
-        "Gordon Brown",
         "Henry Tobin",
         "Starring Miles Jupp",
         "Ingrid Oliver",
@@ -4814,7 +4757,6 @@
       "enclosure_length": "26656000",
       "itunes_duration": "1666",
       "speakers": [
-        "Gordon Brown",
         "Henry Tobin",
         "Starring Miles Jupp",
         "Ingrid Oliver",
@@ -4840,7 +4782,6 @@
       "enclosure_length": "26848000",
       "itunes_duration": "1678",
       "speakers": [
-        "Gordon Brown",
         "Henry Tobin",
         "Starring Miles Jupp",
         "Ingrid Oliver",
@@ -4866,7 +4807,6 @@
       "enclosure_length": "26384000",
       "itunes_duration": "1649",
       "speakers": [
-        "Gordon Brown",
         "Henry Tobin",
         "Starring Miles Jupp",
         "Ingrid Oliver",
@@ -4992,7 +4932,6 @@
       "speakers": [
         "Dead Ringers th June",
         "Sue Gray",
-        "Liz Truss",
         "Michael Gove",
         "Jon Culshaw",
         "Jan Ravens",
@@ -5529,7 +5468,6 @@
         "Alice Fraser",
         "Chris McCausland",
         "Ahir Shah",
-        "Boris Johnson",
         "Simon Alcock",
         "Nathan D'Arcy Roberts",
         "Rajiv Karia"
@@ -5605,7 +5543,6 @@
       "speakers": [
         "Dead Ringers Christmas Specials",
         "Chris Whitty",
-        "Boris Johnson",
         "Lewis Macleod",
         "Jan Ravens",
         "Debra Stephenson",
@@ -5841,7 +5778,6 @@
         "Chris McCausland",
         "Eshaan Akbar",
         "Andy Zaltzman",
-        "Boris Johnson",
         "Alice Fraser",
         "Catherine Brinkworth"
       ],
@@ -5947,7 +5883,6 @@
         "Andy Zaltzman",
         "Paul Sinha",
         "Neil Delamere",
-        "Boris Johnson",
         "Emma Raducanu",
         "Alice Fraser",
         "Max Davis",
@@ -6204,7 +6139,6 @@
       "speakers": [
         "Dead Ringers",
         "Sajid Javid",
-        "Liz Truss",
         "Harry Kane",
         "Andy Murray",
         "Tom Jamieson",
@@ -6231,7 +6165,6 @@
       "speakers": [
         "Dead Ringers",
         "Chris Whitty",
-        "Liz Truss",
         "Jon Culshaw",
         "Lewis Macleod",
         "Jan Ravens",
@@ -6257,7 +6190,6 @@
       "itunes_duration": "1768",
       "speakers": [
         "Dead Ringers",
-        "Liz Truss",
         "Martin Bashir",
         "Tom Jamieson",
         "Nev Fountain",
@@ -6732,21 +6664,20 @@
 ## Episodes (newest first)
 
 - 2026-02-20 — The News Quiz: Ep6. Is the UK getting sunnier? — speakers: Joining Andy, Alasdair Beckett-King, Rachel Fairburn, Stephen Bush, Mhairi Black Written, Andy Zaltzman, Cody Dahler, Eve Delaney
-- 2026-02-13 — The News Quiz: Ep5. The Prince of Darkness — speakers: Keir Starmer, Peter Mandelson, Helping Andy, Desiree Burch, Pierre Novellie, Daniel Finkelstein, Catherine Bohart, Andy Zaltzman
+- 2026-02-13 — The News Quiz: Ep5. The Prince of Darkness — speakers: Peter Mandelson, Helping Andy, Desiree Burch, Pierre Novellie, Daniel Finkelstein, Catherine Bohart, Andy Zaltzman
 - 2026-02-06 — The News Quiz: Ep4. By-elections, hello defections — speakers: Suella Braverman, Hugo Rifkind, Holly Walsh, Andy Zaltzman, Christina Riggs, Cameron Loxdale, Sarah Mills Producer, Pete Strauss Production Coordinator
 - 2026-01-30 — The News Quiz: Ep3. Bored of peace — speakers: Lucy Porter, Alasdair Beckett-King, Stephen Bush, Shappi Khorsandi, Andy Zaltzman, Christina Riggs, Cameron Loxdale, Ruth Husko
 - 2026-01-23 — The News Quiz: Ep2. U-Turn, We Defect — speakers: Helping Andy, Susie McCabe, Paul Sinha, Cindy Yu, Scott Bennett, Andy Zaltzman, Mike Shephard, Eleanor Morton
-- 2026-01-22 — Introducing The Skewer — speakers: Jon Holmes
 - 2026-01-16 — The News Quiz: Ep1. Red, White, Blue and Green-land — speakers: Ian Smith, Nicolás Maduro, Grok AI, Helping Ian, Lucy Porter, Geoff Norcott, Mike Shephard, Alex Kealy
-- 2026-01-09 — Best of The News Quiz 2025 — speakers: King Charles, Leo Xiv, Andy Zaltzman, Rajiv Karia, Pete Strauss Production Coordinator
+- 2026-01-09 — Best of The News Quiz 2025 — speakers: Leo Xiv, Andy Zaltzman, Rajiv Karia, Pete Strauss Production Coordinator
 - 2026-01-02 — The Matt Forde Focus Group: Boxing Day Special — speakers: Matt Forde, Michael Gove, Charles Dickens, Matt Forde Additional, Karl Minns, Laura Claxton, Richard Garvin Producer, Richard Garvin
 - 2025-12-26 — Dead Ringers Christmas: Ep 2. A Very Kemi Christmas and a Lammy New Year — speakers: Jon Culshaw, Jan Ravens, Duncan Wisbey, Jess Robinson, Nev Fountain, Tom Jamieson, Laurence Howarth, Tom Coles
-- 2025-12-19 — Dead Ringers Christmas: Ep 1. Farage Goes to School, The Snowman v Keir, and Alan Carr: Special Negotiator — speakers: Alan Carr, Keir Starmer, Jan Ravens, Jess Robinson, Kieran Hodgson, Josh Berry, Nev Fountain, Tom Jamieson
+- 2025-12-19 — Dead Ringers Christmas: Ep 1. Farage Goes to School, The Snowman v Keir, and Alan Carr: Special Negotiator — speakers: Alan Carr, Jan Ravens, Jess Robinson, Kieran Hodgson, Josh Berry, Nev Fountain, Tom Jamieson
 - 2025-12-12 — The Naked Week: Ep6. Parties, polycules, and pardoning — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Rosie Holt, Fiona Mundy, Holly Alderson, Kayley Williams, Molly Punshon
 - 2025-12-05 — The Naked Week: Ep5. A Budget, A Bombshell, and a Bedtime Story. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Kate Cheka, Janet Ellis Investigations Team, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
 - 2025-11-28 — The Naked Week: Ep4. Immigration, Espionage, and a game of Guess Who? - Epstein Edition. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Larry Budd, Alan Dedicoat, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
 - 2025-11-21 — The Naked Week: Ep3. Trump, Traitors, and RIP Tim Davie — speakers: Rip Tim Davie, Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Paul Gorton, Milo Edwards, James Akka, Holly Skinner
-- 2025-11-14 — The Naked Week: Ep2. Trains, Tice, and Taylor Swift — speakers: Taylor Swift, Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Paul Dunphy, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
+- 2025-11-14 — The Naked Week: Ep2. Trains, Tice, and Taylor Swift — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Paul Dunphy, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
 - 2025-11-07 — The Naked Week: Ep1. Royal lodges, asylum hotels and witches. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Bella Hull, Lisa Webb, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
 - 2025-10-31 — The News Quiz: Ep8. Titles, Jewels and "Chocolate" Bars — speakers: Laura Lexx, Ahir Shah, Ava Santina, Andy Zaltzman, Andy Zaltzman Additional, Milo Edwards, Cameron Loxdale, Ruth Husko
 - 2025-10-24 — The News Quiz: Ep7. Forecast for Inflation and Flooding — speakers: Andy Zaltzman, Adam Kay, Stephen Bush, Daman Bamrah, Ruth Husko, Christina Riggs, Peter Tellouche, Rajiv Karia
@@ -6779,32 +6710,32 @@
 - 2025-04-18 — The Naked Week: Ep6. Tariffs, Theme Parks, and Twister. — speakers: Theme Parks, Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Freya Parker, Alicia Fitzgerald
 - 2025-04-11 — The Naked Week: Ep5. Tariffic Trump retaliation, and Woop Woop - it's the sound of the Thought Police. — speakers: Woop Woop, Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Larry Budd, Laura Grimshaw
 - 2025-04-04 — The Naked Week: Ep4. Performing, Potholes, and Paddington. — speakers: Rachel Reeves, Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Ania Magliano, Laura Grimshaw
-- 2025-03-28 — The Naked Week: Ep 3. Benefits, Borders, and a game of Truss or Towers. — speakers: Liz Truss, Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Rubina Pabani, Alice Stapleton
+- 2025-03-28 — The Naked Week: Ep 3. Benefits, Borders, and a game of Truss or Towers. — speakers: Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Rubina Pabani, Alice Stapleton
 - 2025-03-21 — The Naked Week: Ep 2. Brick Walls, Dead Wood, and Charlie. — speakers: Brick Walls, Dead Wood, Andrew Hunter Murray, Jon Holmes Katie Sayer, Freya Shaw, Matt Brown, Paul Dunphy, Donna Moore
 - 2025-03-14 — The Naked Week: Ep 1. Oval arguments, awful algorithms, and a game of Top (Donald) Trumps. — speakers: Rosie Holt, Andrew Hunter Murray, Jon Holmes Katie Sayer, Jason Hazeley, Freya Shaw, Matt Brown, Nussaibah Younis, Laura Windsor
 - 2025-03-07 — The News Quiz: Ep8. Mr. Starmer Goes To Washington — speakers: Starmer Goes, Andy Zaltzman, Scott Bennett, Sara Barron, Alex Massie, Lucy Porter, Simon Alcock, David Duncan
 - 2025-02-28 — The News Quiz: Ep7. Lying and Reassurance — speakers: Andy Zaltzman, Ian Smith, Laura Lexx, Simon Alcock, David Duncan, Laura Major, Christina Riggs, Peter Tellouche
 - 2025-02-21 — The News Quiz: Ep6. Corruption Leagues and Leaked WhatsApps — speakers: Corruption Leagues
 - 2025-02-14 — The News Quiz: Ep5. Tariffs, Tabloids and Typewriters — speakers: Andy Zaltzman, Ayesha Hazarika, Susie McCabe, Geoff Norcott, Pierre Novellie, Jade Gebbie, Alex Kealy, Christina Riggs
-- 2025-02-07 — The News Quiz: Ep 4. Gear shifting and Shoplifting — speakers: Andy Zaltzman, Simon Evans, Athena Kugblenu, Susie McCabe, Hugo Rifkind, Keir Starmer, Cameron Loxdale, Sascha LO
-- 2025-01-31 — The News Quiz: Ep 3. The Donald and The Dons — speakers: Andy Zaltzman, Andrew Maxwell, Val McDermid, Jay Lafferty, Stuart Mitchell, Donald Trump, Prince Harry, Neil Gray
-- 2025-01-24 — The News Quiz: Ep 2. Unconditional Discharge In Charge — speakers: Andy Zaltzman, Nish Kumar, Sara Barron, Glenn Moore, Zing Tsjeng, Donald Trump, Keir Starmer, Cody Dahler
-- 2025-01-17 — The News Quiz: Ep 1. Checked Facts & Unfettered Fictions — speakers: Andy Zaltzman, Geoff Norcott, Paul Sinha, Angela Barnes, Anushka Asthana, Donald Trump, Keir Starmer, Elon Musk
+- 2025-02-07 — The News Quiz: Ep 4. Gear shifting and Shoplifting — speakers: Andy Zaltzman, Simon Evans, Athena Kugblenu, Susie McCabe, Hugo Rifkind, Cameron Loxdale, Sascha LO
+- 2025-01-31 — The News Quiz: Ep 3. The Donald and The Dons — speakers: Andy Zaltzman, Andrew Maxwell, Val McDermid, Jay Lafferty, Stuart Mitchell, Prince Harry, Neil Gray
+- 2025-01-24 — The News Quiz: Ep 2. Unconditional Discharge In Charge — speakers: Andy Zaltzman, Nish Kumar, Sara Barron, Glenn Moore, Zing Tsjeng, Cody Dahler
+- 2025-01-17 — The News Quiz: Ep 1. Checked Facts & Unfettered Fictions — speakers: Andy Zaltzman, Geoff Norcott, Paul Sinha, Angela Barnes, Anushka Asthana
 - 2025-01-10 — Best of The News Quiz 2024 — speakers: Andy Zaltzman, Ian Smith, Lucy Porter, Geoff Norcott, Alasdair Beckett-King, Mark Steel, Ria Lina, Simon Evans
 - 2025-01-03 — The Naked Christmas Week: Books, Trump, and When Is Bins? — speakers: Andrew Hunter Murray Chief, Amy Hoggart Written, Jon Holmes Jason Hazeley, Katie Sayer, Sarah Dempster, Adam Macqueen, Louis Mian, Jon Ho-ho-ho-Holmes
-- 2024-12-27 — The Naked Week: Ep4: Spies, Uncanny Ghosts, and Christmas Crackers — speakers: Uncanny Ghosts, Nigel Farage, Andrew Hunter Murray, Amy Hoggart, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley
+- 2024-12-27 — The Naked Week: Ep4: Spies, Uncanny Ghosts, and Christmas Crackers — speakers: Uncanny Ghosts, Andrew Hunter Murray, Amy Hoggart, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley
 - 2024-12-20 — The Naked Week: Ep 3. Prisons, Syria, and Kemi's Catchphrase. — speakers: Andrew Hunter Murray, Amy Hoggart, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley, Karl Minns Production Team, Laura Grimshaw
 - 2024-12-13 — The Naked Week: Ep2. Spin, Milestones, and Monopoly (Qatar edition) — speakers: Gregg Wallace, Andrew Hunter Murray, Amy Hoggart, Jon Holmes, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley
 - 2024-12-06 — The Naked Week: Ep1. Lobbying, art, soup, and farms — speakers: Andrew Hunter Murray, Amy Hoggart, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley, Mark Miodownik, Laura Grimshaw
-- 2024-11-29 — Dead Ringers: Ep4. Revolting Farmers — speakers: Jeremy Clarkson, Nigel Farage, Rachel Reeves, Donald Trump, Jon Culshaw, Jan Ravens, Lewis MacLeod, Duncan Wisbey
-- 2024-11-22 — Dead Ringers: Ep 3. New World Disorder — speakers: Donald Trump, Justin Welby, Jan Ravens, Jess Robinson, Duncan Wisbey, Jason Forbes, Tom Jamieson, Nev Fountain
-- 2024-11-15 — Dead Ringers: Ep 2. America Went There — speakers: Donald Trump, Joe Biden, Nigel Farage, Jon Culshaw, Jan Ravens, Jess Robinson, Duncan Wisbey, Tom Jamieson
-- 2024-11-08 — Dead Ringers: Ep1. Budget Politicians — speakers: Rachel Reeves, Kamala Harris, Joe Biden, JD Vance, Tim Walz, Rishi Sunak, Jon Culshaw, Jan Ravens
-- 2024-11-01 — The News Quiz: Ep 8. Interference, Incentives and Interruptions — speakers: Ian Smith, Geoff Norcott, Amy Hoggart, Alasdair Beckett-King, Susie McCabe, King Charles, Alex Kealy, Cameron Loxdale
+- 2024-11-29 — Dead Ringers: Ep4. Revolting Farmers — speakers: Jeremy Clarkson, Rachel Reeves, Jon Culshaw, Jan Ravens, Lewis MacLeod, Duncan Wisbey
+- 2024-11-22 — Dead Ringers: Ep 3. New World Disorder — speakers: Justin Welby, Jan Ravens, Jess Robinson, Duncan Wisbey, Jason Forbes, Tom Jamieson, Nev Fountain
+- 2024-11-15 — Dead Ringers: Ep 2. America Went There — speakers: Jon Culshaw, Jan Ravens, Jess Robinson, Duncan Wisbey, Tom Jamieson
+- 2024-11-08 — Dead Ringers: Ep1. Budget Politicians — speakers: Rachel Reeves, Kamala Harris, JD Vance, Tim Walz, Rishi Sunak, Jon Culshaw, Jan Ravens
+- 2024-11-01 — The News Quiz: Ep 8. Interference, Incentives and Interruptions — speakers: Ian Smith, Geoff Norcott, Amy Hoggart, Alasdair Beckett-King, Susie McCabe, Alex Kealy, Cameron Loxdale
 - 2024-10-25 — The News Quiz: Ep 7. Inflation and Incinerators — speakers: Wes Streeting, Lucy Porter, Mike Shephard, Tasha Dhanraj, Peter Tellouche, Rajiv Karia, James Robinson Production Coordinator, Marc Willcox
 - 2024-10-18 — The News Quiz: Ep 6. Cleverly Timed Exits — speakers: Cleverly Timed, Sue Gray, James Cleverly, Geoff Norcott, Cody Dahler, James Farmer, Tom Mayhew, Christina Riggs
 - 2024-10-11 — The News Quiz: Ep 5. Peace & Peaks — speakers: Scott Bennett, Cindy Yu, Andy Zaltzman, Jade Gebbie, Cody Dahler, Dee Allum, Peter Tellouche, Sam Holmes Executive
-- 2024-10-04 — The News Quiz: Ep4. Conference & Confidence — speakers: Robin Morgan, Ian Smith, Alice Fraser, Ash Sarkar, Andy Zaltzman, Keir Starmer, Jade Gebbie, Mark Granger
+- 2024-10-04 — The News Quiz: Ep4. Conference & Confidence — speakers: Robin Morgan, Ian Smith, Alice Fraser, Ash Sarkar, Andy Zaltzman, Jade Gebbie, Mark Granger
 - 2024-09-27 — The News Quiz: Ep3. Work & Play — speakers: Simon Evans, Ian Smith, Anushka Asthana, Andy Zaltzman, Cameron Loxdale, Sarah Campbell, Peter Tellouche, Sam Holmes Executive
 - 2024-09-20 — The News Quiz: Ep2. Prisoners and Pensioners — speakers: Simon Evans, Ria Lina, Glenn Moore, Coco Khan, Andy Zaltzman, Mike Shephard, Christiana Riggs, Rebecca Bain
 - 2024-09-13 — The News Quiz: Ep1. Labour’s Brat Summer — speakers: Neil Delamere, Lucy Porter, Mark Steel, Marie Le Conte, Andy Zaltzman, Mike Shephard, Meryl O'Rourke, Peter Tellouche
@@ -6816,7 +6747,7 @@
 - 2024-08-02 — Catherine Bohart: TL;DR - 1. We Need To Talk About Kamala — speakers: Catherine Bohart, Sunil Patel, Katy Balls, Sarah Churchwell, Madeleine Brettingham, Sarah Campbell, Ellen Robertson, David Thomas
 - 2024-07-19 — The News Quiz - 19th July — speakers: July Topical
 - 2024-07-19 — The News Quiz- 12th July — speakers: July Topical
-- 2024-07-12 — The News Quiz - 5th July — speakers: Lucy Porter, Ria Lina, Simon Evans, Andy Zaltzman, Keir Starmer, Peter Tellouche, Alice Fraser, Cameron Loxdale
+- 2024-07-12 — The News Quiz - 5th July — speakers: Lucy Porter, Ria Lina, Simon Evans, Andy Zaltzman, Peter Tellouche, Alice Fraser, Cameron Loxdale
 - 2024-07-05 — The News Quiz - 28th June — speakers: Geoff Norcott, Stuart Mitchell, Katy Balls, Andy Zaltzman, Toussaint Douglass, Mark Granger, Angela Channell, Pete Tellouche
 - 2024-06-28 — The News Quiz - 21st June — speakers: Alasdair Beckett-King, Simon Evans, Laura Smyth, Cindy Yu, Andy Zaltzman, Cameron Loxdale, Jade Gebbie, Dan Sweryt
 - 2024-06-21 — The News Quiz - 14th June — speakers: Lucy Porter, Alasdair Beckett-King, Athena Kugblenu, Andy Zaltzman, Christina Riggs, Meryl O'Rourke, Mike Shephard, Sam Holmes Executive
@@ -6824,7 +6755,7 @@
 - 2024-06-13 — Dead Ringers - 31st May — speakers: Dead Ringers st, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke, Edward Tew, Sophie Dixon, Cody Dahler
 - 2024-06-12 — Dead Ringers - 24th May — speakers: Jon Culshaw, Jan Ravens, Duncan Wisbey, Jess Robinson, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke
 - 2024-06-11 — Dead Ringers - 17th May — speakers: Dead Ringers th, Mr Blobby, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke, Edward Tew, Sophie Dixon
-- 2024-06-07 — Dead Ringers - 10th May — speakers: Dead Ringers th, Rishi Sunak, Elon Musk, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke, Edward Tew
+- 2024-06-07 — Dead Ringers - 10th May — speakers: Dead Ringers th, Rishi Sunak, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke, Edward Tew
 - 2024-05-31 — Dead Ringers - 3rd May — speakers: Dead Ringers rd, Harry Kane, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Sarah Campbell, Rob Darke, Edward Tew
 - 2024-05-24 — Dead Ringers - 26th April — speakers: Dead Ringers th April, Angela Rayner, Will Rylan, Stacey Solomon, Tom Jamieson, Ed Amsden Tom Coles, Laurence Howarth, Rob Darke
 - 2024-05-17 — The Now Show - 19th April — speakers: Steve Punt, Hugh Dennis, Rory Bremner, Glenn Moore, Harriet Kemsley, Matt Hutson, Luke Bainbridge, Tom Marlow
@@ -6834,17 +6765,17 @@
 - 2024-04-20 — The Now Show - 22nd March — speakers: Steve Punt, Lucy Porter, Laura Kenny, Alasdair Beckett-King, Mitch Benn, Ed Jones, Katie Norris, Cody Dahler
 - 2024-04-20 — The Now Show - 15th March — speakers: Steve Punt, Marcus Brigstocke, Ed MacArthur, David Duncan, Aidan Fitzmaurice, Jade Gebbie, Christina Riggs, Gemma Arrowsmith
 - 2024-04-05 — The News Quiz - 8th March — speakers: Mark Steel, Marie Le Conte, Simon Evans, Andy Zaltzman, George Galloway, Cody Dahler, Meryl O'Rourke, Molly McGuinness
-- 2024-03-29 — The News Quiz - 1st March — speakers: Susie McCabe, Ashley Storrie, Stuart Mitchell, Andy Zaltzman, Gordon Brown, Lee Anderson, Cody Dahler, Rebecca Bain
-- 2024-03-22 — The News Quiz - 23rd February — speakers: Andrew Doyle, Lucy Porter, Andy Zaltzman, Donald Trump, Cody Dahler, Cameron Loxdale, Viv May Producer, James Robinson Executive
+- 2024-03-29 — The News Quiz - 1st March — speakers: Susie McCabe, Ashley Storrie, Stuart Mitchell, Andy Zaltzman, Lee Anderson, Cody Dahler, Rebecca Bain
+- 2024-03-22 — The News Quiz - 23rd February — speakers: Andrew Doyle, Lucy Porter, Andy Zaltzman, Cody Dahler, Cameron Loxdale, Viv May Producer, James Robinson Executive
 - 2024-03-15 — The News Quiz - 16th February — speakers: Andy Zaltzman, Andrew Maxwell, Rachel Parris, Danny Finkelstein, Cody Dahler, Ben Clover, Jade Gebbie Producer, Sam Holmes Executive
 - 2024-03-08 — The News Quiz - 9th February — speakers: Andy Zaltzman, Neil Delamere, Diona Doherty, Alex Kane, Cody Dahler, Alison Spittle, John Meagher, Claire Sullivan Producer
 - 2024-03-01 — The News Quiz - 2nd February — speakers: Andy Zaltzman, Simon Evans, Alasdair Beckett-King, Anushka Asthana, Cody Dahler, Alice Fraser, Jade Gebbie, Adam Greene
-- 2024-02-23 — The News Quiz - 26th January — speakers: Andy Zaltzman, Lucy Porter, Geoff Norcott, Alasdair Beckett-King, Cindy Yu, Keir Starmer, Cody Dahler, Mike Shephard
+- 2024-02-23 — The News Quiz - 26th January — speakers: Andy Zaltzman, Lucy Porter, Geoff Norcott, Alasdair Beckett-King, Cindy Yu, Cody Dahler, Mike Shephard
 - 2024-02-16 — The News Quiz - 19th January — speakers: Andy Zaltzman, Lucy Porter, Robin Morgan, Tadiwa Mahlunge, Ayesha Hazarika, Cody Dahler, Cameron Loxdale, Sam Holmes Executive
 - 2024-02-09 — The News Quiz - 12th January — speakers: January Topical
 - 2024-02-02 — The News Quiz - 5th January — speakers: Andy Zaltzman, Sam Holmes Executive, James Robinson Production Coordinator, Jodie Charman
-- 2024-01-26 — Dead Ringers - 29th December — speakers: Dead Ringers th, Jon Culshaw, Jan Ravens, Bill Dare, Dead Ringers, David Cameron, Ed Miliband
-- 2024-01-19 — Dead Ringers - 22nd December — speakers: Dead Ringers, Katherine Jenkins, Ncuti Gatwa, King Charles, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Edward Tew
+- 2024-01-26 — Dead Ringers - 29th December — speakers: Dead Ringers th, Jon Culshaw, Jan Ravens, Bill Dare, Dead Ringers, Ed Miliband
+- 2024-01-19 — Dead Ringers - 22nd December — speakers: Dead Ringers, Katherine Jenkins, Ncuti Gatwa, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Edward Tew
 - 2024-01-12 — Dead Ringers - 15th December — speakers: Dead Ringers th, Kier Starmer, Jon Culshaw, Lewis MacLeod, Jan Ravens, Jess Robinson, Duncan Wisbey, Tom Jamieson
 - 2024-01-05 — The Now Show - 8th December — speakers: Steve Punt, Geoff Norcott, Harriet Kemsley, Kim Jong Un, Peter Rugman, Adrian Gray, Miranda Holms, Rajiv Karia
 - 2023-12-29 — The Now Show - 1st December — speakers: Steve Punt, David Eagle, Jessica Fostekew, Archie Henderson, Becky CJ, Alex Garrick-Wright, Jade Gebbie, Rhiannon Shaw
@@ -6868,7 +6799,7 @@
 - 2023-08-25 — The Newsmakers with Rachel Parris — speakers: Rachel Parris, Rachel Parris Guests, Rosie Holt, Sam Pamphilion, Michael Spicer, Zafar Nim Odedra Additional, Robin Morgan Recorded, David Thomas Producer
 - 2023-08-18 — Dead Ringers - 21st July — speakers: Dead Ringers st July
 - 2023-08-11 — Dead Ringers - 14th July — speakers: Dead Ringers th July
-- 2023-08-04 — Dead Ringers - 7th July — speakers: Dead Ringers th July, King Charles, Kier Starmer, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Edward Tew, Robert Darke
+- 2023-08-04 — Dead Ringers - 7th July — speakers: Dead Ringers th July, Kier Starmer, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Edward Tew, Robert Darke
 - 2023-07-31 — Introducing six Summer Specials — speakers: Rachel Parris, Dom Joly, Catherine Bohart, Rhys James, Andrew Hunter Murray
 - 2023-07-28 — Dead Ringers - 30th June — speakers: Dead Ringers th June
 - 2023-07-21 — Dead Ringers - 23rd June — speakers: Dead Ringers rd June, Jon Culshaw, Duncan Wisbey, Jess Robinson, Jason Forbes, Jan Ravens
@@ -6888,18 +6819,18 @@
 - 2023-04-21 — The Now Show - 24th March — speakers: Steve Punt
 - 2023-04-14 — The Now Show - 17th March — speakers: Steve Punt
 - 2023-04-07 — The News Quiz - 10th March — speakers: Andy Zaltzman
-- 2023-03-31 — The News Quiz - 3rd March — speakers: Andy Zaltzman, Simon Evans, Samira Ahmed, Alasdair Beckett-King, Matt Hancock’s WhatsApps, King Charles, Alice Fraser, Zoë Tomalin
-- 2023-03-24 — The News Quiz - 24th February — speakers: Ian Smith, Holly Walsh, Andy Parsons, Kate Andrews, Keir Starmer, Andy Zaltzman, Alice Fraser, Catherine Brinkworth
+- 2023-03-31 — The News Quiz - 3rd March — speakers: Andy Zaltzman, Simon Evans, Samira Ahmed, Alasdair Beckett-King, Matt Hancock’s WhatsApps, Alice Fraser, Zoë Tomalin
+- 2023-03-24 — The News Quiz - 24th February — speakers: Ian Smith, Holly Walsh, Andy Parsons, Kate Andrews, Andy Zaltzman, Alice Fraser, Catherine Brinkworth
 - 2023-03-17 — The News Quiz - 17th February — speakers: Andy Zaltzman, Angela Barnes, Jeremy Corbyn, Alice Fraser, Catherine Brinkworth, Eleanor Morton, Peter Tellouche, Cameron Loxdale
-- 2023-03-10 — The News Quiz - 10th February — speakers: Andy Zaltzman, Mark Steel, Ria Lina, Catherine Bohart, Rishi Sunak, Liz Truss, Alice Fraser, Zoë Tomalin
+- 2023-03-10 — The News Quiz - 10th February — speakers: Andy Zaltzman, Mark Steel, Ria Lina, Catherine Bohart, Rishi Sunak, Alice Fraser, Zoë Tomalin
 - 2023-03-03 — The News Quiz - 3rd February — speakers: Frankie Boyle, Susie McCabe, Ashley Storrie, Alex Massie, Andy Zaltzman, Alice Fraser, Max Davis, Stuart Mitchell
 - 2023-02-24 — The News Quiz - 27th January — speakers: Andy Zaltzman, Geoff Norcott, Chris McCausland, Isabel Hardman, Maisie Adam, Nadhim Zahawi, Alice Fraser, Davina Bentley
-- 2023-02-17 — The News Quiz – 20th January — speakers: Andy Zaltzman, Geoff Norcott, Shaparak Khorsandi, Helen Lewis, Ian Smith, Keir Starmer, Alice Fraser, Mike Shephard
+- 2023-02-17 — The News Quiz – 20th January — speakers: Andy Zaltzman, Geoff Norcott, Shaparak Khorsandi, Helen Lewis, Ian Smith, Alice Fraser, Mike Shephard
 - 2023-02-10 — The News Quiz – 13th January — speakers: Andy Zaltzman, Lucy Porter, Mark Steel, Ayesha Hazarika, Ian Smith, Alice Fraser, Mike Shephard, Aidan Fitzmaurice
-- 2023-02-03 — The News Quiz – 6th January — speakers: Andy Zaltzman, Lucy Porter, Chris McCausland, Samira Ahmed, Scott Bennett, Rishi Sunak, Keir Starmer, Alice Fraser
+- 2023-02-03 — The News Quiz – 6th January — speakers: Andy Zaltzman, Lucy Porter, Chris McCausland, Samira Ahmed, Scott Bennett, Rishi Sunak, Alice Fraser
 - 2023-01-27 — News Quiz Best of 2022 – 30th December — speakers: Andy Zaltzman, James Robinson Production Co-ordinator, Ryan Walker-Edwards Sound, Jerry Peal
-- 2023-01-20 — Dead Ringers – 23rd December — speakers: King Charles, Jon Culshaw, Jan Ravens, Duncan Wisbey, Naomi McDonald, Anil Desai, Tom Jamieson, Nev Fountain
-- 2023-01-13 — Dead Ringers – 16th December — speakers: Matt Hancock’s Covid, Keir Starmer, Jon Culshaw, Lewis McLeod, Jan Ravens, Duncan Wisbey, Naomi McDonald, Anil Desai
+- 2023-01-20 — Dead Ringers – 23rd December — speakers: Jon Culshaw, Jan Ravens, Duncan Wisbey, Naomi McDonald, Anil Desai, Tom Jamieson, Nev Fountain
+- 2023-01-13 — Dead Ringers – 16th December — speakers: Matt Hancock’s Covid, Jon Culshaw, Lewis McLeod, Jan Ravens, Duncan Wisbey, Naomi McDonald, Anil Desai
 - 2023-01-06 — Dead Ringers – 9th December — speakers: David Beckham, Dead Ringers, Jon Culshaw, Jan Ravens, Lewis McLeod, Duncan Wisbey, Naomi McDonald, Anil Desai
 - 2022-12-30 — The Now Show - 2nd December — speakers: Steve Punt, Jamie MacDonald, Lucy Porter, Ed MacArthur, Zoe Tomalin, Cameron Loxdale, George Fouracres, David Thomas Sound
 - 2022-12-23 — The Now Show - 25th November — speakers: Hugh Dennis, Glenn Moore, Steve Punt, Alex Kealy, Athena Kugblenu, Ignacio Lopez, Shamima Begum, Simon Alcock
@@ -6913,17 +6844,17 @@
 - 2022-10-28 — The News Quiz - 30th September — speakers: September Topical
 - 2022-10-21 — The News Quiz - 23rd September — speakers: Andy Zaltzman
 - 2022-10-14 — The News Quiz - 16th September — speakers: Andy Zaltzman
-- 2022-09-23 — Party's Over - 26th August — speakers: Gordon Brown, Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Fergus Craig, Paul Doolan
-- 2022-09-23 — Party's Over - 19th August — speakers: Gordon Brown, Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Ruth Bratt, Paul Doolan
-- 2022-09-23 — Party's Over - 12th August — speakers: Gordon Brown, Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Mali Ann Rees, Paul Doolan
-- 2022-09-02 — Party's Over - 5th August — speakers: Gordon Brown, Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, David Mumeni, Paul Doolan
-- 2022-08-26 — Party's Over - 29th July — speakers: Gordon Brown, Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, David Momeni, Paul Doolan
+- 2022-09-23 — Party's Over - 26th August — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Fergus Craig, Paul Doolan
+- 2022-09-23 — Party's Over - 19th August — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Ruth Bratt, Paul Doolan
+- 2022-09-23 — Party's Over - 12th August — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Mali Ann Rees, Paul Doolan
+- 2022-09-02 — Party's Over - 5th August — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, David Mumeni, Paul Doolan
+- 2022-08-26 — Party's Over - 29th July — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, David Momeni, Paul Doolan
 - 2022-08-19 — Dead Ringers - 22nd July — speakers: Dead Ringers
 - 2022-08-12 — Dead Ringers - 15th July — speakers: Dead Ringers th
 - 2022-08-05 — Dead Ringers - 8th July — speakers: Dead Ringers th July
 - 2022-07-29 — Dead Ringers - 1st July — speakers: Dead Ringers st
 - 2022-07-22 — Dead Ringers - 24th June
-- 2022-07-15 — Dead Ringers - 17th June — speakers: Dead Ringers th June, Sue Gray, Liz Truss, Michael Gove, Jon Culshaw, Jan Ravens, Lewis MacLeod, Debra Stephenson
+- 2022-07-15 — Dead Ringers - 17th June — speakers: Dead Ringers th June, Sue Gray, Michael Gove, Jon Culshaw, Jan Ravens, Lewis MacLeod, Debra Stephenson
 - 2022-07-08 — The News Quiz - 10th June — speakers: Andy Zaltzman
 - 2022-07-01 — The News Quiz - 3rd June — speakers: Andy Zaltzman
 - 2022-06-24 — The News Quiz - 27th May — speakers: Andy Zaltzman
@@ -6947,10 +6878,10 @@
 - 2022-01-28 — News Quiz 28th January 2022 — speakers: Andy Zaltzman, Nish Kumar, Rachel Fairburn, Neil Delamere, Isabel Hardman, Alice Fraser, Heidi Regan, Rhiannon Shaw
 - 2022-01-21 — News Quiz 21st January 2022 — speakers: Andy Zaltzman, Alice Fraser, Chris McCausland, Hugo Rifkind, Heidi Regan, Cameron Loxdale, Stephen Buchanan, Tasha Dhanraj
 - 2022-01-14 — News Quiz 14th January 2022 — speakers: Andy Zaltzman, Ayesha Hazarika, Paul Sinha, Simon Evans, Sue Gray-like, Michael Gove, Alice Fraser, Mike Shephard
-- 2022-01-07 — News Quiz 7th January 2022 — speakers: Andy Zaltzman, Alice Fraser, Chris McCausland, Ahir Shah, Boris Johnson, Simon Alcock, Nathan D'Arcy Roberts, Rajiv Karia
+- 2022-01-07 — News Quiz 7th January 2022 — speakers: Andy Zaltzman, Alice Fraser, Chris McCausland, Ahir Shah, Simon Alcock, Nathan D'Arcy Roberts, Rajiv Karia
 - 2021-12-31 — News Quiz: Best of 2021 — speakers: Andy Zaltzman, Richard Morris, Katie Baum
 - 2021-12-24 — Dead Ringers - Christmas Specials 2021 - The Multiverse Special — speakers: Dead Ringers Christmas Specials, Man Flu, Ronnie Corbett, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey
-- 2021-12-17 — Dead Ringers - Christmas Specials 2021 - Episode 2 — speakers: Dead Ringers Christmas Specials, Chris Whitty, Boris Johnson, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey, Tom Jamieson
+- 2021-12-17 — Dead Ringers - Christmas Specials 2021 - Episode 2 — speakers: Dead Ringers Christmas Specials, Chris Whitty, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey, Tom Jamieson
 - 2021-12-10 — Dead Ringers - Christmas Specials 2021 - Episode 1 — speakers: Dead Ringers Christmas Specials, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey, Tom Jamieson, Laurence Howarth
 - 2021-12-03 — The Now Show - 3rd December - feat Janine Harouni, Jamie MacDonald, Tim Sutton and Sooz Kempner — speakers: Janine Harouni, Jamie MacDonald, Tim Sutton, Steve Punt, Kieran Hodgson, Nimisha Odedra, Sarah Sharpe
 - 2021-11-26 — The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies — speakers: Geoff Norcott, Steve Punt, Emma Sidi, Jason Forbes, Sarah Sharpe
@@ -6958,11 +6889,11 @@
 - 2021-11-12 — The Now Show - 12th November ft Gareth Gwynn, Michael Spicer, Priya Hall and Ignacio Lopez — speakers: Gareth Gwynn, Michael Spicer, Priya Hall, Ignacio Lopez, Steve Punt, Igancio Lopez, Luke Kempner, Karen Bartke
 - 2021-10-29 — The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson — speakers: Jess Robinson, Steve Punt, Alex Silverman, Gemma Arrowsmith, Luke Kempner Producer, Pete Strauss Production Co-Ordinator, Sarah Sharpe
 - 2021-10-22 — News Quiz 22nd October 2021 — speakers: Andy Zaltzman, Ayesha Hazarika, Matt Winning, Geoff Norcott, Elis James, Brian Cox, Sajid Javid, Alice Fraser
-- 2021-10-15 — News Quiz 15th October 2021 — speakers: Catherine Bohart, Michael Deacon, Chris McCausland, Eshaan Akbar, Andy Zaltzman, Boris Johnson, Alice Fraser, Catherine Brinkworth
+- 2021-10-15 — News Quiz 15th October 2021 — speakers: Catherine Bohart, Michael Deacon, Chris McCausland, Eshaan Akbar, Andy Zaltzman, Alice Fraser, Catherine Brinkworth
 - 2021-10-08 — News Quiz 8th October 2021 — speakers: Kerry Godliman, Anand Menon, Ola Labib, Andy Zaltzman, Alice Fraser, Heidi Regan, Suchandrika Chakrabarti, Tasha Dhanraj
 - 2021-10-01 — News Quiz 1st October 2021 — speakers: Lucy Porter, Angela Barnes, Alun Cochrane, Matt Forde, Andy Zaltzman, Alice Fraser, Max Davis, Tasha Dhanraj
 - 2021-09-24 — News Quiz 24th September 2021 — speakers: Hugo Rifkind, Susie McCabe, Ria Lina, Andrew Maxwell, Andy Zaltzman, Alice Fraser, Mike Shephard, Rajiv Karia
-- 2021-09-17 — News Quiz 17th September 2021 — speakers: Andy Zaltzman, Paul Sinha, Neil Delamere, Boris Johnson, Emma Raducanu, Alice Fraser, Max Davis, Richard Stott
+- 2021-09-17 — News Quiz 17th September 2021 — speakers: Andy Zaltzman, Paul Sinha, Neil Delamere, Emma Raducanu, Alice Fraser, Max Davis, Richard Stott
 - 2021-09-10 — News Quiz 10th September 2021
 - 2021-09-03 — News Quiz 3rd September 2021 — speakers: Andy Zaltzman, Rachel Fairburn, Hugo Rifkind, Helen Lewis, Ian Smith
 - 2021-08-27 — Party's Over: ep6 Going Green 27th August 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards Lizzie, Alice Fraser, Paul Doolan, Jon Hunter
@@ -6972,9 +6903,9 @@
 - 2021-08-02 — Party's Over: ep2 Road Trip 30th July 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards, Paul Doolan, Jon Hunter, Richard Morris
 - 2021-07-16 — Dead Ringers, 16th July, 2021 — speakers: Dead Ringers, Ronan Keating, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Tom Jamieson, Laurence Howarth
 - 2021-07-09 — Dead Ringers, 9th July, 2021 — speakers: Dead Ringers, Angela Rayner, Andy Murray, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey
-- 2021-07-02 — Dead Ringers, Series 21, Episode 4 — speakers: Dead Ringers, Sajid Javid, Liz Truss, Harry Kane, Andy Murray, Tom Jamieson, Nev Fountain, Laurence Howarth
-- 2021-06-25 — Dead Ringers, 25th June, 2021 — speakers: Dead Ringers, Chris Whitty, Liz Truss, Jon Culshaw, Lewis Macleod, Jan Ravens, Duncan Wisbey, Tom Jamieson
-- 2021-06-18 — Dead Ringers, 18th June, 2021 — speakers: Dead Ringers, Liz Truss, Martin Bashir, Tom Jamieson, Nev Fountain, Laurence Howarth, Tom Coles Ed Amsden, Jeffrey Aidoo
+- 2021-07-02 — Dead Ringers, Series 21, Episode 4 — speakers: Dead Ringers, Sajid Javid, Harry Kane, Andy Murray, Tom Jamieson, Nev Fountain, Laurence Howarth
+- 2021-06-25 — Dead Ringers, 25th June, 2021 — speakers: Dead Ringers, Chris Whitty, Jon Culshaw, Lewis Macleod, Jan Ravens, Duncan Wisbey, Tom Jamieson
+- 2021-06-18 — Dead Ringers, 18th June, 2021 — speakers: Dead Ringers, Martin Bashir, Tom Jamieson, Nev Fountain, Laurence Howarth, Tom Coles Ed Amsden, Jeffrey Aidoo
 - 2021-06-14 — Dead Ringers 11th June 2021 — speakers: Tom Cruise, Tom Jamieson, Nev Fountain, Laurence Howarth, Tom Coles Ed Amsden, Jeffrey Aidoo, Simon Alcock, James Bugg
 - 2021-06-04 — The News Quiz - Friday 4th June 2021 — speakers: Andy Zaltzman, Andrew Maxwell, Alex Massie, Alice Fraser, Max Davis, Tasha Dhanraj, Richard Morris, Cherlynn Andrew-Wilfred Sound
 - 2021-05-28 — The News Quiz - Friday 28th May 2021 — speakers: Andy Zaltzman, Lucy Porter, Alice Fraser, Eleanor Morton, Rajiv Karia, Simon Alcock, Richard Morris, Cherlynn Andrew-Wilfred Sound
