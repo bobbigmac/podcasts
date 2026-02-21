@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-02-20T13:33:38+00:00`
-- checked_at: `2026-02-20T13:33:38+00:00`
-- etag: `"djEuMi4wOjE3NzE1OTExNDUwMTQ="`
+- fetched_at: `2026-02-21T07:01:37+00:00`
+- checked_at: `2026-02-21T07:01:37+00:00`
+- etag: `"djEuMi4wOjE3NzE2NDY0Mzk2OTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-02-20T13:33:38+00:00",
+  "fetched_at": "2026-02-21T07:01:37+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e1b54aba761aaa839cc93d8155f12a1f2754977c",
+      "title": "RAACN week 4",
+      "published_at": "2026-02-21T04:00:00+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/raacn-week-4",
+      "description": "Monday 16th February 2026 - Area 51 - Rich and Ally are back with all the news that’s fit to talk about in a puppet based Newsround. Today Barack Obama has revealed that he thinks there are aliens, but have they already visited earth? And what do they look like? Is it even possible for them to get this far? With a report LIVE from Area 51 in America somewhere. Tuesday 17th February 2026 - Pikachu - Rich and Ally are back to give you all the main stories and whilst some news outlets might be giving solemn obituaries for the great Jesse Jackson, our team have uncovered news of a very expensive Pokemon card, which Rich feels might not be worth the price tag, which I think we can all agree is the story of the day. Has all his (and your) suffering for his art been worth it? Plus we go to the (poke)man himself to find out how he feels about the whole thing in yet another exclusive interview which blows the case wide open. Wednesday 18th February 2026 - Did Craven Do It In His Pants? - Rich and Ally are back with today’s newsround all about dancing Chinese robots and if scientists are wasting their time. There’s a special guest in to discuss this and also some upsetting stuff about Rich and Ally’s past. Trigger warning for anyone who has been touched by a puppet. Thursday 19th February 2026 - I’m Not Going To Take It Any More - Rich is away on holiday but Ally is here to reveal some harsh truths to his young audience. Not suitable for children, though all children should listen and rebel. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1771590888222-3294b82b-8d95-4511-8a4a-e6c9db359584.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/699855e8ef4f96dbedfb19dc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21797235",
+      "itunes_duration": "45:07",
+      "speakers": [
+        "Barack Obama",
+        "Jesse Jackson",
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "27225a82214a462c09f2706642edf1613d6836d8",
       "title": "RHLSTP Book Club 170 - Fergus Craig",
@@ -287,8 +308,7 @@
       "speakers": [
         "Richard Herring",
         "Ally Sloper",
-        "Sydney Sweeney",
-        "Donald Trump"
+        "Sydney Sweeney"
       ],
       "topics": [
         "raacn",
@@ -399,7 +419,6 @@
       "itunes_duration": "1:07:59",
       "speakers": [
         "Richard Osman",
-        "Albert Hall",
         "Murder Club",
         "Richard Herring"
       ],
@@ -1308,7 +1327,6 @@
       "itunes_duration": "50:39",
       "speakers": [
         "Sebastian Faulks",
-        "James Bond",
         "Richard Herring"
       ],
       "topics": [
@@ -1762,7 +1780,6 @@
       "itunes_duration": "1:15:33",
       "speakers": [
         "Ian Cadbury",
-        "James Bond",
         "Stephen Hawking",
         "Catch Dara",
         "Richard Herring"
@@ -2333,8 +2350,7 @@
         "Rik Mayall",
         "Michael Winner’s Bullseye",
         "Gary Sparrow",
-        "Goodnight Goodnight Sweetheart Sweetheart",
-        "Richard Herring"
+        "Goodnight Goodnight Sweetheart Sweetheart"
       ],
       "topics": [
         "maurice",
@@ -3058,7 +3074,6 @@
         "George Monbiot",
         "Peter Hutchinson",
         "Neo Liberalism",
-        "Liz Truss",
         "Richard Herring"
       ],
       "topics": [
@@ -3438,7 +3453,6 @@
         "Craig Brown",
         "Michael Fagan",
         "Cherie Blair",
-        "Donald Trump",
         "Richard Herring"
       ],
       "topics": [
@@ -4674,7 +4688,6 @@
       "speakers": [
         "Grammy Birthday Richard",
         "Charlotte Church",
-        "Rupert Murdoch",
         "Richard Herring"
       ],
       "topics": [
@@ -4803,7 +4816,6 @@
       "enclosure_length": "20485724",
       "itunes_duration": "42:25",
       "speakers": [
-        "Liz Truss",
         "Nerine Skinner",
         "Richard Herring"
       ],
@@ -5020,7 +5032,6 @@
       "itunes_duration": "39:17",
       "speakers": [
         "Stefan Stern",
-        "Boris Johnson",
         "Elizabeth Holmes",
         "Richard Herring"
       ],
@@ -5423,10 +5434,8 @@
         "Eric Morecambe",
         "Justin Lee Collins",
         "Will Rich",
-        "Harry Potter",
         "David Mitchells",
-        "gigs Buy",
-        "Richard Herring"
+        "gigs Buy"
       ],
       "topics": [
         "retro",
@@ -5679,7 +5688,6 @@
         "Club Richard",
         "Robin Hood",
         "Lloyd Griffith",
-        "Ted Lasso",
         "Richard Herring"
       ],
       "topics": [
@@ -5902,7 +5910,6 @@
       "itunes_duration": "1:20:23",
       "speakers": [
         "David Cross",
-        "Donald Trump",
         "gigs Buy",
         "Richard Herring"
       ],
@@ -6400,7 +6407,6 @@
       "speakers": [
         "Mary Beard",
         "Being Roman",
-        "Donald Trump",
         "Richard Herring"
       ],
       "topics": [
@@ -7092,8 +7098,7 @@
         "Stewart Lee",
         "Al Murray",
         "Mike Cosgrave",
-        "Arthur Smith",
-        "Richard Herring"
+        "Arthur Smith"
       ],
       "topics": [
         "rhlstp",
@@ -7252,7 +7257,6 @@
         "Comic Strip Presents",
         "Nigel Planer",
         "Steve Martin",
-        "Boris Johnson",
         "Keith Allen",
         "Richard Herring"
       ],
@@ -7322,7 +7326,6 @@
       "itunes_duration": "1:03:26",
       "speakers": [
         "Spencer Jones",
-        "Ted Lasso",
         "Ricky Gervais",
         "Richard Herring"
       ],
@@ -7766,8 +7769,7 @@
         "David Mitchell",
         "Anne Boleyn",
         "Simon de Montford",
-        "Richard Herring",
-        "James Bond"
+        "Richard Herring"
       ],
       "topics": [
         "rhlstp",
@@ -8015,7 +8017,6 @@
       "speakers": [
         "Mike Birbiglia",
         "Tom Hanks",
-        "Taylor Swift",
         "Mary King",
         "Richard Herring"
       ],
@@ -9302,7 +9303,6 @@
       "speakers": [
         "Michael Sheen",
         "Richard Osman",
-        "Boris Johnson",
         "Richard Herring"
       ],
       "topics": [
@@ -9650,7 +9650,6 @@
       "itunes_duration": "50:36",
       "speakers": [
         "John Higgs",
-        "James Bond",
         "George Lazenby",
         "Fake Paul",
         "Richard Herring"
@@ -11435,7 +11434,6 @@
       "itunes_duration": "1:14:53",
       "speakers": [
         "Ian Cadbury",
-        "James Bond",
         "Stephen Hawking",
         "Catch Dara",
         "Richard Herring"
@@ -12227,7 +12225,6 @@
       "itunes_duration": "1:12:30",
       "speakers": [
         "Jon Culshaw",
-        "Tony Blair",
         "David Bowie",
         "Bill Dare",
         "Tom Baker",
@@ -12397,7 +12394,6 @@
       "enclosure_length": "29842570",
       "itunes_duration": "1:01:38",
       "speakers": [
-        "Boris Johnson",
         "Grainne Maguire",
         "Gerry Adams",
         "Seth Meyers",
@@ -13128,8 +13124,7 @@
         "Jon Robbins",
         "Fringe performer",
         "Edinburgh Fringe",
-        "Dustin Hoffmann Oscar",
-        "Richard Herring"
+        "Dustin Hoffmann Oscar"
       ],
       "topics": [
         "retro",
@@ -13376,8 +13371,7 @@
         "Pete Townshend",
         "Peter Kay",
         "Order Richard",
-        "Sim Ottaway",
-        "Richard Herring"
+        "Sim Ottaway"
       ],
       "topics": [
         "matthew",
@@ -14104,9 +14098,7 @@
         "Ann Widdecombe",
         "John Travolta",
         "Ben Evans",
-        "David Cameron",
-        "Mary Beard",
-        "Richard Herring"
+        "Mary Beard"
       ],
       "topics": [
         "retro",
@@ -14215,7 +14207,6 @@
       "itunes_duration": "1:12:50",
       "speakers": [
         "John Oliver",
-        "Harry Potter",
         "Dan Harmon",
         "Terry Jones",
         "Richard Herring"
@@ -14263,7 +14254,6 @@
         "Jeremy Paxman",
         "John Gielgud",
         "Lady Di",
-        "Boris Johnson",
         "Richard Herring"
       ],
       "topics": [
@@ -16125,7 +16115,6 @@
       "itunes_duration": "1:11:00",
       "speakers": [
         "Sara Pascoe",
-        "Harry Potter",
         "Plus Sara",
         "Order Sara",
         "Richard Herring"
@@ -17217,8 +17206,7 @@
         "Sukh Ojla",
         "Tommy Tiernan",
         "Jon Hamm",
-        "Derry Girls",
-        "Richard Herring"
+        "Derry Girls"
       ],
       "topics": [
         "sukh",
@@ -17491,8 +17479,7 @@
         "Ashley Storrie",
         "Herbert Clunkerdunk",
         "John Lennon",
-        "Janey Godley’s Fringe",
-        "Richard Herring"
+        "Janey Godley’s Fringe"
       ],
       "topics": [
         "spencer",
@@ -18218,7 +18205,6 @@
         "Jon Ronson",
         "Jon Ronson Alex Jones",
         "Simon Cowell",
-        "Donald Trump",
         "gigs Buy",
         "Richard Herring"
       ],
@@ -18385,8 +18371,7 @@
         "Brian Blessed",
         "Roger Moore",
         "eq Buy",
-        "gigs Buy",
-        "Richard Herring"
+        "gigs Buy"
       ],
       "topics": [
         "sanjeev",
@@ -18731,7 +18716,6 @@
       "itunes_duration": "1:07:50",
       "speakers": [
         "Ross Noble Harder",
-        "Harry Potter",
         "Ross Noble",
         "Harold Bishop",
         "Mel Brooks",
@@ -19154,8 +19138,7 @@
         "Judy Dench",
         "Herring Danielle",
         "Benedict Cumberbatch",
-        "gigs Buy",
-        "Richard Herring"
+        "gigs Buy"
       ],
       "topics": [
         "danielle",
@@ -19747,8 +19730,7 @@
         "Ken Campbell",
         "Ben Wheatley",
         "Alan Partridge",
-        "gigs Buy",
-        "Richard Herring"
+        "gigs Buy"
       ],
       "topics": [
         "skinner"
@@ -19773,8 +19755,7 @@
         "Edinburgh Comedy Prize",
         "Jon Robbins",
         "Fringe performer",
-        "Edinburgh Fringe",
-        "Richard Herring"
+        "Edinburgh Fringe"
       ],
       "topics": [
         "rhefp",
@@ -20349,8 +20330,7 @@
         "Cheddar Gorge",
         "Rowan Atkinson",
         "Buy Tony",
-        "gigs Buy",
-        "Richard Herring"
+        "gigs Buy"
       ],
       "topics": [
         "tony",
@@ -20760,7 +20740,6 @@
       "itunes_duration": "1:22:39",
       "speakers": [
         "David Cross",
-        "Donald Trump",
         "gigs Buy",
         "Richard Herring"
       ],
@@ -20828,7 +20807,6 @@
       "itunes_duration": "1:14:37",
       "speakers": [
         "Lauren Laverne",
-        "Tony Blair",
         "gigs Buy",
         "Richard Herring"
       ],
@@ -20920,8 +20898,6 @@
         "Ken Campbell",
         "George Osborne",
         "David Bowie",
-        "Taylor Swift",
-        "James Bond",
         "gigs Buy",
         "Richard Herring"
       ],
@@ -21053,8 +21029,7 @@
         "Russell Howard",
         "Mark Lamarr",
         "Stewart Lee",
-        "gigs Buy",
-        "Richard Herring"
+        "gigs Buy"
       ],
       "topics": [
         "john",
@@ -21209,7 +21184,6 @@
         "Robert Popper Beef Scarecrows",
         "Robin Cooper",
         "Leigh Francis",
-        "Gordon Brown",
         "gigs Buy",
         "Richard Herring"
       ],
@@ -21300,7 +21274,6 @@
       "itunes_duration": "1:02:08",
       "speakers": [
         "Stuart Goldsmith Rear Window",
-        "David Cameron",
         "Stuart Goldsmith",
         "gigs Buy",
         "Richard Herring"
@@ -21509,8 +21482,7 @@
         "Stewart Lee",
         "Don Estelle",
         "Syd Little",
-        "Su Pollard",
-        "Richard Herring"
+        "Su Pollard"
       ],
       "topics": [
         "robin",
@@ -22548,7 +22520,6 @@
         "Miles Jupp",
         "George Clooney",
         "Jon Stewart",
-        "Harry Potter",
         "Imp Pervert",
         "gigs Buy",
         "Richard Herring"
@@ -22781,9 +22752,7 @@
         "Ann Widdecombe",
         "John Travolta",
         "Ben Evans",
-        "David Cameron",
-        "gigs Buy",
-        "Richard Herring"
+        "gigs Buy"
       ],
       "topics": [
         "stephen"
@@ -22919,9 +22888,7 @@
         "Eric Morecambe",
         "Justin Lee Collins",
         "Will Rich",
-        "Harry Potter",
-        "David Mitchells",
-        "Richard Herring"
+        "David Mitchells"
       ],
       "topics": [
         "david",
@@ -23133,7 +23100,6 @@
         "Charlie Higson",
         "Jonathan Ross",
         "Swiss Toni",
-        "James Bond",
         "Ricky Gervais",
         "gigs Buy",
         "Richard Herring"
@@ -23217,6 +23183,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-21 — RAACN week 4 — speakers: Barack Obama, Jesse Jackson, Richard Herring
 - 2026-02-20 — RHLSTP Book Club 170 - Fergus Craig — speakers: Craig Rhl, Fergus Craig, Martin Fishback, Richard Herring
 - 2026-02-18 — RHLSTP 599 - Adam Pearson — speakers: Adam Pearson, Scarlett Johansson, Richard Herring
 - 2026-02-16 — Retro RHLSTP 133 - Sikisa — speakers: Dick Pikachus Richard, Buy Richard, Richard Herring
@@ -23228,12 +23195,12 @@
 - 2026-02-06 — RHLSTP Book Club 168 - Danny Robins — speakers: Danny Robins, Lily Allen, Richard Herring
 - 2026-02-04 — RHLSTP 597 - Mark Simmons — speakers: Mark Simmons, Seann Walsh, Richard Herring
 - 2026-02-02 — Retro RHLSTP 131 - Humphrey Ker — speakers: Humphrey Ker, Buy Richard, Richard Herring
-- 2026-01-31 — RAACN week 1 — speakers: Richard Herring, Ally Sloper, Sydney Sweeney, Donald Trump
+- 2026-01-31 — RAACN week 1 — speakers: Richard Herring, Ally Sloper, Sydney Sweeney
 - 2026-01-30 — RHLSTP Book Club 167 - Jess Robinson — speakers: Jess Robinson, Anne Frank, Richard Herring
 - 2026-01-28 — RHLSTP 596 - Mathew Baynton — speakers: Mathew Baynton, Richard Herring
 - 2026-01-26 — Retro RHLSTP 130 - Philippa Perry — speakers: Philippa Perry, Buy Richard, Richard Herring
 - 2026-01-23 — RHLSTP Book Club 166 - Doug Naylor — speakers: Doug Naylor, Chicken Song, Douglas Bader, Richard Herring
-- 2026-01-21 — RHLSTP 595 - Richard Osman — speakers: Richard Osman, Albert Hall, Murder Club, Richard Herring
+- 2026-01-21 — RHLSTP 595 - Richard Osman — speakers: Richard Osman, Murder Club, Richard Herring
 - 2026-01-19 — Retro RHLSTP 129 - Rich Hall — speakers: Rich Hall, Larry David, David Letterman, Buy Richard, Richard Herring
 - 2026-01-16 — RHLSTP Book Club 165 - John Lloyd — speakers: John Lloyd, Douglas Adams, Richard Herring
 - 2026-01-14 — RHLSTP 594 - Carl Donnelly — speakers: Carl Donnelly, Richard Herring
@@ -23274,7 +23241,7 @@
 - 2025-10-24 — RHLSTP Book Club 157 - Mark Watson — speakers: Mark Watson, Away Richard, Richard Herring
 - 2025-10-22 — RHLSTP 585 - Joe Kent-Walters — speakers: Joe Kent-Walters, Edinburgh Award Best, Frankie Monroe, Bobby Davro, Richard Herring
 - 2025-10-20 — Retro RHLSTP 119 - Bob Mortimer — speakers: Bob Mortimer, Bob Mortimers, Buy Bob, Richard Herring
-- 2025-10-17 — RHLSTP Book Club 156 - Sebastian Faulks — speakers: Sebastian Faulks, James Bond, Richard Herring
+- 2025-10-17 — RHLSTP Book Club 156 - Sebastian Faulks — speakers: Sebastian Faulks, Richard Herring
 - 2025-10-15 — RHLSTP 584 - Nina Conti — speakers: Nina Conti, Richard Herring
 - 2025-10-13 — Retro RHLSTP 118 - Sally Phillips — speakers: Sally Phillips, Alan Partridge, Hugh Grant, Dexter Fletcher, Richard Herring
 - 2025-10-10 — RHLSTP Book Club 155 - Emma Doran — speakers: Emma Doran, Richard Herring
@@ -23294,7 +23261,7 @@
 - 2025-09-08 — Retro RHLSTP 113 - Alan Davies — speakers: Alan Davies, Liam Gallagher, Neil Kinnock, Buy Alan, Richard Herring
 - 2025-09-05 — RHLSTP Book Club 150 - Cariad Lloyd — speakers: Cariad Lloyd, Tom Percival, Buy Cariad, Richard Herring
 - 2025-09-03 — RHLSTP 578 - Bernie Clifton (Part 2) — speakers: Bernie Clifton, Ken Dodd, Richard Herring
-- 2025-09-01 — Retro RHLSTP 112 - Dara Ó Briain — speakers: Ian Cadbury, James Bond, Stephen Hawking, Catch Dara, Richard Herring
+- 2025-09-01 — Retro RHLSTP 112 - Dara Ó Briain — speakers: Ian Cadbury, Stephen Hawking, Catch Dara, Richard Herring
 - 2025-08-29 — RHLSTP Book Club 149 - Angas Tiernan — speakers: Angus Tiernan, Richard Herring
 - 2025-08-27 — RHLSTP 577 - Bernie Clifton (Part 1) — speakers: Bernie Clifton, Richard Herring
 - 2025-08-25 — Retro RHLSTP 111 - Amy Gledhill — speakers: Edinburgh Comedy Prize, Amy Gledhill, Richard Herring
@@ -23319,7 +23286,7 @@
 - 2025-06-25 — RHLSTP 567 - Joz Norris — speakers: Joe Norris, Pied Piper, Richard Herring
 - 2025-06-23 — Retro RHLSTP 106 - Armando Iannucci — speakers: Apocalypse Richard, Armando Iannucci, David Copperfield, Richard Herring
 - 2025-06-20 — RHLSTP Book Club 143 - Adam Buxton (Part 2) — speakers: Adam Buxton, Keith Allen, Dennis Waterman, Richard Herring
-- 2025-06-18 — RHLSTP 566 - Maurice Gran — speakers: Maurice Gran, Harvey Moon, Goodnight Sweetheart, Laurence Marks, Rik Mayall, Michael Winner’s Bullseye, Gary Sparrow, Goodnight Goodnight Sweetheart Sweetheart, Richard Herring
+- 2025-06-18 — RHLSTP 566 - Maurice Gran — speakers: Maurice Gran, Harvey Moon, Goodnight Sweetheart, Laurence Marks, Rik Mayall, Michael Winner’s Bullseye, Gary Sparrow, Goodnight Goodnight Sweetheart Sweetheart
 - 2025-06-16 — Retro RHLSTP 105 - Samira Ahmed — speakers: Samira Ahmed, Card Girl Rich, John Craven, Newshound Samira Ahmed, Mary Whitehouse, Richard Herring, Chrissie Hynde
 - 2025-06-15 — AMA 1 — speakers: Richard Herring
 - 2025-06-13 — RHLSTP Book Club 142 - Adam Buxton (Part 1) — speakers: Adam Buxton, Paul Weller, Richard Herring
@@ -23352,7 +23319,7 @@
 - 2025-04-11 — Acast Bonus 1 — speakers: Richard Herring
 - 2025-04-09 — RHLSTP 556 - Chris and Simon Donald from off of Viz — speakers: Simon Donald, Peter Cook, Tiger Mellie, Richard Herring
 - 2025-04-07 — Retro RHLSTP 95 - Ben Shephard — speakers: Ben Shephard, Julie Walters, Richard Herring
-- 2025-04-04 — RHLSTP Book Club 134 - George Monbiot — speakers: George Monbiot, Peter Hutchinson, Neo Liberalism, Liz Truss, Richard Herring
+- 2025-04-04 — RHLSTP Book Club 134 - George Monbiot — speakers: George Monbiot, Peter Hutchinson, Neo Liberalism, Richard Herring
 - 2025-04-02 — RHLSTP 555 - Larry and Paul — speakers: Jeremy Vine, Matt Lucas, David Walliams, Carol Vorderman, Richard Herring
 - 2025-03-31 — Retro RHLSTP 94 - Phil Wang — speakers: Phil Wang, John Lewis, Phil’s Netflix, Richard Herring
 - 2025-03-28 — RHLSTP Book Club 133 - Anthony Shapland — speakers: Anthony Shapland, Richard Herring
@@ -23369,7 +23336,7 @@
 - 2025-02-28 — RHLSTP Book Club 130 - Lissa Evans — speakers: Dermot Morgan, Richard Herring
 - 2025-02-26 — RHLSTP 550 - Nish Kumar — speakers: Milton Jones, Richard Herring
 - 2025-02-24 — Retro RHLSTP 89 - Louise Wener — speakers: Louise Wener, Richard Herring
-- 2025-02-21 — RHLSTP Book Club 129 - Craig Brown — speakers: Craig Brown, Michael Fagan, Cherie Blair, Donald Trump, Richard Herring
+- 2025-02-21 — RHLSTP Book Club 129 - Craig Brown — speakers: Craig Brown, Michael Fagan, Cherie Blair, Richard Herring
 - 2025-02-19 — RHLSTP 549 - Dave Gorman — speakers: Dave Gorman, Richard Herring
 - 2025-02-14 — RHLSTP Book Club 128 - Julia Raeside — speakers: Julia Raeside, Richard Herring
 - 2025-02-12 — RHLSTP 548 - Milton Jones — speakers: Milton Jones, Ha Milton, Richard Herring
@@ -23424,13 +23391,13 @@
 - 2024-09-18 — RHLSTP 529 - Tom Wrigglesworth — speakers: Tom Wrigglesworth, Electric Dreams, Richard Herring
 - 2024-09-13 — RHLSTP Book Club 108 - Iszi Lawrence — speakers: Iszi Lawrence, Henry Viii, Richard Herring
 - 2024-09-11 — RHLSTP 528 - Benjamin Partridge — speakers: Benjamin Partridge, Nick Offerman, Jeff Goldblum, Richard Herring
-- 2024-09-04 — RHLSTP 527 - Charlotte Church — speakers: Grammy Birthday Richard, Charlotte Church, Rupert Murdoch, Richard Herring
+- 2024-09-04 — RHLSTP 527 - Charlotte Church — speakers: Grammy Birthday Richard, Charlotte Church, Richard Herring
 - 2024-08-28 — RHLSTP 526 - Tommy Tiernan — speakers: Tommy Tiernan, Jerry Sadowitz, Richard Herring
 - 2024-08-21 — RHLSTP 525 - Lindsey Santoro — speakers: Lindsey Santoro, Richard Herring
 - 2024-08-20 — RHLSTP 524 - Stuart Laws — speakers: Stuart Laws, Michael Caine, Warsaw Indiana, Richard Herring
 - 2024-08-19 — RHLSTP 523 - Dan Tiernan — speakers: Dan Tiernan, Edinburgh Fringe, Baby Reindeer, Jehovah’s Witness, Dan’s Edinburgh, Richard Herring
 - 2024-08-16 — RHLSTP 522 - Stevie Martin — speakers: Stevie Martin, Ring Doorbell, Ally Sloper, Jack Whitehall, Richard Herring
-- 2024-08-14 — RHLSTP 521 - Nerine Skinner — speakers: Liz Truss, Nerine Skinner, Richard Herring
+- 2024-08-14 — RHLSTP 521 - Nerine Skinner — speakers: Nerine Skinner, Richard Herring
 - 2024-08-12 — RHLSTP 520 - Susie McCabe — speakers: Berocca Richard, Susie McCabe, Richard Herring
 - 2024-08-09 — RHLSTP 519 - Olaf Falafel — speakers: Richard Herring
 - 2024-08-07 — RHLSTP 518 - Simon Munnery — speakers: Simon Munnery, Malcolm Hardee, Kevin Eldon, Simon Pegg, Richard Herring
@@ -23440,7 +23407,7 @@
 - 2024-07-29 — RHLSTP 514 - Marjolein Robertson — speakers: Marjolein Robertson, Mary Queen, Charles Iii, Richard Herring
 - 2024-07-26 — RHLSTP Book Club 107 - Michael Redmond — speakers: Michael Redmond, Older Brother, Jesus Richard, Richard Herring
 - 2024-07-24 — RHLSTP 513 - Neil Hannon — speakers: Neil Hanlon, Robbie Williams See, Richard Herring
-- 2024-07-19 — RHLSTP Book Club 106 - Stefan Stern — speakers: Stefan Stern, Boris Johnson, Elizabeth Holmes, Richard Herring
+- 2024-07-19 — RHLSTP Book Club 106 - Stefan Stern — speakers: Stefan Stern, Elizabeth Holmes, Richard Herring
 - 2024-07-17 — RHLSTP 512 - Nick Wilty — speakers: Nick Wilty, Richard Herring
 - 2024-07-12 — RHLSTP Book Club 105 - Rob and Neil Gibbons — speakers: Neil Gibbons Book, Alan Partridge, Alan Partridge Buy, Richard Herring
 - 2024-07-10 — RHLSTP 511 - Tony Gardner — speakers: Tony Gardner, Richard Herring
@@ -23458,7 +23425,7 @@
 - 2024-06-03 — Retro RHLSTP 86 - Harry Shearer — speakers: Harry Shearer, Jack Benny, Mel Blanc, Derek Smalls, Jerry Lewis, gigs Buy, Richard Herring
 - 2024-05-31 — RHLSTP Book Club 99 - Catherine Nixey — speakers: Catherine Nixey, Richard Herring
 - 2024-05-29 — RHLSTP 505 - Bob Mortimer — speakers: Bob Mortimer, Paul McCartney, Richard Herring
-- 2024-05-27 — Retro RHLSTP 85 - David Mitchell — speakers: Alice Cooper, David Mitch Mitchell, Eric Morecambe, Justin Lee Collins, Will Rich, Harry Potter, David Mitchells, gigs Buy, Richard Herring
+- 2024-05-27 — Retro RHLSTP 85 - David Mitchell — speakers: Alice Cooper, David Mitch Mitchell, Eric Morecambe, Justin Lee Collins, Will Rich, David Mitchells, gigs Buy
 - 2024-05-24 — RHLSTP Book Club 98 - Kevin Jon Davies — speakers: Kevin Jon Davies, Douglas Adams Richard, Douglas Adams, Richard Herring
 - 2024-05-22 — RHLSTP 504 - Justin Moorhouse — speakers: Eric Cantona, Danny Boyle, Fred Elliot, Richard Herring
 - 2024-05-20 — Retro RHLSTP 84 - Charlie Brooker — speakers: Charlie Brooker, gigs Buy, Richard Herring
@@ -23469,7 +23436,7 @@
 - 2024-05-08 — RHLSTP 502 - Scott and Jemma Bennett — speakers: Jemma Bennett, Richard Herring
 - 2024-05-06 — Retro RHLSTP 82 - Richard Osman — speakers: Richard Osman, Will Osman, Buy Osman, gigs Buy, Richard Herring
 - 2024-05-03 — RHLSTP Book Club 95 - David Grann — speakers: David Grann, Richard Herring
-- 2024-05-01 — RHLSTP 501 - Lloyd Griffith — speakers: Club Richard, Robin Hood, Lloyd Griffith, Ted Lasso, Richard Herring
+- 2024-05-01 — RHLSTP 501 - Lloyd Griffith — speakers: Club Richard, Robin Hood, Lloyd Griffith, Richard Herring
 - 2024-04-29 — Retro RHLSTP 81 - Tom Davis — speakers: Tom Davis, Brian Blessed, gigs Buy, Richard Herring
 - 2024-04-26 — RHLSTP Book Club 94 - Dr Charan Ranganath — speakers: Charan Ranganath, Richard Herring
 - 2024-04-24 — RHLSTP 500 - Hayley Ellis — speakers: MC Hayley Ellis, Sarah Millican, Richard Herring
@@ -23479,7 +23446,7 @@
 - 2024-04-15 — Retro RHLSTP 80 - Kerry Godliman — speakers: Kerry Godliman, Christopher Guest, gigs Buy, Richard Herring
 - 2024-04-12 — RHLSTP Book Club 92 - Lemn Sissay — speakers: Lemn Sissay, Lenny Henry, Jim Davidson, Richard Herring
 - 2024-04-10 — RHLSTP 498 - Abigoliah Schamaun — speakers: Ancient Greeks, Abigoliah Schamaun, Richard Herring
-- 2024-04-08 — Retro RHLSTP 79 - David Cross — speakers: David Cross, Donald Trump, gigs Buy, Richard Herring
+- 2024-04-08 — Retro RHLSTP 79 - David Cross — speakers: David Cross, gigs Buy, Richard Herring
 - 2024-04-05 — RHLSTP Book Club 91 - Jim and Nancy Moir — speakers: Nancy Moir, Vic Reeves, Richard Herring
 - 2024-04-03 — RHLSTP 497 - Jon Pointing — speakers: Jon Pointing, Richard Herring
 - 2024-04-01 — Retro RHLSTP 78 - Aisling Bea — speakers: Aisling Bea, gigs Buy, Richard Herring
@@ -23501,7 +23468,7 @@
 - 2024-02-22 — RHLSTP Book Club 85 - Rosie Jones — speakers: Rosie Jones, Tiny Tim, Alison Hammond, King Harold, Buy Rosie, Richard Herring
 - 2024-02-20 — RHLSTP 491 - Lee Mack — speakers: Lee Mack, Richard Herring
 - 2024-02-19 — Retro RHLSTP 72 - Tim Minchin — speakers: Tim Minchin, David Duchovny, gigs Buy, Richard Herring
-- 2024-02-16 — RHLSTP Book Club 84 - Mary Beard — speakers: Mary Beard, Being Roman, Donald Trump, Richard Herring
+- 2024-02-16 — RHLSTP Book Club 84 - Mary Beard — speakers: Mary Beard, Being Roman, Richard Herring
 - 2024-02-14 — RHLSTP 490 - Sooz Kempner — speakers: Richard Herring
 - 2024-02-12 — Retro RHLSTP 71 - Limmy — speakers: gigs Buy, Richard Herring
 - 2024-02-08 — RHLSTP Book Club 83 - Becky Holmes — speakers: Becky Holmes Book, Becky Holmes, Richard Herring
@@ -23533,17 +23500,17 @@
 - 2023-12-15 — RHLSTP Book Club 76 - Ashley Blaker — speakers: Ashley Blaker, Normal Schmormal, Johnny Vine, Richard Herring
 - 2023-12-13 — RHLSTP 480 - Lisa McGee — speakers: Lisa McGee, Jessica Fletcher, Derry Girls, Richard Herring
 - 2023-12-11 — Retro RHLSTP 67 - Richard Herring — speakers: Richard Herring, gigs Buy
-- 2023-12-08 — RHLSTP Book Club 75 - David J Cohen — speakers: Barry Goldman Richard, Dave Cohen, Rik Mayall, Ade Edmondson, Stewart Lee, Al Murray, Mike Cosgrave, Arthur Smith, Richard Herring
+- 2023-12-08 — RHLSTP Book Club 75 - David J Cohen — speakers: Barry Goldman Richard, Dave Cohen, Rik Mayall, Ade Edmondson, Stewart Lee, Al Murray, Mike Cosgrave, Arthur Smith
 - 2023-12-06 — RHLSTP 479 - Jarred Christmas — speakers: Verne Troyer, Richard Herring
 - 2023-12-04 — Retro RHLSTP 66 - Annabel Giles — speakers: Annabel Giles, Lady Di, Penny Farthings, gigs Buy, Richard Herring
 - 2023-12-01 — RHLSTP Book Club 74 - Bec Hill — speakers: Bec Hill, David Tennant, Horror Heights, Buy Bec, Richard Herring
 - 2023-11-29 — RHLSTP 478 - Stuart Goldsmith — speakers: Stuart Goldsmith, Richard Herring
 - 2023-11-27 — RHLSTP 477 - Rob Reiner — speakers: Rob Reiner, Albert Brooks, Richard Herring
 - 2023-11-24 — RHLSTP Book Club 73 - Lou Sanders — speakers: Lou Sanders, Andi Peters, Buy Lou, Richard Herring
-- 2023-11-21 — RHLSTP 476 - Peter Richardson — speakers: Peter Richardson, Comic Strip Presents, Nigel Planer, Steve Martin, Boris Johnson, Keith Allen, Richard Herring
+- 2023-11-21 — RHLSTP 476 - Peter Richardson — speakers: Peter Richardson, Comic Strip Presents, Nigel Planer, Steve Martin, Keith Allen, Richard Herring
 - 2023-11-20 — Retro RHLSTP 65 - Peter Serafinowicz — speakers: Peter Serafinowicz, Brian Bs, Adam Sandler, gigs Buy, Richard Herring
 - 2023-11-17 — RHLSTP Book Club 72 - Geoff Norcott — speakers: Geoff Norcott, Caitlin Moran, Richard Herring
-- 2023-11-14 — RHLSTP 475 - Spencer Jones — speakers: Spencer Jones, Ted Lasso, Ricky Gervais, Richard Herring
+- 2023-11-14 — RHLSTP 475 - Spencer Jones — speakers: Spencer Jones, Ricky Gervais, Richard Herring
 - 2023-11-13 — Retro RHLSTP 64- Sarah Kendall — speakers: Sarah Kendall, Sarah Kendall Richard, Nicole Kidman, gigs Buy, Richard Herring
 - 2023-11-10 — RHLSTP Book Club 71 - Joe Wilkinson — speakers: Joe Wilkinson, Henry Paker, Bobby Ball, Richard Herring
 - 2023-11-08 — RHLSTP 474 - Matt Green — speakers: Matt Green, Idris Elba, Harvey Keitel, Richard Herring
@@ -23563,7 +23530,7 @@
 - 2023-10-05 — RHLSTP Book Club 66 - Jo Caulfield — speakers: Jo Caulfield, Richard Herring
 - 2023-10-03 — RHLSTP 469 - Adil Ray — speakers: Satish Patel, Adil Ray, Citizen Khan, Suella Braverman, Judy Dench, Richard Herring
 - 2023-10-02 — RHLSTP Emergency Questions 5 — speakers: Rachel Parris, Michael Spicer, Aisling Bea, Richard Herring
-- 2023-09-29 — RHLSTP Book Club 65 - David Mitchell — speakers: David Mitchell, Anne Boleyn, Simon de Montford, Richard Herring, James Bond
+- 2023-09-29 — RHLSTP Book Club 65 - David Mitchell — speakers: David Mitchell, Anne Boleyn, Simon de Montford, Richard Herring
 - 2023-09-26 — RHLSTP 468 - Sarah Millican — speakers: Sarah Millican, Richard Herring
 - 2023-09-25 — Retro RHLSTP 62 - Maria Bamford — speakers: Maria Bamford, Maria Bamford Richard, Luckily Maria, gigs Buy, Richard Herring
 - 2023-09-21 — RHLSTP Book Club 64 - Jena Friedman — speakers: Jena Friedman, Richard Herring
@@ -23574,7 +23541,7 @@
 - 2023-09-06 — RHLSTP 465 - Alistair Green — speakers: Alan Partridge, Diane Morgan, Richard Herring
 - 2023-09-01 — RHLSTP Book Club 61 - Lucy Worsley — speakers: Lucy Worsley, Agatha Christie, Buy Lucy, Richard Herring
 - 2023-08-30 — RHLSTP 464 - Ben Willbond and Larry Rickard — speakers: Larry Rickard, Ben Willbond, Peter Rabbit, Richard Herring
-- 2023-08-23 — RHLSTP 463 - Mike Birbiglia — speakers: Mike Birbiglia, Tom Hanks, Taylor Swift, Mary King, Richard Herring
+- 2023-08-23 — RHLSTP 463 - Mike Birbiglia — speakers: Mike Birbiglia, Tom Hanks, Mary King, Richard Herring
 - 2023-08-22 — RHLSTP 462 - Micky Overman — speakers: Micky Overman, Bill Murray, Richard Herring
 - 2023-08-21 — RHLSTP 461 - Jazz Emu — speakers: Recorder Richard, Archie Henderson, Richard Herring
 - 2023-08-18 — RHLSTP 460 - Ed Byrne — speakers: Ed Byrne, Sara Pascoe, Angela Griffin, Richard Herring
@@ -23632,7 +23599,7 @@
 - 2023-04-07 — RHLSTP Book Club 50 - Kate Devlin — speakers: Kate Devlin, Gemma Chan, Richard Herring
 - 2023-04-05 — RHLSTP 435 - Eshaan Akbar — speakers: Eshaan Akbar, Richard Herring
 - 2023-03-31 — RHLSTP Book Club 49 - Ashley Hickson-Lovence — speakers: Ashley Hickson-Lovence, Uriah Rennie, Richard Herring
-- 2023-03-29 — RHLSTP 434 - Nish Kumar — speakers: Michael Sheen, Richard Osman, Boris Johnson, Richard Herring
+- 2023-03-29 — RHLSTP 434 - Nish Kumar — speakers: Michael Sheen, Richard Osman, Richard Herring
 - 2023-03-23 — RHLSTP Book Club 48 - Pope Lonergan — speakers: Pope Lonergan, Richard Herring
 - 2023-03-22 — RHLSTP 433 - John Kearns — speakers: John Kearns, Richard Herring
 - 2023-03-17 — RHLSTP Book Club 47 - Abigail Burdess — speakers: Abigail Burdess, Richard Herring
@@ -23648,7 +23615,7 @@
 - 2023-02-14 — RHLSTP 428 - Fern Brady — speakers: Fern Brady, Alex Horn, Buy Fern, Richard Herring
 - 2023-02-10 — RHLSTP Book Club 42 - Tom Crewe — speakers: Tom Crewe, Tom’s Aunty Jan, Richard Herring
 - 2023-02-08 — RHLSTP 427 - Stephen Merchant — speakers: Stephen Merchant, Christopher Walken, Sarah Silverman, Richard Herring
-- 2023-02-03 — RHLSTP Book Club 41 - John Higgs — speakers: John Higgs, James Bond, George Lazenby, Fake Paul, Richard Herring
+- 2023-02-03 — RHLSTP Book Club 41 - John Higgs — speakers: John Higgs, George Lazenby, Fake Paul, Richard Herring
 - 2023-02-01 — RHLSTP 426 - Sophie Ellis-Bextor — speakers: Jarvis Cocker, Robbie Williams, Buy Richard, Richard Herring
 - 2023-01-27 — RHLSTP Book Club 40 - Dan Schreiber — speakers: Dan Schreiber, Boris Becker, Richard Herring
 - 2023-01-25 — RHLSTP 425 - Paul Chowdhry — speakers: Al Murray, Nick Mohammed, Paul Chowdhry, Matt Hancock, Buy Richard, Richard Herring
@@ -23728,7 +23695,7 @@
 - 2022-06-28 — RHLSTP 386 - Alan Davies — speakers: Alan Davies, Liam Gallagher, Neil Kinnock, Buy Alan, Richard Herring
 - 2022-06-27 — Retro RHLSTP 45 - Kay Mellor — speakers: Kay Mellor, Kay Mellor Rhlstp, mulberry bush, Plus Rich, gigs Buy, Richard Herring
 - 2022-06-24 — RHLSTP Book Club 15 - Alice Roberts — speakers: Alice Roberts, Richard Herring
-- 2022-06-22 — RHLSTP 385 - Dara Ó Briain — speakers: Ian Cadbury, James Bond, Stephen Hawking, Catch Dara, Richard Herring
+- 2022-06-22 — RHLSTP 385 - Dara Ó Briain — speakers: Ian Cadbury, Stephen Hawking, Catch Dara, Richard Herring
 - 2022-06-20 — Special - My Time Capsule 200! — speakers: Michael Fenton-Stevens, gigs Buy, Richard Herring
 - 2022-06-17 — RHLSTP Book Club 14 - Andrew Hunter Murray — speakers: Andrew Hunter Murray, John Wyndham, Richard Herring
 - 2022-06-15 — RHLSTP 384 - Amy Gledhill — speakers: Edinburgh Comedy Prize, Amy Gledhill, Richard Herring
@@ -23763,7 +23730,7 @@
 - 2022-03-11 — RHLSTP Book Club 1 - Catherine Wilkins — speakers: Catie Willkins, Richard Herring
 - 2022-03-09 — RHLSTP 370 - Joz Norris — speakers: Joz Norris, Ed Aczel, Richard Herring
 - 2022-03-04 — RHLSTP Slapstick Special with Robin Ince — speakers: Robin Ince Slapstick Special, Robin Ince Pioneer, Richard Herring, Monkey Cage, Robin Ince, Desert Island
-- 2022-03-02 — RHLSTP 369 - Jon Culshaw — speakers: Jon Culshaw, Tony Blair, David Bowie, Bill Dare, Tom Baker, Richard Herring
+- 2022-03-02 — RHLSTP 369 - Jon Culshaw — speakers: Jon Culshaw, David Bowie, Bill Dare, Tom Baker, Richard Herring
 - 2022-02-25 — Retro RHLSTP 43 - Adam Buxton — speakers: Adam Buxton, Stephen Merchant, David Bowie, Richard Herring
 - 2022-02-23 — RHLSTP 368 - Mark Watson — speakers: Mark Watson, Peter Andre, Buy Mark, Richard Herring
 - 2022-02-18 — Retro RHLSTP 42 - Sofie Hagen — speakers: Sofie Hagen, Richard Herring
@@ -23771,7 +23738,7 @@
 - 2022-02-11 — Retro RHLSTP 41 - Aleks Krotoski — speakers: Richard Herring
 - 2022-02-09 — RHLSTP 366 - David Cross — speakers: David Cross, Bob Odenkirk, Richard Herring
 - 2022-02-04 — Retro RHLSTP 40 - Lance Workman — speakers: Lance Workman, Richard Herring
-- 2022-02-02 — RHLSTP 365 - Grainne Maguire — speakers: Boris Johnson, Grainne Maguire, Gerry Adams, Seth Meyers, Enda Kenny, Richard Herring
+- 2022-02-02 — RHLSTP 365 - Grainne Maguire — speakers: Grainne Maguire, Gerry Adams, Seth Meyers, Enda Kenny, Richard Herring
 - 2022-01-28 — Retro RHLSTP 39 - Nick Lane — speakers: Nick Lane, Richard Herring
 - 2022-01-26 — RHLSTP 364 - Laura Jean Marsh — speakers: Jean Marsh, Laura Jean Marsh, Laura Jean, Giddy Stratospheres, Richard Herring
 - 2022-01-21 — Retro RHLSTP 38 - Virginia Ironside — speakers: Richard Herring
@@ -23804,7 +23771,7 @@
 - 2021-10-20 — RHLSTP 350 - Louise Wener — speakers: Louise Wener, Richard Herring
 - 2021-10-15 — Retro RHLSTP 24 - Mark Addy — speakers: Mark Addy, Samantha Mumba, Richard Herring
 - 2021-10-13 — RHLSTP 349 - Tim Key — speakers: Tim Key, Richard Herring
-- 2021-10-08 — Retro RHLSTP 23 - John Robins and Ahir Shah — speakers: John Robins, Ahir Shah, Lady Di, Edinburgh Comedy Prize, Jon Robbins, Fringe performer, Edinburgh Fringe, Dustin Hoffmann Oscar, Richard Herring
+- 2021-10-08 — Retro RHLSTP 23 - John Robins and Ahir Shah — speakers: John Robins, Ahir Shah, Lady Di, Edinburgh Comedy Prize, Jon Robbins, Fringe performer, Edinburgh Fringe, Dustin Hoffmann Oscar
 - 2021-10-06 — RHLSTP 348 - David Mitchell — speakers: David Mitchell, Richard Herring
 - 2021-10-01 — Retro RHLSTP 22 - Iain Stirling and Jason Manford — speakers: Jason Manford, Richard Herring
 - 2021-09-28 — RHLSTP 347 - The Parapod — speakers: Richard Herring
@@ -23815,7 +23782,7 @@
 - 2021-09-10 — Retro RHLSTP 19 - Victoria Coren Mitchell — speakers: Victoria Coren Mitchell, Richard Herring
 - 2021-09-08 — RHLSTP 344 - Stevie Martin and Tessa Coates — speakers: Tessa Coates, Stevie Martin, Richard Herring
 - 2021-09-03 — Retro RHLSTP 18 - James Acaster — speakers: James Acaster, Richard Herring
-- 2021-09-01 — RHLSTP 343 - Matthew Holness — speakers: Matthew Holness, Jimmy Carr, Garth Marenghi, Sutton Hoo, Pete Townshend, Peter Kay, Order Richard, Sim Ottaway, Richard Herring
+- 2021-09-01 — RHLSTP 343 - Matthew Holness — speakers: Matthew Holness, Jimmy Carr, Garth Marenghi, Sutton Hoo, Pete Townshend, Peter Kay, Order Richard, Sim Ottaway
 - 2021-08-27 — Retro RHLSTP 17 - Jess Thom — speakers: Tourettes Superhero, Richard Herring
 - 2021-08-25 — RHLSTP 342 - Jay Rayner — speakers: Jay Rayner, Rod Hull, Buy Jay, Order Richard, Jonathan Stewart Norwich, Sim Ottaway, Richard Herring
 - 2021-08-20 — Retro RHLSTP 16 - Richard Osman — speakers: Richard Osman, Highgate Cemetery, Goodnight Goodnight Sweetheart Sweetheart, Barbara Herring, Richard Herring
@@ -23848,14 +23815,14 @@
 - 2021-05-19 — RHLSTP 328 - Mae Martin — speakers: Mae Martin, Feel Good, Richard Herring
 - 2021-05-14 — Retro RHLSTP 02 - Bob Mortimer — speakers: Bob Mortimer, Alan Sugar, Chris Rea, Richard Herring
 - 2021-05-12 — RHLSTP 327 - Catie Wilkins — speakers: Robert Boris Richard, Gio Compario, Catherine Wilkins, Anneka Rice, Richard Herring
-- 2021-05-07 — Retro RHLSTP 01 - Stephen Fry — speakers: Stephen Fry, Prince Charles, Prince Albert, Ann Widdecombe, John Travolta, Ben Evans, David Cameron, Mary Beard, Richard Herring
+- 2021-05-07 — Retro RHLSTP 01 - Stephen Fry — speakers: Stephen Fry, Prince Charles, Prince Albert, Ann Widdecombe, John Travolta, Ben Evans, Mary Beard
 - 2021-05-05 — RHLSTP 326 - Anneka Rice — speakers: Fry Rice Ball Great, Anneka Rice, Blankety Blank, Richard Herring
 - 2021-04-28 — RHLSTP 325 - Pippa Evans — speakers: Paul Mckenna, Pippa Evans, Anneka Rice, Buy Pippa, Richard Herring
 - 2021-04-20 — RHLSTP 324 - Andi Osho — speakers: Andi Osho, Creative Sauce, Buy Andi, Richard Herring
 - 2021-04-14 — RHLSTP 323 - Dominik Diamond — speakers: Dominik Diamond, Richard’s Golden Joystick, Mark Lamaar, Richard Herring
-- 2021-04-07 — RHLSTP 322 - John Oliver — speakers: John Oliver, Harry Potter, Dan Harmon, Terry Jones, Richard Herring
+- 2021-04-07 — RHLSTP 322 - John Oliver — speakers: John Oliver, Dan Harmon, Terry Jones, Richard Herring
 - 2021-03-31 — RHLSTP 321 - Brian Regan — speakers: Brian Regan, Jerry Seinfeld, Michael Collins, Richard Herring
-- 2021-03-24 — RHLSTP 320 - Jeremy Paxman — speakers: Ian Amazon, Jeremy Paxman, John Gielgud, Lady Di, Boris Johnson, Richard Herring
+- 2021-03-24 — RHLSTP 320 - Jeremy Paxman — speakers: Ian Amazon, Jeremy Paxman, John Gielgud, Lady Di, Richard Herring
 - 2021-03-17 — RHLSTP 319 - Mary Lynn Rajskub — speakers: Mary Lynn Rajskub, Mary Lynn, Richard Herring
 - 2021-03-14 — Dear Joan and Jericha RHLSTP Comic Relief Mashup 2021 — speakers: Richard Herring, Comic Relief
 - 2021-03-10 — RHLSTP 318 - Alice Fraser — speakers: Alice Fraser, Eyebrow Language Richard, Richard Herring
@@ -23941,7 +23908,7 @@
 - 2020-03-18 — RHLSTP 267 - Rachel Parris — speakers: Rachel Parris, Debbie Magee, Anna Kendrick, Richard Herring
 - 2020-03-13 — RHLSTP 266 - Bethany Black — speakers: Bethany Black, Richard Herring
 - 2020-03-11 — RHLSTP 265 - Janice Connolly — speakers: Janice Connolly, Barbara Nice, Peter Kay, Simon Cowell, Richard Herring
-- 2020-03-06 — RHLSTP 264 - Sara Pascoe — speakers: Sara Pascoe, Harry Potter, Plus Sara, Order Sara, Richard Herring
+- 2020-03-06 — RHLSTP 264 - Sara Pascoe — speakers: Sara Pascoe, Plus Sara, Order Sara, Richard Herring
 - 2020-03-04 — RHLSTP 263 - Tim Minchin — speakers: Tim Minchin, Richard Herring
 - 2020-02-28 — RHLSTP 262 - Paul Sinha — speakers: Paul Sinha, Celebrity Mastermind, Richard Herring
 - 2020-02-26 — RHLSTP 261 - George Monbiot — speakers: George Monbiot, Richard Herring
@@ -23991,7 +23958,7 @@
 - 2019-08-24 — Thom Tuck & Tom Rosenthal RHLSTP Edinburgh 2019 20 — speakers: Tom Rosenthal Rhlstp, Thom Tuck, Tom Rosenthal, Jim Rosenthal, Richard Herring
 - 2019-08-23 — George Egg & Cally Beaton - RHLSTP Edinburgh 2019 19 — speakers: George Egg, Cally Beaton, Joan Rivers, Richard Herring
 - 2019-08-22 — Susan Murray & Alice Fraser - RHLSTP Edinburgh 2019 18 — speakers: Susan Murray Alice Fraser, Ed Fringe, Susan Murray, Again Rich, Alice Fraser, Richard Herring
-- 2019-08-22 — Sukh Ojla & Tommy Tiernan - RHLSTP Edinburgh 2019 17 — speakers: Tommy Tiernan Rhlstp, Ed Fringe, Tommy Tiernan Older, Andy Murray, Sukh Ojla, Tommy Tiernan, Jon Hamm, Derry Girls, Richard Herring
+- 2019-08-22 — Sukh Ojla & Tommy Tiernan - RHLSTP Edinburgh 2019 17 — speakers: Tommy Tiernan Rhlstp, Ed Fringe, Tommy Tiernan Older, Andy Murray, Sukh Ojla, Tommy Tiernan, Jon Hamm, Derry Girls
 - 2019-08-20 — Rich Wilson & Sarah Kendall - RHLSTP Edinburgh 2019 16 — speakers: Sarah Kendall Rhlstp, Ed Fringe, Rich Wilson, Sarah Kendall Nagasaki Spider, Sarah Kendall, Rob Rouse, Richard Herring
 - 2019-08-19 — Fern Brady & Josie Long - RHLSTP Edinburgh 2019 15 — speakers: Ed Fringe, Josie Long Teeth, Fern Brady, Josie Long, Richard Herring
 - 2019-08-18 — Sunil Patel & Daliso Chaponda - RHLSTP Edinburgh 2019 14 — speakers: Ed Fringe, Sunil Patel, Pamela Anderson, Richard Herring
@@ -24001,7 +23968,7 @@
 - 2019-08-13 — Lauren Pattison & Geoff Norcott - RHLSTP Edinburgh 2019 10 — speakers: Lauren Pattison, Geoff Norcott Love, Geoff Norcott, Katherine Ryan, Richard Herring
 - 2019-08-11 — Isma Almas & Tony Slattery - RHLSTP Edinburgh 2019 09 — speakers: Tony Slattery, Isma Almas Carry, Isma Almas, Kenneth Branagh, Richard Herring
 - 2019-08-10 — Steph Tisdell & Jen Brister - RHLSTP Edinburgh 2019 08 — speakers: Brister Rhlstp, Steph Tisdell, Mrs Maiselled, Jen Brister, Order Jen, Richard Herring
-- 2019-08-10 — Spencer Jones & Janey Godley & Ashley Storrie - RHLSTP Edinburgh 2019 07 — speakers: Spencer Jones, Janey Godley, Ashley Storrie Scottish, Russian Dolls, Ashley Storrie, Herbert Clunkerdunk, John Lennon, Janey Godley’s Fringe, Richard Herring
+- 2019-08-10 — Spencer Jones & Janey Godley & Ashley Storrie - RHLSTP Edinburgh 2019 07 — speakers: Spencer Jones, Janey Godley, Ashley Storrie Scottish, Russian Dolls, Ashley Storrie, Herbert Clunkerdunk, John Lennon, Janey Godley’s Fringe
 - 2019-08-08 — Snjolaug Luðviksdottir and John Robins - RHLSTP Edinburgh 2019 06 — speakers: Snjolaug Luðviksdottir, John Robins, Jools Holland, Richard Herring
 - 2019-08-07 — RHLSTP Edinburgh 2019 05 - Jayde Adams & David O' Doherty — speakers: Ed Fringe, Jayde Adams, David O’Doherty, Dawn French, Jayde Adam, David O’Doherty Ultrasound, Richard Herring
 - 2019-08-06 — Sophie Duker & Vikki Stone - RHLSTP Edinburgh 2019 04 — speakers: Ed Fringe, Huggers Rich, Vikki Stone, Whacky Racists, Elton John, Philip Schofield, Richard Herring
@@ -24032,14 +23999,14 @@
 - 2019-04-02 — RHLSTP 205 - David Morrissey — speakers: David Morrissey, David Morrissey Kevin Bacon, Adam Sandler, Michael Caine, RHLSTPgigs Buy, Richard Herring
 - 2019-03-27 — RHLSTP 204 - Rob Brydon — speakers: Rob Brydon, Brush Phobia, Ken Bruce, Steve Coogan, RHLSTPgigs Buy, Richard Herring
 - 2019-03-20 — RHLSTP 203 - Emily Atack — speakers: Harry Redknapp, Thin Rich, Michael Jackson, Richard Bacon, RHLSTPgigs Buy, Richard Herring
-- 2019-03-13 — RHLSTP 202 - Jon Ronson — speakers: Jon Ronson, Jon Ronson Alex Jones, Simon Cowell, Donald Trump, gigs Buy, Richard Herring
+- 2019-03-13 — RHLSTP 202 - Jon Ronson — speakers: Jon Ronson, Jon Ronson Alex Jones, Simon Cowell, gigs Buy, Richard Herring
 - 2019-03-06 — RHLSTP Special - The Goodies — speakers: Graeme Garden, Bill Oddie, Tim Brooke-Taylor, gigs Buy, Richard Herring
 - 2019-02-27 — RHLSTP Special - Damon Beesley and Joe Thomas — speakers: Joe Thomas, Joe Thomas Baggy Trousers, gigs Buy, Richard Herring
 - 2019-02-21 — RHLSTP Special - Tim Vine — speakers: Tim Vine Back, Tim Vine, gigs Buy, Richard Herring
 - 2019-02-13 — RHLSTP 201 - Sathnam Sanghera — speakers: Sathnam Sanghera Sex, Sathnam Sanghera, Topless Darts, John Oliver, gigs Buy, Richard Herring
 - 2019-02-06 — RHLSTP 200 - Adam Buxton — speakers: Adam Buxton, Richard Herring Pennsylvania, Richard Herring, Stewart Lee, Groundhog Day, Nile Rodgers, gigs Buy
 - 2019-01-30 — RHLSTP 199 - Terry Hall — speakers: Terry Hall, Hall Hall, gigs Buy, Richard Herring
-- 2019-01-23 — RHLSTP 198 - Sanjeev Bhaskar — speakers: Sanjeev Bhaskar Pert Nipples, Michael Palin, Sanjeev Bhaskar, James Bolam, Brian Blessed, Roger Moore, eq Buy, gigs Buy, Richard Herring
+- 2019-01-23 — RHLSTP 198 - Sanjeev Bhaskar — speakers: Sanjeev Bhaskar Pert Nipples, Michael Palin, Sanjeev Bhaskar, James Bolam, Brian Blessed, Roger Moore, eq Buy, gigs Buy
 - 2019-01-17 — RHLSTP 197 - Rick Edwards — speakers: Rick Edwards, Rick Edwards Bailey, Ruby Wax, Jake Gyllenhaal, Plus Backgammon, eq Buy, gigs Buy, Richard Herring
 - 2019-01-09 — RHLSTP 196 - Fingers on Buzzers Podcast — speakers: Frank Bruno, Lucy Porter, eq Get, gigs Buy, Richard Herring
 - 2019-01-02 — RHLSTP 195 - Joe Lycett — speakers: Joe Lycett, Joe Lycett Esme, Tom Daley, eq Get, gigs Buy, Richard Herring
@@ -24054,7 +24021,7 @@
 - 2018-10-26 — RHLSTP - Manchester special - Glenn Wool — speakers: Werewolf Penis, Glenn Wool, Mary Whitehouse, gigs Buy, Richard Herring
 - 2018-10-24 — RHLSTP 186 - Lou Sanders — speakers: Lou Sanders Cold Stones, Lou Sanders, gigs Buy, Richard Herring
 - 2018-10-19 — RHLSTP - Manchester special - Toby Hadoke — speakers: Luckily Richard, Spike Milligan, XS Malarkey, gigs Buy, Richard Herring
-- 2018-10-17 — RHLSTP 185 - Ross Noble — speakers: Ross Noble Harder, Harry Potter, Ross Noble, Harold Bishop, Mel Brooks, gigs Buy, Richard Herring
+- 2018-10-17 — RHLSTP 185 - Ross Noble — speakers: Ross Noble Harder, Ross Noble, Harold Bishop, Mel Brooks, gigs Buy, Richard Herring
 - 2018-10-10 — RHLSTP 184 - Alex Horne — speakers: Alex Horne High-Fiving, Alex Horne, Tim Key, gigs Buy, Richard Herring
 - 2018-10-03 — RHLSTP 183 - Jonathan Ames — speakers: Jonathan Ames, Herring Wonder, Will Rich, gigs Buy, Richard Herring
 - 2018-06-13 — Machynlleth Festival special: Jessica Fostekew and Holly Burn — speakers: Jessica Fostekew, Holly Burn, Holly Burn Michael Sheen, Plus Rich, gigs Buy, Richard Herring
@@ -24072,7 +24039,7 @@
 - 2018-03-21 — RHLSTP 171 - Mackenzie Crook — speakers: Will Rich, gigs Buy, Richard Herring
 - 2018-03-14 — RHLSTP 170 - Jess Phillips — speakers: Salad Sandwich, Jess Phillips, Diane Abbott, gigs Buy, Richard Herring
 - 2018-03-08 — RHLSTP 169 - Trev and Simon — speakers: Sponsor Rich, gigs Buy, Richard Herring
-- 2018-02-28 — RHLSTP 168 - Danielle Ward — speakers: Bloody Toilet, Cheddar Man, Danielle Ward, Prince Andrew, Judy Dench, Herring Danielle, Benedict Cumberbatch, gigs Buy, Richard Herring
+- 2018-02-28 — RHLSTP 168 - Danielle Ward — speakers: Bloody Toilet, Cheddar Man, Danielle Ward, Prince Andrew, Judy Dench, Herring Danielle, Benedict Cumberbatch, gigs Buy
 - 2018-02-21 — RHLSTP 167 - John Robins and Elis James — speakers: John Robins, Elis James, Elis James Not My, Kettle Crisps, Celebrity Mastermind, Richard Herring
 - 2018-02-14 — RHLSTP 166 - Adam Kay — speakers: Adam Kay, Adam Kay Degloved Penis, Tom Lehrer, Jeremy CHunt, gigs Buy, Richard Herring
 - 2018-02-08 — RHLSTP 165 - Kathy Burke — speakers: Kathy Burke, Blow Jobs, Harry Enfield, Gary Oldman, Oscar Wilde, gigs Buy, Richard Herring
@@ -24097,8 +24064,8 @@
 - 2017-09-22 — RHLSTP 146 - Limmy — speakers: gigs Buy, Richard Herring
 - 2017-09-13 — RHLSTP 145 - Julian Clary — speakers: Lego Batman, Gillian Pieface, Julian Clary, Brian Blessed, Jimmy Greaves, Mike Smith, gigs Buy, Richard Herring
 - 2017-09-06 — RHLSTP 144 - Katy Brand — speakers: Katy Brand Catering, Margaret Thatcher, Katy Brand, Brian Blessed, Emily Bronte, gigs Buy, Richard Herring
-- 2017-08-30 — RHLSTP 143 - Dan Skinner — speakers: Dan Skinner, Dan Skinner Tape, Angelos Epithemiou, Jim Broadbent, Ken Campbell, Ben Wheatley, Alan Partridge, gigs Buy, Richard Herring
-- 2017-08-26 — RHEFP 4 - John Robins and Ahir Shah — speakers: John Robins, Ahir Shah, Ahir Shah Suck, Lady Di, Edinburgh Comedy Prize, Jon Robbins, Fringe performer, Edinburgh Fringe, Richard Herring
+- 2017-08-30 — RHLSTP 143 - Dan Skinner — speakers: Dan Skinner, Dan Skinner Tape, Angelos Epithemiou, Jim Broadbent, Ken Campbell, Ben Wheatley, Alan Partridge, gigs Buy
+- 2017-08-26 — RHEFP 4 - John Robins and Ahir Shah — speakers: John Robins, Ahir Shah, Ahir Shah Suck, Lady Di, Edinburgh Comedy Prize, Jon Robbins, Fringe performer, Edinburgh Fringe
 - 2017-08-19 — RHEFP 3 - Iain Stirling and Jason Manford — speakers: Jason Manford, gigs Buy, Richard Herring
 - 2017-08-12 — RHEFP 2 - James Acaster — speakers: James Acaster, James Acaster Three Nights, gigs Buy, Richard Herring
 - 2017-08-05 — RHEFP 1 - Doug Anthony All Stars — speakers: Jerry Sadowitz, gigs Buy, Richard Herring
@@ -24123,7 +24090,7 @@
 - 2016-12-07 — RHLSTP 125 - Ed Gamble — speakers: Trivial Pursuits, Ed Gamble, Drunk History, gigs Buy, Richard Herring
 - 2016-11-30 — RHLSTP 124 - Chris Addison — speakers: Chris Addison, Chris Addison Cut, Rich Columbo Chris, gigs Buy, Richard Herring
 - 2016-11-23 — RHLSTP 123 - Kerry Godliman — speakers: Kerry Godliman, Kerry Godliman Over, Christopher Guest, gigs Buy, Richard Herring
-- 2016-11-17 — RHLSTP 122 - Tony Robinson — speakers: Tony Robinson Pissing, Anthony Robinson, Maid Marian, Brian Blessed, Cheddar Gorge, Rowan Atkinson, Buy Tony, gigs Buy, Richard Herring
+- 2016-11-17 — RHLSTP 122 - Tony Robinson — speakers: Tony Robinson Pissing, Anthony Robinson, Maid Marian, Brian Blessed, Cheddar Gorge, Rowan Atkinson, Buy Tony, gigs Buy
 - 2016-11-09 — RHLSTP 121 - Will Smith — speakers: Bean Silo, Will Smith, Adam Sandler, gigs Buy, Richard Herring
 - 2016-11-02 — RHLSTP 120 - Caitlin Moran — speakers: Caitlin Moran, Caitlin Moran Cheese Lollipops, Benedict Cumberbatch, Kate Moss, gigs Buy, Richard Herring
 - 2016-10-28 — RHLSTP 119 - Dane Baptiste — speakers: kickstarter backer, Dane Baptiste, Rick Buckler, Andrew Lawrence, Don Warrington, gigs Buy, Richard Herring
@@ -24141,31 +24108,31 @@
 - 2016-08-10 — RHLSTP 109 - Nish Kumar — speakers: Nish Kumar, Alan Carr, gigs Buy, Richard Herring
 - 2016-08-03 — RHLSTP 108 - Susie Dent — speakers: Susie Dent, gigs Buy, Richard Herring
 - 2016-07-27 — RHLSTP 107 - Vic Reeves — speakers: Vic Reeves, Luis Bunuel, Sue Lawley, Terry Scott, gigs Buy, Richard Herring
-- 2016-07-20 — RHLSTP 106 - David Cross — speakers: David Cross, Donald Trump, gigs Buy, Richard Herring
+- 2016-07-20 — RHLSTP 106 - David Cross — speakers: David Cross, gigs Buy, Richard Herring
 - 2016-07-13 — RHLSTP 105 - Marcus Brigstocke — speakers: Marcus Brigstocke, Kevin Spacey, Clement Freud, gigs Buy, Richard Herring
 - 2016-07-06 — RHLSTP 104 - Doc Brown — speakers: Ben Bailey Smith, Ricky Gervais, Doc Brown, gigs Buy, Richard Herring
-- 2016-06-29 — RHLSTP 103 - Lauren Laverne — speakers: Lauren Laverne, Tony Blair, gigs Buy, Richard Herring
+- 2016-06-29 — RHLSTP 103 - Lauren Laverne — speakers: Lauren Laverne, gigs Buy, Richard Herring
 - 2016-06-22 — RHLSTP 102 - Tony Law — speakers: Tony Law, gigs Buy, Richard Herring
 - 2016-06-15 — RHLSTP 101 - Iain Lee — speakers: Iain Lee, William Herschel, Roger Daltry, Metal Mickey, gigs Buy, Richard Herring
 - 2016-02-17 — RHLSTP 100 - Richard Bacon — speakers: Richard Bacon, Blue Peter, Mansfield McDonald, Robin Hood, gigs Buy, Richard Herring
-- 2016-02-10 — RHLSTP 99 - Cariad Lloyd — speakers: Ken Campbell, George Osborne, David Bowie, Taylor Swift, James Bond, gigs Buy, Richard Herring
+- 2016-02-10 — RHLSTP 99 - Cariad Lloyd — speakers: Ken Campbell, George Osborne, David Bowie, gigs Buy, Richard Herring
 - 2016-02-04 — RHLSTP 98 - Ray Peacock — speakers: Ray Peacock, gigs Buy, Richard Herring
 - 2016-01-28 — RHLSTP 97 - Aisling Bea — speakers: Aisling Bea, Aisling Bea Minstrels, gigs Buy, Richard Herring
 - 2016-01-20 — RHLSTP 96 - Scroobius Pip — speakers: Scroobius Pip, Fallen London, gigs Buy, Richard Herring
 - 2016-01-13 — RHLSTP 95 - Hal Cruttenden — speakers: Anthony Hopkins, gigs Buy, Richard Herring
 - 2016-01-06 — RHLSTP 94 - David Mitchell — speakers: David Mitchell, Ben Elton, gigs Buy, Richard Herring
-- 2015-12-31 — RHLSTP 93 - John Robins — speakers: John Robins, John Robins Noel Edmonds, Johnny Vaughan, Jon Richardson, Russell Howard, Mark Lamarr, Stewart Lee, gigs Buy, Richard Herring
+- 2015-12-31 — RHLSTP 93 - John Robins — speakers: John Robins, John Robins Noel Edmonds, Johnny Vaughan, Jon Richardson, Russell Howard, Mark Lamarr, Stewart Lee, gigs Buy
 - 2015-12-23 — RHLSTP 92 - Jack Whitehall — speakers: Jack Whitehall Moving, Jack Whitehall, Kate Middleton, Prince William, gigs Buy, Richard Herring
 - 2015-12-16 — RHLSTP 91 - Phill Jupitus — speakers: gigs Buy, Richard Herring
 - 2015-12-10 — RHLSTP 90 - Eddie Izzard — speakers: gigs Buy, Richard Herring
 - 2015-12-02 — RHLSTP 89 - Sarah Kendall — speakers: Sarah Kendall, Nicole Kidman, gigs Buy, Richard Herring
 - 2015-11-25 — RHLSTP 88 - John Finnemore — speakers: John Finnemore, John Finnemore Peeps, Benedict Cumberbatch, gigs Buy, Richard Herring
 - 2015-11-18 — RHLSTP 87 - Luisa Omielan — speakers: Luisa Omielan, Edinburgh Fringe, gigs Buy, Richard Herring
-- 2015-11-12 — RHLSTP 86 - Robert Popper — speakers: Robert Popper, Robert Popper Beef Scarecrows, Robin Cooper, Leigh Francis, Gordon Brown, gigs Buy, Richard Herring
+- 2015-11-12 — RHLSTP 86 - Robert Popper — speakers: Robert Popper, Robert Popper Beef Scarecrows, Robin Cooper, Leigh Francis, gigs Buy, Richard Herring
 - 2015-11-04 — RHLSTP 85 - Janey Godley — speakers: Janey Godley, Richard Herring, Jerry Sadowitz, Roland Gift, gigs Buy
 - 2015-10-29 — RHLSTP 84 - Lee Mack — speakers: Lee Mack, gigs Buy, Richard Herring
 - 2015-10-22 — RHLSTP 83 - Diane Morgan — speakers: Bad Dream, Diane Morgan, Ken Campbell, Bruce Willis, Joe Wilkinson, gigs Buy, Richard Herring
-- 2015-10-15 — RHLSTP 82 - Stuart Goldsmith — speakers: Stuart Goldsmith Rear Window, David Cameron, Stuart Goldsmith, gigs Buy, Richard Herring
+- 2015-10-15 — RHLSTP 82 - Stuart Goldsmith — speakers: Stuart Goldsmith Rear Window, Stuart Goldsmith, gigs Buy, Richard Herring
 - 2015-10-07 — RHLSTP 81 - Joe Lycett — speakers: Joe Lycett, Fan Who, Peter Dickson, Katie Hopkins, gigs Buy, Richard Herring
 - 2015-09-30 — RHLSTP 80 - Limmy — speakers: Twitter spat, gigs Buy, Richard Herring
 - 2015-09-23 — RHLSTP 79 - Al Murray — speakers: Al Murray, gigs Buy, Richard Herring
@@ -24174,7 +24141,7 @@
 - 2015-09-04 — RHLSTP 76 - Bridget Christie — speakers: Russell Brand, Bridget Christie, John Inverdale, gigs Buy, Richard Herring
 - 2015-08-27 — RHLSTP 75 - Jessica Hynes — speakers: Jessica Hynes, Top Cat, King Richards, Richard Herring, gigs Buy
 - 2015-08-20 — RHLSTP 74 - Rob Delaney and Sharon Horgan — speakers: Sharon Horgan, Rob Delaney, Mark Lamarr, gigs Buy, Richard Herring
-- 2015-08-12 — RHLSTP 73 - Robin Ince — speakers: Robin Ince, Robin Ince Punching, Vernon Kay, John Peel Oliver Hardy, Stewart Lee, Don Estelle, Syd Little, Su Pollard, Richard Herring
+- 2015-08-12 — RHLSTP 73 - Robin Ince — speakers: Robin Ince, Robin Ince Punching, Vernon Kay, John Peel Oliver Hardy, Stewart Lee, Don Estelle, Syd Little, Su Pollard
 - 2015-08-05 — RHLSTP 72 - Mark Watson — speakers: Mark Watson, Mark Watson Improvisation, Rachel Dolezal, gigs Buy, Richard Herring
 - 2015-07-30 — RHLSTP 71 - Johnny Vegas — speakers: Johnny Vegas Maniac, Michael Pennington, gigs Buy, Richard Herring
 - 2015-07-22 — RHLSTP 70 - Roisin Conaty — speakers: Roisin Conaty Amstrad, Roisin Conaty, gigs Buy, Richard Herring
@@ -24219,7 +24186,7 @@
 - 2013-11-20 — RHLSTP 32 - Simon Pegg — speakers: Simon Pegg, Tom Cruise, Ben Dover, gigs Buy, Richard Herring
 - 2013-11-13 — RHLSTP 31 - Ross Noble — speakers: Ross Noble Trojan Badger, Ross Noble, Cheryl Cole, Bruce Forsyth, gigs Buy, Richard Herring
 - 2013-11-06 — RHLSTP 30 - Dara O Briain — speakers: Penis Sausage, gigs Buy, Richard Herring
-- 2013-10-30 — RHLSTP 29 - Miles Jupp — speakers: Miles Jupp What, Miles Jupp, George Clooney, Jon Stewart, Harry Potter, Imp Pervert, gigs Buy, Richard Herring
+- 2013-10-30 — RHLSTP 29 - Miles Jupp — speakers: Miles Jupp What, Miles Jupp, George Clooney, Jon Stewart, Imp Pervert, gigs Buy, Richard Herring
 - 2013-10-23 — RHLSTP 28 - Miranda Hart — speakers: Miranda Hart Randy Dyke, Miranda Hart, gigs Buy, Richard Herring
 - 2013-10-16 — RHLSTP 27 - Rufus Hound — speakers: Rufus Hound, Peter Wyngarde, gigs Buy, Richard Herring
 - 2013-10-08 — RHLSTP 26 - Shappi Khorsandi — speakers: Shappi Khorsandi Talcum, Breaking Bad, Shappi Khorsandi, Graham Norton, Tucker Jenkins, Julian Fellowes, gigs Buy, Richard Herring
@@ -24229,13 +24196,13 @@
 - 2013-06-26 — RHLSTP 22 - Edgar Wright — speakers: Edgar Wright, Edgar Wright Spaced, Cheddar Gorge, Roald Dahl, Goodnight Sweetheart, gigs Buy, Richard Herring
 - 2013-06-14 — RHLSTP 20 - John Lloyd — speakers: John Lloyd, Blackadder Goes Forth, Richard Dawkins, gigs Buy, Richard Herring
 - 2013-06-13 — RHLSTP 19 - Mary Beard — speakers: Mary Beard, Mary Beard Fattening Dormice, Arsehole Gill, Bruce Forsyth, gigs Buy, Richard Herring
-- 2013-06-06 — RHLSTP 18 - Stephen Fry — speakers: Stephen Fry, Prince Charles, Prince Albert, Ann Widdecombe, John Travolta, Ben Evans, David Cameron, gigs Buy, Richard Herring
+- 2013-06-06 — RHLSTP 18 - Stephen Fry — speakers: Stephen Fry, Prince Charles, Prince Albert, Ann Widdecombe, John Travolta, Ben Evans, gigs Buy
 - 2013-05-29 — RHLSTP 17 - Chris Addison — speakers: Chris Addison, Gail Porter, gigs Buy, Richard Herring
 - 2013-05-07 — Machynlleth Festival special: Pappy's — speakers: Huge Ackman, Richard Herring
 - 2012-12-04 — RHLSTP 16 - Russell Howard — speakers: Russell Howard, Nick Grimshaw, Richard Herring
 - 2012-11-20 — RHLSTP 15 - Adam Buxton — speakers: Adam Buxton, Eve Adam Buxton, Richard Herring
 - 2012-11-06 — RHLSTP 14 - Dave Gorman — speakers: Dave Gorman, Dave Gorman Gagglewhack, Frankie Boyle, Mick Jagger, Ringo Starr, gigs Buy, Richard Herring
-- 2012-10-23 — RHLSTP 13 - David Mitchell — speakers: David Mitchell, Alice Cooper, David Mitch Mitchell, Eric Morecambe, Justin Lee Collins, Will Rich, Harry Potter, David Mitchells, Richard Herring
+- 2012-10-23 — RHLSTP 13 - David Mitchell — speakers: David Mitchell, Alice Cooper, David Mitch Mitchell, Eric Morecambe, Justin Lee Collins, Will Rich, David Mitchells
 - 2012-10-16 — RHLSTP 12 - Peter Serafinowicz — speakers: Peter Serafinowicz, George Lucas, Darth Maul, Tony Wilson, Terrance Stamp, Will Arnett, gigs Buy, Richard Herring
 - 2012-10-09 — RHLSTP 11 - Steve Pemberton and Reece Shearsmith — speakers: Steve Pemberton, Reece Shearsmith, Woody Allen, Papa Lazarou, gigs Buy, Richard Herring
 - 2012-10-02 — RHLSTP 10 - Rob Delaney — speakers: Rob Delaney Do, Rob Delaney, Kim Kardashian, Mitt Romney, gigs Buy, Richard Herring
@@ -24244,7 +24211,7 @@
 - 2012-06-15 — RHLSTP 7 - David Baddiel — speakers: David Baddiel, Kenneth Kendal, gigs Buy, Richard Herring
 - 2012-06-12 — RHLSTP 6 - Nick Frost — speakers: Nick Frost, gigs Buy, Richard Herring
 - 2012-05-29 — RHLSTP 5 - Charlie Brooker — speakers: Nicholas Parsons, William Shatner, Stewart Lee, gigs Buy, Richard Herring
-- 2012-05-22 — RHLSTP 4 - Charlie Higson — speakers: Charlie Higson, Jonathan Ross, Swiss Toni, James Bond, Ricky Gervais, gigs Buy, Richard Herring
+- 2012-05-22 — RHLSTP 4 - Charlie Higson — speakers: Charlie Higson, Jonathan Ross, Swiss Toni, Ricky Gervais, gigs Buy, Richard Herring
 - 2012-05-17 — RHLSTP 3 - Francesca Martinez — speakers: Ben Elton, Jonathan Ross, Stewart Lee, gigs Buy, Richard Herring
 - 2012-05-15 — RHLSTP 2 - Jonathan Ross — speakers: Jonathan Ross, Paul Ross, Twitter Jonathan, gigs Buy, Richard Herring
 - 2012-05-08 — RHLSTP 1 - Tim Minchin — speakers: Tim Minchin, Roald Dahl, gigs Buy, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-02-21T02:48:00+00:00`
-- checked_at: `2026-02-21T02:48:00+00:00`
-- etag: `W/"306fb-L7OUYAk5FyJ9+38LEi1fm+8dxd0"`
+- fetched_at: `2026-02-21T07:01:37+00:00`
+- checked_at: `2026-02-21T07:01:37+00:00`
+- etag: `W/"2fea8-6myb/QYl/QFOEHwjZxerDOjfoaw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-02-21T02:48:00+00:00",
+  "fetched_at": "2026-02-21T07:01:37+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,29 +28,6 @@
     "games"
   ],
   "episodes": [
-    {
-      "key": "29fa18bb8de3ef0e0b64554442dfa63706a6dbcd",
-      "title": "Can Spoilers Make or Break a Game? | Firelink Podcast",
-      "published_at": "2026-02-20T21:00:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Can-Spoilers-Make-or-Break-a-Game---Firelink-Podcast-e3fclek",
-      "description": "This week on Firelink, Nick, KC, and Marty chat about navigating the spoiler waters in 2026, single-player games having long-tail updates, and their time spent playing games like Relooted, Love Eternal, and Nioh 3. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/115807124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-20%2Fe5ee0659-d4b0-9056-5a25-e0773c2d3823.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "175841888",
-      "itunes_duration": "02:02:06",
-      "speakers": [
-        "Marty Sliva",
-        "Nick Calandra",
-        "KC Nwosu"
-      ],
-      "topics": [
-        "spoiler",
-        "game",
-        "firelink",
-        "podcast"
-      ]
-    },
     {
       "key": "90e04d4dc160e4ba0da096087cef1e1e6d5ec616",
       "title": "Sony State of Play Watchalong + Silent Hill Transmission | Firelink Podcast",
@@ -2509,7 +2486,6 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Can Spoilers Make or Break a Game? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-13 — Sony State of Play Watchalong + Silent Hill Transmission | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-06 — Losing Ourselves in Cairn, Nioh 3, and Dragon Quest VII Reimagined | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-01-30 — Highguard's Drama Feels Kinda Silly | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
