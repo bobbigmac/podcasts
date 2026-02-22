@@ -2,10 +2,10 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- last_modified: `Mon, 16 Feb 2026 00:00:08 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-22T13:12:43+00:00`
+- checked_at: `2026-02-22T13:12:43+00:00`
+- last_modified: `Sun, 22 Feb 2026 13:03:48 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,10 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else.",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/9ae4e5793f154f7d5ba3071e631bbf2f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-22T13:12:43+00:00",
+  "owners": [
+    "Seann Walsh"
+  ],
   "common_speakers": [],
   "categories": [
     "comedy"
@@ -126,7 +128,8 @@
         "Frank Skinner",
         "Stewart Lee",
         "Josie Long",
-        "Frank Skinner Writing"
+        "Frank Skinner Writing",
+        "Seann Walsh"
       ],
       "topics": [
         "josh",
@@ -149,7 +152,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2960",
       "speakers": [
-        "Ben Toms Learn"
+        "Ben Toms Learn",
+        "Seann Walsh"
       ],
       "topics": [
         "josh",
@@ -171,7 +175,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2107",
       "speakers": [
-        "Jamie Hutchinson"
+        "Jamie Hutchinson",
+        "Seann Walsh"
       ],
       "topics": [
         "jamie",
@@ -257,7 +262,8 @@
         "Vic Reeves",
         "Jim Moir",
         "Benny Hill",
-        "Harry Enflield"
+        "Harry Enflield",
+        "Seann Walsh"
       ],
       "topics": [
         "charlie",
@@ -282,7 +288,8 @@
       "itunes_duration": "4550",
       "speakers": [
         "Axel Blake",
-        "Simon Cowell"
+        "Simon Cowell",
+        "Seann Walsh"
       ],
       "topics": [
         "axel",
@@ -396,7 +403,8 @@
         "Kyla Cobbler",
         "Mike Rice",
         "Little Mermaid",
-        "Mike Rice Learn"
+        "Mike Rice Learn",
+        "Seann Walsh"
       ],
       "topics": [
         "kyla",
@@ -506,7 +514,8 @@
       "speakers": [
         "Natalie Cawley",
         "Josh James Childhood Guilt",
-        "Childhood Guilt"
+        "Childhood Guilt",
+        "Seann Walsh"
       ],
       "topics": [
         "therapist",
@@ -534,7 +543,7 @@
       "speakers": [
         "Horatio Gould",
         "Richard Ashcroft",
-        "Harry Potter"
+        "Seann Walsh"
       ],
       "topics": [
         "horatio",
@@ -559,7 +568,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2466",
       "speakers": [
-        "Stewart Lee"
+        "Stewart Lee",
+        "Seann Walsh"
       ],
       "topics": [
         "stewart",
@@ -584,7 +594,8 @@
       "itunes_duration": "2688",
       "speakers": [
         "Stewart Lee",
-        "Top Trumps"
+        "Top Trumps",
+        "Seann Walsh"
       ],
       "topics": [
         "stewart",
@@ -721,7 +732,8 @@
       "itunes_duration": "1938",
       "speakers": [
         "Jonathan Ross",
-        "Russell Kane access"
+        "Russell Kane access",
+        "Seann Walsh"
       ],
       "topics": [
         "joel",
@@ -744,7 +756,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2274",
-      "speakers": [],
+      "speakers": [
+        "Seann Walsh"
+      ],
       "topics": [
         "joel",
         "dommett",
@@ -865,7 +879,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3293",
       "speakers": [
-        "Ashley Cain"
+        "Ashley Cain",
+        "Seann Walsh"
       ],
       "topics": [
         "ashley",
@@ -951,7 +966,8 @@
       "speakers": [
         "Vittorio Angelone",
         "Catch Vittorio",
-        "Josh James"
+        "Josh James",
+        "Seann Walsh"
       ],
       "topics": [
         "vittorio",
@@ -978,7 +994,8 @@
         "Max Fosh",
         "Ben TomsPhotography",
         "Jack MargerisonMusic",
-        "Benwell Learn"
+        "Benwell Learn",
+        "Seann Walsh"
       ],
       "topics": [
         "fosh",
@@ -1037,7 +1054,8 @@
         "Adam Horton Digital Activation",
         "Ben Toms",
         "Jack Margerison Music",
-        "Benwell Learn"
+        "Benwell Learn",
+        "Seann Walsh"
       ],
       "topics": [
         "mike",
@@ -1091,7 +1109,8 @@
         "Seann Walsh Producer",
         "Adam Horton Digital Activation",
         "Ben Toms",
-        "Jack Margerison Music"
+        "Jack Margerison Music",
+        "Seann Walsh"
       ],
       "topics": [
         "adam",
@@ -1121,7 +1140,8 @@
         "Adam Horton Producer",
         "Ben Toms",
         "Jack Margerison Music",
-        "Benwell Learn"
+        "Benwell Learn",
+        "Seann Walsh"
       ],
       "topics": [
         "joanne",
@@ -1191,43 +1211,43 @@
 - 2026-02-16 — ADAM HILLS: Building Self Belief, Positive Comedy, gigging with Robin Williams, Billy Connolly & Seeing A Young Jim Carrey — speakers: Adam Hills, Robin Williams, Jim Carrey, Seann Walsh, Billy Connolly, Catch Seann Walsh
 - 2026-02-09 — SHANE TODD: Disastrous First Gig, John Mulaney and Guinness Faux Pas — speakers: John Mulaney, Shane Todd, Hip Hop, Bill Burr, Kevin Hart, Seann Walsh
 - 2026-02-02 — SHANE TODD: Petty Revenge Against Teachers, Navigating Class System and Boy's School Experiences — speakers: Shane Todd, Seann Walsh, Hip Hop, Bill Burr, Kevin Hart, John Mulaney
-- 2026-01-26 — JOSH WIDDICOMBE: Comedy, Hits, Misses and Finding His Voice — speakers: Frank Skinner, Stewart Lee, Josie Long, Frank Skinner Writing
-- 2026-01-19 — JOSH WIDDICOMBE: Being Nerdy & How My Showbiz Nan Influenced My Comedy — speakers: Ben Toms Learn
-- 2026-01-12 — JAMIE HUTCHINSON (Pt 2): Gambling Addiction, Doing C*ke at work & How I Got Into Comedy — speakers: Jamie Hutchinson
+- 2026-01-26 — JOSH WIDDICOMBE: Comedy, Hits, Misses and Finding His Voice — speakers: Frank Skinner, Stewart Lee, Josie Long, Frank Skinner Writing, Seann Walsh
+- 2026-01-19 — JOSH WIDDICOMBE: Being Nerdy & How My Showbiz Nan Influenced My Comedy — speakers: Ben Toms Learn, Seann Walsh
+- 2026-01-12 — JAMIE HUTCHINSON (Pt 2): Gambling Addiction, Doing C*ke at work & How I Got Into Comedy — speakers: Jamie Hutchinson, Seann Walsh
 - 2026-01-05 — JAMIE HUTCHINSON:Parents Divorce, First Heartbreak & 'Tramp Of The Year' — speakers: Jamie Hutchinson, Seann Walsh
 - 2025-12-29 — 2025 Best Moments: Stewart Lee, Romesh, Ross Noble, Vittorio Angelone etc. — speakers: Stewart Lee, Ross Noble, Vittorio Angelone, Adam Rowe, Boy George, Russell Kane, Red Richardson, Joanne McNally
-- 2025-12-22 — CHARLIE HIGSON: How We Created The Fast Show, Writing With Harry Enfield VS Paul Whitehouse — speakers: Harry Enfield VS, Paul Whitehouse, Charlie Higson, Vic Reeves, Jim Moir, Benny Hill, Harry Enflield
-- 2025-12-15 — AXEL BLAKE: Dyslexia, ADHD, Fighting Teachers & Why Knowing Yourself Is The Key To Success — speakers: Axel Blake, Simon Cowell
+- 2025-12-22 — CHARLIE HIGSON: How We Created The Fast Show, Writing With Harry Enfield VS Paul Whitehouse — speakers: Harry Enfield VS, Paul Whitehouse, Charlie Higson, Vic Reeves, Jim Moir, Benny Hill, Harry Enflield, Seann Walsh
+- 2025-12-15 — AXEL BLAKE: Dyslexia, ADHD, Fighting Teachers & Why Knowing Yourself Is The Key To Success — speakers: Axel Blake, Simon Cowell, Seann Walsh
 - 2025-12-08 — RUSSELL HOWARD Pt2: How I Avoided Drink, Drugs & The Pitfalls of Early Success — speakers: Russell Howard, Seann Walsh, Michael McIntyre, Daniel Kitson, Ross Noble, Johnny Wilkinson, Frankie Boyle
 - 2025-12-08 — RUSSELL HOWARD (1): Fear Of Death, Comedy Training At School & West Country Childhood — speakers: Russell Howard, Seann Walsh, Comedy Training, Robbie Williams, Michael Jackson, Lee Evans, Billy Connolly, Comedy Learn
 - 2025-11-24 — JACK SKIPPER: "Everyone Remembers The Naughty Kid's Name!" — speakers: Jack Skipper, Seann Walsh, Ricky Gervais, Steve Coogan, seannwalshthisistorture Learn
-- 2025-11-17 — KYLA COBBLER: Social Media Superstardom, Irish Childhood, Starting Comedy Late — speakers: Kyla Cobbler, Mike Rice, Little Mermaid, Mike Rice Learn
+- 2025-11-17 — KYLA COBBLER: Social Media Superstardom, Irish Childhood, Starting Comedy Late — speakers: Kyla Cobbler, Mike Rice, Little Mermaid, Mike Rice Learn, Seann Walsh
 - 2025-11-10 — ROSS NOBLE (Pt 2): Becoming Fearless, Gigging With Lee Evans & Rolf Harris — speakers: Ross Noble, Seann Walsh, Lee Evans, Rolf Harris, Jack Dee, Jo Brand
 - 2025-11-03 — ROSS NOBLE (Pt 1): How I Built My Comedy Audience, Inner Confidence & The Power Of "No" — speakers: Ross Noble, Seann Walsh, Cramlington Learn
 - 2025-10-27 — HORATIO GOULD (Pt 2): How Stewart Lee and Michael McIntyre influenced My Comedy & Advice For Achieving Success — speakers: Stewart Lee, Michael McIntyre, Jennifer Lawrence, Catch Horatio, Seann Walsh, Jennifer Lawrence Not
-- 2025-10-23 — Therapist Analyses Josh James Interview: Flow State, Guilt, Bullying, Denial — speakers: Natalie Cawley, Josh James Childhood Guilt, Childhood Guilt
-- 2025-10-20 — HORATIO GOULD (Pt1) Fin Vs History Origins, Starting a Fight Club, The Joke That Changed His Life — speakers: Horatio Gould, Richard Ashcroft, Harry Potter
-- 2025-10-13 — STEWART LEE PART 2! How Adoption Shaped His Life, Comedy Influences, Small Town Life — speakers: Stewart Lee
-- 2025-10-06 — STEWART LEE (Pt1) The Riyadh Comedy Festival, The Oasis Reunion, Marvel & Star Wars — speakers: Stewart Lee, Top Trumps
+- 2025-10-23 — Therapist Analyses Josh James Interview: Flow State, Guilt, Bullying, Denial — speakers: Natalie Cawley, Josh James Childhood Guilt, Childhood Guilt, Seann Walsh
+- 2025-10-20 — HORATIO GOULD (Pt1) Fin Vs History Origins, Starting a Fight Club, The Joke That Changed His Life — speakers: Horatio Gould, Richard Ashcroft, Seann Walsh
+- 2025-10-13 — STEWART LEE PART 2! How Adoption Shaped His Life, Comedy Influences, Small Town Life — speakers: Stewart Lee, Seann Walsh
+- 2025-10-06 — STEWART LEE (Pt1) The Riyadh Comedy Festival, The Oasis Reunion, Marvel & Star Wars — speakers: Stewart Lee, Top Trumps, Seann Walsh
 - 2025-10-02 — Boy George, Bonnie Blue, Social Media: Therapist Analysis — speakers: Boy George, Bonnie Blue, Natalie Cawley, Seann Walsh, Trauma Creation
 - 2025-10-01 — RUSSELL KANE (Pt 2.): Raving Lead To a Romantic Encounter That Changed His Life — speakers: Russell Kane, Raving Lead, Russell Howard, Russell Brand, Seann Walsh
 - 2025-09-25 — THERAPIST ANALYSES MIKE RICE: ADHD markers, Handling Anxiety, Shadow Self, DBT (Therapy) — speakers: Shadow Self, Seann Walsh, Natalie Cawley, Mike Rice, Comedy Philosophy
 - 2025-09-22 — RUSSELL KANE (Pt.1): Council Housing, Scary Dads & What Makes You Likely To Be A Comedian — speakers: Russell Kane, Seann Walsh
-- 2025-09-15 — JOEL DOMMETT (Pt. 2): The Secret Behind The Work Ethic That Lead To Comedy Success — speakers: Jonathan Ross, Russell Kane access
-- 2025-09-08 — JOEL DOMMETT (Pt 1) First Kiss, Insulting The School Bully & Studying The Class Clown (Part
+- 2025-09-15 — JOEL DOMMETT (Pt. 2): The Secret Behind The Work Ethic That Lead To Comedy Success — speakers: Jonathan Ross, Russell Kane access, Seann Walsh
+- 2025-09-08 — JOEL DOMMETT (Pt 1) First Kiss, Insulting The School Bully & Studying The Class Clown (Part — speakers: Seann Walsh
 - 2025-09-01 — Therapist Breaks Down Comedian's Potential Autism & The Dangers of Self Diagnosis — speakers: Natalie Cawley, Seann Walsh, Vittorio Angelone
 - 2025-08-26 — Psychotherapist analyses Adam Rowe's interview on Class Clown — speakers: Adam Rowe, Seann Walsh, Natalie Cawley, com ClassClown
 - 2025-08-18 — JOSH JAMES: Growing Up in Essex, Banned From The FA & Suspended Four Times! (Sponsored by FIXR) — speakers: Josh James, Seann Walsh, Bill Clinton
 - 2025-08-11 — JAMALI MADDIX: Dyslexia, Dyspraxia and Overcoming Expectations — speakers: Seann Walsh
-- 2025-08-04 — ASHLEY CAIN: Grief, School Fights and Building Mental Strength — speakers: Ashley Cain
+- 2025-08-04 — ASHLEY CAIN: Grief, School Fights and Building Mental Strength — speakers: Ashley Cain, Seann Walsh
 - 2025-07-28 — LAURA SMYTH: Losing A Dad, Growing Up in East London, Swapping Teaching For Comedy — speakers: Laura Smyth, Seann Walsh
 - 2025-07-21 — RED RICHARDSON: Lads Holidays, Life Coaching, Ricky Gervais, South Park and 00's comedy inspirations — speakers: Ricky Gervais, Red Richardson, Seann Walsh, Alan partridge, Will Ferrell, Ben Stiller, Ben TomsPhotography, Jack MargerisonMusic
-- 2025-07-14 — VITTORIO ANGELONE: Hitting a Teacher, Autism, House Parties, Overcoming Anxiety — speakers: Vittorio Angelone, Catch Vittorio, Josh James
-- 2025-07-07 — MAX FOSH: My Parents' Divorce, Private School Bullying & YouTube Success — speakers: YouTube Success, Max Fosh, Ben TomsPhotography, Jack MargerisonMusic, Benwell Learn
+- 2025-07-14 — VITTORIO ANGELONE: Hitting a Teacher, Autism, House Parties, Overcoming Anxiety — speakers: Vittorio Angelone, Catch Vittorio, Josh James, Seann Walsh
+- 2025-07-07 — MAX FOSH: My Parents' Divorce, Private School Bullying & YouTube Success — speakers: YouTube Success, Max Fosh, Ben TomsPhotography, Jack MargerisonMusic, Benwell Learn, Seann Walsh
 - 2025-06-30 — BOY GEORGE: Twitter Fights, Getting Sacked and Finding Inner Peace — speakers: Twitter Fights, Seann Walsh, Boy George, Seann Walsh Producer, Adam Horton Digital Activation, Ben Toms, Jack Margerison Music, Benwell Learn
-- 2025-06-23 — MIKE RICE: School Riots, Late Puberty & Life On The Farm — speakers: Mike Rice, Seann Walsh Producer, Adam Horton Digital Activation, Ben Toms, Jack Margerison Music, Benwell Learn
+- 2025-06-23 — MIKE RICE: School Riots, Late Puberty & Life On The Farm — speakers: Mike Rice, Seann Walsh Producer, Adam Horton Digital Activation, Ben Toms, Jack Margerison Music, Benwell Learn, Seann Walsh
 - 2025-06-16 — JILL SCOTT: Bullies, ADHD, I'm A Celeb & Becoming A Football Hero — speakers: Jill Scott, Seann Walsh
-- 2025-06-09 — ADAM ROWE: Alcoholism, Working-Class Success & Building ‘Have A Word’ — speakers: Adam Rowe, Seann Walsh Producer, Adam Horton Digital Activation, Ben Toms, Jack Margerison Music
-- 2025-06-09 — JOANNE MCNALLY: Adoption, Eating Disorders & What Made Her Funny — speakers: kiss chase, Seann Walsh Producer, Adam Horton Producer, Ben Toms, Jack Margerison Music, Benwell Learn
+- 2025-06-09 — ADAM ROWE: Alcoholism, Working-Class Success & Building ‘Have A Word’ — speakers: Adam Rowe, Seann Walsh Producer, Adam Horton Digital Activation, Ben Toms, Jack Margerison Music, Seann Walsh
+- 2025-06-09 — JOANNE MCNALLY: Adoption, Eating Disorders & What Made Her Funny — speakers: kiss chase, Seann Walsh Producer, Adam Horton Producer, Ben Toms, Jack Margerison Music, Benwell Learn, Seann Walsh
 - 2025-06-02 — ROMESH RANGANATHAN: Family Breakdowns, Race & Starting Comedy at 8 y/o — speakers: Family Breakdowns, Seann Walsh, Seann Walsh Producer, Adam Horton Producer, Ben Toms, Jack Margerison Music, Benwell Learn
 - 2025-05-19 — CLASS CLOWN announcement — speakers: Seann Walsh
