@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-02-20T21:17:34+00:00`
-- checked_at: `2026-02-20T21:17:34+00:00`
-- last_modified: `Fri, 20 Feb 2026 21:01:59 GMT`
+- fetched_at: `2026-02-22T21:38:22+00:00`
+- checked_at: `2026-02-22T21:38:22+00:00`
+- last_modified: `Sun, 22 Feb 2026 21:10:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/2bd761193d6895adbeb3644032f20f68.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T21:17:34+00:00",
+  "fetched_at": "2026-02-22T21:38:22+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -242,7 +242,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1512",
       "speakers": [
-        "James Bond",
         "Ranga Bee Production",
         "Romesh Ranganathan"
       ],
@@ -765,12 +764,10 @@
       "itunes_duration": "3901",
       "speakers": [
         "Loyle Carner",
-        "James Bond Exclusive",
         "Santander Pay Smarter",
         "Santander Edge",
         "Ranga Bee Production",
         "Lianne La Havas",
-        "James Bond",
         "Romesh Ranganathan"
       ],
       "topics": [
@@ -1132,7 +1129,7 @@
 - 2026-02-02 — Jack Thorne: Adolescence, Stephen Graham, and Anxiety — speakers: Jack Thorne Adolescence, Stephen Graham, Jack Thorne, Ranga Bee Production, Adolescence Jack, Brad Pitt, Romesh Ranganathan
 - 2026-01-29 — Shanthi’s Own Cooking Show & How To Stop Tantrums! — speakers: Will Arnett, Ranga Bee Production, Romesh Ranganathan
 - 2026-01-26 — Will Arnett: Why People LOVE Bojack Horseman & Pretending To Be A Comedian — speakers: Will Arnett, BoJack Horseman, John Bishop, Jürgen Klopp, Ranga Bee Production, Will BoJack Horseman, Romesh Ranganathan
-- 2026-01-22 — Shanthi's Acting Skills, Genie Wishes & Expensive Taste — speakers: James Bond, Ranga Bee Production, Romesh Ranganathan
+- 2026-01-22 — Shanthi's Acting Skills, Genie Wishes & Expensive Taste — speakers: Ranga Bee Production, Romesh Ranganathan
 - 2026-01-19 — Joy Crookes: Making Music, Heritage & Thierry Henry — speakers: Thierry Henry Singer, Thierry Henry, Ranga Bee Production, Romesh Ranganathan
 - 2026-01-15 — Romesh’s BEST Impressions & Why Shanthi LOVES James Acaster?! — speakers: James Acaster, Chris Eubank, Michael Macintyre, Ranga Bee, Romesh Ranganathan
 - 2026-01-12 — James Acaster: Hecklers, Mental Health & Stealing Romesh's Family — speakers: James Acaster, Off Menu, Ranga Bee Production, Romesh Ranganathan
@@ -1153,7 +1150,7 @@
 - 2025-11-13 — Shanthi on Girlfriends, Overprotective Parents & “Love You, Mummy” — speakers: Andy Murray, Ranga Bee Production, Law Birthday Party, Romesh Ranganathan
 - 2025-11-10 — Andy Murray: Retirement, Tennis Grunts & Finally Feeling Pride — speakers: Andy Murray, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Ranganathan Learn, Romesh Ranganathan
 - 2025-11-06 — Romesh & Shanthi Open Up — speakers: Ranga Bee Production, Loyle Carner, Romesh Ranganathan
-- 2025-11-03 — Loyle Carner: Glastonbury, Ottolenghi and James Bond Exclusive! — speakers: Loyle Carner, James Bond Exclusive, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Lianne La Havas, James Bond, Romesh Ranganathan
+- 2025-11-03 — Loyle Carner: Glastonbury, Ottolenghi and James Bond Exclusive! — speakers: Loyle Carner, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Lianne La Havas, Romesh Ranganathan
 - 2025-10-30 — Shanthi Holds a Grudge & Romesh SINGS Whitney! — speakers: Santander Pay Smarter, Santander Edge, Ranga Bee Production, Mel Gibson, Romesh Ranganathan
 - 2025-10-27 — Daisy May Cooper & Charlie Cooper: Ghost Hunts, Sibling Rivalry & Threadworm — speakers: Charlie Cooper, Daisy May, Ranga Bee Production, Charlie Really Believe, Daisy’s Creepy, Romesh Ranganathan
 - 2025-10-22 — Controlling Romesh's Life & What Shanthi Looks For In A Man! — speakers: Jameela Jamil, Santander Pay Smarter, Santander Edge, Ranga Bee Production, Ben’s Apples, Romesh Ranganathan
