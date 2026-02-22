@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-02-21T02:48:00+00:00`
-- checked_at: `2026-02-21T02:48:00+00:00`
-- etag: `W/"d78ad48053f6167c6976590e80da67c1"`
-- last_modified: `Thu, 19 Feb 2026 05:00:01 GMT`
+- fetched_at: `2026-02-22T07:06:44+00:00`
+- checked_at: `2026-02-22T07:06:44+00:00`
+- etag: `W/"3d6d943189774bfe51f0dd2dc1003a0d"`
+- last_modified: `Sun, 22 Feb 2026 05:07:58 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://audioboom.com/i/43053503.jpg",
-  "fetched_at": "2026-02-21T02:48:00+00:00",
+  "fetched_at": "2026-02-22T07:06:44+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -162,10 +162,10 @@
       "link": "https://audioboom.com/posts/8827218",
       "description": "Welcome back to the garden, where we are kicking off 2026 properly with the gloriously funny Gabby Best. A brilliantly talented actor and a very good friend of mine, you may know Gabby as Alan Carr’s neighbour in the wonderfully funny Changing Ends. Series 2 is available now on ITV and ITVX so do please take a look. We chat holiday tomatoes, norovirus with Noel Edmonds, and the audience crossover between air fryers and mindfulness. Gabby even treats us to a cheeky bounce on the trampoline and kindly helps me pull up some potatoes! Don't forget, you can also watch the podcast on Youtube - just search for @tomallen . So, pop on that tanning oil, grab the gardening gloves and please join us for another episode of Pottering. Now, if you will excuse me, I am off for a small lie down in the wardrobe.",
       "image_url": "https://audioboom.com/i/43307367.jpg",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8827218.mp3?modified=1767806453&sid=5160692&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8827218.mp3?modified=1771736893&sid=5160692&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2833",
+      "itunes_duration": "2776",
       "speakers": [
         "Alan Carr",
         "Noel Edmonds",

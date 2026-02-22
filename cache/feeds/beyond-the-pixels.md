@@ -2,10 +2,10 @@
 
 - slug: `beyond-the-pixels`
 - source: `https://anchor.fm/s/10cd8b17c/podcast/rss`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `W/"175f-Y8LB/4D3fGZ2PWfF7pd7084KEFY"`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-22T07:06:44+00:00`
+- checked_at: `2026-02-22T07:06:44+00:00`
+- etag: `W/"175f-HBoLt+PFZncqNK4cAIP88k9oODE"`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,10 @@
   "link": "https://podcasters.spotify.com/pod/show/second-wind",
   "description": "A podcast that peers behind the fabric of the game development industry. Hosted by Nick Calandra.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45004951/45004951-1765819416911-95ba46ab6b4c3.jpg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-22T07:06:44+00:00",
+  "owners": [
+    "Nick Calandra"
+  ],
   "common_speakers": [],
   "categories": [
     "games"
@@ -37,7 +39,8 @@
       "itunes_duration": "00:57:33",
       "speakers": [
         "Aaron Foster",
-        "Jemma Hughes"
+        "Jemma Hughes",
+        "Nick Calandra"
       ],
       "topics": [
         "year",
@@ -57,7 +60,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116867699",
       "itunes_duration": "01:08:42",
-      "speakers": [],
+      "speakers": [
+        "Nick Calandra"
+      ],
       "topics": [
         "knightling"
       ]
@@ -90,6 +95,6 @@
 
 ## Episodes (newest first)
 
-- 2025-12-31 — The 13-Year Development Journey of Routine — speakers: Aaron Foster, Jemma Hughes
-- 2025-12-23 — The Knightling Did Everything Right - It Still Struggled to Sell
+- 2025-12-31 — The 13-Year Development Journey of Routine — speakers: Aaron Foster, Jemma Hughes, Nick Calandra
+- 2025-12-23 — The Knightling Did Everything Right - It Still Struggled to Sell — speakers: Nick Calandra
 - 2025-12-15 — Even at Rockstar, You Can Be Just Another Cog in the Machine — speakers: Nick Calandra, Jamie Trimmer, Sarah Blackburn
