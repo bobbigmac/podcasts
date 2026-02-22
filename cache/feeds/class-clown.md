@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-02-22T13:12:43+00:00`
-- checked_at: `2026-02-22T13:12:43+00:00`
-- last_modified: `Sun, 22 Feb 2026 13:03:48 GMT`
+- fetched_at: `2026-02-22T15:40:48+00:00`
+- checked_at: `2026-02-22T15:40:48+00:00`
+- last_modified: `Sun, 22 Feb 2026 13:31:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else.",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/9ae4e5793f154f7d5ba3071e631bbf2f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-22T13:12:43+00:00",
+  "fetched_at": "2026-02-22T15:40:48+00:00",
   "owners": [
     "Seann Walsh"
   ],

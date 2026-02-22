@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-02-20T13:33:38+00:00`
-- checked_at: `2026-02-20T13:33:38+00:00`
-- etag: `"djEuMi4wOjE3NzE1OTI0MzkzMjU="`
+- fetched_at: `2026-02-22T15:40:48+00:00`
+- checked_at: `2026-02-22T15:40:48+00:00`
+- etag: `"djEuMi4wOjE3NzE3NzI0Mzk0Mzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-02-20T13:33:38+00:00",
+  "fetched_at": "2026-02-22T15:40:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cddd121b022d75baf1bb6e1211342e3ddae79039",
+      "title": "Capitalism is a trap - and you can't get out | Clara Mattei interview",
+      "published_at": "2026-02-22T15:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/699b19380e5c959d59de8999",
+      "description": "Ava sits down with economist Clara Mattei to explore a bold and unsettling idea: capitalism isn’t failing - it’s functioning exactly as intended. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/699b19380e5c959d59de8999/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50174497",
+      "itunes_duration": "34:50",
+      "speakers": [
+        "Clara Mattei"
+      ],
+      "topics": [
+        "capitalism",
+        "trap",
+        "clara",
+        "mattei"
+      ]
+    },
     {
       "key": "4ee7f7e20aa70a3b500a576a12300d3fa30505da",
       "title": "The Truth about Morgan McSweeney | Peter Oborne interview",
@@ -37,7 +58,6 @@
       "itunes_duration": "29:54",
       "speakers": [
         "Peter Oborne",
-        "Keir Starmer",
         "Peter Mandelson"
       ],
       "topics": [
@@ -103,7 +123,6 @@
       "enclosure_length": "42048927",
       "itunes_duration": "29:11",
       "speakers": [
-        "Tony Blair",
         "Michael Waldman"
       ],
       "topics": [
@@ -126,8 +145,7 @@
       "enclosure_length": "44973223",
       "itunes_duration": "31:13",
       "speakers": [
-        "Starmer U-turns",
-        "Keir Starmer"
+        "Starmer U-turns"
       ],
       "topics": [
         "starmer",
@@ -147,8 +165,7 @@
       "itunes_duration": "41:45",
       "speakers": [
         "Labour Together",
-        "Jim Ratcliffe",
-        "Keir Starmer"
+        "Jim Ratcliffe"
       ],
       "topics": [
         "labour",
@@ -232,9 +249,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76101411",
       "itunes_duration": "52:50",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "fact",
         "keir",
@@ -253,7 +268,6 @@
       "enclosure_length": "49643995",
       "itunes_duration": "34:28",
       "speakers": [
-        "Keir Starmer",
         "Wes Streeting"
       ],
       "topics": [
@@ -339,7 +353,6 @@
       "enclosure_length": "74714407",
       "itunes_duration": "51:52",
       "speakers": [
-        "Keir Starmer",
         "Peter Mandelson",
         "Andy Twelves"
       ],
@@ -428,8 +441,7 @@
       "enclosure_length": "40599296",
       "itunes_duration": "28:10",
       "speakers": [
-        "Steve Witherden",
-        "Donald Trump"
+        "Steve Witherden"
       ],
       "topics": [
         "labour",
@@ -450,7 +462,6 @@
       "enclosure_length": "70757294",
       "itunes_duration": "49:07",
       "speakers": [
-        "Keir Starmer",
         "David Lammy"
       ],
       "topics": []
@@ -555,8 +566,7 @@
       "enclosure_length": "21518595",
       "itunes_duration": "22:22",
       "speakers": [
-        "Scott Lucas",
-        "Donald Trump"
+        "Scott Lucas"
       ],
       "topics": [
         "medium",
@@ -620,8 +630,7 @@
       "enclosure_length": "55701360",
       "itunes_duration": "38:40",
       "speakers": [
-        "Robert Jenrick",
-        "Donald Trump"
+        "Robert Jenrick"
       ],
       "topics": [
         "tory",
@@ -643,7 +652,6 @@
       "enclosure_length": "76122917",
       "itunes_duration": "52:50",
       "speakers": [
-        "Donald Trump",
         "Ann Pettifor"
       ],
       "topics": [
@@ -680,9 +688,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58818262",
       "itunes_duration": "30:37",
-      "speakers": [
-        "Elon Musk"
-      ],
+      "speakers": [],
       "topics": [
         "turn",
         "starmer",
@@ -746,7 +752,6 @@
       "itunes_duration": "31:10",
       "speakers": [
         "Scott Lucas",
-        "Donald Trump",
         "Nicolás Maduro"
       ],
       "topics": [
@@ -804,9 +809,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59476071",
       "itunes_duration": "41:17",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "boot",
         "ground",
@@ -874,7 +877,6 @@
         "Zack Polanski",
         "Jeffrey Epstein",
         "Peter Mandelson",
-        "Donald Trump",
         "Jeremy Corbyn",
         "Zarah Sultana"
       ],
@@ -894,9 +896,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37122499",
       "itunes_duration": "25:44",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "pressure",
         "pile",
@@ -917,9 +917,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46633842",
       "itunes_duration": "32:22",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "keir",
         "starmer",
@@ -1054,7 +1052,6 @@
       "enclosure_length": "87154961",
       "itunes_duration": "45:22",
       "speakers": [
-        "Keir Starmer",
         "Grace Blakeley",
         "Clive Lewis"
       ],
@@ -1332,7 +1329,6 @@
       "enclosure_length": "90479511",
       "itunes_duration": "47:06",
       "speakers": [
-        "Donald Trump",
         "Bill Clinton"
       ],
       "topics": [
@@ -1434,8 +1430,7 @@
       "enclosure_length": "46524038",
       "itunes_duration": "24:12",
       "speakers": [
-        "Tim Davie",
-        "Donald Trump"
+        "Tim Davie"
       ],
       "topics": []
     },
@@ -1451,7 +1446,6 @@
       "enclosure_length": "36053493",
       "itunes_duration": "25:00",
       "speakers": [
-        "Nigel Farage",
         "Ed Miliband"
       ],
       "topics": [
@@ -1476,7 +1470,6 @@
       "enclosure_length": "67863460",
       "itunes_duration": "47:07",
       "speakers": [
-        "Keir Starmer",
         "David Lammy",
         "James Cartlidge"
       ],
@@ -1582,8 +1575,7 @@
       "enclosure_length": "44951918",
       "itunes_duration": "31:12",
       "speakers": [
-        "Rachel Reeves",
-        "Keir Starmer"
+        "Rachel Reeves"
       ],
       "topics": [
         "rachel",
@@ -1603,9 +1595,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52206050",
       "itunes_duration": "36:14",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "reaction"
       ]
@@ -1695,9 +1685,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67695889",
       "itunes_duration": "47:00",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "labour",
         "comms"
@@ -1718,8 +1706,7 @@
         "Maccabi Tel Aviv",
         "Prince Andrew",
         "Aston Villa",
-        "Virginia Giuffre",
-        "Keir Starmer"
+        "Virginia Giuffre"
       ],
       "topics": [
         "maccabi",
@@ -2007,9 +1994,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75859013",
       "itunes_duration": "39:27",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "keir",
         "starmer",
@@ -2029,7 +2014,6 @@
       "enclosure_length": "44556317",
       "itunes_duration": "30:56",
       "speakers": [
-        "Keir Starmer",
         "Dawn Butler",
         "Henry Tufnell",
         "Pat McFadden"
@@ -2110,7 +2094,6 @@
       "enclosure_length": "77750545",
       "itunes_duration": "53:59",
       "speakers": [
-        "Donald Trump",
         "Ed Davey"
       ],
       "topics": [
@@ -2130,9 +2113,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57641972",
       "itunes_duration": "40:01",
-      "speakers": [
-        "Donald Trump"
-      ],
+      "speakers": [],
       "topics": [
         "trump",
         "autism",
@@ -2230,9 +2211,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63260097",
       "itunes_duration": "43:55",
-      "speakers": [
-        "King Charles"
-      ],
+      "speakers": [],
       "topics": [
         "davey",
         "trump",
@@ -2349,7 +2328,6 @@
       "itunes_duration": "56:59",
       "speakers": [
         "Zack Polanski",
-        "Keir Starmer",
         "Peter Mandelson",
         "Jeffrey Epstein"
       ],
@@ -2576,9 +2554,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84444900",
       "itunes_duration": "58:38",
-      "speakers": [
-        "Taylor Swift"
-      ],
+      "speakers": [],
       "topics": [
         "reform",
         "deal",
@@ -2718,7 +2694,6 @@
       "enclosure_length": "17918242",
       "itunes_duration": "12:25",
       "speakers": [
-        "Keir Starmer",
         "Stephen Kapos"
       ],
       "topics": [
@@ -2985,7 +2960,6 @@
       "itunes_duration": "38:58",
       "speakers": [
         "Peter Kyle",
-        "Nigel Farage",
         "Jimmy Savile"
       ],
       "topics": [
@@ -3008,9 +2982,7 @@
       "enclosure_length": "69736088",
       "itunes_duration": "48:25",
       "speakers": [
-        "Donald Trump",
         "Ursula Von Der Leyen",
-        "Keir Starmer",
         "Jeffrey Epstein"
       ],
       "topics": [
@@ -3053,7 +3025,6 @@
       "enclosure_length": "66520689",
       "itunes_duration": "46:10",
       "speakers": [
-        "Elon Musk",
         "Sönke Iwersen",
         "Handelsblatt Sönke Iwersen",
         "Joe Towers",
@@ -3095,9 +3066,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69952741",
       "itunes_duration": "48:34",
-      "speakers": [
-        "Donald Trump"
-      ],
+      "speakers": [],
       "topics": [
         "reshuffle",
         "epstein",
@@ -3196,9 +3165,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30489929",
       "itunes_duration": "21:10",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "emergency",
         "keir",
@@ -3500,8 +3467,7 @@
       "enclosure_length": "46200728",
       "itunes_duration": "32:04",
       "speakers": [
-        "Anushka Asthana",
-        "Keir Starmer"
+        "Anushka Asthana"
       ],
       "topics": [
         "labour",
@@ -3618,8 +3584,7 @@
       "enclosure_length": "51839153",
       "itunes_duration": "35:59",
       "speakers": [
-        "Helen Lewis",
-        "Elon Musk"
+        "Helen Lewis"
       ],
       "topics": [
         "genius"
@@ -3798,7 +3763,6 @@
       "enclosure_length": "29628032",
       "itunes_duration": "20:34",
       "speakers": [
-        "Nigel Farage",
         "Zia Yusuf"
       ],
       "topics": [
@@ -4032,8 +3996,7 @@
       "itunes_duration": "32:28",
       "speakers": [
         "Bernie Sanders",
-        "Alexandria Ocasio-Cortez",
-        "Donald Trump"
+        "Alexandria Ocasio-Cortez"
       ],
       "topics": [
         "round",
@@ -4176,9 +4139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68510916",
       "itunes_duration": "47:34",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "analysis"
       ]
@@ -4280,8 +4241,7 @@
       "enclosure_length": "65518128",
       "itunes_duration": "45:29",
       "speakers": [
-        "Paul Chowdhry",
-        "Keir Starmer"
+        "Paul Chowdhry"
       ],
       "topics": [
         "analysis",
@@ -4321,9 +4281,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76877898",
       "itunes_duration": "53:22",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "keir",
         "starmer",
@@ -4342,9 +4300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29674136",
       "itunes_duration": "20:36",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "explained",
         "keir",
@@ -4405,9 +4361,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76320961",
       "itunes_duration": "52:59",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "reaction",
         "starmer"
@@ -4529,9 +4483,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76468597",
       "itunes_duration": "53:05",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "pmqs",
         "analysis",
@@ -4812,9 +4764,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65784130",
       "itunes_duration": "45:40",
-      "speakers": [
-        "Nigel Farage"
-      ],
+      "speakers": [],
       "topics": [
         "labour",
         "trouble",
@@ -4853,9 +4803,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83844608",
       "itunes_duration": "58:13",
-      "speakers": [
-        "Donald Trump"
-      ],
+      "speakers": [],
       "topics": [
         "donald",
         "trump",
@@ -4936,8 +4884,7 @@
       "enclosure_length": "86165896",
       "itunes_duration": "59:49",
       "speakers": [
-        "Horatio Gould",
-        "Keir Starmer"
+        "Horatio Gould"
       ],
       "topics": [
         "analysis",
@@ -4957,8 +4904,7 @@
       "enclosure_length": "73416128",
       "itunes_duration": "50:58",
       "speakers": [
-        "Tom Usher",
-        "Keir Starmer"
+        "Tom Usher"
       ],
       "topics": [
         "labour",
@@ -5067,8 +5013,7 @@
       "enclosure_length": "69175003",
       "itunes_duration": "48:01",
       "speakers": [
-        "Divina De Campo",
-        "Donald Trump"
+        "Divina De Campo"
       ],
       "topics": [
         "divina",
@@ -5129,7 +5074,6 @@
       "enclosure_length": "78953187",
       "itunes_duration": "54:49",
       "speakers": [
-        "Keir Starmer",
         "Fin Taylor"
       ],
       "topics": [
@@ -5234,7 +5178,6 @@
       "enclosure_length": "60698603",
       "itunes_duration": "42:08",
       "speakers": [
-        "Donald Trump",
         "Liz Kendall"
       ],
       "topics": [
@@ -5283,8 +5226,7 @@
       "enclosure_length": "45059599",
       "itunes_duration": "31:17",
       "speakers": [
-        "Cahal Moran",
-        "Keir Starmer"
+        "Cahal Moran"
       ],
       "topics": [
         "round",
@@ -5326,9 +5268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72841821",
       "itunes_duration": "50:34",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "reaction"
       ]
@@ -5364,7 +5304,6 @@
       "enclosure_length": "51749877",
       "itunes_duration": "35:55",
       "speakers": [
-        "Nigel Farage",
         "Rupert Lowe"
       ],
       "topics": [
@@ -5453,7 +5392,6 @@
       "enclosure_length": "84330165",
       "itunes_duration": "58:33",
       "speakers": [
-        "Donald Trump",
         "Alexandra Haddow"
       ],
       "topics": [
@@ -5614,8 +5552,7 @@
       "enclosure_length": "53784297",
       "itunes_duration": "37:20",
       "speakers": [
-        "Sam Fender",
-        "Donald Trump"
+        "Sam Fender"
       ],
       "topics": [
         "macron",
@@ -5638,9 +5575,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "753870956",
       "itunes_duration": "32:43",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "nazis",
         "germany"
@@ -5678,8 +5613,7 @@
       "enclosure_length": "74238655",
       "itunes_duration": "51:32",
       "speakers": [
-        "Ash Sarkar",
-        "Keir Starmer"
+        "Ash Sarkar"
       ],
       "topics": [
         "sarkar"
@@ -5697,8 +5631,6 @@
       "enclosure_length": "914852884",
       "itunes_duration": "39:42",
       "speakers": [
-        "Nigel Farage",
-        "Donald Trump",
         "Jordan Peterson"
       ],
       "topics": [
@@ -5764,7 +5696,6 @@
       "enclosure_length": "68586357",
       "itunes_duration": "47:37",
       "speakers": [
-        "Keir Starmer",
         "JD Vance"
       ],
       "topics": [
@@ -5826,8 +5757,7 @@
       "enclosure_length": "63466843",
       "itunes_duration": "44:04",
       "speakers": [
-        "Kanye West",
-        "Keir Starmer"
+        "Kanye West"
       ],
       "topics": [
         "reaction",
@@ -5871,7 +5801,6 @@
       "enclosure_length": "51848828",
       "itunes_duration": "35:55",
       "speakers": [
-        "Donald Trump",
         "Robert Kaplan"
       ],
       "topics": [
@@ -5894,9 +5823,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30335798",
       "itunes_duration": "15:47",
-      "speakers": [
-        "Donald Trump"
-      ],
+      "speakers": [],
       "topics": [
         "ilan",
         "trump",
@@ -5917,9 +5844,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56153397",
       "itunes_duration": "38:59",
-      "speakers": [
-        "Donald Trump"
-      ],
+      "speakers": [],
       "topics": [
         "reaction",
         "donald",
@@ -5940,8 +5865,7 @@
       "enclosure_length": "96163509",
       "itunes_duration": "1:06:46",
       "speakers": [
-        "David Mitchell",
-        "Keir Starmer"
+        "David Mitchell"
       ],
       "topics": [
         "defence",
@@ -6114,9 +6038,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "531252404",
       "itunes_duration": "46:06",
-      "speakers": [
-        "Donald Trump"
-      ],
+      "speakers": [],
       "topics": [
         "american",
         "carnage"
@@ -6183,7 +6105,6 @@
       "enclosure_length": "75745433",
       "itunes_duration": "52:35",
       "speakers": [
-        "Keir Starmer",
         "Ava Santina",
         "Seán Hickey",
         "Laura Beveridge",
@@ -6212,7 +6133,6 @@
       "speakers": [
         "Tommy Robinson Ava",
         "Jack Symes",
-        "Elon Musk",
         "Tommy Robinson"
       ],
       "topics": [
@@ -6282,7 +6202,6 @@
       "enclosure_length": "92893529",
       "itunes_duration": "1:04:30",
       "speakers": [
-        "Elon Musk",
         "Tommy Robinson",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -6483,7 +6402,6 @@
       "enclosure_length": "70135777",
       "itunes_duration": "48:41",
       "speakers": [
-        "Nigel Farage",
         "Ava Santina",
         "Ed Campbell Producer",
         "Laura Beveridge Sting",
@@ -6595,7 +6513,6 @@
       "enclosure_length": "79878375",
       "itunes_duration": "55:27",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -6623,8 +6540,6 @@
       "enclosure_length": "74606689",
       "itunes_duration": "51:48",
       "speakers": [
-        "Joe Biden",
-        "Elon Musk",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -6695,7 +6610,6 @@
       "itunes_duration": "1:05:16",
       "speakers": [
         "Liz Kendall",
-        "Tony Blair",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -6768,7 +6682,6 @@
       "enclosure_length": "942945390",
       "itunes_duration": "40:55",
       "speakers": [
-        "Keir Starmer",
         "Farmer Harmer",
         "Dalai Lama"
       ],
@@ -6809,7 +6722,6 @@
       "enclosure_length": "93447641",
       "itunes_duration": "1:04:53",
       "speakers": [
-        "Keir Starmer",
         "Joe Rogan",
         "Oli Dugmore",
         "Ed Campbell Producer",
@@ -6855,10 +6767,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45442089",
       "itunes_duration": "31:33",
-      "speakers": [
-        "Keir Starmer",
-        "Donald Trump"
-      ],
+      "speakers": [],
       "topics": [
         "kemi",
         "badenoch",
@@ -7087,7 +6996,6 @@
       "itunes_duration": "48:02",
       "speakers": [
         "Alex Salmond",
-        "Keir Starmer",
         "Ava Santina",
         "Ed Campbell",
         "Laura Beveridge",
@@ -7306,8 +7214,7 @@
       "speakers": [
         "Barry Gardiner",
         "Tracy Brabin",
-        "Alastair Strathern",
-        "Keir Starmer"
+        "Alastair Strathern"
       ],
       "topics": [
         "keir",
@@ -7357,7 +7264,6 @@
       "enclosure_length": "30349176",
       "itunes_duration": "21:04",
       "speakers": [
-        "Keir Starmer",
         "Sue Gray",
         "Ava Santina",
         "Laura Beveridge Sting",
@@ -7441,7 +7347,6 @@
       "enclosure_length": "51768483",
       "itunes_duration": "35:56",
       "speakers": [
-        "Keir Starmer",
         "Ava Santina",
         "Ed Campbell Producer",
         "Laura Beveridge Sting",
@@ -7467,8 +7372,7 @@
       "enclosure_length": "45820582",
       "itunes_duration": "31:48",
       "speakers": [
-        "Carol Vorderman",
-        "Keir Starmer"
+        "Carol Vorderman"
       ],
       "topics": [
         "round",
@@ -7533,10 +7437,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71997440",
       "itunes_duration": "49:59",
-      "speakers": [
-        "Keir Starmer",
-        "Taylor Swift"
-      ],
+      "speakers": [],
       "topics": [
         "taylor",
         "version"
@@ -7554,11 +7455,9 @@
       "enclosure_length": "53578140",
       "itunes_duration": "37:12",
       "speakers": [
-        "Liz Truss",
         "Anthony Seldon Historian",
         "Anthony Seldon",
-        "Joe Towers",
-        "Keir Starmer"
+        "Joe Towers"
       ],
       "topics": [
         "round",
@@ -7606,7 +7505,6 @@
       "itunes_duration": "47:47",
       "speakers": [
         "Jeremy Corbyn",
-        "Keir Starmer",
         "Ava Santina",
         "Seán Hickey",
         "Laura Beveridge",
@@ -7632,8 +7530,7 @@
       "itunes_duration": "41:46",
       "speakers": [
         "Ben Riley-Smith",
-        "Joe Towers",
-        "Keir Starmer"
+        "Joe Towers"
       ],
       "topics": [
         "round",
@@ -7658,7 +7555,6 @@
       "itunes_duration": "57:58",
       "speakers": [
         "Richard Murphy",
-        "Keir Starmer",
         "Ava Santina",
         "Ed Campbell Producer",
         "Laura Beveridge Sting",
@@ -7682,7 +7578,6 @@
       "enclosure_length": "88092030",
       "itunes_duration": "1:01:10",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -7727,10 +7622,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93257014",
       "itunes_duration": "1:04:45",
-      "speakers": [
-        "Taylor Swift Welcome",
-        "Taylor Swift"
-      ],
+      "speakers": [],
       "topics": [
         "boyfriend",
         "taylor",
@@ -7777,8 +7669,7 @@
       "enclosure_length": "31701078",
       "itunes_duration": "22:00",
       "speakers": [
-        "Charlie Falconer",
-        "Tony Blair"
+        "Charlie Falconer"
       ],
       "topics": [
         "round",
@@ -7863,7 +7754,6 @@
       "enclosure_length": "104440056",
       "itunes_duration": "1:12:31",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Laura Beveridge",
         "Laura Beveridge Sting",
@@ -7985,7 +7875,6 @@
       "enclosure_length": "45266998",
       "itunes_duration": "31:25",
       "speakers": [
-        "Keir Starmer",
         "Ava Santina",
         "Ed Campbell Producer",
         "Laura Beveridge Sting",
@@ -8084,7 +7973,6 @@
       "enclosure_length": "57734524",
       "itunes_duration": "40:05",
       "speakers": [
-        "Donald Trump",
         "Ava Santina",
         "Ed Campbell Producer",
         "Laura Beveridge Sting",
@@ -8177,7 +8065,6 @@
       "enclosure_length": "47689078",
       "itunes_duration": "33:06",
       "speakers": [
-        "Boris Johnson",
         "Ava Santina",
         "Laura Beveridge",
         "Seán Hickey Producer",
@@ -8203,7 +8090,6 @@
       "itunes_duration": "27:55",
       "speakers": [
         "Producer Laura",
-        "Keir Starmer",
         "Ava Santina",
         "Laura Beveridge",
         "Seán Hickey Producer",
@@ -8354,7 +8240,6 @@
       "itunes_duration": "33:05",
       "speakers": [
         "Rishi Sunak",
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell",
@@ -8400,8 +8285,7 @@
       "speakers": [
         "Andrew Fisher",
         "Jeremy Corbyn",
-        "Joe Towers",
-        "Keir Starmer"
+        "Joe Towers"
       ],
       "topics": [
         "round",
@@ -8558,7 +8442,6 @@
       "enclosure_length": "80648964",
       "itunes_duration": "56:00",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Ed Campbell Producer",
         "Laura Beveridge Sting",
@@ -8756,7 +8639,6 @@
       "itunes_duration": "47:40",
       "speakers": [
         "Rishi Sunak",
-        "Keir Starmer",
         "Oli Dugmore",
         "Ed Campbell",
         "Ava Santina Producer",
@@ -8782,7 +8664,6 @@
       "enclosure_length": "52464119",
       "itunes_duration": "36:25",
       "speakers": [
-        "Nigel Farage",
         "Oli Dugmore",
         "Ava Santina Producer",
         "Laura Beveridge Sting",
@@ -8807,7 +8688,6 @@
       "enclosure_length": "67724661",
       "itunes_duration": "47:01",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina Producer",
         "Laura Beveridge Sting",
@@ -8831,9 +8711,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19638606",
       "itunes_duration": "13:37",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "trail",
@@ -9123,7 +9001,6 @@
       "enclosure_length": "71812555",
       "itunes_duration": "49:51",
       "speakers": [
-        "Keir Starmer",
         "George Monbiot"
       ],
       "topics": [
@@ -9146,7 +9023,6 @@
       "enclosure_length": "27619020",
       "itunes_duration": "19:10",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina Producer",
         "Laura Beveridge Sting",
@@ -9219,7 +9095,6 @@
       "enclosure_length": "83323911",
       "itunes_duration": "57:51",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -9318,8 +9193,7 @@
       "itunes_duration": "55:23",
       "speakers": [
         "Tom Baldwin",
-        "Marc Stears",
-        "Keir Starmer"
+        "Marc Stears"
       ],
       "topics": [
         "round",
@@ -9577,10 +9451,8 @@
       "enclosure_length": "71034171",
       "itunes_duration": "49:19",
       "speakers": [
-        "Liz Truss",
         "Josh Widdicombe",
         "Nish Kumar",
-        "David Cameron",
         "Ed Campbell",
         "Ava Santina Producer",
         "Laura Beveridge Sting",
@@ -9857,8 +9729,7 @@
       "itunes_duration": "56:29",
       "speakers": [
         "Judith Butler",
-        "Rishi Sunak",
-        "Keir Starmer"
+        "Rishi Sunak"
       ],
       "topics": [
         "round",
@@ -9899,7 +9770,6 @@
       "enclosure_length": "75482336",
       "itunes_duration": "52:24",
       "speakers": [
-        "Keir Starmer",
         "Andy Slaughter",
         "Oli Dugmore",
         "Ava Santina Producer",
@@ -10022,7 +9892,6 @@
       "itunes_duration": "29:59",
       "speakers": [
         "Andy Burnham",
-        "Keir Starmer",
         "Head North",
         "Steve Rotheram"
       ],
@@ -10071,7 +9940,6 @@
       "enclosure_length": "95514472",
       "itunes_duration": "1:06:19",
       "speakers": [
-        "Nigel Farage",
         "George Galloway",
         "Jeremy Corbyn",
         "Oli Dugmore",
@@ -10262,7 +10130,6 @@
       "enclosure_length": "130618214",
       "itunes_duration": "1:30:42",
       "speakers": [
-        "Keir Starmer",
         "Ben Zand",
         "Oli Dugmore",
         "Ava Santina",
@@ -10287,9 +10154,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78447330",
       "itunes_duration": "54:28",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "round",
         "yanis",
@@ -10409,7 +10274,6 @@
       "enclosure_length": "70064908",
       "itunes_duration": "48:39",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -10581,7 +10445,6 @@
       "enclosure_length": "116154856",
       "itunes_duration": "1:20:39",
       "speakers": [
-        "David Cameron",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -10676,7 +10539,6 @@
       "speakers": [
         "Chris Huhne",
         "Lib Dem",
-        "Rupert Murdoch",
         "BSkyB Ed"
       ],
       "topics": [
@@ -10885,7 +10747,6 @@
       "enclosure_length": "85356038",
       "itunes_duration": "59:16",
       "speakers": [
-        "Keir Starmer",
         "Margaret Thatcher",
         "Oli Dugmore",
         "Ava Santina",
@@ -11039,7 +10900,6 @@
       "enclosure_length": "76876852",
       "itunes_duration": "53:22",
       "speakers": [
-        "Nigel Farage",
         "Ava Santina",
         "Ed Campbell Producer",
         "Laura Beveridge Sting",
@@ -11138,7 +10998,6 @@
       "enclosure_length": "80766576",
       "itunes_duration": "56:04",
       "speakers": [
-        "David Cameron",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -11163,7 +11022,6 @@
       "enclosure_length": "37683362",
       "itunes_duration": "26:09",
       "speakers": [
-        "David Cameron",
         "Oli Dugmore",
         "Ava Santina Producer",
         "Laura Beveridge Sting",
@@ -11189,7 +11047,6 @@
       "enclosure_length": "87251660",
       "itunes_duration": "1:00:35",
       "speakers": [
-        "David Cameron",
         "Jeremy Corbyn",
         "Oli Dugmore",
         "Ava Santina",
@@ -11217,8 +11074,7 @@
       "enclosure_length": "44857452",
       "itunes_duration": "31:08",
       "speakers": [
-        "Jeremy Corbyn",
-        "Keir Starmer"
+        "Jeremy Corbyn"
       ],
       "topics": [
         "round",
@@ -11611,7 +11467,6 @@
       "enclosure_length": "80331585",
       "itunes_duration": "55:46",
       "speakers": [
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina Producer",
         "Laura Beveridge Sting",
@@ -12012,7 +11867,6 @@
       "enclosure_length": "92661506",
       "itunes_duration": "1:04:20",
       "speakers": [
-        "Keir Starmer",
         "Gillian Keegan",
         "Oli Dugmore",
         "Ava Santin",
@@ -12307,8 +12161,6 @@
       "itunes_duration": "38:44",
       "speakers": [
         "Charlotte Owen",
-        "Keir Starmer",
-        "Liz Truss",
         "Ed Campbell",
         "Ava Santina Producer",
         "Hickey Sting",
@@ -12457,7 +12309,6 @@
       "itunes_duration": "52:51",
       "speakers": [
         "Michael Gove",
-        "Keir Starmer",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -12482,7 +12333,6 @@
       "enclosure_length": "44906176",
       "itunes_duration": "31:10",
       "speakers": [
-        "Liz Truss",
         "Ed Campbell",
         "Quinn Slobodian"
       ],
@@ -12702,7 +12552,6 @@
       "itunes_duration": "43:47",
       "speakers": [
         "Lee Anderson",
-        "Nigel Farage",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -12850,7 +12699,6 @@
       "itunes_duration": "1:06:55",
       "speakers": [
         "Ed Campbell",
-        "David Cameron",
         "Seán Hickey Producer",
         "Laura Beveridge Sting",
         "Chris White",
@@ -12898,7 +12746,6 @@
       "enclosure_length": "71214085",
       "itunes_duration": "49:26",
       "speakers": [
-        "Boris Johnson",
         "Oli Dugmore",
         "Ava Santina",
         "Ed Campbell Producer",
@@ -13073,7 +12920,6 @@
         "Oli Dugmore",
         "Ed Campbell",
         "Ava Santina",
-        "Boris Johnson",
         "Suella Braverman",
         "Ava Santina Producer",
         "Laura Beveridge Sting",
@@ -13144,7 +12990,6 @@
       "speakers": [
         "Oli Dugmore",
         "Ed Campbell",
-        "Keir Starmer",
         "Ed Campbell Producer",
         "Laura Beveridge Sting",
         "Chris White",
@@ -13241,7 +13086,6 @@
       "enclosure_length": "50060108",
       "itunes_duration": "34:45",
       "speakers": [
-        "Keir Starmer",
         "Ed Campbell",
         "Ed Miliband",
         "Oli Dugmore",
@@ -13280,55 +13124,56 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — The Truth about Morgan McSweeney | Peter Oborne interview — speakers: Peter Oborne, Keir Starmer, Peter Mandelson
+- 2026-02-22 — Capitalism is a trap - and you can't get out | Clara Mattei interview — speakers: Clara Mattei
+- 2026-02-20 — The Truth about Morgan McSweeney | Peter Oborne interview — speakers: Peter Oborne, Peter Mandelson
 - 2026-02-19 — Will Rupert Lowe end Reform's surge? — speakers: Will Rupert Lowe end, Rupert Lowe
 - 2026-02-19 — Andrew Mountbatten-Windsor is arrested — speakers: Andrew Mountbatten-Windsor, Prince Andrew
-- 2026-02-18 — The Truth about Tony Blair | Michael Waldman interview — speakers: Tony Blair, Michael Waldman
-- 2026-02-17 — Starmer U-turns on cancelling local elections — speakers: Starmer U-turns, Keir Starmer
-- 2026-02-16 — Labour Together plot against journalists uncovered — speakers: Labour Together, Jim Ratcliffe, Keir Starmer
+- 2026-02-18 — The Truth about Tony Blair | Michael Waldman interview — speakers: Michael Waldman
+- 2026-02-17 — Starmer U-turns on cancelling local elections — speakers: Starmer U-turns
+- 2026-02-16 — Labour Together plot against journalists uncovered — speakers: Labour Together, Jim Ratcliffe
 - 2026-02-15 — How Britain has legalised elite crimes | Oliver Bullough interview — speakers: Oliver Bullough
 - 2026-02-13 — The Truth about Peter Mandelson | Jeremy Corbyn interview — speakers: Peter Mandelson, Jeremy Corbyn
 - 2026-02-12 — Will the Epstein files end the monarchy? — speakers: Graham Smith, Andrew Mountbatten-Windsor
-- 2026-02-11 — Fact checking Keir Starmer's bid to keep his job at PMQs — speakers: Keir Starmer
-- 2026-02-10 — Starmer safe, for now — speakers: Keir Starmer, Wes Streeting
+- 2026-02-11 — Fact checking Keir Starmer's bid to keep his job at PMQs
+- 2026-02-10 — Starmer safe, for now — speakers: Wes Streeting
 - 2026-02-09 — Morgan McSweeney resigns — speakers: Peter Mandelson
 - 2026-02-08 — The shady Silicon Valley giant taking over Britain | Carole Cadwalladr interview — speakers: Carole Cadwalladr, Peter Thiel, Thiel's Palantir
 - 2026-02-06 — What you don't know about the ceasefire in Gaza | Tess Ingram interview — speakers: Tess Ingram, Spokesperson Tess Ingram
-- 2026-02-04 — Fact checking Keir Starmer's defence of Peter Mandelson — speakers: Keir Starmer, Peter Mandelson, Andy Twelves
+- 2026-02-04 — Fact checking Keir Starmer's defence of Peter Mandelson — speakers: Peter Mandelson, Andy Twelves
 - 2026-02-03 — Going deep on the Mandelson Epstein connection — speakers: Peter Mandelson
 - 2026-02-02 — More Epstein files released — speakers: Andy Twelves, Jeffrey Epstein, Peter Mandelson, Prince Andrew
 - 2026-01-31 — What The Media Won't Tell You About Gaza | Dr Omar Abdel-Mannan interview — speakers: Omar Abdel-Mannan
-- 2026-01-30 — The Labour MP that stood up to Trump | Steve Witherden interview — speakers: Steve Witherden, Donald Trump
-- 2026-01-28 — Was this the worst PMQs ever? — speakers: Keir Starmer, David Lammy
+- 2026-01-30 — The Labour MP that stood up to Trump | Steve Witherden interview — speakers: Steve Witherden
+- 2026-01-28 — Was this the worst PMQs ever? — speakers: David Lammy
 - 2026-01-27 — Breaking down MAGA support for ICE, despite ANOTHER execution in Minneapolis | Scott Lucas interview — speakers: Scott Lucas, Alex Pretti
 - 2026-01-26 — Starmer's is a coward for blocking Andy Burnham | John McDonnell interview — speakers: Andy Burnham, John McDonnell
 - 2026-01-25 — How to beat the far-right at their own game | Anton Jäger interview — speakers: Anton Jäger, Buy Hyperpolitics
 - 2026-01-23 — Will this town decide the next election? — speakers: Tom Skinner
-- 2026-01-22 — What the media are missing in Trump's Greenland deal | Scott Lucas interview — speakers: Scott Lucas, Donald Trump
+- 2026-01-22 — What the media are missing in Trump's Greenland deal | Scott Lucas interview — speakers: Scott Lucas
 - 2026-01-21 — Starmer finally stands up to Trump on Greenland | PoliticsJOE reacts to PMQs
 - 2026-01-20 — The manosphere has completely lost it (with Andy Twelves) — speakers: Andy Twelves, Nick Fuentes, Andrew Tate
-- 2026-01-19 — Another Tory defection to Reform, and Trump threatens Greenland — speakers: Robert Jenrick, Donald Trump
-- 2026-01-18 — How Donald Trump is destroying the global economy | Ann Pettifor interview — speakers: Donald Trump, Ann Pettifor
+- 2026-01-19 — Another Tory defection to Reform, and Trump threatens Greenland — speakers: Robert Jenrick
+- 2026-01-18 — How Donald Trump is destroying the global economy | Ann Pettifor interview — speakers: Ann Pettifor
 - 2026-01-16 — Why you feel poorer (with Ipsos)
-- 2026-01-14 — Another u-turn from Starmer, and Reform defend Elon Musk to the hilt | PMQs analysis — speakers: Elon Musk
+- 2026-01-14 — Another u-turn from Starmer, and Reform defend Elon Musk to the hilt | PMQs analysis
 - 2026-01-13 — How to end the housing crisis (with Kwajo Tweneboa) — speakers: Kwajo Tweneboa
 - 2026-01-12 — Nadhim Zahawi defects to Reform — speakers: Nadhim Zahawi
-- 2026-01-11 — Trump has turned America into a mafia state | Scott Lucas interview — speakers: Scott Lucas, Donald Trump, Nicolás Maduro
+- 2026-01-11 — Trump has turned America into a mafia state | Scott Lucas interview — speakers: Scott Lucas, Nicolás Maduro
 - 2026-01-09 — Can Labour win back the working class? — speakers: Andy Twelves
 - 2026-01-08 — PoliticsJOE predicts 2026
-- 2026-01-07 — Boots on the ground in Ukraine? PMQs reaction — speakers: Keir Starmer
+- 2026-01-07 — Boots on the ground in Ukraine? PMQs reaction
 - 2026-01-06 — Trump invades Venezuela — speakers: Venezuela Happy
 - 2025-12-19 — Labour Minister slates Tories for failing grooming gang victims | Josh MacAlister interview — speakers: Josh MacAlister
-- 2025-12-18 — Ian Hislop reviews the chaos of 2025 — speakers: Ian Hislop, Zack Polanski, Jeffrey Epstein, Peter Mandelson, Donald Trump, Jeremy Corbyn, Zarah Sultana
-- 2025-12-17 — Pressure piles on Starmer as strikes go ahead | PoliticsJOE reacts to PMQs — speakers: Keir Starmer
-- 2025-12-16 — Reacting to Keir Starmer at the Liaison Committee — speakers: Keir Starmer
+- 2025-12-18 — Ian Hislop reviews the chaos of 2025 — speakers: Ian Hislop, Zack Polanski, Jeffrey Epstein, Peter Mandelson, Jeremy Corbyn, Zarah Sultana
+- 2025-12-17 — Pressure piles on Starmer as strikes go ahead | PoliticsJOE reacts to PMQs
+- 2025-12-16 — Reacting to Keir Starmer at the Liaison Committee
 - 2025-12-15 — Is Bonnie Blue Reform's next MP? — speakers: Bonnie Blue
 - 2025-12-11 — Rayner v Streeting: The fight to oust Starmer — speakers: Angela Rayner, Wes Streeting
 - 2025-12-10 — PMQs reaction — speakers: Rachael Maskell, Ed Davey, Sojan Joseph
 - 2025-12-09 — Going deep on the new nationalised trains — speakers: John Elledge
 - 2025-12-08 — What I didn't get to say on the BBC — speakers: Laura Kuenssberg
 - 2025-12-04 — Answering your questions about Your Party conference — speakers: PoliticsJOE Subscribe
-- 2025-12-03 — OBR fallout and scrapping jury trials | PoliticsJOE reacts to PMQs — speakers: Keir Starmer, Grace Blakeley, Clive Lewis
+- 2025-12-03 — OBR fallout and scrapping jury trials | PoliticsJOE reacts to PMQs — speakers: Grace Blakeley, Clive Lewis
 - 2025-12-02 — A budget for Nick, 30 ans — speakers: Rachel Reeves, Paul Collier
 - 2025-12-01 — Your Party conference recap, from the train to London
 - 2025-11-30 — We have become slaves to Silicon Valley | Cory Doctorow interview — speakers: Cory Doctorow
@@ -13341,26 +13186,26 @@
 - 2025-11-22 — Bob Vylan on his Glastonbury set, the rise of the far-right, and Palestine — speakers: Bob Vylan
 - 2025-11-20 — Lisa Nandy: How Labour can solve the men's mental health crisis — speakers: Lisa Nandy, Sport Lisa Nandy
 - 2025-11-19 — PMQs reaction (with Noah of Northstar Politics)
-- 2025-11-17 — Labour move even FURTHER right on asylum seekers — speakers: Donald Trump, Bill Clinton
+- 2025-11-17 — Labour move even FURTHER right on asylum seekers — speakers: Bill Clinton
 - 2025-11-16 — How to save Your Party from itself | Oliver Eagleton interview — speakers: Oliver Eagleton
 - 2025-11-13 — How cost of living could break Labour (with Sam Alvis of the IPPR) — speakers: Sam Alvis
 - 2025-11-12 — PMQs live reaction — speakers: Hear Ava
 - 2025-11-11 — Can a mental health strategy fix Britain? (with Professor Green) — speakers: Stephen Manderson
-- 2025-11-10 — Is the BBC finished? — speakers: Tim Davie, Donald Trump
-- 2025-11-07 — Ed Miliband on Climate Change, Nigel Farage, and the future of Britain — speakers: Nigel Farage, Ed Miliband
-- 2025-11-05 — Deputy PMQs live reaction — speakers: Keir Starmer, David Lammy, James Cartlidge
+- 2025-11-10 — Is the BBC finished? — speakers: Tim Davie
+- 2025-11-07 — Ed Miliband on Climate Change, Nigel Farage, and the future of Britain — speakers: Ed Miliband
+- 2025-11-05 — Deputy PMQs live reaction — speakers: David Lammy, James Cartlidge
 - 2025-11-04 — Rachel Reeves doesn't rule out tax hikes — speakers: Rachel Reeves
 - 2025-11-03 — Andrew Mountbatten Windsor loses his titles — speakers: Andrew Mountbatten Windsor
 - 2025-11-02 — How Britain became complicit in Israel's destruction of Gaza | Peter Oborne interview — speakers: Peter Oborne, complicit Subscribe
 - 2025-10-31 — EXPLAINED: What's going on with Your Party? — speakers: Jeremy Corbyn, Zarah Sultana
-- 2025-10-30 — Rachel Reeves' housing scandal — speakers: Rachel Reeves, Keir Starmer
-- 2025-10-29 — PMQs live reaction — speakers: Keir Starmer
+- 2025-10-30 — Rachel Reeves' housing scandal — speakers: Rachel Reeves
+- 2025-10-29 — PMQs live reaction
 - 2025-10-28 — Going deep on the Zarah Sultana interview — speakers: Zarah Sultana
 - 2025-10-27 — Is the Left back? — speakers: Zohran Mamdani
 - 2025-10-26 — British politics is about to change forever. This is how | Zarah Sultana interview — speakers: Zarah Sultana
 - 2025-10-23 — The crisis of performative males
-- 2025-10-21 — Why Labour's comms aren't working — speakers: Keir Starmer
-- 2025-10-20 — Maccabi Tel Aviv and Prince Andrew gives up titles — speakers: Maccabi Tel Aviv, Prince Andrew, Aston Villa, Virginia Giuffre, Keir Starmer
+- 2025-10-21 — Why Labour's comms aren't working
+- 2025-10-20 — Maccabi Tel Aviv and Prince Andrew gives up titles — speakers: Maccabi Tel Aviv, Prince Andrew, Aston Villa, Virginia Giuffre
 - 2025-10-19 — How politicians destroyed the working class | Darren McGarvey interview — speakers: Darren McGarvey
 - 2025-10-18 — How I conquered the manosphere (as an Onlyfans model) | Farha Khalidi interview — speakers: Farha Khalidi
 - 2025-10-17 — Yo-Yo homes: The Thatcherite invention that ruined the housing market — speakers: Greg Barradale
@@ -13374,23 +13219,23 @@
 - 2025-10-06 — Tory conference and the Palestine Action protest
 - 2025-10-04 — Reflecting on the Manchester synagogue terror attack (with Na'amod)
 - 2025-10-02 — EXPLAINED: Manchester synagogue attack
-- 2025-10-01 — Did Keir Starmer save his job with his Conference speech? — speakers: Keir Starmer
-- 2025-09-30 — Reacting to Keir Starmer's conference speech — speakers: Keir Starmer, Dawn Butler, Henry Tufnell, Pat McFadden
+- 2025-10-01 — Did Keir Starmer save his job with his Conference speech?
+- 2025-09-30 — Reacting to Keir Starmer's conference speech — speakers: Dawn Butler, Henry Tufnell, Pat McFadden
 - 2025-09-29 — Behind the scenes at Labour conference
 - 2025-09-27 — Israel deported me to hide their crimes | Labour MP interview — speakers: Simon Opher
 - 2025-09-26 — Why is the British state coming for Kneecap? — speakers: Seán Finch
-- 2025-09-24 — Trump thinks London is under Sharia Law — speakers: Donald Trump, Ed Davey
-- 2025-09-23 — Trump's bizarre autism announcement — speakers: Donald Trump
+- 2025-09-24 — Trump thinks London is under Sharia Law — speakers: Ed Davey
+- 2025-09-23 — Trump's bizarre autism announcement
 - 2025-09-22 — What's going on with Your Party? — speakers: Zarah Sultana
 - 2025-09-20 — The far-right CAN be stopped. This is how | Nick Lowles interview — speakers: Nick Lowles
 - 2025-09-19 — EXPLAINED: Why are so many Tories defecting to Reform? — speakers: Danny Kruger
 - 2025-09-18 — Jimmy Kimmel taken off air over Charlie Kirk comments — speakers: Jimmy Kimmel, Charlie Kirk
-- 2025-09-17 — Ed Davey: Why I'm boycotting Trump's visit — speakers: King Charles
+- 2025-09-17 — Ed Davey: Why I'm boycotting Trump's visit
 - 2025-09-16 — Can Andy Burnham dethrone Starmer? — speakers: Andy Burnham, Paul Ovenden, Dianne Abbott, Danny Kruger
 - 2025-09-15 — Tommy Robinson's rally and Starmer's Epstein problem — speakers: Tommy Robinson, Peter Kyle, Peter Mandelson
 - 2025-09-13 — Mick Lynch and Eddie Dempsey on the rise of Reform and Labour's lurch to the right — speakers: Mick Lynch, Eddie Dempsey
 - 2025-09-12 — EXPLAINED: Jeffrey Espstein's "best pal" sacked — speakers: Jeffrey Espstein, Peter Mandelson
-- 2025-09-10 — PMQs LIVE with Zack Polanski — speakers: Zack Polanski, Keir Starmer, Peter Mandelson, Jeffrey Epstein
+- 2025-09-10 — PMQs LIVE with Zack Polanski — speakers: Zack Polanski, Peter Mandelson, Jeffrey Epstein
 - 2025-09-09 — Why you should back the RMT strike
 - 2025-09-08 — EXPLAINED: How the Labour leadership contest works — speakers: Rebuild Britain
 - 2025-09-06 — Yuval Noah Harari on Israel, AI, and the future of humanity — speakers: Yuval Noah Harari
@@ -13401,14 +13246,14 @@
 - 2025-09-01 — Silicon Valley is taking over Britain (Dudes Rock)
 - 2025-08-29 — Britain is becoming a pariah state | Sacha Deshmukh interview — speakers: Sacha Deshmukh, Chief Executive, Urgent Action
 - 2025-08-28 — Are the Libs losing the podcast war? — speakers: Adam Friedland, Ritchie Torres
-- 2025-08-27 — Reform want a deal with the Taliban — speakers: Taylor Swift
+- 2025-08-27 — Reform want a deal with the Taliban
 - 2025-08-26 — Is the St. George's Cross racist?
 - 2025-08-23 — I am witnessing a man-made famine in Gaza. Israel must be stopped — speakers: Tess Ingram, Gaza City, Rebuild Britain
 - 2025-08-21 — Why the Epping hotel anger is misplaced (with Jovan Owusu-Nepaul) — speakers: Jovan Owusu-Nepaul
 - 2025-08-20 — Epping hotel blocked from housing asylum seekers
 - 2025-08-19 — Zelenskyy's Conversations with Friends — speakers: Sally Rooney
 - 2025-08-18 — Trump and Zelenskyy Showdown — speakers: Zelenskyy Showdown
-- 2025-08-16 — Holocaust survivor destroys Israel and Keir Starmer — speakers: Keir Starmer, Stephen Kapos
+- 2025-08-16 — Holocaust survivor destroys Israel and Keir Starmer — speakers: Stephen Kapos
 - 2025-08-13 — My family is trapped in Gaza. Israel must be stopped | Humza Yousaf interview — speakers: Humza Yousaf
 - 2025-08-12 — The truth about asylum hotel protests
 - 2025-08-11 — Journalists murdered by Israel
@@ -13421,17 +13266,17 @@
 - 2025-08-04 — Are digital IDs coming? — speakers: Bonnie Blue
 - 2025-08-01 — Reform humiliate Labour on draconian free speech crackdown — speakers: Zia Yusuf
 - 2025-07-31 — PolJOE v Next Gen Tories — speakers: Tom Tugendhat MP, James Cowling
-- 2025-07-30 — Peter Kyle says Nigel Farage is on Savile's side — speakers: Peter Kyle, Nigel Farage, Jimmy Savile
-- 2025-07-29 — Donald Trump has a change of heart on Palestine — speakers: Donald Trump, Ursula Von Der Leyen, Keir Starmer, Jeffrey Epstein
+- 2025-07-30 — Peter Kyle says Nigel Farage is on Savile's side — speakers: Peter Kyle, Jimmy Savile
+- 2025-07-29 — Donald Trump has a change of heart on Palestine — speakers: Ursula Von Der Leyen, Jeffrey Epstein
 - 2025-07-28 — Going deep on the Online Safety Act — speakers: Online Safety Act, Rebuild Britain
-- 2025-07-26 — Inside the dark world of Elon Musk's empire | Sönke Iwersen interview — speakers: Elon Musk, Sönke Iwersen, Handelsblatt Sönke Iwersen, Joe Towers, Michael Verfürden
+- 2025-07-26 — Inside the dark world of Elon Musk's empire | Sönke Iwersen interview — speakers: Sönke Iwersen, Handelsblatt Sönke Iwersen, Joe Towers, Michael Verfürden
 - 2025-07-24 — Why are men so bloody lonely? (with polling expert)
-- 2025-07-23 — Tory reshuffle and the Epstein files — speakers: Donald Trump
+- 2025-07-23 — Tory reshuffle and the Epstein files
 - 2025-07-22 — Who will 16 year olds vote for? — speakers: Common Luke Tryl
 - 2025-07-21 — Starmer's Labour: No place for Diane Abbott — speakers: Diane Abbott Oli, Diane Abbott
 - 2025-07-18 — I worked in a SEND school. This is what it's like | Jack Beaumont — speakers: Jack Beaumont Oli, Jack Beaumont
 - 2025-07-17 — Are steroids ruining young men? — speakers: Tom Usher
-- 2025-07-16 — EMERGENCY POD: Keir Starmer's shock purge of leftwing Labour MPs — speakers: Keir Starmer
+- 2025-07-16 — EMERGENCY POD: Keir Starmer's shock purge of leftwing Labour MPs
 - 2025-07-16 — Last PMQs reaction of the season
 - 2025-07-15 — Make officials lying illegal | Ian Byrne interview — speakers: Ian Byrne
 - 2025-07-14 — Ban the Royals from Wimbledon, and is Reform lying? — speakers: Ava talk Wimbledon, Donald Tusk, Ed Miliband
@@ -13446,13 +13291,13 @@
 - 2025-07-01 — Will Keir Starmer get to punish the disabled? Will the Labour party stop him? — speakers: Bob Vylan
 - 2025-06-30 — Are Bob Vylan the next KNEECAP? — speakers: Bob Vylan
 - 2025-06-28 — Another round: Neoliberalism is under threat with the IEA's Chris Snowden — speakers: Chris Snowden
-- 2025-06-27 — Who is really running the Labour party? Anushka Asthana interview — speakers: Anushka Asthana, Keir Starmer
+- 2025-06-27 — Who is really running the Labour party? Anushka Asthana interview — speakers: Anushka Asthana
 - 2025-06-26 — Welfare Cuts and Pride as protest — speakers: Welfare Cuts, Today Ava, Rebuild Britain
 - 2025-06-25 — PMQs with Vittorio Angelone — speakers: Vittorio Angelone
 - 2025-06-24 — What we saw at the Palestine Action protest
 - 2025-06-23 — Are we doing Iraq 2.0?
 - 2025-06-21 — Another round: How Trump destroyed his own legacy — speakers: Michael Lewis
-- 2025-06-20 — Why there are no "geniuses" anymore — speakers: Helen Lewis, Elon Musk
+- 2025-06-20 — Why there are no "geniuses" anymore — speakers: Helen Lewis
 - 2025-06-19 — What we saw at the terrorism trial of KNEECAP — speakers: com PoliticsJOE
 - 2025-06-18 — Big Ange and Philpch have it off at PMQs — speakers: Robert Jenrick, com PoliticsJOE
 - 2025-06-17 — What’s controversial about the mass rape of children? — speakers: Yvette Cooper, com PoliticsJOE
@@ -13461,7 +13306,7 @@
 - 2025-06-13 — Does Britain have a "fentanyl" crisis? — speakers: Jacob Furedi
 - 2025-06-12 — Some thoughts on Rachel Reeves' spending review — speakers: Rachel Reeves, Oli Dugmore
 - 2025-06-11 — Going deep on the Ballymena riots
-- 2025-06-10 — Why I confronted Nigel Farage on Reform's tax plans — speakers: Nigel Farage, Zia Yusuf
+- 2025-06-10 — Why I confronted Nigel Farage on Reform's tax plans — speakers: Zia Yusuf
 - 2025-06-10 — Why we should nationalise everything with Mathew Lawrence — speakers: Mathew Lawrence Mathew Lawrence, Common Wealth
 - 2025-06-09 — Emergency Pod: Labour U-turn on Winter Fuel — speakers: Labour U-turn
 - 2025-06-09 — Riots in LA, our cancellation, and Zia Yusuf's return — speakers: Zia Yusuf
@@ -13472,31 +13317,31 @@
 - 2025-06-04 — PMQs reaction: Badenoch's best?
 - 2025-06-03 — Reacting to Bobby J and Ava's interview with DWP Secretary — speakers: Robert Jenrick, Liz Kendall
 - 2025-06-02 — Debriefing the Bernie Interview — speakers: Bernie Sanders
-- 2025-05-31 — Another Round: Bernie Sanders on how to beat the billionaires — speakers: Bernie Sanders, Alexandria Ocasio-Cortez, Donald Trump
+- 2025-05-31 — Another Round: Bernie Sanders on how to beat the billionaires — speakers: Bernie Sanders, Alexandria Ocasio-Cortez
 - 2025-05-30 — What I didn't get to say on Question Time — speakers: Question Time Ava, Question Time, Rebuild Britain
 - 2025-05-29 — A deep dive into online relationships with Ipsos — speakers: Kieran Pedley
 - 2025-05-28 — Does Lucy Connolly belong in prison? — speakers: Lucy Connolly, Tommy Robinson
 - 2025-05-24 — Another Round: Feminism vs the Algorithm — speakers: Laura Bates
 - 2025-05-23 — Labour MP on why Starmer shouldn't cut welfare — speakers: Neil Duncan-Jordan
 - 2025-05-22 — Kneecap member charged with terror offence, and Labour want to castrate nonces
-- 2025-05-21 — PMQs analysis — speakers: Keir Starmer
+- 2025-05-21 — PMQs analysis
 - 2025-05-20 — Virgin Island's therapists on radical sex therapy — speakers: Virgin Island, Rebuild Britain
 - 2025-05-19 — Gary Lineker and Ed's Tales from the Country — speakers: Gary Lineker
 - 2025-05-16 — How to fix the UK's broken planning system with Labour's Chris Hinchliff — speakers: Chris Hinchliff, Joe Towers
 - 2025-05-15 — Talking Assisted Dying with Gay Star News
-- 2025-05-14 — PMQs Analysis with Paul Chowdhry — speakers: Paul Chowdhry, Keir Starmer
+- 2025-05-14 — PMQs Analysis with Paul Chowdhry — speakers: Paul Chowdhry
 - 2025-05-13 — Is Labour invoking the language of Enoch Powell? — speakers: Enoch Powell
-- 2025-05-12 — Keir Starmer goes Tory on immigration — speakers: Keir Starmer
-- 2025-05-12 — EXPLAINED: Keir Starmer's pivot to the right on immigration — speakers: Keir Starmer
+- 2025-05-12 — Keir Starmer goes Tory on immigration
+- 2025-05-12 — EXPLAINED: Keir Starmer's pivot to the right on immigration
 - 2025-05-11 — Another Round: Why the right abandoned neoliberalism with Quinn Slobodian — speakers: Quinn Slobodian
 - 2025-05-09 — Has Brexit hurt UK Music? — speakers: Luke Pritchard
-- 2025-05-07 — PMQs reaction: Starmer needs to be more Australian — speakers: Keir Starmer
+- 2025-05-07 — PMQs reaction: Starmer needs to be more Australian
 - 2025-05-06 — Reform versus the Greens: A New Era of British Politics?
 - 2025-05-05 — How to beat Reform at their own game (with Zack Polanski) — speakers: Zack Polanski
 - 2025-05-04 — Undercover with Britain's neofascists — speakers: Harry Shukman
 - 2025-05-02 — Analysis: Reform's Local Election surge — speakers: Local Election, After Labour, Greater Lincolnshire
 - 2025-05-01 — PoliticsJOE reacts to Louis Theroux's The Settlers — speakers: Louis Theroux
-- 2025-04-30 — PMQs analysis: Keir Starmer wants to make fun illegal — speakers: Keir Starmer
+- 2025-04-30 — PMQs analysis: Keir Starmer wants to make fun illegal
 - 2025-04-29 — Are Reform about to gain 1000 councillors? — speakers: Rebuild Britain
 - 2025-04-28 — Have Kneecap broken terrorism laws? — speakers: Sharon Osborne
 - 2025-04-23 — PMQs analysis, and the story of Rosie Duffield — speakers: Rosie Duffield
@@ -13510,37 +13355,37 @@
 - 2025-04-12 — Another round: Yanis Varoufakis on the tariff war
 - 2025-04-11 — Report: The end of British steel? — speakers: Oli Johnson Subscribe
 - 2025-04-10 — Is Starmer about to destroy British industry?
-- 2025-04-09 — Labour are in deep trouble, and Farage's deepening MAGA link — speakers: Nigel Farage
+- 2025-04-09 — Labour are in deep trouble, and Farage's deepening MAGA link
 - 2025-04-08 — Trump picks a fight with China, and bankers are panicking
-- 2025-04-07 — Donald Trump is destroying the global economy — speakers: Donald Trump
+- 2025-04-07 — Donald Trump is destroying the global economy
 - 2025-04-05 — Another round: How to spot an incel (with Meadhbh Park)
 - 2025-04-04 — Renters' rights deep dive with Alex Sobel MP — speakers: Alex Sobel
 - 2025-04-03 — Living in an abandoned hospital to escape the housing crisis — speakers: Laura Beveridge, Szofia Rozsa
-- 2025-04-02 — PMQs analysis with Horatio Gould — speakers: Horatio Gould, Keir Starmer
-- 2025-04-01 — Why are Labour making kids watch Adolescence? With Tom Usher — speakers: Tom Usher, Keir Starmer
+- 2025-04-02 — PMQs analysis with Horatio Gould — speakers: Horatio Gould
+- 2025-04-01 — Why are Labour making kids watch Adolescence? With Tom Usher — speakers: Tom Usher
 - 2025-03-31 — The Horrors of Renting with Róisín Lanigan — speakers: Róisín Lanigan, Ava Santina
 - 2025-03-29 — Another round: Nationalise water or we're doomed (with Feargal Sharkey) — speakers: Feargal Sharkey, Megan Trump, Ava Santina
 - 2025-03-28 — Another round: Judith Butler on masculinity and Trump — speakers: Judith Butler
 - 2025-03-28 — This is how America runs Britain (with Angus Hanton) — speakers: Angus Hanton, Joe Towers
-- 2025-03-27 — Divina De Campo: We didn't vote for neoliberalism — speakers: Divina De Campo, Donald Trump
+- 2025-03-27 — Divina De Campo: We didn't vote for neoliberalism — speakers: Divina De Campo
 - 2025-03-26 — Spring Statement reaction — speakers: Rachel Reeves
 - 2025-03-25 — Another Round: How The Hell Do You Buy A House in 2025? — speakers: Ed Campbell, Brian Byrnes
-- 2025-03-24 — Is Keir Starmer bad? Dudes rock with Fin Taylor — speakers: Keir Starmer, Fin Taylor
+- 2025-03-24 — Is Keir Starmer bad? Dudes rock with Fin Taylor — speakers: Fin Taylor
 - 2025-03-22 — Another Round: The "Israel exception" to human rights — speakers: Another Round, Human Rights Watch
 - 2025-03-21 — Do young men hate democracy? | Alex Mahon interview — speakers: Alex Mahon, Joe Towers
 - 2025-03-20 — Going deep on Adolescence — speakers: Stephen Graham
 - 2025-03-19 — PMQs reaction and Gareth Southgate's speech on young men — speakers: Gareth Southgate
-- 2025-03-18 — Conor McGregor's embarrassing White House appearance, and Labour's threat to benefits — speakers: Donald Trump, Liz Kendall
+- 2025-03-18 — Conor McGregor's embarrassing White House appearance, and Labour's threat to benefits — speakers: Liz Kendall
 - 2025-03-17 — Trump dials up Canada trade war, and Starmer's flip flopping on cutting benefits — speakers: Mark Carney
-- 2025-03-15 — Another round: Economist explains Starmer's austerity — speakers: Cahal Moran, Keir Starmer
+- 2025-03-15 — Another round: Economist explains Starmer's austerity — speakers: Cahal Moran
 - 2025-03-14 — Economist spells out why Britain needs benefits | Emma Holten interview — speakers: Emma Holten
-- 2025-03-12 — PMQs reaction — speakers: Keir Starmer
+- 2025-03-12 — PMQs reaction
 - 2025-03-11 — Is Starmer about to lose a Labour safe seat? — speakers: Mike Amesbury
-- 2025-03-10 — Explained: Nigel Farage's Reform meltdown — speakers: Nigel Farage, Rupert Lowe
+- 2025-03-10 — Explained: Nigel Farage's Reform meltdown — speakers: Rupert Lowe
 - 2025-03-08 — Another round: Why the West is apathetic to Gaza's destruction — speakers: Omar El Akkad
 - 2025-03-07 — The shocking truth about weight-loss drugs — speakers: Ellie Flynn, Skinny Jab Scandal
 - 2025-03-06 — EXPLAINED: The Employment Right Bill with Labour's Andy McDonald — speakers: Andy McDonald
-- 2025-03-05 — PoliticsJOE reacts to PMQs and Donald Trump's Congress address (with Alexandra Haddow) — speakers: Donald Trump, Alexandra Haddow
+- 2025-03-05 — PoliticsJOE reacts to PMQs and Donald Trump's Congress address (with Alexandra Haddow) — speakers: Alexandra Haddow
 - 2025-03-04 — Reacting to JD Vance's insane FOX interview — speakers: JD Vance
 - 2025-03-03 — PoliticsJOE react to Trump going mental at Zelenskyy
 - 2025-03-01 — Another Round: Why the right wins elections — speakers: Michael Chessum
@@ -13548,22 +13393,22 @@
 - 2025-02-27 — The Tates escape Romania, and will Labour lose a seat to Reform? — speakers: Tristan Tate, Mike Amesbury
 - 2025-02-26 — PMQs reaction with Milo Edwards — speakers: Milo Edwards
 - 2025-02-25 — Starmer cuts foreign aid
-- 2025-02-25 — Macron schools Trump on Ukraine, and Sam Fender talks about working-class men — speakers: Sam Fender, Donald Trump
-- 2025-02-24 — Are the Nazis back in Germany? — speakers: Keir Starmer
+- 2025-02-25 — Macron schools Trump on Ukraine, and Sam Fender talks about working-class men — speakers: Sam Fender
+- 2025-02-24 — Are the Nazis back in Germany?
 - 2025-02-22 — Another round: How the far-right are taking over German politics — speakers: George Hancorn
-- 2025-02-21 — The Ash Sarkar interview: Why woke is dead — speakers: Ash Sarkar, Keir Starmer
-- 2025-02-20 — Trump doubles down on Ukraine, and Nigel Farage meets the doctor — speakers: Nigel Farage, Donald Trump, Jordan Peterson
+- 2025-02-21 — The Ash Sarkar interview: Why woke is dead — speakers: Ash Sarkar
+- 2025-02-20 — Trump doubles down on Ukraine, and Nigel Farage meets the doctor — speakers: Jordan Peterson
 - 2025-02-19 — Is Rishi Sunak British? — speakers: Rishi Sunak British, Fraser Nelson, Konstantin Kisin, Rishi Sunak
 - 2025-02-18 — Trump's plan to colonise Ukraine and hand Donbas to Putin
-- 2025-02-17 — Keir Starmer wants to send you to Ukraine, and JD Vance scolds Europe — speakers: Keir Starmer, JD Vance
+- 2025-02-17 — Keir Starmer wants to send you to Ukraine, and JD Vance scolds Europe — speakers: JD Vance
 - 2025-02-15 — Another round: Who really runs the Labour Party? — speakers: Gabriel Pogrund, Patrick Maguire
 - 2025-02-14 — Can British pubs survive the economy? — speakers: Jeevun Sandher
-- 2025-02-12 — PMQs reaction (and Kanye West's fall off) — speakers: Kanye West, Keir Starmer
+- 2025-02-12 — PMQs reaction (and Kanye West's fall off) — speakers: Kanye West
 - 2025-02-11 — The funeral of Drake and Labour's WhatsApp problem — speakers: Kendrick Lamar, Andrew Gwynne
-- 2025-02-08 — Another Round: Donald Trump and the end of US hegemony with Robert Kaplan — speakers: Donald Trump, Robert Kaplan
-- 2025-02-05 — Ilan Pappé interview: What Trump's claim on Gaza means for Palestine's future — speakers: Donald Trump
-- 2025-02-05 — PMQs reaction, and Donald Trump's batshit Gaza comments — speakers: Donald Trump
-- 2025-02-03 — In defence of David Mitchell — speakers: David Mitchell, Keir Starmer
+- 2025-02-08 — Another Round: Donald Trump and the end of US hegemony with Robert Kaplan — speakers: Robert Kaplan
+- 2025-02-05 — Ilan Pappé interview: What Trump's claim on Gaza means for Palestine's future
+- 2025-02-05 — PMQs reaction, and Donald Trump's batshit Gaza comments
+- 2025-02-03 — In defence of David Mitchell — speakers: David Mitchell
 - 2025-02-01 — Another round: Economist spells out why stopping immigration won't save the economy — speakers: Gary Stevenson, Rachel Reeves
 - 2025-01-30 — Deeping men's mental health — speakers: Jacob Hawley, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks Subscribe
 - 2025-01-29 — PMQs (with Screen Rot's Jacob Hawley) — speakers: Jacob Hawley, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks Subscribe
@@ -13571,14 +13416,14 @@
 - 2025-01-25 — Inside the UK's only porn star university
 - 2025-01-24 — On Southport — speakers: Axel Rudakubana, Ava Santina, Ed Campbell, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
 - 2025-01-22 — PMQs reaction — speakers: Rebuild Britain
-- 2025-01-21 — American Carnage II — speakers: Donald Trump
+- 2025-01-21 — American Carnage II
 - 2025-01-18 — Another Round: Economist deconstructs Reeves' economic strategy — speakers: Richard Murphy
 - 2025-01-15 — PMQs (and Mon Cheri Gerry Adams) — speakers: Gerry Adams, Naomi Smith, Ava Santina, Ed Campbell, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks
-- 2025-01-13 — Can Starmer's AI plan save the economy? — speakers: Keir Starmer, Ava Santina, Seán Hickey, Laura Beveridge, Clark Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks
-- 2025-01-11 — Another round: Philosopher deconstructs Tommy Robinson — speakers: Tommy Robinson Ava, Jack Symes, Elon Musk, Tommy Robinson
+- 2025-01-13 — Can Starmer's AI plan save the economy? — speakers: Ava Santina, Seán Hickey, Laura Beveridge, Clark Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks
+- 2025-01-11 — Another round: Philosopher deconstructs Tommy Robinson — speakers: Tommy Robinson Ava, Jack Symes, Tommy Robinson
 - 2025-01-08 — PMQs analysis — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
 - 2025-01-08 — Is Reform UK a credible threat? — speakers: Ava Santina, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
-- 2025-01-06 — On grooming gangs. — speakers: Elon Musk, Tommy Robinson, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
+- 2025-01-06 — On grooming gangs. — speakers: Tommy Robinson, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
 - 2025-01-04 — Another round: Experts on Palestine in 2024 — speakers: Norman Finkelstein, Judith Butler Subscribe
 - 2024-12-31 — 2024 in review — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks Subscribe
 - 2024-12-30 — Lewis Goodall unpacks the madness of 2024 — speakers: Lewis Goodall
@@ -13587,23 +13432,23 @@
 - 2024-12-23 — The future of Britain's post-industrial towns — speakers: Ava Santina, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks Subscribe
 - 2024-12-21 — Another Round: The hypocrisy of consumer capitalism
 - 2024-12-18 — PMQs (and if Starmer needs to befriend Musk) — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White
-- 2024-12-16 — Nigel Farage could be the next Prime Minister (and Royal Mail is over) — speakers: Nigel Farage, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks Subscribe
+- 2024-12-16 — Nigel Farage could be the next Prime Minister (and Royal Mail is over) — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks Subscribe
 - 2024-12-14 — Another Round: How the Treasury keeps you poor — speakers: Another Round, Paul Collier
 - 2024-12-11 — PMQs analysis and the attack on cousin love
 - 2024-12-09 — Reading United Healthcare CEO shooter fanfiction — speakers: Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson, Seán Hickey Subscribe
 - 2024-12-07 — Another round: Being stalked showed me the law needs to change — speakers: Nicola Thorp
-- 2024-12-04 — PMQs analysis (feat. Nicola Thorp) — speakers: Keir Starmer, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson
-- 2024-12-02 — Joe Biden: Dad of the Year — speakers: Joe Biden, Elon Musk, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks
+- 2024-12-04 — PMQs analysis (feat. Nicola Thorp) — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson
+- 2024-12-02 — Joe Biden: Dad of the Year — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks
 - 2024-11-30 — Another round: Ian Hislop reviews 2024 — speakers: Ian Hislop
 - 2024-11-27 — PMQs analysis (and Cooking with Gerry Adams) — speakers: Gerry Adams, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks
-- 2024-11-25 — Is New Labour back? — speakers: Liz Kendall, Tony Blair, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks
+- 2024-11-25 — Is New Labour back? — speakers: Liz Kendall, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks
 - 2024-11-23 — Another round: How football violence became England's favourite pastime — speakers: Sam Diss, Joe Towers
 - 2024-11-20 — (Deputy) PMQs: Farmers and Reeves' CV — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks Subscribe
-- 2024-11-19 — Keir Starmer: Farmer Harmer or Dalai Lama? — speakers: Keir Starmer, Farmer Harmer, Dalai Lama
+- 2024-11-19 — Keir Starmer: Farmer Harmer or Dalai Lama? — speakers: Farmer Harmer, Dalai Lama
 - 2024-11-13 — PoliticsJOE react to PMQs
-- 2024-11-11 — What Keir Starmer should learn from Trump — speakers: Keir Starmer, Joe Rogan, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
+- 2024-11-11 — What Keir Starmer should learn from Trump — speakers: Joe Rogan, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
 - 2024-11-09 — Another round: Where Kamala Harris' went wrong — speakers: Kamala Harris, Freddie Hayward
-- 2024-11-06 — PMQs: Reacting to Kemi Badenoch's first outing as Tory leader — speakers: Keir Starmer, Donald Trump
+- 2024-11-06 — PMQs: Reacting to Kemi Badenoch's first outing as Tory leader
 - 2024-11-06 — Trump taking back the White House — speakers: Ed Campbell, Laura Beveridge, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks Subscribe
 - 2024-11-04 — Kemi Badenoch's in charge — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-11-02 — Another Round: News Agent Jon Sopel on the US Election — speakers: Jon Sopel
@@ -13613,7 +13458,7 @@
 - 2024-10-21 — Cinema tickets on the NHS — speakers: Ava Santina, Ed Campbell, Oli Dugmore, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-10-19 — Another round: How I oversaw the downfall of three Prime Ministers — speakers: Graham Brady
 - 2024-10-16 — PMQs analysis (and the Assisted Dying Bill) — speakers: Ed Davey, Kim Leadbeater, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
-- 2024-10-14 — Alex Salmond's mixed legacy — speakers: Alex Salmond, Keir Starmer, Ava Santina, Ed Campbell, Laura Beveridge, Laura Beveridge Sting, Chris White, Seán Hickey
+- 2024-10-14 — Alex Salmond's mixed legacy — speakers: Alex Salmond, Ava Santina, Ed Campbell, Laura Beveridge, Laura Beveridge Sting, Chris White, Seán Hickey
 - 2024-10-12 — Another round: Baroness Sayeeda Warsi on Israel-Gaza and her Party's move to the far-right — speakers: Baroness Sayeeda Warsi, Former Conservative Party Chairwoman
 - 2024-10-09 — Midnight special: Labour's plan to 'make work pay' — speakers: Ava Santina, Laura Beveridge, Laura Beveridge Sting, Chris White
 - 2024-10-09 — PMQs returns — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
@@ -13622,59 +13467,59 @@
 - 2024-10-02 — The Tories' leadership race gets weird — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks Subscribe
 - 2024-09-30 — Irish Mount Rushmore (and Tory conference breakdown) — speakers: Irish Mount Rushmore
 - 2024-09-28 — Another round: Inside Andrew Tate's Romanian compound — speakers: Andrew Tate, Matt Shea, Jamie Tahsin
-- 2024-09-26 — Reacting to Keir Starmer's speech with senior Labour politicians — speakers: Barry Gardiner, Tracy Brabin, Alastair Strathern, Keir Starmer
+- 2024-09-26 — Reacting to Keir Starmer's speech with senior Labour politicians — speakers: Barry Gardiner, Tracy Brabin, Alastair Strathern
 - 2024-09-23 — Rachel Reeves' promises at Labour Conference (feat. Andrew Fisher) — speakers: Rachel Reeves, Andrew Fisher, Ava Santina, Laura Beveridge Sting, Chris White
-- 2024-09-22 — Opening night at Labour Conference — speakers: Keir Starmer, Sue Gray, Ava Santina, Laura Beveridge Sting, Chris White
+- 2024-09-22 — Opening night at Labour Conference — speakers: Sue Gray, Ava Santina, Laura Beveridge Sting, Chris White
 - 2024-09-21 — Another round: Adam Friedland on Kamala Harris, Israel and Palestine, and Starmer's Arsenal tickets — speakers: Adam Friedland, Kamala Harris, George Bush, Alastair Campbell, Ed Campbell, Seán Hickey Producer, Seán Hickey Sting, Chris White
 - 2024-09-18 — An entirely uncontroversial episode about Brexit, abortion, and Scottish independence — speakers: John Major, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks Subscribe
-- 2024-09-16 — The Prime Minister's new clothes — speakers: Keir Starmer, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks Subscribe
-- 2024-09-14 — Another round: Carol Vorderman on the insane weirdness of Tories — speakers: Carol Vorderman, Keir Starmer
+- 2024-09-16 — The Prime Minister's new clothes — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks Subscribe
+- 2024-09-14 — Another round: Carol Vorderman on the insane weirdness of Tories — speakers: Carol Vorderman
 - 2024-09-12 — Is this the end of the NHS as we know it? — speakers: Ava Santina, Laura Beveridge, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks Subscribe
 - 2024-09-11 — PMQs analysis — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks Subscribe
-- 2024-09-09 — Cold as Your Nan (Taylor's Version) — speakers: Keir Starmer, Taylor Swift
-- 2024-09-07 — Another Round: How Liz Truss ruined the country with Anthony Seldon — speakers: Liz Truss, Anthony Seldon Historian, Anthony Seldon, Joe Towers, Keir Starmer
+- 2024-09-09 — Cold as Your Nan (Taylor's Version)
+- 2024-09-07 — Another Round: How Liz Truss ruined the country with Anthony Seldon — speakers: Anthony Seldon Historian, Anthony Seldon, Joe Towers
 - 2024-09-04 — Findings of the Grenfell Inquiry (and PMQs) — speakers: Ava Santina, Laura Beveridge, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks Subscribe
-- 2024-09-02 — There's a new party in parliament — speakers: Jeremy Corbyn, Keir Starmer, Ava Santina, Seán Hickey, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks
-- 2024-08-31 — Another round: What's next for the Conservative Party? (with Telegraph political editor, Ben Riley-Smith) — speakers: Ben Riley-Smith, Joe Towers, Keir Starmer
-- 2024-08-28 — Phantom Tax — speakers: Richard Murphy, Keir Starmer, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks
-- 2024-08-27 — Definitely, maybe a podcast about politics — speakers: Keir Starmer, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks
+- 2024-09-02 — There's a new party in parliament — speakers: Jeremy Corbyn, Ava Santina, Seán Hickey, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks
+- 2024-08-31 — Another round: What's next for the Conservative Party? (with Telegraph political editor, Ben Riley-Smith) — speakers: Ben Riley-Smith, Joe Towers
+- 2024-08-28 — Phantom Tax — speakers: Richard Murphy, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks
+- 2024-08-27 — Definitely, maybe a podcast about politics — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks
 - 2024-08-24 — Another round: KNEECAP on bridging divides, British colonialism, and the far-right
-- 2024-08-21 — The boyfriends of Taylor Swift — speakers: Taylor Swift Welcome, Taylor Swift
+- 2024-08-21 — The boyfriends of Taylor Swift
 - 2024-08-20 — Farage's freebies and Starmer's ASOS haul — speakers: Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Sam Sharrocks, Oli Johnson Subscribe
-- 2024-08-17 — Another round: The prison crisis (with Lord Charlie Falconer) — speakers: Charlie Falconer, Tony Blair
+- 2024-08-17 — Another round: The prison crisis (with Lord Charlie Falconer) — speakers: Charlie Falconer
 - 2024-08-14 — No one cares about Tory leadership — speakers: Ava Santina, Seán Hickey, Laura Beveridge, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
 - 2024-08-12 — Olympic Cockfighting
 - 2024-08-08 — Report: Thousands of Londoners turn out to show down rioters. — speakers: Producer Laura
-- 2024-08-06 — White Riot — speakers: Keir Starmer, Oli Dugmore, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
+- 2024-08-06 — White Riot — speakers: Oli Dugmore, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
 - 2024-08-03 — Another round: Jess Phillips on far-right riots in Southport — speakers: Jess Phillips, Birmingham Yardley
 - 2024-07-31 — Southport riots — speakers: Angela Rayner, Ed Campbell, Laura Beveridge, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
 - 2024-07-30 — Austerity 2.0? — speakers: Rachel Reeves, Producer Laura, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
 - 2024-07-27 — Another round: Why Clive Lewis refused to swear an oath to the King — speakers: Why Clive Lewis, King Labour, Clive Lewis
-- 2024-07-24 — Keir Starmer's first PMQs (as Prime Minister) — speakers: Keir Starmer, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
+- 2024-07-24 — Keir Starmer's first PMQs (as Prime Minister) — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Sam Sharrocks, Oli Johnson Subscribe
 - 2024-07-22 — Biden out, Brat summer in? — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-07-20 — Another Round: The housing emergency with Kwajo — speakers: Kwajo Ava interviews Kwajo
 - 2024-07-17 — The King's Speech — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson, Sam Sharrocks Subscribe
-- 2024-07-15 — The re-unification of Trump and Farage — speakers: Donald Trump, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson, Sam Sharrocks Subscribe
+- 2024-07-15 — The re-unification of Trump and Farage — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson, Sam Sharrocks Subscribe
 - 2024-07-13 — Another round: There are no 'good chaps' left in parliament — speakers: Simon Kuper
 - 2024-07-10 — Conservative Civil War — speakers: Ed Campbell, Seán Hickey Producer, Sam Sharrocks, Oli Johnson, Sam Sharrocks Subscribe
 - 2024-07-08 — Prison Reform UK — speakers: Prison Reform UK, Ed Campbell, Ava Santina, Seán Hickey, Sam Sharrocks, Oli Johnson Subscribe
-- 2024-07-03 — Boris is back — speakers: Boris Johnson, Ava Santina, Laura Beveridge, Seán Hickey Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
-- 2024-07-02 — The Tories' latest attack line isn't working — speakers: Producer Laura, Keir Starmer, Ava Santina, Laura Beveridge, Seán Hickey Producer, Laura Beveridge Sting, Chris White, Seán Hickey
+- 2024-07-03 — Boris is back — speakers: Ava Santina, Laura Beveridge, Seán Hickey Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
+- 2024-07-02 — The Tories' latest attack line isn't working — speakers: Producer Laura, Ava Santina, Laura Beveridge, Seán Hickey Producer, Laura Beveridge Sting, Chris White, Seán Hickey
 - 2024-07-01 — Lee Anderson: Hard for Ashfield — speakers: Lee Anderson, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-07-01 — PoliticsJOE live at the Apollo Theatre — speakers: Mhairi Black
 - 2024-06-29 — Another round: Sleaford Mods' Jason Williamson on 14 years of Conservative government — speakers: Sleaford Mods Jason Williamson, Sleaford Mods, Jason Williamson
 - 2024-06-27 — Sh***ing in Rishi Sunak's pond — speakers: Rishi Sunak, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-06-26 — Is Rishi Sunak about to lose his seat? — speakers: Rishi Sunak, Ava Santina, Laura Beveridge, Seán Hickey Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
-- 2024-06-25 — Build prisons, spur growth — speakers: Rishi Sunak, Keir Starmer, Oli Dugmore, Ava Santina, Ed Campbell, Oli Johnson, Seán Hickey Sting Design, Chris White Subscribe
+- 2024-06-25 — Build prisons, spur growth — speakers: Rishi Sunak, Oli Dugmore, Ava Santina, Ed Campbell, Oli Johnson, Seán Hickey Sting Design, Chris White Subscribe
 - 2024-06-24 — 200TH EPISODE BONANZA — speakers: Rebuild Britain
-- 2024-06-23 — Another round: A socialist analysis of Labour's manifesto — speakers: Andrew Fisher, Jeremy Corbyn, Joe Towers, Keir Starmer
+- 2024-06-23 — Another round: A socialist analysis of Labour's manifesto — speakers: Andrew Fisher, Jeremy Corbyn, Joe Towers
 - 2024-06-21 — Leaders' Question Time Warm Up and Reaction LIVE
 - 2024-06-21 — Very Special Liveshow Reminder
 - 2024-06-19 — Between two nerds — speakers: Rishi Sunak, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-06-18 — Reform UK's "contract" analysis — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-06-17 — It's all kicking off — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-06-16 — Another round: Armando Iannucci breaks down Rishi Sunak's election campaign — speakers: Armando Iannucci
-- 2024-06-14 — Labour manifesto analysis — speakers: Keir Starmer, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
+- 2024-06-14 — Labour manifesto analysis — speakers: Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-06-13 — Green Party manifesto analysis — speakers: Vichy France, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-06-13 — Sky News Leaders' Debate analysis — speakers: Beth Rigby
 - 2024-06-12 — Conservative manifesto analysis — speakers: Rishi Sunak, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
@@ -13682,10 +13527,10 @@
 - 2024-06-10 — Young people are voting for the New Right — speakers: Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-06-09 — Torsten Bell: Economist breaks down Labour and Tories election campaign promises — speakers: Torsten Bell, Swansea West Torsten Bell, Joe Towers
 - 2024-06-06 — Tax isn't a dirty word — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2024-06-05 — Leaders' debate analysis — speakers: Rishi Sunak, Keir Starmer, Oli Dugmore, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey
-- 2024-06-04 — Nigel Farage is running — speakers: Nigel Farage, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2024-06-03 — Keir Starmer goes nuclear — speakers: Keir Starmer, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2024-06-03 — On the campaign trail: Is Keir Starmer a socialist? — speakers: Keir Starmer
+- 2024-06-05 — Leaders' debate analysis — speakers: Rishi Sunak, Oli Dugmore, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey
+- 2024-06-04 — Nigel Farage is running — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
+- 2024-06-03 — Keir Starmer goes nuclear — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
+- 2024-06-03 — On the campaign trail: Is Keir Starmer a socialist?
 - 2024-06-01 — First Minister John Swinney: Can the SNP hold their seats? — speakers: John Swinney
 - 2024-05-31 — Dudes Rock the General Election — speakers: Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
 - 2024-05-30 — The Labour Purge — speakers: Labour de-selections, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
@@ -13697,15 +13542,15 @@
 - 2024-05-22 — Sunak calls an election — speakers: Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-05-21 — Infected Blood Inquiry breakdown — speakers: Cara McGoogan, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
 - 2024-05-20 — Netanyahu wanted by the Hague — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2024-05-18 — Another round: Is Keir Starmer Thatcher's heir? — speakers: Keir Starmer, George Monbiot
-- 2024-05-16 — Keir Starmer's manifesto launch — speakers: Keir Starmer, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
+- 2024-05-18 — Another round: Is Keir Starmer Thatcher's heir? — speakers: George Monbiot
+- 2024-05-16 — Keir Starmer's manifesto launch — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-05-15 — PMQs analysis — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-05-14 — Another round: Is immigration causing the housing crisis? — speakers: Vicky Spratt, Aaron Bastani
-- 2024-05-13 — Labour's Elph-icky shift to the right — speakers: Keir Starmer, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
+- 2024-05-13 — Labour's Elph-icky shift to the right — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-05-11 — Another round: Does Rishi Sunak want to abolish human rights? — speakers: Rishi Sunak, Shami Chakrabarti
 - 2024-05-08 — PMQs analysis — speakers: Aaron Bastani, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2024-05-07 — Certified local elections, certified FM — speakers: Seán Hickey, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
-- 2024-05-04 — Another round: Can Keir Starmer reclaim English nationalism? — speakers: Tom Baldwin, Marc Stears, Keir Starmer
+- 2024-05-04 — Another round: Can Keir Starmer reclaim English nationalism? — speakers: Tom Baldwin, Marc Stears
 - 2024-05-01 — PMQs analysis (feat. Sadiq Khan) — speakers: Sadiq Khan, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-04-30 — Should we have the right to die? — speakers: Dan Poulter, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-04-29 — Humza Yousaf resigns — speakers: Oli Dugmore, Ava Santina, Laura Beveridge, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
@@ -13716,7 +13561,7 @@
 - 2024-04-20 — Another round: How to save nightlife — speakers: Sacha Lord, Andy Burnham
 - 2024-04-19 — The crisis of local journalism (with Josh Widdicombe and Nish Kumar) — speakers: Josh Widdicombe, Nish Kumar
 - 2024-04-17 — PMQs reaction (and National Conservatism chaos) — speakers: Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2024-04-15 — Liz Truss is back (feat. Josh Widdicombe and Nish Kumar) — speakers: Liz Truss, Josh Widdicombe, Nish Kumar, David Cameron, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White
+- 2024-04-15 — Liz Truss is back (feat. Josh Widdicombe and Nish Kumar) — speakers: Josh Widdicombe, Nish Kumar, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White
 - 2024-04-13 — Another round: Can we abolish landlords? — speakers: Nick Bano
 - 2024-04-10 — Analysing the NHS review into trans kids healthcare — speakers: William Wragg, Stella Creasy, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Finley Talbot-Jones Subscribe
 - 2024-04-08 — Lee Anderson doubles down on anti-traveller comments — speakers: Lee Anderson, Olivia Morrison, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
@@ -13727,16 +13572,16 @@
 - 2024-03-27 — The Tories finally fill Lee Anderson's shoes — speakers: Lee Anderson, Ed Campbell, Jonathan Gullis, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-03-26 — Rishi Sunak at the Liaison Committee (and the Deep State) — speakers: Rishi Sunak, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-03-25 — The England football kit is bisexual now — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2024-03-23 — Another round: Judith Butler on "what is a woman?" — speakers: Judith Butler, Rishi Sunak, Keir Starmer
+- 2024-03-23 — Another round: Judith Butler on "what is a woman?" — speakers: Judith Butler, Rishi Sunak
 - 2024-03-21 — Will you ever own a home? — speakers: Mathew Lawrence, Michael Gove, Ant Breach
-- 2024-03-20 — PMQs analysis — speakers: Keir Starmer, Andy Slaughter, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
+- 2024-03-20 — PMQs analysis — speakers: Andy Slaughter, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-03-18 — Sadiq Khan's London — speakers: Penny Mordaunt, Jeremy Corbyn, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey
 - 2024-03-16 — Another round: Why elites are terrified of the working class — speakers: Grace Blakeley, Backdoor Bailouts, Joe Towers
 - 2024-03-13 — PMQs react — speakers: Diane Abbott, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2024-03-11 — Lee Anderson defects to Reform — speakers: Lee Anderson, Kate Middleton, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey
-- 2024-03-09 — Andy Burnham: Labour needs to be less London-centric — speakers: Andy Burnham, Keir Starmer, Head North, Steve Rotheram
+- 2024-03-09 — Andy Burnham: Labour needs to be less London-centric — speakers: Andy Burnham, Head North, Steve Rotheram
 - 2024-03-06 — Budget: Tories don't care about young people — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Finley Talbot-Jones Subscribe
-- 2024-03-04 — Ed and Nigel Farage are texting — speakers: Nigel Farage, George Galloway, Jeremy Corbyn, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White
+- 2024-03-04 — Ed and Nigel Farage are texting — speakers: George Galloway, Jeremy Corbyn, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White
 - 2024-03-02 — Another Round: The truth about homophobia in football (with Rylan Clark) — speakers: Rylan Clark
 - 2024-03-01 — What the hell happened at the Rochdale by-election? — speakers: George Galloway, Azhar Ali, Ava Santina
 - 2024-02-28 — PMQs react — speakers: St Anthony, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead
@@ -13744,24 +13589,24 @@
 - 2024-02-24 — Another round: The secret economics ruining Britain (with Gary Stevenson) — speakers: Gary Stevenson
 - 2024-02-22 — Should the Speaker resign? — speakers: Oli Dugmore, Seán Hickey, Laura Beveridge, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
 - 2024-02-21 — PMQs and the ceasefire vote — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
-- 2024-02-19 — Starmer calls for a ceasefire — speakers: Keir Starmer, Ben Zand, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
-- 2024-02-17 — Another round: Yanis Varoufakis on Starmer's Labour and Israel-Gaza — speakers: Keir Starmer
+- 2024-02-19 — Starmer calls for a ceasefire — speakers: Ben Zand, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
+- 2024-02-17 — Another round: Yanis Varoufakis on Starmer's Labour and Israel-Gaza
 - 2024-02-12 — Michael Gove is scared to come on this podcast — speakers: Michael Gove, Labour U-turned, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
 - 2024-02-10 — Another round: How to interview a politician (with Rob Burley) — speakers: Rob Burley, Tucker Carlson, Vladimir Putin, Andrew Marr, Emily Maitlis
 - 2024-02-07 — PMQs analysis — speakers: Rishi Sunak, Ava Santina, Hickey Sting, Chris White, Shawnee Linstead
 - 2024-02-03 — Another round: How Sunak's wife's firm makes millions from his government — speakers: Peter Geoghegan, Rishi Sunak
-- 2024-01-31 — PMQs analysis — speakers: Keir Starmer, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Finley Talbot-Jones Subscribe
+- 2024-01-31 — PMQs analysis — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Finley Talbot-Jones Subscribe
 - 2024-01-29 — Vape nation — speakers: Olga Koch, Rishi Sunak, Oli Dugmore, Ed Campbell, Olga Koch Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
 - 2024-01-27 — Another round: Holocaust survivor criticises Government rhetoric on asylum seekers — speakers: Uri Winterstein
 - 2024-01-24 — PMQs (and white rhinos) — speakers: Ava Santina, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
 - 2024-01-22 — Get a mortgage or get noo-noo-ed trying — speakers: Rishi Sunak, Ava Santina, Ed Campbell, Seán Hickey Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
 - 2024-01-20 — Another round: Asylum expert debunks Tory lies about refugees and Rwanda plan — speakers: Zoe Gardner
 - 2024-01-17 — PMQs analysis — speakers: Ava Santina, Laura Beveridge, Laura Beveridge Sting, Chris White, Shawnee Linstead, Finley Talbot-Jones Subscribe
-- 2024-01-15 — The culture war deconstructed, and made into a disgusting sausage — speakers: David Cameron, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
+- 2024-01-15 — The culture war deconstructed, and made into a disgusting sausage — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
 - 2024-01-13 — Another round: Jon Ronson explains why the right are abandoning the culture war — speakers: Jon Ronson
 - 2024-01-10 — PMQs — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
 - 2024-01-08 — Don't listen to Joey Barton — speakers: Joey Barton, Jeremy Corbyn, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
-- 2024-01-06 — Another round: How the British press hacked my phone and ruined my life (with Chris Huhne) — speakers: Chris Huhne, Lib Dem, Rupert Murdoch, BSkyB Ed
+- 2024-01-06 — Another round: How the British press hacked my phone and ruined my life (with Chris Huhne) — speakers: Chris Huhne, Lib Dem, BSkyB Ed
 - 2024-01-03 — Asking the least white place in Britain about immigration — speakers: Woody Allen, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
 - 2024-01-02 — Rishi Sunak's lying about immigration — speakers: Rishi Sunak, Oli Dugmore, Ava Santina, Ed Campbell Producer, Ava Santina Sting, Chris White, Shawnee Linstead Subscribe
 - 2023-12-23 — Another Round: How to fix Britain's broken political system (with Ben Ansell) — speakers: Ben Ansell, Reith Lecturer
@@ -13770,20 +13615,20 @@
 - 2023-12-16 — Another Round: Ian Hislop reviews 2023 — speakers: Ian Hislop, Rishi Sunak
 - 2023-12-15 — 100th episode lock in — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Seán Hickey, Harry Ainsworth Subscribe
 - 2023-12-06 — PMQs: Rwanda Plan revival and a Minister for Men — speakers: James Cleverly, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
-- 2023-12-04 — Why Keir Starmer's praising Thatcher — speakers: Keir Starmer, Margaret Thatcher, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
+- 2023-12-04 — Why Keir Starmer's praising Thatcher — speakers: Margaret Thatcher, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
 - 2023-12-02 — Another round: How Britain benefits from slavery today with Clive Lewis MP — speakers: Clive Lewis, Laura Trevelyan
 - 2023-11-29 — PMQs analysis: Starmer spanks Sunak — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
 - 2023-11-27 — Why we should return the Elgin Marbles (to the Ottomans) — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
 - 2023-11-25 — Another round: Economist Torsten Bell explains why the Autumn Statement screws you over — speakers: Torsten Bell, Jeremy Hunt
 - 2023-11-22 — Analysing Jeremy Hunt's Autumn Statement, and PMQs — speakers: Jeremy Hunt, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
-- 2023-11-20 — Nigel Farage in the Jungle — speakers: Nigel Farage, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
+- 2023-11-20 — Nigel Farage in the Jungle — speakers: Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson Subscribe
 - 2023-11-18 — Another round: James O'Brien on the Tories who broke Britain — speakers: James O'Brien, James O’Brien, Suella Braverman
 - 2023-11-17 — Cenotaph defending deep dive — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2023-11-16 — Labour MPs resign over Gaza vote — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2023-11-15 — PMQs: Rwanda plan unlawful — speakers: David Cameron, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2023-11-14 — Why David Cameron shouldn't be foreign secretary — speakers: David Cameron, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
-- 2023-11-13 — Suella Braverman sacked, David Cameron rides again — speakers: David Cameron, Jeremy Corbyn, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey
-- 2023-11-11 — Another round: Jeremy Corbyn on the King's Speech and Israel-Palestine — speakers: Jeremy Corbyn, Keir Starmer
+- 2023-11-15 — PMQs: Rwanda plan unlawful — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
+- 2023-11-14 — Why David Cameron shouldn't be foreign secretary — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
+- 2023-11-13 — Suella Braverman sacked, David Cameron rides again — speakers: Jeremy Corbyn, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey
+- 2023-11-11 — Another round: Jeremy Corbyn on the King's Speech and Israel-Palestine — speakers: Jeremy Corbyn
 - 2023-11-08 — Suella Braverman is inciting the far-right — speakers: Suella Braverman, Jeremy Corbyn, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey
 - 2023-11-06 — A new low for Suella Braverman — speakers: Matthew Torbitt, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2023-11-04 — Another round: Slavoj Žižek on Israel Palestine — speakers: Salvoj Žižek
@@ -13799,7 +13644,7 @@
 - 2023-10-18 — PMQs analysis — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2023-10-18 — Israel Palestine. — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2023-10-14 — Another round: How Big Tech made us serfs with Yanis Varoufakis — speakers: former politician
-- 2023-10-12 — Analysing Keir Starmer's speech, and other conference goss — speakers: Keir Starmer, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
+- 2023-10-12 — Analysing Keir Starmer's speech, and other conference goss — speakers: Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Shawnee Linstead Subscribe
 - 2023-10-10 — Pubcast live with Mick Lynch — speakers: Mick Lynch Welcome, Mick Lynch, Ben Smoke
 - 2023-10-07 — Another round: Tory MP Caroline Nokes Dismantles Suella Braverman's Culture War — speakers: Caroline Nokes, Joe Towers
 - 2023-10-04 — Rishi's Hail Marys — speakers: Hail Marys Welcome, Tory Conference, Rishi Sunak, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Seán Hickey
@@ -13815,7 +13660,7 @@
 - 2023-09-11 — EXCLUSIVE: Ed's saucy DMs with the alleged Chinese spy ('the snatch hoover') — speakers: Horatio Castille, Daniel Khalife, Golden Boy, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson
 - 2023-09-09 — Another round: Sadiq Khan and Chris Packham on free school meals and Tory climate deniers — speakers: Chris Packham, Ava Santina
 - 2023-09-06 — PMQs is back (with Harry Lambert) — speakers: Harry Lambert, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
-- 2023-09-04 — Labour Reshuffle — speakers: Keir Starmer, Gillian Keegan, Oli Dugmore, Ava Santin, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
+- 2023-09-04 — Labour Reshuffle — speakers: Gillian Keegan, Oli Dugmore, Ava Santin, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
 - 2023-09-02 — Another round: Why space militarisation is inevitable with Tim Marshall — speakers: Tim Marshall
 - 2023-08-30 — Does this man deserve to be kicked out of the Labour Party with Neal Lawson — speakers: Neal Lawson, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
 - 2023-08-29 — Wrong'un Rubiales — speakers: Rachel Reeves, Luis Rubiales, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
@@ -13827,14 +13672,14 @@
 - 2023-08-14 — Boats, bathrooms, and bullshit — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
 - 2023-08-12 — Another round: How to stop MPs behaving badly with Chris Bryant — speakers: Chris Bryant
 - 2023-08-08 — How to fix a broken media system, and Rishi Sunak's future post-election (with Jacob Jarvis) — speakers: Rishi Sunak, Jacob Jarvis, Ed Campbell, Ava Santina Producer, Hickey Sting, Chris White, Shawnee Linstead
-- 2023-08-07 — Schrödinger's Rwanda — speakers: Charlotte Owen, Keir Starmer, Liz Truss, Ed Campbell, Ava Santina Producer, Hickey Sting, Chris White, Shawnee Linstead
+- 2023-08-07 — Schrödinger's Rwanda — speakers: Charlotte Owen, Ed Campbell, Ava Santina Producer, Hickey Sting, Chris White, Shawnee Linstead
 - 2023-08-05 — Another round: Is journalism broken? (with Robert Peston) — speakers: Robert Peston
 - 2023-08-02 — How to build 4 million homes with Ant Breach — speakers: Oli Dugmore, Ed Campbell, Ant Breach, Laura Beveridge Sting, Chris White, Shawnee Linstead, Kesia Evans Subscribe
 - 2023-07-31 — Oppenheimer review (4 hour extended edition) — speakers: Rishi Sunak, Oli Dugmore, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Kesia Evans Subscribe
 - 2023-07-29 — Another round: The problem with George Monbiot's solution to the climate crisis — speakers: George Monbiot, Chris Smaje
 - 2023-07-26 — How to fix the energy market, and the most powerful company you've never heard of — speakers: Common Wealth, Mathew Lawrence, Oli Dugmore, Ava Santina, Ed Campbell, Mathew Lawrence Producer, Laura Beveridge Sting, Chris White
-- 2023-07-25 — Michael Gove is good? — speakers: Michael Gove, Keir Starmer, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
-- 2023-07-22 — Another round: Why capitalism doesn't need democracy with Quinn Slobodian — speakers: Liz Truss, Ed Campbell, Quinn Slobodian
+- 2023-07-25 — Michael Gove is good? — speakers: Michael Gove, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
+- 2023-07-22 — Another round: Why capitalism doesn't need democracy with Quinn Slobodian — speakers: Ed Campbell, Quinn Slobodian
 - 2023-07-19 — PMQs with Labour MP Jon Trickett — speakers: Jon Trickett, Oli Dugmore, Ava Santina, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson Subscribe
 - 2023-07-18 — Meet the dominatrix who unionised Scottish strippers — speakers: Megara Furie, Mickey Mouse, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
 - 2023-07-15 — Another round: George Monbiot — speakers: George Monbiot Oli Dugmore, George Monbiot, Russell Brand
@@ -13843,27 +13688,27 @@
 - 2023-07-10 — BBC Nonce Top Allegations — speakers: George Osborne, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson Subscribe
 - 2023-07-08 — Another round: Laura Bates — speakers: Laura Bates, Ava Santina, Andrew Tate
 - 2023-07-05 — PMQs: Rayner v Dowden — speakers: Dowden Welcome, Oli Dugmore, Ava Santina, Ava Santina Producer, Laura Beveridge Sting, Chris White, Oli Johnson Subscribe
-- 2023-07-04 — Farage against the machine — speakers: Lee Anderson, Nigel Farage, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
+- 2023-07-04 — Farage against the machine — speakers: Lee Anderson, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead Subscribe
 - 2023-07-01 — Another round: Adam Curtis — speakers: Adam Curtis Oli Dugmore, Adam Curtis
 - 2023-06-28 — PMQs with Mhairi Black: The 668 Million Dollar Man — speakers: Ed Campbell, Ava Santina, Mhairi Black, Andrew Bridgen, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson Subscribe
 - 2023-06-28 — Saturday night's alright for fighting — speakers: Ed Campbell, Ava Santina, Tom Usher, Tom Usher Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson Subscribe
 - 2023-06-24 — Another round: Mariana Mazzucato — speakers: Mariana Mazzucato, Oli Dugmore
 - 2023-06-21 — PMQs: House of Landlords — speakers: Roisin Lanigan, Ava Santina, Seán Hickey, Roisin Lanigan Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson Subscribe
-- 2023-06-20 — The platonic ideal of a podcast — speakers: Ed Campbell, David Cameron, Seán Hickey Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson Subscribe
+- 2023-06-20 — The platonic ideal of a podcast — speakers: Ed Campbell, Seán Hickey Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson Subscribe
 - 2023-06-14 — PMQs (and reviewing d*** pics) — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Kesia Evans Subscribe
-- 2023-06-13 — Bye, bye, by(-elections) — speakers: Boris Johnson, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson
+- 2023-06-13 — Bye, bye, by(-elections) — speakers: Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson
 - 2023-06-08 — Labour lanslide? feat. Carol Vorderman — speakers: Carol Vorderman, Oli Dugmore, Ava Santina Producer, Laura Beveridge Sting, Chris White, Oli Johnson, Henry Lewin-Titt Subscribe
 - 2023-06-06 — What's happening in Ukraine? feat. Jake Hanrahan — speakers: Jake Hanrahan, Oli Dugmore, Ava Santina, Jake Hanrahan Producer, Laura Beveridge Sting, Chris White, Seán Hickey, Oli Johnson
 - 2023-06-03 — Another round: Bernie Sanders — speakers: Bernie Sanders
 - 2023-06-01 — Breaking: The return of Pestminster — speakers: Oli Dugmore, Ava Santina, Ava Santina Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Seán Hickey, Kesia Evans Subscribe
 - 2023-05-31 — Doms vs Subs paintball tournament — speakers: Oli Dugmore, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Kesia Evans, Henry Lewin-Titt, Joel Dunn-Wilson Subscribe
 - 2023-05-27 — Another Round: Cleo Madeleine — speakers: Cleo Madeleine, Ava Santina
-- 2023-05-25 — Shots: Boris better call Saul — speakers: Oli Dugmore, Ed Campbell, Ava Santina, Boris Johnson, Suella Braverman, Ava Santina Producer, Laura Beveridge Sting, Chris White
+- 2023-05-25 — Shots: Boris better call Saul — speakers: Oli Dugmore, Ed Campbell, Ava Santina, Suella Braverman, Ava Santina Producer, Laura Beveridge Sting, Chris White
 - 2023-05-24 — Bad kid Man City — speakers: Tik Tok, Dominic Raab, Oli Dugmore, Ed Campbell, Ava Santina Producer, Laura Beveridge, Eve Brennan Sting, Chris White
 - 2023-05-22 — Another Round: Sam Bright — speakers: Sam Bright, Ava Santina
-- 2023-05-18 — Shots: A plague of greenbelt houses — speakers: Oli Dugmore, Ed Campbell, Keir Starmer, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson
+- 2023-05-18 — Shots: A plague of greenbelt houses — speakers: Oli Dugmore, Ed Campbell, Ed Campbell Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson
 - 2023-05-17 — When blue tribes go to war — speakers: Tom Jones, Oli Dugmore, Ed Campbell, Ava Santina Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead, Oli Johnson Subscribe
 - 2023-05-13 — Another Round: Nish Kumar — speakers: Oli Dugmore
 - 2023-05-09 — Watch the throne ft. Ben Smoke — speakers: Ben Smoke Welcome, Suella Braverman, Oli Dugmore, Ed Campbell, Ben Smoke Producer, Laura Beveridge Sting, Chris White, Shawnee Linstead
-- 2023-05-03 — Of Keirs and Kings — speakers: Keir Starmer, Ed Campbell, Ed Miliband, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White
+- 2023-05-03 — Of Keirs and Kings — speakers: Ed Campbell, Ed Miliband, Oli Dugmore, Ava Santina, Ed Campbell Producer, Laura Beveridge Sting, Chris White
 - 2023-04-05 — Trailer — speakers: Oli Dugmore, Ava Santina, Ed Campbell
