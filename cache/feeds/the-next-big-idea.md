@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-02-20T19:06:07+00:00`
-- checked_at: `2026-02-20T19:06:07+00:00`
-- last_modified: `Fri, 20 Feb 2026 16:26:24 GMT`
+- fetched_at: `2026-02-23T03:19:38+00:00`
+- checked_at: `2026-02-23T03:19:38+00:00`
+- last_modified: `Mon, 23 Feb 2026 02:28:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/ea863c046e0db9c66e9d56c929b96c33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T19:06:07+00:00",
+  "fetched_at": "2026-02-23T03:19:38+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -71,8 +71,7 @@
         "Chris van Tulleken",
         "Eric Topol",
         "Follow Rufus",
-        "Rufus Griscom",
-        "Caleb Bissinger"
+        "Rufus Griscom"
       ],
       "topics": [
         "simple",
@@ -441,7 +440,6 @@
       "itunes_duration": "4314",
       "speakers": [
         "Walter Isaacson",
-        "Elon Musk",
         "Steve Jobs",
         "Benjamin Franklin",
         "Jennifer Doudna",
@@ -472,7 +470,6 @@
         "Albert Einstein",
         "Benjamin Franklin",
         "Leonardo da Vinci",
-        "Elon Musk",
         "Rufus Griscom",
         "Caleb Bissinger"
       ],
@@ -766,8 +763,7 @@
         "Adam Grant",
         "Susan Cain",
         "Daniel Pink",
-        "Rufus Griscom",
-        "Caleb Bissinger"
+        "Rufus Griscom"
       ],
       "topics": [
         "sebastian",
@@ -1102,7 +1098,6 @@
         "Stephen Witt",
         "Jensen Huang",
         "Walter Isaacson",
-        "Elon Musk",
         "Rufus Griscom",
         "Caleb Bissinger"
       ],
@@ -2437,8 +2432,7 @@
         "Daniel Pink",
         "Panio Gianopoulos",
         "Panio Gianopoulos Guest",
-        "Rufus Griscom",
-        "Caleb Bissinger"
+        "Rufus Griscom"
       ],
       "topics": [
         "uncertainty",
@@ -2486,8 +2480,7 @@
         "Adam Grant",
         "Susan Cain",
         "Daniel Pink",
-        "Rufus Griscom",
-        "Caleb Bissinger"
+        "Rufus Griscom"
       ],
       "topics": [
         "afterlife",
@@ -2543,8 +2536,7 @@
         "Adam Grant",
         "Susan Cain",
         "Daniel Pink",
-        "Rufus Griscom",
-        "Caleb Bissinger"
+        "Rufus Griscom"
       ],
       "topics": [
         "demon",
@@ -2721,9 +2713,7 @@
         "Malcolm Gladwell",
         "Adam Grant",
         "Susan Cain",
-        "Daniel Pink",
-        "Rufus Griscom",
-        "Caleb Bissinger"
+        "Daniel Pink"
       ],
       "topics": [
         "life",
@@ -2805,8 +2795,7 @@
         "Adam Grant",
         "Susan Cain",
         "Daniel Pink",
-        "Rufus Griscom",
-        "Caleb Bissinger"
+        "Rufus Griscom"
       ],
       "topics": [
         "supercommunicators"
@@ -3378,7 +3367,6 @@
         "Albert Einstein",
         "Benjamin Franklin",
         "Leonardo da Vinci",
-        "Elon Musk",
         "Rufus Griscom",
         "Caleb Bissinger"
       ],
@@ -4015,7 +4003,6 @@
       "itunes_duration": "2805",
       "speakers": [
         "Logan Roy",
-        "Rupert Murdoch",
         "Jesse Armstrong",
         "Sumner Redstone",
         "Rachel Abrams",
@@ -4407,8 +4394,7 @@
         "Christopher Ryan",
         "Ray Dalio",
         "Jane McGonigal",
-        "Rufus Griscom",
-        "Caleb Bissinger"
+        "Rufus Griscom"
       ],
       "topics": [
         "sapiens",
@@ -5232,7 +5218,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2693",
       "speakers": [
-        "Elon Musk",
         "Steven Johnson",
         "Adjacent Possible",
         "Jill Lepore",
@@ -5454,7 +5439,6 @@
       "itunes_duration": "3870",
       "speakers": [
         "Elon Musk’s Sci-Fi Visions",
-        "Elon Musk",
         "Jill Lepore",
         "Rufus Griscom",
         "Caleb Bissinger"
@@ -5823,7 +5807,6 @@
       "speakers": [
         "Katy Milkman",
         "Daniel Pink",
-        "Harry Potter",
         "Rufus Griscom",
         "Caleb Bissinger"
       ],
@@ -7551,7 +7534,7 @@
 ## Episodes (newest first)
 
 - 2026-02-19 — The Science of Change — speakers: Maya Shankar, Follow Rufus, Tim Kreider, George Saunders, David Marchese, Rufus Griscom, Caleb Bissinger
-- 2026-02-12 — Six Simple Rules for a Long and Healthy Life — speakers: Healthy Life, Russell Foster, Tim Spector, Kelly McGonigal, Chris van Tulleken, Eric Topol, Follow Rufus, Rufus Griscom, Caleb Bissinger
+- 2026-02-12 — Six Simple Rules for a Long and Healthy Life — speakers: Healthy Life, Russell Foster, Tim Spector, Kelly McGonigal, Chris van Tulleken, Eric Topol, Follow Rufus, Rufus Griscom
 - 2026-02-05 — A Practical Guide to Achieving Excellence — speakers: Brad Stulberg, Rufus Griscom, Caleb Bissinger
 - 2026-01-29 — Does "Mattering" Explain Everything? — speakers: Jennifer Wallace, Rebecca Goldstein, Rufus Griscom, Caleb Bissinger
 - 2026-01-22 — The Superpower You Didn’t Know You Had — speakers: Kate Murphy, Charles Duhigg, David Brooks, John Colapinto, Follow Rufus, Rufus Griscom, Caleb Bissinger
@@ -7567,8 +7550,8 @@
 - 2025-11-27 — Best Of: David Brooks on the Art of Seeing Others Deeply — speakers: David Brooks, Griscom Guest, David Brooks Book, Rufus Griscom, Caleb Bissinger
 - 2025-11-25 — STRONG GROUND: Brené Brown on the Daring Leadership the World Needs Now — speakers: Brené Brown, Adam Grant, Strong Ground, Walter Isaacson, Rufus Griscom, Caleb Bissinger
 - 2025-11-20 — Brené Brown on courageous leadership (from ReThinking with Adam Grant) — speakers: Brené Brown, Adam Grant, Strong Ground, Walter Isaacson, Rufus Griscom, Caleb Bissinger
-- 2025-11-18 — Walter Isaacson on The Greatest Sentence Ever Written — speakers: Walter Isaacson, Elon Musk, Steve Jobs, Benjamin Franklin, Jennifer Doudna, Rufus Griscom, Caleb Bissinger
-- 2025-11-13 — Best Of: Decoding Elon Musk — speakers: Walter Isaacson, Steve Jobs, Albert Einstein, Benjamin Franklin, Leonardo da Vinci, Elon Musk, Rufus Griscom, Caleb Bissinger
+- 2025-11-18 — Walter Isaacson on The Greatest Sentence Ever Written — speakers: Walter Isaacson, Steve Jobs, Benjamin Franklin, Jennifer Doudna, Rufus Griscom, Caleb Bissinger
+- 2025-11-13 — Best Of: Decoding Elon Musk — speakers: Walter Isaacson, Steve Jobs, Albert Einstein, Benjamin Franklin, Leonardo da Vinci, Rufus Griscom, Caleb Bissinger
 - 2025-11-06 — Andrew Ross Sorkin: What the Crash of 1929 Says About Today — speakers: Andrew Ross Sorkin, Rufus Griscom, Caleb Bissinger
 - 2025-10-30 — Atlantic CEO Nick Thompson on What Running Can Teach Us — speakers: Nick Thompson, Rufus Griscom, Caleb Bissinger
 - 2025-10-23 — COMMON KNOWLEDGE: Steven Pinker on Awkward Dates, Cancel Culture and the Necessity of Norms — speakers: Steven Pinker, Awkward Dates, Cancel Culture, Common Knowledge, Brené Brown, Follow Rufus, Rufus Griscom, Caleb Bissinger
@@ -7580,7 +7563,7 @@
 - 2025-09-11 — Best Of: Jonathan Haidt on What Social Media Is Doing to Our Kids — speakers: Jonathan Haidt, Follow Rufus, Rufus Griscom, Caleb Bissinger
 - 2025-09-04 — ARTHUR C. BROOKS: Success Won’t Make You Happy — Here’s What Will — speakers: Follow Rufus, Rufus Griscom, Caleb Bissinger
 - 2025-08-28 — THE FUTURE OF WRITING: A Conversation with Ethan Mollick and Steven Johnson — speakers: Ethan Mollick, Steven Johnson, Andy Sack, Rufus Griscom, Caleb Bissinger
-- 2025-08-21 — Best Of: Sebastian Junger’s Journey to the Edge and Back — speakers: Sebastian Junger’s Journey, Sebastian Junger, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2025-08-21 — Best Of: Sebastian Junger’s Journey to the Edge and Back — speakers: Sebastian Junger’s Journey, Sebastian Junger, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom
 - 2025-08-14 — INTUITION: The Science of Trusting Your Gut — speakers: Laura Huang, Rufus Griscom, Caleb Bissinger
 - 2025-08-07 — Can Rogue Archeologists Bring the Past Back to Life? — speakers: Sam Kean, Rufus Griscom, Caleb Bissinger
 - 2025-07-31 — WHAT WE VALUE: A Neuroscientist's Guide to Making Better Choices — speakers: Emily Falk, Rufus Griscom, Caleb Bissinger
@@ -7594,7 +7577,7 @@
 - 2025-06-05 — HOPE FOR CYNICS: The Surprising Science of Human Goodness — speakers: Jamil Zaki, Malcolm Gladwell, Susan Cain, Daniel Pink, Adam Grant, Rufus Griscom, Caleb Bissinger
 - 2025-05-29 — RISE ABOVE: How to Realize Your Full Potential — speakers: Scott Barry Kaufman, Rufus Griscom, Caleb Bissinger
 - 2025-05-22 — MORAL AMBITION: Are You Wasting Your Talent? — speakers: Rutger Bregman, Rufus Griscom, Caleb Bissinger
-- 2025-05-15 — NVIDIA: Jensen Huang Bet Big on AI. What Comes Next? — speakers: Jensen Huang Bet Big, Stephen Witt, Jensen Huang, Walter Isaacson, Elon Musk, Rufus Griscom, Caleb Bissinger
+- 2025-05-15 — NVIDIA: Jensen Huang Bet Big on AI. What Comes Next? — speakers: Jensen Huang Bet Big, Stephen Witt, Jensen Huang, Walter Isaacson, Rufus Griscom, Caleb Bissinger
 - 2025-05-08 — EXPLORATION: Why We Seek Out Big Challenges — speakers: Alex Hutchinson, David Grann, Rufus Griscom, Caleb Bissinger
 - 2025-05-01 — AI 2027: What If Superhuman AI Is Right Around the Corner? — speakers: Superhuman AI, Daniel Kokotajlo, Rufus Griscom, Caleb Bissinger
 - 2025-04-24 — THE ART OF EDITING: Graydon Carter on the Golden Age of Magazines — speakers: Graydon Carter, Michael Lewis, Sebastian Junger, Kara Swisher, David Grann, Rufus Griscom, Caleb Bissinger
@@ -7650,21 +7633,21 @@
 - 2024-06-27 — Bill Gates Says Superhuman AI May Be Closer Than You Think — speakers: Bill Gates, Superhuman AI, Andy Sack, Adam Brotman, Adam’s AI, Rufus Griscom, Caleb Bissinger
 - 2024-06-20 — FRICTION: How Smart Leaders Make the Right Things Easier (with Adam Grant & Bob Sutton) — speakers: Adam Grant, Bob Sutton, Rufus Griscom, Caleb Bissinger
 - 2024-06-13 — INFERNAL MACHINE: Dynamite, Anarchy and the Future of Creativity — speakers: Steven Johnson, Rufus Griscom, Caleb Bissinger
-- 2024-06-06 — UNCERTAINTY: The Surprising Power of Being Unsure — speakers: Maggie Jackson, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Panio Gianopoulos, Panio Gianopoulos Guest, Rufus Griscom, Caleb Bissinger
+- 2024-06-06 — UNCERTAINTY: The Surprising Power of Being Unsure — speakers: Maggie Jackson, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Panio Gianopoulos, Panio Gianopoulos Guest, Rufus Griscom
 - 2024-05-30 — SAL KHAN: How AI Will Revolutionize the Way We Learn — speakers: Sal Khan, Rufus Griscom, Caleb Bissinger
-- 2024-05-23 — AFTERLIFE: Sebastian Junger’s Journey to the Edge and Back — speakers: Sebastian Junger’s Journey, Sebastian Junger, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-05-23 — AFTERLIFE: Sebastian Junger’s Journey to the Edge and Back — speakers: Sebastian Junger’s Journey, Sebastian Junger, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom
 - 2024-05-16 — FUNNER: How Language Evolves and Why It Matters — speakers: Anne Curzan, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
-- 2024-05-09 — DEMON OF UNREST: Why the Civil War Matters Today (with Erik Larson) — speakers: Erik Larson, Abraham Lincoln, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-05-09 — DEMON OF UNREST: Why the Civil War Matters Today (with Erik Larson) — speakers: Erik Larson, Abraham Lincoln, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom
 - 2024-05-02 — ALGEBRA OF WEALTH: Scott Galloway’s Formula for Financial Success — speakers: Scott Galloway, Rufus Griscom, Caleb Bissinger
 - 2024-04-25 — WHY WE REMEMBER: The New Science of Improving Your Memory — speakers: Jean Renoir, Charan Ranganath, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
 - 2024-04-18 — SLOW PRODUCTIVITY: Can We Get More Done by Doing Less? — speakers: Cal Newport, Scott Galloway, Rufus Griscom, Caleb Bissinger
 - 2024-04-11 — MAGICAL OVERTHINKING: Why Modern Life Is Making Us More Irrational — speakers: Amanda Montell, Rufus Griscom, Caleb Bissinger
 - 2024-04-04 — Everything Paul Bloom Knows About Psychology — speakers: Paul Bloom, Sigmund Freud, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
 - 2024-03-28 — GET THE PICTURE: Why Bother With Art? — speakers: Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
-- 2024-03-21 — LOOK AGAIN: How to See Your Life With Fresh Eyes — speakers: Logan Roy, Tali Sharot, Sharot Host, Michael Kovnat, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-03-21 — LOOK AGAIN: How to See Your Life With Fresh Eyes — speakers: Logan Roy, Tali Sharot, Sharot Host, Michael Kovnat, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink
 - 2024-03-14 — GENEROSITY: How Simple Acts of Kindness Can Change the World — speakers: Chris Anderson, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
 - 2024-03-07 — BURN BOOK: Kara Swisher Takes on Big Tech — speakers: Kara Swisher, Caleb Bissinger Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
-- 2024-02-29 — SUPERCOMMUNICATORS: How to Connect With Anyone — speakers: Oscar Wilde, Charles Duhigg, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
+- 2024-02-29 — SUPERCOMMUNICATORS: How to Connect With Anyone — speakers: Oscar Wilde, Charles Duhigg, Griscom Guest, Malcolm Gladwell, Adam Grant, Susan Cain, Daniel Pink, Rufus Griscom
 - 2024-02-22 — MIDLIFE: Once a Crisis, Now an Opportunity — speakers: Chip Conley, Rufus Griscom, Caleb Bissinger
 - 2024-02-15 — RADICAL CANDOR: Why Compassionate Honesty Is a Gift — speakers: Kim Scott, Rufus Griscom, Caleb Bissinger
 - 2024-02-08 — BLOCKCHAIN: Why Chris Dixon Still Thinks It Matters — speakers: Chris Dixon, Sam Bankman-Fried, Rufus Griscom, Caleb Bissinger
@@ -7688,7 +7671,7 @@
 - 2023-10-05 — Susan Cain on the Power of the Bittersweet (2022) — speakers: Susan Cain, Rufus Griscom, Caleb Bissinger
 - 2023-09-28 — HUMAN COMPATIBLE: Can We Control Artificial Intelligence? — speakers: Stuart Russell, Griscom Guest, Rufus Griscom, Caleb Bissinger
 - 2023-09-21 — UNREASONABLE HOSPITALITY: The Power of Giving People More Than They Expect — speakers: Unreasonable Hospitality, Will Guidara, Caleb Bissinger Guest, Rufus Griscom, Caleb Bissinger
-- 2023-09-14 — ELON MUSK: Walter Isaacson on the World’s Most Polarizing Person — speakers: Walter Isaacson, Steve Jobs, Albert Einstein, Benjamin Franklin, Leonardo da Vinci, Elon Musk, Rufus Griscom, Caleb Bissinger
+- 2023-09-14 — ELON MUSK: Walter Isaacson on the World’s Most Polarizing Person — speakers: Walter Isaacson, Steve Jobs, Albert Einstein, Benjamin Franklin, Leonardo da Vinci, Rufus Griscom, Caleb Bissinger
 - 2023-09-07 — CHANGE: How to Excel When Everything Is in Flux — speakers: Brad Stulberg, Rufus Griscom, Caleb Bissinger
 - 2023-08-31 — DREAM TOWN: Shaker Heights and the Quest for Racial Equity — speakers: Laura Meckler, Rufus Griscom, Caleb Bissinger
 - 2023-08-24 — PERENNIALS: How to Thrive in a Post-Generational Society — speakers: Mauro Guillén, Rufus Griscom, Caleb Bissinger
@@ -7714,7 +7697,7 @@
 - 2023-04-20 — SENSES: Gretchen Rubin’s Guide to Getting Out of Your Head and Into the World — speakers: Gretchen Rubin’s Guide, Gretchen Rubin, Rufus Griscom, Caleb Bissinger
 - 2023-04-13 — PSYCH: The Story of the Human Mind — speakers: Paul Bloom, Sigmund Freud, Rufus Griscom, Caleb Bissinger
 - 2023-04-06 — PREPPY: The Surprising Origins of American Style — speakers: Maggie Bullock, Rufus Griscom, Caleb Bissinger
-- 2023-03-30 — SUCCESSION: The True Story Behind the Hit Show — speakers: Logan Roy, Rupert Murdoch, Jesse Armstrong, Sumner Redstone, Rachel Abrams, Rufus Griscom, Caleb Bissinger
+- 2023-03-30 — SUCCESSION: The True Story Behind the Hit Show — speakers: Logan Roy, Jesse Armstrong, Sumner Redstone, Rachel Abrams, Rufus Griscom, Caleb Bissinger
 - 2023-03-23 — ABOLISH POVERTY: Matthew Desmond on How We Can Do It — speakers: Matthew Desmond, Rufus Griscom, Caleb Bissinger
 - 2023-03-16 — READING: Are We Forgetting How To Do It? — speakers: Maryanne Wolf, Rufus Griscom, Caleb Bissinger
 - 2023-03-09 — David Chalmers Thinks We May Be Living in a Simulation (and He’s OK With It) — speakers: David Chalmers Thinks, David Chalmers, Rufus Griscom, Caleb Bissinger
@@ -7730,7 +7713,7 @@
 - 2023-01-12 — DIET: The New Science of Healthy Eating — speakers: Tim Spector, Twitter Want, Rufus Griscom, Caleb Bissinger
 - 2023-01-05 — How to Develop Your Passions and Avoid Burnout (with Atul Gawande and Adam Grant) — speakers: Avoid Burnout, Adam Grant, Atul Gawande, Being Mortal, Rufus Griscom, Caleb Bissinger
 - 2022-12-29 — FEELINGS: The Secret Power of Embracing Emotions at Work — speakers: Liz Fosslien, Mollie West Duffy, Susan Cain, Rufus Griscom, Caleb Bissinger
-- 2022-12-22 — SAPIENS: Yuval Noah Harari on Our Past, Present, and Future — speakers: Yuval Noah Harari, Homo Deus, David Wengrow, Jennifer Raff, Christopher Ryan, Ray Dalio, Jane McGonigal, Rufus Griscom, Caleb Bissinger
+- 2022-12-22 — SAPIENS: Yuval Noah Harari on Our Past, Present, and Future — speakers: Yuval Noah Harari, Homo Deus, David Wengrow, Jennifer Raff, Christopher Ryan, Ray Dalio, Jane McGonigal, Rufus Griscom
 - 2022-12-15 — ANALOG: Let’s Build a More Human World — speakers: David Sax, Rufus Griscom, Caleb Bissinger
 - 2022-12-08 — SLEEP: How Understanding Your Body’s Clock Can Revolutionize Your Health — speakers: Russell Foster, Rufus Griscom, Caleb Bissinger
 - 2022-12-01 — ANIMALS: They’re Smarter Than You Think — speakers: Alexandra Horowitz, James Bridle, Justin Gregg, Tom Mustill, Rufus Griscom, Caleb Bissinger
@@ -7765,7 +7748,7 @@
 - 2022-05-12 — GET IT DONE: How the Science of Motivation Can Help You Achieve Your Goals — speakers: Ayelet Fishbach, Daniel Pink, Rufus Griscom, Caleb Bissinger
 - 2022-05-08 — Bonus: The Not-So-Great Resignation (WorkLife with Adam Grant) — speakers: Adam Grant, Rufus Griscom, Caleb Bissinger
 - 2022-05-05 — FUN: How to Have More of It — speakers: Catherine Price, Catherine’s books courses, Rufus Griscom, Caleb Bissinger
-- 2022-04-28 — TWITTER: What Elon Musk’s Acquisition Means for the Future of Social Media — speakers: Elon Musk, Steven Johnson, Adjacent Possible, Jill Lepore, Rufus Griscom, Caleb Bissinger
+- 2022-04-28 — TWITTER: What Elon Musk’s Acquisition Means for the Future of Social Media — speakers: Steven Johnson, Adjacent Possible, Jill Lepore, Rufus Griscom, Caleb Bissinger
 - 2022-04-21 — EMOTIONAL: Do Your Feelings Make You Smarter? — speakers: Leonard Mlodinow, Annie Murphy Paul, Steven Pinker, Antonio Damasio, Extended Mind, Rufus Griscom, Caleb Bissinger
 - 2022-04-14 — ORIGIN: How Did Humans Migrate to the Americas? — speakers: Jennifer Raff, Rufus Griscom, Caleb Bissinger
 - 2022-04-07 — BITTERSWEET: Susan Cain on the Beauty of Sorrow and Longing — speakers: Susan Cain, Rufus Griscom, Caleb Bissinger
@@ -7774,7 +7757,7 @@
 - 2022-03-17 — HURT SO GOOD: The Pleasures of Suffering (Paul Bloom & Susan Cain) — speakers: Paul Bloom, Susan Cain, Rufus Griscom, Caleb Bissinger
 - 2022-03-10 — EMPIRE: Why Ray Dalio Thinks We May Be Headed for Civil War — speakers: Why Ray Dalio Thinks, Ray Dalio, Rufus Griscom, Caleb Bissinger
 - 2022-03-03 — TIME MANAGEMENT FOR MORTALS: Malcolm Gladwell and Oliver Burkeman — speakers: Malcolm Gladwell, Oliver Burkeman, Rufus Griscom, Caleb Bissinger
-- 2022-02-24 — EVENING ROCKET: Decoding Elon Musk’s Sci-Fi Visions of the Future — speakers: Elon Musk’s Sci-Fi Visions, Elon Musk, Jill Lepore, Rufus Griscom, Caleb Bissinger
+- 2022-02-24 — EVENING ROCKET: Decoding Elon Musk’s Sci-Fi Visions of the Future — speakers: Elon Musk’s Sci-Fi Visions, Jill Lepore, Rufus Griscom, Caleb Bissinger
 - 2022-01-12 — GOOD ANXIETY: Can You Turn Worrying Into a Superpower? — speakers: Wendy Suzuki, Lauren Miller Rogen, Seth Rogen, Rufus Griscom, Caleb Bissinger
 - 2022-01-05 — HACK YOUR HABITS: The Science of Making Changes That Stick — speakers: Wendy Wood, Adam Grant, Rufus Griscom, Caleb Bissinger
 - 2021-12-29 — TOGETHER: The Surgeon General’s Prescription for Health and Happiness — speakers: Vivek Murthy, Susan Cain, Rufus Griscom, Caleb Bissinger
@@ -7789,7 +7772,7 @@
 - 2021-10-27 — FEELING & KNOWING: Unlocking the Secrets of Consciousness — speakers: Antonio Damasio, Rufus Griscom, Caleb Bissinger
 - 2021-10-20 — Bonus: Adam Grant and Annie Murphy Paul — speakers: Adam Grant, Annie Murphy Paul, Malcolm Gladwell, Susan Cain, Daniel Pink, Rufus Griscom, Caleb Bissinger
 - 2021-10-13 — LAZINESS: There's No Such Thing — speakers: Devon Price, Rufus Griscom, Caleb Bissinger
-- 2021-10-06 — HOW TO CHANGE: Science-Backed Tips for Becoming Your Best Self (Katy Milkman & Daniel Pink) — speakers: Katy Milkman, Daniel Pink, Harry Potter, Rufus Griscom, Caleb Bissinger
+- 2021-10-06 — HOW TO CHANGE: Science-Backed Tips for Becoming Your Best Self (Katy Milkman & Daniel Pink) — speakers: Katy Milkman, Daniel Pink, Rufus Griscom, Caleb Bissinger
 - 2021-09-29 — RATIONALITY: Steven Pinker’s Love Song to Critical Thinking — speakers: Steven Pinker, Rufus Griscom, Caleb Bissinger
 - 2021-09-22 — LOONSHOTS: The Science of Generating Crazy Ideas (Safi Bahcall & Daniel Pink) — speakers: Safi Bahcall, Rufus Griscom, Caleb Bissinger
 - 2021-09-15 — DEADLINE EFFECT: Can You Work Like It's the Last Minute Before the Last Minute? — speakers: Christopher Cox, Rivka Galchen, Rufus Griscom, Caleb Bissinger

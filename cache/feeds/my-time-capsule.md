@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-02-20T15:53:04+00:00`
-- checked_at: `2026-02-20T15:53:04+00:00`
-- etag: `"djEuMi4wOjE3NzE1OTQzMTA0Mjk="`
+- fetched_at: `2026-02-23T03:19:38+00:00`
+- checked_at: `2026-02-23T03:19:38+00:00`
+- etag: `"djEuMi4wOjE3NzE4MDQ5NTkzOTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-02-20T15:53:04+00:00",
+  "fetched_at": "2026-02-23T03:19:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,37 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "084dbfd104c5c269562a42850049a1dd731e9042",
+      "title": "Ep. 564 - Neil Pearson - From Drop the Dead Donkey and all four Bridget Jones films",
+      "published_at": "2026-02-23T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-564-from-drop-the-dead-donkey-and-all-four-bridget-jones",
+      "description": "Neil Pearson is probably best known for his role as Dave Charnley in Drop the Dead Donkey and as Richard Fink in all four Bridget Jones films. He was nominated for the 1994 BAFTA for Best Actor for Between the Lines and some of his other television and film roles include All the Small Things, Waterloo Road, In the Club ad Fever Pitch with Colin Firth . Neil Pearson is our guest in episode 564 of My Time Capsule and chats to Michael Fenton Stevens about the five things he'd like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Neil Person’s rare books website - https://www.neilpearsonrarebooks.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6998622468ec8626d2fd6340/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "170572193",
+      "itunes_duration": "1:11:04",
+      "speakers": [
+        "Neil Pearson",
+        "Dave Charnley",
+        "Richard Fink",
+        "Waterloo Road",
+        "Colin Firth",
+        "Michael Fenton Stevens",
+        "Neil Person",
+        "John Fenton-Stevens"
+      ],
+      "topics": [
+        "neil",
+        "pearson",
+        "dead",
+        "donkey",
+        "bridget",
+        "jones",
+        "film"
+      ]
+    },
     {
       "key": "d8ba78b55fe1d93d1e3d1cce78d88a74fa436024",
       "title": "Ep. 563 - Daisy Doris May - Award winning drag king, writer and performer",
@@ -583,7 +614,6 @@
       "itunes_duration": "1:36:28",
       "speakers": [
         "George Cartrick",
-        "Ted Lasso",
         "Bill Fellows",
         "Stu Carpenter",
         "Alan Partridge",
@@ -2373,7 +2403,6 @@
       "speakers": [
         "Jess Robinson",
         "Jim Cartwright",
-        "Albert Hall",
         "Hammersmith Apollo",
         "Michael Fenton Stevens",
         "Jess’s Elton",
@@ -2396,7 +2425,6 @@
       "enclosure_length": "46805598",
       "itunes_duration": "39:00",
       "speakers": [
-        "Donald Trump",
         "Michael Fenton Stevens",
         "John Fenton-Stevens"
       ],
@@ -4349,7 +4377,6 @@
       "enclosure_length": "87457875",
       "itunes_duration": "1:12:52",
       "speakers": [
-        "Harry Potter",
         "Miss Scarlet",
         "Richard Osman",
         "Jon Richardson’s Ultimate",
@@ -4628,7 +4655,6 @@
       "itunes_duration": "49:59",
       "speakers": [
         "Tom Baldwin",
-        "Keir Starmer",
         "Ed Miliband",
         "Best Seller",
         "Michael Fenton Stevens",
@@ -4768,7 +4794,6 @@
       "enclosure_length": "59866299",
       "itunes_duration": "49:53",
       "speakers": [
-        "Ted Lasso",
         "Margaret Blaine",
         "Mrs Glenna Fitzgibbons",
         "Babe Smith",
@@ -5011,7 +5036,6 @@
         "Comedian Simon Brodkin",
         "Lee Nelson",
         "Teressa May",
-        "Donald Trump",
         "Hammersmith Apollo",
         "Simon Brodkin",
         "Michael Fenton Stevens",
@@ -5081,7 +5105,6 @@
       "speakers": [
         "Luke Kempner",
         "Monsieur Thenardier",
-        "King Charles",
         "Harry Styles",
         "Ed Sheeran",
         "Jurgen Klopp",
@@ -5224,7 +5247,6 @@
         "Anakin Skywalker",
         "Steve Wright",
         "Jeremy Vine",
-        "Donald Trump",
         "Paul McCartney",
         "Draco Malfoy",
         "Albus Dumbledore",
@@ -6540,7 +6562,6 @@
       "itunes_duration": "1:16:49",
       "speakers": [
         "Jon Harvey",
-        "Boris Johnson",
         "John Oliver",
         "Comic Relief",
         "Steph McGovern",
@@ -7412,10 +7433,6 @@
         "Jon Richardson Grows",
         "Al Murray",
         "Sean Foley",
-        "Donald Trump",
-        "Boris Johnson",
-        "Keir Starmer",
-        "Tony Blair",
         "Michael Heseltine"
       ],
       "topics": [
@@ -7566,7 +7583,6 @@
         "James Cooper",
         "Alice Levine",
         "Rocky Flintstone",
-        "Albert Hall",
         "Michael Fenton Stevens",
         "John Fenton-Stevens"
       ],
@@ -7829,7 +7845,6 @@
         "Sarah Solemani",
         "Joe Wilkinson",
         "Reggie Perrin",
-        "Ted Lasso",
         "Finding Joy Murder",
         "Jack Absolute",
         "Kerry Howard",
@@ -8606,7 +8621,6 @@
       "itunes_duration": "52:13",
       "speakers": [
         "Patrick Stevens",
-        "Keir Starmer",
         "Michael Fenton Stevens",
         "Follow Patrick Stevens",
         "John Fenton-Stevens"
@@ -8652,7 +8666,6 @@
       "enclosure_length": "55750446",
       "itunes_duration": "46:27",
       "speakers": [
-        "Liz Truss",
         "Best Newcomer",
         "Richard Thomas",
         "Jerry Springer",
@@ -8747,7 +8760,6 @@
       "itunes_duration": "52:10",
       "speakers": [
         "Lloyd Griffith",
-        "Ted Lasso",
         "Jonathan Ross",
         "Drunk History",
         "St George’s Chapel",
@@ -8849,7 +8861,6 @@
       "speakers": [
         "Charlie Baker",
         "Harry Hill",
-        "Tony Blair",
         "Richard Bacon",
         "Richard Osman",
         "Michael Fenton Stevens",
@@ -10095,7 +10106,6 @@
       "itunes_duration": "1:22:34",
       "speakers": [
         "My Mouth",
-        "Albert Hall",
         "Brendan O'Connor",
         "Stephen Fry",
         "Russel Howard",
@@ -10590,7 +10600,6 @@
         "Jonny Weldon",
         "Tracy-Ann Oberman",
         "John Challis",
-        "Ted Lasso",
         "Nick Mohammed",
         "Hannah Waddingham",
         "Ricky Gervais",
@@ -10986,7 +10995,6 @@
       "enclosure_length": "53272471",
       "itunes_duration": "44:23",
       "speakers": [
-        "Harry Potter",
         "Michael Fenton Stevens",
         "John Fenton-Stevens",
         "Matthew Boxall",
@@ -11871,7 +11879,6 @@
       "speakers": [
         "Jeremy Swift",
         "Leslie Higgins",
-        "Ted Lasso",
         "Septimus Spratt",
         "Maggie Smith",
         "Mary Poppins Returns",
@@ -13275,7 +13282,6 @@
       "speakers": [
         "David Archer",
         "Tim Bentinck",
-        "James Bond",
         "Gérard Depardieu",
         "Chow Yung Fat",
         "Hidden Dragon",
@@ -15082,6 +15088,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — Ep. 564 - Neil Pearson - From Drop the Dead Donkey and all four Bridget Jones films — speakers: Neil Pearson, Dave Charnley, Richard Fink, Waterloo Road, Colin Firth, Michael Fenton Stevens, Neil Person, John Fenton-Stevens
 - 2026-02-20 — Ep. 563 - Daisy Doris May - Award winning drag king, writer and performer — speakers: Daisy Doris May, Steve Porters, Catherine Tate, Hannah Gadsby, Drag King, Michael Fenton Stevens, Follow Daisy Doris May, John Fenton-Stevens
 - 2026-02-16 — Ep. 562 - Dara Ó Briain Unedited - One of the UK and Ireland’s most successful comedians — speakers: Ed Byrne, Rory McGrath, Michael Fenton Stevens, John Fenton-Stevens
 - 2026-02-13 — Ep. 561 - Nicky Hambleton-Jones - The host of Channel 4’s makeover series 10 Years Younger — speakers: Nicky Hambleton-Jones, Michael Fenton Stevens, John Fenton-Stevens
@@ -15101,7 +15108,7 @@
 - 2025-12-19 — My Christmas Time Capsule - Best Of - Part 2 — speakers: Jason Manford, Fern Britton, Les Dennis, Lucy Porter, Arthur Smith, Tony Hawks, Mark Watson, JIm Howick
 - 2025-12-15 — My Christmas Time Capsule - Best Of - Part 1 — speakers: Stephen Fry, Jan Ravens, Andrew Hunter Murray, Emma Kennedy, John O'Farrel, Joe Pasquale, Cheryl Baker, Ted Robbins
 - 2025-12-12 — Ep. 549 - Logan Mersh - From A Knock at the Door with Alan Davies and Nikki Amuka-Bird — speakers: Alan Davies, Logan Mersh, Rose Bruford, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-12-08 — Ep. 548 - Bill Fellows - Stu Carpenter in Coronation Street & George Cartrick in Ted Lasso — speakers: George Cartrick, Ted Lasso, Bill Fellows, Stu Carpenter, Alan Partridge, Steve Coogan, Julia Ormond, Mark Williams
+- 2025-12-08 — Ep. 548 - Bill Fellows - Stu Carpenter in Coronation Street & George Cartrick in Ted Lasso — speakers: George Cartrick, Bill Fellows, Stu Carpenter, Alan Partridge, Steve Coogan, Julia Ormond, Mark Williams
 - 2025-12-05 — Ep. 547 - Eli Hart - BBC New Comedy Award 2025 winner — speakers: Michael Fenton Stevens, John Fenton-Stevens
 - 2025-12-01 — Ep. 546 - Michael Elwyn - Actor from House of Dragon, Robin Hood and The Audience with Hellen Mirren — speakers: Robin Hood, Hellen Mirren Michael Elwyn, Simon Staunton, Charles Moore, Anthony Eden, Peter Morgan, Stephen Daldry, Hellen Mirren
 - 2025-11-28 — The Battle of Life by Charles Dickens - Part 3 — speakers: Michael Fenton Stevens, Charles Dickens, John Fenton-Stevens
@@ -15173,8 +15180,8 @@
 - 2025-04-13 — Ep. 483 - Jessica Martin — speakers: Jessica Martin Jessica Martin, Gary Wilmot, Nellie Forbush, Mrs Lovett, Norma Desmond, Jessica Martin, Michael Fenton Stevens, Follow Jess Robinson
 - 2025-04-10 — Ep. 482 - Natty (Mike's Grandson) — speakers: Chatty Natty, Michael Fenton Stevens, John Fenton-Stevens
 - 2025-04-06 — Ep. 481 - Ignacio Lopez — speakers: Ignacio Lopez, Celebrity Mastermind, Richard Osman, James Dean Bradfield, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-04-03 — Ep. 480 - Jess Robinson — speakers: Jess Robinson, Jim Cartwright, Albert Hall, Hammersmith Apollo, Michael Fenton Stevens, Jess’s Elton, John Fenton-Stevens
-- 2025-03-31 — Ep. 479 - Donald Trump — speakers: Donald Trump, Michael Fenton Stevens, John Fenton-Stevens
+- 2025-04-03 — Ep. 480 - Jess Robinson — speakers: Jess Robinson, Jim Cartwright, Hammersmith Apollo, Michael Fenton Stevens, Jess’s Elton, John Fenton-Stevens
+- 2025-03-31 — Ep. 479 - Donald Trump — speakers: Michael Fenton Stevens, John Fenton-Stevens
 - 2025-03-30 — Ep. 478 - Kevin Cummins — speakers: Kevin Cummins, Ian Curtis, Iggy Pop, Debbie Harry, Bob Marley, Patti Smith, Helen Mirren, Ralph Fiennes
 - 2025-03-28 — Ep. 477 - Alexis Dubus AKA Marcel Lucont — speakers: Mervyn Stutter, Ricky Gervais, Nathan Barley, Garth Marenghi, Michael Fenton Stevens, Marcel Lucont, John Fenton-Stevens
 - 2025-03-24 — Ep. 476 - Kris Marshall — speakers: Kris Marshall, Nick Harper, DI Humphrey Goodman, Jeremy Irons, Ralph Finnes, Citizen Khan, Michael Fenton Stevens, John Fenton-Stevens
@@ -15256,7 +15263,7 @@
 - 2024-07-21 — Ep. 406 - Colin Hoult — speakers: Colin Hoult, Ricky Gervais, Alan Partridge, Being Human, Anna Mann, Michael Fenton Stevens, Colin Hoult’s Edinburgh, John Fenton-Stevens
 - 2024-07-18 — Ep. 405 - Garrett Millerick — speakers: Garrett Millerick, Comedy Pick, Jack Dee, Meera Syal, Michael Fenton Stevens, Garrett Millerick’s Edinburgh, John Fenton-Stevens
 - 2024-07-16 — Ep. 404 - Chloe Radcliffe — speakers: Chloe Radcliffe, Steven Soderbergh, Michael Cera, Taylor Tomlinson, Michael Fenton Stevens, Chloe Radcliffe’s Edinburgh, John Fenton-Stevens
-- 2024-07-14 — Ep. 403 - Jessie Cave — speakers: Harry Potter, Miss Scarlet, Richard Osman, Jon Richardson’s Ultimate, Jessie Cave, Michael Fenton Stevens, Jessie Cave’s Edinburgh, John Fenton-Stevens
+- 2024-07-14 — Ep. 403 - Jessie Cave — speakers: Miss Scarlet, Richard Osman, Jon Richardson’s Ultimate, Jessie Cave, Michael Fenton Stevens, Jessie Cave’s Edinburgh, John Fenton-Stevens
 - 2024-07-12 — Ep. 402 - Steve Bugeja — speakers: Steve Bugeja, Howard Hour, Russell Howard’s Stand, Zoe Ball, Michael Fenton Stevens, Steve’s Edinburgh, John Fenton-Stevens
 - 2024-07-09 — Ep. 401 - Spring Day — speakers: Disability Extravaganza, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-07-04 — Ep. 400 - Jason Manford — speakers: Jason Manford, Sweeney Todd, Chitty Chitty Bang Bang, Michael Fenton Stevens, John Fenton-Stevens
@@ -15268,13 +15275,13 @@
 - 2024-06-13 — Ep. 394 - Dr Benji Waterhouse — speakers: Benji Waterhouse, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-06-10 — Ep. 393 - James O’Brien — speakers: James O’Brien, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-06-06 — Ep. 392 - Ali Woods — speakers: Ali Woods, Russell Kane, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-06-02 — Ep. 391 - Tom Baldwin — speakers: Tom Baldwin, Keir Starmer, Ed Miliband, Best Seller, Michael Fenton Stevens, John Fenton-Stevens
+- 2024-06-02 — Ep. 391 - Tom Baldwin — speakers: Tom Baldwin, Ed Miliband, Best Seller, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-05-30 — Ep. 390 - Alex Kealy — speakers: Alex Kealy, Ivo Graham, Ed Gamble, Phil Wang, Lou Sanders, Tom Rosenthal, Shaparak Khorsandi, Michael Fenton Stevens
 - 2024-05-26 — Ep. 389 - Sonali Shah — speakers: Sonali Shah, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-05-23 — Ep. 388 - Dr Helen Fry — speakers: Helen Fry Dr, Helen Fry, Thomas Joseph Kendrick, David Jason’s Secret Service, Dr Helen Fry, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-05-19 — Ep. 387 - Rob Deering — speakers: Rob Deering, Celebrity Mastermind, Paul Tonkinson, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-05-16 — Ep. 386 - Toby Hadoke — speakers: Sarah Millican, Justin Moorhouse, Gary Delaney, Moths Ate My Doctor, Toby Hadoke, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-12 — Ep. 385 - Annette Badland — speakers: Ted Lasso, Margaret Blaine, Mrs Glenna Fitzgibbons, Babe Smith, Fleur Perkins, Annette Badland, Michael Fenton Stevens, John Fenton-Stevens
+- 2024-05-12 — Ep. 385 - Annette Badland — speakers: Margaret Blaine, Mrs Glenna Fitzgibbons, Babe Smith, Fleur Perkins, Annette Badland, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-05-09 — Ep. 384 - Paul Hendy — speakers: Paul Hendy, Davina McCall, Emily Wood, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-05-05 — Ep. 383 - Michelle Brasier — speakers: Michelle Brasier, Koala Man, Hugh Jackman, Sarah Snook, Shaun Micallef, Aunty Donna, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-05-02 — Ep. 382 - Sam Lake — speakers: Sam Lake, Hastings Fringe Newcomer, Tom Allen, Edinburgh Fringe, Michael Fenton Stevens, Follow Sam Lake, John Fenton-Stevens
@@ -15284,16 +15291,16 @@
 - 2024-04-18 — Ep. 378 - Carol Drinkwater — speakers: Carol Drinkwater, Helen Herriot, Laurence Olivier, Hugh Grant, Alan Rickman, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-04-14 — Ep. 377 - Professor Chris Lintott — speakers: Chris Lintott, Patrick Moore, Brian May, Michael Fenton Stevens, Twitter chrislintott, John Fenton-Stevens
 - 2024-04-11 — Ep. 376 - Nick Newman — speakers: Nick Newman, Ian Hislop, Most Horrid, Tim Nice-But-Dim, Burt Reynolds, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-04-07 — Ep. 375 - Simon Brodkin — speakers: Comedian Simon Brodkin, Lee Nelson, Teressa May, Donald Trump, Hammersmith Apollo, Simon Brodkin, Michael Fenton Stevens, John Fenton-Stevens
+- 2024-04-07 — Ep. 375 - Simon Brodkin — speakers: Comedian Simon Brodkin, Lee Nelson, Teressa May, Hammersmith Apollo, Simon Brodkin, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-04-04 — Ep. 374 - Ann Bryson — speakers: Ann Bryson Ann Bryson, Sara Crowe, Ann Bryson, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-04-01 — Ep. 373 - Maisie Adam — speakers: Maisie Adam, Best Newcomer, Suzi Ruffell, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-03-29 — Ep. 372 - Luke Kempner — speakers: Luke Kempner, Monsieur Thenardier, King Charles, Harry Styles, Ed Sheeran, Jurgen Klopp, Steph’s Packed Lunch, Luke Kempner’s Impression
+- 2024-03-29 — Ep. 372 - Luke Kempner — speakers: Luke Kempner, Monsieur Thenardier, Harry Styles, Ed Sheeran, Jurgen Klopp, Steph’s Packed Lunch, Luke Kempner’s Impression
 - 2024-03-25 — Ep. 371 - Richard Talman — speakers: Richard Talman, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-03-22 — Ep. 370 - Liam Withnail — speakers: Liam Withnail, Socially Distant, Susan Calman, Scot Squad, Edinburgh Fringe, Michael Fenton Stevens, Follow Liam Withnail, John Fenton-Stevens
 - 2024-03-18 — Ep. 369 - Tom Shakespeare CBE — speakers: Tom Shakespeare Cbe, Tom Shakespeare, Michael Fenton Stevens, Twitter TommyShakes, John Fenton-Stevens
 - 2024-03-15 — Ep. 368 - Professor Sophie Scott — speakers: Sophie Scott, Monkey Cage, Jimmy Carr, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-03-11 — Ep. 367 - Jon Holmes — speakers: Jon Holmes, Virgin Radio, Dead Ringers, Armando Iannucci, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-03-08 — Ep. 366 - Lewis MacLeod — speakers: Anakin Skywalker, Steve Wright, Jeremy Vine, Donald Trump, Paul McCartney, Draco Malfoy, Albus Dumbledore, Fred Weasley
+- 2024-03-08 — Ep. 366 - Lewis MacLeod — speakers: Anakin Skywalker, Steve Wright, Jeremy Vine, Paul McCartney, Draco Malfoy, Albus Dumbledore, Fred Weasley
 - 2024-03-04 — Ep. 365 - Jess Conrad — speakers: Jess Conrad, Jack Goode, Michael Fenton Stevens, John Fenton-Stevens
 - 2024-03-01 — Ep. 364 - Huge Davies — speakers: Harry Hill, Roast Battle, Jools Holland, Jonathan Ross, Comedy Club, Phil Wang, Joe Lycett, Nick Helm
 - 2024-02-26 — Ep. 363 - Greg Jenner — speakers: Homeschool History, Rotten Romans, Corpse Talk, Phil Ellis, Michael Fenton Stevens, Greg Jenner, Follow Greg Jenner, John Fenton-Stevens
@@ -15348,7 +15355,7 @@
 - 2023-09-14 — Ep. 322 - Nooruddean Choudry — speakers: Nooruddean Choudry, Inshallah United, Manchester United fan, Hywel Roberts, Michael Fenton Stevens, Follow Nooruddean Choudry, John Fenton-Stevens
 - 2023-09-10 — Ep. 321 - Lizzie Webb — speakers: Lizzie Webb, Jane Fonda, Joggy Bear, Michael Fenton Stevens, Buy Lizzie, John Fenton-Stevens
 - 2023-09-07 — Ep. 320 - Hywel Roberts — speakers: Hywel Roberts, Learn Accidentally, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-09-03 — Ep. 319 - Jon Harvey AKA Count Binface — speakers: Jon Harvey, Boris Johnson, John Oliver, Comic Relief, Steph McGovern, Joseph Morpurgo, Rob Newman, Michael Fenton Stevens
+- 2023-09-03 — Ep. 319 - Jon Harvey AKA Count Binface — speakers: Jon Harvey, John Oliver, Comic Relief, Steph McGovern, Joseph Morpurgo, Rob Newman, Michael Fenton Stevens
 - 2023-08-31 — Ep. 318 - George Layton — speakers: George Layton, Paul Collier, Jonathan Lynn, Nigel Havers, Tony Britton, Geoffrey Palmer, Penelope Keith, Michael Fenton Stevens
 - 2023-08-27 — Ep. 317 - Alasdair Beckett-King — speakers: Leicester Mercury, Alasdair Beckett-King, Michael Fenton Stevens, Cab Calloway St, Follow Alasdair Beckett-King, John Fenton-Stevens
 - 2023-08-24 — The Debrief - Ep. 1 - Acast+ Preview — speakers: Michael Fenton Stevens, John Fenton-Stevens
@@ -15384,13 +15391,13 @@
 - 2023-05-11 — Ep. 287 - Amanda Wakeley — speakers: Amanda Wakeley, Harvey Nichols, Elizabeth Hurley, Jennifer Lopez, Queen Rania, Jasmin Le Bon, Elaine Page, James Blunt
 - 2023-05-07 — Ep. 286 - Matthew Crosby — speakers: Matthew Crosby, Matthew Crosby Show, James Acaster, Noel Fielding, Bradley Walsh, Richard Ayoade, Matt Lucas, Sara Pascoe
 - 2023-05-04 — Ep. 285 - Ria Lina — speakers: Michael Fenton Stevens, Follow Ria Lina, John Fenton-Stevens
-- 2023-04-30 — Ep. 284 - Matt Forde — speakers: Jon Richardson Grows, Al Murray, Sean Foley, Donald Trump, Boris Johnson, Keir Starmer, Tony Blair, Michael Heseltine
+- 2023-04-30 — Ep. 284 - Matt Forde — speakers: Jon Richardson Grows, Al Murray, Sean Foley, Michael Heseltine
 - 2023-04-27 — Ep. 283 - Bilal Zafar — speakers: Best Newcomer, Emma Thompson, Emilia Clarke, Henry Golding, Bilal Zafar, Michael Fenton Stevens, John Fenton-Stevens
 - 2023-04-23 — Ep. 282 - David Morrissey (Live at Ink Festival) — speakers: David Morrissey, Good Omens, John Lennon, Corelli’s Mandolin, Michael Fenton Stevens, John Fenton-Stevens
 - 2023-04-20 — Ep. 281 - Gabrielle Glaister — speakers: Gabrielle Glaister, Patricia Farnham, Trish Wallace, Hilary Benshaw, Roger Daltrey, Chesney Hawks, Michael Fenton Stevens, John Fenton-Stevens
 - 2023-04-16 — Ep. 280 - Jon Ronson — speakers: Jon Ronson, George Clooney, Michael Fassbender, Frank Sidebottom, Michael Fenton Stevens, Jon Ronson’s Audible, Follow Jon Ronson, John Fenton-Stevens
 - 2023-04-13 — Ep. 279 - Mina Anwar — speakers: Maggie Habib, Ben Elton, Rowan Atkinson, Matt Lucas, Upstart Crow, Marley’s Ghost, Mina Anwar, Michael Fenton Stevens
-- 2023-04-09 — Ep. 278 - Jamie Morton (My Dad Wrote A Porno) — speakers: Jamie Morton, James Cooper, Alice Levine, Rocky Flintstone, Albert Hall, Michael Fenton Stevens, John Fenton-Stevens
+- 2023-04-09 — Ep. 278 - Jamie Morton (My Dad Wrote A Porno) — speakers: Jamie Morton, James Cooper, Alice Levine, Rocky Flintstone, Michael Fenton Stevens, John Fenton-Stevens
 - 2023-04-06 — Ep. 277 - Gordon Kennedy — speakers: Gordon Kennedy, Gordon co-hosted, Anthea Turner, Little John, Robin Hood, Sergeant Bruce Hornsby, Red Cap, Stressed Eric
 - 2023-04-02 — Ep. 276 - Iain Lee — speakers: Ricky Gervais, Thumb Bandits, Celebrity Soup, Michael Fenton Stevens, John Fenton-Stevens
 - 2023-03-30 — Ep. 275 - John Archer — speakers: John Archer, Tim Vine Travels, Tim Vine, Michael Fenton Stevens, John Fenton-Stevens
@@ -15401,7 +15408,7 @@
 - 2023-03-13 — Ep. 270 - David Earl — speakers: David Earl David Earl, Brian Gittens, Ricky Gervais, Joe Wilkinson, David Earl, Michael Fenton Stevens, John Fenton-Stevens
 - 2023-03-10 — Ep. 269 - Sian Reese-Williams — speakers: Sian Reese-Williams, Cadi John, Michael Fenton Stevens, John Fenton-Stevens
 - 2023-03-06 — Ep. 268 - Zoe Lyons — speakers: Alan Davies, Celebrity Mastermind, Michael McIntyre Roadshow, Zoe Lyons, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-03-03 — Ep. 267 - Kerry Howard — speakers: Sarah Solemani, Joe Wilkinson, Reggie Perrin, Ted Lasso, Finding Joy Murder, Jack Absolute, Kerry Howard, Michael Fenton Stevens
+- 2023-03-03 — Ep. 267 - Kerry Howard — speakers: Sarah Solemani, Joe Wilkinson, Reggie Perrin, Finding Joy Murder, Jack Absolute, Kerry Howard, Michael Fenton Stevens
 - 2023-02-27 — Ep. 266 - Tom Read Wilson — speakers: Tom Read Wilson Actor, Tom Read Wilson, Celebrity Mastermind, Michael Macintyre, Michael Fenton Stevens, John Fenton-Stevens
 - 2023-02-24 — Ep. 265 - Steve Steen — speakers: Jim Sweeney, Little Armadillos, Ben Elton, Bill Bryson, John Belushi, Charles Dickens, Paul Merton, Stephen Frost
 - 2023-02-20 — Ep. 264 - Gordon Buchanan — speakers: Gordon Buchanan, Snow Wolves, Michael Fenton Stevens, John Fenton-Stevens
@@ -15432,17 +15439,17 @@
 - 2022-12-12 — Ep. 249 - Rick Edwards — speakers: Rick Edwards, Rachel Burden, Jameela Jamil, Nick Grimshaw, Michael Brooks, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-12-09 — Ep. 248 - Olly Mann — speakers: Helen Zaltzman, Michael Fenton Stevens, Twitter OllyMann, John Fenton-Stevens
 - 2022-12-05 — Ep. 247 - Dirk Maggs — speakers: Steven Spielberg, Hitchhikers Guide, David Duchovny, Gillian Anderson, Stephen Baxter’s Voyage, Neil Gaiman, Terry Pratchett, Anansi Boys
-- 2022-12-02 — Ep. 246 - Patrick Stevens — speakers: Patrick Stevens, Keir Starmer, Michael Fenton Stevens, Follow Patrick Stevens, John Fenton-Stevens
+- 2022-12-02 — Ep. 246 - Patrick Stevens — speakers: Patrick Stevens, Michael Fenton Stevens, Follow Patrick Stevens, John Fenton-Stevens
 - 2022-11-28 — Ep. 245 - Joe Wilkinson — speakers: Joe Wilkinson Comedian, Joe Wilkinson, Ricky Gervais, David Earle, Michael Fenton Stevens, Follow Joe Wilkinson, John Fenton-Stevens
-- 2022-11-25 — Ep. 244 - Sooz Kempner — speakers: Liz Truss, Best Newcomer, Richard Thomas, Jerry Springer, Michael Fenton Stevens, John Fenton-Stevens
+- 2022-11-25 — Ep. 244 - Sooz Kempner — speakers: Best Newcomer, Richard Thomas, Jerry Springer, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-11-21 — Ep. 243 - Hugh Dennis — speakers: Hugh Dennis, Lee Mack, Steve Punt, David Baddiel, Rob Newman, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-11-18 — Ep. 242 - Sian Berry — speakers: Sian Berry, Jonathan Bartley, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-11-14 — Ep. 241 - Sophie Aldred — speakers: Sylvester McCoy, Jodie Whittaker, Peter Rabbit, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-11-11 — Ep. 240 - Lloyd Griffith — speakers: Lloyd Griffith, Ted Lasso, Jonathan Ross, Drunk History, St George’s Chapel, Michael Fenton Stevens, Follow Lloyd Griffith, John Fenton-Stevens
+- 2022-11-11 — Ep. 240 - Lloyd Griffith — speakers: Lloyd Griffith, Jonathan Ross, Drunk History, St George’s Chapel, Michael Fenton Stevens, Follow Lloyd Griffith, John Fenton-Stevens
 - 2022-11-07 — Ep. 239 - Jon Culshaw — speakers: Jon Culshaw, Dead Ringers, Debra Stephenson, Jonathan Ross, Head Cases, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-11-04 — Ep. 238 - Lizzie Roper — speakers: Lizzie Roper Lizzie Roper, Sam Lomax, Ben Miller, Sarah Alexander, Alison Steadman, Geoffrey Whitehead, Waterloo Road, Boy Meets Girl
 - 2022-10-31 — Ep. 237 - Danny Robins — speakers: Danny Robins, Dafne Keen, Joseph Fiennes, Alexandra Roach, Lily Allen, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-10-27 — Ep. 236 - Charlie Baker — speakers: Charlie Baker, Harry Hill, Tony Blair, Richard Bacon, Richard Osman, Michael Fenton Stevens, John Fenton-Stevens
+- 2022-10-27 — Ep. 236 - Charlie Baker — speakers: Charlie Baker, Harry Hill, Richard Bacon, Richard Osman, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-10-23 — Ep. 235 - Rob Rouse — speakers: Rob Rouse, Ben Elton, Upstart Crow, William Shakespeare, David Mitchell, Harry Enfield, Mark Heap, Liza Tarbuck
 - 2022-10-20 — Ep. 234 - Gary Sinyor — speakers: Gary Sinyor, Chris O'Donnell, Renée Zellweger, David Frost, Tom Greene, Brooke Shields, Dexter Fletcher, Linda Hamilton
 - 2022-10-16 — Ep. 233 - James Dreyfus — speakers: James Dreyfus, Rowan Atkinson, Kathy Burke, Hugh Grant, Bette Midler, Michael Fenton Stevens, John Fenton-Stevens
@@ -15493,7 +15500,7 @@
 - 2022-05-19 — Ep. 191 - Bobby Crush — speakers: Bobby Crush, Jack Jones, Vic Damone, Julie Andrews, Billy Flynn, Keith Harris, Michael Fenton Stevens, Follow Bobby Crush
 - 2022-05-15 — Ep. 190 - Jenny Seagrove — speakers: Jenny Seagrove, Rupert Everett, Tommy Lee Jones, Michael Caine, Roger Moore, Anthony Hopkins, Jeremy Irons, Peter Ustinov
 - 2022-05-12 — Ep. 189 - Sara Crowe — speakers: Sara Crowe, Tony Hawks, Queen Thistle, Harry Enfield, Acorn Antiques, Alan Ayckbourn, Martini Henry, Michael Fenton Stevens
-- 2022-05-08 — Ep. 188 - Jess Thom AKA Touretteshero — speakers: My Mouth, Albert Hall, Brendan O'Connor, Stephen Fry, Russel Howard, Michael Fenton Stevens, John Fenton-Stevens
+- 2022-05-08 — Ep. 188 - Jess Thom AKA Touretteshero — speakers: My Mouth, Brendan O'Connor, Stephen Fry, Russel Howard, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-05-05 — Ep. 187 - Finty Williams — speakers: Finty Williams, Mrs Brown, Judi Dench, Michael Williams, Doc Martin, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-05-01 — Ep. 186 - Jeremy Dyson — speakers: Jeremy Dyson, Mark Gatiss, Steve Pemberton, Reece Shearsmith, Andy Nyman, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-04-28 — Ep. 185 - My Listeners Time Capsule - Part 2 — speakers: Paul Robinson, Martin Richardson, Tim Easton, Michael Fenton Stevens, John Fenton-Stevens
@@ -15513,7 +15520,7 @@
 - 2022-03-14 — Ep. 172 - Danny John-Jules — speakers: Danny John-Jules Danny John-Jules, Dwayne Myers, Maid Marian, Danny John-Jules, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
 - 2022-03-11 — Ep. 171 - Catherine Russell — speakers: Catherine Russell Catherine Russell, Serena Campbell, Agatha Christie, Mamma Mia, Alan Bennett, Habeas Corpus, Patrick Marber, Catherine Russell
 - 2022-03-07 — Ep. 170 - Dara Ó Briain — speakers: Ed Byrne, Rory McGrath, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-03-04 — Ep. 169 - Jonny Weldon — speakers: Jonny Weldon, Tracy-Ann Oberman, John Challis, Ted Lasso, Nick Mohammed, Hannah Waddingham, Ricky Gervais, Michael Fenton Stevens
+- 2022-03-04 — Ep. 169 - Jonny Weldon — speakers: Jonny Weldon, Tracy-Ann Oberman, John Challis, Nick Mohammed, Hannah Waddingham, Ricky Gervais, Michael Fenton Stevens
 - 2022-02-28 — Ep. 168 - Tim Healy — speakers: Tim Healy, Dennis Patterson, Auf Wiedersehen, David Jason, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
 - 2022-02-25 — Ep. 167 - Kathleen Rose Perkins — speakers: Kathleen Rose Perkins, Carol Rance, Matt LeBlanc, Tamsin Greig, Stephen Mangan, Ballot Monkeys, Michael Fenton Stevens, John Fenton-Stevens
 - 2022-02-21 — Ep. 166 - Sarah Greene — speakers: Sarah Greene, Blue Peter, Mike Read, Phillip Schofield, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
@@ -15529,7 +15536,7 @@
 - 2022-01-17 — Ep. 156 - Graham Fellows — speakers: Graham Fellows, John Shuttleworth, Jilted John, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
 - 2022-01-14 — Ep. 155 - Robin Windsor — speakers: Robin Windsor, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
 - 2022-01-10 — Ep. 154 - Scroobius Pip — speakers: Scroobius Pip, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2022-01-07 — Ep. 153 - Freddie 'Parrot-Face' Davies — speakers: Harry Potter, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
+- 2022-01-07 — Ep. 153 - Freddie 'Parrot-Face' Davies — speakers: Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-12-31 — Best Of My Time Capsule 2021 - Part 3 — speakers: Nick Knowles, Anna Chancellor, Alan Davies, Adam Wide, Paul Bradley, Ed Byrne, Chris Lang, Angela Barnes
 - 2021-12-30 — Best Of My Time Capsule 2021 - Part 2 — speakers: Elis James, Mark Thomas, Simon Evans, Emma Kennedy, Gary Wilmot, Jo Caulfield, Ken Bruce, Romola Garai
 - 2021-12-29 — Best Of My Time Capsule 2021 - Part 1 — speakers: Ross Noble, Mark Steel, Rob Brydon, Shaparak Khorsandi, John O'Farrell, Paterson Joseph, Josie Long, Les Dennis
@@ -15564,7 +15571,7 @@
 - 2021-09-30 — Ep. 131 - Rhys James — speakers: Roast Battle, Russell Howard’s Stand, Rhys James, Michael Fenton Stevens, Follow Rhys James, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-09-26 — Ep. 130 - Richard Wilson — speakers: Richard Wilson, Victor Meldrew, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-09-23 — Ep. 129 - Sanjeev Kohli — speakers: Sanjeev Kohli Sanjeev Kohli, Navid Harrid, Sanjeev Kohli, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-19 — Ep. 128 - Jeremy Swift — speakers: Jeremy Swift, Leslie Higgins, Ted Lasso, Septimus Spratt, Maggie Smith, Mary Poppins Returns, Michael Fenton Stevens, John Fenton-Stevens
+- 2021-09-19 — Ep. 128 - Jeremy Swift — speakers: Jeremy Swift, Leslie Higgins, Septimus Spratt, Maggie Smith, Mary Poppins Returns, Michael Fenton Stevens, John Fenton-Stevens
 - 2021-09-16 — Ep. 127 - Colin Sell — speakers: Colin Sell, Willie Rushton, Barrie Cryer, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-09-12 — Ep. 126 - Tony Slattery — speakers: Tony Slattery, Stephen Fry, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-09-09 — Ep. 125 - David Quantick — speakers: David Quantick, Harry Hill, Brass Eye, Chris Morris, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
@@ -15620,7 +15627,7 @@
 - 2021-03-22 — Ep. 76 - Seann Walsh — speakers: Seann Walsh, Comedian Seann Walsh, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-03-19 — Ep. 75 - Aurora Burghart — speakers: Aurora Burghart, David Tennant, Jessica Hynes, Michael Fenton Stevens, Follow Aurora Burghart, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-03-15 — Ep. 74 - Mark Watson — speakers: Mark Watson, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-03-12 — Ep. 73 - Tim Bentinck — speakers: David Archer, Tim Bentinck, James Bond, Gérard Depardieu, Chow Yung Fat, Hidden Dragon, Michael Fenton Stevens, Being David Archer
+- 2021-03-12 — Ep. 73 - Tim Bentinck — speakers: David Archer, Tim Bentinck, Gérard Depardieu, Chow Yung Fat, Hidden Dragon, Michael Fenton Stevens, Being David Archer
 - 2021-03-08 — Ep. 72 - Rachel Parris & Marcus Brigstocke — speakers: Rachel Parris, Marcus Brigstocke, Michael Fenton Stevens, Follow Rachel Parris, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-03-05 — Ep. 71 - Nigel Planer — speakers: Nigel Planer, Ralph Filthy, Rick Mayall, Adrian Edmondson, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
 - 2021-03-01 — Ep. 70 - Mark Thomas — speakers: Mark Thomas Mark Thomas, Mark Thomas, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens

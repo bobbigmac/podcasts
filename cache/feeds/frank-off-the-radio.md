@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-02-20T01:14:00+00:00`
-- checked_at: `2026-02-20T01:14:00+00:00`
-- last_modified: `Fri, 20 Feb 2026 01:06:39 GMT`
+- fetched_at: `2026-02-23T03:19:38+00:00`
+- checked_at: `2026-02-23T03:19:38+00:00`
+- last_modified: `Mon, 23 Feb 2026 01:07:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T01:14:00+00:00",
+  "fetched_at": "2026-02-23T03:19:38+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,24 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "4f29ed703bee2cb272be556daf4177a6a1495f30",
+      "title": "Shortlisted?",
+      "published_at": "2026-02-23T01:00:00+00:00",
+      "link": null,
+      "description": "Frank and Emily are joined by Milo Edwards! This time Frank has had some post and Emily's had a surprising DM. Also we have pease pudding correspondence and chat about cheques. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8957262027.mp3?updated=1771457881",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2460",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "shortlisted"
+      ]
+    },
     {
       "key": "5d13321394cf42c0c036ec119ed027ce6632ecd1",
       "title": "A Disastrous Valentine's Day",
@@ -896,7 +914,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2409",
       "speakers": [
-        "James Bond",
         "Frank Skinner"
       ],
       "topics": [
@@ -3342,7 +3359,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2410",
       "speakers": [
-        "James Bond",
         "Frank Skinner"
       ],
       "topics": [
@@ -4558,8 +4574,7 @@
       "itunes_duration": "4229",
       "speakers": [
         "Cloth Fireplace",
-        "Frank Skinner",
-        "King Charles"
+        "Frank Skinner"
       ],
       "topics": [
         "cloth",
@@ -5275,8 +5290,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4361",
       "speakers": [
-        "Frank Skinner",
-        "Harry Potter"
+        "Frank Skinner"
       ],
       "topics": [
         "thoughtless",
@@ -5317,8 +5331,7 @@
       "itunes_duration": "4107",
       "speakers": [
         "Frank Skinner",
-        "Frank’s Royal Variety",
-        "King Charles"
+        "Frank’s Royal Variety"
       ],
       "topics": []
     },
@@ -5595,8 +5608,7 @@
       "itunes_duration": "4212",
       "speakers": [
         "Frank Skinner",
-        "Pierre Novellie",
-        "Harry Potter"
+        "Pierre Novellie"
       ],
       "topics": [
         "anti"
@@ -9761,8 +9773,7 @@
         "Frank Skinner",
         "Ed Sheeran",
         "Lewis Elton",
-        "John advert",
-        "Taylor Swift"
+        "John advert"
       ],
       "topics": [
         "frank",
@@ -10126,8 +10137,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4475",
       "speakers": [
-        "Frank Skinner",
-        "Donald Trump"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10677,8 +10687,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4766",
       "speakers": [
-        "Frank Skinner",
-        "Donald Trump"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11784,25 +11793,6 @@
       ]
     },
     {
-      "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
-      "title": "The Best of Frank 2009 - 2011",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170208081140.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2009 - 2011. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a716fc9a-817e-11ef-8fe9-17afc22bd574/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9438067069.mp3?updated=1739807264",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3157",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "best",
-        "frank"
-      ]
-    },
-    {
       "key": "7c4e0deb661ada556c65fb430b63a19a3b131ada",
       "title": "The Frank Skinner Show",
       "published_at": "2017-01-28T08:00:00+00:00",
@@ -11819,6 +11809,25 @@
       "topics": [
         "frank",
         "skinner"
+      ]
+    },
+    {
+      "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
+      "title": "The Best of Frank 2009 - 2011",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170208081140.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2009 - 2011. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a716fc9a-817e-11ef-8fe9-17afc22bd574/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9438067069.mp3?updated=1739807264",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3157",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "best",
+        "frank"
       ]
     },
     {
@@ -12397,8 +12406,7 @@
       "itunes_duration": "4550",
       "speakers": [
         "Frank Skinner",
-        "Steve Stigma-of",
-        "Harry Potter"
+        "Steve Stigma-of"
       ],
       "topics": [
         "frank",
@@ -12486,8 +12494,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4601",
       "speakers": [
-        "Frank Skinner",
-        "Nigel Farage"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13675,13 +13682,13 @@
       ]
     },
     {
-      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
+      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
+      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -13697,13 +13704,13 @@
       ]
     },
     {
-      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
+      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
+      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -14163,8 +14170,7 @@
       "itunes_duration": "4279",
       "speakers": [
         "Frank Skinner",
-        "Kim Sears",
-        "Taylor Swift"
+        "Kim Sears"
       ],
       "topics": [
         "frank",
@@ -14329,8 +14335,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4564",
       "speakers": [
-        "Frank Skinner",
-        "James Bond"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15236,8 +15241,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4376",
       "speakers": [
-        "Frank Skinner",
-        "David Cameron"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -19244,7 +19248,6 @@
       "itunes_duration": "3638",
       "speakers": [
         "Frank Emily",
-        "Rupert Murdoch",
         "Frank Skinner"
       ],
       "topics": [
@@ -21211,7 +21214,6 @@
       "itunes_duration": "2014",
       "speakers": [
         "Frank Skinner Not",
-        "Harry Potter",
         "Vintage Clothing",
         "Frank Skinner"
       ],
@@ -23374,6 +23376,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — Shortlisted? — speakers: Frank Skinner
 - 2026-02-20 — A Disastrous Valentine's Day — speakers: Frank Skinner
 - 2026-02-18 — Frank Skinner’s Radio Days: Olympic Torch — speakers: Frank Skinner, Jubilee Flotilla
 - 2026-02-16 — Arguing Inside a Virtual World — speakers: Johnny White Really-Really, Frank Skinner
@@ -23416,7 +23419,7 @@
 - 2025-11-21 — Frank's Catchphrase — speakers: Steve Hall, Frank Skinner
 - 2025-11-19 — Frank Skinner’s Radio Days: Clothes — speakers: Frank Skinner
 - 2025-11-17 — West End Girl — speakers: Frank Skinner
-- 2025-11-14 — How Much For A Belt? — speakers: James Bond, Frank Skinner
+- 2025-11-14 — How Much For A Belt? — speakers: Frank Skinner
 - 2025-11-12 — Frank Skinner’s Radio Days: Invention — speakers: Frank Skinner
 - 2025-11-10 — Wolf Snout — speakers: Wolf Snout, Frank Skinner
 - 2025-11-07 — Pre-Decimal Pints — speakers: Frank Skinner
@@ -23539,7 +23542,7 @@
 - 2024-12-30 — Rhino Pasty — speakers: Pasty Frank, Frank Skinner
 - 2024-12-27 — Sixty-Two Per Cent — speakers: Frank Skinner
 - 2024-12-25 — Frank Skinner's Poetry Podcast: Craig Raine — speakers: Frank Skinner's Poetry, Craig Raine Frank, Craig Raine, Frank Skinner
-- 2024-12-23 — Alf Bond — speakers: James Bond, Frank Skinner
+- 2024-12-23 — Alf Bond — speakers: Frank Skinner
 - 2024-12-20 — French Tuck — speakers: Hair Botox, Frank Skinner
 - 2024-12-18 — Frank Skinner's Poetry Podcast: Wislawa Szymborska — speakers: Frank Skinner's Poetry, Wislawa Szymborska, Frank Skinner
 - 2024-12-16 — Zurich? — speakers: Frank Skinner
@@ -23600,7 +23603,7 @@
 - 2023-10-14 — Milk Week — speakers: Frank Skinner
 - 2023-10-07 — Coffee Claw — speakers: Coffee Claw, Frank Skinner
 - 2023-09-30 — Mass Naughty Step — speakers: Frank Skinner, Dave Berry
-- 2023-09-23 — Cloth Fireplace — speakers: Cloth Fireplace, Frank Skinner, King Charles
+- 2023-09-23 — Cloth Fireplace — speakers: Cloth Fireplace, Frank Skinner
 - 2023-09-16 — Novelty Eggbox — speakers: Frank Skinner
 - 2023-09-09 — Vegan Dracula — speakers: Dracula Frank Skinner, Frank Skinner
 - 2023-09-02 — Unscrupulous Retailers — speakers: Unscrupulous Retailers, Frank Skinner
@@ -23637,9 +23640,9 @@
 - 2023-02-04 — Nocturnal Lucozade — speakers: Nocturnal Lucozade Frank Skinner, Frank Skinner
 - 2023-01-28 — Vintage Gouda — speakers: Vintage Gouda, Frank Skinner
 - 2023-01-21 — Car Tongs — speakers: Frank Skinner
-- 2023-01-14 — Thoughtless Archery — speakers: Frank Skinner, Harry Potter
+- 2023-01-14 — Thoughtless Archery — speakers: Frank Skinner
 - 2023-01-07 — Frank Skinner MBE — speakers: Frank Skinner Mbe, Frank Skinner, Metal Dad
-- 2022-12-31 — Best Of 2022 – Part 2 — speakers: Frank Skinner, Frank’s Royal Variety, King Charles
+- 2022-12-31 — Best Of 2022 – Part 2 — speakers: Frank Skinner, Frank’s Royal Variety
 - 2022-12-24 — Best Of 2022 – Part 1 — speakers: Frank Skinner
 - 2022-12-17 — Butter Ceiling — speakers: Frank Skinner, Pierre Novellie
 - 2022-12-10 — Totally Tunnock's — speakers: Frank Skinner, Steve Hall
@@ -23653,7 +23656,7 @@
 - 2022-10-15 — Custom Kicks — speakers: Custom Kicks, Frank Skinner
 - 2022-10-08 — Frank Strictly — speakers: Frank Strictly, Frank Skinner, Steve Hall
 - 2022-10-01 — Monster Munchies — speakers: Frank Skinner, Pierre Novellie, Fantasy Football, David Baddiel, Ian Broudie
-- 2022-09-24 — Anti-Stylist — speakers: Frank Skinner, Pierre Novellie, Harry Potter
+- 2022-09-24 — Anti-Stylist — speakers: Frank Skinner, Pierre Novellie
 - 2022-09-17 — The Queue — speakers: Frank Skinner
 - 2022-09-03 — Short King — speakers: Frank Skinner, Pierre Novellie, Lewis Hamilton
 - 2022-08-27 — Rinse Aid — speakers: Frank Skinner, Steve Hall
@@ -23858,7 +23861,7 @@
 - 2018-12-08 — The Frank Skinner Show - Shredded Genie — speakers: Frank Skinner
 - 2018-12-01 — The Frank Skinner Show - Festive Pessimism — speakers: Frank Skinner, Noel Edmonds, Melania Trump
 - 2018-11-24 — The Frank Skinner Show - Mr Happy and the Twins — speakers: Frank Skinner, Noel Edmonds, Snoop Dogg
-- 2018-11-17 — The Frank Skinner Show - Oasis, regardless. — speakers: Frank Skinner, Ed Sheeran, Lewis Elton, John advert, Taylor Swift
+- 2018-11-17 — The Frank Skinner Show - Oasis, regardless. — speakers: Frank Skinner, Ed Sheeran, Lewis Elton, John advert
 - 2018-11-10 — The Frank Skinner Show - Who's met General Pinochet? — speakers: Frank Skinner
 - 2018-11-03 — The Frank Skinner Show - Very Science, 2016 and an alphabet review — speakers: Frank Skinner
 - 2018-10-27 — The Frank Skinner Show - Lad of the Year — speakers: Frank Skinner, David Schwimmer
@@ -23875,7 +23878,7 @@
 - 2018-08-04 — The Frank Skinner Show - Fringe Fun — speakers: Frank Skinner
 - 2018-07-28 — The Frank Skinner Show - The 270 — speakers: Frank Skinner, Theresa May
 - 2018-07-21 — The Frank Skinner Show - Ronnie Wouldn't — speakers: Frank Skinner
-- 2018-07-14 — The Frank Skinner Show - May Poll — speakers: Frank Skinner, Donald Trump
+- 2018-07-14 — The Frank Skinner Show - May Poll — speakers: Frank Skinner
 - 2018-06-30 — The Frank Skinner Show - Saint George's PR — speakers: Frank Skinner
 - 2018-06-23 — The Frank Skinner Show - GOAT — speakers: Frank Skinner, Frank Emily, Schama Shearer
 - 2018-06-16 — The Frank Skinner Show - Flexi Time — speakers: Frank Skinner
@@ -23901,7 +23904,7 @@
 - 2018-01-27 — The Frank Skinner Show - Gitcoin — speakers: Frank Skinner, Boris Becker
 - 2018-01-20 — The Frank Skinner Show - Embroidery — speakers: Frank Skinner, Alun Cochrane, Gareth Richards, Prince William
 - 2018-01-13 — The Frank Skinner Show - Mouth Noises — speakers: Frank Skinner
-- 2018-01-06 — The Frank Skinner Show - Snap — speakers: Frank Skinner, Donald Trump
+- 2018-01-06 — The Frank Skinner Show - Snap — speakers: Frank Skinner
 - 2017-12-30 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-12-23 — The Frank Skinner Show - Best of 2017 Part 1 — speakers: Frank Skinner
 - 2017-12-16 — The Frank Skinner Show - Paid For — speakers: Frank Skinner, Lenny Kravtiz, David Beckham
@@ -23954,8 +23957,8 @@
 - 2017-02-18 — The Frank Skinner Show - What does the snake want? — speakers: Frank Skinner
 - 2017-02-11 — The Frank Skinner Show - Unconventional Laughter — speakers: Frank Skinner
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
-- 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
+- 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
 - 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
@@ -23983,11 +23986,11 @@
 - 2016-08-27 — The Frank Skinner Show - Thing or Think — speakers: Frank Skinner
 - 2016-08-20 — The Frank Skinner Show — speakers: Frank Skinner, Dick Van Dyke
 - 2016-08-13 — The Frank Skinner Show - Much of a Muchness — speakers: Frank Skinner, Steve Hall
-- 2016-08-06 — The Frank Skinner Show - Apostle Spoons — speakers: Frank Skinner, Steve Stigma-of, Harry Potter
+- 2016-08-06 — The Frank Skinner Show - Apostle Spoons — speakers: Frank Skinner, Steve Stigma-of
 - 2016-07-30 — The Frank Skinner Show - Lone Wolf — speakers: Frank Skinner, Steve Hall, Gareth Richards, Hillary Clinton
 - 2016-07-23 — The Frank Skinner Show - Reptile Centre — speakers: Frank Skinner
 - 2016-07-16 — The Frank Skinner Show - Sloshing — speakers: Frank Skinner, Len Goodman, Pokemon Go
-- 2016-07-09 — The Frank Skinner Show - The Good Old Days — speakers: Frank Skinner, Nigel Farage
+- 2016-07-09 — The Frank Skinner Show - The Good Old Days — speakers: Frank Skinner
 - 2016-07-02 — The Frank Skinner Show - Carpe Diem — speakers: Frank Skinner
 - 2016-06-25 — The Frank Skinner Show - Newton's Cradle — speakers: Frank Skinner
 - 2016-06-18 — The Frank Skinner Show - The Nose — speakers: Frank Skinner
@@ -24067,7 +24070,7 @@
 - 2015-02-21 — The Frank Skinner Show - Intense Legs — speakers: Frank Skinner, Steve Hall, Andy Murray, Gift Watch
 - 2015-02-14 — The Frank Skinner Show - The Gift — speakers: Frank Skinner
 - 2015-02-07 — The Frank Skinner Show - Skinny Wrists — speakers: Frank Skinner
-- 2015-01-31 — The Frank Skinner Show - The Wifi — speakers: Frank Skinner, Kim Sears, Taylor Swift
+- 2015-01-31 — The Frank Skinner Show - The Wifi — speakers: Frank Skinner, Kim Sears
 - 2015-01-24 — The Frank Skinner Show - Not being funny but... — speakers: Frank Skinner
 - 2015-01-17 — The Frank Skinner Show - THE Maldives — speakers: Frank Skinner
 - 2015-01-10 — The Frank Skinner Show - Red Winestein — speakers: Frank Skinner, Alun Cochrane
@@ -24075,7 +24078,7 @@
 - 2014-12-27 — The Frank Skinner Show — speakers: Frank Skinner, Kate Bush
 - 2014-12-20 — The Frank Skinner Show — speakers: Frank Skinner
 - 2014-12-13 — The Frank Skinner Show - Falling — speakers: Frank Skinner, Emily Dean, Steve Hall, Candy Crush, Gary Lineker, Ray Quinn
-- 2014-12-06 — The Frank Skinner Show - Dystopian Novel — speakers: Frank Skinner, James Bond
+- 2014-12-06 — The Frank Skinner Show - Dystopian Novel — speakers: Frank Skinner
 - 2014-11-29 — The Frank Skinner Show - Beard Oil — speakers: Frank Skinner, Holly Walsh
 - 2014-11-22 — The Frank Skinner Show - Roundels — speakers: Jamie Oliver, Frank Skinner
 - 2014-11-15 — The Frank Skinner Show - (faux) leather Christmas hat — speakers: Frank Skinner, Kim Kardashian
@@ -24115,7 +24118,7 @@
 - 2014-03-22 — Frank Skinner on Absolute Radio - Barcelona — speakers: Frank Skinner
 - 2014-03-15 — Frank Skinner on Absolute Radio - Selfie — speakers: Frank Skinner, Steve Hall, Joan Collins, Ellen Degeneres
 - 2014-03-08 — Frank Skinner on Absolute Radio - Post Impressions — speakers: Frank Skinner, Emily Dean
-- 2014-03-01 — Frank Skinner on Absolute Radio - Stylus — speakers: Frank Skinner, David Cameron
+- 2014-03-01 — Frank Skinner on Absolute Radio - Stylus — speakers: Frank Skinner
 - 2014-02-22 — Frank Skinner on Absolute Radio - Awards Season — speakers: Frank Skinner
 - 2014-02-15 — Frank Skinner on Absolute Radio - Actually Nah — speakers: Frank Skinner, Steve Hall
 - 2014-02-08 — Frank Skinner on Absolute Radio - The Musketeers — speakers: Frank Skinner
@@ -24292,7 +24295,7 @@
 - 2011-07-26 — The Frank Skinner Show — speakers: Frank Skinner
 - 2011-07-24 — Frank Skinner - Ghost and Soaps — speakers: Frank Skinner Ghost, Frank Skinner
 - 2011-07-20 — Not The Weekend Podcast - 20 Jul — speakers: Frank Skinner
-- 2011-07-16 — The Frank Skinner Show - Half Past 7 — speakers: Frank Emily, Rupert Murdoch, Frank Skinner
+- 2011-07-16 — The Frank Skinner Show - Half Past 7 — speakers: Frank Emily, Frank Skinner
 - 2011-07-13 — Not The Weekend Podcast - 13 July — speakers: Alexa Chung, Frank Skinner
 - 2011-07-09 — Frank Skinner on Absolute Radio - Hair Strikes back — speakers: Frank Skinner
 - 2011-07-06 — Not The Weekend Podcast - 6 July — speakers: Frank Skinner
@@ -24382,7 +24385,7 @@
 - 2010-09-18 — Frank Skinner - Guest: Shazia Mirza — speakers: Frank Skinner Guest, Shazia Mirza, George Michael, Frank Skinner
 - 2010-09-15 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Frank Skinner
 - 2010-09-11 — Frank Skinner - Guest: Stewart Francis — speakers: Frank Skinner Guest, Stewart Francis Frank, Stewart Francis, Tour De Francis, Frank Skinner
-- 2010-09-08 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Harry Potter, Vintage Clothing, Frank Skinner
+- 2010-09-08 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Vintage Clothing, Frank Skinner
 - 2010-09-04 — Frank Skinner - Guest: Midnight Beast — speakers: Frank Skinner Guest, Midnight Beast Frank, Frank Skinner
 - 2010-09-01 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Ray Gordon, Frank Skinner
 - 2010-08-28 — Frank Skinner - Guest Sarah Millican — speakers: Frank Skinner Guest, Sarah Millican Frank, Frank Skinner

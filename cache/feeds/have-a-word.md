@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-02-22T21:38:22+00:00`
-- checked_at: `2026-02-22T21:38:22+00:00`
-- etag: `"djEuMi4wOjE3NzE3ODk0NTYxODQ="`
+- fetched_at: `2026-02-23T03:19:38+00:00`
+- checked_at: `2026-02-23T03:19:38+00:00`
+- etag: `"djEuMi4wOjE3NzE4MDU0MzkzNjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-02-22T21:38:22+00:00",
+  "fetched_at": "2026-02-23T03:19:38+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8908fa94df7d53be7b165ed1cc3c856cf928b15c",
+      "title": "#369 with Alfie Brown - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-02-23T00:10:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/369-with-alfie-brown-have-a-word-wadam-dan-carl",
+      "description": "Tickets, merch and loads more available on our website! https://haveawordpod.com Dan & Carl's Hip-Hop Night || https://www.skiddle.com/e/41781901 Tickets for Have A Word Live shows as well as Adam and Dan's tours and previews: Adam's Tickets: https://www.adamrowe.com Dan's Tickets: https://dannightingale.com Carl's Stream || https://twitch.tv/senseicarl_ Finn's Music & Tickets: https://finnlayk.co.uk Alfie's Special: https://www.youtube.com/watch?v=_fJ3pO5CFxg As Adam and Dan said, don't miss out on all of our extra content, we've got one of the best value Patreons in the game. An extra 90+ minute episode every week plus loads of bonus content such as the now infamous Lockdown Lock-ins, the Nashville & Amsterdam specials and our Ghost Hunts! What are you waiting for? Sign up now at https://patreon.com/haveawordpod​ Get subscribed to Have A Word Highlights: https://youtube.com/haveawordhighlights Listen to Finn's new EP: https://finnlayk.lnk.to/AllInYourMind Thanks to this week's sponsors: Heights | https://heights.com/haveaword Enter code HAVEAWORD20 at checkout for 20% off your first month! Manscaped | https://manscaped.com 20% off with promo code: WORD20 NordVPN | https://nordvpn.com/haveaword EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/haveaword Try it risk-free now with a 30-day money-back guarantee Lovehoney | https://lovehoney.co/word_podcast Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 Saily | https://saily.com/haveaword Download SAILY in your app store and use our code HAVEAWORD at checkout to get an exclusive 15% off your first purchase or go to https://saily.com/haveaword 🌍 ADAM ROWE and DAN NIGHTINGALE are two award winning comedians from Liverpool & Preston, respectively. They are two of the UK's most highly regarded stand-ups and have both performed all over the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/1771788598807-46810d53-705e-44ed-aec9-296d1380bc51.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/699b5941240b4a2d758f4abf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "345512738",
+      "itunes_duration": "2:23:57",
+      "speakers": [
+        "Dan Carl's Hip-Hop Night",
+        "tv senseicarl",
+        "Lockdown Lock-ins",
+        "Download Saily",
+        "Adam Rowe",
+        "Dan Nightingale"
+      ],
+      "topics": [
+        "alfie",
+        "brown",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "16ea93ef0f86b5001e2c17cfcb0c1f9f18c52e56",
       "title": "#368 with Dan Tiernan - Have A Word w/Adam, Dan & Carl",
@@ -9077,6 +9104,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — #369 with Alfie Brown - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
 - 2026-02-16 — #368 with Dan Tiernan - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Dan Tiernan, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
 - 2026-02-09 — #367 with Tom Davis - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
 - 2026-02-02 — #366 with The Boys - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe

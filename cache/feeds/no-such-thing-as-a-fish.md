@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-02-20T01:14:00+00:00`
-- checked_at: `2026-02-20T01:14:00+00:00`
-- etag: `W/"6b4511e075bee6ea2f6009b370ea69f9"`
-- last_modified: `Thu, 19 Feb 2026 23:55:00 GMT`
+- fetched_at: `2026-02-23T03:19:38+00:00`
+- checked_at: `2026-02-23T03:19:38+00:00`
+- etag: `W/"8d6db8eef35e7835924b84f7218f501c"`
+- last_modified: `Sun, 22 Feb 2026 23:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-02-20T01:14:00+00:00",
+  "fetched_at": "2026-02-23T03:19:38+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "6131615c4037bf41b9f2487c8558c286532337ce",
+      "title": "Little Fish: See You In The Charts",
+      "published_at": "2026-02-22T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8863214",
+      "description": "Dan, James and Andy discuss YOUR facts, including baseball, bridges and Ryan Bingham. We also learn why you don't want a meeting with Andy, no matter how handsome he might be. And we bestow eight facts on Friends of the Podcast. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8863214.mp3?modified=1771508179&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1757",
+      "speakers": [
+        "Ryan Bingham",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "chart"
+      ]
+    },
     {
       "key": "fa1660836912e42836cb623a7ce398fbff344d06",
       "title": "No Such Thing As Magical Fox Phishing",
@@ -4411,7 +4434,6 @@
         "Will Smith",
         "Gareth Southgate",
         "Jair Bolsonaro",
-        "Liz Truss",
         "Dan Schreiber",
         "James Harkin",
         "Anna Ptaszynski",
@@ -7383,8 +7405,7 @@
         "Ginger Rogers Visit",
         "Dan Schreiber",
         "James Harkin",
-        "Anna Ptaszynski",
-        "Andrew Hunter Murray"
+        "Anna Ptaszynski"
       ],
       "topics": [
         "thing",
@@ -10454,7 +10475,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2310",
       "speakers": [
-        "Harry Potter",
         "Dan Schreiber",
         "James Harkin",
         "Anna Ptaszynski",
@@ -11879,7 +11899,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1743",
       "speakers": [
-        "Donald Trump",
         "Dan Schreiber",
         "James Harkin",
         "Anna Ptaszynski",
@@ -12425,7 +12444,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2086",
       "speakers": [
-        "Tony Blair",
         "Dan Schreiber",
         "James Harkin",
         "Anna Ptaszynski",
@@ -14317,7 +14335,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2658",
       "speakers": [
-        "Harry Potter",
         "Dan Schreiber",
         "James Harkin",
         "Anna Ptaszynski",
@@ -14673,7 +14690,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2028",
       "speakers": [
-        "Gordon Brown",
         "Ash Gardner",
         "Dan Schreiber",
         "James Harkin",
@@ -15077,8 +15093,7 @@
         "Dan Schreiber",
         "James Harkin",
         "Andrew Hunter Murray",
-        "Anna Ptaszynski",
-        "David Cameron"
+        "Anna Ptaszynski"
       ],
       "topics": [
         "thing",
@@ -15635,7 +15650,6 @@
         "James Harkin",
         "Anna Ptaszynski",
         "Alex Bell",
-        "Harry Potter",
         "Andrew Hunter Murray"
       ],
       "topics": [
@@ -15817,6 +15831,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-22 — Little Fish: See You In The Charts — speakers: Ryan Bingham, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-19 — No Such Thing As Magical Fox Phishing — speakers: Ray O'Leary, Download Saily, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-15 — Little Fish: Gary Scrabble — speakers: Gary Scrabble Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-12 — No Such Thing As Supercritical Hot Rock Music — speakers: Maddie Moate, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
@@ -16000,7 +16015,7 @@
 - 2023-01-20 — No Such Thing As A Luigi Board — speakers: King Tuts, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2023-01-12 — No Such Thing as the Milkmaid's Tale — speakers: Rhys Darby, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2023-01-05 — No Such Thing as Proust's Sausage Roll — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
-- 2022-12-29 — No Such Thing As A Bee On The Moon — speakers: Will Smith, Gareth Southgate, Jair Bolsonaro, Liz Truss, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2022-12-29 — No Such Thing As A Bee On The Moon — speakers: Will Smith, Gareth Southgate, Jair Bolsonaro, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2022-12-22 — No Such Thing As An Edam Tuba — speakers: Merry Fishmas, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2022-12-16 — No Such Thing As An Acoustic Tram — speakers: soda jerks, Vicki McClure, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2022-12-09 — No Such Thing As Glass in the Future — speakers: Jamie Morton, Rocky Flintstone, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
@@ -16125,7 +16140,7 @@
 - 2020-09-11 — No Such Thing As Carthaginian YouTube — speakers: Jenny Ryan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2020-09-04 — No Such Thing As A Triangular Rectangle — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2020-08-28 — No Such Thing As A Delicious Emergency Salad — speakers: Sara Pascoe, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
-- 2020-08-21 — No Such Thing As A Cardigan For Ginger Rogers — speakers: Ginger Rogers Dan, Sandi Toksvig, Bargain Hoovers, Hidden Rivers, Ginger Rogers Visit, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2020-08-21 — No Such Thing As A Cardigan For Ginger Rogers — speakers: Ginger Rogers Dan, Sandi Toksvig, Bargain Hoovers, Hidden Rivers, Ginger Rogers Visit, Dan Schreiber, James Harkin, Anna Ptaszynski
 - 2020-08-14 — No Such Thing As A Babysitter's Trade Union — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2020-08-07 — No Such Thing As Fingerprints On The Avocados — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2020-07-31 — No Such Thing As An Innocent Apple — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
@@ -16256,7 +16271,7 @@
 - 2018-03-30 — No Such Thing As A Sheep's Bedside Table — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2018-03-23 — No Such Thing As A Sexy Black Hole — speakers: James Anna, denim arson, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2018-03-23 — No Such Thing As A Female Egg Thief — speakers: James Anna, Edward Vii, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
-- 2018-03-09 — No Such Thing As Harry Potter And The Great Overreaction — speakers: Harry Potter, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2018-03-09 — No Such Thing As Harry Potter And The Great Overreaction — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2018-03-02 — No Such Thing As A Pig In Court — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2018-02-23 — No Such Thing As The Number Six — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2018-02-16 — No Such Thing As A Mean Butterfly — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
@@ -16317,7 +16332,7 @@
 - 2017-02-10 — No Such Thing As A Komodo Dragon Restaurant — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2017-02-03 — No Such Thing As A Helium Filled Pufferfish — speakers: Mount Rushmore, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2017-01-27 — No Such Thing As The Train King Of Europe — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
-- 2017-01-20 — No Such Thing As A Plummeting Moose — speakers: Donald Trump, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2017-01-20 — No Such Thing As A Plummeting Moose — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2017-01-13 — No Such Thing As Burrito Party Boy — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2017-01-06 — No Such Thing As A Queen Orca — speakers: Sara Pascoe, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2016-12-30 — No Such Thing As A Fish - Extra Bits — speakers: Extra Bits, Happy New Year, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
@@ -16340,7 +16355,7 @@
 - 2016-09-02 — No Such Thing As Jack The Stripper — speakers: Stripper Dan, hummingbird capes, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2016-08-26 — No Such Thing As A Million Dollar Bill — speakers: Bill Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2016-08-19 — No Such Thing As 'Carry On Colliding' — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
-- 2016-08-12 — No Such Thing As A Boy Called Blclintn — speakers: Tony Blair, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2016-08-12 — No Such Thing As A Boy Called Blclintn — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2016-08-05 — No Such Thing As An Upside-Down Grand Prix — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2016-07-29 — No Such Thing As A Screaming Scream — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2016-07-22 — No Such Thing As A Molten Lava Football Pitch — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
@@ -16421,7 +16436,7 @@
 - 2015-02-25 — No Such Thing As A Buff Panda — speakers: Buff Panda, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2015-02-20 — No Such Thing As A Pokemon-Playing Goldfish — speakers: Playing Goldfish, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2015-02-14 — No Such Thing As A Lonely Starbucks Customer — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
-- 2015-02-07 — No Such Thing As An Apostle Called Scrotum — speakers: Harry Potter, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2015-02-07 — No Such Thing As An Apostle Called Scrotum — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2015-01-30 — No Such Thing As A Travelator In Ancient Rome — speakers: Greg Jenner, Von Humboldt, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2015-01-23 — No Such Thing As A Vegan Fryup — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2015-01-16 — No Such Thing As The Human Cigarette — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
@@ -16436,7 +16451,7 @@
 - 2014-11-15 — No Such Thing As A Good Sloth Onesie — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2014-11-07 — No Such Thing As A Giant German Sandcastle — speakers: James Bonds, Bruce Willis, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2014-10-30 — No Such Thing As A Clairvoyant Chicken — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
-- 2014-10-24 — No Such Thing As A Good Gift For Gordon Brown — speakers: Gordon Brown, Ash Gardner, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2014-10-24 — No Such Thing As A Good Gift For Gordon Brown — speakers: Ash Gardner, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2014-10-17 — No Such Thing As A Snake In My Pie — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2014-10-10 — No Such Thing As A Song In The Sound Of Music — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2014-10-03 — No Such Thing As Terrestrial Sweetcorn — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
@@ -16453,7 +16468,7 @@
 - 2014-07-18 — No Such Thing As A Kilt On The Battlefield — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Richard Turner, James Joyce, Andrew Hunter Murray
 - 2014-07-11 — No Such Thing As A Bassoon In A Football Stadium — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray, Gnome John Lloyd
 - 2014-07-05 — No Such Thing As A Ghost In Poland — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Anne Miller, Alex Bell, Andrew Hunter Murray
-- 2014-06-28 — No Such Thing As A Bulge In Ken's Groin — speakers: Dan Schreiber, James Harkin, Andrew Hunter Murray, Anna Ptaszynski, David Cameron
+- 2014-06-28 — No Such Thing As A Bulge In Ken's Groin — speakers: Dan Schreiber, James Harkin, Andrew Hunter Murray, Anna Ptaszynski
 - 2014-06-26 — NSTAAF International Factball: South Korea v Ghana — speakers: Dan Schreiber, Anna Ptaszynski, James Harkin, Alex Bell, Andrew Hunter Murray
 - 2014-06-25 — NSTAAF International Factball: Iran v Argentina v Ecuador — speakers: Dan Schreiber, Anna Ptaszynski, James Harkin, Freddy Soames, Andrew Hunter Murray
 - 2014-06-24 — NSTAAF International Factball: Greece v Japan — speakers: Anna Ptaszynski, James Harkin, John Mitchinson, Molly Oldfield, Dan Schreiber, Andrew Hunter Murray
@@ -16475,7 +16490,7 @@
 - 2014-05-16 — No Such Thing As A Door Knob In Vancouver — speakers: Dan Schreiber, James Harkin, Andrew Hunter Murray, Anna Ptaszynski
 - 2014-05-09 — No Such Thing As A Soggy Monk — speakers: Dan Schreiber, James Harkin, Andrew Hunter Murray, Anne Miller, Eric Lampaert, Anna Ptaszynski
 - 2014-05-02 — No Such Thing As A Word For 'Silent Fart' — speakers: Dan Schreiber, James Harkin, Andrew Hunter Murray, Anna Ptaszynski
-- 2014-04-25 — No Such Thing As A Swear Word On The Moon — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Alex Bell, Harry Potter, Andrew Hunter Murray
+- 2014-04-25 — No Such Thing As A Swear Word On The Moon — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Alex Bell, Andrew Hunter Murray
 - 2014-04-18 — No Such Thing As The Loch Ness Monster — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2014-04-11 — No Such Thing As One Direction in North Korea — speakers: Andrew Hunter Murray, James Harkin, Anna Ptaszynski, Molly Oldfield, Dan Schreiber
 - 2014-04-04 — No Such Thing As A Kiss — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

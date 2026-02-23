@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-02-20T19:06:07+00:00`
-- checked_at: `2026-02-20T19:06:07+00:00`
-- last_modified: `Fri, 20 Feb 2026 16:29:23 GMT`
+- fetched_at: `2026-02-23T03:19:38+00:00`
+- checked_at: `2026-02-23T03:19:38+00:00`
+- last_modified: `Mon, 23 Feb 2026 00:00:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/3f50b7a1b1632c03b74bec14bb7de2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T19:06:07+00:00",
+  "fetched_at": "2026-02-23T03:19:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "b6015b9bb2dabf0a75d3eeeb0bd5979a0de8ca3d",
+      "title": "Why Trump Wants Greenland",
+      "published_at": "2026-02-23T00:00:00+00:00",
+      "link": null,
+      "description": "Why has Donald Trump considered invading Greenland? How does he think it will benefit him? What is the role of China in the Arctic? And what animals have Russia trained to spy for them? Listen as Alastair and Kenneth R. Rosen answer these questions and more. To hear the full episode, sign up at ⁠⁠therestispolitics.com⁠⁠ __________ Instagram: ⁠@restispolitics⁠ Twitter: ⁠@restispolitics⁠ Email: ⁠therestispolitics@goalhanger.com⁠ __________ Social Producer: Celine Charles Video Editor: James Clayden Producer: India Dunkley Senior Producer: Callum Hill Exec Producer: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2478562733.mp3?updated=1771605258",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "559",
+      "speakers": [
+        "Trump Wants Greenland",
+        "Charles Video",
+        "James Clayden Producer",
+        "Tom Whiter Learn"
+      ],
+      "topics": [
+        "trump",
+        "greenland"
+      ]
+    },
     {
       "key": "5371a97d087231deb8b8d19255d7a2b1f42e7bc8",
       "title": "503. Andrew’s Arrest: What Next?",
@@ -39,7 +61,6 @@
       "speakers": [
         "Andrew’s Arrest",
         "Andrew Mountbatten Windsor",
-        "King Charles",
         "Charles Video",
         "Josh Smith",
         "Adam Thornton",
@@ -63,7 +84,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3423",
       "speakers": [
-        "Nigel Farage",
         "Charles Video",
         "Josh Smith",
         "Vasco Andrade",
@@ -355,7 +375,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1801",
       "speakers": [
-        "Keir Starmer",
         "Anthony Scaramucci",
         "Daisy Alston-Horne",
         "Evan Green",
@@ -484,7 +503,6 @@
       "itunes_duration": "2425",
       "speakers": [
         "JD Vance",
-        "Boris Johnson",
         "Join Rory",
         "Charles Video",
         "Josh Smith",
@@ -560,7 +578,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2608",
       "speakers": [
-        "Keir Starmer",
         "Charles Video",
         "Josh Smith",
         "Evan Green",
@@ -1045,7 +1062,6 @@
         "Trump’s Peace",
         "Join Rory",
         "JD Vance",
-        "Rupert Murdoch",
         "Emma Jackson",
         "Harry Balden",
         "Daisy Alston-Horne",
@@ -1072,7 +1088,6 @@
       "itunes_duration": "1933",
       "speakers": [
         "Rory Stewart",
-        "Boris Johnson",
         "Emma Jackson",
         "Josh Smith",
         "Daisy Alston-Horne",
@@ -1097,7 +1112,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2947",
       "speakers": [
-        "Rupert Murdoch",
         "Charles Video",
         "Josh Smith",
         "Evan Green",
@@ -1127,7 +1141,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3559",
       "speakers": [
-        "Rupert Murdoch",
         "Emma Jackson",
         "Josh Smith",
         "Vasco Andrade",
@@ -1157,9 +1170,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3160",
       "speakers": [
-        "Keir Starmer",
         "Join Rory",
-        "Rupert Murdoch",
         "Charles Video",
         "Josh Smith",
         "Evan Green",
@@ -1188,10 +1199,7 @@
       "speakers": [
         "Zohran Mamdani",
         "Zack Polanski",
-        "Nigel Farage",
-        "Donald Trump",
         "Ahmed al-Sharaa",
-        "Rupert Murdoch",
         "Charles Video",
         "Josh Smith"
       ],
@@ -1239,7 +1247,6 @@
       "enclosure_length": "0",
       "itunes_duration": "448",
       "speakers": [
-        "Rupert Murdoch",
         "Michael Wolff",
         "Nicole Maslen",
         "Charlie Rodwell Social",
@@ -1268,7 +1275,6 @@
       "speakers": [
         "Andrew’s Disgrace",
         "Join Rory",
-        "Rupert Murdoch",
         "Charles Video",
         "Josh Smith",
         "Evan Green",
@@ -1297,9 +1303,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3296",
       "speakers": [
-        "Elon Musk",
         "Join Rory",
-        "Rupert Murdoch",
         "Charles Video Producer",
         "Josh Smith",
         "Daisy Alston-Horne",
@@ -1327,8 +1331,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1305",
       "speakers": [
-        "Donald Trump",
-        "Rupert Murdoch",
         "Wendi Deng",
         "Michael Wolff",
         "Nicole Maslen",
@@ -1356,7 +1358,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2511",
       "speakers": [
-        "Rupert Murdoch",
         "Charles Video",
         "Josh Smith",
         "Evan Green",
@@ -1385,7 +1386,6 @@
       "speakers": [
         "Catherine Connolly",
         "Join Rory",
-        "Rupert Murdoch",
         "Charles Video Producer",
         "Josh Smith",
         "Daisy Alston-Horne",
@@ -1411,7 +1411,6 @@
       "enclosure_length": "0",
       "itunes_duration": "527",
       "speakers": [
-        "Rupert Murdoch",
         "Wendi Deng",
         "Michael Wolff",
         "Nicole Maslen",
@@ -1445,7 +1444,6 @@
         "Maccabi Tel Aviv",
         "Prince Andrew",
         "Join Rory",
-        "Rupert Murdoch",
         "Charles Video",
         "Josh Smith"
       ],
@@ -1471,7 +1469,6 @@
       "speakers": [
         "Trump’s Gaza-Ukraine Playbook",
         "Join Rory",
-        "Rupert Murdoch",
         "Charles Video",
         "Josh Smith",
         "Evan Green",
@@ -1498,9 +1495,7 @@
       "enclosure_length": "0",
       "itunes_duration": "884",
       "speakers": [
-        "Rupert Murdoch",
         "Margaret Thatcher",
-        "Tony Blair",
         "Michael Wolff",
         "Nicole Maslen",
         "Josh Smith Social Producer",
@@ -1582,7 +1577,6 @@
       "enclosure_length": "0",
       "itunes_duration": "549",
       "speakers": [
-        "Rupert Murdoch",
         "Michael Wolff",
         "Nicole Maslen",
         "Josh Smith Social Producer",
@@ -1935,7 +1929,6 @@
       "itunes_duration": "2588",
       "speakers": [
         "Angela Rayner",
-        "Nigel Farage",
         "Charlie Johnson",
         "Adam Thornton",
         "Josh Smith",
@@ -2581,7 +2574,6 @@
       "enclosure_length": "0",
       "itunes_duration": "734",
       "speakers": [
-        "Donald Trump",
         "JD Vance",
         "Callum Hill",
         "Evan Green Social",
@@ -2643,8 +2635,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3383",
       "speakers": [
-        "Keir Starmer",
-        "Donald Trump",
         "Join Rory",
         "Charles Video",
         "Josh Smith",
@@ -2866,7 +2856,6 @@
       "itunes_duration": "3289",
       "speakers": [
         "Benjamin Netanyahu",
-        "Donald Trump",
         "Charles Video",
         "Josh Smith",
         "Evan Green",
@@ -3093,7 +3082,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2266",
       "speakers": [
-        "Joe Biden",
         "Join Rory",
         "Evan Green",
         "Adam Thornton",
@@ -3204,7 +3192,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3644",
       "speakers": [
-        "Tony Blair",
         "Join Rory",
         "Josh Smith",
         "Nicole Maslen",
@@ -3232,9 +3219,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4080",
       "speakers": [
-        "Donald Trump",
-        "Nigel Farage",
-        "Keir Starmer",
         "Evan Green",
         "Joshua Smith",
         "Nicole Maslen",
@@ -3434,7 +3418,6 @@
       "itunes_duration": "1965",
       "speakers": [
         "Anthony Scaramucci",
-        "Elon Musk",
         "Rory Stewart",
         "Alastair Campbell",
         "Nicole Maslen",
@@ -3608,7 +3591,6 @@
       "itunes_duration": "2552",
       "speakers": [
         "Carney’s Canadian",
-        "Donald Trump",
         "Josh Smith",
         "Nicole Maslen",
         "Fiona Douglas",
@@ -3887,7 +3869,6 @@
       "itunes_duration": "3167",
       "speakers": [
         "JD Vance",
-        "King Charles",
         "Evan Green Social",
         "Nicole Maslen",
         "Fiona Douglas",
@@ -3941,7 +3922,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2093",
       "speakers": [
-        "Keir Starmer",
         "Green Social",
         "Nicole Maslen",
         "Fiona Douglas",
@@ -4109,7 +4089,6 @@
       "itunes_duration": "3696",
       "speakers": [
         "Will Musk",
-        "Keir Starmer",
         "Join Rory",
         "Evan Green",
         "Josh Smith Social Producer",
@@ -4331,7 +4310,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2711",
       "speakers": [
-        "Tony Blair",
         "Join Rory",
         "Jess Kidson Producer",
         "Nicole Maslen",
@@ -4447,7 +4425,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2245",
       "speakers": [
-        "Boris Johnson",
         "Join Rory",
         "Jess Kidson Producer",
         "Nicole Maslen",
@@ -4476,7 +4453,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3336",
       "speakers": [
-        "Elon Musk",
         "Join Rory",
         "Alice Horrell Social Producer",
         "Jess Kidson Producer",
@@ -4561,7 +4537,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2301",
       "speakers": [
-        "Nigel Farage",
         "Jess Kidson Producer",
         "Nicole Maslen",
         "Fiona Douglas",
@@ -4667,7 +4642,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3580",
       "speakers": [
-        "Nigel Farage",
         "Join Rory",
         "Josh Smith Social Producer",
         "Nicole Maslen",
@@ -4875,7 +4849,6 @@
       "itunes_duration": "2618",
       "speakers": [
         "Farmer vs Starmer",
-        "Keir Starmer",
         "Join Rory",
         "Alice Horrell",
         "Nicole Maslen",
@@ -4904,7 +4877,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3147",
       "speakers": [
-        "Donald Trump",
         "Join Rory",
         "Nicole Maslen",
         "Fiona Douglas",
@@ -5237,7 +5209,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2993",
       "speakers": [
-        "Elon Musk",
         "Join Rory",
         "Josh Smith Social Producer",
         "Jess Kidson Producer",
@@ -5263,7 +5234,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1988",
       "speakers": [
-        "Elon Musk",
         "Join Rory",
         "Becki Hills",
         "Jess Kidson Producer",
@@ -5343,7 +5313,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3386",
       "speakers": [
-        "Keir Starmer",
         "Josh Smith Social Producer",
         "Jess Kidson Producer",
         "Nicole Maslen Fiona Douglas",
@@ -5476,7 +5445,6 @@
       "itunes_duration": "414",
       "speakers": [
         "Trump Needs",
-        "Donald Trump",
         "Katty Kay",
         "Anthony Scaramucci",
         "Jake Liascos Social Producer",
@@ -5603,7 +5571,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1610",
       "speakers": [
-        "Donald Trump",
         "Kamala Harris",
         "Jess Kidson Producer",
         "Nicole Maslen",
@@ -5652,7 +5619,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3437",
       "speakers": [
-        "Donald Trump",
         "Kamala Harris",
         "Katty Kay",
         "Anthony Scaramucci",
@@ -5730,7 +5696,6 @@
       "itunes_duration": "3048",
       "speakers": [
         "Secret Weapon",
-        "Donald Trump",
         "Kamala Harris",
         "Nicole Maslen Video",
         "Jess Kidson Producer",
@@ -5838,7 +5803,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3485",
       "speakers": [
-        "Donald Trump",
         "Michelle Obama",
         "Alastair Campbell",
         "Katty Kay",
@@ -5865,7 +5829,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3044",
       "speakers": [
-        "Tony Blair",
         "Video Editor",
         "Jess Kidson",
         "Tom Whiter",
@@ -5890,9 +5853,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4004",
       "speakers": [
-        "Joe Biden",
         "Kamala Harris",
-        "Tony Blair",
         "Video Editor",
         "Jess Kidson",
         "Fiona Douglas Producer",
@@ -5973,7 +5934,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3544",
       "speakers": [
-        "Elon Musk",
         "Video Editor",
         "Jess Kidson Producer",
         "Fiona Douglas Producer",
@@ -6005,7 +5965,6 @@
       "itunes_duration": "3411",
       "speakers": [
         "Kamala Harris",
-        "Donald Trump",
         "Katty Kay",
         "Anthony Scaramucci"
       ],
@@ -6087,7 +6046,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2956",
       "speakers": [
-        "Donald Trump",
         "Katty Kay",
         "Anthony Scaramucci",
         "Social Producer",
@@ -6172,9 +6130,7 @@
       "itunes_duration": "3139",
       "speakers": [
         "Trump’s Next Move How",
-        "Donald Trump",
         "Kamala Harris",
-        "Joe Biden",
         "Social Producer",
         "Jess Kidson",
         "Fiona Douglas",
@@ -6252,10 +6208,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2823",
       "speakers": [
-        "Joe Biden Drops",
-        "Joe Biden",
         "Kamala Harris",
-        "Donald Trump",
         "Katty Kay",
         "Anthony Scaramucci",
         "Video Editor",
@@ -6304,7 +6257,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2390",
       "speakers": [
-        "Keir Starmer",
         "Robert Peston",
         "Steph McGovern",
         "Video Editor",
@@ -6387,7 +6339,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1642",
       "speakers": [
-        "Donald Trump",
         "Katty Kay",
         "Anthony Scaramucci",
         "Video Editor",
@@ -6415,8 +6366,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2606",
       "speakers": [
-        "Joe Biden",
-        "Donald Trump",
         "Katty Kay",
         "Anthony Scaramucci",
         "Video Editor",
@@ -6468,7 +6417,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3507",
       "speakers": [
-        "Keir Starmer",
         "Marine Le Pen",
         "Masoud Pezeshkian",
         "Rory Stewart",
@@ -6498,7 +6446,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1585",
       "speakers": [
-        "Keir Starmer",
         "James Hodgson Video",
         "Jess Kidson",
         "Fiona Douglas Producer",
@@ -6573,7 +6520,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1441",
       "speakers": [
-        "Joe Biden",
         "Nathan Copelin Video",
         "Jess Kidson",
         "Fiona Douglas Producer",
@@ -6599,7 +6545,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3167",
       "speakers": [
-        "Joe Biden",
         "Join Rory",
         "Video Editor",
         "Jess Kidson",
@@ -6625,12 +6570,10 @@
       "enclosure_length": "0",
       "itunes_duration": "1534",
       "speakers": [
-        "Joe Biden",
         "Rory Stewart",
         "Alastair Campbell",
         "Katty Kay",
         "Anthony Scaramucci",
-        "Donald Trump",
         "Video Editor",
         "Jess Kidson"
       ],
@@ -6650,7 +6593,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2421",
       "speakers": [
-        "Joe Biden",
         "Katty Kay",
         "Anthony Scaramucci",
         "hnBSJyL Fea",
@@ -6768,7 +6710,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2600",
       "speakers": [
-        "Donald Trump",
         "Katty Kay",
         "Anthony Scaramucci",
         "Video Editor",
@@ -6852,7 +6793,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3391",
       "speakers": [
-        "Liz Truss",
         "Rory Stewart",
         "Alastair Campbell",
         "Video Editor",
@@ -6993,8 +6933,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2503",
       "speakers": [
-        "Donald Trump",
-        "Joe Biden",
         "Bill Ackman",
         "Katty Kay",
         "Anthony Scaramucci",
@@ -7059,7 +6997,6 @@
       "itunes_duration": "1958",
       "speakers": [
         "Rishi Sunak",
-        "Keir Starmer",
         "Join Rory",
         "Video Editor",
         "Jess Kidson",
@@ -7084,7 +7021,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4319",
       "speakers": [
-        "Nigel Farage",
         "Rishi Sunak",
         "Ed Davey",
         "Rory Stewart",
@@ -7137,7 +7073,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3313",
       "speakers": [
-        "Donald Trump",
         "Video Editor",
         "Jess Kidson",
         "Fiona Douglas Producer",
@@ -7163,8 +7098,6 @@
       "itunes_duration": "2760",
       "speakers": [
         "Diane Abbott",
-        "Nigel Farage",
-        "Keir Starmer",
         "Video Editor",
         "Jess Kidson",
         "Fiona Douglas Producer",
@@ -7269,8 +7202,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2793",
       "speakers": [
-        "Donald Trump",
-        "Keir Starmer",
         "Video Editor",
         "Jess Kidson",
         "Fiona Douglas Producer",
@@ -7298,7 +7229,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2637",
       "speakers": [
-        "Keir Starmer",
         "Video Editor",
         "Jess Kidson",
         "Fiona Douglas Producer",
@@ -7351,7 +7281,6 @@
       "itunes_duration": "2751",
       "speakers": [
         "Michael Cohen",
-        "Joe Biden",
         "Video Editor",
         "Jess Kidson",
         "Fiona Douglas Producer",
@@ -7376,7 +7305,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1921",
       "speakers": [
-        "Keir Starmer",
         "David Gauke",
         "James Hodgson Video",
         "Jess Kidson",
@@ -7437,7 +7365,6 @@
       "itunes_duration": "2732",
       "speakers": [
         "Kennedy Jr",
-        "Donald Trump",
         "Katty Kay",
         "Anthony Scaramucci",
         "Video Editor",
@@ -7531,8 +7458,6 @@
       "itunes_duration": "2014",
       "speakers": [
         "Kennedy Jr",
-        "Donald Trump",
-        "Joe Biden",
         "Rory Stewart",
         "Alastair Campbell",
         "Dom Johnson Nicole Maslen",
@@ -7647,7 +7572,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2456",
       "speakers": [
-        "Liz Truss",
         "Dom Johnson Nicole Maslen",
         "Davenport Learn"
       ],
@@ -7673,10 +7597,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3531",
-      "speakers": [
-        "Joe Biden",
-        "Liz Truss"
-      ],
+      "speakers": [],
       "topics": [
         "iran",
         "israel",
@@ -7811,7 +7732,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3343",
       "speakers": [
-        "Keir Starmer",
         "Rachel Reeves",
         "Join Rory"
       ],
@@ -7986,7 +7906,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2340",
       "speakers": [
-        "Liz Truss",
         "Shamima Begum",
         "Maslen Exec",
         "Davenport Learn"
@@ -8136,9 +8055,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3448",
-      "speakers": [
-        "Joe Biden"
-      ],
+      "speakers": [],
       "topics": [
         "democrats",
         "biden",
@@ -8160,8 +8077,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2060",
       "speakers": [
-        "Taylor Swift",
-        "Donald Trump",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -8190,7 +8105,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3258",
       "speakers": [
-        "King Charles Sunak",
         "Rishi Sunak",
         "Kim Jong Un"
       ],
@@ -8259,7 +8173,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2318",
       "speakers": [
-        "Donald Trump",
         "Join Rory",
         "Maslen Exec",
         "Davenport Learn"
@@ -8420,7 +8333,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3845",
       "speakers": [
-        "Liz Truss",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -8444,7 +8356,6 @@
       "itunes_duration": "2761",
       "speakers": [
         "Bill Gates",
-        "David Cameron",
         "Rishi Sunak"
       ],
       "topics": [
@@ -8487,9 +8398,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2126",
-      "speakers": [
-        "Joe Biden"
-      ],
+      "speakers": [],
       "topics": [
         "question",
         "time",
@@ -8536,7 +8445,6 @@
       "itunes_duration": "1914",
       "speakers": [
         "Rishi Sunak",
-        "Nigel Farage",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -8607,7 +8515,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3452",
       "speakers": [
-        "King Charles",
         "Henry Kissinger",
         "Join Rory"
       ],
@@ -8760,7 +8667,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3169",
       "speakers": [
-        "David Cameron",
         "Pedro Sanchez",
         "Maslen Exec",
         "Davenport Learn"
@@ -8785,7 +8691,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3124",
       "speakers": [
-        "David Cameron",
         "Suella Braverman",
         "Maslen Exec",
         "Davenport Learn"
@@ -8871,7 +8776,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3605",
       "speakers": [
-        "Keir Starmer",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -8892,7 +8796,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1988",
       "speakers": [
-        "Nigel Farage",
         "Will Nigel Farage"
       ],
       "topics": [
@@ -8966,9 +8869,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3370",
-      "speakers": [
-        "Joe Biden"
-      ],
+      "speakers": [],
       "topics": [
         "israel",
         "gaza"
@@ -9027,7 +8928,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1542",
       "speakers": [
-        "Keir Starmer",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -9051,7 +8951,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3228",
       "speakers": [
-        "Keir Starmer",
         "Join Rory",
         "Robert Carlyle",
         "Robert Sutherland"
@@ -9095,7 +8994,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1971",
       "speakers": [
-        "Tony Blair",
         "Rory Stewart",
         "Alastair Campbell",
         "Maslen Exec",
@@ -9144,7 +9042,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1702",
       "speakers": [
-        "Rupert Murdoch",
         "Rory Stewart",
         "Alastair Campbell",
         "Maslen Exec",
@@ -9171,9 +9068,7 @@
       "itunes_duration": "2786",
       "speakers": [
         "Scrapping HS",
-        "Angela Rayner",
-        "Keir Starmer",
-        "King Charles"
+        "Angela Rayner"
       ],
       "topics": [
         "ukraine",
@@ -9193,9 +9088,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2003",
       "speakers": [
-        "Keir Starmer",
         "Jeremy Corbyn",
-        "Tony Blair",
         "Rory Stewart",
         "Alastair Campbell"
       ],
@@ -9224,7 +9117,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2942",
       "speakers": [
-        "Liz Truss",
         "Join Rory",
         "Maslen Exec",
         "Davenport Learn"
@@ -9269,7 +9161,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2042",
       "speakers": [
-        "Liz Truss",
         "Viktor Orbán",
         "Rory Stewart",
         "Alastair Campbell"
@@ -9443,7 +9334,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2168",
       "speakers": [
-        "David Cameron",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -9595,7 +9485,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2441",
       "speakers": [
-        "Nigel Farage",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -9648,7 +9537,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2075",
       "speakers": [
-        "Liz Truss",
         "Join Rory",
         "Maslen Exec",
         "Davenport Learn"
@@ -9749,7 +9637,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3326",
       "speakers": [
-        "Keir Starmer",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -9920,10 +9807,7 @@
       "itunes_duration": "3180",
       "speakers": [
         "Vladimir Putin",
-        "Boris Johnson",
         "Will Sunak",
-        "Albert Hall th",
-        "Albert Hall",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10024,9 +9908,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2097",
-      "speakers": [
-        "Boris Johnson"
-      ],
+      "speakers": [],
       "topics": [
         "boris",
         "johnson"
@@ -10092,8 +9974,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1618",
       "speakers": [
-        "Boris Johnson Resigns",
-        "Boris Johnson",
         "Maslen Learn"
       ],
       "topics": [
@@ -10162,8 +10042,6 @@
       "itunes_duration": "2381",
       "speakers": [
         "John Major",
-        "Tony Blair",
-        "Boris Johnson",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10317,7 +10195,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2053",
       "speakers": [
-        "Boris Johnson",
         "Gerry Adams",
         "Maslen Exec",
         "Davenport Learn"
@@ -10447,7 +10324,6 @@
       "speakers": [
         "Alastair Campbell",
         "Will Alastair",
-        "Rupert Murdoch",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10523,7 +10399,6 @@
       "speakers": [
         "Leaking Liz Truss",
         "Paddy Ashdown",
-        "Joe Biden",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10576,7 +10451,6 @@
       "itunes_duration": "2614",
       "speakers": [
         "Xi Jinping",
-        "Tony Blair",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10604,7 +10478,6 @@
       "itunes_duration": "3564",
       "speakers": [
         "Vladimir Putin",
-        "Keir Starmer",
         "Rishi Sunak",
         "Maslen Exec",
         "Davenport Learn"
@@ -10657,8 +10530,6 @@
       "itunes_duration": "3243",
       "speakers": [
         "Sanna Marin",
-        "Donald Trump",
-        "King Charles",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10788,7 +10659,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3320",
       "speakers": [
-        "Tony Blair",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10900,7 +10770,6 @@
       "speakers": [
         "Bernie Sanders",
         "Michael Foot",
-        "Boris Johnson",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10931,7 +10800,6 @@
       "speakers": [
         "Sunak’s Windsor",
         "Rishi Sunak",
-        "Keir Starmer",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -10984,7 +10852,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3453",
       "speakers": [
-        "Boris Johnson",
         "Maslen Exec",
         "Davenport Learn"
       ],
@@ -11088,7 +10955,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2961",
       "speakers": [
-        "Liz Truss",
         "Sandi Toksvig",
         "Maslen Exec",
         "Davenport Learn"
@@ -11191,7 +11057,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2675",
       "speakers": [
-        "Boris Johnson",
         "Nadhim Zahawi",
         "Maslen Exec",
         "Davenport Learn"
@@ -11218,8 +11083,6 @@
       "itunes_duration": "2075",
       "speakers": [
         "Andrew Tate",
-        "Boris Johnson",
-        "Joe Biden",
         "Suella Braverman",
         "Maslen Exec",
         "Davenport Learn"
@@ -11372,8 +11235,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3019",
       "speakers": [
-        "Tony Blair",
-        "Gordon Brown",
         "Ian Kennedy",
         "John Burn-Murdoch",
         "Johann Hari",
@@ -11566,8 +11427,6 @@
       "itunes_duration": "2528",
       "speakers": [
         "Join Alastair",
-        "Gordon Brown",
-        "Keir Starmer",
         "Cyril Ramaphosa",
         "Maslen Exec",
         "Davenport Learn"
@@ -11662,7 +11521,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1560",
       "speakers": [
-        "Nigel Farage",
         "Rishi Sunak",
         "Jeremy Hunt",
         "Exec Producer",
@@ -11738,10 +11596,7 @@
       "itunes_duration": "2872",
       "speakers": [
         "Join Rory",
-        "Rupert Murdoch",
-        "Donald Trump",
         "Ron DeSantis",
-        "Joe Biden",
         "Xi Jinping",
         "Rishi Sunak",
         "David Nott"
@@ -11843,7 +11698,6 @@
       "itunes_duration": "2010",
       "speakers": [
         "Join Alastair",
-        "Elon Musk",
         "John Reith",
         "Maslen Exec",
         "Davenport Learn"
@@ -11870,7 +11724,6 @@
       "itunes_duration": "3128",
       "speakers": [
         "Suella Braverman",
-        "Tony Blair",
         "Matt Hancock",
         "Maslen Exec",
         "Davenport Learn"
@@ -11944,7 +11797,6 @@
       "itunes_duration": "2354",
       "speakers": [
         "Rishi Sunak",
-        "Boris Johnson",
         "Dom Johnson Theo Young-Smith",
         "Jack Davenport Learn"
       ],
@@ -11967,10 +11819,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3514",
       "speakers": [
-        "Liz Truss Resigns",
         "Rory Stewart",
         "Alastair Campbell",
-        "Liz Truss",
         "Maslen Exec"
       ],
       "topics": [
@@ -12013,8 +11863,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2814",
       "speakers": [
-        "Hunt U-turn",
-        "Liz Truss"
+        "Hunt U-turn"
       ],
       "topics": [
         "hunt",
@@ -12078,7 +11927,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3214",
       "speakers": [
-        "Liz Truss",
         "Nadhim Zahawi",
         "Maslen Exec",
         "Davenport Learn"
@@ -12165,7 +12013,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2543",
       "speakers": [
-        "Liz Truss",
         "Kwasi Kwarteng",
         "Davenport Learn"
       ],
@@ -12209,7 +12056,6 @@
       "itunes_duration": "2974",
       "speakers": [
         "Kwasi Kwarteng",
-        "Liz Truss",
         "Davenport Learn"
       ],
       "topics": [
@@ -12278,8 +12124,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3497",
       "speakers": [
-        "Elizabeth II",
-        "Liz Truss"
+        "Elizabeth II"
       ],
       "topics": [
         "queen",
@@ -12301,7 +12146,6 @@
       "itunes_duration": "2892",
       "speakers": [
         "Mark Drakeford",
-        "Boris Johnson",
         "Davenport Learn"
       ],
       "topics": [
@@ -12372,8 +12216,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1267",
       "speakers": [
-        "Liz Truss",
-        "Boris Johnson",
         "Davenport Learn"
       ],
       "topics": [
@@ -12396,7 +12238,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1644",
       "speakers": [
-        "Liz Truss",
         "James Cleverly",
         "Davenport Learn"
       ],
@@ -12419,9 +12260,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2803",
       "speakers": [
-        "Liz Truss",
         "Joe Lycett",
-        "Keir Starmer",
         "Davenport Learn"
       ],
       "topics": [
@@ -12486,7 +12325,6 @@
       "itunes_duration": "1816",
       "speakers": [
         "Margaret Thatcher",
-        "Rupert Murdoch",
         "Mick Lynch",
         "Jack Davenport Learn"
       ],
@@ -12513,7 +12351,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3021",
       "speakers": [
-        "Liz Truss",
         "Jack Davenport Learn"
       ],
       "topics": [
@@ -12556,7 +12393,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2394",
       "speakers": [
-        "Gordon Brown",
         "Gillian Duffy",
         "Jack Davenport Learn"
       ],
@@ -12582,8 +12418,6 @@
       "itunes_duration": "3121",
       "speakers": [
         "Salman Rushdie",
-        "Gordon Brown",
-        "Keir Starmer",
         "Jack Davenport"
       ],
       "topics": [
@@ -12638,7 +12472,6 @@
         "Join Alastair",
         "George Canning",
         "Nancy Pelosi",
-        "Boris Johnson",
         "Jack Davenport Learn"
       ],
       "topics": [
@@ -12692,8 +12525,6 @@
       "itunes_duration": "3074",
       "speakers": [
         "William Hague",
-        "Boris Johnson",
-        "Tony Blair",
         "Jack Davenport Learn"
       ],
       "topics": [
@@ -12720,8 +12551,6 @@
         "Alastair Campbell",
         "Rory Stewart",
         "Nancy Pelosi",
-        "Boris Johnson",
-        "Gordon Brown",
         "Robert Saunders",
         "Jack Davenport Learn"
       ],
@@ -12820,7 +12649,6 @@
       "itunes_duration": "2145",
       "speakers": [
         "Rishi Sunak",
-        "Liz Truss",
         "Davenport Learn"
       ],
       "topics": [
@@ -12841,8 +12669,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2883",
       "speakers": [
-        "Keir Starmer",
-        "Boris Johnson",
         "Lib Dems",
         "Jack Davenport Sign"
       ],
@@ -12867,8 +12693,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2581",
       "speakers": [
-        "Joe Biden",
-        "Boris Johnson",
         "Jack Davenport Learn"
       ],
       "topics": [
@@ -12917,12 +12741,10 @@
       "itunes_duration": "2939",
       "speakers": [
         "Rishi Sunak",
-        "Liz Truss",
         "Penny Mordaunt",
         "Tom Tugendhat",
         "Alastair Campbell",
         "Rory Stewart",
-        "Boris Johnson",
         "Ben Walker"
       ],
       "topics": [
@@ -12945,8 +12767,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2875",
       "speakers": [
-        "Boris Johnson Resigns",
-        "Boris Johnson",
         "Alastair Campbell",
         "Rory Stewart",
         "Davenport Learn"
@@ -13000,7 +12820,6 @@
         "Rory Stewart",
         "Rishi Sunak",
         "Sajid Javid",
-        "Boris Johnson",
         "Davenport Learn"
       ],
       "topics": [
@@ -13048,7 +12867,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3479",
       "speakers": [
-        "Tony Blair",
         "Rory Stewart",
         "Alastair Campbell",
         "Tony Pastor Jack Davenport"
@@ -13124,7 +12942,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1775",
       "speakers": [
-        "Tony Blair",
         "Alastair Campbell",
         "Rory Stewart",
         "James Hodgson Producer",
@@ -13151,11 +12968,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3342",
       "speakers": [
-        "Keir Starmer",
         "Join Rory",
         "Wes Streeting",
-        "Tony Blair",
-        "Liz Truss",
         "Tony Pastor Jack Davenport"
       ],
       "topics": [
@@ -13262,11 +13076,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2476",
       "speakers": [
-        "Rupert Murdoch",
         "Anthony Albanese",
         "Mhairi Black",
         "Bill Cash",
-        "Nigel Farage",
         "Join Rory"
       ],
       "topics": [
@@ -13335,8 +13147,7 @@
       "itunes_duration": "3592",
       "speakers": [
         "Rory Stewart",
-        "Alastair Campbell",
-        "Boris Johnson"
+        "Alastair Campbell"
       ],
       "topics": [
         "politic",
@@ -13357,7 +13168,6 @@
       "itunes_duration": "3182",
       "speakers": [
         "Basic Instinct",
-        "Boris Johnson",
         "Miley Cyrus"
       ],
       "topics": [
@@ -13437,7 +13247,6 @@
       "itunes_duration": "3574",
       "speakers": [
         "Malcolm Tucker",
-        "Joe Biden",
         "Goalhanger Podcasts Learn"
       ],
       "topics": [
@@ -13567,8 +13376,9 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — 503. Andrew’s Arrest: What Next? — speakers: Andrew’s Arrest, Andrew Mountbatten Windsor, King Charles, Charles Video, Josh Smith, Adam Thornton, Daisy Alston-Horne, Evan Green
-- 2026-02-19 — 502. How Nigel Farage Gets Away With It (Question Time) — speakers: Nigel Farage, Charles Video, Josh Smith, Vasco Andrade, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
+- 2026-02-23 — Why Trump Wants Greenland — speakers: Trump Wants Greenland, Charles Video, James Clayden Producer, Tom Whiter Learn
+- 2026-02-19 — 503. Andrew’s Arrest: What Next? — speakers: Andrew’s Arrest, Andrew Mountbatten Windsor, Charles Video, Josh Smith, Adam Thornton, Daisy Alston-Horne, Evan Green
+- 2026-02-19 — 502. How Nigel Farage Gets Away With It (Question Time) — speakers: Charles Video, Josh Smith, Vasco Andrade, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-02-16 — 501. Is Starmer Too Soft on Trump? Inside the Munich Security Conference — speakers: Marco Rubio, JD Vance, Join Rory, Charles Video, Kieron Leslie, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-02-13 — The Battle for the Arctic — speakers: Charles Video, Tom Whiter Learn
 - 2026-02-12 — 500. Japan, China, and the Fight for Taiwan (Question Time) — speakers: Sanae Takayichi, Anyone Builds, Eliezer Yudkowsky, Nate Soares, Charles Video, Adam Thornton, Daisy Alston-Horne, Evan Green
@@ -13579,15 +13389,15 @@
 - 2026-01-29 — 495. Terror in Minnesota: The Putinisation of America (Question Time) — speakers: Mustafa Suleyman, Charles Video, Adam Thornton, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-28 — 494. Carney’s Trump Fightback and the Starmer-Burnham Fallout — speakers: Carney’s Trump Fightback, Charles Video, Josh Smith, Lorcan Mouillier, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-25 — What If the AI Revolution Isn’t Real? — speakers: Rory Stewart, Matt Clifford, Arvind Narayanan, Charles Video, Tom Whiter Learn
-- 2026-01-23 — 493. Trump Insults NATO Troops — speakers: Keir Starmer, Anthony Scaramucci, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
+- 2026-01-23 — 493. Trump Insults NATO Troops — speakers: Anthony Scaramucci, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-23 — 492. Should Europe Boycott the World Cup? (Question Time) — speakers: Robert Jenrick, Join Rory, Charles Video, Adam Thornton, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-21 — 491. Trump at Davos: Rory and Alastair React — speakers: Alastair React, Mark Carney, Charles Video, Josh Smith, James Clayden, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-21 — 490. Trump’s Greenland Ultimatum: What Next? — speakers: Trump’s Greenland, Charles Video, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-15 — Will AI End Humanity? — speakers: Will AI, Yoshua Bengio, Rory Stewart, Matt Clifford, Charles Video, Tom Whiter Learn
-- 2026-01-15 — 489. Musk's AI Deepfake Disgrace & JD Vance's Minnesota Lies (Question Time) — speakers: JD Vance, Boris Johnson, Join Rory, Charles Video, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
+- 2026-01-15 — 489. Musk's AI Deepfake Disgrace & JD Vance's Minnesota Lies (Question Time) — speakers: JD Vance, Join Rory, Charles Video, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-13 — 488. Is Iran on the Edge of Revolution? — speakers: Charles Video, Josh Smith, Lorcan Mouillier, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-08 — China vs USA: Who Will Win the AI Race? — speakers: Charles Video, Tom Whiter Learn
-- 2026-01-08 — 487. Is Starmer Rethinking His Approach to Europe? (Question Time) — speakers: Keir Starmer, Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
+- 2026-01-08 — 487. Is Starmer Rethinking His Approach to Europe? (Question Time) — speakers: Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
 - 2026-01-06 — 486. Does Maduro’s Capture Put Greenland at Risk? — speakers: Join Rory, Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
 - 2026-01-03 — 485. Trump Says America will Run Venezuela — speakers: Run Venezuela Trump, Nicolás Maduro, Celine Charles, Harry Balden, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2026-01-01 — 484. War in Europe, Trump's Destruction of Institutions, and Britain’s National Treasures (Question Time) — speakers: Charlie Johnson, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
@@ -13605,26 +13415,26 @@
 - 2025-12-02 — Introducing: The Rest Is Science — speakers: Hannah Fry, Michael Stevens
 - 2025-11-26 — 474. Does Reeves' Budget Really Change Anything? What It Means For You — speakers: Rachel Reeves, Politics Plus, Charlie Johnson, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
 - 2025-11-26 — 473. Europe vs. Trump: Competing Visions for a Ukraine Peace Deal (Question Time) — speakers: People’s Postcode Lottery, Politics Plus, Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
-- 2025-11-23 — 472. Is Trump’s Peace 'Plan’ Forced Surrender for Ukraine? — speakers: Trump’s Peace, Join Rory, JD Vance, Rupert Murdoch, Emma Jackson, Harry Balden, Daisy Alston-Horne, Evan Green
-- 2025-11-21 — 471. Rory Stewart: How the Government Tried to Silence Me on Lockdowns — speakers: Rory Stewart, Boris Johnson, Emma Jackson, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
-- 2025-11-20 — 470. China vs Japan, the BBC at Breaking Point, and The Future of Satire (Question Time) — speakers: Rupert Murdoch, Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
-- 2025-11-19 — 469. Is Starmer Out of Moves? Asylum Gamble, Tax Chaos, and Open Infighting — speakers: Rupert Murdoch, Emma Jackson, Josh Smith, Vasco Andrade, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
-- 2025-11-12 — 468. Starmer in Crisis: Sabotage From Within? (Question Time) — speakers: Keir Starmer, Join Rory, Rupert Murdoch, Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
-- 2025-11-12 — 467. The Mamdani Method Explained: Could It Shock Britain? — speakers: Zohran Mamdani, Zack Polanski, Nigel Farage, Donald Trump, Ahmed al-Sharaa, Rupert Murdoch, Charles Video, Josh Smith
+- 2025-11-23 — 472. Is Trump’s Peace 'Plan’ Forced Surrender for Ukraine? — speakers: Trump’s Peace, Join Rory, JD Vance, Emma Jackson, Harry Balden, Daisy Alston-Horne, Evan Green
+- 2025-11-21 — 471. Rory Stewart: How the Government Tried to Silence Me on Lockdowns — speakers: Rory Stewart, Emma Jackson, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
+- 2025-11-20 — 470. China vs Japan, the BBC at Breaking Point, and The Future of Satire (Question Time) — speakers: Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
+- 2025-11-19 — 469. Is Starmer Out of Moves? Asylum Gamble, Tax Chaos, and Open Infighting — speakers: Emma Jackson, Josh Smith, Vasco Andrade, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
+- 2025-11-12 — 468. Starmer in Crisis: Sabotage From Within? (Question Time) — speakers: Join Rory, Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
+- 2025-11-12 — 467. The Mamdani Method Explained: Could It Shock Britain? — speakers: Zohran Mamdani, Zack Polanski, Ahmed al-Sharaa, Charles Video, Josh Smith
 - 2025-11-10 — 466. Crisis Engulfs the BBC: Is this a Coordinated Attack? — speakers: Join Rory, Charles Video, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
-- 2025-11-07 — Murdoch's Succession Battle and the Fight for Fox News — speakers: Rupert Murdoch, Michael Wolff, Nicole Maslen, Charlie Rodwell Social, Charles Filmed, Charlie Rodwell
-- 2025-11-06 — 465. Andrew’s Disgrace, Newsnight, and a Centrist Win in the Netherlands (Question Time) — speakers: Andrew’s Disgrace, Join Rory, Rupert Murdoch, Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
-- 2025-11-05 — 464. Labour’s Tax Timebomb, Climate Backsliding, and Sudan’s Forgotten War — speakers: Elon Musk, Join Rory, Rupert Murdoch, Charles Video Producer, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
-- 2025-11-03 — The Monster He Made: Murdoch, Trump, and the Price of Power (Part 4) — speakers: Donald Trump, Rupert Murdoch, Wendi Deng, Michael Wolff, Nicole Maslen, Charlie Rodwell Social, Charles Filmed, Charlie Rodwell
-- 2025-10-30 — 463. Question Time: How Truth Became Optional In Trump’s America — speakers: Rupert Murdoch, Charles Video, Josh Smith, Evan Green, Tom Whiter Learn
-- 2025-10-29 — 462. Starmer Hits Rock Bottom: Will He Break His Manifesto to Survive? — speakers: Catherine Connolly, Join Rory, Rupert Murdoch, Charles Video Producer, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
-- 2025-10-25 — The Phone-Hacking Scandal: How Murdoch's UK Empire Fell (Part 3) — speakers: Rupert Murdoch, Wendi Deng, Michael Wolff, Nicole Maslen, Josh Smith Social Producer, Charles Filmed, Charlie Rodwell, Callum Hill Artwork
-- 2025-10-23 — 461. Question Time: The Tel Aviv Fan Ban & Japan’s New Thatcher — speakers: Christopher Cash, Christopher Berry, Maccabi Tel Aviv, Prince Andrew, Join Rory, Rupert Murdoch, Charles Video, Josh Smith
-- 2025-10-21 — 460. Inside Trump’s Gaza-Ukraine Playbook: Who Profits from Peace? — speakers: Trump’s Gaza-Ukraine Playbook, Join Rory, Rupert Murdoch, Charles Video, Josh Smith, Evan Green, Tom Whiter Learn
-- 2025-10-16 — A Deal With the Devil? Murdoch and New Labour (Part 2) — speakers: Rupert Murdoch, Margaret Thatcher, Tony Blair, Michael Wolff, Nicole Maslen, Josh Smith Social Producer, Charles Filmed, Charlie Rodwell
+- 2025-11-07 — Murdoch's Succession Battle and the Fight for Fox News — speakers: Michael Wolff, Nicole Maslen, Charlie Rodwell Social, Charles Filmed, Charlie Rodwell
+- 2025-11-06 — 465. Andrew’s Disgrace, Newsnight, and a Centrist Win in the Netherlands (Question Time) — speakers: Andrew’s Disgrace, Join Rory, Charles Video, Josh Smith, Evan Green, Daisy Alston-Horne, Tom Whiter Learn
+- 2025-11-05 — 464. Labour’s Tax Timebomb, Climate Backsliding, and Sudan’s Forgotten War — speakers: Join Rory, Charles Video Producer, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
+- 2025-11-03 — The Monster He Made: Murdoch, Trump, and the Price of Power (Part 4) — speakers: Wendi Deng, Michael Wolff, Nicole Maslen, Charlie Rodwell Social, Charles Filmed, Charlie Rodwell
+- 2025-10-30 — 463. Question Time: How Truth Became Optional In Trump’s America — speakers: Charles Video, Josh Smith, Evan Green, Tom Whiter Learn
+- 2025-10-29 — 462. Starmer Hits Rock Bottom: Will He Break His Manifesto to Survive? — speakers: Catherine Connolly, Join Rory, Charles Video Producer, Josh Smith, Daisy Alston-Horne, Evan Green, Tom Whiter Learn
+- 2025-10-25 — The Phone-Hacking Scandal: How Murdoch's UK Empire Fell (Part 3) — speakers: Wendi Deng, Michael Wolff, Nicole Maslen, Josh Smith Social Producer, Charles Filmed, Charlie Rodwell, Callum Hill Artwork
+- 2025-10-23 — 461. Question Time: The Tel Aviv Fan Ban & Japan’s New Thatcher — speakers: Christopher Cash, Christopher Berry, Maccabi Tel Aviv, Prince Andrew, Join Rory, Charles Video, Josh Smith
+- 2025-10-21 — 460. Inside Trump’s Gaza-Ukraine Playbook: Who Profits from Peace? — speakers: Trump’s Gaza-Ukraine Playbook, Join Rory, Charles Video, Josh Smith, Evan Green, Tom Whiter Learn
+- 2025-10-16 — A Deal With the Devil? Murdoch and New Labour (Part 2) — speakers: Margaret Thatcher, Michael Wolff, Nicole Maslen, Josh Smith Social Producer, Charles Filmed, Charlie Rodwell
 - 2025-10-15 — 459. Question Time: Reform's Potential Upside, Why Bad News Sells & Reasons To Stay Hopeful — speakers: Charles Video, Josh Smith, Evan Green, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-10-14 — 458. Can Trump's Peace Deal Actually Work? — speakers: Charles Video, Josh Smith, Evan Green, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-10-09 — The Rise of Rupert Murdoch: Making of a Mogul (Part 1) — speakers: Rupert Murdoch, Michael Wolff, Nicole Maslen, Josh Smith Social Producer, Charles Filmed, Charlie Rodwell
+- 2025-10-09 — The Rise of Rupert Murdoch: Making of a Mogul (Part 1) — speakers: Michael Wolff, Nicole Maslen, Josh Smith Social Producer, Charles Filmed, Charlie Rodwell
 - 2025-10-08 — 457. Is Trump Planning Regime Change? — speakers: Charles Video, Josh Smith, Evan Green, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-10-07 — 456. Antisemitism, How the Tories Lost Britain, and Gaza — speakers: Trump’s Gaza, Charles Video, Josh Smith, Evan Green, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-10-01 — 455. Question Time: Is Europe Already At War With Russia? — speakers: Charles Video, Josh Smith, Evan Green, Tom Whiter, Tony Pastor, Jack Davenport
@@ -13637,7 +13447,7 @@
 - 2025-09-11 — 448. Question Time: Mandelson’s Epstein Disgrace, Kirk’s Assassination, and Trump’s Illegal Boat Strike — speakers: Kirk’s Assassination, Peter Mandelson, Charlie Kirk, Join Rory, Charles Video, Adam Thornton, Evan Green, Tony Pastor
 - 2025-09-10 — 447. Is Starmer Sleepwalking Britain into Farage’s Hands? — speakers: Will Farage, Charles Video, Josh Smith, Evan Green, Tony Pastor, Jack Davenport Learn
 - 2025-09-09 — 446. Israel Bombs Qatar: Where Does Impunity End? — speakers: Join Rory, Evan Green, Tony Pastor, Jack Davenport Learn
-- 2025-09-05 — 445. Starmer's Deputy PM Quits: The Return of Chaos in British Politics? — speakers: Angela Rayner, Nigel Farage, Charlie Johnson, Adam Thornton, Josh Smith, Evan Green, Tony Pastor, Jack Davenport Learn
+- 2025-09-05 — 445. Starmer's Deputy PM Quits: The Return of Chaos in British Politics? — speakers: Angela Rayner, Charlie Johnson, Adam Thornton, Josh Smith, Evan Green, Tony Pastor, Jack Davenport Learn
 - 2025-09-03 — 444. Question Time: Can Labour Reinvent Itself? — speakers: Charles Video, Josh Smith, Evan Green, Tony Pastor, Jack Davenport Learn
 - 2025-09-02 — 443. China’s Plot to Topple Trump: How to Bring Down a Superpower — speakers: Charles Video, Josh Smith, Charlie Rodwell, Evan Green, Tony Pastor, Jack Davenport Learn
 - 2025-08-27 — 442. Question Time: Trump's Plot To Cancel The Midterms — speakers: Charles Video, Josh Smith, Evan Green, Tony Pastor, Jack Davenport Learn
@@ -13660,9 +13470,9 @@
 - 2025-07-11 — 427. The Real JD Vance: Heir to the MAGA Throne (Part 4) — speakers: JD Vance Trump, JD Vance, Callum Hill, Evan Green Social, Charles Video, Josh Smith, Adam Thornton, Evan Green
 - 2025-07-09 — 426. Corbyn's Comeback, Musk's New Party and The Broken SEND System — speakers: com Instagram, Josh Smith, Nicole Maslen, Fiona Douglas Social Producer, Charles Senior, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-07-08 — 425. Israel, Gaza, and the Definition of Genocide — speakers: Join Rory, Celine Charles, Harry Balden Video, Josh Smith, Evan Green, Nicole Maslen, Fiona Douglas, Tom Whiter
-- 2025-07-03 — 424. The Real JD Vance: From Never Trumper to Vice President (Part 3) — speakers: Donald Trump, JD Vance, Callum Hill, Evan Green Social, Charles Video, Josh Smith, Evan Green, Nicole Maslen
+- 2025-07-03 — 424. The Real JD Vance: From Never Trumper to Vice President (Part 3) — speakers: JD Vance, Callum Hill, Evan Green Social, Charles Video, Josh Smith, Evan Green, Nicole Maslen
 - 2025-07-02 — 423. Question Time: Glastonbury’s Israel fallout, New York’s socialist mayor and why NATO called Trump ‘daddy’ — speakers: Join Rory, Josh Smith, Nicole Maslen, Fiona Douglas Social Producer, Charles Senior, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-07-01 — 422. Things Can Only Get Better? Starmer's Stormy First Year — speakers: Keir Starmer, Donald Trump, Join Rory, Charles Video, Josh Smith, Adam Thornton, Evan Green, Nicole Maslen
+- 2025-07-01 — 422. Things Can Only Get Better? Starmer's Stormy First Year — speakers: Join Rory, Charles Video, Josh Smith, Adam Thornton, Evan Green, Nicole Maslen
 - 2025-06-27 — 421. The Real JD Vance: The Power Behind The Man (Part 2) — speakers: Callum Hill, Evan Green Social, Charles Video, Josh Smith, Evan Green, Nicole Maslen, Fiona Douglas, Tom Whiter
 - 2025-06-25 — 420. Question Time: The History of Iran vs. the West — speakers: Join Rory, Charles Video, Josh Smith, Evan Green, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
 - 2025-06-24 — 419. What next for Trump, Israel, and Iran? | Peace vs. Regime Change — speakers: Charles Video, Josh Smith, Evan Green, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
@@ -13670,7 +13480,7 @@
 - 2025-06-19 — 417. The Real JD Vance: America’s Next President? (Part 1) — speakers: Will JD, Callum Hill, Evan Green Social, Charles Video, Josh Smith, Evan Green, Nicole Maslen, Fiona Douglas
 - 2025-06-18 — 416. Question Time: What the Head of MI6 Really Does — speakers: Join Rory, com Instagram, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas Social Producer, Charles Senior, Tom Whiter
 - 2025-06-17 — 415. Iran, Israel, and Trump: War in the Middle East — speakers: com Instagram, Josh Smith, Nicole Maslen, Fiona Douglas Social Producer, Charles Senior, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-06-13 — 414. Israel vs. Iran: What Happens Next — speakers: Benjamin Netanyahu, Donald Trump, Charles Video, Josh Smith, Evan Green, Nicole Maslen, Fiona Douglas, Tom Whiter
+- 2025-06-13 — 414. Israel vs. Iran: What Happens Next — speakers: Benjamin Netanyahu, Charles Video, Josh Smith, Evan Green, Nicole Maslen, Fiona Douglas, Tom Whiter
 - 2025-06-11 — 413. Question Time: How to solve Britain’s immigration question — speakers: Join Rory, com Instagram, Josh Smith, Nicole Maslen, Fiona Douglas Social Producer, Charles Senior, Tom Whiter, Tony Pastor
 - 2025-06-10 — 412. Is Trump Starting a Civil War? | LA Protests — speakers: Trump Starting, Join Rory, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
 - 2025-06-04 — 411. Question Time: Gaza’s Aid Blocked, Trump’s Power Tested & Dominic Cummings’ Big Mistake — speakers: Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
@@ -13678,25 +13488,25 @@
 - 2025-05-28 — 409. Question Time: Trump's Golden Dome, Gaza's Global Outcry and Starmer's Prison Gamble — speakers: Global Outcry, Eventim Apollo, Manchester Get, com Instagram, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter
 - 2025-05-27 — 408. Broken Britain: Farage’s Plot to Outflank Labour — speakers: Evan Green, Joshua Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-05-21 — 407. Question Time: The U-turn Starmer Can’t Avoid — speakers: com Instagram, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-05-20 — 406. Biden, Springsteen, and Trump: Dancing in the Dark — speakers: Joe Biden, Join Rory, Evan Green, Adam Thornton, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
+- 2025-05-20 — 406. Biden, Springsteen, and Trump: Dancing in the Dark — speakers: Join Rory, Evan Green, Adam Thornton, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
 - 2025-05-19 — 405. Starmer's EU Deal: A New Era — speakers: Join Rory, Evan Green, Harry Balden Producers, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-05-14 — 404. Question Time: How Starmer Fell Into Farage's Immigration Trap — speakers: Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-05-13 — 403. Trump's Gulf Billions: Saudi, Sanctions, and Ceasefires — speakers: Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-05-07 — 402. Question Time: India vs. Pakistan | What Happens Now? — speakers: Tony Blair, Join Rory, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-05-06 — 401. Trump’s Corruption Machine, Israeli Settlers, and the Rise of Reform UK — speakers: Donald Trump, Nigel Farage, Keir Starmer, Evan Green, Joshua Smith, Nicole Maslen, Fiona Douglas, Tom Whiter
+- 2025-05-07 — 402. Question Time: India vs. Pakistan | What Happens Now? — speakers: Join Rory, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
+- 2025-05-06 — 401. Trump’s Corruption Machine, Israeli Settlers, and the Rise of Reform UK — speakers: Evan Green, Joshua Smith, Nicole Maslen, Fiona Douglas, Tom Whiter
 - 2025-04-30 — 400. Question Time: Has the US underestimated China? — speakers: Join Rory, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-04-29 — 399. Trump vs. Putin, How to Stop Farage, and Kashmir Explained — speakers: Kashmir Explained, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-04-23 — 398. Question Time: Trump’s Plan to Overhaul US Diplomacy — speakers: Will Harvard, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-04-22 — 397. Pope Francis, the Supreme Court Gender Ruling, and Trump’s International Populist Network — speakers: Pope Francis, Join Rory, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
 - 2025-04-16 — 396. Question Time: It's over for Kemi Badenoch — speakers: Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-04-15 — 395. Trump, Xi, and how China outsmarted America — speakers: Josh Smith, Charlie Rodwell, Adam Thornton Social Producers, Charlie Johnson, Harry Balden Producers, Nicole Maslen, Fiona Douglas, Tom Whiter
-- 2025-04-14 — 394. How We Trolled the Trolls: Putin, Trump, and Musk (with Anthony Scaramucci) — speakers: Anthony Scaramucci, Elon Musk, Rory Stewart, Alastair Campbell, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
+- 2025-04-14 — 394. How We Trolled the Trolls: Putin, Trump, and Musk (with Anthony Scaramucci) — speakers: Anthony Scaramucci, Rory Stewart, Alastair Campbell, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
 - 2025-04-09 — 393. Question Time: America’s last ally, Japan in crisis, and Netanyahu on the brink? — speakers: Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-04-08 — 392. Trump’s Rampage: The Fight Against Global Crisis — speakers: Trump’s Rampage, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-04-04 — 391. Trump vs. the World: Global Trade War — speakers: Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-04-02 — 390. Question Time: India’s moment, Qatargate, and do young brits want a dictator? — speakers: Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-04-01 — 389. Trump, Vance, and How the US Invades Greenland — speakers: Marine Le Pen, Join Rory, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
-- 2025-03-28 — 388. Question Time: Adolescence, Mexico at a crossroads, and Carney’s Canadian momentum — speakers: Carney’s Canadian, Donald Trump, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
+- 2025-03-28 — 388. Question Time: Adolescence, Mexico at a crossroads, and Carney’s Canadian momentum — speakers: Carney’s Canadian, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-03-27 — 387. Spring Statement Verdict with Economist Paul Johnson (Extract) — speakers: Paul Johnson, Rachel Reeves, Nicole Maslen, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-03-26 — 386. Trump's 'Bomb Yemen' Group Chat — speakers: Rachel Reeves, Evan Green, Josh Smith, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-03-20 — 385. Question Time: Trump, Putin, and the Future of Ukraine — speakers: Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
@@ -13706,15 +13516,15 @@
 - 2025-03-07 — 381. Question Time: Starmer’s Dilemma — speakers: Evan Green Social, Nicole Maslen, Fiona Douglas, Tom Whiter Head, Sam Oakley, Tony Pastor, Jack Davenport Learn
 - 2025-03-06 — 380. JD Vance vs. the UK — speakers: JD Vance, Evan Green Social, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-03-05 — 379. The Four Outcomes For Ukraine — speakers: Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-02-28 — 378. TRUMP VS. ZELENSKY: OVAL OFFICE SHOWDOWN — speakers: JD Vance, King Charles, Evan Green Social, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
+- 2025-02-28 — 378. TRUMP VS. ZELENSKY: OVAL OFFICE SHOWDOWN — speakers: JD Vance, Evan Green Social, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-02-28 — 377. Question Time: How will Europe defend itself? — speakers: Evan Green, Joshua Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-02-26 — 376. Aid vs Defence: A Livestream Special — speakers: Keir Starmer, Green Social, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
+- 2025-02-26 — 376. Aid vs Defence: A Livestream Special — speakers: Green Social, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-02-26 — 375. Germany's Fight Against the Far Right — speakers: Will Starmer, Join Rory, Evan Green, Joshua Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
 - 2025-02-20 — 374. Question Time: Why The US Needs A Leader Of The Opposition — speakers: Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-02-19 — 373. Europe vs. America: Crisis in the West — speakers: Will Germany, Join Rory, Evan Green, Joshua Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
 - 2025-02-15 — 372. Syria, al-Sharaa, and the future of the Middle East — speakers: Join Rory, David McCloskey, Evan Green Social, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-02-13 — 371. Question Time: Buying Gaza, Macron’s AI Stunt, and Europe on a Knife’s Edge — speakers: Macron’s AI Stunt, Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-02-12 — 370. Starmer’s Silver Bullet and Trump’s War on the Poor — speakers: Will Musk, Keir Starmer, Join Rory, Evan Green, Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter
+- 2025-02-12 — 370. Starmer’s Silver Bullet and Trump’s War on the Poor — speakers: Will Musk, Join Rory, Evan Green, Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter
 - 2025-02-07 — 369. Question Time: China’s DeepSeek, Ambassador Mandelson, and misogyny in politics — speakers: Join Rory, Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-02-06 — 368. Trump's Plan for Gaza — speakers: Evan Green, Nicole Maslen, Theo Young-Smith, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-02-05 — 367. Rory vs JD Vance, recording from Damascus, and Trump’s tariffs — speakers: JD Vance, Join Rory, Evan Green, Joshua Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
@@ -13722,19 +13532,19 @@
 - 2025-01-29 — 365. Trump's Mafia World Order — speakers: Prince Harry, Evan Green, Joshua Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-01-23 — 364. Question Time: America’s waning power, Alastair vs. Meta, and the existential threat of depopulation — speakers: Join Rory, Joshua Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-01-22 — 363. The Return of Donald J. Trump — speakers: Evan Green, Joshua Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-01-16 — 362. Question Time: Labour’s education error and Blair’s mistake on mental health — speakers: Tony Blair, Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
+- 2025-01-16 — 362. Question Time: Labour’s education error and Blair’s mistake on mental health — speakers: Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2025-01-15 — 361. Gaza, Israel, and Ceasefire — speakers: Peter Hyman, Vasco Andrade, Joshua Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-01-09 — 360. Question Time: Assad’s People - Syria, Torture, and Justice — speakers: Assad’s People Syria, Join Rory, Nicole Maslen Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2025-01-08 — 359. Starmer vs. Musk: Why the richest man in the world turned against the Prime Minister — speakers: Robert Jenrick, Enoch Powell, Join Rory, Evan Green, Nicole Maslen, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2025-01-02 — 358. Question Time: Political translators, Boris Johnson, and politicians to watch in 2025 — speakers: Boris Johnson, Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
-- 2025-01-01 — 357. Political New Year's resolutions, Elon Musk, and what happens next in Taiwan? — speakers: Elon Musk, Join Rory, Alice Horrell Social Producer, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
+- 2025-01-02 — 358. Question Time: Political translators, Boris Johnson, and politicians to watch in 2025 — speakers: Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
+- 2025-01-01 — 357. Political New Year's resolutions, Elon Musk, and what happens next in Taiwan? — speakers: Join Rory, Alice Horrell Social Producer, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-12-27 — 356. Georgia, Russia, and the fight for democracy - An interview with the President of Georgia — speakers: Salome Zourabichvili, Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2024-12-26 — 355. How to start a campaign, Gisele Pelicot, and the biggest surprise of 2024 — speakers: Gisele Pelicot, Alice Horrell Social Producer, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
-- 2024-12-25 — 354. Nigel Farage, dad-dancing populists, and the worst politician of the year — speakers: Nigel Farage, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
+- 2024-12-25 — 354. Nigel Farage, dad-dancing populists, and the worst politician of the year — speakers: Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-12-19 — 353. Question Time: Celeb politicians, Chinese spies, and Ireland vs. Israel — speakers: Prince Andrew, Donald Trump-style, Alice Horrell, Josh Smith Social Producer, Nicole Maslen Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-12-18 — 352. How to solve the small boats crisis — speakers: Alice Horrell Social Producer, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-12-12 — 351. Question Time: Geopolitics in Crisis — speakers: Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2024-12-11 — 350. Assad in Moscow, Trump meets Zelensky, and Farage’s secret strategy — speakers: Nigel Farage, Join Rory, Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
+- 2024-12-11 — 350. Assad in Moscow, Trump meets Zelensky, and Farage’s secret strategy — speakers: Join Rory, Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2024-12-08 — 349. The Fall of Assad: What's next for Syria? — speakers: Rory Stewart, Alastair Campbell, Josh Smith Social Producer, Nicole Maslen Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2024-12-06 — 348. Syria, Afghanistan, and The Rest Is Classified — speakers: Bashar al-Assad, David McCloskey
 - 2024-12-05 — 347. Question Time: Biden’s Pardon is Unforgivable — speakers: Josh Smith Social Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
@@ -13742,8 +13552,8 @@
 - 2024-11-29 — 345. TRIP US: The Golden Age of Corruption — speakers: Anthony Scaramucci, Alastair Campbell, Jess Kidson, Fiona Douglas Nicole Maslen, Johnson Head, Sam Oakley Head, Tom Whiter, Davenpor Learn
 - 2024-11-28 — 344. Question Time: Should MPs vote with their conscience or constituents? — speakers: Alice Horrell, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2024-11-27 — 343. What Happens Next: Israel vs. the International Criminal Court — speakers: Rachel Reeves, Join Rory, Alice Horrell, Josh Smith Social Producer, Nicole Maslen Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
-- 2024-11-21 — 342. Question Time: Farmer vs Starmer, courting China, and the purpose of COP — speakers: Farmer vs Starmer, Keir Starmer, Join Rory, Alice Horrell, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
-- 2024-11-20 — 341. Biden vs. Trump: A fight for the future of Ukraine — speakers: Donald Trump, Join Rory, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
+- 2024-11-21 — 342. Question Time: Farmer vs Starmer, courting China, and the purpose of COP — speakers: Farmer vs Starmer, Join Rory, Alice Horrell, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor
+- 2024-11-20 — 341. Biden vs. Trump: A fight for the future of Ukraine — speakers: Join Rory, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2024-11-14 — 340. Question Time: Assisted Dying, Texting Macron, and the Politics of Scandal — speakers: Texting Macron, Join Rory, Nicole Maslen, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2024-11-13 — 339. Trump, the Middle East, and Ukraine — speakers: Join Rory, Nicole Maslen, Fiona Douglas, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2024-11-09 — 338. Trump beyond America: what’s next? — speakers: Nicole Maslen Fiona Douglas, Tom Whiter, Davenport Learn
@@ -13756,250 +13566,250 @@
 - 2024-10-30 — 331. Question Time: Murdoch or Musk — who has more power? — speakers: Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-10-29 — 330. The US Election: One week to go — speakers: Jess Kidson Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-10-23 — 329. Question Time: Technology, privacy, and the battle for the NHS — speakers: Becki Hills, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
-- 2024-10-22 — 328. Could Russia interfere in the US election? — speakers: Elon Musk, Join Rory, Josh Smith Social Producer, Jess Kidson Producer, Nicole Maslen Fiona Douglas, Johnson Head, Sam Oakley Head, Tom Whiter
-- 2024-10-16 — 327. Question Time: What does peace look like in the Middle East? — speakers: Elon Musk, Join Rory, Becki Hills, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
+- 2024-10-22 — 328. Could Russia interfere in the US election? — speakers: Join Rory, Josh Smith Social Producer, Jess Kidson Producer, Nicole Maslen Fiona Douglas, Johnson Head, Sam Oakley Head, Tom Whiter
+- 2024-10-16 — 327. Question Time: What does peace look like in the Middle East? — speakers: Join Rory, Becki Hills, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-10-15 — 326. Labour's first 100 days, the Tory leadership race, and Japan — speakers: Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-10-09 — 325. Question Time: Are the Tories dead or sleeping? — speakers: Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
-- 2024-10-08 — 324. Israel at War: One Year On — speakers: Keir Starmer, Josh Smith Social Producer, Jess Kidson Producer, Nicole Maslen Fiona Douglas, Johnson Head, Sam Oakley Head, Tom Whiter, Davenport Learn
+- 2024-10-08 — 324. Israel at War: One Year On — speakers: Josh Smith Social Producer, Jess Kidson Producer, Nicole Maslen Fiona Douglas, Johnson Head, Sam Oakley Head, Tom Whiter, Davenport Learn
 - 2024-10-02 — 323. Question Time: How it feels to become “the story” — speakers: Maggie Smith, Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-10-01 — 322. Israel vs Hezbollah: Iran’s next move — speakers: Join Rory, Josh Smith Social Producer, Jess Kidson Producer, Nicole Maslen Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-09-25 — 321. Question Time: Why do politicians leak to the press? — speakers: Jake Liascos Social Producer, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-09-24 — 320. Labour’s struggle to define itself, Hezbollah vs. Israel, and understanding Long Covid — speakers: Long Covid Does, Long Covid, Josh Smith Social Producer, Jess Kidson Producer, Nicole Maslen Fiona Douglas, Tom Whiter, Davenport Learn
-- 2024-09-19 — 319. TRIP US: The Only State Trump Needs to Win — speakers: Trump Needs, Donald Trump, Katty Kay, Anthony Scaramucci, Jake Liascos Social Producer, Jess Kidson, Fiona Douglas, Tom Whiter
+- 2024-09-19 — 319. TRIP US: The Only State Trump Needs to Win — speakers: Trump Needs, Katty Kay, Anthony Scaramucci, Jake Liascos Social Producer, Jess Kidson, Fiona Douglas, Tom Whiter
 - 2024-09-18 — 318. Question Time: Does America really care about the ‘special relationship’? — speakers: Eric Adams, Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-09-17 — 317. How to save the NHS — speakers: Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-09-12 — 316. Why Kamala Harris Still Has a Problem — speakers: Kamala Harris, Katty Kay, Anthony Scaramucci, Jess Kidson, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-09-11 — 315. Question Time: Should we fine people for missing doctor's appointments? — speakers: Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
-- 2024-09-11 — 314. Trump stumbles - but did Harris see him off? — speakers: Donald Trump, Kamala Harris, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
+- 2024-09-11 — 314. Trump stumbles - but did Harris see him off? — speakers: Kamala Harris, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-09-10 — 313. Why Starmer needs to be unpopular — speakers: Join Rory, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
-- 2024-09-05 — 312. Is America Ready for Gun Reform? — speakers: Donald Trump, Kamala Harris, Katty Kay, Anthony Scaramucci, Jess Kidson, Fiona Douglas, Tom Whiter, Davenport Learn
+- 2024-09-05 — 312. Is America Ready for Gun Reform? — speakers: Kamala Harris, Katty Kay, Anthony Scaramucci, Jess Kidson, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-09-03 — 311. Question Time: Should Labour ban smoking? — speakers: Angela Raver, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-09-03 — 310. The rise of Germany’s far-right — speakers: Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
-- 2024-08-30 — 309. Trump's Secret Weapon — speakers: Secret Weapon, Donald Trump, Kamala Harris, Nicole Maslen Video, Jess Kidson Producer, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
+- 2024-08-30 — 309. Trump's Secret Weapon — speakers: Secret Weapon, Kamala Harris, Nicole Maslen Video, Jess Kidson Producer, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
 - 2024-08-29 — 308. Question Time: Can you be friends with someone you totally disagree with politically? — speakers: Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-08-28 — 307. Starmer put to the test, Modi's visit to Ukraine, and tragedy unfolds in Sudan — speakers: Nathan Copelin, Jess Kidson Producer, Nicole Maslen, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-08-23 — 306. Did Kamala Harris' speech scare Trump? — speakers: Kamala Harris, Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-08-21 — 305. The Obamas takedown Donald Trump — speakers: Donald Trump, Michelle Obama, Alastair Campbell, Katty Kay, Anthony Scaramucci, Jess Kidson, Fiona Douglas Nicole Maslen, Tom Whiter
-- 2024-08-21 — 304. Question Time: Could Trump try and subvert the US election results? — speakers: Tony Blair, Video Editor, Jess Kidson, Tom Whiter, Davenport Learn
-- 2024-08-20 — 303. The speech Joe Biden never wanted to give (Live from the Democratic National Convention) — speakers: Joe Biden, Kamala Harris, Tony Blair, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
+- 2024-08-21 — 305. The Obamas takedown Donald Trump — speakers: Michelle Obama, Alastair Campbell, Katty Kay, Anthony Scaramucci, Jess Kidson, Fiona Douglas Nicole Maslen, Tom Whiter
+- 2024-08-21 — 304. Question Time: Could Trump try and subvert the US election results? — speakers: Video Editor, Jess Kidson, Tom Whiter, Davenport Learn
+- 2024-08-20 — 303. The speech Joe Biden never wanted to give (Live from the Democratic National Convention) — speakers: Kamala Harris, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
 - 2024-08-15 — 302. It’s Trump’s Race to Lose — speakers: Kamala Harris, Josh Shapiro, Katty Kay, Anthony Scaramucci, Social Producer, Jess Kidson, Fiona Douglas, Tom Whiter
 - 2024-08-14 — 301. Question Time: Iran’s retaliation, Labour "press bias" and an Olympic hangover — speakers: Video Editor, Jess Kidson, Tom Whiter, Davenport Learn
-- 2024-08-13 — 300. Why Ukraine invaded Russia, the Musk-Trump love-in, and Rory’s visit to Afghanistan — speakers: Elon Musk, Video Editor, Jess Kidson Producer, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-08-08 — 299. The Secret Behind Trump's Silence — speakers: Kamala Harris, Donald Trump, Katty Kay, Anthony Scaramucci
+- 2024-08-13 — 300. Why Ukraine invaded Russia, the Musk-Trump love-in, and Rory’s visit to Afghanistan — speakers: Video Editor, Jess Kidson Producer, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
+- 2024-08-08 — 299. The Secret Behind Trump's Silence — speakers: Kamala Harris, Katty Kay, Anthony Scaramucci
 - 2024-08-07 — 298. Question Time: Venezuela’s fate, Hezbollah’s response, and how prisoner swaps really work — speakers: Tom Tugendhat, Jess Kidson, Nicole Maslen Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-08-06 — 297. Far-right chaos, Harris’ running mate, and Bangladesh’s power vacuum — speakers: Kamala Harris, Video Editor, Jess Kidson Producer, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-08-01 — 296. Could Donald Trump drop out? — speakers: Donald Trump, Katty Kay, Anthony Scaramucci, Social Producer, Jess Kidson, Fiona Douglas, Tom Whiter, Davenport Learn
+- 2024-08-01 — 296. Could Donald Trump drop out? — speakers: Katty Kay, Anthony Scaramucci, Social Producer, Jess Kidson, Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-07-31 — 295. Question Time: Israel vs. Hezbollah, legalising cannabis, and Kamala Harris' Middle East strategy — speakers: Kamala Harris, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-07-30 — 294. Labour’s defining moment and the next Tory leader — speakers: Video Editor, Jess Kidson Producer, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-07-25 — 293. Trump’s Next Move — speakers: Trump’s Next Move How, Donald Trump, Kamala Harris, Joe Biden, Social Producer, Jess Kidson, Fiona Douglas, Tom Whiter
+- 2024-07-25 — 293. Trump’s Next Move — speakers: Trump’s Next Move How, Kamala Harris, Social Producer, Jess Kidson, Fiona Douglas, Tom Whiter
 - 2024-07-24 — 292. Question Time: China’s army in Europe, Just Stop Oil behind bars, and Andrew Tate — speakers: Andrew Tate, Video Editor, Jess Kidson, Nicole Maslen Fiona Douglas, Tom Whiter, Davenport Learn
 - 2024-07-23 — 291. The Rise of Kamala Harris — speakers: Kamala Harris, Join Rory, James Hodgson Video, Jess Kidson Producer, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-07-21 — 290. JOE BIDEN DROPS OUT — speakers: Joe Biden Drops, Joe Biden, Kamala Harris, Donald Trump, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson
+- 2024-07-21 — 290. JOE BIDEN DROPS OUT — speakers: Kamala Harris, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson
 - 2024-07-18 — 289. TRIP US: The Week Trump Won? — speakers: Katty Kay, Anthony Scaramucci, Video Editor, Jake Liascos Social Producer, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
-- 2024-07-18 — 288. Is Labour's King's Speech bold enough? — speakers: Keir Starmer, Robert Peston, Steph McGovern, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Ross Buchanan
+- 2024-07-18 — 288. Is Labour's King's Speech bold enough? — speakers: Robert Peston, Steph McGovern, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Ross Buchanan
 - 2024-07-16 — 287. Trump’s VP, Labour vs. China, and the King’s Speech — speakers: Trump’s VP, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
 - 2024-07-14 — 286. Trump Assassination Attempt: The Aftermath — speakers: Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-07-14 — 285. TRIP US: DONALD TRUMP SHOT — speakers: Donald Trump, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
-- 2024-07-11 — 284. TRIP US: Biden’s Last Stand — speakers: Joe Biden, Donald Trump, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen
+- 2024-07-14 — 285. TRIP US: DONALD TRUMP SHOT — speakers: Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
+- 2024-07-11 — 284. TRIP US: Biden’s Last Stand — speakers: Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen
 - 2024-07-10 — 283. Did Reform UK create a fake general election candidate? — speakers: Ed Davey, James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-07-09 — 282. Starmer’s first week, Le Pen’s loss in France, and Iran’s new president — speakers: Keir Starmer, Marine Le Pen, Masoud Pezeshkian, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer
-- 2024-07-05 — 281. How one night transformed British politics — speakers: Keir Starmer, James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
+- 2024-07-09 — 282. Starmer’s first week, Le Pen’s loss in France, and Iran’s new president — speakers: Marine Le Pen, Masoud Pezeshkian, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer
+- 2024-07-05 — 281. How one night transformed British politics — speakers: James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-07-05 — 280. Starmer’s Labour Landslide - 3:30am update — speakers: Join Rory, James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-07-03 — 279. The Day Britain Decides — speakers: Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-07-03 — 278. Question Time: How reliable are the polls? — speakers: Joe Biden, Nathan Copelin Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-07-02 — 277. What stands in the way of a Labour landslide? — speakers: Joe Biden, Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-06-28 — 276. Why Joe Biden must step down — speakers: Joe Biden, Rory Stewart, Alastair Campbell, Katty Kay, Anthony Scaramucci, Donald Trump, Video Editor, Jess Kidson
-- 2024-06-28 — 275. TRIP US: Advantage Trump: Will the Democrats move to replace Joe Biden? — speakers: Joe Biden, Katty Kay, Anthony Scaramucci, hnBSJyL Fea, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen
+- 2024-07-03 — 278. Question Time: How reliable are the polls? — speakers: Nathan Copelin Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
+- 2024-07-02 — 277. What stands in the way of a Labour landslide? — speakers: Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
+- 2024-06-28 — 276. Why Joe Biden must step down — speakers: Rory Stewart, Alastair Campbell, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson
+- 2024-06-28 — 275. TRIP US: Advantage Trump: Will the Democrats move to replace Joe Biden? — speakers: Katty Kay, Anthony Scaramucci, hnBSJyL Fea, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen
 - 2024-06-26 — 274. Sunak vs Starmer: The Final Showdown — speakers: Rishi Sunak, Team Starmer, Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
 - 2024-06-26 — 273. Question Time: Julian Assange, firing your friends, and why Labour should raise taxes — speakers: Julian Assange, Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-06-25 — 272. Sunak’s betting scandal, Farage in trouble, and will Rory vote Green? — speakers: Emmanuel Macron, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
-- 2024-06-20 — 271. TRIP US: Biden really losing Hispanic and Black voters? — speakers: Donald Trump, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
+- 2024-06-20 — 271. TRIP US: Biden really losing Hispanic and Black voters? — speakers: Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
 - 2024-06-20 — 270. Will Israel go to war with Hezbollah? — speakers: Will Israel, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-06-18 — 269. Question Time: Orban in person, Biden's fragility, and the subtle art of focus groups — speakers: Will Biden, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
-- 2024-06-17 — 268. The Tories' 'taxtopia' attack, Macron's gamble, and the politics of football — speakers: Liz Truss, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
+- 2024-06-17 — 268. The Tories' 'taxtopia' attack, Macron's gamble, and the politics of football — speakers: Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
 - 2024-06-13 — 267. TRIP US: If Trump wins, what actually happens to America? — speakers: Anthony Scaramucci, Katty Kay, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-06-13 — 266. Labour vs Conservatives: What do their manifestos reveal? — speakers: Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Dom Johnson, Chris Sawyer Head
 - 2024-06-12 — 265. Starmer vs Sunak - Round 2: Who won ‘The Battle For Number 10’? — speakers: James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Dom Johnson, Chris Sawyer Head, Tom Whiter, Davenport Learn
 - 2024-06-10 — 264. Rishi Sunak’s defining moment — speakers: Rishi Sunak, Emmanuel Macron, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen
-- 2024-06-06 — 263. TRIP US: Donald Trump, Silicon Valley and Wall Street: Big Money's Deal with the Devil — speakers: Donald Trump, Joe Biden, Bill Ackman, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer
+- 2024-06-06 — 263. TRIP US: Donald Trump, Silicon Valley and Wall Street: Big Money's Deal with the Devil — speakers: Bill Ackman, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer
 - 2024-06-05 — 262. Modi loses his majority, Sunak takes on the Treasury, and Welsh Labour in crisis — speakers: Welsh Labour, Lib Dem, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-06-04 — 261. Sunak vs Starmer: Who won? — speakers: Rishi Sunak, Keir Starmer, Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
-- 2024-06-03 — 260. The return of Nigel Farage: does it matter? — speakers: Nigel Farage, Rishi Sunak, Ed Davey, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer
+- 2024-06-04 — 261. Sunak vs Starmer: Who won? — speakers: Rishi Sunak, Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
+- 2024-06-03 — 260. The return of Nigel Farage: does it matter? — speakers: Rishi Sunak, Ed Davey, Rory Stewart, Alastair Campbell, Video Editor, Jess Kidson, Fiona Douglas Producer
 - 2024-05-31 — 259. Can Trump still run for president? — speakers: Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-05-30 — 258. DONALD TRUMP FOUND GUILTY — speakers: Donald Trump, Video Editor, Jess Kidson, Fiona Douglas Producer, Tom Whiter, Davenport Learn
-- 2024-05-30 — 257. Diane Abbott, Nigel Farage, and how to plan a campaign — speakers: Diane Abbott, Nigel Farage, Keir Starmer, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
+- 2024-05-30 — 258. DONALD TRUMP FOUND GUILTY — speakers: Video Editor, Jess Kidson, Fiona Douglas Producer, Tom Whiter, Davenport Learn
+- 2024-05-30 — 257. Diane Abbott, Nigel Farage, and how to plan a campaign — speakers: Diane Abbott, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter
 - 2024-05-28 — 256. Question Time: Will the podcast dynamic change after the election? — speakers: James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-05-28 — 255. Is Labour's lead narrowing? — speakers: Rishi Sunak, James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-05-24 — 254. Question Time: Is Biden alienating young voters? — speakers: Join Rory, Robby Williams, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-05-23 — 253. TRIP US: Donald Trump vs. Keir Starmer: The end of the special relationship? — speakers: Donald Trump, Keir Starmer, Video Editor, Jess Kidson, Fiona Douglas Producer, Tom Whiter, Davenport Learn
-- 2024-05-22 — 252. SUNAK CALLS GENERAL ELECTION — speakers: Keir Starmer, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
+- 2024-05-23 — 253. TRIP US: Donald Trump vs. Keir Starmer: The end of the special relationship? — speakers: Video Editor, Jess Kidson, Fiona Douglas Producer, Tom Whiter, Davenport Learn
+- 2024-05-22 — 252. SUNAK CALLS GENERAL ELECTION — speakers: Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-05-21 — 251. The Infected Blood Scandal — speakers: Benjamin Netanyahu, Join Rory, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-05-17 — 250. TRIP US: Why Trump won't go to jail — speakers: Michael Cohen, Joe Biden, Video Editor, Jess Kidson, Fiona Douglas Producer, Tom Whiter, Davenport Learn
-- 2024-05-15 — 249. Question Time: Political honeymoons - how quickly could the public turn on Keir Starmer? — speakers: Keir Starmer, David Gauke, James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
+- 2024-05-17 — 250. TRIP US: Why Trump won't go to jail — speakers: Michael Cohen, Video Editor, Jess Kidson, Fiona Douglas Producer, Tom Whiter, Davenport Learn
+- 2024-05-15 — 249. Question Time: Political honeymoons - how quickly could the public turn on Keir Starmer? — speakers: David Gauke, James Hodgson Video, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-05-14 — 248. Battle lines are drawn: defections, defence, and David Gauke — speakers: David Gauke, Rishi Sunak, Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
-- 2024-05-09 — 247. Robert F Kennedy Jr: Donald Trump's Vice President? — speakers: Kennedy Jr, Donald Trump, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Tom Whiter
+- 2024-05-09 — 247. Robert F Kennedy Jr: Donald Trump's Vice President? — speakers: Kennedy Jr, Katty Kay, Anthony Scaramucci, Video Editor, Jess Kidson, Fiona Douglas Producer, Tom Whiter
 - 2024-05-08 — 246. What Britain thinks: Is the monarchy our greatest soft power asset? — speakers: Video Editor, Jess Kidson, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Davenport Learn
 - 2024-05-07 — 245. Are we really heading for a hung parliament? — speakers: Join Rory
 - 2024-05-02 — 244. How to buy the White House — speakers: Katty Kay, Anthony Scaramucci
-- 2024-05-01 — 243. Question Time: The worst political cliches, US voter suppression, and is the left-leaning media too 'worthy'? — speakers: Kennedy Jr, Donald Trump, Joe Biden, Rory Stewart, Alastair Campbell, Dom Johnson Nicole Maslen, Davenport Learn
+- 2024-05-01 — 243. Question Time: The worst political cliches, US voter suppression, and is the left-leaning media too 'worthy'? — speakers: Kennedy Jr, Rory Stewart, Alastair Campbell, Dom Johnson Nicole Maslen, Davenport Learn
 - 2024-04-30 — 242. Scotland in crisis, how to get an opposition MP to defect, and can Britain defend itself?
 - 2024-04-25 — 241. From White House To Courthouse: Trump On Trial — speakers: Will Donald Trump, Katty Kay, Anthony Scaramucci
 - 2024-04-24 — 240. Question Time: Should Britain nationalise its railways? — speakers: Dom Johnson Nicole Maslen, Davenport Learn
 - 2024-04-23 — 239. The Rwanda ruling, Trudeau in trouble, and The Rest Is Politics: US edition — speakers: Justin Trudeau
-- 2024-04-17 — 238. Question Time: Liz Truss, climate change deniers, and why print media is so polarised — speakers: Liz Truss, Dom Johnson Nicole Maslen, Davenport Learn
-- 2024-04-16 — 237. Iran, Israel, and the Middle East: Stopping the slide into all-out war — speakers: Joe Biden, Liz Truss
+- 2024-04-17 — 238. Question Time: Liz Truss, climate change deniers, and why print media is so polarised — speakers: Dom Johnson Nicole Maslen, Davenport Learn
+- 2024-04-16 — 237. Iran, Israel, and the Middle East: Stopping the slide into all-out war
 - 2024-04-10 — 236. Question Time: The fight to be Donald Trump’s VP nominee — speakers: Donald Trump’s VP, Angela Rayner
 - 2024-04-09 — 235. What Britain really thinks of politics
 - 2024-04-03 — 234. Question Time: Why New Labour introduced tuition fees, Thatcher and Blair’s canvassing secrets, and the greatest prime minister we never had
 - 2024-04-02 — 233. From peerages to Putin: the fight against corruption in politics — speakers: Sam Bankman-Fried, Join Rory
 - 2024-03-28 — 232. Question Time: ISIS-K vs Russia, radical reform of the NHS, and the fight against child poverty — speakers: Maslen Exec, Davenport Learn
-- 2024-03-27 — 231. Labour's struggle for economic vision and Haiti on the brink — speakers: Keir Starmer, Rachel Reeves, Join Rory
+- 2024-03-27 — 231. Labour's struggle for economic vision and Haiti on the brink — speakers: Rachel Reeves, Join Rory
 - 2024-03-21 — 230. Question Time: £91,000… Should MPs be paid more? — speakers: Lib Dem, Fiona Douglas Producer, Nicole Maslen, Tom Whiter, Tony Pastor, Jack Davenport Learn
 - 2024-03-20 — 229. Putin’s sham election, Sunak under threat, and the rift between France and Germany — speakers: Join Rory
 - 2024-03-14 — 228. Question Time: The legacy of Theresa May, abolishing National Insurance, and Sweden joins NATO — speakers: Theresa May, Maslen Exec, Davenport Learn
 - 2024-03-13 — 227. Biden’s aid port in Gaza, Tory defection to Reform, and a mole at the top of the IRA — speakers: Lee Anderson
 - 2024-03-07 — 226. Question Time: Google vs OpenAI, the new Portuguese populist, and why do dictators hold elections? — speakers: Vladimir Putin, Ayatollah Ali Khamenei, Maslen Exec, Davenport Learn
 - 2024-03-06 — 225. George Galloway returns, 'omnishambles' budgets, and the plight of Sudan — speakers: George Galloway, Join Rory
-- 2024-02-29 — 224. Question Time: Liz Truss' 'deep state' comments, disability policy, and Shamima Begum — speakers: Liz Truss, Shamima Begum, Maslen Exec, Davenport Learn
+- 2024-02-29 — 224. Question Time: Liz Truss' 'deep state' comments, disability policy, and Shamima Begum — speakers: Shamima Begum, Maslen Exec, Davenport Learn
 - 2024-02-28 — 223. Islamophobia, chaos in the House of Commons, and the North Korean election — speakers: Lee Anderson
 - 2024-02-22 — 222. Question Time: Banning phones in schools and parliament, citizens' assemblies, and American isolationism — speakers: Maslen Exec, Davenport Learn
 - 2024-02-21 — 221. The Killing of Alexei Navalny — speakers: Will Putin
 - 2024-02-16 — 220. Sunak's by-election disaster, Reform UK gains momentum, and political crisis in Rochdale
 - 2024-02-15 — 219. Question Time: Vladimir Putin’s strategy, Labour’s selection headache, and VAT on private schools — speakers: Vladimir Putin, Azhar Ali, Tucker Carlson, Join Rory, Maslen Exec, Davenport Learn
-- 2024-02-14 — 218. Could the Democrats replace Joe Biden? What’s next for Imran Khan? Why are young people deserting British conservatism? — speakers: Joe Biden
-- 2024-02-08 — 217. Question Time: How to cover Israel-Gaza, Labour’s £28bn green investment, and Taylor Swift vs Donald Trump — speakers: Taylor Swift, Donald Trump, Maslen Exec, Davenport Learn
-- 2024-02-07 — 216. King Charles, Sunak’s £1000 bet, and the future of North Korea — speakers: King Charles Sunak, Rishi Sunak, Kim Jong Un
+- 2024-02-14 — 218. Could the Democrats replace Joe Biden? What’s next for Imran Khan? Why are young people deserting British conservatism?
+- 2024-02-08 — 217. Question Time: How to cover Israel-Gaza, Labour’s £28bn green investment, and Taylor Swift vs Donald Trump — speakers: Maslen Exec, Davenport Learn
+- 2024-02-07 — 216. King Charles, Sunak’s £1000 bet, and the future of North Korea — speakers: Rishi Sunak, Kim Jong Un
 - 2024-02-01 — 215. Question Time: An election in May, combatting homelessness, and investigating think tanks
 - 2024-01-31 — 214. Israel in court, attacks on American soldiers, and the problem with polling — speakers: Join Rory
-- 2024-01-25 — 213. Question Time: Standing up to Netanyahu, why Starmer would work with Trump, and the differences between Sunni and Shia — speakers: Donald Trump, Join Rory, Maslen Exec, Davenport Learn
+- 2024-01-25 — 213. Question Time: Standing up to Netanyahu, why Starmer would work with Trump, and the differences between Sunni and Shia — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2024-01-24 — 212. Why Trump's return wasn't inevitable — speakers: Ron DeSantis
 - 2024-01-18 — 211. Question Time: Taiwan’s new president, Macron's successor, and the difference between Tories and Conservatives
 - 2024-01-17 — 210. Is the Middle East sliding into a wider regional conflict? — speakers: Join Rory
 - 2024-01-11 — 209. Question Time: What happens when privatisation goes wrong?
 - 2024-01-10 — 208. History's warning to Labour, the Post Office scandal, and Bangladesh's battle for power — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2024-01-04 — 207. Question Time: Fighting British corruption, Japan's economic conundrum, and a Premier League team in Belfast
-- 2024-01-03 — 206. How to fix the honours system, chaos in the Red Sea, and Taiwan at a crossroads — speakers: Liz Truss, Maslen Exec, Davenport Learn
-- 2023-12-28 — 205. How to combat populism, debating Bill Gates, and David Cameron on the world stage (Part 2) — speakers: Bill Gates, David Cameron, Rishi Sunak
+- 2024-01-03 — 206. How to fix the honours system, chaos in the Red Sea, and Taiwan at a crossroads — speakers: Maslen Exec, Davenport Learn
+- 2023-12-28 — 205. How to combat populism, debating Bill Gates, and David Cameron on the world stage (Part 2) — speakers: Bill Gates, Rishi Sunak
 - 2023-12-27 — 204. Scotland's pivotal role, the moment everything changed, and whether to serve under Starmer (Part 1)
-- 2023-12-21 — 203. Question Time: How dangerous is Giorgia Meloni? — speakers: Joe Biden
+- 2023-12-21 — 203. Question Time: How dangerous is Giorgia Meloni?
 - 2023-12-20 — 202. How Labour should fight the election, taking on the British press, and Orbán's future far-right axis — speakers: Michelle Mone, Viktor Orbán, Join Rory, Maslen Exec, Davenport Learn
-- 2023-12-14 — 201. Question Time: Could the Tories remove Rishi Sunak? — speakers: Rishi Sunak, Nigel Farage, Maslen Exec, Davenport Learn
+- 2023-12-14 — 201. Question Time: Could the Tories remove Rishi Sunak? — speakers: Rishi Sunak, Maslen Exec, Davenport Learn
 - 2023-12-13 — 200. The Israeli settler movement, Ukraine blockaded, and Putin's perpetual power — speakers: Maslen Exec, Davenport Learn
 - 2023-12-07 — 199. Question Time: Why the infected blood scandal still haunts today’s politics — speakers: Margaret Thatcher, George Santos
-- 2023-12-06 — 198. King Charles on the world stage, Argentina's Brexit, and the real Henry Kissinger — speakers: King Charles, Henry Kissinger, Join Rory
+- 2023-12-06 — 198. King Charles on the world stage, Argentina's Brexit, and the real Henry Kissinger — speakers: Henry Kissinger, Join Rory
 - 2023-11-30 — 197. Question Time: Should Labour be bolder on Brexit? — speakers: Charles Dickens
 - 2023-11-29 — 196. Why are the far-right on the rise? — speakers: Javier Milei, Geert Wilders, Maslen Exec, Davenport Learn
 - 2023-11-28 — Introducing... The Rest Is Entertainment — speakers: Richard Osman
 - 2023-11-23 — 195. Question Time: Is Sunak's Rwanda plan doomed to fail? — speakers: Sam Altman
 - 2023-11-22 — 194. Autumn statements, Putin's progress, and why advertisers are pulling out of X — speakers: Maslen Exec, Davenport Learn
 - 2023-11-16 — 193. What makes the Tory right so powerful? — speakers: Maslen Exec, Davenport Learn
-- 2023-11-15 — 192. What David Cameron’s return means for Israel-Gaza — speakers: David Cameron, Pedro Sanchez, Maslen Exec, Davenport Learn
-- 2023-11-13 — 191. Braverman sacked and Cameron returns — speakers: David Cameron, Suella Braverman, Maslen Exec, Davenport Learn
+- 2023-11-15 — 192. What David Cameron’s return means for Israel-Gaza — speakers: Pedro Sanchez, Maslen Exec, Davenport Learn
+- 2023-11-13 — 191. Braverman sacked and Cameron returns — speakers: Suella Braverman, Maslen Exec, Davenport Learn
 - 2023-11-09 — 190. Question Time: Should WhatsApp messages stay private?
 - 2023-11-08 — 189. The King's Speech, performative cruelty, and Argentina — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2023-11-02 — 188. Question Time: What the Covid Inquiry says about Britain — speakers: Jordan Peterson
-- 2023-11-01 — 187. The Left and Israel — speakers: Keir Starmer, Maslen Exec, Davenport Learn
-- 2023-10-25 — 186. Question Time: Nigel Farage’s plan to become Tory leader — speakers: Nigel Farage, Will Nigel Farage
+- 2023-11-01 — 187. The Left and Israel — speakers: Maslen Exec, Davenport Learn
+- 2023-10-25 — 186. Question Time: Nigel Farage’s plan to become Tory leader — speakers: Will Nigel Farage
 - 2023-10-24 — 185. Global perceptions of Israel-Gaza, Labour-Lib Dem bad blood, and Chinese economic crisis — speakers: Lib Dems, Maslen Exec, Davenport Learn
 - 2023-10-18 — 184. Question Time: Why Britain Needs Shorter Prison Sentences — speakers: Will Johnson, Maslen Exec, Davenport Learn
-- 2023-10-17 — 183. Israel-Gaza: What Happens Next — speakers: Joe Biden
+- 2023-10-17 — 183. Israel-Gaza: What Happens Next
 - 2023-10-17 — 182. Palestine, Gaza, and Israel — speakers: Husam Zomlot
 - 2023-10-13 — 181. Israel, invasion, and the trap laid by Hamas — speakers: Yuval Noah Harari
-- 2023-10-11 — 180. Question Time: Is Suella Braverman pretending to be right-wing? — speakers: Keir Starmer, Maslen Exec, Davenport Learn
-- 2023-10-10 — 179. Is Keir Starmer ready to be Prime Minister? — speakers: Keir Starmer, Join Rory, Robert Carlyle, Robert Sutherland
+- 2023-10-11 — 180. Question Time: Is Suella Braverman pretending to be right-wing? — speakers: Maslen Exec, Davenport Learn
+- 2023-10-10 — 179. Is Keir Starmer ready to be Prime Minister? — speakers: Join Rory, Robert Carlyle, Robert Sutherland
 - 2023-10-09 — 178. Israel At War — speakers: Mustafa Barghouti, Maslen Exec, Davenport Learn
-- 2023-10-04 — 177. Question Time: A new centrist party, mafia politics in New Jersey, and was Jesus a socialist? — speakers: Tony Blair, Rory Stewart, Alastair Campbell, Maslen Exec, Davenport Learn
+- 2023-10-04 — 177. Question Time: A new centrist party, mafia politics in New Jersey, and was Jesus a socialist? — speakers: Rory Stewart, Alastair Campbell, Maslen Exec, Davenport Learn
 - 2023-10-03 — 176. Can the Tory Party be saved? — speakers: Maslen Exec, Davenport Learn
-- 2023-09-27 — 175. Question Time: The Power of Rupert Murdoch — speakers: Rupert Murdoch, Rory Stewart, Alastair Campbell, Maslen Exec, Davenport Learn
-- 2023-09-26 — 174. Scrapping HS2, ‘Ukraine fatigue’, and 'Vive le Roi!' — speakers: Scrapping HS, Angela Rayner, Keir Starmer, King Charles
-- 2023-09-20 — 173. Question Time: Corbyn's expulsion from Labour, Belgium's sex education crisis, and how would Blair fare as PM today? — speakers: Keir Starmer, Jeremy Corbyn, Tony Blair, Rory Stewart, Alastair Campbell
-- 2023-09-19 — 172. Liz Truss returns, Putin's Western puppets, and Rory at the United Nations — speakers: Liz Truss, Join Rory, Maslen Exec, Davenport Learn
+- 2023-09-27 — 175. Question Time: The Power of Rupert Murdoch — speakers: Rory Stewart, Alastair Campbell, Maslen Exec, Davenport Learn
+- 2023-09-26 — 174. Scrapping HS2, ‘Ukraine fatigue’, and 'Vive le Roi!' — speakers: Scrapping HS, Angela Rayner
+- 2023-09-20 — 173. Question Time: Corbyn's expulsion from Labour, Belgium's sex education crisis, and how would Blair fare as PM today? — speakers: Jeremy Corbyn, Rory Stewart, Alastair Campbell
+- 2023-09-19 — 172. Liz Truss returns, Putin's Western puppets, and Rory at the United Nations — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2023-09-14 — Politics On the Edge (Extract)
-- 2023-09-13 — 171. Question Time: The return of Liz Truss, Slovakia's answer to Viktor Orbán, and Starmer's popularity waning? — speakers: Liz Truss, Viktor Orbán, Rory Stewart, Alastair Campbell
+- 2023-09-13 — 171. Question Time: The return of Liz Truss, Slovakia's answer to Viktor Orbán, and Starmer's popularity waning? — speakers: Viktor Orbán, Rory Stewart, Alastair Campbell
 - 2023-09-12 — 170. Prison escape, a test for Australian democracy, and spooks in Westminster? — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2023-09-06 — 169. Question Time: Imagining Labour’s first 100 days in power, Australia’s Indigenous Voice referendum, and compulsory politics in schools
 - 2023-09-05 — 168. Crumbling Britain, a ruthless reshuffle, and Jeremy Corbyn’s ‘beautiful ears’ — speakers: Jeremy Corbyn, Join Rory
 - 2023-08-31 — Introducing... The Rest Is Money — speakers: Steph McGovern, Robert Peston
 - 2023-08-30 — 167. Question Time: How to rig an election, Scotland's golden goose, and the least impressive president of all time — speakers: Rory Stewart, Alastair Campbell, Maslen Exec, Davenport Learn
 - 2023-08-29 — 166. Vladimir Putin, Narendra Modi, and absolute populist power — speakers: Vladimir Putin, Narendra Modi, Yevgeny Prigozhin, Darren Bent, Maslen Exec, Davenport Learn
-- 2023-08-23 — 165: Question Time: Populism in Portugal, texting David Cameron, and a challenger to Trump? — speakers: David Cameron, Maslen Exec, Davenport Learn
+- 2023-08-23 — 165: Question Time: Populism in Portugal, texting David Cameron, and a challenger to Trump? — speakers: Maslen Exec, Davenport Learn
 - 2023-08-22 — 164. The Trial of Lucy Letby, the domination of the dollar, and politicians vs. lawyers — speakers: Lucy Letby, Join Rory, Maslen Exec, Davenport Learn
 - 2023-08-16 — 163. Question Time: Privatisation vs. Nationalisation — speakers: Maslen Exec, Davenport Learn
 - 2023-08-15 — 162. Small boats, Zimbabwe since Mugabe, and Trump's anti-mafia indictment — speakers: Robert Mugabe, Join Rory, Maslen Exec, Davenport Learn
 - 2023-08-09 — 161. Question Time: Rebuilding the Tory brand, Macron’s successor, and the militarisation of Mexico — speakers: Maslen Exec, Davenport Learn
 - 2023-08-08 — 160. White House or jail? The future of Donald J. Trump — speakers: Will Donald Trump, Maslen Exec, Davenport Learn
-- 2023-08-03 — 159. Question Time: Sweden's Quran-burning crisis, Farage vs. the banks, and what is 'the establishment'? — speakers: Nigel Farage, Maslen Exec, Davenport Learn
+- 2023-08-03 — 159. Question Time: Sweden's Quran-burning crisis, Farage vs. the banks, and what is 'the establishment'? — speakers: Maslen Exec, Davenport Learn
 - 2023-08-01 — 158. Sunak's net zero culture war, Africa's 'coup belt', and a new strategy for the German far-right — speakers: Rishi Sunak, Maslen Exec, Davenport Learn
-- 2023-07-27 — 157. Question Time: Knocking over Liz Truss, Oxbridge dominance, and life under the Taliban — speakers: Liz Truss, Join Rory, Maslen Exec, Davenport Learn
+- 2023-07-27 — 157. Question Time: Knocking over Liz Truss, Oxbridge dominance, and life under the Taliban — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2023-07-26 — 156. Labour on the defensive, Machismo in Spain, and Israel on a knife-edge — speakers: Maslen Exec, Davenport Learn
 - 2023-07-21 — 155. Sunak slides to defeat in Selby and Somerton — speakers: Lib Dem, Join Rory, Maslen Exec, Davenport Learn
 - 2023-07-20 — 154. Question Time: Ben Wallace, intellectual PMs, and the fight for the Israeli flag — speakers: Ben Wallace, Will Rory, Join Rory, Maslen Exec, Davenport Learn
-- 2023-07-19 — 153. How radical would Labour be in power? — speakers: Keir Starmer, Maslen Exec, Davenport Learn
+- 2023-07-19 — 153. How radical would Labour be in power? — speakers: Maslen Exec, Davenport Learn
 - 2023-07-18 — 152. The Power of Prigozhin — speakers: Yevgeny Prigozhin, Richard Eng el, Maslen Exec, Davenport Learn
 - 2023-07-13 — 151. Question Time: Feargal Sharkey on water pollution, drug legalisation, and fishing — speakers: George Osborne, Feargal Sharkey, Maslen Exec, Davenport Learn
 - 2023-07-12 — 150. Sunak’s path to victory, Trump’s stance on Ukraine, and the future of Palestine — speakers: Maslen Exec, Davenport Learn
 - 2023-07-06 — 149. Question Time: How to end a civil war, psychedelic treatments, and will the Orkney Islands join Norway? — speakers: Maslen Exec, Davenport Learn
 - 2023-07-05 — 148. France on fire, Thames Water troubles, and NHS privatisation — speakers: Maslen Exec, Davenport Learn
 - 2023-06-29 — 147. Question Time: The next global superpower, a royal panic, and Rory on Austerity — speakers: Maslen Exec, Davenport Learn
-- 2023-06-28 — 146. Putin vs. Prigozhin, the power of Lebedev, and the battle for Southeast Asia — speakers: Vladimir Putin, Boris Johnson, Will Sunak, Albert Hall th, Albert Hall, Maslen Exec, Davenport Learn
+- 2023-06-28 — 146. Putin vs. Prigozhin, the power of Lebedev, and the battle for Southeast Asia — speakers: Vladimir Putin, Will Sunak, Maslen Exec, Davenport Learn
 - 2023-06-24 — 145. Putin under threat as Wagner mutiny — speakers: Vladimir Putin, Maslen Exec, Davenport Learn
 - 2023-06-22 — 144. Question Time: The War On Drugs, a Tory Green Party, and Long Covid — speakers: Long Covid, Maslen Exec, Davenport Learn
 - 2023-06-21 — 143. The world looks to Beijing, Putin vs. Africa, and Rory's sliding Brexit doors — speakers: Antony Blinken, Maslen Exec, Davenport Learn
-- 2023-06-15 — 142. Is this the end for Boris Johnson? — speakers: Boris Johnson
+- 2023-06-15 — 142. Is this the end for Boris Johnson?
 - 2023-06-15 — 141. Question Time: Labour greatest hope, what a Trump presidency would mean for Ukraine, and should we ban vaping?
 - 2023-06-14 — 140. Johnson and Sunak at war, Sturgeon's arrest, and the death of Silvio Berlusconi — speakers: Silvio Berlusconi, Maslen Exec, Davenport Learn
-- 2023-06-09 — 139. BORIS JOHNSON RESIGNS — speakers: Boris Johnson Resigns, Boris Johnson, Maslen Learn
+- 2023-06-09 — 139. BORIS JOHNSON RESIGNS — speakers: Maslen Learn
 - 2023-06-08 — 138. Question Time: The Bullingdon Club, democracy vs. capitalism, and overcoming foot-and-mouth — speakers: Maslen Learn
 - 2023-06-07 — 137. Government taking itself to court, avoiding war with China, and Polish protests — speakers: Maslen Exec, Davenport Learn
-- 2023-06-01 — 136. Question Time: Johnson vs. Stewart, protests in Serbia, and are think tanks actually influential? — speakers: John Major, Tony Blair, Boris Johnson, Maslen Exec, Davenport Learn
+- 2023-06-01 — 136. Question Time: Johnson vs. Stewart, protests in Serbia, and are think tanks actually influential? — speakers: John Major, Maslen Exec, Davenport Learn
 - 2023-05-31 — 135. Spanish politics explained and a deep dive into AI — speakers: Maslen Exec, Davenport Learn
 - 2023-05-25 — 134. Question Time: Solving sewage, building on the Green Belt, and the most intimidating person in politics
 - 2023-05-24 — 133. Suella's speeding, Japan in focus, and what's the point of the G7? — speakers: Bill Clinton, Maslen Exec, Davenport Learn
 - 2023-05-19 — But What Can I Do? (Extract)
 - 2023-05-18 — 132. Question Time: How to reform prisons, Macron vs. Clinton, and what is the Privy Council? — speakers: Hillary Clinton, Emmanuel Macron
 - 2023-05-17 — 131. Erdoğan fights on, 'Clause IV on steroids', and the fall of military rule — speakers: Maslen Learn
-- 2023-05-11 — 130. Question Time: Bumping into Boris Johnson, the Hong Kong handover, and One-nation Tories vs. Blairites — speakers: Boris Johnson, Gerry Adams, Maslen Exec, Davenport Learn
+- 2023-05-11 — 130. Question Time: Bumping into Boris Johnson, the Hong Kong handover, and One-nation Tories vs. Blairites — speakers: Gerry Adams, Maslen Exec, Davenport Learn
 - 2023-05-10 — 129. Sunak at a crossroads, weaponising 'woke', and the Wagner Group — speakers: Vladimir Putin, Gerry Adams, Maslen Exec, Davenport Learn
 - 2023-05-05 — 128. Local Elections: Who's the real winner? — speakers: Maslen Exec, Davenport Learn
 - 2023-05-04 — 127. Question Time: Communists in Austria, the collapse of First Republic, and the political power of Ben and Jerry's — speakers: Kamala Harris, Maslen Exec, Davenport Learn
 - 2023-05-03 — 126. King Charles III's coronation, the geopolitics of net-zero, and the power of oracy — speakers: Charles Iii, Richard Sharp, Maslen Exec, Davenport Learn
-- 2023-04-27 — 125. Question Time: Murdoch mayhem, the politics of nepotism, and Alastair Campbell MP? — speakers: Alastair Campbell, Will Alastair, Rupert Murdoch, Maslen Exec, Davenport Learn
+- 2023-04-27 — 125. Question Time: Murdoch mayhem, the politics of nepotism, and Alastair Campbell MP? — speakers: Alastair Campbell, Will Alastair, Maslen Exec, Davenport Learn
 - 2023-04-26 — 124. Politicians vs. civil servants, evacuating Sudan, and Diane Abbott — speakers: Diane Abbott, Dominic Raab, Maslen Exec, Davenport Learn
 - 2023-04-21 — 123. DOMINIC RAAB RESIGNS — speakers: Dominic Raab, Maslen Exec, Davenport Learn
-- 2023-04-20 — 122. Question Time: Leaking Liz Truss, the funniest person in politics, and ‘Killing Thatcher’ — speakers: Leaking Liz Truss, Paddy Ashdown, Joe Biden, Maslen Exec, Davenport Learn
+- 2023-04-20 — 122. Question Time: Leaking Liz Truss, the funniest person in politics, and ‘Killing Thatcher’ — speakers: Leaking Liz Truss, Paddy Ashdown, Maslen Exec, Davenport Learn
 - 2023-04-19 — 121. Chaos in Sudan, Biden vs. Sunak, and the fall of Braverman? — speakers: Suella Braverman, Maslen Exec, Davenport Learn
-- 2023-04-13 — 120. Question Time: Macron and Xi Jinping, the rise of the right, and Tony Blair vs. UFOs — speakers: Xi Jinping, Tony Blair, Maslen Exec, Davenport Learn
-- 2023-04-12 — 119. Starmer's most controversial move yet, the truth behind Vladimir Putin, and the Good Friday Agreement — speakers: Vladimir Putin, Keir Starmer, Rishi Sunak, Maslen Exec, Davenport Learn
+- 2023-04-13 — 120. Question Time: Macron and Xi Jinping, the rise of the right, and Tony Blair vs. UFOs — speakers: Xi Jinping, Maslen Exec, Davenport Learn
+- 2023-04-12 — 119. Starmer's most controversial move yet, the truth behind Vladimir Putin, and the Good Friday Agreement — speakers: Vladimir Putin, Rishi Sunak, Maslen Exec, Davenport Learn
 - 2023-04-06 — 118. Question Time: Democracy under threat, rampant sewage, and campaign songs — speakers: Maslen Exec, Davenport Learn
-- 2023-04-05 — 117. Trump's indictment, Dover delays, and Sanna Marin loses — speakers: Sanna Marin, Donald Trump, King Charles, Maslen Exec, Davenport Learn
+- 2023-04-05 — 117. Trump's indictment, Dover delays, and Sanna Marin loses — speakers: Sanna Marin, Maslen Exec, Davenport Learn
 - 2023-03-30 — 116. Question Time: Corbyn and Cummings, Cool Britannia, and Ofsted — speakers: Gary Lineker, Maslen Exec, Davenport Learn
 - 2023-03-29 — 115. France on fire, fake Korean cash, and a new Scottish nationalism — speakers: Matt Hancock, Kwasi Kwarteng, Gary Lineker, Maslen Exec, Davenport Learn
 - 2023-03-23 — 114. Question Time: Banks in crisis, Imran Khan, and Blair on The Simpsons — speakers: Imran Khan, Maslen Exec, Davenport Learn
 - 2023-03-22 — 113. Iraq: the fallout, Scotland at a crossroads, and ‘sneaky beakies’ — speakers: Vladimir Putin, Xi Jinping, Join Rory, Benjamin Netanyahu, Maslen Exec, Davenport Learn
-- 2023-03-16 — 112. Iraq: The Legacy — speakers: Tony Blair, Maslen Exec, Davenport Learn
+- 2023-03-16 — 112. Iraq: The Legacy — speakers: Maslen Exec, Davenport Learn
 - 2023-03-15 — 111. The Iraq War — speakers: Maslen Exec, Davenport Learn
 - 2023-03-11 — 110. Gary Lineker, BBC in crisis, and small boats — speakers: Gary Lineker
 - 2023-03-09 — 109. Question Time: Powerful speeches, population control and Isabel Oakeshott — speakers: Xi Jinping, Maslen Exec, Davenport Learn
 - 2023-03-08 — 108. Hancock’s humiliation and the end for Johnson — speakers: Kier Starmer, Shamima Begum, Maslen Exec, Davenport Learn
-- 2023-03-02 — 107. Question Time: Bernie Sanders vs. Michael Foot, Universal Basic Income, and Boris Johnson's NATO ambitions... — speakers: Bernie Sanders, Michael Foot, Boris Johnson, Maslen Exec, Davenport Learn
-- 2023-03-01 — 106. Sunak’s Windsor win, Labour’s path to victory, and Beijing’s view of Moscow — speakers: Sunak’s Windsor, Rishi Sunak, Keir Starmer, Maslen Exec, Davenport Learn
+- 2023-03-02 — 107. Question Time: Bernie Sanders vs. Michael Foot, Universal Basic Income, and Boris Johnson's NATO ambitions... — speakers: Bernie Sanders, Michael Foot, Maslen Exec, Davenport Learn
+- 2023-03-01 — 106. Sunak’s Windsor win, Labour’s path to victory, and Beijing’s view of Moscow — speakers: Sunak’s Windsor, Rishi Sunak, Maslen Exec, Davenport Learn
 - 2023-02-23 — 105. Question Time: Foreign ownership in football, the BBC vs. Modi, and conspiracy theories — speakers: Manchester United, Maslen Exec, Davenport Learn
-- 2023-02-22 — 104. Ukraine: one year on, the fall of Nicola Sturgeon, and Sunak's biggest gamble — speakers: Boris Johnson, Maslen Exec, Davenport Learn
+- 2023-02-22 — 104. Ukraine: one year on, the fall of Nicola Sturgeon, and Sunak's biggest gamble — speakers: Maslen Exec, Davenport Learn
 - 2023-02-16 — 103. Question Time: Expensing helicopters, the North-South divide, and Rory's return to politics? — speakers: Will Rory, Maslen Exec, Davenport Learn
 - 2023-02-15 — 102. The Secret Brexit Summit, Erdoğan under fire, and the death penalty — speakers: Maslen Exec, Davenport Learn
 - 2023-02-09 — 101. Question Time: Palestine in 2023, Chat GPT, and what do diplomats actually do? — speakers: Ed Miliband, Michel Barnier, Maslen Exec, Davenport Learn
-- 2023-02-08 — 100. The Revenge of Liz Truss, Earthquakes in Syria and Turkey, and China's 'Red Zeppelin' — speakers: Liz Truss, Sandi Toksvig, Maslen Exec, Davenport Learn
+- 2023-02-08 — 100. The Revenge of Liz Truss, Earthquakes in Syria and Turkey, and China's 'Red Zeppelin' — speakers: Sandi Toksvig, Maslen Exec, Davenport Learn
 - 2023-02-02 — 99. Question Time: Missing refugees, the best type of MPs, and are universities left wing? — speakers: Alan Milburn, Maslen Exec, Davenport Learn
 - 2023-02-01 — 98. 100 days of Sunak, the art of resigning, and Israel-Palestine — speakers: Rishi Sunak, Alan Milburn, Maslen Exec, Davenport Learn
 - 2023-01-26 — 97. Question Time: Leaving office, a Labour Scotland, and what's the point of Davos? — speakers: Mark Zuckerberg, Saif Gaddafi, Jacinda Ardern, Maslen Exec, Davenport Learn
-- 2023-01-25 — 96. Johnson's £800k loan, Zahawi's tax trouble, and Russia in Africa — speakers: Boris Johnson, Nadhim Zahawi, Maslen Exec, Davenport Learn
-- 2023-01-19 — 95. Question Time: Combatting Andrew Tate, crisis at the Met, and Johnson standing again — speakers: Andrew Tate, Boris Johnson, Joe Biden, Suella Braverman, Maslen Exec, Davenport Learn
+- 2023-01-25 — 96. Johnson's £800k loan, Zahawi's tax trouble, and Russia in Africa — speakers: Nadhim Zahawi, Maslen Exec, Davenport Learn
+- 2023-01-19 — 95. Question Time: Combatting Andrew Tate, crisis at the Met, and Johnson standing again — speakers: Andrew Tate, Suella Braverman, Maslen Exec, Davenport Learn
 - 2023-01-18 — 94. Police power, gender recognition, and women in Afghanistan — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2023-01-16 — Leading: Michael Heseltine — speakers: Michael Heseltine, Margaret Thatcher
 - 2023-01-12 — 93. Question Time: Rishi Sunak's doctor, Rory's Brad Pitt deal, and Iranian regime change? — speakers: Rishi Sunak, Brad Pitt, Michael Heseltine, Maslen Exec, Davenport Learn
 - 2023-01-11 — 92. Prince Harry, Brazil's failed coup, and Myanmar’s criminal junta — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2023-01-05 — 91. Zelensky's message, Netanyahu's return, and Putin's 'mystery woman' — speakers: Join Rory, Hill Exec, Davenport Learn
-- 2023-01-04 — 90. NHS in crisis, the Blair-Brown years, and Mandela on Gaddafi — speakers: Tony Blair, Gordon Brown, Ian Kennedy, John Burn-Murdoch, Johann Hari, Maslen Exec, Davenport Learn
+- 2023-01-04 — 90. NHS in crisis, the Blair-Brown years, and Mandela on Gaddafi — speakers: Ian Kennedy, John Burn-Murdoch, Johann Hari, Maslen Exec, Davenport Learn
 - 2022-12-29 — 89. Where will we be in 2023? — speakers: Maslen Exec, Davenport Learn
 - 2022-12-28 — 88. TRIP Awards 2022 (with a special guest...) — speakers: Maslen Exec, Davenport Learn
 - 2022-12-22 — 87. Question Time: Drugs in Parliament, the meaning of evil, and Jeremy Clarkson — speakers: Jeremy Clarkson, Exec Producers, Davenport Learn
@@ -14007,85 +13817,85 @@
 - 2022-12-15 — 85. Question Time: Harry and Meghan, the National Anthem, and Latin America — speakers: Exec Producers, Davenport Learn
 - 2022-12-14 — 84. Britain on strike, hostage swaps, and assisted suicide — speakers: Join Rory, Davenport Learn
 - 2022-12-08 — 83. Question Time: Votes for prisoners, a united Ireland, and the meaning of 'liberal' — speakers: Callum Hill, Jack Davenport Learn
-- 2022-12-07 — 82. Keir vs. peers, George W. Bush, and $580k in a sofa... — speakers: Join Alastair, Gordon Brown, Keir Starmer, Cyril Ramaphosa, Maslen Exec, Davenport Learn
+- 2022-12-07 — 82. Keir vs. peers, George W. Bush, and $580k in a sofa... — speakers: Join Alastair, Cyril Ramaphosa, Maslen Exec, Davenport Learn
 - 2022-12-02 — 81. Ex-New Zealand PM Helen Clark on monarchy, extreme poverty, and Jacinda Ardern — speakers: Helen Clark, Jacinda Ardern, Davenport Learn
 - 2022-12-01 — 80. Question Time: How to become an MP, the art of whipping, and NIMBYs — speakers: Join Rory, Exec Producer, Jack Davenport Learn
 - 2022-11-30 — 79. Protests in China, UK strikes, and crypto bros — speakers: Maslen Exec, Davenport Learn
-- 2022-11-24 — 78. Question Time: Nigel Farage, proportional representation, and mandatory ID cards — speakers: Nigel Farage, Rishi Sunak, Jeremy Hunt, Exec Producer, Jack Davenport Learn
+- 2022-11-24 — 78. Question Time: Nigel Farage, proportional representation, and mandatory ID cards — speakers: Rishi Sunak, Jeremy Hunt, Exec Producer, Jack Davenport Learn
 - 2022-11-23 — 77. Qatar, the World Cup, and Sunak vs. Starmer — speakers: Join Alastair, Maslen Exec, Davenport Learn
 - 2022-11-17 — 76. Question Time: Food banks, ageing populations, and 'virtue signalling' — speakers: Maslen Exec, Davenport Learn
-- 2022-11-16 — 75. Trump vs. DeSantis, Sunak on the world stage, and Iran — speakers: Join Rory, Rupert Murdoch, Donald Trump, Ron DeSantis, Joe Biden, Xi Jinping, Rishi Sunak, David Nott
+- 2022-11-16 — 75. Trump vs. DeSantis, Sunak on the world stage, and Iran — speakers: Join Rory, Ron DeSantis, Xi Jinping, Rishi Sunak, David Nott
 - 2022-11-10 — 74. Question Time: Women in politics, AI advancements, and airports — speakers: Join Rory, Maslen Exec, Davenport Learn
 - 2022-11-09 — 73. COP, Gavin Williamson, and US midterms — speakers: Gavin Williamson, Maslen Exec, Davenport Learn
 - 2022-11-04 — 72. Julia Gillard on Rishi Sunak, compulsory voting and that misogyny speech — speakers: Julia Gillard, Rishi Sunak, Misogyny Speech, Maslen Exec, Davenport Learn
-- 2022-11-03 — 71. Question Time: Elon Musk, Twitter, and regulating 'Big Tech' — speakers: Join Alastair, Elon Musk, John Reith, Maslen Exec, Davenport Learn
-- 2022-11-02 — 70. Braverman, Brazil, and Hancock in the jungle — speakers: Suella Braverman, Tony Blair, Matt Hancock, Maslen Exec, Davenport Learn
+- 2022-11-03 — 71. Question Time: Elon Musk, Twitter, and regulating 'Big Tech' — speakers: Join Alastair, John Reith, Maslen Exec, Davenport Learn
+- 2022-11-02 — 70. Braverman, Brazil, and Hancock in the jungle — speakers: Suella Braverman, Matt Hancock, Maslen Exec, Davenport Learn
 - 2022-10-27 — 69. François Hollande on Putin, Obama, and Brexit — speakers: François Hollande, Xi Jinping, Dom Johnson Theo Young-Smith, Jack Davenport Learn
 - 2022-10-26 — 68. Question Time: Battle for the National Trust, getting over Brexit and boycotting Qatar — speakers: Exec Producer, Jack Davenport Learn
-- 2022-10-24 — 67. PRIME MINISTER RISHI SUNAK — speakers: Rishi Sunak, Boris Johnson, Dom Johnson Theo Young-Smith, Jack Davenport Learn
-- 2022-10-20 — 66. LIZ TRUSS RESIGNS — speakers: Liz Truss Resigns, Rory Stewart, Alastair Campbell, Liz Truss, Maslen Exec
+- 2022-10-24 — 67. PRIME MINISTER RISHI SUNAK — speakers: Rishi Sunak, Dom Johnson Theo Young-Smith, Jack Davenport Learn
+- 2022-10-20 — 66. LIZ TRUSS RESIGNS — speakers: Rory Stewart, Alastair Campbell, Maslen Exec
 - 2022-10-20 — 65. Question Time: Imposter Syndrome, the Commonwealth and fox hunting — speakers: Maslen Exec, Davenport Learn
-- 2022-10-18 — 64. Hunt U-turn as Truss goes missing — speakers: Hunt U-turn, Liz Truss
+- 2022-10-18 — 64. Hunt U-turn as Truss goes missing — speakers: Hunt U-turn
 - 2022-10-14 — 63. TRUSS DOWN, KWARTENG OUT — speakers: Kwasi Kwarteng
 - 2022-10-13 — 62. Question Time: Liberal Democrats, Lordships and Labour's return — speakers: Jeremy Corbyn, Maslen Exec, Davenport Learn
-- 2022-10-12 — 61. "Detested" Tories, the SNP, and Israel — speakers: Liz Truss, Nadhim Zahawi, Maslen Exec, Davenport Learn
+- 2022-10-12 — 61. "Detested" Tories, the SNP, and Israel — speakers: Nadhim Zahawi, Maslen Exec, Davenport Learn
 - 2022-10-07 — 60. Fear and Loathing in Birmingham
 - 2022-10-06 — 59. Question Time: Biden, barristers and the Black Watch — speakers: Maslen Exec
 - 2022-10-05 — 58. U-turns, Ukraine and election season — speakers: Will Truss, David Miliband, Exec Producers, Davenport Learn
-- 2022-09-29 — 57. The Week Everything Changed — speakers: Liz Truss, Kwasi Kwarteng, Davenport Learn
+- 2022-09-29 — 57. The Week Everything Changed — speakers: Kwasi Kwarteng, Davenport Learn
 - 2022-09-29 — 56. Question Time: Prison reform, lobbying, and Alastair on Strictly — speakers: Nicole Maslen Exec
-- 2022-09-28 — 55. The Kamikwaze budget, Iranian protests, and Italian 'post-fascists' — speakers: Kwasi Kwarteng, Liz Truss, Davenport Learn
+- 2022-09-28 — 55. The Kamikwaze budget, Iranian protests, and Italian 'post-fascists' — speakers: Kwasi Kwarteng, Davenport Learn
 - 2022-09-23 — 54. Albanian PM Edi Rama on Putin, Macron, and combating corruption — speakers: Edi Rama, Davenport Learn
 - 2022-09-22 — 53. Question Time: Blair-Brown, the Special Relationship, and official apologies — speakers: Davenport Learn
-- 2022-09-21 — 52. The Queen's funeral, United Nations, and fracking — speakers: Elizabeth II, Liz Truss
-- 2022-09-16 — 51. Mark Drakeford on Labour success, Tory PMs, and Welsh nationalism — speakers: Mark Drakeford, Boris Johnson, Davenport Learn
+- 2022-09-21 — 52. The Queen's funeral, United Nations, and fracking — speakers: Elizabeth II
+- 2022-09-16 — 51. Mark Drakeford on Labour success, Tory PMs, and Welsh nationalism — speakers: Mark Drakeford, Davenport Learn
 - 2022-09-15 — 50. Question Time: King Charles III, Scottish accents, and left vs. right — speakers: Charles Iii, Davenport Learn
 - 2022-09-14 — 49. Queen Elizabeth II, Ukrainian counter-attacks, and Sweden — speakers: Elizabeth II, Davenport Learn
-- 2022-09-08 — 48. Question Time: Parents, Austerity, and talking with hands — speakers: Liz Truss, Boris Johnson, Davenport Learn
-- 2022-09-07 — 47. Liz Truss, lido politics, and Chile — speakers: Liz Truss, James Cleverly, Davenport Learn
-- 2022-09-05 — 46. PRIME MINISTER LIZ TRUSS — speakers: Liz Truss, Joe Lycett, Keir Starmer, Davenport Learn
+- 2022-09-08 — 48. Question Time: Parents, Austerity, and talking with hands — speakers: Davenport Learn
+- 2022-09-07 — 47. Liz Truss, lido politics, and Chile — speakers: James Cleverly, Davenport Learn
+- 2022-09-05 — 46. PRIME MINISTER LIZ TRUSS — speakers: Joe Lycett, Davenport Learn
 - 2022-09-01 — 45. Question Time: BBC impartiality, books vs. newspapers, and Stewart spoofery — speakers: John le Carré
 - 2022-08-31 — 44. Freezing bills, mental health in politics, and Rory's new job
-- 2022-08-25 — 43. Question Time: Margaret Thatcher, Rupert Murdoch, and Mick Lynch — speakers: Margaret Thatcher, Rupert Murdoch, Mick Lynch, Jack Davenport Learn
-- 2022-08-24 — 42. Working for Truss, Blackpool with Clinton, and Sewage — speakers: Liz Truss, Jack Davenport Learn
+- 2022-08-25 — 43. Question Time: Margaret Thatcher, Rupert Murdoch, and Mick Lynch — speakers: Margaret Thatcher, Mick Lynch, Jack Davenport Learn
+- 2022-08-24 — 42. Working for Truss, Blackpool with Clinton, and Sewage — speakers: Jack Davenport Learn
 - 2022-08-19 — Introducing Empire — speakers: William Dalrymple, Anita Anand, Robert Clive
-- 2022-08-18 — 41. Question Time: Classified documents, Eddie Jones, and A-levels — speakers: Gordon Brown, Gillian Duffy, Jack Davenport Learn
-- 2022-08-17 — 40. Salman Rushdie, the energy price cap, and Afghanistan — speakers: Salman Rushdie, Gordon Brown, Keir Starmer, Jack Davenport
+- 2022-08-18 — 41. Question Time: Classified documents, Eddie Jones, and A-levels — speakers: Gillian Duffy, Jack Davenport Learn
+- 2022-08-17 — 40. Salman Rushdie, the energy price cap, and Afghanistan — speakers: Salman Rushdie, Jack Davenport
 - 2022-08-11 — 39. Question Time: Clan Campbell vs. Clan Stewart, Tartan Trews, and Lindsay Hoyle — speakers: Clan Campbell, Clan Stewart, Lindsay Hoyle, Jack Davenport Learn
-- 2022-08-10 — 38. Amnesty International, cabinet duels, and fuel poverty — speakers: Join Alastair, George Canning, Nancy Pelosi, Boris Johnson, Jack Davenport Learn
+- 2022-08-10 — 38. Amnesty International, cabinet duels, and fuel poverty — speakers: Join Alastair, George Canning, Nancy Pelosi, Jack Davenport Learn
 - 2022-08-04 — 37. Question Time: Scottish Unionism, growth, and cannibalism — speakers: Scottish Unionism, Abraham Lincoln Doris Kearns, Aidan Crawley, Lyndon Johnson Robert Caro, Robert Caro Instagram, James Hodgson Producer, Jack Davenport Learn
-- 2022-08-03 — 36. William Hague on Boris Johnson, Blair, and Brexit — speakers: William Hague, Boris Johnson, Tony Blair, Jack Davenport Learn
-- 2022-08-02 — 35. Al-Qaeda, Pelosi in Taiwan, and working for Truss — speakers: Alastair Campbell, Rory Stewart, Nancy Pelosi, Boris Johnson, Gordon Brown, Robert Saunders, Jack Davenport Learn
+- 2022-08-03 — 36. William Hague on Boris Johnson, Blair, and Brexit — speakers: William Hague, Jack Davenport Learn
+- 2022-08-02 — 35. Al-Qaeda, Pelosi in Taiwan, and working for Truss — speakers: Alastair Campbell, Rory Stewart, Nancy Pelosi, Robert Saunders, Jack Davenport Learn
 - 2022-07-28 — 34. Question Time: The last days of Blair and May, carbon footprints, and remaining hopeful — speakers: Gina Miller, Jack Davenport Learn
 - 2022-07-27 — 33. Blue on blue, famine in Africa, and David Trimble — speakers: David Trimble, Alastair Campbell, Rory Stewart, Mario Draghi, Marilyn Monroe, James Dale Davidson, William Rees-Mogg, Jack Davenport Learn
 - 2022-07-22 — 32. Question Time: Treating addiction, feminism, and a fear of ketchup — speakers: Join Rory, Jack Davenport Learn
-- 2022-07-21 — 31. Rishi Sunak vs. Liz Truss — speakers: Rishi Sunak, Liz Truss, Davenport Learn
-- 2022-07-20 — 30. Keir Starmer on rebuilding Labour, Tory leadership, and Brexit — speakers: Keir Starmer, Boris Johnson, Lib Dems, Jack Davenport Sign
-- 2022-07-19 — 29. Heatwaves, semiconductors, and Johnson's return? — speakers: Joe Biden, Boris Johnson, Jack Davenport Learn
+- 2022-07-21 — 31. Rishi Sunak vs. Liz Truss — speakers: Rishi Sunak, Davenport Learn
+- 2022-07-20 — 30. Keir Starmer on rebuilding Labour, Tory leadership, and Brexit — speakers: Lib Dems, Jack Davenport Sign
+- 2022-07-19 — 29. Heatwaves, semiconductors, and Johnson's return? — speakers: Jack Davenport Learn
 - 2022-07-14 — 28. Question Time: Shinzo Abe, Sri Lanka, and 'Big Society' — speakers: Shinzo Abe, Sri Lanka, Join Rory, James Hodgson Producer, Jack Davenport Learn
-- 2022-07-12 — 27. Tory leadership race: contenders and pretenders — speakers: Rishi Sunak, Liz Truss, Penny Mordaunt, Tom Tugendhat, Alastair Campbell, Rory Stewart, Boris Johnson, Ben Walker
-- 2022-07-07 — 26. BORIS JOHNSON RESIGNS — speakers: Boris Johnson Resigns, Boris Johnson, Alastair Campbell, Rory Stewart, Davenport Learn
+- 2022-07-12 — 27. Tory leadership race: contenders and pretenders — speakers: Rishi Sunak, Penny Mordaunt, Tom Tugendhat, Alastair Campbell, Rory Stewart, Ben Walker
+- 2022-07-07 — 26. BORIS JOHNSON RESIGNS — speakers: Alastair Campbell, Rory Stewart, Davenport Learn
 - 2022-07-07 — 25. British scandals, global recession, and Elvis — speakers: Jimmy Carter, Peter Brook, William Hague Mozart, Patrick Mackie, Alastair Campbell, Rory Stewart, Tony Pastor Jack Davenport
-- 2022-07-05 — 24. SPECIAL: SUNAK AND JAVID RESIGN — speakers: Javid Resign, Alastair Campbell, Rory Stewart, Rishi Sunak, Sajid Javid, Boris Johnson, Davenport Learn
+- 2022-07-05 — 24. SPECIAL: SUNAK AND JAVID RESIGN — speakers: Javid Resign, Alastair Campbell, Rory Stewart, Rishi Sunak, Sajid Javid, Davenport Learn
 - 2022-06-30 — 23. Question Time: Roe v. Wade, military MPs, and Ismail Kadare — speakers: Ismail Kadare, John Smith, Rory Stewart, Alastair Campbell, Davenport Learn
-- 2022-06-29 — 22. Tony Blair on the UK's relegation battle — speakers: Tony Blair, Rory Stewart, Alastair Campbell, Tony Pastor Jack Davenport
+- 2022-06-29 — 22. Tony Blair on the UK's relegation battle — speakers: Rory Stewart, Alastair Campbell, Tony Pastor Jack Davenport
 - 2022-06-23 — 21. Question Time: The Queen's toilet, Carole Cadwalladr, and climate crisis — speakers: Carole Cadwalladr, James Hodgson Producer, Davenport Learn
 - 2022-06-22 — 20. By-elections, strikes, and populists — speakers: Join Rory, Henry Kissinger, Carrie Johnson, Welsh Labour, Peter Kellner, Tony Pastor Jack Davenport
-- 2022-06-16 — 19. Question Time: Ukraine, Tony Blair, and foreign languages — speakers: Tony Blair, Alastair Campbell, Rory Stewart, James Hodgson Producer, Davenport Learn
-- 2022-06-15 — 18. Keir Starmer, Northern Ireland, and disagreeing 'agreeably' — speakers: Keir Starmer, Join Rory, Wes Streeting, Tony Blair, Liz Truss, Tony Pastor Jack Davenport
+- 2022-06-16 — 19. Question Time: Ukraine, Tony Blair, and foreign languages — speakers: Alastair Campbell, Rory Stewart, James Hodgson Producer, Davenport Learn
+- 2022-06-15 — 18. Keir Starmer, Northern Ireland, and disagreeing 'agreeably' — speakers: Join Rory, Wes Streeting, Tony Pastor Jack Davenport
 - 2022-06-09 — 17. Question Time: Austerity, diaries, and impostors — speakers: Join Rory, John Bercow, Davenport Learn
 - 2022-06-08 — 16. Johnson, monarchy, and the West Bank
 - 2022-06-02 — 15. Question Time: Hong Kong handover, human rights, and Tintin
 - 2022-06-01 — 14. Charisma, Portugal, and gun control — speakers: Nelson Mandela
-- 2022-05-25 — 13. Rupert Murdoch, Taiwan, and Burnley — speakers: Rupert Murdoch, Anthony Albanese, Mhairi Black, Bill Cash, Nigel Farage, Join Rory
+- 2022-05-25 — 13. Rupert Murdoch, Taiwan, and Burnley — speakers: Anthony Albanese, Mhairi Black, Bill Cash, Join Rory
 - 2022-05-18 — 12. Food shortages, Francois Hollande, and Shireen Abu Akleh — speakers: Francois Hollande, Shireen Abu Akleh, Nick Clegg
 - 2022-05-11 — 11. Putin’s blanket, election fallout, and China in Africa
-- 2022-05-04 — 10. Bad politics, local elections, and toxic debates — speakers: Rory Stewart, Alastair Campbell, Boris Johnson
-- 2022-04-27 — 9. Biggest snakes, Basic Instinct, and meeting Miley — speakers: Basic Instinct, Boris Johnson, Miley Cyrus
+- 2022-05-04 — 10. Bad politics, local elections, and toxic debates — speakers: Rory Stewart, Alastair Campbell
+- 2022-04-27 — 9. Biggest snakes, Basic Instinct, and meeting Miley — speakers: Basic Instinct, Miley Cyrus
 - 2022-04-20 — 8. Rwanda, Religion and the Return of Trump
 - 2022-04-13 — 7. Partygate fines, political partners, and voting at 15?
 - 2022-04-06 — 6. Globalism, Scottish Nationalism, and Rory's new job — speakers: Rory Stewart
-- 2022-03-30 — 5. Tribal politics, anonymous sources, and Malcolm Tucker — speakers: Malcolm Tucker, Joe Biden, Goalhanger Podcasts Learn
+- 2022-03-30 — 5. Tribal politics, anonymous sources, and Malcolm Tucker — speakers: Malcolm Tucker, Goalhanger Podcasts Learn
 - 2022-03-23 — 4. Iraq, brave opposition, and powerful Chancellors — speakers: Goalhanger Podcasts Learn
 - 2022-03-16 — 3. Zelenskyy's humanity, Lebvedev's parties, and Eton — speakers: Goalhanger Podcasts Learn
 - 2022-03-14 — The Rest Is History: Young Putin, the KGB and the Soviet Union
