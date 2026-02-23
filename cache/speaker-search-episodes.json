@@ -1455,6 +1455,30 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8bc61d154ae8",
+        "feed_title": "Dish",
+        "source_rss_url": "https://feeds.megaphone.fm/dish",
+        "dedupe_key": "5baccf74a5196fa74061c45cb54003ecb4bb3eb4",
+        "episode_key": "5baccf74a5196fa74061c45cb54003ecb4bb3eb4",
+        "title": "Comedian Nish Kumar, gnocchi with roasted red pepper and chilli pesto",
+        "published_at": "2023-05-24T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week Nick and Angela welcome Nish Kumar to Dish HQ.\n\n\n\nNish is a critically acclaimed comic who has won rave reviews and prestigious award nominations for his stand-up. Away from the comedy circuit, he is a regular on TV shows like 8 out of 10 Cats Does Countdown, Live at the Apollo and Taskmaster, and can often b",
+        "audio_url": "https://pdst.fm/e/chtbl.com/track/43774/traffic.megaphone.fm/SONY4256251983.mp3?updated=1692798747",
+        "link_url": "https://podcasts.apple.com/gb/podcast/comedian-nish-kumar-gnocchi-with-roasted-red-pepper/id1626354833?i=1000614235042&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:04bf13a3cc34",
         "feed_title": "Hypothetical The Podcast with Josh Widdicombe and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/625563eef25a12001309ecc2",
@@ -1968,6 +1992,30 @@
           "James Acaster",
           "Ed Gamble",
           "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "a0ddd06da834d99efb29a90cc65c008089e603d7",
+        "episode_key": "a0ddd06da834d99efb29a90cc65c008089e603d7",
+        "title": "Ep 4: Nish Kumar (Christmas Special)",
+        "published_at": "2018-12-26T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's Boxing Day, we're feeling festive, and everyone's best friend Nish Kumar has popped in to order his favourite Christmas meal. Plus we need your help to #BringBackKumarsCobbler\nRecorded and edited by Ben Williams for Plosive Productions.\nArtwork by Paul Gilbey (photography) and Amy Browne (illustrations).\nNish Kuma",
+        "audio_url": "https://sphinx.acast.com/offmenu/ep4-nishkumar-christmasspecial-/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-4-nish-kumar-christmas-special/id1442950743?i=1000426495615&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster",
+          "Ed Gamble"
         ],
         "topics": [],
         "external": true
@@ -4600,6 +4648,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:1eac8536e49a",
+        "feed_title": "Walking The Dog with Emily Dean",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65fd941cc33959001681e12e",
+        "dedupe_key": "6bf702f3be23689f5f41a72885fcef3ea71aefbe",
+        "episode_key": "6bf702f3be23689f5f41a72885fcef3ea71aefbe",
+        "title": "Lee Mack, Frank Skinner, Gabby Logan and more... 2024’s Best Bits!",
+        "published_at": "2024-12-31T00:05:27Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on Walking The Dog, we’re taking a look back at some of our favourite walks of the past year! \nIn this episode you will hear clips from the following episodes: \nLee Mack\nSuzi Ruffell\nFrank Skinner\nGabby Logan\nPhil Wang\nAngela Barnes\nJames O’Brien\nEd Gamble\nRoss Noble\nJames Middleton \nClick the links to listen",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65fd941cc33959001681e12e/e/67644b640033250918a86376/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack-frank-skinner-gabby-logan-and-more-2024s-best-bits/id1220510307?i=1000682182189&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:71ff8532d9f4",
         "feed_title": "Films To Be Buried With with Brett Goldstein",
         "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
@@ -4712,6 +4783,30 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8bc61d154ae8",
+        "feed_title": "Dish",
+        "source_rss_url": "https://feeds.megaphone.fm/dish",
+        "dedupe_key": "5baccf74a5196fa74061c45cb54003ecb4bb3eb4",
+        "episode_key": "5baccf74a5196fa74061c45cb54003ecb4bb3eb4",
+        "title": "Comedian Nish Kumar, gnocchi with roasted red pepper and chilli pesto",
+        "published_at": "2023-05-24T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week Nick and Angela welcome Nish Kumar to Dish HQ.\n\n\n\nNish is a critically acclaimed comic who has won rave reviews and prestigious award nominations for his stand-up. Away from the comedy circuit, he is a regular on TV shows like 8 out of 10 Cats Does Countdown, Live at the Apollo and Taskmaster, and can often b",
+        "audio_url": "https://pdst.fm/e/chtbl.com/track/43774/traffic.megaphone.fm/SONY4256251983.mp3?updated=1692798747",
+        "link_url": "https://podcasts.apple.com/gb/podcast/comedian-nish-kumar-gnocchi-with-roasted-red-pepper/id1626354833?i=1000614235042&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:04bf13a3cc34",
         "feed_title": "Hypothetical The Podcast with Josh Widdicombe and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/625563eef25a12001309ecc2",
@@ -4777,6 +4872,29 @@
         "enclosure_type": null,
         "speakers": [
           "Richard Osman",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:0860a3d0b6f8",
+        "feed_title": "Out To Lunch",
+        "source_rss_url": "https://feeds.megaphone.fm/outtolunchwithjayrayner",
+        "dedupe_key": "6d0d814c905358c112d5d715558119f4c887d193",
+        "episode_key": "6d0d814c905358c112d5d715558119f4c887d193",
+        "title": "Nish Kumar",
+        "published_at": "2021-06-29T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "On his first foray into stand-up with Ed Gamble and Tom Neenan, \"The Mash Report”’s origin story and the worst gig he's ever played, comedian, writer and presenter Nish Kumar joins Jay for this week’s episode of Out To Lunch. Nish and Jay chat over a delicious Mexican feast courtesy of Santo Remedio in London (https://",
+        "audio_url": "https://pdst.fm/e/mgln.ai/e/143/traffic.megaphone.fm/SONY5833795251.mp3?updated=1624891314",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1455111316?i=1000527115904&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
           "Ed Gamble"
         ],
         "topics": [],
@@ -4963,6 +5081,30 @@
           "James Acaster",
           "Ed Gamble",
           "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "a0ddd06da834d99efb29a90cc65c008089e603d7",
+        "episode_key": "a0ddd06da834d99efb29a90cc65c008089e603d7",
+        "title": "Ep 4: Nish Kumar (Christmas Special)",
+        "published_at": "2018-12-26T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's Boxing Day, we're feeling festive, and everyone's best friend Nish Kumar has popped in to order his favourite Christmas meal. Plus we need your help to #BringBackKumarsCobbler\nRecorded and edited by Ben Williams for Plosive Productions.\nArtwork by Paul Gilbey (photography) and Amy Browne (illustrations).\nNish Kuma",
+        "audio_url": "https://sphinx.acast.com/offmenu/ep4-nishkumar-christmasspecial-/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-4-nish-kumar-christmas-special/id1442950743?i=1000426495615&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster",
+          "Ed Gamble"
         ],
         "topics": [],
         "external": true
@@ -18034,6 +18176,76 @@
         "enclosure_type": null,
         "speakers": [
           "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "feccbed97d8cd1fc83ee624a434b013053fa2656",
+        "episode_key": "feccbed97d8cd1fc83ee624a434b013053fa2656",
+        "title": "Episode 8",
+        "published_at": "2024-01-09T06:00:09Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The gang start plotting to spring Lawrence from prison, making Clarke's decision to close the case look increasingly suboptimal. Angela heads to the Big Top to track down Nish, and Milton Jones has the worst week of his life courtesy of the Only Joking team. Sara Pascoe joins Pat and Adams in the studio, where she is d",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e6bcc8ed510013757aaa/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-8/id1716339860?i=1000640996214&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "71000224fb882f916502b29f56c79e0a7a872cbd",
+        "episode_key": "71000224fb882f916502b29f56c79e0a7a872cbd",
+        "title": "Episode 2",
+        "published_at": "2023-11-28T06:00:08Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Studio guest Romesh Ranganathan attempts to get a grip on exactly what the podcast is, Sita bags Serpico his first acting role and Pat's crowd-work skills are tested to their limit when Donna encourages Lawrence and Huey to try out their new heist personas in public…\nA true(ish) crime podcast, which sees undercover cop",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e0a36a413b001299c8f2/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-2/id1716339860?i=1000636741222&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "4b55729638670410aa28c6f80db1d444655970a2",
+        "episode_key": "4b55729638670410aa28c6f80db1d444655970a2",
+        "title": "Episode 1",
+        "published_at": "2023-11-21T06:00:43Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "A true(ish) crime podcast, based on James Acaster's undercover cop alter-ego Pat Springleaf, which sees Pat share police wire recordings from the biggest case of his career: working undercover to infiltrate and bring to justice the notorious SW6 gang, led by the villainous Lawrence (Domhnall Gleeson).\nBack in 2013, ex-",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e03f0418cd00128edd9d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-1/id1716339860?i=1000635509472&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster",
+          "Ed Gamble"
         ],
         "topics": [],
         "external": true

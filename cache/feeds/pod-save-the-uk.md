@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `W/"c8c5552b04b89288e21f0837cf7d33eb"`
-- last_modified: `Thu, 19 Feb 2026 14:47:02 GMT`
+- fetched_at: `2026-02-23T22:02:17+00:00`
+- checked_at: `2026-02-23T22:02:17+00:00`
+- etag: `W/"6509a2a2e19585983e3c462307700f41"`
+- last_modified: `Mon, 23 Feb 2026 19:10:47 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-02-23T22:02:17+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -36,16 +36,12 @@
       "link": "https://audioboom.com/posts/8862855",
       "description": "This week Coco is joined by the comedian Cody Dahler while Nish takes a brief break and there’s so much to talk about! The Greens' Hannah Spencer has become the unexpected bookies favourite to win the Gorton and Denton by-election but does she have what it takes to turn good odds into a win at the ballot box? We speak to her about the importance of fighting to improve lives, her favourite false rumour and why walking her dogs helped form her political outlook. Plus Keir Starmer is back with another U-turn and another inquiry. We try to work out what he’s hoping to achieve this week. And Amnesty International’s UK Director of Law and Human Rights, Tom Southerden, updates us on their High Court victory as they challenge the proscription of Palestine Action. CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk GUESTS Hannah Spencer, Green Party candidate, Gorton and Denton by-election Tom Southerden, UK Law and Human Rights Director, Amnesty International USEFUL LINKS Gorton and Denton by-election candidate list https://whocanivotefor.co.uk/elections/parl.gorton-and-denton.by.2026-02-26/gorton-and-denton/ CREDITS TikTok / @mrcodydahler Green Party of England and Wales / Facebook Hannah Spencer / Instagram Paul Holden, Investigative journalist and author of \"The Fraud\" High Court protest reaction - Amnesty International footage @mrcodydahler / Instagram Otto, Budding Comedian Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43480115.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8862855.mp3?modified=1771503686&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8862855.mp3?modified=1771512730&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3246",
       "speakers": [
         "Cody Dahler",
-        "Hannah Spencer",
-        "Tom Southerden",
-        "Paul Holden",
-        "Instagram Otto",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -68,13 +64,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3316",
       "speakers": [
-        "Tim Allan",
-        "Peter Mandelson",
-        "Jeffrey Epstein",
-        "Paul Holden",
-        "Labour Together",
-        "Stuart Goldsmith",
-        "Investigative Journalist"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "mcsweeney",
@@ -95,9 +86,6 @@
       "itunes_duration": "3213",
       "speakers": [
         "Will Mandelson",
-        "Andrew Mountbatten-Windsor",
-        "Ann Pettifor",
-        "Laura Kuenssberg",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -120,12 +108,8 @@
       "itunes_duration": "3232",
       "speakers": [
         "Will Starmer",
-        "Angela Rayner",
-        "Ed Miliband",
-        "Matt Goodwin",
-        "Zoë Grünewald",
-        "Rachel Filmer",
-        "Carrie Grant"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "starmer",
@@ -147,11 +131,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3345",
       "speakers": [
-        "Liam Thorp",
-        "Alaa Shehada",
-        "Alaa Shehada Comedian",
-        "Magic Lantern",
-        "Cinema Birmingham Mockingbird"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "starmer",
@@ -174,12 +155,8 @@
       "itunes_duration": "3272",
       "speakers": [
         "Grok AI Scandal",
-        "Rutger Bregman",
-        "Rutger Bregman Historian",
-        "Liz Kendall",
-        "Rutger Bregman Publicae",
-        "Tucker Carlson Now",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "grok",
@@ -202,13 +179,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3355",
       "speakers": [
-        "Tommy Vietor",
-        "Cody Dahler",
-        "Cody Dahler TikTok",
-        "Laura Kuenssberg",
-        "Pod Save",
-        "podsavetheuk Twitter",
-        "podsavetheuk Learn"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "trump",
@@ -229,7 +201,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3019",
       "speakers": [
-        "podsavetheuk Learn",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -252,11 +223,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3313",
       "speakers": [
-        "Shappi Khorsandi",
-        "Jovan Owusu-Nepaul",
-        "Comedian Jovan Owusu-Nepaul",
-        "Laura Kuenssberg",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -280,10 +246,6 @@
       "itunes_duration": "3230",
       "speakers": [
         "Sadiq Khan",
-        "Sam Coates",
-        "Alison McGovern",
-        "Truss Show",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -308,12 +270,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2707",
       "speakers": [
-        "David Lammy",
-        "Liz Sayce Obe",
-        "Team Zarah",
-        "Team Jeremy",
-        "Guests Liz Sayce",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -336,12 +292,8 @@
       "itunes_duration": "3193",
       "speakers": [
         "Rachel Reeves",
-        "Zoë Grünewald",
-        "Faiza Shaheen",
-        "Guests Zoë Grünewald",
-        "Aditya Chakrabortty Guardian",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "reeves",
@@ -361,10 +313,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2892",
       "speakers": [
-        "Shabana Mahmood",
-        "Rachel Reeves",
-        "Robert Palmer",
-        "podsavetheuk Youtube",
+        "Moral Mission",
+        "Copy Reform",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -389,13 +339,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3293",
       "speakers": [
-        "Wes Streeting",
-        "Alex Reid",
-        "Robert Jenrick",
-        "Kanishka Narayan",
-        "Pod Save",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "coup",
@@ -417,12 +362,8 @@
       "itunes_duration": "3218",
       "speakers": [
         "Zohran Mamdani",
-        "Rachel Reeves",
-        "Jane Bradley",
-        "Lisa Hallgarten",
-        "Pstuk Wise",
-        "Lisa Hallgarten advocate",
-        "Jane Bradley UK"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "zohran",
@@ -442,10 +383,6 @@
       "itunes_duration": "3266",
       "speakers": [
         "Vicky Spratt",
-        "Zoë Grünewald standing",
-        "Steve Reed",
-        "Jeremy Corbyn",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -473,12 +410,8 @@
       "itunes_duration": "3413",
       "speakers": [
         "Jimmy Wales",
-        "Chat Gpt",
-        "Prince Andrew",
-        "Al Arabia",
-        "Pod Save",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "truth",
@@ -500,8 +433,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3024",
       "speakers": [
-        "Katy Perry",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -524,8 +455,6 @@
       "itunes_duration": "2712",
       "speakers": [
         "Stephen Bush",
-        "Stephen Bush Clip",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -549,9 +478,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3092",
       "speakers": [
-        "Zoë Grünewald",
-        "Simon Opher",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -574,13 +500,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3226",
       "speakers": [
-        "MPs Zarah Sultana",
-        "Jeremy Corbyn",
-        "Zack Polanski",
-        "Jimmy Kimmel",
-        "Pod Save",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "loss",
@@ -603,13 +524,8 @@
       "itunes_duration": "2949",
       "speakers": [
         "Tommy Robinson",
-        "Zarah Sultana",
-        "Zack Polanski",
-        "Jeremy Corbyn",
-        "Josie Naughton",
-        "George Monbiot Zoe Gardener",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "anger",
@@ -635,12 +551,8 @@
       "itunes_duration": "3475",
       "speakers": [
         "Zarah Sultana",
-        "Homer Simpson",
-        "Bimini Bon-Boulash",
-        "Angela Rayner",
-        "Diana mug",
-        "Spice Girl",
-        "Zarah Sultana Bimini Bon-Boulash"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "labour",
@@ -664,10 +576,6 @@
       "speakers": [
         "Wael Al-Dahdouh",
         "Alexei Sayle",
-        "Adnan Joubran",
-        "Zarah Sultana",
-        "Bimini Bon-Boulash",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -692,8 +600,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2890",
       "speakers": [
-        "Twitter weirdosbookclub Recorded",
-        "Naomi Parnell",
+        "Weirdos Book Club",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -719,9 +626,6 @@
       "itunes_duration": "3142",
       "speakers": [
         "Dawn Butler",
-        "Sadiq Khan",
-        "Sign Dawn Butler",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -744,10 +648,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3329",
       "speakers": [
-        "Anoosh Chakelian",
-        "Chris Bryant",
-        "landlord MPs",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -769,10 +669,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3367",
       "speakers": [
-        "Pedro Pascal",
-        "Chris Stokel-Walker",
-        "Freddy McConnell",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -795,11 +691,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2495",
       "speakers": [
-        "Brian Leishman",
-        "Zarah Sultana",
-        "Jeremy Corbyn",
-        "Tim Crosland",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -820,8 +711,6 @@
       "itunes_duration": "3340",
       "speakers": [
         "Ellie Chowns",
-        "Zack Polanski",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -847,10 +736,6 @@
       "speakers": [
         "Gary Stevenson",
         "Oliver Coppard",
-        "Rachel Reeves",
-        "Zarah Sultana",
-        "Oliver Coppard Useful",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -876,12 +761,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3368",
       "speakers": [
-        "Bob Vylan",
-        "Frances Ryan",
-        "Movember’s Dr",
-        "Zac Seidler",
-        "Frances Ryan Dr",
-        "podsavetheuk Youtube",
+        "Glastonbury Nish",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -904,9 +784,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3095",
       "speakers": [
-        "Abi O’Connor",
-        "Yvette Cooper",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -926,11 +803,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3304",
       "speakers": [
-        "Tom McTague",
-        "Brian Leishman",
-        "Wendy Chamberlain",
-        "Berry Brian Leishman",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -953,10 +825,6 @@
       "itunes_duration": "3188",
       "speakers": [
         "Rachel Reeves",
-        "Akiko Hart",
-        "Zia Yusuf",
-        "Akiko Hart Audio",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -976,13 +844,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3314",
       "speakers": [
-        "Stella Creasy",
-        "Humza Yousaf",
-        "Barnard Castle",
-        "Coco Khan",
-        "Sign Stella Creasy",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "abortion",
@@ -1001,9 +864,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3167",
       "speakers": [
-        "Bethany Dawson",
-        "Aamna Mohdin",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1025,11 +885,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2765",
       "speakers": [
-        "David Lammy",
-        "Alison McGovern",
-        "Ellie Chowns",
-        "Meg Thomas",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1052,9 +907,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3059",
       "speakers": [
-        "Enoch Powell",
-        "Minnie Rahman",
-        "podsavetheuk Youtube",
+        "Pod Save",
+        "Strangers Coco",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1075,8 +929,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3063",
       "speakers": [
-        "Patience Nabukalu",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1098,11 +950,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3281",
       "speakers": [
-        "Ellen Jones",
-        "JK Rowling",
-        "Wayne Swan",
-        "Project Crowdfunder",
-        "podsavetheuk Youtube"
+        "Supreme Court",
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "supreme",
@@ -1125,8 +975,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2444",
       "speakers": [
-        "Bob Dylan",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1150,13 +998,8 @@
       "itunes_duration": "2870",
       "speakers": [
         "Trump’s Tariffs",
-        "Rachel Reeves",
-        "Zoë Grünewald",
-        "Melissa Benn",
-        "Tony Benn",
-        "Melissa Benn Audio",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "trump",
@@ -1175,9 +1018,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3407",
       "speakers": [
-        "Tim Lang",
-        "Tim Lang Zoë Grünewald",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1201,10 +1041,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3160",
       "speakers": [
-        "James Meadway",
-        "John McDonnell",
-        "James Meadway Audio",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1227,10 +1063,6 @@
       "itunes_duration": "2714",
       "speakers": [
         "Liz Kendall",
-        "Clive Lewis",
-        "Zoë Grünewald",
-        "Mikey Erhardt Zoë Grünewald",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1254,8 +1086,6 @@
       "itunes_duration": "1659",
       "speakers": [
         "Shadow Kingdom",
-        "Roberto Calvi",
-        "Nicolo Majnoni",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1280,11 +1110,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3029",
       "speakers": [
-        "Rupert Lowe",
-        "Mikey Erhardt",
-        "Laura Carreira",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "welfare",
@@ -1305,10 +1132,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3459",
       "speakers": [
-        "Volodymyr Zelenskyy",
-        "Sophie Lewis",
-        "Sophie Lewis Enemy",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1332,13 +1155,8 @@
       "itunes_duration": "2948",
       "speakers": [
         "Ed Davey",
-        "Ed Davey leader",
-        "Lib Dems",
-        "Yoko Ono",
-        "Zoe Grunewald",
-        "Davey Zoë Grünewald",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "dear",
@@ -1364,12 +1182,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2983",
       "speakers": [
-        "Volodymyr Zelenskyy",
-        "Shon Faye",
-        "Patricia Clarke",
-        "Patricia Clarke Audio",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "trump",
@@ -1394,11 +1208,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2810",
       "speakers": [
-        "Ash Sarkar",
-        "Andrew Gwynne",
-        "Oliver Ryan along",
-        "Sarkar Nathan",
-        "podsavetheuk Learn",
+        "Culture War",
+        "Reform Reform",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1422,9 +1233,6 @@
       "speakers": [
         "Trump’s Gaza",
         "Lewis Goodall Donald Trump",
-        "Lewis Goodall",
-        "Tessa Khan",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1448,8 +1256,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2713",
       "speakers": [
-        "Rachel Reeves",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1473,11 +1279,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2871",
       "speakers": [
-        "David Lammy",
-        "Carla Denyer",
-        "Nature Bill",
-        "Jon Favreau",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1498,10 +1299,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3069",
       "speakers": [
-        "Chris Stokel-Walker",
-        "Nafeez Ahmed",
-        "Billionaire BS",
-        "podsavetheuk Youtube",
+        "Keir Starme",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1522,12 +1320,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2830",
       "speakers": [
-        "Jess Phillips",
-        "Zoë Grünewald",
-        "Andrew Tate",
-        "Zoë Grünewald Audio",
-        "Mark Zuckerberg Pod Save",
-        "podsavetheuk Youtube"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "billionaire",
@@ -1550,9 +1344,6 @@
       "speakers": [
         "Desiree Burch",
         "Liz Bates",
-        "Rishi Sunak",
-        "Ed Davey",
-        "podsavetheuk Youtube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1575,13 +1366,11 @@
       "enclosure_length": "0",
       "itunes_duration": "2989",
       "speakers": [
-        "bin Salman",
-        "Joey Shea",
-        "Vicky Spratt",
-        "Prince William",
-        "Vicky Spratt Joey Shea",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "World Cup",
+        "Trade Deals",
+        "Saudi Arabia",
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "fifa",
@@ -1605,11 +1394,8 @@
       "itunes_duration": "3144",
       "speakers": [
         "Gregg Wallace",
-        "Zoë Grünewald",
-        "Jacob Diggle",
-        "Diggle Useful",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "politic",
@@ -1633,12 +1419,8 @@
       "itunes_duration": "2919",
       "speakers": [
         "Rosena Allin-Khan",
-        "Storm Bert",
-        "Tessa Khan",
-        "Cate Blanchett",
-        "Rosena Allin-Khan Tessa",
-        "podsavetheuk Youtube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "rosena",
@@ -1660,10 +1442,8 @@
       "speakers": [
         "Jamie Bartlett",
         "Stephen Bush",
-        "Bartlett Useful",
-        "Rebecca Wilson",
-        "podsavetheuk Learn",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "world",
@@ -1688,10 +1468,6 @@
       "itunes_duration": "3025",
       "speakers": [
         "Beth Rigby",
-        "Jo Grady",
-        "Beth Rigby Amira",
-        "Campbell Jo Grady Useful",
-        "podsavetheuk Learn",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1717,10 +1493,6 @@
       "itunes_duration": "3104",
       "speakers": [
         "Katy Balls Bell Ribeiro-Addy",
-        "Katy Balls",
-        "Bell Ribeiro-Addy",
-        "David Lammy",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1747,11 +1519,6 @@
       "itunes_duration": "2822",
       "speakers": [
         "Torsten Bell MP",
-        "Rachel Reeve",
-        "Grace Blakeley",
-        "Katie Schmuecker",
-        "Torsten Bell",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1780,12 +1547,8 @@
       "itunes_duration": "2749",
       "speakers": [
         "Jeremy Corbyn",
-        "Boaty McBoatface",
-        "Islington North",
-        "Tommy Vietor",
-        "Pod Save",
-        "podsavetheuk YouTube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "trump",
@@ -1808,9 +1571,6 @@
       "speakers": [
         "Anushka Asthana",
         "Josh Babarinde",
-        "Jonathan Ashworth",
-        "Anushka Asthana Josh Babarinde",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1835,11 +1595,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3454",
       "speakers": [
-        "Ian Dunt",
-        "Portcullis House",
-        "Rishi Sunak",
-        "James Cleverly",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1864,8 +1619,6 @@
       "speakers": [
         "Caroline Selman",
         "John Pring",
-        "com publiclawprojct",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1893,7 +1646,6 @@
       "speakers": [
         "Zoë Grünewald",
         "Simon Kuper",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1919,9 +1671,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3117",
       "speakers": [
-        "Zoe Gardner",
-        "Giorgia Meloni",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1946,9 +1695,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2990",
       "speakers": [
-        "David Navarro",
-        "David’s Channel",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -1972,9 +1718,6 @@
       "itunes_duration": "2924",
       "speakers": [
         "Zoë Grünewald",
-        "Jeremy Corbyn",
-        "James Riding",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2000,9 +1743,6 @@
       "itunes_duration": "2809",
       "speakers": [
         "Kemah Bob",
-        "Adam Hills",
-        "Bob Comedian",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2028,9 +1768,6 @@
       "itunes_duration": "3414",
       "speakers": [
         "Tom Ballard",
-        "podsavetheuk YouTube",
-        "Ahir Shah Comedian",
-        "Tom Ballard Comedian",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2058,9 +1795,6 @@
       "speakers": [
         "Paul Johnson",
         "Rachel Reeves",
-        "Jeremy Hunt",
-        "podsavetheuk YouTube",
-        "James Cleveley Learn",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2084,7 +1818,6 @@
       "speakers": [
         "Clare Farrell",
         "Victor Adebowale",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2110,11 +1843,6 @@
       "itunes_duration": "3193",
       "speakers": [
         "Liz Bates",
-        "JD Vance",
-        "Vaughan Gething",
-        "Gareth Southgate",
-        "Janeen Hayat",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2145,7 +1873,6 @@
         "Kwajo Tweneboa",
         "Toby Lloyd",
         "Sam Freedman",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2172,9 +1899,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3299",
       "speakers": [
-        "Zoe Grünewald",
-        "Torsten Bell",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2201,9 +1925,6 @@
       "itunes_duration": "1648",
       "speakers": [
         "Rory Stewart",
-        "Alastair Campbell",
-        "podsavetheuk YouTube",
-        "Rory Stewart Useful",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2227,9 +1948,6 @@
       "itunes_duration": "2543",
       "speakers": [
         "Liz Bates",
-        "Rishi Sunak",
-        "Gillian Keegan",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2252,11 +1970,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2555",
       "speakers": [
-        "Chris Packham",
-        "Adrienne Buller",
-        "podsavetheuk YouTube",
-        "Chris Packham Conservationist",
-        "Adrienne Buller Author",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2282,12 +1995,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3163",
       "speakers": [
-        "Will Hayward",
-        "Vaughan Gething",
-        "Amanda Ferguson",
-        "Jeffrey Donaldson",
-        "podsavetheuk YouTube",
-        "Jo Stevens",
+        "General Election",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2310,11 +2018,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2643",
       "speakers": [
-        "Zoe Grünewald",
-        "Rebekah Pierre",
-        "Helen Barnard",
-        "podsavetheuk YouTube",
-        "Audio Clips",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2336,10 +2039,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2588",
       "speakers": [
-        "Joe Twyman",
-        "Jessica Garland",
-        "podsavetheuk YouTube",
-        "YouTube Campaigner",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2365,8 +2064,6 @@
       "itunes_duration": "2835",
       "speakers": [
         "Gary Stevenson",
-        "podsavetheuk YouTube",
-        "Gary’s Economics Useful",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2389,7 +2086,11 @@
       "itunes_duration": "3231",
       "speakers": [
         "Jeremy Corbyn",
-        "podsavetheuk YouTube",
+        "Mhairi Black",
+        "Left Culled",
+        "Centre Cracked",
+        "Right Reformed",
+        "General Election",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2417,10 +2118,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2525",
       "speakers": [
-        "Rishi Sunak",
-        "Liz Bates",
-        "Christine Jardine",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2445,10 +2142,7 @@
       "itunes_duration": "2928",
       "speakers": [
         "Abigail Thorn",
-        "Freddy McConnell",
-        "Gillian Keegan",
-        "podsavetheuk YouTube",
-        "Transactual Briefing",
+        "Freddy Mc",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2469,11 +2163,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2702",
       "speakers": [
-        "Rishi Sunak",
-        "Liz Bates",
-        "Coco Liz",
-        "Lib Dems",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2496,12 +2185,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2700",
       "speakers": [
-        "Rishi Sunak",
         "Jeremy Hunt",
-        "George Monbiot",
-        "Esther McVey",
-        "podsavetheuk YouTube",
-        "Peter Hutchison",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2522,9 +2206,6 @@
       "itunes_duration": "2978",
       "speakers": [
         "Aisling Bea",
-        "Susan Hall",
-        "podsavetheuk YouTube",
-        "Me Learn",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2547,8 +2228,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2485",
       "speakers": [
-        "Liz Bates",
-        "podsavetheuk YouTube",
+        "Local Election",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2572,14 +2252,11 @@
       "enclosure_length": "0",
       "itunes_duration": "2827",
       "speakers": [
-        "Rishi Sunak",
         "Humza Yousaf",
-        "Andrew McDonald",
-        "Lemn Sissay",
-        "Rebekah Pierre",
-        "Idris Elba Nish",
-        "Liz Bates",
-        "podsavetheuk YouTube"
+        "Shock Resignation",
+        "Greens Seizing Power",
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "humza",
@@ -2605,10 +2282,6 @@
       "itunes_duration": "3288",
       "speakers": [
         "Caroline Lucas",
-        "Rishi Sunak",
-        "Bill ping-ponged",
-        "Pod Save",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2636,10 +2309,8 @@
       "speakers": [
         "Jess Phillips",
         "Angela Rayner",
-        "Rishi Sunak",
-        "Diane Abbott",
-        "Hannah Waddingham",
-        "podsavetheuk YouTube"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "jess",
@@ -2662,13 +2333,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2853",
       "speakers": [
-        "Wes Streeting",
-        "Shami Chakrabarti",
-        "Diane Abbott",
-        "podsavetheuk YouTube",
-        "Shami Charkrabarti",
-        "Luke Evans",
-        "Nish Kumar"
+        "Westminster Coco",
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "scandal",
@@ -2689,7 +2356,6 @@
       "itunes_duration": "2316",
       "speakers": [
         "Rwanda Bill",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2712,10 +2378,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2900",
       "speakers": [
-        "Richard Taylor",
-        "Alan Titchmarsh",
-        "Pod Save",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2740,11 +2402,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2998",
       "speakers": [
-        "Frank Hester",
-        "Peter Geoghagen",
-        "Will Hayward",
-        "Rishi Sunak",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2768,13 +2425,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3058",
       "speakers": [
-        "Beth Rigby",
-        "Frank Hester",
-        "Diane Abbott",
-        "Lee Anderson",
-        "Jonathan Glazer",
-        "Matthew Parris",
-        "Pod Save"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "tory",
@@ -2796,13 +2448,8 @@
       "itunes_duration": "2871",
       "speakers": [
         "Jeremy Hunt",
-        "Kiran Stacey",
-        "Rachelle Earwaker",
-        "Anthony Mangnall",
-        "Lucy Moore",
-        "King Harold",
-        "podsavetheuk YouTube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "jeremy",
@@ -2825,11 +2472,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3129",
       "speakers": [
-        "Liz Bates",
-        "Tom Baldwin",
-        "Lee Anderson",
-        "George Galloway",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2852,12 +2494,8 @@
       "speakers": [
         "Will Young",
         "Liz Bates",
-        "Lindsay Hoyle",
-        "Kemi Badenoch",
-        "Henry Staunton",
-        "Jacob Rees-Mogg",
-        "Carrie Bradshaw",
-        "Pod Save"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "young",
@@ -2878,13 +2516,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3048",
       "speakers": [
-        "Rishi Sunak",
-        "Azhar Ali",
-        "Zelda Perkins",
-        "Harvey Weinstein",
-        "Wrexham FC",
-        "Ryan Renolds",
-        "Rob McElhenney"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "rochdale",
@@ -2907,10 +2540,6 @@
       "itunes_duration": "3092",
       "speakers": [
         "Humza Yousaf",
-        "Khan Younis",
-        "Rishi Sunak",
-        "James Cleverly",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -2937,8 +2566,6 @@
       "itunes_duration": "2894",
       "speakers": [
         "Nish Kumar",
-        "Amanda Ferguson",
-        "podsavetheuk YouTube",
         "Coco Khan"
       ],
       "topics": [
@@ -2963,13 +2590,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2841",
       "speakers": [
-        "Joe Harris",
-        "Zoe Billingham",
-        "Michael Gove",
-        "Ministers Lucy Frazer",
-        "Hugh Merriman",
-        "podsavetheuk YouTube",
-        "Lib Dem"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "council",
@@ -2988,12 +2610,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3149",
       "speakers": [
-        "Rishi Sunak",
-        "Clive Lewis",
-        "Laura Trevelyan",
-        "Oil Down",
-        "Manchester United fan",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3016,8 +2632,6 @@
       "itunes_duration": "3117",
       "speakers": [
         "Lionel Rishi",
-        "James Harding",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3044,9 +2658,8 @@
       "speakers": [
         "Comedians Andy Zaltzman",
         "Catherine Bohart",
-        "podsavetheuk YouTube",
-        "Andy Zaltzman",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "nish",
@@ -3068,11 +2681,8 @@
       "itunes_duration": "3561",
       "speakers": [
         "Catherine Bohart",
-        "Rishi Sunak",
-        "podsavetheuk YouTube",
-        "Andy Zaltzman",
-        "Rishi Sunak Instagram",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "politic",
@@ -3093,14 +2703,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3022",
       "speakers": [
-        "Rishi Sunak",
-        "Rwanda Bill",
-        "Peter Apps",
-        "Will Hayward",
-        "Mark Drakeford",
-        "Graham Stuart",
-        "podsavetheuk YouTube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "sunak",
@@ -3121,8 +2725,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1521",
       "speakers": [
-        "Susie Crozier-Flintham",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3149,10 +2751,8 @@
       "speakers": [
         "Tory Immigration",
         "Ben Rhodes",
-        "Rishi Sunak",
-        "Benjamin Netenyahu",
-        "Nish’s Hero",
-        "podsavetheuk YouTube"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "tory",
@@ -3175,11 +2775,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3243",
       "speakers": [
-        "Rishi Sunak",
-        "Karl Mathiesen",
-        "Kehinde Andrews",
-        "podsavetheuk YouTube",
-        "Laura Kuenssberg",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3201,8 +2796,6 @@
       "itunes_duration": "3010",
       "speakers": [
         "Jeremy Hunt",
-        "Helen Barnard",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3224,12 +2817,8 @@
       "itunes_duration": "3114",
       "speakers": [
         "James O’Brien",
-        "Rishi Sunak",
-        "Paul Dacre",
-        "Jeremy Corbyn",
-        "Pod Save",
-        "podsavetheuk YouTube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "judge",
@@ -3252,9 +2841,6 @@
       "itunes_duration": "1714",
       "speakers": [
         "Cameron Nish",
-        "Rishi Sunak",
-        "Suella Braverman",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3276,12 +2862,8 @@
       "itunes_duration": "3084",
       "speakers": [
         "Milli Vanilli",
-        "Black Rod",
-        "Zoë Grünewald",
-        "Suella Braverman",
-        "Rishi Sunak",
-        "podsavetheuk YouTube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "king",
@@ -3304,10 +2886,6 @@
       "itunes_duration": "2957",
       "speakers": [
         "Covid WhatsApps",
-        "Suella Braverman",
-        "Rishi Sunak",
-        "Cristina Criddle",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3330,9 +2908,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3092",
       "speakers": [
-        "Rishi Sunak",
-        "Toby Lloyd",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3355,9 +2930,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3536",
       "speakers": [
-        "Rishi Sunak",
-        "Peter Bone",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3381,11 +2953,8 @@
       "itunes_duration": "3677",
       "speakers": [
         "Rob Delaney",
-        "Tom Cruise",
-        "Carla Denyer",
-        "George Parker",
-        "podsavetheuk YouTube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "sparkle",
@@ -3406,9 +2975,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2999",
       "speakers": [
-        "Tory Ministers",
-        "podsavetheuk YouTube",
-        "Matthew O’Toole",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3432,13 +2998,8 @@
       "itunes_duration": "3332",
       "speakers": [
         "Cancelling HS",
-        "Rishi Sunak",
-        "Grace Blakeley",
-        "Layla Moran",
-        "Lib Dem Glee Club",
-        "Laurence Fox",
-        "podsavetheuk YouTube",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "news",
@@ -3459,13 +3020,8 @@
       "itunes_duration": "3917",
       "speakers": [
         "Russell Brand",
-        "Louise Casey",
-        "Leroy Logan Mbe",
-        "Suella Braverman",
-        "Jens Haaning",
-        "podsavetheuk YouTube",
-        "Leroy Logan",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "russell",
@@ -3487,9 +3043,6 @@
       "itunes_duration": "2939",
       "speakers": [
         "David Lammy",
-        "Vladimir Putin",
-        "Kim Jung Un",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3514,11 +3067,8 @@
       "itunes_duration": "3959",
       "speakers": [
         "Fixing Britain",
-        "Chris Bryant",
-        "Kevin Bacon",
-        "podsavetheuk YouTube",
-        "Merope Mills",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "britain",
@@ -3540,9 +3090,6 @@
       "speakers": [
         "Exposing Andrew Tate",
         "Andrew Tate",
-        "Rishi Sunak",
-        "Matt Shea",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3567,9 +3114,6 @@
       "itunes_duration": "3088",
       "speakers": [
         "Lucy Letby",
-        "podsavetheuk YouTube",
-        "Hannah Shogbola",
-        "Daju Gaia Ahuja",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3591,10 +3135,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3737",
       "speakers": [
-        "Jacqueline McKenzie",
-        "Grace Blakeley",
-        "Pod Save",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3618,7 +3158,6 @@
       "itunes_duration": "2406",
       "speakers": [
         "Gina Martin",
-        "podsavetheuk YouTube",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3640,9 +3179,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3012",
       "speakers": [
-        "Neal Lawson",
-        "Robert Jenrick",
-        "Compass Learn",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3666,10 +3202,6 @@
       "enclosure_length": "0",
       "itunes_duration": "866",
       "speakers": [
-        "Khan’s Ulez",
-        "Ruislip Coco",
-        "Keir Mather",
-        "Ed Davey",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3693,9 +3225,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3829",
       "speakers": [
-        "Mhairi Black",
-        "Renfrewshire South",
-        "Laura Kuenssberg",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3717,11 +3246,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3255",
       "speakers": [
-        "Lee Anderson",
-        "Carla Denyer co",
-        "Robert Jenrick",
-        "Pod Save",
-        "Carla Denyer",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3744,10 +3268,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3495",
       "speakers": [
-        "Rishi Sunak",
-        "Chloe Naldrett",
-        "Piers Morgan",
-        "Pod Save",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3769,10 +3289,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3242",
       "speakers": [
-        "Matt Hancock",
-        "John Humphrys",
-        "Margaret Thatcher",
-        "Putin how",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3795,12 +3311,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3692",
       "speakers": [
-        "Catherine Ross",
-        "George Osborne",
-        "Rishi Sunak",
-        "Andy Burnham",
-        "Manchester Catherine Ross",
-        "Nish Kumar"
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "king",
@@ -3821,10 +3333,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3936",
       "speakers": [
-        "Rosena Allin-Khan",
-        "Matt Hancock",
-        "Manchester United fan",
-        "Liz Bates",
+        "Boris John",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3849,8 +3358,6 @@
       "itunes_duration": "3101",
       "speakers": [
         "Emily Thornberry",
-        "Prince Harry",
-        "Pod Save",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3874,8 +3381,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2994",
       "speakers": [
-        "Jon Yates",
-        "Switch Up",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3898,9 +3403,6 @@
       "speakers": [
         "Speedy Sue",
         "Suella Braverman",
-        "Daniel Chandler",
-        "James Cleverly",
-        "Parliament tv Learn",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3921,10 +3423,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3374",
       "speakers": [
-        "Will Moy",
-        "Anny Cullum",
-        "Jacob Rees-Mogg",
-        "Full Fact",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3945,8 +3443,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3029",
       "speakers": [
-        "Paul Powlesland",
-        "Lib Dems",
+        "Showgirls While",
         "Nish Kumar",
         "Coco Khan"
       ],
@@ -3968,12 +3465,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3736",
       "speakers": [
-        "Coco Khan",
-        "Amelia Hadfield",
-        "Clive Lewis",
-        "Jenny Lambert Poppy",
-        "Murray Learn",
-        "Nish Kumar"
+        "Republic Pod Save",
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": [
         "republic"
@@ -4012,8 +3506,10 @@
       "enclosure_length": "0",
       "itunes_duration": "101",
       "speakers": [
-        "Coco Khan",
-        "Nish Kumar"
+        "Introducing Pod Save",
+        "Pod Save",
+        "Nish Kumar",
+        "Coco Khan"
       ],
       "topics": []
     }
@@ -4024,153 +3520,153 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — 142: Can she fix it? Hannah the plumber and politician on tackling Reform — speakers: Cody Dahler, Hannah Spencer, Tom Southerden, Paul Holden, Instagram Otto, Nish Kumar, Coco Khan
-- 2026-02-12 — 141: McSweeney: the man who made Starmer and his ties to Mandelson — speakers: Tim Allan, Peter Mandelson, Jeffrey Epstein, Paul Holden, Labour Together, Stuart Goldsmith, Investigative Journalist
-- 2026-02-05 — 140: Will Mandelson be Starmer’s downfall? — speakers: Will Mandelson, Andrew Mountbatten-Windsor, Ann Pettifor, Laura Kuenssberg, Nish Kumar, Coco Khan
-- 2026-01-29 — Will Starmer’s control freakery deliver victory to Reform? — speakers: Will Starmer, Angela Rayner, Ed Miliband, Matt Goodwin, Zoë Grünewald, Rachel Filmer, Carrie Grant
-- 2026-01-22 — Starmer’s new Trump headache and making comedy under occupation — speakers: Liam Thorp, Alaa Shehada, Alaa Shehada Comedian, Magic Lantern, Cinema Birmingham Mockingbird
-- 2026-01-15 — Grok AI Scandal: should we treat Big Tech like Big Tobacco? w/ Rutger Bregman — speakers: Grok AI Scandal, Rutger Bregman, Rutger Bregman Historian, Liz Kendall, Rutger Bregman Publicae, Tucker Carlson Now, Nish Kumar
-- 2026-01-08 — Trump’s explosive start to 2026 - will Starmer find a backbone? — speakers: Tommy Vietor, Cody Dahler, Cody Dahler TikTok, Laura Kuenssberg, Pod Save, podsavetheuk Twitter, podsavetheuk Learn
-- 2026-01-01 — Why does the Left make it so f***** hard? Question Time - PSUK-style — speakers: podsavetheuk Learn, Nish Kumar, Coco Khan
-- 2025-12-18 — 2025 in British politics: from Starmer’s flop-flops to AI slop — speakers: Shappi Khorsandi, Jovan Owusu-Nepaul, Comedian Jovan Owusu-Nepaul, Laura Kuenssberg, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-12-11 — Trump blasts Europe and Sadiq Khan - but will his strong man act backfire? — speakers: Sadiq Khan, Sam Coates, Alison McGovern, Truss Show, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-12-04 — Will cutting juries fix our maggot-ridden courts? — speakers: David Lammy, Liz Sayce Obe, Team Zarah, Team Jeremy, Guests Liz Sayce, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-11-27 — Reeves’s make-or-break budget: should the rich have paid more? — speakers: Rachel Reeves, Zoë Grünewald, Faiza Shaheen, Guests Zoë Grünewald, Aditya Chakrabortty Guardian, podsavetheuk Youtube, Nish Kumar
-- 2025-11-20 — Mahmood’s Moral Mission: Copy Reform’s homework — speakers: Shabana Mahmood, Rachel Reeves, Robert Palmer, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-11-13 — Much a-coup about nothing? Labour take all the wrong notes from the Tories — speakers: Wes Streeting, Alex Reid, Robert Jenrick, Kanishka Narayan, Pod Save, podsavetheuk Youtube, Nish Kumar
-- 2025-11-06 — What can the left learn from Zohran Mamdani’s win? — speakers: Zohran Mamdani, Rachel Reeves, Jane Bradley, Lisa Hallgarten, Pstuk Wise, Lisa Hallgarten advocate, Jane Bradley UK
-- 2025-10-30 — Britain’s prison and asylum meltdown. Plus - the Renters’ Rights Act w/ Vicky Spratt — speakers: Vicky Spratt, Zoë Grünewald standing, Steve Reed, Jeremy Corbyn, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-10-23 — Pod Save the Truth w/ Wikipedia founder Jimmy Wales — speakers: Jimmy Wales, Chat Gpt, Prince Andrew, Al Arabia, Pod Save, podsavetheuk Youtube, Nish Kumar
-- 2025-10-16 — Why can’t the UK get over Thatcher? Plus - “Your Party” infighting is Definitely Maybe over… — speakers: Katy Perry, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-10-09 — Solidarity in the face of hatred: how to unite after the Manchester attack — speakers: Stephen Bush, Stephen Bush Clip, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-10-02 — Decency or division: Starmer takes aim at Reform — speakers: Zoë Grünewald, Simon Opher, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-09-25 — Your loss, Zack’s gain? Polanski’s vision for the UK — speakers: MPs Zarah Sultana, Jeremy Corbyn, Zack Polanski, Jimmy Kimmel, Pod Save, podsavetheuk Youtube, Nish Kumar
-- 2025-09-18 — Anger, Rage and Love - Trump’s visit to the UK and Tommy Robinson’s far right rally — speakers: Tommy Robinson, Zarah Sultana, Zack Polanski, Jeremy Corbyn, Josie Naughton, George Monbiot Zoe Gardener, podsavetheuk Youtube, Nish Kumar
-- 2025-09-09 — Liberated from Labour: Zarah Sultana and Bimini Bon-Boulash - Live! — speakers: Zarah Sultana, Homer Simpson, Bimini Bon-Boulash, Angela Rayner, Diana mug, Spice Girl, Zarah Sultana Bimini Bon-Boulash
-- 2025-09-04 — Stop The Genocide! w/ Wael Al-Dahdouh, Jen Brister and Alexei Sayle — speakers: Wael Al-Dahdouh, Alexei Sayle, Adnan Joubran, Zarah Sultana, Bimini Bon-Boulash, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-08-28 — Friends of PSUK - Sara & Cariad’s Weirdos Book Club — speakers: Twitter weirdosbookclub Recorded, Naomi Parnell, Nish Kumar, Coco Khan
-- 2025-08-21 — Does the UK have a gambling problem? Out and about w/ Dawn Butler — speakers: Dawn Butler, Sadiq Khan, Sign Dawn Butler, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-08-14 — Is the government inflaming protests on the left and right? — speakers: Anoosh Chakelian, Chris Bryant, landlord MPs, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-08-07 — Is criticism of the Online Safety Act actually right wing? — speakers: Pedro Pascal, Chris Stokel-Walker, Freddy McConnell, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-07-31 — Is the new left party what the UK needs? — speakers: Brian Leishman, Zarah Sultana, Jeremy Corbyn, Tim Crosland, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-07-17 — PSUK’s Green Leadership Debate: The Friendliest FIGHT FIGHT FIGHT You’ve Ever Heard — speakers: Ellie Chowns, Zack Polanski, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-07-08 — Live! One year of Keir - how can we fix the mess? - with Gary Stevenson and Oliver Coppard — speakers: Gary Stevenson, Oliver Coppard, Rachel Reeves, Zarah Sultana, Oliver Coppard Useful, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-07-03 — [Moral] Panic on the streets of Glastonbury — speakers: Bob Vylan, Frances Ryan, Movember’s Dr, Zac Seidler, Frances Ryan Dr, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-06-26 — Does Trump know what the F#@! he’s doing? — speakers: Abi O’Connor, Yvette Cooper, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-06-21 — U-turn after U-turn: who is the real Keir Starmer? — speakers: Tom McTague, Brian Leishman, Wendy Chamberlain, Berry Brian Leishman, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-06-12 — Is Labour finally being Labour? — speakers: Rachel Reeves, Akiko Hart, Zia Yusuf, Akiko Hart Audio, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-06-05 — How to protect abortion rights from the far-right — speakers: Stella Creasy, Humza Yousaf, Barnard Castle, Coco Khan, Sign Stella Creasy, podsavetheuk Youtube, Nish Kumar
-- 2025-05-29 — Babies, Benefits and Black Lives Matter — speakers: Bethany Dawson, Aamna Mohdin, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-05-22 — Gaza and Benefits: is Starmer changing course? — speakers: David Lammy, Alison McGovern, Ellie Chowns, Meg Thomas, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-05-15 — Pod Save an Island of Strangers — speakers: Enoch Powell, Minnie Rahman, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-05-08 — How Labour should (but probably won’t) reset after Reform’s big win — speakers: Patience Nabukalu, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-05-01 — 103: The UK Supreme Court ruling and the fight for trans rights — speakers: Ellen Jones, JK Rowling, Wayne Swan, Project Crowdfunder, podsavetheuk Youtube
-- 2025-04-17 — 102: Nish and Coco spill the tea: your questions answered — speakers: Bob Dylan, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-04-10 — Trump’s Tariffs: are you feeling liberated? — speakers: Trump’s Tariffs, Rachel Reeves, Zoë Grünewald, Melissa Benn, Tony Benn, Melissa Benn Audio, podsavetheuk Youtube, Nish Kumar
-- 2025-04-03 — Waiting For The Apocalypse: tariffs, food security and the right to protest — speakers: Tim Lang, Tim Lang Zoë Grünewald, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-03-27 — Austerity 2.0: can Reeves cut her way to growth? — speakers: James Meadway, John McDonnell, James Meadway Audio, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-03-20 — Welfare cuts: are Labour copying Tory homework? — speakers: Liz Kendall, Clive Lewis, Zoë Grünewald, Mikey Erhardt Zoë Grünewald, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-03-17 — A true story of money, Mafia & the Vatican (Shadow Kingdom Episode 1) — speakers: Shadow Kingdom, Roberto Calvi, Nicolo Majnoni, Nish Kumar, Coco Khan
-- 2025-03-13 — Welfare, Warehouses and Playlist Diplomacy — speakers: Rupert Lowe, Mikey Erhardt, Laura Carreira, podsavetheuk Youtube, Nish Kumar
-- 2025-03-06 — Keir Starmer - the unlikely leader of the free world? — speakers: Volodymyr Zelenskyy, Sophie Lewis, Sophie Lewis Enemy, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-02-27 — Dear Donald: Can Starmer Tame Trump? w/ Liberal Democrat Leader Sir Ed Davey — speakers: Ed Davey, Ed Davey leader, Lib Dems, Yoko Ono, Zoe Grunewald, Davey Zoë Grünewald, podsavetheuk Youtube, Nish Kumar
-- 2025-02-20 — Trump’s plan for “Peace” in Ukraine only pleases Putin + The Politics of Modern Love — speakers: Volodymyr Zelenskyy, Shon Faye, Patricia Clarke, Patricia Clarke Audio, podsavetheuk Youtube, Nish Kumar
-- 2025-02-13 — Adventures in the Culture War w/ Ash Sarkar — speakers: Ash Sarkar, Andrew Gwynne, Oliver Ryan along, Sarkar Nathan, podsavetheuk Learn, Nish Kumar, Coco Khan
-- 2025-02-06 — Trump’s Gaza madness ft Lewis Goodall — speakers: Trump’s Gaza, Lewis Goodall Donald Trump, Lewis Goodall, Tessa Khan, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-01-30 — Masculinity and Misinformation: How JimmyTheGiant Escaped The Alt-Right Pipeline — speakers: Rachel Reeves, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-01-23 — Trump 2.0: Fear and Loathing in DC — speakers: David Lammy, Carla Denyer, Nature Bill, Jon Favreau, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-01-16 — Facts versus F-wits: how to fight the Alt Reich — speakers: Chris Stokel-Walker, Nafeez Ahmed, Billionaire BS, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2025-01-09 — Billionaire BS: How can Britain Stop Musk’s Disinformation? — speakers: Jess Phillips, Zoë Grünewald, Andrew Tate, Zoë Grünewald Audio, Mark Zuckerberg Pod Save, podsavetheuk Youtube
-- 2024-12-19 — Just Stop Politics - 2024 Wrapped! w/ Desiree Burch and Liz Bates — speakers: Desiree Burch, Liz Bates, Rishi Sunak, Ed Davey, podsavetheuk Youtube, Nish Kumar, Coco Khan
-- 2024-12-12 — FIFA World Cup: Trade Deals 1, Human Rights Nil — speakers: bin Salman, Joey Shea, Vicky Spratt, Prince William, Vicky Spratt Joey Shea, podsavetheuk Youtube, Nish Kumar
-- 2024-12-05 — Toxic men and toxic politics: the problem with Gregg Wallace and Nigel Farage — speakers: Gregg Wallace, Zoë Grünewald, Jacob Diggle, Diggle Useful, podsavetheuk Youtube, Nish Kumar
-- 2024-11-28 — Who gets to decide how we die? w/ Rosena Allin-Khan MP — speakers: Rosena Allin-Khan, Storm Bert, Tessa Khan, Cate Blanchett, Rosena Allin-Khan Tessa, podsavetheuk Youtube, Nish Kumar
-- 2024-11-21 — How to avoid World War 3 + why won’t Elon Musk Leave the UK alone? W/ Jamie Bartlett & Stephen Bush — speakers: Jamie Bartlett, Stephen Bush, Bartlett Useful, Rebecca Wilson, podsavetheuk Learn, Nish Kumar
-- 2024-11-14 — How is Trump already infecting UK politics? w/ Beth Rigby + the university crisis — speakers: Beth Rigby, Jo Grady, Beth Rigby Amira, Campbell Jo Grady Useful, podsavetheuk Learn, Nish Kumar, Coco Khan
-- 2024-11-07 — Trump wins: where the hell do we go from here? w/ Katy Balls + Bell Ribeiro-Addy MP — speakers: Katy Balls Bell Ribeiro-Addy, Katy Balls, Bell Ribeiro-Addy, David Lammy, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-10-31 — Halloween budget: trick or treat? w/ Torsten Bell MP, Grace Blakeley & Katie Schmuecker — speakers: Torsten Bell MP, Rachel Reeve, Grace Blakeley, Katie Schmuecker, Torsten Bell, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-10-24 — How f***ed are we if Trump wins? + Is Jeremy Corbyn MP forming a new party? — speakers: Jeremy Corbyn, Boaty McBoatface, Islington North, Tommy Vietor, Pod Save, podsavetheuk YouTube, Nish Kumar
-- 2024-10-17 — How ruthless is Keir Starmer willing to be? w/ Anushka Asthana and Josh Babarinde MP — speakers: Anushka Asthana, Josh Babarinde, Jonathan Ashworth, Anushka Asthana Josh Babarinde, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-10-10 — The Tories lose their minds (again) - can Starmer hold against the far right? — speakers: Ian Dunt, Portcullis House, Rishi Sunak, James Cleverly, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-10-03 — Is Britain’s benefits system broken? w/ Caroline Selman and John Pring — speakers: Caroline Selman, John Pring, com publiclawprojct, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-09-26 — Can Starmer’s upbeat note drown out the donation scandal? w/ Zoë Grünewald and Simon Kuper — speakers: Zoë Grünewald, Simon Kuper, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-09-19 — Starmer’s Garm Drama + the Government looks right on immigration w/ Zoe Gardner — speakers: Zoe Gardner, Giorgia Meloni, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-09-12 — Inside out: How to fix the UK’s prison system + Labour embraces unpopularity — speakers: David Navarro, David’s Channel, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-09-05 — Time to nationalise Ticketmaster? “Cigarettes & Alcohol”, the Grenfell Inquiry concludes — speakers: Zoë Grünewald, Jeremy Corbyn, James Riding, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-08-15 — Live! How comedy can bring hope in dark times - with Adam Hills and Kemah Bob — speakers: Kemah Bob, Adam Hills, Bob Comedian, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-08-08 — Live! Finding hope in the wake of Britain's racist riots - with Ahir Shah & Tom Ballard — speakers: Tom Ballard, podsavetheuk YouTube, Ahir Shah Comedian, Tom Ballard Comedian, Nish Kumar, Coco Khan
-- 2024-08-01 — How Can We Fix The British Economy? With Paul Johnson From The IFS — speakers: Paul Johnson, Rachel Reeves, Jeremy Hunt, podsavetheuk YouTube, James Cleveley Learn, Nish Kumar, Coco Khan
-- 2024-07-25 — Red Rebellion, Just Stop Locking Up Activists And How To Fix Our Broken NHS With Clare Farrell And Victor Adebowale — speakers: Clare Farrell, Victor Adebowale, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-07-18 — The Kings Speech, Knives Out for Vaughan Gething and An Education on Schools Policy with Liz Bates — speakers: Liz Bates, JD Vance, Vaughan Gething, Gareth Southgate, Janeen Hayat, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-07-11 — Are Labour the party to finally fix housing? w/ Kwajo Tweneboa, Toby Lloyd and Sam Freedman — speakers: Kwajo Tweneboa, Toby Lloyd, Sam Freedman, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-07-05 — Labour Landslide - will things get better? With Torsten Bell MP and Femi Oluwole — speakers: Zoe Grünewald, Torsten Bell, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-06-30 — Would a Labour supermajority really be bad for democracy? Rory Stewart on why opposition is vital — speakers: Rory Stewart, Alastair Campbell, podsavetheuk YouTube, Rory Stewart Useful, Nish Kumar, Coco Khan
-- 2024-06-27 — Will “gamblegate” scandal obliterate the Tories Forever? Plus last few days of the election with Liz Bates — speakers: Liz Bates, Rishi Sunak, Gillian Keegan, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-06-23 — Chris Packham Vs Taylor Swift: Will People or Politics Save Our Planet? — speakers: Chris Packham, Adrienne Buller, podsavetheuk YouTube, Chris Packham Conservationist, Adrienne Buller Author, Nish Kumar, Coco Khan
-- 2024-06-20 — Who gets the power? Devolution and the General Election. — speakers: Will Hayward, Vaughan Gething, Amanda Ferguson, Jeffrey Donaldson, podsavetheuk YouTube, Jo Stevens, Nish Kumar, Coco Khan
-- 2024-06-16 — Manifesto deep-dive: Is Labour’s at all progressive? — speakers: Zoe Grünewald, Rebekah Pierre, Helen Barnard, podsavetheuk YouTube, Audio Clips, Nish Kumar, Coco Khan
-- 2024-06-13 — How to make your vote count: is Tactical Voting a necessary evil? With Femi Oluwole — speakers: Joe Twyman, Jessica Garland, podsavetheuk YouTube, YouTube Campaigner, Nish Kumar, Coco Khan
-- 2024-06-09 — Why is it so hard to tax the rich? Would it fix our economy? With Gary Stevenson — speakers: Gary Stevenson, podsavetheuk YouTube, Gary’s Economics Useful, Nish Kumar, Coco Khan
-- 2024-06-06 — Jeremy Corbyn & Mhairi Black: Left Culled, Centre Cracked and Right Reformed? — speakers: Jeremy Corbyn, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-05-30 — Generational Warfare: Has Rishi Sunak’s electoral gambit misfired? — speakers: Rishi Sunak, Liz Bates, Christine Jardine, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-05-26 — What do the Trans & Non-binary community need most right now? — speakers: Abigail Thorn, Freddy McConnell, Gillian Keegan, podsavetheuk YouTube, Transactual Briefing, Nish Kumar, Coco Khan
-- 2024-05-23 — Are these the last six weeks of Rishi Sunak and the Tories? — speakers: Rishi Sunak, Liz Bates, Coco Liz, Lib Dems, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-05-16 — The economy is growing, so why are we feeling poorer? — speakers: Rishi Sunak, Jeremy Hunt, George Monbiot, Esther McVey, podsavetheuk YouTube, Peter Hutchison, Nish Kumar, Coco Khan
-- 2024-05-09 — Abortion rights & ending hunger with Aisling Bea — speakers: Aisling Bea, Susan Hall, podsavetheuk YouTube, Me Learn, Nish Kumar, Coco Khan
-- 2024-05-03 — Are the Local Election results the beginning of total Tory annihilation? — speakers: Liz Bates, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-05-02 — Humza Yousaf's Shock Resignation: Are the Greens Seizing Power in Scotland? — speakers: Rishi Sunak, Humza Yousaf, Andrew McDonald, Lemn Sissay, Rebekah Pierre, Idris Elba Nish, Liz Bates, podsavetheuk YouTube
-- 2024-04-25 — Nish dismantles Sunak's attack on disabled people and Coco meets Caroline Lucas — speakers: Caroline Lucas, Rishi Sunak, Bill ping-ponged, Pod Save, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-04-18 — Jess Phillips on Angela Rayner tax story: scandal or smear? — speakers: Jess Phillips, Angela Rayner, Rishi Sunak, Diane Abbott, Hannah Waddingham, podsavetheuk YouTube
-- 2024-04-11 — Scandal and cyber security in Westminster — speakers: Wes Streeting, Shami Chakrabarti, Diane Abbott, podsavetheuk YouTube, Shami Charkrabarti, Luke Evans, Nish Kumar
-- 2024-04-04 — Fighting the Rwanda Bill + Mr Kumar goes to Westminster — speakers: Rwanda Bill, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-03-28 — A China crisis, a dodgy attack ad, and Titchmarsh’s trousers — speakers: Richard Taylor, Alan Titchmarsh, Pod Save, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-03-21 — Democracy for sale, Europe’s first black leader + tea with Obama — speakers: Frank Hester, Peter Geoghagen, Will Hayward, Rishi Sunak, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-03-14 — Tory donor racism row, plus the Princess and the pic — speakers: Beth Rigby, Frank Hester, Diane Abbott, Lee Anderson, Jonathan Glazer, Matthew Parris, Pod Save
-- 2024-03-07 — Jeremy Hunt’s election budget for big earners and big owners — speakers: Jeremy Hunt, Kiran Stacey, Rachelle Earwaker, Anthony Mangnall, Lucy Moore, King Harold, podsavetheuk YouTube, Nish Kumar
-- 2024-02-29 — The man who would be PM: who is the real Keir Starmer? — speakers: Liz Bates, Tom Baldwin, Lee Anderson, George Galloway, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-02-22 — Will Young: popstar to politician? Plus Westminster ceasefire row — speakers: Will Young, Liz Bates, Lindsay Hoyle, Kemi Badenoch, Henry Staunton, Jacob Rees-Mogg, Carrie Bradshaw, Pod Save
-- 2024-02-15 — Rochdale row tests Starmer’s leadership, plus the woman who helped take down Weinstein — speakers: Rishi Sunak, Azhar Ali, Zelda Perkins, Harvey Weinstein, Wrexham FC, Ryan Renolds, Rob McElhenney
-- 2024-02-08 — Scotland’s First Minister Humza Yousaf: Sunak, Starmer and samosas — speakers: Humza Yousaf, Khan Younis, Rishi Sunak, James Cleverly, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-02-01 — The MP who gives away part of her salary, hope for Northern Ireland and Nish Kumar takes on the evil plotters — speakers: Nish Kumar, Amanda Ferguson, podsavetheuk YouTube, Coco Khan
-- 2024-01-25 — Why are our councils going bust? — speakers: Joe Harris, Zoe Billingham, Michael Gove, Ministers Lucy Frazer, Hugh Merriman, podsavetheuk YouTube, Lib Dem
-- 2024-01-18 — Rwanda, Reparations and Romance — speakers: Rishi Sunak, Clive Lewis, Laura Trevelyan, Oil Down, Manchester United fan, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-01-11 — The Horizon Post Office scandal and Lionel Rishi — speakers: Lionel Rishi, James Harding, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2024-01-04 — Nish and Coco’s predictions for 2024, plus would you kiss a Tory? — speakers: Comedians Andy Zaltzman, Catherine Bohart, podsavetheuk YouTube, Andy Zaltzman, Nish Kumar
-- 2023-12-28 — Just Stop Politics! Nish and Coco’s review of 2023 — speakers: Catherine Bohart, Rishi Sunak, podsavetheuk YouTube, Andy Zaltzman, Rishi Sunak Instagram, Nish Kumar
-- 2023-12-14 — Sunak survives, plus the long wait for Grenfell justice — speakers: Rishi Sunak, Rwanda Bill, Peter Apps, Will Hayward, Mark Drakeford, Graham Stuart, podsavetheuk YouTube, Nish Kumar
-- 2023-12-08 — Bereaved families’ verdict on Boris Johnson at the Covid Inquiry — speakers: Susie Crozier-Flintham, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-12-07 — Tory Immigration crackdown, plus Ben Rhodes on following the Queen into the toilet — speakers: Tory Immigration, Ben Rhodes, Rishi Sunak, Benjamin Netenyahu, Nish’s Hero, podsavetheuk YouTube
-- 2023-11-30 — Sunak’s big fat Greek blunder, plus will COP28 be a COP out? — speakers: Rishi Sunak, Karl Mathiesen, Kehinde Andrews, podsavetheuk YouTube, Laura Kuenssberg, Nish Kumar, Coco Khan
-- 2023-11-23 — The Tories’ back-handed budgeting — speakers: Jeremy Hunt, Helen Barnard, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-11-16 — Judges block Rwanda plan, plus who broke Britain with James O’Brien — speakers: James O’Brien, Rishi Sunak, Paul Dacre, Jeremy Corbyn, Pod Save, podsavetheuk YouTube, Nish Kumar
-- 2023-11-13 — Bye bye Braverman, hello Cameron — speakers: Cameron Nish, Rishi Sunak, Suella Braverman, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-11-09 — The King’s Speech: Milli Vanilli in a gold hat — speakers: Milli Vanilli, Black Rod, Zoë Grünewald, Suella Braverman, Rishi Sunak, podsavetheuk YouTube, Nish Kumar
-- 2023-11-02 — No.10’s shameful Covid WhatsApps, plus is AI a threat to humanity? — speakers: Covid WhatsApps, Suella Braverman, Rishi Sunak, Cristina Criddle, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-10-26 — A year of Sunak, and why housing is eating our economy — speakers: Rishi Sunak, Toby Lloyd, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-10-19 — Sunak in Israel, by-elections and back to Bibby — speakers: Rishi Sunak, Peter Bone, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-10-12 — Sparkles with Starmer plus Rob Delaney, NHS champion — speakers: Rob Delaney, Tom Cruise, Carla Denyer, George Parker, podsavetheuk YouTube, Nish Kumar
-- 2023-10-05 — Tory conference sh*tshow + Stormont stalemate — speakers: Tory Ministers, podsavetheuk YouTube, Matthew O’Toole, Nish Kumar, Coco Khan
-- 2023-09-28 — Cancelling HS2 and GB News + Lib Dem Layla Moran — speakers: Cancelling HS, Rishi Sunak, Grace Blakeley, Layla Moran, Lib Dem Glee Club, Laurence Fox, podsavetheuk YouTube, Nish Kumar
-- 2023-09-21 — The Russell Brand scandal and fixing the police — speakers: Russell Brand, Louise Casey, Leroy Logan Mbe, Suella Braverman, Jens Haaning, podsavetheuk YouTube, Leroy Logan, Nish Kumar
-- 2023-09-14 — China spy scandal rocks Parliament + David Lammy — speakers: David Lammy, Vladimir Putin, Kim Jung Un, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-09-07 — Fixing Britain’s crumbling schools and broken politics — speakers: Fixing Britain, Chris Bryant, Kevin Bacon, podsavetheuk YouTube, Merope Mills, Nish Kumar
-- 2023-08-31 — Exposing Andrew Tate and saying goodbye to Nadine Dorries — speakers: Exposing Andrew Tate, Andrew Tate, Rishi Sunak, Matt Shea, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-08-24 — Men in suits spoiling women’s football — speakers: Lucy Letby, podsavetheuk YouTube, Hannah Shogbola, Daju Gaia Ahuja, Nish Kumar, Coco Khan
-- 2023-08-17 — Tories war on 'lefty lawyers', and Sunak's Disney dinner — speakers: Jacqueline McKenzie, Grace Blakeley, Pod Save, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-08-10 — How to have difficult conversations - with Gina Martin — speakers: Gina Martin, podsavetheuk YouTube, Nish Kumar, Coco Khan
-- 2023-07-27 — Tactical voting, Tory traps and Labour purges — speakers: Neal Lawson, Robert Jenrick, Compass Learn, Nish Kumar, Coco Khan
-- 2023-07-21 — By-election special: Tories trounced in two, scrape home in one — speakers: Khan’s Ulez, Ruislip Coco, Keir Mather, Ed Davey, Nish Kumar, Coco Khan
-- 2023-07-20 — Is Keir Starmer a Kid Starver? — speakers: Mhairi Black, Renfrewshire South, Laura Kuenssberg, Nish Kumar, Coco Khan
-- 2023-07-13 — Tea with Biden, scandal at the BBC and drugs with the Greens — speakers: Lee Anderson, Carla Denyer co, Robert Jenrick, Pod Save, Carla Denyer, Nish Kumar, Coco Khan
-- 2023-07-06 — Does Rishi Sunak give a sh*t about the climate? — speakers: Rishi Sunak, Chloe Naldrett, Piers Morgan, Pod Save, Nish Kumar, Coco Khan
-- 2023-06-29 — Matt Hancock vs The Grim Reaper — speakers: Matt Hancock, John Humphrys, Margaret Thatcher, Putin how, Nish Kumar, Coco Khan
-- 2023-06-22 — The King of the North, Windrush and ChickenNugNugz — speakers: Catherine Ross, George Osborne, Rishi Sunak, Andy Burnham, Manchester Catherine Ross, Nish Kumar
-- 2023-06-15 — The end of Boris Johnson and the start of the Covid Inquiry — speakers: Rosena Allin-Khan, Matt Hancock, Manchester United fan, Liz Bates, Nish Kumar, Coco Khan
-- 2023-06-08 — Labour’s Emily Thornberry promises a “no bullshit” manifesto — speakers: Emily Thornberry, Prince Harry, Pod Save, Nish Kumar, Coco Khan
-- 2023-06-01 — Don’t mess with a Baroness — speakers: Jon Yates, Switch Up, Nish Kumar, Coco Khan
-- 2023-05-25 — Speedy Sue and other myth-takes — speakers: Speedy Sue, Suella Braverman, Daniel Chandler, James Cleverly, Parliament tv Learn, Nish Kumar, Coco Khan
-- 2023-05-18 — Facts, Rats and Rents — speakers: Will Moy, Anny Cullum, Jacob Rees-Mogg, Full Fact, Nish Kumar, Coco Khan
-- 2023-05-11 — Protest, Eurovision and Showgirls — speakers: Paul Powlesland, Lib Dems, Nish Kumar, Coco Khan
-- 2023-05-04 — Raving for a Republic — speakers: Coco Khan, Amelia Hadfield, Clive Lewis, Jenny Lambert Poppy, Murray Learn, Nish Kumar
+- 2026-02-19 — 142: Can she fix it? Hannah the plumber and politician on tackling Reform — speakers: Cody Dahler, Nish Kumar, Coco Khan
+- 2026-02-12 — 141: McSweeney: the man who made Starmer and his ties to Mandelson — speakers: Nish Kumar, Coco Khan
+- 2026-02-05 — 140: Will Mandelson be Starmer’s downfall? — speakers: Will Mandelson, Nish Kumar, Coco Khan
+- 2026-01-29 — Will Starmer’s control freakery deliver victory to Reform? — speakers: Will Starmer, Nish Kumar, Coco Khan
+- 2026-01-22 — Starmer’s new Trump headache and making comedy under occupation — speakers: Nish Kumar, Coco Khan
+- 2026-01-15 — Grok AI Scandal: should we treat Big Tech like Big Tobacco? w/ Rutger Bregman — speakers: Grok AI Scandal, Nish Kumar, Coco Khan
+- 2026-01-08 — Trump’s explosive start to 2026 - will Starmer find a backbone? — speakers: Nish Kumar, Coco Khan
+- 2026-01-01 — Why does the Left make it so f***** hard? Question Time - PSUK-style — speakers: Nish Kumar, Coco Khan
+- 2025-12-18 — 2025 in British politics: from Starmer’s flop-flops to AI slop — speakers: Nish Kumar, Coco Khan
+- 2025-12-11 — Trump blasts Europe and Sadiq Khan - but will his strong man act backfire? — speakers: Sadiq Khan, Nish Kumar, Coco Khan
+- 2025-12-04 — Will cutting juries fix our maggot-ridden courts? — speakers: Nish Kumar, Coco Khan
+- 2025-11-27 — Reeves’s make-or-break budget: should the rich have paid more? — speakers: Rachel Reeves, Nish Kumar, Coco Khan
+- 2025-11-20 — Mahmood’s Moral Mission: Copy Reform’s homework — speakers: Moral Mission, Copy Reform, Nish Kumar, Coco Khan
+- 2025-11-13 — Much a-coup about nothing? Labour take all the wrong notes from the Tories — speakers: Nish Kumar, Coco Khan
+- 2025-11-06 — What can the left learn from Zohran Mamdani’s win? — speakers: Zohran Mamdani, Nish Kumar, Coco Khan
+- 2025-10-30 — Britain’s prison and asylum meltdown. Plus - the Renters’ Rights Act w/ Vicky Spratt — speakers: Vicky Spratt, Nish Kumar, Coco Khan
+- 2025-10-23 — Pod Save the Truth w/ Wikipedia founder Jimmy Wales — speakers: Jimmy Wales, Nish Kumar, Coco Khan
+- 2025-10-16 — Why can’t the UK get over Thatcher? Plus - “Your Party” infighting is Definitely Maybe over… — speakers: Nish Kumar, Coco Khan
+- 2025-10-09 — Solidarity in the face of hatred: how to unite after the Manchester attack — speakers: Stephen Bush, Nish Kumar, Coco Khan
+- 2025-10-02 — Decency or division: Starmer takes aim at Reform — speakers: Nish Kumar, Coco Khan
+- 2025-09-25 — Your loss, Zack’s gain? Polanski’s vision for the UK — speakers: Nish Kumar, Coco Khan
+- 2025-09-18 — Anger, Rage and Love - Trump’s visit to the UK and Tommy Robinson’s far right rally — speakers: Tommy Robinson, Nish Kumar, Coco Khan
+- 2025-09-09 — Liberated from Labour: Zarah Sultana and Bimini Bon-Boulash - Live! — speakers: Zarah Sultana, Nish Kumar, Coco Khan
+- 2025-09-04 — Stop The Genocide! w/ Wael Al-Dahdouh, Jen Brister and Alexei Sayle — speakers: Wael Al-Dahdouh, Alexei Sayle, Nish Kumar, Coco Khan
+- 2025-08-28 — Friends of PSUK - Sara & Cariad’s Weirdos Book Club — speakers: Weirdos Book Club, Nish Kumar, Coco Khan
+- 2025-08-21 — Does the UK have a gambling problem? Out and about w/ Dawn Butler — speakers: Dawn Butler, Nish Kumar, Coco Khan
+- 2025-08-14 — Is the government inflaming protests on the left and right? — speakers: Nish Kumar, Coco Khan
+- 2025-08-07 — Is criticism of the Online Safety Act actually right wing? — speakers: Nish Kumar, Coco Khan
+- 2025-07-31 — Is the new left party what the UK needs? — speakers: Nish Kumar, Coco Khan
+- 2025-07-17 — PSUK’s Green Leadership Debate: The Friendliest FIGHT FIGHT FIGHT You’ve Ever Heard — speakers: Ellie Chowns, Nish Kumar, Coco Khan
+- 2025-07-08 — Live! One year of Keir - how can we fix the mess? - with Gary Stevenson and Oliver Coppard — speakers: Gary Stevenson, Oliver Coppard, Nish Kumar, Coco Khan
+- 2025-07-03 — [Moral] Panic on the streets of Glastonbury — speakers: Glastonbury Nish, Nish Kumar, Coco Khan
+- 2025-06-26 — Does Trump know what the F#@! he’s doing? — speakers: Nish Kumar, Coco Khan
+- 2025-06-21 — U-turn after U-turn: who is the real Keir Starmer? — speakers: Nish Kumar, Coco Khan
+- 2025-06-12 — Is Labour finally being Labour? — speakers: Rachel Reeves, Nish Kumar, Coco Khan
+- 2025-06-05 — How to protect abortion rights from the far-right — speakers: Nish Kumar, Coco Khan
+- 2025-05-29 — Babies, Benefits and Black Lives Matter — speakers: Nish Kumar, Coco Khan
+- 2025-05-22 — Gaza and Benefits: is Starmer changing course? — speakers: Nish Kumar, Coco Khan
+- 2025-05-15 — Pod Save an Island of Strangers — speakers: Pod Save, Strangers Coco, Nish Kumar, Coco Khan
+- 2025-05-08 — How Labour should (but probably won’t) reset after Reform’s big win — speakers: Nish Kumar, Coco Khan
+- 2025-05-01 — 103: The UK Supreme Court ruling and the fight for trans rights — speakers: Supreme Court, Nish Kumar, Coco Khan
+- 2025-04-17 — 102: Nish and Coco spill the tea: your questions answered — speakers: Nish Kumar, Coco Khan
+- 2025-04-10 — Trump’s Tariffs: are you feeling liberated? — speakers: Trump’s Tariffs, Nish Kumar, Coco Khan
+- 2025-04-03 — Waiting For The Apocalypse: tariffs, food security and the right to protest — speakers: Nish Kumar, Coco Khan
+- 2025-03-27 — Austerity 2.0: can Reeves cut her way to growth? — speakers: Nish Kumar, Coco Khan
+- 2025-03-20 — Welfare cuts: are Labour copying Tory homework? — speakers: Liz Kendall, Nish Kumar, Coco Khan
+- 2025-03-17 — A true story of money, Mafia & the Vatican (Shadow Kingdom Episode 1) — speakers: Shadow Kingdom, Nish Kumar, Coco Khan
+- 2025-03-13 — Welfare, Warehouses and Playlist Diplomacy — speakers: Nish Kumar, Coco Khan
+- 2025-03-06 — Keir Starmer - the unlikely leader of the free world? — speakers: Nish Kumar, Coco Khan
+- 2025-02-27 — Dear Donald: Can Starmer Tame Trump? w/ Liberal Democrat Leader Sir Ed Davey — speakers: Ed Davey, Nish Kumar, Coco Khan
+- 2025-02-20 — Trump’s plan for “Peace” in Ukraine only pleases Putin + The Politics of Modern Love — speakers: Nish Kumar, Coco Khan
+- 2025-02-13 — Adventures in the Culture War w/ Ash Sarkar — speakers: Culture War, Reform Reform, Nish Kumar, Coco Khan
+- 2025-02-06 — Trump’s Gaza madness ft Lewis Goodall — speakers: Trump’s Gaza, Lewis Goodall Donald Trump, Nish Kumar, Coco Khan
+- 2025-01-30 — Masculinity and Misinformation: How JimmyTheGiant Escaped The Alt-Right Pipeline — speakers: Nish Kumar, Coco Khan
+- 2025-01-23 — Trump 2.0: Fear and Loathing in DC — speakers: Nish Kumar, Coco Khan
+- 2025-01-16 — Facts versus F-wits: how to fight the Alt Reich — speakers: Keir Starme, Nish Kumar, Coco Khan
+- 2025-01-09 — Billionaire BS: How can Britain Stop Musk’s Disinformation? — speakers: Nish Kumar, Coco Khan
+- 2024-12-19 — Just Stop Politics - 2024 Wrapped! w/ Desiree Burch and Liz Bates — speakers: Desiree Burch, Liz Bates, Nish Kumar, Coco Khan
+- 2024-12-12 — FIFA World Cup: Trade Deals 1, Human Rights Nil — speakers: World Cup, Trade Deals, Saudi Arabia, Nish Kumar, Coco Khan
+- 2024-12-05 — Toxic men and toxic politics: the problem with Gregg Wallace and Nigel Farage — speakers: Gregg Wallace, Nish Kumar, Coco Khan
+- 2024-11-28 — Who gets to decide how we die? w/ Rosena Allin-Khan MP — speakers: Rosena Allin-Khan, Nish Kumar, Coco Khan
+- 2024-11-21 — How to avoid World War 3 + why won’t Elon Musk Leave the UK alone? W/ Jamie Bartlett & Stephen Bush — speakers: Jamie Bartlett, Stephen Bush, Nish Kumar, Coco Khan
+- 2024-11-14 — How is Trump already infecting UK politics? w/ Beth Rigby + the university crisis — speakers: Beth Rigby, Nish Kumar, Coco Khan
+- 2024-11-07 — Trump wins: where the hell do we go from here? w/ Katy Balls + Bell Ribeiro-Addy MP — speakers: Katy Balls Bell Ribeiro-Addy, Nish Kumar, Coco Khan
+- 2024-10-31 — Halloween budget: trick or treat? w/ Torsten Bell MP, Grace Blakeley & Katie Schmuecker — speakers: Torsten Bell MP, Nish Kumar, Coco Khan
+- 2024-10-24 — How f***ed are we if Trump wins? + Is Jeremy Corbyn MP forming a new party? — speakers: Jeremy Corbyn, Nish Kumar, Coco Khan
+- 2024-10-17 — How ruthless is Keir Starmer willing to be? w/ Anushka Asthana and Josh Babarinde MP — speakers: Anushka Asthana, Josh Babarinde, Nish Kumar, Coco Khan
+- 2024-10-10 — The Tories lose their minds (again) - can Starmer hold against the far right? — speakers: Nish Kumar, Coco Khan
+- 2024-10-03 — Is Britain’s benefits system broken? w/ Caroline Selman and John Pring — speakers: Caroline Selman, John Pring, Nish Kumar, Coco Khan
+- 2024-09-26 — Can Starmer’s upbeat note drown out the donation scandal? w/ Zoë Grünewald and Simon Kuper — speakers: Zoë Grünewald, Simon Kuper, Nish Kumar, Coco Khan
+- 2024-09-19 — Starmer’s Garm Drama + the Government looks right on immigration w/ Zoe Gardner — speakers: Nish Kumar, Coco Khan
+- 2024-09-12 — Inside out: How to fix the UK’s prison system + Labour embraces unpopularity — speakers: Nish Kumar, Coco Khan
+- 2024-09-05 — Time to nationalise Ticketmaster? “Cigarettes & Alcohol”, the Grenfell Inquiry concludes — speakers: Zoë Grünewald, Nish Kumar, Coco Khan
+- 2024-08-15 — Live! How comedy can bring hope in dark times - with Adam Hills and Kemah Bob — speakers: Kemah Bob, Nish Kumar, Coco Khan
+- 2024-08-08 — Live! Finding hope in the wake of Britain's racist riots - with Ahir Shah & Tom Ballard — speakers: Tom Ballard, Nish Kumar, Coco Khan
+- 2024-08-01 — How Can We Fix The British Economy? With Paul Johnson From The IFS — speakers: Paul Johnson, Rachel Reeves, Nish Kumar, Coco Khan
+- 2024-07-25 — Red Rebellion, Just Stop Locking Up Activists And How To Fix Our Broken NHS With Clare Farrell And Victor Adebowale — speakers: Clare Farrell, Victor Adebowale, Nish Kumar, Coco Khan
+- 2024-07-18 — The Kings Speech, Knives Out for Vaughan Gething and An Education on Schools Policy with Liz Bates — speakers: Liz Bates, Nish Kumar, Coco Khan
+- 2024-07-11 — Are Labour the party to finally fix housing? w/ Kwajo Tweneboa, Toby Lloyd and Sam Freedman — speakers: Kwajo Tweneboa, Toby Lloyd, Sam Freedman, Nish Kumar, Coco Khan
+- 2024-07-05 — Labour Landslide - will things get better? With Torsten Bell MP and Femi Oluwole — speakers: Nish Kumar, Coco Khan
+- 2024-06-30 — Would a Labour supermajority really be bad for democracy? Rory Stewart on why opposition is vital — speakers: Rory Stewart, Nish Kumar, Coco Khan
+- 2024-06-27 — Will “gamblegate” scandal obliterate the Tories Forever? Plus last few days of the election with Liz Bates — speakers: Liz Bates, Nish Kumar, Coco Khan
+- 2024-06-23 — Chris Packham Vs Taylor Swift: Will People or Politics Save Our Planet? — speakers: Nish Kumar, Coco Khan
+- 2024-06-20 — Who gets the power? Devolution and the General Election. — speakers: General Election, Nish Kumar, Coco Khan
+- 2024-06-16 — Manifesto deep-dive: Is Labour’s at all progressive? — speakers: Nish Kumar, Coco Khan
+- 2024-06-13 — How to make your vote count: is Tactical Voting a necessary evil? With Femi Oluwole — speakers: Nish Kumar, Coco Khan
+- 2024-06-09 — Why is it so hard to tax the rich? Would it fix our economy? With Gary Stevenson — speakers: Gary Stevenson, Nish Kumar, Coco Khan
+- 2024-06-06 — Jeremy Corbyn & Mhairi Black: Left Culled, Centre Cracked and Right Reformed? — speakers: Jeremy Corbyn, Mhairi Black, Left Culled, Centre Cracked, Right Reformed, General Election, Nish Kumar, Coco Khan
+- 2024-05-30 — Generational Warfare: Has Rishi Sunak’s electoral gambit misfired? — speakers: Nish Kumar, Coco Khan
+- 2024-05-26 — What do the Trans & Non-binary community need most right now? — speakers: Abigail Thorn, Freddy Mc, Nish Kumar, Coco Khan
+- 2024-05-23 — Are these the last six weeks of Rishi Sunak and the Tories? — speakers: Nish Kumar, Coco Khan
+- 2024-05-16 — The economy is growing, so why are we feeling poorer? — speakers: Jeremy Hunt, Nish Kumar, Coco Khan
+- 2024-05-09 — Abortion rights & ending hunger with Aisling Bea — speakers: Aisling Bea, Nish Kumar, Coco Khan
+- 2024-05-03 — Are the Local Election results the beginning of total Tory annihilation? — speakers: Local Election, Nish Kumar, Coco Khan
+- 2024-05-02 — Humza Yousaf's Shock Resignation: Are the Greens Seizing Power in Scotland? — speakers: Humza Yousaf, Shock Resignation, Greens Seizing Power, Nish Kumar, Coco Khan
+- 2024-04-25 — Nish dismantles Sunak's attack on disabled people and Coco meets Caroline Lucas — speakers: Caroline Lucas, Nish Kumar, Coco Khan
+- 2024-04-18 — Jess Phillips on Angela Rayner tax story: scandal or smear? — speakers: Jess Phillips, Angela Rayner, Nish Kumar, Coco Khan
+- 2024-04-11 — Scandal and cyber security in Westminster — speakers: Westminster Coco, Nish Kumar, Coco Khan
+- 2024-04-04 — Fighting the Rwanda Bill + Mr Kumar goes to Westminster — speakers: Rwanda Bill, Nish Kumar, Coco Khan
+- 2024-03-28 — A China crisis, a dodgy attack ad, and Titchmarsh’s trousers — speakers: Nish Kumar, Coco Khan
+- 2024-03-21 — Democracy for sale, Europe’s first black leader + tea with Obama — speakers: Nish Kumar, Coco Khan
+- 2024-03-14 — Tory donor racism row, plus the Princess and the pic — speakers: Nish Kumar, Coco Khan
+- 2024-03-07 — Jeremy Hunt’s election budget for big earners and big owners — speakers: Jeremy Hunt, Nish Kumar, Coco Khan
+- 2024-02-29 — The man who would be PM: who is the real Keir Starmer? — speakers: Nish Kumar, Coco Khan
+- 2024-02-22 — Will Young: popstar to politician? Plus Westminster ceasefire row — speakers: Will Young, Liz Bates, Nish Kumar, Coco Khan
+- 2024-02-15 — Rochdale row tests Starmer’s leadership, plus the woman who helped take down Weinstein — speakers: Nish Kumar, Coco Khan
+- 2024-02-08 — Scotland’s First Minister Humza Yousaf: Sunak, Starmer and samosas — speakers: Humza Yousaf, Nish Kumar, Coco Khan
+- 2024-02-01 — The MP who gives away part of her salary, hope for Northern Ireland and Nish Kumar takes on the evil plotters — speakers: Nish Kumar, Coco Khan
+- 2024-01-25 — Why are our councils going bust? — speakers: Nish Kumar, Coco Khan
+- 2024-01-18 — Rwanda, Reparations and Romance — speakers: Nish Kumar, Coco Khan
+- 2024-01-11 — The Horizon Post Office scandal and Lionel Rishi — speakers: Lionel Rishi, Nish Kumar, Coco Khan
+- 2024-01-04 — Nish and Coco’s predictions for 2024, plus would you kiss a Tory? — speakers: Comedians Andy Zaltzman, Catherine Bohart, Nish Kumar, Coco Khan
+- 2023-12-28 — Just Stop Politics! Nish and Coco’s review of 2023 — speakers: Catherine Bohart, Nish Kumar, Coco Khan
+- 2023-12-14 — Sunak survives, plus the long wait for Grenfell justice — speakers: Nish Kumar, Coco Khan
+- 2023-12-08 — Bereaved families’ verdict on Boris Johnson at the Covid Inquiry — speakers: Nish Kumar, Coco Khan
+- 2023-12-07 — Tory Immigration crackdown, plus Ben Rhodes on following the Queen into the toilet — speakers: Tory Immigration, Ben Rhodes, Nish Kumar, Coco Khan
+- 2023-11-30 — Sunak’s big fat Greek blunder, plus will COP28 be a COP out? — speakers: Nish Kumar, Coco Khan
+- 2023-11-23 — The Tories’ back-handed budgeting — speakers: Jeremy Hunt, Nish Kumar, Coco Khan
+- 2023-11-16 — Judges block Rwanda plan, plus who broke Britain with James O’Brien — speakers: James O’Brien, Nish Kumar, Coco Khan
+- 2023-11-13 — Bye bye Braverman, hello Cameron — speakers: Cameron Nish, Nish Kumar, Coco Khan
+- 2023-11-09 — The King’s Speech: Milli Vanilli in a gold hat — speakers: Milli Vanilli, Nish Kumar, Coco Khan
+- 2023-11-02 — No.10’s shameful Covid WhatsApps, plus is AI a threat to humanity? — speakers: Covid WhatsApps, Nish Kumar, Coco Khan
+- 2023-10-26 — A year of Sunak, and why housing is eating our economy — speakers: Nish Kumar, Coco Khan
+- 2023-10-19 — Sunak in Israel, by-elections and back to Bibby — speakers: Nish Kumar, Coco Khan
+- 2023-10-12 — Sparkles with Starmer plus Rob Delaney, NHS champion — speakers: Rob Delaney, Nish Kumar, Coco Khan
+- 2023-10-05 — Tory conference sh*tshow + Stormont stalemate — speakers: Nish Kumar, Coco Khan
+- 2023-09-28 — Cancelling HS2 and GB News + Lib Dem Layla Moran — speakers: Cancelling HS, Nish Kumar, Coco Khan
+- 2023-09-21 — The Russell Brand scandal and fixing the police — speakers: Russell Brand, Nish Kumar, Coco Khan
+- 2023-09-14 — China spy scandal rocks Parliament + David Lammy — speakers: David Lammy, Nish Kumar, Coco Khan
+- 2023-09-07 — Fixing Britain’s crumbling schools and broken politics — speakers: Fixing Britain, Nish Kumar, Coco Khan
+- 2023-08-31 — Exposing Andrew Tate and saying goodbye to Nadine Dorries — speakers: Exposing Andrew Tate, Andrew Tate, Nish Kumar, Coco Khan
+- 2023-08-24 — Men in suits spoiling women’s football — speakers: Lucy Letby, Nish Kumar, Coco Khan
+- 2023-08-17 — Tories war on 'lefty lawyers', and Sunak's Disney dinner — speakers: Nish Kumar, Coco Khan
+- 2023-08-10 — How to have difficult conversations - with Gina Martin — speakers: Gina Martin, Nish Kumar, Coco Khan
+- 2023-07-27 — Tactical voting, Tory traps and Labour purges — speakers: Nish Kumar, Coco Khan
+- 2023-07-21 — By-election special: Tories trounced in two, scrape home in one — speakers: Nish Kumar, Coco Khan
+- 2023-07-20 — Is Keir Starmer a Kid Starver? — speakers: Nish Kumar, Coco Khan
+- 2023-07-13 — Tea with Biden, scandal at the BBC and drugs with the Greens — speakers: Nish Kumar, Coco Khan
+- 2023-07-06 — Does Rishi Sunak give a sh*t about the climate? — speakers: Nish Kumar, Coco Khan
+- 2023-06-29 — Matt Hancock vs The Grim Reaper — speakers: Nish Kumar, Coco Khan
+- 2023-06-22 — The King of the North, Windrush and ChickenNugNugz — speakers: Nish Kumar, Coco Khan
+- 2023-06-15 — The end of Boris Johnson and the start of the Covid Inquiry — speakers: Boris John, Nish Kumar, Coco Khan
+- 2023-06-08 — Labour’s Emily Thornberry promises a “no bullshit” manifesto — speakers: Emily Thornberry, Nish Kumar, Coco Khan
+- 2023-06-01 — Don’t mess with a Baroness — speakers: Nish Kumar, Coco Khan
+- 2023-05-25 — Speedy Sue and other myth-takes — speakers: Speedy Sue, Suella Braverman, Nish Kumar, Coco Khan
+- 2023-05-18 — Facts, Rats and Rents — speakers: Nish Kumar, Coco Khan
+- 2023-05-11 — Protest, Eurovision and Showgirls — speakers: Showgirls While, Nish Kumar, Coco Khan
+- 2023-05-04 — Raving for a Republic — speakers: Republic Pod Save, Nish Kumar, Coco Khan
 - 2023-04-27 — Chat Sh*t, Get Banged: the USA meets the UK — speakers: Chat Sh, Get Banged, Nish Kumar, Coco Khan
-- 2023-04-19 — Introducing Pod Save the UK (4th of May) — speakers: Coco Khan, Nish Kumar
+- 2023-04-19 — Introducing Pod Save the UK (4th of May) — speakers: Introducing Pod Save, Pod Save, Nish Kumar, Coco Khan

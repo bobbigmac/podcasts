@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-02-23T18:40:11+00:00`
-- checked_at: `2026-02-23T18:40:11+00:00`
-- last_modified: `Mon, 23 Feb 2026 18:07:37 GMT`
+- fetched_at: `2026-02-23T22:02:17+00:00`
+- checked_at: `2026-02-23T22:02:17+00:00`
+- last_modified: `Mon, 23 Feb 2026 18:42:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/544e57ba5eba92361d12b381da889e80.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T18:40:11+00:00",
+  "fetched_at": "2026-02-23T22:02:17+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -40,7 +40,6 @@
       "speakers": [
         "Joel Dommett",
         "Death Dates",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -62,7 +61,6 @@
       "itunes_duration": "2137",
       "speakers": [
         "Joel Dommett",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -83,9 +81,6 @@
       "itunes_duration": "2126",
       "speakers": [
         "Danny Beard Breaking",
-        "Drag Race",
-        "Danny Beard",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -106,7 +101,6 @@
       "itunes_duration": "1905",
       "speakers": [
         "Shop Sue Beyonce",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -127,8 +121,6 @@
       "itunes_duration": "2202",
       "speakers": [
         "Sindhu Vee",
-        "Sindu Vee",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -149,7 +141,6 @@
       "speakers": [
         "Lucia Keskin Young",
         "Kylie Minogue",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -170,7 +161,6 @@
       "itunes_duration": "2841",
       "speakers": [
         "Nick Knowles",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -191,8 +181,7 @@
       "itunes_duration": "3079",
       "speakers": [
         "Maisie Adam Girthy",
-        "Maisie Adam",
-        "Kathy Burke",
+        "Maisie Ad",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -212,7 +201,7 @@
       "enclosure_length": "0",
       "itunes_duration": "979",
       "speakers": [
-        "Kathy Burke",
+        "Death Dates",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -235,10 +224,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1039",
       "speakers": [
-        "Alex Lowe",
-        "Bridget Christie",
-        "Channing Tatum",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -259,7 +244,6 @@
       "itunes_duration": "3034",
       "speakers": [
         "Dara O'Briain",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -279,8 +263,6 @@
       "itunes_duration": "2937",
       "speakers": [
         "Rhys James",
-        "Superstar Rhys James",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -306,7 +288,6 @@
         "Darth Vader",
         "Darth Maul",
         "Brian Butterfield",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -327,7 +308,6 @@
       "itunes_duration": "1436",
       "speakers": [
         "Joe Thomas",
-        "Goddess Nia",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -349,7 +329,6 @@
       "itunes_duration": "3015",
       "speakers": [
         "Joe Thomas",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -369,8 +348,6 @@
       "itunes_duration": "1629",
       "speakers": [
         "Josh Groban",
-        "Pete Burns",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -391,7 +368,6 @@
       "itunes_duration": "3300",
       "speakers": [
         "Josh Groban",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -411,7 +387,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2557",
       "speakers": [
-        "Kathy Burke",
+        "Here Lies Kunal Nayyar",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -435,7 +411,6 @@
       "speakers": [
         "Kyla Cobbler",
         "Instagram Sensation Kyla Cobbler",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -457,7 +432,6 @@
       "speakers": [
         "Alex Lowe",
         "Clinton Baptiste",
-        "Matt Crockett Learn",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -482,7 +456,6 @@
       "itunes_duration": "2769",
       "speakers": [
         "Alex Lowe",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -504,7 +477,6 @@
       "speakers": [
         "Gyles Brandreth",
         "Joining Mel",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -525,7 +497,6 @@
       "itunes_duration": "1796",
       "speakers": [
         "Kyla Cobbler",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -549,7 +520,6 @@
       "itunes_duration": "2390",
       "speakers": [
         "Paul Whitehouse",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -569,7 +539,6 @@
       "itunes_duration": "2872",
       "speakers": [
         "Mathew Baynton",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -591,8 +560,6 @@
       "speakers": [
         "Rick Edwards",
         "Tim Key",
-        "Kathy Burke",
-        "Jonathan Birch Learn",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -613,7 +580,6 @@
       "itunes_duration": "2512",
       "speakers": [
         "Gyles Brandreth",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -634,8 +600,6 @@
       "itunes_duration": "2744",
       "speakers": [
         "Stevie Martin Litter",
-        "Stevie Martin",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -657,8 +621,6 @@
       "speakers": [
         "Rob Rinder",
         "Harry Styles",
-        "Rob Rinder Mbe",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -678,7 +640,6 @@
       "itunes_duration": "2456",
       "speakers": [
         "Stephen Mangan",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -699,7 +660,6 @@
       "itunes_duration": "2828",
       "speakers": [
         "Angela Scanlon",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -720,9 +680,6 @@
       "itunes_duration": "2436",
       "speakers": [
         "Tom Rosenthal",
-        "Kathy Burke",
-        "Joining Mel",
-        "Spencers Wood",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -742,8 +699,6 @@
       "itunes_duration": "2796",
       "speakers": [
         "Chloe Petts",
-        "Kathy Burke",
-        "Catch Chloe",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -763,7 +718,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2545",
       "speakers": [
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -785,8 +739,6 @@
       "itunes_duration": "2619",
       "speakers": [
         "Glenn Moore",
-        "Kathy Burke",
-        "Joining Mel",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -806,9 +758,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2434",
       "speakers": [
-        "Kathy Burke",
-        "Joining Mel",
-        "Ivo Graham",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -828,7 +777,6 @@
       "itunes_duration": "2348",
       "speakers": [
         "Eric Idle",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -849,8 +797,6 @@
       "itunes_duration": "3005",
       "speakers": [
         "Vicki Peppedine",
-        "Kathy Burke",
-        "Vicki Pepperdine",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -870,9 +816,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2839",
       "speakers": [
-        "Kathy Burke",
-        "Rachel Parris",
-        "Jane Austen",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -893,9 +836,6 @@
       "itunes_duration": "2555",
       "speakers": [
         "Richard Coles",
-        "Kathy Burke",
-        "Joining Mel",
-        "Romeo Beckham",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -917,7 +857,6 @@
       "itunes_duration": "2747",
       "speakers": [
         "Jesse Tyler Ferguson",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -939,8 +878,6 @@
       "itunes_duration": "2844",
       "speakers": [
         "Daniel Foxx",
-        "Jamie Foxx",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -961,8 +898,6 @@
       "itunes_duration": "2608",
       "speakers": [
         "Ian McShane",
-        "Bridget Christie",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -984,7 +919,6 @@
       "speakers": [
         "Meera Syal",
         "David Cassidy",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1005,8 +939,7 @@
       "itunes_duration": "2903",
       "speakers": [
         "Suzi Ruffell",
-        "Mel Giedroyc",
-        "Kathy Burke"
+        "Mel Giedroyc"
       ],
       "topics": [
         "suzi",
@@ -1025,9 +958,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2517",
       "speakers": [
-        "Deborah Frances-White",
-        "Jen Brister",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1071,9 +1001,6 @@
       "itunes_duration": "2414",
       "speakers": [
         "Nikita Khrushchev",
-        "Mark Steel",
-        "Andy Zaltzman",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1098,7 +1025,7 @@
       "itunes_duration": "2463",
       "speakers": [
         "Pearl Mackie",
-        "Kathy Burke",
+        "Kiell Smith",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1124,9 +1051,6 @@
       "itunes_duration": "2514",
       "speakers": [
         "Pierre Novellie Purgatory Season",
-        "Phil Wang",
-        "Pierre Novellie",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1153,9 +1077,6 @@
         "David Tennant",
         "Georgia Tennant Purgatory Season",
         "Michael Sheen",
-        "Sara Cox",
-        "Clare Hamilton",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1180,7 +1101,7 @@
       "speakers": [
         "Sara Cox",
         "Clare Hamilton",
-        "Kathy Burke",
+        "Purgatory Season",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1203,9 +1124,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2417",
       "speakers": [
-        "Hannah Dommett",
-        "David Tennant",
-        "Kathy Burke",
+        "Purgatory Season Next",
+        "Where There",
+        "Will There",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1228,9 +1149,6 @@
       "speakers": [
         "John Robins",
         "Henry Paker Purgatory Season",
-        "Paul Bearer",
-        "Henry Paker",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1317,8 +1235,6 @@
         "Missing Kathy",
         "Daisy May Cooper",
         "Kathy Burke",
-        "Goddess Nia",
-        "Bon Appetit",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1339,7 +1255,6 @@
       "enclosure_length": "0",
       "itunes_duration": "781",
       "speakers": [
-        "John Robins",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1360,7 +1275,6 @@
       "speakers": [
         "Tom Davis",
         "Joining Kathy",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1379,7 +1293,6 @@
       "enclosure_length": "0",
       "itunes_duration": "178",
       "speakers": [
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1462,7 +1375,6 @@
       "itunes_duration": "2775",
       "speakers": [
         "Marianne Jean Baptiste",
-        "Marianne Jean-Baptiste",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1545,8 +1457,6 @@
       "speakers": [
         "Alan Carr",
         "Bah Humbug",
-        "Alan Carr comedian",
-        "Chatty Man",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1605,7 +1515,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2488",
       "speakers": [
-        "Julian Clary",
+        "Here Lies Julian Clary",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1684,7 +1594,6 @@
       "itunes_duration": "2863",
       "speakers": [
         "Stanley Tucci",
-        "Stanley Tucci Want",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1764,8 +1673,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2801",
       "speakers": [
-        "Katherine Parkinson",
-        "Edward Theatre",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1787,7 +1694,6 @@
       "speakers": [
         "Jamie Laing",
         "Brad Pitt",
-        "Edward Theatre",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1807,6 +1713,7 @@
       "enclosure_length": "0",
       "itunes_duration": "43",
       "speakers": [
+        "Where There",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1844,7 +1751,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2591",
       "speakers": [
-        "Cush Jumbo",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1864,7 +1770,8 @@
       "enclosure_length": "0",
       "itunes_duration": "603",
       "speakers": [
-        "Cush Jumbo",
+        "Where There",
+        "Will There",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1923,7 +1830,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1583",
       "speakers": [
-        "Mother Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1943,7 +1849,6 @@
       "itunes_duration": "1313",
       "speakers": [
         "Rob Beckett",
-        "Kathy Burke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -1982,7 +1887,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2980",
       "speakers": [
-        "Shaun Keaveny",
+        "Shaun Keav",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2022,8 +1927,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2730",
       "speakers": [
-        "Antony Cotton",
-        "Sean Tully",
+        "Here Lies Antony Cotton",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2044,7 +1948,6 @@
       "itunes_duration": "2911",
       "speakers": [
         "Shappi Khorsandi Crunch",
-        "Shappi Khorsandi",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2065,7 +1968,6 @@
       "itunes_duration": "2790",
       "speakers": [
         "Nigella Lawson",
-        "Mark Steel",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2186,7 +2088,6 @@
       "itunes_duration": "2154",
       "speakers": [
         "jollof rice",
-        "Shola Mos-Shogbamimu",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2308,8 +2209,6 @@
       "speakers": [
         "Jimmy Carr",
         "Stephen Hawking",
-        "Born Killer",
-        "Laughs Funny",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2389,7 +2288,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3037",
       "speakers": [
-        "Rylan Clarke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2430,6 +2328,7 @@
       "itunes_duration": "3034",
       "speakers": [
         "Rob Beckett",
+        "Rob Becke",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2450,7 +2349,7 @@
       "speakers": [
         "Patrick Marber",
         "Peter O'Hanraha-Hanrahan Ciggies",
-        "Peter O'Hanraha-Hanrahan",
+        "Peter O'Hanrah",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2573,6 +2472,7 @@
       "itunes_duration": "2988",
       "speakers": [
         "Peter Capaldi",
+        "Peter Cap",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2612,11 +2512,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1972",
       "speakers": [
-        "Featuring Ed Gamble",
-        "Nick Frost",
-        "Dolly Alderton",
-        "James Blunt",
-        "Siobhán McSweeney",
+        "Feet Under",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2635,11 +2531,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1531",
       "speakers": [
-        "Jamie Demetriou",
-        "Bob Mortimer",
-        "Roisin Conaty",
-        "Danny Dyer",
-        "Andi Oliver",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2659,7 +2550,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3284",
       "speakers": [
-        "Joe Wicks",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2700,7 +2590,7 @@
       "speakers": [
         "Alastair Campbell Persivilience",
         "Piers Morgan Might",
-        "Alastair Campbel Oi",
+        "Alastair Campbel",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2720,6 +2610,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3021",
       "speakers": [
+        "Here Lies Grace Dent",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2778,7 +2669,10 @@
       "enclosure_length": "0",
       "itunes_duration": "2972",
       "speakers": [
-        "Dolly Alderton",
+        "Here Lies Dolly Alderton",
+        "Scampi Fries",
+        "One Direction",
+        "Dolly Ald",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2798,6 +2692,7 @@
       "itunes_duration": "3097",
       "speakers": [
         "James Blunt",
+        "James Bl",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2843,7 +2738,6 @@
       "itunes_duration": "2924",
       "speakers": [
         "Danny Dyer Death",
-        "Danny Dyer",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2864,6 +2758,7 @@
       "itunes_duration": "2644",
       "speakers": [
         "Alan Carr",
+        "Alan Car",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2904,6 +2799,7 @@
       "speakers": [
         "Bob Mortimer",
         "Chris Tarrant",
+        "Bob Mort",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -2923,8 +2819,6 @@
       "itunes_duration": "2396",
       "speakers": [
         "Joe Lycett",
-        "Joe Lycett vs",
-        "David Beckham",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3166,8 +3060,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2619",
       "speakers": [
-        "Siobhan McSweeney",
-        "Michael Herself",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3186,6 +3078,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3005",
       "speakers": [
+        "Here Lies Nish Kumar",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3245,6 +3138,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2835",
       "speakers": [
+        "Here Lies Ed Gamble",
+        "Dead Gamble",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3322,10 +3217,6 @@
       "enclosure_length": "0",
       "itunes_duration": "87",
       "speakers": [
-        "Alan Carr",
-        "Emily Atack",
-        "Jack Whitehall",
-        "Bob Mortimer",
         "Mel Giedroyc"
       ],
       "topics": []
@@ -3342,6 +3233,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1549",
       "speakers": [
+        "Feet Under",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3361,6 +3253,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2457",
       "speakers": [
+        "Bits Prawns",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3379,6 +3272,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2782",
       "speakers": [
+        "Emily Atack",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3399,7 +3293,7 @@
       "itunes_duration": "2606",
       "speakers": [
         "Jack Whitehall",
-        "Settle Down",
+        "Jack Whiteha",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3439,6 +3333,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2755",
       "speakers": [
+        "Irish men",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3479,7 +3374,6 @@
       "itunes_duration": "2814",
       "speakers": [
         "Green Peace",
-        "Sara Pascoe",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3574,7 +3468,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2600",
       "speakers": [
-        "Matt Hancock",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3594,7 +3487,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2439",
       "speakers": [
-        "Vogue Williams",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3673,7 +3565,7 @@
       "enclosure_length": "0",
       "itunes_duration": "416",
       "speakers": [
-        "Ru Calendar",
+        "Feet Under",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3692,7 +3584,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2666",
       "speakers": [
-        "Jamali Maddix",
+        "Here Lies Jamali Maddix",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3712,7 +3604,9 @@
       "enclosure_length": "0",
       "itunes_duration": "86",
       "speakers": [
-        "Ru Callender",
+        "Introducing Where There",
+        "Will There",
+        "Feet Under",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3750,6 +3644,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2655",
       "speakers": [
+        "Here Lies Roisin Conaty",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3789,10 +3684,8 @@
       "enclosure_length": "0",
       "itunes_duration": "96",
       "speakers": [
-        "Kathy Burke",
-        "Diane Morgan",
-        "Jamali Maddix",
-        "James Acaster",
+        "Where There",
+        "Wake If",
         "Mel Giedroyc"
       ],
       "topics": [
@@ -3806,143 +3699,143 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Death Dates with Joel Dommett! — speakers: Joel Dommett, Death Dates, Kathy Burke, Mel Giedroyc
-- 2026-02-17 — Here Lies Joel Dommett — speakers: Joel Dommett, Kathy Burke, Mel Giedroyc
-- 2026-02-10 — Here Lies Danny Beard — speakers: Danny Beard Breaking, Drag Race, Danny Beard, Kathy Burke, Mel Giedroyc
-- 2026-02-03 — Here Lies Charity Shop Sue — speakers: Shop Sue Beyonce, Kathy Burke, Mel Giedroyc
-- 2026-01-27 — Here Lies Sindhu Vee — speakers: Sindhu Vee, Sindu Vee, Kathy Burke, Mel Giedroyc
-- 2026-01-20 — Here Lies Lucia Keskin — speakers: Lucia Keskin Young, Kylie Minogue, Kathy Burke, Mel Giedroyc
-- 2026-01-13 — Here Lies Nick Knowles — speakers: Nick Knowles, Kathy Burke, Mel Giedroyc
-- 2026-01-06 — Here Lies Maisie Adam — speakers: Maisie Adam Girthy, Maisie Adam, Kathy Burke, Mel Giedroyc
-- 2025-12-30 — Death Dates: A play along at home game — speakers: Kathy Burke, Mel Giedroyc
-- 2025-12-23 — Mel's Funniest Bits of 2025! — speakers: Alex Lowe, Bridget Christie, Channing Tatum, Kathy Burke, Mel Giedroyc
-- 2025-12-16 — Here Lies Dara O'Briain — speakers: Dara O'Briain, Kathy Burke, Mel Giedroyc
-- 2025-12-09 — Here Lies Rhys James — speakers: Rhys James, Superstar Rhys James, Kathy Burke, Mel Giedroyc
-- 2025-12-02 — Here Lies Peter Serafinowicz — speakers: Peter Serafinowicz, Terry Wogan, Stephen Fry, Darth Vader, Darth Maul, Brian Butterfield, Kathy Burke, Mel Giedroyc
-- 2025-11-28 — FREE EPISODE: Grandad is in the Commercial Bin with Joe Thomas — speakers: Joe Thomas, Goddess Nia, Mel Giedroyc
-- 2025-11-25 — Here Lies Joe Thomas — speakers: Joe Thomas, Kathy Burke, Mel Giedroyc
-- 2025-11-21 — Play along with Josh Groban — speakers: Josh Groban, Pete Burns, Kathy Burke, Mel Giedroyc
-- 2025-11-18 — Here Lies Josh Groban — speakers: Josh Groban, Kathy Burke, Mel Giedroyc
-- 2025-11-11 — Here Lies Kunal Nayyar aka Raj from The Big Bang Theory — speakers: Kathy Burke, Mel Giedroyc
-- 2025-11-04 — Here Lies Kyla Cobbler — speakers: Kyla Cobbler, Instagram Sensation Kyla Cobbler, Kathy Burke, Mel Giedroyc
-- 2025-10-31 — FREE EPISODE: Goodbye Alex Lowe... HELLO Clinton Baptiste!! — speakers: Alex Lowe, Clinton Baptiste, Matt Crockett Learn, Mel Giedroyc
-- 2025-10-28 — Here Lies Alex Lowe — speakers: Alex Lowe, Kathy Burke, Mel Giedroyc
-- 2025-10-21 — Here Lies Gyles Brandreth — speakers: Gyles Brandreth, Joining Mel, Kathy Burke, Mel Giedroyc
-- 2025-10-17 — BRAND NEW - Death Dates with Kyla Cobbler — speakers: Kyla Cobbler, Kathy Burke, Mel Giedroyc
-- 2025-10-14 — Here Lies Simon Day — speakers: Paul Whitehouse, Kathy Burke, Mel Giedroyc
-- 2025-10-07 — Here Lies Mathew Baynton — speakers: Mathew Baynton, Kathy Burke, Mel Giedroyc
-- 2025-09-30 — Here Lies Rick Edwards — speakers: Rick Edwards, Tim Key, Kathy Burke, Jonathan Birch Learn, Mel Giedroyc
-- 2025-09-23 — Here Lies Clare Balding — speakers: Gyles Brandreth, Kathy Burke, Mel Giedroyc
-- 2025-09-16 — Here Lies Stevie Martin — speakers: Stevie Martin Litter, Stevie Martin, Kathy Burke, Mel Giedroyc
-- 2025-09-09 — Here Lies Rob Rinder — speakers: Rob Rinder, Harry Styles, Rob Rinder Mbe, Kathy Burke, Mel Giedroyc
-- 2025-09-02 — Here Lies Stephen Mangan — speakers: Stephen Mangan, Kathy Burke, Mel Giedroyc
-- 2025-08-26 — Here Lies Angela Scanlon — speakers: Angela Scanlon, Kathy Burke, Mel Giedroyc
-- 2025-08-19 — Here Lies Tom Rosenthal — speakers: Tom Rosenthal, Kathy Burke, Joining Mel, Spencers Wood, Mel Giedroyc
-- 2025-08-12 — Here Lies Chloe Petts — speakers: Chloe Petts, Kathy Burke, Catch Chloe, Mel Giedroyc
-- 2025-08-05 — Here Lies Sophie Ellis Bextor — speakers: Kathy Burke, Mel Giedroyc
-- 2025-07-29 — Here Lies Glenn Moore — speakers: Glenn Moore, Kathy Burke, Joining Mel, Mel Giedroyc
-- 2025-07-22 — Here Lies Ivo Graham — speakers: Kathy Burke, Joining Mel, Ivo Graham, Mel Giedroyc
-- 2025-07-15 — Here Lies Eric Idle — speakers: Eric Idle, Kathy Burke, Mel Giedroyc
-- 2025-07-08 — Here Lies Vicki Peppedine — speakers: Vicki Peppedine, Kathy Burke, Vicki Pepperdine, Mel Giedroyc
-- 2025-07-01 — Here Lies Rachel Parris — speakers: Kathy Burke, Rachel Parris, Jane Austen, Mel Giedroyc
-- 2025-06-24 — Here Lies Reverend Richard Coles — speakers: Richard Coles, Kathy Burke, Joining Mel, Romeo Beckham, Mel Giedroyc
-- 2025-06-17 — Here Lies Jesse Tyler Ferguson — speakers: Jesse Tyler Ferguson, Kathy Burke, Mel Giedroyc
-- 2025-06-10 — Here Lies Daniel Foxx — speakers: Daniel Foxx, Jamie Foxx, Kathy Burke, Mel Giedroyc
-- 2025-06-03 — Here Lies Bridget Christie — speakers: Ian McShane, Bridget Christie, Kathy Burke, Mel Giedroyc
-- 2025-05-27 — Here Lies Meera Syal — speakers: Meera Syal, David Cassidy, Kathy Burke, Mel Giedroyc
-- 2025-05-20 — Here Lies Suzi Ruffell — speakers: Suzi Ruffell, Mel Giedroyc, Kathy Burke
-- 2025-05-13 — Deborah Frances - White & Jen Brister - Purgatory Season — speakers: Deborah Frances-White, Jen Brister, Kathy Burke, Mel Giedroyc
+- 2026-02-20 — Death Dates with Joel Dommett! — speakers: Joel Dommett, Death Dates, Mel Giedroyc
+- 2026-02-17 — Here Lies Joel Dommett — speakers: Joel Dommett, Mel Giedroyc
+- 2026-02-10 — Here Lies Danny Beard — speakers: Danny Beard Breaking, Mel Giedroyc
+- 2026-02-03 — Here Lies Charity Shop Sue — speakers: Shop Sue Beyonce, Mel Giedroyc
+- 2026-01-27 — Here Lies Sindhu Vee — speakers: Sindhu Vee, Mel Giedroyc
+- 2026-01-20 — Here Lies Lucia Keskin — speakers: Lucia Keskin Young, Kylie Minogue, Mel Giedroyc
+- 2026-01-13 — Here Lies Nick Knowles — speakers: Nick Knowles, Mel Giedroyc
+- 2026-01-06 — Here Lies Maisie Adam — speakers: Maisie Adam Girthy, Maisie Ad, Mel Giedroyc
+- 2025-12-30 — Death Dates: A play along at home game — speakers: Death Dates, Mel Giedroyc
+- 2025-12-23 — Mel's Funniest Bits of 2025! — speakers: Mel Giedroyc
+- 2025-12-16 — Here Lies Dara O'Briain — speakers: Dara O'Briain, Mel Giedroyc
+- 2025-12-09 — Here Lies Rhys James — speakers: Rhys James, Mel Giedroyc
+- 2025-12-02 — Here Lies Peter Serafinowicz — speakers: Peter Serafinowicz, Terry Wogan, Stephen Fry, Darth Vader, Darth Maul, Brian Butterfield, Mel Giedroyc
+- 2025-11-28 — FREE EPISODE: Grandad is in the Commercial Bin with Joe Thomas — speakers: Joe Thomas, Mel Giedroyc
+- 2025-11-25 — Here Lies Joe Thomas — speakers: Joe Thomas, Mel Giedroyc
+- 2025-11-21 — Play along with Josh Groban — speakers: Josh Groban, Mel Giedroyc
+- 2025-11-18 — Here Lies Josh Groban — speakers: Josh Groban, Mel Giedroyc
+- 2025-11-11 — Here Lies Kunal Nayyar aka Raj from The Big Bang Theory — speakers: Here Lies Kunal Nayyar, Mel Giedroyc
+- 2025-11-04 — Here Lies Kyla Cobbler — speakers: Kyla Cobbler, Instagram Sensation Kyla Cobbler, Mel Giedroyc
+- 2025-10-31 — FREE EPISODE: Goodbye Alex Lowe... HELLO Clinton Baptiste!! — speakers: Alex Lowe, Clinton Baptiste, Mel Giedroyc
+- 2025-10-28 — Here Lies Alex Lowe — speakers: Alex Lowe, Mel Giedroyc
+- 2025-10-21 — Here Lies Gyles Brandreth — speakers: Gyles Brandreth, Joining Mel, Mel Giedroyc
+- 2025-10-17 — BRAND NEW - Death Dates with Kyla Cobbler — speakers: Kyla Cobbler, Mel Giedroyc
+- 2025-10-14 — Here Lies Simon Day — speakers: Paul Whitehouse, Mel Giedroyc
+- 2025-10-07 — Here Lies Mathew Baynton — speakers: Mathew Baynton, Mel Giedroyc
+- 2025-09-30 — Here Lies Rick Edwards — speakers: Rick Edwards, Tim Key, Mel Giedroyc
+- 2025-09-23 — Here Lies Clare Balding — speakers: Gyles Brandreth, Mel Giedroyc
+- 2025-09-16 — Here Lies Stevie Martin — speakers: Stevie Martin Litter, Mel Giedroyc
+- 2025-09-09 — Here Lies Rob Rinder — speakers: Rob Rinder, Harry Styles, Mel Giedroyc
+- 2025-09-02 — Here Lies Stephen Mangan — speakers: Stephen Mangan, Mel Giedroyc
+- 2025-08-26 — Here Lies Angela Scanlon — speakers: Angela Scanlon, Mel Giedroyc
+- 2025-08-19 — Here Lies Tom Rosenthal — speakers: Tom Rosenthal, Mel Giedroyc
+- 2025-08-12 — Here Lies Chloe Petts — speakers: Chloe Petts, Mel Giedroyc
+- 2025-08-05 — Here Lies Sophie Ellis Bextor — speakers: Mel Giedroyc
+- 2025-07-29 — Here Lies Glenn Moore — speakers: Glenn Moore, Mel Giedroyc
+- 2025-07-22 — Here Lies Ivo Graham — speakers: Mel Giedroyc
+- 2025-07-15 — Here Lies Eric Idle — speakers: Eric Idle, Mel Giedroyc
+- 2025-07-08 — Here Lies Vicki Peppedine — speakers: Vicki Peppedine, Mel Giedroyc
+- 2025-07-01 — Here Lies Rachel Parris — speakers: Mel Giedroyc
+- 2025-06-24 — Here Lies Reverend Richard Coles — speakers: Richard Coles, Mel Giedroyc
+- 2025-06-17 — Here Lies Jesse Tyler Ferguson — speakers: Jesse Tyler Ferguson, Mel Giedroyc
+- 2025-06-10 — Here Lies Daniel Foxx — speakers: Daniel Foxx, Mel Giedroyc
+- 2025-06-03 — Here Lies Bridget Christie — speakers: Ian McShane, Mel Giedroyc
+- 2025-05-27 — Here Lies Meera Syal — speakers: Meera Syal, David Cassidy, Mel Giedroyc
+- 2025-05-20 — Here Lies Suzi Ruffell — speakers: Suzi Ruffell, Mel Giedroyc
+- 2025-05-13 — Deborah Frances - White & Jen Brister - Purgatory Season — speakers: Mel Giedroyc
 - 2025-05-06 — NEW HOST ANNOUNCEMENT! — speakers: Mel Giedroyc
-- 2025-05-06 — Mark Steel & Andy Zaltzman - Purgatory Season — speakers: Nikita Khrushchev, Mark Steel, Andy Zaltzman, Kathy Burke, Mel Giedroyc
-- 2025-04-29 — Pearl Mackie & Kiell Smith-Bynoe - Purgatory Season — speakers: Pearl Mackie, Kathy Burke, Mel Giedroyc
-- 2025-04-22 — Phil Wang & Pierre Novellie - Purgatory Season — speakers: Pierre Novellie Purgatory Season, Phil Wang, Pierre Novellie, Kathy Burke, Mel Giedroyc
-- 2025-04-15 — David Tennant & Georgia Tennant - Purgatory Season — speakers: David Tennant, Georgia Tennant Purgatory Season, Michael Sheen, Sara Cox, Clare Hamilton, Kathy Burke, Mel Giedroyc
-- 2025-04-08 — Sara Cox & Clare Hamilton - Purgatory Season — speakers: Sara Cox, Clare Hamilton, Kathy Burke, Mel Giedroyc
-- 2025-04-01 — The Dommetts - Purgatory Season — speakers: Hannah Dommett, David Tennant, Kathy Burke, Mel Giedroyc
-- 2025-03-25 — John Robins & Henry Paker - Purgatory Season — speakers: John Robins, Henry Paker Purgatory Season, Paul Bearer, Henry Paker, Kathy Burke, Mel Giedroyc
+- 2025-05-06 — Mark Steel & Andy Zaltzman - Purgatory Season — speakers: Nikita Khrushchev, Mel Giedroyc
+- 2025-04-29 — Pearl Mackie & Kiell Smith-Bynoe - Purgatory Season — speakers: Pearl Mackie, Kiell Smith, Mel Giedroyc
+- 2025-04-22 — Phil Wang & Pierre Novellie - Purgatory Season — speakers: Pierre Novellie Purgatory Season, Mel Giedroyc
+- 2025-04-15 — David Tennant & Georgia Tennant - Purgatory Season — speakers: David Tennant, Georgia Tennant Purgatory Season, Michael Sheen, Mel Giedroyc
+- 2025-04-08 — Sara Cox & Clare Hamilton - Purgatory Season — speakers: Sara Cox, Clare Hamilton, Purgatory Season, Mel Giedroyc
+- 2025-04-01 — The Dommetts - Purgatory Season — speakers: Purgatory Season Next, Where There, Will There, Mel Giedroyc
+- 2025-03-25 — John Robins & Henry Paker - Purgatory Season — speakers: John Robins, Henry Paker Purgatory Season, Mel Giedroyc
 - 2025-03-18 — FREE BONUS EPISODE: Jimmy Carr — speakers: Jimmy Carr Vroom, Jimmy Carr, Mel Giedroyc
 - 2025-03-11 — FREE BONUS EPISODE: GK Barry — speakers: GK Barry, Mel Giedroyc
 - 2025-03-04 — FREE BONUS EPISODE: Rylan — speakers: Mel Giedroyc
-- 2025-02-25 — FREE BONUS EPISODE: Daisy May Cooper — speakers: Missing Kathy, Daisy May Cooper, Kathy Burke, Goddess Nia, Bon Appetit, Mel Giedroyc
-- 2025-02-24 — Introducing: How Do You Cope — speakers: John Robins, Mel Giedroyc
-- 2025-02-18 — Here Lies Tom Davis - The (A)Live Show — speakers: Tom Davis, Joining Kathy, Kathy Burke, Mel Giedroyc
-- 2025-02-17 — R.I.P Kathy Burke - The End of an Era — speakers: Kathy Burke, Mel Giedroyc
+- 2025-02-25 — FREE BONUS EPISODE: Daisy May Cooper — speakers: Missing Kathy, Daisy May Cooper, Kathy Burke, Mel Giedroyc
+- 2025-02-24 — Introducing: How Do You Cope — speakers: Mel Giedroyc
+- 2025-02-18 — Here Lies Tom Davis - The (A)Live Show — speakers: Tom Davis, Joining Kathy, Mel Giedroyc
+- 2025-02-17 — R.I.P Kathy Burke - The End of an Era — speakers: Mel Giedroyc
 - 2025-02-11 — Here Lies Bonnie Langford — speakers: Bonnie Langford, Mel Giedroyc
 - 2025-02-04 — Here Lies Mark Bonnar — speakers: Mark Bonnar, Mel Giedroyc
 - 2025-01-28 — Here Lies Krishnan Guru-Murthy — speakers: Krishnan Guru-Murthy, Martin Bashir, Mel Giedroyc
-- 2025-01-21 — Here Lies Marianne Jean - Baptiste: The 100th Episode! — speakers: Marianne Jean Baptiste, Marianne Jean-Baptiste, Mel Giedroyc
+- 2025-01-21 — Here Lies Marianne Jean - Baptiste: The 100th Episode! — speakers: Marianne Jean Baptiste, Mel Giedroyc
 - 2025-01-14 — Here Lies Elis James — speakers: Elis James, Mel Giedroyc
 - 2025-01-07 — Here Lies Claudia Winkleman — speakers: Claudia Winkleman, Mel Giedroyc
 - 2024-12-31 — FREE BONUS EPISODE: Vicky McClure — speakers: Mel Giedroyc
-- 2024-12-24 — FREE BONUS EPISODE: Alan Carr — speakers: Alan Carr, Bah Humbug, Alan Carr comedian, Chatty Man, Mel Giedroyc
+- 2024-12-24 — FREE BONUS EPISODE: Alan Carr — speakers: Alan Carr, Bah Humbug, Mel Giedroyc
 - 2024-12-17 — FREE BONUS EPISODE with Bob Mortimer — speakers: Bob Mortimer, Mel Giedroyc
 - 2024-12-10 — Here Lies Kirsty Young — speakers: Kirsty Young, Mel Giedroyc
-- 2024-12-03 — Here Lies Julian Clary — speakers: Julian Clary, Mel Giedroyc
+- 2024-12-03 — Here Lies Julian Clary — speakers: Here Lies Julian Clary, Mel Giedroyc
 - 2024-11-26 — Here Lies Rick Astley — speakers: Rick Astley, Mel Giedroyc
 - 2024-11-19 — Here Lies Kim Cattrall — speakers: Kim Cattrall, Mel Giedroyc
 - 2024-11-12 — Here Lies Jenny Eclair — speakers: Jenny Eclair, Mel Giedroyc
-- 2024-11-05 — Here Lies Stanley Tucci — speakers: Stanley Tucci, Stanley Tucci Want, Mel Giedroyc
+- 2024-11-05 — Here Lies Stanley Tucci — speakers: Stanley Tucci, Mel Giedroyc
 - 2024-10-29 — Here Lies Daisy May Cooper — speakers: Daisy May Cooper, Mel Giedroyc
 - 2024-10-22 — Here Lies Bill Bailey — speakers: Bill Bailey, Mel Giedroyc
 - 2024-10-15 — Here Lies Greg James — speakers: Greg James, Mel Giedroyc
-- 2024-10-08 — Here Lies Katherine Parkinson — speakers: Katherine Parkinson, Edward Theatre, Mel Giedroyc
-- 2024-10-01 — Here Lies Jamie Laing — speakers: Jamie Laing, Brad Pitt, Edward Theatre, Mel Giedroyc
-- 2024-09-27 — LIVE SHOW! GET YOUR TICKETS NOW! — speakers: Mel Giedroyc
+- 2024-10-08 — Here Lies Katherine Parkinson — speakers: Mel Giedroyc
+- 2024-10-01 — Here Lies Jamie Laing — speakers: Jamie Laing, Brad Pitt, Mel Giedroyc
+- 2024-09-27 — LIVE SHOW! GET YOUR TICKETS NOW! — speakers: Where There, Mel Giedroyc
 - 2024-09-24 — Here Lies Jay Rayner — speakers: Jay Rayner, Mel Giedroyc
-- 2024-09-17 — Here Lies Cush Jumbo — speakers: Cush Jumbo, Mel Giedroyc
-- 2024-09-12 — Get Your Lugholes Around This — speakers: Cush Jumbo, Mel Giedroyc
+- 2024-09-17 — Here Lies Cush Jumbo — speakers: Mel Giedroyc
+- 2024-09-12 — Get Your Lugholes Around This — speakers: Where There, Will There, Mel Giedroyc
 - 2024-09-10 — Is This Your Favourite Moment So Far? — speakers: Kathy Burke, Jamie Demetriou, Mel Giedroyc
 - 2024-09-03 — FREE 6 FEET UNDER CONTENT! — speakers: Mel Giedroyc
-- 2024-08-27 — DYING FOR MORE BONUS CONTENT? — speakers: Mother Burke, Mel Giedroyc
-- 2024-08-20 — FREE BONUS EPISODE with Rob Beckett — speakers: Rob Beckett, Kathy Burke, Mel Giedroyc
+- 2024-08-27 — DYING FOR MORE BONUS CONTENT? — speakers: Mel Giedroyc
+- 2024-08-20 — FREE BONUS EPISODE with Rob Beckett — speakers: Rob Beckett, Mel Giedroyc
 - 2024-08-13 — Here Lies Sophie Willan — speakers: Sophie Willan, Mel Giedroyc
-- 2024-08-06 — Here Lies Shaun Keaveny — speakers: Shaun Keaveny, Mel Giedroyc
+- 2024-08-06 — Here Lies Shaun Keaveny — speakers: Shaun Keav, Mel Giedroyc
 - 2024-07-30 — Here Lies Michelle De Swarte — speakers: Michelle De Swarte, Mel Giedroyc
-- 2024-07-23 — Here Lies Antony Cotton — speakers: Antony Cotton, Sean Tully, Mel Giedroyc
-- 2024-07-16 — Here Lies Shappi Khorsandi — speakers: Shappi Khorsandi Crunch, Shappi Khorsandi, Mel Giedroyc
-- 2024-07-09 — Here Lies Mark Steel — speakers: Nigella Lawson, Mark Steel, Mel Giedroyc
+- 2024-07-23 — Here Lies Antony Cotton — speakers: Here Lies Antony Cotton, Mel Giedroyc
+- 2024-07-16 — Here Lies Shappi Khorsandi — speakers: Shappi Khorsandi Crunch, Mel Giedroyc
+- 2024-07-09 — Here Lies Mark Steel — speakers: Nigella Lawson, Mel Giedroyc
 - 2024-07-02 — Here Lies Munya Chawawa — speakers: Munya Chawawa, Mel Giedroyc
 - 2024-06-25 — Here Lies Vicky McClure — speakers: Mel Giedroyc
 - 2024-06-18 — Here Lies GK Barry — speakers: GK Barry, Mel Giedroyc
 - 2024-06-11 — Here Lies Jon Ronson — speakers: Jon Ronson Limone, Elton John, Jon Ronson, Mel Giedroyc
 - 2024-06-04 — Here Lies Harry Hill — speakers: Harry Hill, Gordon Ramsay, Mel Giedroyc
-- 2024-05-28 — Here Lies Dr Shola — speakers: jollof rice, Shola Mos-Shogbamimu, Mel Giedroyc
+- 2024-05-28 — Here Lies Dr Shola — speakers: jollof rice, Mel Giedroyc
 - 2024-05-21 — Here Lies Rafe Spall — speakers: Rafe Spall, Mel Giedroyc
 - 2024-05-14 — Here Lies Michael Sheen — speakers: Michael Sheen, David Tennant, Mel Giedroyc
 - 2024-05-07 — Here Lies Lily Allen — speakers: Lily Allen, Mel Giedroyc
 - 2024-04-30 — Here Lies Seann Walsh — speakers: Seann Walsh, Mel Giedroyc
 - 2024-04-23 — Here Lies Jack Rooke — speakers: Jack Rooke, Mel Giedroyc
-- 2024-04-16 — Here Lies Jimmy Carr — speakers: Jimmy Carr, Stephen Hawking, Born Killer, Laughs Funny, Mel Giedroyc
+- 2024-04-16 — Here Lies Jimmy Carr — speakers: Jimmy Carr, Stephen Hawking, Mel Giedroyc
 - 2024-04-09 — Here Lies Eddie Marsan — speakers: Eddie Marsan, Mel Giedroyc
 - 2024-04-02 — Here Lies Susie Dent — speakers: Susie Dent, Sean Lock, Mel Giedroyc
 - 2024-03-26 — Here Lies Aisling Bea — speakers: Aisling Bea, Harrison Ford, Joining Kathy, Mel Giedroyc
-- 2024-03-19 — Here Lies Rylan — speakers: Rylan Clarke, Mel Giedroyc
+- 2024-03-19 — Here Lies Rylan — speakers: Mel Giedroyc
 - 2024-03-12 — Here Lies Lucy Beaumont — speakers: Lucy Beaumont, Lucy Beaumont Kathy, Mel Giedroyc
-- 2024-03-05 — Here Lies Rob Beckett — speakers: Rob Beckett, Mel Giedroyc
-- 2024-02-27 — Here Lies Patrick Marber aka Peter O'Hanraha-Hanrahan — speakers: Patrick Marber, Peter O'Hanraha-Hanrahan Ciggies, Peter O'Hanraha-Hanrahan, Mel Giedroyc
+- 2024-03-05 — Here Lies Rob Beckett — speakers: Rob Beckett, Rob Becke, Mel Giedroyc
+- 2024-02-27 — Here Lies Patrick Marber aka Peter O'Hanraha-Hanrahan — speakers: Patrick Marber, Peter O'Hanraha-Hanrahan Ciggies, Peter O'Hanrah, Mel Giedroyc
 - 2024-02-20 — Here Lies Joanne McNally — speakers: Mel Giedroyc
 - 2024-02-13 — Here Lies Josh Widdicombe — speakers: Mark Lamarr, Josh Widdicombe, Mel Giedroyc
 - 2024-02-06 — Here Lies Emerald Fennell — speakers: Emerald Fennell, Mel Giedroyc
 - 2024-01-30 — Here Lies Gabby Logan — speakers: Liam Gallagher, Mel Giedroyc
 - 2024-01-23 — Here Lies Phil Wang — speakers: Phil Wang, Mel Giedroyc
-- 2024-01-16 — Here Lies Peter Capaldi — speakers: Peter Capaldi, Mel Giedroyc
+- 2024-01-16 — Here Lies Peter Capaldi — speakers: Peter Capaldi, Peter Cap, Mel Giedroyc
 - 2024-01-09 — Here Lies JVN - Jonathan Van Ness — speakers: Jonathan Van Ness, Mel Giedroyc
-- 2024-01-02 — Digging For Gold — speakers: Featuring Ed Gamble, Nick Frost, Dolly Alderton, James Blunt, Siobhán McSweeney, Mel Giedroyc
-- 2023-12-26 — The Gift Of Death — speakers: Jamie Demetriou, Bob Mortimer, Roisin Conaty, Danny Dyer, Andi Oliver, Mel Giedroyc
-- 2023-12-19 — Here Lies Joe Wicks — speakers: Joe Wicks, Mel Giedroyc
+- 2024-01-02 — Digging For Gold — speakers: Feet Under, Mel Giedroyc
+- 2023-12-26 — The Gift Of Death — speakers: Mel Giedroyc
+- 2023-12-19 — Here Lies Joe Wicks — speakers: Mel Giedroyc
 - 2023-12-12 — Here Lies Jimmy Akingbola — speakers: Jimmy Akingbola, Mel Giedroyc
-- 2023-12-05 — Here Lies Alastair Campbell — speakers: Alastair Campbell Persivilience, Piers Morgan Might, Alastair Campbel Oi, Mel Giedroyc
-- 2023-11-28 — Here Lies Grace Dent — speakers: Mel Giedroyc
+- 2023-12-05 — Here Lies Alastair Campbell — speakers: Alastair Campbell Persivilience, Piers Morgan Might, Alastair Campbel, Mel Giedroyc
+- 2023-11-28 — Here Lies Grace Dent — speakers: Here Lies Grace Dent, Mel Giedroyc
 - 2023-11-21 — Here Lies Tom Allen — speakers: Tom Allen, Mel Giedroyc
 - 2023-11-14 — Here Lies Layton Williams — speakers: Layton Williams, Mel Giedroyc
-- 2023-11-07 — Here Lies Dolly Alderton — speakers: Dolly Alderton, Mel Giedroyc
-- 2023-10-31 — Here Lies James Blunt Halloween Special — speakers: James Blunt, Mel Giedroyc
+- 2023-11-07 — Here Lies Dolly Alderton — speakers: Here Lies Dolly Alderton, Scampi Fries, One Direction, Dolly Ald, Mel Giedroyc
+- 2023-10-31 — Here Lies James Blunt Halloween Special — speakers: James Blunt, James Bl, Mel Giedroyc
 - 2023-10-24 — Here Lies Mawaan Rizwan — speakers: Mawaan Rizwan, Lady Gaga, Missy Elliott, Joe Lycett, Mel Giedroyc
-- 2023-10-17 — Here Lies Danny Dyer — speakers: Danny Dyer Death, Danny Dyer, Mel Giedroyc
-- 2023-10-10 — Here Lies Alan Carr — speakers: Alan Carr, Mel Giedroyc
+- 2023-10-17 — Here Lies Danny Dyer — speakers: Danny Dyer Death, Mel Giedroyc
+- 2023-10-10 — Here Lies Alan Carr — speakers: Alan Carr, Alan Car, Mel Giedroyc
 - 2023-10-03 — Here Lies Dawn French — speakers: Mel Giedroyc
-- 2023-09-26 — Here Lies Bob Mortimer — speakers: Bob Mortimer, Chris Tarrant, Mel Giedroyc
-- 2023-09-19 — Here Lies Joe Lycett — speakers: Joe Lycett, Joe Lycett vs, David Beckham, Mel Giedroyc
+- 2023-09-26 — Here Lies Bob Mortimer — speakers: Bob Mortimer, Chris Tarrant, Bob Mort, Mel Giedroyc
+- 2023-09-19 — Here Lies Joe Lycett — speakers: Joe Lycett, Mel Giedroyc
 - 2023-09-12 — Here Lies James Acaster — speakers: James Acaster, Mel Giedroyc
 - 2023-09-12 — Here Lies Katherine Ryan — speakers: Katherine Ryan, Mel Giedroyc
 - 2023-09-05 — Here Lies Nick Frost — speakers: Nick Frost, Nick Frost Want, Mel Giedroyc
@@ -3954,36 +3847,36 @@
 - 2023-07-25 — Here Lies Nick Mohammed — speakers: Nick Mohammed, Mr Swallow, Mel Giedroyc
 - 2023-07-18 — Here Lies Carol Vorderman — speakers: Carol Vorderman, Mel Giedroyc
 - 2023-07-11 — Here Lies John Robins — speakers: John Robins, Mel Giedroyc
-- 2023-07-04 — Here Lies Siobhán McSweeney — speakers: Siobhan McSweeney, Michael Herself, Mel Giedroyc
-- 2023-06-27 — Here Lies Nish Kumar — speakers: Mel Giedroyc
+- 2023-07-04 — Here Lies Siobhán McSweeney — speakers: Mel Giedroyc
+- 2023-06-27 — Here Lies Nish Kumar — speakers: Here Lies Nish Kumar, Mel Giedroyc
 - 2023-06-20 — Here Lies Perry Fenwick — speakers: Perry Fenwick, Billy Mitchell, Mel Giedroyc
 - 2023-06-13 — Here Lies Katie Price — speakers: Katie Price, Mel Giedroyc
-- 2023-06-06 — Here Lies Ed Gamble — speakers: Mel Giedroyc
+- 2023-06-06 — Here Lies Ed Gamble — speakers: Here Lies Ed Gamble, Dead Gamble, Mel Giedroyc
 - 2023-05-30 — Here Lies Elizabeth Day — speakers: Elizabeth Day, Mel Giedroyc
 - 2023-05-23 — Here Lies Guz Khan — speakers: Mel Giedroyc
 - 2023-05-16 — Here Lies Jonathan Harvey — speakers: Jonathan Harvey Chips, Lily Savage, Jonathan Harvey, Mel Giedroyc
-- 2023-05-02 — Back From The Dead — speakers: Alan Carr, Emily Atack, Jack Whitehall, Bob Mortimer, Mel Giedroyc
-- 2023-04-25 — 6 Feet Under: The Best Bits — speakers: Mel Giedroyc
-- 2023-04-18 — Here Lies The Deadliest Bits — speakers: Mel Giedroyc
-- 2023-04-11 — Here Lies Emily Atack — speakers: Mel Giedroyc
-- 2023-04-04 — Here Lies Jack Whitehall — speakers: Jack Whitehall, Settle Down, Mel Giedroyc
+- 2023-05-02 — Back From The Dead — speakers: Mel Giedroyc
+- 2023-04-25 — 6 Feet Under: The Best Bits — speakers: Feet Under, Mel Giedroyc
+- 2023-04-18 — Here Lies The Deadliest Bits — speakers: Bits Prawns, Mel Giedroyc
+- 2023-04-11 — Here Lies Emily Atack — speakers: Emily Atack, Mel Giedroyc
+- 2023-04-04 — Here Lies Jack Whitehall — speakers: Jack Whitehall, Jack Whiteha, Mel Giedroyc
 - 2023-03-28 — Here Lies Paul Whitehouse — speakers: Paul Whitehouse, Mel Giedroyc
-- 2023-03-21 — Here Lies Fern Brady — speakers: Mel Giedroyc
+- 2023-03-21 — Here Lies Fern Brady — speakers: Irish men, Mel Giedroyc
 - 2023-03-14 — Here Lies Jennifer Saunders — speakers: Jennifer Saunders, Mel Giedroyc
-- 2023-03-07 — Here Lies Sara Pascoe — speakers: Green Peace, Sara Pascoe, Mel Giedroyc
+- 2023-03-07 — Here Lies Sara Pascoe — speakers: Green Peace, Mel Giedroyc
 - 2023-02-28 — Here Lies Bimini — speakers: Mel Giedroyc
 - 2023-02-21 — Here Lies Jamie Demetriou — speakers: Jamie Demetriou, Mel Giedroyc
 - 2023-02-14 — Here Lies Tim Key — speakers: Tim Key, Mel Giedroyc
 - 2023-02-07 — Here Lies Kerry Godliman — speakers: Kerry Godliman, Mel Giedroyc
-- 2023-01-31 — Here Lies Babatunde Aleshe — speakers: Matt Hancock, Mel Giedroyc
-- 2023-01-24 — Here Lies Vogue Williams — speakers: Vogue Williams, Mel Giedroyc
+- 2023-01-31 — Here Lies Babatunde Aleshe — speakers: Mel Giedroyc
+- 2023-01-24 — Here Lies Vogue Williams — speakers: Mel Giedroyc
 - 2023-01-17 — Here Lies Nick Grimshaw — speakers: Nick Grimshaw, Mel Giedroyc
 - 2023-01-10 — Here Lies Adam Kay — speakers: Adam Kay, Mel Giedroyc
 - 2023-01-03 — Here Lies Andi Oliver — speakers: Andi Oliver, Mel Giedroyc
-- 2022-12-27 — 6 Feet Under: What you’re missing — speakers: Ru Calendar, Mel Giedroyc
-- 2022-12-20 — Here Lies Jamali Maddix — speakers: Jamali Maddix, Mel Giedroyc
-- 2022-12-13 — Introducing: 6 Feet Under — speakers: Ru Callender, Mel Giedroyc
+- 2022-12-27 — 6 Feet Under: What you’re missing — speakers: Feet Under, Mel Giedroyc
+- 2022-12-20 — Here Lies Jamali Maddix — speakers: Here Lies Jamali Maddix, Mel Giedroyc
+- 2022-12-13 — Introducing: 6 Feet Under — speakers: Introducing Where There, Will There, Feet Under, Mel Giedroyc
 - 2022-12-13 — Here Lies Stewart Lee — speakers: Stewart Lee, Mel Giedroyc
-- 2022-12-06 — Here Lies Roisin Conaty — speakers: Mel Giedroyc
+- 2022-12-06 — Here Lies Roisin Conaty — speakers: Here Lies Roisin Conaty, Mel Giedroyc
 - 2022-11-29 — Here Lies Diane Morgan — speakers: Diane Morgan, Mel Giedroyc
-- 2022-11-15 — Introducing... Where There's A Will, There's A Wake — speakers: Kathy Burke, Diane Morgan, Jamali Maddix, James Acaster, Mel Giedroyc
+- 2022-11-15 — Introducing... Where There's A Will, There's A Wake — speakers: Where There, Wake If, Mel Giedroyc

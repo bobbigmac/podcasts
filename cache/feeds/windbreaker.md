@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-02-21T18:54:13+00:00`
-- checked_at: `2026-02-21T18:54:13+00:00`
-- etag: `W/"36d04-km/+cQCu3hmOHC1eAxRrX6tnEZ8"`
+- fetched_at: `2026-02-23T22:02:17+00:00`
+- checked_at: `2026-02-23T22:02:17+00:00`
+- etag: `W/"36c91-omaaZBqeUv3NGUWNVj3n5odHsgY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-02-21T18:54:13+00:00",
+  "fetched_at": "2026-02-23T22:02:17+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -34,9 +34,9 @@
       "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Our-Favorite-Video-Game-Couple-Is-Better-Than-Your-Favorite-Video-Game-Couple--Windbreaker-Podcast-e3f6e1r",
       "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty celebrate Valentine's Day by talking about their favorite couples in gaming, what makes a good video game relationship, and why so many stumble. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-      "enclosure_url": "https://anchor.fm/s/fe088118/podcast/play/115602939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-16%2F7b3e5fd2-e4aa-78bd-00ac-3a80d59ff0a1.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1685622908.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "143041568",
+      "enclosure_length": "95360731",
       "itunes_duration": "01:39:20",
       "speakers": [
         "Yahtzee Croshaw",
@@ -684,7 +684,7 @@
       "enclosure_length": "68883435",
       "itunes_duration": "01:11:45",
       "speakers": [
-        "Hideo Kojima",
+        "Kojima Conversation",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -935,6 +935,7 @@
       "enclosure_length": "88224914",
       "itunes_duration": "01:31:54",
       "speakers": [
+        "Clair Obsc",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -981,6 +982,7 @@
       "enclosure_length": "135145184",
       "itunes_duration": "01:33:51",
       "speakers": [
+        "Edged Sword",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -1280,7 +1282,6 @@
       "enclosure_length": "115604960",
       "itunes_duration": "01:20:16",
       "speakers": [
-        "Second Wind",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -1325,8 +1326,6 @@
       "itunes_duration": "02:00:06",
       "speakers": [
         "Game Awards Results",
-        "Game Awards",
-        "Second Wind",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -1896,7 +1895,6 @@
       "enclosure_length": "156310469",
       "itunes_duration": "01:48:15",
       "speakers": [
-        "Elden Ring Shadow",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -2326,7 +2324,6 @@
       "itunes_duration": "01:21:15",
       "speakers": [
         "Kinda Sucks",
-        "Second Wind",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -2381,7 +2378,6 @@
       "itunes_duration": "02:06:16",
       "speakers": [
         "Jack Packard",
-        "Second Wind",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -2515,7 +2511,6 @@
       "enclosure_length": "125038125",
       "itunes_duration": "01:26:49",
       "speakers": [
-        "Second Wind",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -2539,7 +2534,6 @@
       "enclosure_length": "161356077",
       "itunes_duration": "01:52:03",
       "speakers": [
-        "Second Wind",
         "Yahtzee Croshaw",
         "Marty Sliva"
       ],
@@ -2567,8 +2561,7 @@
         "Stephanie Sterling",
         "Yahtzee Croshaw",
         "Marty Sliva",
-        "Sebastian Ruiz",
-        "Second Wind"
+        "Sebastian Ruiz"
       ],
       "topics": [
         "stephanie",
@@ -2612,7 +2605,7 @@
 - 2025-08-05 — The Point in a Game That Kills the Replay | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-07-29 — Annoying Design Choices in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-07-22 — The State of Nintendo in 2025 | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
-- 2025-07-15 — Let's Have a Kojima Conversation | Windbreaker Podcast — speakers: Hideo Kojima, Yahtzee Croshaw, Marty Sliva
+- 2025-07-15 — Let's Have a Kojima Conversation | Windbreaker Podcast — speakers: Kojima Conversation, Yahtzee Croshaw, Marty Sliva
 - 2025-07-08 — What Makes an Open World Actually Fun? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-07-01 — Learning to Love the Backlog | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-06-24 — Time Is the Best (and Worst) Game Mechanic | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
@@ -2623,9 +2616,9 @@
 - 2025-05-20 — What Makes a Great Video Game Weapon? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-05-13 — Where Have All the GTA Clones Gone? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-05-06 — The Best Musical Moments in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
-- 2025-04-29 — The Strange State of AA Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-04-29 — The Strange State of AA Games | Windbreaker Podcast — speakers: Clair Obsc, Yahtzee Croshaw, Marty Sliva
 - 2025-04-22 — The Joy of Solving Mysteries in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
-- 2025-04-15 — The Double-Edged Sword of Roguelikes and Roguelites in 2025 | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2025-04-15 — The Double-Edged Sword of Roguelikes and Roguelites in 2025 | Windbreaker Podcast — speakers: Edged Sword, Yahtzee Croshaw, Marty Sliva
 - 2025-04-08 — Sometimes 'Good' Is Good Enough | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-04-01 — Do ‘Good Graphics’ Even Matter in 2025? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-03-25 — The Peaks of Every Genre | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
@@ -2638,9 +2631,9 @@
 - 2025-02-04 — The Five Games We'd Take With Us on a Desert Island | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-01-28 — Building the Video Game Syllabus | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-01-21 — There’s Nothing Wrong With Cheating in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
-- 2025-01-14 — At What Point Does It Become Stealing? | Windbreaker Podcast — speakers: Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2025-01-14 — At What Point Does It Become Stealing? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2025-01-07 — Our 2025 Gaming Resolutions | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
-- 2024-12-17 — Digesting the Game Awards Results | Windbreaker Podcast — speakers: Game Awards Results, Game Awards, Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2024-12-17 — Digesting the Game Awards Results | Windbreaker Podcast — speakers: Game Awards Results, Yahtzee Croshaw, Marty Sliva
 - 2024-12-10 — THIS Is How You Start Off a Game | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-12-03 — A Tour Through Handheld History | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-11-26 — In Defense of Janky Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
@@ -2665,7 +2658,7 @@
 - 2024-07-17 — Can't Get You Out of My Head | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-07-09 — Games That Actually Make Us Laugh | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-07-02 — Modern Media Has a Lore Problem | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
-- 2024-06-26 — How Hard is Too Hard? | Windbreaker Podcast — speakers: Elden Ring Shadow, Yahtzee Croshaw, Marty Sliva
+- 2024-06-26 — How Hard is Too Hard? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-06-21 — AAA's Franchise Identity Problem | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-06-11 — Catching Yahtzee Up on Summer Game Fest | Windbreaker Podcast — speakers: Catching Yahtzee, Yahtzee Croshaw, Marty Sliva
 - 2024-06-04 — The Line Between a Game and an Experience | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
@@ -2684,14 +2677,14 @@
 - 2024-03-06 — Gaming's Unforgivable Sins | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-02-28 — Has The World Become Too Cynical For Superheroes? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-02-22 — To Side Quest, or Not to Side Quest | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
-- 2024-02-15 — Your Video Game City Kinda Sucks | Windbreaker Podcast — speakers: Kinda Sucks, Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2024-02-15 — Your Video Game City Kinda Sucks | Windbreaker Podcast — speakers: Kinda Sucks, Yahtzee Croshaw, Marty Sliva
 - 2024-02-07 — The Sunk-Cost Fallacy of Finishing Games (ft. Nick Calandra) | Windbreaker Podcast — speakers: Nick Calandra, Yahtzee Croshaw, Marty Sliva
-- 2024-01-31 — The Games and Genres We Just Don't Get (ft. Jack Packard) | Windbreaker Podcast — speakers: Jack Packard, Second Wind, Yahtzee Croshaw, Marty Sliva
+- 2024-01-31 — The Games and Genres We Just Don't Get (ft. Jack Packard) | Windbreaker Podcast — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva
 - 2024-01-25 — Games That Actually Deserve a Redo | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-01-17 — How to NOT Do A Metroidvania | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2024-01-09 — The Good, The Bad, and The Ugly Grind | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2023-12-20 — Let's Fix Games in 2024 | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2023-12-13 — What's the Point of The Game Awards? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
-- 2023-12-06 — The Standout Game Mechanics of 2023 | Windbreaker Podcast — speakers: Second Wind, Yahtzee Croshaw, Marty Sliva
-- 2023-11-28 — The State of Modern Games Coverage | Windbreaker Podcast — speakers: Second Wind, Yahtzee Croshaw, Marty Sliva
-- 2023-11-22 — Slightly Somewhere Else (ft. Stephanie Sterling) | Windbreaker Podcast — speakers: Stephanie Sterling, Yahtzee Croshaw, Marty Sliva, Sebastian Ruiz, Second Wind
+- 2023-12-06 — The Standout Game Mechanics of 2023 | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2023-11-28 — The State of Modern Games Coverage | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2023-11-22 — Slightly Somewhere Else (ft. Stephanie Sterling) | Windbreaker Podcast — speakers: Stephanie Sterling, Yahtzee Croshaw, Marty Sliva, Sebastian Ruiz

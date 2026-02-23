@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-02-23T13:41:58+00:00`
-- checked_at: `2026-02-23T13:41:58+00:00`
-- etag: `W/"1c3b4-RbxVdHEujvAVSkxmT/ds1lqq01k"`
+- fetched_at: `2026-02-23T22:02:17+00:00`
+- checked_at: `2026-02-23T22:02:17+00:00`
+- etag: `W/"1c829-wexLTNMp4SKrYLVyA0wv8GDqk+g"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-02-23T13:41:58+00:00",
+  "fetched_at": "2026-02-23T22:02:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "92500fac287dacedec7545574f8c4136191fd88d",
+      "title": "#12 Jon Richardson Podcast with Will Smith",
+      "published_at": "2026-02-23T19:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/12-Jon-Richardson-Podcast-with-Will-Smith-e3feq46",
+      "description": "#12 Jon Richardson Podcast with Will Smith",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771784892477-37bc524c61041.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115877446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-22%2F237e3b32-acbb-f4c2-0adf-b06209befa3c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54500000",
+      "itunes_duration": "01:15:41",
+      "speakers": [
+        "Will Smith"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "smith"
+      ]
+    },
     {
       "key": "104f585d4f23e18647562a4c97d7e6e58c9123d6",
       "title": "#11 Jon Richardson Podcast with Hal Cruttenden",
@@ -2015,6 +2035,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — #12 Jon Richardson Podcast with Will Smith — speakers: Will Smith
 - 2026-02-23 — #11 Jon Richardson Podcast with Hal Cruttenden
 - 2026-02-22 — #10 Jon Richardson Podcast with Arnab Chandra — speakers: Arnab Chandra
 - 2026-02-21 — #9 Jon Richardson Podcast with Al Pitcher — speakers: Al Pitcher

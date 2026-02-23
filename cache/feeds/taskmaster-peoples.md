@@ -2,11 +2,11 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"1069a0-64af460fde0f4"`
-- last_modified: `Mon, 16 Feb 2026 17:35:19 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-23T22:02:17+00:00`
+- checked_at: `2026-02-23T22:02:17+00:00`
+- etag: `"10716b-64b8346b07dcb"`
+- last_modified: `Mon, 23 Feb 2026 20:04:19 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,14 +18,36 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-23T22:02:17+00:00",
+  "owners": [
+    "Jenny Eclair",
+    "Jack Bernhardt"
+  ],
   "common_speakers": [],
   "categories": [
-    "comedy/british",
-    "tv/taskmaster"
+    "comedy"
   ],
   "episodes": [
+    {
+      "key": "7dfefdbc5d3b27a32c67138974e99850ccf3c0fd",
+      "title": "Chuck a Duck - S13, Ep. 10",
+      "published_at": "2026-02-23T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Today we're going back through the Taskmaster archives to acquaint ourselves with some House Queens. And while we do that, we ask some important questions; like how old is an antique? Why did Judi’s duck task reminded us of the Winter Olympics? Do language degrees ever help Taskmaster contestants? Next week we're spending some time in Series 5, starting with episode 1 if you'd like to follow along. Send all your taskmaster thoughts to: fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/3734cb78-f90b-4b03-8518-d8e0f8aa641d.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=3734cb78-f90b-4b03-8518-d8e0f8aa641d",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59915161",
+      "itunes_duration": "59:02",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "chuck",
+        "duck"
+      ]
+    },
     {
       "key": "e15b89ab0c1375026f11cfac63b9a6a31bbdc91e",
       "title": "Leylandii the Menace - S14, Ep. 4",
@@ -37,7 +59,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66210237",
       "itunes_duration": "01:05:39",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "menace"
       ]
@@ -54,7 +79,9 @@
       "enclosure_length": "63142424",
       "itunes_duration": "01:02:30",
       "speakers": [
-        "Calm Down Dear"
+        "Calm Down Dear",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dear"
@@ -71,7 +98,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47574578",
       "itunes_duration": "46:16",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "loser",
         "losers",
@@ -90,7 +120,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54499165",
       "itunes_duration": "53:33",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "profiterole"
       ]
@@ -106,7 +139,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51564726",
       "itunes_duration": "50:32",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "biddable",
         "champion",
@@ -124,7 +160,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50862345",
       "itunes_duration": "49:52",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "years",
         "treat"
@@ -141,7 +180,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71768797",
       "itunes_duration": "01:11:41",
-      "speakers": [],
+      "speakers": [
+        "New Years Treat",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "years",
         "treat"
@@ -159,7 +202,8 @@
       "enclosure_length": "46483492",
       "itunes_duration": "45:24",
       "speakers": [
-        "Rose Matafeo"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "holiday",
@@ -179,7 +223,8 @@
       "enclosure_length": "58470180",
       "itunes_duration": "57:52",
       "speakers": [
-        "Cilla Bowie"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "champion",
@@ -198,8 +243,8 @@
       "enclosure_length": "46406376",
       "itunes_duration": "45:22",
       "speakers": [
-        "Maisie Adam",
-        "Bob Mortimer"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "miracles",
@@ -219,7 +264,9 @@
       "enclosure_length": "60583950",
       "itunes_duration": "01:00:11",
       "speakers": [
-        "Dinner Speech"
+        "Dinner Speech",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dinner",
@@ -242,7 +289,9 @@
       "enclosure_length": "39111450",
       "itunes_duration": "37:51",
       "speakers": [
-        "Phil Ellis"
+        "Phil Ellis",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "nights",
@@ -265,8 +314,8 @@
       "enclosure_length": "61680132",
       "itunes_duration": "01:01:24",
       "speakers": [
-        "Fantasy Taskmaster",
-        "Phil Ellis"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "return",
@@ -288,7 +337,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67070778",
       "itunes_duration": "01:07:03",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "splash",
         "bernoulli",
@@ -307,7 +359,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55618443",
       "itunes_duration": "55:10",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "calendar",
         "classics"
@@ -324,7 +379,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57028953",
       "itunes_duration": "56:41",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": [
         "hedgehog"
       ]
@@ -340,7 +398,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62496425",
       "itunes_duration": "01:02:23",
-      "speakers": [],
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
       "topics": []
     },
     {
@@ -355,7 +416,8 @@
       "enclosure_length": "52821632",
       "itunes_duration": "52:22",
       "speakers": [
-        "Fantasy Taskmaster"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "winnie",
@@ -375,7 +437,8 @@
       "enclosure_length": "56434555",
       "itunes_duration": "56:10",
       "speakers": [
-        "Fantasy Taskmaster"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dastardly",
@@ -394,7 +457,8 @@
       "enclosure_length": "53027133",
       "itunes_duration": "52:38",
       "speakers": [
-        "Fantasy Taskmaster"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "grand"
@@ -413,7 +477,8 @@
       "itunes_duration": "50:46",
       "speakers": [
         "Daddy Needs",
-        "Fantasy Taskmaster"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "daddy",
@@ -433,8 +498,8 @@
       "enclosure_length": "47232192",
       "itunes_duration": "46:41",
       "speakers": [
-        "Jack Dee",
-        "Fantasy Taskmaster"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "lick",
@@ -454,7 +519,8 @@
       "enclosure_length": "66139375",
       "itunes_duration": "01:06:27",
       "speakers": [
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "bunch"
@@ -473,7 +539,7 @@
       "itunes_duration": "01:08:37",
       "speakers": [
         "Jack Bernhardt",
-        "Taskmaster App"
+        "Jenny Eclair"
       ],
       "topics": [
         "series",
@@ -493,8 +559,8 @@
       "enclosure_length": "69381434",
       "itunes_duration": "01:09:41",
       "speakers": [
-        "Jenny goofed",
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "cheeky"
@@ -512,7 +578,8 @@
       "enclosure_length": "60909982",
       "itunes_duration": "01:00:56",
       "speakers": [
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "double"
@@ -530,7 +597,8 @@
       "enclosure_length": "64824710",
       "itunes_duration": "01:05:05",
       "speakers": [
-        "Katherine Ryan"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "patatas"
@@ -548,9 +616,8 @@
       "enclosure_length": "63062788",
       "itunes_duration": "01:03:19",
       "speakers": [
-        "Victoria Coren-Mitchell",
-        "Jason Mantzoukas",
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "sudoku",
@@ -569,7 +636,8 @@
       "enclosure_length": "64000688",
       "itunes_duration": "01:04:23",
       "speakers": [
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "mighty",
@@ -588,7 +656,8 @@
       "enclosure_length": "48600975",
       "itunes_duration": "48:21",
       "speakers": [
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "legistlation"
@@ -606,7 +675,8 @@
       "enclosure_length": "35982184",
       "itunes_duration": "35:00",
       "speakers": [
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taskmaster",
@@ -626,7 +696,8 @@
       "enclosure_length": "66015048",
       "itunes_duration": "01:06:20",
       "speakers": [
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dusted",
@@ -647,8 +718,8 @@
       "enclosure_length": "54392329",
       "itunes_duration": "54:19",
       "speakers": [
-        "Rosie Ramsey",
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dinner",
@@ -668,7 +739,8 @@
       "enclosure_length": "53276507",
       "itunes_duration": "53:16",
       "speakers": [
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "adventure",
@@ -687,7 +759,8 @@
       "enclosure_length": "54548704",
       "itunes_duration": "54:37",
       "speakers": [
-        "Taskmaster App"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "pirate"
@@ -705,9 +778,8 @@
       "enclosure_length": "56629623",
       "itunes_duration": "56:52",
       "speakers": [
-        "Jack Bernhardt",
-        "Taskmaster App",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "queen",
@@ -726,8 +798,8 @@
       "enclosure_length": "53080194",
       "itunes_duration": "53:13",
       "speakers": [
-        "Taskmaster App",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "whales",
@@ -746,8 +818,8 @@
       "enclosure_length": "54698740",
       "itunes_duration": "54:57",
       "speakers": [
-        "Taskmaster App",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "piece",
@@ -766,8 +838,8 @@
       "enclosure_length": "57306327",
       "itunes_duration": "57:43",
       "speakers": [
-        "Taskmaster App",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "demolition",
@@ -786,9 +858,8 @@
       "enclosure_length": "63612034",
       "itunes_duration": "01:04:20",
       "speakers": [
-        "Steve Pemberton",
-        "Taskmaster App",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "yield"
@@ -806,8 +877,8 @@
       "enclosure_length": "58425901",
       "itunes_duration": "59:00",
       "speakers": [
-        "Taskmaster App",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "osmosis"
@@ -826,8 +897,8 @@
       "itunes_duration": "01:08:51",
       "speakers": [
         "Andy Zaltzman",
-        "Taskmaster App",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "raisins",
@@ -849,7 +920,8 @@
       "itunes_duration": "52:58",
       "speakers": [
         "Lou Sanders",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "trophy",
@@ -871,7 +943,8 @@
       "enclosure_length": "49195312",
       "itunes_duration": "49:33",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "series",
@@ -891,8 +964,8 @@
       "enclosure_length": "40181956",
       "itunes_duration": "40:13",
       "speakers": [
-        "Ardal O'Hanlan",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": []
     },
@@ -908,7 +981,8 @@
       "enclosure_length": "47056806",
       "itunes_duration": "47:24",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "beep"
@@ -927,7 +1001,8 @@
       "itunes_duration": "53:10",
       "speakers": [
         "Split Hairs",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "split",
@@ -946,8 +1021,8 @@
       "enclosure_length": "49964506",
       "itunes_duration": "50:23",
       "speakers": [
-        "George Washington",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dinosaur",
@@ -966,7 +1041,8 @@
       "enclosure_length": "51598456",
       "itunes_duration": "52:08",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "biba",
@@ -985,7 +1061,8 @@
       "enclosure_length": "55023515",
       "itunes_duration": "55:45",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "eggs",
@@ -1005,8 +1082,8 @@
       "enclosure_length": "54673083",
       "itunes_duration": "55:25",
       "speakers": [
-        "Alex Horne",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "laminating",
@@ -1025,8 +1102,8 @@
       "enclosure_length": "54569967",
       "itunes_duration": "55:21",
       "speakers": [
-        "Tim Vine",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "bubble",
@@ -1047,7 +1124,8 @@
       "speakers": [
         "Kellie Hogben",
         "Alex Horne",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -1072,8 +1150,8 @@
       "enclosure_length": "54017665",
       "itunes_duration": "54:53",
       "speakers": [
-        "Charlotte Ritchie",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "sally",
@@ -1093,7 +1171,8 @@
       "enclosure_length": "62807199",
       "itunes_duration": "01:04:05",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "attention",
@@ -1112,7 +1191,8 @@
       "enclosure_length": "62475846",
       "itunes_duration": "01:03:47",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "wayne",
@@ -1131,7 +1211,8 @@
       "enclosure_length": "59340079",
       "itunes_duration": "01:00:35",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "throwing",
@@ -1151,7 +1232,8 @@
       "enclosure_length": "59272803",
       "itunes_duration": "01:00:35",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "youre",
@@ -1171,8 +1253,8 @@
       "enclosure_length": "48604300",
       "itunes_duration": "49:30",
       "speakers": [
-        "Alex Horne",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taskmaster",
@@ -1194,8 +1276,8 @@
       "itunes_duration": "57:59",
       "speakers": [
         "Kojey Radical Merry Christmas",
-        "Kojey Radical",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "years",
@@ -1216,7 +1298,8 @@
       "enclosure_length": "38058564",
       "itunes_duration": "38:33",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "junior",
@@ -1238,7 +1321,10 @@
       "enclosure_length": "49358765",
       "itunes_duration": "50:20",
       "speakers": [
-        "Christine Macdonald"
+        "Hot Dog",
+        "Holiday Post Bag Special",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "holiday",
@@ -1258,8 +1344,8 @@
       "enclosure_length": "55607235",
       "itunes_duration": "56:54",
       "speakers": [
-        "Absolute Casserole",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dribbles",
@@ -1278,8 +1364,8 @@
       "enclosure_length": "60918635",
       "itunes_duration": "01:02:28",
       "speakers": [
-        "Absolute Casserole",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "mento",
@@ -1300,9 +1386,8 @@
       "enclosure_length": "60194901",
       "itunes_duration": "01:01:46",
       "speakers": [
-        "Nick Mohammed",
-        "Absolute Casserole",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "series",
@@ -1321,7 +1406,8 @@
       "enclosure_length": "63586659",
       "itunes_duration": "01:05:20",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "final"
@@ -1339,8 +1425,9 @@
       "enclosure_length": "57798282",
       "itunes_duration": "59:21",
       "speakers": [
-        "Andy Zaltzman",
-        "Christine Macdonald"
+        "Andy Za",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "luck",
@@ -1359,8 +1446,8 @@
       "enclosure_length": "63376637",
       "itunes_duration": "01:05:11",
       "speakers": [
-        "Alex blush",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "lobster",
@@ -1379,7 +1466,8 @@
       "enclosure_length": "66511582",
       "itunes_duration": "01:08:29",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "rest",
@@ -1400,7 +1488,8 @@
       "itunes_duration": "51:01",
       "speakers": [
         "Banana Boy",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "banana",
@@ -1422,7 +1511,8 @@
       "enclosure_length": "61438832",
       "itunes_duration": "01:03:15",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": []
     },
@@ -1438,7 +1528,8 @@
       "enclosure_length": "60171420",
       "itunes_duration": "01:01:57",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "envelope"
@@ -1457,7 +1548,8 @@
       "itunes_duration": "01:05:55",
       "speakers": [
         "Record Breakers",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "record",
@@ -1477,7 +1569,8 @@
       "itunes_duration": "01:05:03",
       "speakers": [
         "Guy Fawkes",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "fawkes",
@@ -1496,7 +1589,8 @@
       "enclosure_length": "65425992",
       "itunes_duration": "01:07:28",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "bubbles",
@@ -1516,7 +1610,8 @@
       "enclosure_length": "64102373",
       "itunes_duration": "01:06:08",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "sleeps",
@@ -1539,7 +1634,8 @@
       "itunes_duration": "01:00:37",
       "speakers": [
         "Lou Sanders",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "series",
@@ -1559,7 +1655,8 @@
       "enclosure_length": "58022552",
       "itunes_duration": "59:53",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "onesie"
@@ -1578,7 +1675,8 @@
       "itunes_duration": "45:13",
       "speakers": [
         "Nick Mohammed",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -1599,7 +1697,8 @@
       "enclosure_length": "45800033",
       "itunes_duration": "47:12",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "spillage",
@@ -1618,9 +1717,8 @@
       "enclosure_length": "55232626",
       "itunes_duration": "57:02",
       "speakers": [
-        "Jeremy Allen White",
-        "Julian Clary",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "greg"
@@ -1638,7 +1736,8 @@
       "enclosure_length": "62000952",
       "itunes_duration": "01:04:07",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "birthday"
@@ -1657,9 +1756,8 @@
       "itunes_duration": "01:05:17",
       "speakers": [
         "Charlotte Ritchie",
-        "Aussie Taskmaster",
-        "James Acaster",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "comedy"
@@ -1677,7 +1775,8 @@
       "enclosure_length": "55173392",
       "itunes_duration": "57:03",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "button"
@@ -1695,9 +1794,8 @@
       "enclosure_length": "62805803",
       "itunes_duration": "01:05:01",
       "speakers": [
-        "Hugh Dennis",
-        "Steve Pemberton",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "girl",
@@ -1716,10 +1814,8 @@
       "enclosure_length": "56546357",
       "itunes_duration": "58:31",
       "speakers": [
-        "Sally Phillips",
-        "Greg Hug",
-        "John Robins",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "buttock",
@@ -1738,7 +1834,8 @@
       "enclosure_length": "60609232",
       "itunes_duration": "01:02:46",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dubious",
@@ -1757,7 +1854,8 @@
       "enclosure_length": "54602150",
       "itunes_duration": "56:31",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taste",
@@ -1778,8 +1876,8 @@
       "itunes_duration": "56:55",
       "speakers": [
         "John Robins",
-        "goof Jack-related",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -1800,8 +1898,8 @@
       "enclosure_length": "62650346",
       "itunes_duration": "01:04:55",
       "speakers": [
-        "John Robins",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "sophie"
@@ -1819,8 +1917,8 @@
       "enclosure_length": "62902382",
       "itunes_duration": "01:05:11",
       "speakers": [
-        "Les Bub",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "penny"
@@ -1838,7 +1936,8 @@
       "enclosure_length": "66864560",
       "itunes_duration": "01:09:19",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taskmaster",
@@ -1857,8 +1956,9 @@
       "enclosure_length": "57549845",
       "itunes_duration": "59:38",
       "speakers": [
-        "Steve Pemberton",
-        "Christine Macdonald"
+        "Say Cha",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": []
     },
@@ -1874,7 +1974,8 @@
       "enclosure_length": "55905879",
       "itunes_duration": "57:56",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "buck"
@@ -1892,7 +1993,8 @@
       "enclosure_length": "62089678",
       "itunes_duration": "01:04:23",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "dancing",
@@ -1911,7 +2013,8 @@
       "enclosure_length": "55961330",
       "itunes_duration": "58:02",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "prolapse"
@@ -1929,8 +2032,8 @@
       "enclosure_length": "60532653",
       "itunes_duration": "01:02:48",
       "speakers": [
-        "John’s Howdah",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "bonnet",
@@ -1949,8 +2052,8 @@
       "enclosure_length": "56010036",
       "itunes_duration": "58:07",
       "speakers": [
-        "John Robins",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "jacksie"
@@ -1968,8 +2071,10 @@
       "enclosure_length": "64054549",
       "itunes_duration": "01:06:30",
       "speakers": [
-        "John’s risky egg",
-        "Christine Macdonald"
+        "Presto Fandingo Dango",
+        "Taskmaster Mount Rushmore",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "presto",
@@ -1990,7 +2095,8 @@
       "enclosure_length": "60493394",
       "itunes_duration": "01:02:48",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "rococo",
@@ -2009,8 +2115,8 @@
       "enclosure_length": "49961079",
       "itunes_duration": "52:03",
       "speakers": [
-        "Rhod Gilbert",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "geoff",
@@ -2030,7 +2136,8 @@
       "itunes_duration": "48:38",
       "speakers": [
         "Alex Horne",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "little",
@@ -2051,7 +2158,8 @@
       "itunes_duration": "49:24",
       "speakers": [
         "Mule Weed",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "mule",
@@ -2071,9 +2179,9 @@
       "enclosure_length": "54714056",
       "itunes_duration": "57:00",
       "speakers": [
-        "Bob Mortimer",
-        "Satsuma Complex",
-        "Christine Macdonald"
+        "Pudding Tell",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "stat",
@@ -2092,9 +2200,8 @@
       "enclosure_length": "51247913",
       "itunes_duration": "53:23",
       "speakers": [
-        "Bridget Christie Walking",
-        "Hugh Dennis",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "sausage",
@@ -2113,10 +2220,10 @@
       "enclosure_length": "56538880",
       "itunes_duration": "58:54",
       "speakers": [
-        "David Ha",
-        "Alex Horne",
-        "Bob Mortimer",
-        "Christine Macdonald"
+        "Special Guest",
+        "David Ha Fluff",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -2136,9 +2243,8 @@
       "enclosure_length": "54746655",
       "itunes_duration": "57:02",
       "speakers": [
-        "Richard Osman",
-        "Katherine Ryan",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": []
     },
@@ -2154,10 +2260,8 @@
       "enclosure_length": "52000303",
       "itunes_duration": "54:10",
       "speakers": [
-        "Alice Levine",
-        "Bob Mortimer",
-        "Satsuma Complex",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "yoga"
@@ -2175,9 +2279,8 @@
       "enclosure_length": "48708837",
       "itunes_duration": "50:44",
       "speakers": [
-        "Lou Sanders",
-        "Steve Pemberton",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "noel",
@@ -2196,7 +2299,9 @@
       "enclosure_length": "57174198",
       "itunes_duration": "59:33",
       "speakers": [
-        "Christine Macdonald"
+        "Special Take",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "champion",
@@ -2216,7 +2321,9 @@
       "enclosure_length": "49412260",
       "itunes_duration": "51:28",
       "speakers": [
-        "Christine Macdonald"
+        "New Years Treat Special",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "years",
@@ -2236,8 +2343,10 @@
       "enclosure_length": "39484074",
       "itunes_duration": "41:08",
       "speakers": [
-        "Ray O'Leary",
-        "Christine Macdonald"
+        "International Guest",
+        "Leary Put",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -2256,9 +2365,10 @@
       "enclosure_length": "51273460",
       "itunes_duration": "53:25",
       "speakers": [
-        "Melanie Bracewell",
-        "Ray O'Leary",
-        "Christine Macdonald"
+        "International Guest",
+        "Melanie Bracewell Tell",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -2279,7 +2389,9 @@
       "enclosure_length": "52483828",
       "itunes_duration": "54:40",
       "speakers": [
-        "Christine Macdonald"
+        "Absolute Casserole Put",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "absolute",
@@ -2298,7 +2410,9 @@
       "enclosure_length": "43892679",
       "itunes_duration": "45:43",
       "speakers": [
-        "Christine Macdonald"
+        "Recount Put",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "recount"
@@ -2316,7 +2430,9 @@
       "enclosure_length": "40173666",
       "itunes_duration": "41:51",
       "speakers": [
-        "Christine Macdonald"
+        "Mighty Guff Give",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "mighty",
@@ -2336,8 +2452,8 @@
       "itunes_duration": "53:33",
       "speakers": [
         "Alex Horne",
-        "Susan Wokoma",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "country",
@@ -2356,8 +2472,8 @@
       "enclosure_length": "51256280",
       "itunes_duration": "53:24",
       "speakers": [
-        "overtake Sam",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "classic"
@@ -2375,7 +2491,10 @@
       "enclosure_length": "50837933",
       "itunes_duration": "52:57",
       "speakers": [
-        "Christine Macdonald"
+        "Hundred Quid",
+        "Hundred Quid Wrap",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "quid"
@@ -2393,7 +2512,8 @@
       "enclosure_length": "48533708",
       "itunes_duration": "50:33",
       "speakers": [
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "reservoir"
@@ -2411,8 +2531,10 @@
       "enclosure_length": "54291100",
       "itunes_duration": "56:33",
       "speakers": [
-        "Susie Dent",
-        "Christine Macdonald"
+        "Special Guest",
+        "Susie Dent Make",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -2433,7 +2555,9 @@
       "enclosure_length": "54638000",
       "itunes_duration": "56:55",
       "speakers": [
-        "Christine Macdonald"
+        "Very Spurious Knock",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "spurious"
@@ -2451,8 +2575,10 @@
       "enclosure_length": "47796422",
       "itunes_duration": "49:47",
       "speakers": [
-        "Biggles Likes",
-        "Christine Macdonald"
+        "Why Am",
+        "Eating Pants Get",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "pant"
@@ -2470,8 +2596,9 @@
       "enclosure_length": "37762074",
       "itunes_duration": "39:20",
       "speakers": [
-        "Chain Bastard",
-        "Christine Macdonald"
+        "Taskmaster Clean",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "magna",
@@ -2492,8 +2619,8 @@
       "itunes_duration": "47:45",
       "speakers": [
         "Susan Did Shut",
-        "Air Max",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "susan"
@@ -2511,7 +2638,9 @@
       "enclosure_length": "41973003",
       "itunes_duration": "43:43",
       "speakers": [
-        "Christine Macdonald"
+        "Definitely Can",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "definitely",
@@ -2530,7 +2659,10 @@
       "enclosure_length": "36192255",
       "itunes_duration": "37:42",
       "speakers": [
-        "Christine Macdonald"
+        "Legally Not Allowed",
+        "Keep Musical Instruments Ask",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "musical",
@@ -2549,9 +2681,9 @@
       "enclosure_length": "39870486",
       "itunes_duration": "41:32",
       "speakers": [
+        "Host Grab",
         "Jenny Eclair",
-        "Will Jack",
-        "Christine Macdonald"
+        "Jack Bernhardt"
       ],
       "topics": [
         "brace",
@@ -2572,9 +2704,8 @@
       "itunes_duration": "40:43",
       "speakers": [
         "Lou Sanders",
-        "Alex Horne-style",
-        "Plus Lou",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "music"
@@ -2592,8 +2723,10 @@
       "enclosure_length": "31529526",
       "itunes_duration": "32:51",
       "speakers": [
-        "tv Watch",
-        "Christine Macdonald"
+        "Drilling Down",
+        "Narrative Wrap",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "narrative"
@@ -2611,10 +2744,8 @@
       "enclosure_length": "36362467",
       "itunes_duration": "37:53",
       "speakers": [
-        "Ed Gamble",
-        "Joel Porter",
-        "tv Watch",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taskmaster",
@@ -2634,10 +2765,8 @@
       "enclosure_length": "27356759",
       "itunes_duration": "28:30",
       "speakers": [
-        "Tom Cashman",
-        "Ed Gamble",
-        "tv Watch",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taskmaster",
@@ -2658,9 +2787,8 @@
       "itunes_duration": "29:54",
       "speakers": [
         "Andy Kick",
-        "Chris Ramsey",
-        "tv Watch",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "andy"
@@ -2678,8 +2806,9 @@
       "enclosure_length": "24739337",
       "itunes_duration": "25:46",
       "speakers": [
-        "tv Watch",
-        "Christine Macdonald"
+        "Full Stat Cream Boot",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "stat",
@@ -2698,8 +2827,8 @@
       "enclosure_length": "27001468",
       "itunes_duration": "28:08",
       "speakers": [
-        "tv Watch",
-        "Christine Macdonald"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "secret",
@@ -2720,9 +2849,11 @@
       "enclosure_length": "37867138",
       "itunes_duration": "39:27",
       "speakers": [
-        "justiceforArlo Lou",
-        "tv Watch",
-        "Christine Macdonald"
+        "Special Guest",
+        "Phoebe Eclair",
+        "Powell Brush",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -2744,9 +2875,9 @@
       "enclosure_length": "29229298",
       "itunes_duration": "30:27",
       "speakers": [
-        "Archangel Michael",
-        "tv Watch",
-        "Christine Macdonald"
+        "Go Ask",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "noni",
@@ -2765,8 +2896,9 @@
       "enclosure_length": "33968905",
       "itunes_duration": "35:23",
       "speakers": [
-        "tv Watch",
-        "Christine Macdonald"
+        "Fight Big Taskmaster Dig",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taskmaster"
@@ -2784,8 +2916,9 @@
       "enclosure_length": "26183898",
       "itunes_duration": "27:16",
       "speakers": [
-        "tv Watch",
-        "Christine Macdonald"
+        "Not Rename Kites Wind",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "rename",
@@ -2804,8 +2937,9 @@
       "enclosure_length": "27228219",
       "itunes_duration": "28:22",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Parrot Gold Cup",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "parrot",
@@ -2824,8 +2958,9 @@
       "enclosure_length": "36062642",
       "itunes_duration": "37:34",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Hands Off Panky",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "hand",
@@ -2844,8 +2979,8 @@
       "enclosure_length": "38595117",
       "itunes_duration": "40:12",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -2867,8 +3002,9 @@
       "enclosure_length": "38353894",
       "itunes_duration": "39:57",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Certified Goof Charge",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "certified",
@@ -2887,9 +3023,10 @@
       "enclosure_length": "53332731",
       "itunes_duration": "55:33",
       "speakers": [
-        "Nina Oyama",
-        "tv Watch",
-        "Ben Drayton"
+        "International Guest",
+        "Nina Oyama Reply",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -2910,8 +3047,10 @@
       "enclosure_length": "39124251",
       "itunes_duration": "40:45",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Not Challenge",
+        "Nonsense Let",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "nonsense"
@@ -2929,9 +3068,10 @@
       "enclosure_length": "72275905",
       "itunes_duration": "01:15:17",
       "speakers": [
-        "Danielle Walker",
-        "tv Watch",
-        "Ben Drayton"
+        "International Guest",
+        "Danielle Walker Saddle",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -2952,9 +3092,9 @@
       "enclosure_length": "41888169",
       "itunes_duration": "43:38",
       "speakers": [
-        "Alex Horne",
-        "tv Watch",
-        "Ben Drayton"
+        "Washing Machine Slather",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "gumball",
@@ -2975,8 +3115,8 @@
       "itunes_duration": "51:38",
       "speakers": [
         "Debbie McGee",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -3000,10 +3140,8 @@
       "enclosure_length": "36250729",
       "itunes_duration": "37:46",
       "speakers": [
-        "Greg Jenner",
-        "Greg Davis",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -3024,8 +3162,11 @@
       "enclosure_length": "30748323",
       "itunes_duration": "32:02",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Four Legs",
+        "Two Eyes",
+        "Drive Grip",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "legs",
@@ -3044,10 +3185,9 @@
       "enclosure_length": "51598187",
       "itunes_duration": "53:45",
       "speakers": [
-        "Ed Gamble",
-        "Nicolaes Tulp",
-        "tv Watch",
-        "Ben Drayton"
+        "Ed Gamble Smack",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "podcast",
@@ -3067,10 +3207,8 @@
       "enclosure_length": "51072410",
       "itunes_duration": "53:12",
       "speakers": [
-        "Tom Cashman",
-        "Tom Gleeson",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -3090,10 +3228,8 @@
       "enclosure_length": "43225236",
       "itunes_duration": "45:02",
       "speakers": [
-        "Jack Jack",
-        "Jessica Knappett",
-        "tv Anna",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "person",
@@ -3112,10 +3248,8 @@
       "enclosure_length": "28415273",
       "itunes_duration": "29:36",
       "speakers": [
-        "Joel Porter",
-        "Jack Stats",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3135,10 +3269,10 @@
       "enclosure_length": "38104396",
       "itunes_duration": "39:42",
       "speakers": [
-        "Ed Gamble",
-        "Jack Bernhardt",
-        "tv Watch",
-        "Ben Drayton"
+        "International Guest",
+        "Urzila Carlson Chomp",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -3159,11 +3293,8 @@
       "enclosure_length": "29631080",
       "itunes_duration": "30:52",
       "speakers": [
-        "Ginger Fox",
-        "dick dick",
-        "Alex Horne",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "board",
@@ -3183,12 +3314,9 @@
       "enclosure_length": "31094407",
       "itunes_duration": "32:23",
       "speakers": [
-        "Sam Montague",
-        "squirrel doc",
-        "Will Sam",
-        "Alex Horne",
-        "tv Watch",
-        "Ben Drayton"
+        "Photography Close",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3209,10 +3337,8 @@
       "itunes_duration": "37:55",
       "speakers": [
         "Fern Brady Pucker",
-        "Fern Brady",
-        "Greg Davies",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "fern",
@@ -3231,9 +3357,8 @@
       "enclosure_length": "33130278",
       "itunes_duration": "34:31",
       "speakers": [
-        "Tom Furniss",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3253,9 +3378,10 @@
       "enclosure_length": "44275982",
       "itunes_duration": "46:07",
       "speakers": [
-        "Guy Montgomery",
-        "tv Watch",
-        "Ben Drayton"
+        "International Guest",
+        "Guy Montgomery Put",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -3275,9 +3401,8 @@
       "enclosure_length": "46190651",
       "itunes_duration": "48:07",
       "speakers": [
-        "Sam Smith",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3297,9 +3422,9 @@
       "enclosure_length": "35181998",
       "itunes_duration": "36:39",
       "speakers": [
-        "Mark Watson",
-        "tv Watch",
-        "Ben Drayton"
+        "Not Allowed Knives Mirror",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "knife"
@@ -3317,8 +3442,8 @@
       "enclosure_length": "41279232",
       "itunes_duration": "43:00",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "woman",
@@ -3338,11 +3463,8 @@
       "enclosure_length": "47723297",
       "itunes_duration": "49:43",
       "speakers": [
-        "Tom Perrett",
-        "Taskmaster Head",
-        "Greg Davis",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3362,11 +3484,8 @@
       "itunes_duration": "29:28",
       "speakers": [
         "holy moley",
-        "Jack Frost",
-        "Phil Wang",
-        "Ding Dong Merrily",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "christmas",
@@ -3385,8 +3504,9 @@
       "enclosure_length": "35519287",
       "itunes_duration": "37:00",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Taskmaster Education Pop",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taskmaster",
@@ -3406,11 +3526,8 @@
       "itunes_duration": "42:31",
       "speakers": [
         "Katherine Green Fill",
-        "Katherine Green",
-        "Taskmaster Head",
-        "Tree Wizard",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -3432,10 +3549,10 @@
       "enclosure_length": "48521593",
       "itunes_duration": "50:33",
       "speakers": [
-        "Ian Dury",
-        "Greg Davies",
-        "tv Watch",
-        "Ben Drayton"
+        "Special Guest",
+        "Greg Davies Please",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -3456,11 +3573,8 @@
       "enclosure_length": "36125772",
       "itunes_duration": "37:38",
       "speakers": [
-        "Taskmaster Head",
-        "Tree Wizard",
-        "Genghis Khan",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3480,11 +3594,10 @@
       "enclosure_length": "38202617",
       "itunes_duration": "39:48",
       "speakers": [
-        "Angella Dravid",
-        "Jack Bernhardt",
-        "Taskmaster Head",
-        "tv Watch",
-        "Ben Drayton"
+        "International Guest",
+        "Angella Dravid Take",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -3506,11 +3619,8 @@
       "itunes_duration": "46:59",
       "speakers": [
         "Peter Piper",
-        "Alex Horne",
-        "Taskmaster Head",
-        "Mike Wozniak",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -3531,9 +3641,9 @@
       "enclosure_length": "48204794",
       "itunes_duration": "50:13",
       "speakers": [
-        "Taskmaster Head",
-        "tv Watch",
-        "Ben Drayton"
+        "Producer Daisy Oh",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3553,9 +3663,8 @@
       "enclosure_length": "40031192",
       "itunes_duration": "41:42",
       "speakers": [
-        "Taskmaster Head",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "pronounce",
@@ -3574,10 +3683,9 @@
       "enclosure_length": "46272541",
       "itunes_duration": "48:12",
       "speakers": [
-        "Alan Davies",
-        "Alex Horne",
-        "tv Watch",
-        "Ben Drayton"
+        "Reject Perfectionism Stop",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "reject",
@@ -3596,8 +3704,11 @@
       "enclosure_length": "43649047",
       "itunes_duration": "45:28",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Equal Mix",
+        "Utterly Baffled",
+        "Happy Unbolt",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "utterly",
@@ -3616,11 +3727,8 @@
       "enclosure_length": "41756948",
       "itunes_duration": "43:30",
       "speakers": [
-        "Taskmaster Moments",
-        "Jo Brand",
-        "Mike Wozniak",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3640,10 +3748,10 @@
       "enclosure_length": "39708936",
       "itunes_duration": "41:22",
       "speakers": [
-        "Asim Chaudhry",
-        "Msn Messenger",
-        "tv Watch",
-        "Ben Drayton"
+        "International Guest",
+        "Suurmestari Give",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -3665,11 +3773,8 @@
       "speakers": [
         "Chesham FC",
         "Lou Sanders",
-        "Alex Horne",
-        "Tim Key",
-        "Paul Williams",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "great",
@@ -3689,8 +3794,9 @@
       "enclosure_length": "43041738",
       "itunes_duration": "44:50",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Dru Masters Hark",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3709,8 +3815,10 @@
       "enclosure_length": "21302831",
       "itunes_duration": "22:11",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Special Guest",
+        "Rosalind Roll",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -3730,8 +3838,8 @@
       "enclosure_length": "34023425",
       "itunes_duration": "35:26",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes"
@@ -3749,9 +3857,9 @@
       "enclosure_length": "40894266",
       "itunes_duration": "42:36",
       "speakers": [
-        "Doc Brown",
-        "tv Watch",
-        "Ben Drayton"
+        "Baguette Start",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "baguette"
@@ -3769,12 +3877,10 @@
       "enclosure_length": "48963812",
       "itunes_duration": "51:00",
       "speakers": [
-        "Katherine Ryan",
-        "Off Menu",
-        "James Acaster",
-        "Ed Gamble",
-        "tv Watch",
-        "Ben Drayton"
+        "Special Guest",
+        "Chesham Wait",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "special",
@@ -3795,8 +3901,8 @@
       "enclosure_length": "47121876",
       "itunes_duration": "49:05",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "alex",
@@ -3816,8 +3922,8 @@
       "itunes_duration": "42:49",
       "speakers": [
         "Bonjour mon",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "argument"
@@ -3835,9 +3941,9 @@
       "enclosure_length": "41598937",
       "itunes_duration": "43:20",
       "speakers": [
-        "Will Lou",
-        "tv Watch",
-        "Ben Drayton"
+        "Australians Wowzers",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "australians"
@@ -3855,9 +3961,8 @@
       "enclosure_length": "30132237",
       "itunes_duration": "31:23",
       "speakers": [
-        "David Sundin",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -3876,10 +3981,9 @@
       "enclosure_length": "42478327",
       "itunes_duration": "44:15",
       "speakers": [
-        "Mark Olver",
-        "Alex Horne",
-        "tv Watch",
-        "Ben Drayton"
+        "Mark Olver Hear",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "scenes",
@@ -3899,8 +4003,8 @@
       "enclosure_length": "32958041",
       "itunes_duration": "34:20",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "smooch",
@@ -3919,9 +4023,9 @@
       "enclosure_length": "25392962",
       "itunes_duration": "26:27",
       "speakers": [
-        "Alex Horne",
-        "tv Watch",
-        "Ben Drayton"
+        "Buckle Up Bunty Polish",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "bunty"
@@ -3940,8 +4044,8 @@
       "itunes_duration": "35:11",
       "speakers": [
         "Spreadsheet Noises",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "spreadsheet",
@@ -3960,11 +4064,9 @@
       "enclosure_length": "27903685",
       "itunes_duration": "29:04",
       "speakers": [
-        "Sophie Duker",
-        "Chris Ramsey",
-        "Olli Wermskog",
-        "tv Watch",
-        "Ben Drayton"
+        "International Guest",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "international",
@@ -3985,9 +4087,10 @@
       "enclosure_length": "27537944",
       "itunes_duration": "28:41",
       "speakers": [
-        "Chris Ramsey",
-        "tv Watch",
-        "Ben Drayton"
+        "Man About",
+        "Horse Pop",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "horse"
@@ -4005,9 +4108,9 @@
       "enclosure_length": "43138717",
       "itunes_duration": "44:56",
       "speakers": [
-        "Chris Ramsey",
-        "tv Watch",
-        "Ben Drayton"
+        "Same Time Fling",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "informative",
@@ -4028,10 +4131,8 @@
       "itunes_duration": "39:22",
       "speakers": [
         "Fondant Thrones Buckle",
-        "Sophie Duker",
-        "Bridget Christie",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "fondant",
@@ -4051,8 +4152,8 @@
       "itunes_duration": "29:57",
       "speakers": [
         "Paul Williams",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "paul",
@@ -4071,9 +4172,8 @@
       "enclosure_length": "26749667",
       "itunes_duration": "27:52",
       "speakers": [
-        "Alex Horne",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "salesman"
@@ -4091,8 +4191,8 @@
       "enclosure_length": "17440030",
       "itunes_duration": "18:10",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "onion",
@@ -4111,8 +4211,9 @@
       "enclosure_length": "27369915",
       "itunes_duration": "28:31",
       "speakers": [
-        "tv Watch",
-        "Ben Drayton"
+        "Transatlantic Pies No",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "transatlantic",
@@ -4131,9 +4232,8 @@
       "enclosure_length": "19348018",
       "itunes_duration": "20:09",
       "speakers": [
-        "Chris Ramsey",
-        "tv Watch",
-        "Ben Drayton"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "lunchbox",
@@ -4152,10 +4252,10 @@
       "enclosure_length": "19462939",
       "itunes_duration": "20:16",
       "speakers": [
-        "Lou Sanders",
-        "Jack Bernhardt",
-        "Taskmaster Superfans",
-        "Greg Davies"
+        "Firsts Welcome",
+        "Pantsuit Pri",
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "first"
@@ -4173,8 +4273,8 @@
       "enclosure_length": "1183980",
       "itunes_duration": "01:14",
       "speakers": [
-        "Lou Sanders",
-        "Taskmaster Superfans"
+        "Jenny Eclair",
+        "Jack Bernhardt"
       ],
       "topics": [
         "taskmaster",
@@ -4189,205 +4289,206 @@
 
 ## Episodes (newest first)
 
-- 2026-02-16 — Leylandii the Menace - S14, Ep. 4
-- 2026-02-09 — Calm Down Dear? - S1, Ep.6 — speakers: Calm Down Dear
-- 2026-02-02 — Loser of Losers and Ultimate Chaos
-- 2026-01-26 — One Less Profiterole - S6, Ep. 10
-- 2026-01-19 — A Biddable Boy - Champion of Champions 1, Ep.2
-- 2026-01-12 — 2026 New Years Treat - Part Two
-- 2026-01-05 — 2026 New Years Treat - Part One
-- 2025-12-29 — 2025 Holiday Post Bag Special — speakers: Rose Matafeo
-- 2025-12-22 — Champion of Champions #4 — speakers: Cilla Bowie
-- 2025-12-15 — You Shouldn't Pay For Miracles - Champion of Champions 1, Ep. 1 — speakers: Maisie Adam, Bob Mortimer
-- 2025-12-07 — After Dinner Speech with Special Guest Ania Magliano — speakers: Dinner Speech
-- 2025-12-01 — Five Nights in Chorley With Special Guest Phil Ellis — speakers: Phil Ellis
-- 2025-11-24 — Return of the Record Breakers! - Series 20 Stats Debrief — speakers: Fantasy Taskmaster, Phil Ellis
-- 2025-11-17 — Splash of Bernoulli - S20, Ep.10 *GRAND FINAL*
-- 2025-11-10 — Cat Calendar Classics - S20, Ep.9
-- 2025-11-03 — Hedgehog No - S20, Ep.8
-- 2025-10-27 — Ride With It, Rip With It, Run With It - S20, Ep.7
-- 2025-10-20 — Winnie the Pooh's Dark Side - S20, Ep.6 — speakers: Fantasy Taskmaster
-- 2025-10-13 — Dastardly Daring-Do's - S20, Ep. 5 — speakers: Fantasy Taskmaster
-- 2025-10-06 — Thirty-Five Grand is Gorgeous - S20, Ep.4 — speakers: Fantasy Taskmaster
-- 2025-09-29 — Daddy Needs a New Pair of Shoes - S20, Ep.3 — speakers: Daddy Needs, Fantasy Taskmaster
-- 2025-09-22 — Why Not Lick Human Teeth - S20, Ep.2 — speakers: Jack Dee, Fantasy Taskmaster
-- 2025-09-15 — Mad Cap Bunch - S20, Ep.1 — speakers: Taskmaster App
-- 2025-09-08 — SERIES 20 STATS AND PREDICTIONS — speakers: Jack Bernhardt, Taskmaster App
-- 2025-09-01 — Cheeky Boy Tim - S1, Ep.1 — speakers: Jenny goofed, Taskmaster App
-- 2025-08-25 — You Can’t Mark A Double Down - S11, Ep.1 — speakers: Taskmaster App
-- 2025-08-18 — C'mon Patatas, C'mon - S2, Ep.4 — speakers: Katherine Ryan
-- 2025-08-11 — Sudoku for a Poodle - S12, Ep.6 — speakers: Victoria Coren-Mitchell, Jason Mantzoukas, Taskmaster App
-- 2025-08-04 — A Mighty Splash - S4, Ep. 4 — speakers: Taskmaster App
-- 2025-07-28 — Legistlation, Actually - S7, Ep.6 — speakers: Taskmaster App
-- 2025-07-21 — Catching Up With The UK Taskmaster Production Team — speakers: Taskmaster App
-- 2025-07-14 — Done, But Not Dusted - Series 19 Stats Debrief — speakers: Taskmaster App
-- 2025-07-07 — Dinners With My Dad - Series 19 Finale — speakers: Rosie Ramsey, Taskmaster App
-- 2025-06-30 — Adventures in Jelly - S19, Ep. 9 — speakers: Taskmaster App
-- 2025-06-23 — A Pirate That Went Missing For a While - S19, Ep.8 — speakers: Taskmaster App
-- 2025-06-16 — Queen of the Two Points - S19, Ep.7 — speakers: Jack Bernhardt, Taskmaster App, Christine Macdonald
-- 2025-06-09 — And Whales Have Legs - S19, Ep.6 — speakers: Taskmaster App, Christine Macdonald
-- 2025-06-02 — Never Hid a Piece Down My Pants - S19, Ep.5 — speakers: Taskmaster App, Christine Macdonald
-- 2025-05-26 — Demolition Takes a Little Bit of Time - S19, Ep.4 — speakers: Taskmaster App, Christine Macdonald
-- 2025-05-19 — Possibly Too Much Yield - S19 Ep.3 — speakers: Steve Pemberton, Taskmaster App, Christine Macdonald
-- 2025-05-12 — Nerdiness by Osmosis - S19 Ep.2 — speakers: Taskmaster App, Christine Macdonald
-- 2025-05-05 — Grazing on Raisins - S19 Ep 1 **with special guest Andy Zaltzman** — speakers: Andy Zaltzman, Taskmaster App, Christine Macdonald
-- 2025-04-28 — The Trophy Saw the Curve of the Earth - CoC 2 (with special guest Lou Sanders) — speakers: Lou Sanders, Christine Macdonald
-- 2025-04-21 — SERIES 19 STATS AND PREDICTIONS EPISODE — speakers: Christine Macdonald
-- 2025-04-14 — You Can't Argue With an Owl - S13, Ep.4 — speakers: Ardal O'Hanlan, Christine Macdonald
-- 2025-04-07 — Where Is The Little Beep? - S12, Ep.1 — speakers: Christine Macdonald
-- 2025-03-31 — One Could Split Hairs - TM NZ S2, Ep. 2 — speakers: Split Hairs, Christine Macdonald
-- 2025-03-24 — Dinosaur Purist - S11, Ep.10 — speakers: George Washington, Christine Macdonald
-- 2025-03-17 — Biba…as in Justin? - S2, Ep.2 — speakers: Christine Macdonald
-- 2025-03-10 — Eggs, Pineapple, Cluedo - S9, Ep.3 — speakers: Christine Macdonald
-- 2025-03-03 — The Laminating Landlady - S7, Ep.10 — speakers: Alex Horne, Christine Macdonald
-- 2025-02-24 — Blow a Bubble With Your Arse - S6, Ep9 — speakers: Tim Vine, Christine Macdonald
-- 2025-02-17 — Special Guest - Kellie Hogben, winner of the Littlest Alex Horne — speakers: Kellie Hogben, Alex Horne, Christine Macdonald
-- 2025-02-10 — Sally Was a Camel with One Hump - S5, Ep5 — speakers: Charlotte Ritchie, Christine Macdonald
-- 2025-02-03 — Attention Seeking Headgear - S14, Ep7 — speakers: Christine Macdonald
-- 2025-01-27 — More Likely to Swim With Wayne Rooney - S8, Ep8 — speakers: Christine Macdonald
-- 2025-01-20 — Throwing Lemons Randomly - S9 Ep9 — speakers: Christine Macdonald
-- 2025-01-13 — If You're Doing It Properly - S12 Ep4 — speakers: Christine Macdonald
-- 2025-01-06 — Taskmaster: The People's Podcast - Best of 2024 — speakers: Alex Horne, Christine Macdonald
-- 2024-12-30 — 2025 New Years Treat with Kojey Radical — speakers: Kojey Radical Merry Christmas, Kojey Radical, Christine Macdonald
-- 2024-12-23 — Junior Taskmaster with special guest Phaedra *NO SPOILERS* — speakers: Christine Macdonald
-- 2024-12-16 — Hot Dog! It's our Holiday Post Bag Special — speakers: Christine Macdonald
-- 2024-12-09 — Keeping the Dribbles In - Series 7, Episode 3 — speakers: Absolute Casserole, Christine Macdonald
-- 2024-12-02 — The Mento Method Boys - Series 8, Episode 3 — speakers: Absolute Casserole, Christine Macdonald
-- 2024-11-25 — Series 18 Big Stats Send-Off — speakers: Nick Mohammed, Absolute Casserole, Christine Macdonald
-- 2024-11-18 — The Final Hot Dog - S18 EP10 — speakers: Christine Macdonald
-- 2024-11-11 — The Luck of Babatunde - S18 EP9 — speakers: Andy Zaltzman, Christine Macdonald
-- 2024-11-04 — A Pro Lobster Podcast - S18 EP8 — speakers: Alex blush, Christine Macdonald
-- 2024-10-28 — For The Rest of Your Life, Jack - S18 EP7 — speakers: Christine Macdonald
-- 2024-10-21 — Banana Boy, Mr. Poo - S18 EP6 (feat. special guest from production Becky Cant) — speakers: Banana Boy, Christine Macdonald
-- 2024-10-14 — Your Mum's Just Like - S18 EP5 — speakers: Christine Macdonald
-- 2024-10-07 — Pushing the Envelope - S18 EP4 — speakers: Christine Macdonald
-- 2024-09-30 — Record Breakers! - S18 EP3 — speakers: Record Breakers, Christine Macdonald
-- 2024-09-23 — Like Guy Fawkes, a Lot at Stake - S18 EP2 — speakers: Guy Fawkes, Christine Macdonald
-- 2024-09-16 — Bubbles and Love Bites - S18 EP1 — speakers: Christine Macdonald
-- 2024-09-09 — Three More Sleeps! (And a Series 18 Stats Deep Dive) — speakers: Christine Macdonald
-- 2024-09-03 — Series 18 Predictions with Lou Sanders — speakers: Lou Sanders, Christine Macdonald
-- 2024-08-27 — Shrunken Onesie - S7, Ep. 6 — speakers: Christine Macdonald
-- 2024-08-19 — Special Guest - Nick Mohammed — speakers: Nick Mohammed, Christine Macdonald
-- 2024-08-12 — Spillage of Tears - S10, Ep.10 — speakers: Christine Macdonald
-- 2024-08-05 — Who's Greg? - S13, Ep.7 — speakers: Jeremy Allen White, Julian Clary, Christine Macdonald
-- 2024-07-29 — It’s Sort of My Birthday Too - S12, Ep.5 — speakers: Christine Macdonald
-- 2024-07-22 — Comedy Cul-De-Sac - S11, Ep.4 — speakers: Charlotte Ritchie, Aussie Taskmaster, James Acaster, Christine Macdonald
-- 2024-07-15 — Sharp as a Button - S9, Ep.2 — speakers: Christine Macdonald
-- 2024-07-09 — The Bravest Little Girl in the World - S4, Ep.3 — speakers: Hugh Dennis, Steve Pemberton, Christine Macdonald
-- 2024-07-01 — Beat My Buttock Table - S5, Ep.3 — speakers: Sally Phillips, Greg Hug, John Robins, Christine Macdonald
-- 2024-06-24 — Say Dubious Properly - S10, Ep.7 — speakers: Christine Macdonald
-- 2024-06-17 — Taste Test Adjacent - S14, Ep3. — speakers: Christine Macdonald
-- 2024-06-10 — Special Guest - John Robins — speakers: John Robins, goof Jack-related, Christine Macdonald
-- 2024-06-04 — What Sophie Did Next - S17, Ep.10 — speakers: John Robins, Christine Macdonald
-- 2024-05-27 — The Penny - S17, Ep.9 — speakers: Les Bub, Christine Macdonald
-- 2024-05-20 — Taskmaster Virtual Reality - S17, Ep.8 — speakers: Christine Macdonald
-- 2024-05-13 — You Say Cha-ray-des I Say Cha-rah-des - S17, Ep. 7 — speakers: Steve Pemberton, Christine Macdonald
-- 2024-05-06 — Buck Up! - S17, Ep.6 — speakers: Christine Macdonald
-- 2024-04-29 — Never Trust a Dancing Vole - S17, Ep.5 — speakers: Christine Macdonald
-- 2024-04-23 — Contain the Prolapse - S17 Ep.4 — speakers: Christine Macdonald
-- 2024-04-15 — Bit of Bonnet Drama - S17, Ep.3 — speakers: John’s Howdah, Christine Macdonald
-- 2024-04-08 — He Poked it in the Jacksie - S17, Ep. 2 — speakers: John Robins, Christine Macdonald
-- 2024-04-02 — Presto Fandingo Dango - it's Series 17! — speakers: John’s risky egg, Christine Macdonald
-- 2024-03-25 — Be Really Careful With Your Rococo Mirrors — speakers: Christine Macdonald
-- 2024-03-18 — Geoff Do You Want To Come Sit On My Suitcase — speakers: Rhod Gilbert, Christine Macdonald
-- 2024-03-12 — Our 100th episode featuring Little Alex Horne — speakers: Alex Horne, Christine Macdonald
-- 2024-03-04 — A Mule Weed in a Glass — speakers: Mule Weed, Christine Macdonald
-- 2024-02-26 — Stats for Pudding — speakers: Bob Mortimer, Satsuma Complex, Christine Macdonald
-- 2024-02-19 — Sausage Mixer — speakers: Bridget Christie Walking, Hugh Dennis, Christine Macdonald
-- 2024-02-12 — Special Guest - David Ha — speakers: David Ha, Alex Horne, Bob Mortimer, Christine Macdonald
-- 2024-02-06 — Punching Piñatas — speakers: Richard Osman, Katherine Ryan, Christine Macdonald
-- 2024-01-29 — If This Was Yoga, You Probably Couldn’t Do It — speakers: Alice Levine, Bob Mortimer, Satsuma Complex, Christine Macdonald
-- 2024-01-22 — Well Noel Did Marry a Duck — speakers: Lou Sanders, Steve Pemberton, Christine Macdonald
-- 2024-01-15 — Champion of Champions 3 Special — speakers: Christine Macdonald
-- 2024-01-08 — A New Years Treat Special — speakers: Christine Macdonald
-- 2024-01-02 — International Guest - Ray O'Leary — speakers: Ray O'Leary, Christine Macdonald
-- 2023-12-25 — International Guest - Melanie Bracewell — speakers: Melanie Bracewell, Ray O'Leary, Christine Macdonald
-- 2023-12-18 — Absolute Casserole — speakers: Christine Macdonald
-- 2023-12-11 — Demanding A Recount — speakers: Christine Macdonald
-- 2023-12-04 — A Mighty Guff — speakers: Christine Macdonald
-- 2023-11-27 — By a Country Mile — speakers: Alex Horne, Susan Wokoma, Christine Macdonald
-- 2023-11-20 — It's a Classic 72 — speakers: overtake Sam, Christine Macdonald
-- 2023-11-13 — A Hundred Quid is a Hundred Quid — speakers: Christine Macdonald
-- 2023-11-06 — It's Very Reservoir Dogs — speakers: Christine Macdonald
-- 2023-10-30 — Special Guest - Susie Dent — speakers: Susie Dent, Christine Macdonald
-- 2023-10-23 — Spurious, Very Spurious — speakers: Christine Macdonald
-- 2023-10-16 — Why Am I Eating Pants — speakers: Biggles Likes, Christine Macdonald
-- 2023-10-09 — The Magna Carta of Taskmaster — speakers: Chain Bastard, Christine Macdonald
-- 2023-10-02 — What Susan Did — speakers: Susan Did Shut, Air Max, Christine Macdonald
-- 2023-09-22 — He's Definitely Can-nier — speakers: Christine Macdonald
-- 2023-09-18 — Legally Not Allowed to Keep Musical Instruments — speakers: Christine Macdonald
-- 2023-09-08 — Brace! Brace! Yourselves for Our Brand New Co-Host — speakers: Jenny Eclair, Will Jack, Christine Macdonald
-- 2023-09-04 — Cue The Sad Music — speakers: Lou Sanders, Alex Horne-style, Plus Lou, Christine Macdonald
-- 2023-08-29 — Drilling Down to the Narrative — speakers: tv Watch, Christine Macdonald
-- 2023-08-19 — Taskmaster The People's Podcast: Best of #2 — speakers: Ed Gamble, Joel Porter, tv Watch, Christine Macdonald
-- 2023-08-14 — Taskmaster The People's Podcast: Best of #1 — speakers: Tom Cashman, Ed Gamble, tv Watch, Christine Macdonald
-- 2023-08-04 — Find an Andy, Thank an Andy — speakers: Andy Kick, Chris Ramsey, tv Watch, Christine Macdonald
-- 2023-07-31 — This is Full Stat Cream — speakers: tv Watch, Christine Macdonald
-- 2023-07-21 — The Secret Taskmaster Elite Club — speakers: tv Watch, Christine Macdonald
-- 2023-07-14 — Special Guest - Phoebe Eclair-Powell — speakers: justiceforArlo Lou, tv Watch, Christine Macdonald
-- 2023-07-07 — Grab Your Noni Juice and Let's Go — speakers: Archangel Michael, tv Watch, Christine Macdonald
-- 2023-06-30 — You Can't Fight Big Taskmaster — speakers: tv Watch, Christine Macdonald
-- 2023-06-23 — Let's Not Rename Kites — speakers: tv Watch, Christine Macdonald
-- 2023-06-16 — 24 Parrot Gold — speakers: tv Watch, Ben Drayton
-- 2023-06-09 — Hands Off Panky, Please! — speakers: tv Watch, Ben Drayton
-- 2023-06-02 — Special Guest - Remarkable Things in Common with Carol — speakers: tv Watch, Ben Drayton
-- 2023-05-27 — This is a Certified Goof — speakers: tv Watch, Ben Drayton
-- 2023-05-20 — International Guest - Nina Oyama — speakers: Nina Oyama, tv Watch, Ben Drayton
-- 2023-05-12 — I Can't Just Stand By and Not Challenge this Nonsense — speakers: tv Watch, Ben Drayton
-- 2023-05-05 — International Guest - Danielle Walker — speakers: Danielle Walker, tv Watch, Ben Drayton
-- 2023-04-29 — A Gumball in a Washing Machine — speakers: Alex Horne, tv Watch, Ben Drayton
-- 2023-04-21 — Special Guest - Liar, Braggart and Truth-Teller Gareth — speakers: Debbie McGee, tv Watch, Ben Drayton
-- 2023-04-14 — Special Guest - Greg Jenner — speakers: Greg Jenner, Greg Davis, tv Watch, Ben Drayton
-- 2023-04-07 — Four Legs, Two Eyes, Coming up the Drive — speakers: tv Watch, Ben Drayton
-- 2023-03-31 — Podcast Rival - Ed Gamble — speakers: Ed Gamble, Nicolaes Tulp, tv Watch, Ben Drayton
-- 2023-03-24 — International Guest - Tom Cashman — speakers: Tom Cashman, Tom Gleeson, tv Watch, Ben Drayton
-- 2023-03-17 — He Said a Person's Name and then Shoe? — speakers: Jack Jack, Jessica Knappett, tv Anna, Ben Drayton
-- 2023-03-10 — Behind the Scenes - The Portrait Artist — speakers: Joel Porter, Jack Stats, tv Watch, Ben Drayton
-- 2023-03-03 — International Guest - Urzila Carlson — speakers: Ed Gamble, Jack Bernhardt, tv Watch, Ben Drayton
-- 2023-02-24 — The Board Game Makers — speakers: Ginger Fox, dick dick, Alex Horne, tv Watch, Ben Drayton
-- 2023-02-17 — Behind the Scenes - The Director of Photography — speakers: Sam Montague, squirrel doc, Will Sam, Alex Horne, tv Watch, Ben Drayton
-- 2023-02-10 — It's Me, Fern Brady — speakers: Fern Brady Pucker, Fern Brady, Greg Davies, tv Watch, Ben Drayton
-- 2023-02-03 — Behind the Scenes - The Antipodean Director — speakers: Tom Furniss, tv Watch, Ben Drayton
-- 2023-01-27 — International Guest - Guy Montgomery — speakers: Guy Montgomery, tv Watch, Ben Drayton
-- 2023-01-20 — Behind the Scenes - The Task Writer — speakers: Sam Smith, tv Watch, Ben Drayton
-- 2023-01-14 — I'm Not Allowed Knives — speakers: Mark Watson, tv Watch, Ben Drayton
-- 2023-01-06 — One Woman's Trash is Another Woman's Treasure — speakers: tv Watch, Ben Drayton
-- 2022-12-31 — Behind the Scenes - The Editor — speakers: Tom Perrett, Taskmaster Head, Greg Davis, tv Watch, Ben Drayton
-- 2022-12-23 — Christmas Special — speakers: holy moley, Jack Frost, Phil Wang, Ding Dong Merrily, tv Watch, Ben Drayton
-- 2022-12-16 — Taskmaster Education — speakers: tv Watch, Ben Drayton
-- 2022-12-09 — Special Guest - Hank and Katherine Green — speakers: Katherine Green Fill, Katherine Green, Taskmaster Head, Tree Wizard, tv Watch, Ben Drayton
-- 2022-12-02 — Special Guest - Greg Davies — speakers: Ian Dury, Greg Davies, tv Watch, Ben Drayton
-- 2022-11-25 — Behind the Scenes - The Glam Team — speakers: Taskmaster Head, Tree Wizard, Genghis Khan, tv Watch, Ben Drayton
-- 2022-11-18 — International Guest - Angella Dravid — speakers: Angella Dravid, Jack Bernhardt, Taskmaster Head, tv Watch, Ben Drayton
-- 2022-11-11 — International Guest - Direktor Svemira — speakers: Peter Piper, Alex Horne, Taskmaster Head, Mike Wozniak, tv Watch, Ben Drayton
-- 2022-11-04 — Behind the Scenes - Producer Daisy — speakers: Taskmaster Head, tv Watch, Ben Drayton
-- 2022-10-28 — I Like The Way That You Pronounce Dara — speakers: Taskmaster Head, tv Watch, Ben Drayton
-- 2022-10-21 — Reject Perfectionism — speakers: Alan Davies, Alex Horne, tv Watch, Ben Drayton
-- 2022-10-14 — Equal Mix of Utterly Baffled and Happy — speakers: tv Watch, Ben Drayton
-- 2022-10-07 — Behind the Scenes - The Production Team — speakers: Taskmaster Moments, Jo Brand, Mike Wozniak, tv Watch, Ben Drayton
-- 2022-09-30 — International Guest - Suurmestari — speakers: Asim Chaudhry, Msn Messenger, tv Watch, Ben Drayton
-- 2022-09-24 — The Great Taskmaster Gathering — speakers: Chesham FC, Lou Sanders, Alex Horne, Tim Key, Paul Williams, tv Watch, Ben Drayton
-- 2022-09-16 — Behind the Scenes - Dru Masters — speakers: tv Watch, Ben Drayton
-- 2022-09-09 — Special Guest - Rosalind — speakers: tv Watch, Ben Drayton
-- 2022-09-02 — Behind the Scenes - The APs — speakers: tv Watch, Ben Drayton
-- 2022-08-26 — They Locked Eyes Over a Baguette — speakers: Doc Brown, tv Watch, Ben Drayton
-- 2022-08-19 — Special Guest - The Mayor of Chesham — speakers: Katherine Ryan, Off Menu, James Acaster, Ed Gamble, tv Watch, Ben Drayton
-- 2022-08-12 — Are you worried Alex is in love with you? — speakers: tv Watch, Ben Drayton
-- 2022-08-05 — Is there an Argument to Say Entrancingly? — speakers: Bonjour mon, tv Watch, Ben Drayton
-- 2022-07-29 — Cancelled by the Australians — speakers: Will Lou, tv Watch, Ben Drayton
-- 2022-07-22 — International Guest - Bäst i test — speakers: David Sundin, tv Watch, Ben Drayton
-- 2022-07-15 — Behind the Scenes - Mark Olver — speakers: Mark Olver, Alex Horne, tv Watch, Ben Drayton
-- 2022-07-08 — Dr Smooch and Our Graham — speakers: tv Watch, Ben Drayton
-- 2022-07-01 — Buckle Up Bunty — speakers: Alex Horne, tv Watch, Ben Drayton
-- 2022-06-24 — Spreadsheet Noises — speakers: Spreadsheet Noises, tv Watch, Ben Drayton
-- 2022-06-17 — International Guest - Kongen Befaler — speakers: Sophie Duker, Chris Ramsey, Olli Wermskog, tv Watch, Ben Drayton
-- 2022-06-10 — See a Man About a Horse — speakers: Chris Ramsey, tv Watch, Ben Drayton
-- 2022-06-03 — Informative and Sexy at the Same Time — speakers: Chris Ramsey, tv Watch, Ben Drayton
-- 2022-05-27 — Fondant Thrones — speakers: Fondant Thrones Buckle, Sophie Duker, Bridget Christie, tv Watch, Ben Drayton
-- 2022-05-20 — Paul Williams — speakers: Paul Williams, tv Watch, Ben Drayton
-- 2022-05-13 — Middle-Aged Salesman — speakers: Alex Horne, tv Watch, Ben Drayton
-- 2022-05-06 — Onion Goggles — speakers: tv Watch, Ben Drayton
-- 2022-04-29 — Transatlantic Pies — speakers: tv Watch, Ben Drayton
-- 2022-04-22 — Lunchbox Treats — speakers: Chris Ramsey, tv Watch, Ben Drayton
-- 2022-04-15 — Firsts — speakers: Lou Sanders, Jack Bernhardt, Taskmaster Superfans, Greg Davies
-- 2022-04-14 — Taskmaster: The People's Podcast Trailer — speakers: Lou Sanders, Taskmaster Superfans
+- 2026-02-23 — Chuck a Duck - S13, Ep. 10 — speakers: Jenny Eclair, Jack Bernhardt
+- 2026-02-16 — Leylandii the Menace - S14, Ep. 4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2026-02-09 — Calm Down Dear? - S1, Ep.6 — speakers: Calm Down Dear, Jenny Eclair, Jack Bernhardt
+- 2026-02-02 — Loser of Losers and Ultimate Chaos — speakers: Jenny Eclair, Jack Bernhardt
+- 2026-01-26 — One Less Profiterole - S6, Ep. 10 — speakers: Jenny Eclair, Jack Bernhardt
+- 2026-01-19 — A Biddable Boy - Champion of Champions 1, Ep.2 — speakers: Jenny Eclair, Jack Bernhardt
+- 2026-01-12 — 2026 New Years Treat - Part Two — speakers: Jenny Eclair, Jack Bernhardt
+- 2026-01-05 — 2026 New Years Treat - Part One — speakers: New Years Treat, Jenny Eclair, Jack Bernhardt
+- 2025-12-29 — 2025 Holiday Post Bag Special — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-12-22 — Champion of Champions #4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-12-15 — You Shouldn't Pay For Miracles - Champion of Champions 1, Ep. 1 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-12-07 — After Dinner Speech with Special Guest Ania Magliano — speakers: Dinner Speech, Jenny Eclair, Jack Bernhardt
+- 2025-12-01 — Five Nights in Chorley With Special Guest Phil Ellis — speakers: Phil Ellis, Jenny Eclair, Jack Bernhardt
+- 2025-11-24 — Return of the Record Breakers! - Series 20 Stats Debrief — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-11-17 — Splash of Bernoulli - S20, Ep.10 *GRAND FINAL* — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-11-10 — Cat Calendar Classics - S20, Ep.9 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-11-03 — Hedgehog No - S20, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-10-27 — Ride With It, Rip With It, Run With It - S20, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-10-20 — Winnie the Pooh's Dark Side - S20, Ep.6 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-10-13 — Dastardly Daring-Do's - S20, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-10-06 — Thirty-Five Grand is Gorgeous - S20, Ep.4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-09-29 — Daddy Needs a New Pair of Shoes - S20, Ep.3 — speakers: Daddy Needs, Jenny Eclair, Jack Bernhardt
+- 2025-09-22 — Why Not Lick Human Teeth - S20, Ep.2 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-09-15 — Mad Cap Bunch - S20, Ep.1 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-09-08 — SERIES 20 STATS AND PREDICTIONS — speakers: Jack Bernhardt, Jenny Eclair
+- 2025-09-01 — Cheeky Boy Tim - S1, Ep.1 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-08-25 — You Can’t Mark A Double Down - S11, Ep.1 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-08-18 — C'mon Patatas, C'mon - S2, Ep.4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-08-11 — Sudoku for a Poodle - S12, Ep.6 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-08-04 — A Mighty Splash - S4, Ep. 4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-07-28 — Legistlation, Actually - S7, Ep.6 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-07-21 — Catching Up With The UK Taskmaster Production Team — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-07-14 — Done, But Not Dusted - Series 19 Stats Debrief — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-07-07 — Dinners With My Dad - Series 19 Finale — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-06-30 — Adventures in Jelly - S19, Ep. 9 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-06-23 — A Pirate That Went Missing For a While - S19, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-06-16 — Queen of the Two Points - S19, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-06-09 — And Whales Have Legs - S19, Ep.6 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-06-02 — Never Hid a Piece Down My Pants - S19, Ep.5 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-05-26 — Demolition Takes a Little Bit of Time - S19, Ep.4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-05-19 — Possibly Too Much Yield - S19 Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-05-12 — Nerdiness by Osmosis - S19 Ep.2 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-05-05 — Grazing on Raisins - S19 Ep 1 **with special guest Andy Zaltzman** — speakers: Andy Zaltzman, Jenny Eclair, Jack Bernhardt
+- 2025-04-28 — The Trophy Saw the Curve of the Earth - CoC 2 (with special guest Lou Sanders) — speakers: Lou Sanders, Jenny Eclair, Jack Bernhardt
+- 2025-04-21 — SERIES 19 STATS AND PREDICTIONS EPISODE — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-04-14 — You Can't Argue With an Owl - S13, Ep.4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-04-07 — Where Is The Little Beep? - S12, Ep.1 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-03-31 — One Could Split Hairs - TM NZ S2, Ep. 2 — speakers: Split Hairs, Jenny Eclair, Jack Bernhardt
+- 2025-03-24 — Dinosaur Purist - S11, Ep.10 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-03-17 — Biba…as in Justin? - S2, Ep.2 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-03-10 — Eggs, Pineapple, Cluedo - S9, Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-03-03 — The Laminating Landlady - S7, Ep.10 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-02-24 — Blow a Bubble With Your Arse - S6, Ep9 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-02-17 — Special Guest - Kellie Hogben, winner of the Littlest Alex Horne — speakers: Kellie Hogben, Alex Horne, Jenny Eclair, Jack Bernhardt
+- 2025-02-10 — Sally Was a Camel with One Hump - S5, Ep5 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-02-03 — Attention Seeking Headgear - S14, Ep7 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-01-27 — More Likely to Swim With Wayne Rooney - S8, Ep8 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-01-20 — Throwing Lemons Randomly - S9 Ep9 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-01-13 — If You're Doing It Properly - S12 Ep4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2025-01-06 — Taskmaster: The People's Podcast - Best of 2024 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-12-30 — 2025 New Years Treat with Kojey Radical — speakers: Kojey Radical Merry Christmas, Jenny Eclair, Jack Bernhardt
+- 2024-12-23 — Junior Taskmaster with special guest Phaedra *NO SPOILERS* — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-12-16 — Hot Dog! It's our Holiday Post Bag Special — speakers: Hot Dog, Holiday Post Bag Special, Jenny Eclair, Jack Bernhardt
+- 2024-12-09 — Keeping the Dribbles In - Series 7, Episode 3 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-12-02 — The Mento Method Boys - Series 8, Episode 3 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-11-25 — Series 18 Big Stats Send-Off — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-11-18 — The Final Hot Dog - S18 EP10 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-11-11 — The Luck of Babatunde - S18 EP9 — speakers: Andy Za, Jenny Eclair, Jack Bernhardt
+- 2024-11-04 — A Pro Lobster Podcast - S18 EP8 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-10-28 — For The Rest of Your Life, Jack - S18 EP7 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-10-21 — Banana Boy, Mr. Poo - S18 EP6 (feat. special guest from production Becky Cant) — speakers: Banana Boy, Jenny Eclair, Jack Bernhardt
+- 2024-10-14 — Your Mum's Just Like - S18 EP5 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-10-07 — Pushing the Envelope - S18 EP4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-09-30 — Record Breakers! - S18 EP3 — speakers: Record Breakers, Jenny Eclair, Jack Bernhardt
+- 2024-09-23 — Like Guy Fawkes, a Lot at Stake - S18 EP2 — speakers: Guy Fawkes, Jenny Eclair, Jack Bernhardt
+- 2024-09-16 — Bubbles and Love Bites - S18 EP1 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-09-09 — Three More Sleeps! (And a Series 18 Stats Deep Dive) — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-09-03 — Series 18 Predictions with Lou Sanders — speakers: Lou Sanders, Jenny Eclair, Jack Bernhardt
+- 2024-08-27 — Shrunken Onesie - S7, Ep. 6 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-08-19 — Special Guest - Nick Mohammed — speakers: Nick Mohammed, Jenny Eclair, Jack Bernhardt
+- 2024-08-12 — Spillage of Tears - S10, Ep.10 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-08-05 — Who's Greg? - S13, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-07-29 — It’s Sort of My Birthday Too - S12, Ep.5 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-07-22 — Comedy Cul-De-Sac - S11, Ep.4 — speakers: Charlotte Ritchie, Jenny Eclair, Jack Bernhardt
+- 2024-07-15 — Sharp as a Button - S9, Ep.2 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-07-09 — The Bravest Little Girl in the World - S4, Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-07-01 — Beat My Buttock Table - S5, Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-06-24 — Say Dubious Properly - S10, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-06-17 — Taste Test Adjacent - S14, Ep3. — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-06-10 — Special Guest - John Robins — speakers: John Robins, Jenny Eclair, Jack Bernhardt
+- 2024-06-04 — What Sophie Did Next - S17, Ep.10 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-05-27 — The Penny - S17, Ep.9 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-05-20 — Taskmaster Virtual Reality - S17, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-05-13 — You Say Cha-ray-des I Say Cha-rah-des - S17, Ep. 7 — speakers: Say Cha, Jenny Eclair, Jack Bernhardt
+- 2024-05-06 — Buck Up! - S17, Ep.6 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-04-29 — Never Trust a Dancing Vole - S17, Ep.5 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-04-23 — Contain the Prolapse - S17 Ep.4 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-04-15 — Bit of Bonnet Drama - S17, Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-04-08 — He Poked it in the Jacksie - S17, Ep. 2 — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-04-02 — Presto Fandingo Dango - it's Series 17! — speakers: Presto Fandingo Dango, Taskmaster Mount Rushmore, Jenny Eclair, Jack Bernhardt
+- 2024-03-25 — Be Really Careful With Your Rococo Mirrors — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-03-18 — Geoff Do You Want To Come Sit On My Suitcase — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-03-12 — Our 100th episode featuring Little Alex Horne — speakers: Alex Horne, Jenny Eclair, Jack Bernhardt
+- 2024-03-04 — A Mule Weed in a Glass — speakers: Mule Weed, Jenny Eclair, Jack Bernhardt
+- 2024-02-26 — Stats for Pudding — speakers: Pudding Tell, Jenny Eclair, Jack Bernhardt
+- 2024-02-19 — Sausage Mixer — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-02-12 — Special Guest - David Ha — speakers: Special Guest, David Ha Fluff, Jenny Eclair, Jack Bernhardt
+- 2024-02-06 — Punching Piñatas — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-01-29 — If This Was Yoga, You Probably Couldn’t Do It — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-01-22 — Well Noel Did Marry a Duck — speakers: Jenny Eclair, Jack Bernhardt
+- 2024-01-15 — Champion of Champions 3 Special — speakers: Special Take, Jenny Eclair, Jack Bernhardt
+- 2024-01-08 — A New Years Treat Special — speakers: New Years Treat Special, Jenny Eclair, Jack Bernhardt
+- 2024-01-02 — International Guest - Ray O'Leary — speakers: International Guest, Leary Put, Jenny Eclair, Jack Bernhardt
+- 2023-12-25 — International Guest - Melanie Bracewell — speakers: International Guest, Melanie Bracewell Tell, Jenny Eclair, Jack Bernhardt
+- 2023-12-18 — Absolute Casserole — speakers: Absolute Casserole Put, Jenny Eclair, Jack Bernhardt
+- 2023-12-11 — Demanding A Recount — speakers: Recount Put, Jenny Eclair, Jack Bernhardt
+- 2023-12-04 — A Mighty Guff — speakers: Mighty Guff Give, Jenny Eclair, Jack Bernhardt
+- 2023-11-27 — By a Country Mile — speakers: Alex Horne, Jenny Eclair, Jack Bernhardt
+- 2023-11-20 — It's a Classic 72 — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-11-13 — A Hundred Quid is a Hundred Quid — speakers: Hundred Quid, Hundred Quid Wrap, Jenny Eclair, Jack Bernhardt
+- 2023-11-06 — It's Very Reservoir Dogs — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-10-30 — Special Guest - Susie Dent — speakers: Special Guest, Susie Dent Make, Jenny Eclair, Jack Bernhardt
+- 2023-10-23 — Spurious, Very Spurious — speakers: Very Spurious Knock, Jenny Eclair, Jack Bernhardt
+- 2023-10-16 — Why Am I Eating Pants — speakers: Why Am, Eating Pants Get, Jenny Eclair, Jack Bernhardt
+- 2023-10-09 — The Magna Carta of Taskmaster — speakers: Taskmaster Clean, Jenny Eclair, Jack Bernhardt
+- 2023-10-02 — What Susan Did — speakers: Susan Did Shut, Jenny Eclair, Jack Bernhardt
+- 2023-09-22 — He's Definitely Can-nier — speakers: Definitely Can, Jenny Eclair, Jack Bernhardt
+- 2023-09-18 — Legally Not Allowed to Keep Musical Instruments — speakers: Legally Not Allowed, Keep Musical Instruments Ask, Jenny Eclair, Jack Bernhardt
+- 2023-09-08 — Brace! Brace! Yourselves for Our Brand New Co-Host — speakers: Host Grab, Jenny Eclair, Jack Bernhardt
+- 2023-09-04 — Cue The Sad Music — speakers: Lou Sanders, Jenny Eclair, Jack Bernhardt
+- 2023-08-29 — Drilling Down to the Narrative — speakers: Drilling Down, Narrative Wrap, Jenny Eclair, Jack Bernhardt
+- 2023-08-19 — Taskmaster The People's Podcast: Best of #2 — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-08-14 — Taskmaster The People's Podcast: Best of #1 — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-08-04 — Find an Andy, Thank an Andy — speakers: Andy Kick, Jenny Eclair, Jack Bernhardt
+- 2023-07-31 — This is Full Stat Cream — speakers: Full Stat Cream Boot, Jenny Eclair, Jack Bernhardt
+- 2023-07-21 — The Secret Taskmaster Elite Club — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-07-14 — Special Guest - Phoebe Eclair-Powell — speakers: Special Guest, Phoebe Eclair, Powell Brush, Jenny Eclair, Jack Bernhardt
+- 2023-07-07 — Grab Your Noni Juice and Let's Go — speakers: Go Ask, Jenny Eclair, Jack Bernhardt
+- 2023-06-30 — You Can't Fight Big Taskmaster — speakers: Fight Big Taskmaster Dig, Jenny Eclair, Jack Bernhardt
+- 2023-06-23 — Let's Not Rename Kites — speakers: Not Rename Kites Wind, Jenny Eclair, Jack Bernhardt
+- 2023-06-16 — 24 Parrot Gold — speakers: Parrot Gold Cup, Jenny Eclair, Jack Bernhardt
+- 2023-06-09 — Hands Off Panky, Please! — speakers: Hands Off Panky, Jenny Eclair, Jack Bernhardt
+- 2023-06-02 — Special Guest - Remarkable Things in Common with Carol — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-05-27 — This is a Certified Goof — speakers: Certified Goof Charge, Jenny Eclair, Jack Bernhardt
+- 2023-05-20 — International Guest - Nina Oyama — speakers: International Guest, Nina Oyama Reply, Jenny Eclair, Jack Bernhardt
+- 2023-05-12 — I Can't Just Stand By and Not Challenge this Nonsense — speakers: Not Challenge, Nonsense Let, Jenny Eclair, Jack Bernhardt
+- 2023-05-05 — International Guest - Danielle Walker — speakers: International Guest, Danielle Walker Saddle, Jenny Eclair, Jack Bernhardt
+- 2023-04-29 — A Gumball in a Washing Machine — speakers: Washing Machine Slather, Jenny Eclair, Jack Bernhardt
+- 2023-04-21 — Special Guest - Liar, Braggart and Truth-Teller Gareth — speakers: Debbie McGee, Jenny Eclair, Jack Bernhardt
+- 2023-04-14 — Special Guest - Greg Jenner — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-04-07 — Four Legs, Two Eyes, Coming up the Drive — speakers: Four Legs, Two Eyes, Drive Grip, Jenny Eclair, Jack Bernhardt
+- 2023-03-31 — Podcast Rival - Ed Gamble — speakers: Ed Gamble Smack, Jenny Eclair, Jack Bernhardt
+- 2023-03-24 — International Guest - Tom Cashman — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-03-17 — He Said a Person's Name and then Shoe? — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-03-10 — Behind the Scenes - The Portrait Artist — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-03-03 — International Guest - Urzila Carlson — speakers: International Guest, Urzila Carlson Chomp, Jenny Eclair, Jack Bernhardt
+- 2023-02-24 — The Board Game Makers — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-02-17 — Behind the Scenes - The Director of Photography — speakers: Photography Close, Jenny Eclair, Jack Bernhardt
+- 2023-02-10 — It's Me, Fern Brady — speakers: Fern Brady Pucker, Jenny Eclair, Jack Bernhardt
+- 2023-02-03 — Behind the Scenes - The Antipodean Director — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-01-27 — International Guest - Guy Montgomery — speakers: International Guest, Guy Montgomery Put, Jenny Eclair, Jack Bernhardt
+- 2023-01-20 — Behind the Scenes - The Task Writer — speakers: Jenny Eclair, Jack Bernhardt
+- 2023-01-14 — I'm Not Allowed Knives — speakers: Not Allowed Knives Mirror, Jenny Eclair, Jack Bernhardt
+- 2023-01-06 — One Woman's Trash is Another Woman's Treasure — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-12-31 — Behind the Scenes - The Editor — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-12-23 — Christmas Special — speakers: holy moley, Jenny Eclair, Jack Bernhardt
+- 2022-12-16 — Taskmaster Education — speakers: Taskmaster Education Pop, Jenny Eclair, Jack Bernhardt
+- 2022-12-09 — Special Guest - Hank and Katherine Green — speakers: Katherine Green Fill, Jenny Eclair, Jack Bernhardt
+- 2022-12-02 — Special Guest - Greg Davies — speakers: Special Guest, Greg Davies Please, Jenny Eclair, Jack Bernhardt
+- 2022-11-25 — Behind the Scenes - The Glam Team — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-11-18 — International Guest - Angella Dravid — speakers: International Guest, Angella Dravid Take, Jenny Eclair, Jack Bernhardt
+- 2022-11-11 — International Guest - Direktor Svemira — speakers: Peter Piper, Jenny Eclair, Jack Bernhardt
+- 2022-11-04 — Behind the Scenes - Producer Daisy — speakers: Producer Daisy Oh, Jenny Eclair, Jack Bernhardt
+- 2022-10-28 — I Like The Way That You Pronounce Dara — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-10-21 — Reject Perfectionism — speakers: Reject Perfectionism Stop, Jenny Eclair, Jack Bernhardt
+- 2022-10-14 — Equal Mix of Utterly Baffled and Happy — speakers: Equal Mix, Utterly Baffled, Happy Unbolt, Jenny Eclair, Jack Bernhardt
+- 2022-10-07 — Behind the Scenes - The Production Team — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-09-30 — International Guest - Suurmestari — speakers: International Guest, Suurmestari Give, Jenny Eclair, Jack Bernhardt
+- 2022-09-24 — The Great Taskmaster Gathering — speakers: Chesham FC, Lou Sanders, Jenny Eclair, Jack Bernhardt
+- 2022-09-16 — Behind the Scenes - Dru Masters — speakers: Dru Masters Hark, Jenny Eclair, Jack Bernhardt
+- 2022-09-09 — Special Guest - Rosalind — speakers: Special Guest, Rosalind Roll, Jenny Eclair, Jack Bernhardt
+- 2022-09-02 — Behind the Scenes - The APs — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-08-26 — They Locked Eyes Over a Baguette — speakers: Baguette Start, Jenny Eclair, Jack Bernhardt
+- 2022-08-19 — Special Guest - The Mayor of Chesham — speakers: Special Guest, Chesham Wait, Jenny Eclair, Jack Bernhardt
+- 2022-08-12 — Are you worried Alex is in love with you? — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-08-05 — Is there an Argument to Say Entrancingly? — speakers: Bonjour mon, Jenny Eclair, Jack Bernhardt
+- 2022-07-29 — Cancelled by the Australians — speakers: Australians Wowzers, Jenny Eclair, Jack Bernhardt
+- 2022-07-22 — International Guest - Bäst i test — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-07-15 — Behind the Scenes - Mark Olver — speakers: Mark Olver Hear, Jenny Eclair, Jack Bernhardt
+- 2022-07-08 — Dr Smooch and Our Graham — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-07-01 — Buckle Up Bunty — speakers: Buckle Up Bunty Polish, Jenny Eclair, Jack Bernhardt
+- 2022-06-24 — Spreadsheet Noises — speakers: Spreadsheet Noises, Jenny Eclair, Jack Bernhardt
+- 2022-06-17 — International Guest - Kongen Befaler — speakers: International Guest, Jenny Eclair, Jack Bernhardt
+- 2022-06-10 — See a Man About a Horse — speakers: Man About, Horse Pop, Jenny Eclair, Jack Bernhardt
+- 2022-06-03 — Informative and Sexy at the Same Time — speakers: Same Time Fling, Jenny Eclair, Jack Bernhardt
+- 2022-05-27 — Fondant Thrones — speakers: Fondant Thrones Buckle, Jenny Eclair, Jack Bernhardt
+- 2022-05-20 — Paul Williams — speakers: Paul Williams, Jenny Eclair, Jack Bernhardt
+- 2022-05-13 — Middle-Aged Salesman — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-05-06 — Onion Goggles — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-04-29 — Transatlantic Pies — speakers: Transatlantic Pies No, Jenny Eclair, Jack Bernhardt
+- 2022-04-22 — Lunchbox Treats — speakers: Jenny Eclair, Jack Bernhardt
+- 2022-04-15 — Firsts — speakers: Firsts Welcome, Pantsuit Pri, Jenny Eclair, Jack Bernhardt
+- 2022-04-14 — Taskmaster: The People's Podcast Trailer — speakers: Jenny Eclair, Jack Bernhardt

@@ -2,10 +2,10 @@
 
 - slug: `just-a-minute`
 - source: `https://podcasts.files.bbci.co.uk/b006s5dp.rss`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `"4379a1e89339830cadd3f244edb204ff"`
-- last_modified: `Mon, 16 Feb 2026 19:00:05 GMT`
+- fetched_at: `2026-02-23T22:02:17+00:00`
+- checked_at: `2026-02-23T22:02:17+00:00`
+- etag: `"119cbe34f7cdd1bb29cbeb7c79fea888"`
+- last_modified: `Mon, 23 Feb 2026 19:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b006s5dp",
   "description": "Panel game in which the contestants are challenged to speak for one minute without hesitation, deviation or repetition on any subject that comes up on the cards",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1qz57.jpg",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-02-23T22:02:17+00:00",
   "owners": [
     "Bbc Radio"
   ],
@@ -29,6 +29,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "fb1657c304f34ee665bb4caf3b375e591d147fb7",
+      "title": "4. Do you remember the programme Changing Rooms?",
+      "published_at": "2026-02-23T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002rd1w",
+      "description": "Rachel and Cariad reveal their worst ever birthday presents and hope their families aren't listening. Paterson gets competitive in the Shakespeare round and Sue asks the all important question - what's in your bumbag? Host: Sue Perkins Players: Paul Merton, Paterson Joseph, Rachel Parris, Cariad Lloyd Producer: Georgia Keating Executive Producer: James Robinson Production Coordinator: Sarah Nicholls Sound Editor: Marc Willcox Additional material by Ruth Husko An EcoAudio certified production. A BBC Studios Production for Radio 4.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0my06y7.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27344000",
+      "itunes_duration": "1709",
+      "speakers": [
+        "Changing Rooms",
+        "Bbc Radio"
+      ],
+      "topics": [
+        "programme",
+        "room"
+      ]
+    },
     {
       "key": "a144c8df5165abafe0e1445ccc6113457b19575c",
       "title": "3. Do I need to repeat myself?",
@@ -41,14 +61,7 @@
       "enclosure_length": "27504000",
       "itunes_duration": "1719",
       "speakers": [
-        "Anne Boleyn",
-        "Josie Lawrence",
-        "Gyles Brandreth",
-        "Emma Sidi",
-        "James Robinson Production Coordinator",
-        "Sarah Nicholls",
-        "Marc Willcox Additional",
-        "Ruth Husko"
+        "Bbc Radio"
       ],
       "topics": [
         "repeat",
@@ -67,13 +80,6 @@
       "enclosure_length": "27168000",
       "itunes_duration": "1698",
       "speakers": [
-        "Paul Merton",
-        "Rachel Parris",
-        "Paterson Joseph Producer",
-        "James Robinson Production Coordinator",
-        "Sarah Nicholls",
-        "Marc Willcox Additional",
-        "Ruth Husko",
         "Bbc Radio"
       ],
       "topics": [
@@ -93,14 +99,7 @@
       "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
-        "Comedian Chris Cantrill",
-        "Paul Merton",
-        "Lucy Porter",
-        "Alan Bennett",
-        "Zoe Lyons",
-        "Chris Cantrill",
-        "James Robinson Production Coordinator",
-        "Sarah Nicholls"
+        "Bbc Radio"
       ],
       "topics": [
         "curry",
@@ -124,9 +123,7 @@
         "Rachel Parris",
         "Paterson Joseph",
         "Paul Merton",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "James Robinson Additional"
+        "Bbc Radio"
       ],
       "topics": [
         "soul",
@@ -149,9 +146,6 @@
         "Lucy Porter",
         "Paul Merton",
         "Stephen Mangan",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "James Robinson Additional",
         "Bbc Radio"
       ],
       "topics": [
@@ -176,9 +170,7 @@
         "Tony Hawks",
         "Emma Sidi",
         "Desiree Burch",
-        "Maggie Smith",
-        "Sarah Nicholls",
-        "Marc Willcox Producer"
+        "Bbc Radio"
       ],
       "topics": [
         "smell"
@@ -202,8 +194,7 @@
         "Julian Clary",
         "Paterson Joseph",
         "Rachel Parris",
-        "Sarah Nicholls",
-        "Marc Willcox Producer"
+        "Bbc Radio"
       ],
       "topics": [
         "emily"
@@ -226,9 +217,7 @@
         "Desiree Burch",
         "Gyles Brandreth",
         "Emma Sidi",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "James Robinson Additional"
+        "Bbc Radio"
       ],
       "topics": [
         "laugh",
@@ -251,9 +240,6 @@
         "Paul Merton",
         "Lucy Porter",
         "Stephen Mangan",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "James Robinson Additional",
         "Bbc Radio"
       ],
       "topics": [
@@ -278,9 +264,6 @@
         "Josie Lawrence",
         "Ivo Graham",
         "Sara Pascoe",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -305,9 +288,7 @@
         "Laura Smyth",
         "Julian Clary",
         "Desiree Burch",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "strawberry",
@@ -330,10 +311,7 @@
         "Tony Hawks",
         "Ian Smith",
         "Charlotte Ritchie",
-        "Preferred Socks",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "turning",
@@ -356,9 +334,6 @@
         "Josie Lawrence",
         "Ivo Graham",
         "Sara Pascoe",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -384,10 +359,7 @@
         "Tony Hawks",
         "Ian Smith",
         "Charlotte Ritchie",
-        "Getting Butterflies",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "cheese",
@@ -412,9 +384,7 @@
         "Laura Smyth",
         "Julian Clary",
         "Desiree Burch",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "phone",
@@ -439,8 +409,7 @@
         "Lucy Porter",
         "Ria Lina",
         "Rhys James",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer"
+        "Bbc Radio"
       ],
       "topics": [
         "fringe",
@@ -466,9 +435,7 @@
         "Jan Ravens",
         "Tony Hawks",
         "Desiree Burch",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "rockers",
@@ -495,9 +462,7 @@
         "Paul Merton",
         "Holly Walsh",
         "Alan Davies",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "fool",
@@ -525,9 +490,7 @@
         "Lucy Porter",
         "Ria Lina",
         "Rhys James",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "wordle",
@@ -554,9 +517,7 @@
         "Jennifer Saunders",
         "Julian Clary",
         "Anna Maxwell Martin",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "whitney",
@@ -581,9 +542,6 @@
         "Paul Merton",
         "Alan Davies",
         "Holly Walsh",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -612,7 +570,7 @@
         "Desiree Burch",
         "Tony Hawks",
         "Jan Ravens",
-        "Alan Shearer"
+        "Bbc Radio"
       ],
       "topics": [
         "peanut",
@@ -640,9 +598,7 @@
         "Jennifer Saunders",
         "Julian Clary",
         "Anna Maxwell Martin",
-        "Turkey Sandwiches",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer"
+        "Bbc Radio"
       ],
       "topics": [
         "sale",
@@ -669,9 +625,7 @@
         "Gyles Brandreth",
         "Desiree Burch",
         "Glenn Moore",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "duvet",
@@ -695,9 +649,7 @@
         "Josie Lawrence",
         "Julian Clary",
         "Sue Perkins",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "cheek",
@@ -720,10 +672,7 @@
         "Jan Ravens",
         "Tony Hawks",
         "Stephen Fry",
-        "Small Town Secrets",
-        "Mark Antony",
-        "Sarah Nicholls",
-        "Marc Willcox Producer"
+        "Bbc Radio"
       ],
       "topics": [
         "times",
@@ -748,9 +697,7 @@
         "Kiell Smith-Bynoe",
         "Josie Lawrence",
         "Sue Perkins",
-        "John O'Groats",
-        "Sarah Nicholls Sound",
-        "Jerry Peal Sound"
+        "Bbc Radio"
       ],
       "topics": [
         "rhyme",
@@ -773,9 +720,6 @@
         "Gyles Brandreth",
         "Desiree Burch",
         "Glenn Moore",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -801,10 +745,7 @@
         "Stephen Fry",
         "Jan Ravens",
         "Tony Hawks",
-        "Sarah Nicholls Sound",
-        "Jerry Peal Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "england",
@@ -827,9 +768,6 @@
         "Eleanor Tiernan",
         "Heidi Regan",
         "Paul Merton",
-        "Sarah Nicholls Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -853,9 +791,7 @@
         "Paul Merton",
         "Eshaan Akbar",
         "Lucy Porter",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "angela",
@@ -878,10 +814,6 @@
         "Kerry Godliman",
         "Sue Perkins",
         "Paul Merton",
-        "Living Theatrically",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -908,8 +840,7 @@
         "Eleanor Tiernan",
         "Heidi Regan",
         "Tony Hawks",
-        "Sarah Nicholls",
-        "Marc Willcox Producer"
+        "Bbc Radio"
       ],
       "topics": [
         "kelly"
@@ -931,9 +862,6 @@
         "Lucy Porter",
         "Angela Barnes",
         "Eshaan Akbar",
-        "Sarah Nicholls",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -958,9 +886,7 @@
         "Sue Perkins",
         "Paul Merton",
         "Kerry Godliman",
-        "Sarah Nicholls Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "date",
@@ -985,12 +911,6 @@
       "itunes_duration": "1690",
       "speakers": [
         "Sue Perkins",
-        "Gyles Brandreth",
-        "Susie McCabe",
-        "Fred MacAulay",
-        "Rachel Parris",
-        "Caroline Barlow Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -1015,11 +935,6 @@
       "itunes_duration": "1705",
       "speakers": [
         "Sue Perkins",
-        "Gyles Brandreth",
-        "Janey Godley",
-        "Ian Smith",
-        "Caroline Barlow Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -1047,9 +962,6 @@
         "Jan Ravens",
         "Tony Hawks",
         "Rachel Parris",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -1078,9 +990,6 @@
         "Paul Merton",
         "Ivo Graham",
         "Josie Lawrence",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -1106,9 +1015,6 @@
         "Paul Merton",
         "Shaparak Khorsandi",
         "Heidi Regan",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -1135,9 +1041,7 @@
         "Jan Ravens",
         "Tony Hawks",
         "Rachel Parris",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "humble",
@@ -1160,9 +1064,6 @@
         "Paul Merton",
         "Ivo Graham",
         "Josie Lawrence",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -1189,9 +1090,7 @@
         "Jennifer Saunders",
         "Julian Clary",
         "Lucy Porter",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "king",
@@ -1218,9 +1117,6 @@
         "Paul Merton",
         "Shaparak Khorsandi",
         "Heidi Regan",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia",
         "Bbc Radio"
       ],
       "topics": [
@@ -1247,9 +1143,7 @@
         "Jennifer Saunders",
         "Julian Clary",
         "Lucy Porter",
-        "Caroline Barlow Sound",
-        "Marc Willcox Producer",
-        "Rajiv Karia"
+        "Bbc Radio"
       ],
       "topics": [
         "quicksand",
@@ -1283,49 +1177,50 @@
 
 ## Episodes (newest first)
 
-- 2026-02-16 — 3. Do I need to repeat myself? — speakers: Anne Boleyn, Josie Lawrence, Gyles Brandreth, Emma Sidi, James Robinson Production Coordinator, Sarah Nicholls, Marc Willcox Additional, Ruth Husko
-- 2026-02-09 — 2. I’ve never seen anything like it! — speakers: Paul Merton, Rachel Parris, Paterson Joseph Producer, James Robinson Production Coordinator, Sarah Nicholls, Marc Willcox Additional, Ruth Husko, Bbc Radio
-- 2026-02-02 — 1. The best curry in Bradford — speakers: Comedian Chris Cantrill, Paul Merton, Lucy Porter, Alan Bennett, Zoe Lyons, Chris Cantrill, James Robinson Production Coordinator, Sarah Nicholls
-- 2025-10-20 — 6. Do you believe in soul mates? — speakers: Sue Perkins, Julian Clary, Rachel Parris, Paterson Joseph, Paul Merton, Sarah Nicholls, Marc Willcox Producer, James Robinson Additional
-- 2025-10-13 — 5. Whoopsie-daisy — speakers: Sue Perkins, Lucy Porter, Paul Merton, Stephen Mangan, Sarah Nicholls, Marc Willcox Producer, James Robinson Additional, Bbc Radio
-- 2025-10-06 — 4. What's that wonderful smell? — speakers: Sue Perkins, Gyles Brandreth, Tony Hawks, Emma Sidi, Desiree Burch, Maggie Smith, Sarah Nicholls, Marc Willcox Producer
-- 2025-09-29 — 3. It's what Emily Brontë would have wanted — speakers: Emily Brontë, Sue Perkins, Paul Merton, Julian Clary, Paterson Joseph, Rachel Parris, Sarah Nicholls, Marc Willcox Producer
-- 2025-09-22 — 2. Where's the live, laugh, love? — speakers: Sue Perkins, Tony Hawks, Desiree Burch, Gyles Brandreth, Emma Sidi, Sarah Nicholls, Marc Willcox Producer, James Robinson Additional
-- 2025-09-15 — 1. The time I went to Sue Perkins’ birthday party — speakers: Sue Perkins, Paul Merton, Lucy Porter, Stephen Mangan, Sarah Nicholls, Marc Willcox Producer, James Robinson Additional, Bbc Radio
-- 2025-03-24 — 6. Limoncello and Portobello — speakers: Josie Lawrence, Ivo Graham, Sara Pascoe, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2025-03-17 — 5. Does a Strawberry Have Dreams? — speakers: Sue Perkins, Paul Merton, Laura Smyth, Julian Clary, Desiree Burch, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia
-- 2025-03-10 — 4. Does the second turning of the tide amount to repetition? — speakers: Sue Perkins, Tony Hawks, Ian Smith, Charlotte Ritchie, Preferred Socks, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia
-- 2025-03-03 — 3. Hesitation, Repetition, Deviation or Enunciation — speakers: Josie Lawrence, Ivo Graham, Sara Pascoe, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2025-02-24 — 2. Where they make cheese and milk out of butterflies — speakers: Sue Perkins, Tony Hawks, Ian Smith, Charlotte Ritchie, Getting Butterflies, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia
-- 2025-02-17 — 1. A red phone called Kevin — speakers: Kevin Sue Perkins, Paul Merton, Laura Smyth, Julian Clary, Desiree Burch, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia
-- 2025-01-13 — 8. The Day I Cut My Fringe, Rap Battles and Prawn Cocktail — speakers: Rap Battles, Prawn Cocktail Sue Perkins, Gyles Brandreth, Lucy Porter, Ria Lina, Rhys James, Caroline Barlow Sound, Marc Willcox Producer
-- 2025-01-06 — 7. Mods and Rockers, The Perfect Mullet and Deep Sea Diving — speakers: Sue Perkins, Paul Merton, Jan Ravens, Tony Hawks, Desiree Burch, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia
-- 2024-12-30 — 6. Fool's Gold, Tectonic Plates and Jane MacDonald — speakers: Jane MacDonald, Sue Perkins, Paul Merton, Holly Walsh, Alan Davies, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia
-- 2024-12-23 — 5. Wordle, Swing Dancing and Broken Resolutions — speakers: Broken Resolutions Sue Perkins, Gyles Brandreth, Lucy Porter, Ria Lina, Rhys James, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia
-- 2024-12-16 — 4. Whitney Houston, Foraging for Mushrooms and Duck Duck Goose — speakers: Whitney Houston, Paul Merton, Jennifer Saunders, Julian Clary, Anna Maxwell Martin, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia
-- 2024-12-09 — 3. Bicycle Stabilisers, French New Wave and The Shining — speakers: Paul Merton, Alan Davies, Holly Walsh, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-12-02 — 2. Peanut Butter, Westminster Abbey and Alan Shearer — speakers: Peanut Butter, Westminster Abbey, Alan Shearer Sue, Paul Merton, Desiree Burch, Tony Hawks, Jan Ravens, Alan Shearer
-- 2024-11-25 — 1. Boxing Day Sales, Snakes and Ladders, and Turkey Sandwiches — speakers: Turkey Sandwiches Sue Perkins, Paul Merton, Jennifer Saunders, Julian Clary, Anna Maxwell Martin, Turkey Sandwiches, Caroline Barlow Sound, Marc Willcox Producer
-- 2024-11-18 — 6. Doubling down at the duvet factory — speakers: Sue Perkins, Lucy Porter, Gyles Brandreth, Desiree Burch, Glenn Moore, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia
-- 2024-11-11 — 5. Cheek by jowl with some stubbly nosed man — speakers: Kiell Smith-Bynoe, Jenny Eclair, Josie Lawrence, Julian Clary, Sue Perkins, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia
-- 2024-11-04 — 4. Trying Times - the national newspaper for judges — speakers: Sue Perkins, Jan Ravens, Tony Hawks, Stephen Fry, Small Town Secrets, Mark Antony, Sarah Nicholls, Marc Willcox Producer
-- 2024-10-28 — 3. Rhymes with Touché and Suché and John Belushé — speakers: John Belushé Julian Clary, Jenny Eclair, Kiell Smith-Bynoe, Josie Lawrence, Sue Perkins, John O'Groats, Sarah Nicholls Sound, Jerry Peal Sound
-- 2024-10-21 — 2. A Punk Band Called The Sticky Carpets — speakers: Lucy Porter, Gyles Brandreth, Desiree Burch, Glenn Moore, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-10-14 — 1. I’ve written down ‘Fleshy’, ‘England’ and ‘Chin’. — speakers: Sue Perkins, Stephen Fry, Jan Ravens, Tony Hawks, Sarah Nicholls Sound, Jerry Peal Sound, Marc Willcox Producer, Rajiv Karia
-- 2024-09-12 — 6. A Cat Called Hell — speakers: Tony Hawks, Eleanor Tiernan, Heidi Regan, Paul Merton, Sarah Nicholls Sound, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 5. Angela Barnes never scrimps on colonics — speakers: Angela Barnes, Sue Perkins, Paul Merton, Eshaan Akbar, Lucy Porter, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia
-- 2024-09-12 — 4. Kerry Godliman was an Olympic diver — speakers: Kerry Godliman, Sue Perkins, Paul Merton, Living Theatrically, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 3. Ned Kelly is Australian, right? — speakers: Ned Kelly, Sue Perkins, Paul Merton, Eleanor Tiernan, Heidi Regan, Tony Hawks, Sarah Nicholls, Marc Willcox Producer
-- 2024-09-12 — 2. A Hundred Boy Scouts from Liechtenstein — speakers: Paul Merton, Lucy Porter, Angela Barnes, Eshaan Akbar, Sarah Nicholls, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 1. A Double Date with Prince Rainier, Hilda Ogden and Sophia Loren — speakers: Hilda Ogden, Sophia Loren, Sue Perkins, Paul Merton, Kerry Godliman, Sarah Nicholls Sound, Marc Willcox Producer, Rajiv Karia
-- 2024-09-12 — Edinburgh Festival - MacAulay, Brandreth, Parris and McCabe — speakers: Sue Perkins, Gyles Brandreth, Susie McCabe, Fred MacAulay, Rachel Parris, Caroline Barlow Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — Edinburgh Festival - Brandreth, Godley, Smith and Ashfaq — speakers: Sue Perkins, Gyles Brandreth, Janey Godley, Ian Smith, Caroline Barlow Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 8. The Great Barrier Reef, Static Electricity and Pride and Prejudice — speakers: Gyles Brandreth, Jan Ravens, Tony Hawks, Rachel Parris, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 7. The Letter Q, Chaise Longue and Hazard of the Job — speakers: Chaise Longue, Paul Merton, Ivo Graham, Josie Lawrence, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 6. Columbo, Keanu Reeves and Vertigo — speakers: Vertigo Sue Perkins, Paul Merton, Shaparak Khorsandi, Heidi Regan, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 5. Humble Pie, Nuns and Dry Shampoo — speakers: Humble Pie, Gyles Brandreth, Jan Ravens, Tony Hawks, Rachel Parris, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia
-- 2024-09-12 — 4. Whodunnit?, Revolving Restaurants and Tog Ratings — speakers: Paul Merton, Ivo Graham, Josie Lawrence, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 3. King Kong, Harry Houdini and Snake Charming — speakers: Harry Houdini, Paul Merton, Jennifer Saunders, Julian Clary, Lucy Porter, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia
-- 2024-09-12 — 2. Tutankhamun, Haggling, and Canadian Cuisine — speakers: Canadian Cuisine Sue, Paul Merton, Shaparak Khorsandi, Heidi Regan, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia, Bbc Radio
-- 2024-09-12 — 1. Quicksand, A Damp Squib, and Why I Could Win ‘The Traitors’ — speakers: Sue Perkins, Paul Merton, Jennifer Saunders, Julian Clary, Lucy Porter, Caroline Barlow Sound, Marc Willcox Producer, Rajiv Karia
+- 2026-02-23 — 4. Do you remember the programme Changing Rooms? — speakers: Changing Rooms, Bbc Radio
+- 2026-02-16 — 3. Do I need to repeat myself? — speakers: Bbc Radio
+- 2026-02-09 — 2. I’ve never seen anything like it! — speakers: Bbc Radio
+- 2026-02-02 — 1. The best curry in Bradford — speakers: Bbc Radio
+- 2025-10-20 — 6. Do you believe in soul mates? — speakers: Sue Perkins, Julian Clary, Rachel Parris, Paterson Joseph, Paul Merton, Bbc Radio
+- 2025-10-13 — 5. Whoopsie-daisy — speakers: Sue Perkins, Lucy Porter, Paul Merton, Stephen Mangan, Bbc Radio
+- 2025-10-06 — 4. What's that wonderful smell? — speakers: Sue Perkins, Gyles Brandreth, Tony Hawks, Emma Sidi, Desiree Burch, Bbc Radio
+- 2025-09-29 — 3. It's what Emily Brontë would have wanted — speakers: Emily Brontë, Sue Perkins, Paul Merton, Julian Clary, Paterson Joseph, Rachel Parris, Bbc Radio
+- 2025-09-22 — 2. Where's the live, laugh, love? — speakers: Sue Perkins, Tony Hawks, Desiree Burch, Gyles Brandreth, Emma Sidi, Bbc Radio
+- 2025-09-15 — 1. The time I went to Sue Perkins’ birthday party — speakers: Sue Perkins, Paul Merton, Lucy Porter, Stephen Mangan, Bbc Radio
+- 2025-03-24 — 6. Limoncello and Portobello — speakers: Josie Lawrence, Ivo Graham, Sara Pascoe, Bbc Radio
+- 2025-03-17 — 5. Does a Strawberry Have Dreams? — speakers: Sue Perkins, Paul Merton, Laura Smyth, Julian Clary, Desiree Burch, Bbc Radio
+- 2025-03-10 — 4. Does the second turning of the tide amount to repetition? — speakers: Sue Perkins, Tony Hawks, Ian Smith, Charlotte Ritchie, Bbc Radio
+- 2025-03-03 — 3. Hesitation, Repetition, Deviation or Enunciation — speakers: Josie Lawrence, Ivo Graham, Sara Pascoe, Bbc Radio
+- 2025-02-24 — 2. Where they make cheese and milk out of butterflies — speakers: Sue Perkins, Tony Hawks, Ian Smith, Charlotte Ritchie, Bbc Radio
+- 2025-02-17 — 1. A red phone called Kevin — speakers: Kevin Sue Perkins, Paul Merton, Laura Smyth, Julian Clary, Desiree Burch, Bbc Radio
+- 2025-01-13 — 8. The Day I Cut My Fringe, Rap Battles and Prawn Cocktail — speakers: Rap Battles, Prawn Cocktail Sue Perkins, Gyles Brandreth, Lucy Porter, Ria Lina, Rhys James, Bbc Radio
+- 2025-01-06 — 7. Mods and Rockers, The Perfect Mullet and Deep Sea Diving — speakers: Sue Perkins, Paul Merton, Jan Ravens, Tony Hawks, Desiree Burch, Bbc Radio
+- 2024-12-30 — 6. Fool's Gold, Tectonic Plates and Jane MacDonald — speakers: Jane MacDonald, Sue Perkins, Paul Merton, Holly Walsh, Alan Davies, Bbc Radio
+- 2024-12-23 — 5. Wordle, Swing Dancing and Broken Resolutions — speakers: Broken Resolutions Sue Perkins, Gyles Brandreth, Lucy Porter, Ria Lina, Rhys James, Bbc Radio
+- 2024-12-16 — 4. Whitney Houston, Foraging for Mushrooms and Duck Duck Goose — speakers: Whitney Houston, Paul Merton, Jennifer Saunders, Julian Clary, Anna Maxwell Martin, Bbc Radio
+- 2024-12-09 — 3. Bicycle Stabilisers, French New Wave and The Shining — speakers: Paul Merton, Alan Davies, Holly Walsh, Bbc Radio
+- 2024-12-02 — 2. Peanut Butter, Westminster Abbey and Alan Shearer — speakers: Peanut Butter, Westminster Abbey, Alan Shearer Sue, Paul Merton, Desiree Burch, Tony Hawks, Jan Ravens, Bbc Radio
+- 2024-11-25 — 1. Boxing Day Sales, Snakes and Ladders, and Turkey Sandwiches — speakers: Turkey Sandwiches Sue Perkins, Paul Merton, Jennifer Saunders, Julian Clary, Anna Maxwell Martin, Bbc Radio
+- 2024-11-18 — 6. Doubling down at the duvet factory — speakers: Sue Perkins, Lucy Porter, Gyles Brandreth, Desiree Burch, Glenn Moore, Bbc Radio
+- 2024-11-11 — 5. Cheek by jowl with some stubbly nosed man — speakers: Kiell Smith-Bynoe, Jenny Eclair, Josie Lawrence, Julian Clary, Sue Perkins, Bbc Radio
+- 2024-11-04 — 4. Trying Times - the national newspaper for judges — speakers: Sue Perkins, Jan Ravens, Tony Hawks, Stephen Fry, Bbc Radio
+- 2024-10-28 — 3. Rhymes with Touché and Suché and John Belushé — speakers: John Belushé Julian Clary, Jenny Eclair, Kiell Smith-Bynoe, Josie Lawrence, Sue Perkins, Bbc Radio
+- 2024-10-21 — 2. A Punk Band Called The Sticky Carpets — speakers: Lucy Porter, Gyles Brandreth, Desiree Burch, Glenn Moore, Bbc Radio
+- 2024-10-14 — 1. I’ve written down ‘Fleshy’, ‘England’ and ‘Chin’. — speakers: Sue Perkins, Stephen Fry, Jan Ravens, Tony Hawks, Bbc Radio
+- 2024-09-12 — 6. A Cat Called Hell — speakers: Tony Hawks, Eleanor Tiernan, Heidi Regan, Paul Merton, Bbc Radio
+- 2024-09-12 — 5. Angela Barnes never scrimps on colonics — speakers: Angela Barnes, Sue Perkins, Paul Merton, Eshaan Akbar, Lucy Porter, Bbc Radio
+- 2024-09-12 — 4. Kerry Godliman was an Olympic diver — speakers: Kerry Godliman, Sue Perkins, Paul Merton, Bbc Radio
+- 2024-09-12 — 3. Ned Kelly is Australian, right? — speakers: Ned Kelly, Sue Perkins, Paul Merton, Eleanor Tiernan, Heidi Regan, Tony Hawks, Bbc Radio
+- 2024-09-12 — 2. A Hundred Boy Scouts from Liechtenstein — speakers: Paul Merton, Lucy Porter, Angela Barnes, Eshaan Akbar, Bbc Radio
+- 2024-09-12 — 1. A Double Date with Prince Rainier, Hilda Ogden and Sophia Loren — speakers: Hilda Ogden, Sophia Loren, Sue Perkins, Paul Merton, Kerry Godliman, Bbc Radio
+- 2024-09-12 — Edinburgh Festival - MacAulay, Brandreth, Parris and McCabe — speakers: Sue Perkins, Bbc Radio
+- 2024-09-12 — Edinburgh Festival - Brandreth, Godley, Smith and Ashfaq — speakers: Sue Perkins, Bbc Radio
+- 2024-09-12 — 8. The Great Barrier Reef, Static Electricity and Pride and Prejudice — speakers: Gyles Brandreth, Jan Ravens, Tony Hawks, Rachel Parris, Bbc Radio
+- 2024-09-12 — 7. The Letter Q, Chaise Longue and Hazard of the Job — speakers: Chaise Longue, Paul Merton, Ivo Graham, Josie Lawrence, Bbc Radio
+- 2024-09-12 — 6. Columbo, Keanu Reeves and Vertigo — speakers: Vertigo Sue Perkins, Paul Merton, Shaparak Khorsandi, Heidi Regan, Bbc Radio
+- 2024-09-12 — 5. Humble Pie, Nuns and Dry Shampoo — speakers: Humble Pie, Gyles Brandreth, Jan Ravens, Tony Hawks, Rachel Parris, Bbc Radio
+- 2024-09-12 — 4. Whodunnit?, Revolving Restaurants and Tog Ratings — speakers: Paul Merton, Ivo Graham, Josie Lawrence, Bbc Radio
+- 2024-09-12 — 3. King Kong, Harry Houdini and Snake Charming — speakers: Harry Houdini, Paul Merton, Jennifer Saunders, Julian Clary, Lucy Porter, Bbc Radio
+- 2024-09-12 — 2. Tutankhamun, Haggling, and Canadian Cuisine — speakers: Canadian Cuisine Sue, Paul Merton, Shaparak Khorsandi, Heidi Regan, Bbc Radio
+- 2024-09-12 — 1. Quicksand, A Damp Squib, and Why I Could Win ‘The Traitors’ — speakers: Sue Perkins, Paul Merton, Jennifer Saunders, Julian Clary, Lucy Porter, Bbc Radio
 - 2024-09-11 — Welcome to Just a Minute — speakers: Minute Panel, Bbc Radio
