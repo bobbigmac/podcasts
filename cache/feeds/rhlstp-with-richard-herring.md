@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-02-21T07:01:37+00:00`
-- checked_at: `2026-02-21T07:01:37+00:00`
-- etag: `"djEuMi4wOjE3NzE2NDY0Mzk2OTU="`
+- fetched_at: `2026-02-23T07:21:01+00:00`
+- checked_at: `2026-02-23T07:21:01+00:00`
+- etag: `"djEuMi4wOjE3NzE4MTkwNTkyMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-02-21T07:01:37+00:00",
+  "fetched_at": "2026-02-23T07:21:01+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b4a5e564c78d0904b059b62d9aa92eb304f3fed9",
+      "title": "Retro RHLSTP 134 - Paul Chowdhry",
+      "published_at": "2026-02-23T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#425 Bearded Lady - Rich’s very slow take-over of TV continues and he has found a cheap and effective new drug, his guest is the man who stood in for Al Murray and who is now standing in for Nick Mohammed, (but he’s not taking it personally) Paul Chowdhry. They discuss facial hair, what constitutes a family friendly TV comic and whether edgy comedians are actually less controversial than the people on air, whether it’s possible to cancel someone who is not on TV, the problems facing comics if Matt Hancock becomes a light entertainer and the differences between a comic on and off stage and whether Chowdhry comes with a crust of fragility. See Paul on tour https://paulchowdhry.com/ It is not a family friendly show! Come and see us live http://richardherring.com/rhlstp Buy Richard’s new book here http://gofasterstripe.com/ball SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1771436079708-54369f5e-e0ef-4e22-b8e2-f245ad4af050.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6995f7dce1d8773119bbabf7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39878023",
+      "itunes_duration": "1:17:10",
+      "speakers": [
+        "Paul Chowdhry",
+        "Al Murray",
+        "Nick Mohammed",
+        "Matt Hancock",
+        "Buy Richard",
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "paul",
+        "chowdhry"
+      ]
+    },
     {
       "key": "e1b54aba761aaa839cc93d8155f12a1f2754977c",
       "title": "RAACN week 4",
@@ -23183,6 +23208,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — Retro RHLSTP 134 - Paul Chowdhry — speakers: Paul Chowdhry, Al Murray, Nick Mohammed, Matt Hancock, Buy Richard, Richard Herring
 - 2026-02-21 — RAACN week 4 — speakers: Barack Obama, Jesse Jackson, Richard Herring
 - 2026-02-20 — RHLSTP Book Club 170 - Fergus Craig — speakers: Craig Rhl, Fergus Craig, Martin Fishback, Richard Herring
 - 2026-02-18 — RHLSTP 599 - Adam Pearson — speakers: Adam Pearson, Scarlett Johansson, Richard Herring

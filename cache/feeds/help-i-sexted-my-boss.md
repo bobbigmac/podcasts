@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-02-20T15:53:04+00:00`
-- checked_at: `2026-02-20T15:53:04+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpFMk1ERXhPRGN3TVRBPTo6c2F4ZXNz"`
+- fetched_at: `2026-02-23T07:21:01+00:00`
+- checked_at: `2026-02-23T07:21:01+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpFNE1qWTBNems0TURFPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-02-20T15:53:04+00:00",
+  "fetched_at": "2026-02-23T07:21:01+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9eba108f6abbbce3376733ab4a83c4bcd23fb5c7",
+      "title": "Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance",
+      "published_at": "2026-02-23T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-im-not-charging-mums-vibrator-and-william-is-high-maint",
+      "description": "Who's more high maintenance out of our favourite podcast pair? The boys can't quite decide in the studio as tensions run high, though they do love each other really. Elsewhere Jordan prepares to have his wisdom teeth pulled out, a G&Diva's mum has an unexpected battery-changing request and EPB shares an embarrassing story from a session in the gym - except he wasn't the one left embarrassed!",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "43:36",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "vibrator",
+        "william",
+        "maintenance"
+      ]
+    },
     {
       "key": "86819d80cd55a24f15a409281ff8c12248f43732",
       "title": "Jordan FAINTS | And Sushi With Half Pints",
@@ -803,7 +824,6 @@
       "enclosure_length": "72773854",
       "itunes_duration": "50:08",
       "speakers": [
-        "Taylor Swift",
         "Arena Wembley",
         "William Hanson",
         "Jordan North"
@@ -12627,7 +12647,6 @@
       "enclosure_length": "95999168",
       "itunes_duration": "39:59",
       "speakers": [
-        "Donald Trump",
         "William Hanson",
         "Jordan North"
       ],
@@ -13742,6 +13761,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance — speakers: William Hanson, Jordan North
 - 2026-02-20 — Jordan FAINTS | And Sushi With Half Pints — speakers: Producer Ben, William Hanson, Jordan North
 - 2026-02-17 — Help There’s A Fishy Smell | And William Gets Chintzy — speakers: Fishy Smell, William Gets Chintzy, William Hanson, Jordan North
 - 2026-02-13 — Who’s The CAMPEST?! | And Taking Advantage Of Jordan — speakers: Burnley Wallet, William Hanson, Jordan North
@@ -13776,7 +13796,7 @@
 - 2025-10-24 — Throuples, Builder Kinks and Locktober — speakers: Builder Kinks, William Hanson, Jordan North
 - 2025-10-21 — Help My Pussy's In The Dark — speakers: Desmond Tutu, William Hanson, Jordan North
 - 2025-10-17 — Strange Turn-Ons, Fanny Hoare and Bottom Badges — speakers: Bottom Badges William, Arena Wembley, William Hanson, Jordan North
-- 2025-10-14 — Help I Gave Myself A Colonic — speakers: Taylor Swift, Arena Wembley, William Hanson, Jordan North
+- 2025-10-14 — Help I Gave Myself A Colonic — speakers: Arena Wembley, William Hanson, Jordan North
 - 2025-10-10 — Disappearing Chocolate, Naughty Rings and See It, Say It, Sexted — speakers: Arena Wembley, William Hanson, Jordan North
 - 2025-10-07 — Help He’s Getting His Wand Out — speakers: Arena Wembley, William Hanson, Jordan North
 - 2025-10-03 — Sincere Words, Takeaways and Horse Beans — speakers: Horse Beans, Sabrina Carpenter, Dixon Dallas, Arena Wembley, William Hanson, Jordan North
@@ -14329,7 +14349,7 @@
 - 2019-06-13 — Owain Calls The Help Hotline — speakers: Owain Wyn Evans, Producer Ben, William Hanson, Jordan North
 - 2019-06-11 — Help What Happens In Monaco Doesn't Stay In Monaco — speakers: William Hanson, Jordan North
 - 2019-06-06 — Help It's The State Visit Extra Bits — speakers: William Hanson, Jordan North
-- 2019-06-04 — Help It's William's State Visit To Burnley — speakers: Donald Trump, William Hanson, Jordan North
+- 2019-06-04 — Help It's William's State Visit To Burnley — speakers: William Hanson, Jordan North
 - 2019-05-31 — Taylor From Drunk Women Solving Crime Calls The Help Hotline — speakers: Producer Ben, Taylor Glenn, William Hanson, Jordan North
 - 2019-05-28 — Help Jordan Has An Idea — speakers: hair William, William Hanson, Jordan North
 - 2019-05-21 — Help My Best Man Wants To Go Commando — speakers: Producer Ben, William Hanson, Jordan North

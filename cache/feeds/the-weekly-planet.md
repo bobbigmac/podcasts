@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-02-23T03:19:38+00:00`
-- checked_at: `2026-02-23T03:19:38+00:00`
-- etag: `"djEuMi4wOjE3NzE4MDQxNTg4MjM="`
+- fetched_at: `2026-02-23T07:21:01+00:00`
+- checked_at: `2026-02-23T07:21:01+00:00`
+- etag: `"djEuMi4wOjE3NzE4MjgzMTM5NzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-02-23T03:19:38+00:00",
+  "fetched_at": "2026-02-23T07:21:01+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "865dd90de7c57184a7f18143baaeae080b6bc698",
+      "title": "611 Best/Worst Crossovers & Wuthering Heights",
+      "published_at": "2026-02-23T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/611-bestworst-crossovers-wuthering-heights",
+      "description": "It's been a while since a topic episode. And I blame the neverending barage of content QUITE FRANKLY. But this week we're discussion the best and worst crossovers of all time across movies, tv shows and comics books. Plus we talk the passing of Robert Duvall, a new synopsis for Spider-Man: Brand New Day Synopsis, plans for The Batman Trilogy, the Tom Cruise vs. Brad Pitt AI update, trailers for The Mandalorian vs. Groglet and Toy Story 5, what happened to The Hunt for Ben Solo movie and we review Wuthering Heights. Thanks for listening! New bonus let's play video out now and it's STAR WARS! Check out the entire back-catalogue of Never Go Back series plus every movie commentary, bonus podcast, Q&A episode, ad-free feeds and early access on bigsandwich.co PLEASE be aware timecodes may shift up to a few minutes due to inserted ads. 00:00 The Start 02:38 RIP Robert Duvall 07:16 Spider-Man: Brand New Day Synopsis 10:23 The Batman Trilogy & DCU Plans 13:48 Cruise vs Pitt Fight AI Update 19:06 Game of Thrones: Dunk & Egg Recap 21:08 Toy Story 5 Trailer 23:30 The Mandalorian & Grogu Trailer 27:26 Kylo Ren Ben Solo Movie Latest 30:35 Best & Worst Crossovers Topic 01:04:44 What We Wuthering, What We Gonna Read 01:18:40 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6998766e166f176858ccdbe0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138362911",
+      "itunes_duration": "1:36:05",
+      "speakers": [
+        "Robert Duvall",
+        "Tom Cruise",
+        "Brad Pitt AI",
+        "Ben Solo",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "worst",
+        "crossovers",
+        "wuthering",
+        "heights"
+      ]
+    },
     {
       "key": "3a5e38d4dc0063bc017e86e87092fa3f327e6197",
       "title": "Return of the Jedi - Caravan Of Garbage",
@@ -23514,6 +23540,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — 611 Best/Worst Crossovers & Wuthering Heights — speakers: Robert Duvall, Tom Cruise, Brad Pitt AI, Ben Solo, James Clement, Nick Mason
 - 2026-02-19 — Return of the Jedi - Caravan Of Garbage — speakers: Luke Skywalker, Darth Vader, Death Star, George Lucas, James Clement, Nick Mason
 - 2026-02-15 — 610 Crime 101 & Marvel vs Star Wars Crossover — speakers: John Wick, Tom Cruise, Brad Pitt, John Wick Video, James Clement, Nick Mason
 - 2026-02-12 — The Empire Strikes Back - Caravan Of Garbage — speakers: Luke Skywalker, George Lucas, James Clement, Nick Mason
