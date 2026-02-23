@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- last_modified: `Sat, 15 Nov 2025 01:05:48 GMT`
+- fetched_at: `2026-02-23T16:02:43+00:00`
+- checked_at: `2026-02-23T16:02:43+00:00`
+- last_modified: `Mon, 23 Feb 2026 15:36:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
   "description": "'Out with Suzi Ruffell' is a podcast all about the inspiring lives of LGBTQIA+ people.",
   "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/e0903065c71d528cc519824f6223176f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-02-23T16:02:43+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
