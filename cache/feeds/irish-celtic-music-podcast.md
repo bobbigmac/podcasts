@@ -2,11 +2,11 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"104f5e6d85590809f9bf033fa20bf9f8"`
-- last_modified: `Thu, 19 Feb 2026 08:35:43 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-23T13:41:58+00:00`
+- checked_at: `2026-02-23T13:41:58+00:00`
+- etag: `"5135e6f1edd36406d509a9a7f72d6a6b"`
+- last_modified: `Mon, 23 Feb 2026 13:20:27 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,8 +18,10 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-23T13:41:58+00:00",
+  "owners": [
+    "Marc Gunn"
+  ],
   "common_speakers": [],
   "categories": [
     "music"
@@ -5295,7 +5297,8 @@
       "enclosure_length": "288464",
       "itunes_duration": "37",
       "speakers": [
-        "St Patrick"
+        "St Patrick",
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -5536,7 +5539,8 @@
       "enclosure_length": null,
       "itunes_duration": null,
       "speakers": [
-        "any job"
+        "any job",
+        "Marc Gunn"
       ],
       "topics": []
     },
@@ -6548,7 +6552,9 @@
       "enclosure_type": null,
       "enclosure_length": null,
       "itunes_duration": null,
-      "speakers": [],
+      "speakers": [
+        "Marc Gunn"
+      ],
       "topics": [
         "giving",
         "celtic"
@@ -16624,7 +16630,8 @@
         "Rie Sheridan Rose",
         "Nancy FLynn",
         "Rüdiger Reinhardt",
-        "Tam Lin"
+        "Tam Lin",
+        "Marc Gunn"
       ],
       "topics": [
         "feature",
@@ -17175,7 +17182,8 @@
         "Sheridan Band",
         "Jimi McRae",
         "Sam Okoo",
-        "George Papavgeris"
+        "George Papavgeris",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17205,7 +17213,8 @@
         "Heather Alexander",
         "Jimmy Keefe",
         "Josie McDermott",
-        "Rootsy Folky"
+        "Rootsy Folky",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17516,7 +17525,8 @@
       "speakers": [
         "Marc Gunn Celtic",
         "Kan Bale",
-        "Lída Lidunka"
+        "Lída Lidunka",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18232,7 +18242,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57081200",
       "itunes_duration": "59:27",
-      "speakers": [],
+      "speakers": [
+        "Marc Gunn"
+      ],
       "topics": [
         "irishcelticmusic067cleanmp3"
       ]
@@ -18935,7 +18947,8 @@
         "Saint James",
         "Wild Colonial",
         "Bloody Dawn",
-        "Song Henge"
+        "Song Henge",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -20396,7 +20409,7 @@
 - 2022-03-16 — St Patrick's Day 2022 — speakers: St Patrick, Gothard Sisters, Dave Curley, Jackie Oates, Andy Irvine, Marc Gunn Sam Gillogly, Avon Faire, Colin Farrell
 - 2022-03-10 — St. Patrick's Ireland #548 — speakers: St Patrick, Carroll Sisters, John Doyle, Bonnie Rideout, Seamus Kennedy, Kevin Burke, Brobdingnagian Bards, Bonny Kellswater
 - 2022-03-03 — St. Patrick #547 — speakers: St Patrick, Dom Duff, John Doyle, John Weber, Kris Colt, Coole Park, Marc Gunn, Finn Byrne
-- 2022-03-01 — St Patrick's Day Party Begins! — speakers: St Patrick
+- 2022-03-01 — St Patrick's Day Party Begins! — speakers: St Patrick, Marc Gunn
 - 2022-02-24 — The Women of Irish & Celtic Music #546 — speakers: Lissa Schneckenburger, Jenna Moynihan, Heather Dale, Dublin Abbey, Bonnie Rideout, Beth Patterson, Secret Sky, Liesel Wilson
 - 2022-02-17 — Slow Travel #545 — speakers: Enda Seery, Brad Reid, Marc Gunn, Andy Law, Kathy Barwick, Banna De Dhá, Eddie Biggins, Marys Lane
 - 2022-02-10 — Places So Sacred #544 — speakers: Poitin Band, Vintage Wildflowers, Wooden Legs, Hugh Morrison, Rising Gael, Kilmaine Saints, Duncan McLauchlan, Animali Hugh Morrison
@@ -20406,7 +20419,7 @@
 - 2022-01-13 — Wonder #540 — speakers: Gerry O'Connor, Cara Dillon, Alisa Marie, Tuatha Dea, Creadeamh Sí, Peggy Gordon, Miranda Nelson Designs, Marc Gunn
 - 2022-01-06 — Out With the Old, In With the New #539 — speakers: Widening Gyre, Muireann Nic Amhlaoibh, Michael William Harrison, Jon Pilatzke, Tuatha Dea, Linda King, Brian Boru, Miranda Nelson Designs
 - 2022-01-01 — Submit Your Music — speakers: Marc Gunn
-- 2022-01-01 — FAQ — speakers: any job
+- 2022-01-01 — FAQ — speakers: any job, Marc Gunn
 - 2022-01-01 — Promote Yourself — speakers: Irish Song Lyrics, Click Share, Album Name, Marc Gunn
 - 2021-12-30 — Celtic Top 20 Best Celtic Songs & Tunes of 2021 #538 — speakers: Heather Dale, Brad Reid, Beth Patterson, Will Macmorran, Marc Gunn, Brass Lassie, Moch Pryderi, Deirdre Graham
 - 2021-12-23 — Happy Celtic Christmas 2021 #537 — speakers: Adam Young, Terry McDade, Gaelynn Lea, Sharon Shannon, Marc Gunn, Stephanie Claussen, Brightest Dawn Steel City, Miranda Nelson Designs
@@ -20446,7 +20459,7 @@
 - 2021-04-08 — Celtic Women #503 — speakers: Liesel Wilson, Amelia Hogan, Gothard Sisters, Graham Dunne, Caroline Bennett, Lisa Schettner, Sue Spencer, Cathy Jordan
 - 2021-04-03 — Easter Peace Bonus #502 — speakers: Mike Katz, Cady Finlayson, Deirdre Graham, Sarah Marie Mullen, Seumas Gagne, William Jackson, Celeste Howard, Claire Roche Support
 - 2021-03-25 — My Johnny Was A Shoemaker #502 — speakers: Cady Finlayson, Adam Beattie, Karen Matheson, Marys Lane, Miranda Nelson Designs, Marc Gunn, Kathy Stanford, Kenn Brooks
-- 2021-03-17 — We're giving away 34 Celtic MP3s...
+- 2021-03-17 — We're giving away 34 Celtic MP3s... — speakers: Marc Gunn
 - 2021-03-17 — Happy St. Patrick's Day #501 — speakers: St Patrick, Mike Katz, Jesse Ferguson, Adam Beattie, Laughing Jack, Eddie Biggins, Heather Dale, Andrew McManus
 - 2021-03-11 — St. Patrick's Day Mind-Blowing Tribute #500 — speakers: St Patrick, Brad Reid, Jesse Ferguson, Colleen Raney, Emma Langford, Deirdre Graham, Beth Patterson, Caliceltic Ed Miller
 - 2021-03-04 — St. Patrick's Day 17 #499 — speakers: St Patrick, Joseph Carmichael, Muireann Nic Amhlaoibh, Rising Gael, Marc Gunn Sam Gillogly, Gerry O'Beirne, Gothard Sisters, Sylvia Woods
@@ -20828,7 +20841,7 @@
 - 2012-07-11 — Irish & Celtic Music Podcast #125: Tricky Pixie, Bill Grogan's Goat, Tara's Fire — speakers: Bill Grogan, Marc Gunn, Tara’s Fire, Bill Grogan’s Goat, Rie Sheridan, Rie Sheridan Rose, Danny Boy
 - 2012-06-29 — Irish & Celtic Music Podcast #124: Brian Thomas, Celtic Pipes Rock!, Culbeag — speakers: Brian Thomas, Steve Hawson, Ceol Gan Achar, Doug Folkins, Pog Mo Thon, Rie Sheridan, Rie Sheridan Rose, Tara Hill
 - 2012-05-30 — Irish & Celtic Music Podcast #123: Derek Warfield, Poitin, Iarla O'Lionaird — speakers: Derek Warfield, Iarla O'Lionaird, Mickey Coleman, Noel Nash, Danny O’Flaherty, Merry Wives, Leah Jorgensen, Ed Miller
-- 2012-05-10 — #122: Feature on the Bodhran — speakers: George Murphy, Hugh Morrison, Rie Sheridan, Rie Sheridan Rose, Nancy FLynn, Rüdiger Reinhardt, Tam Lin
+- 2012-05-10 — #122: Feature on the Bodhran — speakers: George Murphy, Hugh Morrison, Rie Sheridan, Rie Sheridan Rose, Nancy FLynn, Rüdiger Reinhardt, Tam Lin, Marc Gunn
 - 2012-04-18 — Irish & Celtic Music Podcast #121 — speakers: Oisin McAuley, Susan Kidney, Donna Germano, Ed Miller, Canned Haggis, Rie Sheridan, Rie Sheridan Rose, Oisín McAuley
 - 2012-03-14 — #120: St Patrick's Day Special MP3 Downloads — speakers: St Patrick, Sean Orr, Jesse Ferguson, Marc Gunn, Leah Jorgenson, Danny O’Flaherty, Noel Nash, Vintage Wildflowers
 - 2012-03-07 — #119: Best Celtic Artists for St Patrick's Day 2012 — speakers: St Patrick, Colin Farrell, Jimi McRae Sam Okoo, Jonny Dyer, Heather Alexander, Keith Hinchliffe, Molly Bauckham, Gaelic Storm
@@ -20846,8 +20859,8 @@
 - 2011-07-07 — Irish Celtic Music #107: Colin Farrell, Ciara Considine, StoneRing, Danny Carthy — speakers: Colin Farrell, Ciara Considine, Danny Carthy Music, Colleen Raney, Jimi McRae, Danny Carthy, John McGaha, Laura McGhee
 - 2011-06-19 — Happy Father's Day Celtic Music #106: Johnson's Motorcar, Maggie Sansone, Ken O'Malley — speakers: Maggie Sansone, Ken O'Malley, Dan Milner, Gerry O'Beirne, Rosie Shipley, Maggie Drennon, Marc Gunn, Brobdingnagian Bards
 - 2011-06-08 — Irish Celtic Music #105: Texas Scottish Festival w/ Clandestine, Seamus Stout, Hugh Morrison, Tullamore — speakers: Seamus Stout, Hugh Morrison, Jed Marum, Don Gabbert, Marc Gunn, Ed Miller, Ray MacDonald, Rigs O'Barley
-- 2011-05-26 — Irish Celtic Music #104: The Flying Toads, FiddleSticks, Mithril, Rambling Sailors — speakers: Jillian LaDage, Sarah Dinan, Emerald Rose, Sheridan Band, Jimi McRae, Sam Okoo, George Papavgeris
-- 2011-04-12 — Irish Celtic Music #103: Celtic Instrumentals — speakers: Jonny Dyer, Heather Alexander, Jimmy Keefe, Josie McDermott, Rootsy Folky
+- 2011-05-26 — Irish Celtic Music #104: The Flying Toads, FiddleSticks, Mithril, Rambling Sailors — speakers: Jillian LaDage, Sarah Dinan, Emerald Rose, Sheridan Band, Jimi McRae, Sam Okoo, George Papavgeris, Marc Gunn
+- 2011-04-12 — Irish Celtic Music #103: Celtic Instrumentals — speakers: Jonny Dyer, Heather Alexander, Jimmy Keefe, Josie McDermott, Rootsy Folky, Marc Gunn
 - 2011-03-16 — St. Patrick's Day Music #102: In Search of a Rose, The Canny Brothers Band, Jasper Coal — speakers: Jasper Coal, Dun Aengus, Jonny Dyer, Marc Gunn, Jim Brannigan, Abby Green, John Byrne Band, Jack Montgomery
 - 2011-03-06 — Best Celtic Artists for St Patrick's Day #101: Heidi Talbot, Merry Wives of Windsor, Round the House — speakers: St Patrick, Heidi Talbot, Merry Wives, Locklin Road, Anne Roos, Anton Emery, Jonny Dyer, Holly Kirby
 - 2011-03-03 — Irish Celtic Music #100: Gillian Boucher, The Whiskey Boys, Brendan Monaghan — speakers: Gillian Boucher, Brendan Monaghan, Jerry McLean, Marc Gunn, Brobdingnagian Bards, Mary Come, Jeannie Waldie, Joe Cooley
@@ -20857,7 +20870,7 @@
 - 2010-12-21 — Celtic Christmas Music Special #96: Wicked Tinkers, Don Grieve, Altan, Angus Mohr — speakers: Don Grieve, Angus Mohr, Samantha Gillogly, Brobdingnagian Bards, Boston Blackthorne, Jennifer Grassman, Ron Cody, Oona McOuat
 - 2010-12-10 — Celtic Christmas #95: Tommy Sands, Eileen Ivers, Banshee in the Kitchen — speakers: Tommy Sands, Eileen Ivers, Wicked Tinkers, Locklin Road, Marc Gunn, Nancy Daily Green, Fred Gosbee
 - 2010-11-10 — Irish & Celtic Music #94: Damh the Bard, The Gleasons, Jenna Greene, Stonecircle — speakers: Jenna Greene, Brad Reid, Sligo Rags, Claire Roche, Brobdingnagian Bards, Angus Mohr, Myth Podshow St Patrick, Serious Kitchen
-- 2010-10-14 — Irish & Celtic Music Podcast #93 – Celtic Music Feature on Poitin's CD "Jiggery Pokery" — speakers: Marc Gunn Celtic, Kan Bale, Lída Lidunka
+- 2010-10-14 — Irish & Celtic Music Podcast #93 – Celtic Music Feature on Poitin's CD "Jiggery Pokery" — speakers: Marc Gunn Celtic, Kan Bale, Lída Lidunka, Marc Gunn
 - 2010-10-06 — Irish & Celtic Music Podcast #92 – Music for Halloween and Samhain — speakers: Heather Dale, Grey Aengus, Jasper Coal, Serious Kitchen, David Nigel Lloyd, John McLean Allan, Angus Mohr, Marc Gunn
 - 2010-09-29 — Jed Marum's Album "The Soul of a Wanderer" Special Feature #91 — speakers: Jed Marum, Drill Ye Tarriers, Marc Gunn
 - 2010-09-26 — Irish & Celtic Music Podcast #90: Rising of the Moon — speakers: Michael William Harrison, Jim Clarke Granny, Nancy Daily-Green, James Raynard, Ann Sannat, Jasper Coal, Locklin Road, St Patrick
@@ -20883,7 +20896,7 @@
 - 2009-08-30 — Irish & Celtic Music Podcast #70 — speakers: Jonny Dyer, Cady Finlayson, Marc Gunn, Nancy Daily-Green, Adam Alexander, Joe Travers, Heather Dale, Tullamore Brought
 - 2009-07-15 — Celtic Music Feature #69: Texas Scottish Festival — speakers: Hugh Morrison, Jed Marum, Marc Gunn, Ed Miller, Don Gabbert, com Brought, Song Henge, Marc Gunn Post
 - 2009-06-05 — Irish & Celtic Music Podcast #68 — speakers: Madd Paddy, Ceili Moss, Squall Brought, Song Henge, Marc Gunn, Laurel Thomsen, Ed Miller, Beth Patterson
-- 2009-05-08 — IrishCelticMusic-067_clean.mp3
+- 2009-05-08 — IrishCelticMusic-067_clean.mp3 — speakers: Marc Gunn
 - 2009-04-20 — Irish & Celtic Music Podcast #66 — speakers: Marc Gunn, Marc Gunn Celtic, Merry Measure, Ron Cody, Ed Miller, Jillian LaDage, Sleepy Maggie, Beth Patterson
 - 2009-03-17 — St. Patrick's Day feature on Best of the Irish & Celtic Music Podcast Compilation #65 — speakers: Sligo Rags, Hugh Morrison, Anne Roos, Beth Patterson, Jesse Ferguson, Jamie Laval, Ashley Broder, Maidens IV
 - 2009-03-12 — St. Patrick's Day Music Special #64 — speakers: Jed Marum, Hugh Morrison, Brian Hebert, Mactalla Mor, Marc Gunn, Henk Hopman, Mick Moloney, Waywood Folk
@@ -20909,7 +20922,7 @@
 - 2008-01-28 — More Fantastic Celtic Music for 2008 #45 — speakers: Jamie Laval, Ashley Broder, Heather Dale, Emerald Rose, Allison Barber, Ed Miller, Thornhill Road, Song Henge
 - 2008-01-06 — Best Celtic Music of 2007 #44 — speakers: Heather Dale, Emerald Rose, Allison Barber, Ed Miller, Thornhill Road, Ashley Broder, Brobdingnagian Bards, Jed Marum
 - 2007-12-16 — Celtic Christmas Special #43 — speakers: Gypsy Soul, Seamus Kennedy, Cady Finlayson, Merry Wives, Celeste Howard, Heather Dale, Coyote Run, Brobdingnagian Bards
-- 2007-11-20 — Irish Music Feature on Jed Marum's CD Lonestar Stout #42 — speakers: Jed Marum, Lonestar Stout, Foggy Dew, Saint James, Wild Colonial, Bloody Dawn, Song Henge
+- 2007-11-20 — Irish Music Feature on Jed Marum's CD Lonestar Stout #42 — speakers: Jed Marum, Lonestar Stout, Foggy Dew, Saint James, Wild Colonial, Bloody Dawn, Song Henge, Marc Gunn
 - 2007-11-09 — IrishCelticMusic-041.mp3 — speakers: Song Henge, Theobald Wolfetone, Terry Griffith, Kevin Collins, Kenny Klein, Black Jack, Allison Barber, Jacie McConnell
 - 2007-10-12 — IrishCelticMusic-040.mp3 — speakers: IrishCelticMusic mp Brought, Song Henge, Seamus Kennedy, Claire Roche, Knotty Tales, Catherine Duc, Con Suite Next, Kevin Collins
 - 2007-09-26 — IrishCelticMusic-039.mp3 — speakers: Song Henge, Marc Gunn, Ashley Broder, Tam Linn Set, Catherine Duc, Strange Woods, Caber Loo, Claire Roche

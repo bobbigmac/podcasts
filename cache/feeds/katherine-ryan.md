@@ -2,10 +2,10 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"djEuMi4wOjE3NzE0MDQ3NzYzMjM="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-23T13:41:58+00:00`
+- checked_at: `2026-02-23T13:41:58+00:00`
+- etag: `"djEuMi4wOjE3NzE4NDcyNTQ4MjU="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,15 +17,33 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-23T13:41:58+00:00",
   "owners": [
     "Katherine Ryan"
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british"
+    "comedy"
   ],
   "episodes": [
+    {
+      "key": "1f5451921b0e81a7b4d85f5166225d636be360b0",
+      "title": "You Wanna Be On Top?",
+      "published_at": "2026-02-23T11:47:34+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/you-wanna-be-on-top",
+      "description": "Katherine's Telling Everybody Everything about disclosure and learning to be just a little more discreet. Construction kicks off next door as 'renovations' turn out to be a full knock down and rebuild of what will surely be a beautiful home (so who cares really) but The Ryan-Kootstras are in for a springtime of dust and noise! Bobby K joins us to discuss America's Next Top Model and some of his childhood crushes. McSteamy has died and Bobby was often compared to him because of his sexy grey hair. Plus, your letters on how to navigate relationships where values clash and more info on pregnancy by deception. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1771846865983-267c0b7d-7121-4537-85b6-c965e4539d63.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/699c3e56f863de959a742692/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83294167",
+      "itunes_duration": "57:50",
+      "speakers": [
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "wanna"
+      ]
+    },
     {
       "key": "e20897038f0b01855864622bcae96e09cb7947d2",
       "title": "Caught Out In My Pants",
@@ -517,7 +535,6 @@
         "Discuss Taylor",
         "Travis Engagement",
         "Travis Kelce",
-        "Taylor Swift",
         "Katherine Ryan"
       ],
       "topics": [
@@ -754,7 +771,6 @@
         "Katie Price",
         "Justin Bieber",
         "Will Trump",
-        "Elon Musk",
         "Katherine Ryan"
       ],
       "topics": [
@@ -857,7 +873,6 @@
       "enclosure_length": "70239421",
       "itunes_duration": "48:46",
       "speakers": [
-        "Donald Trump",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1177,7 +1192,6 @@
       "itunes_duration": "32:28",
       "speakers": [
         "Tik Tok",
-        "Taylor Swift",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1429,7 +1443,6 @@
       "enclosure_length": "49581161",
       "itunes_duration": "34:25",
       "speakers": [
-        "Donald Trump",
         "Nicole Sherzinger",
         "Tony Award",
         "Katherine Ryan"
@@ -1676,7 +1689,6 @@
       "itunes_duration": "33:36",
       "speakers": [
         "Dave Grohl",
-        "Taylor Swift",
         "Lottie Moss",
         "Kourtney Kardashian",
         "Casey Anthony",
@@ -1891,7 +1903,6 @@
       "speakers": [
         "Anthony Ammirati",
         "Robert Kennedy JR",
-        "Taylor Swift",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2010,7 +2021,6 @@
       "enclosure_length": "54083836",
       "itunes_duration": "37:33",
       "speakers": [
-        "Donald Trump",
         "Katy Perry",
         "Alec Baldwin",
         "Katherine Ryan"
@@ -2177,7 +2187,6 @@
       "enclosure_length": "95284999",
       "itunes_duration": "1:06:09",
       "speakers": [
-        "Nigel Farage",
         "Alec Baldwin",
         "Miriam Margoyles",
         "Katherine Ryan"
@@ -2471,7 +2480,6 @@
       "enclosure_length": "64454030",
       "itunes_duration": "44:45",
       "speakers": [
-        "Taylor Swift",
         "Travis Kelce",
         "Katherine Ryan"
       ],
@@ -2643,7 +2651,6 @@
       "enclosure_length": "77115059",
       "itunes_duration": "53:32",
       "speakers": [
-        "Taylor Swift",
         "Angelina Jolie",
         "Brad Pitt",
         "Katherine Ryan"
@@ -3613,7 +3620,6 @@
       "enclosure_length": "98372045",
       "itunes_duration": "1:08:18",
       "speakers": [
-        "Elon Musk",
         "Matt Hancock",
         "Katherine Ryan"
       ],
@@ -3753,7 +3759,6 @@
       "itunes_duration": "52:48",
       "speakers": [
         "Nick Cannon",
-        "Elon Musk",
         "Katherine Ryan"
       ],
       "topics": []
@@ -4797,7 +4802,6 @@
       "enclosure_length": "62849067",
       "itunes_duration": "43:38",
       "speakers": [
-        "Boris Johnson",
         "Ted Bundy Film",
         "Katherine Ryan"
       ],
@@ -5981,6 +5985,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — You Wanna Be On Top? — speakers: Katherine Ryan
 - 2026-02-18 — Caught Out In My Pants — speakers: Katy Perry, Katherine Ryan
 - 2026-02-10 — The Facelift — speakers: Katherine Ryan
 - 2026-02-02 — LA and a True Crime Treat — speakers: Andrew Johnston, Katherine Ryan
@@ -6004,7 +6009,7 @@
 - 2025-10-01 — Bobby's Micropeen, Tylenol and NFL — speakers: Noel Fitzpatrick, Tik Toks, Katherine Ryan
 - 2025-09-23 — Legoland and Why You Can't Trust A Man With Numbers in His Name — speakers: Legoland Windsor Vip NO, Steffon Diggs, Katherine Ryan
 - 2025-09-15 — Another Strictly Cheater, Charlie Kirk and WOMEN — speakers: Charlie Kirk, Katherine Ryan
-- 2025-09-06 — Violet Joins to Discuss Taylor & Travis ENGAGEMENT — speakers: Discuss Taylor, Travis Engagement, Travis Kelce, Taylor Swift, Katherine Ryan
+- 2025-09-06 — Violet Joins to Discuss Taylor & Travis ENGAGEMENT — speakers: Discuss Taylor, Travis Engagement, Travis Kelce, Katherine Ryan
 - 2025-08-29 — Cardi B in Court and The Bop House — speakers: Bop House, Katherine Ryan
 - 2025-08-22 — Professional Father — speakers: Katie Price, Katherine Ryan
 - 2025-08-13 — Too Fit to Fly? — speakers: Katherine Ryan
@@ -6015,12 +6020,12 @@
 - 2025-07-09 — The Cuck Chair — speakers: Lauren Sanchez, Katherine Ryan
 - 2025-06-25 — Stalker Being Released in August — speakers: Chris Brown, Sabrina Carpenter, Ricki Lake, Kris Jenner, Katherine Ryan
 - 2025-06-14 — Breastfeeding Rows and Fathers Day — speakers: Karen Millen, Katherine Ryan
-- 2025-06-10 — Bieber's Red Flags and THOSE PIES — speakers: strawberry custard, Katie Price, Justin Bieber, Will Trump, Elon Musk, Katherine Ryan
+- 2025-06-10 — Bieber's Red Flags and THOSE PIES — speakers: strawberry custard, Katie Price, Justin Bieber, Will Trump, Katherine Ryan
 - 2025-06-04 — Cancel Mighty Hoopla — speakers: Cancel Mighty Hoopla, Mighty Hoopla, Katherine Ryan
 - 2025-06-01 — RIP Meg Ryan — speakers: Rip Meg Ryan, Katherine Ryan
 - 2025-05-28 — Bobby's 9/11 — speakers: Kris Jenner, Katherine Ryan
 - 2025-05-21 — Chris Brown, Diddy and Of COURSE I've Seen The Facelift — speakers: Chris Brown, Katherine Ryan
-- 2025-05-08 — *NEW SEASON* Cheryl's Millions, Bey's Kids, Met Gala and More — speakers: Donald Trump, Katherine Ryan
+- 2025-05-08 — *NEW SEASON* Cheryl's Millions, Bey's Kids, Met Gala and More — speakers: Katherine Ryan
 - 2025-04-27 — Would Shannon Sharpe Bang A Woman His Own Age for $50M? — speakers: Gen Zs, Shannon Sharpe, Katherine Ryan
 - 2025-04-17 — Space Up Your Life — speakers: Aimee Lou Wood, Katherine Ryan
 - 2025-04-05 — Foxy Knoxy Book, Kim K's New Man, Kids Swim Lessons — speakers: Foxy Knoxy Book, Amanda Knox, Katherine Ryan
@@ -6035,7 +6040,7 @@
 - 2025-02-13 — My Boyfriend Has Two Girlfriends...And A WIFE — speakers: Serena Williams, Armie Hammer, Katherine Ryan
 - 2025-02-05 — Kanye Koercive Kontrol? — speakers: Kanye Koercive Kontrol, Kanye West, Karla Sofía Gascón, Katherine Ryan
 - 2025-01-31 — Julia Haart wins £75M — speakers: Julia Haart, Barack Obama, Katherine Ryan
-- 2025-01-23 — Captain Camp — speakers: Tik Tok, Taylor Swift, Katherine Ryan
+- 2025-01-23 — Captain Camp — speakers: Tik Tok, Katherine Ryan
 - 2025-01-17 — Now I Know What a 'Bonnie Blue' Is — speakers: Bonnie Blue, Heidi Montag, Katherine Ryan
 - 2025-01-08 — Another Masked Intruder!? — speakers: Nikki Glaser, Katherine Ryan
 - 2025-01-05 — Molly Mae & Haircut Reunion Rumours? — speakers: Tommy Fury, Tik Tok, Katherine Ryan
@@ -6047,7 +6052,7 @@
 - 2024-12-02 — Gift Giving Guide — speakers: Gift Giving Guide, Conor McGregor, Katherine Ryan
 - 2024-11-28 — Hanging Crosses Keeps Mother-In-Law at Bay — speakers: Katherine Ryan
 - 2024-11-26 — Everyone Hates My Christmas Gift — speakers: Ellen Degeneres, Katherine Ryan
-- 2024-11-19 — Space - A Red Flag — speakers: Donald Trump, Nicole Sherzinger, Tony Award, Katherine Ryan
+- 2024-11-19 — Space - A Red Flag — speakers: Nicole Sherzinger, Tony Award, Katherine Ryan
 - 2024-11-14 — My Neighbour Is In a Cult — speakers: Cult Katherine, Telling Everybody Everything, Katherine Ryan
 - 2024-11-05 — Daughter Sentenced For Putting Dad's Mistress' Pics on Escort Site — speakers: Daughter Sentenced, Cynthia Erivo, Nick Cannon, Tony Hinchcliffe, Katherine Ryan
 - 2024-11-02 — Domingo — speakers: Katherine Ryan
@@ -6059,7 +6064,7 @@
 - 2024-09-24 — Not To Be Rude... — speakers: Katherine Ryan
 - 2024-09-23 — Freaks and Freak Offs — speakers: Tik Tok, Katherine Ryan
 - 2024-09-15 — How To Be Popular in a Brothel — speakers: Brothel Katherine, Telling Everybody Everything, Katherine Ryan
-- 2024-09-13 — From Teen Spirit to Middle-Aged Divorce? — speakers: Dave Grohl, Taylor Swift, Lottie Moss, Kourtney Kardashian, Casey Anthony, Katy Perry, Katherine Ryan
+- 2024-09-13 — From Teen Spirit to Middle-Aged Divorce? — speakers: Dave Grohl, Lottie Moss, Kourtney Kardashian, Casey Anthony, Katy Perry, Katherine Ryan
 - 2024-09-08 — Our Teen Son is NOT The Father — speakers: Chapell Roan, Katherine Ryan
 - 2024-09-06 — Rainbow Park — speakers: Katy Perry, Lily Allen, Katherine Ryan
 - 2024-08-30 — Yoga Studio Update — speakers: Katherine Ryan
@@ -6069,13 +6074,13 @@
 - 2024-08-16 — Furious — speakers: Furious Katherine, Joe Budden, Katherine Ryan
 - 2024-08-14 — Internet Breaking — speakers: Katherine Ryan
 - 2024-08-09 — Should I Raise My Baby With My Sugar Daddy? — speakers: Katherine Ryan
-- 2024-08-07 — His Pole Vaulted His Dreams — speakers: Anthony Ammirati, Robert Kennedy JR, Taylor Swift, Katherine Ryan
+- 2024-08-07 — His Pole Vaulted His Dreams — speakers: Anthony Ammirati, Robert Kennedy JR, Katherine Ryan
 - 2024-08-04 — Can I Ban Dad's Mistress From His Funeral? — speakers: Jenny Keane, Katherine Ryan
 - 2024-08-03 — Are Men Turning Us Against Each Other? — speakers: Hannah Neeleman, Megan Agnew, Katherine Ryan
 - 2024-07-26 — Texting His Mistress During School Panto — speakers: Katherine Ryan
 - 2024-07-25 — A Costly Breakup — speakers: Kim Cattrall, Armie Hammer, Katherine Ryan
 - 2024-07-19 — Is My Husband An Alcoholic? — speakers: Katherine Ryan
-- 2024-07-17 — Bobby's Conspiracies — speakers: Donald Trump, Katy Perry, Alec Baldwin, Katherine Ryan
+- 2024-07-17 — Bobby's Conspiracies — speakers: Katy Perry, Alec Baldwin, Katherine Ryan
 - 2024-07-12 — Post-Nut Clarity HATE — speakers: Katherine Ryan
 - 2024-07-10 — The Rise and RISE of Celebrity NDAs — speakers: Katherine Ryan
 - 2024-07-05 — Pregnant From One Night Stand — speakers: Katherine Ryan
@@ -6083,7 +6088,7 @@
 - 2024-06-28 — Nearly Murdered On A Country Road? — speakers: Katherine Ryan
 - 2024-06-27 — Raw Dogging — speakers: Justin Timberlake, Katy Perry, Dr Luke, Gypsy Rose Blanchard, Katherine Ryan
 - 2024-06-20 — Tree Surgeons — speakers: Theo Von, Katherine Ryan
-- 2024-06-07 — Hot Rodent — speakers: Nigel Farage, Alec Baldwin, Miriam Margoyles, Katherine Ryan
+- 2024-06-07 — Hot Rodent — speakers: Alec Baldwin, Miriam Margoyles, Katherine Ryan
 - 2024-05-29 — Bobby's Boys Trip — speakers: Kelly Rowland, Vivienne Jolie, Celine Dion, Katherine Ryan
 - 2024-05-23 — God Says Marry An NFL Player — speakers: Harrison Butker, Ben Affleck, Katherine Ryan
 - 2024-05-15 — The Red Carpet Ecosystem — speakers: Uncle Buck, Anne Hathaway, Katherine Ryan
@@ -6097,7 +6102,7 @@
 - 2024-03-09 — The Ambani Pre-Wedding and I Cut My Finger Off — speakers: Kate Middleton, Katherine Ryan
 - 2024-03-04 — Norovirus and The Black Epstein?! — speakers: Katherine Ryan
 - 2024-02-24 — Coming To a Stage Near YOU! — speakers: Katherine Ryan
-- 2024-02-03 — We're Pronouncing Taylor's Boyfriend's Name Wrong! — speakers: Taylor Swift, Travis Kelce, Katherine Ryan
+- 2024-02-03 — We're Pronouncing Taylor's Boyfriend's Name Wrong! — speakers: Travis Kelce, Katherine Ryan
 - 2024-01-27 — Oscar Snubs any Paychecks — speakers: Oscar Snubs, Z's Brody, Katherine Ryan
 - 2024-01-19 — Mean Girls and How Often We Do It — speakers: Mean Girls, Katherine Ryan
 - 2024-01-10 — Golden Globes - Tough Gig — speakers: Golden Globes Tough, Jo Koy, Comedian Kat Williams, Foster Drama, Katherine Ryan
@@ -6105,7 +6110,7 @@
 - 2023-12-30 — Disneyland with Small Children — speakers: Katherine Ryan
 - 2023-12-22 — Christmas, Celine Dion, Britney, and Humourless Celiacs — speakers: Celine Dion, Justin Timberlake, Vanessa Feltz, Katherine Ryan
 - 2023-12-15 — Wore Tights To A Pedicure — speakers: Katherine Ryan
-- 2023-12-08 — 'Trailer Swift' — speakers: Taylor Swift, Angelina Jolie, Brad Pitt, Katherine Ryan
+- 2023-12-08 — 'Trailer Swift' — speakers: Angelina Jolie, Brad Pitt, Katherine Ryan
 - 2023-11-24 — Surrogacy and The Return of Bobby K — speakers: Katherine Ryan
 - 2023-11-16 — Megan's on Viagra — speakers: Katherine Ryan
 - 2023-11-08 — Dreams and Why High Performance Women Cheat — speakers: Why High Performance Women, Cheat Katherine, Telling Everybody Everything, Katherine Ryan
@@ -6154,14 +6159,14 @@
 - 2022-11-23 — Poo on the Pool Cover — speakers: Katherine Ryan
 - 2022-11-17 — Jen Aniston IVF — speakers: Pete Davidson, Jennifer Aniston, Katherine Ryan
 - 2022-11-11 — Not a Celebrity, Get Him OUTTA here — speakers: Katherine Ryan
-- 2022-11-02 — Halloween and Elon Musk — speakers: Elon Musk, Matt Hancock, Katherine Ryan
+- 2022-11-02 — Halloween and Elon Musk — speakers: Matt Hancock, Katherine Ryan
 - 2022-10-27 — Why We Started Showing Violet on Socials — speakers: Katherine Ryan
 - 2022-10-18 — Is Bill Murray a Pr*ck?? — speakers: Bill Murray, Angela Lansbury, Katherine Ryan
 - 2022-10-11 — M*sterbating at Work...With Permission — speakers: Louis CK, Katherine Ryan
 - 2022-10-02 — Dahmer — speakers: Katherine Ryan
 - 2022-09-20 — Adam Levine & The Queen — speakers: Adam Levine, Katherine Ryan
 - 2022-09-06 — Tattle — speakers: Katherine Ryan
-- 2022-08-26 — F*ck Off P*do — speakers: Nick Cannon, Elon Musk, Katherine Ryan
+- 2022-08-26 — F*ck Off P*do — speakers: Nick Cannon, Katherine Ryan
 - 2022-08-19 — Dane Cook's Games Nights — speakers: Dane Cook, Katherine Ryan
 - 2022-08-12 — Britney's Parenting and J-Lo's Name — speakers: Jennifer Lopez, Dunkin Donuts, Katherine Ryan
 - 2022-08-01 — Just For Laughs Montreal — speakers: Katherine Ryan
@@ -6215,7 +6220,7 @@
 - 2021-06-21 — Keeping the Peace in Your Relationship — speakers: Telling Everybody Everything, Katherine Ryan
 - 2021-06-15 — Positive Birth Story — speakers: Birth Story, Frederick Ryan Kootstra, Katherine Ryan
 - 2021-06-07 — Help For Recurrent Miscarriage — speakers: Katherine Ryan
-- 2021-05-30 — Hiding in Plain Sight — speakers: Boris Johnson, Ted Bundy Film, Katherine Ryan
+- 2021-05-30 — Hiding in Plain Sight — speakers: Ted Bundy Film, Katherine Ryan
 - 2021-05-23 — Eurovision — speakers: Eurovision Song Contest, Diana Panorama, Katherine Ryan
 - 2021-05-16 — Chrissy Teigen — speakers: Courtney Stodden, Katherine Ryan
 - 2021-05-08 — Catching Up — speakers: Caitlin Jenner, Katherine Ryan

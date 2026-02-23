@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-02-23T03:19:38+00:00`
-- checked_at: `2026-02-23T03:19:38+00:00`
-- last_modified: `Mon, 23 Feb 2026 02:28:35 GMT`
+- fetched_at: `2026-02-23T13:41:58+00:00`
+- checked_at: `2026-02-23T13:41:58+00:00`
+- last_modified: `Mon, 23 Feb 2026 10:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/ea863c046e0db9c66e9d56c929b96c33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T03:19:38+00:00",
+  "fetched_at": "2026-02-23T13:41:58+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,34 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "fa764a908b848788b65d9aac37ed2e6715f48fd9",
+      "title": "Michael Pollan on the Mystery of Consciousness",
+      "published_at": "2026-02-23T10:30:00+00:00",
+      "link": null,
+      "description": "Five years ago, Michael Pollan — the acclaimed author of The Botany of Desire, The Omnivore's Dilemma, and How to Change Your Mind — went looking for an answer to one of life's great mysteries: \"How does three pounds of brain matter generate subjective experience?\" The result is his luminous new book, A World Appears: A Journey Into Consciousness , which comes out tomorrow. Great journalists like Michael have a nose for story and a knack for timing. Both are on display in A World Appears . It's a page-turner teeming with maverick characters. It's a startling look at the emerging science of plant sentience. And it's an urgent exploration of a question we can't afford to ignore: Could consciousness — that is, \"subjective or felt experience,\" the trippy miracle that when we open our eyes, a world appears — emerge in AI? * * * A World Appears is the Next Big Idea Club’s latest selection. To get an early copy, a personal note from Michael, and an invitation to a Q&A with him on March 10, become a member at nextbigideaclub.com⁠⁠ . Code PODCAST gets you a super secret discount (spoiler: it’s 20% off). If you enjoyed this episode, check out our conversations with Antonio Damasio , David Chalmers ( here and here ), Sara Walker , Paul Bloom , Robert Sapolsky , Sam Harris , and Gaurav Suri and Jay McClelland . Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . We love getting fan mail. Sponsored By: Bitdefender — Get 30% off your plan at bitdefender.com/idea Factor — Head to ⁠factormeals.com/idea50off⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at granola.ai/idea Shopify — Start your $1/month trial at ⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1030889426.mp3?updated=1771814006",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4616",
+      "speakers": [
+        "Michael Pollan",
+        "Antonio Damasio",
+        "David Chalmers",
+        "Sara Walker",
+        "Paul Bloom",
+        "Robert Sapolsky",
+        "Sam Harris",
+        "Gaurav Suri"
+      ],
+      "topics": [
+        "michael",
+        "pollan",
+        "mystery",
+        "consciousness"
+      ]
+    },
     {
       "key": "475836b27d56cdd978014e3462bd8aa55ecd8fae",
       "title": "The Science of Change",
@@ -7533,6 +7561,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — Michael Pollan on the Mystery of Consciousness — speakers: Michael Pollan, Antonio Damasio, David Chalmers, Sara Walker, Paul Bloom, Robert Sapolsky, Sam Harris, Gaurav Suri
 - 2026-02-19 — The Science of Change — speakers: Maya Shankar, Follow Rufus, Tim Kreider, George Saunders, David Marchese, Rufus Griscom, Caleb Bissinger
 - 2026-02-12 — Six Simple Rules for a Long and Healthy Life — speakers: Healthy Life, Russell Foster, Tim Spector, Kelly McGonigal, Chris van Tulleken, Eric Topol, Follow Rufus, Rufus Griscom
 - 2026-02-05 — A Practical Guide to Achieving Excellence — speakers: Brad Stulberg, Rufus Griscom, Caleb Bissinger

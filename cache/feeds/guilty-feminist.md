@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-02-21T15:39:26+00:00`
-- checked_at: `2026-02-21T15:39:26+00:00`
-- last_modified: `Sat, 21 Feb 2026 13:42:23 GMT`
+- fetched_at: `2026-02-23T13:41:58+00:00`
+- checked_at: `2026-02-23T13:41:58+00:00`
+- last_modified: `Mon, 23 Feb 2026 12:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/967914911d6e26f1bb9223e736bc7c12.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-21T15:39:26+00:00",
+  "fetched_at": "2026-02-23T13:41:58+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,70 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "360aa14d9459c8bcb4e985b853219dc58c52b1cf",
+      "title": "471. ROAD TO GILEAD: The History of Queerphobia with Abigoliah Schamaun and Dr Harry Tanner - part two",
+      "published_at": "2026-02-23T12:30:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 471. The History of Queerphobia Presented by Deborah Frances-White and Abigoliah Schamaun with special guest Dr Harry Tanner Recorded 13 February 2026 at the Museum of Comedy in London. Released 23 February 2026. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Abigoliah Schamaun https://www.instagram.com/abigoliah https://abigoliah.com https://www.youtube.com/watch?v=rp1GBgUIMG4 https://linktr.ee/ndm_book https://podfollow.com/all-british-comedy-explained More about Dr Harry Tanner https://www.instagram.com https://harryjamestanner.com For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT Come to a live show Waterstone’s Book Club, 23 February . https://www.waterstones.com/events/the-guilty-feminist-x-waterstones-book-club-jess-robinson-and-max-olesker/london-piccadilly Zack Polanski and Juno Dawson at The Union Chapel, 5 March . https://www.gigantic.com/the-guilty-feminist-tickets/london-union-chapel/2026-03-05-18-30 31 March Bloomsbury Theatre . https://www.bloomsburytheatre.com/event/2026/03/guilty-feminist-live Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/04a83b28-d843-11f0-9442-5b730b3bbd78/image/937f32b16026a39db86630e07f0db072.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL7542915551.mp3?updated=1771680340",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2613",
+      "speakers": [
+        "Abigoliah Schamaun",
+        "Deborah Frances-White",
+        "Harry Tanner",
+        "Mark Hodge",
+        "rp GBgUIMG",
+        "bRfSPT Come",
+        "Zack Polanski",
+        "Juno Dawson"
+      ],
+      "topics": [
+        "road",
+        "gilead",
+        "history",
+        "queerphobia",
+        "abigoliah",
+        "schamaun",
+        "harry",
+        "tanner"
+      ]
+    },
+    {
+      "key": "6f543d87aad60ec0356c974b9131a42f28ee1b0b",
+      "title": "471. ROAD TO GILEAD: The History of Queerphobia with Abigoliah Schamaun and Dr Harry Tanner - part one",
+      "published_at": "2026-02-23T12:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 471. The History of Queerphobia Presented by Deborah Frances-White and Abigoliah Schamaun with special guest Dr Harry Tanner Recorded 13 February 2026 at the Museum of Comedy in London. Released 23 February 2026. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Abigoliah Schamaun https://www.instagram.com/abigoliah https://abigoliah.com https://www.youtube.com/watch?v=rp1GBgUIMG4 https://linktr.ee/ndm_book https://podfollow.com/all-british-comedy-explained More about Dr Harry Tanner https://www.instagram.com https://harryjamestanner.com For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT Come to a live show Waterstone’s Book Club, 23 February . https://www.waterstones.com/events/the-guilty-feminist-x-waterstones-book-club-jess-robinson-and-max-olesker/london-piccadilly Zack Polanski and Juno Dawson at The Union Chapel, 5 March . https://www.gigantic.com/the-guilty-feminist-tickets/london-union-chapel/2026-03-05-18-30 31 March Bloomsbury Theatre . https://www.bloomsburytheatre.com/event/2026/03/guilty-feminist-live Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6e72940-0f26-11f1-981d-ff482f02f6cf/image/937f32b16026a39db86630e07f0db072.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL6355579042.mp3?updated=1771680365",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4599",
+      "speakers": [
+        "Abigoliah Schamaun",
+        "Deborah Frances-White",
+        "Harry Tanner",
+        "Mark Hodge",
+        "rp GBgUIMG",
+        "bRfSPT Come",
+        "Zack Polanski",
+        "Juno Dawson"
+      ],
+      "topics": [
+        "road",
+        "gilead",
+        "history",
+        "queerphobia",
+        "abigoliah",
+        "schamaun",
+        "harry",
+        "tanner"
+      ]
+    },
     {
       "key": "f179f4db83dcaafa22fe3fff21b853d49339d1ce",
       "title": "The Guilty Feminist Watches Reality Check - Inside America's Next Top Model",
@@ -19772,6 +19836,8 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — 471. ROAD TO GILEAD: The History of Queerphobia with Abigoliah Schamaun and Dr Harry Tanner - part two — speakers: Abigoliah Schamaun, Deborah Frances-White, Harry Tanner, Mark Hodge, rp GBgUIMG, bRfSPT Come, Zack Polanski, Juno Dawson
+- 2026-02-23 — 471. ROAD TO GILEAD: The History of Queerphobia with Abigoliah Schamaun and Dr Harry Tanner - part one — speakers: Abigoliah Schamaun, Deborah Frances-White, Harry Tanner, Mark Hodge, rp GBgUIMG, bRfSPT Come, Zack Polanski, Juno Dawson
 - 2026-02-17 — The Guilty Feminist Watches Reality Check - Inside America's Next Top Model — speakers: Deborah Frances-White, Bee Hynes, Jessica Regan, Abigoliah Schamaun, Alison Spittle, Mark Hodge, bRfSPT Come, Zack Polanski
 - 2026-02-16 — 470. Ten for Ten #6 with Alison Spittle — speakers: Alison Spittle, Deborah Frances-White, Mark Hodge, bRfSPT Come, Zack Polanski, Juno Dawson
 - 2026-02-09 — 469. Live from Camden School for Girls with Kate Mosse — speakers: Kate Mosse, Deborah Frances-White, Mark Hodge, tweet us, big-speeches Come, Zack Polanski, Juno Dawson
