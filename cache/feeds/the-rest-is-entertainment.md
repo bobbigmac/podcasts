@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-02-20T13:33:38+00:00`
-- checked_at: `2026-02-20T13:33:38+00:00`
-- last_modified: `Fri, 20 Feb 2026 11:21:54 GMT`
+- fetched_at: `2026-02-23T18:40:11+00:00`
+- checked_at: `2026-02-23T18:40:11+00:00`
+- last_modified: `Mon, 23 Feb 2026 18:06:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T13:33:38+00:00",
+  "fetched_at": "2026-02-23T18:40:11+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -124,8 +124,7 @@
         "Joey McCarthy",
         "Adam Thornton",
         "Imee Marriott Senior",
-        "Joey McCarthy Social Producer",
-        "Marina Hyde"
+        "Joey McCarthy Social Producer"
       ],
       "topics": [
         "bunny",
@@ -178,8 +177,7 @@
         "Khaby Lame",
         "Coles Books",
         "Joey McCarthy",
-        "Charlie Rodwell",
-        "Marina Hyde"
+        "Charlie Rodwell"
       ],
       "topics": [
         "ryan",
@@ -485,14 +483,12 @@
       "itunes_duration": "2065",
       "speakers": [
         "Chris Columbus",
-        "Harry Potter",
         "Owen Cooper",
         "Coles Books",
         "Imee Marriott",
         "Imee Marriott Senior",
         "Joey McCarthy Social Producer",
-        "Richard Osman",
-        "Marina Hyde"
+        "Richard Osman"
       ],
       "topics": [
         "adolescence",
@@ -521,8 +517,7 @@
         "Imee Marriott",
         "Imee Marriott Senior",
         "Joey McCarthy Social Producer",
-        "Richard Osman",
-        "Marina Hyde"
+        "Richard Osman"
       ],
       "topics": [
         "noel",
@@ -659,7 +654,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2667",
       "speakers": [
-        "Boris Johnson",
         "Murder Club",
         "Richard Osman",
         "Coles Books",
@@ -687,13 +681,11 @@
       "speakers": [
         "Tom Stoppard",
         "Richard Osman",
-        "Donald Trump",
         "Coles Books",
         "Charlie Rodwell",
         "Max Archer",
         "Imee Marriott Senior",
-        "Joey McCarthy Social Producer",
-        "Marina Hyde"
+        "Joey McCarthy Social Producer"
       ],
       "topics": [
         "trump",
@@ -767,8 +759,7 @@
         "Joey McCarthy",
         "Charlie Rodwell",
         "Imee Marriott Senior",
-        "Joey McCarthy Social Producer",
-        "Marina Hyde"
+        "Joey McCarthy Social Producer"
       ],
       "topics": [
         "wicked",
@@ -796,8 +787,7 @@
         "Charlie Rodwell",
         "Adam Thornton",
         "Imee Marriott Senior",
-        "Joey McCarthy Social Producer",
-        "Marina Hyde"
+        "Joey McCarthy Social Producer"
       ],
       "topics": [
         "content",
@@ -875,8 +865,7 @@
         "Charlie Rodwell",
         "Adam Thornton",
         "Imee Marriott Senior",
-        "Joey McCarthy Social Producer",
-        "Marina Hyde"
+        "Joey McCarthy Social Producer"
       ],
       "topics": [
         "traitors"
@@ -901,9 +890,7 @@
         "Coles Books",
         "Charlie Rodwell",
         "Adam Thornton",
-        "Imee Marriott Senior",
-        "Richard Osman",
-        "Marina Hyde"
+        "Imee Marriott Senior"
       ],
       "topics": [
         "davie",
@@ -974,8 +961,7 @@
         "Jimmy Mulville",
         "Coles Books",
         "Charlie Rodwell",
-        "Joey McCarthy Social Producer",
-        "Marina Hyde"
+        "Joey McCarthy Social Producer"
       ],
       "topics": [
         "lily",
@@ -1277,15 +1263,13 @@
       "enclosure_length": "0",
       "itunes_duration": "2607",
       "speakers": [
-        "Taylor Swift",
         "Will Mel Gibson",
         "Max Martin",
         "Richard Osman",
         "Mel Gibson",
         "Coles Books",
         "Charlie Rodwell",
-        "Joey McCarthy Social Producer",
-        "Marina Hyde"
+        "Joey McCarthy Social Producer"
       ],
       "topics": [
         "taylor",
@@ -1357,15 +1341,13 @@
       "enclosure_length": "0",
       "itunes_duration": "2215",
       "speakers": [
-        "Boris Johnson",
         "Richard Osman",
         "Coles Books",
         "Kieron Leslie",
         "Charlie Rodwell",
         "Adam Thornton",
         "Harry Swan",
-        "Joey McCarthy",
-        "Marina Hyde"
+        "Joey McCarthy"
       ],
       "topics": [
         "bake",
@@ -1389,13 +1371,10 @@
         "Jimmy Kimmel",
         "Will Taylor Swift",
         "Kevin Costner",
-        "Taylor Swift",
         "Whitney Houston",
         "Coles Books",
         "Kieron Leslie",
-        "Charlie Rodwell",
-        "Richard Osman",
-        "Marina Hyde"
+        "Charlie Rodwell"
       ],
       "topics": [
         "jimmy",
@@ -1421,9 +1400,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Richard Osman",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "secrets",
@@ -1444,15 +1421,12 @@
       "itunes_duration": "3504",
       "speakers": [
         "Rock Johnson",
-        "James Bond",
         "Pamela Abdy",
         "Michael De Luca",
         "Coles Books",
         "Kieron Leslie",
         "Charlie Rodwell",
-        "Adam Thornton",
-        "Richard Osman",
-        "Marina Hyde"
+        "Adam Thornton"
       ],
       "topics": [
         "rock",
@@ -1478,9 +1452,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Richard Osman",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "child",
@@ -1506,9 +1478,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Richard Osman",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "morrissey",
@@ -1535,8 +1505,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "secrets",
@@ -1557,15 +1526,12 @@
       "itunes_duration": "3013",
       "speakers": [
         "Travis Kelce",
-        "Taylor Swift",
         "Michael Jackson",
         "Dave Chappelle",
         "Jimmy Carr",
         "Coles Books",
         "Kieron Leslie",
-        "Charlie Rodwell",
-        "Richard Osman",
-        "Marina Hyde"
+        "Charlie Rodwell"
       ],
       "topics": [
         "comedians",
@@ -1586,14 +1552,12 @@
       "itunes_duration": "3395",
       "speakers": [
         "Chris Columbus",
-        "Harry Potter",
         "Murder Club",
         "Robin Williams",
         "Richard Osman",
         "Coles Books",
         "Kieron Leslie",
-        "Charlie Rodwell",
-        "Marina Hyde"
+        "Charlie Rodwell"
       ],
       "topics": [
         "chris",
@@ -1625,9 +1589,7 @@
         "Kieron Leslie",
         "Charlie Rodwell",
         "Adam Thornton",
-        "Harry Swan",
-        "Richard Osman",
-        "Marina Hyde"
+        "Harry Swan"
       ],
       "topics": [
         "noel",
@@ -1654,9 +1616,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Bruno Di",
-        "Joey McCarthy",
-        "Richard Osman",
-        "Marina Hyde"
+        "Joey McCarthy"
       ],
       "topics": [
         "laugh",
@@ -1682,9 +1642,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Richard Osman",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "right"
@@ -1709,8 +1667,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "marina",
@@ -1738,8 +1695,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "celebrities"
@@ -1764,8 +1720,7 @@
         "Kieron Leslie",
         "Charlie Rodwell",
         "Adam Thornton",
-        "Harry Swan",
-        "Marina Hyde"
+        "Harry Swan"
       ],
       "topics": [
         "vogue",
@@ -1793,9 +1748,7 @@
         "Jenna Ortega",
         "Kieron Leslie",
         "Charlie Rodwell",
-        "Adam Thornton",
-        "Richard Osman",
-        "Marina Hyde"
+        "Adam Thornton"
       ],
       "topics": [
         "liam",
@@ -1825,8 +1778,7 @@
         "Harry Swan",
         "Joey McCarthy",
         "Tom Whiter",
-        "Davenport Learn",
-        "Marina Hyde"
+        "Davenport Learn"
       ],
       "topics": []
     },
@@ -1845,13 +1797,10 @@
         "Adam Sandler",
         "Trey Parker",
         "Matt Stone",
-        "Donald Trump",
         "White Richard",
         "Kieron Leslie",
         "Charlie Rodwell",
-        "Adam Thornton",
-        "Richard Osman",
-        "Marina Hyde"
+        "Adam Thornton"
       ],
       "topics": [
         "south",
@@ -1878,8 +1827,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "billion",
@@ -1907,8 +1855,7 @@
         "Kieron Leslie",
         "Charlie Rodwell",
         "Adam Thornton",
-        "Harry Swan",
-        "Marina Hyde"
+        "Harry Swan"
       ],
       "topics": [
         "rich",
@@ -1934,8 +1881,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "history",
@@ -1962,8 +1908,7 @@
         "Charlie Rodwell",
         "Adam Thornton",
         "Harry Swan",
-        "Joey McCarthy",
-        "Marina Hyde"
+        "Joey McCarthy"
       ],
       "topics": [
         "masterchef",
@@ -1989,9 +1934,7 @@
         "Harry Swan",
         "Joey McCarthy",
         "Tom Whiter",
-        "Davenport Learn",
-        "Richard Osman",
-        "Marina Hyde"
+        "Davenport Learn"
       ],
       "topics": [
         "mushroom",
@@ -2019,8 +1962,7 @@
         "Harry Swan",
         "Joey McCarthy",
         "Tom Whiter",
-        "Davenport Learn",
-        "Marina Hyde"
+        "Davenport Learn"
       ],
       "topics": [
         "chat",
@@ -2051,9 +1993,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Josh Smith",
-        "Joey McCarthy",
-        "Richard Osman",
-        "Marina Hyde"
+        "Joey McCarthy"
       ],
       "topics": [
         "salt",
@@ -2080,8 +2020,7 @@
         "Charlie Rodwell",
         "Adam Thornton",
         "Harry Swan",
-        "Joey McCarthy",
-        "Marina Hyde"
+        "Joey McCarthy"
       ],
       "topics": [
         "shakespeare"
@@ -2106,9 +2045,7 @@
         "Jenny Saville",
         "Kieron Leslie",
         "Charlie Rodwell",
-        "Adam Thornton",
-        "Richard Osman",
-        "Marina Hyde"
+        "Adam Thornton"
       ],
       "topics": [
         "jeff",
@@ -2136,8 +2073,7 @@
         "Harry Swan",
         "Joey McCarthy",
         "Tom Whiter",
-        "Davenport Learn",
-        "Marina Hyde"
+        "Davenport Learn"
       ],
       "topics": [
         "book",
@@ -2165,8 +2101,7 @@
         "Kieron Leslie",
         "Charlie Rodwell",
         "Adam Thornton",
-        "Harry Swan",
-        "Marina Hyde"
+        "Harry Swan"
       ],
       "topics": [
         "real",
@@ -2189,14 +2124,12 @@
       "itunes_duration": "2893",
       "speakers": [
         "Adam Curtis",
-        "Elon Musk",
         "Richard Osman",
         "Kieron Leslie",
         "Charlie Rodwell",
         "Adam Thornton",
         "Harry Swan",
-        "Joey McCarthy",
-        "Marina Hyde"
+        "Joey McCarthy"
       ],
       "topics": [
         "adam",
@@ -2224,8 +2157,7 @@
         "Kieron Leslie",
         "Charlie Rodwell",
         "Adam Thornton",
-        "Harry Swan",
-        "Marina Hyde"
+        "Harry Swan"
       ],
       "topics": [
         "noel",
@@ -2252,8 +2184,7 @@
         "Adam Thornton",
         "Harry Swan",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "celebrity",
@@ -2280,8 +2211,7 @@
         "Kieron Leslie",
         "Charlie Rodwell",
         "Adam Thornton",
-        "Harry Sewell",
-        "Marina Hyde"
+        "Harry Sewell"
       ],
       "topics": [
         "sydney",
@@ -2309,8 +2239,7 @@
         "Adam Thornton Producer",
         "Joey McCarthy",
         "Tom Whiter",
-        "Davenport Learn",
-        "Marina Hyde"
+        "Davenport Learn"
       ],
       "topics": [
         "marina",
@@ -2337,8 +2266,7 @@
         "Joey McCarthy",
         "Tom Whiter",
         "Davenport Learn",
-        "Richard Osman",
-        "Marina Hyde"
+        "Richard Osman"
       ],
       "topics": [
         "gossip",
@@ -2390,8 +2318,7 @@
         "Charlie Rodwell",
         "Adam Thornton Producer",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "truth",
@@ -2418,8 +2345,7 @@
         "Richard Osman",
         "Kieron Leslie",
         "Charlie Rodwell",
-        "Harry Swan",
-        "Marina Hyde"
+        "Harry Swan"
       ],
       "topics": [
         "method",
@@ -2446,8 +2372,7 @@
         "Harry Swan Producer",
         "Joey McCarthy",
         "Tom Whiter",
-        "Davenport Learn",
-        "Marina Hyde"
+        "Davenport Learn"
       ],
       "topics": [
         "gary",
@@ -2473,9 +2398,7 @@
         "Harry Swan",
         "Adam Thornton Producer",
         "Joey McCarthy",
-        "Tom Whiter",
-        "Richard Osman",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "pope",
@@ -2551,7 +2474,6 @@
       "itunes_duration": "2997",
       "speakers": [
         "Kill Hollywood",
-        "Donald Trump",
         "Charlie Rodwell Teo Ayodeji-Ansell",
         "Joey McCarthy",
         "Tom Whiter",
@@ -2606,9 +2528,7 @@
         "Kieron Leslie",
         "Adam Thornton",
         "Charlie Rodwell",
-        "Tom Whiter",
-        "Richard Osman",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "hurley",
@@ -2661,8 +2581,7 @@
         "Glen Powell",
         "Kieron Leslie",
         "Adam Thornton",
-        "Tom Whiter",
-        "Marina Hyde"
+        "Tom Whiter"
       ],
       "topics": [
         "jesus",
@@ -2715,8 +2634,7 @@
         "Kieron Leslie Adam Thornton",
         "Charlie Rodwell",
         "Tom Whiter Executive",
-        "Tony Pastor Jack Davenport",
-        "Marina Hyde"
+        "Tony Pastor Jack Davenport"
       ],
       "topics": [
         "saturday",
@@ -2743,8 +2661,7 @@
         "Kieron Lesley",
         "Harry Swan",
         "Charlie Rothwell",
-        "Tom Whiter Executive",
-        "Marina Hyde"
+        "Tom Whiter Executive"
       ],
       "topics": [
         "clooney",
@@ -2770,9 +2687,7 @@
         "Harris Dickinson",
         "Barry Keoghan",
         "Joseph Quinn",
-        "Joey McCarthy",
-        "Richard Osman",
-        "Marina Hyde"
+        "Joey McCarthy"
       ],
       "topics": [
         "minecraft",
@@ -2823,9 +2738,7 @@
         "Graydon Carter",
         "Neil Fearn Joey McCarthy",
         "Jake Liascos Executive",
-        "Tony Pastor Jack Davenport",
-        "Richard Osman",
-        "Marina Hyde"
+        "Tony Pastor Jack Davenport"
       ],
       "topics": [
         "mark",
@@ -2879,8 +2792,7 @@
         "Neil Fearn Joey McCarthy",
         "Jake Liascos Executive",
         "Tony Pastor Jack Davenport",
-        "Richard Osman",
-        "Marina Hyde"
+        "Richard Osman"
       ],
       "topics": [
         "adolescence",
@@ -2900,7 +2812,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2109",
       "speakers": [
-        "Harry Potter",
         "Neil Fearn Joey McCarthy",
         "Jake Liascos Executive",
         "Tony Pastor Jack Davenport",
@@ -2933,8 +2844,7 @@
         "Richard Osman",
         "Murder Club",
         "Richard Drive",
-        "Neil Fearn Joey McCarthy",
-        "Marina Hyde"
+        "Neil Fearn Joey McCarthy"
       ],
       "topics": [
         "millie",
@@ -3125,7 +3035,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3827",
       "speakers": [
-        "James Bond",
         "Peter Kay",
         "Richard Boyzone No",
         "McCarthy Executive",
@@ -3533,9 +3442,7 @@
         "Will Gavin",
         "Richard Black Doves",
         "McCarthy Executive",
-        "Davenport Learn",
-        "Richard Osman",
-        "Marina Hyde"
+        "Davenport Learn"
       ],
       "topics": [
         "blake",
@@ -3704,7 +3611,6 @@
         "Warren Beatty Meeting",
         "Warren Beatty",
         "Richard Osman",
-        "Albert Hall",
         "McCarthy Executive",
         "Davenport Learn",
         "Marina Hyde"
@@ -3731,7 +3637,6 @@
       "itunes_duration": "2647",
       "speakers": [
         "Jeremy Clarkson",
-        "Albert Hall",
         "McCarthy Executive",
         "Davenport Learn",
         "Richard Osman",
@@ -3757,7 +3662,6 @@
       "itunes_duration": "2138",
       "speakers": [
         "Rob Beckett",
-        "Albert Hall",
         "Joey McCarthy",
         "Davenport Learn",
         "Richard Osman",
@@ -3782,7 +3686,6 @@
       "speakers": [
         "Mike Tyson",
         "Jake Paul",
-        "Albert Hall",
         "McCarthy Executive",
         "Davenport Learn",
         "Richard Osman",
@@ -3919,8 +3822,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2685",
       "speakers": [
-        "Taylor Swift",
-        "Albert Hall",
         "Joey McCarthy",
         "Tony Pastor Jack Davenport",
         "Richard Osman",
@@ -3945,7 +3846,6 @@
       "itunes_duration": "2032",
       "speakers": [
         "Below Deck",
-        "Albert Hall",
         "Joey McCarthy",
         "Tony Pastor Jack Davenport",
         "Richard Osman",
@@ -4087,7 +3987,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2927",
       "speakers": [
-        "Boris Johnson",
         "Naomi Campbell",
         "Nina Simone",
         "Joey McCarthy",
@@ -4232,7 +4131,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2837",
       "speakers": [
-        "Donald Trump",
         "Jack White",
         "Joey McCarthy",
         "Tony Pastor Jack Davenport",
@@ -4351,7 +4249,6 @@
       "itunes_duration": "1887",
       "speakers": [
         "Steven Spielberg",
-        "James Bond",
         "Richard Osman",
         "Neil Fearn Executive Producers",
         "Tony Pastor Jack Davenport",
@@ -4470,7 +4367,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2541",
       "speakers": [
-        "Elon Musk",
         "Katy Perry",
         "Neil Fearn Joey McCarthy",
         "Tony Pastor Jack Davenport",
@@ -4541,7 +4437,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1863",
       "speakers": [
-        "Taylor Swift",
         "Neil Fearn Joey McCarthy",
         "Tony Pastor Jack Davenport",
         "Richard Osman",
@@ -4761,7 +4656,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2602",
       "speakers": [
-        "Donald Trump",
         "Executive Producers",
         "Davenport Recommendations",
         "Richard Osman",
@@ -4807,7 +4701,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2858",
       "speakers": [
-        "Taylor Swift",
         "Neil Fearn Joey McCarthy",
         "Tony Pastor Jack Davenport",
         "Richard Osman",
@@ -5180,7 +5073,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2872",
       "speakers": [
-        "Liz Truss",
         "Neil Fearn Joey McCarthy",
         "Richard Osman",
         "Marina Hyde"
@@ -5225,7 +5117,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2934",
       "speakers": [
-        "Rupert Murdoch",
         "Hugh Grant",
         "Murder Club",
         "Neil Fearn Joey McCarthy",
@@ -5368,7 +5259,6 @@
       "itunes_duration": "2545",
       "speakers": [
         "Tim Davie",
-        "James Bond",
         "Richard Osman",
         "Neil Fearn Joey McCarthy",
         "Davenport Recommendations",
@@ -5417,15 +5307,12 @@
       "enclosure_length": "0",
       "itunes_duration": "2464",
       "speakers": [
-        "James Bond",
         "Aaron Taylor-Johnson",
         "Daniel Craig",
-        "Donald Trump",
         "Richard Osman",
         "Neil Fearn Executive Producers",
         "Davenport Recommendations",
-        "Percival Everett",
-        "Marina Hyde"
+        "Percival Everett"
       ],
       "topics": [
         "kate",
@@ -5706,7 +5593,6 @@
       "itunes_duration": "2272",
       "speakers": [
         "Will Elon Musk",
-        "Elon Musk",
         "Gregg Wallace",
         "Neil Fearn Executive Producers",
         "Davenport Recommendations",
@@ -6059,7 +5945,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2621",
       "speakers": [
-        "Taylor Swift",
         "Neil Fearn Executive Producers",
         "Davenport Recommendations",
         "David Gann",
@@ -6113,7 +5998,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3029",
       "speakers": [
-        "Nigel Farage",
         "Richard Osman",
         "Jeff Bezos",
         "Lauren Sánchez",
@@ -6158,9 +6042,9 @@
 - 2026-02-19 — Did Robin Williams Save Disney? — speakers: Robin Williams Save Disney, Richard Osman, Coles Books, Max Archer, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
 - 2026-02-17 — The Gen-Z Trend Killing Pop Music — speakers: Richard Osman, Britney Spears, Coles Books, Joey McCarthy, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
 - 2026-02-12 — Who Is The Most Powerful Person In Hollywood? — speakers: Richard Osman, Coles Books, James Clayton, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
-- 2026-02-10 — Bad Bunny, Bondage & Dragon Sex — speakers: Richard Osman, Bad Bunny, Jeff Bezos, Coles Books, Joey McCarthy, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
+- 2026-02-10 — Bad Bunny, Bondage & Dragon Sex — speakers: Richard Osman, Bad Bunny, Jeff Bezos, Coles Books, Joey McCarthy, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer
 - 2026-02-05 — The Worst Celebrity Ads Of All Time — speakers: Jude Law's Uber Eats, Richard Osman, Coles Books, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
-- 2026-02-03 — The Ryan Reynolds You Don't See — speakers: Ryan Reynold, Richard Osman, Ryan Reynolds, Justin Baldoni, Khaby Lame, Coles Books, Joey McCarthy, Charlie Rodwell, Marina Hyde
+- 2026-02-03 — The Ryan Reynolds You Don't See — speakers: Ryan Reynold, Richard Osman, Ryan Reynolds, Justin Baldoni, Khaby Lame, Coles Books, Joey McCarthy, Charlie Rodwell
 - 2026-01-29 — Did Star Trek Invent The Mobile Phone? — speakers: Richard Osman, Coles Books, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
 - 2026-01-27 — The Beckhams vs The Peltz: Class War — speakers: Robbie William, Alan Carr, Richard Osman, Robbie Williams, Joey McCarthy, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
 - 2026-01-22 — The Secret PR War Over Graham Norton's Sofa — speakers: Graham Norton, Richard Osman, Coles Books, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
@@ -6172,25 +6056,25 @@
 - 2026-01-06 — David Walliams, Podcasts on Netflix & National Treasures — speakers: David Walliams, Richard Osman, Coles Books, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
 - 2026-01-01 — How To Find The Secret Traitor: Episode One Reaction — speakers: Richard Osman, Coles Books, Joey McCarthy, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
 - 2025-12-30 — Gen Alpha Runs Culture Now — speakers: Gen Alpha Runs Culture, Richard Osman, Coles Books, Max Archer, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
-- 2025-12-25 — Adolescence, Harry Potter & Doctor Who: 2025 BEST OF — speakers: Chris Columbus, Harry Potter, Owen Cooper, Coles Books, Imee Marriott, Imee Marriott Senior, Joey McCarthy Social Producer, Richard Osman, Marina Hyde
-- 2025-12-23 — Noel Edmonds, Glen Powell & The Salt Path: 2025 BEST OF — speakers: Noel Edmonds, Glen Powell, Will Glenn Powell, Coles Books, Imee Marriott, Imee Marriott Senior, Joey McCarthy Social Producer, Richard Osman, Marina Hyde
+- 2025-12-25 — Adolescence, Harry Potter & Doctor Who: 2025 BEST OF — speakers: Chris Columbus, Owen Cooper, Coles Books, Imee Marriott, Imee Marriott Senior, Joey McCarthy Social Producer, Richard Osman
+- 2025-12-23 — Noel Edmonds, Glen Powell & The Salt Path: 2025 BEST OF — speakers: Noel Edmonds, Glen Powell, Will Glenn Powell, Coles Books, Imee Marriott, Imee Marriott Senior, Joey McCarthy Social Producer, Richard Osman
 - 2025-12-18 — Simon Cowell on Regrets, Fame and Fatherhood — speakers: Simon Cowell, Bernard Cribbins, Coles Books, Joey McCarthy, Imee Marriott Senior, Joey McCarthy Social Producer, Richard Osman, Marina Hyde
 - 2025-12-16 — The Bitchiest Celeb Interview Of All Time — speakers: Quentin Tarantino, Richard Osman, Sam Altman, Marina Hyde, Michele Reiner, Coles Books, Joey McCarthy, Imee Marriott Senior
 - 2025-12-11 — Plagiarism, Puns and Lego — speakers: Tom Daly, Richard Osman, Shop Tesco, Coles Books, Imee Marriott, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
 - 2025-12-09 — Netflix & Warner Bros: The Biggest Deal In Hollywood History — speakers: Will Trump, Coles Books, Charlie Rodwell, James Clayden, Imee Marriott Senior, Joey McCarthy Social Producer, Richard Osman, Marina Hyde
-- 2025-12-04 — The Best TV Animal EVER — speakers: Boris Johnson, Murder Club, Richard Osman, Coles Books, Max Archer, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
-- 2025-12-02 — Trump Demands Rush Hour 4 — speakers: Tom Stoppard, Richard Osman, Donald Trump, Coles Books, Charlie Rodwell, Max Archer, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
+- 2025-12-04 — The Best TV Animal EVER — speakers: Murder Club, Richard Osman, Coles Books, Max Archer, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
+- 2025-12-02 — Trump Demands Rush Hour 4 — speakers: Tom Stoppard, Richard Osman, Coles Books, Charlie Rodwell, Max Archer, Imee Marriott Senior, Joey McCarthy Social Producer
 - 2025-11-27 — The Biggest Ever Comebacks — speakers: People’s Postcode Lottery, Coles Books, Sean Thorne, Imee Marriott Senior, Joey McCarthy Social Producer, Richard Osman, Marina Hyde
 - 2025-11-26 — Introducing: The Rest Is Science — speakers: Hannah Fry, Michael Stevens, Richard Osman, Marina Hyde
-- 2025-11-25 — Will Wicked 2 Help Hollywood Defy Gravity? — speakers: Will Wicked, Richard Osman, Joe Wilkinson who, Coles Books, Joey McCarthy, Charlie Rodwell, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
-- 2025-11-20 — BBC Content Boss on Tim Davie, Traitors and Strictly's Future — speakers: Tim Davie, Kate Phillips, Richard Osman, Coles Books, Charlie Rodwell, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
+- 2025-11-25 — Will Wicked 2 Help Hollywood Defy Gravity? — speakers: Will Wicked, Richard Osman, Joe Wilkinson who, Coles Books, Joey McCarthy, Charlie Rodwell, Imee Marriott Senior, Joey McCarthy Social Producer
+- 2025-11-20 — BBC Content Boss on Tim Davie, Traitors and Strictly's Future — speakers: Tim Davie, Kate Phillips, Richard Osman, Coles Books, Charlie Rodwell, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer
 - 2025-11-19 — I Want My MTV! - The Youthquake Begins (Part 1) — speakers: Richard Osman, Coles Books, Joey McCarthy Social Producer, Marina Hyde
 - 2025-11-18 — "I'm A Celebrity" Booking Secrets — speakers: Sky Sport, Richard Osman, Coles Books, Joey McCarthy Max Archer, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
-- 2025-11-13 — Could ITV Poach The Traitors? — speakers: Bake Off, Mary Earps, Richard Osman, Coles Books, Charlie Rodwell, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer, Marina Hyde
-- 2025-11-11 — Why Did Tim Davie Resign? — speakers: Tim Davie, Kim Kardashian, Deborah Turness, Rotten Tomatoes, Coles Books, Charlie Rodwell, Adam Thornton, Imee Marriott Senior, Richard Osman, Marina Hyde
+- 2025-11-13 — Could ITV Poach The Traitors? — speakers: Bake Off, Mary Earps, Richard Osman, Coles Books, Charlie Rodwell, Adam Thornton, Imee Marriott Senior, Joey McCarthy Social Producer
+- 2025-11-11 — Why Did Tim Davie Resign? — speakers: Tim Davie, Kim Kardashian, Deborah Turness, Rotten Tomatoes, Coles Books, Charlie Rodwell, Adam Thornton, Imee Marriott Senior
 - 2025-11-06 — CELEBRITY TRAITORS FINAL REACTION — speakers: Richard Osman, Coles Books, Joey McCarthy, Marina Hyde
 - 2025-11-06 — The Future Of Doctor Who — speakers: Richard Osman, Coles Books, Joey McCarthy Social Producer, Marina Hyde
-- 2025-11-04 — Lily Allen vs David Harbour — speakers: Lily Allen, David Harbour, Richard Osman, Claudia Winkleman, Jimmy Mulville, Coles Books, Charlie Rodwell, Joey McCarthy Social Producer, Marina Hyde
+- 2025-11-04 — Lily Allen vs David Harbour — speakers: Lily Allen, David Harbour, Richard Osman, Claudia Winkleman, Jimmy Mulville, Coles Books, Charlie Rodwell, Joey McCarthy Social Producer
 - 2025-10-30 — CELEBRITY TRAITORS: Week Four Reaction — speakers: Joe Marler, Richard Osman, Coles Books, Adam Thornton, Joey McCarthy Social Producer, Marina Hyde
 - 2025-10-30 — Prince Andrew and The Inbetweeners — speakers: Prince Andrew, Virginia Giuffre, Richard Osman, Coles Books, Adam Thornton, Joey McCarthy Social Producer, Marina Hyde
 - 2025-10-28 — What Marina Asked Glen Powell — speakers: Glen Powell, Jared Kushner, Mohammed Bin Salman, Coles Books, Charlie Rodwell, Joey McCarthy Social Producer, Richard Osman, Marina Hyde
@@ -6202,66 +6086,66 @@
 - 2025-10-13 — Is Social Media Dead? — speakers: slop killed, Richard Osman, Drake vs Kendrick, Courtney Love, Coles Books, Charlie Rodwell, Joey McCarthy Social Producer, Marina Hyde
 - 2025-10-08 — How To Get Rich From Fan-Fiction — speakers: Richard Osman, Coles Books, Max Archer, Joey McCarthy Social Producer, Marina Hyde
 - 2025-10-08 — CELEBRITY TRAITORS: First Episode Reaction (Free Bonus Episode) — speakers: Richard Osman, Coles Books, Joey McCarthy Social Producer, Marina Hyde
-- 2025-10-06 — Is Taylor Swift Punching Down? — speakers: Taylor Swift, Will Mel Gibson, Max Martin, Richard Osman, Mel Gibson, Coles Books, Charlie Rodwell, Joey McCarthy Social Producer, Marina Hyde
+- 2025-10-06 — Is Taylor Swift Punching Down? — speakers: Will Mel Gibson, Max Martin, Richard Osman, Mel Gibson, Coles Books, Charlie Rodwell, Joey McCarthy Social Producer
 - 2025-10-01 — Simon Cowell vs The Taliban — speakers: Simon Cowell, Thomas Pynchon, Richard Osman, Coles Books, Max Archer, Joey McCarthy Social Producer, Marina Hyde
 - 2025-09-29 — Have Gucci Made The World’s Worst Film? — speakers: Gucci bin, Coles Books, Adam Thornton, Joey McCarthy Social Producer, Richard Osman, Marina Hyde
-- 2025-09-24 — Bake-Off, Boris' Book and Bad Movies — speakers: Boris Johnson, Richard Osman, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Marina Hyde
-- 2025-09-22 — What's Next For Jimmy Kimmel? — speakers: Jimmy Kimmel, Will Taylor Swift, Kevin Costner, Taylor Swift, Whitney Houston, Coles Books, Kieron Leslie, Charlie Rodwell, Richard Osman, Marina Hyde
-- 2025-09-17 — The Secrets Of Tipping Point — speakers: Ben Shephard, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Richard Osman, Marina Hyde
-- 2025-09-15 — Can The Rock Win An Oscar? — speakers: Rock Johnson, James Bond, Pamela Abdy, Michael De Luca, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Richard Osman, Marina Hyde
-- 2025-09-10 — Should Children Watch The Shining? — speakers: Stephen King, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Richard Osman, Marina Hyde
-- 2025-09-08 — Has Morrissey Become Noel Edmonds? — speakers: Noel Edmonds, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Richard Osman, Marina Hyde
-- 2025-09-03 — The Secrets Of Undercover Reporting — speakers: Richard Osman, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Marina Hyde
-- 2025-09-01 — The Comedians Crazy For Saudi Cash — speakers: Travis Kelce, Taylor Swift, Michael Jackson, Dave Chappelle, Jimmy Carr, Coles Books, Kieron Leslie, Charlie Rodwell, Richard Osman, Marina Hyde
-- 2025-08-27 — Chris Columbus on Harry Potter, Home Alone and The Thursday Murder Club — speakers: Chris Columbus, Harry Potter, Murder Club, Robin Williams, Richard Osman, Coles Books, Kieron Leslie, Charlie Rodwell, Marina Hyde
-- 2025-08-26 — Noel Clarke Loses To The Guardian — speakers: Noel Clarke Loses, Murder Club, Noel Clarke, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Richard Osman, Marina Hyde
-- 2025-08-20 — The One Where They Talk About Laugh Tracks — speakers: Nick Faldo, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Bruno Di, Joey McCarthy, Richard Osman, Marina Hyde
-- 2025-08-18 — Is Strictly Going Alt-Right? — speakers: Thomas Skinner, JD Vance, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Richard Osman, Marina Hyde
-- 2025-08-13 — Is Marina Wrong About Hollywood A-Listers? — speakers: Richard Osman, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Marina Hyde
-- 2025-08-11 — When Celebrities Become Cops — speakers: Steven Seagal, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Marina Hyde
-- 2025-08-06 — Was Vogue Wrong to Publish a Fake Model? — speakers: Vogue Wrong, Andi Peters, Richard Osman, Rebekka Brooks, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Marina Hyde
-- 2025-08-04 — The Liam Neeson and Pamela Anderson Love Story — speakers: Pamela Anderson Love Story, Pamela Anderson, Jenna Ortega Gen-Z, Liam Neeson, Jenna Ortega, Kieron Leslie, Charlie Rodwell, Adam Thornton, Richard Osman, Marina Hyde
-- 2025-07-30 — Can Men Read? — speakers: Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Davenport Learn, Marina Hyde
-- 2025-07-28 — South Park vs Trump — speakers: Adam Sandler, Trey Parker, Matt Stone, Donald Trump, White Richard, Kieron Leslie, Charlie Rodwell, Adam Thornton, Richard Osman, Marina Hyde
-- 2025-07-23 — The Two Billion Dollar Video Game — speakers: Tom Holland, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Marina Hyde
-- 2025-07-21 — The Real TV Rich List - REVEALED — speakers: Gary Lineker, Richard Osman, Amol Rajan, Jeremy Clarkson, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Marina Hyde
-- 2025-07-16 — A Brief History Of Popcorn At The Movies — speakers: Lee Mack, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Marina Hyde
-- 2025-07-16 — The MasterChef Disaster - What Happens Next? — speakers: John Torode, Gregg Wallace, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Marina Hyde
-- 2025-07-15 — Mushroom Murders: True Crime Wars — speakers: Erin Pattinson, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Davenport Learn, Richard Osman, Marina Hyde
-- 2025-07-09 — Chat Show Secrets, Restaurant Reviewers & Glasto Sound checks — speakers: Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Davenport Learn, Marina Hyde
-- 2025-07-07 — The Salt Path Controversy - Explained — speakers: Velvet Sundown, Richard Death Valley, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Josh Smith, Joey McCarthy, Richard Osman, Marina Hyde
-- 2025-07-02 — Is Shakespeare Overrated? — speakers: Shakespeare Overrated, William Shakespeare, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Marina Hyde
-- 2025-06-30 — The Jeff Bezos & Lauren Sánchez Wedding — speakers: Jeff Bezos, Lauren Sánchez, Brad Pitt, Lauren Sanchez, Jenny Saville, Kieron Leslie, Charlie Rodwell, Adam Thornton, Richard Osman, Marina Hyde
-- 2025-06-25 — New Book Smells, Vanishing Shows & Never Auditioning — speakers: Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Davenport Learn, Marina Hyde
-- 2025-06-25 — The Real Life Gossip Girl: UNMASKED — speakers: Rachel Zegler, Richard Osman, Jamie Lloyd, Barry Diller Who, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Marina Hyde
-- 2025-06-18 — Adam Curtis on AI, the BBC and Bucks Fizz — speakers: Adam Curtis, Elon Musk, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Marina Hyde
-- 2025-06-16 — Noel Edmonds And The Apocalypse — speakers: Noel Edmonds, Jeremy Clarkson, Richard Osman, Adam Curtis Shifty, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Marina Hyde
-- 2025-06-11 — Which Celebrities NEED Media Training? — speakers: Richard Osman, Harry Hill, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Marina Hyde
-- 2025-06-09 — Sydney Sweeney's Bathwater Bonanza — speakers: Bathwater Bonanza Sydney Sweeney, Sydney Sweeney, Richard Osman, Nintendo Switch, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Sewell, Marina Hyde
-- 2025-06-04 — Marina and Richard's Biggest Ever Argument — speakers: Food’s Adam Richman, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton Producer, Joey McCarthy, Tom Whiter, Davenport Learn, Marina Hyde
-- 2025-06-02 — Gossip: The New Frontier Of The Culture War — speakers: Tim Stokely, Kieron Leslie, Charlie Rodwell, Adam Thornton Producer, Joey McCarthy, Tom Whiter, Davenport Learn, Richard Osman, Marina Hyde
+- 2025-09-24 — Bake-Off, Boris' Book and Bad Movies — speakers: Richard Osman, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy
+- 2025-09-22 — What's Next For Jimmy Kimmel? — speakers: Jimmy Kimmel, Will Taylor Swift, Kevin Costner, Whitney Houston, Coles Books, Kieron Leslie, Charlie Rodwell
+- 2025-09-17 — The Secrets Of Tipping Point — speakers: Ben Shephard, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-09-15 — Can The Rock Win An Oscar? — speakers: Rock Johnson, Pamela Abdy, Michael De Luca, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton
+- 2025-09-10 — Should Children Watch The Shining? — speakers: Stephen King, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-09-08 — Has Morrissey Become Noel Edmonds? — speakers: Noel Edmonds, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-09-03 — The Secrets Of Undercover Reporting — speakers: Richard Osman, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-09-01 — The Comedians Crazy For Saudi Cash — speakers: Travis Kelce, Michael Jackson, Dave Chappelle, Jimmy Carr, Coles Books, Kieron Leslie, Charlie Rodwell
+- 2025-08-27 — Chris Columbus on Harry Potter, Home Alone and The Thursday Murder Club — speakers: Chris Columbus, Murder Club, Robin Williams, Richard Osman, Coles Books, Kieron Leslie, Charlie Rodwell
+- 2025-08-26 — Noel Clarke Loses To The Guardian — speakers: Noel Clarke Loses, Murder Club, Noel Clarke, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan
+- 2025-08-20 — The One Where They Talk About Laugh Tracks — speakers: Nick Faldo, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Bruno Di, Joey McCarthy
+- 2025-08-18 — Is Strictly Going Alt-Right? — speakers: Thomas Skinner, JD Vance, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-08-13 — Is Marina Wrong About Hollywood A-Listers? — speakers: Richard Osman, Coles Books, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-08-11 — When Celebrities Become Cops — speakers: Steven Seagal, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-08-06 — Was Vogue Wrong to Publish a Fake Model? — speakers: Vogue Wrong, Andi Peters, Richard Osman, Rebekka Brooks, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan
+- 2025-08-04 — The Liam Neeson and Pamela Anderson Love Story — speakers: Pamela Anderson Love Story, Pamela Anderson, Jenna Ortega Gen-Z, Liam Neeson, Jenna Ortega, Kieron Leslie, Charlie Rodwell, Adam Thornton
+- 2025-07-30 — Can Men Read? — speakers: Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Davenport Learn
+- 2025-07-28 — South Park vs Trump — speakers: Adam Sandler, Trey Parker, Matt Stone, White Richard, Kieron Leslie, Charlie Rodwell, Adam Thornton
+- 2025-07-23 — The Two Billion Dollar Video Game — speakers: Tom Holland, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-07-21 — The Real TV Rich List - REVEALED — speakers: Gary Lineker, Richard Osman, Amol Rajan, Jeremy Clarkson, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan
+- 2025-07-16 — A Brief History Of Popcorn At The Movies — speakers: Lee Mack, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-07-16 — The MasterChef Disaster - What Happens Next? — speakers: John Torode, Gregg Wallace, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy
+- 2025-07-15 — Mushroom Murders: True Crime Wars — speakers: Erin Pattinson, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Davenport Learn
+- 2025-07-09 — Chat Show Secrets, Restaurant Reviewers & Glasto Sound checks — speakers: Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Davenport Learn
+- 2025-07-07 — The Salt Path Controversy - Explained — speakers: Velvet Sundown, Richard Death Valley, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Josh Smith, Joey McCarthy
+- 2025-07-02 — Is Shakespeare Overrated? — speakers: Shakespeare Overrated, William Shakespeare, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy
+- 2025-06-30 — The Jeff Bezos & Lauren Sánchez Wedding — speakers: Jeff Bezos, Lauren Sánchez, Brad Pitt, Lauren Sanchez, Jenny Saville, Kieron Leslie, Charlie Rodwell, Adam Thornton
+- 2025-06-25 — New Book Smells, Vanishing Shows & Never Auditioning — speakers: Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter, Davenport Learn
+- 2025-06-25 — The Real Life Gossip Girl: UNMASKED — speakers: Rachel Zegler, Richard Osman, Jamie Lloyd, Barry Diller Who, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan
+- 2025-06-18 — Adam Curtis on AI, the BBC and Bucks Fizz — speakers: Adam Curtis, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy
+- 2025-06-16 — Noel Edmonds And The Apocalypse — speakers: Noel Edmonds, Jeremy Clarkson, Richard Osman, Adam Curtis Shifty, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan
+- 2025-06-11 — Which Celebrities NEED Media Training? — speakers: Richard Osman, Harry Hill, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Swan, Joey McCarthy, Tom Whiter
+- 2025-06-09 — Sydney Sweeney's Bathwater Bonanza — speakers: Bathwater Bonanza Sydney Sweeney, Sydney Sweeney, Richard Osman, Nintendo Switch, Kieron Leslie, Charlie Rodwell, Adam Thornton, Harry Sewell
+- 2025-06-04 — Marina and Richard's Biggest Ever Argument — speakers: Food’s Adam Richman, Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton Producer, Joey McCarthy, Tom Whiter, Davenport Learn
+- 2025-06-02 — Gossip: The New Frontier Of The Culture War — speakers: Tim Stokely, Kieron Leslie, Charlie Rodwell, Adam Thornton Producer, Joey McCarthy, Tom Whiter, Davenport Learn, Richard Osman
 - 2025-05-28 — The Books You Must Read Before Turning 18 — speakers: Richard Osman, Kieron Leslie, Charlie Rodwell, Adam Thornton Producer, Joey McCarthy, Tom Whiter, Davenport Learn, Marina Hyde
-- 2025-05-28 — ⁠The Truth Behind ITV’s Daytime Cull — speakers: Daytime Cull How, Richard Osman, Giuliano da Empoli, Kieron Leslie, Charlie Rodwell, Adam Thornton Producer, Joey McCarthy, Tom Whiter, Marina Hyde
-- 2025-05-21 — Method Acting Sickos — speakers: Method Acting Sickos, Jared Leto, Suicice Squad, Ben White, Richard Osman, Kieron Leslie, Charlie Rodwell, Harry Swan, Marina Hyde
-- 2025-05-19 — Gary Lineker Leaves The BBC — speakers: Gary Lineker, Richard Osman, Kieron Leslie, Charlie Rodwell, Harry Swan Producer, Joey McCarthy, Tom Whiter, Davenport Learn, Marina Hyde
-- 2025-05-14 — Can The Pope Win Eurovision? — speakers: Martin Österdahl, Martin Green, Kieron Leslie, Charlie Rodwell, Harry Swan, Adam Thornton Producer, Joey McCarthy, Tom Whiter, Richard Osman, Marina Hyde
+- 2025-05-28 — ⁠The Truth Behind ITV’s Daytime Cull — speakers: Daytime Cull How, Richard Osman, Giuliano da Empoli, Kieron Leslie, Charlie Rodwell, Adam Thornton Producer, Joey McCarthy, Tom Whiter
+- 2025-05-21 — Method Acting Sickos — speakers: Method Acting Sickos, Jared Leto, Suicice Squad, Ben White, Richard Osman, Kieron Leslie, Charlie Rodwell, Harry Swan
+- 2025-05-19 — Gary Lineker Leaves The BBC — speakers: Gary Lineker, Richard Osman, Kieron Leslie, Charlie Rodwell, Harry Swan Producer, Joey McCarthy, Tom Whiter, Davenport Learn
+- 2025-05-14 — Can The Pope Win Eurovision? — speakers: Martin Österdahl, Martin Green, Kieron Leslie, Charlie Rodwell, Harry Swan, Adam Thornton Producer, Joey McCarthy, Tom Whiter
 - 2025-05-12 — Marina Explains The Beckham Family Feud — speakers: Eli Roth, Marina Hyde, Richard Osman, Kieron Leslie, Charlie Rodwell, Harry Swan Producer, Joey McCarthy, Tom Whiter
 - 2025-05-07 — Prop Auctions, Celebrity Bodyguards & Football Chants — speakers: Charlie Rodwell Teo Ayodeji-Ansell, Joey McCarthy, Tom Whiter, Davenport Learn, Richard Osman, Marina Hyde
-- 2025-05-05 — Is Trump Trying To Kill Hollywood? — speakers: Kill Hollywood, Donald Trump, Charlie Rodwell Teo Ayodeji-Ansell, Joey McCarthy, Tom Whiter, Davenport Learn, Richard Osman, Marina Hyde
+- 2025-05-05 — Is Trump Trying To Kill Hollywood? — speakers: Kill Hollywood, Charlie Rodwell Teo Ayodeji-Ansell, Joey McCarthy, Tom Whiter, Davenport Learn, Richard Osman, Marina Hyde
 - 2025-04-30 — The Most Dangerous Job in TV — speakers: Richard Osman, Kieron Leslie, Adam Thornton Producer, Joey McCarthy, Tom Whiter, Tony Pastor, Jack Davenport Learn, Marina Hyde
-- 2025-04-29 — How Liz Hurley Slid Into Billy Ray Cyrus’s DMs — speakers: Liz Hurley, Billy Ray Cyrus, Elizabeth Hurley, Peter Andre, Kieron Leslie, Adam Thornton, Charlie Rodwell, Tom Whiter, Richard Osman, Marina Hyde
+- 2025-04-29 — How Liz Hurley Slid Into Billy Ray Cyrus’s DMs — speakers: Liz Hurley, Billy Ray Cyrus, Elizabeth Hurley, Peter Andre, Kieron Leslie, Adam Thornton, Charlie Rodwell, Tom Whiter
 - 2025-04-23 — Marina's A-List — speakers: Richard Osman, Kieron Leslie, Adam Thornton, Tom Whiter, Tony Pastor, Jack Davenport Learn, Marina Hyde
-- 2025-04-21 — Can Jesus Save Hollywood? — speakers: Jesus Save Hollywood, Richard Osman, Justin Baldoni, Lee Child, Glen Powell, Kieron Leslie, Adam Thornton, Tom Whiter, Marina Hyde
+- 2025-04-21 — Can Jesus Save Hollywood? — speakers: Jesus Save Hollywood, Richard Osman, Justin Baldoni, Lee Child, Glen Powell, Kieron Leslie, Adam Thornton, Tom Whiter
 - 2025-04-16 — Titanic, Tattoos & Trade Wars — speakers: Mike Tyson, Richard Osman, Joey McCarthy, Kieron Leslie Adam Thornton, Charlie Rodwell, Tom Whiter Executive, Tony Pastor Jack Davenport, Marina Hyde
-- 2025-04-14 — Will Saturday Night Live Thrive in The UK? — speakers: Murder Club, Richard Osman, Lorne Michaels, Joey McCarthy, Kieron Leslie Adam Thornton, Charlie Rodwell, Tom Whiter Executive, Tony Pastor Jack Davenport, Marina Hyde
-- 2025-04-09 — Clooney vs Trump — speakers: Trump Donald Trump, George Clooney, Richard Osman, Joey McCarthy, Kieron Lesley, Harry Swan, Charlie Rothwell, Tom Whiter Executive, Marina Hyde
-- 2025-04-07 — Minecraft: A Huge Mess But A Huge Hit — speakers: Charlie Brooker, Annabel Jones, Sam Mendes, Paul Mescal, Harris Dickinson, Barry Keoghan, Joseph Quinn, Joey McCarthy, Richard Osman, Marina Hyde
+- 2025-04-14 — Will Saturday Night Live Thrive in The UK? — speakers: Murder Club, Richard Osman, Lorne Michaels, Joey McCarthy, Kieron Leslie Adam Thornton, Charlie Rodwell, Tom Whiter Executive, Tony Pastor Jack Davenport
+- 2025-04-09 — Clooney vs Trump — speakers: Trump Donald Trump, George Clooney, Richard Osman, Joey McCarthy, Kieron Lesley, Harry Swan, Charlie Rothwell, Tom Whiter Executive
+- 2025-04-07 — Minecraft: A Huge Mess But A Huge Hit — speakers: Charlie Brooker, Annabel Jones, Sam Mendes, Paul Mescal, Harris Dickinson, Barry Keoghan, Joseph Quinn, Joey McCarthy
 - 2025-04-03 — When Product Placement Goes Wrong — speakers: Amol Rajan, Richard Osman, Killing Eve, Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Marina Hyde
-- 2025-04-01 — Did Mark Zuckerberg steal Richard's Books? — speakers: Mark Zuckerberg, Jimmy Carr, Bob Mortimer, Logan Paul, Graydon Carter, Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2025-04-01 — Did Mark Zuckerberg steal Richard's Books? — speakers: Mark Zuckerberg, Jimmy Carr, Bob Mortimer, Logan Paul, Graydon Carter, Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport
 - 2025-03-27 — The Adolescence Director Answers Your Questions — speakers: Philip Barantini, Matt Lewis, Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2025-03-25 — Adolescence Conquers the World — speakers: Stephen Graham, Will Smith, Joe Rogan, Comedy Career Elephant Graveyard, Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2025-03-20 — Will The Harry Potter Reboot Fail? — speakers: Harry Potter, Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2025-03-18 — Millie Bobby Brown Has Had Enough — speakers: Had Enough, Snow White, Millie Bobby Brown, Sarah Wynn Williams, Richard Osman, Murder Club, Richard Drive, Neil Fearn Joey McCarthy, Marina Hyde
+- 2025-03-25 — Adolescence Conquers the World — speakers: Stephen Graham, Will Smith, Joe Rogan, Comedy Career Elephant Graveyard, Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman
+- 2025-03-20 — Will The Harry Potter Reboot Fail? — speakers: Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2025-03-18 — Millie Bobby Brown Has Had Enough — speakers: Had Enough, Snow White, Millie Bobby Brown, Sarah Wynn Williams, Richard Osman, Murder Club, Richard Drive, Neil Fearn Joey McCarthy
 - 2025-03-13 — The Secrets Of Channel 4’s Hunted — speakers: Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2025-03-11 — The Power Of Drive To Survive — speakers: Neil Young, Olivia Rodrigo, Richard Amandaland, Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2025-03-06 — Shrek 5, Book Signings & Going For Gold — speakers: Neil Fearn Joey McCarthy, Jake Liascos Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
@@ -6269,7 +6153,7 @@
 - 2025-02-27 — Oscars, Clichés and Cool — speakers: Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2025-02-25 — Bond and Meghan Markle’s Big Gamble — speakers: Barbara Broccoli, Meghan Markle, Richard Blatro, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2025-02-20 — Have Celebs Lost Their Cool? — speakers: McCarthy Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2025-02-18 — Is James Bond In Crisis? — speakers: James Bond, Peter Kay, Richard Boyzone No, McCarthy Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2025-02-18 — Is James Bond In Crisis? — speakers: Peter Kay, Richard Boyzone No, McCarthy Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2025-02-13 — Why Kids Must Watch More TV — speakers: Snoop Dogg, Alan Carr, McCarthy Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2025-02-11 — Gino D'Acampo & The Superbowl — speakers: Billie Eilish, McCarthy Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2025-02-06 — Millionaire Mutts & The Power Of JK Rowling — speakers: McCarthy Executive, Richard Osman, Marina Hyde
@@ -6286,49 +6170,49 @@
 - 2025-01-02 — Favourite Questions of 2024 — speakers: McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-12-31 — Squid Game And Heroes & Villains of 2024 — speakers: McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-12-26 — The Art Of Match Of The Day — speakers: McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
-- 2024-12-24 — Blake Lively Bombshell & Beast Games — speakers: Beast Games, Blake Lively, Justin Baldoni, Jimmy Donaldson, Will Gavin, Richard Black Doves, McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
+- 2024-12-24 — Blake Lively Bombshell & Beast Games — speakers: Beast Games, Blake Lively, Justin Baldoni, Jimmy Donaldson, Will Gavin, Richard Black Doves, McCarthy Executive, Davenport Learn
 - 2024-12-19 — The Truth Of Gossip Sites — speakers: McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-12-17 — Lisa Nandy, Tech Bros & The Sephora Crisis — speakers: Lisa Nandy, Sol de Janeiro, McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-12-12 — How To Create Movie Sex Sounds — speakers: Richard Osman, McCarthy Executive, Davenport Learn, Marina Hyde
 - 2024-12-10 — Leave Ariana Grande Alone — speakers: Jeremy Clarkson, McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-12-05 — The Secrets Of I’m A Celeb — speakers: McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-12-03 — Gregg Wallace. A Recipe For Disaster — speakers: Gregg Wallace, Jacob Rees-Mogg, McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
-- 2024-11-28 — Richard’s Superpower & Marina’s Warren Beatty Meeting — speakers: Richard’s Superpower Marina, Warren Beatty Meeting, Warren Beatty, Richard Osman, Albert Hall, McCarthy Executive, Davenport Learn, Marina Hyde
-- 2024-11-26 — Jeremy Clarkson For Prime Minister? — speakers: Jeremy Clarkson, Albert Hall, McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
-- 2024-11-21 — Bookshelves - The Nation Speaks — speakers: Rob Beckett, Albert Hall, Joey McCarthy, Davenport Learn, Richard Osman, Marina Hyde
-- 2024-11-19 — Mike Tyson, Bluesky & Christmas Adverts — speakers: Mike Tyson, Jake Paul, Albert Hall, McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
+- 2024-11-28 — Richard’s Superpower & Marina’s Warren Beatty Meeting — speakers: Richard’s Superpower Marina, Warren Beatty Meeting, Warren Beatty, Richard Osman, McCarthy Executive, Davenport Learn, Marina Hyde
+- 2024-11-26 — Jeremy Clarkson For Prime Minister? — speakers: Jeremy Clarkson, McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
+- 2024-11-21 — Bookshelves - The Nation Speaks — speakers: Rob Beckett, Joey McCarthy, Davenport Learn, Richard Osman, Marina Hyde
+- 2024-11-19 — Mike Tyson, Bluesky & Christmas Adverts — speakers: Mike Tyson, Jake Paul, McCarthy Executive, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-11-14 — Is Richard A Psychopath? — speakers: Rhys Durham, McCarthy Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-11-12 — How The Media Won It For Trump — speakers: McCarthy Executive, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-11-07 — Are Newsroom Backgrounds Real Or Fake? — speakers: Richard Osman, Joey McCarthy, Tony Pastor Jack Davenport, Marina Hyde
 - 2024-11-05 — TV Is Dead, But Michael Parkinson Is Alive — speakers: Michael Parkinson, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-10-31 — The Art of Sex on TV — speakers: Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-10-29 — The Death Of Click-Bait — speakers: Taylor Swift, Albert Hall, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-10-23 — The Best Advice Jedward Ever Received — speakers: Below Deck, Albert Hall, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2024-10-29 — The Death Of Click-Bait — speakers: Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2024-10-23 — The Best Advice Jedward Ever Received — speakers: Below Deck, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-10-21 — Fame, Fortune and Marina's New Show — speakers: Tim Davie, John le Carré, Nick Harkaway Richard, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-10-16 — Who Has Had A Hair Transplant? — speakers: Bake Off, Joey McCarthy, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-10-16 — Introducing: The Rest Is Entertainment Club — speakers: Richard Osman, Marina Hyde
 - 2024-10-14 — Is This The Best TV Show Of The Year? — speakers: Logan Paul, Joey McCarthy, Davenport Learn, Richard Osman, Marina Hyde
 - 2024-10-09 — Celebrity Catchphrase & Swearing At Children — speakers: Colin Murray, Joey McCarthy, Tony Pastor Jack Davenport, QyGNBHN Learn, Richard Osman, Marina Hyde
-- 2024-10-07 — Boris Johnson's Cash Dash — speakers: Boris Johnson, Naomi Campbell, Nina Simone, Joey McCarthy, Tony Pastor Jack Davenport, QyGNBHN Learn, Richard Osman, Marina Hyde
+- 2024-10-07 — Boris Johnson's Cash Dash — speakers: Naomi Campbell, Nina Simone, Joey McCarthy, Tony Pastor Jack Davenport, QyGNBHN Learn, Richard Osman, Marina Hyde
 - 2024-10-02 — Richard vs the SAS — speakers: Joey McCarthy, Tony Pastor Jack Davenport, QyGNBHN Learn, Richard Osman, Marina Hyde
 - 2024-09-30 — The Return Of Phillip Schofield — speakers: Phillip Schofield, Joey McCarthy, Tony Pastor Jack Davenport, QyGNBHN Learn, Richard Osman, Marina Hyde
 - 2024-09-25 — Grand Designs & Made-up Bands — speakers: Kevin Mcleod, Joey McCarthy, Tony Pastor Jack Davenport, XXMc QyGNBHN, Richard Osman, Marina Hyde
 - 2024-09-23 — The Biggest Flop Of All Time? — speakers: Breaking Bad, Joey McCarthy, Tony Pastor Jack Davenport, XXMc QyGNBHN, Richard Osman, Marina Hyde
 - 2024-09-18 — When Autobiographies Go Too Far — speakers: Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-09-16 — Is The Bear REALLY a Comedy? — speakers: Donald Trump, Jack White, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2024-09-16 — Is The Bear REALLY a Comedy? — speakers: Jack White, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-09-11 — Typecasting, Typefaces & Greatest Hits — speakers: Richard Osman, Joey McCarthy, Tony Pastor Jack Davenport, Marina Hyde
 - 2024-09-09 — How To Publish A Bestseller — speakers: Ben Macintyre, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-09-04 — What Has Gone Wrong With Star Wars? — speakers: Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-09-02 — Inside The Oasis Reunion — speakers: Liam Gallagher, George Clooney, Brad Pitt, Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-08-28 — Pitching Buckaroo To Spielberg — speakers: Steven Spielberg, James Bond, Richard Osman, Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Marina Hyde
+- 2024-08-28 — Pitching Buckaroo To Spielberg — speakers: Steven Spielberg, Richard Osman, Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Marina Hyde
 - 2024-08-26 — The Crazy Rise & Fall Of Cameo — speakers: Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-08-21 — Bloopers, Tribute Bands and Frozen — speakers: Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-08-19 — Matthew Perry & The Dark Hollywood Underbelly — speakers: Matthew Perry, Tommy Fury, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-08-14 — Who is Banksy? — speakers: Richard Osman, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Marina Hyde
-- 2024-08-12 — Should You Leave Twitter? — speakers: Elon Musk, Katy Perry, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2024-08-12 — Should You Leave Twitter? — speakers: Katy Perry, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-08-07 — The Secret Tax on TV Gameshows — speakers: Lisa Nandy, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-08-05 — Robert Downey Jr & the Death of TV Comedy — speakers: Robert Downey Jr, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-07-31 — Taylor Swift On House of Games? — speakers: Taylor Swift, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2024-07-31 — Taylor Swift On House of Games? — speakers: Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-07-29 — Brat Summer & THAT Olympic Ceremony — speakers: Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-07-24 — Antiques Roadshow Secrets — speakers: Antiques Roadshow Secrets, Antiques Roadshow, Richard Osman, Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Marina Hyde
 - 2024-07-22 — Is Strictly Come Dancing In Trouble? — speakers: Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
@@ -6337,9 +6221,9 @@
 - 2024-07-10 — Top Three Spielberg Films — speakers: Steven Spielberg, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-07-08 — Which Dumped Tory Will Do 'Strictly'? — speakers: Jill Biden, Glen Powell, Sabrina Carpenter, Neil Fearn Joey McCarthy, Davenport Recommendations, Beverley Hills Cop, Richard Osman, Marina Hyde
 - 2024-07-03 — BBC Wimbledon, Remakes & Crew Catering — speakers: Will Wimbledon, Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-07-01 — What Can TV Learn From Podcasts? — speakers: Donald Trump, Executive Producers, Davenport Recommendations, Richard Osman, Marina Hyde
+- 2024-07-01 — What Can TV Learn From Podcasts? — speakers: Executive Producers, Davenport Recommendations, Richard Osman, Marina Hyde
 - 2024-06-26 — Live Audiences, Comedians & Superhero Stars — speakers: Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-06-24 — Biggest TV Complaints Of All Time — speakers: Taylor Swift, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2024-06-24 — Biggest TV Complaints Of All Time — speakers: Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-06-19 — The Wheel, Agony Aunts & Sequels — speakers: Michael McIntyre, Agony Aunts, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-06-17 — How The Euros Are Divided For TV — speakers: Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-06-12 — TV Theme Tunes & Last Minute Movie Stars — speakers: Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
@@ -6355,17 +6239,17 @@
 - 2024-05-08 — Dangerous Drivers & Best Ever Headlines — speakers: Richard Osman, Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Marina Hyde
 - 2024-05-06 — The Met Gala, The Rock & Clarkson's Return — speakers: Jeremy Clarkson, Neil Fearn Executive Producers, Davenport Recommendations, Richard Red Eye, Richard Osman, Marina Hyde
 - 2024-05-01 — Is Mastermind Unfair? — speakers: Richard Osman, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Marina Hyde
-- 2024-04-29 — The Baby Reindeer Controversy — speakers: Liz Truss, Neil Fearn Joey McCarthy, Richard Osman, Marina Hyde
+- 2024-04-29 — The Baby Reindeer Controversy — speakers: Neil Fearn Joey McCarthy, Richard Osman, Marina Hyde
 - 2024-04-24 — The Power Of Agents — speakers: Richard Osman, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Marina Hyde
-- 2024-04-22 — Celebrity Traitors and Rupert Murdoch — speakers: Rupert Murdoch, Hugh Grant, Murder Club, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
+- 2024-04-22 — Celebrity Traitors and Rupert Murdoch — speakers: Hugh Grant, Murder Club, Neil Fearn Joey McCarthy, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-04-17 — TV Secrets Revealed! — speakers: Race Across, Alan Carr, Richard Osman, Executive Producers, Davenport Learn, Marina Hyde
 - 2024-04-15 — Will 'Strictly' decide the General Election? — speakers: Executive Producers, Richard Osman, Marina Hyde
 - 2024-04-10 — Corpses, Quizzes & Newsrooms — speakers: Richard Osman, Neil Fearn Joey McCarthy, Davenport Learn, Marina Hyde
 - 2024-04-08 — Netflix, Disney and Terrible Ads — speakers: Richard Osman, Neil Fearn Executive Producers, Davenport Recommendations, Marina Hyde
 - 2024-04-03 — Robot Horses and Banning Wikipedia — speakers: Ridley Scott, Richard Osman, Neil Fearn Executive Producers, Davenport Learn, Marina Hyde
-- 2024-04-01 — Can Tim Davie Save The BBC? — speakers: Tim Davie, James Bond, Richard Osman, Neil Fearn Joey McCarthy, Davenport Recommendations, Richard Beyonce Cowboy Carter, Marina Hyde
+- 2024-04-01 — Can Tim Davie Save The BBC? — speakers: Tim Davie, Richard Osman, Neil Fearn Joey McCarthy, Davenport Recommendations, Richard Beyonce Cowboy Carter, Marina Hyde
 - 2024-03-28 — Fake Drugs, TV Babies and Hulk Hogan — speakers: Hulk Hogan, Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-03-26 — Kate conspiracies & the new James Bond — speakers: James Bond, Aaron Taylor-Johnson, Daniel Craig, Donald Trump, Richard Osman, Neil Fearn Executive Producers, Davenport Recommendations, Percival Everett, Marina Hyde
+- 2024-03-26 — Kate conspiracies & the new James Bond — speakers: Aaron Taylor-Johnson, Daniel Craig, Richard Osman, Neil Fearn Executive Producers, Davenport Recommendations, Percival Everett
 - 2024-03-21 — Trade Secrets Of Countdown — speakers: Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-03-19 — The Best Paid Actor In The World — speakers: Neil Fearn Executive Producers, Davenport Recommendations, Richard Osman, Marina Hyde
 - 2024-03-14 — Terrible Meetings, Terrible Paparazzi and Nick Clegg — speakers: Nick Clegg, Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
@@ -6377,7 +6261,7 @@
 - 2024-02-22 — Can celebrities dodge jury service? — speakers: Lorraine Kelly, Richard Madeley, Richard Osman, Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Marina Hyde
 - 2024-02-20 — Romantasy - the biggest genre you're not aware of? — speakers: Neil Fearn Executive Producers, Davenport Recommendations, Harold Pinter Theatre, Richard Osman, Marina Hyde
 - 2024-02-15 — What has happened to sketch shows and what doesn't Richard like on TV? — speakers: Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2024-02-13 — Will Elon Musk buy Disney? — speakers: Will Elon Musk, Elon Musk, Gregg Wallace, Neil Fearn Executive Producers, Davenport Recommendations, Richard Osman, Marina Hyde
+- 2024-02-13 — Will Elon Musk buy Disney? — speakers: Will Elon Musk, Gregg Wallace, Neil Fearn Executive Producers, Davenport Recommendations, Richard Osman, Marina Hyde
 - 2024-02-08 — The secrets of 'blurb quotes' on books and who is to blame when a guest goes rogue? — speakers: Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2024-02-06 — How do you save Channel 4? — speakers: Richard Osman, Neil Fearn Executive Producers, Davenport Recommendations, Marina Hyde
 - 2024-02-01 — Editing tricks, stopping leaks and how do you pitch shows? — speakers: Bake Off, Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
@@ -6392,7 +6276,7 @@
 - 2024-01-02 — What we'll be glued to in 2024 and why do some shows never return to our screens? — speakers: Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2023-12-26 — How panel shows really work and is WWE high drama? — speakers: Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
 - 2023-12-19 — Phone hacking. What happened, who was there, and what is the fallout? — speakers: Neil Fearn Executive Producers, Tony Pastor Jack Davenport, Richard Osman, Marina Hyde
-- 2023-12-12 — Taylor Swift, your person of the year? — speakers: Taylor Swift, Neil Fearn Executive Producers, Davenport Recommendations, David Gann, Oliver Soden Masquerade, Katherine Rundell Impossible Creatures, Richard Osman, Marina Hyde
+- 2023-12-12 — Taylor Swift, your person of the year? — speakers: Neil Fearn Executive Producers, Davenport Recommendations, David Gann, Oliver Soden Masquerade, Katherine Rundell Impossible Creatures, Richard Osman, Marina Hyde
 - 2023-12-05 — Could You Be Suffering From Superhero Fatigue? — speakers: Richard Osman, Robbie Williams, David Beckham, Ronnie O'Sullivan, Henry Kissinger, Davenport Recommendations, Richard Bobby Fingers, Marina Hyde
-- 2023-11-28 — Would you give Nigel Farage £1.5m? — speakers: Nigel Farage, Richard Osman, Jeff Bezos, Lauren Sánchez, Squid Game, Davenport Recommendations, Roger Lewis Erotic Vagrancy, Marina Hyde
+- 2023-11-28 — Would you give Nigel Farage £1.5m? — speakers: Richard Osman, Jeff Bezos, Lauren Sánchez, Squid Game, Davenport Recommendations, Roger Lewis Erotic Vagrancy, Marina Hyde
 - 2023-11-24 — The Rest Is Entertainment - Coming November 28th! — speakers: Richard Osman, Marina Hyde

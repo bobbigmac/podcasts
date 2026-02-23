@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-02-23T07:21:01+00:00`
-- checked_at: `2026-02-23T07:21:01+00:00`
-- etag: `"70ab85960b3d3e7e294912b49180739b"`
-- last_modified: `Mon, 23 Feb 2026 05:00:03 GMT`
+- fetched_at: `2026-02-23T18:40:11+00:00`
+- checked_at: `2026-02-23T18:40:11+00:00`
+- etag: `"8543b702b9d59be5744e4b0c8f4da586"`
+- last_modified: `Mon, 23 Feb 2026 17:42:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-02-23T07:21:01+00:00",
+  "fetched_at": "2026-02-23T18:40:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -28,7 +28,7 @@
   "episodes": [
     {
       "key": "aa5baa23c45b29f0ec8cc8654235d1877af44964",
-      "title": "Evil Animals - Spiderse",
+      "title": "Evil Animals - Spiders",
       "published_at": "2026-02-23T05:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n2c38x",
       "description": "Join comedian Russell Kane as he and his guests spill the beans on spiders. Consistently ranked amongst the most creepy and crawly, we ask are spiders abusive arachnids or kooky cuties? Helping Russell decide whether spiders are evil or genius are top comedian Josh Jones and leading entomologist & England Manager for Buglife, Dr. Karim Vahed. To hear more from this series, search \"Evil Genius\" on BBC Sounds. Additional material by: Eve Delaney, Ruth Huskisson & Christina Riggs Researcher: Catherine Beazley Sound Recordist: Gareth Wood Digital Editor: Jerry Peal Production Coordinator: Liz Tuohy Executive Producer: Paul Smith Producer: Simon Nicholls Evil Animals with Russell Kane is a BBC Studios production for BBC Sounds.",
@@ -49,7 +49,7 @@
       ],
       "topics": [
         "animals",
-        "spiderse"
+        "spider"
       ]
     },
     {
@@ -1239,7 +1239,7 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — Evil Animals - Spiderse — speakers: Russell Kane, kooky cuties, Helping Russell, Josh Jones, Evil Genius, Eve Delaney, Ruth Huskisson Christina, Catherine Beazley Sound Recordist
+- 2026-02-23 — Evil Animals - Spiders — speakers: Russell Kane, kooky cuties, Helping Russell, Josh Jones, Evil Genius, Eve Delaney, Ruth Huskisson Christina, Catherine Beazley Sound Recordist
 - 2026-02-16 — Fatiha El-Ghorri: A Match Made Inshallah — speakers: Fatiha El-Ghorri, Fatiha El-Ghorri Producer, Jon Holmes, Carrie Rose
 - 2026-02-09 — Finlay Christie Is Younger Than You — speakers: Finlay Christie, Peter Kay, Lee Mack, Sarah Millican
 - 2026-02-02 — What's the Story, Ashley Storrie? — speakers: Ashley Storrie, Janey Godley, Sean Kerwin
