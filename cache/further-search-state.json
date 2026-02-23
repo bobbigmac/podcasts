@@ -1,12 +1,18 @@
 {
-  "next_index": 0,
+  "next_index": 10,
   "batch_size": 10,
   "last_batch": [
-    "Richard Osman",
     "Bob Mortimer",
+    "Harriet Kemsley",
     "James Acaster",
-    "Ed Gamble"
+    "Ed Gamble",
+    "Lou Sanders",
+    "Richard Herring",
+    "Tim Key",
+    "Sally Phillips",
+    "Harry Hill",
+    "Alex Horne"
   ],
-  "last_run_at": "2026-02-23T19:15:42+00:00",
+  "last_run_at": "2026-02-23T19:27:50+00:00",
   "last_status": "ok"
 }
