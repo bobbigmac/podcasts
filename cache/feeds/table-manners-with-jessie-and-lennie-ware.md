@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-02-20T00:38:53+00:00`
-- checked_at: `2026-02-20T00:38:53+00:00`
-- etag: `"djEuMi4wOjE3NzEzODEyMTIwNzk="`
+- fetched_at: `2026-02-24T16:14:08+00:00`
+- checked_at: `2026-02-24T16:14:08+00:00`
+- etag: `"djEuMi4wOjE3NzE5NDQ0NDQ4MjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-02-20T00:38:53+00:00",
+  "fetched_at": "2026-02-24T16:14:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,12 +37,7 @@
       "enclosure_length": "42926914",
       "itunes_duration": "44:42",
       "speakers": [
-        "Emma Corrin",
-        "Kitty Coles",
-        "Princess Diana",
-        "Elizabeth Bennet",
-        "Josh O’Connor",
-        "Bake Off"
+        "Emma Corrin"
       ],
       "topics": [
         "emma",
@@ -61,11 +56,7 @@
       "enclosure_length": "62830967",
       "itunes_duration": "1:05:26",
       "speakers": [
-        "Margot Robbie",
-        "Jacob Elordi",
-        "Emerald Fennell",
-        "Bogan Narrrrchos",
-        "Bette Midler"
+        "Margot Robbie"
       ],
       "topics": [
         "margot",
@@ -84,9 +75,7 @@
       "enclosure_length": "49418657",
       "itunes_duration": "51:28",
       "speakers": [
-        "Claire Foy",
-        "Elizabeth II",
-        "Brendan Gleeson"
+        "Claire Foy"
       ],
       "topics": [
         "claire"
@@ -105,9 +94,7 @@
       "itunes_duration": "49:41",
       "speakers": [
         "Bryan Cranston",
-        "Breaking Bad",
-        "Tom Hanks",
-        "Aaron Paul"
+        "Breaking Bad"
       ],
       "topics": [
         "bryan",
@@ -127,9 +114,7 @@
       "itunes_duration": "59:59",
       "speakers": [
         "Alan Carr",
-        "Amanda Holden",
-        "Ixta Belfrage",
-        "Celebration Salmon"
+        "Amanda Holden"
       ],
       "topics": [
         "alan",
@@ -169,7 +154,8 @@
       "enclosure_length": "52032155",
       "itunes_duration": "54:11",
       "speakers": [
-        "Emma Barnett"
+        "Emma Barnett",
+        "Emma Barnet"
       ],
       "topics": [
         "emma",
@@ -188,10 +174,7 @@
       "enclosure_length": "43264626",
       "itunes_duration": "45:03",
       "speakers": [
-        "Kate Hudson",
-        "Song Sung Blue",
-        "Hugh Jackman",
-        "Neil Diamond"
+        "Kate Hudson"
       ],
       "topics": [
         "kate",
@@ -210,7 +193,8 @@
       "enclosure_length": "39474154",
       "itunes_duration": "41:07",
       "speakers": [
-        "Kadiff Kirwan"
+        "Lennie It’s Christmas Eve",
+        "sitting down"
       ],
       "topics": [
         "christmas",
@@ -230,11 +214,7 @@
       "enclosure_length": "53740772",
       "itunes_duration": "55:58",
       "speakers": [
-        "Harlan Coben",
-        "Run Away",
-        "James Nesbitt",
-        "Bruce Springsteen",
-        "Myron Bolitar"
+        "Harlan Coben"
       ],
       "topics": [
         "harlan",
@@ -254,9 +234,7 @@
       "itunes_duration": "50:54",
       "speakers": [
         "John Gregory Smith",
-        "John Gregory-Smith",
-        "Gordon Ramsey",
-        "Delia Smith"
+        "John Gregory-Smith"
       ],
       "topics": [
         "john",
@@ -277,8 +255,7 @@
       "itunes_duration": "51:37",
       "speakers": [
         "Da'vine Joy Randolph",
-        "Joy Randolph",
-        "Elisabeth Olsen"
+        "Joy Randolph"
       ],
       "topics": [
         "randolph"
@@ -334,8 +311,7 @@
       "enclosure_length": "45788681",
       "itunes_duration": "47:41",
       "speakers": [
-        "Taylor Swift",
-        "Gracie Abrams"
+        "Marcus Mumford"
       ],
       "topics": [
         "marcus",
@@ -354,8 +330,7 @@
       "enclosure_length": "56111437",
       "itunes_duration": "58:26",
       "speakers": [
-        "Malala Yousafzai",
-        "Taylor Swift"
+        "Malala Yousafzai"
       ],
       "topics": [
         "malala",
@@ -374,9 +349,7 @@
       "enclosure_length": "41660498",
       "itunes_duration": "43:23",
       "speakers": [
-        "Jeremy Allen White",
-        "Bruce Springsteen",
-        "Iron Claw"
+        "Jeremy Allen White"
       ],
       "topics": [
         "jeremy",
@@ -415,8 +388,7 @@
       "enclosure_length": "56970343",
       "itunes_duration": "59:20",
       "speakers": [
-        "Maya Rudolph",
-        "Kate Moss"
+        "Maya Rudolph"
       ],
       "topics": [
         "maya",
@@ -435,7 +407,8 @@
       "enclosure_length": "13313670",
       "itunes_duration": "13:52",
       "speakers": [
-        "Jackson Boxer"
+        "Table Manners",
+        "Brunswick Hou"
       ],
       "topics": [
         "series",
@@ -455,11 +428,7 @@
       "enclosure_length": "47091042",
       "itunes_duration": "49:03",
       "speakers": [
-        "Gary Oldman",
-        "Jackson Lamb",
-        "Lee Harvey Oswald",
-        "John Hurt",
-        "Slow Horses"
+        "Gary Oldman"
       ],
       "topics": [
         "gary",
@@ -494,10 +463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51194565",
       "itunes_duration": "53:19",
-      "speakers": [
-        "Pink Salmon",
-        "Gwen Stefani"
-      ],
+      "speakers": [],
       "topics": [
         "second",
         "helpings"
@@ -515,8 +481,8 @@
       "enclosure_length": "46039874",
       "itunes_duration": "47:57",
       "speakers": [
-        "Jake Shears",
-        "Banana Slugs"
+        "Second Helpings",
+        "Last Man Dancing"
       ],
       "topics": [
         "second",
@@ -558,8 +524,7 @@
       "enclosure_length": "50234513",
       "itunes_duration": "52:19",
       "speakers": [
-        "Tom Jones",
-        "Elvis Presley"
+        "Tom Jones"
       ],
       "topics": [
         "second",
@@ -579,8 +544,7 @@
       "enclosure_length": "45961298",
       "itunes_duration": "47:52",
       "speakers": [
-        "Stanley Tucci",
-        "Meryl Streep"
+        "Second Helpings"
       ],
       "topics": [
         "second",
@@ -601,8 +565,8 @@
       "enclosure_length": "55630366",
       "itunes_duration": "57:56",
       "speakers": [
-        "Jade Thirwall",
-        "Diana Ross"
+        "Second Helpings",
+        "Jade Thirlwall Week"
       ],
       "topics": [
         "second",
@@ -623,7 +587,8 @@
       "enclosure_length": "46079163",
       "itunes_duration": "47:59",
       "speakers": [
-        "Aisling Bea"
+        "Second Helpings",
+        "Table Manners"
       ],
       "topics": [
         "second",
@@ -661,8 +626,7 @@
       "enclosure_length": "46229628",
       "itunes_duration": "48:09",
       "speakers": [
-        "Suranne Jones",
-        "Gentleman Jack"
+        "Suranne Jones"
       ],
       "topics": [
         "suranne",
@@ -680,7 +644,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45893171",
       "itunes_duration": "47:48",
-      "speakers": [],
+      "speakers": [
+        "Will jo"
+      ],
       "topics": [
         "poulter"
       ]
@@ -715,8 +681,7 @@
       "enclosure_length": "34905860",
       "itunes_duration": "36:21",
       "speakers": [
-        "Charley Marlowe",
-        "Jane McDonald"
+        "Charley Marlowe"
       ],
       "topics": [
         "charley",
@@ -736,11 +701,7 @@
       "itunes_duration": "42:58",
       "speakers": [
         "Fiona Shaw",
-        "Killing Eve",
-        "Harry Potter",
-        "Sri Lanka",
-        "Julianne Moore",
-        "Sri Lankan"
+        "Killing Eve"
       ],
       "topics": [
         "fiona",
@@ -797,9 +758,7 @@
       "enclosure_length": "56058774",
       "itunes_duration": "58:23",
       "speakers": [
-        "Jason Isaacs",
-        "Gillian Anderson",
-        "Plus Jason"
+        "Jason Isaacs"
       ],
       "topics": [
         "jason",
@@ -818,8 +777,7 @@
       "enclosure_length": "50201912",
       "itunes_duration": "52:17",
       "speakers": [
-        "Seth Meyers",
-        "matzo ball"
+        "Seth Meyers"
       ],
       "topics": [
         "seth",
@@ -838,9 +796,7 @@
       "enclosure_length": "53265135",
       "itunes_duration": "55:29",
       "speakers": [
-        "Matthew Broderick",
-        "Ferris Bueller’s Day Off",
-        "Marlon Brando"
+        "Matthew Broderick"
       ],
       "topics": [
         "matthew",
@@ -859,8 +815,7 @@
       "enclosure_length": "55382934",
       "itunes_duration": "57:41",
       "speakers": [
-        "Jonathan Groff",
-        "Bobby Darin"
+        "Jonathan Groff"
       ],
       "topics": [
         "jonathan",
@@ -901,8 +856,7 @@
       "enclosure_length": "46674754",
       "itunes_duration": "48:37",
       "speakers": [
-        "Emma Grede",
-        "Mrs Nancy"
+        "Emma Grede"
       ],
       "topics": [
         "emma",
@@ -921,8 +875,7 @@
       "enclosure_length": "55441030",
       "itunes_duration": "57:45",
       "speakers": [
-        "Martin Freeman",
-        "Jack Lowden"
+        "Martin Freeman"
       ],
       "topics": [
         "martin",
@@ -962,11 +915,7 @@
       "enclosure_length": "46301099",
       "itunes_duration": "48:13",
       "speakers": [
-        "Geri Halliwell-Horner",
-        "Nelson Mandela",
-        "Bake Off",
-        "George Michael",
-        "Rosie Frost"
+        "Geri Halliwell-Horner"
       ],
       "topics": [
         "geri",
@@ -986,8 +935,7 @@
       "enclosure_length": "50935430",
       "itunes_duration": "53:03",
       "speakers": [
-        "Tom Parker-Bowles",
-        "Henry Jeffreys"
+        "Tom Parker-Bowles"
       ],
       "topics": [
         "parker",
@@ -1008,9 +956,7 @@
       "enclosure_length": "56025337",
       "itunes_duration": "58:21",
       "speakers": [
-        "Paddy McGuinness",
-        "Chris Hoy",
-        "Peter Kay"
+        "Paddy McGuinness"
       ],
       "topics": [
         "paddy",
@@ -1029,8 +975,7 @@
       "enclosure_length": "55648756",
       "itunes_duration": "57:58",
       "speakers": [
-        "Danny Dyer",
-        "Harold Pinter"
+        "Danny Dyer"
       ],
       "topics": [
         "danny",
@@ -1049,10 +994,7 @@
       "enclosure_length": "50772844",
       "itunes_duration": "52:53",
       "speakers": [
-        "Elton John",
-        "Joni Mitchell",
-        "Paul McCartney",
-        "Candy Bar-lile"
+        "Brandi Carl"
       ],
       "topics": [
         "brandi",
@@ -1090,8 +1032,7 @@
       "enclosure_length": "43223666",
       "itunes_duration": "45:01",
       "speakers": [
-        "Ruthie Rogers",
-        "Ruthie Marbella"
+        "Ruthie Rogers"
       ],
       "topics": [
         "ruthie",
@@ -1110,8 +1051,7 @@
       "enclosure_length": "49849572",
       "itunes_duration": "51:55",
       "speakers": [
-        "Zoe Saldaña",
-        "Emilia Pérez"
+        "Zoe Saldaña"
       ],
       "topics": []
     },
@@ -1145,7 +1085,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38587662",
       "itunes_duration": "40:11",
-      "speakers": [],
+      "speakers": [
+        "Felicity Jones",
+        "Best Supporting Ac"
+      ],
       "topics": [
         "felicity",
         "jones"
@@ -1183,8 +1126,7 @@
       "itunes_duration": "47:23",
       "speakers": [
         "Tim Cook",
-        "Tim Cook Ceo",
-        "Cafe Macs"
+        "Tim Cook Ceo"
       ],
       "topics": [
         "cook"
@@ -1201,10 +1143,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53323231",
       "itunes_duration": "55:32",
-      "speakers": [
-        "Sing Sing",
-        "Steven Spielberg"
-      ],
+      "speakers": [],
       "topics": [
         "colman",
         "domingo"
@@ -1222,8 +1161,7 @@
       "enclosure_length": "111974399",
       "itunes_duration": "46:39",
       "speakers": [
-        "Jesse Eisenberg",
-        "Emma Stone"
+        "Jesse Eisenberg"
       ],
       "topics": [
         "jesse",
@@ -1242,8 +1180,8 @@
       "enclosure_length": "44405654",
       "itunes_duration": "46:15",
       "speakers": [
-        "Vanessa Williams",
-        "Tom Odell"
+        "Christmas Bites So",
+        "Merry Christmas"
       ],
       "topics": [
         "christmas",
@@ -1284,10 +1222,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49694928",
       "itunes_duration": "51:45",
-      "speakers": [
-        "Mary Berry",
-        "Jessica Ennis"
-      ],
+      "speakers": [],
       "topics": [
         "gabby",
         "logan"
@@ -1306,8 +1241,7 @@
       "itunes_duration": "1:02:52",
       "speakers": [
         "Chris O'Dowd",
-        "Dawn O'Porter",
-        "garlic holds"
+        "Dawn O'Porter"
       ],
       "topics": [
         "chris",
@@ -1326,9 +1260,7 @@
       "enclosure_length": "44814836",
       "itunes_duration": "46:40",
       "speakers": [
-        "Sharon Horgan",
-        "Hare Krishna",
-        "Bad Sisters"
+        "Sharon Horgan"
       ],
       "topics": [
         "sharon",
@@ -1347,8 +1279,7 @@
       "enclosure_length": "51978239",
       "itunes_duration": "54:08",
       "speakers": [
-        "Meera Sodha",
-        "Nigel Slater"
+        "Meera Sodha"
       ],
       "topics": [
         "meera",
@@ -1367,10 +1298,7 @@
       "enclosure_length": "51618376",
       "itunes_duration": "53:46",
       "speakers": [
-        "Saoirse Ronan",
-        "Steve McQueen",
-        "Graham Norton",
-        "John Travolta"
+        "Saoirse Ronan"
       ],
       "topics": [
         "saoirse",
@@ -1389,9 +1317,7 @@
       "enclosure_length": "48100413",
       "itunes_duration": "50:06",
       "speakers": [
-        "Rob Delaney",
-        "Nigel Slater",
-        "Ryan Reynolds"
+        "Rob Delaney"
       ],
       "topics": [
         "delaney"
@@ -1409,8 +1335,7 @@
       "enclosure_length": "50032221",
       "itunes_duration": "52:06",
       "speakers": [
-        "Gary Barlow",
-        "King Charles"
+        "Gary Barlow"
       ],
       "topics": [
         "gary",
@@ -1429,10 +1354,7 @@
       "enclosure_length": "59096919",
       "itunes_duration": "1:01:33",
       "speakers": [
-        "Countess Luann",
-        "Tilda Swindon",
-        "Countess Cabaret",
-        "C’est Bon"
+        "Countess Luann"
       ],
       "topics": [
         "countess",
@@ -1451,8 +1373,7 @@
       "enclosure_length": "50424266",
       "itunes_duration": "52:31",
       "speakers": [
-        "Jason Manford",
-        "Nigel Slater"
+        "Jason Manford"
       ],
       "topics": [
         "jason",
@@ -1489,8 +1410,7 @@
       "enclosure_length": "50397935",
       "itunes_duration": "52:29",
       "speakers": [
-        "Billie Eilish",
-        "Benny Blanco"
+        "Finneas Season"
       ],
       "topics": [
         "finnea"
@@ -1508,8 +1428,7 @@
       "enclosure_length": "40823744",
       "itunes_duration": "42:31",
       "speakers": [
-        "Gillian Anderson Season",
-        "Gillian Anderson"
+        "Gillian Anderson Season"
       ],
       "topics": [
         "gillian",
@@ -1546,9 +1465,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54622666",
       "itunes_duration": "56:53",
-      "speakers": [
-        "Noel Gallagher"
-      ],
+      "speakers": [],
       "topics": [
         "second",
         "helpings",
@@ -1568,8 +1485,7 @@
       "enclosure_length": "43888221",
       "itunes_duration": "45:42",
       "speakers": [
-        "Jamie Oliver",
-        "Jamie Oliver HQ"
+        "Jamie Oliver"
       ],
       "topics": [
         "second",
@@ -1590,8 +1506,7 @@
       "enclosure_length": "59009148",
       "itunes_duration": "1:01:28",
       "speakers": [
-        "Mary McCartney",
-        "Linda McCartney"
+        "Mary McCartney"
       ],
       "topics": [
         "second",
@@ -1612,9 +1527,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53899597",
       "itunes_duration": "56:08",
-      "speakers": [
-        "Dawn French"
-      ],
+      "speakers": [],
       "topics": [
         "second",
         "helpings",
@@ -1634,7 +1547,7 @@
       "enclosure_length": "33058898",
       "itunes_duration": "34:26",
       "speakers": [
-        "Dua Lipa"
+        "Second Helpings"
       ],
       "topics": [
         "second",
@@ -1653,9 +1566,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56572446",
       "itunes_duration": "58:55",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "second",
         "helpings",
@@ -1675,10 +1586,7 @@
       "enclosure_length": "45669563",
       "itunes_duration": "47:34",
       "speakers": [
-        "Jonathan Van Ness",
-        "Jvn Hair",
-        "Whitney Houston",
-        "Taylor Swift"
+        "Jonathan Van Ness"
       ],
       "topics": [
         "jonathan",
@@ -1697,8 +1605,7 @@
       "enclosure_length": "51627153",
       "itunes_duration": "53:46",
       "speakers": [
-        "Claire Richards",
-        "Peter Andre"
+        "Claire Richards"
       ],
       "topics": [
         "claire",
@@ -1717,8 +1624,7 @@
       "enclosure_length": "52780302",
       "itunes_duration": "54:58",
       "speakers": [
-        "Nisha Katona",
-        "Nisha’s Mowgli"
+        "Nisha Katona"
       ],
       "topics": [
         "nisha",
@@ -1737,8 +1643,7 @@
       "enclosure_length": "45583463",
       "itunes_duration": "47:28",
       "speakers": [
-        "Rita Ora Ask",
-        "Taika Waititi"
+        "Rita Ora Ask"
       ],
       "topics": [
         "rita"
@@ -1756,8 +1661,7 @@
       "enclosure_length": "45435923",
       "itunes_duration": "47:19",
       "speakers": [
-        "Leigh-Anne Pinnock",
-        "Little Mix"
+        "Leigh-Anne Pinnock"
       ],
       "topics": [
         "leigh",
@@ -1777,9 +1681,7 @@
       "enclosure_length": "64993906",
       "itunes_duration": "1:07:42",
       "speakers": [
-        "Jordan Stephens",
-        "David Attenborough",
-        "Rizzle Kicks"
+        "Jordan Stephens"
       ],
       "topics": [
         "jordan",
@@ -1817,8 +1719,7 @@
       "enclosure_length": "42694111",
       "itunes_duration": "44:28",
       "speakers": [
-        "Ben Platt",
-        "Noah Galvin"
+        "Ben Platt"
       ],
       "topics": [
         "platt"
@@ -1854,10 +1755,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32920554",
       "itunes_duration": "34:17",
-      "speakers": [
-        "Diane Kron’s Chocolate",
-        "Jackie Kennedy"
-      ],
+      "speakers": [],
       "topics": [
         "jessie",
         "lennie",
@@ -1913,8 +1811,7 @@
       "enclosure_length": "38456841",
       "itunes_duration": "40:03",
       "speakers": [
-        "Billie Piper",
-        "Amy Winehouse"
+        "Billie Piper"
       ],
       "topics": [
         "billie",
@@ -1933,8 +1830,7 @@
       "enclosure_length": "47674095",
       "itunes_duration": "49:39",
       "speakers": [
-        "Johnny Marr",
-        "Hans Zimmer"
+        "Johnny Marr"
       ],
       "topics": [
         "johnny",
@@ -1953,8 +1849,7 @@
       "enclosure_length": "48460276",
       "itunes_duration": "50:28",
       "speakers": [
-        "Beth Ditto",
-        "Rick Rubin"
+        "Beth Ditto"
       ],
       "topics": [
         "beth",
@@ -1974,8 +1869,7 @@
       "itunes_duration": "55:56",
       "speakers": [
         "Millie Bobby Brown Star",
-        "Millie Bobby Brown",
-        "Tom Kerridge"
+        "Millie Bobby Brown"
       ],
       "topics": [
         "millie",
@@ -1994,10 +1888,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37535241",
       "itunes_duration": "39:05",
-      "speakers": [
-        "Miss Me",
-        "Vertigo Vol"
-      ],
+      "speakers": [],
       "topics": [
         "griff"
       ]
@@ -2065,9 +1956,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51082134",
       "itunes_duration": "53:12",
-      "speakers": [
-        "Jamie’s Oliver"
-      ],
+      "speakers": [],
       "topics": [
         "johanne"
       ]
@@ -2084,10 +1973,7 @@
       "enclosure_length": "49343842",
       "itunes_duration": "51:23",
       "speakers": [
-        "Jacob Collier Brightening",
-        "Jacob Collier",
-        "Quincy Jones",
-        "Djesse Vol"
+        "Jacob Collier Brightening"
       ],
       "topics": [
         "jacob",
@@ -2107,9 +1993,7 @@
       "itunes_duration": "1:01:36",
       "speakers": [
         "James O'Brien",
-        "James O’Brien",
-        "Marcus Rashford",
-        "Ian Brown"
+        "James O’Brien"
       ],
       "topics": [
         "james"
@@ -2184,7 +2068,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "743759848",
       "itunes_duration": "46:50",
-      "speakers": [],
+      "speakers": [
+        "New Year"
+      ],
       "topics": []
     },
     {
@@ -2199,10 +2085,7 @@
       "enclosure_length": "150086007",
       "itunes_duration": "1:02:32",
       "speakers": [
-        "Jamie Oliver",
-        "Nigella Lawson",
-        "Paul Hollywood",
-        "John Torode"
+        "Table Manners Christmas Special"
       ],
       "topics": [
         "festive",
@@ -2221,7 +2104,7 @@
       "enclosure_length": "119125680",
       "itunes_duration": "49:38",
       "speakers": [
-        "Gary Oldman"
+        "Dame Lennie"
       ],
       "topics": [
         "kadiff",
@@ -2239,10 +2122,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122387852",
       "itunes_duration": "50:59",
-      "speakers": [
-        "Chicken Soup",
-        "Donna Summer"
-      ],
+      "speakers": [],
       "topics": [
         "cher"
       ]
@@ -2258,10 +2138,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148487313",
       "itunes_duration": "1:01:52",
-      "speakers": [
-        "Sarah Harding",
-        "Girls Aloud"
-      ],
+      "speakers": [],
       "topics": [
         "girls",
         "aloud"
@@ -2280,7 +2157,7 @@
       "itunes_duration": "58:25",
       "speakers": [
         "Table Manners",
-        "Princess Eugenie"
+        "Princess Eug"
       ],
       "topics": [
         "princess",
@@ -2299,9 +2176,7 @@
       "enclosure_length": "137194056",
       "itunes_duration": "57:09",
       "speakers": [
-        "Gordon Ramsey",
-        "Paul McCartney",
-        "Ravinder’s Falooda"
+        "Ravinder Bhogal"
       ],
       "topics": [
         "ravinder",
@@ -2320,9 +2195,7 @@
       "enclosure_length": "136140799",
       "itunes_duration": "56:43",
       "speakers": [
-        "Matt Lucas",
-        "Bob Mortimer",
-        "Chicken Soup"
+        "Matt Lucas"
       ],
       "topics": [
         "matt",
@@ -2340,7 +2213,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116207280",
       "itunes_duration": "48:25",
-      "speakers": [],
+      "speakers": [
+        "Ed Gamble Usually"
+      ],
       "topics": [
         "gamble"
       ]
@@ -2358,8 +2233,7 @@
       "itunes_duration": "56:29",
       "speakers": [
         "Zoe Ball Mamma Mia",
-        "Mamma Mia",
-        "Zoe Ball"
+        "Mamma Mia"
       ],
       "topics": [
         "ball"
@@ -2396,7 +2270,8 @@
       "enclosure_length": "125352227",
       "itunes_duration": "52:13",
       "speakers": [
-        "Kylie Minogue"
+        "Second Helpings",
+        "Kylie Minogue Padam"
       ],
       "topics": [
         "second",
@@ -2459,8 +2334,7 @@
       "enclosure_length": "114024488",
       "itunes_duration": "47:30",
       "speakers": [
-        "Nigella Lawson",
-        "Second Helpings"
+        "Nigella Lawson"
       ],
       "topics": [
         "second",
@@ -2501,8 +2375,8 @@
       "enclosure_length": "95508897",
       "itunes_duration": "39:47",
       "speakers": [
-        "Good Causes",
-        "Ellen White Mbe"
+        "Ellen White",
+        "Lyn Hale Surprise"
       ],
       "topics": [
         "lionesses",
@@ -2522,9 +2396,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60153102",
       "itunes_duration": "1:02:39",
-      "speakers": [
-        "Keir Starmer"
-      ],
+      "speakers": [],
       "topics": [
         "keir",
         "starmer"
@@ -2561,9 +2433,7 @@
       "enclosure_length": "51250990",
       "itunes_duration": "53:23",
       "speakers": [
-        "Raven Smith",
-        "Top Cuvee",
-        "Raven Smith’s Men"
+        "Raven Smith"
       ],
       "topics": [
         "raven",
@@ -2598,8 +2468,7 @@
       "enclosure_length": "49806941",
       "itunes_duration": "51:52",
       "speakers": [
-        "Jon Batiste",
-        "Po Boy Sandwiches"
+        "Jon Batiste"
       ],
       "topics": [
         "batiste"
@@ -2635,7 +2504,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "132252733",
       "itunes_duration": "55:06",
-      "speakers": [],
+      "speakers": [
+        "Table Mann"
+      ],
       "topics": [
         "anne",
         "marie"
@@ -2673,9 +2544,7 @@
       "enclosure_length": "124678268",
       "itunes_duration": "51:56",
       "speakers": [
-        "Jake Shears Ahead",
-        "Jake Shears",
-        "Banana Slugs"
+        "Jake Shears Ahead"
       ],
       "topics": [
         "jake",
@@ -2711,8 +2580,7 @@
       "enclosure_length": "124518399",
       "itunes_duration": "51:52",
       "speakers": [
-        "Alison Roman",
-        "Garlic Butter"
+        "Alison Roman"
       ],
       "topics": [
         "alison",
@@ -2731,8 +2599,7 @@
       "enclosure_length": "113193795",
       "itunes_duration": "47:09",
       "speakers": [
-        "Alison Goldfrapp Ahead",
-        "Alison Goldfrapp"
+        "Alison Goldfrapp Ahead"
       ],
       "topics": [
         "alison",
@@ -2751,8 +2618,7 @@
       "enclosure_length": "136998660",
       "itunes_duration": "57:04",
       "speakers": [
-        "Dannii Minogue",
-        "panna cotta"
+        "Dannii Minogue"
       ],
       "topics": [
         "dannii",
@@ -2771,8 +2637,7 @@
       "enclosure_length": "146049566",
       "itunes_duration": "1:00:51",
       "speakers": [
-        "Ramy Youssef",
-        "Helen Russell-Clarke"
+        "Ramy Youssef"
       ],
       "topics": [
         "ramy",
@@ -2830,7 +2695,8 @@
       "enclosure_length": "161154611",
       "itunes_duration": "1:07:08",
       "speakers": [
-        "Cote Brasserie"
+        "Table Manners",
+        "Hannah Cooper Dommett"
       ],
       "topics": [
         "joel",
@@ -2890,10 +2756,7 @@
       "itunes_duration": "1:03:51",
       "speakers": [
         "Alastair Campbell Mum",
-        "Ed Miliband",
-        "Alastair Campbell",
-        "Gary Lineker",
-        "Chocolate Mousse"
+        "Ed Miliband"
       ],
       "topics": [
         "alastair",
@@ -2912,8 +2775,7 @@
       "enclosure_length": "112727770",
       "itunes_duration": "46:58",
       "speakers": [
-        "Kim Petras",
-        "Sam Smith Kim"
+        "Kim Petras"
       ],
       "topics": [
         "petras"
@@ -2930,9 +2792,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107602546",
       "itunes_duration": "44:50",
-      "speakers": [
-        "Helena Bonham Carter"
-      ],
+      "speakers": [],
       "topics": [
         "russell",
         "davy"
@@ -2949,10 +2809,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138183574",
       "itunes_duration": "57:34",
-      "speakers": [
-        "Pink Salmon",
-        "Gwen Stefani"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -2967,9 +2824,7 @@
       "enclosure_length": "131311280",
       "itunes_duration": "54:42",
       "speakers": [
-        "Katherine Ryan",
-        "Louis Theroux",
-        "Pete Davidson"
+        "Katherine Ryan"
       ],
       "topics": [
         "katherine",
@@ -2988,10 +2843,7 @@
       "enclosure_length": "138651688",
       "itunes_duration": "57:46",
       "speakers": [
-        "Rita Wilson",
-        "Mamma Mia",
-        "Lime Jello",
-        "Nora Ephron"
+        "Rita Wilson"
       ],
       "topics": [
         "rita",
@@ -3010,10 +2862,8 @@
       "enclosure_length": "112410121",
       "itunes_duration": "46:50",
       "speakers": [
-        "Tom Daley",
-        "David Schwimmer",
-        "Paul Hollywood",
-        "Michael Buble"
+        "Table Manners",
+        "Christmas Extravaganz"
       ],
       "topics": [
         "christmas",
@@ -3032,8 +2882,7 @@
       "enclosure_length": "137703360",
       "itunes_duration": "57:22",
       "speakers": [
-        "Courgette Frittata",
-        "Lewis Capaldi"
+        "Olly Murs"
       ],
       "topics": [
         "olly",
@@ -3071,8 +2920,7 @@
       "enclosure_length": "119924160",
       "itunes_duration": "49:58",
       "speakers": [
-        "Paul Hollywood",
-        "Tart Nomande"
+        "Paul Hollywood"
       ],
       "topics": [
         "paul",
@@ -3129,9 +2977,7 @@
       "enclosure_length": "121052160",
       "itunes_duration": "50:26",
       "speakers": [
-        "Rose Matafeo",
-        "Alison Roman",
-        "Rom Coms"
+        "Rose Matafeo"
       ],
       "topics": [
         "rose",
@@ -3151,9 +2997,7 @@
       "itunes_duration": "43:50",
       "speakers": [
         "Nikesh Patel",
-        "Tom Kapoor",
-        "Peter Capaldi",
-        "Kensal Green"
+        "Tom Kapoor"
       ],
       "topics": [
         "nikesh",
@@ -3191,8 +3035,9 @@
       "enclosure_length": "132607680",
       "itunes_duration": "55:15",
       "speakers": [
-        "Big Zuu",
-        "George Ezra"
+        "Big Zuu Big Zuu",
+        "Big Len",
+        "Big Zu"
       ],
       "topics": []
     },
@@ -3210,8 +3055,7 @@
       "speakers": [
         "Robert De Niro",
         "Nobu Matsuhisa",
-        "Meir Teper",
-        "De Niros"
+        "Meir Teper"
       ],
       "topics": [
         "robert",
@@ -3233,10 +3077,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122309760",
       "itunes_duration": "50:57",
-      "speakers": [
-        "Baz Luhrmann",
-        "Moulin Rouge"
-      ],
+      "speakers": [],
       "topics": [
         "luhrmann"
       ]
@@ -3272,9 +3113,7 @@
       "enclosure_length": "130516800",
       "itunes_duration": "54:22",
       "speakers": [
-        "Rina Sawayama Rina Sawayama",
-        "Lady Gaga",
-        "Harry Styles"
+        "Rina Sawayama Rina Sawayama"
       ],
       "topics": [
         "rina",
@@ -3293,7 +3132,7 @@
       "enclosure_length": "123397440",
       "itunes_duration": "51:24",
       "speakers": [
-        "Harry Styles"
+        "Shania Twain Summer"
       ],
       "topics": [
         "shania",
@@ -3373,7 +3212,7 @@
       "itunes_duration": "51:27",
       "speakers": [
         "Vanessa Feltz",
-        "Ms Feltz"
+        "Vanessa Felt"
       ],
       "topics": [
         "vanessa",
@@ -3392,7 +3231,7 @@
       "enclosure_length": "83408978",
       "itunes_duration": "34:45",
       "speakers": [
-        "Spaghetti Bolognaise"
+        "Blossoms Serving"
       ],
       "topics": [
         "blossom"
@@ -3410,8 +3249,7 @@
       "enclosure_length": "123668160",
       "itunes_duration": "51:31",
       "speakers": [
-        "Julian Clary",
-        "Joan Collins"
+        "Julian Clary"
       ],
       "topics": [
         "clary"
@@ -3429,8 +3267,7 @@
       "enclosure_length": "103769280",
       "itunes_duration": "43:14",
       "speakers": [
-        "Self Esteem",
-        "Joe Lycett"
+        "Self Esteem"
       ],
       "topics": [
         "self",
@@ -3467,7 +3304,7 @@
       "enclosure_length": "127302720",
       "itunes_duration": "53:02",
       "speakers": [
-        "Nanny Claire"
+        "Table Manners"
       ],
       "topics": [
         "sophie",
@@ -3488,9 +3325,7 @@
       "itunes_duration": "50:43",
       "speakers": [
         "Nigel Ng",
-        "Comedian Nigel NG",
-        "Uncle Roger",
-        "Jamie Oliver"
+        "Comedian Nigel NG"
       ],
       "topics": [
         "nigel"
@@ -3528,8 +3363,7 @@
       "itunes_duration": "44:20",
       "speakers": [
         "Jack Monroe",
-        "Nureen Glaves",
-        "Big Jubilee Lunch"
+        "Nureen Glaves"
       ],
       "topics": [
         "jack",
@@ -3565,9 +3399,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "123821760",
       "itunes_duration": "51:35",
-      "speakers": [
-        "Christine Quinn"
-      ],
+      "speakers": [],
       "topics": [
         "special",
         "christine",
@@ -3586,8 +3418,7 @@
       "enclosure_length": "111494400",
       "itunes_duration": "46:27",
       "speakers": [
-        "Nancy Silverton",
-        "Pizzeria Mozza"
+        "Nancy Silverton"
       ],
       "topics": [
         "special",
@@ -3646,9 +3477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48033958",
       "itunes_duration": "20:00",
-      "speakers": [
-        "Virgin Atlantic"
-      ],
+      "speakers": [],
       "topics": [
         "flight",
         "land"
@@ -3666,8 +3495,7 @@
       "enclosure_length": "154291200",
       "itunes_duration": "1:04:17",
       "speakers": [
-        "Thomasina Miers",
-        "Wonder Woman"
+        "Thomasina Miers"
       ],
       "topics": [
         "thomasina",
@@ -3721,8 +3549,7 @@
       "enclosure_length": "125715840",
       "itunes_duration": "52:22",
       "speakers": [
-        "Michael Bublé",
-        "Michael Buble"
+        "Michael Bublé"
       ],
       "topics": [
         "michael"
@@ -3740,8 +3567,7 @@
       "enclosure_length": "125536320",
       "itunes_duration": "52:18",
       "speakers": [
-        "Candice Brathwaite AD",
-        "Candice Brathwaite"
+        "Candice Brathwaite AD"
       ],
       "topics": [
         "candice",
@@ -3760,8 +3586,7 @@
       "enclosure_length": "92801280",
       "itunes_duration": "38:40",
       "speakers": [
-        "Olia Hercules",
-        "Alissa Timoshkina"
+        "Olia Hercules"
       ],
       "topics": [
         "olia",
@@ -3802,8 +3627,7 @@
       "itunes_duration": "53:01",
       "speakers": [
         "Martin Compston Bleary",
-        "Steve Arnott",
-        "Martin Compston"
+        "Steve Arnott"
       ],
       "topics": [
         "martin",
@@ -3822,8 +3646,7 @@
       "enclosure_length": "133824960",
       "itunes_duration": "55:45",
       "speakers": [
-        "Elvis Costello",
-        "Diana Krall"
+        "Elvis Costello"
       ],
       "topics": [
         "elvis",
@@ -3880,8 +3703,7 @@
       "itunes_duration": "50:24",
       "speakers": [
         "Joe Lycett",
-        "Nick Grimshaw",
-        "Xx Hosted"
+        "Nick Grimshaw"
       ],
       "topics": [
         "christmas",
@@ -3958,8 +3780,7 @@
       "enclosure_length": "142085760",
       "itunes_duration": "59:12",
       "speakers": [
-        "Billy Porter",
-        "Jade Thirlwall"
+        "Billy Porter"
       ],
       "topics": [
         "billy",
@@ -3994,9 +3815,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103995840",
       "itunes_duration": "43:19",
-      "speakers": [
-        "Laura Jackson"
-      ],
+      "speakers": [],
       "topics": [
         "laura",
         "jackson"
@@ -4033,7 +3852,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148999680",
       "itunes_duration": "1:02:04",
-      "speakers": [],
+      "speakers": [
+        "Jade Thirlwal"
+      ],
       "topics": [
         "jade",
         "thirlwall"
@@ -4051,8 +3872,7 @@
       "enclosure_length": "121925760",
       "itunes_duration": "50:48",
       "speakers": [
-        "Hilary Whitehall",
-        "Food Slut"
+        "Hilary Whitehall"
       ],
       "topics": [
         "jack",
@@ -4073,8 +3893,7 @@
       "enclosure_length": "166815360",
       "itunes_duration": "1:09:30",
       "speakers": [
-        "Tom Daley",
-        "Lennie Ware"
+        "Tom Daley"
       ],
       "topics": [
         "daley"
@@ -4092,8 +3911,7 @@
       "enclosure_length": "127401600",
       "itunes_duration": "53:05",
       "speakers": [
-        "Stanley Tucci",
-        "Meryl Streep"
+        "Stanley Tucci"
       ],
       "topics": [
         "stanley",
@@ -4112,11 +3930,7 @@
       "enclosure_length": "89144640",
       "itunes_duration": "37:08",
       "speakers": [
-        "Dan Levy",
-        "Tom Jones",
-        "Dawn French",
-        "Angela Hartnett",
-        "Mary McCartney"
+        "Extra Helpings"
       ],
       "topics": [
         "extra",
@@ -4135,8 +3949,7 @@
       "enclosure_length": "94160640",
       "itunes_duration": "39:13",
       "speakers": [
-        "Dolly Parton",
-        "Michael McIntyre"
+        "Extra Helpings"
       ],
       "topics": [
         "extra",
@@ -4155,8 +3968,7 @@
       "enclosure_length": "106450560",
       "itunes_duration": "44:21",
       "speakers": [
-        "Munya Chawawa",
-        "Watermelon Daiquiris"
+        "Munya Chawawa"
       ],
       "topics": [
         "munya",
@@ -4175,8 +3987,7 @@
       "enclosure_length": "111931200",
       "itunes_duration": "46:38",
       "speakers": [
-        "Ed Sheeran",
-        "Gorgeous Ed"
+        "Ed Sheeran"
       ],
       "topics": [
         "sheeran"
@@ -4215,8 +4026,7 @@
       "itunes_duration": "46:52",
       "speakers": [
         "Maisie Williams",
-        "Arya Stark",
-        "Danny Boyle"
+        "Arya Stark"
       ],
       "topics": [
         "maisie",
@@ -4235,8 +4045,7 @@
       "enclosure_length": "91548480",
       "itunes_duration": "38:08",
       "speakers": [
-        "Ruby Wax",
-        "Frazzled Cafe"
+        "Ruby Wax"
       ],
       "topics": [
         "ruby"
@@ -4254,9 +4063,7 @@
       "enclosure_length": "74267520",
       "itunes_duration": "30:56",
       "speakers": [
-        "Tom Grennan",
-        "Calvin Harris",
-        "James Bay"
+        "Tom Grennan"
       ],
       "topics": [
         "grennan"
@@ -4274,8 +4081,7 @@
       "enclosure_length": "126679680",
       "itunes_duration": "52:46",
       "speakers": [
-        "Emerald Fennell",
-        "Andrew Lloyd Webber"
+        "Emerald Fennell"
       ],
       "topics": [
         "emerald",
@@ -4313,8 +4119,7 @@
       "enclosure_length": "89909760",
       "itunes_duration": "37:27",
       "speakers": [
-        "Annie Murphy",
-        "Alexis Rose"
+        "Annie Murphy"
       ],
       "topics": [
         "annie",
@@ -4334,9 +4139,7 @@
       "itunes_duration": "46:53",
       "speakers": [
         "Zac Posen Zooming",
-        "Zac Posen",
-        "Naomi Campbell",
-        "Miss Piggy"
+        "Zac Posen"
       ],
       "topics": [
         "posen"
@@ -4372,10 +4175,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109349760",
       "itunes_duration": "45:33",
-      "speakers": [
-        "Jack Peñate",
-        "Fray Bentos"
-      ],
+      "speakers": [],
       "topics": [
         "jack",
         "clare",
@@ -4412,8 +4212,7 @@
       "enclosure_length": "114986880",
       "itunes_duration": "47:54",
       "speakers": [
-        "Michelle Visage",
-        "Ru Paul"
+        "Michelle Visage"
       ],
       "topics": [
         "michelle",
@@ -4432,8 +4231,7 @@
       "enclosure_length": "96106560",
       "itunes_duration": "40:02",
       "speakers": [
-        "St Vincent",
-        "Taylor Swift"
+        "St Vincent"
       ],
       "topics": [
         "vincent"
@@ -4451,8 +4249,7 @@
       "enclosure_length": "158890560",
       "itunes_duration": "1:06:12",
       "speakers": [
-        "Mary McCartney",
-        "Linda McCartney"
+        "Mary McCartney"
       ],
       "topics": [
         "paul",
@@ -4472,10 +4269,7 @@
       "enclosure_length": "135182400",
       "itunes_duration": "56:19",
       "speakers": [
-        "Guy Garvey",
-        "bee tattoo",
-        "Joan Collins",
-        "Cafe de Nata"
+        "Guy Garvey"
       ],
       "topics": [
         "garvey"
@@ -4493,8 +4287,7 @@
       "enclosure_length": "133916160",
       "itunes_duration": "55:47",
       "speakers": [
-        "Tom Jones",
-        "Elvis Presley"
+        "Tom Jones"
       ],
       "topics": [
         "jones"
@@ -4512,8 +4305,7 @@
       "enclosure_length": "124824000",
       "itunes_duration": "52:00",
       "speakers": [
-        "Laura Mvula",
-        "Pink Noise"
+        "Laura Mvula"
       ],
       "topics": [
         "laura",
@@ -4532,8 +4324,7 @@
       "enclosure_length": "86240640",
       "itunes_duration": "35:55",
       "speakers": [
-        "Benny Blanco",
-        "Gracie Abrams"
+        "Benny Blanco"
       ],
       "topics": [
         "benny",
@@ -4552,10 +4343,7 @@
       "enclosure_length": "104948160",
       "itunes_duration": "43:43",
       "speakers": [
-        "Naomi Scott",
-        "Tuna Nicoise",
-        "Bel Powley",
-        "Xx Hosted"
+        "Naomi Scott"
       ],
       "topics": [
         "naomi",
@@ -4573,9 +4361,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118410240",
       "itunes_duration": "49:20",
-      "speakers": [
-        "John Legend"
-      ],
+      "speakers": [],
       "topics": [
         "william"
       ]
@@ -4593,7 +4379,7 @@
       "itunes_duration": "41:29",
       "speakers": [
         "Jon Sopel",
-        "Holly Bush"
+        "Jon Sope"
       ],
       "topics": [
         "sopel"
@@ -4647,9 +4433,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94104000",
       "itunes_duration": "39:12",
-      "speakers": [
-        "Celine Dion"
-      ],
+      "speakers": [],
       "topics": [
         "lydia",
         "west"
@@ -4666,9 +4450,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125823360",
       "itunes_duration": "52:25",
-      "speakers": [
-        "Greg James"
-      ],
+      "speakers": [],
       "topics": [
         "fearne",
         "cotton"
@@ -4687,12 +4469,7 @@
       "itunes_duration": "41:52",
       "speakers": [
         "Andrew Lloyd Webber",
-        "Legend Andrew Lloyd Webber",
-        "Emerald Fennell",
-        "Aunt Viola",
-        "Shirley Bassey",
-        "Joan Collins",
-        "Andrew Lloyd Webber’s Cinderella"
+        "Legend Andrew Lloyd Webber"
       ],
       "topics": [
         "andrew",
@@ -4748,11 +4525,7 @@
       "itunes_duration": "44:07",
       "speakers": [
         "Angela Hartnett Big week",
-        "Joe Biden",
-        "Muff Kitchen",
-        "Martha Delacey",
-        "Angela Hartnett",
-        "Gordon Ramsey"
+        "Muff Kitchen"
       ],
       "topics": [
         "angela",
@@ -4771,9 +4544,7 @@
       "enclosure_length": "83803200",
       "itunes_duration": "34:55",
       "speakers": [
-        "Eva Longoria Back",
-        "Joe Biden",
-        "David Beckham"
+        "Eva Longoria Back"
       ],
       "topics": [
         "longoria"
@@ -4810,7 +4581,7 @@
       "enclosure_length": "192102720",
       "itunes_duration": "1:20:02",
       "speakers": [
-        "Mariah Carey"
+        "Table Manners"
       ],
       "topics": [
         "christmas",
@@ -4828,9 +4599,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72966720",
       "itunes_duration": "30:24",
-      "speakers": [
-        "Sam Fender"
-      ],
+      "speakers": [],
       "topics": [
         "fender"
       ]
@@ -4885,8 +4654,7 @@
       "enclosure_length": "107525760",
       "itunes_duration": "44:48",
       "speakers": [
-        "Michael Buble",
-        "Whitney Houston"
+        "Dolly Parton"
       ],
       "topics": [
         "parton"
@@ -4923,9 +4691,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121361280",
       "itunes_duration": "50:34",
-      "speakers": [
-        "Brooklyn Beckham"
-      ],
+      "speakers": [],
       "topics": [
         "yungblud"
       ]
@@ -4942,8 +4708,7 @@
       "enclosure_length": "119537280",
       "itunes_duration": "49:48",
       "speakers": [
-        "Simon Rogan",
-        "Prawn Saganaki"
+        "Simon Rogan"
       ],
       "topics": [
         "simon",
@@ -4980,8 +4745,7 @@
       "enclosure_length": "113106240",
       "itunes_duration": "47:07",
       "speakers": [
-        "Shea Coulee",
-        "Ms Coulée"
+        "Shea Coulee"
       ],
       "topics": [
         "shea",
@@ -4999,9 +4763,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148545600",
       "itunes_duration": "1:01:53",
-      "speakers": [
-        "Dawn French"
-      ],
+      "speakers": [],
       "topics": [
         "dawn",
         "french"
@@ -5018,11 +4780,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136961280",
       "itunes_duration": "57:04",
-      "speakers": [
-        "Angel Delight",
-        "Sherry vinegar Pepper",
-        "vinegar Crumble"
-      ],
+      "speakers": [],
       "topics": [
         "grace",
         "dent"
@@ -5079,8 +4837,7 @@
       "enclosure_length": "125769600",
       "itunes_duration": "52:24",
       "speakers": [
-        "James Bay",
-        "Rosie Huntingdon Whiteley"
+        "James Bay"
       ],
       "topics": [
         "james"
@@ -5117,12 +4874,7 @@
       "enclosure_length": "69088320",
       "itunes_duration": "28:47",
       "speakers": [
-        "Extra Helpings",
-        "Aisling Bea",
-        "Jo Brand",
-        "Kiefer Sutherland",
-        "Florence Pugh",
-        "John Bishop"
+        "Extra Helpings"
       ],
       "topics": [
         "extra",
@@ -5141,11 +4893,7 @@
       "enclosure_length": "82125120",
       "itunes_duration": "34:13",
       "speakers": [
-        "Extra Helpings",
-        "Hayley Squires",
-        "Antoni Porowski",
-        "David Schwimmer",
-        "Roisin Murphy"
+        "Extra Helpings"
       ],
       "topics": [
         "extra",
@@ -5164,8 +4912,7 @@
       "enclosure_length": "122187840",
       "itunes_duration": "50:54",
       "speakers": [
-        "Sporty Spice",
-        "Tommy’s Margarita"
+        "Sporty Spice"
       ],
       "topics": [
         "melanie"
@@ -5183,8 +4930,7 @@
       "enclosure_length": "100228800",
       "itunes_duration": "41:45",
       "speakers": [
-        "James Blunt",
-        "Arnold Bennett"
+        "James Blunt"
       ],
       "topics": [
         "james",
@@ -5203,8 +4949,7 @@
       "enclosure_length": "99313920",
       "itunes_duration": "41:22",
       "speakers": [
-        "Roman Kemp",
-        "George Michael"
+        "Roman Kemp"
       ],
       "topics": [
         "roman",
@@ -5222,9 +4967,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86080320",
       "itunes_duration": "35:51",
-      "speakers": [
-        "Steve McQueen"
-      ],
+      "speakers": [],
       "topics": [
         "twiggy"
       ]
@@ -5277,8 +5020,7 @@
       "enclosure_length": "80829120",
       "itunes_duration": "33:40",
       "speakers": [
-        "Adam Lambert",
-        "Marc Bolan"
+        "Adam Lambert"
       ],
       "topics": [
         "adam",
@@ -5316,9 +5058,7 @@
       "enclosure_length": "76256640",
       "itunes_duration": "31:46",
       "speakers": [
-        "Jake Bugg",
-        "Noel Gallagher",
-        "Rabbit Hole"
+        "Jake Bugg"
       ],
       "topics": [
         "jake",
@@ -5337,10 +5077,7 @@
       "enclosure_length": "136322880",
       "itunes_duration": "56:48",
       "speakers": [
-        "Michael Sheen Tuning",
-        "theatre don",
-        "Michael Sheen",
-        "David Tennant"
+        "Michael Sheen Tuning"
       ],
       "topics": [
         "michael",
@@ -5398,9 +5135,7 @@
       "enclosure_length": "100860480",
       "itunes_duration": "42:01",
       "speakers": [
-        "Emily Eavis",
-        "Goan Curry",
-        "Chicken Matzoh"
+        "Emily Eavis"
       ],
       "topics": [
         "emily",
@@ -5419,10 +5154,7 @@
       "enclosure_length": "134454720",
       "itunes_duration": "56:01",
       "speakers": [
-        "Munroe Bergdorf",
-        "Kate Moross",
-        "Nicki Minaj",
-        "Alice Williams Hosted"
+        "Munroe Bergdorf"
       ],
       "topics": [
         "munroe",
@@ -5441,8 +5173,7 @@
       "enclosure_length": "95465280",
       "itunes_duration": "39:46",
       "speakers": [
-        "Joe Lycett",
-        "Hugo Boss"
+        "Joe Lycett"
       ],
       "topics": [
         "lycett"
@@ -5459,10 +5190,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102302400",
       "itunes_duration": "42:37",
-      "speakers": [
-        "Homo Sapiens",
-        "Alan Cumming"
-      ],
+      "speakers": [],
       "topics": [
         "homo",
         "sapiens",
@@ -5500,10 +5228,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90426240",
       "itunes_duration": "37:40",
-      "speakers": [
-        "Ellie Goulding",
-        "Alice Williams Hosted"
-      ],
+      "speakers": [],
       "topics": [
         "ellie",
         "goulding"
@@ -5521,8 +5246,7 @@
       "enclosure_length": "100802880",
       "itunes_duration": "42:00",
       "speakers": [
-        "Joe Wicks",
-        "Alice Williams Hosted"
+        "Joe Wicks"
       ],
       "topics": [
         "wicks"
@@ -5540,8 +5264,7 @@
       "enclosure_length": "124029120",
       "itunes_duration": "51:40",
       "speakers": [
-        "Florence Pugh Lockdown",
-        "Drummer Girl"
+        "Florence Pugh Lockdown"
       ],
       "topics": [
         "florence",
@@ -5580,9 +5303,7 @@
       "enclosure_length": "113884800",
       "itunes_duration": "47:27",
       "speakers": [
-        "Josh Groban",
-        "Celine Dion",
-        "Rick Rubin"
+        "Josh Groban"
       ],
       "topics": [
         "josh",
@@ -5615,8 +5336,7 @@
       "enclosure_length": "132766080",
       "itunes_duration": "55:19",
       "speakers": [
-        "Emily Maitlis",
-        "Prince Andrew"
+        "Emily Maitlis"
       ],
       "topics": [
         "emily",
@@ -5635,7 +5355,7 @@
       "enclosure_length": "88444800",
       "itunes_duration": "36:51",
       "speakers": [
-        "Dua Lipa"
+        "Dua Lipa So"
       ],
       "topics": [
         "lipa"
@@ -5673,9 +5393,7 @@
       "enclosure_length": "146346240",
       "itunes_duration": "1:00:58",
       "speakers": [
-        "Riz Ahmed",
-        "Naughty Boy",
-        "Asma Khan"
+        "Riz Ahmed"
       ],
       "topics": [
         "ahmed"
@@ -5692,7 +5410,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119483520",
       "itunes_duration": "49:47",
-      "speakers": [],
+      "speakers": [
+        "Waterstones Piccadilly",
+        "Table Manners"
+      ],
       "topics": [
         "conversation",
         "waterstones",
@@ -5711,10 +5432,7 @@
       "enclosure_length": "161202240",
       "itunes_duration": "1:07:10",
       "speakers": [
-        "Zawe Ashton",
-        "Charlotte Richie",
-        "Character Breakdown",
-        "Margaret Atwood"
+        "Zawe Ashton"
       ],
       "topics": [
         "zawe",
@@ -5733,8 +5451,7 @@
       "enclosure_length": "101265600",
       "itunes_duration": "42:11",
       "speakers": [
-        "Jo Brand",
-        "Paul Hollywood"
+        "Jo Brand"
       ],
       "topics": [
         "brand"
@@ -5791,9 +5508,7 @@
       "enclosure_length": "94395840",
       "itunes_duration": "39:19",
       "speakers": [
-        "Callum Turner",
-        "Sean Emery",
-        "Frank Churchill"
+        "Callum Turner"
       ],
       "topics": [
         "callum",
@@ -5847,8 +5562,7 @@
       "enclosure_length": "122539200",
       "itunes_duration": "51:03",
       "speakers": [
-        "Jamie Oliver",
-        "Jamie Oliver HQ"
+        "Jamie Oliver"
       ],
       "topics": [
         "jamie",
@@ -5867,8 +5581,7 @@
       "enclosure_length": "131115840",
       "itunes_duration": "54:37",
       "speakers": [
-        "Nicole Scherzinger",
-        "John Lewis"
+        "Nicole Scherzinger"
       ],
       "topics": [
         "nicole",
@@ -5887,9 +5600,7 @@
       "enclosure_length": "120959040",
       "itunes_duration": "50:23",
       "speakers": [
-        "Rick Astley",
-        "Mary Berry",
-        "Dave Grohl"
+        "Rick Astley"
       ],
       "topics": [
         "rick",
@@ -5907,9 +5618,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "134907840",
       "itunes_duration": "56:12",
-      "speakers": [
-        "Alice Williams Hosted"
-      ],
+      "speakers": [],
       "topics": [
         "haim"
       ]
@@ -5926,8 +5635,7 @@
       "enclosure_length": "100739520",
       "itunes_duration": "41:58",
       "speakers": [
-        "Luke Evans",
-        "Dalston Doner"
+        "Luke Evans"
       ],
       "topics": [
         "luke",
@@ -5945,7 +5653,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145608960",
       "itunes_duration": "1:00:40",
-      "speakers": [],
+      "speakers": [
+        "Charlotte Tilbury"
+      ],
       "topics": [
         "charlotte",
         "tilbury"
@@ -5962,7 +5672,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105859200",
       "itunes_duration": "44:06",
-      "speakers": [],
+      "speakers": [
+        "Yannis Philippakis"
+      ],
       "topics": [
         "yannis",
         "philippakis"
@@ -5980,10 +5692,7 @@
       "enclosure_length": "137875200",
       "itunes_duration": "57:26",
       "speakers": [
-        "Jess Phillips",
-        "Alex hid upstairs",
-        "Rhubarb Vodka",
-        "Alice Williams Hosted"
+        "Jess Phillips"
       ],
       "topics": [
         "jess",
@@ -6002,8 +5711,7 @@
       "enclosure_length": "149856960",
       "itunes_duration": "1:02:26",
       "speakers": [
-        "Liam Payne",
-        "Alice Williams Hosted"
+        "Liam Payne"
       ],
       "topics": [
         "liam",
@@ -6022,9 +5730,7 @@
       "enclosure_length": "132607680",
       "itunes_duration": "55:15",
       "speakers": [
-        "Antoni Porowski",
-        "Disney Prince",
-        "Alice Williams Hosted"
+        "Antoni Porowski"
       ],
       "topics": [
         "antoni",
@@ -6043,10 +5749,7 @@
       "enclosure_length": "104688000",
       "itunes_duration": "43:37",
       "speakers": [
-        "Grace Campbell",
-        "Tony Blair",
-        "Jeremy Corbyn",
-        "Alice Williams Hosted"
+        "Grace Campbell"
       ],
       "topics": [
         "grace",
@@ -6089,10 +5792,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97064640",
       "itunes_duration": "40:26",
-      "speakers": [
-        "Heidi Regan",
-        "Joe Dempsie"
-      ],
+      "speakers": [],
       "topics": [
         "heidi",
         "regan",
@@ -6113,8 +5813,7 @@
       "enclosure_length": "117556800",
       "itunes_duration": "48:58",
       "speakers": [
-        "Olly Alexander",
-        "Alice Williams Hosted"
+        "Olly Alexander"
       ],
       "topics": [
         "olly",
@@ -6133,8 +5832,7 @@
       "enclosure_length": "142130880",
       "itunes_duration": "59:13",
       "speakers": [
-        "Deborah Frances-White",
-        "Albert Hall"
+        "Deborah Frances-White"
       ],
       "topics": [
         "deborah",
@@ -6153,8 +5851,7 @@
       "enclosure_length": "127290240",
       "itunes_duration": "53:02",
       "speakers": [
-        "Neneh Cherry",
-        "Ms Cherry"
+        "Neneh Cherry"
       ],
       "topics": [
         "neneh",
@@ -6196,8 +5893,7 @@
       "itunes_duration": "1:01:45",
       "speakers": [
         "Richard Curtis",
-        "Comic Relief",
-        "Emma Freud"
+        "Comic Relief"
       ],
       "topics": [
         "richard",
@@ -6235,7 +5931,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106286400",
       "itunes_duration": "44:17",
-      "speakers": [],
+      "speakers": [
+        "Noomi Rapace Super",
+        "Noomi Rapace"
+      ],
       "topics": [
         "noomi",
         "rapace"
@@ -6253,9 +5952,7 @@
       "enclosure_length": "149767680",
       "itunes_duration": "1:02:24",
       "speakers": [
-        "Róisín Murphy",
-        "Darling Roisin",
-        "Ms Róisín Murphy Hosted"
+        "Róisín Murphy"
       ],
       "topics": [
         "murphy"
@@ -6292,8 +5989,7 @@
       "enclosure_length": "125901120",
       "itunes_duration": "52:27",
       "speakers": [
-        "Carly Rae Jepsen",
-        "homemade pasta"
+        "Carly Rae Jepsen"
       ],
       "topics": [
         "carly",
@@ -6331,9 +6027,7 @@
       "enclosure_length": "127646400",
       "itunes_duration": "53:11",
       "speakers": [
-        "Kiefer Sutherland",
-        "Jack Bauer",
-        "Robert Downey Jr"
+        "Kiefer Sutherland"
       ],
       "topics": [
         "kiefer",
@@ -6352,7 +6046,7 @@
       "enclosure_length": "99545280",
       "itunes_duration": "41:28",
       "speakers": [
-        "Sara Bareilles"
+        "West End"
       ],
       "topics": [
         "season",
@@ -6391,8 +6085,7 @@
       "enclosure_length": "117420480",
       "itunes_duration": "48:55",
       "speakers": [
-        "Ian Schrager",
-        "Diana Ross"
+        "New York Icon"
       ],
       "topics": [
         "season",
@@ -6411,8 +6104,7 @@
       "enclosure_length": "102394560",
       "itunes_duration": "42:39",
       "speakers": [
-        "Gregory Porter",
-        "Sticky Toffee"
+        "Gregory Porter"
       ],
       "topics": [
         "season",
@@ -6432,7 +6124,7 @@
       "enclosure_length": "112064640",
       "itunes_duration": "46:41",
       "speakers": [
-        "Samin Nosrat"
+        "Samin Nosrat Beyond"
       ],
       "topics": [
         "season",
@@ -6452,8 +6144,7 @@
       "enclosure_length": "97872960",
       "itunes_duration": "40:46",
       "speakers": [
-        "Zachary Quinto",
-        "Marbella Chicken"
+        "Zachary Quinto"
       ],
       "topics": [
         "season",
@@ -6473,9 +6164,7 @@
       "enclosure_length": "107562240",
       "itunes_duration": "44:49",
       "speakers": [
-        "John Bishop",
-        "Curiosity Rooms",
-        "Alice Williams Hosted"
+        "John Bishop"
       ],
       "topics": [
         "john",
@@ -6493,10 +6182,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116976960",
       "itunes_duration": "48:44",
-      "speakers": [
-        "Melanie Brown",
-        "Spice Girl"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -6511,8 +6197,7 @@
       "enclosure_length": "103349760",
       "itunes_duration": "43:03",
       "speakers": [
-        "Paul Smith",
-        "Alice Williams Hosted"
+        "Paul Smith"
       ],
       "topics": [
         "paul",
@@ -6531,7 +6216,7 @@
       "enclosure_length": "93984000",
       "itunes_duration": "39:09",
       "speakers": [
-        "Alice Williams Hosted"
+        "Cariad Lloyd Not"
       ],
       "topics": [
         "cariad",
@@ -6550,9 +6235,7 @@
       "enclosure_length": "113962560",
       "itunes_duration": "47:29",
       "speakers": [
-        "Tim Dowling",
-        "Kathy Bates",
-        "Alice Williams Hosted"
+        "Tim Dowling"
       ],
       "topics": [
         "dowling"
@@ -6569,9 +6252,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128356800",
       "itunes_duration": "53:28",
-      "speakers": [
-        "Alice Williams Hosted"
-      ],
+      "speakers": [],
       "topics": [
         "cheryl"
       ]
@@ -6606,8 +6287,7 @@
       "enclosure_length": "146304000",
       "itunes_duration": "1:00:57",
       "speakers": [
-        "Russell Tovey",
-        "Alice Williams Hosted"
+        "Russell Tovey"
       ],
       "topics": [
         "russell",
@@ -6626,8 +6306,7 @@
       "enclosure_length": "123280320",
       "itunes_duration": "51:22",
       "speakers": [
-        "Dolly Alderton",
-        "Alice Williams Hosted"
+        "Dolly Alderton"
       ],
       "topics": [
         "alderton"
@@ -6645,8 +6324,7 @@
       "enclosure_length": "125208960",
       "itunes_duration": "52:10",
       "speakers": [
-        "Nigella Lawson",
-        "Alice Williams Hosted"
+        "Nigella Lawson"
       ],
       "topics": [
         "nigella",
@@ -6665,11 +6343,8 @@
       "enclosure_length": "121438080",
       "itunes_duration": "50:35",
       "speakers": [
-        "Sam Smith’s Gollum",
-        "George Ezra",
-        "Stacey Dooley",
-        "Sandi Toksvig",
-        "Alice Williams Hosted"
+        "Table Manners Whilst",
+        "Table Manners"
       ],
       "topics": [
         "table",
@@ -6707,8 +6382,7 @@
       "enclosure_length": "126303360",
       "itunes_duration": "52:37",
       "speakers": [
-        "Adam Buxton",
-        "Alice Williams Hosted"
+        "Adam Buxton"
       ],
       "topics": [
         "adam",
@@ -6727,8 +6401,7 @@
       "enclosure_length": "106371840",
       "itunes_duration": "44:19",
       "speakers": [
-        "Alan Carr",
-        "Alice Williams Hosted"
+        "Alan Carr"
       ],
       "topics": [
         "alan",
@@ -6838,7 +6511,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104082240",
       "itunes_duration": "43:22",
-      "speakers": [],
+      "speakers": [
+        "My Dad Wrote",
+        "Porno Alice"
+      ],
       "topics": [
         "porno"
       ]
@@ -6855,9 +6531,7 @@
       "enclosure_length": "108255360",
       "itunes_duration": "45:06",
       "speakers": [
-        "Randy Jackson",
-        "Mariah Carey",
-        "Simon Cowell"
+        "Randy Jackson"
       ],
       "topics": [
         "randy",
@@ -6876,8 +6550,7 @@
       "enclosure_length": "127484160",
       "itunes_duration": "53:07",
       "speakers": [
-        "Stacey Dooley",
-        "Alice Williams"
+        "Stacey Dooley"
       ],
       "topics": [
         "stacey",
@@ -6896,8 +6569,7 @@
       "enclosure_length": "107408640",
       "itunes_duration": "44:45",
       "speakers": [
-        "Felix White",
-        "Alice Williams"
+        "Felix White"
       ],
       "topics": [
         "felix",
@@ -6916,9 +6588,7 @@
       "enclosure_length": "99052800",
       "itunes_duration": "41:16",
       "speakers": [
-        "Jay Rayner",
-        "Greg Wallace",
-        "Alice Williams"
+        "Jay Rayner"
       ],
       "topics": [
         "rayner"
@@ -6936,7 +6606,7 @@
       "enclosure_length": "108417600",
       "itunes_duration": "45:10",
       "speakers": [
-        "Alice Williams"
+        "Leary Oh Dermot"
       ],
       "topics": [
         "dermot"
@@ -6954,8 +6624,7 @@
       "enclosure_length": "91632960",
       "itunes_duration": "38:10",
       "speakers": [
-        "George Ezra",
-        "Alice Williams"
+        "George Ezra"
       ],
       "topics": [
         "george",
@@ -6993,8 +6662,7 @@
       "enclosure_length": "96920640",
       "itunes_duration": "40:23",
       "speakers": [
-        "Royle Family",
-        "Jeremy Hunt"
+        "Ralf Little Ralf Little"
       ],
       "topics": [
         "little"
@@ -7012,7 +6680,7 @@
       "enclosure_length": "118617600",
       "itunes_duration": "49:25",
       "speakers": [
-        "Alice Williams Hosted"
+        "Paloma Faith Paloma Faith"
       ],
       "topics": [
         "paloma",
@@ -7031,8 +6699,7 @@
       "enclosure_length": "104864640",
       "itunes_duration": "43:41",
       "speakers": [
-        "Ed Sheeran",
-        "Alice Williams"
+        "Ed Sheeran"
       ],
       "topics": [
         "sheeran"
@@ -7070,9 +6737,7 @@
       "enclosure_length": "93896640",
       "itunes_duration": "39:07",
       "speakers": [
-        "Sandi Toksvig",
-        "Paul Hollywood",
-        "Alice Williams"
+        "Sandi Toksvig"
       ],
       "topics": [
         "sandi",
@@ -7091,8 +6756,7 @@
       "enclosure_length": "97494720",
       "itunes_duration": "40:37",
       "speakers": [
-        "Loyle Carner",
-        "Eric Cantona"
+        "Loyle Carner"
       ],
       "topics": [
         "loyle",
@@ -7111,9 +6775,7 @@
       "enclosure_length": "76091140",
       "itunes_duration": "39:37",
       "speakers": [
-        "Benny Blanco",
-        "Katy Perry",
-        "Ed Sheeran"
+        "Benny Blanco"
       ],
       "topics": [
         "benny",
@@ -7192,7 +6854,8 @@
       "enclosure_length": "109933706",
       "itunes_duration": "45:48",
       "speakers": [
-        "Sam Smith"
+        "Sam Smith",
+        "Sam Smi"
       ],
       "topics": [
         "smith"
@@ -7210,10 +6873,8 @@
       "enclosure_length": "12880320",
       "itunes_duration": "5:21",
       "speakers": [
-        "Sam Smith",
-        "Annie Mac",
-        "Daniel Kaluuya",
-        "Joe Dempsie"
+        "Table Manners Teaser Welcome",
+        "Table Manners"
       ],
       "topics": [
         "table",
@@ -7228,365 +6889,365 @@
 
 ## Episodes (newest first)
 
-- 2026-02-18 — Emma Corrin — speakers: Emma Corrin, Kitty Coles, Princess Diana, Elizabeth Bennet, Josh O’Connor, Bake Off
-- 2026-02-11 — Margot Robbie — speakers: Margot Robbie, Jacob Elordi, Emerald Fennell, Bogan Narrrrchos, Bette Midler
-- 2026-02-04 — Claire Foy — speakers: Claire Foy, Elizabeth II, Brendan Gleeson
-- 2026-01-28 — Bryan Cranston — speakers: Bryan Cranston, Breaking Bad, Tom Hanks, Aaron Paul
-- 2026-01-21 — Alan Carr & Amanda Holden — speakers: Alan Carr, Amanda Holden, Ixta Belfrage, Celebration Salmon
+- 2026-02-18 — Emma Corrin — speakers: Emma Corrin
+- 2026-02-11 — Margot Robbie — speakers: Margot Robbie
+- 2026-02-04 — Claire Foy — speakers: Claire Foy
+- 2026-01-28 — Bryan Cranston — speakers: Bryan Cranston, Breaking Bad
+- 2026-01-21 — Alan Carr & Amanda Holden — speakers: Alan Carr, Amanda Holden
 - 2026-01-14 — David Baddiel — speakers: David Baddiel
-- 2026-01-07 — Emma Barnett — speakers: Emma Barnett
-- 2025-12-31 — Kate Hudson — speakers: Kate Hudson, Song Sung Blue, Hugh Jackman, Neil Diamond
-- 2025-12-24 — Christmas with Jessie & Lennie — speakers: Kadiff Kirwan
-- 2025-12-17 — Harlan Coben — speakers: Harlan Coben, Run Away, James Nesbitt, Bruce Springsteen, Myron Bolitar
-- 2025-12-10 — John Gregory Smith — speakers: John Gregory Smith, John Gregory-Smith, Gordon Ramsey, Delia Smith
-- 2025-12-03 — Da'vine Joy Randolph — speakers: Da'vine Joy Randolph, Joy Randolph, Elisabeth Olsen
+- 2026-01-07 — Emma Barnett — speakers: Emma Barnett, Emma Barnet
+- 2025-12-31 — Kate Hudson — speakers: Kate Hudson
+- 2025-12-24 — Christmas with Jessie & Lennie — speakers: Lennie It’s Christmas Eve, sitting down
+- 2025-12-17 — Harlan Coben — speakers: Harlan Coben
+- 2025-12-10 — John Gregory Smith — speakers: John Gregory Smith, John Gregory-Smith
+- 2025-12-03 — Da'vine Joy Randolph — speakers: Da'vine Joy Randolph, Joy Randolph
 - 2025-11-26 — Bill Nighy — speakers: Bill Nighy
 - 2025-11-19 — Josh Widdicombe — speakers: Josh Widdicombe
-- 2025-11-12 — Marcus Mumford — speakers: Taylor Swift, Gracie Abrams
-- 2025-11-05 — Malala Yousafzai — speakers: Malala Yousafzai, Taylor Swift
-- 2025-10-29 — Jeremy Allen White — speakers: Jeremy Allen White, Bruce Springsteen, Iron Claw
+- 2025-11-12 — Marcus Mumford — speakers: Marcus Mumford
+- 2025-11-05 — Malala Yousafzai — speakers: Malala Yousafzai
+- 2025-10-29 — Jeremy Allen White — speakers: Jeremy Allen White
 - 2025-10-22 — Gloria Estefan — speakers: Gloria Estefan
-- 2025-10-15 — Maya Rudolph — speakers: Maya Rudolph, Kate Moss
-- 2025-10-10 — Bonus Episode: Series 18 Launch Party — speakers: Jackson Boxer
-- 2025-10-08 — Gary Oldman — speakers: Gary Oldman, Jackson Lamb, Lee Harvey Oswald, John Hurt, Slow Horses
+- 2025-10-15 — Maya Rudolph — speakers: Maya Rudolph
+- 2025-10-10 — Bonus Episode: Series 18 Launch Party — speakers: Table Manners, Brunswick Hou
+- 2025-10-08 — Gary Oldman — speakers: Gary Oldman
 - 2025-10-01 — Reese Witherspoon
-- 2025-09-10 — Second Helpings - P!nk — speakers: Pink Salmon, Gwen Stefani
-- 2025-09-03 — Second Helpings - Jake Shears — speakers: Jake Shears, Banana Slugs
+- 2025-09-10 — Second Helpings - P!nk
+- 2025-09-03 — Second Helpings - Jake Shears — speakers: Second Helpings, Last Man Dancing
 - 2025-08-27 — Second Helpings - Joanna Lumley — speakers: Joanna Lumley
-- 2025-08-20 — Second Helpings - Tom Jones — speakers: Tom Jones, Elvis Presley
-- 2025-08-13 — Second Helpings - Stanley Tucci — speakers: Stanley Tucci, Meryl Streep
-- 2025-08-06 — Second Helpings - Jade Thirlwall — speakers: Jade Thirwall, Diana Ross
-- 2025-07-30 — Second Helpings - Aisling Bea — speakers: Aisling Bea
+- 2025-08-20 — Second Helpings - Tom Jones — speakers: Tom Jones
+- 2025-08-13 — Second Helpings - Stanley Tucci — speakers: Second Helpings
+- 2025-08-06 — Second Helpings - Jade Thirlwall — speakers: Second Helpings, Jade Thirlwall Week
+- 2025-07-30 — Second Helpings - Aisling Bea — speakers: Second Helpings, Table Manners
 - 2025-07-23 — Stephen Mangan — speakers: Stephen Mangan
-- 2025-07-16 — Suranne Jones — speakers: Suranne Jones, Gentleman Jack
-- 2025-07-09 — Will Poulter
+- 2025-07-16 — Suranne Jones — speakers: Suranne Jones
+- 2025-07-09 — Will Poulter — speakers: Will jo
 - 2025-07-02 — Sara Cox — speakers: Sara Cox
-- 2025-06-25 — Charley Marlowe — speakers: Charley Marlowe, Jane McDonald
-- 2025-06-18 — Fiona Shaw — speakers: Fiona Shaw, Killing Eve, Harry Potter, Sri Lanka, Julianne Moore, Sri Lankan
+- 2025-06-25 — Charley Marlowe — speakers: Charley Marlowe
+- 2025-06-18 — Fiona Shaw — speakers: Fiona Shaw, Killing Eve
 - 2025-06-11 — Michel Roux Jr. — speakers: Michel Roux Jr
 - 2025-06-04 — Jacinda Ardern — speakers: Jacinda Ardern
-- 2025-05-28 — Jason Isaacs — speakers: Jason Isaacs, Gillian Anderson, Plus Jason
-- 2025-05-21 — Seth Meyers — speakers: Seth Meyers, matzo ball
-- 2025-05-14 — Matthew Broderick — speakers: Matthew Broderick, Ferris Bueller’s Day Off, Marlon Brando
-- 2025-05-07 — Jonathan Groff — speakers: Jonathan Groff, Bobby Darin
+- 2025-05-28 — Jason Isaacs — speakers: Jason Isaacs
+- 2025-05-21 — Seth Meyers — speakers: Seth Meyers
+- 2025-05-14 — Matthew Broderick — speakers: Matthew Broderick
+- 2025-05-07 — Jonathan Groff — speakers: Jonathan Groff
 - 2025-04-30 — Selena Gomez and Benny Blanco — speakers: Selena Gomez, Benny Blanco
-- 2025-04-22 — Emma Grede — speakers: Emma Grede, Mrs Nancy
-- 2025-04-16 — Martin Freeman — speakers: Martin Freeman, Jack Lowden
+- 2025-04-22 — Emma Grede — speakers: Emma Grede
+- 2025-04-16 — Martin Freeman — speakers: Martin Freeman
 - 2025-04-08 — Jonathan and Honey Ross — speakers: Honey Ross, Jonathan Ross
-- 2025-04-02 — Geri Halliwell-Horner — speakers: Geri Halliwell-Horner, Nelson Mandela, Bake Off, George Michael, Rosie Frost
-- 2025-03-26 — Tom Parker-Bowles and Henry Jeffreys — speakers: Tom Parker-Bowles, Henry Jeffreys
-- 2025-03-19 — Paddy McGuinness — speakers: Paddy McGuinness, Chris Hoy, Peter Kay
-- 2025-03-12 — Danny Dyer — speakers: Danny Dyer, Harold Pinter
-- 2025-03-05 — Brandi Carlile — speakers: Elton John, Joni Mitchell, Paul McCartney, Candy Bar-lile
+- 2025-04-02 — Geri Halliwell-Horner — speakers: Geri Halliwell-Horner
+- 2025-03-26 — Tom Parker-Bowles and Henry Jeffreys — speakers: Tom Parker-Bowles
+- 2025-03-19 — Paddy McGuinness — speakers: Paddy McGuinness
+- 2025-03-12 — Danny Dyer — speakers: Danny Dyer
+- 2025-03-05 — Brandi Carlile — speakers: Brandi Carl
 - 2025-02-26 — Jake Cohen — speakers: Jake Cohen
-- 2025-02-19 — Ruthie Rogers — speakers: Ruthie Rogers, Ruthie Marbella
-- 2025-02-12 — Zoe Saldaña — speakers: Zoe Saldaña, Emilia Pérez
+- 2025-02-19 — Ruthie Rogers — speakers: Ruthie Rogers
+- 2025-02-12 — Zoe Saldaña — speakers: Zoe Saldaña
 - 2025-02-05 — Cyndi Lauper — speakers: Cyndi Lauper
-- 2025-01-29 — Felicity Jones
+- 2025-01-29 — Felicity Jones — speakers: Felicity Jones, Best Supporting Ac
 - 2025-01-22 — Louis Theroux — speakers: Louis Theroux
-- 2025-01-15 — Tim Cook — speakers: Tim Cook, Tim Cook Ceo, Cafe Macs
-- 2025-01-08 — Colman Domingo — speakers: Sing Sing, Steven Spielberg
-- 2025-01-01 — Jesse Eisenberg — speakers: Jesse Eisenberg, Emma Stone
-- 2024-12-25 — Christmas Bites — speakers: Vanessa Williams, Tom Odell
+- 2025-01-15 — Tim Cook — speakers: Tim Cook, Tim Cook Ceo
+- 2025-01-08 — Colman Domingo
+- 2025-01-01 — Jesse Eisenberg — speakers: Jesse Eisenberg
+- 2024-12-25 — Christmas Bites — speakers: Christmas Bites So, Merry Christmas
 - 2024-12-18 — James Corden & Ruth Jones — speakers: James Corden, Ruth Jones, James Corden aka
-- 2024-12-16 — Bonus Episode: Gabby Logan — speakers: Mary Berry, Jessica Ennis
-- 2024-12-11 — Chris O'Dowd & Dawn O'Porter — speakers: Chris O'Dowd, Dawn O'Porter, garlic holds
-- 2024-12-04 — Sharon Horgan — speakers: Sharon Horgan, Hare Krishna, Bad Sisters
-- 2024-11-27 — Meera Sodha — speakers: Meera Sodha, Nigel Slater
-- 2024-11-20 — Saoirse Ronan — speakers: Saoirse Ronan, Steve McQueen, Graham Norton, John Travolta
-- 2024-11-13 — Rob Delaney — speakers: Rob Delaney, Nigel Slater, Ryan Reynolds
-- 2024-11-06 — Gary Barlow — speakers: Gary Barlow, King Charles
-- 2024-10-30 — Countess Luann — speakers: Countess Luann, Tilda Swindon, Countess Cabaret, C’est Bon
-- 2024-10-23 — Jason Manford — speakers: Jason Manford, Nigel Slater
+- 2024-12-16 — Bonus Episode: Gabby Logan
+- 2024-12-11 — Chris O'Dowd & Dawn O'Porter — speakers: Chris O'Dowd, Dawn O'Porter
+- 2024-12-04 — Sharon Horgan — speakers: Sharon Horgan
+- 2024-11-27 — Meera Sodha — speakers: Meera Sodha
+- 2024-11-20 — Saoirse Ronan — speakers: Saoirse Ronan
+- 2024-11-13 — Rob Delaney — speakers: Rob Delaney
+- 2024-11-06 — Gary Barlow — speakers: Gary Barlow
+- 2024-10-30 — Countess Luann — speakers: Countess Luann
+- 2024-10-23 — Jason Manford — speakers: Jason Manford
 - 2024-10-18 — Bonus Episode: Series 17 Launch Party
-- 2024-10-16 — Finneas — speakers: Billie Eilish, Benny Blanco
-- 2024-10-09 — Gillian Anderson — speakers: Gillian Anderson Season, Gillian Anderson
+- 2024-10-16 — Finneas — speakers: Finneas Season
+- 2024-10-09 — Gillian Anderson — speakers: Gillian Anderson Season
 - 2024-09-11 — Kate Winslet — speakers: Kate Winslet
-- 2024-09-04 — Second Helpings - Noel Gallagher — speakers: Noel Gallagher
-- 2024-08-28 — Second Helpings - Jamie Oliver — speakers: Jamie Oliver, Jamie Oliver HQ
-- 2024-08-21 — Second Helpings - Paul & Mary McCartney — speakers: Mary McCartney, Linda McCartney
-- 2024-08-14 — Second Helpings - Dawn French — speakers: Dawn French
-- 2024-08-07 — Second Helpings - Dua Lipa — speakers: Dua Lipa
-- 2024-07-31 — Second Helpings - Keir Starmer — speakers: Keir Starmer
-- 2024-06-26 — Jonathan Van Ness — speakers: Jonathan Van Ness, Jvn Hair, Whitney Houston, Taylor Swift
-- 2024-06-19 — Claire Richards — speakers: Claire Richards, Peter Andre
-- 2024-06-12 — Nisha Katona — speakers: Nisha Katona, Nisha’s Mowgli
-- 2024-06-05 — Rita Ora — speakers: Rita Ora Ask, Taika Waititi
-- 2024-05-29 — Leigh-Anne Pinnock — speakers: Leigh-Anne Pinnock, Little Mix
-- 2024-05-22 — Jordan Stephens — speakers: Jordan Stephens, David Attenborough, Rizzle Kicks
+- 2024-09-04 — Second Helpings - Noel Gallagher
+- 2024-08-28 — Second Helpings - Jamie Oliver — speakers: Jamie Oliver
+- 2024-08-21 — Second Helpings - Paul & Mary McCartney — speakers: Mary McCartney
+- 2024-08-14 — Second Helpings - Dawn French
+- 2024-08-07 — Second Helpings - Dua Lipa — speakers: Second Helpings
+- 2024-07-31 — Second Helpings - Keir Starmer
+- 2024-06-26 — Jonathan Van Ness — speakers: Jonathan Van Ness
+- 2024-06-19 — Claire Richards — speakers: Claire Richards
+- 2024-06-12 — Nisha Katona — speakers: Nisha Katona
+- 2024-06-05 — Rita Ora — speakers: Rita Ora Ask
+- 2024-05-29 — Leigh-Anne Pinnock — speakers: Leigh-Anne Pinnock
+- 2024-05-22 — Jordan Stephens — speakers: Jordan Stephens
 - 2024-05-15 — Rob Rinder and Rylan — speakers: Rob Rinder
-- 2024-05-08 — Ben Platt — speakers: Ben Platt, Noah Galvin
+- 2024-05-08 — Ben Platt — speakers: Ben Platt
 - 2024-05-01 — Minnie Driver — speakers: Minnie Driver
-- 2024-04-24 — Jessie and Lennie do Malibu — speakers: Diane Kron’s Chocolate, Jackie Kennedy
+- 2024-04-24 — Jessie and Lennie do Malibu
 - 2024-04-17 — Sara Pascoe — speakers: Sara Pascoe
 - 2024-04-10 — Ian Wright — speakers: Ian Wright
-- 2024-04-02 — Billie Piper — speakers: Billie Piper, Amy Winehouse
-- 2024-03-27 — Johnny Marr — speakers: Johnny Marr, Hans Zimmer
-- 2024-03-20 — Beth Ditto — speakers: Beth Ditto, Rick Rubin
-- 2024-03-13 — Millie Bobby Brown — speakers: Millie Bobby Brown Star, Millie Bobby Brown, Tom Kerridge
-- 2024-03-06 — Griff — speakers: Miss Me, Vertigo Vol
+- 2024-04-02 — Billie Piper — speakers: Billie Piper
+- 2024-03-27 — Johnny Marr — speakers: Johnny Marr
+- 2024-03-20 — Beth Ditto — speakers: Beth Ditto
+- 2024-03-13 — Millie Bobby Brown — speakers: Millie Bobby Brown Star, Millie Bobby Brown
+- 2024-03-06 — Griff
 - 2024-02-28 — Ross Kemp — speakers: Ross Kemp
 - 2024-02-21 — Tommy Banks — speakers: Tommy Banks
 - 2024-02-14 — Just The Two of Us
-- 2024-02-07 — Johannes Radebe — speakers: Jamie’s Oliver
-- 2024-01-31 — Jacob Collier — speakers: Jacob Collier Brightening, Jacob Collier, Quincy Jones, Djesse Vol
-- 2024-01-24 — James O'Brien — speakers: James O'Brien, James O’Brien, Marcus Rashford, Ian Brown
+- 2024-02-07 — Johannes Radebe
+- 2024-01-31 — Jacob Collier — speakers: Jacob Collier Brightening
+- 2024-01-24 — James O'Brien — speakers: James O'Brien, James O’Brien
 - 2024-01-17 — Jessie Buckley — speakers: Jessie Buckley
 - 2024-01-10 — Tom Odell — speakers: Tom Odell
 - 2024-01-03 — Laura Whitmore and Iain Stirling — speakers: Laura Whitmore
-- 2023-12-27 — Romy
-- 2023-12-20 — Festive Feast — speakers: Jamie Oliver, Nigella Lawson, Paul Hollywood, John Torode
-- 2023-12-13 — Kadiff Kirwan — speakers: Gary Oldman
-- 2023-12-06 — Cher — speakers: Chicken Soup, Donna Summer
-- 2023-11-29 — Girls Aloud — speakers: Sarah Harding, Girls Aloud
-- 2023-11-22 — Princess Eugenie — speakers: Table Manners, Princess Eugenie
-- 2023-11-15 — Ravinder Bhogal — speakers: Gordon Ramsey, Paul McCartney, Ravinder’s Falooda
-- 2023-11-08 — Matt Lucas — speakers: Matt Lucas, Bob Mortimer, Chicken Soup
-- 2023-11-01 — Ed Gamble
-- 2023-10-25 — Zoe Ball — speakers: Zoe Ball Mamma Mia, Mamma Mia, Zoe Ball
+- 2023-12-27 — Romy — speakers: New Year
+- 2023-12-20 — Festive Feast — speakers: Table Manners Christmas Special
+- 2023-12-13 — Kadiff Kirwan — speakers: Dame Lennie
+- 2023-12-06 — Cher
+- 2023-11-29 — Girls Aloud
+- 2023-11-22 — Princess Eugenie — speakers: Table Manners, Princess Eug
+- 2023-11-15 — Ravinder Bhogal — speakers: Ravinder Bhogal
+- 2023-11-08 — Matt Lucas — speakers: Matt Lucas
+- 2023-11-01 — Ed Gamble — speakers: Ed Gamble Usually
+- 2023-10-25 — Zoe Ball — speakers: Zoe Ball Mamma Mia, Mamma Mia
 - 2023-10-18 — Miriam Margolyes — speakers: Miriam Margolyes
-- 2023-09-20 — Second Helpings - Kylie Minogue — speakers: Kylie Minogue
+- 2023-09-20 — Second Helpings - Kylie Minogue — speakers: Second Helpings, Kylie Minogue Padam
 - 2023-09-13 — Second Helpings - Michael McIntyre — speakers: Michael McIntyre
 - 2023-09-06 — Second Helpings - Alan Carr — speakers: Alan Carr
-- 2023-08-30 — Second Helpings - Nigella Lawson — speakers: Nigella Lawson, Second Helpings
+- 2023-08-30 — Second Helpings - Nigella Lawson — speakers: Nigella Lawson
 - 2023-08-23 — Second Helpings - Sam Smith — speakers: Sam Smith
-- 2023-07-31 — Bonus Episode: Lionesses - Ellen White and Lyn Hale — speakers: Good Causes, Ellen White Mbe
-- 2023-07-26 — Keir Starmer — speakers: Keir Starmer
+- 2023-07-31 — Bonus Episode: Lionesses - Ellen White and Lyn Hale — speakers: Ellen White, Lyn Hale Surprise
+- 2023-07-26 — Keir Starmer
 - 2023-07-19 — Andrew Ridgeley — speakers: Andrew Ridgeley
-- 2023-07-12 — Raven Smith — speakers: Raven Smith, Top Cuvee, Raven Smith’s Men
+- 2023-07-12 — Raven Smith — speakers: Raven Smith
 - 2023-07-05 — Loreen
-- 2023-06-28 — Jon Batiste — speakers: Jon Batiste, Po Boy Sandwiches
+- 2023-06-28 — Jon Batiste — speakers: Jon Batiste
 - 2023-06-21 — Jaime Winstone — speakers: Jaime Winstone
-- 2023-06-14 — Anne-Marie
+- 2023-06-14 — Anne-Marie — speakers: Table Mann
 - 2023-06-07 — Noel Gallagher — speakers: Noel Gallagher Mum, Noel Gallagher
-- 2023-05-31 — Jake Shears — speakers: Jake Shears Ahead, Jake Shears, Banana Slugs
+- 2023-05-31 — Jake Shears — speakers: Jake Shears Ahead
 - 2023-05-24 — Marina Hyde
-- 2023-05-17 — Alison Roman — speakers: Alison Roman, Garlic Butter
-- 2023-05-10 — Alison Goldfrapp — speakers: Alison Goldfrapp Ahead, Alison Goldfrapp
-- 2023-05-03 — Dannii Minogue — speakers: Dannii Minogue, panna cotta
-- 2023-04-26 — Ramy Youssef — speakers: Ramy Youssef, Helen Russell-Clarke
+- 2023-05-17 — Alison Roman — speakers: Alison Roman
+- 2023-05-10 — Alison Goldfrapp — speakers: Alison Goldfrapp Ahead
+- 2023-05-03 — Dannii Minogue — speakers: Dannii Minogue
+- 2023-04-26 — Ramy Youssef — speakers: Ramy Youssef
 - 2023-04-19 — George and Larry Lamb — speakers: Larry Lamb
 - 2023-04-12 — Phil Rosenthal — speakers: Phil Rosenthal
-- 2023-04-05 — Joel & Hannah Cooper Dommett — speakers: Cote Brasserie
+- 2023-04-05 — Joel & Hannah Cooper Dommett — speakers: Table Manners, Hannah Cooper Dommett
 - 2023-03-29 — Carol Vorderman — speakers: Carol Vorderman
 - 2023-03-22 — Andy Serkis — speakers: Andy Serkis
-- 2023-03-15 — Alastair Campbell — speakers: Alastair Campbell Mum, Ed Miliband, Alastair Campbell, Gary Lineker, Chocolate Mousse
-- 2023-03-08 — Kim Petras — speakers: Kim Petras, Sam Smith Kim
-- 2023-03-01 — Russell T Davies — speakers: Helena Bonham Carter
-- 2023-02-22 — P!nk — speakers: Pink Salmon, Gwen Stefani
-- 2023-01-04 — Katherine Ryan — speakers: Katherine Ryan, Louis Theroux, Pete Davidson
-- 2022-12-28 — Rita Wilson — speakers: Rita Wilson, Mamma Mia, Lime Jello, Nora Ephron
-- 2022-12-21 — Christmas Extravaganza — speakers: Tom Daley, David Schwimmer, Paul Hollywood, Michael Buble
-- 2022-12-14 — Olly Murs — speakers: Courgette Frittata, Lewis Capaldi
+- 2023-03-15 — Alastair Campbell — speakers: Alastair Campbell Mum, Ed Miliband
+- 2023-03-08 — Kim Petras — speakers: Kim Petras
+- 2023-03-01 — Russell T Davies
+- 2023-02-22 — P!nk
+- 2023-01-04 — Katherine Ryan — speakers: Katherine Ryan
+- 2022-12-28 — Rita Wilson — speakers: Rita Wilson
+- 2022-12-21 — Christmas Extravaganza — speakers: Table Manners, Christmas Extravaganz
+- 2022-12-14 — Olly Murs — speakers: Olly Murs
 - 2022-12-09 — Bonus Episode: Nadiya Hussain — speakers: Nadiya Hussain
-- 2022-12-07 — Paul Hollywood — speakers: Paul Hollywood, Tart Nomande
+- 2022-12-07 — Paul Hollywood — speakers: Paul Hollywood
 - 2022-12-02 — Bonus Episode: Alison Hammond — speakers: Alison Hammond
 - 2022-11-30 — Bjorn Ulvaeus — speakers: Bjorn Ulvaeus
-- 2022-11-23 — Rose Matafeo — speakers: Rose Matafeo, Alison Roman, Rom Coms
-- 2022-11-16 — Nikesh Patel — speakers: Nikesh Patel, Tom Kapoor, Peter Capaldi, Kensal Green
+- 2022-11-23 — Rose Matafeo — speakers: Rose Matafeo
+- 2022-11-16 — Nikesh Patel — speakers: Nikesh Patel, Tom Kapoor
 - 2022-11-09 — Theo James — speakers: Theo James
-- 2022-11-02 — Big Zuu — speakers: Big Zuu, George Ezra
-- 2022-10-26 — Robert De Niro, Nobu Matsuhisa and Meir Teper — speakers: Robert De Niro, Nobu Matsuhisa, Meir Teper, De Niros
-- 2022-10-19 — Baz Luhrmann — speakers: Baz Luhrmann, Moulin Rouge
+- 2022-11-02 — Big Zuu — speakers: Big Zuu Big Zuu, Big Len, Big Zu
+- 2022-10-26 — Robert De Niro, Nobu Matsuhisa and Meir Teper — speakers: Robert De Niro, Nobu Matsuhisa, Meir Teper
+- 2022-10-19 — Baz Luhrmann
 - 2022-10-12 — John Torode — speakers: John Torode
-- 2022-10-05 — Rina Sawayama — speakers: Rina Sawayama Rina Sawayama, Lady Gaga, Harry Styles
-- 2022-09-28 — Shania Twain — speakers: Harry Styles
+- 2022-10-05 — Rina Sawayama — speakers: Rina Sawayama Rina Sawayama
+- 2022-09-28 — Shania Twain — speakers: Shania Twain Summer
 - 2022-07-29 — Bonus Episode: Vick Hope — speakers: Vick Hope
 - 2022-07-27 — Table Manners Live : Question Time pt. 2 — speakers: Self Esteem, Rebecca Lucy Taylor
 - 2022-07-20 — Table Manners Live : Question Time
-- 2022-07-13 — Vanessa Feltz — speakers: Vanessa Feltz, Ms Feltz
-- 2022-07-08 — Bonus Episode: Blossoms — speakers: Spaghetti Bolognaise
-- 2022-07-06 — Julian Clary — speakers: Julian Clary, Joan Collins
-- 2022-06-29 — Self Esteem — speakers: Self Esteem, Joe Lycett
+- 2022-07-13 — Vanessa Feltz — speakers: Vanessa Feltz, Vanessa Felt
+- 2022-07-08 — Bonus Episode: Blossoms — speakers: Blossoms Serving
+- 2022-07-06 — Julian Clary — speakers: Julian Clary
+- 2022-06-29 — Self Esteem — speakers: Self Esteem
 - 2022-06-22 — Adam Kay — speakers: Adam Kay
-- 2022-06-15 — Sophie Ellis Bextor — speakers: Nanny Claire
-- 2022-06-08 — Nigel Ng — speakers: Nigel Ng, Comedian Nigel NG, Uncle Roger, Jamie Oliver
+- 2022-06-15 — Sophie Ellis Bextor — speakers: Table Manners
+- 2022-06-08 — Nigel Ng — speakers: Nigel Ng, Comedian Nigel NG
 - 2022-06-01 — Jennifer Saunders — speakers: Jennifer Saunders Ahead
-- 2022-05-31 — Bonus Episode: Jack Monroe and Nureen Glaves — speakers: Jack Monroe, Nureen Glaves, Big Jubilee Lunch
+- 2022-05-31 — Bonus Episode: Jack Monroe and Nureen Glaves — speakers: Jack Monroe, Nureen Glaves
 - 2022-05-25 — Mabel
-- 2022-05-18 — LA Special - Christine Quinn — speakers: Christine Quinn
-- 2022-05-11 — LA Special - Nancy Silverton — speakers: Nancy Silverton, Pizzeria Mozza
+- 2022-05-18 — LA Special - Christine Quinn
+- 2022-05-11 — LA Special - Nancy Silverton — speakers: Nancy Silverton
 - 2022-05-04 — LA Special - Jordan Firstman — speakers: Jordan Firstman
 - 2022-04-27 — LA Special - Tony Hawk — speakers: Tony Hawk
-- 2022-04-25 — Taking flight to La La Land — speakers: Virgin Atlantic
-- 2022-04-20 — Thomasina Miers — speakers: Thomasina Miers, Wonder Woman
+- 2022-04-25 — Taking flight to La La Land
+- 2022-04-20 — Thomasina Miers — speakers: Thomasina Miers
 - 2022-04-13 — Jamie Demetriou — speakers: Jamie Demetriou
 - 2022-04-06 — Diplo
-- 2022-03-30 — Michael Bublé — speakers: Michael Bublé, Michael Buble
-- 2022-03-28 — Bonus Episode: Candice Brathwaite — speakers: Candice Brathwaite AD, Candice Brathwaite
-- 2022-03-23 — Olia Hercules & Alissa Timoshkina — speakers: Olia Hercules, Alissa Timoshkina
+- 2022-03-30 — Michael Bublé — speakers: Michael Bublé
+- 2022-03-28 — Bonus Episode: Candice Brathwaite — speakers: Candice Brathwaite AD
+- 2022-03-23 — Olia Hercules & Alissa Timoshkina — speakers: Olia Hercules
 - 2022-03-16 — Joanna Lumley — speakers: Joanna Lumley
-- 2022-03-09 — Martin Compston — speakers: Martin Compston Bleary, Steve Arnott, Martin Compston
-- 2022-03-02 — Elvis Costello — speakers: Elvis Costello, Diana Krall
+- 2022-03-09 — Martin Compston — speakers: Martin Compston Bleary, Steve Arnott
+- 2022-03-02 — Elvis Costello — speakers: Elvis Costello
 - 2022-02-23 — James Nesbitt — speakers: James Nesbitt
 - 2021-12-29 — Rob Brydon — speakers: Rob Brydon
-- 2021-12-22 — Christmas Cracker - Listener Special with Joe Lycett and Nick Grimshaw — speakers: Joe Lycett, Nick Grimshaw, Xx Hosted
+- 2021-12-22 — Christmas Cracker - Listener Special with Joe Lycett and Nick Grimshaw — speakers: Joe Lycett, Nick Grimshaw
 - 2021-12-15 — Claudia Roden — speakers: Claudia Roden
 - 2021-12-08 — Elizabeth Day
 - 2021-12-01 — Max Martin — speakers: Max Martin
-- 2021-11-24 — Billy Porter — speakers: Billy Porter, Jade Thirlwall
+- 2021-11-24 — Billy Porter — speakers: Billy Porter
 - 2021-11-17 — Reggie Yates
-- 2021-11-12 — Bonus Episode - Laura Jackson — speakers: Laura Jackson
+- 2021-11-12 — Bonus Episode - Laura Jackson
 - 2021-11-10 — Emily Ratajkowski — speakers: Emily Ratajkowski Zooming, Emily Ratajkowski
-- 2021-11-03 — Jade Thirlwall
-- 2021-10-27 — Jack, Hilary & Michael Whitehall — speakers: Hilary Whitehall, Food Slut
-- 2021-10-20 — Tom Daley — speakers: Tom Daley, Lennie Ware
-- 2021-10-13 — Stanley Tucci — speakers: Stanley Tucci, Meryl Streep
-- 2021-09-01 — Extra Helpings 2 — speakers: Dan Levy, Tom Jones, Dawn French, Angela Hartnett, Mary McCartney
-- 2021-08-25 — Extra Helpings 1 — speakers: Dolly Parton, Michael McIntyre
-- 2021-08-18 — Munya Chawawa — speakers: Munya Chawawa, Watermelon Daiquiris
-- 2021-08-11 — Ed Sheeran — speakers: Ed Sheeran, Gorgeous Ed
+- 2021-11-03 — Jade Thirlwall — speakers: Jade Thirlwal
+- 2021-10-27 — Jack, Hilary & Michael Whitehall — speakers: Hilary Whitehall
+- 2021-10-20 — Tom Daley — speakers: Tom Daley
+- 2021-10-13 — Stanley Tucci — speakers: Stanley Tucci
+- 2021-09-01 — Extra Helpings 2 — speakers: Extra Helpings
+- 2021-08-25 — Extra Helpings 1 — speakers: Extra Helpings
+- 2021-08-18 — Munya Chawawa — speakers: Munya Chawawa
+- 2021-08-11 — Ed Sheeran — speakers: Ed Sheeran
 - 2021-08-04 — Lauren Mayberry (Chvrches) — speakers: Lauren Mayberry
-- 2021-07-28 — Maisie Williams — speakers: Maisie Williams, Arya Stark, Danny Boyle
-- 2021-07-21 — Ruby Wax — speakers: Ruby Wax, Frazzled Cafe
-- 2021-07-16 — Bonus: Tom Grennan — speakers: Tom Grennan, Calvin Harris, James Bay
-- 2021-07-14 — Emerald Fennell — speakers: Emerald Fennell, Andrew Lloyd Webber
+- 2021-07-28 — Maisie Williams — speakers: Maisie Williams, Arya Stark
+- 2021-07-21 — Ruby Wax — speakers: Ruby Wax
+- 2021-07-16 — Bonus: Tom Grennan — speakers: Tom Grennan
+- 2021-07-14 — Emerald Fennell — speakers: Emerald Fennell
 - 2021-07-07 — Lianne La Havas — speakers: Lianne La Havas
-- 2021-06-30 — Annie Murphy — speakers: Annie Murphy, Alexis Rose
-- 2021-06-23 — Zac Posen — speakers: Zac Posen Zooming, Zac Posen, Naomi Campbell, Miss Piggy
+- 2021-06-30 — Annie Murphy — speakers: Annie Murphy
+- 2021-06-23 — Zac Posen — speakers: Zac Posen Zooming, Zac Posen
 - 2021-06-16 — Andrew Wong — speakers: Andrew Wong
-- 2021-06-09 — Jack and Clare Penate — speakers: Jack Peñate, Fray Bentos
+- 2021-06-09 — Jack and Clare Penate
 - 2021-06-02 — Ed Miliband — speakers: Ed Miliband
-- 2021-05-26 — Michelle Visage — speakers: Michelle Visage, Ru Paul
-- 2021-05-19 — St Vincent — speakers: St Vincent, Taylor Swift
-- 2021-05-12 — Paul and Mary McCartney — speakers: Mary McCartney, Linda McCartney
-- 2021-05-05 — Guy Garvey — speakers: Guy Garvey, bee tattoo, Joan Collins, Cafe de Nata
-- 2021-04-28 — Tom Jones — speakers: Tom Jones, Elvis Presley
-- 2021-04-21 — Laura Mvula — speakers: Laura Mvula, Pink Noise
-- 2021-04-14 — Benny Blanco — speakers: Benny Blanco, Gracie Abrams
-- 2021-04-07 — Naomi Scott — speakers: Naomi Scott, Tuna Nicoise, Bel Powley, Xx Hosted
-- 2021-03-31 — will.i.am — speakers: John Legend
-- 2021-03-24 — Jon Sopel — speakers: Jon Sopel, Holly Bush
+- 2021-05-26 — Michelle Visage — speakers: Michelle Visage
+- 2021-05-19 — St Vincent — speakers: St Vincent
+- 2021-05-12 — Paul and Mary McCartney — speakers: Mary McCartney
+- 2021-05-05 — Guy Garvey — speakers: Guy Garvey
+- 2021-04-28 — Tom Jones — speakers: Tom Jones
+- 2021-04-21 — Laura Mvula — speakers: Laura Mvula
+- 2021-04-14 — Benny Blanco — speakers: Benny Blanco
+- 2021-04-07 — Naomi Scott — speakers: Naomi Scott
+- 2021-03-31 — will.i.am
+- 2021-03-24 — Jon Sopel — speakers: Jon Sopel, Jon Sope
 - 2021-03-17 — Hannah Ware — speakers: Hannah Ware
 - 2021-03-10 — Dan Levy — speakers: Dan Levy
-- 2021-03-03 — Lydia West — speakers: Celine Dion
-- 2021-02-24 — Fearne Cotton — speakers: Greg James
-- 2021-02-17 — Andrew Lloyd Webber — speakers: Andrew Lloyd Webber, Legend Andrew Lloyd Webber, Emerald Fennell, Aunt Viola, Shirley Bassey, Joan Collins, Andrew Lloyd Webber’s Cinderella
+- 2021-03-03 — Lydia West
+- 2021-02-24 — Fearne Cotton
+- 2021-02-17 — Andrew Lloyd Webber — speakers: Andrew Lloyd Webber, Legend Andrew Lloyd Webber
 - 2021-02-10 — Jenna Coleman — speakers: Jenna Coleman
 - 2021-02-03 — Slowthai
-- 2021-01-27 — Angela Hartnett — speakers: Angela Hartnett Big week, Joe Biden, Muff Kitchen, Martha Delacey, Angela Hartnett, Gordon Ramsey
-- 2021-01-20 — Eva Longoria — speakers: Eva Longoria Back, Joe Biden, David Beckham
+- 2021-01-27 — Angela Hartnett — speakers: Angela Hartnett Big week, Muff Kitchen
+- 2021-01-20 — Eva Longoria — speakers: Eva Longoria Back
 - 2021-01-13 — Elizabeth Olsen — speakers: Elizabeth Olsen
-- 2020-12-23 — Christmas Nibbles — speakers: Mariah Carey
-- 2020-12-18 — Bonus Episode - Sam Fender — speakers: Sam Fender
+- 2020-12-23 — Christmas Nibbles — speakers: Table Manners
+- 2020-12-18 — Bonus Episode - Sam Fender
 - 2020-12-16 — Robbie Williams — speakers: Robbie Williams
 - 2020-12-09 — Gemma Arterton — speakers: Gemma Arterton
-- 2020-12-02 — Dolly Parton — speakers: Michael Buble, Whitney Houston
+- 2020-12-02 — Dolly Parton — speakers: Dolly Parton
 - 2020-11-25 — Meghan Trainor — speakers: Meghan Trainor Dialling, Meghan Trainor
-- 2020-11-18 — Yungblud — speakers: Brooklyn Beckham
-- 2020-11-11 — Simon Rogan — speakers: Simon Rogan, Prawn Saganaki
+- 2020-11-18 — Yungblud
+- 2020-11-11 — Simon Rogan — speakers: Simon Rogan
 - 2020-11-04 — Cat Deeley — speakers: Cat Deeley
-- 2020-10-28 — Shea Coulee — speakers: Shea Coulee, Ms Coulée
-- 2020-10-21 — Dawn French — speakers: Dawn French
-- 2020-10-14 — Grace Dent — speakers: Angel Delight, Sherry vinegar Pepper, vinegar Crumble
+- 2020-10-28 — Shea Coulee — speakers: Shea Coulee
+- 2020-10-21 — Dawn French
+- 2020-10-14 — Grace Dent
 - 2020-10-07 — Chris and Rosie Ramsey — speakers: Rosie Ramsey
 - 2020-09-30 — Kylie Minogue — speakers: Kylie Minogue
-- 2020-09-23 — James Bay — speakers: James Bay, Rosie Huntingdon Whiteley
+- 2020-09-23 — James Bay — speakers: James Bay
 - 2020-09-16 — Michael McIntyre — speakers: Michael McIntyre
-- 2020-09-09 — Extra Helpings ep. 2 — speakers: Extra Helpings, Aisling Bea, Jo Brand, Kiefer Sutherland, Florence Pugh, John Bishop
-- 2020-09-02 — Extra Helpings ep. 1 — speakers: Extra Helpings, Hayley Squires, Antoni Porowski, David Schwimmer, Roisin Murphy
-- 2020-08-26 — Melanie C — speakers: Sporty Spice, Tommy’s Margarita
-- 2020-08-19 — James Blunt — speakers: James Blunt, Arnold Bennett
-- 2020-08-14 — Bonus episode - Roman Kemp — speakers: Roman Kemp, George Michael
-- 2020-08-12 — Twiggy — speakers: Steve McQueen
+- 2020-09-09 — Extra Helpings ep. 2 — speakers: Extra Helpings
+- 2020-09-02 — Extra Helpings ep. 1 — speakers: Extra Helpings
+- 2020-08-26 — Melanie C — speakers: Sporty Spice
+- 2020-08-19 — James Blunt — speakers: James Blunt
+- 2020-08-14 — Bonus episode - Roman Kemp — speakers: Roman Kemp
+- 2020-08-12 — Twiggy
 - 2020-08-05 — Alanis Morissette — speakers: Alanis Morissette
 - 2020-07-31 — Ovie Soko Live From #SamsungKX
-- 2020-07-29 — Adam Lambert — speakers: Adam Lambert, Marc Bolan
+- 2020-07-29 — Adam Lambert — speakers: Adam Lambert
 - 2020-07-22 — George Alagiah — speakers: George Alagiah
-- 2020-07-15 — Jake Bugg — speakers: Jake Bugg, Noel Gallagher, Rabbit Hole
-- 2020-07-08 — Michael Sheen — speakers: Michael Sheen Tuning, theatre don, Michael Sheen, David Tennant
+- 2020-07-15 — Jake Bugg — speakers: Jake Bugg
+- 2020-07-08 — Michael Sheen — speakers: Michael Sheen Tuning
 - 2020-07-01 — David Lammy — speakers: David Lammy
 - 2020-06-26 — The Tables Have Turned with Zane Lowe — speakers: Zane Lowe
-- 2020-06-24 — Emily Eavis — speakers: Emily Eavis, Goan Curry, Chicken Matzoh
-- 2020-06-17 — Munroe Bergdorf — speakers: Munroe Bergdorf, Kate Moross, Nicki Minaj, Alice Williams Hosted
-- 2020-06-10 — Joe Lycett — speakers: Joe Lycett, Hugo Boss
-- 2020-06-03 — Homo Sapiens Podcast - Alan Cumming & Chris Sweeney — speakers: Homo Sapiens, Alan Cumming
+- 2020-06-24 — Emily Eavis — speakers: Emily Eavis
+- 2020-06-17 — Munroe Bergdorf — speakers: Munroe Bergdorf
+- 2020-06-10 — Joe Lycett — speakers: Joe Lycett
+- 2020-06-03 — Homo Sapiens Podcast - Alan Cumming & Chris Sweeney
 - 2020-05-27 — JoJo
-- 2020-05-20 — Ellie Goulding — speakers: Ellie Goulding, Alice Williams Hosted
-- 2020-05-13 — Joe Wicks — speakers: Joe Wicks, Alice Williams Hosted
-- 2020-05-06 — Florence Pugh — speakers: Florence Pugh Lockdown, Drummer Girl
+- 2020-05-20 — Ellie Goulding
+- 2020-05-13 — Joe Wicks — speakers: Joe Wicks
+- 2020-05-06 — Florence Pugh — speakers: Florence Pugh Lockdown
 - 2020-04-29 — John Legend — speakers: John Legend Zooming, John bloody Legend
-- 2020-04-22 — Josh Groban — speakers: Josh Groban, Celine Dion, Rick Rubin
+- 2020-04-22 — Josh Groban — speakers: Josh Groban
 - 2020-04-15 — Mel and Sue
-- 2020-04-08 — Emily Maitlis — speakers: Emily Maitlis, Prince Andrew
-- 2020-04-01 — Dua Lipa — speakers: Dua Lipa
+- 2020-04-08 — Emily Maitlis — speakers: Emily Maitlis
+- 2020-04-01 — Dua Lipa — speakers: Dua Lipa So
 - 2020-03-25 — Nick Grimshaw — speakers: Nick Grimshaw, Tables Manners
-- 2020-03-18 — Riz Ahmed — speakers: Riz Ahmed, Naughty Boy, Asma Khan
-- 2020-03-13 — In Conversation, live at Waterstones Piccadilly
-- 2020-03-11 — Zawe Ashton — speakers: Zawe Ashton, Charlotte Richie, Character Breakdown, Margaret Atwood
-- 2020-03-04 — Jo Brand — speakers: Jo Brand, Paul Hollywood
+- 2020-03-18 — Riz Ahmed — speakers: Riz Ahmed
+- 2020-03-13 — In Conversation, live at Waterstones Piccadilly — speakers: Waterstones Piccadilly, Table Manners
+- 2020-03-11 — Zawe Ashton — speakers: Zawe Ashton
+- 2020-03-04 — Jo Brand — speakers: Jo Brand
 - 2020-02-26 — Vanessa Williams — speakers: Vanessa Williams Legend, Vanessa Williams
 - 2020-02-19 — David Schwimmer — speakers: David Schwimmer
-- 2020-02-12 — Callum Turner — speakers: Callum Turner, Sean Emery, Frank Churchill
+- 2020-02-12 — Callum Turner — speakers: Callum Turner
 - 2020-02-05 — Aisling Bea — speakers: Aisling Bea
 - 2019-12-18 — Emilia Clarke — speakers: Emilia Clarke
-- 2019-12-11 — Jamie Oliver — speakers: Jamie Oliver, Jamie Oliver HQ
-- 2019-12-04 — Nicole Scherzinger — speakers: Nicole Scherzinger, John Lewis
-- 2019-11-27 — Rick Astley — speakers: Rick Astley, Mary Berry, Dave Grohl
-- 2019-11-20 — Haim — speakers: Alice Williams Hosted
-- 2019-11-13 — Luke Evans — speakers: Luke Evans, Dalston Doner
-- 2019-11-06 — Charlotte Tilbury MBE
-- 2019-10-30 — Yannis Philippakis
-- 2019-10-23 — Jess Phillips MP — speakers: Jess Phillips, Alex hid upstairs, Rhubarb Vodka, Alice Williams Hosted
-- 2019-10-16 — Liam Payne — speakers: Liam Payne, Alice Williams Hosted
-- 2019-10-09 — Antoni Porowski — speakers: Antoni Porowski, Disney Prince, Alice Williams Hosted
-- 2019-08-09 — Grace Campbell - Live from the Edinburgh Festival Fringe — speakers: Grace Campbell, Tony Blair, Jeremy Corbyn, Alice Williams Hosted
+- 2019-12-11 — Jamie Oliver — speakers: Jamie Oliver
+- 2019-12-04 — Nicole Scherzinger — speakers: Nicole Scherzinger
+- 2019-11-27 — Rick Astley — speakers: Rick Astley
+- 2019-11-20 — Haim
+- 2019-11-13 — Luke Evans — speakers: Luke Evans
+- 2019-11-06 — Charlotte Tilbury MBE — speakers: Charlotte Tilbury
+- 2019-10-30 — Yannis Philippakis — speakers: Yannis Philippakis
+- 2019-10-23 — Jess Phillips MP — speakers: Jess Phillips
+- 2019-10-16 — Liam Payne — speakers: Liam Payne
+- 2019-10-09 — Antoni Porowski — speakers: Antoni Porowski
+- 2019-08-09 — Grace Campbell - Live from the Edinburgh Festival Fringe — speakers: Grace Campbell
 - 2019-08-08 — London Hughes - Live from the Edinburgh Festival Fringe — speakers: London Hughes
-- 2019-08-07 — Heidi Regan - Live from the Edinburgh Festival Fringe — speakers: Heidi Regan, Joe Dempsie
-- 2019-07-10 — Olly Alexander — speakers: Olly Alexander, Alice Williams Hosted
-- 2019-07-03 — Deborah Frances-White — speakers: Deborah Frances-White, Albert Hall
-- 2019-06-26 — Neneh Cherry — speakers: Neneh Cherry, Ms Cherry
+- 2019-08-07 — Heidi Regan - Live from the Edinburgh Festival Fringe
+- 2019-07-10 — Olly Alexander — speakers: Olly Alexander
+- 2019-07-03 — Deborah Frances-White — speakers: Deborah Frances-White
+- 2019-06-26 — Neneh Cherry — speakers: Neneh Cherry
 - 2019-06-19 — Greg James and Bella Mackie — speakers: Greg James, Bella Mackie
-- 2019-06-12 — Richard Curtis — speakers: Richard Curtis, Comic Relief, Emma Freud
+- 2019-06-12 — Richard Curtis — speakers: Richard Curtis, Comic Relief
 - 2019-06-05 — Hayley Squires — speakers: Hayley Squires, Daniel Blake
-- 2019-05-29 — Noomi Rapace
-- 2019-05-22 — Róisín Murphy — speakers: Róisín Murphy, Darling Roisin, Ms Róisín Murphy Hosted
+- 2019-05-29 — Noomi Rapace — speakers: Noomi Rapace Super, Noomi Rapace
+- 2019-05-22 — Róisín Murphy — speakers: Róisín Murphy
 - 2019-05-15 — Raymond Blanc — speakers: Raymond Blanc
-- 2019-05-08 — Carly Rae Jepsen — speakers: Carly Rae Jepsen, homemade pasta
+- 2019-05-08 — Carly Rae Jepsen — speakers: Carly Rae Jepsen
 - 2019-05-01 — Mark Ronson — speakers: Mark Ronson
-- 2019-04-24 — Kiefer Sutherland — speakers: Kiefer Sutherland, Jack Bauer, Robert Downey Jr
-- 2019-03-06 — NYC Season - Sara Bareilles — speakers: Sara Bareilles
+- 2019-04-24 — Kiefer Sutherland — speakers: Kiefer Sutherland
+- 2019-03-06 — NYC Season - Sara Bareilles — speakers: West End
 - 2019-02-27 — NYC Season - Tom Payne — speakers: Tom Payne
-- 2019-02-20 — NYC Season - Ian Schrager — speakers: Ian Schrager, Diana Ross
-- 2019-02-13 — NYC Season - Gregory Porter — speakers: Gregory Porter, Sticky Toffee
-- 2019-02-06 — NYC Season - Samin Nosrat — speakers: Samin Nosrat
-- 2019-01-30 — NYC Season - Zachary Quinto — speakers: Zachary Quinto, Marbella Chicken
-- 2018-12-19 — John Bishop — speakers: John Bishop, Curiosity Rooms, Alice Williams Hosted
-- 2018-12-05 — Mel B — speakers: Melanie Brown, Spice Girl
-- 2018-11-28 — Sir Paul Smith — speakers: Paul Smith, Alice Williams Hosted
-- 2018-11-21 — Cariad Lloyd — speakers: Alice Williams Hosted
-- 2018-11-14 — Tim Dowling — speakers: Tim Dowling, Kathy Bates, Alice Williams Hosted
-- 2018-11-07 — Cheryl — speakers: Alice Williams Hosted
+- 2019-02-20 — NYC Season - Ian Schrager — speakers: New York Icon
+- 2019-02-13 — NYC Season - Gregory Porter — speakers: Gregory Porter
+- 2019-02-06 — NYC Season - Samin Nosrat — speakers: Samin Nosrat Beyond
+- 2019-01-30 — NYC Season - Zachary Quinto — speakers: Zachary Quinto
+- 2018-12-19 — John Bishop — speakers: John Bishop
+- 2018-12-05 — Mel B
+- 2018-11-28 — Sir Paul Smith — speakers: Paul Smith
+- 2018-11-21 — Cariad Lloyd — speakers: Cariad Lloyd Not
+- 2018-11-14 — Tim Dowling — speakers: Tim Dowling
+- 2018-11-07 — Cheryl
 - 2018-10-31 — Stefflon Don — speakers: Stefflon Don
-- 2018-10-24 — Russell Tovey — speakers: Russell Tovey, Alice Williams Hosted
-- 2018-10-17 — Dolly Alderton — speakers: Dolly Alderton, Alice Williams Hosted
-- 2018-10-10 — Nigella Lawson — speakers: Nigella Lawson, Alice Williams Hosted
-- 2018-09-05 — Best of Table Manners — speakers: Sam Smith’s Gollum, George Ezra, Stacey Dooley, Sandi Toksvig, Alice Williams Hosted
+- 2018-10-24 — Russell Tovey — speakers: Russell Tovey
+- 2018-10-17 — Dolly Alderton — speakers: Dolly Alderton
+- 2018-10-10 — Nigella Lawson — speakers: Nigella Lawson
+- 2018-09-05 — Best of Table Manners — speakers: Table Manners Whilst, Table Manners
 - 2018-08-01 — Michelle Keegan — speakers: Michelle Keegan
-- 2018-07-25 — Adam Buxton — speakers: Adam Buxton, Alice Williams Hosted
-- 2018-07-18 — Alan Carr — speakers: Alan Carr, Alice Williams Hosted
+- 2018-07-25 — Adam Buxton — speakers: Adam Buxton
+- 2018-07-18 — Alan Carr — speakers: Alan Carr
 - 2018-07-11 — Yotam Ottolenghi — speakers: Yotam Ottolenghi
 - 2018-07-04 — MIST — speakers: Coffee Patron
 - 2018-06-27 — Tom Kerridge — speakers: Tom Kerridge, Strawberry Bakewell
 - 2018-06-20 — Sadiq Khan
 - 2018-06-13 — Tracey Thorn — speakers: Tracey Thorn Tracey Thorn
-- 2018-06-06 — My Dad Wrote A Porno
-- 2018-05-30 — Randy Jackson — speakers: Randy Jackson, Mariah Carey, Simon Cowell
-- 2018-04-11 — Stacey Dooley — speakers: Stacey Dooley, Alice Williams
-- 2018-04-04 — Felix White — speakers: Felix White, Alice Williams
-- 2018-03-28 — Jay Rayner — speakers: Jay Rayner, Greg Wallace, Alice Williams
-- 2018-03-21 — Dermot O'Leary — speakers: Alice Williams
-- 2018-03-14 — George Ezra — speakers: George Ezra, Alice Williams
+- 2018-06-06 — My Dad Wrote A Porno — speakers: My Dad Wrote, Porno Alice
+- 2018-05-30 — Randy Jackson — speakers: Randy Jackson
+- 2018-04-11 — Stacey Dooley — speakers: Stacey Dooley
+- 2018-04-04 — Felix White — speakers: Felix White
+- 2018-03-28 — Jay Rayner — speakers: Jay Rayner
+- 2018-03-21 — Dermot O'Leary — speakers: Leary Oh Dermot
+- 2018-03-14 — George Ezra — speakers: George Ezra
 - 2018-03-07 — Amol Rajan — speakers: Amol Rajan
-- 2018-02-28 — Ralf Little — speakers: Royle Family, Jeremy Hunt
-- 2018-02-21 — Paloma Faith — speakers: Alice Williams Hosted
-- 2018-02-14 — Ed Sheeran — speakers: Ed Sheeran, Alice Williams
+- 2018-02-28 — Ralf Little — speakers: Ralf Little Ralf Little
+- 2018-02-21 — Paloma Faith — speakers: Paloma Faith Paloma Faith
+- 2018-02-14 — Ed Sheeran — speakers: Ed Sheeran
 - 2017-12-27 — Clara Amfo — speakers: Clara Amfo Superwoman, Clara Amfo
-- 2017-12-20 — Sandi Toksvig — speakers: Sandi Toksvig, Paul Hollywood, Alice Williams
-- 2017-12-13 — Loyle Carner — speakers: Loyle Carner, Eric Cantona
-- 2017-12-06 — Benny Blanco — speakers: Benny Blanco, Katy Perry, Ed Sheeran
+- 2017-12-20 — Sandi Toksvig — speakers: Sandi Toksvig
+- 2017-12-13 — Loyle Carner — speakers: Loyle Carner
+- 2017-12-06 — Benny Blanco — speakers: Benny Blanco
 - 2017-11-29 — Annie Mac — speakers: Annie Mac
 - 2017-11-22 — Joe Dempsie And Daniel Kaluuya — speakers: Joe Dempsie, Daniel Kaluuya
 - 2017-11-15 — Will Young And Chris Sweeney — speakers: Will Young, Chris Sweeney
-- 2017-11-08 — Sam Smith — speakers: Sam Smith
-- 2017-11-01 — Table Manners Teaser — speakers: Sam Smith, Annie Mac, Daniel Kaluuya, Joe Dempsie
+- 2017-11-08 — Sam Smith — speakers: Sam Smith, Sam Smi
+- 2017-11-01 — Table Manners Teaser — speakers: Table Manners Teaser Welcome, Table Manners

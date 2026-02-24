@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-02-24T07:16:03+00:00`
-- checked_at: `2026-02-24T07:16:03+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpFNU1USTRNems1TVRrPTo6c2F4ZXNz"`
+- fetched_at: `2026-02-24T16:14:08+00:00`
+- checked_at: `2026-02-24T16:14:08+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpFNU5ERTNPVFEzTnpVPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-02-24T07:16:03+00:00",
+  "fetched_at": "2026-02-24T16:14:08+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -33,7 +33,7 @@
       "published_at": "2026-02-24T06:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-im-not-charging-mums-vibrator-and-william-is-high-maint",
       "description": "Who's more high maintenance out of our favourite podcast pair? The boys can't quite decide in the studio as tensions run high, though they do love each other really. Elsewhere Jordan prepares to have his wisdom teeth pulled out, a G&Diva's mum has an unexpected battery-changing request and EPB shares an embarrassing story from a session in the gym - except he wasn't the one left embarrassed! Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1771941789059-0338a615-e000-4bf1-8258-6730feccb091.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69987d22240b4a2d75c71311/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BTD3kOYTV8sOvnvGhO4M07NYs4psADjamSY3XV2Rmjs",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63770832",

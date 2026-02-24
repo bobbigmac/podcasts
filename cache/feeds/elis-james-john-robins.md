@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-02-20T19:06:07+00:00`
-- checked_at: `2026-02-20T19:06:07+00:00`
-- etag: `"98214eb44d6545739b1dc18515a69dac"`
-- last_modified: `Fri, 20 Feb 2026 17:35:58 GMT`
+- fetched_at: `2026-02-24T16:14:08+00:00`
+- checked_at: `2026-02-24T16:14:08+00:00`
+- etag: `"f8598f0717102961672dbad98444a6ca"`
+- last_modified: `Tue, 24 Feb 2026 16:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-02-20T19:06:07+00:00",
+  "fetched_at": "2026-02-24T16:14:08+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,29 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "8ba616d63dc59d0e782bbf2f2b2d7d3863cef3fb",
+      "title": "#517 - A Peruvian Exit, A 14 Pocket Scenario and A Neyland in the Coffin",
+      "published_at": "2026-02-24T16:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002rqs9",
+      "description": "Elis has Barrel of Eggs’ed it. Or more accurately, Isy has. The new car has met its match in the form of inner-London carpark tight corners. But for a show that holds content on the highest pedestal possible, this can only be seen as a good thing. Not only has Elis got a damaged car, but he also has a damaged connection rate in the Cymru Connection. Can youth-based listener Holly be the ticket Elis needs to do a three-point turn and drive straight up Success Alley? Elsewhere there’s an abundance of fun as both Benjamin Partridge and Lou Sanders give their two cents on hot air balloons and the glowing-up of Elis James respectively, John does some winning and losing, and a trip to the sound proof booth causes Elis to do some very strange things… Keep watering the soil of content by sending in your fantastic correspondence to elisandjohn@bbc.co.uk.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n2z36m.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75792000",
+      "itunes_duration": "4737",
+      "speakers": [
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "exit",
+        "pocket",
+        "scenario",
+        "neyland",
+        "coffin"
+      ]
+    },
     {
       "key": "3a15b04827f7660731c81b8d8ada8cf3bb54573b",
       "title": "#516 - Master of The Memoir, French Flag Fancy and I Am Full of Eggs",
@@ -41,8 +64,9 @@
       "enclosure_length": "57600000",
       "itunes_duration": "3600",
       "speakers": [
-        "Dr Loevenbruck",
-        "Producer Michael",
+        "French Flag Fancy",
+        "Am Full",
+        "Melvin Brain",
         "Elis James",
         "John Robins"
       ],
@@ -66,12 +90,6 @@
       "enclosure_length": "60496000",
       "itunes_duration": "3781",
       "speakers": [
-        "John Ford",
-        "James Cameron",
-        "Frank Zappa",
-        "Snoop Dogg",
-        "Drs Chris",
-        "Xand van Tulleken",
         "Elis James",
         "John Robins"
       ],
@@ -93,7 +111,6 @@
       "enclosure_length": "50528000",
       "itunes_duration": "3158",
       "speakers": [
-        "Mad Dads",
         "Elis James",
         "John Robins"
       ],
@@ -144,8 +161,6 @@
       "itunes_duration": "3613",
       "speakers": [
         "Clown Stance",
-        "Larry Leasehead",
-        "Simon Secondhand",
         "Elis James",
         "John Robins"
       ],
@@ -214,6 +229,9 @@
       "enclosure_length": "56736000",
       "itunes_duration": "3546",
       "speakers": [
+        "Cognitive Incline",
+        "Rarest Goose",
+        "Caernarfon Heritage Steam Train",
         "Elis James",
         "John Robins"
       ],
@@ -287,7 +305,6 @@
       "enclosure_length": "60544000",
       "itunes_duration": "3784",
       "speakers": [
-        "Haslett Dbe",
         "Elis James",
         "John Robins"
       ],
@@ -332,10 +349,6 @@
       "itunes_duration": "3320",
       "speakers": [
         "Johnny JR",
-        "Ben Parkes",
-        "John hack",
-        "Godspeed Ben",
-        "Mad Daddery",
         "Elis James",
         "John Robins"
       ],
@@ -381,11 +394,6 @@
       "enclosure_length": "72032000",
       "itunes_duration": "4502",
       "speakers": [
-        "Andy Zaltzman",
-        "Statman Ross",
-        "John’s Made Up",
-        "Roger Federer",
-        "Mario Kart",
         "Elis James",
         "John Robins"
       ],
@@ -410,9 +418,6 @@
       "enclosure_length": "61248000",
       "itunes_duration": "3828",
       "speakers": [
-        "Tim Key",
-        "John snub",
-        "James Acaster",
         "Elis James",
         "John Robins"
       ],
@@ -433,10 +438,6 @@
       "itunes_duration": "4899",
       "speakers": [
         "John’s Christmas Cracker Put",
-        "John’s Christmas Cracker",
-        "Tom Finney",
-        "Mad Daddery",
-        "Mark Kermode",
         "Elis James",
         "John Robins"
       ],
@@ -505,8 +506,6 @@
       "enclosure_length": "60032000",
       "itunes_duration": "3752",
       "speakers": [
-        "Craig Bellamy",
-        "Noel Edmonds",
         "Elis James",
         "John Robins"
       ],
@@ -531,7 +530,6 @@
       "enclosure_length": "75856000",
       "itunes_duration": "4741",
       "speakers": [
-        "Noel Edmonds",
         "Elis James",
         "John Robins"
       ],
@@ -554,8 +552,6 @@
       "enclosure_length": "54000000",
       "itunes_duration": "3375",
       "speakers": [
-        "Producer Dave",
-        "Brian Eno",
         "Elis James",
         "John Robins"
       ],
@@ -625,9 +621,8 @@
       "itunes_duration": "5073",
       "speakers": [
         "Ania Magliano",
-        "Johnny JR",
-        "John Robins",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "transit",
@@ -649,8 +644,9 @@
       "enclosure_length": "62560000",
       "itunes_duration": "3910",
       "speakers": [
-        "John Robins",
-        "Elis James"
+        "Downing Street",
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "downing",
@@ -671,7 +667,6 @@
       "itunes_duration": "4403",
       "speakers": [
         "Tom Rosenthal",
-        "James Milner",
         "Elis James",
         "John Robins"
       ],
@@ -765,8 +760,9 @@
       "enclosure_length": "72160000",
       "itunes_duration": "4510",
       "speakers": [
+        "Low Today",
+        "Cymru Connector",
         "Elis James",
-        "Will Elis",
         "John Robins"
       ],
       "topics": [
@@ -786,6 +782,7 @@
       "enclosure_length": "63344000",
       "itunes_duration": "3959",
       "speakers": [
+        "Promoting Crispin",
         "Elis James",
         "John Robins"
       ],
@@ -830,8 +827,6 @@
       "itunes_duration": "3322",
       "speakers": [
         "Adrian’s Chipper",
-        "Sad Van",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -855,8 +850,6 @@
       "enclosure_length": "63856000",
       "itunes_duration": "3991",
       "speakers": [
-        "Sad Van",
-        "John’s Road",
         "Elis James",
         "John Robins"
       ],
@@ -901,7 +894,8 @@
       "enclosure_length": "61024000",
       "itunes_duration": "3814",
       "speakers": [
-        "Brian May",
+        "Hot Trees",
+        "Exhaustion Tears",
         "Elis James",
         "John Robins"
       ],
@@ -950,7 +944,6 @@
       "itunes_duration": "4058",
       "speakers": [
         "Curry Pyjamas",
-        "Dave Masterman",
         "Elis James",
         "John Robins"
       ],
@@ -973,7 +966,6 @@
       "enclosure_length": "48720000",
       "itunes_duration": "3045",
       "speakers": [
-        "John challenges Elis",
         "Elis James",
         "John Robins"
       ],
@@ -1073,8 +1065,8 @@
         "James Acaster",
         "Sad Van",
         "Anne Tuna",
-        "John Robins",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "james",
@@ -1118,7 +1110,6 @@
       "enclosure_length": "62688000",
       "itunes_duration": "3918",
       "speakers": [
-        "Lou Reed’s Transformer",
         "Elis James",
         "John Robins"
       ],
@@ -1198,7 +1189,6 @@
       "itunes_duration": "3290",
       "speakers": [
         "Elis James",
-        "Liam Gallagher",
         "John Robins"
       ],
       "topics": [
@@ -1223,11 +1213,6 @@
       "itunes_duration": "3576",
       "speakers": [
         "Toddler Watson",
-        "Sherlock Robins",
-        "Producer Dave",
-        "Johnny JR",
-        "Elsewhere John",
-        "Bee Bee Cee Sounds",
         "Elis James",
         "John Robins"
       ],
@@ -1252,7 +1237,6 @@
       "enclosure_length": "68288000",
       "itunes_duration": "4268",
       "speakers": [
-        "Martin Lewis",
         "Elis James",
         "John Robins"
       ],
@@ -1277,7 +1261,8 @@
       "enclosure_length": "48384000",
       "itunes_duration": "3024",
       "speakers": [
-        "Scatman John",
+        "Mr Headinhands",
+        "My Instagram Elis",
         "Elis James",
         "John Robins"
       ],
@@ -1301,7 +1286,6 @@
       "enclosure_length": "59824000",
       "itunes_duration": "3739",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -1327,7 +1311,6 @@
       "itunes_duration": "3737",
       "speakers": [
         "Bin Bag",
-        "Plus Elis",
         "Elis James",
         "John Robins"
       ],
@@ -1350,9 +1333,8 @@
       "enclosure_length": "69584000",
       "itunes_duration": "4349",
       "speakers": [
-        "John Robins",
-        "DI Robbyns",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "burger",
@@ -1374,7 +1356,9 @@
       "enclosure_length": "59232000",
       "itunes_duration": "3702",
       "speakers": [
-        "Luke McQueen",
+        "Man City",
+        "Back Four",
+        "Wild West",
         "Elis James",
         "John Robins"
       ],
@@ -1398,7 +1382,6 @@
       "itunes_duration": "3663",
       "speakers": [
         "John yearns",
-        "Thankfully Elis",
         "Elis James",
         "John Robins"
       ],
@@ -1424,10 +1407,7 @@
       "enclosure_length": "51632000",
       "itunes_duration": "3227",
       "speakers": [
-        "Will Liam",
-        "Champagne Supernova",
-        "Elis’s Made Up Games",
-        "Mad Dad",
+        "Will Li",
         "Elis James",
         "John Robins"
       ],
@@ -1482,7 +1462,6 @@
       "speakers": [
         "Squire Dave",
         "Producer Dave",
-        "Danny Champion",
         "Elis James",
         "John Robins"
       ],
@@ -1505,7 +1484,9 @@
       "enclosure_length": "55552000",
       "itunes_duration": "3472",
       "speakers": [
-        "Mad Daddery",
+        "Mad Foxes",
+        "Papa Podium",
+        "Rhodris Elis",
         "Elis James",
         "John Robins"
       ],
@@ -1529,7 +1510,6 @@
       "itunes_duration": "2606",
       "speakers": [
         "Warm Panic",
-        "Maisie Adam",
         "Elis James",
         "John Robins"
       ],
@@ -1553,7 +1533,6 @@
       "enclosure_length": "50000000",
       "itunes_duration": "3125",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -1574,9 +1553,6 @@
       "enclosure_length": "48704000",
       "itunes_duration": "3044",
       "speakers": [
-        "Peter Andre",
-        "Producer Dave",
-        "Maisie Adam",
         "Elis James",
         "John Robins"
       ],
@@ -1599,7 +1575,7 @@
       "enclosure_length": "55824000",
       "itunes_duration": "3489",
       "speakers": [
-        "Can Elis",
+        "Eggs After",
         "Elis James",
         "John Robins"
       ],
@@ -1642,8 +1618,8 @@
       "enclosure_length": "69376000",
       "itunes_duration": "4336",
       "speakers": [
-        "Producer Dave",
-        "Harold Wilson",
+        "Backing Framed Content",
+        "Compliance Form",
         "Elis James",
         "John Robins"
       ],
@@ -1669,9 +1645,6 @@
       "itunes_duration": "3955",
       "speakers": [
         "Elis James",
-        "Olivia Rodrigo",
-        "Adrian Chiles",
-        "DI Robbyns",
         "John Robins"
       ],
       "topics": [
@@ -1694,9 +1667,8 @@
       "enclosure_length": "59840000",
       "itunes_duration": "3740",
       "speakers": [
-        "Lance Armstrong",
-        "Producer Dave",
-        "William Hague",
+        "Doob Monsters",
+        "Know Hague There",
         "Elis James",
         "John Robins"
       ],
@@ -1721,7 +1693,6 @@
       "itunes_duration": "3362",
       "speakers": [
         "Bin Gear",
-        "DI Robbyns",
         "Elis James",
         "John Robins"
       ],
@@ -1746,7 +1717,6 @@
       "itunes_duration": "4625",
       "speakers": [
         "Bowie Crocs",
-        "Alan Howard",
         "Elis James",
         "John Robins"
       ],
@@ -1773,9 +1743,6 @@
       "enclosure_length": "55392000",
       "itunes_duration": "3462",
       "speakers": [
-        "He’s Colin",
-        "Johnny JR",
-        "John Wins Again",
         "Elis James",
         "John Robins"
       ],
@@ -1846,7 +1813,6 @@
       "itunes_duration": "3027",
       "speakers": [
         "Rick Stein",
-        "George Egg",
         "Elis James",
         "John Robins"
       ],
@@ -1896,8 +1862,6 @@
       "itunes_duration": "3789",
       "speakers": [
         "Producer Dave’s Handsome",
-        "Producer Dave",
-        "Mad Dads",
         "Elis James",
         "John Robins"
       ],
@@ -1924,8 +1888,7 @@
       "enclosure_length": "52736000",
       "itunes_duration": "3296",
       "speakers": [
-        "Hugh Grant",
-        "Ken Clarke",
+        "Thornbury There",
         "Elis James",
         "John Robins"
       ],
@@ -1973,8 +1936,6 @@
       "itunes_duration": "3220",
       "speakers": [
         "John Robins",
-        "Annie McGrath",
-        "Rick Edwards",
         "Elis James"
       ],
       "topics": [
@@ -1999,9 +1960,6 @@
       "itunes_duration": "4274",
       "speakers": [
         "John Robins Ltd",
-        "Johnny JR",
-        "Haile Gebrselassie",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -2026,8 +1984,6 @@
       "speakers": [
         "Cannellini Alley",
         "John Robins",
-        "Johnny JR",
-        "Kevin de Bruyne",
         "Elis James"
       ],
       "topics": [
@@ -2053,7 +2009,6 @@
       "speakers": [
         "Spikey Mike",
         "Elis James",
-        "Adel Taraabt",
         "John Robins"
       ],
       "topics": [
@@ -2097,7 +2052,6 @@
       "itunes_duration": "4022",
       "speakers": [
         "Intro Sequels",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -2148,8 +2102,6 @@
       "enclosure_length": "78880000",
       "itunes_duration": "4930",
       "speakers": [
-        "Johnny JR",
-        "Andy Murray",
         "Elis James",
         "John Robins"
       ],
@@ -2173,8 +2125,7 @@
       "enclosure_length": "56032000",
       "itunes_duration": "3502",
       "speakers": [
-        "Producer Dave",
-        "John No One Else",
+        "John ea",
         "Elis James",
         "John Robins"
       ],
@@ -2197,8 +2148,6 @@
       "itunes_duration": "4402",
       "speakers": [
         "Harriet Kemsley Acceptance",
-        "Harriet Kemsley",
-        "John Wins Again",
         "Elis James",
         "John Robins"
       ],
@@ -2221,7 +2170,6 @@
       "itunes_duration": "2960",
       "speakers": [
         "Producer Dave",
-        "Mad Dads",
         "Elis James",
         "John Robins"
       ],
@@ -2289,7 +2237,6 @@
       "itunes_duration": "3753",
       "speakers": [
         "Producer Dave",
-        "Tim Davie",
         "Elis James",
         "John Robins"
       ],
@@ -2312,6 +2259,8 @@
       "enclosure_length": "45264000",
       "itunes_duration": "2829",
       "speakers": [
+        "Gareth Guffer",
+        "Dune July",
         "Elis James",
         "John Robins"
       ],
@@ -2362,7 +2311,6 @@
       "itunes_duration": "3068",
       "speakers": [
         "Clentin Coins",
-        "Plus Elis",
         "Elis James",
         "John Robins"
       ],
@@ -2387,7 +2335,6 @@
       "itunes_duration": "4025",
       "speakers": [
         "John Robins",
-        "Plus Elis",
         "Elis James"
       ],
       "topics": [
@@ -2412,9 +2359,10 @@
       "enclosure_length": "66528000",
       "itunes_duration": "4158",
       "speakers": [
-        "Van Morrison",
-        "John Robins",
-        "Elis James"
+        "Watching Mince Defrost",
+        "Real Time If",
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "bqwnd",
@@ -2462,7 +2410,6 @@
       "enclosure_length": "57648000",
       "itunes_duration": "3603",
       "speakers": [
-        "Van Morrison",
         "Elis James",
         "John Robins"
       ],
@@ -2487,6 +2434,7 @@
       "enclosure_length": "67040000",
       "itunes_duration": "4190",
       "speakers": [
+        "Wales Today",
         "Elis James",
         "John Robins"
       ],
@@ -2511,7 +2459,6 @@
       "itunes_duration": "3604",
       "speakers": [
         "John Robins",
-        "Johnny JR Robins",
         "Elis James"
       ],
       "topics": [
@@ -2533,8 +2480,6 @@
       "enclosure_length": "64000000",
       "itunes_duration": "4000",
       "speakers": [
-        "Jilly Cooper",
-        "Bob Cratchit",
         "Elis James",
         "John Robins"
       ],
@@ -2610,7 +2555,6 @@
       "itunes_duration": "4198",
       "speakers": [
         "Producer Dave",
-        "John’s Love Heart",
         "Elis James",
         "John Robins"
       ],
@@ -2635,9 +2579,8 @@
       "speakers": [
         "John Tomorrow",
         "Richard Herring",
-        "John Robins",
-        "Tim Key",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "nepo",
@@ -2665,7 +2608,6 @@
         "John Goes",
         "Producer Dave",
         "Johnny JR",
-        "Mad Dad",
         "Elis James",
         "John Robins"
       ],
@@ -2687,8 +2629,9 @@
       "enclosure_length": "82224000",
       "itunes_duration": "5139",
       "speakers": [
-        "John Robins",
-        "Elis James"
+        "Red Peppards",
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "project",
@@ -2708,8 +2651,9 @@
       "enclosure_length": "67344000",
       "itunes_duration": "4209",
       "speakers": [
-        "Emperor Robins",
-        "Sounds Bites",
+        "Boring Moons",
+        "Germans Don",
+        "Jumpy Some",
         "Elis James",
         "John Robins"
       ],
@@ -2756,8 +2700,9 @@
       "enclosure_length": "58320000",
       "itunes_duration": "3645",
       "speakers": [
-        "Johnny JR",
-        "Hercule Poirot",
+        "My Integrity",
+        "Million Pounds",
+        "Why Can",
         "Elis James",
         "John Robins"
       ],
@@ -2801,6 +2746,8 @@
       "enclosure_length": "57376000",
       "itunes_duration": "3586",
       "speakers": [
+        "Great Flanks",
+        "My Own Mind Akin",
         "Elis James",
         "John Robins"
       ],
@@ -2824,7 +2771,6 @@
       "enclosure_length": "71552000",
       "itunes_duration": "4472",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -2847,7 +2793,6 @@
       "itunes_duration": "3095",
       "speakers": [
         "John Robins",
-        "Mad Dads",
         "Elis James"
       ],
       "topics": [
@@ -2898,7 +2843,6 @@
       "speakers": [
         "Pad Thai",
         "Johnny JR",
-        "Poor Elis",
         "Elis James",
         "John Robins"
       ],
@@ -2923,8 +2867,7 @@
       "itunes_duration": "4047",
       "speakers": [
         "Elis James",
-        "John Robins",
-        "Tony Blackburn"
+        "John Robins"
       ],
       "topics": [
         "great",
@@ -2944,7 +2887,6 @@
       "itunes_duration": "4534",
       "speakers": [
         "Paul McCartney",
-        "Luckily John",
         "Elis James",
         "John Robins"
       ],
@@ -2971,8 +2913,6 @@
       "speakers": [
         "John Smash",
         "John’s Big Supper",
-        "Producer Dave",
-        "Eliud Kipchoge",
         "Elis James",
         "John Robins"
       ],
@@ -2998,7 +2938,6 @@
       "itunes_duration": "3991",
       "speakers": [
         "Boxing Day",
-        "John come armed",
         "Elis James",
         "John Robins"
       ],
@@ -3023,9 +2962,6 @@
       "itunes_duration": "3879",
       "speakers": [
         "John’s Christmas Cracker",
-        "Jesus than Elis",
-        "Producer Dave",
-        "John North Pole",
         "Elis James",
         "John Robins"
       ],
@@ -3048,7 +2984,6 @@
       "enclosure_length": "59232000",
       "itunes_duration": "3702",
       "speakers": [
-        "Tim Davie",
         "Elis James",
         "John Robins"
       ],
@@ -3074,6 +3009,8 @@
       "enclosure_length": "58704000",
       "itunes_duration": "3669",
       "speakers": [
+        "Not Letting Down",
+        "Sophie Duker",
         "Elis James",
         "John Robins"
       ],
@@ -3097,7 +3034,6 @@
       "speakers": [
         "Perpetual Tennis",
         "Elis James",
-        "DI Robbyns",
         "John Robins"
       ],
       "topics": [
@@ -3142,8 +3078,7 @@
       "enclosure_length": "68768000",
       "itunes_duration": "4298",
       "speakers": [
-        "Dua Lipa",
-        "Burry Port",
+        "Big Leg",
         "Elis James",
         "John Robins"
       ],
@@ -3166,6 +3101,7 @@
       "enclosure_length": "62592000",
       "itunes_duration": "3912",
       "speakers": [
+        "Sounds Like My Love",
         "Elis James",
         "John Robins"
       ],
@@ -3188,8 +3124,8 @@
       "enclosure_length": "61024000",
       "itunes_duration": "3814",
       "speakers": [
-        "John Robins",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "neil",
@@ -3213,7 +3149,6 @@
       "speakers": [
         "Going Gallagher",
         "Bat Signal",
-        "Zane Lowe",
         "Elis James",
         "John Robins"
       ],
@@ -3239,7 +3174,6 @@
       "itunes_duration": "4294",
       "speakers": [
         "Producer Dave",
-        "Andy Zaltzman",
         "Elis James",
         "John Robins"
       ],
@@ -3264,6 +3198,8 @@
       "enclosure_length": "50624000",
       "itunes_duration": "3164",
       "speakers": [
+        "Short Tempered Cyborgs",
+        "All Time",
         "Elis James",
         "John Robins"
       ],
@@ -3289,8 +3225,9 @@
       "enclosure_length": "62640000",
       "itunes_duration": "3915",
       "speakers": [
-        "John Robins",
-        "Elis James"
+        "Banter Zone Jet Lag",
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "ballon",
@@ -3311,8 +3248,8 @@
       "enclosure_length": "49440000",
       "itunes_duration": "3090",
       "speakers": [
-        "Lasha Talakhadze",
-        "Matt Chorley",
+        "Spooooky Intimate Bum Procedures",
+        "Same Postcode Different Houses",
         "Elis James",
         "John Robins"
       ],
@@ -3338,6 +3275,9 @@
       "enclosure_length": "63824000",
       "itunes_duration": "3989",
       "speakers": [
+        "Talentless Forsyth",
+        "Bye Bye Mr Audio",
+        "Hello Mr Saturday Night",
         "Elis James",
         "John Robins"
       ],
@@ -3363,10 +3303,9 @@
       "enclosure_length": "69760000",
       "itunes_duration": "4360",
       "speakers": [
-        "John Robins",
-        "Johnny JR",
-        "Michael Palin",
-        "Elis James"
+        "Stansbie Drink",
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "lord",
@@ -3387,9 +3326,6 @@
       "itunes_duration": "3669",
       "speakers": [
         "James McAvoy",
-        "Welsh Elis",
-        "English Elis",
-        "Tim Davie’s Calippo",
         "Elis James",
         "John Robins"
       ],
@@ -3414,10 +3350,6 @@
       "itunes_duration": "3653",
       "speakers": [
         "Gatwick Fresh",
-        "Johnny JR",
-        "John Decathlon",
-        "Jessica Ennis-Hill",
-        "Daley Thompson",
         "Elis James",
         "John Robins"
       ],
@@ -3442,8 +3374,6 @@
       "itunes_duration": "3413",
       "speakers": [
         "Ania Magliano",
-        "Tom Rosenthal",
-        "John’s Big Social Week",
         "Elis James",
         "John Robins"
       ],
@@ -3468,7 +3398,6 @@
       "speakers": [
         "Producer Dave",
         "George Orwell",
-        "Dave Masterman",
         "Elis James",
         "John Robins"
       ],
@@ -3490,6 +3419,7 @@
       "enclosure_length": "76592000",
       "itunes_duration": "4787",
       "speakers": [
+        "comedy ch",
         "Elis James",
         "John Robins"
       ],
@@ -3515,8 +3445,7 @@
       "itunes_duration": "4120",
       "speakers": [
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "dust",
@@ -3610,8 +3539,6 @@
       "enclosure_length": "61808000",
       "itunes_duration": "3863",
       "speakers": [
-        "Stuart Pearce",
-        "Joe Royle",
         "Elis James",
         "John Robins"
       ],
@@ -3638,7 +3565,6 @@
       "itunes_duration": "4528",
       "speakers": [
         "Sexier Welshman",
-        "David O’Doherty",
         "Elis James",
         "John Robins"
       ],
@@ -3661,7 +3587,9 @@
       "enclosure_length": "68624000",
       "itunes_duration": "4289",
       "speakers": [
-        "Producer Dave",
+        "Hot Lung",
+        "Busking Medieval English",
+        "Every Hour",
         "Elis James",
         "John Robins"
       ],
@@ -3689,6 +3617,8 @@
       "enclosure_length": "64592000",
       "itunes_duration": "4037",
       "speakers": [
+        "Grown Men",
+        "Oh Really Fennel",
         "Elis James",
         "John Robins"
       ],
@@ -3731,7 +3661,6 @@
       "itunes_duration": "5015",
       "speakers": [
         "Phil Wang",
-        "Elsewhere Elis",
         "Elis James",
         "John Robins"
       ],
@@ -3756,8 +3685,6 @@
       "itunes_duration": "3765",
       "speakers": [
         "Greg James",
-        "Producer Dave",
-        "Elsewhere Elis",
         "Elis James",
         "John Robins"
       ],
@@ -3784,7 +3711,6 @@
       "itunes_duration": "3092",
       "speakers": [
         "Backing Bellingham",
-        "Noel Gallagher",
         "Elis James",
         "John Robins"
       ],
@@ -3807,7 +3733,6 @@
       "itunes_duration": "2664",
       "speakers": [
         "Spike McSpike",
-        "Annie McGrath",
         "Elis James",
         "John Robins"
       ],
@@ -3861,7 +3786,6 @@
       "itunes_duration": "4307",
       "speakers": [
         "Classic Gag Churners",
-        "Ivo Graham",
         "Elis James",
         "John Robins"
       ],
@@ -3909,7 +3833,6 @@
       "itunes_duration": "3647",
       "speakers": [
         "Jimmy Grief",
-        "Leon Britton",
         "Elis James",
         "John Robins"
       ],
@@ -3956,7 +3879,6 @@
       "itunes_duration": "4081",
       "speakers": [
         "Melton Mowbray",
-        "Samuel Pepys",
         "Elis James",
         "John Robins"
       ],
@@ -4000,8 +3922,8 @@
       "enclosure_length": "59888000",
       "itunes_duration": "3743",
       "speakers": [
+        "Minute Curry",
         "Elis James",
-        "Russell Howard",
         "John Robins"
       ],
       "topics": [
@@ -4052,6 +3974,8 @@
       "enclosure_length": "54160000",
       "itunes_duration": "3385",
       "speakers": [
+        "Digital Bum Examination",
+        "Weeks Off",
         "Elis James",
         "John Robins"
       ],
@@ -4074,8 +3998,7 @@
       "enclosure_length": "60192000",
       "itunes_duration": "3762",
       "speakers": [
-        "Producer Dave",
-        "Elis James Welsh",
+        "Six Figure Per Month",
         "Elis James",
         "John Robins"
       ],
@@ -4101,8 +4024,6 @@
       "speakers": [
         "Cilla Black",
         "Dave Masterman",
-        "Paul McCartney",
-        "Andy Murray",
         "Elis James",
         "John Robins"
       ],
@@ -4124,8 +4045,10 @@
       "enclosure_length": "67952000",
       "itunes_duration": "4247",
       "speakers": [
-        "Lib Dem MP Opik",
-        "Producer Dave",
+        "Emergency Intro",
+        "Cheeky Girls",
+        "Lembit Opik",
+        "Cheeky Boys",
         "Elis James",
         "John Robins"
       ],
@@ -4150,7 +4073,6 @@
       "itunes_duration": "3633",
       "speakers": [
         "Guff Soup",
-        "Rob Auton",
         "Elis James",
         "John Robins"
       ],
@@ -4174,7 +4096,6 @@
       "enclosure_length": "69312000",
       "itunes_duration": "4332",
       "speakers": [
-        "David Bowie",
         "Elis James",
         "John Robins"
       ],
@@ -4199,8 +4120,6 @@
       "enclosure_length": "64512000",
       "itunes_duration": "4032",
       "speakers": [
-        "Dion Dublin",
-        "Chloe Petts",
         "Elis James",
         "John Robins"
       ],
@@ -4250,7 +4169,6 @@
       "enclosure_length": "76272000",
       "itunes_duration": "4767",
       "speakers": [
-        "Matthew Crosby",
         "Elis James",
         "John Robins"
       ],
@@ -4299,9 +4217,6 @@
       "enclosure_length": "55424000",
       "itunes_duration": "3464",
       "speakers": [
-        "Producer Dave",
-        "Sean Bean",
-        "St Bernard",
         "Elis James",
         "John Robins"
       ],
@@ -4329,7 +4244,6 @@
       "itunes_duration": "3786",
       "speakers": [
         "Eating Bao Buns",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -4382,7 +4296,6 @@
       "itunes_duration": "4443",
       "speakers": [
         "Dave Farce",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -4437,7 +4350,6 @@
       "itunes_duration": "4032",
       "speakers": [
         "John embark",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -4490,6 +4402,8 @@
       "enclosure_length": "57120000",
       "itunes_duration": "3570",
       "speakers": [
+        "Nethers Well",
+        "Made Up Games",
         "Elis James",
         "John Robins"
       ],
@@ -4514,9 +4428,8 @@
       "itunes_duration": "3095",
       "speakers": [
         "Cheadle Hulme",
-        "John Robins",
-        "Charlene Kaye",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "fish",
@@ -4540,9 +4453,9 @@
       "enclosure_length": "72496000",
       "itunes_duration": "4531",
       "speakers": [
-        "Taylor Swift",
-        "Johnny JR",
-        "Charlene Kaye",
+        "So Many Reasons",
+        "Not Miss",
+        "Red Breasts",
         "Elis James",
         "John Robins"
       ],
@@ -4566,6 +4479,9 @@
       "enclosure_length": "62336000",
       "itunes_duration": "3896",
       "speakers": [
+        "Mr Audio",
+        "Best Lubricant",
+        "Eat Three Curries All",
         "Elis James",
         "John Robins"
       ],
@@ -4637,7 +4553,6 @@
       "enclosure_length": "67632000",
       "itunes_duration": "4227",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -4685,7 +4600,6 @@
       "enclosure_length": "67392000",
       "itunes_duration": "4212",
       "speakers": [
-        "Taylor Swift",
         "Elis James",
         "John Robins"
       ],
@@ -4712,7 +4626,6 @@
       "itunes_duration": "3546",
       "speakers": [
         "Elis St John",
-        "gym buff",
         "Elis James",
         "John Robins"
       ],
@@ -4762,6 +4675,8 @@
       "enclosure_length": "65216000",
       "itunes_duration": "4076",
       "speakers": [
+        "Blancmange Bullying",
+        "Hate Yourself If",
         "Elis James",
         "John Robins"
       ],
@@ -4888,6 +4803,8 @@
       "enclosure_length": "73072000",
       "itunes_duration": "4567",
       "speakers": [
+        "Thank God",
+        "Years Old",
         "Elis James",
         "John Robins"
       ],
@@ -4935,7 +4852,6 @@
       "speakers": [
         "Ken Coe",
         "James Hoffmann Never",
-        "James Hoffman",
         "Elis James",
         "John Robins"
       ],
@@ -4958,7 +4874,8 @@
       "enclosure_length": "60192000",
       "itunes_duration": "3762",
       "speakers": [
-        "Producer Dave",
+        "Terrace Fashion Week",
+        "Too Much Pastry",
         "Elis James",
         "John Robins"
       ],
@@ -5053,7 +4970,6 @@
       "itunes_duration": "3318",
       "speakers": [
         "Mooning Armada",
-        "Otley Run",
         "Elis James",
         "John Robins"
       ],
@@ -5079,9 +4995,10 @@
       "enclosure_length": "76464000",
       "itunes_duration": "4779",
       "speakers": [
+        "Bonce Funk",
+        "Improving Esperanto",
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "bonce",
@@ -5175,8 +5092,7 @@
       "speakers": [
         "Content Camaraderie",
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "pleasure",
@@ -5223,8 +5139,7 @@
       "speakers": [
         "Alpha Max Force",
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "orange",
@@ -5334,9 +5249,7 @@
       "speakers": [
         "John Robins",
         "Bob Marley",
-        "Elis James",
-        "Producer Dave",
-        "Double Elis"
+        "Elis James"
       ],
       "topics": [
         "elis",
@@ -5358,9 +5271,11 @@
       "enclosure_length": "120000000",
       "itunes_duration": "7500",
       "speakers": [
+        "Robbyns Resolutions",
+        "Secret Scents",
+        "Chaff Tuesday Christmas",
         "Elis James",
-        "John Robins",
-        "DI Robbyns"
+        "John Robins"
       ],
       "topics": [
         "resolutions",
@@ -5409,11 +5324,8 @@
       "speakers": [
         "Hannon Handshakes",
         "Peak Bleak",
-        "John Robins",
-        "Neil Hannon",
-        "Producer Dave",
-        "Tony Livesey",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "grain",
@@ -5437,8 +5349,7 @@
       "speakers": [
         "Comedic Offbeatsman",
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "digital",
@@ -5464,10 +5375,7 @@
       "speakers": [
         "Lou’s Big Birthday Due",
         "Elis James",
-        "John Robins",
-        "Lou Sanders",
-        "John’s Motorway Musings",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "pylon",
@@ -5490,9 +5398,6 @@
         "Jivo Graham",
         "Ruddy Angry",
         "John Robins",
-        "Ivo Graham",
-        "Tony Livesey",
-        "Producer Dave",
         "Elis James"
       ],
       "topics": [
@@ -5517,9 +5422,6 @@
       "itunes_duration": "8289",
       "speakers": [
         "Retired Waistcoats",
-        "Producer Dave",
-        "John’s Motorway Musings",
-        "Producer Dave one",
         "Elis James",
         "John Robins"
       ],
@@ -5545,8 +5447,6 @@
       "itunes_duration": "8256",
       "speakers": [
         "Elis James",
-        "Uncle Todd",
-        "Producer Dave",
         "John Robins"
       ],
       "topics": [
@@ -5592,9 +5492,6 @@
       "itunes_duration": "7775",
       "speakers": [
         "John similar",
-        "Lou Sanders",
-        "Producer Dave",
-        "Ricky Hatton",
         "Elis James",
         "John Robins"
       ],
@@ -5618,8 +5515,7 @@
       "speakers": [
         "Jacqueline Wilson",
         "Elis James",
-        "John Robins",
-        "Ivo Graham"
+        "John Robins"
       ],
       "topics": [
         "darkness",
@@ -5642,8 +5538,6 @@
       "itunes_duration": "6339",
       "speakers": [
         "Powerful Honey",
-        "Producer Dave",
-        "Tim Buckley",
         "Elis James",
         "John Robins"
       ],
@@ -5687,7 +5581,6 @@
       "enclosure_length": "95392000",
       "itunes_duration": "5962",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -5712,6 +5605,7 @@
       "itunes_duration": "7312",
       "speakers": [
         "Elis James",
+        "John Rob",
         "John Robins"
       ],
       "topics": [
@@ -5736,7 +5630,6 @@
         "DI Dre",
         "Thought Knox",
         "Producer Dave",
-        "Robbie Knox",
         "Elis James",
         "John Robins"
       ],
@@ -5760,7 +5653,6 @@
       "itunes_duration": "7189",
       "speakers": [
         "John Robins",
-        "Lou Sanders",
         "Elis James"
       ],
       "topics": [
@@ -5785,8 +5677,6 @@
       "speakers": [
         "Seagull Supporters",
         "Johnny JR",
-        "Rob Auton",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -5811,8 +5701,6 @@
       "enclosure_length": "97040000",
       "itunes_duration": "6065",
       "speakers": [
-        "Ania Magliano",
-        "David O'Doherty",
         "Elis James",
         "John Robins"
       ],
@@ -5834,10 +5722,6 @@
       "enclosure_length": "124176000",
       "itunes_duration": "7761",
       "speakers": [
-        "Ivo Graham",
-        "Janine Harouni",
-        "Producer Dave",
-        "DI Robbyns",
         "Elis James",
         "John Robins"
       ],
@@ -5863,10 +5747,8 @@
       "itunes_duration": "7737",
       "speakers": [
         "Frank Skinner",
-        "John Robins",
-        "Producer Dave",
-        "Tony Livesey",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "minor",
@@ -5888,8 +5770,6 @@
       "enclosure_length": "119344000",
       "itunes_duration": "7459",
       "speakers": [
-        "Johnny JR",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -5912,8 +5792,6 @@
       "enclosure_length": "60560000",
       "itunes_duration": "3785",
       "speakers": [
-        "Producer Dave",
-        "Peter Beagrie",
         "Elis James",
         "John Robins"
       ],
@@ -5958,6 +5836,7 @@
       "enclosure_length": "53808000",
       "itunes_duration": "3363",
       "speakers": [
+        "Customer Condiment Control",
         "Elis James",
         "John Robins"
       ],
@@ -5980,10 +5859,6 @@
       "enclosure_length": "108192000",
       "itunes_duration": "6762",
       "speakers": [
-        "Producer Dave",
-        "DI Robbyns",
-        "Nick Wallis",
-        "Mrs Wallis",
         "Elis James",
         "John Robins"
       ],
@@ -6010,7 +5885,6 @@
       "itunes_duration": "6604",
       "speakers": [
         "Perfect Ploughmi",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -6036,8 +5910,6 @@
       "itunes_duration": "6232",
       "speakers": [
         "Precinct Penchants",
-        "Producer Dave",
-        "DI Robbyns",
         "Elis James",
         "John Robins"
       ],
@@ -6063,8 +5935,7 @@
       "itunes_duration": "7684",
       "speakers": [
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "bumbag",
@@ -6086,8 +5957,6 @@
       "enclosure_length": "121184000",
       "itunes_duration": "7574",
       "speakers": [
-        "Lou Sanders",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -6112,9 +5981,10 @@
       "enclosure_length": "130512000",
       "itunes_duration": "8157",
       "speakers": [
+        "Kwik Save Clothes",
+        "Tallinn Jokes",
+        "Broadcasting House",
         "Elis James",
-        "Producer Dave",
-        "James Bond",
         "John Robins"
       ],
       "topics": [
@@ -6163,7 +6033,7 @@
       "enclosure_length": "125024000",
       "itunes_duration": "7814",
       "speakers": [
-        "Producer Dave",
+        "Fragrant Disregard",
         "Elis James",
         "John Robins"
       ],
@@ -6188,9 +6058,6 @@
       "itunes_duration": "8966",
       "speakers": [
         "Centenary Sprinters",
-        "King Charles Iii",
-        "Union Jack",
-        "Tony Livesey",
         "Elis James",
         "John Robins"
       ],
@@ -6215,9 +6082,8 @@
       "enclosure_length": "131952000",
       "itunes_duration": "8247",
       "speakers": [
-        "John Robins",
-        "Producer Dave",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "mobility",
@@ -6266,8 +6132,6 @@
         "Atomic Bum",
         "Yo Shoeshi",
         "Elis James",
-        "Ivo Graham",
-        "Producer Dave",
         "John Robins"
       ],
       "topics": [
@@ -6289,7 +6153,6 @@
       "itunes_duration": "5904",
       "speakers": [
         "John Tax Year Calendar",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -6315,7 +6178,6 @@
       "speakers": [
         "Breaking Beale",
         "John’s Dream Seat",
-        "Burgundy Mercedes",
         "Elis James",
         "John Robins"
       ],
@@ -6342,9 +6204,6 @@
       "itunes_duration": "7345",
       "speakers": [
         "Beefcake Robins",
-        "Rick Edwards",
-        "Producer Dave",
-        "Tony Livesey",
         "Elis James",
         "John Robins"
       ],
@@ -6371,7 +6230,6 @@
       "speakers": [
         "Postcode Dave",
         "Floss Comedy",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -6396,7 +6254,6 @@
       "enclosure_length": "126832000",
       "itunes_duration": "7927",
       "speakers": [
-        "John Tax Year Calendar",
         "Elis James",
         "John Robins"
       ],
@@ -6443,7 +6300,9 @@
       "enclosure_length": "128944000",
       "itunes_duration": "8059",
       "speakers": [
-        "Producer Dave",
+        "Epsom Mad Funkers",
+        "Celestial Kick Ups",
+        "Capers Capers",
         "Elis James",
         "John Robins"
       ],
@@ -6469,11 +6328,8 @@
       "speakers": [
         "Shy Erotica",
         "Guff Complaints",
-        "Anirban Lahiri",
-        "John Robins",
-        "Comic Relief",
-        "Producer Dave",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "ftse",
@@ -6496,8 +6352,6 @@
       "itunes_duration": "8395",
       "speakers": [
         "Takeaway Tittle-Tattle",
-        "Martin Lewis",
-        "Martin Lewis Cbe",
         "Elis James",
         "John Robins"
       ],
@@ -6524,8 +6378,7 @@
       "itunes_duration": "7267",
       "speakers": [
         "Sexual Cul-De-Sacs",
-        "Producer Dave",
-        "Cheadle Hulme",
+        "Producer Dave broadcastin",
         "Elis James",
         "John Robins"
       ],
@@ -6551,7 +6404,6 @@
       "enclosure_length": "132912000",
       "itunes_duration": "8307",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -6601,7 +6453,6 @@
       "itunes_duration": "8048",
       "speakers": [
         "George Ezra",
-        "Georgie Ezra",
         "Elis James",
         "John Robins"
       ],
@@ -6652,8 +6503,6 @@
       "itunes_duration": "6308",
       "speakers": [
         "John Robins",
-        "Producer Dave",
-        "Pigeon Detectives",
         "Elis James"
       ],
       "topics": [
@@ -6676,8 +6525,7 @@
       "itunes_duration": "3832",
       "speakers": [
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "elis",
@@ -6723,9 +6571,6 @@
       "enclosure_length": "119136000",
       "itunes_duration": "7446",
       "speakers": [
-        "Bbc Bristol",
-        "Producer Dave",
-        "Roy Keane",
         "Elis James",
         "John Robins"
       ],
@@ -6775,7 +6620,6 @@
       "itunes_duration": "4749",
       "speakers": [
         "Fred Dibnah",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -6798,7 +6642,9 @@
       "enclosure_length": "53328000",
       "itunes_duration": "3333",
       "speakers": [
-        "Producer Dave",
+        "Educated Fleas",
+        "Pomegranate Fridges",
+        "World Cup",
         "Elis James",
         "John Robins"
       ],
@@ -6823,7 +6669,6 @@
       "enclosure_length": "125104000",
       "itunes_duration": "7819",
       "speakers": [
-        "Thankfully John",
         "Elis James",
         "John Robins"
       ],
@@ -6850,7 +6695,6 @@
       "itunes_duration": "7364",
       "speakers": [
         "Topknot Tony",
-        "Tony Livesey",
         "Elis James",
         "John Robins"
       ],
@@ -6875,8 +6719,6 @@
       "itunes_duration": "7288",
       "speakers": [
         "Pick Ye Candles",
-        "Producer Dave",
-        "Squandering Extravagance",
         "Elis James",
         "John Robins"
       ],
@@ -6923,7 +6765,6 @@
       "enclosure_length": "100048000",
       "itunes_duration": "6253",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -6948,8 +6789,6 @@
       "enclosure_length": "74688000",
       "itunes_duration": "4668",
       "speakers": [
-        "Producer Dave",
-        "Elton John",
         "Elis James",
         "John Robins"
       ],
@@ -6973,11 +6812,8 @@
       "enclosure_length": "127616000",
       "itunes_duration": "7976",
       "speakers": [
-        "Ivo Graham",
         "Elis James",
-        "John Robins",
-        "Producer Dave",
-        "Tony Livesey"
+        "John Robins"
       ],
       "topics": [
         "lightning",
@@ -6998,8 +6834,6 @@
       "itunes_duration": "7400",
       "speakers": [
         "Elis James",
-        "Ivo Graham",
-        "Producer Dave Nearly",
         "John Robins"
       ],
       "topics": [
@@ -7023,9 +6857,10 @@
       "enclosure_length": "125632000",
       "itunes_duration": "7852",
       "speakers": [
-        "John Robins",
-        "Tony Livesey",
-        "Elis James"
+        "Party Squirrels",
+        "United Kingdom",
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "clown",
@@ -7048,7 +6883,6 @@
       "speakers": [
         "John Robins",
         "Producer Dave",
-        "Glenn Moore",
         "Elis James"
       ],
       "topics": [
@@ -7070,7 +6904,6 @@
       "itunes_duration": "6707",
       "speakers": [
         "Digit Wilson",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7094,7 +6927,6 @@
       "itunes_duration": "7790",
       "speakers": [
         "Tea Bag Trunks",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7118,8 +6950,6 @@
       "speakers": [
         "Pasty Pain",
         "Stinky Sauntering John",
-        "Producer Dave",
-        "Matt Forde",
         "Elis James",
         "John Robins"
       ],
@@ -7143,7 +6973,7 @@
       "enclosure_length": "109872000",
       "itunes_duration": "6867",
       "speakers": [
-        "Producer Dave",
+        "Producer Dave presen",
         "Elis James",
         "John Robins"
       ],
@@ -7170,9 +7000,6 @@
       "itunes_duration": "6259",
       "speakers": [
         "Ingleby Greenhow",
-        "Producer Dave",
-        "Rob Auton",
-        "John’s Edinburgh",
         "Elis James",
         "John Robins"
       ],
@@ -7196,9 +7023,6 @@
       "itunes_duration": "7485",
       "speakers": [
         "John Robins",
-        "Producer Dave",
-        "Richard Herring",
-        "Tony Livesey",
         "Elis James"
       ],
       "topics": [
@@ -7221,7 +7045,6 @@
       "enclosure_length": "114752000",
       "itunes_duration": "7172",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7248,7 +7071,6 @@
         "Ellen White",
         "Lou Sanders",
         "Johnny JR",
-        "Mystic Megan",
         "Elis James",
         "John Robins"
       ],
@@ -7274,8 +7096,7 @@
       "itunes_duration": "3459",
       "speakers": [
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "vacation",
@@ -7318,8 +7139,7 @@
       "itunes_duration": "3726",
       "speakers": [
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "vacation",
@@ -7362,7 +7182,6 @@
       "itunes_duration": "2151",
       "speakers": [
         "John Robins",
-        "Loch Lomond",
         "Elis James"
       ],
       "topics": [
@@ -7408,8 +7227,7 @@
       "speakers": [
         "Ayia Napa",
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "vacation",
@@ -7430,7 +7248,8 @@
       "enclosure_length": "109440000",
       "itunes_duration": "6840",
       "speakers": [
-        "Producer Dave",
+        "Batican City",
+        "Vape Island",
         "Elis James",
         "John Robins"
       ],
@@ -7456,7 +7275,6 @@
       "itunes_duration": "1464",
       "speakers": [
         "John Robins",
-        "Andrew Ryan",
         "Elis James"
       ],
       "topics": [
@@ -7479,7 +7297,6 @@
       "itunes_duration": "1477",
       "speakers": [
         "John Robins",
-        "Andrew Ryan",
         "Elis James"
       ],
       "topics": [
@@ -7523,7 +7340,7 @@
       "enclosure_length": "115520000",
       "itunes_duration": "7220",
       "speakers": [
-        "Producer Dave",
+        "John rai",
         "Elis James",
         "John Robins"
       ],
@@ -7548,7 +7365,6 @@
       "itunes_duration": "6664",
       "speakers": [
         "John Robins",
-        "statistician Ross",
         "Elis James"
       ],
       "topics": [
@@ -7573,10 +7389,7 @@
       "speakers": [
         "Lost Lou",
         "Duped John",
-        "Lou Sanders",
-        "Ole Gunnar Solskjær",
-        "Shame Wells",
-        "Producer Matt",
+        "Lou Sander",
         "Elis James",
         "John Robins"
       ],
@@ -7599,6 +7412,8 @@
       "enclosure_length": "116288000",
       "itunes_duration": "7268",
       "speakers": [
+        "Riff Tower",
+        "Lyrical Kisses",
         "Elis James",
         "John Robins"
       ],
@@ -7622,7 +7437,6 @@
       "enclosure_length": "114992000",
       "itunes_duration": "7187",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7647,8 +7461,6 @@
       "itunes_duration": "7767",
       "speakers": [
         "John Robins",
-        "Jesus Christ",
-        "Producer Matt",
         "Elis James"
       ],
       "topics": [
@@ -7697,7 +7509,6 @@
       "itunes_duration": "8342",
       "speakers": [
         "Johnny JR",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7722,8 +7533,6 @@
       "itunes_duration": "7755",
       "speakers": [
         "Long Arm John",
-        "Johnny JR",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7749,7 +7558,6 @@
       "itunes_duration": "6375",
       "speakers": [
         "Johnny Vaughan",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7777,8 +7585,6 @@
         "Armani John",
         "Costa Del Amor",
         "Elis James",
-        "Thankfully John",
-        "Producer Dave",
         "John Robins"
       ],
       "topics": [
@@ -7803,7 +7609,6 @@
       "speakers": [
         "Tiny Baths",
         "Wrong John",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7828,7 +7633,6 @@
       "enclosure_length": "92624000",
       "itunes_duration": "5789",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7854,10 +7658,8 @@
       "itunes_duration": "4894",
       "speakers": [
         "Headlamp Laments",
-        "John Robins",
-        "Johnny JR",
-        "Producer Dave",
-        "Elis James"
+        "Elis James",
+        "John Robins"
       ],
       "topics": [
         "midnight",
@@ -7882,7 +7684,6 @@
       "speakers": [
         "Muscle Memory",
         "Producer Dave",
-        "John Dunning-Kruger",
         "Elis James",
         "John Robins"
       ],
@@ -7907,7 +7708,6 @@
       "enclosure_length": "93904000",
       "itunes_duration": "5869",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7932,7 +7732,6 @@
       "itunes_duration": "5904",
       "speakers": [
         "Humble Darts",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7960,7 +7759,6 @@
       "speakers": [
         "Hairdryer Hacks",
         "Storm Eunice",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -7986,7 +7784,6 @@
       "itunes_duration": "6840",
       "speakers": [
         "Clueless Kluivert",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8012,8 +7809,6 @@
       "itunes_duration": "7047",
       "speakers": [
         "Stunning Lamb",
-        "Producer Dave",
-        "Alan Partridge",
         "Elis James",
         "John Robins"
       ],
@@ -8038,9 +7833,6 @@
       "enclosure_length": "113296000",
       "itunes_duration": "7081",
       "speakers": [
-        "Chris Evans",
-        "David Guetta",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8064,7 +7856,6 @@
       "speakers": [
         "Hip Hop Hodgson",
         "Elis James",
-        "Producer Dave",
         "John Robins"
       ],
       "topics": [
@@ -8088,8 +7879,6 @@
       "itunes_duration": "7497",
       "speakers": [
         "Elis James",
-        "Thankfully Elis",
-        "Producer Dave",
         "John Robins"
       ],
       "topics": [
@@ -8112,7 +7901,7 @@
       "enclosure_length": "120400000",
       "itunes_duration": "7525",
       "speakers": [
-        "Producer Dave",
+        "Ironic Ironing",
         "Elis James",
         "John Robins"
       ],
@@ -8135,8 +7924,6 @@
       "itunes_duration": "5893",
       "speakers": [
         "John Robins",
-        "Skoda Fabia",
-        "John HQ Happy",
         "Elis James"
       ],
       "topics": [
@@ -8184,7 +7971,6 @@
       "speakers": [
         "John Clement",
         "Clarke Moore",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8258,7 +8044,6 @@
       "itunes_duration": "6347",
       "speakers": [
         "Bagpipe Blues",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8285,8 +8070,7 @@
       "speakers": [
         "Salve João",
         "Elis James",
-        "John Robins",
-        "Producer Dave’s Coronation Street"
+        "John Robins"
       ],
       "topics": [
         "swans",
@@ -8308,7 +8092,6 @@
       "itunes_duration": "6763",
       "speakers": [
         "Helpful Honks",
-        "Trevor Sensor",
         "Elis James",
         "John Robins"
       ],
@@ -8333,7 +8116,6 @@
       "speakers": [
         "Tom Toms",
         "Oscar Whiskey",
-        "Joe Donovan",
         "Elis James",
         "John Robins"
       ],
@@ -8361,8 +8143,7 @@
       "speakers": [
         "Lager Sleeves",
         "Lou Sanders",
-        "Producer Dave",
-        "Rick Edwards",
+        "Producer Da",
         "Elis James",
         "John Robins"
       ],
@@ -8386,7 +8167,9 @@
       "enclosure_length": "105808000",
       "itunes_duration": "6613",
       "speakers": [
-        "Producer Dave",
+        "Supersized Sieves",
+        "Hot Eggs",
+        "Broadcasting House",
         "Elis James",
         "John Robins"
       ],
@@ -8434,11 +8217,6 @@
       "speakers": [
         "Double Deacy",
         "Jimmy’s Clean Hands",
-        "John Deacon",
-        "Roger Taylor",
-        "Brian May",
-        "Jimmy Anderson",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8464,7 +8242,6 @@
       "speakers": [
         "Scouse Spaceman",
         "Broadcasting House",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8487,8 +8264,6 @@
       "enclosure_length": "109824000",
       "itunes_duration": "6864",
       "speakers": [
-        "John Peel",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8512,8 +8287,6 @@
       "enclosure_length": "98208000",
       "itunes_duration": "6138",
       "speakers": [
-        "Producer Dave",
-        "Greg James",
         "Elis James",
         "John Robins"
       ],
@@ -8537,8 +8310,6 @@
       "enclosure_length": "107600000",
       "itunes_duration": "6725",
       "speakers": [
-        "Thankfully Elis",
-        "Paul McCartney",
         "Elis James",
         "John Robins"
       ],
@@ -8564,7 +8335,6 @@
       "enclosure_length": "102704000",
       "itunes_duration": "6419",
       "speakers": [
-        "Maida Vale",
         "Elis James",
         "John Robins"
       ],
@@ -8588,7 +8358,6 @@
       "enclosure_length": "95120000",
       "itunes_duration": "5945",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8613,7 +8382,7 @@
       "enclosure_length": "88256000",
       "itunes_duration": "5516",
       "speakers": [
-        "Lou Sanders",
+        "Lou Sander",
         "Elis James",
         "John Robins"
       ],
@@ -8638,7 +8407,6 @@
       "itunes_duration": "6208",
       "speakers": [
         "Frozen Jackets Amongst",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -8663,7 +8431,6 @@
       "enclosure_length": "102448000",
       "itunes_duration": "6403",
       "speakers": [
-        "Roy Keane",
         "Elis James",
         "John Robins"
       ],
@@ -8688,7 +8455,7 @@
       "enclosure_length": "51504000",
       "itunes_duration": "3219",
       "speakers": [
-        "Brian May",
+        "Playground Pentathlons",
         "Elis James",
         "John Robins"
       ],
@@ -8713,7 +8480,6 @@
       "itunes_duration": "4649",
       "speakers": [
         "Fabia Farewell",
-        "Skoda Fabia",
         "Elis James",
         "John Robins"
       ],
@@ -8765,7 +8531,7 @@
       "enclosure_length": "104080000",
       "itunes_duration": "6505",
       "speakers": [
-        "John’s European",
+        "John’s Europea",
         "Elis James",
         "John Robins"
       ],
@@ -8790,11 +8556,7 @@
       "itunes_duration": "6632",
       "speakers": [
         "Elis James",
-        "John Robins",
-        "Matt Forde",
-        "James Richardson",
-        "George Egg",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "european",
@@ -8819,8 +8581,6 @@
       "itunes_duration": "6442",
       "speakers": [
         "Dirty Dotun",
-        "Libby Clegg",
-        "Chris Clarke",
         "Elis James",
         "John Robins"
       ],
@@ -8846,7 +8606,9 @@
       "enclosure_length": "102608000",
       "itunes_duration": "6413",
       "speakers": [
+        "European Sundays",
         "Elis James",
+        "Stat Shame",
         "John Robins"
       ],
       "topics": [
@@ -8896,7 +8658,6 @@
       "itunes_duration": "6785",
       "speakers": [
         "Busy Beds",
-        "Wales XI",
         "Elis James",
         "John Robins"
       ],
@@ -8949,7 +8710,6 @@
       "itunes_duration": "6411",
       "speakers": [
         "Bland Crisps Euros",
-        "George Egg",
         "Elis James",
         "John Robins"
       ],
@@ -8975,8 +8735,6 @@
       "enclosure_length": "79248000",
       "itunes_duration": "4953",
       "speakers": [
-        "Brian Blessed",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -9021,7 +8779,6 @@
       "itunes_duration": "5852",
       "speakers": [
         "Handsome Greg James John",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -9049,7 +8806,6 @@
       "itunes_duration": "5316",
       "speakers": [
         "Owen Wilson Optimism",
-        "John’s behest",
         "Elis James",
         "John Robins"
       ],
@@ -9074,8 +8830,8 @@
       "enclosure_length": "85216000",
       "itunes_duration": "5326",
       "speakers": [
-        "Producer Dave",
-        "Clint Boon",
+        "Cup Fabricators",
+        "Dog Walkers",
         "Elis James",
         "John Robins"
       ],
@@ -9207,8 +8963,6 @@
       "enclosure_length": "61712000",
       "itunes_duration": "3857",
       "speakers": [
-        "Producer Dave",
-        "Neil Ashton",
         "Elis James",
         "John Robins"
       ],
@@ -9232,8 +8986,6 @@
       "itunes_duration": "3445",
       "speakers": [
         "Dave’s Sexy Friends",
-        "John Elis",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -9257,8 +9009,9 @@
       "enclosure_length": "87920000",
       "itunes_duration": "5495",
       "speakers": [
-        "Producer Dave",
-        "Brian May",
+        "May Day",
+        "Hard Hats",
+        "Mediocre Britain Aside",
         "Elis James",
         "John Robins"
       ],
@@ -9282,7 +9035,6 @@
       "itunes_duration": "3214",
       "speakers": [
         "Producer Dave",
-        "Man Robins",
         "Elis James",
         "John Robins"
       ],
@@ -9327,7 +9079,6 @@
       "enclosure_length": "51120000",
       "itunes_duration": "3195",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -9398,7 +9149,6 @@
       "itunes_duration": "4723",
       "speakers": [
         "Mark Goodier",
-        "Dina Carroll",
         "Elis James",
         "John Robins"
       ],
@@ -9422,6 +9172,7 @@
       "enclosure_length": "43888000",
       "itunes_duration": "2743",
       "speakers": [
+        "Birthday Set",
         "Elis James",
         "John Robins"
       ],
@@ -9469,6 +9220,7 @@
       "enclosure_length": "43392000",
       "itunes_duration": "2712",
       "speakers": [
+        "Perilous Pickles Hypothetically",
         "Elis James",
         "John Robins"
       ],
@@ -9727,7 +9479,6 @@
       "enclosure_length": "82720000",
       "itunes_duration": "5170",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -9816,7 +9567,6 @@
       "enclosure_length": "38832000",
       "itunes_duration": "2427",
       "speakers": [
-        "James households",
         "Elis James",
         "John Robins"
       ],
@@ -9842,7 +9592,6 @@
       "itunes_duration": "4767",
       "speakers": [
         "Sky High Plaques",
-        "David Bowie",
         "Elis James",
         "John Robins"
       ],
@@ -9867,6 +9616,7 @@
       "enclosure_length": "74192000",
       "itunes_duration": "4637",
       "speakers": [
+        "John descr",
         "Elis James",
         "John Robins"
       ],
@@ -9889,7 +9639,6 @@
       "enclosure_length": "102048000",
       "itunes_duration": "6378",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -9914,7 +9663,6 @@
       "speakers": [
         "Brian May",
         "John chats",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -9984,7 +9732,7 @@
       "enclosure_length": "53104000",
       "itunes_duration": "3319",
       "speakers": [
-        "John partake",
+        "Isolation Tapes",
         "Elis James",
         "John Robins"
       ],
@@ -10009,7 +9757,6 @@
       "speakers": [
         "Petrol Pandemonium",
         "Broadsheet Snogs",
-        "Emma Barnett",
         "Elis James",
         "John Robins"
       ],
@@ -10034,7 +9781,6 @@
       "enclosure_length": "48576000",
       "itunes_duration": "3036",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -10217,7 +9963,6 @@
       "itunes_duration": "4759",
       "speakers": [
         "Aggy Anchovies",
-        "Billy Balance",
         "Elis James",
         "John Robins"
       ],
@@ -10241,7 +9986,6 @@
       "enclosure_length": "75856000",
       "itunes_duration": "4741",
       "speakers": [
-        "Kerry Godliman",
         "Elis James",
         "John Robins"
       ],
@@ -10262,7 +10006,6 @@
       "enclosure_length": "84528000",
       "itunes_duration": "5283",
       "speakers": [
-        "Marie Rose",
         "Elis James",
         "John Robins"
       ],
@@ -10286,9 +10029,7 @@
       "enclosure_length": "76880000",
       "itunes_duration": "4805",
       "speakers": [
-        "Rob Rouse",
         "Elis James",
-        "John Robins Show",
         "John Robins"
       ],
       "topics": [
@@ -10605,7 +10346,6 @@
       "itunes_duration": "4681",
       "speakers": [
         "Jason Manford",
-        "Teresa Coyne",
         "Elis James",
         "John Robins"
       ],
@@ -10655,7 +10395,6 @@
       "speakers": [
         "John Robins",
         "Jen Brister",
-        "Lockdown Skills",
         "Elis James"
       ],
       "topics": [
@@ -10754,8 +10493,6 @@
       "itunes_duration": "4710",
       "speakers": [
         "Richard Osman",
-        "James Cracknell",
-        "Tan France",
         "Elis James",
         "John Robins"
       ],
@@ -10919,7 +10656,7 @@
       "enclosure_length": "71072000",
       "itunes_duration": "4442",
       "speakers": [
-        "Jon Richardson",
+        "Jon Richards",
         "Elis James",
         "John Robins"
       ],
@@ -10962,7 +10699,6 @@
       "itunes_duration": "2614",
       "speakers": [
         "Producer Dave",
-        "Liam Gallagher",
         "Elis James",
         "John Robins"
       ],
@@ -11107,7 +10843,6 @@
       "speakers": [
         "Josh Widdicombe",
         "Rob Beckett",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -11153,7 +10888,6 @@
       "enclosure_length": "44640000",
       "itunes_duration": "2790",
       "speakers": [
-        "Elton John",
         "Elis James",
         "John Robins"
       ],
@@ -11268,7 +11002,6 @@
       "itunes_duration": "4691",
       "speakers": [
         "John Robins",
-        "Producer Dave",
         "Elis James"
       ],
       "topics": [
@@ -11331,6 +11064,7 @@
       "enclosure_length": "73632000",
       "itunes_duration": "4602",
       "speakers": [
+        "John tal",
         "Elis James",
         "John Robins"
       ],
@@ -11374,7 +11108,6 @@
       "speakers": [
         "Tick Wallpaper",
         "Producer Dave",
-        "James Bond",
         "Elis James",
         "John Robins"
       ],
@@ -11520,7 +11253,6 @@
       "itunes_duration": "2005",
       "speakers": [
         "Producer Dave",
-        "John’s Isolation Tapes",
         "Elis James",
         "John Robins"
       ],
@@ -11687,7 +11419,6 @@
       "enclosure_length": "42256000",
       "itunes_duration": "2641",
       "speakers": [
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -11802,8 +11533,8 @@
       "enclosure_length": "105968000",
       "itunes_duration": "6623",
       "speakers": [
-        "Harry Potter Jobsworths",
         "Alex Horne",
+        "Alex Hor",
         "Elis James",
         "John Robins"
       ],
@@ -11851,7 +11582,6 @@
       "speakers": [
         "Ken Clarke",
         "Producer Dave",
-        "Chesham FC",
         "Elis James",
         "John Robins"
       ],
@@ -11923,7 +11653,6 @@
       "itunes_duration": "6780",
       "speakers": [
         "Martin Lewis",
-        "Simon Mayo",
         "Elis James",
         "John Robins"
       ],
@@ -11999,8 +11728,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "topless",
@@ -12169,7 +11897,6 @@
       "itunes_duration": "5961",
       "speakers": [
         "Boozy Cruisey",
-        "Producer Dave",
         "Elis James",
         "John Robins"
       ],
@@ -12218,7 +11945,6 @@
       "enclosure_length": "81056000",
       "itunes_duration": "5066",
       "speakers": [
-        "Cass McCombs",
         "Elis James",
         "John Robins"
       ],
@@ -12240,7 +11966,6 @@
       "enclosure_length": "624000",
       "itunes_duration": "39",
       "speakers": [
-        "Adam Kay",
         "Elis James",
         "John Robins"
       ],
@@ -12261,7 +11986,6 @@
       "itunes_duration": "6204",
       "speakers": [
         "Bowie Elis",
-        "David Bowie",
         "Elis James",
         "John Robins"
       ],
@@ -12282,6 +12006,7 @@
       "enclosure_length": "95728000",
       "itunes_duration": "5983",
       "speakers": [
+        "John dis",
         "Elis James",
         "John Robins"
       ],
@@ -12399,9 +12124,7 @@
       "enclosure_length": "91168000",
       "itunes_duration": "5698",
       "speakers": [
-        "Simon Mayo",
-        "Producer Dave",
-        "Vicki Thomas",
+        "Plus Simon",
         "Elis James",
         "John Robins"
       ],
@@ -12426,7 +12149,6 @@
       "itunes_duration": "5962",
       "speakers": [
         "Danny Gabbidon",
-        "Bronte Law",
         "Elis James",
         "John Robins"
       ],
@@ -12499,8 +12221,6 @@
       "enclosure_length": "91168000",
       "itunes_duration": "5698",
       "speakers": [
-        "Ed Gamble",
-        "David O’Doherty there",
         "Elis James",
         "John Robins"
       ],
@@ -12525,8 +12245,6 @@
         "Sarah Kendall",
         "Suzi Ruffell Elis James",
         "John Robins",
-        "Suzi Ruffell",
-        "John’s Shame Well",
         "Elis James"
       ],
       "topics": [
@@ -12552,8 +12270,7 @@
         "Matt Forde",
         "Al Murray",
         "Elis James",
-        "John Robins",
-        "Chris de Burgh"
+        "John Robins"
       ],
       "topics": [
         "edinburgh",
@@ -12686,7 +12403,7 @@
       "speakers": [
         "Sex Shame",
         "John Robins",
-        "James Anderson",
+        "James Ande",
         "Elis James"
       ],
       "topics": [
@@ -12730,8 +12447,7 @@
       "itunes_duration": "5967",
       "speakers": [
         "Elis James",
-        "John Robins",
-        "Producer Dave"
+        "John Robins"
       ],
       "topics": [
         "knackerwatch",
@@ -12793,389 +12509,390 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — #516 - Master of The Memoir, French Flag Fancy and I Am Full of Eggs — speakers: Dr Loevenbruck, Producer Michael, Elis James, John Robins
-- 2026-02-17 — #515 - Lads FM, Acquire It and Do you Want Vibes with That? — speakers: John Ford, James Cameron, Frank Zappa, Snoop Dogg, Drs Chris, Xand van Tulleken, Elis James, John Robins
-- 2026-02-13 — #514 - Chinese Geese, Caribbean Soaks and Emre Can Headspace — speakers: Mad Dads, Elis James, John Robins
+- 2026-02-24 — #517 - A Peruvian Exit, A 14 Pocket Scenario and A Neyland in the Coffin — speakers: Elis James, John Robins
+- 2026-02-20 — #516 - Master of The Memoir, French Flag Fancy and I Am Full of Eggs — speakers: French Flag Fancy, Am Full, Melvin Brain, Elis James, John Robins
+- 2026-02-17 — #515 - Lads FM, Acquire It and Do you Want Vibes with That? — speakers: Elis James, John Robins
+- 2026-02-13 — #514 - Chinese Geese, Caribbean Soaks and Emre Can Headspace — speakers: Elis James, John Robins
 - 2026-02-10 — #513 - John Laughter, Alan Giggles and Pierre Novellie — speakers: John Laughter, Alan Giggles, Pierre Novellie, Elis James, John Robins
-- 2026-02-06 — #512 - Stasi Mealtime, Clown Stance and There’s A Lot Going On With You — speakers: Clown Stance, Larry Leasehead, Simon Secondhand, Elis James, John Robins
+- 2026-02-06 — #512 - Stasi Mealtime, Clown Stance and There’s A Lot Going On With You — speakers: Clown Stance, Elis James, John Robins
 - 2026-02-03 — #511 - Chorister Humour, The Veg Guesser and What a Husband! — speakers: Producer Dave, Elis James, John Robins
 - 2026-01-30 — #510 - It’s Not A Drawer, Creosote i Bumry and The Spirit of Shelford — speakers: Elis James, John Robins
-- 2026-01-27 — #509 - Cognitive Incline, Watching Swans In Watford and The World’s Rarest Goose — speakers: Elis James, John Robins
+- 2026-01-27 — #509 - Cognitive Incline, Watching Swans In Watford and The World’s Rarest Goose — speakers: Cognitive Incline, Rarest Goose, Caernarfon Heritage Steam Train, Elis James, John Robins
 - 2026-01-23 — #508 - Megabed, Five Salmon and Evidence of Beavers — speakers: Elis James, John Robins
 - 2026-01-20 — #507 - A Rice Mouse, Digital Fruit and Josh Widdicombe — speakers: Rice Mouse, Josh Widdicombe, Elis James, John Robins
-- 2026-01-16 — #506 - Well Well Well Well Well — speakers: Haslett Dbe, Elis James, John Robins
+- 2026-01-16 — #506 - Well Well Well Well Well — speakers: Elis James, John Robins
 - 2026-01-13 — #505 - Head House, The Malzeard Option and Deep Blue John — speakers: Deep Blue John, Elis James, John Robins
-- 2026-01-09 — #504 - Re: Hell, Quezzies and The Cancellation Tapes — speakers: Johnny JR, Ben Parkes, John hack, Godspeed Ben, Mad Daddery, Elis James, John Robins
+- 2026-01-09 — #504 - Re: Hell, Quezzies and The Cancellation Tapes — speakers: Johnny JR, Elis James, John Robins
 - 2026-01-06 — #503 - Succulent PBs, Bless Warwick and 8 Billion Johns — speakers: Bless Warwick, Elis James, John Robins
-- 2026-01-02 — #502 - Cheating Shoes, A 46% Complaint Ratio and New Year Old John — speakers: Andy Zaltzman, Statman Ross, John’s Made Up, Roger Federer, Mario Kart, Elis James, John Robins
-- 2025-12-30 — #501 - The Best of 2025 — speakers: Tim Key, John snub, James Acaster, Elis James, John Robins
-- 2025-12-23 — #500 - Elis and John’s Christmas Cracker — speakers: John’s Christmas Cracker Put, John’s Christmas Cracker, Tom Finney, Mad Daddery, Mark Kermode, Elis James, John Robins
+- 2026-01-02 — #502 - Cheating Shoes, A 46% Complaint Ratio and New Year Old John — speakers: Elis James, John Robins
+- 2025-12-30 — #501 - The Best of 2025 — speakers: Elis James, John Robins
+- 2025-12-23 — #500 - Elis and John’s Christmas Cracker — speakers: John’s Christmas Cracker Put, Elis James, John Robins
 - 2025-12-19 — #499 - Digital Oil, Peak Christmas and Love Shakes Piles — speakers: Elis James, John Robins
 - 2025-12-16 — #498 - Chilli Rice, Grieving Upside Down and Thames! — speakers: Chilli Rice, Elis James, John Robins
-- 2025-12-12 — #497 - Badiography, Gunge Limitations and Snippy WhatsApps From The 1pm Bath — speakers: Craig Bellamy, Noel Edmonds, Elis James, John Robins
-- 2025-12-09 — #496 - Cloud 7, 40 Guffs and Elements of Edmonds — speakers: Noel Edmonds, Elis James, John Robins
-- 2025-12-05 — #495 - Oil Gangs, Fiddler of the Roof and Bags In The Sex Shop — speakers: Producer Dave, Brian Eno, Elis James, John Robins
+- 2025-12-12 — #497 - Badiography, Gunge Limitations and Snippy WhatsApps From The 1pm Bath — speakers: Elis James, John Robins
+- 2025-12-09 — #496 - Cloud 7, 40 Guffs and Elements of Edmonds — speakers: Elis James, John Robins
+- 2025-12-05 — #495 - Oil Gangs, Fiddler of the Roof and Bags In The Sex Shop — speakers: Elis James, John Robins
 - 2025-12-02 — #494 - Classic 6 7, The Best Brazil and Will Punk Tomorrow — speakers: Will Punk, Elis James, John Robins
 - 2025-11-28 — #493 - Yeovil Creatives, Scared of My Mate and What Are Your Oils? — speakers: Elis James, John Robins
-- 2025-11-25 — #492 - Transit Guffs, Ania Magliano and Mr Big Boggle — speakers: Ania Magliano, Johnny JR, John Robins, Elis James
-- 2025-11-21 — #491 - The PM, 10 Downing Street and A Big Chinese — speakers: John Robins, Elis James
-- 2025-11-18 — #490 - Tom Rosenthal, Thrown by Doves and Adjust or Leave — speakers: Tom Rosenthal, James Milner, Elis James, John Robins
+- 2025-11-25 — #492 - Transit Guffs, Ania Magliano and Mr Big Boggle — speakers: Ania Magliano, Elis James, John Robins
+- 2025-11-21 — #491 - The PM, 10 Downing Street and A Big Chinese — speakers: Downing Street, Elis James, John Robins
+- 2025-11-18 — #490 - Tom Rosenthal, Thrown by Doves and Adjust or Leave — speakers: Tom Rosenthal, Elis James, John Robins
 - 2025-11-14 — #489 - Robins’ Nest, Introducing Doubt and The Zeitgeest — speakers: Elis James, John Robins
 - 2025-11-11 — #488 - The Tregib Vibe, Discounting Pabs and Greg James — speakers: Discounting Pabs, Greg James, Elis James, John Robins
 - 2025-11-07 — #487 - Ghoul (General), Ian the Liar and Having 10 Kids & Turning To Sludge — speakers: Elis James, John Robins
-- 2025-11-04 — #486 - Panicdoting, CMs for the DB and The Birthday Boy’s Low — speakers: Elis James, Will Elis, John Robins
-- 2025-10-31 — #485 - Promoting Crispin, 1% Cats and We’ve Got Enough Sports — speakers: Elis James, John Robins
+- 2025-11-04 — #486 - Panicdoting, CMs for the DB and The Birthday Boy’s Low — speakers: Low Today, Cymru Connector, Elis James, John Robins
+- 2025-10-31 — #485 - Promoting Crispin, 1% Cats and We’ve Got Enough Sports — speakers: Promoting Crispin, Elis James, John Robins
 - 2025-10-28 — #484 - Juicy Forearms, DBW and Zone 3 in the Bedroom — speakers: John Robins, Austerity Robins, Elis James
-- 2025-10-24 — #483 - Freezer Cupboards, Adrian’s Chipper and Not Feeling Like I’m On Fire — speakers: Adrian’s Chipper, Sad Van, Producer Dave, Elis James, John Robins
-- 2025-10-21 — #482 - Zzamph, #VanMems and Potential Curry Gone Mad — speakers: Sad Van, John’s Road, Elis James, John Robins
+- 2025-10-24 — #483 - Freezer Cupboards, Adrian’s Chipper and Not Feeling Like I’m On Fire — speakers: Adrian’s Chipper, Elis James, John Robins
+- 2025-10-21 — #482 - Zzamph, #VanMems and Potential Curry Gone Mad — speakers: Elis James, John Robins
 - 2025-10-17 — #481 - The Mega Bond, £14.67 Savings and Dressed As A Big Kefir — speakers: Elis James, John Robins
-- 2025-10-14 — #480 - Hot Trees, Exhaustion Tears and Let It Be Birds — speakers: Brian May, Elis James, John Robins
+- 2025-10-14 — #480 - Hot Trees, Exhaustion Tears and Let It Be Birds — speakers: Hot Trees, Exhaustion Tears, Elis James, John Robins
 - 2025-10-10 — #479 - Going Cockleless, Lamb In Bed and The Elis James Clerical Universe — speakers: James Clerical Universe, Elis James, John Robins
-- 2025-10-07 — #478 - Zones, Curry Pyjamas and Pre-Time Speeches — speakers: Curry Pyjamas, Dave Masterman, Elis James, John Robins
-- 2025-10-03 — #477 - Oasising, The Sero Clan and Trapped in Neasden — speakers: John challenges Elis, Elis James, John Robins
+- 2025-10-07 — #478 - Zones, Curry Pyjamas and Pre-Time Speeches — speakers: Curry Pyjamas, Elis James, John Robins
+- 2025-10-03 — #477 - Oasising, The Sero Clan and Trapped in Neasden — speakers: Elis James, John Robins
 - 2025-09-30 — #476 - Explicit Cakes, Sewer Coffee and A Sexual Holiday to Cardigan — speakers: Elis James, John Robins
 - 2025-09-26 — #475 - Two Pint Problems, Yaris Rats and Carry On Loving Britain — speakers: Yaris Rats, Elis James, John Robins
 - 2025-09-23 — #474 - The Shusher, Donning Donnington and Content: The Movie — speakers: Donning Donnington, Elis James, John Robins
-- 2025-09-19 — #473 - James Acaster, The Sad Van and Anne Tuna — speakers: James Acaster, Sad Van, Anne Tuna, John Robins, Elis James
+- 2025-09-19 — #473 - James Acaster, The Sad Van and Anne Tuna — speakers: James Acaster, Sad Van, Anne Tuna, Elis James, John Robins
 - 2025-09-16 — #472 - 47 Kisses, #NoPowerUps and The More Money than Sense Boys — speakers: Elis James, John Robins
-- 2025-09-12 — #471 - John’s Critical Path, Elis’s 0.0% Curry and Dave’s Not So Silent Alarm — speakers: Lou Reed’s Transformer, Elis James, John Robins
+- 2025-09-12 — #471 - John’s Critical Path, Elis’s 0.0% Curry and Dave’s Not So Silent Alarm — speakers: Elis James, John Robins
 - 2025-09-09 — #470 - Old Man Bum, A Dream A Dream of Beef and Lust: 12 Bodies That Changed My Life — speakers: Michael Palin, Elis James, John Robins
 - 2025-09-05 — #469 - The New Beans, In John’s Time and Eating Margaret Mountford’s Hair — speakers: John’s Time, Eating Margaret Mountford’s Hair, Ian Botham, Elis James, John Robins
-- 2025-09-02 — #468 - Noble John, Sugar Me Twice and Good Old Gent — speakers: Elis James, Liam Gallagher, John Robins
-- 2025-08-29 — #467 - Chiles Miltree, Toddler Watson and King of the Nerds — speakers: Toddler Watson, Sherlock Robins, Producer Dave, Johnny JR, Elsewhere John, Bee Bee Cee Sounds, Elis James, John Robins
-- 2025-08-26 — #466 - The UK’s Dumb Plums, The McFlurry Route and The Menutality Monster — speakers: Martin Lewis, Elis James, John Robins
-- 2025-08-22 — #465 - Mr Headinhands, Kirsty’s USP and The Stomach Microbiome of My Instagram — speakers: Scatman John, Elis James, John Robins
-- 2025-08-19 — #464 - Aloof Disinterest, Raised By Rats and A Sixth Form State of Mind — speakers: Producer Dave, Elis James, John Robins
-- 2025-08-15 — #463 - The Trifecta of Value, Celya AB and A Bin Bag of Marmite — speakers: Bin Bag, Plus Elis, Elis James, John Robins
-- 2025-08-12 — #462 - Burger, Sell Me Your Suitcase and Topless Dave In Front of An Olive — speakers: John Robins, DI Robbyns, Elis James
-- 2025-08-08 — #461 - Elis, Man City’s Back Four and Will The Drummer From Coldplay — speakers: Luke McQueen, Elis James, John Robins
-- 2025-08-05 — #460 - John’s 50 Kids, Nish Kumar and The Cobbles Sing Their Plaintive Lament — speakers: John yearns, Thankfully Elis, Elis James, John Robins
-- 2025-08-01 — #459 - Josie Long , Verge Christ and Mammary Glands In The Runner Beans — speakers: Will Liam, Champagne Supernova, Elis’s Made Up Games, Mad Dad, Elis James, John Robins
+- 2025-09-02 — #468 - Noble John, Sugar Me Twice and Good Old Gent — speakers: Elis James, John Robins
+- 2025-08-29 — #467 - Chiles Miltree, Toddler Watson and King of the Nerds — speakers: Toddler Watson, Elis James, John Robins
+- 2025-08-26 — #466 - The UK’s Dumb Plums, The McFlurry Route and The Menutality Monster — speakers: Elis James, John Robins
+- 2025-08-22 — #465 - Mr Headinhands, Kirsty’s USP and The Stomach Microbiome of My Instagram — speakers: Mr Headinhands, My Instagram Elis, Elis James, John Robins
+- 2025-08-19 — #464 - Aloof Disinterest, Raised By Rats and A Sixth Form State of Mind — speakers: Elis James, John Robins
+- 2025-08-15 — #463 - The Trifecta of Value, Celya AB and A Bin Bag of Marmite — speakers: Bin Bag, Elis James, John Robins
+- 2025-08-12 — #462 - Burger, Sell Me Your Suitcase and Topless Dave In Front of An Olive — speakers: Elis James, John Robins
+- 2025-08-08 — #461 - Elis, Man City’s Back Four and Will The Drummer From Coldplay — speakers: Man City, Back Four, Wild West, Elis James, John Robins
+- 2025-08-05 — #460 - John’s 50 Kids, Nish Kumar and The Cobbles Sing Their Plaintive Lament — speakers: John yearns, Elis James, John Robins
+- 2025-08-01 — #459 - Josie Long , Verge Christ and Mammary Glands In The Runner Beans — speakers: Will Li, Elis James, John Robins
 - 2025-07-30 — #458 - Simon Davies’ Uncle, #CigsNotPigs and The Protective Wall of Human Community — speakers: Elis James, John Robins
-- 2025-07-25 — #457 - Becoming Compost, Squire Dave and #SenseTheSoil — speakers: Squire Dave, Producer Dave, Danny Champion, Elis James, John Robins
-- 2025-07-22 — #456 - Mad Foxes, Papa Podium and 40 Rhodris — speakers: Mad Daddery, Elis James, John Robins
-- 2025-07-18 — #455 - Badly Well, Warm Panic and A Defence of Yodelling — speakers: Warm Panic, Maisie Adam, Elis James, John Robins
-- 2025-07-15 — #454 - Swiss Arrogance, All Cars are the Same and One of the UK’s SUVs — speakers: Producer Dave, Elis James, John Robins
-- 2025-07-11 — #453 - Decking or Necking, Dad of the Year and Too Handsome to Focus — speakers: Peter Andre, Producer Dave, Maisie Adam, Elis James, John Robins
-- 2025-07-08 — #452 - Here Lies The Volkswagen Barrel of Eggs — speakers: Can Elis, Elis James, John Robins
+- 2025-07-25 — #457 - Becoming Compost, Squire Dave and #SenseTheSoil — speakers: Squire Dave, Producer Dave, Elis James, John Robins
+- 2025-07-22 — #456 - Mad Foxes, Papa Podium and 40 Rhodris — speakers: Mad Foxes, Papa Podium, Rhodris Elis, Elis James, John Robins
+- 2025-07-18 — #455 - Badly Well, Warm Panic and A Defence of Yodelling — speakers: Warm Panic, Elis James, John Robins
+- 2025-07-15 — #454 - Swiss Arrogance, All Cars are the Same and One of the UK’s SUVs — speakers: Elis James, John Robins
+- 2025-07-11 — #453 - Decking or Necking, Dad of the Year and Too Handsome to Focus — speakers: Elis James, John Robins
+- 2025-07-08 — #452 - Here Lies The Volkswagen Barrel of Eggs — speakers: Eggs After, Elis James, John Robins
 - 2025-07-04 — #451 - OG Guffer, Rodders (A) and The Man Is Your Husband — speakers: Elis James, John Robins
-- 2025-07-01 — #450 - Backing Framed Content, Backing the Compliance Form and Backing the Riff — speakers: Producer Dave, Harold Wilson, Elis James, John Robins
-- 2025-06-27 — #449 - Rodmas Day, Magnificent Lions and Every. Journey. Counts. — speakers: Elis James, Olivia Rodrigo, Adrian Chiles, DI Robbyns, John Robins
-- 2025-06-24 — #448 - Doob Monsters, Access To Washers and I Don’t Know Hague — speakers: Lance Armstrong, Producer Dave, William Hague, Elis James, John Robins
-- 2025-06-20 — #447 - Davie vs Horse, Bin Gear and The Gulag of Truth — speakers: Bin Gear, DI Robbyns, Elis James, John Robins
-- 2025-06-17 — #446 - Bowie Crocs, Knee Length Utility Socks and Courteeners of Comedy — speakers: Bowie Crocs, Alan Howard, Elis James, John Robins
-- 2025-06-13 — #445 - Colin, Carras and A Big Frozen Bag of Mince — speakers: He’s Colin, Johnny JR, John Wins Again, Elis James, John Robins
+- 2025-07-01 — #450 - Backing Framed Content, Backing the Compliance Form and Backing the Riff — speakers: Backing Framed Content, Compliance Form, Elis James, John Robins
+- 2025-06-27 — #449 - Rodmas Day, Magnificent Lions and Every. Journey. Counts. — speakers: Elis James, John Robins
+- 2025-06-24 — #448 - Doob Monsters, Access To Washers and I Don’t Know Hague — speakers: Doob Monsters, Know Hague There, Elis James, John Robins
+- 2025-06-20 — #447 - Davie vs Horse, Bin Gear and The Gulag of Truth — speakers: Bin Gear, Elis James, John Robins
+- 2025-06-17 — #446 - Bowie Crocs, Knee Length Utility Socks and Courteeners of Comedy — speakers: Bowie Crocs, Elis James, John Robins
+- 2025-06-13 — #445 - Colin, Carras and A Big Frozen Bag of Mince — speakers: Elis James, John Robins
 - 2025-06-10 — #444 - Tim Key, He Needs A Cup Run and Bit Early For A Pint So I Have An Easter Egg — speakers: Tim Key, William Wordsworth, Carol Ann Duffy, Elis James, John Robins
 - 2025-06-06 — #443 - Mockproof Robins, Medium Cod +1 and Good Black Eps — speakers: Medium Cod, Elis James, John Robins
-- 2025-06-03 — #442 - Tara Me Sue, More Pear Puddings and Dark Days in Denbigh — speakers: Rick Stein, George Egg, Elis James, John Robins
+- 2025-06-03 — #442 - Tara Me Sue, More Pear Puddings and Dark Days in Denbigh — speakers: Rick Stein, Elis James, John Robins
 - 2025-05-30 — #441 - Full Fibre Content, Ladies Lashathon and Taking a Mini Retirement — speakers: Elis James, John Robins
-- 2025-05-27 — #440 - Beefcake Alert, The Lust King and Producer Dave’s Handsome Surprise — speakers: Producer Dave’s Handsome, Producer Dave, Mad Dads, Elis James, John Robins
-- 2025-05-23 — #439 - Inverting The Pilaumid, Winning 18 Apples and The Mayor of Thornbury — speakers: Hugh Grant, Ken Clarke, Elis James, John Robins
+- 2025-05-27 — #440 - Beefcake Alert, The Lust King and Producer Dave’s Handsome Surprise — speakers: Producer Dave’s Handsome, Elis James, John Robins
+- 2025-05-23 — #439 - Inverting The Pilaumid, Winning 18 Apples and The Mayor of Thornbury — speakers: Thornbury There, Elis James, John Robins
 - 2025-05-20 — #438 - The Human Clock, Threads Be Cloves and Thanks For Jumping on That Call — speakers: Elis James, John Robins
-- 2025-05-16 — #437 - The Great Geordification, Cloud Storage Afterlife and Narrative! Narrative! Narrative! — speakers: John Robins, Annie McGrath, Rick Edwards, Elis James
-- 2025-05-13 — #436 - I Attract The Mums, 200,000 Items and John Robins Ltd. — speakers: John Robins Ltd, Johnny JR, Haile Gebrselassie, Producer Dave, Elis James, John Robins
-- 2025-05-09 — #435 - Orcs & All, Cannellini Alley and ‘Wisdom, Bit of Sadness, Go Home’ — speakers: Cannellini Alley, John Robins, Johnny JR, Kevin de Bruyne, Elis James
-- 2025-05-06 — #434 - TwistMcGist, Spikey Mike and Oh You’re A Catholic — speakers: Spikey Mike, Elis James, Adel Taraabt, John Robins
+- 2025-05-16 — #437 - The Great Geordification, Cloud Storage Afterlife and Narrative! Narrative! Narrative! — speakers: John Robins, Elis James
+- 2025-05-13 — #436 - I Attract The Mums, 200,000 Items and John Robins Ltd. — speakers: John Robins Ltd, Elis James, John Robins
+- 2025-05-09 — #435 - Orcs & All, Cannellini Alley and ‘Wisdom, Bit of Sadness, Go Home’ — speakers: Cannellini Alley, John Robins, Elis James
+- 2025-05-06 — #434 - TwistMcGist, Spikey Mike and Oh You’re A Catholic — speakers: Spikey Mike, Elis James, John Robins
 - 2025-05-02 — #433 - Pasta Disaster, Child Of The FTSE and The BACS Is Safe — speakers: Elis James, John Robins
-- 2025-04-29 — #432 - Roast Goose, Intro Sequels and The Volkswagen Barrel of Paint — speakers: Intro Sequels, Producer Dave, Elis James, John Robins
+- 2025-04-29 — #432 - Roast Goose, Intro Sequels and The Volkswagen Barrel of Paint — speakers: Intro Sequels, Elis James, John Robins
 - 2025-04-25 — #431 - Corner Energy, Non-Playable John and Tubing The Room — speakers: Producer Dave, Elis James, John Robins
-- 2025-04-22 — #430 - Grief Granola, Psephologist Wildfowl and How is Scratching Free? — speakers: Johnny JR, Andy Murray, Elis James, John Robins
-- 2025-04-18 — #429 - Czecholate, 11 Years of Silence, and No One Else is Doing This — speakers: Producer Dave, John No One Else, Elis James, John Robins
-- 2025-04-15 — #428 - Hunting Aled, Gen Sea and Harriet Kemsley — speakers: Harriet Kemsley Acceptance, Harriet Kemsley, John Wins Again, Elis James, John Robins
-- 2025-04-11 — #427 - OALPs, Scared To Stand and Career Progression In Feudal Britain — speakers: Producer Dave, Mad Dads, Elis James, John Robins
+- 2025-04-22 — #430 - Grief Granola, Psephologist Wildfowl and How is Scratching Free? — speakers: Elis James, John Robins
+- 2025-04-18 — #429 - Czecholate, 11 Years of Silence, and No One Else is Doing This — speakers: John ea, Elis James, John Robins
+- 2025-04-15 — #428 - Hunting Aled, Gen Sea and Harriet Kemsley — speakers: Harriet Kemsley Acceptance, Elis James, John Robins
+- 2025-04-11 — #427 - OALPs, Scared To Stand and Career Progression In Feudal Britain — speakers: Producer Dave, Elis James, John Robins
 - 2025-04-08 — #426 - Writing Sid, UNESCO Accents and Condemned to a Life of Seeing Clearly — speakers: Elis James, John Robins
 - 2025-04-04 — #425 - The Credit Score Special — speakers: Elis James, John Robins
-- 2025-04-01 — #424 - Zanecdotes, Fab Pensions and Mallett’s Depths — speakers: Producer Dave, Tim Davie, Elis James, John Robins
-- 2025-03-28 — #423 - Gareth Guffer, Dune July and Planet Credit Score — speakers: Elis James, John Robins
+- 2025-04-01 — #424 - Zanecdotes, Fab Pensions and Mallett’s Depths — speakers: Producer Dave, Elis James, John Robins
+- 2025-03-28 — #423 - Gareth Guffer, Dune July and Planet Credit Score — speakers: Gareth Guffer, Dune July, Elis James, John Robins
 - 2025-03-25 — #422 - Jimmy Bond, £35.17 and Tudur Owen’s Dad’s Monkey — speakers: Monkey Palin, Elis James, John Robins
-- 2025-03-21 — #421 - Yakat, Clentin Coins and Is It A Long Forest?! — speakers: Clentin Coins, Plus Elis, Elis James, John Robins
-- 2025-03-18 — #420 - Cheek Not Filth, World Beaker People Day and Apple Crumble Designed For Three — speakers: John Robins, Plus Elis, Elis James
-- 2025-03-14 — #419 - BQWND, The Bailiff of Content and Watching Mince Defrost in Real Time — speakers: Van Morrison, John Robins, Elis James
+- 2025-03-21 — #421 - Yakat, Clentin Coins and Is It A Long Forest?! — speakers: Clentin Coins, Elis James, John Robins
+- 2025-03-18 — #420 - Cheek Not Filth, World Beaker People Day and Apple Crumble Designed For Three — speakers: John Robins, Elis James
+- 2025-03-14 — #419 - BQWND, The Bailiff of Content and Watching Mince Defrost in Real Time — speakers: Watching Mince Defrost, Real Time If, Elis James, John Robins
 - 2025-03-11 — #418 - Pasta Joke, Quarry Stuff and Black as Sackcloth — speakers: Quarry Stuff, Elis James, John Robins
-- 2025-03-07 — #417 - Sun on the Cheeks, The Nadir of the Mullet and Squatting in a Poltergeist’s World — speakers: Van Morrison, Elis James, John Robins
-- 2025-03-04 — #416 - That’s Massive For Me, The English Enigma and Wales Today — speakers: Elis James, John Robins
-- 2025-02-28 — #415 - This Is Your Stand Up Life: John Robins — speakers: John Robins, Johnny JR Robins, Elis James
-- 2025-02-25 — #414 - Yesterday’s Bone, Book Humour and The Coalface We Call Prose — speakers: Jilly Cooper, Bob Cratchit, Elis James, John Robins
+- 2025-03-07 — #417 - Sun on the Cheeks, The Nadir of the Mullet and Squatting in a Poltergeist’s World — speakers: Elis James, John Robins
+- 2025-03-04 — #416 - That’s Massive For Me, The English Enigma and Wales Today — speakers: Wales Today, Elis James, John Robins
+- 2025-02-28 — #415 - This Is Your Stand Up Life: John Robins — speakers: John Robins, Elis James
+- 2025-02-25 — #414 - Yesterday’s Bone, Book Humour and The Coalface We Call Prose — speakers: Elis James, John Robins
 - 2025-02-21 — #413 - Generation Graze, A Chunk Funk and Rustle Click Munch Ting Ting — speakers: Ting Ting John, Elis James, John Robins
 - 2025-02-18 — #412 - John’s Pensionversary, Riffing on Togetherness and There Will Always Be More Steves — speakers: Elis James, John Robins
-- 2025-02-14 — #411 - Hayley They’ve Dropped!!, #PoorBloke and A Civil Servant For Love — speakers: Producer Dave, John’s Love Heart, Elis James, John Robins
-- 2025-02-11 — #410 - Nepo Connectors, Keir Today John Tomorrow and Richard Herring — speakers: John Tomorrow, Richard Herring, John Robins, Tim Key, Elis James
-- 2025-02-07 — #409 - The Double Ian, Everyone’s Sacked and John Goes In On Shoes — speakers: John Goes, Producer Dave, Johnny JR, Mad Dad, Elis James, John Robins
-- 2025-02-04 — #408 - Project 2032, Red Peppards and Britain Is Typing… — speakers: John Robins, Elis James
-- 2025-01-31 — #407 - Boring Moons, Germans Don’t WhatsApp and Grind, Block & Jumpy — speakers: Emperor Robins, Sounds Bites, Elis James, John Robins
+- 2025-02-14 — #411 - Hayley They’ve Dropped!!, #PoorBloke and A Civil Servant For Love — speakers: Producer Dave, Elis James, John Robins
+- 2025-02-11 — #410 - Nepo Connectors, Keir Today John Tomorrow and Richard Herring — speakers: John Tomorrow, Richard Herring, Elis James, John Robins
+- 2025-02-07 — #409 - The Double Ian, Everyone’s Sacked and John Goes In On Shoes — speakers: John Goes, Producer Dave, Johnny JR, Elis James, John Robins
+- 2025-02-04 — #408 - Project 2032, Red Peppards and Britain Is Typing… — speakers: Red Peppards, Elis James, John Robins
+- 2025-01-31 — #407 - Boring Moons, Germans Don’t WhatsApp and Grind, Block & Jumpy — speakers: Boring Moons, Germans Don, Jumpy Some, Elis James, John Robins
 - 2025-01-28 — #406 - Callipound, A4 Ravioli and Our New Coal — speakers: Elis James, John Robins
-- 2025-01-24 — #405 - My Integrity, A Million Pounds and Why Can’t We All Just Be Clerks? — speakers: Johnny JR, Hercule Poirot, Elis James, John Robins
+- 2025-01-24 — #405 - My Integrity, A Million Pounds and Why Can’t We All Just Be Clerks? — speakers: My Integrity, Million Pounds, Why Can, Elis James, John Robins
 - 2025-01-21 — #404 - #PlasticJack, Lou Sanders and You Can Only Push The Listeners So Far — speakers: Lou Sanders, Elis James, John Robins
-- 2025-01-17 — #403 - The Dread Brothers, Great Flanks and The CEO of My Own Mind — speakers: Elis James, John Robins
-- 2025-01-14 — #402 - Connor’s Killed Us, A1 Prostates and Bring Back The Erotic Thriller — speakers: Producer Dave, Elis James, John Robins
-- 2025-01-10 — #401 - Direct Dust, The Pint Control Board and …with John Robins — speakers: John Robins, Mad Dads, Elis James
+- 2025-01-17 — #403 - The Dread Brothers, Great Flanks and The CEO of My Own Mind — speakers: Great Flanks, My Own Mind Akin, Elis James, John Robins
+- 2025-01-14 — #402 - Connor’s Killed Us, A1 Prostates and Bring Back The Erotic Thriller — speakers: Elis James, John Robins
+- 2025-01-10 — #401 - Direct Dust, The Pint Control Board and …with John Robins — speakers: John Robins, Elis James
 - 2025-01-07 — #400 - Builth Wells Problems, xC and John Got A Speaker — speakers: John Got, Brian Lara, Elis James, John Robins
-- 2025-01-03 — #399 - The Second Petard, Pad Thai for Breakfast and 11 Reasons to be Cheerful — speakers: Pad Thai, Johnny JR, Poor Elis, Elis James, John Robins
-- 2024-12-31 — #398 - The Best of The Great Reset — speakers: Elis James, John Robins, Tony Blackburn
-- 2024-12-24 — #397 - The Sun Lounger Statute, Wednesday Ringo Regret, and I Can’t Go Till February — speakers: Paul McCartney, Luckily John, Elis James, John Robins
-- 2024-12-20 — #396 - Britain’s Sexiest Tattoo, Fallible Sounds, and Content Doesn’t Stop For Christmas — speakers: John Smash, John’s Big Supper, Producer Dave, Eliud Kipchoge, Elis James, John Robins
-- 2024-12-17 — #395 - A Heavy Weft, A Talented Sheep Dog and 31 Minutes with a Nun — speakers: Boxing Day, John come armed, Elis James, John Robins
-- 2024-12-13 — #394 - Elis and John’s Christmas Cracker — speakers: John’s Christmas Cracker, Jesus than Elis, Producer Dave, John North Pole, Elis James, John Robins
-- 2024-12-10 — #393 - High Budget Dreams, Smacks of Mellor and That Fried Tuesday Feeling — speakers: Tim Davie, Elis James, John Robins
-- 2024-12-06 — #392 - Not Letting Down 750 GPs, The Jet2 Prerogative and Sophie Duker — speakers: Elis James, John Robins
-- 2024-12-03 — #391 - Egg on Cord, Perpetual Tennis and A Very Successful Brown Owl — speakers: Perpetual Tennis, Elis James, DI Robbyns, John Robins
+- 2025-01-03 — #399 - The Second Petard, Pad Thai for Breakfast and 11 Reasons to be Cheerful — speakers: Pad Thai, Johnny JR, Elis James, John Robins
+- 2024-12-31 — #398 - The Best of The Great Reset — speakers: Elis James, John Robins
+- 2024-12-24 — #397 - The Sun Lounger Statute, Wednesday Ringo Regret, and I Can’t Go Till February — speakers: Paul McCartney, Elis James, John Robins
+- 2024-12-20 — #396 - Britain’s Sexiest Tattoo, Fallible Sounds, and Content Doesn’t Stop For Christmas — speakers: John Smash, John’s Big Supper, Elis James, John Robins
+- 2024-12-17 — #395 - A Heavy Weft, A Talented Sheep Dog and 31 Minutes with a Nun — speakers: Boxing Day, Elis James, John Robins
+- 2024-12-13 — #394 - Elis and John’s Christmas Cracker — speakers: John’s Christmas Cracker, Elis James, John Robins
+- 2024-12-10 — #393 - High Budget Dreams, Smacks of Mellor and That Fried Tuesday Feeling — speakers: Elis James, John Robins
+- 2024-12-06 — #392 - Not Letting Down 750 GPs, The Jet2 Prerogative and Sophie Duker — speakers: Not Letting Down, Sophie Duker, Elis James, John Robins
+- 2024-12-03 — #391 - Egg on Cord, Perpetual Tennis and A Very Successful Brown Owl — speakers: Perpetual Tennis, Elis James, John Robins
 - 2024-11-29 — #390 - Annsbie, We Lube Up and The Hypothetical Widow Tour 2025 — speakers: Elis James, John Robins
-- 2024-11-26 — #389 - Big Leg, The Cymdown Connection and Plugged Into His Router Just For You — speakers: Dua Lipa, Burry Port, Elis James, John Robins
-- 2024-11-22 — #388 - Let’s Lavender, Sounds Like My Love Life and Celya AB — speakers: Elis James, John Robins
-- 2024-11-19 — #387 - Neil’s Crane Company, Paid In Chinese and Lightning In A Handbag — speakers: John Robins, Elis James
-- 2024-11-15 — #386 - Daft Brian, Going Gallagher and The Phillips Head Bat Signal — speakers: Going Gallagher, Bat Signal, Zane Lowe, Elis James, John Robins
-- 2024-11-12 — #385 - Yards From Davie, Calippos Wouldn’t Melt and The World’s Wealthiest Cat — speakers: Producer Dave, Andy Zaltzman, Elis James, John Robins
-- 2024-11-08 — #384 - Pretty Podcast Boys, Short Tempered Cyborgs and All Time is Wasted Time — speakers: Elis James, John Robins
-- 2024-11-05 — #383 - Ballon D’Arts, Banter Zone Jet Lag and The Enema Within — speakers: John Robins, Elis James
-- 2024-11-01 — #382 - Spooooky Intimate Bum Procedures, Perfect BBC Noise and Same Postcode Different Houses — speakers: Lasha Talakhadze, Matt Chorley, Elis James, John Robins
-- 2024-10-29 — #381 - Your Main Crem, A Talentless Forsyth and The Great Traybake Swindle — speakers: Elis James, John Robins
-- 2024-10-25 — #380 - Lord VPN, Bullied On The Boundary and Stansbie — speakers: John Robins, Johnny JR, Michael Palin, Elis James
-- 2024-10-22 — #379 - Bishop Gore Blanks, Forwarded Many Times x, and There Is An ‘I’ In Lazio — speakers: James McAvoy, Welsh Elis, English Elis, Tim Davie’s Calippo, Elis James, John Robins
-- 2024-10-18 — #378 - Wacko Lacto, Gatwick Fresh and Falling Into a Big Ditch — speakers: Gatwick Fresh, Johnny JR, John Decathlon, Jessica Ennis-Hill, Daley Thompson, Elis James, John Robins
-- 2024-10-15 — #377 - Dropped In The Riff Tank, Two Dads (Not Gay) and Ania Magliano — speakers: Ania Magliano, Tom Rosenthal, John’s Big Social Week, Elis James, John Robins
-- 2024-10-11 — #376 - Skeggsy, Deggsy and £360 Cash — speakers: Producer Dave, George Orwell, Dave Masterman, Elis James, John Robins
-- 2024-10-08 — #375 - Gravel Man, My Sex Club Year and Space Cop Heart Rates — speakers: Elis James, John Robins
-- 2024-10-04 — #374 - Dust or Leaves, A Tight Three Seconds and Humour! Humour! Humour! — speakers: Elis James, John Robins, Producer Dave
+- 2024-11-26 — #389 - Big Leg, The Cymdown Connection and Plugged Into His Router Just For You — speakers: Big Leg, Elis James, John Robins
+- 2024-11-22 — #388 - Let’s Lavender, Sounds Like My Love Life and Celya AB — speakers: Sounds Like My Love, Elis James, John Robins
+- 2024-11-19 — #387 - Neil’s Crane Company, Paid In Chinese and Lightning In A Handbag — speakers: Elis James, John Robins
+- 2024-11-15 — #386 - Daft Brian, Going Gallagher and The Phillips Head Bat Signal — speakers: Going Gallagher, Bat Signal, Elis James, John Robins
+- 2024-11-12 — #385 - Yards From Davie, Calippos Wouldn’t Melt and The World’s Wealthiest Cat — speakers: Producer Dave, Elis James, John Robins
+- 2024-11-08 — #384 - Pretty Podcast Boys, Short Tempered Cyborgs and All Time is Wasted Time — speakers: Short Tempered Cyborgs, All Time, Elis James, John Robins
+- 2024-11-05 — #383 - Ballon D’Arts, Banter Zone Jet Lag and The Enema Within — speakers: Banter Zone Jet Lag, Elis James, John Robins
+- 2024-11-01 — #382 - Spooooky Intimate Bum Procedures, Perfect BBC Noise and Same Postcode Different Houses — speakers: Spooooky Intimate Bum Procedures, Same Postcode Different Houses, Elis James, John Robins
+- 2024-10-29 — #381 - Your Main Crem, A Talentless Forsyth and The Great Traybake Swindle — speakers: Talentless Forsyth, Bye Bye Mr Audio, Hello Mr Saturday Night, Elis James, John Robins
+- 2024-10-25 — #380 - Lord VPN, Bullied On The Boundary and Stansbie — speakers: Stansbie Drink, Elis James, John Robins
+- 2024-10-22 — #379 - Bishop Gore Blanks, Forwarded Many Times x, and There Is An ‘I’ In Lazio — speakers: James McAvoy, Elis James, John Robins
+- 2024-10-18 — #378 - Wacko Lacto, Gatwick Fresh and Falling Into a Big Ditch — speakers: Gatwick Fresh, Elis James, John Robins
+- 2024-10-15 — #377 - Dropped In The Riff Tank, Two Dads (Not Gay) and Ania Magliano — speakers: Ania Magliano, Elis James, John Robins
+- 2024-10-11 — #376 - Skeggsy, Deggsy and £360 Cash — speakers: Producer Dave, George Orwell, Elis James, John Robins
+- 2024-10-08 — #375 - Gravel Man, My Sex Club Year and Space Cop Heart Rates — speakers: comedy ch, Elis James, John Robins
+- 2024-10-04 — #374 - Dust or Leaves, A Tight Three Seconds and Humour! Humour! Humour! — speakers: Elis James, John Robins
 - 2024-10-01 — #373 - Street Juice, The Cymru Cul-de-sac and 10 Sketches About Soup — speakers: Elis James, John Robins
 - 2024-09-27 — #372 - My Little Lover, The ABBA Gold Approach and Cuffed by the Vice Squad — speakers: Elis James, John Robins
 - 2024-09-24 — #371 - 3 Features & the Truth, Get It Done and Welsh Rarebit: Grilled by Elis James — speakers: Elis James, John Robins
-- 2024-09-20 — #370 - Bran Time, Sky Blue Limos and Fellowship on the Ring Road — speakers: Stuart Pearce, Joe Royle, Elis James, John Robins
-- 2024-09-17 — #369 - All Beauty, A Sexier Welshman and David O’Doherditty — speakers: Sexier Welshman, David O’Doherty, Elis James, John Robins
-- 2024-09-13 — #368 - A Hot Lung, Busking Medieval English, and The Importance of News (On the Hour, Every Hour) on Student Radio — speakers: Producer Dave, Elis James, John Robins
-- 2024-09-10 — #367 - Marie’s Tethered, Grown Men and Oh Really Fennel?! — speakers: Elis James, John Robins
+- 2024-09-20 — #370 - Bran Time, Sky Blue Limos and Fellowship on the Ring Road — speakers: Elis James, John Robins
+- 2024-09-17 — #369 - All Beauty, A Sexier Welshman and David O’Doherditty — speakers: Sexier Welshman, Elis James, John Robins
+- 2024-09-13 — #368 - A Hot Lung, Busking Medieval English, and The Importance of News (On the Hour, Every Hour) on Student Radio — speakers: Hot Lung, Busking Medieval English, Every Hour, Elis James, John Robins
+- 2024-09-10 — #367 - Marie’s Tethered, Grown Men and Oh Really Fennel?! — speakers: Grown Men, Oh Really Fennel, Elis James, John Robins
 - 2024-09-06 — #366 - The Dance — speakers: Elis James, John Robins
-- 2024-09-03 — #365 - Big Fat Tears, My Thumb’s In France and Phil Wang — speakers: Phil Wang, Elsewhere Elis, Elis James, John Robins
-- 2024-08-30 — #364 - Like It Or Lump It, Moon Faced Boys and Greg James’ Dark Underbelly — speakers: Greg James, Producer Dave, Elsewhere Elis, Elis James, John Robins
-- 2024-08-27 — #363 - Accepting Sap, Backing Bellingham and This is How You Use Noel — speakers: Backing Bellingham, Noel Gallagher, Elis James, John Robins
-- 2024-08-23 — #362 - Three Crazy Guys Hanging Out, DCI Spike Spike McSpike and Michelangelo’s Mike — speakers: Spike McSpike, Annie McGrath, Elis James, John Robins
+- 2024-09-03 — #365 - Big Fat Tears, My Thumb’s In France and Phil Wang — speakers: Phil Wang, Elis James, John Robins
+- 2024-08-30 — #364 - Like It Or Lump It, Moon Faced Boys and Greg James’ Dark Underbelly — speakers: Greg James, Elis James, John Robins
+- 2024-08-27 — #363 - Accepting Sap, Backing Bellingham and This is How You Use Noel — speakers: Backing Bellingham, Elis James, John Robins
+- 2024-08-23 — #362 - Three Crazy Guys Hanging Out, DCI Spike Spike McSpike and Michelangelo’s Mike — speakers: Spike McSpike, Elis James, John Robins
 - 2024-08-20 — #361 - 55 Year Olds in The Narberth Area, Dell Tower and The Past, Present & Future of Rush Radio — speakers: Elis James, John Robins
-- 2024-08-16 — #360 - Yesby, Classic Gag Churners, and The Big Storm Before the Bigger Storm — speakers: Classic Gag Churners, Ivo Graham, Elis James, John Robins
+- 2024-08-16 — #360 - Yesby, Classic Gag Churners, and The Big Storm Before the Bigger Storm — speakers: Classic Gag Churners, Elis James, John Robins
 - 2024-08-13 — #359 - Puppet Paul, Mindful Diarrhoea and Doing the M6 for Comic Relief — speakers: Elis James, John Robins
-- 2024-08-09 — #358 - Jimmy Grief — speakers: Jimmy Grief, Leon Britton, Elis James, John Robins
+- 2024-08-09 — #358 - Jimmy Grief — speakers: Jimmy Grief, Elis James, John Robins
 - 2024-08-06 — #357 - A Podium Place for Thought, Désolé the Devolved Discuss and A Big Baguette that’s Uniting the World — speakers: Elis James, John Robins
-- 2024-08-02 — #356 - Look Into It Dave, Curtis Coitus and HS Number 2 — speakers: Melton Mowbray, Samuel Pepys, Elis James, John Robins
+- 2024-08-02 — #356 - Look Into It Dave, Curtis Coitus and HS Number 2 — speakers: Melton Mowbray, Elis James, John Robins
 - 2024-07-30 — #355 - Fillet, Sirloin and Rump — speakers: Elis James, John Robins
-- 2024-07-26 — #354 - A 5 Minute Curry, 10,000 Johnsons and A ULEZ Compliant Wedding — speakers: Elis James, Russell Howard, John Robins
+- 2024-07-26 — #354 - A 5 Minute Curry, 10,000 Johnsons and A ULEZ Compliant Wedding — speakers: Minute Curry, Elis James, John Robins
 - 2024-07-23 — #353 - Symphonic Bowels, Dry Cardboard Chips and A Better Listener than Henry VIII — speakers: Henry Viii, Elis James, John Robins
-- 2024-07-19 — #352 - Marl, A Digital Bum Examination and Taking 2 Weeks Off Jalapeños — speakers: Elis James, John Robins
-- 2024-07-16 — #351 - Six Figure Per Month Thickos, The Cymru Connection and Let Him Do His Cow — speakers: Producer Dave, Elis James Welsh, Elis James, John Robins
-- 2024-07-12 — #350 - Smoked Milk, Wimbers and Let It Beeb Sounds — speakers: Cilla Black, Dave Masterman, Paul McCartney, Andy Murray, Elis James, John Robins
-- 2024-07-09 — #349 - Emergency Intro, The Nanny Estate and The Third Keir — speakers: Lib Dem MP Opik, Producer Dave, Elis James, John Robins
-- 2024-07-05 — #348 - Jazz Flats, Guff Soup and You Can’t Row With Your Mind — speakers: Guff Soup, Rob Auton, Elis James, John Robins
-- 2024-07-02 — #347 - The Great Absolver, Winton’s Well and A Google Docs Kinda Guy — speakers: David Bowie, Elis James, John Robins
-- 2024-06-28 — #346 - £1 Nights Out, Vaping More Than Breathing and Walking Dion Broken Glass — speakers: Dion Dublin, Chloe Petts, Elis James, John Robins
+- 2024-07-19 — #352 - Marl, A Digital Bum Examination and Taking 2 Weeks Off Jalapeños — speakers: Digital Bum Examination, Weeks Off, Elis James, John Robins
+- 2024-07-16 — #351 - Six Figure Per Month Thickos, The Cymru Connection and Let Him Do His Cow — speakers: Six Figure Per Month, Elis James, John Robins
+- 2024-07-12 — #350 - Smoked Milk, Wimbers and Let It Beeb Sounds — speakers: Cilla Black, Dave Masterman, Elis James, John Robins
+- 2024-07-09 — #349 - Emergency Intro, The Nanny Estate and The Third Keir — speakers: Emergency Intro, Cheeky Girls, Lembit Opik, Cheeky Boys, Elis James, John Robins
+- 2024-07-05 — #348 - Jazz Flats, Guff Soup and You Can’t Row With Your Mind — speakers: Guff Soup, Elis James, John Robins
+- 2024-07-02 — #347 - The Great Absolver, Winton’s Well and A Google Docs Kinda Guy — speakers: Elis James, John Robins
+- 2024-06-28 — #346 - £1 Nights Out, Vaping More Than Breathing and Walking Dion Broken Glass — speakers: Elis James, John Robins
 - 2024-06-25 — #345 - Burdening Burden, The Ultimate Head and A Dizzy at Tebay — speakers: Geraint Thomas, Elis James, John Robins
-- 2024-06-21 — #344 - Generation Bodge Job, The Thinking Drinker’s Degree, and A Wazzaaa of Crosbys — speakers: Matthew Crosby, Elis James, John Robins
+- 2024-06-21 — #344 - Generation Bodge Job, The Thinking Drinker’s Degree, and A Wazzaaa of Crosbys — speakers: Elis James, John Robins
 - 2024-06-18 — #343 - Baff, Mooch Ma Mooch and Higs Higs Higs Higs Higs — speakers: Mooch Ma, Higs Elis, Elis James, John Robins
-- 2024-06-14 — #342 - Great Articles Going Unwritten, The Scottish Experience and Good & Long — speakers: Producer Dave, Sean Bean, St Bernard, Elis James, John Robins
-- 2024-06-11 — #341 - Calippolitical, Italia ’90 Games and Eating Bao Buns in Complete Silence — speakers: Eating Bao Buns, Producer Dave, Elis James, John Robins
+- 2024-06-14 — #342 - Great Articles Going Unwritten, The Scottish Experience and Good & Long — speakers: Elis James, John Robins
+- 2024-06-11 — #341 - Calippolitical, Italia ’90 Games and Eating Bao Buns in Complete Silence — speakers: Eating Bao Buns, Elis James, John Robins
 - 2024-06-07 — #340 - Bog Body Ready, Long Haul Phaal and Nish Kumar — speakers: Long Haul Phaal, Elis James, John Robins
-- 2024-06-04 — #339 - Crisp 147s, The Dave Farce and Miss Havisham's Warzone — speakers: Dave Farce, Producer Dave, Elis James, John Robins
+- 2024-06-04 — #339 - Crisp 147s, The Dave Farce and Miss Havisham's Warzone — speakers: Dave Farce, Elis James, John Robins
 - 2024-05-31 — #338 - Task Masters, Blue Moon Peter and Beginner’s Luck: The Adrian Chiles Story — speakers: Blue Moon Peter, Elis James, John Robins
-- 2024-05-28 — #337 - Project Balance, The State of Pitta Breads and Non-Sexual Condensation Writing — speakers: John embark, Producer Dave, Elis James, John Robins
+- 2024-05-28 — #337 - Project Balance, The State of Pitta Breads and Non-Sexual Condensation Writing — speakers: John embark, Elis James, John Robins
 - 2024-05-24 — #336 - Tuffers’ Glow, Buffet Behaviour and Babes In The Mauve Interior — speakers: Buffet Behaviour, Elis James, John Robins
-- 2024-05-21 — #335 - Cursed FC, The Peter Clause and The Tide On Your Nethers — speakers: Elis James, John Robins
-- 2024-05-17 — #334 - Fish Finger Frenzy, Piña Colada Eggs and a Daveless Space — speakers: Cheadle Hulme, John Robins, Charlene Kaye, Elis James
-- 2024-05-14 — #333 - Fine For Bride, So Many Reasons and If You Come For The Queen You Best Not Miss — speakers: Taylor Swift, Johnny JR, Charlene Kaye, Elis James, John Robins
-- 2024-05-10 — #332 - Mr Audio, Love's Best Lubricant and The Man Who Can Eat Three Curries — speakers: Elis James, John Robins
+- 2024-05-21 — #335 - Cursed FC, The Peter Clause and The Tide On Your Nethers — speakers: Nethers Well, Made Up Games, Elis James, John Robins
+- 2024-05-17 — #334 - Fish Finger Frenzy, Piña Colada Eggs and a Daveless Space — speakers: Cheadle Hulme, Elis James, John Robins
+- 2024-05-14 — #333 - Fine For Bride, So Many Reasons and If You Come For The Queen You Best Not Miss — speakers: So Many Reasons, Not Miss, Red Breasts, Elis James, John Robins
+- 2024-05-10 — #332 - Mr Audio, Love's Best Lubricant and The Man Who Can Eat Three Curries — speakers: Mr Audio, Best Lubricant, Eat Three Curries All, Elis James, John Robins
 - 2024-05-07 — #331 - Five Star Bums, Tax Over Taylor and Too Punctual For Love — speakers: Elis James, John Robins
 - 2024-05-03 — #330 - Sleepy Elis, A Corporate Shill for Big Thick and David Gandy — speakers: David Gandy, Elis James, John Robins
-- 2024-04-30 — #329 - Sacked for Sadness, Hated for Content, and A Steady Hand on the Tiller of Love — speakers: Producer Dave, Elis James, John Robins
+- 2024-04-30 — #329 - Sacked for Sadness, Hated for Content, and A Steady Hand on the Tiller of Love — speakers: Elis James, John Robins
 - 2024-04-26 — #328 - The Golden Age of Whaling, Five Whimsical Bananas, and A Robin and A Swift — speakers: Elis James, John Robins
-- 2024-04-23 — #327 - Tim’s Rumpus Room, Pork Chop Calves and Buckinghamshire Living — speakers: Taylor Swift, Elis James, John Robins
-- 2024-04-19 — #326 - Chiles Parsnips, Elis St. John, and Superfruit Cigs — speakers: Elis St John, gym buff, Elis James, John Robins
+- 2024-04-23 — #327 - Tim’s Rumpus Room, Pork Chop Calves and Buckinghamshire Living — speakers: Elis James, John Robins
+- 2024-04-19 — #326 - Chiles Parsnips, Elis St. John, and Superfruit Cigs — speakers: Elis St John, Elis James, John Robins
 - 2024-04-16 — #325 - Taut John, Cake In Your Wallet and Joanne McNally — speakers: Joanne McNally, Elis James, John Robins
-- 2024-04-12 — #324 - Blancmange Bullying, The Custard Slice Scene, and Run to Win and Hate Yourself — speakers: Elis James, John Robins
+- 2024-04-12 — #324 - Blancmange Bullying, The Custard Slice Scene, and Run to Win and Hate Yourself — speakers: Blancmange Bullying, Hate Yourself If, Elis James, John Robins
 - 2024-04-09 — #323 - Fleet McWrap, Handsome Turf and George Kink Lads Only — speakers: Handsome Turf, George Kink Lads, Elis James, John Robins
 - 2024-04-05 — #322 - Specs Appeal, Virgil van Dave, and Toilets At Dench — speakers: Virgil van Dave, John Robins, Colin Firth, Elis James
 - 2024-04-02 — #321 - Psychic Cats, Second Rate Roses and Out of Riff Ammo — speakers: Riff Ammo, Lou Sanders, Elis James, John Robins
 - 2024-03-29 — #320 - The Testosterone Twins, Three Shirt Robins and Restless Irritable Discontented — speakers: Shirt Robins, Elis James, John Robins
-- 2024-03-26 — #319 - Baddies on the Beach, 5 Live At 30 and Thank God for Zabaleta — speakers: Elis James, John Robins
+- 2024-03-26 — #319 - Baddies on the Beach, 5 Live At 30 and Thank God for Zabaleta — speakers: Thank God, Years Old, Elis James, John Robins
 - 2024-03-22 — #318 - Chieveley James, Project Digital Life and The More The Murrayer — speakers: John Robins, Elis James
-- 2024-03-19 — #317 - Tasting Collapse, Ken Coe and James Hoffmann — speakers: Ken Coe, James Hoffmann Never, James Hoffman, Elis James, John Robins
-- 2024-03-15 — #316 - Terrace Fashion Week, Too Much Pastry and Stopping At Heston — speakers: Producer Dave, Elis James, John Robins
+- 2024-03-19 — #317 - Tasting Collapse, Ken Coe and James Hoffmann — speakers: Ken Coe, James Hoffmann Never, Elis James, John Robins
+- 2024-03-15 — #316 - Terrace Fashion Week, Too Much Pastry and Stopping At Heston — speakers: Terrace Fashion Week, Too Much Pastry, Elis James, John Robins
 - 2024-03-12 — #315 - The Tap Scene, Spanish Deception and Cheaper Derby — speakers: Elis James, John Robins
 - 2024-03-08 — #314 - King Kia, Three Course Curry and Cow Pat PR — speakers: Cow Pat PR, Producer Dave, Elis James, John Robins
 - 2024-03-05 — #313 - Weaving Willow, Vague Cawl and Soft Play VAR — speakers: Elis James, John Robins
-- 2024-03-01 — #312 - Swansea Spielberg, Mooning Armada and a Stain on Global Culture — speakers: Mooning Armada, Otley Run, Elis James, John Robins
-- 2024-02-27 — #311 - Bonce Funk, Improving Esperanto and The Audio Foyer — speakers: Elis James, John Robins, Producer Dave
+- 2024-03-01 — #312 - Swansea Spielberg, Mooning Armada and a Stain on Global Culture — speakers: Mooning Armada, Elis James, John Robins
+- 2024-02-27 — #311 - Bonce Funk, Improving Esperanto and The Audio Foyer — speakers: Bonce Funk, Improving Esperanto, Elis James, John Robins
 - 2024-02-23 — #310 - Didgeridinners, Our Oprah and Telford Is A Tear Duct — speakers: Elis James, John Robins
 - 2024-02-20 — #309 - Condo Cheese, Stepdad Energy and Psychic Hangovers — speakers: Psychic Hangovers, Elis James, John Robins
 - 2024-02-16 — #308 - The Double Ds, O'Doherty Ditties and A Lesson In Jingles — speakers: Elis James, John Robins
-- 2024-02-13 — #307 - Pleasure Parity, Content Camaraderie and A Thumbless Month — speakers: Content Camaraderie, Elis James, John Robins, Producer Dave
+- 2024-02-13 — #307 - Pleasure Parity, Content Camaraderie and A Thumbless Month — speakers: Content Camaraderie, Elis James, John Robins
 - 2024-02-09 — #306 - The Banter Box, Six Feet From Stardom and Where's Lincoln? — speakers: Elis James, John Robins
-- 2024-02-06 — #305 - Anxious Orange, Alpha Max Force and A Tartt Tip-Off — speakers: Alpha Max Force, Elis James, John Robins, Producer Dave
+- 2024-02-06 — #305 - Anxious Orange, Alpha Max Force and A Tartt Tip-Off — speakers: Alpha Max Force, Elis James, John Robins
 - 2024-02-02 — The Great Reset: 'Broadcasting Britain Back Better' — speakers: Elis James, John Robins
 - 2024-01-30 — The Great Reset: 'Igniting the Spark' — speakers: Producer Dave, Elis James, John Robins
 - 2024-01-26 — The Great Reset: 'A Digital Empire' — speakers: Elis James, John Robins
 - 2024-01-23 — The Great Reset: 'Let's Kick This Show Off the Road' — speakers: Producer Dave, Elis James, John Robins
-- 2023-12-29 — #304 - Elis James and John Robins: The Best of 2023 — speakers: John Robins, Bob Marley, Elis James, Producer Dave, Double Elis
-- 2023-12-22 — #303 - Robbyns Resolutions, Secret Scents and Chaff Tuesday — speakers: Elis James, John Robins, DI Robbyns
+- 2023-12-29 — #304 - Elis James and John Robins: The Best of 2023 — speakers: John Robins, Bob Marley, Elis James
+- 2023-12-22 — #303 - Robbyns Resolutions, Secret Scents and Chaff Tuesday — speakers: Robbyns Resolutions, Secret Scents, Chaff Tuesday Christmas, Elis James, John Robins
 - 2023-12-15 — #302 - Sounds & Sons, David D. Craddock and Two Sides of the Groin — speakers: Producer Dave, Elis James, John Robins
-- 2023-12-08 — #301 - Going Grain, Hannon Handshakes and Peak Bleak — speakers: Hannon Handshakes, Peak Bleak, John Robins, Neil Hannon, Producer Dave, Tony Livesey, Elis James
-- 2023-12-01 — #300 - Digital Decades, Comedic Offbeatsman and Basic Podcast Strategy — speakers: Comedic Offbeatsman, Elis James, John Robins, Producer Dave
-- 2023-11-24 — #299 - Pylon Following, 50 Under 50 and Lou’s Big Birthday — speakers: Lou’s Big Birthday Due, Elis James, John Robins, Lou Sanders, John’s Motorway Musings, Producer Dave
-- 2023-11-17 — #298 - Tahini Trouble, Jivo Graham and Ruddy Angry — speakers: Jivo Graham, Ruddy Angry, John Robins, Ivo Graham, Tony Livesey, Producer Dave, Elis James
-- 2023-11-10 — #297 - Sexy Snails, Retired Waistcoats and Ice Cream Calamity — speakers: Retired Waistcoats, Producer Dave, John’s Motorway Musings, Producer Dave one, Elis James, John Robins
-- 2023-11-03 — #296 - PDF Radio, Tourbasco and A Bag of Prawns — speakers: Elis James, Uncle Todd, Producer Dave, John Robins
+- 2023-12-08 — #301 - Going Grain, Hannon Handshakes and Peak Bleak — speakers: Hannon Handshakes, Peak Bleak, Elis James, John Robins
+- 2023-12-01 — #300 - Digital Decades, Comedic Offbeatsman and Basic Podcast Strategy — speakers: Comedic Offbeatsman, Elis James, John Robins
+- 2023-11-24 — #299 - Pylon Following, 50 Under 50 and Lou’s Big Birthday — speakers: Lou’s Big Birthday Due, Elis James, John Robins
+- 2023-11-17 — #298 - Tahini Trouble, Jivo Graham and Ruddy Angry — speakers: Jivo Graham, Ruddy Angry, John Robins, Elis James
+- 2023-11-10 — #297 - Sexy Snails, Retired Waistcoats and Ice Cream Calamity — speakers: Retired Waistcoats, Elis James, John Robins
+- 2023-11-03 — #296 - PDF Radio, Tourbasco and A Bag of Prawns — speakers: Elis James, John Robins
 - 2023-10-27 — #295 - Badmin, Comedy Tapas and Making Uncertain Memories — speakers: Comedy Tapas, Elis James, John Robins
-- 2023-10-20 — #294 - Derbyshire Disrespect, Fruity Boy & Veg Head and Vibing On Ice — speakers: John similar, Lou Sanders, Producer Dave, Ricky Hatton, Elis James, John Robins
-- 2023-10-13 — #293 - The Darkness of Dave, Hoi Polloi and Jacqueline Wilson (A) — speakers: Jacqueline Wilson, Elis James, John Robins, Ivo Graham
-- 2023-10-06 — #292 - Smelting Success, Powerful Honey and The Arena of Worry — speakers: Powerful Honey, Producer Dave, Tim Buckley, Elis James, John Robins
+- 2023-10-20 — #294 - Derbyshire Disrespect, Fruity Boy & Veg Head and Vibing On Ice — speakers: John similar, Elis James, John Robins
+- 2023-10-13 — #293 - The Darkness of Dave, Hoi Polloi and Jacqueline Wilson (A) — speakers: Jacqueline Wilson, Elis James, John Robins
+- 2023-10-06 — #292 - Smelting Success, Powerful Honey and The Arena of Worry — speakers: Powerful Honey, Elis James, John Robins
 - 2023-09-29 — #291 - Mancunian Positive John (Bonus #Content) — speakers: Elis James, John Robins
-- 2023-09-22 — #290 - Giftshop Gripes, D-Reamits and We Go To Tunbridge Wells — speakers: Producer Dave, Elis James, John Robins
-- 2023-09-15 — #289 - Primary Porkies, Theatre Thickos and Fun In The Fens — speakers: Elis James, John Robins
-- 2023-09-08 — #288 - Auction Action, DI Dre and Thought Knox — speakers: DI Dre, Thought Knox, Producer Dave, Robbie Knox, Elis James, John Robins
-- 2023-09-01 — #287 - Memoirhahas, Cat Flap Chaos and Tessellation Turmoil — speakers: John Robins, Lou Sanders, Elis James
-- 2023-08-25 — #286 - Sesame Oil Surfeits, Nature's Printer and Seagull Supporters — speakers: Seagull Supporters, Johnny JR, Rob Auton, Producer Dave, Elis James, John Robins
-- 2023-08-18 — #285 - Elis and John Live from Edinburgh — speakers: Ania Magliano, David O'Doherty, Elis James, John Robins
-- 2023-08-11 — #284 - Maximum Mystery, Trainecdotes and Internal Risk Assessments — speakers: Ivo Graham, Janine Harouni, Producer Dave, DI Robbyns, Elis James, John Robins
-- 2023-08-04 — #283 - Minor Key Comedy, Same Old Larkin and Frank Skinner — speakers: Frank Skinner, John Robins, Producer Dave, Tony Livesey, Elis James
-- 2023-07-28 — #282 - Oldroyd Sorbet, #Biceps and A Macchichatiato — speakers: Johnny JR, Producer Dave, Elis James, John Robins
-- 2023-07-21 — #281 - It’s A Blunderful Life (Bonus #Content) — speakers: Producer Dave, Peter Beagrie, Elis James, John Robins
+- 2023-09-22 — #290 - Giftshop Gripes, D-Reamits and We Go To Tunbridge Wells — speakers: Elis James, John Robins
+- 2023-09-15 — #289 - Primary Porkies, Theatre Thickos and Fun In The Fens — speakers: Elis James, John Rob, John Robins
+- 2023-09-08 — #288 - Auction Action, DI Dre and Thought Knox — speakers: DI Dre, Thought Knox, Producer Dave, Elis James, John Robins
+- 2023-09-01 — #287 - Memoirhahas, Cat Flap Chaos and Tessellation Turmoil — speakers: John Robins, Elis James
+- 2023-08-25 — #286 - Sesame Oil Surfeits, Nature's Printer and Seagull Supporters — speakers: Seagull Supporters, Johnny JR, Elis James, John Robins
+- 2023-08-18 — #285 - Elis and John Live from Edinburgh — speakers: Elis James, John Robins
+- 2023-08-11 — #284 - Maximum Mystery, Trainecdotes and Internal Risk Assessments — speakers: Elis James, John Robins
+- 2023-08-04 — #283 - Minor Key Comedy, Same Old Larkin and Frank Skinner — speakers: Frank Skinner, Elis James, John Robins
+- 2023-07-28 — #282 - Oldroyd Sorbet, #Biceps and A Macchichatiato — speakers: Elis James, John Robins
+- 2023-07-21 — #281 - It’s A Blunderful Life (Bonus #Content) — speakers: Elis James, John Robins
 - 2023-07-14 — #280 - Suit, Shoes and Swimming Trunks (Bonus #Content) — speakers: Producer Dave, Elis James, John Robins
-- 2023-07-07 — #279 - CCC: Customer Condiment Control (Bonus #Content) — speakers: Elis James, John Robins
-- 2023-06-30 — #278 - Stage Time Stresses, Dignity Biscuits and A Barrel of Eggs — speakers: Producer Dave, DI Robbyns, Nick Wallis, Mrs Wallis, Elis James, John Robins
-- 2023-06-23 — #277 - Glastonbury Gripes, Fiscal Vasectomies and Perfect Ploughmi — speakers: Perfect Ploughmi, Producer Dave, Elis James, John Robins
-- 2023-06-16 — #276 - King Vinegar, Precinct Penchants and the Magic of Chiles — speakers: Precinct Penchants, Producer Dave, DI Robbyns, Elis James, John Robins
-- 2023-06-09 — #275 - Bumbag Bravado, Remunerationships and Adam From Bungay — speakers: Elis James, John Robins, Producer Dave
-- 2023-06-02 — #274 - Date City Central, Forty Slinks and Reece With A Spoon — speakers: Lou Sanders, Producer Dave, Elis James, John Robins
-- 2023-05-26 — #273 - Kwik Save Clothes, Tallinn Jokes and Big Bisc — speakers: Elis James, Producer Dave, James Bond, John Robins
+- 2023-07-07 — #279 - CCC: Customer Condiment Control (Bonus #Content) — speakers: Customer Condiment Control, Elis James, John Robins
+- 2023-06-30 — #278 - Stage Time Stresses, Dignity Biscuits and A Barrel of Eggs — speakers: Elis James, John Robins
+- 2023-06-23 — #277 - Glastonbury Gripes, Fiscal Vasectomies and Perfect Ploughmi — speakers: Perfect Ploughmi, Elis James, John Robins
+- 2023-06-16 — #276 - King Vinegar, Precinct Penchants and the Magic of Chiles — speakers: Precinct Penchants, Elis James, John Robins
+- 2023-06-09 — #275 - Bumbag Bravado, Remunerationships and Adam From Bungay — speakers: Elis James, John Robins
+- 2023-06-02 — #274 - Date City Central, Forty Slinks and Reece With A Spoon — speakers: Elis James, John Robins
+- 2023-05-26 — #273 - Kwik Save Clothes, Tallinn Jokes and Big Bisc — speakers: Kwik Save Clothes, Tallinn Jokes, Broadcasting House, Elis James, John Robins
 - 2023-05-19 — #272 - Noodle Season, Taunton Pastrami and Foyer Residencies — speakers: Taunton Pastrami, Elis James, John Robins
-- 2023-05-12 — #271 - Fragrant Disregard, Druids In Need and The Man of Steele — speakers: Producer Dave, Elis James, John Robins
-- 2023-05-05 — #270 - Toddler Tatts, Centenary Sprinters and Own Brand Stout — speakers: Centenary Sprinters, King Charles Iii, Union Jack, Tony Livesey, Elis James, John Robins
-- 2023-04-28 — #269 - Bonus Mobility, Long Awaited Wazzes and Aggers On Dressage — speakers: John Robins, Producer Dave, Elis James
+- 2023-05-12 — #271 - Fragrant Disregard, Druids In Need and The Man of Steele — speakers: Fragrant Disregard, Elis James, John Robins
+- 2023-05-05 — #270 - Toddler Tatts, Centenary Sprinters and Own Brand Stout — speakers: Centenary Sprinters, Elis James, John Robins
+- 2023-04-28 — #269 - Bonus Mobility, Long Awaited Wazzes and Aggers On Dressage — speakers: Elis James, John Robins
 - 2023-04-21 — #268 - The Royal Tab, Insanity Platters and DI Robbyns — speakers: DI Robbyns Elis, Elis James, John Robins
-- 2023-04-14 — #267 - Atomic Bum, Apologetic Moshing and Yo Shoeshi — speakers: Atomic Bum, Yo Shoeshi, Elis James, Ivo Graham, Producer Dave, John Robins
-- 2023-04-07 — #266 - Single Pringles, Sportageddon and 225 Lollipop Ladies — speakers: John Tax Year Calendar, Producer Dave, Elis James, John Robins
-- 2023-03-31 — #265 - Vampire Grannies, Breaking Beale and John’s Dream Seat — speakers: Breaking Beale, John’s Dream Seat, Burgundy Mercedes, Elis James, John Robins
-- 2023-03-24 — #264 - Slimline Biscuits, Impartial Spines and Tweet The Internet — speakers: Beefcake Robins, Rick Edwards, Producer Dave, Tony Livesey, Elis James, John Robins
-- 2023-03-17 — #263 - Dockers Dictionary, Postcode Dave and Floss Comedy — speakers: Postcode Dave, Floss Comedy, Producer Dave, Elis James, John Robins
-- 2023-03-10 — #262 - Robot Lasagne, Sink Sabotage and Ping When You’re Winning — speakers: John Tax Year Calendar, Elis James, John Robins
+- 2023-04-14 — #267 - Atomic Bum, Apologetic Moshing and Yo Shoeshi — speakers: Atomic Bum, Yo Shoeshi, Elis James, John Robins
+- 2023-04-07 — #266 - Single Pringles, Sportageddon and 225 Lollipop Ladies — speakers: John Tax Year Calendar, Elis James, John Robins
+- 2023-03-31 — #265 - Vampire Grannies, Breaking Beale and John’s Dream Seat — speakers: Breaking Beale, John’s Dream Seat, Elis James, John Robins
+- 2023-03-24 — #264 - Slimline Biscuits, Impartial Spines and Tweet The Internet — speakers: Beefcake Robins, Elis James, John Robins
+- 2023-03-17 — #263 - Dockers Dictionary, Postcode Dave and Floss Comedy — speakers: Postcode Dave, Floss Comedy, Elis James, John Robins
+- 2023-03-10 — #262 - Robot Lasagne, Sink Sabotage and Ping When You’re Winning — speakers: Elis James, John Robins
 - 2023-03-03 — #261 - Riff Yourself Thin, Sexy Elis and Bury’d In Shame — speakers: Elis James, John Robins
-- 2023-02-24 — #260 - Epsom Mad Funkers, Celestial Kick Ups and Capers Capers — speakers: Producer Dave, Elis James, John Robins
-- 2023-02-17 — #259 - FTSE Friday, Shy Erotica and Guff Complaints — speakers: Shy Erotica, Guff Complaints, Anirban Lahiri, John Robins, Comic Relief, Producer Dave, Elis James
-- 2023-02-10 — #258 - Martin Lewis, Operation Snack and Takeaway Tittle-Tattle — speakers: Takeaway Tittle-Tattle, Martin Lewis, Martin Lewis Cbe, Elis James, John Robins
-- 2023-02-03 — #257 - Tweet The Internet, Sexual Cul-De-Sacs and Tube Quiz Champ — speakers: Sexual Cul-De-Sacs, Producer Dave, Cheadle Hulme, Elis James, John Robins
-- 2023-01-27 — #256 - Goss Bros, Source A Horse and Space Invader Ska — speakers: Producer Dave, Elis James, John Robins
+- 2023-02-24 — #260 - Epsom Mad Funkers, Celestial Kick Ups and Capers Capers — speakers: Epsom Mad Funkers, Celestial Kick Ups, Capers Capers, Elis James, John Robins
+- 2023-02-17 — #259 - FTSE Friday, Shy Erotica and Guff Complaints — speakers: Shy Erotica, Guff Complaints, Elis James, John Robins
+- 2023-02-10 — #258 - Martin Lewis, Operation Snack and Takeaway Tittle-Tattle — speakers: Takeaway Tittle-Tattle, Elis James, John Robins
+- 2023-02-03 — #257 - Tweet The Internet, Sexual Cul-De-Sacs and Tube Quiz Champ — speakers: Sexual Cul-De-Sacs, Producer Dave broadcastin, Elis James, John Robins
+- 2023-01-27 — #256 - Goss Bros, Source A Horse and Space Invader Ska — speakers: Elis James, John Robins
 - 2023-01-20 — #255 - Loving Lightly, Liner Pies and VAT Bottomed Girls — speakers: Vat Bottomed Girls, Elis James, John Robins
-- 2023-01-13 — #254 - George Ezra, Horny Traffic and Bond’s Great Escape — speakers: George Ezra, Georgie Ezra, Elis James, John Robins
+- 2023-01-13 — #254 - George Ezra, Horny Traffic and Bond’s Great Escape — speakers: George Ezra, Elis James, John Robins
 - 2023-01-06 — #253 - Pylon Alley, Chairman Meow and 1.2kg of Self-Reproach — speakers: Elis James, John Robins
-- 2022-12-30 — #252 - Elis James and John Robins: The Best of 2022 — speakers: John Robins, Producer Dave, Pigeon Detectives, Elis James
-- 2022-12-25 — #249 - Elis and John's Made Up Games Christmas Special — speakers: Elis James, John Robins, Producer Dave
+- 2022-12-30 — #252 - Elis James and John Robins: The Best of 2022 — speakers: John Robins, Elis James
+- 2022-12-25 — #249 - Elis and John's Made Up Games Christmas Special — speakers: Elis James, John Robins
 - 2022-12-23 — #251 - Thawduroy, Chiles Play and A Breakdown In Glencoe — speakers: Chiles Play, Elis James, John Robins
-- 2022-12-16 — #250 - Operation Semaphore, 22 Pill Mipes and Naga's Perfect Roasties — speakers: Bbc Bristol, Producer Dave, Roy Keane, Elis James, John Robins
+- 2022-12-16 — #250 - Operation Semaphore, 22 Pill Mipes and Naga's Perfect Roasties — speakers: Elis James, John Robins
 - 2022-12-09 — #248 - Honey Traps, Window Misteries and Van Outen: The One That Got Away — speakers: Elis James, John Robins
-- 2022-12-02 — #247 - Melon FM, John's Hot Nuts and Fackets — speakers: Fred Dibnah, Producer Dave, Elis James, John Robins
-- 2022-11-25 — #246 - Educated Fleas, Pomegranate Fridges and Wee Out Your Concerns (Bonus #Content) — speakers: Producer Dave, Elis James, John Robins
-- 2022-11-18 — #245 - Two Belt Tony, Good Radio Richard and Sandwiches In The Dark — speakers: Thankfully John, Elis James, John Robins
-- 2022-11-11 — #244 - Stodge Then Dodge, Topknot Tony and Love Thy Rut — speakers: Topknot Tony, Tony Livesey, Elis James, John Robins
-- 2022-11-04 — #243 - Phone Formations, Lies Monthly and Pick Ye Candles — speakers: Pick Ye Candles, Producer Dave, Squandering Extravagance, Elis James, John Robins
+- 2022-12-02 — #247 - Melon FM, John's Hot Nuts and Fackets — speakers: Fred Dibnah, Elis James, John Robins
+- 2022-11-25 — #246 - Educated Fleas, Pomegranate Fridges and Wee Out Your Concerns (Bonus #Content) — speakers: Educated Fleas, Pomegranate Fridges, World Cup, Elis James, John Robins
+- 2022-11-18 — #245 - Two Belt Tony, Good Radio Richard and Sandwiches In The Dark — speakers: Elis James, John Robins
+- 2022-11-11 — #244 - Stodge Then Dodge, Topknot Tony and Love Thy Rut — speakers: Topknot Tony, Elis James, John Robins
+- 2022-11-04 — #243 - Phone Formations, Lies Monthly and Pick Ye Candles — speakers: Pick Ye Candles, Elis James, John Robins
 - 2022-10-28 — #242 - Davestation, Flexing For Britain and The BACS Zone — speakers: Producer Dave, Elis James, John Robins
-- 2022-10-21 — #241 - Crossman’s Mullet, Bingo Bango Bongo and Can Mentality — speakers: Producer Dave, Elis James, John Robins
-- 2022-10-14 — #240 - Café del Marsterman, Lonely Fans and Weymouth Whining — speakers: Producer Dave, Elton John, Elis James, John Robins
-- 2022-10-07 — #239 - Müttley Crüe, Aroused Lightning and Welsh Washing — speakers: Ivo Graham, Elis James, John Robins, Producer Dave, Tony Livesey
-- 2022-09-30 — #238 - Spartan Skodas, Curveball Carvery and The Terracotta Assassin — speakers: Elis James, Ivo Graham, Producer Dave Nearly, John Robins
-- 2022-09-24 — #237 - Clown Of The Scrum, Party Squirrels and Darklord866 — speakers: John Robins, Tony Livesey, Elis James
-- 2022-09-22 — #236 - "I Thought I Needed A Reason To Just Give Me To Shake Things Up A Bit" (Bonus #Content) — speakers: John Robins, Producer Dave, Glenn Moore, Elis James
-- 2022-09-16 — #235 - Breakfast Broccoli, Digit Wilson and Too Hot Tubs — speakers: Digit Wilson, Producer Dave, Elis James, John Robins
-- 2022-09-02 — #234 - Back On The Bix, Tea Bag Trunks and Stew Psychics — speakers: Tea Bag Trunks, Producer Dave, Elis James, John Robins
-- 2022-08-26 — #233 - Radio Robot, Pasty Pain and Stinky Sauntering — speakers: Pasty Pain, Stinky Sauntering John, Producer Dave, Matt Forde, Elis James, John Robins
-- 2022-08-19 — #232 - Huwid Edwards, Doctor Theatre and A Mick Foley Folly — speakers: Producer Dave, Elis James, John Robins
-- 2022-08-12 — #231 - Padre Pig, Ingleby Greenhow and The Autonators — speakers: Ingleby Greenhow, Producer Dave, Rob Auton, John’s Edinburgh, Elis James, John Robins
-- 2022-08-05 — #230 - Rockless Fields, Flyering High and Passport Portraits — speakers: John Robins, Producer Dave, Richard Herring, Tony Livesey, Elis James
-- 2022-07-29 — #229 - Bathroom Balconies, Tea Bag Tribulations and Mayor Doobliani — speakers: Producer Dave, Elis James, John Robins
-- 2022-07-22 — #228 - Tricky Chinos, Cushion Collectives and Ellen White — speakers: Ellen White, Lou Sanders, Johnny JR, Mystic Megan, Elis James, John Robins
-- 2022-07-15 — #227 - The Vacation Tapes: Falkland Islands — speakers: Elis James, John Robins, Producer Dave
+- 2022-10-21 — #241 - Crossman’s Mullet, Bingo Bango Bongo and Can Mentality — speakers: Elis James, John Robins
+- 2022-10-14 — #240 - Café del Marsterman, Lonely Fans and Weymouth Whining — speakers: Elis James, John Robins
+- 2022-10-07 — #239 - Müttley Crüe, Aroused Lightning and Welsh Washing — speakers: Elis James, John Robins
+- 2022-09-30 — #238 - Spartan Skodas, Curveball Carvery and The Terracotta Assassin — speakers: Elis James, John Robins
+- 2022-09-24 — #237 - Clown Of The Scrum, Party Squirrels and Darklord866 — speakers: Party Squirrels, United Kingdom, Elis James, John Robins
+- 2022-09-22 — #236 - "I Thought I Needed A Reason To Just Give Me To Shake Things Up A Bit" (Bonus #Content) — speakers: John Robins, Producer Dave, Elis James
+- 2022-09-16 — #235 - Breakfast Broccoli, Digit Wilson and Too Hot Tubs — speakers: Digit Wilson, Elis James, John Robins
+- 2022-09-02 — #234 - Back On The Bix, Tea Bag Trunks and Stew Psychics — speakers: Tea Bag Trunks, Elis James, John Robins
+- 2022-08-26 — #233 - Radio Robot, Pasty Pain and Stinky Sauntering — speakers: Pasty Pain, Stinky Sauntering John, Elis James, John Robins
+- 2022-08-19 — #232 - Huwid Edwards, Doctor Theatre and A Mick Foley Folly — speakers: Producer Dave presen, Elis James, John Robins
+- 2022-08-12 — #231 - Padre Pig, Ingleby Greenhow and The Autonators — speakers: Ingleby Greenhow, Elis James, John Robins
+- 2022-08-05 — #230 - Rockless Fields, Flyering High and Passport Portraits — speakers: John Robins, Elis James
+- 2022-07-29 — #229 - Bathroom Balconies, Tea Bag Tribulations and Mayor Doobliani — speakers: Elis James, John Robins
+- 2022-07-22 — #228 - Tricky Chinos, Cushion Collectives and Ellen White — speakers: Ellen White, Lou Sanders, Johnny JR, Elis James, John Robins
+- 2022-07-15 — #227 - The Vacation Tapes: Falkland Islands — speakers: Elis James, John Robins
 - 2022-07-12 — #226 - Elis and John at The Podcast Show Live 2022 — speakers: Elis James, John Robins
-- 2022-07-08 — #225 - The Vacation Tapes: New York — speakers: Elis James, John Robins, Producer Dave
+- 2022-07-08 — #225 - The Vacation Tapes: New York — speakers: Elis James, John Robins
 - 2022-07-05 — #224 - A Scottish Odyssey with John Robins: Episode Three — speakers: John Robins, Elis James
-- 2022-07-05 — #223 - A Scottish Odyssey with John Robins: Episode Two — speakers: John Robins, Loch Lomond, Elis James
+- 2022-07-05 — #223 - A Scottish Odyssey with John Robins: Episode Two — speakers: John Robins, Elis James
 - 2022-07-05 — #222 - A Scottish Odyssey with John Robins: Episode One — speakers: John Robins, Elis James
-- 2022-07-01 — #221 - The Vacation Tapes: Ayia Napa — speakers: Ayia Napa, Elis James, John Robins, Producer Dave
-- 2022-06-24 — #220 - Batican City, Vape Island and The Dave Dollar — speakers: Producer Dave, Elis James, John Robins
-- 2022-06-21 — #219 - An Irish Odyssey with John Robins: Episode Three — speakers: John Robins, Andrew Ryan, Elis James
-- 2022-06-21 — #218 - An Irish Odyssey with John Robins: Episode Two — speakers: John Robins, Andrew Ryan, Elis James
+- 2022-07-01 — #221 - The Vacation Tapes: Ayia Napa — speakers: Ayia Napa, Elis James, John Robins
+- 2022-06-24 — #220 - Batican City, Vape Island and The Dave Dollar — speakers: Batican City, Vape Island, Elis James, John Robins
+- 2022-06-21 — #219 - An Irish Odyssey with John Robins: Episode Three — speakers: John Robins, Elis James
+- 2022-06-21 — #218 - An Irish Odyssey with John Robins: Episode Two — speakers: John Robins, Elis James
 - 2022-06-21 — #217 - An Irish Odyssey with John Robins: Episode One — speakers: John Robins, Elis James
-- 2022-06-17 — #216 - Har Cire, Twin Leaks and Lashing With Livesey — speakers: Producer Dave, Elis James, John Robins
-- 2022-06-10 — #215 - Rum of Thorns, Stat Chat and Macca’s Margarita — speakers: John Robins, statistician Ross, Elis James
-- 2022-06-03 — #214 - Tawdry Tents, Lost Lou and Duped John — speakers: Lost Lou, Duped John, Lou Sanders, Ole Gunnar Solskjær, Shame Wells, Producer Matt, Elis James, John Robins
-- 2022-05-27 — #213 - Riff Tower, Lyrical Kisses and The Naked DJ — speakers: Elis James, John Robins
-- 2022-05-20 — #212 - Stumbledore, Wrist Chips and Trans-Atlantic Lager — speakers: Producer Dave, Elis James, John Robins
-- 2022-05-13 — #211 - Lunge Lieutenants, Mansfield Action and Too Few Cooks — speakers: John Robins, Jesus Christ, Producer Matt, Elis James
+- 2022-06-17 — #216 - Har Cire, Twin Leaks and Lashing With Livesey — speakers: John rai, Elis James, John Robins
+- 2022-06-10 — #215 - Rum of Thorns, Stat Chat and Macca’s Margarita — speakers: John Robins, Elis James
+- 2022-06-03 — #214 - Tawdry Tents, Lost Lou and Duped John — speakers: Lost Lou, Duped John, Lou Sander, Elis James, John Robins
+- 2022-05-27 — #213 - Riff Tower, Lyrical Kisses and The Naked DJ — speakers: Riff Tower, Lyrical Kisses, Elis James, John Robins
+- 2022-05-20 — #212 - Stumbledore, Wrist Chips and Trans-Atlantic Lager — speakers: Elis James, John Robins
+- 2022-05-13 — #211 - Lunge Lieutenants, Mansfield Action and Too Few Cooks — speakers: John Robins, Elis James
 - 2022-05-06 — #210 - Timezone Tension, Birthday BACS and Sir Michael McIntyre — speakers: Michael McIntyre, John Robins, Elis James
-- 2022-04-29 — #209 - Sheet Traffic, First Date Dave and Rent-a-Loo — speakers: Johnny JR, Producer Dave, Elis James, John Robins
-- 2022-04-22 — #208 - Sardine Starter, Bond's Batteries and Long Arm John — speakers: Long Arm John, Johnny JR, Producer Dave, Elis James, John Robins
-- 2022-04-15 — #207 - Bean Bag Beds, Intensely Salford and Weekday Weddings — speakers: Johnny Vaughan, Producer Dave, Elis James, John Robins
-- 2022-04-08 — #206 - Special Spreadsheets, Armani John and Costa Del Amor — speakers: Armani John, Costa Del Amor, Elis James, Thankfully John, Producer Dave, John Robins
-- 2022-04-01 — #205 - Trickling Bunton, Tiny Baths and Wrong John — speakers: Tiny Baths, Wrong John, Producer Dave, Elis James, John Robins
-- 2022-03-25 — #204 - Emotional Elis, Watering Can Woes and Dover Displeasure — speakers: Producer Dave, Elis James, John Robins
-- 2022-03-18 — #203 - Midnight Onions, Balmy Abodes and Headlamp Laments — speakers: Headlamp Laments, John Robins, Johnny JR, Producer Dave, Elis James
-- 2022-03-11 — #202 - Stuff Radio, Muscle Memory and BJ (Box Junction) Jeopardy — speakers: Muscle Memory, Producer Dave, John Dunning-Kruger, Elis James, John Robins
-- 2022-03-04 — #201 - Big Brine, Jawbone Jazz, and The Marquis of Masala — speakers: Producer Dave, Elis James, John Robins
-- 2022-02-25 — #200 - The Riff Matrix, Ceiling Scenarios and Humble Darts (Bonus #content) — speakers: Humble Darts, Producer Dave, Elis James, John Robins
-- 2022-02-18 — #199 - Timeless John, Hairdryer Hacks and Fore Facts — speakers: Hairdryer Hacks, Storm Eunice, Producer Dave, Elis James, John Robins
-- 2022-02-11 — #198 - Smalltalk Tony, Clueless Kluivert and Definition Dread — speakers: Clueless Kluivert, Producer Dave, Elis James, John Robins
-- 2022-02-04 — #197 - Human Dressage, Chaud Shame and Stunning Lamb — speakers: Stunning Lamb, Producer Dave, Alan Partridge, Elis James, John Robins
-- 2022-01-28 — #196 - Tax To The Max, The SWC and Elis’s Late Night — speakers: Chris Evans, David Guetta, Producer Dave, Elis James, John Robins
-- 2022-01-21 — #195 - Plastic Pipes, Trouser Tantrums and Hip Hop Hodgson — speakers: Hip Hop Hodgson, Elis James, Producer Dave, John Robins
-- 2022-01-14 — #194 - Gas Galore, Code Red Robins and Four Squats To The Wind — speakers: Elis James, Thankfully Elis, Producer Dave, John Robins
-- 2022-01-07 — #193 - Ben’s Bananas, JR MK13 and Ironic Ironing — speakers: Producer Dave, Elis James, John Robins
-- 2021-12-31 — #192 - Elis James and John Robins: The Best of 2021 — speakers: John Robins, Skoda Fabia, John HQ Happy, Elis James
+- 2022-04-29 — #209 - Sheet Traffic, First Date Dave and Rent-a-Loo — speakers: Johnny JR, Elis James, John Robins
+- 2022-04-22 — #208 - Sardine Starter, Bond's Batteries and Long Arm John — speakers: Long Arm John, Elis James, John Robins
+- 2022-04-15 — #207 - Bean Bag Beds, Intensely Salford and Weekday Weddings — speakers: Johnny Vaughan, Elis James, John Robins
+- 2022-04-08 — #206 - Special Spreadsheets, Armani John and Costa Del Amor — speakers: Armani John, Costa Del Amor, Elis James, John Robins
+- 2022-04-01 — #205 - Trickling Bunton, Tiny Baths and Wrong John — speakers: Tiny Baths, Wrong John, Elis James, John Robins
+- 2022-03-25 — #204 - Emotional Elis, Watering Can Woes and Dover Displeasure — speakers: Elis James, John Robins
+- 2022-03-18 — #203 - Midnight Onions, Balmy Abodes and Headlamp Laments — speakers: Headlamp Laments, Elis James, John Robins
+- 2022-03-11 — #202 - Stuff Radio, Muscle Memory and BJ (Box Junction) Jeopardy — speakers: Muscle Memory, Producer Dave, Elis James, John Robins
+- 2022-03-04 — #201 - Big Brine, Jawbone Jazz, and The Marquis of Masala — speakers: Elis James, John Robins
+- 2022-02-25 — #200 - The Riff Matrix, Ceiling Scenarios and Humble Darts (Bonus #content) — speakers: Humble Darts, Elis James, John Robins
+- 2022-02-18 — #199 - Timeless John, Hairdryer Hacks and Fore Facts — speakers: Hairdryer Hacks, Storm Eunice, Elis James, John Robins
+- 2022-02-11 — #198 - Smalltalk Tony, Clueless Kluivert and Definition Dread — speakers: Clueless Kluivert, Elis James, John Robins
+- 2022-02-04 — #197 - Human Dressage, Chaud Shame and Stunning Lamb — speakers: Stunning Lamb, Elis James, John Robins
+- 2022-01-28 — #196 - Tax To The Max, The SWC and Elis’s Late Night — speakers: Elis James, John Robins
+- 2022-01-21 — #195 - Plastic Pipes, Trouser Tantrums and Hip Hop Hodgson — speakers: Hip Hop Hodgson, Elis James, John Robins
+- 2022-01-14 — #194 - Gas Galore, Code Red Robins and Four Squats To The Wind — speakers: Elis James, John Robins
+- 2022-01-07 — #193 - Ben’s Bananas, JR MK13 and Ironic Ironing — speakers: Ironic Ironing, Elis James, John Robins
+- 2021-12-31 — #192 - Elis James and John Robins: The Best of 2021 — speakers: John Robins, Elis James
 - 2021-12-25 — #191 - Christmas Day with Elis and John — speakers: John’s house Elis, Producer Dave, Elis James, John Robins
-- 2021-12-24 — #190 - Christmas Eve with Elis and John — speakers: John Clement, Clarke Moore, Producer Dave, Elis James, John Robins
+- 2021-12-24 — #190 - Christmas Eve with Elis and John — speakers: John Clement, Clarke Moore, Elis James, John Robins
 - 2021-12-17 — #189 - Throuple Trouble, Big Sprout and Chip Bread — speakers: Chip Bread, Producer Dave, Elis James, John Robins
 - 2021-12-10 — #188 - John Virgo, John Cooper-Clarke & John Vaughan — speakers: John Virgo, John Cooper-Clarke, John Vaughan Elis, Elis James, John Robins
-- 2021-12-03 — #187 - Super Cans, Bagpipe Blues and Circling Sissons — speakers: Bagpipe Blues, Producer Dave, Elis James, John Robins
-- 2021-11-26 — #186 - Solid Swans, Fridge The Ridge and Salve João — speakers: Salve João, Elis James, John Robins, Producer Dave’s Coronation Street
-- 2021-11-19 — #185 - Contentious Corrie, Dairy Eggs and Helpful Honks — speakers: Helpful Honks, Trevor Sensor, Elis James, John Robins
-- 2021-11-12 — #184 - Totally Tom Toms, Blossoming Friendships and Oscar Whiskey Echo — speakers: Tom Toms, Oscar Whiskey, Joe Donovan, Elis James, John Robins
-- 2021-11-05 — #183 - Chafing Challenges, Lager Sleeves and Convivial Ceilidhs — speakers: Lager Sleeves, Lou Sanders, Producer Dave, Rick Edwards, Elis James, John Robins
-- 2021-10-29 — #182 - Supersized Sieves, Hot Eggs and a Festival of Landfill — speakers: Producer Dave, Elis James, John Robins
+- 2021-12-03 — #187 - Super Cans, Bagpipe Blues and Circling Sissons — speakers: Bagpipe Blues, Elis James, John Robins
+- 2021-11-26 — #186 - Solid Swans, Fridge The Ridge and Salve João — speakers: Salve João, Elis James, John Robins
+- 2021-11-19 — #185 - Contentious Corrie, Dairy Eggs and Helpful Honks — speakers: Helpful Honks, Elis James, John Robins
+- 2021-11-12 — #184 - Totally Tom Toms, Blossoming Friendships and Oscar Whiskey Echo — speakers: Tom Toms, Oscar Whiskey, Elis James, John Robins
+- 2021-11-05 — #183 - Chafing Challenges, Lager Sleeves and Convivial Ceilidhs — speakers: Lager Sleeves, Lou Sanders, Producer Da, Elis James, John Robins
+- 2021-10-29 — #182 - Supersized Sieves, Hot Eggs and a Festival of Landfill — speakers: Supersized Sieves, Hot Eggs, Broadcasting House, Elis James, John Robins
 - 2021-10-22 — #181 - #SaveJohn, Pen Pilfering and Little Baby Dave — speakers: Elis James, John Robins
-- 2021-10-15 — #180 - Club Mid 40s, Double Deacy and Jimmy’s Clean Hands — speakers: Double Deacy, Jimmy’s Clean Hands, John Deacon, Roger Taylor, Brian May, Jimmy Anderson, Producer Dave, Elis James, John Robins
-- 2021-10-08 — #179 - Tog Talk, Wee Sheets and a Scouse Spaceman — speakers: Scouse Spaceman, Broadcasting House, Producer Dave, Elis James, John Robins
-- 2021-10-01 — #178 - The Maida Vale Sessions: Self Esteem — speakers: John Peel, Producer Dave, Elis James, John Robins
-- 2021-09-24 — #177 - The Maida Vale Sessions: Sexy Gum Disease — speakers: Producer Dave, Greg James, Elis James, John Robins
-- 2021-09-17 — #176 - Venturi Vagueness, Ambidextrous Pencils and John’s Missing Head — speakers: Thankfully Elis, Paul McCartney, Elis James, John Robins
-- 2021-09-10 — #175 - The Maida Vale Sessions: Cornetto Cleavage — speakers: Maida Vale, Elis James, John Robins
-- 2021-09-03 — #174 - Bounty Balti, 3 Pint Cape and Inglese Dave — speakers: Producer Dave, Elis James, John Robins
-- 2021-08-27 — #173 - Al Cook, Too Much Water and John's Small Holiday — speakers: Lou Sanders, Elis James, John Robins
-- 2021-08-20 — #172 - Belly Balance, Plate Winslet and Frozen Jackets — speakers: Frozen Jackets Amongst, Producer Dave, Elis James, John Robins
-- 2021-08-13 — #171 - Analogue Grapes, The Aberystwyth Problem and Matriarchal Meatballs — speakers: Roy Keane, Elis James, John Robins
-- 2021-08-06 — #170 - Animatronic René, Playground Pentathlons and a Dhansak Ransack — speakers: Brian May, Elis James, John Robins
-- 2021-07-30 — #169 - A Fabia Farewell, Irate Initialisms and One Thousand Eggs — speakers: Fabia Farewell, Skoda Fabia, Elis James, John Robins
+- 2021-10-15 — #180 - Club Mid 40s, Double Deacy and Jimmy’s Clean Hands — speakers: Double Deacy, Jimmy’s Clean Hands, Elis James, John Robins
+- 2021-10-08 — #179 - Tog Talk, Wee Sheets and a Scouse Spaceman — speakers: Scouse Spaceman, Broadcasting House, Elis James, John Robins
+- 2021-10-01 — #178 - The Maida Vale Sessions: Self Esteem — speakers: Elis James, John Robins
+- 2021-09-24 — #177 - The Maida Vale Sessions: Sexy Gum Disease — speakers: Elis James, John Robins
+- 2021-09-17 — #176 - Venturi Vagueness, Ambidextrous Pencils and John’s Missing Head — speakers: Elis James, John Robins
+- 2021-09-10 — #175 - The Maida Vale Sessions: Cornetto Cleavage — speakers: Elis James, John Robins
+- 2021-09-03 — #174 - Bounty Balti, 3 Pint Cape and Inglese Dave — speakers: Elis James, John Robins
+- 2021-08-27 — #173 - Al Cook, Too Much Water and John's Small Holiday — speakers: Lou Sander, Elis James, John Robins
+- 2021-08-20 — #172 - Belly Balance, Plate Winslet and Frozen Jackets — speakers: Frozen Jackets Amongst, Elis James, John Robins
+- 2021-08-13 — #171 - Analogue Grapes, The Aberystwyth Problem and Matriarchal Meatballs — speakers: Elis James, John Robins
+- 2021-08-06 — #170 - Animatronic René, Playground Pentathlons and a Dhansak Ransack — speakers: Playground Pentathlons, Elis James, John Robins
+- 2021-07-30 — #169 - A Fabia Farewell, Irate Initialisms and One Thousand Eggs — speakers: Fabia Farewell, Elis James, John Robins
 - 2021-07-23 — #168 - Crustacean Crimes, Sturdy Sick Bowls and Petrol Pump Peeves — speakers: Sick Bowls, Elis James, John Robins
-- 2021-07-18 — #167 - European Sundays: The Cotmeister, Crying In The Quad and Tales With Tony — speakers: John’s European, Elis James, John Robins
-- 2021-07-11 — #166 - European Sundays: 11 Lions, The Wolf In The Lift and The Mathematics Of Hurt — speakers: Elis James, John Robins, Matt Forde, James Richardson, George Egg, Producer Dave
-- 2021-07-04 — #165 - European Sundays: Dirty Dotun, A Robin For Robins and Bar Boxing Champions — speakers: Dirty Dotun, Libby Clegg, Chris Clarke, Elis James, John Robins
-- 2021-06-27 — #164 - European Sundays: Elis James PLC, Stat Shame and Two Tickets To Toploader — speakers: Elis James, John Robins
+- 2021-07-18 — #167 - European Sundays: The Cotmeister, Crying In The Quad and Tales With Tony — speakers: John’s Europea, Elis James, John Robins
+- 2021-07-11 — #166 - European Sundays: 11 Lions, The Wolf In The Lift and The Mathematics Of Hurt — speakers: Elis James, John Robins
+- 2021-07-04 — #165 - European Sundays: Dirty Dotun, A Robin For Robins and Bar Boxing Champions — speakers: Dirty Dotun, Elis James, John Robins
+- 2021-06-27 — #164 - European Sundays: Elis James PLC, Stat Shame and Two Tickets To Toploader — speakers: European Sundays, Elis James, Stat Shame, John Robins
 - 2021-06-25 — #163 - Dermot's Threads, Youthful Eyes and "Remorse Makes A Home" — speakers: Elis James, John Robins
-- 2021-06-20 — #162 - European Sundays: Big Nev, Busy Beds and The National Calf Museum — speakers: Busy Beds, Wales XI, Elis James, John Robins
+- 2021-06-20 — #162 - European Sundays: Big Nev, Busy Beds and The National Calf Museum — speakers: Busy Beds, Elis James, John Robins
 - 2021-06-15 — #161 - Stuart Braithwaite, Gruff Rhys and Emma Inch — speakers: Stuart Braithwaite, Gruff Rhys, Emma Inch, Elis James, John Robins
-- 2021-06-13 — #160 - European Sundays: Gala Days, Igor Chiles and Bland Crisps — speakers: Bland Crisps Euros, George Egg, Elis James, John Robins
-- 2021-06-11 — #159 - Swifty In Greenock, Boxing Gophers and Prosecco O’Clock — speakers: Brian Blessed, Producer Dave, Elis James, John Robins
+- 2021-06-13 — #160 - European Sundays: Gala Days, Igor Chiles and Bland Crisps — speakers: Bland Crisps Euros, Elis James, John Robins
+- 2021-06-11 — #159 - Swifty In Greenock, Boxing Gophers and Prosecco O’Clock — speakers: Elis James, John Robins
 - 2021-06-04 — #158 - Shergar, Vanilla Ice & All Things Nice — speakers: Elis James, John Robins
-- 2021-05-28 — #157 - Faulty Fish Burgers, Elis’s Suit Strife and Handsome Greg James — speakers: Handsome Greg James John, Producer Dave, Elis James, John Robins
-- 2021-05-21 — #156 - Downing Outlets, Elis’s Car (TM) and Owen Wilson Optimism — speakers: Owen Wilson Optimism, John’s behest, Elis James, John Robins
-- 2021-05-14 — #155 - FA Cup Fabricators, 6am Dog Walkers and The Dangers of Turmeric — speakers: Producer Dave, Clint Boon, Elis James, John Robins
+- 2021-05-28 — #157 - Faulty Fish Burgers, Elis’s Suit Strife and Handsome Greg James — speakers: Handsome Greg James John, Elis James, John Robins
+- 2021-05-21 — #156 - Downing Outlets, Elis’s Car (TM) and Owen Wilson Optimism — speakers: Owen Wilson Optimism, Elis James, John Robins
+- 2021-05-14 — #155 - FA Cup Fabricators, 6am Dog Walkers and The Dangers of Turmeric — speakers: Cup Fabricators, Dog Walkers, Elis James, John Robins
 - 2021-05-07 — #154 - Tip Talk, Japanese Bowling and The Key to Advertising — speakers: Elis James, John Robins
 - 2021-04-30 — #153 - Fussy Fridges, Petroleum Pioneers and Bad Blowing — speakers: Elis James, John Robins
 - 2021-04-23 — #152 - Hobmas Eve, Muted Weddings and BMI BS — speakers: Elis James, John Robins
 - 2021-04-16 — #151 - Ridiculous Sting, Maud The Goat and Craven's Bingo — speakers: Elis James, John Robins
 - 2021-04-14 — #150 - The Isolation Tapes: Fin. — speakers: Elis James, John Robins
-- 2021-04-10 — #149 - Kevin and the Bean… and Dave (Bonus #content) — speakers: Producer Dave, Neil Ashton, Elis James, John Robins
-- 2021-04-07 — #148 - The Isolation Tapes: Dave’s Sexy Friends — speakers: Dave’s Sexy Friends, John Elis, Producer Dave, Elis James, John Robins
-- 2021-04-02 — #147 - May Day, Hard Hats and Mediocre Britain — speakers: Producer Dave, Brian May, Elis James, John Robins
-- 2021-03-31 — #146 - The Isolation Tapes: Primed and Exfoliated — speakers: Producer Dave, Man Robins, Elis James, John Robins
+- 2021-04-10 — #149 - Kevin and the Bean… and Dave (Bonus #content) — speakers: Elis James, John Robins
+- 2021-04-07 — #148 - The Isolation Tapes: Dave’s Sexy Friends — speakers: Dave’s Sexy Friends, Elis James, John Robins
+- 2021-04-02 — #147 - May Day, Hard Hats and Mediocre Britain — speakers: May Day, Hard Hats, Mediocre Britain Aside, Elis James, John Robins
+- 2021-03-31 — #146 - The Isolation Tapes: Primed and Exfoliated — speakers: Producer Dave, Elis James, John Robins
 - 2021-03-26 — #145 - Finnish Frolicking, Census Sensibility and Naked Wakes — speakers: Elis James, John Robins
-- 2021-03-24 — #144 - The Isolation Tapes: We All Have Opinions — speakers: Producer Dave, Elis James, John Robins
+- 2021-03-24 — #144 - The Isolation Tapes: We All Have Opinions — speakers: Elis James, John Robins
 - 2021-03-19 — #143 - Insane Domains, Effusive Adrian and Futuristic Newsletters — speakers: Effusive Adrian, Elis James, John Robins
 - 2021-03-17 — #142 - The Isolation Tapes: Life Is First Boredom, Then Fear — speakers: Producer Dave, Elis James, John Robins
-- 2021-03-12 — #141 - Feline Apertures, Big Toothpaste and Radio Robins — speakers: Mark Goodier, Dina Carroll, Elis James, John Robins
-- 2021-03-10 — #140 - The Isolation Tapes: Elis's Sister's Birthday — speakers: Elis James, John Robins
+- 2021-03-12 — #141 - Feline Apertures, Big Toothpaste and Radio Robins — speakers: Mark Goodier, Elis James, John Robins
+- 2021-03-10 — #140 - The Isolation Tapes: Elis's Sister's Birthday — speakers: Birthday Set, Elis James, John Robins
 - 2021-03-05 — #139 - Foreign Trees, Elusive Elis and Two Dozen Spices — speakers: Elis James, John Robins
-- 2021-03-03 — #138 - The Isolation Tapes: Perilous Pickles — speakers: Elis James, John Robins
+- 2021-03-03 — #138 - The Isolation Tapes: Perilous Pickles — speakers: Perilous Pickles Hypothetically, Elis James, John Robins
 - 2021-02-26 — #137 - Market Stall Magic, Destructive Shuttlecocks and First Time Flukes — speakers: Destructive Shuttlecocks, Elis James, John Robins
 - 2021-02-24 — #136 - The Isolation Tapes: Mr Rotovator — speakers: Elis James, John Robins
 - 2021-02-19 — #135 - 40 Cats, Conwy Crossbars and Detective James — speakers: Detective James, Elis James, John Robins
@@ -13186,20 +12903,20 @@
 - 2021-02-03 — #130 - The Isolation Tapes: The Naked Coin Collector — speakers: Elis James, John Robins
 - 2021-01-29 — #129 - Redd Pepper, Killer Calamities, and Amusing Muse Musings — speakers: Producer Dave, Elis James, John Robins
 - 2021-01-27 — #128 - The Isolation Tapes: Ode to the 90s and 00s — speakers: Elis James, John Robins
-- 2021-01-22 — #127 - 'I Have Lost Output' — speakers: Producer Dave, Elis James, John Robins
+- 2021-01-22 — #127 - 'I Have Lost Output' — speakers: Elis James, John Robins
 - 2021-01-19 — #126 - The Isolation Tapes: Soft John — speakers: Elis James, John Robins
 - 2021-01-15 — #125 - Dictionary Fawners, Mean Averages and a Penchant for Purple — speakers: Mean Averages, Elis James, John Robins
 - 2021-01-14 — #124 – The Isolation Tapes: Between Wonnacott and Gooch — speakers: Elis James, John Robins
-- 2021-01-12 — #123 - The Isolation Tapes: Booze Banishment & Beauty Sleep — speakers: James households, Elis James, John Robins
-- 2021-01-08 — #122 - Glitchy Daleks, Sky High Plaques and Domestic Printing — speakers: Sky High Plaques, David Bowie, Elis James, John Robins
-- 2021-01-01 — #121 - Elis and John's New Year's Day Nuggets — speakers: Elis James, John Robins
-- 2020-12-25 — #120 - Elis and John's Christmas #Content — speakers: Producer Dave, Elis James, John Robins
-- 2020-12-18 — #119 - Brian May, Plaque Chat and Poetreh — speakers: Brian May, John chats, Producer Dave, Elis James, John Robins
+- 2021-01-12 — #123 - The Isolation Tapes: Booze Banishment & Beauty Sleep — speakers: Elis James, John Robins
+- 2021-01-08 — #122 - Glitchy Daleks, Sky High Plaques and Domestic Printing — speakers: Sky High Plaques, Elis James, John Robins
+- 2021-01-01 — #121 - Elis and John's New Year's Day Nuggets — speakers: John descr, Elis James, John Robins
+- 2020-12-25 — #120 - Elis and John's Christmas #Content — speakers: Elis James, John Robins
+- 2020-12-18 — #119 - Brian May, Plaque Chat and Poetreh — speakers: Brian May, John chats, Elis James, John Robins
 - 2020-12-11 — #118 - Overstated Groins, Toddler Tax and Bums — speakers: Elis James, John Robins
 - 2020-12-04 — #117 - Sackable Tardiness, Naked Nicholas Witchell and Bare Naked Shame — speakers: Nicholas Witchell, Bare Naked Shame, Elis James, John Robins
-- 2020-12-02 — #116 - The Isolashion Tapes: Canadian Caners — speakers: John partake, Elis James, John Robins
-- 2020-11-27 — #115 - Jayne Torvill, Petrol Pandemonium and Broadsheet Snogs — speakers: Petrol Pandemonium, Broadsheet Snogs, Emma Barnett, Elis James, John Robins
-- 2020-11-25 — #114 - The Isolation Tapes: 'We're not actually putting this out, are we?' — speakers: Producer Dave, Elis James, John Robins
+- 2020-12-02 — #116 - The Isolashion Tapes: Canadian Caners — speakers: Isolation Tapes, Elis James, John Robins
+- 2020-11-27 — #115 - Jayne Torvill, Petrol Pandemonium and Broadsheet Snogs — speakers: Petrol Pandemonium, Broadsheet Snogs, Elis James, John Robins
+- 2020-11-25 — #114 - The Isolation Tapes: 'We're not actually putting this out, are we?' — speakers: Elis James, John Robins
 - 2020-11-20 — #113 - Razz Ennui, Bedside Spanners and the BBC Away Day — speakers: Razz Ennui, Elis James, John Robins
 - 2020-11-18 — #112 - The Isolation Tapes: Knee ops and jockstraps — speakers: Elis James, John Robins
 - 2020-11-13 — #111 - Loocations, Tricky Tech and Unproducable Agreements — speakers: Producer Dave, Elis James, John Robins
@@ -13207,10 +12924,10 @@
 - 2020-11-06 — #109 - Old Man Elis, Elis is 40 and Elis’s Fifth Decade — speakers: Elis James, John Robins
 - 2020-10-30 — #108 - Big Food, Vigorous Crushes and Tech Shame — speakers: Vigorous Crushes, Elis James, John Robins
 - 2020-10-23 — #107 - Synonymphonies, Eternal Eyesight and Dave's Accessible Poetry — speakers: Elis James, John Robins
-- 2020-10-16 — #106 - Laughable Hair, Aggy Anchovies and 5-Minute Snogs — speakers: Aggy Anchovies, Billy Balance, Elis James, John Robins
-- 2020-10-09 — #105 - Wake Up Sheeple and Smell The Beef! — speakers: Kerry Godliman, Elis James, John Robins
-- 2020-10-02 — #104 - Gateway Golf, Mag Fame and Frequent Invigoration — speakers: Marie Rose, Elis James, John Robins
-- 2020-09-25 — #103 - Freedom You Can Trust, Synonyms and John's Canadian Brain — speakers: Rob Rouse, Elis James, John Robins Show, John Robins
+- 2020-10-16 — #106 - Laughable Hair, Aggy Anchovies and 5-Minute Snogs — speakers: Aggy Anchovies, Elis James, John Robins
+- 2020-10-09 — #105 - Wake Up Sheeple and Smell The Beef! — speakers: Elis James, John Robins
+- 2020-10-02 — #104 - Gateway Golf, Mag Fame and Frequent Invigoration — speakers: Elis James, John Robins
+- 2020-09-25 — #103 - Freedom You Can Trust, Synonyms and John's Canadian Brain — speakers: Elis James, John Robins
 - 2020-09-18 — #102 - Cistern Fear, Tommy Tabasco and Geo-Political Balance — speakers: Tommy Tabasco, Neil Diamond, Elis James, John Robins
 - 2020-09-11 — #101 - Feudal Britain, Bookshop Shame and Overwhelming Sounds — speakers: Elis James, John Robins
 - 2020-09-04 — #100 - Salty Balance, WAFTAs and Upside Down Agreements — speakers: Elis James, John Robins
@@ -13223,96 +12940,96 @@
 - 2020-07-17 — #93 - Bravo Sierra, Upside Down Ducks and Edible Ailments — speakers: Edgy Elis, Elis James, John Robins
 - 2020-07-10 — #92 - Skirting Boards, Edgy Elis and Squeaky Bonnie Tyler — speakers: Edgy Elis, Squeaky Bonnie Tyler, Elis James, John Robins
 - 2020-07-08 — #91 - The Isolation Tapes: 177,000 miles on the nose — speakers: Elis James, John Robins
-- 2020-07-03 — #90 - Dead Pigeons, 50-Metre Walks and the Love of Lindt — speakers: Jason Manford, Teresa Coyne, Elis James, John Robins
+- 2020-07-03 — #90 - Dead Pigeons, 50-Metre Walks and the Love of Lindt — speakers: Jason Manford, Elis James, John Robins
 - 2020-07-01 — #89 - The Isolation Tapes: How has our podcast become this? — speakers: John helps Elis, Producer Jess, Elis James, John Robins
-- 2020-06-26 — #88 - Base Gravy, French Shame and Dave's Big Joke — speakers: John Robins, Jen Brister, Lockdown Skills, Elis James
+- 2020-06-26 — #88 - Base Gravy, French Shame and Dave's Big Joke — speakers: John Robins, Jen Brister, Elis James
 - 2020-06-24 — #87 - The Isolation Tapes: Chris Packham’s Rabbit Affray — speakers: Chris Packham’s Rabbit Affray, Chris Packham, Elis James, John Robins
 - 2020-06-19 — #86 - Well Dimensions, Crap Mountains and Dave's Hot Meat — speakers: Arlo Parks, Tim Burgess, Elis James, John Robins
 - 2020-06-17 — #85 - The Isolation Tapes: Hares and Rabbits - The Conclusion — speakers: Elis James, John Robins
-- 2020-06-12 — #84 - Richard Osman, Sexy Silence and John's Rubbish Book — speakers: Richard Osman, James Cracknell, Tan France, Elis James, John Robins
+- 2020-06-12 — #84 - Richard Osman, Sexy Silence and John's Rubbish Book — speakers: Richard Osman, Elis James, John Robins
 - 2020-06-10 — #83 - The Isolation Tapes: Life is a Roller Coaster of Vibes — speakers: Producer Dave, Elis James, John Robins
 - 2020-06-05 — #82 - Alice Bands, Matt Forde and John's Annual Thicko Tax — speakers: Alice Bands, Matt Forde, Elis James, John Robins
 - 2020-06-04 — #81 - The very best of the #BonusContent (with Sarah Millican) — speakers: Sarah Millican, Elis James, John Robins
 - 2020-05-29 — #80 - The Big Birthday Bonanza — speakers: Elis James, John Robins
 - 2020-05-28 — #79 - The Isolation Tapes: Yoga Pranks — speakers: Elis James, John Robins
 - 2020-05-26 — #78 - The Isolation Tapes: A rare case of nostalgitis — speakers: Elis James, John Robins
-- 2020-05-22 — #77 - Basics, Basics, Fundamentals — speakers: Jon Richardson, Elis James, John Robins
+- 2020-05-22 — #77 - Basics, Basics, Fundamentals — speakers: Jon Richards, Elis James, John Robins
 - 2020-05-21 — #76 - The Isolation Tapes: The Judgemental DIY Guy — speakers: Guy Elis, Elis James, John Robins
-- 2020-05-19 — #75 - The Isolation Tapes: Pedantic Notes — speakers: Producer Dave, Liam Gallagher, Elis James, John Robins
+- 2020-05-19 — #75 - The Isolation Tapes: Pedantic Notes — speakers: Producer Dave, Elis James, John Robins
 - 2020-05-15 — #74 - Soggy Flares, Suzi Ruffell and Snoop Dogg's Sideline — speakers: Suzi Ruffell, Snoop Dogg, Elis James, John Robins
 - 2020-05-14 — #73 - The Isolation Tapes: Half Man Half Biscuit — speakers: Elis James, John Robins
 - 2020-05-12 — #72 - The Isolation Tapes: Canageddon — speakers: Normal People, Elis James, John Robins
 - 2020-05-08 — #71 - Edible Loveplay, Adorable Sneezing and Sarah Millican — speakers: Sarah Millican, Elis James, John Robins
 - 2020-05-06 — #70 - The Isolation Tapes: John's Lockdown Birthday — speakers: Lockdown Birthday, Elis James, John Robins
-- 2020-05-01 — #69 - Elis doesn't know where the Falkland Islands are — speakers: Josh Widdicombe, Rob Beckett, Producer Dave, Elis James, John Robins
+- 2020-05-01 — #69 - Elis doesn't know where the Falkland Islands are — speakers: Josh Widdicombe, Rob Beckett, Elis James, John Robins
 - 2020-04-30 — #68 - The Isolation Tapes: 50,000 Johns and Lou Sanders — speakers: Lou Sanders Elis, Lou Sanders, Elis James, John Robins
-- 2020-04-28 — #67 - The Isolation Tapes: Movie Blunders: The Movie — speakers: Elton John, Elis James, John Robins
+- 2020-04-28 — #67 - The Isolation Tapes: Movie Blunders: The Movie — speakers: Elis James, John Robins
 - 2020-04-27 — #66 - The Isolation Tapes: Backstreet Bakers — speakers: Elis James, John Robins
 - 2020-04-24 — #65 - Brummie Shakespeare and James Acaster — speakers: Brummie Shakespeare, James Acaster Elis, James Acaster, Elis James, John Robins
 - 2020-04-22 — #64 - The Isolation Tapes: A Mechanical Hug — speakers: Sarah Millican, Elis James, John Robins
 - 2020-04-20 — #63 - The Isolation Tapes: Blank Canvas Robins — speakers: Elis James, John Robins
-- 2020-04-17 — #62 - Better than The Ashes — speakers: John Robins, Producer Dave, Elis James
+- 2020-04-17 — #62 - Better than The Ashes — speakers: John Robins, Elis James
 - 2020-04-15 — #61 - The Isolation Tapes: Having A Big Cry — speakers: Elis James, John Robins
 - 2020-04-13 — #60 - The Isolation Tapes: Johnny Two Sheds — speakers: Johnny Two Sheds Elis, Producer Dave, Elis James, John Robins
-- 2020-04-10 — #59 - Hands Hands Hands — speakers: Elis James, John Robins
+- 2020-04-10 — #59 - Hands Hands Hands — speakers: John tal, Elis James, John Robins
 - 2020-04-09 — #58 - The Isolation Tapes: Crying in the Urinals — speakers: Producer Dave, Elis James, John Robins
-- 2020-04-07 — #57 - The Isolation Tapes: Little Lord Fauntleroy's Blue Tick Wallpaper — speakers: Tick Wallpaper, Producer Dave, James Bond, Elis James, John Robins
+- 2020-04-07 — #57 - The Isolation Tapes: Little Lord Fauntleroy's Blue Tick Wallpaper — speakers: Tick Wallpaper, Producer Dave, Elis James, John Robins
 - 2020-04-03 — #56 - Isolation Vents, Exciting Mortgage Emails and John Deacon Masks — speakers: John Deacon, Elis James, John Robins
 - 2020-04-01 — #55 - The Isolation Tapes: James Dean didn’t get hay fever, did he? — speakers: James Dean, Producer Dave, Elis James, John Robins
 - 2020-03-29 — #54 - The Isolation Tapes: Crows and Crohn's — speakers: Elis James, John Robins
 - 2020-03-27 — #53 - Hull4Heroes, Merkel's House Party and 800 kilos of Soil — speakers: Elis James, John Robins
 - 2020-03-25 — #52 - The Isolation Tapes: Clever old Dagda — speakers: Producer Dave, Elis James, John Robins
-- 2020-03-24 — #51 - The Isolation Tapes: Clock on, clock off — speakers: Producer Dave, John’s Isolation Tapes, Elis James, John Robins
+- 2020-03-24 — #51 - The Isolation Tapes: Clock on, clock off — speakers: Producer Dave, Elis James, John Robins
 - 2020-03-22 — #50 - Clean Gin, The Good Deed Feed and Keegan's Great Speech — speakers: Producer Dave, Elis James, John Robins
 - 2020-03-18 — #49 - The Driving Range (Bonus #content) — speakers: Elis James, John Robins
 - 2020-03-13 — #48 - Tasty Sanitisers, Mistaken Drug Mules and Eating Eggs Forever — speakers: Elis James, John Robins
 - 2020-03-11 — #47 - Board Games (Bonus #content) — speakers: Elis James, John Robins
 - 2020-03-06 — #46a - Retired Golf Pros, Snooker Cues and West Country Larkin — speakers: Elis James, John Robins
 - 2020-03-06 — #46b - Retired Golf Pros, Snooker Cues and West Country Larkin — speakers: Elis James, John Robins
-- 2020-03-04 — #45 - Producer Dave’s Guide to Manchester (Bonus #Content) — speakers: Producer Dave, Elis James, John Robins
+- 2020-03-04 — #45 - Producer Dave’s Guide to Manchester (Bonus #Content) — speakers: Elis James, John Robins
 - 2020-02-28 — #44 - Blunderstorms, Cryptic Crosswords and John's 2012 Rebrand — speakers: Elis James, John Robins
 - 2020-02-26 — #43 - Chesham United Commentary (Bonus #Content) — speakers: Elis James, John Robins
 - 2020-02-21 — #42 - Quiz Controversies, Cake Drawing and The Dan Walker Masterclass — speakers: Cake Drawing, Elis James, John Robins
 - 2020-02-19 — #41 - Escape Room (Bonus #content) — speakers: Elis James, John Robins
-- 2020-02-14 — #40 - Harry Potter Jobsworths, Alex Horne and The Want of Prince — speakers: Harry Potter Jobsworths, Alex Horne, Elis James, John Robins
+- 2020-02-14 — #40 - Harry Potter Jobsworths, Alex Horne and The Want of Prince — speakers: Alex Horne, Alex Hor, Elis James, John Robins
 - 2020-02-12 — #39 - Bowling (Bonus #content) — speakers: Elis James, John Robins
-- 2020-02-07 — #38 - Content Corruption, Commentary and Ken Clarke's Curryhouse — speakers: Ken Clarke, Producer Dave, Chesham FC, Elis James, John Robins
+- 2020-02-07 — #38 - Content Corruption, Commentary and Ken Clarke's Curryhouse — speakers: Ken Clarke, Producer Dave, Elis James, John Robins
 - 2020-02-05 — #37 - Crazy Golf (Bonus #Content) — speakers: Elis James, John Robins
 - 2020-01-31 — #36 - Fingers On Pies, Whatsapp Fails and Bubble Bath Decadence — speakers: Bubble Bath Decadence, Elis James, John Robins
-- 2020-01-24 — #35 - Peak Times, Chippy Tunes and The Viscount of Value — speakers: Martin Lewis, Simon Mayo, Elis James, John Robins
+- 2020-01-24 — #35 - Peak Times, Chippy Tunes and The Viscount of Value — speakers: Martin Lewis, Elis James, John Robins
 - 2020-01-17 — #34 - Elis's Ginormous Lev, Dirty Shame and Boots Trolley Dashes — speakers: Boots Trolley Dashes, Elis James, John Robins
 - 2020-01-10 — #33 - Adrian’s Fat Tongue, Mind Scenarios and Football Stickers — speakers: Elis James, John Robins
-- 2020-01-03 — #32 - Topless Cooking, London Buses and Andy Zaltzman — speakers: Andy Zaltzman, Elis James, John Robins, Producer Dave
+- 2020-01-03 — #32 - Topless Cooking, London Buses and Andy Zaltzman — speakers: Andy Zaltzman, Elis James, John Robins
 - 2019-12-26 — #31 - Elis and John's Christmas Crackers — speakers: Elis James, John Robins
 - 2019-12-20 — #30 - Russell Howard, Willy Warmers and Elis's Chunky Bum - Live From The Pub! — speakers: Russell Howard, Willy Warmers, Elis James, John Robins
 - 2019-12-13 — #29 - A Generic Central London Christmas Market (Bonus #Content) — speakers: Elis James, John Robins
 - 2019-12-06 — #28 - Medieval Sword Fighting, Keith Floyd and Dim Sheep — speakers: Keith Floyd, Dim Sheep Taking, Elis James, John Robins
 - 2019-11-29 — #27 - Coins, New Kids On The Block and Al Murray’s Sausage Roll — speakers: Al Murray’s Sausage Roll, Elis James, John Robins
 - 2019-11-22 — #26 - Alignment Meetings, The Golden Age of Welsh Football and Stormzy — speakers: John sails, Elis James, John Robins
-- 2019-11-15 — #25 - Boozy Cruisey, Carbon Neutral Mind Holidays and the Art of the Pre-Record — speakers: Boozy Cruisey, Producer Dave, Elis James, John Robins
+- 2019-11-15 — #25 - Boozy Cruisey, Carbon Neutral Mind Holidays and the Art of the Pre-Record — speakers: Boozy Cruisey, Elis James, John Robins
 - 2019-11-08 — #24 - Colons, Boilers and the North South Divide — speakers: Elis James, John Robins
-- 2019-11-01 — #23 - Loose and Live from Tobacco Dock — speakers: Cass McCombs, Elis James, John Robins
-- 2019-10-31 — Bonus #content: How Do You Cope? Trailer — speakers: Adam Kay, Elis James, John Robins
-- 2019-10-25 — #22 - White lies, Bum Cameras and Bowie — speakers: Bowie Elis, David Bowie, Elis James, John Robins
-- 2019-10-18 — #21 - Lad Whispering, Corporates and Fun On The Toilet — speakers: Elis James, John Robins
+- 2019-11-01 — #23 - Loose and Live from Tobacco Dock — speakers: Elis James, John Robins
+- 2019-10-31 — Bonus #content: How Do You Cope? Trailer — speakers: Elis James, John Robins
+- 2019-10-25 — #22 - White lies, Bum Cameras and Bowie — speakers: Bowie Elis, Elis James, John Robins
+- 2019-10-18 — #21 - Lad Whispering, Corporates and Fun On The Toilet — speakers: John dis, Elis James, John Robins
 - 2019-10-11 — #20 - Josh Widdicombe, Boozy Birthdays and The WAFTAs — speakers: Boozy Birthdays, Elis James, John Robins
 - 2019-10-04 — #19 - Party Bags, Hurdy Gurdies and Edible Christmas Trees — speakers: Van Morrison, Elis James, John Robins
 - 2019-09-27 — #18 - Funeral Levity, Kermode's TV and Kit Chat — speakers: Kit Chat, Elis James, John Robins
 - 2019-09-20 — #17 - Petty Put-Offs, Football Debuts and Waving Cat Emojis — speakers: Football Debuts, Elis James, John Robins
-- 2019-09-13 — #16 - Good Deeds Gone Wrong, Mayo's Eyelashes, and Unsung Heroes — speakers: Simon Mayo, Producer Dave, Vicki Thomas, Elis James, John Robins
-- 2019-09-06 — #15 - Nude Timber Magnates, Kermode-gate, and Too Many Nigels — speakers: Danny Gabbidon, Bronte Law, Elis James, John Robins
+- 2019-09-13 — #16 - Good Deeds Gone Wrong, Mayo's Eyelashes, and Unsung Heroes — speakers: Plus Simon, Elis James, John Robins
+- 2019-09-06 — #15 - Nude Timber Magnates, Kermode-gate, and Too Many Nigels — speakers: Danny Gabbidon, Elis James, John Robins
 - 2019-08-30 — #14 - Webcam Shame Well, Shower Technique and Angry Dads — speakers: John Robins, Elis James
 - 2019-08-23 — #13 - Live From Edinburgh with Lou Sanders, Ivo Graham and Sunil Patel — speakers: Lou Sanders, Ivo Graham, Sunil Patel, Elis James, John Robins
-- 2019-08-16 — #12 - Live from Edinburgh with Ed Gamble and David O’Doherty — speakers: Ed Gamble, David O’Doherty there, Elis James, John Robins
-- 2019-08-09 — #11 - Live from Edinburgh with Sarah Kendall and Suzi Ruffell — speakers: Sarah Kendall, Suzi Ruffell Elis James, John Robins, Suzi Ruffell, John’s Shame Well, Elis James
-- 2019-08-02 — #10 - Live from Edinburgh with Matt Forde and Al Murray — speakers: Matt Forde, Al Murray, Elis James, John Robins, Chris de Burgh
+- 2019-08-16 — #12 - Live from Edinburgh with Ed Gamble and David O’Doherty — speakers: Elis James, John Robins
+- 2019-08-09 — #11 - Live from Edinburgh with Sarah Kendall and Suzi Ruffell — speakers: Sarah Kendall, Suzi Ruffell Elis James, John Robins, Elis James
+- 2019-08-02 — #10 - Live from Edinburgh with Matt Forde and Al Murray — speakers: Matt Forde, Al Murray, Elis James, John Robins
 - 2019-07-26 — #9 - Soil Shame, Sweary Golf, and John's £40k Marathon — speakers: Elis James, John Robins
 - 2019-07-19 — #8 - The Pub (Bonus #Content) — speakers: Elis James, John Robins
 - 2019-07-12 — #7 - John's House (Bonus #Content) — speakers: Elis James, John Robins
 - 2019-07-05 — #6 - Elis's House (Bonus #Content) — speakers: Elis James, John Robins
 - 2019-06-28 — #5 - Dishwashers, Tipsy Cricket and Ol' Johnny Three Hours Early — speakers: Tipsy Cricket, Johnny Three, Elis James, John Robins
-- 2019-06-21 — #4 - Dad Breaks, Sex Shame and Insta-Clones — speakers: Sex Shame, John Robins, James Anderson, Elis James
+- 2019-06-21 — #4 - Dad Breaks, Sex Shame and Insta-Clones — speakers: Sex Shame, John Robins, James Ande, Elis James
 - 2019-06-14 — #3 - Todgers, The Fairness Desk and Clicking VAT Man — speakers: Elis James, John Robins
-- 2019-06-07 — #2 - Knackerwatch, Valley Vespas and Listener Remuneration — speakers: Elis James, John Robins, Producer Dave
+- 2019-06-07 — #2 - Knackerwatch, Valley Vespas and Listener Remuneration — speakers: Elis James, John Robins
 - 2019-05-31 — #1 - Mega Mouse, Project Youth and Captain Beefheart in the Nude — speakers: Elis James, John Robins
 - 2019-05-24 — An Audible Hors d'oeuvre — speakers: Elis James, John Robins
