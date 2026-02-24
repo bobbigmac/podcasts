@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-02-24T16:14:08+00:00`
-- checked_at: `2026-02-24T16:14:08+00:00`
-- etag: `"djEuMi4wOjE3NzE5NDg1NDA2NjA="`
+- fetched_at: `2026-02-24T19:18:04+00:00`
+- checked_at: `2026-02-24T19:18:04+00:00`
+- etag: `"djEuMi4wOjE3NzE5NTYwNTAzMzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-02-24T16:14:08+00:00",
+  "fetched_at": "2026-02-24T19:18:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -33,8 +33,8 @@
       "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/699dc9fce84fcb90f2c7d377/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "31973385",
-      "itunes_duration": "22:10",
+      "enclosure_length": "31189449",
+      "itunes_duration": "21:37",
       "speakers": [
         "Peter Mandelson"
       ],

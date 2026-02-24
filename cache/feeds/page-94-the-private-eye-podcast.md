@@ -2,11 +2,11 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `W/"0756c276ca930654bd97457b9c6438db"`
-- last_modified: `Tue, 17 Feb 2026 14:57:17 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-24T19:18:04+00:00`
+- checked_at: `2026-02-24T19:18:04+00:00`
+- etag: `W/"8fcbe1d4ae2773b0f22e707d7d865b00"`
+- last_modified: `Tue, 24 Feb 2026 18:51:06 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,14 +18,39 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-24T19:18:04+00:00",
+  "owners": [
+    "Andrew Hunter Murray",
+    "Ian Hislop"
+  ],
   "common_speakers": [],
   "categories": [
     "politics",
     "news"
   ],
   "episodes": [
+    {
+      "key": "6f5ada9ce37b757a1c244670e19659a1bc2099be",
+      "title": "168: A Tale Of Two Andrews",
+      "published_at": "2026-02-24T17:45:35+00:00",
+      "link": "https://audioboom.com/posts/8865407",
+      "description": "Ian, Adam, Andy and Rachael Claye discuss two men named Andrew - one who used to be a prince, and one who's still a solicitor with a very dubious practice.",
+      "image_url": "https://audioboom.com/i/43493333/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8865407.mp3?modified=1771959073&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2110",
+      "speakers": [
+        "Rachael Claye",
+        "Andrew one",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "tale",
+        "andrews"
+      ]
+    },
     {
       "key": "b058eedd9246f17007487232c91147c66c3348ac",
       "title": "167: Cash Harry",
@@ -61,10 +86,8 @@
       "itunes_duration": "2632",
       "speakers": [
         "Peter Mandelson’s CV",
-        "Ian Hislop",
-        "Helen Lewis",
-        "Adam MacQueen",
-        "Andrew Hunter Murray"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "mandy",
@@ -84,7 +107,8 @@
       "itunes_duration": "2724",
       "speakers": [
         "Andy Burnham",
-        "Donald Trump"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "crash",
@@ -102,7 +126,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2834",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "thin"
       ]
@@ -119,7 +146,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2155",
       "speakers": [
-        "Quizmas Crackers"
+        "Quizmas Crackers",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "quizmas",
@@ -141,7 +170,8 @@
         "Ian Hislop",
         "Jan Ravens",
         "Lewis Macleod",
-        "Harry Enfield"
+        "Harry Enfield",
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "private",
@@ -162,7 +192,9 @@
       "itunes_duration": "2679",
       "speakers": [
         "Rotten Boroughs",
-        "Saba Salman"
+        "Saba Salman",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "unwise",
@@ -181,7 +213,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2741",
       "speakers": [
-        "Donald Trump"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "shakedown",
@@ -201,7 +234,9 @@
       "itunes_duration": "2703",
       "speakers": [
         "Yuck Ian",
-        "Richard Brooks"
+        "Richard Brooks",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "grand",
@@ -221,7 +256,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2682",
       "speakers": [
-        "Donald Trump"
+        "Cheltenham Literature Festival",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "cheltenham"
@@ -239,7 +276,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2607",
       "speakers": [
-        "Jane Mackenzie"
+        "Jane Mackenzie",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "bishop",
@@ -260,7 +299,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2609",
       "speakers": [
-        "Justine Smith"
+        "Justine Smith",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "party"
@@ -279,7 +320,8 @@
       "itunes_duration": "2395",
       "speakers": [
         "Angela Rayner",
-        "Graham Linehan"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "signation",
@@ -297,7 +339,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2218",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "definitive",
         "guide",
@@ -316,7 +361,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2720",
       "speakers": [
-        "Scott Free Ian"
+        "Scott Free Ian",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "scott",
@@ -334,7 +381,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2696",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "protest",
         "placards",
@@ -354,7 +404,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2865",
       "speakers": [
-        "Jane Mackenzie"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "epstein"
@@ -371,7 +422,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3015",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "labour",
         "heatwaves",
@@ -391,7 +445,8 @@
       "itunes_duration": "2854",
       "speakers": [
         "Sarah Shannon",
-        "Donald Trump"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "summer",
@@ -410,12 +465,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2526",
       "speakers": [
-        "Robert Jenrick",
         "Richard Hermer",
-        "Butch Keir",
-        "Ian Hislop",
-        "Nick Newman",
-        "Barry Fantoni so"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "leftie",
@@ -436,7 +488,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2302",
       "speakers": [
-        "Elon Musk’s AI"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "tale",
@@ -458,7 +511,8 @@
       "itunes_duration": "1062",
       "speakers": [
         "Paul Foot Award",
-        "Tristan Kirk"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paul",
@@ -479,7 +533,8 @@
       "enclosure_length": "0",
       "itunes_duration": "832",
       "speakers": [
-        "Paul Foot Award"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "help"
@@ -500,7 +555,8 @@
         "Aaron Walawalkar",
         "Liberty Investigates",
         "Harriet Clugston",
-        "Paul Foot Award"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "gaza",
@@ -524,7 +580,8 @@
         "Broken Legs",
         "Jim Waterson",
         "London Centric",
-        "Paul Foot Award"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "lime",
@@ -545,8 +602,9 @@
       "itunes_duration": "731",
       "speakers": [
         "Charlie Brinkhurst-Cuff",
-        "Fiona Holm",
-        "Paul Foot Award"
+        "Fiona Ho",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "sight",
@@ -566,7 +624,8 @@
       "itunes_duration": "851",
       "speakers": [
         "Patrick Butler",
-        "Paul Foot Award"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "carer",
@@ -586,8 +645,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1025",
       "speakers": [
-        "Paul Foot Award",
-        "Laura Hughes"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "mini",
@@ -608,7 +667,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2408",
-      "speakers": [],
+      "speakers": [
+        "Cambridge Literary Festival",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "page"
       ]
@@ -626,7 +689,8 @@
       "itunes_duration": "2796",
       "speakers": [
         "Richard Brooks",
-        "Yank Avoidance"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "borrow",
@@ -646,8 +710,8 @@
       "itunes_duration": "2694",
       "speakers": [
         "Trump Ate",
-        "Tim Minogue",
-        "Rotten Boroughs"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "trump",
@@ -665,7 +729,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1695",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "robo",
         "hacks",
@@ -684,7 +751,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2660",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "reform",
         "beeb",
@@ -705,8 +775,8 @@
       "itunes_duration": "2988",
       "speakers": [
         "Mega Maga",
-        "Phil Hammond",
-        "Lucy Letby"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "mega",
@@ -725,7 +795,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2539",
       "speakers": [
-        "Keir Starmer"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "plane",
@@ -744,7 +815,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2901",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "baby"
       ]
@@ -761,8 +835,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2206",
       "speakers": [
-        "Tim Minogue",
-        "David Rommel Montgomery"
+        "Tulip Mania Tulip Siddiq",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "tulip",
@@ -782,7 +857,8 @@
       "itunes_duration": "1628",
       "speakers": [
         "Merry Quizmas Helen",
-        "Nigel Slater"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "merry",
@@ -805,8 +881,7 @@
         "Harry Enfield",
         "Jan Ravens",
         "Lewis Macleod",
-        "Herbert Gussett",
-        "Keir Starmer"
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "private",
@@ -826,7 +901,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2181",
       "speakers": [
-        "Matt Muir"
+        "Matt Muir",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "tale",
@@ -845,7 +922,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2074",
       "speakers": [
-        "Justin Welby"
+        "Justin Welby",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "earth"
@@ -863,10 +942,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2444",
       "speakers": [
-        "Donald Trump",
-        "Prince William",
-        "Francis Wheen",
-        "Justin Welby"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "maga",
@@ -885,7 +962,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2499",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "election",
         "special"
@@ -903,8 +983,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2070",
       "speakers": [
-        "Jane Mackenzie",
-        "Sarah Shannon"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "court",
@@ -923,7 +1003,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2446",
       "speakers": [
-        "Mohamed Fayed"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "party",
@@ -942,7 +1023,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2910",
       "speakers": [
-        "Keir Starmer"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "labour",
@@ -963,7 +1045,8 @@
       "itunes_duration": "2502",
       "speakers": [
         "Maximum Gloom",
-        "Donald Trump"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "reason",
@@ -982,7 +1065,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2156",
       "speakers": [
-        "Louis Xiv"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "summer",
@@ -1003,7 +1087,8 @@
       "itunes_duration": "2366",
       "speakers": [
         "Riot How",
-        "Conservative Leadership"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "riot"
@@ -1021,8 +1106,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2972",
       "speakers": [
-        "Phil Hammond",
-        "Lucy Letby"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "biden"
@@ -1039,7 +1124,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2698",
-      "speakers": [],
+      "speakers": [
+        "New Boys",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "britain"
       ]
@@ -1056,9 +1145,8 @@
       "enclosure_length": "0",
       "itunes_duration": "305",
       "speakers": [
-        "Nigel Farage",
-        "Lewis Macleod",
-        "Nigel Really"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "special"
@@ -1076,11 +1164,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2797",
       "speakers": [
-        "Ian Hislop",
-        "Adam Macqueen",
-        "Matt Muir",
-        "Helen Lewis",
-        "Andrew Hunter Murray"
+        "False Advertising",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "false",
@@ -1098,7 +1184,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1887",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "special",
         "emergency",
@@ -1117,7 +1206,8 @@
       "enclosure_length": "0",
       "itunes_duration": "824",
       "speakers": [
-        "Ian Hislop"
+        "Ian Hislop",
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "footie",
@@ -1138,7 +1228,8 @@
       "speakers": [
         "Hospital Passing",
         "Buck Rebecca Thomas",
-        "Paul Foot Award"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "footie",
@@ -1161,7 +1252,8 @@
       "speakers": [
         "Paul Caruana Galizia",
         "Antonia Cundy",
-        "Crispin Odey"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "footie",
@@ -1181,7 +1273,9 @@
       "enclosure_length": "0",
       "itunes_duration": "601",
       "speakers": [
-        "Lewis McBlane"
+        "Lewis McBlane",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "footie",
@@ -1202,7 +1296,8 @@
       "itunes_duration": "738",
       "speakers": [
         "Humberto Rocha",
-        "Paul Foot Award"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "footies"
@@ -1220,8 +1315,8 @@
       "enclosure_length": "0",
       "itunes_duration": "704",
       "speakers": [
-        "Paul Foot Award",
-        "Justine Smith"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "footies",
@@ -1242,8 +1337,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1033",
       "speakers": [
-        "Paul Foot Award",
-        "Tristan Kirk"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paul",
@@ -1267,7 +1362,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2371",
       "speakers": [
-        "Richard Brooks"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "government"
@@ -1285,8 +1381,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2620",
       "speakers": [
-        "Jeremy Clarkson",
-        "Greta Thunberg"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "defection",
@@ -1308,7 +1404,9 @@
       "itunes_duration": "2440",
       "speakers": [
         "Tim Minogue",
-        "Rotten Boroughs"
+        "Rotten Boroughs",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "council",
@@ -1326,7 +1424,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2504",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "sexual",
         "politic"
@@ -1344,7 +1445,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2401",
       "speakers": [
-        "Rupert Murdoch"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "crimes"
@@ -1362,7 +1464,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2399",
       "speakers": [
-        "Phil Hammond"
+        "Phil Hammond",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "private",
@@ -1382,13 +1486,8 @@
       "itunes_duration": "2315",
       "speakers": [
         "George Ian",
-        "George Galloway",
-        "Christopher Hitchens",
-        "Benjamin Cohen",
-        "Naz Shah",
-        "Julian Assange",
-        "Russell Brand",
-        "Nigel Farage"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "gorging",
@@ -1406,7 +1505,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2650",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "mailbag",
         "mayhem"
@@ -1423,7 +1525,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2572",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "insane",
         "membrane"
@@ -1440,7 +1545,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2426",
-      "speakers": [],
+      "speakers": [
+        "Post Office",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "post",
         "polls",
@@ -1460,7 +1569,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2453",
       "speakers": [
-        "Richard Brooks"
+        "Richard Brooks",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "post",
@@ -1479,7 +1590,9 @@
       "enclosure_length": "0",
       "itunes_duration": "1412",
       "speakers": [
-        "Merry Quizmas"
+        "Merry Quizmas",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "merry",
@@ -1501,9 +1614,8 @@
         "Harry Enfield",
         "Jan Ravens",
         "Lewis Macleod",
-        "Sylvie Krin",
-        "William McGonagall",
-        "Herbert Gussett"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "london"
@@ -1521,7 +1633,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2219",
       "speakers": [
-        "Dark Starmer"
+        "Dark Starmer",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "dark",
@@ -1540,8 +1654,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2402",
       "speakers": [
-        "David Cameron",
-        "Suella Braverman"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "lord",
@@ -1560,8 +1674,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2616",
       "speakers": [
-        "Matt Muir",
-        "Rishi Sunak"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paper",
@@ -1581,8 +1695,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1363",
       "speakers": [
-        "Donald Trump",
-        "Tony Husband"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "electile",
@@ -1601,7 +1715,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2594",
       "speakers": [
-        "Richard Brooks"
+        "Richard Brooks",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "government",
@@ -1621,9 +1737,8 @@
       "itunes_duration": "2535",
       "speakers": [
         "Russell Brand",
-        "Rishi Sunak",
-        "Rupert Murdoch",
-        "Solomon Hughes"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "brand",
@@ -1644,9 +1759,6 @@
       "speakers": [
         "Big Liz Truss",
         "Mohammed Fayed",
-        "Jane Mackenzie",
-        "Adam Macqueen",
-        "Helen Lewis",
         "Andrew Hunter Murray",
         "Ian Hislop"
       ],
@@ -1666,7 +1778,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2647",
       "speakers": [
-        "Richard Brooks"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "late",
@@ -1686,8 +1799,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2141",
       "speakers": [
-        "Dan Wootton",
-        "Jane Mackenzie"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "house"
@@ -1705,8 +1818,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2623",
       "speakers": [
-        "Elon Musk",
-        "Nigel Farage"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "bunch",
@@ -1729,8 +1842,7 @@
         "Adam Macqueen",
         "Jane Mackenzie",
         "Andrew Hunter Murray",
-        "Solomon Hughes",
-        "Sarah Shannon"
+        "Ian Hislop"
       ],
       "topics": [
         "water",
@@ -1752,8 +1864,7 @@
         "Ian Hislop",
         "Adam Macqueen",
         "Helen Lewis",
-        "Jeremy Clarkson",
-        "Richard Brooks"
+        "Andrew Hunter Murray"
       ],
       "topics": []
     },
@@ -1772,8 +1883,7 @@
         "Ian Hislop",
         "Adam Macqueen",
         "Helen Lewis",
-        "Boris Johnson",
-        "Phil Hammond"
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "boris",
@@ -1792,8 +1902,8 @@
       "enclosure_length": "0",
       "itunes_duration": "398",
       "speakers": [
-        "Ian Hislop",
-        "Padraig Reidy"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paul",
@@ -1813,9 +1923,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1987",
       "speakers": [
-        "Boris Johnson",
-        "Baroness Mone",
-        "Andrew Tate"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paul",
@@ -1834,7 +1943,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1719",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "paul",
         "foot",
@@ -1854,7 +1966,8 @@
       "itunes_duration": "1905",
       "speakers": [
         "Matt Muir",
-        "Jane Mackenzie"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "planet",
@@ -1875,7 +1988,8 @@
       "itunes_duration": "2028",
       "speakers": [
         "Richard Brooks",
-        "Tim Minogue"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "north",
@@ -1894,9 +2008,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1786",
       "speakers": [
-        "Lewis Macleod",
-        "Jan Ravens",
-        "Harry Enfield",
+        "National Theatre",
+        "Andrew Hunter Murray",
         "Ian Hislop"
       ],
       "topics": [
@@ -1917,7 +2030,8 @@
       "speakers": [
         "Jane Mackenzie",
         "Solomon Hughes",
-        "Sarah Shannon"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "offshore",
@@ -1938,8 +2052,8 @@
       "itunes_duration": "2043",
       "speakers": [
         "Phil Hammond",
-        "Solomon Hughes",
-        "Boris Johnson"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "deal"
@@ -1957,7 +2071,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2418",
       "speakers": [
-        "Paul Foot"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paul",
@@ -1978,8 +2093,8 @@
       "itunes_duration": "1727",
       "speakers": [
         "Richard Brooks",
-        "Jubilee Special",
-        "Adam Macqueen"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "knights",
@@ -2000,7 +2115,8 @@
       "speakers": [
         "Antony Goldman",
         "Dr Grim",
-        "Jane Mackenzie"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "conflict",
@@ -2021,7 +2137,8 @@
       "speakers": [
         "Richard Brooks",
         "Solomon Hughes",
-        "Ian Hislop"
+        "Ian Hislop",
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "standards"
@@ -2041,7 +2158,8 @@
       "speakers": [
         "Tim Minogue",
         "Rotten Boroughs",
-        "Rachael Claye"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "snooty"
@@ -2061,7 +2179,9 @@
       "speakers": [
         "Ho-Ho-Ho House",
         "Francis Wheen",
-        "Adam Macqueen"
+        "Adam Macqueen",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "house",
@@ -2082,7 +2202,8 @@
       "speakers": [
         "Jane Mackenzie",
         "Karen Liebreich",
-        "Dr Grim"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "bunch",
@@ -2102,7 +2223,9 @@
       "itunes_duration": "2311",
       "speakers": [
         "Richard Brooks",
-        "Solomon Hughes"
+        "Solomon Hughes",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "profit",
@@ -2122,7 +2245,8 @@
       "itunes_duration": "1919",
       "speakers": [
         "Phil Hammond",
-        "Jane Mackenzie"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "megaliths"
@@ -2141,7 +2265,8 @@
       "itunes_duration": "2149",
       "speakers": [
         "Adam Macqueen",
-        "Ian Hislop"
+        "Ian Hislop",
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "year",
@@ -2160,8 +2285,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3945",
       "speakers": [
-        "Barnard Castle",
-        "David Cameron"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paul",
@@ -2183,6 +2308,7 @@
       "speakers": [
         "Richard Brooks",
         "Solomon Hughes",
+        "Andrew Hunter Murray",
         "Ian Hislop"
       ],
       "topics": [
@@ -2204,7 +2330,9 @@
       "itunes_duration": "2008",
       "speakers": [
         "Jane Mackenzie",
-        "Solomon Hughes"
+        "Solomon Hughes",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "military",
@@ -2226,9 +2354,8 @@
       "itunes_duration": "2318",
       "speakers": [
         "Jane Mackenzie",
-        "Ian Hislop",
-        "Francis Wheen",
-        "Robert Maxwell"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": []
     },
@@ -2245,8 +2372,8 @@
       "itunes_duration": "2041",
       "speakers": [
         "Richard Brooks",
-        "Tim Minogue",
-        "Francis Wheen"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "lorry",
@@ -2267,10 +2394,8 @@
       "speakers": [
         "Phil Hammond",
         "Richard Brooks",
-        "Solomon Hughes",
-        "Sarah Shannon",
-        "Farmed Salmon",
-        "John Sessions"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "christmas",
@@ -2290,7 +2415,8 @@
       "itunes_duration": "1773",
       "speakers": [
         "Ian Hislop",
-        "James Alefantis"
+        "James Alefantis th",
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "election",
@@ -2313,7 +2439,7 @@
       "speakers": [
         "Tim Minogue",
         "Adam Macqueen",
-        "Phil Hammond",
+        "Andrew Hunter Murray",
         "Ian Hislop"
       ],
       "topics": [
@@ -2334,8 +2460,8 @@
       "itunes_duration": "2675",
       "speakers": [
         "Richard Brooks",
-        "Sarah Shannon",
-        "Francis Wheen"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "serco",
@@ -2354,8 +2480,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3599",
       "speakers": [
-        "Ian Hislop",
-        "Padraig Reidy"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "nice",
@@ -2374,7 +2500,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3391",
       "speakers": [
-        "every download"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "covid19"
@@ -2392,9 +2519,10 @@
       "enclosure_length": "0",
       "itunes_duration": "2531",
       "speakers": [
-        "Adam Macqueen",
-        "Jane Mackenzie",
-        "Francis Wheen"
+        "Independent Inquiry",
+        "Child Sexual Abuse",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "iicsa"
@@ -2414,7 +2542,8 @@
       "speakers": [
         "Rachael Claye",
         "Peter Apps",
-        "Francis Wheen"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "grenfell",
@@ -2434,7 +2563,9 @@
       "itunes_duration": "3182",
       "speakers": [
         "Richard Brooks",
-        "Nick Wallis"
+        "Nick Wallis",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "going",
@@ -2453,11 +2584,10 @@
       "enclosure_length": "0",
       "itunes_duration": "1682",
       "speakers": [
-        "Starring Ian Hislop",
-        "John Sessions",
-        "Lewis MacLeod",
-        "Jan Ravens",
-        "Harry Enfield"
+        "National Theatre",
+        "Private Eye",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "national",
@@ -2477,7 +2607,7 @@
       "itunes_duration": "1443",
       "speakers": [
         "Christopher Booker",
-        "Adam Macqueen",
+        "Andrew Hunter Murray",
         "Ian Hislop"
       ],
       "topics": [
@@ -2496,7 +2626,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1485",
       "speakers": [
-        "Ian Hislop"
+        "Ian Hislop",
+        "Andrew Hunter Murray"
       ],
       "topics": []
     },
@@ -2512,7 +2643,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2925",
       "speakers": [
-        "Paul Foot Awards Special"
+        "Paul Foot Awards Special",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paul",
@@ -2535,7 +2668,7 @@
       "speakers": [
         "Shopping Malls",
         "Richard Brooks",
-        "Tim Minogue",
+        "Andrew Hunter Murray",
         "Ian Hislop"
       ],
       "topics": [
@@ -2558,10 +2691,8 @@
       "itunes_duration": "1749",
       "speakers": [
         "Dr Grim",
-        "Uighur Muslims",
-        "Adam Macqueen",
-        "Francis Wheen",
-        "Lady Falkender"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "china",
@@ -2580,7 +2711,9 @@
       "enclosure_length": "0",
       "itunes_duration": "1791",
       "speakers": [
-        "Phil Hammond"
+        "Phil Hammond",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "mental",
@@ -2602,8 +2735,8 @@
       "itunes_duration": "2025",
       "speakers": [
         "Jane Mackenzie",
-        "Adam Macqueen",
-        "Francis Wheen"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "fire",
@@ -2625,6 +2758,7 @@
         "Harry Enfield",
         "John Sessions",
         "Jan Ravens",
+        "Andrew Hunter Murray",
         "Ian Hislop"
       ],
       "topics": [
@@ -2644,7 +2778,8 @@
       "itunes_duration": "1942",
       "speakers": [
         "Solomon Hughes",
-        "Richard Jolley"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "probation",
@@ -2662,7 +2797,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1796",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "russians"
       ]
@@ -2681,8 +2819,8 @@
       "speakers": [
         "Bumper Broadcast Holiday Special",
         "Jane Mackenzie",
-        "Solomon Hughes",
-        "Matt Muir"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "bumper",
@@ -2704,7 +2842,9 @@
       "itunes_duration": "1720",
       "speakers": [
         "Phil Hammond",
-        "Francis Wheen"
+        "Francis Wh",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "doctor",
@@ -2724,7 +2864,8 @@
       "itunes_duration": "1695",
       "speakers": [
         "Sarah Shannon",
-        "Francis Wheen"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "lagoons",
@@ -2742,7 +2883,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2159",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "footy"
       ]
@@ -2760,7 +2904,8 @@
       "itunes_duration": "2210",
       "speakers": [
         "Richard Brooks",
-        "Adam Macqueen"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "bean",
@@ -2780,7 +2925,10 @@
       "enclosure_length": "0",
       "itunes_duration": "1883",
       "speakers": [
-        "every download"
+        "Heather Mills",
+        "Universal Credit",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "credit",
@@ -2800,7 +2948,9 @@
       "itunes_duration": "1882",
       "speakers": [
         "Richard Brooks",
-        "Christian Eriksson"
+        "Christian Eriksson",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paradise",
@@ -2819,10 +2969,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1591",
       "speakers": [
-        "Ted Heath",
-        "Jane Mackenzie",
-        "Rosie Waterhouse",
-        "Francis Wheen",
+        "Andrew Hunter Murray",
         "Ian Hislop"
       ],
       "topics": [
@@ -2841,7 +2988,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1946",
       "speakers": [
-        "Ben Fox telling"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "brexit",
@@ -2860,7 +3008,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1771",
       "speakers": [
-        "Garden Bridges"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "paul",
@@ -2881,7 +3030,9 @@
       "enclosure_length": "0",
       "itunes_duration": "1668",
       "speakers": [
-        "every download"
+        "Free Special",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "finance",
@@ -2900,8 +3051,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1795",
       "speakers": [
-        "Emma Woollacott",
-        "Jeremy Hunt"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "hospital",
@@ -2921,6 +3072,7 @@
       "itunes_duration": "1943",
       "speakers": [
         "Rachael Claye",
+        "Andrew Hunter Murray",
         "Ian Hislop"
       ],
       "topics": [
@@ -2940,8 +3092,9 @@
       "enclosure_length": "0",
       "itunes_duration": "1783",
       "speakers": [
-        "Paul Vickers",
-        "Craig Brown"
+        "Paul Vicke",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "soldier",
@@ -2962,7 +3115,8 @@
       "speakers": [
         "Ian Hislop",
         "Jane Mackenzie",
-        "Tim Minogue"
+        "Tim Minogue",
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "courtroom",
@@ -2985,7 +3139,7 @@
       "itunes_duration": "1973",
       "speakers": [
         "Ian Hislop",
-        "Adam Macqueen"
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "year"
@@ -3003,8 +3157,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1373",
       "speakers": [
-        "Richard Brooks",
-        "Solomon Hughes"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "revolving",
@@ -3022,7 +3176,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1189",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "deepcut"
       ]
@@ -3042,7 +3199,8 @@
         "Tim Minogue",
         "Sarah Shannon",
         "Adam Macqueen",
-        "Maisie Glazebrook"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "lunch"
@@ -3060,8 +3218,9 @@
       "enclosure_length": "0",
       "itunes_duration": "1652",
       "speakers": [
-        "Tom Jamieson",
-        "Nev Fountain"
+        "Private Finance Initiative",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": []
     },
@@ -3078,7 +3237,9 @@
       "itunes_duration": "1719",
       "speakers": [
         "Francis Wheen",
-        "Adam Macqueen"
+        "Adam Macqueen",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "book"
@@ -3098,8 +3259,8 @@
       "speakers": [
         "Richard Brooks",
         "Solomon Hughes",
-        "Nick Newman",
-        "Dave Snooty"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "panamania"
@@ -3119,7 +3280,7 @@
       "speakers": [
         "Ian Hislop",
         "Adam Macqueen",
-        "Ed Barrett"
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "online"
@@ -3136,7 +3297,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1792",
-      "speakers": [],
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
       "topics": [
         "care",
         "criticism"
@@ -3154,7 +3318,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1723",
       "speakers": [
-        "Gavin Stamp"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "architect",
@@ -3173,7 +3338,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1647",
       "speakers": [
-        "every download"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": []
     },
@@ -3191,7 +3357,8 @@
       "speakers": [
         "Adam Macqueen",
         "Francis Wheen",
-        "David Ziggy Greene"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": []
     },
@@ -3208,8 +3375,8 @@
       "itunes_duration": "2051",
       "speakers": [
         "Solomon Hughes",
-        "Richard Brooks",
-        "Christian Eriksson"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "business",
@@ -3229,7 +3396,8 @@
       "itunes_duration": "1894",
       "speakers": [
         "Solomon Hughes",
-        "Anthony Goldman"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "honours",
@@ -3249,7 +3417,9 @@
       "itunes_duration": "1385",
       "speakers": [
         "Michael Heath",
-        "Tax Havens"
+        "Tax Havens",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "michael",
@@ -3269,7 +3439,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1878",
       "speakers": [
-        "Alan Yentob"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "cartooning",
@@ -3291,7 +3462,7 @@
       "speakers": [
         "Ian Hislop",
         "Tim Minogue",
-        "Rotten Boroughs"
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "magazine",
@@ -3314,7 +3485,7 @@
       "speakers": [
         "Ian Hislop",
         "Adam Macqueen",
-        "Phil Hammond"
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "election",
@@ -3334,7 +3505,9 @@
       "enclosure_length": "0",
       "itunes_duration": "1300",
       "speakers": [
-        "Craig Brown"
+        "Craig Brown",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "craig",
@@ -3355,7 +3528,9 @@
       "enclosure_length": "0",
       "itunes_duration": "1023",
       "speakers": [
-        "Piers Morgan"
+        "two enormous",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "higher",
@@ -3377,8 +3552,8 @@
       "itunes_duration": "1248",
       "speakers": [
         "Francis Wheen",
-        "Ian Hislop",
-        "Nick Newman"
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "wheen",
@@ -3398,7 +3573,9 @@
       "enclosure_length": "0",
       "itunes_duration": "2050",
       "speakers": [
-        "Martin Honeysett"
+        "Martin Honeysett",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
       ],
       "topics": [
         "martin",
@@ -3415,170 +3592,171 @@
 
 ## Episodes (newest first)
 
+- 2026-02-24 — 168: A Tale Of Two Andrews — speakers: Rachael Claye, Andrew one, Andrew Hunter Murray, Ian Hislop
 - 2026-02-17 — 167: Cash Harry — speakers: Adam Macqueen, Ian Hislop, Helen Lewis, Andrew Hunter Murray
-- 2026-02-10 — 166: Mandy Lifeboats — speakers: Peter Mandelson’s CV, Ian Hislop, Helen Lewis, Adam MacQueen, Andrew Hunter Murray
-- 2026-01-27 — 165: Crash And Burnham — speakers: Andy Burnham, Donald Trump
-- 2026-01-13 — 164: On Thin ICE
-- 2025-12-28 — 163: Quizmas Crackers — speakers: Quizmas Crackers
-- 2025-12-16 — 162: Private Eye - Year In Review 2025 — speakers: Ian Hislop, Jan Ravens, Lewis Macleod, Harry Enfield
-- 2025-12-02 — 161: Unwise Councils — speakers: Rotten Boroughs, Saba Salman
-- 2025-11-18 — 160: Shakedowns, Coups and COP 30 — speakers: Donald Trump
-- 2025-11-04 — 159: The Grand Old Duke Of Yuck — speakers: Yuck Ian, Richard Brooks
-- 2025-10-20 — 158: Live From Cheltenham — speakers: Donald Trump
-- 2025-10-07 — 157: Bishops, buggers and health freaks — speakers: Jane Mackenzie
-- 2025-09-23 — 156: It's Your Party, Cry If You Want To — speakers: Justine Smith
-- 2025-09-09 — 155: Re-shuffle, Re-signation, Re-form — speakers: Angela Rayner, Graham Linehan
-- 2025-08-28 — 154: The Definitive Guide To Private Eye
-- 2025-08-12 — 153: Scott Free — speakers: Scott Free Ian
-- 2025-07-29 — 152: Protests, Placards, Palestine and Private Eye
-- 2025-07-15 — 151: The Epstein Fails — speakers: Jane Mackenzie
-- 2025-07-01 — 150: Labour, Heatwaves and Glasto
-- 2025-06-17 — 149: Summer Fun Special — speakers: Sarah Shannon, Donald Trump
-- 2025-06-04 — 148: Leftie Lawyers and Rightwing Roughnecks — speakers: Robert Jenrick, Richard Hermer, Butch Keir, Ian Hislop, Nick Newman, Barry Fantoni so
-- 2025-05-21 — 147: Tales From The Telegraph, Grok and Gullies — speakers: Elon Musk’s AI
-- 2025-05-20 — 146: Paul Foot Award: The Winner — speakers: Paul Foot Award, Tristan Kirk
-- 2025-05-19 — 145: Day 6: The Big Help — speakers: Paul Foot Award
-- 2025-05-18 — 144: Day 5: The Gaza Student Protest Crackdown — speakers: Aaron Walawalkar, Liberty Investigates, Harriet Clugston, Paul Foot Award
-- 2025-05-17 — 143: Day 4: Lime Bikes and Broken Legs — speakers: Broken Legs, Jim Waterson, London Centric, Paul Foot Award
-- 2025-05-16 — 142: Day 3: Out Of Sight: Missing People — speakers: Charlie Brinkhurst-Cuff, Fiona Holm, Paul Foot Award
-- 2025-05-15 — 141: Day 2: The Carer's Allowance Scandal — speakers: Patrick Butler, Paul Foot Award
-- 2025-05-14 — 140: Mini-Series: The Paul Foot Award 2025 — speakers: Paul Foot Award, Laura Hughes
-- 2025-05-06 — 139: Page 94 LIVE
-- 2025-04-23 — 138: Beg, Borrow and Steel — speakers: Richard Brooks, Yank Avoidance
-- 2025-04-08 — 137: How Trump Ate The British Media — speakers: Trump Ate, Tim Minogue, Rotten Boroughs
-- 2025-03-26 — 136: Robo Hacks & Dodgy Degrees
-- 2025-03-11 — 135: Reform, The Beeb and The House Of Saud
-- 2025-02-25 — 134: Mega MAGA — speakers: Mega Maga, Phil Hammond, Lucy Letby
-- 2025-02-12 — 133: Planes, Trains and Automobiles — speakers: Keir Starmer
-- 2025-01-29 — 132: Pod Baby Pod
-- 2025-01-14 — 131: Tulip Mania — speakers: Tim Minogue, David Rommel Montgomery
-- 2024-12-30 — 130: Merry Quizmas — speakers: Merry Quizmas Helen, Nigel Slater
-- 2024-12-18 — 129: Private Eye - The Year In Review 2024 — speakers: Ian Hislop, Harry Enfield, Jan Ravens, Lewis Macleod, Herbert Gussett, Keir Starmer
-- 2024-12-11 — 128: Tales From The Crypto — speakers: Matt Muir
-- 2024-11-27 — 127: Inheriting the earth — speakers: Justin Welby
-- 2024-11-12 — 126: MAGA, monarchy and Welby’s woes — speakers: Donald Trump, Prince William, Francis Wheen, Justin Welby
-- 2024-10-30 — 125: US Election Special
-- 2024-10-16 — 124: Court Short — speakers: Jane Mackenzie, Sarah Shannon
-- 2024-10-02 — 123: Party Games — speakers: Mohamed Fayed
-- 2024-09-18 — 122: Labour's Freebies and The End of the Peers Show — speakers: Keir Starmer
-- 2024-09-04 — 121: Reasons To Be Keir-Ful — speakers: Maximum Gloom, Donald Trump
-- 2024-08-20 — 120: Summer Books Special — speakers: Louis Xiv
-- 2024-08-07 — 119: They Predict A Riot — speakers: Riot How, Conservative Leadership
-- 2024-07-24 — 118: Bye-Biden — speakers: Phil Hammond, Lucy Letby
-- 2024-07-10 — 117: A New Pod For Britain
-- 2024-07-03 — 116: Pre-Election Special — speakers: Nigel Farage, Lewis Macleod, Nigel Really
-- 2024-06-25 — 115: False Advertising — speakers: Ian Hislop, Adam Macqueen, Matt Muir, Helen Lewis, Andrew Hunter Murray
-- 2024-06-12 — 114: Special Non-Emergency Election Episode
-- 2024-06-11 — 113: Footies #7: And The Winner Is... — speakers: Ian Hislop
-- 2024-06-10 — 112: Footies #6: Hospital Passing-The-Buck — speakers: Hospital Passing, Buck Rebecca Thomas, Paul Foot Award
-- 2024-06-09 — 111: Footies #5: The Challenging Mr Odey — speakers: Paul Caruana Galizia, Antonia Cundy, Crispin Odey
-- 2024-06-08 — 110: Footies #4: Duel Narratives — speakers: Lewis McBlane
-- 2024-06-07 — 109: The Footies #3: Taking the OPIS — speakers: Humberto Rocha, Paul Foot Award
-- 2024-06-06 — 108: The Footies #2: A Mental Health Crisis — speakers: Paul Foot Award, Justine Smith
-- 2024-06-05 — 107: Paul Foot Awards Specials 1: The Single Injustice Procedure — speakers: Paul Foot Award, Tristan Kirk
-- 2024-05-29 — 106: A Washed Up Government — speakers: Richard Brooks
-- 2024-05-15 — 105: Defection, Dwellings and Domesticated Animals — speakers: Jeremy Clarkson, Greta Thunberg
-- 2024-04-30 — 104: Councils of Despair — speakers: Tim Minogue, Rotten Boroughs
-- 2024-04-17 — 103: Sexual Politics
-- 2024-04-04 — 102: Non-Crimes And Non-Punishment — speakers: Rupert Murdoch
-- 2024-03-20 — 101: Private Eye's Privat-ised — speakers: Phil Hammond
-- 2024-03-06 — 100: Gorging on George — speakers: George Ian, George Galloway, Christopher Hitchens, Benjamin Cohen, Naz Shah, Julian Assange, Russell Brand, Nigel Farage
-- 2024-02-21 — 99: Mailbag Mayhem
-- 2024-02-07 — 98: Insane In The Membrane
-- 2024-01-24 — 97: Post, Polls, Papers and Piles
-- 2024-01-10 — 96: Post Haste — speakers: Richard Brooks
-- 2023-12-29 — 95: Merry Quizmas — speakers: Merry Quizmas
-- 2023-12-20 — 94: Live In London — speakers: Harry Enfield, Jan Ravens, Lewis Macleod, Sylvie Krin, William McGonagall, Herbert Gussett
-- 2023-12-06 — 93: Dark Starmer and Dirty COPs — speakers: Dark Starmer
-- 2023-11-22 — 92: Call Me Lord Dave — speakers: David Cameron, Suella Braverman
-- 2023-11-08 — 91: Papers, Paul and Plots — speakers: Matt Muir, Rishi Sunak
-- 2023-10-25 — 90: Electile Dysfunction — speakers: Donald Trump, Tony Husband
-- 2023-10-11 — 89: Government By Private Eye — speakers: Richard Brooks
-- 2023-09-27 — 88: Brand Management — speakers: Russell Brand, Rishi Sunak, Rupert Murdoch, Solomon Hughes
-- 2023-09-13 — 87: Putting The 'Con' In Concrete — speakers: Big Liz Truss, Mohammed Fayed, Jane Mackenzie, Adam Macqueen, Helen Lewis, Andrew Hunter Murray, Ian Hislop
-- 2023-08-30 — 86: Late Lamented Queens — speakers: Richard Brooks
-- 2023-08-16 — 85: Crooked Houses — speakers: Dan Wootton, Jane Mackenzie
-- 2023-08-02 — 84: Bunch Of Coutts — speakers: Elon Musk, Nigel Farage
-- 2023-07-19 — 83: Water Disaster — speakers: Helen Lewis, Adam Macqueen, Jane Mackenzie, Andrew Hunter Murray, Solomon Hughes, Sarah Shannon
-- 2023-07-05 — 82: Fun in the Sun — speakers: Ian Hislop, Adam Macqueen, Helen Lewis, Jeremy Clarkson, Richard Brooks
-- 2023-06-21 — 81: Boris and Inquiries — speakers: Ian Hislop, Adam Macqueen, Helen Lewis, Boris Johnson, Phil Hammond
-- 2023-06-07 — 80: Paul Foot Award Part III — speakers: Ian Hislop, Padraig Reidy
-- 2023-06-05 — 79: Paul Foot Award Part II — speakers: Boris Johnson, Baroness Mone, Andrew Tate
-- 2023-06-05 — 78: Paul Foot Award Part I
-- 2023-04-24 — 77: Planet Destroying Technologies — speakers: Matt Muir, Jane Mackenzie
-- 2023-03-17 — 76: North And South — speakers: Richard Brooks, Tim Minogue
-- 2022-12-19 — 75: Live At The National — speakers: Lewis Macleod, Jan Ravens, Harry Enfield, Ian Hislop
-- 2022-12-06 — 74: Offshore Homes and Ing-er-land — speakers: Jane Mackenzie, Solomon Hughes, Sarah Shannon
-- 2022-08-09 — 73: NHS and Saudi Deals — speakers: Phil Hammond, Solomon Hughes, Boris Johnson
-- 2022-06-17 — 72: The Paul Foot Awards 2022 — speakers: Paul Foot
-- 2022-05-29 — 71: Knights And Queens — speakers: Richard Brooks, Jubilee Special, Adam Macqueen
-- 2022-04-13 — 70: Conflict And Classrooms — speakers: Antony Goldman, Dr Grim, Jane Mackenzie
-- 2022-02-18 — 69: Slipping Standards — speakers: Richard Brooks, Solomon Hughes, Ian Hislop
-- 2022-01-20 — 68: The Snooty Fox — speakers: Tim Minogue, Rotten Boroughs, Rachael Claye
-- 2021-12-16 — 67: Ho-Ho-Ho House Of Windsor — speakers: Ho-Ho-Ho House, Francis Wheen, Adam Macqueen
-- 2021-11-25 — 66: A Bunch Of Shits — speakers: Jane Mackenzie, Karen Liebreich, Dr Grim
-- 2021-10-13 — 65: Profits Of Doom — speakers: Richard Brooks, Solomon Hughes
-- 2021-08-18 — 64: MD and Megaliths — speakers: Phil Hammond, Jane Mackenzie
-- 2021-07-13 — 63: It Was 60 Years Ago Today — speakers: Adam Macqueen, Ian Hislop
-- 2021-06-15 — 62: The Paul Foot Awards 2021 — speakers: Barnard Castle, David Cameron
-- 2021-05-07 — 61: Greensill and Prince Phil — speakers: Richard Brooks, Solomon Hughes, Ian Hislop
-- 2021-04-01 — 60: Military Mayhem and Mobile Homes — speakers: Jane Mackenzie, Solomon Hughes
-- 2021-03-05 — 59: Catching Up and Cap'n Bob — speakers: Jane Mackenzie, Ian Hislop, Francis Wheen, Robert Maxwell
-- 2021-02-04 — 58: Lorries, LTNs and Liu — speakers: Richard Brooks, Tim Minogue, Francis Wheen
-- 2020-12-14 — 57: Christmas Stock-pil-ing — speakers: Phil Hammond, Richard Brooks, Solomon Hughes, Sarah Shannon, Farmed Salmon, John Sessions
-- 2020-10-31 — 56: US Election Fake News Special — speakers: Ian Hislop, James Alefantis
-- 2020-09-01 — 55: Media, MD and Magazines — speakers: Tim Minogue, Adam Macqueen, Phil Hammond, Ian Hislop
-- 2020-07-09 — 54: Serco, Sailors and Spies — speakers: Richard Brooks, Sarah Shannon, Francis Wheen
-- 2020-06-09 — 53: Nice Footwork — speakers: Ian Hislop, Padraig Reidy
-- 2020-05-04 — 52: COVID-19 — speakers: every download
-- 2020-03-30 — 51: IICSA — speakers: Adam Macqueen, Jane Mackenzie, Francis Wheen
-- 2020-03-04 — 50: Grenfell and Scotland — speakers: Rachael Claye, Peter Apps, Francis Wheen
-- 2020-02-04 — 49: Going Postal — speakers: Richard Brooks, Nick Wallis
-- 2019-12-19 — 48: Live at the National Theatre! — speakers: Starring Ian Hislop, John Sessions, Lewis MacLeod, Jan Ravens, Harry Enfield
-- 2019-07-24 — 47: So. Farewell then... — speakers: Christopher Booker, Adam Macqueen, Ian Hislop
-- 2019-07-11 — 46: 1500 Glorious Episodes — speakers: Ian Hislop
-- 2019-06-25 — 45: Paul Foot Awards Special — speakers: Paul Foot Awards Special
-- 2019-03-11 — 44: Treasurers, Shopping Malls and Banging On — speakers: Shopping Malls, Richard Brooks, Tim Minogue, Ian Hislop
-- 2019-02-22 — 43: China and Forkbenders — speakers: Dr Grim, Uighur Muslims, Adam Macqueen, Francis Wheen, Lady Falkender
-- 2019-02-04 — 42: Mental Health and Dumb Britain — speakers: Phil Hammond
-- 2019-01-15 — 41: Fire and Franchising — speakers: Jane Mackenzie, Adam Macqueen, Francis Wheen
-- 2018-12-10 — 40: Live at the National — speakers: Harry Enfield, John Sessions, Jan Ravens, Ian Hislop
-- 2018-11-30 — 39: Probation and Penmanship — speakers: Solomon Hughes, Richard Jolley
-- 2018-11-16 — 38: The Russians Are Coming
-- 2018-08-08 — 37: Bumper Broadcast Holiday Special — speakers: Bumper Broadcast Holiday Special, Jane Mackenzie, Solomon Hughes, Matt Muir
-- 2018-07-25 — 36: Doctors and Darrens — speakers: Phil Hammond, Francis Wheen
-- 2018-07-12 — 35: Lagoons and Lawsuits — speakers: Sarah Shannon, Francis Wheen
-- 2018-06-29 — 34: Footy Footy Footy
-- 2018-06-13 — 33: Bean Counters and Dog Lovers — speakers: Richard Brooks, Adam Macqueen
-- 2017-12-20 — 32: Credit and Christmas — speakers: every download
-- 2017-11-22 — 31: Paradise and Paper — speakers: Richard Brooks, Christian Eriksson
-- 2017-10-19 — 30: The Plodcast — speakers: Ted Heath, Jane Mackenzie, Rosie Waterhouse, Francis Wheen, Ian Hislop
-- 2017-07-27 — 29: Brexit and Blood — speakers: Ben Fox telling
-- 2017-06-26 — 28: The Paul Foot Awards Return! — speakers: Garden Bridges
-- 2017-06-05 — 27: Finance and Forensics — speakers: every download
-- 2017-05-19 — 26: Hospitals and Hacks — speakers: Emma Woollacott, Jeremy Hunt
-- 2017-04-13 — 25: Housing and Secret Identities — speakers: Rachael Claye, Ian Hislop
-- 2017-03-29 — 24: Soldiers and Trump — speakers: Paul Vickers, Craig Brown
-- 2016-12-03 — 23: Courtrooms, Councillors and Completely Bogus News - a triple bill! — speakers: Ian Hislop, Jane Mackenzie, Tim Minogue
-- 2016-10-14 — 22: 30 Glorious Years — speakers: Ian Hislop, Adam Macqueen
-- 2016-09-19 — 21: Revolving Doors — speakers: Richard Brooks, Solomon Hughes
-- 2016-06-17 — 20: Deepcut
-- 2016-05-27 — 19: Pubs and Lunches — speakers: Tim Minogue, Sarah Shannon, Adam Macqueen, Maisie Glazebrook
-- 2016-05-12 — 18: PF-Eye — speakers: Tom Jamieson, Nev Fountain
-- 2016-04-29 — 17: Books and Bans — speakers: Francis Wheen, Adam Macqueen
-- 2016-04-15 — 16: Panamania — speakers: Richard Brooks, Solomon Hughes, Nick Newman, Dave Snooty
-- 2016-03-31 — 15: The Eye Online — speakers: Ian Hislop, Adam Macqueen, Ed Barrett
-- 2015-12-13 — 14: Care and Criticism
-- 2015-11-30 — 13: The Architect and the Lawyer — speakers: Gavin Stamp
-- 2015-11-16 — 12: FOI — speakers: every download
-- 2015-11-02 — 11: Back To The 80s — speakers: Adam Macqueen, Francis Wheen, David Ziggy Greene
-- 2015-10-15 — 10: Big Business and Tax Havens — speakers: Solomon Hughes, Richard Brooks, Christian Eriksson
-- 2015-07-14 — 9: Honours and Letters — speakers: Solomon Hughes, Anthony Goldman
-- 2015-06-18 — 8: Michael Heath and Tax Havens — speakers: Michael Heath, Tax Havens
-- 2015-06-04 — 7: Cartooning and Phone Hacking — speakers: Alan Yentob
-- 2015-05-22 — 6: Magazine Covers and Rotten Boroughs — speakers: Ian Hislop, Tim Minogue, Rotten Boroughs
-- 2015-05-05 — 5: An election TRIPLE BILL — speakers: Ian Hislop, Adam Macqueen, Phil Hammond
-- 2015-04-17 — 4: Craig Brown and Heather Mills — speakers: Craig Brown
-- 2015-04-01 — 3: Higher Education and Piers Morgan — speakers: Piers Morgan
-- 2015-03-19 — 2: Wheen, Hislop and Newman — speakers: Francis Wheen, Ian Hislop, Nick Newman
-- 2015-03-04 — 1: Martin Honeysett and the Paul Foot Awards — speakers: Martin Honeysett
+- 2026-02-10 — 166: Mandy Lifeboats — speakers: Peter Mandelson’s CV, Andrew Hunter Murray, Ian Hislop
+- 2026-01-27 — 165: Crash And Burnham — speakers: Andy Burnham, Andrew Hunter Murray, Ian Hislop
+- 2026-01-13 — 164: On Thin ICE — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-12-28 — 163: Quizmas Crackers — speakers: Quizmas Crackers, Andrew Hunter Murray, Ian Hislop
+- 2025-12-16 — 162: Private Eye - Year In Review 2025 — speakers: Ian Hislop, Jan Ravens, Lewis Macleod, Harry Enfield, Andrew Hunter Murray
+- 2025-12-02 — 161: Unwise Councils — speakers: Rotten Boroughs, Saba Salman, Andrew Hunter Murray, Ian Hislop
+- 2025-11-18 — 160: Shakedowns, Coups and COP 30 — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-11-04 — 159: The Grand Old Duke Of Yuck — speakers: Yuck Ian, Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2025-10-20 — 158: Live From Cheltenham — speakers: Cheltenham Literature Festival, Andrew Hunter Murray, Ian Hislop
+- 2025-10-07 — 157: Bishops, buggers and health freaks — speakers: Jane Mackenzie, Andrew Hunter Murray, Ian Hislop
+- 2025-09-23 — 156: It's Your Party, Cry If You Want To — speakers: Justine Smith, Andrew Hunter Murray, Ian Hislop
+- 2025-09-09 — 155: Re-shuffle, Re-signation, Re-form — speakers: Angela Rayner, Andrew Hunter Murray, Ian Hislop
+- 2025-08-28 — 154: The Definitive Guide To Private Eye — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-08-12 — 153: Scott Free — speakers: Scott Free Ian, Andrew Hunter Murray, Ian Hislop
+- 2025-07-29 — 152: Protests, Placards, Palestine and Private Eye — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-07-15 — 151: The Epstein Fails — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-07-01 — 150: Labour, Heatwaves and Glasto — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-06-17 — 149: Summer Fun Special — speakers: Sarah Shannon, Andrew Hunter Murray, Ian Hislop
+- 2025-06-04 — 148: Leftie Lawyers and Rightwing Roughnecks — speakers: Richard Hermer, Andrew Hunter Murray, Ian Hislop
+- 2025-05-21 — 147: Tales From The Telegraph, Grok and Gullies — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-05-20 — 146: Paul Foot Award: The Winner — speakers: Paul Foot Award, Andrew Hunter Murray, Ian Hislop
+- 2025-05-19 — 145: Day 6: The Big Help — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-05-18 — 144: Day 5: The Gaza Student Protest Crackdown — speakers: Aaron Walawalkar, Liberty Investigates, Harriet Clugston, Andrew Hunter Murray, Ian Hislop
+- 2025-05-17 — 143: Day 4: Lime Bikes and Broken Legs — speakers: Broken Legs, Jim Waterson, London Centric, Andrew Hunter Murray, Ian Hislop
+- 2025-05-16 — 142: Day 3: Out Of Sight: Missing People — speakers: Charlie Brinkhurst-Cuff, Fiona Ho, Andrew Hunter Murray, Ian Hislop
+- 2025-05-15 — 141: Day 2: The Carer's Allowance Scandal — speakers: Patrick Butler, Andrew Hunter Murray, Ian Hislop
+- 2025-05-14 — 140: Mini-Series: The Paul Foot Award 2025 — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-05-06 — 139: Page 94 LIVE — speakers: Cambridge Literary Festival, Andrew Hunter Murray, Ian Hislop
+- 2025-04-23 — 138: Beg, Borrow and Steel — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2025-04-08 — 137: How Trump Ate The British Media — speakers: Trump Ate, Andrew Hunter Murray, Ian Hislop
+- 2025-03-26 — 136: Robo Hacks & Dodgy Degrees — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-03-11 — 135: Reform, The Beeb and The House Of Saud — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-02-25 — 134: Mega MAGA — speakers: Mega Maga, Andrew Hunter Murray, Ian Hislop
+- 2025-02-12 — 133: Planes, Trains and Automobiles — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-01-29 — 132: Pod Baby Pod — speakers: Andrew Hunter Murray, Ian Hislop
+- 2025-01-14 — 131: Tulip Mania — speakers: Tulip Mania Tulip Siddiq, Andrew Hunter Murray, Ian Hislop
+- 2024-12-30 — 130: Merry Quizmas — speakers: Merry Quizmas Helen, Andrew Hunter Murray, Ian Hislop
+- 2024-12-18 — 129: Private Eye - The Year In Review 2024 — speakers: Ian Hislop, Harry Enfield, Jan Ravens, Lewis Macleod, Andrew Hunter Murray
+- 2024-12-11 — 128: Tales From The Crypto — speakers: Matt Muir, Andrew Hunter Murray, Ian Hislop
+- 2024-11-27 — 127: Inheriting the earth — speakers: Justin Welby, Andrew Hunter Murray, Ian Hislop
+- 2024-11-12 — 126: MAGA, monarchy and Welby’s woes — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-10-30 — 125: US Election Special — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-10-16 — 124: Court Short — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-10-02 — 123: Party Games — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-09-18 — 122: Labour's Freebies and The End of the Peers Show — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-09-04 — 121: Reasons To Be Keir-Ful — speakers: Maximum Gloom, Andrew Hunter Murray, Ian Hislop
+- 2024-08-20 — 120: Summer Books Special — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-08-07 — 119: They Predict A Riot — speakers: Riot How, Andrew Hunter Murray, Ian Hislop
+- 2024-07-24 — 118: Bye-Biden — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-07-10 — 117: A New Pod For Britain — speakers: New Boys, Andrew Hunter Murray, Ian Hislop
+- 2024-07-03 — 116: Pre-Election Special — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-06-25 — 115: False Advertising — speakers: False Advertising, Andrew Hunter Murray, Ian Hislop
+- 2024-06-12 — 114: Special Non-Emergency Election Episode — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-06-11 — 113: Footies #7: And The Winner Is... — speakers: Ian Hislop, Andrew Hunter Murray
+- 2024-06-10 — 112: Footies #6: Hospital Passing-The-Buck — speakers: Hospital Passing, Buck Rebecca Thomas, Andrew Hunter Murray, Ian Hislop
+- 2024-06-09 — 111: Footies #5: The Challenging Mr Odey — speakers: Paul Caruana Galizia, Antonia Cundy, Andrew Hunter Murray, Ian Hislop
+- 2024-06-08 — 110: Footies #4: Duel Narratives — speakers: Lewis McBlane, Andrew Hunter Murray, Ian Hislop
+- 2024-06-07 — 109: The Footies #3: Taking the OPIS — speakers: Humberto Rocha, Andrew Hunter Murray, Ian Hislop
+- 2024-06-06 — 108: The Footies #2: A Mental Health Crisis — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-06-05 — 107: Paul Foot Awards Specials 1: The Single Injustice Procedure — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-05-29 — 106: A Washed Up Government — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-05-15 — 105: Defection, Dwellings and Domesticated Animals — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-04-30 — 104: Councils of Despair — speakers: Tim Minogue, Rotten Boroughs, Andrew Hunter Murray, Ian Hislop
+- 2024-04-17 — 103: Sexual Politics — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-04-04 — 102: Non-Crimes And Non-Punishment — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-03-20 — 101: Private Eye's Privat-ised — speakers: Phil Hammond, Andrew Hunter Murray, Ian Hislop
+- 2024-03-06 — 100: Gorging on George — speakers: George Ian, Andrew Hunter Murray, Ian Hislop
+- 2024-02-21 — 99: Mailbag Mayhem — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-02-07 — 98: Insane In The Membrane — speakers: Andrew Hunter Murray, Ian Hislop
+- 2024-01-24 — 97: Post, Polls, Papers and Piles — speakers: Post Office, Andrew Hunter Murray, Ian Hislop
+- 2024-01-10 — 96: Post Haste — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2023-12-29 — 95: Merry Quizmas — speakers: Merry Quizmas, Andrew Hunter Murray, Ian Hislop
+- 2023-12-20 — 94: Live In London — speakers: Harry Enfield, Jan Ravens, Lewis Macleod, Andrew Hunter Murray, Ian Hislop
+- 2023-12-06 — 93: Dark Starmer and Dirty COPs — speakers: Dark Starmer, Andrew Hunter Murray, Ian Hislop
+- 2023-11-22 — 92: Call Me Lord Dave — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-11-08 — 91: Papers, Paul and Plots — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-10-25 — 90: Electile Dysfunction — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-10-11 — 89: Government By Private Eye — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2023-09-27 — 88: Brand Management — speakers: Russell Brand, Andrew Hunter Murray, Ian Hislop
+- 2023-09-13 — 87: Putting The 'Con' In Concrete — speakers: Big Liz Truss, Mohammed Fayed, Andrew Hunter Murray, Ian Hislop
+- 2023-08-30 — 86: Late Lamented Queens — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-08-16 — 85: Crooked Houses — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-08-02 — 84: Bunch Of Coutts — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-07-19 — 83: Water Disaster — speakers: Helen Lewis, Adam Macqueen, Jane Mackenzie, Andrew Hunter Murray, Ian Hislop
+- 2023-07-05 — 82: Fun in the Sun — speakers: Ian Hislop, Adam Macqueen, Helen Lewis, Andrew Hunter Murray
+- 2023-06-21 — 81: Boris and Inquiries — speakers: Ian Hislop, Adam Macqueen, Helen Lewis, Andrew Hunter Murray
+- 2023-06-07 — 80: Paul Foot Award Part III — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-06-05 — 79: Paul Foot Award Part II — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-06-05 — 78: Paul Foot Award Part I — speakers: Andrew Hunter Murray, Ian Hislop
+- 2023-04-24 — 77: Planet Destroying Technologies — speakers: Matt Muir, Andrew Hunter Murray, Ian Hislop
+- 2023-03-17 — 76: North And South — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2022-12-19 — 75: Live At The National — speakers: National Theatre, Andrew Hunter Murray, Ian Hislop
+- 2022-12-06 — 74: Offshore Homes and Ing-er-land — speakers: Jane Mackenzie, Solomon Hughes, Andrew Hunter Murray, Ian Hislop
+- 2022-08-09 — 73: NHS and Saudi Deals — speakers: Phil Hammond, Andrew Hunter Murray, Ian Hislop
+- 2022-06-17 — 72: The Paul Foot Awards 2022 — speakers: Andrew Hunter Murray, Ian Hislop
+- 2022-05-29 — 71: Knights And Queens — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2022-04-13 — 70: Conflict And Classrooms — speakers: Antony Goldman, Dr Grim, Andrew Hunter Murray, Ian Hislop
+- 2022-02-18 — 69: Slipping Standards — speakers: Richard Brooks, Solomon Hughes, Ian Hislop, Andrew Hunter Murray
+- 2022-01-20 — 68: The Snooty Fox — speakers: Tim Minogue, Rotten Boroughs, Andrew Hunter Murray, Ian Hislop
+- 2021-12-16 — 67: Ho-Ho-Ho House Of Windsor — speakers: Ho-Ho-Ho House, Francis Wheen, Adam Macqueen, Andrew Hunter Murray, Ian Hislop
+- 2021-11-25 — 66: A Bunch Of Shits — speakers: Jane Mackenzie, Karen Liebreich, Andrew Hunter Murray, Ian Hislop
+- 2021-10-13 — 65: Profits Of Doom — speakers: Richard Brooks, Solomon Hughes, Andrew Hunter Murray, Ian Hislop
+- 2021-08-18 — 64: MD and Megaliths — speakers: Phil Hammond, Andrew Hunter Murray, Ian Hislop
+- 2021-07-13 — 63: It Was 60 Years Ago Today — speakers: Adam Macqueen, Ian Hislop, Andrew Hunter Murray
+- 2021-06-15 — 62: The Paul Foot Awards 2021 — speakers: Andrew Hunter Murray, Ian Hislop
+- 2021-05-07 — 61: Greensill and Prince Phil — speakers: Richard Brooks, Solomon Hughes, Andrew Hunter Murray, Ian Hislop
+- 2021-04-01 — 60: Military Mayhem and Mobile Homes — speakers: Jane Mackenzie, Solomon Hughes, Andrew Hunter Murray, Ian Hislop
+- 2021-03-05 — 59: Catching Up and Cap'n Bob — speakers: Jane Mackenzie, Andrew Hunter Murray, Ian Hislop
+- 2021-02-04 — 58: Lorries, LTNs and Liu — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2020-12-14 — 57: Christmas Stock-pil-ing — speakers: Phil Hammond, Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2020-10-31 — 56: US Election Fake News Special — speakers: Ian Hislop, James Alefantis th, Andrew Hunter Murray
+- 2020-09-01 — 55: Media, MD and Magazines — speakers: Tim Minogue, Adam Macqueen, Andrew Hunter Murray, Ian Hislop
+- 2020-07-09 — 54: Serco, Sailors and Spies — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2020-06-09 — 53: Nice Footwork — speakers: Andrew Hunter Murray, Ian Hislop
+- 2020-05-04 — 52: COVID-19 — speakers: Andrew Hunter Murray, Ian Hislop
+- 2020-03-30 — 51: IICSA — speakers: Independent Inquiry, Child Sexual Abuse, Andrew Hunter Murray, Ian Hislop
+- 2020-03-04 — 50: Grenfell and Scotland — speakers: Rachael Claye, Peter Apps, Andrew Hunter Murray, Ian Hislop
+- 2020-02-04 — 49: Going Postal — speakers: Richard Brooks, Nick Wallis, Andrew Hunter Murray, Ian Hislop
+- 2019-12-19 — 48: Live at the National Theatre! — speakers: National Theatre, Private Eye, Andrew Hunter Murray, Ian Hislop
+- 2019-07-24 — 47: So. Farewell then... — speakers: Christopher Booker, Andrew Hunter Murray, Ian Hislop
+- 2019-07-11 — 46: 1500 Glorious Episodes — speakers: Ian Hislop, Andrew Hunter Murray
+- 2019-06-25 — 45: Paul Foot Awards Special — speakers: Paul Foot Awards Special, Andrew Hunter Murray, Ian Hislop
+- 2019-03-11 — 44: Treasurers, Shopping Malls and Banging On — speakers: Shopping Malls, Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2019-02-22 — 43: China and Forkbenders — speakers: Dr Grim, Andrew Hunter Murray, Ian Hislop
+- 2019-02-04 — 42: Mental Health and Dumb Britain — speakers: Phil Hammond, Andrew Hunter Murray, Ian Hislop
+- 2019-01-15 — 41: Fire and Franchising — speakers: Jane Mackenzie, Andrew Hunter Murray, Ian Hislop
+- 2018-12-10 — 40: Live at the National — speakers: Harry Enfield, John Sessions, Jan Ravens, Andrew Hunter Murray, Ian Hislop
+- 2018-11-30 — 39: Probation and Penmanship — speakers: Solomon Hughes, Andrew Hunter Murray, Ian Hislop
+- 2018-11-16 — 38: The Russians Are Coming — speakers: Andrew Hunter Murray, Ian Hislop
+- 2018-08-08 — 37: Bumper Broadcast Holiday Special — speakers: Bumper Broadcast Holiday Special, Jane Mackenzie, Andrew Hunter Murray, Ian Hislop
+- 2018-07-25 — 36: Doctors and Darrens — speakers: Phil Hammond, Francis Wh, Andrew Hunter Murray, Ian Hislop
+- 2018-07-12 — 35: Lagoons and Lawsuits — speakers: Sarah Shannon, Andrew Hunter Murray, Ian Hislop
+- 2018-06-29 — 34: Footy Footy Footy — speakers: Andrew Hunter Murray, Ian Hislop
+- 2018-06-13 — 33: Bean Counters and Dog Lovers — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
+- 2017-12-20 — 32: Credit and Christmas — speakers: Heather Mills, Universal Credit, Andrew Hunter Murray, Ian Hislop
+- 2017-11-22 — 31: Paradise and Paper — speakers: Richard Brooks, Christian Eriksson, Andrew Hunter Murray, Ian Hislop
+- 2017-10-19 — 30: The Plodcast — speakers: Andrew Hunter Murray, Ian Hislop
+- 2017-07-27 — 29: Brexit and Blood — speakers: Andrew Hunter Murray, Ian Hislop
+- 2017-06-26 — 28: The Paul Foot Awards Return! — speakers: Andrew Hunter Murray, Ian Hislop
+- 2017-06-05 — 27: Finance and Forensics — speakers: Free Special, Andrew Hunter Murray, Ian Hislop
+- 2017-05-19 — 26: Hospitals and Hacks — speakers: Andrew Hunter Murray, Ian Hislop
+- 2017-04-13 — 25: Housing and Secret Identities — speakers: Rachael Claye, Andrew Hunter Murray, Ian Hislop
+- 2017-03-29 — 24: Soldiers and Trump — speakers: Paul Vicke, Andrew Hunter Murray, Ian Hislop
+- 2016-12-03 — 23: Courtrooms, Councillors and Completely Bogus News - a triple bill! — speakers: Ian Hislop, Jane Mackenzie, Tim Minogue, Andrew Hunter Murray
+- 2016-10-14 — 22: 30 Glorious Years — speakers: Ian Hislop, Andrew Hunter Murray
+- 2016-09-19 — 21: Revolving Doors — speakers: Andrew Hunter Murray, Ian Hislop
+- 2016-06-17 — 20: Deepcut — speakers: Andrew Hunter Murray, Ian Hislop
+- 2016-05-27 — 19: Pubs and Lunches — speakers: Tim Minogue, Sarah Shannon, Adam Macqueen, Andrew Hunter Murray, Ian Hislop
+- 2016-05-12 — 18: PF-Eye — speakers: Private Finance Initiative, Andrew Hunter Murray, Ian Hislop
+- 2016-04-29 — 17: Books and Bans — speakers: Francis Wheen, Adam Macqueen, Andrew Hunter Murray, Ian Hislop
+- 2016-04-15 — 16: Panamania — speakers: Richard Brooks, Solomon Hughes, Andrew Hunter Murray, Ian Hislop
+- 2016-03-31 — 15: The Eye Online — speakers: Ian Hislop, Adam Macqueen, Andrew Hunter Murray
+- 2015-12-13 — 14: Care and Criticism — speakers: Andrew Hunter Murray, Ian Hislop
+- 2015-11-30 — 13: The Architect and the Lawyer — speakers: Andrew Hunter Murray, Ian Hislop
+- 2015-11-16 — 12: FOI — speakers: Andrew Hunter Murray, Ian Hislop
+- 2015-11-02 — 11: Back To The 80s — speakers: Adam Macqueen, Francis Wheen, Andrew Hunter Murray, Ian Hislop
+- 2015-10-15 — 10: Big Business and Tax Havens — speakers: Solomon Hughes, Andrew Hunter Murray, Ian Hislop
+- 2015-07-14 — 9: Honours and Letters — speakers: Solomon Hughes, Andrew Hunter Murray, Ian Hislop
+- 2015-06-18 — 8: Michael Heath and Tax Havens — speakers: Michael Heath, Tax Havens, Andrew Hunter Murray, Ian Hislop
+- 2015-06-04 — 7: Cartooning and Phone Hacking — speakers: Andrew Hunter Murray, Ian Hislop
+- 2015-05-22 — 6: Magazine Covers and Rotten Boroughs — speakers: Ian Hislop, Tim Minogue, Andrew Hunter Murray
+- 2015-05-05 — 5: An election TRIPLE BILL — speakers: Ian Hislop, Adam Macqueen, Andrew Hunter Murray
+- 2015-04-17 — 4: Craig Brown and Heather Mills — speakers: Craig Brown, Andrew Hunter Murray, Ian Hislop
+- 2015-04-01 — 3: Higher Education and Piers Morgan — speakers: two enormous, Andrew Hunter Murray, Ian Hislop
+- 2015-03-19 — 2: Wheen, Hislop and Newman — speakers: Francis Wheen, Andrew Hunter Murray, Ian Hislop
+- 2015-03-04 — 1: Martin Honeysett and the Paul Foot Awards — speakers: Martin Honeysett, Andrew Hunter Murray, Ian Hislop
