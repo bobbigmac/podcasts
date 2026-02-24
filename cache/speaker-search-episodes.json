@@ -11941,6 +11941,29 @@
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
+        "dedupe_key": "7b4da080e792ed9c6772cd697a9a048a93bcdec4",
+        "episode_key": "7b4da080e792ed9c6772cd697a9a048a93bcdec4",
+        "title": "Ep 75. Dave Gorman - S6 Ep.8",
+        "published_at": "2022-04-07T04:45:31Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "On the podcast this week Ed is joined by a returning guest (and previous contestant) Dave Gorman. Dave and Ed chat about Series 6 and share their favourite moments. They discuss footwear, hidden tasks and clock faces. There is also an extra special treat from Little Alex Horne! \n\nWatch all of Taskmaster on All 4\nwww.ch",
+        "audio_url": "https://dax.captivate.fm/1a382ea6-627d-4a82-bc3d-affbf4debcde/media-encoded.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=4baffdb8-6edd-45a6-94b7-35c405063218",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-75-dave-gorman-s6-ep-8/id1535040312?i=1000556491226&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne",
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:b668206d8929",
+        "feed_title": "Taskmaster The Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
         "dedupe_key": "01b1b8eea6b753a71438a559883003c0afa0b95d",
         "episode_key": "01b1b8eea6b753a71438a559883003c0afa0b95d",
         "title": "Ep 67. Alex Horne - Champion of Champions S1-5 Ep.2",
@@ -12087,6 +12110,29 @@
         "enclosure_type": null,
         "speakers": [
           "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:b668206d8929",
+        "feed_title": "Taskmaster The Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
+        "dedupe_key": "58f2fb4b1ad38f500f926417f842cbb188b43828",
+        "episode_key": "58f2fb4b1ad38f500f926417f842cbb188b43828",
+        "title": "Ep 2. Nish Kumar",
+        "published_at": "2020-10-22T20:57:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on the podcast Ed is joined by comedian and Taskmaster series five contestant Nish Kumar. As well as talking about Nish's time on the show the pair discuss the latest episode of the current series. There's some behind the scenes revelations and a new and exclusive feature from Little Alex Horne. \nGet in touch",
+        "audio_url": "https://dax.captivate.fm/7724aa23-da6c-466a-8947-4c58df4fb352/media-encoded.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=d4d026b7-a381-430f-bf38-f4b191f04e93",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-2-nish-kumar/id1535040312?i=1000495737217&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne",
+          "Nish Kumar"
         ],
         "topics": [],
         "external": true
@@ -19040,6 +19086,29 @@
         "enclosure_bytes": null,
         "enclosure_type": null,
         "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:d3a3c6055afb",
+        "feed_title": "The Horne Section Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f",
+        "dedupe_key": "0174ec71a2afa75739084854d7c281a6db2739a0",
+        "episode_key": "0174ec71a2afa75739084854d7c281a6db2739a0",
+        "title": "Nish Kumar",
+        "published_at": "2019-01-09T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Happy New Year and welcome to another episode of The Horne Section Podcast, your biweekly dose of musical nonsense and anarchic chat with Alex Horne and his band! This week we're joined in the basement by comedian, actor and radio presenter Nish Kumar! Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/the-horne-section-podcast/nish-kumar/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1439618203?i=1000427287652&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne",
           "Nish Kumar"
         ],
         "topics": [],

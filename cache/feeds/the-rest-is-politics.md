@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-02-23T22:02:17+00:00`
-- checked_at: `2026-02-23T22:02:17+00:00`
-- last_modified: `Mon, 23 Feb 2026 20:30:55 GMT`
+- fetched_at: `2026-02-24T03:14:34+00:00`
+- checked_at: `2026-02-24T03:14:34+00:00`
+- last_modified: `Tue, 24 Feb 2026 00:00:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/3f50b7a1b1632c03b74bec14bb7de2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T22:02:17+00:00",
+  "fetched_at": "2026-02-24T03:14:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "7895483cd1534ab0fb84c57eced8d2536cef8abd",
+      "title": "504. Is Trump Losing His Tariffs War? (Question Time)",
+      "published_at": "2026-02-24T00:00:00+00:00",
+      "link": null,
+      "description": "Will Trump escalate his global acts of aggression in response to the dramatic Supreme Court ruling? How will the arrest of Andrew Mountbatten Windsor change the course of British royal history? Will Labour’s SEND reforms in the schools white paper strengthen inclusion in mainstream schools or risk stripping essential legal protections from children with special needs? Join Rory and Alastair as they answer all these questions and more. __________ Sign up for our free newsletter at therestispolitics.com . Join The Rest Is Politics Plus: Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, an exclusive members’ newsletter, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Senior Producer: Callum Hill General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4630774008.mp3?updated=1771876343",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3401",
+      "speakers": [],
+      "topics": [
+        "trump",
+        "tariffs",
+        "question",
+        "time"
+      ]
+    },
     {
       "key": "b6015b9bb2dabf0a75d3eeeb0bd5979a0de8ca3d",
       "title": "Why Trump Wants Greenland",
@@ -11129,6 +11148,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-24 — 504. Is Trump Losing His Tariffs War? (Question Time)
 - 2026-02-23 — Why Trump Wants Greenland — speakers: Trump Wants Greenland
 - 2026-02-19 — 503. Andrew’s Arrest: What Next? — speakers: Andrew’s Arrest, Andrew Mountbatten Windsor
 - 2026-02-19 — 502. How Nigel Farage Gets Away With It (Question Time)

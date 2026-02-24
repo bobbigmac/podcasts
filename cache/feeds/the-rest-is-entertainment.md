@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-02-23T22:02:17+00:00`
-- checked_at: `2026-02-23T22:02:17+00:00`
-- last_modified: `Mon, 23 Feb 2026 19:42:11 GMT`
+- fetched_at: `2026-02-24T03:14:34+00:00`
+- checked_at: `2026-02-24T03:14:34+00:00`
+- last_modified: `Tue, 24 Feb 2026 00:15:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T22:02:17+00:00",
+  "fetched_at": "2026-02-24T03:14:34+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,23 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "99b3808cf58f0500d3b55a03710be6c39303cc69",
+      "title": "WTF is Clavicular - And Should You Care?",
+      "published_at": "2026-02-24T00:05:00+00:00",
+      "link": null,
+      "description": "Clavicular got brutally frame-mogged by an ASU frat leader - what the hell does that mean and why does it matter for modern celebrity? How does Logan Paul successfully selling a Pokemon card for $16m impact the world of collectibles? In a 'sub-lebrity' special, Richard Osman and Marina Hyde explore the dark world of Looksmaxxing, and how 19-year-old influencer Clavicular (real name Braden) has rode this controversial wave. Plus, a Pokemon card has been sold for a record-breaking $16m. We dive into the lucrative industry of collecting. Recommendations: Richard: How To Get To Heaven From Belfast (Netflix) Witch Trial - Harriet Tyce (Book) The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Joey McCarthy & Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1885435565.mp3?updated=1771873008",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2558",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": []
+    },
     {
       "key": "3ad76269af6d865c8622258362bdafa3dfb87740",
       "title": "Did Robin Williams Save Disney?",
@@ -5269,6 +5286,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-24 — WTF is Clavicular - And Should You Care? — speakers: Richard Osman, Marina Hyde
 - 2026-02-19 — Did Robin Williams Save Disney? — speakers: Robin Williams Save Disney, Richard Osman, Marina Hyde
 - 2026-02-17 — The Gen-Z Trend Killing Pop Music — speakers: Richard Osman, Marina Hyde
 - 2026-02-12 — Who Is The Most Powerful Person In Hollywood? — speakers: Richard Osman, Marina Hyde

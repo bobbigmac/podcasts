@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-02-23T18:40:11+00:00`
-- checked_at: `2026-02-23T18:40:11+00:00`
-- last_modified: `Mon, 23 Feb 2026 17:43:04 GMT`
+- fetched_at: `2026-02-24T03:14:34+00:00`
+- checked_at: `2026-02-24T03:14:34+00:00`
+- last_modified: `Mon, 23 Feb 2026 22:38:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T18:40:11+00:00",
+  "fetched_at": "2026-02-24T03:14:34+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -67,7 +67,6 @@
       "speakers": [
         "Chris McCausland",
         "Anonymous Chris",
-        "Chris McCausland Keep",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -155,7 +154,7 @@
       "itunes_duration": "2571",
       "speakers": [
         "Mo Gilligan",
-        "Babatunde Aléshé",
+        "Mo Gill",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -176,7 +175,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3339",
       "speakers": [
-        "fart medley",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -222,7 +220,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3949",
       "speakers": [
-        "Carl Hutchinson",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -247,7 +244,6 @@
       "itunes_duration": "3310",
       "speakers": [
         "Joel Dommett",
-        "Ben Shepherd",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -337,7 +333,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2800",
       "speakers": [
-        "Bridget Christie",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -359,7 +354,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2986",
       "speakers": [
-        "Belinda Beef",
+        "Bumper Christmas Best Off",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -382,7 +377,6 @@
       "itunes_duration": "2539",
       "speakers": [
         "John Robins",
-        "Twelve Drinks",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -406,9 +400,6 @@
       "speakers": [
         "Carl Hutchinson",
         "Chris Ramey",
-        "Follow Carl",
-        "Instagram carl hutchinson comedy",
-        "Catch Carl",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -453,6 +444,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3677",
       "speakers": [
+        "Shagged Married Annoyed",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -474,7 +466,6 @@
       "itunes_duration": "2121",
       "speakers": [
         "Vogue Williams",
-        "Joanne McNally",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -558,7 +549,7 @@
       "itunes_duration": "2938",
       "speakers": [
         "Russell Howard",
-        "Plus Russell",
+        "Russell Howa",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -604,8 +595,6 @@
       "itunes_duration": "2856",
       "speakers": [
         "Joanne McNally",
-        "com Joanne",
-        "Vogue Williams",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -648,7 +637,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3143",
       "speakers": [
-        "Mark Wright",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -670,7 +658,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3623",
       "speakers": [
-        "Aesop’s Fables",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -778,7 +765,6 @@
       "itunes_duration": "2376",
       "speakers": [
         "Phil Ellis",
-        "Bath Mat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -822,8 +808,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2371",
       "speakers": [
-        "Little Mix",
-        "YouTube Leigh-Anne",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -869,8 +853,6 @@
       "itunes_duration": "2925",
       "speakers": [
         "Al Murray",
-        "James Holland",
-        "Bullshit Learn",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -911,9 +893,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3102",
       "speakers": [
-        "Greg Davies",
-        "Never Mind",
-        "Sky Max",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -977,6 +956,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3937",
       "speakers": [
+        "Hey Siri",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1101,6 +1081,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3481",
       "speakers": [
+        "Bumper Summer Best",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1143,7 +1124,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2533",
       "speakers": [
-        "Becky Beef",
+        "Shagged Marr",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1165,8 +1146,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3711",
       "speakers": [
-        "Sister Kate",
-        "Carl Hutchinson",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1269,7 +1248,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2288",
       "speakers": [
-        "Mrs Dingleberry",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1291,6 +1269,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3696",
       "speakers": [
+        "Giant Inflatable Doughnut",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1311,7 +1290,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2987",
       "speakers": [
-        "Rosie Mamsey",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1354,8 +1332,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2938",
       "speakers": [
-        "Ed Sheeran",
-        "Jason Manford",
+        "Shagged Married Annoyed",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1378,7 +1355,6 @@
       "itunes_duration": "3783",
       "speakers": [
         "Annoyed Rosie",
-        "Twin Theory",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1441,7 +1417,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3365",
       "speakers": [
-        "Download Saily",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1520,7 +1495,6 @@
       "itunes_duration": "3671",
       "speakers": [
         "Chip Pan",
-        "Download Saily",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1563,7 +1537,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3472",
       "speakers": [
-        "Chat Gpt",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1582,7 +1555,6 @@
       "itunes_duration": "3587",
       "speakers": [
         "Pump Guy",
-        "Barry Beef",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1622,8 +1594,6 @@
       "speakers": [
         "Pollen Time",
         "Annoyed Rosie",
-        "Katy Perry",
-        "Download Saily",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1705,7 +1675,6 @@
       "itunes_duration": "3730",
       "speakers": [
         "Bake Off",
-        "Barry Beef",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1864,7 +1833,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4153",
       "speakers": [
-        "Robin Ramsey",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -1992,7 +1960,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3779",
       "speakers": [
-        "Would Rosie Eat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2068,7 +2035,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3514",
       "speakers": [
-        "Rosie Eat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2086,7 +2052,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3946",
       "speakers": [
-        "Rosie Eat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2106,6 +2071,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3700",
       "speakers": [
+        "Shagged Married Annoyed",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2125,7 +2091,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3662",
       "speakers": [
-        "Would Rosie Eat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2146,7 +2111,6 @@
       "itunes_duration": "3241",
       "speakers": [
         "Rake Away",
-        "Good Vibes",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2164,7 +2128,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3506",
       "speakers": [
-        "Rosie Eat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2185,8 +2148,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3689",
       "speakers": [
-        "Rosie Eat",
-        "Would Rosie Eat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2204,8 +2165,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3763",
       "speakers": [
-        "Rosie Eat",
-        "Plus Beefs",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2226,7 +2185,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3327",
       "speakers": [
-        "Rosie Eat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2246,7 +2204,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3764",
       "speakers": [
-        "Would Rosie Eat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2268,7 +2225,6 @@
       "itunes_duration": "3602",
       "speakers": [
         "Rosie Eat",
-        "Lucrative Sponsor",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2368,7 +2324,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3627",
       "speakers": [
-        "Carl Hutchinson",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2430,7 +2385,6 @@
       "itunes_duration": "3649",
       "speakers": [
         "Annoyed Chris",
-        "John Barnes",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2814,6 +2768,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3394",
       "speakers": [
+        "Rosie ha",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2906,7 +2861,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3389",
       "speakers": [
-        "Merry Christmas",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -2927,7 +2881,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2812",
       "speakers": [
-        "Love Amelia",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3024,7 +2977,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2606",
       "speakers": [
-        "Ayia Napa",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3344,7 +3296,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3874",
       "speakers": [
-        "Carl Hutchinson",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3424,7 +3375,6 @@
       "itunes_duration": "3708",
       "speakers": [
         "Yolo Chris",
-        "Carl Hutchinson",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3539,7 +3489,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3933",
       "speakers": [
-        "Ramsey Show",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3658,7 +3607,6 @@
       "itunes_duration": "3752",
       "speakers": [
         "Skip Cap",
-        "David Bowie",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3794,7 +3742,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3580",
       "speakers": [
-        "Sister Kate",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3852,7 +3799,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3772",
       "speakers": [
-        "Midnight Gameshow",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3873,8 +3819,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3948",
       "speakers": [
-        "Enjoy Smas",
-        "Rosie Ramsey Show",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3914,7 +3858,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1904",
       "speakers": [
-        "Lucrative Lucrative Sponsor Tier",
+        "Hello Smas",
+        "Extra Extra",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3934,7 +3879,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4116",
       "speakers": [
-        "Enjoy Smas",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -3973,6 +3917,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2069",
       "speakers": [
+        "Married Annoyed",
+        "Footprints Community",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -4034,7 +3980,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3403",
       "speakers": [
-        "Sewing Bee",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -4416,7 +4361,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2957",
       "speakers": [
-        "Enjoy Smas",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -4840,6 +4784,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3528",
       "speakers": [
+        "Hot Dogs",
+        "Jacket Pot",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -5169,7 +5115,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3713",
       "speakers": [
-        "Rosie’s Mystery",
+        "Oh Crumbs Rosie",
+        "Celebrity Ques",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -5651,7 +5598,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4241",
       "speakers": [
-        "Plus Rosie",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -5730,7 +5676,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3327",
       "speakers": [
-        "Barry Beef",
+        "Mothering Sunday",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -5769,8 +5715,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4516",
       "speakers": [
-        "Bike Guy",
-        "Louis Theroux",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -5808,6 +5752,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3659",
       "speakers": [
+        "Rosie re",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -5903,6 +5848,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2240",
       "speakers": [
+        "Maternity Leave",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6022,7 +5968,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3809",
       "speakers": [
-        "Steph McGovern",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6042,7 +5987,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4038",
       "speakers": [
-        "Barry Beef",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6258,7 +6202,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4159",
       "speakers": [
-        "Phil Ellis",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6452,7 +6395,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3919",
       "speakers": [
-        "Bike Guy",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6473,7 +6415,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3981",
       "speakers": [
-        "Birthday Cakes",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6493,7 +6434,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4422",
       "speakers": [
-        "Carl Hutchinson",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6724,7 +6664,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5076",
       "speakers": [
-        "Becky Beef",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6784,7 +6723,6 @@
       "itunes_duration": "3815",
       "speakers": [
         "Elastic Burdens",
-        "Barry Beef",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -6997,6 +6935,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3847",
       "speakers": [
+        "Ramsey Household",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7017,7 +6956,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3164",
       "speakers": [
-        "Kelvin Fletcher",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7036,7 +6974,6 @@
       "itunes_duration": "3190",
       "speakers": [
         "Barry Beef",
-        "Carl Hutchinson",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7054,7 +6991,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3620",
       "speakers": [
-        "Neil Jones",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7075,7 +7011,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3705",
       "speakers": [
-        "Mike Bushell",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7095,7 +7030,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3616",
       "speakers": [
-        "Mum Sandra",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7115,7 +7049,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3529",
       "speakers": [
-        "Michelle Visage",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7174,8 +7107,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3687",
       "speakers": [
-        "Yorkshire Pudding",
-        "Sian Gibson",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7196,7 +7127,6 @@
       "itunes_duration": "3375",
       "speakers": [
         "Fireman Sam",
-        "Plus Rosie",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7216,7 +7146,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3275",
       "speakers": [
-        "Karen Hauer",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7255,7 +7184,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3125",
       "speakers": [
-        "Jamie Laing",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7332,7 +7260,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3625",
       "speakers": [
-        "Kit Kat",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7371,7 +7298,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3463",
       "speakers": [
-        "Joe McEldry",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7392,7 +7318,6 @@
       "itunes_duration": "3258",
       "speakers": [
         "Viennetta Vinny",
-        "Rick Edwards",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7528,7 +7453,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3410",
       "speakers": [
-        "Lee Ridley",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7568,7 +7492,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3070",
       "speakers": [
-        "Al Murray",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7588,7 +7511,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3224",
       "speakers": [
-        "Giovanna Fletcher",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7608,7 +7530,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2699",
       "speakers": [
-        "Daniel Sloss",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7648,7 +7569,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2897",
       "speakers": [
-        "DI Kate Fleming",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7742,7 +7662,6 @@
       "itunes_duration": "2529",
       "speakers": [
         "Annoyed Chris",
-        "Vicky Pattison",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7761,7 +7680,6 @@
       "itunes_duration": "2527",
       "speakers": [
         "Annoyed Chris",
-        "Rosie Mamsey",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7782,7 +7700,6 @@
       "itunes_duration": "2856",
       "speakers": [
         "Celeb Mum",
-        "Simon Rimmer",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7802,8 +7719,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2801",
       "speakers": [
-        "Tennis Snoring",
-        "Kathryn Ryan",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7821,7 +7736,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2757",
       "speakers": [
-        "Comedian Jason Manford",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7842,7 +7756,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2360",
       "speakers": [
-        "Ed Sheeran",
         "Chris Ramsey",
         "Rosie Ramsey"
       ],
@@ -7876,83 +7789,83 @@
 ## Episodes (newest first)
 
 - 2026-02-20 — Emotions run high watching Lewis Capaldi and Chris has an awkward encounter with a Taxi driver — speakers: Lewis Capaldi, Chris Ramsey, Rosie Ramsey
-- 2026-02-18 — Please Keep Me Anonymous with Chris McCausland — speakers: Chris McCausland, Anonymous Chris, Chris McCausland Keep, Chris Ramsey, Rosie Ramsey
+- 2026-02-18 — Please Keep Me Anonymous with Chris McCausland — speakers: Chris McCausland, Anonymous Chris, Chris Ramsey, Rosie Ramsey
 - 2026-02-13 — The reverse ick, a lost moon cup and why Rosie's alright for a safari — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-02-11 — Please Keep Me Anonymous with Fatiha El-Ghorri — speakers: Fatiha El-Ghorri, Chris Ramsey, Rosie Ramsey
 - 2026-02-06 — Vampires, slop duty and some misleading alarms — speakers: Chris Ramsey, Rosie Ramsey
-- 2026-02-04 — Please Keep Me Anonymous with Mo Gilligan — speakers: Mo Gilligan, Babatunde Aléshé, Chris Ramsey, Rosie Ramsey
-- 2026-01-30 — Rosie's bad week, safety gadgets and the IMDB of Porn — speakers: fart medley, Chris Ramsey, Rosie Ramsey
+- 2026-02-04 — Please Keep Me Anonymous with Mo Gilligan — speakers: Mo Gilligan, Mo Gill, Chris Ramsey, Rosie Ramsey
+- 2026-01-30 — Rosie's bad week, safety gadgets and the IMDB of Porn — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-01-28 — Please Keep Me Anonymous with Tom Davis — speakers: Tom Davis, Chris Ramsey, Rosie Ramsey
-- 2026-01-23 — Soft play beef, a public apology and some sibling trolling — speakers: Carl Hutchinson, Chris Ramsey, Rosie Ramsey
-- 2026-01-21 — Please Keep Me Anonymous with Joel Dommett — speakers: Joel Dommett, Ben Shepherd, Chris Ramsey, Rosie Ramsey
+- 2026-01-23 — Soft play beef, a public apology and some sibling trolling — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-01-21 — Please Keep Me Anonymous with Joel Dommett — speakers: Joel Dommett, Chris Ramsey, Rosie Ramsey
 - 2026-01-16 — Medium to low level shaggers — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-01-14 — Please Keep Me Anonymous with Jordan North and William Hanson — speakers: Jordan North, William Hanson, Chris Ramsey, Rosie Ramsey
 - 2026-01-09 — A dance injury, the pig box of shame and the official SMA WhatsApp number — speakers: Chris Ramsey, Rosie Ramsey
-- 2026-01-07 — Please Keep Me Anonymous with Bridget Christie — speakers: Bridget Christie, Chris Ramsey, Rosie Ramsey
-- 2026-01-02 — Bumper Christmas Best Off — speakers: Belinda Beef, Chris Ramsey, Rosie Ramsey
-- 2025-12-31 — Please Keep Me Anonymous with John Robins — speakers: John Robins, Twelve Drinks, Chris Ramsey, Rosie Ramsey
-- 2025-12-26 — A Christmas Please Keep Me Anonymous with Carl Hutchinson — speakers: Carl Hutchinson, Chris Ramey, Follow Carl, Instagram carl hutchinson comedy, Catch Carl, Chris Ramsey, Rosie Ramsey
+- 2026-01-07 — Please Keep Me Anonymous with Bridget Christie — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-01-02 — Bumper Christmas Best Off — speakers: Bumper Christmas Best Off, Chris Ramsey, Rosie Ramsey
+- 2025-12-31 — Please Keep Me Anonymous with John Robins — speakers: John Robins, Chris Ramsey, Rosie Ramsey
+- 2025-12-26 — A Christmas Please Keep Me Anonymous with Carl Hutchinson — speakers: Carl Hutchinson, Chris Ramey, Chris Ramsey, Rosie Ramsey
 - 2025-12-24 — A Christmas Please Keep Me Anonymous with Sandra and Kate — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-12-19 — It always comes down to baths or crisps — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-12-17 — Please Keep Me Anonymous with Vogue Williams — speakers: Vogue Williams, Joanne McNally, Chris Ramsey, Rosie Ramsey
+- 2025-12-19 — It always comes down to baths or crisps — speakers: Shagged Married Annoyed, Chris Ramsey, Rosie Ramsey
+- 2025-12-17 — Please Keep Me Anonymous with Vogue Williams — speakers: Vogue Williams, Chris Ramsey, Rosie Ramsey
 - 2025-12-12 — Judge us separately — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-12-10 — Please Keep Me Anonymous with Ania Magliano — speakers: Ania Magliano, Chris Ramsey, Rosie Ramsey
 - 2025-12-05 — Hot and Heavy — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-12-03 — Please Keep Me Anonymous with Russell Howard — speakers: Russell Howard, Plus Russell, Chris Ramsey, Rosie Ramsey
+- 2025-12-03 — Please Keep Me Anonymous with Russell Howard — speakers: Russell Howard, Russell Howa, Chris Ramsey, Rosie Ramsey
 - 2025-11-28 — Chris is flammable and Rosie starts writing Geordie Porn — speakers: Geordie Porn, Chris Ramsey, Rosie Ramsey
-- 2025-11-26 — Please Keep Me Anonymous with Joanne McNally — speakers: Joanne McNally, com Joanne, Vogue Williams, Chris Ramsey, Rosie Ramsey
+- 2025-11-26 — Please Keep Me Anonymous with Joanne McNally — speakers: Joanne McNally, Chris Ramsey, Rosie Ramsey
 - 2025-11-21 — WhatsApp groups revealed and Rosie goes to see Five! — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-11-19 — Please Keep Me Anonymous with Olly Murs — speakers: Mark Wright, Chris Ramsey, Rosie Ramsey
-- 2025-11-14 — A hangover breakdown — speakers: Aesop’s Fables, Chris Ramsey, Rosie Ramsey
+- 2025-11-19 — Please Keep Me Anonymous with Olly Murs — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-11-14 — A hangover breakdown — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-11-12 — Please Keep Me Anonymous with Harriet Kemsley — speakers: Harriet Kemsley, Rosie Ramsey, Chris Ramsey
 - 2025-11-07 — This is why I'll leave you — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-11-05 — Please Keep Me Anonymous with Aston and Sarah Merrygold — speakers: Sarah Merrygold, Chris Ramsey, Rosie Ramsey
 - 2025-10-31 — A Halloween Special and Chris is NOT on board — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-10-29 — Please Keep Me Anonymous with Phil Ellis — speakers: Phil Ellis, Bath Mat, Chris Ramsey, Rosie Ramsey
+- 2025-10-29 — Please Keep Me Anonymous with Phil Ellis — speakers: Phil Ellis, Chris Ramsey, Rosie Ramsey
 - 2025-10-24 — Airport Pints and Naked Parties — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-10-22 — Please Keep Me Anonymous with Leigh-Anne Pinnock — speakers: Little Mix, YouTube Leigh-Anne, Chris Ramsey, Rosie Ramsey
+- 2025-10-22 — Please Keep Me Anonymous with Leigh-Anne Pinnock — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-10-17 — AI Porn and Jacket Potatoes — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
-- 2025-10-15 — Please Keep Me Anonymous with Al Murray — speakers: Al Murray, James Holland, Bullshit Learn, Chris Ramsey, Rosie Ramsey
+- 2025-10-15 — Please Keep Me Anonymous with Al Murray — speakers: Al Murray, Chris Ramsey, Rosie Ramsey
 - 2025-10-10 — Weaponized Incompetence — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-10-08 — Please Keep Me Anonymous with Greg Davies — speakers: Greg Davies, Never Mind, Sky Max, Chris Ramsey, Rosie Ramsey
+- 2025-10-08 — Please Keep Me Anonymous with Greg Davies — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-10-03 — Toenail Barbie — speakers: Toenail Barbie, Chris Ramsey, Rosie Ramsey
 - 2025-10-01 — Please Keep Me Anonymous with Sam Ryder — speakers: Sam Ryder, Chris Ramsey, Rosie Ramsey
-- 2025-09-26 — Hey Siri, how easy is it to get a divorce? — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-09-26 — Hey Siri, how easy is it to get a divorce? — speakers: Hey Siri, Chris Ramsey, Rosie Ramsey
 - 2025-09-24 — Please Keep Me Anonymous with Jordan Stephens — speakers: Jordan Stephens, Chris Ramsey, Rosie Ramsey
 - 2025-09-19 — Ruthless Zodiac Signs — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-09-12 — The Great North Run and a Prawn Cocktail eye bath — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-09-04 — Can we get a dog? — speakers: Annoyed Rosie, Chris Ramsey, Rosie Ramsey
 - 2025-08-28 — Je Suis Belligerent — speakers: Je Suis Belligerent, Chris Ramsey, Rosie Ramsey
-- 2025-08-27 — Bumper Summer Best Of - Part Seven — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-08-27 — Bumper Summer Best Of - Part Seven — speakers: Bumper Summer Best, Chris Ramsey, Rosie Ramsey
 - 2025-08-22 — Ep 333. Shepherd's Pie for breakfast and disappointing den making — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-08-20 — Bumper Summer Best Of - Part Six — speakers: Becky Beef, Chris Ramsey, Rosie Ramsey
-- 2025-08-15 — Ep 332. A flat pack nightmare and synchronised sisters — speakers: Sister Kate, Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2025-08-20 — Bumper Summer Best Of - Part Six — speakers: Shagged Marr, Chris Ramsey, Rosie Ramsey
+- 2025-08-15 — Ep 332. A flat pack nightmare and synchronised sisters — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-08-13 — Bumper Summer Best Of - Part Five — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-08-07 — Ep 331. Send this to 10 people or you will die — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-08-06 — Bumper Summer Best Of - Part Four — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-07-31 — Ep 330. Wet Mammals — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
-- 2025-07-30 — Bumper Summer Best Of - Part Three — speakers: Mrs Dingleberry, Chris Ramsey, Rosie Ramsey
-- 2025-07-24 — Ep 329. Giant Inflatable Doughnut — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-07-23 — Bumper Summer Best Of - Part Two — speakers: Rosie Mamsey, Chris Ramsey, Rosie Ramsey
+- 2025-07-30 — Bumper Summer Best Of - Part Three — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-07-24 — Ep 329. Giant Inflatable Doughnut — speakers: Giant Inflatable Doughnut, Chris Ramsey, Rosie Ramsey
+- 2025-07-23 — Bumper Summer Best Of - Part Two — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-07-18 — Ep 328. Crying in the shower, flight etiquette and the worst lie-in ever — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-07-16 — Bumper Summer Best Of - Part One — speakers: Ed Sheeran, Jason Manford, Chris Ramsey, Rosie Ramsey
-- 2025-07-11 — Ep 327. Too rude for YouTube?! — speakers: Annoyed Rosie, Twin Theory, Chris Ramsey, Rosie Ramsey
+- 2025-07-16 — Bumper Summer Best Of - Part One — speakers: Shagged Married Annoyed, Chris Ramsey, Rosie Ramsey
+- 2025-07-11 — Ep 327. Too rude for YouTube?! — speakers: Annoyed Rosie, Chris Ramsey, Rosie Ramsey
 - 2025-07-04 — Ep 326. Weddings, Proms and Trouser Skirts — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
 - 2025-06-27 — Ep 325. Ten percent more love — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-06-20 — Ep 324. Barbecue of Lies — speakers: Download Saily, Chris Ramsey, Rosie Ramsey
+- 2025-06-20 — Ep 324. Barbecue of Lies — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-06-13 — Ep 323. In a Villa! — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-06-06 — Ep 322. Shandy Alarm — speakers: Shandy Alarm, Chris Ramsey, Rosie Ramsey
 - 2025-05-30 — Ep 321. Pick Up Four — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-05-23 — Ep 320. Welephant and the traumatic Chip Pan — speakers: Chip Pan, Download Saily, Chris Ramsey, Rosie Ramsey
+- 2025-05-23 — Ep 320. Welephant and the traumatic Chip Pan — speakers: Chip Pan, Chris Ramsey, Rosie Ramsey
 - 2025-05-16 — Ep 319. Book Awards, Taskmaster and Kids in the Pub — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-05-09 — Ep 318. Live Forever — speakers: Chat Gpt, Chris Ramsey, Rosie Ramsey
-- 2025-05-01 — Ep 317. Beer Pump Guy — speakers: Pump Guy, Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2025-05-09 — Ep 318. Live Forever — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-05-01 — Ep 317. Beer Pump Guy — speakers: Pump Guy, Chris Ramsey, Rosie Ramsey
 - 2025-04-24 — Ep 316. Hide and Seek — speakers: Chris Ramsey, Rosie Ramsey
-- 2025-04-17 — Ep 315. Stop! Pollen Time — speakers: Pollen Time, Annoyed Rosie, Katy Perry, Download Saily, Chris Ramsey, Rosie Ramsey
+- 2025-04-17 — Ep 315. Stop! Pollen Time — speakers: Pollen Time, Annoyed Rosie, Chris Ramsey, Rosie Ramsey
 - 2025-04-10 — Ep 314. What’s All This? — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-04-04 — Ep 313. Voila! — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-03-28 — Ep 312. Auxiliary Chicken Nuggets — speakers: Chicken Nuggets, Chris Ramsey, Rosie Ramsey
-- 2025-03-21 — Ep 311. Star Baker — speakers: Bake Off, Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2025-03-21 — Ep 311. Star Baker — speakers: Bake Off, Chris Ramsey, Rosie Ramsey
 - 2025-03-14 — Ep 310. Spar Mob — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-03-07 — Ep 309. Rosie Roulette — speakers: Rosie Roulette, Chris Ramsey, Rosie Ramsey
 - 2025-02-28 — Ep 308. Non-mover — speakers: Chris Ramsey, Rosie Ramsey
@@ -7960,36 +7873,36 @@
 - 2025-02-14 — Ep 306. Pity Party — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-02-07 — Ep 305. Blue Belt — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-01-31 — Ep 304. Vasectomy Guy — speakers: Vasectomy Guy, Chris Ramsey, Rosie Ramsey
-- 2025-01-24 — Ep 303. Louse House — speakers: Robin Ramsey, Chris Ramsey, Rosie Ramsey
+- 2025-01-24 — Ep 303. Louse House — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-01-17 — Ep 302. Ask Your Mam — speakers: Chris Ramsey, Rosie Ramsey
 - 2025-01-10 — Ep 301. Warhammer Guy — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-12-20 — The 300th Episode — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-12-13 — Ep 299. Boil and Bite — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-12-06 — Ep 298. Salavicious — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-11-29 — Ep 297. This is horrifying — speakers: Chris Ramsey, Rosie Ramsey
-- 2024-11-22 — Ep 296. Phants! — speakers: Would Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-11-22 — Ep 296. Phants! — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-11-15 — Ep 295. Allegedly — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-11-08 — Ep 294. Itchy Eyes — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-11-01 — Ep 293. Blackhead Bullets — speakers: Chris Ramsey, Rosie Ramsey
-- 2024-10-25 — Ep 292. Pea and Hamished — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
-- 2024-10-18 — Ep 291. C'est Super — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
-- 2024-10-11 — Ep 290. Sounds Like Churros — speakers: Chris Ramsey, Rosie Ramsey
-- 2024-10-04 — Ep 289. Mr Pointless — speakers: Would Rosie Eat, Chris Ramsey, Rosie Ramsey
-- 2024-09-27 — Ep 288. Rake Away — speakers: Rake Away, Good Vibes, Chris Ramsey, Rosie Ramsey
-- 2024-09-20 — Ep 287. Takeaway Tally — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
-- 2024-09-13 — Ep 286. Counted and Verified — speakers: Rosie Eat, Would Rosie Eat, Chris Ramsey, Rosie Ramsey
-- 2024-09-06 — Ep 285. Little Pooh — speakers: Rosie Eat, Plus Beefs, Chris Ramsey, Rosie Ramsey
-- 2024-08-30 — Ep 284. Christember — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
-- 2024-08-23 — Ep 283. Pedalo and a box of wine — speakers: Would Rosie Eat, Chris Ramsey, Rosie Ramsey
-- 2024-08-16 — Ep 282. Would Rosie Eat... — speakers: Rosie Eat, Lucrative Sponsor, Chris Ramsey, Rosie Ramsey
+- 2024-10-25 — Ep 292. Pea and Hamished — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-10-18 — Ep 291. C'est Super — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-10-11 — Ep 290. Sounds Like Churros — speakers: Shagged Married Annoyed, Chris Ramsey, Rosie Ramsey
+- 2024-10-04 — Ep 289. Mr Pointless — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-09-27 — Ep 288. Rake Away — speakers: Rake Away, Chris Ramsey, Rosie Ramsey
+- 2024-09-20 — Ep 287. Takeaway Tally — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-09-13 — Ep 286. Counted and Verified — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-09-06 — Ep 285. Little Pooh — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-08-30 — Ep 284. Christember — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-08-23 — Ep 283. Pedalo and a box of wine — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-08-16 — Ep 282. Would Rosie Eat... — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
 - 2024-08-09 — Ep 281. The Ninth Hour — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-08-02 — Ep 280. Industrial Slime Production — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-07-26 — Ep 279. All My Fellas — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-07-19 — Ep 278. Out of Office Reply — speakers: Chris Ramsey, Rosie Ramsey
-- 2024-07-12 — Ep 277. Old Prospector Ramsey — speakers: Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2024-07-12 — Ep 277. Old Prospector Ramsey — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-07-05 — Ep 276. Pie Fister — speakers: Pie Fister, Mark Whalberg, Chris Ramsey, Rosie Ramsey
 - 2024-06-28 — Ep 275. Robaldo — speakers: Chris Ramsey, Rosie Ramsey
-- 2024-06-21 — Ep 274. Get your head stuck in — speakers: Annoyed Chris, John Barnes, Chris Ramsey, Rosie Ramsey
+- 2024-06-21 — Ep 274. Get your head stuck in — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
 - 2024-06-14 — Ep 273. Documenting my t*ts off! — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-06-07 — Ep 272. Disposable Kegs — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-05-31 — Ep 271. Fox Blocked — speakers: Fox Blocked, Chris Ramsey, Rosie Ramsey
@@ -8009,18 +7922,18 @@
 - 2024-02-23 — Ep 257. Gary's Anatomy — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-02-16 — Ep 256. The Greatest Showman — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-02-09 — Ep 255. Purple Power Ranger — speakers: Power Ranger, Chris Ramsey, Rosie Ramsey
-- 2024-02-02 — Ep 254. Your Ma — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-02-02 — Ep 254. Your Ma — speakers: Rosie ha, Chris Ramsey, Rosie Ramsey
 - 2024-01-26 — Ep 253. This young perp... — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-01-19 — Ep 252. Taste the Rainbow — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-01-12 — Ep 251. Better than you — speakers: Chris Ramsey, Rosie Ramsey
 - 2024-01-05 — Ep 250. Soft Man Era — speakers: Soft Man Era, Chris Ramsey, Rosie Ramsey
-- 2023-12-22 — Ep 249. Christmas Ramsey — speakers: Merry Christmas, Chris Ramsey, Rosie Ramsey
-- 2023-12-20 — Sh**ged Married Annoyed at Love Amelia — speakers: Love Amelia, Chris Ramsey, Rosie Ramsey
+- 2023-12-22 — Ep 249. Christmas Ramsey — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-12-20 — Sh**ged Married Annoyed at Love Amelia — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-12-15 — Ep 248. Breaded Ham — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-12-08 — Ep 247. Incense Sisters — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-12-01 — Ep 246. A new low — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-11-24 — Ep 245. Serial Sanitiser — speakers: Chris Ramsey, Rosie Ramsey
-- 2023-11-17 — Ep 244. *QFTP Special* — speakers: Ayia Napa, Chris Ramsey, Rosie Ramsey
+- 2023-11-17 — Ep 244. *QFTP Special* — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-11-10 — Ep 243. Bag of Bricks — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
 - 2023-11-03 — Ep 242. Beloved Sponge — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-10-27 — Ep 241. Air Biscuit — speakers: Chris Ramsey, Rosie Ramsey
@@ -8036,42 +7949,42 @@
 - 2023-08-18 — Ep 231. Obligatory Trebles — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-08-17 — What's that on your prom dress?... A short message from Chris & Rosie — speakers: Rosie Ramsey, Chris Ramsey
 - 2023-08-11 — Ep 230. Daytime MILF Event — speakers: Chris Ramsey, Rosie Ramsey
-- 2023-08-04 — Ep 229. No Capping — speakers: Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2023-08-04 — Ep 229. No Capping — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-07-28 — Ep 228. Roll In The Woods — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-07-21 — Ep 227. Double Bunny Ears — speakers: Bunny Ears, Chris Ramsey, Rosie Ramsey
 - 2023-07-14 — Ep 226. Whiskers — speakers: Chris Ramsey, Rosie Ramsey
-- 2023-07-07 — Ep 225. Yolo — speakers: Yolo Chris, Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2023-07-07 — Ep 225. Yolo — speakers: Yolo Chris, Chris Ramsey, Rosie Ramsey
 - 2023-06-30 — Ep 224. Double Wipe — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-06-23 — Ep 223. Hot Heat — speakers: Hot Heat Rosie, Chris Ramsey, Rosie Ramsey
 - 2023-06-16 — Ep 222. Double Cap — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-06-09 — Ep 221. Lego Destruction Pending — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-06-02 — Ep 220. Good Optics — speakers: Good Optics, Chris Ramsey, Rosie Ramsey
-- 2023-05-26 — Ep 219. Nice Coat Lee — speakers: Ramsey Show, Chris Ramsey, Rosie Ramsey
+- 2023-05-26 — Ep 219. Nice Coat Lee — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-05-19 — Ep 218. Pity Click — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-05-12 — Ep 217. kiss my flower — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-05-05 — Ep 216. Open! — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-04-28 — Ep 215. Cold Hearted Father — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-04-21 — Ep 214. Spirito Di Punto — speakers: Spirito Di Punto, Chris Ramsey, Rosie Ramsey
-- 2023-04-14 — Ep 213. Skip Cap — speakers: Skip Cap, David Bowie, Chris Ramsey, Rosie Ramsey
+- 2023-04-14 — Ep 213. Skip Cap — speakers: Skip Cap, Chris Ramsey, Rosie Ramsey
 - 2023-04-07 — Ep 212. Five Fold Sunnies — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-03-31 — Ep 211. FAGDA — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-03-24 — Ep 210. Pear of Anguish — speakers: Sandra’s Birthday, Chris Ramsey, Rosie Ramsey
 - 2023-03-17 — Ep 209. Biggest Loser — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-03-10 — Ep 208. Cowboy — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-03-03 — Ep 207. Ham Dumpling — speakers: Chris Ramsey, Rosie Ramsey
-- 2023-02-24 — Ep 206. What film am I thinking of? — speakers: Sister Kate, Chris Ramsey, Rosie Ramsey
+- 2023-02-24 — Ep 206. What film am I thinking of? — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-02-17 — Ep 205. Pass the Shoe — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-02-10 — Ep 204. Three blind wipes — speakers: Chris Ramsey, Rosie Ramsey
-- 2023-02-03 — Ep 203. Nurse Damp — speakers: Midnight Gameshow, Chris Ramsey, Rosie Ramsey
-- 2023-01-27 — Ep 202. Ding dong the crust is gone — speakers: Enjoy Smas, Rosie Ramsey Show, Chris Ramsey, Rosie Ramsey
+- 2023-02-03 — Ep 203. Nurse Damp — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-01-27 — Ep 202. Ding dong the crust is gone — speakers: Chris Ramsey, Rosie Ramsey
 - 2023-01-20 — Ep 201. Don’t tug at your girdle — speakers: Chris Ramsey, Rosie Ramsey
-- 2023-01-18 — Extra! Extra! — speakers: Lucrative Lucrative Sponsor Tier, Chris Ramsey, Rosie Ramsey
-- 2023-01-13 — Ep 200. AD/BC — speakers: Enjoy Smas, Chris Ramsey, Rosie Ramsey
+- 2023-01-18 — Extra! Extra! — speakers: Hello Smas, Extra Extra, Chris Ramsey, Rosie Ramsey
+- 2023-01-13 — Ep 200. AD/BC — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-12-23 — Ep 199. Christmas Special: What would Jackie do? — speakers: Chris Ramsey, Rosie Ramsey
-- 2022-12-21 — Sh**ged Married Annoyed at Footprints Community Café — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-12-21 — Sh**ged Married Annoyed at Footprints Community Café — speakers: Married Annoyed, Footprints Community, Chris Ramsey, Rosie Ramsey
 - 2022-12-16 — Ep 198. Strip Search — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-12-09 — Ep 197. Magnum XL — speakers: Chris Ramsey, Rosie Ramsey
-- 2022-12-02 — Ep 196. Centrifugal Force — speakers: Sewing Bee, Chris Ramsey, Rosie Ramsey
+- 2022-12-02 — Ep 196. Centrifugal Force — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-11-25 — Ep 195. Glib, Glab, Glob — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-11-18 — Ep 194. Preekend — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-11-11 — Ep 193. BeanFest — speakers: Chris Ramsey, Rosie Ramsey
@@ -8091,7 +8004,7 @@
 - 2022-08-05 — Ep 179. Pokethon — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-07-29 — Ep 178. Oh wow — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-07-22 — Ep 177. Summer holiday special — speakers: Chris Ramsey, Rosie Ramsey
-- 2022-07-15 — Ep 176. Out of Office — speakers: Enjoy Smas, Chris Ramsey, Rosie Ramsey
+- 2022-07-15 — Ep 176. Out of Office — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-07-08 — Ep 175. Double Muggins — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-07-01 — Ep 174. Co-ords — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-06-24 — Ep 173. Hot Potato — speakers: Chris Ramsey, Rosie Ramsey
@@ -8113,7 +8026,7 @@
 - 2022-03-04 — Ep 157. Purple reigns — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-02-25 — Ep 156. Bathroom Teaspoon — speakers: Bathroom Teaspoon, Chris Ramsey, Rosie Ramsey
 - 2022-02-18 — Ep 155. The Pitt's — speakers: Brad Pitt, Chris Ramsey, Rosie Ramsey
-- 2022-02-11 — Ep 154. Stain of regret — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-02-11 — Ep 154. Stain of regret — speakers: Hot Dogs, Jacket Pot, Chris Ramsey, Rosie Ramsey
 - 2022-02-04 — Ep 153. Record Breakers — speakers: Record Breakers, Chris Ramsey, Rosie Ramsey
 - 2022-01-28 — Ep 152. Do Buy — speakers: Chris Ramsey, Rosie Ramsey
 - 2022-01-21 — Ep 151. Timber — speakers: Chris Ramsey, Rosie Ramsey
@@ -8130,7 +8043,7 @@
 - 2021-10-29 — Ep 140. NOT a Halloween special — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-10-22 — Ep 139. Baby name betrayal — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-10-15 — Ep 138. Party at the drive thru — speakers: Chris Ramsey, Rosie Ramsey
-- 2021-10-08 — Ep 137. Oh Crumbs — speakers: Rosie’s Mystery, Chris Ramsey, Rosie Ramsey
+- 2021-10-08 — Ep 137. Oh Crumbs — speakers: Oh Crumbs Rosie, Celebrity Ques, Chris Ramsey, Rosie Ramsey
 - 2021-10-01 — Ep 136. Elephant Dolphin — speakers: Elephant Dolphin Chris, Chris Ramsey, Rosie Ramsey
 - 2021-09-24 — Ep 135. Turbo time — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-09-17 — Ep 134. Bon bons in the knicker drawer — speakers: Chris Ramsey, Rosie Ramsey
@@ -8155,27 +8068,27 @@
 - 2021-05-07 — Ep 115. Sidebored — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-04-30 — Ep 114. A lady from the 90's — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-04-23 — Ep 113. How deep do you sleep? — speakers: Chris Ramsey, Rosie Ramsey
-- 2021-04-16 — Ep. 112 Coal-Slaw — speakers: Plus Rosie, Chris Ramsey, Rosie Ramsey
+- 2021-04-16 — Ep. 112 Coal-Slaw — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-04-09 — Ep 111. Total (lack of) Recall — speakers: Belinda Beef, Chris Ramsey, Rosie Ramsey
 - 2021-04-02 — Ep 110. 110 take 2 — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-03-26 — Ep 109. Flannel Heavy — speakers: Flannel Heavy, Chris Ramsey, Rosie Ramsey
-- 2021-03-19 — EP 108. Carpet Squares — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2021-03-19 — EP 108. Carpet Squares — speakers: Mothering Sunday, Chris Ramsey, Rosie Ramsey
 - 2021-03-12 — Ep 107. Bucking Mad — speakers: grey hairs, Chris Ramsey, Rosie Ramsey
-- 2021-03-05 — Ep 106. Pay as you go go go go go — speakers: Bike Guy, Louis Theroux, Chris Ramsey, Rosie Ramsey
+- 2021-03-05 — Ep 106. Pay as you go go go go go — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-02-26 — Ep 105. Coffin Confessors — speakers: Chris Ramsey, Rosie Ramsey
-- 2021-02-19 — Ep 104. Flock of Lasagne — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-02-19 — Ep 104. Flock of Lasagne — speakers: Rosie re, Chris Ramsey, Rosie Ramsey
 - 2021-02-12 — Ep 103. Bones — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-02-05 — Ep. 102 Cremetisserie — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-01-29 — Ep 101. Maternity Leave #3 — speakers: Chris Ramsey, Rosie Ramsey
 - 2021-01-22 — Ep 100. Best of #1 — speakers: Chris Ramsey, Rosie Ramsey
-- 2021-01-15 — Ep 99. Maternity Leave #2 — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-01-15 — Ep 99. Maternity Leave #2 — speakers: Maternity Leave, Chris Ramsey, Rosie Ramsey
 - 2021-01-08 — Ep 98. Maternity Leave #1 — speakers: Maternity Leave, Chris Ramsey, Rosie Ramsey
 - 2021-01-01 — Ep 97. Docket or Not — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-12-25 — Ep 96. Christmas Bonus Special — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-12-18 — Ep 95. Turkey leg-over — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-12-11 — Ep 94. Gorgey Hun — speakers: Gorgey Hun, Chris Ramsey, Rosie Ramsey
-- 2020-12-04 — Ep 93. Living with Meatloaf — speakers: Steph McGovern, Chris Ramsey, Rosie Ramsey
-- 2020-11-27 — Ep 92. Narrow Church — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2020-12-04 — Ep 93. Living with Meatloaf — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-11-27 — Ep 92. Narrow Church — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-11-20 — Ep 91. See this finger, see this thumb — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-11-13 — Ep 90. Bed Kegs — speakers: Bed Kegs Tensions, Chris Ramsey, Rosie Ramsey
 - 2020-11-06 — Ep 89. Where you bin my love? — speakers: Chris Ramsey, Rosie Ramsey
@@ -8186,7 +8099,7 @@
 - 2020-10-02 — Ep 84. Top Sheet — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-09-25 — Ep 83. Give me an A — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-09-18 — Ep 82. Minty Fresh — speakers: Chris Ramsey, Rosie Ramsey
-- 2020-09-11 — Ep 81. Spite Salmon — speakers: Phil Ellis, Chris Ramsey, Rosie Ramsey
+- 2020-09-11 — Ep 81. Spite Salmon — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-09-04 — Ep 80. Auntie Pat — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
 - 2020-09-03 — Bonus Episode — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-08-28 — Ep 79. Around the World — speakers: Chris Ramsey, Rosie Ramsey
@@ -8196,9 +8109,9 @@
 - 2020-07-31 — Ep 75. A breath of fresh air — speakers: Guinea Pigs, Chris Ramsey, Rosie Ramsey
 - 2020-07-24 — Ep 74. Queen Bee in The Side Garden — speakers: Queen Bee, Chris Ramsey, Rosie Ramsey
 - 2020-07-17 — Ep 73. 36 hours later — speakers: Chris Ramsey, Rosie Ramsey
-- 2020-07-10 — Ep 72. Guest in the nest — speakers: Bike Guy, Chris Ramsey, Rosie Ramsey
-- 2020-07-03 — Ep 71. Dull as dishwater — speakers: Birthday Cakes, Chris Ramsey, Rosie Ramsey
-- 2020-06-26 — Ep 70. Seventy several — speakers: Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2020-07-10 — Ep 72. Guest in the nest — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-07-03 — Ep 71. Dull as dishwater — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-06-26 — Ep 70. Seventy several — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-06-19 — Ep 69. Meal for Two — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-06-12 — Ep 68. Dental dam — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-06-05 — Ep 67. Streets of Heferlon — speakers: Chris Ramsey, Rosie Ramsey
@@ -8210,10 +8123,10 @@
 - 2020-04-24 — Ep 61. My lover — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-04-17 — Ep 60. Zoom Pole — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-04-10 — Ep 59. Tiger trap — speakers: Chris Ramsey, Rosie Ramsey
-- 2020-04-03 — Ep 58. Fondling by the reservoir — speakers: Becky Beef, Chris Ramsey, Rosie Ramsey
+- 2020-04-03 — Ep 58. Fondling by the reservoir — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-03-27 — Ep 57. The Sniff test — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-03-20 — Ep 56. The Depositor — speakers: Chris Ramsey, Rosie Ramsey
-- 2020-03-13 — Ep 55. Elastic Burdens — speakers: Elastic Burdens, Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2020-03-13 — Ep 55. Elastic Burdens — speakers: Elastic Burdens, Chris Ramsey, Rosie Ramsey
 - 2020-03-06 — Ep 54. Pointing the Finger — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-02-28 — Ep 53. Auntie Panky — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-02-21 — Ep 52. One in Thirty — speakers: Chris Ramsey, Rosie Ramsey
@@ -8224,48 +8137,48 @@
 - 2020-01-17 — Ep 47. Express yourself — speakers: Chris Ramsey, Rosie Ramsey
 - 2020-01-10 — Ep 46. Wide Winifred — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-12-20 — Ep 45. Sweaty Veg: Christmas Special — speakers: Sweaty Veg, Chris Ramsey, Rosie Ramsey
-- 2019-12-13 — Ep 44. Bad breath boyfriend — speakers: Chris Ramsey, Rosie Ramsey
-- 2019-12-06 — Ep 43. Raging semi — speakers: Kelvin Fletcher, Chris Ramsey, Rosie Ramsey
-- 2019-11-29 — Ep 42. Don't hate, hydrate. — speakers: Barry Beef, Carl Hutchinson, Chris Ramsey, Rosie Ramsey
-- 2019-11-22 — Ep 41. Batman lives next door — speakers: Neil Jones, Chris Ramsey, Rosie Ramsey
-- 2019-11-15 — Ep 40. Cheese table — speakers: Mike Bushell, Chris Ramsey, Rosie Ramsey
-- 2019-11-08 — Ep 39. The Zodiac DJ — speakers: Mum Sandra, Chris Ramsey, Rosie Ramsey
-- 2019-11-01 — Ep 38. Buttery Beef — speakers: Michelle Visage, Chris Ramsey, Rosie Ramsey
+- 2019-12-13 — Ep 44. Bad breath boyfriend — speakers: Ramsey Household, Chris Ramsey, Rosie Ramsey
+- 2019-12-06 — Ep 43. Raging semi — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-11-29 — Ep 42. Don't hate, hydrate. — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2019-11-22 — Ep 41. Batman lives next door — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-11-15 — Ep 40. Cheese table — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-11-08 — Ep 39. The Zodiac DJ — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-11-01 — Ep 38. Buttery Beef — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-10-25 — Ep 37. The Urine Episode — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-10-18 — Ep 36. Final Warning — speakers: Chris Ramsey, Rosie Ramsey
-- 2019-10-11 — Ep 35. Bit of the moon — speakers: Yorkshire Pudding, Sian Gibson, Chris Ramsey, Rosie Ramsey
-- 2019-10-04 — Ep 34. Coughcast — speakers: Fireman Sam, Plus Rosie, Chris Ramsey, Rosie Ramsey
-- 2019-09-27 — Ep 33. Popcast — speakers: Karen Hauer, Chris Ramsey, Rosie Ramsey
+- 2019-10-11 — Ep 35. Bit of the moon — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-10-04 — Ep 34. Coughcast — speakers: Fireman Sam, Chris Ramsey, Rosie Ramsey
+- 2019-09-27 — Ep 33. Popcast — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-09-20 — Ep 32. Butt Rings — speakers: Butt Rings, Chris Ramsey, Rosie Ramsey
-- 2019-09-13 — Ep 31. Sugar Lips — speakers: Jamie Laing, Chris Ramsey, Rosie Ramsey
+- 2019-09-13 — Ep 31. Sugar Lips — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-09-06 — Ep 30. Swamp rings — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-08-30 — Ep 29. Use your face more! — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-08-23 — Ep 28. Oops! — speakers: Chris Ramsey, Rosie Ramsey
-- 2019-08-16 — Ep 27. Found a good a chew — speakers: Kit Kat, Chris Ramsey, Rosie Ramsey
+- 2019-08-16 — Ep 27. Found a good a chew — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-08-09 — Ep 26. Out of Office #2 — speakers: Chris Ramsey, Rosie Ramsey
-- 2019-08-02 — Ep. 25 Twinkle Toes — speakers: Joe McEldry, Chris Ramsey, Rosie Ramsey
-- 2019-07-26 — Ep 24. Viennetta Vinny — speakers: Viennetta Vinny, Rick Edwards, Chris Ramsey, Rosie Ramsey
+- 2019-08-02 — Ep. 25 Twinkle Toes — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-07-26 — Ep 24. Viennetta Vinny — speakers: Viennetta Vinny, Chris Ramsey, Rosie Ramsey
 - 2019-07-19 — Ep 23. Did you hear about the Crab Girl? — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-07-12 — Ep 22. Push the button — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-07-05 — Ep 21. Double dip with me all day long — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-06-28 — Ep 20. Worrying Crush — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-06-21 — Ep 19. Out of Office Reply — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-06-14 — Ep 18. Fetch the bang pillow! — speakers: Chris Ramsey, Rosie Ramsey
-- 2019-06-07 — Ep 17. The square root of sex — speakers: Lee Ridley, Chris Ramsey, Rosie Ramsey
+- 2019-06-07 — Ep 17. The square root of sex — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-05-31 — Ep 16. Fanny by the gaslight — speakers: Chris Ramsey, Rosie Ramsey
-- 2019-05-24 — Ep 15. Our safe word is... — speakers: Al Murray, Chris Ramsey, Rosie Ramsey
-- 2019-05-17 — Ep 14. A pre-marriage thing? — speakers: Giovanna Fletcher, Chris Ramsey, Rosie Ramsey
-- 2019-05-10 — Ep 13. Bed time stand off — speakers: Daniel Sloss, Chris Ramsey, Rosie Ramsey
+- 2019-05-24 — Ep 15. Our safe word is... — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-05-17 — Ep 14. A pre-marriage thing? — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-05-10 — Ep 13. Bed time stand off — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-05-03 — Ep 12. Caravan of love — speakers: Chris Ramsey, Rosie Ramsey
-- 2019-04-26 — Ep 11. Floss before you flirt — speakers: DI Kate Fleming, Chris Ramsey, Rosie Ramsey
+- 2019-04-26 — Ep 11. Floss before you flirt — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-04-19 — Ep 10. Who let the cats in? — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-04-12 — Ep 9. Wine and a FAB time — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-04-05 — Ep 8. Diplomatic Immunity — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-03-29 — Ep 7. Shredded Beef — speakers: Chris Ramsey, Rosie Ramsey
-- 2019-03-22 — Ep 6. Let’s see shall we — speakers: Annoyed Chris, Vicky Pattison, Chris Ramsey, Rosie Ramsey
-- 2019-03-15 — Ep 5. Widowed by a Seagull — speakers: Annoyed Chris, Rosie Mamsey, Chris Ramsey, Rosie Ramsey
-- 2019-03-08 — Ep 4. Don't touch my bum, I'm a celebrity Mum — speakers: Celeb Mum, Simon Rimmer, Chris Ramsey, Rosie Ramsey
-- 2019-03-01 — Ep3. Episode three, take two. — speakers: Tennis Snoring, Kathryn Ryan, Chris Ramsey, Rosie Ramsey
-- 2019-02-22 — Ep 2. Hungry eyes and a first date surprise — speakers: Comedian Jason Manford, Chris Ramsey, Rosie Ramsey
-- 2019-02-15 — Ep 1. Three’s a crowd, four’s a chore — speakers: Ed Sheeran, Chris Ramsey, Rosie Ramsey
+- 2019-03-22 — Ep 6. Let’s see shall we — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
+- 2019-03-15 — Ep 5. Widowed by a Seagull — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
+- 2019-03-08 — Ep 4. Don't touch my bum, I'm a celebrity Mum — speakers: Celeb Mum, Chris Ramsey, Rosie Ramsey
+- 2019-03-01 — Ep3. Episode three, take two. — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-02-22 — Ep 2. Hungry eyes and a first date surprise — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-02-15 — Ep 1. Three’s a crowd, four’s a chore — speakers: Chris Ramsey, Rosie Ramsey
 - 2019-02-04 — Trailer — speakers: Chris Ramsey, Rosie Ramsey

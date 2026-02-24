@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-02-23T03:19:38+00:00`
-- checked_at: `2026-02-23T03:19:38+00:00`
-- last_modified: `Mon, 23 Feb 2026 03:00:00 GMT`
+- fetched_at: `2026-02-24T03:14:34+00:00`
+- checked_at: `2026-02-24T03:14:34+00:00`
+- last_modified: `Tue, 24 Feb 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T03:19:38+00:00",
+  "fetched_at": "2026-02-24T03:14:34+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "56cafebec13fabbacaaff6544ea6d71143bacc6f",
+      "title": "S15 Ep 782: London Larry and Befriending Take That",
+      "published_at": "2026-02-24T03:00:00+00:00",
+      "link": null,
+      "description": "Well, it’s the last of our trilogy’s of episodes discussing David’s recent work trips to London. And it’s turned out to be a right roller coster of emotions as this morning he’s feeling very upbeat about the city and making the most of being there. So much so that yesterday afternoon he took the opportunity to visit his agent, killed time by looking into lots of restaurant windows and almost treated himself to a cocktail in his hotel bar. Then to end the day, he really enjoyed watching the Take That Circus tour in his room - and is now wondering if he and Joe might be able to become their fiends? FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠YouTube⁠ ⁠Instagram⁠ ⁠TikTok⁠ ⁠Patreon⁠ ⁠Merch⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5106227798.mp3?updated=1771495151",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3199",
+      "speakers": [
+        "London Larry",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "london",
+        "larry",
+        "befriending"
+      ]
+    },
     {
       "key": "5aebeee6d894c523186e89e0c3fdb8f25251dfe8",
       "title": "S15 Ep 781 Vault Mondays: Happy Happy Girl and Distractions",
@@ -64,7 +86,6 @@
       "itunes_duration": "1921",
       "speakers": [
         "Jason Orange",
-        "Patreon Merch",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -108,7 +129,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3492",
       "speakers": [
-        "Merch Email",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -128,7 +148,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2507",
       "speakers": [
-        "Lee Mack",
+        "Quipping Club David",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -174,7 +194,6 @@
       "speakers": [
         "Listener’s Mailbag",
         "Ben Rufus Green",
-        "Bobby Ball",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -198,7 +217,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3628",
       "speakers": [
-        "Primrose Hill",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -219,7 +237,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2851",
       "speakers": [
-        "Chat Gpt",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -242,7 +259,6 @@
       "speakers": [
         "Posthumous Pods",
         "Judgy Joe",
-        "Joe’s old",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -284,8 +300,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2149",
       "speakers": [
-        "Pink Floyd",
-        "Paul McCartney",
+        "Baked Bean",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -391,8 +406,7 @@
       "speakers": [
         "Listener’s Mailbag",
         "Helen DeGeneres",
-        "David’s Happy Happy Girl",
-        "Joe’s Helen DeGeneres",
+        "David’s Happy",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -506,7 +520,6 @@
       "itunes_duration": "4283",
       "speakers": [
         "Joe’s Quiz",
-        "Robert Smith",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -527,7 +540,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3772",
       "speakers": [
-        "Steve Davis",
+        "Vault Mondays",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -551,8 +564,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2483",
       "speakers": [
-        "David’s Ibiza",
-        "Joe’s Park Run",
+        "Christmas Mailbag",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -576,7 +588,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2418",
       "speakers": [
-        "Robert Smith",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -683,7 +694,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2349",
       "speakers": [
-        "Jack Russell",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -701,8 +711,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2849",
       "speakers": [
-        "Ben Shephard",
-        "Dawn French",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -746,7 +754,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1687",
       "speakers": [
-        "Howards Way",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -829,8 +836,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3700",
       "speakers": [
-        "Keira Knightly",
-        "Joe’s Midas",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -854,6 +859,9 @@
       "enclosure_length": "0",
       "itunes_duration": "1684",
       "speakers": [
+        "Vault Mondays",
+        "Recurring Dreams",
+        "Double Acts Straight",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -946,7 +954,6 @@
       "itunes_duration": "2320",
       "speakers": [
         "Bad Wi-Fi",
-        "Joe’s Wi-Fi",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -966,6 +973,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2869",
       "speakers": [
+        "Vault Mondays",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1014,8 +1022,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2579",
       "speakers": [
-        "Joe Mahler",
-        "Phil Kay",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1037,6 +1043,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1926",
       "speakers": [
+        "Merch Stats",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1059,7 +1066,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2526",
       "speakers": [
-        "Richard Osman",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1104,7 +1110,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2178",
       "speakers": [
-        "Jools Holland",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1171,7 +1176,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3080",
       "speakers": [
-        "Park Run",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1218,6 +1222,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2086",
       "speakers": [
+        "Paper Planes",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1241,8 +1246,6 @@
       "itunes_duration": "4221",
       "speakers": [
         "Peter Director",
-        "Peter Richardson",
-        "Jeremy Clarkson",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1290,7 +1293,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2743",
       "speakers": [
-        "David’s old",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1372,7 +1374,6 @@
       "itunes_duration": "1931",
       "speakers": [
         "Listener’s Mailbag",
-        "Michaela Strachan’s TV",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1420,7 +1421,6 @@
       "speakers": [
         "Mark Bonnar",
         "Linley Dissection",
-        "David’s Midas",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1444,7 +1444,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3825",
       "speakers": [
-        "James Fidler",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1487,7 +1486,6 @@
       "itunes_duration": "3889",
       "speakers": [
         "Colin Hoult",
-        "Anna Mann",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1532,7 +1530,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3187",
       "speakers": [
-        "Jeremy Clarkson",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1552,7 +1549,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3210",
       "speakers": [
-        "Jeremy Clarkson",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1595,7 +1591,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3477",
       "speakers": [
-        "Jamie Demetriou",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1616,7 +1611,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2459",
       "speakers": [
-        "Park Run",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1659,7 +1653,6 @@
       "itunes_duration": "1617",
       "speakers": [
         "Sketch Show",
-        "Neil Webster",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1708,7 +1701,6 @@
       "speakers": [
         "Lynley Mark Bonnar",
         "Mark Bonnar",
-        "Lynley Mysteries",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1861,7 +1853,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1931",
       "speakers": [
-        "Celebrity Big Brother",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1908,10 +1899,6 @@
       "itunes_duration": "3468",
       "speakers": [
         "Joe’s Mastermind Quiz",
-        "Stevie Wonder",
-        "Roy Hodgson plus",
-        "Chatabix Mastermind",
-        "Instagram Alistair",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -1932,7 +1919,7 @@
       "enclosure_length": "0",
       "itunes_duration": "215",
       "speakers": [
-        "Sussex Underwater",
+        "World Wildlife Fund",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2065,8 +2052,6 @@
       "speakers": [
         "Joe’s Saliva Jet",
         "Justin Hawkins Body",
-        "Justin Hawkins",
-        "David’s Pelaton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2127,7 +2112,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2222",
       "speakers": [
-        "Cole Zero",
+        "Listeners Mailbag",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2151,7 +2136,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2753",
       "speakers": [
-        "Roger Moore",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2240,8 +2224,6 @@
       "itunes_duration": "2037",
       "speakers": [
         "Listeners Mailbag",
-        "Mark Bonnar",
-        "Greg Rusedski",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2361,8 +2343,6 @@
       "itunes_duration": "1886",
       "speakers": [
         "Listener’s Mailbag",
-        "Joe’s Mmu",
-        "Bradley Walsh",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2662,6 +2642,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2477",
       "speakers": [
+        "Brand New Home Pt",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2769,7 +2750,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2003",
       "speakers": [
-        "David’s old",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2837,7 +2817,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3297",
       "speakers": [
-        "Noel Edmonds",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2884,8 +2863,6 @@
       "itunes_duration": "1685",
       "speakers": [
         "Listener’s Mailbag",
-        "David’s bum",
-        "Judy Dench",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -2973,7 +2950,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1860",
       "speakers": [
-        "Travis Perkins",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -3186,7 +3162,6 @@
       "itunes_duration": "3654",
       "speakers": [
         "Joe’s Name",
-        "George Clooney",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -3295,7 +3270,6 @@
       "speakers": [
         "Rob Beckett Returns",
         "Rob Beckett",
-        "Joel Dommett",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -3470,8 +3444,6 @@
       "itunes_duration": "1755",
       "speakers": [
         "Armando Iannucci",
-        "Laurence Llewelyn-Bowen",
-        "Judy Dench",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -3518,7 +3490,6 @@
       "itunes_duration": "2580",
       "speakers": [
         "All-Inclusive Holidays",
-        "Robert De Niro",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -3582,7 +3553,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1488",
       "speakers": [
-        "chatabix Insta",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -3690,7 +3660,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1858",
       "speakers": [
-        "Ronnie Barker",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4029,7 +3998,6 @@
       "itunes_duration": "2886",
       "speakers": [
         "Mystery Meet",
-        "Coffee Dude",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4071,7 +4039,6 @@
       "itunes_duration": "2056",
       "speakers": [
         "Ronnie Barker’s Letter Digging",
-        "Ronny Barker",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4097,6 +4064,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3075",
       "speakers": [
+        "Curry Quiz",
+        "Farting Masseuses David",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4160,6 +4129,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2584",
       "speakers": [
+        "Vault Monday",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4252,8 +4222,6 @@
       "itunes_duration": "3136",
       "speakers": [
         "Following David",
-        "Cheddar Gorge",
-        "Longleat Safari Park",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4300,7 +4268,6 @@
       "itunes_duration": "1307",
       "speakers": [
         "Joe Singing",
-        "Joe’s Galaxy Pugs",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4442,7 +4409,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2241",
       "speakers": [
-        "Park Run",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4529,7 +4495,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1709",
       "speakers": [
-        "David’s Zoom",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4636,9 +4601,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1844",
       "speakers": [
-        "Judy Dench",
-        "Noel Edmonds",
-        "Ground Force",
+        "Judy Denc",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4659,7 +4622,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3481",
       "speakers": [
-        "David’s Americana Sessions",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4683,7 +4645,6 @@
       "itunes_duration": "2282",
       "speakers": [
         "Quiz Joe",
-        "Comedy Chart",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4747,7 +4708,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1961",
       "speakers": [
-        "Bella Emberg",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4853,7 +4813,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1992",
       "speakers": [
-        "Andy Parsons",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4937,6 +4896,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2031",
       "speakers": [
+        "Vault Mondays",
+        "Happy Happy Girl",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -4984,8 +4945,7 @@
       "itunes_duration": "2705",
       "speakers": [
         "Joe’s Birthday Lunch Video",
-        "Paul Gorton Chatabix",
-        "Rob Beckett",
+        "Paul Gorton Chatabi",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5008,8 +4968,6 @@
       "itunes_duration": "4544",
       "speakers": [
         "TV Joe",
-        "Anne Robinson",
-        "Mezz Coleman",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5074,6 +5032,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1504",
       "speakers": [
+        "Washing Machines Well",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5137,7 +5096,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3198",
       "speakers": [
-        "Will Andrews",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5177,7 +5135,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1925",
       "speakers": [
-        "Barry Morris",
+        "Great Grans",
+        "Surrey Down",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5288,7 +5247,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1898",
       "speakers": [
-        "Parenting Hell",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5333,7 +5291,6 @@
       "itunes_duration": "3320",
       "speakers": [
         "David’s Flu",
-        "Mystery Meet",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5377,6 +5334,7 @@
       "itunes_duration": "3297",
       "speakers": [
         "Terry Mynott",
+        "Terry Mynot",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5425,7 +5383,6 @@
       "itunes_duration": "3437",
       "speakers": [
         "Judy Dench",
-        "David’s Yoga",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5468,7 +5425,6 @@
       "itunes_duration": "2907",
       "speakers": [
         "David’s Pottery",
-        "Celebrity Bake Off",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5490,7 +5446,6 @@
       "itunes_duration": "2230",
       "speakers": [
         "Hotmail Roulette",
-        "Peter Thraft",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5539,7 +5494,6 @@
       "itunes_duration": "3636",
       "speakers": [
         "David’s Pottery",
-        "Ellie Taylor",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5582,7 +5536,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2444",
       "speakers": [
-        "Chatabix Towers",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5652,8 +5605,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2955",
       "speakers": [
-        "Daniel Reid aka",
-        "David’s Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5742,6 +5693,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2119",
       "speakers": [
+        "Bakery Tales",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5825,8 +5777,6 @@
       "itunes_duration": "1691",
       "speakers": [
         "Linda Lusardi",
-        "Andrew Roachford",
-        "Chris Tarrant",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5851,6 +5801,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6098",
       "speakers": [
+        "Joe hav",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5915,7 +5866,6 @@
       "itunes_duration": "4245",
       "speakers": [
         "Natalie Cassidy",
-        "ho ho",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5938,6 +5888,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4078",
       "speakers": [
+        "Listing Comedians Names",
+        "Chortle Website",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -5983,7 +5935,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1732",
       "speakers": [
-        "Port Isaac",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6007,7 +5958,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2953",
       "speakers": [
-        "Bill Kazmaier training",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6047,6 +5997,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2808",
       "speakers": [
+        "Snipers Ally First",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6091,6 +6042,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2156",
       "speakers": [
+        "Canal Boats",
+        "Music Shop Rows New",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6159,7 +6112,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2766",
       "speakers": [
-        "Wembley Arena",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6219,7 +6171,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1837",
       "speakers": [
-        "Ben Rufus Green",
+        "Ben Rufus Gree",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6267,6 +6219,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1729",
       "speakers": [
+        "Vault Mondays",
+        "Impressions Competition",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6291,6 +6245,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1872",
       "speakers": [
+        "Vault Mondays",
+        "Vault Monday",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6311,7 +6267,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4718",
       "speakers": [
-        "Richard Osman",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6334,7 +6289,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1532",
       "speakers": [
-        "Noel Edmonds old",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6506,6 +6460,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1925",
       "speakers": [
+        "Friday Treat",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6528,7 +6483,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3031",
       "speakers": [
-        "Rob Beckett",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6550,6 +6504,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2151",
       "speakers": [
+        "Old Christmas Promos",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6572,7 +6527,6 @@
       "itunes_duration": "3021",
       "speakers": [
         "David Home Alone",
-        "Will Naomi",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6618,6 +6572,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2154",
       "speakers": [
+        "Friday Treat",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6662,8 +6617,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2925",
       "speakers": [
-        "Andrew White",
-        "Thankfully Andrew",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6705,7 +6658,6 @@
       "itunes_duration": "5004",
       "speakers": [
         "Greatest Streaker",
-        "Mark Roberts",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6730,7 +6682,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1672",
       "speakers": [
-        "Joe Wilkinson how",
+        "Joe Wilkinso",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6753,7 +6705,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3561",
       "speakers": [
-        "Richard Osmond",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6794,7 +6745,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2916",
       "speakers": [
-        "David Walliams",
+        "Relocation Gameshow Joe",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6818,7 +6769,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1414",
       "speakers": [
-        "Massive Attack",
+        "Friday Treat",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6863,7 +6814,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2036",
       "speakers": [
-        "Bob Dylan",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6883,7 +6833,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2310",
       "speakers": [
-        "Linda Lusardi",
+        "New Pens",
+        "Pod Art",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6903,9 +6854,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2022",
       "speakers": [
-        "Joe’s Pyramid",
-        "van hassles",
-        "John Challis",
+        "Friday Treat",
+        "Only Fool",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6929,7 +6879,6 @@
       "itunes_duration": "4279",
       "speakers": [
         "Natalie Cassidy",
-        "Ricky Gervais",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6954,7 +6903,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2428",
       "speakers": [
-        "Cornish Pasty",
+        "St Ives Museum During",
+        "St Ives Museum",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -6996,8 +6946,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2336",
       "speakers": [
-        "Paul Foot",
-        "Ibizan Chatabiscuits",
+        "Friday Treat",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7197,7 +7146,6 @@
       "speakers": [
         "David Brent",
         "Tim Oliver",
-        "Ricky Gervais",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7325,7 +7273,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1243",
       "speakers": [
-        "Oakley Perky",
+        "Friday Treat",
+        "Toss Snooker Tournament",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7352,7 +7301,6 @@
       "speakers": [
         "Female Joe",
         "Getting Older",
-        "Joe’s th",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7530,7 +7478,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2458",
       "speakers": [
-        "Gary Neville",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7641,7 +7588,6 @@
       "itunes_duration": "3381",
       "speakers": [
         "Paul Sinton",
-        "Paul Sinton-Hewit",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7667,7 +7613,10 @@
       "enclosure_length": "0",
       "itunes_duration": "1065",
       "speakers": [
-        "Oakley Perky",
+        "Friday Treat",
+        "Coin Toss Snooker",
+        "Chatabix Coin",
+        "Toss Snooker Tournament",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7755,9 +7704,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3250",
       "speakers": [
-        "Natalie Imbruglia",
-        "Daley Thompson",
-        "James Blunt",
+        "Ad Hoc Drivel",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7800,6 +7747,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1481",
       "speakers": [
+        "Friday Treat",
+        "Pub Jokes",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7822,7 +7771,6 @@
       "itunes_duration": "4365",
       "speakers": [
         "John Fendley",
-        "Soccer Aid",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7869,7 +7817,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3866",
       "speakers": [
-        "Lee Mack",
+        "Lee Mac",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -7917,7 +7865,6 @@
       "itunes_duration": "5115",
       "speakers": [
         "Kiell Smith-Bynoe",
-        "Kool Story Bro",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8051,8 +7998,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3690",
       "speakers": [
-        "Stevie Wonder",
-        "Gary Barlow",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8161,6 +8106,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1314",
       "speakers": [
+        "Friday Treat",
+        "More Old Pub Jokes",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8206,8 +8153,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2556",
       "speakers": [
-        "Tiff Stevenson",
-        "Jimmy McGhie",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8230,6 +8175,7 @@
       "itunes_duration": "5145",
       "speakers": [
         "Stuart Goldsmith",
+        "Stuart Goldsmi",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8252,8 +8198,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3217",
       "speakers": [
-        "Paul Gorton",
-        "Stephen Merchant",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8336,7 +8280,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3239",
       "speakers": [
-        "Rob Beckett",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8451,7 +8394,6 @@
       "speakers": [
         "Nigel Richardson David",
         "Nigel Richardson",
-        "Buy Nigel",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8476,7 +8418,6 @@
       "itunes_duration": "4557",
       "speakers": [
         "James Joe",
-        "Luckily James",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8522,7 +8463,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4837",
       "speakers": [
-        "Katie Hopkins",
+        "Pranksters Josh Pieters",
+        "Josh Pieters",
+        "Archie Manners",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8633,8 +8576,6 @@
       "speakers": [
         "Ted Robbins Celeb Guest",
         "Ted Robbins",
-        "Paul McCartney",
-        "John Lennon",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8680,8 +8621,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2553",
       "speakers": [
-        "Steve Ovett",
-        "Adventure Pods",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8723,7 +8662,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2886",
       "speakers": [
-        "Carry Bag",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8748,13 +8686,8 @@
       "itunes_duration": "6648",
       "speakers": [
         "Joe David",
-        "Neil Webster",
-        "Ben Rufus-Green",
-        "Vyvyan Almond",
-        "Ed Gamble",
-        "Steve Coogan",
-        "Terry Mynett",
-        "Steve Davis"
+        "Joe Wilkinson",
+        "David Earl"
       ],
       "topics": [
         "podlife",
@@ -8798,8 +8731,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3285",
       "speakers": [
-        "Nicky Clarke",
-        "Dry Robe",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8864,7 +8795,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3004",
       "speakers": [
-        "Mezz Coleman",
+        "Usual Drivel",
+        "Mezz Colem",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8887,7 +8819,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3168",
       "speakers": [
-        "Allen Key",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8911,8 +8842,6 @@
       "itunes_duration": "4583",
       "speakers": [
         "Lolly Adefope",
-        "Tom Cruise",
-        "Paul Gorton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8958,6 +8887,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3396",
       "speakers": [
+        "hobby bu",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -8983,10 +8913,6 @@
       "speakers": [
         "Guest David",
         "Alex Lowe",
-        "Peter Kaye",
-        "Steve Wright",
-        "Iain Lee",
-        "Clinton Baptiste",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9009,7 +8935,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3927",
       "speakers": [
-        "Nat Cassidy",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9053,7 +8978,6 @@
       "itunes_duration": "4065",
       "speakers": [
         "Tommie Trelawny",
-        "Nicky Anderson",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9079,7 +9003,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2728",
       "speakers": [
-        "Sticky Beard",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9102,7 +9025,6 @@
       "itunes_duration": "4692",
       "speakers": [
         "Paul Gorton",
-        "King Paul",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9125,7 +9047,6 @@
       "itunes_duration": "2647",
       "speakers": [
         "David Now",
-        "Josh Widdicombe",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9148,11 +9069,6 @@
       "itunes_duration": "4174",
       "speakers": [
         "Ben Taylor",
-        "Paul Weller",
-        "Pete Doherty",
-        "Jonestown Massacare",
-        "Alan McGee",
-        "com TaylorMod",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9174,8 +9090,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4065",
       "speakers": [
-        "Josh Widdicombe",
-        "Rob Beckett",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9197,7 +9111,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5166",
       "speakers": [
-        "Helen Mirren",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9224,7 +9137,6 @@
       "speakers": [
         "Guest David",
         "Sally Lindsay",
-        "Bobby Ball",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9270,7 +9182,7 @@
       "itunes_duration": "4905",
       "speakers": [
         "Guest David",
-        "Natalie Cassidy",
+        "Natalie Cass",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9337,8 +9249,7 @@
       "itunes_duration": "3385",
       "speakers": [
         "John Fendley Fenners",
-        "Jimmy Bullard",
-        "Bootsale Bobby",
+        "John Fendley Fenner",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9390,8 +9301,6 @@
       "speakers": [
         "Guest Joe",
         "John Fendley",
-        "Glenn Hoddle",
-        "David Beckham",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9438,9 +9347,6 @@
       "itunes_duration": "3623",
       "speakers": [
         "Paul Gorton",
-        "Mark Wright",
-        "Alison Hammond",
-        "Joe David",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9484,8 +9390,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2456",
       "speakers": [
-        "Natalie Cassidy",
-        "David take Naomi",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9530,8 +9434,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3832",
       "speakers": [
-        "James Acaster",
-        "Ed Gamble",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9600,7 +9502,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2328",
       "speakers": [
-        "Paul Gorton",
+        "Emergency Pod",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9622,7 +9524,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2337",
       "speakers": [
-        "Paul Gorton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9644,11 +9545,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4840",
       "speakers": [
-        "Steve Baker",
-        "Simon Price",
-        "Simon Cowell",
-        "Lisa Osborne",
-        "Mezz Coleman",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9713,8 +9609,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2199",
       "speakers": [
-        "Claudia Winkleman",
-        "Paul Gorton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9735,7 +9629,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3010",
       "speakers": [
-        "Paul Gorton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9759,7 +9652,6 @@
       "itunes_duration": "2112",
       "speakers": [
         "Paul Gorton",
-        "Tall Paul",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9801,8 +9693,6 @@
       "itunes_duration": "4979",
       "speakers": [
         "Tony Guyan",
-        "John Cleese",
-        "Bernard Cribbins",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9850,7 +9740,6 @@
       "itunes_duration": "3673",
       "speakers": [
         "Paul Gorton",
-        "Noel Edmunds",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9875,8 +9764,6 @@
       "itunes_duration": "4094",
       "speakers": [
         "Paul Gorton",
-        "Richard Madeley",
-        "Nick Knowles",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9884,32 +9771,6 @@
         "gorton",
         "moment",
         "dond",
-        "traitors",
-        "paul"
-      ]
-    },
-    {
-      "key": "ef1b582767a738b4d57bedcab718ba69a050375b",
-      "title": "Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton",
-      "published_at": "2024-01-08T14:35:00+00:00",
-      "link": null,
-      "description": "This ep is from the Chatavaults. It first went out in August 2022 long before Paul Gorton applied to go on The Traitors. He originally got in touch with Chatabix as David and Joe wanted to talk to someone who had been on a game show. As a past contestant on Deal or No Deal with Noel Edmunds, Paul had lots of great stories to tell. They all got on like a house on fire and the rest, as they say, is history. Paul Gorton is currently in the BBC show The Traitors UK (series 2) https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4580271085.mp3?updated=1704724690",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3105",
-      "speakers": [
-        "Paul Gorton",
-        "Noel Edmunds",
-        "Joe Wilkinson",
-        "David Earl"
-      ],
-      "topics": [
-        "gorton",
-        "start",
-        "deal",
-        "saga",
         "traitors",
         "paul"
       ]
@@ -9927,12 +9788,36 @@
       "itunes_duration": "3896",
       "speakers": [
         "Paul Gorton",
-        "Noel Edmunds",
         "Joe Wilkinson",
         "David Earl"
       ],
       "topics": [
         "gorton",
+        "deal",
+        "saga",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
+      "key": "ef1b582767a738b4d57bedcab718ba69a050375b",
+      "title": "Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:35:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults. It first went out in August 2022 long before Paul Gorton applied to go on The Traitors. He originally got in touch with Chatabix as David and Joe wanted to talk to someone who had been on a game show. As a past contestant on Deal or No Deal with Noel Edmunds, Paul had lots of great stories to tell. They all got on like a house on fire and the rest, as they say, is history. Paul Gorton is currently in the BBC show The Traitors UK (series 2) https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4580271085.mp3?updated=1704724690",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3105",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
+        "start",
         "deal",
         "saga",
         "traitors",
@@ -9952,7 +9837,6 @@
       "itunes_duration": "1996",
       "speakers": [
         "Deep Dive",
-        "Paul Gorton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9975,7 +9859,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2072",
       "speakers": [
-        "Paul Gorton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -9997,7 +9880,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1963",
       "speakers": [
-        "Paul Gorton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10019,8 +9901,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3113",
       "speakers": [
-        "Talk Sport",
-        "Andy Goldstein",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10111,11 +9991,6 @@
       "itunes_duration": "6397",
       "speakers": [
         "Christmas Special",
-        "Andy Goldstein",
-        "Natalie Cassidy",
-        "Paul Gorton",
-        "Steve Baker",
-        "Ho ho ho",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10161,7 +10036,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4298",
       "speakers": [
-        "Jamie Demetriou",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10206,7 +10080,6 @@
       "speakers": [
         "Guest Comedy",
         "Jamie Demitriou",
-        "Craig Cash",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10276,11 +10149,8 @@
         "Barry Hearn Specialist",
         "Barry Hearn",
         "Matchroom Sport",
-        "Mike Tyson",
-        "Frank Bruno",
-        "Steve Davis",
-        "Chris Eubank",
-        "Read Barry"
+        "Joe Wilkinson",
+        "David Earl"
       ],
       "topics": [
         "barry",
@@ -10347,8 +10217,6 @@
       "speakers": [
         "Luisa Zissman",
         "Anna Williams",
-        "David Joe",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10373,9 +10241,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2949",
       "speakers": [
-        "Joe Now",
-        "Ethan Lawrence",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10400,9 +10265,6 @@
       "itunes_duration": "4657",
       "speakers": [
         "Andy Goldstein Regular Guest",
-        "Robbie Williams",
-        "Bruce Forsyth",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10426,9 +10288,6 @@
       "itunes_duration": "4457",
       "speakers": [
         "Simon Price",
-        "Ricky Gervais",
-        "Robert Smith",
-        "Find Simon",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10452,7 +10311,6 @@
       "itunes_duration": "2843",
       "speakers": [
         "grateful Joe",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10475,9 +10333,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3446",
       "speakers": [
-        "Steve Baker",
-        "Luckily Steve Baker",
-        "Lewis Capaldi",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10501,7 +10356,6 @@
       "speakers": [
         "Natasia Demetriou Guest Comedy",
         "Natasia Demitriou",
-        "David Joe",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10523,8 +10377,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2438",
       "speakers": [
-        "Robbie Williams",
-        "Rik Mayall",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10570,6 +10422,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4706",
       "speakers": [
+        "Iain Stirling",
+        "Celeb Chataguest Comedian Iain",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10593,7 +10447,6 @@
       "itunes_duration": "4854",
       "speakers": [
         "Henry Paker",
-        "Russell Howard",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10616,8 +10469,6 @@
       "itunes_duration": "2160",
       "speakers": [
         "Joe Goes Surfing",
-        "Mark demo",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10638,7 +10489,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4374",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10683,7 +10533,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2368",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10705,8 +10554,6 @@
       "itunes_duration": "4005",
       "speakers": [
         "Lee Mack",
-        "David’s Pyramind",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10728,9 +10575,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2225",
       "speakers": [
-        "Ben Foster",
-        "James Acaster",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10757,7 +10601,6 @@
       "itunes_duration": "2717",
       "speakers": [
         "David Now",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10799,7 +10642,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2760",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10846,7 +10688,6 @@
       "itunes_duration": "5550",
       "speakers": [
         "Russell Tovey",
-        "Mawaan Rizwan",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10890,8 +10731,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3931",
       "speakers": [
-        "David’s TV",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10937,8 +10776,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3845",
       "speakers": [
-        "van lifestyle",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -10962,7 +10799,6 @@
       "speakers": [
         "Rosie Francis",
         "Joe David",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11009,8 +10845,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2353",
       "speakers": [
-        "Natalie Cassidy",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11035,8 +10869,6 @@
       "speakers": [
         "Joe Now Choo Choo",
         "Joe Now",
-        "Elton John",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11056,9 +10888,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4763",
       "speakers": [
-        "Damon Albarn",
-        "Steve Davis",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11082,8 +10911,6 @@
       "itunes_duration": "2296",
       "speakers": [
         "Drivel Jarlath",
-        "Jarlath Regan",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11109,9 +10936,6 @@
       "speakers": [
         "Andy Goldstein Regular Guest",
         "Andy Goldstein",
-        "Jane Torvill",
-        "Lee Sharpe",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11155,7 +10979,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3666",
       "speakers": [
-        "Follow Chatabix",
+        "Usual Drivel",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11204,8 +11028,6 @@
       "speakers": [
         "David Joe",
         "Jayne Torvill",
-        "Christopher Dean",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11252,7 +11074,6 @@
       "speakers": [
         "Paul Gorton",
         "Lung Winded Story Ex",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11278,8 +11099,6 @@
       "speakers": [
         "WW Historian Andrew Chatterton",
         "Historian Andrew Chatterton",
-        "David Joe",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11303,7 +11122,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3819",
       "speakers": [
-        "Phil Spencer",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11324,8 +11142,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3681",
       "speakers": [
-        "David Joe",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11373,9 +11189,8 @@
       "speakers": [
         "Drivel David",
         "George Kane",
-        "David Earl",
-        "Apocalypse Clown",
-        "Joe Wilkinson"
+        "Joe Wilkinson",
+        "David Earl"
       ],
       "topics": [
         "usual",
@@ -11441,7 +11256,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2840",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11465,7 +11279,6 @@
       "speakers": [
         "Natalie Cassidy Regular Guest",
         "Natalie Cassidy",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11491,7 +11304,6 @@
       "speakers": [
         "Chris Billam-Smith Specialist Guest",
         "Chris Billam-Smith",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11561,7 +11373,6 @@
       "itunes_duration": "3195",
       "speakers": [
         "Robin Cooper",
-        "Robert Popper",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11609,8 +11420,6 @@
       "speakers": [
         "David Wilson Specialist",
         "David Wilson",
-        "Graham Norton",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11635,8 +11444,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3713",
       "speakers": [
-        "Brian Gittins",
-        "Paul McCaffery",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11656,7 +11463,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4525",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11679,7 +11485,6 @@
       "itunes_duration": "3406",
       "speakers": [
         "Blur Concert",
-        "Steve Davis",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11748,7 +11553,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2137",
       "speakers": [
-        "Follow Chatabix",
+        "No Deal",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11770,7 +11575,6 @@
       "itunes_duration": "4646",
       "speakers": [
         "Andy Goldstein",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11791,9 +11595,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3209",
       "speakers": [
-        "Nigel Havers",
-        "Julia Davis",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11819,7 +11620,6 @@
         "Tommy Cannon Celeb Chataguest",
         "Tommy Cannon",
         "Bobby Ball",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11844,7 +11644,6 @@
       "speakers": [
         "Danny Knight Specialist",
         "Danny Knight",
-        "Jaxx Radio",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11869,6 +11668,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2242",
       "speakers": [
+        "No Deal Auction",
+        "No Deal",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11890,8 +11691,6 @@
       "itunes_duration": "4341",
       "speakers": [
         "William Orbit",
-        "Paul McCaffrey",
-        "Sean Walsh",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11912,7 +11711,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3128",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11935,7 +11733,6 @@
       "speakers": [
         "Connor Swindells Celeb Chataguest",
         "Connor Swindells",
-        "Will Ferrell",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11959,7 +11756,6 @@
       "itunes_duration": "3825",
       "speakers": [
         "Emmanuel Asuquo",
-        "Find Emmanuel",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -11983,7 +11779,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2216",
       "speakers": [
-        "Follow Chatabix",
+        "No Deal",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12006,7 +11802,6 @@
       "itunes_duration": "4168",
       "speakers": [
         "Paul Gorton",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12030,7 +11825,6 @@
       "itunes_duration": "4425",
       "speakers": [
         "Joe Now Football Special",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12053,8 +11847,6 @@
       "speakers": [
         "Thomas Turgoose Celeb Chataguest",
         "Thomas Turgoose",
-        "Shane Meadows",
-        "Ira Jackson Jnr",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12079,7 +11871,6 @@
       "speakers": [
         "Keaton Henson Specialist",
         "Keaton Henson",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12103,8 +11894,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1956",
       "speakers": [
-        "Marc Wootton",
-        "Follow Chatabix",
+        "No Deal",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12125,8 +11915,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3880",
       "speakers": [
-        "Arnold Schwarzenegger",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12144,8 +11932,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2873",
       "speakers": [
-        "Anna Mann played",
-        "iamcolinhoult com",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12170,7 +11956,6 @@
       "speakers": [
         "David Joe",
         "Katherine Ryan",
-        "Below Deck",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12237,7 +12022,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3696",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12257,9 +12041,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3124",
       "speakers": [
-        "Steve Davis",
-        "Jimmy White",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12302,9 +12083,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2593",
       "speakers": [
-        "Andy Goldstein",
-        "Uncle Andy",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12326,7 +12104,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3774",
       "speakers": [
-        "Andy Goldstein",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12349,7 +12126,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3188",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12370,8 +12146,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2256",
       "speakers": [
-        "Roger Babbage Quantock",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12416,9 +12190,6 @@
       "itunes_duration": "2843",
       "speakers": [
         "Eddie Phillips",
-        "Mateus Rose",
-        "Patrick Duffy",
-        "Alex Lowe",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12465,9 +12236,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2320",
       "speakers": [
-        "Lemony Zing",
-        "Greg McHugh",
-        "Gary Tank",
+        "Canal Thursday",
+        "Davide Darood",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12492,8 +12262,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2517",
       "speakers": [
-        "Ian Dale",
-        "John Kearns",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12517,7 +12285,6 @@
       "itunes_duration": "2295",
       "speakers": [
         "Taylor David Joe",
-        "Noddy Holder",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12540,8 +12307,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2045",
       "speakers": [
-        "Peter Lake",
-        "Robert Popper Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12588,7 +12353,6 @@
       "itunes_duration": "1688",
       "speakers": [
         "Mrs Falconio",
-        "Anna Crilly",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12612,7 +12376,6 @@
       "itunes_duration": "2262",
       "speakers": [
         "Taylor David",
-        "Avocado Attack",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12679,7 +12442,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4784",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12700,7 +12462,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4598",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12723,8 +12484,6 @@
       "speakers": [
         "Loopy David",
         "Andy Goldstein",
-        "Chris Eubanks",
-        "Jimmy White",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12748,8 +12507,6 @@
       "itunes_duration": "4784",
       "speakers": [
         "Volunteer David",
-        "Elton John",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12837,7 +12594,6 @@
       "speakers": [
         "Nats Bollox Natalie Cassidy",
         "Natalie Cassidy",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12860,7 +12616,6 @@
       "itunes_duration": "3930",
       "speakers": [
         "Keith McCloskey",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12906,7 +12661,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3073",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12944,7 +12698,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4446",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12968,7 +12721,6 @@
       "speakers": [
         "Neil Forsyth",
         "Brinks Mat",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -12993,7 +12745,6 @@
       "itunes_duration": "3178",
       "speakers": [
         "Paul Gorton",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13017,7 +12768,6 @@
       "itunes_duration": "2341",
       "speakers": [
         "Paul Gorton",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13041,7 +12791,6 @@
       "speakers": [
         "Special Where",
         "Joe Now",
-        "Dunluce Castle",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13088,7 +12837,6 @@
       "itunes_duration": "3299",
       "speakers": [
         "Kirsten Pobjoy",
-        "Paul Gorton",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13171,7 +12919,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3909",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13194,7 +12941,6 @@
       "speakers": [
         "John Lloyd TV",
         "John LLoyd",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13218,7 +12964,6 @@
       "itunes_duration": "1863",
       "speakers": [
         "Armando Iannucci",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13308,7 +13053,7 @@
       "itunes_duration": "3510",
       "speakers": [
         "Tom Wheatley",
-        "Park Run",
+        "Park Ru",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13329,7 +13074,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2999",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13349,8 +13093,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2092",
       "speakers": [
-        "David lets Patreons",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13371,8 +13113,6 @@
       "itunes_duration": "3447",
       "speakers": [
         "Steve Baker",
-        "Steve Monite",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13392,7 +13132,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3257",
       "speakers": [
-        "Hornby Trains",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13417,7 +13156,6 @@
       "speakers": [
         "Producer Wiiiiill",
         "Will MacDonald",
-        "Chris Evans",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13506,7 +13244,6 @@
       "itunes_duration": "3583",
       "speakers": [
         "Lol Tolhurst",
-        "David fangurls Joe",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13530,7 +13267,6 @@
       "speakers": [
         "Andy Goldstein Snooker",
         "Andy Goldstein",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13554,7 +13290,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2103",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13578,7 +13313,6 @@
       "itunes_duration": "1463",
       "speakers": [
         "Co Ops",
-        "Co Op",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13600,7 +13334,6 @@
       "speakers": [
         "Coop Radio Somehow Joe",
         "Coop Radio",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13623,7 +13356,6 @@
       "itunes_duration": "3183",
       "speakers": [
         "Joe Now",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13729,8 +13461,6 @@
       "itunes_duration": "3005",
       "speakers": [
         "Steve Baker",
-        "Sleaford Mods Songs",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13750,7 +13480,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5397",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13773,8 +13502,6 @@
       "itunes_duration": "4624",
       "speakers": [
         "Simon Newton",
-        "Top Shop",
-        "Michael Jackson",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13819,7 +13546,6 @@
       "itunes_duration": "3974",
       "speakers": [
         "Paul Gorton",
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13882,7 +13608,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1927",
       "speakers": [
-        "Follow Chatabix",
         "Joe Wilkinson",
         "David Earl"
       ],
@@ -13916,111 +13641,112 @@
 
 ## Episodes (newest first)
 
+- 2026-02-24 — S15 Ep 782: London Larry and Befriending Take That — speakers: London Larry, Joe Wilkinson, David Earl
 - 2026-02-23 — S15 Ep 781 Vault Mondays: Happy Happy Girl and Distractions — speakers: Joe Wilkinson, David Earl
-- 2026-02-20 — S15 Ep 780 Listener’s Mailbag: Jason Orange and Dad Jokes — speakers: Jason Orange, Patreon Merch, Joe Wilkinson, David Earl
+- 2026-02-20 — S15 Ep 780 Listener’s Mailbag: Jason Orange and Dad Jokes — speakers: Jason Orange, Joe Wilkinson, David Earl
 - 2026-02-19 — S15 Ep 779: Trains Tales and London Part Two — speakers: Joe Wilkinson, David Earl
-- 2026-02-18 — S15 Ep 778: What I Do When I Get To Paddington — speakers: Merch Email, Joe Wilkinson, David Earl
-- 2026-02-17 — S15 Ep 777: The 1% Quipping Club — speakers: Lee Mack, Joe Wilkinson, David Earl
+- 2026-02-18 — S15 Ep 778: What I Do When I Get To Paddington — speakers: Joe Wilkinson, David Earl
+- 2026-02-17 — S15 Ep 777: The 1% Quipping Club — speakers: Quipping Club David, Joe Wilkinson, David Earl
 - 2026-02-16 — S15 Ep 776 Vault Mondays: Putting A Bet On A Horse and Joe Davis — speakers: Joe Davis, Joe Wilkinson, David Earl
-- 2026-02-13 — S15 Ep 775 Listener’s Mailbag: Cockfields Quips and Ben Rufus Green — speakers: Listener’s Mailbag, Ben Rufus Green, Bobby Ball, Joe Wilkinson, David Earl
-- 2026-02-12 — S15 Ep 774: The Primrose Hill Lot — speakers: Primrose Hill, Joe Wilkinson, David Earl
-- 2026-02-11 — S15 Ep 773: Dopplebangers and ‘Our Little Systems’ — speakers: Chat Gpt, Joe Wilkinson, David Earl
-- 2026-02-10 — S15 Ep 772: Posthumous Pods and Judgy Joe — speakers: Posthumous Pods, Judgy Joe, Joe’s old, Joe Wilkinson, David Earl
+- 2026-02-13 — S15 Ep 775 Listener’s Mailbag: Cockfields Quips and Ben Rufus Green — speakers: Listener’s Mailbag, Ben Rufus Green, Joe Wilkinson, David Earl
+- 2026-02-12 — S15 Ep 774: The Primrose Hill Lot — speakers: Joe Wilkinson, David Earl
+- 2026-02-11 — S15 Ep 773: Dopplebangers and ‘Our Little Systems’ — speakers: Joe Wilkinson, David Earl
+- 2026-02-10 — S15 Ep 772: Posthumous Pods and Judgy Joe — speakers: Posthumous Pods, Judgy Joe, Joe Wilkinson, David Earl
 - 2026-02-09 — S15 Ep 771 Vault Mondays: Joe takes an IQ test — speakers: Joe Wilkinson, David Earl
-- 2026-02-06 — S15 Ep 770: One In A Million - A Baked Bean and Some Door Keys — speakers: Pink Floyd, Paul McCartney, Joe Wilkinson, David Earl
+- 2026-02-06 — S15 Ep 770: One In A Million - A Baked Bean and Some Door Keys — speakers: Baked Bean, Joe Wilkinson, David Earl
 - 2026-02-05 — S15 Ep 769: Two Farting Dogs and Intimidating Comedians — speakers: Joe Wilkinson, David Earl
 - 2026-02-04 — S15 Ep 768: Why Are You Still Listening? — speakers: Joe Wilkinson, David Earl
 - 2026-02-03 — S15 Ep 767: Touching Tongues — speakers: Joe Wilkinson, David Earl
 - 2026-02-02 — S14 Ep 766 Vault Mondays: Surprise Guest - Kerry Godliman — speakers: Kerry Godliman, Joe Wilkinson, David Earl
-- 2026-01-30 — S15 Ep 765 Listener’s Mailbag: Police Surveillance and Helen DeGeneres — speakers: Listener’s Mailbag, Helen DeGeneres, David’s Happy Happy Girl, Joe’s Helen DeGeneres, Joe Wilkinson, David Earl
+- 2026-01-30 — S15 Ep 765 Listener’s Mailbag: Police Surveillance and Helen DeGeneres — speakers: Listener’s Mailbag, Helen DeGeneres, David’s Happy, Joe Wilkinson, David Earl
 - 2026-01-29 — S15 Ep 764: Josh’s Houses and Live Tour Deliberations — speakers: Joe Wilkinson, David Earl
 - 2026-01-28 — S15 Ep 763: David’s Back In Brighton — speakers: David’s Back, Joe Wilkinson, David Earl
 - 2026-01-27 — S15 Ep 762: New Series, Same Old Drivel — speakers: Joe Wilkinson, David Earl
 - 2026-01-26 — S15 Ep 761 Vault Mondays: Guest - Former Gangster, Charlie Breaker — speakers: Charlie Breaker, Joe Wilkinson, David Earl
-- 2025-12-23 — S14 Ep 760: TV Joe’s Quiz of the Year — speakers: Joe’s Quiz, Robert Smith, Joe Wilkinson, David Earl
-- 2025-12-22 — S14 Ep 759 Vault Mondays: Guest - Steve Davis — speakers: Steve Davis, Joe Wilkinson, David Earl
-- 2025-12-19 — S14 Ep 758: Christmas Mailbag - This Morning and Early Retirement — speakers: David’s Ibiza, Joe’s Park Run, Joe Wilkinson, David Earl
-- 2025-12-18 — S14 Ep 757: Joe’s Christmassy Walk (to the Station) — speakers: Robert Smith, Joe Wilkinson, David Earl
+- 2025-12-23 — S14 Ep 760: TV Joe’s Quiz of the Year — speakers: Joe’s Quiz, Joe Wilkinson, David Earl
+- 2025-12-22 — S14 Ep 759 Vault Mondays: Guest - Steve Davis — speakers: Vault Mondays, Joe Wilkinson, David Earl
+- 2025-12-19 — S14 Ep 758: Christmas Mailbag - This Morning and Early Retirement — speakers: Christmas Mailbag, Joe Wilkinson, David Earl
+- 2025-12-18 — S14 Ep 757: Joe’s Christmassy Walk (to the Station) — speakers: Joe Wilkinson, David Earl
 - 2025-12-17 — S14 Ep 756: Nasty Messages and Lovely Pods — speakers: Joe Wilkinson, David Earl
 - 2025-12-16 — S14 Ep 755: I Ain’t A Square — speakers: Joe Wilkinson, David Earl
 - 2025-12-15 — S14 Ep 754 Vault Mondays: Talking About Stuff and Not Talking About Stuff — speakers: Joe Wilkinson, David Earl
 - 2025-12-12 — S14 Ep 753 Listener’s Mailbag: Red Mist and Beautiful Bath — speakers: Beautiful Bath, Joe Wilkinson, David Earl
-- 2025-12-11 — S14 Ep 752: Not Good Enough — speakers: Jack Russell, Joe Wilkinson, David Earl
-- 2025-12-10 — S14 Ep 751: Poos and Key-Bumps — speakers: Ben Shephard, Dawn French, Joe Wilkinson, David Earl
+- 2025-12-11 — S14 Ep 752: Not Good Enough — speakers: Joe Wilkinson, David Earl
+- 2025-12-10 — S14 Ep 751: Poos and Key-Bumps — speakers: Joe Wilkinson, David Earl
 - 2025-12-09 — S14 Ep 750: David’s Teenage Holiday Romance — speakers: David’s Teenage, Joe Wilkinson, David Earl
-- 2025-12-08 — S14 Ep 749 Vault Mondays: Howards Way and Romesh and Tom's Podcast — speakers: Howards Way, Joe Wilkinson, David Earl
+- 2025-12-08 — S14 Ep 749 Vault Mondays: Howards Way and Romesh and Tom's Podcast — speakers: Joe Wilkinson, David Earl
 - 2025-12-05 — S14 Ep 748 Listener’s Mailbag: Podcasts, Psychologists and Princesses — speakers: Joe Wilkinson, David Earl
 - 2025-12-04 — S14 Pp 747 One In A Million: Haemorrhoids and Doppelgängers — speakers: Joe Wilkinson, David Earl
 - 2025-12-03 — S14 Ep 746: Are We Likable? — speakers: Joe Wilkinson, David Earl
-- 2025-12-02 — S14 Ep 745: Joe's Midas Month and that Waitrose Christmas Advert — speakers: Keira Knightly, Joe’s Midas, Joe Wilkinson, David Earl
-- 2025-12-01 — S14 Ep 744 Vault Mondays: Recurring Dreams and Double Acts — speakers: Joe Wilkinson, David Earl
+- 2025-12-02 — S14 Ep 745: Joe's Midas Month and that Waitrose Christmas Advert — speakers: Joe Wilkinson, David Earl
+- 2025-12-01 — S14 Ep 744 Vault Mondays: Recurring Dreams and Double Acts — speakers: Vault Mondays, Recurring Dreams, Double Acts Straight, Joe Wilkinson, David Earl
 - 2025-11-28 — S14 Ep 743 Listener’s Mailbag: Scenery Painters and Memorial Flowers — speakers: Memorial Flowers, Joe Wilkinson, David Earl
 - 2025-11-27 — S14 Ep 742: Guests Analysis and The Misery Train — speakers: Joe Wilkinson, David Earl
 - 2025-11-26 — S14 Ep 741: Bumping into David Olusoga and Behind the Scenes at Cats Does Countdown — speakers: David Olusoga, Joe Wilkinson, David Earl
-- 2025-11-25 — S14 Ep 740: Boy Bands and Bad Wi-Fi — speakers: Bad Wi-Fi, Joe’s Wi-Fi, Joe Wilkinson, David Earl
-- 2025-11-24 — S14 Ep 739 Vault Mondays: The Joe Wilkinson Appreciation Episode — speakers: Joe Wilkinson, David Earl
+- 2025-11-25 — S14 Ep 740: Boy Bands and Bad Wi-Fi — speakers: Bad Wi-Fi, Joe Wilkinson, David Earl
+- 2025-11-24 — S14 Ep 739 Vault Mondays: The Joe Wilkinson Appreciation Episode — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2025-11-21 — S14 Ep 738 Listener’s Mailbag: Olympic Swimmers and David’s Prediction Video — speakers: David’s Prediction Video, Joe Wilkinson, David Earl
-- 2025-11-20 — S14 Ep 737: Joe on BBC Breakfast and Old Traitors News — speakers: Joe Mahler, Phil Kay, Joe Wilkinson, David Earl
-- 2025-11-19 — S14 Ep 736 One in a Million: Merch Stats & A Canoe Exhibition — speakers: Joe Wilkinson, David Earl
-- 2025-11-18 — S14 Ep 735: The One in a Million Gameshow — speakers: Richard Osman, Joe Wilkinson, David Earl
+- 2025-11-20 — S14 Ep 737: Joe on BBC Breakfast and Old Traitors News — speakers: Joe Wilkinson, David Earl
+- 2025-11-19 — S14 Ep 736 One in a Million: Merch Stats & A Canoe Exhibition — speakers: Merch Stats, Joe Wilkinson, David Earl
+- 2025-11-18 — S14 Ep 735: The One in a Million Gameshow — speakers: Joe Wilkinson, David Earl
 - 2025-11-17 — S14 Ep 734 Vault Mondays: Guest - Ricky Gervais — speakers: Ricky Gervais, Joe Wilkinson, David Earl
-- 2025-11-14 — S14 Ep 733 Listener’s Mailbag: Bears, Brothers and Strongbow — speakers: Jools Holland, Joe Wilkinson, David Earl
+- 2025-11-14 — S14 Ep 733 Listener’s Mailbag: Bears, Brothers and Strongbow — speakers: Joe Wilkinson, David Earl
 - 2025-11-13 — S14 Ep 732: David Driving to his VO Recording — speakers: David Driving, Joe Wilkinson, David Earl
 - 2025-11-12 — S14 Ep 731: The Marvelous Mind of Mark Simmons — speakers: Mark Simmons, Joe Wilkinson, David Earl
-- 2025-11-11 — S14 Ep 730: Colds, Flus and a Traitors Debrief Debriefing — speakers: Park Run, Joe Wilkinson, David Earl
+- 2025-11-11 — S14 Ep 730: Colds, Flus and a Traitors Debrief Debriefing — speakers: Joe Wilkinson, David Earl
 - 2025-11-10 — S14 Ep 729 Vault Mondays: Joe Lies To His Wife and The Electrician — speakers: Joe Lies, Joe Wilkinson, David Earl
-- 2025-10-29 — S13 Ep 728 One In A Million: Paper Planes & Lightening Strikes — speakers: Joe Wilkinson, David Earl
-- 2025-10-28 — S13 Ep 727: Kit and Peter - Director and Producer of Clarkson’s Farm — speakers: Peter Director, Peter Richardson, Jeremy Clarkson, Joe Wilkinson, David Earl
+- 2025-10-29 — S13 Ep 728 One In A Million: Paper Planes & Lightening Strikes — speakers: Paper Planes, Joe Wilkinson, David Earl
+- 2025-10-28 — S13 Ep 727: Kit and Peter - Director and Producer of Clarkson’s Farm — speakers: Peter Director, Joe Wilkinson, David Earl
 - 2025-10-27 — S13 Ep 726 Vault Mondays: Joe Leads David Around The Fawlty Towers Set — speakers: Joe Leads, Joe Wilkinson, David Earl
-- 2025-10-23 — S13 Ep 725: I Don’t Have A Boss - Part 2 — speakers: David’s old, Joe Wilkinson, David Earl
+- 2025-10-23 — S13 Ep 725: I Don’t Have A Boss - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2025-10-22 — S13 Ep 724: I Don’t Have A Boss - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2025-10-21 — S13 Ep 723: More on our 'Magical Sitcom Tour' TV show — speakers: Joe Wilkinson, David Earl
 - 2025-10-20 — S13 Ep 722 Vault Mondays: In The Shade and Sue — speakers: Joe Wilkinson, David Earl
-- 2025-10-17 — S13 Ep 721 Listener’s Mailbag: Quips, Giggling and Lynley — speakers: Listener’s Mailbag, Michaela Strachan’s TV, Joe Wilkinson, David Earl
+- 2025-10-17 — S13 Ep 721 Listener’s Mailbag: Quips, Giggling and Lynley — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
 - 2025-10-16 — S13 Ep 720: Joe’s Celebrity Traitors Debrief - Episode 3 (includes spoilers) — speakers: Joe Wilkinson, David Earl
-- 2025-10-15 — S13 Ep 719: Mark Bonnar’s Inspector Linley Dissection — speakers: Mark Bonnar, Linley Dissection, David’s Midas, Joe Wilkinson, David Earl
-- 2025-10-14 — S13 Ep 718: Our New TV Show — speakers: James Fidler, Joe Wilkinson, David Earl
+- 2025-10-15 — S13 Ep 719: Mark Bonnar’s Inspector Linley Dissection — speakers: Mark Bonnar, Linley Dissection, Joe Wilkinson, David Earl
+- 2025-10-14 — S13 Ep 718: Our New TV Show — speakers: Joe Wilkinson, David Earl
 - 2025-10-13 — S13 Ep 717: Joe’s Celebrity Traitors Ep 2 Debrief with Mark Bonnar — speakers: Mark Bonnar, Joe Wilkinson, David Earl
-- 2025-10-13 — S13 Ep 716 Vault Mondays: Guest - Colin Hoult — speakers: Colin Hoult, Anna Mann, Joe Wilkinson, David Earl
+- 2025-10-13 — S13 Ep 716 Vault Mondays: Guest - Colin Hoult — speakers: Colin Hoult, Joe Wilkinson, David Earl
 - 2025-10-09 — S13 Ep 715: Joe’s Celebrity Traitors Debrief - Episode 1 — speakers: Joe Wilkinson, David Earl
-- 2025-10-08 — S13 Ep 714: Back On The Farm — speakers: Jeremy Clarkson, Joe Wilkinson, David Earl
-- 2025-10-07 — S13 Ep 713: Joe’s started watching Clarkson’s Farm — speakers: Jeremy Clarkson, Joe Wilkinson, David Earl
+- 2025-10-08 — S13 Ep 714: Back On The Farm — speakers: Joe Wilkinson, David Earl
+- 2025-10-07 — S13 Ep 713: Joe’s started watching Clarkson’s Farm — speakers: Joe Wilkinson, David Earl
 - 2025-10-06 — S13 Ep 712 Vault Mondays: How Rich Is Your Grandad? — speakers: Joe Wilkinson, David Earl
-- 2025-10-02 — S13 Ep 711: An Exit Survey and More One In A Million — speakers: Jamie Demetriou, Joe Wilkinson, David Earl
-- 2025-10-01 — S13 Ep 710: Compliments, Omelettes and Camping — speakers: Park Run, Joe Wilkinson, David Earl
+- 2025-10-02 — S13 Ep 711: An Exit Survey and More One In A Million — speakers: Joe Wilkinson, David Earl
+- 2025-10-01 — S13 Ep 710: Compliments, Omelettes and Camping — speakers: Joe Wilkinson, David Earl
 - 2025-09-30 — S13 Ep 709: Shall I Wild Camp? — speakers: Joe Wilkinson, David Earl
-- 2025-09-29 — S13 Ep 708: The Day David Got Sacked From A Ch4 Sketch Show For Being Crap — speakers: Sketch Show, Neil Webster, Joe Wilkinson, David Earl
+- 2025-09-29 — S13 Ep 708: The Day David Got Sacked From A Ch4 Sketch Show For Being Crap — speakers: Sketch Show, Joe Wilkinson, David Earl
 - 2025-09-25 — S13 Ep 707: The Inspector Lynley Mark Bonnar Preamble Pt 2 — speakers: Lynley Mark Bonnar, Mark Bonnar, Joe Wilkinson, David Earl
-- 2025-09-24 — S13 Ep 706: The Inspector Lynley Mark Bonnar Preamble Pt 1 — speakers: Lynley Mark Bonnar, Mark Bonnar, Lynley Mysteries, Joe Wilkinson, David Earl
+- 2025-09-24 — S13 Ep 706: The Inspector Lynley Mark Bonnar Preamble Pt 1 — speakers: Lynley Mark Bonnar, Mark Bonnar, Joe Wilkinson, David Earl
 - 2025-09-23 — S13 Ep 705: The Old Man on Dartmoor and Celebrating London — speakers: Celebrating London, Joe Wilkinson, David Earl
 - 2025-09-22 — S13 Ep 704 Vault Mondays: Deleted Files and Believe — speakers: Joe Wilkinson, David Earl
 - 2025-09-19 — S13 Ep 703 Listener’s Mailbag: A Cross Cleaner and Bus Driver Quips — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
 - 2025-09-18 — S13 Ep 702: Reading Out Our Spotify Reviews — speakers: Joe Wilkinson, David Earl
 - 2025-09-17 — S13 Ep 701: Filming Nerves and Grand Designs — speakers: Joe Wilkinson, David Earl
 - 2025-09-16 — S13 Ep 700: More House Viewings and Not Being Ladish — speakers: Joe Wilkinson, David Earl
-- 2025-09-15 — S13 Ep 699 Vault Mondays: On Set and On a Train — speakers: Celebrity Big Brother, Joe Wilkinson, David Earl
+- 2025-09-15 — S13 Ep 699 Vault Mondays: On Set and On a Train — speakers: Joe Wilkinson, David Earl
 - 2025-09-12 — S13 Ep 698 Listeners Mailbag: Dog Walkers and Groom’s Speeches — speakers: Groom’s Speeches, Joe Wilkinson, David Earl
-- 2025-09-11 — S13 Ep 697: TV Joe’s Mastermind Quiz — speakers: Joe’s Mastermind Quiz, Stevie Wonder, Roy Hodgson plus, Chatabix Mastermind, Instagram Alistair, Joe Wilkinson, David Earl
-- 2025-09-10 — WWF CHARITY NIGHT IN SUSSEX — speakers: Sussex Underwater, Joe Wilkinson, David Earl
+- 2025-09-11 — S13 Ep 697: TV Joe’s Mastermind Quiz — speakers: Joe’s Mastermind Quiz, Joe Wilkinson, David Earl
+- 2025-09-10 — WWF CHARITY NIGHT IN SUSSEX — speakers: World Wildlife Fund, Joe Wilkinson, David Earl
 - 2025-09-10 — S13 Ep 696: A 3 pack of assorted high-waisted briefs — speakers: Joe Wilkinson, David Earl
 - 2025-09-09 — S13 Ep 695 One In A Million: A Casino Win And A Shop Fire — speakers: Joe Wilkinson, David Earl
 - 2025-09-08 — S13 Ep 694 Vault Monday: Our New TV Reviewer and The New Telly Addicts Game — speakers: Joe Wilkinson, David Earl
 - 2025-09-05 — S13 Ep 693 Listeners Mailbag: Haunted Pubs and a Chatabiscuit Dream — speakers: Listeners Mailbag, Joe Wilkinson, David Earl
 - 2025-09-04 — S13 Ep 692: Knocking On Doors Again — speakers: Joe Wilkinson, David Earl
-- 2025-09-03 — S13 Ep 691: Joe’s Saliva Jet and Justin Hawkins Body — speakers: Joe’s Saliva Jet, Justin Hawkins Body, Justin Hawkins, David’s Pelaton, Joe Wilkinson, David Earl
+- 2025-09-03 — S13 Ep 691: Joe’s Saliva Jet and Justin Hawkins Body — speakers: Joe’s Saliva Jet, Justin Hawkins Body, Joe Wilkinson, David Earl
 - 2025-09-02 — S13 Ep 690: One In A Million — speakers: Joe Wilkinson, David Earl
 - 2025-09-01 — S13 Ep 689 Vault Mondays: Driving Down To London — speakers: Joe Wilkinson, David Earl
-- 2025-08-29 — S13 Ep 688 Listeners Mailbag: A Hotbox and A Tool Quiz — speakers: Cole Zero, Joe Wilkinson, David Earl
-- 2025-08-28 — S13 Ep 687: Bond Girls and Jersey Flights — speakers: Roger Moore, Joe Wilkinson, David Earl
+- 2025-08-29 — S13 Ep 688 Listeners Mailbag: A Hotbox and A Tool Quiz — speakers: Listeners Mailbag, Joe Wilkinson, David Earl
+- 2025-08-28 — S13 Ep 687: Bond Girls and Jersey Flights — speakers: Joe Wilkinson, David Earl
 - 2025-08-27 — S13 Ep 686: Joe’s Two ‘Manic Energy’ Stories — speakers: Joe Wilkinson, David Earl
 - 2025-08-26 — S13 Ep 685: David Gets His Car MOT’d — speakers: David Gets, Joe Wilkinson, David Earl
 - 2025-08-25 — S13 Ep 684 Vault Mondays: Great Bodies and Twitter — speakers: Twitter Vault, Joe Wilkinson, David Earl
-- 2025-08-22 — S13 Ep 683 Listeners Mailbag: Totally Distracted and A Funhouse Audition — speakers: Listeners Mailbag, Mark Bonnar, Greg Rusedski, Joe Wilkinson, David Earl
+- 2025-08-22 — S13 Ep 683 Listeners Mailbag: Totally Distracted and A Funhouse Audition — speakers: Listeners Mailbag, Joe Wilkinson, David Earl
 - 2025-08-21 — S13 Ep 682: Skateboarder Joe and The Terrorism Police — speakers: Skateboarder Joe, Joe Wilkinson, David Earl
 - 2025-08-20 — S13 Ep 681: David’s Exercises and Joe’s Meatball Recipe — speakers: David’s Exercises, Joe Wilkinson, David Earl
 - 2025-08-19 — S13 Ep 680: Joe’s Kevin McCloud Type Jackets — speakers: Jackets Joe, Kevin McCloud, Joe Wilkinson, David Earl
 - 2025-08-18 — S13 Ep 679 Vault Mondays: Richard Webster - Kick Start Competitor, 1985 — speakers: Start Competitor, Richard Webster, Joe Wilkinson, David Earl
-- 2025-08-15 — S13 Ep 678 Listener’s Mailbag: Stretford Paddock and MMU Massages — speakers: Listener’s Mailbag, Joe’s Mmu, Bradley Walsh, Joe Wilkinson, David Earl
+- 2025-08-15 — S13 Ep 678 Listener’s Mailbag: Stretford Paddock and MMU Massages — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
 - 2025-08-14 — S13 Ep 677: Canal Georgie Returns — speakers: Joe Wilkinson, David Earl
 - 2025-08-13 — S13 Ep 676: Grumpy David and Joe at the Pride Parade — speakers: Grumpy David, Joe Wilkinson, David Earl
 - 2025-08-12 — S13 Ep 675: A Mevagissey Morning and Retirement Plans — speakers: Joe Wilkinson, David Earl
@@ -14033,21 +13759,21 @@
 - 2025-08-01 — S13 Ep 668 Listeners Mailbag: Funny Names and Spotting Swingers — speakers: Listeners Mailbag, Joe Wilkinson, David Earl
 - 2025-07-31 — S13 Ep 667: David Calls The Fire Brigade — speakers: David Calls, Joe Wilkinson, David Earl
 - 2025-07-30 — S13 Ep 666: Joe’s Brand New Home Pt 2 — speakers: Joe Wilkinson, David Earl
-- 2025-07-29 — S13 Ep 665: Joe’s Brand New Home Pt 1 — speakers: Joe Wilkinson, David Earl
+- 2025-07-29 — S13 Ep 665: Joe’s Brand New Home Pt 1 — speakers: Brand New Home Pt, Joe Wilkinson, David Earl
 - 2025-07-28 — S13 Ep 664 Vault Mondays: Feeling Thick and Bed Bases — speakers: Joe Wilkinson, David Earl
 - 2025-07-25 — S13 Ep 663 Listeners Mailbag: One Night Stands and A Quip Rampage — speakers: Alan Carr, Joe Wilkinson, David Earl
 - 2025-07-24 — S13 Ep 662: Prank Videos & Through The Keyhole — speakers: Joe Wilkinson, David Earl
 - 2025-07-23 — S13 Ep 661: Joe’s Boisterous Scaffolders — speakers: Joe’s Boisterous Scaffolders, Joe Wilkinson, David Earl
-- 2025-07-22 — S13 Ep 660: Property TV and Tour Shows — speakers: David’s old, Joe Wilkinson, David Earl
+- 2025-07-22 — S13 Ep 660: Property TV and Tour Shows — speakers: Joe Wilkinson, David Earl
 - 2025-07-21 — S13 Ep 659 Vault Mondays: Working Out Our Roles On The Podcast — speakers: Joe Wilkinson, David Earl
 - 2025-07-18 — S13 Ep 658 Listener’s Mailbag: Snake Catchers and True Crime Pods — speakers: Joe Wilkinson, David Earl
-- 2025-07-16 — S13 Ep 657: A See-Through Blouse and The Town Game — speakers: Noel Edmonds, Joe Wilkinson, David Earl
+- 2025-07-16 — S13 Ep 657: A See-Through Blouse and The Town Game — speakers: Joe Wilkinson, David Earl
 - 2025-07-14 — S13 Ep 656 Vault Mondays: Blackadder Impressions and Going Quiet — speakers: Going Quiet, Rick Mayall, Joe Wilkinson, David Earl
-- 2025-07-11 — S13 Ep 655 Listener’s Mailbag: Animal Songs and Cranleigh Celebs — speakers: Listener’s Mailbag, David’s bum, Judy Dench, Joe Wilkinson, David Earl
+- 2025-07-11 — S13 Ep 655 Listener’s Mailbag: Animal Songs and Cranleigh Celebs — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
 - 2025-07-10 — S13 Ep 654: Being Frosty and Very Busy Pubs — speakers: Joe Wilkinson, David Earl
 - 2025-07-09 — S13 Ep 653: Tummy Trouble and Young Crushes — speakers: Young Crushes, Joe Wilkinson, David Earl
 - 2025-07-08 — S13 Ep 652: Joe At The Beach And The Stick Incident — speakers: Joe Wilkinson, David Earl
-- 2025-07-07 — S13 Ep 651 Vault Mondays: Battle Of The Bands and Mid Life Crisis — speakers: Travis Perkins, Joe Wilkinson, David Earl
+- 2025-07-07 — S13 Ep 651 Vault Mondays: Battle Of The Bands and Mid Life Crisis — speakers: Joe Wilkinson, David Earl
 - 2025-07-04 — S13 Ep 650 Listener’s Mailbag: Billy Ocean and Wacaday — speakers: Billy Ocean, Joe Wilkinson, David Earl
 - 2025-07-03 — S13 Ep 649: David’s Cricket Story (Part B) and Joe’s Footie Try-Outs — speakers: David’s Cricket Story, Joe’s Footie Try-Outs, Joe Wilkinson, David Earl
 - 2025-07-02 — S13 Ep 648: Celebrating The Pod and David’s Cricket Story (Part A) — speakers: David’s Cricket Story, Joe Wilkinson, David Earl
@@ -14056,12 +13782,12 @@
 - 2025-06-27 — S13 Ep 645 Listener’s Mailbag: Dog Fouling and a Top Tier Quip — speakers: Listener’s Mailbag, Jasper Carrot, Rod Stewart, Henry Coopers, Joe Wilkinson, David Earl
 - 2025-06-26 — S13 Ep 644 - EMERGENCY - Joe's Email Is Read Out On Stick To Football Podcast — speakers: Emergency Joe, Joe Wilkinson, David Earl
 - 2025-06-26 — S13 Ep 643: Reunion Debrief and Shiatsu Massage — speakers: Joe Wilkinson, David Earl
-- 2025-06-25 — S13 Ep 642: TV Joe’s Name That TV Theme Tune — speakers: Joe’s Name, George Clooney, Joe Wilkinson, David Earl
+- 2025-06-25 — S13 Ep 642: TV Joe’s Name That TV Theme Tune — speakers: Joe’s Name, Joe Wilkinson, David Earl
 - 2025-06-24 — S13 Ep 641: Home Alone And The Craft Fair Affair — speakers: Joe Wilkinson, David Earl
 - 2025-06-23 — S13 Ep 640 Vault Mondays: Gas — speakers: Joe Wilkinson, David Earl
 - 2025-06-20 — S13 Ep 639 Listener’s Mailbag: Celeb Meets and Teaching Podding — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
 - 2025-06-19 — S13 Ep 638: Majorca Part B — speakers: Joe Wilkinson, David Earl
-- 2025-06-18 — S13 Ep 637: Rob Beckett Returns — speakers: Rob Beckett Returns, Rob Beckett, Joel Dommett, Joe Wilkinson, David Earl
+- 2025-06-18 — S13 Ep 637: Rob Beckett Returns — speakers: Rob Beckett Returns, Rob Beckett, Joe Wilkinson, David Earl
 - 2025-06-17 — S13 Ep 636: Early Starts and A Squashed Flight To Majorca — speakers: Joe Wilkinson, David Earl
 - 2025-06-16 — S13 Ep 635 Vault Mondays: Widecombe In The Moor — speakers: Joe Wilkinson, David Earl
 - 2025-06-13 — S13 Ep 634 Listener’s Mailbag: Old Bands and A Quick Quip — speakers: Joe Wilkinson, David Earl
@@ -14069,17 +13795,17 @@
 - 2025-06-11 — S13 Ep 632: What’s It Like To Have A Hangover? — speakers: Joe Wilkinson, David Earl
 - 2025-06-10 — S13 Ep 631: Sneaky House Viewings — speakers: Viewings David, Joe Wilkinson, David Earl
 - 2025-06-09 — S13 Ep 630 Vault Mondays: Paul Heaton Working In Redhill and Struggling — speakers: Paul Heaton, Joe Wilkinson, David Earl
-- 2025-06-06 — S13 Ep 629 Listeners Mailbag: Armando and A Portable Ashtray — speakers: Armando Iannucci, Laurence Llewelyn-Bowen, Judy Dench, Joe Wilkinson, David Earl
+- 2025-06-06 — S13 Ep 629 Listeners Mailbag: Armando and A Portable Ashtray — speakers: Armando Iannucci, Joe Wilkinson, David Earl
 - 2025-06-05 — S13 Ep 628: Mersea Island vs Wild Camping — speakers: Joe Wilkinson, David Earl
-- 2025-06-04 — S12 Ep 627: All-Inclusive Holidays and Whispering — speakers: All-Inclusive Holidays, Robert De Niro, Joe Wilkinson, David Earl
+- 2025-06-04 — S12 Ep 627: All-Inclusive Holidays and Whispering — speakers: All-Inclusive Holidays, Joe Wilkinson, David Earl
 - 2025-06-03 — S12 Ep 626: Volunteering and Being A Prat — speakers: Joe Wilkinson, David Earl
 - 2025-06-02 — S12 Ep 625 Vault Mondays: Guest - Goldie — speakers: Joe Wilkinson, David Earl
-- 2025-05-30 — S12 Ep 624 Listener’s Mailbag: Gardeners And Magicians — speakers: chatabix Insta, Joe Wilkinson, David Earl
+- 2025-05-30 — S12 Ep 624 Listener’s Mailbag: Gardeners And Magicians — speakers: Joe Wilkinson, David Earl
 - 2025-05-29 — S12 Ep 623: David’s Clapham Wood Challenge — speakers: Joe Wilkinson, David Earl
 - 2025-05-28 — S12 Ep 622: The Rotten Cherry — speakers: Joe Wilkinson, David Earl
 - 2025-05-27 — S12 Ep 621: Thorpe Park Debrief — speakers: Joe Wilkinson, David Earl
 - 2025-05-26 — S12 Ep 620 Vault Mondays: A Day In The Life Of Polperro Joe — speakers: Joe Wilkinson, David Earl
-- 2025-05-23 — S12 Ep 619 Listener’s Mailbag: A Letter From Oz and Pot Smokers — speakers: Ronnie Barker, Joe Wilkinson, David Earl
+- 2025-05-23 — S12 Ep 619 Listener’s Mailbag: A Letter From Oz and Pot Smokers — speakers: Joe Wilkinson, David Earl
 - 2025-05-22 — S12 Ep 618: TV Joe’s Straight Road Of Fibs Quiz — speakers: Joe Wilkinson, David Earl
 - 2025-05-21 — S12 Ep 617: David At The Gym and The Gladiators — speakers: Joe Wilkinson, David Earl
 - 2025-05-20 — S12 Ep 616: The Countdown Set and Listing Celebrity Sightings — speakers: Joe Wilkinson, David Earl
@@ -14095,111 +13821,111 @@
 - 2025-05-01 — NATALIE PALAMIDES - ADVERT ADVERT ADVERT — speakers: Joe Wilkinson, David Earl
 - 2025-05-01 — S12 Ep 606: Feeling Great and More MMUs — speakers: Joe Wilkinson, David Earl
 - 2025-04-30 — S12 Ep 605: David’s Birthday and Buying Clothes — speakers: David’s Birthday, Joe Wilkinson, David Earl
-- 2025-04-29 — S12 Ep 604: Joe’s MMU Go-Karting — speakers: Mystery Meet, Coffee Dude, Joe Wilkinson, David Earl
+- 2025-04-29 — S12 Ep 604: Joe’s MMU Go-Karting — speakers: Mystery Meet, Joe Wilkinson, David Earl
 - 2025-04-28 — S12 Ep 603 Vault Mondays: The Bathroom and Bong Bong The Cow — speakers: Bong Bong, Joe Wilkinson, David Earl
-- 2025-04-25 — S12 Ep 602 Listener’s Mailbag: Chatabiscuit Jingles and Ronnie Barker’s Letter — speakers: Ronnie Barker’s Letter Digging, Ronny Barker, Joe Wilkinson, David Earl
-- 2025-04-24 — S12 Ep 601: A Curry Quiz and Farting Masseuses — speakers: Joe Wilkinson, David Earl
+- 2025-04-25 — S12 Ep 602 Listener’s Mailbag: Chatabiscuit Jingles and Ronnie Barker’s Letter — speakers: Ronnie Barker’s Letter Digging, Joe Wilkinson, David Earl
+- 2025-04-24 — S12 Ep 601: A Curry Quiz and Farting Masseuses — speakers: Curry Quiz, Farting Masseuses David, Joe Wilkinson, David Earl
 - 2025-04-23 — S12 Ep 600: David’s Bad B&Q Attitude — speakers: Joe Wilkinson, David Earl
 - 2025-04-22 — S12 Ep 599: Joe’s Tennis Court Opening — speakers: Joe Wilkinson, David Earl
-- 2025-04-21 — S12 Ep 598 Vault Monday’s: The Talent Agency Pilot — speakers: Joe Wilkinson, David Earl
+- 2025-04-21 — S12 Ep 598 Vault Monday’s: The Talent Agency Pilot — speakers: Vault Monday, Joe Wilkinson, David Earl
 - 2025-04-18 — S12 Ep 597 Listener’s Mailbag: Happy Happy Girl and Beach Huts — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
 - 2025-04-17 — S12 Ep 596: Joe In Paris and 50s Angst — speakers: Joe Wilkinson, David Earl
 - 2025-04-16 — S12 Ep 595: Graffiti and Stan Laurel’s House — speakers: Stan Laurel, Joe Wilkinson, David Earl
-- 2025-04-15 — S12 Ep 594: Cheddar Gorge and Longleat Safari Park — speakers: Following David, Cheddar Gorge, Longleat Safari Park, Joe Wilkinson, David Earl
+- 2025-04-15 — S12 Ep 594: Cheddar Gorge and Longleat Safari Park — speakers: Following David, Joe Wilkinson, David Earl
 - 2025-04-14 — S12 Ep 593 Vault Monday’s: Canal Thursdays #1 — speakers: Joe Wilkinson, David Earl
-- 2025-04-11 — S12 Ep 592 Listener’s Mailbag: Galaxy Pugs and Joe Singing — speakers: Joe Singing, Joe’s Galaxy Pugs, Joe Wilkinson, David Earl
+- 2025-04-11 — S12 Ep 592 Listener’s Mailbag: Galaxy Pugs and Joe Singing — speakers: Joe Singing, Joe Wilkinson, David Earl
 - 2025-04-10 — S12 Ep 591: A Visit to Beatrix Potter’s House — speakers: Beatrix Potter, Joe Wilkinson, David Earl
 - 2025-04-09 — S12 Ep 590 Surprise Guest: Keith Brymer Jones - host of The Great Pottery Throw Down — speakers: Keith Brymer, Joe Wilkinson, David Earl
 - 2025-04-08 — S12 Ep 589: The Return of Andy Goldstein — speakers: Joe Wilkinson, David Earl
 - 2025-04-07 — S12 Ep 588 Vault Mondays: The Weatherperson Auditions — speakers: Joe Wilkinson, David Earl
 - 2025-04-04 — S12 Ep 587 Listener’s Mailbag: The Beach Dildo and Breath Coaching — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
-- 2025-04-03 — S12 Ep 586: Volunteering and Mother's Day Balloons — speakers: Park Run, Joe Wilkinson, David Earl
+- 2025-04-03 — S12 Ep 586: Volunteering and Mother's Day Balloons — speakers: Joe Wilkinson, David Earl
 - 2025-04-02 — S12 Ep 585: Vigilante Joe and A Pottery Visit — speakers: Vigilante Joe, Joe Wilkinson, David Earl
 - 2025-04-01 — S12 Ep 584: Being 50 and Speaking French — speakers: Joe Wilkinson, David Earl
 - 2025-03-31 — S12 Ep 583 Vault Mondays: Incredibly Tired and Rusty Lee — speakers: Rusty Lee, Cilla Black, Joe Wilkinson, David Earl
-- 2025-03-28 — S12 Ep 582 Listener’s Mailbag: Litter Blogs & Haunted Beds — speakers: David’s Zoom, Joe Wilkinson, David Earl
+- 2025-03-28 — S12 Ep 582 Listener’s Mailbag: Litter Blogs & Haunted Beds — speakers: Joe Wilkinson, David Earl
 - 2025-03-27 — S12 Ep 581: Joe’s 50th Birthday - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2025-03-26 — S12 Ep 580: Joe’s 50th Birthday - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2025-03-25 — S12 Ep 579: Barney The Dog and The Pod Date Game — speakers: Joe Wilkinson, David Earl
 - 2025-03-24 — S12 Ep 578 Vault Mondays: Our Female Versions and Boxing — speakers: Joe Wilkinson, David Earl
-- 2025-03-21 — S12 Ep 577 Listener’s Mailbag: Quips Quips Quips — speakers: Judy Dench, Noel Edmonds, Ground Force, Joe Wilkinson, David Earl
-- 2025-03-20 — S12 Ep 576: Ideas Cards and The Americana Sessions — speakers: David’s Americana Sessions, Joe Wilkinson, David Earl
-- 2025-03-19 — S12 Ep 575: The Podmasters Quiz — speakers: Quiz Joe, Comedy Chart, Joe Wilkinson, David Earl
+- 2025-03-21 — S12 Ep 577 Listener’s Mailbag: Quips Quips Quips — speakers: Judy Denc, Joe Wilkinson, David Earl
+- 2025-03-20 — S12 Ep 576: Ideas Cards and The Americana Sessions — speakers: Joe Wilkinson, David Earl
+- 2025-03-19 — S12 Ep 575: The Podmasters Quiz — speakers: Quiz Joe, Joe Wilkinson, David Earl
 - 2025-03-18 — S12 Ep 574: Joe’s Baking Course — speakers: Joe Wilkinson, David Earl
 - 2025-03-17 — S12 Ep 573 Vault Mondays: Learning The Game Of Cricket and Personal Trainers — speakers: Joe Wilkinson, David Earl
-- 2025-03-14 — S12 Ep 572: Listener's Mailbag - Top 50 Eps & Pyramind — speakers: Bella Emberg, Joe Wilkinson, David Earl
+- 2025-03-14 — S12 Ep 572: Listener's Mailbag - Top 50 Eps & Pyramind — speakers: Joe Wilkinson, David Earl
 - 2025-03-13 — S12 Ep 571: Joe’s MMU Report Card — speakers: Joe Wilkinson, David Earl
 - 2025-03-12 — S12 Ep 570: More Pottery Throw Down — speakers: Joe Wilkinson, David Earl
 - 2025-03-11 — S12 Ep 569: Walking vs Rock Climbing — speakers: Bolt Head, Joe Wilkinson, David Earl
 - 2025-03-10 — S12 Ep 568 Vault Mondays: Performance Nerves and Nana Pud Pud — speakers: Nana Pud Pud, Joe Wilkinson, David Earl
-- 2025-03-07 — S12 Ep 567 Listener’s Mailbag: The Chanctonbury Ring & Celebrity Stories — speakers: Andy Parsons, Joe Wilkinson, David Earl
+- 2025-03-07 — S12 Ep 567 Listener’s Mailbag: The Chanctonbury Ring & Celebrity Stories — speakers: Joe Wilkinson, David Earl
 - 2025-03-06 — S12 Ep 566: Well Done Me — speakers: Joe Wilkinson, David Earl
 - 2025-03-05 — S12 Ep 565: Surprise Guest Time — speakers: Joe Wilkinson, David Earl
 - 2025-03-04 — S12 Ep 564: Calling The Police and A Pod Story Game — speakers: Joe Wilkinson, David Earl
-- 2025-03-03 — S12 Ep 563 Vault Mondays: Happy Happy Girl - The Complete Works — speakers: Joe Wilkinson, David Earl
+- 2025-03-03 — S12 Ep 563 Vault Mondays: Happy Happy Girl - The Complete Works — speakers: Vault Mondays, Happy Happy Girl, Joe Wilkinson, David Earl
 - 2025-02-28 — S12 Ep 562 Listener’s Mailbag - iPhones & Footballers — speakers: Joe Wilkinson, David Earl
-- 2025-02-27 — S12 Ep 561: Joe’s Birthday Lunch Video — speakers: Joe’s Birthday Lunch Video, Paul Gorton Chatabix, Rob Beckett, Joe Wilkinson, David Earl
-- 2025-02-26 — S12 Ep 560: TV Joe’s Weakest Link — speakers: TV Joe, Anne Robinson, Mezz Coleman, Joe Wilkinson, David Earl
+- 2025-02-27 — S12 Ep 561: Joe’s Birthday Lunch Video — speakers: Joe’s Birthday Lunch Video, Paul Gorton Chatabi, Joe Wilkinson, David Earl
+- 2025-02-26 — S12 Ep 560: TV Joe’s Weakest Link — speakers: TV Joe, Joe Wilkinson, David Earl
 - 2025-02-25 — S12 Ep 559: Roller Coaster Re-bookings — speakers: Joe Wilkinson, David Earl
 - 2025-02-24 — S12 Ep 558 Vault Mondays: Guest - Rob Beckett — speakers: Rob Beckett, Joe Wilkinson, David Earl
-- 2025-02-21 — S12 Ep 557 Listener’s Mailbag: Gardeners & Washing Machines — speakers: Joe Wilkinson, David Earl
+- 2025-02-21 — S12 Ep 557 Listener’s Mailbag: Gardeners & Washing Machines — speakers: Washing Machines Well, Joe Wilkinson, David Earl
 - 2025-02-20 — S12 Ep 556: Being Nude and Why We Pod — speakers: Joe Wilkinson, David Earl
 - 2025-02-19 — S12 Ep 555: Ginger Biscuits, Aquariums and Public Interactions — speakers: Joe Wilkinson, David Earl
-- 2025-02-18 — S12 Ep 554: Keep It Joyful — speakers: Will Andrews, Joe Wilkinson, David Earl
+- 2025-02-18 — S12 Ep 554: Keep It Joyful — speakers: Joe Wilkinson, David Earl
 - 2025-02-17 — S12 Ep 553 Vault Mondays: Joe Does Some Press Ups and Patrons Call In — speakers: Joe Wilkinson, David Earl
-- 2025-02-14 — S12 Ep 552 Listener’s Mailbag: Great Grans and True Crime — speakers: Barry Morris, Joe Wilkinson, David Earl
+- 2025-02-14 — S12 Ep 552 Listener’s Mailbag: Great Grans and True Crime — speakers: Great Grans, Surrey Down, Joe Wilkinson, David Earl
 - 2025-02-13 — S12 Ep 551: Canal Chat with Georgie — speakers: Joe Wilkinson, David Earl
 - 2025-02-12 — S12 Ep 550: Toe Yoga and Feeling Untethered — speakers: Joe Wilkinson, David Earl
 - 2025-02-11 — S12 Ep 549: Share The Wealth — speakers: Joe Wilkinson, David Earl
 - 2025-02-10 — S12 Ep 548 Vault Mondays: Omar Sharif's House and Water Slides — speakers: Vault Mondays, Omar Sharif, Joe Wilkinson, David Earl
-- 2025-02-07 — S12 Ep 547 Listener’s Mailbag: The British Museum and Muscle Music — speakers: Parenting Hell, Joe Wilkinson, David Earl
+- 2025-02-07 — S12 Ep 547 Listener’s Mailbag: The British Museum and Muscle Music — speakers: Joe Wilkinson, David Earl
 - 2025-02-06 — S12 Ep 546: Ditching The iPhone — speakers: Joe Wilkinson, David Earl
-- 2025-02-05 — S12 Ep 545: David’s Flu and Joe In The Sauna — speakers: David’s Flu, Mystery Meet, Joe Wilkinson, David Earl
+- 2025-02-05 — S12 Ep 545: David’s Flu and Joe In The Sauna — speakers: David’s Flu, Joe Wilkinson, David Earl
 - 2025-02-04 — S12 Ep 544: David’s Prostate Problems — speakers: David’s Prostate Problems, Joe Wilkinson, David Earl
-- 2025-02-03 — S12 Ep 543 Vault Mondays: Actor and Impressionist Terry Mynott — speakers: Terry Mynott, Joe Wilkinson, David Earl
+- 2025-02-03 — S12 Ep 543 Vault Mondays: Actor and Impressionist Terry Mynott — speakers: Terry Mynott, Terry Mynot, Joe Wilkinson, David Earl
 - 2025-01-31 — S12 Ep 542 Listener’s Mailbag: Funerals and Spas — speakers: Ken Campbell, Joe Wilkinson, David Earl
-- 2025-01-30 — S12 Ep 541: Yoga and Judy Dench — speakers: Judy Dench, David’s Yoga, Joe Wilkinson, David Earl
+- 2025-01-30 — S12 Ep 541: Yoga and Judy Dench — speakers: Judy Dench, Joe Wilkinson, David Earl
 - 2025-01-29 — S12 Ep 540: What’s Your Sin and Woodcutter Jackets — speakers: Joe Wilkinson, David Earl
-- 2025-01-28 — S12 Ep 539: David’s Pottery Throw Down - Part 2 — speakers: David’s Pottery, Celebrity Bake Off, Joe Wilkinson, David Earl
-- 2025-01-27 — S12 Ep 538 Vault Mondays: Ambition and Hotmail Roulette — speakers: Hotmail Roulette, Peter Thraft, Joe Wilkinson, David Earl
+- 2025-01-28 — S12 Ep 539: David’s Pottery Throw Down - Part 2 — speakers: David’s Pottery, Joe Wilkinson, David Earl
+- 2025-01-27 — S12 Ep 538 Vault Mondays: Ambition and Hotmail Roulette — speakers: Hotmail Roulette, Joe Wilkinson, David Earl
 - 2025-01-24 — S12 Ep 537: Listener’s Mailbag: Jaws Analysis and Tackling Litterers — speakers: Joe Wilkinson, David Earl
-- 2025-01-23 — S12 Ep 536: David’s Pottery Throw Down - Part 1 — speakers: David’s Pottery, Ellie Taylor, Joe Wilkinson, David Earl
+- 2025-01-23 — S12 Ep 536: David’s Pottery Throw Down - Part 1 — speakers: David’s Pottery, Joe Wilkinson, David Earl
 - 2025-01-22 — S12 Ep 535: Paul Gorton Returns — speakers: Paul Gorton Returns, Paul Gorton, Joe Wilkinson, David Earl
-- 2025-01-21 — S12 Ep 534: Chatabix Towers Comes Tumbling Down — speakers: Chatabix Towers, Joe Wilkinson, David Earl
+- 2025-01-21 — S12 Ep 534: Chatabix Towers Comes Tumbling Down — speakers: Joe Wilkinson, David Earl
 - 2025-01-20 — S12 Ep 533 Vault Mondays: Postman Pat and Take That Play Nirvana — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2025-01-17 — S12 Ep 532 Listener’s Mailbag: Chatabiscuit Tracks and Cruise Ship Tales — speakers: Joe Wilkinson, David Earl
-- 2025-01-16 — S12 Ep 531: The Singing Coach (with Eyes On Legs) — speakers: Daniel Reid aka, David’s Chatabix, Joe Wilkinson, David Earl
+- 2025-01-16 — S12 Ep 531: The Singing Coach (with Eyes On Legs) — speakers: Joe Wilkinson, David Earl
 - 2025-01-15 — S12 Ep 530: David’s Roachford Cover — speakers: David’s Roachford Cover, Joe Wilkinson, David Earl
 - 2025-01-14 — S12 Ep 529: Life Admin and VR Podcasts — speakers: Joe Wilkinson, David Earl
 - 2025-01-13 — S12 Ep 528 Vault Mondays: Guest - Paul Chowdhry — speakers: Paul Chowdhry, Joe Wilkinson, David Earl
-- 2025-01-10 — S12 Ep 527 Listener’s Mailbag: Bakery Tales and SAS Grandads — speakers: Joe Wilkinson, David Earl
+- 2025-01-10 — S12 Ep 527 Listener’s Mailbag: Bakery Tales and SAS Grandads — speakers: Bakery Tales, Joe Wilkinson, David Earl
 - 2025-01-09 — S12 Ep 526: Even More Old Jobs — speakers: Joe Wilkinson, David Earl
 - 2025-01-08 — S12 Ep 525: More Gyms and Antigua Memories — speakers: Joe Wilkinson, David Earl
 - 2025-01-07 — S12 Ep 524: Joe’s Book of Quips — speakers: Joe Wilkinson, David Earl
-- 2025-01-06 — S12 Ep 523 Vault Mondays: Being Skinny and Lunch With Linda Lusardi — speakers: Linda Lusardi, Andrew Roachford, Chris Tarrant, Joe Wilkinson, David Earl
-- 2024-12-23 — S12 Ep 522: The 2024 Christmas Show — speakers: Joe Wilkinson, David Earl
+- 2025-01-06 — S12 Ep 523 Vault Mondays: Being Skinny and Lunch With Linda Lusardi — speakers: Linda Lusardi, Joe Wilkinson, David Earl
+- 2024-12-23 — S12 Ep 522: The 2024 Christmas Show — speakers: Joe hav, Joe Wilkinson, David Earl
 - 2024-12-20 — S12 Ep 521: Listener’s Mailbag Christmas Edition — speakers: Christmas Edition, Joe Wilkinson, David Earl
 - 2024-12-19 — S12 Ep 520: TV Joe’s Festive Christmas Quiz — speakers: Joe Wilkinson, David Earl
-- 2024-12-18 — S12 Ep 519: Our Christmas Special with Natalie Cassidy — speakers: Natalie Cassidy, ho ho, Joe Wilkinson, David Earl
-- 2024-12-17 — S12 Ep 518: Listing Comedians Names from the Chortle Website K to N — speakers: Joe Wilkinson, David Earl
+- 2024-12-18 — S12 Ep 519: Our Christmas Special with Natalie Cassidy — speakers: Natalie Cassidy, Joe Wilkinson, David Earl
+- 2024-12-17 — S12 Ep 518: Listing Comedians Names from the Chortle Website K to N — speakers: Listing Comedians Names, Chortle Website, Joe Wilkinson, David Earl
 - 2024-12-16 — S12 Ep 517 Vault Mondays: We're Number 1 In The Podcast Charts!!! — speakers: Joe Wilkinson, David Earl
-- 2024-12-13 — S12 Ep 516 Listener’s Mailbag 2: Rich in Chichester & The Humble Bee — speakers: Port Isaac, Joe Wilkinson, David Earl
-- 2024-12-12 — S12 Ep 515: Using Gyms and 80’s Bodybuilding — speakers: Bill Kazmaier training, Joe Wilkinson, David Earl
+- 2024-12-13 — S12 Ep 516 Listener’s Mailbag 2: Rich in Chichester & The Humble Bee — speakers: Joe Wilkinson, David Earl
+- 2024-12-12 — S12 Ep 515: Using Gyms and 80’s Bodybuilding — speakers: Joe Wilkinson, David Earl
 - 2024-12-11 — S12 Ep 514: Baking Bread With Joe — speakers: Joe Wilkinson, David Earl
-- 2024-12-10 — S12 Ep 513: Cokey-Z and Snipers Ally — speakers: Joe Wilkinson, David Earl
+- 2024-12-10 — S12 Ep 513: Cokey-Z and Snipers Ally — speakers: Snipers Ally First, Joe Wilkinson, David Earl
 - 2024-12-09 — S12 Ep 512 Vault Mondays: Chockablock and Stalkers — speakers: Vault Mondays, Joe Wilkinson, David Earl
-- 2024-12-06 — S12 Ep 511 Listener’s Mailbag 1: Canal Boats & Music Shop Rows — speakers: Joe Wilkinson, David Earl
+- 2024-12-06 — S12 Ep 511 Listener’s Mailbag 1: Canal Boats & Music Shop Rows — speakers: Canal Boats, Music Shop Rows New, Joe Wilkinson, David Earl
 - 2024-12-05 — S12 Ep 510: The Return of the Surprise Guest Episodes — speakers: Joe Wilkinson, David Earl
 - 2024-12-04 — S12 Ep 509: Mystery Meet Ups and The Cafe Boys — speakers: Joe Wilkinson, David Earl
-- 2024-12-03 — S12 Ep 508: Our First Episode Back! — speakers: Wembley Arena, Joe Wilkinson, David Earl
+- 2024-12-03 — S12 Ep 508: Our First Episode Back! — speakers: Joe Wilkinson, David Earl
 - 2024-12-02 — S12 Ep 507 Vault Mondays: The Wizard Of Woof — speakers: Joe Wilkinson, David Earl
 - 2024-11-25 — S11 Ep 506 Vault Mondays: The 100th Episode — speakers: Joe Wilkinson, David Earl
-- 2024-11-18 — S11 Ep 505 Vault Mondays: Joe's Music Library and Becoming A Model — speakers: Ben Rufus Green, Joe Wilkinson, David Earl
+- 2024-11-18 — S11 Ep 505 Vault Mondays: Joe's Music Library and Becoming A Model — speakers: Ben Rufus Gree, Joe Wilkinson, David Earl
 - 2024-11-11 — S11 Ep 504 Vault Mondays: Learning Sea Shanties with Vyvyan Our Weatherman — speakers: Joe Wilkinson, David Earl
-- 2024-11-04 — S11 Ep 503 Vault Mondays: Impressions Competition and A Surprise Guest — speakers: Joe Wilkinson, David Earl
-- 2024-10-28 — S11 Ep 502 Vault Mondays: The Final Episode — speakers: Joe Wilkinson, David Earl
-- 2024-10-24 — S11 Ep 501 Bonus Vault Episode: Guest - Richard Osman — speakers: Richard Osman, Joe Wilkinson, David Earl
-- 2024-10-23 — S11 Ep 500 Series Finale: Listener’s Mailbag 9 — speakers: Noel Edmonds old, Joe Wilkinson, David Earl
+- 2024-11-04 — S11 Ep 503 Vault Mondays: Impressions Competition and A Surprise Guest — speakers: Vault Mondays, Impressions Competition, Joe Wilkinson, David Earl
+- 2024-10-28 — S11 Ep 502 Vault Mondays: The Final Episode — speakers: Vault Mondays, Vault Monday, Joe Wilkinson, David Earl
+- 2024-10-24 — S11 Ep 501 Bonus Vault Episode: Guest - Richard Osman — speakers: Joe Wilkinson, David Earl
+- 2024-10-23 — S11 Ep 500 Series Finale: Listener’s Mailbag 9 — speakers: Joe Wilkinson, David Earl
 - 2024-10-22 — S11 Ep 499: Patreon Swinger Stories — speakers: Joe Wilkinson, David Earl
 - 2024-10-21 — S11 Ep 498 Vault Mondays: David Pranks Joe — speakers: David Pranks Joe, Joe Wilkinson, David Earl
 - 2024-10-18 — S11 Ep 497 Friday Treat: Listener’s Mailbag 8 — speakers: Joe Wilkinson, David Earl
@@ -14207,29 +13933,29 @@
 - 2024-10-16 — S11 Ep 495: Searching For Swingers — speakers: Joe Wilkinson, David Earl
 - 2024-10-15 — S11 Ep 494: Joe Goes to London — speakers: Joe Goes, Zooms David, Joe Wilkinson, David Earl
 - 2024-10-14 — S11 Ep 493 Vault Mondays: Joe Takes An IQ Test — speakers: Joe Wilkinson, David Earl
-- 2024-10-11 — S11 Ep 492 Friday Treat: Listener’s Mailbag 7 — speakers: Joe Wilkinson, David Earl
-- 2024-10-10 — S11 Ep 491: The Secret Housework Quiz — speakers: Rob Beckett, Joe Wilkinson, David Earl
-- 2024-10-09 — S11 Ep 490: Old Christmas Promos and Quipping Less — speakers: Joe Wilkinson, David Earl
-- 2024-10-08 — S11 Ep 489: David Home Alone and Doing Housework — speakers: David Home Alone, Will Naomi, Joe Wilkinson, David Earl
+- 2024-10-11 — S11 Ep 492 Friday Treat: Listener’s Mailbag 7 — speakers: Friday Treat, Joe Wilkinson, David Earl
+- 2024-10-10 — S11 Ep 491: The Secret Housework Quiz — speakers: Joe Wilkinson, David Earl
+- 2024-10-09 — S11 Ep 490: Old Christmas Promos and Quipping Less — speakers: Old Christmas Promos, Joe Wilkinson, David Earl
+- 2024-10-08 — S11 Ep 489: David Home Alone and Doing Housework — speakers: David Home Alone, Joe Wilkinson, David Earl
 - 2024-10-07 — S11 Ep 488 Vault Mondays: Wearing Makeup and Teenage Songs — speakers: Wearing Makeup, Joe Wilkinson, David Earl
-- 2024-10-04 — S11 Ep 487 Friday Treat: Listener’s Mailbag 6 — speakers: Joe Wilkinson, David Earl
+- 2024-10-04 — S11 Ep 487 Friday Treat: Listener’s Mailbag 6 — speakers: Friday Treat, Joe Wilkinson, David Earl
 - 2024-10-03 — S11 Ep 486: David's Regrettable Dance Floor Adventures — speakers: Joe Wilkinson, David Earl
-- 2024-10-02 — S11 Ep 485: We Talk To Andrew Who Has Had A Heart Attack — speakers: Andrew White, Thankfully Andrew, Joe Wilkinson, David Earl
+- 2024-10-02 — S11 Ep 485: We Talk To Andrew Who Has Had A Heart Attack — speakers: Joe Wilkinson, David Earl
 - 2024-10-01 — S11 Ep 484: Being Alone and Driving Altercations — speakers: Joe Wilkinson, David Earl
-- 2024-09-30 — S11 Ep 483 Vault Mondays: Mark Roberts - The Greatest Streaker In The World — speakers: Greatest Streaker, Mark Roberts, Joe Wilkinson, David Earl
-- 2024-09-27 — S11 Ep 482 Friday Treat: Listener’s Mailbag 5 — speakers: Joe Wilkinson how, Joe Wilkinson, David Earl
-- 2024-09-26 — S11 Ep 481 Regular Guest: TV Joe and a ‘Name That Age’ Quiz — speakers: Richard Osmond, Joe Wilkinson, David Earl
+- 2024-09-30 — S11 Ep 483 Vault Mondays: Mark Roberts - The Greatest Streaker In The World — speakers: Greatest Streaker, Joe Wilkinson, David Earl
+- 2024-09-27 — S11 Ep 482 Friday Treat: Listener’s Mailbag 5 — speakers: Joe Wilkinso, Joe Wilkinson, David Earl
+- 2024-09-26 — S11 Ep 481 Regular Guest: TV Joe and a ‘Name That Age’ Quiz — speakers: Joe Wilkinson, David Earl
 - 2024-09-25 — S11 Ep 480: The Drugs Episode — speakers: Joe Wilkinson, David Earl
-- 2024-09-24 — S11 Ep 479: The Isle of White, the RNLI and a Relocation Gameshow — speakers: David Walliams, Joe Wilkinson, David Earl
-- 2024-09-20 — S11 Ep 478: Friday Treat: Listener’s Mailbag 4 — speakers: Massive Attack, Joe Wilkinson, David Earl
+- 2024-09-24 — S11 Ep 479: The Isle of White, the RNLI and a Relocation Gameshow — speakers: Relocation Gameshow Joe, Joe Wilkinson, David Earl
+- 2024-09-20 — S11 Ep 478: Friday Treat: Listener’s Mailbag 4 — speakers: Friday Treat, Joe Wilkinson, David Earl
 - 2024-09-19 — S11 Ep 477: Back to St Ives, More Art & A Chat With A Patreon — speakers: St Ives, Joe Wilkinson, David Earl
-- 2024-09-18 — S11 Ep 476: New Pens and Pod Art - Part 2 — speakers: Bob Dylan, Joe Wilkinson, David Earl
-- 2024-09-17 — S11 Ep 475: New Pens and Pod Art - Part 1 — speakers: Linda Lusardi, Joe Wilkinson, David Earl
-- 2024-09-13 — S11 Ep 474 Friday Treat: Listener’s Mailbag 3 — speakers: Joe’s Pyramid, van hassles, John Challis, Joe Wilkinson, David Earl
-- 2024-09-12 — S11 Ep 473 Regular Guest: Natalie Cassidy with an Eastenders Quiz — speakers: Natalie Cassidy, Ricky Gervais, Joe Wilkinson, David Earl
-- 2024-09-11 — S11 Ep 472: Tales from the St Ives Museum — speakers: Cornish Pasty, Joe Wilkinson, David Earl
+- 2024-09-18 — S11 Ep 476: New Pens and Pod Art - Part 2 — speakers: Joe Wilkinson, David Earl
+- 2024-09-17 — S11 Ep 475: New Pens and Pod Art - Part 1 — speakers: New Pens, Pod Art, Joe Wilkinson, David Earl
+- 2024-09-13 — S11 Ep 474 Friday Treat: Listener’s Mailbag 3 — speakers: Friday Treat, Only Fool, Joe Wilkinson, David Earl
+- 2024-09-12 — S11 Ep 473 Regular Guest: Natalie Cassidy with an Eastenders Quiz — speakers: Natalie Cassidy, Joe Wilkinson, David Earl
+- 2024-09-11 — S11 Ep 472: Tales from the St Ives Museum — speakers: St Ives Museum During, St Ives Museum, Joe Wilkinson, David Earl
 - 2024-09-10 — S11 Ep 471: David’s Cancelled Walk — speakers: Joe Wilkinson, David Earl
-- 2024-09-06 — S11 Ep 470 Friday Treat: Listener’s Mailbag 2 — speakers: Paul Foot, Ibizan Chatabiscuits, Joe Wilkinson, David Earl
+- 2024-09-06 — S11 Ep 470 Friday Treat: Listener’s Mailbag 2 — speakers: Friday Treat, Joe Wilkinson, David Earl
 - 2024-09-05 — S11 Ep 469 Regular Guest: Andy Goldstein (The Nine-Ball Pool King!) — speakers: Andy Goldstein, Joe Wilkinson, David Earl
 - 2024-09-04 — S11 Ep 468: David’s At The Dentist Again - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2024-09-03 — S11 Ep 467: David’s At The Dentist Again - Part 1 — speakers: Joe Wilkinson, David Earl
@@ -14238,14 +13964,14 @@
 - 2024-08-28 — S11 Ep 464: David’s Beautiful Bath Tour Part 2 — speakers: David’s Beautiful Bath Tour, Joe Wilkinson, David Earl
 - 2024-08-27 — S11 Ep 463: David’s Beautiful Bath Tour Part 1 — speakers: David’s Beautiful Bath Tour, Joe Wilkinson, David Earl
 - 2024-08-22 — S11 Ep 462: David’s Bought A Cold Tub — speakers: Joe Wilkinson, David Earl
-- 2024-08-21 — S11 Ep 461 Special Guest: Tim Oliver - The David Brent Impersonator — speakers: David Brent, Tim Oliver, Ricky Gervais, Joe Wilkinson, David Earl
+- 2024-08-21 — S11 Ep 461 Special Guest: Tim Oliver - The David Brent Impersonator — speakers: David Brent, Tim Oliver, Joe Wilkinson, David Earl
 - 2024-08-20 — S11 Ep 460: Thinking About Getting A Dog — speakers: Joe Wilkinson, David Earl
 - 2024-08-16 — S11 Ep 459 Friday Treat: Pub Jokes 6 — speakers: Joe Wilkinson, David Earl
 - 2024-08-15 — S11 Ep 458 Regular Guest: TV Joe’s Name That Theme — speakers: Joe’s Name, Joe Wilkinson, David Earl
 - 2024-08-14 — S11 Ep 457: David Goes To The Dentist — speakers: David Goes, Joe Wilkinson, David Earl
 - 2024-08-13 — S11 Ep 456 Drivel 19: Eleven Podcast Discussion Points — speakers: Joe Wilkinson, David Earl
-- 2024-08-09 — S11 Ep 455 Friday Treat: Coin-Toss Snooker Final — speakers: Oakley Perky, Joe Wilkinson, David Earl
-- 2024-08-08 — S11 Ep 454: Usual Drivel: A Female Joe and Getting Older — speakers: Female Joe, Getting Older, Joe’s th, Joe Wilkinson, David Earl
+- 2024-08-09 — S11 Ep 455 Friday Treat: Coin-Toss Snooker Final — speakers: Friday Treat, Toss Snooker Tournament, Joe Wilkinson, David Earl
+- 2024-08-08 — S11 Ep 454: Usual Drivel: A Female Joe and Getting Older — speakers: Female Joe, Getting Older, Joe Wilkinson, David Earl
 - 2024-08-07 — S11 Ep 453: The Constable of Camping - Joe Goes Camping Pt 2 — speakers: Joe Wilkinson, David Earl
 - 2024-08-06 — S11 Ep 452 Usual Drivel: Joe Goes Camping Pt 1 — speakers: Joe Wilkinson, David Earl
 - 2024-08-02 — S11 Ep 451 Friday Treat: The Podcast Charts Quiz — speakers: Joe Wilkinson, David Earl
@@ -14253,280 +13979,280 @@
 - 2024-07-31 — S11 Ep 449 Usual Drivel: Pembrokeshire and House Extensions — speakers: Joe Wilkinson, David Earl
 - 2024-07-30 — S11 Ep 448 Usual Drivel: David’s New Bathroom Chaos — speakers: Joe Wilkinson, David Earl
 - 2024-07-25 — S11 Ep 447 Regular Guest: TV Joe's Family Fortunes — speakers: Joe Wilkinson, David Earl
-- 2024-07-24 — S11 Ep 446 Usual Drivel: The Wedding Speech Debrief — speakers: Gary Neville, Joe Wilkinson, David Earl
+- 2024-07-24 — S11 Ep 446 Usual Drivel: The Wedding Speech Debrief — speakers: Joe Wilkinson, David Earl
 - 2024-07-23 — S11 Ep 445 Usual Drivel: The Day Before David’s Best Man Speech — speakers: Joe Wilkinson, David Earl
 - 2024-07-21 — S10 Ep 444 Friday Treat: Pub Jokes 5 — speakers: Joe Wilkinson, David Earl
 - 2024-07-18 — S10 Ep 443 Ad Hoc Drivel: David Goes To Watch The National — speakers: David Goes, Joe Wilkinson, David Earl
 - 2024-07-17 — S10 Ep 442 Ad Hoc Drivel: Joe at the Ibiza Proms — speakers: Joe Wilkinson, David Earl
-- 2024-07-16 — S10 Ep 441 Back Catalogue Guest: Parkrun founder Paul Sinton-Hewitt — speakers: Paul Sinton, Paul Sinton-Hewit, Joe Wilkinson, David Earl
-- 2024-07-12 — S10 Ep 440 Friday Treat: Coin Toss Snooker - The Semi-Finals — speakers: Oakley Perky, Joe Wilkinson, David Earl
+- 2024-07-16 — S10 Ep 441 Back Catalogue Guest: Parkrun founder Paul Sinton-Hewitt — speakers: Paul Sinton, Joe Wilkinson, David Earl
+- 2024-07-12 — S10 Ep 440 Friday Treat: Coin Toss Snooker - The Semi-Finals — speakers: Friday Treat, Coin Toss Snooker, Chatabix Coin, Toss Snooker Tournament, Joe Wilkinson, David Earl
 - 2024-07-11 — S10 Ep 439 (BONUS!): Joe's Review Of The Euro Semi Final — speakers: Joe Wilkinson, David Earl
 - 2024-07-11 — S10 Ep 438: David’s Trip To London — speakers: David’s Trip, Joe Wilkinson, David Earl
 - 2024-07-10 — S10 Ep437 (BONUS!): Where's Joe Now - Bonus episode! — speakers: Joe Now, Joe Wilkinson, David Earl
-- 2024-07-10 — S10 Ep 436 Ad Hoc Drivel: One Belter Of An Episode! — speakers: Natalie Imbruglia, Daley Thompson, James Blunt, Joe Wilkinson, David Earl
+- 2024-07-10 — S10 Ep 436 Ad Hoc Drivel: One Belter Of An Episode! — speakers: Ad Hoc Drivel, Joe Wilkinson, David Earl
 - 2024-07-09 — S10 Ep 435 Back Catalogue Guest: Lee Mack Part 2 — speakers: Lee Mack, Joe Wilkinson, David Earl
-- 2024-07-05 — S10 Ep 434 Friday Treat: Pub Jokes 4 — speakers: Joe Wilkinson, David Earl
-- 2024-07-04 — S10 Ep 433 Regular Guest: John Fendley aka Fenners — speakers: John Fendley, Soccer Aid, Joe Wilkinson, David Earl
+- 2024-07-05 — S10 Ep 434 Friday Treat: Pub Jokes 4 — speakers: Friday Treat, Pub Jokes, Joe Wilkinson, David Earl
+- 2024-07-04 — S10 Ep 433 Regular Guest: John Fendley aka Fenners — speakers: John Fendley, Joe Wilkinson, David Earl
 - 2024-07-03 — S10 Ep 432 Ad Hoc Drivel: Insta Live Podding & Rollercoaster Club — speakers: Joe Wilkinson, David Earl
-- 2024-07-02 — S10 Ep 431 Back Catalogue Guest: Lee Mack Part 1 — speakers: Lee Mack, Joe Wilkinson, David Earl
+- 2024-07-02 — S10 Ep 431 Back Catalogue Guest: Lee Mack Part 1 — speakers: Lee Mac, Joe Wilkinson, David Earl
 - 2024-06-28 — S10 Ep 430 Friday Treat: Coin-Toss Snooker Tournament Round 2 — speakers: Joe Wilkinson, David Earl
-- 2024-06-27 — S10 Ep 429 Special Guest: Kiell Smith-Bynoe — speakers: Kiell Smith-Bynoe, Kool Story Bro, Joe Wilkinson, David Earl
+- 2024-06-27 — S10 Ep 429 Special Guest: Kiell Smith-Bynoe — speakers: Kiell Smith-Bynoe, Joe Wilkinson, David Earl
 - 2024-06-26 — S10 Ep 428 Ad Hoc Drivel: David’s 120 Mile Walk — speakers: Joe Wilkinson, David Earl
 - 2024-06-25 — S10 Ep 427 Back Catalogue Guest: Sue Johnston — speakers: Sue Johnston, Joe Wilkinson, David Earl
 - 2024-06-21 — S10 Ep 426 Friday Treat: Pub Jokes Galore! — speakers: Joe Wilkinson, David Earl
 - 2024-06-20 — S10 Ep 425 Regular Guest: TV Joe’s Name That Tune — speakers: Joe’s Name, Joe Wilkinson, David Earl
 - 2024-06-19 — S10 Ep 424 Ad Hoc Drivel: Joe’s Rollercoaster Ticket — speakers: Joe’s Rollercoaster Ticket Joe, Joe Wilkinson, David Earl
-- 2024-06-18 — S10 Ep 423 Back Catalogue Guest: Roachford — speakers: Stevie Wonder, Gary Barlow, Joe Wilkinson, David Earl
+- 2024-06-18 — S10 Ep 423 Back Catalogue Guest: Roachford — speakers: Joe Wilkinson, David Earl
 - 2024-06-14 — S10 Ep 422 Friday Treat: Pub Cryptic Crossword — speakers: Joe Wilkinson, David Earl
 - 2024-06-13 — S10 Ep 421 Regular Guest: Natalie Cassidy is back! — speakers: Natalie Cassidy, Joe Wilkinson, David Earl
 - 2024-06-12 — S10 Ep 420 Ad Hoc Drivel: Moving to Bath? — speakers: Joe Wilkinson, David Earl
 - 2024-06-11 — S10 Ep 419 Back Catalogue Guest: Lol Tolhurst — speakers: Lol Tolhurst, Joe Wilkinson, David Earl
-- 2024-06-07 — S10 Ep 418 Friday Treat: More Old Pub Jokes — speakers: Joe Wilkinson, David Earl
+- 2024-06-07 — S10 Ep 418 Friday Treat: More Old Pub Jokes — speakers: Friday Treat, More Old Pub Jokes, Joe Wilkinson, David Earl
 - 2024-06-06 — S10 Ep 417 Ad Hoc Drivel: Joe’s Hair and David’s Canal Holiday — speakers: Joe’s Hair, Joe Wilkinson, David Earl
-- 2024-06-05 — S10 Ep 416 Ad Hoc Drivel: Joe’s Canal Walk — speakers: Tiff Stevenson, Jimmy McGhie, Joe Wilkinson, David Earl
-- 2024-06-04 — S10 Ep 415 Back Catalogue Guest: Stuart Goldsmith — speakers: Stuart Goldsmith, Joe Wilkinson, David Earl
-- 2024-05-30 — S10 Ep 414: Joe and Paul at the BAFTAs — speakers: Paul Gorton, Stephen Merchant, Joe Wilkinson, David Earl
+- 2024-06-05 — S10 Ep 416 Ad Hoc Drivel: Joe’s Canal Walk — speakers: Joe Wilkinson, David Earl
+- 2024-06-04 — S10 Ep 415 Back Catalogue Guest: Stuart Goldsmith — speakers: Stuart Goldsmith, Stuart Goldsmi, Joe Wilkinson, David Earl
+- 2024-05-30 — S10 Ep 414: Joe and Paul at the BAFTAs — speakers: Joe Wilkinson, David Earl
 - 2024-05-29 — S10 Ep 413 Ad Hoc Drivel: Telling Jokes — speakers: Joe Wilkinson, David Earl
 - 2024-05-28 — S10 Ep 412 Back Catalogue Guest: Tim Vine — speakers: Tim Vine, Joe Wilkinson, David Earl
 - 2024-05-23 — S10 Ep 411 Ad Hoc Drivel: Not Showing Off — speakers: Jamie Demetriou, Joe Wilkinson, David Earl
-- 2024-05-22 — S10 Ep 410 Ad Hoc Drivel: Chatabix +30 and Rob Beckett Live! — speakers: Rob Beckett, Joe Wilkinson, David Earl
+- 2024-05-22 — S10 Ep 410 Ad Hoc Drivel: Chatabix +30 and Rob Beckett Live! — speakers: Joe Wilkinson, David Earl
 - 2024-05-21 — S10 Ep 409 Back Catalogue Guest: Paul Foot — speakers: Paul Foot, Joe Wilkinson, David Earl
 - 2024-05-16 — S10 Ep 408 Ad Hoc Drivel: Coin Toss Snooker Tournament — speakers: Joe Wilkinson, David Earl
 - 2024-05-15 — S10 Ep 407 Ad Hoc Drivel: A Flat Tyre and A Leaving Present — speakers: Joe Wilkinson, David Earl
 - 2024-05-14 — S10 Ep 406 Back Catalogue Guest: James O’Brien — speakers: James O’Brien, Joe Wilkinson, David Earl
-- 2024-05-08 — S10 Ep 405 Specialist Guest - Detectorist Nigel Richardson — speakers: Nigel Richardson David, Nigel Richardson, Buy Nigel, Joe Wilkinson, David Earl
-- 2024-05-07 — S10 Ep 404 Specialist Guest - Police Officer James — speakers: James Joe, Luckily James, Joe Wilkinson, David Earl
+- 2024-05-08 — S10 Ep 405 Specialist Guest - Detectorist Nigel Richardson — speakers: Nigel Richardson David, Nigel Richardson, Joe Wilkinson, David Earl
+- 2024-05-07 — S10 Ep 404 Specialist Guest - Police Officer James — speakers: James Joe, Joe Wilkinson, David Earl
 - 2024-05-01 — S10 Ep 403 Where's David Now ? Cosy spaces and a cuppa — speakers: David Now, Joe Wilkinson, David Earl
-- 2024-04-30 — S10 Ep 402 Pranksters Josh Pieters & Archie Manners — speakers: Katie Hopkins, Joe Wilkinson, David Earl
+- 2024-04-30 — S10 Ep 402 Pranksters Josh Pieters & Archie Manners — speakers: Pranksters Josh Pieters, Josh Pieters, Archie Manners, Joe Wilkinson, David Earl
 - 2024-04-25 — S10 Ep 401 Where's Joe Now ? Living His Best Life — speakers: Joe Now, Joe Wilkinson, David Earl
 - 2024-04-24 — S10 Ep 400 Gabby Logan - Celebrity Guest — speakers: Joe Wilkinson, David Earl
 - 2024-04-23 — S10 Ep 399 Usual Drivel: The Gardening Tour Continues — speakers: Joe Wilkinson, David Earl
 - 2024-04-18 — S10 Ep 398 Where's Joe Now ? Having The Time Of His Life. — speakers: Joe Now, Joe Wilkinson, David Earl
-- 2024-04-17 — S10 Ep 397 Ted Robbins - Celeb Guest — speakers: Ted Robbins Celeb Guest, Ted Robbins, Paul McCartney, John Lennon, Joe Wilkinson, David Earl
+- 2024-04-17 — S10 Ep 397 Ted Robbins - Celeb Guest — speakers: Ted Robbins Celeb Guest, Ted Robbins, Joe Wilkinson, David Earl
 - 2024-04-16 — S10 Ep 396 Usual Drivel: A Tour of David's Old Gardening Round — speakers: Joe Wilkinson, David Earl
-- 2024-04-11 — S10 Ep 395 Joe's out running again trying to beat his 1k record. — speakers: Steve Ovett, Adventure Pods, Joe Wilkinson, David Earl
+- 2024-04-11 — S10 Ep 395 Joe's out running again trying to beat his 1k record. — speakers: Joe Wilkinson, David Earl
 - 2024-04-10 — S10 Ep 394 It's David's turn for a Surprise Guest ! Who can it be ? — speakers: Joe Wilkinson, David Earl
-- 2024-04-09 — S10 Ep 393 Usual Drivel: David's gets an unexpected box of detectorist goodies — speakers: Carry Bag, Joe Wilkinson, David Earl
-- 2024-04-04 — S10 Ep 392 This Is Your Podlife with TV JOE - David's 50th Birthday Surprise — speakers: Joe David, Neil Webster, Ben Rufus-Green, Vyvyan Almond, Ed Gamble, Steve Coogan, Terry Mynett, Steve Davis
+- 2024-04-09 — S10 Ep 393 Usual Drivel: David's gets an unexpected box of detectorist goodies — speakers: Joe Wilkinson, David Earl
+- 2024-04-04 — S10 Ep 392 This Is Your Podlife with TV JOE - David's 50th Birthday Surprise — speakers: Joe David, Joe Wilkinson, David Earl
 - 2024-04-03 — S10 Ep 391 Roisin Conaty - Celeb Guest — speakers: Roisin Conaty, Joe Wilkinson, David Earl
-- 2024-04-02 — S10 Ep 390 Usual Drivel: Showing Off On The Peloton — speakers: Nicky Clarke, Dry Robe, Joe Wilkinson, David Earl
+- 2024-04-02 — S10 Ep 390 Usual Drivel: Showing Off On The Peloton — speakers: Joe Wilkinson, David Earl
 - 2024-03-28 — S10 Ep 389 Fenners Fashion Advice For Middle Aged Men — speakers: Joe Wilkinson, David Earl
 - 2024-03-27 — S10 Ep 388 It's Joe's Turn For A Surprise Guest - Who Can It Be ? — speakers: Joe Wilkinson, David Earl
-- 2024-03-26 — S10 Ep 387 Usual Drivel: Getting Some Vinyl In The Post — speakers: Mezz Coleman, Joe Wilkinson, David Earl
-- 2024-03-21 — S10 Ep 386 David's Out Hunting For Gold - Metal Detecting part 3 — speakers: Allen Key, Joe Wilkinson, David Earl
-- 2024-03-20 — S10 Ep 385 Lolly Adefope - Celebrity Guest — speakers: Lolly Adefope, Tom Cruise, Paul Gorton, Joe Wilkinson, David Earl
+- 2024-03-26 — S10 Ep 387 Usual Drivel: Getting Some Vinyl In The Post — speakers: Usual Drivel, Mezz Colem, Joe Wilkinson, David Earl
+- 2024-03-21 — S10 Ep 386 David's Out Hunting For Gold - Metal Detecting part 3 — speakers: Joe Wilkinson, David Earl
+- 2024-03-20 — S10 Ep 385 Lolly Adefope - Celebrity Guest — speakers: Lolly Adefope, Joe Wilkinson, David Earl
 - 2024-03-19 — S10 Ep 384 David's 50th Surprise Pressie - Metal Detecting part 2 — speakers: Joe Wilkinson, David Earl
-- 2024-03-14 — S10 Ep 383 Scared of the Farmer - Metal Detecting with David part 1 — speakers: Joe Wilkinson, David Earl
-- 2024-03-13 — S10 Ep 382 Alex Lowe - Celeb Guest — speakers: Guest David, Alex Lowe, Peter Kaye, Steve Wright, Iain Lee, Clinton Baptiste, Joe Wilkinson, David Earl
-- 2024-03-12 — S10 Ep 381 Usual Drivel: Rudderless Old Men With New Hobbies — speakers: Nat Cassidy, Joe Wilkinson, David Earl
+- 2024-03-14 — S10 Ep 383 Scared of the Farmer - Metal Detecting with David part 1 — speakers: hobby bu, Joe Wilkinson, David Earl
+- 2024-03-13 — S10 Ep 382 Alex Lowe - Celeb Guest — speakers: Guest David, Alex Lowe, Joe Wilkinson, David Earl
+- 2024-03-12 — S10 Ep 381 Usual Drivel: Rudderless Old Men With New Hobbies — speakers: Joe Wilkinson, David Earl
 - 2024-03-07 — S10 Ep 380 Where's Joe Now ? It's Cold, Wet and Wavy. — speakers: Joe Wilkinson, David Earl
-- 2024-03-06 — S10 Ep 379 Tommie Trelawny & The Worlds Hardest Puzzle - Specialist Guest — speakers: Tommie Trelawny, Nicky Anderson, Joe Wilkinson, David Earl
-- 2024-03-05 — S10 Ep 378 Usual Drivel: The Old Lady Who Flirted With David — speakers: Sticky Beard, Joe Wilkinson, David Earl
-- 2024-03-03 — S10 Ep 377 RISING STAR Ep 2 - with Paul Gorton — speakers: Paul Gorton, King Paul, Joe Wilkinson, David Earl
-- 2024-02-29 — S10 Ep 376 Where's David Now ? Folklore of the Moor — speakers: David Now, Josh Widdicombe, Joe Wilkinson, David Earl
-- 2024-02-28 — S10 Ep 375 The Magic Mod: Specialist Guest — speakers: Ben Taylor, Paul Weller, Pete Doherty, Jonestown Massacare, Alan McGee, com TaylorMod, Joe Wilkinson, David Earl
-- 2024-02-27 — S10 Ep 374: Usual Drivel - Worrying about our interviewing technique — speakers: Josh Widdicombe, Rob Beckett, Joe Wilkinson, David Earl
-- 2024-02-22 — S10 Ep 373 Andy Goldstein impressions & magic tricks - Regular Guest — speakers: Helen Mirren, Joe Wilkinson, David Earl
-- 2024-02-21 — S10 Ep 372 Sally Lindsay - Celeb Guest — speakers: Guest David, Sally Lindsay, Bobby Ball, Joe Wilkinson, David Earl
+- 2024-03-06 — S10 Ep 379 Tommie Trelawny & The Worlds Hardest Puzzle - Specialist Guest — speakers: Tommie Trelawny, Joe Wilkinson, David Earl
+- 2024-03-05 — S10 Ep 378 Usual Drivel: The Old Lady Who Flirted With David — speakers: Joe Wilkinson, David Earl
+- 2024-03-03 — S10 Ep 377 RISING STAR Ep 2 - with Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-02-29 — S10 Ep 376 Where's David Now ? Folklore of the Moor — speakers: David Now, Joe Wilkinson, David Earl
+- 2024-02-28 — S10 Ep 375 The Magic Mod: Specialist Guest — speakers: Ben Taylor, Joe Wilkinson, David Earl
+- 2024-02-27 — S10 Ep 374: Usual Drivel - Worrying about our interviewing technique — speakers: Joe Wilkinson, David Earl
+- 2024-02-22 — S10 Ep 373 Andy Goldstein impressions & magic tricks - Regular Guest — speakers: Joe Wilkinson, David Earl
+- 2024-02-21 — S10 Ep 372 Sally Lindsay - Celeb Guest — speakers: Guest David, Sally Lindsay, Joe Wilkinson, David Earl
 - 2024-02-20 — S10 Ep 371 Usual Drivel: Not really talking about David's Peloton — speakers: Joe Wilkinson, David Earl
-- 2024-02-15 — S10 Ep 370 Juicing and multiple kitchens with Natalie Cassidy - Regular Guest — speakers: Guest David, Natalie Cassidy, Joe Wilkinson, David Earl
+- 2024-02-15 — S10 Ep 370 Juicing and multiple kitchens with Natalie Cassidy - Regular Guest — speakers: Guest David, Natalie Cass, Joe Wilkinson, David Earl
 - 2024-02-14 — S10 Ep 369: Our lovely wives - Valentines Special — speakers: Joe Wilkinson, David Earl
 - 2024-02-13 — S10 Ep 368 Usual Drivel: Joe admits he wants to go dancing — speakers: Joe Wilkinson, David Earl
-- 2024-02-09 — S10 Ep 367 Soccer AM's John Fendley 'Fenners' part 2 - Celeb Guest — speakers: John Fendley Fenners, Jimmy Bullard, Bootsale Bobby, Joe Wilkinson, David Earl
+- 2024-02-09 — S10 Ep 367 Soccer AM's John Fendley 'Fenners' part 2 - Celeb Guest — speakers: John Fendley Fenners, John Fendley Fenner, Joe Wilkinson, David Earl
 - 2024-02-08 — S10 Ep 366 David goes bunker hunting with WW2 historian Andrew Chatterton — speakers: Andrew Chatterton, WW Historian, Joe Wilkinson, David Earl
-- 2024-02-07 — S10 Ep 365: Soccer AM legend John "Fenners" - Celeb Guest — speakers: Guest Joe, John Fendley, Glenn Hoddle, David Beckham, Joe Wilkinson, David Earl
+- 2024-02-07 — S10 Ep 365: Soccer AM legend John "Fenners" - Celeb Guest — speakers: Guest Joe, John Fendley, Joe Wilkinson, David Earl
 - 2024-02-06 — S10 Ep 364 Usual Drivel: Pay back for Antigua beach spotting — speakers: Joe Wilkinson, David Earl
-- 2024-02-02 — S10 Ep 363 RISING STAR: Pilot episode with Paul Gorton — speakers: Paul Gorton, Mark Wright, Alison Hammond, Joe David, Joe Wilkinson, David Earl
+- 2024-02-02 — S10 Ep 363 RISING STAR: Pilot episode with Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-02-01 — S10 Ep 362 TV JOE'S got a quiz - Regular Guest — speakers: Joe Wilkinson, David Earl
-- 2024-01-31 — S10 Ep 361 Usual Drivel: TV Joe's on the pod but David's at the spa — speakers: Natalie Cassidy, David take Naomi, Joe Wilkinson, David Earl
+- 2024-01-31 — S10 Ep 361 Usual Drivel: TV Joe's on the pod but David's at the spa — speakers: Joe Wilkinson, David Earl
 - 2024-01-30 — S10 Ep 360 Regular guest Paul Gorton is back in the bosom — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-25 — S10 Ep 359 Where's Joe Now: Backstage at Off Menu Live — speakers: James Acaster, Ed Gamble, Joe Wilkinson, David Earl
+- 2024-01-25 — S10 Ep 359 Where's Joe Now: Backstage at Off Menu Live — speakers: Joe Wilkinson, David Earl
 - 2024-01-24 — S10 Ep 358 Specialist Guests: New York Comedy Writer Big Wigs — speakers: Kevin Bleyer, Doug Abeles, Joe Wilkinson, David Earl
 - 2024-01-23 — S10 Ep 357 Usual Drivel: David spotted in Antigua — speakers: Joe Wilkinson, David Earl
-- 2024-01-19 — S10 Ep 356 Emergency Pod: Review Ep 8 'The Traitors' — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-18 — S10 Ep 355 Emergency Pod: Dissecting Ep 7 ' The Traitors' — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-18 — S10 Ep 354 Battle Of The Chatabands Final — speakers: Steve Baker, Simon Price, Simon Cowell, Lisa Osborne, Mezz Coleman, Joe Wilkinson, David Earl
+- 2024-01-19 — S10 Ep 356 Emergency Pod: Review Ep 8 'The Traitors' — speakers: Emergency Pod, Joe Wilkinson, David Earl
+- 2024-01-18 — S10 Ep 355 Emergency Pod: Dissecting Ep 7 ' The Traitors' — speakers: Joe Wilkinson, David Earl
+- 2024-01-18 — S10 Ep 354 Battle Of The Chatabands Final — speakers: Joe Wilkinson, David Earl
 - 2024-01-17 — S10 Ep 353 Jon Pointing - Celeb Guest — speakers: Jon Pointing, Joe Wilkinson, David Earl
 - 2024-01-16 — S10 Ep 352 Usual Drivel: David Is Spotted In The Coop — speakers: Joe Wilkinson, David Earl
-- 2024-01-15 — S10 Ep 351 Emergency Pod: Discussing Ep 6 'The Traitors' — speakers: Claudia Winkleman, Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-12 — S10 Ep 350 Emergency Pod: Debriefing Ep 5 with Maddy 'The Traitors' — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-11 — S10 Ep 349 Emergency Pod: Delving in to Traitors Ep 4 — speakers: Paul Gorton, Tall Paul, Joe Wilkinson, David Earl
+- 2024-01-15 — S10 Ep 351 Emergency Pod: Discussing Ep 6 'The Traitors' — speakers: Joe Wilkinson, David Earl
+- 2024-01-12 — S10 Ep 350 Emergency Pod: Debriefing Ep 5 with Maddy 'The Traitors' — speakers: Joe Wilkinson, David Earl
+- 2024-01-11 — S10 Ep 349 Emergency Pod: Delving in to Traitors Ep 4 — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-11 — S10 Ep 348 Usual Drivel: Joe Goes Running — speakers: Joe Goes Running, Joe Wilkinson, David Earl
-- 2024-01-10 — S10 Ep 347 Specialist Guest: Floor Manager Tony Guyan — speakers: Tony Guyan, John Cleese, Bernard Cribbins, Joe Wilkinson, David Earl
+- 2024-01-10 — S10 Ep 347 Specialist Guest: Floor Manager Tony Guyan — speakers: Tony Guyan, Joe Wilkinson, David Earl
 - 2024-01-09 — S10 Ep 346 Usual Drivel: David Goes Running — speakers: David Goes Running David, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton — speakers: Paul Gorton, Noel Edmunds, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton — speakers: Paul Gorton, Richard Madeley, Nick Knowles, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Noel Edmunds, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton — speakers: Paul Gorton, Noel Edmunds, Joe Wilkinson, David Earl
-- 2024-01-08 — S10 Ep 341. Emergency Pod: Deep Dive Ep 3 The Traitors — speakers: Deep Dive, Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-05 — S10 Ep 340 Emergency Pod: Dissecting Ep 2 The Traitors — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-04 — S10 Ep 339 Emergency Pod: Debrief Traitors Ep 1 — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-04 — S10 Ep 338 Usual Drivel: David Denies Trashing A Hotel — speakers: Talk Sport, Andy Goldstein, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — S10 Ep 341. Emergency Pod: Deep Dive Ep 3 The Traitors — speakers: Deep Dive, Joe Wilkinson, David Earl
+- 2024-01-05 — S10 Ep 340 Emergency Pod: Dissecting Ep 2 The Traitors — speakers: Joe Wilkinson, David Earl
+- 2024-01-04 — S10 Ep 339 Emergency Pod: Debrief Traitors Ep 1 — speakers: Joe Wilkinson, David Earl
+- 2024-01-04 — S10 Ep 338 Usual Drivel: David Denies Trashing A Hotel — speakers: Joe Wilkinson, David Earl
 - 2024-01-03 — S10 Ep 337 Dynamite In A Can (Special Ep) — speakers: Joe Wilkinson, David Earl
 - 2024-01-03 — S10 Ep 336 Usual Drivel: Joe Is Embarrassed Of Doing Stand up, David Is Embarrassed Of Twitch — speakers: Joe Wilkinson, David Earl
 - 2024-01-02 — S10 Ep 335 Usual Drivel: David Gets His Body Out On Holiday — speakers: Joe Wilkinson, David Earl
-- 2023-12-21 — S9 Ep 334 Christmas Special — speakers: Christmas Special, Andy Goldstein, Natalie Cassidy, Paul Gorton, Steve Baker, Ho ho ho, Joe Wilkinson, David Earl
+- 2023-12-21 — S9 Ep 334 Christmas Special — speakers: Christmas Special, Joe Wilkinson, David Earl
 - 2023-12-20 — S9 Ep 333 Specialist Guest: Submariner George Aitken — speakers: George Aitken Specialist, George Aitken, Joe Wilkinson, David Earl
-- 2023-12-19 — S9 Ep 332 Usual Drivel: Listing Comedians again (G to J) — speakers: Jamie Demetriou, Joe Wilkinson, David Earl
+- 2023-12-19 — S9 Ep 332 Usual Drivel: Listing Comedians again (G to J) — speakers: Joe Wilkinson, David Earl
 - 2023-12-14 — S9 Ep 331 Battle of The Chatabands - Round 3 — speakers: Joe Wilkinson, David Earl
-- 2023-12-13 — S9 Ep 330 Jamie Demetriou - Celeb Guest — speakers: Guest Comedy, Jamie Demitriou, Craig Cash, Joe Wilkinson, David Earl
+- 2023-12-13 — S9 Ep 330 Jamie Demetriou - Celeb Guest — speakers: Guest Comedy, Jamie Demitriou, Joe Wilkinson, David Earl
 - 2023-12-12 — S9 Ep 329 Usual Drivel - Chatadates — speakers: Joe Wilkinson, David Earl
 - 2023-12-07 — S9 Ep 328 Where's Joe Now - Underground bunkers at Coleshill House — speakers: Joe Now Underground, WW Historian Andrew Chatterton, Joe Wilkinson, David Earl
-- 2023-12-06 — S9 Ep 327 Barry Hearn - Specialist Guest — speakers: Barry Hearn Specialist, Barry Hearn, Matchroom Sport, Mike Tyson, Frank Bruno, Steve Davis, Chris Eubank, Read Barry
+- 2023-12-06 — S9 Ep 327 Barry Hearn - Specialist Guest — speakers: Barry Hearn Specialist, Barry Hearn, Matchroom Sport, Joe Wilkinson, David Earl
 - 2023-12-05 — S9 Ep326 Usual Drivel - Not one but two Chrissy songs — speakers: Joe Wilkinson, David Earl
 - 2023-11-30 — S9 Ep 325: Battle Of The Chatabands - Round 2 — speakers: Steve Baker, Joe Wilkinson, David Earl
-- 2023-11-29 — S9 Ep 324: Anna Williamson & Luisa Zissman (LuAnna) - Guests — speakers: Luisa Zissman, Anna Williams, David Joe, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-11-28 — S9 Ep 323: Utter Drivel - Choccies, going on Off Menu Live & the Postman — speakers: Joe Now, Ethan Lawrence, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-11-23 — S9 Ep 322: Andy Goldstein - Regular Guest — speakers: Andy Goldstein Regular Guest, Robbie Williams, Bruce Forsyth, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-11-22 — S9 Ep 321: Simon Price 'Curepedia' - Guest — speakers: Simon Price, Ricky Gervais, Robert Smith, Find Simon, Joe Wilkinson, David Earl
-- 2023-11-21 — S9 Ep 320: Utter Drivel - Feeling grateful & Joe's surprise delivery — speakers: grateful Joe, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-11-16 — Battle of the Chatabands - round 1 — speakers: Steve Baker, Luckily Steve Baker, Lewis Capaldi, Joe Wilkinson, David Earl
-- 2023-11-15 — Natasia Demetriou - Guest — speakers: Natasia Demetriou Guest Comedy, Natasia Demitriou, David Joe, Joe Wilkinson, David Earl
-- 2023-11-14 — Usual Drivel - Weetabix & Black Adder impersonations — speakers: Robbie Williams, Rik Mayall, Joe Wilkinson, David Earl
+- 2023-11-29 — S9 Ep 324: Anna Williamson & Luisa Zissman (LuAnna) - Guests — speakers: Luisa Zissman, Anna Williams, Joe Wilkinson, David Earl
+- 2023-11-28 — S9 Ep 323: Utter Drivel - Choccies, going on Off Menu Live & the Postman — speakers: Joe Wilkinson, David Earl
+- 2023-11-23 — S9 Ep 322: Andy Goldstein - Regular Guest — speakers: Andy Goldstein Regular Guest, Joe Wilkinson, David Earl
+- 2023-11-22 — S9 Ep 321: Simon Price 'Curepedia' - Guest — speakers: Simon Price, Joe Wilkinson, David Earl
+- 2023-11-21 — S9 Ep 320: Utter Drivel - Feeling grateful & Joe's surprise delivery — speakers: grateful Joe, Joe Wilkinson, David Earl
+- 2023-11-16 — Battle of the Chatabands - round 1 — speakers: Joe Wilkinson, David Earl
+- 2023-11-15 — Natasia Demetriou - Guest — speakers: Natasia Demetriou Guest Comedy, Natasia Demitriou, Joe Wilkinson, David Earl
+- 2023-11-14 — Usual Drivel - Weetabix & Black Adder impersonations — speakers: Joe Wilkinson, David Earl
 - 2023-11-09 — Joe Goes Surfing: A damp squib — speakers: Joe Goes Surfing, Joe Wilkinson, David Earl
-- 2023-11-08 — Iain Stirling: Celeb Chataguest — speakers: Joe Wilkinson, David Earl
-- 2023-11-07 — Usual Drivel: Joe's book & one Bean. — speakers: Henry Paker, Russell Howard, Joe Wilkinson, David Earl
-- 2023-11-02 — Joe Goes Surfing - about to ride the first wave (part 3) — speakers: Joe Goes Surfing, Mark demo, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-11-01 — Surprise Guest - Who can it be ? — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-11-08 — Iain Stirling: Celeb Chataguest — speakers: Iain Stirling, Celeb Chataguest Comedian Iain, Joe Wilkinson, David Earl
+- 2023-11-07 — Usual Drivel: Joe's book & one Bean. — speakers: Henry Paker, Joe Wilkinson, David Earl
+- 2023-11-02 — Joe Goes Surfing - about to ride the first wave (part 3) — speakers: Joe Goes Surfing, Joe Wilkinson, David Earl
+- 2023-11-01 — Surprise Guest - Who can it be ? — speakers: Joe Wilkinson, David Earl
 - 2023-10-31 — Joe Goes Surfing - Meeting Rusty at Lifeguard Tower 37 (part 2) — speakers: Meeting Rusty, Joe Wilkinson, David Earl
-- 2023-10-26 — Joe Goes Surfing - the run up to the lesson (part 1) — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-10-25 — Lee Mack surprise guest (part 2) — speakers: Lee Mack, David’s Pyramind, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-10-24 — Usual Drivel - Wifi issues, brain speed & Spotify HQ — speakers: Ben Foster, James Acaster, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-10-19 — Where's David Now? David goes for a Walk — speakers: David Now, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-26 — Joe Goes Surfing - the run up to the lesson (part 1) — speakers: Joe Wilkinson, David Earl
+- 2023-10-25 — Lee Mack surprise guest (part 2) — speakers: Lee Mack, Joe Wilkinson, David Earl
+- 2023-10-24 — Usual Drivel - Wifi issues, brain speed & Spotify HQ — speakers: Joe Wilkinson, David Earl
+- 2023-10-19 — Where's David Now? David goes for a Walk — speakers: David Now, Joe Wilkinson, David Earl
 - 2023-10-18 — Surprise Guest: Who is it this time? — speakers: Joe Wilkinson, David Earl
-- 2023-10-17 — Usual Drivel: Scams, Telly & Hiking — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-17 — Usual Drivel: Scams, Telly & Hiking — speakers: Joe Wilkinson, David Earl
 - 2023-10-12 — Natalie Cassidy: Regular Guest — speakers: Natalie Cassidy, Joe Wilkinson, David Earl
-- 2023-10-11 — Russell Tovey: Celeb Chataguest — speakers: Russell Tovey, Mawaan Rizwan, Joe Wilkinson, David Earl
+- 2023-10-11 — Russell Tovey: Celeb Chataguest — speakers: Russell Tovey, Joe Wilkinson, David Earl
 - 2023-10-10 — Usual Drivel: Cornwall Step by Step — speakers: Joe Wilkinson, David Earl
-- 2023-10-05 — TV Joe's back: Regular Guest — speakers: David’s TV, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-05 — TV Joe's back: Regular Guest — speakers: Joe Wilkinson, David Earl
 - 2023-10-04 — Specialist Guest: 'The Perfection Trap' Thomas Curran — speakers: Thomas Curran, Joe Wilkinson, David Earl
-- 2023-10-03 — Usual Drivel: Camper Vanning — speakers: van lifestyle, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-09-28 — Gigging Diaries: Rosie live from a Gig — speakers: Rosie Francis, Joe David, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-10-03 — Usual Drivel: Camper Vanning — speakers: Joe Wilkinson, David Earl
+- 2023-09-28 — Gigging Diaries: Rosie live from a Gig — speakers: Rosie Francis, Joe David, Joe Wilkinson, David Earl
 - 2023-09-27 — Specialist Guest: William Orbit Music Producer — speakers: William Orbit Music, William Orbit, Joe Wilkinson, David Earl
-- 2023-09-26 — Usual Drivel : Headphones, builders, not talking about camping — speakers: Natalie Cassidy, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-09-21 — Where's Joe Now - Choo Choo ! — speakers: Joe Now Choo Choo, Joe Now, Elton John, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-09-20 — Josh Widdicombe - Celeb Chataguest — speakers: Damon Albarn, Steve Davis, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-09-19 — Usual Drivel - Jarlath's Silky Voice — speakers: Drivel Jarlath, Jarlath Regan, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-09-14 — Andy Goldstein - Regular Guest — speakers: Andy Goldstein Regular Guest, Andy Goldstein, Jane Torvill, Lee Sharpe, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-26 — Usual Drivel : Headphones, builders, not talking about camping — speakers: Joe Wilkinson, David Earl
+- 2023-09-21 — Where's Joe Now - Choo Choo ! — speakers: Joe Now Choo Choo, Joe Now, Joe Wilkinson, David Earl
+- 2023-09-20 — Josh Widdicombe - Celeb Chataguest — speakers: Joe Wilkinson, David Earl
+- 2023-09-19 — Usual Drivel - Jarlath's Silky Voice — speakers: Drivel Jarlath, Joe Wilkinson, David Earl
+- 2023-09-14 — Andy Goldstein - Regular Guest — speakers: Andy Goldstein Regular Guest, Andy Goldstein, Joe Wilkinson, David Earl
 - 2023-09-13 — Surprise Guest - Who can it be this time ? — speakers: Joe Wilkinson, David Earl
-- 2023-09-12 — Usual Drivel - Farting in Yurts, Riddles & Rhymes. — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-12 — Usual Drivel - Farting in Yurts, Riddles & Rhymes. — speakers: Usual Drivel, Joe Wilkinson, David Earl
 - 2023-09-07 — Where's David Now -The Haunted Castle — speakers: David Now, Joe Wilkinson, David Earl
-- 2023-09-06 — Jayne Torvill - Celeb Chataguest — speakers: David Joe, Jayne Torvill, Christopher Dean, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-09-06 — Jayne Torvill - Celeb Chataguest — speakers: David Joe, Jayne Torvill, Joe Wilkinson, David Earl
 - 2023-09-05 — Usual Drivel - Haunted House pre-amble — speakers: Joe Wilkinson, David Earl
-- 2023-08-31 — Paul Gorton's Lung Winded Story — speakers: Paul Gorton, Lung Winded Story Ex, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-08-30 — Specialist Guest: WW2 Historian Andrew Chatterton — speakers: WW Historian Andrew Chatterton, Historian Andrew Chatterton, David Joe, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-08-29 — S8 EP 284: The Right Move Pilot — speakers: Phil Spencer, Joe Wilkinson, David Earl
-- 2023-08-24 — It's TV Joe time - Regular Guest — speakers: David Joe, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-08-31 — Paul Gorton's Lung Winded Story — speakers: Paul Gorton, Lung Winded Story Ex, Joe Wilkinson, David Earl
+- 2023-08-30 — Specialist Guest: WW2 Historian Andrew Chatterton — speakers: WW Historian Andrew Chatterton, Historian Andrew Chatterton, Joe Wilkinson, David Earl
+- 2023-08-29 — S8 EP 284: The Right Move Pilot — speakers: Joe Wilkinson, David Earl
+- 2023-08-24 — It's TV Joe time - Regular Guest — speakers: Joe Wilkinson, David Earl
 - 2023-08-23 — Olympic Cyclist Sir Chris Hoy - Specialist Guest — speakers: Chris Hoy Specialist, Chris Hoy, Joe Wilkinson, David Earl
-- 2023-08-22 — Usual Drivel - David's Clown Film — speakers: Drivel David, George Kane, David Earl, Apocalypse Clown, Joe Wilkinson
+- 2023-08-22 — Usual Drivel - David's Clown Film — speakers: Drivel David, George Kane, Joe Wilkinson, David Earl
 - 2023-08-17 — Where's Joe Now - Allotment Special — speakers: Special Joe, Joe Wilkinson, David Earl
 - 2023-08-16 — Martin Freeman - Celeb Chataguest — speakers: Martin Freeman Celeb Chataguest, Joe Wilkinson, David Earl
-- 2023-08-15 — The Jingle, The Painting & The Chartz. — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-08-10 — Natabix with Natalie Cassidy - Regular Guest — speakers: Natalie Cassidy Regular Guest, Natalie Cassidy, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-08-09 — Boxer Chris Billam-Smith - Specialist Guest — speakers: Chris Billam-Smith Specialist Guest, Chris Billam-Smith, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-08-15 — The Jingle, The Painting & The Chartz. — speakers: Joe Wilkinson, David Earl
+- 2023-08-10 — Natabix with Natalie Cassidy - Regular Guest — speakers: Natalie Cassidy Regular Guest, Natalie Cassidy, Joe Wilkinson, David Earl
+- 2023-08-09 — Boxer Chris Billam-Smith - Specialist Guest — speakers: Chris Billam-Smith Specialist Guest, Chris Billam-Smith, Joe Wilkinson, David Earl
 - 2023-08-08 — Raving parents, Jennifer Rush, the chartz and doing a bit. — speakers: Jennifer Rush, Joe Wilkinson, David Earl
 - 2023-08-04 — David's cricket adventure - part 2 — speakers: Joe Wilkinson, David Earl
-- 2023-08-03 — CANAL THURSDAY #16 The ramblings of Robin Cooper — speakers: Robin Cooper, Robert Popper, Joe Wilkinson, David Earl
+- 2023-08-03 — CANAL THURSDAY #16 The ramblings of Robin Cooper — speakers: Robin Cooper, Joe Wilkinson, David Earl
 - 2023-08-02 — Iain Lee - Celeb Chataguest — speakers: Iain Lee, Joe Wilkinson, David Earl
-- 2023-08-01 — Professor of Criminology David Wilson - Specialist Guest — speakers: David Wilson Specialist, David Wilson, Graham Norton, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-31 — Nearly forgetting the announcement — speakers: Brian Gittins, Paul McCaffery, Joe Wilkinson, David Earl
-- 2023-07-28 — David's cricket adventure - part 1 — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-27 — Access All Areas: Blur Concert at Wembley — speakers: Blur Concert, Steve Davis, Joe Wilkinson, David Earl
+- 2023-08-01 — Professor of Criminology David Wilson - Specialist Guest — speakers: David Wilson Specialist, David Wilson, Joe Wilkinson, David Earl
+- 2023-07-31 — Nearly forgetting the announcement — speakers: Joe Wilkinson, David Earl
+- 2023-07-28 — David's cricket adventure - part 1 — speakers: Joe Wilkinson, David Earl
+- 2023-07-27 — Access All Areas: Blur Concert at Wembley — speakers: Blur Concert, Joe Wilkinson, David Earl
 - 2023-07-26 — Cricketer David Gower — speakers: David Gower, Joe Wilkinson, David Earl
 - 2023-07-25 — Royal Navy Jac Hughes - Specialist Guest — speakers: Jac Hughes Specialist, Joe Wilkinson, David Earl
-- 2023-07-24 — The Deal or No Deal memorabilia arrives — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-21 — Andy Goldstein is Good to Go — speakers: Andy Goldstein, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-20 — CANAL THURSDAY #15 Canalside Workout — speakers: Nigel Havers, Julia Davis, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-19 — Tommy Cannon - Celeb Chataguest — speakers: Tommy Cannon Celeb Chataguest, Tommy Cannon, Bobby Ball, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-18 — Prison Officer Danny Knight - Specialist Guest — speakers: Danny Knight Specialist, Danny Knight, Jaxx Radio, Joe Wilkinson, David Earl
-- 2023-07-17 — Placing our bid. Deal or No Deal Auction - final part — speakers: Joe Wilkinson, David Earl
-- 2023-07-14 — Waiting for William Orbit — speakers: William Orbit, Paul McCaffrey, Sean Walsh, Joe Wilkinson, David Earl
-- 2023-07-13 — The day of the Sheffield Park Run — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-12 — Connor Swindells - Celeb Chataguest — speakers: Connor Swindells Celeb Chataguest, Connor Swindells, Will Ferrell, Joe Wilkinson, David Earl
-- 2023-07-11 — Emmanuel Asuquo - Finance Wiz: Specialist Guest — speakers: Emmanuel Asuquo, Find Emmanuel, Joe Wilkinson, David Earl
-- 2023-07-10 — Amusing ourselves: Deal or No Deal memorabilia auction - part 3 — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-07 — Paul Gorton is back: the Deal Or No Deal chapters — speakers: Paul Gorton, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-06 — Where's Joe Now - Football Special — speakers: Joe Now Football Special, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-05 — Thomas Turgoose - Celeb Chataguest — speakers: Thomas Turgoose Celeb Chataguest, Thomas Turgoose, Shane Meadows, Ira Jackson Jnr, Joe Wilkinson, David Earl
-- 2023-07-04 — Musician Keaton Henson - Specialist Guest — speakers: Keaton Henson Specialist, Keaton Henson, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-07-03 — Bidding for Deal or No Deal memorabilia - part 2 — speakers: Marc Wootton, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-06-30 — Everyone loves a bit of TV Joe. — speakers: Arnold Schwarzenegger, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-06-29 — CANAL THURSDAY #14 Damsel in distress — speakers: Anna Mann played, iamcolinhoult com, Joe Wilkinson, David Earl
-- 2023-06-28 — Katherine Ryan - Celeb Chataguest — speakers: David Joe, Katherine Ryan, Below Deck, Joe Wilkinson, David Earl
+- 2023-07-24 — The Deal or No Deal memorabilia arrives — speakers: No Deal, Joe Wilkinson, David Earl
+- 2023-07-21 — Andy Goldstein is Good to Go — speakers: Andy Goldstein, Joe Wilkinson, David Earl
+- 2023-07-20 — CANAL THURSDAY #15 Canalside Workout — speakers: Joe Wilkinson, David Earl
+- 2023-07-19 — Tommy Cannon - Celeb Chataguest — speakers: Tommy Cannon Celeb Chataguest, Tommy Cannon, Bobby Ball, Joe Wilkinson, David Earl
+- 2023-07-18 — Prison Officer Danny Knight - Specialist Guest — speakers: Danny Knight Specialist, Danny Knight, Joe Wilkinson, David Earl
+- 2023-07-17 — Placing our bid. Deal or No Deal Auction - final part — speakers: No Deal Auction, No Deal, Joe Wilkinson, David Earl
+- 2023-07-14 — Waiting for William Orbit — speakers: William Orbit, Joe Wilkinson, David Earl
+- 2023-07-13 — The day of the Sheffield Park Run — speakers: Joe Wilkinson, David Earl
+- 2023-07-12 — Connor Swindells - Celeb Chataguest — speakers: Connor Swindells Celeb Chataguest, Connor Swindells, Joe Wilkinson, David Earl
+- 2023-07-11 — Emmanuel Asuquo - Finance Wiz: Specialist Guest — speakers: Emmanuel Asuquo, Joe Wilkinson, David Earl
+- 2023-07-10 — Amusing ourselves: Deal or No Deal memorabilia auction - part 3 — speakers: No Deal, Joe Wilkinson, David Earl
+- 2023-07-07 — Paul Gorton is back: the Deal Or No Deal chapters — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2023-07-06 — Where's Joe Now - Football Special — speakers: Joe Now Football Special, Joe Wilkinson, David Earl
+- 2023-07-05 — Thomas Turgoose - Celeb Chataguest — speakers: Thomas Turgoose Celeb Chataguest, Thomas Turgoose, Joe Wilkinson, David Earl
+- 2023-07-04 — Musician Keaton Henson - Specialist Guest — speakers: Keaton Henson Specialist, Keaton Henson, Joe Wilkinson, David Earl
+- 2023-07-03 — Bidding for Deal or No Deal memorabilia - part 2 — speakers: No Deal, Joe Wilkinson, David Earl
+- 2023-06-30 — Everyone loves a bit of TV Joe. — speakers: Joe Wilkinson, David Earl
+- 2023-06-29 — CANAL THURSDAY #14 Damsel in distress — speakers: Joe Wilkinson, David Earl
+- 2023-06-28 — Katherine Ryan - Celeb Chataguest — speakers: David Joe, Katherine Ryan, Joe Wilkinson, David Earl
 - 2023-06-27 — Sailor Tracy Edwards MBE - Specialist Guest — speakers: Tracy Edwards Mbe, Joe Wilkinson, David Earl
 - 2023-06-26 — Bidding for Deal or No Deal Memorabilia — speakers: Joe Wilkinson, David Earl
-- 2023-06-23 — Middle aged grafters — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-06-22 — Crucible Adventures part 4 - in the belly — speakers: Steve Davis, Jimmy White, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-23 — Middle aged grafters — speakers: Joe Wilkinson, David Earl
+- 2023-06-22 — Crucible Adventures part 4 - in the belly — speakers: Joe Wilkinson, David Earl
 - 2023-06-21 — Crucible Adventures part 3 - today's the day — speakers: Joe Wilkinson, David Earl
-- 2023-06-20 — Crucible Adventures part 2 - don't take crisps in — speakers: Andy Goldstein, Uncle Andy, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-06-19 — Crucible Adventures part 1 - giddy with excitement — speakers: Andy Goldstein, Joe Wilkinson, David Earl
-- 2023-06-16 — Not recording an intro for the new series. — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-06-15 — Canal Thursday #13 The Maiden Voyage — speakers: Roger Babbage Quantock, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-20 — Crucible Adventures part 2 - don't take crisps in — speakers: Joe Wilkinson, David Earl
+- 2023-06-19 — Crucible Adventures part 1 - giddy with excitement — speakers: Joe Wilkinson, David Earl
+- 2023-06-16 — Not recording an intro for the new series. — speakers: Joe Wilkinson, David Earl
+- 2023-06-15 — Canal Thursday #13 The Maiden Voyage — speakers: Joe Wilkinson, David Earl
 - 2023-06-14 — Canal Thursday #12 Mr Taylor's massive cwumble — speakers: Joe Wilkinson, David Earl
-- 2023-06-13 — Canal Thursday #11 Old timer Eddie Phillips — speakers: Eddie Phillips, Mateus Rose, Patrick Duffy, Alex Lowe, Joe Wilkinson, David Earl
+- 2023-06-13 — Canal Thursday #11 Old timer Eddie Phillips — speakers: Eddie Phillips, Joe Wilkinson, David Earl
 - 2023-06-12 — Canal Thursday #10 Brother Paul visits the boat — speakers: Joe Wilkinson, David Earl
-- 2023-06-09 — Canal Thursday #9 Davide Darood's boat cleaning services — speakers: Lemony Zing, Greg McHugh, Gary Tank, Joe Wilkinson, David Earl
-- 2023-06-08 — Canal Thursday #8 Edward meets with an accident — speakers: Ian Dale, John Kearns, Joe Wilkinson, David Earl
-- 2023-06-07 — Canal Thursday #7 Doing a deal with Mr Taylor — speakers: Taylor David Joe, Noddy Holder, Joe Wilkinson, David Earl
-- 2023-06-06 — Canal Thursday #6 Buying red setters from Mr Cooper — speakers: Peter Lake, Robert Popper Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-06-09 — Canal Thursday #9 Davide Darood's boat cleaning services — speakers: Canal Thursday, Davide Darood, Joe Wilkinson, David Earl
+- 2023-06-08 — Canal Thursday #8 Edward meets with an accident — speakers: Joe Wilkinson, David Earl
+- 2023-06-07 — Canal Thursday #7 Doing a deal with Mr Taylor — speakers: Taylor David Joe, Joe Wilkinson, David Earl
+- 2023-06-06 — Canal Thursday #6 Buying red setters from Mr Cooper — speakers: Joe Wilkinson, David Earl
 - 2023-06-05 — Canal Thursday #5 Boat ownership responsibilities — speakers: Joe Wilkinson, David Earl
-- 2023-06-02 — Canal Thursday #4 Mrs Falconio's boat — speakers: Mrs Falconio, Anna Crilly, Joe Wilkinson, David Earl
-- 2023-06-01 — Canal Thursday #3 Meeting Mr Taylor — speakers: Taylor David, Avocado Attack, Joe Wilkinson, David Earl
+- 2023-06-02 — Canal Thursday #4 Mrs Falconio's boat — speakers: Mrs Falconio, Joe Wilkinson, David Earl
+- 2023-06-01 — Canal Thursday #3 Meeting Mr Taylor — speakers: Taylor David, Joe Wilkinson, David Earl
 - 2023-05-31 — Canal Thursday #2 Visiting Rothley to view the boat — speakers: Joe Wilkinson, David Earl
 - 2023-05-30 — Canal Thursday #1 Buying a boat — speakers: Joe Wilkinson, David Earl
-- 2023-04-14 — End Of Series Finale with TV Joe — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-04-13 — The Murder Capital — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-04-12 — Andy Goldstein - Snooker Loopy — speakers: Loopy David, Andy Goldstein, Chris Eubanks, Jimmy White, Joe Wilkinson, David Earl
-- 2023-04-11 — Specialist Guest: Mark Pusey RNLI Volunteer — speakers: Volunteer David, Elton John, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-04-14 — End Of Series Finale with TV Joe — speakers: Joe Wilkinson, David Earl
+- 2023-04-13 — The Murder Capital — speakers: Joe Wilkinson, David Earl
+- 2023-04-12 — Andy Goldstein - Snooker Loopy — speakers: Loopy David, Andy Goldstein, Joe Wilkinson, David Earl
+- 2023-04-11 — Specialist Guest: Mark Pusey RNLI Volunteer — speakers: Volunteer David, Joe Wilkinson, David Earl
 - 2023-04-10 — Our game show idea Pyramind — speakers: Joe Wilkinson, David Earl
 - 2023-04-07 — Dissecting the Roachford interview — speakers: Follow Chatabix, Joe Wilkinson, David Earl
 - 2023-04-06 — Where's David Now ? — speakers: David Now, Joe Wilkinson, David Earl
-- 2023-04-05 — Nats Bollox - Natalie Cassidy is back ! — speakers: Nats Bollox Natalie Cassidy, Natalie Cassidy, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-04-04 — Specialist Guest: Keith McCloskey author of Mystery The Lighthouse — speakers: Keith McCloskey, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-04-05 — Nats Bollox - Natalie Cassidy is back ! — speakers: Nats Bollox Natalie Cassidy, Natalie Cassidy, Joe Wilkinson, David Earl
+- 2023-04-04 — Specialist Guest: Keith McCloskey author of Mystery The Lighthouse — speakers: Keith McCloskey, Joe Wilkinson, David Earl
 - 2023-04-03 — Preparing for the Roachford dissection — speakers: Joe Wilkinson, David Earl
-- 2023-03-31 — More from TV Joe — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-31 — More from TV Joe — speakers: Joe Wilkinson, David Earl
 - 2023-03-30 — Joe's Playlist #5 — speakers: Steve Baker, Joe Wilkinson, David Earl
-- 2023-03-29 — Chatabix 2 Year Anniversary — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-28 — Guest: Neil Forsyth - writer 'The Gold' — speakers: Neil Forsyth, Brinks Mat, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-27 — Paul Gorton Wingwalking Decision Day — speakers: Paul Gorton, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-24 — Joe and David have something to ask Paul Gorton — speakers: Paul Gorton, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-23 — Where's Joe Now - Northern Ireland Special — speakers: Special Where, Joe Now, Dunluce Castle, Joe Wilkinson, David Earl
+- 2023-03-29 — Chatabix 2 Year Anniversary — speakers: Joe Wilkinson, David Earl
+- 2023-03-28 — Guest: Neil Forsyth - writer 'The Gold' — speakers: Neil Forsyth, Brinks Mat, Joe Wilkinson, David Earl
+- 2023-03-27 — Paul Gorton Wingwalking Decision Day — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2023-03-24 — Joe and David have something to ask Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2023-03-23 — Where's Joe Now - Northern Ireland Special — speakers: Special Where, Joe Now, Joe Wilkinson, David Earl
 - 2023-03-22 — Special Guest: Susie Dent — speakers: Susie Dent David, Susie Dent, Joe Wilkinson, David Earl
-- 2023-03-21 — Specialist Guest: Kirsten Pobjoy Wingwalker — speakers: Kirsten Pobjoy, Paul Gorton, Joe Wilkinson, David Earl
+- 2023-03-21 — Specialist Guest: Kirsten Pobjoy Wingwalker — speakers: Kirsten Pobjoy, Joe Wilkinson, David Earl
 - 2023-03-20 — David's birthday — speakers: Joe Wilkinson, David Earl
 - 2023-03-17 — Joes moves his office around — speakers: Joe Wilkinson, David Earl
 - 2023-03-16 — Joe's Playlist #4 — speakers: Steve Baker, Joe Wilkinson, David Earl
-- 2023-03-15 — Surprise Guest: Who Can It Be ? — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-14 — Guest: TV Producer John Lloyd — speakers: John Lloyd TV, John LLoyd, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-13 — David's eating plan and Armando Iannucci — speakers: Armando Iannucci, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-03-15 — Surprise Guest: Who Can It Be ? — speakers: Joe Wilkinson, David Earl
+- 2023-03-14 — Guest: TV Producer John Lloyd — speakers: John Lloyd TV, John LLoyd, Joe Wilkinson, David Earl
+- 2023-03-13 — David's eating plan and Armando Iannucci — speakers: Armando Iannucci, Joe Wilkinson, David Earl
 - 2023-03-10 — Paul Gorton: Deal or No Deal (not the Finale) — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2023-03-09 — David has an announcement — speakers: Joe Wilkinson, David Earl
 - 2023-03-08 — Guest: Armando Iannucci — speakers: Armando Iannucci Joe, Armando Iannucci, Joe Wilkinson, David Earl
-- 2023-03-07 — Running motivation with Tom Wheatley — speakers: Tom Wheatley, Park Run, Joe Wilkinson, David Earl
-- 2023-03-06 — Dissecting the Lol Tolhurst Interview — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-03 — Running and Spiders — speakers: David lets Patreons, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-02 — Joe's Playlist #3 — speakers: Steve Baker, Steve Monite, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-03-01 — Surprise Guest: both Joe and David have no idea — speakers: Hornby Trains, Joe Wilkinson, David Earl
-- 2023-02-28 — Specialist Guest: TV Producer Wiiiiill from TFI Friday — speakers: Producer Wiiiiill, Will MacDonald, Chris Evans, Joe Wilkinson, David Earl
+- 2023-03-07 — Running motivation with Tom Wheatley — speakers: Tom Wheatley, Park Ru, Joe Wilkinson, David Earl
+- 2023-03-06 — Dissecting the Lol Tolhurst Interview — speakers: Joe Wilkinson, David Earl
+- 2023-03-03 — Running and Spiders — speakers: Joe Wilkinson, David Earl
+- 2023-03-02 — Joe's Playlist #3 — speakers: Steve Baker, Joe Wilkinson, David Earl
+- 2023-03-01 — Surprise Guest: both Joe and David have no idea — speakers: Joe Wilkinson, David Earl
+- 2023-02-28 — Specialist Guest: TV Producer Wiiiiill from TFI Friday — speakers: Producer Wiiiiill, Will MacDonald, Joe Wilkinson, David Earl
 - 2023-02-27 — Surprise Guest: Roachford — speakers: Andrew Roachford, Joe Wilkinson, David Earl
 - 2023-02-24 — TV Joe Reviews — speakers: Joe Reviews, Joe Wilkinson, David Earl
 - 2023-02-23 — Surprise Guest: Lol Tolhurst (Part 2) — speakers: Lol Tolhurst, Joe Wilkinson, David Earl
-- 2023-02-22 — Surprise Guest: Lol Tolhurst (Part 1) — speakers: Lol Tolhurst, David fangurls Joe, Joe Wilkinson, David Earl
-- 2023-02-21 — Specialist Guest: Andy Goldstein Snooker (kind of) — speakers: Andy Goldstein Snooker, Andy Goldstein, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-02-20 — Badminton names and David shows Joe his guitar — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-02-17 — BONUS EP: we listen to ourselves on CO OP radio — speakers: Co Ops, Co Op, Joe Wilkinson, David Earl
-- 2023-02-17 — Recording links for Coop Radio — speakers: Coop Radio Somehow Joe, Coop Radio, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-02-16 — Where's Joe Now ? #4 — speakers: Joe Now, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-22 — Surprise Guest: Lol Tolhurst (Part 1) — speakers: Lol Tolhurst, Joe Wilkinson, David Earl
+- 2023-02-21 — Specialist Guest: Andy Goldstein Snooker (kind of) — speakers: Andy Goldstein Snooker, Andy Goldstein, Joe Wilkinson, David Earl
+- 2023-02-20 — Badminton names and David shows Joe his guitar — speakers: Joe Wilkinson, David Earl
+- 2023-02-17 — BONUS EP: we listen to ourselves on CO OP radio — speakers: Co Ops, Joe Wilkinson, David Earl
+- 2023-02-17 — Recording links for Coop Radio — speakers: Coop Radio Somehow Joe, Coop Radio, Joe Wilkinson, David Earl
+- 2023-02-16 — Where's Joe Now ? #4 — speakers: Joe Now, Joe Wilkinson, David Earl
 - 2023-02-15 — Guest: Natalie Cassidy — speakers: Natalie Cassidy, Joe Wilkinson, David Earl
 - 2023-02-14 — Guest: Chris Atkins author 'A Bit Of A Stretch' — speakers: Chris Atkins, Joe Wilkinson, David Earl
 - 2023-02-13 — Recording a Promo for the Pod — speakers: Joe Wilkinson, David Earl
 - 2023-02-10 — Rosie's Gigging Diaries — speakers: Rosie Francis, Joe Wilkinson, David Earl
-- 2023-02-09 — Joe's Playlist #2 — speakers: Steve Baker, Sleaford Mods Songs, Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-02-08 — Surprise Guest: For David — speakers: Follow Chatabix, Joe Wilkinson, David Earl
-- 2023-02-07 — Guest: Simon Newton - Former Bodyguard — speakers: Simon Newton, Top Shop, Michael Jackson, Joe Wilkinson, David Earl
+- 2023-02-09 — Joe's Playlist #2 — speakers: Steve Baker, Joe Wilkinson, David Earl
+- 2023-02-08 — Surprise Guest: For David — speakers: Joe Wilkinson, David Earl
+- 2023-02-07 — Guest: Simon Newton - Former Bodyguard — speakers: Simon Newton, Joe Wilkinson, David Earl
 - 2023-02-06 — Bafta nom and Top Bins — speakers: Top Bins Joe, Joe Wilkinson, David Earl
-- 2023-02-03 — Deal or No Deal Contestant: Paul Gorton — speakers: Paul Gorton, Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-02-03 — Deal or No Deal Contestant: Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2023-02-02 — Where's Joe Now ? #3 — speakers: Joe Now, Joe Wilkinson, David Earl
 - 2023-02-01 — Guest: Maddy from The Traitors — speakers: David Joe, Joe Wilkinson, David Earl
-- 2023-01-31 — Back With A Bang — speakers: Follow Chatabix, Joe Wilkinson, David Earl
+- 2023-01-31 — Back With A Bang — speakers: Joe Wilkinson, David Earl
 - 2021-03-26 — Chatabix Trailer — speakers: Joe Wilkinson, David Earl
