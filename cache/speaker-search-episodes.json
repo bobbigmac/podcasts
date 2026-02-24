@@ -7262,6 +7262,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:96594d663a6c",
+        "feed_title": "RHLSTP with Richard Herring",
+        "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
+        "dedupe_key": "fa78b0fedf403a334f1cb6a399d561bf81193222",
+        "episode_key": "fa78b0fedf403a334f1cb6a399d561bf81193222",
+        "title": "RHLSTP Book Club 65 - David Mitchell",
+        "published_at": "2023-09-29T05:00:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "RHLSTP Book Club 65 - Unruly Richard chats with writer, comedian and actor David Mitchell about his funny and diverting book about English monarchs, Unruly. Are the royal family just the country’s most successful thugs? How did they convince people to believe in their divine right to rule? Why would they want the job a",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6509427284fa6300117205df/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-book-club-65-david-mitchell/id520831548?i=1000629609463&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell",
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:dc299526e76a",
         "feed_title": "Elis James and John Robins",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0005fdz.rss",
@@ -12782,6 +12805,29 @@
       }
     ],
     "lou-sanders": [
+      {
+        "feed_slug": "external:apple:562f25abfaaa",
+        "feed_title": "The Comedy Room",
+        "source_rss_url": "https://feeds.castos.com/79q08",
+        "dedupe_key": "f643a8b5e64cad3568f6f9b8a4810a26f012c18d",
+        "episode_key": "f643a8b5e64cad3568f6f9b8a4810a26f012c18d",
+        "title": "Jimmy Carr Reacts to Richard Ayoade & Lou Sanders — Loses It",
+        "published_at": "2026-01-24T14:01:46Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Before the first laugh even lands, you should know this: every episode of The Comedy Room places all advertisements right at the beginning, so once the show truly starts, nothing interrupts the flow, the rhythm, or the feeling. It’s a small choice made out of respect—for your time, your mood, and that quiet moment when",
+        "audio_url": "https://episodes.castos.com/692dff8302b912-10152865/2336325/c1e-q315ot7noz0c0vwxx-xx741zd1tq8-g7nsku.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jimmy-carr-reacts-to-richard-ayoade-lou-sanders-loses-it/id1871775261?i=1000746510692&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade",
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:5dc1b693c271",
         "feed_title": "No Such Thing As A Fish",
