@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-02-23T16:02:43+00:00`
-- checked_at: `2026-02-23T16:02:43+00:00`
-- etag: `"djEuMi4wOjE3NzE4NTk5MTExMjY="`
+- fetched_at: `2026-02-24T13:43:29+00:00`
+- checked_at: `2026-02-24T13:43:29+00:00`
+- etag: `"djEuMi4wOjE3NzE5Mjg0MDcyMTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-02-23T16:02:43+00:00",
+  "fetched_at": "2026-02-24T13:43:29+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -39,8 +39,6 @@
       "enclosure_length": "85700115",
       "itunes_duration": "35:41",
       "speakers": [
-        "Katie Stallard",
-        "Carlo Masala",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -61,7 +59,6 @@
       "itunes_duration": "27:45",
       "speakers": [
         "Labour Together",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -109,9 +106,8 @@
       "itunes_duration": "28:20",
       "speakers": [
         "Andrew Mountbatten-Windsor",
-        "Oli Dugmore",
-        "Will Lloyd",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "andrew"
@@ -130,9 +126,8 @@
       "itunes_duration": "36:02",
       "speakers": [
         "Bridget Phillipson",
-        "Pippa Bailey",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "bridget",
@@ -176,9 +171,9 @@
       "enclosure_length": "61777474",
       "itunes_duration": "32:05",
       "speakers": [
-        "Oli Dugmore",
-        "George Eaton",
-        "Anoosh Chakelian"
+        "Will Keir Starmer",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "medium"
@@ -196,7 +191,6 @@
       "enclosure_length": "64290330",
       "itunes_duration": "33:23",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -239,7 +233,8 @@
       "enclosure_length": "66943059",
       "itunes_duration": "27:50",
       "speakers": [
-        "Hannah Barnes",
+        "University Hospitals Sussex",
+        "Foundation Trust",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -262,8 +257,6 @@
       "enclosure_length": "55301872",
       "itunes_duration": "28:43",
       "speakers": [
-        "Tom McTague",
-        "Will Lloyd",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -285,7 +278,6 @@
       "enclosure_length": "40079084",
       "itunes_duration": "27:49",
       "speakers": [
-        "Morgan McSweeney",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -307,7 +299,6 @@
       "itunes_duration": "23:11",
       "speakers": [
         "Tim Allan",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -329,7 +320,6 @@
       "itunes_duration": "37:45",
       "speakers": [
         "Elon Musk’s Epstein",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -353,9 +343,6 @@
       "itunes_duration": "38:03",
       "speakers": [
         "Peter Mandelson",
-        "Jeffrey Epstein",
-        "Tom McTague",
-        "Jim Pickard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -378,9 +365,6 @@
       "itunes_duration": "18:30",
       "speakers": [
         "Peter Mandelson",
-        "Jeffrey Epstein",
-        "Angela Rayner",
-        "Megan Kenyon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -404,7 +388,6 @@
         "Will Mandelson",
         "Peter Mandelson",
         "Jeffrey Epstein",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -427,10 +410,8 @@
       "itunes_duration": "35:47",
       "speakers": [
         "Dan Neidle",
-        "Peter Mandelson",
-        "Jeffrey Epstein",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "mandelson",
@@ -454,9 +435,8 @@
         "Jeffrey Epstein",
         "Downing St",
         "Peter Mandelson",
-        "Oli Dugmore",
-        "Rachel Cunliffe",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "jeffrey",
@@ -477,9 +457,8 @@
       "enclosure_length": "65181865",
       "itunes_duration": "27:03",
       "speakers": [
-        "Will Dunn",
-        "Rishi Sunak",
-        "Lee Anderson",
+        "Did China",
+        "If Chinese",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -500,7 +479,6 @@
       "enclosure_length": "477738572",
       "itunes_duration": "27:38",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -522,9 +500,9 @@
       "enclosure_length": "41190223",
       "itunes_duration": "28:35",
       "speakers": [
-        "Welsh Labour",
-        "Lindsay Whittle",
-        "Megan Kenyon",
+        "Can Plaid Cymru",
+        "Last October",
+        "South Wales",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -546,7 +524,6 @@
       "enclosure_length": "39381431",
       "itunes_duration": "27:20",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -566,9 +543,9 @@
       "enclosure_length": "42117578",
       "itunes_duration": "29:14",
       "speakers": [
-        "Tom McTague",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Shabana Mahmood",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "shabana",
@@ -590,7 +567,6 @@
       "itunes_duration": "31:50",
       "speakers": [
         "Andy Burnham",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -634,9 +610,6 @@
       "enclosure_length": "41471286",
       "itunes_duration": "28:47",
       "speakers": [
-        "Robert Jenrick",
-        "Megan Kenyon",
-        "Ethan Croft",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -657,8 +630,6 @@
       "itunes_duration": "26:55",
       "speakers": [
         "Andrew Gwynne",
-        "Andy Burnham",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -680,8 +651,6 @@
       "enclosure_length": "59618824",
       "itunes_duration": "24:49",
       "speakers": [
-        "Tom McTague",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -701,10 +670,8 @@
       "enclosure_length": "46382282",
       "itunes_duration": "32:12",
       "speakers": [
-        "Nick Clegg",
-        "Oli Dugmore",
-        "Rachel Cunliffe",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "student",
@@ -724,12 +691,9 @@
       "enclosure_length": "66140234",
       "itunes_duration": "45:55",
       "speakers": [
-        "Jonas Gahr Støre",
-        "Oli Dugmore",
-        "Tom McTague",
-        "Katie Stallard",
-        "Rasmus Jarlov",
-        "Anoosh Chakelian"
+        "Nobel Peace Prize",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "trump",
@@ -749,7 +713,6 @@
       "enclosure_length": "52282250",
       "itunes_duration": "36:18",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -771,7 +734,6 @@
       "enclosure_length": "40667762",
       "itunes_duration": "28:13",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -792,13 +754,8 @@
       "enclosure_length": "42561718",
       "itunes_duration": "29:32",
       "speakers": [
-        "Robert Jenrick",
-        "Kemi Badenoch",
-        "Nadhim Zahawi",
-        "Oli Dugmore",
-        "Rachel Cunliffe",
-        "Ethan Croft",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "jenrick"
@@ -816,9 +773,9 @@
       "enclosure_length": "41746107",
       "itunes_duration": "28:58",
       "speakers": [
-        "Oli Dugmore",
+        "Why Keir Starmer",
         "Anoosh Chakelian",
-        "Ailbhe Rea"
+        "Oli Dugmore"
       ],
       "topics": [
         "keir",
@@ -837,10 +794,8 @@
       "enclosure_length": "48730087",
       "itunes_duration": "33:50",
       "speakers": [
-        "Oli Dugmore",
-        "Tom McTague",
-        "Ailbhe Rea",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "keir",
@@ -862,8 +817,6 @@
       "speakers": [
         "Nadhim Zahawi",
         "Oli Dugmore",
-        "Rachel Cunliffe",
-        "Ailbhe Rea",
         "Anoosh Chakelian"
       ],
       "topics": [
@@ -886,7 +839,6 @@
       "itunes_duration": "30:55",
       "speakers": [
         "Salman Rushdie",
-        "Tanjil Rashid",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -907,12 +859,8 @@
       "enclosure_length": "46518788",
       "itunes_duration": "32:17",
       "speakers": [
-        "Preet Kaur Gill",
-        "Shabhana Mahmood",
-        "Oli Dugmore",
-        "Ethan Croft",
-        "Megan Kenyon",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "blue",
@@ -932,7 +880,6 @@
       "enclosure_length": "46797564",
       "itunes_duration": "32:29",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -953,8 +900,6 @@
       "enclosure_length": "51159481",
       "itunes_duration": "21:09",
       "speakers": [
-        "Nigel Farage’s Reform",
-        "Zack Polanski",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -975,8 +920,6 @@
       "enclosure_length": "61037017",
       "itunes_duration": "42:22",
       "speakers": [
-        "Fiona Hill",
-        "Megan Gibson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1042,7 +985,6 @@
       "itunes_duration": "46:53",
       "speakers": [
         "Will Labour",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1063,9 +1005,8 @@
       "enclosure_length": "91337360",
       "itunes_duration": "1:03:25",
       "speakers": [
-        "Rachel Cunliffe",
-        "Tom McTague",
         "Anoosh Chakelian",
+        "New Statesman",
         "Oli Dugmore"
       ],
       "topics": [
@@ -1086,7 +1027,6 @@
       "speakers": [
         "Merry Quizmas",
         "Volodymyr Zelensky",
-        "Katy Perry",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1107,9 +1047,8 @@
       "enclosure_length": "72778414",
       "itunes_duration": "30:17",
       "speakers": [
-        "Kate Mossman",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "aviation",
@@ -1129,9 +1068,8 @@
       "itunes_duration": "40:09",
       "speakers": [
         "Wes Streeting",
-        "Oli Dugmore",
         "Anoosh Chakelian",
-        "Rachel Cunliffe"
+        "Oli Dugmore"
       ],
       "topics": [
         "prediction",
@@ -1150,8 +1088,6 @@
       "enclosure_length": "33276779",
       "itunes_duration": "23:06",
       "speakers": [
-        "Rachel Cunliffe",
-        "Luke O'Reilly",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1173,9 +1109,8 @@
       "itunes_duration": "27:25",
       "speakers": [
         "Jimmy Lai",
-        "Oli Dugmore",
-        "Katie Stallard",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "jimmy",
@@ -1197,9 +1132,7 @@
       "itunes_duration": "20:00",
       "speakers": [
         "Andy Burnham",
-        "Manchester Mayor",
-        "Ethan Croft",
-        "George Eaton",
+        "Manchester May",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1222,12 +1155,9 @@
       "enclosure_length": "46284788",
       "itunes_duration": "32:08",
       "speakers": [
-        "John Mann",
-        "Penny Mordaunt",
-        "Oli Dugmore",
-        "Rachel Cunliffe",
-        "Hannah Barnes",
-        "Anoosh Chakelian"
+        "Bondi Beach",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "jews"
@@ -1246,8 +1176,8 @@
       "itunes_duration": "57:42",
       "speakers": [
         "Peter Oborne",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "britain",
@@ -1267,8 +1197,6 @@
       "enclosure_length": "26743024",
       "itunes_duration": "18:33",
       "speakers": [
-        "Zack Polanski",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1311,9 +1239,8 @@
       "itunes_duration": "41:40",
       "speakers": [
         "Natalie Fleet",
-        "David Lammy",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "natalie",
@@ -1333,8 +1260,6 @@
       "enclosure_length": "39819434",
       "itunes_duration": "27:38",
       "speakers": [
-        "Winston Churchill",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1355,10 +1280,6 @@
       "enclosure_length": "60034066",
       "itunes_duration": "41:41",
       "speakers": [
-        "Zack Polanski",
-        "Rachel Cunliffe",
-        "George Eaton",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1380,9 +1301,7 @@
       "enclosure_length": "42310521",
       "itunes_duration": "29:22",
       "speakers": [
-        "Jon Bernstein",
-        "Benj Sykes",
-        "Daisy Powell-Chandler",
+        "geopolitical shocks",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1402,7 +1321,6 @@
       "enclosure_length": "70399987",
       "itunes_duration": "29:16",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1422,9 +1340,9 @@
       "enclosure_length": "69726826",
       "itunes_duration": "28:51",
       "speakers": [
-        "Oli Dugmore",
-        "Ben Walker",
-        "Anoosh Chakelian"
+        "Find Out Now",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "labour",
@@ -1446,8 +1364,6 @@
       "speakers": [
         "Angela Rayner",
         "Wes Streeting",
-        "Ailbhe Rea",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1471,11 +1387,8 @@
       "enclosure_length": "40063032",
       "itunes_duration": "27:48",
       "speakers": [
-        "Zarah Sultana",
-        "Jeremy Corbyn",
-        "Oli Dugmore",
-        "Megan Kenyon",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "battle",
@@ -1494,10 +1407,9 @@
       "enclosure_length": "34289014",
       "itunes_duration": "23:48",
       "speakers": [
-        "David Lammy",
-        "Oli Dugmore",
-        "Rachel Cunliffe",
-        "Anoosh Chakelian"
+        "David Lamm",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "justice",
@@ -1518,10 +1430,8 @@
       "itunes_duration": "29:55",
       "speakers": [
         "Rachel Reeves",
-        "Tom McTague",
-        "Rachel Cunliffe",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "keir",
@@ -1542,9 +1452,8 @@
       "itunes_duration": "24:10",
       "speakers": [
         "Labour U-turn",
-        "Oli Dugmore",
-        "Ailbhe Rea",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "labour",
@@ -1566,7 +1475,6 @@
       "enclosure_length": "64932712",
       "itunes_duration": "27:02",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1588,8 +1496,6 @@
       "enclosure_length": "38400074",
       "itunes_duration": "26:39",
       "speakers": [
-        "Will Dunn",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1611,10 +1517,8 @@
       "itunes_duration": "24:13",
       "speakers": [
         "Rachel Reeves",
-        "Oli Dugmore",
-        "Rachel Cunliffe",
-        "George Eaton",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "rachel",
@@ -1635,10 +1539,8 @@
       "itunes_duration": "41:55",
       "speakers": [
         "Rachel Reeves",
-        "Oli Dugmore",
-        "Tom McTague",
-        "Ailbhe Rea",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "rachel",
@@ -1661,8 +1563,6 @@
         "Jeremy Corbyn",
         "MPs Jeremy Corbyn",
         "Zarah Sultana",
-        "Megan Kenyon",
-        "Zack Polanski",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1685,8 +1585,6 @@
       "enclosure_length": "45444545",
       "itunes_duration": "31:33",
       "speakers": [
-        "Tanjil Rashid",
-        "James Vincent",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1707,9 +1605,9 @@
       "enclosure_length": "100703875",
       "itunes_duration": "41:55",
       "speakers": [
-        "Oli Dugmore",
-        "Tom McTague",
-        "Anoosh Chakelian"
+        "Green Party",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "britain",
@@ -1728,12 +1626,7 @@
       "enclosure_length": "62453842",
       "itunes_duration": "43:21",
       "speakers": [
-        "Clive Lewis",
-        "Andy Burnham",
-        "Calum Weir",
-        "Labour Together",
-        "Rachel Cunliffe",
-        "Ailbhe Rea",
+        "Shabana Mahmood",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1779,9 +1672,8 @@
       "itunes_duration": "31:57",
       "speakers": [
         "Shabana Mahmood",
-        "Oli Dugmore",
         "Anoosh Chakelian",
-        "Rachel Cunliffe"
+        "Oli Dugmore"
       ],
       "topics": [
         "labour",
@@ -1800,10 +1692,10 @@
       "enclosure_length": "37610948",
       "itunes_duration": "26:06",
       "speakers": [
-        "Richard Burgeon",
-        "Oli Dugmore",
-        "Ethan Croft",
-        "Anoosh Chakelian"
+        "Shabana Mahmood",
+        "Labour Shabana Mahmood",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "shabana",
@@ -1825,8 +1717,6 @@
       "enclosure_length": "31261641",
       "itunes_duration": "21:41",
       "speakers": [
-        "David Szalay",
-        "Nicholas Harris",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1852,8 +1742,6 @@
       "speakers": [
         "Wes Streeting",
         "Ailbhe Rea",
-        "Luke O'Reilly",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1873,9 +1761,8 @@
       "enclosure_length": "67373290",
       "itunes_duration": "28:01",
       "speakers": [
-        "Oli Dugmore",
-        "Will Dunn",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "rachel",
@@ -1896,8 +1783,7 @@
       "itunes_duration": "34:02",
       "speakers": [
         "Lewis Goodall",
-        "Tim Davie",
-        "Rachel Cunliffe",
+        "Tim Davi",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1919,8 +1805,7 @@
       "enclosure_length": "50043346",
       "itunes_duration": "34:44",
       "speakers": [
-        "Wes Streeting",
-        "Ailbhe Rea",
+        "Labour Party Labour",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -1942,11 +1827,8 @@
       "enclosure_length": "52654999",
       "itunes_duration": "36:33",
       "speakers": [
-        "Oli Dugmore",
-        "Rachel Kyte",
-        "Christiana Figueres",
-        "Ed Miliband",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "world",
@@ -1968,11 +1850,8 @@
       "itunes_duration": "28:31",
       "speakers": [
         "Tim Davie",
-        "Ailbhe Rea",
-        "Deborah Turness",
-        "Oli Dugmore",
-        "Hannah Barnes",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "crisis"
@@ -1990,7 +1869,6 @@
       "enclosure_length": "36747937",
       "itunes_duration": "25:30",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2012,8 +1890,8 @@
       "itunes_duration": "29:46",
       "speakers": [
         "Steve Reed",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "steve",
@@ -2035,11 +1913,8 @@
       "itunes_duration": "25:09",
       "speakers": [
         "Zohran Mamdani Voters",
-        "Zohran Mamdani",
-        "Wes Streeting",
-        "George Eaton",
         "Anoosh Chakelian",
-        "Zack Polanski"
+        "Oli Dugmore"
       ],
       "topics": [
         "labour",
@@ -2059,9 +1934,8 @@
       "enclosure_length": "49481150",
       "itunes_duration": "34:21",
       "speakers": [
-        "Oli Dugmore",
-        "Hannah Barnes",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "britain",
@@ -2081,10 +1955,8 @@
       "enclosure_length": "57250382",
       "itunes_duration": "39:45",
       "speakers": [
-        "Anthony Williams",
-        "Oli Dugmore",
         "Anoosh Chakelian",
-        "Rachel Cunliffe"
+        "Oli Dugmore"
       ],
       "topics": [
         "huntingdon",
@@ -2107,9 +1979,8 @@
       "enclosure_length": "63421450",
       "itunes_duration": "44:02",
       "speakers": [
-        "Ethan Croft",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "farage",
@@ -2151,8 +2022,8 @@
       "itunes_duration": "22:30",
       "speakers": [
         "David Lammy",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "david",
@@ -2173,7 +2044,6 @@
       "enclosure_length": "34404395",
       "itunes_duration": "23:53",
       "speakers": [
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2194,9 +2064,9 @@
       "enclosure_length": "67220380",
       "itunes_duration": "46:40",
       "speakers": [
-        "Will Lloyd",
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Prince Andrew",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "monarchy"
@@ -2216,8 +2086,6 @@
       "speakers": [
         "Rachel Reeves",
         "Anoosh Chakelian",
-        "Steve Akehurst",
-        "Will Dunn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -2237,9 +2105,6 @@
       "enclosure_length": "37405837",
       "itunes_duration": "25:58",
       "speakers": [
-        "Lucy Powell",
-        "Harry Clarke-Eziddio",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2288,9 +2153,6 @@
       "enclosure_length": "42135550",
       "itunes_duration": "29:15",
       "speakers": [
-        "Harry Clarke-Ezzidio",
-        "Llyr Powell",
-        "Dan Evans",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2313,8 +2175,6 @@
       "itunes_duration": "16:37",
       "speakers": [
         "Lindsay Whittle",
-        "Harry Clarke-Ezzidio",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2338,8 +2198,6 @@
       "itunes_duration": "45:34",
       "speakers": [
         "Andrew Marr",
-        "Tom McTague",
-        "Zack Polanski",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2363,8 +2221,6 @@
       "enclosure_length": "46048340",
       "itunes_duration": "31:58",
       "speakers": [
-        "Vladimir Putin",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2408,9 +2264,6 @@
       "enclosure_length": "37973356",
       "itunes_duration": "26:21",
       "speakers": [
-        "Will Lloyd",
-        "Rachel Cunliffe",
-        "Virginia Roberts Guiffre",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2454,8 +2307,7 @@
       "itunes_duration": "1:21:08",
       "speakers": [
         "John Gray",
-        "Friedrich Nietzsche",
-        "Will Lloyd",
+        "Artificial Intelli",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2519,11 +2371,8 @@
       "enclosure_length": "46131353",
       "itunes_duration": "32:01",
       "speakers": [
-        "Jonathan Powell",
-        "Oli Dugmore",
-        "George Eaton",
-        "Katie Stallard",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "china",
@@ -2542,11 +2391,9 @@
       "enclosure_length": "48441834",
       "itunes_duration": "33:37",
       "speakers": [
-        "Oli Dugmore",
-        "Katie Stallard",
-        "Ethan Croft",
-        "Rachel Cunliffe",
-        "Anoosh Chakelian"
+        "Middle East All",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "trump",
@@ -2567,9 +2414,8 @@
       "enclosure_length": "37298692",
       "itunes_duration": "25:53",
       "speakers": [
-        "Oli Dugmore",
-        "Rachel Cunliffe",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "labour",
@@ -2589,10 +2435,8 @@
       "itunes_duration": "33:00",
       "speakers": [
         "Calais Jungle",
-        "Oli Dugmore",
-        "Miles Ellingham",
-        "Jack Jeffrey",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "ground",
@@ -2635,9 +2479,6 @@
       "enclosure_length": "38226732",
       "itunes_duration": "26:32",
       "speakers": [
-        "Rachel Cunliffe",
-        "Ethan Croft",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2659,10 +2500,9 @@
       "enclosure_length": "58997685",
       "itunes_duration": "40:57",
       "speakers": [
-        "Oli Dugmore",
-        "Luke O'Reilly",
-        "Megan Kenyon",
-        "Anoosh Chakelian"
+        "Green Party Britain",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "landlord"
@@ -2680,9 +2520,6 @@
       "enclosure_length": "84021602",
       "itunes_duration": "58:20",
       "speakers": [
-        "Yom Kippur",
-        "Tanjil Rashid",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2723,10 +2560,8 @@
       "enclosure_length": "39031652",
       "itunes_duration": "27:05",
       "speakers": [
-        "Jihad Al-Shamie",
-        "Oli Dugmore",
-        "Ethan Croft",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "dispatch",
@@ -2747,8 +2582,6 @@
       "enclosure_length": "46516690",
       "itunes_duration": "32:17",
       "speakers": [
-        "Tom McTague",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2770,8 +2603,6 @@
       "enclosure_length": "41287440",
       "itunes_duration": "28:39",
       "speakers": [
-        "Will Lloyd",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2793,9 +2624,6 @@
       "enclosure_length": "31201834",
       "itunes_duration": "21:39",
       "speakers": [
-        "Rachel Cunliffe",
-        "Megan Kenyon",
-        "Ethan Croft",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2817,7 +2645,6 @@
       "enclosure_length": "34472870",
       "itunes_duration": "23:55",
       "speakers": [
-        "Andy Burnham",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2840,9 +2667,6 @@
       "enclosure_length": "36675494",
       "itunes_duration": "25:27",
       "speakers": [
-        "Andy Burnham",
-        "George Eaton",
-        "Ethan Croft",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2865,9 +2689,6 @@
       "itunes_duration": "43:05",
       "speakers": [
         "Larry Ellison",
-        "Will Lloyd",
-        "Peter Geoghegan",
-        "May Bulman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2889,7 +2710,6 @@
       "enclosure_length": "39162297",
       "itunes_duration": "27:11",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2912,8 +2732,6 @@
       "itunes_duration": "1:08:58",
       "speakers": [
         "Andy Burnham",
-        "Tom McTague",
-        "Will Lloyd",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2937,10 +2755,7 @@
       "itunes_duration": "31:29",
       "speakers": [
         "Ed Davey",
-        "Lib Dem",
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "George Eaton",
         "Oli Dugmore"
       ],
       "topics": [
@@ -2962,9 +2777,6 @@
       "enclosure_length": "30063396",
       "itunes_duration": "20:52",
       "speakers": [
-        "Benjamin Netanyahu",
-        "Hannah Barnes",
-        "Megan Kenyon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -2985,11 +2797,6 @@
       "enclosure_length": "25326652",
       "itunes_duration": "17:34",
       "speakers": [
-        "Zarah Sultana",
-        "Jeremy Corbyn",
-        "Hannah Barnes",
-        "Megan Kenyon",
-        "Ethan Croft",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3013,7 +2820,6 @@
       "itunes_duration": "33:15",
       "speakers": [
         "Sudhir Hazareesingh",
-        "Tanjil Rashid",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3036,8 +2842,6 @@
       "enclosure_length": "45764580",
       "itunes_duration": "31:46",
       "speakers": [
-        "Andrew Marr",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3057,12 +2861,8 @@
       "enclosure_length": "38763741",
       "itunes_duration": "26:54",
       "speakers": [
-        "Andrew Marr",
-        "Will Dunn",
-        "Rachel Cunliffe",
-        "Megan Kenyon",
-        "Ethan Croft",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "party",
@@ -3082,8 +2882,6 @@
       "itunes_duration": "46:03",
       "speakers": [
         "Zohran Mamdani",
-        "Megan Gibson",
-        "Ross Barkan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3106,8 +2904,7 @@
       "itunes_duration": "37:57",
       "speakers": [
         "Rachel Cunliffe",
-        "Will Lloyd",
-        "Peter Mandelson",
+        "Will Llo",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3131,11 +2928,8 @@
       "speakers": [
         "Tommy Robinson",
         "Danny Kruger",
-        "St George",
-        "Katie Hopkins",
-        "Rachel Cunliffe",
-        "Will Lloyd",
-        "George Monaghan"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "tommy",
@@ -3158,8 +2952,6 @@
       "enclosure_length": "23611873",
       "itunes_duration": "16:23",
       "speakers": [
-        "Rachel Cunliffe",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3181,9 +2973,9 @@
       "enclosure_length": "84918848",
       "itunes_duration": "58:57",
       "speakers": [
+        "Nicola Sturgeon",
+        "First Minister",
         "Anoosh Chakelian",
-        "Alex Salmond",
-        "JK Rowling",
         "Oli Dugmore"
       ],
       "topics": [
@@ -3206,8 +2998,6 @@
       "itunes_duration": "24:11",
       "speakers": [
         "Charlie Kirk",
-        "Charlie Kirk Trump",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3229,8 +3019,6 @@
       "speakers": [
         "Angela Rayner",
         "Peter Mandelson",
-        "Andrew Marr",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3251,8 +3039,6 @@
       "enclosure_length": "27680678",
       "itunes_duration": "19:12",
       "speakers": [
-        "Peter Mandelson",
-        "Will Lloyd",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3273,8 +3059,7 @@
       "enclosure_length": "46661948",
       "itunes_duration": "32:23",
       "speakers": [
-        "Will Dunn",
-        "Tom Darling",
+        "Rights Bill",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3323,12 +3108,8 @@
       "speakers": [
         "Zack Polanski",
         "Tom McTague",
-        "Andrew Marr",
-        "Rachel Cunliffe",
-        "Megan Kenyon",
-        "Jeremy Corbyn",
-        "Lib Dems",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "zack",
@@ -3375,9 +3156,6 @@
       "speakers": [
         "Rachel Cunliffe",
         "Angela Rayner",
-        "Andrew Marr",
-        "Tom McTague",
-        "Megan Kenyon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3404,9 +3182,8 @@
         "Tom McTague",
         "Andrew Marr",
         "Graham Linehan",
-        "Rachel Cunliffe",
-        "Megan Kenyon",
-        "George Monaghan"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "angela",
@@ -3452,8 +3229,6 @@
       "itunes_duration": "28:31",
       "speakers": [
         "Tom Sasse",
-        "Will Dunn",
-        "Will Dunn Guest",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3476,10 +3251,7 @@
       "enclosure_length": "26195085",
       "itunes_duration": "18:11",
       "speakers": [
-        "Rachel Cunliffe",
-        "Megan Kenyon",
         "Anoosh Chakelian",
-        "Megan Kenyon Guest",
         "Oli Dugmore"
       ],
       "topics": [
@@ -3502,7 +3274,6 @@
       "enclosure_length": "54676974",
       "itunes_duration": "37:57",
       "speakers": [
-        "Tony Interrupter",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3528,8 +3299,6 @@
       "enclosure_length": "23631140",
       "itunes_duration": "16:24",
       "speakers": [
-        "Harry Clarke-Ezzidio",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3553,6 +3322,7 @@
       "enclosure_length": "57059864",
       "itunes_duration": "39:36",
       "speakers": [
+        "Humza Yousaf",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3575,7 +3345,7 @@
       "enclosure_length": "36099554",
       "itunes_duration": "25:03",
       "speakers": [
-        "Mike Clancy",
+        "Anoosh Chakelian Last October",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3602,10 +3372,6 @@
       "itunes_duration": "25:46",
       "speakers": [
         "Will Dunn Ahead",
-        "Will Dunn",
-        "George Eaton",
-        "Torsten Bell",
-        "Rachel Reeves",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3655,8 +3421,6 @@
       "enclosure_length": "30532858",
       "itunes_duration": "21:11",
       "speakers": [
-        "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3680,11 +3444,8 @@
       "itunes_duration": "20:50",
       "speakers": [
         "Andy Burnham",
-        "George Eaton",
-        "Angela Rayner",
-        "Wes Streeting",
-        "George joins Anoosh Chakelian",
-        "Rachel Cunliffe"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "andy",
@@ -3708,10 +3469,6 @@
       "enclosure_length": "47317902",
       "itunes_duration": "32:51",
       "speakers": [
-        "Phil Tinline",
-        "Phil Tinline Producer",
-        "Rob Le",
-        "Chris Stone",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3736,11 +3493,8 @@
       "speakers": [
         "Katie Stallard",
         "Volodymyr Zelensky",
-        "Vladimir Putin",
-        "Megan Gibson",
-        "Megan Gibson Guest",
-        "Katie Stallard Producer",
-        "Rob Le Mare Executive"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "trump",
@@ -3767,9 +3521,6 @@
       "speakers": [
         "Jonathan Dimbleby",
         "Don McCullin",
-        "Jonathan Dimbleby Producer",
-        "Rob Le Mare Executive",
-        "Chris Stone",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3795,11 +3546,6 @@
       "itunes_duration": "38:48",
       "speakers": [
         "Will Lloyd",
-        "Tanjil Rashid",
-        "Finn McRedmond",
-        "Will Lloyd Guests",
-        "Rob Le Mare Executive",
-        "Chris Stone",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3821,13 +3567,8 @@
       "itunes_duration": "28:00",
       "speakers": [
         "Will Starmer",
-        "George Eaton",
-        "Will Lloyd",
-        "George Eaton Guest",
-        "Will Lloyd Producer",
-        "Rob Le Mare Executive",
-        "Chris Stone",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "government",
@@ -3850,13 +3591,8 @@
       "enclosure_length": "36660937",
       "itunes_duration": "25:21",
       "speakers": [
-        "JD Vance",
-        "Robert Jenrick",
-        "Thomas Skinner",
-        "George Eaton",
-        "Will Lloyd",
-        "JD Vance Finn McRedmond",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "economy",
@@ -3906,8 +3642,6 @@
       "itunes_duration": "32:12",
       "speakers": [
         "Katie Stallard",
-        "Vladimir Putin",
-        "Trump Download",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3930,7 +3664,6 @@
       "enclosure_length": "21239852",
       "itunes_duration": "14:44",
       "speakers": [
-        "Hattie Simpson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3955,8 +3688,6 @@
       "itunes_duration": "50:02",
       "speakers": [
         "Whit Stillman",
-        "Jane Austen",
-        "Tanjil Rashid",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -3979,8 +3710,6 @@
       "enclosure_length": "27822440",
       "itunes_duration": "19:18",
       "speakers": [
-        "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4006,7 +3735,6 @@
       "itunes_duration": "22:12",
       "speakers": [
         "Anoosh Chakelian",
-        "Ben Walker",
         "Oli Dugmore"
       ],
       "topics": [
@@ -4030,7 +3758,6 @@
       "itunes_duration": "17:06",
       "speakers": [
         "George Eaton",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4053,7 +3780,6 @@
       "enclosure_length": "32897510",
       "itunes_duration": "22:50",
       "speakers": [
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4099,7 +3825,6 @@
       "enclosure_length": "61753936",
       "itunes_duration": "42:52",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4147,9 +3872,7 @@
       "itunes_duration": "25:06",
       "speakers": [
         "Cover Story",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
-        "George Eaton",
         "Oli Dugmore"
       ],
       "topics": [
@@ -4175,8 +3898,6 @@
       "itunes_duration": "18:42",
       "speakers": [
         "Megan Gibson",
-        "George Eaton",
-        "Megan Kenyon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4202,8 +3923,6 @@
       "itunes_duration": "27:39",
       "speakers": [
         "Katie Stallard",
-        "Jefrey Epstein",
-        "Jeffrey Epstein",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4230,8 +3949,6 @@
       "itunes_duration": "27:52",
       "speakers": [
         "Tom McTague",
-        "Ursula von der",
-        "Megan Gibson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4257,8 +3974,6 @@
       "speakers": [
         "Tax Netflix",
         "Peter Kosminsky",
-        "Wolf Hall",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4280,13 +3995,8 @@
       "enclosure_length": "55453623",
       "itunes_duration": "38:25",
       "speakers": [
-        "Jeremy Corbyn",
-        "Zarah Sultana",
-        "Tom McTague",
-        "Megan Kenyon",
-        "George Eaton",
-        "Will Dunn",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "gaza",
@@ -4309,10 +4019,6 @@
       "speakers": [
         "Rachel Cunliffe",
         "Angela Rayner",
-        "Can Rachel Reeves",
-        "Andrew Marr",
-        "George Eaton",
-        "Rachel Reeves",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4338,8 +4044,6 @@
       "speakers": [
         "Cover Story",
         "Tom McTague",
-        "Will Lloyd",
-        "Steve Akehurst",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4364,9 +4068,6 @@
       "itunes_duration": "39:49",
       "speakers": [
         "Jeffrey Epstein",
-        "JD Vance",
-        "Katie Stallard",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4389,10 +4090,7 @@
       "enclosure_length": "30348820",
       "itunes_duration": "21:03",
       "speakers": [
-        "Megan Kenyon",
         "Anoosh Chakelian",
-        "George Eaton",
-        "Tim Allan",
         "Oli Dugmore"
       ],
       "topics": [
@@ -4415,7 +4113,6 @@
       "itunes_duration": "26:47",
       "speakers": [
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
         "Oli Dugmore"
       ],
       "topics": [
@@ -4437,10 +4134,6 @@
       "enclosure_length": "34419224",
       "itunes_duration": "23:51",
       "speakers": [
-        "Jeremy Corbyn",
-        "Rachel Cunliffe",
-        "Will Dunn",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4461,10 +4154,6 @@
       "enclosure_length": "41906802",
       "itunes_duration": "29:01",
       "speakers": [
-        "Rachel Cunliffe",
-        "Andrew Marr",
-        "George Eaton",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4487,8 +4176,6 @@
       "itunes_duration": "38:41",
       "speakers": [
         "Jonathan Sumption",
-        "Tom McTague",
-        "Jake Richards",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4514,9 +4201,6 @@
       "enclosure_length": "53410621",
       "itunes_duration": "36:57",
       "speakers": [
-        "Will Lloyd",
-        "Tanjil Rashid",
-        "James Marriott",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4539,8 +4223,6 @@
       "speakers": [
         "Steve Akehurst",
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "Lib Dems",
         "Oli Dugmore"
       ],
       "topics": [
@@ -4565,8 +4247,6 @@
       "itunes_duration": "49:56",
       "speakers": [
         "Zack Polanski",
-        "Adrian Ramsey",
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4590,9 +4270,6 @@
       "enclosure_length": "33963474",
       "itunes_duration": "23:34",
       "speakers": [
-        "Host Zoë Grünewald",
-        "Sharon Hague",
-        "David Bell",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4615,8 +4292,6 @@
       "itunes_duration": "24:36",
       "speakers": [
         "Zarah Sultana",
-        "Rachel Cunliffe",
-        "Megan Kenyon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4638,10 +4313,6 @@
       "enclosure_length": "67366196",
       "itunes_duration": "28:01",
       "speakers": [
-        "George Eaton",
-        "Rachel Cunliffe",
-        "Will Dunn",
-        "Rachel Cunliffe Sign",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4662,10 +4333,7 @@
       "enclosure_length": "75932521",
       "itunes_duration": "31:36",
       "speakers": [
-        "Robert Jenrick",
         "Harry Lambert",
-        "Will Lloyd",
-        "Harry Lambert Sign",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4688,10 +4356,6 @@
       "enclosure_length": "44679298",
       "itunes_duration": "18:35",
       "speakers": [
-        "Finn McRedmond",
-        "George Eaton",
-        "Nick Harris",
-        "Faye Curran",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4712,10 +4376,6 @@
       "enclosure_length": "45372280",
       "itunes_duration": "18:53",
       "speakers": [
-        "Hannah Barnes",
-        "Will Dunn",
-        "Pippa Bailey",
-        "Aaron Bastani",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4764,9 +4424,6 @@
       "itunes_duration": "22:28",
       "speakers": [
         "Jeremy Corbyn",
-        "Tom McTague",
-        "Rachel Cunliffe",
-        "Zarah Sultana",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4791,10 +4448,6 @@
       "enclosure_length": "97619107",
       "itunes_duration": "40:38",
       "speakers": [
-        "Andrew Marr",
-        "Tom McTague",
-        "Rachel Cunliffe",
-        "Farage Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4818,9 +4471,6 @@
       "itunes_duration": "34:03",
       "speakers": [
         "Anoosh Chakelian",
-        "Tom McTague",
-        "Will Dunn",
-        "Megan Kenyon",
         "Oli Dugmore"
       ],
       "topics": []
@@ -4837,12 +4487,6 @@
       "enclosure_length": "82478656",
       "itunes_duration": "34:18",
       "speakers": [
-        "Kate Mossman",
-        "Finn McRedmond",
-        "Will Lloyd",
-        "Nick Harris",
-        "Sarah Vine",
-        "Bob Vylan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4864,8 +4508,10 @@
       "enclosure_length": "1334899",
       "itunes_duration": "0:55",
       "speakers": [
-        "Oli Dugmore",
-        "Anoosh Chakelian"
+        "Daily Politics",
+        "New Statesman",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "daily",
@@ -4885,10 +4531,6 @@
       "enclosure_length": "82060070",
       "itunes_duration": "34:08",
       "speakers": [
-        "Rachel Cunliffe",
-        "Tom McTague",
-        "Will Dunn",
-        "Rachel Reeves",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4913,9 +4555,6 @@
       "itunes_duration": "32:47",
       "speakers": [
         "Margaret Thatcher",
-        "Iain Dale",
-        "Rachel Cunliffe",
-        "Rachel Reeves",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4938,10 +4577,7 @@
       "enclosure_length": "35139455",
       "itunes_duration": "24:23",
       "speakers": [
-        "Sarah Dawood",
-        "Samantha Benham-Hermetz",
-        "Chris Bane",
-        "Vanessa Raymont",
+        "Sponsored Too",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -4966,8 +4602,6 @@
       "itunes_duration": "25:49",
       "speakers": [
         "Anoosh Chakelian",
-        "Tom McTague",
-        "Rachel Cunliffe",
         "Oli Dugmore"
       ],
       "topics": [
@@ -4993,7 +4627,6 @@
         "Anoosh Chakelian",
         "Andrew Marr",
         "George Eaton",
-        "Andrew Marr Labour",
         "Oli Dugmore"
       ],
       "topics": [
@@ -5018,7 +4651,7 @@
       "enclosure_length": "76971355",
       "itunes_duration": "32:03",
       "speakers": [
-        "Katie Stallard",
+        "Ankit Panda",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5036,8 +4669,6 @@
       "enclosure_length": "46975866",
       "itunes_duration": "19:33",
       "speakers": [
-        "Megan Gibson",
-        "David Blagden Sign",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5060,13 +4691,8 @@
       "enclosure_length": "78106777",
       "itunes_duration": "32:31",
       "speakers": [
-        "David Lammy",
-        "Rachel Cunliffe",
-        "Freddie Hayward",
-        "George Eaton",
-        "Tom McTague",
-        "Will Dunn",
-        "Ben Walker Sign"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "iran",
@@ -5087,7 +4713,6 @@
       "speakers": [
         "Lee Siegel",
         "Will Starmer",
-        "Lee Siegel Sign",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5111,8 +4736,6 @@
       "enclosure_length": "41269890",
       "itunes_duration": "17:10",
       "speakers": [
-        "George Eaton",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5158,9 +4781,6 @@
       "itunes_duration": "33:55",
       "speakers": [
         "Lawrence Freedman",
-        "Tom McTague",
-        "Read Netanyahu",
-        "Megan Gibson Free",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5190,7 +4810,6 @@
         "Andrew Marr",
         "Rachel Cunliffe",
         "Rachel Reeves",
-        "Tom McTague",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5213,7 +4832,6 @@
       "itunes_duration": "40:50",
       "speakers": [
         "Tom McTague",
-        "Will Lloyd",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5264,7 +4882,6 @@
       "enclosure_length": "41559324",
       "itunes_duration": "28:51",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5288,10 +4905,6 @@
       "speakers": [
         "Andy Burnham",
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "George Eaton",
-        "Jeremy Corbyn",
-        "Robert Jenrick",
         "Oli Dugmore"
       ],
       "topics": [
@@ -5312,9 +4925,6 @@
       "enclosure_length": "51044768",
       "itunes_duration": "35:26",
       "speakers": [
-        "Katie Stallard",
-        "Russ Buettner",
-        "Lucky Loser",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5336,8 +4946,6 @@
       "enclosure_length": "23050120",
       "itunes_duration": "15:59",
       "speakers": [
-        "George Eaton",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5359,8 +4967,6 @@
       "speakers": [
         "Rachel Reeves",
         "Angela Rayner",
-        "George Eaton",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5380,10 +4986,6 @@
       "enclosure_length": "54011694",
       "itunes_duration": "37:30",
       "speakers": [
-        "Benjamin Netanyahu",
-        "Katie Stallard",
-        "Raja Khalidi",
-        "Rajan Menon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5427,9 +5029,6 @@
       "enclosure_length": "36933440",
       "itunes_duration": "25:38",
       "speakers": [
-        "Andrew Marr",
-        "George Eaton",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5470,7 +5069,6 @@
       "itunes_duration": "30:49",
       "speakers": [
         "Alice Vincent",
-        "Kate Mossman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5493,9 +5091,8 @@
       "enclosure_length": "24744944",
       "itunes_duration": "17:10",
       "speakers": [
-        "Lib Dems",
-        "Andrew Marr",
-        "Rachel Cunliffe",
+        "Blue Labour",
+        "Turquoise Labour",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5515,10 +5112,6 @@
       "enclosure_length": "45774644",
       "itunes_duration": "31:46",
       "speakers": [
-        "Enoch Powell",
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5539,11 +5132,7 @@
       "enclosure_length": "78820327",
       "itunes_duration": "32:27",
       "speakers": [
-        "Leo Xiv",
-        "Pope Francis",
-        "Katie Stallard",
-        "Madoc Cairns",
-        "Finn McRedmond",
+        "Pope Leo",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5565,8 +5154,6 @@
       "itunes_duration": "37:54",
       "speakers": [
         "Joseph Mallord William Turner",
-        "Tom Gatti",
-        "Michael Prodger",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5588,11 +5175,6 @@
       "enclosure_length": "33267354",
       "itunes_duration": "23:05",
       "speakers": [
-        "Lib Dems",
-        "Rachel Cunliffe",
-        "Ben Walker",
-        "Megan Kenyon",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5635,7 +5217,6 @@
       "enclosure_length": "41349713",
       "itunes_duration": "28:42",
       "speakers": [
-        "Harry Shukman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5659,7 +5240,6 @@
         "Tom Gatti",
         "Sarah Churchwell",
         "Erica Wagner",
-        "Scott Fitzgerald",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5681,9 +5261,7 @@
       "enclosure_length": "35131710",
       "itunes_duration": "24:23",
       "speakers": [
-        "Hannah Barnes",
-        "Ben Walker",
-        "George Eaton",
+        "Tories Yesterday",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5705,9 +5283,6 @@
       "itunes_duration": "23:17",
       "speakers": [
         "Hannah Barnes",
-        "Andrew Marr",
-        "Megan Gibson",
-        "Mark Carney",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5728,8 +5303,6 @@
       "enclosure_length": "50859242",
       "itunes_duration": "35:18",
       "speakers": [
-        "Katie Stallard",
-        "Kim Lane Scheppele",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5751,9 +5324,6 @@
       "enclosure_length": "24913790",
       "itunes_duration": "17:17",
       "speakers": [
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5774,11 +5344,6 @@
       "enclosure_length": "34899678",
       "itunes_duration": "24:13",
       "speakers": [
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Rachel Cunliffe",
-        "George Eaton",
-        "Steve Reed",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5800,9 +5365,6 @@
       "enclosure_length": "46664964",
       "itunes_duration": "32:23",
       "speakers": [
-        "Katie Stallard",
-        "Rana Mitter",
-        "Kevin Xu",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5825,7 +5387,6 @@
       "itunes_duration": "31:45",
       "speakers": [
         "Jill Rutter",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5846,8 +5407,7 @@
       "enclosure_length": "34089750",
       "itunes_duration": "23:39",
       "speakers": [
-        "Rachel Cunliffe",
-        "Phil Tinline",
+        "Rachel Cu",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5868,9 +5428,7 @@
       "enclosure_length": "37249195",
       "itunes_duration": "25:42",
       "speakers": [
-        "Katie Stallard",
-        "Phil Whitaker",
-        "Nick Dearden",
+        "Big Pharma",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5891,8 +5449,6 @@
       "enclosure_length": "29349821",
       "itunes_duration": "20:22",
       "speakers": [
-        "Jon Bernstein",
-        "Holly Ellis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5916,8 +5472,8 @@
       "enclosure_length": "39446972",
       "itunes_duration": "27:23",
       "speakers": [
-        "Rachel Cunliffe",
-        "Ben Walker",
+        "council elections",
+        "mayoral races",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5939,9 +5495,6 @@
       "enclosure_length": "32370078",
       "itunes_duration": "22:28",
       "speakers": [
-        "Rachel Cunliffe",
-        "Will Dunn",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5962,11 +5515,7 @@
       "enclosure_length": "36263398",
       "itunes_duration": "25:10",
       "speakers": [
-        "Vladimir Putin",
-        "Benjamin Netanyahu",
-        "Katie Stallard",
-        "Basilio Sepe",
-        "Kelebogile Zvobgo",
+        "Duterte Rodrigo Duterte",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -5989,9 +5538,6 @@
       "enclosure_length": "44751679",
       "itunes_duration": "31:04",
       "speakers": [
-        "Sue Roe",
-        "Hidden Portraits",
-        "Sue Prideaux",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6012,8 +5558,6 @@
       "enclosure_length": "33041064",
       "itunes_duration": "22:56",
       "speakers": [
-        "Andrew Marr",
-        "Oliver Moody",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6033,8 +5577,6 @@
       "enclosure_length": "31962308",
       "itunes_duration": "22:11",
       "speakers": [
-        "Andrew Marr",
-        "Duncan Weldon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6054,9 +5596,6 @@
       "enclosure_length": "52388552",
       "itunes_duration": "36:22",
       "speakers": [
-        "JD Vance",
-        "Katie Stallard",
-        "Markus Valentin",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6078,13 +5617,8 @@
       "itunes_duration": "28:10",
       "speakers": [
         "Kate Mossman",
-        "Jon Bon Jovi",
-        "Nick Cave",
-        "Roger Taylor",
-        "Tom Gatti",
-        "Buy Kate'S",
-        "Alexis Petridis",
-        "Jeff Beck"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "rock",
@@ -6108,9 +5642,7 @@
       "enclosure_length": "31489424",
       "itunes_duration": "21:51",
       "speakers": [
-        "Rachel Cunliffe",
-        "Andrew Marr",
-        "Will Dunn",
+        "If Britain",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6130,9 +5662,7 @@
       "enclosure_length": "43122238",
       "itunes_duration": "29:56",
       "speakers": [
-        "Rachel Cunliffe",
-        "Andrew Marr",
-        "Ben Zaranko",
+        "Spring Statement Growth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6153,8 +5683,7 @@
       "enclosure_length": "63165976",
       "itunes_duration": "43:51",
       "speakers": [
-        "Wes Streeting",
-        "Hannah Barnes",
+        "Spring Statement Labour",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6176,9 +5705,6 @@
       "itunes_duration": "29:22",
       "speakers": [
         "Kazuo Ishiguro",
-        "David Sexton",
-        "Tom Gatti",
-        "Samantha Harvey",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6198,9 +5724,6 @@
       "enclosure_length": "22947823",
       "itunes_duration": "15:55",
       "speakers": [
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6221,11 +5744,8 @@
       "itunes_duration": "28:26",
       "speakers": [
         "Liz Kendall",
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Rachel Cunliffe",
-        "Diane Abbott",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "boris",
@@ -6244,10 +5764,7 @@
       "enclosure_length": "45756644",
       "itunes_duration": "31:46",
       "speakers": [
-        "Vladimir Putin",
-        "Katie Stallard",
-        "David Reynolds",
-        "Max Bergmann",
+        "Since Nato",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6269,11 +5786,6 @@
       "itunes_duration": "43:10",
       "speakers": [
         "Ian Leslie",
-        "John Lennon",
-        "Paul McCartney",
-        "Kate Mossman",
-        "John Paul",
-        "Deborah Levy",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6298,8 +5810,6 @@
       "speakers": [
         "Rupert Lowe",
         "Hannah Barnes",
-        "Andrew Marr",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6321,10 +5831,6 @@
       "enclosure_length": "41379419",
       "itunes_duration": "28:43",
       "speakers": [
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Will Dunn",
-        "Alison McGovern",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6345,8 +5851,6 @@
       "enclosure_length": "39881464",
       "itunes_duration": "27:41",
       "speakers": [
-        "Volodymyr Zelensky",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6368,10 +5872,6 @@
       "itunes_duration": "30:40",
       "speakers": [
         "Lady Gaga",
-        "Kate Mossman",
-        "Tom Gatti",
-        "Read Kate",
-        "Bruno Mars",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6394,6 +5894,7 @@
       "enclosure_length": "34296746",
       "itunes_duration": "23:48",
       "speakers": [
+        "Could Farage",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6415,10 +5916,6 @@
       "enclosure_length": "29917099",
       "itunes_duration": "20:46",
       "speakers": [
-        "Rachel Reeves",
-        "Hannah Barnes",
-        "Andrew Marr",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6440,9 +5937,6 @@
       "enclosure_length": "44968506",
       "itunes_duration": "31:13",
       "speakers": [
-        "Kate Lamble",
-        "Sam Greene",
-        "Hans Kundnani",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6464,10 +5958,6 @@
       "enclosure_length": "28927443",
       "itunes_duration": "20:04",
       "speakers": [
-        "Jon Bernstein",
-        "Emea Stefanie Valdés-Scott",
-        "Kanishka Narayan",
-        "Henry Ajder",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6488,7 +5978,6 @@
       "itunes_duration": "26:35",
       "speakers": [
         "Andrey Kurkov",
-        "Tom Gatti",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6512,9 +6001,6 @@
       "enclosure_length": "29661300",
       "itunes_duration": "20:35",
       "speakers": [
-        "Andrew Marr",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6537,9 +6023,6 @@
       "itunes_duration": "27:17",
       "speakers": [
         "Andrew Marr",
-        "Hannah Barnes",
-        "Will Dunn",
-        "Phil Whitaker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6563,9 +6046,6 @@
       "itunes_duration": "26:14",
       "speakers": [
         "Steve Bannon",
-        "Kate Lamble",
-        "Freddie Hayward",
-        "Ian Ward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6587,7 +6067,6 @@
       "itunes_duration": "29:34",
       "speakers": [
         "Alison McGovern",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6612,11 +6091,6 @@
       "enclosure_length": "53950644",
       "itunes_duration": "37:27",
       "speakers": [
-        "Vladimir Putin",
-        "Hannah Barnes",
-        "Lawrence Freedman",
-        "Rachel Cunliffe",
-        "David Gauke",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6637,9 +6111,6 @@
       "itunes_duration": "26:12",
       "speakers": [
         "JD Vance",
-        "Kate Lamble",
-        "Hans Kundnani",
-        "Annette Dittert",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6661,7 +6132,6 @@
       "itunes_duration": "46:13",
       "speakers": [
         "Deborah Levy",
-        "Tom Gatti",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6686,10 +6156,9 @@
         "Kim Leadbeater",
         "Rachel Cunliffe",
         "Megan Kenyon",
-        "Hannah Barnes",
-        "Ed Davey",
-        "Morning Call",
-        "Anoosh Chakelian"
+        "Hannah Bar",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "rise",
@@ -6709,8 +6178,6 @@
       "enclosure_length": "43027343",
       "itunes_duration": "29:52",
       "speakers": [
-        "Hannah Barnes",
-        "David Smith",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6730,12 +6197,6 @@
       "enclosure_length": "32260337",
       "itunes_duration": "22:22",
       "speakers": [
-        "Schools Bill",
-        "Bridget Phillipson",
-        "Katharine Birbalsingh",
-        "Leora Cruddas",
-        "Pippa Bailey",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6755,9 +6216,8 @@
       "enclosure_length": "41055388",
       "itunes_duration": "28:30",
       "speakers": [
-        "Tom Gatti",
-        "Gary Mormino",
-        "Lily Lynch",
+        "Florida Project",
+        "Sunshine State",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6783,12 +6243,9 @@
       "enclosure_length": "43362178",
       "itunes_duration": "30:06",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Angus Hanton",
-        "Vassal State",
-        "George Eaton",
-        "Anoosh Chakelian"
+        "How America",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "america",
@@ -6808,8 +6265,7 @@
       "itunes_duration": "27:57",
       "speakers": [
         "Andrew Marr",
-        "Gabriel Pogrund",
-        "Patrick Maguire",
+        "Gabriel Po",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6831,10 +6287,6 @@
       "enclosure_length": "41455568",
       "itunes_duration": "28:46",
       "speakers": [
-        "Kate Lamble",
-        "Janet Williams",
-        "Hannah Barnes",
-        "Dominic Heaney",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6858,12 +6310,8 @@
       "speakers": [
         "Margaret Thatcher",
         "Nigel Lawson",
-        "Brian Walden",
-        "Rob Burley",
-        "Steve Coogan",
-        "Harriet Walter",
-        "Tom Gatti",
-        "Rachel Cooke"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "problem",
@@ -6884,7 +6332,6 @@
       "itunes_duration": "19:19",
       "speakers": [
         "John McDonnell",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6909,9 +6356,6 @@
       "speakers": [
         "Rachel Reeves",
         "George Eaton",
-        "Rachel Cunliffe",
-        "Hannah Barnes",
-        "com jan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6934,13 +6378,8 @@
       "itunes_duration": "35:00",
       "speakers": [
         "Queen Anne",
-        "Kate Lamble",
-        "Megan Kenyon",
-        "Sam Alvis",
-        "Ben Houchen",
-        "Nic Dakin",
-        "Tony Gosling",
-        "Andrea Jenkyns"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "borrow",
@@ -6960,10 +6399,6 @@
       "itunes_duration": "31:25",
       "speakers": [
         "Bob Dylan",
-        "James Mangold",
-        "Tom Gatti",
-        "Kate Mossman",
-        "Dorian Lynskey",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -6985,8 +6420,7 @@
       "enclosure_length": "39015612",
       "itunes_duration": "27:05",
       "speakers": [
-        "Rachel Cunliffe",
-        "Hannah Barnes",
+        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7010,7 +6444,6 @@
         "Jacob Davey",
         "Axel Rudakubana",
         "Hannah Barnes",
-        "Alex Rudakabana",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7037,9 +6470,6 @@
       "enclosure_length": "34019545",
       "itunes_duration": "23:37",
       "speakers": [
-        "Kate Lamble",
-        "Sondos Sabra",
-        "Bruno Maçães",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7060,9 +6490,6 @@
       "itunes_duration": "30:08",
       "speakers": [
         "Tom Gatti",
-        "Madeleine Davis",
-        "Anastasia Berg",
-        "Morning Call",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7083,11 +6510,8 @@
       "itunes_duration": "20:36",
       "speakers": [
         "Will Labour",
-        "Andrew Marr",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Morning Call",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "labour",
@@ -7108,10 +6532,6 @@
       "itunes_duration": "29:47",
       "speakers": [
         "Rachel Reeves",
-        "Andrew Marr",
-        "Will Dunn",
-        "Hannah Barnes",
-        "Morning Call",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7134,8 +6554,6 @@
       "speakers": [
         "Pete Hegseth",
         "Marco Rubio",
-        "Kate Lamble",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7156,10 +6574,7 @@
       "enclosure_length": "37177226",
       "itunes_duration": "25:48",
       "speakers": [
-        "Robbie Williams",
-        "Tom Gatti",
-        "Anna Leskiewicz",
-        "Emma Garland",
+        "Inside Britain",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7180,10 +6595,6 @@
       "enclosure_length": "33778601",
       "itunes_duration": "23:27",
       "speakers": [
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Rachel Cunliffe",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7205,11 +6616,8 @@
       "enclosure_length": "33006463",
       "itunes_duration": "22:54",
       "speakers": [
-        "Andrew Marr",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "com newstatesman",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "elon",
@@ -7231,9 +6639,6 @@
       "enclosure_length": "39710486",
       "itunes_duration": "27:34",
       "speakers": [
-        "Kate Lamble",
-        "George Magnus",
-        "Jonny Ball",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7255,7 +6660,6 @@
       "itunes_duration": "32:17",
       "speakers": [
         "Tom Gatti",
-        "Nick Drake Came",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7278,7 +6682,6 @@
       "enclosure_length": "809164",
       "itunes_duration": "0:33",
       "speakers": [
-        "Morning Call",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7299,8 +6702,6 @@
       "itunes_duration": "30:16",
       "speakers": [
         "Hannah Barnes",
-        "Katie Stallard",
-        "Wolfgang Münchau",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7344,7 +6745,6 @@
       "speakers": [
         "Hannah Barnes",
         "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7367,8 +6767,6 @@
       "itunes_duration": "27:45",
       "speakers": [
         "Prince Andrew",
-        "Harry Clarke-Ezzidio",
-        "Emily Thornberry",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7392,8 +6790,6 @@
       "itunes_duration": "34:40",
       "speakers": [
         "Torsten Bell",
-        "Will Dunn",
-        "Ed Milliband",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7416,9 +6812,6 @@
       "itunes_duration": "29:30",
       "speakers": [
         "Michael Bond",
-        "Tom Gatti",
-        "Amelia Tait",
-        "Jon Foster",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7441,9 +6834,6 @@
       "itunes_duration": "16:30",
       "speakers": [
         "Heidi Alexander",
-        "Hannah Barnes",
-        "Andrew Marr",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7466,9 +6856,6 @@
       "speakers": [
         "Will Starmer",
         "Shamima Begum",
-        "Hannah Barnes",
-        "Andrew Marr",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7488,11 +6875,6 @@
       "enclosure_length": "45781666",
       "itunes_duration": "31:47",
       "speakers": [
-        "Bashar al-Assad",
-        "Kate Lamble",
-        "Rajan Menon",
-        "Marcel Dirsus",
-        "John Jenkins",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7512,9 +6894,6 @@
       "enclosure_length": "51052275",
       "itunes_duration": "35:26",
       "speakers": [
-        "Tom Gatti",
-        "Pippa Bailey",
-        "David Sexton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7566,7 +6945,6 @@
       "itunes_duration": "30:01",
       "speakers": [
         "Peter Hyman",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7590,10 +6968,6 @@
       "enclosure_length": "38819214",
       "itunes_duration": "26:57",
       "speakers": [
-        "Kate Lamble",
-        "Matthew Engel",
-        "Megan Kenyon",
-        "Jack Shaw",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7615,10 +6989,6 @@
       "itunes_duration": "1:16:09",
       "speakers": [
         "Sponsored Artificial",
-        "Jane Wakefield",
-        "Paul Cardno",
-        "Sarah Armstrong",
-        "Generative AI",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7639,8 +7009,6 @@
       "itunes_duration": "30:46",
       "speakers": [
         "Banquet Records",
-        "Tom Gatti",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7662,7 +7030,6 @@
       "itunes_duration": "16:52",
       "speakers": [
         "Wes Streeting",
-        "Hannah White",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7684,9 +7051,7 @@
       "enclosure_length": "28095953",
       "itunes_duration": "19:30",
       "speakers": [
-        "Andrew Marr",
-        "Rachel Cunliffe",
-        "Hannah Barnes",
+        "free swe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7706,11 +7071,6 @@
       "enclosure_length": "44432451",
       "itunes_duration": "30:50",
       "speakers": [
-        "Kim Leadbeater",
-        "Andrew Marr",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7731,10 +7091,6 @@
       "enclosure_length": "42079366",
       "itunes_duration": "29:12",
       "speakers": [
-        "Kate Lamble",
-        "Ian Garner",
-        "Lawrence Freedman",
-        "Peter Ricketts",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7757,10 +7113,6 @@
       "enclosure_length": "39905778",
       "itunes_duration": "27:42",
       "speakers": [
-        "Ralf Hütter",
-        "Florian Schneider",
-        "Tom Gatti",
-        "Jude Rogers",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7782,10 +7134,7 @@
       "enclosure_length": "27182326",
       "itunes_duration": "18:52",
       "speakers": [
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Rachel Cunliffe",
-        "Read Andrew",
+        "Labour Britain",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7807,12 +7156,8 @@
       "itunes_duration": "30:32",
       "speakers": [
         "Andrew Marr",
-        "George Eaton",
-        "Hannah Barnes",
-        "Rachel Reeves",
-        "Will Dunn",
-        "David Lammy",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "marr",
@@ -7832,13 +7177,8 @@
       "itunes_duration": "30:39",
       "speakers": [
         "Sinn Féin",
-        "Fianna Fáil",
-        "Fine Gael",
-        "Mary-Lou McDonald",
-        "Kate Lamble",
-        "Eoin O'Malley",
-        "Finn McRedmond",
-        "Conor Kelly"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "sinn",
@@ -7858,7 +7198,6 @@
       "itunes_duration": "20:41",
       "speakers": [
         "Samantha Harvey",
-        "Nicholas Harris",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7885,12 +7224,7 @@
       "enclosure_length": "35036530",
       "itunes_duration": "24:18",
       "speakers": [
-        "Sarah Dawood",
-        "Jennifer Dixon Dbe",
-        "Jonathan Ashworth",
-        "Labour Together",
-        "Steve Brine",
-        "Ronny Cheung",
+        "National Stat",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7911,7 +7245,6 @@
       "enclosure_length": "21464522",
       "itunes_duration": "14:53",
       "speakers": [
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7934,10 +7267,6 @@
       "enclosure_length": "34968200",
       "itunes_duration": "24:16",
       "speakers": [
-        "Jonathan Powell",
-        "Liz Lloyd",
-        "Peter Mandelson",
-        "Alan Milburn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7958,11 +7287,6 @@
       "enclosure_length": "45534604",
       "itunes_duration": "31:36",
       "speakers": [
-        "Kate Lamble",
-        "Chris York",
-        "Wolfgang Munchau",
-        "Angela Stent",
-        "Mex Bergmann",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -7985,9 +7309,6 @@
       "enclosure_length": "49746422",
       "itunes_duration": "34:32",
       "speakers": [
-        "Tom Gatti",
-        "Sarah Manavis",
-        "Josh Cohen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8007,11 +7328,9 @@
       "enclosure_length": "39915544",
       "itunes_duration": "27:42",
       "speakers": [
-        "Zoe Grunewald",
-        "Jessica Taplin",
-        "Martin Lord",
-        "Carol Shreve",
-        "Law Centre",
+        "Fuel Poverty",
+        "Rising Costs",
+        "Sponsored Fuel",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8035,8 +7354,6 @@
       "itunes_duration": "24:37",
       "speakers": [
         "Nicholas Harris",
-        "Rachel Cunliffe",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8058,9 +7375,6 @@
       "enclosure_length": "43378164",
       "itunes_duration": "30:06",
       "speakers": [
-        "Hannah Barnes",
-        "George Eaton",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8081,10 +7395,6 @@
       "enclosure_length": "58655710",
       "itunes_duration": "40:43",
       "speakers": [
-        "Kate Lamble",
-        "Katie Stallard",
-        "Jill Filipovic",
-        "Sohrab Ahmari",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8107,9 +7417,6 @@
       "enclosure_length": "38493587",
       "itunes_duration": "26:43",
       "speakers": [
-        "Jeff Bezos",
-        "Tom Gatti",
-        "Alison Phillips",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8133,10 +7440,6 @@
       "itunes_duration": "27:15",
       "speakers": [
         "David Gauke",
-        "Rachel Reeves",
-        "Nick Clegg",
-        "Rachel Cunliffe",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8160,10 +7463,6 @@
       "itunes_duration": "26:09",
       "speakers": [
         "Rachel Reeves",
-        "Andrew Marr",
-        "George Eaton",
-        "Hannah Barnes",
-        "Ben Zaranko",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8184,10 +7483,7 @@
       "enclosure_length": "643008788",
       "itunes_duration": "27:54",
       "speakers": [
-        "Kamala Harris",
-        "Kate Lamble",
-        "Sarah Churchwell",
-        "Sohrab Ahmari",
+        "Presidential Elections",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8208,11 +7504,6 @@
       "itunes_duration": "27:31",
       "speakers": [
         "Steve McQueen",
-        "Saiorse Ronan",
-        "Elliot Heffernan",
-        "Tom Gatti",
-        "Gary Younge",
-        "David Edgerton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8260,7 +7551,6 @@
       "itunes_duration": "20:55",
       "speakers": [
         "Ben Zaranko",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8281,13 +7571,8 @@
       "enclosure_length": "36599280",
       "itunes_duration": "25:24",
       "speakers": [
-        "Kamala Harris",
-        "Kate Lamble",
-        "Scott Keeter",
-        "Ben Walker",
-        "Megan Gibson",
-        "Katie Stallard",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "poll"
@@ -8305,13 +7590,8 @@
       "enclosure_length": "40297301",
       "itunes_duration": "27:58",
       "speakers": [
-        "Gabriel Sherman",
-        "Ali Abasi",
-        "Sebastian Stan",
-        "Roy Cohn",
-        "Jeremy Strong",
-        "Megan Gibson",
-        "Tom Gatti"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "donald",
@@ -8332,9 +7612,6 @@
       "speakers": [
         "Will Kemi Badenoch",
         "James Cleverly",
-        "Andrew Marr",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8357,9 +7634,6 @@
       "itunes_duration": "23:56",
       "speakers": [
         "Wes Streeting",
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8399,10 +7673,6 @@
       "enclosure_length": "38352000",
       "itunes_duration": "26:37",
       "speakers": [
-        "Emma Haslett",
-        "Julian Hunt",
-        "Jim Mackey",
-        "Sarah Woolnough",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8447,12 +7717,8 @@
       "enclosure_length": "53568463",
       "itunes_duration": "37:11",
       "speakers": [
-        "Sue Gray",
-        "George Eaton",
-        "Rachel Cunliffe",
-        "Hannah Barnes",
-        "James Cleverly",
-        "Robert Jenrick"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "nicola",
@@ -8475,8 +7741,7 @@
       "enclosure_length": "53725222",
       "itunes_duration": "37:17",
       "speakers": [
-        "Jill Filipovic Read",
-        "Katie Stallard",
+        "Republic National Committee",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8498,8 +7763,6 @@
       "itunes_duration": "17:07",
       "speakers": [
         "Rachel Cunliffe",
-        "Andrew Marr",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8522,8 +7785,6 @@
       "speakers": [
         "Rachel Cunliffe",
         "Andrew Marr",
-        "George Eaton",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8544,10 +7805,7 @@
       "enclosure_length": "48406739",
       "itunes_duration": "33:36",
       "speakers": [
-        "Sharone Lifschitz",
-        "Lawrence Freedman",
-        "Hanna Davis",
-        "Yalda Hakim",
+        "October Sharone Lifschitz",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8570,8 +7828,6 @@
       "enclosure_length": "58236680",
       "itunes_duration": "40:25",
       "speakers": [
-        "Hannah Barnes",
-        "Gabriel Gatehouse",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8593,11 +7849,6 @@
       "enclosure_length": "31287714",
       "itunes_duration": "21:43",
       "speakers": [
-        "Andrew Marr",
-        "David Blunkett",
-        "Wes Streeting",
-        "Baroness Taylor",
-        "Henry Tufnell",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8623,11 +7874,6 @@
       "itunes_duration": "29:42",
       "speakers": [
         "Rachel Reeves",
-        "Hannah Barnes",
-        "Andrew Marr",
-        "Rachel Cunliffe",
-        "Andy Burnham",
-        "Nicholas Harris",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8652,9 +7898,6 @@
       "itunes_duration": "17:30",
       "speakers": [
         "Sue Gray",
-        "Hannah Barnes",
-        "Andrew Marr",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8677,9 +7920,6 @@
       "speakers": [
         "Ed Davey",
         "Rachel Cunliffe",
-        "Wes Streeting",
-        "Hannah Barnes",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8723,11 +7963,7 @@
       "enclosure_length": "35959042",
       "itunes_duration": "24:57",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Kamala Harris",
-        "Kennedy Jr",
-        "Morning Call",
+        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8749,11 +7985,8 @@
       "speakers": [
         "Rachel Reeves",
         "Andrew Marr",
-        "George Eaton",
-        "Hannah Barnes",
-        "Kamala Harris",
-        "Morning Call",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "rachel",
@@ -8774,8 +8007,7 @@
       "itunes_duration": "41:15",
       "speakers": [
         "Losing Gaza",
-        "Raja Shehadeh",
-        "Raja Khalidi",
+        "Following Hamas",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8797,9 +8029,6 @@
       "speakers": [
         "Jeremy Corbyn",
         "Andrew Marr",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Morning Call",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8823,13 +8052,8 @@
       "itunes_duration": "26:29",
       "speakers": [
         "Andrew Marr",
-        "Rachel Cunliffe",
-        "Hannah Barnes",
-        "Priti Patel",
-        "Megan Kenyon",
-        "George Eaton",
-        "Morning Call",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "grenfell",
@@ -8852,8 +8076,6 @@
       "speakers": [
         "Cool Britannia",
         "Liam Gallagher",
-        "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8875,8 +8097,6 @@
       "enclosure_length": "35604710",
       "itunes_duration": "24:43",
       "speakers": [
-        "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8897,8 +8117,6 @@
       "enclosure_length": "22056522",
       "itunes_duration": "15:18",
       "speakers": [
-        "Hannah Barnes",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8919,10 +8137,9 @@
       "enclosure_length": "23752428",
       "itunes_duration": "16:29",
       "speakers": [
-        "Hannah Barnes",
-        "George Eaton",
-        "James Timpson",
-        "Charlie Taylor",
+        "Nhs staff",
+        "service workers",
+        "train drivers",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8947,7 +8164,6 @@
       "itunes_duration": "12:03",
       "speakers": [
         "Hannah Barnes",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8970,8 +8186,7 @@
       "enclosure_length": "27604130",
       "itunes_duration": "19:09",
       "speakers": [
-        "Hannah Barnes",
-        "George Eaton",
+        "Can Keir Starmer",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -8993,8 +8208,6 @@
       "enclosure_length": "63891317",
       "itunes_duration": "44:21",
       "speakers": [
-        "Sarah Dawood",
-        "Sophie McBain",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9015,8 +8228,6 @@
       "enclosure_length": "23221690",
       "itunes_duration": "16:07",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9038,9 +8249,6 @@
       "enclosure_length": "39619662",
       "itunes_duration": "27:30",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Nick Harris",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9063,8 +8271,7 @@
       "enclosure_length": "25700880",
       "itunes_duration": "17:50",
       "speakers": [
-        "Nazir Afzal",
-        "Rachel Cunliffe",
+        "Former Chief Prosecutor",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9086,8 +8293,6 @@
       "enclosure_length": "26611596",
       "itunes_duration": "18:28",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9131,8 +8336,6 @@
       "enclosure_length": "46061337",
       "itunes_duration": "31:58",
       "speakers": [
-        "Kwajo Tweneboa",
-        "Harry Clarke-Ezzidio",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9155,8 +8358,6 @@
       "itunes_duration": "15:33",
       "speakers": [
         "Ben Houchen",
-        "Hannah Barnes",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9177,9 +8378,6 @@
       "enclosure_length": "37346457",
       "itunes_duration": "25:55",
       "speakers": [
-        "Hannah Barnes",
-        "George Eaton",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9201,9 +8399,6 @@
       "itunes_duration": "25:14",
       "speakers": [
         "Andrew Marr",
-        "Kamala Harris",
-        "VP Kamala Harris",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9226,9 +8421,6 @@
       "enclosure_length": "19425563",
       "itunes_duration": "13:29",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "David Muir",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9252,10 +8444,6 @@
       "speakers": [
         "Will Labour",
         "Ed Miliband",
-        "Megan Kenyon",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Helen Thompson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9278,10 +8466,6 @@
       "enclosure_length": "42701702",
       "itunes_duration": "29:38",
       "speakers": [
-        "George Eaton",
-        "Rachel Cunliffe",
-        "Hannah Barnes",
-        "King’s Speech",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9304,11 +8488,6 @@
       "enclosure_length": "17688300",
       "itunes_duration": "12:16",
       "speakers": [
-        "Emma Haslett",
-        "Tony Lloyd",
-        "Robert Buckland",
-        "Daley Jones",
-        "Sarah Templeton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9332,9 +8511,6 @@
       "itunes_duration": "24:06",
       "speakers": [
         "Andrew Marr",
-        "JD Vance",
-        "Hannah Barnes",
-        "Sohrab Ahmari",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9358,10 +8534,6 @@
       "enclosure_length": "47047635",
       "itunes_duration": "32:39",
       "speakers": [
-        "Hannah Barnes",
-        "Jill Filipovic",
-        "Katie Stallard",
-        "Phil Tinline",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9383,10 +8555,6 @@
       "enclosure_length": "21757280",
       "itunes_duration": "15:06",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Yuan Yang",
-        "Sarah Sackman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9407,8 +8575,6 @@
       "enclosure_length": "29236430",
       "itunes_duration": "20:17",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9450,7 +8616,6 @@
       "itunes_duration": "22:27",
       "speakers": [
         "Andrew Marr",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9475,8 +8640,6 @@
       "enclosure_length": "38373602",
       "itunes_duration": "26:38",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9497,8 +8660,6 @@
       "enclosure_length": "57521510",
       "itunes_duration": "39:56",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9521,8 +8682,6 @@
       "enclosure_length": "35530406",
       "itunes_duration": "24:40",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9543,10 +8702,6 @@
       "itunes_duration": "29:07",
       "speakers": [
         "Tory Rome",
-        "Rishi Sunak",
-        "Hannah Barnes",
-        "George Eaton",
-        "David Gauke",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9567,7 +8722,7 @@
       "enclosure_length": "27730858",
       "itunes_duration": "19:15",
       "speakers": [
-        "Rachel Cunliffe",
+        "Another Reform",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9590,8 +8745,6 @@
       "itunes_duration": "29:31",
       "speakers": [
         "Andrew Marr",
-        "Hannah Barnes",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9614,10 +8767,7 @@
       "enclosure_length": "31351939",
       "itunes_duration": "21:45",
       "speakers": [
-        "Zoe Grunwald",
-        "Emma Cerrone",
-        "Honorary Consultant Gynaecological",
-        "Gayathri Kumar",
+        "Sponsored Cervical",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9662,11 +8812,6 @@
       "enclosure_length": "49061455",
       "itunes_duration": "34:03",
       "speakers": [
-        "Jeremy Corbyn",
-        "David Lammy",
-        "Rachel Cunliffe",
-        "George Eaton",
-        "Jason Cowley",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9689,8 +8834,7 @@
       "enclosure_length": "42903129",
       "itunes_duration": "29:47",
       "speakers": [
-        "Hannah Barnes",
-        "Ben Walker",
+        "Bet Lucky Another",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9711,8 +8855,6 @@
       "itunes_duration": "21:53",
       "speakers": [
         "Andrew Marr",
-        "Hannah Barnes",
-        "Nigel Reform",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9735,9 +8877,6 @@
       "enclosure_length": "31756953",
       "itunes_duration": "22:02",
       "speakers": [
-        "Rishi Sunak",
-        "Hannah Barnes",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9758,10 +8897,7 @@
       "enclosure_length": "30540028",
       "itunes_duration": "21:12",
       "speakers": [
-        "Rishi Sunak",
         "Ed Davey",
-        "Jeremy Corbyn",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9783,10 +8919,6 @@
       "enclosure_length": "34968729",
       "itunes_duration": "24:16",
       "speakers": [
-        "Rishi Sunak",
-        "Laura Saunders",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9804,10 +8936,6 @@
       "enclosure_length": "44619196",
       "itunes_duration": "30:58",
       "speakers": [
-        "John Swinney",
-        "Hannah Barnes",
-        "Chris Deerin",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9829,7 +8957,6 @@
       "itunes_duration": "22:16",
       "speakers": [
         "Andrew Marr",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9853,8 +8980,6 @@
       "itunes_duration": "32:09",
       "speakers": [
         "Richard Tice",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9876,9 +9001,6 @@
       "itunes_duration": "23:09",
       "speakers": [
         "Jeremy Hunt",
-        "Jeremy Corbyn",
-        "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9902,9 +9024,6 @@
       "enclosure_length": "46657232",
       "itunes_duration": "32:23",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9928,8 +9047,6 @@
       "itunes_duration": "25:25",
       "speakers": [
         "Grant Shapps",
-        "Hannah Barnes",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9951,7 +9068,6 @@
       "itunes_duration": "26:05",
       "speakers": [
         "Andrew Marr",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9973,10 +9089,7 @@
       "enclosure_length": "44295484",
       "itunes_duration": "30:45",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "Chris Deerin",
-        "Will Dunn",
+        "Lib Dem",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -9996,9 +9109,7 @@
       "enclosure_length": "23687932",
       "itunes_duration": "16:26",
       "speakers": [
-        "Rishi Sunak",
         "Finn McRedmond",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10020,10 +9131,6 @@
       "enclosure_length": "32592454",
       "itunes_duration": "22:37",
       "speakers": [
-        "George Eaton",
-        "Hannah Barnes",
-        "Vaughan Gethin",
-        "Ed Davey",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10044,9 +9151,6 @@
       "enclosure_length": "49789931",
       "itunes_duration": "34:34",
       "speakers": [
-        "Hannah Barnes",
-        "Freddie Hayward",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10067,9 +9171,6 @@
       "itunes_duration": "23:52",
       "speakers": [
         "Andrew Marr",
-        "Lib Dems",
-        "Hannah Barnes",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10093,7 +9194,6 @@
       "enclosure_length": "34206990",
       "itunes_duration": "23:44",
       "speakers": [
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10114,9 +9214,7 @@
       "enclosure_length": "37842570",
       "itunes_duration": "26:16",
       "speakers": [
-        "Rishi Sunak",
         "Ed Davey",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10138,8 +9236,6 @@
       "enclosure_length": "33419031",
       "itunes_duration": "23:12",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10162,8 +9258,7 @@
       "itunes_duration": "22:43",
       "speakers": [
         "Diane Abbott",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
+        "Today Labour",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10187,7 +9282,6 @@
       "itunes_duration": "19:52",
       "speakers": [
         "Andrew Marr",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10209,7 +9303,6 @@
       "enclosure_length": "32561273",
       "itunes_duration": "22:36",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10230,7 +9323,6 @@
       "itunes_duration": "22:20",
       "speakers": [
         "Will Dunn",
-        "Hannah Barnes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10253,10 +9345,6 @@
       "enclosure_length": "53266774",
       "itunes_duration": "36:58",
       "speakers": [
-        "Rishi Sunak",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10277,10 +9365,6 @@
       "enclosure_length": "35898096",
       "itunes_duration": "24:55",
       "speakers": [
-        "Zoë Grünewald",
-        "Jessica Taplin",
-        "Ashley Comley",
-        "Ellen De Decker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10302,7 +9386,6 @@
       "enclosure_length": "49611134",
       "itunes_duration": "34:26",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10326,10 +9409,6 @@
       "itunes_duration": "30:56",
       "speakers": [
         "Tory MPs Labour",
-        "Natalie Elphicke",
-        "Hannah Barnes",
-        "Rachel Cunliffe",
-        "David Gauke",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10351,8 +9430,6 @@
       "itunes_duration": "21:16",
       "speakers": [
         "Will Starmer",
-        "Hannah Barnes",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10394,10 +9471,6 @@
       "enclosure_length": "16677500",
       "itunes_duration": "11:34",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
-        "George Eaton",
-        "Morning Call",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10418,11 +9491,6 @@
       "enclosure_length": "29239940",
       "itunes_duration": "20:17",
       "speakers": [
-        "Rishi Sunak",
-        "Andy Street",
-        "Natalie Elphicke",
-        "Rachel Cunliffe",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10444,10 +9512,6 @@
       "enclosure_length": "47035413",
       "itunes_duration": "32:39",
       "speakers": [
-        "Emma Haslett",
-        "Chi Onwurah",
-        "Dan Mahony",
-        "Stephen Aherne",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10470,7 +9534,6 @@
       "enclosure_length": "41010274",
       "itunes_duration": "28:28",
       "speakers": [
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10490,9 +9553,7 @@
       "enclosure_length": "39086311",
       "itunes_duration": "27:08",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
-        "Ben Walker",
+        "Election Special",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10515,10 +9576,6 @@
       "enclosure_length": "32271931",
       "itunes_duration": "22:24",
       "speakers": [
-        "John Swinney",
-        "Kate Forbes",
-        "Rachel Cunliffe",
-        "Chris Deerin",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10541,8 +9598,6 @@
       "enclosure_length": "31207724",
       "itunes_duration": "21:39",
       "speakers": [
-        "Sarah Dawood",
-        "Arman Azadi",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10566,8 +9621,6 @@
       "enclosure_length": "24359952",
       "itunes_duration": "16:54",
       "speakers": [
-        "Hannah Barnes",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10590,9 +9643,7 @@
       "enclosure_length": "29603496",
       "itunes_duration": "20:33",
       "speakers": [
-        "Hannah Barnes",
-        "George Eaton",
-        "Louise Haigh",
+        "Can Labour",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10615,9 +9666,6 @@
       "enclosure_length": "39093297",
       "itunes_duration": "27:08",
       "speakers": [
-        "Rishi Sunak",
-        "Becky Slack",
-        "Moira Gilchrist",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10662,7 +9710,7 @@
       "enclosure_length": "25759374",
       "itunes_duration": "17:52",
       "speakers": [
-        "George Eaton",
+        "How Iran",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10684,9 +9732,6 @@
       "enclosure_length": "32874470",
       "itunes_duration": "22:49",
       "speakers": [
-        "Suella Braverman",
-        "Éric Zemmour",
-        "Viktor Orbán",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10706,9 +9751,8 @@
       "enclosure_length": "42387834",
       "itunes_duration": "29:25",
       "speakers": [
+        "Decaying Britain",
         "Anoosh Chakelian",
-        "Harry Clarke-Ezzidio",
-        "Sarah Dawood",
         "Oli Dugmore"
       ],
       "topics": [
@@ -10730,7 +9774,6 @@
       "speakers": [
         "Angela Rayner",
         "Anoosh Chakelian",
-        "Dominic Raab",
         "Oli Dugmore"
       ],
       "topics": [
@@ -10754,7 +9797,6 @@
       "enclosure_length": "36806480",
       "itunes_duration": "25:33",
       "speakers": [
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10777,8 +9819,7 @@
       "enclosure_length": "36903505",
       "itunes_duration": "25:37",
       "speakers": [
-        "Chris Stone",
-        "Tanya Gold",
+        "Queen Elizabeth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10801,8 +9842,6 @@
       "speakers": [
         "Anoosh Chakelian",
         "Rachel Cunliffe",
-        "Barry Gardiner",
-        "Morning Call",
         "Oli Dugmore"
       ],
       "topics": [
@@ -10823,8 +9862,6 @@
       "enclosure_length": "33544907",
       "itunes_duration": "23:17",
       "speakers": [
-        "Will Dunn",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10846,10 +9883,7 @@
       "enclosure_length": "42032668",
       "itunes_duration": "29:10",
       "speakers": [
-        "Suze Cooper",
-        "Stephen Timms",
-        "Andy Prendergast",
-        "Andrew Brem",
+        "Sponsored Flexible",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10875,7 +9909,6 @@
       "itunes_duration": "26:00",
       "speakers": [
         "Alison McGovern",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10899,7 +9932,6 @@
       "enclosure_length": "26855328",
       "itunes_duration": "18:38",
       "speakers": [
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10922,7 +9954,6 @@
       "enclosure_length": "24856762",
       "itunes_duration": "17:15",
       "speakers": [
-        "Iain Duncan Smith",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10944,8 +9975,6 @@
       "enclosure_length": "43085090",
       "itunes_duration": "29:54",
       "speakers": [
-        "Rachel Cunliffe",
-        "Humphrey Hawksley",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10966,7 +9995,6 @@
       "enclosure_length": "19012561",
       "itunes_duration": "13:11",
       "speakers": [
-        "Tory Mayors",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -10988,10 +10016,8 @@
       "enclosure_length": "23267004",
       "itunes_duration": "16:09",
       "speakers": [
-        "Rachel Reeves",
-        "Mais Lecture",
+        "Shadow Chancel",
         "Anoosh Chakelian",
-        "George Eaton",
         "Oli Dugmore"
       ],
       "topics": [
@@ -11014,7 +10040,6 @@
       "itunes_duration": "38:01",
       "speakers": [
         "Alona Ferber",
-        "Mary Ann Seighart",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11035,7 +10060,6 @@
       "itunes_duration": "14:24",
       "speakers": [
         "Ben Walker",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11059,10 +10083,6 @@
       "enclosure_length": "28388243",
       "itunes_duration": "19:42",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
-        "George Eaton",
-        "Frank Hester",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11086,7 +10106,6 @@
       "speakers": [
         "Andy Burnham",
         "Steve Rotheram",
-        "Head North",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11110,9 +10129,6 @@
       "enclosure_length": "22988514",
       "itunes_duration": "15:57",
       "speakers": [
-        "Rishi Sunak",
-        "Harry Clarke-Ezzidio",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11134,9 +10150,6 @@
       "itunes_duration": "22:42",
       "speakers": [
         "Jeremy Hunt",
-        "Kwasi Kwarteng",
-        "Rachel Cunliffe",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11159,8 +10172,6 @@
       "itunes_duration": "35:45",
       "speakers": [
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "Barry Gardiner",
         "Oli Dugmore"
       ],
       "topics": [
@@ -11180,10 +10191,7 @@
       "itunes_duration": "22:55",
       "speakers": [
         "George Galloway",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
-        "Ben Walker",
-        "Read Anoosh",
         "Oli Dugmore"
       ],
       "topics": [
@@ -11208,8 +10216,7 @@
         "Sadiq Khan",
         "Steve Bannon",
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "Rishi Sunak"
+        "Oli Dugmore"
       ],
       "topics": [
         "tory",
@@ -11230,10 +10237,6 @@
       "enclosure_length": "56374381",
       "itunes_duration": "39:08",
       "speakers": [
-        "Emma Haslett",
-        "Sarah Champion",
-        "James Mwangi",
-        "Hannah Ryder",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11255,8 +10258,6 @@
       "enclosure_length": "41522258",
       "itunes_duration": "28:49",
       "speakers": [
-        "Harry Clarke-Ezzidio",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11277,7 +10278,6 @@
       "enclosure_length": "21774240",
       "itunes_duration": "15:06",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11298,8 +10298,6 @@
       "enclosure_length": "29836384",
       "itunes_duration": "20:42",
       "speakers": [
-        "Lindsay Hoyle",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11323,10 +10321,6 @@
       "enclosure_length": "36784942",
       "itunes_duration": "25:32",
       "speakers": [
-        "Emma Haslett",
-        "Julian Hunt",
-        "Ruth Jones",
-        "Costas Velis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11348,9 +10342,8 @@
       "enclosure_length": "47643718",
       "itunes_duration": "33:04",
       "speakers": [
+        "effectively declar",
         "Anoosh Chakelian",
-        "Megan Kenyon",
-        "Jonny Ball",
         "Oli Dugmore"
       ],
       "topics": [
@@ -11369,8 +10362,7 @@
       "enclosure_length": "710264730",
       "itunes_duration": "30:49",
       "speakers": [
-        "Rachel Cunliffe",
-        "Ben Walker",
+        "Swing Time",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11417,9 +10409,6 @@
       "enclosure_length": "66572103",
       "itunes_duration": "46:13",
       "speakers": [
-        "Stuart McGurk",
-        "Will Dunn",
-        "Melissa Denes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11464,12 +10453,8 @@
       "itunes_duration": "22:35",
       "speakers": [
         "Will Liz Truss",
-        "Rishi Sunak",
-        "Jacob Rees-Mogg",
-        "Lee Anderson",
-        "Mark Littlewood",
-        "Rachel Cunliffe",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "truss",
@@ -11488,8 +10473,7 @@
       "enclosure_length": "51919560",
       "itunes_duration": "36:02",
       "speakers": [
-        "William Davies",
-        "Garlic Toothpaste",
+        "Left Behind",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11509,8 +10493,6 @@
       "enclosure_length": "23842250",
       "itunes_duration": "16:33",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11536,7 +10518,6 @@
       "itunes_duration": "19:05",
       "speakers": [
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
         "Oli Dugmore"
       ],
       "topics": [
@@ -11557,9 +10538,7 @@
       "enclosure_length": "33921777",
       "itunes_duration": "23:32",
       "speakers": [
-        "Becky Slack",
-        "Clare Turnbull",
-        "Marc Moodley",
+        "Sponsored New",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11606,7 +10585,6 @@
       "itunes_duration": "15:47",
       "speakers": [
         "Simon Clarke",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11650,7 +10628,6 @@
       "itunes_duration": "16:16",
       "speakers": [
         "Susan Neiman",
-        "Alona Ferber",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11715,9 +10692,6 @@
       "enclosure_length": "29837294",
       "itunes_duration": "20:42",
       "speakers": [
-        "Chris Stone",
-        "Doug Gurr",
-        "Hilary Tam",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11741,8 +10715,6 @@
       "itunes_duration": "24:24",
       "speakers": [
         "Team Starmer",
-        "George Eaton",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11765,7 +10737,6 @@
       "itunes_duration": "14:54",
       "speakers": [
         "Lib Dems",
-        "Lib Dem",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11786,6 +10757,7 @@
       "enclosure_length": "32959740",
       "itunes_duration": "22:52",
       "speakers": [
+        "Post Offices",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11810,8 +10782,6 @@
       "enclosure_length": "40772812",
       "itunes_duration": "28:18",
       "speakers": [
-        "Bruno Maçães",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11832,7 +10802,7 @@
       "enclosure_length": "26508596",
       "itunes_duration": "18:24",
       "speakers": [
-        "Rishi Sunaks",
+        "Proportional Representation",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11855,7 +10825,6 @@
       "itunes_duration": "18:18",
       "speakers": [
         "Emma Runswick",
-        "Victoria Atkins",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11877,8 +10846,6 @@
       "enclosure_length": "69797450",
       "itunes_duration": "48:27",
       "speakers": [
-        "Rachel Cunliffe",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11943,7 +10910,7 @@
       "enclosure_length": "40005535",
       "itunes_duration": "27:46",
       "speakers": [
-        "Sarah Dawood",
+        "New Statesman Media Group",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11971,7 +10938,6 @@
         "Ash Sarkar",
         "Ian Dunt",
         "Armando Iannucci",
-        "Westminster Reimagined",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -11996,10 +10962,6 @@
       "enclosure_length": "84623580",
       "itunes_duration": "58:45",
       "speakers": [
-        "Alona Ferber",
-        "Sam Adler-Bell",
-        "Howard Jacobson",
-        "Being Jewish",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12020,7 +10982,6 @@
       "enclosure_length": "25424229",
       "itunes_duration": "17:38",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12043,8 +11004,6 @@
       "itunes_duration": "21:10",
       "speakers": [
         "Mark Drakeford",
-        "Matt Hexter",
-        "Welsh Labour",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12070,7 +11029,6 @@
         "Richard Layard",
         "Armando Iannucci",
         "Westminster Reimagined Thurrock",
-        "Westminster Reimagined",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12096,8 +11054,7 @@
       "enclosure_length": "59414318",
       "itunes_duration": "41:15",
       "speakers": [
-        "Isabel Hardman",
-        "Phil Whitaker",
+        "Cambridge Literary Festival",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12118,8 +11075,6 @@
       "enclosure_length": "36798236",
       "itunes_duration": "25:32",
       "speakers": [
-        "James Cleverly",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12142,8 +11097,6 @@
       "enclosure_length": "29521079",
       "itunes_duration": "20:29",
       "speakers": [
-        "Rachel Cunliffe",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12167,8 +11120,6 @@
       "speakers": [
         "Armando Iannucci",
         "Westminster Reimagined",
-        "Simon Woolley",
-        "Graham Smith",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12192,8 +11143,6 @@
       "enclosure_length": "53157912",
       "itunes_duration": "36:54",
       "speakers": [
-        "Will Dunn",
-        "Ellen Peirson-Hagger",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12215,7 +11164,6 @@
       "itunes_duration": "17:10",
       "speakers": [
         "Andrew Marr",
-        "Zoë Grunëwald",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12257,10 +11205,7 @@
       "enclosure_length": "39145468",
       "itunes_duration": "27:10",
       "speakers": [
-        "Becky Slack",
-        "Alison McGovern",
-        "Neil Carberry",
-        "Claire Hawkins",
+        "Sponsored Since",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12304,7 +11249,7 @@
       "enclosure_length": "43592720",
       "itunes_duration": "30:15",
       "speakers": [
-        "Phil Tinline",
+        "Great Depression",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12325,7 +11270,6 @@
       "enclosure_length": "20956234",
       "itunes_duration": "14:32",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12346,7 +11290,6 @@
       "itunes_duration": "26:09",
       "speakers": [
         "Jeremy Hunt",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12372,8 +11315,6 @@
         "Armando Iannucci",
         "Westminster Reimagined",
         "Anoosh Chakelian",
-        "Alex von Tunzelmann",
-        "Ivan Rogers",
         "Oli Dugmore"
       ],
       "topics": [
@@ -12396,7 +11337,6 @@
       "itunes_duration": "28:05",
       "speakers": [
         "John Jenkins",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12421,7 +11361,8 @@
       "enclosure_length": "20263550",
       "itunes_duration": "14:03",
       "speakers": [
-        "Rachel Cunliffe",
+        "Will Labour",
+        "Home Office",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12444,8 +11385,6 @@
       "enclosure_length": "44155474",
       "itunes_duration": "30:39",
       "speakers": [
-        "Suella Braverman",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12489,8 +11428,6 @@
       "enclosure_length": "42657706",
       "itunes_duration": "29:37",
       "speakers": [
-        "Rishi Sunak",
-        "Melissa Denes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12514,7 +11451,6 @@
       "itunes_duration": "21:39",
       "speakers": [
         "Michelle Mone",
-        "Melissa Denes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12534,10 +11470,7 @@
       "enclosure_length": "24377390",
       "itunes_duration": "16:55",
       "speakers": [
-        "Rishi Sunak",
         "Charles Iii",
-        "Rachel Wearmouth",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12560,13 +11493,8 @@
       "enclosure_length": "32338238",
       "itunes_duration": "22:27",
       "speakers": [
-        "Rishi Sunak",
-        "Musk’s Twitter",
-        "James Dale Davidson",
-        "William Rees-Mogg",
-        "Will Lloyd",
-        "Sam Bankman-Fried",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "rishi",
@@ -12591,7 +11519,6 @@
       "enclosure_length": "23447824",
       "itunes_duration": "16:16",
       "speakers": [
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12612,8 +11539,6 @@
       "enclosure_length": "33244146",
       "itunes_duration": "23:04",
       "speakers": [
-        "Emma Norris",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12635,10 +11560,7 @@
       "enclosure_length": "45506040",
       "itunes_duration": "31:35",
       "speakers": [
-        "Becky Slack",
-        "David Baldwin",
-        "Lorraine Dallas",
-        "David Long",
+        "Sponsored Lung",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12662,7 +11584,6 @@
       "itunes_duration": "12:15",
       "speakers": [
         "Andrew Marr",
-        "Malcolm Roberts",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12686,9 +11607,7 @@
       "enclosure_length": "23320408",
       "itunes_duration": "16:11",
       "speakers": [
-        "John Gray",
-        "Emmanuel Macron",
-        "Melissa Denes",
+        "Audio Long Read What",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12714,9 +11633,6 @@
       "enclosure_length": "28944908",
       "itunes_duration": "20:05",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Wearmouth",
-        "Zoë Grunëwald",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12739,9 +11655,6 @@
       "itunes_duration": "14:29",
       "speakers": [
         "Will Labour",
-        "Jeremy Corbyn",
-        "Rachel Wearmouth",
-        "Zoë Grunëwald",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12764,7 +11677,6 @@
       "itunes_duration": "27:30",
       "speakers": [
         "Bruce Hoffman",
-        "Katie Stallard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12786,8 +11698,6 @@
       "enclosure_length": "35763839",
       "itunes_duration": "24:49",
       "speakers": [
-        "Rachel Cunliffe",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12811,7 +11721,6 @@
       "speakers": [
         "Chris Deerin",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
         "Oli Dugmore"
       ],
       "topics": [
@@ -12832,9 +11741,7 @@
       "enclosure_length": "25566238",
       "itunes_duration": "17:44",
       "speakers": [
-        "Emily Stark",
-        "Becky Slack",
-        "Matt Hasker",
+        "Sponsored Cyber",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12858,7 +11765,6 @@
       "itunes_duration": "26:55",
       "speakers": [
         "Katie Stallard",
-        "Lina Khatib",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12879,9 +11785,6 @@
       "enclosure_length": "31826168",
       "itunes_duration": "22:05",
       "speakers": [
-        "Jenny Kleeman",
-        "Zoe Grunewald",
-        "Sophie McBain",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12904,10 +11807,7 @@
       "enclosure_length": "43314423",
       "itunes_duration": "30:04",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Zoë Grünewald",
-        "Will Dunn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -12928,11 +11828,6 @@
       "enclosure_length": "33987256",
       "itunes_duration": "23:35",
       "speakers": [
-        "Jon Bernstein",
-        "Martin McFadyen",
-        "Emma Stone",
-        "Emma Weston",
-        "Holly Smith",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -12955,7 +11850,6 @@
       "itunes_duration": "19:48",
       "speakers": [
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
         "Oli Dugmore"
       ],
       "topics": [
@@ -12977,8 +11871,6 @@
       "speakers": [
         "Rachel Reeves",
         "Darren Jones",
-        "Rachel Wearmouth",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13001,8 +11893,8 @@
       "enclosure_length": "34445143",
       "itunes_duration": "23:54",
       "speakers": [
-        "Donna Ockenden",
-        "Alona Ferber",
+        "How Britain",
+        "Care Quality Commission",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13024,8 +11916,6 @@
       "enclosure_length": "37994223",
       "itunes_duration": "26:22",
       "speakers": [
-        "Ben Walker",
-        "Chris Deerin",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13047,11 +11937,6 @@
       "enclosure_length": "32072792",
       "itunes_duration": "22:15",
       "speakers": [
-        "Rishi Sunak",
-        "HS Manchester",
-        "Rachel Wearmouth",
-        "Zoë Grünewald",
-        "Suella Braverman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13075,8 +11960,7 @@
       "enclosure_length": "35714643",
       "itunes_duration": "24:47",
       "speakers": [
-        "Tom Riordan",
-        "Katie Johnston",
+        "Sponsored Economic",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13098,10 +11982,7 @@
       "enclosure_length": "24645420",
       "itunes_duration": "17:06",
       "speakers": [
-        "Rachel Cunliffe",
-        "Freddie Hayward",
-        "Rachel Wearmouth",
-        "HS Manchester",
+        "Conservative Party",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13121,11 +12002,7 @@
       "enclosure_length": "68551356",
       "itunes_duration": "47:35",
       "speakers": [
-        "Laurence Fox",
-        "Ava Evans",
-        "Dan Wootton",
-        "Stuart McGurk",
-        "Clive Martin",
+        "Audio Long Read",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13147,7 +12024,7 @@
       "enclosure_length": "29055028",
       "itunes_duration": "20:10",
       "speakers": [
-        "Zoë Grünewald",
+        "Suella Braverman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13170,8 +12047,6 @@
       "enclosure_length": "31575900",
       "itunes_duration": "21:55",
       "speakers": [
-        "George Eaton",
-        "Anoosh Chakelilan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13192,7 +12067,7 @@
       "enclosure_length": "41360517",
       "itunes_duration": "28:42",
       "speakers": [
-        "Quinn Slobodian",
+        "Silicon Valley",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13215,9 +12090,6 @@
       "itunes_duration": "36:12",
       "speakers": [
         "Sam Bankman-Fried",
-        "Sophie McBain",
-        "William MacAskill",
-        "Jenny Kleeman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13246,8 +12118,7 @@
       "enclosure_length": "25678582",
       "itunes_duration": "17:49",
       "speakers": [
-        "Jeremy Hunt",
-        "Rachel Wearmouth",
+        "into view",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13269,8 +12140,6 @@
       "enclosure_length": "22302216",
       "itunes_duration": "15:28",
       "speakers": [
-        "Rishi Sunak",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13312,8 +12181,6 @@
       "itunes_duration": "22:23",
       "speakers": [
         "Salvador Allende",
-        "Augusto Pinochet",
-        "Evgeny Morozov",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13337,7 +12204,6 @@
       "enclosure_length": "23786562",
       "itunes_duration": "16:30",
       "speakers": [
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13359,7 +12225,6 @@
       "itunes_duration": "15:24",
       "speakers": [
         "Angela Rayner",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13381,9 +12246,6 @@
       "enclosure_length": "34625296",
       "itunes_duration": "24:02",
       "speakers": [
-        "Becky Slack",
-        "Michael Wyatt",
-        "Justin Sutton-Parker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13406,9 +12268,6 @@
       "enclosure_length": "27782449",
       "itunes_duration": "19:17",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Reeves",
-        "Harry Lambert",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13429,8 +12288,6 @@
       "enclosure_length": "32867552",
       "itunes_duration": "22:49",
       "speakers": [
-        "Will Dunn",
-        "Edward Docx",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13453,7 +12310,6 @@
       "itunes_duration": "14:42",
       "speakers": [
         "Andrew Marr",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13477,8 +12333,6 @@
       "speakers": [
         "Angela Rayner",
         "Lisa Nandy",
-        "Zoë Grünewald",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13502,7 +12356,6 @@
       "speakers": [
         "Will Lloyd",
         "John Gray",
-        "Thomas Hobbes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13526,8 +12379,6 @@
       "itunes_duration": "20:22",
       "speakers": [
         "Jonathan Coe",
-        "Tom Gatti",
-        "Sarah Hall",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13555,8 +12406,6 @@
       "speakers": [
         "Rory Stewart",
         "Alastair Campbell",
-        "Rachel Cunliffe",
-        "Zoë Grünewald",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13578,10 +12427,6 @@
       "itunes_duration": "22:10",
       "speakers": [
         "Ben Wallace",
-        "Rishi Sunak",
-        "Grant Shapps",
-        "Rachel Cunliffe",
-        "Zoë Grünewald",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13604,8 +12449,8 @@
       "enclosure_length": "62194339",
       "itunes_duration": "43:10",
       "speakers": [
-        "Pippa Bailey",
-        "Stuart McGurk",
+        "Escaping Eden",
+        "Plymouth Brethren",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13632,7 +12477,6 @@
       "itunes_duration": "20:33",
       "speakers": [
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
         "Oli Dugmore"
       ],
       "topics": [
@@ -13655,8 +12499,6 @@
       "itunes_duration": "21:04",
       "speakers": [
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "Michael Gove",
         "Oli Dugmore"
       ],
       "topics": [
@@ -13676,9 +12518,7 @@
       "enclosure_length": "20521564",
       "itunes_duration": "28:30",
       "speakers": [
-        "Katie Stallard",
-        "Vladimir Putin",
-        "Megan Gibson",
+        "Conversation After",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13700,9 +12540,8 @@
       "enclosure_length": "16726439",
       "itunes_duration": "23:13",
       "speakers": [
-        "Jeremy Cliffe",
-        "Chris Stone",
-        "Thomas Mann",
+        "Audio Long Read What",
+        "Berlin Crisis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13726,7 +12565,6 @@
       "enclosure_length": "21196381",
       "itunes_duration": "22:04",
       "speakers": [
-        "Rishi Sunak",
         "John Major",
         "Various MPs",
         "Anoosh Chakelian",
@@ -13752,6 +12590,8 @@
       "enclosure_length": "15251329",
       "itunes_duration": "15:53",
       "speakers": [
+        "Would Labour",
+        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13802,8 +12642,6 @@
       "itunes_duration": "21:41",
       "speakers": [
         "Ali Smith",
-        "Anna Leszkiewicz",
-        "Karl Ove Knausgaard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13851,7 +12689,6 @@
       "enclosure_length": "21576479",
       "itunes_duration": "14:58",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13874,8 +12711,6 @@
       "enclosure_length": "44278941",
       "itunes_duration": "30:44",
       "speakers": [
-        "Rachel Cunliffe",
-        "James Ball",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13901,8 +12736,6 @@
       "itunes_duration": "15:53",
       "speakers": [
         "George Monbiot",
-        "Chris Stone",
-        "Rebecca Solnit",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13952,9 +12785,6 @@
       "enclosure_length": "12801670",
       "itunes_duration": "13:20",
       "speakers": [
-        "Margaret Ferrier",
-        "Hamilton West",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -13978,7 +12808,6 @@
       "speakers": [
         "Adam Hug",
         "Anoosh Chakelian",
-        "Harry Lambert",
         "Oli Dugmore"
       ],
       "topics": [
@@ -14001,12 +12830,9 @@
       "enclosure_length": "19346270",
       "itunes_duration": "26:51",
       "speakers": [
-        "Margaret Thatcher",
-        "Rishi Sunak",
-        "Tanya Gold",
-        "Bruce Springsteen",
-        "Rachel Cunliffe",
-        "Prince William"
+        "Conservative Private Members Committee",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "committee",
@@ -14031,7 +12857,6 @@
       "itunes_duration": "16:24",
       "speakers": [
         "Lib Dem",
-        "Lib Dems",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14076,10 +12901,6 @@
       "enclosure_length": "43583630",
       "itunes_duration": "30:15",
       "speakers": [
-        "Rachel Cunliffe",
-        "Robert Colvile",
-        "Matthew Lawrence",
-        "Common Wealth Submit",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14100,9 +12921,8 @@
       "enclosure_length": "26278573",
       "itunes_duration": "36:29",
       "speakers": [
-        "Mohammed bin Salman",
-        "Chris Stone",
-        "Jeremy Cliffe",
+        "How Saudi Arabia",
+        "Audio Long Read When",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14127,11 +12947,7 @@
       "enclosure_length": "35333648",
       "itunes_duration": "24:31",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Ben Walker",
         "Oli Dugmore"
       ],
       "topics": [
@@ -14153,13 +12969,8 @@
       "enclosure_length": "22154598",
       "itunes_duration": "26:22",
       "speakers": [
-        "George Osborne",
-        "Angela Rayner",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Rachel Cunliffe",
-        "Will Dunn",
-        "Morning Call"
+        "Oli Dugmore"
       ],
       "topics": [
         "keir",
@@ -14182,7 +12993,6 @@
       "speakers": [
         "Stephen Flynn",
         "Zoë Grünewald",
-        "Morning Call",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14206,9 +13016,6 @@
       "itunes_duration": "22:10",
       "speakers": [
         "Pedro Sánchez",
-        "Jeremy Cliffe",
-        "Silvio Berlusconi",
-        "Chris Stone",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14233,13 +13040,8 @@
       "enclosure_length": "28020751",
       "itunes_duration": "19:27",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Zoë Grünewald",
-        "Read Zoë",
-        "David Blunkett",
-        "Morning Call"
+        "Oli Dugmore"
       ],
       "topics": [
         "rishi",
@@ -14259,9 +13061,6 @@
       "enclosure_length": "15198666",
       "itunes_duration": "15:49",
       "speakers": [
-        "Zoë Grünewald",
-        "Rachel Wearmouth",
-        "Morning Call",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14284,9 +13083,6 @@
       "itunes_duration": "28:23",
       "speakers": [
         "Rachel Wearmouth",
-        "Rishi Sunak",
-        "Morning Call",
-        "com Subscribe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14310,8 +13106,6 @@
       "itunes_duration": "15:58",
       "speakers": [
         "Andy Burnham",
-        "Morning Call",
-        "com Subscribe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14338,10 +13132,6 @@
       "itunes_duration": "27:58",
       "speakers": [
         "Ed Conway",
-        "Rishi Sunak",
-        "Read Ed Conway",
-        "Morning Call",
-        "com Subscribe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14363,8 +13153,7 @@
       "itunes_duration": "26:30",
       "speakers": [
         "Vladislav Zubok",
-        "Katie Stallard",
-        "Vladimir Putin",
+        "Global Af",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14389,7 +13178,6 @@
       "itunes_duration": "59:16",
       "speakers": [
         "Wes Streeting",
-        "Phil Whitaker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14410,7 +13198,6 @@
       "itunes_duration": "25:02",
       "speakers": [
         "Ben Walker",
-        "Lib Dems",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14433,9 +13220,11 @@
       "enclosure_length": "37484350",
       "itunes_duration": "26:01",
       "speakers": [
-        "Chris Deerin",
+        "Nicola Sturgeon",
+        "Humza Yousaf",
+        "Following Nicola Sturgeon",
+        "New Statesman",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
         "Oli Dugmore"
       ],
       "topics": [
@@ -14460,8 +13249,6 @@
       "enclosure_length": "24157412",
       "itunes_duration": "16:46",
       "speakers": [
-        "Will Turvill",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14483,7 +13270,6 @@
       "itunes_duration": "13:53",
       "speakers": [
         "Angela Rayner",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14506,10 +13292,7 @@
       "enclosure_length": "26135411",
       "itunes_duration": "18:08",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Andrew Marr",
-        "Rachel Wearmouth",
         "Oli Dugmore"
       ],
       "topics": [
@@ -14532,9 +13315,6 @@
       "enclosure_length": "30478781",
       "itunes_duration": "21:09",
       "speakers": [
-        "Becky Slack",
-        "Andy Maybury",
-        "Sara Higham",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14604,8 +13384,6 @@
       "enclosure_length": "24554307",
       "itunes_duration": "17:02",
       "speakers": [
-        "Rachel Wearmouth",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14627,10 +13405,6 @@
       "enclosure_length": "48961187",
       "itunes_duration": "33:59",
       "speakers": [
-        "Sarah Dawood",
-        "Karen Finlayson",
-        "Huw Thomas",
-        "Katie Trout",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14654,10 +13428,6 @@
       "itunes_duration": "26:06",
       "speakers": [
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Ben Walker",
-        "Humza Yousaf",
-        "Rishi Sunak",
         "Oli Dugmore"
       ],
       "topics": [
@@ -14681,7 +13451,6 @@
       "speakers": [
         "Caroline Lucas",
         "Rachel Wearmouth",
-        "Jamie Driscoll",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14703,9 +13472,7 @@
       "itunes_duration": "17:27",
       "speakers": [
         "Rachel Reeves",
-        "Jason Cowley",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
         "Oli Dugmore"
       ],
       "topics": [
@@ -14726,7 +13493,6 @@
       "itunes_duration": "28:19",
       "speakers": [
         "Anoosh Chakelian",
-        "Matt Lloyd-Rose",
         "Oli Dugmore"
       ],
       "topics": [
@@ -14766,9 +13532,6 @@
       "enclosure_length": "51115985",
       "itunes_duration": "35:29",
       "speakers": [
-        "Zoë Grünewald",
-        "Benedict Spence",
-        "Ryan Shorthouse",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14792,8 +13555,6 @@
       "itunes_duration": "25:57",
       "speakers": [
         "Rachel Wearmouth",
-        "Sam McBride",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14817,8 +13578,6 @@
       "itunes_duration": "29:27",
       "speakers": [
         "Harry Lambert",
-        "Ian Dunt",
-        "Paul Johnson’s Follow",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14838,9 +13597,9 @@
       "enclosure_length": "34553755",
       "itunes_duration": "23:59",
       "speakers": [
-        "George Eaton",
+        "New Statesman",
+        "Left Power List",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
         "Oli Dugmore"
       ],
       "topics": [
@@ -14860,9 +13619,7 @@
       "enclosure_length": "11097280",
       "itunes_duration": "7:41",
       "speakers": [
-        "Josh Kay",
-        "Victoria Bacon",
-        "Smart Meters",
+        "energy prices",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14913,12 +13670,8 @@
       "speakers": [
         "Rob Burley",
         "Jeremy Paxman",
-        "Andrew Neil",
-        "Emily Maitlis",
-        "Andrew Marr",
-        "Beth Rigby",
-        "Rachel Cunliffe",
-        "Brian Walden"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "burley"
@@ -14937,7 +13690,6 @@
       "itunes_duration": "28:33",
       "speakers": [
         "Rachel Wearmouth",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14958,12 +13710,7 @@
       "enclosure_length": "119521050",
       "itunes_duration": "1:22:59",
       "speakers": [
-        "Tanya Gold",
-        "Anna Whitelock",
-        "Gary Younge",
-        "Robert Hardman",
-        "Andrew Marr",
-        "Tanjil Rashid",
+        "New Statesman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -14987,8 +13734,6 @@
       "itunes_duration": "26:06",
       "speakers": [
         "Rachel Wearmouth",
-        "Ben Walker",
-        "Lib Dems",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15013,8 +13758,6 @@
         "Anoosh Chakelian",
         "Rachel Cunliffe",
         "Zoë Grünewald",
-        "Rachel de Souza",
-        "De Souza",
         "Oli Dugmore"
       ],
       "topics": [
@@ -15037,7 +13780,6 @@
         "Diane Abbott",
         "Jeremy Corbyn",
         "Anoosh Chakelian",
-        "Huw Pill",
         "Oli Dugmore"
       ],
       "topics": [
@@ -15059,9 +13801,6 @@
       "enclosure_length": "77623988",
       "itunes_duration": "53:53",
       "speakers": [
-        "Rishi Sunak",
-        "Ben Walker",
-        "Dominic Raab",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15086,9 +13825,6 @@
       "enclosure_length": "47161657",
       "itunes_duration": "32:44",
       "speakers": [
-        "Rachel Wearmouth",
-        "Ben Walker",
-        "Chris Deerin",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15113,8 +13849,6 @@
       "itunes_duration": "27:26",
       "speakers": [
         "Hannah White",
-        "Zoë Grünewald",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15137,9 +13871,6 @@
       "enclosure_length": "53051563",
       "itunes_duration": "36:50",
       "speakers": [
-        "Rachel Wearmouth",
-        "Megan Gibson",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15162,8 +13893,6 @@
       "enclosure_length": "15136495",
       "itunes_duration": "10:30",
       "speakers": [
-        "Anna Moss",
-        "Smart Meters",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15187,14 +13916,8 @@
       "enclosure_length": "65894853",
       "itunes_duration": "45:45",
       "speakers": [
-        "Patrick Wintour",
-        "Sarah Baxter",
-        "Steve Richards",
-        "Jackie Ashley",
-        "Mehdi Hasan",
-        "Helen Lewis",
-        "Stephen Bush",
-        "Andrew Marr"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -15218,7 +13941,6 @@
       "itunes_duration": "20:40",
       "speakers": [
         "Jonathan Powell",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15243,10 +13965,7 @@
       "enclosure_length": "38890309",
       "itunes_duration": "27:00",
       "speakers": [
-        "Suella Braverman",
         "Anoosh Chakelian",
-        "Zoë Grünewald",
-        "Ben Walker",
         "Oli Dugmore"
       ],
       "topics": [
@@ -15270,11 +13989,6 @@
       "enclosure_length": "50428247",
       "itunes_duration": "35:00",
       "speakers": [
-        "Rachel Wearmouth",
-        "Rachel Cunliffe",
-        "Ben Walker",
-        "Henry Hill",
-        "Kate Forbes",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15296,12 +14010,7 @@
       "enclosure_length": "40874609",
       "itunes_duration": "28:22",
       "speakers": [
-        "Michael Gove",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Zoë Grünewald",
-        "Rishi Sunak",
-        "Jeremy Corbyn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -15346,7 +14055,6 @@
       "itunes_duration": "21:04",
       "speakers": [
         "Kate Forbes",
-        "Chris Deerin",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15390,9 +14098,6 @@
       "itunes_duration": "20:02",
       "speakers": [
         "Jeremy Hunt",
-        "Rachel Cunliffe",
-        "Zoë Grünewald",
-        "Alona Ferber",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15416,8 +14121,6 @@
       "speakers": [
         "Andrew Marr",
         "Jeremy Hunt",
-        "Will Dunn",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15439,9 +14142,6 @@
       "enclosure_length": "33880778",
       "itunes_duration": "23:31",
       "speakers": [
-        "Rachel Cunliffe",
-        "Ben Walker",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15462,8 +14162,7 @@
       "enclosure_length": "31747877",
       "itunes_duration": "22:02",
       "speakers": [
-        "Zoë Grünewald",
-        "Rachel Wearmouth",
+        "Conservative Party",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15486,8 +14185,6 @@
       "itunes_duration": "33:36",
       "speakers": [
         "Stella Creasy Childcare",
-        "Alona Ferber",
-        "Stella Creasy",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15511,11 +14208,7 @@
       "enclosure_length": "45910105",
       "itunes_duration": "31:52",
       "speakers": [
-        "Rachel Cunliffe",
-        "Alona Ferber",
-        "Zoë Grünewald",
-        "Bridget Phillipson",
-        "Rishi Sunak",
+        "Progressive Policy",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15537,9 +14230,6 @@
       "enclosure_length": "28767647",
       "itunes_duration": "19:58",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Wearmouth",
-        "Tory Brexiteers",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15566,8 +14256,6 @@
       "speakers": [
         "Inside Westminster",
         "Zoë Grünewald",
-        "Jenny Symmons",
-        "Holly Brazier Tope",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15590,7 +14278,6 @@
       "speakers": [
         "Kate Forbes",
         "Tim Farron",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15614,11 +14301,6 @@
       "enclosure_length": "32075571",
       "itunes_duration": "22:16",
       "speakers": [
-        "Alona Ferber",
-        "Richard Barlow",
-        "Larry Burns",
-        "Alex Kendall",
-        "Amanda Stretton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15640,10 +14322,6 @@
       "enclosure_length": "24675736",
       "itunes_duration": "17:07",
       "speakers": [
-        "Yvette Cooper",
-        "Rachel Cunliffe",
-        "Rachel Wearmouth",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15664,7 +14342,8 @@
       "enclosure_length": "46697198",
       "itunes_duration": "32:25",
       "speakers": [
-        "Chris Deerin",
+        "Nicola Sturgeon",
+        "First Minister",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15687,7 +14366,6 @@
       "itunes_duration": "22:23",
       "speakers": [
         "Jim Down Ahead",
-        "Jim Down",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15710,10 +14388,7 @@
       "itunes_duration": "18:16",
       "speakers": [
         "Will Rishi Sunak",
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Lee Anderson",
         "Oli Dugmore"
       ],
       "topics": [
@@ -15736,7 +14411,7 @@
       "itunes_duration": "26:49",
       "speakers": [
         "Jodie Beck",
-        "Rachel Cunliffe",
+        "Public Ord",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15760,7 +14435,6 @@
       "enclosure_length": "30379324",
       "itunes_duration": "21:05",
       "speakers": [
-        "Rishi Sunak",
         "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
@@ -15785,7 +14459,6 @@
       "itunes_duration": "19:44",
       "speakers": [
         "Lib Dem",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15805,12 +14478,7 @@
       "enclosure_length": "42840623",
       "itunes_duration": "29:44",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Will Dunn",
-        "Richard Sharp",
-        "Christopher Harborne",
-        "Nadhim Zahawi",
         "Oli Dugmore"
       ],
       "topics": [
@@ -15832,9 +14500,6 @@
       "itunes_duration": "27:16",
       "speakers": [
         "Phil Whitaker",
-        "Rachel Cunliffe",
-        "Steve Barclay",
-        "Wes Streeting",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15855,13 +14520,8 @@
       "enclosure_length": "31858967",
       "itunes_duration": "22:07",
       "speakers": [
-        "Alona Ferber",
-        "Richard Barlow",
-        "Melanie Shufflebotham",
-        "Zap Map",
-        "Dale Vince",
-        "Philipe Vangeel",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "spotlight",
@@ -15881,8 +14541,6 @@
       "enclosure_length": "30379884",
       "itunes_duration": "21:05",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15908,7 +14566,6 @@
       "speakers": [
         "Duncan Weldon",
         "Will Dunn",
-        "Kwasi Kwarteng",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15931,8 +14588,6 @@
       "enclosure_length": "25507906",
       "itunes_duration": "17:42",
       "speakers": [
-        "Rishi Sunak",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15956,8 +14611,6 @@
       "itunes_duration": "39:13",
       "speakers": [
         "Welsh Labour",
-        "Chris Deerin",
-        "Matthew Hexter",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -15980,11 +14633,7 @@
       "enclosure_length": "43429714",
       "itunes_duration": "30:09",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "Blue Peter",
-        "Zoë Grünewald",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16008,7 +14657,6 @@
       "itunes_duration": "16:26",
       "speakers": [
         "Will Labour",
-        "Jess Garland",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16031,7 +14679,6 @@
       "itunes_duration": "54:42",
       "speakers": [
         "Harry Lambert",
-        "Lib Dem",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16052,10 +14699,6 @@
       "enclosure_length": "28495589",
       "itunes_duration": "19:46",
       "speakers": [
-        "Alona Ferber",
-        "Richard Barlow",
-        "John Stenlake",
-        "Peter Van Manen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16080,13 +14723,8 @@
       "itunes_duration": "46:09",
       "speakers": [
         "Rachel Cunliffe",
-        "Tom Gatti",
-        "Kate Mossman",
-        "Rachel Cooke",
-        "Nick Cave",
-        "Claire Keegan",
-        "May Jonas",
-        "Katherine Rundell"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "culture"
@@ -16104,11 +14742,6 @@
       "enclosure_length": "51606756",
       "itunes_duration": "35:49",
       "speakers": [
-        "Rishi Sunak",
-        "Zoë Grünewald",
-        "Emma Runswick",
-        "Wes Streeting",
-        "Lib Dems",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16131,7 +14764,6 @@
       "enclosure_length": "43915319",
       "itunes_duration": "30:29",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16154,9 +14786,6 @@
       "enclosure_length": "52117674",
       "itunes_duration": "36:11",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Wearmouth",
-        "Wes Streeting",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16206,8 +14835,6 @@
         "Armando Iannucci",
         "Westminster Reimagined",
         "Anoosh Chakelian",
-        "Alastair Campbell",
-        "Catherine Haddon",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16229,9 +14856,7 @@
       "enclosure_length": "30395997",
       "itunes_duration": "21:06",
       "speakers": [
-        "Rishi Sunak",
         "Andrew Marr",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16255,9 +14880,6 @@
       "enclosure_length": "29398905",
       "itunes_duration": "20:24",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
-        "Sam Freedman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16282,10 +14904,7 @@
         "Armando Iannucci",
         "Westminster Reimagined",
         "Anoosh Chakelian",
-        "Brexit Done",
-        "Ian Baxter",
-        "Baxter Freight",
-        "Nigel Baxter"
+        "Oli Dugmore"
       ],
       "topics": [
         "britain",
@@ -16307,8 +14926,6 @@
       "enclosure_length": "35915238",
       "itunes_duration": "24:56",
       "speakers": [
-        "Rachel Wearmouth",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16328,10 +14945,6 @@
       "speakers": [
         "Conservative MPs",
         "Charlotte Ivers",
-        "Dehanna Davison",
-        "Rachel Cunliffe",
-        "Rishi Sunak",
-        "Matt Hancock",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16355,10 +14968,7 @@
         "Armando Iannucci",
         "Westminster Reimagined",
         "Anoosh Chakelian",
-        "James Ball",
-        "Mae Dobbs",
-        "Barack Obama",
-        "Pat Younge"
+        "Oli Dugmore"
       ],
       "topics": [
         "politic",
@@ -16380,11 +14990,6 @@
       "enclosure_length": "36577624",
       "itunes_duration": "25:23",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
-        "Rachel Wearmouth",
-        "Tory Brexiteers",
-        "Suella Braverman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16406,13 +15011,8 @@
       "enclosure_length": "43684247",
       "itunes_duration": "30:19",
       "speakers": [
-        "Jim O’Neill",
-        "Alona Ferber",
-        "Susan Rienow",
-        "Sally Davies",
-        "Laura Piddock",
-        "Non Pfizer",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "resistance",
@@ -16433,10 +15033,6 @@
       "enclosure_length": "84636835",
       "itunes_duration": "58:46",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Wearmouth",
-        "Ben Walker",
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16461,8 +15057,6 @@
         "Armando Iannucci",
         "Westminster Reimagined",
         "Anoosh Chakelian",
-        "Michelle Dornelly",
-        "Emilie De Bruijn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16487,7 +15081,6 @@
         "Jeremy Hunt",
         "Rachel Cunliffe",
         "Rachel Wearmouth",
-        "Kwasi Kwarteng",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16512,10 +15105,7 @@
       "itunes_duration": "29:30",
       "speakers": [
         "John Oxley",
-        "Rishi Sunak",
         "Jeremy Hunt",
-        "Rachel Cunliffe",
-        "Kwasi Kwarteng",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16540,8 +15130,6 @@
       "speakers": [
         "Westminster Reimagined",
         "Armando Iannucci",
-        "Jon Stewart",
-        "Sam Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16569,9 +15157,6 @@
       "speakers": [
         "Gavin Williamson",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Emma Haslett",
-        "George Osborne’s post",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16591,11 +15176,8 @@
       "enclosure_length": "38173067",
       "itunes_duration": "26:30",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "India Bourke",
-        "Rishi Sunak U-turned",
-        "Greta Thunberg",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16619,9 +15201,6 @@
         "Armando Iannucci",
         "Westminster Reimagined",
         "Anoosh Chakelian",
-        "Dominic Watters",
-        "Covid Capsule",
-        "Adrienne Buller",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16643,10 +15222,8 @@
       "enclosure_length": "39818208",
       "itunes_duration": "27:38",
       "speakers": [
-        "Rishi Sunak",
         "Andrew Marr Anoosh Chakelian",
         "Andrew Marr",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16691,10 +15268,6 @@
       "enclosure_length": "43753013",
       "itunes_duration": "30:22",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
-        "Rachel Wearmouth",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16717,11 +15290,7 @@
       "enclosure_length": "37710678",
       "itunes_duration": "26:10",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Ben Walker",
-        "Penny Mordaunt",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16765,9 +15334,6 @@
       "enclosure_length": "23335279",
       "itunes_duration": "24:17",
       "speakers": [
-        "Rachel Cunliffe",
-        "Ben Walker",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16792,7 +15358,6 @@
       "speakers": [
         "Will Liz Truss",
         "Jeremy Hunt",
-        "Harry Lambert",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16845,8 +15410,6 @@
         "Will Liz Truss",
         "Kwasi Kwarteng",
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "Rachel Wearmouth",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16919,7 +15482,6 @@
         "Anoosh Chakelian",
         "Rachel Wearmouth",
         "Harry Lambert",
-        "Kwasi Kwarteng",
         "Oli Dugmore"
       ],
       "topics": [
@@ -16941,7 +15503,6 @@
       "itunes_duration": "53:51",
       "speakers": [
         "Andy Burnham",
-        "Sadiq Khan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -16972,7 +15533,6 @@
         "David Gauke",
         "Duncan Weldon",
         "Anoosh Chakelian",
-        "Will Dunn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17000,7 +15560,6 @@
       "speakers": [
         "Ed Miliband Anoosh",
         "Ed Miliband",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17025,7 +15584,6 @@
       "speakers": [
         "Anoosh Chakelian",
         "Rachel Wearmouth",
-        "Rachel Reeves",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17046,10 +15604,6 @@
       "itunes_duration": "29:34",
       "speakers": [
         "Kwasi Kwarteng",
-        "Rachel Wearmouth",
-        "Rachel Cunliffe",
-        "Emma Haslett",
-        "Rachel Reeves",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17070,8 +15624,7 @@
       "enclosure_length": "43675700",
       "itunes_duration": "30:19",
       "speakers": [
-        "Rachel Cunliffe",
-        "Hashi Mohamed",
+        "Inside Britain",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17094,10 +15647,6 @@
       "itunes_duration": "32:30",
       "speakers": [
         "Kwasi Kwarteng",
-        "Tom Scholar",
-        "Harry Lambert",
-        "Rachel Wearmouth",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17140,10 +15689,6 @@
       "itunes_duration": "30:57",
       "speakers": [
         "Elizabeth II",
-        "Charles Iii",
-        "Andrew Marr",
-        "Megan Gibson",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17164,7 +15709,7 @@
       "itunes_duration": "20:44",
       "speakers": [
         "Andrew Marr",
-        "Rachel Wearmouth",
+        "Anoosh Chakel",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17186,10 +15731,7 @@
       "enclosure_length": "28533386",
       "itunes_duration": "19:48",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Ben Walker",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17209,7 +15751,6 @@
       "itunes_duration": "29:24",
       "speakers": [
         "Adam Fleming",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17234,7 +15775,6 @@
       "itunes_duration": "30:12",
       "speakers": [
         "Duncan Weldon",
-        "Will Dunn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17256,10 +15796,7 @@
       "enclosure_length": "46029956",
       "itunes_duration": "31:57",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "Truss’s U-turn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17282,7 +15819,6 @@
       "itunes_duration": "22:50",
       "speakers": [
         "Matthew McGregor",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17306,8 +15842,6 @@
       "enclosure_length": "29940581",
       "itunes_duration": "20:47",
       "speakers": [
-        "Rachel Wearmouth",
-        "Emma Haslett",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17329,9 +15863,6 @@
       "enclosure_length": "27842721",
       "itunes_duration": "19:19",
       "speakers": [
-        "Rachel Wearmouth",
-        "Ben Walker",
-        "George Osborne",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17353,9 +15884,6 @@
       "enclosure_length": "38592536",
       "itunes_duration": "26:47",
       "speakers": [
-        "Rishi Sunak",
-        "Rachel Cunliffe",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17377,7 +15905,7 @@
       "enclosure_length": "29654205",
       "itunes_duration": "20:35",
       "speakers": [
-        "Patrick Diamond",
+        "Patrick Di",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17397,8 +15925,6 @@
       "enclosure_length": "22089450",
       "itunes_duration": "15:20",
       "speakers": [
-        "Philippa Nuttall",
-        "David Hayman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17421,10 +15947,6 @@
       "itunes_duration": "30:42",
       "speakers": [
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
-        "Rachel Cunliffe",
-        "Lisa Nandy",
-        "Liz Truss’s Conservative",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17446,10 +15968,6 @@
       "enclosure_length": "37119648",
       "itunes_duration": "25:46",
       "speakers": [
-        "Rachel Wearmouth",
-        "Emma Haslett",
-        "Rishi Sunak",
-        "Rachel Reeves",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17473,10 +15991,7 @@
       "enclosure_length": "35169353",
       "itunes_duration": "24:25",
       "speakers": [
-        "Jeremy Corbyn",
-        "Sam Tarry",
         "Anoosh Chakelian",
-        "Rachel Wearmouth",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17498,7 +16013,6 @@
       "enclosure_length": "43667775",
       "itunes_duration": "30:19",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17523,8 +16037,6 @@
       "speakers": [
         "Andrew Marr",
         "Penny Mordaunt",
-        "Rishi Sunak",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17547,9 +16059,6 @@
       "enclosure_length": "44498404",
       "itunes_duration": "30:53",
       "speakers": [
-        "Rachel Cunliffe",
-        "Ben Walker",
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17572,7 +16081,6 @@
       "itunes_duration": "34:55",
       "speakers": [
         "Rory Stewart",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17596,11 +16104,8 @@
         "Nadhim Zahawi",
         "Jeremy Hunt",
         "Suella Braverman",
-        "Penny Mordaunt",
-        "Rishi Sunak",
         "Anoosh Chakelian",
-        "Harry Lambert",
-        "India Bourke"
+        "Oli Dugmore"
       ],
       "topics": [
         "penny",
@@ -17622,7 +16127,6 @@
       "itunes_duration": "26:51",
       "speakers": [
         "Anoosh Chakelian",
-        "Ben Walker",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17644,8 +16148,6 @@
       "itunes_duration": "29:27",
       "speakers": [
         "Anoosh Chakelian",
-        "Jason Cowley",
-        "Rachel Cunliffe",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17665,12 +16167,8 @@
       "enclosure_length": "32826745",
       "itunes_duration": "22:47",
       "speakers": [
-        "Rishi Sunak",
         "Sajid Javid",
         "Anoosh Chakelian",
-        "Harry Lambert",
-        "Ben Walker",
-        "Rachel Cunliffe",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17692,7 +16190,6 @@
       "enclosure_length": "53734571",
       "itunes_duration": "37:18",
       "speakers": [
-        "Rachel Wearmouth",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17715,8 +16212,8 @@
       "enclosure_length": "48302319",
       "itunes_duration": "33:32",
       "speakers": [
-        "Chris Deerin",
-        "Freddie Hayward",
+        "Nicola Sturgeon",
+        "First Minister",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17739,8 +16236,6 @@
       "itunes_duration": "29:23",
       "speakers": [
         "Anoosh Chakelian",
-        "Will Dunn",
-        "Emma Haslett",
         "Oli Dugmore"
       ],
       "topics": [
@@ -17762,9 +16257,6 @@
       "enclosure_length": "41597525",
       "itunes_duration": "28:52",
       "speakers": [
-        "Oliver Dowden",
-        "Harry Lambert",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17788,8 +16280,6 @@
       "enclosure_length": "26526004",
       "itunes_duration": "18:24",
       "speakers": [
-        "Devonian Will Dunn",
-        "Lib Dems",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17812,9 +16302,6 @@
       "enclosure_length": "43925173",
       "itunes_duration": "30:29",
       "speakers": [
-        "Ahmad Khan",
-        "Rachel Cunliffe",
-        "Anand Menon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17839,8 +16326,7 @@
       "enclosure_length": "43036134",
       "itunes_duration": "29:52",
       "speakers": [
-        "Ben Walker",
-        "India Bourke",
+        "Green Party",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17864,8 +16350,6 @@
       "enclosure_length": "38159448",
       "itunes_duration": "26:29",
       "speakers": [
-        "Rachel Cunliffe",
-        "Harry Lambert",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17890,7 +16374,6 @@
       "itunes_duration": "18:49",
       "speakers": [
         "Andrew Marr",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17914,8 +16397,6 @@
       "itunes_duration": "24:50",
       "speakers": [
         "Rachel Cunliffe",
-        "Harry Lambert",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17938,7 +16419,6 @@
       "enclosure_length": "38172684",
       "itunes_duration": "26:30",
       "speakers": [
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17963,8 +16443,6 @@
       "speakers": [
         "Marc Stears Fresh",
         "Marc Stears",
-        "Anthony Albanese",
-        "Scott Morrison",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -17991,8 +16469,6 @@
       "speakers": [
         "Sue Gray",
         "Anoosh Chakelian",
-        "Rachel Cunliffe",
-        "Harry Lambert",
         "Oli Dugmore"
       ],
       "topics": [
@@ -18015,7 +16491,6 @@
       "itunes_duration": "33:44",
       "speakers": [
         "Jeremy Hunt",
-        "Sajid Javid",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18039,8 +16514,6 @@
       "enclosure_length": "44596862",
       "itunes_duration": "30:57",
       "speakers": [
-        "Emma Haslett",
-        "Rachel Cunliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18089,7 +16562,6 @@
       "itunes_duration": "20:43",
       "speakers": [
         "Andrew Marr Having",
-        "Andrew Marr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18114,8 +16586,6 @@
       "speakers": [
         "Westminster Reimagined",
         "Armando Iannucci",
-        "James Graham",
-        "Chris Hanretty",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18139,9 +16609,6 @@
       "enclosure_length": "41539296",
       "itunes_duration": "28:50",
       "speakers": [
-        "Ben Walker",
-        "Freddie Hayward",
-        "Sinn Féin",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18167,7 +16634,6 @@
       "itunes_duration": "28:07",
       "speakers": [
         "Anoosh Chakelian",
-        "Ben Walker",
         "Oli Dugmore"
       ],
       "topics": [
@@ -18191,9 +16657,6 @@
       "speakers": [
         "Westminster Reimagined",
         "Armando Iannucci",
-        "Ailbhe Rea",
-        "John Curtice",
-        "Shaun Woodward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18214,12 +16677,7 @@
       "enclosure_length": "89035632",
       "itunes_duration": "1:01:49",
       "speakers": [
-        "David Runciman",
-        "Stephen Bush",
-        "Hannah White",
-        "Billy Bragg",
-        "Rachel Clarke",
-        "Lucy Nethsingha",
+        "Cambridge Literary Festival Anoosh",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18242,8 +16700,7 @@
       "enclosure_length": "41895249",
       "itunes_duration": "29:05",
       "speakers": [
-        "Ailbhe Rea",
-        "Harry Lambert",
+        "Why Westminster",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18266,8 +16723,6 @@
       "speakers": [
         "Westminster Reimagined",
         "Armando Iannucci",
-        "Meg Russell",
-        "Dominic Grieve",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18318,7 +16773,6 @@
       "speakers": [
         "Anoosh Chakelian",
         "Andrew Marr",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -18341,8 +16795,6 @@
       "speakers": [
         "Armando Iannucci",
         "Westminster Reimagined",
-        "Rosamund Adoo-Kissi-Debrah",
-        "Gary Stevenson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18366,8 +16818,6 @@
       "itunes_duration": "27:06",
       "speakers": [
         "Will Boris Johnson",
-        "Chris Deerin",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18391,7 +16841,6 @@
       "enclosure_length": "49438552",
       "itunes_duration": "34:19",
       "speakers": [
-        "Sophie McBain",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18415,10 +16864,7 @@
       "enclosure_length": "38996391",
       "itunes_duration": "27:04",
       "speakers": [
-        "Rishi Sunak",
         "Carrie Johnson",
-        "Harry Lambert",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18442,10 +16888,6 @@
       "speakers": [
         "Armando Iannucci",
         "Westminster Reimagined",
-        "Ailbhe Rea",
-        "Anum Qaisar",
-        "Westminster MP",
-        "Emma Crewe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18471,7 +16913,6 @@
       "enclosure_length": "38386211",
       "itunes_duration": "26:39",
       "speakers": [
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18496,8 +16937,6 @@
       "speakers": [
         "Ailbhe Rea",
         "Ben Walker",
-        "Rishi Sunak",
-        "Freddie Hayward",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18519,7 +16958,6 @@
       "itunes_duration": "21:09",
       "speakers": [
         "Vladimir Ashurkov",
-        "Vladimir Putin",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18544,10 +16982,6 @@
       "enclosure_length": "31141972",
       "itunes_duration": "21:37",
       "speakers": [
-        "Rishi Sunak",
-        "Andrew Marr",
-        "Ailbhe Rea",
-        "Jamie Wallis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18573,7 +17007,6 @@
         "Gary Younge",
         "Jeremy Deller",
         "Jason Cowley",
-        "Michael Sheen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18599,7 +17032,6 @@
       "enclosure_length": "34441838",
       "itunes_duration": "23:54",
       "speakers": [
-        "Rishi Sunak",
         "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
@@ -18625,7 +17057,6 @@
       "itunes_duration": "30:29",
       "speakers": [
         "Michael Sheen",
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18650,7 +17081,6 @@
       "itunes_duration": "22:23",
       "speakers": [
         "Karl Turner",
-        "George Dock",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18675,8 +17105,6 @@
       "itunes_duration": "22:07",
       "speakers": [
         "Nazanin Zaghari-Ratcliffe",
-        "Anoosheh Ashoori",
-        "Richard Ratcliffe",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18726,7 +17154,6 @@
       "speakers": [
         "Roman Abramovich",
         "Oleg Deripaska",
-        "Emma Haslett",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18774,7 +17201,6 @@
       "speakers": [
         "Ben Walker",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -18796,7 +17222,6 @@
       "itunes_duration": "24:37",
       "speakers": [
         "Oliver Bullough",
-        "Vladimir Putin",
         "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
@@ -18821,8 +17246,6 @@
       "enclosure_length": "49520422",
       "itunes_duration": "34:22",
       "speakers": [
-        "Ailbhe Rea",
-        "Alix Kroeger",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18845,6 +17268,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Anoosh Chakelian",
+        "Andy Za",
         "Oli Dugmore"
       ],
       "topics": [
@@ -18895,11 +17319,8 @@
       "speakers": [
         "Gavin Barwell",
         "Theresa May",
-        "Ailbhe Rea",
-        "Boris Jonson",
-        "Stephen Bush",
-        "Sadiq Khan",
-        "Cressida Dick"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "boris",
@@ -18922,9 +17343,6 @@
       "enclosure_length": "52468723",
       "itunes_duration": "36:25",
       "speakers": [
-        "Ailbhe Rea",
-        "Stephen Bush",
-        "Jacob Rees-Mogg",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -18950,9 +17368,7 @@
         "Anoosh Chakelian",
         "Ailbhe Rea",
         "Stephen Bush",
-        "Steve Barclay",
-        "Munira Mirza",
-        "Sue Gray"
+        "Oli Dugmore"
       ],
       "topics": [
         "boris",
@@ -18998,9 +17414,6 @@
       "itunes_duration": "33:47",
       "speakers": [
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Stephen Bush",
-        "Paul Givan",
         "Oli Dugmore"
       ],
       "topics": [
@@ -19024,7 +17437,6 @@
       "itunes_duration": "17:36",
       "speakers": [
         "Sue Gray",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19073,7 +17485,6 @@
       "itunes_duration": "29:05",
       "speakers": [
         "Sue Gray",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19122,8 +17533,6 @@
       "itunes_duration": "26:12",
       "speakers": [
         "William Wragg",
-        "Christian Wakeford",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19147,10 +17556,6 @@
       "itunes_duration": "17:53",
       "speakers": [
         "Will Boris Johnson",
-        "Christian Wakeford",
-        "David Davis",
-        "Ailbhe Rea",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19197,9 +17602,7 @@
       "itunes_duration": "37:34",
       "speakers": [
         "Will Boris Johnson",
-        "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -19221,12 +17624,8 @@
       "speakers": [
         "Margaret Thatcher",
         "Stephen Bush",
-        "John Major",
-        "Florence Sutcliffe-Braithwaite",
-        "John Whittingdale",
-        "Adrian Bradley",
-        "May Robson",
-        "Caroline Crampton"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "prime",
@@ -19249,7 +17648,6 @@
       "itunes_duration": "32:46",
       "speakers": [
         "Will Boris Johnson",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19272,12 +17670,8 @@
       "speakers": [
         "John Major",
         "Stephen Bush",
-        "Margaret Thatcher",
-        "Jonathan Hill",
-        "Adrian Bradley",
-        "May Robson",
-        "Caroline Crampton",
-        "Nick Hilton"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "prime",
@@ -19300,11 +17694,8 @@
       "itunes_duration": "57:34",
       "speakers": [
         "Stephen Bush",
-        "Kitty Stewart",
-        "Andrew Adonis",
-        "Peter Mandelson",
-        "Adrian Bradley",
-        "May Robson"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "prime",
@@ -19327,11 +17718,8 @@
       "itunes_duration": "47:10",
       "speakers": [
         "Stephen Bush",
-        "Ann Pettifor",
-        "Stewart Wood",
-        "Adrian Bradley",
-        "May Robson",
-        "Caroline Crampton"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "prime",
@@ -19354,12 +17742,8 @@
       "itunes_duration": "49:28",
       "speakers": [
         "Stephen Bush",
-        "Michael Howard",
-        "Helen Thompson",
-        "Craig Oliver",
-        "Adrian Bradley",
-        "May Robson",
-        "Caroline Crampton"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "prime",
@@ -19382,13 +17766,8 @@
       "itunes_duration": "51:45",
       "speakers": [
         "Stephen Bush",
-        "Katy Balls",
-        "Gavin Barwell",
-        "Theresa May",
-        "Adrian Bradley",
-        "May Robson",
-        "Caroline Crampton",
-        "Nick Hilton"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "prime",
@@ -19409,8 +17788,6 @@
       "enclosure_length": "47968236",
       "itunes_duration": "33:18",
       "speakers": [
-        "Ailbhe Rea",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19467,8 +17844,6 @@
       "speakers": [
         "Allegra Stratton",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Stephen Bush",
         "Oli Dugmore"
       ],
       "topics": [
@@ -19494,8 +17869,8 @@
         "Mark Harper",
         "Ailbhe Rea",
         "Stephen Bush",
-        "Ed Miliband",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "whip",
@@ -19516,9 +17891,6 @@
       "enclosure_length": "34604084",
       "itunes_duration": "24:01",
       "speakers": [
-        "Ailbhe Rea",
-        "Stephen Bush",
-        "Rishi Sunak",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19540,9 +17912,9 @@
       "enclosure_length": "34986993",
       "itunes_duration": "24:17",
       "speakers": [
+        "Lloyds Bank",
+        "Britain Editor",
         "Anoosh Chakelian",
-        "Hannah Essex",
-        "Mark Burton",
         "Oli Dugmore"
       ],
       "topics": [
@@ -19563,7 +17935,7 @@
       "enclosure_length": "37135568",
       "itunes_duration": "25:46",
       "speakers": [
-        "Jacob Rees-Mogg",
+        "Thangam Debbonaire Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19588,9 +17960,6 @@
       "enclosure_length": "46818680",
       "itunes_duration": "32:30",
       "speakers": [
-        "Ailbhe Rea",
-        "Stephen Bush",
-        "Louise Haigh",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19612,8 +17981,6 @@
       "itunes_duration": "26:39",
       "speakers": [
         "Stephen Bush",
-        "Chris Deerin",
-        "Jack McConnell",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19636,7 +18003,6 @@
       "itunes_duration": "22:38",
       "speakers": [
         "Alok Sharma",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19660,7 +18026,6 @@
         "Anoosh Chakelian",
         "Stephen Bush",
         "Ailbhe Rea",
-        "Owen Paterson",
         "Oli Dugmore"
       ],
       "topics": [
@@ -19683,8 +18048,6 @@
       "itunes_duration": "24:02",
       "speakers": [
         "Geoffrey Cox",
-        "Owen Paterson",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19734,9 +18097,6 @@
       "itunes_duration": "25:22",
       "speakers": [
         "Owen Paterson",
-        "Ailbhe Rea",
-        "Rachel Cunliffe",
-        "Tim Durrant",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19760,7 +18120,6 @@
       "enclosure_length": "26638670",
       "itunes_duration": "18:29",
       "speakers": [
-        "Philippa Nuttall",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19787,7 +18146,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "David Gauke",
         "Oli Dugmore"
       ],
       "topics": [
@@ -19809,10 +18167,6 @@
       "enclosure_length": "33950295",
       "itunes_duration": "23:33",
       "speakers": [
-        "Ailbhe Rea",
-        "Philippa Nuttall",
-        "Iagan Macneil",
-        "smart meters",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19859,11 +18213,8 @@
       "enclosure_length": "47834054",
       "itunes_duration": "33:12",
       "speakers": [
+        "Anoosh Ch",
         "Anoosh Chakelian",
-        "Philippa Nuttall",
-        "Adrian Joyce",
-        "Smart Energy GB",
-        "smart meters",
         "Oli Dugmore"
       ],
       "topics": [
@@ -19885,8 +18236,6 @@
       "enclosure_length": "40581676",
       "itunes_duration": "28:10",
       "speakers": [
-        "Tim Ross",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19909,11 +18258,6 @@
       "enclosure_length": "43126250",
       "itunes_duration": "29:56",
       "speakers": [
-        "Stephen Bush",
-        "Philippa Nuttall",
-        "Ruth Mourik",
-        "Rob Cheesewright",
-        "smart meters",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -19938,7 +18282,6 @@
         "Anoosh Chakelian",
         "Ailbhe Rea",
         "Stephen Bush",
-        "Sophie McBain",
         "Oli Dugmore"
       ],
       "topics": [
@@ -19959,7 +18302,6 @@
       "enclosure_length": "27032660",
       "itunes_duration": "18:45",
       "speakers": [
-        "Philippa Nuttall",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20008,7 +18350,6 @@
       "itunes_duration": "42:26",
       "speakers": [
         "Stephen Bush",
-        "Andy McDonald",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20085,7 +18426,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Dominic Raab",
         "Oli Dugmore"
       ],
       "topics": [
@@ -20109,7 +18449,6 @@
       "speakers": [
         "Stephen Bush",
         "Jonn Elledge",
-        "Stephen keeps",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20308,7 +18647,6 @@
         "Anna Soubry",
         "Paul Mason",
         "Westminster Reimagined",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20335,7 +18673,6 @@
       "itunes_duration": "22:56",
       "speakers": [
         "Ailbhe Rea",
-        "Gavin Williamson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20359,8 +18696,6 @@
         "Armando Iannucci",
         "Chris Addison",
         "Westminster Reimagined",
-        "Ollie Reeder",
-        "Claire Wright",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20409,8 +18744,6 @@
         "Armando Iannucci",
         "Louise Casey",
         "Westminster Reimagined",
-        "Stephen Bush",
-        "Paul Stephens",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20466,8 +18799,6 @@
         "Armando Iannucci",
         "Ian Hislop",
         "Westminster Reimagined",
-        "Jill Rutter",
-        "Matt Hancock",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20613,7 +18944,6 @@
       "speakers": [
         "Andy Burnham Labour",
         "Andy Burnham",
-        "Gareth Southgate",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20658,8 +18988,6 @@
       "enclosure_length": "51602303",
       "itunes_duration": "35:52",
       "speakers": [
-        "Matt Hancock",
-        "Sajid Javid",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20682,9 +19010,6 @@
       "enclosure_length": "40931784",
       "itunes_duration": "28:24",
       "speakers": [
-        "Stephen Bush",
-        "Ailbhe Rea",
-        "George Galloway",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20726,8 +19051,6 @@
       "itunes_duration": "38:07",
       "speakers": [
         "Lib Dem",
-        "Cressida Dick",
-        "Daniel Morgan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20753,7 +19076,7 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
+        "Ailbhe Re",
         "Oli Dugmore"
       ],
       "topics": [
@@ -20879,7 +19202,6 @@
       "enclosure_length": "48690989",
       "itunes_duration": "33:51",
       "speakers": [
-        "Ed Miliband",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20921,9 +19243,7 @@
       "enclosure_length": "49798205",
       "itunes_duration": "34:37",
       "speakers": [
-        "Jason Cowley",
-        "Stephen Bush",
-        "Ailbhe Rea",
+        "Tony Bl",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20946,9 +19266,6 @@
       "enclosure_length": "29152286",
       "itunes_duration": "20:16",
       "speakers": [
-        "Stephen Anoosh",
-        "Chris Deerin",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20970,9 +19287,6 @@
       "enclosure_length": "78522363",
       "itunes_duration": "54:36",
       "speakers": [
-        "Stephen Anoosh",
-        "Chris Deerin",
-        "Ben Walker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -20994,8 +19308,6 @@
       "enclosure_length": "57722008",
       "itunes_duration": "40:08",
       "speakers": [
-        "Stephen Bush",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21017,10 +19329,6 @@
       "itunes_duration": "39:01",
       "speakers": [
         "Chris Deerin",
-        "Nicola Sturgeon",
-        "Ben Walker",
-        "Dani Garavelli",
-        "Alex Massie",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21047,9 +19355,6 @@
       "itunes_duration": "31:28",
       "speakers": [
         "Ben Van De Merwe",
-        "Arlene Foster",
-        "Stephen Bush",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21072,12 +19377,8 @@
       "speakers": [
         "Chris Deerin",
         "Kate Forbes",
-        "Ben Walker",
-        "Douglas Ross",
-        "Atomic Kitten",
-        "Whole Again",
-        "status Clips",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "scottish",
@@ -21126,7 +19427,6 @@
       "speakers": [
         "James Dyson",
         "Stephen Bush",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21149,9 +19449,6 @@
       "itunes_duration": "41:22",
       "speakers": [
         "Chris Deerin",
-        "Ricky Ross",
-        "Darren McGarvey",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21174,8 +19471,6 @@
       "enclosure_length": "43819043",
       "itunes_duration": "30:25",
       "speakers": [
-        "Stephen Bush",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21197,9 +19492,7 @@
       "enclosure_length": "47196786",
       "itunes_duration": "32:45",
       "speakers": [
-        "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21218,11 +19511,8 @@
       "enclosure_length": "49978852",
       "itunes_duration": "34:41",
       "speakers": [
-        "Chris Deerin",
-        "Ben Walker",
-        "Blair McDougal",
-        "Douglas Ross",
-        "Alex Salmond",
+        "Scottish Election Special",
+        "United Kingdom",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21248,7 +19538,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Chris Deerin",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21316,8 +19605,6 @@
       "speakers": [
         "Armando Iannucci",
         "Ailbhe Rea",
-        "Guest Stephen Armando Iannucci",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21341,8 +19628,7 @@
       "itunes_duration": "35:57",
       "speakers": [
         "Ailbhe Rea",
-        "Alex Salmond",
-        "Stephen Bush",
+        "Alex Salmon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21385,10 +19671,8 @@
       "enclosure_length": "26943365",
       "itunes_duration": "27:59",
       "speakers": [
-        "Stephen Bush",
+        "Pinishment Protests",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Paul Williams",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21412,8 +19696,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Lib Dems",
-        "Stephen Bush Anoosh",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21438,8 +19720,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Clapham Common",
-        "Sarah Everard",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21462,7 +19742,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Shaun Bailey",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21485,8 +19764,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Meghan Markle",
-        "Oprah Winfrey",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21508,8 +19785,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Rishi Sunak",
-        "Alex Salmond",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21533,7 +19808,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Richard Leonard",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21554,8 +19828,6 @@
       "itunes_duration": "26:14",
       "speakers": [
         "Stephen Bush",
-        "Alex Salmond",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21573,11 +19845,7 @@
       "enclosure_length": "25258989",
       "itunes_duration": "26:14",
       "speakers": [
-        "Stephen Bush",
         "Anoosh Chakelian",
-        "Martin Fletcher",
-        "Martha Gill",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21600,7 +19868,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Harry Lambert",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21623,7 +19890,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Ed Balls",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21645,7 +19911,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Robert Jenrick",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21666,12 +19931,9 @@
       "enclosure_length": "37282421",
       "itunes_duration": "38:46",
       "speakers": [
-        "Rachel Reeves",
-        "James Meadway",
-        "Stephen Bush",
-        "Ailbhe Rea",
-        "Michael Gove Ed",
-        "Alex Salmond"
+        "Crony War Rachel Reeves",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "crony"
@@ -21689,9 +19951,7 @@
       "enclosure_length": "34321598",
       "itunes_duration": "35:40",
       "speakers": [
-        "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21711,14 +19971,9 @@
       "enclosure_length": "29855286",
       "itunes_duration": "31:01",
       "speakers": [
-        "Stephen Bush",
+        "European Commission",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Brexit Covid Vaccine",
-        "Arlene Foste",
-        "Von der",
-        "Layen Jean Claude Juncker",
-        "Stephen Bush Anoosh"
+        "Oli Dugmore"
       ],
       "topics": [
         "article",
@@ -21738,8 +19993,6 @@
       "enclosure_length": "34767143",
       "itunes_duration": "36:08",
       "speakers": [
-        "Stephen Bush",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -21760,9 +20013,8 @@
       "enclosure_length": "28679567",
       "itunes_duration": "29:48",
       "speakers": [
-        "Stephen Bush",
+        "Hotel Travellers",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21784,9 +20036,7 @@
       "enclosure_length": "33803747",
       "itunes_duration": "35:08",
       "speakers": [
-        "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": []
@@ -21803,12 +20053,8 @@
       "enclosure_length": "33742725",
       "itunes_duration": "35:04",
       "speakers": [
-        "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Ed Miliband",
-        "Barack Obama",
-        "Corbyn Ed"
+        "Oli Dugmore"
       ],
       "topics": [
         "credit"
@@ -21847,9 +20093,7 @@
       "enclosure_length": "33134176",
       "itunes_duration": "34:26",
       "speakers": [
-        "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -21872,7 +20116,6 @@
       "speakers": [
         "Stephen Bush",
         "Ailbhe Rea",
-        "Lockdown People",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22018,7 +20261,6 @@
       "itunes_duration": "24:57",
       "speakers": [
         "Stephen Bush",
-        "Gavin Williamson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22046,7 +20288,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Kier Starmer",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22112,7 +20353,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Jeremy Corbyn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22206,7 +20446,6 @@
       "speakers": [
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Emily Tamkin",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22229,7 +20468,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Angela Rayner",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22253,8 +20491,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Jeremy Corbyn",
-        "Emily Tamkin",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22276,7 +20512,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Marcus Rashford",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22301,8 +20536,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Rishi Sunak",
-        "Andy Burnham",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22344,8 +20577,6 @@
       "itunes_duration": "26:56",
       "speakers": [
         "Ailbhe Rea",
-        "Stephen Bush",
-        "Dan Carden",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22412,7 +20643,6 @@
       "enclosure_length": "5793794",
       "itunes_duration": "5:58",
       "speakers": [
-        "David Dimbleby",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22437,7 +20667,6 @@
       "itunes_duration": "27:18",
       "speakers": [
         "Ailbhe Rea",
-        "Phil Whitaker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22461,7 +20690,6 @@
         "Ascension Seekers",
         "Stephen Bush",
         "Ailbhe Rea",
-        "Priti Patel",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22485,8 +20713,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Charles Moore",
-        "Paul Dacre",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22620,9 +20846,6 @@
       "speakers": [
         "Ailbhe Rea",
         "Anand Menon",
-        "Stephen Bush",
-        "Lib Dem",
-        "Ed Davey",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22647,7 +20870,7 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Richard Leonard",
+        "Richard Leon",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22709,7 +20932,6 @@
       "itunes_duration": "35:58",
       "speakers": [
         "Ailbhe Rea",
-        "Lib Dems",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22733,7 +20955,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Dido Harding",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22843,8 +21064,6 @@
       "speakers": [
         "John Hume Remembered",
         "Ailbhe Rea",
-        "Claire Hanna",
-        "John Hume",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22908,6 +21127,7 @@
       "itunes_duration": "26:35",
       "speakers": [
         "Stephen Bush",
+        "Boris Joh",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -22953,7 +21173,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Chris Grayling",
         "Oli Dugmore"
       ],
       "topics": [
@@ -22997,7 +21216,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Sajid Javid",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23038,8 +21256,6 @@
       "itunes_duration": "34:14",
       "speakers": [
         "David Ottewell",
-        "Stephen Bush",
-        "Ailbhe Rea",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -23063,8 +21279,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Mark Sedwill",
-        "Rebecca Long-Bailey",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23084,10 +21298,7 @@
       "itunes_duration": "34:14",
       "speakers": [
         "Stephen Bush",
-        "Rebecca Long-Bailey",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Robert Jenrick",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23111,8 +21322,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Layla Moran",
-        "Lib Dems",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23134,8 +21343,6 @@
       "itunes_duration": "33:04",
       "speakers": [
         "Ailbhe Rea",
-        "Jeremy Cliffe",
-        "Emily Tamkin",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -23199,9 +21406,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Edward Colston",
-        "Jeremy Corbyn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23224,7 +21428,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Gary Younge",
-        "George Floyd",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23246,7 +21449,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "George Floyd",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23269,9 +21471,7 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Patrick Maguire",
-        "Ask Patrick",
-        "Robert Kilroy-Silk"
+        "Oli Dugmore"
       ],
       "topics": []
     },
@@ -23356,7 +21556,6 @@
         "Stephen Bush",
         "Anoosh Chakelian",
         "Ailbhe Rea",
-        "Sarah Manavis",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23401,7 +21600,6 @@
         "Patrick Maguire",
         "Ailbhe Rea",
         "Stephen Bush",
-        "Steve Baker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -23447,7 +21645,6 @@
         "Anoosh Chakelian",
         "Patrick Maguire",
         "Ailbhe Rea",
-        "Lib Dems",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23539,7 +21736,6 @@
         "Anoosh Chakelian",
         "Patrick Maguire",
         "Ailbhe Rea",
-        "Sarah Manavis",
         "Oli Dugmore"
       ],
       "topics": []
@@ -23675,8 +21871,6 @@
         "Anoosh Chakelian",
         "Patrick Maguire",
         "Ailbhe Rea",
-        "Jeremy Corbyn",
-        "Rebecca Long-Bailey",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23697,9 +21891,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Patrick Maguire",
-        "Ailbhe Rea",
-        "Alex Salmond",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23721,9 +21912,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
-        "Lisa Nandy",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23744,8 +21932,7 @@
       "itunes_duration": "30:07",
       "speakers": [
         "Stephen Bush",
-        "Howard Davies",
-        "Rishi Sunak",
+        "Howard Dav",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -23768,9 +21955,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Patrick Maguire",
-        "Ailbhe Rea",
-        "Priti Patel",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23791,9 +21975,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
-        "Sajid Javid",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23814,8 +21995,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23838,10 +22017,7 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
-        "Julian Smith",
-        "Sajid Javid"
+        "Oli Dugmore"
       ],
       "topics": [
         "reshuffle",
@@ -23862,8 +22038,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23885,8 +22059,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23907,10 +22079,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
-        "Jess Phillips",
-        "Lisa Nandy",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23932,8 +22100,6 @@
         "Nandy Alexander",
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Patrick Maguire",
-        "Ailbhe Rea",
         "Oli Dugmore"
       ],
       "topics": [
@@ -23958,8 +22124,6 @@
         "Labour Leadership Special",
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24003,7 +22167,6 @@
       "speakers": [
         "Blue Dawn",
         "Stephen Bush",
-        "Lib Dems",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24048,10 +22211,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
-        "George Grylls",
-        "Twitter ns podcasts",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24072,8 +22231,6 @@
       "itunes_duration": "22:49",
       "speakers": [
         "Stephen Bush",
-        "Jeremy Cliffe",
-        "Twitter ns podcasts",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24096,7 +22253,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Twitter ns podcasts",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24117,7 +22273,6 @@
       "speakers": [
         "Ailbhe Rea",
         "Patrick Maguire",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24160,7 +22315,6 @@
       "itunes_duration": "41:30",
       "speakers": [
         "Stephen Bush",
-        "Luisa Porritt",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24206,8 +22360,6 @@
       "speakers": [
         "Stephen Bush",
         "Ailbhe Rea",
-        "Richard Curtis",
-        "John Bercow",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24230,9 +22382,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Ailbhe Rea",
-        "Patrick Maguire",
-        "Jeremy Corbyn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24296,7 +22445,6 @@
       "speakers": [
         "Stephen Bush",
         "Ailbhe Rea",
-        "Emily Bootle",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24316,7 +22464,6 @@
       "speakers": [
         "Stephen Bush",
         "Ailbhe Rea",
-        "John Bercow",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24339,7 +22486,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Sajid Javid",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24362,7 +22508,6 @@
         "Johnson Goes",
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Jeremy Corbyn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24383,7 +22528,6 @@
       "itunes_duration": "32:16",
       "speakers": [
         "Stephen Bush",
-        "Emily Bootle",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24407,7 +22551,6 @@
       "speakers": [
         "Stephen Bush",
         "Patrick Maguire",
-        "Hettie O'Brien",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24473,7 +22616,6 @@
       "itunes_duration": "27:06",
       "speakers": [
         "Patrick Maguire",
-        "Sarah Manavis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24513,7 +22655,6 @@
       "itunes_duration": "26:48",
       "speakers": [
         "Stephen Bush",
-        "Kim Darroch",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24579,7 +22720,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Ahir Shah",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24600,8 +22740,6 @@
         "Leaderly Blond",
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Jo Swinson",
-        "Ed Davey",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24622,7 +22760,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Ben Power",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24666,7 +22803,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Theresa May",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24734,7 +22870,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Matt Forde",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24758,7 +22893,6 @@
         "Anoosh Chakelian",
         "Patrick Maguire",
         "Eleni Courea",
-        "Helen Lewis",
         "Oli Dugmore"
       ],
       "topics": [
@@ -24803,8 +22937,6 @@
         "Brexit Delayed",
         "Stephen Bush",
         "Helen Lewis",
-        "Theresa May",
-        "Andy Nyman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24851,12 +22983,8 @@
       "speakers": [
         "Stephen Bush",
         "Helen Lewis",
-        "Andy Zaltzman",
-        "Tom Gatti",
-        "Kate Mossman",
-        "Childish Gambino",
-        "Will Ferrell",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "theresa",
@@ -24875,8 +23003,7 @@
       "enclosure_length": "25729611",
       "itunes_duration": "26:43",
       "speakers": [
-        "Eleni Courea",
-        "Tara Jane O'Reilly",
+        "Patrick Magu",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24925,7 +23052,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Anne Washburn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24950,7 +23076,6 @@
         "Stephen Bush",
         "Patrick Maguire",
         "Eleni Courea",
-        "Fiona Onasanya",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -24971,13 +23096,8 @@
       "itunes_duration": "46:59",
       "speakers": [
         "Helen Lewis",
-        "Stephen Bush",
-        "Shamima Begum",
-        "Tom Gatti",
-        "Kate Mossman",
-        "Alan Partridge",
-        "Danny Boyle",
-        "Alex Garland"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "labour",
@@ -25001,8 +23121,6 @@
         "Helen Lewis",
         "Stephen Bush",
         "Jeremy Corbyn",
-        "Laura Wade",
-        "Lib Dems",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25025,7 +23143,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Liam Neeson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25049,7 +23166,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Patrick Maguire",
         "Oli Dugmore"
       ],
       "topics": [
@@ -25071,7 +23187,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "John Lanchester",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25095,8 +23210,6 @@
         "Historic Failure",
         "Helen Lewis",
         "Stephen Bush",
-        "Tom Gatti",
-        "Kate Mossman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25121,9 +23234,6 @@
         "Brexit Goes",
         "Helen Lewis",
         "Stephen Bush",
-        "James Graham",
-        "Benedict Cumberbatch",
-        "Yvette Cooper",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25165,9 +23275,6 @@
       "enclosure_length": "31670901",
       "itunes_duration": "32:55",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
-        "Patrick Maguire",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25191,8 +23298,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Lyric Hammersmith",
-        "Dick Whittington",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25215,8 +23320,6 @@
       "speakers": [
         "Stephen Bush",
         "Patrick Maguire",
-        "Sienna Rodgers",
-        "Theresa May",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25237,7 +23340,6 @@
       "itunes_duration": "21:27",
       "speakers": [
         "Sam Gyimah",
-        "Kate Osamor",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25259,7 +23361,6 @@
       "itunes_duration": "32:36",
       "speakers": [
         "Corbyn Stephen",
-        "Patsy Ferran",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25300,7 +23401,6 @@
       "enclosure_length": "30305502",
       "itunes_duration": "21:04",
       "speakers": [
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25321,8 +23421,7 @@
       "enclosure_length": "47840932",
       "itunes_duration": "33:15",
       "speakers": [
-        "Jeremy Corbyn",
-        "John McDonnell",
+        "Midterms Helen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25342,6 +23441,7 @@
       "enclosure_length": "65343130",
       "itunes_duration": "45:26",
       "speakers": [
+        "Unpopular Opinions Helen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25362,7 +23462,6 @@
       "itunes_duration": "27:45",
       "speakers": [
         "Howard Davies",
-        "Philip Hammond",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25384,7 +23483,6 @@
       "itunes_duration": "43:41",
       "speakers": [
         "Tory Brexiteers",
-        "Jonathan Reynolds",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25406,7 +23504,6 @@
       "enclosure_length": "70093293",
       "itunes_duration": "48:44",
       "speakers": [
-        "Rebecca Solnit",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25451,7 +23548,6 @@
       "itunes_duration": "39:39",
       "speakers": [
         "Tory Conference Special Helen",
-        "Kanye West",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25473,7 +23569,6 @@
       "enclosure_length": "38788289",
       "itunes_duration": "26:58",
       "speakers": [
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25496,7 +23591,6 @@
       "itunes_duration": "38:53",
       "speakers": [
         "Anoosh Chakelian",
-        "Lib Dem",
         "Oli Dugmore"
       ],
       "topics": [
@@ -25517,7 +23611,7 @@
       "enclosure_length": "35696475",
       "itunes_duration": "24:49",
       "speakers": [
-        "John Ridding",
+        "Fame Helen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25542,7 +23636,6 @@
       "speakers": [
         "John McDonnell",
         "Jason Cowley",
-        "Caroline Criado-Perez",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25563,8 +23656,6 @@
       "enclosure_length": "64444889",
       "itunes_duration": "44:48",
       "speakers": [
-        "Jude Christian",
-        "Graham Stringer deselection row",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25587,7 +23678,6 @@
       "itunes_duration": "47:25",
       "speakers": [
         "Emily Andrews",
-        "Yo Zushi",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25611,8 +23701,6 @@
       "speakers": [
         "Jeremy Corbyn",
         "Wreath Row Helen",
-        "Laura McInerney",
-        "Kate McCann",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25635,7 +23723,6 @@
       "itunes_duration": "49:14",
       "speakers": [
         "Frances Crook",
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25657,11 +23744,6 @@
       "enclosure_length": "43643919",
       "itunes_duration": "30:20",
       "speakers": [
-        "Frank Field",
-        "Theresa May",
-        "Jon Lansman",
-        "Vladimir Derer",
-        "Pete Willsman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25682,7 +23764,6 @@
       "enclosure_length": "141247132",
       "itunes_duration": "58:51",
       "speakers": [
-        "Laurence Scott",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25704,8 +23785,6 @@
       "enclosure_length": "64846913",
       "itunes_duration": "45:05",
       "speakers": [
-        "Theresa May",
-        "Helen Thompson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25726,8 +23805,6 @@
       "enclosure_length": "50987899",
       "itunes_duration": "35:27",
       "speakers": [
-        "Patrick Maguire",
-        "Liz Kendall",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25773,7 +23850,6 @@
       "speakers": [
         "Ben Rhodes",
         "Barack Obama",
-        "Bodley Head",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25815,7 +23891,6 @@
       "itunes_duration": "37:24",
       "speakers": [
         "Sienna Rodgers",
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25836,7 +23911,6 @@
       "enclosure_length": "31640218",
       "itunes_duration": "32:25",
       "speakers": [
-        "Paul Dacre",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25896,8 +23970,6 @@
       "itunes_duration": "43:30",
       "speakers": [
         "Tom Hamilton",
-        "Judy Politics",
-        "Ayesha Hazarika",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25920,7 +23992,6 @@
       "itunes_duration": "34:09",
       "speakers": [
         "Brexit Chills",
-        "Tessa Jowell",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25943,8 +24014,6 @@
       "itunes_duration": "22:55",
       "speakers": [
         "Sienna Rodgers",
-        "Jeremy Corbyn",
-        "Rajiv Joseph",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -25988,7 +24057,6 @@
       "itunes_duration": "30:35",
       "speakers": [
         "Len McCluskey",
-        "Millicent Fawcett",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26009,9 +24077,7 @@
       "enclosure_length": "57353819",
       "itunes_duration": "39:52",
       "speakers": [
-        "Theresa May",
-        "Mehdi Hasan",
-        "Lib Dems",
+        "Hostile Environment Helen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26032,6 +24098,7 @@
       "enclosure_length": "62638883",
       "itunes_duration": "43:33",
       "speakers": [
+        "Two Evils Helen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26052,7 +24119,6 @@
       "enclosure_length": "48607599",
       "itunes_duration": "33:47",
       "speakers": [
-        "David Miliband",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26073,6 +24139,7 @@
       "enclosure_length": "40035529",
       "itunes_duration": "27:50",
       "speakers": [
+        "Vote Leav",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26093,9 +24160,6 @@
       "enclosure_length": "59439981",
       "itunes_duration": "41:19",
       "speakers": [
-        "Francisco Cantú",
-        "George Eaton",
-        "Twitter ns podcasts",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26116,8 +24180,6 @@
       "enclosure_length": "53179936",
       "itunes_duration": "36:58",
       "speakers": [
-        "Jeremy Corbyn",
-        "Philip Hammond",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26138,7 +24200,6 @@
       "enclosure_length": "49203743",
       "itunes_duration": "34:12",
       "speakers": [
-        "Matt Singh",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26159,7 +24220,6 @@
       "itunes_duration": "25:07",
       "speakers": [
         "Jeremy Corbyn",
-        "Richard Burgon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26202,7 +24262,6 @@
       "itunes_duration": "30:34",
       "speakers": [
         "Brexit Bungle Stephen",
-        "Laura Pidcock",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26307,8 +24366,6 @@
       "itunes_duration": "36:06",
       "speakers": [
         "Theresa May",
-        "Justine Greening",
-        "David Eldridge",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26374,10 +24431,6 @@
       "enclosure_length": "22886455",
       "itunes_duration": "15:54",
       "speakers": [
-        "Jared O'Mara",
-        "Marie Morris",
-        "Anna Soubry",
-        "Michael Fallon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26398,8 +24451,6 @@
       "enclosure_length": "33852127",
       "itunes_duration": "23:32",
       "speakers": [
-        "Lib Dems",
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26420,8 +24471,6 @@
       "enclosure_length": "36625307",
       "itunes_duration": "25:27",
       "speakers": [
-        "Fred Studemann",
-        "Michael Gove",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26443,7 +24492,6 @@
       "itunes_duration": "21:48",
       "speakers": [
         "Howard Davies",
-        "Philip Hammond",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26464,7 +24512,6 @@
       "enclosure_length": "49187875",
       "itunes_duration": "34:12",
       "speakers": [
-        "John Crace",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26485,7 +24532,6 @@
       "enclosure_length": "32162553",
       "itunes_duration": "22:21",
       "speakers": [
-        "Priti Patel",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26507,7 +24553,6 @@
       "itunes_duration": "39:48",
       "speakers": [
         "Michael Fallon",
-        "Nick Harkaway",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26528,9 +24573,6 @@
       "enclosure_length": "34449987",
       "itunes_duration": "23:57",
       "speakers": [
-        "Jared O'Mara",
-        "Nick Clegg",
-        "Mary Beard",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26549,10 +24591,6 @@
       "itunes_duration": "27:12",
       "speakers": [
         "Brexit Again",
-        "Lib Dems",
-        "Isabel Hardman",
-        "Jeremy Browne",
-        "Norman Baker",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26572,8 +24610,6 @@
       "enclosure_length": "42038359",
       "itunes_duration": "29:13",
       "speakers": [
-        "Theresa May",
-        "Chris Cook",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26593,9 +24629,7 @@
       "enclosure_length": "50418621",
       "itunes_duration": "35:03",
       "speakers": [
-        "Theresa May",
-        "Jeremy Corbyn",
-        "Mark Wallace",
+        "Conservative Party",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26617,7 +24651,7 @@
       "enclosure_length": "0",
       "itunes_duration": "30:23",
       "speakers": [
-        "Jeremy Corbyn",
+        "Labour Party",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26661,9 +24695,6 @@
       "enclosure_length": "41630959",
       "itunes_duration": "28:56",
       "speakers": [
-        "Hillary Clinton",
-        "Angela Rayner",
-        "George Osborne",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26686,7 +24717,6 @@
       "enclosure_length": "0",
       "itunes_duration": "31:32",
       "speakers": [
-        "Jacob Rees-Mogg",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26708,7 +24738,6 @@
       "itunes_duration": "34:23",
       "speakers": [
         "Kezia Dugdale",
-        "Lawrence Freedman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26748,9 +24777,6 @@
       "enclosure_length": "0",
       "itunes_duration": "27:14",
       "speakers": [
-        "Follow Helen",
-        "Anne Helen Petersen",
-        "Alan White",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26771,8 +24797,6 @@
       "enclosure_length": "0",
       "itunes_duration": "27:33",
       "speakers": [
-        "Follow Helen",
-        "Stephen stephenkb",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26793,7 +24817,6 @@
       "itunes_duration": "29:09",
       "speakers": [
         "Anoosh Chakelian",
-        "Jeremy Corbyn",
         "Oli Dugmore"
       ],
       "topics": [
@@ -26812,6 +24835,7 @@
       "enclosure_length": "67956945",
       "itunes_duration": "28:18",
       "speakers": [
+        "Fees Helen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26832,7 +24856,6 @@
       "enclosure_length": "66472145",
       "itunes_duration": "27:41",
       "speakers": [
-        "John Humphrys",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26853,8 +24876,6 @@
       "enclosure_length": "68616275",
       "itunes_duration": "28:35",
       "speakers": [
-        "Emily Thornberry",
-        "Nish Kumar",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26877,7 +24898,6 @@
       "itunes_duration": "26:24",
       "speakers": [
         "Anoosh Chakelian",
-        "Amelia Tait",
         "Oli Dugmore"
       ],
       "topics": [
@@ -26917,7 +24937,6 @@
       "itunes_duration": "33:18",
       "speakers": [
         "Speech Special Helen",
-        "Will Labour",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -26980,7 +24999,6 @@
       "enclosure_length": "34423036",
       "itunes_duration": "23:54",
       "speakers": [
-        "Theresa May",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27021,7 +25039,7 @@
       "enclosure_length": "56326186",
       "itunes_duration": "23:28",
       "speakers": [
-        "Jeremy Corbyn",
+        "Jeremy Cor",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27043,6 +25061,7 @@
       "enclosure_length": "38992165",
       "itunes_duration": "27:04",
       "speakers": [
+        "Stephen ref",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27083,7 +25102,8 @@
       "enclosure_length": "89207034",
       "itunes_duration": "37:10",
       "speakers": [
-        "Stephen Bush",
+        "Election Special Join",
+        "New Statesman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27144,7 +25164,6 @@
       "enclosure_length": "88826691",
       "itunes_duration": "37:00",
       "speakers": [
-        "Theresa May",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27165,8 +25184,6 @@
       "enclosure_length": "30142924",
       "itunes_duration": "20:55",
       "speakers": [
-        "Andy Burnham",
-        "Emmanuel Macron",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27188,6 +25205,7 @@
       "enclosure_length": "51163345",
       "itunes_duration": "21:18",
       "speakers": [
+        "Citymetric Edi",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27207,10 +25225,6 @@
       "enclosure_length": "110136340",
       "itunes_duration": "45:53",
       "speakers": [
-        "Spencer Livermore",
-        "Kate Mossman",
-        "Cool Britannia",
-        "Barbie Girl",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27235,7 +25249,6 @@
         "Deep Dive",
         "Ian Leslie",
         "Stewart Wood",
-        "Catherine Haddon",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27259,7 +25272,6 @@
       "enclosure_length": "56773402",
       "itunes_duration": "23:39",
       "speakers": [
-        "Tim Farron",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27323,7 +25335,6 @@
       "itunes_duration": "37:05",
       "speakers": [
         "Ken Helen",
-        "Ken Livingtstone",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27345,9 +25356,6 @@
       "speakers": [
         "Deep Dive",
         "Ian Leslie",
-        "Stewart Wood",
-        "Sasha Havlicek",
-        "Paul Gill",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27370,10 +25378,8 @@
       "enclosure_length": "87557140",
       "itunes_duration": "36:19",
       "speakers": [
-        "Douglas Carswell",
-        "Daniel Hannan",
-        "Jason Cowley",
-        "George Eaton",
+        "Collapse Helen",
+        "Jonn Elledge",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27394,8 +25400,6 @@
       "enclosure_length": "95161908",
       "itunes_duration": "39:38",
       "speakers": [
-        "George Osborne",
-        "Mike Thomson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27487,7 +25491,6 @@
       "itunes_duration": "38:18",
       "speakers": [
         "Anoosh Chakelian",
-        "Harriet Harman",
         "Oli Dugmore"
       ],
       "topics": [
@@ -27528,7 +25531,7 @@
       "enclosure_length": "44916737",
       "itunes_duration": "31:11",
       "speakers": [
-        "Chris Grayling",
+        "Theresa May",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27550,8 +25553,6 @@
       "itunes_duration": "36:30",
       "speakers": [
         "Clive Lewis",
-        "Jason Cowley",
-        "Theresa May",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27573,7 +25574,6 @@
       "enclosure_length": "34234327",
       "itunes_duration": "23:46",
       "speakers": [
-        "Ken Clarke",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27614,7 +25614,6 @@
       "enclosure_length": "70715475",
       "itunes_duration": "29:27",
       "speakers": [
-        "David Lammy MP",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27636,7 +25635,6 @@
       "itunes_duration": "33:56",
       "speakers": [
         "Theresa May",
-        "Michael Gove",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27658,7 +25656,6 @@
       "itunes_duration": "29:24",
       "speakers": [
         "Jeremy Corbyn",
-        "Caroline Lucas",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27679,8 +25676,6 @@
       "enclosure_length": "42876051",
       "itunes_duration": "29:46",
       "speakers": [
-        "Len McCluskey",
-        "Amelia Tait",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27701,7 +25696,6 @@
       "enclosure_length": "46233308",
       "itunes_duration": "32:06",
       "speakers": [
-        "Zac Goldsmith",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27723,7 +25717,6 @@
       "speakers": [
         "David Runciman",
         "Helen Thompson",
-        "Will Donald Trump",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27744,8 +25737,6 @@
       "enclosure_length": "50650719",
       "itunes_duration": "35:10",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27769,9 +25760,6 @@
       "itunes_duration": "31:05",
       "speakers": [
         "Emily Thornberry",
-        "Emily Witt",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27793,9 +25781,6 @@
       "itunes_duration": "40:52",
       "speakers": [
         "Jeremy Hunt",
-        "James Graham",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27816,8 +25801,9 @@
       "enclosure_length": "45622043",
       "itunes_duration": "31:40",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
+        "Autumn Statement",
+        "Staggers Editor",
+        "Julia Rampen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27840,10 +25826,6 @@
       "itunes_duration": "43:23",
       "speakers": [
         "Laurie Penny",
-        "George Eaton",
-        "Jeremy Corbyn",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27865,8 +25847,6 @@
       "enclosure_length": "62563183",
       "itunes_duration": "43:26",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27886,7 +25866,6 @@
       "enclosure_length": "39059875",
       "itunes_duration": "27:07",
       "speakers": [
-        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27907,8 +25886,6 @@
       "enclosure_length": "69268293",
       "itunes_duration": "48:06",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27930,9 +25907,6 @@
       "enclosure_length": "55287558",
       "itunes_duration": "38:23",
       "speakers": [
-        "Zac Goldsmith",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27955,8 +25929,6 @@
       "itunes_duration": "30:30",
       "speakers": [
         "Anoosh Chakelian",
-        "Helen Lewis",
-        "Stephen Bush",
         "Oli Dugmore"
       ],
       "topics": [
@@ -27977,7 +25949,6 @@
       "enclosure_length": "62064140",
       "itunes_duration": "43:05",
       "speakers": [
-        "Amelia Tait",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -27999,9 +25970,7 @@
       "enclosure_length": "49331640",
       "itunes_duration": "34:15",
       "speakers": [
-        "Andrea Leadsom",
-        "Helen Lewis",
-        "Stephen Bush",
+        "Tory Special Stephen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28023,8 +25992,6 @@
       "itunes_duration": "23:28",
       "speakers": [
         "Gary Younge",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28047,9 +26014,6 @@
       "itunes_duration": "35:44",
       "speakers": [
         "Jeremy Corbyn",
-        "Welsh Labour",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28070,12 +26034,8 @@
       "enclosure_length": "75337898",
       "itunes_duration": "39:14",
       "speakers": [
-        "Serena Kutchinsky",
-        "Jason Cowley",
-        "Colin Robinson",
-        "George Eaton",
-        "Philip Collins",
-        "Ros Wynne-Jones",
+        "New Statesman",
+        "New Times",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28096,10 +26056,6 @@
       "enclosure_length": "48771783",
       "itunes_duration": "33:51",
       "speakers": [
-        "Tim Farron",
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28122,10 +26078,6 @@
       "enclosure_length": "77649838",
       "itunes_duration": "53:55",
       "speakers": [
-        "Kirsty Styles",
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28148,9 +26100,6 @@
       "enclosure_length": "42876051",
       "itunes_duration": "29:46",
       "speakers": [
-        "George Eaton",
-        "Anna Leszkiewicz",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28174,8 +26123,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "YouGov Polls",
-        "Amelia Tait",
         "Oli Dugmore"
       ],
       "topics": [
@@ -28198,11 +26145,6 @@
       "itunes_duration": "38:07",
       "speakers": [
         "George Eaton",
-        "Owen Smith",
-        "Anna Leszkiewicz",
-        "John McDonell",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28224,7 +26166,7 @@
       "enclosure_length": "9138594",
       "itunes_duration": "6:20",
       "speakers": [
-        "Helen Lewis",
+        "Happy Holidays Helen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28246,9 +26188,6 @@
       "itunes_duration": "42:40",
       "speakers": [
         "Stephen talk Labour",
-        "Andy Burnham",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28269,7 +26208,6 @@
       "enclosure_length": "31097752",
       "itunes_duration": "21:35",
       "speakers": [
-        "Jeremy Corbyn",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28291,8 +26229,6 @@
       "enclosure_length": "48189984",
       "itunes_duration": "33:27",
       "speakers": [
-        "John Elledge",
-        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28316,9 +26252,6 @@
       "itunes_duration": "41:09",
       "speakers": [
         "Jeremy Corbyn",
-        "Sarah Champion",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28340,10 +26273,6 @@
       "enclosure_length": "47663356",
       "itunes_duration": "33:05",
       "speakers": [
-        "Owen Smith",
-        "George Eaton",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28368,7 +26297,6 @@
       "speakers": [
         "Stephen Bush",
         "Anoosh Chakelian",
-        "Theresa May",
         "Oli Dugmore"
       ],
       "topics": [
@@ -28388,9 +26316,6 @@
       "enclosure_length": "68127264",
       "itunes_duration": "47:18",
       "speakers": [
-        "Bernie Sanders",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28413,8 +26338,6 @@
       "itunes_duration": "19:50",
       "speakers": [
         "Theresa May",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28435,9 +26358,6 @@
       "enclosure_length": "93735626",
       "itunes_duration": "48:49",
       "speakers": [
-        "George Eaton",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28459,8 +26379,6 @@
       "enclosure_length": "35814213",
       "itunes_duration": "24:52",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28483,12 +26401,6 @@
       "enclosure_length": "108858226",
       "itunes_duration": "56:41",
       "speakers": [
-        "Michael Gove",
-        "Theresa May",
-        "Jeremy Corbyn",
-        "Laurie Penny",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28509,8 +26421,6 @@
       "enclosure_length": "50842146",
       "itunes_duration": "26:28",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28531,7 +26441,6 @@
       "itunes_duration": "22:08",
       "speakers": [
         "Jason Cowley",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28552,9 +26461,6 @@
       "itunes_duration": "31:57",
       "speakers": [
         "Jo Cox",
-        "George Eaton",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28597,8 +26503,6 @@
       "speakers": [
         "Morningside Pie",
         "Anoosh Chakelian",
-        "George Eaton",
-        "Stephen Bush",
         "Oli Dugmore"
       ],
       "topics": [
@@ -28620,10 +26524,6 @@
       "itunes_duration": "40:29",
       "speakers": [
         "Jeremy Corbyn",
-        "Ed Miliband",
-        "Bernie Sanders",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28645,10 +26545,7 @@
       "enclosure_length": "92023665",
       "itunes_duration": "47:55",
       "speakers": [
-        "George Eaton",
-        "Henry Zeffman",
-        "Helen Lewis",
-        "Stephen Bush",
+        "Boris Joh",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28671,7 +26568,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28693,11 +26589,6 @@
       "enclosure_length": "72669647",
       "itunes_duration": "37:50",
       "speakers": [
-        "George Eaton",
-        "Vote Leave",
-        "Anna Leszkiewicz",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28742,10 +26633,6 @@
       "enclosure_length": "90692883",
       "itunes_duration": "47:14",
       "speakers": [
-        "Henry Zeffman",
-        "George Eaton",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28771,9 +26658,6 @@
         "Helen Lewis",
         "Stephen Bush",
         "Henry Zeffman",
-        "George Eaton",
-        "Zac Goldsmith",
-        "Sadiq Khan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28796,11 +26680,6 @@
       "enclosure_length": "109286216",
       "itunes_duration": "56:55",
       "speakers": [
-        "Laura McInerney",
-        "Ian Leslie",
-        "George Eaton",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28824,10 +26703,7 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Stephen Brasher",
         "Anoosh Chakelian",
-        "Siobhan Fenton",
-        "David Torrance",
         "Oli Dugmore"
       ],
       "topics": [
@@ -28848,10 +26724,6 @@
       "itunes_duration": "39:28",
       "speakers": [
         "Jeremy Corbyn",
-        "Anna Leszkiewicz",
-        "Ted Cruz",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28873,9 +26745,6 @@
       "speakers": [
         "Duncan Smith",
         "Stephen Bush",
-        "George Eaton",
-        "Anthony Howard",
-        "Henry Zeffman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28899,9 +26768,6 @@
       "itunes_duration": "33:11",
       "speakers": [
         "George discuss Osborne",
-        "Stephen Bush",
-        "George Eaton",
-        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28923,9 +26789,6 @@
       "itunes_duration": "34:31",
       "speakers": [
         "George Eaton",
-        "Barbara Speed",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28947,9 +26810,6 @@
       "itunes_duration": "40:35",
       "speakers": [
         "George Eaton",
-        "Helen Lewis",
-        "Stephen Bush",
-        "Anna Leszkiewicz",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -28972,11 +26832,9 @@
       "itunes_duration": "42:43",
       "speakers": [
         "Vote Leave",
-        "George Eaton",
-        "Barbara Speed",
-        "Helen Lewis",
-        "Stephen Bush",
-        "Anoosh Chakelian"
+        "George Ea",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "boris",
@@ -28997,9 +26855,6 @@
       "itunes_duration": "40:37",
       "speakers": [
         "George Eaton",
-        "Barbara Speed",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29022,9 +26877,6 @@
       "itunes_duration": "36:32",
       "speakers": [
         "Stephen talk Trident",
-        "George Eaton",
-        "Stephen Bush",
-        "Anna Leszkiewicz",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29046,11 +26898,6 @@
       "enclosure_length": "90196348",
       "itunes_duration": "46:58",
       "speakers": [
-        "George Eaton",
-        "Emad Ahmed",
-        "Bernie Sanders",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29098,8 +26945,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Stephanie Boland",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29123,8 +26968,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "George Eaton",
-        "Emad Ahmed",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29148,8 +26991,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Stephanie Boland",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29171,9 +27012,7 @@
       "enclosure_length": "46746145",
       "itunes_duration": "24:20",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
-        "Barbara Speed",
+        "Star Wars",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29195,9 +27034,7 @@
       "enclosure_length": "47477782",
       "itunes_duration": "32:58",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
+        "Christmas Special",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29218,11 +27055,7 @@
       "enclosure_length": "40284496",
       "itunes_duration": "20:58",
       "speakers": [
-        "Stephen Bush",
-        "Caroline Crampton",
         "Anoosh Chakelian",
-        "George Eaton",
-        "Barbara Speed",
         "Oli Dugmore"
       ],
       "topics": [
@@ -29244,11 +27077,6 @@
       "itunes_duration": "41:04",
       "speakers": [
         "Hilary Benn",
-        "Marlon James",
-        "Caroline Crampton",
-        "Stephen Bush",
-        "Barbara Speed",
-        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29272,9 +27100,6 @@
       "speakers": [
         "Jason Cowley",
         "John Gray",
-        "Stephen Bush",
-        "Helen Lewis",
-        "Barbara Speed",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29295,9 +27120,6 @@
       "enclosure_length": "31619365",
       "itunes_duration": "21:57",
       "speakers": [
-        "Helen Lewis",
-        "George Eaton",
-        "Barbara Speed",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29320,12 +27142,8 @@
       "speakers": [
         "Jason Cowley",
         "Shiraz Maher",
-        "Kevin Barry",
-        "Xan Rice",
-        "Helen Lewis",
-        "George Eaton",
-        "Tom Gatti",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "isis",
@@ -29345,10 +27163,7 @@
       "enclosure_length": "37613527",
       "itunes_duration": "26:07",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
-        "Barbara Speed",
+        "Philip Pullman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29370,9 +27185,6 @@
       "itunes_duration": "19:37",
       "speakers": [
         "Stephen Bush",
-        "George Eaton",
-        "Kate Mossman",
-        "Stephanie Boland",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29396,10 +27208,6 @@
       "speakers": [
         "William Boyd",
         "John le Carré",
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
-        "Tom Gatti",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29425,10 +27233,6 @@
       "itunes_duration": "24:00",
       "speakers": [
         "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
-        "Anna Leszkiewicz",
-        "Kate Mossman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29450,10 +27254,6 @@
       "enclosure_length": "28254135",
       "itunes_duration": "29:18",
       "speakers": [
-        "Helen Lewis",
-        "George Eaton",
-        "Stephen Bush",
-        "Yo Zushi",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29474,12 +27274,7 @@
       "enclosure_length": "20510909",
       "itunes_duration": "20:42",
       "speakers": [
-        "Ted Hughes",
-        "Helen Lewis",
-        "George Eaton",
-        "Stephen Bush",
-        "Tom Gatti",
-        "Erica Wagner",
+        "Conference Season",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29502,6 +27297,7 @@
       "enclosure_length": "34229862",
       "itunes_duration": "34:27",
       "speakers": [
+        "Labour Party Conference",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29543,7 +27339,6 @@
       "enclosure_length": "39452660",
       "itunes_duration": "39:50",
       "speakers": [
-        "Abel Ferrara",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29563,7 +27358,6 @@
       "enclosure_length": "33411604",
       "itunes_duration": "33:49",
       "speakers": [
-        "Terry Pratchett",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29586,13 +27380,8 @@
       "itunes_duration": "36:47",
       "speakers": [
         "Tessa Jowell",
-        "Tom Shone",
-        "Woody Allen",
-        "Caroline Crampton",
-        "Barbara Speed",
-        "John Elledge",
-        "Stephen Bush",
-        "George Eaton"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": []
     },
@@ -29632,12 +27421,6 @@
       "enclosure_length": "13502426",
       "itunes_duration": "13:58",
       "speakers": [
-        "Ashley Madison",
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
-        "Barbara Speed",
-        "Helen Thomas",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29661,12 +27444,8 @@
       "speakers": [
         "Yvette Cooper",
         "Jeremy Corbyn",
-        "Benedict Cumberbatch",
-        "Helen Lewis",
-        "Caroline Crampton",
-        "George Eaton",
-        "Stephen Bush",
-        "Anna Leszkiewicz"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "cooper",
@@ -29686,8 +27465,6 @@
       "itunes_duration": "15:18",
       "speakers": [
         "Andy Burnham",
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29732,9 +27509,6 @@
       "itunes_duration": "21:16",
       "speakers": [
         "Helen Lewis",
-        "George Eaton",
-        "Stephen Bush",
-        "Nicky Woolf",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29756,14 +27530,8 @@
       "enclosure_length": "92700080",
       "itunes_duration": "1:36:33",
       "speakers": [
-        "Richard Curtis",
-        "Kate Mosse",
-        "John Mullan",
-        "Andrew Marr",
-        "Kate Fox",
-        "Owen Jones",
-        "Suzanne Moore",
-        "Georgia Gould"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "latitude"
@@ -29782,10 +27550,6 @@
       "itunes_duration": "29:27",
       "speakers": [
         "Jeremy Corbyn",
-        "Helen Lewis",
-        "George Eaton",
-        "Stephen Bush",
-        "Caroline Crampton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29806,10 +27570,6 @@
       "enclosure_length": "29598281",
       "itunes_duration": "30:49",
       "speakers": [
-        "Helen Lewis",
-        "George Eaton",
-        "Stephen Bush",
-        "Barbara Speed",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29830,8 +27590,6 @@
       "enclosure_length": "14070818",
       "itunes_duration": "13:55",
       "speakers": [
-        "Stephen Bush",
-        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29852,11 +27610,6 @@
       "enclosure_length": "28887475",
       "itunes_duration": "28:57",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
-        "Matina Stevis",
-        "Caroline Crampton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29877,13 +27630,8 @@
       "enclosure_length": "68032266",
       "itunes_duration": "1:10:41",
       "speakers": [
-        "Helen Lewis",
-        "Caroline Crampton",
-        "Anna Leszkiewicz",
-        "Stephen Bush",
-        "Stephanie Boland",
-        "Barbara Speed",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "harry",
@@ -29904,10 +27652,6 @@
       "itunes_duration": "36:16",
       "speakers": [
         "Andy Burnham",
-        "Helen Lewis",
-        "Stephen Bush",
-        "Barbara Speed",
-        "Caroline Crampton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29930,12 +27674,6 @@
       "enclosure_length": "24880124",
       "itunes_duration": "25:46",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
-        "Caroline Crampton",
-        "Barbara Speed",
-        "Anna Leszkiewicz",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -29957,12 +27695,7 @@
       "enclosure_length": "31421899",
       "itunes_duration": "31:23",
       "speakers": [
-        "Caroline Crampton",
-        "Stephen Bush",
-        "George Eaton",
-        "Barbara Speed",
         "Anoosh Chakelian",
-        "Tosin Thompson",
         "Oli Dugmore"
       ],
       "topics": []
@@ -29980,11 +27713,7 @@
       "itunes_duration": "27:50",
       "speakers": [
         "Ali Smith",
-        "Caroline Crampton",
-        "George Eaton",
         "Anoosh Chakelian",
-        "Tom Gatti",
-        "Stephanie Boland",
         "Oli Dugmore"
       ],
       "topics": [
@@ -30028,9 +27757,7 @@
       "enclosure_length": "24277608",
       "itunes_duration": "26:09",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
+        "Tristram Hunt",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30051,7 +27778,7 @@
       "itunes_duration": "12:33",
       "speakers": [
         "Jason Cowley",
-        "Gerry Hassan",
+        "Gerry Hassa",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30069,11 +27796,6 @@
       "enclosure_length": "25506203",
       "itunes_duration": "26:28",
       "speakers": [
-        "Helen Lewis",
-        "George Eaton",
-        "Stephen Bush",
-        "Barbara Speed",
-        "Anna Leszkiewicz",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30095,9 +27817,6 @@
       "enclosure_length": "16618167",
       "itunes_duration": "17:35",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30120,9 +27839,6 @@
       "speakers": [
         "Gerry Hassan",
         "Jason Cowley",
-        "George Eaton",
-        "Stephen Bush",
-        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30145,7 +27861,6 @@
         "Helen Lewis",
         "Jason Cowley",
         "George Eaton",
-        "Caroline Crampton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30170,8 +27885,6 @@
         "Helen Lewis",
         "Jason Cowley",
         "George Eaton",
-        "Stephen Bush",
-        "Harry Lambert",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30244,11 +27957,8 @@
         "Helen Lewis",
         "Jason Cowley",
         "George Eaton",
-        "Harry Lambert",
-        "Stephen Bush",
-        "Ian Steadman",
-        "John Gray",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -30269,9 +27979,6 @@
       "itunes_duration": "25:50",
       "speakers": [
         "Jason Cowley",
-        "George Eaton",
-        "John Gray",
-        "Ed Miliband",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30317,8 +28024,6 @@
       "enclosure_length": "12755391",
       "itunes_duration": "13:29",
       "speakers": [
-        "Helen Lewis",
-        "Stephen Bush",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30343,11 +28048,9 @@
         "George Eaton",
         "Stephen Bush",
         "Ed Balls",
-        "Helen Lewis",
-        "Stephanie Boland",
-        "Ian Steadman",
-        "Tosin Thompson",
-        "Anoosh Chakelian"
+        "Helen Lewi",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -30369,8 +28072,6 @@
       "speakers": [
         "Helen Lewis",
         "Stephen Bush",
-        "Ian Steadman",
-        "Tosin Thompson",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30395,7 +28096,6 @@
         "George Eaton",
         "Stephen Bush",
         "Ian Steadman",
-        "Stephanie Boland",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30418,10 +28118,6 @@
       "itunes_duration": "32:17",
       "speakers": [
         "George Eaton",
-        "Ian Steadman",
-        "Tosin Thompson",
-        "Caroline Crampton",
-        "Barbara Speed",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30445,9 +28141,6 @@
       "speakers": [
         "Barbara Speed",
         "Caroline Crampton",
-        "George Eaton",
-        "Ashley Cowburn",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30473,8 +28166,6 @@
         "Harry Lambert",
         "George Eaton",
         "Ian Steadman",
-        "Barbara Speed",
-        "Caroline Crampton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30498,9 +28189,7 @@
       "speakers": [
         "George Eaton",
         "Stephen Bush",
-        "Caroline Crampton",
-        "Stephanie Boland",
-        "Stuart Maconie",
+        "Caroline Crampt",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30523,10 +28212,6 @@
       "itunes_duration": "23:42",
       "speakers": [
         "George Eaton",
-        "Ian Steadman",
-        "Christopher Poole",
-        "Tom Gatti",
-        "Wolf Hall",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30549,11 +28234,6 @@
       "itunes_duration": "36:20",
       "speakers": [
         "George Eaton",
-        "Jason Cowley",
-        "Xan Rice",
-        "Shiraz Maher",
-        "Ian Steadman",
-        "Alex Hern",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30576,8 +28256,6 @@
       "itunes_duration": "23:08",
       "speakers": [
         "George Eaton",
-        "Ian Steadman",
-        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30602,10 +28280,6 @@
         "George Eaton",
         "Anoosh Chakelian",
         "Helen Lewis",
-        "Ian Steadman",
-        "Philip Maughan",
-        "Caroline Crampton",
-        "Libby Lane",
         "Oli Dugmore"
       ],
       "topics": [
@@ -30654,10 +28328,6 @@
         "George Eaton",
         "Anoosh Chakelian",
         "Helen Lewis",
-        "Daniel Trilling",
-        "Xan Rice",
-        "Philip Maughan",
-        "Lucy Cosslett",
         "Oli Dugmore"
       ],
       "topics": [
@@ -30680,9 +28350,7 @@
       "speakers": [
         "Harry Lambert",
         "George Eaton",
-        "Ed Miliband",
-        "Ian Steadman",
-        "Caroline Crampton",
+        "Ed Mi",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30706,9 +28374,6 @@
         "Jason Cowley",
         "Helen Lewis",
         "Ed Miliband",
-        "Philip Maughan",
-        "Ali Smith",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30730,7 +28395,6 @@
       "itunes_duration": "36:54",
       "speakers": [
         "Shiraz Maher",
-        "Peter Millar",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30752,8 +28416,6 @@
       "enclosure_length": "17151171",
       "itunes_duration": "17:38",
       "speakers": [
-        "George Eaton",
-        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30777,7 +28439,6 @@
         "Helen Lewis",
         "George Eaton",
         "Caroline Crampton",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30824,9 +28485,6 @@
       "enclosure_length": "34033618",
       "itunes_duration": "38:51",
       "speakers": [
-        "Elizabeth Minkel",
-        "Ian Steadman",
-        "Damian Barr",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30847,9 +28505,8 @@
       "enclosure_length": "23408880",
       "itunes_duration": "24:22",
       "speakers": [
-        "Ian Steadman",
-        "Caroline Crampton",
-        "John Tavener",
+        "New Statesman",
+        "Conservative Party Conference",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30893,10 +28550,6 @@
       "itunes_duration": "29:23",
       "speakers": [
         "George Eaton",
-        "Helen Lewis",
-        "Philip Maughan",
-        "Ian Steadman",
-        "Fiona Rutherford",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30918,11 +28571,6 @@
       "itunes_duration": "37:32",
       "speakers": [
         "Jason Cowley",
-        "Gerry Hassan",
-        "Helen Lewis",
-        "George Eaton",
-        "Fiona Rutherford",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30946,7 +28594,6 @@
         "John Bew",
         "Shiraz Maher",
         "Jason Cowley",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -30970,10 +28617,8 @@
         "George Eaton",
         "Anoosh Chekelian",
         "Helen Lewis",
-        "Douglas Carswell",
-        "Ian Steadman",
-        "Fiona Rutherford",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -30993,11 +28638,6 @@
       "itunes_duration": "40:57",
       "speakers": [
         "George Eaton",
-        "Ian Steadman",
-        "Juliet Jacques",
-        "Caroline Crampton",
-        "Helen Lewis",
-        "Philip Maughan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31021,10 +28661,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Jonah Peretti",
-        "Cory Arcangel",
-        "Ian Steadman",
-        "Barbara Speed",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31077,10 +28713,7 @@
       "itunes_duration": "28:39",
       "speakers": [
         "George Eaton",
-        "Sophie McBain",
-        "Kate Mossman",
-        "Ian Steadman",
-        "Juliet Jacques",
+        "Helen Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31104,8 +28737,6 @@
         "Helen Lewis",
         "George Eaton",
         "Lucy Fisher",
-        "Juliet Jacques",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31126,8 +28757,6 @@
       "enclosure_length": "7092117",
       "itunes_duration": "7:20",
       "speakers": [
-        "Helen Lewis",
-        "Caroline Crampton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31153,9 +28782,7 @@
         "Helen Lewis",
         "George Eaton",
         "Lucy Fisher",
-        "Mark Lawson",
-        "Kate Mossman",
-        "Ian Steadman",
+        "Mark Lawso",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31177,9 +28804,7 @@
       "itunes_duration": "30:53",
       "speakers": [
         "George Eaton",
-        "Ed Miliband",
-        "Robin Ince",
-        "Ian Steadman",
+        "Ed Mili",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31202,12 +28827,8 @@
       "speakers": [
         "Caroline Crampton",
         "Lucy Fisher",
-        "Ajit Niranjan",
-        "Helen Lewis",
-        "Ian Steadman",
-        "Philip Maughan",
-        "Robin Lustig",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -31227,9 +28848,6 @@
       "itunes_duration": "26:22",
       "speakers": [
         "George Eaton",
-        "Ian Steadman",
-        "Helen Lewis",
-        "Shiraz Maher",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31253,11 +28871,8 @@
         "George Eaton",
         "Lucy Fisher",
         "Caroline Crampton",
-        "Jason Cowley",
-        "Philip Maughan",
-        "Yo Zushi",
-        "Jerry David DeCicca",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -31280,10 +28895,8 @@
         "George Eaton",
         "Tim Wigmore",
         "Lucy Fisher",
-        "Lib Dems",
-        "Ian Leslie",
-        "Ian Steadman",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -31304,9 +28917,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Ian Steadman",
-        "Yo Zushi",
-        "Bob Dylan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31330,8 +28940,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Ian Steadman",
-        "Ed Miliband",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31354,8 +28962,6 @@
       "speakers": [
         "Rafael Behr",
         "George Eaton",
-        "Aleks Kolkowski",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31378,9 +28984,6 @@
       "speakers": [
         "Caroline Crampton",
         "George Eaton",
-        "Sophie McBain",
-        "Mona Siddiqui",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31426,9 +29029,6 @@
         "Helen Lewis",
         "Laurie Penny",
         "Caroline Crampton",
-        "Mark Haddon",
-        "Tom Gatti",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31451,12 +29051,8 @@
       "speakers": [
         "George Eaton",
         "Helen Lewis",
-        "Maria Miller",
-        "Michael Prodger",
-        "Man Booker Prize",
-        "Jim Crace",
-        "Ian Steadman",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -31478,7 +29074,6 @@
         "Alex Clark",
         "Man Booker",
         "Eleanor Catton",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31501,10 +29096,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Kate Mossman",
-        "Jude Rogers",
-        "Kylie Minogue",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31528,12 +29119,8 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "George Osborne",
-        "Erica Wagner",
-        "Tom Gatti",
-        "Henry Marsh",
-        "Ian Steadman",
-        "Caroline Crampton"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -31554,7 +29141,6 @@
       "itunes_duration": "1:16:28",
       "speakers": [
         "Alex Salmond",
-        "Jason Cowley",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31609,8 +29195,6 @@
       "itunes_duration": "35:47",
       "speakers": [
         "George Eaton",
-        "Ed Smith",
-        "Ivan Lewis",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31635,8 +29219,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Ian Steadman",
-        "Laurie Penny",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31660,10 +29242,8 @@
       "speakers": [
         "George Eaton",
         "Caroline Crampton",
-        "Kate Mossman",
-        "Philip Maughan",
-        "Ian Steadman",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -31685,8 +29265,6 @@
       "speakers": [
         "George Kynaston",
         "Jason Cowley",
-        "Caroline Crampton",
-        "Caroline Criado-Perez",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31710,9 +29288,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Caroline Crampton",
-        "Lena Dunham",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31736,10 +29311,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Philip Maughan",
-        "Ryan Gilbey",
-        "Martin Scorsese",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31764,9 +29335,6 @@
         "Helen Lewis",
         "George Eaton",
         "Ed Balls",
-        "Ryan Shorthouse",
-        "Ian Steadman",
-        "Laurie Penny",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31790,8 +29358,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Sean Anderson",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31815,9 +29381,7 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Philip Maughan",
-        "Michael Prodger",
-        "Ian Steadman",
+        "Philip Mau",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31839,10 +29403,6 @@
       "itunes_duration": "29:26",
       "speakers": [
         "George Eaton",
-        "Stuart Maconie",
-        "Philip Maughan",
-        "Simon Armitage",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31866,7 +29426,6 @@
         "Rafael Behr",
         "George Eaton",
         "Helen Lewis",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31888,10 +29447,6 @@
       "enclosure_length": "18709047",
       "itunes_duration": "27:50",
       "speakers": [
-        "Caroline Crampton",
-        "Adam Price",
-        "Ian Steadman",
-        "Hadron Collider",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31915,9 +29470,6 @@
         "George Eaton",
         "Helen Lewis",
         "Iain Duncan Smith",
-        "Caroline Crampton",
-        "Rachel Cooke",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31942,7 +29494,6 @@
         "Caroline Crampton",
         "Helen Lewis",
         "Rachel Cooke",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31964,7 +29515,6 @@
       "itunes_duration": "21:47",
       "speakers": [
         "George Eaton",
-        "Ian Steadman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -31986,10 +29536,6 @@
       "itunes_duration": "33:11",
       "speakers": [
         "George Eaton",
-        "Caroline Crampton",
-        "Samantha Asumadu",
-        "Philip Maughan",
-        "Kate Mossman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32010,9 +29556,6 @@
       "enclosure_length": "22288252",
       "itunes_duration": "30:47",
       "speakers": [
-        "Michael Brooks",
-        "Philip Maughan",
-        "Caroline Crampton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32054,12 +29597,8 @@
       "speakers": [
         "George Eaton",
         "Ed Miliband",
-        "Philip Maughan",
-        "Caroline Crampton",
-        "Breaking Bad",
-        "Ryan Gilbey",
-        "Woody Allen",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32079,11 +29618,6 @@
       "itunes_duration": "33:36",
       "speakers": [
         "George Eaton",
-        "Philip Maughan",
-        "Kate Mossman",
-        "Elton John",
-        "Sarah Ditum",
-        "Holly Baxter",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32107,12 +29641,8 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Tim Farron",
-        "Jeremy Browne",
-        "Caroline Crampton",
-        "Alex Hern",
-        "Hayley Campbell",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32133,8 +29663,6 @@
       "itunes_duration": "29:52",
       "speakers": [
         "George Eaton",
-        "Alex Hern",
-        "Keiron Gillen",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32159,10 +29687,8 @@
         "Helen Lewis",
         "George Eaton",
         "Philip Maughan",
-        "Kate Mossman",
-        "Iron Maiden",
-        "Alex Hern",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32184,8 +29710,6 @@
       "speakers": [
         "Caroline Crampton",
         "Alex Hern",
-        "Kieron Gillen",
-        "Ask fm",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32207,9 +29731,6 @@
       "itunes_duration": "24:20",
       "speakers": [
         "George Eaton",
-        "Kate Mossman",
-        "Philip Maughan",
-        "Alex Hern",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32232,13 +29753,8 @@
       "itunes_duration": "39:52",
       "speakers": [
         "George Eaton",
-        "David Skelton",
-        "Caroline Crampton",
-        "Michael Brooks",
-        "Alex Hern",
-        "Alex Andreou",
-        "Eleanor Margolis",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32260,12 +29776,8 @@
       "speakers": [
         "George Eaton",
         "Alan White",
-        "Kate Belgrave",
-        "Caroline Crampton",
-        "Laurie Penny",
-        "Helen Lewis",
-        "Jane Austen",
-        "Anoosh Chakelian"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32286,9 +29798,6 @@
       "speakers": [
         "Helen Lewis",
         "George Eaton",
-        "Caroline Crampton",
-        "Eleanor Margolis",
-        "Alex Hern",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32310,7 +29819,6 @@
       "itunes_duration": "11:36",
       "speakers": [
         "Helen Lewis",
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32331,9 +29839,7 @@
       "enclosure_length": "26328586",
       "itunes_duration": "38:28",
       "speakers": [
-        "Willard Foxton",
-        "Rebecca Wait",
-        "Daniel Trilling",
+        "New Statesman",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32354,11 +29860,7 @@
       "enclosure_length": "19003776",
       "itunes_duration": "27:29",
       "speakers": [
-        "Philip Maughan",
-        "Caroline Crampton",
-        "Tom Calvocoressi",
-        "Alex Hern",
-        "Helen Lewis",
+        "Labour Party",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32381,8 +29883,6 @@
       "speakers": [
         "George Eaton",
         "Ian Bremmer",
-        "Alex Hern",
-        "Philip Maughan",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32403,11 +29903,7 @@
       "enclosure_length": "12726226",
       "itunes_duration": "18:25",
       "speakers": [
-        "George Pitcher",
-        "Robert Macfarlane",
-        "Alex Hern",
-        "Grant Morrison",
-        "Steve Yeowell",
+        "George Pitche",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32430,10 +29926,6 @@
       "itunes_duration": "38:18",
       "speakers": [
         "George Eaton",
-        "Holly Baxter",
-        "Philip Maughan",
-        "James Salter",
-        "Alex Hern",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32455,8 +29947,6 @@
       "itunes_duration": "21:46",
       "speakers": [
         "George Eaton",
-        "Helen Lewis",
-        "Alex Hern",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32478,10 +29968,7 @@
       "itunes_duration": "33:38",
       "speakers": [
         "George Eaton",
-        "Sophie Elmhirst",
-        "Daniel Dorling",
-        "Laurie Penny",
-        "Jonathan Derbyshire",
+        "Sophie Elmhir",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32502,7 +29989,6 @@
       "enclosure_length": "5581845",
       "itunes_duration": "8:23",
       "speakers": [
-        "George Eaton",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32527,8 +30013,6 @@
       "itunes_duration": "34:24",
       "speakers": [
         "Len McCluskey",
-        "Jonathan Derbyshire",
-        "Nicky Woolf",
         "Anoosh Chakelian",
         "Oli Dugmore"
       ],
@@ -32550,13 +30034,8 @@
       "itunes_duration": "1:39:16",
       "speakers": [
         "Centenary Debates",
-        "Helen Lewis",
-        "Simon Heffer",
-        "Mehdi Hasan",
-        "Tim Montgomerie",
-        "Ruth Porter",
-        "Owen Jones",
-        "Jason Cowley"
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32578,14 +30057,9 @@
       "enclosure_length": "36230016",
       "itunes_duration": "53:55",
       "speakers": [
-        "Rafael Behr",
-        "George Eaton",
-        "Philip Maughan",
-        "Jonathan Derbyshire",
-        "Daniel Trilling",
-        "Yiannis Baboulias",
-        "Laurie Penny",
-        "Will Self"
+        "Rafael Beh",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32607,13 +30081,9 @@
       "itunes_duration": "1:41:19",
       "speakers": [
         "Helen Lewis",
-        "Laurie Penny",
-        "Bim Adewunmi",
-        "Juliet Jacques",
-        "Victoria Smith",
-        "Lucy Cosslett",
-        "Holly Baxter",
-        "Caroline Crampton"
+        "Laurie Pe",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32633,14 +30103,10 @@
       "enclosure_length": "22113591",
       "itunes_duration": "39:19",
       "speakers": [
-        "George Eaton",
-        "Iain Duncan Smith",
-        "Alex Hern",
-        "Aditya Chakrabortty",
-        "Jonathan Derbyshire",
-        "Philip Maughan",
-        "Helen Lewis",
-        "Caroline Crampton"
+        "political analysis",
+        "cultural reviews",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
       ],
       "topics": [
         "statesman",
@@ -32654,834 +30120,834 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — What if Russia wins? — speakers: Katie Stallard, Carlo Masala, Anoosh Chakelian, Oli Dugmore
-- 2026-02-21 — Labour Together’s attack on press freedom — speakers: Labour Together, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2026-02-23 — What if Russia wins? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-02-21 — Labour Together’s attack on press freedom — speakers: Labour Together, Anoosh Chakelian, Oli Dugmore
 - 2026-02-20 — Rutger Bregman “This Trump phenomenon really is fascism” — speakers: Rutger Bregman, Anoosh Chakelian, Oli Dugmore
-- 2026-02-19 — Andrew arrested — speakers: Andrew Mountbatten-Windsor, Oli Dugmore, Will Lloyd, Anoosh Chakelian
-- 2026-02-18 — Is Bridget Phillipson really the most dangerous woman in Britain? — speakers: Bridget Phillipson, Pippa Bailey, Oli Dugmore, Anoosh Chakelian
+- 2026-02-19 — Andrew arrested — speakers: Andrew Mountbatten-Windsor, Anoosh Chakelian, Oli Dugmore
+- 2026-02-18 — Is Bridget Phillipson really the most dangerous woman in Britain? — speakers: Bridget Phillipson, Anoosh Chakelian, Oli Dugmore
 - 2026-02-17 — Has Starmer killed Welsh Labour? — speakers: Welsh Labour, Eluned Morgan, Anoosh Chakelian, Oli Dugmore
-- 2026-02-16 — Should we ban social media for under-16s? — speakers: Oli Dugmore, George Eaton, Anoosh Chakelian
-- 2026-02-14 — The Labour Party's "unpopularity contest" — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
+- 2026-02-16 — Should we ban social media for under-16s? — speakers: Will Keir Starmer, Anoosh Chakelian, Oli Dugmore
+- 2026-02-14 — The Labour Party's "unpopularity contest" — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-02-13 — £100k salary, feeling poor – is tax killing ambition? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2026-02-12 — Exclusive investigation: England's maternity scandal — speakers: Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2026-02-11 — Is the Labour party having an ideological crisis? — speakers: Tom McTague, Will Lloyd, Anoosh Chakelian, Oli Dugmore
-- 2026-02-10 — Keir Starmer is safe - but for how long? — speakers: Morgan McSweeney, Anoosh Chakelian, Oli Dugmore
-- 2026-02-09 — Starmer's top two aides quit — speakers: Tim Allan, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2026-02-07 — Elon Musk asked to attend Epstein's "wildest party" — speakers: Elon Musk’s Epstein, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2026-02-06 — What did Starmer already know about Mandelson and Epstein? — speakers: Peter Mandelson, Jeffrey Epstein, Tom McTague, Jim Pickard, Anoosh Chakelian, Oli Dugmore
-- 2026-02-05 — Labour MPs are turning on Starmer over Mandelson — speakers: Peter Mandelson, Jeffrey Epstein, Angela Rayner, Megan Kenyon, Anoosh Chakelian, Oli Dugmore
-- 2026-02-04 — Will Mandelson be Starmer's downfall? — speakers: Will Mandelson, Peter Mandelson, Jeffrey Epstein, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2026-02-03 — Mandelson’s leaks to Epstein “a disgrace” — speakers: Dan Neidle, Peter Mandelson, Jeffrey Epstein, Oli Dugmore, Anoosh Chakelian
-- 2026-02-02 — Revealed: Jeffrey Epstein's direct line to Downing St — speakers: Jeffrey Epstein, Downing St, Peter Mandelson, Oli Dugmore, Rachel Cunliffe, Anoosh Chakelian
-- 2026-01-31 — Did China hack the British government? — speakers: Will Dunn, Rishi Sunak, Lee Anderson, Anoosh Chakelian, Oli Dugmore
-- 2026-01-30 — Student loans: Should graduates sue the government? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2026-01-29 — Can Plaid Cymru defeat Reform again? — speakers: Welsh Labour, Lindsay Whittle, Megan Kenyon, Anoosh Chakelian, Oli Dugmore
-- 2026-01-28 — Do leasehold reforms go far enough? — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2026-01-27 — Shabana Mahmood's new police force — speakers: Tom McTague, Oli Dugmore, Anoosh Chakelian
-- 2026-01-26 — Burnham blocked, Braverman defects — speakers: Andy Burnham, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2026-02-12 — Exclusive investigation: England's maternity scandal — speakers: University Hospitals Sussex, Foundation Trust, Anoosh Chakelian, Oli Dugmore
+- 2026-02-11 — Is the Labour party having an ideological crisis? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-02-10 — Keir Starmer is safe - but for how long? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-02-09 — Starmer's top two aides quit — speakers: Tim Allan, Anoosh Chakelian, Oli Dugmore
+- 2026-02-07 — Elon Musk asked to attend Epstein's "wildest party" — speakers: Elon Musk’s Epstein, Anoosh Chakelian, Oli Dugmore
+- 2026-02-06 — What did Starmer already know about Mandelson and Epstein? — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
+- 2026-02-05 — Labour MPs are turning on Starmer over Mandelson — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
+- 2026-02-04 — Will Mandelson be Starmer's downfall? — speakers: Will Mandelson, Peter Mandelson, Jeffrey Epstein, Anoosh Chakelian, Oli Dugmore
+- 2026-02-03 — Mandelson’s leaks to Epstein “a disgrace” — speakers: Dan Neidle, Anoosh Chakelian, Oli Dugmore
+- 2026-02-02 — Revealed: Jeffrey Epstein's direct line to Downing St — speakers: Jeffrey Epstein, Downing St, Peter Mandelson, Anoosh Chakelian, Oli Dugmore
+- 2026-01-31 — Did China hack the British government? — speakers: Did China, If Chinese, Anoosh Chakelian, Oli Dugmore
+- 2026-01-30 — Student loans: Should graduates sue the government? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-29 — Can Plaid Cymru defeat Reform again? — speakers: Can Plaid Cymru, Last October, South Wales, Anoosh Chakelian, Oli Dugmore
+- 2026-01-28 — Do leasehold reforms go far enough? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-27 — Shabana Mahmood's new police force — speakers: Shabana Mahmood, Anoosh Chakelian, Oli Dugmore
+- 2026-01-26 — Burnham blocked, Braverman defects — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-01-24 — Trump’s stand-up routine in Davos — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2026-01-23 — What happens when an MP defects? — speakers: Robert Jenrick, Megan Kenyon, Ethan Croft, Anoosh Chakelian, Oli Dugmore
-- 2026-01-22 — Is this Andy Burnham’s moment? — speakers: Andrew Gwynne, Andy Burnham, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2026-01-21 — The UK must crawl back to Europe — speakers: Tom McTague, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2026-01-20 — Student loans have screwed over a generation — speakers: Nick Clegg, Oli Dugmore, Rachel Cunliffe, Anoosh Chakelian
-- 2026-01-19 — Trump escalates Greenland threats — speakers: Jonas Gahr Støre, Oli Dugmore, Tom McTague, Katie Stallard, Rasmus Jarlov, Anoosh Chakelian
-- 2026-01-17 — Is London a crime-ridden cesspit? — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2026-01-16 — Should breaking manifesto pledges be illegal? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2026-01-15 — Jenrick defects to Reform — speakers: Robert Jenrick, Kemi Badenoch, Nadhim Zahawi, Oli Dugmore, Rachel Cunliffe, Ethan Croft, Anoosh Chakelian
-- 2026-01-14 — Why Keir Starmer U-turned on digital ID — speakers: Oli Dugmore, Anoosh Chakelian, Ailbhe Rea
-- 2026-01-13 — Keir Starmer: Grok imagery “disgraceful” — speakers: Oli Dugmore, Tom McTague, Ailbhe Rea, Anoosh Chakelian
-- 2026-01-12 — Nadhim Zahawi defects from the Tories to Reform — speakers: Nadhim Zahawi, Oli Dugmore, Rachel Cunliffe, Ailbhe Rea, Anoosh Chakelian
-- 2026-01-10 — An interview with Salman Rushdie — speakers: Salman Rushdie, Tanjil Rashid, Anoosh Chakelian, Oli Dugmore
-- 2026-01-09 — Blue Labour is splitting the party — speakers: Preet Kaur Gill, Shabhana Mahmood, Oli Dugmore, Ethan Croft, Megan Kenyon, Anoosh Chakelian
-- 2026-01-08 — Are we ready for a “Brexit reset”? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2026-01-07 — It's official: Labour are in third place — speakers: Nigel Farage’s Reform, Zack Polanski, Anoosh Chakelian, Oli Dugmore
-- 2026-01-06 — Russia suggested the US “swap” Venezuela for Ukraine — speakers: Fiona Hill, Megan Gibson, Anoosh Chakelian, Oli Dugmore
+- 2026-01-23 — What happens when an MP defects? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-22 — Is this Andy Burnham’s moment? — speakers: Andrew Gwynne, Anoosh Chakelian, Oli Dugmore
+- 2026-01-21 — The UK must crawl back to Europe — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-20 — Student loans have screwed over a generation — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-19 — Trump escalates Greenland threats — speakers: Nobel Peace Prize, Anoosh Chakelian, Oli Dugmore
+- 2026-01-17 — Is London a crime-ridden cesspit? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-16 — Should breaking manifesto pledges be illegal? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-15 — Jenrick defects to Reform — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-14 — Why Keir Starmer U-turned on digital ID — speakers: Why Keir Starmer, Anoosh Chakelian, Oli Dugmore
+- 2026-01-13 — Keir Starmer: Grok imagery “disgraceful” — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-12 — Nadhim Zahawi defects from the Tories to Reform — speakers: Nadhim Zahawi, Oli Dugmore, Anoosh Chakelian
+- 2026-01-10 — An interview with Salman Rushdie — speakers: Salman Rushdie, Anoosh Chakelian, Oli Dugmore
+- 2026-01-09 — Blue Labour is splitting the party — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-08 — Are we ready for a “Brexit reset”? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-07 — It's official: Labour are in third place — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-01-06 — Russia suggested the US “swap” Venezuela for Ukraine — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-01-05 — Trump kidnaps Maduro, and Starmer says… nothing? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-01-03 — A look ahead to politics in 2026 — speakers: Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2026-01-01 — The May elections will define UK politics in 2026 — speakers: Will Labour, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2025-12-28 — The biggest stories of 2025 — speakers: Rachel Cunliffe, Tom McTague, Anoosh Chakelian, Oli Dugmore
-- 2025-12-25 — Merry Quizmas! — speakers: Merry Quizmas, Volodymyr Zelensky, Katy Perry, Anoosh Chakelian, Oli Dugmore
-- 2025-12-22 — The greatest aviation disaster that didn't happen — speakers: Kate Mossman, Oli Dugmore, Anoosh Chakelian
-- 2025-12-19 — Predictions for the year ahead — speakers: Wes Streeting, Oli Dugmore, Anoosh Chakelian, Rachel Cunliffe
-- 2025-12-18 — Misogyny is a "national emergency" — speakers: Rachel Cunliffe, Luke O'Reilly, Anoosh Chakelian, Oli Dugmore
-- 2025-12-17 — Jimmy Lai’s Hong Kong show trial — speakers: Jimmy Lai, Oli Dugmore, Katie Stallard, Anoosh Chakelian
-- 2025-12-16 — Can Andy Burnham be the next Prime Minister? — speakers: Andy Burnham, Manchester Mayor, Ethan Croft, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2025-12-15 — Are Jews safe? — speakers: John Mann, Penny Mordaunt, Oli Dugmore, Rachel Cunliffe, Hannah Barnes, Anoosh Chakelian
-- 2025-12-13 — Is Britain complicit in genocide? — speakers: Peter Oborne, Oli Dugmore, Anoosh Chakelian
-- 2025-12-12 — You asked, we listened ... to Liz Truss' podcast — speakers: Zack Polanski, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2026-01-01 — The May elections will define UK politics in 2026 — speakers: Will Labour, Anoosh Chakelian, Oli Dugmore
+- 2025-12-28 — The biggest stories of 2025 — speakers: Anoosh Chakelian, New Statesman, Oli Dugmore
+- 2025-12-25 — Merry Quizmas! — speakers: Merry Quizmas, Volodymyr Zelensky, Anoosh Chakelian, Oli Dugmore
+- 2025-12-22 — The greatest aviation disaster that didn't happen — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-12-19 — Predictions for the year ahead — speakers: Wes Streeting, Anoosh Chakelian, Oli Dugmore
+- 2025-12-18 — Misogyny is a "national emergency" — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-12-17 — Jimmy Lai’s Hong Kong show trial — speakers: Jimmy Lai, Anoosh Chakelian, Oli Dugmore
+- 2025-12-16 — Can Andy Burnham be the next Prime Minister? — speakers: Andy Burnham, Manchester May, Anoosh Chakelian, Oli Dugmore
+- 2025-12-15 — Are Jews safe? — speakers: Bondi Beach, Anoosh Chakelian, Oli Dugmore
+- 2025-12-13 — Is Britain complicit in genocide? — speakers: Peter Oborne, Anoosh Chakelian, Oli Dugmore
+- 2025-12-12 — You asked, we listened ... to Liz Truss' podcast — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-12-11 — Wes Streeting is "pretty frustrated, tbh" — speakers: Wes Streeting, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2025-12-10 — Natalie Fleet MP: I won't report my rape — speakers: Natalie Fleet, David Lammy, Oli Dugmore, Anoosh Chakelian
-- 2025-12-09 — Nigel Farage wants to be American — speakers: Winston Churchill, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2025-12-08 — Labour’s Green attacks are misfiring — speakers: Zack Polanski, Rachel Cunliffe, George Eaton, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-12-07 — How can the UK win back the net zero narrative? — speakers: Jon Bernstein, Benj Sykes, Daisy Powell-Chandler, Anoosh Chakelian, Oli Dugmore
-- 2025-12-06 — Is Labour still Labour? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-12-05 — Labour’s polling nightmare — speakers: Oli Dugmore, Ben Walker, Anoosh Chakelian
-- 2025-12-04 — Angela Rayner vs. Wes Streeting: has the next leadership race begun? — speakers: Angela Rayner, Wes Streeting, Ailbhe Rea, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-12-03 — Inside the battle to lead Your Party — speakers: Zarah Sultana, Jeremy Corbyn, Oli Dugmore, Megan Kenyon, Anoosh Chakelian
-- 2025-12-02 — Our justice system is leaking from the sides — speakers: David Lammy, Oli Dugmore, Rachel Cunliffe, Anoosh Chakelian
-- 2025-12-01 — Keir Starmer is in denial — speakers: Rachel Reeves, Tom McTague, Rachel Cunliffe, Oli Dugmore, Anoosh Chakelian
-- 2025-11-29 — Labour U-turn again, this time on employment rights — speakers: Labour U-turn, Oli Dugmore, Ailbhe Rea, Anoosh Chakelian
-- 2025-11-28 — Crap, trash and greed — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-11-27 — Middle earners targeted by budget — speakers: Will Dunn, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2025-11-26 — Rachel Reeves’ tax-heavy budget — speakers: Rachel Reeves, Oli Dugmore, Rachel Cunliffe, George Eaton, Anoosh Chakelian
-- 2025-11-25 — Rachel Reeves must climb out of a massive hole — speakers: Rachel Reeves, Oli Dugmore, Tom McTague, Ailbhe Rea, Anoosh Chakelian
-- 2025-11-24 — Jeremy Corbyn: “I’m sorry” for Your Party’s messy launch — speakers: Jeremy Corbyn, MPs Jeremy Corbyn, Zarah Sultana, Megan Kenyon, Zack Polanski, Anoosh Chakelian, Oli Dugmore
-- 2025-11-22 — How Palantir conquered the world — speakers: Tanjil Rashid, James Vincent, Anoosh Chakelian, Oli Dugmore
-- 2025-11-21 — Where are Britain’s communist parties? — speakers: Oli Dugmore, Tom McTague, Anoosh Chakelian
-- 2025-11-20 — How much does immigration actually matter to the public? — speakers: Clive Lewis, Andy Burnham, Calum Weir, Labour Together, Rachel Cunliffe, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2025-12-10 — Natalie Fleet MP: I won't report my rape — speakers: Natalie Fleet, Anoosh Chakelian, Oli Dugmore
+- 2025-12-09 — Nigel Farage wants to be American — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-12-08 — Labour’s Green attacks are misfiring — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-12-07 — How can the UK win back the net zero narrative? — speakers: geopolitical shocks, Anoosh Chakelian, Oli Dugmore
+- 2025-12-06 — Is Labour still Labour? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-12-05 — Labour’s polling nightmare — speakers: Find Out Now, Anoosh Chakelian, Oli Dugmore
+- 2025-12-04 — Angela Rayner vs. Wes Streeting: has the next leadership race begun? — speakers: Angela Rayner, Wes Streeting, Anoosh Chakelian, Oli Dugmore
+- 2025-12-03 — Inside the battle to lead Your Party — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-12-02 — Our justice system is leaking from the sides — speakers: David Lamm, Anoosh Chakelian, Oli Dugmore
+- 2025-12-01 — Keir Starmer is in denial — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2025-11-29 — Labour U-turn again, this time on employment rights — speakers: Labour U-turn, Anoosh Chakelian, Oli Dugmore
+- 2025-11-28 — Crap, trash and greed — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-27 — Middle earners targeted by budget — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-26 — Rachel Reeves’ tax-heavy budget — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2025-11-25 — Rachel Reeves must climb out of a massive hole — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2025-11-24 — Jeremy Corbyn: “I’m sorry” for Your Party’s messy launch — speakers: Jeremy Corbyn, MPs Jeremy Corbyn, Zarah Sultana, Anoosh Chakelian, Oli Dugmore
+- 2025-11-22 — How Palantir conquered the world — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-21 — Where are Britain’s communist parties? — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
+- 2025-11-20 — How much does immigration actually matter to the public? — speakers: Shabana Mahmood, Anoosh Chakelian, Oli Dugmore
 - 2025-11-19 — The bond markets could bring down Rachel Reeves — speakers: Rachel Reeves Meet, Rachel Reeves, Anoosh Chakelian, Oli Dugmore
-- 2025-11-18 — Labour has given up on integration — speakers: Shabana Mahmood, Oli Dugmore, Anoosh Chakelian, Rachel Cunliffe
-- 2025-11-17 — Shabana Mahmood's asylum plans split Labour — speakers: Richard Burgeon, Oli Dugmore, Ethan Croft, Anoosh Chakelian
-- 2025-11-16 — Booker winner: Keir Starmer should read 'Flesh' — speakers: David Szalay, Nicholas Harris, Anoosh Chakelian, Oli Dugmore
-- 2025-11-15 — What Wes Streeting should do next — speakers: Wes Streeting, Ailbhe Rea, Luke O'Reilly, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-11-14 — Why is Rachel Reeves U-turning on income tax? — speakers: Oli Dugmore, Will Dunn, Anoosh Chakelian
-- 2025-11-13 — There’s no “fundamental institutional bias” at the BBC | Lewis Goodall interview — speakers: Lewis Goodall, Tim Davie, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-11-12 — Mutiny in the Labour Party — speakers: Wes Streeting, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2025-11-11 — Will world leaders ever fix climate change? — speakers: Oli Dugmore, Rachel Kyte, Christiana Figueres, Ed Miliband, Anoosh Chakelian
-- 2025-11-10 — Crisis at the BBC — speakers: Tim Davie, Ailbhe Rea, Deborah Turness, Oli Dugmore, Hannah Barnes, Anoosh Chakelian
-- 2025-11-08 — Has Labour let down millennials? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-11-07 — Steve Reed's £7bn affordable housing fund | Exclusive interview — speakers: Steve Reed, Oli Dugmore, Anoosh Chakelian
-- 2025-11-06 — What Labour must learn from Zohran Mamdani — speakers: Zohran Mamdani Voters, Zohran Mamdani, Wes Streeting, George Eaton, Anoosh Chakelian, Zack Polanski
-- 2025-11-05 — Britain’s next maternity scandal — speakers: Oli Dugmore, Hannah Barnes, Anoosh Chakelian
-- 2025-11-04 — Huntingdon train attack: knife crime in suburbia — speakers: Anthony Williams, Oli Dugmore, Anoosh Chakelian, Rachel Cunliffe
-- 2025-11-03 — What's Farage's plan for the economy? — speakers: Ethan Croft, Oli Dugmore, Anoosh Chakelian
+- 2025-11-18 — Labour has given up on integration — speakers: Shabana Mahmood, Anoosh Chakelian, Oli Dugmore
+- 2025-11-17 — Shabana Mahmood's asylum plans split Labour — speakers: Shabana Mahmood, Labour Shabana Mahmood, Anoosh Chakelian, Oli Dugmore
+- 2025-11-16 — Booker winner: Keir Starmer should read 'Flesh' — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-15 — What Wes Streeting should do next — speakers: Wes Streeting, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2025-11-14 — Why is Rachel Reeves U-turning on income tax? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-13 — There’s no “fundamental institutional bias” at the BBC | Lewis Goodall interview — speakers: Lewis Goodall, Tim Davi, Anoosh Chakelian, Oli Dugmore
+- 2025-11-12 — Mutiny in the Labour Party — speakers: Labour Party Labour, Anoosh Chakelian, Oli Dugmore
+- 2025-11-11 — Will world leaders ever fix climate change? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-10 — Crisis at the BBC — speakers: Tim Davie, Anoosh Chakelian, Oli Dugmore
+- 2025-11-08 — Has Labour let down millennials? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-07 — Steve Reed's £7bn affordable housing fund | Exclusive interview — speakers: Steve Reed, Anoosh Chakelian, Oli Dugmore
+- 2025-11-06 — What Labour must learn from Zohran Mamdani — speakers: Zohran Mamdani Voters, Anoosh Chakelian, Oli Dugmore
+- 2025-11-05 — Britain’s next maternity scandal — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-04 — Huntingdon train attack: knife crime in suburbia — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-11-03 — What's Farage's plan for the economy? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-11-01 — Do we have too many leftist parties? — speakers: Katie Lam, Priti Patel, Anoosh Chakelian, Oli Dugmore
-- 2025-10-31 — David Lammy's plan to stop Farage | Exclusive interview — speakers: David Lammy, Oli Dugmore, Anoosh Chakelian
-- 2025-10-30 — England's most deprived areas revealed — speakers: Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2025-10-29 — Abolish the rotten monarchy — speakers: Will Lloyd, Oli Dugmore, Anoosh Chakelian
-- 2025-10-28 — Can Labour afford to raise taxes? — speakers: Rachel Reeves, Anoosh Chakelian, Steve Akehurst, Will Dunn, Oli Dugmore
-- 2025-10-27 — Should Labour sack Starmer to beat Reform? — speakers: Lucy Powell, Harry Clarke-Eziddio, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2025-10-31 — David Lammy's plan to stop Farage | Exclusive interview — speakers: David Lammy, Anoosh Chakelian, Oli Dugmore
+- 2025-10-30 — England's most deprived areas revealed — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-10-29 — Abolish the rotten monarchy — speakers: Prince Andrew, Anoosh Chakelian, Oli Dugmore
+- 2025-10-28 — Can Labour afford to raise taxes? — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2025-10-27 — Should Labour sack Starmer to beat Reform? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-10-25 — Two decades later, Booker Prize winner Kiran Desai returns — speakers: Kiran Desai, Anoosh Chakelian, Oli Dugmore
-- 2025-10-24 — The death of Welsh Labour — speakers: Harry Clarke-Ezzidio, Llyr Powell, Dan Evans, Anoosh Chakelian, Oli Dugmore
-- 2025-10-24 — Labour loses Caerphilly for first time in over 100 years — speakers: Lindsay Whittle, Harry Clarke-Ezzidio, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2025-10-23 — Andrew Marr: Keir Starmer is failing Britain — speakers: Andrew Marr, Tom McTague, Zack Polanski, Anoosh Chakelian, Oli Dugmore
-- 2025-10-22 — Why the Trump-Putin summit fell apart — speakers: Vladimir Putin, Katie Stallard, Anoosh Chakelian, Oli Dugmore
+- 2025-10-24 — The death of Welsh Labour — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-10-24 — Labour loses Caerphilly for first time in over 100 years — speakers: Lindsay Whittle, Anoosh Chakelian, Oli Dugmore
+- 2025-10-23 — Andrew Marr: Keir Starmer is failing Britain — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2025-10-22 — Why the Trump-Putin summit fell apart — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-10-21 — Your Party and the UK's left crisis — speakers: James Schneider, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2025-10-20 — Andrew, duke no more — speakers: Will Lloyd, Rachel Cunliffe, Virginia Roberts Guiffre, Anoosh Chakelian, Oli Dugmore
+- 2025-10-20 — Andrew, duke no more — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-10-18 — 100 years of Thatcher, with Charles Moore — speakers: Charles Moore, Anoosh Chakelian, Oli Dugmore
-- 2025-10-17 — Is liberalism dead? with John Gray — speakers: John Gray, Friedrich Nietzsche, Will Lloyd, Anoosh Chakelian, Oli Dugmore
+- 2025-10-17 — Is liberalism dead? with John Gray — speakers: John Gray, Artificial Intelli, Anoosh Chakelian, Oli Dugmore
 - 2025-10-16 — Unlock the triple lock — speakers: Andrew Marr, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
 - 2025-10-15 — Emperor Trump and his British courtiers — speakers: Anoosh Chakelian, Oli Dugmore
-- 2025-10-14 — The UK needs a China reset — speakers: Jonathan Powell, Oli Dugmore, George Eaton, Katie Stallard, Anoosh Chakelian
-- 2025-10-13 — Trump wins peace in the Middle East — speakers: Oli Dugmore, Katie Stallard, Ethan Croft, Rachel Cunliffe, Anoosh Chakelian
-- 2025-10-11 — Is Labour just mild-mannered Faragism? — speakers: Oli Dugmore, Rachel Cunliffe, Anoosh Chakelian
-- 2025-10-10 — On the ground in the new Calais Jungle — speakers: Calais Jungle, Oli Dugmore, Miles Ellingham, Jack Jeffrey, Anoosh Chakelian
+- 2025-10-14 — The UK needs a China reset — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-10-13 — Trump wins peace in the Middle East — speakers: Middle East All, Anoosh Chakelian, Oli Dugmore
+- 2025-10-11 — Is Labour just mild-mannered Faragism? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-10-10 — On the ground in the new Calais Jungle — speakers: Calais Jungle, Anoosh Chakelian, Oli Dugmore
 - 2025-10-09 — Labour's deja vu problem — speakers: Andrew Marr, Tom McTague, Anoosh Chakelian, Oli Dugmore
-- 2025-10-08 — Tory conference through the eyes of the NS ... and GB News — speakers: Rachel Cunliffe, Ethan Croft, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-10-07 — Abolish landlords? — speakers: Oli Dugmore, Luke O'Reilly, Megan Kenyon, Anoosh Chakelian
-- 2025-10-06 — October 7th changed the West forever — speakers: Yom Kippur, Tanjil Rashid, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2025-10-08 — Tory conference through the eyes of the NS ... and GB News — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-10-07 — Abolish landlords? — speakers: Green Party Britain, Anoosh Chakelian, Oli Dugmore
+- 2025-10-06 — October 7th changed the West forever — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-10-04 — Are we talking about Reform too much? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-10-03 — Dispatch from the Manchester synagogue attack — speakers: Jihad Al-Shamie, Oli Dugmore, Ethan Croft, Anoosh Chakelian
-- 2025-10-02 — Is a Starmer comeback on the cards? — speakers: Tom McTague, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2025-10-01 — Is anyone taking Trump's peace plans seriously? — speakers: Will Lloyd, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2025-09-30 — Keir Starmer loves Britain the most — speakers: Rachel Cunliffe, Megan Kenyon, Ethan Croft, Anoosh Chakelian, Oli Dugmore
-- 2025-09-29 — The spectre of Farage looms over Labour conference — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
-- 2025-09-28 — Starmer has a lot to prove at Labour conference — speakers: Andy Burnham, George Eaton, Ethan Croft, Anoosh Chakelian, Oli Dugmore
-- 2025-09-27 — Who does the Tony Blair Institute really work for? — speakers: Larry Ellison, Will Lloyd, Peter Geoghegan, May Bulman, Anoosh Chakelian, Oli Dugmore
-- 2025-09-26 — Liz Truss is still, in some sense, running the country — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-09-25 — Andy Burnham has a plan for Britain — speakers: Andy Burnham, Tom McTague, Will Lloyd, Anoosh Chakelian, Oli Dugmore
-- 2025-09-24 — Ed Davey attacks Trump, Trump attacks world — speakers: Ed Davey, Lib Dem, Anoosh Chakelian, Rachel Cunliffe, George Eaton, Oli Dugmore
-- 2025-09-23 — Britain recognises Palestinian statehood — speakers: Benjamin Netanyahu, Hannah Barnes, Megan Kenyon, Anoosh Chakelian, Oli Dugmore
-- 2025-09-22 — Reform's deportations & Your Party's implosion — speakers: Zarah Sultana, Jeremy Corbyn, Hannah Barnes, Megan Kenyon, Ethan Croft, Anoosh Chakelian, Oli Dugmore
-- 2025-09-20 — Has history overlooked the enslaved who fought for freedom? | Sudhir Hazareesingh interview — speakers: Sudhir Hazareesingh, Tanjil Rashid, Anoosh Chakelian, Oli Dugmore
-- 2025-09-19 — The US has bought Britain — speakers: Andrew Marr, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-09-18 — Your Party meltdown — speakers: Andrew Marr, Will Dunn, Rachel Cunliffe, Megan Kenyon, Ethan Croft, Anoosh Chakelian
-- 2025-09-17 — Can Zohran Mamdani save the American left? — speakers: Zohran Mamdani, Megan Gibson, Ross Barkan, Anoosh Chakelian, Oli Dugmore
-- 2025-09-16 — Trump, Starmer and Mandelson don't walk into a banquet — speakers: Rachel Cunliffe, Will Lloyd, Peter Mandelson, Anoosh Chakelian, Oli Dugmore
-- 2025-09-15 — Tommy Robinson's protests & Danny Kruger's defection — speakers: Tommy Robinson, Danny Kruger, St George, Katie Hopkins, Rachel Cunliffe, Will Lloyd, George Monaghan
-- 2025-09-14 — Are politicians LARPing? | Listener questions — speakers: Rachel Cunliffe, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2025-09-13 — Where does JK Rowling get the time to obsess about me? | Nicola Sturgeon interview — speakers: Anoosh Chakelian, Alex Salmond, JK Rowling, Oli Dugmore
-- 2025-09-12 — Political violence becomes mainstream in the US — speakers: Charlie Kirk, Charlie Kirk Trump, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2025-09-11 — Starmer's mess — speakers: Angela Rayner, Peter Mandelson, Andrew Marr, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2025-09-10 — Mandelson and the friends he keeps — speakers: Peter Mandelson, Will Lloyd, Anoosh Chakelian, Oli Dugmore
-- 2025-09-09 — In Britain's broken housing market, does the Renters' Rights Bill go far enough? — speakers: Will Dunn, Tom Darling, Anoosh Chakelian, Oli Dugmore
+- 2025-10-03 — Dispatch from the Manchester synagogue attack — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-10-02 — Is a Starmer comeback on the cards? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-10-01 — Is anyone taking Trump's peace plans seriously? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-30 — Keir Starmer loves Britain the most — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-29 — The spectre of Farage looms over Labour conference — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-28 — Starmer has a lot to prove at Labour conference — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-27 — Who does the Tony Blair Institute really work for? — speakers: Larry Ellison, Anoosh Chakelian, Oli Dugmore
+- 2025-09-26 — Liz Truss is still, in some sense, running the country — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-25 — Andy Burnham has a plan for Britain — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
+- 2025-09-24 — Ed Davey attacks Trump, Trump attacks world — speakers: Ed Davey, Anoosh Chakelian, Oli Dugmore
+- 2025-09-23 — Britain recognises Palestinian statehood — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-22 — Reform's deportations & Your Party's implosion — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-20 — Has history overlooked the enslaved who fought for freedom? | Sudhir Hazareesingh interview — speakers: Sudhir Hazareesingh, Anoosh Chakelian, Oli Dugmore
+- 2025-09-19 — The US has bought Britain — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-18 — Your Party meltdown — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-17 — Can Zohran Mamdani save the American left? — speakers: Zohran Mamdani, Anoosh Chakelian, Oli Dugmore
+- 2025-09-16 — Trump, Starmer and Mandelson don't walk into a banquet — speakers: Rachel Cunliffe, Will Llo, Anoosh Chakelian, Oli Dugmore
+- 2025-09-15 — Tommy Robinson's protests & Danny Kruger's defection — speakers: Tommy Robinson, Danny Kruger, Anoosh Chakelian, Oli Dugmore
+- 2025-09-14 — Are politicians LARPing? | Listener questions — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-13 — Where does JK Rowling get the time to obsess about me? | Nicola Sturgeon interview — speakers: Nicola Sturgeon, First Minister, Anoosh Chakelian, Oli Dugmore
+- 2025-09-12 — Political violence becomes mainstream in the US — speakers: Charlie Kirk, Anoosh Chakelian, Oli Dugmore
+- 2025-09-11 — Starmer's mess — speakers: Angela Rayner, Peter Mandelson, Anoosh Chakelian, Oli Dugmore
+- 2025-09-10 — Mandelson and the friends he keeps — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-09-09 — In Britain's broken housing market, does the Renters' Rights Bill go far enough? — speakers: Rights Bill, Anoosh Chakelian, Oli Dugmore
 - 2025-09-08 — Reform conference: "Farage has accepted the inevitability of being PM" — speakers: Anoosh Chakelian, Oli Dugmore
-- 2025-09-06 — What will Zack Polanski do first with the Green Party? | Listener questions — speakers: Zack Polanski, Tom McTague, Andrew Marr, Rachel Cunliffe, Megan Kenyon, Jeremy Corbyn, Lib Dems, Anoosh Chakelian
+- 2025-09-06 — What will Zack Polanski do first with the Green Party? | Listener questions — speakers: Zack Polanski, Tom McTague, Anoosh Chakelian, Oli Dugmore
 - 2025-09-06 — The long and winding road to Brexit | Tom McTague interview — speakers: Tom McTague, Anoosh Chakelian, Oli Dugmore
-- 2025-09-05 — Rayner out, Labour moves right | Politics with Rachel Cunliffe — speakers: Rachel Cunliffe, Angela Rayner, Andrew Marr, Tom McTague, Megan Kenyon, Anoosh Chakelian, Oli Dugmore
-- 2025-09-04 — Should Angela Rayner resign? | Politics with Tom McTague — speakers: Angela Rayner, Tom McTague, Andrew Marr, Graham Linehan, Rachel Cunliffe, Megan Kenyon, George Monaghan
+- 2025-09-05 — Rayner out, Labour moves right | Politics with Rachel Cunliffe — speakers: Rachel Cunliffe, Angela Rayner, Anoosh Chakelian, Oli Dugmore
+- 2025-09-04 — Should Angela Rayner resign? | Politics with Tom McTague — speakers: Angela Rayner, Tom McTague, Andrew Marr, Graham Linehan, Anoosh Chakelian, Oli Dugmore
 - 2025-09-03 — The age of deportation | Cover story with Tanjil Rashid — speakers: Tanjil Rashid, Anoosh Chakelian, Oli Dugmore
-- 2025-09-02 — Britain’s booming export: stolen goods | Tom Sasse interview — speakers: Tom Sasse, Will Dunn, Will Dunn Guest, Anoosh Chakelian, Oli Dugmore
-- 2025-09-01 — Keir Starmer's reshuffle reveals his priorities | Politics — speakers: Rachel Cunliffe, Megan Kenyon, Anoosh Chakelian, Megan Kenyon Guest, Oli Dugmore
-- 2025-08-30 — Author Nicola Barker: "we are all weirdos" | Culture with Tanjil Rashid — speakers: Tony Interrupter, Anoosh Chakelian, Oli Dugmore
-- 2025-08-29 — Has the English flag been co-opted by the far-right? | Politics with Anoosh Chakelian — speakers: Harry Clarke-Ezzidio, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2025-08-28 — "The UK government is complicit in genocide" | Humza Yousaf interview — speakers: Anoosh Chakelian, Oli Dugmore
-- 2025-08-27 — Inside the making of the Employment Rights Bill | Politics with Anoosh Chakelian — speakers: Mike Clancy, Anoosh Chakelian, Oli Dugmore
-- 2025-08-26 — What the Treasury reshuffle reveals about the budget | Politics with Will Dunn — speakers: Will Dunn Ahead, Will Dunn, George Eaton, Torsten Bell, Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2025-09-02 — Britain’s booming export: stolen goods | Tom Sasse interview — speakers: Tom Sasse, Anoosh Chakelian, Oli Dugmore
+- 2025-09-01 — Keir Starmer's reshuffle reveals his priorities | Politics — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-08-30 — Author Nicola Barker: "we are all weirdos" | Culture with Tanjil Rashid — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-08-29 — Has the English flag been co-opted by the far-right? | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-08-28 — "The UK government is complicit in genocide" | Humza Yousaf interview — speakers: Humza Yousaf, Anoosh Chakelian, Oli Dugmore
+- 2025-08-27 — Inside the making of the Employment Rights Bill | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian Last October, Anoosh Chakelian, Oli Dugmore
+- 2025-08-26 — What the Treasury reshuffle reveals about the budget | Politics with Will Dunn — speakers: Will Dunn Ahead, Anoosh Chakelian, Oli Dugmore
 - 2025-08-23 — The Manosphere: Red pills, incels and a misogyny epidemic | James Bloodworth interview — speakers: James Bloodworth, Anoosh Chakelian, Oli Dugmore
-- 2025-08-22 — Can the UK solve the plummeting birthrate dilemma? | Politics with Anoosh Chakelian — speakers: Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2025-08-21 — Andy Burnham: the next Prime Minister? | Politics with Anoosh Chakelian — speakers: Andy Burnham, George Eaton, Angela Rayner, Wes Streeting, George joins Anoosh Chakelian, Rachel Cunliffe
-- 2025-08-20 — Why are people talking about an English civil war? | Politics with Anoosh Chakelian — speakers: Phil Tinline, Phil Tinline Producer, Rob Le, Chris Stone, Anoosh Chakelian, Oli Dugmore
-- 2025-08-19 — Trump meets Zelenskyy: hope for peace in Ukraine? | Geopolitics with Katie Stallard — speakers: Katie Stallard, Volodymyr Zelensky, Vladimir Putin, Megan Gibson, Megan Gibson Guest, Katie Stallard Producer, Rob Le Mare Executive
-- 2025-08-18 — Palestine Action arrests "will bring the law into disrepute" | Jonathan Dimbleby interview — speakers: Jonathan Dimbleby, Don McCullin, Jonathan Dimbleby Producer, Rob Le Mare Executive, Chris Stone, Anoosh Chakelian, Oli Dugmore
-- 2025-08-16 — The New Statesman’s ultimate beach reads — speakers: Will Lloyd, Tanjil Rashid, Finn McRedmond, Will Lloyd Guests, Rob Le Mare Executive, Chris Stone, Anoosh Chakelian, Oli Dugmore
-- 2025-08-15 — The government must address the graduate job crisis | Politics with Anoosh Chakelian — speakers: Will Starmer, George Eaton, Will Lloyd, George Eaton Guest, Will Lloyd Producer, Rob Le Mare Executive, Chris Stone, Anoosh Chakelian
-- 2025-08-14 — UK economy "fastest growing in the G7 this year" | Politics with Anoosh Chakelian — speakers: JD Vance, Robert Jenrick, Thomas Skinner, George Eaton, Will Lloyd, JD Vance Finn McRedmond, Anoosh Chakelian
+- 2025-08-22 — Can the UK solve the plummeting birthrate dilemma? | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-08-21 — Andy Burnham: the next Prime Minister? | Politics with Anoosh Chakelian — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
+- 2025-08-20 — Why are people talking about an English civil war? | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-08-19 — Trump meets Zelenskyy: hope for peace in Ukraine? | Geopolitics with Katie Stallard — speakers: Katie Stallard, Volodymyr Zelensky, Anoosh Chakelian, Oli Dugmore
+- 2025-08-18 — Palestine Action arrests "will bring the law into disrepute" | Jonathan Dimbleby interview — speakers: Jonathan Dimbleby, Don McCullin, Anoosh Chakelian, Oli Dugmore
+- 2025-08-16 — The New Statesman’s ultimate beach reads — speakers: Will Lloyd, Anoosh Chakelian, Oli Dugmore
+- 2025-08-15 — The government must address the graduate job crisis | Politics with Anoosh Chakelian — speakers: Will Starmer, Anoosh Chakelian, Oli Dugmore
+- 2025-08-14 — UK economy "fastest growing in the G7 this year" | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-08-13 — Branding pensioners terrorists: "ridiculous... and deeply disturbing" | Sir Jonathon Porritt, arrested at Palestine Action Protest — speakers: Jonathon Porritt, Anoosh Chakelian, Oli Dugmore
-- 2025-08-12 — What happens in Alaska won't stay in Alaska | Geopolitics with Katie Stallard — speakers: Katie Stallard, Vladimir Putin, Trump Download, Anoosh Chakelian, Oli Dugmore
-- 2025-08-11 — Labour students revolt over Gaza | Politics with Anoosh Chakelian — speakers: Hattie Simpson, Anoosh Chakelian, Oli Dugmore
-- 2025-08-09 — WASP movie | Whit Stillman interview — speakers: Whit Stillman, Jane Austen, Tanjil Rashid, Anoosh Chakelian, Oli Dugmore
-- 2025-08-08 — Are the Tories more back-stabbing than Labour? | Politics with Anoosh Chakelian — speakers: Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2025-08-07 — Starmer is now less popular than Trump | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Ben Walker, Oli Dugmore
-- 2025-08-06 — Eurostarmer | Politics with George Eaton — speakers: George Eaton, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-08-05 — Divided and dormant Democrats | US politics with Anoosh Chakelian — speakers: Freddie Hayward, Anoosh Chakelian, Oli Dugmore
+- 2025-08-12 — What happens in Alaska won't stay in Alaska | Geopolitics with Katie Stallard — speakers: Katie Stallard, Anoosh Chakelian, Oli Dugmore
+- 2025-08-11 — Labour students revolt over Gaza | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-08-09 — WASP movie | Whit Stillman interview — speakers: Whit Stillman, Anoosh Chakelian, Oli Dugmore
+- 2025-08-08 — Are the Tories more back-stabbing than Labour? | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-08-07 — Starmer is now less popular than Trump | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-08-06 — Eurostarmer | Politics with George Eaton — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2025-08-05 — Divided and dormant Democrats | US politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-08-04 — Nigel Farage won't take a day off | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
-- 2025-08-02 — Who really owns Britain's houses? | Susan J. Smith interview — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
+- 2025-08-02 — Who really owns Britain's houses? | Susan J. Smith interview — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-08-01 — Do politicians understand the internet? | Politics with Rachel Cunliffe — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-07-31 — Britain's summer of discontent | Cover Story with Anoosh Chakelian — speakers: Cover Story, Rachel Cunliffe, Anoosh Chakelian, George Eaton, Oli Dugmore
-- 2025-07-30 — Starmer's threat to recognise Palestine | Politics with Megan Gibson — speakers: Megan Gibson, George Eaton, Megan Kenyon, Anoosh Chakelian, Oli Dugmore
-- 2025-07-29 — Why can't Trump shake Epstein? | US politics with Katie Stallard and Freddie Hayward — speakers: Katie Stallard, Jefrey Epstein, Jeffrey Epstein, Anoosh Chakelian, Oli Dugmore
-- 2025-07-28 — All hail Emperor Trump | Politics with Tom McTague — speakers: Tom McTague, Ursula von der, Megan Gibson, Anoosh Chakelian, Oli Dugmore
-- 2025-07-26 — Tax Netflix now! | Peter Kosminsky interview — speakers: Tax Netflix, Peter Kosminsky, Wolf Hall, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2025-07-25 — If you care about Gaza, why vote Labour? - Listener questions episode — speakers: Jeremy Corbyn, Zarah Sultana, Tom McTague, Megan Kenyon, George Eaton, Will Dunn, Anoosh Chakelian
-- 2025-07-24 — The fraying of the social fabric | Politics with Rachel Cunliffe — speakers: Rachel Cunliffe, Angela Rayner, Can Rachel Reeves, Andrew Marr, George Eaton, Rachel Reeves, Anoosh Chakelian, Oli Dugmore
-- 2025-07-23 — Kemi Badenoch isn't working | Cover Story with Tom McTague — speakers: Cover Story, Tom McTague, Will Lloyd, Steve Akehurst, Anoosh Chakelian, Oli Dugmore
-- 2025-07-22 — The Trump, Epstein and MAGA saga — speakers: Jeffrey Epstein, JD Vance, Katie Stallard, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2025-07-21 — Now, re-nationalise water | Politics with Anoosh Chakelian — speakers: Megan Kenyon, Anoosh Chakelian, George Eaton, Tim Allan, Oli Dugmore
-- 2025-07-20 — What does "Blue Labour" really mean? - Morgan Jones interview — speakers: Anoosh Chakelian, Rachel Cunliffe, Oli Dugmore
-- 2025-07-18 — Is AI coming for our jobs? - Listener questions episode — speakers: Jeremy Corbyn, Rachel Cunliffe, Will Dunn, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2025-07-17 — Is Keir Starmer "bold and brave" to suspend rebels? — speakers: Rachel Cunliffe, Andrew Marr, George Eaton, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-07-16 — Israel is committing war crimes - former Supreme Court judge Jonathan Sumption exclusive interview — speakers: Jonathan Sumption, Tom McTague, Jake Richards, Anoosh Chakelian, Oli Dugmore
-- 2025-07-15 — Is English literature dying - and does it matter? — speakers: Will Lloyd, Tanjil Rashid, James Marriott, Anoosh Chakelian, Oli Dugmore
-- 2025-07-14 — 🚨 How to defeat Reform - *Exclusive* with political polling analyst Steve Akehurst — speakers: Steve Akehurst, Anoosh Chakelian, Rachel Cunliffe, Lib Dems, Oli Dugmore
-- 2025-07-13 — Exclusive Green Party leadership debate — speakers: Zack Polanski, Adrian Ramsey, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2025-07-12 — How can the UK take the lead in the skills revolution? | Sponsored — speakers: Host Zoë Grünewald, Sharon Hague, David Bell, Anoosh Chakelian, Oli Dugmore
-- 2025-07-11 — How is Sultana's new party ever going to work? - Listeners questions episode — speakers: Zarah Sultana, Rachel Cunliffe, Megan Kenyon, Anoosh Chakelian, Oli Dugmore
-- 2025-07-10 — Large parts of the State a 'complete car crash' — speakers: George Eaton, Rachel Cunliffe, Will Dunn, Rachel Cunliffe Sign, Anoosh Chakelian, Oli Dugmore
-- 2025-07-09 — Robert Jenrick: Genuine PM potential or just foreshadowing Farage? — speakers: Robert Jenrick, Harry Lambert, Will Lloyd, Harry Lambert Sign, Anoosh Chakelian, Oli Dugmore
-- 2025-07-08 — Are Oasis in fact the greatest Irish band ever? — speakers: Finn McRedmond, George Eaton, Nick Harris, Faye Curran, Anoosh Chakelian, Oli Dugmore
-- 2025-07-07 — SEND: Labour's next backbench battle — speakers: Hannah Barnes, Will Dunn, Pippa Bailey, Aaron Bastani, Anoosh Chakelian, Oli Dugmore
+- 2025-07-31 — Britain's summer of discontent | Cover Story with Anoosh Chakelian — speakers: Cover Story, Anoosh Chakelian, Oli Dugmore
+- 2025-07-30 — Starmer's threat to recognise Palestine | Politics with Megan Gibson — speakers: Megan Gibson, Anoosh Chakelian, Oli Dugmore
+- 2025-07-29 — Why can't Trump shake Epstein? | US politics with Katie Stallard and Freddie Hayward — speakers: Katie Stallard, Anoosh Chakelian, Oli Dugmore
+- 2025-07-28 — All hail Emperor Trump | Politics with Tom McTague — speakers: Tom McTague, Anoosh Chakelian, Oli Dugmore
+- 2025-07-26 — Tax Netflix now! | Peter Kosminsky interview — speakers: Tax Netflix, Peter Kosminsky, Anoosh Chakelian, Oli Dugmore
+- 2025-07-25 — If you care about Gaza, why vote Labour? - Listener questions episode — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-24 — The fraying of the social fabric | Politics with Rachel Cunliffe — speakers: Rachel Cunliffe, Angela Rayner, Anoosh Chakelian, Oli Dugmore
+- 2025-07-23 — Kemi Badenoch isn't working | Cover Story with Tom McTague — speakers: Cover Story, Tom McTague, Anoosh Chakelian, Oli Dugmore
+- 2025-07-22 — The Trump, Epstein and MAGA saga — speakers: Jeffrey Epstein, Anoosh Chakelian, Oli Dugmore
+- 2025-07-21 — Now, re-nationalise water | Politics with Anoosh Chakelian — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-20 — What does "Blue Labour" really mean? - Morgan Jones interview — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-18 — Is AI coming for our jobs? - Listener questions episode — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-17 — Is Keir Starmer "bold and brave" to suspend rebels? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-16 — Israel is committing war crimes - former Supreme Court judge Jonathan Sumption exclusive interview — speakers: Jonathan Sumption, Anoosh Chakelian, Oli Dugmore
+- 2025-07-15 — Is English literature dying - and does it matter? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-14 — 🚨 How to defeat Reform - *Exclusive* with political polling analyst Steve Akehurst — speakers: Steve Akehurst, Anoosh Chakelian, Oli Dugmore
+- 2025-07-13 — Exclusive Green Party leadership debate — speakers: Zack Polanski, Anoosh Chakelian, Oli Dugmore
+- 2025-07-12 — How can the UK take the lead in the skills revolution? | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-11 — How is Sultana's new party ever going to work? - Listeners questions episode — speakers: Zarah Sultana, Anoosh Chakelian, Oli Dugmore
+- 2025-07-10 — Large parts of the State a 'complete car crash' — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-09 — Robert Jenrick: Genuine PM potential or just foreshadowing Farage? — speakers: Harry Lambert, Anoosh Chakelian, Oli Dugmore
+- 2025-07-08 — Are Oasis in fact the greatest Irish band ever? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-07 — SEND: Labour's next backbench battle — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-07-06 — Jake Richards MP on the welfare bill and ECHR reform — speakers: Jake Richards, Anoosh Chakelian, Oli Dugmore
-- 2025-07-04 — Was exorcising "the ghost of Jeremy Corbyn" a fatal mistake for Labour? - Listeners questions episode — speakers: Jeremy Corbyn, Tom McTague, Rachel Cunliffe, Zarah Sultana, Anoosh Chakelian, Oli Dugmore
-- 2025-07-03 — One year of Labour rule: Can things still only get better? — speakers: Andrew Marr, Tom McTague, Rachel Cunliffe, Farage Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2025-07-02 — JUST RAISE TAX — speakers: Anoosh Chakelian, Tom McTague, Will Dunn, Megan Kenyon, Oli Dugmore
-- 2025-07-01 — Glastonbury's political hangover rages on — speakers: Kate Mossman, Finn McRedmond, Will Lloyd, Nick Harris, Sarah Vine, Bob Vylan, Anoosh Chakelian, Oli Dugmore
-- 2025-06-30 — Daily Politics from the New Statesman - Trailer — speakers: Oli Dugmore, Anoosh Chakelian
-- 2025-06-30 — Welfare warfare just the start of Starmer's problems — speakers: Rachel Cunliffe, Tom McTague, Will Dunn, Rachel Reeves, Anoosh Chakelian, Oli Dugmore
-- 2025-06-29 — Iain Dale on debunking the myths around Margaret Thatcher — speakers: Margaret Thatcher, Iain Dale, Rachel Cunliffe, Rachel Reeves, Anoosh Chakelian, Oli Dugmore
-- 2025-06-28 — Addressing the dementia diagnosis waiting game | Sponsored — speakers: Sarah Dawood, Samantha Benham-Hermetz, Chris Bane, Vanessa Raymont, Anoosh Chakelian, Oli Dugmore
-- 2025-06-27 — "Why won't Keir Starmer stand up to Israel?" - Listener questions episode — speakers: Anoosh Chakelian, Tom McTague, Rachel Cunliffe, Oli Dugmore
-- 2025-06-26 — “Sack Rachel Reeves” demand Labour MPs over welfare reforms — speakers: Anoosh Chakelian, Andrew Marr, George Eaton, Andrew Marr Labour, Oli Dugmore
-- 2025-06-25 — Welcome to the new nuclear age — speakers: Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2025-06-24 — Trump's Ceasefire: From bunker bombs to F bombs — speakers: Megan Gibson, David Blagden Sign, Anoosh Chakelian, Oli Dugmore
-- 2025-06-23 — Iran War: "Our economy will be smashed" — speakers: David Lammy, Rachel Cunliffe, Freddie Hayward, George Eaton, Tom McTague, Will Dunn, Ben Walker Sign
-- 2025-06-22 — Emergency podcast: Trump bombs Iran — speakers: Lee Siegel, Will Starmer, Lee Siegel Sign, Anoosh Chakelian, Oli Dugmore
-- 2025-06-20 — Can Labour win the next election? — speakers: George Eaton, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2025-07-04 — Was exorcising "the ghost of Jeremy Corbyn" a fatal mistake for Labour? - Listeners questions episode — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2025-07-03 — One year of Labour rule: Can things still only get better? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-02 — JUST RAISE TAX — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-07-01 — Glastonbury's political hangover rages on — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-06-30 — Daily Politics from the New Statesman - Trailer — speakers: Daily Politics, New Statesman, Anoosh Chakelian, Oli Dugmore
+- 2025-06-30 — Welfare warfare just the start of Starmer's problems — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-06-29 — Iain Dale on debunking the myths around Margaret Thatcher — speakers: Margaret Thatcher, Anoosh Chakelian, Oli Dugmore
+- 2025-06-28 — Addressing the dementia diagnosis waiting game | Sponsored — speakers: Sponsored Too, Anoosh Chakelian, Oli Dugmore
+- 2025-06-27 — "Why won't Keir Starmer stand up to Israel?" - Listener questions episode — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-06-26 — “Sack Rachel Reeves” demand Labour MPs over welfare reforms — speakers: Anoosh Chakelian, Andrew Marr, George Eaton, Oli Dugmore
+- 2025-06-25 — Welcome to the new nuclear age — speakers: Ankit Panda, Anoosh Chakelian, Oli Dugmore
+- 2025-06-24 — Trump's Ceasefire: From bunker bombs to F bombs — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-06-23 — Iran War: "Our economy will be smashed" — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-06-22 — Emergency podcast: Trump bombs Iran — speakers: Lee Siegel, Will Starmer, Anoosh Chakelian, Oli Dugmore
+- 2025-06-20 — Can Labour win the next election? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-06-19 — Will Starmer back Trump on Iran? — speakers: Will Starmer, George Eaton, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-06-17 — Israel vs. Iran: what next? | Professor of War Studies, Lawrence Freedman, on the Isreal-Iran conflict. — speakers: Lawrence Freedman, Tom McTague, Read Netanyahu, Megan Gibson Free, Anoosh Chakelian, Oli Dugmore
-- 2025-06-13 — Spending review: NHS wins - but tax rises are coming — speakers: Andrew Marr, Rachel Cunliffe, Rachel Reeves, Tom McTague, Anoosh Chakelian, Oli Dugmore
-- 2025-06-12 — What Keir Starmer can't say - New Statesman editor Tom McTague on his new profile of the Prime Minister — speakers: Tom McTague, Will Lloyd, Anoosh Chakelian, Oli Dugmore
+- 2025-06-17 — Israel vs. Iran: what next? | Professor of War Studies, Lawrence Freedman, on the Isreal-Iran conflict. — speakers: Lawrence Freedman, Anoosh Chakelian, Oli Dugmore
+- 2025-06-13 — Spending review: NHS wins - but tax rises are coming — speakers: Andrew Marr, Rachel Cunliffe, Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2025-06-12 — What Keir Starmer can't say - New Statesman editor Tom McTague on his new profile of the Prime Minister — speakers: Tom McTague, Anoosh Chakelian, Oli Dugmore
 - 2025-06-09 — Jeremy Hunt: Reform's mission is to destroy the Tories — speakers: Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
-- 2025-06-06 — Britain is trapped in a new build nightmare — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-06-05 — Does Andy Burnham want to be prime minister? — speakers: Andy Burnham, Anoosh Chakelian, Rachel Cunliffe, George Eaton, Jeremy Corbyn, Robert Jenrick, Oli Dugmore
-- 2025-06-03 — Why is Trump shilling crypto? — speakers: Katie Stallard, Russ Buettner, Lucky Loser, Anoosh Chakelian, Oli Dugmore
-- 2025-05-30 — Who can fill the left-wing gap? — speakers: George Eaton, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-05-29 — Labour are U-turning it up — speakers: Rachel Reeves, Angela Rayner, George Eaton, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-05-26 — As Gaza faces famine, where does the US stand on Israel? — speakers: Benjamin Netanyahu, Katie Stallard, Raja Khalidi, Rajan Menon, Anoosh Chakelian, Oli Dugmore
+- 2025-06-06 — Britain is trapped in a new build nightmare — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-06-05 — Does Andy Burnham want to be prime minister? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
+- 2025-06-03 — Why is Trump shilling crypto? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-05-30 — Who can fill the left-wing gap? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-05-29 — Labour are U-turning it up — speakers: Rachel Reeves, Angela Rayner, Anoosh Chakelian, Oli Dugmore
+- 2025-05-26 — As Gaza faces famine, where does the US stand on Israel? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-05-23 — Gordon Brown on the “cruel” two-child benefit cap — speakers: Anoosh Chakelian, Oli Dugmore
-- 2025-05-22 — Brentrance — speakers: Andrew Marr, George Eaton, Ben Walker, Anoosh Chakelian, Oli Dugmore
+- 2025-05-22 — Brentrance — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-05-21 — This house believes private schools should be abolished — speakers: Anoosh Chakelian, Oli Dugmore
-- 2025-05-19 — Alice Vincent: rediscovering music after trauma — speakers: Alice Vincent, Kate Mossman, Anoosh Chakelian, Oli Dugmore
-- 2025-05-16 — Should we abolish the Treasury? — speakers: Lib Dems, Andrew Marr, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-05-15 — Starmer moves right on immigration — speakers: Enoch Powell, Hannah Barnes, Andrew Marr, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-05-14 — An American in the Vatican — speakers: Leo Xiv, Pope Francis, Katie Stallard, Madoc Cairns, Finn McRedmond, Anoosh Chakelian, Oli Dugmore
-- 2025-05-12 — Turner at 250: why Britain's most influential artist still matters — speakers: Joseph Mallord William Turner, Tom Gatti, Michael Prodger, Anoosh Chakelian, Oli Dugmore
-- 2025-05-09 — Do the Greens need a more charismatic leader? — speakers: Lib Dems, Rachel Cunliffe, Ben Walker, Megan Kenyon, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2025-05-19 — Alice Vincent: rediscovering music after trauma — speakers: Alice Vincent, Anoosh Chakelian, Oli Dugmore
+- 2025-05-16 — Should we abolish the Treasury? — speakers: Blue Labour, Turquoise Labour, Anoosh Chakelian, Oli Dugmore
+- 2025-05-15 — Starmer moves right on immigration — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-05-14 — An American in the Vatican — speakers: Pope Leo, Anoosh Chakelian, Oli Dugmore
+- 2025-05-12 — Turner at 250: why Britain's most influential artist still matters — speakers: Joseph Mallord William Turner, Anoosh Chakelian, Oli Dugmore
+- 2025-05-09 — Do the Greens need a more charismatic leader? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2025-05-08 — The Labour party is turning in on itself — speakers: Tom McTague, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2025-05-07 — A year undercover on the far right — speakers: Harry Shukman, Anoosh Chakelian, Oli Dugmore
-- 2025-05-05 — 100 years of The Great Gatsby — speakers: Tom Gatti, Sarah Churchwell, Erica Wagner, Scott Fitzgerald, Anoosh Chakelian, Oli Dugmore
-- 2025-05-02 — Reform wins: dire for Labour, existential for Tories — speakers: Hannah Barnes, Ben Walker, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2025-05-01 — Trump finally invests in Ukraine — speakers: Hannah Barnes, Andrew Marr, Megan Gibson, Mark Carney, Anoosh Chakelian, Oli Dugmore
-- 2025-04-30 — Trump's 100 day fight with democracy — speakers: Katie Stallard, Kim Lane Scheppele, Anoosh Chakelian, Oli Dugmore
-- 2025-04-25 — Do billionaires truly benefit the country? — speakers: Hannah Barnes, Andrew Marr, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-04-24 — Ukraine peace talks crumble — speakers: Hannah Barnes, Andrew Marr, Rachel Cunliffe, George Eaton, Steve Reed, Anoosh Chakelian, Oli Dugmore
-- 2025-04-23 — This isn't China's first rodeo (or trade war) — speakers: Katie Stallard, Rana Mitter, Kevin Xu, Anoosh Chakelian, Oli Dugmore
-- 2025-04-18 — Should we have an elected House of Lords? — speakers: Jill Rutter, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-04-17 — America's greatest hoax — speakers: Rachel Cunliffe, Phil Tinline, Anoosh Chakelian, Oli Dugmore
-- 2025-04-16 — Big Pharma: Gaming the system — speakers: Katie Stallard, Phil Whitaker, Nick Dearden, Anoosh Chakelian, Oli Dugmore
-- 2025-04-14 — Can the government’s AI Action Plan drive innovation and growth in the UK? — speakers: Jon Bernstein, Holly Ellis, Anoosh Chakelian, Oli Dugmore
-- 2025-04-11 — Runcorn by-election decisive for British politics — speakers: Rachel Cunliffe, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2025-04-10 — A big bad week for money — speakers: Rachel Cunliffe, Will Dunn, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2025-04-09 — Strongman at The Hague: The fall of Duterte — speakers: Vladimir Putin, Benjamin Netanyahu, Katie Stallard, Basilio Sepe, Kelebogile Zvobgo, Anoosh Chakelian, Oli Dugmore
-- 2025-04-07 — The untold story of Picasso's muses — speakers: Sue Roe, Hidden Portraits, Sue Prideaux, Anoosh Chakelian, Oli Dugmore
-- 2025-04-04 — Russia's next war? — speakers: Andrew Marr, Oliver Moody, Anoosh Chakelian, Oli Dugmore
-- 2025-04-03 — American beef — speakers: Andrew Marr, Duncan Weldon, Anoosh Chakelian, Oli Dugmore
-- 2025-04-02 — The fight for Greenland — speakers: JD Vance, Katie Stallard, Markus Valentin, Anoosh Chakelian, Oli Dugmore
-- 2025-03-31 — The ageing rock gods and me - Kate Mossman on meeting KISS, Bon Jovi, Terence Trent D'arby and more — speakers: Kate Mossman, Jon Bon Jovi, Nick Cave, Roger Taylor, Tom Gatti, Buy Kate'S, Alexis Petridis, Jeff Beck
-- 2025-03-28 — Why aren't we getting a wealth tax? — speakers: Rachel Cunliffe, Andrew Marr, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-03-27 — Unpacking a grim Spring Statement — speakers: Rachel Cunliffe, Andrew Marr, Ben Zaranko, Anoosh Chakelian, Oli Dugmore
-- 2025-03-26 — Are we living through an overdiagnosis epidemic? — speakers: Wes Streeting, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2025-03-24 — Why we can't let go of Never Let Me Go — speakers: Kazuo Ishiguro, David Sexton, Tom Gatti, Samantha Harvey, Anoosh Chakelian, Oli Dugmore
-- 2025-03-21 — Why can't the left be mobilised? — speakers: Hannah Barnes, Andrew Marr, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-03-20 — Is Boris Johnson ... back? — speakers: Liz Kendall, Hannah Barnes, Andrew Marr, Rachel Cunliffe, Diane Abbott, Anoosh Chakelian
-- 2025-03-19 — Nato’s fragile future — speakers: Vladimir Putin, Katie Stallard, David Reynolds, Max Bergmann, Anoosh Chakelian, Oli Dugmore
-- 2025-03-17 — How The Beatles' love story shaped the 20th Century — speakers: Ian Leslie, John Lennon, Paul McCartney, Kate Mossman, John Paul, Deborah Levy, Anoosh Chakelian, Oli Dugmore
-- 2025-03-14 — Panic! at the "Nigel dog-and-pony show" — speakers: Rupert Lowe, Hannah Barnes, Andrew Marr, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2025-03-13 — It's time to debloat the flabby state — speakers: Hannah Barnes, Andrew Marr, Will Dunn, Alison McGovern, Anoosh Chakelian, Oli Dugmore
-- 2025-03-12 — The return of America First — speakers: Volodymyr Zelensky, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2025-03-10 — Lady Gaga and the evolution of the pop icon — speakers: Lady Gaga, Kate Mossman, Tom Gatti, Read Kate, Bruno Mars, Anoosh Chakelian, Oli Dugmore
-- 2025-03-07 — What do Reform voters think of Trump? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2025-03-06 — Welfare cuts spell trouble ahead for Labour — speakers: Rachel Reeves, Hannah Barnes, Andrew Marr, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2025-03-05 — Europe's battleground: war or peace? — speakers: Kate Lamble, Sam Greene, Hans Kundnani, Anoosh Chakelian, Oli Dugmore
-- 2025-03-04 — How to protect elections in the age of AI | Sponsored — speakers: Jon Bernstein, Emea Stefanie Valdés-Scott, Kanishka Narayan, Henry Ajder, Anoosh Chakelian, Oli Dugmore
-- 2025-03-03 — Andrey Kurkov: "Life is now measured in Orwells and Kafkas" — speakers: Andrey Kurkov, Tom Gatti, Anoosh Chakelian, Oli Dugmore
-- 2025-02-28 — Starmer & Trump: a (qualified) victory? — speakers: Andrew Marr, Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2025-02-27 — Andrew Marr: "National service, watch this space" — speakers: Andrew Marr, Hannah Barnes, Will Dunn, Phil Whitaker, Anoosh Chakelian, Oli Dugmore
-- 2025-02-26 — The Godfather of Maga — speakers: Steve Bannon, Kate Lamble, Freddie Hayward, Ian Ward, Anoosh Chakelian, Oli Dugmore
-- 2025-02-21 — Why Britain isn't working - with Alison McGovern, Minister of State for Employment — speakers: Alison McGovern, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2025-02-20 — Russia has been brought in from the cold — speakers: Vladimir Putin, Hannah Barnes, Lawrence Freedman, Rachel Cunliffe, David Gauke, Anoosh Chakelian, Oli Dugmore
-- 2025-02-19 — Did JD Vance boost Germany's far right? — speakers: JD Vance, Kate Lamble, Hans Kundnani, Annette Dittert, Anoosh Chakelian, Oli Dugmore
-- 2025-02-17 — Why fiction matters - Deborah Levy — speakers: Deborah Levy, Tom Gatti, Anoosh Chakelian, Oli Dugmore
-- 2025-02-14 — The rise of the "super-council" - plus, assisted dying interview with Kim Leadbeater — speakers: Kim Leadbeater, Rachel Cunliffe, Megan Kenyon, Hannah Barnes, Ed Davey, Morning Call, Anoosh Chakelian
-- 2025-02-13 — A Labour crash is coming — speakers: Hannah Barnes, David Smith, Anoosh Chakelian, Oli Dugmore
-- 2025-02-12 — Who should decide how our children are taught? — speakers: Schools Bill, Bridget Phillipson, Katharine Birbalsingh, Leora Cruddas, Pippa Bailey, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2025-02-10 — Trump's Florida Project: how the Sunshine State became the centre of power — speakers: Tom Gatti, Gary Mormino, Lily Lynch, Anoosh Chakelian, Oli Dugmore
-- 2025-02-07 — How America runs Britain — speakers: Hannah Barnes, Rachel Cunliffe, Angus Hanton, Vassal State, George Eaton, Anoosh Chakelian
-- 2025-02-06 — Does Morgan McSweeney really run Labour? — speakers: Andrew Marr, Gabriel Pogrund, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
-- 2025-02-05 — "It's guided by six rats": The battle for a life-changing drug — speakers: Kate Lamble, Janet Williams, Hannah Barnes, Dominic Heaney, Anoosh Chakelian, Oli Dugmore
-- 2025-02-03 — How do you solve a problem like Margaret Thatcher? — speakers: Margaret Thatcher, Nigel Lawson, Brian Walden, Rob Burley, Steve Coogan, Harriet Walter, Tom Gatti, Rachel Cooke
-- 2025-01-31 — Returning to Labour is John McDonnell's "greatest wish" — speakers: John McDonnell, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2025-01-30 — Are Labour "clutching at straws" on growth? — speakers: Rachel Reeves, George Eaton, Rachel Cunliffe, Hannah Barnes, com jan, Anoosh Chakelian, Oli Dugmore
-- 2025-01-28 — Beg, borrow or steel — speakers: Queen Anne, Kate Lamble, Megan Kenyon, Sam Alvis, Ben Houchen, Nic Dakin, Tony Gosling, Andrea Jenkyns
-- 2025-01-27 — The Times They Have a-Changed: Where is the protest song now? — speakers: Bob Dylan, James Mangold, Tom Gatti, Kate Mossman, Dorian Lynskey, Anoosh Chakelian, Oli Dugmore
-- 2025-01-24 — What does Trump 2.0 mean for the UK? — speakers: Rachel Cunliffe, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2025-01-23 — How do we fight terror now? - Andrew Marr and Jacob Davey on the Southport killer trial. — speakers: Andrew Marr, Jacob Davey, Axel Rudakubana, Hannah Barnes, Alex Rudakabana, Anoosh Chakelian, Oli Dugmore
-- 2025-01-22 — Will the ceasefire hold? — speakers: Kate Lamble, Sondos Sabra, Bruno Maçães, Anoosh Chakelian, Oli Dugmore
-- 2025-01-20 — Why are we having fewer children? — speakers: Tom Gatti, Madeleine Davis, Anastasia Berg, Morning Call, Anoosh Chakelian, Oli Dugmore
-- 2025-01-17 — Will Labour reconsider the Chagos deal? — speakers: Will Labour, Andrew Marr, Hannah Barnes, Rachel Cunliffe, Morning Call, Anoosh Chakelian
-- 2025-01-16 — Rachel Reeves won't resign (yet) - here's why — speakers: Rachel Reeves, Andrew Marr, Will Dunn, Hannah Barnes, Morning Call, Anoosh Chakelian, Oli Dugmore
-- 2025-01-15 — The ideological contradictions of Trump 2 — speakers: Pete Hegseth, Marco Rubio, Kate Lamble, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2025-01-13 — Could it be magic?: Inside Britain's boyband machine — speakers: Robbie Williams, Tom Gatti, Anna Leskiewicz, Emma Garland, Anoosh Chakelian, Oli Dugmore
-- 2025-01-10 — Could the government raise the top income tax rate? — speakers: Hannah Barnes, Andrew Marr, Rachel Cunliffe, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2025-01-09 — Elon Musk’s “outrageous” meddling in grooming gangs scandal — speakers: Andrew Marr, Hannah Barnes, Rachel Cunliffe, com newstatesman, Anoosh Chakelian
-- 2025-01-08 — The end of America's global dominance — speakers: Kate Lamble, George Magnus, Jonny Ball, Anoosh Chakelian, Oli Dugmore
-- 2025-01-06 — Mackenzie Crook on talking to ghosts and playing skinny weirdos — speakers: Tom Gatti, Nick Drake Came, Anoosh Chakelian, Oli Dugmore
-- 2025-01-01 — The New Statesman - trailer — speakers: Morning Call, Anoosh Chakelian, Oli Dugmore
-- 2024-12-30 — The world in 2025 — speakers: Hannah Barnes, Katie Stallard, Wolfgang Münchau, Anoosh Chakelian, Oli Dugmore
+- 2025-05-07 — A year undercover on the far right — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-05-05 — 100 years of The Great Gatsby — speakers: Tom Gatti, Sarah Churchwell, Erica Wagner, Anoosh Chakelian, Oli Dugmore
+- 2025-05-02 — Reform wins: dire for Labour, existential for Tories — speakers: Tories Yesterday, Anoosh Chakelian, Oli Dugmore
+- 2025-05-01 — Trump finally invests in Ukraine — speakers: Hannah Barnes, Anoosh Chakelian, Oli Dugmore
+- 2025-04-30 — Trump's 100 day fight with democracy — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-25 — Do billionaires truly benefit the country? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-24 — Ukraine peace talks crumble — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-23 — This isn't China's first rodeo (or trade war) — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-18 — Should we have an elected House of Lords? — speakers: Jill Rutter, Anoosh Chakelian, Oli Dugmore
+- 2025-04-17 — America's greatest hoax — speakers: Rachel Cu, Anoosh Chakelian, Oli Dugmore
+- 2025-04-16 — Big Pharma: Gaming the system — speakers: Big Pharma, Anoosh Chakelian, Oli Dugmore
+- 2025-04-14 — Can the government’s AI Action Plan drive innovation and growth in the UK? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-11 — Runcorn by-election decisive for British politics — speakers: council elections, mayoral races, Anoosh Chakelian, Oli Dugmore
+- 2025-04-10 — A big bad week for money — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-09 — Strongman at The Hague: The fall of Duterte — speakers: Duterte Rodrigo Duterte, Anoosh Chakelian, Oli Dugmore
+- 2025-04-07 — The untold story of Picasso's muses — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-04 — Russia's next war? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-03 — American beef — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-04-02 — The fight for Greenland — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-03-31 — The ageing rock gods and me - Kate Mossman on meeting KISS, Bon Jovi, Terence Trent D'arby and more — speakers: Kate Mossman, Anoosh Chakelian, Oli Dugmore
+- 2025-03-28 — Why aren't we getting a wealth tax? — speakers: If Britain, Anoosh Chakelian, Oli Dugmore
+- 2025-03-27 — Unpacking a grim Spring Statement — speakers: Spring Statement Growth, Anoosh Chakelian, Oli Dugmore
+- 2025-03-26 — Are we living through an overdiagnosis epidemic? — speakers: Spring Statement Labour, Anoosh Chakelian, Oli Dugmore
+- 2025-03-24 — Why we can't let go of Never Let Me Go — speakers: Kazuo Ishiguro, Anoosh Chakelian, Oli Dugmore
+- 2025-03-21 — Why can't the left be mobilised? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-03-20 — Is Boris Johnson ... back? — speakers: Liz Kendall, Anoosh Chakelian, Oli Dugmore
+- 2025-03-19 — Nato’s fragile future — speakers: Since Nato, Anoosh Chakelian, Oli Dugmore
+- 2025-03-17 — How The Beatles' love story shaped the 20th Century — speakers: Ian Leslie, Anoosh Chakelian, Oli Dugmore
+- 2025-03-14 — Panic! at the "Nigel dog-and-pony show" — speakers: Rupert Lowe, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
+- 2025-03-13 — It's time to debloat the flabby state — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-03-12 — The return of America First — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-03-10 — Lady Gaga and the evolution of the pop icon — speakers: Lady Gaga, Anoosh Chakelian, Oli Dugmore
+- 2025-03-07 — What do Reform voters think of Trump? — speakers: Could Farage, Anoosh Chakelian, Oli Dugmore
+- 2025-03-06 — Welfare cuts spell trouble ahead for Labour — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-03-05 — Europe's battleground: war or peace? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-03-04 — How to protect elections in the age of AI | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-03-03 — Andrey Kurkov: "Life is now measured in Orwells and Kafkas" — speakers: Andrey Kurkov, Anoosh Chakelian, Oli Dugmore
+- 2025-02-28 — Starmer & Trump: a (qualified) victory? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-02-27 — Andrew Marr: "National service, watch this space" — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2025-02-26 — The Godfather of Maga — speakers: Steve Bannon, Anoosh Chakelian, Oli Dugmore
+- 2025-02-21 — Why Britain isn't working - with Alison McGovern, Minister of State for Employment — speakers: Alison McGovern, Anoosh Chakelian, Oli Dugmore
+- 2025-02-20 — Russia has been brought in from the cold — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-02-19 — Did JD Vance boost Germany's far right? — speakers: JD Vance, Anoosh Chakelian, Oli Dugmore
+- 2025-02-17 — Why fiction matters - Deborah Levy — speakers: Deborah Levy, Anoosh Chakelian, Oli Dugmore
+- 2025-02-14 — The rise of the "super-council" - plus, assisted dying interview with Kim Leadbeater — speakers: Kim Leadbeater, Rachel Cunliffe, Megan Kenyon, Hannah Bar, Anoosh Chakelian, Oli Dugmore
+- 2025-02-13 — A Labour crash is coming — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-02-12 — Who should decide how our children are taught? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-02-10 — Trump's Florida Project: how the Sunshine State became the centre of power — speakers: Florida Project, Sunshine State, Anoosh Chakelian, Oli Dugmore
+- 2025-02-07 — How America runs Britain — speakers: How America, Anoosh Chakelian, Oli Dugmore
+- 2025-02-06 — Does Morgan McSweeney really run Labour? — speakers: Andrew Marr, Gabriel Po, Anoosh Chakelian, Oli Dugmore
+- 2025-02-05 — "It's guided by six rats": The battle for a life-changing drug — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-02-03 — How do you solve a problem like Margaret Thatcher? — speakers: Margaret Thatcher, Nigel Lawson, Anoosh Chakelian, Oli Dugmore
+- 2025-01-31 — Returning to Labour is John McDonnell's "greatest wish" — speakers: John McDonnell, Anoosh Chakelian, Oli Dugmore
+- 2025-01-30 — Are Labour "clutching at straws" on growth? — speakers: Rachel Reeves, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2025-01-28 — Beg, borrow or steel — speakers: Queen Anne, Anoosh Chakelian, Oli Dugmore
+- 2025-01-27 — The Times They Have a-Changed: Where is the protest song now? — speakers: Bob Dylan, Anoosh Chakelian, Oli Dugmore
+- 2025-01-24 — What does Trump 2.0 mean for the UK? — speakers: Freddie Hayward, Anoosh Chakelian, Oli Dugmore
+- 2025-01-23 — How do we fight terror now? - Andrew Marr and Jacob Davey on the Southport killer trial. — speakers: Andrew Marr, Jacob Davey, Axel Rudakubana, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
+- 2025-01-22 — Will the ceasefire hold? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-01-20 — Why are we having fewer children? — speakers: Tom Gatti, Anoosh Chakelian, Oli Dugmore
+- 2025-01-17 — Will Labour reconsider the Chagos deal? — speakers: Will Labour, Anoosh Chakelian, Oli Dugmore
+- 2025-01-16 — Rachel Reeves won't resign (yet) - here's why — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2025-01-15 — The ideological contradictions of Trump 2 — speakers: Pete Hegseth, Marco Rubio, Anoosh Chakelian, Oli Dugmore
+- 2025-01-13 — Could it be magic?: Inside Britain's boyband machine — speakers: Inside Britain, Anoosh Chakelian, Oli Dugmore
+- 2025-01-10 — Could the government raise the top income tax rate? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-01-09 — Elon Musk’s “outrageous” meddling in grooming gangs scandal — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-01-08 — The end of America's global dominance — speakers: Anoosh Chakelian, Oli Dugmore
+- 2025-01-06 — Mackenzie Crook on talking to ghosts and playing skinny weirdos — speakers: Tom Gatti, Anoosh Chakelian, Oli Dugmore
+- 2025-01-01 — The New Statesman - trailer — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-12-30 — The world in 2025 — speakers: Hannah Barnes, Anoosh Chakelian, Oli Dugmore
 - 2024-12-23 — Politics 2024: The good, the bad, and the ugly — speakers: Hannah Barnes, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2024-12-20 — What Musk's money could do for Reform UK — speakers: Hannah Barnes, Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-12-19 — Emily Thornberry: I won't be on the welcome committee for Trump — speakers: Prince Andrew, Harry Clarke-Ezzidio, Emily Thornberry, Anoosh Chakelian, Oli Dugmore
-- 2024-12-18 — Torsten Bell: Is Britain's decline reversible? — speakers: Torsten Bell, Will Dunn, Ed Milliband, Anoosh Chakelian, Oli Dugmore
-- 2024-12-16 — How Paddington became the spokesbear for Britain — speakers: Michael Bond, Tom Gatti, Amelia Tait, Jon Foster, Anoosh Chakelian, Oli Dugmore
-- 2024-12-13 — France's centre has collapsed, is the UK's next? — speakers: Heidi Alexander, Hannah Barnes, Andrew Marr, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-12-12 — Will Starmer engage with HTS? — speakers: Will Starmer, Shamima Begum, Hannah Barnes, Andrew Marr, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-12-11 — What happens when a tyrant flees — speakers: Bashar al-Assad, Kate Lamble, Rajan Menon, Marcel Dirsus, John Jenkins, Anoosh Chakelian, Oli Dugmore
-- 2024-12-09 — The politics of faith: Britain's changing relationship with Christianity — speakers: Tom Gatti, Pippa Bailey, David Sexton, Anoosh Chakelian, Oli Dugmore
+- 2024-12-20 — What Musk's money could do for Reform UK — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2024-12-19 — Emily Thornberry: I won't be on the welcome committee for Trump — speakers: Prince Andrew, Anoosh Chakelian, Oli Dugmore
+- 2024-12-18 — Torsten Bell: Is Britain's decline reversible? — speakers: Torsten Bell, Anoosh Chakelian, Oli Dugmore
+- 2024-12-16 — How Paddington became the spokesbear for Britain — speakers: Michael Bond, Anoosh Chakelian, Oli Dugmore
+- 2024-12-13 — France's centre has collapsed, is the UK's next? — speakers: Heidi Alexander, Anoosh Chakelian, Oli Dugmore
+- 2024-12-12 — Will Starmer engage with HTS? — speakers: Will Starmer, Shamima Begum, Anoosh Chakelian, Oli Dugmore
+- 2024-12-11 — What happens when a tyrant flees — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-12-09 — The politics of faith: Britain's changing relationship with Christianity — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-12-06 — Hunter Biden and South Korea: What's going on in the world? — speakers: Hunter Biden, Hannah Barnes, Will Dunn, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2024-12-05 — Labour’s swamp: Keir Starmer resets — speakers: Peter Hyman, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-12-04 — Is more devolution really a good thing? — speakers: Kate Lamble, Matthew Engel, Megan Kenyon, Jack Shaw, Anoosh Chakelian, Oli Dugmore
-- 2024-12-03 — Is the UK ready for AI innovation? | Sponsored — speakers: Sponsored Artificial, Jane Wakefield, Paul Cardno, Sarah Armstrong, Generative AI, Anoosh Chakelian, Oli Dugmore
-- 2024-12-02 — Inside the UK's most influential record store — speakers: Banquet Records, Tom Gatti, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-11-30 — Wes Streeting: pouring in money won't change the NHS | Sponsored — speakers: Wes Streeting, Hannah White, Anoosh Chakelian, Oli Dugmore
-- 2024-11-29 — Dazed and confused: how are new MPs adjusting to parliament? — speakers: Andrew Marr, Rachel Cunliffe, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-11-28 — The politics of assisted dying — speakers: Kim Leadbeater, Andrew Marr, Hannah Barnes, Rachel Cunliffe, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-11-27 — "A long conflict plays into Putin's hands" - is the end in sight? — speakers: Kate Lamble, Ian Garner, Lawrence Freedman, Peter Ricketts, Anoosh Chakelian, Oli Dugmore
-- 2024-11-25 — Autobahn at 50: How Kraftwerk defined modern music — speakers: Ralf Hütter, Florian Schneider, Tom Gatti, Jude Rogers, Anoosh Chakelian, Oli Dugmore
-- 2024-11-22 — When will Labour Britain actually start to get good? — speakers: Hannah Barnes, Andrew Marr, Rachel Cunliffe, Read Andrew, Anoosh Chakelian, Oli Dugmore
-- 2024-11-21 — Marr on Prescott: "I'm very upset he's gone" — speakers: Andrew Marr, George Eaton, Hannah Barnes, Rachel Reeves, Will Dunn, David Lammy, Anoosh Chakelian
-- 2024-11-20 — Sinn Féin's growing pains — speakers: Sinn Féin, Fianna Fáil, Fine Gael, Mary-Lou McDonald, Kate Lamble, Eoin O'Malley, Finn McRedmond, Conor Kelly
-- 2024-11-18 — Booker prize winner Samantha Harvey: "political choices are sculpting the surface of the earth" — speakers: Samantha Harvey, Nicholas Harris, Anoosh Chakelian, Oli Dugmore
-- 2024-11-16 — How do we reduce the life expectancy gap? — speakers: Sarah Dawood, Jennifer Dixon Dbe, Jonathan Ashworth, Labour Together, Steve Brine, Ronny Cheung, Anoosh Chakelian, Oli Dugmore
-- 2024-11-15 — Will Team Trump push Labour to the right? — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2024-11-14 — The return of the Blairites — speakers: Jonathan Powell, Liz Lloyd, Peter Mandelson, Alan Milburn, Anoosh Chakelian, Oli Dugmore
-- 2024-11-13 — Trump, Putin, and the future of Ukraine? — speakers: Kate Lamble, Chris York, Wolfgang Munchau, Angela Stent, Mex Bergmann, Anoosh Chakelian, Oli Dugmore
-- 2024-11-11 — How anger defined 2024 — speakers: Tom Gatti, Sarah Manavis, Josh Cohen, Anoosh Chakelian, Oli Dugmore
-- 2024-11-09 — Fuel Poverty and Rising Costs: Who’s Struggling This Winter? | Sponsored — speakers: Zoe Grunewald, Jessica Taplin, Martin Lord, Carol Shreve, Law Centre, Anoosh Chakelian, Oli Dugmore
-- 2024-11-08 — Are Reform UK a threat to Labour? — speakers: Nicholas Harris, Rachel Cunliffe, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-11-07 — Trump: The Sequel - is the UK watching? — speakers: Hannah Barnes, George Eaton, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2024-11-05 — US Election: What's at stake - for America and the world? — speakers: Kate Lamble, Katie Stallard, Jill Filipovic, Sohrab Ahmari, Anoosh Chakelian, Oli Dugmore
-- 2024-11-04 — Bezos, Murdoch, Musk: what drives the men who control our media? — speakers: Jeff Bezos, Tom Gatti, Alison Phillips, Anoosh Chakelian, Oli Dugmore
-- 2024-11-01 — Could “abrasive” Kemi Badenoch ever be Prime Minister? — speakers: David Gauke, Rachel Reeves, Nick Clegg, Rachel Cunliffe, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-10-31 — Budget 2024: Will Labour's gamble pay off? — speakers: Rachel Reeves, Andrew Marr, George Eaton, Hannah Barnes, Ben Zaranko, Anoosh Chakelian, Oli Dugmore
-- 2024-10-30 — Is American conservatism over? — speakers: Kamala Harris, Kate Lamble, Sarah Churchwell, Sohrab Ahmari, Anoosh Chakelian, Oli Dugmore
-- 2024-10-28 — Why Britain can't move on from its 'blitz spirit' — speakers: Steve McQueen, Saiorse Ronan, Elliot Heffernan, Tom Gatti, Gary Younge, David Edgerton, Anoosh Chakelian, Oli Dugmore
+- 2024-12-05 — Labour’s swamp: Keir Starmer resets — speakers: Peter Hyman, Anoosh Chakelian, Oli Dugmore
+- 2024-12-04 — Is more devolution really a good thing? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-12-03 — Is the UK ready for AI innovation? | Sponsored — speakers: Sponsored Artificial, Anoosh Chakelian, Oli Dugmore
+- 2024-12-02 — Inside the UK's most influential record store — speakers: Banquet Records, Anoosh Chakelian, Oli Dugmore
+- 2024-11-30 — Wes Streeting: pouring in money won't change the NHS | Sponsored — speakers: Wes Streeting, Anoosh Chakelian, Oli Dugmore
+- 2024-11-29 — Dazed and confused: how are new MPs adjusting to parliament? — speakers: free swe, Anoosh Chakelian, Oli Dugmore
+- 2024-11-28 — The politics of assisted dying — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-27 — "A long conflict plays into Putin's hands" - is the end in sight? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-25 — Autobahn at 50: How Kraftwerk defined modern music — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-22 — When will Labour Britain actually start to get good? — speakers: Labour Britain, Anoosh Chakelian, Oli Dugmore
+- 2024-11-21 — Marr on Prescott: "I'm very upset he's gone" — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-11-20 — Sinn Féin's growing pains — speakers: Sinn Féin, Anoosh Chakelian, Oli Dugmore
+- 2024-11-18 — Booker prize winner Samantha Harvey: "political choices are sculpting the surface of the earth" — speakers: Samantha Harvey, Anoosh Chakelian, Oli Dugmore
+- 2024-11-16 — How do we reduce the life expectancy gap? — speakers: National Stat, Anoosh Chakelian, Oli Dugmore
+- 2024-11-15 — Will Team Trump push Labour to the right? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-14 — The return of the Blairites — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-13 — Trump, Putin, and the future of Ukraine? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-11 — How anger defined 2024 — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-09 — Fuel Poverty and Rising Costs: Who’s Struggling This Winter? | Sponsored — speakers: Fuel Poverty, Rising Costs, Sponsored Fuel, Anoosh Chakelian, Oli Dugmore
+- 2024-11-08 — Are Reform UK a threat to Labour? — speakers: Nicholas Harris, Anoosh Chakelian, Oli Dugmore
+- 2024-11-07 — Trump: The Sequel - is the UK watching? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-05 — US Election: What's at stake - for America and the world? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-04 — Bezos, Murdoch, Musk: what drives the men who control our media? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-11-01 — Could “abrasive” Kemi Badenoch ever be Prime Minister? — speakers: David Gauke, Anoosh Chakelian, Oli Dugmore
+- 2024-10-31 — Budget 2024: Will Labour's gamble pay off? — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2024-10-30 — Is American conservatism over? — speakers: Presidential Elections, Anoosh Chakelian, Oli Dugmore
+- 2024-10-28 — Why Britain can't move on from its 'blitz spirit' — speakers: Steve McQueen, Anoosh Chakelian, Oli Dugmore
 - 2024-10-25 — Labour's first three months: the voters' verdict — speakers: Andrew Marr, Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-10-24 — This is how Labour can fill the 'black hole' — speakers: Ben Zaranko, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2024-10-23 — Can we ever trust the US polls? — speakers: Kamala Harris, Kate Lamble, Scott Keeter, Ben Walker, Megan Gibson, Katie Stallard, Anoosh Chakelian
-- 2024-10-21 — Who made Donald Trump? — speakers: Gabriel Sherman, Ali Abasi, Sebastian Stan, Roy Cohn, Jeremy Strong, Megan Gibson, Tom Gatti
-- 2024-10-18 — Will Kemi Badenoch split the Tories? — speakers: Will Kemi Badenoch, James Cleverly, Andrew Marr, Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-10-17 — Should the government prescribe Ozempic? — speakers: Wes Streeting, Hannah Barnes, Andrew Marr, Will Dunn, Anoosh Chakelian, Oli Dugmore
+- 2024-10-24 — This is how Labour can fill the 'black hole' — speakers: Ben Zaranko, Anoosh Chakelian, Oli Dugmore
+- 2024-10-23 — Can we ever trust the US polls? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-10-21 — Who made Donald Trump? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-10-18 — Will Kemi Badenoch split the Tories? — speakers: Will Kemi Badenoch, James Cleverly, Anoosh Chakelian, Oli Dugmore
+- 2024-10-17 — Should the government prescribe Ozempic? — speakers: Wes Streeting, Anoosh Chakelian, Oli Dugmore
 - 2024-10-16 — Are we actually ready for assisted dying? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2024-10-12 — How do we solve the NHS productivity puzzle? | Sponsored — speakers: Emma Haslett, Julian Hunt, Jim Mackey, Sarah Woolnough, Anoosh Chakelian, Oli Dugmore
+- 2024-10-12 — How do we solve the NHS productivity puzzle? | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-10-11 — Rachel Reeves on who will foot the budget bill — speakers: Rachel Reeves, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2024-10-10 — Nicola Sturgeon on Boris Johnson the “playground bully” — speakers: Sue Gray, George Eaton, Rachel Cunliffe, Hannah Barnes, James Cleverly, Robert Jenrick
-- 2024-10-09 — The US election result is already being legally challenged — speakers: Jill Filipovic Read, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2024-10-04 — Is our political funding system broken? — speakers: Rachel Cunliffe, Andrew Marr, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-10-03 — What really happened at the Conservative Party party? — speakers: Rachel Cunliffe, Andrew Marr, George Eaton, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2024-10-02 — One year of devastation in the Middle East — speakers: Sharone Lifschitz, Lawrence Freedman, Hanna Davis, Yalda Hakim, Anoosh Chakelian, Oli Dugmore
-- 2024-09-26 — Could conspiracy trump democracy in America? — speakers: Hannah Barnes, Gabriel Gatehouse, Anoosh Chakelian, Oli Dugmore
-- 2024-09-24 — "Intensity, fury, passion": Starmer's conference speech — speakers: Andrew Marr, David Blunkett, Wes Streeting, Baroness Taylor, Henry Tufnell, Anoosh Chakelian, Oli Dugmore
-- 2024-09-23 — Can Rachel Reeves turn the page on Labour's pessimism? — speakers: Rachel Reeves, Hannah Barnes, Andrew Marr, Rachel Cunliffe, Andy Burnham, Nicholas Harris, Anoosh Chakelian, Oli Dugmore
-- 2024-09-20 — Giveaways and Sue Gray's pay, do they matter? — speakers: Sue Gray, Hannah Barnes, Andrew Marr, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-09-19 — Ed Davey thinks he could be leader of the opposition — speakers: Ed Davey, Rachel Cunliffe, Wes Streeting, Hannah Barnes, Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-10-10 — Nicola Sturgeon on Boris Johnson the “playground bully” — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-10-09 — The US election result is already being legally challenged — speakers: Republic National Committee, Anoosh Chakelian, Oli Dugmore
+- 2024-10-04 — Is our political funding system broken? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2024-10-03 — What really happened at the Conservative Party party? — speakers: Rachel Cunliffe, Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-10-02 — One year of devastation in the Middle East — speakers: October Sharone Lifschitz, Anoosh Chakelian, Oli Dugmore
+- 2024-09-26 — Could conspiracy trump democracy in America? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-09-24 — "Intensity, fury, passion": Starmer's conference speech — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-09-23 — Can Rachel Reeves turn the page on Labour's pessimism? — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2024-09-20 — Giveaways and Sue Gray's pay, do they matter? — speakers: Sue Gray, Anoosh Chakelian, Oli Dugmore
+- 2024-09-19 — Ed Davey thinks he could be leader of the opposition — speakers: Ed Davey, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
 - 2024-09-16 — Led By Donkeys: "Liz Truss was fair game" — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2024-09-13 — Why is US politics "so mad"? — speakers: Hannah Barnes, Rachel Cunliffe, Kamala Harris, Kennedy Jr, Morning Call, Anoosh Chakelian, Oli Dugmore
-- 2024-09-12 — Has Rachel Reeves made a “huge mistake”? — speakers: Rachel Reeves, Andrew Marr, George Eaton, Hannah Barnes, Kamala Harris, Morning Call, Anoosh Chakelian
-- 2024-09-09 — Losing Gaza — speakers: Losing Gaza, Raja Shehadeh, Raja Khalidi, Anoosh Chakelian, Oli Dugmore
-- 2024-09-06 — Is Jeremy Corbyn trolling Keir Starmer? — speakers: Jeremy Corbyn, Andrew Marr, Hannah Barnes, Rachel Cunliffe, Morning Call, Anoosh Chakelian, Oli Dugmore
-- 2024-09-05 — Grenfell prosecutions are now “essential” - Andrew Marr — speakers: Andrew Marr, Rachel Cunliffe, Hannah Barnes, Priti Patel, Megan Kenyon, George Eaton, Morning Call, Anoosh Chakelian
-- 2024-08-29 — Can Oasis bring back Cool Britannia? — speakers: Cool Britannia, Liam Gallagher, Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-08-28 — "Things will get worse": is austerity back? — speakers: Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-08-23 — Should Labour push harder on immigration? — speakers: Hannah Barnes, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-08-21 — Tories "scent blood" over Labour union deals — speakers: Hannah Barnes, George Eaton, James Timpson, Charlie Taylor, Anoosh Chakelian, Oli Dugmore
-- 2024-08-16 — Elon Musk is The Joker of politics — speakers: Hannah Barnes, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-08-15 — Can Keir Starmer unite a divided nation? — speakers: Hannah Barnes, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-08-12 — Are Gen Z the loneliest generation in human history? — speakers: Sarah Dawood, Sophie McBain, Anoosh Chakelian, Oli Dugmore
-- 2024-08-09 — What's the most likely replacement for the House of Lords? — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-08-08 — Thousands join anti-racism protests, is this a turning point? — speakers: Hannah Barnes, Rachel Cunliffe, Nick Harris, Anoosh Chakelian, Oli Dugmore
-- 2024-08-05 — Former Chief Prosecutor: "We've forgotten about those three little girls" — speakers: Nazir Afzal, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-08-02 — What happens practically when a MP has the whip suspended? — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2024-09-13 — Why is US politics "so mad"? — speakers: Freddie Hayward, Anoosh Chakelian, Oli Dugmore
+- 2024-09-12 — Has Rachel Reeves made a “huge mistake”? — speakers: Rachel Reeves, Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-09-09 — Losing Gaza — speakers: Losing Gaza, Following Hamas, Anoosh Chakelian, Oli Dugmore
+- 2024-09-06 — Is Jeremy Corbyn trolling Keir Starmer? — speakers: Jeremy Corbyn, Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-09-05 — Grenfell prosecutions are now “essential” - Andrew Marr — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-08-29 — Can Oasis bring back Cool Britannia? — speakers: Cool Britannia, Liam Gallagher, Anoosh Chakelian, Oli Dugmore
+- 2024-08-28 — "Things will get worse": is austerity back? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-08-23 — Should Labour push harder on immigration? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-08-21 — Tories "scent blood" over Labour union deals — speakers: Nhs staff, service workers, train drivers, Anoosh Chakelian, Oli Dugmore
+- 2024-08-16 — Elon Musk is The Joker of politics — speakers: Hannah Barnes, Anoosh Chakelian, Oli Dugmore
+- 2024-08-15 — Can Keir Starmer unite a divided nation? — speakers: Can Keir Starmer, Anoosh Chakelian, Oli Dugmore
+- 2024-08-12 — Are Gen Z the loneliest generation in human history? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-08-09 — What's the most likely replacement for the House of Lords? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-08-08 — Thousands join anti-racism protests, is this a turning point? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-08-05 — Former Chief Prosecutor: "We've forgotten about those three little girls" — speakers: Former Chief Prosecutor, Anoosh Chakelian, Oli Dugmore
+- 2024-08-02 — What happens practically when a MP has the whip suspended? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-08-01 — How disinformation turned Southport's tragedy into violence — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-07-29 — How to fix Britain's social housing crisis — speakers: Kwajo Tweneboa, Harry Clarke-Ezzidio, Anoosh Chakelian, Oli Dugmore
-- 2024-07-26 — Should funding for GB News be considered a political donation? — speakers: Ben Houchen, Hannah Barnes, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-07-25 — Starmer suspends seven MPs, what precedent does this set? — speakers: Hannah Barnes, George Eaton, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2024-07-23 — Andrew Marr: Kamala Harris is "empowered and freed" — speakers: Andrew Marr, Kamala Harris, VP Kamala Harris, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-07-19 — How long is Starmer's "honeymoon" period? — speakers: Hannah Barnes, Rachel Cunliffe, David Muir, Anoosh Chakelian, Oli Dugmore
-- 2024-07-18 — Will Labour's "Great British Energy" deliver? — speakers: Will Labour, Ed Miliband, Megan Kenyon, Hannah Barnes, Rachel Cunliffe, Helen Thompson, Anoosh Chakelian, Oli Dugmore
-- 2024-07-17 — King's speech reveals Starmer's uncommon ambition — speakers: George Eaton, Rachel Cunliffe, Hannah Barnes, King’s Speech, Anoosh Chakelian, Oli Dugmore
-- 2024-07-17 — ADHD in the criminal justice system | Sponsored — speakers: Emma Haslett, Tony Lloyd, Robert Buckland, Daley Jones, Sarah Templeton, Anoosh Chakelian, Oli Dugmore
-- 2024-07-16 — Andrew Marr: What if the Trump assassination attempt had succeeded? — speakers: Andrew Marr, JD Vance, Hannah Barnes, Sohrab Ahmari, Anoosh Chakelian, Oli Dugmore
-- 2024-07-15 — Trump shooting: what the Democrats must do now — speakers: Hannah Barnes, Jill Filipovic, Katie Stallard, Phil Tinline, Anoosh Chakelian, Oli Dugmore
-- 2024-07-12 — What does Labour's "growth worth having" actually mean? — speakers: Hannah Barnes, Rachel Cunliffe, Yuan Yang, Sarah Sackman, Anoosh Chakelian, Oli Dugmore
-- 2024-07-11 — The Conservative party's very public nervous breakdown — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2024-07-29 — How to fix Britain's social housing crisis — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-26 — Should funding for GB News be considered a political donation? — speakers: Ben Houchen, Anoosh Chakelian, Oli Dugmore
+- 2024-07-25 — Starmer suspends seven MPs, what precedent does this set? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-23 — Andrew Marr: Kamala Harris is "empowered and freed" — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-07-19 — How long is Starmer's "honeymoon" period? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-18 — Will Labour's "Great British Energy" deliver? — speakers: Will Labour, Ed Miliband, Anoosh Chakelian, Oli Dugmore
+- 2024-07-17 — King's speech reveals Starmer's uncommon ambition — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-17 — ADHD in the criminal justice system | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-16 — Andrew Marr: What if the Trump assassination attempt had succeeded? — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-07-15 — Trump shooting: what the Democrats must do now — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-12 — What does Labour's "growth worth having" actually mean? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-11 — The Conservative party's very public nervous breakdown — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-07-10 — How will global affairs define the Starmer era? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2024-07-09 — Andrew Marr: "The smell in Whitehall? An invigorating reek of change." — speakers: Andrew Marr, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-07-08 — What can we learn from Labour's first days in power? — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-07-05 — Election results: Welcome to Labour Britain — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-07-04 — What to expect when you're expecting ... a new government — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-07-03 — The penultimate day of Tory Rome — speakers: Tory Rome, Rishi Sunak, Hannah Barnes, George Eaton, David Gauke, Anoosh Chakelian, Oli Dugmore
-- 2024-07-02 — How many hours a week should a prime minster be working? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-07-01 — Andrew Marr: To succeed, Starmer must upset a lot of people — speakers: Andrew Marr, Hannah Barnes, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2024-06-29 — The race to cervical cancer elimination | Sponsored — speakers: Zoe Grunwald, Emma Cerrone, Honorary Consultant Gynaecological, Gayathri Kumar, Anoosh Chakelian, Oli Dugmore
+- 2024-07-09 — Andrew Marr: "The smell in Whitehall? An invigorating reek of change." — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-07-08 — What can we learn from Labour's first days in power? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-05 — Election results: Welcome to Labour Britain — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-04 — What to expect when you're expecting ... a new government — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-07-03 — The penultimate day of Tory Rome — speakers: Tory Rome, Anoosh Chakelian, Oli Dugmore
+- 2024-07-02 — How many hours a week should a prime minster be working? — speakers: Another Reform, Anoosh Chakelian, Oli Dugmore
+- 2024-07-01 — Andrew Marr: To succeed, Starmer must upset a lot of people — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-06-29 — The race to cervical cancer elimination | Sponsored — speakers: Sponsored Cervical, Anoosh Chakelian, Oli Dugmore
 - 2024-06-28 — What's happening in Northern Ireland? and should polling be banned? — speakers: Finn McRedmond, Anoosh Chakelian, Oli Dugmore
-- 2024-06-27 — On the road with Corbyn, Farage, and Lammy — speakers: Jeremy Corbyn, David Lammy, Rachel Cunliffe, George Eaton, Jason Cowley, Anoosh Chakelian, Oli Dugmore
-- 2024-06-26 — Up all night to Bet Lucky — speakers: Hannah Barnes, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-06-25 — Andrew Marr: "If I were Sunak, I'd be wailing under the table" — speakers: Andrew Marr, Hannah Barnes, Nigel Reform, Anoosh Chakelian, Oli Dugmore
-- 2024-06-24 — Is GamblingGate the new PartyGate? — speakers: Rishi Sunak, Hannah Barnes, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-06-21 — Rishi Sunak is campaigning through gritted teeth — speakers: Rishi Sunak, Ed Davey, Jeremy Corbyn, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-06-20 — Stop The Bets! — speakers: Rishi Sunak, Laura Saunders, Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-06-19 — Is there still momentum for Scottish independence? — speakers: John Swinney, Hannah Barnes, Chris Deerin, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-06-18 — Andrew Marr: Labour must prepare for the turning tide — speakers: Andrew Marr, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-06-17 — How Reform UK found £50billion down the back of the sofa — speakers: Richard Tice, Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-06-14 — Why is Jeremy Hunt love bombing affluent voters in Surrey? — speakers: Jeremy Hunt, Jeremy Corbyn, Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-06-13 — Money Money Money (Keir Starmer's version) — speakers: Hannah Barnes, Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-06-12 — The Conservatives are headed for a "superdefeat" — speakers: Grant Shapps, Hannah Barnes, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-06-11 — Andrew Marr: Could Tory tax cuts hurt the poorest? — speakers: Andrew Marr, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-06-10 — Does the Lib Dem manifesto add up? — speakers: Hannah Barnes, Rachel Cunliffe, Chris Deerin, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2024-06-07 — Has Rishi Sunak just destroyed his own campaign? — speakers: Rishi Sunak, Finn McRedmond, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-06-06 — Who really holds power on the left? — speakers: George Eaton, Hannah Barnes, Vaughan Gethin, Ed Davey, Anoosh Chakelian, Oli Dugmore
-- 2024-06-05 — Who's going to win the "£2,000" debate? — speakers: Hannah Barnes, Freddie Hayward, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-06-04 — Andrew Marr: “Reform means game over for the Conservatives” — speakers: Andrew Marr, Lib Dems, Hannah Barnes, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2024-06-03 — Why Starmer needs to embrace nuclear weapons now — speakers: Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-05-31 — Has Rishi Sunak made a big mistake? — speakers: Rishi Sunak, Ed Davey, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-05-30 — Is Labour purging the left of the party? — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-05-29 — Labour's grand mishandling of the Diane Abbott row — speakers: Diane Abbott, Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-05-28 — Andrew Marr: "The Conservatives have fallen apart" — speakers: Andrew Marr, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-05-27 — Political ads are embracing legal loopholes and playing dirty — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-05-24 — Will Farage get a job with Trump? Why can't the water companies go bankrupt? — speakers: Will Dunn, Hannah Barnes, Anoosh Chakelian, Oli Dugmore
-- 2024-05-23 — Rishi Sunak has already given up — speakers: Rishi Sunak, Hannah Barnes, Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-05-22 — "Heat or eat": how to help millions in fuel poverty | sponsored — speakers: Zoë Grünewald, Jessica Taplin, Ashley Comley, Ellen De Decker, Anoosh Chakelian, Oli Dugmore
-- 2024-05-20 — The Great Stink: how England came to swim in sewage — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2024-05-17 — Are there any Tory MPs Labour wouldn't welcome? — speakers: Tory MPs Labour, Natalie Elphicke, Hannah Barnes, Rachel Cunliffe, David Gauke, Anoosh Chakelian, Oli Dugmore
-- 2024-05-16 — Will Starmer stick to his pledges? — speakers: Will Starmer, Hannah Barnes, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2024-06-27 — On the road with Corbyn, Farage, and Lammy — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-06-26 — Up all night to Bet Lucky — speakers: Bet Lucky Another, Anoosh Chakelian, Oli Dugmore
+- 2024-06-25 — Andrew Marr: "If I were Sunak, I'd be wailing under the table" — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-06-24 — Is GamblingGate the new PartyGate? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-06-21 — Rishi Sunak is campaigning through gritted teeth — speakers: Ed Davey, Anoosh Chakelian, Oli Dugmore
+- 2024-06-20 — Stop The Bets! — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-06-19 — Is there still momentum for Scottish independence? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-06-18 — Andrew Marr: Labour must prepare for the turning tide — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-06-17 — How Reform UK found £50billion down the back of the sofa — speakers: Richard Tice, Anoosh Chakelian, Oli Dugmore
+- 2024-06-14 — Why is Jeremy Hunt love bombing affluent voters in Surrey? — speakers: Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
+- 2024-06-13 — Money Money Money (Keir Starmer's version) — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-06-12 — The Conservatives are headed for a "superdefeat" — speakers: Grant Shapps, Anoosh Chakelian, Oli Dugmore
+- 2024-06-11 — Andrew Marr: Could Tory tax cuts hurt the poorest? — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-06-10 — Does the Lib Dem manifesto add up? — speakers: Lib Dem, Anoosh Chakelian, Oli Dugmore
+- 2024-06-07 — Has Rishi Sunak just destroyed his own campaign? — speakers: Finn McRedmond, Anoosh Chakelian, Oli Dugmore
+- 2024-06-06 — Who really holds power on the left? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-06-05 — Who's going to win the "£2,000" debate? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-06-04 — Andrew Marr: “Reform means game over for the Conservatives” — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-06-03 — Why Starmer needs to embrace nuclear weapons now — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-31 — Has Rishi Sunak made a big mistake? — speakers: Ed Davey, Anoosh Chakelian, Oli Dugmore
+- 2024-05-30 — Is Labour purging the left of the party? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-29 — Labour's grand mishandling of the Diane Abbott row — speakers: Diane Abbott, Today Labour, Anoosh Chakelian, Oli Dugmore
+- 2024-05-28 — Andrew Marr: "The Conservatives have fallen apart" — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2024-05-27 — Political ads are embracing legal loopholes and playing dirty — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-24 — Will Farage get a job with Trump? Why can't the water companies go bankrupt? — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
+- 2024-05-23 — Rishi Sunak has already given up — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-22 — "Heat or eat": how to help millions in fuel poverty | sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-20 — The Great Stink: how England came to swim in sewage — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-17 — Are there any Tory MPs Labour wouldn't welcome? — speakers: Tory MPs Labour, Anoosh Chakelian, Oli Dugmore
+- 2024-05-16 — Will Starmer stick to his pledges? — speakers: Will Starmer, Anoosh Chakelian, Oli Dugmore
 - 2024-05-13 — Hilary Cass: "Do I regret doing it? Absolutely not" — speakers: Hilary Cass, Anoosh Chakelian, Oli Dugmore
-- 2024-05-10 — Who would want Rishi Sunak's job now? — speakers: Rishi Sunak, Rachel Cunliffe, George Eaton, Morning Call, Anoosh Chakelian, Oli Dugmore
-- 2024-05-09 — Defeat and defection: Tories are down bad — speakers: Rishi Sunak, Andy Street, Natalie Elphicke, Rachel Cunliffe, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-05-08 — How can life sciences investment make the UK healthier? | Sponsored — speakers: Emma Haslett, Chi Onwurah, Dan Mahony, Stephen Aherne, Anoosh Chakelian, Oli Dugmore
-- 2024-05-06 — What do we really know about ‘Starmerism’? — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-05-03 — Election Special: "by and large, the country has moved against the government" — speakers: Rishi Sunak, Rachel Cunliffe, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-05-02 — John Swinney - the next leader of Scotland? — speakers: John Swinney, Kate Forbes, Rachel Cunliffe, Chris Deerin, Anoosh Chakelian, Oli Dugmore
-- 2024-04-29 — The Rwanda bill will create a legacy of suffering - an interview with a former asylum seeker — speakers: Sarah Dawood, Arman Azadi, Anoosh Chakelian, Oli Dugmore
-- 2024-04-26 — What are the chances of a Conservative-Reform UK coalition? — speakers: Hannah Barnes, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-04-25 — Can Labour get Britain's trains back on track? — speakers: Hannah Barnes, George Eaton, Louise Haigh, Anoosh Chakelian, Oli Dugmore
-- 2024-04-24 — Can Britain quit smoking for good? | Sponsored — speakers: Rishi Sunak, Becky Slack, Moira Gilchrist, Anoosh Chakelian, Oli Dugmore
+- 2024-05-10 — Who would want Rishi Sunak's job now? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-09 — Defeat and defection: Tories are down bad — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-08 — How can life sciences investment make the UK healthier? | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-06 — What do we really know about ‘Starmerism’? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-05-03 — Election Special: "by and large, the country has moved against the government" — speakers: Election Special, Anoosh Chakelian, Oli Dugmore
+- 2024-05-02 — John Swinney - the next leader of Scotland? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-04-29 — The Rwanda bill will create a legacy of suffering - an interview with a former asylum seeker — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-04-26 — What are the chances of a Conservative-Reform UK coalition? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-04-25 — Can Labour get Britain's trains back on track? — speakers: Can Labour, Anoosh Chakelian, Oli Dugmore
+- 2024-04-24 — Can Britain quit smoking for good? | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-04-22 — Boarding school boys rule Britain, at what cost? — speakers: Charles Spencer, Earl Spencer, Anoosh Chakelian, Oli Dugmore
-- 2024-04-19 — How Iran and Israel are dividing British politics — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2024-04-18 — Does Liz Truss believe what she's saying? — speakers: Suella Braverman, Éric Zemmour, Viktor Orbán, Anoosh Chakelian, Oli Dugmore
-- 2024-04-15 — Decaying Britain: how severe is the NHS dental crisis? — speakers: Anoosh Chakelian, Harry Clarke-Ezzidio, Sarah Dawood, Oli Dugmore
-- 2024-04-12 — The Angela Rayner investigation: scandal or smear campaign? — speakers: Angela Rayner, Anoosh Chakelian, Dominic Raab, Oli Dugmore
-- 2024-04-11 — How will the gender care report affect politics? — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2024-04-08 — Is Britain addicted to monarchy? — speakers: Chris Stone, Tanya Gold, Anoosh Chakelian, Oli Dugmore
-- 2024-04-06 — Why do politicians push culture wars? And should landlord MPs vote on renting laws? — speakers: Anoosh Chakelian, Rachel Cunliffe, Barry Gardiner, Morning Call, Oli Dugmore
-- 2024-04-04 — Sh*tstorm: who's to blame for England's water crisis? — speakers: Will Dunn, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-04-03 — Reshaping the gig economy: union representation and worker protections | Sponsored — speakers: Suze Cooper, Stephen Timms, Andy Prendergast, Andrew Brem, Anoosh Chakelian, Oli Dugmore
-- 2024-04-01 — Alison McGovern: "people want respect and dignity" — speakers: Alison McGovern, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-03-29 — How would a general election shift if all UK residents, not just citizens, could vote? — speakers: Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-03-28 — "Turning up to a gun fight with a wooden spoon": should the UK be tougher on China? — speakers: Iain Duncan Smith, Anoosh Chakelian, Oli Dugmore
-- 2024-03-25 — The UK's social care system is failing all of us — speakers: Rachel Cunliffe, Humphrey Hawksley, Anoosh Chakelian, Oli Dugmore
-- 2024-03-22 — Is Vaughan Gething’s victory politically significant? — speakers: Tory Mayors, Anoosh Chakelian, Oli Dugmore
-- 2024-03-21 — Labour's economic plans: 'Bidenomics' without the money? — speakers: Rachel Reeves, Mais Lecture, Anoosh Chakelian, George Eaton, Oli Dugmore
-- 2024-03-18 — Why are female politicians still taken less seriously? — speakers: Alona Ferber, Mary Ann Seighart, Anoosh Chakelian, Oli Dugmore
-- 2024-03-15 — How does the whip system work? + Are Tory voters dying out? — speakers: Ben Walker, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-03-14 — Rishi Sunak has lost control — speakers: Rishi Sunak, Rachel Cunliffe, George Eaton, Frank Hester, Anoosh Chakelian, Oli Dugmore
-- 2024-03-11 — Andy Burnham and Steve Rotheram's "rallying cry for a more equal Britain" — speakers: Andy Burnham, Steve Rotheram, Head North, Anoosh Chakelian, Oli Dugmore
-- 2024-03-08 — Is Starmer showing his "true colours"? — speakers: Rishi Sunak, Harry Clarke-Ezzidio, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-03-07 — Spring Statement: let's talk about growth! — speakers: Jeremy Hunt, Kwasi Kwarteng, Rachel Cunliffe, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2024-03-04 — Leaseholds are a big feudal con — speakers: Anoosh Chakelian, Rachel Cunliffe, Barry Gardiner, Oli Dugmore
-- 2024-03-01 — George Galloway's back, back again — speakers: George Galloway, Rachel Cunliffe, Anoosh Chakelian, Ben Walker, Read Anoosh, Oli Dugmore
-- 2024-02-29 — Tory islamophobia: “Reform UK is driving them demented” – with Andrew Marr — speakers: Andrew Marr, Lee Anderson, Sadiq Khan, Steve Bannon, Anoosh Chakelian, Rachel Cunliffe, Rishi Sunak
-- 2024-02-28 — Where do we get the money to fix the world's biggest problems? | Sponsored — speakers: Emma Haslett, Sarah Champion, James Mwangi, Hannah Ryder, Anoosh Chakelian, Oli Dugmore
-- 2024-02-26 — Chumocracy is tearing Britain apart — speakers: Harry Clarke-Ezzidio, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2024-02-23 — Have the Tories given up on the culture wars? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-02-22 — Out of Order! Chaos in parliament over ceasefire vote — speakers: Lindsay Hoyle, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-02-21 — How to tackle the UK's plastic pollution problem | Sponsored — speakers: Emma Haslett, Julian Hunt, Ruth Jones, Costas Velis, Anoosh Chakelian, Oli Dugmore
-- 2024-02-19 — Why do local councils keep collapsing? — speakers: Anoosh Chakelian, Megan Kenyon, Jonny Ball, Oli Dugmore
-- 2024-02-16 — Swing Time: Wellingborough and Kingswood turn red — speakers: Rachel Cunliffe, Ben Walker, Anoosh Chakelian, Oli Dugmore
+- 2024-04-19 — How Iran and Israel are dividing British politics — speakers: How Iran, Anoosh Chakelian, Oli Dugmore
+- 2024-04-18 — Does Liz Truss believe what she's saying? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-04-15 — Decaying Britain: how severe is the NHS dental crisis? — speakers: Decaying Britain, Anoosh Chakelian, Oli Dugmore
+- 2024-04-12 — The Angela Rayner investigation: scandal or smear campaign? — speakers: Angela Rayner, Anoosh Chakelian, Oli Dugmore
+- 2024-04-11 — How will the gender care report affect politics? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-04-08 — Is Britain addicted to monarchy? — speakers: Queen Elizabeth, Anoosh Chakelian, Oli Dugmore
+- 2024-04-06 — Why do politicians push culture wars? And should landlord MPs vote on renting laws? — speakers: Anoosh Chakelian, Rachel Cunliffe, Oli Dugmore
+- 2024-04-04 — Sh*tstorm: who's to blame for England's water crisis? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-04-03 — Reshaping the gig economy: union representation and worker protections | Sponsored — speakers: Sponsored Flexible, Anoosh Chakelian, Oli Dugmore
+- 2024-04-01 — Alison McGovern: "people want respect and dignity" — speakers: Alison McGovern, Anoosh Chakelian, Oli Dugmore
+- 2024-03-29 — How would a general election shift if all UK residents, not just citizens, could vote? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-03-28 — "Turning up to a gun fight with a wooden spoon": should the UK be tougher on China? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-03-25 — The UK's social care system is failing all of us — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-03-22 — Is Vaughan Gething’s victory politically significant? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-03-21 — Labour's economic plans: 'Bidenomics' without the money? — speakers: Shadow Chancel, Anoosh Chakelian, Oli Dugmore
+- 2024-03-18 — Why are female politicians still taken less seriously? — speakers: Alona Ferber, Anoosh Chakelian, Oli Dugmore
+- 2024-03-15 — How does the whip system work? + Are Tory voters dying out? — speakers: Ben Walker, Anoosh Chakelian, Oli Dugmore
+- 2024-03-14 — Rishi Sunak has lost control — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-03-11 — Andy Burnham and Steve Rotheram's "rallying cry for a more equal Britain" — speakers: Andy Burnham, Steve Rotheram, Anoosh Chakelian, Oli Dugmore
+- 2024-03-08 — Is Starmer showing his "true colours"? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-03-07 — Spring Statement: let's talk about growth! — speakers: Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
+- 2024-03-04 — Leaseholds are a big feudal con — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-03-01 — George Galloway's back, back again — speakers: George Galloway, Anoosh Chakelian, Oli Dugmore
+- 2024-02-29 — Tory islamophobia: “Reform UK is driving them demented” – with Andrew Marr — speakers: Andrew Marr, Lee Anderson, Sadiq Khan, Steve Bannon, Anoosh Chakelian, Oli Dugmore
+- 2024-02-28 — Where do we get the money to fix the world's biggest problems? | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-02-26 — Chumocracy is tearing Britain apart — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-02-23 — Have the Tories given up on the culture wars? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-02-22 — Out of Order! Chaos in parliament over ceasefire vote — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-02-21 — How to tackle the UK's plastic pollution problem | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-02-19 — Why do local councils keep collapsing? — speakers: effectively declar, Anoosh Chakelian, Oli Dugmore
+- 2024-02-16 — Swing Time: Wellingborough and Kingswood turn red — speakers: Swing Time, Anoosh Chakelian, Oli Dugmore
 - 2024-02-15 — Labour’s Rochdale unravelling, with Andrew Marr — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2024-02-12 — Fake romance: the UK’s leading "catfishing" fraud specialist — speakers: Stuart McGurk, Will Dunn, Melissa Denes, Anoosh Chakelian, Oli Dugmore
+- 2024-02-12 — Fake romance: the UK’s leading "catfishing" fraud specialist — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-02-10 — Your polling questions answered, with Ben Walker — speakers: Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-02-08 — Liz Truss is back – and this time she’s “popular” — speakers: Will Liz Truss, Rishi Sunak, Jacob Rees-Mogg, Lee Anderson, Mark Littlewood, Rachel Cunliffe, Anoosh Chakelian
-- 2024-02-05 — Left Behind: the failed revolutions of the 2010s — speakers: William Davies, Garlic Toothpaste, Anoosh Chakelian, Oli Dugmore
-- 2024-02-03 — Vape ban, smoking ban: Rishi Sunak's "nanny state" — speakers: Rishi Sunak, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-02-01 — How would a Labour government handle Northern Ireland? — speakers: Anoosh Chakelian, Rachel Cunliffe, Oli Dugmore
-- 2024-01-31 — Is the NHS ready for developments in cancer care? | Sponsored — speakers: Becky Slack, Clare Turnbull, Marc Moodley, Anoosh Chakelian, Oli Dugmore
+- 2024-02-08 — Liz Truss is back – and this time she’s “popular” — speakers: Will Liz Truss, Anoosh Chakelian, Oli Dugmore
+- 2024-02-05 — Left Behind: the failed revolutions of the 2010s — speakers: Left Behind, Anoosh Chakelian, Oli Dugmore
+- 2024-02-03 — Vape ban, smoking ban: Rishi Sunak's "nanny state" — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-02-01 — How would a Labour government handle Northern Ireland? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-01-31 — Is the NHS ready for developments in cancer care? | Sponsored — speakers: Sponsored New, Anoosh Chakelian, Oli Dugmore
 - 2024-01-29 — Parliament’s sleaze epidemic, with Chris Bryant — speakers: Chris Bryant, Anoosh Chakelian, Oli Dugmore
-- 2024-01-27 — Are the Conservatives laying a trap for Labour? — speakers: Simon Clarke, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
+- 2024-01-27 — Are the Conservatives laying a trap for Labour? — speakers: Simon Clarke, Anoosh Chakelian, Oli Dugmore
 - 2024-01-25 — Is Labour's green agenda under threat? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2024-01-22 — Susan Neiman: "It's not about being pro-Israel or pro-Palestine, but pro-human rights" — speakers: Susan Neiman, Alona Ferber, Anoosh Chakelian, Oli Dugmore
+- 2024-01-22 — Susan Neiman: "It's not about being pro-Israel or pro-Palestine, but pro-human rights" — speakers: Susan Neiman, Anoosh Chakelian, Oli Dugmore
 - 2024-01-19 — Will David Cameron be forced to face the Commons? — speakers: Will David Cameron, Anoosh Chakelian, Oli Dugmore
 - 2024-01-18 — Rwanda: the Conservatives' bill to die on — speakers: Anoosh Chakelian, Oli Dugmore
-- 2024-01-17 — Restoring nature: can data halt biodiversity loss? | Sponsored — speakers: Chris Stone, Doug Gurr, Hilary Tam, Anoosh Chakelian, Oli Dugmore
-- 2024-01-15 — Why Team Starmer refuse to believe the hype around them — speakers: Team Starmer, George Eaton, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2024-01-12 — Have millennials forgiven the Lib Dems? — speakers: Lib Dems, Lib Dem, Anoosh Chakelian, Oli Dugmore
-- 2024-01-11 — The Post Office scandal: Lessons from one of the UK's greatest miscarriages of justice — speakers: Anoosh Chakelian, Oli Dugmore
-- 2024-01-08 — How will elections shape the world in 2024? — speakers: Bruno Maçães, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2024-01-05 — Could parliament introduce a proportional representation system? — speakers: Rishi Sunaks, Anoosh Chakelian, Oli Dugmore
-- 2024-01-04 — Six-day walkout: will the government budge on junior doctors' pay? — speakers: Emma Runswick, Victoria Atkins, Anoosh Chakelian, Oli Dugmore
-- 2023-12-28 — How will elections shape Britain in 2024? — speakers: Rachel Cunliffe, Ben Walker, Anoosh Chakelian, Oli Dugmore
+- 2024-01-17 — Restoring nature: can data halt biodiversity loss? | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-01-15 — Why Team Starmer refuse to believe the hype around them — speakers: Team Starmer, Anoosh Chakelian, Oli Dugmore
+- 2024-01-12 — Have millennials forgiven the Lib Dems? — speakers: Lib Dems, Anoosh Chakelian, Oli Dugmore
+- 2024-01-11 — The Post Office scandal: Lessons from one of the UK's greatest miscarriages of justice — speakers: Post Offices, Anoosh Chakelian, Oli Dugmore
+- 2024-01-08 — How will elections shape the world in 2024? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2024-01-05 — Could parliament introduce a proportional representation system? — speakers: Proportional Representation, Anoosh Chakelian, Oli Dugmore
+- 2024-01-04 — Six-day walkout: will the government budge on junior doctors' pay? — speakers: Emma Runswick, Anoosh Chakelian, Oli Dugmore
+- 2023-12-28 — How will elections shape Britain in 2024? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2023-12-23 — Andy Burnham: "2024 could be a bigger moment than 1997 for Labour" — speakers: Andy Burnham, Andrew Marr, Anoosh Chakelian, Oli Dugmore
 - 2023-12-21 — 2023: The good, the bad, and the outright bizarre — speakers: Anoosh Chakelian, Andrew Marr, Oli Dugmore
-- 2023-12-20 — Labour's mission to make Britain a clean energy super power | Sponsored — speakers: Sarah Dawood, Anoosh Chakelian, Oli Dugmore
-- 2023-12-18 — What's gone wrong with political journalism in the UK? With Ash Sarkar, Ian Dunt and Armando Iannucci | Westminster Reimagined — speakers: Ash Sarkar, Ian Dunt, Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
-- 2023-12-16 — What does it mean to be Jewish and on the left today? — speakers: Alona Ferber, Sam Adler-Bell, Howard Jacobson, Being Jewish, Anoosh Chakelian, Oli Dugmore
-- 2023-12-15 — Who are the 'five families' of the Tory right? | You Ask Us — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-12-14 — First minister Mark Drakeford resigns, what's next for Wales? — speakers: Mark Drakeford, Matt Hexter, Welsh Labour, Anoosh Chakelian, Oli Dugmore
-- 2023-12-11 — Why don't politicians care about happiness? With Richard Layard and Armando Iannucci | Westminster Reimagined — speakers: Richard Layard, Armando Iannucci, Westminster Reimagined Thurrock, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
-- 2023-12-09 — Is the NHS stuck on life support? — speakers: Isabel Hardman, Phil Whitaker, Anoosh Chakelian, Oli Dugmore
-- 2023-12-08 — A week inside frantic Tory migration plans — speakers: James Cleverly, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-12-07 — "B*llocks": Boris Johnson at the Covid inquiry — speakers: Rachel Cunliffe, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-12-04 — Is British democracy under threat? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Simon Woolley, Graham Smith, Anoosh Chakelian, Oli Dugmore
-- 2023-12-02 — The housing crash is just beginning — speakers: Will Dunn, Ellen Peirson-Hagger, Anoosh Chakelian, Oli Dugmore
-- 2023-12-01 — The most misleading phrases in political journalism | You Ask Us — speakers: Andrew Marr, Zoë Grunëwald, Anoosh Chakelian, Oli Dugmore
+- 2023-12-20 — Labour's mission to make Britain a clean energy super power | Sponsored — speakers: New Statesman Media Group, Anoosh Chakelian, Oli Dugmore
+- 2023-12-18 — What's gone wrong with political journalism in the UK? With Ash Sarkar, Ian Dunt and Armando Iannucci | Westminster Reimagined — speakers: Ash Sarkar, Ian Dunt, Armando Iannucci, Anoosh Chakelian, Oli Dugmore
+- 2023-12-16 — What does it mean to be Jewish and on the left today? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-12-15 — Who are the 'five families' of the Tory right? | You Ask Us — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-12-14 — First minister Mark Drakeford resigns, what's next for Wales? — speakers: Mark Drakeford, Anoosh Chakelian, Oli Dugmore
+- 2023-12-11 — Why don't politicians care about happiness? With Richard Layard and Armando Iannucci | Westminster Reimagined — speakers: Richard Layard, Armando Iannucci, Westminster Reimagined Thurrock, Anoosh Chakelian, Oli Dugmore
+- 2023-12-09 — Is the NHS stuck on life support? — speakers: Cambridge Literary Festival, Anoosh Chakelian, Oli Dugmore
+- 2023-12-08 — A week inside frantic Tory migration plans — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-12-07 — "B*llocks": Boris Johnson at the Covid inquiry — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-12-04 — Is British democracy under threat? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2023-12-02 — The housing crash is just beginning — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-12-01 — The most misleading phrases in political journalism | You Ask Us — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
 - 2023-11-30 — Tories shaken by record high migration — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2023-11-29 — Can older workers fix the economy? | Sponsored — speakers: Becky Slack, Alison McGovern, Neil Carberry, Claire Hawkins, Anoosh Chakelian, Oli Dugmore
+- 2023-11-29 — Can older workers fix the economy? | Sponsored — speakers: Sponsored Since, Anoosh Chakelian, Oli Dugmore
 - 2023-11-27 — How do Gen Z want to vote? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
-- 2023-11-25 — 100 years of British political nightmares — speakers: Phil Tinline, Anoosh Chakelian, Oli Dugmore
-- 2023-11-24 — Are we poorer than we were in 2010? | You Ask Us — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-11-23 — Autumn Statement: "A whacking great return to austerity" — speakers: Jeremy Hunt, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-11-20 — Is Britain really great? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Alex von Tunzelmann, Ivan Rogers, Oli Dugmore
-- 2023-11-18 — Iran's interest in Israel, with former ambassador John Jenkins — speakers: John Jenkins, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2023-11-17 — You Ask Us: How is a foreign secretary's success judged? Will Labour reform the Lords? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-11-16 — Rwanda, resignations, and a rancorous letter — speakers: Suella Braverman, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2023-11-25 — 100 years of British political nightmares — speakers: Great Depression, Anoosh Chakelian, Oli Dugmore
+- 2023-11-24 — Are we poorer than we were in 2010? | You Ask Us — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-11-23 — Autumn Statement: "A whacking great return to austerity" — speakers: Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
+- 2023-11-20 — Is Britain really great? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2023-11-18 — Iran's interest in Israel, with former ambassador John Jenkins — speakers: John Jenkins, Anoosh Chakelian, Oli Dugmore
+- 2023-11-17 — You Ask Us: How is a foreign secretary's success judged? Will Labour reform the Lords? — speakers: Will Labour, Home Office, Anoosh Chakelian, Oli Dugmore
+- 2023-11-16 — Rwanda, resignations, and a rancorous letter — speakers: Anoosh Chakelian, Oli Dugmore
 - 2023-11-13 — Reshuffle special: (Lord) Cameron returns — speakers: Suella Braverman, Anoosh Chakelian, Oli Dugmore
-- 2023-11-11 — The great private school con | Audio Long Reads — speakers: Rishi Sunak, Melissa Denes, Anoosh Chakelian, Oli Dugmore
-- 2023-11-09 — You Ask Us: why can't Tory MPs behave themselves? — speakers: Michelle Mone, Melissa Denes, Anoosh Chakelian, Oli Dugmore
-- 2023-11-08 — Rishi Sunak's "watered down" Kings Speech pledges — speakers: Rishi Sunak, Charles Iii, Rachel Wearmouth, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2023-11-04 — How Rishi Sunak became the first Silicon Valley prime minister | Audio Long Read — speakers: Rishi Sunak, Musk’s Twitter, James Dale Davidson, William Rees-Mogg, Will Lloyd, Sam Bankman-Fried, Anoosh Chakelian
-- 2023-11-03 — You Ask Us: Why won't the government call for a ceasefire? — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2023-11-02 — The Covid Inquiry: Inside a toxic government — speakers: Emma Norris, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-11-01 — Solving lung cancer inequality | Sponsored — speakers: Becky Slack, David Baldwin, Lorraine Dallas, David Long, Anoosh Chakelian, Oli Dugmore
-- 2023-10-31 — Andrew Marr: War, conspiracies and the "cloud of unknowing" — speakers: Andrew Marr, Malcolm Roberts, Anoosh Chakelian, Oli Dugmore
-- 2023-10-28 — Israel, Hamas and the unravelling of the West | Audio Long Read — speakers: John Gray, Emmanuel Macron, Melissa Denes, Anoosh Chakelian, Oli Dugmore
-- 2023-10-27 — One year of Rishi Sunak: what has he achieved? — speakers: Rishi Sunak, Rachel Wearmouth, Zoë Grunëwald, Anoosh Chakelian, Oli Dugmore
-- 2023-10-26 — Will Labour unity break over Israel-Hamas? — speakers: Will Labour, Jeremy Corbyn, Rachel Wearmouth, Zoë Grunëwald, Anoosh Chakelian, Oli Dugmore
-- 2023-10-23 — The Israel war is a "global terror risk" — speakers: Bruce Hoffman, Katie Stallard, Anoosh Chakelian, Oli Dugmore
-- 2023-10-20 — Two for two: Labour's by-election clean sweep — speakers: Rachel Cunliffe, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2023-10-19 — Humza Yousaf is preparing the SNP for heavy losses — speakers: Chris Deerin, Anoosh Chakelian, Rachel Wearmouth, Oli Dugmore
-- 2023-10-18 — Why web browsers are key to cyber security | Sponsored — speakers: Emily Stark, Becky Slack, Matt Hasker, Anoosh Chakelian, Oli Dugmore
-- 2023-10-16 — War in Israel and Palestine: could it spread? — speakers: Katie Stallard, Lina Khatib, Anoosh Chakelian, Oli Dugmore
-- 2023-10-14 — Has your AI therapist got your back? | Audio Long Read — speakers: Jenny Kleeman, Zoe Grunewald, Sophie McBain, Anoosh Chakelian, Oli Dugmore
-- 2023-10-13 — You Ask Us: Is Sunak a tech bro? Is Paddington a centrist? — speakers: Rishi Sunak, Anoosh Chakelian, Zoë Grünewald, Will Dunn, Oli Dugmore
-- 2023-10-11 — Tackling the digital divide through partnership | Sponsored — speakers: Jon Bernstein, Martin McFadyen, Emma Stone, Emma Weston, Holly Smith, Anoosh Chakelian, Oli Dugmore
-- 2023-10-10 — Keir Starmer: "half fabulous, half ready to fight" — speakers: Anoosh Chakelian, Rachel Wearmouth, Oli Dugmore
-- 2023-10-09 — Rachel Reeves: 7 standing ovations but no big new policies — speakers: Rachel Reeves, Darren Jones, Rachel Wearmouth, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-10-07 — How Britain became a dangerous place to have a baby — speakers: Donna Ockenden, Alona Ferber, Anoosh Chakelian, Oli Dugmore
-- 2023-10-06 — Labour takes Rutherglen: the end of SNP domination? — speakers: Ben Walker, Chris Deerin, Anoosh Chakelian, Oli Dugmore
-- 2023-10-05 — Is Suella Braverman the future of the Conservative Party? — speakers: Rishi Sunak, HS Manchester, Rachel Wearmouth, Zoë Grünewald, Suella Braverman, Anoosh Chakelian, Oli Dugmore
-- 2023-10-03 — How thriving cities can unlock productivity | Sponsored — speakers: Tom Riordan, Katie Johnston, Anoosh Chakelian, Oli Dugmore
-- 2023-10-02 — Soft-launching the end of HS2 — speakers: Rachel Cunliffe, Freddie Hayward, Rachel Wearmouth, HS Manchester, Anoosh Chakelian, Oli Dugmore
-- 2023-09-30 — A year inside GB News: "what the hell have we done?" — speakers: Laurence Fox, Ava Evans, Dan Wootton, Stuart McGurk, Clive Martin, Anoosh Chakelian, Oli Dugmore
-- 2023-09-29 — You Ask Us: What was behind Suella Braverman's speech on immigration? — speakers: Zoë Grünewald, Anoosh Chakelian, Oli Dugmore
-- 2023-09-28 — Who really controls Britain's right wing? — speakers: George Eaton, Anoosh Chakelilan, Anoosh Chakelian, Oli Dugmore
-- 2023-09-25 — IQ fetishism, in Silicon Valley and beyond — speakers: Quinn Slobodian, Anoosh Chakelian, Oli Dugmore
-- 2023-09-23 — The philosopher and the crypto king: Sam Bankman-Fried and the effective altruism delusion | Audio Long Read — speakers: Sam Bankman-Fried, Sophie McBain, William MacAskill, Jenny Kleeman, Anoosh Chakelian, Oli Dugmore
-- 2023-09-22 — You Ask Us: How might a Labour government manage a Trump government? — speakers: Jeremy Hunt, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2023-09-21 — Rishi Sunak and his environmental straw men — speakers: Rishi Sunak, Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2023-11-11 — The great private school con | Audio Long Reads — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-11-09 — You Ask Us: why can't Tory MPs behave themselves? — speakers: Michelle Mone, Anoosh Chakelian, Oli Dugmore
+- 2023-11-08 — Rishi Sunak's "watered down" Kings Speech pledges — speakers: Charles Iii, Anoosh Chakelian, Oli Dugmore
+- 2023-11-04 — How Rishi Sunak became the first Silicon Valley prime minister | Audio Long Read — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-11-03 — You Ask Us: Why won't the government call for a ceasefire? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-11-02 — The Covid Inquiry: Inside a toxic government — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-11-01 — Solving lung cancer inequality | Sponsored — speakers: Sponsored Lung, Anoosh Chakelian, Oli Dugmore
+- 2023-10-31 — Andrew Marr: War, conspiracies and the "cloud of unknowing" — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2023-10-28 — Israel, Hamas and the unravelling of the West | Audio Long Read — speakers: Audio Long Read What, Anoosh Chakelian, Oli Dugmore
+- 2023-10-27 — One year of Rishi Sunak: what has he achieved? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-10-26 — Will Labour unity break over Israel-Hamas? — speakers: Will Labour, Anoosh Chakelian, Oli Dugmore
+- 2023-10-23 — The Israel war is a "global terror risk" — speakers: Bruce Hoffman, Anoosh Chakelian, Oli Dugmore
+- 2023-10-20 — Two for two: Labour's by-election clean sweep — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-10-19 — Humza Yousaf is preparing the SNP for heavy losses — speakers: Chris Deerin, Anoosh Chakelian, Oli Dugmore
+- 2023-10-18 — Why web browsers are key to cyber security | Sponsored — speakers: Sponsored Cyber, Anoosh Chakelian, Oli Dugmore
+- 2023-10-16 — War in Israel and Palestine: could it spread? — speakers: Katie Stallard, Anoosh Chakelian, Oli Dugmore
+- 2023-10-14 — Has your AI therapist got your back? | Audio Long Read — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-10-13 — You Ask Us: Is Sunak a tech bro? Is Paddington a centrist? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-10-11 — Tackling the digital divide through partnership | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-10-10 — Keir Starmer: "half fabulous, half ready to fight" — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-10-09 — Rachel Reeves: 7 standing ovations but no big new policies — speakers: Rachel Reeves, Darren Jones, Anoosh Chakelian, Oli Dugmore
+- 2023-10-07 — How Britain became a dangerous place to have a baby — speakers: How Britain, Care Quality Commission, Anoosh Chakelian, Oli Dugmore
+- 2023-10-06 — Labour takes Rutherglen: the end of SNP domination? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-10-05 — Is Suella Braverman the future of the Conservative Party? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-10-03 — How thriving cities can unlock productivity | Sponsored — speakers: Sponsored Economic, Anoosh Chakelian, Oli Dugmore
+- 2023-10-02 — Soft-launching the end of HS2 — speakers: Conservative Party, Anoosh Chakelian, Oli Dugmore
+- 2023-09-30 — A year inside GB News: "what the hell have we done?" — speakers: Audio Long Read, Anoosh Chakelian, Oli Dugmore
+- 2023-09-29 — You Ask Us: What was behind Suella Braverman's speech on immigration? — speakers: Suella Braverman, Anoosh Chakelian, Oli Dugmore
+- 2023-09-28 — Who really controls Britain's right wing? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-09-25 — IQ fetishism, in Silicon Valley and beyond — speakers: Silicon Valley, Anoosh Chakelian, Oli Dugmore
+- 2023-09-23 — The philosopher and the crypto king: Sam Bankman-Fried and the effective altruism delusion | Audio Long Read — speakers: Sam Bankman-Fried, Anoosh Chakelian, Oli Dugmore
+- 2023-09-22 — You Ask Us: How might a Labour government manage a Trump government? — speakers: into view, Anoosh Chakelian, Oli Dugmore
+- 2023-09-21 — Rishi Sunak and his environmental straw men — speakers: Anoosh Chakelian, Oli Dugmore
 - 2023-09-18 — Trussonomics isn't dead — speakers: Anoosh Chakelian, Oli Dugmore
-- 2023-09-16 — How Chile (almost) democratised Big Tech | Audio Long Read — speakers: Salvador Allende, Augusto Pinochet, Evgeny Morozov, Anoosh Chakelian, Oli Dugmore
-- 2023-09-15 — You Ask Us: Why are so many councils going bust? — speakers: Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2023-09-14 — Angela Rayner can’t let the unions down now — speakers: Angela Rayner, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2023-09-13 — Legacy tech & the move to sustainable computing | Sponsored — speakers: Becky Slack, Michael Wyatt, Justin Sutton-Parker, Anoosh Chakelian, Oli Dugmore
-- 2023-09-11 — Britain's great tax delusion — speakers: Rishi Sunak, Rachel Reeves, Harry Lambert, Anoosh Chakelian, Oli Dugmore
-- 2023-09-09 — The prime minister and the AI that solved the climate crisis — speakers: Will Dunn, Edward Docx, Anoosh Chakelian, Oli Dugmore
-- 2023-09-08 — Crumbling Britain, with Andrew Marr — speakers: Andrew Marr, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-09-07 — You Ask Us: The big Labour reshuffle, promotions and demotions — speakers: Angela Rayner, Lisa Nandy, Zoë Grünewald, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-09-04 — The trappings of Western hyper-liberalism | Conversation — speakers: Will Lloyd, John Gray, Thomas Hobbes, Anoosh Chakelian, Oli Dugmore
-- 2023-09-02 — Summer of Light: a new short story by Jonathan Coe | Audio Long Read — speakers: Jonathan Coe, Tom Gatti, Sarah Hall, Anoosh Chakelian, Oli Dugmore
-- 2023-09-01 — You Ask Us: if you're a centrist politician, how do you choose one party over another? — speakers: Rory Stewart, Alastair Campbell, Rachel Cunliffe, Zoë Grünewald, Anoosh Chakelian, Oli Dugmore
-- 2023-08-31 — Ben Wallace and Nadine Dorries, the long goodbye — speakers: Ben Wallace, Rishi Sunak, Grant Shapps, Rachel Cunliffe, Zoë Grünewald, Anoosh Chakelian, Oli Dugmore
-- 2023-08-26 — Escaping Eden: life after the Plymouth Brethren | Audio Long Reads — speakers: Pippa Bailey, Stuart McGurk, Anoosh Chakelian, Oli Dugmore
-- 2023-08-25 — You Ask Us: will Labour stop the culture wars, and does the government control what journalists report? — speakers: Anoosh Chakelian, Rachel Cunliffe, Oli Dugmore
-- 2023-08-24 — Have Conservatives forgotten education? — speakers: Anoosh Chakelian, Rachel Cunliffe, Michael Gove, Oli Dugmore
-- 2023-08-21 — Russia’s war on the future | Conversation — speakers: Katie Stallard, Vladimir Putin, Megan Gibson, Anoosh Chakelian, Oli Dugmore
-- 2023-08-19 — In defence of counterfactual history | Audio Long Read — speakers: Jeremy Cliffe, Chris Stone, Thomas Mann, Anoosh Chakelian, Oli Dugmore
-- 2023-08-18 — You Ask Us: Should it be easier to recall MPs, and how do Rishi Sunak and John Major compare? — speakers: Rishi Sunak, John Major, Various MPs, Anoosh Chakelian, Oli Dugmore
-- 2023-08-17 — Labour’s caution could turn to radicalism in office — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-09-16 — How Chile (almost) democratised Big Tech | Audio Long Read — speakers: Salvador Allende, Anoosh Chakelian, Oli Dugmore
+- 2023-09-15 — You Ask Us: Why are so many councils going bust? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-09-14 — Angela Rayner can’t let the unions down now — speakers: Angela Rayner, Anoosh Chakelian, Oli Dugmore
+- 2023-09-13 — Legacy tech & the move to sustainable computing | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-09-11 — Britain's great tax delusion — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-09-09 — The prime minister and the AI that solved the climate crisis — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-09-08 — Crumbling Britain, with Andrew Marr — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2023-09-07 — You Ask Us: The big Labour reshuffle, promotions and demotions — speakers: Angela Rayner, Lisa Nandy, Anoosh Chakelian, Oli Dugmore
+- 2023-09-04 — The trappings of Western hyper-liberalism | Conversation — speakers: Will Lloyd, John Gray, Anoosh Chakelian, Oli Dugmore
+- 2023-09-02 — Summer of Light: a new short story by Jonathan Coe | Audio Long Read — speakers: Jonathan Coe, Anoosh Chakelian, Oli Dugmore
+- 2023-09-01 — You Ask Us: if you're a centrist politician, how do you choose one party over another? — speakers: Rory Stewart, Alastair Campbell, Anoosh Chakelian, Oli Dugmore
+- 2023-08-31 — Ben Wallace and Nadine Dorries, the long goodbye — speakers: Ben Wallace, Anoosh Chakelian, Oli Dugmore
+- 2023-08-26 — Escaping Eden: life after the Plymouth Brethren | Audio Long Reads — speakers: Escaping Eden, Plymouth Brethren, Anoosh Chakelian, Oli Dugmore
+- 2023-08-25 — You Ask Us: will Labour stop the culture wars, and does the government control what journalists report? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-08-24 — Have Conservatives forgotten education? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-08-21 — Russia’s war on the future | Conversation — speakers: Conversation After, Anoosh Chakelian, Oli Dugmore
+- 2023-08-19 — In defence of counterfactual history | Audio Long Read — speakers: Audio Long Read What, Berlin Crisis, Anoosh Chakelian, Oli Dugmore
+- 2023-08-18 — You Ask Us: Should it be easier to recall MPs, and how do Rishi Sunak and John Major compare? — speakers: John Major, Various MPs, Anoosh Chakelian, Oli Dugmore
+- 2023-08-17 — Labour’s caution could turn to radicalism in office — speakers: Would Labour, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
 - 2023-08-14 — Where do Labour and the Tories differ on growth? With Bridget Phillipson and Bim Afolami | Conversation — speakers: Bridget Phillipson, Bim Afolami, Anoosh Chakelian, Oli Dugmore
-- 2023-08-12 — What Simone De Beauvoir knew about loss, by Ali Smith | Audio Long Read — speakers: Ali Smith, Anna Leszkiewicz, Karl Ove Knausgaard, Anoosh Chakelian, Oli Dugmore
+- 2023-08-12 — What Simone De Beauvoir knew about loss, by Ali Smith | Audio Long Read — speakers: Ali Smith, Anoosh Chakelian, Oli Dugmore
 - 2023-08-11 — You Ask Us: Is Starmer haunted by Blair, and how do you raise voter turnout? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2023-08-10 — Rishi Sunak's asylum policy is all at sea — speakers: Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-08-07 — The Trump trial and the internet conspiracy infecting the world | Conversation — speakers: Rachel Cunliffe, James Ball, Anoosh Chakelian, Oli Dugmore
-- 2023-08-05 — George Monbiot: how I escape climate despair | Audio Long Read — speakers: George Monbiot, Chris Stone, Rebecca Solnit, Anoosh Chakelian, Oli Dugmore
+- 2023-08-10 — Rishi Sunak's asylum policy is all at sea — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-08-07 — The Trump trial and the internet conspiracy infecting the world | Conversation — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-08-05 — George Monbiot: how I escape climate despair | Audio Long Read — speakers: George Monbiot, Anoosh Chakelian, Oli Dugmore
 - 2023-08-04 — You Ask Us: Is a new party possible, and has Andy Burnham avoided policing scandal? — speakers: Andy Burnham, Anoosh Chakelian, Ben Walker, Oli Dugmore
-- 2023-08-03 — Rutherglen by-election: Labour’s key to unlock Scotland? — speakers: Margaret Ferrier, Hamilton West, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2023-07-31 — All politics is local, with Westminster council leader Adam Hug — speakers: Adam Hug, Anoosh Chakelian, Harry Lambert, Oli Dugmore
-- 2023-07-29 — The 1922 committee: inside the Conservatives’ assassination bureau | Audio Long Read — speakers: Margaret Thatcher, Rishi Sunak, Tanya Gold, Bruce Springsteen, Rachel Cunliffe, Prince William
-- 2023-07-28 — You Ask Us: How would a Lib Dem return change parliament? And why Liz Truss was worse for Labour. — speakers: Lib Dem, Lib Dems, Anoosh Chakelian, Oli Dugmore
+- 2023-08-03 — Rutherglen by-election: Labour’s key to unlock Scotland? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-07-31 — All politics is local, with Westminster council leader Adam Hug — speakers: Adam Hug, Anoosh Chakelian, Oli Dugmore
+- 2023-07-29 — The 1922 committee: inside the Conservatives’ assassination bureau | Audio Long Read — speakers: Conservative Private Members Committee, Anoosh Chakelian, Oli Dugmore
+- 2023-07-28 — You Ask Us: How would a Lib Dem return change parliament? And why Liz Truss was worse for Labour. — speakers: Lib Dem, Anoosh Chakelian, Oli Dugmore
 - 2023-07-27 — Are Labour and the Tories u-turning on green policies? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2023-07-24 — What does a think tank actually do? — speakers: Rachel Cunliffe, Robert Colvile, Matthew Lawrence, Common Wealth Submit, Anoosh Chakelian, Oli Dugmore
-- 2023-07-22 — How Saudi Arabia is buying the world | Audio Long Read — speakers: Mohammed bin Salman, Chris Stone, Jeremy Cliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-07-21 — By-election special: Tory wipeout, interrupted — speakers: Rishi Sunak, Rachel Cunliffe, Anoosh Chakelian, Rachel Wearmouth, Ben Walker, Oli Dugmore
-- 2023-07-20 — You Ask Us: Why won't Keir Starmer undo the two-child cap - and can we fix rip-off banks? — speakers: George Osborne, Angela Rayner, Anoosh Chakelian, Rachel Wearmouth, Rachel Cunliffe, Will Dunn, Morning Call
-- 2023-07-17 — Brexit "has broken Britain" - Stephen Flynn interview — speakers: Stephen Flynn, Zoë Grünewald, Morning Call, Anoosh Chakelian, Oli Dugmore
-- 2023-07-15 — The Spanish election reveals the future of Europe | Audio Long Read — speakers: Pedro Sánchez, Jeremy Cliffe, Silvio Berlusconi, Chris Stone, Anoosh Chakelian, Oli Dugmore
-- 2023-07-14 — You Ask Us: Who replaces Rishi Sunak – and could Labour MPs defect? — speakers: Rishi Sunak, Anoosh Chakelian, Rachel Wearmouth, Zoë Grünewald, Read Zoë, David Blunkett, Morning Call
-- 2023-07-13 — Are Labour's missions enough - and is a reshuffle ahead? — speakers: Zoë Grünewald, Rachel Wearmouth, Morning Call, Anoosh Chakelian, Oli Dugmore
-- 2023-07-10 — The Keir Starmer interview: “my mortgage is up – and Sunak doesn’t get it.” — speakers: Rachel Wearmouth, Rishi Sunak, Morning Call, com Subscribe, Anoosh Chakelian, Oli Dugmore
-- 2023-07-07 — You Ask Us: Will Keir Starmer do electoral reform - and Andy Burnham ever be Prime Minister? — speakers: Andy Burnham, Morning Call, com Subscribe, Anoosh Chakelian, Oli Dugmore
-- 2023-07-06 — Why Britain is broke, with Ed Conway — speakers: Ed Conway, Rishi Sunak, Read Ed Conway, Morning Call, com Subscribe, Anoosh Chakelian, Oli Dugmore
-- 2023-07-03 — Russia's new Time of Troubles – with Vladislav Zubok — speakers: Vladislav Zubok, Katie Stallard, Vladimir Putin, Anoosh Chakelian, Oli Dugmore
-- 2023-07-01 — Can Wes Streeting save the NHS? — speakers: Wes Streeting, Phil Whitaker, Anoosh Chakelian, Oli Dugmore
-- 2023-06-30 — You Ask Us: Will there be another “Portillo moment” – and could rural England vote Labour? — speakers: Ben Walker, Lib Dems, Anoosh Chakelian, Oli Dugmore
-- 2023-06-29 — Nicola Sturgeon’s encore – and Humza Yousaf’s new(-ish) plan for independence — speakers: Chris Deerin, Anoosh Chakelian, Rachel Wearmouth, Oli Dugmore
-- 2023-06-26 — Why do newspaper endorsements still matter? — speakers: Will Turvill, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-06-23 — You Ask Us: What next for Boris Johnson – and Angela Rayner — speakers: Angela Rayner, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2023-06-22 — Rishi Sunak’s inflation pledge backfires — speakers: Rishi Sunak, Anoosh Chakelian, Andrew Marr, Rachel Wearmouth, Oli Dugmore
-- 2023-06-21 — How trailblazers are using smart meters to make the switch to net zero | Sponsored — speakers: Becky Slack, Andy Maybury, Sara Higham, Anoosh Chakelian, Oli Dugmore
+- 2023-07-24 — What does a think tank actually do? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-07-22 — How Saudi Arabia is buying the world | Audio Long Read — speakers: How Saudi Arabia, Audio Long Read When, Anoosh Chakelian, Oli Dugmore
+- 2023-07-21 — By-election special: Tory wipeout, interrupted — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-07-20 — You Ask Us: Why won't Keir Starmer undo the two-child cap - and can we fix rip-off banks? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-07-17 — Brexit "has broken Britain" - Stephen Flynn interview — speakers: Stephen Flynn, Zoë Grünewald, Anoosh Chakelian, Oli Dugmore
+- 2023-07-15 — The Spanish election reveals the future of Europe | Audio Long Read — speakers: Pedro Sánchez, Anoosh Chakelian, Oli Dugmore
+- 2023-07-14 — You Ask Us: Who replaces Rishi Sunak – and could Labour MPs defect? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-07-13 — Are Labour's missions enough - and is a reshuffle ahead? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-07-10 — The Keir Starmer interview: “my mortgage is up – and Sunak doesn’t get it.” — speakers: Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
+- 2023-07-07 — You Ask Us: Will Keir Starmer do electoral reform - and Andy Burnham ever be Prime Minister? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
+- 2023-07-06 — Why Britain is broke, with Ed Conway — speakers: Ed Conway, Anoosh Chakelian, Oli Dugmore
+- 2023-07-03 — Russia's new Time of Troubles – with Vladislav Zubok — speakers: Vladislav Zubok, Global Af, Anoosh Chakelian, Oli Dugmore
+- 2023-07-01 — Can Wes Streeting save the NHS? — speakers: Wes Streeting, Anoosh Chakelian, Oli Dugmore
+- 2023-06-30 — You Ask Us: Will there be another “Portillo moment” – and could rural England vote Labour? — speakers: Ben Walker, Anoosh Chakelian, Oli Dugmore
+- 2023-06-29 — Nicola Sturgeon’s encore – and Humza Yousaf’s new(-ish) plan for independence — speakers: Nicola Sturgeon, Humza Yousaf, Following Nicola Sturgeon, New Statesman, Anoosh Chakelian, Oli Dugmore
+- 2023-06-26 — Why do newspaper endorsements still matter? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-06-23 — You Ask Us: What next for Boris Johnson – and Angela Rayner — speakers: Angela Rayner, Anoosh Chakelian, Oli Dugmore
+- 2023-06-22 — Rishi Sunak’s inflation pledge backfires — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-06-21 — How trailblazers are using smart meters to make the switch to net zero | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
 - 2023-06-19 — Is Keir Starmer a radical or conservative? With his former aide Claire Ainsley — speakers: Claire Ainsley, Anoosh Chakelian, Oli Dugmore
 - 2023-06-16 — You Ask Us: Could Sadiq Khan lose, and is Britain the new Poland? — speakers: Anoosh Chakelian, Rachel Wearmouth, Oli Dugmore
-- 2023-06-15 — Boris Johnson: the verdict — speakers: Rachel Wearmouth, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-06-13 — SPOTLIGHT: Can redesigning cities boost economic growth and happiness? — speakers: Sarah Dawood, Karen Finlayson, Huw Thomas, Katie Trout, Anoosh Chakelian, Oli Dugmore
-- 2023-06-12 — Boris Johnson resigns and Nicola Sturgeon is arrested — speakers: Anoosh Chakelian, Rachel Wearmouth, Ben Walker, Humza Yousaf, Rishi Sunak, Oli Dugmore
-- 2023-06-09 — Why is Caroline Lucas standing down? — speakers: Caroline Lucas, Rachel Wearmouth, Jamie Driscoll, Anoosh Chakelian, Oli Dugmore
-- 2023-06-08 — The real Rachel Reeves — speakers: Rachel Reeves, Jason Cowley, Anoosh Chakelian, Rachel Wearmouth, Oli Dugmore
-- 2023-06-05 — What’s gone wrong with British policing? — speakers: Anoosh Chakelian, Matt Lloyd-Rose, Oli Dugmore
+- 2023-06-15 — Boris Johnson: the verdict — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-06-13 — SPOTLIGHT: Can redesigning cities boost economic growth and happiness? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-06-12 — Boris Johnson resigns and Nicola Sturgeon is arrested — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-06-09 — Why is Caroline Lucas standing down? — speakers: Caroline Lucas, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
+- 2023-06-08 — The real Rachel Reeves — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2023-06-05 — What’s gone wrong with British policing? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2023-06-01 — Is greed driving inflation? — speakers: Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2023-05-29 — Is there a future for moderates in the Conservative Party? — speakers: Zoë Grünewald, Benedict Spence, Ryan Shorthouse, Anoosh Chakelian, Oli Dugmore
-- 2023-05-25 — Does unionism have a future in Northern Ireland? — speakers: Rachel Wearmouth, Sam McBride, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-05-22 — Is Westminster broken? — speakers: Harry Lambert, Ian Dunt, Paul Johnson’s Follow, Anoosh Chakelian, Oli Dugmore
-- 2023-05-18 — Who holds the power on the left? — speakers: George Eaton, Anoosh Chakelian, Rachel Wearmouth, Oli Dugmore
-- 2023-05-17 — SPOTLIGHT: How Smart Meters help small businesses — speakers: Josh Kay, Victoria Bacon, Smart Meters, Anoosh Chakelian, Oli Dugmore
+- 2023-05-29 — Is there a future for moderates in the Conservative Party? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-05-25 — Does unionism have a future in Northern Ireland? — speakers: Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
+- 2023-05-22 — Is Westminster broken? — speakers: Harry Lambert, Anoosh Chakelian, Oli Dugmore
+- 2023-05-18 — Who holds the power on the left? — speakers: New Statesman, Left Power List, Anoosh Chakelian, Oli Dugmore
+- 2023-05-17 — SPOTLIGHT: How Smart Meters help small businesses — speakers: energy prices, Anoosh Chakelian, Oli Dugmore
 - 2023-05-16 — BONUS: Have the Conservatives already lost the next election? With Andrew Marr and David Gauke — speakers: Andrew Marr, David Gauke, Anoosh Chakelian, Oli Dugmore
-- 2023-05-15 — The art of the political interview – with Rob Burley — speakers: Rob Burley, Jeremy Paxman, Andrew Neil, Emily Maitlis, Andrew Marr, Beth Rigby, Rachel Cunliffe, Brian Walden
-- 2023-05-11 — Is Labour heading for a majority after all? — speakers: Rachel Wearmouth, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2023-05-08 — Is it time to abolish the monarchy - Recorded live at the Cambridge literary Festival — speakers: Tanya Gold, Anna Whitelock, Gary Younge, Robert Hardman, Andrew Marr, Tanjil Rashid, Anoosh Chakelian, Oli Dugmore
-- 2023-05-05 — A bad night for the Conservatives at the local elections — speakers: Rachel Wearmouth, Ben Walker, Lib Dems, Anoosh Chakelian, Oli Dugmore
-- 2023-05-01 — Are the Tories failing children? — speakers: Anoosh Chakelian, Rachel Cunliffe, Zoë Grünewald, Rachel de Souza, De Souza, Oli Dugmore
-- 2023-04-27 — The writer at the centre of the Diane Abbott row — speakers: Diane Abbott, Jeremy Corbyn, Anoosh Chakelian, Huw Pill, Oli Dugmore
-- 2023-04-24 — Is Rishi Sunak reviving the Tories? Live at the Cambridge Literary Festival — speakers: Rishi Sunak, Ben Walker, Dominic Raab, Anoosh Chakelian, Oli Dugmore
-- 2023-04-20 — From election fever in England to SNP turmoil in Scotland — speakers: Rachel Wearmouth, Ben Walker, Chris Deerin, Anoosh Chakelian, Oli Dugmore
-- 2023-04-17 — Can we restore faith in parliament? With Hannah White — speakers: Hannah White, Zoë Grünewald, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-04-13 — Joe Biden’s visit exposes the UK’s Brexit impasse — speakers: Rachel Wearmouth, Megan Gibson, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-04-11 — Spotlight: How Smart Meters can help with the energy crisis — speakers: Anna Moss, Smart Meters, Anoosh Chakelian, Oli Dugmore
-- 2023-04-10 — The New Statesman political editors’ reunion: covering Westminster from Thatcher to Sunak — speakers: Patrick Wintour, Sarah Baxter, Steve Richards, Jackie Ashley, Mehdi Hasan, Helen Lewis, Stephen Bush, Andrew Marr
-- 2023-04-07 — Is the Good Friday Agreement under threat? With Jonathan Powell — speakers: Jonathan Powell, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2023-04-06 — Dover delays, the Brexit taboo and Stevenage Woman — speakers: Suella Braverman, Anoosh Chakelian, Zoë Grünewald, Ben Walker, Oli Dugmore
-- 2023-04-03 — Are social conservatives the future of British politics? — speakers: Rachel Wearmouth, Rachel Cunliffe, Ben Walker, Henry Hill, Kate Forbes, Anoosh Chakelian, Oli Dugmore
-- 2023-03-30 — Tough on crime? Britain’s new political battleground — speakers: Michael Gove, Anoosh Chakelian, Rachel Wearmouth, Zoë Grünewald, Rishi Sunak, Jeremy Corbyn, Oli Dugmore
+- 2023-05-15 — The art of the political interview – with Rob Burley — speakers: Rob Burley, Jeremy Paxman, Anoosh Chakelian, Oli Dugmore
+- 2023-05-11 — Is Labour heading for a majority after all? — speakers: Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
+- 2023-05-08 — Is it time to abolish the monarchy - Recorded live at the Cambridge literary Festival — speakers: New Statesman, Anoosh Chakelian, Oli Dugmore
+- 2023-05-05 — A bad night for the Conservatives at the local elections — speakers: Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
+- 2023-05-01 — Are the Tories failing children? — speakers: Anoosh Chakelian, Rachel Cunliffe, Zoë Grünewald, Oli Dugmore
+- 2023-04-27 — The writer at the centre of the Diane Abbott row — speakers: Diane Abbott, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2023-04-24 — Is Rishi Sunak reviving the Tories? Live at the Cambridge Literary Festival — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-04-20 — From election fever in England to SNP turmoil in Scotland — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-04-17 — Can we restore faith in parliament? With Hannah White — speakers: Hannah White, Anoosh Chakelian, Oli Dugmore
+- 2023-04-13 — Joe Biden’s visit exposes the UK’s Brexit impasse — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-04-11 — Spotlight: How Smart Meters can help with the energy crisis — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-04-10 — The New Statesman political editors’ reunion: covering Westminster from Thatcher to Sunak — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-04-07 — Is the Good Friday Agreement under threat? With Jonathan Powell — speakers: Jonathan Powell, Anoosh Chakelian, Oli Dugmore
+- 2023-04-06 — Dover delays, the Brexit taboo and Stevenage Woman — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-04-03 — Are social conservatives the future of British politics? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-03-30 — Tough on crime? Britain’s new political battleground — speakers: Anoosh Chakelian, Oli Dugmore
 - 2023-03-29 — How Brexit remade the Conservative Party, with Tim Bale — speakers: Tim Bale, Anoosh Chakelian, Oli Dugmore
-- 2023-03-27 — What Humza Yousaf means for the SNP, Scottish independence and Labour — speakers: Kate Forbes, Chris Deerin, Anoosh Chakelian, Oli Dugmore
+- 2023-03-27 — What Humza Yousaf means for the SNP, Scottish independence and Labour — speakers: Kate Forbes, Anoosh Chakelian, Oli Dugmore
 - 2023-03-23 — Is the era of Boris and Brexit over? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2023-03-20 — Childcare gets top billing in the Budget, but will it work? — speakers: Jeremy Hunt, Rachel Cunliffe, Zoë Grünewald, Alona Ferber, Anoosh Chakelian, Oli Dugmore
-- 2023-03-16 — What’s behind the Budget? With Andrew Marr — speakers: Andrew Marr, Jeremy Hunt, Will Dunn, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2023-03-13 — What’s behind the Tories’ new voter ID laws? — speakers: Rachel Cunliffe, Ben Walker, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-03-09 — Why are women voters moving to the left? — speakers: Zoë Grünewald, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2023-03-08 — BONUS: Britain’s childcare crisis, with Stella Creasy — speakers: Stella Creasy Childcare, Alona Ferber, Stella Creasy, Anoosh Chakelian, Oli Dugmore
-- 2023-03-06 — Could childcare win Labour the next election? — speakers: Rachel Cunliffe, Alona Ferber, Zoë Grünewald, Bridget Phillipson, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-03-02 — What the Brexit deal means for Rishi Sunak – and Keir Starmer — speakers: Rishi Sunak, Rachel Wearmouth, Tory Brexiteers, Anoosh Chakelian, Oli Dugmore
-- 2023-02-27 — Inside Westminster’s warped workplace — speakers: Inside Westminster, Zoë Grünewald, Jenny Symmons, Holly Brazier Tope, Anoosh Chakelian, Oli Dugmore
-- 2023-02-23 — Kate Forbes: How faith can make you political "roadkill", with Tim Farron — speakers: Kate Forbes, Tim Farron, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2023-02-22 — SPOTLIGHT: The autonomous future is nearly here - with Wejo — speakers: Alona Ferber, Richard Barlow, Larry Burns, Alex Kendall, Amanda Stretton, Anoosh Chakelian, Oli Dugmore
-- 2023-02-20 — Will being tough on crime decide the next election? — speakers: Yvette Cooper, Rachel Cunliffe, Rachel Wearmouth, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2023-02-16 — Nicola Sturgeon resigns – what next for Scottish politics? — speakers: Chris Deerin, Anoosh Chakelian, Oli Dugmore
-- 2023-02-13 — An intensive care doctor’s remedy for the NHS, with Jim Down — speakers: Jim Down Ahead, Jim Down, Anoosh Chakelian, Oli Dugmore
-- 2023-02-09 — Will Rishi Sunak’s reshuffle restore his authority? — speakers: Will Rishi Sunak, Rishi Sunak, Anoosh Chakelian, Rachel Wearmouth, Lee Anderson, Oli Dugmore
-- 2023-02-06 — Can we stop the government criminalising protest? With Jodie Beck of Liberty — speakers: Jodie Beck, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2023-02-02 — Rishi Sunak’s first 100 days, with Andrew Marr — speakers: Rishi Sunak, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2023-01-30 — Are the Lib Dems winning here? — speakers: Lib Dem, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2023-01-26 — The return of Tory sleaze — speakers: Rishi Sunak, Anoosh Chakelian, Will Dunn, Richard Sharp, Christopher Harborne, Nadhim Zahawi, Oli Dugmore
-- 2023-01-24 — How to fix the NHS, with Phil Whitaker — speakers: Phil Whitaker, Rachel Cunliffe, Steve Barclay, Wes Streeting, Anoosh Chakelian, Oli Dugmore
-- 2023-01-23 — SPOTLIGHT: Are we there yet?: The EV story - with Wejo — speakers: Alona Ferber, Richard Barlow, Melanie Shufflebotham, Zap Map, Dale Vince, Philipe Vangeel, Anoosh Chakelian
-- 2023-01-19 — From Scotland to Stormont, is Rishi Sunak losing the Union? — speakers: Rishi Sunak, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2023-01-16 — Why Britain’s economy has never been worse, with Duncan Weldon — speakers: Duncan Weldon, Will Dunn, Kwasi Kwarteng, Anoosh Chakelian, Oli Dugmore
-- 2023-01-12 — Is Rishi Sunak's anti-strike law a trap for Labour? — speakers: Rishi Sunak, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2023-01-09 — How do the SNP and Welsh Labour compare with the Tories in England? — speakers: Welsh Labour, Chris Deerin, Matthew Hexter, Anoosh Chakelian, Oli Dugmore
-- 2023-01-05 — Sunak vs Starmer: The battle of the New Year’s speeches — speakers: Rishi Sunak, Anoosh Chakelian, Rachel Cunliffe, Blue Peter, Zoë Grünewald, Oli Dugmore
-- 2023-01-02 — Will Labour change the voting system? — speakers: Will Labour, Jess Garland, Anoosh Chakelian, Oli Dugmore
-- 2022-12-29 — From partygate to Trussonomics, 2022 in review — speakers: Harry Lambert, Lib Dem, Anoosh Chakelian, Oli Dugmore
-- 2022-12-28 — SPOTLIGHT: How connected vehicle data is going to change the world - with Wejo — speakers: Alona Ferber, Richard Barlow, John Stenlake, Peter Van Manen, Anoosh Chakelian, Oli Dugmore
-- 2022-12-26 — The best of culture in 2022 — speakers: Rachel Cunliffe, Tom Gatti, Kate Mossman, Rachel Cooke, Nick Cave, Claire Keegan, May Jonas, Katherine Rundell
-- 2022-12-22 — Rishi Sunak could face more NHS strikes next year — speakers: Rishi Sunak, Zoë Grünewald, Emma Runswick, Wes Streeting, Lib Dems, Anoosh Chakelian, Oli Dugmore
-- 2022-12-19 — Why Love Actually has ruined politics, with Jonn Elledge — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-12-15 — Are strike politics trickier for Rishi Sunak or Keir Starmer? — speakers: Rishi Sunak, Rachel Wearmouth, Wes Streeting, Anoosh Chakelian, Oli Dugmore
+- 2023-03-20 — Childcare gets top billing in the Budget, but will it work? — speakers: Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
+- 2023-03-16 — What’s behind the Budget? With Andrew Marr — speakers: Andrew Marr, Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
+- 2023-03-13 — What’s behind the Tories’ new voter ID laws? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-03-09 — Why are women voters moving to the left? — speakers: Conservative Party, Anoosh Chakelian, Oli Dugmore
+- 2023-03-08 — BONUS: Britain’s childcare crisis, with Stella Creasy — speakers: Stella Creasy Childcare, Anoosh Chakelian, Oli Dugmore
+- 2023-03-06 — Could childcare win Labour the next election? — speakers: Progressive Policy, Anoosh Chakelian, Oli Dugmore
+- 2023-03-02 — What the Brexit deal means for Rishi Sunak – and Keir Starmer — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-02-27 — Inside Westminster’s warped workplace — speakers: Inside Westminster, Zoë Grünewald, Anoosh Chakelian, Oli Dugmore
+- 2023-02-23 — Kate Forbes: How faith can make you political "roadkill", with Tim Farron — speakers: Kate Forbes, Tim Farron, Anoosh Chakelian, Oli Dugmore
+- 2023-02-22 — SPOTLIGHT: The autonomous future is nearly here - with Wejo — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-02-20 — Will being tough on crime decide the next election? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-02-16 — Nicola Sturgeon resigns – what next for Scottish politics? — speakers: Nicola Sturgeon, First Minister, Anoosh Chakelian, Oli Dugmore
+- 2023-02-13 — An intensive care doctor’s remedy for the NHS, with Jim Down — speakers: Jim Down Ahead, Anoosh Chakelian, Oli Dugmore
+- 2023-02-09 — Will Rishi Sunak’s reshuffle restore his authority? — speakers: Will Rishi Sunak, Anoosh Chakelian, Oli Dugmore
+- 2023-02-06 — Can we stop the government criminalising protest? With Jodie Beck of Liberty — speakers: Jodie Beck, Public Ord, Anoosh Chakelian, Oli Dugmore
+- 2023-02-02 — Rishi Sunak’s first 100 days, with Andrew Marr — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2023-01-30 — Are the Lib Dems winning here? — speakers: Lib Dem, Anoosh Chakelian, Oli Dugmore
+- 2023-01-26 — The return of Tory sleaze — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-01-24 — How to fix the NHS, with Phil Whitaker — speakers: Phil Whitaker, Anoosh Chakelian, Oli Dugmore
+- 2023-01-23 — SPOTLIGHT: Are we there yet?: The EV story - with Wejo — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-01-19 — From Scotland to Stormont, is Rishi Sunak losing the Union? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-01-16 — Why Britain’s economy has never been worse, with Duncan Weldon — speakers: Duncan Weldon, Will Dunn, Anoosh Chakelian, Oli Dugmore
+- 2023-01-12 — Is Rishi Sunak's anti-strike law a trap for Labour? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-01-09 — How do the SNP and Welsh Labour compare with the Tories in England? — speakers: Welsh Labour, Anoosh Chakelian, Oli Dugmore
+- 2023-01-05 — Sunak vs Starmer: The battle of the New Year’s speeches — speakers: Anoosh Chakelian, Oli Dugmore
+- 2023-01-02 — Will Labour change the voting system? — speakers: Will Labour, Anoosh Chakelian, Oli Dugmore
+- 2022-12-29 — From partygate to Trussonomics, 2022 in review — speakers: Harry Lambert, Anoosh Chakelian, Oli Dugmore
+- 2022-12-28 — SPOTLIGHT: How connected vehicle data is going to change the world - with Wejo — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-12-26 — The best of culture in 2022 — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2022-12-22 — Rishi Sunak could face more NHS strikes next year — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-12-19 — Why Love Actually has ruined politics, with Jonn Elledge — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-12-15 — Are strike politics trickier for Rishi Sunak or Keir Starmer? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2022-12-12 — What politicians get wrong about immigration, with Sunder Katwala — speakers: Anoosh Chakelian, Oli Dugmore
-- 2022-12-09 — Are British prime ministers too powerful? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Alastair Campbell, Catherine Haddon, Oli Dugmore
-- 2022-12-08 — Is Rishi Sunak’s authority starting to crumble? With Andrew Marr — speakers: Rishi Sunak, Andrew Marr, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2022-12-05 — Can Labour end “trickle-down” education? — speakers: Rishi Sunak, Rachel Cunliffe, Sam Freedman, Anoosh Chakelian, Oli Dugmore
-- 2022-12-02 — Can Britain make Brexit work? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Brexit Done, Ian Baxter, Baxter Freight, Nigel Baxter
-- 2022-12-01 — Redrawing the UK’s electoral map: who’s set to win and lose? — speakers: Rachel Wearmouth, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2022-11-28 — Why are so many Conservative MPs standing down? With Charlotte Ivers — speakers: Conservative MPs, Charlotte Ivers, Dehanna Davison, Rachel Cunliffe, Rishi Sunak, Matt Hancock, Anoosh Chakelian, Oli Dugmore
-- 2022-11-25 — Can politics survive a post-truth world? with Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, James Ball, Mae Dobbs, Barack Obama, Pat Younge
-- 2022-11-24 — Why is Brexit back to haunt the Tory party? — speakers: Rishi Sunak, Rachel Cunliffe, Rachel Wearmouth, Tory Brexiteers, Suella Braverman, Anoosh Chakelian, Oli Dugmore
-- 2022-11-23 — Bonus: Anti-microbial resistance: the crisis that could spell the end of medicine - with Pfizer — speakers: Jim O’Neill, Alona Ferber, Susan Rienow, Sally Davies, Laura Piddock, Non Pfizer, Anoosh Chakelian
-- 2022-11-21 — Rishi Sunak four weeks on — speakers: Rishi Sunak, Rachel Wearmouth, Ben Walker, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2022-11-18 — Is Britain falling apart? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Michelle Dornelly, Emilie De Bruijn, Oli Dugmore
-- 2022-11-17 — Jeremy Hunt’s doom-filled Autumn Statement — speakers: Jeremy Hunt, Rachel Cunliffe, Rachel Wearmouth, Kwasi Kwarteng, Anoosh Chakelian, Oli Dugmore
-- 2022-11-14 — Is the Conservative Party doomed? With John Oxley — speakers: John Oxley, Rishi Sunak, Jeremy Hunt, Rachel Cunliffe, Kwasi Kwarteng, Anoosh Chakelian, Oli Dugmore
-- 2022-11-11 — Jon Stewart & Armando Iannucci: has the special relationship become a kiss of death? | Westminster Reimagined — speakers: Westminster Reimagined, Armando Iannucci, Jon Stewart, Sam Walker, Anoosh Chakelian, Oli Dugmore
-- 2022-11-10 — The Gavs and Gav-nots: how the Tories are still divided — speakers: Gavin Williamson, Anoosh Chakelian, Rachel Wearmouth, Emma Haslett, George Osborne’s post, Oli Dugmore
-- 2022-11-07 — Why Rishi Sunak flip-flopped on Cop — speakers: Rishi Sunak, Anoosh Chakelian, India Bourke, Rishi Sunak U-turned, Greta Thunberg, Oli Dugmore
-- 2022-11-04 — “It’s inequality, stupid.” With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Dominic Watters, Covid Capsule, Adrienne Buller, Oli Dugmore
-- 2022-11-03 — Rishi Sunak’s first ten days – with Andrew Marr — speakers: Rishi Sunak, Andrew Marr Anoosh Chakelian, Andrew Marr, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
+- 2022-12-09 — Are British prime ministers too powerful? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2022-12-08 — Is Rishi Sunak’s authority starting to crumble? With Andrew Marr — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2022-12-05 — Can Labour end “trickle-down” education? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-12-02 — Can Britain make Brexit work? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2022-12-01 — Redrawing the UK’s electoral map: who’s set to win and lose? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-11-28 — Why are so many Conservative MPs standing down? With Charlotte Ivers — speakers: Conservative MPs, Charlotte Ivers, Anoosh Chakelian, Oli Dugmore
+- 2022-11-25 — Can politics survive a post-truth world? with Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2022-11-24 — Why is Brexit back to haunt the Tory party? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-11-23 — Bonus: Anti-microbial resistance: the crisis that could spell the end of medicine - with Pfizer — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-11-21 — Rishi Sunak four weeks on — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-11-18 — Is Britain falling apart? With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2022-11-17 — Jeremy Hunt’s doom-filled Autumn Statement — speakers: Jeremy Hunt, Rachel Cunliffe, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
+- 2022-11-14 — Is the Conservative Party doomed? With John Oxley — speakers: John Oxley, Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
+- 2022-11-11 — Jon Stewart & Armando Iannucci: has the special relationship become a kiss of death? | Westminster Reimagined — speakers: Westminster Reimagined, Armando Iannucci, Anoosh Chakelian, Oli Dugmore
+- 2022-11-10 — The Gavs and Gav-nots: how the Tories are still divided — speakers: Gavin Williamson, Anoosh Chakelian, Oli Dugmore
+- 2022-11-07 — Why Rishi Sunak flip-flopped on Cop — speakers: Anoosh Chakelian, India Bourke, Oli Dugmore
+- 2022-11-04 — “It’s inequality, stupid.” With Armando Iannucci | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2022-11-03 — Rishi Sunak’s first ten days – with Andrew Marr — speakers: Andrew Marr Anoosh Chakelian, Andrew Marr, Anoosh Chakelian, Oli Dugmore
 - 2022-10-31 — How to get better leaders – with Brian Klaas — speakers: Brian Klaas, Anoosh Chakelian, Oli Dugmore
-- 2022-10-27 — Which version of Rishi Sunak will Britain get? — speakers: Rishi Sunak, Rachel Cunliffe, Rachel Wearmouth, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2022-10-24 — Rishi Sunak wins – what now? — speakers: Rishi Sunak, Anoosh Chakelian, Rachel Wearmouth, Ben Walker, Penny Mordaunt, Oli Dugmore
+- 2022-10-27 — Which version of Rishi Sunak will Britain get? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-10-24 — Rishi Sunak wins – what now? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2022-10-21 — BONUS: How the lettuce became Liz Truss’s nemesis, with Jon Livesey — speakers: Jon Livesey, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-10-20 — Prime Minister Liz Truss resigns after just 44 days in office — speakers: Rachel Cunliffe, Ben Walker, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2022-10-17 — Will Liz Truss last the week? — speakers: Will Liz Truss, Jeremy Hunt, Harry Lambert, Anoosh Chakelian, Oli Dugmore
+- 2022-10-20 — Prime Minister Liz Truss resigns after just 44 days in office — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-10-17 — Will Liz Truss last the week? — speakers: Will Liz Truss, Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
 - 2022-10-16 — Horror in the City at the Tories' mini-Budget, with the economist and former trader Gary Stevenson — speakers: Gary Stevenson, Emma Haslett, Anoosh Chakelian, Oli Dugmore
-- 2022-10-14 — Will Liz Truss sack Kwasi Kwarteng to save herself? — speakers: Will Liz Truss, Kwasi Kwarteng, Anoosh Chakelian, Rachel Cunliffe, Rachel Wearmouth, Oli Dugmore
+- 2022-10-14 — Will Liz Truss sack Kwasi Kwarteng to save herself? — speakers: Will Liz Truss, Kwasi Kwarteng, Anoosh Chakelian, Oli Dugmore
 - 2022-10-11 — How Liz Truss is fuelling the energy crisis, with Dale Vince — speakers: Dale Vince Anoosh Chakelian, Dale Vince, Anoosh Chakelian, Oli Dugmore
 - 2022-10-06 — Are the Conservatives preparing for opposition? With Andrew Marr — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2022-10-04 — Rebellious Tory MPs look for Liz Truss’s successor — speakers: Anoosh Chakelian, Rachel Wearmouth, Harry Lambert, Kwasi Kwarteng, Oli Dugmore
-- 2022-10-03 — Labour is in an anti-London "Tory trap": Sadiq Khan vs Andy Burnham — speakers: Andy Burnham, Sadiq Khan, Anoosh Chakelian, Oli Dugmore
-- 2022-09-29 — Inside Liz Truss and Kwasi Kwarteng’s economic meltdown, with David Gauke and Duncan Weldon — speakers: Inside Liz Truss, Kwasi Kwarteng, David Gauke, Duncan Weldon, Anoosh Chakelian, Will Dunn, Oli Dugmore
-- 2022-09-27 — Is Keir Starmer’s vision enough? With Ed Miliband — speakers: Ed Miliband Anoosh, Ed Miliband, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2022-09-26 — Is Labour finally a government in waiting? — speakers: Anoosh Chakelian, Rachel Wearmouth, Rachel Reeves, Oli Dugmore
-- 2022-09-23 — The Tories’ plan to make the rich richer — speakers: Kwasi Kwarteng, Rachel Wearmouth, Rachel Cunliffe, Emma Haslett, Rachel Reeves, Anoosh Chakelian, Oli Dugmore
-- 2022-09-20 — Inside Britain’s housing crisis — speakers: Rachel Cunliffe, Hashi Mohamed, Anoosh Chakelian, Oli Dugmore
-- 2022-09-16 — Trussonomics: Is Trickling Down the new Levelling Up? — speakers: Kwasi Kwarteng, Tom Scholar, Harry Lambert, Rachel Wearmouth, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2022-10-04 — Rebellious Tory MPs look for Liz Truss’s successor — speakers: Anoosh Chakelian, Rachel Wearmouth, Harry Lambert, Oli Dugmore
+- 2022-10-03 — Labour is in an anti-London "Tory trap": Sadiq Khan vs Andy Burnham — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
+- 2022-09-29 — Inside Liz Truss and Kwasi Kwarteng’s economic meltdown, with David Gauke and Duncan Weldon — speakers: Inside Liz Truss, Kwasi Kwarteng, David Gauke, Duncan Weldon, Anoosh Chakelian, Oli Dugmore
+- 2022-09-27 — Is Keir Starmer’s vision enough? With Ed Miliband — speakers: Ed Miliband Anoosh, Ed Miliband, Anoosh Chakelian, Oli Dugmore
+- 2022-09-26 — Is Labour finally a government in waiting? — speakers: Anoosh Chakelian, Rachel Wearmouth, Oli Dugmore
+- 2022-09-23 — The Tories’ plan to make the rich richer — speakers: Kwasi Kwarteng, Anoosh Chakelian, Oli Dugmore
+- 2022-09-20 — Inside Britain’s housing crisis — speakers: Inside Britain, Anoosh Chakelian, Oli Dugmore
+- 2022-09-16 — Trussonomics: Is Trickling Down the new Levelling Up? — speakers: Kwasi Kwarteng, Anoosh Chakelian, Oli Dugmore
 - 2022-09-12 — How the death of the Queen affects government — speakers: Anoosh Chakelian, Oli Dugmore
-- 2022-09-09 — The Queen dies and an era ends — speakers: Elizabeth II, Charles Iii, Andrew Marr, Megan Gibson, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-09-08 — Liz Truss's first days, with Andrew Marr — speakers: Andrew Marr, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2022-09-05 — Liz Truss wins. But can she deliver, deliver, deliver? — speakers: Rishi Sunak, Anoosh Chakelian, Rachel Wearmouth, Ben Walker, Oli Dugmore
-- 2022-09-01 — Will the next PM be another Boris Johnson? In conversation with Adam Fleming — speakers: Adam Fleming, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-08-30 — How big is the economic crisis the UK is facing? With Duncan Weldon — speakers: Duncan Weldon, Will Dunn, Anoosh Chakelian, Oli Dugmore
-- 2022-08-26 — Tory cuts catch up with Liz Truss and Rishi Sunak — speakers: Rishi Sunak, Anoosh Chakelian, Rachel Cunliffe, Truss’s U-turn, Oli Dugmore
-- 2022-08-23 — What can Keir Starmer learn from Joe Biden? With Matthew McGregor — speakers: Matthew McGregor, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2022-08-19 — Are the Tories in trouble over the economy? — speakers: Rachel Wearmouth, Emma Haslett, Anoosh Chakelian, Oli Dugmore
-- 2022-08-16 — Is Labour finally on the front foot in the energy crisis? — speakers: Rachel Wearmouth, Ben Walker, George Osborne, Anoosh Chakelian, Oli Dugmore
-- 2022-08-12 — As crisis looms, where are Britain’s leaders? — speakers: Rishi Sunak, Rachel Cunliffe, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2022-08-09 — Is Labour too divided to win? — speakers: Patrick Diamond, Anoosh Chakelian, Oli Dugmore
-- 2022-08-06 — SPONSORED: How can we ensure our pension funds make a difference? — speakers: Philippa Nuttall, David Hayman, Anoosh Chakelian, Oli Dugmore
-- 2022-08-04 — How workers‘ pay tripped up Liz Truss and Keir Starmer — speakers: Anoosh Chakelian, Rachel Wearmouth, Rachel Cunliffe, Lisa Nandy, Liz Truss’s Conservative, Oli Dugmore
-- 2022-08-01 — Sunak, Truss and Starmer’s visions for the economy — speakers: Rachel Wearmouth, Emma Haslett, Rishi Sunak, Rachel Reeves, Anoosh Chakelian, Oli Dugmore
-- 2022-07-28 — From the Forde report to strikes, is Labour still divided? — speakers: Jeremy Corbyn, Sam Tarry, Anoosh Chakelian, Rachel Wearmouth, Oli Dugmore
-- 2022-07-26 — Are conspiracy theories getting worse, with Jonn Elledge — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-07-22 — Who will be Britain’s next prime minister? With Andrew Marr — speakers: Andrew Marr, Penny Mordaunt, Rishi Sunak, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-07-18 — Who’s winning the Tory leadership race? — speakers: Rachel Cunliffe, Ben Walker, Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2022-07-15 — BONUS: Rory Stewart on what it’s like to run for prime minister — speakers: Rory Stewart, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-07-14 — Will Penny Mordaunt be the next Tory leader? — speakers: Nadhim Zahawi, Jeremy Hunt, Suella Braverman, Penny Mordaunt, Rishi Sunak, Anoosh Chakelian, Harry Lambert, India Bourke
-- 2022-07-11 — Tory leadership election: who's running? — speakers: Anoosh Chakelian, Ben Walker, Oli Dugmore
-- 2022-07-07 — Boris Johnson has (not quite) resigned. What now? — speakers: Anoosh Chakelian, Jason Cowley, Rachel Cunliffe, Oli Dugmore
-- 2022-07-06 — Emergency podcast: The last days of Boris Johnson? — speakers: Rishi Sunak, Sajid Javid, Anoosh Chakelian, Harry Lambert, Ben Walker, Rachel Cunliffe, Oli Dugmore
-- 2022-07-04 — Keir Starmer: Labour is “starting from scratch” — speakers: Rachel Wearmouth, Anoosh Chakelian, Oli Dugmore
-- 2022-07-01 — What is behind Nicola Sturgeon’s IndyRef2 gambit? — speakers: Chris Deerin, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2022-06-27 — ​Will a summer of discontent hurt the Tories or Labour more? — speakers: Anoosh Chakelian, Will Dunn, Emma Haslett, Oli Dugmore
-- 2022-06-24 — By-election special: Is Boris Johnson doomed by the double defeat? — speakers: Oliver Dowden, Harry Lambert, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2022-06-20 — Will the Tories lose the true-blue constituency of Tiverton and Honiton? — speakers: Devonian Will Dunn, Lib Dems, Anoosh Chakelian, Oli Dugmore
-- 2022-06-16 — Will Red Wall voters ditch Boris Johnson at the Wakefield by-election? — speakers: Ahmad Khan, Rachel Cunliffe, Anand Menon, Anoosh Chakelian, Oli Dugmore
-- 2022-06-13 — Will the Green surge lead to a Labour government? — speakers: Ben Walker, India Bourke, Anoosh Chakelian, Oli Dugmore
-- 2022-06-09 — Is Boris Johnson a zombie prime minister? — speakers: Rachel Cunliffe, Harry Lambert, Anoosh Chakelian, Oli Dugmore
-- 2022-06-07 — Is Boris Johnson a dead man walking? With Andrew Marr — speakers: Andrew Marr, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-06-06 — Boris Johnson faces a vote of no confidence. What happens next? — speakers: Rachel Cunliffe, Harry Lambert, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2022-06-01 — Could Boris Johnson survive a vote of confidence? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
-- 2022-05-31 — Does Keir Starmer have enough policies? With the former Labour adviser Marc Stears — speakers: Marc Stears Fresh, Marc Stears, Anthony Albanese, Scott Morrison, Anoosh Chakelian, Oli Dugmore
-- 2022-05-26 — The Sue Gray report: how bad is it really for Boris Johnson? — speakers: Sue Gray, Anoosh Chakelian, Rachel Cunliffe, Harry Lambert, Oli Dugmore
-- 2022-05-24 — Why the Tories risk losing suburban voters, with Jeremy Hunt — speakers: Jeremy Hunt, Sajid Javid, Anoosh Chakelian, Oli Dugmore
-- 2022-05-20 — Will inflation bring down the Tory government? — speakers: Emma Haslett, Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2022-09-09 — The Queen dies and an era ends — speakers: Elizabeth II, Anoosh Chakelian, Oli Dugmore
+- 2022-09-08 — Liz Truss's first days, with Andrew Marr — speakers: Andrew Marr, Anoosh Chakel, Anoosh Chakelian, Oli Dugmore
+- 2022-09-05 — Liz Truss wins. But can she deliver, deliver, deliver? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-09-01 — Will the next PM be another Boris Johnson? In conversation with Adam Fleming — speakers: Adam Fleming, Anoosh Chakelian, Oli Dugmore
+- 2022-08-30 — How big is the economic crisis the UK is facing? With Duncan Weldon — speakers: Duncan Weldon, Anoosh Chakelian, Oli Dugmore
+- 2022-08-26 — Tory cuts catch up with Liz Truss and Rishi Sunak — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-08-23 — What can Keir Starmer learn from Joe Biden? With Matthew McGregor — speakers: Matthew McGregor, Anoosh Chakelian, Oli Dugmore
+- 2022-08-19 — Are the Tories in trouble over the economy? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-08-16 — Is Labour finally on the front foot in the energy crisis? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-08-12 — As crisis looms, where are Britain’s leaders? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-08-09 — Is Labour too divided to win? — speakers: Patrick Di, Anoosh Chakelian, Oli Dugmore
+- 2022-08-06 — SPONSORED: How can we ensure our pension funds make a difference? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-08-04 — How workers‘ pay tripped up Liz Truss and Keir Starmer — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-08-01 — Sunak, Truss and Starmer’s visions for the economy — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-07-28 — From the Forde report to strikes, is Labour still divided? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-07-26 — Are conspiracy theories getting worse, with Jonn Elledge — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-07-22 — Who will be Britain’s next prime minister? With Andrew Marr — speakers: Andrew Marr, Penny Mordaunt, Anoosh Chakelian, Oli Dugmore
+- 2022-07-18 — Who’s winning the Tory leadership race? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-07-15 — BONUS: Rory Stewart on what it’s like to run for prime minister — speakers: Rory Stewart, Anoosh Chakelian, Oli Dugmore
+- 2022-07-14 — Will Penny Mordaunt be the next Tory leader? — speakers: Nadhim Zahawi, Jeremy Hunt, Suella Braverman, Anoosh Chakelian, Oli Dugmore
+- 2022-07-11 — Tory leadership election: who's running? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-07-07 — Boris Johnson has (not quite) resigned. What now? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-07-06 — Emergency podcast: The last days of Boris Johnson? — speakers: Sajid Javid, Anoosh Chakelian, Oli Dugmore
+- 2022-07-04 — Keir Starmer: Labour is “starting from scratch” — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-07-01 — What is behind Nicola Sturgeon’s IndyRef2 gambit? — speakers: Nicola Sturgeon, First Minister, Anoosh Chakelian, Oli Dugmore
+- 2022-06-27 — ​Will a summer of discontent hurt the Tories or Labour more? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-06-24 — By-election special: Is Boris Johnson doomed by the double defeat? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-06-20 — Will the Tories lose the true-blue constituency of Tiverton and Honiton? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-06-16 — Will Red Wall voters ditch Boris Johnson at the Wakefield by-election? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-06-13 — Will the Green surge lead to a Labour government? — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
+- 2022-06-09 — Is Boris Johnson a zombie prime minister? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-06-07 — Is Boris Johnson a dead man walking? With Andrew Marr — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
+- 2022-06-06 — Boris Johnson faces a vote of no confidence. What happens next? — speakers: Rachel Cunliffe, Anoosh Chakelian, Oli Dugmore
+- 2022-06-01 — Could Boris Johnson survive a vote of confidence? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-05-31 — Does Keir Starmer have enough policies? With the former Labour adviser Marc Stears — speakers: Marc Stears Fresh, Marc Stears, Anoosh Chakelian, Oli Dugmore
+- 2022-05-26 — The Sue Gray report: how bad is it really for Boris Johnson? — speakers: Sue Gray, Anoosh Chakelian, Oli Dugmore
+- 2022-05-24 — Why the Tories risk losing suburban voters, with Jeremy Hunt — speakers: Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
+- 2022-05-20 — Will inflation bring down the Tory government? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2022-05-17 — Why is Boris Johnson waging a culture war? With Rory Stewart and Kim Leadbeater — speakers: Rory Stewart, Kim Leadbeater, Anoosh Chakelian, Oli Dugmore
-- 2022-05-13 — If Keir Starmer resigns, who replaces him? With Andrew Marr — speakers: Andrew Marr Having, Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2022-05-11 — Is politics just a game to today's leaders? | Westminster Reimagined — speakers: Westminster Reimagined, Armando Iannucci, James Graham, Chris Hanretty, Anoosh Chakelian, Oli Dugmore
-- 2022-05-09 — Will the Red Wall or Beergate seal Keir Starmer’s fate? — speakers: Ben Walker, Freddie Hayward, Sinn Féin, Anoosh Chakelian, Oli Dugmore
-- 2022-05-05 — Local elections: What would be a good night for Labour or the Tories? — speakers: Anoosh Chakelian, Ben Walker, Oli Dugmore
-- 2022-05-04 — Is politics still tribal? | Westminster Reimagined — speakers: Westminster Reimagined, Armando Iannucci, Ailbhe Rea, John Curtice, Shaun Woodward, Anoosh Chakelian, Oli Dugmore
-- 2022-05-03 — Do we get the leaders we deserve? | Live at the Cambridge Literary Festival — speakers: David Runciman, Stephen Bush, Hannah White, Billy Bragg, Rachel Clarke, Lucy Nethsingha, Anoosh Chakelian, Oli Dugmore
-- 2022-04-29 — Why Westminster sexism is so hard to stamp out — speakers: Ailbhe Rea, Harry Lambert, Anoosh Chakelian, Oli Dugmore
-- 2022-04-27 — Armando Iannucci & Dominic Grieve: Is democracy slowly collapsing in Westminster? | Westminster Reimagined — speakers: Westminster Reimagined, Armando Iannucci, Meg Russell, Dominic Grieve, Anoosh Chakelian, Oli Dugmore
+- 2022-05-13 — If Keir Starmer resigns, who replaces him? With Andrew Marr — speakers: Andrew Marr Having, Anoosh Chakelian, Oli Dugmore
+- 2022-05-11 — Is politics just a game to today's leaders? | Westminster Reimagined — speakers: Westminster Reimagined, Armando Iannucci, Anoosh Chakelian, Oli Dugmore
+- 2022-05-09 — Will the Red Wall or Beergate seal Keir Starmer’s fate? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-05-05 — Local elections: What would be a good night for Labour or the Tories? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-05-04 — Is politics still tribal? | Westminster Reimagined — speakers: Westminster Reimagined, Armando Iannucci, Anoosh Chakelian, Oli Dugmore
+- 2022-05-03 — Do we get the leaders we deserve? | Live at the Cambridge Literary Festival — speakers: Cambridge Literary Festival Anoosh, Anoosh Chakelian, Oli Dugmore
+- 2022-04-29 — Why Westminster sexism is so hard to stamp out — speakers: Why Westminster, Anoosh Chakelian, Oli Dugmore
+- 2022-04-27 — Armando Iannucci & Dominic Grieve: Is democracy slowly collapsing in Westminster? | Westminster Reimagined — speakers: Westminster Reimagined, Armando Iannucci, Anoosh Chakelian, Oli Dugmore
 - 2022-04-26 — What evidence would MPs need to bring Boris Johnson down? with Hannah White — speakers: Hannah White, Anoosh Chakelian, Oli Dugmore
-- 2022-04-21 — Are the Conservatives stuck with Boris Johnson? — speakers: Anoosh Chakelian, Andrew Marr, Ailbhe Rea, Oli Dugmore
-- 2022-04-20 — Armando Iannucci: are politicians obsolete? | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Rosamund Adoo-Kissi-Debrah, Gary Stevenson, Anoosh Chakelian, Oli Dugmore
-- 2022-04-19 — Will Boris Johnson’s woes affect the elections in Scotland and Wales? — speakers: Will Boris Johnson, Chris Deerin, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2022-04-16 — BONUS: Operation Warm Welcome: the hotel that became home to 100 refugees — speakers: Sophie McBain, Anoosh Chakelian, Oli Dugmore
-- 2022-04-14 — Will partygate fines be the end of Boris Johnson? — speakers: Rishi Sunak, Carrie Johnson, Harry Lambert, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2022-04-13 — Armando Iannucci: Is it time to reform parliament's arcane rules and rituals? | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Ailbhe Rea, Anum Qaisar, Westminster MP, Emma Crewe, Anoosh Chakelian, Oli Dugmore
-- 2022-04-12 — Why the non-dom scandal shows Rishi Sunak is bad at politics — speakers: Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2022-04-08 — Are voters moving to Labour or to nowhere? — speakers: Ailbhe Rea, Ben Walker, Rishi Sunak, Freddie Hayward, Anoosh Chakelian, Oli Dugmore
-- 2022-04-05 — How Russia abuses Britain’s legal system, with the activist Vladimir Ashurkov — speakers: Vladimir Ashurkov, Vladimir Putin, Anoosh Chakelian, Oli Dugmore
-- 2022-04-01 — Has the Spring Statement deflated Rishi Sunak? — speakers: Rishi Sunak, Andrew Marr, Ailbhe Rea, Jamie Wallis, Anoosh Chakelian, Oli Dugmore
-- 2022-03-29 — What is “Britishness” – and does it still matter? With Gary Younge, Jeremy Deller and Jason Cowley — speakers: Gary Younge, Jeremy Deller, Jason Cowley, Michael Sheen, Anoosh Chakelian, Oli Dugmore
-- 2022-03-24 — Rishi Sunak's Spring Statement shows he's still a high-tax Chancellor — speakers: Rishi Sunak, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2022-03-23 — Bonus episode: Michael Sheen on class, culture and Britishness — speakers: Michael Sheen, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2022-03-22 — P&O Ferries uses "slave labour on the high seas", says Karl Turner MP — speakers: Karl Turner, George Dock, Anoosh Chakelian, Oli Dugmore
-- 2022-03-18 — Nazanin Zaghari-Ratcliffe's long fight for freedom — speakers: Nazanin Zaghari-Ratcliffe, Anoosheh Ashoori, Richard Ratcliffe, Anoosh Chakelian, Oli Dugmore
+- 2022-04-21 — Are the Conservatives stuck with Boris Johnson? — speakers: Anoosh Chakelian, Andrew Marr, Oli Dugmore
+- 2022-04-20 — Armando Iannucci: are politicians obsolete? | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2022-04-19 — Will Boris Johnson’s woes affect the elections in Scotland and Wales? — speakers: Will Boris Johnson, Anoosh Chakelian, Oli Dugmore
+- 2022-04-16 — BONUS: Operation Warm Welcome: the hotel that became home to 100 refugees — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-04-14 — Will partygate fines be the end of Boris Johnson? — speakers: Carrie Johnson, Anoosh Chakelian, Oli Dugmore
+- 2022-04-13 — Armando Iannucci: Is it time to reform parliament's arcane rules and rituals? | Westminster Reimagined — speakers: Armando Iannucci, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2022-04-12 — Why the non-dom scandal shows Rishi Sunak is bad at politics — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-04-08 — Are voters moving to Labour or to nowhere? — speakers: Ailbhe Rea, Ben Walker, Anoosh Chakelian, Oli Dugmore
+- 2022-04-05 — How Russia abuses Britain’s legal system, with the activist Vladimir Ashurkov — speakers: Vladimir Ashurkov, Anoosh Chakelian, Oli Dugmore
+- 2022-04-01 — Has the Spring Statement deflated Rishi Sunak? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-03-29 — What is “Britishness” – and does it still matter? With Gary Younge, Jeremy Deller and Jason Cowley — speakers: Gary Younge, Jeremy Deller, Jason Cowley, Anoosh Chakelian, Oli Dugmore
+- 2022-03-24 — Rishi Sunak's Spring Statement shows he's still a high-tax Chancellor — speakers: Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2022-03-23 — Bonus episode: Michael Sheen on class, culture and Britishness — speakers: Michael Sheen, Anoosh Chakelian, Oli Dugmore
+- 2022-03-22 — P&O Ferries uses "slave labour on the high seas", says Karl Turner MP — speakers: Karl Turner, Anoosh Chakelian, Oli Dugmore
+- 2022-03-18 — Nazanin Zaghari-Ratcliffe's long fight for freedom — speakers: Nazanin Zaghari-Ratcliffe, Anoosh Chakelian, Oli Dugmore
 - 2022-03-15 — Priti Patel is "pulling up the drawbridge" for Ukrainian refugees, says Alf Dubs — speakers: Priti Patel, Anoosh Chakelian, Oli Dugmore
-- 2022-03-10 — Sanctions and refugees: are UK ministers failing in their duties? — speakers: Roman Abramovich, Oleg Deripaska, Emma Haslett, Anoosh Chakelian, Oli Dugmore
+- 2022-03-10 — Sanctions and refugees: are UK ministers failing in their duties? — speakers: Roman Abramovich, Oleg Deripaska, Anoosh Chakelian, Oli Dugmore
 - 2022-03-08 — Are the UK’s Russia sanctions tough enough? With Bill Browder — speakers: Bill Browder, Anoosh Chakelian, Oli Dugmore
-- 2022-03-03 — Has the war changed Boris Johnson’s reputation? — speakers: Ben Walker, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2022-03-01 — How to end London’s addiction to Russian money, with Oliver Bullough — speakers: Oliver Bullough, Vladimir Putin, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2022-02-24 — War in Ukraine: can the UK act “decisively” against Russia? — speakers: Ailbhe Rea, Alix Kroeger, Anoosh Chakelian, Oli Dugmore
-- 2022-02-22 — Does BBC comedy have a left-wing bias? Andy Zaltzman on political satire, offensive jokes and cauliflower Trump — speakers: Andy Zaltzman, Anoosh Chakelian, Oli Dugmore
+- 2022-03-03 — Has the war changed Boris Johnson’s reputation? — speakers: Ben Walker, Anoosh Chakelian, Oli Dugmore
+- 2022-03-01 — How to end London’s addiction to Russian money, with Oliver Bullough — speakers: Oliver Bullough, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2022-02-24 — War in Ukraine: can the UK act “decisively” against Russia? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-02-22 — Does BBC comedy have a left-wing bias? Andy Zaltzman on political satire, offensive jokes and cauliflower Trump — speakers: Andy Zaltzman, Anoosh Chakelian, Andy Za, Oli Dugmore
 - 2022-02-18 — Farewell to a legend: Tears, cheers and kirs — speakers: Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2022-02-15 — Could these be Boris Johnson’s last weeks in office? With Gavin Barwell — speakers: Gavin Barwell, Theresa May, Ailbhe Rea, Boris Jonson, Stephen Bush, Sadiq Khan, Cressida Dick
-- 2022-02-11 — Inside Boris Johnson's fight to survive partygate — speakers: Ailbhe Rea, Stephen Bush, Jacob Rees-Mogg, Anoosh Chakelian, Oli Dugmore
-- 2022-02-07 — Will Boris Johnson’s new No 10 operation save him? — speakers: Will Boris Johnson, Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Steve Barclay, Munira Mirza, Sue Gray
+- 2022-02-15 — Could these be Boris Johnson’s last weeks in office? With Gavin Barwell — speakers: Gavin Barwell, Theresa May, Anoosh Chakelian, Oli Dugmore
+- 2022-02-11 — Inside Boris Johnson's fight to survive partygate — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-02-07 — Will Boris Johnson’s new No 10 operation save him? — speakers: Will Boris Johnson, Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Oli Dugmore
 - 2022-02-04 — Andrew Marr on Why Boris Johnson is Beyond Saving — speakers: Andrew Marr, Beyond Saving, Anoosh Chakelian, Oli Dugmore
-- 2022-02-03 — Can Boris Johnson survive the cost of living crisis? — speakers: Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Paul Givan, Oli Dugmore
-- 2022-01-31 — SPECIAL: Sue Gray’s report into Downing Street lockdown parties is published — speakers: Sue Gray, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2022-02-03 — Can Boris Johnson survive the cost of living crisis? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2022-01-31 — SPECIAL: Sue Gray’s report into Downing Street lockdown parties is published — speakers: Sue Gray, Anoosh Chakelian, Oli Dugmore
 - 2022-01-31 — Why Christian Wakeford crossed the floor — speakers: Christian Wakeford, Anoosh Chakelian, Oli Dugmore
-- 2022-01-27 — What does the police inquiry into “partygate” mean for Boris Johnson? — speakers: Sue Gray, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2022-01-27 — What does the police inquiry into “partygate” mean for Boris Johnson? — speakers: Sue Gray, Anoosh Chakelian, Oli Dugmore
 - 2022-01-24 — Could the Scottish Conservatives split from the Tory party? — speakers: Chris Deerin, Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2022-01-21 — Alleged blackmail: the dark side of Boris Johnson’s survival — speakers: William Wragg, Christian Wakeford, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2022-01-19 — SPECIAL: Will Boris Johnson “in the name of God, go”? — speakers: Will Boris Johnson, Christian Wakeford, David Davis, Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2022-01-21 — Alleged blackmail: the dark side of Boris Johnson’s survival — speakers: William Wragg, Anoosh Chakelian, Oli Dugmore
+- 2022-01-19 — SPECIAL: Will Boris Johnson “in the name of God, go”? — speakers: Will Boris Johnson, Anoosh Chakelian, Oli Dugmore
 - 2022-01-18 — How bad can the polls get for Boris Johnson? — speakers: Ben Walker, Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Oli Dugmore
-- 2022-01-13 — Will Boris Johnson’s non-apology save him? — speakers: Will Boris Johnson, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2022-01-11 — Prime Ministerial, from the New Statesman | Margaret Thatcher — speakers: Margaret Thatcher, Stephen Bush, John Major, Florence Sutcliffe-Braithwaite, John Whittingdale, Adrian Bradley, May Robson, Caroline Crampton
-- 2022-01-07 — Will Boris Johnson survive 2022? — speakers: Will Boris Johnson, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2022-01-04 — Prime Ministerial, from the New Statesman | John Major — speakers: John Major, Stephen Bush, Margaret Thatcher, Jonathan Hill, Adrian Bradley, May Robson, Caroline Crampton, Nick Hilton
-- 2021-12-31 — Prime Ministerial, from the New Statesman | Tony Blair — speakers: Stephen Bush, Kitty Stewart, Andrew Adonis, Peter Mandelson, Adrian Bradley, May Robson
-- 2021-12-28 — Prime Ministerial, from the New Statesman | Gordon Brown — speakers: Stephen Bush, Ann Pettifor, Stewart Wood, Adrian Bradley, May Robson, Caroline Crampton
-- 2021-12-24 — Prime Ministerial, from the New Statesman | David Cameron — speakers: Stephen Bush, Michael Howard, Helen Thompson, Craig Oliver, Adrian Bradley, May Robson, Caroline Crampton
-- 2021-12-21 — Prime Ministerial, from the New Statesman | Theresa May — speakers: Stephen Bush, Katy Balls, Gavin Barwell, Theresa May, Adrian Bradley, May Robson, Caroline Crampton, Nick Hilton
-- 2021-12-17 — Liberal Democrats win North Shropshire: is the party over for Boris Johnson? — speakers: Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2022-01-13 — Will Boris Johnson’s non-apology save him? — speakers: Will Boris Johnson, Anoosh Chakelian, Oli Dugmore
+- 2022-01-11 — Prime Ministerial, from the New Statesman | Margaret Thatcher — speakers: Margaret Thatcher, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2022-01-07 — Will Boris Johnson survive 2022? — speakers: Will Boris Johnson, Anoosh Chakelian, Oli Dugmore
+- 2022-01-04 — Prime Ministerial, from the New Statesman | John Major — speakers: John Major, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-12-31 — Prime Ministerial, from the New Statesman | Tony Blair — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-12-28 — Prime Ministerial, from the New Statesman | Gordon Brown — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-12-24 — Prime Ministerial, from the New Statesman | David Cameron — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-12-21 — Prime Ministerial, from the New Statesman | Theresa May — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-12-17 — Liberal Democrats win North Shropshire: is the party over for Boris Johnson? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-12-14 — Is the Downing Street Christmas party scandal cutting through? | Polling update with Ben Walker — speakers: Ben Walker, Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Oli Dugmore
-- 2021-12-09 — No 10 Christmas Party: the beginning of the end for Boris Johnson? — speakers: Allegra Stratton, Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Oli Dugmore
-- 2021-12-07 — How a chief whip became a rebel, with Mark Harper MP — speakers: Mark Harper, Ailbhe Rea, Stephen Bush, Ed Miliband, Anoosh Chakelian
-- 2021-12-03 — Labour reshuffle: a leaner and meaner shadow cabinet? — speakers: Ailbhe Rea, Stephen Bush, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2021-12-01 — BONUS: Is levelling up really possible | In partnership with Lloyds Bank — speakers: Anoosh Chakelian, Hannah Essex, Mark Burton, Oli Dugmore
-- 2021-11-30 — Labour’s response to the corruption scandal, with Thangam Debbonaire — speakers: Jacob Rees-Mogg, Anoosh Chakelian, Oli Dugmore
-- 2021-11-26 — The catch-22 for migrants crossing the Channel — speakers: Ailbhe Rea, Stephen Bush, Louise Haigh, Anoosh Chakelian, Oli Dugmore
-- 2021-11-23 — Does Labour have a future in Scotland? — speakers: Stephen Bush, Chris Deerin, Jack McConnell, Anoosh Chakelian, Oli Dugmore
-- 2021-11-19 — What went down at Cop26? — speakers: Alok Sharma, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2021-11-16 — Why the corruption scandal feels like 1997, with Chris Bryant — speakers: Chris Bryant, Anoosh Chakelian, Stephen Bush, Ailbhe Rea, Owen Paterson, Oli Dugmore
-- 2021-11-12 — Will the row over MPs’ second jobs hurt Boris Johnson? — speakers: Geoffrey Cox, Owen Paterson, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-12-09 — No 10 Christmas Party: the beginning of the end for Boris Johnson? — speakers: Allegra Stratton, Anoosh Chakelian, Oli Dugmore
+- 2021-12-07 — How a chief whip became a rebel, with Mark Harper MP — speakers: Mark Harper, Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-12-03 — Labour reshuffle: a leaner and meaner shadow cabinet? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-12-01 — BONUS: Is levelling up really possible | In partnership with Lloyds Bank — speakers: Lloyds Bank, Britain Editor, Anoosh Chakelian, Oli Dugmore
+- 2021-11-30 — Labour’s response to the corruption scandal, with Thangam Debbonaire — speakers: Thangam Debbonaire Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2021-11-26 — The catch-22 for migrants crossing the Channel — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-11-23 — Does Labour have a future in Scotland? — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-11-19 — What went down at Cop26? — speakers: Alok Sharma, Anoosh Chakelian, Oli Dugmore
+- 2021-11-16 — Why the corruption scandal feels like 1997, with Chris Bryant — speakers: Chris Bryant, Anoosh Chakelian, Stephen Bush, Ailbhe Rea, Oli Dugmore
+- 2021-11-12 — Will the row over MPs’ second jobs hurt Boris Johnson? — speakers: Geoffrey Cox, Anoosh Chakelian, Oli Dugmore
 - 2021-11-09 — UK poll update: Owen Paterson prompted Conservative “confidence collapse” – with Ben Walker — speakers: Owen Paterson, Ben Walker Ailbhe Rea, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2021-11-05 — Owen Paterson: Boris Johnson’s U-turn — speakers: Owen Paterson, Ailbhe Rea, Rachel Cunliffe, Tim Durrant, Anoosh Chakelian, Oli Dugmore
-- 2021-11-02 — Norway’s heat pump revolution | Climate politics — speakers: Philippa Nuttall, Anoosh Chakelian, Oli Dugmore
-- 2021-10-28 — Who were the winners from Rishi Sunak’s Budget? — speakers: Stephen Bush, Anoosh Chakelian, David Gauke, Oli Dugmore
-- 2021-10-26 — The Energy Consumer of the Future | Climate Politics — speakers: Ailbhe Rea, Philippa Nuttall, Iagan Macneil, smart meters, Anoosh Chakelian, Oli Dugmore
+- 2021-11-05 — Owen Paterson: Boris Johnson’s U-turn — speakers: Owen Paterson, Anoosh Chakelian, Oli Dugmore
+- 2021-11-02 — Norway’s heat pump revolution | Climate politics — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-10-28 — Who were the winners from Rishi Sunak’s Budget? — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-10-26 — The Energy Consumer of the Future | Climate Politics — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-10-22 — Can MPs ever be truly safe after Jo Cox and David Amess? — speakers: Jo Cox, David Amess, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2021-10-19 — Building Better – how our infrastructure needs to change | Climate Politics — speakers: Anoosh Chakelian, Philippa Nuttall, Adrian Joyce, Smart Energy GB, smart meters, Oli Dugmore
-- 2021-10-15 — Is Boris Johnson facing a crisis at Christmas? — speakers: Tim Ross, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2021-10-12 — Changing behaviour in a changing climate | Climate Politics — speakers: Stephen Bush, Philippa Nuttall, Ruth Mourik, Rob Cheesewright, smart meters, Anoosh Chakelian, Oli Dugmore
-- 2021-10-08 — Have we hit peak Boris Johnson? — speakers: Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Sophie McBain, Oli Dugmore
-- 2021-10-06 — Is Boris Johnson doing enough to tackle climate change? | Climate Politics — speakers: Philippa Nuttall, Anoosh Chakelian, Oli Dugmore
+- 2021-10-19 — Building Better – how our infrastructure needs to change | Climate Politics — speakers: Anoosh Ch, Anoosh Chakelian, Oli Dugmore
+- 2021-10-15 — Is Boris Johnson facing a crisis at Christmas? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-10-12 — Changing behaviour in a changing climate | Climate Politics — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-10-08 — Have we hit peak Boris Johnson? — speakers: Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Oli Dugmore
+- 2021-10-06 — Is Boris Johnson doing enough to tackle climate change? | Climate Politics — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-10-01 — Was Keir Starmer's big speech a success? — speakers: Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Oli Dugmore
-- 2021-09-29 — Labour Party Conference: Was Labour’s message drowned out in Brighton? — speakers: Stephen Bush, Andy McDonald, Anoosh Chakelian, Oli Dugmore
+- 2021-09-29 — Labour Party Conference: Was Labour’s message drowned out in Brighton? — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2021-09-24 — Will the gas crisis lead to Boris Johnson's winter of discontent? — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2021-09-21 — The politics of eating meat, with Henry Mance — speakers: Henry Mance, Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2021-09-17 — Inside Boris Johnson's cabinet reshuffle — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Dominic Raab, Oli Dugmore
-- 2021-09-14 — Writing the perfect toilet book, with Jonn Elledge — speakers: Stephen Bush, Jonn Elledge, Stephen keeps, Anoosh Chakelian, Oli Dugmore
+- 2021-09-17 — Inside Boris Johnson's cabinet reshuffle — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-09-14 — Writing the perfect toilet book, with Jonn Elledge — speakers: Stephen Bush, Jonn Elledge, Anoosh Chakelian, Oli Dugmore
 - 2021-09-10 — Will Boris Johnson’s social care plan work? — speakers: Will Boris Johnson, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2021-09-07 — Labour's lost future: the 20-year decline of the Labour Party — speakers: Ailbhe Rea, Harry Lambert, Anoosh Chakelian, Oli Dugmore
 - 2021-09-03 — Anneliese Dodds and Labour party loyalty — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
@@ -33489,531 +30955,531 @@
 - 2021-08-27 — Misfits and secrets: Why political gossip matters in politics, with Marie Le Conte — speakers: Marie Le Conte Ailbhe, Marie Le Conte, Anoosh Chakelian, Oli Dugmore
 - 2021-08-24 — Pandemics and the politics of printing money: Economic history with Duncan Weldon — speakers: Duncan Weldon, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2021-08-20 — How bad is the Afghanistan crisis for Boris Johnson? — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2021-08-16 — Armando Iannucci, Anna Soubry and Paul Mason on how to disagree | Westminster Reimagined — speakers: Armando Iannucci, Anna Soubry, Paul Mason, Westminster Reimagined, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-08-13 — Do the exam results matter? — speakers: Ailbhe Rea, Gavin Williamson, Anoosh Chakelian, Oli Dugmore
-- 2021-08-09 — Armando Iannucci and Chris Addison on political campaigning | Westminster Reimagined — speakers: Armando Iannucci, Chris Addison, Westminster Reimagined, Ollie Reeder, Claire Wright, Anoosh Chakelian, Oli Dugmore
+- 2021-08-16 — Armando Iannucci, Anna Soubry and Paul Mason on how to disagree | Westminster Reimagined — speakers: Armando Iannucci, Anna Soubry, Paul Mason, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
+- 2021-08-13 — Do the exam results matter? — speakers: Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2021-08-09 — Armando Iannucci and Chris Addison on political campaigning | Westminster Reimagined — speakers: Armando Iannucci, Chris Addison, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
 - 2021-08-06 — Could Brexit have been stopped? — speakers: Stephen Bush, David Liddington, Anoosh Chakelian, Oli Dugmore
-- 2021-08-02 — Armando Iannucci, Exctinction Rebellion & Dame Louise Casey on Activism | Westminster Reimagined — speakers: Armando Iannucci, Louise Casey, Westminster Reimagined, Stephen Bush, Paul Stephens, Anoosh Chakelian, Oli Dugmore
+- 2021-08-02 — Armando Iannucci, Exctinction Rebellion & Dame Louise Casey on Activism | Westminster Reimagined — speakers: Armando Iannucci, Louise Casey, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
 - 2021-07-30 — What's the thinking behind Boris Johnson's crime plan? — speakers: Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2021-07-26 — Armando Iannucci, Ian Hislop: the accountability crisis in politics | Westminster Reimagined — speakers: Armando Iannucci, Ian Hislop, Westminster Reimagined, Jill Rutter, Matt Hancock, Anoosh Chakelian, Oli Dugmore
+- 2021-07-26 — Armando Iannucci, Ian Hislop: the accountability crisis in politics | Westminster Reimagined — speakers: Armando Iannucci, Ian Hislop, Westminster Reimagined, Anoosh Chakelian, Oli Dugmore
 - 2021-07-23 — Can Boris Johnson really change the Northern Ireland protocol? — speakers: Anoosh Chakelian, Stephen Bush, Ailbhe Rea, Oli Dugmore
 - 2021-07-20 — Why the pingdemic is causing headaches for Boris Johnson — speakers: Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2021-07-16 — Will an amnesty work in Northern Ireland? — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2021-07-13 — Euro 2020 final: culture wars, masculinity & loss — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2021-07-09 — Why the summer is tough for opposition parties — speakers: Anoosh Chakelian, Oli Dugmore
-- 2021-07-06 — Is Andy Burnham Labour's great northern hope? — speakers: Andy Burnham Labour, Andy Burnham, Gareth Southgate, Anoosh Chakelian, Oli Dugmore
+- 2021-07-06 — Is Andy Burnham Labour's great northern hope? — speakers: Andy Burnham Labour, Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2021-07-01 — Why Labour feels worried about the Batley and Spen by-election — speakers: Anoosh Chakelian, Oli Dugmore
-- 2021-06-29 — What Matt Hancock's resignation means for the Conservatives — speakers: Matt Hancock, Sajid Javid, Anoosh Chakelian, Oli Dugmore
-- 2021-06-25 — Are Labour spent in Batley and Spen? — speakers: Stephen Bush, Ailbhe Rea, George Galloway, Anoosh Chakelian, Oli Dugmore
+- 2021-06-29 — What Matt Hancock's resignation means for the Conservatives — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-06-25 — Are Labour spent in Batley and Spen? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-06-21 — How to lose a by-election — speakers: Anoosh Chakelian, Oli Dugmore
-- 2021-06-18 — Chesham and Amersham: a Lib Dem crack in the "Blue Wall" — speakers: Lib Dem, Cressida Dick, Daniel Morgan, Anoosh Chakelian, Oli Dugmore
-- 2021-06-15 — Grenfell: tinderbox Britain — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-06-18 — Chesham and Amersham: a Lib Dem crack in the "Blue Wall" — speakers: Lib Dem, Anoosh Chakelian, Oli Dugmore
+- 2021-06-15 — Grenfell: tinderbox Britain — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Re, Oli Dugmore
 - 2021-06-11 — Biden, Boris and the NI protocol — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-06-08 — Rishi and the foreign aid rebels — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-06-04 — Hillsborough, Grenfell, Covid: What is the point of public inquiries? — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2021-05-28 — Cummings's revenge — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-05-25 — Dominic Cummings' Covid claims — speakers: Anoosh Chakelian, Oli Dugmore
-- 2021-05-21 — Why Keir Starmer should worry about his approval ratings — speakers: Ed Miliband, Anoosh Chakelian, Oli Dugmore
+- 2021-05-21 — Why Keir Starmer should worry about his approval ratings — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-05-18 — Britain unlocks — speakers: Anoosh Chakelian, Oli Dugmore
-- 2021-05-14 — Does Labour really need Tony Blair's 'total change'? — speakers: Jason Cowley, Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-05-11 — Election results part 2: Scotland's future — speakers: Stephen Anoosh, Chris Deerin, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2021-05-11 — Election results part 1: Labour's big reshuffle — speakers: Stephen Anoosh, Chris Deerin, Ben Walker, Anoosh Chakelian, Oli Dugmore
-- 2021-05-07 — Election 2021: known unknowns — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-05-05 — Nicola Sturgeon: 'Boris Johnson is in deep, deep doo-doo' | Scottish Election special — speakers: Chris Deerin, Nicola Sturgeon, Ben Walker, Dani Garavelli, Alex Massie, Anoosh Chakelian, Oli Dugmore
-- 2021-04-30 — The Stolen Years — speakers: Ben Van De Merwe, Arlene Foster, Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-04-28 — Scottish Election Special: Balancing the books — speakers: Chris Deerin, Kate Forbes, Ben Walker, Douglas Ross, Atomic Kitten, Whole Again, status Clips, Anoosh Chakelian
+- 2021-05-14 — Does Labour really need Tony Blair's 'total change'? — speakers: Tony Bl, Anoosh Chakelian, Oli Dugmore
+- 2021-05-11 — Election results part 2: Scotland's future — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-05-11 — Election results part 1: Labour's big reshuffle — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-05-07 — Election 2021: known unknowns — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-05-05 — Nicola Sturgeon: 'Boris Johnson is in deep, deep doo-doo' | Scottish Election special — speakers: Chris Deerin, Anoosh Chakelian, Oli Dugmore
+- 2021-04-30 — The Stolen Years — speakers: Ben Van De Merwe, Anoosh Chakelian, Oli Dugmore
+- 2021-04-28 — Scottish Election Special: Balancing the books — speakers: Chris Deerin, Kate Forbes, Anoosh Chakelian, Oli Dugmore
 - 2021-04-27 — 'Bodies pile high': Boris Johnson and Dominic Cummings' war of words — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-04-23 — Boris Johnson's texts — speakers: James Dyson, Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-04-21 — Scottish Election Special: the art of independence — speakers: Chris Deerin, Ricky Ross, Darren McGarvey, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-04-20 — Football's place in public discourse — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-04-16 — How far will the lobbying scandal go? — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-04-14 — Scottish Election Special: can anything unsettle the SNP establishment? — speakers: Chris Deerin, Ben Walker, Blair McDougal, Douglas Ross, Alex Salmond, Anoosh Chakelian, Oli Dugmore
-- 2021-04-13 — Why the David Cameron lobbying scandal isn't going away — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Chris Deerin, Oli Dugmore
+- 2021-04-23 — Boris Johnson's texts — speakers: James Dyson, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-04-21 — Scottish Election Special: the art of independence — speakers: Chris Deerin, Anoosh Chakelian, Oli Dugmore
+- 2021-04-20 — Football's place in public discourse — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-04-16 — How far will the lobbying scandal go? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-04-14 — Scottish Election Special: can anything unsettle the SNP establishment? — speakers: Scottish Election Special, United Kingdom, Anoosh Chakelian, Oli Dugmore
+- 2021-04-13 — Why the David Cameron lobbying scandal isn't going away — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2021-04-09 — 365 Days, 12 Months, 1 Keir — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2021-04-06 — Commission Impossible — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-04-02 — Armando Iannucci's Bucket of Wisdom — speakers: Armando Iannucci, Ailbhe Rea, Guest Stephen Armando Iannucci, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2021-03-30 — Alba's Black Sheep — speakers: Ailbhe Rea, Alex Salmond, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-04-02 — Armando Iannucci's Bucket of Wisdom — speakers: Armando Iannucci, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2021-03-30 — Alba's Black Sheep — speakers: Ailbhe Rea, Alex Salmon, Anoosh Chakelian, Oli Dugmore
 - 2021-03-26 — Passport to Discrimlico — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-03-23 — Crime and Pinishment — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Paul Williams, Oli Dugmore
-- 2021-03-19 — Money and Power: Sir Vince Cable interview — speakers: Vince Cable, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Lib Dems, Stephen Bush Anoosh, Oli Dugmore
-- 2021-03-16 — Breach of the Police — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Clapham Common, Sarah Everard, Oli Dugmore
-- 2021-03-12 — Hold the Nurse Strings — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Shaun Bailey, Oli Dugmore
-- 2021-03-09 — The Prince and the PR — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Meghan Markle, Oprah Winfrey, Oli Dugmore
-- 2021-03-05 — All Clear For Austere — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Rishi Sunak, Alex Salmond, Oli Dugmore
-- 2021-03-02 — Anas Mirabilis? — speakers: Anas Mirabilis, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Richard Leonard, Oli Dugmore
-- 2021-02-26 — Balancing Tax — speakers: Stephen Bush, Alex Salmond, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-02-23 — Rules of the Roadmap — speakers: Stephen Bush, Anoosh Chakelian, Martin Fletcher, Martha Gill, Ailbhe Rea, Oli Dugmore
-- 2021-02-19 — Auntie's Agony — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Harry Lambert, Oli Dugmore
-- 2021-02-16 — Big Ban on Campus — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Ed Balls, Oli Dugmore
-- 2021-02-12 — Fair For The Cladding Crowd — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Robert Jenrick, Oli Dugmore
-- 2021-02-09 — Crony War — speakers: Rachel Reeves, James Meadway, Stephen Bush, Ailbhe Rea, Michael Gove Ed, Alex Salmond
-- 2021-02-05 — Is Keir Starmer up to the job? — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-02-02 — Article Sixteen Vandals — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Brexit Covid Vaccine, Arlene Foste, Von der, Layen Jean Claude Juncker, Stephen Bush Anoosh
-- 2021-01-29 — A Tragic Milestone — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2021-01-26 — The Planned Shoulda-test Hotel — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-01-22 — Woke Like This — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-01-19 — Credit Where Credit Is Due — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Ed Miliband, Barack Obama, Corbyn Ed
+- 2021-03-23 — Crime and Pinishment — speakers: Pinishment Protests, Anoosh Chakelian, Oli Dugmore
+- 2021-03-19 — Money and Power: Sir Vince Cable interview — speakers: Vince Cable, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-03-16 — Breach of the Police — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-03-12 — Hold the Nurse Strings — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-03-09 — The Prince and the PR — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-03-05 — All Clear For Austere — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-03-02 — Anas Mirabilis? — speakers: Anas Mirabilis, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-02-26 — Balancing Tax — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2021-02-23 — Rules of the Roadmap — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-02-19 — Auntie's Agony — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-02-16 — Big Ban on Campus — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-02-12 — Fair For The Cladding Crowd — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2021-02-09 — Crony War — speakers: Crony War Rachel Reeves, Anoosh Chakelian, Oli Dugmore
+- 2021-02-05 — Is Keir Starmer up to the job? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-02-02 — Article Sixteen Vandals — speakers: European Commission, Anoosh Chakelian, Oli Dugmore
+- 2021-01-29 — A Tragic Milestone — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-01-26 — The Planned Shoulda-test Hotel — speakers: Hotel Travellers, Anoosh Chakelian, Oli Dugmore
+- 2021-01-22 — Woke Like This — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-01-19 — Credit Where Credit Is Due — speakers: Anoosh Chakelian, Oli Dugmore
 - 2021-01-15 — Broken Britain — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-01-12 — Keir On Present Dangers — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2021-01-08 — Capitol Crimes — speakers: Stephen Bush, Ailbhe Rea, Lockdown People, Anoosh Chakelian, Oli Dugmore
+- 2021-01-12 — Keir On Present Dangers — speakers: Anoosh Chakelian, Oli Dugmore
+- 2021-01-08 — Capitol Crimes — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2021-01-05 — Welcome to 2021 — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2020-12-22 — Christmissing Out — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2020-12-18 — 2020 Revision — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-12-15 — The Cost of Christmas Yet to Come — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-12-11 — No Deal Ordeal — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-12-08 — There EU Go Again — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2020-12-04 — Pfee-pfi-pfo-pfum, I Smell the Blood of Gavin Williamson — speakers: Stephen Bush, Gavin Williamson, Anoosh Chakelian, Oli Dugmore
-- 2020-12-01 — Tier Jerking — speakers: Tier Jerking, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Kier Starmer, Oli Dugmore
+- 2020-12-04 — Pfee-pfi-pfo-pfum, I Smell the Blood of Gavin Williamson — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-12-01 — Tier Jerking — speakers: Tier Jerking, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-11-27 — Levelling Down — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-11-24 — Vaccine Nation — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2020-11-20 — How to Save the United Kingdom: Gordon Brown special — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Jeremy Corbyn, Oli Dugmore
+- 2020-11-20 — How to Save the United Kingdom: Gordon Brown special — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-11-17 — Cummings and Goings — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-11-13 — The Story of Lee Cain (The Man the Authorities Came to Blame) — speakers: Lee Cain, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2020-11-10 — Special Relationship Wrecked — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-11-06 — Home Economics — speakers: Anoosh Chakelian, Ailbhe Rea, Emily Tamkin, Oli Dugmore
-- 2020-11-03 — Lockdown Two, Sceptic Avenue — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Angela Rayner, Oli Dugmore
-- 2020-10-30 — On Your Bike! — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Jeremy Corbyn, Emily Tamkin, Oli Dugmore
-- 2020-10-27 — Free School Mealy-Mouthed — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Marcus Rashford, Oli Dugmore
-- 2020-10-23 — The Andy Man Can — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Rishi Sunak, Andy Burnham, Oli Dugmore
+- 2020-11-06 — Home Economics — speakers: Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2020-11-03 — Lockdown Two, Sceptic Avenue — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2020-10-30 — On Your Bike! — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2020-10-27 — Free School Mealy-Mouthed — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2020-10-23 — The Andy Man Can — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-10-20 — Firebreak and Fury — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-10-16 — Tier Two: This Time It's Personal (but outdoors) — speakers: Ailbhe Rea, Stephen Bush, Dan Carden, Anoosh Chakelian, Oli Dugmore
+- 2020-10-16 — Tier Two: This Time It's Personal (but outdoors) — speakers: Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2020-10-13 — The Road to Wigan Tier — speakers: Wigan Tier, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2020-10-09 — Local Discord — speakers: Local Discord, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-10-07 — Introducing: The Fault Line: Bush, Blair and Iraq — speakers: David Dimbleby, Anoosh Chakelian, Oli Dugmore
-- 2020-10-06 — Inside the Covid Crisis — speakers: Ailbhe Rea, Phil Whitaker, Anoosh Chakelian, Oli Dugmore
-- 2020-10-02 — Ascension Seekers — speakers: Ascension Seekers, Stephen Bush, Ailbhe Rea, Priti Patel, Anoosh Chakelian, Oli Dugmore
-- 2020-09-29 — Varsity Blues — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Charles Moore, Paul Dacre, Oli Dugmore
+- 2020-10-07 — Introducing: The Fault Line: Bush, Blair and Iraq — speakers: Anoosh Chakelian, Oli Dugmore
+- 2020-10-06 — Inside the Covid Crisis — speakers: Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2020-10-02 — Ascension Seekers — speakers: Ascension Seekers, Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2020-09-29 — Varsity Blues — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-09-25 — Jobs Hatchet — speakers: Jobs Hatchet, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-09-22 — In The Lap of the Dodds — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-09-18 — We Got Locked Down, But Will It Happen Again? — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-09-15 — Legal Tender Subject — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-09-11 — The Dirty Half-Dozen — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2020-09-08 — Brexit's Back Baby! — speakers: Ailbhe Rea, Anand Menon, Stephen Bush, Lib Dem, Ed Davey, Anoosh Chakelian, Oli Dugmore
-- 2020-09-04 — Leonard Goin' — speakers: Leonard Goin, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Richard Leonard, Oli Dugmore
+- 2020-09-08 — Brexit's Back Baby! — speakers: Ailbhe Rea, Anand Menon, Anoosh Chakelian, Oli Dugmore
+- 2020-09-04 — Leonard Goin' — speakers: Leonard Goin, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Richard Leon, Oli Dugmore
 - 2020-09-02 — Office Politics — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2020-08-28 — Ed Start — speakers: Ailbhe Rea, Ed Davey, Anoosh Chakelian, Oli Dugmore
-- 2020-08-25 — The Davey Train — speakers: Ailbhe Rea, Lib Dems, Anoosh Chakelian, Oli Dugmore
-- 2020-08-21 — Dido and AenHS — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Dido Harding, Oli Dugmore
+- 2020-08-25 — The Davey Train — speakers: Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2020-08-21 — Dido and AenHS — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-08-18 — One U-Turn Deserves Another — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-08-14 — Grade A While the Sun Shined — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2020-08-11 — Ill Met face red light — speakers: Stephen Bush, Ailbhe Rea, Dawn Butler, Anoosh Chakelian, Oli Dugmore
 - 2020-08-07 — Eat Out to Beat Doubt — speakers: Beat Doubt, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-08-04 — John Hume Remembered — speakers: John Hume Remembered, Ailbhe Rea, Claire Hanna, John Hume, Anoosh Chakelian, Oli Dugmore
+- 2020-08-04 — John Hume Remembered — speakers: John Hume Remembered, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2020-07-31 — Shock Waves — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-07-28 — The Fat of the Land — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2020-07-24 — The Scottish Play — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-07-24 — The Scottish Play — speakers: Stephen Bush, Boris Joh, Anoosh Chakelian, Oli Dugmore
 - 2020-07-21 — Lean, Mean, Covid-fighting Vaccine — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-07-17 — (100) Days of Starmer — speakers: Stephen Bush, Anoosh Chakelian, Chris Grayling, Oli Dugmore
+- 2020-07-17 — (100) Days of Starmer — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2020-07-14 — Work Ethics — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-07-10 — A Mini Judge Bit on the Mini Budget — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Sajid Javid, Oli Dugmore
+- 2020-07-10 — A Mini Judge Bit on the Mini Budget — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-07-07 — ET QT — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-07-03 — Anatomy of a Crisis — speakers: David Ottewell, Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
-- 2020-06-30 — Civil War — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Mark Sedwill, Rebecca Long-Bailey, Oli Dugmore
-- 2020-06-25 — So Long-Bailey — speakers: Stephen Bush, Rebecca Long-Bailey, Anoosh Chakelian, Ailbhe Rea, Robert Jenrick, Oli Dugmore
-- 2020-06-23 — Voters of a Feather, Labour Together — speakers: Labour Together, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Layla Moran, Lib Dems, Oli Dugmore
-- 2020-06-19 — A Whole New World — speakers: Ailbhe Rea, Jeremy Cliffe, Emily Tamkin, Anoosh Chakelian, Oli Dugmore
+- 2020-07-03 — Anatomy of a Crisis — speakers: David Ottewell, Anoosh Chakelian, Oli Dugmore
+- 2020-06-30 — Civil War — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2020-06-25 — So Long-Bailey — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-06-23 — Voters of a Feather, Labour Together — speakers: Labour Together, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2020-06-19 — A Whole New World — speakers: Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2020-06-16 — Minority Report — speakers: Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2020-06-12 — I'm Forever Blowing Bubbles — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-06-09 — Statues and Liberties — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Edward Colston, Jeremy Corbyn, Oli Dugmore
-- 2020-06-05 — We Can't Breathe — speakers: Stephen Bush, Anoosh Chakelian, Gary Younge, George Floyd, Oli Dugmore
-- 2020-06-02 — Diminished Return — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, George Floyd, Oli Dugmore
-- 2020-05-29 — Ex Pat — speakers: Ex Pat, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Ask Patrick, Robert Kilroy-Silk
+- 2020-06-09 — Statues and Liberties — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-06-05 — We Can't Breathe — speakers: Stephen Bush, Anoosh Chakelian, Gary Younge, Oli Dugmore
+- 2020-06-02 — Diminished Return — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
+- 2020-05-29 — Ex Pat — speakers: Ex Pat, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-05-27 — My Kingdom for a Dom — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Oli Dugmore
 - 2020-05-22 — Money! I Shrunk the Economy — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-05-19 — Finishing School — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-05-15 — Oppose and Cons — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Sarah Manavis, Oli Dugmore
+- 2020-05-15 — Oppose and Cons — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
 - 2020-05-12 — 50 Shades of Stay — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Oli Dugmore
-- 2020-05-08 — Law Baker — speakers: Law Baker, Patrick Maguire, Ailbhe Rea, Stephen Bush, Steve Baker, Anoosh Chakelian, Oli Dugmore
+- 2020-05-08 — Law Baker — speakers: Law Baker, Patrick Maguire, Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2020-05-05 — Shadow Cast — speakers: Ailbhe Rea, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
-- 2020-05-01 — Paternity and Testing — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Lib Dems, Oli Dugmore
+- 2020-05-01 — Paternity and Testing — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Oli Dugmore
 - 2020-04-28 — He's Back and He's Ready For It All Over Again — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Oli Dugmore
 - 2020-04-24 — Woe from Whitty — speakers: Stephen Bush, Ailbhe Rea, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
 - 2020-04-21 — Chequered Past — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Oli Dugmore
-- 2020-04-17 — I'm a Former-DPP... Get Us Out of Here! — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Sarah Manavis, Oli Dugmore
+- 2020-04-17 — I'm a Former-DPP... Get Us Out of Here! — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Oli Dugmore
 - 2020-04-14 — Spring Leaks — speakers: Patrick Maguire, Anoosh Chakelian, Ailbhe Rea, Stephen Bush, Oli Dugmore
 - 2020-04-10 — Aggravating Raabery — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Oli Dugmore
 - 2020-04-07 — I Want To Be In The Zoom Where It Happens — speakers: Stephen Bush, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
 - 2020-04-03 — The Cabinet of Dr Keirstarmi — speakers: Ailbhe Rea, Stephen Bush, Anoosh Chakelian, Patrick Maguire, Oli Dugmore
 - 2020-03-31 — The Struggle for Mastery (of Remote Podcasting) — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Oli Dugmore
-- 2020-03-27 — Jez Dispenser — speakers: Jez Dispenser, Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Jeremy Corbyn, Rebecca Long-Bailey, Oli Dugmore
-- 2020-03-23 — Communications Failure — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Alex Salmond, Oli Dugmore
-- 2020-03-19 — Podcast Aways — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Lisa Nandy, Oli Dugmore
-- 2020-03-12 — Budget Special! — speakers: Stephen Bush, Howard Davies, Rishi Sunak, Anoosh Chakelian, Oli Dugmore
-- 2020-03-05 — Bully Pulp(r)it — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Priti Patel, Oli Dugmore
-- 2020-02-27 — Hey Big Spender! — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Sajid Javid, Oli Dugmore
-- 2020-02-20 — Talking Points (Based Immigration) — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Oli Dugmore
-- 2020-02-14 — Reshuffle Special! — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Julian Smith, Sajid Javid
-- 2020-02-06 — The Sinn Féin Surge — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Oli Dugmore
-- 2020-01-30 — The B-word — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Oli Dugmore
-- 2020-01-23 — Jess We Can't — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Jess Phillips, Lisa Nandy, Oli Dugmore
-- 2020-01-16 — Nandy Alexander or Keir Royal? — speakers: Nandy Alexander, Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Oli Dugmore
-- 2020-01-09 — Labour Leadership Special! — speakers: Labour Leadership Special, Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Oli Dugmore
+- 2020-03-27 — Jez Dispenser — speakers: Jez Dispenser, Stephen Bush, Anoosh Chakelian, Patrick Maguire, Ailbhe Rea, Oli Dugmore
+- 2020-03-23 — Communications Failure — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-03-19 — Podcast Aways — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-03-12 — Budget Special! — speakers: Stephen Bush, Howard Dav, Anoosh Chakelian, Oli Dugmore
+- 2020-03-05 — Bully Pulp(r)it — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-02-27 — Hey Big Spender! — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-02-20 — Talking Points (Based Immigration) — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-02-14 — Reshuffle Special! — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-02-06 — The Sinn Féin Surge — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-01-30 — The B-word — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-01-23 — Jess We Can't — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-01-16 — Nandy Alexander or Keir Royal? — speakers: Nandy Alexander, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2020-01-09 — Labour Leadership Special! — speakers: Labour Leadership Special, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-12-19 — Home (Nations) Alone — speakers: Patrick Maguire, Anoosh Chakelian, Oli Dugmore
-- 2019-12-13 — Blue Dawn — speakers: Blue Dawn, Stephen Bush, Lib Dems, Anoosh Chakelian, Oli Dugmore
+- 2019-12-13 — Blue Dawn — speakers: Blue Dawn, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-12-05 — Live 2019 Autopsy — speakers: Stephen Bush, Ailbhe Rea, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
-- 2019-11-28 — The Tory Manifesto Is [REDACTED] — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, George Grylls, Twitter ns podcasts, Oli Dugmore
-- 2019-11-22 — Manifesto Special! — speakers: Stephen Bush, Jeremy Cliffe, Twitter ns podcasts, Anoosh Chakelian, Oli Dugmore
-- 2019-11-21 — Open To Debate — speakers: Stephen Bush, Anoosh Chakelian, Twitter ns podcasts, Oli Dugmore
-- 2019-11-14 — Constituency Hopping — speakers: Ailbhe Rea, Patrick Maguire, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-11-28 — The Tory Manifesto Is [REDACTED] — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-11-22 — Manifesto Special! — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-11-21 — Open To Debate — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-11-14 — Constituency Hopping — speakers: Ailbhe Rea, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
 - 2019-11-07 — The Grid for Gaffes — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-10-31 — Justice for Grenfell Reaches Parliament — speakers: Stephen Bush, Luisa Porritt, Anoosh Chakelian, Oli Dugmore
+- 2019-10-31 — Justice for Grenfell Reaches Parliament — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-10-24 — Live From the Brexit Basement — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-10-17 — Four Conferences (& A Fun-recap) — speakers: Stephen Bush, Ailbhe Rea, Richard Curtis, John Bercow, Anoosh Chakelian, Oli Dugmore
-- 2019-10-10 — The Autumn of Our Discontent — speakers: Stephen Bush, Anoosh Chakelian, Ailbhe Rea, Patrick Maguire, Jeremy Corbyn, Oli Dugmore
+- 2019-10-17 — Four Conferences (& A Fun-recap) — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2019-10-10 — The Autumn of Our Discontent — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-10-03 — The Conference Comedown — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-09-26 — Hale Storm — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-09-19 — Lib Syncing — speakers: Stephen Bush, Ailbhe Rea, Emily Bootle, Anoosh Chakelian, Oli Dugmore
-- 2019-09-12 — The Coronation of the Chicken — speakers: Stephen Bush, Ailbhe Rea, John Bercow, Anoosh Chakelian, Oli Dugmore
-- 2019-09-05 — An Election Looms — speakers: Stephen Bush, Anoosh Chakelian, Sajid Javid, Oli Dugmore
-- 2019-08-29 — Johnson Goes (Pro)Rogue — speakers: Johnson Goes, Stephen Bush, Anoosh Chakelian, Jeremy Corbyn, Oli Dugmore
-- 2019-08-22 — A Government of National Delusion — speakers: Stephen Bush, Emily Bootle, Anoosh Chakelian, Oli Dugmore
-- 2019-08-15 — Election Footing — speakers: Stephen Bush, Patrick Maguire, Hettie O'Brien, Anoosh Chakelian, Oli Dugmore
+- 2019-09-19 — Lib Syncing — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2019-09-12 — The Coronation of the Chicken — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
+- 2019-09-05 — An Election Looms — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-08-29 — Johnson Goes (Pro)Rogue — speakers: Johnson Goes, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-08-22 — A Government of National Delusion — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-08-15 — Election Footing — speakers: Stephen Bush, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
 - 2019-08-08 — The Dominant Species — speakers: Stephen Bush, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2019-08-01 — Johnson's Tour of the Union — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-07-25 — Out With The Old, In With The New — speakers: Patrick Maguire, Sarah Manavis, Anoosh Chakelian, Oli Dugmore
+- 2019-07-25 — Out With The Old, In With The New — speakers: Patrick Maguire, Anoosh Chakelian, Oli Dugmore
 - 2019-07-18 — Theresa May's Legacy — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-07-11 — An Uncivil Disservice — speakers: Stephen Bush, Kim Darroch, Anoosh Chakelian, Oli Dugmore
+- 2019-07-11 — An Uncivil Disservice — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-07-04 — The Folk of the Magic Money Tree — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-06-27 — Bald-faced Lies — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-06-20 — The End of an Era — speakers: Helen Lewis, Stephen Bush, Ahir Shah, Anoosh Chakelian, Oli Dugmore
-- 2019-06-13 — Leaderly Blond — speakers: Leaderly Blond, Stephen Bush, Anoosh Chakelian, Jo Swinson, Ed Davey, Oli Dugmore
-- 2019-06-06 — Trumps and Rumps — speakers: Helen Lewis, Stephen Bush, Ben Power, Anoosh Chakelian, Oli Dugmore
+- 2019-06-20 — The End of an Era — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-06-13 — Leaderly Blond — speakers: Leaderly Blond, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-06-06 — Trumps and Rumps — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-05-30 — To Brexit and Beyond — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-05-23 — Bloody (Minded) May — speakers: Stephen Bush, Anoosh Chakelian, Theresa May, Oli Dugmore
+- 2019-05-23 — Bloody (Minded) May — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-05-16 — Europe, Change and Jeremy Kyle — speakers: Jeremy Kyle, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-05-09 — The Last D'Hondt Consequential in Edinburgh — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-05-02 — Parties Polls Apart — speakers: Helen Lewis, Stephen Bush, Matt Forde, Anoosh Chakelian, Oli Dugmore
-- 2019-04-25 — Can they Change (UK) your mind? — speakers: Anoosh Chakelian, Patrick Maguire, Eleni Courea, Helen Lewis, Oli Dugmore
+- 2019-05-02 — Parties Polls Apart — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-04-25 — Can they Change (UK) your mind? — speakers: Anoosh Chakelian, Patrick Maguire, Eleni Courea, Oli Dugmore
 - 2019-04-18 — Local Heroes — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2019-04-11 — Brexit Delayed Until Halloween — speakers: Brexit Delayed, Stephen Bush, Helen Lewis, Theresa May, Andy Nyman, Anoosh Chakelian, Oli Dugmore
+- 2019-04-11 — Brexit Delayed Until Halloween — speakers: Brexit Delayed, Stephen Bush, Helen Lewis, Anoosh Chakelian, Oli Dugmore
 - 2019-04-04 — Strange Bedfellows Abound — speakers: Bedfellows Abound, Stephen Bush, Patrick Maguire, Eleni Courea, Anoosh Chakelian, Oli Dugmore
-- 2019-03-28 — Theresa May vs Parliament — speakers: Stephen Bush, Helen Lewis, Andy Zaltzman, Tom Gatti, Kate Mossman, Childish Gambino, Will Ferrell, Anoosh Chakelian
-- 2019-03-21 — Brexit's Potential Resolutions — speakers: Eleni Courea, Tara Jane O'Reilly, Anoosh Chakelian, Oli Dugmore
+- 2019-03-28 — Theresa May vs Parliament — speakers: Stephen Bush, Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2019-03-21 — Brexit's Potential Resolutions — speakers: Patrick Magu, Anoosh Chakelian, Oli Dugmore
 - 2019-03-14 — Brexit's Mexican Standoff — speakers: Mexican Standoff, Stephen Bush, Patrick Maguire, Eleni Courea, Anoosh Chakelian, Oli Dugmore
-- 2019-03-07 — Knife Crime Myth Busting — speakers: Helen Lewis, Stephen Bush, Anne Washburn, Anoosh Chakelian, Oli Dugmore
-- 2019-02-28 — Compromise on the menu — speakers: Stephen Bush, Patrick Maguire, Eleni Courea, Fiona Onasanya, Anoosh Chakelian, Oli Dugmore
-- 2019-02-21 — Labour and Tory rebels split the difference — speakers: Helen Lewis, Stephen Bush, Shamima Begum, Tom Gatti, Kate Mossman, Alan Partridge, Danny Boyle, Alex Garland
-- 2019-02-14 — Labour Five Brexit Demands — speakers: Helen Lewis, Stephen Bush, Jeremy Corbyn, Laura Wade, Lib Dems, Anoosh Chakelian, Oli Dugmore
-- 2019-02-07 — Labour's Russian Doll of Dissent — speakers: Helen Lewis, Stephen Bush, Liam Neeson, Anoosh Chakelian, Oli Dugmore
-- 2019-01-31 — Universal Credit crunched — speakers: Stephen Bush, Anoosh Chakelian, Patrick Maguire, Oli Dugmore
-- 2019-01-24 — Not Another Brexit Podcast — speakers: Helen Lewis, Stephen Bush, John Lanchester, Anoosh Chakelian, Oli Dugmore
-- 2019-01-17 — Theresa May's Historic Failure — speakers: Historic Failure, Helen Lewis, Stephen Bush, Tom Gatti, Kate Mossman, Anoosh Chakelian, Oli Dugmore
-- 2019-01-10 — Brexit Goes To Hollywood — speakers: Brexit Goes, Helen Lewis, Stephen Bush, James Graham, Benedict Cumberbatch, Yvette Cooper, Anoosh Chakelian, Oli Dugmore
+- 2019-03-07 — Knife Crime Myth Busting — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-02-28 — Compromise on the menu — speakers: Stephen Bush, Patrick Maguire, Eleni Courea, Anoosh Chakelian, Oli Dugmore
+- 2019-02-21 — Labour and Tory rebels split the difference — speakers: Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2019-02-14 — Labour Five Brexit Demands — speakers: Helen Lewis, Stephen Bush, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2019-02-07 — Labour's Russian Doll of Dissent — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-01-31 — Universal Credit crunched — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-01-24 — Not Another Brexit Podcast — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-01-17 — Theresa May's Historic Failure — speakers: Historic Failure, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2019-01-10 — Brexit Goes To Hollywood — speakers: Brexit Goes, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2019-01-03 — Crisis? What crisis? — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2018-12-24 — New Statesman Podcast Live: 2018 in review — speakers: Helen Lewis, Stephen Bush, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
-- 2018-12-20 — Labour's O-turn — speakers: Helen Lewis, Stephen Bush, Lyric Hammersmith, Dick Whittington, Anoosh Chakelian, Oli Dugmore
-- 2018-12-13 — Mayday, mayday! — speakers: Stephen Bush, Patrick Maguire, Sienna Rodgers, Theresa May, Anoosh Chakelian, Oli Dugmore
-- 2018-12-06 — Brexit's New Norms — speakers: Sam Gyimah, Kate Osamor, Anoosh Chakelian, Oli Dugmore
-- 2018-11-29 — May vs Corbyn — speakers: Corbyn Stephen, Patsy Ferran, Anoosh Chakelian, Oli Dugmore
+- 2018-12-24 — New Statesman Podcast Live: 2018 in review — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-12-20 — Labour's O-turn — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2018-12-13 — Mayday, mayday! — speakers: Stephen Bush, Patrick Maguire, Anoosh Chakelian, Oli Dugmore
+- 2018-12-06 — Brexit's New Norms — speakers: Sam Gyimah, Anoosh Chakelian, Oli Dugmore
+- 2018-11-29 — May vs Corbyn — speakers: Corbyn Stephen, Anoosh Chakelian, Oli Dugmore
 - 2018-11-22 — Brexit Chaos, Explained — speakers: Brexit Chaos, Anoosh Chakelian, Oli Dugmore
-- 2018-11-14 — The Brexit Deal — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2018-11-08 — The US Midterms — speakers: Jeremy Corbyn, John McDonnell, Anoosh Chakelian, Oli Dugmore
-- 2018-11-01 — Unpopular Opinions — speakers: Anoosh Chakelian, Oli Dugmore
-- 2018-10-29 — The 2018 Budget Special — speakers: Howard Davies, Philip Hammond, Anoosh Chakelian, Oli Dugmore
-- 2018-10-25 — The Neverending Brexit Story — speakers: Tory Brexiteers, Jonathan Reynolds, Anoosh Chakelian, Oli Dugmore
-- 2018-10-18 — The Brexit Sanity Test — speakers: Rebecca Solnit, Anoosh Chakelian, Oli Dugmore
+- 2018-11-14 — The Brexit Deal — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-11-08 — The US Midterms — speakers: Midterms Helen, Anoosh Chakelian, Oli Dugmore
+- 2018-11-01 — Unpopular Opinions — speakers: Unpopular Opinions Helen, Anoosh Chakelian, Oli Dugmore
+- 2018-10-29 — The 2018 Budget Special — speakers: Howard Davies, Anoosh Chakelian, Oli Dugmore
+- 2018-10-25 — The Neverending Brexit Story — speakers: Tory Brexiteers, Anoosh Chakelian, Oli Dugmore
+- 2018-10-18 — The Brexit Sanity Test — speakers: Anoosh Chakelian, Oli Dugmore
 - 2018-10-11 — A Weevil in the Shadow Cabinet — speakers: David Hare, Anoosh Chakelian, Oli Dugmore
-- 2018-10-04 — Tory Conference Special — speakers: Tory Conference Special Helen, Kanye West, Anoosh Chakelian, Oli Dugmore
-- 2018-09-27 — Labour Conference Special — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2018-09-20 — Party Conference Deja Vu — speakers: Anoosh Chakelian, Lib Dem, Oli Dugmore
-- 2018-09-13 — The Struggling Ministers' Hall of Fame — speakers: John Ridding, Anoosh Chakelian, Oli Dugmore
-- 2018-09-06 — Who Is The Real John McDonnell? — speakers: John McDonnell, Jason Cowley, Caroline Criado-Perez, Anoosh Chakelian, Oli Dugmore
-- 2018-08-30 — The No-Deal Brexit Reality — speakers: Jude Christian, Graham Stringer deselection row, Anoosh Chakelian, Oli Dugmore
-- 2018-08-23 — Will the Labour Party Split? — speakers: Emily Andrews, Yo Zushi, Anoosh Chakelian, Oli Dugmore
-- 2018-08-16 — Jeremy Corbyn's Wreath Row — speakers: Jeremy Corbyn, Wreath Row Helen, Laura McInerney, Kate McCann, Anoosh Chakelian, Oli Dugmore
-- 2018-08-09 — Boris Johnson and the Burqa — speakers: Frances Crook, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2018-08-01 — Labour's Anti-Semitism Row (part 94) — speakers: Frank Field, Theresa May, Jon Lansman, Vladimir Derer, Pete Willsman, Anoosh Chakelian, Oli Dugmore
-- 2018-07-26 — Review of the year in parliament — speakers: Laurence Scott, Anoosh Chakelian, Oli Dugmore
-- 2018-07-18 — NS#279: The Brexit Curse — speakers: Theresa May, Helen Thompson, Anoosh Chakelian, Oli Dugmore
-- 2018-07-12 — NS#278: The Tory Psychodrama — speakers: Patrick Maguire, Liz Kendall, Anoosh Chakelian, Oli Dugmore
+- 2018-10-04 — Tory Conference Special — speakers: Tory Conference Special Helen, Anoosh Chakelian, Oli Dugmore
+- 2018-09-27 — Labour Conference Special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-09-20 — Party Conference Deja Vu — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-09-13 — The Struggling Ministers' Hall of Fame — speakers: Fame Helen, Anoosh Chakelian, Oli Dugmore
+- 2018-09-06 — Who Is The Real John McDonnell? — speakers: John McDonnell, Jason Cowley, Anoosh Chakelian, Oli Dugmore
+- 2018-08-30 — The No-Deal Brexit Reality — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-08-23 — Will the Labour Party Split? — speakers: Emily Andrews, Anoosh Chakelian, Oli Dugmore
+- 2018-08-16 — Jeremy Corbyn's Wreath Row — speakers: Jeremy Corbyn, Wreath Row Helen, Anoosh Chakelian, Oli Dugmore
+- 2018-08-09 — Boris Johnson and the Burqa — speakers: Frances Crook, Anoosh Chakelian, Oli Dugmore
+- 2018-08-01 — Labour's Anti-Semitism Row (part 94) — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-07-26 — Review of the year in parliament — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-07-18 — NS#279: The Brexit Curse — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-07-12 — NS#278: The Tory Psychodrama — speakers: Anoosh Chakelian, Oli Dugmore
 - 2018-07-09 — NS#277: Emergency Podcast: Cabinet Resignations — speakers: David Davis, Anoosh Chakelian, Oli Dugmore
-- 2018-07-05 — NS#276: The World as It Is — speakers: Ben Rhodes, Barack Obama, Bodley Head, Anoosh Chakelian, Oli Dugmore
+- 2018-07-05 — NS#276: The World as It Is — speakers: Ben Rhodes, Barack Obama, Anoosh Chakelian, Oli Dugmore
 - 2018-06-28 — NS#275: The Blue Wave — speakers: Nicky Woolf, Anoosh Chakelian, Oli Dugmore
-- 2018-06-21 — NS#274: The Brexit Dividend Debunked — speakers: Sienna Rodgers, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2018-06-14 — NS#273: The Brexit Vote Explained — speakers: Paul Dacre, Anoosh Chakelian, Oli Dugmore
+- 2018-06-21 — NS#274: The Brexit Dividend Debunked — speakers: Sienna Rodgers, Anoosh Chakelian, Oli Dugmore
+- 2018-06-14 — NS#273: The Brexit Vote Explained — speakers: Anoosh Chakelian, Oli Dugmore
 - 2018-06-07 — NS#272: Political potholes — speakers: Anoosh Chakelian, Oli Dugmore
 - 2018-05-31 — NS#271: Referendums — Yes or No? — speakers: Anoosh Chakelian, Oli Dugmore
-- 2018-05-24 — NS#270: Punch and Judy PMQs — speakers: Tom Hamilton, Judy Politics, Ayesha Hazarika, Anoosh Chakelian, Oli Dugmore
-- 2018-05-17 — NS#269: Brexit Chills and Thrills — speakers: Brexit Chills, Tessa Jowell, Anoosh Chakelian, Oli Dugmore
-- 2018-05-10 — NS#268: Local Elections Debrief — speakers: Sienna Rodgers, Jeremy Corbyn, Rajiv Joseph, Anoosh Chakelian, Oli Dugmore
+- 2018-05-24 — NS#270: Punch and Judy PMQs — speakers: Tom Hamilton, Anoosh Chakelian, Oli Dugmore
+- 2018-05-17 — NS#269: Brexit Chills and Thrills — speakers: Brexit Chills, Anoosh Chakelian, Oli Dugmore
+- 2018-05-10 — NS#268: Local Elections Debrief — speakers: Sienna Rodgers, Anoosh Chakelian, Oli Dugmore
 - 2018-05-03 — NS#267: The New John Major — speakers: Sajid Javid, Anoosh Chakelian, Oli Dugmore
-- 2018-04-26 — NS#266: Len McCluskey Speaks His Mind — speakers: Len McCluskey, Millicent Fawcett, Anoosh Chakelian, Oli Dugmore
-- 2018-04-19 — NS#265: Hostile Environment — speakers: Theresa May, Mehdi Hasan, Lib Dems, Anoosh Chakelian, Oli Dugmore
-- 2018-04-12 — NS#264: The Lesser of Two Evils — speakers: Anoosh Chakelian, Oli Dugmore
-- 2018-04-05 — NS#263: What'd I Miss — speakers: David Miliband, Anoosh Chakelian, Oli Dugmore
-- 2018-03-29 — NS#262: Spending and Smears — speakers: Anoosh Chakelian, Oli Dugmore
-- 2018-03-22 — NS#261: Gone Fishing — speakers: Francisco Cantú, George Eaton, Twitter ns podcasts, Anoosh Chakelian, Oli Dugmore
-- 2018-03-15 — NS#260: Contradictory Conservatives — speakers: Jeremy Corbyn, Philip Hammond, Anoosh Chakelian, Oli Dugmore
-- 2018-03-08 — NS#259: Build More Houses! — speakers: Matt Singh, Anoosh Chakelian, Oli Dugmore
-- 2018-03-01 — NS#258: Corbyn's Brexit Tightrope — speakers: Jeremy Corbyn, Richard Burgon, Anoosh Chakelian, Oli Dugmore
+- 2018-04-26 — NS#266: Len McCluskey Speaks His Mind — speakers: Len McCluskey, Anoosh Chakelian, Oli Dugmore
+- 2018-04-19 — NS#265: Hostile Environment — speakers: Hostile Environment Helen, Anoosh Chakelian, Oli Dugmore
+- 2018-04-12 — NS#264: The Lesser of Two Evils — speakers: Two Evils Helen, Anoosh Chakelian, Oli Dugmore
+- 2018-04-05 — NS#263: What'd I Miss — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-03-29 — NS#262: Spending and Smears — speakers: Vote Leav, Anoosh Chakelian, Oli Dugmore
+- 2018-03-22 — NS#261: Gone Fishing — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-03-15 — NS#260: Contradictory Conservatives — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-03-08 — NS#259: Build More Houses! — speakers: Anoosh Chakelian, Oli Dugmore
+- 2018-03-01 — NS#258: Corbyn's Brexit Tightrope — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
 - 2018-02-22 — NS#257: Corbyn and the Spy — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2018-02-15 — NS#256: Boris Johnson's Brexit Bungle — speakers: Brexit Bungle Stephen, Laura Pidcock, Anoosh Chakelian, Oli Dugmore
+- 2018-02-15 — NS#256: Boris Johnson's Brexit Bungle — speakers: Brexit Bungle Stephen, Anoosh Chakelian, Oli Dugmore
 - 2018-02-08 — NS#255: Theresa May's Suffragette Slip — speakers: Anoosh Chakelian, Oli Dugmore
 - 2018-02-01 — NS#254: Who will bring down Theresa May? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2018-01-25 — NS#253: The Misogynist Bubble — speakers: Anoosh Chakelian, Oli Dugmore
 - 2018-01-18 — NS#252: Follow the Leader — speakers: Mary Stuart, Elizabeth Tudor, Anoosh Chakelian, Oli Dugmore
-- 2018-01-11 — NS#251: Reshuffle Special — speakers: Theresa May, Justine Greening, David Eldridge, Anoosh Chakelian, Oli Dugmore
+- 2018-01-11 — NS#251: Reshuffle Special — speakers: Theresa May, Anoosh Chakelian, Oli Dugmore
 - 2018-01-04 — NS#250: Previously on British Politics. . . — speakers: Anoosh Chakelian, Oli Dugmore
 - 2017-12-21 — NS#249: The Year in Brexit (feat. Dorian Lynskey of Remainiacs) — speakers: Dorian Lynskey, Anoosh Chakelian, Oli Dugmore
-- 2017-12-13 — NS#248: The Rebel Alliance — speakers: Jared O'Mara, Marie Morris, Anna Soubry, Michael Fallon, Anoosh Chakelian, Oli Dugmore
-- 2017-12-07 — NS#247: The Brexit Remix — speakers: Lib Dems, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2017-11-30 — NS#246: What do the Brexit elite want? — speakers: Fred Studemann, Michael Gove, Anoosh Chakelian, Oli Dugmore
-- 2017-11-22 — NS#245: The 2017 Budget Special — speakers: Howard Davies, Philip Hammond, Anoosh Chakelian, Oli Dugmore
-- 2017-11-15 — NS#244: The Maybot Malfunctions — speakers: John Crace, Anoosh Chakelian, Oli Dugmore
-- 2017-11-07 — NS#243: Scandal Overload — speakers: Priti Patel, Anoosh Chakelian, Oli Dugmore
-- 2017-11-02 — NS#242: Fallon's Fall — speakers: Michael Fallon, Nick Harkaway, Anoosh Chakelian, Oli Dugmore
-- 2017-10-26 — NS#241: MPs Behaving Badly — speakers: Jared O'Mara, Nick Clegg, Mary Beard, Anoosh Chakelian, Oli Dugmore
-- 2017-10-19 — NS#240: It's Brexit Again, Kids — speakers: Brexit Again, Lib Dems, Isabel Hardman, Jeremy Browne, Norman Baker, Anoosh Chakelian, Oli Dugmore
-- 2017-10-12 — NS#239: Deal or No Deal — speakers: Theresa May, Chris Cook, Anoosh Chakelian, Oli Dugmore
-- 2017-10-05 — NS#238: The Tory Conference Special — speakers: Theresa May, Jeremy Corbyn, Mark Wallace, Anoosh Chakelian, Oli Dugmore
-- 2017-09-28 — NS#237: The Labour Conference Debrief — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2017-12-13 — NS#248: The Rebel Alliance — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-12-07 — NS#247: The Brexit Remix — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-11-30 — NS#246: What do the Brexit elite want? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-11-22 — NS#245: The 2017 Budget Special — speakers: Howard Davies, Anoosh Chakelian, Oli Dugmore
+- 2017-11-15 — NS#244: The Maybot Malfunctions — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-11-07 — NS#243: Scandal Overload — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-11-02 — NS#242: Fallon's Fall — speakers: Michael Fallon, Anoosh Chakelian, Oli Dugmore
+- 2017-10-26 — NS#241: MPs Behaving Badly — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-10-19 — NS#240: It's Brexit Again, Kids — speakers: Brexit Again, Anoosh Chakelian, Oli Dugmore
+- 2017-10-12 — NS#239: Deal or No Deal — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-10-05 — NS#238: The Tory Conference Special — speakers: Conservative Party, Anoosh Chakelian, Oli Dugmore
+- 2017-09-28 — NS#237: The Labour Conference Debrief — speakers: Labour Party, Anoosh Chakelian, Oli Dugmore
 - 2017-09-21 — NS#236: The Circle of Boris — speakers: Boris Helen, Craig Brown, Anoosh Chakelian, Oli Dugmore
-- 2017-09-14 — NS#235: Brexit's Nigel Farage Problem — speakers: Hillary Clinton, Angela Rayner, George Osborne, Anoosh Chakelian, Oli Dugmore
-- 2017-09-07 — NS#234: Mogg's Momentum — speakers: Jacob Rees-Mogg, Anoosh Chakelian, Oli Dugmore
-- 2017-08-31 — NS#233: Do We Have To Talk About Brexit? — speakers: Kezia Dugdale, Lawrence Freedman, Anoosh Chakelian, Oli Dugmore
+- 2017-09-14 — NS#235: Brexit's Nigel Farage Problem — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-09-07 — NS#234: Mogg's Momentum — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-08-31 — NS#233: Do We Have To Talk About Brexit? — speakers: Kezia Dugdale, Anoosh Chakelian, Oli Dugmore
 - 2017-08-24 — NS#232: Big Ben's Last Bong — speakers: Big Ben, Anoosh Chakelian, Oli Dugmore
-- 2017-08-17 — NS#231: It's (New) Party Time — speakers: Follow Helen, Anne Helen Petersen, Alan White, Anoosh Chakelian, Oli Dugmore
-- 2017-08-09 — NS #230: Apocalypse Now? — speakers: Follow Helen, Stephen stephenkb, Anoosh Chakelian, Oli Dugmore
-- 2017-08-03 — NS #229: Silly season special — speakers: Anoosh Chakelian, Jeremy Corbyn, Oli Dugmore
-- 2017-07-27 — NS#228: Fiction and Fees — speakers: Anoosh Chakelian, Oli Dugmore
-- 2017-07-20 — NS#227: Pay and Political reads — speakers: John Humphrys, Anoosh Chakelian, Oli Dugmore
-- 2017-07-13 — NS#226: Nish Kumar Special — speakers: Emily Thornberry, Nish Kumar, Anoosh Chakelian, Oli Dugmore
-- 2017-07-06 — NS#225: Markets and Momentum — speakers: Anoosh Chakelian, Amelia Tait, Oli Dugmore
+- 2017-08-17 — NS#231: It's (New) Party Time — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-08-09 — NS #230: Apocalypse Now? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-08-03 — NS #229: Silly season special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-07-27 — NS#228: Fiction and Fees — speakers: Fees Helen, Anoosh Chakelian, Oli Dugmore
+- 2017-07-20 — NS#227: Pay and Political reads — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-07-13 — NS#226: Nish Kumar Special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-07-06 — NS#225: Markets and Momentum — speakers: Anoosh Chakelian, Oli Dugmore
 - 2017-06-29 — NS#224: Deals and the DUP — speakers: Anoosh Chakelian, Oli Dugmore
-- 2017-06-22 — NS#223: Queen's Speech Special — speakers: Speech Special Helen, Will Labour, Anoosh Chakelian, Oli Dugmore
+- 2017-06-22 — NS#223: Queen's Speech Special — speakers: Speech Special Helen, Anoosh Chakelian, Oli Dugmore
 - 2017-06-20 — NS#222: Special - Writing the Internet Age — speakers: Andrew O'Hagan, Anoosh Chakelian, Oli Dugmore
 - 2017-06-15 — NS#221: Leadership and lessons — speakers: Anoosh Chakelian, Oli Dugmore
-- 2017-06-12 — NS#220: Emergency Podcast — speakers: Theresa May, Anoosh Chakelian, Oli Dugmore
+- 2017-06-12 — NS#220: Emergency Podcast — speakers: Anoosh Chakelian, Oli Dugmore
 - 2017-06-09 — NS#219: Results Special — speakers: Anoosh Chakelian, Oli Dugmore
-- 2017-06-08 — NS#218: Campaign Roundup Special — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2017-06-05 — NS#217: Elections and extremism — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-06-08 — NS#218: Campaign Roundup Special — speakers: Jeremy Cor, Anoosh Chakelian, Oli Dugmore
+- 2017-06-05 — NS#217: Elections and extremism — speakers: Stephen ref, Anoosh Chakelian, Oli Dugmore
 - 2017-05-31 — NS#216: Broadcasts and forecasts — speakers: Anoosh Chakelian, Oli Dugmore
-- 2017-05-28 — NS#215: Election Special — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2017-05-28 — NS#215: Election Special — speakers: Election Special Join, New Statesman, Anoosh Chakelian, Oli Dugmore
 - 2017-05-24 — NS#214: Manchester — speakers: Anoosh Chakelian, Oli Dugmore
 - 2017-05-18 — NS#213: Manifestos Special — speakers: Manifesto Special, Anoosh Chakelian, Oli Dugmore
-- 2017-05-11 — NS#212: Voters and Evasion — speakers: Theresa May, Anoosh Chakelian, Oli Dugmore
-- 2017-05-08 — NS#211: Local Elections Special — speakers: Andy Burnham, Emmanuel Macron, Anoosh Chakelian, Oli Dugmore
-- 2017-05-04 — NS#210: Stooge and Stable — speakers: Anoosh Chakelian, Oli Dugmore
-- 2017-04-27 — NS#209: 1997 Election Anniversary Special — speakers: Spencer Livermore, Kate Mossman, Cool Britannia, Barbie Girl, Anoosh Chakelian, Oli Dugmore
-- 2017-04-24 — Special edition: Deep Dive on mandates and manifestos — speakers: Deep Dive, Ian Leslie, Stewart Wood, Catherine Haddon, Anoosh Chakelian, Oli Dugmore
-- 2017-04-20 — NS#208: Corbyn and Campaigns — speakers: Tim Farron, Anoosh Chakelian, Oli Dugmore
+- 2017-05-11 — NS#212: Voters and Evasion — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-05-08 — NS#211: Local Elections Special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-05-04 — NS#210: Stooge and Stable — speakers: Citymetric Edi, Anoosh Chakelian, Oli Dugmore
+- 2017-04-27 — NS#209: 1997 Election Anniversary Special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-04-24 — Special edition: Deep Dive on mandates and manifestos — speakers: Deep Dive, Ian Leslie, Stewart Wood, Anoosh Chakelian, Oli Dugmore
+- 2017-04-20 — NS#208: Corbyn and Campaigns — speakers: Anoosh Chakelian, Oli Dugmore
 - 2017-04-18 — NS#207: Snap Election — speakers: Theresa May, Anoosh Chakelian, Oli Dugmore
 - 2017-04-13 — NS#206: Airlines and Assad — speakers: Assad Labour, Anoosh Chakelian, Oli Dugmore
-- 2017-04-06 — NS#205: Cadbury and Ken — speakers: Ken Helen, Ken Livingtstone, Anoosh Chakelian, Oli Dugmore
-- 2017-04-03 — Special edition: Deep Dive on tackling terrorism — speakers: Deep Dive, Ian Leslie, Stewart Wood, Sasha Havlicek, Paul Gill, Anoosh Chakelian, Oli Dugmore
-- 2017-03-30 — NS#204: Carswell and Collapse — speakers: Douglas Carswell, Daniel Hannan, Jason Cowley, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2017-03-23 — NS#203: Editors and Islamic State — speakers: George Osborne, Mike Thomson, Anoosh Chakelian, Oli Dugmore
+- 2017-04-06 — NS#205: Cadbury and Ken — speakers: Ken Helen, Anoosh Chakelian, Oli Dugmore
+- 2017-04-03 — Special edition: Deep Dive on tackling terrorism — speakers: Deep Dive, Ian Leslie, Anoosh Chakelian, Oli Dugmore
+- 2017-03-30 — NS#204: Carswell and Collapse — speakers: Collapse Helen, Jonn Elledge, Anoosh Chakelian, Oli Dugmore
+- 2017-03-23 — NS#203: Editors and Islamic State — speakers: Anoosh Chakelian, Oli Dugmore
 - 2017-03-21 — Special edition: Deep Dive with Laura Kuenssberg — speakers: Deep Dive, Laura Kuenssberg, Ian Leslie, Stewart Wood, Anoosh Chakelian, Oli Dugmore
 - 2017-03-16 — NS #202: Budgets and Bodies (with Sara Pascoe) — speakers: Sara Pascoe, Anoosh Chakelian, Oli Dugmore
 - 2017-03-08 — NS#201: The blinkered budget — speakers: Anoosh Chakelian, Oli Dugmore
-- 2017-03-02 — NS#200: Harman and hate — speakers: Anoosh Chakelian, Harriet Harman, Oli Dugmore
+- 2017-03-02 — NS#200: Harman and hate — speakers: Anoosh Chakelian, Oli Dugmore
 - 2017-02-23 — NS#199: Milo and Macron — speakers: Milo Yiannopoulos, Pauline Bock, Anoosh Chakelian, Oli Dugmore
-- 2017-02-16 — NS#198: By-elections and a bad week — speakers: Chris Grayling, Anoosh Chakelian, Oli Dugmore
-- 2017-02-09 — NS#197: Corbyn and Clive Lewis — speakers: Clive Lewis, Jason Cowley, Theresa May, Anoosh Chakelian, Oli Dugmore
-- 2017-02-02 — NS#196: Triggers and Troubled borders — speakers: Ken Clarke, Anoosh Chakelian, Oli Dugmore
+- 2017-02-16 — NS#198: By-elections and a bad week — speakers: Theresa May, Anoosh Chakelian, Oli Dugmore
+- 2017-02-09 — NS#197: Corbyn and Clive Lewis — speakers: Clive Lewis, Anoosh Chakelian, Oli Dugmore
+- 2017-02-02 — NS#196: Triggers and Troubled borders — speakers: Anoosh Chakelian, Oli Dugmore
 - 2017-01-30 — NS#195: Emergency Podcast — speakers: Anoosh Chakelian, Oli Dugmore
-- 2017-01-26 — NS#194: Deals and Donald — speakers: David Lammy MP, Anoosh Chakelian, Oli Dugmore
-- 2017-01-19 — NS#193: Theresa and Trump — speakers: Theresa May, Michael Gove, Anoosh Chakelian, Oli Dugmore
-- 2017-01-12 — NS#192: Leaks and Lucas — speakers: Jeremy Corbyn, Caroline Lucas, Anoosh Chakelian, Oli Dugmore
-- 2017-01-05 — NS#191: Movies and McCluskey — speakers: Len McCluskey, Amelia Tait, Anoosh Chakelian, Oli Dugmore
-- 2016-12-29 — NS#190: Our Favourite Things of 2016 — speakers: Zac Goldsmith, Anoosh Chakelian, Oli Dugmore
-- 2016-12-22 — NS#189: New Statesman and Talking Politics Part 2 — speakers: David Runciman, Helen Thompson, Will Donald Trump, Anoosh Chakelian, Oli Dugmore
-- 2016-12-15 — NS#188: France, faith and fighting talk — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-12-08 — NS#187: Porn, PMQs and patriarchy — speakers: Emily Thornberry, Emily Witt, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-12-01 — NS#186: Sexting, schools and scripts — speakers: Jeremy Hunt, James Graham, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-11-24 — NS#185: Autumn Statement special — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-11-17 — NS#184: Post-election special — speakers: Laurie Penny, George Eaton, Jeremy Corbyn, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-11-09 — NS#183: Trump — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-11-07 — NS#182: Pre-election special — speakers: Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2016-11-03 — NS#181: Momentum, members and McCluskey — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-10-27 — NS#180: Resignation, runways and Dr Strange — speakers: Zac Goldsmith, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-10-19 — NS#179: Brexit, Benn and by-elections — speakers: Anoosh Chakelian, Helen Lewis, Stephen Bush, Oli Dugmore
-- 2016-10-13 — NS#178: YouTube, yearning & the yacht — speakers: Amelia Tait, Anoosh Chakelian, Oli Dugmore
-- 2016-10-05 — NS#177: Tory Special — speakers: Andrea Leadsom, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-09-29 — NS#176: Younge, guns and identity politics — speakers: Gary Younge, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-09-28 — NS#175: Conference Special — speakers: Jeremy Corbyn, Welsh Labour, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-09-22 — NS#174: New Times Special — speakers: Serena Kutchinsky, Jason Cowley, Colin Robinson, George Eaton, Philip Collins, Ros Wynne-Jones, Anoosh Chakelian, Oli Dugmore
-- 2016-09-21 — NS #173: Mandates, minorities and the Moreno scale — speakers: Tim Farron, Helen Lewis, Stephen Bush, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2016-09-15 — NS#172: Swing votes, schools and Snowden — speakers: Kirsty Styles, Helen Lewis, Stephen Bush, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2016-09-08 — NS#171: Affection, factions and fandom — speakers: George Eaton, Anna Leszkiewicz, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-09-01 — NS#170: Protections, Polls and Harry Potter — speakers: Stephen Bush, Anoosh Chakelian, YouGov Polls, Amelia Tait, Oli Dugmore
-- 2016-08-25 — NS#169: Traingate, gaffes and Ghostbusters — speakers: George Eaton, Owen Smith, Anna Leszkiewicz, John McDonell, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-08-18 — NS#168: Happy Holidays — speakers: Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2016-08-10 — NS#167: Mayoral Special — speakers: Stephen talk Labour, Andy Burnham, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-08-08 — NS#166: High noon in the High Court — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2016-08-04 — NS#165: Policies, predictions and house prices — speakers: John Elledge, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2016-07-28 — NS#164: Summer, splits and social mobility — speakers: Jeremy Corbyn, Sarah Champion, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-07-21 — NS#163: Supporters, Smith and Social media — speakers: Owen Smith, George Eaton, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-07-15 — NS#162: Reshuffle Special — speakers: Stephen Bush, Anoosh Chakelian, Theresa May, Oli Dugmore
-- 2016-07-13 — NS#161: Corbyn, coups and constitution — speakers: Bernie Sanders, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-07-11 — NS#160: Leadership Special — speakers: Theresa May, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-07-07 — NS#159: Inquiry, incumbents and infights — speakers: George Eaton, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-07-04 — NS#158: Resignation, risk and leadership race — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-07-01 — NS#157: Michael, May & mayhem — speakers: Michael Gove, Theresa May, Jeremy Corbyn, Laurie Penny, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-06-27 — NS#156: Leadership, lies and let down — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-06-24 — NS#155: Results special — speakers: Jason Cowley, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-06-21 — NS#154: Referendum Special — speakers: Jo Cox, George Eaton, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2017-01-26 — NS#194: Deals and Donald — speakers: Anoosh Chakelian, Oli Dugmore
+- 2017-01-19 — NS#193: Theresa and Trump — speakers: Theresa May, Anoosh Chakelian, Oli Dugmore
+- 2017-01-12 — NS#192: Leaks and Lucas — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2017-01-05 — NS#191: Movies and McCluskey — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-12-29 — NS#190: Our Favourite Things of 2016 — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-12-22 — NS#189: New Statesman and Talking Politics Part 2 — speakers: David Runciman, Helen Thompson, Anoosh Chakelian, Oli Dugmore
+- 2016-12-15 — NS#188: France, faith and fighting talk — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-12-08 — NS#187: Porn, PMQs and patriarchy — speakers: Emily Thornberry, Anoosh Chakelian, Oli Dugmore
+- 2016-12-01 — NS#186: Sexting, schools and scripts — speakers: Jeremy Hunt, Anoosh Chakelian, Oli Dugmore
+- 2016-11-24 — NS#185: Autumn Statement special — speakers: Autumn Statement, Staggers Editor, Julia Rampen, Anoosh Chakelian, Oli Dugmore
+- 2016-11-17 — NS#184: Post-election special — speakers: Laurie Penny, Anoosh Chakelian, Oli Dugmore
+- 2016-11-09 — NS#183: Trump — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-11-07 — NS#182: Pre-election special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-11-03 — NS#181: Momentum, members and McCluskey — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-10-27 — NS#180: Resignation, runways and Dr Strange — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-10-19 — NS#179: Brexit, Benn and by-elections — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-10-13 — NS#178: YouTube, yearning & the yacht — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-10-05 — NS#177: Tory Special — speakers: Tory Special Stephen, Anoosh Chakelian, Oli Dugmore
+- 2016-09-29 — NS#176: Younge, guns and identity politics — speakers: Gary Younge, Anoosh Chakelian, Oli Dugmore
+- 2016-09-28 — NS#175: Conference Special — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2016-09-22 — NS#174: New Times Special — speakers: New Statesman, New Times, Anoosh Chakelian, Oli Dugmore
+- 2016-09-21 — NS #173: Mandates, minorities and the Moreno scale — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-09-15 — NS#172: Swing votes, schools and Snowden — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-09-08 — NS#171: Affection, factions and fandom — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-09-01 — NS#170: Protections, Polls and Harry Potter — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-08-25 — NS#169: Traingate, gaffes and Ghostbusters — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2016-08-18 — NS#168: Happy Holidays — speakers: Happy Holidays Helen, Anoosh Chakelian, Oli Dugmore
+- 2016-08-10 — NS#167: Mayoral Special — speakers: Stephen talk Labour, Anoosh Chakelian, Oli Dugmore
+- 2016-08-08 — NS#166: High noon in the High Court — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-08-04 — NS#165: Policies, predictions and house prices — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-07-28 — NS#164: Summer, splits and social mobility — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2016-07-21 — NS#163: Supporters, Smith and Social media — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-07-15 — NS#162: Reshuffle Special — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-07-13 — NS#161: Corbyn, coups and constitution — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-07-11 — NS#160: Leadership Special — speakers: Theresa May, Anoosh Chakelian, Oli Dugmore
+- 2016-07-07 — NS#159: Inquiry, incumbents and infights — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-07-04 — NS#158: Resignation, risk and leadership race — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-07-01 — NS#157: Michael, May & mayhem — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-06-27 — NS#156: Leadership, lies and let down — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-06-24 — NS#155: Results special — speakers: Jason Cowley, Anoosh Chakelian, Oli Dugmore
+- 2016-06-21 — NS#154: Referendum Special — speakers: Jo Cox, Anoosh Chakelian, Oli Dugmore
 - 2016-06-16 — NS#153: Intermission — speakers: Jo Cox MP, Anoosh Chakelian, Oli Dugmore
-- 2016-06-09 — NS#152: Polls, predictions and Morningside Pie — speakers: Morningside Pie, Anoosh Chakelian, George Eaton, Stephen Bush, Oli Dugmore
-- 2016-06-02 — NS #151: Vice, votes and videogames — speakers: Jeremy Corbyn, Ed Miliband, Bernie Sanders, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-05-26 — NS #150: Englishness, X-men and equality — speakers: George Eaton, Henry Zeffman, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-05-19 — NS #149: Monarchy, mayors and the media — speakers: Helen Lewis, Stephen Bush, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2016-05-12 — NS#148: Welsh Labour, Leave and Lemonade — speakers: George Eaton, Vote Leave, Anna Leszkiewicz, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-06-09 — NS#152: Polls, predictions and Morningside Pie — speakers: Morningside Pie, Anoosh Chakelian, Oli Dugmore
+- 2016-06-02 — NS #151: Vice, votes and videogames — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2016-05-26 — NS #150: Englishness, X-men and equality — speakers: Boris Joh, Anoosh Chakelian, Oli Dugmore
+- 2016-05-19 — NS #149: Monarchy, mayors and the media — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-05-12 — NS#148: Welsh Labour, Leave and Lemonade — speakers: Anoosh Chakelian, Oli Dugmore
 - 2016-05-09 — NS#147: Results special — speakers: Helen Lewis, Stephen Bush, Henry Zeffman, Anoosh Chakelian, Oli Dugmore
-- 2016-05-05 — NS#146: Counts, candidates and Captain America — speakers: Henry Zeffman, George Eaton, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-04-28 — NS#145: Anti-Semitism, suspensions and Sadiq — speakers: Helen Lewis, Stephen Bush, Henry Zeffman, George Eaton, Zac Goldsmith, Sadiq Khan, Anoosh Chakelian, Oli Dugmore
-- 2016-04-21 — NS#144: Academies, America and achievable promises — speakers: Laura McInerney, Ian Leslie, George Eaton, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-04-14 — NS#143: Election Special — speakers: Helen Lewis, Stephen Bush, Stephen Brasher, Anoosh Chakelian, Siobhan Fenton, David Torrance, Oli Dugmore
-- 2016-03-31 — NS#142: Spies, socialism and the SNP — speakers: Jeremy Corbyn, Anna Leszkiewicz, Ted Cruz, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-03-24 — NS#141: Students, lists and Duncan Smith — speakers: Duncan Smith, Stephen Bush, George Eaton, Anthony Howard, Henry Zeffman, Anoosh Chakelian, Oli Dugmore
-- 2016-03-17 — NS#140: Budget Special — speakers: George discuss Osborne, Stephen Bush, George Eaton, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2016-03-10 — NS#139: Twitter, tax and equality — speakers: George Eaton, Barbara Speed, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-03-03 — NS#138: Celebrity, uncertainty, and cinema — speakers: George Eaton, Helen Lewis, Stephen Bush, Anna Leszkiewicz, Anoosh Chakelian, Oli Dugmore
-- 2016-02-25 — NS#137: Boris, Brexit and online abuse — speakers: Vote Leave, George Eaton, Barbara Speed, Helen Lewis, Stephen Bush, Anoosh Chakelian
-- 2016-02-18 — NS#136: Prizes, prejudice and polls — speakers: George Eaton, Barbara Speed, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2016-02-11 — NS#135: Trident, Tories and tough love — speakers: Stephen talk Trident, George Eaton, Stephen Bush, Anna Leszkiewicz, Anoosh Chakelian, Oli Dugmore
-- 2016-02-04 — NS#134: Bernie, Bankers and EU Battle — speakers: George Eaton, Emad Ahmed, Bernie Sanders, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-05-05 — NS#146: Counts, candidates and Captain America — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-04-28 — NS#145: Anti-Semitism, suspensions and Sadiq — speakers: Helen Lewis, Stephen Bush, Henry Zeffman, Anoosh Chakelian, Oli Dugmore
+- 2016-04-21 — NS#144: Academies, America and achievable promises — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-04-14 — NS#143: Election Special — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-03-31 — NS#142: Spies, socialism and the SNP — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2016-03-24 — NS#141: Students, lists and Duncan Smith — speakers: Duncan Smith, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-03-17 — NS#140: Budget Special — speakers: George discuss Osborne, Anoosh Chakelian, Oli Dugmore
+- 2016-03-10 — NS#139: Twitter, tax and equality — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2016-03-03 — NS#138: Celebrity, uncertainty, and cinema — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2016-02-25 — NS#137: Boris, Brexit and online abuse — speakers: Vote Leave, George Ea, Anoosh Chakelian, Oli Dugmore
+- 2016-02-18 — NS#136: Prizes, prejudice and polls — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2016-02-11 — NS#135: Trident, Tories and tough love — speakers: Stephen talk Trident, Anoosh Chakelian, Oli Dugmore
+- 2016-02-04 — NS#134: Bernie, Bankers and EU Battle — speakers: Anoosh Chakelian, Oli Dugmore
 - 2016-01-28 — NS#133: Divisions, Dodgy-Deals and Dr Who — speakers: Helen Lewis, Stephen Bush, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2016-01-21 — NS#132: Integration, Inquest, and Autopsies — speakers: Helen Lewis, Stephen Bush, Stephanie Boland, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2016-01-14 — NS#131: Leadership, Legacy and the Latest in videogames — speakers: Helen Lewis, Stephen Bush, George Eaton, Emad Ahmed, Anoosh Chakelian, Oli Dugmore
-- 2016-01-07 — NS#130: Reshuffle, Revolt and Writing Gender — speakers: Helen Lewis, Stephen Bush, Stephanie Boland, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2015-12-23 — NS #129: Star Wars Special — speakers: Helen Lewis, Stephen Bush, Barbara Speed, Anoosh Chakelian, Oli Dugmore
-- 2015-12-17 — NS #128: Christmas Special 2015 — speakers: Helen Lewis, Stephen Bush, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2015-12-10 — NS#127: Rhetoric, Racism and Reform — speakers: Stephen Bush, Caroline Crampton, Anoosh Chakelian, George Eaton, Barbara Speed, Oli Dugmore
-- 2015-12-03 — NS#126: Benn, By-election and Books — speakers: Hilary Benn, Marlon James, Caroline Crampton, Stephen Bush, Barbara Speed, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2015-11-27 — NS#125: Security and the State — speakers: Jason Cowley, John Gray, Stephen Bush, Helen Lewis, Barbara Speed, Anoosh Chakelian, Oli Dugmore
-- 2015-11-19 — NS #124: How cities will save the world — speakers: Helen Lewis, George Eaton, Barbara Speed, Anoosh Chakelian, Oli Dugmore
-- 2015-11-13 — NS #123: Isis and the threat to Britain — speakers: Jason Cowley, Shiraz Maher, Kevin Barry, Xan Rice, Helen Lewis, George Eaton, Tom Gatti, Anoosh Chakelian
-- 2015-11-05 — NS #122: His Dark Materials — speakers: Helen Lewis, Stephen Bush, George Eaton, Barbara Speed, Anoosh Chakelian, Oli Dugmore
-- 2015-10-29 — NS #121: Girls in bands and tax credit cuts — speakers: Stephen Bush, George Eaton, Kate Mossman, Stephanie Boland, Anoosh Chakelian, Oli Dugmore
-- 2015-10-23 — NS #120: Corbyn's China Problem and William Boyd on John le Carré — speakers: William Boyd, John le Carré, Helen Lewis, Stephen Bush, George Eaton, Tom Gatti, Anoosh Chakelian, Oli Dugmore
-- 2015-10-16 — NS #119: The afterlife of Terence Trent D’Arby — speakers: Helen Lewis, Stephen Bush, George Eaton, Anna Leszkiewicz, Kate Mossman, Anoosh Chakelian, Oli Dugmore
-- 2015-10-08 — NS #118: Cultural Appropriation — speakers: Helen Lewis, George Eaton, Stephen Bush, Yo Zushi, Anoosh Chakelian, Oli Dugmore
-- 2015-10-01 — NS #117: Conference Season and Poets' Lives — speakers: Ted Hughes, Helen Lewis, George Eaton, Stephen Bush, Tom Gatti, Erica Wagner, Anoosh Chakelian, Oli Dugmore
-- 2015-09-24 — NS #116: Conferences and campaigns — speakers: Anoosh Chakelian, Oli Dugmore
+- 2016-01-21 — NS#132: Integration, Inquest, and Autopsies — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-01-14 — NS#131: Leadership, Legacy and the Latest in videogames — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2016-01-07 — NS#130: Reshuffle, Revolt and Writing Gender — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2015-12-23 — NS #129: Star Wars Special — speakers: Star Wars, Anoosh Chakelian, Oli Dugmore
+- 2015-12-17 — NS #128: Christmas Special 2015 — speakers: Christmas Special, Anoosh Chakelian, Oli Dugmore
+- 2015-12-10 — NS#127: Rhetoric, Racism and Reform — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-12-03 — NS#126: Benn, By-election and Books — speakers: Hilary Benn, Anoosh Chakelian, Oli Dugmore
+- 2015-11-27 — NS#125: Security and the State — speakers: Jason Cowley, John Gray, Anoosh Chakelian, Oli Dugmore
+- 2015-11-19 — NS #124: How cities will save the world — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-11-13 — NS #123: Isis and the threat to Britain — speakers: Jason Cowley, Shiraz Maher, Anoosh Chakelian, Oli Dugmore
+- 2015-11-05 — NS #122: His Dark Materials — speakers: Philip Pullman, Anoosh Chakelian, Oli Dugmore
+- 2015-10-29 — NS #121: Girls in bands and tax credit cuts — speakers: Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2015-10-23 — NS #120: Corbyn's China Problem and William Boyd on John le Carré — speakers: William Boyd, John le Carré, Anoosh Chakelian, Oli Dugmore
+- 2015-10-16 — NS #119: The afterlife of Terence Trent D’Arby — speakers: Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2015-10-08 — NS #118: Cultural Appropriation — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-10-01 — NS #117: Conference Season and Poets' Lives — speakers: Conference Season, Anoosh Chakelian, Oli Dugmore
+- 2015-09-24 — NS #116: Conferences and campaigns — speakers: Labour Party Conference, Anoosh Chakelian, Oli Dugmore
 - 2015-09-17 — NS #115: Corbynmania Triumphs — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2015-09-10 — NS #114: Lengthy leaderships — speakers: Abel Ferrara, Anoosh Chakelian, Oli Dugmore
-- 2015-09-03 — NS #113: Europe's refugee crisis — speakers: Terry Pratchett, Anoosh Chakelian, Oli Dugmore
-- 2015-08-27 — NS #112: Going Underground — speakers: Tessa Jowell, Tom Shone, Woody Allen, Caroline Crampton, Barbara Speed, John Elledge, Stephen Bush, George Eaton
+- 2015-09-10 — NS #114: Lengthy leaderships — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-09-03 — NS #113: Europe's refugee crisis — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-08-27 — NS #112: Going Underground — speakers: Tessa Jowell, Anoosh Chakelian, Oli Dugmore
 - 2015-08-27 — NS #111: Sarah Churchwell on the American South — speakers: Sarah Churchwell, Tom Gatti, Anoosh Chakelian, Oli Dugmore
-- 2015-08-20 — NS #110: Love's Labour's Lost — speakers: Ashley Madison, Helen Lewis, Stephen Bush, George Eaton, Barbara Speed, Helen Thomas, Anoosh Chakelian, Oli Dugmore
-- 2015-08-13 — NS #109: Cooper v Cumberbatch — speakers: Yvette Cooper, Jeremy Corbyn, Benedict Cumberbatch, Helen Lewis, Caroline Crampton, George Eaton, Stephen Bush, Anna Leszkiewicz
-- 2015-08-06 — The NS Podcast #108: The day the Tube stood still — speakers: Andy Burnham, Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2015-08-20 — NS #110: Love's Labour's Lost — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-08-13 — NS #109: Cooper v Cumberbatch — speakers: Yvette Cooper, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2015-08-06 — The NS Podcast #108: The day the Tube stood still — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2015-07-31 — The NS Podcast #107: Corbyn’s Coming — speakers: Stephen Bush, Stephen Brasher, Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
-- 2015-07-23 — The NS Podcast #106: Runners and riders — speakers: Helen Lewis, George Eaton, Stephen Bush, Nicky Woolf, Anoosh Chakelian, Oli Dugmore
-- 2015-07-21 — NS #105: Live from Latitude — speakers: Richard Curtis, Kate Mosse, John Mullan, Andrew Marr, Kate Fox, Owen Jones, Suzanne Moore, Georgia Gould
-- 2015-07-16 — NS #104: Parenting penalties — speakers: Jeremy Corbyn, Helen Lewis, George Eaton, Stephen Bush, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
-- 2015-07-09 — NS #103: Budgets and Reddit — speakers: Helen Lewis, George Eaton, Stephen Bush, Barbara Speed, Anoosh Chakelian, Oli Dugmore
-- 2015-07-08 — NS #102: Budget Special — speakers: Stephen Bush, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2015-07-02 — NS #101: Athens and airports — speakers: Helen Lewis, Stephen Bush, George Eaton, Matina Stevis, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
-- 2015-06-29 — NS #100: Harry Potter Special — speakers: Helen Lewis, Caroline Crampton, Anna Leszkiewicz, Stephen Bush, Stephanie Boland, Barbara Speed, Anoosh Chakelian
-- 2015-06-25 — NS #99: Andy Burnham and abortion drones — speakers: Andy Burnham, Helen Lewis, Stephen Bush, Barbara Speed, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
-- 2015-06-19 — NS #98: A Clockwork Orange is the New Black — speakers: Helen Lewis, Stephen Bush, George Eaton, Caroline Crampton, Barbara Speed, Anna Leszkiewicz, Anoosh Chakelian, Oli Dugmore
-- 2015-06-12 — NS #97: What makes us bored? — speakers: Caroline Crampton, Stephen Bush, George Eaton, Barbara Speed, Anoosh Chakelian, Tosin Thompson, Oli Dugmore
-- 2015-06-05 — NS #96: A limerick and Ali Smith — speakers: Ali Smith, Caroline Crampton, George Eaton, Anoosh Chakelian, Tom Gatti, Stephanie Boland, Oli Dugmore
+- 2015-07-23 — The NS Podcast #106: Runners and riders — speakers: Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2015-07-21 — NS #105: Live from Latitude — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-07-16 — NS #104: Parenting penalties — speakers: Jeremy Corbyn, Anoosh Chakelian, Oli Dugmore
+- 2015-07-09 — NS #103: Budgets and Reddit — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-07-08 — NS #102: Budget Special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-07-02 — NS #101: Athens and airports — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-06-29 — NS #100: Harry Potter Special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-06-25 — NS #99: Andy Burnham and abortion drones — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
+- 2015-06-19 — NS #98: A Clockwork Orange is the New Black — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-06-12 — NS #97: What makes us bored? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-06-05 — NS #96: A limerick and Ali Smith — speakers: Ali Smith, Anoosh Chakelian, Oli Dugmore
 - 2015-05-29 — NS #95: Neil Gaiman and Amanda Palmer — speakers: Neil Gaiman, Amanda Palmer, Anoosh Chakelian, Oli Dugmore
-- 2015-05-21 — NS #94: Left-leaning dramatic readings — speakers: Helen Lewis, Stephen Bush, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2015-05-15 — NS #93: What does the SNP want? — speakers: Jason Cowley, Gerry Hassan, Anoosh Chakelian, Oli Dugmore
-- 2015-05-14 — NS #92: Labour leaders and witty women — speakers: Helen Lewis, George Eaton, Stephen Bush, Barbara Speed, Anna Leszkiewicz, Anoosh Chakelian, Oli Dugmore
-- 2015-05-11 — NS #91: The election post-mortem — speakers: Helen Lewis, Stephen Bush, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2015-05-06 — NS #90: The eve of the election — speakers: Gerry Hassan, Jason Cowley, George Eaton, Stephen Bush, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2015-04-30 — NS #89: Swing seats and what women want — speakers: Helen Lewis, Jason Cowley, George Eaton, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
-- 2015-04-22 — The New Statesman Podcast | Episode Eighty-Eight — speakers: Helen Lewis, Jason Cowley, George Eaton, Stephen Bush, Harry Lambert, Anoosh Chakelian, Oli Dugmore
+- 2015-05-21 — NS #94: Left-leaning dramatic readings — speakers: Tristram Hunt, Anoosh Chakelian, Oli Dugmore
+- 2015-05-15 — NS #93: What does the SNP want? — speakers: Jason Cowley, Gerry Hassa, Anoosh Chakelian, Oli Dugmore
+- 2015-05-14 — NS #92: Labour leaders and witty women — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-05-11 — NS #91: The election post-mortem — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-05-06 — NS #90: The eve of the election — speakers: Gerry Hassan, Jason Cowley, Anoosh Chakelian, Oli Dugmore
+- 2015-04-30 — NS #89: Swing seats and what women want — speakers: Helen Lewis, Jason Cowley, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2015-04-22 — The New Statesman Podcast | Episode Eighty-Eight — speakers: Helen Lewis, Jason Cowley, George Eaton, Anoosh Chakelian, Oli Dugmore
 - 2015-04-16 — The New Statesman Podcast | Episode Eighty-Seven — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
 - 2015-04-08 — The New Statesman Podcast | Episode Eighty-Six — speakers: Helen Lewis, George Eaton, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2015-04-02 — The New Statesman Podcast: Episode Eighty-Five — speakers: Helen Lewis, Jason Cowley, George Eaton, Harry Lambert, Stephen Bush, Ian Steadman, John Gray, Anoosh Chakelian
-- 2015-03-30 — The New Statesman Podcast: Episode Eighty-Four — speakers: Jason Cowley, George Eaton, John Gray, Ed Miliband, Anoosh Chakelian, Oli Dugmore
+- 2015-04-02 — The New Statesman Podcast: Episode Eighty-Five — speakers: Helen Lewis, Jason Cowley, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2015-03-30 — The New Statesman Podcast: Episode Eighty-Four — speakers: Jason Cowley, Anoosh Chakelian, Oli Dugmore
 - 2015-03-26 — The New Statesman Podcast | Episode Eighty-Three — speakers: Helen Lewis, Anoosh Chakelian, Stephen Bush, Ashley Cowburn, Oli Dugmore
-- 2015-03-18 — The New Statesman Podcast | Episode Eighty-Two — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
-- 2015-03-12 — The New Statesman Podcast | Episode Eighty-One — speakers: George Eaton, Stephen Bush, Ed Balls, Helen Lewis, Stephanie Boland, Ian Steadman, Tosin Thompson, Anoosh Chakelian
-- 2015-03-05 — The New Statesman Podcast | Episode Eighty — speakers: Helen Lewis, Stephen Bush, Ian Steadman, Tosin Thompson, Anoosh Chakelian, Oli Dugmore
-- 2015-02-26 — The New Statesman Podcast: Episode Seventy-Nine — speakers: George Eaton, Stephen Bush, Ian Steadman, Stephanie Boland, Anoosh Chakelian, Oli Dugmore
-- 2015-02-19 — The New Statesman Podcast: Episode Seventy-Eight — speakers: George Eaton, Ian Steadman, Tosin Thompson, Caroline Crampton, Barbara Speed, Anoosh Chakelian, Oli Dugmore
-- 2015-02-12 — The New Statesman Podcast: Episode Seventy-Seven — speakers: Barbara Speed, Caroline Crampton, George Eaton, Ashley Cowburn, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2015-02-05 — The New Statesman Podcast" Episode Seventy-Six — speakers: Harry Lambert, George Eaton, Ian Steadman, Barbara Speed, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
-- 2015-01-29 — The New Statesman Podcast: Episode Seventy-Five — speakers: George Eaton, Stephen Bush, Caroline Crampton, Stephanie Boland, Stuart Maconie, Anoosh Chakelian, Oli Dugmore
-- 2015-01-22 — The New Statesman Podcast: Episode Seventy-Four — speakers: George Eaton, Ian Steadman, Christopher Poole, Tom Gatti, Wolf Hall, Anoosh Chakelian, Oli Dugmore
-- 2015-01-15 — The New Statesman Podcast: Episode Seventy-Three — speakers: George Eaton, Jason Cowley, Xan Rice, Shiraz Maher, Ian Steadman, Alex Hern, Anoosh Chakelian, Oli Dugmore
-- 2015-01-09 — The New Statesman Podcast: Episode Seventy-Two — speakers: George Eaton, Ian Steadman, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2014-12-18 — The New Statesman Podcast: Episode Seventy-One — speakers: George Eaton, Anoosh Chakelian, Helen Lewis, Ian Steadman, Philip Maughan, Caroline Crampton, Libby Lane, Oli Dugmore
+- 2015-03-18 — The New Statesman Podcast | Episode Eighty-Two — speakers: Anoosh Chakelian, Oli Dugmore
+- 2015-03-12 — The New Statesman Podcast | Episode Eighty-One — speakers: George Eaton, Stephen Bush, Ed Balls, Helen Lewi, Anoosh Chakelian, Oli Dugmore
+- 2015-03-05 — The New Statesman Podcast | Episode Eighty — speakers: Helen Lewis, Stephen Bush, Anoosh Chakelian, Oli Dugmore
+- 2015-02-26 — The New Statesman Podcast: Episode Seventy-Nine — speakers: George Eaton, Stephen Bush, Ian Steadman, Anoosh Chakelian, Oli Dugmore
+- 2015-02-19 — The New Statesman Podcast: Episode Seventy-Eight — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2015-02-12 — The New Statesman Podcast: Episode Seventy-Seven — speakers: Barbara Speed, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
+- 2015-02-05 — The New Statesman Podcast" Episode Seventy-Six — speakers: Harry Lambert, George Eaton, Ian Steadman, Anoosh Chakelian, Oli Dugmore
+- 2015-01-29 — The New Statesman Podcast: Episode Seventy-Five — speakers: George Eaton, Stephen Bush, Caroline Crampt, Anoosh Chakelian, Oli Dugmore
+- 2015-01-22 — The New Statesman Podcast: Episode Seventy-Four — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2015-01-15 — The New Statesman Podcast: Episode Seventy-Three — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2015-01-09 — The New Statesman Podcast: Episode Seventy-Two — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-12-18 — The New Statesman Podcast: Episode Seventy-One — speakers: George Eaton, Anoosh Chakelian, Helen Lewis, Oli Dugmore
 - 2014-12-17 — Podcast Special: Neil Gaiman talks to Index on Censorship — speakers: Neil Gaiman, Anoosh Chakelian, Oli Dugmore
-- 2014-12-04 — The New Statesman Podcast: Episode Seventy — speakers: George Eaton, Anoosh Chakelian, Helen Lewis, Daniel Trilling, Xan Rice, Philip Maughan, Lucy Cosslett, Oli Dugmore
-- 2014-11-27 — The New Statesman Podcast: Episode Sixty-Nine — speakers: Harry Lambert, George Eaton, Ed Miliband, Ian Steadman, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
-- 2014-11-13 — The New Statesman Podcast: Episode Sixty-Eight — speakers: Jason Cowley, Helen Lewis, Ed Miliband, Philip Maughan, Ali Smith, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-10-30 — The New Statesman Podcast: Episode Sixty-Seven — speakers: Shiraz Maher, Peter Millar, Anoosh Chakelian, Oli Dugmore
-- 2014-10-23 — The New Statesman Podcast: Episode Sixty-Six — speakers: George Eaton, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2014-10-17 — The New Statesman Podcast: Episode Sixty-Five — speakers: Helen Lewis, George Eaton, Caroline Crampton, Ian Steadman, Anoosh Chakelian, Oli Dugmore
+- 2014-12-04 — The New Statesman Podcast: Episode Seventy — speakers: George Eaton, Anoosh Chakelian, Helen Lewis, Oli Dugmore
+- 2014-11-27 — The New Statesman Podcast: Episode Sixty-Nine — speakers: Harry Lambert, George Eaton, Ed Mi, Anoosh Chakelian, Oli Dugmore
+- 2014-11-13 — The New Statesman Podcast: Episode Sixty-Eight — speakers: Jason Cowley, Helen Lewis, Ed Miliband, Anoosh Chakelian, Oli Dugmore
+- 2014-10-30 — The New Statesman Podcast: Episode Sixty-Seven — speakers: Shiraz Maher, Anoosh Chakelian, Oli Dugmore
+- 2014-10-23 — The New Statesman Podcast: Episode Sixty-Six — speakers: Anoosh Chakelian, Oli Dugmore
+- 2014-10-17 — The New Statesman Podcast: Episode Sixty-Five — speakers: Helen Lewis, George Eaton, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
 - 2014-10-14 — Grayson Perry in conversation with Miranda Sawyer — speakers: Grayson Perry, Miranda Sawyer Artist, Miranda Sawyer, Anoosh Chakelian, Oli Dugmore
-- 2014-10-09 — The New Statesman Podcast: Episode Sixty-Four — speakers: Elizabeth Minkel, Ian Steadman, Damian Barr, Anoosh Chakelian, Oli Dugmore
-- 2014-10-02 — The New Statesman Podcast: Episode Sixty-Three — speakers: Ian Steadman, Caroline Crampton, John Tavener, Anoosh Chakelian, Oli Dugmore
+- 2014-10-09 — The New Statesman Podcast: Episode Sixty-Four — speakers: Anoosh Chakelian, Oli Dugmore
+- 2014-10-02 — The New Statesman Podcast: Episode Sixty-Three — speakers: New Statesman, Conservative Party Conference, Anoosh Chakelian, Oli Dugmore
 - 2014-09-26 — The New Statesman Podcast: Episode Sixty-Two — speakers: Caroline Crampton, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2014-09-19 — The New Statesman Podcast: Episode Sixty-One — speakers: George Eaton, Helen Lewis, Philip Maughan, Ian Steadman, Fiona Rutherford, Anoosh Chakelian, Oli Dugmore
-- 2014-09-11 — The New Statesman Podcast: Episode Sixty — speakers: Jason Cowley, Gerry Hassan, Helen Lewis, George Eaton, Fiona Rutherford, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-09-04 — The New Statesman Podcast: Episode Fifty-Nine — speakers: John Bew, Shiraz Maher, Jason Cowley, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2014-08-28 — The New Statesman Podcast: Episode Fifty-Eight — speakers: George Eaton, Anoosh Chekelian, Helen Lewis, Douglas Carswell, Ian Steadman, Fiona Rutherford, Anoosh Chakelian
-- 2014-08-14 — The New Statesman Podcast: Episode Fifty-Seven — speakers: George Eaton, Ian Steadman, Juliet Jacques, Caroline Crampton, Helen Lewis, Philip Maughan, Anoosh Chakelian, Oli Dugmore
-- 2014-08-07 — The New Statesman Podcast: Episode Fifty-Six — speakers: Helen Lewis, George Eaton, Jonah Peretti, Cory Arcangel, Ian Steadman, Barbara Speed, Anoosh Chakelian, Oli Dugmore
+- 2014-09-19 — The New Statesman Podcast: Episode Sixty-One — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-09-11 — The New Statesman Podcast: Episode Sixty — speakers: Jason Cowley, Anoosh Chakelian, Oli Dugmore
+- 2014-09-04 — The New Statesman Podcast: Episode Fifty-Nine — speakers: John Bew, Shiraz Maher, Jason Cowley, Anoosh Chakelian, Oli Dugmore
+- 2014-08-28 — The New Statesman Podcast: Episode Fifty-Eight — speakers: George Eaton, Anoosh Chekelian, Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2014-08-14 — The New Statesman Podcast: Episode Fifty-Seven — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-08-07 — The New Statesman Podcast: Episode Fifty-Six — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
 - 2014-07-31 — The New Statesman Podcast Extra: Mary Beard, Laurie Penny and Helen Lewis on outspoken women — speakers: Mary Beard, Laurie Penny, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2014-07-25 — The New Statesman Podcast: Episode Fifty-Five — speakers: George Eaton, Sophie McBain, Kate Mossman, Ian Steadman, Juliet Jacques, Anoosh Chakelian, Oli Dugmore
-- 2014-07-17 — The New Statesman Podcast: Episode Fifty-Four — speakers: Helen Lewis, George Eaton, Lucy Fisher, Juliet Jacques, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-07-15 — The New Statesman Podcast: Cabinet Re-Shuffle Special — speakers: Helen Lewis, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
-- 2014-07-11 — The New Statesman Podcast: Episode Fifty-Three — speakers: Helen Lewis, George Eaton, Lucy Fisher, Mark Lawson, Kate Mossman, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-07-03 — The New Statesman Podcast: Episode Fifty-Two — speakers: George Eaton, Ed Miliband, Robin Ince, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-06-26 — The New Statesman Podcast: Episode Fifty-One — speakers: Caroline Crampton, Lucy Fisher, Ajit Niranjan, Helen Lewis, Ian Steadman, Philip Maughan, Robin Lustig, Anoosh Chakelian
-- 2014-06-19 — The New Statesman Podcast: Episode Fifty — speakers: George Eaton, Ian Steadman, Helen Lewis, Shiraz Maher, Anoosh Chakelian, Oli Dugmore
-- 2014-06-13 — The New Statesman Podcast: Episode Forty-Nine — speakers: George Eaton, Lucy Fisher, Caroline Crampton, Jason Cowley, Philip Maughan, Yo Zushi, Jerry David DeCicca, Anoosh Chakelian
-- 2014-05-29 — The New Statesman Podcast: Episode Forty-Eight — speakers: Helen Lewis, George Eaton, Tim Wigmore, Lucy Fisher, Lib Dems, Ian Leslie, Ian Steadman, Anoosh Chakelian
-- 2014-05-22 — The New Statesman Podcast: Episode Forty-Seven — speakers: Helen Lewis, George Eaton, Ian Steadman, Yo Zushi, Bob Dylan, Anoosh Chakelian, Oli Dugmore
-- 2014-05-15 — The New Statesman Podcast: Episode Forty-Six — speakers: Helen Lewis, George Eaton, Ian Steadman, Ed Miliband, Anoosh Chakelian, Oli Dugmore
-- 2014-05-09 — The New Statesman Podcast: Episode Forty-Five — speakers: Rafael Behr, George Eaton, Aleks Kolkowski, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-05-01 — The New Statesman Podcast: Episode Forty-Four — speakers: Caroline Crampton, George Eaton, Sophie McBain, Mona Siddiqui, Ian Steadman, Anoosh Chakelian, Oli Dugmore
+- 2014-07-25 — The New Statesman Podcast: Episode Fifty-Five — speakers: George Eaton, Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2014-07-17 — The New Statesman Podcast: Episode Fifty-Four — speakers: Helen Lewis, George Eaton, Lucy Fisher, Anoosh Chakelian, Oli Dugmore
+- 2014-07-15 — The New Statesman Podcast: Cabinet Re-Shuffle Special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2014-07-11 — The New Statesman Podcast: Episode Fifty-Three — speakers: Helen Lewis, George Eaton, Lucy Fisher, Mark Lawso, Anoosh Chakelian, Oli Dugmore
+- 2014-07-03 — The New Statesman Podcast: Episode Fifty-Two — speakers: George Eaton, Ed Mili, Anoosh Chakelian, Oli Dugmore
+- 2014-06-26 — The New Statesman Podcast: Episode Fifty-One — speakers: Caroline Crampton, Lucy Fisher, Anoosh Chakelian, Oli Dugmore
+- 2014-06-19 — The New Statesman Podcast: Episode Fifty — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-06-13 — The New Statesman Podcast: Episode Forty-Nine — speakers: George Eaton, Lucy Fisher, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
+- 2014-05-29 — The New Statesman Podcast: Episode Forty-Eight — speakers: Helen Lewis, George Eaton, Tim Wigmore, Lucy Fisher, Anoosh Chakelian, Oli Dugmore
+- 2014-05-22 — The New Statesman Podcast: Episode Forty-Seven — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-05-15 — The New Statesman Podcast: Episode Forty-Six — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-05-09 — The New Statesman Podcast: Episode Forty-Five — speakers: Rafael Behr, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-05-01 — The New Statesman Podcast: Episode Forty-Four — speakers: Caroline Crampton, George Eaton, Anoosh Chakelian, Oli Dugmore
 - 2014-04-25 — The New Statesman Podcast: Episode Forty-Three — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2014-04-17 — The New Statesman Podcast: Episode Forty-Two — speakers: Helen Lewis, Laurie Penny, Caroline Crampton, Mark Haddon, Tom Gatti, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-04-10 — The New Statesman Podcast: Episode Forty-One — speakers: George Eaton, Helen Lewis, Maria Miller, Michael Prodger, Man Booker Prize, Jim Crace, Ian Steadman, Anoosh Chakelian
-- 2014-04-03 — The New Statesman Podcast: Episode Forty — speakers: Alex Clark, Man Booker, Eleanor Catton, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-03-20 — The New Statesman Podcast: Episode Thirty-Nine — speakers: Helen Lewis, George Eaton, Kate Mossman, Jude Rogers, Kylie Minogue, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-03-13 — The New Statesman Podcast: Episode Thirty-Eight — speakers: Helen Lewis, George Eaton, George Osborne, Erica Wagner, Tom Gatti, Henry Marsh, Ian Steadman, Caroline Crampton
-- 2014-03-11 — Alex Salmond's New Statesman lecture: "Scotland's Future in Scotland's Hands" — speakers: Alex Salmond, Jason Cowley, Anoosh Chakelian, Oli Dugmore
+- 2014-04-17 — The New Statesman Podcast: Episode Forty-Two — speakers: Helen Lewis, Laurie Penny, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
+- 2014-04-10 — The New Statesman Podcast: Episode Forty-One — speakers: George Eaton, Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2014-04-03 — The New Statesman Podcast: Episode Forty — speakers: Alex Clark, Man Booker, Eleanor Catton, Anoosh Chakelian, Oli Dugmore
+- 2014-03-20 — The New Statesman Podcast: Episode Thirty-Nine — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-03-13 — The New Statesman Podcast: Episode Thirty-Eight — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-03-11 — Alex Salmond's New Statesman lecture: "Scotland's Future in Scotland's Hands" — speakers: Alex Salmond, Anoosh Chakelian, Oli Dugmore
 - 2014-03-07 — The New Statesman Podcast Extra: Rafael Behr interviews Ivan Lewis — speakers: Ivan Lewis NS, Rafael Behr, Ivan Lewis, Anoosh Chakelian, Oli Dugmore
-- 2014-03-07 — The New Statesman Podcast: Episode Thirty-Seven — speakers: George Eaton, Ed Smith, Ivan Lewis, Anoosh Chakelian, Oli Dugmore
-- 2014-02-13 — The New Statesman Podcast: Episode Thirty-Six — speakers: Helen Lewis, George Eaton, Ian Steadman, Laurie Penny, Anoosh Chakelian, Oli Dugmore
-- 2014-02-06 — The New Statesman Podcast: Episode Thirty-Five — speakers: George Eaton, Caroline Crampton, Kate Mossman, Philip Maughan, Ian Steadman, Anoosh Chakelian
-- 2014-01-30 — The New Statesman Podcast: Episode Thirty-Four — speakers: George Kynaston, Jason Cowley, Caroline Crampton, Caroline Criado-Perez, Anoosh Chakelian, Oli Dugmore
-- 2014-01-23 — The New Statesman Podcast: Episode Thirty-Three — speakers: Helen Lewis, George Eaton, Caroline Crampton, Lena Dunham, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-01-16 — The New Statesman Podcast: Episode Thirty-Two — speakers: Helen Lewis, George Eaton, Philip Maughan, Ryan Gilbey, Martin Scorsese, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2014-01-10 — The New Statesman Podcast: Episode Thirty-One — speakers: Helen Lewis, George Eaton, Ed Balls, Ryan Shorthouse, Ian Steadman, Laurie Penny, Anoosh Chakelian, Oli Dugmore
-- 2013-12-20 — The New Statesman Podcast: Episode Thirty — speakers: Helen Lewis, George Eaton, Sean Anderson, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2013-12-13 — The New Statesman Podcast: Episode Twenty-Nine — speakers: Helen Lewis, George Eaton, Philip Maughan, Michael Prodger, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2013-11-28 — The New Statesman Podcast: Episode Twenty-Eight — speakers: George Eaton, Stuart Maconie, Philip Maughan, Simon Armitage, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2013-11-22 — The New Statesman Podcast: Episode Twenty-Seven — speakers: Rafael Behr, George Eaton, Helen Lewis, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2013-11-15 — The New Statesman Podcast: Episode Twenty-Six — speakers: Caroline Crampton, Adam Price, Ian Steadman, Hadron Collider, Anoosh Chakelian, Oli Dugmore
-- 2013-11-07 — The New Statesman Podcast: Episode Twenty-Five — speakers: George Eaton, Helen Lewis, Iain Duncan Smith, Caroline Crampton, Rachel Cooke, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2013-11-01 — The New Statesman Podcast: Episode Twenty-Four — speakers: George Eaton, Caroline Crampton, Helen Lewis, Rachel Cooke, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2013-10-25 — The New Statesman Podcast: Episode Twenty-Three — speakers: George Eaton, Ian Steadman, Anoosh Chakelian, Oli Dugmore
-- 2013-10-18 — The New Statesman Podcast: Episode Twenty-Two — speakers: George Eaton, Caroline Crampton, Samantha Asumadu, Philip Maughan, Kate Mossman, Anoosh Chakelian, Oli Dugmore
-- 2013-10-12 — The New Statesman Podcast: Episode Twenty-One — speakers: Michael Brooks, Philip Maughan, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
+- 2014-03-07 — The New Statesman Podcast: Episode Thirty-Seven — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-02-13 — The New Statesman Podcast: Episode Thirty-Six — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-02-06 — The New Statesman Podcast: Episode Thirty-Five — speakers: George Eaton, Caroline Crampton, Anoosh Chakelian, Oli Dugmore
+- 2014-01-30 — The New Statesman Podcast: Episode Thirty-Four — speakers: George Kynaston, Jason Cowley, Anoosh Chakelian, Oli Dugmore
+- 2014-01-23 — The New Statesman Podcast: Episode Thirty-Three — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-01-16 — The New Statesman Podcast: Episode Thirty-Two — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2014-01-10 — The New Statesman Podcast: Episode Thirty-One — speakers: Helen Lewis, George Eaton, Ed Balls, Anoosh Chakelian, Oli Dugmore
+- 2013-12-20 — The New Statesman Podcast: Episode Thirty — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-12-13 — The New Statesman Podcast: Episode Twenty-Nine — speakers: Helen Lewis, George Eaton, Philip Mau, Anoosh Chakelian, Oli Dugmore
+- 2013-11-28 — The New Statesman Podcast: Episode Twenty-Eight — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-11-22 — The New Statesman Podcast: Episode Twenty-Seven — speakers: Rafael Behr, George Eaton, Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2013-11-15 — The New Statesman Podcast: Episode Twenty-Six — speakers: Anoosh Chakelian, Oli Dugmore
+- 2013-11-07 — The New Statesman Podcast: Episode Twenty-Five — speakers: George Eaton, Helen Lewis, Iain Duncan Smith, Anoosh Chakelian, Oli Dugmore
+- 2013-11-01 — The New Statesman Podcast: Episode Twenty-Four — speakers: George Eaton, Caroline Crampton, Helen Lewis, Rachel Cooke, Anoosh Chakelian, Oli Dugmore
+- 2013-10-25 — The New Statesman Podcast: Episode Twenty-Three — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-10-18 — The New Statesman Podcast: Episode Twenty-Two — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-10-12 — The New Statesman Podcast: Episode Twenty-One — speakers: Anoosh Chakelian, Oli Dugmore
 - 2013-10-10 — We've moved! — speakers: Anoosh Chakelian, Oli Dugmore
-- 2013-09-27 — The New Statesman Podcast: Episode Twenty — speakers: George Eaton, Ed Miliband, Philip Maughan, Caroline Crampton, Breaking Bad, Ryan Gilbey, Woody Allen, Anoosh Chakelian
-- 2013-09-19 — The New Statesman Podcast: Episode Nineteen — speakers: George Eaton, Philip Maughan, Kate Mossman, Elton John, Sarah Ditum, Holly Baxter, Anoosh Chakelian, Oli Dugmore
-- 2013-09-13 — The New Statesman Podcast: Episode Eighteen — speakers: Helen Lewis, George Eaton, Tim Farron, Jeremy Browne, Caroline Crampton, Alex Hern, Hayley Campbell, Anoosh Chakelian
-- 2013-09-06 — The New Statesman Podcast: Episode Seventeen — speakers: George Eaton, Alex Hern, Keiron Gillen, Anoosh Chakelian, Oli Dugmore
-- 2013-08-16 — The New Statesman Podcast: Episode Sixteen — speakers: Helen Lewis, George Eaton, Philip Maughan, Kate Mossman, Iron Maiden, Alex Hern, Anoosh Chakelian
-- 2013-08-09 — The New Statesman Podcast: Episode Fifteen — speakers: Caroline Crampton, Alex Hern, Kieron Gillen, Ask fm, Anoosh Chakelian, Oli Dugmore
-- 2013-07-26 — The New Statesman Podcast: Episode Fourteen — speakers: George Eaton, Kate Mossman, Philip Maughan, Alex Hern, Anoosh Chakelian, Oli Dugmore
-- 2013-07-19 — The New Statesman Podcast: Episode Thirteen — speakers: George Eaton, David Skelton, Caroline Crampton, Michael Brooks, Alex Hern, Alex Andreou, Eleanor Margolis, Anoosh Chakelian
-- 2013-07-12 — The New Statesman Podcast: Episode Twelve — speakers: George Eaton, Alan White, Kate Belgrave, Caroline Crampton, Laurie Penny, Helen Lewis, Jane Austen, Anoosh Chakelian
-- 2013-07-05 — The New Statesman Podcast: Episode Twelve — speakers: Helen Lewis, George Eaton, Caroline Crampton, Eleanor Margolis, Alex Hern, Anoosh Chakelian, Oli Dugmore
-- 2013-06-27 — The New Statesman Podcast: Episode Eleven — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2013-06-21 — The New Statesman Podcast: Episode Ten — speakers: Willard Foxton, Rebecca Wait, Daniel Trilling, Anoosh Chakelian, Oli Dugmore
-- 2013-06-14 — The New Statesman Podcast: Episode Nine — speakers: Philip Maughan, Caroline Crampton, Tom Calvocoressi, Alex Hern, Helen Lewis, Anoosh Chakelian, Oli Dugmore
-- 2013-06-07 — The New Statesman Podcast: Episode Eight — speakers: George Eaton, Ian Bremmer, Alex Hern, Philip Maughan, Anoosh Chakelian, Oli Dugmore
-- 2013-05-31 — The New Statesman Podcast: Episode Seven — speakers: George Pitcher, Robert Macfarlane, Alex Hern, Grant Morrison, Steve Yeowell, Anoosh Chakelian, Oli Dugmore
-- 2013-05-24 — The New Statesman Podcast: Episode Six — speakers: George Eaton, Holly Baxter, Philip Maughan, James Salter, Alex Hern, Anoosh Chakelian, Oli Dugmore
-- 2013-05-17 — New Statesman podcast: Episode Five — speakers: George Eaton, Helen Lewis, Alex Hern, Anoosh Chakelian, Oli Dugmore
-- 2013-05-10 — The New Statesman podcast: Episode Four — speakers: George Eaton, Sophie Elmhirst, Daniel Dorling, Laurie Penny, Jonathan Derbyshire, Anoosh Chakelian, Oli Dugmore
-- 2013-04-30 — The New Statesman Podcast: Local Elections Special — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
-- 2013-04-26 — The New Statesman Podcast: Episode Three — speakers: Len McCluskey, Jonathan Derbyshire, Nicky Woolf, Anoosh Chakelian, Oli Dugmore
-- 2013-04-22 — The New Statesman Centenary Debates: Did the Left win the 20th century? — speakers: Centenary Debates, Helen Lewis, Simon Heffer, Mehdi Hasan, Tim Montgomerie, Ruth Porter, Owen Jones, Jason Cowley
-- 2013-04-11 — The New Statesman Podcast: Episode Two - The Centenary Special — speakers: Rafael Behr, George Eaton, Philip Maughan, Jonathan Derbyshire, Daniel Trilling, Yiannis Baboulias, Laurie Penny, Will Self
-- 2013-04-09 — The New Statesman Feminism Debate — speakers: Helen Lewis, Laurie Penny, Bim Adewunmi, Juliet Jacques, Victoria Smith, Lucy Cosslett, Holly Baxter, Caroline Crampton
-- 2013-04-02 — The New Statesman Podcast: Episode One — speakers: George Eaton, Iain Duncan Smith, Alex Hern, Aditya Chakrabortty, Jonathan Derbyshire, Philip Maughan, Helen Lewis, Caroline Crampton
+- 2013-09-27 — The New Statesman Podcast: Episode Twenty — speakers: George Eaton, Ed Miliband, Anoosh Chakelian, Oli Dugmore
+- 2013-09-19 — The New Statesman Podcast: Episode Nineteen — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-09-13 — The New Statesman Podcast: Episode Eighteen — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-09-06 — The New Statesman Podcast: Episode Seventeen — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-08-16 — The New Statesman Podcast: Episode Sixteen — speakers: Helen Lewis, George Eaton, Philip Maughan, Anoosh Chakelian, Oli Dugmore
+- 2013-08-09 — The New Statesman Podcast: Episode Fifteen — speakers: Caroline Crampton, Alex Hern, Anoosh Chakelian, Oli Dugmore
+- 2013-07-26 — The New Statesman Podcast: Episode Fourteen — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-07-19 — The New Statesman Podcast: Episode Thirteen — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-07-12 — The New Statesman Podcast: Episode Twelve — speakers: George Eaton, Alan White, Anoosh Chakelian, Oli Dugmore
+- 2013-07-05 — The New Statesman Podcast: Episode Twelve — speakers: Helen Lewis, George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-06-27 — The New Statesman Podcast: Episode Eleven — speakers: Helen Lewis, Anoosh Chakelian, Oli Dugmore
+- 2013-06-21 — The New Statesman Podcast: Episode Ten — speakers: New Statesman, Anoosh Chakelian, Oli Dugmore
+- 2013-06-14 — The New Statesman Podcast: Episode Nine — speakers: Labour Party, Anoosh Chakelian, Oli Dugmore
+- 2013-06-07 — The New Statesman Podcast: Episode Eight — speakers: George Eaton, Ian Bremmer, Anoosh Chakelian, Oli Dugmore
+- 2013-05-31 — The New Statesman Podcast: Episode Seven — speakers: George Pitche, Anoosh Chakelian, Oli Dugmore
+- 2013-05-24 — The New Statesman Podcast: Episode Six — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-05-17 — New Statesman podcast: Episode Five — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
+- 2013-05-10 — The New Statesman podcast: Episode Four — speakers: George Eaton, Sophie Elmhir, Anoosh Chakelian, Oli Dugmore
+- 2013-04-30 — The New Statesman Podcast: Local Elections Special — speakers: Anoosh Chakelian, Oli Dugmore
+- 2013-04-26 — The New Statesman Podcast: Episode Three — speakers: Len McCluskey, Anoosh Chakelian, Oli Dugmore
+- 2013-04-22 — The New Statesman Centenary Debates: Did the Left win the 20th century? — speakers: Centenary Debates, Anoosh Chakelian, Oli Dugmore
+- 2013-04-11 — The New Statesman Podcast: Episode Two - The Centenary Special — speakers: Rafael Beh, Anoosh Chakelian, Oli Dugmore
+- 2013-04-09 — The New Statesman Feminism Debate — speakers: Helen Lewis, Laurie Pe, Anoosh Chakelian, Oli Dugmore
+- 2013-04-02 — The New Statesman Podcast: Episode One — speakers: political analysis, cultural reviews, Anoosh Chakelian, Oli Dugmore
