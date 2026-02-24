@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-02-23T07:21:01+00:00`
-- checked_at: `2026-02-23T07:21:01+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpFNE1qWTBNems0TURFPTo6c2F4ZXNz"`
+- fetched_at: `2026-02-24T07:16:03+00:00`
+- checked_at: `2026-02-24T07:16:03+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpFNU1USTRNems1TVRrPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-02-23T07:21:01+00:00",
+  "fetched_at": "2026-02-24T07:16:03+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "9eba108f6abbbce3376733ab4a83c4bcd23fb5c7",
       "title": "Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance",
-      "published_at": "2026-02-23T06:00:00+00:00",
+      "published_at": "2026-02-24T06:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-im-not-charging-mums-vibrator-and-william-is-high-maint",
-      "description": "Who's more high maintenance out of our favourite podcast pair? The boys can't quite decide in the studio as tensions run high, though they do love each other really. Elsewhere Jordan prepares to have his wisdom teeth pulled out, a G&Diva's mum has an unexpected battery-changing request and EPB shares an embarrassing story from a session in the gym - except he wasn't the one left embarrassed!",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "Who's more high maintenance out of our favourite podcast pair? The boys can't quite decide in the studio as tensions run high, though they do love each other really. Elsewhere Jordan prepares to have his wisdom teeth pulled out, a G&Diva's mum has an unexpected battery-changing request and EPB shares an embarrassing story from a session in the gym - except he wasn't the one left embarrassed! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69987d22240b4a2d75c71311/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BTD3kOYTV8sOvnvGhO4M07NYs4psADjamSY3XV2Rmjs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63770832",
       "itunes_duration": "43:36",
       "speakers": [
         "William Hanson",
@@ -60,7 +60,6 @@
       "enclosure_length": "40906152",
       "itunes_duration": "28:11",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -107,7 +106,8 @@
       "enclosure_length": "37466219",
       "itunes_duration": "25:50",
       "speakers": [
-        "Burnley Wallet",
+        "Jordan Jordan",
+        "North Poll",
         "William Hanson",
         "Jordan North"
       ],
@@ -534,7 +534,6 @@
       "speakers": [
         "Jon Sopel",
         "Plus William",
-        "Henry Viii",
         "William Hanson",
         "Jordan North"
       ],
@@ -559,6 +558,8 @@
       "enclosure_length": "67643529",
       "itunes_duration": "46:42",
       "speakers": [
+        "Bad Idea William",
+        "Sexted Christmas",
         "William Hanson",
         "Jordan North"
       ],
@@ -645,7 +646,6 @@
       "enclosure_length": "114051100",
       "itunes_duration": "47:01",
       "speakers": [
-        "Drag Race",
         "William Hanson",
         "Jordan North"
       ],
@@ -738,6 +738,8 @@
       "enclosure_length": "120800640",
       "itunes_duration": "50:20",
       "speakers": [
+        "Eye William",
+        "New York City",
         "William Hanson",
         "Jordan North"
       ],
@@ -778,7 +780,6 @@
       "enclosure_length": "96848289",
       "itunes_duration": "40:02",
       "speakers": [
-        "Desmond Tutu",
         "William Hanson",
         "Jordan North"
       ],
@@ -800,7 +801,6 @@
       "itunes_duration": "28:21",
       "speakers": [
         "Bottom Badges William",
-        "Arena Wembley",
         "William Hanson",
         "Jordan North"
       ],
@@ -824,7 +824,6 @@
       "enclosure_length": "72773854",
       "itunes_duration": "50:08",
       "speakers": [
-        "Arena Wembley",
         "William Hanson",
         "Jordan North"
       ],
@@ -844,7 +843,6 @@
       "enclosure_length": "38978192",
       "itunes_duration": "26:52",
       "speakers": [
-        "Arena Wembley",
         "William Hanson",
         "Jordan North"
       ],
@@ -866,7 +864,6 @@
       "enclosure_length": "124072320",
       "itunes_duration": "51:41",
       "speakers": [
-        "Arena Wembley",
         "William Hanson",
         "Jordan North"
       ],
@@ -887,9 +884,6 @@
       "itunes_duration": "27:09",
       "speakers": [
         "Horse Beans",
-        "Sabrina Carpenter",
-        "Dixon Dallas",
-        "Arena Wembley",
         "William Hanson",
         "Jordan North"
       ],
@@ -913,7 +907,6 @@
       "itunes_duration": "41:03",
       "speakers": [
         "Thankfully William",
-        "Arena Wembley",
         "William Hanson",
         "Jordan North"
       ],
@@ -936,8 +929,6 @@
         "William’s Lies",
         "Geordie Trains",
         "Producer Ben William",
-        "Producer Ben",
-        "Arena Wembley",
         "William Hanson",
         "Jordan North"
       ],
@@ -963,7 +954,7 @@
       "enclosure_length": "71068208",
       "itunes_duration": "49:02",
       "speakers": [
-        "Arena Wembley",
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -1159,7 +1150,6 @@
       "itunes_duration": "29:24",
       "speakers": [
         "Wigan Kebab",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -1203,6 +1193,7 @@
       "itunes_duration": "41:56",
       "speakers": [
         "Grey Joggers",
+        "James fr",
         "William Hanson",
         "Jordan North"
       ],
@@ -1226,6 +1217,7 @@
       "enclosure_length": "63867019",
       "itunes_duration": "44:06",
       "speakers": [
+        "William wh",
         "William Hanson",
         "Jordan North"
       ],
@@ -1289,7 +1281,6 @@
       "speakers": [
         "Airport Attire",
         "Ben’s Big Benders",
-        "Jordan’s Joke",
         "William Hanson",
         "Jordan North"
       ],
@@ -1313,6 +1304,7 @@
       "enclosure_length": "65317629",
       "itunes_duration": "50:42",
       "speakers": [
+        "Find My Person Jordan",
         "William Hanson",
         "Jordan North"
       ],
@@ -1456,7 +1448,8 @@
       "enclosure_length": "80160000",
       "itunes_duration": "33:24",
       "speakers": [
-        "Greg James",
+        "Help There",
+        "Crossed Wires Festival",
         "William Hanson",
         "Jordan North"
       ],
@@ -1607,6 +1600,7 @@
       "enclosure_length": "71760646",
       "itunes_duration": "29:38",
       "speakers": [
+        "Communism Ever",
         "William Hanson",
         "Jordan North"
       ],
@@ -1649,7 +1643,6 @@
       "itunes_duration": "22:27",
       "speakers": [
         "Squatting Painters",
-        "Hyacinth Bucket",
         "William Hanson",
         "Jordan North"
       ],
@@ -1698,7 +1691,6 @@
       "speakers": [
         "Hairy Bums",
         "Ben’s Fan Club",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -1782,7 +1774,7 @@
       "enclosure_length": "31240556",
       "itunes_duration": "21:31",
       "speakers": [
-        "Download Saily",
+        "Stress Balls William",
         "William Hanson",
         "Jordan North"
       ],
@@ -1807,7 +1799,8 @@
       "enclosure_length": "71787774",
       "itunes_duration": "49:31",
       "speakers": [
-        "Download Saily",
+        "Ruined My",
+        "Suzette William",
         "William Hanson",
         "Jordan North"
       ],
@@ -1828,9 +1821,6 @@
       "itunes_duration": "27:46",
       "speakers": [
         "Horny Ben",
-        "Jonathan Vernon-Smith",
-        "Producer Ben",
-        "Download Saily",
         "William Hanson",
         "Jordan North"
       ],
@@ -1852,7 +1842,6 @@
       "enclosure_length": "63805543",
       "itunes_duration": "44:18",
       "speakers": [
-        "Download Saily",
         "William Hanson",
         "Jordan North"
       ],
@@ -1895,7 +1884,6 @@
       "enclosure_length": "105916928",
       "itunes_duration": "44:07",
       "speakers": [
-        "William’s Jolly Joke",
         "William Hanson",
         "Jordan North"
       ],
@@ -1953,6 +1941,7 @@
       "enclosure_length": "45453248",
       "itunes_duration": "18:56",
       "speakers": [
+        "Serial Killer Stains",
         "William Hanson",
         "Jordan North"
       ],
@@ -1977,7 +1966,6 @@
       "itunes_duration": "45:35",
       "speakers": [
         "Toenail Jordan",
-        "Casa El Norte",
         "William Hanson",
         "Jordan North"
       ],
@@ -2212,6 +2200,7 @@
       "enclosure_length": "57677888",
       "itunes_duration": "24:01",
       "speakers": [
+        "Operatic Offerings",
         "William Hanson",
         "Jordan North"
       ],
@@ -2236,7 +2225,6 @@
       "enclosure_length": "105305408",
       "itunes_duration": "43:52",
       "speakers": [
-        "Sarah Hanson",
         "William Hanson",
         "Jordan North"
       ],
@@ -2283,6 +2271,7 @@
       "enclosure_length": "107438528",
       "itunes_duration": "44:45",
       "speakers": [
+        "My Toes Things",
         "William Hanson",
         "Jordan North"
       ],
@@ -2345,6 +2334,9 @@
       "enclosure_length": "60281408",
       "itunes_duration": "25:07",
       "speakers": [
+        "Chat Up Lines",
+        "Courting Catastrophes",
+        "Creamy Endings Love",
         "William Hanson",
         "Jordan North"
       ],
@@ -2434,7 +2426,6 @@
       "itunes_duration": "22:20",
       "speakers": [
         "Fancy Gays",
-        "Tom Allen",
         "William Hanson",
         "Jordan North"
       ],
@@ -2583,8 +2574,6 @@
       "enclosure_length": "63432128",
       "itunes_duration": "26:25",
       "speakers": [
-        "Secret Santa",
-        "Help Hotliner",
         "William Hanson",
         "Jordan North"
       ],
@@ -2649,6 +2638,9 @@
       "enclosure_length": "113553728",
       "itunes_duration": "47:18",
       "speakers": [
+        "Got My Sugar Daddy",
+        "Bear There",
+        "Christmas Help Hotlin",
         "William Hanson",
         "Jordan North"
       ],
@@ -2670,7 +2662,6 @@
       "enclosure_length": "41218688",
       "itunes_duration": "17:10",
       "speakers": [
-        "William thankfully",
         "William Hanson",
         "Jordan North"
       ],
@@ -2753,7 +2744,7 @@
       "enclosure_length": "50032448",
       "itunes_duration": "20:50",
       "speakers": [
-        "Jane McDonald",
+        "Social Jo",
         "William Hanson",
         "Jordan North"
       ],
@@ -2798,7 +2789,6 @@
       "itunes_duration": "19:01",
       "speakers": [
         "Mistaken Messages",
-        "Vig Divas",
         "William Hanson",
         "Jordan North"
       ],
@@ -2821,6 +2811,7 @@
       "enclosure_length": "102837248",
       "itunes_duration": "42:50",
       "speakers": [
+        "French kisses",
         "William Hanson",
         "Jordan North"
       ],
@@ -2863,8 +2854,6 @@
       "itunes_duration": "35:45",
       "speakers": [
         "Wildest Dreams",
-        "Michelle Obama",
-        "Mary Poppins",
         "William Hanson",
         "Jordan North"
       ],
@@ -2976,6 +2965,8 @@
       "enclosure_length": "102232448",
       "itunes_duration": "42:35",
       "speakers": [
+        "Help My Fart Cleared",
+        "New York",
         "William Hanson",
         "Jordan North"
       ],
@@ -3087,6 +3078,7 @@
       "enclosure_length": "95386688",
       "itunes_duration": "39:44",
       "speakers": [
+        "Gassy Greeting Tension",
         "William Hanson",
         "Jordan North"
       ],
@@ -3174,6 +3166,7 @@
       "enclosure_length": "92984768",
       "itunes_duration": "38:44",
       "speakers": [
+        "Cat Poo William",
         "William Hanson",
         "Jordan North"
       ],
@@ -3195,7 +3188,6 @@
       "speakers": [
         "William’s Pranks",
         "Wrong Lyrics",
-        "William’s school days",
         "William Hanson",
         "Jordan North"
       ],
@@ -3326,7 +3318,6 @@
       "itunes_duration": "47:27",
       "speakers": [
         "William’s Birthday",
-        "Gen Z-er",
         "William Hanson",
         "Jordan North"
       ],
@@ -3372,7 +3363,6 @@
       "enclosure_length": "97693568",
       "itunes_duration": "40:42",
       "speakers": [
-        "Delia Smith",
         "William Hanson",
         "Jordan North"
       ],
@@ -3484,6 +3474,7 @@
       "enclosure_length": "102842048",
       "itunes_duration": "42:51",
       "speakers": [
+        "Naughty Nickname Bare",
         "William Hanson",
         "Jordan North"
       ],
@@ -3577,7 +3568,6 @@
       "itunes_duration": "41:50",
       "speakers": [
         "William Vetoed",
-        "Grandma Glennis",
         "William Hanson",
         "Jordan North"
       ],
@@ -3711,6 +3701,7 @@
       "enclosure_length": "73237568",
       "itunes_duration": "30:30",
       "speakers": [
+        "Dead Dog Things",
         "William Hanson",
         "Jordan North"
       ],
@@ -3882,6 +3873,7 @@
       "enclosure_length": "30873728",
       "itunes_duration": "12:51",
       "speakers": [
+        "Brisk Searches Lots",
         "William Hanson",
         "Jordan North"
       ],
@@ -4032,6 +4024,8 @@
       "enclosure_length": "28288448",
       "itunes_duration": "11:47",
       "speakers": [
+        "Sexted My Boss Help",
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -4109,6 +4103,7 @@
       "enclosure_length": "41614208",
       "itunes_duration": "17:20",
       "speakers": [
+        "Car Calendars",
         "William Hanson",
         "Jordan North"
       ],
@@ -4312,7 +4307,6 @@
       "enclosure_length": "76870208",
       "itunes_duration": "32:01",
       "speakers": [
-        "Deep Heat",
         "William Hanson",
         "Jordan North"
       ],
@@ -4356,6 +4350,7 @@
       "enclosure_length": "103386368",
       "itunes_duration": "43:04",
       "speakers": [
+        "Help My Boyfriend Just",
         "William Hanson",
         "Jordan North"
       ],
@@ -4377,7 +4372,6 @@
       "itunes_duration": "22:44",
       "speakers": [
         "Saint Patrick",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -4504,6 +4498,8 @@
       "enclosure_length": "49240320",
       "itunes_duration": "20:31",
       "speakers": [
+        "Capital William",
+        "Pot Noodle",
         "William Hanson",
         "Jordan North"
       ],
@@ -4524,6 +4520,8 @@
       "enclosure_length": "116747520",
       "itunes_duration": "48:38",
       "speakers": [
+        "Help There",
+        "Tissue Issue There",
         "William Hanson",
         "Jordan North"
       ],
@@ -4544,6 +4542,8 @@
       "enclosure_length": "32720640",
       "itunes_duration": "13:38",
       "speakers": [
+        "Made Up Names",
+        "Menthol Illness Ever",
         "William Hanson",
         "Jordan North"
       ],
@@ -4798,7 +4798,6 @@
       "itunes_duration": "19:16",
       "speakers": [
         "Join William",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -4843,7 +4842,6 @@
       "enclosure_length": "108735360",
       "itunes_duration": "45:18",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -4863,6 +4861,9 @@
       "enclosure_length": "53368320",
       "itunes_duration": "22:14",
       "speakers": [
+        "Creme Frackay",
+        "New Year",
+        "Eve Plans",
         "William Hanson",
         "Jordan North"
       ],
@@ -4885,7 +4886,6 @@
       "enclosure_length": "100590720",
       "itunes_duration": "41:54",
       "speakers": [
-        "Luckily Jordan",
         "William Hanson",
         "Jordan North"
       ],
@@ -4925,7 +4925,6 @@
       "enclosure_length": "111062400",
       "itunes_duration": "46:16",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -5034,6 +5033,7 @@
       "enclosure_length": "60230400",
       "itunes_duration": "25:05",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -5057,6 +5057,7 @@
       "enclosure_length": "496649280",
       "itunes_duration": "43:06",
       "speakers": [
+        "Mahogany There",
         "William Hanson",
         "Jordan North"
       ],
@@ -5120,6 +5121,7 @@
       "enclosure_length": "31789105",
       "itunes_duration": "22:04",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -5144,6 +5146,7 @@
       "enclosure_length": "115874880",
       "itunes_duration": "48:16",
       "speakers": [
+        "Swapped Places Join",
         "William Hanson",
         "Jordan North"
       ],
@@ -5186,9 +5189,10 @@
       "enclosure_length": "111660480",
       "itunes_duration": "46:31",
       "speakers": [
-        "Jordan North",
-        "Earl Grey",
-        "William Hanson"
+        "Help There",
+        "Team Sexted",
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "spaniel",
@@ -5250,6 +5254,7 @@
       "enclosure_length": "43600320",
       "itunes_duration": "18:10",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -5335,6 +5340,8 @@
       "enclosure_length": "31600320",
       "itunes_duration": "13:10",
       "speakers": [
+        "Weekend Release",
+        "Secret Shopper After",
         "William Hanson",
         "Jordan North"
       ],
@@ -5359,7 +5366,7 @@
       "enclosure_length": "95585280",
       "itunes_duration": "39:49",
       "speakers": [
-        "Producer Ben",
+        "Not My Husband",
         "William Hanson",
         "Jordan North"
       ],
@@ -5379,8 +5386,10 @@
       "enclosure_length": "50600640",
       "itunes_duration": "21:05",
       "speakers": [
-        "Jordan North",
-        "William Hanson"
+        "Weekend Release",
+        "School Assembly Bangers Another",
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "weekend",
@@ -5402,6 +5411,8 @@
       "enclosure_length": "81533760",
       "itunes_duration": "33:58",
       "speakers": [
+        "Tasted My Father",
+        "Law After",
         "William Hanson",
         "Jordan North"
       ],
@@ -5465,7 +5476,6 @@
       "enclosure_length": "40400640",
       "itunes_duration": "16:50",
       "speakers": [
-        "Ed Sheeran",
         "William Hanson",
         "Jordan North"
       ],
@@ -5488,6 +5498,7 @@
       "enclosure_length": "121417920",
       "itunes_duration": "50:35",
       "speakers": [
+        "Porno There",
         "William Hanson",
         "Jordan North"
       ],
@@ -5528,6 +5539,7 @@
       "enclosure_length": "100134451",
       "itunes_duration": "41:43",
       "speakers": [
+        "Ghost After",
         "William Hanson",
         "Jordan North"
       ],
@@ -5569,7 +5581,6 @@
       "enclosure_length": "602880044",
       "itunes_duration": "52:19",
       "speakers": [
-        "Wendy North",
         "William Hanson",
         "Jordan North"
       ],
@@ -5611,6 +5622,7 @@
       "enclosure_length": "60940983",
       "itunes_duration": "42:18",
       "speakers": [
+        "Entered Benidorm William",
         "William Hanson",
         "Jordan North"
       ],
@@ -5692,7 +5704,6 @@
       "enclosure_length": "72160391",
       "itunes_duration": "50:05",
       "speakers": [
-        "Jane Boulton",
         "William Hanson",
         "Jordan North"
       ],
@@ -5733,6 +5744,7 @@
       "enclosure_length": "66497774",
       "itunes_duration": "46:10",
       "speakers": [
+        "Been Rear Ended There",
         "William Hanson",
         "Jordan North"
       ],
@@ -5774,7 +5786,6 @@
       "enclosure_length": "102495360",
       "itunes_duration": "42:42",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -5795,6 +5806,7 @@
       "enclosure_length": "30111253",
       "itunes_duration": "20:54",
       "speakers": [
+        "brand-new stationer",
         "William Hanson",
         "Jordan North"
       ],
@@ -5818,6 +5830,7 @@
       "enclosure_length": "58106130",
       "itunes_duration": "40:20",
       "speakers": [
+        "Being Demonstrative After",
         "William Hanson",
         "Jordan North"
       ],
@@ -5860,7 +5873,6 @@
       "itunes_duration": "45:54",
       "speakers": [
         "Diva Espana Help My",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -5925,6 +5937,7 @@
       "enclosure_length": "23409939",
       "itunes_duration": "16:14",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -5968,6 +5981,8 @@
       "enclosure_length": "38258880",
       "itunes_duration": "15:56",
       "speakers": [
+        "Weekend Release",
+        "Amazon Music Diva Espana",
         "William Hanson",
         "Jordan North"
       ],
@@ -6012,6 +6027,7 @@
       "enclosure_length": "21937328",
       "itunes_duration": "15:13",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -6057,8 +6073,8 @@
       "itunes_duration": "0:35",
       "speakers": [
         "Jordan North",
-        "William Hanson",
-        "Producer Benidorm"
+        "William Hanso",
+        "William Hanson"
       ],
       "topics": [
         "summer",
@@ -6142,7 +6158,6 @@
       "enclosure_length": "115130880",
       "itunes_duration": "47:58",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -6185,6 +6200,8 @@
       "enclosure_length": "94351306",
       "itunes_duration": "39:18",
       "speakers": [
+        "Saw My Boss",
+        "Sex Tape There",
         "William Hanson",
         "Jordan North"
       ],
@@ -6205,6 +6222,8 @@
       "enclosure_length": "14614614",
       "itunes_duration": "10:08",
       "speakers": [
+        "Weekend Release",
+        "Shocked Into Dislocation All",
         "William Hanson",
         "Jordan North"
       ],
@@ -6247,7 +6266,6 @@
       "itunes_duration": "37:45",
       "speakers": [
         "William’s Surprise",
-        "Alex Polizzi",
         "William Hanson",
         "Jordan North"
       ],
@@ -6269,6 +6287,7 @@
       "enclosure_length": "60493169",
       "itunes_duration": "42:00",
       "speakers": [
+        "Help My Pug",
         "William Hanson",
         "Jordan North"
       ],
@@ -6312,7 +6331,6 @@
       "enclosure_length": "83120640",
       "itunes_duration": "34:38",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -6333,7 +6351,8 @@
       "enclosure_length": "22167680",
       "itunes_duration": "15:23",
       "speakers": [
-        "Diva Erika",
+        "Weekend Release",
+        "Laugh My Arse Off",
         "William Hanson",
         "Jordan North"
       ],
@@ -6441,6 +6460,9 @@
       "enclosure_length": "105127680",
       "itunes_duration": "43:48",
       "speakers": [
+        "Shagged My Boss",
+        "Daughter There",
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -6503,7 +6525,6 @@
       "enclosure_length": "25383473",
       "itunes_duration": "17:37",
       "speakers": [
-        "Welsh Stu",
         "William Hanson",
         "Jordan North"
       ],
@@ -6546,6 +6567,7 @@
       "enclosure_length": "17401607",
       "itunes_duration": "12:04",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -6567,7 +6589,7 @@
       "enclosure_length": "91350720",
       "itunes_duration": "38:03",
       "speakers": [
-        "Producer Ben",
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -6608,6 +6630,7 @@
       "enclosure_length": "109795200",
       "itunes_duration": "45:44",
       "speakers": [
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -6710,9 +6733,8 @@
       "enclosure_length": "26169137",
       "itunes_duration": "18:10",
       "speakers": [
-        "Jordan North",
-        "Vicar Tom",
-        "William Hanson"
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "weekend",
@@ -6795,6 +6817,8 @@
       "enclosure_length": "40346880",
       "itunes_duration": "16:48",
       "speakers": [
+        "Weekend Release",
+        "Sexted My",
         "William Hanson",
         "Jordan North"
       ],
@@ -6837,7 +6861,6 @@
       "enclosure_length": "100680000",
       "itunes_duration": "41:57",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -6918,6 +6941,7 @@
       "enclosure_length": "34310400",
       "itunes_duration": "14:17",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -7081,7 +7105,6 @@
       "enclosure_length": "102400320",
       "itunes_duration": "42:40",
       "speakers": [
-        "Mary Poppins",
         "William Hanson",
         "Jordan North"
       ],
@@ -7102,7 +7125,6 @@
       "enclosure_length": "46771200",
       "itunes_duration": "19:29",
       "speakers": [
-        "Oliver Twist",
         "William Hanson",
         "Jordan North"
       ],
@@ -7145,6 +7167,7 @@
       "enclosure_length": "44520000",
       "itunes_duration": "18:33",
       "speakers": [
+        "Jordan st",
         "William Hanson",
         "Jordan North"
       ],
@@ -7247,7 +7270,6 @@
       "enclosure_length": "60517123",
       "itunes_duration": "42:01",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -7265,7 +7287,6 @@
       "enclosure_length": "25062454",
       "itunes_duration": "17:23",
       "speakers": [
-        "Marco Polo",
         "William Hanson",
         "Jordan North"
       ],
@@ -7330,7 +7351,6 @@
       "enclosure_length": "62384911",
       "itunes_duration": "43:18",
       "speakers": [
-        "Ready Brek",
         "William Hanson",
         "Jordan North"
       ],
@@ -7413,7 +7433,6 @@
       "enclosure_length": "62326677",
       "itunes_duration": "43:16",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -7497,6 +7516,8 @@
       "enclosure_length": "70653773",
       "itunes_duration": "49:03",
       "speakers": [
+        "Wedding William",
+        "Usher Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -7557,7 +7578,6 @@
       "enclosure_length": "75049920",
       "itunes_duration": "31:16",
       "speakers": [
-        "Charles Iii",
         "William Hanson",
         "Jordan North"
       ],
@@ -7599,8 +7619,8 @@
       "itunes_duration": "16:21",
       "speakers": [
         "Producer Ben",
-        "Jordan North",
-        "William Hanson"
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "weekend",
@@ -7639,6 +7659,7 @@
       "enclosure_length": "36961350",
       "itunes_duration": "15:23",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -7662,7 +7683,6 @@
       "enclosure_length": "109114186",
       "itunes_duration": "45:27",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -7764,6 +7784,8 @@
       "enclosure_length": "37797120",
       "itunes_duration": "15:44",
       "speakers": [
+        "Weekend Release",
+        "Party Sausage There",
         "William Hanson",
         "Jordan North"
       ],
@@ -7786,6 +7808,7 @@
       "enclosure_length": "94486666",
       "itunes_duration": "39:21",
       "speakers": [
+        "Help My Brother",
         "William Hanson",
         "Jordan North"
       ],
@@ -7806,6 +7829,7 @@
       "enclosure_length": "43453125",
       "itunes_duration": "18:06",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -7828,6 +7852,7 @@
       "enclosure_length": "101836799",
       "itunes_duration": "42:25",
       "speakers": [
+        "Help My Dad",
         "William Hanson",
         "Jordan North"
       ],
@@ -7868,6 +7893,7 @@
       "enclosure_length": "8160532",
       "itunes_duration": "3:23",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -7910,6 +7936,7 @@
       "enclosure_length": "63649958",
       "itunes_duration": "26:31",
       "speakers": [
+        "Weekend Release",
         "William Hanson",
         "Jordan North"
       ],
@@ -7931,6 +7958,7 @@
       "enclosure_length": "102787656",
       "itunes_duration": "42:49",
       "speakers": [
+        "Help There",
         "William Hanson",
         "Jordan North"
       ],
@@ -7951,8 +7979,10 @@
       "enclosure_length": "41439607",
       "itunes_duration": "17:15",
       "speakers": [
-        "Jordan North",
-        "William Hanson"
+        "Weekend Release",
+        "Burnley Football",
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "weekend",
@@ -8101,8 +8131,6 @@
       "enclosure_length": "98089795",
       "itunes_duration": "40:52",
       "speakers": [
-        "Calvin Harris",
-        "Diana Ross",
         "William Hanson",
         "Jordan North"
       ],
@@ -8289,8 +8317,8 @@
       "enclosure_length": "27614562",
       "itunes_duration": "11:30",
       "speakers": [
-        "Jordan North",
-        "William Hanson"
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "weekend",
@@ -8328,7 +8356,6 @@
       "itunes_duration": "9:42",
       "speakers": [
         "Jump Cut Jack",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -8450,7 +8477,8 @@
       "enclosure_length": "41416619",
       "itunes_duration": "17:15",
       "speakers": [
-        "Wendi North",
+        "Weekend Release",
+        "Get Steamy April Fool",
         "William Hanson",
         "Jordan North"
       ],
@@ -8471,6 +8499,7 @@
       "enclosure_length": "117268033",
       "itunes_duration": "48:51",
       "speakers": [
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -8492,6 +8521,8 @@
       "enclosure_length": "28546688",
       "itunes_duration": "11:53",
       "speakers": [
+        "Weekend Release",
+        "Advice How",
         "William Hanson",
         "Jordan North"
       ],
@@ -8614,8 +8645,9 @@
       "itunes_duration": "24:07",
       "speakers": [
         "Producer Ben",
-        "Jordan North",
-        "William Hanson"
+        "Jordan North row",
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "weekend",
@@ -8637,7 +8669,6 @@
       "enclosure_length": "132318562",
       "itunes_duration": "55:07",
       "speakers": [
-        "Abbey Clancy",
         "William Hanson",
         "Jordan North"
       ],
@@ -8962,7 +8993,8 @@
       "speakers": [
         "Advent Calendar",
         "William Hanson",
-        "Jordan North"
+        "Jordan North",
+        "Merry Christm"
       ],
       "topics": [
         "advent",
@@ -9006,8 +9038,7 @@
       "speakers": [
         "Advent Calendar",
         "William Hanson",
-        "Jordan North",
-        "Producer Ben"
+        "Jordan North"
       ],
       "topics": [
         "advent",
@@ -9054,6 +9085,7 @@
       "enclosure_length": "1199873",
       "itunes_duration": "0:49",
       "speakers": [
+        "Sexted My Boss Advent",
         "William Hanson",
         "Jordan North"
       ],
@@ -9121,7 +9153,6 @@
       "itunes_duration": "11:37",
       "speakers": [
         "Advent Calendar",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -9463,6 +9494,9 @@
       "enclosure_length": "16660928",
       "itunes_duration": "6:56",
       "speakers": [
+        "Sexted My Boss Advent",
+        "Calendar Introducing",
+        "Throughout December",
         "William Hanson",
         "Jordan North"
       ],
@@ -9485,8 +9519,6 @@
       "enclosure_length": "40209728",
       "itunes_duration": "16:45",
       "speakers": [
-        "Kinder Bueno",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -9572,6 +9604,8 @@
       "enclosure_length": "123025088",
       "itunes_duration": "51:15",
       "speakers": [
+        "huge news",
+        "big announcements",
         "William Hanson",
         "Jordan North"
       ],
@@ -9655,7 +9689,6 @@
       "enclosure_length": "107837888",
       "itunes_duration": "44:55",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -9718,7 +9751,6 @@
       "itunes_duration": "13:59",
       "speakers": [
         "Producer Ben",
-        "Mary Poppins",
         "William Hanson",
         "Jordan North"
       ],
@@ -9806,7 +9838,6 @@
       "enclosure_length": "29859968",
       "itunes_duration": "12:26",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -9830,6 +9861,7 @@
       "enclosure_length": "27357303",
       "itunes_duration": "18:59",
       "speakers": [
+        "Capital One",
         "William Hanson",
         "Jordan North"
       ],
@@ -9913,7 +9945,6 @@
       "itunes_duration": "19:48",
       "speakers": [
         "James Hanson",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -9955,7 +9986,6 @@
       "enclosure_length": "35071808",
       "itunes_duration": "14:36",
       "speakers": [
-        "Christopher Biggins",
         "William Hanson",
         "Jordan North"
       ],
@@ -10040,7 +10070,6 @@
       "enclosure_length": "54795008",
       "itunes_duration": "22:49",
       "speakers": [
-        "Mary Poppins",
         "William Hanson",
         "Jordan North"
       ],
@@ -10060,7 +10089,6 @@
       "enclosure_length": "57451328",
       "itunes_duration": "23:56",
       "speakers": [
-        "Barry Manilow",
         "William Hanson",
         "Jordan North"
       ],
@@ -10120,7 +10148,6 @@
       "enclosure_length": "170887808",
       "itunes_duration": "1:11:12",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -10141,7 +10168,6 @@
       "enclosure_length": "41281088",
       "itunes_duration": "17:12",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -10163,7 +10189,6 @@
       "enclosure_length": "117747008",
       "itunes_duration": "49:03",
       "speakers": [
-        "Jordan Joke",
         "William Hanson",
         "Jordan North"
       ],
@@ -10265,6 +10290,9 @@
       "enclosure_length": "32115008",
       "itunes_duration": "13:22",
       "speakers": [
+        "Weekend Release",
+        "Census Results William",
+        "Sexted My Boss Census",
         "William Hanson",
         "Jordan North"
       ],
@@ -10287,6 +10315,7 @@
       "enclosure_length": "93793088",
       "itunes_duration": "39:04",
       "speakers": [
+        "Thirteenth Wheel Sometimes",
         "William Hanson",
         "Jordan North"
       ],
@@ -10369,7 +10398,6 @@
       "enclosure_length": "108007808",
       "itunes_duration": "45:00",
       "speakers": [
-        "William Hannon",
         "William Hanson",
         "Jordan North"
       ],
@@ -10389,7 +10417,6 @@
       "enclosure_length": "27726848",
       "itunes_duration": "11:33",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -10536,7 +10563,6 @@
       "enclosure_length": "96286208",
       "itunes_duration": "40:07",
       "speakers": [
-        "Builder Mikey",
         "William Hanson",
         "Jordan North"
       ],
@@ -10617,6 +10643,8 @@
       "enclosure_length": "84358208",
       "itunes_duration": "35:08",
       "speakers": [
+        "Fancy My Twin Brother",
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -10660,6 +10688,8 @@
       "enclosure_length": "99982208",
       "itunes_duration": "41:39",
       "speakers": [
+        "Help There",
+        "Jumping Jet Behind Me",
         "William Hanson",
         "Jordan North"
       ],
@@ -10680,8 +10710,6 @@
       "itunes_duration": "19:54",
       "speakers": [
         "Mary Poppins",
-        "Zizi Strallen",
-        "Cameron Mackintosh",
         "William Hanson",
         "Jordan North"
       ],
@@ -10745,9 +10773,6 @@
       "enclosure_length": "96642368",
       "itunes_duration": "40:16",
       "speakers": [
-        "Barry Manilow",
-        "Joe Wicks",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -10954,7 +10979,6 @@
       "itunes_duration": "29:22",
       "speakers": [
         "Christopher Biggins",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -11052,7 +11076,6 @@
       "itunes_duration": "27:40",
       "speakers": [
         "Jordan North",
-        "Shane Ritchie",
         "William Hanson"
       ],
       "topics": [
@@ -11100,6 +11123,9 @@
       "enclosure_length": "35821952",
       "itunes_duration": "37:18",
       "speakers": [
+        "Royal Banquet",
+        "Camp Leader",
+        "Owain Wyn",
         "William Hanson",
         "Jordan North"
       ],
@@ -11127,7 +11153,6 @@
       "speakers": [
         "Luxury Items",
         "Daughter Danielle",
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -11259,7 +11284,6 @@
       "speakers": [
         "Turf Moor",
         "Kerry Katona",
-        "Vernon Kay",
         "William Hanson",
         "Jordan North"
       ],
@@ -11286,7 +11310,6 @@
       "itunes_duration": "32:32",
       "speakers": [
         "Producer Ben",
-        "Mo Farah",
         "William Hanson",
         "Jordan North"
       ],
@@ -11309,6 +11332,9 @@
       "enclosure_length": "34594688",
       "itunes_duration": "14:24",
       "speakers": [
+        "Sexted My Boss Does",
+        "Celebrity William",
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -11329,8 +11355,9 @@
       "enclosure_length": "26078528",
       "itunes_duration": "10:51",
       "speakers": [
-        "William Hanson",
-        "Jordan North"
+        "Help My Co",
+        "Jordan North",
+        "William Hanson"
       ],
       "topics": [
         "host",
@@ -11408,7 +11435,6 @@
       "enclosure_length": "28601525",
       "itunes_duration": "34:02",
       "speakers": [
-        "Prince Harry",
         "William Hanson",
         "Jordan North"
       ],
@@ -11430,6 +11456,8 @@
       "enclosure_length": "30281121",
       "itunes_duration": "36:02",
       "speakers": [
+        "Help There",
+        "Sexted My Boss World",
         "William Hanson",
         "Jordan North"
       ],
@@ -11450,7 +11478,6 @@
       "enclosure_length": "34092032",
       "itunes_duration": "35:30",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -11557,7 +11584,8 @@
       "enclosure_length": "12870272",
       "itunes_duration": "13:24",
       "speakers": [
-        "Richard Pipkins",
+        "Weekend Release",
+        "Melons After",
         "William Hanson",
         "Jordan North"
       ],
@@ -11625,6 +11653,7 @@
       "enclosure_length": "33240320",
       "itunes_duration": "34:37",
       "speakers": [
+        "My Optician William",
         "William Hanson",
         "Jordan North"
       ],
@@ -11711,7 +11740,7 @@
       "enclosure_length": "25782656",
       "itunes_duration": "26:51",
       "speakers": [
-        "Margaret Thatcher",
+        "Wacky Word",
         "William Hanson",
         "Jordan North"
       ],
@@ -11732,6 +11761,7 @@
       "enclosure_length": "18600320",
       "itunes_duration": "19:22",
       "speakers": [
+        "something swee",
         "William Hanson",
         "Jordan North"
       ],
@@ -11881,8 +11911,7 @@
       "itunes_duration": "33:55",
       "speakers": [
         "Jordan North",
-        "William Hanson",
-        "Producer Ben"
+        "William Hanson"
       ],
       "topics": [
         "word",
@@ -12040,7 +12069,7 @@
       "enclosure_length": "34141952",
       "itunes_duration": "35:33",
       "speakers": [
-        "Producer Ben",
+        "Sound Like",
         "William Hanson",
         "Jordan North"
       ],
@@ -12140,7 +12169,6 @@
       "enclosure_length": "33802112",
       "itunes_duration": "35:12",
       "speakers": [
-        "Shawn Mendes",
         "William Hanson",
         "Jordan North"
       ],
@@ -12160,7 +12188,6 @@
       "enclosure_length": "33858683",
       "itunes_duration": "35:15",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -12180,7 +12207,7 @@
       "enclosure_length": "7398496",
       "itunes_duration": "15:23",
       "speakers": [
-        "Producer Ben",
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -12480,9 +12507,7 @@
       "itunes_duration": "31:14",
       "speakers": [
         "Casual William",
-        "Marry Kill",
-        "Christopher Biggins",
-        "Producer Ben",
+        "Marry Ki",
         "William Hanson",
         "Jordan North"
       ],
@@ -12561,7 +12586,6 @@
       "enclosure_length": "89819648",
       "itunes_duration": "37:25",
       "speakers": [
-        "Producer Ben",
         "William Hanson",
         "Jordan North"
       ],
@@ -12582,8 +12606,8 @@
       "enclosure_length": "29683328",
       "itunes_duration": "12:22",
       "speakers": [
-        "Owain Wyn Evans",
-        "Producer Ben",
+        "Hotline Who",
+        "Sexted My Boss",
         "William Hanson",
         "Jordan North"
       ],
@@ -12670,7 +12694,6 @@
       "itunes_duration": "17:22",
       "speakers": [
         "Producer Ben",
-        "Taylor Glenn",
         "William Hanson",
         "Jordan North"
       ],
@@ -12696,7 +12719,6 @@
       "enclosure_length": "42901184",
       "itunes_duration": "29:47",
       "speakers": [
-        "hair William",
         "William Hanson",
         "Jordan North"
       ],
@@ -12978,6 +13000,8 @@
       "enclosure_length": "65809088",
       "itunes_duration": "27:25",
       "speakers": [
+        "Help My Neighbour",
+        "Big Package What",
         "William Hanson",
         "Jordan North"
       ],
@@ -13082,7 +13106,6 @@
       "enclosure_length": "79193287",
       "itunes_duration": "32:59",
       "speakers": [
-        "alter ego",
         "William Hanson",
         "Jordan North"
       ],
@@ -13140,6 +13163,7 @@
       "enclosure_length": "25048064",
       "itunes_duration": "26:05",
       "speakers": [
+        "Photocopied My Bum Christmas",
         "William Hanson",
         "Jordan North"
       ],
@@ -13174,6 +13198,7 @@
       "enclosure_length": "25848704",
       "itunes_duration": "26:55",
       "speakers": [
+        "Pendalino Whenever",
         "William Hanson",
         "Jordan North"
       ],
@@ -13631,6 +13656,7 @@
       "enclosure_length": "25602176",
       "itunes_duration": "26:40",
       "speakers": [
+        "Hate My Flatmate William",
         "William Hanson",
         "Jordan North"
       ],
@@ -13650,6 +13676,7 @@
       "enclosure_length": "23193344",
       "itunes_duration": "24:09",
       "speakers": [
+        "Aisle William",
         "William Hanson",
         "Jordan North"
       ],
@@ -13761,10 +13788,10 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance — speakers: William Hanson, Jordan North
-- 2026-02-20 — Jordan FAINTS | And Sushi With Half Pints — speakers: Producer Ben, William Hanson, Jordan North
+- 2026-02-24 — Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance — speakers: William Hanson, Jordan North
+- 2026-02-20 — Jordan FAINTS | And Sushi With Half Pints — speakers: William Hanson, Jordan North
 - 2026-02-17 — Help There’s A Fishy Smell | And William Gets Chintzy — speakers: Fishy Smell, William Gets Chintzy, William Hanson, Jordan North
-- 2026-02-13 — Who’s The CAMPEST?! | And Taking Advantage Of Jordan — speakers: Burnley Wallet, William Hanson, Jordan North
+- 2026-02-13 — Who’s The CAMPEST?! | And Taking Advantage Of Jordan — speakers: Jordan Jordan, North Poll, William Hanson, Jordan North
 - 2026-02-10 — Help He’s Got A P*ss Lolly | And Roleplaying As Old Ladies — speakers: William Hanson, Jordan North
 - 2026-02-06 — Is Slapping Bums Butch? | And Jordan’s Got A Surprise… — speakers: Jordan’s Got, William Hanson, Jordan North
 - 2026-02-03 — Help How Long Should I Give Fellatio? | And William Sees His First Fanny — speakers: William Sees, William Hanson, Jordan North
@@ -13783,26 +13810,26 @@
 - 2025-12-09 — Help There’s MAN PORRIDGE On My Flannel | And William Has Been Inspired By WETHERSPOONS — speakers: William Hanson, Jordan North
 - 2025-12-05 — Weird Families, Gua Sha and Jordan’s Ad Agency | Plus Jordan's Been CHOMPING In Bed — speakers: Gua Sha, Jordan’s Ad Agency, William Hanson, Jordan North
 - 2025-12-02 — Help My Dainty Knickers Are RUINED | And William And Jordan Get SLOSHED — speakers: Jordan Get Sloshed, William Hanson, Jordan North
-- 2025-11-28 — Jordan Nearly Did WHAT With Jon Sopel | Plus William And Jordan Chat ICONIC Musicals — speakers: Jon Sopel, Plus William, Henry Viii, William Hanson, Jordan North
-- 2025-11-25 — Help He’s Slanking In Bed | And Why FLATCEST Is A Bad Idea — speakers: William Hanson, Jordan North
+- 2025-11-28 — Jordan Nearly Did WHAT With Jon Sopel | Plus William And Jordan Chat ICONIC Musicals — speakers: Jon Sopel, Plus William, William Hanson, Jordan North
+- 2025-11-25 — Help He’s Slanking In Bed | And Why FLATCEST Is A Bad Idea — speakers: Bad Idea William, Sexted Christmas, William Hanson, Jordan North
 - 2025-11-21 — William's Got A BRAND NEW Job | Plus Some CLASSIC Northern Parenting — speakers: William Hanson, Jordan North
 - 2025-11-18 — Help My Suitcase Is VIBRATING | And Jordan's toilet LOW POINT — speakers: William Hanson, Jordan North
 - 2025-11-14 — Jordan's REPLACED With AI | And Who Is More Of A GENTLEMAN — speakers: William Hanson, Jordan North
-- 2025-11-11 — Help It's A POO SPECIAL | And Jordan Does DRAG RACE — speakers: Drag Race, William Hanson, Jordan North
+- 2025-11-11 — Help It's A POO SPECIAL | And Jordan Does DRAG RACE — speakers: William Hanson, Jordan North
 - 2025-11-07 — NSFW Nicknames | And What Are William And Jordan's SPIRIT ANIMALS — speakers: William Hanson, Jordan North
 - 2025-11-04 — Help They’re Doing It In A TRACTOR | Plus Jordan's STINKY Surprise — speakers: William Hanson, Jordan North
 - 2025-10-31 — The Help I Sexted My Boss FUNERAL | William and Jordan visit the AFTERLIFE — speakers: William Hanson, Jordan North
-- 2025-10-28 — Help I Can’t Look Her In The Eye — speakers: William Hanson, Jordan North
+- 2025-10-28 — Help I Can’t Look Her In The Eye — speakers: Eye William, New York City, William Hanson, Jordan North
 - 2025-10-24 — Throuples, Builder Kinks and Locktober — speakers: Builder Kinks, William Hanson, Jordan North
-- 2025-10-21 — Help My Pussy's In The Dark — speakers: Desmond Tutu, William Hanson, Jordan North
-- 2025-10-17 — Strange Turn-Ons, Fanny Hoare and Bottom Badges — speakers: Bottom Badges William, Arena Wembley, William Hanson, Jordan North
-- 2025-10-14 — Help I Gave Myself A Colonic — speakers: Arena Wembley, William Hanson, Jordan North
-- 2025-10-10 — Disappearing Chocolate, Naughty Rings and See It, Say It, Sexted — speakers: Arena Wembley, William Hanson, Jordan North
-- 2025-10-07 — Help He’s Getting His Wand Out — speakers: Arena Wembley, William Hanson, Jordan North
-- 2025-10-03 — Sincere Words, Takeaways and Horse Beans — speakers: Horse Beans, Sabrina Carpenter, Dixon Dallas, Arena Wembley, William Hanson, Jordan North
-- 2025-09-30 — Help She Borrowed My Vibrator — speakers: Thankfully William, Arena Wembley, William Hanson, Jordan North
-- 2025-09-26 — William’s Lies, Geordie Trains and Wedding Advice for Producer Ben — speakers: William’s Lies, Geordie Trains, Producer Ben William, Producer Ben, Arena Wembley, William Hanson, Jordan North
-- 2025-09-23 — Help We're Revealing Our Big Secret — speakers: Arena Wembley, William Hanson, Jordan North
+- 2025-10-21 — Help My Pussy's In The Dark — speakers: William Hanson, Jordan North
+- 2025-10-17 — Strange Turn-Ons, Fanny Hoare and Bottom Badges — speakers: Bottom Badges William, William Hanson, Jordan North
+- 2025-10-14 — Help I Gave Myself A Colonic — speakers: William Hanson, Jordan North
+- 2025-10-10 — Disappearing Chocolate, Naughty Rings and See It, Say It, Sexted — speakers: William Hanson, Jordan North
+- 2025-10-07 — Help He’s Getting His Wand Out — speakers: William Hanson, Jordan North
+- 2025-10-03 — Sincere Words, Takeaways and Horse Beans — speakers: Horse Beans, William Hanson, Jordan North
+- 2025-09-30 — Help She Borrowed My Vibrator — speakers: Thankfully William, William Hanson, Jordan North
+- 2025-09-26 — William’s Lies, Geordie Trains and Wedding Advice for Producer Ben — speakers: William’s Lies, Geordie Trains, Producer Ben William, William Hanson, Jordan North
+- 2025-09-23 — Help We're Revealing Our Big Secret — speakers: Sexted My Boss, William Hanson, Jordan North
 - 2025-09-19 — Drag Names, Chorizo and Henny Stags — speakers: Drag Names, Henny Stags, Jordan North, William Hanson
 - 2025-09-16 — Help My Mate's Dad Is Thirsty — speakers: William Hanson, Jordan North
 - 2025-09-12 — Chopstick Etiquette, Northern Siri and Sexy/Not Sexy — speakers: Chopstick Etiquette, William Hanson, Jordan North
@@ -13811,45 +13838,45 @@
 - 2025-09-02 — Help I Don’t Want To Marry Him — speakers: William Hanson, Jordan North
 - 2025-08-29 — Sewers, Muff and Sexted-Themed Trips — speakers: William Hanson, Jordan North
 - 2025-08-26 — Help He Wants His Chicken Drumstick Back — speakers: Drumstick Back William, William Hanson, Jordan North
-- 2025-08-22 — Kilts, Pickled Eggs and a Wigan Kebab — speakers: Wigan Kebab, Producer Ben, William Hanson, Jordan North
+- 2025-08-22 — Kilts, Pickled Eggs and a Wigan Kebab — speakers: Wigan Kebab, William Hanson, Jordan North
 - 2025-08-19 — Help He's Blown Into My Wet Wipe — speakers: William Hanson, Jordan North
-- 2025-08-15 — Travel, Grey Joggers and the Passports Please! Podcast — speakers: Grey Joggers, William Hanson, Jordan North
-- 2025-08-12 — Help There’s An STD On My Foot — speakers: William Hanson, Jordan North
+- 2025-08-15 — Travel, Grey Joggers and the Passports Please! Podcast — speakers: Grey Joggers, James fr, William Hanson, Jordan North
+- 2025-08-12 — Help There’s An STD On My Foot — speakers: William wh, William Hanson, Jordan North
 - 2025-08-08 — Pints, Typos and Work Mishaps — speakers: William Hanson, Jordan North
 - 2025-08-05 — Help They Put My Dinner In a Mortuary — speakers: William Hanson, Jordan North
-- 2025-08-01 — Airport Attire, Joke Review and Ravishing Nuts — speakers: Airport Attire, Ben’s Big Benders, Jordan’s Joke, William Hanson, Jordan North
-- 2025-07-29 — Help I Can't Find My Person — speakers: William Hanson, Jordan North
+- 2025-08-01 — Airport Attire, Joke Review and Ravishing Nuts — speakers: Airport Attire, Ben’s Big Benders, William Hanson, Jordan North
+- 2025-07-29 — Help I Can't Find My Person — speakers: Find My Person Jordan, William Hanson, Jordan North
 - 2025-07-25 — Peppers, France and Common or Not — speakers: William Hanson, Jordan North
 - 2025-07-24 — Nothing Beats a Jet2holiday in Malta! — speakers: Producer Ben, William Hanson, Jordan North
 - 2025-07-22 — Help I’m A Nervous Squirter — speakers: William Hanson, Jordan North
 - 2025-07-18 — Doppelgangers, Washing Lines and Favourite Cakes — speakers: William Hanson, Jordan North
 - 2025-07-15 — Help My Mother Has A Second One — speakers: William Hanson, Jordan North
 - 2025-07-11 — Yachts, Donuts and Replacement Co-Hosts — speakers: William Hanson, Jordan North
-- 2025-07-08 — Help There’s Something In My Sausage Roll — speakers: Greg James, William Hanson, Jordan North
+- 2025-07-08 — Help There’s Something In My Sausage Roll — speakers: Help There, Crossed Wires Festival, William Hanson, Jordan North
 - 2025-07-04 — Dictators, Showbiz Names and Guessing Northerners — speakers: Guessing Northerners, William Hanson, Jordan North
 - 2025-07-01 — Help I Want To Feel Carefree Again — speakers: William Hanson, Jordan North
 - 2025-06-27 — William's Biography, Common List and Pass Ag Communication — speakers: William Hanson, Jordan North
 - 2025-06-24 — Help I’m In Love With Diego — speakers: Dixon Dallas, William Hanson, Jordan North
 - 2025-06-20 — Moans, Groans and a Couples Massage — speakers: Couples Massage, William Hanson, Jordan North
 - 2025-06-17 — Help He Died With An Erection — speakers: William Hanson, Jordan North
-- 2025-06-13 — Jumpsuits, Mariah, and Communism — speakers: William Hanson, Jordan North
+- 2025-06-13 — Jumpsuits, Mariah, and Communism — speakers: Communism Ever, William Hanson, Jordan North
 - 2025-06-10 — Help I've Had A Raunchy Mishap — speakers: William Hanson, Jordan North
-- 2025-06-06 — Squatting Painters, Butlin's Board Game and Jordan's Skiddies — speakers: Squatting Painters, Hyacinth Bucket, William Hanson, Jordan North
+- 2025-06-06 — Squatting Painters, Butlin's Board Game and Jordan's Skiddies — speakers: Squatting Painters, William Hanson, Jordan North
 - 2025-06-03 — Help I’m In A New York Travel Tavern — speakers: William Hanson, Jordan North
-- 2025-05-30 — Hairy Bums, Ben’s Fan Club and Silver Sexters — speakers: Hairy Bums, Ben’s Fan Club, Producer Ben, William Hanson, Jordan North
+- 2025-05-30 — Hairy Bums, Ben’s Fan Club and Silver Sexters — speakers: Hairy Bums, Ben’s Fan Club, William Hanson, Jordan North
 - 2025-05-27 — Help I Shagged My Pupil’s Dad — speakers: William Hanson, Jordan North
 - 2025-05-23 — Grammar, Secret Words and Old Friends — speakers: William Hanson, Jordan North
 - 2025-05-20 — Help I’ve Got A Fuzzy Peach — speakers: William Hanson, Jordan North
-- 2025-05-16 — The Ultimate Divorce Playlist, Senior G&Divas and Nature's Stress Balls — speakers: Download Saily, William Hanson, Jordan North
-- 2025-05-13 — Help They’ve Ruined My Crêpe Suzette — speakers: Download Saily, William Hanson, Jordan North
-- 2025-05-09 — Evita, Air Fryers and Horny Ben — speakers: Horny Ben, Jonathan Vernon-Smith, Producer Ben, Download Saily, William Hanson, Jordan North
-- 2025-05-06 — Help He Violated My Toothbrush — speakers: Download Saily, William Hanson, Jordan North
+- 2025-05-16 — The Ultimate Divorce Playlist, Senior G&Divas and Nature's Stress Balls — speakers: Stress Balls William, William Hanson, Jordan North
+- 2025-05-13 — Help They’ve Ruined My Crêpe Suzette — speakers: Ruined My, Suzette William, William Hanson, Jordan North
+- 2025-05-09 — Evita, Air Fryers and Horny Ben — speakers: Horny Ben, William Hanson, Jordan North
+- 2025-05-06 — Help He Violated My Toothbrush — speakers: William Hanson, Jordan North
 - 2025-05-02 — Ben's Travel Diary, Scrapbooks and Bad Luck — speakers: Producer Ben, William Hanson, Jordan North
-- 2025-04-29 — Help He’s Growing A Mullet — speakers: William’s Jolly Joke, William Hanson, Jordan North
+- 2025-04-29 — Help He’s Growing A Mullet — speakers: William Hanson, Jordan North
 - 2025-04-25 — Burnley, Viral Twins and Ben Is Dull — speakers: William Hanson, Jordan North
 - 2025-04-22 — Help He Tinkled On My Toes — speakers: William Hanson, Jordan North
-- 2025-04-18 — Scrapbooks, Serial Killer Stains and Searching For Davinder — speakers: William Hanson, Jordan North
-- 2025-04-15 — Help I Swallowed A Stranger's Toenail — speakers: Toenail Jordan, Casa El Norte, William Hanson, Jordan North
+- 2025-04-18 — Scrapbooks, Serial Killer Stains and Searching For Davinder — speakers: Serial Killer Stains, William Hanson, Jordan North
+- 2025-04-15 — Help I Swallowed A Stranger's Toenail — speakers: Toenail Jordan, William Hanson, Jordan North
 - 2025-04-11 — Birthdays, Blu-ray’s and Backseat Boinking — speakers: William Hanson, Jordan North
 - 2025-04-08 — Help My Poo Ruined Pudding — speakers: William Hanson, Jordan North
 - 2025-04-04 — Pranks, Priests and Food Swings — speakers: William Hanson, Jordan North
@@ -13860,75 +13887,75 @@
 - 2025-03-18 — Help We're Getting Smashed — speakers: William Hanson, Jordan North
 - 2025-03-14 — Security Scuffles, Sistine Shops and Spanish Cock Or Ball — speakers: William Hanson, Jordan North
 - 2025-03-11 — Help It Squirted In My Eye — speakers: William Hanson, Jordan North
-- 2025-03-07 — Mikey’s Mandate, Operatic Offerings and The Dorothy Dupe — speakers: William Hanson, Jordan North
-- 2025-03-04 — Help I’m Lady Garden — speakers: Sarah Hanson, William Hanson, Jordan North
+- 2025-03-07 — Mikey’s Mandate, Operatic Offerings and The Dorothy Dupe — speakers: Operatic Offerings, William Hanson, Jordan North
+- 2025-03-04 — Help I’m Lady Garden — speakers: William Hanson, Jordan North
 - 2025-02-28 — Jordan Smith, William Bucket and Ben Lorrywrong — speakers: Jordan Smith, William Bucket, Ben Lorrywrong, William Hanson, Jordan North
-- 2025-02-25 — Help He Keeps Licking My Toes — speakers: William Hanson, Jordan North
+- 2025-02-25 — Help He Keeps Licking My Toes — speakers: My Toes Things, William Hanson, Jordan North
 - 2025-02-21 — Career Changes, Playlist Problems and Noisy Neighbours — speakers: Career Changes, William Hanson, Jordan North
 - 2025-02-18 — Help I’ve Got A Huge Wadge — speakers: William’s Etiquettimology, William Hanson, Jordan North
-- 2025-02-14 — Chat Up Lines, Courting Catastrophes and Creamy Endings — speakers: William Hanson, Jordan North
+- 2025-02-14 — Chat Up Lines, Courting Catastrophes and Creamy Endings — speakers: Chat Up Lines, Courting Catastrophes, Creamy Endings Love, William Hanson, Jordan North
 - 2025-02-11 — Help I've Got Clunch On My Halfzip — speakers: William Hanson, Jordan North
 - 2025-02-07 — Irritating Icks, Immaculate Lavatories, and Impending Izzy — speakers: Impending Izzy, William Hanson, Jordan North
 - 2025-02-04 — Help I Witnessed A Muff Drying — speakers: Muff Drying William, William Hanson, Jordan North
-- 2025-01-31 — Fancy Gays, Fighting Fines and Ben's Big Load — speakers: Fancy Gays, Tom Allen, William Hanson, Jordan North
+- 2025-01-31 — Fancy Gays, Fighting Fines and Ben's Big Load — speakers: Fancy Gays, William Hanson, Jordan North
 - 2025-01-28 — Help I Got Pied Off For A Steak Bake — speakers: William Hanson, Jordan North
 - 2025-01-24 — Cottaging, Cremations and Car Crashes — speakers: William Hanson, Jordan North
 - 2025-01-21 — Help William’s Got A Hard Out — speakers: William Hanson, Jordan North
 - 2025-01-17 — Fierce Feuds, Foreign Foods and The Fister — speakers: Fierce Feuds, William Hanson, Jordan North
 - 2025-01-14 — Help We’re Pushing Ben’s Big Button — speakers: Ben’s Big Button, William Hanson, Jordan North
 - 2024-12-24 — Help There’s A Sausage Roll In Santa’s Sack — speakers: William Hanson, Jordan North
-- 2024-12-20 — Festive Fails, Fancy Fa-La-Las, and Christmassy Feels — speakers: Secret Santa, Help Hotliner, William Hanson, Jordan North
+- 2024-12-20 — Festive Fails, Fancy Fa-La-Las, and Christmassy Feels — speakers: William Hanson, Jordan North
 - 2024-12-17 — Help I Got Sixty-Blinded — speakers: William Hanson, Jordan North
 - 2024-12-13 — Naughty Neighbours, Nuisance Bills and Newspapers — speakers: Nuisance Bills, William Hanson, Jordan North
-- 2024-12-10 — Help I’ve Got My Sugar Daddy’s Bear — speakers: William Hanson, Jordan North
-- 2024-12-06 — Panto, Pitiful Impressions and Prehistoric Beings — speakers: William thankfully, William Hanson, Jordan North
+- 2024-12-10 — Help I’ve Got My Sugar Daddy’s Bear — speakers: Got My Sugar Daddy, Bear There, Christmas Help Hotlin, William Hanson, Jordan North
+- 2024-12-06 — Panto, Pitiful Impressions and Prehistoric Beings — speakers: William Hanson, Jordan North
 - 2024-12-03 — Help My Poo’s On The Loose — speakers: William Hanson, Jordan North
 - 2024-11-29 — Setlists, Surprises and Singing Scandals — speakers: William Hanson, Jordan North
 - 2024-11-26 — Help He Bashed His Bishop — speakers: William Hanson, Jordan North
-- 2024-11-22 — Live Shows, Lineage and Likkle Flower Pots — speakers: Jane McDonald, William Hanson, Jordan North
+- 2024-11-22 — Live Shows, Lineage and Likkle Flower Pots — speakers: Social Jo, William Hanson, Jordan North
 - 2024-11-19 — Help I Want Clone-A-Willy Custody — speakers: William Hanson, Jordan North
-- 2024-11-15 — Mistaken Messages and Middle Class Mas — speakers: Mistaken Messages, Vig Divas, William Hanson, Jordan North
-- 2024-11-12 — Help I Don’t Know My Holes — speakers: William Hanson, Jordan North
+- 2024-11-15 — Mistaken Messages and Middle Class Mas — speakers: Mistaken Messages, William Hanson, Jordan North
+- 2024-11-12 — Help I Don’t Know My Holes — speakers: French kisses, William Hanson, Jordan North
 - 2024-11-08 — Workplace Roleplay, Wrestling and Weddings — speakers: William Hanson, Jordan North
-- 2024-11-07 — Help We Won £200,000,000 — speakers: Wildest Dreams, Michelle Obama, Mary Poppins, William Hanson, Jordan North
+- 2024-11-07 — Help We Won £200,000,000 — speakers: Wildest Dreams, William Hanson, Jordan North
 - 2024-11-05 — Help We’re Just A Couple Of Dancing Queens — speakers: William Hanson, Jordan North
 - 2024-11-01 — Childhood Nostalgia, Chocolate Economics and Central Milton Keynes — speakers: Childhood Nostalgia, Central Milton Keynes William, William Hanson, Jordan North
 - 2024-10-29 — Help I’m Scared Of Clowns — speakers: William Hanson, Jordan North
 - 2024-10-25 — Jordan’s Jobs, Common Customs, And William’s Wheel Woes — speakers: Jordan’s Jobs, William’s Wheel Woes Jordan, William Hanson, Jordan North
-- 2024-10-22 — Help My Fart Cleared The Building — speakers: William Hanson, Jordan North
+- 2024-10-22 — Help My Fart Cleared The Building — speakers: Help My Fart Cleared, New York, William Hanson, Jordan North
 - 2024-10-18 — Professions, Photoshop, and Provocative Prints — speakers: Provocative Prints William, William Hanson, Jordan North
 - 2024-10-15 — Help I Scooped It Into A Kebab Box — speakers: Kebab Box, William Hanson, Jordan North
 - 2024-10-11 — Snot Bubbles, Spotting Ben, and Spreadable Butter — speakers: Snot Bubbles, Spotting Ben, Spreadable Butter William, William Hanson, Jordan North
 - 2024-10-10 — Help I Sexted Drunk Women Solving Crime — speakers: William Hanson, Jordan North
-- 2024-10-08 — Help I Got A Gassy Greeting — speakers: William Hanson, Jordan North
+- 2024-10-08 — Help I Got A Gassy Greeting — speakers: Gassy Greeting Tension, William Hanson, Jordan North
 - 2024-10-04 — Silver Sexters, Sketchy Sketches and Stoop Sales — speakers: Sketchy Sketches, William Hanson, Jordan North
 - 2024-10-01 — Help I’m Still Wearing The Strap-On — speakers: Producer Ben, William Hanson, Jordan North
 - 2024-09-27 — Roleplay, Revenge, and Retro Names — speakers: William Hanson, Jordan North
-- 2024-09-24 — Help My Bronzer Is Cat Poo — speakers: William Hanson, Jordan North
-- 2024-09-20 — William’s Pranks, Waterloo and Wrong Lyrics — speakers: William’s Pranks, Wrong Lyrics, William’s school days, William Hanson, Jordan North
+- 2024-09-24 — Help My Bronzer Is Cat Poo — speakers: Cat Poo William, William Hanson, Jordan North
+- 2024-09-20 — William’s Pranks, Waterloo and Wrong Lyrics — speakers: William’s Pranks, Wrong Lyrics, William Hanson, Jordan North
 - 2024-09-17 — Help I Fell Off My Cha Cha Chair — speakers: William Hanson, Jordan North
 - 2024-09-13 — Strange Gifts, Sore Throats, and Slippery Slip-ups — speakers: Sore Throats, Slippery Slip-ups, William Hanson, Jordan North
 - 2024-09-10 — Help I Flashed My Flaps — speakers: William Hanson, Jordan North
 - 2024-09-06 — Mischief, Musicals and Matching Mutts — speakers: William Hanson, Jordan North
 - 2024-09-05 — Help I Sexted My Secret Mum Club — speakers: William Hanson, Jordan North
-- 2024-09-03 — Help It’s William’s Birthday! — speakers: William’s Birthday, Gen Z-er, William Hanson, Jordan North
+- 2024-09-03 — Help It’s William’s Birthday! — speakers: William’s Birthday, William Hanson, Jordan North
 - 2024-08-30 — Passive Aggressive Texts, Podcast Connections, and Precarious Oil — speakers: Precarious Oil William, William Hanson, Jordan North
-- 2024-08-27 — Help I’ve Got A Mole In My Freezer — speakers: Delia Smith, William Hanson, Jordan North
+- 2024-08-27 — Help I’ve Got A Mole In My Freezer — speakers: William Hanson, Jordan North
 - 2024-08-23 — School Days, Soft Play and Sparkling Drinks — speakers: Sparkling Drinks, William Hanson, Jordan North
 - 2024-08-20 — Help I'm Sniffing My Underwear — speakers: William Hanson, Jordan North
 - 2024-08-16 — Clone-A-Willy Wonka, Chocolate Biscuits and Comedy Door Hangers — speakers: Comedy Door Hangers Jordan, William Hanson, Jordan North
 - 2024-08-15 — Help I Stumbled Into The Girls Bathroom — speakers: William Hanson, Jordan North
-- 2024-08-13 — Help He Heard Our Naughty Nickname — speakers: William Hanson, Jordan North
+- 2024-08-13 — Help He Heard Our Naughty Nickname — speakers: Naughty Nickname Bare, William Hanson, Jordan North
 - 2024-08-09 — Jordans Scribbles, Stinky Pits, and Betty Swallocks — speakers: Jordans Scribbles, Betty Swallocks, William Hanson, Jordan North
 - 2024-08-06 — Help I Picked Up A Tato With My Tots — speakers: My Tots Jordan, William Hanson, Jordan North
 - 2024-08-02 — Chocolate Straws, Confrontational Accents, and Chafing Chefs — speakers: Chocolate Straws, Chafing Chefs, William Hanson, Jordan North
-- 2024-07-30 — Help William Vetoed The Episode Title — speakers: William Vetoed, Grandma Glennis, William Hanson, Jordan North
+- 2024-07-30 — Help William Vetoed The Episode Title — speakers: William Vetoed, William Hanson, Jordan North
 - 2024-07-26 — Sports Days, Spirits and Soggy Biscuits — speakers: Soggy Biscuits William, William Hanson, Jordan North
 - 2024-07-23 — Help My Grandparents Are Nudists — speakers: William Hanson, Jordan North
 - 2024-07-19 — Book Club, Blowing Kisses and Ball Questions — speakers: Ball Questions Jordan, William Hanson, Jordan North
 - 2024-07-16 — Help Producer Ben Is Engaged — speakers: William Hanson, Jordan North
 - 2024-07-12 — Sporting Fixtures, The Sleeping Forecast and Summer Neckerchiefs — speakers: Summer Neckerchiefs, William Hanson, Jordan North
-- 2024-07-09 — Help I Stole A Dead Dog — speakers: William Hanson, Jordan North
+- 2024-07-09 — Help I Stole A Dead Dog — speakers: Dead Dog Things, William Hanson, Jordan North
 - 2024-07-05 — Daily Luxuries, DuckTales and Dame Julie Andrews — speakers: Julie Andrews, William Hanson, Jordan North
 - 2024-07-02 — Help I’ve Offended A Nun — speakers: William Hanson, Jordan North
 - 2024-06-28 — Chloronics, Clit Bang and Chester Drawers — speakers: Clit Bang, Chester Drawers, William Hanson, Jordan North
@@ -13936,18 +13963,18 @@
 - 2024-06-25 — Help I’m A Doggy In Disguise — speakers: William Hanson, Jordan North
 - 2024-06-21 — Colouring Books, Classy Clinking and Childhood Catastrophes — speakers: Childhood Catastrophes, William Hanson, Jordan North
 - 2024-06-18 — Help You Gave Me The Thumb — speakers: William Hanson, Jordan North
-- 2024-06-14 — Births, Burials and Brisk Searches — speakers: William Hanson, Jordan North
+- 2024-06-14 — Births, Burials and Brisk Searches — speakers: Brisk Searches Lots, William Hanson, Jordan North
 - 2024-06-11 — Help I’m Fel Ching — speakers: William Hanson, Jordan North
 - 2024-06-07 — Platform Potato Peelers, Puppy Love, and Podcast Babies — speakers: William Hanson, Jordan North
 - 2024-06-04 — Help I Hate Your Speaker — speakers: William Hanson, Jordan North
 - 2024-05-31 — Saturday Morning, Sitges and Swears — speakers: William Hanson, Jordan North
 - 2024-05-23 — Sexted And Friends: William On Mummy's Boy With Arthur Hill — speakers: Arthur Hill, William Hanson, Jordan North
 - 2024-05-21 — Help We’ve Been On Tour — speakers: William Hanson, Jordan North
-- 2024-05-09 — Welcome To Help I Sexted My Boss — speakers: William Hanson, Jordan North
+- 2024-05-09 — Welcome To Help I Sexted My Boss — speakers: Sexted My Boss Help, Sexted My Boss, William Hanson, Jordan North
 - 2024-05-07 — Help We’re Edging Towards The Tour — speakers: William Hanson, Jordan North
 - 2024-05-03 — Lies, Lies and More Lies — speakers: Producer Ben, William Hanson, Jordan North
 - 2024-04-30 — Help I Sharted In Peru — speakers: William Hanson, Jordan North
-- 2024-04-26 — Car Calendars, Colonics and TV Curses — speakers: William Hanson, Jordan North
+- 2024-04-26 — Car Calendars, Colonics and TV Curses — speakers: Car Calendars, William Hanson, Jordan North
 - 2024-04-23 — Help I'm Going Innuendo Free — speakers: William Hanson, Jordan North
 - 2024-04-19 — Tiramisu, Classical Tunes and Hot Tub Twinks — speakers: William Hanson, Jordan North
 - 2024-04-18 — Sexted And Friends: RedHanded — speakers: William Hanson, Jordan North
@@ -13957,18 +13984,18 @@
 - 2024-04-05 — Wildlife, Wardrobes and William's Register — speakers: William Hanson, Jordan North
 - 2024-04-02 — Help We’re Hitting The Big Screen — speakers: William Hanson, Jordan North
 - 2024-03-29 — Chocolate, Confirmation and Charles Dickens — speakers: Charles Dickens William, William Hanson, Jordan North
-- 2024-03-26 — Help It’s Our 6th Birthday Special — speakers: Deep Heat, William Hanson, Jordan North
+- 2024-03-26 — Help It’s Our 6th Birthday Special — speakers: William Hanson, Jordan North
 - 2024-03-22 — Sauces, Socks and Solo Shows — speakers: Solo Shows William, William Hanson, Jordan North
-- 2024-03-19 — Help My Boyfriend Just Sprinkled And Sparkled — speakers: William Hanson, Jordan North
-- 2024-03-15 — Photoshopping, Pesetas and Saint Patrick's Day — speakers: Saint Patrick, Producer Ben, William Hanson, Jordan North
+- 2024-03-19 — Help My Boyfriend Just Sprinkled And Sparkled — speakers: Help My Boyfriend Just, William Hanson, Jordan North
+- 2024-03-15 — Photoshopping, Pesetas and Saint Patrick's Day — speakers: Saint Patrick, William Hanson, Jordan North
 - 2024-03-12 — Help I’m On Anal Leave — speakers: William Hanson, Jordan North
 - 2024-03-08 — Sidekicks, Snail Forks and Smashing Glass — speakers: Smashing Glass, William Hanson, Jordan North
 - 2024-03-05 — Help I’ve Been Banged Up — speakers: William Hanson, Jordan North
 - 2024-03-01 — Cleaning, Coffee, and Jack Callaghan — speakers: Jack Callaghan, William Hanson, Jordan North
 - 2024-02-27 — Help I’m A Spunk Specialist — speakers: William Hanson, Jordan North
-- 2024-02-23 — Curls, Call-outs and Capital — speakers: William Hanson, Jordan North
-- 2024-02-20 — Help There’s A Tissue Issue — speakers: William Hanson, Jordan North
-- 2024-02-16 — Marathons, Made Up Names and Menthol Illness — speakers: William Hanson, Jordan North
+- 2024-02-23 — Curls, Call-outs and Capital — speakers: Capital William, Pot Noodle, William Hanson, Jordan North
+- 2024-02-20 — Help There’s A Tissue Issue — speakers: Help There, Tissue Issue There, William Hanson, Jordan North
+- 2024-02-16 — Marathons, Made Up Names and Menthol Illness — speakers: Made Up Names, Menthol Illness Ever, William Hanson, Jordan North
 - 2024-02-13 — Help It's The Valentines Special — speakers: William Hanson, Jordan North
 - 2024-02-09 — Country Tunes, Colonics and Choking — speakers: Choking William, William Hanson, Jordan North
 - 2024-02-06 — Help There’s Sparkle On My Stomach — speakers: William Hanson, Jordan North
@@ -13980,107 +14007,107 @@
 - 2024-01-16 — Help He’s Stuck On My Piercing — speakers: William Hanson, Jordan North
 - 2024-01-12 — Condoms, Impressions and Incest Sticks — speakers: William Hanson, Jordan North
 - 2024-01-09 — Help I’m Still Balls Deep — speakers: Producer Ben, William Hanson, Jordan North
-- 2023-12-25 — The Sexted Awards 2023 — speakers: Join William, Producer Ben, William Hanson, Jordan North
+- 2023-12-25 — The Sexted Awards 2023 — speakers: Join William, William Hanson, Jordan North
 - 2023-12-22 — Sexted The Panto: Journey to Jordan North’s Pole — speakers: Jordan North’s Pole, William Hanson, Jordan North
-- 2023-12-19 — Help He Wants Me To Inspect His Bumhole — speakers: Producer Ben, William Hanson, Jordan North
-- 2023-12-15 — Canapes, Creme Frackay and New Year's Eve — speakers: William Hanson, Jordan North
-- 2023-12-12 — Help I’ve Got No Rizz — speakers: Luckily Jordan, William Hanson, Jordan North
+- 2023-12-19 — Help He Wants Me To Inspect His Bumhole — speakers: William Hanson, Jordan North
+- 2023-12-15 — Canapes, Creme Frackay and New Year's Eve — speakers: Creme Frackay, New Year, Eve Plans, William Hanson, Jordan North
+- 2023-12-12 — Help I’ve Got No Rizz — speakers: William Hanson, Jordan North
 - 2023-12-08 — So Long, Farewell… — speakers: William Hanson, Jordan North
-- 2023-12-05 — Help It’s Down My Urethra Franklin — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-12-05 — Help It’s Down My Urethra Franklin — speakers: William Hanson, Jordan North
 - 2023-12-01 — Weekend Release: Common List, Welsh Towns and EPB's Ring — speakers: William Hanson, Jordan North
 - 2023-11-28 — Help We've Got Some News To Share — speakers: William Hanson, Jordan North
 - 2023-11-24 — Weekend Release: Jordan's Showreel, Full Moons and AV Adam — speakers: William Hanson, Jordan North
 - 2023-11-21 — Help I've Kegged Myself — speakers: Kegged Myself Jordan, William Hanson, Jordan North
-- 2023-11-17 — Weekend Release: Peas, Condiments and Doppelgangers — speakers: William Hanson, Jordan North
-- 2023-11-14 — Help I’m Non-Mahogany — speakers: William Hanson, Jordan North
+- 2023-11-17 — Weekend Release: Peas, Condiments and Doppelgangers — speakers: Weekend Release, William Hanson, Jordan North
+- 2023-11-14 — Help I’m Non-Mahogany — speakers: Mahogany There, William Hanson, Jordan North
 - 2023-11-10 — Weekend Release: Books, Quirks and Spine Breakers — speakers: Spine Breakers William Hanson, Jordan North, William Hanson
 - 2023-11-07 — Help She's Touching My Thermostat — speakers: William Hanson, Jordan North
-- 2023-11-03 — Weekend Release: Stubble, Ghosts and a Blonde Roast — speakers: William Hanson, Jordan North
-- 2023-10-31 — Help We've Swapped Places — speakers: William Hanson, Jordan North
+- 2023-11-03 — Weekend Release: Stubble, Ghosts and a Blonde Roast — speakers: Weekend Release, William Hanson, Jordan North
+- 2023-10-31 — Help We've Swapped Places — speakers: Swapped Places Join, William Hanson, Jordan North
 - 2023-10-27 — Weekend Release: Massages, Straws and Douchebags — speakers: William Hanson, Jordan North
-- 2023-10-24 — Help There's A Spaniel's Ear In The Pool — speakers: Jordan North, Earl Grey, William Hanson
+- 2023-10-24 — Help There's A Spaniel's Ear In The Pool — speakers: Help There, Team Sexted, William Hanson, Jordan North
 - 2023-10-20 — Weekend Release: Yearbooks, Posh Sausage and Sore Wrists — speakers: William Hanson, Jordan North
 - 2023-10-17 — Help I Don’t Know Where To Look — speakers: William Hanson, Jordan North
-- 2023-10-13 — Weekend Release: Olives, Beer and Bloopers — speakers: William Hanson, Jordan North
+- 2023-10-13 — Weekend Release: Olives, Beer and Bloopers — speakers: Weekend Release, William Hanson, Jordan North
 - 2023-10-10 — Help I'm Stuck To The Fridge — speakers: William Hanson, Jordan North
 - 2023-10-06 — Weekend Release: A Flashback, a Diary and a Waffle Top — speakers: William Hanson, Jordan North
 - 2023-10-03 — Help I've Got Chocolatey Fingers — speakers: William Hanson, Jordan North
-- 2023-09-29 — Weekend Release: A Priest, An Australian, And A Secret Shopper — speakers: William Hanson, Jordan North
-- 2023-09-26 — Help That’s Not My Husband’s Bum — speakers: Producer Ben, William Hanson, Jordan North
-- 2023-09-22 — Weekend Release: School Assembly Bangers — speakers: Jordan North, William Hanson
-- 2023-09-19 — Help I Tasted My Father-In-Law — speakers: William Hanson, Jordan North
+- 2023-09-29 — Weekend Release: A Priest, An Australian, And A Secret Shopper — speakers: Weekend Release, Secret Shopper After, William Hanson, Jordan North
+- 2023-09-26 — Help That’s Not My Husband’s Bum — speakers: Not My Husband, William Hanson, Jordan North
+- 2023-09-22 — Weekend Release: School Assembly Bangers — speakers: Weekend Release, School Assembly Bangers Another, William Hanson, Jordan North
+- 2023-09-19 — Help I Tasted My Father-In-Law — speakers: Tasted My Father, Law After, William Hanson, Jordan North
 - 2023-09-15 — Weekend Release: Jane Boulton From Airline — speakers: Jane Boulton, William Hanson, Jordan North
 - 2023-09-12 — Help We Didn't Flinch At Felching — speakers: Felching William, William Hanson, Jordan North
-- 2023-09-07 — Weekend Release: Mystery Package — speakers: Ed Sheeran, William Hanson, Jordan North
-- 2023-09-05 — Help I Know Him From A Porno — speakers: William Hanson, Jordan North
+- 2023-09-07 — Weekend Release: Mystery Package — speakers: William Hanson, Jordan North
+- 2023-09-05 — Help I Know Him From A Porno — speakers: Porno There, William Hanson, Jordan North
 - 2023-09-01 — Weekend Release: Going Viral Down Under — speakers: William Hanson, Jordan North
-- 2023-08-29 — Help I’ve Been Pinched By A Ghost — speakers: William Hanson, Jordan North
+- 2023-08-29 — Help I’ve Been Pinched By A Ghost — speakers: Ghost After, William Hanson, Jordan North
 - 2023-08-25 — Weekend Release: Luxury Next Year? — speakers: William Hanson, Jordan North
-- 2023-08-22 — Help We're Live In Benidorm — speakers: Wendy North, William Hanson, Jordan North
+- 2023-08-22 — Help We're Live In Benidorm — speakers: William Hanson, Jordan North
 - 2023-08-18 — Weekend Release: Oliday From Ell — speakers: Grandma Glennis, William Hanson, Jordan North
-- 2023-08-15 — Help We've Entered Benidorm — speakers: William Hanson, Jordan North
+- 2023-08-15 — Help We've Entered Benidorm — speakers: Entered Benidorm William, William Hanson, Jordan North
 - 2023-08-11 — Weekend Release: A Picky Tea... Cha Cha Cha — speakers: William Hanson, Jordan North
 - 2023-08-08 — Help I Opened My Mum's Shoebox — speakers: William Hanson, Jordan North
 - 2023-08-04 — Weekend Release: Tits and Toast — speakers: Robbie Taylor Hunt, William Hanson, Jordan North
-- 2023-08-01 — Help I've Seen Your Member — speakers: Jane Boulton, William Hanson, Jordan North
+- 2023-08-01 — Help I've Seen Your Member — speakers: William Hanson, Jordan North
 - 2023-07-28 — Weekend Release: The Dubonettes — speakers: William Hanson, Jordan North
-- 2023-07-25 — Help I've Been Rear Ended — speakers: William Hanson, Jordan North
+- 2023-07-25 — Help I've Been Rear Ended — speakers: Been Rear Ended There, William Hanson, Jordan North
 - 2023-07-21 — Weekend Release: It's A Q&A Spesh! — speakers: William Hanson, Jordan North
-- 2023-07-18 — Help My Dog Ate My Housemate's Dildo — speakers: Producer Ben, William Hanson, Jordan North
-- 2023-07-14 — Weekend Release: The Pocketless Dressing Gown — speakers: William Hanson, Jordan North
-- 2023-07-11 — Help You're Being Demonstrative — speakers: William Hanson, Jordan North
+- 2023-07-18 — Help My Dog Ate My Housemate's Dildo — speakers: William Hanson, Jordan North
+- 2023-07-14 — Weekend Release: The Pocketless Dressing Gown — speakers: brand-new stationer, William Hanson, Jordan North
+- 2023-07-11 — Help You're Being Demonstrative — speakers: Being Demonstrative After, William Hanson, Jordan North
 - 2023-07-07 — Weekend Release: Lee-dow or Lie-dow? — speakers: William Hanson, Jordan North
-- 2023-07-04 — Diva Espana: Help My Father-In-Law Got Pumped — speakers: Diva Espana Help My, Producer Ben, William Hanson, Jordan North
+- 2023-07-04 — Diva Espana: Help My Father-In-Law Got Pumped — speakers: Diva Espana Help My, William Hanson, Jordan North
 - 2023-06-30 — Weekend Release: What Ever Happened To The Potato Peeler? — speakers: William Hanson, Jordan North
 - 2023-06-27 — Diva Espana: Help My Dad Lied About The Dog — speakers: Dad Lied, William Hanson, Jordan North
-- 2023-06-23 — Weekend Release: A Horny Haunting — speakers: William Hanson, Jordan North
+- 2023-06-23 — Weekend Release: A Horny Haunting — speakers: Weekend Release, William Hanson, Jordan North
 - 2023-06-20 — Diva Espana: Help They Won’t Pay Me Back — speakers: Diva Espana Help, William Hanson, Jordan North
-- 2023-06-16 — Weekend Release: The First Diva Espana Winner! — speakers: William Hanson, Jordan North
+- 2023-06-16 — Weekend Release: The First Diva Espana Winner! — speakers: Weekend Release, Amazon Music Diva Espana, William Hanson, Jordan North
 - 2023-06-13 — Diva Espana: Help I Dusted Off Dusty — speakers: William Hanson, Jordan North
-- 2023-06-09 — Weekend Release: The Toasted Tampon — speakers: William Hanson, Jordan North
+- 2023-06-09 — Weekend Release: The Toasted Tampon — speakers: Weekend Release, William Hanson, Jordan North
 - 2023-06-06 — Diva Espana: Help It's Your First Chance To Win — speakers: Diva Espana Help, William Hanson, Jordan North
-- 2023-06-05 — The ultimate G&Diva summer holiday in Benidorm! — speakers: Jordan North, William Hanson, Producer Benidorm
+- 2023-06-05 — The ultimate G&Diva summer holiday in Benidorm! — speakers: Jordan North, William Hanso, William Hanson
 - 2023-06-02 — Weekend Release: The Yorkshire Pudding Millionaire — speakers: William Hanson, Jordan North
 - 2023-05-30 — Help He’s a Gummy Bear — speakers: William Hanson, Jordan North
 - 2023-05-26 — Weekend Release: I’m A Widgie Man, Myself — speakers: William Hanson, Jordan North
-- 2023-05-23 — Help My Brother-In-Law's Coming On To Me — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-05-23 — Help My Brother-In-Law's Coming On To Me — speakers: William Hanson, Jordan North
 - 2023-05-19 — Weekend Release: Polla De Burro — speakers: Polla De Burro, William Hanson, Jordan North
-- 2023-05-16 — Help I Saw My Boss’s Sex Tape — speakers: William Hanson, Jordan North
-- 2023-05-12 — Weekend Release: Shocked Into Dislocation — speakers: William Hanson, Jordan North
+- 2023-05-16 — Help I Saw My Boss’s Sex Tape — speakers: Saw My Boss, Sex Tape There, William Hanson, Jordan North
+- 2023-05-12 — Weekend Release: Shocked Into Dislocation — speakers: Weekend Release, Shocked Into Dislocation All, William Hanson, Jordan North
 - 2023-05-09 — Help I Need To Delete My Vinted — speakers: William Hanson, Jordan North
-- 2023-05-05 — William’s Surprise, Darling — speakers: William’s Surprise, Alex Polizzi, William Hanson, Jordan North
-- 2023-05-02 — Help My Pug's Got My Plug — speakers: William Hanson, Jordan North
+- 2023-05-05 — William’s Surprise, Darling — speakers: William’s Surprise, William Hanson, Jordan North
+- 2023-05-02 — Help My Pug's Got My Plug — speakers: Help My Pug, William Hanson, Jordan North
 - 2023-04-28 — Weekend Release: Doctor Jordan North — speakers: Jordan North William, William Hanson, Jordan North
-- 2023-04-25 — Help I Got Frisky With The Grocer — speakers: Producer Ben, William Hanson, Jordan North
-- 2023-04-21 — Weekend Release: Erika's Foot — speakers: Diva Erika, William Hanson, Jordan North
+- 2023-04-25 — Help I Got Frisky With The Grocer — speakers: William Hanson, Jordan North
+- 2023-04-21 — Weekend Release: Erika's Foot — speakers: Weekend Release, Laugh My Arse Off, William Hanson, Jordan North
 - 2023-04-18 — Help My Steven's Got A Big Willy — speakers: William Hanson, Jordan North
 - 2023-04-14 — Weekend Release: The Boys Are Back In Town — speakers: William Hanson, Jordan North
 - 2023-04-11 — Help He’s Got A Donkey Cock — speakers: William Hanson, Jordan North
 - 2023-04-07 — Weekend Release: William Doesn’t Have a Wikipedia Page! — speakers: William Hanson, Jordan North
-- 2023-04-04 — Help I’ve Shagged My Boss’s Daughter — speakers: William Hanson, Jordan North
+- 2023-04-04 — Help I’ve Shagged My Boss’s Daughter — speakers: Shagged My Boss, Daughter There, Sexted My Boss, William Hanson, Jordan North
 - 2023-03-31 — Weekend Release: Top 5 Moments Countdown — speakers: William Hanson, Jordan North
 - 2023-03-28 — Help It’s Our 5th Birthday Livestream — speakers: William Hanson, Jordan North
-- 2023-03-24 — Weekend Release: A Handwritten Spesh — speakers: Welsh Stu, William Hanson, Jordan North
+- 2023-03-24 — Weekend Release: A Handwritten Spesh — speakers: William Hanson, Jordan North
 - 2023-03-21 — Help There’s Something In The Butter — speakers: Producer Ben, William Hanson, Jordan North
-- 2023-03-17 — Weekend Release: We’ve Penetrated The Sphinx — speakers: William Hanson, Jordan North
-- 2023-03-14 — Help I’m Handling Unexpected Plums — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-03-17 — Weekend Release: We’ve Penetrated The Sphinx — speakers: Weekend Release, William Hanson, Jordan North
+- 2023-03-14 — Help I’m Handling Unexpected Plums — speakers: Sexted My Boss, William Hanson, Jordan North
 - 2023-03-10 — Weekend Release: Vicar Tom is back! — speakers: William Hanson, Jordan North
-- 2023-03-07 — Help I've Had A Slaggy Summer — speakers: William Hanson, Jordan North
+- 2023-03-07 — Help I've Had A Slaggy Summer — speakers: Sexted My Boss, William Hanson, Jordan North
 - 2023-03-03 — Weekend Release: Trip To The Publishers — speakers: William Hanson, Jordan North
 - 2023-02-28 — Help I Massacred The Bed Sheets — speakers: William Hanson, Jordan North
 - 2023-02-24 — Weekend Release: Get Hard and Come Home — speakers: William Hanson, Jordan North
 - 2023-02-21 — Help My Friend Is In A Cult — speakers: William Hanson, Jordan North
-- 2023-02-17 — Weekend Release: Help us Vicar Tom! — speakers: Jordan North, Vicar Tom, William Hanson
+- 2023-02-17 — Weekend Release: Help us Vicar Tom! — speakers: William Hanson, Jordan North
 - 2023-02-14 — Help I’ve Got Lunch With An Earl — speakers: William Hanson, Jordan North
 - 2023-02-10 — Weekend Release: The Writers' Room — speakers: William Hanson, Jordan North
 - 2023-02-07 — Help There’s Pubes In My Pencil Case — speakers: William Hanson, Jordan North
-- 2023-02-03 — Weekend Release: The Potato Peeler Legacy — speakers: William Hanson, Jordan North
+- 2023-02-03 — Weekend Release: The Potato Peeler Legacy — speakers: Weekend Release, Sexted My, William Hanson, Jordan North
 - 2023-02-02 — It's Time To Reveal Ourselves — speakers: William Hanson, Jordan North
-- 2023-01-31 — Help I'm Scarred For Life — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-01-31 — Help I'm Scarred For Life — speakers: William Hanson, Jordan North
 - 2023-01-27 — Weekend Release: Lube Wrestling — speakers: William Hanson, Jordan North
 - 2023-01-24 — Help I’m A Milk Thief — speakers: William Hanson, Jordan North
 - 2023-01-22 — Second Coming: Help There’s a Gay Ghost In My Bed — speakers: William Hanson, Jordan North
-- 2023-01-20 — Weekend Release: Bobsleigh Time — speakers: William Hanson, Jordan North
+- 2023-01-20 — Weekend Release: Bobsleigh Time — speakers: Weekend Release, William Hanson, Jordan North
 - 2023-01-17 — Help The Gay Ghost is Back — speakers: William Hanson, Jordan North
 - 2023-01-13 — Weekend Release: Big Willy and Jord — speakers: William Hanson, Jordan North
 - 2023-01-10 — Help I'm Getting Too Old For This — speakers: William Hanson, Jordan North
@@ -14088,56 +14115,56 @@
 - 2022-12-16 — Weekend Release: Thanks Baby — speakers: William Hanson, Jordan North
 - 2022-12-13 — Help I Found My Dad’s Thong — speakers: William Hanson, Jordan North
 - 2022-12-09 — Weekend Release: Love Is Not In The Air — speakers: kooky nan, William Hanson, Jordan North
-- 2022-12-06 — Help I Dropped My Knickers Outside Asda — speakers: Mary Poppins, William Hanson, Jordan North
-- 2022-12-02 — Weekend Release: Poppins Problems — speakers: Oliver Twist, William Hanson, Jordan North
+- 2022-12-06 — Help I Dropped My Knickers Outside Asda — speakers: William Hanson, Jordan North
+- 2022-12-02 — Weekend Release: Poppins Problems — speakers: William Hanson, Jordan North
 - 2022-11-29 — Help What Do I Buy My Boyfriend's Girlfriend — speakers: William Hanson, Jordan North
-- 2022-11-25 — Weekend Release: Feeling Flirty — speakers: William Hanson, Jordan North
+- 2022-11-25 — Weekend Release: Feeling Flirty — speakers: Jordan st, William Hanson, Jordan North
 - 2022-11-22 — Help How Do I Deter My Mother-in-Law — speakers: William Hanson, Jordan North
 - 2022-11-17 — Help William’s Never Been To Greggs — speakers: William’s Never Been, William Hanson, Jordan North
 - 2022-11-15 — Help I Hate His Sex Music — speakers: William Hanson, Jordan North
 - 2022-11-11 — Weekend Release: William's Scallops — speakers: William Hanson, Jordan North
-- 2022-11-08 — Help There's A Man In My Bed — speakers: Producer Ben, William Hanson, Jordan North
-- 2022-11-04 — Weekend Release: Wendy, Can I Borrow Your Potato Peeler? — speakers: Marco Polo, William Hanson, Jordan North
+- 2022-11-08 — Help There's A Man In My Bed — speakers: William Hanson, Jordan North
+- 2022-11-04 — Weekend Release: Wendy, Can I Borrow Your Potato Peeler? — speakers: William Hanson, Jordan North
 - 2022-11-01 — Help I'm Bored of BeReal — speakers: Leaky Sue, William Hanson, Jordan North
 - 2022-10-28 — Weekend Release: Gu Pot Baby — speakers: William Hanson, Jordan North
-- 2022-10-25 — Help We Lost Touch — speakers: Ready Brek, William Hanson, Jordan North
+- 2022-10-25 — Help We Lost Touch — speakers: William Hanson, Jordan North
 - 2022-10-21 — Weekend Release: Gu Pot Goodness — speakers: William Hanson, Jordan North
 - 2022-10-18 — Help I've Fallen Into Spidey's Trap — speakers: William Hanson, Jordan North
 - 2022-10-14 — Weekend Release: Hard On Message — speakers: William Hanson, Jordan North
-- 2022-10-11 — Help The Honeymoon Is Over — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-10-11 — Help The Honeymoon Is Over — speakers: William Hanson, Jordan North
 - 2022-10-07 — Weekend Release: Jar Jar Binks — speakers: Jar Jar Binks William, William Hanson, Jordan North
 - 2022-10-04 — Help I Want To Touch Your Bump — speakers: William Hanson, Jordan North
 - 2022-09-30 — Weekend Release: Goodbye Producer Ben — speakers: Producer Ben, William Hanson, Jordan North
-- 2022-09-27 — Help We've Had A Wedding — speakers: William Hanson, Jordan North
+- 2022-09-27 — Help We've Had A Wedding — speakers: Wedding William, Usher Ben, William Hanson, Jordan North
 - 2022-09-23 — Weekend Release: William's Wedding — speakers: William Hanson, Jordan North
 - 2022-09-20 — Help My Mum’s A Milf — speakers: William Hanson, Jordan North
-- 2022-09-13 — Remembering The Queen — speakers: Charles Iii, William Hanson, Jordan North
+- 2022-09-13 — Remembering The Queen — speakers: William Hanson, Jordan North
 - 2022-09-06 — Help What's an Aubergine Emoji? — speakers: Aubergine Emoji, William Hanson, Jordan North
-- 2022-09-02 — Weekend Release: Young Jordan — speakers: Producer Ben, Jordan North, William Hanson
+- 2022-09-02 — Weekend Release: Young Jordan — speakers: Producer Ben, William Hanson, Jordan North
 - 2022-08-30 — Help I Want To Chat You Up — speakers: Producer Ben, William Hanson, Jordan North
-- 2022-08-26 — Weekend Release: Secret Golf Balls — speakers: William Hanson, Jordan North
-- 2022-08-23 — Help I’m Thinking with My Fanny — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-08-26 — Weekend Release: Secret Golf Balls — speakers: Weekend Release, William Hanson, Jordan North
+- 2022-08-23 — Help I’m Thinking with My Fanny — speakers: William Hanson, Jordan North
 - 2022-08-19 — Weekend Release: M'Gooch — speakers: William Hanson, Jordan North
 - 2022-08-16 — Help I Know A Vabber — speakers: William Hanson, Jordan North
 - 2022-08-12 — Weekend Release: Sir Judi Dench — speakers: Judi Dench, William Hanson, Jordan North
 - 2022-08-09 — Help I'm More Postman Than Post Box — speakers: William Hanson, Jordan North
-- 2022-08-05 — Weekend Release: Party Sausage — speakers: William Hanson, Jordan North
-- 2022-08-02 — Help My Brother's A Spanker — speakers: William Hanson, Jordan North
-- 2022-07-29 — Weekend Release: Pocket Rocket — speakers: William Hanson, Jordan North
-- 2022-07-26 — Help My Dad's a KFC Dribbler — speakers: William Hanson, Jordan North
+- 2022-08-05 — Weekend Release: Party Sausage — speakers: Weekend Release, Party Sausage There, William Hanson, Jordan North
+- 2022-08-02 — Help My Brother's A Spanker — speakers: Help My Brother, William Hanson, Jordan North
+- 2022-07-29 — Weekend Release: Pocket Rocket — speakers: Weekend Release, William Hanson, Jordan North
+- 2022-07-26 — Help My Dad's a KFC Dribbler — speakers: Help My Dad, William Hanson, Jordan North
 - 2022-07-12 — Help I'm An Anonymous Cruiser — speakers: Anonymous Cruiser, William Hanson, Jordan North
-- 2022-07-08 — Weekend Release: The Sexted Steamer — speakers: William Hanson, Jordan North
+- 2022-07-08 — Weekend Release: The Sexted Steamer — speakers: Weekend Release, William Hanson, Jordan North
 - 2022-07-05 — Help There's a Tiff on the Tyne — speakers: William Hanson, Jordan North
-- 2022-07-01 — Weekend Release: Sorry Jesus — speakers: William Hanson, Jordan North
-- 2022-06-28 — Help There’s a Prince on FaceTime — speakers: William Hanson, Jordan North
-- 2022-06-24 — Weekend Release: Jordan’s Agastopic Black Hole — speakers: Jordan North, William Hanson
+- 2022-07-01 — Weekend Release: Sorry Jesus — speakers: Weekend Release, William Hanson, Jordan North
+- 2022-06-28 — Help There’s a Prince on FaceTime — speakers: Help There, William Hanson, Jordan North
+- 2022-06-24 — Weekend Release: Jordan’s Agastopic Black Hole — speakers: Weekend Release, Burnley Football, William Hanson, Jordan North
 - 2022-06-21 — Help We're Back In Edinburgh — speakers: William Hanson, Jordan North
 - 2022-06-17 — Weekend Release: Jordan’s Emergency Landing — speakers: William Hanson, Jordan North
 - 2022-06-14 — Help I Don't Want To Thank You — speakers: William Hanson, Jordan North
 - 2022-06-10 — Weekend Release: An Issue With A Tissue — speakers: William Hanson, Jordan North
 - 2022-06-07 — Help My Personal Trainer Made Me Cry — speakers: William Hanson, Jordan North
 - 2022-06-03 — Weekend Release: Platty Joob Spesh — speakers: William Hanson, Jordan North
-- 2022-05-31 — Help I'm Up In Space Ma'am — speakers: Calvin Harris, Diana Ross, William Hanson, Jordan North
+- 2022-05-31 — Help I'm Up In Space Ma'am — speakers: William Hanson, Jordan North
 - 2022-05-27 — Weekend Release: Walking on Broken Dubonnet — speakers: Broken Dubonnet, William Hanson, Jordan North
 - 2022-05-24 — Help My Name's *****cock — speakers: William Hanson, Jordan North
 - 2022-05-20 — Weekend Release: Out Of Both Ends — speakers: William Hanson, Jordan North
@@ -14146,24 +14173,24 @@
 - 2022-05-10 — Help We're Backstage in Belfast — speakers: William Hanson, Jordan North
 - 2022-05-06 — Weekend Release: Lads On Tour In Ireland — speakers: Sean Dyche, William Hanson, Jordan North
 - 2022-05-03 — Help I'm Flying First — speakers: William Hanson, Jordan North
-- 2022-04-29 — Weekend Release: Jordan’s Doppelgänger — speakers: Jordan North, William Hanson
+- 2022-04-29 — Weekend Release: Jordan’s Doppelgänger — speakers: William Hanson, Jordan North
 - 2022-04-26 — Help He's Left A Log — speakers: Jordan North, William Hanson
-- 2022-04-22 — Weekend Release: Jump Cut Jack — speakers: Jump Cut Jack, Producer Ben, William Hanson, Jordan North
+- 2022-04-22 — Weekend Release: Jump Cut Jack — speakers: Jump Cut Jack, William Hanson, Jordan North
 - 2022-04-19 — Help I've Lost My Dummy — speakers: William Hanson, Jordan North
 - 2022-04-15 — E-MERCH-ENCY — speakers: William Hanson, Jordan North
 - 2022-04-12 — Help It's Yours Sincerely — speakers: Yours Sincerely, William Hanson, Jordan North
 - 2022-04-08 — Weekend Release: Sending You To Sleep — speakers: William Hanson, Jordan North
 - 2022-04-05 — Help I've Been Hustled — speakers: Jordan North, William Hanson
-- 2022-04-01 — Weekend Release: Let's Get Steamy — speakers: Wendi North, William Hanson, Jordan North
-- 2022-03-29 — Help I Have Major Daddy Issues — speakers: William Hanson, Jordan North
-- 2022-03-25 — Weekend Release: Starting A Podcast Advice — speakers: William Hanson, Jordan North
+- 2022-04-01 — Weekend Release: Let's Get Steamy — speakers: Weekend Release, Get Steamy April Fool, William Hanson, Jordan North
+- 2022-03-29 — Help I Have Major Daddy Issues — speakers: Sexted My Boss, William Hanson, Jordan North
+- 2022-03-25 — Weekend Release: Starting A Podcast Advice — speakers: Weekend Release, Advice How, William Hanson, Jordan North
 - 2022-03-22 — Help There's SPF All Over My Face — speakers: William Hanson, Jordan North
 - 2022-03-18 — Weekend Release: The Moon Under Water — speakers: William Hanson, Jordan North
 - 2022-03-15 — Help I'm All Tied Up — speakers: William Hanson, Jordan North
 - 2022-03-11 — Weekend Release: The Preview Review — speakers: William Hanson, Jordan North
 - 2022-03-08 — Help I've Farted In Pilates — speakers: Jordan North, William Hanson
-- 2022-03-04 — Weekend Release: Rowing Home with Jordan (And Producer Ben) — speakers: Producer Ben, Jordan North, William Hanson
-- 2022-03-01 — Help I'm Rowing Home — speakers: Abbey Clancy, William Hanson, Jordan North
+- 2022-03-04 — Weekend Release: Rowing Home with Jordan (And Producer Ben) — speakers: Producer Ben, Jordan North row, William Hanson, Jordan North
+- 2022-03-01 — Help I'm Rowing Home — speakers: William Hanson, Jordan North
 - 2022-02-25 — Weekend Release: Russell Kane — speakers: Russell Kane Russell Kane, Man Baggage, Evil Genius, William Hanson, Jordan North
 - 2022-02-22 — Help I Hate Your Coffee — speakers: William Hanson, Jordan North
 - 2022-02-18 — Weekend Release: Jordan's Diction — speakers: William Hanson, Jordan North
@@ -14178,14 +14205,14 @@
 - 2022-01-18 — Help I've Been Caught With The Vicar — speakers: William Hanson, Jordan North
 - 2022-01-14 — Weekend Release: William's Unfair Dismissal — speakers: Unfair Dismissal Fresh, Tik Tok, William Hanson, Jordan North
 - 2022-01-11 — Help It's Series Infinity… And Beyond! — speakers: William Hanson, Jordan North
-- 2021-12-25 — Advent Calendar: It's Christmas! — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-25 — Advent Calendar: It's Christmas! — speakers: Advent Calendar, William Hanson, Jordan North, Merry Christm
 - 2021-12-24 — Advent Calendar: Emptying The Sack — speakers: Advent Calendar, William Hanson, Jordan North
-- 2021-12-23 — Advent Calendar: Christmas Dinners PB's Birthday and Receiving Presents — speakers: Advent Calendar, William Hanson, Jordan North, Producer Ben
+- 2021-12-23 — Advent Calendar: Christmas Dinners PB's Birthday and Receiving Presents — speakers: Advent Calendar, William Hanson, Jordan North
 - 2021-12-22 — Advent Calendar: Return of the King — speakers: Advent Calendar, Jordan North, William Hanson
-- 2021-12-17 — An Advent Calendar Update — speakers: William Hanson, Jordan North
+- 2021-12-17 — An Advent Calendar Update — speakers: Sexted My Boss Advent, William Hanson, Jordan North
 - 2021-12-16 — Advent Calendar: Christmas TV — speakers: Advent Calendar, William Hanson, Jordan North
 - 2021-12-15 — Advent Calendar: Christmas Drinks — speakers: Advent Calendar, William Hanson, Jordan North
-- 2021-12-14 — Advent Calendar: Father Christmas — speakers: Advent Calendar, Producer Ben, William Hanson, Jordan North
+- 2021-12-14 — Advent Calendar: Father Christmas — speakers: Advent Calendar, William Hanson, Jordan North
 - 2021-12-13 — Advent Calendar: Christmas Nativity — speakers: Advent Calendar, William Hanson, Jordan North
 - 2021-12-12 — Advent Calendar: Christmas Decorations — speakers: Advent Calendar, William Hanson, Jordan North
 - 2021-12-11 — Advent Calendar: Secret Santa — speakers: Advent Calendar, Secret Santa, William Hanson, Jordan North
@@ -14200,68 +14227,68 @@
 - 2021-12-03 — Advent Calendar: Mince Pies — speakers: Advent Calendar, William Hanson, Jordan North
 - 2021-12-02 — Advent Calendar: Christmas Jumpers — speakers: Advent Calendar, William Hanson, Jordan North
 - 2021-12-01 — Advent Calendar: Advent Calendars — speakers: Advent Calendar, Advent Calendars William Hanson, Jordan North, William Hanson
-- 2021-11-29 — The Help I Sexted My Boss Advent Calendar — speakers: William Hanson, Jordan North
-- 2021-10-19 — The Boys Are Back: Kinder Surprise — speakers: Kinder Bueno, Producer Ben, William Hanson, Jordan North
+- 2021-11-29 — The Help I Sexted My Boss Advent Calendar — speakers: Sexted My Boss Advent, Calendar Introducing, Throughout December, William Hanson, Jordan North
+- 2021-10-19 — The Boys Are Back: Kinder Surprise — speakers: William Hanson, Jordan North
 - 2021-10-12 — The Boys Are Back: William And Jordan Are Rifting — speakers: William Hanson, Jordan North
 - 2021-09-21 — The Boys Are Back: We Don't Do Politi — speakers: William Hanson, Jordan North
 - 2021-09-10 — Weekend Release: Your Tour Questions Answered (And More…) — speakers: William Hanson, Jordan North
-- 2021-09-07 — Help I've Been Bonking In An Alley — speakers: William Hanson, Jordan North
+- 2021-09-07 — Help I've Been Bonking In An Alley — speakers: huge news, big announcements, William Hanson, Jordan North
 - 2021-09-03 — Weekend Release: Producer Ben's A Tree — speakers: Producer Ben, William Hanson, Jordan North
 - 2021-08-31 — Help I Need To Cancel — speakers: William Hanson, Jordan North
 - 2021-08-27 — Weekend Release: Frank's Accent — speakers: William Hanson, Jordan North
-- 2021-08-24 — Help I Like It Salty (Cha Cha Cha) — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-08-24 — Help I Like It Salty (Cha Cha Cha) — speakers: William Hanson, Jordan North
 - 2021-08-20 — Weekend Release: You Know You're A G And Diva When… — speakers: William Hanson, Jordan North
 - 2021-08-17 — Help My Neighbour's Windows Need Some Pledge — speakers: William Hanson, Jordan North
-- 2021-08-13 — Weekend Release: Melon Plucker Update — speakers: Producer Ben, Mary Poppins, William Hanson, Jordan North
+- 2021-08-13 — Weekend Release: Melon Plucker Update — speakers: Producer Ben, William Hanson, Jordan North
 - 2021-08-10 — Help It's The Final Biscuit — speakers: William Hanson, Jordan North
 - 2021-08-06 — Weekend Release: William's Diary Returns — speakers: Diary Returns, William Hanson, Jordan North
 - 2021-08-03 — Help Die Umwelt Ist Kaputt — speakers: William Hanson, Jordan North
-- 2021-07-30 — Weekend Release: William's Dating Profile — speakers: Producer Ben, William Hanson, Jordan North
-- 2021-07-29 — Weekend Release: Expectations and Reality — speakers: William Hanson, Jordan North
+- 2021-07-30 — Weekend Release: William's Dating Profile — speakers: William Hanson, Jordan North
+- 2021-07-29 — Weekend Release: Expectations and Reality — speakers: Capital One, William Hanson, Jordan North
 - 2021-07-27 — Help I’ve Been Given the Thumbs Up — speakers: Producer Ben, William Hanson, Jordan North
 - 2021-07-23 — Weekend Release: Jordan's Book Club — speakers: William Hanson, Jordan North
 - 2021-07-20 — Help I've Snapped The D — speakers: William Hanson, Jordan North
-- 2021-07-16 — Weekend Release: James Hanson (William's Brother) — speakers: James Hanson, Producer Ben, William Hanson, Jordan North
+- 2021-07-16 — Weekend Release: James Hanson (William's Brother) — speakers: James Hanson, William Hanson, Jordan North
 - 2021-07-13 — Help It's Me Or Your Nuts — speakers: William Hanson, Jordan North
-- 2021-07-09 — Weekend Release: William's New Friend — speakers: Christopher Biggins, William Hanson, Jordan North
+- 2021-07-09 — Weekend Release: William's New Friend — speakers: William Hanson, Jordan North
 - 2021-07-06 — Help My Sister Thinks She's A Pornstar — speakers: William Hanson, Jordan North
 - 2021-07-02 — Weekend Release: Producer Ben's Paintbrush — speakers: Producer Ben, William Hanson, Jordan North
 - 2021-06-29 — Help I've Got A Hole In One — speakers: William Hanson, Jordan North
-- 2021-06-25 — Help It's The Best Of Series 7 - Part Two — speakers: Mary Poppins, William Hanson, Jordan North
-- 2021-06-22 — Help It's The Best Of Series 7 - Part One — speakers: Barry Manilow, William Hanson, Jordan North
+- 2021-06-25 — Help It's The Best Of Series 7 - Part Two — speakers: William Hanson, Jordan North
+- 2021-06-22 — Help It's The Best Of Series 7 - Part One — speakers: William Hanson, Jordan North
 - 2021-05-04 — Help It's The Pilot — speakers: William Hanson, Jordan North
 - 2021-04-30 — Weekend Release: 100th Episode Debrief — speakers: William Hanson, Jordan North
-- 2021-04-27 — Help It's Our Big 100th Episode Livestream Special — speakers: Producer Ben, William Hanson, Jordan North
-- 2021-04-23 — Weekend Release: 100th Episode Planning — speakers: Producer Ben, William Hanson, Jordan North
-- 2021-04-20 — Help I've Gone Viral — speakers: Jordan Joke, William Hanson, Jordan North
+- 2021-04-27 — Help It's Our Big 100th Episode Livestream Special — speakers: William Hanson, Jordan North
+- 2021-04-23 — Weekend Release: 100th Episode Planning — speakers: William Hanson, Jordan North
+- 2021-04-20 — Help I've Gone Viral — speakers: William Hanson, Jordan North
 - 2021-04-16 — Weekend Release: Losing My VirGINiDy — speakers: William Hanson, Jordan North
 - 2021-04-13 — Help I'm Moving To London — speakers: William Hanson, Jordan North
 - 2021-04-09 — Weekend Release: Pie In A Park — speakers: Producer Ben, William Hanson, Jordan North
 - 2021-04-06 — Help My Mates Are Meeting In A Park — speakers: William Hanson, Jordan North
-- 2021-04-02 — Weekend Release: Census Results — speakers: William Hanson, Jordan North
-- 2021-03-30 — Help I'm A Thirteenth Wheel — speakers: William Hanson, Jordan North
+- 2021-04-02 — Weekend Release: Census Results — speakers: Weekend Release, Census Results William, Sexted My Boss Census, William Hanson, Jordan North
+- 2021-03-30 — Help I'm A Thirteenth Wheel — speakers: Thirteenth Wheel Sometimes, William Hanson, Jordan North
 - 2021-03-26 — Weekend Release: Jordan's Snake Handler — speakers: William Hanson, Jordan North
 - 2021-03-23 — Help I'm Out Of A Man — speakers: William Hanson, Jordan North
 - 2021-03-19 — Weekend Release: Jordan's Fan Fic — speakers: Fan Fic William, William Hanson, Jordan North
-- 2021-03-16 — Help We Haven't Got A Plan — speakers: William Hannon, William Hanson, Jordan North
-- 2021-03-12 — Weekend Release: Inspirational Jordan — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-03-16 — Help We Haven't Got A Plan — speakers: William Hanson, Jordan North
+- 2021-03-12 — Weekend Release: Inspirational Jordan — speakers: William Hanson, Jordan North
 - 2021-03-09 — Help I've Got A Wonky Clock — speakers: William Hanson, Jordan North
 - 2021-03-05 — Weekend Release: William's Diary Part II — speakers: William Hanson, Jordan North
 - 2021-03-02 — Help My Neighbours Are Common — speakers: William Hanson, Jordan North
 - 2021-02-26 — Weekend Release: William's Apology — speakers: William Hanson, Jordan North
 - 2021-02-23 — Help I've Left My Lube On The Side — speakers: William Hanson, Jordan North
 - 2021-02-19 — Weekend Release: Jordan's Safe Word — speakers: William Hanson, Jordan North
-- 2021-02-16 — Help I'm In A Man — speakers: Builder Mikey, William Hanson, Jordan North
+- 2021-02-16 — Help I'm In A Man — speakers: William Hanson, Jordan North
 - 2021-02-12 — Weekend Release: William's Bit On The Side — speakers: Jonathan Vernon-Smith, William Hanson, Jordan North
 - 2021-02-09 — Help I'm A Boss Who's Been Sexted — speakers: William Hanson, Jordan North
 - 2021-02-05 — Weekend Release: William's Diary — speakers: William Hanson, Jordan North
-- 2021-02-02 — Help I Fancy My Twin Brother's Boyfriend — speakers: William Hanson, Jordan North
+- 2021-02-02 — Help I Fancy My Twin Brother's Boyfriend — speakers: Fancy My Twin Brother, Sexted My Boss, William Hanson, Jordan North
 - 2021-01-29 — Weekend Release: Jordan's Diary — speakers: William Hanson, Jordan North
-- 2021-01-26 — Help There's A Jumping Jet Behind Me — speakers: William Hanson, Jordan North
-- 2021-01-22 — Weekend Release: William's Big Release — speakers: Mary Poppins, Zizi Strallen, Cameron Mackintosh, William Hanson, Jordan North
+- 2021-01-26 — Help There's A Jumping Jet Behind Me — speakers: Help There, Jumping Jet Behind Me, William Hanson, Jordan North
+- 2021-01-22 — Weekend Release: William's Big Release — speakers: Mary Poppins, William Hanson, Jordan North
 - 2021-01-19 — Help I Accidentally Sexted My Mother-In-Law — speakers: Producer Ben, William Hanson, Jordan North
 - 2021-01-15 — Weekend Release: Doggy Style — speakers: Producer Ben, William Hanson, Jordan North
-- 2021-01-12 — Help We've Killed Manilow — speakers: Barry Manilow, Joe Wicks, Producer Ben, William Hanson, Jordan North
+- 2021-01-12 — Help We've Killed Manilow — speakers: William Hanson, Jordan North
 - 2020-12-25 — 2020 Fistmas Special — speakers: William Hanson, Jordan North
 - 2020-12-22 — I'm A Celeb: The Reunion — speakers: Producer Ben, William Hanson, Jordan North
 - 2020-12-05 — I'm A Celeb: Jordan North Is The King Of Our Castle — speakers: William Hanson, Jordan North
@@ -14270,48 +14297,48 @@
 - 2020-12-02 — I'm A Celeb: Castle Inn, I Will Survive and Jay Rodriguez — speakers: Castle Inn, Will Survive, Jay Rodriguez, William Hanson, Jordan North
 - 2020-12-01 — I'm A Celeb: Phantom Dribbler, Bye Bev and Scarlett Moffatt — speakers: Phantom Dribbler, Bye Bev, Scarlett Moffatt, William Hanson, Jordan North
 - 2020-11-30 — I'm A Celeb: Spit, Mutton and Joe Tasker — speakers: Joe Tasker, William Hanson, Jordan North
-- 2020-11-29 — I'm A Celeb: Week 2, Your Questions and Christopher Biggins — speakers: Christopher Biggins, Producer Ben, William Hanson, Jordan North
+- 2020-11-29 — I'm A Celeb: Week 2, Your Questions and Christopher Biggins — speakers: Christopher Biggins, William Hanson, Jordan North
 - 2020-11-28 — I'm A Celeb: Privy Problems, Nessun Dorma and Matt Edmondson — speakers: Nessun Dorma, Matt Edmondson, William Hanson, Jordan North
 - 2020-11-27 — I'm A Celeb: Policeman, Halsey and Woody and Kleiny — speakers: William Hanson, Jordan North
 - 2020-11-26 — I'm A Celeb: Bye Bye Beard, Megashag and Special Guest — speakers: Jordan North, William Hanson
-- 2020-11-25 — I'm A Celeb: All That Jazz, Showering Shane and Pendleside Hospice — speakers: Jordan North, Shane Ritchie, William Hanson
+- 2020-11-25 — I'm A Celeb: All That Jazz, Showering Shane and Pendleside Hospice — speakers: Jordan North, William Hanson
 - 2020-11-24 — I'm A Celeb: Bev’s Book, Donna the Duck and Riyadh Khalaf — speakers: William Hanson, Jordan North
-- 2020-11-23 — I'm A Celeb: Royal Banquet, Camp Leader and Owain Wyn-Evans — speakers: William Hanson, Jordan North
-- 2020-11-22 — I'm A Celeb: Week 1, Luxury Items and Bev's Daughter Danielle — speakers: Luxury Items, Daughter Danielle, Producer Ben, William Hanson, Jordan North
+- 2020-11-23 — I'm A Celeb: Royal Banquet, Camp Leader and Owain Wyn-Evans — speakers: Royal Banquet, Camp Leader, Owain Wyn, William Hanson, Jordan North
+- 2020-11-22 — I'm A Celeb: Week 1, Luxury Items and Bev's Daughter Danielle — speakers: Luxury Items, Daughter Danielle, William Hanson, Jordan North
 - 2020-11-21 — I'm A Celeb: Royal Confessions, Terror Troughs and Tony Blackburn — speakers: Tony Blackburn, William Hanson, Jordan North
 - 2020-11-20 — I'm A Celeb: Bare Foot Massage, Trapped Door and Nick Grimshaw — speakers: Bare Foot Massage, Nick Grimshaw, William Hanson, Jordan North
 - 2020-11-19 — I'm A Celeb: Bread and Butter, Nessa’s Tattoo and Jake Quickenden — speakers: Nessa’s Tattoo, Jake Quickenden, William Hanson, Jordan North
 - 2020-11-18 — I'm A Celeb: Frights Of The Round Table, Three Day Underwear and Katie Thistleton — speakers: Katie Thistleton, William Hanson, Jordan North
-- 2020-11-17 — I'm A Celeb: Happy Place, Happy Place, Turf Moor, Happy Place and Kerry Katona — speakers: Turf Moor, Kerry Katona, Vernon Kay, William Hanson, Jordan North
-- 2020-11-16 — I'm A Celeb: Vomit, Bev's Pockets and Jordan's Mum — speakers: Producer Ben, Mo Farah, William Hanson, Jordan North
-- 2020-11-10 — Help I Sexted My Boss Does I'm A Celebrity — speakers: William Hanson, Jordan North
-- 2020-11-09 — Help My Co-Host's Going Into The Castle — speakers: William Hanson, Jordan North
+- 2020-11-17 — I'm A Celeb: Happy Place, Happy Place, Turf Moor, Happy Place and Kerry Katona — speakers: Turf Moor, Kerry Katona, William Hanson, Jordan North
+- 2020-11-16 — I'm A Celeb: Vomit, Bev's Pockets and Jordan's Mum — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-11-10 — Help I Sexted My Boss Does I'm A Celebrity — speakers: Sexted My Boss Does, Celebrity William, Sexted My Boss, William Hanson, Jordan North
+- 2020-11-09 — Help My Co-Host's Going Into The Castle — speakers: Help My Co, Jordan North, William Hanson
 - 2020-10-30 — Help It's The Best Of Series 5 - Part Two — speakers: William Hanson, Jordan North
 - 2020-10-27 — Help It's The Best of Series 5 - Part One — speakers: William Hanson, Jordan North
 - 2020-10-16 — Replay: Help We've Landed In Monaco — speakers: William Hanson, Jordan North
-- 2020-10-09 — Replay: Help I'm Marrying An American — speakers: Prince Harry, William Hanson, Jordan North
-- 2020-10-02 — Replay: Help There's A Gay Ghost In My Bed — speakers: William Hanson, Jordan North
-- 2020-09-01 — Help My Landlord Saw My Sex Toys — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-10-09 — Replay: Help I'm Marrying An American — speakers: William Hanson, Jordan North
+- 2020-10-02 — Replay: Help There's A Gay Ghost In My Bed — speakers: Help There, Sexted My Boss World, William Hanson, Jordan North
+- 2020-09-01 — Help My Landlord Saw My Sex Toys — speakers: William Hanson, Jordan North
 - 2020-08-28 — Weekend Release: Wilfred and Justin Come Again — speakers: Justin Come Again, Producer Ben, William Hanson, Jordan North
 - 2020-08-25 — Help I've Got A Nude Of My Dad — speakers: Producer Ben, William Hanson, Jordan North
 - 2020-08-21 — Weekend Release: Horizontal Refreshment — speakers: William Hanson, Jordan North
 - 2020-08-18 — Help My Brother's Girlfriend Is A Cheat — speakers: William Hanson, Jordan North
-- 2020-08-14 — Weekend Release: When Life Gives You Melons — speakers: Richard Pipkins, William Hanson, Jordan North
+- 2020-08-14 — Weekend Release: When Life Gives You Melons — speakers: Weekend Release, Melons After, William Hanson, Jordan North
 - 2020-08-11 — Help I'm Mates With A Melon Plucker — speakers: William Hanson, Jordan North
 - 2020-08-07 — Weekend Release: William The Cover Star — speakers: Cover Star, William Hanson, Jordan North
-- 2020-08-04 — Help I've Got My Eye On My Optician — speakers: William Hanson, Jordan North
+- 2020-08-04 — Help I've Got My Eye On My Optician — speakers: My Optician William, William Hanson, Jordan North
 - 2020-07-31 — Weekend Release: Ding-Dong Ditch — speakers: Ding-Dong Ditch William, William Hanson, Jordan North
 - 2020-07-28 — Help I Want A Rhino On My Face — speakers: William Hanson, Jordan North
 - 2020-07-24 — Weekend Release: Jordan's Elocution Lesson — speakers: William Hanson, Jordan North
-- 2020-07-21 — Help I've Found A Ring In My Room — speakers: Margaret Thatcher, William Hanson, Jordan North
-- 2020-07-17 — Weekend Release: Fortnum & Mason Afternoon Tea — speakers: William Hanson, Jordan North
+- 2020-07-21 — Help I've Found A Ring In My Room — speakers: Wacky Word, William Hanson, Jordan North
+- 2020-07-17 — Weekend Release: Fortnum & Mason Afternoon Tea — speakers: something swee, William Hanson, Jordan North
 - 2020-07-14 — Help I Like It Thick Cut — speakers: William Hanson, Jordan North
 - 2020-07-10 — Weekend Release: William's Perfect — speakers: William Hanson, Jordan North
 - 2020-07-07 — Help I Need To Work On My Dipthongs — speakers: William Hanson, Jordan North
 - 2020-07-03 — Weekend Release: Our Jordan, My William — speakers: My William William, William Hanson, Jordan North
 - 2020-06-30 — Help My Folks Aren't Woke — speakers: William Hanson, Jordan North
 - 2020-06-26 — Weekend Release: Battenberg In The Park — speakers: William Hanson, Jordan North
-- 2020-06-23 — Help I Can't Get A Word In Edgeways — speakers: Jordan North, William Hanson, Producer Ben
+- 2020-06-23 — Help I Can't Get A Word In Edgeways — speakers: Jordan North, William Hanson
 - 2020-06-19 — Weekend Release: Jordan's In My Dreams — speakers: William Hanson, Jordan North
 - 2020-06-16 — Help I've Got Wood In A Van — speakers: William Hanson, Jordan North
 - 2020-06-09 — Help I'm In Love With My Best Friend — speakers: William Hanson, Jordan North
@@ -14319,14 +14346,14 @@
 - 2020-05-26 — Help I'm Googling Lube — speakers: Googling Lube, William Hanson, Jordan North
 - 2020-05-19 — Help My Parents Are Pampering My Boyfriend — speakers: William Hanson, Jordan North
 - 2020-05-12 — Help I Can't Handle The D — speakers: William Hanson, Jordan North
-- 2020-05-05 — Help I Sound Like I'm In A Tunnel — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-05-05 — Help I Sound Like I'm In A Tunnel — speakers: Sound Like, William Hanson, Jordan North
 - 2020-04-28 — Help There's A Delivery Up My Back Passage — speakers: William Hanson, Jordan North
 - 2020-04-21 — Help I Want To Use My Uvula — speakers: William Hanson, Jordan North
 - 2020-04-14 — Help We're In A Love Lockdown — speakers: William Hanson, Jordan North
 - 2020-04-07 — Help My Boyfriend Is A Dick — speakers: Dick William, William Hanson, Jordan North
-- 2020-03-31 — Help My Daughter Loves The D — speakers: Shawn Mendes, William Hanson, Jordan North
-- 2020-03-24 — Help It's The Best Of Series 4 — speakers: Producer Ben, William Hanson, Jordan North
-- 2020-01-27 — Help We're Live In Leeds — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-03-31 — Help My Daughter Loves The D — speakers: William Hanson, Jordan North
+- 2020-03-24 — Help It's The Best Of Series 4 — speakers: William Hanson, Jordan North
+- 2020-01-27 — Help We're Live In Leeds — speakers: Sexted My Boss, William Hanson, Jordan North
 - 2020-01-22 — Help We're On Tour In Bristol — speakers: William Hanson, Jordan North
 - 2020-01-20 — Help We're On Tour In Glasgow — speakers: William Hanson, Jordan North
 - 2019-12-17 — Help It's Fistmas At Jordan's — speakers: William Hanson, Jordan North
@@ -14341,17 +14368,17 @@
 - 2019-10-22 — Help I Want To Bail — speakers: William Hanson, Jordan North
 - 2019-10-15 — Help We're Getting Married At 50 — speakers: Getting Married, Luckily Jordan, William Hanson, Jordan North
 - 2019-10-11 — Jessica Fostekew Calls The Help Hotline — speakers: Jessica Fostekew, William Hanson, Jordan North
-- 2019-10-08 — Help How Do I Keep it Casual — speakers: Casual William, Marry Kill, Christopher Biggins, Producer Ben, William Hanson, Jordan North
+- 2019-10-08 — Help How Do I Keep it Casual — speakers: Casual William, Marry Ki, William Hanson, Jordan North
 - 2019-10-03 — Riyadh Calls The Help Hotline — speakers: William Hanson, Jordan North
 - 2019-10-01 — Help There's A Gay Ghost In My Bed — speakers: William Hanson, Jordan North
 - 2019-09-24 — Help It's The Best Of Series 3 — speakers: William Hanson, Jordan North
-- 2019-06-18 — Help How Do I Leave The (WhatsApp) Group? — speakers: Producer Ben, William Hanson, Jordan North
-- 2019-06-13 — Owain Calls The Help Hotline — speakers: Owain Wyn Evans, Producer Ben, William Hanson, Jordan North
+- 2019-06-18 — Help How Do I Leave The (WhatsApp) Group? — speakers: William Hanson, Jordan North
+- 2019-06-13 — Owain Calls The Help Hotline — speakers: Hotline Who, Sexted My Boss, William Hanson, Jordan North
 - 2019-06-11 — Help What Happens In Monaco Doesn't Stay In Monaco — speakers: William Hanson, Jordan North
 - 2019-06-06 — Help It's The State Visit Extra Bits — speakers: William Hanson, Jordan North
 - 2019-06-04 — Help It's William's State Visit To Burnley — speakers: William Hanson, Jordan North
-- 2019-05-31 — Taylor From Drunk Women Solving Crime Calls The Help Hotline — speakers: Producer Ben, Taylor Glenn, William Hanson, Jordan North
-- 2019-05-28 — Help Jordan Has An Idea — speakers: hair William, William Hanson, Jordan North
+- 2019-05-31 — Taylor From Drunk Women Solving Crime Calls The Help Hotline — speakers: Producer Ben, William Hanson, Jordan North
+- 2019-05-28 — Help Jordan Has An Idea — speakers: William Hanson, Jordan North
 - 2019-05-21 — Help My Best Man Wants To Go Commando — speakers: Producer Ben, William Hanson, Jordan North
 - 2019-05-14 — Help The Kids Aren't Alright — speakers: William Hanson, Jordan North
 - 2019-05-07 — Help Someone's Parked In My Diplomatic Parking Bay — speakers: William Hanson, Jordan North
@@ -14365,17 +14392,17 @@
 - 2019-04-02 — Help Do I Spit Or Swallow — speakers: William Hanson, Jordan North
 - 2019-03-29 — Joe Calls The Help Hotline — speakers: Joe Calls, William Hanson, Jordan North
 - 2019-03-26 — Help I Laid A Log In A Wood — speakers: William Hanson, Jordan North
-- 2019-03-19 — Help My Neighbour's Got A Big Package — speakers: William Hanson, Jordan North
+- 2019-03-19 — Help My Neighbour's Got A Big Package — speakers: Help My Neighbour, Big Package What, William Hanson, Jordan North
 - 2019-03-15 — Luca Calls The Help Hotline — speakers: William Hanson, Jordan North
 - 2019-03-12 — Help My Butcher Has Taken Me Up The Asda — speakers: William Hanson, Jordan North
 - 2019-03-10 — Doctor Simon Calls The Help Hotline — speakers: Simon Calls, William Hanson, Jordan North
 - 2019-03-05 — Help My Gran Has No Filter — speakers: William Hanson, Jordan North
-- 2019-02-26 — Help It's The Best Of Series 2 — speakers: alter ego, William Hanson, Jordan North
+- 2019-02-26 — Help It's The Best Of Series 2 — speakers: William Hanson, Jordan North
 - 2018-12-25 — Help It's Christmas Day — speakers: William Hanson, Jordan North
 - 2018-12-18 — Help We're Live In Camden — speakers: William Hanson, Jordan North
-- 2018-12-11 — Help I've Photocopied My Bum — speakers: William Hanson, Jordan North
+- 2018-12-11 — Help I've Photocopied My Bum — speakers: Photocopied My Bum Christmas, William Hanson, Jordan North
 - 2018-12-04 — Help I'm Calling From The Bog — speakers: William Hanson, Jordan North
-- 2018-11-27 — Help I've Pulled On A Pendalino — speakers: William Hanson, Jordan North
+- 2018-11-27 — Help I've Pulled On A Pendalino — speakers: Pendalino Whenever, William Hanson, Jordan North
 - 2018-11-20 — Help I Sneaked In A Sandwich — speakers: William Hanson, Jordan North
 - 2018-11-13 — Help I've Replied All — speakers: William Hanson, Jordan North
 - 2018-11-06 — Help I'm Smuggling A Budgie — speakers: William Hanson, Jordan North
@@ -14399,8 +14426,8 @@
 - 2018-05-15 — Help I’m Marrying An American — speakers: William Hanson, Jordan North
 - 2018-05-08 — Help I Don’t Wash My Gym Kit — speakers: Gym Kit William, William Hanson, Jordan North
 - 2018-05-01 — Help I Don’t Want To Split The Bill — speakers: Bill William, William Hanson, Jordan North
-- 2018-04-24 — Help I Hate My Flatmate — speakers: William Hanson, Jordan North
-- 2018-04-17 — Help I Danced Down The Wedding Aisle — speakers: William Hanson, Jordan North
+- 2018-04-24 — Help I Hate My Flatmate — speakers: Hate My Flatmate William, William Hanson, Jordan North
+- 2018-04-17 — Help I Danced Down The Wedding Aisle — speakers: Aisle William, William Hanson, Jordan North
 - 2018-04-10 — Help I Went To A Job Interview Drunk — speakers: William Hanson, Jordan North
 - 2018-04-03 — Help I Dated Two Guys In An Hour — speakers: William Hanson, Jordan North
 - 2018-03-27 — Help I Tweeted A Dick Pic — speakers: Dick Pic William, William Hanson, Jordan North

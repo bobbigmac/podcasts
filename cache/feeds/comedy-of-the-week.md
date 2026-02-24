@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-02-23T18:40:11+00:00`
-- checked_at: `2026-02-23T18:40:11+00:00`
-- etag: `"8543b702b9d59be5744e4b0c8f4da586"`
-- last_modified: `Mon, 23 Feb 2026 17:42:42 GMT`
+- fetched_at: `2026-02-24T07:16:03+00:00`
+- checked_at: `2026-02-24T07:16:03+00:00`
+- etag: `"ba3f8a4287ef20ba5c2b2dfa18e87e40"`
+- last_modified: `Tue, 24 Feb 2026 05:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-02-23T18:40:11+00:00",
+  "fetched_at": "2026-02-24T07:16:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -38,14 +38,7 @@
       "enclosure_length": "31056000",
       "itunes_duration": "1941",
       "speakers": [
-        "Russell Kane",
-        "kooky cuties",
-        "Helping Russell",
-        "Josh Jones",
-        "Evil Genius",
-        "Eve Delaney",
-        "Ruth Huskisson Christina",
-        "Catherine Beazley Sound Recordist"
+        "Russell Kane"
       ],
       "topics": [
         "animals",
@@ -64,10 +57,7 @@
       "enclosure_length": "13920000",
       "itunes_duration": "870",
       "speakers": [
-        "Fatiha El-Ghorri",
-        "Fatiha El-Ghorri Producer",
-        "Jon Holmes",
-        "Carrie Rose"
+        "Fatiha El-Ghorri"
       ],
       "topics": [
         "fatiha",
@@ -88,10 +78,7 @@
       "enclosure_length": "27168000",
       "itunes_duration": "1698",
       "speakers": [
-        "Finlay Christie",
-        "Peter Kay",
-        "Lee Mack",
-        "Sarah Millican"
+        "Finlay Christie"
       ],
       "topics": [
         "finlay",
@@ -110,9 +97,7 @@
       "enclosure_length": "27888000",
       "itunes_duration": "1743",
       "speakers": [
-        "Ashley Storrie",
-        "Janey Godley",
-        "Sean Kerwin"
+        "Ashley Storrie"
       ],
       "topics": [
         "story",
@@ -136,9 +121,7 @@
         "Amy Gledhill",
         "Luke McQueen",
         "Angela Barnes",
-        "Kiell Smith-Bynoe",
-        "Pete Strauss Production Coordinator",
-        "Jodie Charman"
+        "Kiell Smith-Bynoe"
       ],
       "topics": [
         "heard",
@@ -156,12 +139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27360000",
       "itunes_duration": "1710",
-      "speakers": [
-        "Leo Xiv",
-        "Andy Zaltzman",
-        "Rajiv Karia",
-        "Pete Strauss Production Coordinator"
-      ],
+      "speakers": [],
       "topics": [
         "news",
         "quiz"
@@ -179,14 +157,8 @@
       "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
-        "Ruth Paul",
-        "Ellie White",
-        "Tall Sons",
-        "Sian Clifford",
-        "Chloe Slack",
-        "Jodie Mitchell",
-        "Jonathan Oldfield Lorna",
-        "Lorna Rose Treen"
+        "Week Chloe Slack",
+        "Anniversary Special"
       ],
       "topics": [
         "time",
@@ -205,14 +177,7 @@
       "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
-        "Julian Clary",
-        "Jo Brand",
-        "Glenn Moore",
-        "Fatiha El-Ghorri",
-        "Gareth Malone",
-        "Glenn Moore Special Guest",
-        "Andrew White Sound",
-        "David Thomas"
+        "Julian Clary"
       ],
       "topics": [
         "clary"
@@ -230,9 +195,7 @@
       "enclosure_length": "14016000",
       "itunes_duration": "876",
       "speakers": [
-        "David Eagle",
-        "David Thomas Production Co-ordinator",
-        "Rajiv Karia"
+        "David Eagle"
       ],
       "topics": [
         "david",
@@ -252,13 +215,7 @@
       "itunes_duration": "1726",
       "speakers": [
         "Dee Allum",
-        "Hasan Al-Habib",
-        "Ben Nevis",
-        "Frank Skinner",
-        "Catherine Brinkworth",
-        "Sarah Dempster",
-        "Jason Hazeley",
-        "Karl Minns"
+        "Hasan Al-Habib"
       ],
       "topics": [
         "person"
@@ -276,14 +233,7 @@
       "enclosure_length": "26976000",
       "itunes_duration": "1686",
       "speakers": [
-        "Rum Punch",
-        "Travis Jay",
-        "Benjamin Des Kevin Garry",
-        "KG Tha Comedian",
-        "Taylor Kyrah",
-        "Angie Le",
-        "Delroy Eddie",
-        "Travis Jay Additional Material"
+        "Rum Punch"
       ],
       "topics": [
         "punch"
@@ -301,9 +251,8 @@
       "enclosure_length": "26448000",
       "itunes_duration": "1653",
       "speakers": [
-        "Alfie Moore",
-        "James Robinson",
-        "Carl Cooper"
+        "Fair Cop",
+        "Scam Special Ever"
       ],
       "topics": [
         "fair",
@@ -322,13 +271,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14016000",
       "itunes_duration": "876",
-      "speakers": [
-        "Tom Machell",
-        "Tom Lauren Pattison",
-        "Lauren Julian Clary",
-        "Neil Writers",
-        "Tom Machell Lauren Pattison"
-      ],
+      "speakers": [],
       "topics": [
         "lauren"
       ]
@@ -346,8 +289,7 @@
       "itunes_duration": "1708",
       "speakers": [
         "Scott Bennett",
-        "Jemma Bennett",
-        "Ben Walker"
+        "Jemma Bennett"
       ],
       "topics": [
         "scott",
@@ -370,13 +312,7 @@
       "itunes_duration": "1716",
       "speakers": [
         "Carbon Lifeforms Jon Long",
-        "Tara Shine",
-        "Chris McCausland",
-        "Mike Berners-Lee",
-        "Tara Shine Guests",
-        "Mike Berners-Lee Producer",
-        "Laura Grimshaw",
-        "Tony Churnside"
+        "Tara Shine"
       ],
       "topics": [
         "carbon",
@@ -394,14 +330,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14176000",
       "itunes_duration": "886",
-      "speakers": [
-        "Marjolein Robertson",
-        "Gareth Waugh",
-        "Phil Ellis",
-        "Lauren Mackay Sound",
-        "Fraser Jackson",
-        "Chris Quilietti"
-      ],
+      "speakers": [],
       "topics": [
         "humanwatch"
       ]
@@ -418,11 +347,7 @@
       "enclosure_length": "39120000",
       "itunes_duration": "2445",
       "speakers": [
-        "Mark Steel",
-        "Caroline Barlow",
-        "Katie Baum Sound",
-        "Jerry Peal",
-        "Carl Cooper"
+        "Mark Steel"
       ],
       "topics": [
         "mark",
@@ -442,12 +367,7 @@
       "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
-        "Paul Sinha",
-        "Oliver Levy Additional",
-        "Tim Sutton",
-        "Jerry Peal Mixed",
-        "Rich Evans Producer",
-        "Ed Morrish"
+        "Paul Sinha"
       ],
       "topics": [
         "paul",
@@ -468,14 +388,7 @@
       "enclosure_length": "27520000",
       "itunes_duration": "1720",
       "speakers": [
-        "Gooders Ken",
-        "Garrett Millerick",
-        "Cast Gladys",
-        "Kathryn Drysdale Lauren",
-        "Millerick Harriett",
-        "Fay Ripley Achi",
-        "Ahir Shah Ken",
-        "Frank Skinner Writer"
+        "Gooders Ken"
       ],
       "topics": [
         "gooder"
@@ -493,9 +406,9 @@
       "enclosure_length": "13904000",
       "itunes_duration": "869",
       "speakers": [
-        "Geoff Norcott",
-        "Geoff Norcott Written",
-        "Ben Walker"
+        "Ria Lina Gets Forensic",
+        "Microneedling Former",
+        "Ria Lina"
       ],
       "topics": [
         "lina",
@@ -516,10 +429,7 @@
       "itunes_duration": "1726",
       "speakers": [
         "Glenn Moore",
-        "Comedian Glenn Moore",
-        "Katie Storey",
-        "David Tyler",
-        "Armando Iannucci"
+        "Comedian Glenn Moore"
       ],
       "topics": [
         "glenn",
@@ -539,14 +449,7 @@
       "enclosure_length": "42816000",
       "itunes_duration": "2676",
       "speakers": [
-        "John Finnemore",
-        "Margaret Cabourn-Smith",
-        "Simon Kane",
-        "Lawry Lewin",
-        "Carrie Quinlan",
-        "Susannah Pearse",
-        "John Finnemore Ensemble",
-        "Margaret Cabourn-Smith Ensemble"
+        "John Finnemore"
       ],
       "topics": [
         "john",
@@ -567,16 +470,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27664000",
       "itunes_duration": "1729",
-      "speakers": [
-        "Chris Cantrill",
-        "Amy Gledhill",
-        "Mark Silcox",
-        "Colin Hoult",
-        "Connolly Phil Ellis",
-        "Tom Lawrinson Tom Burgess",
-        "Tai Campbell",
-        "Sam O'Leary Music"
-      ],
+      "speakers": [],
       "topics": [
         "icklewick"
       ]
@@ -593,8 +487,7 @@
       "enclosure_length": "27200000",
       "itunes_duration": "1700",
       "speakers": [
-        "Paul Merton",
-        "Richard Ayoade"
+        "Paul Merton"
       ],
       "topics": [
         "room",
@@ -613,16 +506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55088000",
       "itunes_duration": "3443",
-      "speakers": [
-        "Amy Gledhill",
-        "Best Newcomer",
-        "Ian Smith",
-        "Katie Norris",
-        "Ed Night",
-        "Sam Jay",
-        "John Tothill",
-        "Sam Nicoresti"
-      ],
+      "speakers": [],
       "topics": [
         "edinburgh",
         "comedy",
@@ -642,9 +526,7 @@
       "enclosure_length": "13936000",
       "itunes_duration": "871",
       "speakers": [
-        "Stuart Mitchell",
-        "Andy Hay",
-        "Chris Currie"
+        "Stuart Mitchell"
       ],
       "topics": [
         "stuart",
@@ -665,12 +547,7 @@
       "itunes_duration": "1709",
       "speakers": [
         "Oliver Callan Bins",
-        "Oliver Callan",
-        "Neil Delamere",
-        "Alison Spittle",
-        "John Meagher",
-        "Ashley Storrie",
-        "Marc McElroy"
+        "Oliver Callan"
       ],
       "topics": [
         "oliver",
@@ -691,14 +568,7 @@
       "enclosure_length": "27856000",
       "itunes_duration": "1741",
       "speakers": [
-        "Jeremy Moleskine",
-        "Clinton Scards",
-        "Michael Clarke",
-        "James Gault Ed Jones",
-        "Chiara Goldsmith",
-        "David Thomas",
-        "Benjamin Sutton",
-        "Boffola Pictures"
+        "Jeremy Moleskine"
       ],
       "topics": [
         "crybaby",
@@ -716,13 +586,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14128000",
       "itunes_duration": "883",
-      "speakers": [
-        "Elton John",
-        "Lindsey Santoro",
-        "Katie Baum Script",
-        "Ruth Husko Executive",
-        "Pete Strauss"
-      ],
+      "speakers": [],
       "topics": [
         "lively",
         "life",
@@ -742,12 +606,7 @@
       "enclosure_length": "27344000",
       "itunes_duration": "1709",
       "speakers": [
-        "Kat Sadler",
-        "Alex Macqueen",
-        "Cast Kat Sadler Kat",
-        "Abbie Al Roberts Toby",
-        "Forbes Various",
-        "Neil Goody"
+        "Kat Sadler"
       ],
       "topics": [
         "sadler",
@@ -767,14 +626,7 @@
       "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
-        "Ashley Blaker",
-        "James Corden",
-        "Kendo Nagasaki",
-        "Hulk Hogan",
-        "Kieran Hodgson Script",
-        "Steve Hall Recording",
-        "Jerry Peal",
-        "Jon Calver"
+        "Ashley Blaker"
       ],
       "topics": [
         "ashley",
@@ -795,13 +647,7 @@
       "itunes_duration": "1714",
       "speakers": [
         "Maisie Adam Euros Fever",
-        "Maisie Adam",
-        "Rhys James",
-        "Harriet Kemsley",
-        "Jill Scott Mbe",
-        "Maisie Adam Guests",
-        "Harriet Kemsley Producer",
-        "James Robinson Production Co-ordinator"
+        "Maisie Adam"
       ],
       "topics": [
         "maisie",
@@ -821,11 +667,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27376000",
       "itunes_duration": "1711",
-      "speakers": [
-        "Laura Smyth",
-        "Katie Baum",
-        "Pete Strauss"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -840,14 +682,7 @@
       "enclosure_length": "27888000",
       "itunes_duration": "1743",
       "speakers": [
-        "Henry Normal",
-        "Carl Cooper",
-        "Merton Show",
-        "Coogan’s Run",
-        "Paul Calf",
-        "Alan Partridge",
-        "Angela Pell",
-        "Simon O'Hagan"
+        "Henry Normal"
       ],
       "topics": [
         "henry",
@@ -866,16 +701,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27728000",
       "itunes_duration": "1733",
-      "speakers": [
-        "Angela Barnes",
-        "George Foreman",
-        "Mark Nelson",
-        "Glasgow Louise Young",
-        "Newcastle Hayley Ellis",
-        "Josh Pugh",
-        "Sean Kerwin",
-        "David Thomas Sound"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -890,12 +716,7 @@
       "enclosure_length": "42352000",
       "itunes_duration": "2647",
       "speakers": [
-        "Jon Stewart",
-        "Miles Davis",
-        "Margaret Thatcher",
-        "Strong Message",
-        "Charlie Brandon-King",
-        "Producer Pete Strauss"
+        "Jon Stewart"
       ],
       "topics": [
         "strong",
@@ -913,11 +734,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27424000",
       "itunes_duration": "1714",
-      "speakers": [
-        "Alfie Moore",
-        "Caroline Barlow Producer",
-        "Sam Holmes"
-      ],
+      "speakers": [],
       "topics": [
         "fair"
       ]
@@ -935,13 +752,7 @@
       "itunes_duration": "1715",
       "speakers": [
         "Clive Anderson",
-        "Sindhu Vee",
-        "Phil Wang",
-        "Susie Dent",
-        "Susie Dent Guests",
-        "Joe Varley Writers",
-        "Matt Crosby",
-        "Katie Storey Recorded"
+        "Sindhu Vee"
       ],
       "topics": [
         "unspeakable"
@@ -959,9 +770,7 @@
       "enclosure_length": "27344000",
       "itunes_duration": "1709",
       "speakers": [
-        "Kiri Pritchard-McLean",
-        "Ynys Môn",
-        "Sarah Sharpe"
+        "Kiri Pritchard-McLean"
       ],
       "topics": [
         "kiri",
@@ -982,10 +791,7 @@
       "enclosure_length": "14896000",
       "itunes_duration": "931",
       "speakers": [
-        "Michael Spicer",
-        "Michael Spicer Composer",
-        "Augustin Bousfield Producer",
-        "Matt Tiller"
+        "Michael Spicer"
       ],
       "topics": [
         "michael",
@@ -1006,10 +812,7 @@
       "itunes_duration": "1719",
       "speakers": [
         "Mark Watson Talks",
-        "Mark Watson",
-        "Thomas Hardy",
-        "Esther Manito",
-        "Lianne Coop"
+        "Mark Watson"
       ],
       "topics": [
         "mark",
@@ -1030,9 +833,7 @@
       "enclosure_length": "14560000",
       "itunes_duration": "910",
       "speakers": [
-        "Jon Holmes",
-        "Charlie Xcx",
-        "Minecraft Movie"
+        "Jon Holmes"
       ],
       "topics": [
         "skewer"
@@ -1049,16 +850,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28144000",
       "itunes_duration": "1759",
-      "speakers": [
-        "Andrew Hunter Murray",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster Jason Hazeley",
-        "Freya Shaw",
-        "Matt Brown",
-        "Freya Parker",
-        "Alicia Fitzgerald",
-        "Laura Grimshaw"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week"
@@ -1076,14 +868,7 @@
       "enclosure_length": "27200000",
       "itunes_duration": "1700",
       "speakers": [
-        "Jonathan Pie",
-        "Tom Walker",
-        "Nick Revell",
-        "Daniel Abelson Jules",
-        "Lucy Pearman Sam",
-        "Aqib Khan Roger",
-        "Adam Byron",
-        "Laura Shavin"
+        "Jonathan Pie"
       ],
       "topics": [
         "jonathan"
@@ -1101,9 +886,7 @@
       "enclosure_length": "27600000",
       "itunes_duration": "1725",
       "speakers": [
-        "Dan Tiernan",
-        "Laura Shaw",
-        "Producer Charlie Dinkin"
+        "Dan Tiernan"
       ],
       "topics": [
         "tiernan"
@@ -1120,16 +903,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14080000",
       "itunes_duration": "880",
-      "speakers": [
-        "Stevie Martin",
-        "Al Roberts",
-        "Charlotte Ritchie",
-        "Sunil Patel",
-        "Emily Lloyd-Saini",
-        "Steve Blair",
-        "Jo Bunting Caitriona",
-        "Ben Pope"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1144,11 +918,7 @@
       "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
-        "Paul Sinha",
-        "Will Robbins",
-        "Esther Manito",
-        "Lianne Coop",
-        "Mark Watson"
+        "Million Club More"
       ],
       "topics": [
         "million",
@@ -1168,12 +938,7 @@
       "itunes_duration": "1718",
       "speakers": [
         "Sandwich Bar",
-        "Alexei Sayle",
-        "Mrs Cocker",
-        "Tim Sutton",
-        "Sophie Creaner clarinet",
-        "Tom Ellis acoustic",
-        "Matt Sharp"
+        "Alexei Sayle"
       ],
       "topics": [
         "alexei",
@@ -1195,41 +960,10 @@
       "itunes_duration": "1718",
       "speakers": [
         "Laura Smyth",
-        "Sunil Patel",
-        "Ben Nevis",
-        "Frank Skinner",
-        "Catherine Brinkworth",
-        "Sarah Dempster",
-        "Jason Hazeley",
-        "Rajiv Karia"
+        "Sunil Patel"
       ],
       "topics": [
         "person"
-      ]
-    },
-    {
-      "key": "ee0b5e313b201ec59ca06a655dd0b77df66d8d10",
-      "title": "The Island",
-      "published_at": "2025-02-24T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0kstnjj",
-      "description": "Fresh from his appearance on Radio 4's Desert Island Discs, actor Stephen Mangan finds himself in the kind of trouble where the Bible, the Complete Works of Shakespeare, and his luxury item will be no help whatsoever. From Bill Dare (Dead Ringers), Jon Holmes (The Skewer) and writers Tom Oxenham and Simon Alcock, actor Stephen Mangan washes up on the actual island from Desert Island Discs, only to discover that he is not alone. Living among the palms and rocky outcrops and thousands of copies of the Bible lying in the sand are every former guest of the show - and it’s all gone a bit Lord of the Flies. Through Stephen’s audio diary, we learn that all TV chef Nadiya Hussain wants to do is hunt, that Richard Madeley’s gone feral, and that Sandi Toksvig has the Conch. But there’s something lurking in the forest, and when Stephen suspects foul play in the power struggle to be chief, he soon finds himself making a dangerous enemy. Can he win over his fellow islanders before it’s too late? What lengths will he go to to survive? And what the hell is he going to do with this useless coffee machine he chose as his luxury item? Written by Tom Oxenham and Simon Alcock Starring Stephen Mangan as himself Sound Design: Tony Churnside Executive Producer: Jon Holmes Producer: Bill Dare An unusual production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kstfqc.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14240000",
-      "itunes_duration": "890",
-      "speakers": [
-        "Stephen Mangan",
-        "Bill Dare",
-        "Jon Holmes",
-        "Tom Oxenham",
-        "Simon Alcock",
-        "Nadiya Hussain",
-        "Richard Madeley",
-        "Sandi Toksvig"
-      ],
-      "topics": [
-        "island"
       ]
     }
   ]
@@ -1239,53 +973,52 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — Evil Animals - Spiders — speakers: Russell Kane, kooky cuties, Helping Russell, Josh Jones, Evil Genius, Eve Delaney, Ruth Huskisson Christina, Catherine Beazley Sound Recordist
-- 2026-02-16 — Fatiha El-Ghorri: A Match Made Inshallah — speakers: Fatiha El-Ghorri, Fatiha El-Ghorri Producer, Jon Holmes, Carrie Rose
-- 2026-02-09 — Finlay Christie Is Younger Than You — speakers: Finlay Christie, Peter Kay, Lee Mack, Sarah Millican
-- 2026-02-02 — What's the Story, Ashley Storrie? — speakers: Ashley Storrie, Janey Godley, Sean Kerwin
-- 2026-01-26 — You Heard It Here First — speakers: Chris McCausland, Amy Gledhill, Luke McQueen, Angela Barnes, Kiell Smith-Bynoe, Pete Strauss Production Coordinator, Jodie Charman
-- 2026-01-05 — Best of The News Quiz 2025 — speakers: Leo Xiv, Andy Zaltzman, Rajiv Karia, Pete Strauss Production Coordinator
-- 2025-12-29 — Time of the Week — speakers: Ruth Paul, Ellie White, Tall Sons, Sian Clifford, Chloe Slack, Jodie Mitchell, Jonathan Oldfield Lorna, Lorna Rose Treen
-- 2025-12-22 — I Don’t Do… with Julian Clary — speakers: Julian Clary, Jo Brand, Glenn Moore, Fatiha El-Ghorri, Gareth Malone, Glenn Moore Special Guest, Andrew White Sound, David Thomas
-- 2025-12-15 — David Eagle: See No Eagle — speakers: David Eagle, David Thomas Production Co-ordinator, Rajiv Karia
-- 2025-12-08 — One Person Found This Helpful — speakers: Dee Allum, Hasan Al-Habib, Ben Nevis, Frank Skinner, Catherine Brinkworth, Sarah Dempster, Jason Hazeley, Karl Minns
-- 2025-12-01 — Rum Punch — speakers: Rum Punch, Travis Jay, Benjamin Des Kevin Garry, KG Tha Comedian, Taylor Kyrah, Angie Le, Delroy Eddie, Travis Jay Additional Material
-- 2025-11-24 — It's a Fair Cop: Scam Special — speakers: Alfie Moore, James Robinson, Carl Cooper
-- 2025-11-17 — Tom & Lauren Are Going OOT — speakers: Tom Machell, Tom Lauren Pattison, Lauren Julian Clary, Neil Writers, Tom Machell Lauren Pattison
-- 2025-11-10 — Scott Bennett: Blood Sugar Baby — speakers: Scott Bennett, Jemma Bennett, Ben Walker
-- 2025-11-03 — Carbon Lifeforms — speakers: Carbon Lifeforms Jon Long, Tara Shine, Chris McCausland, Mike Berners-Lee, Tara Shine Guests, Mike Berners-Lee Producer, Laura Grimshaw, Tony Churnside
-- 2025-10-27 — Humanwatch — speakers: Marjolein Robertson, Gareth Waugh, Phil Ellis, Lauren Mackay Sound, Fraser Jackson, Chris Quilietti
-- 2025-10-20 — Mark Steel's In Town — speakers: Mark Steel, Caroline Barlow, Katie Baum Sound, Jerry Peal, Carl Cooper
-- 2025-10-13 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha, Oliver Levy Additional, Tim Sutton, Jerry Peal Mixed, Rich Evans Producer, Ed Morrish
-- 2025-10-06 — Do Gooders — speakers: Gooders Ken, Garrett Millerick, Cast Gladys, Kathryn Drysdale Lauren, Millerick Harriett, Fay Ripley Achi, Ahir Shah Ken, Frank Skinner Writer
-- 2025-09-29 — Ria Lina Gets Forensic: Microneedling — speakers: Geoff Norcott, Geoff Norcott Written, Ben Walker
-- 2025-09-22 — Glenn Moore's Almanac — speakers: Glenn Moore, Comedian Glenn Moore, Katie Storey, David Tyler, Armando Iannucci
-- 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore, Margaret Cabourn-Smith, Simon Kane, Lawry Lewin, Carrie Quinlan, Susannah Pearse, John Finnemore Ensemble, Margaret Cabourn-Smith Ensemble
-- 2025-09-08 — Icklewick FM — speakers: Chris Cantrill, Amy Gledhill, Mark Silcox, Colin Hoult, Connolly Phil Ellis, Tom Lawrinson Tom Burgess, Tai Campbell, Sam O'Leary Music
-- 2025-09-01 — Room 101 with Paul Merton — speakers: Paul Merton, Richard Ayoade
-- 2025-08-25 — The Edinburgh Comedy Awards Gala 2025 — speakers: Amy Gledhill, Best Newcomer, Ian Smith, Katie Norris, Ed Night, Sam Jay, John Tothill, Sam Nicoresti
-- 2025-08-18 — Stuart Mitchell's Cost of Dying — speakers: Stuart Mitchell, Andy Hay, Chris Currie
-- 2025-08-11 — Oliver Callan Bins the Border — speakers: Oliver Callan Bins, Oliver Callan, Neil Delamere, Alison Spittle, John Meagher, Ashley Storrie, Marc McElroy
-- 2025-08-04 — Crybabies Present... — speakers: Jeremy Moleskine, Clinton Scards, Michael Clarke, James Gault Ed Jones, Chiara Goldsmith, David Thomas, Benjamin Sutton, Boffola Pictures
-- 2025-07-28 — The Lively Life of Lindsey Santoro — speakers: Elton John, Lindsey Santoro, Katie Baum Script, Ruth Husko Executive, Pete Strauss
-- 2025-07-21 — Kat Sadler's Screen Time — speakers: Kat Sadler, Alex Macqueen, Cast Kat Sadler Kat, Abbie Al Roberts Toby, Forbes Various, Neil Goody
-- 2025-07-14 — Ashley Blaker's Hyperfixations — speakers: Ashley Blaker, James Corden, Kendo Nagasaki, Hulk Hogan, Kieran Hodgson Script, Steve Hall Recording, Jerry Peal, Jon Calver
-- 2025-07-07 — Maisie Adam: Euros Fever — speakers: Maisie Adam Euros Fever, Maisie Adam, Rhys James, Harriet Kemsley, Jill Scott Mbe, Maisie Adam Guests, Harriet Kemsley Producer, James Robinson Production Co-ordinator
-- 2025-06-30 — Your Mum — speakers: Laura Smyth, Katie Baum, Pete Strauss
-- 2025-06-23 — Henry Normal: A Normal... Humanity — speakers: Henry Normal, Carl Cooper, Merton Show, Coogan’s Run, Paul Calf, Alan Partridge, Angela Pell, Simon O'Hagan
-- 2025-06-16 — Live from the UK — speakers: Angela Barnes, George Foreman, Mark Nelson, Glasgow Louise Young, Newcastle Hayley Ellis, Josh Pugh, Sean Kerwin, David Thomas Sound
-- 2025-06-09 — Strong Message Here — speakers: Jon Stewart, Miles Davis, Margaret Thatcher, Strong Message, Charlie Brandon-King, Producer Pete Strauss
-- 2025-06-02 — It's a Fair Cop — speakers: Alfie Moore, Caroline Barlow Producer, Sam Holmes
-- 2025-05-19 — Unspeakable — speakers: Clive Anderson, Sindhu Vee, Phil Wang, Susie Dent, Susie Dent Guests, Joe Varley Writers, Matt Crosby, Katie Storey Recorded
-- 2025-05-12 — Kiri Pritchard-McLean: Tough Crowd — speakers: Kiri Pritchard-McLean, Ynys Môn, Sarah Sharpe
-- 2025-05-05 — Michael Spicer: No Room — speakers: Michael Spicer, Michael Spicer Composer, Augustin Bousfield Producer, Matt Tiller
-- 2025-04-28 — Mark Watson Talks a Bit About Life — speakers: Mark Watson Talks, Mark Watson, Thomas Hardy, Esther Manito, Lianne Coop
-- 2025-04-21 — The Skewer — speakers: Jon Holmes, Charlie Xcx, Minecraft Movie
-- 2025-04-14 — Introducing: The Naked Week — speakers: Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Freya Parker, Alicia Fitzgerald, Laura Grimshaw
-- 2025-04-07 — Call Jonathan Pie — speakers: Jonathan Pie, Tom Walker, Nick Revell, Daniel Abelson Jules, Lucy Pearman Sam, Aqib Khan Roger, Adam Byron, Laura Shavin
-- 2025-03-31 — Dan Tiernan: Going Under — speakers: Dan Tiernan, Laura Shaw, Producer Charlie Dinkin
-- 2025-03-24 — DMs Are Open — speakers: Stevie Martin, Al Roberts, Charlotte Ritchie, Sunil Patel, Emily Lloyd-Saini, Steve Blair, Jo Bunting Caitriona, Ben Pope
-- 2025-03-17 — The 13 Million Club — speakers: Paul Sinha, Will Robbins, Esther Manito, Lianne Coop, Mark Watson
-- 2025-03-10 — Alexei Sayle's Imaginary Sandwich Bar — speakers: Sandwich Bar, Alexei Sayle, Mrs Cocker, Tim Sutton, Sophie Creaner clarinet, Tom Ellis acoustic, Matt Sharp
-- 2025-03-03 — One Person Found This Helpful — speakers: Laura Smyth, Sunil Patel, Ben Nevis, Frank Skinner, Catherine Brinkworth, Sarah Dempster, Jason Hazeley, Rajiv Karia
-- 2025-02-24 — The Island — speakers: Stephen Mangan, Bill Dare, Jon Holmes, Tom Oxenham, Simon Alcock, Nadiya Hussain, Richard Madeley, Sandi Toksvig
+- 2026-02-23 — Evil Animals - Spiders — speakers: Russell Kane
+- 2026-02-16 — Fatiha El-Ghorri: A Match Made Inshallah — speakers: Fatiha El-Ghorri
+- 2026-02-09 — Finlay Christie Is Younger Than You — speakers: Finlay Christie
+- 2026-02-02 — What's the Story, Ashley Storrie? — speakers: Ashley Storrie
+- 2026-01-26 — You Heard It Here First — speakers: Chris McCausland, Amy Gledhill, Luke McQueen, Angela Barnes, Kiell Smith-Bynoe
+- 2026-01-05 — Best of The News Quiz 2025
+- 2025-12-29 — Time of the Week — speakers: Week Chloe Slack, Anniversary Special
+- 2025-12-22 — I Don’t Do… with Julian Clary — speakers: Julian Clary
+- 2025-12-15 — David Eagle: See No Eagle — speakers: David Eagle
+- 2025-12-08 — One Person Found This Helpful — speakers: Dee Allum, Hasan Al-Habib
+- 2025-12-01 — Rum Punch — speakers: Rum Punch
+- 2025-11-24 — It's a Fair Cop: Scam Special — speakers: Fair Cop, Scam Special Ever
+- 2025-11-17 — Tom & Lauren Are Going OOT
+- 2025-11-10 — Scott Bennett: Blood Sugar Baby — speakers: Scott Bennett, Jemma Bennett
+- 2025-11-03 — Carbon Lifeforms — speakers: Carbon Lifeforms Jon Long, Tara Shine
+- 2025-10-27 — Humanwatch
+- 2025-10-20 — Mark Steel's In Town — speakers: Mark Steel
+- 2025-10-13 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha
+- 2025-10-06 — Do Gooders — speakers: Gooders Ken
+- 2025-09-29 — Ria Lina Gets Forensic: Microneedling — speakers: Ria Lina Gets Forensic, Microneedling Former, Ria Lina
+- 2025-09-22 — Glenn Moore's Almanac — speakers: Glenn Moore, Comedian Glenn Moore
+- 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore
+- 2025-09-08 — Icklewick FM
+- 2025-09-01 — Room 101 with Paul Merton — speakers: Paul Merton
+- 2025-08-25 — The Edinburgh Comedy Awards Gala 2025
+- 2025-08-18 — Stuart Mitchell's Cost of Dying — speakers: Stuart Mitchell
+- 2025-08-11 — Oliver Callan Bins the Border — speakers: Oliver Callan Bins, Oliver Callan
+- 2025-08-04 — Crybabies Present... — speakers: Jeremy Moleskine
+- 2025-07-28 — The Lively Life of Lindsey Santoro
+- 2025-07-21 — Kat Sadler's Screen Time — speakers: Kat Sadler
+- 2025-07-14 — Ashley Blaker's Hyperfixations — speakers: Ashley Blaker
+- 2025-07-07 — Maisie Adam: Euros Fever — speakers: Maisie Adam Euros Fever, Maisie Adam
+- 2025-06-30 — Your Mum
+- 2025-06-23 — Henry Normal: A Normal... Humanity — speakers: Henry Normal
+- 2025-06-16 — Live from the UK
+- 2025-06-09 — Strong Message Here — speakers: Jon Stewart
+- 2025-06-02 — It's a Fair Cop
+- 2025-05-19 — Unspeakable — speakers: Clive Anderson, Sindhu Vee
+- 2025-05-12 — Kiri Pritchard-McLean: Tough Crowd — speakers: Kiri Pritchard-McLean
+- 2025-05-05 — Michael Spicer: No Room — speakers: Michael Spicer
+- 2025-04-28 — Mark Watson Talks a Bit About Life — speakers: Mark Watson Talks, Mark Watson
+- 2025-04-21 — The Skewer — speakers: Jon Holmes
+- 2025-04-14 — Introducing: The Naked Week
+- 2025-04-07 — Call Jonathan Pie — speakers: Jonathan Pie
+- 2025-03-31 — Dan Tiernan: Going Under — speakers: Dan Tiernan
+- 2025-03-24 — DMs Are Open
+- 2025-03-17 — The 13 Million Club — speakers: Million Club More
+- 2025-03-10 — Alexei Sayle's Imaginary Sandwich Bar — speakers: Sandwich Bar, Alexei Sayle
+- 2025-03-03 — One Person Found This Helpful — speakers: Laura Smyth, Sunil Patel

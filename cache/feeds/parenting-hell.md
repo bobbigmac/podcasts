@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-02-20T01:14:00+00:00`
-- checked_at: `2026-02-20T01:14:00+00:00`
-- last_modified: `Fri, 20 Feb 2026 00:15:07 GMT`
+- fetched_at: `2026-02-24T07:16:03+00:00`
+- checked_at: `2026-02-24T07:16:03+00:00`
+- last_modified: `Tue, 24 Feb 2026 06:32:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ba087785b67546b4a9494b8c48ed8202.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T01:14:00+00:00",
+  "fetched_at": "2026-02-24T07:16:03+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -40,7 +40,6 @@
       "itunes_duration": "3236",
       "speakers": [
         "Seann Walsh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -63,9 +62,7 @@
       "speakers": [
         "Playground Sha gers",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Playground Shaggers",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "anti",
@@ -86,7 +83,6 @@
       "itunes_duration": "3713",
       "speakers": [
         "Lou Beckett",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -108,8 +104,7 @@
       "itunes_duration": "3650",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "kitten",
@@ -129,7 +124,6 @@
       "itunes_duration": "3871",
       "speakers": [
         "Ray Bradshaw",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -150,8 +144,7 @@
       "itunes_duration": "3526",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "podcasting"
@@ -170,7 +163,6 @@
       "itunes_duration": "4002",
       "speakers": [
         "John Bishop",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -192,8 +184,7 @@
       "itunes_duration": "3345",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "going",
@@ -213,7 +204,6 @@
       "itunes_duration": "2785",
       "speakers": [
         "Harry Hill",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -236,8 +226,7 @@
       "itunes_duration": "3295",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "kind"
@@ -256,8 +245,7 @@
       "itunes_duration": "3614",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": []
     },
@@ -274,8 +262,7 @@
       "itunes_duration": "3378",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "wheel"
@@ -293,9 +280,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2797",
       "speakers": [
-        "Prince Naseem",
-        "Brendan Ingle",
-        "Parenting Hell",
+        "Prince Naseem Hamed Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -317,8 +302,7 @@
       "itunes_duration": "3242",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "world"
@@ -337,8 +321,6 @@
       "itunes_duration": "3770",
       "speakers": [
         "Russell Howard",
-        "Russell Howard Russell Howard",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -361,8 +343,7 @@
       "speakers": [
         "Rich Mans Porridge",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "rich",
@@ -383,7 +364,6 @@
       "itunes_duration": "3257",
       "speakers": [
         "Kate Garraway",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -405,8 +385,7 @@
       "itunes_duration": "3092",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "urine",
@@ -427,7 +406,6 @@
       "itunes_duration": "3443",
       "speakers": [
         "Jason Donovan",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -449,9 +427,7 @@
       "itunes_duration": "3448",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Trigger Warning",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "before"
@@ -470,7 +446,6 @@
       "itunes_duration": "3620",
       "speakers": [
         "Lindsey Santoro",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -493,7 +468,7 @@
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe",
-        "Parenting Hell"
+        "Small Busi"
       ],
       "topics": [
         "buffer",
@@ -536,8 +511,7 @@
       "speakers": [
         "Advent Calendar Error",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "advent",
@@ -558,8 +532,7 @@
       "itunes_duration": "2779",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "parenting"
@@ -578,9 +551,7 @@
       "itunes_duration": "3188",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Producer Michael",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "strike"
@@ -599,8 +570,7 @@
       "itunes_duration": "3405",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "passport"
@@ -619,8 +589,7 @@
       "itunes_duration": "3637",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh",
@@ -640,9 +609,6 @@
       "itunes_duration": "3867",
       "speakers": [
         "Jo Whiley",
-        "Zoe Ball",
-        "digitpod Dig",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -663,8 +629,7 @@
       "itunes_duration": "3332",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "argument"
@@ -704,8 +669,7 @@
       "itunes_duration": "2555",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "normal",
@@ -725,7 +689,6 @@
       "itunes_duration": "2997",
       "speakers": [
         "Joe Thomas",
-        "James Fact",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -746,8 +709,7 @@
       "itunes_duration": "3041",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "parenting"
@@ -766,8 +728,7 @@
       "itunes_duration": "3044",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "customer",
@@ -788,8 +749,7 @@
       "itunes_duration": "2402",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "rugged",
@@ -809,7 +769,6 @@
       "itunes_duration": "3324",
       "speakers": [
         "Harry Aikines-Aryeetey",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -832,8 +791,7 @@
       "itunes_duration": "3358",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "sneeze"
@@ -874,8 +832,7 @@
       "itunes_duration": "3101",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "garden"
@@ -894,8 +851,6 @@
       "itunes_duration": "3678",
       "speakers": [
         "Alan Davies",
-        "Male Stand-Up",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -917,7 +872,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3660",
       "speakers": [
-        "Parenting Hell",
+        "My Life",
+        "Chaos Perhaps",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -938,7 +894,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3638",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -980,9 +935,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3971",
       "speakers": [
-        "Elizabeth Day",
-        "Trigger Warning",
-        "Parenting Hell",
+        "Elizabeth Day Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1025,7 +978,6 @@
       "speakers": [
         "Barry Hearn Joining",
         "Barry Hearn Obe",
-        "Matchroom Sport",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1047,7 +999,6 @@
       "itunes_duration": "3401",
       "speakers": [
         "Rick Astley",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1069,8 +1020,7 @@
       "itunes_duration": "2690",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "school"
@@ -1089,8 +1039,7 @@
       "itunes_duration": "2833",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "friend",
@@ -1110,8 +1059,6 @@
       "itunes_duration": "3649",
       "speakers": [
         "Zoe Ball",
-        "Jo Whiley",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1132,8 +1079,7 @@
       "itunes_duration": "3256",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "tonsil"
@@ -1151,6 +1097,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3523",
       "speakers": [
+        "Olly Murs Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1172,8 +1119,7 @@
       "itunes_duration": "3140",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "dream",
@@ -1215,8 +1161,7 @@
       "speakers": [
         "Mick Jagger",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "mick",
@@ -1238,7 +1183,6 @@
       "itunes_duration": "3370",
       "speakers": [
         "Stephen Mangan",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1260,12 +1204,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2985",
       "speakers": [
-        "Kerry Godliman",
-        "Jason Manford",
-        "Alison Hammond",
-        "Lorraine Kelly",
-        "Robbie Ayda Williams",
-        "Michael Sheen",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1286,10 +1224,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3371",
       "speakers": [
-        "Richard Osman",
-        "Lily Allen",
-        "Frank Skinner",
-        "Parenting Hell",
+        "Loose Neck",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1312,8 +1247,7 @@
       "itunes_duration": "3397",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "sleep"
@@ -1331,7 +1265,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3611",
       "speakers": [
-        "Parenting Hell",
+        "Tamzin Outhwaite Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1353,8 +1287,7 @@
       "itunes_duration": "3150",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "instagram",
@@ -1374,7 +1307,6 @@
       "itunes_duration": "4075",
       "speakers": [
         "Mel Giedroyc",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1395,8 +1327,7 @@
       "itunes_duration": "3191",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "sport"
@@ -1415,7 +1346,6 @@
       "itunes_duration": "3195",
       "speakers": [
         "Frank Warren",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1437,9 +1367,7 @@
       "itunes_duration": "2496",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Robert De Niro",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "touch"
@@ -1458,7 +1386,6 @@
       "itunes_duration": "4065",
       "speakers": [
         "Aisling Bea",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1477,8 +1404,7 @@
       "itunes_duration": "3095",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "tickle",
@@ -1498,8 +1424,7 @@
       "itunes_duration": "3256",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh",
@@ -1521,8 +1446,7 @@
       "itunes_duration": "3021",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "buffer"
@@ -1541,7 +1465,6 @@
       "itunes_duration": "3493",
       "speakers": [
         "Jack Skipper",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1563,8 +1486,7 @@
       "itunes_duration": "2996",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "post",
@@ -1586,10 +1508,6 @@
       "itunes_duration": "3931",
       "speakers": [
         "Tom Basden Joining",
-        "Tom Basden",
-        "Best Newcomer",
-        "McGwyer Mortimer",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1610,7 +1528,6 @@
       "itunes_duration": "4001",
       "speakers": [
         "Jacinda Ardern",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1632,8 +1549,6 @@
       "itunes_duration": "3680",
       "speakers": [
         "Suzi Ruffell",
-        "Minded Friends",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1656,9 +1571,7 @@
       "itunes_duration": "2562",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "wan ers",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "dove",
@@ -1678,7 +1591,6 @@
       "itunes_duration": "3282",
       "speakers": [
         "George Egg",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1699,8 +1611,7 @@
       "itunes_duration": "3194",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "diarrhea"
@@ -1719,7 +1630,6 @@
       "itunes_duration": "3352",
       "speakers": [
         "Ivo Graham",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1741,8 +1651,7 @@
       "itunes_duration": "3109",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "work",
@@ -1764,7 +1673,6 @@
       "itunes_duration": "4118",
       "speakers": [
         "Charlie Brooker",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1786,8 +1694,7 @@
       "itunes_duration": "3040",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "rose",
@@ -1807,8 +1714,7 @@
       "itunes_duration": "3440",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "parent"
@@ -1827,8 +1733,7 @@
       "itunes_duration": "3316",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "opinion",
@@ -1848,7 +1753,6 @@
       "itunes_duration": "3203",
       "speakers": [
         "Pete Doherty",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1871,8 +1775,7 @@
       "speakers": [
         "Monkey Cuck",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "monkey",
@@ -1892,7 +1795,6 @@
       "itunes_duration": "3712",
       "speakers": [
         "Leanne Quigley",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1913,9 +1815,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3087",
       "speakers": [
-        "Santa Claus",
-        "Sticky Lips Bbq Here",
-        "Parenting Hell",
+        "Easter Lost Keys Chaos",
+        "Stiff Neck",
+        "Loose Neck",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1938,7 +1840,6 @@
       "itunes_duration": "3843",
       "speakers": [
         "Joel Dommett",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -1961,8 +1862,7 @@
       "itunes_duration": "3087",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh",
@@ -1983,7 +1883,6 @@
       "speakers": [
         "Stacey Solomon",
         "Joe Swash",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2007,9 +1906,7 @@
       "itunes_duration": "3422",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Ed Sheeran",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "drunk",
@@ -2029,7 +1926,6 @@
       "itunes_duration": "3181",
       "speakers": [
         "Gemma Atkinson",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2051,8 +1947,7 @@
       "itunes_duration": "3196",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "mother",
@@ -2072,7 +1967,6 @@
       "itunes_duration": "3987",
       "speakers": [
         "Gyles Brandreth",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2095,9 +1989,7 @@
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe",
-        "Natter Matters",
-        "Rosie Johnson Illustrates",
-        "Parenting Hell"
+        "Small Busi"
       ],
       "topics": [
         "parent"
@@ -2115,7 +2007,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4401",
       "speakers": [
-        "Parenting Hell",
+        "Adebayo Akinfenwa Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2137,9 +2029,7 @@
       "itunes_duration": "3016",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Sabrina Carpenter",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "fight",
@@ -2159,7 +2049,6 @@
       "itunes_duration": "3221",
       "speakers": [
         "Stacey Dooley",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2181,7 +2070,6 @@
       "itunes_duration": "2927",
       "speakers": [
         "Siân Welby",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2202,8 +2090,7 @@
       "itunes_duration": "3139",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "rose"
@@ -2221,13 +2108,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3270",
       "speakers": [
-        "James Kicking",
-        "Ellis James",
-        "Abbey Clancey Next",
-        "Abbey Clancy",
-        "Helen Russell Helen Russell",
-        "Sam Quek",
-        "Charlie Baker",
+        "Parenting Hell Mixtape Here",
+        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2249,7 +2131,6 @@
       "itunes_duration": "3498",
       "speakers": [
         "Danny Jones",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2271,8 +2152,7 @@
       "itunes_duration": "2968",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "child"
@@ -2290,10 +2170,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2990",
       "speakers": [
-        "Jessie Ware",
-        "Mike Wozniak",
-        "Pat Sharp",
-        "Parenting Hell",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2315,12 +2192,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3295",
       "speakers": [
-        "Michael McIntyre",
-        "Harriet Kemsley",
-        "Josh Pugh",
-        "Esther Manito",
-        "Martine McCutcheon",
-        "Harry Hill",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2344,9 +2216,7 @@
       "speakers": [
         "Valentines Playground",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Playground Shaggers",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "valentines",
@@ -2367,9 +2237,7 @@
       "itunes_duration": "3642",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Michael McIntyre",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "house",
@@ -2389,7 +2257,6 @@
       "itunes_duration": "3874",
       "speakers": [
         "Jack Dee",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2412,9 +2279,7 @@
       "speakers": [
         "Lou Beckett",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Harry Judd",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "voice",
@@ -2435,7 +2300,6 @@
       "itunes_duration": "4041",
       "speakers": [
         "Harry Judd",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2457,8 +2321,7 @@
       "itunes_duration": "3343",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": []
     },
@@ -2475,7 +2338,6 @@
       "itunes_duration": "4177",
       "speakers": [
         "Rangan Chatterjee",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2497,8 +2359,7 @@
       "itunes_duration": "3248",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "observation",
@@ -2518,9 +2379,7 @@
       "itunes_duration": "2916",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Josh Boomer",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh"
@@ -2539,8 +2398,7 @@
       "itunes_duration": "3188",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "kumquat"
@@ -2559,8 +2417,7 @@
       "itunes_duration": "2790",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "cottage",
@@ -2581,8 +2438,7 @@
       "itunes_duration": "2724",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "gladiator",
@@ -2605,8 +2461,7 @@
       "speakers": [
         "Casa Del Plyboard",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "casa",
@@ -2626,8 +2481,7 @@
       "itunes_duration": "2794",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "playground",
@@ -2649,8 +2503,7 @@
       "itunes_duration": "2903",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "google"
@@ -2669,8 +2522,7 @@
       "itunes_duration": "3037",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh"
@@ -2688,9 +2540,10 @@
       "enclosure_length": "0",
       "itunes_duration": "3403",
       "speakers": [
+        "Santa Claus",
+        "Elves Behaving Badly",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "christmas",
@@ -2712,8 +2565,7 @@
       "speakers": [
         "Rob Gets",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "tour",
@@ -2733,7 +2585,6 @@
       "itunes_duration": "3362",
       "speakers": [
         "Vogue Williams",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2754,9 +2605,10 @@
       "enclosure_length": "0",
       "itunes_duration": "2424",
       "speakers": [
+        "No Anecdote Too Small",
+        "Santa Claus",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "anecdote"
@@ -2775,7 +2627,6 @@
       "itunes_duration": "3822",
       "speakers": [
         "Kerry Godliman",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2798,8 +2649,7 @@
       "itunes_duration": "3171",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "cupboard",
@@ -2819,8 +2669,6 @@
       "itunes_duration": "3514",
       "speakers": [
         "Joe Lycett",
-        "Art Hole",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2841,8 +2689,7 @@
       "itunes_duration": "2971",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "time",
@@ -2863,8 +2710,7 @@
       "speakers": [
         "Special More",
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "theme",
@@ -2885,8 +2731,7 @@
       "itunes_duration": "2408",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh",
@@ -2905,8 +2750,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3837",
       "speakers": [
-        "Fin Taylor",
-        "Parenting Hell",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2928,8 +2772,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3639",
       "speakers": [
-        "Jim Jefferies",
-        "Parenting Hell",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -2952,8 +2795,7 @@
       "itunes_duration": "2603",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "time"
@@ -2972,8 +2814,7 @@
       "itunes_duration": "2602",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh",
@@ -2994,8 +2835,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3328",
       "speakers": [
-        "Gino D'Acampo",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3016,9 +2855,7 @@
       "itunes_duration": "2957",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Sabretooth Cafe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "halloween"
@@ -3037,8 +2874,6 @@
       "itunes_duration": "3506",
       "speakers": [
         "Daisy May Cooper Joining",
-        "Daisy May Cooper",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3060,8 +2895,7 @@
       "itunes_duration": "2935",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "gobble"
@@ -3080,7 +2914,6 @@
       "itunes_duration": "3254",
       "speakers": [
         "Kiri Pritchard-McLean",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3103,8 +2936,7 @@
       "itunes_duration": "2984",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "legacy"
@@ -3123,8 +2955,7 @@
       "itunes_duration": "3212",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh",
@@ -3144,8 +2975,7 @@
       "itunes_duration": "2946",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "python"
@@ -3164,7 +2994,6 @@
       "itunes_duration": "4179",
       "speakers": [
         "Rose Hanson",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3187,8 +3016,7 @@
       "itunes_duration": "2807",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "topless"
@@ -3207,7 +3035,6 @@
       "itunes_duration": "3594",
       "speakers": [
         "Russell Kane",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3230,8 +3057,7 @@
       "itunes_duration": "3318",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "podcast",
@@ -3252,7 +3078,6 @@
       "itunes_duration": "3718",
       "speakers": [
         "Joe Marler",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3273,8 +3098,7 @@
       "itunes_duration": "2938",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "fingers",
@@ -3294,8 +3118,7 @@
       "itunes_duration": "3024",
       "speakers": [
         "Rob Beckett",
-        "Josh Widdicombe",
-        "Parenting Hell"
+        "Josh Widdicombe"
       ],
       "topics": [
         "summer",
@@ -3315,7 +3138,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3752",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3338,7 +3160,6 @@
       "itunes_duration": "3486",
       "speakers": [
         "Max Rushden",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3358,7 +3179,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3454",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3378,8 +3198,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3724",
       "speakers": [
-        "Jessica Enis",
-        "Parenting Hell",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3401,9 +3220,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3674",
       "speakers": [
-        "Alex Jones",
-        "Parenting Hell",
-        "Michael Marden Sales",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3425,9 +3242,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3665",
       "speakers": [
-        "Joe Wilkinson",
-        "Dan Schreiber",
-        "Natalie Cassidy",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3449,7 +3264,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2945",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3470,7 +3284,6 @@
       "itunes_duration": "3763",
       "speakers": [
         "Tom Kerridge",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3490,8 +3303,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3380",
       "speakers": [
-        "Parenting Hell",
-        "Michael Marden Sales",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3510,7 +3321,6 @@
       "itunes_duration": "3670",
       "speakers": [
         "Frank Skinner",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3532,8 +3342,6 @@
       "itunes_duration": "3286",
       "speakers": [
         "Josh Widdicombe",
-        "Parenting Hell",
-        "Michael Marden Sales",
         "Rob Beckett"
       ],
       "topics": [
@@ -3554,8 +3362,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3086",
       "speakers": [
-        "Parenting Hell",
-        "Michael Marden Sales",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3575,8 +3381,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3156",
       "speakers": [
-        "Parenting Hell",
-        "Michael Marden Sales",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3598,7 +3402,6 @@
       "itunes_duration": "3351",
       "speakers": [
         "Natalie Cassidy",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3619,7 +3422,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2870",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3643,7 +3445,6 @@
       "itunes_duration": "3575",
       "speakers": [
         "Jeff Innocent Joining",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3665,7 +3466,6 @@
       "itunes_duration": "2864",
       "speakers": [
         "Playground Shaggers",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3687,13 +3487,6 @@
       "itunes_duration": "3390",
       "speakers": [
         "Nick Mohammed Joining",
-        "Nick Mohammed",
-        "Nathan Shelley",
-        "Ted Lasso",
-        "Steven Moffat",
-        "Hugh Bonneville",
-        "Karen Gillan",
-        "Ben Miles",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3714,7 +3507,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2897",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3735,7 +3527,6 @@
       "itunes_duration": "3517",
       "speakers": [
         "Janine Harouni",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3756,7 +3547,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3340",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3777,7 +3567,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3893",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3797,7 +3586,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2717",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3819,7 +3607,6 @@
       "itunes_duration": "4027",
       "speakers": [
         "Marcus Brigstocke",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3840,7 +3627,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3087",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3861,6 +3647,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3783",
       "speakers": [
+        "Ranvir Singh Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3881,7 +3668,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2884",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3900,8 +3686,6 @@
       "itunes_duration": "3483",
       "speakers": [
         "George Lewis Joining",
-        "George Lewis",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3922,7 +3706,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3434",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3942,7 +3725,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3919",
       "speakers": [
-        "Parenting Hell",
+        "Cush Jumbo Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -3963,7 +3746,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3260",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4004,7 +3786,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3011",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4026,7 +3807,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3261",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4046,7 +3826,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3151",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4088,7 +3867,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3724",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4110,9 +3888,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3989",
       "speakers": [
-        "Luisa Zissman",
-        "Anna Williamson",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4132,7 +3907,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2940",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4151,7 +3925,6 @@
       "itunes_duration": "4287",
       "speakers": [
         "Dan Nightingale",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4171,7 +3944,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2969",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4192,7 +3964,6 @@
       "itunes_duration": "3334",
       "speakers": [
         "Lily Allen",
-        "Miquita Oliver",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4213,7 +3984,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3333",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4237,9 +4007,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3874",
       "speakers": [
-        "Miquita Oliver",
-        "Lily Allen",
-        "Parenting Hell",
+        "Miquita Oliver Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4261,8 +4029,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2905",
       "speakers": [
-        "Santa Claus",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4283,8 +4049,7 @@
       "itunes_duration": "4042",
       "speakers": [
         "Jonathan Ross",
-        "Honey Ross",
-        "Reel Talk",
+        "Honey Ross Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4325,8 +4090,6 @@
       "itunes_duration": "3486",
       "speakers": [
         "Simon Mayo",
-        "Mark Kermode",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4347,7 +4110,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2735",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4388,8 +4150,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2928",
       "speakers": [
-        "Kate Middleton",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4410,7 +4170,6 @@
       "itunes_duration": "3498",
       "speakers": [
         "Ashley Blaker",
-        "Normal Schmormal",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4454,7 +4213,6 @@
       "itunes_duration": "4238",
       "speakers": [
         "Shaun Keaveny",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4496,7 +4254,6 @@
       "itunes_duration": "3588",
       "speakers": [
         "Tom Aspinall",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4537,7 +4294,6 @@
       "itunes_duration": "4136",
       "speakers": [
         "Sara Barron",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4580,8 +4336,6 @@
       "itunes_duration": "3969",
       "speakers": [
         "Jason Bell",
-        "Nadine Coyle",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4624,7 +4378,6 @@
       "itunes_duration": "3569",
       "speakers": [
         "Laura Smyth",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4667,7 +4420,6 @@
       "itunes_duration": "3591",
       "speakers": [
         "Miles Jupp",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4710,7 +4462,6 @@
       "itunes_duration": "3998",
       "speakers": [
         "Ranganathan Iii",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4751,7 +4502,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3106",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4772,7 +4522,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3134",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4790,9 +4539,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2853",
       "speakers": [
-        "Giovanna Fletcher",
-        "Jenas Parenting Hell",
-        "Parenting Hell",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4814,7 +4561,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3383",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4858,7 +4604,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2990",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4919,7 +4664,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2770",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4940,7 +4684,6 @@
       "itunes_duration": "3718",
       "speakers": [
         "Angela Scanlon",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4961,7 +4704,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3342",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -4984,8 +4726,6 @@
       "itunes_duration": "3483",
       "speakers": [
         "Kimberley Nixon",
-        "Follow Kimberley",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5027,8 +4767,6 @@
       "itunes_duration": "4171",
       "speakers": [
         "Adam Kay",
-        "Henry Paker",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5070,7 +4808,6 @@
       "itunes_duration": "3920",
       "speakers": [
         "Scarlett Moffatt",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5113,7 +4850,6 @@
       "itunes_duration": "3757",
       "speakers": [
         "Kevin Bridges",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5134,7 +4870,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3102",
       "speakers": [
-        "Parenting Hell",
+        "previous gues",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5195,7 +4931,6 @@
       "itunes_duration": "3416",
       "speakers": [
         "Tom Skinner",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5239,7 +4974,6 @@
       "itunes_duration": "3753",
       "speakers": [
         "Clair Buckley",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5325,7 +5059,6 @@
       "itunes_duration": "3627",
       "speakers": [
         "Nick Frost",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5367,7 +5100,6 @@
       "itunes_duration": "3849",
       "speakers": [
         "Carol Vorderman",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5407,7 +5139,6 @@
       "itunes_duration": "3731",
       "speakers": [
         "Ed Balls Joining",
-        "Ed Balls",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5449,7 +5180,6 @@
       "itunes_duration": "3527",
       "speakers": [
         "Richard Osman",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5489,8 +5219,6 @@
       "itunes_duration": "3175",
       "speakers": [
         "Jessica Fostekew Joining",
-        "Jessica Fostekew",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5532,7 +5260,6 @@
       "itunes_duration": "3606",
       "speakers": [
         "Jon Richardson",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5553,7 +5280,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2680",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5574,7 +5300,6 @@
       "itunes_duration": "3169",
       "speakers": [
         "Mike Birbiglia",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5616,7 +5341,6 @@
       "itunes_duration": "2977",
       "speakers": [
         "Joel Dommett",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5659,7 +5383,6 @@
       "itunes_duration": "3519",
       "speakers": [
         "Annie Mac",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5764,8 +5487,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3049",
       "speakers": [
-        "Stud Universe",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5786,7 +5507,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2778",
       "speakers": [
-        "Parenting Hell",
+        "Father Christmas",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5827,7 +5548,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2730",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5846,8 +5566,6 @@
       "itunes_duration": "3170",
       "speakers": [
         "Natalie Cassidy",
-        "Sonia Fowler",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5868,7 +5586,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2817",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5890,7 +5607,6 @@
       "itunes_duration": "2887",
       "speakers": [
         "David Cross",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5911,7 +5627,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3138",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5931,7 +5646,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2787",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5949,7 +5663,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2735",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5970,8 +5683,6 @@
       "itunes_duration": "3309",
       "speakers": [
         "Jack Whitehall",
-        "Settle Down",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -5992,7 +5703,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3050",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6033,7 +5743,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2431",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6096,7 +5805,6 @@
       "itunes_duration": "2940",
       "speakers": [
         "Peter Andre",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6136,8 +5844,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2838",
       "speakers": [
-        "Djalili Omid",
-        "Parenting Hell",
+        "Omid Djalili Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6200,7 +5907,6 @@
       "itunes_duration": "2968",
       "speakers": [
         "Mike Bubbins",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6222,7 +5928,6 @@
       "itunes_duration": "3425",
       "speakers": [
         "Jim Jefferies",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6262,7 +5967,6 @@
       "itunes_duration": "2940",
       "speakers": [
         "George Foreman",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6342,7 +6046,6 @@
       "itunes_duration": "3595",
       "speakers": [
         "JB Gill",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6423,7 +6126,6 @@
       "itunes_duration": "3639",
       "speakers": [
         "Fin Taylor",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6463,8 +6165,6 @@
       "itunes_duration": "3767",
       "speakers": [
         "Rose Hanson Lou",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6506,7 +6206,6 @@
       "itunes_duration": "3346",
       "speakers": [
         "Alex Jones",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6547,7 +6246,6 @@
       "itunes_duration": "3412",
       "speakers": [
         "Tom Daley",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6587,8 +6285,6 @@
       "itunes_duration": "3554",
       "speakers": [
         "Sara Cox",
-        "Cox Show",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6631,8 +6327,6 @@
       "itunes_duration": "2941",
       "speakers": [
         "Suzi Ruffell",
-        "Tom Allen",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6695,8 +6389,6 @@
       "speakers": [
         "Lou Beckett",
         "Valentine’s Day",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6718,7 +6410,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4057",
       "speakers": [
-        "Rob Josh",
+        "Cariad Lloyd Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6759,7 +6451,6 @@
       "itunes_duration": "3608",
       "speakers": [
         "Billie Faiers",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6798,8 +6489,6 @@
       "itunes_duration": "4033",
       "speakers": [
         "David Gandy",
-        "Shop David",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6840,7 +6529,6 @@
       "itunes_duration": "3840",
       "speakers": [
         "Alesha Dixon",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6920,10 +6608,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3071",
       "speakers": [
-        "Tom Parry",
-        "Nadiya Hussain",
-        "Michael Sheen",
-        "Joe Swash",
+        "Call Parenting Hell",
+        "Happy New Year",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -6986,7 +6672,6 @@
       "itunes_duration": "3044",
       "speakers": [
         "Seann Walsh",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7027,7 +6712,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3611",
       "speakers": [
-        "Rob Josh",
+        "Jarred Christmas",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7071,7 +6756,6 @@
       "itunes_duration": "3473",
       "speakers": [
         "Adrian Chiles Joining",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7110,7 +6794,6 @@
       "itunes_duration": "3651",
       "speakers": [
         "Tom Parry",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7152,8 +6835,6 @@
       "itunes_duration": "3733",
       "speakers": [
         "Joe Wilkinson",
-        "David Earl",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7193,7 +6874,6 @@
       "itunes_duration": "3620",
       "speakers": [
         "Dan Schreiber",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7213,7 +6893,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2785",
       "speakers": [
-        "Top Knot Debate",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7235,7 +6914,6 @@
       "itunes_duration": "3634",
       "speakers": [
         "Giovanna Fletcher",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7277,7 +6955,6 @@
       "itunes_duration": "2791",
       "speakers": [
         "Simon Gregson",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7318,7 +6995,6 @@
       "itunes_duration": "3251",
       "speakers": [
         "Anton Du Beke",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7340,10 +7016,6 @@
       "itunes_duration": "4289",
       "speakers": [
         "Gary Neville",
-        "Arena Wembley",
-        "Roy Keane",
-        "Jamie Carragher tickets",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7365,7 +7037,6 @@
       "itunes_duration": "3231",
       "speakers": [
         "Rachel Parris",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7409,7 +7080,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4103",
       "speakers": [
-        "Rob Josh",
+        "Fearne Cotton Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7430,7 +7101,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2589",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7451,8 +7121,6 @@
       "itunes_duration": "3790",
       "speakers": [
         "Denise Welch",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7473,7 +7141,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2705",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7494,9 +7161,6 @@
       "itunes_duration": "3656",
       "speakers": [
         "Stacey Solomon Joining",
-        "Stacey Solomon",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7517,7 +7181,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2737",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7539,8 +7202,6 @@
       "itunes_duration": "3811",
       "speakers": [
         "Myleene Klass",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7561,7 +7222,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3036",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7582,9 +7242,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2707",
       "speakers": [
-        "Catch Guz",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7604,8 +7261,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3109",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7628,8 +7283,6 @@
       "itunes_duration": "3107",
       "speakers": [
         "Kelly Convey",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7650,8 +7303,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3156",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7671,8 +7322,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4267",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
+        "Nihal Arthanayake Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7693,8 +7343,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3259",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7716,8 +7364,6 @@
       "itunes_duration": "2962",
       "speakers": [
         "Brian Conley",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7738,8 +7384,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3143",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7760,9 +7404,6 @@
       "itunes_duration": "3543",
       "speakers": [
         "Martin Lewis",
-        "Lewis Cbe",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7783,8 +7424,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2635",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7806,8 +7445,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3938",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
+        "Sara Pascoe Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7828,8 +7466,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3183",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7847,9 +7483,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3180",
       "speakers": [
-        "Tom Davis",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7871,8 +7504,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3350",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7893,8 +7524,6 @@
       "itunes_duration": "2522",
       "speakers": [
         "Julian Deane",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7915,8 +7544,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3515",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7940,11 +7567,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2741",
       "speakers": [
-        "Sindhu Vee",
-        "David Baddiel",
-        "Mark Watson",
-        "Carl Donnelly",
-        "Doc Brown",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7966,8 +7589,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2969",
       "speakers": [
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -7989,8 +7610,6 @@
       "itunes_duration": "3341",
       "speakers": [
         "Ibiza Stag-Do Special",
-        "Rob Josh Big News",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8014,8 +7633,6 @@
       "itunes_duration": "3174",
       "speakers": [
         "Josh Pugh",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8036,8 +7653,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3153",
       "speakers": [
-        "Rob Josh Big News",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8056,8 +7671,6 @@
       "itunes_duration": "3442",
       "speakers": [
         "David Earl",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8078,8 +7691,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3222",
       "speakers": [
-        "Rob Josh Big News",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8098,8 +7709,6 @@
       "itunes_duration": "3587",
       "speakers": [
         "Katherine Ryan",
-        "Parenting Hell",
-        "Rob Josh",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8121,8 +7730,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2853",
       "speakers": [
-        "Rob Josh Big News",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8143,8 +7750,6 @@
       "itunes_duration": "3517",
       "speakers": [
         "Rich Wilson",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8165,8 +7770,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3279",
       "speakers": [
-        "Rob Josh Big News",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8188,10 +7791,6 @@
       "itunes_duration": "3726",
       "speakers": [
         "Benn Joining",
-        "Conor Benn",
-        "Nigel Benn",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8212,8 +7811,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2693",
       "speakers": [
-        "Rob Josh Big News",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8236,8 +7833,6 @@
       "itunes_duration": "3025",
       "speakers": [
         "Esther Manito",
-        "Rob Josh",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8258,7 +7853,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2885",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8278,7 +7872,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3569",
       "speakers": [
-        "Parenting Hell",
+        "Hanson Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8298,7 +7892,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2577",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8324,7 +7917,6 @@
       "itunes_duration": "3390",
       "speakers": [
         "James Bay",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8344,7 +7936,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3260",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8365,7 +7956,6 @@
       "itunes_duration": "3905",
       "speakers": [
         "Tom Craine",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8385,7 +7975,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2866",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8407,7 +7996,6 @@
       "itunes_duration": "3086",
       "speakers": [
         "Mickey Mouse",
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8431,7 +8019,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3135",
       "speakers": [
-        "Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8453,11 +8040,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2678",
       "speakers": [
-        "Jo Brand",
-        "Ivo Graham",
-        "Peter Crouch",
-        "Nadiya Hussain",
-        "Alan Davies",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8479,10 +8062,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3019",
       "speakers": [
-        "Chris Ramsey",
-        "Rosie Ramsey",
-        "Russell Kane",
-        "Elis James",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8645,7 +8225,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2817",
       "speakers": [
-        "Manchester Arena",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8664,7 +8243,6 @@
       "itunes_duration": "3591",
       "speakers": [
         "Joe Wicks",
-        "Manchester Arena",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8684,7 +8262,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2530",
       "speakers": [
-        "Manchester Arena",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8703,7 +8280,6 @@
       "itunes_duration": "3828",
       "speakers": [
         "Tom Davis",
-        "Manchester Arena",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8724,7 +8300,6 @@
       "itunes_duration": "3155",
       "speakers": [
         "Rob Helps Out",
-        "Manchester Arena",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8746,7 +8321,6 @@
       "itunes_duration": "3690",
       "speakers": [
         "Jenas Joining",
-        "Manchester Arena",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8767,7 +8341,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3223",
       "speakers": [
-        "Manchester Arena",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8788,7 +8361,6 @@
       "itunes_duration": "3635",
       "speakers": [
         "Harriet Kemsley Joining",
-        "Harriet Kemsley",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8890,7 +8462,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3170",
       "speakers": [
-        "com Enjoy",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8931,7 +8502,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3001",
       "speakers": [
-        "uk Enjoy",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -8971,14 +8541,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2607",
       "speakers": [
-        "Tik Tok",
-        "Katherine Ryan",
-        "Jon Richardson",
-        "Lucy Beaumont",
-        "Ellie Taylor",
-        "Twin Town",
-        "Jack Dee",
-        "Daisy May Cooper",
+        "Call Parenting Hell",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9080,7 +8643,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2862",
       "speakers": [
-        "com Enjoy",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9121,7 +8683,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2627",
       "speakers": [
-        "Joe Rogan",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9219,6 +8780,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4355",
       "speakers": [
+        "Paris Fury",
+        "Paris Fury Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9299,7 +8862,6 @@
       "itunes_duration": "3409",
       "speakers": [
         "Harry Hill",
-        "Harry Hill Harry",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9459,6 +9021,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3024",
       "speakers": [
+        "Charlotte Church",
+        "Charlotte Church Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9499,7 +9063,6 @@
       "itunes_duration": "3389",
       "speakers": [
         "Lucy Beaumont",
-        "Drinking Custard",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9521,6 +9084,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3062",
       "speakers": [
+        "Viva La",
+        "Viva La Bath",
+        "Revolution More",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9583,7 +9149,6 @@
       "itunes_duration": "3448",
       "speakers": [
         "Stephen Mangan",
-        "Anita Mangan",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9664,7 +9229,6 @@
       "speakers": [
         "Josh Widdicombe'S",
         "Geoff Norcott",
-        "Thanks Rob",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9829,7 +9393,6 @@
       "itunes_duration": "3325",
       "speakers": [
         "Babatundé Aléshé",
-        "Gogglebox Babatundé Aléshé",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -9869,6 +9432,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4130",
       "speakers": [
+        "Isy Suttie",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10011,7 +9575,6 @@
       "itunes_duration": "3493",
       "speakers": [
         "Paul McCaffrey",
-        "Paul McCaffrey Enjoy",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10133,7 +9696,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3813",
       "speakers": [
-        "Laura Whitmore",
+        "Iain Stirling",
+        "Iain Stirling Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10338,7 +9902,6 @@
       "itunes_duration": "3721",
       "speakers": [
         "Fay Ripley Joining",
-        "Fay Ripley",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10378,7 +9941,6 @@
       "itunes_duration": "3821",
       "speakers": [
         "Jessica Knappett",
-        "Jessica Knappett Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10418,6 +9980,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3522",
       "speakers": [
+        "Jarred Christmas",
+        "Jarred Christmas Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10479,6 +10043,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3432",
       "speakers": [
+        "Banter Juice",
+        "Banter Juice More",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10706,8 +10272,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3186",
       "speakers": [
-        "Ty Taylor",
-        "Jonas Blue",
+        "Paloma Faith",
+        "Paloma Faith Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10788,7 +10354,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3412",
       "speakers": [
-        "Paddy McGuinness",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10934,6 +10499,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2633",
       "speakers": [
+        "wet hair",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -10954,8 +10520,6 @@
       "itunes_duration": "4009",
       "speakers": [
         "Field Williams",
-        "Robbie Williams Ayda",
-        "Robbie WIlliams",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11038,7 +10602,6 @@
       "speakers": [
         "David Baddiel Rob",
         "David Baddiel Joining",
-        "David Baddiel",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11118,6 +10681,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2332",
       "speakers": [
+        "Burj Khalifa",
+        "Burj Khalifa More",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11324,7 +10889,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2608",
       "speakers": [
-        "Follow Rob",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11348,7 +10912,6 @@
       "speakers": [
         "Doc Brown",
         "Ben Baily Smith",
-        "Ben Bailey Smith",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11368,7 +10931,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2515",
       "speakers": [
-        "Follow Rob",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11388,6 +10950,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3290",
       "speakers": [
+        "Porter Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11510,7 +11073,6 @@
       "itunes_duration": "3253",
       "speakers": [
         "Josh Widdicombe'S",
-        "Ivo Graham",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11612,6 +11174,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2123",
       "speakers": [
+        "Aled Jones",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11674,6 +11237,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3675",
       "speakers": [
+        "Jen Brister",
+        "Jen Brister Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11794,6 +11359,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3114",
       "speakers": [
+        "Judi Love",
+        "Judi Love Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11815,7 +11382,6 @@
       "itunes_duration": "2306",
       "speakers": [
         "Josh Widdicombe'S",
-        "Malcolm More",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -11985,6 +11551,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1878",
       "speakers": [
+        "Correspondence Special",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12006,8 +11573,6 @@
       "itunes_duration": "2564",
       "speakers": [
         "Alex Brooker",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12029,8 +11594,6 @@
       "itunes_duration": "2365",
       "speakers": [
         "Shappi Khorsandi",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12052,9 +11615,6 @@
       "itunes_duration": "2740",
       "speakers": [
         "Daisy May Cooper Joining",
-        "Daisy May Cooper",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12076,8 +11636,6 @@
       "itunes_duration": "2290",
       "speakers": [
         "Alison Hammond",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12099,9 +11657,6 @@
       "itunes_duration": "2811",
       "speakers": [
         "Jack Dee Joining",
-        "Jack Dee",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12121,8 +11676,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3441",
       "speakers": [
-        "uk Instagram",
-        "Michael Marden Learn",
+        "Isy Suttie Joining",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12143,8 +11697,6 @@
       "itunes_duration": "2403",
       "speakers": [
         "Alan Davies",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12166,8 +11718,6 @@
       "itunes_duration": "2703",
       "speakers": [
         "Alex Horne",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12188,9 +11738,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2757",
       "speakers": [
-        "Ellie Taylor",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12212,8 +11759,6 @@
       "itunes_duration": "2357",
       "speakers": [
         "Jason Manford",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12235,7 +11780,6 @@
       "itunes_duration": "2671",
       "speakers": [
         "Kerry Godliman",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12257,8 +11801,6 @@
       "itunes_duration": "2478",
       "speakers": [
         "Jonathan Ross",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12280,9 +11822,6 @@
       "itunes_duration": "2291",
       "speakers": [
         "Lucy Beaumont",
-        "Jon Richardson",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12304,8 +11843,6 @@
       "itunes_duration": "2539",
       "speakers": [
         "Jon Richardson",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12326,8 +11863,6 @@
       "itunes_duration": "2604",
       "speakers": [
         "Katherine Ryan",
-        "uk Instagram",
-        "Michael Marden Learn",
         "Rob Beckett",
         "Josh Widdicombe"
       ],
@@ -12351,7 +11886,7 @@
         "Rob Beckett",
         "Josh Widdicombe",
         "Lockdown Parenting Hell",
-        "Rob Beckett aimed"
+        "Rob Bec"
       ],
       "topics": [
         "beckett",
@@ -12369,400 +11904,400 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — S12 EP14: Seann Walsh — speakers: Seann Walsh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2026-02-17 — S12 EP13: Anti-Valentines: Playground Sha*gers (Part 4) — speakers: Playground Sha gers, Rob Beckett, Josh Widdicombe, Playground Shaggers, Parenting Hell
-- 2026-02-13 — S12 EP12: Lou Beckett (The Return) — speakers: Lou Beckett, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2026-02-10 — S12 EP11: A Kitten Update — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2026-02-06 — S12 EP10: Ray Bradshaw — speakers: Ray Bradshaw, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2026-02-03 — S12 EP9: That's bad podcasting — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2026-01-30 — S12 EP8: John Bishop — speakers: John Bishop, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2026-01-27 — S12 EP7: I'm going to sneeze... — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2026-01-23 — S12 EP6: Harry Hill (The Return) — speakers: Harry Hill, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2026-01-20 — S12 EP5: The kind way is often worse — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2026-01-16 — S12 EP4: You've Jet-lagged Yourself — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2026-01-13 — S12 EP3: The Wheels Have Come Off — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2026-01-09 — S12 EP2: Prince Naseem Hamed — speakers: Prince Naseem, Brendan Ingle, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2026-01-06 — S12 EP1: A Whole New World... — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2026-01-02 — S11 EP41: Russell Howard — speakers: Russell Howard, Russell Howard Russell Howard, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-12-30 — S11 EP40: Rich Mans Porridge — speakers: Rich Mans Porridge, Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-12-26 — S11 EP39: Kate Garraway — speakers: Kate Garraway, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-12-23 — S11 EP38: Cat Urine Covered Coat — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-12-19 — S11 EP37: Jason Donovan — speakers: Jason Donovan, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-12-16 — S11 EP36: Stop me if I've said this before... — speakers: Rob Beckett, Josh Widdicombe, Trigger Warning, Parenting Hell
-- 2025-12-12 — S11 EP35: Lindsey Santoro — speakers: Lindsey Santoro, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-12-09 — S11 EP34: A Buffer Free Life — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
+- 2026-02-20 — S12 EP14: Seann Walsh — speakers: Seann Walsh, Rob Beckett, Josh Widdicombe
+- 2026-02-17 — S12 EP13: Anti-Valentines: Playground Sha*gers (Part 4) — speakers: Playground Sha gers, Rob Beckett, Josh Widdicombe
+- 2026-02-13 — S12 EP12: Lou Beckett (The Return) — speakers: Lou Beckett, Rob Beckett, Josh Widdicombe
+- 2026-02-10 — S12 EP11: A Kitten Update — speakers: Rob Beckett, Josh Widdicombe
+- 2026-02-06 — S12 EP10: Ray Bradshaw — speakers: Ray Bradshaw, Rob Beckett, Josh Widdicombe
+- 2026-02-03 — S12 EP9: That's bad podcasting — speakers: Rob Beckett, Josh Widdicombe
+- 2026-01-30 — S12 EP8: John Bishop — speakers: John Bishop, Rob Beckett, Josh Widdicombe
+- 2026-01-27 — S12 EP7: I'm going to sneeze... — speakers: Rob Beckett, Josh Widdicombe
+- 2026-01-23 — S12 EP6: Harry Hill (The Return) — speakers: Harry Hill, Rob Beckett, Josh Widdicombe
+- 2026-01-20 — S12 EP5: The kind way is often worse — speakers: Rob Beckett, Josh Widdicombe
+- 2026-01-16 — S12 EP4: You've Jet-lagged Yourself — speakers: Rob Beckett, Josh Widdicombe
+- 2026-01-13 — S12 EP3: The Wheels Have Come Off — speakers: Rob Beckett, Josh Widdicombe
+- 2026-01-09 — S12 EP2: Prince Naseem Hamed — speakers: Prince Naseem Hamed Joining, Rob Beckett, Josh Widdicombe
+- 2026-01-06 — S12 EP1: A Whole New World... — speakers: Rob Beckett, Josh Widdicombe
+- 2026-01-02 — S11 EP41: Russell Howard — speakers: Russell Howard, Rob Beckett, Josh Widdicombe
+- 2025-12-30 — S11 EP40: Rich Mans Porridge — speakers: Rich Mans Porridge, Rob Beckett, Josh Widdicombe
+- 2025-12-26 — S11 EP39: Kate Garraway — speakers: Kate Garraway, Rob Beckett, Josh Widdicombe
+- 2025-12-23 — S11 EP38: Cat Urine Covered Coat — speakers: Rob Beckett, Josh Widdicombe
+- 2025-12-19 — S11 EP37: Jason Donovan — speakers: Jason Donovan, Rob Beckett, Josh Widdicombe
+- 2025-12-16 — S11 EP36: Stop me if I've said this before... — speakers: Rob Beckett, Josh Widdicombe
+- 2025-12-12 — S11 EP35: Lindsey Santoro — speakers: Lindsey Santoro, Rob Beckett, Josh Widdicombe
+- 2025-12-09 — S11 EP34: A Buffer Free Life — speakers: Rob Beckett, Josh Widdicombe, Small Busi
 - 2025-12-05 — S11 EP33: Andy Goldstein — speakers: Andy Goldstein, Rob Beckett, Josh Widdicombe
-- 2025-12-02 — S11 EP32: Advent Calendar Error — speakers: Advent Calendar Error, Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-11-28 — S11 EP31: Rob does some bad parenting — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-11-25 — S11 EP30: Pre-emptive Strike — speakers: Rob Beckett, Josh Widdicombe, Producer Michael, Parenting Hell
-- 2025-11-21 — S11 EP29: We've lost the passports! — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-11-18 — S11 EP28: Josh gets trapped in a school... — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-11-14 — S11 EP27: Jo Whiley — speakers: Jo Whiley, Zoe Ball, digitpod Dig, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-11-11 — S11 EP26: Top 3 Arguments — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
+- 2025-12-02 — S11 EP32: Advent Calendar Error — speakers: Advent Calendar Error, Rob Beckett, Josh Widdicombe
+- 2025-11-28 — S11 EP31: Rob does some bad parenting — speakers: Rob Beckett, Josh Widdicombe
+- 2025-11-25 — S11 EP30: Pre-emptive Strike — speakers: Rob Beckett, Josh Widdicombe
+- 2025-11-21 — S11 EP29: We've lost the passports! — speakers: Rob Beckett, Josh Widdicombe
+- 2025-11-18 — S11 EP28: Josh gets trapped in a school... — speakers: Rob Beckett, Josh Widdicombe
+- 2025-11-14 — S11 EP27: Jo Whiley — speakers: Jo Whiley, Rob Beckett, Josh Widdicombe
+- 2025-11-11 — S11 EP26: Top 3 Arguments — speakers: Rob Beckett, Josh Widdicombe
 - 2025-11-07 — S11 EP25: Amol Rajan — speakers: Amol Rajan, Rob Beckett, Josh Widdicombe
-- 2025-11-04 — S11 EP24: Normal For The Time — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-10-31 — S11 EP23: Joe Thomas — speakers: Joe Thomas, James Fact, Rob Beckett, Josh Widdicombe
-- 2025-10-28 — S11 EP22: Back to Parenting — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-10-24 — S11 EP21: Customer Service Revenge — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-10-20 — S11 EP20: Rugged and Ready — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-10-17 — S11 EP19: Harry Aikines-Aryeetey — speakers: Harry Aikines-Aryeetey, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-10-14 — S11 EP18: A Sneeze is Normal — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
+- 2025-11-04 — S11 EP24: Normal For The Time — speakers: Rob Beckett, Josh Widdicombe
+- 2025-10-31 — S11 EP23: Joe Thomas — speakers: Joe Thomas, Rob Beckett, Josh Widdicombe
+- 2025-10-28 — S11 EP22: Back to Parenting — speakers: Rob Beckett, Josh Widdicombe
+- 2025-10-24 — S11 EP21: Customer Service Revenge — speakers: Rob Beckett, Josh Widdicombe
+- 2025-10-20 — S11 EP20: Rugged and Ready — speakers: Rob Beckett, Josh Widdicombe
+- 2025-10-17 — S11 EP19: Harry Aikines-Aryeetey — speakers: Harry Aikines-Aryeetey, Rob Beckett, Josh Widdicombe
+- 2025-10-14 — S11 EP18: A Sneeze is Normal — speakers: Rob Beckett, Josh Widdicombe
 - 2025-10-10 — S11 EP17: Chris McCausland (The Return) — speakers: Chris McCausland, Rob Beckett, Josh Widdicombe
-- 2025-10-07 — S11 EP16: Lou shaves Rob's back in the garden... — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-10-03 — S11 EP15: Alan Davies (The Return) — speakers: Alan Davies, Male Stand-Up, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-09-30 — S11 EP14: My Life is Chaos — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-09-26 — S11 EP13: Paul C. Brunson — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2025-10-07 — S11 EP16: Lou shaves Rob's back in the garden... — speakers: Rob Beckett, Josh Widdicombe
+- 2025-10-03 — S11 EP15: Alan Davies (The Return) — speakers: Alan Davies, Rob Beckett, Josh Widdicombe
+- 2025-09-30 — S11 EP14: My Life is Chaos — speakers: My Life, Chaos Perhaps, Rob Beckett, Josh Widdicombe
+- 2025-09-26 — S11 EP13: Paul C. Brunson — speakers: Rob Beckett, Josh Widdicombe
 - 2025-09-22 — THE SECRET HOUSE MOVE TAPES: PART 2 — speakers: Josh Widdicombe, Rob Beckett
-- 2025-09-19 — S11 EP12: Elizabeth Day — speakers: Elizabeth Day, Trigger Warning, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2025-09-19 — S11 EP12: Elizabeth Day — speakers: Elizabeth Day Joining, Rob Beckett, Josh Widdicombe
 - 2025-09-15 — THE SECRET HOUSE MOVE TAPES: PART 1 — speakers: Josh Widdicombe, Rob Beckett
-- 2025-09-11 — S11 EP11: Barry Hearn — speakers: Barry Hearn Joining, Barry Hearn Obe, Matchroom Sport, Rob Beckett, Josh Widdicombe
-- 2025-09-09 — S11 EP10: Rick Astley — speakers: Rick Astley, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-09-04 — S11 EP9: Back to school!!! — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-09-01 — S11 EP8: From Friend to Lover — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-08-28 — S11 EP7: Zoe Ball — speakers: Zoe Ball, Jo Whiley, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-08-26 — S11 EP6: My son had his tonsils taken out — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-08-21 — S11 EP5: Olly Murs — speakers: Rob Beckett, Josh Widdicombe
-- 2025-08-18 — S11 EP4: I had a dream about Romesh — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
+- 2025-09-11 — S11 EP11: Barry Hearn — speakers: Barry Hearn Joining, Barry Hearn Obe, Rob Beckett, Josh Widdicombe
+- 2025-09-09 — S11 EP10: Rick Astley — speakers: Rick Astley, Rob Beckett, Josh Widdicombe
+- 2025-09-04 — S11 EP9: Back to school!!! — speakers: Rob Beckett, Josh Widdicombe
+- 2025-09-01 — S11 EP8: From Friend to Lover — speakers: Rob Beckett, Josh Widdicombe
+- 2025-08-28 — S11 EP7: Zoe Ball — speakers: Zoe Ball, Rob Beckett, Josh Widdicombe
+- 2025-08-26 — S11 EP6: My son had his tonsils taken out — speakers: Rob Beckett, Josh Widdicombe
+- 2025-08-21 — S11 EP5: Olly Murs — speakers: Olly Murs Joining, Rob Beckett, Josh Widdicombe
+- 2025-08-18 — S11 EP4: I had a dream about Romesh — speakers: Rob Beckett, Josh Widdicombe
 - 2025-08-15 — S11 EP3: Ross Noble — speakers: Ross Noble, Rob Beckett, Josh Widdicombe
-- 2025-08-11 — S11 EP2: Mick Jagger's Birthday Party — speakers: Mick Jagger, Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-08-07 — S11 EP1: Stephen Mangan (The Return) — speakers: Stephen Mangan, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-08-04 — We're all going on a summer holiday... — speakers: Kerry Godliman, Jason Manford, Alison Hammond, Lorraine Kelly, Robbie Ayda Williams, Michael Sheen, Rob Beckett, Josh Widdicombe
-- 2025-08-01 — Loose Neck vs. Stiff Neck — speakers: Richard Osman, Lily Allen, Frank Skinner, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-07-29 — S10 EP45: Is this sleep? — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-07-24 — S10 EP44: Tamzin Outhwaite — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-07-21 — S10 EP43: Instagram vs. Reality — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-07-17 — S10 EP42: Mel Giedroyc — speakers: Mel Giedroyc, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-07-15 — S10 EP41: Sports Day Ends Badly — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-07-10 — S10 EP40: Frank Warren — speakers: Frank Warren, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-07-08 — S10 EP39: Hold it... Touch it... Pop it... — speakers: Rob Beckett, Josh Widdicombe, Robert De Niro, Parenting Hell
-- 2025-07-04 — S10 EP38: Aisling Bea — speakers: Aisling Bea, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-07-01 — S10 EP37: Bottom Tickle Trauma — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-06-27 — S10 EP36: Josh's Road Rage Incident — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-06-23 — S10 EP35: Knowing you, you'll need some buffer... — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-06-19 — S10 EP34: Jack Skipper — speakers: Jack Skipper, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-06-17 — S10 EP33: The Post Holiday Blues Brothers — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-06-13 — S10 EP32: Tom Basden — speakers: Tom Basden Joining, Tom Basden, Best Newcomer, McGwyer Mortimer, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-06-10 — S10 EP31: Jacinda Ardern — speakers: Jacinda Ardern, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-06-05 — S10 EP30: Suzi Ruffell (The Return) — speakers: Suzi Ruffell, Minded Friends, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-06-02 — S10 EP29: A Dove in my office!! — speakers: Rob Beckett, Josh Widdicombe, wan ers, Parenting Hell
-- 2025-05-30 — S10 EP28: George Egg — speakers: George Egg, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-05-27 — S10 EP27: The Dog's Got Diarrhea — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-05-23 — S10 EP26: Ivo Graham (The Return) — speakers: Ivo Graham, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-05-20 — S10 EP25: The Work / Life Balance Debate — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-05-16 — S10 EP24: Charlie Brooker — speakers: Charlie Brooker, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-05-12 — S10 EP23: Lou and Rose clap back — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-05-08 — S10 EP22: Other Parent W*nkers — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-05-06 — S10 EP21: Opinion Juice — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-05-02 — S10 EP20: Pete Doherty — speakers: Pete Doherty, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-04-29 — S10 EP19: Dirty Monkey Cuck — speakers: Monkey Cuck, Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-04-24 — S10 EP18: Leanne Quigley — speakers: Leanne Quigley, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-04-22 — S10 EP17: Easter Lost Keys Chaos — speakers: Santa Claus, Sticky Lips Bbq Here, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-04-18 — S10 EP16: Joel Dommett (The Return) — speakers: Joel Dommett, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-04-14 — S10 EP15: Josh the Birthday Boy — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-04-10 — S10 EP14: Stacey Solomon & Joe Swash (The Return) — speakers: Stacey Solomon, Joe Swash, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-04-08 — S10 EP13: Drunk on melodies — speakers: Rob Beckett, Josh Widdicombe, Ed Sheeran, Parenting Hell
-- 2025-04-04 — S10 EP12: Gemma Atkinson — speakers: Gemma Atkinson, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-04-01 — S10 EP11: Mothers Day Mania — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-03-28 — S10 EP10: Gyles Brandreth — speakers: Gyles Brandreth, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-03-25 — S10 EP9: I feel like a bad parent... — speakers: Rob Beckett, Josh Widdicombe, Natter Matters, Rosie Johnson Illustrates, Parenting Hell
-- 2025-03-21 — S10 EP8: Adebayo Akinfenwa — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-03-18 — S10 EP7: I had a fight with Rob Beckett... — speakers: Rob Beckett, Josh Widdicombe, Sabrina Carpenter, Parenting Hell
-- 2025-03-14 — S10 EP6: Stacey Dooley — speakers: Stacey Dooley, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-03-11 — S10 EP5: Siân Welby — speakers: Siân Welby, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-03-07 — S10 EP4: I should apologise to Rose — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-03-04 — S10 EP3: Parenting Hell Mixtape — speakers: James Kicking, Ellis James, Abbey Clancey Next, Abbey Clancy, Helen Russell Helen Russell, Sam Quek, Charlie Baker, Rob Beckett, Josh Widdicombe
-- 2025-02-28 — S10 EP2: Danny Jones — speakers: Danny Jones, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-02-25 — S10 EP1: Injured by my children — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-02-21 — Now That's What I Call Parenting Hell... Volume 15 — speakers: Jessie Ware, Mike Wozniak, Pat Sharp, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-02-18 — Now That's What I Call Parenting Hell - Volume 14 — speakers: Michael McIntyre, Harriet Kemsley, Josh Pugh, Esther Manito, Martine McCutcheon, Harry Hill, Rob Beckett, Josh Widdicombe
-- 2025-02-14 — S9 EP48: Valentines Playground Shag*ers Special — speakers: Valentines Playground, Rob Beckett, Josh Widdicombe, Playground Shaggers, Parenting Hell
-- 2025-02-11 — S9 EP47: Rob's House Has a Leak — speakers: Rob Beckett, Josh Widdicombe, Michael McIntyre, Parenting Hell
-- 2025-02-07 — S9 EP46: Jack Dee (The Return) — speakers: Jack Dee, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-02-04 — S9 EP45: A Voice note From Lou Beckett — speakers: Lou Beckett, Rob Beckett, Josh Widdicombe, Harry Judd, Parenting Hell
-- 2025-01-31 — S9 EP44: Harry Judd — speakers: Harry Judd, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-01-28 — S9 EP43: A rat ran up my leg — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-01-24 — S9 EP42: Dr. Rangan Chatterjee — speakers: Rangan Chatterjee, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2025-01-21 — S9 EP41: Observations from a tired man with an ill family — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-01-17 — S9 EP40: Rob vs. Josh — speakers: Rob Beckett, Josh Widdicombe, Josh Boomer, Parenting Hell
-- 2025-01-14 — S9 EP39: Ever Eaten a Kumquat? — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-01-10 — S9 EP38: The Cottage Cheese Boyz — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-01-07 — S9 EP37: Gladiators chat & January Blues — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2025-01-03 — S9 EP36: Casa Del Plyboard — speakers: Casa Del Plyboard, Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-12-24 — S9 EP35: The Playground Shaggers Festive Special — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-12-20 — S9 EP34: Do Not Google That — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-12-17 — S9 EP33: Josh moves back home — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-12-13 — S9 EP32: The Christmas Stress Tornado — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-12-10 — S9 EP31: Rob Gets A Tour Toaster — speakers: Rob Gets, Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-12-06 — S9 EP30: Vogue Williams — speakers: Vogue Williams, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-12-03 — S9 EP29: No Anecdote Too Small — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-11-29 — S9 EP28: Kerry Godliman (The Return) — speakers: Kerry Godliman, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-11-26 — S9 EP27: No Cupboards For Christmas — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-11-22 — S9 EP26: Joe Lycett — speakers: Joe Lycett, Art Hole, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-11-19 — S9 EP25: Time To Ban Homework — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-11-15 — S9 EP24: The Theme Parks Special — speakers: Special More, Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-11-12 — S9 EP23: Josh and Strictly Come Dancing — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-11-08 — S9 EP22: Now That's What I Call Parenting Hell... Volume 13 — speakers: Fin Taylor, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-11-05 — S9 EP21: Now That's What I Call Parenting Hell... Volume 12 — speakers: Jim Jefferies, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-11-01 — S9 EP20: Where is the time going? — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-10-29 — S9 EP19: JOSH PARALLEL PARKS LIVE ON THE PODCAST — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-10-25 — S9 EP18: Gino D'Acampo — speakers: Gino D'Acampo, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-10-22 — S9 EP17: I Hate Halloween — speakers: Rob Beckett, Josh Widdicombe, Sabretooth Cafe, Parenting Hell
-- 2024-10-18 — S9 EP16: Daisy May Cooper — speakers: Daisy May Cooper Joining, Daisy May Cooper, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-10-15 — S9 EP15: Gobble Gobble... — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-10-11 — S9 EP14: Kiri Pritchard-McLean — speakers: Kiri Pritchard-McLean, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-10-08 — S9 EP13: "Welcome to my legacy..." — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-10-04 — S9 EP12: A.I. Josh Widdicombe Bot — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-10-01 — S9 EP11: Python on the loose!! — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-09-27 — S9 EP10: Rose Hanson (The Return) — speakers: Rose Hanson, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-09-24 — S9 EP9: Topless Driving — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-09-20 — S9 EP8: Russell Kane (The Return) — speakers: Russell Kane, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-09-17 — S9 EP7: How many podcast hosts does it take to change a lightbulb? — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-09-13 — S9 EP6: Joe Marler — speakers: Joe Marler, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-09-10 — S9 EP5: A Strict 'No Fingers in Tea' Policy — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-09-06 — S9 EP4: Dynamic Summer Holidays Pricing — speakers: Rob Beckett, Josh Widdicombe, Parenting Hell
-- 2024-09-03 — S9 EP3: Rob 'The Beaver' Beckett goes on Gladiators — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-08-30 — S9 EP2: Max Rushden — speakers: Max Rushden, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-08-27 — S9 EP1: I'VE MICROWAVED MY KEYS!! — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-08-23 — Now That's What I Call Parenting Hell... Volume 11 — speakers: Jessica Enis, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-08-20 — Now That's What I Call Parenting Hell... Volume 10 — speakers: Alex Jones, Parenting Hell, Michael Marden Sales, Rob Beckett, Josh Widdicombe
-- 2024-08-16 — Now That's What I Call Parenting Hell... Volume 9 — speakers: Joe Wilkinson, Dan Schreiber, Natalie Cassidy, Rob Beckett, Josh Widdicombe
-- 2024-08-13 — S8 EP63: It's hard being a parent (but only if you care) — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-08-09 — S8 EP62: Tom Kerridge — speakers: Tom Kerridge, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-08-06 — S8 EP61: I'm cancelling my kid — speakers: Parenting Hell, Michael Marden Sales, Rob Beckett, Josh Widdicombe
-- 2024-08-02 — S8 EP60: Frank Skinner — speakers: Frank Skinner, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-07-30 — S8 EP59: Dr. Josh Widdicombe has a breakdown — speakers: Josh Widdicombe, Parenting Hell, Michael Marden Sales, Rob Beckett
-- 2024-07-26 — S8 EP58: At the end of the day it's content... — speakers: Parenting Hell, Michael Marden Sales, Rob Beckett, Josh Widdicombe
-- 2024-07-23 — S8 EP57: Boot-cut or skinny jeans? — speakers: Parenting Hell, Michael Marden Sales, Rob Beckett, Josh Widdicombe
-- 2024-07-19 — S8 EP56: The Poetry Special — speakers: Natalie Cassidy, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-07-16 — S8 EP55: Cloned Licence Plate Gate — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-07-12 — S8 EP54: Jeff Innocent — speakers: Jeff Innocent Joining, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-07-09 — S8 EP53: Playground Shaggers — speakers: Playground Shaggers, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-07-05 — S8 EP52: Nick Mohammed — speakers: Nick Mohammed Joining, Nick Mohammed, Nathan Shelley, Ted Lasso, Steven Moffat, Hugh Bonneville, Karen Gillan, Ben Miles, Rob Beckett, Josh Widdicombe
-- 2024-07-02 — S8 EP51: "My head's gone..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-06-28 — S8 EP50: Janine Harouni — speakers: Janine Harouni, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-06-25 — S8 EP49: The Fathers Day Debrief — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-06-21 — S8 EP48: Oti Mabuse — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-06-18 — S8 EP47: The Favour Tank — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-06-14 — S8 EP46: Marcus Brigstocke — speakers: Marcus Brigstocke, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-06-11 — S8 EP45: The Stiffest Neck She'd Ever Seen — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-06-07 — S8 EP44: Ranvir Singh — speakers: Rob Beckett, Josh Widdicombe
-- 2024-06-04 — S8 EP43: "Lou hung up on me..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-05-31 — S8 EP42: George Lewis — speakers: George Lewis Joining, George Lewis, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-05-28 — S8 EP41: My Garage Stinks — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-05-24 — S8 EP40: Cush Jumbo — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-05-21 — S8 EP39: Algae in the Fishtank — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2025-08-11 — S11 EP2: Mick Jagger's Birthday Party — speakers: Mick Jagger, Rob Beckett, Josh Widdicombe
+- 2025-08-07 — S11 EP1: Stephen Mangan (The Return) — speakers: Stephen Mangan, Rob Beckett, Josh Widdicombe
+- 2025-08-04 — We're all going on a summer holiday... — speakers: Rob Beckett, Josh Widdicombe
+- 2025-08-01 — Loose Neck vs. Stiff Neck — speakers: Loose Neck, Rob Beckett, Josh Widdicombe
+- 2025-07-29 — S10 EP45: Is this sleep? — speakers: Rob Beckett, Josh Widdicombe
+- 2025-07-24 — S10 EP44: Tamzin Outhwaite — speakers: Tamzin Outhwaite Joining, Rob Beckett, Josh Widdicombe
+- 2025-07-21 — S10 EP43: Instagram vs. Reality — speakers: Rob Beckett, Josh Widdicombe
+- 2025-07-17 — S10 EP42: Mel Giedroyc — speakers: Mel Giedroyc, Rob Beckett, Josh Widdicombe
+- 2025-07-15 — S10 EP41: Sports Day Ends Badly — speakers: Rob Beckett, Josh Widdicombe
+- 2025-07-10 — S10 EP40: Frank Warren — speakers: Frank Warren, Rob Beckett, Josh Widdicombe
+- 2025-07-08 — S10 EP39: Hold it... Touch it... Pop it... — speakers: Rob Beckett, Josh Widdicombe
+- 2025-07-04 — S10 EP38: Aisling Bea — speakers: Aisling Bea, Rob Beckett, Josh Widdicombe
+- 2025-07-01 — S10 EP37: Bottom Tickle Trauma — speakers: Rob Beckett, Josh Widdicombe
+- 2025-06-27 — S10 EP36: Josh's Road Rage Incident — speakers: Rob Beckett, Josh Widdicombe
+- 2025-06-23 — S10 EP35: Knowing you, you'll need some buffer... — speakers: Rob Beckett, Josh Widdicombe
+- 2025-06-19 — S10 EP34: Jack Skipper — speakers: Jack Skipper, Rob Beckett, Josh Widdicombe
+- 2025-06-17 — S10 EP33: The Post Holiday Blues Brothers — speakers: Rob Beckett, Josh Widdicombe
+- 2025-06-13 — S10 EP32: Tom Basden — speakers: Tom Basden Joining, Rob Beckett, Josh Widdicombe
+- 2025-06-10 — S10 EP31: Jacinda Ardern — speakers: Jacinda Ardern, Rob Beckett, Josh Widdicombe
+- 2025-06-05 — S10 EP30: Suzi Ruffell (The Return) — speakers: Suzi Ruffell, Rob Beckett, Josh Widdicombe
+- 2025-06-02 — S10 EP29: A Dove in my office!! — speakers: Rob Beckett, Josh Widdicombe
+- 2025-05-30 — S10 EP28: George Egg — speakers: George Egg, Rob Beckett, Josh Widdicombe
+- 2025-05-27 — S10 EP27: The Dog's Got Diarrhea — speakers: Rob Beckett, Josh Widdicombe
+- 2025-05-23 — S10 EP26: Ivo Graham (The Return) — speakers: Ivo Graham, Rob Beckett, Josh Widdicombe
+- 2025-05-20 — S10 EP25: The Work / Life Balance Debate — speakers: Rob Beckett, Josh Widdicombe
+- 2025-05-16 — S10 EP24: Charlie Brooker — speakers: Charlie Brooker, Rob Beckett, Josh Widdicombe
+- 2025-05-12 — S10 EP23: Lou and Rose clap back — speakers: Rob Beckett, Josh Widdicombe
+- 2025-05-08 — S10 EP22: Other Parent W*nkers — speakers: Rob Beckett, Josh Widdicombe
+- 2025-05-06 — S10 EP21: Opinion Juice — speakers: Rob Beckett, Josh Widdicombe
+- 2025-05-02 — S10 EP20: Pete Doherty — speakers: Pete Doherty, Rob Beckett, Josh Widdicombe
+- 2025-04-29 — S10 EP19: Dirty Monkey Cuck — speakers: Monkey Cuck, Rob Beckett, Josh Widdicombe
+- 2025-04-24 — S10 EP18: Leanne Quigley — speakers: Leanne Quigley, Rob Beckett, Josh Widdicombe
+- 2025-04-22 — S10 EP17: Easter Lost Keys Chaos — speakers: Easter Lost Keys Chaos, Stiff Neck, Loose Neck, Rob Beckett, Josh Widdicombe
+- 2025-04-18 — S10 EP16: Joel Dommett (The Return) — speakers: Joel Dommett, Rob Beckett, Josh Widdicombe
+- 2025-04-14 — S10 EP15: Josh the Birthday Boy — speakers: Rob Beckett, Josh Widdicombe
+- 2025-04-10 — S10 EP14: Stacey Solomon & Joe Swash (The Return) — speakers: Stacey Solomon, Joe Swash, Rob Beckett, Josh Widdicombe
+- 2025-04-08 — S10 EP13: Drunk on melodies — speakers: Rob Beckett, Josh Widdicombe
+- 2025-04-04 — S10 EP12: Gemma Atkinson — speakers: Gemma Atkinson, Rob Beckett, Josh Widdicombe
+- 2025-04-01 — S10 EP11: Mothers Day Mania — speakers: Rob Beckett, Josh Widdicombe
+- 2025-03-28 — S10 EP10: Gyles Brandreth — speakers: Gyles Brandreth, Rob Beckett, Josh Widdicombe
+- 2025-03-25 — S10 EP9: I feel like a bad parent... — speakers: Rob Beckett, Josh Widdicombe, Small Busi
+- 2025-03-21 — S10 EP8: Adebayo Akinfenwa — speakers: Adebayo Akinfenwa Joining, Rob Beckett, Josh Widdicombe
+- 2025-03-18 — S10 EP7: I had a fight with Rob Beckett... — speakers: Rob Beckett, Josh Widdicombe
+- 2025-03-14 — S10 EP6: Stacey Dooley — speakers: Stacey Dooley, Rob Beckett, Josh Widdicombe
+- 2025-03-11 — S10 EP5: Siân Welby — speakers: Siân Welby, Rob Beckett, Josh Widdicombe
+- 2025-03-07 — S10 EP4: I should apologise to Rose — speakers: Rob Beckett, Josh Widdicombe
+- 2025-03-04 — S10 EP3: Parenting Hell Mixtape — speakers: Parenting Hell Mixtape Here, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2025-02-28 — S10 EP2: Danny Jones — speakers: Danny Jones, Rob Beckett, Josh Widdicombe
+- 2025-02-25 — S10 EP1: Injured by my children — speakers: Rob Beckett, Josh Widdicombe
+- 2025-02-21 — Now That's What I Call Parenting Hell... Volume 15 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2025-02-18 — Now That's What I Call Parenting Hell - Volume 14 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2025-02-14 — S9 EP48: Valentines Playground Shag*ers Special — speakers: Valentines Playground, Rob Beckett, Josh Widdicombe
+- 2025-02-11 — S9 EP47: Rob's House Has a Leak — speakers: Rob Beckett, Josh Widdicombe
+- 2025-02-07 — S9 EP46: Jack Dee (The Return) — speakers: Jack Dee, Rob Beckett, Josh Widdicombe
+- 2025-02-04 — S9 EP45: A Voice note From Lou Beckett — speakers: Lou Beckett, Rob Beckett, Josh Widdicombe
+- 2025-01-31 — S9 EP44: Harry Judd — speakers: Harry Judd, Rob Beckett, Josh Widdicombe
+- 2025-01-28 — S9 EP43: A rat ran up my leg — speakers: Rob Beckett, Josh Widdicombe
+- 2025-01-24 — S9 EP42: Dr. Rangan Chatterjee — speakers: Rangan Chatterjee, Rob Beckett, Josh Widdicombe
+- 2025-01-21 — S9 EP41: Observations from a tired man with an ill family — speakers: Rob Beckett, Josh Widdicombe
+- 2025-01-17 — S9 EP40: Rob vs. Josh — speakers: Rob Beckett, Josh Widdicombe
+- 2025-01-14 — S9 EP39: Ever Eaten a Kumquat? — speakers: Rob Beckett, Josh Widdicombe
+- 2025-01-10 — S9 EP38: The Cottage Cheese Boyz — speakers: Rob Beckett, Josh Widdicombe
+- 2025-01-07 — S9 EP37: Gladiators chat & January Blues — speakers: Rob Beckett, Josh Widdicombe
+- 2025-01-03 — S9 EP36: Casa Del Plyboard — speakers: Casa Del Plyboard, Rob Beckett, Josh Widdicombe
+- 2024-12-24 — S9 EP35: The Playground Shaggers Festive Special — speakers: Rob Beckett, Josh Widdicombe
+- 2024-12-20 — S9 EP34: Do Not Google That — speakers: Rob Beckett, Josh Widdicombe
+- 2024-12-17 — S9 EP33: Josh moves back home — speakers: Rob Beckett, Josh Widdicombe
+- 2024-12-13 — S9 EP32: The Christmas Stress Tornado — speakers: Santa Claus, Elves Behaving Badly, Rob Beckett, Josh Widdicombe
+- 2024-12-10 — S9 EP31: Rob Gets A Tour Toaster — speakers: Rob Gets, Rob Beckett, Josh Widdicombe
+- 2024-12-06 — S9 EP30: Vogue Williams — speakers: Vogue Williams, Rob Beckett, Josh Widdicombe
+- 2024-12-03 — S9 EP29: No Anecdote Too Small — speakers: No Anecdote Too Small, Santa Claus, Rob Beckett, Josh Widdicombe
+- 2024-11-29 — S9 EP28: Kerry Godliman (The Return) — speakers: Kerry Godliman, Rob Beckett, Josh Widdicombe
+- 2024-11-26 — S9 EP27: No Cupboards For Christmas — speakers: Rob Beckett, Josh Widdicombe
+- 2024-11-22 — S9 EP26: Joe Lycett — speakers: Joe Lycett, Rob Beckett, Josh Widdicombe
+- 2024-11-19 — S9 EP25: Time To Ban Homework — speakers: Rob Beckett, Josh Widdicombe
+- 2024-11-15 — S9 EP24: The Theme Parks Special — speakers: Special More, Rob Beckett, Josh Widdicombe
+- 2024-11-12 — S9 EP23: Josh and Strictly Come Dancing — speakers: Rob Beckett, Josh Widdicombe
+- 2024-11-08 — S9 EP22: Now That's What I Call Parenting Hell... Volume 13 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-11-05 — S9 EP21: Now That's What I Call Parenting Hell... Volume 12 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-11-01 — S9 EP20: Where is the time going? — speakers: Rob Beckett, Josh Widdicombe
+- 2024-10-29 — S9 EP19: JOSH PARALLEL PARKS LIVE ON THE PODCAST — speakers: Rob Beckett, Josh Widdicombe
+- 2024-10-25 — S9 EP18: Gino D'Acampo — speakers: Rob Beckett, Josh Widdicombe
+- 2024-10-22 — S9 EP17: I Hate Halloween — speakers: Rob Beckett, Josh Widdicombe
+- 2024-10-18 — S9 EP16: Daisy May Cooper — speakers: Daisy May Cooper Joining, Rob Beckett, Josh Widdicombe
+- 2024-10-15 — S9 EP15: Gobble Gobble... — speakers: Rob Beckett, Josh Widdicombe
+- 2024-10-11 — S9 EP14: Kiri Pritchard-McLean — speakers: Kiri Pritchard-McLean, Rob Beckett, Josh Widdicombe
+- 2024-10-08 — S9 EP13: "Welcome to my legacy..." — speakers: Rob Beckett, Josh Widdicombe
+- 2024-10-04 — S9 EP12: A.I. Josh Widdicombe Bot — speakers: Rob Beckett, Josh Widdicombe
+- 2024-10-01 — S9 EP11: Python on the loose!! — speakers: Rob Beckett, Josh Widdicombe
+- 2024-09-27 — S9 EP10: Rose Hanson (The Return) — speakers: Rose Hanson, Rob Beckett, Josh Widdicombe
+- 2024-09-24 — S9 EP9: Topless Driving — speakers: Rob Beckett, Josh Widdicombe
+- 2024-09-20 — S9 EP8: Russell Kane (The Return) — speakers: Russell Kane, Rob Beckett, Josh Widdicombe
+- 2024-09-17 — S9 EP7: How many podcast hosts does it take to change a lightbulb? — speakers: Rob Beckett, Josh Widdicombe
+- 2024-09-13 — S9 EP6: Joe Marler — speakers: Joe Marler, Rob Beckett, Josh Widdicombe
+- 2024-09-10 — S9 EP5: A Strict 'No Fingers in Tea' Policy — speakers: Rob Beckett, Josh Widdicombe
+- 2024-09-06 — S9 EP4: Dynamic Summer Holidays Pricing — speakers: Rob Beckett, Josh Widdicombe
+- 2024-09-03 — S9 EP3: Rob 'The Beaver' Beckett goes on Gladiators — speakers: Rob Beckett, Josh Widdicombe
+- 2024-08-30 — S9 EP2: Max Rushden — speakers: Max Rushden, Rob Beckett, Josh Widdicombe
+- 2024-08-27 — S9 EP1: I'VE MICROWAVED MY KEYS!! — speakers: Rob Beckett, Josh Widdicombe
+- 2024-08-23 — Now That's What I Call Parenting Hell... Volume 11 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-08-20 — Now That's What I Call Parenting Hell... Volume 10 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-08-16 — Now That's What I Call Parenting Hell... Volume 9 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-08-13 — S8 EP63: It's hard being a parent (but only if you care) — speakers: Rob Beckett, Josh Widdicombe
+- 2024-08-09 — S8 EP62: Tom Kerridge — speakers: Tom Kerridge, Rob Beckett, Josh Widdicombe
+- 2024-08-06 — S8 EP61: I'm cancelling my kid — speakers: Rob Beckett, Josh Widdicombe
+- 2024-08-02 — S8 EP60: Frank Skinner — speakers: Frank Skinner, Rob Beckett, Josh Widdicombe
+- 2024-07-30 — S8 EP59: Dr. Josh Widdicombe has a breakdown — speakers: Josh Widdicombe, Rob Beckett
+- 2024-07-26 — S8 EP58: At the end of the day it's content... — speakers: Rob Beckett, Josh Widdicombe
+- 2024-07-23 — S8 EP57: Boot-cut or skinny jeans? — speakers: Rob Beckett, Josh Widdicombe
+- 2024-07-19 — S8 EP56: The Poetry Special — speakers: Natalie Cassidy, Rob Beckett, Josh Widdicombe
+- 2024-07-16 — S8 EP55: Cloned Licence Plate Gate — speakers: Rob Beckett, Josh Widdicombe
+- 2024-07-12 — S8 EP54: Jeff Innocent — speakers: Jeff Innocent Joining, Rob Beckett, Josh Widdicombe
+- 2024-07-09 — S8 EP53: Playground Shaggers — speakers: Playground Shaggers, Rob Beckett, Josh Widdicombe
+- 2024-07-05 — S8 EP52: Nick Mohammed — speakers: Nick Mohammed Joining, Rob Beckett, Josh Widdicombe
+- 2024-07-02 — S8 EP51: "My head's gone..." — speakers: Rob Beckett, Josh Widdicombe
+- 2024-06-28 — S8 EP50: Janine Harouni — speakers: Janine Harouni, Rob Beckett, Josh Widdicombe
+- 2024-06-25 — S8 EP49: The Fathers Day Debrief — speakers: Rob Beckett, Josh Widdicombe
+- 2024-06-21 — S8 EP48: Oti Mabuse — speakers: Rob Beckett, Josh Widdicombe
+- 2024-06-18 — S8 EP47: The Favour Tank — speakers: Rob Beckett, Josh Widdicombe
+- 2024-06-14 — S8 EP46: Marcus Brigstocke — speakers: Marcus Brigstocke, Rob Beckett, Josh Widdicombe
+- 2024-06-11 — S8 EP45: The Stiffest Neck She'd Ever Seen — speakers: Rob Beckett, Josh Widdicombe
+- 2024-06-07 — S8 EP44: Ranvir Singh — speakers: Ranvir Singh Joining, Rob Beckett, Josh Widdicombe
+- 2024-06-04 — S8 EP43: "Lou hung up on me..." — speakers: Rob Beckett, Josh Widdicombe
+- 2024-05-31 — S8 EP42: George Lewis — speakers: George Lewis Joining, Rob Beckett, Josh Widdicombe
+- 2024-05-28 — S8 EP41: My Garage Stinks — speakers: Rob Beckett, Josh Widdicombe
+- 2024-05-24 — S8 EP40: Cush Jumbo — speakers: Cush Jumbo Joining, Rob Beckett, Josh Widdicombe
+- 2024-05-21 — S8 EP39: Algae in the Fishtank — speakers: Rob Beckett, Josh Widdicombe
 - 2024-05-17 — S8 EP38: Al Murray — speakers: Al Murray, Rob Beckett, Josh Widdicombe
-- 2024-05-14 — S8 EP37: The 24-hour play date — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-05-10 — S8 EP36: Gabrielle — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-05-07 — S8 EP35: The Scariest Kids Movies — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-05-14 — S8 EP37: The 24-hour play date — speakers: Rob Beckett, Josh Widdicombe
+- 2024-05-10 — S8 EP36: Gabrielle — speakers: Rob Beckett, Josh Widdicombe
+- 2024-05-07 — S8 EP35: The Scariest Kids Movies — speakers: Rob Beckett, Josh Widdicombe
 - 2024-05-03 — S8 EP34: Alison Hammond (The Return) — speakers: Alison Hammond, Rob Beckett, Josh Widdicombe
-- 2024-04-30 — S8 EP33: Britain's Best Chocolate Bar — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-04-26 — S8 EP32: LuAnna — speakers: Luisa Zissman, Anna Williamson, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-04-23 — S8 EP31: Why Have You Done That? — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-04-19 — S8 EP30: Dan Nightingale — speakers: Dan Nightingale, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-04-16 — S8 EP29: The Craic Vac — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-04-12 — S8 EP28: Lily Allen — speakers: Lily Allen, Miquita Oliver, Rob Beckett, Josh Widdicombe
-- 2024-04-09 — S8 EP27: Chocolate Starfish and the Hotdog Flavoured Water — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-04-05 — S8 EP26: Andi & Miquita Oliver — speakers: Miquita Oliver, Lily Allen, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-04-02 — S8 EP25: The Shout-out Special — speakers: Santa Claus, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-03-29 — S8 EP24: Jonathan Ross & Honey Ross — speakers: Jonathan Ross, Honey Ross, Reel Talk, Rob Beckett, Josh Widdicombe
+- 2024-04-30 — S8 EP33: Britain's Best Chocolate Bar — speakers: Rob Beckett, Josh Widdicombe
+- 2024-04-26 — S8 EP32: LuAnna — speakers: Rob Beckett, Josh Widdicombe
+- 2024-04-23 — S8 EP31: Why Have You Done That? — speakers: Rob Beckett, Josh Widdicombe
+- 2024-04-19 — S8 EP30: Dan Nightingale — speakers: Dan Nightingale, Rob Beckett, Josh Widdicombe
+- 2024-04-16 — S8 EP29: The Craic Vac — speakers: Rob Beckett, Josh Widdicombe
+- 2024-04-12 — S8 EP28: Lily Allen — speakers: Lily Allen, Rob Beckett, Josh Widdicombe
+- 2024-04-09 — S8 EP27: Chocolate Starfish and the Hotdog Flavoured Water — speakers: Rob Beckett, Josh Widdicombe
+- 2024-04-05 — S8 EP26: Andi & Miquita Oliver — speakers: Miquita Oliver Joining, Rob Beckett, Josh Widdicombe
+- 2024-04-02 — S8 EP25: The Shout-out Special — speakers: Rob Beckett, Josh Widdicombe
+- 2024-03-29 — S8 EP24: Jonathan Ross & Honey Ross — speakers: Jonathan Ross, Honey Ross Joining, Rob Beckett, Josh Widdicombe
 - 2024-03-26 — S8 EP23: Would you touch black goo?!? — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-03-22 — S8 EP22: Simon Mayo — speakers: Simon Mayo, Mark Kermode, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-03-19 — S8 EP21: SHOW ME YOUR PANTS!! — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-03-22 — S8 EP22: Simon Mayo — speakers: Simon Mayo, Rob Beckett, Josh Widdicombe
+- 2024-03-19 — S8 EP21: SHOW ME YOUR PANTS!! — speakers: Rob Beckett, Josh Widdicombe
 - 2024-03-15 — S8 EP20: Susie Dent — speakers: Susie Dent Joining, Rob Beckett, Josh Widdicombe
-- 2024-03-12 — S8 EP19: I Don't Sleep Well After a Curry — speakers: Kate Middleton, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-03-08 — S8 EP18: Ashley Blaker — speakers: Ashley Blaker, Normal Schmormal, Rob Beckett, Josh Widdicombe
+- 2024-03-12 — S8 EP19: I Don't Sleep Well After a Curry — speakers: Rob Beckett, Josh Widdicombe
+- 2024-03-08 — S8 EP18: Ashley Blaker — speakers: Ashley Blaker, Rob Beckett, Josh Widdicombe
 - 2024-03-05 — S8 EP17: A GIRAFFE AT THE BRIT AWARDS — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-03-01 — S8 EP16: Shaun Keaveny — speakers: Shaun Keaveny, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-03-01 — S8 EP16: Shaun Keaveny — speakers: Shaun Keaveny, Rob Beckett, Josh Widdicombe
 - 2024-02-27 — S8 EP15: "Have you ever been maced?" — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-02-23 — S8 EP14: Tom Aspinall — speakers: Tom Aspinall, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-02-23 — S8 EP14: Tom Aspinall — speakers: Tom Aspinall, Rob Beckett, Josh Widdicombe
 - 2024-02-20 — S8 EP13: So Rose is away... — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-02-16 — S8 EP12: Sara Barron — speakers: Sara Barron, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-02-16 — S8 EP12: Sara Barron — speakers: Sara Barron, Rob Beckett, Josh Widdicombe
 - 2024-02-13 — S8 EP11: Any Questions Answered — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-02-09 — S8 EP10: Jason Bell — speakers: Jason Bell, Nadine Coyle, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-02-09 — S8 EP10: Jason Bell — speakers: Jason Bell, Rob Beckett, Josh Widdicombe
 - 2024-02-06 — S8 EP9: "Would you prefer to make love to me or Romesh?" — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-02-02 — S8 EP8: Laura Smyth — speakers: Laura Smyth, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-02-02 — S8 EP8: Laura Smyth — speakers: Laura Smyth, Rob Beckett, Josh Widdicombe
 - 2024-01-30 — S8 EP7: THE JANUARY BLUES — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-01-26 — S8 EP6: Miles Jupp — speakers: Miles Jupp, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-01-26 — S8 EP6: Miles Jupp — speakers: Miles Jupp, Rob Beckett, Josh Widdicombe
 - 2024-01-23 — S8 EP5: WORMS IN THE HOUSE!! — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-01-19 — S8 EP4: Romesh Ranganathan III — speakers: Ranganathan Iii, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-01-19 — S8 EP4: Romesh Ranganathan III — speakers: Ranganathan Iii, Rob Beckett, Josh Widdicombe
 - 2024-01-16 — S8 EP3: CAR PASSENGER ETIQUETTE — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-01-12 — S8 EP2: OLD SCHOOL PARENTING — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-01-09 — S8 EP1: VIKING BOY!! — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2024-01-02 — Now That's What I Call Parenting Hell - Volume 8 — speakers: Giovanna Fletcher, Jenas Parenting Hell, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-12-29 — S7 EP46: THE POST CHRISTMAS CATCH-UP — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2024-01-12 — S8 EP2: OLD SCHOOL PARENTING — speakers: Rob Beckett, Josh Widdicombe
+- 2024-01-09 — S8 EP1: VIKING BOY!! — speakers: Rob Beckett, Josh Widdicombe
+- 2024-01-02 — Now That's What I Call Parenting Hell - Volume 8 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-12-29 — S7 EP46: THE POST CHRISTMAS CATCH-UP — speakers: Rob Beckett, Josh Widdicombe
 - 2023-12-26 — S7 EP45: Scott Bennett (The Return) — speakers: Scott Bennett, Rob Beckett, Josh Widdicombe
-- 2023-12-22 — S7 EP44: "Pectus Infectio" — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-12-22 — S7 EP44: "Pectus Infectio" — speakers: Rob Beckett, Josh Widdicombe
 - 2023-12-19 — S7 EP43: Rob's manic week (Part 2) — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2023-12-15 — S7 EP42: Rob's manic week (Part 1) — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-12-12 — S7 EP41: Oily dog poop — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-12-08 — S7 EP40: Angela Scanlon — speakers: Angela Scanlon, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-12-05 — S7 EP39: Tell the truth draw a tear, tell a lie draw a smile — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-12-01 — S7 EP38: Kimberley Nixon — speakers: Kimberley Nixon, Follow Kimberley, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-12-12 — S7 EP41: Oily dog poop — speakers: Rob Beckett, Josh Widdicombe
+- 2023-12-08 — S7 EP40: Angela Scanlon — speakers: Angela Scanlon, Rob Beckett, Josh Widdicombe
+- 2023-12-05 — S7 EP39: Tell the truth draw a tear, tell a lie draw a smile — speakers: Rob Beckett, Josh Widdicombe
+- 2023-12-01 — S7 EP38: Kimberley Nixon — speakers: Kimberley Nixon, Rob Beckett, Josh Widdicombe
 - 2023-11-28 — S7 EP37: The name's Beckett, Rob Beckett... — speakers: Rob Beckett, Parenting Hell, Josh Widdicombe
-- 2023-11-24 — S7 EP36: Adam Kay — speakers: Adam Kay, Henry Paker, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-11-24 — S7 EP36: Adam Kay — speakers: Adam Kay, Rob Beckett, Josh Widdicombe
 - 2023-11-21 — S7 EP35: The Face of Shame — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-11-17 — S7 EP34: Scarlett Moffatt — speakers: Scarlett Moffatt, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-11-17 — S7 EP34: Scarlett Moffatt — speakers: Scarlett Moffatt, Rob Beckett, Josh Widdicombe
 - 2023-11-14 — S7 EP33: Milky Bad Boys — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-11-10 — S7 EP32: Kevin Bridges — speakers: Kevin Bridges, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-11-07 — S7 EP31: The Parenting Hell Mixtape — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-11-10 — S7 EP32: Kevin Bridges — speakers: Kevin Bridges, Rob Beckett, Josh Widdicombe
+- 2023-11-07 — S7 EP31: The Parenting Hell Mixtape — speakers: previous gues, Rob Beckett, Josh Widdicombe
 - 2023-11-03 — S7 EP30: "When I drink from Lou's furry cup I vomit..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2023-10-31 — S7 EP29: "Unlock your brain, man..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-10-27 — S7 EP28: Tom Skinner — speakers: Tom Skinner, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-10-27 — S7 EP28: Tom Skinner — speakers: Tom Skinner, Rob Beckett, Josh Widdicombe
 - 2023-10-24 — S7 EP27: Snuggle Calls and Wideboys — speakers: Snuggle Calls, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-10-20 — S7 EP26: James and Clair Buckley — speakers: Clair Buckley, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-10-20 — S7 EP26: James and Clair Buckley — speakers: Clair Buckley, Rob Beckett, Josh Widdicombe
 - 2023-10-17 — S7 EP25: Keep It Negative — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2023-10-13 — S7 EP24: Dame Jessica Ennis-Hill — speakers: Jessica Ennis-Hill, Rob Beckett, Josh Widdicombe
 - 2023-10-10 — S7 EP23: It's weird seeing you in person — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-10-06 — S7 EP22: Nick Frost — speakers: Nick Frost, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-10-06 — S7 EP22: Nick Frost — speakers: Nick Frost, Rob Beckett, Josh Widdicombe
 - 2023-10-03 — S7 EP21: There's been a secret coup... — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-09-29 — S7 EP20: Carol Vorderman — speakers: Carol Vorderman, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-09-29 — S7 EP20: Carol Vorderman — speakers: Carol Vorderman, Rob Beckett, Josh Widdicombe
 - 2023-09-26 — S7 EP19: How do you make your kids like each other? — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-09-22 — S7 EP18: Ed Balls — speakers: Ed Balls Joining, Ed Balls, Rob Beckett, Josh Widdicombe
+- 2023-09-22 — S7 EP18: Ed Balls — speakers: Ed Balls Joining, Rob Beckett, Josh Widdicombe
 - 2023-09-19 — S7 EP17: "Most people are awful, and most people are parents..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-09-15 — S7 EP16: Richard Osman — speakers: Richard Osman, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-09-15 — S7 EP16: Richard Osman — speakers: Richard Osman, Rob Beckett, Josh Widdicombe
 - 2023-09-12 — S7 EP15: The Most Chaotic Episode Ever — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-09-08 — S7 EP14: Jessica Fostekew — speakers: Jessica Fostekew Joining, Jessica Fostekew, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-09-08 — S7 EP14: Jessica Fostekew — speakers: Jessica Fostekew Joining, Rob Beckett, Josh Widdicombe
 - 2023-09-05 — S7 EP13: My Calves Never Get Cold — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-09-01 — S7 EP12: Jon Richardson (The Return) — speakers: Jon Richardson, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-08-29 — S7 EP11: No dot Tuesday — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-08-25 — S7 EP10: Mike Birbiglia — speakers: Mike Birbiglia, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-09-01 — S7 EP12: Jon Richardson (The Return) — speakers: Jon Richardson, Rob Beckett, Josh Widdicombe
+- 2023-08-29 — S7 EP11: No dot Tuesday — speakers: Rob Beckett, Josh Widdicombe
+- 2023-08-25 — S7 EP10: Mike Birbiglia — speakers: Mike Birbiglia, Rob Beckett, Josh Widdicombe
 - 2023-08-22 — S7 EP9: "Before you know it my d*ck is a game!..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-08-18 — S7 EP8: Joel Dommett — speakers: Joel Dommett, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-08-18 — S7 EP8: Joel Dommett — speakers: Joel Dommett, Rob Beckett, Josh Widdicombe
 - 2023-08-15 — S7 EP7: "I wake up and it all just starts again..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-08-11 — S7 EP6: Annie Mac — speakers: Annie Mac, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-08-11 — S7 EP6: Annie Mac — speakers: Annie Mac, Rob Beckett, Josh Widdicombe
 - 2023-08-08 — S7 EP5: Normal? Or not normal? — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2023-08-04 — S7 EP4: Seann Walsh (The Return) — speakers: Seann Walsh, Rob Beckett, Josh Widdicombe
 - 2023-08-01 — S7 EP3: Price check on the condoms... — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2023-07-28 — S7 EP2: Big Old Porridge Gobbler — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-07-25 — S7 EP1: Lou breaks her ankle on holiday — speakers: Stud Universe, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-07-18 — S6 EP55: Hook a suck — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-07-25 — S7 EP1: Lou breaks her ankle on holiday — speakers: Rob Beckett, Josh Widdicombe
+- 2023-07-18 — S6 EP55: Hook a suck — speakers: Father Christmas, Rob Beckett, Josh Widdicombe
 - 2023-07-14 — S6 EP54: Alex James — speakers: Alex James, Rob Beckett, Josh Widdicombe
-- 2023-07-11 — S6 EP53: 69 - 69 - 69 - 24/7 — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-07-07 — S6 EP52: Natalie Cassidy — speakers: Natalie Cassidy, Sonia Fowler, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-07-04 — S6 EP51: Children Are Bad At Things — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-06-30 — S6 EP50: David Cross — speakers: David Cross, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-06-27 — S6 EP49: His Hair Has Gone Blue! — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-06-23 — S6 EP48: "I'd love to ride a pig..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-06-20 — S6 EP47: I Love Packing — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-06-16 — S6 EP46: Jack Whitehall — speakers: Jack Whitehall, Settle Down, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-06-13 — S6 EP45: "I've got a greasy tea..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-07-11 — S6 EP53: 69 - 69 - 69 - 24/7 — speakers: Rob Beckett, Josh Widdicombe
+- 2023-07-07 — S6 EP52: Natalie Cassidy — speakers: Natalie Cassidy, Rob Beckett, Josh Widdicombe
+- 2023-07-04 — S6 EP51: Children Are Bad At Things — speakers: Rob Beckett, Josh Widdicombe
+- 2023-06-30 — S6 EP50: David Cross — speakers: David Cross, Rob Beckett, Josh Widdicombe
+- 2023-06-27 — S6 EP49: His Hair Has Gone Blue! — speakers: Rob Beckett, Josh Widdicombe
+- 2023-06-23 — S6 EP48: "I'd love to ride a pig..." — speakers: Rob Beckett, Josh Widdicombe
+- 2023-06-20 — S6 EP47: I Love Packing — speakers: Rob Beckett, Josh Widdicombe
+- 2023-06-16 — S6 EP46: Jack Whitehall — speakers: Jack Whitehall, Rob Beckett, Josh Widdicombe
+- 2023-06-13 — S6 EP45: "I've got a greasy tea..." — speakers: Rob Beckett, Josh Widdicombe
 - 2023-06-09 — S6 EP44: Scott Bennett — speakers: Scott Bennett, Rob Beckett, Josh Widdicombe
-- 2023-06-06 — S6 EP43: What is time? (Redux) — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-06-06 — S6 EP43: What is time? (Redux) — speakers: Rob Beckett, Josh Widdicombe
 - 2023-06-02 — S6 EP42: Rick Edwards — speakers: Rick Edwards, Rob Beckett, Josh Widdicombe
 - 2023-05-30 — S6 EP41: Josh loses his phone... — speakers: Rob Beckett, Josh Widdicombe
-- 2023-05-26 — S6 EP40: Peter Andre — speakers: Peter Andre, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-05-26 — S6 EP40: Peter Andre — speakers: Peter Andre, Rob Beckett, Josh Widdicombe
 - 2023-05-23 — S6 EP39: Hashbrowning — speakers: Rob Beckett, Josh Widdicombe
-- 2023-05-19 — S6 EP38: Omid Djalili — speakers: Djalili Omid, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-05-19 — S6 EP38: Omid Djalili — speakers: Omid Djalili Joining, Rob Beckett, Josh Widdicombe
 - 2023-05-16 — S6 EP37: Hand vs. Kettle — speakers: Rob Beckett, Josh Widdicombe
 - 2023-05-12 — S6 EP36: Alastair Campbell — speakers: Alastair Campbell, Rob Beckett, Josh Widdicombe
-- 2023-05-09 — S6 EP35: Mike Bubbins — speakers: Mike Bubbins, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-05-05 — S6 EP34: Jim Jefferies — speakers: Jim Jefferies, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-05-09 — S6 EP35: Mike Bubbins — speakers: Mike Bubbins, Rob Beckett, Josh Widdicombe
+- 2023-05-05 — S6 EP34: Jim Jefferies — speakers: Jim Jefferies, Rob Beckett, Josh Widdicombe
 - 2023-05-02 — S6 EP33: We need to talk about 'The Pile' — speakers: Rob Beckett, Josh Widdicombe
-- 2023-04-28 — S6 EP32: George Foreman — speakers: George Foreman, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-04-28 — S6 EP32: George Foreman — speakers: George Foreman, Rob Beckett, Josh Widdicombe
 - 2023-04-25 — S6 EP31: Paint me like one of your French girls... — speakers: Rob Beckett, Josh Widdicombe
 - 2023-04-21 — S6 EP30: I accidentally weed in the bidet... — speakers: Rob Beckett, Josh Widdicombe
 - 2023-04-18 — S6 EP29: The one where Rob has several automobile disasters — speakers: Rob Beckett, Josh Widdicombe
-- 2023-04-14 — S6 EP28: JB Gill — speakers: JB Gill, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-04-14 — S6 EP28: JB Gill — speakers: JB Gill, Rob Beckett, Josh Widdicombe
 - 2023-04-11 — S6 EP27: Self-Care — speakers: Rob Beckett, Josh Widdicombe
 - 2023-04-07 — S6 EP26: Samuel L. Joshson — speakers: Rob Beckett, Josh Widdicombe
 - 2023-04-04 — S6 EP25: The Low Performance Podcast — speakers: Rob Beckett, Josh Widdicombe
-- 2023-03-31 — S6 EP24: Fin Taylor — speakers: Fin Taylor, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-03-31 — S6 EP24: Fin Taylor — speakers: Fin Taylor, Rob Beckett, Josh Widdicombe
 - 2023-03-28 — S6 EP23: Never open a taped up fridge... — speakers: Rob Beckett, Josh Widdicombe
-- 2023-03-24 — S6 EP22: Rose Hanson — speakers: Rose Hanson Lou, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2023-03-24 — S6 EP22: Rose Hanson — speakers: Rose Hanson Lou, Rob Beckett, Josh Widdicombe
 - 2023-03-21 — S6 EP21: I had no idea where my children were... — speakers: Rob Beckett, Josh Widdicombe
-- 2023-03-17 — S6 EP20: Alex Jones — speakers: Alex Jones, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-03-17 — S6 EP20: Alex Jones — speakers: Alex Jones, Rob Beckett, Josh Widdicombe
 - 2023-03-14 — S6 EP19: The one where Josh isn't worried about turning 40.... — speakers: Rob Beckett, Josh Widdicombe
-- 2023-03-10 — S6 EP18: Tom Daley — speakers: Tom Daley, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-03-10 — S6 EP18: Tom Daley — speakers: Tom Daley, Rob Beckett, Josh Widdicombe
 - 2023-03-07 — S6 EP17: Zen and the Art of Screaming Into a Pillow... — speakers: Rob Beckett, Josh Widdicombe
-- 2023-03-03 — S6 EP16: Sara Cox — speakers: Sara Cox, Cox Show, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-03-03 — S6 EP16: Sara Cox — speakers: Sara Cox, Rob Beckett, Josh Widdicombe
 - 2023-02-28 — S6 EP15: Stiff Neck Tales From The Tour — speakers: Rob Beckett, Josh Widdicombe
-- 2023-02-24 — S6 EP14: Suzi Ruffell — speakers: Suzi Ruffell, Tom Allen, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-02-24 — S6 EP14: Suzi Ruffell — speakers: Suzi Ruffell, Rob Beckett, Josh Widdicombe
 - 2023-02-21 — S6 EP13: Playdate From Hell — speakers: Rob Beckett, Josh Widdicombe
 - 2023-02-17 — S6 EP12: Poodles and Noodles — speakers: Rob Beckett, Josh Widdicombe
-- 2023-02-14 — S6 EP11: Lou Beckett (The Valentine's Day Special) — speakers: Lou Beckett, Valentine’s Day, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-02-10 — S6 EP10: Cariad Lloyd — speakers: Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-02-14 — S6 EP11: Lou Beckett (The Valentine's Day Special) — speakers: Lou Beckett, Valentine’s Day, Rob Beckett, Josh Widdicombe
+- 2023-02-10 — S6 EP10: Cariad Lloyd — speakers: Cariad Lloyd Joining, Rob Beckett, Josh Widdicombe
 - 2023-02-07 — S6 EP9: What's the worst smell you've ever smelt? — speakers: Rob Beckett, Josh Widdicombe
-- 2023-02-03 — S6 EP8: Sam and Billie Faiers — speakers: Billie Faiers, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-02-03 — S6 EP8: Sam and Billie Faiers — speakers: Billie Faiers, Rob Beckett, Josh Widdicombe
 - 2023-01-31 — S6 EP7: The day that goes badly wrong.... — speakers: Rob Beckett, Josh Widdicombe
-- 2023-01-27 — S6 EP6: David Gandy — speakers: David Gandy, Shop David, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-01-27 — S6 EP6: David Gandy — speakers: David Gandy, Rob Beckett, Josh Widdicombe
 - 2023-01-24 — S6 EP5: "We want mummy back!" — speakers: Rob Beckett, Josh Widdicombe
-- 2023-01-20 — S6 EP4: Alesha Dixon — speakers: Alesha Dixon, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2023-01-20 — S6 EP4: Alesha Dixon — speakers: Alesha Dixon, Rob Beckett, Josh Widdicombe
 - 2023-01-17 — S6 EP3: The One Where Lou Goes to New York... — speakers: Rob Beckett, Josh Widdicombe
 - 2023-01-13 — S6 EP2: Tales of Terror From Tenerife — speakers: Rob Beckett, Josh Widdicombe
 - 2023-01-10 — S6 EP1: My Son Hates His Own Home — speakers: Rob Beckett, Josh Widdicombe
-- 2023-01-03 — Now That's What I Call Parenting Hell - Volume 6 — speakers: Tom Parry, Nadiya Hussain, Michael Sheen, Joe Swash, Rob Beckett, Josh Widdicombe
+- 2023-01-03 — Now That's What I Call Parenting Hell - Volume 6 — speakers: Call Parenting Hell, Happy New Year, Rob Beckett, Josh Widdicombe
 - 2022-12-30 — S05 EP46: Bum hole, bits, and willy... — speakers: Rob Beckett, Josh Widdicombe
 - 2022-12-29 — S05 EP45: Let the Christmas (Alarm) bells ring... — speakers: Rob Beckett, Josh Widdicombe
-- 2022-12-23 — S05 EP44: Seann Walsh — speakers: Seann Walsh, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2022-12-23 — S05 EP44: Seann Walsh — speakers: Seann Walsh, Rob Beckett, Josh Widdicombe
 - 2022-12-20 — S05 EP43: The Sad Dads Disco — speakers: Rob Beckett, Josh Widdicombe
-- 2022-12-16 — S05 EP42: Jarred Christmas (The Return) — speakers: Rob Josh, Rob Beckett, Josh Widdicombe
+- 2022-12-16 — S05 EP42: Jarred Christmas (The Return) — speakers: Jarred Christmas, Rob Beckett, Josh Widdicombe
 - 2022-12-13 — S05 EP41: Thanks to Lou. Apologies to Rose. — speakers: Rob Beckett, Josh Widdicombe
-- 2022-12-09 — S05 EP40: Adrian Chiles — speakers: Adrian Chiles Joining, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2022-12-09 — S05 EP40: Adrian Chiles — speakers: Adrian Chiles Joining, Rob Beckett, Josh Widdicombe
 - 2022-12-06 — S05 EP39: How is this my job? — speakers: Rob Beckett, Josh Widdicombe
-- 2022-12-02 — S05 EP38:Tom Parry (The Return) — speakers: Tom Parry, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2022-12-02 — S05 EP38:Tom Parry (The Return) — speakers: Tom Parry, Rob Beckett, Josh Widdicombe
 - 2022-11-29 — S05 EP37: My Bowel Movements Are Still Jet-Lagged — speakers: Rob Beckett, Josh Widdicombe
-- 2022-11-25 — S05 EP36: Joe Wilkinson — speakers: Joe Wilkinson, David Earl, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2022-11-25 — S05 EP36: Joe Wilkinson — speakers: Joe Wilkinson, Rob Beckett, Josh Widdicombe
 - 2022-11-22 — S05 EP35: You've Gone To Another Dimension — speakers: Rob Beckett, Josh Widdicombe
-- 2022-11-18 — S05 EP34: Dan Schreiber — speakers: Dan Schreiber, Rob Josh, Rob Beckett, Josh Widdicombe
-- 2022-11-15 — S05 EP33: Adventures In Babysitting — speakers: Top Knot Debate, Rob Beckett, Josh Widdicombe
-- 2022-11-11 — S05 EP32: Giovanna Fletcher — speakers: Giovanna Fletcher, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2022-11-18 — S05 EP34: Dan Schreiber — speakers: Dan Schreiber, Rob Beckett, Josh Widdicombe
+- 2022-11-15 — S05 EP33: Adventures In Babysitting — speakers: Rob Beckett, Josh Widdicombe
+- 2022-11-11 — S05 EP32: Giovanna Fletcher — speakers: Giovanna Fletcher, Rob Beckett, Josh Widdicombe
 - 2022-11-08 — S05 EP31: Sideways Like A Crab — speakers: Rob Beckett, Josh Widdicombe
-- 2022-11-04 — S05 EP30: Simon Gregson — speakers: Simon Gregson, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2022-11-04 — S05 EP30: Simon Gregson — speakers: Simon Gregson, Rob Beckett, Josh Widdicombe
 - 2022-11-01 — S05 EP29: Welcome To The Thunderdome... — speakers: Rob Beckett, Josh Widdicombe
-- 2022-10-28 — S05 EP28: Anton Du Beke — speakers: Anton Du Beke, Rob Josh, Rob Beckett, Josh Widdicombe
-- 2022-10-25 — S05 EP27: Gary Neville — speakers: Gary Neville, Arena Wembley, Roy Keane, Jamie Carragher tickets, Rob Josh, Rob Beckett, Josh Widdicombe
-- 2022-10-21 — S05 EP26: Rachel Parris — speakers: Rachel Parris, Rob Josh, Rob Beckett, Josh Widdicombe
+- 2022-10-28 — S05 EP28: Anton Du Beke — speakers: Anton Du Beke, Rob Beckett, Josh Widdicombe
+- 2022-10-25 — S05 EP27: Gary Neville — speakers: Gary Neville, Rob Beckett, Josh Widdicombe
+- 2022-10-21 — S05 EP26: Rachel Parris — speakers: Rachel Parris, Rob Beckett, Josh Widdicombe
 - 2022-10-18 — S05 EP25: Brown Noise And Temperature Guns — speakers: Brown Noise, Rob Beckett, Josh Widdicombe
-- 2022-10-14 — S05 EP24: Fearne Cotton — speakers: Rob Josh, Rob Beckett, Josh Widdicombe
-- 2022-10-11 — S05 EP23: I Don't Want To Be A Diva.... — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-10-07 — S05 EP22: Denise Welch — speakers: Denise Welch, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-10-04 — S05 EP21: Mind the darts, kids.... — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-30 — S05 EP20: Stacey Solomon — speakers: Stacey Solomon Joining, Stacey Solomon, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-27 — S05 EP19: You Sound Like You're Dying.... (The Hangover Special) — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-23 — S05 EP18: Myleene Klass — speakers: Myleene Klass, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-20 — S05 EP17: Tears At Drop-Off — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-16 — S05 EP16: Guz Khan — speakers: Catch Guz, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-13 — S05 EP15: The Coolest Nerd And The Nerdiest Lad — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-12 — S05 EP14: Kelly Convey — speakers: Kelly Convey, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-06 — S05 EP13: You can't send me to prison — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-09-02 — S05 EP12: Nihal Arthanayake — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-08-30 — S05 EP11: 'Grant me the serenity to accept the things I cannot change...' — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-08-19 — S05 EP10: Brian Conley — speakers: Brian Conley, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-08-17 — S05 EP9: Take it easy, Playa... — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-08-12 — S05 EP8: Martin Lewis — speakers: Martin Lewis, Lewis Cbe, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-08-09 — S05 EP7: A Helicopter Ride With The Bishop — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-08-05 — S05 EP6: Sara Pascoe — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-08-02 — S05 EP5: "This is no way for us to live, Rob..." — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-07-29 — S05 EP4: Romesh Ranganathan (The Return) — speakers: Tom Davis, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-07-26 — S05 EP3: The One Where Lou Has Her Appendix Out — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-07-22 — S05 EP2: Julian Deane — speakers: Julian Deane, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-07-19 — S05 EP1: The Heatwave (and Post Holiday) Breakdown Special — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-07-12 — Now That's What I Call Parenting Hell - Volume 4 — speakers: Sindhu Vee, David Baddiel, Mark Watson, Carl Donnelly, Doc Brown, Rob Beckett, Josh Widdicombe
-- 2022-07-11 — S04 EP46: The Fact Monster Has Arrived — speakers: Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-07-05 — S04 EP45: The Glastonbury and Ibiza Stag-Do Special — speakers: Ibiza Stag-Do Special, Rob Josh Big News, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-07-01 — S04 EP44: Josh Pugh — speakers: Josh Pugh, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-06-28 — S04 EP43: "We're the bad guys!...." — speakers: Rob Josh Big News, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-06-24 — S04 EP42: David Earl — speakers: David Earl, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-06-21 — S04 EP41: Fee - Fi - Pho - Mum — speakers: Rob Josh Big News, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-06-17 — S04 EP40: Katherine Ryan (The Return) — speakers: Katherine Ryan, Parenting Hell, Rob Josh, Rob Beckett, Josh Widdicombe
-- 2022-06-14 — S04 EP39: The One Where Josh Loses The Cat... — speakers: Rob Josh Big News, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-06-10 — S04 EP38: Rich Wilson — speakers: Rich Wilson, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-06-07 — S04 EP37: There's been a lot of chat about death... — speakers: Rob Josh Big News, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-06-03 — S04 EP36: Conor Benn — speakers: Benn Joining, Conor Benn, Nigel Benn, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-31 — S04 EP35: Josh, I don't like the sound of your life... — speakers: Rob Josh Big News, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-27 — S04 EP34: Esther Manito — speakers: Esther Manito, Rob Josh, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-24 — S04 EP33: Dr Prepare will see you now... — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-20 — S04 EP32: Hanson — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-17 — S04 EP31: The One Where Josh Wakes The Baby (Whilst Recording The Podcast) — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-13 — S04 EP30: James Bay — speakers: James Bay, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-10 — S04 EP29: "Mummy went out for c*ck..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-06 — S04 EP28: Tom Craine — speakers: Tom Craine, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-05-03 — S04 EP27: The One Where Josh Google's himself... — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-04-29 — S04 EP26: Mickey Mouse (The Disney World Special) — speakers: Mickey Mouse, Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-04-26 — S04 EP25: Florida Flight Disaster — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2022-04-23 — Now That's What I Call Parenting Hell - Volume 3 — speakers: Jo Brand, Ivo Graham, Peter Crouch, Nadiya Hussain, Alan Davies, Rob Beckett, Josh Widdicombe
-- 2022-04-19 — Now That's What I Call Parenting Hell - Volume 2 — speakers: Chris Ramsey, Rosie Ramsey, Russell Kane, Elis James, Rob Beckett, Josh Widdicombe
+- 2022-10-14 — S05 EP24: Fearne Cotton — speakers: Fearne Cotton Joining, Rob Beckett, Josh Widdicombe
+- 2022-10-11 — S05 EP23: I Don't Want To Be A Diva.... — speakers: Rob Beckett, Josh Widdicombe
+- 2022-10-07 — S05 EP22: Denise Welch — speakers: Denise Welch, Rob Beckett, Josh Widdicombe
+- 2022-10-04 — S05 EP21: Mind the darts, kids.... — speakers: Rob Beckett, Josh Widdicombe
+- 2022-09-30 — S05 EP20: Stacey Solomon — speakers: Stacey Solomon Joining, Rob Beckett, Josh Widdicombe
+- 2022-09-27 — S05 EP19: You Sound Like You're Dying.... (The Hangover Special) — speakers: Rob Beckett, Josh Widdicombe
+- 2022-09-23 — S05 EP18: Myleene Klass — speakers: Myleene Klass, Rob Beckett, Josh Widdicombe
+- 2022-09-20 — S05 EP17: Tears At Drop-Off — speakers: Rob Beckett, Josh Widdicombe
+- 2022-09-16 — S05 EP16: Guz Khan — speakers: Rob Beckett, Josh Widdicombe
+- 2022-09-13 — S05 EP15: The Coolest Nerd And The Nerdiest Lad — speakers: Rob Beckett, Josh Widdicombe
+- 2022-09-12 — S05 EP14: Kelly Convey — speakers: Kelly Convey, Rob Beckett, Josh Widdicombe
+- 2022-09-06 — S05 EP13: You can't send me to prison — speakers: Rob Beckett, Josh Widdicombe
+- 2022-09-02 — S05 EP12: Nihal Arthanayake — speakers: Nihal Arthanayake Joining, Rob Beckett, Josh Widdicombe
+- 2022-08-30 — S05 EP11: 'Grant me the serenity to accept the things I cannot change...' — speakers: Rob Beckett, Josh Widdicombe
+- 2022-08-19 — S05 EP10: Brian Conley — speakers: Brian Conley, Rob Beckett, Josh Widdicombe
+- 2022-08-17 — S05 EP9: Take it easy, Playa... — speakers: Rob Beckett, Josh Widdicombe
+- 2022-08-12 — S05 EP8: Martin Lewis — speakers: Martin Lewis, Rob Beckett, Josh Widdicombe
+- 2022-08-09 — S05 EP7: A Helicopter Ride With The Bishop — speakers: Rob Beckett, Josh Widdicombe
+- 2022-08-05 — S05 EP6: Sara Pascoe — speakers: Sara Pascoe Joining, Rob Beckett, Josh Widdicombe
+- 2022-08-02 — S05 EP5: "This is no way for us to live, Rob..." — speakers: Rob Beckett, Josh Widdicombe
+- 2022-07-29 — S05 EP4: Romesh Ranganathan (The Return) — speakers: Rob Beckett, Josh Widdicombe
+- 2022-07-26 — S05 EP3: The One Where Lou Has Her Appendix Out — speakers: Rob Beckett, Josh Widdicombe
+- 2022-07-22 — S05 EP2: Julian Deane — speakers: Julian Deane, Rob Beckett, Josh Widdicombe
+- 2022-07-19 — S05 EP1: The Heatwave (and Post Holiday) Breakdown Special — speakers: Rob Beckett, Josh Widdicombe
+- 2022-07-12 — Now That's What I Call Parenting Hell - Volume 4 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2022-07-11 — S04 EP46: The Fact Monster Has Arrived — speakers: Rob Beckett, Josh Widdicombe
+- 2022-07-05 — S04 EP45: The Glastonbury and Ibiza Stag-Do Special — speakers: Ibiza Stag-Do Special, Rob Beckett, Josh Widdicombe
+- 2022-07-01 — S04 EP44: Josh Pugh — speakers: Josh Pugh, Rob Beckett, Josh Widdicombe
+- 2022-06-28 — S04 EP43: "We're the bad guys!...." — speakers: Rob Beckett, Josh Widdicombe
+- 2022-06-24 — S04 EP42: David Earl — speakers: David Earl, Rob Beckett, Josh Widdicombe
+- 2022-06-21 — S04 EP41: Fee - Fi - Pho - Mum — speakers: Rob Beckett, Josh Widdicombe
+- 2022-06-17 — S04 EP40: Katherine Ryan (The Return) — speakers: Katherine Ryan, Rob Beckett, Josh Widdicombe
+- 2022-06-14 — S04 EP39: The One Where Josh Loses The Cat... — speakers: Rob Beckett, Josh Widdicombe
+- 2022-06-10 — S04 EP38: Rich Wilson — speakers: Rich Wilson, Rob Beckett, Josh Widdicombe
+- 2022-06-07 — S04 EP37: There's been a lot of chat about death... — speakers: Rob Beckett, Josh Widdicombe
+- 2022-06-03 — S04 EP36: Conor Benn — speakers: Benn Joining, Rob Beckett, Josh Widdicombe
+- 2022-05-31 — S04 EP35: Josh, I don't like the sound of your life... — speakers: Rob Beckett, Josh Widdicombe
+- 2022-05-27 — S04 EP34: Esther Manito — speakers: Esther Manito, Rob Beckett, Josh Widdicombe
+- 2022-05-24 — S04 EP33: Dr Prepare will see you now... — speakers: Rob Beckett, Josh Widdicombe
+- 2022-05-20 — S04 EP32: Hanson — speakers: Hanson Joining, Rob Beckett, Josh Widdicombe
+- 2022-05-17 — S04 EP31: The One Where Josh Wakes The Baby (Whilst Recording The Podcast) — speakers: Rob Beckett, Josh Widdicombe
+- 2022-05-13 — S04 EP30: James Bay — speakers: James Bay, Rob Beckett, Josh Widdicombe
+- 2022-05-10 — S04 EP29: "Mummy went out for c*ck..." — speakers: Rob Beckett, Josh Widdicombe
+- 2022-05-06 — S04 EP28: Tom Craine — speakers: Tom Craine, Rob Beckett, Josh Widdicombe
+- 2022-05-03 — S04 EP27: The One Where Josh Google's himself... — speakers: Rob Beckett, Josh Widdicombe
+- 2022-04-29 — S04 EP26: Mickey Mouse (The Disney World Special) — speakers: Mickey Mouse, Rob Beckett, Josh Widdicombe
+- 2022-04-26 — S04 EP25: Florida Flight Disaster — speakers: Rob Beckett, Josh Widdicombe
+- 2022-04-23 — Now That's What I Call Parenting Hell - Volume 3 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
+- 2022-04-19 — Now That's What I Call Parenting Hell - Volume 2 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2022-04-15 — S04 EP24: Kate Ferdinand — speakers: Kate Ferdinand, Rob Beckett, Josh Widdicombe
 - 2022-04-12 — S04 EP23: Why is my life so rubbish? — speakers: Rob Beckett, Josh Widdicombe
 - 2022-04-08 — S04 EP22: Bill Bailey — speakers: Bill Bailey, Rob Beckett, Josh Widdicombe
@@ -12770,39 +12305,39 @@
 - 2022-04-01 — S04 EP20: Ben Mee — speakers: Ben Mee, Rob Beckett, Josh Widdicombe
 - 2022-03-29 — S04 EP19: "How many whippets have you got out of a fence?..." — speakers: Rob Beckett, Josh Widdicombe
 - 2022-03-25 — S04 EP18: Kate Lawler — speakers: Kate Lawler, Rob Beckett, Josh Widdicombe
-- 2022-03-22 — S04 EP17: THE MOST CRAZY EPISODE EVER?!?! — speakers: Manchester Arena, Rob Beckett, Josh Widdicombe
-- 2022-03-17 — S04 EP16: Joe Wicks — speakers: Joe Wicks, Manchester Arena, Rob Beckett, Josh Widdicombe
-- 2022-03-14 — S04 EP15: This is a sad episode, isn't it? — speakers: Manchester Arena, Rob Beckett, Josh Widdicombe
-- 2022-03-11 — S04 EP14: Tom Davis — speakers: Tom Davis, Manchester Arena, Rob Beckett, Josh Widdicombe
-- 2022-03-08 — S04 EP13: The One Where Rob Helps Out On A School Trip — speakers: Rob Helps Out, Manchester Arena, Rob Beckett, Josh Widdicombe
-- 2022-03-04 — S04 EP12: Jermaine Jenas — speakers: Jenas Joining, Manchester Arena, Rob Beckett, Josh Widdicombe
-- 2022-02-28 — S04 EP11: "Rob, I only woke up five minutes before this..." — speakers: Manchester Arena, Rob Beckett, Josh Widdicombe
-- 2022-02-25 — S04 EP10: Harriet Kemsley — speakers: Harriet Kemsley Joining, Harriet Kemsley, Rob Beckett, Josh Widdicombe
+- 2022-03-22 — S04 EP17: THE MOST CRAZY EPISODE EVER?!?! — speakers: Rob Beckett, Josh Widdicombe
+- 2022-03-17 — S04 EP16: Joe Wicks — speakers: Joe Wicks, Rob Beckett, Josh Widdicombe
+- 2022-03-14 — S04 EP15: This is a sad episode, isn't it? — speakers: Rob Beckett, Josh Widdicombe
+- 2022-03-11 — S04 EP14: Tom Davis — speakers: Tom Davis, Rob Beckett, Josh Widdicombe
+- 2022-03-08 — S04 EP13: The One Where Rob Helps Out On A School Trip — speakers: Rob Helps Out, Rob Beckett, Josh Widdicombe
+- 2022-03-04 — S04 EP12: Jermaine Jenas — speakers: Jenas Joining, Rob Beckett, Josh Widdicombe
+- 2022-02-28 — S04 EP11: "Rob, I only woke up five minutes before this..." — speakers: Rob Beckett, Josh Widdicombe
+- 2022-02-25 — S04 EP10: Harriet Kemsley — speakers: Harriet Kemsley Joining, Rob Beckett, Josh Widdicombe
 - 2022-02-22 — S04 EP9: A Phantom Blanking — speakers: Rob Beckett, Josh Widdicombe
 - 2022-02-18 — S04 EP8: Adam Buxton — speakers: Adam Buxton, Rob Beckett, Josh Widdicombe
 - 2022-02-15 — S04 EP7: New shoes vicar? — speakers: Rob Beckett, Josh Widdicombe
 - 2022-02-11 — S04 EP6: Adam Hills — speakers: Adam Hills, Rob Beckett, Josh Widdicombe
-- 2022-02-08 — S04 EP5: Parental Lock Fail — speakers: com Enjoy, Rob Beckett, Josh Widdicombe
+- 2022-02-08 — S04 EP5: Parental Lock Fail — speakers: Rob Beckett, Josh Widdicombe
 - 2022-02-01 — S04 EP4: That's a step up from a bin... — speakers: Rob Beckett, Josh Widdicombe
-- 2022-01-25 — S04 EP3: "What is time?..." — speakers: uk Enjoy, Rob Beckett, Josh Widdicombe
+- 2022-01-25 — S04 EP3: "What is time?..." — speakers: Rob Beckett, Josh Widdicombe
 - 2022-01-18 — S04 EP2: No bath since Brexit... — speakers: Rob Beckett, Josh Widdicombe
-- 2022-01-16 — Now That's What I Call Parenting Hell - Volume 1 — speakers: Tik Tok, Katherine Ryan, Jon Richardson, Lucy Beaumont, Ellie Taylor, Twin Town, Jack Dee, Daisy May Cooper, Rob Beckett, Josh Widdicombe
+- 2022-01-16 — Now That's What I Call Parenting Hell - Volume 1 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2022-01-11 — S04 EP1: The boys are back in town... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-12-24 — S03 EP48: Twas the night before Christmas... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-12-21 — S03 EP47: The one where Josh gets Covid... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-12-17 — S03 EP46: Martine McCutcheon — speakers: Martine McCutcheon, Rob Beckett, Josh Widdicombe
-- 2021-12-14 — S03 EP45: I'm entering a new phase of parenting... — speakers: com Enjoy, Rob Beckett, Josh Widdicombe
+- 2021-12-14 — S03 EP45: I'm entering a new phase of parenting... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-12-10 — S03 EP44: Ugo Monye — speakers: Ugo Monye, Rob Beckett, Josh Widdicombe
-- 2021-12-07 — S03 EP43: The Laddy Special — speakers: Joe Rogan, Rob Beckett, Josh Widdicombe
+- 2021-12-07 — S03 EP43: The Laddy Special — speakers: Rob Beckett, Josh Widdicombe
 - 2021-12-03 — S03 EP42 - Louis Theroux — speakers: Louis Theroux, Rob Beckett, Josh Widdicombe
 - 2021-11-30 — S03 EP41: Do you want me to ring my mum? — speakers: Rob Beckett, Josh Widdicombe
 - 2021-11-26 — S03 EP40 - Ian 'H from Steps' Watkins — speakers: Rob Beckett, Josh Widdicombe
 - 2021-11-23 — S03 EP39: "Can you ice a vagina?..." — speakers: Rob Beckett, Josh Widdicombe
-- 2021-11-19 — S03 EP38: Paris Fury — speakers: Rob Beckett, Josh Widdicombe
+- 2021-11-19 — S03 EP38: Paris Fury — speakers: Paris Fury, Paris Fury Joining, Rob Beckett, Josh Widdicombe
 - 2021-11-16 — S03 EP37: My back went holding the baby! — speakers: Rob Beckett, Josh Widdicombe
 - 2021-11-12 — S03 EP36: Sophie Ellis-Bextor — speakers: Rob Beckett, Josh Widdicombe
 - 2021-11-09 — S03 EP35: You can't put a nappy on a dog... — speakers: Rob Beckett, Josh Widdicombe
-- 2021-11-05 — S03 EP34: Harry Hill — speakers: Harry Hill, Harry Hill Harry, Rob Beckett, Josh Widdicombe
+- 2021-11-05 — S03 EP34: Harry Hill — speakers: Harry Hill, Rob Beckett, Josh Widdicombe
 - 2021-11-02 — S03 EP33: Can we start with the f**king clocks.... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-10-29 — S03 EP32: Jimmy Carr — speakers: Jimmy Carr, Rob Beckett, Josh Widdicombe
 - 2021-10-26 — S03 EP31: Have you taken magic mushrooms?... — speakers: Rob Beckett, Josh Widdicombe
@@ -12810,17 +12345,17 @@
 - 2021-10-19 — S03 EP29: Faking a hamster's death... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-10-15 — S03 EP28: Michael McIntyre — speakers: Michael McIntyre, Rob Beckett, Josh Widdicombe
 - 2021-10-12 — S03 EP27: I hate my life... — speakers: Rob Beckett, Josh Widdicombe
-- 2021-10-08 — S03 EP26: Charlotte Church — speakers: Rob Beckett, Josh Widdicombe
+- 2021-10-08 — S03 EP26: Charlotte Church — speakers: Charlotte Church, Charlotte Church Joining, Rob Beckett, Josh Widdicombe
 - 2021-10-05 — S03 EP25: We're getting a dog, Josh! — speakers: Rob Beckett, Josh Widdicombe
-- 2021-10-01 — S03 EP24: Lucy Beaumont (The Return) — speakers: Lucy Beaumont, Drinking Custard, Rob Beckett, Josh Widdicombe
-- 2021-09-28 — S03 EP23: Viva La bath time revolution — speakers: Rob Beckett, Josh Widdicombe
+- 2021-10-01 — S03 EP24: Lucy Beaumont (The Return) — speakers: Lucy Beaumont, Rob Beckett, Josh Widdicombe
+- 2021-09-28 — S03 EP23: Viva La bath time revolution — speakers: Viva La, Viva La Bath, Revolution More, Rob Beckett, Josh Widdicombe
 - 2021-09-24 — S03 EP22: I think you need to go cold turkey from your life... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-09-21 — S03 EP21: My sweat has started to smell different... — speakers: Rob Beckett, Josh Widdicombe
-- 2021-09-17 — S03 EP20: Stephen Mangan — speakers: Stephen Mangan, Anita Mangan, Rob Beckett, Josh Widdicombe
+- 2021-09-17 — S03 EP20: Stephen Mangan — speakers: Stephen Mangan, Rob Beckett, Josh Widdicombe
 - 2021-09-14 — S03 EP19: The worst week ever... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-09-10 — S03 EP18: Game recognises game... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-09-07 — S03 EP17: Dreams do come true... — speakers: Rob Beckett, Josh Widdicombe
-- 2021-09-03 — S03 EP16: Geoff Norcott — speakers: Josh Widdicombe'S, Geoff Norcott, Thanks Rob, Rob Beckett, Josh Widdicombe
+- 2021-09-03 — S03 EP16: Geoff Norcott — speakers: Josh Widdicombe'S, Geoff Norcott, Rob Beckett, Josh Widdicombe
 - 2021-08-31 — S03 EP15: The Emotional Breakdown Special — speakers: Rob Beckett, Josh Widdicombe
 - 2021-08-27 — S03 EP14: Frankie Bridge — speakers: Frankie Bridge, Rob Beckett, Josh Widdicombe
 - 2021-08-24 — S03 EP13: Having two kids is an admin nightmare... — speakers: Rob Beckett, Josh Widdicombe
@@ -12828,22 +12363,22 @@
 - 2021-08-17 — S03 EP11: "Did you audition for The Hobbit?..." — speakers: Rob Beckett, Josh Widdicombe
 - 2021-08-13 — S03 EP10: Pat Sharp — speakers: Pat Sharp, Rob Beckett, Josh Widdicombe
 - 2021-08-10 — S03 EP9: "She let a Rottweiler lick her face!...." — speakers: Rob Beckett, Josh Widdicombe
-- 2021-08-06 — S03 EP8: Babatundé Aléshé — speakers: Babatundé Aléshé, Gogglebox Babatundé Aléshé, Rob Beckett, Josh Widdicombe
+- 2021-08-06 — S03 EP8: Babatundé Aléshé — speakers: Babatundé Aléshé, Rob Beckett, Josh Widdicombe
 - 2021-08-04 — S03 EP7: "Sometimes you've got to engage the stiffy..." — speakers: Rob Beckett, Josh Widdicombe
-- 2021-07-30 — S03 EP6: Isy Suttie (The Return) — speakers: Rob Beckett, Josh Widdicombe
+- 2021-07-30 — S03 EP6: Isy Suttie (The Return) — speakers: Isy Suttie, Rob Beckett, Josh Widdicombe
 - 2021-07-26 — S03 EP5: She hates me... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-07-24 — S03 EP4: Ellie Taylor (The Return) — speakers: Ellie Taylor, Rob Beckett, Josh Widdicombe
 - 2021-07-19 — S03 EP3: "Dad, have you got milk in those big nipples?..." — speakers: Rob Beckett, Josh Widdicombe
 - 2021-07-15 — S03 EP2: Mike Wozniak — speakers: Mike Wozniak, Rob Beckett, Josh Widdicombe
 - 2021-07-13 — S03 EP1: The morning after the night before... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-06-15 — S02 EP42: You better tell your therapist about this... — speakers: Rob Beckett, Josh Widdicombe
-- 2021-06-11 — S02 EP41: Paul McCaffrey — speakers: Paul McCaffrey, Paul McCaffrey Enjoy, Rob Beckett, Josh Widdicombe
+- 2021-06-11 — S02 EP41: Paul McCaffrey — speakers: Paul McCaffrey, Rob Beckett, Josh Widdicombe
 - 2021-06-07 — S02 EP40: Three words... Rob Beckett's mum... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-06-04 — S02 EP39: Helen Russell — speakers: Helen Russell, Rob Beckett, Josh Widdicombe
 - 2021-06-01 — S02 EP38: Am I being a Karen? — speakers: Rob Beckett, Josh Widdicombe
 - 2021-05-28 — S02 EP37: Abbey Clancy — speakers: Abbey Clancy, Abbey Clancy Joining, Rob Beckett, Josh Widdicombe
 - 2021-05-25 — S02 EP36: An Apology... — speakers: Rob Beckett, Josh Widdicombe
-- 2021-05-20 — S02 EP35: Iain Stirling — speakers: Laura Whitmore, Rob Beckett, Josh Widdicombe
+- 2021-05-20 — S02 EP35: Iain Stirling — speakers: Iain Stirling, Iain Stirling Joining, Rob Beckett, Josh Widdicombe
 - 2021-05-18 — S02 EP34: The new baby is here!! — speakers: Rob Beckett, Josh Widdicombe
 - 2021-05-14 — S02 EP33: Sam Quek — speakers: Sam Quek, Rob Beckett, Josh Widdicombe
 - 2021-05-11 — S02 EP32: The one where Rob gets a snack station... — speakers: Rob Beckett, Josh Widdicombe
@@ -12853,14 +12388,14 @@
 - 2021-04-27 — S02 EP28: "This is only going to get worse..." — speakers: Rob Beckett, Josh Widdicombe
 - 2021-04-22 — S02 EP27: Charlie Baker — speakers: Charlie Baker, Rob Beckett, Josh Widdicombe
 - 2021-04-20 — S02 EP26: "Who's rubbed banana on his roof?!...." — speakers: Rob Beckett, Josh Widdicombe
-- 2021-04-16 — S02 EP25: Fay Ripley — speakers: Fay Ripley Joining, Fay Ripley, Rob Beckett, Josh Widdicombe
+- 2021-04-16 — S02 EP25: Fay Ripley — speakers: Fay Ripley Joining, Rob Beckett, Josh Widdicombe
 - 2021-04-13 — S02 EP24: "H from Steps and the cockatoo..." — speakers: Rob Beckett, Josh Widdicombe
-- 2021-04-08 — S02 EP23: Jessica Knappett — speakers: Jessica Knappett, Jessica Knappett Joining, Rob Beckett, Josh Widdicombe
+- 2021-04-08 — S02 EP23: Jessica Knappett — speakers: Jessica Knappett, Rob Beckett, Josh Widdicombe
 - 2021-04-06 — S02 EP22: I'm a parent, get me out of here... — speakers: Rob Beckett, Josh Widdicombe
-- 2021-04-02 — S02 EP21: Jarred Christmas — speakers: Rob Beckett, Josh Widdicombe
+- 2021-04-02 — S02 EP21: Jarred Christmas — speakers: Jarred Christmas, Jarred Christmas Joining, Rob Beckett, Josh Widdicombe
 - 2021-03-30 — S02 EP20: A right kick in the Jaffa's... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-03-26 — S02 EP19: Tom Parry — speakers: Tom Parry Rob, Tom Parry, Rob Beckett, Josh Widdicombe
-- 2021-03-23 — S02 EP18: 100% Banter Juice — speakers: Rob Beckett, Josh Widdicombe
+- 2021-03-23 — S02 EP18: 100% Banter Juice — speakers: Banter Juice, Banter Juice More, Rob Beckett, Josh Widdicombe
 - 2021-03-19 — S02 EP17: Nadiya Hussain — speakers: Josh Widdicombe'S, Nadiya Hussain, Rob Beckett, Josh Widdicombe
 - 2021-03-16 — S02 EP16: The World Cup of baby names — speakers: Rob Beckett, Josh Widdicombe
 - 2021-03-12 — S02 EP15: Gabby Logan — speakers: Gabby Logan, Rob Beckett, Josh Widdicombe
@@ -12871,27 +12406,27 @@
 - 2021-02-23 — S02 EP10: "Feels like a practice divorce..." — speakers: Rob Beckett, Josh Widdicombe
 - 2021-02-19 — S02 EP9: Jamelia — speakers: Josh Widdicombe'S, Jamelia Joining, Rob Beckett, Josh Widdicombe
 - 2021-02-16 — S02 EP8: Wheelie Bin-gate — speakers: Wheelie Bin-gate, Rob Beckett, Josh Widdicombe
-- 2021-02-12 — S02 EP7: Paloma Faith — speakers: Ty Taylor, Jonas Blue, Rob Beckett, Josh Widdicombe
+- 2021-02-12 — S02 EP7: Paloma Faith — speakers: Paloma Faith, Paloma Faith Joining, Rob Beckett, Josh Widdicombe
 - 2021-02-09 — S02 EP6: Misadventures in parenting... — speakers: Rob Beckett, Josh Widdicombe
 - 2021-02-05 — S02 EP5: Michael Sheen — speakers: Michael Sheen, Rob Beckett, Josh Widdicombe
 - 2021-02-02 — S02 EP4: "You can't click and collect a Solero..." — speakers: Rob Beckett, Josh Widdicombe
-- 2021-01-29 — S02 EP3: Paddy McGuinness — speakers: Paddy McGuinness, Rob Beckett, Josh Widdicombe
+- 2021-01-29 — S02 EP3: Paddy McGuinness — speakers: Rob Beckett, Josh Widdicombe
 - 2021-01-26 — S02 EP2: "Bezos, who does your boxes?" — speakers: Rob Beckett, Josh Widdicombe
 - 2021-01-19 — S02 EP1: Bobby B and Stiffy McGee are back!!! — speakers: Stiffy McGee, Rob Beckett, Josh Widdicombe
 - 2020-12-27 — S01 EP71: "I'm Bebop and Rocksteady and Lou is Krang..." — speakers: Rob Beckett, Josh Widdicombe
 - 2020-12-25 — S01 EP70: The Christmas Day Special — speakers: Rob Beckett, Josh Widdicombe
 - 2020-12-23 — S01 EP69: Andy Day (CBeebies) — speakers: Andy Day, Rob Beckett, Josh Widdicombe
 - 2020-12-18 — S01 EP68: Philippa Perry — speakers: Philippa Perry Rob, Philippa Perry, Rob Beckett, Josh Widdicombe
-- 2020-12-15 — S01 EP67: "You can't ride a T-Rex with wet hair..." — speakers: Rob Beckett, Josh Widdicombe
-- 2020-12-11 — S01 EP66: Robbie Williams & Ayda Field Williams — speakers: Field Williams, Robbie Williams Ayda, Robbie WIlliams, Rob Beckett, Josh Widdicombe
+- 2020-12-15 — S01 EP67: "You can't ride a T-Rex with wet hair..." — speakers: wet hair, Rob Beckett, Josh Widdicombe
+- 2020-12-11 — S01 EP66: Robbie Williams & Ayda Field Williams — speakers: Field Williams, Rob Beckett, Josh Widdicombe
 - 2020-12-08 — S01 EP65: "I love putting a line through a seven..." — speakers: Rob Beckett, Josh Widdicombe
 - 2020-12-05 — S01 EP64: Sindhu Vee — speakers: Sindhu Vee, Rob Beckett, Josh Widdicombe
 - 2020-12-01 — S01 EP63: That's why I didn't get The Voice job... — speakers: Rob Beckett, Josh Widdicombe
-- 2020-11-27 — S01 EP62: David Baddiel — speakers: David Baddiel Rob, David Baddiel Joining, David Baddiel, Rob Beckett, Josh Widdicombe
+- 2020-11-27 — S01 EP62: David Baddiel — speakers: David Baddiel Rob, David Baddiel Joining, Rob Beckett, Josh Widdicombe
 - 2020-11-24 — S01 EP61: An ode to the side note — speakers: Rob Beckett, Josh Widdicombe
 - 2020-11-20 — S01 EP60: Tom Allen — speakers: Tom Allen, Rob Beckett, Josh Widdicombe
 - 2020-11-17 — S01 EP59: LIVE FROM THE SCHOOL GATES — speakers: Rob Beckett, Josh Widdicombe
-- 2020-11-14 — S01 EP58: Walking up the Burj Khalifa — speakers: Rob Beckett, Josh Widdicombe
+- 2020-11-14 — S01 EP58: Walking up the Burj Khalifa — speakers: Burj Khalifa, Burj Khalifa More, Rob Beckett, Josh Widdicombe
 - 2020-11-10 — S01 EP57: Konnie Huq — speakers: Josh Widdicombe'S, Konnie Huq, Rob Beckett, Josh Widdicombe
 - 2020-11-06 — S01 EP56: Heaven or Hell? — speakers: Rob Beckett, Josh Widdicombe
 - 2020-11-04 — S01 EP55: Carl Donnelly — speakers: Josh Widdicombe'S, Carl Donnelly, Rob Beckett, Josh Widdicombe
@@ -12901,31 +12436,31 @@
 - 2020-10-20 — S01 EP51: Eddie Hearn — speakers: Eddie Hearn, Rob Beckett, Josh Widdicombe
 - 2020-10-16 — S01 EP50: What's your favourite animal tongue? — speakers: Rob Beckett, Josh Widdicombe
 - 2020-10-13 — S01 EP49: Gaby Roslin — speakers: Gaby Roslin, Rob Beckett, Josh Widdicombe
-- 2020-10-09 — S01 EP48: The old nose stroke technique — speakers: Follow Rob, Rob Beckett, Josh Widdicombe
-- 2020-10-06 — S01 EP47: Doc Brown — speakers: Doc Brown, Ben Baily Smith, Ben Bailey Smith, Rob Beckett, Josh Widdicombe
-- 2020-10-02 — S01 EP46: "It's not sticky till the first lick..." — speakers: Follow Rob, Rob Beckett, Josh Widdicombe
-- 2020-09-29 — S01 EP45: Dawn O' Porter — speakers: Rob Beckett, Josh Widdicombe
+- 2020-10-09 — S01 EP48: The old nose stroke technique — speakers: Rob Beckett, Josh Widdicombe
+- 2020-10-06 — S01 EP47: Doc Brown — speakers: Doc Brown, Ben Baily Smith, Rob Beckett, Josh Widdicombe
+- 2020-10-02 — S01 EP46: "It's not sticky till the first lick..." — speakers: Rob Beckett, Josh Widdicombe
+- 2020-09-29 — S01 EP45: Dawn O' Porter — speakers: Porter Joining, Rob Beckett, Josh Widdicombe
 - 2020-09-25 — S01 EP44: "I want a dog...." — speakers: Rob Beckett, Josh Widdicombe
 - 2020-09-22 — S01 EP43: Peter Crouch — speakers: Peter Crouch, Rob Beckett, Josh Widdicombe
 - 2020-09-18 — S01 EP42: "What's this really about?" — speakers: Rob Beckett, Josh Widdicombe
 - 2020-09-15 — S01 EP41: Matthew Crosby — speakers: Matthew Crosby, Rob Beckett, Josh Widdicombe
 - 2020-09-11 — S01 EP40: Under the table floor picnic — speakers: Rob Beckett, Josh Widdicombe
-- 2020-09-08 — S01 EP39: Ivo Graham — speakers: Josh Widdicombe'S, Ivo Graham, Rob Beckett, Josh Widdicombe
+- 2020-09-08 — S01 EP39: Ivo Graham — speakers: Josh Widdicombe'S, Rob Beckett, Josh Widdicombe
 - 2020-09-04 — S01 EP38: "She can't read squirrel body language..." — speakers: Rob Beckett, Josh Widdicombe
 - 2020-09-01 — S01 EP37: Jo Brand — speakers: Jo Brand, Rob Beckett, Josh Widdicombe
 - 2020-08-28 — S01 EP36: Jump starting a tent — speakers: Rob Beckett, Josh Widdicombe
 - 2020-08-25 — S01 EP35: Chris Stark — speakers: Chris Stark, Rob Beckett, Josh Widdicombe
-- 2020-08-21 — S01 EP34: Aled Jones carried a watermelon — speakers: Rob Beckett, Josh Widdicombe
+- 2020-08-21 — S01 EP34: Aled Jones carried a watermelon — speakers: Aled Jones, Rob Beckett, Josh Widdicombe
 - 2020-08-18 — S01 EP33: Elis James — speakers: Josh Widdicombe'S, Elis James, Rob Beckett, Josh Widdicombe
 - 2020-08-14 — S01 EP32: Twice as long as a weasel — speakers: Rob Beckett, Josh Widdicombe
-- 2020-08-11 — S01 EP31: Jen Brister — speakers: Rob Beckett, Josh Widdicombe
+- 2020-08-11 — S01 EP31: Jen Brister — speakers: Jen Brister, Jen Brister Joining, Rob Beckett, Josh Widdicombe
 - 2020-08-07 — S01 EP30: "I carried a watermelon..." — speakers: Rob Beckett, Josh Widdicombe
 - 2020-08-04 — S01 EP29: Romesh Ranganathan — speakers: Josh Widdicombe'S, Rob Beckett, Josh Widdicombe
 - 2020-07-31 — S01 EP28: Snail-ma-geddon — speakers: Rob Beckett, Josh Widdicombe
 - 2020-07-28 — S01 EP27: Dara Ó Briain — speakers: Josh Widdicombe'S, Rob Beckett, Josh Widdicombe
 - 2020-07-24 — S01 EP26: Just put a beret on a chicken... — speakers: Rob Beckett, Josh Widdicombe
-- 2020-07-21 — S01 EP25: Judi Love — speakers: Rob Beckett, Josh Widdicombe
-- 2020-07-19 — S01 EP24: Gavin and Malcolm — speakers: Josh Widdicombe'S, Malcolm More, Rob Beckett, Josh Widdicombe
+- 2020-07-21 — S01 EP25: Judi Love — speakers: Judi Love, Judi Love Joining, Rob Beckett, Josh Widdicombe
+- 2020-07-19 — S01 EP24: Gavin and Malcolm — speakers: Josh Widdicombe'S, Rob Beckett, Josh Widdicombe
 - 2020-07-14 — S01 EP23: Rosie Ramsey — speakers: Rosie Ramsey Rob, Rosie Ramsey, Rob Beckett, Josh Widdicombe
 - 2020-07-10 — S01 EP22: Windburn, man and boy... — speakers: Rob Beckett, Josh Widdicombe
 - 2020-07-07 — S01 EP21: Russell Kane — speakers: Russell Kane, Rob Beckett, Josh Widdicombe
@@ -12933,20 +12468,20 @@
 - 2020-06-30 — S01 EP19: Chris Ramsey — speakers: Chris Ramsey Rob, Chris Ramsey, Rob Beckett, Josh Widdicombe
 - 2020-06-26 — S01 EP18: Salty? Or not salty? That is the question... — speakers: Rob Beckett, Josh Widdicombe
 - 2020-06-23 — S01 EP17: Lorraine Kelly — speakers: Lorraine Kelly, Lorraine KellyJoining, Rob Beckett, Josh Widdicombe
-- 2020-06-19 — S01 EP16: Correspondence Special — speakers: Rob Beckett, Josh Widdicombe
-- 2020-06-17 — S01 EP15: Alex Brooker — speakers: Alex Brooker, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-06-13 — S01 EP14: Shappi Khorsandi — speakers: Shappi Khorsandi, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-06-09 — S01 EP13: Daisy May Cooper — speakers: Daisy May Cooper Joining, Daisy May Cooper, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-06-06 — S01 EP12: Alison Hammond — speakers: Alison Hammond, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-06-01 — S01 EP11: Jack Dee — speakers: Jack Dee Joining, Jack Dee, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-05-28 — S01 EP10: Isy Suttie — speakers: uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-05-25 — S01 EP9: Alan Davies — speakers: Alan Davies, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-05-21 — S01 EP8: Alex Horne — speakers: Alex Horne, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-05-18 — S01 EP7: Ellie Taylor — speakers: Ellie Taylor, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-05-15 — S01 EP6: Jason Manford — speakers: Jason Manford, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-05-11 — S01 EP5: Kerry Godliman — speakers: Kerry Godliman, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-05-07 — S01 EP4: Jonathan Ross — speakers: Jonathan Ross, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-05-04 — S01 EP3: Lucy Beaumont — speakers: Lucy Beaumont, Jon Richardson, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-04-30 — S01 EP2: Jon Richardson — speakers: Jon Richardson, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-04-28 — S01 EP1: Katherine Ryan — speakers: Katherine Ryan, uk Instagram, Michael Marden Learn, Rob Beckett, Josh Widdicombe
-- 2020-04-26 — Rob Beckett and Josh Widdicombe's Lockdown Parenting Hell — speakers: Rob Beckett, Josh Widdicombe, Lockdown Parenting Hell, Rob Beckett aimed
+- 2020-06-19 — S01 EP16: Correspondence Special — speakers: Correspondence Special, Rob Beckett, Josh Widdicombe
+- 2020-06-17 — S01 EP15: Alex Brooker — speakers: Alex Brooker, Rob Beckett, Josh Widdicombe
+- 2020-06-13 — S01 EP14: Shappi Khorsandi — speakers: Shappi Khorsandi, Rob Beckett, Josh Widdicombe
+- 2020-06-09 — S01 EP13: Daisy May Cooper — speakers: Daisy May Cooper Joining, Rob Beckett, Josh Widdicombe
+- 2020-06-06 — S01 EP12: Alison Hammond — speakers: Alison Hammond, Rob Beckett, Josh Widdicombe
+- 2020-06-01 — S01 EP11: Jack Dee — speakers: Jack Dee Joining, Rob Beckett, Josh Widdicombe
+- 2020-05-28 — S01 EP10: Isy Suttie — speakers: Isy Suttie Joining, Rob Beckett, Josh Widdicombe
+- 2020-05-25 — S01 EP9: Alan Davies — speakers: Alan Davies, Rob Beckett, Josh Widdicombe
+- 2020-05-21 — S01 EP8: Alex Horne — speakers: Alex Horne, Rob Beckett, Josh Widdicombe
+- 2020-05-18 — S01 EP7: Ellie Taylor — speakers: Rob Beckett, Josh Widdicombe
+- 2020-05-15 — S01 EP6: Jason Manford — speakers: Jason Manford, Rob Beckett, Josh Widdicombe
+- 2020-05-11 — S01 EP5: Kerry Godliman — speakers: Kerry Godliman, Rob Beckett, Josh Widdicombe
+- 2020-05-07 — S01 EP4: Jonathan Ross — speakers: Jonathan Ross, Rob Beckett, Josh Widdicombe
+- 2020-05-04 — S01 EP3: Lucy Beaumont — speakers: Lucy Beaumont, Rob Beckett, Josh Widdicombe
+- 2020-04-30 — S01 EP2: Jon Richardson — speakers: Jon Richardson, Rob Beckett, Josh Widdicombe
+- 2020-04-28 — S01 EP1: Katherine Ryan — speakers: Katherine Ryan, Rob Beckett, Josh Widdicombe
+- 2020-04-26 — Rob Beckett and Josh Widdicombe's Lockdown Parenting Hell — speakers: Rob Beckett, Josh Widdicombe, Lockdown Parenting Hell, Rob Bec

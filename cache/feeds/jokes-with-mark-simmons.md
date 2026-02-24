@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-02-23T16:02:43+00:00`
-- checked_at: `2026-02-23T16:02:43+00:00`
-- etag: `"djEuMi4wOjE3NzE4NTY5MTIyNTQ="`
+- fetched_at: `2026-02-24T07:16:03+00:00`
+- checked_at: `2026-02-24T07:16:03+00:00`
+- etag: `"djEuMi4wOjE3NzE5MDgwMzkyMzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-02-23T16:02:43+00:00",
+  "fetched_at": "2026-02-24T07:16:03+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "77fdf7509707785cfc76920750ffd28f45285279",
+      "title": "FAQ me #2: Listener Questions",
+      "published_at": "2026-02-24T04:40:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/faq-me-2-listener-questions",
+      "description": "FAQ boy producer Joel hits Mark with the latest listener questions Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/699c6410166f176858eb98e5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49723068",
+      "itunes_duration": "34:30",
+      "speakers": [
+        "Listener Questions",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "listener",
+        "questions"
+      ]
+    },
     {
       "key": "3540038631e5386f91b58ec741417ff0f4857546",
       "title": "Bob Mills - Part 2",
@@ -120,7 +140,6 @@
       "enclosure_length": "70555959",
       "itunes_duration": "48:56",
       "speakers": [
-        "Merry Xmas",
         "Mark Simmons"
       ],
       "topics": [
@@ -392,6 +411,8 @@
       "enclosure_length": "40514858",
       "itunes_duration": "28:04",
       "speakers": [
+        "Becky Umbers New Zealands",
+        "Becky Umbers",
         "Mark Simmons"
       ],
       "topics": [
@@ -412,7 +433,6 @@
       "itunes_duration": "32:17",
       "speakers": [
         "Tom Houghton Living",
-        "Tom Houghton",
         "Mark Simmons"
       ],
       "topics": [
@@ -744,8 +764,7 @@
         "Fringe Talk Day",
         "Hils Jago",
         "Jack Whitehall",
-        "Rob Beckett",
-        "Sarah Millican",
+        "Rob Becke",
         "Mark Simmons"
       ],
       "topics": [
@@ -916,9 +935,6 @@
       "speakers": [
         "Ian Smith",
         "Edinburgh Award Nominee",
-        "Ian Smith Monkey Barrell",
-        "Danny Ward Banshee",
-        "Mark Simmons Liquid",
         "Mark Simmons"
       ],
       "topics": [
@@ -938,13 +954,7 @@
       "itunes_duration": "42:12",
       "speakers": [
         "Gill Cordiner Cover",
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "gill",
@@ -964,12 +974,6 @@
       "itunes_duration": "35:20",
       "speakers": [
         "Ben Hurley",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -990,12 +994,7 @@
       "speakers": [
         "Andrew Hamilton Prison",
         "Andrew Hamilton",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "andrew",
@@ -1016,12 +1015,7 @@
       "speakers": [
         "Chris Franklin Aussie",
         "Chris Franklin",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "chris",
@@ -1042,12 +1036,7 @@
       "speakers": [
         "Jonny Pelham Star",
         "Jonny Pelham",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "jonny",
@@ -1067,12 +1056,6 @@
       "itunes_duration": "34:39",
       "speakers": [
         "Rory O'Hanlon Rory",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1092,12 +1075,6 @@
       "itunes_duration": "55:04",
       "speakers": [
         "Tour Talk New",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1123,11 +1100,7 @@
         "John Kearns Star",
         "Edinburgh Award",
         "John Kearns",
-        "Adam Riches",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne"
+        "Mark Simmons"
       ],
       "topics": [
         "john",
@@ -1170,12 +1143,6 @@
       "itunes_duration": "40:40",
       "speakers": [
         "Rob Copland",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1194,13 +1161,6 @@
       "enclosure_length": "60600031",
       "itunes_duration": "42:00",
       "speakers": [
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1222,12 +1182,6 @@
       "itunes_duration": "36:55",
       "speakers": [
         "Joz Norris Joz",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1247,13 +1201,7 @@
       "itunes_duration": "48:07",
       "speakers": [
         "Andrew Bird",
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "andrew",
@@ -1274,13 +1222,7 @@
       "itunes_duration": "35:53",
       "speakers": [
         "Michelle Shaughnessy Returns Michelle",
-        "Follow Michelle",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "michelle",
@@ -1301,12 +1243,6 @@
       "itunes_duration": "31:26",
       "speakers": [
         "Darren Walsh Returns",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1328,12 +1264,6 @@
       "itunes_duration": "40:15",
       "speakers": [
         "Abigoliah Schamaun Returns",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1354,12 +1284,10 @@
       "enclosure_length": "61453791",
       "itunes_duration": "42:37",
       "speakers": [
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
+        "Comic Awards",
+        "Best Act",
+        "Best Independent Promoter",
+        "Outstanding Contribution",
         "Mark Simmons"
       ],
       "topics": [
@@ -1381,12 +1309,6 @@
       "itunes_duration": "34:38",
       "speakers": [
         "Joey Page",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1407,12 +1329,6 @@
       "itunes_duration": "30:24",
       "speakers": [
         "Ben Target",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1433,12 +1349,7 @@
       "speakers": [
         "Alexander Bennett",
         "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "alexander",
@@ -1458,13 +1369,7 @@
       "itunes_duration": "30:05",
       "speakers": [
         "Mark's Comedy Special",
-        "iEuZvPU Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "mark",
@@ -1484,12 +1389,6 @@
       "enclosure_length": "50392941",
       "itunes_duration": "34:57",
       "speakers": [
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1510,7 +1409,6 @@
       "itunes_duration": "46:43",
       "speakers": [
         "Tour Talk Mark",
-        "mailing list",
         "Mark Simmons"
       ],
       "topics": [
@@ -1533,12 +1431,7 @@
       "enclosure_length": "48090539",
       "itunes_duration": "33:21",
       "speakers": [
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
+        "Paddy Young Paddy Young",
         "Mark Simmons"
       ],
       "topics": [
@@ -1558,13 +1451,7 @@
       "enclosure_length": "78073455",
       "itunes_duration": "54:11",
       "speakers": [
-        "Mark Simmons",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "seann",
@@ -1604,12 +1491,7 @@
       "enclosure_length": "68238981",
       "itunes_duration": "47:21",
       "speakers": [
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
+        "Teller Penn",
         "Mark Simmons"
       ],
       "topics": [
@@ -1651,12 +1533,6 @@
       "itunes_duration": "33:58",
       "speakers": [
         "Rosalie Minnitt",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1677,12 +1553,6 @@
       "itunes_duration": "29:06",
       "speakers": [
         "Davina Bentley Davina",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1724,8 +1594,6 @@
       "itunes_duration": "42:35",
       "speakers": [
         "Jeff Dunham",
-        "Wembley Arena",
-        "Manchester’s Co-op",
         "Mark Simmons"
       ],
       "topics": [
@@ -1790,12 +1658,6 @@
       "itunes_duration": "29:42",
       "speakers": [
         "Ting Lim",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1816,12 +1678,7 @@
       "speakers": [
         "Adam Flood Mark",
         "Adam Flood",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "adam",
@@ -1841,12 +1698,6 @@
       "itunes_duration": "31:48",
       "speakers": [
         "Dan Tiernan",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1889,7 +1740,6 @@
       "speakers": [
         "Tour Talk Danny",
         "Jay Leno",
-        "Joe Rogan",
         "Mark Simmons"
       ],
       "topics": [
@@ -1912,12 +1762,6 @@
       "itunes_duration": "31:08",
       "speakers": [
         "James Wallace",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -1959,12 +1803,7 @@
       "speakers": [
         "Olivia Lee Chaotic",
         "Olivia Lee",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "olivia"
@@ -2042,12 +1881,7 @@
       "enclosure_length": "52159788",
       "itunes_duration": "36:11",
       "speakers": [
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
+        "Olaf Falafel",
         "Mark Simmons"
       ],
       "topics": [
@@ -2091,12 +1925,6 @@
       "itunes_duration": "32:33",
       "speakers": [
         "Ollie Horn Ollie Horn",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -2157,12 +1985,6 @@
       "itunes_duration": "31:31",
       "speakers": [
         "Bella Hull",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -2204,12 +2026,6 @@
       "itunes_duration": "36:03",
       "speakers": [
         "Michael Odewale",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -2231,12 +2047,7 @@
       "speakers": [
         "Daniel Connell Great",
         "Daniel Connell",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "daniel",
@@ -2278,12 +2089,6 @@
       "itunes_duration": "28:24",
       "speakers": [
         "Ryan Cullen Ryan Cullen",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -2327,13 +2132,7 @@
       "itunes_duration": "33:01",
       "speakers": [
         "Don Biswas",
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": []
     },
@@ -2350,13 +2149,7 @@
       "itunes_duration": "32:59",
       "speakers": [
         "James Redmond",
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "james",
@@ -2398,13 +2191,7 @@
       "itunes_duration": "29:14",
       "speakers": [
         "Dave Ward",
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "dave",
@@ -2425,12 +2212,7 @@
       "speakers": [
         "Alexandra Haddow Brilliant",
         "Alexandra Haddow",
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney"
+        "Mark Simmons"
       ],
       "topics": [
         "alexandra",
@@ -2449,13 +2231,6 @@
       "enclosure_length": "55741400",
       "itunes_duration": "38:41",
       "speakers": [
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -2475,13 +2250,6 @@
       "enclosure_length": "41387622",
       "itunes_duration": "28:42",
       "speakers": [
-        "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -2523,12 +2291,6 @@
       "enclosure_length": "40934168",
       "itunes_duration": "28:22",
       "speakers": [
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -2630,7 +2392,6 @@
         "Comic Award",
         "Comic Awards",
         "Best Act",
-        "Best Independent Promoter",
         "Mark Simmons"
       ],
       "topics": [
@@ -2671,7 +2432,6 @@
       "itunes_duration": "24:21",
       "speakers": [
         "Tour Talk Lost",
-        "Joe Bor",
         "Mark Simmons"
       ],
       "topics": [
@@ -2753,7 +2513,6 @@
       "itunes_duration": "39:32",
       "speakers": [
         "Nick Helm",
-        "Robbie Williams",
         "Mark Simmons"
       ],
       "topics": [
@@ -2836,7 +2595,6 @@
       "itunes_duration": "35:18",
       "speakers": [
         "Tour Talk Portion",
-        "Jason Donovan",
         "Mark Simmons"
       ],
       "topics": [
@@ -2939,7 +2697,6 @@
       "speakers": [
         "Edinburgh Talk Matt Bragg",
         "Matt Bragg",
-        "Gareth Richards",
         "Mark Simmons"
       ],
       "topics": [
@@ -3001,7 +2758,6 @@
       "itunes_duration": "38:36",
       "speakers": [
         "Markus Birdman Returns",
-        "Markus Birdman",
         "Mark Simmons"
       ],
       "topics": [
@@ -3112,7 +2868,6 @@
       "itunes_duration": "41:00",
       "speakers": [
         "Tom Stade Returns Filming",
-        "Tom Stade",
         "Mark Simmons"
       ],
       "topics": [
@@ -3418,7 +3173,6 @@
       "enclosure_length": "26599669",
       "itunes_duration": "27:41",
       "speakers": [
-        "Markus Birdman",
         "Mark Simmons"
       ],
       "topics": [
@@ -3946,7 +3700,6 @@
       "itunes_duration": "47:11",
       "speakers": [
         "Russell Hicks Double",
-        "Russell Hicks",
         "Mark Simmons"
       ],
       "topics": [
@@ -4112,6 +3865,7 @@
       "speakers": [
         "Ian Stone",
         "Follow Mark",
+        "Twitter Subs",
         "Mark Simmons"
       ],
       "topics": [
@@ -4132,7 +3886,6 @@
       "speakers": [
         "Jessica Fostekew Jessica Fostekew",
         "Jessica Fostekew",
-        "Follow Mark",
         "Mark Simmons"
       ],
       "topics": [
@@ -4279,7 +4032,6 @@
       "itunes_duration": "45:35",
       "speakers": [
         "Colin Cloud Colin Cloud",
-        "Follow Mark",
         "Mark Simmons"
       ],
       "topics": [
@@ -4381,7 +4133,6 @@
       "speakers": [
         "Jarlath Regan Jarlath Regan",
         "Jarleth Regan",
-        "Follow Mark",
         "Mark Simmons"
       ],
       "topics": [
@@ -4402,7 +4153,6 @@
       "itunes_duration": "48:50",
       "speakers": [
         "Carl Donnelly",
-        "Follow Mark",
         "Mark Simmons"
       ],
       "topics": [
@@ -4530,6 +4280,7 @@
         "Garrett Millerick Garret Millerick",
         "Garrett Millerick",
         "Follow Mark",
+        "Twitter Subscri",
         "Mark Simmons"
       ],
       "topics": [
@@ -4633,7 +4384,7 @@
       "enclosure_length": "59104499",
       "itunes_duration": "40:59",
       "speakers": [
-        "Follow Mark",
+        "Morgan Rees Morgan Rees",
         "Mark Simmons"
       ],
       "topics": [
@@ -4985,7 +4736,6 @@
       "itunes_duration": "48:43",
       "speakers": [
         "Simon Lomas",
-        "Follow Simon",
         "Mark Simmons"
       ],
       "topics": [
@@ -5029,7 +4779,6 @@
       "speakers": [
         "Seann Walsh Christmas Special",
         "Seann Walsh",
-        "Follow Seann",
         "Mark Simmons"
       ],
       "topics": [
@@ -5114,6 +4863,7 @@
       "itunes_duration": "42:40",
       "speakers": [
         "Follow Mark",
+        "Twitter Subs",
         "Mark Simmons"
       ],
       "topics": [
@@ -5134,6 +4884,7 @@
       "itunes_duration": "51:11",
       "speakers": [
         "Chris Turner",
+        "Follow Chris",
         "Mark Simmons"
       ],
       "topics": [
@@ -5176,6 +4927,7 @@
       "itunes_duration": "43:49",
       "speakers": [
         "Chris Washington",
+        "Follow Chri",
         "Mark Simmons"
       ],
       "topics": [
@@ -5215,7 +4967,7 @@
       "enclosure_length": "50313796",
       "itunes_duration": "34:54",
       "speakers": [
-        "Follow Elliott",
+        "Elliott Steel Elliott Steel",
         "Mark Simmons"
       ],
       "topics": [
@@ -5299,7 +5051,6 @@
       "itunes_duration": "42:45",
       "speakers": [
         "Noel James Noel James",
-        "Follow Noel",
         "Mark Simmons"
       ],
       "topics": [
@@ -5362,7 +5113,6 @@
       "itunes_duration": "37:29",
       "speakers": [
         "Phil Ellis",
-        "Follow Phil",
         "Mark Simmons"
       ],
       "topics": [
@@ -5402,6 +5152,7 @@
       "itunes_duration": "41:30",
       "speakers": [
         "Aaron Simmonds",
+        "Aaron Simm",
         "Mark Simmons"
       ],
       "topics": [
@@ -5421,7 +5172,6 @@
       "enclosure_length": "64861450",
       "itunes_duration": "45:00",
       "speakers": [
-        "Follow Aurie",
         "Mark Simmons"
       ],
       "topics": [
@@ -5443,7 +5193,6 @@
       "speakers": [
         "Ross Smith Ross Smith",
         "Ross Smith",
-        "Follow Ross",
         "Mark Simmons"
       ],
       "topics": [
@@ -5505,11 +5254,6 @@
       "itunes_duration": "44:31",
       "speakers": [
         "Sarah Millican",
-        "Milton Jones",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -5551,8 +5295,6 @@
       "enclosure_length": "59205891",
       "itunes_duration": "41:08",
       "speakers": [
-        "John Hastings",
-        "Follow John",
         "Mark Simmons"
       ],
       "topics": [
@@ -5634,6 +5376,7 @@
       "enclosure_length": "63316980",
       "itunes_duration": "44:00",
       "speakers": [
+        "Dane Baptiste",
         "Mark Simmons"
       ],
       "topics": [
@@ -5655,7 +5398,6 @@
       "speakers": [
         "Kelly Convey Kelly Convey",
         "Kelly Convey",
-        "Follow Kelly",
         "Mark Simmons"
       ],
       "topics": [
@@ -5696,7 +5438,6 @@
       "itunes_duration": "34:36",
       "speakers": [
         "Susie McCabe",
-        "Follow Susie",
         "Mark Simmons"
       ],
       "topics": [
@@ -5759,7 +5500,6 @@
       "speakers": [
         "Nick Helm",
         "Robbie Williams Patreon",
-        "Follow Nick",
         "Mark Simmons"
       ],
       "topics": [
@@ -5780,7 +5520,6 @@
       "itunes_duration": "34:56",
       "speakers": [
         "Kai Humphries Kai Humphries",
-        "Follow Kai",
         "Mark Simmons"
       ],
       "topics": [
@@ -5821,7 +5560,6 @@
       "speakers": [
         "Peter Brush",
         "Tony Cowards",
-        "Follow Mark",
         "Mark Simmons"
       ],
       "topics": [
@@ -5843,7 +5581,6 @@
       "speakers": [
         "Tony Cowards Tony",
         "Tony Cowards",
-        "Follow Tony",
         "Mark Simmons"
       ],
       "topics": [
@@ -5864,7 +5601,6 @@
       "itunes_duration": "36:54",
       "speakers": [
         "Scott Bennett",
-        "Follow Scott",
         "Mark Simmons"
       ],
       "topics": [
@@ -5885,7 +5621,6 @@
       "itunes_duration": "50:40",
       "speakers": [
         "Gareth Richards",
-        "Follow Gareth",
         "Mark Simmons"
       ],
       "topics": [
@@ -5907,12 +5642,7 @@
       "speakers": [
         "Stuart Goldsmith",
         "Watch Mark",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh"
+        "Mark Simmons"
       ],
       "topics": [
         "stuart",
@@ -5932,7 +5662,6 @@
       "itunes_duration": "44:47",
       "speakers": [
         "Sarah Keyworth",
-        "Follow Sarah",
         "Mark Simmons"
       ],
       "topics": [
@@ -6077,7 +5806,6 @@
         "Ed Gamble",
         "Gary Delaney",
         "Rhys James",
-        "Follow Mark",
         "Mark Simmons"
       ],
       "topics": [
@@ -6097,7 +5825,6 @@
       "itunes_duration": "32:17",
       "speakers": [
         "Dan Evans",
-        "Follow Dan",
         "Mark Simmons"
       ],
       "topics": [
@@ -6117,7 +5844,6 @@
       "itunes_duration": "36:53",
       "speakers": [
         "Andrea Hubert Andrea Hubert",
-        "Follow Andrea",
         "Mark Simmons"
       ],
       "topics": [
@@ -6180,12 +5906,6 @@
       "itunes_duration": "56:11",
       "speakers": [
         "Rhys James",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -6225,7 +5945,6 @@
       "itunes_duration": "43:25",
       "speakers": [
         "Sean McLoughlin",
-        "Follow Sean",
         "Mark Simmons"
       ],
       "topics": [
@@ -6246,7 +5965,6 @@
       "itunes_duration": "37:34",
       "speakers": [
         "Mike Gunn Mike Gunn",
-        "Follow Mike",
         "Mark Simmons"
       ],
       "topics": [
@@ -6289,7 +6007,6 @@
       "speakers": [
         "Joe Jacobs Joe Jacobs",
         "Joe Jacobs",
-        "Follow Joe",
         "Mark Simmons"
       ],
       "topics": [
@@ -6309,7 +6026,6 @@
       "itunes_duration": "49:25",
       "speakers": [
         "Sally-Anne Hayward",
-        "Follow Sally-Anne",
         "Mark Simmons"
       ],
       "topics": [
@@ -6331,6 +6047,7 @@
       "itunes_duration": "43:39",
       "speakers": [
         "Daniel Muggleton",
+        "Follow Dan",
         "Mark Simmons"
       ],
       "topics": [
@@ -6351,8 +6068,7 @@
       "itunes_duration": "38:06",
       "speakers": [
         "Rich Wilson",
-        "Merry Christmas Jokes",
-        "Follow Oliver",
+        "Merry Christmas Jo",
         "Mark Simmons"
       ],
       "topics": [
@@ -6373,7 +6089,6 @@
       "itunes_duration": "43:44",
       "speakers": [
         "Abigoliah Schamaun Abigoliah",
-        "Follow Abigoliah",
         "Mark Simmons"
       ],
       "topics": [
@@ -6396,7 +6111,6 @@
         "Sukh Ojla",
         "Josh Berry",
         "Tania Edwards",
-        "Follow Mark",
         "Mark Simmons"
       ],
       "topics": [
@@ -6416,7 +6130,6 @@
       "itunes_duration": "46:35",
       "speakers": [
         "Oliver Double",
-        "Follow Oliver",
         "Mark Simmons"
       ],
       "topics": [
@@ -6437,11 +6150,6 @@
       "itunes_duration": "1:07:14",
       "speakers": [
         "Gary Delaney",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -6463,11 +6171,6 @@
       "speakers": [
         "Ed Byrne Ed Byrne",
         "Ed Byrne",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -6487,11 +6190,6 @@
       "itunes_duration": "58:04",
       "speakers": [
         "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -6512,12 +6210,7 @@
       "itunes_duration": "50:43",
       "speakers": [
         "Nigel Ng",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
+        "Watch Mar",
         "Mark Simmons"
       ],
       "topics": [
@@ -6577,7 +6270,6 @@
       "itunes_duration": "39:34",
       "speakers": [
         "Thomas Green",
-        "Follow Thomas",
         "Mark Simmons"
       ],
       "topics": [
@@ -6599,7 +6291,6 @@
       "speakers": [
         "Matt Richardson TV",
         "Matt Richardson",
-        "Follow Matt",
         "Mark Simmons"
       ],
       "topics": [
@@ -6619,7 +6310,8 @@
       "enclosure_length": "85080225",
       "itunes_duration": "59:03",
       "speakers": [
-        "Follow Bec",
+        "Tape Face Awooga",
+        "Tape Face",
         "Mark Simmons"
       ],
       "topics": [
@@ -6641,7 +6333,6 @@
       "speakers": [
         "Stuart Foreman",
         "Kurt Driver",
-        "Follow Bec",
         "Mark Simmons"
       ],
       "topics": [
@@ -6684,7 +6375,6 @@
       "itunes_duration": "40:15",
       "speakers": [
         "Joey Page",
-        "Follow Eli",
         "Mark Simmons"
       ],
       "topics": [
@@ -6707,7 +6397,6 @@
       "speakers": [
         "Ian Smith",
         "Jack Gleadow Ian",
-        "Follow Ian",
         "Mark Simmons"
       ],
       "topics": [
@@ -6729,7 +6418,6 @@
       "itunes_duration": "35:32",
       "speakers": [
         "Joe Bor Joe Bor",
-        "Follow Joe",
         "Mark Simmons"
       ],
       "topics": []
@@ -6747,10 +6435,6 @@
       "itunes_duration": "39:55",
       "speakers": [
         "Edinburgh Fringe",
-        "Travis Jay",
-        "Phillip Simon",
-        "Eric Lampaert",
-        "Steve Lee",
         "Mark Simmons"
       ],
       "topics": [
@@ -6770,7 +6454,6 @@
       "itunes_duration": "44:06",
       "speakers": [
         "Jo Caulfield",
-        "Follow Jo",
         "Mark Simmons"
       ],
       "topics": [
@@ -6790,12 +6473,6 @@
       "itunes_duration": "34:58",
       "speakers": [
         "Edinburgh Fringe",
-        "Steve Bujega",
-        "William Stone",
-        "Daniel Muggleton",
-        "Darren Walsh",
-        "Danny Posthill",
-        "Adele Cliff",
         "Mark Simmons"
       ],
       "topics": [
@@ -6815,8 +6492,6 @@
       "itunes_duration": "45:28",
       "speakers": [
         "Jonny Awsum",
-        "Frank Turner",
-        "Follow Jonny",
         "Mark Simmons"
       ],
       "topics": [
@@ -6836,11 +6511,7 @@
       "enclosure_length": "59466412",
       "itunes_duration": "41:15",
       "speakers": [
-        "Jake Lambert",
-        "Jess Robinson",
-        "Jenny Bede",
-        "Josh Pugh",
-        "Chris Washington",
+        "Edinburgh Fringe Festival",
         "Mark Simmons"
       ],
       "topics": [
@@ -6900,7 +6571,6 @@
       "itunes_duration": "30:30",
       "speakers": [
         "Rob Auton",
-        "Follow Rob",
         "Mark Simmons"
       ],
       "topics": [
@@ -6921,7 +6591,6 @@
       "speakers": [
         "Paul Foot Paul Foot",
         "Paul Foot",
-        "Follow Paul",
         "Mark Simmons"
       ],
       "topics": [
@@ -6941,6 +6610,8 @@
       "enclosure_length": "20200489",
       "itunes_duration": "24:00",
       "speakers": [
+        "Thanyia Moore Thanyia Moore",
+        "Thanyia Moor",
         "Mark Simmons"
       ],
       "topics": [
@@ -6981,7 +6652,6 @@
       "itunes_duration": "37:27",
       "speakers": [
         "Jacob Hawley Jacob Hawley",
-        "Jacob Hawley",
         "Mark Simmons"
       ],
       "topics": [
@@ -7002,7 +6672,6 @@
       "itunes_duration": "44:30",
       "speakers": [
         "Seann Walsh",
-        "Follow Seann",
         "Mark Simmons"
       ],
       "topics": [
@@ -7023,7 +6692,6 @@
       "itunes_duration": "29:41",
       "speakers": [
         "Danny Ward",
-        "Danny Ward Follow Danny",
         "Mark Simmons"
       ],
       "topics": [
@@ -7065,7 +6733,6 @@
       "itunes_duration": "49:33",
       "speakers": [
         "Trevor Lock",
-        "Follow Trevor Lock",
         "Mark Simmons"
       ],
       "topics": [
@@ -7085,6 +6752,7 @@
       "enclosure_length": "40078365",
       "itunes_duration": "47:40",
       "speakers": [
+        "Joan Flo",
         "Mark Simmons"
       ],
       "topics": [
@@ -7104,7 +6772,6 @@
       "itunes_duration": "38:36",
       "speakers": [
         "Alasdair Beckett-King Alasdair Beckett-King",
-        "Follow Alasdair",
         "Mark Simmons"
       ],
       "topics": [
@@ -7126,7 +6793,6 @@
       "itunes_duration": "46:10",
       "speakers": [
         "Jake Lambert",
-        "Follow Jake",
         "Mark Simmons"
       ],
       "topics": [
@@ -7227,7 +6893,6 @@
       "speakers": [
         "Lauren Pattison Edinburgh",
         "Lauren Pattison",
-        "Follow Lauren",
         "Mark Simmons"
       ],
       "topics": [
@@ -7249,7 +6914,6 @@
       "speakers": [
         "Nick Helm Superb",
         "Nick Helm",
-        "Follow Nick",
         "Mark Simmons"
       ],
       "topics": [
@@ -7270,8 +6934,6 @@
       "itunes_duration": "33:31",
       "speakers": [
         "David Trent",
-        "Enjoy David",
-        "Follow David",
         "Mark Simmons"
       ],
       "topics": [
@@ -7292,7 +6954,6 @@
       "itunes_duration": "39:45",
       "speakers": [
         "Laura Lexx",
-        "Follow Laura",
         "Mark Simmons"
       ],
       "topics": [
@@ -7313,7 +6974,6 @@
       "itunes_duration": "39:07",
       "speakers": [
         "Lloyd Griffith",
-        "Follow Lloyd",
         "Mark Simmons"
       ],
       "topics": [
@@ -7335,8 +6995,6 @@
       "speakers": [
         "Angela Barnes Mock",
         "Angela Barnes",
-        "Rose Tinted",
-        "Follow Angela",
         "Mark Simmons"
       ],
       "topics": [
@@ -7358,8 +7016,7 @@
       "speakers": [
         "Tom Lucy Disgustingly",
         "Tom Lucy",
-        "Mark Simmons",
-        "Follow Tom"
+        "Mark Simmons"
       ],
       "topics": [
         "lucy"
@@ -7379,11 +7036,6 @@
       "speakers": [
         "Seann Walsh Mark",
         "Seann Walsh",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
         "Mark Simmons"
       ],
       "topics": [
@@ -7404,12 +7056,6 @@
       "itunes_duration": "30:00",
       "speakers": [
         "Glenn Moore",
-        "Milton Jones",
-        "Sarah Millican",
-        "Rob Beckett",
-        "Ed Byrne",
-        "Gary Delaney",
-        "Seann Walsh",
         "Mark Simmons"
       ],
       "topics": [
@@ -7440,11 +7086,12 @@
 
 ## Episodes (newest first)
 
+- 2026-02-24 — FAQ me #2: Listener Questions — speakers: Listener Questions, Mark Simmons
 - 2026-02-03 — Bob Mills - Part 2 — speakers: Bob Mills, Mark Simmons
 - 2026-01-27 — Tour Talk: The Red Carpet — speakers: Mark Simmons
 - 2026-01-20 — Bob Mills - Part 1 — speakers: Bob Mills, Mark Simmons
 - 2026-01-05 — Comics' Comic Awards 2025 Winners Revealed — speakers: Comic Awards, Best Act, Best Independent Promoter, Outstanding Achievement, Mark Simmons
-- 2025-12-23 — Circuit Talk - Christmas Special 2025 — speakers: Merry Xmas, Mark Simmons
+- 2025-12-23 — Circuit Talk - Christmas Special 2025 — speakers: Mark Simmons
 - 2025-12-16 — Raymond and Mr Timpkins Revue — speakers: Mark Simmons
 - 2025-12-03 — Circuit Talk - Live from the Sky Lounge — speakers: Circuit Talk, Mark Simmons
 - 2025-11-25 — FAQ me #1: Listener Questions — speakers: Listener Questions, Producer Joel, Mark Simmons
@@ -7457,8 +7104,8 @@
 - 2025-10-07 — Circuit Talk — speakers: Circuit Talk Being, Mark Simmons
 - 2025-09-29 — Laura Lexx Returns — speakers: Laura Lexx, Mark Simmons
 - 2025-09-23 — Fringe Talk: Aftermath — speakers: Fringe Talk, Mark Simmons
-- 2025-09-16 — Becky Umbers — speakers: Mark Simmons
-- 2025-09-09 — Tom Houghton — speakers: Tom Houghton Living, Tom Houghton, Mark Simmons
+- 2025-09-16 — Becky Umbers — speakers: Becky Umbers New Zealands, Becky Umbers, Mark Simmons
+- 2025-09-09 — Tom Houghton — speakers: Tom Houghton Living, Mark Simmons
 - 2025-09-01 — Simon Harriyott — speakers: Simon Harriyott Joke, Simon Harriyott, Mark Simmons
 - 2025-08-25 — Fringe Talk - The Finale — speakers: Fringe Talk, Mark Simmons
 - 2025-08-22 — Fringe Talk - Day 20 (Ft. Luke Meredith) — speakers: Fringe Talk Day, Luke Meredith, Mark Simmons
@@ -7473,7 +7120,7 @@
 - 2025-08-13 — Fringe Talk - Day 11 (Ft. Chortle Editor Steve Bennett) — speakers: Fringe Talk Day, Steve Bennett, Mark Simmons
 - 2025-08-12 — Fringe Talk - Day 10 (Ft. Jo Caulfield) — speakers: Fringe Talk Day, Jo Caulfield, Mark Simmons
 - 2025-08-11 — Fringe Talk - Day 9 (Ft. Sophia Wren) — speakers: Fringe Talk Day, Sophia Wren, Sophie Wren, Mark Simmons
-- 2025-08-10 — Fringe Talk - Day 8 (Ft. Hils Jago) — speakers: Fringe Talk Day, Hils Jago, Jack Whitehall, Rob Beckett, Sarah Millican, Mark Simmons
+- 2025-08-10 — Fringe Talk - Day 8 (Ft. Hils Jago) — speakers: Fringe Talk Day, Hils Jago, Jack Whitehall, Rob Becke, Mark Simmons
 - 2025-08-09 — Fringe Talk - Day 7 — speakers: Fringe Talk Day, Mark Simmons
 - 2025-08-08 — Fringe Talk - Day 6 — speakers: Fringe Talk Day, Mark Simmons
 - 2025-08-07 — Fringe Talk - Day 5 (Ft. Ray O'Leary) — speakers: Fringe Talk, Ray O'Leary, Mark Simmons
@@ -7481,101 +7128,101 @@
 - 2025-08-05 — Fringe Talk - Day 3 (Ft. Emmanuel Sonubi) — speakers: Fringe Talk Day, Emmanuel Sonubi, Edinburgh Award, Mark Simmons
 - 2025-08-04 — Fringe Talk - Day 2 — speakers: Fringe Talk Day, Mark Simmons
 - 2025-08-03 — Fringe Talk - Day 1 — speakers: Fringe Talk Day, Mark Simmons
-- 2025-08-02 — Ian Smith — speakers: Ian Smith, Edinburgh Award Nominee, Ian Smith Monkey Barrell, Danny Ward Banshee, Mark Simmons Liquid, Mark Simmons
-- 2025-07-25 — Gill Cordiner — speakers: Gill Cordiner Cover, Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2025-07-18 — Ben Hurley — speakers: Ben Hurley, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-07-10 — Andrew Hamilton — speakers: Andrew Hamilton Prison, Andrew Hamilton, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2025-07-01 — Chris Franklin — speakers: Chris Franklin Aussie, Chris Franklin, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2025-06-23 — Jonny Pelham — speakers: Jonny Pelham Star, Jonny Pelham, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2025-06-10 — Rory O'Hanlon — speakers: Rory O'Hanlon Rory, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-05-28 — Tour Talk - New Zealand Comedy Festival 2025 — speakers: Tour Talk New, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-05-12 — John Kearns — speakers: John Kearns Star, Edinburgh Award, John Kearns, Adam Riches, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne
+- 2025-08-02 — Ian Smith — speakers: Ian Smith, Edinburgh Award Nominee, Mark Simmons
+- 2025-07-25 — Gill Cordiner — speakers: Gill Cordiner Cover, Mark Simmons
+- 2025-07-18 — Ben Hurley — speakers: Ben Hurley, Mark Simmons
+- 2025-07-10 — Andrew Hamilton — speakers: Andrew Hamilton Prison, Andrew Hamilton, Mark Simmons
+- 2025-07-01 — Chris Franklin — speakers: Chris Franklin Aussie, Chris Franklin, Mark Simmons
+- 2025-06-23 — Jonny Pelham — speakers: Jonny Pelham Star, Jonny Pelham, Mark Simmons
+- 2025-06-10 — Rory O'Hanlon — speakers: Rory O'Hanlon Rory, Mark Simmons
+- 2025-05-28 — Tour Talk - New Zealand Comedy Festival 2025 — speakers: Tour Talk New, Mark Simmons
+- 2025-05-12 — John Kearns — speakers: John Kearns Star, Edinburgh Award, John Kearns, Mark Simmons
 - 2025-05-08 — Tour Talk - Melbourne Comedy Festival 2025 — speakers: Tour Talk Melbourne Comedy, Mark Simmons
-- 2025-04-24 — Rob Copland — speakers: Rob Copland, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-04-16 — Danny's Adelaide Adventure — speakers: Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-04-03 — Joz Norris — speakers: Joz Norris Joz, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-03-26 — Andrew Bird Returns — speakers: Andrew Bird, Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2025-03-20 — Michelle Shaughnessy Returns — speakers: Michelle Shaughnessy Returns Michelle, Follow Michelle, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2025-03-13 — Darren Walsh Returns — speakers: Darren Walsh Returns, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-03-03 — Abigoliah Schamaun Returns — speakers: Abigoliah Schamaun Returns, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-02-24 — Comics' Comic Awards 2024 Winners Revealed — speakers: Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-02-20 — Joey Page Is Back — speakers: Joey Page, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-02-12 — Ben Target — speakers: Ben Target, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-02-06 — Alexander Bennett — speakers: Alexander Bennett, Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2025-01-28 — Mark's Comedy Special — speakers: Mark's Comedy Special, iEuZvPU Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2025-01-23 — Milo Edwards — speakers: Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2025-01-16 — Tour Talk - Mark's Birthday Podcast — speakers: Tour Talk Mark, mailing list, Mark Simmons
-- 2025-01-09 — Paddy Young — speakers: Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2024-12-31 — Seann Walsh Is Back From The Bed — speakers: Mark Simmons, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
+- 2025-04-24 — Rob Copland — speakers: Rob Copland, Mark Simmons
+- 2025-04-16 — Danny's Adelaide Adventure — speakers: Mark Simmons
+- 2025-04-03 — Joz Norris — speakers: Joz Norris Joz, Mark Simmons
+- 2025-03-26 — Andrew Bird Returns — speakers: Andrew Bird, Mark Simmons
+- 2025-03-20 — Michelle Shaughnessy Returns — speakers: Michelle Shaughnessy Returns Michelle, Mark Simmons
+- 2025-03-13 — Darren Walsh Returns — speakers: Darren Walsh Returns, Mark Simmons
+- 2025-03-03 — Abigoliah Schamaun Returns — speakers: Abigoliah Schamaun Returns, Mark Simmons
+- 2025-02-24 — Comics' Comic Awards 2024 Winners Revealed — speakers: Comic Awards, Best Act, Best Independent Promoter, Outstanding Contribution, Mark Simmons
+- 2025-02-20 — Joey Page Is Back — speakers: Joey Page, Mark Simmons
+- 2025-02-12 — Ben Target — speakers: Ben Target, Mark Simmons
+- 2025-02-06 — Alexander Bennett — speakers: Alexander Bennett, Watch Mark, Mark Simmons
+- 2025-01-28 — Mark's Comedy Special — speakers: Mark's Comedy Special, Mark Simmons
+- 2025-01-23 — Milo Edwards — speakers: Mark Simmons
+- 2025-01-16 — Tour Talk - Mark's Birthday Podcast — speakers: Tour Talk Mark, Mark Simmons
+- 2025-01-09 — Paddy Young — speakers: Paddy Young Paddy Young, Mark Simmons
+- 2024-12-31 — Seann Walsh Is Back From The Bed — speakers: Mark Simmons
 - 2024-12-24 — Tour Talk: Xmas Special 2024 — speakers: Mark Simmons
-- 2024-12-19 — Penn & Teller — speakers: Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-12-19 — Penn & Teller — speakers: Teller Penn, Mark Simmons
 - 2024-12-11 — Tour Talk - Don't look back in clanger — speakers: Tour Talk Do, Mark Simmons
-- 2024-12-05 — Rosalie Minnitt — speakers: Rosalie Minnitt, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2024-11-28 — Davina Bentley — speakers: Davina Bentley Davina, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-12-05 — Rosalie Minnitt — speakers: Rosalie Minnitt, Mark Simmons
+- 2024-11-28 — Davina Bentley — speakers: Davina Bentley Davina, Mark Simmons
 - 2024-11-22 — Tour Talk - Danny Gets Hacked — speakers: Gets Hacked, Mark Simmons
-- 2024-11-13 — Jeff Dunham — speakers: Jeff Dunham, Wembley Arena, Manchester’s Co-op, Mark Simmons
+- 2024-11-13 — Jeff Dunham — speakers: Jeff Dunham, Mark Simmons
 - 2024-11-06 — Hannah Campbell — speakers: Hannah Campbell Recorded, Hanah Campbell, Mark Simmons
 - 2024-10-30 — Tour Talk - First Time Tour Support — speakers: Tour Talk First, Stuart Foreman, Mark Simmons
-- 2024-10-23 — Ting Lim — speakers: Ting Lim, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2024-10-15 — Adam Flood — speakers: Adam Flood Mark, Adam Flood, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2024-10-08 — Dan Tiernan — speakers: Dan Tiernan, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-10-23 — Ting Lim — speakers: Ting Lim, Mark Simmons
+- 2024-10-15 — Adam Flood — speakers: Adam Flood Mark, Adam Flood, Mark Simmons
+- 2024-10-08 — Dan Tiernan — speakers: Dan Tiernan, Mark Simmons
 - 2024-10-01 — Tour Talk - Joke Of The Fringe — speakers: Tour Talk Joke, Mark Simmons
-- 2024-09-24 — Tour Talk - Danny's LA meetings — speakers: Tour Talk Danny, Jay Leno, Joe Rogan, Mark Simmons
-- 2024-09-16 — James Wallace — speakers: James Wallace, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-09-24 — Tour Talk - Danny's LA meetings — speakers: Tour Talk Danny, Jay Leno, Mark Simmons
+- 2024-09-16 — James Wallace — speakers: James Wallace, Mark Simmons
 - 2024-09-05 — Luke Benson — speakers: Luke Benson, Mark Simmons
-- 2024-08-29 — Olivia Lee — speakers: Olivia Lee Chaotic, Olivia Lee, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
+- 2024-08-29 — Olivia Lee — speakers: Olivia Lee Chaotic, Olivia Lee, Mark Simmons
 - 2024-08-23 — Jason John Whitehead — speakers: Jason John Whitehead, Mark Simmons
 - 2024-08-09 — Alex Kealy — speakers: Alex Kealy, Mark Simmons
 - 2024-08-02 — Tom Elwes — speakers: Tom Elwes, Mark Simmons
-- 2024-07-22 — Olaf Falafel — speakers: Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-07-22 — Olaf Falafel — speakers: Olaf Falafel, Mark Simmons
 - 2024-07-10 — Tour Talk - Custard Cream Heist — speakers: Cream Heist, Mark Simmons
-- 2024-07-02 — Ollie Horn — speakers: Ollie Horn Ollie Horn, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-07-02 — Ollie Horn — speakers: Ollie Horn Ollie Horn, Mark Simmons
 - 2024-06-26 — Chelsea Birkby — speakers: Chelsea Birkby, Mark Simmons
 - 2024-06-18 — Tour Talk - Back at it — speakers: Tour Talk Back, Mark Simmons
-- 2024-06-12 — Bella Hull — speakers: Bella Hull, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-06-12 — Bella Hull — speakers: Bella Hull, Mark Simmons
 - 2024-06-05 — Tour Talk - Bad Gig & Jazzminton — speakers: Jazzminton Mark, Mark Simmons
-- 2024-05-27 — Michael Odewale — speakers: Michael Odewale, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2024-05-20 — Daniel Connell — speakers: Daniel Connell Great, Daniel Connell, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
+- 2024-05-27 — Michael Odewale — speakers: Michael Odewale, Mark Simmons
+- 2024-05-20 — Daniel Connell — speakers: Daniel Connell Great, Daniel Connell, Mark Simmons
 - 2024-05-13 — Tour Talk - Brisbane & New Zealand — speakers: New Zealand, Mark Simmons
-- 2024-04-29 — Ryan Cullen — speakers: Ryan Cullen Ryan Cullen, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-04-29 — Ryan Cullen — speakers: Ryan Cullen Ryan Cullen, Mark Simmons
 - 2024-04-22 — Tour Talk - New jokes, spiders & arm wrestling — speakers: Tour Talk New, Mark Simmons
-- 2024-04-16 — Don Biswas — speakers: Don Biswas, Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2024-04-08 — James Redmond — speakers: James Redmond, Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
+- 2024-04-16 — Don Biswas — speakers: Don Biswas, Mark Simmons
+- 2024-04-08 — James Redmond — speakers: James Redmond, Mark Simmons
 - 2024-04-01 — Tour Talk - Melbourne Comedy Festival — speakers: Mark Simmons
-- 2024-03-25 — Dave Ward — speakers: Dave Ward, Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2024-03-19 — Alexandra Haddow — speakers: Alexandra Haddow Brilliant, Alexandra Haddow, Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney
-- 2024-03-12 — Imran Yusuf — speakers: Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2024-03-05 — Sooz Kempner — speakers: Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-03-25 — Dave Ward — speakers: Dave Ward, Mark Simmons
+- 2024-03-19 — Alexandra Haddow — speakers: Alexandra Haddow Brilliant, Alexandra Haddow, Mark Simmons
+- 2024-03-12 — Imran Yusuf — speakers: Mark Simmons
+- 2024-03-05 — Sooz Kempner — speakers: Mark Simmons
 - 2024-02-27 — Chris Martin Returns — speakers: Chris Martin Returns, Chris Marting, Mark Simmons
-- 2024-02-19 — Sikisa — speakers: Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2024-02-19 — Sikisa — speakers: Mark Simmons
 - 2024-02-06 — Tour Talk - Mr Dojangles — speakers: Tour Talk Mr Dojangles, Mark Simmons
 - 2024-01-29 — Sam See — speakers: Sam See Jet, Sam See, Mark Simmons
 - 2024-01-22 — Tour Talk - Danny's First Set — speakers: Tour Talk Danny, Mark Simmons
 - 2024-01-16 — Jack Skipper — speakers: Jack Skipper, Mark Simmons
-- 2024-01-08 — Comic's Comic Award 2023 Winners Revealed — speakers: Comic Award, Comic Awards, Best Act, Best Independent Promoter, Mark Simmons
+- 2024-01-08 — Comic's Comic Award 2023 Winners Revealed — speakers: Comic Award, Comic Awards, Best Act, Mark Simmons
 - 2024-01-01 — Joe Bor Returns — speakers: Joe Bor, Mark Simmons
-- 2023-12-26 — Tour Talk - Lost In New York — speakers: Tour Talk Lost, Joe Bor, Mark Simmons
+- 2023-12-26 — Tour Talk - Lost In New York — speakers: Tour Talk Lost, Mark Simmons
 - 2023-12-19 — Tom Toal Returns — speakers: Tom Toal Returns, Tom Toal, Mark Simmons
 - 2023-12-12 — Sarah Roberts — speakers: Sarah Roberts, Mark Simmons
 - 2023-12-04 — Ben Van Der Velde — speakers: Ben Van Der Velde, Mark Simmons
-- 2023-11-28 — Nick Helm 3 — speakers: Nick Helm, Robbie Williams, Mark Simmons
+- 2023-11-28 — Nick Helm 3 — speakers: Nick Helm, Mark Simmons
 - 2023-11-21 — Tour Talk - Mark Goes Nuclear — speakers: Goes Nuclear, Mark Simmons
 - 2023-11-14 — Finlay Christie — speakers: Finlay Christie, Mark Simmons
 - 2023-11-07 — Katie Green — speakers: Katie Green, Mark Simmons
-- 2023-10-31 — Tour Talk - Portion of peas — speakers: Tour Talk Portion, Jason Donovan, Mark Simmons
+- 2023-10-31 — Tour Talk - Portion of peas — speakers: Tour Talk Portion, Mark Simmons
 - 2023-10-24 — Michael Fenton Stevens — speakers: Michael Fenton Stevens, Mark Simmons
 - 2023-10-16 — Tour Talk - We're back! — speakers: Mark Simmons
 - 2023-08-31 — Edinburgh Fringe Round Up — speakers: Edinburgh Fringe Round, Mark Simmons
 - 2023-08-10 — Abi Clarke — speakers: Abi Clarke Abi Clarke, Mark Simmons
-- 2023-08-03 — Edinburgh Talk - Matt Bragg — speakers: Edinburgh Talk Matt Bragg, Matt Bragg, Gareth Richards, Mark Simmons
+- 2023-08-03 — Edinburgh Talk - Matt Bragg — speakers: Edinburgh Talk Matt Bragg, Matt Bragg, Mark Simmons
 - 2023-07-27 — Nathan Caton — speakers: Nathan Caton Nathan, Mark Simmons
 - 2023-07-12 — Ali Woods — speakers: Ali Woods, Mark Simmons
-- 2023-07-06 — Markus Birdman Returns — speakers: Markus Birdman Returns, Markus Birdman, Mark Simmons
+- 2023-07-06 — Markus Birdman Returns — speakers: Markus Birdman Returns, Mark Simmons
 - 2023-07-03 — Tour Talk - Backstage at the Leicester Square Theatre — speakers: Tour Talk Backstage, Mark Simmons
 - 2023-06-29 — Fiona Ridgewell Returns — speakers: Fiona Ridgewell Returns Back, Mark Simmons
 - 2023-06-26 — Tour Talk - Backstage In Birmingham — speakers: Tour Talk Backstage, Mark Simmons
 - 2023-06-18 — Tour Talk - Cornwall vs Devon — speakers: vs Devon, Mark Simmons
-- 2023-06-11 — Tom Stade Returns — speakers: Tom Stade Returns Filming, Tom Stade, Mark Simmons
+- 2023-06-11 — Tom Stade Returns — speakers: Tom Stade Returns Filming, Mark Simmons
 - 2023-06-09 — Tour Talk - You Don't Play With Daniel J — speakers: Mark Simmons
 - 2023-06-04 — Best Bits: Glenn Moore — speakers: Glenn Moore, Mark Simmons
 - 2023-05-29 — Jojo Sutherland — speakers: Jojo Sutherland Great, Mark Simmons
@@ -7590,7 +7237,7 @@
 - 2023-03-13 — Mark's in Australia — speakers: Mark Simmons
 - 2023-03-06 — Jeff Innocent — speakers: Jeff Innocent, Mark Simmons
 - 2023-02-27 — Michelle Shaughnessy — speakers: Michelle Shaughnessy, Mark Simmons
-- 2023-02-20 — Mark In Singapore — speakers: Markus Birdman, Mark Simmons
+- 2023-02-20 — Mark In Singapore — speakers: Mark Simmons
 - 2023-02-12 — Ross McGrane — speakers: Ross McGrane, Mark Simmons
 - 2023-02-05 — Peter Rethinasamy — speakers: Peter Rethinasamy Peter Rethinasamy, Mark Simmons
 - 2023-01-30 — Laura Smyth — speakers: Laura Smyth, Mark Simmons
@@ -7616,7 +7263,7 @@
 - 2022-06-08 — Andrew White — speakers: Andrew White, Mark Simmons
 - 2022-06-02 — Paul F Taylor Returns — speakers: Taylor Returns, Mark Simmons
 - 2022-05-26 — Joey Page Returns — speakers: Joey Page, Mark Simmons
-- 2022-05-18 — Windsor featuring Russell Hicks — speakers: Russell Hicks Double, Russell Hicks, Mark Simmons
+- 2022-05-18 — Windsor featuring Russell Hicks — speakers: Russell Hicks Double, Mark Simmons
 - 2022-05-11 — Mike Cox — speakers: Mike Cox Mike Cox, Mark Simmons
 - 2022-05-03 — Steve Gribbin — speakers: Steve Gribbin, Mark Simmons
 - 2022-04-01 — Sean Collins — speakers: Sean Collins, Follow Kai, Mark Simmons
@@ -7624,32 +7271,32 @@
 - 2022-02-17 — Fiona Ridgewell — speakers: Fiona Ridgewell, Follow Mark, Mark Simmons
 - 2022-02-03 — Alistair Barrie — speakers: Alistair Barrie, Follow Mark, Mark Simmons
 - 2022-01-27 — Dan Evans returns — speakers: Dan Evans, Follow Mark, Mark Simmons
-- 2022-01-20 — Ian Stone — speakers: Ian Stone, Follow Mark, Mark Simmons
-- 2022-01-13 — Jessica Fostekew — speakers: Jessica Fostekew Jessica Fostekew, Jessica Fostekew, Follow Mark, Mark Simmons
+- 2022-01-20 — Ian Stone — speakers: Ian Stone, Follow Mark, Twitter Subs, Mark Simmons
+- 2022-01-13 — Jessica Fostekew — speakers: Jessica Fostekew Jessica Fostekew, Jessica Fostekew, Mark Simmons
 - 2022-01-07 — Esther Manito — speakers: Esther Manito, Esther Follow Mark, Mark Simmons
 - 2021-12-23 — Seann Walsh Christmas Special 2021! — speakers: Seann Walsh Christmas Special, Seann Walsh, Follow Seann, Mark Simmons
 - 2021-12-16 — Shaparak Khorsandi — speakers: Shaparak Khorsandi, Follow Mark, Mark Simmons
 - 2021-10-21 — 361 jokes 5 at a time (returns) — speakers: Follow Mark, Mark Simmons
 - 2021-09-25 — AN ANNOUNCEMENT — speakers: Mark Simmons
 - 2021-09-16 — Michael Fabbri — speakers: Michael Fabbri Michael Fabbri, Michael Fabbri, Follow Mark, Mark Simmons
-- 2021-09-10 — Colin Cloud — speakers: Colin Cloud Colin Cloud, Follow Mark, Mark Simmons
+- 2021-09-10 — Colin Cloud — speakers: Colin Cloud Colin Cloud, Mark Simmons
 - 2021-09-02 — Danny Ward returns (again)! — speakers: Danny Ward, Mark Simmons
 - 2021-08-26 — 361 jokes 5 at a time — speakers: Mark Simmons
 - 2021-08-22 — Stuart Mitchell — speakers: Stuart Mitchell, Follow Mark, Mark Simmons
 - 2021-08-12 — Ian Moore — speakers: Ian Moore Ian Moore, Ian Moore, Follow Mark, Mark Simmons
-- 2021-08-05 — Jarlath Regan — speakers: Jarlath Regan Jarlath Regan, Jarleth Regan, Follow Mark, Mark Simmons
-- 2021-07-29 — Carl Donnelly returns — speakers: Carl Donnelly, Follow Mark, Mark Simmons
+- 2021-08-05 — Jarlath Regan — speakers: Jarlath Regan Jarlath Regan, Jarleth Regan, Mark Simmons
+- 2021-07-29 — Carl Donnelly returns — speakers: Carl Donnelly, Mark Simmons
 - 2021-07-22 — Paul Savage — speakers: Paul Savage, Follow Mark, Mark Simmons
 - 2021-07-15 — Liz Miele — speakers: Liz Miele Liz Miele, Liz Miele, Follow Mark, Mark Simmons
 - 2021-07-02 — George Lewis — speakers: George Lewis George Lewis, Follow Mark, Mark Simmons
 - 2021-06-24 — Josh Berry — speakers: Josh Berry Josh, Follow Mark, Mark Simmons
 - 2021-06-17 — Eric Rushton — speakers: Eric Rushton, Follow Mark, Mark Simmons
-- 2021-06-12 — Garrett Millerick — speakers: Garrett Millerick Garret Millerick, Garrett Millerick, Follow Mark, Mark Simmons
+- 2021-06-12 — Garrett Millerick — speakers: Garrett Millerick Garret Millerick, Garrett Millerick, Follow Mark, Twitter Subscri, Mark Simmons
 - 2021-06-03 — Freddy Quinne — speakers: Freddy Quinne, Tik Tok, Follow Mark, Mark Simmons
 - 2021-05-27 — William Stone — speakers: William Stone, Follow Mark, Mark Simmons
 - 2021-05-19 — Darren Walsh — speakers: Darren Walsh, Follow Mark, Mark Simmons
 - 2021-05-13 — Andrew O'Neill — speakers: Andrew O'Neill, Follow Mark, Mark Simmons
-- 2021-05-06 — Morgan Rees — speakers: Follow Mark, Mark Simmons
+- 2021-05-06 — Morgan Rees — speakers: Morgan Rees Morgan Rees, Mark Simmons
 - 2021-05-03 — 361 Jokes, 5 at a time — speakers: Patreon Hosted, Mark Simmons
 - 2021-04-29 — Cally Beaton — speakers: Follow Mark, Mark Simmons
 - 2021-04-22 — Bobby Mair — speakers: Bobby Mair, Follow Mark, Mark Simmons
@@ -7666,119 +7313,119 @@
 - 2021-02-04 — El Baldiniho — speakers: Follow El, Mark Simmons
 - 2021-01-28 — Matt Rees — speakers: Matt Rees Matt Rees, Matt Rees, Follow Matt, Mark Simmons
 - 2021-01-21 — Martin Mor — speakers: Martin Mor, Martial Arts, Follow Martin, Mark Simmons
-- 2021-01-14 — Simon Lomas — speakers: Simon Lomas, Follow Simon, Mark Simmons
+- 2021-01-14 — Simon Lomas — speakers: Simon Lomas, Mark Simmons
 - 2021-01-07 — Brennan Reece — speakers: Brennan Reece Brennan Reece, Brennan Reece, Follow Brennan, Mark Simmons
-- 2020-12-24 — Seann Walsh Christmas Special! — speakers: Seann Walsh Christmas Special, Seann Walsh, Follow Seann, Mark Simmons
+- 2020-12-24 — Seann Walsh Christmas Special! — speakers: Seann Walsh Christmas Special, Seann Walsh, Mark Simmons
 - 2020-12-17 — Robert White — speakers: Robert White, Follow Robert, Mark Simmons
 - 2020-12-10 — Ken Cheng — speakers: Ken Cheng Ken Cheng, Ken Cheng, Follow Ken, Mark Simmons
 - 2020-12-03 — Eshaan Akbar — speakers: Eshaan Akbar Eshaan Akbar, Mark Simmons
-- 2020-11-27 — Milo McCabe — speakers: Follow Mark, Mark Simmons
-- 2020-11-19 — Chris Turner — speakers: Chris Turner, Mark Simmons
+- 2020-11-27 — Milo McCabe — speakers: Follow Mark, Twitter Subs, Mark Simmons
+- 2020-11-19 — Chris Turner — speakers: Chris Turner, Follow Chris, Mark Simmons
 - 2020-11-12 — Julian Deane — speakers: Julian Deane Julian Deane, Julian Deane, Follow Julian, Mark Simmons
-- 2020-11-05 — Chris Washington — speakers: Chris Washington, Mark Simmons
+- 2020-11-05 — Chris Washington — speakers: Chris Washington, Follow Chri, Mark Simmons
 - 2020-10-29 — Jim Campbell — speakers: Jim Campbell, Follow Jim, Mark Simmons
-- 2020-10-22 — Elliott Steel — speakers: Follow Elliott, Mark Simmons
+- 2020-10-22 — Elliott Steel — speakers: Elliott Steel Elliott Steel, Mark Simmons
 - 2020-10-15 — Phil Jerrod — speakers: Phil Jerrod, Follow Phil, Mark Simmons
 - 2020-10-08 — Alice Marshall — speakers: Alice Marshall Alice Marshall, Follow Alice, Mark Simmons
 - 2020-10-01 — Colin Leggo — speakers: Colin Leggo, Follow Colin, Mark Simmons
-- 2020-09-24 — Noel James — speakers: Noel James Noel James, Follow Noel, Mark Simmons
+- 2020-09-24 — Noel James — speakers: Noel James Noel James, Mark Simmons
 - 2020-09-10 — Adele Cliff — speakers: Adele Cliff Adele, Follow Adele, Mark Simmons
 - 2020-09-03 — Mick Ferry — speakers: Mick Ferry Mick Ferry, Mick Ferry, Mark Simmons
-- 2020-08-27 — Phil Ellis — speakers: Phil Ellis, Follow Phil, Mark Simmons
+- 2020-08-27 — Phil Ellis — speakers: Phil Ellis, Mark Simmons
 - 2020-08-20 — Will Duggan — speakers: Will Duggan, Mark Simmons
-- 2020-08-13 — Aaron Simmonds — speakers: Aaron Simmonds, Mark Simmons
-- 2020-08-06 — Aurie Styla — speakers: Follow Aurie, Mark Simmons
-- 2020-07-30 — Ross Smith — speakers: Ross Smith Ross Smith, Ross Smith, Follow Ross, Mark Simmons
+- 2020-08-13 — Aaron Simmonds — speakers: Aaron Simmonds, Aaron Simm, Mark Simmons
+- 2020-08-06 — Aurie Styla — speakers: Mark Simmons
+- 2020-07-30 — Ross Smith — speakers: Ross Smith Ross Smith, Ross Smith, Mark Simmons
 - 2020-07-23 — Jo Caulfield returns — speakers: Jo Caulfield, Follow Jo, Mark Simmons
 - 2020-07-16 — Sarah Millican pt 2 — speakers: Sarah Millican, Follow Sarah, Mark Simmons
-- 2020-07-09 — Sarah Millican pt 1 — speakers: Sarah Millican, Milton Jones, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2020-07-09 — Sarah Millican pt 1 — speakers: Sarah Millican, Mark Simmons
 - 2020-07-02 — Stephen Grant — speakers: Stephen Grant Stephen Grant, Stephen Grant, Follow Stephen, Mark Simmons
-- 2020-07-01 — *BONUS* John Hastings — speakers: John Hastings, Follow John, Mark Simmons
+- 2020-07-01 — *BONUS* John Hastings — speakers: Mark Simmons
 - 2020-06-25 — Chris Martin — speakers: Chris Martin, Mark Simmons
 - 2020-06-18 — Matt Green — speakers: Matt Green Matt Green, Matt Green, Follow Matt, Mark Simmons
 - 2020-06-11 — Charlie Baker — speakers: Charlie Baker, Mark Simmons
-- 2020-06-04 — Dane Baptiste returns — speakers: Mark Simmons
-- 2020-06-01 — Kelly Convey — speakers: Kelly Convey Kelly Convey, Kelly Convey, Follow Kelly, Mark Simmons
+- 2020-06-04 — Dane Baptiste returns — speakers: Dane Baptiste, Mark Simmons
+- 2020-06-01 — Kelly Convey — speakers: Kelly Convey Kelly Convey, Kelly Convey, Mark Simmons
 - 2020-05-28 — Michael Akadiri — speakers: Michael Akadiri, Mark Simmons
-- 2020-05-26 — Susie McCabe — speakers: Susie McCabe, Follow Susie, Mark Simmons
+- 2020-05-26 — Susie McCabe — speakers: Susie McCabe, Mark Simmons
 - 2020-05-21 — Joe Wells — speakers: Joe Wells Joe Wells, Joe Wells Follow Joe, Mark Simmons
 - 2020-05-18 — Russell Hicks — speakers: Russell Hicks Russell Hicks, Follow Mark, Mark Simmons
-- 2020-05-14 — Nick Helm returns — speakers: Nick Helm, Robbie Williams Patreon, Follow Nick, Mark Simmons
-- 2020-05-11 — Kai Humphries — speakers: Kai Humphries Kai Humphries, Follow Kai, Mark Simmons
+- 2020-05-14 — Nick Helm returns — speakers: Nick Helm, Robbie Williams Patreon, Mark Simmons
+- 2020-05-11 — Kai Humphries — speakers: Kai Humphries Kai Humphries, Mark Simmons
 - 2020-05-07 — Markus Birdman — speakers: Markus Birdman, Mark Simmons
-- 2020-05-04 — Peter Brush — speakers: Peter Brush, Tony Cowards, Follow Mark, Mark Simmons
-- 2020-04-30 — Tony Cowards — speakers: Tony Cowards Tony, Tony Cowards, Follow Tony, Mark Simmons
-- 2020-04-27 — Scott Bennett — speakers: Scott Bennett, Follow Scott, Mark Simmons
-- 2020-04-23 — Gareth Richards — speakers: Gareth Richards, Follow Gareth, Mark Simmons
-- 2020-04-20 — Stuart Goldsmith — speakers: Stuart Goldsmith, Watch Mark, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh
-- 2020-04-16 — Sarah Keyworth — speakers: Sarah Keyworth, Follow Sarah, Mark Simmons
+- 2020-05-04 — Peter Brush — speakers: Peter Brush, Tony Cowards, Mark Simmons
+- 2020-04-30 — Tony Cowards — speakers: Tony Cowards Tony, Tony Cowards, Mark Simmons
+- 2020-04-27 — Scott Bennett — speakers: Scott Bennett, Mark Simmons
+- 2020-04-23 — Gareth Richards — speakers: Gareth Richards, Mark Simmons
+- 2020-04-20 — Stuart Goldsmith — speakers: Stuart Goldsmith, Watch Mark, Mark Simmons
+- 2020-04-16 — Sarah Keyworth — speakers: Sarah Keyworth, Mark Simmons
 - 2020-04-13 — Tez Ilyas — speakers: Tez Ilyas, Follow Tez, Mark Simmons
 - 2020-04-09 — Tom Allen — speakers: Tom Allen, Mark Simmons
 - 2020-04-06 — Alice Fraser — speakers: Alice Fraser, Follow Alice, Mark Simmons
 - 2020-04-02 — Tiff Stevenson — speakers: Tiff Stevenson, Mark Simmons
 - 2020-03-30 — Desiree Burch — speakers: Desiree Burch Desiree Burch, Mark Simmons
 - 2020-03-26 — Kevin McCarthy — speakers: Kevin McCarthy, Follow Mark, Mark Simmons
-- 2020-03-24 — *BONUS* from the archives — speakers: Rob Beckett, Ed Gamble, Gary Delaney, Rhys James, Follow Mark, Mark Simmons
-- 2020-03-19 — Dan Evans — speakers: Dan Evans, Follow Dan, Mark Simmons
-- 2020-03-12 — Andrea Hubert — speakers: Andrea Hubert Andrea Hubert, Follow Andrea, Mark Simmons
+- 2020-03-24 — *BONUS* from the archives — speakers: Rob Beckett, Ed Gamble, Gary Delaney, Rhys James, Mark Simmons
+- 2020-03-19 — Dan Evans — speakers: Dan Evans, Mark Simmons
+- 2020-03-12 — Andrea Hubert — speakers: Andrea Hubert Andrea Hubert, Mark Simmons
 - 2020-03-05 — Paul McCaffrey — speakers: Paul McCaffrey, Follow Paul, Mark Simmons
 - 2020-02-27 — Phil Nichol — speakers: Phil Nichol, Follow Phil, Mark Simmons
-- 2020-02-20 — Rhys James — speakers: Rhys James, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2020-02-20 — Rhys James — speakers: Rhys James, Mark Simmons
 - 2020-02-13 — Tom Stade — speakers: Tom Stade Tom Stade, Mark Simmons
-- 2020-02-06 — Sean McLoughlin — speakers: Sean McLoughlin, Follow Sean, Mark Simmons
-- 2020-01-30 — Mike Gunn — speakers: Mike Gunn Mike Gunn, Follow Mike, Mark Simmons
+- 2020-02-06 — Sean McLoughlin — speakers: Sean McLoughlin, Mark Simmons
+- 2020-01-30 — Mike Gunn — speakers: Mike Gunn Mike Gunn, Mark Simmons
 - 2020-01-23 — Adam Bloom — speakers: Adam Bloom Adam Bloom, Follow Adam, Mark Simmons
-- 2020-01-17 — Joe Jacobs — speakers: Joe Jacobs Joe Jacobs, Joe Jacobs, Follow Joe, Mark Simmons
-- 2020-01-09 — Sally-Anne Hayward — speakers: Sally-Anne Hayward, Follow Sally-Anne, Mark Simmons
-- 2020-01-02 — Daniel Muggleton — speakers: Daniel Muggleton, Mark Simmons
-- 2019-12-26 — Rich Wilson — speakers: Rich Wilson, Merry Christmas Jokes, Follow Oliver, Mark Simmons
-- 2019-12-19 — Abigoliah Schamaun — speakers: Abigoliah Schamaun Abigoliah, Follow Abigoliah, Mark Simmons
-- 2019-12-17 — *BONUS* Edinburgh LIVE! #4 — speakers: Sukh Ojla, Josh Berry, Tania Edwards, Follow Mark, Mark Simmons
-- 2019-12-12 — Dr Oliver Double — speakers: Oliver Double, Follow Oliver, Mark Simmons
-- 2019-12-05 — Gary Delaney — speakers: Gary Delaney, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Seann Walsh, Mark Simmons
-- 2019-11-28 — Ed Byrne — speakers: Ed Byrne Ed Byrne, Ed Byrne, Milton Jones, Sarah Millican, Rob Beckett, Gary Delaney, Seann Walsh, Mark Simmons
-- 2019-11-21 — Milton Jones — speakers: Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
-- 2019-11-14 — Nigel Ng — speakers: Nigel Ng, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2020-01-17 — Joe Jacobs — speakers: Joe Jacobs Joe Jacobs, Joe Jacobs, Mark Simmons
+- 2020-01-09 — Sally-Anne Hayward — speakers: Sally-Anne Hayward, Mark Simmons
+- 2020-01-02 — Daniel Muggleton — speakers: Daniel Muggleton, Follow Dan, Mark Simmons
+- 2019-12-26 — Rich Wilson — speakers: Rich Wilson, Merry Christmas Jo, Mark Simmons
+- 2019-12-19 — Abigoliah Schamaun — speakers: Abigoliah Schamaun Abigoliah, Mark Simmons
+- 2019-12-17 — *BONUS* Edinburgh LIVE! #4 — speakers: Sukh Ojla, Josh Berry, Tania Edwards, Mark Simmons
+- 2019-12-12 — Dr Oliver Double — speakers: Oliver Double, Mark Simmons
+- 2019-12-05 — Gary Delaney — speakers: Gary Delaney, Mark Simmons
+- 2019-11-28 — Ed Byrne — speakers: Ed Byrne Ed Byrne, Ed Byrne, Mark Simmons
+- 2019-11-21 — Milton Jones — speakers: Milton Jones, Mark Simmons
+- 2019-11-14 — Nigel Ng — speakers: Nigel Ng, Watch Mar, Mark Simmons
 - 2019-11-07 — Paul F Taylor — speakers: Follow Paul, Mark Simmons
 - 2019-10-24 — Chris Stokes — speakers: Chris Stokes, Mark Simmons
-- 2019-10-17 — Thomas Green — speakers: Thomas Green, Follow Thomas, Mark Simmons
-- 2019-10-10 — Matt Richardson — speakers: Matt Richardson TV, Matt Richardson, Follow Matt, Mark Simmons
-- 2019-10-03 — Tape Face — speakers: Follow Bec, Mark Simmons
-- 2019-09-26 — Stuart Foreman AKA Kurt Driver (first sets special) — speakers: Stuart Foreman, Kurt Driver, Follow Bec, Mark Simmons
+- 2019-10-17 — Thomas Green — speakers: Thomas Green, Mark Simmons
+- 2019-10-10 — Matt Richardson — speakers: Matt Richardson TV, Matt Richardson, Mark Simmons
+- 2019-10-03 — Tape Face — speakers: Tape Face Awooga, Tape Face, Mark Simmons
+- 2019-09-26 — Stuart Foreman AKA Kurt Driver (first sets special) — speakers: Stuart Foreman, Kurt Driver, Mark Simmons
 - 2019-09-19 — Bec Hill — speakers: Bec Hill, Follow Bec, Mark Simmons
-- 2019-09-12 — Eli Mathewson and Joey Page — speakers: Joey Page, Follow Eli, Mark Simmons
-- 2019-09-05 — Ian Smith and Jack Gleadow — speakers: Ian Smith, Jack Gleadow Ian, Follow Ian, Mark Simmons
-- 2019-08-29 — Joe Bor — speakers: Joe Bor Joe Bor, Follow Joe, Mark Simmons
-- 2019-08-25 — *BONUS* Edinburgh LIVE! #3 — speakers: Edinburgh Fringe, Travis Jay, Phillip Simon, Eric Lampaert, Steve Lee, Mark Simmons
-- 2019-08-22 — Jo Caulfield — speakers: Jo Caulfield, Follow Jo, Mark Simmons
-- 2019-08-18 — *BONUS* Edinburgh LIVE! #2 — speakers: Edinburgh Fringe, Steve Bujega, William Stone, Daniel Muggleton, Darren Walsh, Danny Posthill, Adele Cliff, Mark Simmons
-- 2019-08-15 — Jonny Awsum — speakers: Jonny Awsum, Frank Turner, Follow Jonny, Mark Simmons
-- 2019-08-11 — *BONUS* Edinburgh LIVE! #1 — speakers: Jake Lambert, Jess Robinson, Jenny Bede, Josh Pugh, Chris Washington, Mark Simmons
+- 2019-09-12 — Eli Mathewson and Joey Page — speakers: Joey Page, Mark Simmons
+- 2019-09-05 — Ian Smith and Jack Gleadow — speakers: Ian Smith, Jack Gleadow Ian, Mark Simmons
+- 2019-08-29 — Joe Bor — speakers: Joe Bor Joe Bor, Mark Simmons
+- 2019-08-25 — *BONUS* Edinburgh LIVE! #3 — speakers: Edinburgh Fringe, Mark Simmons
+- 2019-08-22 — Jo Caulfield — speakers: Jo Caulfield, Mark Simmons
+- 2019-08-18 — *BONUS* Edinburgh LIVE! #2 — speakers: Edinburgh Fringe, Mark Simmons
+- 2019-08-15 — Jonny Awsum — speakers: Jonny Awsum, Mark Simmons
+- 2019-08-11 — *BONUS* Edinburgh LIVE! #1 — speakers: Edinburgh Fringe Festival, Mark Simmons
 - 2019-08-08 — Darren Walsh — speakers: Darren Walsh, Follow Darren, Mark Simmons
 - 2019-08-01 — Tom Deacon — speakers: Tom Deacon, Mark Simmons
-- 2019-07-28 — *BONUS* Rob Auton — speakers: Rob Auton, Follow Rob, Mark Simmons
-- 2019-07-25 — Paul Foot — speakers: Paul Foot Paul Foot, Paul Foot, Follow Paul, Mark Simmons
-- 2019-07-21 — *BONUS* Thanyia Moore — speakers: Mark Simmons
+- 2019-07-28 — *BONUS* Rob Auton — speakers: Rob Auton, Mark Simmons
+- 2019-07-25 — Paul Foot — speakers: Paul Foot Paul Foot, Paul Foot, Mark Simmons
+- 2019-07-21 — *BONUS* Thanyia Moore — speakers: Thanyia Moore Thanyia Moore, Thanyia Moor, Mark Simmons
 - 2019-07-18 — Rob Beckett — speakers: Rob Beckett, Good Dude, Mark Simmons
-- 2019-07-14 — *BONUS* Jacob Hawley — speakers: Jacob Hawley Jacob Hawley, Jacob Hawley, Mark Simmons
-- 2019-07-11 — Seann Walsh returns — speakers: Seann Walsh, Follow Seann, Mark Simmons
-- 2019-07-07 — *BONUS* Danny Ward — speakers: Danny Ward, Danny Ward Follow Danny, Mark Simmons
+- 2019-07-14 — *BONUS* Jacob Hawley — speakers: Jacob Hawley Jacob Hawley, Mark Simmons
+- 2019-07-11 — Seann Walsh returns — speakers: Seann Walsh, Mark Simmons
+- 2019-07-07 — *BONUS* Danny Ward — speakers: Danny Ward, Mark Simmons
 - 2019-07-04 — Carl Donnelly — speakers: Carl Donnelly Carl, Kanye West, Mark Simmons
-- 2019-06-27 — Trevor Lock — speakers: Trevor Lock, Follow Trevor Lock, Mark Simmons
-- 2019-06-20 — Flo & Joan — speakers: Mark Simmons
-- 2019-06-13 — Alasdair Beckett-King — speakers: Alasdair Beckett-King Alasdair Beckett-King, Follow Alasdair, Mark Simmons
-- 2019-06-06 — Jake Lambert — speakers: Jake Lambert, Follow Jake, Mark Simmons
+- 2019-06-27 — Trevor Lock — speakers: Trevor Lock, Mark Simmons
+- 2019-06-20 — Flo & Joan — speakers: Joan Flo, Mark Simmons
+- 2019-06-13 — Alasdair Beckett-King — speakers: Alasdair Beckett-King Alasdair Beckett-King, Mark Simmons
+- 2019-06-06 — Jake Lambert — speakers: Jake Lambert, Mark Simmons
 - 2019-05-30 — Julian Deane — speakers: Julian Deane Ace, Julian Deane, Mark Simmons
 - 2019-05-23 — Tom Toal — speakers: Tom Toal, Mark Simmons
 - 2019-05-16 — Dane Baptiste — speakers: Dane Baptiste, Mark Simmons
 - 2019-05-09 — The Noise Next Door — speakers: Mark Simmons
-- 2019-05-02 — Lauren Pattison — speakers: Lauren Pattison Edinburgh, Lauren Pattison, Follow Lauren, Mark Simmons
-- 2019-04-25 — Nick Helm — speakers: Nick Helm Superb, Nick Helm, Follow Nick, Mark Simmons
-- 2019-04-18 — David Trent — speakers: David Trent, Enjoy David, Follow David, Mark Simmons
-- 2019-04-11 — Laura Lexx — speakers: Laura Lexx, Follow Laura, Mark Simmons
-- 2019-04-04 — Lloyd Griffith — speakers: Lloyd Griffith, Follow Lloyd, Mark Simmons
-- 2019-03-28 — Angela Barnes — speakers: Angela Barnes Mock, Angela Barnes, Rose Tinted, Follow Angela, Mark Simmons
-- 2019-03-21 — Tom Lucy — speakers: Tom Lucy Disgustingly, Tom Lucy, Mark Simmons, Follow Tom
-- 2019-03-14 — Seann Walsh — speakers: Seann Walsh Mark, Seann Walsh, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Mark Simmons
-- 2019-03-14 — Glenn Moore — speakers: Glenn Moore, Milton Jones, Sarah Millican, Rob Beckett, Ed Byrne, Gary Delaney, Seann Walsh, Mark Simmons
+- 2019-05-02 — Lauren Pattison — speakers: Lauren Pattison Edinburgh, Lauren Pattison, Mark Simmons
+- 2019-04-25 — Nick Helm — speakers: Nick Helm Superb, Nick Helm, Mark Simmons
+- 2019-04-18 — David Trent — speakers: David Trent, Mark Simmons
+- 2019-04-11 — Laura Lexx — speakers: Laura Lexx, Mark Simmons
+- 2019-04-04 — Lloyd Griffith — speakers: Lloyd Griffith, Mark Simmons
+- 2019-03-28 — Angela Barnes — speakers: Angela Barnes Mock, Angela Barnes, Mark Simmons
+- 2019-03-21 — Tom Lucy — speakers: Tom Lucy Disgustingly, Tom Lucy, Mark Simmons
+- 2019-03-14 — Seann Walsh — speakers: Seann Walsh Mark, Seann Walsh, Mark Simmons
+- 2019-03-14 — Glenn Moore — speakers: Glenn Moore, Mark Simmons
 - 2019-03-05 — Trailer — speakers: Mark Simmons
