@@ -2,10 +2,10 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"djEuMi4wOjE3NzEzOTQ1MDAxNjc="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-24T10:08:52+00:00`
+- checked_at: `2026-02-24T10:08:52+00:00`
+- etag: `"djEuMi4wOjE3NzE5MjQ1NzMxNjY="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,14 +17,14 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-24T10:08:52+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british"
+    "comedy"
   ],
   "episodes": [
     {
@@ -39,8 +39,6 @@
       "enclosure_length": "68450984",
       "itunes_duration": "47:26",
       "speakers": [
-        "Stream Glenn",
-        "Sky Comedy",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -62,8 +60,6 @@
       "itunes_duration": "47:24",
       "speakers": [
         "Iron Dick Full",
-        "Stream Glenn",
-        "Sky Comedy",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -84,9 +80,7 @@
       "enclosure_length": "69197093",
       "itunes_duration": "47:55",
       "speakers": [
-        "Michael Bublé",
-        "Stream Glenn",
-        "Sky Comedy",
+        "Egg Full",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -104,8 +98,6 @@
       "enclosure_length": "67552319",
       "itunes_duration": "46:49",
       "speakers": [
-        "Stream Glenn",
-        "Sky Comedy",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -149,8 +141,6 @@
       "speakers": [
         "Augustus Gains",
         "Steve Martin",
-        "Koji Subscribe",
-        "Stream Glenn",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -171,8 +161,8 @@
       "enclosure_length": "68415947",
       "itunes_duration": "47:25",
       "speakers": [
-        "Koji Subscribe",
-        "Stream Glenn",
+        "Beef Impact",
+        "New Year",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -194,8 +184,6 @@
       "itunes_duration": "45:42",
       "speakers": [
         "Ronald McDonald Milking Machine",
-        "Koji Subscribe",
-        "Stream Glenn",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -219,8 +207,6 @@
       "enclosure_length": "78468459",
       "itunes_duration": "54:20",
       "speakers": [
-        "Koji Subscribe",
-        "Stream Glenn",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -240,7 +226,6 @@
       "enclosure_length": "66847503",
       "itunes_duration": "46:16",
       "speakers": [
-        "Koji Subscribe",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -322,7 +307,6 @@
       "enclosure_length": "73009893",
       "itunes_duration": "50:32",
       "speakers": [
-        "Croydon Halloween",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -361,9 +345,6 @@
       "enclosure_length": "92553813",
       "itunes_duration": "1:04:15",
       "speakers": [
-        "Stuart Laws",
-        "Tat Attack",
-        "Koji Glenn",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -388,8 +369,6 @@
       "itunes_duration": "47:27",
       "speakers": [
         "Phil Wang",
-        "Stuart Laws",
-        "Koji Glenn",
         "Pierre Novellie"
       ],
       "topics": [
@@ -432,7 +411,6 @@
       "itunes_duration": "46:21",
       "speakers": [
         "My Son",
-        "Yellow Submarine",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -490,7 +468,6 @@
       "enclosure_length": "64321217",
       "itunes_duration": "44:34",
       "speakers": [
-        "Koji Glenn",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -692,8 +669,6 @@
       "enclosure_length": "50660395",
       "itunes_duration": "35:10",
       "speakers": [
-        "Sara Cox",
-        "Clare Hamilton",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -794,8 +769,6 @@
       "enclosure_length": "73584236",
       "itunes_duration": "50:59",
       "speakers": [
-        "Glenn Moore",
-        "Tat Attack",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -816,7 +789,6 @@
       "enclosure_length": "70966351",
       "itunes_duration": "49:11",
       "speakers": [
-        "Phil Moments",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -837,7 +809,6 @@
       "enclosure_length": "70966351",
       "itunes_duration": "49:11",
       "speakers": [
-        "Phil Moments",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1121,8 +1092,6 @@
       "enclosure_length": "65085540",
       "itunes_duration": "45:11",
       "speakers": [
-        "Catch Pierre",
-        "Watch Phil",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1142,7 +1111,7 @@
       "enclosure_length": "18373819",
       "itunes_duration": "12:45",
       "speakers": [
-        "Batman Smells",
+        "Smelly Batman Every Monday",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1207,8 +1176,6 @@
       "enclosure_length": "75671755",
       "itunes_duration": "52:32",
       "speakers": [
-        "Catch Pierre",
-        "Watch Phil",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1252,8 +1219,6 @@
       "enclosure_length": "63000676",
       "itunes_duration": "43:43",
       "speakers": [
-        "Catch Pierre",
-        "Watch Phil",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1273,6 +1238,7 @@
       "enclosure_length": "13778799",
       "itunes_duration": "9:33",
       "speakers": [
+        "Football Oracle Every Monday",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1295,9 +1261,6 @@
       "enclosure_length": "72060484",
       "itunes_duration": "49:55",
       "speakers": [
-        "Kendrick Lamar",
-        "Catch Pierre",
-        "Watch Phil",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1318,6 +1281,7 @@
       "enclosure_length": "15104949",
       "itunes_duration": "10:28",
       "speakers": [
+        "Baby Every Monday",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1340,8 +1304,8 @@
       "enclosure_length": "66699249",
       "itunes_duration": "46:08",
       "speakers": [
-        "Catch Pierre",
-        "Watch Phil",
+        "Male Archetypes Enjoy",
+        "Melbourne Comedy Festival",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1362,6 +1326,8 @@
       "enclosure_length": "9609396",
       "itunes_duration": "6:40",
       "speakers": [
+        "Imaginary Son Introducing",
+        "Every Monday",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1384,11 +1350,10 @@
       "enclosure_length": "62747302",
       "itunes_duration": "43:26",
       "speakers": [
-        "Catch Pierre",
-        "Watch Phil",
-        "Pierre Novellie",
-        "Felipe Franco Edited",
-        "Phil Wang"
+        "Josef Pwag Enjoy",
+        "Melbourne Comedy Festival",
+        "Phil Wang",
+        "Pierre Novellie"
       ],
       "topics": [
         "josef",
@@ -1407,6 +1372,7 @@
       "enclosure_length": "17883691",
       "itunes_duration": "12:24",
       "speakers": [
+        "Every Monday",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1427,11 +1393,9 @@
       "enclosure_length": "74390854",
       "itunes_duration": "51:25",
       "speakers": [
-        "Catch Pierre",
-        "Watch Phil",
-        "Pierre Novellie",
-        "Felipe Franco Edited",
-        "Phil Wang"
+        "Evolution Goofy Welcome",
+        "Phil Wang",
+        "Pierre Novellie"
       ],
       "topics": [
         "anti",
@@ -1452,11 +1416,8 @@
       "itunes_duration": "57:01",
       "speakers": [
         "Cs Welcome",
-        "Catch Pierre",
-        "Watch Phil",
-        "Pierre Novellie",
-        "Felipe Franco Edited",
-        "Phil Wang"
+        "Phil Wang",
+        "Pierre Novellie"
       ],
       "topics": []
     },
@@ -1472,10 +1433,8 @@
       "enclosure_length": "66034931",
       "itunes_duration": "45:47",
       "speakers": [
-        "Watch Phil",
-        "Pierre Novellie",
-        "Felipe Franco Edited",
-        "Phil Wang"
+        "Phil Wang",
+        "Pierre Novellie"
       ],
       "topics": [
         "budpod"
@@ -1493,9 +1452,6 @@
       "enclosure_length": "76133720",
       "itunes_duration": "52:47",
       "speakers": [
-        "Harry Potter",
-        "Tat Attack",
-        "Watch Phil",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1537,9 +1493,6 @@
       "itunes_duration": "53:50",
       "speakers": [
         "Rock BudPod",
-        "Rock Johnson",
-        "Catch Pierre",
-        "Watch Phil",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1561,10 +1514,8 @@
       "enclosure_length": "66314565",
       "itunes_duration": "45:52",
       "speakers": [
-        "Harry Potter",
-        "Elon Musk",
-        "Catch Pierre",
-        "Watch Phil",
+        "Brett Goldstein",
+        "Sexy Hagrid",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1585,8 +1536,6 @@
       "enclosure_length": "79878741",
       "itunes_duration": "55:22",
       "speakers": [
-        "Catch Pierre",
-        "Watch Phil",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1713,7 +1662,6 @@
       "itunes_duration": "48:36",
       "speakers": [
         "Margaret Thatcher",
-        "uk Koji",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1921,6 +1869,8 @@
       "enclosure_length": "68677330",
       "itunes_duration": "46:41",
       "speakers": [
+        "Lola Bunny Pierre",
+        "Anniversary Special",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -1978,7 +1928,7 @@
       "enclosure_length": "68013791",
       "itunes_duration": "47:13",
       "speakers": [
-        "Kamala Harris",
+        "Kamala Harr",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2013,6 +1963,7 @@
       "enclosure_length": "100557269",
       "itunes_duration": "1:09:49",
       "speakers": [
+        "Hello Labour",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2132,7 +2083,6 @@
       "enclosure_length": "87823175",
       "itunes_duration": "45:44",
       "speakers": [
-        "Teflon Toilet",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2152,7 +2102,6 @@
       "enclosure_length": "90095202",
       "itunes_duration": "46:55",
       "speakers": [
-        "Werk House",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2174,8 +2123,6 @@
       "itunes_duration": "45:02",
       "speakers": [
         "Tony Hawke",
-        "Virgin Atlantic",
-        "Simon Parkin",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2236,8 +2183,6 @@
       "enclosure_length": "90570003",
       "itunes_duration": "47:10",
       "speakers": [
-        "Taylor Swift",
-        "Halesowen Go",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2335,7 +2280,6 @@
       "itunes_duration": "47:24",
       "speakers": [
         "Dylan Thomas",
-        "Tomb Raider",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2377,7 +2321,6 @@
       "enclosure_length": "90034180",
       "itunes_duration": "46:53",
       "speakers": [
-        "Sweet Pete",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2438,7 +2381,6 @@
       "enclosure_length": "96518399",
       "itunes_duration": "50:15",
       "speakers": [
-        "Famous Hosted",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2519,6 +2461,7 @@
       "enclosure_length": "89268478",
       "itunes_duration": "46:29",
       "speakers": [
+        "Inside Meat Wang",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2539,7 +2482,7 @@
       "enclosure_length": "91334869",
       "itunes_duration": "47:34",
       "speakers": [
-        "Sam Gingell",
+        "Sexy Secrets",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2580,8 +2523,6 @@
       "enclosure_length": "104479685",
       "itunes_duration": "54:24",
       "speakers": [
-        "Sweeter Peter",
-        "Gabrielle’s Incredible",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2638,7 +2579,6 @@
       "itunes_duration": "47:06",
       "speakers": [
         "Luke Kempner",
-        "Graham Norton",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2679,7 +2619,6 @@
       "itunes_duration": "49:17",
       "speakers": [
         "Glenn Harder",
-        "Harry Kane",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2703,7 +2642,6 @@
       "speakers": [
         "Glenn Moore",
         "Phil Wang",
-        "Grima Wormtongue",
         "Pierre Novellie"
       ],
       "topics": [
@@ -2764,7 +2702,6 @@
       "itunes_duration": "45:27",
       "speakers": [
         "Oobah Butler",
-        "Pearl Jam",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2801,6 +2738,7 @@
       "enclosure_length": "93966340",
       "itunes_duration": "48:56",
       "speakers": [
+        "Techno Nightmare",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -2823,7 +2761,6 @@
       "enclosure_length": "92853732",
       "itunes_duration": "48:21",
       "speakers": [
-        "Cleaning Windows",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3004,7 +2941,6 @@
       "enclosure_length": "94518046",
       "itunes_duration": "49:13",
       "speakers": [
-        "lesbian honey",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3042,7 +2978,6 @@
       "enclosure_length": "95450931",
       "itunes_duration": "49:42",
       "speakers": [
-        "Johann Hosted",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3085,6 +3020,7 @@
       "enclosure_length": "91845615",
       "itunes_duration": "47:49",
       "speakers": [
+        "Project Pyramid",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3105,7 +3041,6 @@
       "enclosure_length": "81871436",
       "itunes_duration": "42:38",
       "speakers": [
-        "Stanley Tucci",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3145,7 +3080,6 @@
       "enclosure_length": "91296416",
       "itunes_duration": "47:32",
       "speakers": [
-        "Rachel Hosted",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3184,7 +3118,7 @@
       "enclosure_length": "89556870",
       "itunes_duration": "46:38",
       "speakers": [
-        "Matty Czechs",
+        "Greatus Podcastus",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3342,7 +3276,7 @@
       "enclosure_length": "82043636",
       "itunes_duration": "42:43",
       "speakers": [
-        "Thomas Hosted",
+        "Disney Asia",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3384,7 +3318,7 @@
       "enclosure_length": "92349673",
       "itunes_duration": "48:05",
       "speakers": [
-        "Salvador Hosted",
+        "Leicester Square Theatre",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3464,7 +3398,6 @@
       "itunes_duration": "1:03:05",
       "speakers": [
         "Truman Show",
-        "Lucky Kentucky",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3503,7 +3436,6 @@
       "enclosure_length": "102631470",
       "itunes_duration": "53:27",
       "speakers": [
-        "mocha goblin",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3542,7 +3474,6 @@
       "itunes_duration": "48:43",
       "speakers": [
         "Garlic Naan",
-        "MBEs Sketch",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3564,7 +3495,6 @@
       "itunes_duration": "50:21",
       "speakers": [
         "Prince Harry",
-        "Marie Kondo Hosted",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3686,7 +3616,6 @@
       "enclosure_length": "103078686",
       "itunes_duration": "53:41",
       "speakers": [
-        "Joe Lycett",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3729,7 +3658,6 @@
       "speakers": [
         "Phil Wang",
         "Pierre Novellie",
-        "Elon Musk",
         "Armie Hammer"
       ],
       "topics": [
@@ -3750,9 +3678,7 @@
       "itunes_duration": "47:28",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Taylor Swift",
-        "Male Events"
+        "Pierre Novellie"
       ],
       "topics": [
         "cult"
@@ -3848,7 +3774,6 @@
       "enclosure_length": "94049096",
       "itunes_duration": "48:58",
       "speakers": [
-        "Liz Truss",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3928,7 +3853,6 @@
       "enclosure_length": "55141274",
       "itunes_duration": "28:42",
       "speakers": [
-        "Edinburgh bin",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3949,7 +3873,6 @@
       "itunes_duration": "30:01",
       "speakers": [
         "Bin Boys",
-        "Johnny White Really Really",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -3989,6 +3912,7 @@
       "enclosure_length": "80576599",
       "itunes_duration": "41:57",
       "speakers": [
+        "Square Foot",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -4009,8 +3933,7 @@
       "itunes_duration": "41:14",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Bob Odenkirk"
+        "Pierre Novellie"
       ],
       "topics": []
     },
@@ -4027,7 +3950,6 @@
       "itunes_duration": "43:19",
       "speakers": [
         "Phil Wang",
-        "Phil Wang Bacon",
         "Pierre Novellie"
       ],
       "topics": [
@@ -4091,7 +4013,6 @@
       "itunes_duration": "49:11",
       "speakers": [
         "Fran Lebowitz",
-        "Wang Correspondence",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -4172,8 +4093,7 @@
       "itunes_duration": "47:43",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Sara Cox"
+        "Pierre Novellie"
       ],
       "topics": [
         "bromer",
@@ -4193,8 +4113,7 @@
       "itunes_duration": "54:47",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Jubilee Lucky Kentucky"
+        "Pierre Novellie"
       ],
       "topics": [
         "shatibum",
@@ -4214,8 +4133,7 @@
       "itunes_duration": "56:26",
       "speakers": [
         "Pierre Novellie",
-        "Phil Wang",
-        "Seth Meyers"
+        "Phil Wang"
       ],
       "topics": [
         "lydia"
@@ -4273,8 +4191,6 @@
       "enclosure_length": "67106610",
       "itunes_duration": "34:56",
       "speakers": [
-        "Mel Gibson",
-        "Mrs Claus",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -4296,8 +4212,6 @@
       "enclosure_length": "70867407",
       "itunes_duration": "36:54",
       "speakers": [
-        "Dandy Andy",
-        "Tiny Tim Hosted",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -4356,9 +4270,7 @@
       "itunes_duration": "51:34",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Coffin Ammo",
-        "Wine Will"
+        "Pierre Novellie"
       ],
       "topics": [
         "coffin",
@@ -4417,7 +4329,7 @@
       "enclosure_length": "99162408",
       "itunes_duration": "51:38",
       "speakers": [
-        "Benedict Cumberbatch Correspondence",
+        "Benedict Cumberbatch Correspo",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -4440,8 +4352,7 @@
       "speakers": [
         "Phil Wang",
         "Pierre Novellie",
-        "Stevie Martin",
-        "Comic Relief"
+        "Stevie Martin"
       ],
       "topics": [
         "nobuddy",
@@ -4556,6 +4467,7 @@
       "enclosure_length": "100655359",
       "itunes_duration": "52:25",
       "speakers": [
+        "Iron Bellies Ostriches",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -4632,8 +4544,7 @@
       "itunes_duration": "56:49",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Sutton Hoo"
+        "Pierre Novellie"
       ],
       "topics": [
         "chess",
@@ -4673,8 +4584,7 @@
       "itunes_duration": "51:15",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Jimmy Helmet"
+        "Pierre Novellie"
       ],
       "topics": [
         "enormous",
@@ -4695,8 +4605,7 @@
       "itunes_duration": "50:03",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Paul McCartney"
+        "Pierre Novellie"
       ],
       "topics": [
         "story"
@@ -4754,8 +4663,7 @@
       "itunes_duration": "53:05",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Michael Moore Hosted"
+        "Pierre Novellie"
       ],
       "topics": [
         "desert"
@@ -4817,8 +4725,7 @@
       "itunes_duration": "1:07:01",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Gordon Brown"
+        "Pierre Novellie"
       ],
       "topics": []
     },
@@ -4892,7 +4799,6 @@
       "itunes_duration": "52:10",
       "speakers": [
         "dick lines",
-        "James Bond",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5075,7 +4981,6 @@
       "itunes_duration": "59:52",
       "speakers": [
         "British Museum",
-        "London Bridge",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5112,9 +5017,6 @@
       "enclosure_length": "85944867",
       "itunes_duration": "44:45",
       "speakers": [
-        "Barry White",
-        "Uterus Fluids",
-        "Ali Lewis",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5153,11 +5055,7 @@
       "enclosure_length": "92214255",
       "itunes_duration": "48:01",
       "speakers": [
-        "Tommy Cooper",
-        "Bruce Forsyth",
-        "Forrin Holidays",
-        "Mao Suits",
-        "Garrett Millerick",
+        "Tommy Coo",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5197,7 +5095,6 @@
       "itunes_duration": "1:01:21",
       "speakers": [
         "Pierre Novellie",
-        "jamon iberico",
         "Phil Wang"
       ],
       "topics": [
@@ -5257,7 +5154,6 @@
       "enclosure_length": "118761351",
       "itunes_duration": "1:01:51",
       "speakers": [
-        "Britney Spears",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5317,6 +5213,7 @@
       "enclosure_length": "119937488",
       "itunes_duration": "1:02:27",
       "speakers": [
+        "Super League",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5356,7 +5253,6 @@
       "enclosure_length": "95074767",
       "itunes_duration": "49:30",
       "speakers": [
-        "Wish Dot Com",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5410,8 +5306,6 @@
       "enclosure_length": "95541210",
       "itunes_duration": "49:45",
       "speakers": [
-        "Elon Musk",
-        "Bill Gates",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5533,7 +5427,8 @@
       "enclosure_length": "150046433",
       "itunes_duration": "1:18:08",
       "speakers": [
-        "Gregory Monk",
+        "Lucky Kentucky",
+        "correspondence such",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5554,7 +5449,6 @@
       "itunes_duration": "1:01:50",
       "speakers": [
         "Callous Wang",
-        "Alec Dick",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5576,7 +5470,6 @@
       "enclosure_length": "120811859",
       "itunes_duration": "1:02:55",
       "speakers": [
-        "Margaret Thatcher",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5596,8 +5489,8 @@
       "enclosure_length": "126285453",
       "itunes_duration": "1:05:46",
       "speakers": [
-        "Lockdown Birthdays",
-        "Tat Attack",
+        "Economy Heaven",
+        "Heaven Premium",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5617,7 +5510,6 @@
       "enclosure_length": "110359535",
       "itunes_duration": "57:28",
       "speakers": [
-        "Osama Bin Laden",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5720,7 +5612,6 @@
       "enclosure_length": "125585789",
       "itunes_duration": "1:05:24",
       "speakers": [
-        "DnD Game",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5787,6 +5678,8 @@
       "enclosure_length": "113499245",
       "itunes_duration": "59:06",
       "speakers": [
+        "Four Seasons Total",
+        "Sky Nazi",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5808,7 +5701,6 @@
       "enclosure_length": "75591181",
       "itunes_duration": "39:22",
       "speakers": [
-        "Will Phil",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5848,7 +5740,6 @@
       "enclosure_length": "121554990",
       "itunes_duration": "1:03:18",
       "speakers": [
-        "Priti Patel",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5868,7 +5759,8 @@
       "enclosure_length": "82535156",
       "itunes_duration": "42:59",
       "speakers": [
-        "Desmond Tutu",
+        "Covid Correspondence Special",
+        "Pill Nang",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5891,7 +5783,6 @@
       "itunes_duration": "49:13",
       "speakers": [
         "tat attacks",
-        "poo stories",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5913,7 +5804,6 @@
       "enclosure_length": "133947481",
       "itunes_duration": "1:09:45",
       "speakers": [
-        "Tat Attack Hosted",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5934,7 +5824,6 @@
       "enclosure_length": "118895098",
       "itunes_duration": "1:01:55",
       "speakers": [
-        "Lucky Kentucky",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -5992,6 +5881,7 @@
       "enclosure_length": "141840222",
       "itunes_duration": "1:13:52",
       "speakers": [
+        "Once Upon",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6030,7 +5920,6 @@
       "enclosure_length": "129877394",
       "itunes_duration": "1:07:38",
       "speakers": [
-        "Winston Churchill",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6073,7 +5962,8 @@
       "enclosure_length": "103205746",
       "itunes_duration": "53:45",
       "speakers": [
-        "Callous Phil Wang",
+        "Scrappy Doo",
+        "Edinburgh Fringe",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6118,8 +6008,7 @@
       "speakers": [
         "Phil Wang",
         "Pierre Novellie",
-        "Mark Zuckerberg",
-        "Jeff Bezos"
+        "Mark Zuckerberg"
       ],
       "topics": [
         "charlie",
@@ -6157,9 +6046,7 @@
       "itunes_duration": "1:06:21",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Sandy Cobbledick",
-        "lifeguard anti"
+        "Pierre Novellie"
       ],
       "topics": [
         "johnson"
@@ -6177,6 +6064,7 @@
       "enclosure_length": "121880999",
       "itunes_duration": "1:03:28",
       "speakers": [
+        "Correspondence Special",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6278,8 +6166,7 @@
       "speakers": [
         "PawPod Accurs-ed",
         "Phil Wang",
-        "Pierre Novellie",
-        "Sally Rooney"
+        "Pierre Novellie"
       ],
       "topics": [
         "monkey",
@@ -6340,6 +6227,7 @@
       "enclosure_length": "122100009",
       "itunes_duration": "1:03:35",
       "speakers": [
+        "Bath Laughers Good Old",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6361,7 +6249,6 @@
       "itunes_duration": "57:58",
       "speakers": [
         "Uncanny Goofy",
-        "Kim Jong Un",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6423,7 +6310,6 @@
       "enclosure_length": "116429139",
       "itunes_duration": "1:00:38",
       "speakers": [
-        "Rebecca Austin",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6445,9 +6331,7 @@
       "speakers": [
         "Pierre Novellie",
         "Phil Wang",
-        "Death Stranding",
-        "Koji Jack",
-        "Chloe Petts"
+        "Death Stranding"
       ],
       "topics": [
         "lockdown",
@@ -6467,10 +6351,7 @@
       "itunes_duration": "1:07:31",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Harvey Weinstein",
-        "Michael Shannon",
-        "Tim Allen"
+        "Pierre Novellie"
       ],
       "topics": [
         "lockdown"
@@ -6489,8 +6370,7 @@
       "itunes_duration": "1:08:54",
       "speakers": [
         "Pierre Novellie",
-        "Phil Wang",
-        "Boris Johnson"
+        "Phil Wang"
       ],
       "topics": [
         "budpandemic"
@@ -6556,10 +6436,7 @@
       "itunes_duration": "1:03:27",
       "speakers": [
         "Pierre Novellie",
-        "Phil Wang",
-        "Kieran Boyd",
-        "Donald Trump",
-        "Priti Patel"
+        "Phil Wang"
       ],
       "topics": [
         "nadir"
@@ -6700,8 +6577,7 @@
       "itunes_duration": "1:00:45",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Raging Ball"
+        "Pierre Novellie"
       ],
       "topics": [
         "crappy",
@@ -6721,8 +6597,7 @@
       "itunes_duration": "50:59",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Jim Carrey"
+        "Pierre Novellie"
       ],
       "topics": [
         "merry",
@@ -6762,8 +6637,7 @@
       "itunes_duration": "56:41",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Dick Amulets"
+        "Pierre Novellie"
       ],
       "topics": [
         "correspondent",
@@ -6784,8 +6658,7 @@
       "itunes_duration": "55:54",
       "speakers": [
         "Pierre Novellie",
-        "Phil Wang",
-        "Sue Perkins"
+        "Phil Wang"
       ],
       "topics": [
         "midlifepod"
@@ -6803,8 +6676,6 @@
       "enclosure_length": "105624894",
       "itunes_duration": "55:00",
       "speakers": [
-        "Prince Andrew",
-        "Epstein Brain",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6824,9 +6695,6 @@
       "enclosure_length": "107432985",
       "itunes_duration": "55:57",
       "speakers": [
-        "Uncle Fatty",
-        "Monkey Fat Camp",
-        "Full Monkey Jacket",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6847,7 +6715,6 @@
       "enclosure_length": "89268478",
       "itunes_duration": "46:29",
       "speakers": [
-        "Johnny White",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -6886,11 +6753,9 @@
       "enclosure_length": "102195120",
       "itunes_duration": "53:13",
       "speakers": [
+        "Dinner Three",
         "Phil Wang",
-        "Pierre Novellie",
-        "Alan Moore",
-        "Germaine Greer",
-        "Louis Armstrong"
+        "Pierre Novellie"
       ],
       "topics": [
         "correspondent",
@@ -6933,9 +6798,7 @@
       "itunes_duration": "53:03",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Detective Barbie",
-        "Roast Battle"
+        "Pierre Novellie"
       ],
       "topics": [
         "midlife",
@@ -6955,10 +6818,7 @@
       "itunes_duration": "55:48",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Justin Trudeau",
-        "Adam Buxton",
-        "David Bowie"
+        "Pierre Novellie"
       ],
       "topics": [
         "bakepod"
@@ -6996,8 +6856,7 @@
       "itunes_duration": "47:14",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Fern Brady"
+        "Pierre Novellie"
       ],
       "topics": [
         "breadpod",
@@ -7063,8 +6922,7 @@
       "itunes_duration": "55:30",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Lin Manuel Miranda"
+        "Pierre Novellie"
       ],
       "topics": [
         "premium",
@@ -7085,8 +6943,7 @@
       "itunes_duration": "47:21",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Frank Skinner"
+        "Pierre Novellie"
       ],
       "topics": [
         "podarch",
@@ -7106,9 +6963,7 @@
       "itunes_duration": "1:03:08",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Greyfriars Bobby",
-        "Lena Dunham"
+        "Pierre Novellie"
       ],
       "topics": [
         "bravepod",
@@ -7128,8 +6983,6 @@
       "enclosure_length": "93117882",
       "itunes_duration": "48:29",
       "speakers": [
-        "Tom Jones",
-        "Barbarian Lads",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -7151,7 +7004,6 @@
       "speakers": [
         "Churchill Brunch",
         "Bristol Berlusconi",
-        "Jacob Rees Mogg",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -7172,8 +7024,7 @@
       "itunes_duration": "52:26",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Glenn Moore"
+        "Pierre Novellie"
       ],
       "topics": [
         "edinbudpod"
@@ -7192,8 +7043,7 @@
       "itunes_duration": "1:00:18",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Garrett Millerick"
+        "Pierre Novellie"
       ],
       "topics": [
         "borispod"
@@ -7212,11 +7062,7 @@
       "itunes_duration": "1:02:24",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Glenn Moore",
-        "Liam Neeson’s Cloche",
-        "Inflaty Popkins",
-        "Julia Fartley-Pooer"
+        "Pierre Novellie"
       ],
       "topics": []
     },
@@ -7233,10 +7079,7 @@
       "itunes_duration": "1:07:35",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "George Galloway",
-        "Nigel Farage",
-        "bum wife"
+        "Pierre Novellie"
       ],
       "topics": [
         "duodecapod"
@@ -7255,7 +7098,6 @@
       "itunes_duration": "1:12:37",
       "speakers": [
         "Glastonbury Goldblum",
-        "Glasto Attenborough",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -7275,8 +7117,7 @@
       "enclosure_length": "129875722",
       "itunes_duration": "1:07:38",
       "speakers": [
-        "Emily Maitlis",
-        "Sick Booze VomBooze",
+        "Happy Birthday",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -7297,10 +7138,7 @@
       "itunes_duration": "1:00:15",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Jimmy Sa-Phil",
-        "Boris Johnson",
-        "Jordan Peterson"
+        "Pierre Novellie"
       ],
       "topics": [
         "budpork"
@@ -7336,7 +7174,6 @@
       "enclosure_length": "108620825",
       "itunes_duration": "56:34",
       "speakers": [
-        "Oliver Twist",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -7357,8 +7194,7 @@
       "itunes_duration": "52:42",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Liz Truss"
+        "Pierre Novellie"
       ],
       "topics": [
         "budpolitics"
@@ -7377,8 +7213,7 @@
       "itunes_duration": "53:46",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "bin bags"
+        "Pierre Novellie"
       ],
       "topics": [
         "unlucky"
@@ -7397,9 +7232,7 @@
       "itunes_duration": "57:14",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Bugs Bunny",
-        "Adam Buxton"
+        "Pierre Novellie"
       ],
       "topics": [
         "correspondent",
@@ -7419,9 +7252,7 @@
       "itunes_duration": "54:38",
       "speakers": [
         "Pierre Novellie",
-        "Phil Wang",
-        "Mesopotamian Rodney Dangerfield",
-        "Phil’s Bad Wank Story"
+        "Phil Wang"
       ],
       "topics": [
         "welsh",
@@ -7460,6 +7291,8 @@
       "enclosure_length": "79707244",
       "itunes_duration": "41:30",
       "speakers": [
+        "Extinction Rebellion",
+        "Sydney Opera Hou",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -7520,7 +7353,7 @@
       "enclosure_length": "126873939",
       "itunes_duration": "1:06:04",
       "speakers": [
-        "Jim Jimmy Bulbins",
+        "Jim Jimmy Bulb",
         "Phil Wang",
         "Pierre Novellie"
       ],
@@ -7584,11 +7417,7 @@
       "itunes_duration": "50:30",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Mel Gibson",
-        "fluid gush",
-        "Lammy vs",
-        "Stacey Dooley"
+        "Pierre Novellie"
       ],
       "topics": []
     },
@@ -7607,10 +7436,7 @@
         "Most Authoritarian",
         "Phil Wang",
         "Pierre Novellie",
-        "Legal Blackmail",
-        "Sugar Eagle",
-        "Idiot Registration",
-        "Marjorie Returns"
+        "Least Auth"
       ],
       "topics": [
         "authoritarian",
@@ -7630,8 +7456,7 @@
       "itunes_duration": "50:36",
       "speakers": [
         "Phil Wang",
-        "Pierre Novellie",
-        "Trigger Warnings"
+        "Pierre Novellie"
       ],
       "topics": [
         "uncool",
@@ -7646,28 +7471,28 @@
 
 ## Episodes (newest first)
 
-- 2026-02-18 — S2E36 | Prescription Jeans — speakers: Stream Glenn, Sky Comedy, Phil Wang, Pierre Novellie
-- 2026-02-11 — S2E35 | Iron Dick — speakers: Iron Dick Full, Stream Glenn, Sky Comedy, Phil Wang, Pierre Novellie
-- 2026-02-04 — S2E34 | Pot of Egg — speakers: Michael Bublé, Stream Glenn, Sky Comedy, Phil Wang, Pierre Novellie
-- 2026-01-28 — S2E33 | Naked Yetis — speakers: Stream Glenn, Sky Comedy, Phil Wang, Pierre Novellie
+- 2026-02-18 — S2E36 | Prescription Jeans — speakers: Phil Wang, Pierre Novellie
+- 2026-02-11 — S2E35 | Iron Dick — speakers: Iron Dick Full, Phil Wang, Pierre Novellie
+- 2026-02-04 — S2E34 | Pot of Egg — speakers: Egg Full, Phil Wang, Pierre Novellie
+- 2026-01-28 — S2E33 | Naked Yetis — speakers: Phil Wang, Pierre Novellie
 - 2026-01-21 — S2E32 | Family Cloth — speakers: Family Cloth Hosted, Phil Wang, Pierre Novellie
-- 2026-01-14 — S2E31 | Augustus Gains — speakers: Augustus Gains, Steve Martin, Koji Subscribe, Stream Glenn, Phil Wang, Pierre Novellie
-- 2026-01-07 — S2E30 | Beef Impact — speakers: Koji Subscribe, Stream Glenn, Phil Wang, Pierre Novellie
-- 2025-12-24 — S2EP29 | Ronald McDonald Milking Machine (BonusPod Ep 3) — speakers: Ronald McDonald Milking Machine, Koji Subscribe, Stream Glenn, Phil Wang, Pierre Novellie
-- 2025-12-17 — S2E28 | Diagnosed Christmassy — speakers: Koji Subscribe, Stream Glenn, Phil Wang, Pierre Novellie
-- 2025-12-10 — S2E27 | Laying Cable — speakers: Koji Subscribe, Phil Wang, Pierre Novellie
+- 2026-01-14 — S2E31 | Augustus Gains — speakers: Augustus Gains, Steve Martin, Phil Wang, Pierre Novellie
+- 2026-01-07 — S2E30 | Beef Impact — speakers: Beef Impact, New Year, Phil Wang, Pierre Novellie
+- 2025-12-24 — S2EP29 | Ronald McDonald Milking Machine (BonusPod Ep 3) — speakers: Ronald McDonald Milking Machine, Phil Wang, Pierre Novellie
+- 2025-12-17 — S2E28 | Diagnosed Christmassy — speakers: Phil Wang, Pierre Novellie
+- 2025-12-10 — S2E27 | Laying Cable — speakers: Phil Wang, Pierre Novellie
 - 2025-12-03 — S2EP26 | The Shrapnel of Guernsey — speakers: Phil Wang, Pierre Novellie
 - 2025-11-26 — S2E25 | Mass Grave — speakers: Tom Cruise, Phil Wang, Pierre Novellie
 - 2025-11-19 — S2E24 | Just Dance — speakers: Ronald McDonald, Phil Wang, Pierre Novellie
-- 2025-11-12 — S2E23| A Storm of Flies — speakers: Croydon Halloween, Phil Wang, Pierre Novellie
+- 2025-11-12 — S2E23| A Storm of Flies — speakers: Phil Wang, Pierre Novellie
 - 2025-11-05 — S2E22 | Superpiss — speakers: Phil Wang, Pierre Novellie
-- 2025-10-29 — S2E21 | BudPod Live! w/ Phil Wang & Stuart Laws | Part 2 — speakers: Stuart Laws, Tat Attack, Koji Glenn, Phil Wang, Pierre Novellie
-- 2025-10-22 — S2E20 | BudPod Live! w/ Phil Wang | Part 1 — speakers: Phil Wang, Stuart Laws, Koji Glenn, Pierre Novellie
+- 2025-10-29 — S2E21 | BudPod Live! w/ Phil Wang & Stuart Laws | Part 2 — speakers: Phil Wang, Pierre Novellie
+- 2025-10-22 — S2E20 | BudPod Live! w/ Phil Wang | Part 1 — speakers: Phil Wang, Pierre Novellie
 - 2025-10-15 — S2E19 | Protein Spill — speakers: Protein Spill, Phil Wang, Pierre Novellie
-- 2025-10-08 — S2E18 | My Son, BJ — speakers: My Son, Yellow Submarine, Phil Wang, Pierre Novellie
+- 2025-10-08 — S2E18 | My Son, BJ — speakers: My Son, Phil Wang, Pierre Novellie
 - 2025-10-01 — S2E17 | Mustard Comedy — speakers: Mustard Comedy, Phil Wang, Pierre Novellie
 - 2025-09-24 — S2E16 | Breaking the Seal — speakers: Phil Wang, Pierre Novellie
-- 2025-09-17 — S2E15 | The Wet Dreamers — speakers: Koji Glenn, Phil Wang, Pierre Novellie
+- 2025-09-17 — S2E15 | The Wet Dreamers — speakers: Phil Wang, Pierre Novellie
 - 2025-09-10 — S2E14 | Rendered Devil — speakers: Phil Wang, Pierre Novellie
 - 2025-09-03 — S2E13 | Child FM — speakers: Phil Wang, Pierre Novellie
 - 2025-08-27 — S2E12 - FringePod 4 | The Pheromone — speakers: Phil Wang, Pierre Novellie
@@ -7677,14 +7502,14 @@
 - 2025-07-30 — S2E8 - Bane in Spain — speakers: Phil Wang, Pierre Novellie
 - 2025-07-23 — S2E7 - Et tu, Hidden Cameras? — speakers: Hidden Cameras, Phil Wang, Pierre Novellie
 - 2025-07-16 — S2E6 - Awful Snakes — speakers: Phil Wang, Pierre Novellie
-- 2025-07-11 — BudPod & The Teen Commandments Podcast LIVE in Sheffield — speakers: Sara Cox, Clare Hamilton, Phil Wang, Pierre Novellie
+- 2025-07-11 — BudPod & The Teen Commandments Podcast LIVE in Sheffield — speakers: Phil Wang, Pierre Novellie
 - 2025-07-09 — S2E5 - City Biscuits — speakers: Glenn’s le, Phil Wang, Pierre Novellie
 - 2025-07-02 — S2E4 - This Tin Made Me Sin — speakers: Phil Wang, Pierre Novellie
 - 2025-06-25 — S2E3 - Holiday Hitler — speakers: Phil Wang, Pierre Novellie
 - 2025-06-18 — S2E2 - Picky Tea — speakers: Phil Wang, Pierre Novellie
-- 2025-06-11 — S2E1 - Pierres Brosnan — speakers: Glenn Moore, Tat Attack, Phil Wang, Pierre Novellie
-- 2025-06-04 — Episode 318 - Phil's Farewell — speakers: Phil Moments, Phil Wang, Pierre Novellie
-- 2025-06-04 — Episode 318 - Phil's Farewell (PATREON AD-FREE) — speakers: Phil Moments, Phil Wang, Pierre Novellie
+- 2025-06-11 — S2E1 - Pierres Brosnan — speakers: Phil Wang, Pierre Novellie
+- 2025-06-04 — Episode 318 - Phil's Farewell — speakers: Phil Wang, Pierre Novellie
+- 2025-06-04 — Episode 318 - Phil's Farewell (PATREON AD-FREE) — speakers: Phil Wang, Pierre Novellie
 - 2025-05-28 — Episode 317 - Moo-Free (PATREON AD-FREE) — speakers: Phil Wang, Pierre Novellie
 - 2025-05-28 — Episode 317 - Moo-Free — speakers: Phil Wang, Pierre Novellie
 - 2025-05-21 — Episode 316 - Minced Beast — speakers: Phil Collins, Phil Wang, Pierre Novellie
@@ -7698,34 +7523,34 @@
 - 2025-04-02 — Episode 311 - Einstein's Final Theory — speakers: Phil Wang, Pierre Novellie
 - 2025-03-31 — BudPod Classic #8 - The Horse's Criminal Baby — speakers: Criminal Baby Every Monday, Phil Wang, Pierre Novellie
 - 2025-03-26 — Episode 310 - GeorgePod, Down Under! — speakers: George Fouracres, Phil Wang, Pierre Novellie
-- 2025-03-19 — Episode 309 - Everything's Computer — speakers: Catch Pierre, Watch Phil, Phil Wang, Pierre Novellie
-- 2025-03-17 — BudPod Classic #7 - A Smelly Batman — speakers: Batman Smells, Phil Wang, Pierre Novellie
+- 2025-03-19 — Episode 309 - Everything's Computer — speakers: Phil Wang, Pierre Novellie
+- 2025-03-17 — BudPod Classic #7 - A Smelly Batman — speakers: Smelly Batman Every Monday, Phil Wang, Pierre Novellie
 - 2025-03-12 — Episode 308 - Leave Those Dicks Alone! — speakers: Leave Those Dicks Alone, Phil Wang, Pierre Novellie
 - 2025-03-10 — BudPod Classic #6 - The Duvet Wife — speakers: Phil Wang, Pierre Novellie
-- 2025-03-05 — Episode 307 - Alright Duck? — speakers: Catch Pierre, Watch Phil, Phil Wang, Pierre Novellie
+- 2025-03-05 — Episode 307 - Alright Duck? — speakers: Phil Wang, Pierre Novellie
 - 2025-03-03 — BudPod Classic #5 - Brunch on the Planet of the Apes — speakers: Apes Every Monday, Phil Wang, Pierre Novellie
-- 2025-02-26 — Episode 306 - This is America — speakers: Catch Pierre, Watch Phil, Phil Wang, Pierre Novellie
-- 2025-02-24 — BudPod Classic #4 - Football Oracle — speakers: Phil Wang, Pierre Novellie
-- 2025-02-19 — Episode 305 - Beef 'n' Brussels — speakers: Kendrick Lamar, Catch Pierre, Watch Phil, Phil Wang, Pierre Novellie
-- 2025-02-17 — BudPod Classic #3 - Spain is Good for Baby — speakers: Phil Wang, Pierre Novellie
-- 2025-02-12 — Episode 304 - Male Archetypes — speakers: Catch Pierre, Watch Phil, Phil Wang, Pierre Novellie
-- 2025-02-10 — BudPod Classic - #2 - Pierre's Imaginary Son — speakers: Phil Wang, Pierre Novellie
-- 2025-02-05 — Episode 303 - Josef Pwag — speakers: Catch Pierre, Watch Phil, Pierre Novellie, Felipe Franco Edited, Phil Wang
-- 2025-02-03 — Introducing...BudPod Classics! - #1 — speakers: Phil Wang, Pierre Novellie
-- 2025-01-29 — Episode 302 - Anti-Evolution Goofy — speakers: Catch Pierre, Watch Phil, Pierre Novellie, Felipe Franco Edited, Phil Wang
-- 2025-01-22 — Episode 301 - The Three Cs — speakers: Cs Welcome, Catch Pierre, Watch Phil, Pierre Novellie, Felipe Franco Edited, Phil Wang
-- 2025-01-15 — BUDPOD 300! — speakers: Watch Phil, Pierre Novellie, Felipe Franco Edited, Phil Wang
-- 2025-01-08 — Episode 299 - Chad Kong — speakers: Harry Potter, Tat Attack, Watch Phil, Phil Wang, Pierre Novellie
+- 2025-02-26 — Episode 306 - This is America — speakers: Phil Wang, Pierre Novellie
+- 2025-02-24 — BudPod Classic #4 - Football Oracle — speakers: Football Oracle Every Monday, Phil Wang, Pierre Novellie
+- 2025-02-19 — Episode 305 - Beef 'n' Brussels — speakers: Phil Wang, Pierre Novellie
+- 2025-02-17 — BudPod Classic #3 - Spain is Good for Baby — speakers: Baby Every Monday, Phil Wang, Pierre Novellie
+- 2025-02-12 — Episode 304 - Male Archetypes — speakers: Male Archetypes Enjoy, Melbourne Comedy Festival, Phil Wang, Pierre Novellie
+- 2025-02-10 — BudPod Classic - #2 - Pierre's Imaginary Son — speakers: Imaginary Son Introducing, Every Monday, Phil Wang, Pierre Novellie
+- 2025-02-05 — Episode 303 - Josef Pwag — speakers: Josef Pwag Enjoy, Melbourne Comedy Festival, Phil Wang, Pierre Novellie
+- 2025-02-03 — Introducing...BudPod Classics! - #1 — speakers: Every Monday, Phil Wang, Pierre Novellie
+- 2025-01-29 — Episode 302 - Anti-Evolution Goofy — speakers: Evolution Goofy Welcome, Phil Wang, Pierre Novellie
+- 2025-01-22 — Episode 301 - The Three Cs — speakers: Cs Welcome, Phil Wang, Pierre Novellie
+- 2025-01-15 — BUDPOD 300! — speakers: Phil Wang, Pierre Novellie
+- 2025-01-08 — Episode 299 - Chad Kong — speakers: Phil Wang, Pierre Novellie
 - 2024-12-25 — Episode 298 - A Very Merry Budmas — speakers: Phil Wang, Pierre Novellie
-- 2024-12-18 — Episode 297 - Jingle Bell Rock — speakers: Rock BudPod, Rock Johnson, Catch Pierre, Watch Phil, Phil Wang, Pierre Novellie
-- 2024-12-11 — Episode 296 - The Decolonisation Song — speakers: Harry Potter, Elon Musk, Catch Pierre, Watch Phil, Phil Wang, Pierre Novellie
-- 2024-12-04 — Episode 295 - Wicked Special — speakers: Catch Pierre, Watch Phil, Phil Wang, Pierre Novellie
+- 2024-12-18 — Episode 297 - Jingle Bell Rock — speakers: Rock BudPod, Phil Wang, Pierre Novellie
+- 2024-12-11 — Episode 296 - The Decolonisation Song — speakers: Brett Goldstein, Sexy Hagrid, Phil Wang, Pierre Novellie
+- 2024-12-04 — Episode 295 - Wicked Special — speakers: Phil Wang, Pierre Novellie
 - 2024-11-27 — Episode 294 - No hugging, no learning — speakers: Phil Wang, Pierre Novellie
 - 2024-11-20 — Episode 293 - Glass Alligators — speakers: Phil Wang, Pierre Novellie
 - 2024-11-13 — Episode 292 - The Ten Cowboy Commandments — speakers: Phil Wang, Pierre Novellie
 - 2024-11-06 — Episode 291: Air Force Worm — speakers: Air Force Worm Hosted, Phil Wang, Pierre Novellie
 - 2024-10-30 — Episode 290: Swedish Creep & The Hissing Haggis — speakers: Swedish Creep, Halloween Tat, Phil Wang, Pierre Novellie
-- 2024-10-23 — Episode 289 - Gazebo, Gazebo, Gazebo — speakers: Margaret Thatcher, uk Koji, Phil Wang, Pierre Novellie
+- 2024-10-23 — Episode 289 - Gazebo, Gazebo, Gazebo — speakers: Margaret Thatcher, Phil Wang, Pierre Novellie
 - 2024-10-16 — Episode 288 - Was Phil involved in the Will Smith slap?! — speakers: Will Smith, Phil Wang, Pierre Novellie
 - 2024-10-09 — Episode 287 - The Importance of Adidas Clothing — speakers: Adidas Clothing Hosted, Phil Wang, Pierre Novellie
 - 2024-10-02 — Episode 286 - BudJet — speakers: Phil Wang, Pierre Novellie
@@ -7735,52 +7560,52 @@
 - 2024-09-04 — Episode 282 - The Tightest Trousers — speakers: Phil Wang, Pierre Novellie
 - 2024-08-28 — Episode 281 - Bedroom Boys — speakers: Phil Wang, Pierre Novellie
 - 2024-08-21 — Episode 280 - Bekilted Xenomorph with Alex Kealy — speakers: Bekilted Xenomorph, Alex Kealy, Phil Wang, Pierre Novellie
-- 2024-08-14 — Episode 279 - Lola Bunny — speakers: Phil Wang, Pierre Novellie
+- 2024-08-14 — Episode 279 - Lola Bunny — speakers: Lola Bunny Pierre, Anniversary Special, Phil Wang, Pierre Novellie
 - 2024-08-07 — Episode 278 - EDL-vis — speakers: Phil Wang, Pierre Novellie
 - 2024-07-31 — Episode 277 - Fringe Pod — speakers: Fringe Pod, Phil Wang, Pierre Novellie
-- 2024-07-24 — Episode 276 - I'm Sick — speakers: Kamala Harris, Phil Wang, Pierre Novellie
+- 2024-07-24 — Episode 276 - I'm Sick — speakers: Kamala Harr, Phil Wang, Pierre Novellie
 - 2024-07-16 — Episode 275 - Trump the White — speakers: Phil Wang, Pierre Novellie
-- 2024-07-10 — Episode 274 - Hello Labour! — speakers: Phil Wang, Pierre Novellie
+- 2024-07-10 — Episode 274 - Hello Labour! — speakers: Hello Labour, Phil Wang, Pierre Novellie
 - 2024-07-03 — Episode 273 - Pre-Election Pod ! — speakers: Election Pod, Phil Wang, Pierre Novellie
 - 2024-06-26 — Episode 272 - DadPod — speakers: Phil Wang, Pierre Novellie
 - 2024-06-19 — Episode 271 - Cocaine Fraud — speakers: Phil Wang, Pierre Novellie
 - 2024-06-12 — Episode 270 - Port Felipe — speakers: Producer Felipe, Phil Wang, Pierre Novellie
 - 2024-06-05 — Episode 269: Love, Your Mum — speakers: Phil Wang, Pierre Novellie
-- 2024-05-29 — Episode 268 - Have I Got Phil For You — speakers: Teflon Toilet, Phil Wang, Pierre Novellie
-- 2024-05-22 — Episode 267 - Honey Heist — speakers: Werk House, Phil Wang, Pierre Novellie
-- 2024-05-15 — Episode 266 - The People's Meat March — speakers: Tony Hawke, Virgin Atlantic, Simon Parkin, Phil Wang, Pierre Novellie
+- 2024-05-29 — Episode 268 - Have I Got Phil For You — speakers: Phil Wang, Pierre Novellie
+- 2024-05-22 — Episode 267 - Honey Heist — speakers: Phil Wang, Pierre Novellie
+- 2024-05-15 — Episode 266 - The People's Meat March — speakers: Tony Hawke, Phil Wang, Pierre Novellie
 - 2024-05-08 — Episode 265 - Beef Hangover — speakers: Phil Wang, Pierre Novellie
 - 2024-05-01 — Episode 264 - BudPoetry — speakers: Phil Wang, Pierre Novellie
-- 2024-04-24 — Episode 263 - Bast*rd Coded — speakers: Taylor Swift, Halesowen Go, Phil Wang, Pierre Novellie
+- 2024-04-24 — Episode 263 - Bast*rd Coded — speakers: Phil Wang, Pierre Novellie
 - 2024-04-17 — Episode 262 - Spinning Plates — speakers: Phil Wang, Pierre Novellie
 - 2024-04-10 — Episode 261 - Must Tash — speakers: Phil Wang, Pierre Novellie
 - 2024-04-03 — BookLaunchPod 260 - BonusPod 257! — speakers: Phil Wang, Pierre Novellie
 - 2024-03-27 — Episode 259 - Three Buddy Podlem — speakers: Phil Wang, Pierre Novellie
-- 2024-03-20 — Episode 258 - Cut The Mustard! — speakers: Dylan Thomas, Tomb Raider, Phil Wang, Pierre Novellie
+- 2024-03-20 — Episode 258 - Cut The Mustard! — speakers: Dylan Thomas, Phil Wang, Pierre Novellie
 - 2024-03-13 — Episode 257 - Happy Anniversary, Quints! — speakers: Secret Easter, Phil Wang, Pierre Novellie
-- 2024-03-06 — Episode 256 - The Unknown — speakers: Sweet Pete, Phil Wang, Pierre Novellie
+- 2024-03-06 — Episode 256 - The Unknown — speakers: Phil Wang, Pierre Novellie
 - 2024-02-28 — Episode 255 - The Haters of Zorgon 5 — speakers: Hiro Onoda, Werner Herzog, Mads Mikkelsen, Phil Wang, Pierre Novellie
 - 2024-02-21 — Episode 254 - Wee Willy Winky — speakers: Phil Wang, Pierre Novellie
-- 2024-02-14 — Episode 253 - Squatting Man, Wooden Dragon — speakers: Famous Hosted, Phil Wang, Pierre Novellie
+- 2024-02-14 — Episode 253 - Squatting Man, Wooden Dragon — speakers: Phil Wang, Pierre Novellie
 - 2024-02-07 — Episode 252 - Clever Travelling' Man — speakers: Phil Wang, Pierre Novellie
 - 2024-01-31 — Episode 251 - Not A Tourist — speakers: Phil Wang, Pierre Novellie
 - 2024-01-24 — Episode 250 - Budski — speakers: Frank Skinner, Phil Wang, Pierre Novellie
-- 2024-01-17 — Episode 249 - Inside Meat — speakers: Phil Wang, Pierre Novellie
-- 2024-01-10 — Episode 248 - Sexy Secrets of the Pharaohs — speakers: Sam Gingell, Phil Wang, Pierre Novellie
+- 2024-01-17 — Episode 249 - Inside Meat — speakers: Inside Meat Wang, Phil Wang, Pierre Novellie
+- 2024-01-10 — Episode 248 - Sexy Secrets of the Pharaohs — speakers: Sexy Secrets, Phil Wang, Pierre Novellie
 - 2024-01-03 — Episode 247 - Hey man, got any saffron? — speakers: Phil Wang, Pierre Novellie
-- 2023-12-20 — Episode 246 - Chestynuts presents BUDPOD LIVE! — speakers: Sweeter Peter, Gabrielle’s Incredible, Phil Wang, Pierre Novellie
+- 2023-12-20 — Episode 246 - Chestynuts presents BUDPOD LIVE! — speakers: Phil Wang, Pierre Novellie
 - 2023-12-13 — Episode 245 - Buchverfulstandigungsfreude! — speakers: Phil Wang, Pierre Novellie
 - 2023-12-06 — Episode 244 - D S B M G B — speakers: Phil Wang, Pierre Novellie
-- 2023-11-29 — Episode 243 - Poo Four Dicks Oh Bum — speakers: Luke Kempner, Graham Norton, Phil Wang, Pierre Novellie
+- 2023-11-29 — Episode 243 - Poo Four Dicks Oh Bum — speakers: Luke Kempner, Phil Wang, Pierre Novellie
 - 2023-11-22 — Episode 242 - Fragment Of Life — speakers: Phil Wang, Pierre Novellie
-- 2023-11-15 — Episode 241 - GlennPod 2: Glenn Harder — speakers: Glenn Harder, Harry Kane, Phil Wang, Pierre Novellie
-- 2023-11-08 — Episode 240 - GlennPod! — speakers: Glenn Moore, Phil Wang, Grima Wormtongue, Pierre Novellie
+- 2023-11-15 — Episode 241 - GlennPod 2: Glenn Harder — speakers: Glenn Harder, Phil Wang, Pierre Novellie
+- 2023-11-08 — Episode 240 - GlennPod! — speakers: Glenn Moore, Phil Wang, Pierre Novellie
 - 2023-11-01 — Episode 239 - BonusPod 238 Travel Infuriates The Mind! — speakers: Phil Wang, Pierre Novellie
 - 2023-10-25 — Episode 238 - Talkin' TED — speakers: Phil Wang, Pierre Novellie
-- 2023-10-18 — Episode 237 - Heeyrrurgh — speakers: Oobah Butler, Pearl Jam, Phil Wang, Pierre Novellie
+- 2023-10-18 — Episode 237 - Heeyrrurgh — speakers: Oobah Butler, Phil Wang, Pierre Novellie
 - 2023-10-11 — Episode 236 - Makes You Think — speakers: Phil Wang, Pierre Novellie
-- 2023-10-04 — Episode 235 - Techno Nightmare, Funky Dream — speakers: Phil Wang, Pierre Novellie
-- 2023-09-27 — Episode 234 - BedPod — speakers: Cleaning Windows, Phil Wang, Pierre Novellie
+- 2023-10-04 — Episode 235 - Techno Nightmare, Funky Dream — speakers: Techno Nightmare, Phil Wang, Pierre Novellie
+- 2023-09-27 — Episode 234 - BedPod — speakers: Phil Wang, Pierre Novellie
 - 2023-09-20 — Episode 232 - For The Love Of Objects! — speakers: Bin Born, Phil Wang, Pierre Novellie
 - 2023-09-13 — Episode 231 - Brown Sky At Dawn, Pilot's Scorn! — speakers: Phil Wang, Pierre Novellie
 - 2023-09-06 — Episode 230 - Beardless Boy! — speakers: Phil Wang, Pierre Novellie
@@ -7789,16 +7614,16 @@
 - 2023-08-16 — Episode 227 - Are You Now Or Have You Ever Been An Anime Fan? — speakers: Phil Wang, Pierre Novellie
 - 2023-08-09 — Episode 226 - Juste Les Pois — speakers: Juste Les Pois, Phil Wang, Pierre Novellie
 - 2023-08-02 — Episode 225 - Crapan — speakers: Phil Wang, Pierre Novellie
-- 2023-07-26 — Episode 224 - Do more! — speakers: lesbian honey, Phil Wang, Pierre Novellie
+- 2023-07-26 — Episode 224 - Do more! — speakers: Phil Wang, Pierre Novellie
 - 2023-07-19 — Episode 223 - Community — speakers: David Hockney, Phil Wang, Pierre Novellie
-- 2023-07-12 — Episode 222 - Stamps Galore — speakers: Johann Hosted, Phil Wang, Pierre Novellie
+- 2023-07-12 — Episode 222 - Stamps Galore — speakers: Phil Wang, Pierre Novellie
 - 2023-07-05 — Episode 221 - Make Yourself Your Own Medieval Monarch — speakers: Tim Robbins, Gino Di Campo, Phil Wang, Pierre Novellie
-- 2023-06-28 — Episode 220 - Self-Help Dracula — speakers: Phil Wang, Pierre Novellie
-- 2023-06-21 — Episode 219 - Emergency LIVE Pod from 205! — speakers: Stanley Tucci, Phil Wang, Pierre Novellie
+- 2023-06-28 — Episode 220 - Self-Help Dracula — speakers: Project Pyramid, Phil Wang, Pierre Novellie
+- 2023-06-21 — Episode 219 - Emergency LIVE Pod from 205! — speakers: Phil Wang, Pierre Novellie
 - 2023-06-14 — Episode 218 - Bitter Thirty-Two — speakers: Phil Wang, Pierre Novellie
-- 2023-06-07 — Episode 217 - Vestigial Man Tits — speakers: Rachel Hosted, Phil Wang, Pierre Novellie
+- 2023-06-07 — Episode 217 - Vestigial Man Tits — speakers: Phil Wang, Pierre Novellie
 - 2023-05-31 — Episode 216 - Wang Fu — speakers: Phil Wang, Pierre Novellie
-- 2023-05-24 — Episode 215 - Greatus Podcastus — speakers: Matty Czechs, Phil Wang, Pierre Novellie
+- 2023-05-24 — Episode 215 - Greatus Podcastus — speakers: Greatus Podcastus, Phil Wang, Pierre Novellie
 - 2023-05-17 — Episode 214 - Belfast Emergency Bonus! — speakers: Phil Wang, Pierre Novellie
 - 2023-05-10 — Episode 213 - BUTTONS!!! — speakers: Phil Wang, Pierre Novellie
 - 2023-05-03 — Episode 212 - Fun Eating Guys — speakers: Phil Wang, Pierre Novellie
@@ -7806,84 +7631,84 @@
 - 2023-04-19 — Episode 210 - BNL — speakers: Phil Wang, Pierre Novellie
 - 2023-04-12 — Episode 209 - Emergency Correspondence Special! — speakers: Phil Wang, Pierre Novellie
 - 2023-04-05 — Episode 208 - CarPod! — speakers: Phil Wang, Pierre Novellie
-- 2023-03-29 — Episode 207 - Lads On Tour! — speakers: Thomas Hosted, Phil Wang, Pierre Novellie
+- 2023-03-29 — Episode 207 - Lads On Tour! — speakers: Disney Asia, Phil Wang, Pierre Novellie
 - 2023-03-22 — Episode 206 - Horse Hugs — speakers: Hugs Wang, Whoopie Goldberg, Phil Wang, Pierre Novellie
-- 2023-03-15 — Episode 205 - BudPod Live! — speakers: Salvador Hosted, Phil Wang, Pierre Novellie
+- 2023-03-15 — Episode 205 - BudPod Live! — speakers: Leicester Square Theatre, Phil Wang, Pierre Novellie
 - 2023-03-08 — Episode 204 - What If She's A Laugh? — speakers: Phil Wang, Pierre Novellie
 - 2023-03-01 — Episode 203 - Obsesionadoooooooos! — speakers: Johnny Cash, Phil Wang, Pierre Novellie
 - 2023-02-22 — Episode 202 - Popping A Balloon Dog — speakers: Phil Wang, Pierre Novellie
-- 2023-02-15 — Episode 201 - BudPod LIVE! — speakers: Truman Show, Lucky Kentucky, Phil Wang, Pierre Novellie
+- 2023-02-15 — Episode 201 - BudPod LIVE! — speakers: Truman Show, Phil Wang, Pierre Novellie
 - 2023-02-08 — Episode 200 - Double century! — speakers: Phil Wang, Pierre Novellie
-- 2023-02-01 — Episode 199 - Can you go bigger? — speakers: mocha goblin, Phil Wang, Pierre Novellie
+- 2023-02-01 — Episode 199 - Can you go bigger? — speakers: Phil Wang, Pierre Novellie
 - 2023-01-25 — Episode 198 - Loco in Acropopo — speakers: Phil Wang, Pierre Novellie
-- 2023-01-18 — Episode 197 - Garlic Naan?! — speakers: Garlic Naan, MBEs Sketch, Phil Wang, Pierre Novellie
-- 2023-01-11 — BudPod 196 - What Did You Do For Nyuh? — speakers: Prince Harry, Marie Kondo Hosted, Phil Wang, Pierre Novellie
+- 2023-01-18 — Episode 197 - Garlic Naan?! — speakers: Garlic Naan, Phil Wang, Pierre Novellie
+- 2023-01-11 — BudPod 196 - What Did You Do For Nyuh? — speakers: Prince Harry, Phil Wang, Pierre Novellie
 - 2023-01-04 — BudPod 195 - Filler Bonuspod! "RoboJuice" — speakers: Filler Bonuspod, Phil Wang, Pierre Novellie
 - 2022-12-21 — Episode 194 - Haw Haw Haw — speakers: David Hosted, Phil Wang, Pierre Novellie
 - 2022-12-14 — Episode 193 - Sh*t or Bites? — speakers: Phil Wang, Pierre Novellie
 - 2022-12-07 — Episode 192 - Fancy Binch! — speakers: Fancy Binch, Phil Wang, Pierre Novellie
 - 2022-11-30 — Episode 191 - Father Budmas — speakers: Phil Wang, Pierre Novellie
-- 2022-11-23 — Episode 190 - Pholk Horror — speakers: Joe Lycett, Phil Wang, Pierre Novellie
+- 2022-11-23 — Episode 190 - Pholk Horror — speakers: Phil Wang, Pierre Novellie
 - 2022-11-16 — Episode 189 - Good News Bad News — speakers: Phil Wang, Pierre Novellie
-- 2022-11-09 — Episode 188 - Musk's Gambit — speakers: Phil Wang, Pierre Novellie, Elon Musk, Armie Hammer
-- 2022-11-02 — Episode 187 - A Cult of What?! — speakers: Phil Wang, Pierre Novellie, Taylor Swift, Male Events
+- 2022-11-09 — Episode 188 - Musk's Gambit — speakers: Phil Wang, Pierre Novellie, Armie Hammer
+- 2022-11-02 — Episode 187 - A Cult of What?! — speakers: Phil Wang, Pierre Novellie
 - 2022-10-26 — Episode 186 - Short King Rishi — speakers: King Rishi, Phil Wang, Pierre Novellie
 - 2022-10-19 — Episode 185 - Burn that baby! — speakers: Phil Wang, Pierre Novellie
 - 2022-10-12 — Episode 184 - Podcasht Epishode — speakers: Phil Wang, Pierre Novellie
 - 2022-10-05 — Episode 183 - Mon Ami! — speakers: Phil Wang, Pierre Novellie
-- 2022-09-28 — Episode 182 - Skin In The Bin — speakers: Liz Truss, Phil Wang, Pierre Novellie
+- 2022-09-28 — Episode 182 - Skin In The Bin — speakers: Phil Wang, Pierre Novellie
 - 2022-09-14 — Episode 181 - Royalty Chat! — speakers: Phil Wang, Pierre Novellie
 - 2022-09-07 — Episode 180 - Papa! — speakers: Phil Wang, Pierre Novellie
 - 2022-09-04 — London gig alert! RHLSTP! — speakers: Phil Wang, Pierre Novellie
-- 2022-08-31 — Episode 179 - End Of The Line — speakers: Edinburgh bin, Phil Wang, Pierre Novellie
-- 2022-08-24 — Episode 178 - Echoey Bin Boys — speakers: Bin Boys, Johnny White Really Really, Phil Wang, Pierre Novellie
+- 2022-08-31 — Episode 179 - End Of The Line — speakers: Phil Wang, Pierre Novellie
+- 2022-08-24 — Episode 178 - Echoey Bin Boys — speakers: Bin Boys, Phil Wang, Pierre Novellie
 - 2022-08-17 — Episode 177 - Scone Boy — speakers: Phil Wang, Pierre Novellie
-- 2022-08-10 — Episode 176 - About their uncles, about their jobs — speakers: Phil Wang, Pierre Novellie
-- 2022-08-03 — Episode 175 - Delirious! — speakers: Phil Wang, Pierre Novellie, Bob Odenkirk
-- 2022-07-27 — Episode 174 - Solo intro and BonusPod 170! — speakers: Phil Wang, Phil Wang Bacon, Pierre Novellie
+- 2022-08-10 — Episode 176 - About their uncles, about their jobs — speakers: Square Foot, Phil Wang, Pierre Novellie
+- 2022-08-03 — Episode 175 - Delirious! — speakers: Phil Wang, Pierre Novellie
+- 2022-07-27 — Episode 174 - Solo intro and BonusPod 170! — speakers: Phil Wang, Pierre Novellie
 - 2022-07-20 — Episode 173 - Boiling Hot Buds! — speakers: Phil Wang, Pierre Novellie
 - 2022-07-13 — Episode 172 - Goodbye, Yellow Pr*ck Toad — speakers: Toad Apologies, Phil Wang, Pierre Novellie
-- 2022-07-06 — Episode 171 - Scatty Sunset — speakers: Fran Lebowitz, Wang Correspondence, Phil Wang, Pierre Novellie
+- 2022-07-06 — Episode 171 - Scatty Sunset — speakers: Fran Lebowitz, Phil Wang, Pierre Novellie
 - 2022-06-29 — Episode 170 - BudPod +2 *brrring!* — speakers: Phil Wang, Pierre Novellie
 - 2022-06-22 — Episode 169 - BonusPod special! 'Sing to me' — speakers: Phil Wang, Pierre Novellie
 - 2022-06-15 — Episode 168 - How Much Do Things Cost? — speakers: Phil Wang, Pierre Novellie
-- 2022-06-08 — Episode 167 - Bromer's The Brodyssey — speakers: Phil Wang, Pierre Novellie, Sara Cox
-- 2022-06-01 — Episode 166 - Shatibum Poobipee — speakers: Phil Wang, Pierre Novellie, Jubilee Lucky Kentucky
-- 2022-05-25 — Episode 165 - Why, Lydia! — speakers: Pierre Novellie, Phil Wang, Seth Meyers
+- 2022-06-08 — Episode 167 - Bromer's The Brodyssey — speakers: Phil Wang, Pierre Novellie
+- 2022-06-01 — Episode 166 - Shatibum Poobipee — speakers: Phil Wang, Pierre Novellie
+- 2022-05-25 — Episode 165 - Why, Lydia! — speakers: Pierre Novellie, Phil Wang
 - 2022-05-18 — Episode 164 - Back From Holiday! — speakers: Phil Wang, Pierre Novellie
 - 2022-05-11 — Episode 163 - BonusPod Holiday Special 3! — speakers: Phil Wang, Pierre Novellie
-- 2022-05-04 — Episode 162 - BonusPod Holiday Special 2! — speakers: Mel Gibson, Mrs Claus, Phil Wang, Pierre Novellie
-- 2022-04-27 — Episode 161 - BonusPod Holiday Special 1! — speakers: Dandy Andy, Tiny Tim Hosted, Phil Wang, Pierre Novellie
+- 2022-05-04 — Episode 162 - BonusPod Holiday Special 2! — speakers: Phil Wang, Pierre Novellie
+- 2022-04-27 — Episode 161 - BonusPod Holiday Special 1! — speakers: Phil Wang, Pierre Novellie
 - 2022-04-20 — Episode 160 - Tub of Pills — speakers: Phil Wang, Pierre Novellie
 - 2022-04-13 — Episode 159 - Fat Car and Ham — speakers: Phil Wang, Pierre Novellie
-- 2022-04-06 — Episode 158 - Coffin Ammo — speakers: Phil Wang, Pierre Novellie, Coffin Ammo, Wine Will
+- 2022-04-06 — Episode 158 - Coffin Ammo — speakers: Phil Wang, Pierre Novellie
 - 2022-03-30 — Episode 157 - Land of Milk and Hair — speakers: Phil Wang, Pierre Novellie
 - 2022-03-23 — Episode 156 - Phreemasons — speakers: Phil Wang, Pierre Novellie
-- 2022-03-16 — Episode 155 - Stable and Cheeseboard — speakers: Benedict Cumberbatch Correspondence, Phil Wang, Pierre Novellie
-- 2022-03-13 — NoBuddy PodNic — speakers: Phil Wang, Pierre Novellie, Stevie Martin, Comic Relief
+- 2022-03-16 — Episode 155 - Stable and Cheeseboard — speakers: Benedict Cumberbatch Correspo, Phil Wang, Pierre Novellie
+- 2022-03-13 — NoBuddy PodNic — speakers: Phil Wang, Pierre Novellie, Stevie Martin
 - 2022-03-09 — Episode 154 - Guncln — speakers: Phil Wang, Pierre Novellie
 - 2022-03-02 — Episode 153 - WW3 — speakers: Phil Wang, Pierre Novellie
 - 2022-02-23 — Episode 152 - Gardenia bread... on its own! — speakers: Phil Wang, Pierre Novellie
 - 2022-02-16 — Episode 151 - Folding Sloths — speakers: Phil Wang, Pierre Novellie, marie kondo
 - 2022-02-09 — Episode 150 - Dudes being Guys with Dudes — speakers: Phil Wang, Pierre Novellie, Mata Hari
-- 2022-02-02 — Episode 149 - Iron Bellies — speakers: Phil Wang, Pierre Novellie
+- 2022-02-02 — Episode 149 - Iron Bellies — speakers: Iron Bellies Ostriches, Phil Wang, Pierre Novellie
 - 2022-01-26 — Episode 148 - Igor! — speakers: Phil Wang, Pierre Novellie
 - 2022-01-19 — Episode 147 - Hoops! — speakers: Phil Wang, Pierre Novellie
 - 2022-01-12 — Episode 146 - Mønspidår — speakers: Phil Wang, Pierre Novellie
-- 2022-01-05 — Episode 145 - Chess-tity — speakers: Phil Wang, Pierre Novellie, Sutton Hoo
+- 2022-01-05 — Episode 145 - Chess-tity — speakers: Phil Wang, Pierre Novellie
 - 2021-12-29 — Episode 144 - Winter Employee — speakers: Phil Wang, Pierre Novellie
-- 2021-12-22 — Episode 143 - Enormous Mattress Salesman — speakers: Phil Wang, Pierre Novellie, Jimmy Helmet
-- 2021-12-15 — Episode 142 - Weep Side Story — speakers: Phil Wang, Pierre Novellie, Paul McCartney
+- 2021-12-22 — Episode 143 - Enormous Mattress Salesman — speakers: Phil Wang, Pierre Novellie
+- 2021-12-15 — Episode 142 - Weep Side Story — speakers: Phil Wang, Pierre Novellie
 - 2021-12-08 — Episode 141 - Libertarian Musketeer — speakers: Phil Wang, Pierre Novellie
 - 2021-12-01 — Episode 140 - BudPATREON! — speakers: Phil Wang, Pierre Novellie
-- 2021-11-24 — Episode 139 - Lost-In-The-Desert-Music.mp3 — speakers: Phil Wang, Pierre Novellie, Michael Moore Hosted
+- 2021-11-24 — Episode 139 - Lost-In-The-Desert-Music.mp3 — speakers: Phil Wang, Pierre Novellie
 - 2021-11-17 — Episode 138 - Integer Sausages — speakers: Integer Sausages, Phil Wang, Pierre Novellie
 - 2021-11-10 — Episode 137 - Peppercorn Correspondence: Bionic Wang — speakers: Phil Wang, Pierre Novellie
-- 2021-11-03 — Episode 136 - Hun, see this! — speakers: Phil Wang, Pierre Novellie, Gordon Brown
+- 2021-11-03 — Episode 136 - Hun, see this! — speakers: Phil Wang, Pierre Novellie
 - 2021-10-27 — Episode 135 - Damn! — speakers: Phil Wang, Pierre Novellie
 - 2021-10-20 — Episode 134 - Malden Maldenssalt — speakers: Phil Wang, Pierre Novellie
 - 2021-10-13 — Episode 133 - Gargoyle Pod — speakers: OJ Simpson, Phil Wang, Pierre Novellie
-- 2021-10-06 — Episode 132 - Richard Lines — speakers: dick lines, James Bond, Phil Wang, Pierre Novellie
+- 2021-10-06 — Episode 132 - Richard Lines — speakers: dick lines, Phil Wang, Pierre Novellie
 - 2021-09-15 — Episode 131 - Backwards Chat — speakers: Phil Wang, Pierre Novellie
 - 2021-09-08 — Episode 130 - HolPod — speakers: info security, Phil Wang, Pierre Novellie
 - 2021-08-25 — Episode 129 - LatePod! — speakers: Sean Lock, Dominic Raab, Phil Wang, Pierre Novellie
@@ -7892,127 +7717,127 @@
 - 2021-08-04 — Episode 126 - Corona and Lyme — speakers: Phil Wang, Pierre Novellie
 - 2021-07-28 — Episode 125 - Mr T-Cells — speakers: Phil Wang, Pierre Novellie
 - 2021-07-21 — Episode 124 - Sizzlin' Correspondence/Tat Special — speakers: Phil Wang, Pierre Novellie
-- 2021-07-14 — Episode 123 - We Won It! — speakers: British Museum, London Bridge, Phil Wang, Pierre Novellie
+- 2021-07-14 — Episode 123 - We Won It! — speakers: British Museum, Phil Wang, Pierre Novellie
 - 2021-07-07 — Episode 122 - Noo Yawk — speakers: Phil Wang, Pierre Novellie
-- 2021-06-30 — Episode 121 - Bud's Podding Home! — speakers: Barry White, Uterus Fluids, Ali Lewis, Phil Wang, Pierre Novellie
+- 2021-06-30 — Episode 121 - Bud's Podding Home! — speakers: Phil Wang, Pierre Novellie
 - 2021-06-23 — Episode 120 - Bus Legs — speakers: Moody Mensch, Phil Wang, Pierre Novellie
-- 2021-06-16 — Episode 119 - The Buds Are Back! The Buds Are Back! — speakers: Tommy Cooper, Bruce Forsyth, Forrin Holidays, Mao Suits, Garrett Millerick, Phil Wang, Pierre Novellie
+- 2021-06-16 — Episode 119 - The Buds Are Back! The Buds Are Back! — speakers: Tommy Coo, Phil Wang, Pierre Novellie
 - 2021-06-09 — Episode 118 - Hot Bud Summer — speakers: Phil Wang, Pierre Novellie
-- 2021-06-02 — Episode 117 - Like The Joker — speakers: Pierre Novellie, jamon iberico, Phil Wang
+- 2021-06-02 — Episode 117 - Like The Joker — speakers: Pierre Novellie, Phil Wang
 - 2021-05-26 — Episode 116 - Duvet Wife — speakers: Phil Wang, Pierre Novellie
 - 2021-05-19 — Episode 115 - Modern Matt — speakers: Matts Hosted, Phil Wang, Pierre Novellie
-- 2021-05-12 — Episode 114 - Acceleration of Sin — speakers: Britney Spears, Phil Wang, Pierre Novellie
+- 2021-05-12 — Episode 114 - Acceleration of Sin — speakers: Phil Wang, Pierre Novellie
 - 2021-05-05 — Episode 113 - The Gratest View! — speakers: Pixar vs Dreamworks, Phil Wang, Pierre Novellie
 - 2021-04-28 — Episode 112 - Your BudPod Tariff Has Expired — speakers: Phil Wang, Pierre Novellie
-- 2021-04-21 — Episode 111 -Caveman's Wages — speakers: Phil Wang, Pierre Novellie
+- 2021-04-21 — Episode 111 -Caveman's Wages — speakers: Super League, Phil Wang, Pierre Novellie
 - 2021-04-14 — Episode 110 - Bleep Bloop Episode — speakers: Phil Wang, Pierre Novellie
-- 2021-04-06 — Episode 108 B - WHAT? YEAH. OKAY! — speakers: Wish Dot Com, Phil Wang, Pierre Novellie
+- 2021-04-06 — Episode 108 B - WHAT? YEAH. OKAY! — speakers: Phil Wang, Pierre Novellie
 - 2021-03-31 — Episode 108 A - Don't Make His Mistake! — speakers: Phil Wang, Pierre Novellie
 - 2021-03-24 — Episode 107 - I'm With Stu-Pod — speakers: Phil Wang, Pierre Novellie
-- 2021-03-17 — Episode 106 - Shitcoin — speakers: Elon Musk, Bill Gates, Phil Wang, Pierre Novellie
+- 2021-03-17 — Episode 106 - Shitcoin — speakers: Phil Wang, Pierre Novellie
 - 2021-03-10 — Episode 105 - Regrets, I've Had A Poo — speakers: Phil Wang, Pierre Novellie
 - 2021-03-03 — Episode 104 - Error 404 — speakers: Prince Harry, Phil Wang, Pierre Novellie
 - 2021-02-24 — Episode 103 - Bin Laden's TikTok — speakers: Breaking Bad, Phil Wang, Pierre Novellie
 - 2021-02-17 — Episode 102 - Correspondence From Our Valentines — speakers: Michael Jackson, Phil Wang, Pierre Novellie
 - 2021-02-10 — Episode 101 - Regression To The Meme — speakers: Jackie Weaver, Phil Wang, Pierre Novellie
-- 2021-02-03 — Episode 100 - BudCentury! — speakers: Gregory Monk, Phil Wang, Pierre Novellie
-- 2021-01-27 — Episode 99 - Correspondence Birthday Special! — speakers: Callous Wang, Alec Dick, Phil Wang, Pierre Novellie
-- 2021-01-20 — Episode 98 - Inauguration Pod! — speakers: Margaret Thatcher, Phil Wang, Pierre Novellie
-- 2021-01-13 — Episode 97 - RiotPod — speakers: Lockdown Birthdays, Tat Attack, Phil Wang, Pierre Novellie
-- 2021-01-06 — Episode 96 - Any Samaritans in tonight? — speakers: Osama Bin Laden, Phil Wang, Pierre Novellie
+- 2021-02-03 — Episode 100 - BudCentury! — speakers: Lucky Kentucky, correspondence such, Phil Wang, Pierre Novellie
+- 2021-01-27 — Episode 99 - Correspondence Birthday Special! — speakers: Callous Wang, Phil Wang, Pierre Novellie
+- 2021-01-20 — Episode 98 - Inauguration Pod! — speakers: Phil Wang, Pierre Novellie
+- 2021-01-13 — Episode 97 - RiotPod — speakers: Economy Heaven, Heaven Premium, Phil Wang, Pierre Novellie
+- 2021-01-06 — Episode 96 - Any Samaritans in tonight? — speakers: Phil Wang, Pierre Novellie
 - 2020-12-30 — Episode 95 - Kamehamehappy new year! — speakers: Phil Wang, Pierre Novellie
 - 2020-12-23 — Episode 94 - Nine-Tier-Four — speakers: Mutant Covid, Phil Wang, Pierre Novellie
 - 2020-12-16 — Episode 93 - Jellyfish Salad — speakers: Phil Wang, Pierre Novellie
 - 2020-12-09 — Episode 92 - Maritime Casualty — speakers: Billy Shakespeare, Rudy Giuliani, Phil Wang, Pierre Novellie
-- 2020-12-02 — Episode 91 - Tough Goblin Questions — speakers: DnD Game, Phil Wang, Pierre Novellie
+- 2020-12-02 — Episode 91 - Tough Goblin Questions — speakers: Phil Wang, Pierre Novellie
 - 2020-11-25 — Episode 90 - Orangutan Is Watching You Correspondence — speakers: Phil Wang, Pierre Novellie
 - 2020-11-18 — Episode 89 - Soiled Long Johns Correspondence Special! — speakers: Soiled Long Johns Correspondence, Amsterdam Malaysian Poo Story, Phil Wang, Pierre Novellie
-- 2020-11-11 — Episode 88 - Four Seasons Total BudPodding — speakers: Phil Wang, Pierre Novellie
-- 2020-11-04 — Episode 87 - VotePod! — speakers: Will Phil, Phil Wang, Pierre Novellie
+- 2020-11-11 — Episode 88 - Four Seasons Total BudPodding — speakers: Four Seasons Total, Sky Nazi, Phil Wang, Pierre Novellie
+- 2020-11-04 — Episode 87 - VotePod! — speakers: Phil Wang, Pierre Novellie
 - 2020-10-28 — Episode 86 - Captain BudPod — speakers: Phil Wang, Pierre Novellie
-- 2020-10-21 — Episode 85 - Cancellation Is Cancelled — speakers: Priti Patel, Phil Wang, Pierre Novellie
-- 2020-10-14 — Episode 84 - Covid Correspondence Special Part 2! — speakers: Desmond Tutu, Phil Wang, Pierre Novellie
-- 2020-10-07 — Episode 83 - Covid Correspondence Special Part 1! — speakers: tat attacks, poo stories, Phil Wang, Pierre Novellie
-- 2020-09-30 — Episode 82 - Mecha Teen — speakers: Tat Attack Hosted, Phil Wang, Pierre Novellie
-- 2020-09-23 — Episode 81 - Kuwaiti Mum — speakers: Lucky Kentucky, Phil Wang, Pierre Novellie
+- 2020-10-21 — Episode 85 - Cancellation Is Cancelled — speakers: Phil Wang, Pierre Novellie
+- 2020-10-14 — Episode 84 - Covid Correspondence Special Part 2! — speakers: Covid Correspondence Special, Pill Nang, Phil Wang, Pierre Novellie
+- 2020-10-07 — Episode 83 - Covid Correspondence Special Part 1! — speakers: tat attacks, Phil Wang, Pierre Novellie
+- 2020-09-30 — Episode 82 - Mecha Teen — speakers: Phil Wang, Pierre Novellie
+- 2020-09-23 — Episode 81 - Kuwaiti Mum — speakers: Phil Wang, Pierre Novellie
 - 2020-09-16 — Episode 80 - In Person Pod! — speakers: Phil Wang, Pierre Novellie
 - 2020-09-09 — Episode 79 - Prime Pod — speakers: Phil Wang, Pierre Novellie
-- 2020-09-02 — Episode 78 - Batman Smells — speakers: Phil Wang, Pierre Novellie
+- 2020-09-02 — Episode 78 - Batman Smells — speakers: Once Upon, Phil Wang, Pierre Novellie
 - 2020-08-26 — Episode 77 - CricketPod — speakers: Phil Wang, Pierre Novellie
-- 2020-08-19 — Episode 76 - War Is Health — speakers: Winston Churchill, Phil Wang, Pierre Novellie
+- 2020-08-19 — Episode 76 - War Is Health — speakers: Phil Wang, Pierre Novellie
 - 2020-08-12 — Episode 75 - Deep Fake Correspondents' Dinner — speakers: Nina Schick, Phil Wang, Pierre Novellie
-- 2020-08-05 — Episode 74 - Nazi Spotter — speakers: Callous Phil Wang, Phil Wang, Pierre Novellie
+- 2020-08-05 — Episode 74 - Nazi Spotter — speakers: Scrappy Doo, Edinburgh Fringe, Phil Wang, Pierre Novellie
 - 2020-07-29 — Episode 73 - Daddy Pants Correspondence Special! — speakers: Pierre Novellie, Phil Wang
-- 2020-07-22 — Episode 72 - Charlie Chunks — speakers: Phil Wang, Pierre Novellie, Mark Zuckerberg, Jeff Bezos
+- 2020-07-22 — Episode 72 - Charlie Chunks — speakers: Phil Wang, Pierre Novellie, Mark Zuckerberg
 - 2020-07-15 — Episode 71 - The Mask(s) — speakers: Roger Stone, Phil Wang, Pierre Novellie
-- 2020-07-08 — Episode 70 - Johnson! — speakers: Phil Wang, Pierre Novellie, Sandy Cobbledick, lifeguard anti
-- 2020-07-01 — Episode 69 - Nice! Correspondence Special — speakers: Phil Wang, Pierre Novellie
+- 2020-07-08 — Episode 70 - Johnson! — speakers: Phil Wang, Pierre Novellie
+- 2020-07-01 — Episode 69 - Nice! Correspondence Special — speakers: Correspondence Special, Phil Wang, Pierre Novellie
 - 2020-06-24 — Episode 68 - Rabbits On Top — speakers: Phil Wang, Pierre Novellie
 - 2020-06-17 — Episode 67 - The Streak! — speakers: Phil Wang, Pierre Novellie
 - 2020-06-10 — Episode 66 - Get In The Sea, Eddie! — speakers: Runnymede Trust, Phil Wang, Pierre Novellie
 - 2020-06-03 — Episode 65 - Black Lives Matter — speakers: Black Lives Matter Donate, Runnymede Trust, Phil Wang, Pierre Novellie
-- 2020-05-27 — Episode 64 - Monkey PawPod — speakers: PawPod Accurs-ed, Phil Wang, Pierre Novellie, Sally Rooney
+- 2020-05-27 — Episode 64 - Monkey PawPod — speakers: PawPod Accurs-ed, Phil Wang, Pierre Novellie
 - 2020-05-20 — Episode 63 - Correspondents' Zoom Dinner! — speakers: Zoom Dinner, Poo Mystery, Phil Wang, Pierre Novellie
 - 2020-05-13 — Episode 62 - Unlimited BudPod! — speakers: Phil Wang, Pierre Novellie
-- 2020-05-06 — Episode 61 - Bath Laughers — speakers: Phil Wang, Pierre Novellie
-- 2020-04-29 — Episode 60 - DreamPod! — speakers: Uncanny Goofy, Kim Jong Un, Phil Wang, Pierre Novellie
+- 2020-05-06 — Episode 61 - Bath Laughers — speakers: Bath Laughers Good Old, Phil Wang, Pierre Novellie
+- 2020-04-29 — Episode 60 - DreamPod! — speakers: Uncanny Goofy, Phil Wang, Pierre Novellie
 - 2020-04-22 — Episode 59 - Glenn MoorePod! — speakers: Glenn Moore, Phil Wang, Pierre Novellie
 - 2020-04-15 — Episode 58 - Isolation Correspondents Special! — speakers: Phil Wang, Pierre Novellie
-- 2020-04-08 — Episode 57 - Quaranpod! — speakers: Rebecca Austin, Phil Wang, Pierre Novellie
-- 2020-04-01 — Episode 56 - Lockdown 2: The Lockening — speakers: Pierre Novellie, Phil Wang, Death Stranding, Koji Jack, Chloe Petts
-- 2020-03-25 — Episode 55 - Lockdown! — speakers: Phil Wang, Pierre Novellie, Harvey Weinstein, Michael Shannon, Tim Allen
-- 2020-03-18 — Episode 54 - BudPandemic — speakers: Pierre Novellie, Phil Wang, Boris Johnson
+- 2020-04-08 — Episode 57 - Quaranpod! — speakers: Phil Wang, Pierre Novellie
+- 2020-04-01 — Episode 56 - Lockdown 2: The Lockening — speakers: Pierre Novellie, Phil Wang, Death Stranding
+- 2020-03-25 — Episode 55 - Lockdown! — speakers: Phil Wang, Pierre Novellie
+- 2020-03-18 — Episode 54 - BudPandemic — speakers: Pierre Novellie, Phil Wang
 - 2020-03-11 — Episode 53 - ANNIVERSARY POD! Part 2. Feat. Adam Hess — speakers: Adam Hess, Pierre Novellie, Phil Wang, Smug Actually
 - 2020-03-04 — Episode 52 - ANNIVERSARY POD! Part 1. Feat. Adam Hess — speakers: Adam Hess, Phil Wang, Pierre Novellie
-- 2020-02-26 — Episode 51 - The Nadir — speakers: Pierre Novellie, Phil Wang, Kieran Boyd, Donald Trump, Priti Patel
+- 2020-02-26 — Episode 51 - The Nadir — speakers: Pierre Novellie, Phil Wang
 - 2020-02-19 — Episode 50 - Half Century! — speakers: Naughty Numbers, Phil Wang, Pierre Novellie
 - 2020-02-12 — Episode 49 - Valentine's Correspondent's Dinner! — speakers: Pierre Novellie, Phil Wang
 - 2020-02-05 — Episode 48 - Sovereignty Pod! — speakers: Pierre Novellie, Phil Wang
 - 2020-01-29 — Episode 47 - BirthPod 2: Rise of Pierre — speakers: Phil Wang, Pierre Novellie
 - 2020-01-22 — Episode 46 - BirthPod! — speakers: Phil Wang, Pierre Novellie, Birthday Pods
 - 2020-01-15 — Episode 45 - Brimful Of Correspondence! — speakers: Pierre Novellie, Phil Wang
-- 2020-01-08 — Episode 44 - Crappy Poo Smear! — speakers: Phil Wang, Pierre Novellie, Raging Ball
-- 2019-12-25 — Episode 43 - Merry BudMas! — speakers: Phil Wang, Pierre Novellie, Jim Carrey
+- 2020-01-08 — Episode 44 - Crappy Poo Smear! — speakers: Phil Wang, Pierre Novellie
+- 2019-12-25 — Episode 43 - Merry BudMas! — speakers: Phil Wang, Pierre Novellie
 - 2019-12-18 — Episode 42 - Election Special! — speakers: Phil Wang, Pierre Novellie
-- 2019-12-11 — Episode 41 - Correspondents' Christmas Dinner! — speakers: Phil Wang, Pierre Novellie, Dick Amulets
-- 2019-12-04 — Episode 40 - MidlifePod! — speakers: Pierre Novellie, Phil Wang, Sue Perkins
-- 2019-11-27 — Episode 39 - PaedPod! — speakers: Prince Andrew, Epstein Brain, Phil Wang, Pierre Novellie
-- 2019-11-20 — Episode 38 - POP FIZZ CLINK — speakers: Uncle Fatty, Monkey Fat Camp, Full Monkey Jacket, Phil Wang, Pierre Novellie
-- 2019-11-13 — Episode 37 - TAT ATTACK! — speakers: Johnny White, Phil Wang, Pierre Novellie
+- 2019-12-11 — Episode 41 - Correspondents' Christmas Dinner! — speakers: Phil Wang, Pierre Novellie
+- 2019-12-04 — Episode 40 - MidlifePod! — speakers: Pierre Novellie, Phil Wang
+- 2019-11-27 — Episode 39 - PaedPod! — speakers: Phil Wang, Pierre Novellie
+- 2019-11-20 — Episode 38 - POP FIZZ CLINK — speakers: Phil Wang, Pierre Novellie
+- 2019-11-13 — Episode 37 - TAT ATTACK! — speakers: Phil Wang, Pierre Novellie
 - 2019-11-06 — Episode 36 - BudSquared! — speakers: Pierre Novellie, Phil Wang
-- 2019-10-30 — Episode 35 - Correspondents' Dinner 3: Prisoner of Azkaban — speakers: Phil Wang, Pierre Novellie, Alan Moore, Germaine Greer, Louis Armstrong
+- 2019-10-30 — Episode 35 - Correspondents' Dinner 3: Prisoner of Azkaban — speakers: Dinner Three, Phil Wang, Pierre Novellie
 - 2019-10-23 — Episode 34 - Laksa Splitpants! — speakers: Laksa Splitpants, Phil Wang, Pierre Novellie
-- 2019-10-16 — Episode 33 - Midlife Christis — speakers: Phil Wang, Pierre Novellie, Detective Barbie, Roast Battle
-- 2019-10-09 — Episode 32 - BakePod! — speakers: Phil Wang, Pierre Novellie, Justin Trudeau, Adam Buxton, David Bowie
+- 2019-10-16 — Episode 33 - Midlife Christis — speakers: Phil Wang, Pierre Novellie
+- 2019-10-09 — Episode 32 - BakePod! — speakers: Phil Wang, Pierre Novellie
 - 2019-10-02 — Episode 31 - BitchPod — speakers: Phil Wang, Pierre Novellie
-- 2019-09-25 — Episode 30B - Breadpod with Fern Brady! — speakers: Phil Wang, Pierre Novellie, Fern Brady
+- 2019-09-25 — Episode 30B - Breadpod with Fern Brady! — speakers: Phil Wang, Pierre Novellie
 - 2019-09-18 — Episode 30A - BudPerverts with Fern Brady! — speakers: Phil Wang, Pierre Novellie
 - 2019-09-17 — Episode 29 - Correspondent's Dinner 2: Electric Boogaloo — speakers: Electric Boogaloo Correspondent’s Special, Electric Boogaloo, Phil Wang, Pierre Novellie
-- 2019-09-04 — Episode 28 - Premium Beef Snack — speakers: Phil Wang, Pierre Novellie, Lin Manuel Miranda
-- 2019-08-28 — Episode 27 - Podarch of the Glen! — speakers: Phil Wang, Pierre Novellie, Frank Skinner
-- 2019-08-21 — Episode 26 - BravePod! With Iain Stirling! — speakers: Phil Wang, Pierre Novellie, Greyfriars Bobby, Lena Dunham
-- 2019-08-14 — Episode 25 - CaledoniPod! — speakers: Tom Jones, Barbarian Lads, Phil Wang, Pierre Novellie
-- 2019-08-07 — Episode 24 - Arthur's Pod — speakers: Churchill Brunch, Bristol Berlusconi, Jacob Rees Mogg, Phil Wang, Pierre Novellie
-- 2019-07-31 — Episode 23 - EdinBudPod! — speakers: Phil Wang, Pierre Novellie, Glenn Moore
-- 2019-07-24 — Episode 22 - BorisPod — speakers: Phil Wang, Pierre Novellie, Garrett Millerick
-- 2019-07-17 — Episode 21 - DANEPØD — speakers: Phil Wang, Pierre Novellie, Glenn Moore, Liam Neeson’s Cloche, Inflaty Popkins, Julia Fartley-Pooer
-- 2019-07-10 — Episode 20 - Duodecapod! — speakers: Phil Wang, Pierre Novellie, George Galloway, Nigel Farage, bum wife
-- 2019-07-03 — Episode 19 - GlastonBudPod! — speakers: Glastonbury Goldblum, Glasto Attenborough, Phil Wang, Pierre Novellie
-- 2019-07-01 — Episode 18 - BeerPod! — speakers: Emily Maitlis, Sick Booze VomBooze, Phil Wang, Pierre Novellie
-- 2019-06-19 — Episode 17 - BudPork! — speakers: Phil Wang, Pierre Novellie, Jimmy Sa-Phil, Boris Johnson, Jordan Peterson
+- 2019-09-04 — Episode 28 - Premium Beef Snack — speakers: Phil Wang, Pierre Novellie
+- 2019-08-28 — Episode 27 - Podarch of the Glen! — speakers: Phil Wang, Pierre Novellie
+- 2019-08-21 — Episode 26 - BravePod! With Iain Stirling! — speakers: Phil Wang, Pierre Novellie
+- 2019-08-14 — Episode 25 - CaledoniPod! — speakers: Phil Wang, Pierre Novellie
+- 2019-08-07 — Episode 24 - Arthur's Pod — speakers: Churchill Brunch, Bristol Berlusconi, Phil Wang, Pierre Novellie
+- 2019-07-31 — Episode 23 - EdinBudPod! — speakers: Phil Wang, Pierre Novellie
+- 2019-07-24 — Episode 22 - BorisPod — speakers: Phil Wang, Pierre Novellie
+- 2019-07-17 — Episode 21 - DANEPØD — speakers: Phil Wang, Pierre Novellie
+- 2019-07-10 — Episode 20 - Duodecapod! — speakers: Phil Wang, Pierre Novellie
+- 2019-07-03 — Episode 19 - GlastonBudPod! — speakers: Glastonbury Goldblum, Phil Wang, Pierre Novellie
+- 2019-07-01 — Episode 18 - BeerPod! — speakers: Happy Birthday, Phil Wang, Pierre Novellie
+- 2019-06-19 — Episode 17 - BudPork! — speakers: Phil Wang, Pierre Novellie
 - 2019-06-11 — Episode 16 - Fight Everyone — speakers: Phil Wang, Pierre Novellie, Phil’s Dad
-- 2019-06-06 — Episode 15 - LatePod! — speakers: Oliver Twist, Phil Wang, Pierre Novellie
-- 2019-05-29 — Episode 14 - BudPolitics! — speakers: Phil Wang, Pierre Novellie, Liz Truss
-- 2019-05-22 — Episode 13 - Unlucky 13! — speakers: Phil Wang, Pierre Novellie, bin bags
-- 2019-05-15 — Episode 12 - Correspondent's Dinner! — speakers: Phil Wang, Pierre Novellie, Bugs Bunny, Adam Buxton
-- 2019-05-08 — Episode 11 - Welsh Common Bit — speakers: Pierre Novellie, Phil Wang, Mesopotamian Rodney Dangerfield, Phil’s Bad Wank Story
+- 2019-06-06 — Episode 15 - LatePod! — speakers: Phil Wang, Pierre Novellie
+- 2019-05-29 — Episode 14 - BudPolitics! — speakers: Phil Wang, Pierre Novellie
+- 2019-05-22 — Episode 13 - Unlucky 13! — speakers: Phil Wang, Pierre Novellie
+- 2019-05-15 — Episode 12 - Correspondent's Dinner! — speakers: Phil Wang, Pierre Novellie
+- 2019-05-08 — Episode 11 - Welsh Common Bit — speakers: Pierre Novellie, Phil Wang
 - 2019-05-01 — Episode 10 - You Damn Dancing Ape! — speakers: Phil Wang, Pierre Novellie
-- 2019-04-24 — Episode 9 - BudPoo — speakers: Phil Wang, Pierre Novellie
+- 2019-04-24 — Episode 9 - BudPoo — speakers: Extinction Rebellion, Sydney Opera Hou, Phil Wang, Pierre Novellie
 - 2019-04-17 — Episode 8 - International Foot Flaps — speakers: Pierre Novellie, Phil Wang
 - 2019-04-10 — Episode 7 - International Buds! — speakers: Phil Wang, Pierre Novellie
-- 2019-04-03 — Episode 6 - Emails! — speakers: Jim Jimmy Bulbins, Phil Wang, Pierre Novellie
+- 2019-04-03 — Episode 6 - Emails! — speakers: Jim Jimmy Bulb, Phil Wang, Pierre Novellie
 - 2019-03-27 — Episode 5 - Numbers! And a late Valentine's — speakers: Phil Wang, Pierre Novellie, Kardashian Kults
 - 2019-03-20 — Episode 4 - Gina Martin guest special! — speakers: Gina Martin, Phil Wang, Pierre Novellie
-- 2019-03-13 — Episode 3 - Obseeeesssed! — speakers: Phil Wang, Pierre Novellie, Mel Gibson, fluid gush, Lammy vs, Stacey Dooley
-- 2019-03-06 — Episode 2 - Most Authoritarian, Most Libertarian — speakers: Most Authoritarian, Phil Wang, Pierre Novellie, Legal Blackmail, Sugar Eagle, Idiot Registration, Marjorie Returns
-- 2019-02-25 — Episode 1 - The Most Uncool Cool Thing — speakers: Phil Wang, Pierre Novellie, Trigger Warnings
+- 2019-03-13 — Episode 3 - Obseeeesssed! — speakers: Phil Wang, Pierre Novellie
+- 2019-03-06 — Episode 2 - Most Authoritarian, Most Libertarian — speakers: Most Authoritarian, Phil Wang, Pierre Novellie, Least Auth
+- 2019-02-25 — Episode 1 - The Most Uncool Cool Thing — speakers: Phil Wang, Pierre Novellie

@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-02-24T03:14:34+00:00`
-- checked_at: `2026-02-24T03:14:34+00:00`
-- etag: `W/"37438-h9daGYr6FI/ZP1EQmKZcXxdW+jo"`
+- fetched_at: `2026-02-24T10:08:52+00:00`
+- checked_at: `2026-02-24T10:08:52+00:00`
+- etag: `W/"36d04-km/+cQCu3hmOHC1eAxRrX6tnEZ8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-02-24T03:14:34+00:00",
+  "fetched_at": "2026-02-24T10:08:52+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -28,36 +28,15 @@
   ],
   "episodes": [
     {
-      "key": "a7d4ffe05db9343f5b301545d317e0f16567daac",
-      "title": "How Will Xbox Be Remembered? | Windbreaker Podcast",
-      "published_at": "2026-02-24T00:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/How-Will-Xbox-Be-Remembered---Windbreaker-Podcast-e3fgn8e",
-      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty take a look back at the 25 years of Xbox, and how its games, consoles, and legacy will be remembered. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-      "enclosure_url": "https://traffic.megaphone.fm/APO8975569134.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "81133400",
-      "itunes_duration": "01:24:30",
-      "speakers": [
-        "Yahtzee Croshaw",
-        "Marty Sliva"
-      ],
-      "topics": [
-        "xbox",
-        "windbreaker",
-        "podcast"
-      ]
-    },
-    {
       "key": "72a38c1a9579f72dd7c04cd59294f06c6f54d0b2",
       "title": "Our Favorite Video Game Couple Is Better Than Your Favorite Video Game Couple | Windbreaker Podcast",
       "published_at": "2026-02-17T01:00:01+00:00",
       "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Our-Favorite-Video-Game-Couple-Is-Better-Than-Your-Favorite-Video-Game-Couple--Windbreaker-Podcast-e3f6e1r",
       "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty celebrate Valentine's Day by talking about their favorite couples in gaming, what makes a good video game relationship, and why so many stumble. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-      "enclosure_url": "https://traffic.megaphone.fm/APO1685622908.mp3",
+      "enclosure_url": "https://anchor.fm/s/fe088118/podcast/play/115602939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-16%2F7b3e5fd2-e4aa-78bd-00ac-3a80d59ff0a1.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "95360731",
+      "enclosure_length": "143041568",
       "itunes_duration": "01:39:20",
       "speakers": [
         "Yahtzee Croshaw",
@@ -2598,7 +2577,6 @@
 
 ## Episodes (newest first)
 
-- 2026-02-24 — How Will Xbox Be Remembered? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-17 — Our Favorite Video Game Couple Is Better Than Your Favorite Video Game Couple | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-10 — The Wide, Weird, and Wild World of Mods | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-03 — How to (Not) Do Climbing in Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

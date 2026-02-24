@@ -2,10 +2,10 @@
 
 - slug: `skewer`
 - source: `https://podcasts.files.bbci.co.uk/m000czyb.rss`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `"95491a084ded4010fd6380ea167ff6ce"`
-- last_modified: `Tue, 17 Feb 2026 09:46:03 GMT`
+- fetched_at: `2026-02-24T10:08:52+00:00`
+- checked_at: `2026-02-24T10:08:52+00:00`
+- etag: `"41965582a4ae7f0e9ad11fc226b8c43e"`
+- last_modified: `Tue, 24 Feb 2026 09:46:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m000czyb",
   "description": "A twisted comedy treat. Jon Holmes brings you the week's biggest stories like you've never heard them before. The news remixed. Welcome to The Skewer. Headphones on. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS New York Festival 2020 Audio Production Awards 2020 British Podcast Awards 2020 Audio Production Awards 2019 (Sound Design) Audio Production Awards 2020 An Unusual production for BBC Radio 4",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-02-24T10:08:52+00:00",
   "owners": [
     "Jon Holmes"
   ],
@@ -44,7 +44,6 @@
         "Charming Mandelson",
         "Peter Mandelson",
         "Sleeping Beauty",
-        "Gold Comedy",
         "Jon Holmes"
       ],
       "topics": [
@@ -64,7 +63,6 @@
       "enclosure_length": "14160000",
       "itunes_duration": "885",
       "speakers": [
-        "Andy Burnham",
         "Jon Holmes"
       ],
       "topics": [
@@ -105,7 +103,6 @@
       "enclosure_length": "14240000",
       "itunes_duration": "890",
       "speakers": [
-        "Martin Roberts",
         "Jon Holmes"
       ],
       "topics": [
@@ -159,8 +156,7 @@
       "enclosure_length": "14000000",
       "itunes_duration": "875",
       "speakers": [
-        "Jon Holmes",
-        "David Lammy"
+        "Jon Holmes"
       ],
       "topics": [
         "populabour"
@@ -241,6 +237,7 @@
       "enclosure_length": "14320000",
       "itunes_duration": "895",
       "speakers": [
+        "Jon Holmes re",
         "Jon Holmes"
       ],
       "topics": [
@@ -264,8 +261,7 @@
       "enclosure_length": "14224000",
       "itunes_duration": "889",
       "speakers": [
-        "Jon Holmes",
-        "Donald Caesar"
+        "Jon Holmes"
       ],
       "topics": [
         "starmer",
@@ -351,9 +347,7 @@
       "enclosure_length": "14256000",
       "itunes_duration": "891",
       "speakers": [
-        "Jon Holmes",
-        "Charlie Xcx",
-        "Minecraft Movie"
+        "Jon Holmes"
       ],
       "topics": [
         "steel",
@@ -388,9 +382,7 @@
       "enclosure_length": "14416000",
       "itunes_duration": "901",
       "speakers": [
-        "Jon Holmes",
-        "Magic Dragon",
-        "Wesley Streeting"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -422,8 +414,7 @@
       "enclosure_length": "14160000",
       "itunes_duration": "885",
       "speakers": [
-        "Jon Holmes",
-        "Sue Gray"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -439,7 +430,6 @@
       "enclosure_length": "14256000",
       "itunes_duration": "891",
       "speakers": [
-        "Whole Lotta Rosie",
         "Jon Holmes"
       ],
       "topics": []
@@ -472,7 +462,6 @@
       "enclosure_length": "14176000",
       "itunes_duration": "886",
       "speakers": [
-        "Come Bullying",
         "Jon Holmes"
       ],
       "topics": []
@@ -505,6 +494,7 @@
       "enclosure_length": "27744000",
       "itunes_duration": "1734",
       "speakers": [
+        "Election Fresh",
         "Jon Holmes"
       ],
       "topics": [
@@ -540,7 +530,6 @@
       "enclosure_length": "14240000",
       "itunes_duration": "890",
       "speakers": [
-        "Peppa Pig Goes",
         "Jon Holmes"
       ],
       "topics": []
@@ -557,7 +546,6 @@
       "enclosure_length": "14240000",
       "itunes_duration": "890",
       "speakers": [
-        "Foghorn Rishi-horn",
         "Jon Holmes"
       ],
       "topics": []
@@ -590,8 +578,7 @@
       "enclosure_length": "14368000",
       "itunes_duration": "898",
       "speakers": [
-        "Jon Holmes",
-        "Rishi Sunak Speaks"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -607,8 +594,6 @@
       "enclosure_length": "14480000",
       "itunes_duration": "905",
       "speakers": [
-        "Lee Anderson",
-        "Lindsay Hoyle",
         "Jon Holmes"
       ],
       "topics": []
@@ -625,8 +610,7 @@
       "enclosure_length": "14064000",
       "itunes_duration": "879",
       "speakers": [
-        "Jon Holmes",
-        "Prince Harry"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -642,8 +626,7 @@
       "enclosure_length": "14272000",
       "itunes_duration": "892",
       "speakers": [
-        "Jon Holmes",
-        "Steve Wright"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -675,9 +658,7 @@
       "enclosure_length": "14352000",
       "itunes_duration": "897",
       "speakers": [
-        "Jon Holmes",
-        "Napoleon Braverman",
-        "Jeremy Hunt"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -693,10 +674,7 @@
       "enclosure_length": "14240000",
       "itunes_duration": "890",
       "speakers": [
-        "Jon Holmes",
-        "Homer Simpson",
-        "Kier Starmer",
-        "Carol Vorderman"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -712,14 +690,7 @@
       "enclosure_length": "14304000",
       "itunes_duration": "894",
       "speakers": [
-        "Jon Holmes",
-        "Matt Hancock",
-        "Ray Mears",
-        "Jon Holmes Katie Sayer",
-        "Riffkin Cooper",
-        "Mawhinny Sweryt Dave Wol",
-        "Tony Churnside",
-        "Martin Helen Brooks Alice"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -751,8 +722,7 @@
       "enclosure_length": "14512000",
       "itunes_duration": "907",
       "speakers": [
-        "Jon Holmes",
-        "Umble Starmer"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -768,8 +738,7 @@
       "enclosure_length": "14256000",
       "itunes_duration": "891",
       "speakers": [
-        "Jon Holmes",
-        "Corbyn Neutral"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -801,8 +770,7 @@
       "enclosure_length": "14208000",
       "itunes_duration": "888",
       "speakers": [
-        "Jon Holmes",
-        "Fawlty Migrants"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -818,8 +786,7 @@
       "enclosure_length": "14208000",
       "itunes_duration": "888",
       "speakers": [
-        "Jon Holmes",
-        "Jordan Henderson"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -835,8 +802,7 @@
       "enclosure_length": "14080000",
       "itunes_duration": "880",
       "speakers": [
-        "Jon Holmes",
-        "Ed Davey"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -868,10 +834,7 @@
       "enclosure_length": "14240000",
       "itunes_duration": "890",
       "speakers": [
-        "Jon Holmes",
-        "George Osbourne",
-        "Ray Me Kier",
-        "Taliban Barbie"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -887,9 +850,7 @@
       "enclosure_length": "14432000",
       "itunes_duration": "902",
       "speakers": [
-        "Jon Holmes",
-        "Jacob Rees Mogwai",
-        "My Sweet Kgb Lord"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -937,8 +898,7 @@
       "enclosure_length": "14480000",
       "itunes_duration": "905",
       "speakers": [
-        "Jon Holmes",
-        "Wish Starmer"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -970,8 +930,7 @@
       "enclosure_length": "14512000",
       "itunes_duration": "907",
       "speakers": [
-        "Jon Holmes",
-        "Johnny Ball"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1019,8 +978,7 @@
       "enclosure_length": "14592000",
       "itunes_duration": "912",
       "speakers": [
-        "Jon Holmes",
-        "Andrew Tate Modern"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1036,8 +994,7 @@
       "enclosure_length": "14544000",
       "itunes_duration": "909",
       "speakers": [
-        "Jon Holmes",
-        "Mr Cellophane"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1053,10 +1010,7 @@
       "enclosure_length": "14448000",
       "itunes_duration": "903",
       "speakers": [
-        "Jon Holmes",
-        "Dominic Raab",
-        "Gripper Stebson",
-        "Grange Hill"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1107,8 +1061,7 @@
       "enclosure_length": "14880000",
       "itunes_duration": "930",
       "speakers": [
-        "Jon Holmes",
-        "Jeremy Swearword"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1140,8 +1093,7 @@
       "enclosure_length": "14032000",
       "itunes_duration": "877",
       "speakers": [
-        "Jon Holmes",
-        "Peaky Tories"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1157,8 +1109,7 @@
       "enclosure_length": "14016000",
       "itunes_duration": "876",
       "speakers": [
-        "Jon Holmes",
-        "Dirty Chess"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1225,8 +1176,7 @@
       "enclosure_length": "14640000",
       "itunes_duration": "915",
       "speakers": [
-        "Jon Holmes",
-        "Rebekah Vardy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1242,8 +1192,7 @@
       "enclosure_length": "14544000",
       "itunes_duration": "909",
       "speakers": [
-        "Jon Holmes",
-        "Ambient Spaghetti"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1275,9 +1224,7 @@
       "enclosure_length": "14224000",
       "itunes_duration": "889",
       "speakers": [
-        "Jon Holmes",
-        "Tom Cruise",
-        "Alan Titchmarsh"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1326,10 +1273,7 @@
       "enclosure_length": "15040000",
       "itunes_duration": "940",
       "speakers": [
-        "Jon Holmes",
-        "Qatar Builder",
-        "Westminster Side Story",
-        "Rishi Sunak"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1441,8 +1385,7 @@
       "enclosure_length": "14080000",
       "itunes_duration": "880",
       "speakers": [
-        "Jon Holmes",
-        "Francis Bacon"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1458,8 +1401,7 @@
       "enclosure_length": "14384000",
       "itunes_duration": "899",
       "speakers": [
-        "Jon Holmes",
-        "Best Comedy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1475,8 +1417,7 @@
       "enclosure_length": "14256000",
       "itunes_duration": "891",
       "speakers": [
-        "Jon Holmes",
-        "Best Comedy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1492,8 +1433,7 @@
       "enclosure_length": "14560000",
       "itunes_duration": "910",
       "speakers": [
-        "Jon Holmes",
-        "Best Comedy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1509,9 +1449,7 @@
       "enclosure_length": "14320000",
       "itunes_duration": "895",
       "speakers": [
-        "Jon Holmes",
-        "Fatal Matt-action",
-        "Best Comedy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1527,8 +1465,7 @@
       "enclosure_length": "14384000",
       "itunes_duration": "899",
       "speakers": [
-        "Jon Holmes",
-        "Best Comedy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1544,10 +1481,7 @@
       "enclosure_length": "14432000",
       "itunes_duration": "902",
       "speakers": [
-        "Jon Holmes",
-        "Alan Partridge",
-        "Matt Hancock",
-        "Best Comedy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1563,8 +1497,7 @@
       "enclosure_length": "14192000",
       "itunes_duration": "887",
       "speakers": [
-        "Jon Holmes",
-        "Best Comedy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1580,10 +1513,7 @@
       "enclosure_length": "14400000",
       "itunes_duration": "900",
       "speakers": [
-        "Jon Holmes",
-        "Martin Bashir",
-        "Prince Andrew",
-        "Best Comedy"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1631,8 +1561,7 @@
       "enclosure_length": "14608000",
       "itunes_duration": "913",
       "speakers": [
-        "Jon Holmes",
-        "Amol Rajan"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1648,8 +1577,7 @@
       "enclosure_length": "14176000",
       "itunes_duration": "886",
       "speakers": [
-        "Jon Holmes",
-        "Matt Hancock"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1665,26 +1593,7 @@
       "enclosure_length": "14144000",
       "itunes_duration": "884",
       "speakers": [
-        "Jon Holmes",
-        "James Corden",
-        "Prince Harry"
-      ],
-      "topics": []
-    },
-    {
-      "key": "4407a5583213faab988f9dc81c5f2fc9d1f2e9ae",
-      "title": "Episode 7",
-      "published_at": "2021-02-25T09:46:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000sh9p",
-      "description": "The week’s biggest stories like you’ve never heard them before. The news, remixed as a twisted comedy treat. Jon Holmes presents the multi-award winning The Skewer. Headphones on. This week: Perseverance examines Boris's roadmap, Gordon Ramsey swears at Rishi Sunak, and Bagpuss is dead (Spoiler). The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS New York Festival 2020 Audio Production Awards 2020 British Podcast Awards 2020 Audio Production Awards 2019 (Sound Design) Audio Production Awards 2020 Finalist (winners yet to be announced) BBC Audio and Drama Awards 2020 BBC Radio and Music Awards 2020 Producer: Jon Holmes An Unusual production for BBC Radio 4",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09806y8.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14816000",
-      "itunes_duration": "926",
-      "speakers": [
-        "Jon Holmes",
-        "Gordon Ramsey"
+        "Jon Holmes"
       ],
       "topics": []
     },
@@ -1780,8 +1689,7 @@
       "enclosure_length": "26928000",
       "itunes_duration": "1683",
       "speakers": [
-        "Jon Holmes",
-        "Creator Jon Holmes"
+        "Jon Holmes"
       ],
       "topics": []
     }
@@ -1792,103 +1700,102 @@
 
 ## Episodes (newest first)
 
-- 2026-02-04 — 5. This Charming Mandelson — speakers: Charming Mandelson, Peter Mandelson, Sleeping Beauty, Gold Comedy, Jon Holmes
-- 2026-01-28 — 4. The Jaws of Andy Burnham — speakers: Andy Burnham, Jon Holmes
+- 2026-02-04 — 5. This Charming Mandelson — speakers: Charming Mandelson, Peter Mandelson, Sleeping Beauty, Jon Holmes
+- 2026-01-28 — 4. The Jaws of Andy Burnham — speakers: Jon Holmes
 - 2026-01-21 — 3. Greenland, Traitors, and Trump — speakers: Jon Holmes
-- 2026-01-14 — 2. ICE, ICE, baby — speakers: Martin Roberts, Jon Holmes
+- 2026-01-14 — 2. ICE, ICE, baby — speakers: Jon Holmes
 - 2026-01-07 — 1. There are Stranger Things... — speakers: Jon Holmes
 - 2025-10-08 — Ep 5 - It's Actually Romantic — speakers: Jon Holmes
-- 2025-10-01 — Ep 4 - How to Be PopuLABOUR. — speakers: Jon Holmes, David Lammy
+- 2025-10-01 — Ep 4 - How to Be PopuLABOUR. — speakers: Jon Holmes
 - 2025-09-24 — Ep 3 - Supercalifragilisticexpibraggadocious — speakers: Jon Holmes
 - 2025-09-17 — Ep 2 - Back, Sack and Crack, and An American Idiot Abroad — speakers: Jon Holmes
 - 2025-09-10 — Ep 1 - Jet 2 Migrant Holidays, The Magic Patriotic Roundabout, and a Putin Loop — speakers: Putin Loop, Jon Holmes
-- 2025-05-21 — Liability Lineker and The Eurovision Fishing Rights Contest. — speakers: Jon Holmes
-- 2025-05-14 — Starmer Turns Right, and a Mission from God. — speakers: Jon Holmes, Donald Caesar
+- 2025-05-21 — Liability Lineker and The Eurovision Fishing Rights Contest. — speakers: Jon Holmes re, Jon Holmes
+- 2025-05-14 — Starmer Turns Right, and a Mission from God. — speakers: Jon Holmes
 - 2025-05-07 — Alca-Trump Prison, Reform the Children, and Nosfaragetu — speakers: Alca-Trump Prison, Jon Holmes
 - 2025-04-30 — Elections, 100 Days of Trump, and Trans Labyrinth — speakers: Jon Holmes
 - 2025-04-23 — Gender, Easter, and The Dead Pope's Society. — speakers: Jon Holmes
-- 2025-04-17 — Man of Steel and Art of the Deal — speakers: Jon Holmes, Charlie Xcx, Minecraft Movie
+- 2025-04-17 — Man of Steel and Art of the Deal — speakers: Jon Holmes
 - 2024-10-30 — Episode 8 — speakers: Jon Holmes
-- 2024-10-23 — Episode 7 — speakers: Jon Holmes, Magic Dragon, Wesley Streeting
+- 2024-10-23 — Episode 7 — speakers: Jon Holmes
 - 2024-10-16 — Episode 6 — speakers: Jon Holmes
-- 2024-10-09 — Episode 5 — speakers: Jon Holmes, Sue Gray
-- 2024-10-02 — Episode 4 — speakers: Whole Lotta Rosie, Jon Holmes
+- 2024-10-09 — Episode 5 — speakers: Jon Holmes
+- 2024-10-02 — Episode 4 — speakers: Jon Holmes
 - 2024-09-25 — Episode 3 — speakers: Jon Holmes
-- 2024-09-18 — Episode 2 — speakers: Come Bullying, Jon Holmes
+- 2024-09-18 — Episode 2 — speakers: Jon Holmes
 - 2024-09-11 — Episode 1 — speakers: Jon Holmes
-- 2024-07-11 — The Skewer: The 2024 Election — speakers: Jon Holmes
+- 2024-07-11 — The Skewer: The 2024 Election — speakers: Election Fresh, Jon Holmes
 - 2024-04-03 — Episode 8 — speakers: Jon Holmes
-- 2024-03-27 — Episode 7 — speakers: Peppa Pig Goes, Jon Holmes
-- 2024-03-20 — Episode 6 — speakers: Foghorn Rishi-horn, Jon Holmes
+- 2024-03-27 — Episode 7 — speakers: Jon Holmes
+- 2024-03-20 — Episode 6 — speakers: Jon Holmes
 - 2024-03-14 — Episode 5 — speakers: Jon Holmes
-- 2024-03-06 — Episode 4 — speakers: Jon Holmes, Rishi Sunak Speaks
-- 2024-02-28 — Episode 3 — speakers: Lee Anderson, Lindsay Hoyle, Jon Holmes
-- 2024-02-21 — Episode 2 — speakers: Jon Holmes, Prince Harry
-- 2024-02-14 — Episode 1 — speakers: Jon Holmes, Steve Wright
+- 2024-03-06 — Episode 4 — speakers: Jon Holmes
+- 2024-02-28 — Episode 3 — speakers: Jon Holmes
+- 2024-02-21 — Episode 2 — speakers: Jon Holmes
+- 2024-02-14 — Episode 1 — speakers: Jon Holmes
 - 2023-11-30 — Episode 8 — speakers: Jon Holmes
-- 2023-11-22 — Episode 7 — speakers: Jon Holmes, Napoleon Braverman, Jeremy Hunt
-- 2023-11-16 — Episode 6 — speakers: Jon Holmes, Homer Simpson, Kier Starmer, Carol Vorderman
-- 2023-11-09 — Episode 5 — speakers: Jon Holmes, Matt Hancock, Ray Mears, Jon Holmes Katie Sayer, Riffkin Cooper, Mawhinny Sweryt Dave Wol, Tony Churnside, Martin Helen Brooks Alice
+- 2023-11-22 — Episode 7 — speakers: Jon Holmes
+- 2023-11-16 — Episode 6 — speakers: Jon Holmes
+- 2023-11-09 — Episode 5 — speakers: Jon Holmes
 - 2023-11-02 — Episode 4 — speakers: Jon Holmes
-- 2023-10-26 — Episode 3 — speakers: Jon Holmes, Umble Starmer
-- 2023-10-19 — Episode 2 — speakers: Jon Holmes, Corbyn Neutral
+- 2023-10-26 — Episode 3 — speakers: Jon Holmes
+- 2023-10-19 — Episode 2 — speakers: Jon Holmes
 - 2023-10-12 — Episode 1 — speakers: Jon Holmes
-- 2023-08-10 — Episode 8 — speakers: Jon Holmes, Fawlty Migrants
-- 2023-08-03 — Episode 7 — speakers: Jon Holmes, Jordan Henderson
-- 2023-07-27 — Episode 6 — speakers: Jon Holmes, Ed Davey
+- 2023-08-10 — Episode 8 — speakers: Jon Holmes
+- 2023-08-03 — Episode 7 — speakers: Jon Holmes
+- 2023-07-27 — Episode 6 — speakers: Jon Holmes
 - 2023-07-20 — Episode 5 — speakers: Jon Holmes
-- 2023-07-13 — Episode 4 — speakers: Jon Holmes, George Osbourne, Ray Me Kier, Taliban Barbie
-- 2023-07-06 — Episode 3 — speakers: Jon Holmes, Jacob Rees Mogwai, My Sweet Kgb Lord
+- 2023-07-13 — Episode 4 — speakers: Jon Holmes
+- 2023-07-06 — Episode 3 — speakers: Jon Holmes
 - 2023-06-29 — Episode 2 — speakers: Jon Holmes
 - 2023-06-22 — Episode 1 — speakers: Jon Holmes
-- 2023-03-30 — Episode 8 — speakers: Jon Holmes, Wish Starmer
+- 2023-03-30 — Episode 8 — speakers: Jon Holmes
 - 2023-03-23 — Episode 7 — speakers: Jon Holmes
-- 2023-03-16 — Episode 6 — speakers: Jon Holmes, Johnny Ball
+- 2023-03-16 — Episode 6 — speakers: Jon Holmes
 - 2023-03-09 — Episode 5 — speakers: Jon Holmes
 - 2023-03-02 — Episode 4 — speakers: Jon Holmes
-- 2023-02-23 — Episode 3 — speakers: Jon Holmes, Andrew Tate Modern
-- 2023-02-16 — Episode 2 — speakers: Jon Holmes, Mr Cellophane
-- 2023-02-09 — Episode 1 — speakers: Jon Holmes, Dominic Raab, Gripper Stebson, Grange Hill
+- 2023-02-23 — Episode 3 — speakers: Jon Holmes
+- 2023-02-16 — Episode 2 — speakers: Jon Holmes
+- 2023-02-09 — Episode 1 — speakers: Jon Holmes
 - 2022-11-03 — The Skewer: 100 Years of the BBC — speakers: Jon Holmes
 - 2022-10-27 — Episode 7 — speakers: Jon Holmes
-- 2022-10-20 — Episode 6 — speakers: Jon Holmes, Jeremy Swearword
+- 2022-10-20 — Episode 6 — speakers: Jon Holmes
 - 2022-10-13 — Episode 5 — speakers: Jon Holmes
-- 2022-10-06 — Episode 4 — speakers: Jon Holmes, Peaky Tories
-- 2022-09-29 — Episode 3 — speakers: Jon Holmes, Dirty Chess
+- 2022-10-06 — Episode 4 — speakers: Jon Holmes
+- 2022-09-29 — Episode 3 — speakers: Jon Holmes
 - 2022-09-22 — The Skewer: The Queen — speakers: Jon Holmes
 - 2022-09-08 — Episode 1 — speakers: Jon Holmes
 - 2022-05-26 — Episode 8 — speakers: Jon Holmes
-- 2022-05-19 — Episode 7 — speakers: Jon Holmes, Rebekah Vardy
-- 2022-05-12 — Episode 6 — speakers: Jon Holmes, Ambient Spaghetti
+- 2022-05-19 — Episode 7 — speakers: Jon Holmes
+- 2022-05-12 — Episode 6 — speakers: Jon Holmes
 - 2022-05-05 — Episode 5 — speakers: Jon Holmes
-- 2022-04-28 — Episode 4 — speakers: Jon Holmes, Tom Cruise, Alan Titchmarsh
+- 2022-04-28 — Episode 4 — speakers: Jon Holmes
 - 2022-04-21 — Episode 3 — speakers: Jon Holmes, Uncle Vernon
 - 2022-04-14 — Episode 2 — speakers: Jon Holmes
-- 2022-04-07 — Episode 1 — speakers: Jon Holmes, Qatar Builder, Westminster Side Story, Rishi Sunak
+- 2022-04-07 — Episode 1 — speakers: Jon Holmes
 - 2021-12-16 — Episode 7 — speakers: Jon Holmes
 - 2021-12-09 — Episode 6 — speakers: Jon Holmes
 - 2021-12-02 — Episode 5 — speakers: Jon Holmes
 - 2021-11-25 — Episode 4 — speakers: Jon Holmes
 - 2021-11-18 — Episode 3 — speakers: Jon Holmes
 - 2021-11-11 — Episode 2 — speakers: Jon Holmes
-- 2021-11-04 — Episode 1 — speakers: Jon Holmes, Francis Bacon
-- 2021-07-22 — Episode 8 — speakers: Jon Holmes, Best Comedy
-- 2021-07-15 — Episode 7 — speakers: Jon Holmes, Best Comedy
-- 2021-07-08 — Episode 6 — speakers: Jon Holmes, Best Comedy
-- 2021-07-01 — Episode 5 — speakers: Jon Holmes, Fatal Matt-action, Best Comedy
-- 2021-06-24 — Episode 4 — speakers: Jon Holmes, Best Comedy
-- 2021-06-17 — Episode 3 — speakers: Jon Holmes, Alan Partridge, Matt Hancock, Best Comedy
-- 2021-06-10 — Episode 2 — speakers: Jon Holmes, Best Comedy
-- 2021-06-03 — Episode 1 — speakers: Jon Holmes, Martin Bashir, Prince Andrew, Best Comedy
+- 2021-11-04 — Episode 1 — speakers: Jon Holmes
+- 2021-07-22 — Episode 8 — speakers: Jon Holmes
+- 2021-07-15 — Episode 7 — speakers: Jon Holmes
+- 2021-07-08 — Episode 6 — speakers: Jon Holmes
+- 2021-07-01 — Episode 5 — speakers: Jon Holmes
+- 2021-06-24 — Episode 4 — speakers: Jon Holmes
+- 2021-06-17 — Episode 3 — speakers: Jon Holmes
+- 2021-06-10 — Episode 2 — speakers: Jon Holmes
+- 2021-06-03 — Episode 1 — speakers: Jon Holmes
 - 2021-04-01 — Episode 12 — speakers: Jon Holmes
 - 2021-03-25 — Episode 11 — speakers: Jon Holmes
-- 2021-03-17 — Episode 10 — speakers: Jon Holmes, Amol Rajan
-- 2021-03-11 — Episode 9 — speakers: Jon Holmes, Matt Hancock
-- 2021-03-04 — Episode 8 — speakers: Jon Holmes, James Corden, Prince Harry
-- 2021-02-25 — Episode 7 — speakers: Jon Holmes, Gordon Ramsey
+- 2021-03-17 — Episode 10 — speakers: Jon Holmes
+- 2021-03-11 — Episode 9 — speakers: Jon Holmes
+- 2021-03-04 — Episode 8 — speakers: Jon Holmes
 - 2020-10-23 — Episode 6 — speakers: Jon Holmes
 - 2020-10-16 — Episode 5 — speakers: Jon Holmes
 - 2020-10-09 — Episode 4 — speakers: Jon Holmes
 - 2020-10-02 — Episode 3 — speakers: Jon Holmes
 - 2020-09-25 — Episode 2 — speakers: Jon Holmes
-- 2020-09-18 — Episode 1 — speakers: Jon Holmes, Creator Jon Holmes
+- 2020-09-18 — Episode 1 — speakers: Jon Holmes
