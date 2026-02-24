@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-02-23T03:19:38+00:00`
-- checked_at: `2026-02-23T03:19:38+00:00`
-- last_modified: `Mon, 23 Feb 2026 01:07:37 GMT`
+- fetched_at: `2026-02-24T21:51:13+00:00`
+- checked_at: `2026-02-24T21:51:13+00:00`
+- last_modified: `Tue, 24 Feb 2026 21:49:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T03:19:38+00:00",
+  "fetched_at": "2026-02-24T21:51:13+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -75,8 +75,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2349",
       "speakers": [
-        "Frank Skinner",
-        "Jubilee Flotilla"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -117,7 +116,6 @@
       "itunes_duration": "2349",
       "speakers": [
         "Johnny White Really-Really",
-        "Michael McIntyre",
         "Frank Skinner"
       ],
       "topics": [
@@ -137,8 +135,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2300",
       "speakers": [
-        "Frank Skinner",
-        "Miles Jupp"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -772,9 +769,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2375",
       "speakers": [
-        "Sam Ryder",
-        "Chuck Berry",
-        "Tim Key",
         "Frank Skinner"
       ],
       "topics": [
@@ -812,8 +806,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2306",
       "speakers": [
-        "Frank Skinner",
-        "Ed Byrne"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -992,8 +985,7 @@
       "itunes_duration": "2370",
       "speakers": [
         "Frank Skinner",
-        "Ringo Starr",
-        "Frank’s Comic Relief"
+        "Ringo Starr"
       ],
       "topics": [
         "frank",
@@ -1345,8 +1337,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2201",
       "speakers": [
-        "Frank Skinner",
-        "Chris Ramsey"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -1464,8 +1455,7 @@
       "itunes_duration": "2200",
       "speakers": [
         "Frank Skinner",
-        "Abby Road",
-        "Sarah Millican"
+        "Abby Road"
       ],
       "topics": [
         "frank",
@@ -1524,8 +1514,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2168",
       "speakers": [
-        "Frank Skinner",
-        "Alex Horne"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -1567,8 +1556,7 @@
       "itunes_duration": "2327",
       "speakers": [
         "Frank Skinner",
-        "Sky Lantern",
-        "Tim Key"
+        "Sky Lantern"
       ],
       "topics": [
         "frank",
@@ -1741,8 +1729,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2375",
       "speakers": [
-        "Frank Skinner",
-        "Micky Flanagan"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -1825,8 +1812,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2334",
       "speakers": [
-        "Frank Skinner",
-        "Ed Byrne"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -1848,7 +1834,6 @@
       "itunes_duration": "2368",
       "speakers": [
         "Steve Hall",
-        "Download Saily",
         "Frank Skinner"
       ],
       "topics": [
@@ -1979,7 +1964,6 @@
       "itunes_duration": "2430",
       "speakers": [
         "Jelly Frank",
-        "Outside World",
         "Frank Skinner"
       ],
       "topics": [
@@ -1998,8 +1982,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2256",
       "speakers": [
-        "Frank Skinner",
-        "Ross Noble"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -2103,8 +2086,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2206",
       "speakers": [
-        "Frank Skinner",
-        "Lee Mack"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -2162,9 +2144,7 @@
       "itunes_duration": "2276",
       "speakers": [
         "Frank Skinner",
-        "Frank Skinner’s Radio Days",
-        "Emily Dean",
-        "Gareth Richards"
+        "Frank Skinner’s Radio Days"
       ],
       "topics": [
         "frank",
@@ -2185,7 +2165,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2452",
       "speakers": [
-        "Molly Malone",
         "Frank Skinner"
       ],
       "topics": [
@@ -2342,10 +2321,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2312",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Gareth Richards",
-        "Alan Sugar"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -2366,7 +2342,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2545",
       "speakers": [
-        "Paul McCartney",
         "Frank Skinner"
       ],
       "topics": [
@@ -2404,7 +2379,6 @@
       "itunes_duration": "2379",
       "speakers": [
         "Hungry Frank",
-        "Dr Who Finale",
         "Frank Skinner"
       ],
       "topics": [
@@ -2441,7 +2415,6 @@
       "itunes_duration": "2469",
       "speakers": [
         "Sky Writing",
-        "Daunt Book",
         "Frank Skinner"
       ],
       "topics": [
@@ -2479,7 +2452,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2413",
       "speakers": [
-        "Top Cat",
         "Frank Skinner"
       ],
       "topics": [
@@ -2816,7 +2788,6 @@
       "itunes_duration": "2781",
       "speakers": [
         "Josh Widdicombe",
-        "Michael McIntyre",
         "Frank Skinner"
       ],
       "topics": [
@@ -3211,7 +3182,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2362",
       "speakers": [
-        "Arnold Schwarzenegger",
         "Frank Skinner"
       ],
       "topics": [
@@ -3231,7 +3201,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2663",
       "speakers": [
-        "David Baddiel",
         "Frank Skinner"
       ],
       "topics": [
@@ -3296,6 +3265,7 @@
       "itunes_duration": "2630",
       "speakers": [
         "Pasty Frank",
+        "Frank al",
         "Frank Skinner"
       ],
       "topics": [
@@ -3315,6 +3285,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2327",
       "speakers": [
+        "Two Per Cent Frank",
         "Frank Skinner"
       ],
       "topics": [
@@ -3524,7 +3495,6 @@
       "speakers": [
         "Frank Skinner's Poetry",
         "Ruth Padel",
-        "Elizabeth Spinet",
         "Frank Skinner"
       ],
       "topics": [
@@ -3587,7 +3557,6 @@
         "Frank Skinner's Poetry",
         "Frank O'Hara Frank",
         "Frank O'Hara",
-        "Frank O’Hara",
         "Frank Skinner"
       ],
       "topics": [
@@ -3628,7 +3597,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2371",
       "speakers": [
-        "Gabby Logan",
         "Frank Skinner"
       ],
       "topics": [
@@ -3692,7 +3660,6 @@
       "itunes_duration": "2456",
       "speakers": [
         "Snooty Ghoul",
-        "Email Frank",
         "Frank Skinner"
       ],
       "topics": [
@@ -3795,7 +3762,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2366",
       "speakers": [
-        "Gabby Logan",
         "Frank Skinner"
       ],
       "topics": [
@@ -3833,7 +3799,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2426",
       "speakers": [
-        "Bruno Tonioli",
         "Frank Skinner"
       ],
       "topics": [
@@ -3854,7 +3819,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2450",
       "speakers": [
-        "Frank Off",
+        "True Petty Crime Today",
+        "True Crime",
         "Frank Skinner"
       ],
       "topics": [
@@ -3875,7 +3841,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2308",
       "speakers": [
-        "Frank Off",
         "Frank Skinner"
       ],
       "topics": []
@@ -3892,6 +3857,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2399",
       "speakers": [
+        "Butchers Heckle Where",
         "Frank Skinner"
       ],
       "topics": [
@@ -3911,10 +3877,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2336",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie",
-        "Emily Dean",
-        "Frank Off"
+        "Frank Skinner"
       ],
       "topics": [
         "speed",
@@ -3970,8 +3933,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4177",
       "speakers": [
-        "Frank Skinner",
-        "Seagull Boy"
+        "Frank Skinner"
       ],
       "topics": [
         "apple",
@@ -4028,8 +3990,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4337",
       "speakers": [
-        "Frank Skinner",
-        "Harry Styles"
+        "Frank Skinner"
       ],
       "topics": [
         "globe"
@@ -4047,8 +4008,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4182",
       "speakers": [
-        "Frank Skinner",
-        "Bertie Topham"
+        "Frank Skinner"
       ],
       "topics": [
         "haunted",
@@ -4126,7 +4086,6 @@
       "itunes_duration": "4141",
       "speakers": [
         "Beef Art Frank Skinner",
-        "Mr Piper",
         "Frank Skinner"
       ],
       "topics": [
@@ -4164,8 +4123,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4180",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "sandwich"
@@ -4183,8 +4141,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4256",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "mattress"
@@ -4238,8 +4195,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4181",
       "speakers": [
-        "Frank Skinner",
-        "Kim Jong Un"
+        "Frank Skinner"
       ],
       "topics": [
         "flintstone",
@@ -4259,7 +4215,6 @@
       "itunes_duration": "4167",
       "speakers": [
         "Mellow Frank Frank Skinner",
-        "Andrew Lloyd Webber",
         "Frank Skinner"
       ],
       "topics": [
@@ -4279,9 +4234,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4008",
       "speakers": [
-        "Frank Skinner",
-        "Zombie Takis",
-        "Elvis Evolution"
+        "Frank Skinner"
       ],
       "topics": [
         "shabby",
@@ -4352,8 +4305,7 @@
       "itunes_duration": "4278",
       "speakers": [
         "Paddington Puma",
-        "Frank Skinner",
-        "Santa Paws"
+        "Frank Skinner"
       ],
       "topics": [
         "paddington",
@@ -4372,8 +4324,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4218",
       "speakers": [
-        "Frank Skinner",
-        "Salt Bae"
+        "Frank Skinner"
       ],
       "topics": [
         "carrots"
@@ -4391,8 +4342,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4169",
       "speakers": [
-        "Frank Skinner",
-        "Ian Broudie"
+        "Frank Skinner"
       ],
       "topics": [
         "ghost",
@@ -4412,9 +4362,7 @@
       "itunes_duration": "4266",
       "speakers": [
         "Dry Rectangle",
-        "Frank Skinner",
-        "Steve Hall",
-        "John Lewis"
+        "Frank Skinner"
       ],
       "topics": [
         "rectangle"
@@ -4433,8 +4381,7 @@
       "itunes_duration": "4049",
       "speakers": [
         "John Jig",
-        "Frank Skinner",
-        "Tufty Fluffytail"
+        "Frank Skinner"
       ],
       "topics": [
         "john"
@@ -4453,8 +4400,7 @@
       "itunes_duration": "4222",
       "speakers": [
         "Sans Boba",
-        "Frank Skinner",
-        "Tim Key"
+        "Frank Skinner"
       ],
       "topics": [
         "sans",
@@ -4493,8 +4439,7 @@
       "itunes_duration": "4330",
       "speakers": [
         "Geordie Bond",
-        "Frank Skinner",
-        "Ross Noble"
+        "Frank Skinner"
       ],
       "topics": [
         "geordie",
@@ -4552,8 +4497,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4053",
       "speakers": [
-        "Frank Skinner",
-        "Dave Berry"
+        "Frank Skinner"
       ],
       "topics": [
         "mass",
@@ -4652,8 +4596,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4097",
       "speakers": [
-        "Frank Skinner",
-        "Chloe Petts"
+        "Frank Skinner"
       ],
       "topics": [
         "space",
@@ -4710,8 +4653,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4192",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "silly",
@@ -4730,8 +4672,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4363",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -4766,8 +4707,7 @@
       "itunes_duration": "4113",
       "speakers": [
         "Husband Material",
-        "Frank Skinner",
-        "Craig David"
+        "Frank Skinner"
       ],
       "topics": [
         "husband",
@@ -4786,8 +4726,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4257",
       "speakers": [
-        "Frank Skinner",
-        "Iron Maiden"
+        "Frank Skinner"
       ],
       "topics": [
         "metal",
@@ -4806,8 +4745,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4011",
       "speakers": [
-        "Frank Skinner",
-        "Elton John"
+        "Frank Skinner"
       ],
       "topics": [
         "kennel",
@@ -4903,10 +4841,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4372",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Jak Malone",
-        "Natasha Hodgson"
+        "Frank Skinner"
       ],
       "topics": [
         "travel",
@@ -4944,8 +4879,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4207",
       "speakers": [
-        "Frank Skinner",
-        "Edgar Allen Poe"
+        "Frank Skinner"
       ],
       "topics": [
         "judge",
@@ -4964,8 +4898,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4232",
       "speakers": [
-        "Frank Skinner",
-        "Sara Barron"
+        "Frank Skinner"
       ],
       "topics": [
         "publicly",
@@ -5058,8 +4991,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3939",
       "speakers": [
-        "Frank Skinner",
-        "Frank’s Birthday"
+        "Frank Skinner"
       ],
       "topics": [
         "best"
@@ -5077,8 +5009,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4062",
       "speakers": [
-        "Frank Skinner",
-        "April Fool"
+        "Frank Skinner"
       ],
       "topics": [
         "gymlad"
@@ -5096,8 +5027,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4249",
       "speakers": [
-        "Frank Skinner",
-        "Pixie Lott"
+        "Frank Skinner"
       ],
       "topics": [
         "internet",
@@ -5116,8 +5046,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4346",
       "speakers": [
-        "Frank Skinner",
-        "Hugh Grant"
+        "Frank Skinner"
       ],
       "topics": [
         "franks"
@@ -5135,8 +5064,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4281",
       "speakers": [
-        "Frank Skinner",
-        "Comic Con"
+        "Frank Skinner"
       ],
       "topics": [
         "tutorial"
@@ -5310,8 +5238,7 @@
       "itunes_duration": "4458",
       "speakers": [
         "Frank Skinner Mbe",
-        "Frank Skinner",
-        "Metal Dad"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -5330,8 +5257,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4107",
       "speakers": [
-        "Frank Skinner",
-        "Frank’s Royal Variety"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -5363,8 +5289,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4040",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "butter",
@@ -5383,8 +5308,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4037",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "tunnock"
@@ -5402,9 +5326,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4304",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie",
-        "Tim Key"
+        "Frank Skinner"
       ],
       "topics": [
         "spiritual",
@@ -5424,12 +5346,7 @@
       "itunes_duration": "4186",
       "speakers": [
         "Cat Saliva",
-        "Frank Skinner",
-        "Pierre Novellie",
-        "David Baddiel",
-        "Terry Butcher",
-        "Comic Con",
-        "Ross Noble"
+        "Frank Skinner"
       ],
       "topics": [
         "saliva"
@@ -5448,9 +5365,6 @@
       "itunes_duration": "4275",
       "speakers": [
         "Man Bat Frank Skinner",
-        "Angela Barnes",
-        "David Baddiel",
-        "Fray Bentos",
         "Frank Skinner"
       ],
       "topics": []
@@ -5467,8 +5381,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4267",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -5485,9 +5398,7 @@
       "itunes_duration": "4135",
       "speakers": [
         "Nordic Walking",
-        "Frank Skinner",
-        "Pierre Novellie",
-        "Comic Con"
+        "Frank Skinner"
       ],
       "topics": [
         "walking"
@@ -5505,8 +5416,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4316",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "austerity",
@@ -5525,8 +5435,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4199",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "milk"
@@ -5565,8 +5474,7 @@
       "itunes_duration": "4070",
       "speakers": [
         "Frank Strictly",
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "frank"
@@ -5584,11 +5492,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4195",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie",
-        "Fantasy Football",
-        "David Baddiel",
-        "Ian Broudie"
+        "Frank Skinner"
       ],
       "topics": [
         "monster",
@@ -5607,8 +5511,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4212",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "anti"
@@ -5644,9 +5547,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4331",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie",
-        "Lewis Hamilton"
+        "Frank Skinner"
       ],
       "topics": [
         "king"
@@ -5664,8 +5565,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4209",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "rinse"
@@ -5704,8 +5604,7 @@
       "itunes_duration": "4411",
       "speakers": [
         "Mike Drop",
-        "Frank Skinner",
-        "Hunter Gatherer"
+        "Frank Skinner"
       ],
       "topics": [
         "mike",
@@ -5724,8 +5623,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4203",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -5742,8 +5640,7 @@
       "itunes_duration": "4201",
       "speakers": [
         "Shame Bread",
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "shame",
@@ -5763,8 +5660,7 @@
       "itunes_duration": "4348",
       "speakers": [
         "Moggie’s Grub",
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "moggie",
@@ -5783,8 +5679,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4230",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "green"
@@ -5842,9 +5737,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4152",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie",
-        "Katy Perry"
+        "Frank Skinner"
       ],
       "topics": [
         "bluff",
@@ -5864,8 +5757,7 @@
       "itunes_duration": "4201",
       "speakers": [
         "Cake Bin",
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "cake"
@@ -5883,8 +5775,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4179",
       "speakers": [
-        "Frank Skinner",
-        "Angela Barnes"
+        "Frank Skinner"
       ],
       "topics": [
         "scarlet",
@@ -5904,8 +5795,7 @@
       "itunes_duration": "4288",
       "speakers": [
         "Platty Joobs",
-        "Frank Skinner",
-        "Chloe Petts"
+        "Frank Skinner"
       ],
       "topics": [
         "platty",
@@ -5924,9 +5814,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4217",
       "speakers": [
-        "Frank Skinner",
-        "Sara Barron",
-        "Alice Cooper"
+        "Frank Skinner"
       ],
       "topics": [
         "shirt"
@@ -5944,9 +5832,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4145",
       "speakers": [
-        "Frank Skinner",
-        "Sara Barron",
-        "Sara’s bin"
+        "Frank Skinner"
       ],
       "topics": [
         "town"
@@ -5985,8 +5871,7 @@
       "itunes_duration": "4199",
       "speakers": [
         "Beef Chops",
-        "Frank Skinner",
-        "Chloe Petts"
+        "Frank Skinner"
       ],
       "topics": [
         "beef",
@@ -6005,8 +5890,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4162",
       "speakers": [
-        "Frank Skinner",
-        "King Noodle"
+        "Frank Skinner"
       ],
       "topics": [
         "sans",
@@ -6045,8 +5929,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4164",
       "speakers": [
-        "Frank Skinner",
-        "Al Pacino"
+        "Frank Skinner"
       ],
       "topics": [
         "bread"
@@ -6065,8 +5948,7 @@
       "itunes_duration": "3982",
       "speakers": [
         "Occasional Clooney",
-        "Frank Skinner",
-        "John Travolta"
+        "Frank Skinner"
       ],
       "topics": [
         "occasional",
@@ -6106,7 +5988,6 @@
       "itunes_duration": "4101",
       "speakers": [
         "Frankspeare Frank Skinner",
-        "Pierre Novellie",
         "Frank Skinner"
       ],
       "topics": [
@@ -6126,8 +6007,7 @@
       "itunes_duration": "4041",
       "speakers": [
         "Shark Song",
-        "Frank Skinner",
-        "Rod Stewart"
+        "Frank Skinner"
       ],
       "topics": [
         "shark",
@@ -6165,8 +6045,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4246",
       "speakers": [
-        "Frank Skinner",
-        "Robert Pattinson’s Batman"
+        "Frank Skinner"
       ],
       "topics": [
         "little"
@@ -6184,8 +6063,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4000",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "water",
@@ -6204,8 +6082,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4137",
       "speakers": [
-        "Frank Skinner",
-        "Pierre Novellie"
+        "Frank Skinner"
       ],
       "topics": [
         "saxophonist"
@@ -6223,10 +6100,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4198",
       "speakers": [
-        "Frank Skinner",
-        "Alun’s Birthday",
-        "Tim Key",
-        "Mulberry Bush"
+        "Frank Skinner"
       ],
       "topics": [
         "monkey",
@@ -6265,8 +6139,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4035",
       "speakers": [
-        "Frank Skinner",
-        "Frank’s Birthday"
+        "Frank Skinner"
       ],
       "topics": [
         "alert"
@@ -6368,8 +6241,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4151",
       "speakers": [
-        "Frank Skinner",
-        "Elton John"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -6385,9 +6257,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4144",
       "speakers": [
-        "Frank Skinner",
-        "Lil Uzi",
-        "John Lewis"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -6441,8 +6311,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3969",
       "speakers": [
-        "Frank Skinner",
-        "Gary Oldman"
+        "Frank Skinner"
       ],
       "topics": [
         "scent",
@@ -6481,8 +6350,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3989",
       "speakers": [
-        "Frank Skinner",
-        "Ebanana Scrooge"
+        "Frank Skinner"
       ],
       "topics": [
         "previously",
@@ -6502,9 +6370,7 @@
       "itunes_duration": "4036",
       "speakers": [
         "Frank Vindicated",
-        "Frank Skinner",
-        "John Lewis",
-        "Les Dennis"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -6543,9 +6409,7 @@
       "itunes_duration": "3929",
       "speakers": [
         "Witchell Hunt",
-        "Frank Skinner",
-        "Tom Hank",
-        "Hugh Jackman"
+        "Frank Skinner"
       ],
       "topics": [
         "witchell",
@@ -6564,8 +6428,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4171",
       "speakers": [
-        "Frank Skinner",
-        "Nigel Fest"
+        "Frank Skinner"
       ],
       "topics": [
         "eggo"
@@ -6622,9 +6485,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4305",
       "speakers": [
-        "Frank Skinner",
-        "Salt Bae",
-        "Victoria Beckham"
+        "Frank Skinner"
       ],
       "topics": [
         "special",
@@ -6643,9 +6504,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4535",
       "speakers": [
-        "Frank Skinner",
-        "Liam Gallagher",
-        "Nicole Richie’s Birthday"
+        "Frank Skinner"
       ],
       "topics": [
         "sage",
@@ -6664,8 +6523,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4088",
       "speakers": [
-        "Frank Skinner",
-        "Emma Raducanu"
+        "Frank Skinner"
       ],
       "topics": [
         "short",
@@ -6705,8 +6563,7 @@
       "itunes_duration": "3955",
       "speakers": [
         "Michael Rove",
-        "Frank Skinner",
-        "Michael Gove"
+        "Frank Skinner"
       ],
       "topics": [
         "michael",
@@ -6726,8 +6583,7 @@
       "itunes_duration": "4172",
       "speakers": [
         "Frank Skimmers",
-        "Frank Skinner",
-        "Tom Cruise"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -6784,9 +6640,7 @@
       "itunes_duration": "4189",
       "speakers": [
         "Merry-Hill Streep",
-        "Frank Skinner",
-        "Tom Daley",
-        "Ben Whittaker"
+        "Frank Skinner"
       ],
       "topics": [
         "merry",
@@ -6847,8 +6701,7 @@
       "itunes_duration": "4008",
       "speakers": [
         "Elon Dusk",
-        "Frank Skinner",
-        "Richard Branson"
+        "Frank Skinner"
       ],
       "topics": [
         "elon",
@@ -6867,8 +6720,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3895",
       "speakers": [
-        "Frank Skinner",
-        "Declan Rice"
+        "Frank Skinner"
       ],
       "topics": [
         "adjacent"
@@ -6887,7 +6739,6 @@
       "itunes_duration": "3992",
       "speakers": [
         "Kloppelganger Frank Skinner",
-        "Thomas Becket",
         "Frank Skinner"
       ],
       "topics": [
@@ -6907,8 +6758,7 @@
       "itunes_duration": "3938",
       "speakers": [
         "Central Pork",
-        "Frank Skinner",
-        "Courteney Cox"
+        "Frank Skinner"
       ],
       "topics": [
         "central",
@@ -6928,9 +6778,7 @@
       "itunes_duration": "4104",
       "speakers": [
         "Joe Bison",
-        "Frank Skinner",
-        "Martin Lewis",
-        "Graeme Souness"
+        "Frank Skinner"
       ],
       "topics": [
         "bison"
@@ -6948,8 +6796,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4154",
       "speakers": [
-        "Frank Skinner",
-        "Matt Forde"
+        "Frank Skinner"
       ],
       "topics": [
         "prank",
@@ -7052,8 +6899,7 @@
       "itunes_duration": "4059",
       "speakers": [
         "Martin Mingle",
-        "Frank Skinner",
-        "Jaffa Cake"
+        "Frank Skinner"
       ],
       "topics": [
         "martin",
@@ -7072,8 +6918,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4150",
       "speakers": [
-        "Frank Skinner",
-        "Harry Redknapp"
+        "Frank Skinner"
       ],
       "topics": [
         "memoir"
@@ -7112,8 +6957,7 @@
       "itunes_duration": "4275",
       "speakers": [
         "Bill Quailey",
-        "Frank Skinner",
-        "Jose Mourinho"
+        "Frank Skinner"
       ],
       "topics": [
         "bill",
@@ -7132,9 +6976,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4194",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards",
-        "Gemma Collins"
+        "Frank Skinner"
       ],
       "topics": [
         "bordoodle"
@@ -7171,8 +7013,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4217",
       "speakers": [
-        "Frank Skinner",
-        "Andy Murray"
+        "Frank Skinner"
       ],
       "topics": [
         "mumpire"
@@ -7190,8 +7031,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4225",
       "speakers": [
-        "Frank Skinner",
-        "Orlando Bloom"
+        "Frank Skinner"
       ],
       "topics": [
         "rings"
@@ -7249,8 +7089,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4152",
       "speakers": [
-        "Frank Skinner",
-        "Lil Uzi"
+        "Frank Skinner"
       ],
       "topics": [
         "gold",
@@ -7290,8 +7129,7 @@
       "itunes_duration": "4274",
       "speakers": [
         "Vintage Ski",
-        "Frank Skinner",
-        "Valentine’s Day"
+        "Frank Skinner"
       ],
       "topics": [
         "vintage"
@@ -7310,9 +7148,7 @@
       "itunes_duration": "4287",
       "speakers": [
         "Teddy Doffing",
-        "Frank Skinner",
-        "Stewart Lee",
-        "King Rocker"
+        "Frank Skinner"
       ],
       "topics": [
         "teddy",
@@ -7351,8 +7187,7 @@
       "itunes_duration": "4184",
       "speakers": [
         "Running Backwards",
-        "Frank Skinner",
-        "Lembit Opik"
+        "Frank Skinner"
       ],
       "topics": [
         "running",
@@ -7389,8 +7224,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4282",
       "speakers": [
-        "Frank Skinner",
-        "Hampstead Heath"
+        "Frank Skinner"
       ],
       "topics": [
         "hour"
@@ -7424,8 +7258,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4229",
       "speakers": [
-        "Frank Skinner",
-        "Elton John"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -7459,8 +7292,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4408",
       "speakers": [
-        "Frank Skinner",
-        "George Clooney"
+        "Frank Skinner"
       ],
       "topics": [
         "clooney"
@@ -7497,8 +7329,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4504",
       "speakers": [
-        "Frank Skinner",
-        "Wayne Rooney’s Blackberry"
+        "Frank Skinner"
       ],
       "topics": [
         "miss",
@@ -7517,8 +7348,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4325",
       "speakers": [
-        "Frank Skinner",
-        "George Clooney"
+        "Frank Skinner"
       ],
       "topics": [
         "best"
@@ -7577,8 +7407,7 @@
       "itunes_duration": "4371",
       "speakers": [
         "Compliment Slip",
-        "Frank Skinner",
-        "Harry Styles"
+        "Frank Skinner"
       ],
       "topics": [
         "compliment",
@@ -7597,8 +7426,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4344",
       "speakers": [
-        "Frank Skinner",
-        "Sarah Champion"
+        "Frank Skinner"
       ],
       "topics": [
         "frisbee",
@@ -7655,8 +7483,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4168",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "spinal",
@@ -7677,10 +7504,6 @@
       "speakers": [
         "Frank Skinner's Poetry",
         "Liz Berry Frank",
-        "Liz Berry",
-        "Birmingham Roller",
-        "Liz Berry Birmingham Roller",
-        "Liz Berry Learn",
         "Frank Skinner"
       ],
       "topics": [
@@ -7703,8 +7526,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4046",
       "speakers": [
-        "Frank Skinner",
-        "Aleister Crowley"
+        "Frank Skinner"
       ],
       "topics": [
         "silver",
@@ -7765,8 +7587,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4554",
       "speakers": [
-        "Frank Skinner",
-        "Kim Jong-un"
+        "Frank Skinner"
       ],
       "topics": [
         "coulsdon"
@@ -7785,7 +7606,6 @@
       "itunes_duration": "4280",
       "speakers": [
         "Spider Keeper Frank Skinner",
-        "David Blaine’s Ascension",
         "Frank Skinner"
       ],
       "topics": [
@@ -7805,8 +7625,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4168",
       "speakers": [
-        "Frank Skinner",
-        "Tom Cruise"
+        "Frank Skinner"
       ],
       "topics": [
         "croc"
@@ -7825,7 +7644,6 @@
       "itunes_duration": "4309",
       "speakers": [
         "Medicine Ball Frank Skinner",
-        "Gareth Richards",
         "Frank Skinner"
       ],
       "topics": [
@@ -7845,9 +7663,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4209",
       "speakers": [
-        "Frank Skinner",
-        "Damon Albarn",
-        "Sam Fender"
+        "Frank Skinner"
       ],
       "topics": [
         "message"
@@ -7883,8 +7699,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4343",
       "speakers": [
-        "Frank Skinner",
-        "Elton John"
+        "Frank Skinner"
       ],
       "topics": [
         "promotion",
@@ -7903,8 +7718,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4280",
       "speakers": [
-        "Frank Skinner",
-        "Twin Peaks"
+        "Frank Skinner"
       ],
       "topics": [
         "ribbon"
@@ -7942,10 +7756,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4311",
       "speakers": [
-        "Frank Skinner",
-        "Elton John",
-        "Jess Glynne",
-        "Emily’s Birthday"
+        "Frank Skinner"
       ],
       "topics": [
         "yorkie",
@@ -8003,8 +7814,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4194",
       "speakers": [
-        "Frank Skinner",
-        "Robbie Williams"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -8021,8 +7831,7 @@
       "itunes_duration": "4187",
       "speakers": [
         "Overt Recycling",
-        "Frank Skinner",
-        "Prince Philip’s Birthday"
+        "Frank Skinner"
       ],
       "topics": [
         "overt",
@@ -8041,8 +7850,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4226",
       "speakers": [
-        "Frank Skinner",
-        "Joe Wicks"
+        "Frank Skinner"
       ],
       "topics": [
         "mouse"
@@ -8119,8 +7927,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4288",
       "speakers": [
-        "Frank Skinner",
-        "Kim Jong-un"
+        "Frank Skinner"
       ],
       "topics": [
         "cupid"
@@ -8180,8 +7987,7 @@
         "Frank Skinner's Poetry",
         "Stevie Smith",
         "William Carlos Williams",
-        "Frank Skinner",
-        "Stevie Smith's Not Waving"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -8208,8 +8014,7 @@
       "itunes_duration": "4244",
       "speakers": [
         "Romanian Ham",
-        "Frank Skinner",
-        "Paul McCartney"
+        "Frank Skinner"
       ],
       "topics": [
         "romanian"
@@ -8267,8 +8072,7 @@
       "itunes_duration": "4283",
       "speakers": [
         "Linen Basket",
-        "Frank Skinner",
-        "Joe Wicks"
+        "Frank Skinner"
       ],
       "topics": [
         "linen",
@@ -8303,8 +8107,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4707",
       "speakers": [
-        "Frank Skinner",
-        "Tim Key"
+        "Frank Skinner"
       ],
       "topics": [
         "wasp",
@@ -8342,8 +8145,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4571",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "balsamic",
@@ -8418,8 +8220,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4362",
       "speakers": [
-        "Frank Skinner",
-        "Brad Pitt"
+        "Frank Skinner"
       ],
       "topics": [
         "pitt",
@@ -8438,9 +8239,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4303",
       "speakers": [
-        "Frank Skinner",
-        "Frank’s Garrick",
-        "Peter Phillips"
+        "Frank Skinner"
       ],
       "topics": [
         "charger"
@@ -8458,8 +8257,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4351",
       "speakers": [
-        "Frank Skinner",
-        "Sandi Toksvig"
+        "Frank Skinner"
       ],
       "topics": [
         "bacon",
@@ -8516,9 +8314,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4100",
       "speakers": [
-        "Frank Skinner",
-        "Frank’s Royal Variety Performance",
-        "Steven Moffat"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -8558,8 +8354,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4674",
       "speakers": [
-        "Frank Skinner",
-        "Steven Moffat"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -8621,8 +8416,7 @@
       "itunes_duration": "4621",
       "speakers": [
         "Gary Bar-low",
-        "Frank Skinner",
-        "Holly Walsh"
+        "Frank Skinner"
       ],
       "topics": [
         "gary"
@@ -8640,9 +8434,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4176",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards",
-        "John Lewis"
+        "Frank Skinner"
       ],
       "topics": [
         "leopard",
@@ -8703,8 +8495,6 @@
       "itunes_duration": "4363",
       "speakers": [
         "Hobby Frank Skinner",
-        "Boiler Man",
-        "Kylie Jenner",
         "Frank Skinner"
       ],
       "topics": [
@@ -8723,8 +8513,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4440",
       "speakers": [
-        "Frank Skinner",
-        "Whipsnade Zoo"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -8744,8 +8533,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4444",
       "speakers": [
-        "Frank Skinner",
-        "Email Corner"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -8765,9 +8553,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4617",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards",
-        "Oliver Twist"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -8869,9 +8655,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4419",
       "speakers": [
-        "Frank Skinner",
-        "Bake Off",
-        "Ricky Hatton"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -8891,9 +8675,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4697",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Jonathan Ross"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -8913,8 +8695,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4349",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9018,8 +8799,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4359",
       "speakers": [
-        "Frank Skinner",
-        "Barbra Streisand"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9040,9 +8820,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4499",
       "speakers": [
-        "Frank Skinner",
-        "Toy Story",
-        "Andy Murray"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9063,8 +8841,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4656",
       "speakers": [
-        "Frank Skinner",
-        "Tom Holland"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9085,8 +8862,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4321",
       "speakers": [
-        "Frank Skinner",
-        "Nick Cave"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9148,8 +8924,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4262",
       "speakers": [
-        "Frank Skinner",
-        "Simon Cowell"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9234,8 +9009,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4258",
       "speakers": [
-        "Frank Skinner",
-        "Ted Talk"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9317,8 +9091,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4297",
       "speakers": [
-        "Frank Skinner",
-        "April Fools"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9362,8 +9135,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4324",
       "speakers": [
-        "Frank Skinner",
-        "David Baddiel"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9405,10 +9177,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9056",
       "speakers": [
-        "Frank Skinner",
-        "Mitt Romney",
-        "David Baddiel",
-        "Tim Key"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9429,8 +9198,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4591",
       "speakers": [
-        "Frank Skinner",
-        "Tim Apple"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9472,8 +9240,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4526",
       "speakers": [
-        "Frank Skinner",
-        "Bob Harris"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9534,8 +9301,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4524",
       "speakers": [
-        "Frank Skinner",
-        "Little Mix"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9639,8 +9405,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4395",
       "speakers": [
-        "Frank Skinner",
-        "Noel Edmonds"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9682,8 +9447,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4677",
       "speakers": [
-        "Frank Skinner",
-        "Miley Cyrus"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9724,9 +9488,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4114",
       "speakers": [
-        "Frank Skinner",
-        "Noel Edmonds",
-        "Melania Trump"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9747,9 +9509,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4376",
       "speakers": [
-        "Frank Skinner",
-        "Noel Edmonds",
-        "Snoop Dogg"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9770,10 +9530,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4802",
       "speakers": [
-        "Frank Skinner",
-        "Ed Sheeran",
-        "Lewis Elton",
-        "John advert"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9836,8 +9593,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4524",
       "speakers": [
-        "Frank Skinner",
-        "David Schwimmer"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9857,8 +9613,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4077",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9900,9 +9655,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4696",
       "speakers": [
-        "Frank Skinner",
-        "Theresa May",
-        "Martin Bashir"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9944,11 +9697,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4215",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Gareth Richards",
-        "Kylie Jenner",
-        "Helena Bonham Carter"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9968,9 +9717,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4015",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards",
-        "Mark Wahlberg"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -9990,8 +9737,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4621",
       "speakers": [
-        "Frank Skinner",
-        "Kim Kardashian"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10031,10 +9777,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4763",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Emily Dean",
-        "Rod Stewart"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10054,9 +9797,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4979",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "West Brom"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10097,8 +9838,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4644",
       "speakers": [
-        "Frank Skinner",
-        "Theresa May"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10178,9 +9918,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4326",
       "speakers": [
-        "Frank Skinner",
-        "Frank Emily",
-        "Schama Shearer"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10265,8 +10003,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4614",
       "speakers": [
-        "Frank Skinner",
-        "Kim Jong-un"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10286,8 +10023,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4718",
       "speakers": [
-        "Frank Skinner",
-        "Darth Vader"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10326,10 +10062,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5054",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Gareth Richards",
-        "Banofee Pie"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10350,11 +10083,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4595",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Angela Barnes",
-        "Macron Bromance",
-        "Tom Cruise"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10373,8 +10102,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4654",
       "speakers": [
-        "Frank Skinner",
-        "Arsene Wenger"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10394,8 +10122,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4795",
       "speakers": [
-        "Frank Skinner",
-        "Justin Bieber"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10415,8 +10142,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4641",
       "speakers": [
-        "Frank Skinner",
-        "Alan Carr"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10435,8 +10161,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4728",
       "speakers": [
-        "Frank Skinner",
-        "Ben Affleck"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10556,8 +10281,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4640",
       "speakers": [
-        "Frank Skinner",
-        "Richard Madeley"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10578,8 +10302,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4905",
       "speakers": [
-        "Frank Skinner",
-        "Quincy Jones"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10599,10 +10322,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4718",
       "speakers": [
-        "Frank Skinner",
-        "Michelle Obama",
-        "Melania Trump",
-        "Theresa May"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10622,8 +10342,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4702",
       "speakers": [
-        "Frank Skinner",
-        "Boris Becker"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10643,10 +10362,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4353",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Gareth Richards",
-        "Prince William"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10746,9 +10462,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4829",
       "speakers": [
-        "Frank Skinner",
-        "Lenny Kravtiz",
-        "David Beckham"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10767,8 +10481,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4518",
       "speakers": [
-        "Frank Skinner",
-        "Ross Noble"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10810,8 +10523,7 @@
       "itunes_duration": "2033",
       "speakers": [
         "Frank Skinner",
-        "Noel Gallagher",
-        "Matthew McConaughey"
+        "Noel Gallagher"
       ],
       "topics": [
         "frank",
@@ -10832,8 +10544,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4936",
       "speakers": [
-        "Frank Skinner",
-        "Frank Emily"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10873,8 +10584,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4153",
       "speakers": [
-        "Frank Skinner",
-        "Guy Fawkes"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10934,8 +10644,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4527",
       "speakers": [
-        "Frank Skinner",
-        "Tim Key"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10956,9 +10665,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4539",
       "speakers": [
-        "Frank Skinner",
-        "Ivana Trump",
-        "Plus Frank"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -10980,8 +10687,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4603",
       "speakers": [
-        "Frank Skinner",
-        "Blade Runner"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11042,7 +10748,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1790",
       "speakers": [
-        "Frank Skinner"
+        "Frank Skinner",
+        "Frank Skin"
       ],
       "topics": [
         "frank",
@@ -11064,7 +10771,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1790",
       "speakers": [
-        "Frank Skinner"
+        "Frank Skinner",
+        "Frank Skin"
       ],
       "topics": [
         "frank",
@@ -11086,12 +10794,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4963",
       "speakers": [
-        "Frank Skinner",
-        "Marilyn Manson",
-        "Justin Bieber",
-        "Lethal Bizzle",
-        "Judi Dench",
-        "Alex Horne"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11151,8 +10854,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4616",
       "speakers": [
-        "Frank Skinner",
-        "Frank get Cathy"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11172,8 +10874,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4431",
       "speakers": [
-        "Frank Skinner",
-        "Daniel Craig"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11215,8 +10916,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4739",
       "speakers": [
-        "Frank Skinner",
-        "Al Gore"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11237,11 +10937,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4600",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Emily Dean",
-        "Prince Philip",
-        "Anthony Scaramucci"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11260,8 +10956,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5192",
       "speakers": [
-        "Frank Skinner",
-        "Alice Cooper"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11300,8 +10995,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5015",
       "speakers": [
-        "Frank Skinner",
-        "Simon Cowell"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11381,8 +11075,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4609",
       "speakers": [
-        "Frank Skinner",
-        "Robbie Williams"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11403,8 +11096,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4763",
       "speakers": [
-        "Frank Skinner",
-        "Lord Buckethead"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11424,9 +11116,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4263",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Gareth Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11488,8 +11178,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4401",
       "speakers": [
-        "Frank Skinner",
-        "Harry Style"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11530,9 +11219,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4592",
       "speakers": [
-        "Frank Skinner",
-        "Stony Ground",
-        "Tom Hardy"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11552,9 +11239,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4671",
       "speakers": [
-        "Frank Skinner",
-        "Frank Emily",
-        "Charles Bronson"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11574,8 +11259,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4269",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11615,8 +11299,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4718",
       "speakers": [
-        "Frank Skinner",
-        "Ronaldo Statue"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11656,9 +11339,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3998",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Gareth Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11681,9 +11362,7 @@
       "itunes_duration": "4604",
       "speakers": [
         "Clifton Suspension Bridge",
-        "Frank Skinner",
-        "Lets Sing",
-        "Mary Berry"
+        "Frank Skinner"
       ],
       "topics": [
         "clifton",
@@ -11923,8 +11602,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4495",
       "speakers": [
-        "Frank Skinner",
-        "Henry Viii"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11945,9 +11623,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4619",
       "speakers": [
-        "Frank Skinner",
-        "Graham Norton Show",
-        "Mariah Carey"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -11967,8 +11643,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4529",
       "speakers": [
-        "Frank Skinner",
-        "Elton John"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12029,8 +11704,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4409",
       "speakers": [
-        "Frank Skinner",
-        "Cruz Beckham"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12051,8 +11725,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4501",
       "speakers": [
-        "Frank Skinner",
-        "Ed Sheeran"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12094,8 +11767,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4462",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12262,8 +11934,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4444",
       "speakers": [
-        "Frank Skinner",
-        "Producer Charlie"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12284,8 +11955,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4949",
       "speakers": [
-        "Frank Skinner",
-        "Bake Off"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12364,8 +12034,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4660",
       "speakers": [
-        "Frank Skinner",
-        "Dick Van Dyke"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12384,8 +12053,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4843",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12405,8 +12073,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4550",
       "speakers": [
-        "Frank Skinner",
-        "Steve Stigma-of"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12427,10 +12094,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4643",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Gareth Richards",
-        "Hillary Clinton"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12472,9 +12136,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4576",
       "speakers": [
-        "Frank Skinner",
-        "Len Goodman",
-        "Pokemon Go"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12597,8 +12259,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4820",
       "speakers": [
-        "Frank Skinner",
-        "Tom Hardy"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12640,8 +12301,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4661",
       "speakers": [
-        "Frank Skinner",
-        "Pharrell Williams"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12703,8 +12363,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4702",
       "speakers": [
-        "Frank Skinner",
-        "Grayson Perry"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12723,11 +12382,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4263",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Gareth Richards",
-        "David Gandy",
-        "Johnny Depp"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12747,8 +12402,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4853",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12768,9 +12422,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5079",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Alun Cochrane"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12791,10 +12443,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5440",
       "speakers": [
-        "Frank Skinner",
-        "Holly Walsh",
-        "Alun Cochrane",
-        "Storm Katie"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12814,8 +12463,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4692",
       "speakers": [
-        "Frank Skinner",
-        "Boaty McBoatface"
+        "Frank Skinner"
       ],
       "topics": [
         "fourfivesecond"
@@ -12833,9 +12481,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4830",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richard",
-        "Emily Dean"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12873,10 +12519,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4592",
       "speakers": [
-        "Frank Skinner",
-        "Jenny Beaven",
-        "Sam Smith",
-        "Tim Key"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12956,8 +12599,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4268",
       "speakers": [
-        "Frank Skinner",
-        "Yeezy Saeson"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12977,8 +12619,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5003",
       "speakers": [
-        "Frank Skinner",
-        "Simon Cowell"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -12999,8 +12640,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4644",
       "speakers": [
-        "Frank Skinner",
-        "Slummy Mummies"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13021,8 +12661,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4978",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13064,7 +12703,6 @@
       "itunes_duration": "5262",
       "speakers": [
         "Skepta Frank Skinner",
-        "Tom Daley",
         "Frank Skinner"
       ],
       "topics": [
@@ -13201,8 +12839,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4442",
       "speakers": [
-        "Frank Skinner",
-        "Harper Beckham"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13243,9 +12880,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4756",
       "speakers": [
-        "Frank Skinner",
-        "Matt Berry",
-        "Lewis Christmas"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13264,8 +12899,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4570",
       "speakers": [
-        "Frank Skinner",
-        "Bob Dylan"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13285,8 +12919,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4920",
       "speakers": [
-        "Frank Skinner",
-        "Simon Cowell"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13327,9 +12960,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4864",
       "speakers": [
-        "Frank Skinner",
-        "Brian May",
-        "Brian Blessed"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13350,8 +12981,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4688",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13372,9 +13002,7 @@
       "itunes_duration": "4621",
       "speakers": [
         "Frank Skinner Do",
-        "Frank Skinner",
-        "David Baddiel",
-        "Morwenna Banks"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13394,9 +13022,7 @@
       "itunes_duration": "4758",
       "speakers": [
         "Frank Skinner Do",
-        "Frank Skinner",
-        "David Baddiel",
-        "Morwenna Banks"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13416,9 +13042,7 @@
       "itunes_duration": "4621",
       "speakers": [
         "Frank Skinner Do",
-        "Frank Skinner",
-        "David Baddiel",
-        "Morwenna Banks"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13437,8 +13061,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4680",
       "speakers": [
-        "Frank Skinner",
-        "De Niro Danan"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13458,8 +13081,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4557",
       "speakers": [
-        "Frank Skinner",
-        "Lenin Head"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13480,8 +13102,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4642",
       "speakers": [
-        "Frank Skinner",
-        "Keith Richards"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13520,9 +13141,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4902",
       "speakers": [
-        "Frank Skinner",
-        "Ashley Maddison",
-        "Gareth Bale"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13542,8 +13161,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4886",
       "speakers": [
-        "Frank Skinner",
-        "Tom Jones"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13562,10 +13180,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4626",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards",
-        "Keith Richards",
-        "Noel Edmonds"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13586,10 +13201,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4626",
       "speakers": [
-        "Frank Skinner",
-        "Gareth Richards",
-        "Keith Richards",
-        "Noel Edmonds"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13610,8 +13222,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5141",
       "speakers": [
-        "Frank Skinner",
-        "Cara Delevingne"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13672,8 +13283,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4434",
       "speakers": [
-        "Frank Skinner",
-        "Classic Quadrophenia"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13693,8 +13303,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4594",
       "speakers": [
-        "Frank Skinner",
-        "Peppa Pig"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13715,8 +13324,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4594",
       "speakers": [
-        "Frank Skinner",
-        "Peppa Pig"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13757,9 +13365,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4961",
       "speakers": [
-        "Frank Skinner",
-        "Top Gear",
-        "Blanket Jackson"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13818,9 +13424,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4349",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Louis Walsh"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13917,8 +13521,7 @@
       "itunes_duration": "4551",
       "speakers": [
         "Imperial Lather",
-        "Frank Skinner",
-        "Daisy Duck"
+        "Frank Skinner"
       ],
       "topics": [
         "imperial",
@@ -13975,9 +13578,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4706",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "April Fools"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -13997,8 +13598,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4444",
       "speakers": [
-        "Frank Skinner",
-        "Holly Walsh"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14018,8 +13618,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4160",
       "speakers": [
-        "Frank Skinner",
-        "Elton John"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14059,10 +13658,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3671",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Kim Kardashian",
-        "Harrison Ford"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14082,9 +13678,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4416",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Alun Cochrane"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14104,10 +13698,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4383",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Andy Murray",
-        "Gift Watch"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14169,8 +13760,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4279",
       "speakers": [
-        "Frank Skinner",
-        "Kim Sears"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14229,8 +13819,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4367",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14272,8 +13861,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4662",
       "speakers": [
-        "Frank Skinner",
-        "Kate Bush"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14311,12 +13899,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4506",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Steve Hall",
-        "Candy Crush",
-        "Gary Lineker",
-        "Ray Quinn"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14356,8 +13939,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4202",
       "speakers": [
-        "Frank Skinner",
-        "Holly Walsh"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14377,7 +13959,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4767",
       "speakers": [
-        "Jamie Oliver",
         "Frank Skinner"
       ],
       "topics": [
@@ -14398,8 +13979,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4831",
       "speakers": [
-        "Frank Skinner",
-        "Kim Kardashian"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14420,10 +14000,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4139",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "John Lewis",
-        "Katie Melua"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14443,8 +14020,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4542",
       "speakers": [
-        "Frank Skinner",
-        "Robbie Williams"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14465,8 +14041,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4086",
       "speakers": [
-        "Frank Skinner",
-        "Renee Zelwegger"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14511,8 +14086,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4642",
       "speakers": [
-        "Frank Skinner",
-        "Kim Jong Oon"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14534,10 +14108,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4622",
       "speakers": [
-        "Frank Skinner",
-        "David Baddiel",
-        "George Clooney",
-        "Floyd Mayweather"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14558,8 +14129,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4563",
       "speakers": [
-        "Frank Skinner",
-        "Jason Orange"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14582,8 +14152,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4437",
       "speakers": [
-        "Frank Skinner",
-        "Depardieu Learn"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14669,9 +14238,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4381",
       "speakers": [
-        "Frank Skinner",
-        "Kellie Maloney",
-        "Ma Murray"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14694,8 +14261,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4278",
       "speakers": [
-        "Frank Skinner",
-        "Justin Bieber"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14782,8 +14348,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4377",
       "speakers": [
-        "Frank Skinner",
-        "Victoria Beckham"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14826,9 +14391,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4773",
       "speakers": [
-        "Frank Skinner",
-        "Andy Murray",
-        "Chris Martin"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14851,8 +14414,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4487",
       "speakers": [
-        "Frank Skinner",
-        "Beatrix Potter"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -14920,10 +14482,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4153",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Pete Donaldson",
-        "David Beckham"
+        "Frank Skinner"
       ],
       "topics": []
     },
@@ -14983,8 +14542,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4660",
       "speakers": [
-        "Frank Skinner",
-        "Email Corner"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15029,9 +14587,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4677",
       "speakers": [
-        "Frank Skinner",
-        "George Clooney",
-        "Susannah Reid"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15054,8 +14610,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4491",
       "speakers": [
-        "Frank Skinner",
-        "Jamaica Inn"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15122,8 +14677,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4686",
       "speakers": [
-        "Frank Skinner",
-        "April Fools"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15144,10 +14698,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4274",
       "speakers": [
-        "Frank Skinner",
-        "Buzz Skinner",
-        "Buzz Aldrin",
-        "Kim Jong-Un"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15192,10 +14743,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3992",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Joan Collins",
-        "Ellen Degeneres"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15217,8 +14765,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4406",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15286,8 +14833,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4428",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15331,9 +14877,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4812",
       "speakers": [
-        "Frank Skinner",
-        "Andy Murray",
-        "Carol Vorderman"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15398,10 +14942,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4643",
       "speakers": [
-        "Frank Skinner",
-        "Dennis Rodman",
-        "Kim Jong Un",
-        "Shia La Beouf"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15490,10 +15031,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4369",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Pete Donaldson",
-        "John Terry"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15579,8 +15117,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4436",
       "speakers": [
-        "Frank Skinner",
-        "Robert Winston"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15601,8 +15138,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4870",
       "speakers": [
-        "Frank Skinner",
-        "Huey Morgan"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15646,10 +15182,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4342",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Alun Cochrane",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15672,8 +15205,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4902",
       "speakers": [
-        "Frank Skinner",
-        "Andy Murray"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15718,8 +15250,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4560",
       "speakers": [
-        "Frank Skinner",
-        "Sinead O'Connor"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15831,11 +15362,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4379",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Steve Hall",
-        "Miley Cyrus",
-        "Robin Thicke"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15857,10 +15384,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4626",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Steve Hall",
-        "Baby George"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15881,9 +15405,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4791",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15905,9 +15427,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4838",
       "speakers": [
-        "Frank Skinner",
-        "Andy Bush",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -15929,9 +15449,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4512",
       "speakers": [
-        "Frank Skinner",
-        "Pete Donaldson",
-        "Simon Cowell"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16040,9 +15558,7 @@
       "itunes_duration": "4314",
       "speakers": [
         "Frank Skinner",
-        "David Baddiel",
-        "Matt Goss Fan",
-        "George Osborne"
+        "David Baddiel"
       ],
       "topics": [
         "frank",
@@ -16088,8 +15604,7 @@
       "itunes_duration": "4703",
       "speakers": [
         "Frank Skinner",
-        "Neil Gaiman",
-        "Robert Pattinson"
+        "Neil Gaiman"
       ],
       "topics": [
         "frank",
@@ -16112,8 +15627,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4899",
       "speakers": [
-        "Frank Skinner",
-        "Karl Lagerfeld"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16134,9 +15648,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4986",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16158,9 +15670,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4375",
       "speakers": [
-        "Frank Skinner",
-        "George Michael",
-        "Trevor Nunn"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16182,9 +15692,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4922",
       "speakers": [
-        "Frank Skinner",
-        "Alun Cochrane",
-        "Emily Dean"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16205,11 +15713,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5037",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Alun Cochrane",
-        "Steve Hall",
-        "Alex Ferguson"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16251,8 +15755,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4918",
       "speakers": [
-        "Frank Skinner",
-        "Plus Alun"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16319,11 +15822,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4909",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Alun Cochrane",
-        "Justin Bieber",
-        "Email Corner"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16346,9 +15845,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4435",
       "speakers": [
-        "Frank Skinner",
-        "Emily Dean",
-        "Steve Hall"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16371,8 +15868,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4510",
       "speakers": [
-        "Frank Skinner",
-        "Email Corner"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16460,9 +15956,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4716",
       "speakers": [
-        "Frank Skinner",
-        "Steve Hall",
-        "Emily Dean"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16529,9 +16023,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4454",
       "speakers": [
-        "Frank Skinner",
-        "Richard Iii",
-        "Bruce Willis"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16553,8 +16045,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4566",
       "speakers": [
-        "Frank Skinner",
-        "Prince Charles"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16599,8 +16090,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4618",
       "speakers": [
-        "Frank Skinner",
-        "Lance Armstrong"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16643,8 +16133,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4583",
       "speakers": [
-        "Frank Skinner",
-        "Gerard Depardieu"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16733,9 +16222,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4870",
       "speakers": [
-        "Frank Skinner",
-        "Dean Gaffney",
-        "Joey Barton"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16821,9 +16308,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4974",
       "speakers": [
-        "Frank Skinner",
-        "James May",
-        "Gary Barlow"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16844,9 +16329,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4364",
       "speakers": [
-        "Frank Skinner",
-        "Pippa Middleton",
-        "Ape Man"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -16979,8 +16462,7 @@
       "itunes_duration": "4347",
       "speakers": [
         "Frank Skinner",
-        "Andy Murray",
-        "Jaffa Cakes"
+        "Andy Murray"
       ],
       "topics": [
         "frank",
@@ -17207,8 +16689,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4657",
       "speakers": [
-        "Frank Skinner",
-        "Murray Mania"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -17297,8 +16778,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4704",
       "speakers": [
-        "Frank Skinner",
-        "Email Corner"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -18027,8 +17507,7 @@
       "itunes_duration": "3472",
       "speakers": [
         "Frank Skinner",
-        "Holly Walsh",
-        "Heidi Klum"
+        "Holly Walsh"
       ],
       "topics": [
         "frank",
@@ -18264,7 +17743,6 @@
         "Emily Dean",
         "Alun Cochrune",
         "Gareth Richards",
-        "Laura Solon Learn",
         "Frank Skinner"
       ],
       "topics": [
@@ -18398,8 +17876,7 @@
       "itunes_duration": "3256",
       "speakers": [
         "Frank Skinner",
-        "Tom Light",
-        "John Lennon"
+        "Tom Light"
       ],
       "topics": [
         "frank",
@@ -18890,7 +18367,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3215",
       "speakers": [
-        "Samuel Johnson",
         "Frank Skinner"
       ],
       "topics": []
@@ -18930,7 +18406,7 @@
       "itunes_duration": "3609",
       "speakers": [
         "Frank Skinner Red",
-        "Cockerell Junior",
+        "Cockerell Jun",
         "Frank Skinner"
       ],
       "topics": [
@@ -18991,8 +18467,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3287",
       "speakers": [
-        "Frank Skinner",
-        "Kate Winslet Learn"
+        "Frank Skinner"
       ],
       "topics": [
         "frank",
@@ -19058,7 +18533,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2280",
       "speakers": [
-        "Alun Cochrane",
         "Frank Skinner"
       ],
       "topics": [
@@ -19420,7 +18894,6 @@
       "speakers": [
         "Frank Skinner Left",
         "Alun Cochrane",
-        "Arnold Schwarzenegger",
         "Frank Skinner"
       ],
       "topics": [
@@ -19467,7 +18940,6 @@
       "speakers": [
         "Frank Skinner New Kid",
         "Alun Cochrane",
-        "Alice Cooper Learn",
         "Frank Skinner"
       ],
       "topics": [
@@ -19571,7 +19043,6 @@
       "speakers": [
         "Frank Emily",
         "Pauline Quirke",
-        "David Furnish Mum",
         "Frank Skinner"
       ],
       "topics": [
@@ -19592,8 +19063,6 @@
       "itunes_duration": "3536",
       "speakers": [
         "Dilemma Frank",
-        "Emily Frank",
-        "Arnold Schwarzenegger",
         "Frank Skinner"
       ],
       "topics": [
@@ -19679,8 +19148,7 @@
         "Frank Skinner Neighbours",
         "Steve Williams",
         "Frank Skinner",
-        "Osama Bin Laden",
-        "Mariah Carey"
+        "Osama Bin Laden"
       ],
       "topics": [
         "frank",
@@ -19857,7 +19325,6 @@
       "itunes_duration": "3333",
       "speakers": [
         "Frank Skinner Connections",
-        "Tony Capstick",
         "Frank Skinner"
       ],
       "topics": [
@@ -19901,7 +19368,6 @@
       "itunes_duration": "2954",
       "speakers": [
         "Ronnie Wood",
-        "Derek Acorah",
         "Frank Skinner"
       ],
       "topics": [
@@ -20203,7 +19669,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2018",
       "speakers": [
-        "John Wayne",
         "Frank Skinner"
       ],
       "topics": [
@@ -20467,8 +19932,6 @@
       "itunes_duration": "2777",
       "speakers": [
         "Frank Skinner Best",
-        "Boy George",
-        "Ross Noble",
         "Frank Skinner"
       ],
       "topics": [
@@ -20490,9 +19953,6 @@
       "itunes_duration": "2969",
       "speakers": [
         "Frank Skinner Best",
-        "Tim Key",
-        "Reece Shearsmith",
-        "Lee Mack",
         "Frank Skinner"
       ],
       "topics": [
@@ -20514,9 +19974,6 @@
       "itunes_duration": "2524",
       "speakers": [
         "Frank Skinner Best",
-        "Ben Miller",
-        "David Baddiel",
-        "Toyah Wilcox",
         "Frank Skinner"
       ],
       "topics": [
@@ -20538,8 +19995,6 @@
       "itunes_duration": "2701",
       "speakers": [
         "Frank Skinner Best",
-        "Sarah Milican",
-        "Rob Deering",
         "Frank Skinner"
       ],
       "topics": [
@@ -20628,7 +20083,7 @@
       "itunes_duration": "3564",
       "speakers": [
         "Frank Skinner",
-        "Matt Cardle"
+        "Matt Card"
       ],
       "topics": [
         "frank",
@@ -20888,7 +20343,6 @@
       "speakers": [
         "Frank Skinner Guest",
         "Chris Addison Frank",
-        "Chris Addison",
         "Frank Skinner"
       ],
       "topics": [
@@ -21142,7 +20596,6 @@
       "speakers": [
         "Frank Skinner Guest",
         "Shazia Mirza",
-        "George Michael",
         "Frank Skinner"
       ],
       "topics": [
@@ -21190,7 +20643,6 @@
         "Frank Skinner Guest",
         "Stewart Francis Frank",
         "Stewart Francis",
-        "Tour De Francis",
         "Frank Skinner"
       ],
       "topics": [
@@ -21214,7 +20666,6 @@
       "itunes_duration": "2014",
       "speakers": [
         "Frank Skinner Not",
-        "Vintage Clothing",
         "Frank Skinner"
       ],
       "topics": [
@@ -21261,7 +20712,6 @@
       "itunes_duration": "1944",
       "speakers": [
         "Frank Skinner Not",
-        "Ray Gordon",
         "Frank Skinner"
       ],
       "topics": [
@@ -21524,8 +20974,7 @@
       "itunes_duration": "3088",
       "speakers": [
         "Russell Kane",
-        "Frank Skinner",
-        "Holly Walsh"
+        "Frank Skinner"
       ],
       "topics": [
         "russell",
@@ -21547,7 +20996,6 @@
       "itunes_duration": "2899",
       "speakers": [
         "Al Murray",
-        "Dan Antopolski",
         "Frank Skinner"
       ],
       "topics": [
@@ -21568,7 +21016,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1434",
       "speakers": [
-        "David Baddiel",
         "Frank Skinner"
       ],
       "topics": [
@@ -21589,8 +21036,7 @@
       "itunes_duration": "3133",
       "speakers": [
         "Lee Mack",
-        "Frank Skinner",
-        "Greg Davies"
+        "Frank Skinner"
       ],
       "topics": [
         "mack",
@@ -21630,7 +21076,6 @@
       "itunes_duration": "3146",
       "speakers": [
         "Lee Mack",
-        "Danny Wallace",
         "Frank Skinner"
       ],
       "topics": [
@@ -21671,8 +21116,7 @@
       "itunes_duration": "2464",
       "speakers": [
         "Al Murray",
-        "Frank Skinner",
-        "Lee Nelson"
+        "Frank Skinner"
       ],
       "topics": [
         "murray",
@@ -22178,7 +21622,6 @@
       "itunes_duration": "3047",
       "speakers": [
         "Graham Fellows",
-        "Ray Montblanc",
         "Frank Skinner"
       ],
       "topics": [
@@ -22304,6 +21747,7 @@
       "itunes_duration": "3205",
       "speakers": [
         "Ben Miller",
+        "Ben Mi",
         "Frank Skinner"
       ],
       "topics": [
@@ -22345,7 +21789,6 @@
       "itunes_duration": "2819",
       "speakers": [
         "Sarah Millican",
-        "Ashley Cole",
         "Frank Skinner"
       ],
       "topics": [
@@ -22656,6 +22099,7 @@
       "itunes_duration": "3216",
       "speakers": [
         "Jason Manford Frank",
+        "Gareth de",
         "Frank Skinner"
       ],
       "topics": [
@@ -22760,7 +22204,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2647",
       "speakers": [
-        "Ed Byrne",
         "Frank Skinner"
       ],
       "topics": [
@@ -22993,8 +22436,6 @@
       "itunes_duration": "2966",
       "speakers": [
         "Alun Cochrane Frank",
-        "Alun Cochrane",
-        "Roberto Di Matteo",
         "Frank Skinner"
       ],
       "topics": [
@@ -23017,7 +22458,6 @@
       "speakers": [
         "Richard Herring Frank",
         "Richard Herring",
-        "Swine Flu",
         "Frank Skinner"
       ],
       "topics": [
@@ -23038,7 +22478,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2837",
       "speakers": [
-        "Ian Broudie",
+        "up lines",
         "Frank Skinner"
       ],
       "topics": [
@@ -23081,7 +22521,7 @@
       "itunes_duration": "2521",
       "speakers": [
         "Reece Shearsmith Frank",
-        "Reece Shearsmith",
+        "Reece Shearsmi",
         "Frank Skinner"
       ],
       "topics": [
@@ -23103,7 +22543,6 @@
       "itunes_duration": "2430",
       "speakers": [
         "Neil Hannon",
-        "Thomas Walsh",
         "Frank Skinner"
       ],
       "topics": [
@@ -23378,10 +22817,10 @@
 
 - 2026-02-23 — Shortlisted? — speakers: Frank Skinner
 - 2026-02-20 — A Disastrous Valentine's Day — speakers: Frank Skinner
-- 2026-02-18 — Frank Skinner’s Radio Days: Olympic Torch — speakers: Frank Skinner, Jubilee Flotilla
+- 2026-02-18 — Frank Skinner’s Radio Days: Olympic Torch — speakers: Frank Skinner
 - 2026-02-16 — Arguing Inside a Virtual World — speakers: Johnny White Really-Really, Frank Skinner
-- 2026-02-13 — They Want Tears, Not Laughter — speakers: Johnny White Really-Really, Michael McIntyre, Frank Skinner
-- 2026-02-11 — Frank Skinner’s Radio Days: The Web — speakers: Frank Skinner, Miles Jupp
+- 2026-02-13 — They Want Tears, Not Laughter — speakers: Johnny White Really-Really, Frank Skinner
+- 2026-02-11 — Frank Skinner’s Radio Days: The Web — speakers: Frank Skinner
 - 2026-02-09 — Frank Off The Radio: Best Of - Part 2 — speakers: Frank Skinner
 - 2026-02-06 — Frank Off The Radio: Best Of - Part 1 — speakers: Frank Skinner
 - 2026-02-04 — Frank Skinner’s Radio Days: Late — speakers: Frank Skinner
@@ -23412,9 +22851,9 @@
 - 2025-12-08 — Maisie Adam — speakers: Maisie Adam Maisie Adam, Frank Skinner
 - 2025-12-05 — Farewell Pierre — speakers: Farewell Pierre Frank, Frank Skinner
 - 2025-12-03 — Frank Skinner’s Radio Days: Red Hoodie — speakers: Frank Skinner
-- 2025-12-01 — A Tense Week — speakers: Sam Ryder, Chuck Berry, Tim Key, Frank Skinner
+- 2025-12-01 — A Tense Week — speakers: Frank Skinner
 - 2025-11-28 — The Loudest Gig — speakers: Frank Skinner
-- 2025-11-26 — Frank Skinner’s Radio Days: Ghosts — speakers: Frank Skinner, Ed Byrne
+- 2025-11-26 — Frank Skinner’s Radio Days: Ghosts — speakers: Frank Skinner
 - 2025-11-24 — The Paddington Experience — speakers: Steve Hall, Frank Skinner
 - 2025-11-21 — Frank's Catchphrase — speakers: Steve Hall, Frank Skinner
 - 2025-11-19 — Frank Skinner’s Radio Days: Clothes — speakers: Frank Skinner
@@ -23423,7 +22862,7 @@
 - 2025-11-12 — Frank Skinner’s Radio Days: Invention — speakers: Frank Skinner
 - 2025-11-10 — Wolf Snout — speakers: Wolf Snout, Frank Skinner
 - 2025-11-07 — Pre-Decimal Pints — speakers: Frank Skinner
-- 2025-11-05 — Frank Skinner’s Radio Days: Pedestrian Racing — speakers: Frank Skinner, Ringo Starr, Frank’s Comic Relief
+- 2025-11-05 — Frank Skinner’s Radio Days: Pedestrian Racing — speakers: Frank Skinner, Ringo Starr
 - 2025-11-03 — Pub True — speakers: Frank Skinner
 - 2025-10-31 — Eye Biscuits — speakers: Eye Biscuits Frank, Frank Skinner
 - 2025-10-29 — Frank Skinner’s Radio Days: Cuckoo Clock — speakers: Frank Skinner
@@ -23441,18 +22880,18 @@
 - 2025-10-01 — Frank Skinner Radio Days: Nomination — speakers: Frank Skinner Radio Days, Frank Skinner
 - 2025-09-29 — Brass Rubbing — speakers: Frank Skinner
 - 2025-09-26 — Formal Credits — speakers: Frank Skinner
-- 2025-09-24 — Frank Skinner’s Radio Days: Blackpool — speakers: Frank Skinner, Chris Ramsey
+- 2025-09-24 — Frank Skinner’s Radio Days: Blackpool — speakers: Frank Skinner
 - 2025-09-22 — Moustache — speakers: Moustache Frank, Frank Skinner
 - 2025-09-19 — A-puzzling — speakers: Frank Skinner
 - 2025-09-17 — Frank Skinner’s Radio Days: Anniversary — speakers: Frank Skinner
 - 2025-09-15 — Obviously New — speakers: Frank Skinner
 - 2025-09-12 — Blood Moon — speakers: Blood Moon Frank, Frank Skinner
-- 2025-09-10 — Frank Skinner’s Radio Days: Politeness Debate — speakers: Frank Skinner, Abby Road, Sarah Millican
+- 2025-09-10 — Frank Skinner’s Radio Days: Politeness Debate — speakers: Frank Skinner, Abby Road
 - 2025-09-08 — Pickled Onions — speakers: Frank Skinner
 - 2025-09-05 — Fragrant Bear — speakers: Frank Skinner
-- 2025-09-03 — Frank Skinner’s Radio Days: Mr Methane — speakers: Frank Skinner, Alex Horne
+- 2025-09-03 — Frank Skinner’s Radio Days: Mr Methane — speakers: Frank Skinner
 - 2025-09-01 — Uneven Strips — speakers: Uneven Strips Frank, Frank Skinner
-- 2025-08-30 — Frank Skinner’s Radio Days: Sky Lantern — speakers: Frank Skinner, Sky Lantern, Tim Key
+- 2025-08-30 — Frank Skinner’s Radio Days: Sky Lantern — speakers: Frank Skinner, Sky Lantern
 - 2025-08-29 — Brown Envelope — speakers: Brown Envelope, Frank Skinner
 - 2025-08-27 — Frank Skinner's Poetry Podcast: Jack Clemo — speakers: Frank Skinner's Poetry, Jack Clemo Frank, Jack Clemo, Frank Skinner
 - 2025-08-25 — Bingo Confession — speakers: Bingo Confession Zoe Lyons, Frank Skinner
@@ -23460,28 +22899,28 @@
 - 2025-08-22 — White Satin Robe — speakers: Satin Robe, Frank Skinner
 - 2025-08-20 — Frank Skinner's Poetry Podcast: Greta Stoddart — speakers: Frank Skinner's Poetry, Greta Stoddart, Frank Skinner
 - 2025-08-18 — Well Executed Magic — speakers: Ania Magliano, Frank Skinner
-- 2025-08-16 — Frank Skinner’s Radio Days: Pants — speakers: Frank Skinner, Micky Flanagan
+- 2025-08-16 — Frank Skinner’s Radio Days: Pants — speakers: Frank Skinner
 - 2025-08-15 — OnlyFans Witch — speakers: OnlyFans Witch, Frank Skinner
 - 2025-08-13 — Frank Skinner's Poetry Podcast: Scott McKendry — speakers: Frank Skinner's Poetry, Scott McKendry, Frank Skinner
 - 2025-08-11 — Dog Sitting — speakers: Steve Hall, Frank Skinner
-- 2025-08-09 — Frank Skinner's Radio Days: Ditch — speakers: Frank Skinner, Ed Byrne
-- 2025-08-08 — MI5 Safe House — speakers: Steve Hall, Download Saily, Frank Skinner
+- 2025-08-09 — Frank Skinner's Radio Days: Ditch — speakers: Frank Skinner
+- 2025-08-08 — MI5 Safe House — speakers: Steve Hall, Frank Skinner
 - 2025-08-06 — Frank Skinner's Poetry Podcast: Amy Clampitt — speakers: Frank Skinner's Poetry, Frank Skinner
 - 2025-08-04 — Castration Tooth — speakers: Sara Barron, Frank Skinner
 - 2025-08-02 — Frank Skinner's Radio Days: Strongmen — speakers: Frank Skinner, Twitter Emily
 - 2025-08-01 — Grey Temples — speakers: Sara Barron, Frank Skinner
 - 2025-07-30 — Frank Skinner's Poetry Podcast: Rebecca Goss — speakers: Frank Skinner's Poetry, Rebecca Goss, Frank Skinner
-- 2025-07-28 — Jelly — speakers: Jelly Frank, Outside World, Frank Skinner
-- 2025-07-26 — Frank Skinner's Radio Days: World’s Tallest Man — speakers: Frank Skinner, Ross Noble
+- 2025-07-28 — Jelly — speakers: Jelly Frank, Frank Skinner
+- 2025-07-26 — Frank Skinner's Radio Days: World’s Tallest Man — speakers: Frank Skinner
 - 2025-07-25 — Seafood Salesman — speakers: Seafood Salesman, Frank Skinner
 - 2025-07-23 — Frank Skinner's Poetry Podcast: RS Thomas — speakers: Frank Skinner's Poetry, RS Thomas Frank, RS Thomas, Frank Skinner
 - 2025-07-21 — Uninhabitable — speakers: Frank Skinner
 - 2025-07-18 — Circle Pit — speakers: Circle Pit Frank, Frank Skinner
-- 2025-07-16 — Frank Skinner's Radio Days: Poncho — speakers: Frank Skinner, Lee Mack
+- 2025-07-16 — Frank Skinner's Radio Days: Poncho — speakers: Frank Skinner
 - 2025-07-14 — Harriet Kemsley — speakers: Harriet Kemsley, Frank Skinner
 - 2025-07-11 — The Blu — speakers: Frank Skinner
-- 2025-07-09 — Frank Skinner’s Radio Days: Competition — speakers: Frank Skinner, Frank Skinner’s Radio Days, Emily Dean, Gareth Richards
-- 2025-07-07 — Message Centre — speakers: Molly Malone, Frank Skinner
+- 2025-07-09 — Frank Skinner’s Radio Days: Competition — speakers: Frank Skinner, Frank Skinner’s Radio Days
+- 2025-07-07 — Message Centre — speakers: Frank Skinner
 - 2025-07-04 — Pierre Bronzed — speakers: Pierre Bronzed, Frank Skinner
 - 2025-07-02 — Frank Skinner's Radio Days: Keyrings — speakers: Frank Skinner
 - 2025-06-30 — Nut Paste — speakers: Hans Christian Anderson, Frank Skinner
@@ -23489,14 +22928,14 @@
 - 2025-06-25 — Frank Skinner's Radio Days: Anchovies — speakers: Frank Skinner
 - 2025-06-23 — Mark Watson — speakers: Mark Watson, Frank Skinner
 - 2025-06-20 — Flossing — speakers: Frank Skinner
-- 2025-06-18 — Frank Skinner's Radio Days: Bathtime — speakers: Frank Skinner, Emily Dean, Gareth Richards, Alan Sugar
-- 2025-06-16 — Pinkie — speakers: Paul McCartney, Frank Skinner
+- 2025-06-18 — Frank Skinner's Radio Days: Bathtime — speakers: Frank Skinner
+- 2025-06-16 — Pinkie — speakers: Frank Skinner
 - 2025-06-13 — Ghostbusters Day — speakers: Frank Skinner
-- 2025-06-09 — Contact Lenses — speakers: Hungry Frank, Dr Who Finale, Frank Skinner
+- 2025-06-09 — Contact Lenses — speakers: Hungry Frank, Frank Skinner
 - 2025-06-06 — Three-Cornered Hat — speakers: Frank Skinner
-- 2025-06-02 — Sky Writing — speakers: Sky Writing, Daunt Book, Frank Skinner
+- 2025-06-02 — Sky Writing — speakers: Sky Writing, Frank Skinner
 - 2025-05-30 — Really Stylish — speakers: Frank Skinner
-- 2025-05-26 — Catman — speakers: Top Cat, Frank Skinner
+- 2025-05-26 — Catman — speakers: Frank Skinner
 - 2025-05-23 — Beach Holiday — speakers: Steven Wilson, Frank Skinner
 - 2025-05-19 — Suzi Ruffell — speakers: Suzi Ruffell, Frank Skinner
 - 2025-05-16 — Registrar's Ink — speakers: Frank Skinner
@@ -23514,7 +22953,7 @@
 - 2025-04-04 — Dench — speakers: Steve Hall, Frank Skinner
 - 2025-03-31 — Row O — speakers: Frank Skinner
 - 2025-03-28 — Possible Nuisance — speakers: Frank Skinner
-- 2025-03-24 — Josh Widdicombe — speakers: Josh Widdicombe, Michael McIntyre, Frank Skinner
+- 2025-03-24 — Josh Widdicombe — speakers: Josh Widdicombe, Frank Skinner
 - 2025-03-21 — Tradwife — speakers: Frank Skinner
 - 2025-03-17 — Capybara Cafe — speakers: Capybara Cafe, Frank Skinner
 - 2025-03-14 — The Treasures — speakers: Frank Skinner
@@ -23535,12 +22974,12 @@
 - 2025-01-20 — Life-sized Dalek — speakers: Frank Skinner
 - 2025-01-17 — Achingly Hip — speakers: Frank Skinner
 - 2025-01-13 — Footie Anthem — speakers: Footie Anthem Frank, Frank Skinner
-- 2025-01-10 — Jewellers Eyepiece — speakers: Arnold Schwarzenegger, Frank Skinner
-- 2025-01-06 — Rave People — speakers: David Baddiel, Frank Skinner
+- 2025-01-10 — Jewellers Eyepiece — speakers: Frank Skinner
+- 2025-01-06 — Rave People — speakers: Frank Skinner
 - 2025-01-03 — Afterlife Interlude — speakers: Frank Skinner
 - 2025-01-01 — Frank Skinner's Poetry Podcast: Mona Van Duyn — speakers: Frank Skinner's Poetry, Mona Van Duyn Frank, Mona Van Duyn, Frank Skinner
-- 2024-12-30 — Rhino Pasty — speakers: Pasty Frank, Frank Skinner
-- 2024-12-27 — Sixty-Two Per Cent — speakers: Frank Skinner
+- 2024-12-30 — Rhino Pasty — speakers: Pasty Frank, Frank al, Frank Skinner
+- 2024-12-27 — Sixty-Two Per Cent — speakers: Two Per Cent Frank, Frank Skinner
 - 2024-12-25 — Frank Skinner's Poetry Podcast: Craig Raine — speakers: Frank Skinner's Poetry, Craig Raine Frank, Craig Raine, Frank Skinner
 - 2024-12-23 — Alf Bond — speakers: Frank Skinner
 - 2024-12-20 — French Tuck — speakers: Hair Botox, Frank Skinner
@@ -23550,89 +22989,89 @@
 - 2024-12-11 — Frank Skinner's Poetry Podcast: Seamus Heaney — speakers: Frank Skinner's Poetry, Seamus Heaney Frank, Seamus Heaney, Frank Skinner
 - 2024-12-09 — Dolls, wrestlers and reviews — speakers: Frank Skinner
 - 2024-12-06 — I went to your hood... — speakers: Frank Skinner
-- 2024-12-04 — Frank Skinner's Poetry Podcast: Ruth Padel — speakers: Frank Skinner's Poetry, Ruth Padel, Elizabeth Spinet, Frank Skinner
+- 2024-12-04 — Frank Skinner's Poetry Podcast: Ruth Padel — speakers: Frank Skinner's Poetry, Ruth Padel, Frank Skinner
 - 2024-12-02 — Watermarked — speakers: Frank Skinner
 - 2024-11-29 — Plasticine Tabards — speakers: Frank Skinner
-- 2024-11-27 — Frank Skinner's Poetry Podcast: Frank O'Hara — speakers: Frank Skinner's Poetry, Frank O'Hara Frank, Frank O'Hara, Frank O’Hara, Frank Skinner
+- 2024-11-27 — Frank Skinner's Poetry Podcast: Frank O'Hara — speakers: Frank Skinner's Poetry, Frank O'Hara Frank, Frank O'Hara, Frank Skinner
 - 2024-11-25 — Crystal Warnings — speakers: Frank Skinner
-- 2024-11-22 — Statistically Come Dancing — speakers: Gabby Logan, Frank Skinner
+- 2024-11-22 — Statistically Come Dancing — speakers: Frank Skinner
 - 2024-11-20 — Frank Skinner's Poetry Podcast: Rebecca Hawkes — speakers: Frank Skinner's Poetry, Rebecca Hawkes, Frank Skinner
 - 2024-11-18 — Prankenstein — speakers: Ma Netflix, Frank Skinner
-- 2024-11-15 — Snooty Ghoul — speakers: Snooty Ghoul, Email Frank, Frank Skinner
+- 2024-11-15 — Snooty Ghoul — speakers: Snooty Ghoul, Frank Skinner
 - 2024-11-13 — Frank Skinner's Poetry Podcast: Dylan Thomas — speakers: Frank Skinner's Poetry, Dylan Thomas Frank, Dylan Thomas, Frank Skinner
 - 2024-11-11 — Bed Conspiracy — speakers: George Michael, Frank Skinner
 - 2024-11-08 — Orchard West — speakers: Frank Skinner
 - 2024-11-04 — Stocks and Stairs — speakers: Frank Skinner
-- 2024-11-01 — Back Seat Gymnast — speakers: Gabby Logan, Frank Skinner
+- 2024-11-01 — Back Seat Gymnast — speakers: Frank Skinner
 - 2024-10-28 — Remump — speakers: Frank Skinner
-- 2024-10-24 — Cherry Flavoured Sugar Sphere — speakers: Bruno Tonioli, Frank Skinner
-- 2024-10-20 — True Petty Crime — speakers: Frank Off, Frank Skinner
-- 2024-10-18 — This is all very well... — speakers: Frank Off, Frank Skinner
-- 2024-10-14 — A Butchers Heckle — speakers: Frank Skinner
-- 2024-10-11 — Speed Awareness — speakers: Frank Skinner, Pierre Novellie, Emily Dean, Frank Off
+- 2024-10-24 — Cherry Flavoured Sugar Sphere — speakers: Frank Skinner
+- 2024-10-20 — True Petty Crime — speakers: True Petty Crime Today, True Crime, Frank Skinner
+- 2024-10-18 — This is all very well... — speakers: Frank Skinner
+- 2024-10-14 — A Butchers Heckle — speakers: Butchers Heckle Where, Frank Skinner
+- 2024-10-11 — Speed Awareness — speakers: Frank Skinner
 - 2024-05-11 — Now Get Out — speakers: Frank Skinner
 - 2024-05-04 — Donald Duck's Brother — speakers: Donald Duck, Frank Skinner
-- 2024-04-27 — Apple Snooze — speakers: Frank Skinner, Seagull Boy
+- 2024-04-27 — Apple Snooze — speakers: Frank Skinner
 - 2024-04-20 — Pink Tape — speakers: Frank Skinner
 - 2024-04-13 — Phantom of the Lantern — speakers: Frank Skinner
-- 2024-04-06 — Chewing Globes — speakers: Frank Skinner, Harry Styles
-- 2024-03-30 — Haunted Plunger — speakers: Frank Skinner, Bertie Topham
+- 2024-04-06 — Chewing Globes — speakers: Frank Skinner
+- 2024-03-30 — Haunted Plunger — speakers: Frank Skinner
 - 2024-03-23 — Frank Sandwich — speakers: Frank Sandwich, Frank Skinner
 - 2024-03-16 — White Trainers — speakers: Frank Skinner
 - 2024-03-09 — Nepo Nan — speakers: Nepo Nan, Frank Skinner
-- 2024-03-02 — Beef Art — speakers: Beef Art Frank Skinner, Mr Piper, Frank Skinner
+- 2024-03-02 — Beef Art — speakers: Beef Art Frank Skinner, Frank Skinner
 - 2024-02-24 — ABBA-salute — speakers: Frank Skinner
-- 2024-02-17 — Remote Sandwich Bag — speakers: Frank Skinner, Steve Hall
-- 2024-02-10 — The Old Mattress — speakers: Frank Skinner, Steve Hall
+- 2024-02-17 — Remote Sandwich Bag — speakers: Frank Skinner
+- 2024-02-10 — The Old Mattress — speakers: Frank Skinner
 - 2024-02-03 — Frisbee Dog — speakers: Frank Skinner
 - 2024-01-27 — Salisbury Rat — speakers: Frank Skinner
-- 2024-01-20 — Flintstone's Gown — speakers: Frank Skinner, Kim Jong Un
-- 2024-01-13 — Mellow Frank — speakers: Mellow Frank Frank Skinner, Andrew Lloyd Webber, Frank Skinner
-- 2024-01-06 — A Shabby Year — speakers: Frank Skinner, Zombie Takis, Elvis Evolution
+- 2024-01-20 — Flintstone's Gown — speakers: Frank Skinner
+- 2024-01-13 — Mellow Frank — speakers: Mellow Frank Frank Skinner, Frank Skinner
+- 2024-01-06 — A Shabby Year — speakers: Frank Skinner
 - 2023-12-30 — Best Of 2023 – Part 2 — speakers: Frank Skinner
 - 2023-12-23 — Best Of 2023 – Part 1 — speakers: Frank Skinner
 - 2023-12-16 — Radiator Key — speakers: Radiator Key Frank Skinner, Frank Skinner
-- 2023-12-09 — Paddington Puma — speakers: Paddington Puma, Frank Skinner, Santa Paws
-- 2023-12-02 — 24 Carrots — speakers: Frank Skinner, Salt Bae
-- 2023-11-25 — Ghost Wish — speakers: Frank Skinner, Ian Broudie
-- 2023-11-18 — Dry Rectangle — speakers: Dry Rectangle, Frank Skinner, Steve Hall, John Lewis
-- 2023-11-11 — Three John Jig — speakers: John Jig, Frank Skinner, Tufty Fluffytail
-- 2023-11-04 — Sans Boba — speakers: Sans Boba, Frank Skinner, Tim Key
+- 2023-12-09 — Paddington Puma — speakers: Paddington Puma, Frank Skinner
+- 2023-12-02 — 24 Carrots — speakers: Frank Skinner
+- 2023-11-25 — Ghost Wish — speakers: Frank Skinner
+- 2023-11-18 — Dry Rectangle — speakers: Dry Rectangle, Frank Skinner
+- 2023-11-11 — Three John Jig — speakers: John Jig, Frank Skinner
+- 2023-11-04 — Sans Boba — speakers: Sans Boba, Frank Skinner
 - 2023-10-28 — Little Plunger — speakers: Frank Skinner
-- 2023-10-21 — Geordie Bond — speakers: Geordie Bond, Frank Skinner, Ross Noble
+- 2023-10-21 — Geordie Bond — speakers: Geordie Bond, Frank Skinner
 - 2023-10-14 — Milk Week — speakers: Frank Skinner
 - 2023-10-07 — Coffee Claw — speakers: Coffee Claw, Frank Skinner
-- 2023-09-30 — Mass Naughty Step — speakers: Frank Skinner, Dave Berry
+- 2023-09-30 — Mass Naughty Step — speakers: Frank Skinner
 - 2023-09-23 — Cloth Fireplace — speakers: Cloth Fireplace, Frank Skinner
 - 2023-09-16 — Novelty Eggbox — speakers: Frank Skinner
 - 2023-09-09 — Vegan Dracula — speakers: Dracula Frank Skinner, Frank Skinner
 - 2023-09-02 — Unscrupulous Retailers — speakers: Unscrupulous Retailers, Frank Skinner
-- 2023-08-26 — Space Dumplings — speakers: Frank Skinner, Chloe Petts
+- 2023-08-26 — Space Dumplings — speakers: Frank Skinner
 - 2023-08-19 — George Clowney — speakers: George Clowney, Frank Skinner
 - 2023-08-12 — Skinnellie — speakers: Frank Skinner
-- 2023-08-05 — Silly Gymnastics — speakers: Frank Skinner, Steve Hall
-- 2023-07-29 — In Many Ways — speakers: Frank Skinner, Steve Hall
+- 2023-08-05 — Silly Gymnastics — speakers: Frank Skinner
+- 2023-07-29 — In Many Ways — speakers: Frank Skinner
 - 2023-07-22 — Ick Watch — speakers: Frank Skinner
-- 2023-07-15 — Husband Material — speakers: Husband Material, Frank Skinner, Craig David
-- 2023-07-08 — Metal Faux Pas — speakers: Frank Skinner, Iron Maiden
-- 2023-07-01 — Kennel Cough — speakers: Frank Skinner, Elton John
+- 2023-07-15 — Husband Material — speakers: Husband Material, Frank Skinner
+- 2023-07-08 — Metal Faux Pas — speakers: Frank Skinner
+- 2023-07-01 — Kennel Cough — speakers: Frank Skinner
 - 2023-06-24 — Geometric Mowing — speakers: Geometric Mowing, Frank Skinner
 - 2023-06-17 — Transparent Toaster — speakers: Frank Skinner
 - 2023-06-10 — Monsieur Frites — speakers: Monsieur Frites, Frank Skinner
 - 2023-06-03 — Neville's Novels — speakers: Frank Skinner
-- 2023-05-27 — Travel Toothbrush — speakers: Frank Skinner, Steve Hall, Jak Malone, Natasha Hodgson
+- 2023-05-27 — Travel Toothbrush — speakers: Frank Skinner
 - 2023-05-20 — Sheffield Contrivance — speakers: Frank Skinner
-- 2023-05-13 — Judge Genie — speakers: Frank Skinner, Edgar Allen Poe
-- 2023-05-06 — Publicly Oiled — speakers: Frank Skinner, Sara Barron
+- 2023-05-13 — Judge Genie — speakers: Frank Skinner
+- 2023-05-06 — Publicly Oiled — speakers: Frank Skinner
 - 2023-04-29 — Eyes Guys — speakers: Frank Skinner
 - 2023-04-22 — Royal Mat — speakers: Royal Mat, Frank Skinner
 - 2023-04-15 — Neckshavers — speakers: Frank Skinner
 - 2023-04-09 — The Best Bits of Gareth Richards — speakers: Frank Skinner
-- 2023-04-08 — Best Bits — speakers: Frank Skinner, Frank’s Birthday
-- 2023-04-01 — R. Gymlad — speakers: Frank Skinner, April Fool
-- 2023-03-25 — Internet Nostalgia — speakers: Frank Skinner, Pixie Lott
-- 2023-03-18 — Only Franks — speakers: Frank Skinner, Hugh Grant
-- 2023-03-11 — Handshake Tutorial — speakers: Frank Skinner, Comic Con
+- 2023-04-08 — Best Bits — speakers: Frank Skinner
+- 2023-04-01 — R. Gymlad — speakers: Frank Skinner
+- 2023-03-25 — Internet Nostalgia — speakers: Frank Skinner
+- 2023-03-18 — Only Franks — speakers: Frank Skinner
+- 2023-03-11 — Handshake Tutorial — speakers: Frank Skinner
 - 2023-03-04 — Child Catcher-Outer — speakers: Frank Skinner
 - 2023-02-25 — Frankie Boil — speakers: Frankie Boil Frank Skinner, Frank Skinner
 - 2023-02-18 — Clog Regret — speakers: Frank Skinner
@@ -23641,317 +23080,317 @@
 - 2023-01-28 — Vintage Gouda — speakers: Vintage Gouda, Frank Skinner
 - 2023-01-21 — Car Tongs — speakers: Frank Skinner
 - 2023-01-14 — Thoughtless Archery — speakers: Frank Skinner
-- 2023-01-07 — Frank Skinner MBE — speakers: Frank Skinner Mbe, Frank Skinner, Metal Dad
-- 2022-12-31 — Best Of 2022 – Part 2 — speakers: Frank Skinner, Frank’s Royal Variety
+- 2023-01-07 — Frank Skinner MBE — speakers: Frank Skinner Mbe, Frank Skinner
+- 2022-12-31 — Best Of 2022 – Part 2 — speakers: Frank Skinner
 - 2022-12-24 — Best Of 2022 – Part 1 — speakers: Frank Skinner
-- 2022-12-17 — Butter Ceiling — speakers: Frank Skinner, Pierre Novellie
-- 2022-12-10 — Totally Tunnock's — speakers: Frank Skinner, Steve Hall
-- 2022-12-03 — Spiritual Selfie — speakers: Frank Skinner, Pierre Novellie, Tim Key
-- 2022-11-26 — Cat Saliva — speakers: Cat Saliva, Frank Skinner, Pierre Novellie, David Baddiel, Terry Butcher, Comic Con, Ross Noble
-- 2022-11-19 — Man Bat — speakers: Man Bat Frank Skinner, Angela Barnes, David Baddiel, Fray Bentos, Frank Skinner
-- 2022-11-12 — The GAC — speakers: Frank Skinner, Pierre Novellie
-- 2022-11-05 — Nordic Walking — speakers: Nordic Walking, Frank Skinner, Pierre Novellie, Comic Con
-- 2022-10-29 — Austerity Clipboard — speakers: Frank Skinner, Pierre Novellie
-- 2022-10-22 — Obviously, Milk — speakers: Frank Skinner, Pierre Novellie
+- 2022-12-17 — Butter Ceiling — speakers: Frank Skinner
+- 2022-12-10 — Totally Tunnock's — speakers: Frank Skinner
+- 2022-12-03 — Spiritual Selfie — speakers: Frank Skinner
+- 2022-11-26 — Cat Saliva — speakers: Cat Saliva, Frank Skinner
+- 2022-11-19 — Man Bat — speakers: Man Bat Frank Skinner, Frank Skinner
+- 2022-11-12 — The GAC — speakers: Frank Skinner
+- 2022-11-05 — Nordic Walking — speakers: Nordic Walking, Frank Skinner
+- 2022-10-29 — Austerity Clipboard — speakers: Frank Skinner
+- 2022-10-22 — Obviously, Milk — speakers: Frank Skinner
 - 2022-10-15 — Custom Kicks — speakers: Custom Kicks, Frank Skinner
-- 2022-10-08 — Frank Strictly — speakers: Frank Strictly, Frank Skinner, Steve Hall
-- 2022-10-01 — Monster Munchies — speakers: Frank Skinner, Pierre Novellie, Fantasy Football, David Baddiel, Ian Broudie
-- 2022-09-24 — Anti-Stylist — speakers: Frank Skinner, Pierre Novellie
+- 2022-10-08 — Frank Strictly — speakers: Frank Strictly, Frank Skinner
+- 2022-10-01 — Monster Munchies — speakers: Frank Skinner
+- 2022-09-24 — Anti-Stylist — speakers: Frank Skinner
 - 2022-09-17 — The Queue — speakers: Frank Skinner
-- 2022-09-03 — Short King — speakers: Frank Skinner, Pierre Novellie, Lewis Hamilton
-- 2022-08-27 — Rinse Aid — speakers: Frank Skinner, Steve Hall
+- 2022-09-03 — Short King — speakers: Frank Skinner
+- 2022-08-27 — Rinse Aid — speakers: Frank Skinner
 - 2022-08-20 — Saloon Bath — speakers: Saloon Bath, Frank Skinner
-- 2022-08-13 — Mike Drop — speakers: Mike Drop, Frank Skinner, Hunter Gatherer
-- 2022-08-06 — The EFA — speakers: Frank Skinner, Steve Hall
-- 2022-07-30 — Shame Bread — speakers: Shame Bread, Frank Skinner, Pierre Novellie
-- 2022-07-23 — Moggie’s Grub — speakers: Moggie’s Grub, Frank Skinner, Pierre Novellie
-- 2022-07-16 — Big Green Egg — speakers: Frank Skinner, Pierre Novellie
+- 2022-08-13 — Mike Drop — speakers: Mike Drop, Frank Skinner
+- 2022-08-06 — The EFA — speakers: Frank Skinner
+- 2022-07-30 — Shame Bread — speakers: Shame Bread, Frank Skinner
+- 2022-07-23 — Moggie’s Grub — speakers: Moggie’s Grub, Frank Skinner
+- 2022-07-16 — Big Green Egg — speakers: Frank Skinner
 - 2022-07-09 — Tubular Pillows — speakers: Tubular Pillows, Frank Skinner
 - 2022-07-02 — Basil Bush — speakers: Basil Bush, Frank Skinner
-- 2022-06-25 — Bluff Cove — speakers: Frank Skinner, Pierre Novellie, Katy Perry
-- 2022-06-18 — Cake Bin — speakers: Cake Bin, Frank Skinner, Pierre Novellie
-- 2022-06-11 — Scarlet Ribbons — speakers: Frank Skinner, Angela Barnes
-- 2022-06-04 — Platty Joobs — speakers: Platty Joobs, Frank Skinner, Chloe Petts
-- 2022-05-28 — Mr. Shirt — speakers: Frank Skinner, Sara Barron, Alice Cooper
-- 2022-05-21 — Toddling Town — speakers: Frank Skinner, Sara Barron, Sara’s bin
+- 2022-06-25 — Bluff Cove — speakers: Frank Skinner
+- 2022-06-18 — Cake Bin — speakers: Cake Bin, Frank Skinner
+- 2022-06-11 — Scarlet Ribbons — speakers: Frank Skinner
+- 2022-06-04 — Platty Joobs — speakers: Platty Joobs, Frank Skinner
+- 2022-05-28 — Mr. Shirt — speakers: Frank Skinner
+- 2022-05-21 — Toddling Town — speakers: Frank Skinner
 - 2022-05-14 — Charlie Chipshop — speakers: Charlie Chipshop, Frank Skinner
-- 2022-05-07 — Beef Chops — speakers: Beef Chops, Frank Skinner, Chloe Petts
-- 2022-04-30 — Sans Poultry — speakers: Frank Skinner, King Noodle
+- 2022-05-07 — Beef Chops — speakers: Beef Chops, Frank Skinner
+- 2022-04-30 — Sans Poultry — speakers: Frank Skinner
 - 2022-04-23 — Caramac Shoes — speakers: Caramac Shoes, Frank Skinner
-- 2022-04-16 — Bread CD — speakers: Frank Skinner, Al Pacino
-- 2022-04-09 — Occasional Clooney — speakers: Occasional Clooney, Frank Skinner, John Travolta
+- 2022-04-16 — Bread CD — speakers: Frank Skinner
+- 2022-04-09 — Occasional Clooney — speakers: Occasional Clooney, Frank Skinner
 - 2022-04-02 — Traditional Lypsyl — speakers: Traditional Lypsyl, Frank Skinner
-- 2022-03-26 — Frankspeare — speakers: Frankspeare Frank Skinner, Pierre Novellie, Frank Skinner
-- 2022-03-19 — Shark Song — speakers: Shark Song, Frank Skinner, Rod Stewart
+- 2022-03-26 — Frankspeare — speakers: Frankspeare Frank Skinner, Frank Skinner
+- 2022-03-19 — Shark Song — speakers: Shark Song, Frank Skinner
 - 2022-03-12 — Slugs and Lies — speakers: Frank Skinner
-- 2022-03-05 — Little Else — speakers: Frank Skinner, Robert Pattinson’s Batman
-- 2022-02-26 — Water-Palaver — speakers: Frank Skinner, Pierre Novellie
-- 2022-02-19 — Anglo-Saxophonist — speakers: Frank Skinner, Pierre Novellie
-- 2022-02-12 — Monkey Picture — speakers: Frank Skinner, Alun’s Birthday, Tim Key, Mulberry Bush
+- 2022-03-05 — Little Else — speakers: Frank Skinner
+- 2022-02-26 — Water-Palaver — speakers: Frank Skinner
+- 2022-02-19 — Anglo-Saxophonist — speakers: Frank Skinner
+- 2022-02-12 — Monkey Picture — speakers: Frank Skinner
 - 2022-02-06 — Dalek Decor — speakers: Dalek Decor, Frank Skinner
-- 2022-01-29 — Ain’t Alerts — speakers: Frank Skinner, Frank’s Birthday
+- 2022-01-29 — Ain’t Alerts — speakers: Frank Skinner
 - 2022-01-22 — Cosmic Ordering — speakers: Frank Skinner
 - 2022-01-20 — Frank Skinner's Poetry Podcast: Caroline Bird — speakers: Frank Skinner's Poetry, Caroline Bird Frank, Caroline Bird, Frank Skinner
 - 2022-01-15 — Ragamuffin Button — speakers: Ragamuffin Button, Frank Skinner
 - 2022-01-08 — Community Singing — speakers: Frank Skinner
-- 2022-01-01 — Best Of 2021- Part 2 — speakers: Frank Skinner, Elton John
-- 2021-12-25 — Best of 2021 – Part 1 — speakers: Frank Skinner, Lil Uzi, John Lewis
+- 2022-01-01 — Best Of 2021- Part 2 — speakers: Frank Skinner
+- 2021-12-25 — Best of 2021 – Part 1 — speakers: Frank Skinner
 - 2021-12-18 — Cake Workout — speakers: Cake Workout, Frank Skinner
 - 2021-12-11 — Magi FM — speakers: Frank Skinner
-- 2021-12-04 — Scent Donation — speakers: Frank Skinner, Gary Oldman
+- 2021-12-04 — Scent Donation — speakers: Frank Skinner
 - 2021-11-27 — Candy Kane — speakers: Candy Kane, Frank Skinner
-- 2021-11-20 — Previously Loathed — speakers: Frank Skinner, Ebanana Scrooge
-- 2021-11-13 — Frank Vindicated — speakers: Frank Vindicated, Frank Skinner, John Lewis, Les Dennis
+- 2021-11-20 — Previously Loathed — speakers: Frank Skinner
+- 2021-11-13 — Frank Vindicated — speakers: Frank Vindicated, Frank Skinner
 - 2021-11-06 — Chicken Squash — speakers: Chicken Squash, Frank Skinner
-- 2021-10-30 — Witchell Hunt — speakers: Witchell Hunt, Frank Skinner, Tom Hank, Hugh Jackman
-- 2021-10-23 — Big Eggo — speakers: Frank Skinner, Nigel Fest
+- 2021-10-30 — Witchell Hunt — speakers: Witchell Hunt, Frank Skinner
+- 2021-10-23 — Big Eggo — speakers: Frank Skinner
 - 2021-10-16 — Denim Samosa — speakers: Frank Skinner
 - 2021-10-09 — Norton Canes — speakers: Norton Canes, Frank Skinner
-- 2021-10-02 — Special Trousers — speakers: Frank Skinner, Salt Bae, Victoria Beckham
-- 2021-09-25 — Sage Advice — speakers: Frank Skinner, Liam Gallagher, Nicole Richie’s Birthday
-- 2021-09-18 — Short Island — speakers: Frank Skinner, Emma Raducanu
+- 2021-10-02 — Special Trousers — speakers: Frank Skinner
+- 2021-09-25 — Sage Advice — speakers: Frank Skinner
+- 2021-09-18 — Short Island — speakers: Frank Skinner
 - 2021-09-11 — Adventurous Nana — speakers: Adventurous Nana Frank Skinner, Frank Skinner
-- 2021-09-04 — Michael Rove — speakers: Michael Rove, Frank Skinner, Michael Gove
-- 2021-08-28 — Frank Skimmers — speakers: Frank Skimmers, Frank Skinner, Tom Cruise
+- 2021-09-04 — Michael Rove — speakers: Michael Rove, Frank Skinner
+- 2021-08-28 — Frank Skimmers — speakers: Frank Skimmers, Frank Skinner
 - 2021-08-21 — Emotional Owl — speakers: Frank Skinner
 - 2021-08-14 — Nearness Detectors — speakers: Frank Skinner
-- 2021-08-07 — Merry-Hill Streep — speakers: Merry-Hill Streep, Frank Skinner, Tom Daley, Ben Whittaker
+- 2021-08-07 — Merry-Hill Streep — speakers: Merry-Hill Streep, Frank Skinner
 - 2021-07-31 — Pokemon Alarm Clock — speakers: Pokemon Alarm Clock, Frank Skinner
 - 2021-07-24 — Archers-Rivals — speakers: Frank Skinner
-- 2021-07-17 — Elon Dusk — speakers: Elon Dusk, Frank Skinner, Richard Branson
-- 2021-07-10 — It’s Adjacent — speakers: Frank Skinner, Declan Rice
-- 2021-07-03 — Kloppelganger — speakers: Kloppelganger Frank Skinner, Thomas Becket, Frank Skinner
-- 2021-06-26 — Central Pork — speakers: Central Pork, Frank Skinner, Courteney Cox
-- 2021-06-19 — Joe Bison — speakers: Joe Bison, Frank Skinner, Martin Lewis, Graeme Souness
-- 2021-06-12 — Prank Skinner — speakers: Frank Skinner, Matt Forde
+- 2021-07-17 — Elon Dusk — speakers: Elon Dusk, Frank Skinner
+- 2021-07-10 — It’s Adjacent — speakers: Frank Skinner
+- 2021-07-03 — Kloppelganger — speakers: Kloppelganger Frank Skinner, Frank Skinner
+- 2021-06-26 — Central Pork — speakers: Central Pork, Frank Skinner
+- 2021-06-19 — Joe Bison — speakers: Joe Bison, Frank Skinner
+- 2021-06-12 — Prank Skinner — speakers: Frank Skinner
 - 2021-06-05 — Erica? — speakers: Frank Skinner
 - 2021-05-29 — Leather Versace Dungarees — speakers: Versace Dungarees, Frank Skinner
 - 2021-05-22 — Robe Window — speakers: Robe Window, Frank Skinner
 - 2021-05-20 — Frank Skinner's Poetry Podcast: Ella Frears — speakers: Frank Skinner's Poetry, Frank Skinner
-- 2021-05-15 — Martin Mingle — speakers: Martin Mingle, Frank Skinner, Jaffa Cake
-- 2021-05-08 — Ade Memoir — speakers: Frank Skinner, Harry Redknapp
+- 2021-05-15 — Martin Mingle — speakers: Martin Mingle, Frank Skinner
+- 2021-05-08 — Ade Memoir — speakers: Frank Skinner
 - 2021-05-01 — Dennis Mann — speakers: Dennis Mann, Frank Skinner
-- 2021-04-24 — Bill Quailey — speakers: Bill Quailey, Frank Skinner, Jose Mourinho
-- 2021-04-17 — Bordoodle — speakers: Frank Skinner, Gareth Richards, Gemma Collins
+- 2021-04-24 — Bill Quailey — speakers: Bill Quailey, Frank Skinner
+- 2021-04-17 — Bordoodle — speakers: Frank Skinner
 - 2021-04-10 — Half Birmingham — speakers: Frank Skinner
-- 2021-04-03 — Mumpire — speakers: Frank Skinner, Andy Murray
-- 2021-03-27 — Snored of the Rings — speakers: Frank Skinner, Orlando Bloom
+- 2021-04-03 — Mumpire — speakers: Frank Skinner
+- 2021-03-27 — Snored of the Rings — speakers: Frank Skinner
 - 2021-03-20 — Chez Bentos — speakers: Chez Bentos, Frank Skinner
 - 2021-03-13 — Versace Zone — speakers: Versace Zone, Frank Skinner
-- 2021-03-06 — Gold Braces — speakers: Frank Skinner, Lil Uzi
+- 2021-03-06 — Gold Braces — speakers: Frank Skinner
 - 2021-02-27 — Lenny Lottery — speakers: Lenny Lottery, Frank Skinner
-- 2021-02-20 — Vintage Ski — speakers: Vintage Ski, Frank Skinner, Valentine’s Day
-- 2021-02-06 — Teddy Doffing — speakers: Teddy Doffing, Frank Skinner, Stewart Lee, King Rocker
+- 2021-02-20 — Vintage Ski — speakers: Vintage Ski, Frank Skinner
+- 2021-02-06 — Teddy Doffing — speakers: Teddy Doffing, Frank Skinner
 - 2021-01-30 — Baggage Retrieval — speakers: Frank Skinner
-- 2021-01-23 — Running Backwards — speakers: Running Backwards, Frank Skinner, Lembit Opik
+- 2021-01-23 — Running Backwards — speakers: Running Backwards, Frank Skinner
 - 2021-01-16 — Orvilla — speakers: Frank Skinner
-- 2021-01-09 — 100 Hours — speakers: Frank Skinner, Hampstead Heath
+- 2021-01-09 — 100 Hours — speakers: Frank Skinner
 - 2021-01-02 — Best of 2020 - Part 2 — speakers: Frank Skinner
-- 2020-12-26 — Best of 2020 - Part 1 — speakers: Frank Skinner, Elton John
+- 2020-12-26 — Best of 2020 - Part 1 — speakers: Frank Skinner
 - 2020-12-19 — Swazzle — speakers: Frank Skinner
-- 2020-12-12 — Give Us A Clooney — speakers: Frank Skinner, George Clooney
+- 2020-12-12 — Give Us A Clooney — speakers: Frank Skinner
 - 2020-12-05 — Unaccompanied Conditioner — speakers: Frank Skinner
-- 2020-11-28 — Miss Givings — speakers: Frank Skinner, Wayne Rooney’s Blackberry
-- 2020-11-21 — Keeping for Best — speakers: Frank Skinner, George Clooney
+- 2020-11-28 — Miss Givings — speakers: Frank Skinner
+- 2020-11-21 — Keeping for Best — speakers: Frank Skinner
 - 2020-11-14 — Lady Friend — speakers: Lady Friend, Frank Skinner
 - 2020-11-07 — Chart Throbs — speakers: Chart Throbs, Frank Skinner
-- 2020-10-31 — Compliment Slip — speakers: Compliment Slip, Frank Skinner, Harry Styles
-- 2020-10-24 — Frisbee of Hope — speakers: Frank Skinner, Sarah Champion
+- 2020-10-31 — Compliment Slip — speakers: Compliment Slip, Frank Skinner
+- 2020-10-24 — Frisbee of Hope — speakers: Frank Skinner
 - 2020-10-17 — That's Hull — speakers: Frank Skinner
 - 2020-10-10 — Purple Rinse — speakers: Purple Rinse, Frank Skinner
-- 2020-10-03 — Spinal Ribbon — speakers: Frank Skinner, Steve Hall
-- 2020-09-28 — Frank Skinner's Poetry Podcast: Liz Berry — speakers: Frank Skinner's Poetry, Liz Berry Frank, Liz Berry, Birmingham Roller, Liz Berry Birmingham Roller, Liz Berry Learn, Frank Skinner
-- 2020-09-26 — The Silver Foil — speakers: Frank Skinner, Aleister Crowley
+- 2020-10-03 — Spinal Ribbon — speakers: Frank Skinner
+- 2020-09-28 — Frank Skinner's Poetry Podcast: Liz Berry — speakers: Frank Skinner's Poetry, Liz Berry Frank, Frank Skinner
+- 2020-09-26 — The Silver Foil — speakers: Frank Skinner
 - 2020-09-21 — Frank Skinner's Poetry Podcast Series 2 Trailer — speakers: Frank Skinner's Poetry, Frank Skinner
 - 2020-09-19 — Applause Withdrawl — speakers: Frank Skinner
-- 2020-09-12 — Coulsdon — speakers: Frank Skinner, Kim Jong-un
-- 2020-09-05 — Spider Keeper — speakers: Spider Keeper Frank Skinner, David Blaine’s Ascension, Frank Skinner
-- 2020-08-29 — In-between Crocs — speakers: Frank Skinner, Tom Cruise
-- 2020-08-22 — Medicine Ball — speakers: Medicine Ball Frank Skinner, Gareth Richards, Frank Skinner
-- 2020-08-15 — Message In A Bauble — speakers: Frank Skinner, Damon Albarn, Sam Fender
+- 2020-09-12 — Coulsdon — speakers: Frank Skinner
+- 2020-09-05 — Spider Keeper — speakers: Spider Keeper Frank Skinner, Frank Skinner
+- 2020-08-29 — In-between Crocs — speakers: Frank Skinner
+- 2020-08-22 — Medicine Ball — speakers: Medicine Ball Frank Skinner, Frank Skinner
+- 2020-08-15 — Message In A Bauble — speakers: Frank Skinner
 - 2020-08-08 — Three Stags — speakers: Frank Skinner
-- 2020-08-01 — Promotion Pipe — speakers: Frank Skinner, Elton John
-- 2020-07-25 — Till-Ribbon — speakers: Frank Skinner, Twin Peaks
+- 2020-08-01 — Promotion Pipe — speakers: Frank Skinner
+- 2020-07-25 — Till-Ribbon — speakers: Frank Skinner
 - 2020-07-18 — Seagull Bender — speakers: Seagull Bender, Frank Skinner
-- 2020-07-11 — The Yorkie Lyrics — speakers: Frank Skinner, Elton John, Jess Glynne, Emily’s Birthday
+- 2020-07-11 — The Yorkie Lyrics — speakers: Frank Skinner
 - 2020-07-04 — Bear Grills — speakers: Bear Grills, Frank Skinner
 - 2020-06-27 — Loch Down — speakers: Loch Down, Frank Skinner
-- 2020-06-20 — Day Owls — speakers: Frank Skinner, Robbie Williams
-- 2020-06-13 — Overt Recycling — speakers: Overt Recycling, Frank Skinner, Prince Philip’s Birthday
-- 2020-06-06 — The Mice — speakers: Frank Skinner, Joe Wicks
+- 2020-06-20 — Day Owls — speakers: Frank Skinner
+- 2020-06-13 — Overt Recycling — speakers: Overt Recycling, Frank Skinner
+- 2020-06-06 — The Mice — speakers: Frank Skinner
 - 2020-05-30 — Plum Tree — speakers: Plum Tree, Frank Skinner
 - 2020-05-23 — High Fashion Tunic — speakers: Frank Skinner
 - 2020-05-16 — Lime Barrels — speakers: Frank Skinner
-- 2020-05-09 — Cupid’s Bow — speakers: Frank Skinner, Kim Jong-un
+- 2020-05-09 — Cupid’s Bow — speakers: Frank Skinner
 - 2020-05-02 — Buzz Cut — speakers: Buzz Cut, Frank Skinner
 - 2020-04-25 — Outdoor Piano — speakers: Outdoor Piano, Frank Skinner
-- 2020-04-22 — Frank Skinner's Poetry Podcast: Stevie Smith and William Carlos Williams — speakers: Frank Skinner's Poetry, Stevie Smith, William Carlos Williams, Frank Skinner, Stevie Smith's Not Waving
-- 2020-04-18 — Romanian Ham — speakers: Romanian Ham, Frank Skinner, Paul McCartney
+- 2020-04-22 — Frank Skinner's Poetry Podcast: Stevie Smith and William Carlos Williams — speakers: Frank Skinner's Poetry, Stevie Smith, William Carlos Williams, Frank Skinner
+- 2020-04-18 — Romanian Ham — speakers: Romanian Ham, Frank Skinner
 - 2020-04-11 — Campervan Gough — speakers: Campervan Gough, Frank Skinner
 - 2020-04-04 — Mask Fashion — speakers: Frank Skinner
-- 2020-03-28 — Linen Basket — speakers: Linen Basket, Frank Skinner, Joe Wicks
+- 2020-03-28 — Linen Basket — speakers: Linen Basket, Frank Skinner
 - 2020-03-21 — Best Of Show — speakers: Frank Skinner
-- 2020-03-14 — Wasps in Windows — speakers: Frank Skinner, Tim Key
+- 2020-03-14 — Wasps in Windows — speakers: Frank Skinner
 - 2020-03-07 — Madonna Mic — speakers: Madonna Mic, Frank Skinner
-- 2020-02-29 — Balsamic Glaze — speakers: Frank Skinner, Gareth Richards
+- 2020-02-29 — Balsamic Glaze — speakers: Frank Skinner
 - 2020-02-22 — The Styles Boy — speakers: Frank Skinner
 - 2020-02-15 — Glove Story — speakers: Glove Story, Frank Skinner
 - 2020-02-08 — Gracious Decline — speakers: Frank Skinner
-- 2020-02-01 — Pitt Closure — speakers: Frank Skinner, Brad Pitt
-- 2020-01-25 — Anti-charger — speakers: Frank Skinner, Frank’s Garrick, Peter Phillips
-- 2020-01-18 — Bacon Alarm Clock — speakers: Frank Skinner, Sandi Toksvig
+- 2020-02-01 — Pitt Closure — speakers: Frank Skinner
+- 2020-01-25 — Anti-charger — speakers: Frank Skinner
+- 2020-01-18 — Bacon Alarm Clock — speakers: Frank Skinner
 - 2020-01-11 — Reverse Derby — speakers: Frank Skinner
 - 2020-01-04 — Pool Slides — speakers: Frank Skinner
-- 2019-12-28 — The Frank Skinner Show - Best of 2019 - Part 2 — speakers: Frank Skinner, Frank’s Royal Variety Performance, Steven Moffat
+- 2019-12-28 — The Frank Skinner Show - Best of 2019 - Part 2 — speakers: Frank Skinner
 - 2019-12-21 — The Frank Skinner Show - Best of 2019 - Part 1 — speakers: Frank Skinner
-- 2019-12-14 — The Frank Skinner Show - Mock Crocs — speakers: Frank Skinner, Steven Moffat
+- 2019-12-14 — The Frank Skinner Show - Mock Crocs — speakers: Frank Skinner
 - 2019-12-07 — Hangs Solo — speakers: Hangs Solo Frank Skinner, Frank Skinner
 - 2019-11-30 — Miss-mas Card List — speakers: Frank Skinner
-- 2019-11-23 — Gary Bar-low — speakers: Gary Bar-low, Frank Skinner, Holly Walsh
-- 2019-11-16 — Leopard Print Leggings — speakers: Frank Skinner, Gareth Richards, John Lewis
+- 2019-11-23 — Gary Bar-low — speakers: Gary Bar-low, Frank Skinner
+- 2019-11-16 — Leopard Print Leggings — speakers: Frank Skinner
 - 2019-11-09 — Four Person Trifle — speakers: Frank Skinner
 - 2019-11-02 — The Frank Skinner Show – Crime Jazz — speakers: Frank Skinner
-- 2019-10-26 — Portable Hobby — speakers: Hobby Frank Skinner, Boiler Man, Kylie Jenner, Frank Skinner
-- 2019-10-19 — The Frank Skinner Show - The Squash (Now in full!) — speakers: Frank Skinner, Whipsnade Zoo
-- 2019-10-12 — The Frank Skinner Show - Rammstein Van — speakers: Frank Skinner, Email Corner
-- 2019-10-05 — The Frank Skinner Show - Under Pressure — speakers: Frank Skinner, Gareth Richards, Oliver Twist
+- 2019-10-26 — Portable Hobby — speakers: Hobby Frank Skinner, Frank Skinner
+- 2019-10-19 — The Frank Skinner Show - The Squash (Now in full!) — speakers: Frank Skinner
+- 2019-10-12 — The Frank Skinner Show - Rammstein Van — speakers: Frank Skinner
+- 2019-10-05 — The Frank Skinner Show - Under Pressure — speakers: Frank Skinner
 - 2019-09-28 — The Frank Skinner Show - Pringle Socks — speakers: Frank Skinner
 - 2019-09-21 — The Frank Skinner Show - Pepperccino — speakers: Frank Skinner
 - 2019-09-14 — The Frank Skinner Show - Bungle — speakers: Frank Skinner
 - 2019-09-07 — The Frank Skinner Show - Absolute Sense — speakers: Frank Skinner
-- 2019-08-31 — The Frank Skinner Show - Eg. Trousers — speakers: Frank Skinner, Bake Off, Ricky Hatton
-- 2019-08-24 — The Frank Skinner Show - Gwynnie Pig — speakers: Frank Skinner, Steve Hall, Jonathan Ross
-- 2019-08-17 — The Frank Skinner Show - Air Bagpipes — speakers: Frank Skinner, Gareth Richards
+- 2019-08-31 — The Frank Skinner Show - Eg. Trousers — speakers: Frank Skinner
+- 2019-08-24 — The Frank Skinner Show - Gwynnie Pig — speakers: Frank Skinner
+- 2019-08-17 — The Frank Skinner Show - Air Bagpipes — speakers: Frank Skinner
 - 2019-08-10 — The Frank Skinner Show - Haggis Burrito — speakers: Frank Skinner
 - 2019-08-03 — The Frank Skinner Show - Biggins to Brush — speakers: Frank Skinner
 - 2019-07-27 — The Frank Skinner Show - Life of Carbs — speakers: Frank Skinner
 - 2019-07-20 — The Frank Skinner Show - Kenneth Zohore — speakers: Frank Skinner
-- 2019-07-13 — The Frank Skinner Show - Tiny Du Monde — speakers: Frank Skinner, Barbra Streisand
-- 2019-07-06 — The Frank Skinner Show - Brusque Lightyear — speakers: Frank Skinner, Toy Story, Andy Murray
-- 2019-06-29 — The Frank Skinner Show - Michael Flat Lay — speakers: Frank Skinner, Tom Holland
-- 2019-06-22 — The Frank Skinner Show - Man-made Stirrup — speakers: Frank Skinner, Nick Cave
+- 2019-07-13 — The Frank Skinner Show - Tiny Du Monde — speakers: Frank Skinner
+- 2019-07-06 — The Frank Skinner Show - Brusque Lightyear — speakers: Frank Skinner
+- 2019-06-29 — The Frank Skinner Show - Michael Flat Lay — speakers: Frank Skinner
+- 2019-06-22 — The Frank Skinner Show - Man-made Stirrup — speakers: Frank Skinner
 - 2019-06-15 — The Frank Skinner Show - Official Scrunchie — speakers: Frank Skinner
 - 2019-06-08 — The Frank Skinner Show - Monsieur Legume — speakers: Frank Skinner
-- 2019-06-01 — The Frank Skinner Show - Deputy Dawg — speakers: Frank Skinner, Simon Cowell
+- 2019-06-01 — The Frank Skinner Show - Deputy Dawg — speakers: Frank Skinner
 - 2019-05-25 — The Frank Skinner Show - Lemon Float — speakers: Frank Skinner
 - 2019-05-18 — The Frank Skinner Show - Footwell Chaos — speakers: Frank Skinner
 - 2019-05-11 — The Frank Skinner Show - Simon Cowell Candle — speakers: Frank Skinner
-- 2019-05-04 — The Frank Skinner Show - Alun Cocktails — speakers: Frank Skinner, Ted Talk
+- 2019-05-04 — The Frank Skinner Show - Alun Cocktails — speakers: Frank Skinner
 - 2019-04-27 — The Frank Skinner Show - B-Cons — speakers: Frank Skinner
 - 2019-04-20 — The Frank Skinner Show - Louth — speakers: Frank Skinner
 - 2019-04-13 — The Frank Skinner Show - Childhood Tailor — speakers: Frank Skinner
-- 2019-04-06 — The Frank Skinner Show - Kimono Dragon — speakers: Frank Skinner, April Fools
+- 2019-04-06 — The Frank Skinner Show - Kimono Dragon — speakers: Frank Skinner
 - 2019-04-03 — The Frank Skinner Show - Frank Skinner in Conversation with... Emily Dean — speakers: Emily Dean, Frank Skinner
-- 2019-03-30 — The Frank Skinner Show - Duck's Eye — speakers: Frank Skinner, David Baddiel
+- 2019-03-30 — The Frank Skinner Show - Duck's Eye — speakers: Frank Skinner
 - 2019-03-23 — The Frank Skinner Show - Away Shirt of Bread — speakers: Frank Skinner
-- 2019-03-16 — The Frank Skinner Show - 10 Year Anniversary — speakers: Frank Skinner, Mitt Romney, David Baddiel, Tim Key
-- 2019-03-09 — The Frank Skinner Show - Post-quill — speakers: Frank Skinner, Tim Apple
+- 2019-03-16 — The Frank Skinner Show - 10 Year Anniversary — speakers: Frank Skinner
+- 2019-03-09 — The Frank Skinner Show - Post-quill — speakers: Frank Skinner
 - 2019-03-02 — The Frank Skinner Show - Elephant Garlic — speakers: Garlic Frank Skinner, Frank Skinner
-- 2019-02-23 — The Frank Skinner Show - Mrs Halliwell's Boys — speakers: Frank Skinner, Bob Harris
+- 2019-02-23 — The Frank Skinner Show - Mrs Halliwell's Boys — speakers: Frank Skinner
 - 2019-02-16 — The Frank Skinner Show - Pasting Table — speakers: Frank Skinner
 - 2019-02-09 — The Frank Skinner Show - Thumb Knot — speakers: Frank Skinner
-- 2019-02-02 — The Frank Skinner Show - Now Then, Davos — speakers: Frank Skinner, Little Mix
+- 2019-02-02 — The Frank Skinner Show - Now Then, Davos — speakers: Frank Skinner
 - 2019-01-26 — The Frank Skinner Show - Anton du Beak — speakers: Frank Skinner
 - 2019-01-19 — The Frank Skinner Show - Favourite Viaduct — speakers: Frank Skinner
 - 2019-01-12 — The Frank Skinner Show - Mackenzie Mistook — speakers: Frank Skinner
 - 2019-01-05 — The Frank Skinner Show - Takeaway Seat — speakers: Frank Skinner
-- 2018-12-29 — The Frank Skinner Show - Noel, Elton and Christmas — speakers: Frank Skinner, Noel Edmonds
+- 2018-12-29 — The Frank Skinner Show - Noel, Elton and Christmas — speakers: Frank Skinner
 - 2018-12-22 — The Frank Skinner Show - BEST OF SHOW — speakers: Frank Skinner
-- 2018-12-15 — The Frank Skinner Show - AusteriTree — speakers: Frank Skinner, Miley Cyrus
+- 2018-12-15 — The Frank Skinner Show - AusteriTree — speakers: Frank Skinner
 - 2018-12-08 — The Frank Skinner Show - Shredded Genie — speakers: Frank Skinner
-- 2018-12-01 — The Frank Skinner Show - Festive Pessimism — speakers: Frank Skinner, Noel Edmonds, Melania Trump
-- 2018-11-24 — The Frank Skinner Show - Mr Happy and the Twins — speakers: Frank Skinner, Noel Edmonds, Snoop Dogg
-- 2018-11-17 — The Frank Skinner Show - Oasis, regardless. — speakers: Frank Skinner, Ed Sheeran, Lewis Elton, John advert
+- 2018-12-01 — The Frank Skinner Show - Festive Pessimism — speakers: Frank Skinner
+- 2018-11-24 — The Frank Skinner Show - Mr Happy and the Twins — speakers: Frank Skinner
+- 2018-11-17 — The Frank Skinner Show - Oasis, regardless. — speakers: Frank Skinner
 - 2018-11-10 — The Frank Skinner Show - Who's met General Pinochet? — speakers: Frank Skinner
 - 2018-11-03 — The Frank Skinner Show - Very Science, 2016 and an alphabet review — speakers: Frank Skinner
-- 2018-10-27 — The Frank Skinner Show - Lad of the Year — speakers: Frank Skinner, David Schwimmer
-- 2018-10-20 — The Frank Skinner Show - The Royal We-Phone — speakers: Frank Skinner, Gareth Richards
+- 2018-10-27 — The Frank Skinner Show - Lad of the Year — speakers: Frank Skinner
+- 2018-10-20 — The Frank Skinner Show - The Royal We-Phone — speakers: Frank Skinner
 - 2018-10-13 — The Frank Skinner Show - Black Chicken — speakers: Frank Skinner
-- 2018-10-06 — The Frank Skinner Show - Rusty Bantz — speakers: Frank Skinner, Theresa May, Martin Bashir
+- 2018-10-06 — The Frank Skinner Show - Rusty Bantz — speakers: Frank Skinner
 - 2018-09-29 — The Frank Skinner Show - 10th Birthday Best Of Frank Skinner — speakers: Frank Skinner
-- 2018-09-22 — The Frank Skinner Show - Toothless — speakers: Frank Skinner, Alun Cochrane, Gareth Richards, Kylie Jenner, Helena Bonham Carter
-- 2018-09-15 — The Frank Skinner Show - Stealership — speakers: Frank Skinner, Gareth Richards, Mark Wahlberg
-- 2018-09-08 — The Frank Skinner Show - Spotted — speakers: Frank Skinner, Kim Kardashian
+- 2018-09-22 — The Frank Skinner Show - Toothless — speakers: Frank Skinner
+- 2018-09-15 — The Frank Skinner Show - Stealership — speakers: Frank Skinner
+- 2018-09-08 — The Frank Skinner Show - Spotted — speakers: Frank Skinner
 - 2018-09-01 — The Frank Skinner Show - Paris Gump — speakers: Frank Skinner
-- 2018-08-18 — The Frank Skinner Show - Enforced Laminate — speakers: Frank Skinner, Steve Hall, Emily Dean, Rod Stewart
-- 2018-08-11 — The Frank Skinner Show - Prescription Trumpet — speakers: Frank Skinner, Steve Hall, West Brom
+- 2018-08-18 — The Frank Skinner Show - Enforced Laminate — speakers: Frank Skinner
+- 2018-08-11 — The Frank Skinner Show - Prescription Trumpet — speakers: Frank Skinner
 - 2018-08-04 — The Frank Skinner Show - Fringe Fun — speakers: Frank Skinner
-- 2018-07-28 — The Frank Skinner Show - The 270 — speakers: Frank Skinner, Theresa May
+- 2018-07-28 — The Frank Skinner Show - The 270 — speakers: Frank Skinner
 - 2018-07-21 — The Frank Skinner Show - Ronnie Wouldn't — speakers: Frank Skinner
 - 2018-07-14 — The Frank Skinner Show - May Poll — speakers: Frank Skinner
 - 2018-06-30 — The Frank Skinner Show - Saint George's PR — speakers: Frank Skinner
-- 2018-06-23 — The Frank Skinner Show - GOAT — speakers: Frank Skinner, Frank Emily, Schama Shearer
+- 2018-06-23 — The Frank Skinner Show - GOAT — speakers: Frank Skinner
 - 2018-06-16 — The Frank Skinner Show - Flexi Time — speakers: Frank Skinner
 - 2018-06-09 — The Frank Skinner Show - Lard of the Dance — speakers: Frank Skinner
 - 2018-06-05 — Frank Skinner in Conversation with Roger Daltrey — speakers: Frank Skinner, Roger Daltrey
-- 2018-06-02 — The Frank Skinner Show - Top of the Chops — speakers: Frank Skinner, Kim Jong-un
-- 2018-05-26 — The Frank Skinner Show - Flog It — speakers: Frank Skinner, Darth Vader
+- 2018-06-02 — The Frank Skinner Show - Top of the Chops — speakers: Frank Skinner
+- 2018-05-26 — The Frank Skinner Show - Flog It — speakers: Frank Skinner
 - 2018-05-12 — The Frank Skinner Show - Fandue — speakers: Frank Skinner
-- 2018-05-05 — The Frank Skinner Show - Gangam Time — speakers: Frank Skinner, Alun Cochrane, Gareth Richards, Banofee Pie
-- 2018-04-28 — The Frank Skinner Show - Bum Bag — speakers: Frank Skinner, Alun Cochrane, Angela Barnes, Macron Bromance, Tom Cruise
-- 2018-04-21 — The Frank Skinner Show - 20 Cups of Tea — speakers: Frank Skinner, Arsene Wenger
-- 2018-04-14 — The Frank Skinner Show - Cash Only — speakers: Frank Skinner, Justin Bieber
-- 2018-04-07 — The Frank Skinner Show - What about me — speakers: Frank Skinner, Alan Carr
-- 2018-03-31 — The Frank Skinner Show - Prank Skinner — speakers: Frank Skinner, Ben Affleck
+- 2018-05-05 — The Frank Skinner Show - Gangam Time — speakers: Frank Skinner
+- 2018-04-28 — The Frank Skinner Show - Bum Bag — speakers: Frank Skinner
+- 2018-04-21 — The Frank Skinner Show - 20 Cups of Tea — speakers: Frank Skinner
+- 2018-04-14 — The Frank Skinner Show - Cash Only — speakers: Frank Skinner
+- 2018-04-07 — The Frank Skinner Show - What about me — speakers: Frank Skinner
+- 2018-03-31 — The Frank Skinner Show - Prank Skinner — speakers: Frank Skinner
 - 2018-03-24 — The Frank Skinner Show - The Ledge Effect — speakers: Frank Skinner
 - 2018-03-17 — The Frank Skinner Show - Contrabassoon — speakers: Frank Skinner
 - 2018-03-10 — The Frank Skinner Show - Bits n Bobs — speakers: Frank Skinner
 - 2018-03-03 — The Frank Skinner Show - Git Bit — speakers: Frank Skinner
 - 2018-02-24 — The Frank Skinner Show - Pleather — speakers: Frank Skinner
-- 2018-02-17 — The Frank Skinner Show - Definitely Madeley — speakers: Frank Skinner, Richard Madeley
-- 2018-02-10 — The Frank Skinner Show - LLQJ — speakers: Frank Skinner, Quincy Jones
-- 2018-02-03 — The Frank Skinner Show - 36 Cards — speakers: Frank Skinner, Michelle Obama, Melania Trump, Theresa May
-- 2018-01-27 — The Frank Skinner Show - Gitcoin — speakers: Frank Skinner, Boris Becker
-- 2018-01-20 — The Frank Skinner Show - Embroidery — speakers: Frank Skinner, Alun Cochrane, Gareth Richards, Prince William
+- 2018-02-17 — The Frank Skinner Show - Definitely Madeley — speakers: Frank Skinner
+- 2018-02-10 — The Frank Skinner Show - LLQJ — speakers: Frank Skinner
+- 2018-02-03 — The Frank Skinner Show - 36 Cards — speakers: Frank Skinner
+- 2018-01-27 — The Frank Skinner Show - Gitcoin — speakers: Frank Skinner
+- 2018-01-20 — The Frank Skinner Show - Embroidery — speakers: Frank Skinner
 - 2018-01-13 — The Frank Skinner Show - Mouth Noises — speakers: Frank Skinner
 - 2018-01-06 — The Frank Skinner Show - Snap — speakers: Frank Skinner
 - 2017-12-30 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-12-23 — The Frank Skinner Show - Best of 2017 Part 1 — speakers: Frank Skinner
-- 2017-12-16 — The Frank Skinner Show - Paid For — speakers: Frank Skinner, Lenny Kravtiz, David Beckham
-- 2017-12-09 — The Frank Skinner Show - Bagel on a Lanyard — speakers: Frank Skinner, Ross Noble
+- 2017-12-16 — The Frank Skinner Show - Paid For — speakers: Frank Skinner
+- 2017-12-09 — The Frank Skinner Show - Bagel on a Lanyard — speakers: Frank Skinner
 - 2017-12-02 — The Frank Skinner Show - Harkle — speakers: Frank Skinner
-- 2017-11-26 — Frank Skinner with Noel Gallagher — speakers: Frank Skinner, Noel Gallagher, Matthew McConaughey
-- 2017-11-25 — The Frank Skinner Show - Frankencrew — speakers: Frank Skinner, Frank Emily
+- 2017-11-26 — Frank Skinner with Noel Gallagher — speakers: Frank Skinner, Noel Gallagher
+- 2017-11-25 — The Frank Skinner Show - Frankencrew — speakers: Frank Skinner
 - 2017-11-18 — The Frank Skinner Show - Slazenger Cat — speakers: Frank Skinner
-- 2017-11-11 — The Frank Skinner Show - Spot the ball — speakers: Frank Skinner, Guy Fawkes
+- 2017-11-11 — The Frank Skinner Show - Spot the ball — speakers: Frank Skinner
 - 2017-11-04 — The Frank Skinner Show - Next Ren — speakers: Frank Skinner
 - 2017-10-28 — The Frank Skinner Show - Frightmare — speakers: Frank Skinner
-- 2017-10-21 — The Frank Skinner Show - Corby Press — speakers: Frank Skinner, Tim Key
-- 2017-10-14 — The Frank Skinner Show - Love Bags and Kumquats — speakers: Frank Skinner, Ivana Trump, Plus Frank
-- 2017-10-07 — The Frank Skinner Show - Nostradamus Skinner — speakers: Frank Skinner, Blade Runner
+- 2017-10-21 — The Frank Skinner Show - Corby Press — speakers: Frank Skinner
+- 2017-10-14 — The Frank Skinner Show - Love Bags and Kumquats — speakers: Frank Skinner
+- 2017-10-07 — The Frank Skinner Show - Nostradamus Skinner — speakers: Frank Skinner
 - 2017-09-30 — The Frank Skinner Show - Gdansk — speakers: Frank Skinner
 - 2017-09-23 — The Frank Skinner Show - A Tower of Pennies — speakers: Frank Skinner
-- 2017-09-19 — Frank Skinner in conversation with Russell T Davies — speakers: Frank Skinner
-- 2017-09-19 — Frank Skinner in conversation with Russell T Davies — speakers: Frank Skinner
-- 2017-09-16 — The Frank Skinner Show - Lonely — speakers: Frank Skinner, Marilyn Manson, Justin Bieber, Lethal Bizzle, Judi Dench, Alex Horne
+- 2017-09-19 — Frank Skinner in conversation with Russell T Davies — speakers: Frank Skinner, Frank Skin
+- 2017-09-19 — Frank Skinner in conversation with Russell T Davies — speakers: Frank Skinner, Frank Skin
+- 2017-09-16 — The Frank Skinner Show - Lonely — speakers: Frank Skinner
 - 2017-09-09 — The Frank Skinner Show - Smuggle — speakers: Frank Skinner
 - 2017-09-02 — The Frank Skinner Show - Very Cruel — speakers: Frank Skinner
-- 2017-08-26 — The Frank Skinner Show - Calyx — speakers: Frank Skinner, Frank get Cathy
-- 2017-08-19 — The Frank Skinner Show - Clampdown — speakers: Frank Skinner, Daniel Craig
+- 2017-08-26 — The Frank Skinner Show - Calyx — speakers: Frank Skinner
+- 2017-08-19 — The Frank Skinner Show - Clampdown — speakers: Frank Skinner
 - 2017-08-15 — Frank Skinner in conversation with Al Gore — speakers: Frank Skinner, Al Gore
-- 2017-08-12 — The Frank Skinner Show - Jean Splicing — speakers: Frank Skinner, Al Gore
-- 2017-08-05 — The Frank Skinner Show - Pip — speakers: Frank Skinner, Steve Hall, Emily Dean, Prince Philip, Anthony Scaramucci
-- 2017-07-29 — The Frank Skinner Show - Tote — speakers: Frank Skinner, Alice Cooper
+- 2017-08-12 — The Frank Skinner Show - Jean Splicing — speakers: Frank Skinner
+- 2017-08-05 — The Frank Skinner Show - Pip — speakers: Frank Skinner
+- 2017-07-29 — The Frank Skinner Show - Tote — speakers: Frank Skinner
 - 2017-07-22 — The Frank Skinner Show - Next Gen — speakers: Frank Skinner
-- 2017-07-15 — The Frank Skinner Show - Moses — speakers: Frank Skinner, Simon Cowell
+- 2017-07-15 — The Frank Skinner Show - Moses — speakers: Frank Skinner
 - 2017-07-08 — The Frank Skinner Show - Socks Office — speakers: Frank Skinner
 - 2017-07-01 — The Frank Skinner Show - Big Three — speakers: Frank Skinner
 - 2017-06-24 — The Frank Skinner Show - Afternoon — speakers: Frank Skinner
-- 2017-06-17 — The Frank Skinner Show - Questions About Chairs — speakers: Frank Skinner, Robbie Williams
-- 2017-06-10 — The Frank Skinner Show - Thingles — speakers: Frank Skinner, Lord Buckethead
-- 2017-06-03 — The Frank Skinner Show - Table for three — speakers: Frank Skinner, Alun Cochrane, Gareth Richards
+- 2017-06-17 — The Frank Skinner Show - Questions About Chairs — speakers: Frank Skinner
+- 2017-06-10 — The Frank Skinner Show - Thingles — speakers: Frank Skinner
+- 2017-06-03 — The Frank Skinner Show - Table for three — speakers: Frank Skinner
 - 2017-05-27 — The Frank Skinner Show - Isaac Newton — speakers: Frank Skinner
 - 2017-05-20 — The Frank Skinner Show - Cool Beans — speakers: Frank Skinner
-- 2017-05-13 — The Frank Skinner Show - Cuckoo Spit — speakers: Frank Skinner, Harry Style
+- 2017-05-13 — The Frank Skinner Show - Cuckoo Spit — speakers: Frank Skinner
 - 2017-05-06 — The Frank Skinner Show - How d'ya like them apples? — speakers: Frank Skinner
-- 2017-04-29 — The Frank Skinner Show - Escutcheons — speakers: Frank Skinner, Stony Ground, Tom Hardy
-- 2017-04-22 — The Frank Skinner Show - Red Arrows — speakers: Frank Skinner, Frank Emily, Charles Bronson
-- 2017-04-15 — The Frank Skinner Show - Gap Insurance — speakers: Frank Skinner, Gareth Richards
+- 2017-04-29 — The Frank Skinner Show - Escutcheons — speakers: Frank Skinner
+- 2017-04-22 — The Frank Skinner Show - Red Arrows — speakers: Frank Skinner
+- 2017-04-15 — The Frank Skinner Show - Gap Insurance — speakers: Frank Skinner
 - 2017-04-08 — The Frank Skinner Show - Magic Eye — speakers: Frank Skinner
-- 2017-04-01 — The Frank Skinner Show - Travellers Cheques — speakers: Frank Skinner, Ronaldo Statue
+- 2017-04-01 — The Frank Skinner Show - Travellers Cheques — speakers: Frank Skinner
 - 2017-03-25 — The Frank Skinner Show - Car-new — speakers: Frank Skinner
-- 2017-03-18 — The Frank Skinner Show - Powder Blue Shirt — speakers: Frank Skinner, Alun Cochrane, Gareth Richards
-- 2017-03-11 — Clifton Suspension Bridge — speakers: Clifton Suspension Bridge, Frank Skinner, Lets Sing, Mary Berry
+- 2017-03-18 — The Frank Skinner Show - Powder Blue Shirt — speakers: Frank Skinner
+- 2017-03-11 — Clifton Suspension Bridge — speakers: Clifton Suspension Bridge, Frank Skinner
 - 2017-03-04 — The Frank Skinner Show - Parenthesis — speakers: Frank Skinner
 - 2017-02-25 — The Frank Skinner Show - Bag of Gold — speakers: Frank Skinner
 - 2017-02-18 — The Frank Skinner Show - What does the snake want? — speakers: Frank Skinner
@@ -23963,15 +23402,15 @@
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
 - 2017-01-21 — The Frank Skinner Show - Diamante Detail — speakers: Frank Skinner
-- 2017-01-14 — The Frank Skinner Show - The Abuse Of The Fork — speakers: Frank Skinner, Henry Viii
-- 2017-01-07 — The Frank Skinner Show - Bring on the Feathers — speakers: Frank Skinner, Graham Norton Show, Mariah Carey
-- 2016-12-31 — The Frank Skinner Show - Best Of 2016 Part 2 — speakers: Frank Skinner, Elton John
+- 2017-01-14 — The Frank Skinner Show - The Abuse Of The Fork — speakers: Frank Skinner
+- 2017-01-07 — The Frank Skinner Show - Bring on the Feathers — speakers: Frank Skinner
+- 2016-12-31 — The Frank Skinner Show - Best Of 2016 Part 2 — speakers: Frank Skinner
 - 2016-12-24 — The Frank Skinner Show - Best Of 2016 — speakers: Frank Skinner
 - 2016-12-17 — The Frank Skinner Show - Kim Jong Merrily On High — speakers: Frank Skinner
-- 2016-12-10 — The Frank Skinner Show - Wage Packet — speakers: Frank Skinner, Cruz Beckham
-- 2016-12-03 — The Frank Skinner Show - Voting Pencils — speakers: Frank Skinner, Ed Sheeran
+- 2016-12-10 — The Frank Skinner Show - Wage Packet — speakers: Frank Skinner
+- 2016-12-03 — The Frank Skinner Show - Voting Pencils — speakers: Frank Skinner
 - 2016-11-26 — The Frank Skinner Show - Thinking Step — speakers: Frank Skinner
-- 2016-11-19 — The Frank Skinner Show - Currency Figures — speakers: Frank Skinner, Gareth Richards
+- 2016-11-19 — The Frank Skinner Show - Currency Figures — speakers: Frank Skinner
 - 2016-11-12 — The Frank Skinner Show - Trumpelstiltskin — speakers: Frank Skinner
 - 2016-11-05 — The Frank Skinner Show - Green Velvet Hat — speakers: Frank Skinner
 - 2016-10-29 — The Frank Skinner Show - Cooking Apple Face — speakers: Frank Skinner
@@ -23979,222 +23418,222 @@
 - 2016-10-15 — The Frank Skinner Show - Irresistible Accompaniments — speakers: Frank Skinner
 - 2016-10-08 — The Frank Skinner Show - Medieval Armour Trousers — speakers: Frank Skinner
 - 2016-10-01 — Eight Foot Seahorse — speakers: Frank Skinner
-- 2016-09-24 — The Frank Skinner Show - 30 Years of Thirst — speakers: Frank Skinner, Producer Charlie
-- 2016-09-17 — The Frank Skinner Show - Why Them? — speakers: Frank Skinner, Bake Off
+- 2016-09-24 — The Frank Skinner Show - 30 Years of Thirst — speakers: Frank Skinner
+- 2016-09-17 — The Frank Skinner Show - Why Them? — speakers: Frank Skinner
 - 2016-09-10 — The Frank Skinner Show - Jacket Potato — speakers: Frank Skinner
 - 2016-09-03 — The Frank Skinner Show - The Big Five — speakers: Frank Skinner
 - 2016-08-27 — The Frank Skinner Show - Thing or Think — speakers: Frank Skinner
-- 2016-08-20 — The Frank Skinner Show — speakers: Frank Skinner, Dick Van Dyke
-- 2016-08-13 — The Frank Skinner Show - Much of a Muchness — speakers: Frank Skinner, Steve Hall
-- 2016-08-06 — The Frank Skinner Show - Apostle Spoons — speakers: Frank Skinner, Steve Stigma-of
-- 2016-07-30 — The Frank Skinner Show - Lone Wolf — speakers: Frank Skinner, Steve Hall, Gareth Richards, Hillary Clinton
+- 2016-08-20 — The Frank Skinner Show — speakers: Frank Skinner
+- 2016-08-13 — The Frank Skinner Show - Much of a Muchness — speakers: Frank Skinner
+- 2016-08-06 — The Frank Skinner Show - Apostle Spoons — speakers: Frank Skinner
+- 2016-07-30 — The Frank Skinner Show - Lone Wolf — speakers: Frank Skinner
 - 2016-07-23 — The Frank Skinner Show - Reptile Centre — speakers: Frank Skinner
-- 2016-07-16 — The Frank Skinner Show - Sloshing — speakers: Frank Skinner, Len Goodman, Pokemon Go
+- 2016-07-16 — The Frank Skinner Show - Sloshing — speakers: Frank Skinner
 - 2016-07-09 — The Frank Skinner Show - The Good Old Days — speakers: Frank Skinner
 - 2016-07-02 — The Frank Skinner Show - Carpe Diem — speakers: Frank Skinner
 - 2016-06-25 — The Frank Skinner Show - Newton's Cradle — speakers: Frank Skinner
 - 2016-06-18 — The Frank Skinner Show - The Nose — speakers: Frank Skinner
 - 2016-06-11 — The Frank Skinner Show - Chemtrails — speakers: Frank Skinner
-- 2016-06-04 — The Frank Skinner Show - Rough Book — speakers: Frank Skinner, Tom Hardy
+- 2016-06-04 — The Frank Skinner Show - Rough Book — speakers: Frank Skinner
 - 2016-05-28 — The Frank Skinner Show - Sardines on a train — speakers: Frank Skinner
-- 2016-05-21 — The Frank Skinner Show - Ashtray Cloggs — speakers: Frank Skinner, Pharrell Williams
+- 2016-05-21 — The Frank Skinner Show - Ashtray Cloggs — speakers: Frank Skinner
 - 2016-05-14 — The Frank Skinner Show - Fancy Dress — speakers: Frank Skinner
 - 2016-05-07 — The Frank Skinner Show - Novelisation — speakers: Frank Skinner
-- 2016-04-30 — The Frank Skinner Show - IRL — speakers: Frank Skinner, Grayson Perry
-- 2016-04-23 — The Frank Skinner Show - OMGANDY — speakers: Frank Skinner, Alun Cochrane, Gareth Richards, David Gandy, Johnny Depp
-- 2016-04-16 — The Frank Skinner Show - Fan Belt — speakers: Frank Skinner, Alun Cochrane
-- 2016-04-09 — The Frank Skinner Show - Celebrity Parade — speakers: Frank Skinner, Emily Dean, Alun Cochrane
-- 2016-04-02 — The Frank Skinner Show - Beats — speakers: Frank Skinner, Holly Walsh, Alun Cochrane, Storm Katie
-- 2016-03-26 — FOURFIVESECONDS — speakers: Frank Skinner, Boaty McBoatface
-- 2016-03-19 — The Frank Skinner Show - BRIXIT — speakers: Frank Skinner, Gareth Richard, Emily Dean
+- 2016-04-30 — The Frank Skinner Show - IRL — speakers: Frank Skinner
+- 2016-04-23 — The Frank Skinner Show - OMGANDY — speakers: Frank Skinner
+- 2016-04-16 — The Frank Skinner Show - Fan Belt — speakers: Frank Skinner
+- 2016-04-09 — The Frank Skinner Show - Celebrity Parade — speakers: Frank Skinner
+- 2016-04-02 — The Frank Skinner Show - Beats — speakers: Frank Skinner
+- 2016-03-26 — FOURFIVESECONDS — speakers: Frank Skinner
+- 2016-03-19 — The Frank Skinner Show - BRIXIT — speakers: Frank Skinner
 - 2016-03-12 — TOTES — speakers: Frank Skinner
-- 2016-03-05 — The Frank Skinner Show - Broadchurch — speakers: Frank Skinner, Jenny Beaven, Sam Smith, Tim Key
+- 2016-03-05 — The Frank Skinner Show - Broadchurch — speakers: Frank Skinner
 - 2016-02-27 — The Frank Skinner Show - The Conga — speakers: Frank Skinner
 - 2016-02-20 — Tommy Lee — speakers: Tommy Lee Frank Skinner, Frank Skinner
 - 2016-02-20 — The Frank Skinner Show - Tommy Lee — speakers: Tommy Lee, Frank Skinner
-- 2016-02-13 — The Frank Skinner Show - Get a Life — speakers: Frank Skinner, Yeezy Saeson
-- 2016-02-06 — The Frank Skinner Show - Water Fountain — speakers: Frank Skinner, Simon Cowell
-- 2016-01-30 — The Frank Skinner Show - Play Centre — speakers: Frank Skinner, Slummy Mummies
-- 2016-01-23 — The Frank Skinner Show - Scratch Card — speakers: Frank Skinner, Gareth Richards
+- 2016-02-13 — The Frank Skinner Show - Get a Life — speakers: Frank Skinner
+- 2016-02-06 — The Frank Skinner Show - Water Fountain — speakers: Frank Skinner
+- 2016-01-30 — The Frank Skinner Show - Play Centre — speakers: Frank Skinner
+- 2016-01-23 — The Frank Skinner Show - Scratch Card — speakers: Frank Skinner
 - 2016-01-16 — The Frank Skinner Show - Backfire — speakers: Frank Skinner
-- 2016-01-09 — Skepta — speakers: Skepta Frank Skinner, Tom Daley, Frank Skinner
+- 2016-01-09 — Skepta — speakers: Skepta Frank Skinner, Frank Skinner
 - 2016-01-02 — The Frank Skinner Show - The Best Of — speakers: Frank Skinner
 - 2015-12-26 — The Frank Skinner Show — speakers: Frank Skinner
 - 2015-12-19 — Cheese Then — speakers: Frank Skinner
 - 2015-12-12 — The Frank Skinner Show - Illest Quotes — speakers: Frank Skinner
 - 2015-12-05 — The Frank Skinner Show - Thens Reunited — speakers: Frank Skinner
 - 2015-11-28 — The Frank Skinner Show - Ballet Link — speakers: Frank Skinner
-- 2015-11-21 — The Frank Skinner Show - Jerkin — speakers: Frank Skinner, Harper Beckham
+- 2015-11-21 — The Frank Skinner Show - Jerkin — speakers: Frank Skinner
 - 2015-11-14 — The Frank Skinner Show - Life Hacks — speakers: Frank Skinner
-- 2015-11-07 — The Frank Skinner Show - NRG — speakers: Frank Skinner, Matt Berry, Lewis Christmas
-- 2015-10-31 — The Frank Skinner Show - Ee By Gum Corner — speakers: Frank Skinner, Bob Dylan
-- 2015-10-24 — The Frank Skinner Show - Sasha Fireguard — speakers: Frank Skinner, Simon Cowell
+- 2015-11-07 — The Frank Skinner Show - NRG — speakers: Frank Skinner
+- 2015-10-31 — The Frank Skinner Show - Ee By Gum Corner — speakers: Frank Skinner
+- 2015-10-24 — The Frank Skinner Show - Sasha Fireguard — speakers: Frank Skinner
 - 2015-10-17 — The Frank Skinner Show - Back in the Daddle — speakers: Frank Skinner
-- 2015-10-10 — The Frank Skinner Show - Earth's Core — speakers: Frank Skinner, Brian May, Brian Blessed
-- 2015-10-03 — The Frank Skinner Show - LEGEND — speakers: Frank Skinner, Alun Cochrane
-- 2015-09-26 — What Would Frank Skinner Do? — speakers: Frank Skinner Do, Frank Skinner, David Baddiel, Morwenna Banks
-- 2015-09-26 — What Would Frank Skinner Do? — speakers: Frank Skinner Do, Frank Skinner, David Baddiel, Morwenna Banks
-- 2015-09-26 — The Frank Skinner Show - What Would Frank Skinner Do? — speakers: Frank Skinner Do, Frank Skinner, David Baddiel, Morwenna Banks
-- 2015-09-19 — The Frank Skinner Show - Dining Out — speakers: Frank Skinner, De Niro Danan
-- 2015-09-12 — The Frank Skinner Show - Luggage Carousel — speakers: Frank Skinner, Lenin Head
-- 2015-09-05 — The Frank Skinner Show - Manspreading — speakers: Frank Skinner, Keith Richards
+- 2015-10-10 — The Frank Skinner Show - Earth's Core — speakers: Frank Skinner
+- 2015-10-03 — The Frank Skinner Show - LEGEND — speakers: Frank Skinner
+- 2015-09-26 — What Would Frank Skinner Do? — speakers: Frank Skinner Do, Frank Skinner
+- 2015-09-26 — What Would Frank Skinner Do? — speakers: Frank Skinner Do, Frank Skinner
+- 2015-09-26 — The Frank Skinner Show - What Would Frank Skinner Do? — speakers: Frank Skinner Do, Frank Skinner
+- 2015-09-19 — The Frank Skinner Show - Dining Out — speakers: Frank Skinner
+- 2015-09-12 — The Frank Skinner Show - Luggage Carousel — speakers: Frank Skinner
+- 2015-09-05 — The Frank Skinner Show - Manspreading — speakers: Frank Skinner
 - 2015-08-29 — The Frank Skinner Show — speakers: Frank Skinner
-- 2015-08-22 — The Frank Skinner Show - Footlace — speakers: Frank Skinner, Ashley Maddison, Gareth Bale
-- 2015-08-15 — The Frank Skinner Show -1023 — speakers: Frank Skinner, Tom Jones
-- 2015-08-08 — The Frank Skinner Show - Late Review — speakers: Frank Skinner, Gareth Richards, Keith Richards, Noel Edmonds
-- 2015-08-08 — The Frank Skinner Show - Late Review — speakers: Frank Skinner, Gareth Richards, Keith Richards, Noel Edmonds
-- 2015-08-01 — The Frank Skinner Show - Telly Shops — speakers: Frank Skinner, Cara Delevingne
+- 2015-08-22 — The Frank Skinner Show - Footlace — speakers: Frank Skinner
+- 2015-08-15 — The Frank Skinner Show -1023 — speakers: Frank Skinner
+- 2015-08-08 — The Frank Skinner Show - Late Review — speakers: Frank Skinner
+- 2015-08-08 — The Frank Skinner Show - Late Review — speakers: Frank Skinner
+- 2015-08-01 — The Frank Skinner Show - Telly Shops — speakers: Frank Skinner
 - 2015-07-25 — The Frank Skinner Show - #THRIFTY — speakers: Frank Skinner
 - 2015-07-18 — The Frank Skinner Show - Biro's — speakers: Frank Skinner
-- 2015-07-11 — The Frank Skinner Show - New Lads — speakers: Frank Skinner, Classic Quadrophenia
-- 2015-07-04 — The Frank Skinner Show - Pole Position — speakers: Frank Skinner, Peppa Pig
-- 2015-07-04 — The Frank Skinner Show - Pole Position — speakers: Frank Skinner, Peppa Pig
+- 2015-07-11 — The Frank Skinner Show - New Lads — speakers: Frank Skinner
+- 2015-07-04 — The Frank Skinner Show - Pole Position — speakers: Frank Skinner
+- 2015-07-04 — The Frank Skinner Show - Pole Position — speakers: Frank Skinner
 - 2015-06-27 — The Frank Skinner Show - Not In My House! — speakers: Frank Skinner
-- 2015-06-20 — The Frank Skinner Show - The one where... — speakers: Frank Skinner, Top Gear, Blanket Jackson
+- 2015-06-20 — The Frank Skinner Show - The one where... — speakers: Frank Skinner
 - 2015-06-13 — The Frank Skinner Show - Parking — speakers: Frank Skinner
 - 2015-06-06 — The Frank Skinner Show - Apple I — speakers: Frank Skinner
-- 2015-05-30 — The Frank Skinner Show — speakers: Frank Skinner, Steve Hall, Louis Walsh
+- 2015-05-30 — The Frank Skinner Show — speakers: Frank Skinner
 - 2015-05-23 — The Frank Skinner Show — speakers: Frank Skinner
 - 2015-05-16 — Reabok — speakers: Frank Skinner
 - 2015-05-09 — The Frank Skinner Show - Election Special — speakers: Frank Skinner
 - 2015-05-02 — The Frank Skinner Show - Age App — speakers: Frank Skinner
-- 2015-04-25 — Imperial Lather — speakers: Imperial Lather, Frank Skinner, Daisy Duck
+- 2015-04-25 — Imperial Lather — speakers: Imperial Lather, Frank Skinner
 - 2015-04-18 — Drake — speakers: Frank Skinner
 - 2015-04-11 — The Frank Skinner Show - Siri — speakers: Frank Skinner
-- 2015-04-04 — The Frank Skinner Show - Paternosta — speakers: Frank Skinner, Alun Cochrane, April Fools
-- 2015-03-28 — The Frank Skinner Show - Wattle — speakers: Frank Skinner, Holly Walsh
-- 2015-03-21 — The Frank Skinner Show - Total Eclipse — speakers: Frank Skinner, Elton John
+- 2015-04-04 — The Frank Skinner Show - Paternosta — speakers: Frank Skinner
+- 2015-03-28 — The Frank Skinner Show - Wattle — speakers: Frank Skinner
+- 2015-03-21 — The Frank Skinner Show - Total Eclipse — speakers: Frank Skinner
 - 2015-03-14 — The Frank Skinner Show - Scripted — speakers: Frank Skinner
-- 2015-03-07 — The Frank Skinner Show - Offal — speakers: Frank Skinner, Steve Hall, Kim Kardashian, Harrison Ford
-- 2015-02-28 — The Frank Skinner Show - Lads! — speakers: Frank Skinner, Steve Hall, Alun Cochrane
-- 2015-02-21 — The Frank Skinner Show - Intense Legs — speakers: Frank Skinner, Steve Hall, Andy Murray, Gift Watch
+- 2015-03-07 — The Frank Skinner Show - Offal — speakers: Frank Skinner
+- 2015-02-28 — The Frank Skinner Show - Lads! — speakers: Frank Skinner
+- 2015-02-21 — The Frank Skinner Show - Intense Legs — speakers: Frank Skinner
 - 2015-02-14 — The Frank Skinner Show - The Gift — speakers: Frank Skinner
 - 2015-02-07 — The Frank Skinner Show - Skinny Wrists — speakers: Frank Skinner
-- 2015-01-31 — The Frank Skinner Show - The Wifi — speakers: Frank Skinner, Kim Sears
+- 2015-01-31 — The Frank Skinner Show - The Wifi — speakers: Frank Skinner
 - 2015-01-24 — The Frank Skinner Show - Not being funny but... — speakers: Frank Skinner
 - 2015-01-17 — The Frank Skinner Show - THE Maldives — speakers: Frank Skinner
-- 2015-01-10 — The Frank Skinner Show - Red Winestein — speakers: Frank Skinner, Alun Cochrane
+- 2015-01-10 — The Frank Skinner Show - Red Winestein — speakers: Frank Skinner
 - 2015-01-03 — The Frank Skinner Show - Failure Bin (Working Title) — speakers: Frank Skinner
-- 2014-12-27 — The Frank Skinner Show — speakers: Frank Skinner, Kate Bush
+- 2014-12-27 — The Frank Skinner Show — speakers: Frank Skinner
 - 2014-12-20 — The Frank Skinner Show — speakers: Frank Skinner
-- 2014-12-13 — The Frank Skinner Show - Falling — speakers: Frank Skinner, Emily Dean, Steve Hall, Candy Crush, Gary Lineker, Ray Quinn
+- 2014-12-13 — The Frank Skinner Show - Falling — speakers: Frank Skinner
 - 2014-12-06 — The Frank Skinner Show - Dystopian Novel — speakers: Frank Skinner
-- 2014-11-29 — The Frank Skinner Show - Beard Oil — speakers: Frank Skinner, Holly Walsh
-- 2014-11-22 — The Frank Skinner Show - Roundels — speakers: Jamie Oliver, Frank Skinner
-- 2014-11-15 — The Frank Skinner Show - (faux) leather Christmas hat — speakers: Frank Skinner, Kim Kardashian
-- 2014-11-08 — The Frank Skinner Show - Portmanteau — speakers: Frank Skinner, Steve Hall, John Lewis, Katie Melua
-- 2014-11-01 — The Frank Skinner Show - Sonic Screwdriver — speakers: Frank Skinner, Robbie Williams
-- 2014-10-25 — Frank Skinner on Absolute Radio - Onomatopoeic Shoes — speakers: Frank Skinner, Renee Zelwegger
+- 2014-11-29 — The Frank Skinner Show - Beard Oil — speakers: Frank Skinner
+- 2014-11-22 — The Frank Skinner Show - Roundels — speakers: Frank Skinner
+- 2014-11-15 — The Frank Skinner Show - (faux) leather Christmas hat — speakers: Frank Skinner
+- 2014-11-08 — The Frank Skinner Show - Portmanteau — speakers: Frank Skinner
+- 2014-11-01 — The Frank Skinner Show - Sonic Screwdriver — speakers: Frank Skinner
+- 2014-10-25 — Frank Skinner on Absolute Radio - Onomatopoeic Shoes — speakers: Frank Skinner
 - 2014-10-18 — Frank Skinner on Absolute Radio - #HateFilms — speakers: Frank Skinner
-- 2014-10-11 — Frank Skinner on Absolute Radio - Perkins — speakers: Frank Skinner, Kim Jong Oon
-- 2014-10-04 — Frank Skinner on Absolute Radio - Stop Scratching! — speakers: Frank Skinner, David Baddiel, George Clooney, Floyd Mayweather
-- 2014-09-27 — Frank Skinner on Absolute Radio - Rogon Josh — speakers: Frank Skinner, Jason Orange
-- 2014-09-20 — Frank Skinner on Absolute Radio - I'll have that — speakers: Frank Skinner, Depardieu Learn
+- 2014-10-11 — Frank Skinner on Absolute Radio - Perkins — speakers: Frank Skinner
+- 2014-10-04 — Frank Skinner on Absolute Radio - Stop Scratching! — speakers: Frank Skinner
+- 2014-09-27 — Frank Skinner on Absolute Radio - Rogon Josh — speakers: Frank Skinner
+- 2014-09-20 — Frank Skinner on Absolute Radio - I'll have that — speakers: Frank Skinner
 - 2014-09-13 — Frank Skinner on Absolute Radio - Twitbook — speakers: Frank Skinner
 - 2014-09-06 — Frank Skinner on Absolute Radio - Day - Z — speakers: Frank Skinner
 - 2014-08-30 — Frank Skinner on Absolute Radio - Journalism — speakers: Frank Skinner
-- 2014-08-23 — Frank Skinner on Absolute Radio - 4 Star-Gate — speakers: Frank Skinner, Kellie Maloney, Ma Murray
-- 2014-08-16 — Frank Skinner on Absolute Radio - Cat in the Hat — speakers: Frank Skinner, Justin Bieber
+- 2014-08-23 — Frank Skinner on Absolute Radio - 4 Star-Gate — speakers: Frank Skinner
+- 2014-08-16 — Frank Skinner on Absolute Radio - Cat in the Hat — speakers: Frank Skinner
 - 2014-08-09 — Frank Skinner on Absolute Radio - Sworn enemies — speakers: Frank Skinner
 - 2014-08-02 — Frank Skinner on Absolute Radio - Patients — speakers: Frank Skinner
 - 2014-07-26 — Frank Skinner on Absolute Radio - Got No Innocence — speakers: Frank Skinner
-- 2014-07-19 — Frank Skinner on Absolute Radio - Bite — speakers: Frank Skinner, Victoria Beckham
+- 2014-07-19 — Frank Skinner on Absolute Radio - Bite — speakers: Frank Skinner
 - 2014-07-12 — Frank Skinner on Absolute Radio - The PP — speakers: Frank Skinner
-- 2014-07-05 — Frank Skinner on Absolute Radio - Sweet Potato Fries — speakers: Frank Skinner, Andy Murray, Chris Martin
-- 2014-06-28 — Frank Skinner on Absolute Radio - Isaac Newton — speakers: Frank Skinner, Beatrix Potter
+- 2014-07-05 — Frank Skinner on Absolute Radio - Sweet Potato Fries — speakers: Frank Skinner
+- 2014-06-28 — Frank Skinner on Absolute Radio - Isaac Newton — speakers: Frank Skinner
 - 2014-06-21 — Frank Skinner on Absolute Radio - Injury Time — speakers: Frank Skinner
 - 2014-06-14 — Frank Skinner on Absolute Radio - Benchmark — speakers: Frank Skinner
-- 2014-06-07 — 1,2,3,4,5,6... — speakers: Frank Skinner, Steve Hall, Pete Donaldson, David Beckham
+- 2014-06-07 — 1,2,3,4,5,6... — speakers: Frank Skinner
 - 2014-05-31 — Frank Skinner on Absolute Radio - Kimchi — speakers: Frank Skinner
 - 2014-05-24 — Hokey Cokey — speakers: Hokey Cokey Frank, Matt Forde, Steve Hall, Frank Skinner
-- 2014-05-17 — Frank Skinner on Absolute Radio - Cheetah on a Horse — speakers: Frank Skinner, Email Corner
+- 2014-05-17 — Frank Skinner on Absolute Radio - Cheetah on a Horse — speakers: Frank Skinner
 - 2014-05-08 — Frank Skinner on Absolute Radio - Hiccups — speakers: Frank Skinner
-- 2014-05-03 — Frank Skinner on Absolute Radio - Pudding Week — speakers: Frank Skinner, George Clooney, Susannah Reid
-- 2014-04-26 — Frank Skinner on Absolute Radio - Team Gum — speakers: Frank Skinner, Jamaica Inn
+- 2014-05-03 — Frank Skinner on Absolute Radio - Pudding Week — speakers: Frank Skinner
+- 2014-04-26 — Frank Skinner on Absolute Radio - Team Gum — speakers: Frank Skinner
 - 2014-04-19 — Frank Skinner on Absolute Radio - Dusty Shoes — speakers: Frank Skinner
 - 2014-04-12 — Frank Skinner on Absolute Radio - Dungarees — speakers: Frank Skinner
-- 2014-04-05 — Frank Skinner on Absolute Radio — speakers: Frank Skinner, April Fools
-- 2014-03-29 — Frank Skinner on Absolute Radio - Meeting Buzz — speakers: Frank Skinner, Buzz Skinner, Buzz Aldrin, Kim Jong-Un
+- 2014-04-05 — Frank Skinner on Absolute Radio — speakers: Frank Skinner
+- 2014-03-29 — Frank Skinner on Absolute Radio - Meeting Buzz — speakers: Frank Skinner
 - 2014-03-22 — Frank Skinner on Absolute Radio - Barcelona — speakers: Frank Skinner
-- 2014-03-15 — Frank Skinner on Absolute Radio - Selfie — speakers: Frank Skinner, Steve Hall, Joan Collins, Ellen Degeneres
-- 2014-03-08 — Frank Skinner on Absolute Radio - Post Impressions — speakers: Frank Skinner, Emily Dean
+- 2014-03-15 — Frank Skinner on Absolute Radio - Selfie — speakers: Frank Skinner
+- 2014-03-08 — Frank Skinner on Absolute Radio - Post Impressions — speakers: Frank Skinner
 - 2014-03-01 — Frank Skinner on Absolute Radio - Stylus — speakers: Frank Skinner
 - 2014-02-22 — Frank Skinner on Absolute Radio - Awards Season — speakers: Frank Skinner
-- 2014-02-15 — Frank Skinner on Absolute Radio - Actually Nah — speakers: Frank Skinner, Steve Hall
+- 2014-02-15 — Frank Skinner on Absolute Radio - Actually Nah — speakers: Frank Skinner
 - 2014-02-08 — Frank Skinner on Absolute Radio - The Musketeers — speakers: Frank Skinner
-- 2014-02-01 — Frank Skinner on Absolute Radio - Friend of the Show — speakers: Frank Skinner, Andy Murray, Carol Vorderman
+- 2014-02-01 — Frank Skinner on Absolute Radio - Friend of the Show — speakers: Frank Skinner
 - 2014-01-25 — Frank Skinner on Absolute Radio - Matey — speakers: Frank Skinner
 - 2014-01-18 — Frank Skinner on Absolute Radio - Stay Buckled — speakers: Frank Skinner
-- 2014-01-11 — Frank Skinner on Absolute Radio - Petard — speakers: Frank Skinner, Dennis Rodman, Kim Jong Un, Shia La Beouf
+- 2014-01-11 — Frank Skinner on Absolute Radio - Petard — speakers: Frank Skinner
 - 2014-01-04 — Frank Skinner on Absolute Radio - Happy New Year — speakers: Frank Skinner
 - 2013-12-28 — Frank Skinner on Absolute Radio - Best of 2 — speakers: Frank Skinner
 - 2013-12-21 — Frank Skinner on Absolute Radio - Best of 1 — speakers: Frank Skinner
-- 2013-12-14 — Frank Skinner on Absolute Radio - Neighbours — speakers: Frank Skinner, Alun Cochrane, Pete Donaldson, John Terry
+- 2013-12-14 — Frank Skinner on Absolute Radio - Neighbours — speakers: Frank Skinner
 - 2013-12-07 — Frank Skinner on Absolute Radio — speakers: Frank Skinner
 - 2013-11-30 — Frank Skinner on Absolute Radio - Incredibly Incredibly — speakers: Frank Skinner
 - 2013-11-23 — Frank Skinner on Absolute Radio - Shelfie — speakers: Frank Skinner
-- 2013-11-16 — Frank Skinner on Absolute Radio — speakers: Frank Skinner, Robert Winston
-- 2013-11-09 — Frank Skinner on Absolute Radio - Parental PDA's — speakers: Frank Skinner, Huey Morgan
+- 2013-11-16 — Frank Skinner on Absolute Radio — speakers: Frank Skinner
+- 2013-11-09 — Frank Skinner on Absolute Radio - Parental PDA's — speakers: Frank Skinner
 - 2013-11-02 — Frank Skinner on Absolute Radio - Yo Sausage — speakers: Frank Skinner
-- 2013-10-26 — Frank Skinner on Absolute Radio - Cool Beans — speakers: Frank Skinner, Emily Dean, Alun Cochrane, Steve Hall
-- 2013-10-19 — Frank Skinner on Absolute Radio - Celeb Spot — speakers: Frank Skinner, Andy Murray
+- 2013-10-26 — Frank Skinner on Absolute Radio - Cool Beans — speakers: Frank Skinner
+- 2013-10-19 — Frank Skinner on Absolute Radio - Celeb Spot — speakers: Frank Skinner
 - 2013-10-12 — Frank Skinner on Absolute Radio - Duffins — speakers: Frank Skinner
-- 2013-10-05 — Frank Skinner on Absolute Radio - Bra removal — speakers: Frank Skinner, Sinead O'Connor
+- 2013-10-05 — Frank Skinner on Absolute Radio - Bra removal — speakers: Frank Skinner
 - 2013-09-28 — Frank Skinner on Absolute Radio - Changing Rooms — speakers: Frank Skinner
 - 2013-09-21 — Frank Skinner on Absolute Radio - Clowning around — speakers: Frank Skinner
 - 2013-09-14 — Frank Skinner on Absolute Radio - Unlikely bedfellows — speakers: Frank Skinner, David Beckham, Susannah Reid
 - 2013-09-07 — Frank Skinner on Absolute Radio - Back in business — speakers: Frank Skinner
-- 2013-08-31 — Frank Skinner on Absolute Radio - Twerk — speakers: Frank Skinner, Emily Dean, Steve Hall, Miley Cyrus, Robin Thicke
-- 2013-08-24 — Frank Skinner on Absolute Radio - Dumped — speakers: Frank Skinner, Emily Dean, Steve Hall, Baby George
-- 2013-08-17 — Frank Skinner on Absolute Radio - Chores — speakers: Frank Skinner, Emily Dean, Steve Hall
-- 2013-08-10 — Frank Skinner on Absolute Radio - Panda — speakers: Frank Skinner, Andy Bush, Steve Hall
-- 2013-08-03 — Frank Skinner on Absolute Radio - Pumped — speakers: Frank Skinner, Pete Donaldson, Simon Cowell
+- 2013-08-31 — Frank Skinner on Absolute Radio - Twerk — speakers: Frank Skinner
+- 2013-08-24 — Frank Skinner on Absolute Radio - Dumped — speakers: Frank Skinner
+- 2013-08-17 — Frank Skinner on Absolute Radio - Chores — speakers: Frank Skinner
+- 2013-08-10 — Frank Skinner on Absolute Radio - Panda — speakers: Frank Skinner
+- 2013-08-03 — Frank Skinner on Absolute Radio - Pumped — speakers: Frank Skinner
 - 2013-07-27 — Frank Skinner on Absolute Radio - Lambada — speakers: Frank Skinner
 - 2013-07-20 — Frank Skinner on Absolute Radio - Keeping Cool — speakers: Frank Skinner
 - 2013-07-13 — Frank Skinner on Absolute Radio - Symbols — speakers: Frank Skinner
 - 2013-07-06 — Frank Skinner on Absolute Radio - If you, like me. — speakers: Frank Skinner
-- 2013-06-29 — Frank Skinner on Absolute Radio - David Baddiel — speakers: Frank Skinner, David Baddiel, Matt Goss Fan, George Osborne
+- 2013-06-29 — Frank Skinner on Absolute Radio - David Baddiel — speakers: Frank Skinner, David Baddiel
 - 2013-06-22 — Frank Skinner on Absolute Radio - Jeffrey — speakers: Frank Skinner
-- 2013-06-15 — Frank Skinner on Absolute Radio - Neil Gaiman — speakers: Frank Skinner, Neil Gaiman, Robert Pattinson
-- 2013-06-08 — Frank Skinner on Absolute Radio - Dr Who?? — speakers: Frank Skinner, Karl Lagerfeld
-- 2013-06-01 — Frank Skinner on Absolute Radio - Viva Forever — speakers: Frank Skinner, Emily Dean, Steve Hall
-- 2013-05-25 — Frank Skinner on Absolute Radio - Bing — speakers: Frank Skinner, George Michael, Trevor Nunn
-- 2013-05-18 — Frank Skinner on Absolute Radio - P.A.R.T.Y — speakers: Frank Skinner, Alun Cochrane, Emily Dean
-- 2013-05-11 — Frank Skinner on Absolute Radio - Frank's away — speakers: Frank Skinner, Emily Dean, Alun Cochrane, Steve Hall, Alex Ferguson
+- 2013-06-15 — Frank Skinner on Absolute Radio - Neil Gaiman — speakers: Frank Skinner, Neil Gaiman
+- 2013-06-08 — Frank Skinner on Absolute Radio - Dr Who?? — speakers: Frank Skinner
+- 2013-06-01 — Frank Skinner on Absolute Radio - Viva Forever — speakers: Frank Skinner
+- 2013-05-25 — Frank Skinner on Absolute Radio - Bing — speakers: Frank Skinner
+- 2013-05-18 — Frank Skinner on Absolute Radio - P.A.R.T.Y — speakers: Frank Skinner
+- 2013-05-11 — Frank Skinner on Absolute Radio - Frank's away — speakers: Frank Skinner
 - 2013-05-04 — Frank Skinner on Absolute Radio — speakers: Frank Skinner
-- 2013-04-27 — Frank Skinner on Absolute Radio - Love Bites — speakers: Frank Skinner, Plus Alun
+- 2013-04-27 — Frank Skinner on Absolute Radio - Love Bites — speakers: Frank Skinner
 - 2013-04-20 — Frank Skinner on Absolute Radio - Roots and Wings — speakers: Frank Skinner
 - 2013-04-13 — Frank Skinner on Absolute Radio - Missing Out — speakers: Frank Skinner
-- 2013-04-06 — Frank Skinner on Absolute Radio - Modern Technology — speakers: Frank Skinner, Emily Dean, Alun Cochrane, Justin Bieber, Email Corner
-- 2013-03-30 — Frank Skinner on Absolute Radio - Spoiler Alert — speakers: Frank Skinner, Emily Dean, Steve Hall
-- 2013-03-23 — Frank Skinner on Absolute Radio - Soviet Russia — speakers: Frank Skinner, Email Corner
+- 2013-04-06 — Frank Skinner on Absolute Radio - Modern Technology — speakers: Frank Skinner
+- 2013-03-30 — Frank Skinner on Absolute Radio - Spoiler Alert — speakers: Frank Skinner
+- 2013-03-23 — Frank Skinner on Absolute Radio - Soviet Russia — speakers: Frank Skinner
 - 2013-03-20 — Frank Skinner on Absolute Radio — speakers: Frank Skinner, Geoff Lloyd
 - 2013-03-16 — Frank Skinner on Absolute Radio — speakers: Frank Skinner
 - 2013-03-09 — Frank Skinner on Absolute Radio - Eye Patch — speakers: Frank Skinner
-- 2013-03-02 — Frank Skinner on Absolute Radio - Goodbye Pope — speakers: Frank Skinner, Steve Hall, Emily Dean
+- 2013-03-02 — Frank Skinner on Absolute Radio - Goodbye Pope — speakers: Frank Skinner
 - 2013-02-23 — Frank Skinner on Absolute Radio - First Crush — speakers: Frank Skinner
 - 2013-02-16 — Frank Skinner on Absolute Radio - When Franks away.. — speakers: Frank Skinner
-- 2013-02-09 — Frank Skinner on Absolute Radio - Neighbours — speakers: Frank Skinner, Richard Iii, Bruce Willis
-- 2013-02-02 — Frank Skinner on Absolute Radio - Parenting Rules — speakers: Frank Skinner, Prince Charles
+- 2013-02-09 — Frank Skinner on Absolute Radio - Neighbours — speakers: Frank Skinner
+- 2013-02-02 — Frank Skinner on Absolute Radio - Parenting Rules — speakers: Frank Skinner
 - 2013-01-26 — Frank Skinner on Absolute Radio - Birthday — speakers: Frank Skinner
-- 2013-01-19 — Frank Skinner on Absolute Radio — speakers: Frank Skinner, Lance Armstrong
+- 2013-01-19 — Frank Skinner on Absolute Radio — speakers: Frank Skinner
 - 2013-01-12 — Frank Skinner on Absolute Radio - FaceTime — speakers: Frank Skinner
-- 2013-01-05 — Frank Skinner on Absolute Radio - Resolutions — speakers: Frank Skinner, Gerard Depardieu
+- 2013-01-05 — Frank Skinner on Absolute Radio - Resolutions — speakers: Frank Skinner
 - 2012-12-22 — Frank Skinner on Absolute Radio - Best of 2012 — speakers: Frank Skinner
 - 2012-12-15 — Frank Skinner on Absolute Radio - Bad Gifts — speakers: Frank Skinner
 - 2012-12-08 — Frank Skinner on Absolute Radio - Family Things — speakers: Frank Skinner
-- 2012-12-01 — Frank Skinner on Absolute Radio - Science — speakers: Frank Skinner, Dean Gaffney, Joey Barton
+- 2012-12-01 — Frank Skinner on Absolute Radio - Science — speakers: Frank Skinner
 - 2012-11-24 — Frank Skinner on Absolute Radio - Stand Up — speakers: Frank Skinner
 - 2012-11-17 — Frank Skinner on Absolute Radio - Frank's Back — speakers: Frank Skinner
 - 2012-11-10 — Frank Skinner on Absolute Radio - Highlights — speakers: Frank Skinner
-- 2012-11-03 — Frank Skinner on Absolute Radio - What else? — speakers: Frank Skinner, James May, Gary Barlow
-- 2012-10-27 — Frank Skinner on Absolute Radio - Root Canal — speakers: Frank Skinner, Pippa Middleton, Ape Man
+- 2012-11-03 — Frank Skinner on Absolute Radio - What else? — speakers: Frank Skinner
+- 2012-10-27 — Frank Skinner on Absolute Radio - Root Canal — speakers: Frank Skinner
 - 2012-10-20 — Frank Skinner on Absolute Radio - Pedestrian racing returns — speakers: Frank Skinner
 - 2012-10-13 — Frank Skinner on Absolute Radio - Jeans — speakers: Frank Skinner
 - 2012-10-06 — Frank Skinner on Absolute Radio - The name's Bond — speakers: Frank Skinner
 - 2012-09-29 — Bake Off — speakers: Bake Off Learn, Frank Skinner
 - 2012-09-22 — Frank Skinner on Absolute Radio - Thumbs — speakers: Frank Skinner
-- 2012-09-15 — Frank Skinner on Absolute Radio - Top Down — speakers: Frank Skinner, Andy Murray, Jaffa Cakes
+- 2012-09-15 — Frank Skinner on Absolute Radio - Top Down — speakers: Frank Skinner, Andy Murray
 - 2012-09-08 — Frank Skinner on Absolute Radio - Hard Day's Night — speakers: Frank Skinner
 - 2012-09-01 — Frank Skinner on Absolute Radio - Animal Encounter — speakers: Frank Skinner
 - 2012-08-25 — Frank Skinner on Absolute Radio - Pronounciation — speakers: Frank Skinner
@@ -24204,11 +23643,11 @@
 - 2012-07-28 — Frank Skinner on Absolute Radio - Spoiler Alert — speakers: Frank Skinner
 - 2012-07-21 — Frank Skinner on Absolute Radio - Whistling — speakers: Frank Skinner, George Michael
 - 2012-07-14 — Frank Skinner on Absolute Radio - Driving — speakers: Frank Skinner, Emily Dean
-- 2012-07-07 — Frank Skinner on Absolute Radio - 99 — speakers: Frank Skinner, Murray Mania
+- 2012-07-07 — Frank Skinner on Absolute Radio - 99 — speakers: Frank Skinner
 - 2012-06-30 — Frank Skinner on Absolute Radio - Paparazzi — speakers: Frank Skinner
 - 2012-06-23 — Frank Skinner on Absolute Radio - Leftover Rules — speakers: Frank Skinner, Baby Buzz
 - 2012-06-16 — Frank Skinner on Absolute Radio - Liza — speakers: Frank Skinner
-- 2012-06-09 — Frank Skinner on Absolute Radio - Flotilla — speakers: Frank Skinner, Email Corner
+- 2012-06-09 — Frank Skinner on Absolute Radio - Flotilla — speakers: Frank Skinner
 - 2012-05-26 — Frank Skinner on Absolute Radio - Buzz — speakers: Frank Skinner, Emily Dean, Alun Cochrane
 - 2012-05-22 — Frank Skinner Not The Weekend Podcast: 23rd May 12 — speakers: Frank Skinner Not, Frank Skinner
 - 2012-05-19 — Frank Skinner on Absolute Radio — speakers: Frank Skinner, Kristen Stewart
@@ -24240,7 +23679,7 @@
 - 2012-02-14 — Frank Skinner Not The Weekend Podcast: 15th Feb 2011 — speakers: Frank Skinner Not, Holly Walsh, Frank Skinner
 - 2012-02-11 — Frank Skinner on Absolute Radio - Car Salesman — speakers: Frank Skinner, Alun Cochrane, Holly Walsh
 - 2012-02-07 — Frank Skinner Not The Weekend Podcast: 8th Feb 2012 — speakers: Frank Skinner Not, Holly Walsh, Alun Cochrane, Frank Skinner
-- 2012-02-04 — Frank Skinner on Absolute Radio - What's In A Name? — speakers: Frank Skinner, Holly Walsh, Heidi Klum
+- 2012-02-04 — Frank Skinner on Absolute Radio - What's In A Name? — speakers: Frank Skinner, Holly Walsh
 - 2012-01-31 — Frank Skinner Not The Weekend Podcast: 1st Feb 2012 — speakers: Frank Skinner Not, Holly Walsh, Alun Cochrane, Frank Skinner
 - 2012-01-28 — Frank Skinner on Absolute Radio - A Little Announcement — speakers: Frank Skinner
 - 2012-01-24 — Frank Skinner Not The Weekend Podcast: 25th Jan 2012 — speakers: Frank Skinner Not, Holly Walsh, Alun Cochrane, Frank Skinner
@@ -24250,13 +23689,13 @@
 - 2012-01-11 — Frank Skinner Not The Weekend Podcast: 11th Jan 2012 — speakers: Frank Skinner Not, Frank Skinner
 - 2012-01-07 — Frank Skinner on Absolute Radio - New Year Revolution — speakers: Frank Skinner
 - 2011-12-31 — Frank Skinner's Best Of 2011 - Part 2 — speakers: Frank Skinner, Emily Dean, Alun Cochrane, Gareth Richards Learn
-- 2011-12-25 — Frank Skinners Best Of 2011 - Part 1 — speakers: Frank Skinners Best, Emily Dean, Alun Cochrune, Gareth Richards, Laura Solon Learn, Frank Skinner
+- 2011-12-25 — Frank Skinners Best Of 2011 - Part 1 — speakers: Frank Skinners Best, Emily Dean, Alun Cochrune, Gareth Richards, Frank Skinner
 - 2011-12-20 — The Not The Weekend Podcast - 21 Dec — speakers: Frank Skinner
 - 2011-12-17 — Frank Skinner on Absolute Radio - Celebrity Dislikes — speakers: Frank Skinner
 - 2011-12-13 — Frank Skinner's Not The Weekend Podcast: 14th December 2011 — speakers: Frank Skinner
 - 2011-12-10 — Frank Skinner on Absolute Radio - School Trips — speakers: Frank Skinner, Laura Solon, Alec Baldwin
 - 2011-12-06 — Frank Skinner Not The Weekend Podcast: 7th December 2011 — speakers: Frank Skinner Not, Frank Skinner
-- 2011-12-03 — Frank Skinner on Absolute Radio - Light Baby — speakers: Frank Skinner, Tom Light, John Lennon
+- 2011-12-03 — Frank Skinner on Absolute Radio - Light Baby — speakers: Frank Skinner, Tom Light
 - 2011-11-29 — Frank Skinner Not The Weekend Podcast: 30th November 2011 — speakers: Frank Skinner Not, Frank Skinner, Martin Sheen
 - 2011-11-26 — Frank Skinner on Absolute Radio - The Resurrection of the IEM — speakers: Frank Skinner, Eureka Moments
 - 2011-11-23 — Frank Skinner Not The Weekend Podcast: 23rd November 2011 — speakers: Frank Skinner Not, Frank Skinner
@@ -24278,15 +23717,15 @@
 - 2011-09-28 — Frank Skinner - 28 Sep - Not the Weekend Podcast — speakers: Frank Skinner
 - 2011-09-24 — Frank Skinner - Noughts and Crosses — speakers: Frank Skinner Noughts, Frank Skinner
 - 2011-09-21 — Not The Weekend Podcast - 21 Sep — speakers: Frank Skinner
-- 2011-09-17 — A & E — speakers: Samuel Johnson, Frank Skinner
+- 2011-09-17 — A & E — speakers: Frank Skinner
 - 2011-09-14 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Frank Skinner
-- 2011-09-10 — Frank Skinner - Red or Bleak — speakers: Frank Skinner Red, Cockerell Junior, Frank Skinner
+- 2011-09-10 — Frank Skinner - Red or Bleak — speakers: Frank Skinner Red, Cockerell Jun, Frank Skinner
 - 2011-09-07 — Not The Weekend Podcast 070911 — speakers: Radio Cockerel, Frank Skinner
 - 2011-08-31 — Frank Skinner in Edinburgh Week 3 — speakers: Frank Skinner
-- 2011-08-27 — Frank Skinner in Edinburgh Week 3 — speakers: Frank Skinner, Kate Winslet Learn
+- 2011-08-27 — Frank Skinner in Edinburgh Week 3 — speakers: Frank Skinner
 - 2011-08-24 — Not The Weekend Podcast - Frank Skinner in Edinburgh 2 — speakers: Frank Skinner
 - 2011-08-20 — Frank Skinner - Edinburgh Week 2 — speakers: Frank Skinner Edinburgh, Bernie Clifton, Frank Skinner
-- 2011-08-17 — Not The Weekend Podcast - Frank Skinner in Edinburgh 1 — speakers: Alun Cochrane, Frank Skinner
+- 2011-08-17 — Not The Weekend Podcast - Frank Skinner in Edinburgh 1 — speakers: Frank Skinner
 - 2011-08-13 — Frank Skinner in Edinburgh Week 1 — speakers: Frank Skinner, Alun Cochrane, Emily Dean
 - 2011-08-10 — Not The Weekend Podcast - 10 Aug — speakers: Frank Skinner
 - 2011-08-06 — Frank Skinner - Partner Oppression — speakers: Frank Skinner Partner, Emily Dean, Laura Solon, Frank Skinner
@@ -24303,19 +23742,19 @@
 - 2011-06-29 — Not the Weekend Podcast- 29 June — speakers: Frank Skinner
 - 2011-06-25 — Frank Skinner - House Rules & Saturday Jobs — speakers: Frank Skinner House Rules, Andy Murray, Frank Skinner
 - 2011-06-21 — Not The Weekend Podcast - 21 June — speakers: June Learn, Frank Skinner
-- 2011-06-18 — Frank Skinner - Left Wing Business Names — speakers: Frank Skinner Left, Alun Cochrane, Arnold Schwarzenegger, Frank Skinner
+- 2011-06-18 — Frank Skinner - Left Wing Business Names — speakers: Frank Skinner Left, Alun Cochrane, Frank Skinner
 - 2011-06-14 — Not The Weekend Podcast - 14 June — speakers: Alun Cochrane, Frank Skinner
-- 2011-06-11 — Frank Skinner - New Kid On The Block — speakers: Frank Skinner New Kid, Alun Cochrane, Alice Cooper Learn, Frank Skinner
+- 2011-06-11 — Frank Skinner - New Kid On The Block — speakers: Frank Skinner New Kid, Alun Cochrane, Frank Skinner
 - 2011-06-07 — Frank Skinner - Sexy MP's — speakers: Frank Skinner Sexy, Frank Skinner
 - 2011-06-04 — Frank Skinner - It's gone a bit 1980's — speakers: Frank Skinner
 - 2011-05-31 — Not the Weekend Podcast - 31 May — speakers: Frank Skinner
 - 2011-05-28 — Frank Skinner - Showbiz — speakers: Frank Skinner Showbiz Frank, Paul O'Grady, Frank Skinner
-- 2011-05-24 — Not The Weekend Podcast - 24 May — speakers: Frank Emily, Pauline Quirke, David Furnish Mum, Frank Skinner
-- 2011-05-21 — Frank Skinner - The Reading Dilemma — speakers: Dilemma Frank, Emily Frank, Arnold Schwarzenegger, Frank Skinner
+- 2011-05-24 — Not The Weekend Podcast - 24 May — speakers: Frank Emily, Pauline Quirke, Frank Skinner
+- 2011-05-21 — Frank Skinner - The Reading Dilemma — speakers: Dilemma Frank, Frank Skinner
 - 2011-05-18 — Not The Weekend Podcast - 18 Nov — speakers: Nov Learn, Frank Skinner
 - 2011-05-16 — The Frank Skinner Show — speakers: Frank Skinner
 - 2011-05-10 — Frank Skinner - The Sony Awards Aftermath — speakers: Frank Skinner
-- 2011-05-07 — Frank Skinner - Neighbours, Couples & Names — speakers: Frank Skinner Neighbours, Steve Williams, Frank Skinner, Osama Bin Laden, Mariah Carey
+- 2011-05-07 — Frank Skinner - Neighbours, Couples & Names — speakers: Frank Skinner Neighbours, Steve Williams, Frank Skinner, Osama Bin Laden
 - 2011-05-03 — Frank Skinner - Bikinis In An Urban Environment — speakers: Frank Skinner Bikinis, Frank Skinner
 - 2011-04-30 — Frank Skinner - Royal Wedding — speakers: Frank Skinner Royal, Frank Emily, Plus Frank, Frank Skinner
 - 2011-04-26 — Not the Weekend Podcast - 27 Apr — speakers: Frank Skinner
@@ -24323,9 +23762,9 @@
 - 2011-04-19 — Frank Skinner - Barbers, Mirrors & Pebbles — speakers: Frank Skinner Barbers, John Horwood, Frank Skinner
 - 2011-04-16 — Frank Skinner - Cringing — speakers: Frank Skinner Cringing Frank, Frank Skinner
 - 2011-04-12 — Frank Skinner - Opposite Sex Lookalikes — speakers: Lookalikes Frank, Frank Skinner
-- 2011-04-09 — Frank Skinner - Connections — speakers: Frank Skinner Connections, Tony Capstick, Frank Skinner
+- 2011-04-09 — Frank Skinner - Connections — speakers: Frank Skinner Connections, Frank Skinner
 - 2011-04-05 — Frank Skinner - Haircuts & Emails — speakers: Emails Frank, Frank Skinner
-- 2011-04-02 — Frank Skinner - The World Of Spirits — speakers: Ronnie Wood, Derek Acorah, Frank Skinner
+- 2011-04-02 — Frank Skinner - The World Of Spirits — speakers: Ronnie Wood, Frank Skinner
 - 2011-03-29 — Frank Skinner - Fairy Tales — speakers: Tales Frank, Frank Skinner
 - 2011-03-26 — Frank Skinner - Peter The Wild — speakers: Frank Skinner Peter, Frank Skinner
 - 2011-03-23 — Frank Skinner - Concrete Patch — speakers: Frank Skinner Concrete, Frank Skinner
@@ -24339,7 +23778,7 @@
 - 2011-02-24 — Frank Skinner on Absolute Radio — speakers: Frank Skinner
 - 2011-02-23 — Not The Weekend Podcast - 23 Feb — speakers: Frank Skinner
 - 2011-02-19 — Frank Skinner - Guest: Jason Byrne — speakers: Frank Skinner Guest, Jason Byrne, Frank Skinner
-- 2011-02-16 — Not the Weekend Podcast - 16 Feb — speakers: John Wayne, Frank Skinner
+- 2011-02-16 — Not the Weekend Podcast - 16 Feb — speakers: Frank Skinner
 - 2011-02-12 — Frank Skinner - Guest: Mark Steel — speakers: Frank Skinner Guest, Mark Steel Frank, Frank Skinner
 - 2011-02-08 — The Not The Weekend Podcast — speakers: Frank Skinner
 - 2011-02-05 — Frank Skinner - Guest: Ed Byrne — speakers: Frank Skinner Guest, Ed Byrne Ed Byrne, Frank Skinner
@@ -24351,14 +23790,14 @@
 - 2011-01-15 — Frank Skinner - Guest: Andi Osho — speakers: Frank Skinner Guest, Andi Osho Frank, Frank Skinner
 - 2011-01-12 — Not The Weekend Podcast - 12 Nov — speakers: Frank Skinner
 - 2011-01-08 — Frank Skinner - Guest: Milton Jones — speakers: Frank Skinner Guest, Milton Jones Frank, Derek Acorah, Frank Skinner
-- 2011-01-04 — Frank Skinner - Best Of Part 4 — speakers: Frank Skinner Best, Boy George, Ross Noble, Frank Skinner
-- 2011-01-01 — Frank Skinner - Best Of Part 3 — speakers: Frank Skinner Best, Tim Key, Reece Shearsmith, Lee Mack, Frank Skinner
-- 2010-12-30 — Frank Skinner - Best Of Part 2 — speakers: Frank Skinner Best, Ben Miller, David Baddiel, Toyah Wilcox, Frank Skinner
-- 2010-12-25 — Frank Skinner - Best Of Part 1 — speakers: Frank Skinner Best, Sarah Milican, Rob Deering, Frank Skinner
+- 2011-01-04 — Frank Skinner - Best Of Part 4 — speakers: Frank Skinner Best, Frank Skinner
+- 2011-01-01 — Frank Skinner - Best Of Part 3 — speakers: Frank Skinner Best, Frank Skinner
+- 2010-12-30 — Frank Skinner - Best Of Part 2 — speakers: Frank Skinner Best, Frank Skinner
+- 2010-12-25 — Frank Skinner - Best Of Part 1 — speakers: Frank Skinner Best, Frank Skinner
 - 2010-12-22 — Frank Skinner - Not The Weekend Podcast — speakers: Frank Skinner Not, Shane Warne, Frank Skinner
 - 2010-12-18 — Frank Skinner - Guest: Al Murray — speakers: Frank Skinner Guest, Al Murray Frank, Matt Cardle, Al Murray, Frank Skinner
 - 2010-12-15 — The Frank Skinner Show — speakers: Frank Skinner
-- 2010-12-11 — Frank Skinner on Absolute Radio — speakers: Frank Skinner, Matt Cardle
+- 2010-12-11 — Frank Skinner on Absolute Radio — speakers: Frank Skinner, Matt Card
 - 2010-12-07 — Not the Weekend Podcast - 7 Dec — speakers: Frank Skinner
 - 2010-12-04 — Frank Sknner - Guest: Lee Mack — speakers: Frank Sknner Guest, Lee Mack, Frank Skinner
 - 2010-12-01 — Not The Weekend Podcast - 1st December — speakers: Frank Skinner
@@ -24370,7 +23809,7 @@
 - 2010-11-09 — Not The Weekend Podcast - 9 Nov — speakers: Frank Skinner
 - 2010-11-06 — Frank Skinner - Guest: Stephen K Amos — speakers: Frank Skinner Guest, Amos Frank, Frank Skinner
 - 2010-11-02 — Not The Weekend Podcast - 3 Nov — speakers: Frank Skinner
-- 2010-10-30 — Frank Skinner - Guest: Chris Addison — speakers: Frank Skinner Guest, Chris Addison Frank, Chris Addison, Frank Skinner
+- 2010-10-30 — Frank Skinner - Guest: Chris Addison — speakers: Frank Skinner Guest, Chris Addison Frank, Frank Skinner
 - 2010-10-26 — Not the Weekend Podcast - 27 Oct — speakers: Frank Skinner
 - 2010-10-23 — Frank Skinner - Guest: Tim Key — speakers: Frank Skinner Guest, Tim Key Frank, Frank Skinner
 - 2010-10-19 — Not The Weekend Podcast - 19 Oct — speakers: Frank Skinner
@@ -24382,12 +23821,12 @@
 - 2010-09-29 — Not the Weekend Podcast - 29 Sept — speakers: Frank Skinner
 - 2010-09-25 — Frank Skinner - Guest: Isy Suttie — speakers: Frank Skinner Guest, Samuel Johnson, David Beckham, Frank Skinner
 - 2010-09-22 — The Frank Skinner Show — speakers: Frank Skinner
-- 2010-09-18 — Frank Skinner - Guest: Shazia Mirza — speakers: Frank Skinner Guest, Shazia Mirza, George Michael, Frank Skinner
+- 2010-09-18 — Frank Skinner - Guest: Shazia Mirza — speakers: Frank Skinner Guest, Shazia Mirza, Frank Skinner
 - 2010-09-15 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Frank Skinner
-- 2010-09-11 — Frank Skinner - Guest: Stewart Francis — speakers: Frank Skinner Guest, Stewart Francis Frank, Stewart Francis, Tour De Francis, Frank Skinner
-- 2010-09-08 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Vintage Clothing, Frank Skinner
+- 2010-09-11 — Frank Skinner - Guest: Stewart Francis — speakers: Frank Skinner Guest, Stewart Francis Frank, Stewart Francis, Frank Skinner
+- 2010-09-08 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Frank Skinner
 - 2010-09-04 — Frank Skinner - Guest: Midnight Beast — speakers: Frank Skinner Guest, Midnight Beast Frank, Frank Skinner
-- 2010-09-01 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Ray Gordon, Frank Skinner
+- 2010-09-01 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Frank Skinner
 - 2010-08-28 — Frank Skinner - Guest Sarah Millican — speakers: Frank Skinner Guest, Sarah Millican Frank, Frank Skinner
 - 2010-08-25 — Frank Skinner - Not the Weekend Podcast — speakers: Frank Skinner Not, Frank Skinner
 - 2010-08-21 — The Frank Skinner Show — speakers: Frank Skinner
@@ -24399,14 +23838,14 @@
 - 2010-07-24 — Guest: Josie Long — speakers: Josie Long, Lee Mack, Frank Skinner
 - 2010-07-23 — Frank Skinner - 22 June - Not The Weekend Podcast — speakers: Frank Skinner
 - 2010-07-17 — Guest: Andy Zaltzman — speakers: Andy Zaltzman Frank, Frank Skinner
-- 2010-07-10 — Russell Kane on Absolute Radio — speakers: Russell Kane, Frank Skinner, Holly Walsh
-- 2010-07-03 — Al Murray On Absolute Radio — speakers: Al Murray, Dan Antopolski, Frank Skinner
-- 2010-07-01 — Baddiel & Skinner - Live Show 3 — speakers: David Baddiel, Frank Skinner
-- 2010-06-26 — Lee Mack on Absolute Radio — speakers: Lee Mack, Frank Skinner, Greg Davies
+- 2010-07-10 — Russell Kane on Absolute Radio — speakers: Russell Kane, Frank Skinner
+- 2010-07-03 — Al Murray On Absolute Radio — speakers: Al Murray, Frank Skinner
+- 2010-07-01 — Baddiel & Skinner - Live Show 3 — speakers: Frank Skinner
+- 2010-06-26 — Lee Mack on Absolute Radio — speakers: Lee Mack, Frank Skinner
 - 2010-06-22 — Baddiel & Skinner - Live Show 2 — speakers: Frank Skinner
-- 2010-06-19 — Lee Mack on Absolute Radio — speakers: Lee Mack, Danny Wallace, Frank Skinner
+- 2010-06-19 — Lee Mack on Absolute Radio — speakers: Lee Mack, Frank Skinner
 - 2010-06-17 — The Frank Skinner Show — speakers: Frank Skinner
-- 2010-06-12 — Al Murray on Absolute Radio — speakers: Al Murray, Frank Skinner, Lee Nelson
+- 2010-06-12 — Al Murray on Absolute Radio — speakers: Al Murray, Frank Skinner
 - 2010-06-09 — Frank Skinner - 9June - Not The Weekend Podcast — speakers: Frank Skinner June, Frank Skinner
 - 2010-06-05 — Frank Skinner - 05 June - Guest: Andy Nyman — speakers: Frank Skinner, Andy Nyman Frank
 - 2010-06-02 — Frank Skinner - 2June - Not the Weekend Podcast — speakers: Frank Skinner June, Frank Skinner
@@ -24430,15 +23869,15 @@
 - 2010-04-01 — Frank's Midweek Mini — speakers: Frank Skinner
 - 2010-03-27 — Guest: Chris Ramsey — speakers: Chris Ramsey, Frank Skinner
 - 2010-03-25 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
-- 2010-03-20 — Guest: Graham Fellows — speakers: Graham Fellows, Ray Montblanc, Frank Skinner
+- 2010-03-20 — Guest: Graham Fellows — speakers: Graham Fellows, Frank Skinner
 - 2010-03-18 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
 - 2010-03-13 — Guest - Toyah Wilcox — speakers: Frank Skinner
 - 2010-03-10 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
 - 2010-03-06 — Guest:Tom Basden — speakers: Tom Basden Frank, Carol Vorderman, Frank Skinner
 - 2010-03-03 — Frank's Midweek Mini — speakers: Midweek Mini Crutch Running, Frank Skinner
-- 2010-02-27 — Guest: Ben Miller — speakers: Ben Miller, Frank Skinner
+- 2010-02-27 — Guest: Ben Miller — speakers: Ben Miller, Ben Mi, Frank Skinner
 - 2010-02-24 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
-- 2010-02-20 — Guest: Sarah Millican — speakers: Sarah Millican, Ashley Cole, Frank Skinner
+- 2010-02-20 — Guest: Sarah Millican — speakers: Sarah Millican, Frank Skinner
 - 2010-02-17 — Frank's Midweek Mini — speakers: Midweek Mini, Frank Skinner
 - 2010-02-13 — Guest: Sean Lock — speakers: Sean Lock, Frank Skinner
 - 2010-02-10 — Frank's Midweek Fix - Elbow Wars — speakers: Midweek Fix Elbow, Frank Skinner
@@ -24453,12 +23892,12 @@
 - 2009-12-12 — Guest: Adrian Chiles — speakers: joins Frank, Frank Skinner
 - 2009-12-05 — merriment with this week's guest Charlotte Hatherley — speakers: Charlotte Hatherley, Frank Skinner
 - 2009-11-28 — Guest: Jon Richardson — speakers: Jon Richardson Frank, Frank Skinner
-- 2009-11-21 — Guest: Jason Manford — speakers: Jason Manford Frank, Frank Skinner
+- 2009-11-21 — Guest: Jason Manford — speakers: Jason Manford Frank, Gareth de, Frank Skinner
 - 2009-11-14 — Guest: Micky Flanagan — speakers: Micky Flanagan, Frank Skinner
 - 2009-11-07 — Guest: Rob Deering — speakers: Rob Deering Frank, Rob Deering, Frank Skinner
 - 2009-10-31 — Guest: Rhod Gilbert — speakers: Frank Skinner
 - 2009-10-25 — Guest: Andy Parsons — speakers: Andy Parsons, Laura Solon, Frank Skinner
-- 2009-10-18 — Ed In A Ditch — speakers: Ed Byrne, Frank Skinner
+- 2009-10-18 — Ed In A Ditch — speakers: Frank Skinner
 - 2009-10-10 — Guest: Russell Kane — speakers: Russell Kane Frank, Russell Kane, Frank Skinner
 - 2009-10-03 — Guest: David Essex — speakers: David Essex, Frank Skinner
 - 2009-09-27 — Guest: Cerys Matthews — speakers: Cerys Matthews, Frank Skinner
@@ -24469,12 +23908,12 @@
 - 2009-08-24 — Guest: Jason Byrne — speakers: Jason Byrne Frank, Frank Skinner
 - 2009-08-16 — Guest: Janeane Garofalo — speakers: Janeane Garofalo, Frank Skinner
 - 2009-08-09 — Guest: Lee Mack — speakers: Lee Mack Frank, Lee Mack, Aldo Zilli, Frank Skinner
-- 2009-08-03 — Guest: Alun Cochrane — speakers: Alun Cochrane Frank, Alun Cochrane, Roberto Di Matteo, Frank Skinner
-- 2009-07-25 — Guest: Richard Herring — speakers: Richard Herring Frank, Richard Herring, Swine Flu, Frank Skinner
-- 2009-07-18 — Guest: The Lightning Seeds — speakers: Ian Broudie, Frank Skinner
+- 2009-08-03 — Guest: Alun Cochrane — speakers: Alun Cochrane Frank, Frank Skinner
+- 2009-07-25 — Guest: Richard Herring — speakers: Richard Herring Frank, Richard Herring, Frank Skinner
+- 2009-07-18 — Guest: The Lightning Seeds — speakers: up lines, Frank Skinner
 - 2009-07-11 — Guest: Phil Nichol — speakers: Phil Nichol, Frank Skinner
-- 2009-07-04 — Guest: Reece Shearsmith — speakers: Reece Shearsmith Frank, Reece Shearsmith, Frank Skinner
-- 2009-06-27 — Guest: The Duckworth Lewis Method — speakers: Neil Hannon, Thomas Walsh, Frank Skinner
+- 2009-07-04 — Guest: Reece Shearsmith — speakers: Reece Shearsmith Frank, Reece Shearsmi, Frank Skinner
+- 2009-06-27 — Guest: The Duckworth Lewis Method — speakers: Neil Hannon, Frank Skinner
 - 2009-06-06 — Guest: Jenny Eclair — speakers: Jenny Eclair, Dave Gorman, Frank Skinner, Jimmy McGhie, Emily Dean
 - 2009-05-30 — Guest: Isy Suttie — speakers: Isy Suttie Frank, Frank Skinner
 - 2009-05-23 — Guest: Alistair McGowan — speakers: Alistair McGowan, Frank Skinner
