@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-02-23T16:02:43+00:00`
-- checked_at: `2026-02-23T16:02:43+00:00`
-- last_modified: `Mon, 23 Feb 2026 14:11:41 GMT`
+- fetched_at: `2026-02-25T03:15:32+00:00`
+- checked_at: `2026-02-25T03:15:32+00:00`
+- last_modified: `Wed, 25 Feb 2026 00:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T16:02:43+00:00",
+  "fetched_at": "2026-02-25T03:15:32+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6634ca0a5c7cde45d68dff7436521f0581e232ba",
+      "title": "WDWDY #60: Yesterday waits for no man",
+      "published_at": "2026-02-25T00:30:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what Max did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Produced by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Michael Marden⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/787e0e6c-10b8-11f1-98c9-6b8f5ceb20f0/image/66dd0e1c0c3ae1c9c14e2654bb78ebeb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6507132007.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3426",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "yesterday"
+      ]
+    },
     {
       "key": "341cbe51cb33c8158d509aeec9b4787836444adb",
       "title": "S4 EP8: Fern Brady",
@@ -59,7 +78,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3655",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -100,7 +118,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3796",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -142,7 +159,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3443",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -185,7 +201,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3507",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -226,7 +241,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3711",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -269,7 +283,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3526",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -310,7 +323,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3008",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -352,8 +364,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5048",
       "speakers": [
-        "Merry Christmas",
-        "xx Find",
+        "Cheese Board",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -373,7 +384,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1657",
       "speakers": [
-        "Green Bunny",
+        "Festive Caper",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -395,7 +406,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1579",
       "speakers": [
-        "Green Bunny",
+        "Festive Caper",
+        "Lost Property",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -417,6 +429,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1996",
       "speakers": [
+        "Festive Caper",
         "Zoom Nora",
         "Max Rushden",
         "David O'Doherty"
@@ -459,7 +472,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3348",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -481,7 +493,6 @@
       "itunes_duration": "5032",
       "speakers": [
         "Jessica Fostekew Joining",
-        "Jessica Fostekew",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -502,7 +513,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3268",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -543,8 +553,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3841",
       "speakers": [
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -565,7 +573,6 @@
       "itunes_duration": "4738",
       "speakers": [
         "Kelly Cates",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -586,8 +593,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3753",
       "speakers": [
-        "endteddingtonnow com",
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -628,8 +633,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4248",
       "speakers": [
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -670,8 +673,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3769",
       "speakers": [
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -713,8 +714,6 @@
       "itunes_duration": "3488",
       "speakers": [
         "Chainsaw Lube",
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -756,8 +755,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3305",
       "speakers": [
-        "xx Find",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -799,8 +796,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3504",
       "speakers": [
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -841,7 +836,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3719",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -882,7 +876,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4126",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -924,7 +917,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2943",
       "speakers": [
-        "xx Find",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -965,7 +957,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3695",
       "speakers": [
-        "xx Find",
+        "Hackeny Empire",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1007,8 +999,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3091",
       "speakers": [
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1050,8 +1040,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2891",
       "speakers": [
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1092,8 +1080,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2746",
       "speakers": [
-        "xx Find",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1134,8 +1120,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3461",
       "speakers": [
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1156,7 +1140,6 @@
       "itunes_duration": "3859",
       "speakers": [
         "Mary Beard",
-        "Charlotte Higgins",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1178,9 +1161,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3256",
       "speakers": [
-        "Uncle Max",
-        "xx Find",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1221,7 +1201,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3450",
       "speakers": [
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1263,7 +1242,6 @@
       "itunes_duration": "3666",
       "speakers": [
         "Joe Rogan",
-        "Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1284,7 +1262,6 @@
       "itunes_duration": "4677",
       "speakers": [
         "Emma Doran",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1305,7 +1282,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3631",
       "speakers": [
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1346,7 +1322,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3565",
       "speakers": [
-        "xx Sales",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1368,8 +1343,6 @@
       "itunes_duration": "5097",
       "speakers": [
         "Stevie Martin Joining",
-        "Stevie Martin",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1390,7 +1363,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3715",
       "speakers": [
-        "xx Sales",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1412,7 +1384,6 @@
       "itunes_duration": "4594",
       "speakers": [
         "Charlie Baker",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1433,7 +1404,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3252",
       "speakers": [
-        "xx Sales",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1456,7 +1426,6 @@
       "itunes_duration": "5975",
       "speakers": [
         "Guy Montgomery",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1476,8 +1445,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4580",
       "speakers": [
-        "yesterdaypod Subscribe",
-        "xx Sales",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1499,8 +1466,6 @@
       "itunes_duration": "5446",
       "speakers": [
         "Tom Basden Joining",
-        "Tom Basden",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1520,7 +1485,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4126",
       "speakers": [
-        "xx Sales",
+        "Wearing Last Summer",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1541,7 +1506,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4616",
       "speakers": [
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1562,8 +1526,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4470",
       "speakers": [
-        "William Golding",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1584,7 +1546,6 @@
       "itunes_duration": "4076",
       "speakers": [
         "Tim Key",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1602,8 +1563,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3667",
       "speakers": [
-        "David Levithan",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1624,7 +1583,6 @@
       "itunes_duration": "5045",
       "speakers": [
         "Justin Moorhouse",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1645,7 +1603,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3609",
       "speakers": [
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1668,10 +1625,6 @@
       "itunes_duration": "5324",
       "speakers": [
         "Cariad Lloyd",
-        "Alan Partridge",
-        "Rachel Parris",
-        "Queen Camilla",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1692,7 +1645,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3551",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1714,7 +1666,6 @@
       "itunes_duration": "3411",
       "speakers": [
         "Gary Lineker",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1735,7 +1686,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3824",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1757,7 +1707,6 @@
       "itunes_duration": "5590",
       "speakers": [
         "Matthew Crosby",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1778,7 +1727,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3911",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1800,7 +1748,6 @@
       "itunes_duration": "5273",
       "speakers": [
         "Adam Buxton",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1821,7 +1768,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3279",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1843,7 +1789,6 @@
       "itunes_duration": "3902",
       "speakers": [
         "Esther Manito",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1864,7 +1809,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4028",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1885,8 +1829,6 @@
       "itunes_duration": "4813",
       "speakers": [
         "Pierre Novellie",
-        "Monkey Barrel",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1907,7 +1849,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3703",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1928,7 +1869,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5286",
       "speakers": [
-        "xx Get",
+        "Nadia Shireen Joining",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1949,8 +1890,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4092",
       "speakers": [
-        "Sarah Connor",
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1971,7 +1910,6 @@
       "itunes_duration": "5149",
       "speakers": [
         "Joel Dommett",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -1992,7 +1930,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3696",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2013,7 +1950,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3215",
       "speakers": [
-        "xx Get",
+        "Omid Djalili Joining",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2036,8 +1973,6 @@
       "speakers": [
         "Mars Bar",
         "Michael Marden",
-        "Parenting Hell",
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2061,8 +1996,6 @@
       "itunes_duration": "4951",
       "speakers": [
         "Rob Beckett",
-        "xx Get",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2082,7 +2015,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3495",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2104,8 +2036,6 @@
       "itunes_duration": "5233",
       "speakers": [
         "Jess Knappett",
-        "xx Get",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2126,7 +2056,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3510",
       "speakers": [
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2148,8 +2077,6 @@
       "itunes_duration": "4218",
       "speakers": [
         "Joe Wilkinson",
-        "xx Get",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2169,8 +2096,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2978",
       "speakers": [
-        "PO Box London",
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2193,8 +2118,6 @@
       "itunes_duration": "4651",
       "speakers": [
         "Phil Wang",
-        "xx Get",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2216,8 +2139,6 @@
       "itunes_duration": "2757",
       "speakers": [
         "Ian Rushden",
-        "PO Box London",
-        "xx Follow",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2239,8 +2160,6 @@
       "itunes_duration": "4273",
       "speakers": [
         "Tom Rosenthal",
-        "xx Get",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2260,8 +2179,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3333",
       "speakers": [
-        "PO Box London",
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2283,8 +2200,6 @@
       "speakers": [
         "Joanne McNally",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2304,7 +2219,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3329",
       "speakers": [
-        "xx Get",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2328,8 +2242,6 @@
       "speakers": [
         "Mark Watson",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2349,8 +2261,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3405",
       "speakers": [
-        "xx Follow",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2373,8 +2283,6 @@
       "speakers": [
         "James Buckley",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2394,9 +2302,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2692",
       "speakers": [
-        "xx Get",
-        "xx Follow",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2420,8 +2325,6 @@
       "speakers": [
         "Natalie Cassidy",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2442,8 +2345,6 @@
       "itunes_duration": "2963",
       "speakers": [
         "Batch Cookers",
-        "xx Follow",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2468,8 +2369,6 @@
       "speakers": [
         "Rhys James",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2489,8 +2388,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3265",
       "speakers": [
-        "xx Follow",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2513,8 +2410,6 @@
       "itunes_duration": "4364",
       "speakers": [
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2533,8 +2428,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2840",
       "speakers": [
-        "xx Follow",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2559,8 +2452,6 @@
       "speakers": [
         "Chloe Petts",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2580,8 +2471,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2748",
       "speakers": [
-        "xx Follow",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2602,8 +2491,6 @@
       "itunes_duration": "4396",
       "speakers": [
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2623,8 +2510,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2519",
       "speakers": [
-        "xx Follow",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2645,8 +2530,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3923",
       "speakers": [
-        "xx Get",
-        "Michael Marden Learn",
         "Max Rushden",
         "David O'Doherty"
       ],
@@ -2668,8 +2551,6 @@
       "speakers": [
         "Kerry Godliman",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2691,8 +2572,6 @@
       "speakers": [
         "Marcus Brigstocke",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2714,8 +2593,6 @@
       "speakers": [
         "Josie Long",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2737,8 +2614,6 @@
       "speakers": [
         "Ed Gamble",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2758,8 +2633,6 @@
       "itunes_duration": "4462",
       "speakers": [
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": []
@@ -2778,9 +2651,6 @@
       "speakers": [
         "Amy Gledhill",
         "Max Rushden",
-        "Edinburgh Fringe Award",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2801,8 +2671,6 @@
       "speakers": [
         "Richard Osman",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2824,8 +2692,6 @@
       "speakers": [
         "Jamali Maddix",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2847,8 +2713,6 @@
       "speakers": [
         "James Acaster",
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Learn",
         "David O'Doherty"
       ],
       "topics": [
@@ -2869,8 +2733,6 @@
       "itunes_duration": "4786",
       "speakers": [
         "Max Rushden",
-        "xx Get",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -2891,7 +2753,6 @@
       "speakers": [
         "Sam Campbell",
         "Max Rushden",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -2912,7 +2773,6 @@
       "speakers": [
         "Rose Matafeo",
         "Max Rushden",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -2934,7 +2794,6 @@
       "speakers": [
         "Ivo Graham",
         "Max Rushden",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -2955,9 +2814,6 @@
       "speakers": [
         "Suzi Ruffell",
         "Max Rushden",
-        "Minded Friends",
-        "Kick Energy",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -2979,7 +2835,6 @@
       "speakers": [
         "Josh Widdicombe",
         "Max Rushden",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -3001,7 +2856,6 @@
       "speakers": [
         "Alex Horne",
         "Max Rushden",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -3023,7 +2877,6 @@
       "speakers": [
         "Lou Sanders",
         "Max Rushden",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -3044,7 +2897,6 @@
       "speakers": [
         "Elis James",
         "Max Rushden",
-        "Michael Marden Sales",
         "David O'Doherty"
       ],
       "topics": [
@@ -3078,144 +2930,145 @@
 
 ## Episodes (newest first)
 
+- 2026-02-25 — WDWDY #60: Yesterday waits for no man — speakers: Max Rushden, David O'Doherty
 - 2026-02-22 — S4 EP8: Fern Brady — speakers: Max Rushden, David O'Doherty
-- 2026-02-18 — WDWDY #59: Fun Facts and Days Before — speakers: xx Find, Max Rushden, David O'Doherty
+- 2026-02-18 — WDWDY #59: Fun Facts and Days Before — speakers: Max Rushden, David O'Doherty
 - 2026-02-15 — S4 EP7: Michelle Wolf — speakers: Michelle Wolf, Max Rushden, David O'Doherty
-- 2026-02-11 — WDWDY #58: Y.E.S.T.E.R.D.A.Y. — speakers: xx Find, Max Rushden, David O'Doherty
+- 2026-02-11 — WDWDY #58: Y.E.S.T.E.R.D.A.Y. — speakers: Max Rushden, David O'Doherty
 - 2026-02-08 — S4 EP6: Susie McCabe — speakers: Susie McCabe, Max Rushden, David O'Doherty
-- 2026-02-04 — WDWDY #57: Sandwich and soup combo — speakers: xx Find, Max Rushden, David O'Doherty
+- 2026-02-04 — WDWDY #57: Sandwich and soup combo — speakers: Max Rushden, David O'Doherty
 - 2026-02-01 — S4 EP5: Richard Herring — speakers: Richard Herring, Max Rushden, David O'Doherty
-- 2026-01-28 — WDWDY #56: All my troubles seemed so far away... — speakers: xx Find, Max Rushden, David O'Doherty
+- 2026-01-28 — WDWDY #56: All my troubles seemed so far away... — speakers: Max Rushden, David O'Doherty
 - 2026-01-25 — S4 EP4: Vittorio Angelone — speakers: Vittorio Angelone, Max Rushden, David O'Doherty
-- 2026-01-21 — WDWDY #55: A Soapy Explosion — speakers: xx Find, Max Rushden, David O'Doherty
+- 2026-01-21 — WDWDY #55: A Soapy Explosion — speakers: Max Rushden, David O'Doherty
 - 2026-01-18 — S4 EP3: Christopher Macarthur-Boyd — speakers: Christopher Macarthur-Boyd, Max Rushden, David O'Doherty
-- 2026-01-14 — WDWDY #54: A Yesterday Like Any Other — speakers: xx Find, Max Rushden, David O'Doherty
+- 2026-01-14 — WDWDY #54: A Yesterday Like Any Other — speakers: Max Rushden, David O'Doherty
 - 2026-01-11 — S4 EP2: John Kearns — speakers: John Kearns, Max Rushden, David O'Doherty
-- 2026-01-07 — WDWDY #53: Do yesterdays dream of electric cheese? — speakers: xx Find, Max Rushden, David O'Doherty
+- 2026-01-07 — WDWDY #53: Do yesterdays dream of electric cheese? — speakers: Max Rushden, David O'Doherty
 - 2026-01-04 — S4 EP1: Bret McKenzie — speakers: Bret McKenzie, Max Rushden, David O'Doherty
-- 2025-12-28 — WDWDY #52: Duelling Cheeseboards — speakers: Merry Christmas, xx Find, Max Rushden, David O'Doherty
-- 2025-12-24 — The Great Christmas Bunny Emergency (Part 3) — speakers: Green Bunny, Max Rushden, David O'Doherty
-- 2025-12-23 — The Great Christmas Bunny Emergency (Part 2 ) — speakers: Green Bunny, Max Rushden, David O'Doherty
-- 2025-12-22 — The Great Christmas Bunny Emergency (Part 1 ) — speakers: Zoom Nora, Max Rushden, David O'Doherty
+- 2025-12-28 — WDWDY #52: Duelling Cheeseboards — speakers: Cheese Board, Max Rushden, David O'Doherty
+- 2025-12-24 — The Great Christmas Bunny Emergency (Part 3) — speakers: Festive Caper, Max Rushden, David O'Doherty
+- 2025-12-23 — The Great Christmas Bunny Emergency (Part 2 ) — speakers: Festive Caper, Lost Property, Max Rushden, David O'Doherty
+- 2025-12-22 — The Great Christmas Bunny Emergency (Part 1 ) — speakers: Festive Caper, Zoom Nora, Max Rushden, David O'Doherty
 - 2025-12-21 — S3 EP27: Rob Auton — speakers: Rob Auton, Max Rushden, David O'Doherty
-- 2025-12-17 — WDWDY #51: In Fairness To Lube — speakers: xx Find, Max Rushden, David O'Doherty
-- 2025-12-14 — S3 EP26: Jessica Fostekew — speakers: Jessica Fostekew Joining, Jessica Fostekew, Max Rushden, David O'Doherty
-- 2025-12-10 — WDWDY #50: The Dream Crusher Is Here — speakers: xx Find, Max Rushden, David O'Doherty
+- 2025-12-17 — WDWDY #51: In Fairness To Lube — speakers: Max Rushden, David O'Doherty
+- 2025-12-14 — S3 EP26: Jessica Fostekew — speakers: Jessica Fostekew Joining, Max Rushden, David O'Doherty
+- 2025-12-10 — WDWDY #50: The Dream Crusher Is Here — speakers: Max Rushden, David O'Doherty
 - 2025-12-07 — S3 EP25: Hal Cruttenden — speakers: Hal Cruttenden, Max Rushden, David O'Doherty
-- 2025-12-03 — WDWDY #49: USB Tongue — speakers: xx Find, Marden Learn, Max Rushden, David O'Doherty
-- 2025-11-30 — S3 EP24: Kelly Cates — speakers: Kelly Cates, Marden Learn, Max Rushden, David O'Doherty
-- 2025-11-26 — WDWDY #48: End Teddington Now — speakers: endteddingtonnow com, xx Find, Max Rushden, David O'Doherty
+- 2025-12-03 — WDWDY #49: USB Tongue — speakers: Max Rushden, David O'Doherty
+- 2025-11-30 — S3 EP24: Kelly Cates — speakers: Kelly Cates, Max Rushden, David O'Doherty
+- 2025-11-26 — WDWDY #48: End Teddington Now — speakers: Max Rushden, David O'Doherty
 - 2025-11-23 — S3 EP23: Andy Zaltzman — speakers: Andy Zaltzman, Max Rushden, David O'Doherty
-- 2025-11-19 — WDWDY #47: Enya says hello — speakers: xx Find, Marden Learn, Max Rushden, David O'Doherty
+- 2025-11-19 — WDWDY #47: Enya says hello — speakers: Max Rushden, David O'Doherty
 - 2025-11-16 — S3 EP22: Russell Howard — speakers: Russell Howard, Max Rushden, David O'Doherty
-- 2025-11-12 — WDWDY #46: Everyone's a Hypocrite — speakers: xx Find, Marden Learn, Max Rushden, David O'Doherty
+- 2025-11-12 — WDWDY #46: Everyone's a Hypocrite — speakers: Max Rushden, David O'Doherty
 - 2025-11-09 — S3 EP21: Ania Magliano — speakers: Ania Magliano, Max Rushden, David O'Doherty
-- 2025-11-05 — WDWDY #45: Chainsaw Lube — speakers: Chainsaw Lube, xx Find, Marden Learn, Max Rushden, David O'Doherty
+- 2025-11-05 — WDWDY #45: Chainsaw Lube — speakers: Chainsaw Lube, Max Rushden, David O'Doherty
 - 2025-11-02 — S3 EP20: Angela Scanlon — speakers: Angela Scanlon, Max Rushden, David O'Doherty
-- 2025-10-29 — WDWDY #44: General Sadness — speakers: xx Find, Michael Marden Learn, Max Rushden, David O'Doherty
+- 2025-10-29 — WDWDY #44: General Sadness — speakers: Max Rushden, David O'Doherty
 - 2025-10-26 — S3 EP19: Rosie Jones — speakers: Rosie Jones, Max Rushden, David O'Doherty
-- 2025-10-21 — WDWDY #43: The A - Z of What Did You Do Yesterday? — speakers: xx Find, Marden Learn, Max Rushden, David O'Doherty
+- 2025-10-21 — WDWDY #43: The A - Z of What Did You Do Yesterday? — speakers: Max Rushden, David O'Doherty
 - 2025-10-19 — S3 EP18: Ian Smith — speakers: Ian Smith, Max Rushden, David O'Doherty
-- 2025-10-15 — WDWDY #42: Play the game... — speakers: xx Find, Max Rushden, David O'Doherty
+- 2025-10-15 — WDWDY #42: Play the game... — speakers: Max Rushden, David O'Doherty
 - 2025-10-11 — S3 EP17: Alison Spittle — speakers: Alison Spittle, Max Rushden, David O'Doherty
-- 2025-10-07 — WDWDY #41: Five Finger Messages — speakers: xx Find, Max Rushden, David O'Doherty
+- 2025-10-07 — WDWDY #41: Five Finger Messages — speakers: Max Rushden, David O'Doherty
 - 2025-10-05 — S3 EP16: Jonathan Wilson — speakers: Jonathan Wilson, Max Rushden, David O'Doherty
-- 2025-10-01 — WDWDY #40: The Day Before Yesterday — speakers: xx Find, Max Rushden, David O'Doherty
+- 2025-10-01 — WDWDY #40: The Day Before Yesterday — speakers: Max Rushden, David O'Doherty
 - 2025-09-28 — S3 EP15: Chris McCausland — speakers: Chris McCausland, Max Rushden, David O'Doherty
-- 2025-09-23 — WDWDY #39: Georgia on my mind... — speakers: xx Find, Max Rushden, David O'Doherty
+- 2025-09-23 — WDWDY #39: Georgia on my mind... — speakers: Hackeny Empire, Max Rushden, David O'Doherty
 - 2025-09-20 — S3 EP14: Mike Bubbins — speakers: Mike Bubbins, Max Rushden, David O'Doherty
-- 2025-09-16 — WDWDY #38: Trainspotting — speakers: xx Find, Marden Learn, Max Rushden, David O'Doherty
+- 2025-09-16 — WDWDY #38: Trainspotting — speakers: Max Rushden, David O'Doherty
 - 2025-09-14 — S3 EP13: Helen Bauer — speakers: Helen Bauer, Max Rushden, David O'Doherty
-- 2025-09-09 — WDWDY #37: A differently but equally exciting yesterday... — speakers: xx Find, Marden Learn, Max Rushden, David O'Doherty
+- 2025-09-09 — WDWDY #37: A differently but equally exciting yesterday... — speakers: Max Rushden, David O'Doherty
 - 2025-09-07 — S3 EP12: Alan Davies — speakers: Alan Davies, Max Rushden, David O'Doherty
-- 2025-09-02 — WDWDY #36: I had such an exciting yesterday... — speakers: xx Find, Michael Marden Learn, Max Rushden, David O'Doherty
+- 2025-09-02 — WDWDY #36: I had such an exciting yesterday... — speakers: Max Rushden, David O'Doherty
 - 2025-08-30 — S3 EP11: Sara Pascoe — speakers: Sara Pascoe, Max Rushden, David O'Doherty
-- 2025-08-26 — WDWDY #35: Everything Is Showbiz — speakers: xx Find, Marden Learn, Max Rushden, David O'Doherty
-- 2025-08-24 — S3 EP10: Dame Mary Beard — speakers: Mary Beard, Charlotte Higgins, Max Rushden, David O'Doherty
-- 2025-08-20 — WDWDY #34: What a sexy podcast... — speakers: Uncle Max, xx Find, Marden Learn, Max Rushden, David O'Doherty
+- 2025-08-26 — WDWDY #35: Everything Is Showbiz — speakers: Max Rushden, David O'Doherty
+- 2025-08-24 — S3 EP10: Dame Mary Beard — speakers: Mary Beard, Max Rushden, David O'Doherty
+- 2025-08-20 — WDWDY #34: What a sexy podcast... — speakers: Max Rushden, David O'Doherty
 - 2025-08-17 — S3 EP9: John Robins — speakers: John Robins, Max Rushden, David O'Doherty
-- 2025-08-12 — WDWDY #33: You can't do a live gig in shorts... — speakers: Marden Learn, Max Rushden, David O'Doherty
+- 2025-08-12 — WDWDY #33: You can't do a live gig in shorts... — speakers: Max Rushden, David O'Doherty
 - 2025-08-09 — S3 EP8: Ross Noble — speakers: Ross Noble, Max Rushden, David O'Doherty
-- 2025-08-06 — WDWDY #32: 28% Joe Rogan — speakers: Joe Rogan, Marden Learn, Max Rushden, David O'Doherty
-- 2025-08-02 — S3 EP7: Emma Doran — speakers: Emma Doran, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-07-30 — WDWDY #31: Lowering The Tone — speakers: Michael Marden Learn, Max Rushden, David O'Doherty
+- 2025-08-06 — WDWDY #32: 28% Joe Rogan — speakers: Joe Rogan, Max Rushden, David O'Doherty
+- 2025-08-02 — S3 EP7: Emma Doran — speakers: Emma Doran, Max Rushden, David O'Doherty
+- 2025-07-30 — WDWDY #31: Lowering The Tone — speakers: Max Rushden, David O'Doherty
 - 2025-07-26 — S3 EP6: Trevor Nelson — speakers: Trevor Nelson, Max Rushden, David O'Doherty
-- 2025-07-23 — WDWDY #30: Welcome Home Max — speakers: xx Sales, Max Rushden, David O'Doherty
-- 2025-07-19 — S3 EP5: Stevie Martin — speakers: Stevie Martin Joining, Stevie Martin, xx Get, Max Rushden, David O'Doherty
-- 2025-07-16 — WDWDY #29: A Day Of Relentless Accomplishment — speakers: xx Sales, Max Rushden, David O'Doherty
-- 2025-07-13 — S3 EP4: Charlie Baker — speakers: Charlie Baker, xx Get, Max Rushden, David O'Doherty
-- 2025-07-09 — WDWDY #28: The Poet Laureate — speakers: xx Sales, Max Rushden, David O'Doherty
-- 2025-07-06 — S3 EP3: Guy Montgomery — speakers: Guy Montgomery, xx Get, Max Rushden, David O'Doherty
-- 2025-07-02 — WDWDY #27: Are you thinking of frogs? — speakers: yesterdaypod Subscribe, xx Sales, Max Rushden, David O'Doherty
-- 2025-06-29 — S3 EP2: Tom Basden — speakers: Tom Basden Joining, Tom Basden, xx Get, Max Rushden, David O'Doherty
-- 2025-06-24 — WDWDY #26: What Pants Were You Wearing Last Summer? — speakers: xx Sales, Max Rushden, David O'Doherty
-- 2025-06-22 — S3 EP1: Sooz Kempner — speakers: xx Get, Max Rushden, David O'Doherty
-- 2025-06-18 — WDWDY #25: Why are you telling me off? — speakers: William Golding, xx Get, Max Rushden, David O'Doherty
-- 2025-06-15 — S2 EP24: Tim Key — speakers: Tim Key, xx Get, Max Rushden, David O'Doherty
-- 2025-06-10 — WDWDY #24: A day by any other name... — speakers: David Levithan, xx Get, Max Rushden, David O'Doherty
-- 2025-06-08 — S2 EP23: Justin Moorhouse — speakers: Justin Moorhouse, xx Get, Max Rushden, David O'Doherty
-- 2025-06-04 — WDWDY #23: Room Temperature Yoghurt — speakers: xx Get, Max Rushden, David O'Doherty
-- 2025-05-31 — S2 EP22: Cariad Lloyd — speakers: Cariad Lloyd, Alan Partridge, Rachel Parris, Queen Camilla, xx Get, Max Rushden, David O'Doherty
-- 2025-05-28 — WDWDY #22: Cascade of Negligence — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-05-25 — S2 EP21: Gary Lineker — speakers: Gary Lineker, xx Get, Max Rushden, David O'Doherty
-- 2025-05-21 — WDWDY #21: Symphony of the Butt... — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-05-18 — S2 EP20: Matthew Crosby — speakers: Matthew Crosby, xx Get, Max Rushden, David O'Doherty
-- 2025-05-14 — WDWDY #20: Dancing in the Moonlight — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-05-11 — S2 EP19: Adam Buxton — speakers: Adam Buxton, xx Get, Max Rushden, David O'Doherty
-- 2025-05-06 — WDWDY #19: The Puppet Master Revealed — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-05-04 — S2 EP18: Esther Manito — speakers: Esther Manito, xx Get, Max Rushden, David O'Doherty
-- 2025-04-29 — WDWDY #18: C'est la fin du fromage — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-04-26 — S2 EP17: Pierre Novellie — speakers: Pierre Novellie, Monkey Barrel, xx Get, Max Rushden, David O'Doherty
-- 2025-04-23 — WDWDY #17: A confession from David... — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-04-20 — S2 EP16: Nadia Shireen — speakers: xx Get, Max Rushden, David O'Doherty
-- 2025-04-15 — WDWDY #16: They might not actually be normal cheeses... — speakers: Sarah Connor, xx Follow, Max Rushden, David O'Doherty
-- 2025-04-13 — S2 EP15: Joel Dommett — speakers: Joel Dommett, xx Get, Max Rushden, David O'Doherty
-- 2025-04-09 — WDWDY #15: The Champignon's League — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-04-06 — S2 EP14: Omid Djalili — speakers: xx Get, Max Rushden, David O'Doherty
-- 2025-04-02 — WDWDY #14: Concrete Jungle Where Dreams Are Made Of... — speakers: Mars Bar, Michael Marden, Parenting Hell, xx Follow, Max Rushden, David O'Doherty
-- 2025-03-30 — S2 EP13: Rob Beckett — speakers: Rob Beckett, xx Get, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-03-26 — WDWDY #13: A Sad Cardboard Kazoo — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-03-23 — S2 EP12: Jess Knappett — speakers: Jess Knappett, xx Get, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-03-19 — WDWDY #12: Not your average Monday... — speakers: xx Follow, Max Rushden, David O'Doherty
-- 2025-03-16 — S2 EP11: Joe Wilkinson — speakers: Joe Wilkinson, xx Get, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-03-12 — WDWDY #11: A day of hope and possum-bilities — speakers: PO Box London, xx Follow, Max Rushden, David O'Doherty
-- 2025-03-09 — S2 EP10: Phil Wang — speakers: Phil Wang, xx Get, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-03-05 — WDWDY #10: Worm Feet — speakers: Ian Rushden, PO Box London, xx Follow, Max Rushden, David O'Doherty
-- 2025-03-02 — S2 EP9: Tom Rosenthal — speakers: Tom Rosenthal, xx Get, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-02-26 — WDWDY #9: The Diabolo Bros. — speakers: PO Box London, xx Get, Max Rushden, David O'Doherty
-- 2025-02-23 — S2 EP8: Joanne McNally — speakers: Joanne McNally, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2025-02-19 — WDWDY #8: A nose like a sommelier on heat... — speakers: xx Get, Max Rushden, David O'Doherty
-- 2025-02-16 — S2 EP7: Mark Watson — speakers: Mark Watson, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2025-02-12 — WDWDY #7: MEAT BATS — speakers: xx Follow, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-02-09 — S2 EP6: James Buckley — speakers: James Buckley, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2025-02-05 — WDWDY #6: A Normal Door Moment — speakers: xx Get, xx Follow, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-02-02 — S2 EP5: Natalie Cassidy — speakers: Natalie Cassidy, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2025-01-29 — WDWDY #5: Batch Cookers of the World Unite — speakers: Batch Cookers, xx Follow, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-01-26 — S2 EP4: Rhys James — speakers: Rhys James, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2025-01-22 — WDWDY #4: People Getting a Latte in Brighton — speakers: xx Follow, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-01-19 — S2 EP3: Huge Davies — speakers: Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2025-01-15 — WDWDY #3: Right Cheese, Wrong Place — speakers: xx Follow, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-01-12 — S2 EP2: Chloe Petts — speakers: Chloe Petts, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2025-01-08 — WDWDY #2: Midweek Mayhem — speakers: xx Follow, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2025-01-05 — S2 EP1: Dara Ó Briain — speakers: Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-12-30 — WDWDY #1: Max and David's Christmas Bonus Episode — speakers: xx Follow, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2024-12-29 — EP19: Nish Kumar — speakers: xx Get, Michael Marden Learn, Max Rushden, David O'Doherty
-- 2024-12-22 — EP18: Kerry Godliman — speakers: Kerry Godliman, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-12-15 — EP17: Marcus Brigstocke — speakers: Marcus Brigstocke, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-12-08 — EP16: Josie Long — speakers: Josie Long, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-12-01 — EP15: Ed Gamble — speakers: Ed Gamble, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-11-24 — EP14: Celya AB — speakers: Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-11-17 — EP13: Amy Gledhill — speakers: Amy Gledhill, Max Rushden, Edinburgh Fringe Award, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-11-10 — EP12: Richard Osman — speakers: Richard Osman, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-11-03 — EP11: Jamali Maddix — speakers: Jamali Maddix, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-10-27 — EP10: James Acaster — speakers: James Acaster, Max Rushden, xx Get, Michael Marden Learn, David O'Doherty
-- 2024-10-20 — EP9: Jen Brister — speakers: Max Rushden, xx Get, Michael Marden Sales, David O'Doherty
-- 2024-10-13 — EP8: Sam Campbell — speakers: Sam Campbell, Max Rushden, Michael Marden Sales, David O'Doherty
-- 2024-10-06 — EP7: Rose Matafeo — speakers: Rose Matafeo, Max Rushden, Michael Marden Sales, David O'Doherty
-- 2024-09-29 — EP6: Ivo Graham — speakers: Ivo Graham, Max Rushden, Michael Marden Sales, David O'Doherty
-- 2024-09-22 — EP5: Suzi Ruffell — speakers: Suzi Ruffell, Max Rushden, Minded Friends, Kick Energy, Michael Marden Sales, David O'Doherty
-- 2024-09-15 — EP4: Josh Widdicombe — speakers: Josh Widdicombe, Max Rushden, Michael Marden Sales, David O'Doherty
-- 2024-09-08 — EP3: Alex Horne — speakers: Alex Horne, Max Rushden, Michael Marden Sales, David O'Doherty
-- 2024-09-01 — EP2: Lou Sanders — speakers: Lou Sanders, Max Rushden, Michael Marden Sales, David O'Doherty
-- 2024-09-01 — EP1: Elis James — speakers: Elis James, Max Rushden, Michael Marden Sales, David O'Doherty
+- 2025-07-23 — WDWDY #30: Welcome Home Max — speakers: Max Rushden, David O'Doherty
+- 2025-07-19 — S3 EP5: Stevie Martin — speakers: Stevie Martin Joining, Max Rushden, David O'Doherty
+- 2025-07-16 — WDWDY #29: A Day Of Relentless Accomplishment — speakers: Max Rushden, David O'Doherty
+- 2025-07-13 — S3 EP4: Charlie Baker — speakers: Charlie Baker, Max Rushden, David O'Doherty
+- 2025-07-09 — WDWDY #28: The Poet Laureate — speakers: Max Rushden, David O'Doherty
+- 2025-07-06 — S3 EP3: Guy Montgomery — speakers: Guy Montgomery, Max Rushden, David O'Doherty
+- 2025-07-02 — WDWDY #27: Are you thinking of frogs? — speakers: Max Rushden, David O'Doherty
+- 2025-06-29 — S3 EP2: Tom Basden — speakers: Tom Basden Joining, Max Rushden, David O'Doherty
+- 2025-06-24 — WDWDY #26: What Pants Were You Wearing Last Summer? — speakers: Wearing Last Summer, Max Rushden, David O'Doherty
+- 2025-06-22 — S3 EP1: Sooz Kempner — speakers: Max Rushden, David O'Doherty
+- 2025-06-18 — WDWDY #25: Why are you telling me off? — speakers: Max Rushden, David O'Doherty
+- 2025-06-15 — S2 EP24: Tim Key — speakers: Tim Key, Max Rushden, David O'Doherty
+- 2025-06-10 — WDWDY #24: A day by any other name... — speakers: Max Rushden, David O'Doherty
+- 2025-06-08 — S2 EP23: Justin Moorhouse — speakers: Justin Moorhouse, Max Rushden, David O'Doherty
+- 2025-06-04 — WDWDY #23: Room Temperature Yoghurt — speakers: Max Rushden, David O'Doherty
+- 2025-05-31 — S2 EP22: Cariad Lloyd — speakers: Cariad Lloyd, Max Rushden, David O'Doherty
+- 2025-05-28 — WDWDY #22: Cascade of Negligence — speakers: Max Rushden, David O'Doherty
+- 2025-05-25 — S2 EP21: Gary Lineker — speakers: Gary Lineker, Max Rushden, David O'Doherty
+- 2025-05-21 — WDWDY #21: Symphony of the Butt... — speakers: Max Rushden, David O'Doherty
+- 2025-05-18 — S2 EP20: Matthew Crosby — speakers: Matthew Crosby, Max Rushden, David O'Doherty
+- 2025-05-14 — WDWDY #20: Dancing in the Moonlight — speakers: Max Rushden, David O'Doherty
+- 2025-05-11 — S2 EP19: Adam Buxton — speakers: Adam Buxton, Max Rushden, David O'Doherty
+- 2025-05-06 — WDWDY #19: The Puppet Master Revealed — speakers: Max Rushden, David O'Doherty
+- 2025-05-04 — S2 EP18: Esther Manito — speakers: Esther Manito, Max Rushden, David O'Doherty
+- 2025-04-29 — WDWDY #18: C'est la fin du fromage — speakers: Max Rushden, David O'Doherty
+- 2025-04-26 — S2 EP17: Pierre Novellie — speakers: Pierre Novellie, Max Rushden, David O'Doherty
+- 2025-04-23 — WDWDY #17: A confession from David... — speakers: Max Rushden, David O'Doherty
+- 2025-04-20 — S2 EP16: Nadia Shireen — speakers: Nadia Shireen Joining, Max Rushden, David O'Doherty
+- 2025-04-15 — WDWDY #16: They might not actually be normal cheeses... — speakers: Max Rushden, David O'Doherty
+- 2025-04-13 — S2 EP15: Joel Dommett — speakers: Joel Dommett, Max Rushden, David O'Doherty
+- 2025-04-09 — WDWDY #15: The Champignon's League — speakers: Max Rushden, David O'Doherty
+- 2025-04-06 — S2 EP14: Omid Djalili — speakers: Omid Djalili Joining, Max Rushden, David O'Doherty
+- 2025-04-02 — WDWDY #14: Concrete Jungle Where Dreams Are Made Of... — speakers: Mars Bar, Michael Marden, Max Rushden, David O'Doherty
+- 2025-03-30 — S2 EP13: Rob Beckett — speakers: Rob Beckett, Max Rushden, David O'Doherty
+- 2025-03-26 — WDWDY #13: A Sad Cardboard Kazoo — speakers: Max Rushden, David O'Doherty
+- 2025-03-23 — S2 EP12: Jess Knappett — speakers: Jess Knappett, Max Rushden, David O'Doherty
+- 2025-03-19 — WDWDY #12: Not your average Monday... — speakers: Max Rushden, David O'Doherty
+- 2025-03-16 — S2 EP11: Joe Wilkinson — speakers: Joe Wilkinson, Max Rushden, David O'Doherty
+- 2025-03-12 — WDWDY #11: A day of hope and possum-bilities — speakers: Max Rushden, David O'Doherty
+- 2025-03-09 — S2 EP10: Phil Wang — speakers: Phil Wang, Max Rushden, David O'Doherty
+- 2025-03-05 — WDWDY #10: Worm Feet — speakers: Ian Rushden, Max Rushden, David O'Doherty
+- 2025-03-02 — S2 EP9: Tom Rosenthal — speakers: Tom Rosenthal, Max Rushden, David O'Doherty
+- 2025-02-26 — WDWDY #9: The Diabolo Bros. — speakers: Max Rushden, David O'Doherty
+- 2025-02-23 — S2 EP8: Joanne McNally — speakers: Joanne McNally, Max Rushden, David O'Doherty
+- 2025-02-19 — WDWDY #8: A nose like a sommelier on heat... — speakers: Max Rushden, David O'Doherty
+- 2025-02-16 — S2 EP7: Mark Watson — speakers: Mark Watson, Max Rushden, David O'Doherty
+- 2025-02-12 — WDWDY #7: MEAT BATS — speakers: Max Rushden, David O'Doherty
+- 2025-02-09 — S2 EP6: James Buckley — speakers: James Buckley, Max Rushden, David O'Doherty
+- 2025-02-05 — WDWDY #6: A Normal Door Moment — speakers: Max Rushden, David O'Doherty
+- 2025-02-02 — S2 EP5: Natalie Cassidy — speakers: Natalie Cassidy, Max Rushden, David O'Doherty
+- 2025-01-29 — WDWDY #5: Batch Cookers of the World Unite — speakers: Batch Cookers, Max Rushden, David O'Doherty
+- 2025-01-26 — S2 EP4: Rhys James — speakers: Rhys James, Max Rushden, David O'Doherty
+- 2025-01-22 — WDWDY #4: People Getting a Latte in Brighton — speakers: Max Rushden, David O'Doherty
+- 2025-01-19 — S2 EP3: Huge Davies — speakers: Max Rushden, David O'Doherty
+- 2025-01-15 — WDWDY #3: Right Cheese, Wrong Place — speakers: Max Rushden, David O'Doherty
+- 2025-01-12 — S2 EP2: Chloe Petts — speakers: Chloe Petts, Max Rushden, David O'Doherty
+- 2025-01-08 — WDWDY #2: Midweek Mayhem — speakers: Max Rushden, David O'Doherty
+- 2025-01-05 — S2 EP1: Dara Ó Briain — speakers: Max Rushden, David O'Doherty
+- 2024-12-30 — WDWDY #1: Max and David's Christmas Bonus Episode — speakers: Max Rushden, David O'Doherty
+- 2024-12-29 — EP19: Nish Kumar — speakers: Max Rushden, David O'Doherty
+- 2024-12-22 — EP18: Kerry Godliman — speakers: Kerry Godliman, Max Rushden, David O'Doherty
+- 2024-12-15 — EP17: Marcus Brigstocke — speakers: Marcus Brigstocke, Max Rushden, David O'Doherty
+- 2024-12-08 — EP16: Josie Long — speakers: Josie Long, Max Rushden, David O'Doherty
+- 2024-12-01 — EP15: Ed Gamble — speakers: Ed Gamble, Max Rushden, David O'Doherty
+- 2024-11-24 — EP14: Celya AB — speakers: Max Rushden, David O'Doherty
+- 2024-11-17 — EP13: Amy Gledhill — speakers: Amy Gledhill, Max Rushden, David O'Doherty
+- 2024-11-10 — EP12: Richard Osman — speakers: Richard Osman, Max Rushden, David O'Doherty
+- 2024-11-03 — EP11: Jamali Maddix — speakers: Jamali Maddix, Max Rushden, David O'Doherty
+- 2024-10-27 — EP10: James Acaster — speakers: James Acaster, Max Rushden, David O'Doherty
+- 2024-10-20 — EP9: Jen Brister — speakers: Max Rushden, David O'Doherty
+- 2024-10-13 — EP8: Sam Campbell — speakers: Sam Campbell, Max Rushden, David O'Doherty
+- 2024-10-06 — EP7: Rose Matafeo — speakers: Rose Matafeo, Max Rushden, David O'Doherty
+- 2024-09-29 — EP6: Ivo Graham — speakers: Ivo Graham, Max Rushden, David O'Doherty
+- 2024-09-22 — EP5: Suzi Ruffell — speakers: Suzi Ruffell, Max Rushden, David O'Doherty
+- 2024-09-15 — EP4: Josh Widdicombe — speakers: Josh Widdicombe, Max Rushden, David O'Doherty
+- 2024-09-08 — EP3: Alex Horne — speakers: Alex Horne, Max Rushden, David O'Doherty
+- 2024-09-01 — EP2: Lou Sanders — speakers: Lou Sanders, Max Rushden, David O'Doherty
+- 2024-09-01 — EP1: Elis James — speakers: Elis James, Max Rushden, David O'Doherty
 - 2024-08-30 — COMING SOON - What Did You Do Yesterday? — speakers: Max Rushden, David O'Doherty

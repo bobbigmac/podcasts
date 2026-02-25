@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-02-22T03:16:37+00:00`
-- checked_at: `2026-02-22T03:16:37+00:00`
-- etag: `"djEuMi4wOjE3NzE3MTk3NTkyODQ="`
+- fetched_at: `2026-02-25T03:15:32+00:00`
+- checked_at: `2026-02-25T03:15:32+00:00`
+- etag: `"djEuMi4wOjE3NzE5Nzg1MzkzMjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "Join Elis James, Mike Bubbins and Steff Garrero in Award winning Podcast \"The Socially Distant Sports Bar\". It's a Comedy & Sports Podcast, but you don't have to like Sports to LOVE it. Comedians Elis James (BBC 5Live, Sky TV's Fantasy Football League) & Mike Bubbins (BBC's Mammoth) are \"Unreasonably hilarious\" The Telegraph. \"Elis James, Mike Bubbins and Steff Garrero created a haven where they ramble on about classic clips and random recollections.\" The Guardian Known to fans as Distant Pod it has won awards at the Sports Podcast Awards & Pod Bible Awards. Hosts of \"Down The Clubhouse\" on TNT Sport another Comedy & Sports show. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-02-22T03:16:37+00:00",
+  "fetched_at": "2026-02-25T03:15:32+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "0132885d4220c2f553b22abc045cd19bf010a10b",
+      "title": "Maybe Start With Public Speaking (pt 1)",
+      "published_at": "2026-02-25T00:15:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/maybe-start-with-public-speaking-pt-1",
+      "description": "Distant Pod is a weekly podcast where Elis James, Mike Bubbins, and Steff Garrero dive into the best (and worst) clips, documentaries, books, and sporting moments they’ve discovered that week. From iconic brilliance to complete nonsense, each episode is a fast-moving, funny tour through sport, culture, and the strange corners of the internet — with zero expertise required and strong opinions guaranteed. 🏃‍♂️ CHARITY RUN Steff is running the Tokyo Marathon for Orchid Cancer , raising vital funds for men’s cancer research and support. 👉 Donate here: https://www.justgiving.com/page/the-socially-distant-sports-bar-podcast-5 🎧 PART 1 – Episode 300 (Free) Elis: Sign language https://www.instagram.com/reel/DTmdmaxCsBP/ Steff: No tracksuits https://www.instagram.com/reel/DSphmvCCsWD/ Mike: Kirk Cousins https://www.instagram.com/reels/DSYbctrjBG4/ 🔒 Want more? Join Distant Pod Bonus Club on Apple Subscriptions for early, ad-free Parts 1 & 2 — plus Part 3 exclusively as bonus content. Click here for a NORD VPN deal https://nordvpn.com/distant CLICK HERE TO SEE CRWST's SELECTION https://crwst.cymru/collections/shop-all 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com 🎟️ TOUR 2026 Live shows are coming! 🎫 Tickets available now at distantpod.com/live Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69985122a444b25f2cf3b5ba/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "141483840",
+      "itunes_duration": "58:57",
+      "speakers": [
+        "Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "public",
+        "speaking"
+      ]
+    },
     {
       "key": "087fd274c86ab04426852c110f4bec5dc3eee0cd",
       "title": "Paul McCartney: Pint Size",
@@ -43,7 +65,6 @@
       "speakers": [
         "Paul McCartney",
         "Pint Size Welcome",
-        "Gordon Smart",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -70,10 +91,7 @@
         "Distant Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Run Steff",
-        "Terry Yorath",
-        "Tim Wigmore"
+        "Steff Garrero"
       ],
       "topics": [
         "mario"
@@ -94,9 +112,7 @@
         "Distant Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Run Steff",
-        "Orchid Cancer"
+        "Steff Garrero"
       ],
       "topics": [
         "mario"
@@ -114,6 +130,8 @@
       "enclosure_length": "21028800",
       "itunes_duration": "8:45",
       "speakers": [
+        "Pint Size Welcome",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -138,10 +156,7 @@
         "Distant Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Run Steff",
-        "Orchid Cancer",
-        "Rick Reilly"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -160,10 +175,7 @@
         "Distant Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Run Steff",
-        "Orchid Cancer",
-        "Jackie Stewart"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -179,6 +191,9 @@
       "enclosure_length": "31091520",
       "itunes_duration": "12:57",
       "speakers": [
+        "Sexy Neanderthal",
+        "Pint Size Welcome",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -205,11 +220,7 @@
         "Distant Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Run Steff",
-        "Orchid Cancer",
-        "Scotty James",
-        "jbv Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "pair",
@@ -231,10 +242,7 @@
         "Distant Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Orchid Cancer",
-        "John McEnroe",
-        "Charlie Baker"
+        "Steff Garrero"
       ],
       "topics": [
         "pair",
@@ -254,7 +262,6 @@
       "itunes_duration": "14:45",
       "speakers": [
         "Pint Size Welcome",
-        "Orchid Cancer",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -279,10 +286,7 @@
         "Distant Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Orchid Cancer",
-        "Miguel Delaney’s States",
-        "Miguel Delaney"
+        "Steff Garrero"
       ],
       "topics": [
         "scholesy",
@@ -303,9 +307,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jackie Grealish Watch",
-        "Chris Kamara Watch"
+        "Steff Garrero"
       ],
       "topics": [
         "scholesy",
@@ -324,7 +326,6 @@
       "enclosure_length": "27618240",
       "itunes_duration": "11:30",
       "speakers": [
-        "Michael Owen",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -349,10 +350,7 @@
         "Geraint Thomas",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Geraint Thomas Clips",
-        "Colin Jackson"
+        "Steff Garrero"
       ],
       "topics": [
         "geraint",
@@ -374,10 +372,7 @@
         "Geraint Thomas",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Geraint Thomas Clips",
-        "Colin Jackson"
+        "Steff Garrero"
       ],
       "topics": [
         "geraint",
@@ -423,9 +418,7 @@
         "Distant Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Mike Book",
-        "Max Boyce"
+        "Steff Garrero"
       ],
       "topics": [
         "rowing"
@@ -443,7 +436,8 @@
       "enclosure_length": "162053760",
       "itunes_duration": "1:07:31",
       "speakers": [
-        "Distant Pod",
+        "Go Rowing",
+        "Apple Subscription",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -491,11 +485,7 @@
         "George Lewis",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "George Lewis comedian",
-        "Comedian George Lewis",
-        "George Lewis Posts",
-        "George’s Pick"
+        "Steff Garrero"
       ],
       "topics": [
         "george",
@@ -515,8 +505,6 @@
       "itunes_duration": "32:18",
       "speakers": [
         "George Lewis",
-        "George Lewis comedian",
-        "Mark Williams",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -583,8 +571,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Brian London"
+        "Steff Garrero"
       ],
       "topics": [
         "pillock"
@@ -629,8 +616,7 @@
         "Siôn Corn",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "David Walsh"
+        "Steff Garrero"
       ],
       "topics": [
         "corn"
@@ -651,8 +637,8 @@
         "Siôn Corn",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jess Li"
+        "Steff Garre",
+        "Steff Garrero"
       ],
       "topics": [
         "corn"
@@ -755,8 +741,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Joe Simpson Buy"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -774,9 +759,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Elis Documentary",
-        "Joe Simpson Buy"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -811,11 +794,10 @@
       "enclosure_length": "74172480",
       "itunes_duration": "30:54",
       "speakers": [
+        "Sugared Alpen",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Mike Documentary",
-        "Jonathan Wilson"
+        "Steff Garrero"
       ],
       "topics": [
         "sugared",
@@ -834,6 +816,7 @@
       "enclosure_length": "155998080",
       "itunes_duration": "1:04:59",
       "speakers": [
+        "Sugared Alpen",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -881,11 +864,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Ludovico Einaudi",
-        "Mike Mentzer",
-        "Paul Ince",
-        "Aston Villa"
+        "Steff Garrero"
       ],
       "topics": [
         "fabio",
@@ -906,9 +885,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Ludovico Einaudi",
-        "Mike Mentzer"
+        "Steff Garrero"
       ],
       "topics": [
         "fabio",
@@ -951,9 +928,6 @@
       "speakers": [
         "Mike Bubbins",
         "Steff Garrero",
-        "Norman Mailer",
-        "Geoffrey Boycott",
-        "Clive Thomas Watch",
         "Elis James"
       ],
       "topics": [
@@ -975,11 +949,8 @@
       "speakers": [
         "Elis James Elis John",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Norman Mailer",
-        "Geoffrey Boycott",
-        "Clive Thomas Watch",
-        "Elis James"
+        "Elis James",
+        "Steff Garrero"
       ],
       "topics": [
         "bounty",
@@ -998,8 +969,7 @@
       "enclosure_length": "23376000",
       "itunes_duration": "9:44",
       "speakers": [
-        "Tommy Two",
-        "Mun Click",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1022,7 +992,6 @@
       "speakers": [
         "Charlie Baker",
         "Charlie Baker Guest Special",
-        "Kick Start Watch",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1046,7 +1015,6 @@
       "speakers": [
         "Charlie Baker",
         "Charlie Baker Guest Special",
-        "Kick Start Watch",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1089,14 +1057,10 @@
       "enclosure_length": "68244480",
       "itunes_duration": "28:26",
       "speakers": [
-        "Emma Buchy",
-        "Mike Documentary",
-        "Lawrence Taylor",
-        "YouTube Elis",
-        "John Burgum",
-        "Tiger Woods",
-        "Distant Pod",
-        "Elis James"
+        "Pick Those Conkers Up",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "conker"
@@ -1114,14 +1078,10 @@
       "enclosure_length": "166209600",
       "itunes_duration": "1:09:15",
       "speakers": [
-        "Emma Buchy",
-        "Mike Documentary",
-        "Lawrence Taylor",
-        "YouTube Elis",
-        "John Burgum",
-        "Tiger Woods",
-        "Distant Pod",
-        "Elis James"
+        "Pick Those Conkers Up",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "conker"
@@ -1161,8 +1121,7 @@
       "enclosure_length": "81567360",
       "itunes_duration": "33:59",
       "speakers": [
-        "Mike Book",
-        "Instagram Elis",
+        "Guess Who",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1181,8 +1140,7 @@
       "enclosure_length": "183158400",
       "itunes_duration": "1:16:18",
       "speakers": [
-        "Mike Book",
-        "Instagram Elis",
+        "Guess Who",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1309,6 +1267,7 @@
       "enclosure_length": "11665658",
       "itunes_duration": "12:09",
       "speakers": [
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1330,7 +1289,6 @@
       "enclosure_length": "19039680",
       "itunes_duration": "7:55",
       "speakers": [
-        "John Smith Plus",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1376,7 +1334,6 @@
       "enclosure_length": "9755994",
       "itunes_duration": "9:49",
       "speakers": [
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1423,9 +1380,6 @@
       "enclosure_length": "11571682",
       "itunes_duration": "11:38",
       "speakers": [
-        "Mark Hughes",
-        "Leon Gladwell",
-        "Wheelie Bin Game Click",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1448,13 +1402,9 @@
       "itunes_duration": "31:53",
       "speakers": [
         "Mike Bubbins",
-        "Steff Garrero",
-        "Barry Rfc Elis",
-        "John Feinstein",
-        "John Gregory",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Elis James"
+        "Steff Ga",
+        "Elis James",
+        "Steff Garrero"
       ],
       "topics": [
         "gold"
@@ -1473,13 +1423,9 @@
       "itunes_duration": "1:12:23",
       "speakers": [
         "Mike Bubbins",
-        "Steff Garrero",
-        "Barry Rfc Elis",
-        "John Feinstein",
-        "John Gregory",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Elis James"
+        "Steff Ga",
+        "Elis James",
+        "Steff Garrero"
       ],
       "topics": [
         "gold"
@@ -1498,9 +1444,6 @@
       "itunes_duration": "10:46",
       "speakers": [
         "PS Welcome",
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1523,13 +1466,8 @@
       "itunes_duration": "52:47",
       "speakers": [
         "Mike Bubbins",
-        "Steff Garrero",
-        "Steve Burton Mike",
-        "Scottie Scheffler",
-        "Steff Book",
-        "Nick Hornby",
-        "St Helens",
-        "Michael Owen"
+        "Elis James",
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -1546,13 +1484,8 @@
       "itunes_duration": "1:01:33",
       "speakers": [
         "Mike Bubbins",
-        "Steff Garrero",
-        "Steve Burton Mike",
-        "Scottie Scheffler",
-        "Steff Book",
-        "Nick Hornby",
-        "St Helens",
-        "Michael Owen"
+        "Elis James",
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -1591,9 +1524,6 @@
       "speakers": [
         "Johnny Marr",
         "PS Welcome",
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1615,7 +1545,6 @@
       "enclosure_length": "33698365",
       "itunes_duration": "34:46",
       "speakers": [
-        "Jake Paul",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1634,7 +1563,6 @@
       "enclosure_length": "76167197",
       "itunes_duration": "1:19:00",
       "speakers": [
-        "Jake Paul",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1653,9 +1581,8 @@
       "enclosure_length": "6358804",
       "itunes_duration": "6:17",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Milk Float",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1677,10 +1604,6 @@
       "enclosure_length": "89897156",
       "itunes_duration": "1:33:18",
       "speakers": [
-        "Hoffi Pod",
-        "Michael Owen",
-        "Hackney Empire",
-        "Lyric Theatre Grab",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1701,10 +1624,6 @@
       "enclosure_length": "96117643",
       "itunes_duration": "1:39:47",
       "speakers": [
-        "Hoffi Pod",
-        "Michael Owen",
-        "Hackney Empire",
-        "Lyric Theatre Grab",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1725,9 +1644,7 @@
       "enclosure_length": "11219673",
       "itunes_duration": "11:21",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1748,11 +1665,6 @@
       "enclosure_length": "29178964",
       "itunes_duration": "30:03",
       "speakers": [
-        "Kathy Botham",
-        "Mike Nasser",
-        "Brian Clough",
-        "Hackney Empire",
-        "Lyric Theatre",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1773,11 +1685,6 @@
       "enclosure_length": "73177110",
       "itunes_duration": "1:15:53",
       "speakers": [
-        "Kathy Botham",
-        "Mike Nasser",
-        "Brian Clough",
-        "Hackney Empire",
-        "Lyric Theatre",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1798,9 +1705,7 @@
       "enclosure_length": "14110291",
       "itunes_duration": "14:21",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1823,14 +1728,9 @@
       "enclosure_length": "31469380",
       "itunes_duration": "32:26",
       "speakers": [
-        "Kenny Sansom",
-        "Grass Skiing",
-        "Wes Anderson",
-        "joy Watch",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Michael Owen",
-        "Hoffi Pod"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "friar"
@@ -1848,14 +1748,10 @@
       "enclosure_length": "82915557",
       "itunes_duration": "1:26:02",
       "speakers": [
-        "Kenny Sansom",
-        "Grass Skiing",
-        "Wes Anderson",
-        "joy Watch",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Michael Owen",
-        "Hoffi Pod"
+        "Choice Award",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "friar"
@@ -1873,9 +1769,8 @@
       "enclosure_length": "8163971",
       "itunes_duration": "8:10",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Back Flipper",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1896,14 +1791,9 @@
       "enclosure_length": "34384653",
       "itunes_duration": "35:28",
       "speakers": [
-        "Kevin Keegan",
-        "Brett Favre",
-        "Dominic Hougham",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Elis James"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "wednesday"
@@ -1921,14 +1811,9 @@
       "enclosure_length": "75212997",
       "itunes_duration": "1:18:00",
       "speakers": [
-        "Kevin Keegan",
-        "Brett Favre",
-        "Dominic Hougham",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Elis James"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "wednesday"
@@ -1946,9 +1831,7 @@
       "enclosure_length": "9604253",
       "itunes_duration": "9:40",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -1970,13 +1853,9 @@
       "itunes_duration": "1:09:50",
       "speakers": [
         "Michael Owen",
-        "Karate Kid",
-        "Michael Owen’s Movie Club",
-        "Hoffi Pod",
-        "Hackney Empire",
-        "Lyric Theatre",
         "Elis James",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "best",
@@ -1999,13 +1878,9 @@
       "itunes_duration": "1:05:55",
       "speakers": [
         "Michael Owen",
-        "Karate Kid",
-        "Michael Owen’s Movie Club",
-        "Hoffi Pod",
-        "Hackney Empire",
-        "Lyric Theatre",
         "Elis James",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "best",
@@ -2028,10 +1903,6 @@
       "itunes_duration": "12:12",
       "speakers": [
         "George Melly",
-        "Tommy Two Kormas",
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2053,14 +1924,9 @@
       "enclosure_length": "45500691",
       "itunes_duration": "47:03",
       "speakers": [
-        "Roy Hodgson",
-        "Claude Makélélé",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Joe Nelms",
-        "Jackie Wilson Said",
-        "Jocky Wilson"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -2076,14 +1942,9 @@
       "enclosure_length": "69000863",
       "itunes_duration": "1:11:32",
       "speakers": [
-        "Roy Hodgson",
-        "Claude Makélélé",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Joe Nelms",
-        "Jackie Wilson Said",
-        "Jocky Wilson"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -2099,9 +1960,7 @@
       "enclosure_length": "10591891",
       "itunes_duration": "10:41",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2124,12 +1983,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "YouTube Elis",
-        "Roberto Durán",
-        "Jonathan Harding Grab",
-        "Rory McIlroy",
-        "Harry Diamond Instagram"
+        "Steff Garrero"
       ],
       "topics": [
         "waist",
@@ -2151,12 +2005,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "YouTube Elis",
-        "Roberto Durán",
-        "Jonathan Harding Grab",
-        "Rory McIlroy",
-        "Harry Diamond Instagram"
+        "Steff Garrero"
       ],
       "topics": [
         "waist",
@@ -2176,9 +2025,7 @@
       "enclosure_length": "12665383",
       "itunes_duration": "12:51",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2200,11 +2047,7 @@
         "Barbara Bush",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Barbara Nicklaus",
-        "Scott McTominay",
-        "Jack Watch",
-        "Instagram Elis Sampdoria"
+        "Steff Garrero"
       ],
       "topics": [
         "small",
@@ -2227,11 +2070,7 @@
         "Barbara Bush",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Barbara Nicklaus",
-        "Scott McTominay",
-        "Jack Watch",
-        "Instagram Elis Sampdoria"
+        "Steff Garrero"
       ],
       "topics": [
         "small",
@@ -2251,9 +2090,7 @@
       "enclosure_length": "10344880",
       "itunes_duration": "10:26",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2274,14 +2111,9 @@
       "enclosure_length": "82253933",
       "itunes_duration": "1:25:20",
       "speakers": [
-        "Bob Harris",
-        "Josh Widdicombe",
-        "Sam Warburton",
-        "Humphrey Ker",
-        "Kate Mason",
-        "Chesney Hawkes",
-        "Gordon Smart",
-        "Scott Quinnell"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "guests"
@@ -2299,14 +2131,9 @@
       "enclosure_length": "82507635",
       "itunes_duration": "1:25:36",
       "speakers": [
-        "Bob Harris",
-        "Josh Widdicombe",
-        "Sam Warburton",
-        "Humphrey Ker",
-        "Kate Mason",
-        "Chesney Hawkes",
-        "Gordon Smart",
-        "Scott Quinnell"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "guests"
@@ -2324,9 +2151,7 @@
       "enclosure_length": "7867642",
       "itunes_duration": "7:51",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2347,14 +2172,10 @@
       "enclosure_length": "36106251",
       "itunes_duration": "37:16",
       "speakers": [
+        "Good Way",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "YouTube Elis",
-        "Aitana Bonmatí",
-        "Steff Documentary",
-        "Mike Book",
-        "Mary Earps"
+        "Steff Garrero"
       ],
       "topics": [
         "rubbish"
@@ -2372,14 +2193,10 @@
       "enclosure_length": "61850028",
       "itunes_duration": "1:04:05",
       "speakers": [
+        "Good Way",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "YouTube Elis",
-        "Aitana Bonmatí",
-        "Steff Documentary",
-        "Mike Book",
-        "Mary Earps"
+        "Steff Garrero"
       ],
       "topics": [
         "rubbish"
@@ -2398,9 +2215,6 @@
       "itunes_duration": "11:15",
       "speakers": [
         "Danny Dyer",
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2422,14 +2236,10 @@
       "enclosure_length": "37707859",
       "itunes_duration": "38:56",
       "speakers": [
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "YouTube Mike",
-        "Jamie Tells",
-        "Malcolm Thomas",
-        "YouTube Steff"
+        "Steff Garrero"
       ],
       "topics": [
         "step",
@@ -2448,14 +2258,10 @@
       "enclosure_length": "73082252",
       "itunes_duration": "1:15:47",
       "speakers": [
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "YouTube Mike",
-        "Jamie Tells",
-        "Malcolm Thomas",
-        "YouTube Steff"
+        "Steff Garrero"
       ],
       "topics": [
         "step",
@@ -2474,10 +2280,7 @@
       "enclosure_length": "8809713",
       "itunes_duration": "8:50",
       "speakers": [
-        "Ulster Hall",
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2500,12 +2303,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Netflix Elis",
-        "Paul Tonkinson",
-        "YouTube Steff"
+        "Steff Garrero"
       ],
       "topics": [
         "selfie"
@@ -2525,12 +2323,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Netflix Elis",
-        "Paul Tonkinson",
-        "YouTube Steff"
+        "Steff Garrero"
       ],
       "topics": [
         "selfie"
@@ -2548,9 +2341,7 @@
       "enclosure_length": "9114419",
       "itunes_duration": "9:09",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2573,14 +2364,9 @@
       "enclosure_length": "38260385",
       "itunes_duration": "39:31",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Paul Tonkinson",
-        "Instagram Steff",
-        "Team GB",
-        "Giant Killers"
+        "Steff Garrero"
       ],
       "topics": [
         "arian"
@@ -2598,14 +2384,9 @@
       "enclosure_length": "66109424",
       "itunes_duration": "1:08:31",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Paul Tonkinson",
-        "Instagram Steff",
-        "Team GB",
-        "Giant Killers"
+        "Steff Garrero"
       ],
       "topics": [
         "arian"
@@ -2623,9 +2404,7 @@
       "enclosure_length": "10711439",
       "itunes_duration": "10:49",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2648,12 +2427,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Instagram Mike",
-        "Will Greenwood",
-        "Allan Bateman"
+        "Steff Garrero"
       ],
       "topics": [
         "real",
@@ -2674,12 +2448,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Instagram Mike",
-        "Will Greenwood",
-        "Allan Bateman"
+        "Steff Garrero"
       ],
       "topics": [
         "real",
@@ -2699,9 +2468,6 @@
       "itunes_duration": "13:22",
       "speakers": [
         "PS Welcome",
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2724,12 +2490,9 @@
       "speakers": [
         "Dick Dave",
         "Dick Dave Elis James",
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Instagram Steff",
-        "YouTube Elis"
+        "Steff Garrero"
       ],
       "topics": [
         "average",
@@ -2751,12 +2514,9 @@
       "speakers": [
         "Dick Dave",
         "Dick Dave Elis James",
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Instagram Steff",
-        "YouTube Elis"
+        "Steff Garrero"
       ],
       "topics": [
         "average",
@@ -2777,10 +2537,6 @@
       "itunes_duration": "13:06",
       "speakers": [
         "Hillman Imp",
-        "Gordon Smart",
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2804,11 +2560,7 @@
         "Max Rushden",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Chesney Hawkes",
-        "Josh Widdicombe",
-        "Sam Warburton",
-        "Barry Glendenning"
+        "Steff Garrero"
       ],
       "topics": [
         "rushden"
@@ -2829,11 +2581,7 @@
         "Max Rushden",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Chesney Hawkes",
-        "Josh Widdicombe",
-        "Sam Warburton",
-        "Barry Glendenning"
+        "Steff Garrero"
       ],
       "topics": [
         "rushden"
@@ -2851,9 +2599,7 @@
       "enclosure_length": "7973797",
       "itunes_duration": "7:58",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2876,12 +2622,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Brian Blessed",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Maddison Levi",
-        "Craig Bellamy"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -2899,12 +2640,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Brian Blessed",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Maddison Levi",
-        "Craig Bellamy"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -2921,9 +2657,6 @@
       "itunes_duration": "6:07",
       "speakers": [
         "Pitch Invader",
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -2947,12 +2680,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Lyric Theatre",
-        "YouTube Mike",
-        "Madeleine Orr",
-        "Peter Williams",
-        "Facebook Elis"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -2970,12 +2698,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Lyric Theatre",
-        "YouTube Mike",
-        "Madeleine Orr",
-        "Peter Williams",
-        "Facebook Elis"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -2991,9 +2714,6 @@
       "enclosure_length": "8990694",
       "itunes_duration": "9:01",
       "speakers": [
-        "Hackney Empire",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3015,14 +2735,9 @@
       "enclosure_length": "36322727",
       "itunes_duration": "37:30",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Shaun Edwards",
-        "Millie Bright",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Millie Bright Invests",
-        "Angel Rangel"
+        "Steff Garrero"
       ],
       "topics": [
         "medium",
@@ -3041,14 +2756,9 @@
       "enclosure_length": "70289433",
       "itunes_duration": "1:12:52",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Shaun Edwards",
-        "Millie Bright",
-        "Hackney Empire",
-        "Lyric Theatre",
-        "Millie Bright Invests",
-        "Angel Rangel"
+        "Steff Garrero"
       ],
       "topics": [
         "medium",
@@ -3067,8 +2777,8 @@
       "enclosure_length": "9147429",
       "itunes_duration": "9:11",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Massage Guns",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3090,14 +2800,9 @@
       "enclosure_length": "42045444",
       "itunes_duration": "43:27",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Elton John",
-        "Steve Bull",
-        "Aaron Ramsey",
-        "Wally Backman",
-        "Steve Bull Poem",
-        "Tom Parry"
+        "Steff Garrero"
       ],
       "topics": [
         "friend",
@@ -3118,14 +2823,9 @@
       "enclosure_length": "73450479",
       "itunes_duration": "1:16:10",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Elton John",
-        "Steve Bull",
-        "Aaron Ramsey",
-        "Wally Backman",
-        "Steve Bull Poem",
-        "Tom Parry"
+        "Steff Garrero"
       ],
       "topics": [
         "friend",
@@ -3146,8 +2846,6 @@
       "enclosure_length": "13113017",
       "itunes_duration": "13:19",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3166,13 +2864,10 @@
       "enclosure_length": "35867576",
       "itunes_duration": "37:01",
       "speakers": [
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "George Foreman",
-        "Jason Reynolds",
-        "Michael Owen",
-        "Gift Memberships",
-        "Elis James"
+        "Steff Garrero"
       ],
       "topics": [
         "pity",
@@ -3191,13 +2886,10 @@
       "enclosure_length": "74344480",
       "itunes_duration": "1:17:06",
       "speakers": [
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "George Foreman",
-        "Jason Reynolds",
-        "Michael Owen",
-        "Gift Memberships",
-        "Elis James"
+        "Steff Garrero"
       ],
       "topics": [
         "pity",
@@ -3216,8 +2908,8 @@
       "enclosure_length": "11472955",
       "itunes_duration": "11:36",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Dirty Dancing",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3238,14 +2930,9 @@
       "enclosure_length": "33251564",
       "itunes_duration": "34:18",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Secret Guitarist",
-        "Duncan Ferguson",
-        "Roy Keane",
-        "Peak Keano",
-        "Tom Petty",
-        "Tony Judt"
+        "Steff Garrero"
       ],
       "topics": [
         "anniversary"
@@ -3263,14 +2950,9 @@
       "enclosure_length": "61246470",
       "itunes_duration": "1:03:27",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Secret Guitarist",
-        "Duncan Ferguson",
-        "Roy Keane",
-        "Peak Keano",
-        "Tom Petty",
-        "Tony Judt"
+        "Steff Garrero"
       ],
       "topics": [
         "anniversary"
@@ -3288,8 +2970,7 @@
       "enclosure_length": "7999288",
       "itunes_duration": "7:59",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3313,11 +2994,7 @@
         "Joe Marler",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Chesney Hawkes",
-        "Josh Widdicombe",
-        "Sam Warburton",
-        "Dave Doodlemoose"
+        "Steff Garrero"
       ],
       "topics": [
         "marler"
@@ -3338,11 +3015,7 @@
         "Joe Marler",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Chesney Hawkes",
-        "Josh Widdicombe",
-        "Sam Warburton",
-        "Dave Doodlemoose"
+        "Steff Garrero"
       ],
       "topics": [
         "marler"
@@ -3361,8 +3034,6 @@
       "itunes_duration": "13:39",
       "speakers": [
         "Ron Paul",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3383,14 +3054,9 @@
       "enclosure_length": "38715565",
       "itunes_duration": "39:59",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "James Milner",
-        "Colin Jackson",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis",
-        "Mike’s Throwback Special"
+        "Steff Garrero"
       ],
       "topics": [
         "spanners",
@@ -3410,14 +3076,9 @@
       "enclosure_length": "80539487",
       "itunes_duration": "1:23:33",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "James Milner",
-        "Colin Jackson",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis",
-        "Mike’s Throwback Special"
+        "Steff Garrero"
       ],
       "topics": [
         "spanners",
@@ -3437,8 +3098,7 @@
       "enclosure_length": "8358735",
       "itunes_duration": "8:22",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3459,14 +3119,10 @@
       "enclosure_length": "40821220",
       "itunes_duration": "42:11",
       "speakers": [
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Arthur Emyr",
-        "Dan Marino",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis",
-        "Emma Jones"
+        "Steff Garrero"
       ],
       "topics": [
         "sexy",
@@ -3485,14 +3141,10 @@
       "enclosure_length": "73638539",
       "itunes_duration": "1:16:22",
       "speakers": [
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Arthur Emyr",
-        "Dan Marino",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis",
-        "Emma Jones"
+        "Steff Garrero"
       ],
       "topics": [
         "sexy",
@@ -3511,9 +3163,8 @@
       "enclosure_length": "10069443",
       "itunes_duration": "10:09",
       "speakers": [
-        "Sam Warburton",
-        "Michael Owen",
-        "Hoffi Pod",
+        "Bad Hair",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3537,11 +3188,7 @@
         "Emily Campbell",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Chesney Hawkes",
-        "Josh Widdicome",
-        "Sam Warburton",
-        "Greatest Prematch"
+        "Steff Garrero"
       ],
       "topics": [
         "emily",
@@ -3563,11 +3210,7 @@
         "Emily Campbell",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Chesney Hawkes",
-        "Josh Widdicome",
-        "Sam Warburton",
-        "Greatest Prematch"
+        "Steff Garrero"
       ],
       "topics": [
         "emily",
@@ -3586,8 +3229,8 @@
       "enclosure_length": "14877652",
       "itunes_duration": "15:09",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Dating Records",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3611,12 +3254,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Bernard Hopkins",
-        "Buncey Elis",
-        "Dennis Bree",
-        "Jason Robinson",
-        "Tom Brady"
+        "Steff Garrero"
       ],
       "topics": [
         "cracks"
@@ -3636,12 +3274,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Bernard Hopkins",
-        "Buncey Elis",
-        "Dennis Bree",
-        "Jason Robinson",
-        "Tom Brady"
+        "Steff Garrero"
       ],
       "topics": [
         "cracks"
@@ -3659,8 +3292,6 @@
       "enclosure_length": "11849113",
       "itunes_duration": "12:00",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3682,14 +3313,12 @@
       "enclosure_length": "36219920",
       "itunes_duration": "37:23",
       "speakers": [
+        "Just Put",
+        "Towel Over My Head",
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Tom Brady",
-        "Claressa Shields",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis",
-        "Mike’s Throwback Special Watch"
+        "Steff Garrero"
       ],
       "topics": [
         "towel",
@@ -3708,14 +3337,12 @@
       "enclosure_length": "69428449",
       "itunes_duration": "1:11:59",
       "speakers": [
+        "Just Put",
+        "Towel Over My Head",
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Tom Brady",
-        "Claressa Shields",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis",
-        "Mike’s Throwback Special Watch"
+        "Steff Garrero"
       ],
       "topics": [
         "towel",
@@ -3734,8 +3361,7 @@
       "enclosure_length": "8553086",
       "itunes_duration": "8:34",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3756,14 +3382,9 @@
       "enclosure_length": "37174529",
       "itunes_duration": "38:23",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Braxton McCullough",
-        "Scott Quinnell",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis"
+        "Steff Garrero"
       ],
       "topics": [
         "moderately",
@@ -3782,14 +3403,9 @@
       "enclosure_length": "73555786",
       "itunes_duration": "1:16:17",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Braxton McCullough",
-        "Scott Quinnell",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis"
+        "Steff Garrero"
       ],
       "topics": [
         "moderately",
@@ -3809,8 +3425,6 @@
       "itunes_duration": "14:29",
       "speakers": [
         "Randy Old Goat PS",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3834,12 +3448,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Larry Csonka",
-        "Denis Law",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis"
+        "Steff Garrero"
       ],
       "topics": [
         "cool"
@@ -3859,12 +3468,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Larry Csonka",
-        "Denis Law",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis"
+        "Steff Garrero"
       ],
       "topics": [
         "cool"
@@ -3882,8 +3486,7 @@
       "enclosure_length": "7238605",
       "itunes_duration": "7:12",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3904,14 +3507,10 @@
       "enclosure_length": "37314131",
       "itunes_duration": "38:32",
       "speakers": [
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Eddie Hall",
-        "Brian Clough",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis",
-        "Jon Spurling"
+        "Steff Garrero"
       ],
       "topics": [
         "ralgex"
@@ -3929,14 +3528,10 @@
       "enclosure_length": "70354640",
       "itunes_duration": "1:12:57",
       "speakers": [
+        "Elis James",
+        "Oh What",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Eddie Hall",
-        "Brian Clough",
-        "Michael Owen",
-        "Gift Memberships",
-        "Hoffi Pod Elis",
-        "Jon Spurling"
+        "Steff Garrero"
       ],
       "topics": [
         "ralgex"
@@ -3954,8 +3549,8 @@
       "enclosure_length": "11907630",
       "itunes_duration": "12:04",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Turkey Hunt",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -3977,14 +3572,10 @@
       "enclosure_length": "40967089",
       "itunes_duration": "42:20",
       "speakers": [
+        "Thighs Elis James",
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Mark Hughes",
-        "Freddy Adu",
-        "Gypsy Jem Mace",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Rich Russo"
+        "Steff Garrero"
       ],
       "topics": [
         "sparky",
@@ -4003,14 +3594,10 @@
       "enclosure_length": "82559044",
       "itunes_duration": "1:25:39",
       "speakers": [
+        "Thighs Elis James",
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Mark Hughes",
-        "Freddy Adu",
-        "Gypsy Jem Mace",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Rich Russo"
+        "Steff Garrero"
       ],
       "topics": [
         "sparky",
@@ -4029,8 +3616,7 @@
       "enclosure_length": "7766071",
       "itunes_duration": "7:45",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4053,12 +3639,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Denis Frisoli’s Tower",
-        "Neil Jenkins",
-        "Phil Salt",
-        "Hoffi Pod",
-        "Michael Owen"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -4076,12 +3657,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Denis Frisoli’s Tower",
-        "Neil Jenkins",
-        "Phil Salt",
-        "Hoffi Pod",
-        "Michael Owen"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -4097,8 +3673,8 @@
       "enclosure_length": "8210391",
       "itunes_duration": "8:13",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Years Ago",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4123,12 +3699,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Kevin De Bruyne",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Scott Quinnell",
-        "YouTube Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "race"
@@ -4148,12 +3719,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Kevin De Bruyne",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Scott Quinnell",
-        "YouTube Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "race"
@@ -4171,8 +3737,7 @@
       "enclosure_length": "6757543",
       "itunes_duration": "6:42",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4195,12 +3760,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Ilona Maher",
-        "Bob Morgan",
-        "YouTube Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "elephant",
@@ -4221,12 +3781,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Ilona Maher",
-        "Bob Morgan",
-        "YouTube Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "elephant",
@@ -4245,8 +3800,7 @@
       "enclosure_length": "8863630",
       "itunes_duration": "8:53",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4270,11 +3824,7 @@
         "Leroy Brito",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Leroy’s Picks",
-        "YouTube Diana Ross",
-        "Salt Bae",
-        "Hoffi Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "leroy",
@@ -4296,11 +3846,7 @@
         "Leroy Brito",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Leroy’s Picks",
-        "YouTube Diana Ross",
-        "Salt Bae",
-        "Hoffi Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "leroy",
@@ -4319,8 +3865,7 @@
       "enclosure_length": "9274061",
       "itunes_duration": "9:19",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4339,14 +3884,11 @@
       "enclosure_length": "28471368",
       "itunes_duration": "29:19",
       "speakers": [
+        "No Guile",
+        "No Subterfuge",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Patreon Membership",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Kath Morgan",
-        "Mike Documentary"
+        "Steff Garrero"
       ],
       "topics": [
         "guile",
@@ -4365,14 +3907,11 @@
       "enclosure_length": "75567427",
       "itunes_duration": "1:18:22",
       "speakers": [
+        "No Guile",
+        "No Subterfuge",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Patreon Membership",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Kath Morgan",
-        "Mike Documentary"
+        "Steff Garrero"
       ],
       "topics": [
         "guile",
@@ -4392,8 +3931,6 @@
       "itunes_duration": "14:29",
       "speakers": [
         "Lloyd George",
-        "Michael Owen",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4418,11 +3955,7 @@
         "Chesney Hawkes",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Living Arrows",
-        "Catch Chesney"
+        "Steff Garrero"
       ],
       "topics": [
         "chesney",
@@ -4444,11 +3977,7 @@
         "Chesney Hawkes",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Living Arrows",
-        "Catch Chesney"
+        "Steff Garrero"
       ],
       "topics": [
         "chesney",
@@ -4489,14 +4018,10 @@
       "enclosure_length": "37113503",
       "itunes_duration": "38:19",
       "speakers": [
+        "Twenty Minutes",
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Tom Platz Elis",
-        "Steff Documentary",
-        "Quiz Ball Elis Book",
-        "Sammy Harvey"
+        "Steff Garrero"
       ],
       "topics": [
         "minutes"
@@ -4514,14 +4039,10 @@
       "enclosure_length": "67200294",
       "itunes_duration": "1:09:39",
       "speakers": [
+        "Twenty Minutes",
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Tom Platz Elis",
-        "Steff Documentary",
-        "Quiz Ball Elis Book",
-        "Sammy Harvey"
+        "Steff Garrero"
       ],
       "topics": [
         "minutes"
@@ -4583,14 +4104,10 @@
       "enclosure_length": "86940931",
       "itunes_duration": "1:30:13",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
-        "Liam Gallagher",
-        "Colin Murray",
-        "Scott Quinnell",
-        "Bob Harris",
-        "Danny Wallace",
-        "Distant Pod"
+        "Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "distant"
@@ -4608,14 +4125,10 @@
       "enclosure_length": "89791829",
       "itunes_duration": "1:33:11",
       "speakers": [
-        "Michael Owen",
-        "Hoffi Pod",
-        "Liam Gallagher",
-        "Colin Murray",
-        "Scott Quinnell",
-        "Bob Harris",
-        "Danny Wallace",
-        "Distant Pod"
+        "Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "distant"
@@ -4633,9 +4146,8 @@
       "enclosure_length": "8398882",
       "itunes_duration": "8:24",
       "speakers": [
-        "Michael Owen",
-        "Join Elis",
-        "Hoffi Pod",
+        "Two Year Contract",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4660,11 +4172,7 @@
         "Pwllheli Spar",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Mark Hughes"
+        "Steff Garrero"
       ],
       "topics": [
         "pwllheli",
@@ -4686,11 +4194,7 @@
         "Pwllheli Spar",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Mark Hughes"
+        "Steff Garrero"
       ],
       "topics": [
         "pwllheli",
@@ -4734,12 +4238,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "David James",
-        "Mike Documentary"
+        "Steff Garrero"
       ],
       "topics": [
         "radio"
@@ -4759,12 +4258,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "David James",
-        "Mike Documentary"
+        "Steff Garrero"
       ],
       "topics": [
         "radio"
@@ -4782,9 +4276,8 @@
       "enclosure_length": "7152094",
       "itunes_duration": "7:06",
       "speakers": [
-        "Michael Owen",
-        "Join Elis",
-        "Hoffi Pod",
+        "Big Pink Disc",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4809,11 +4302,7 @@
         "Ken Tubbins",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Tyreek Stephenson Karma"
+        "Steff Garrero"
       ],
       "topics": [
         "tubbins"
@@ -4834,11 +4323,7 @@
         "Ken Tubbins",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Tyreek Stephenson Karma"
+        "Steff Garrero"
       ],
       "topics": [
         "tubbins"
@@ -4857,9 +4342,6 @@
       "itunes_duration": "11:38",
       "speakers": [
         "Chesney Hawkes",
-        "Michael Owen",
-        "Join Elis",
-        "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4883,12 +4365,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Steve Alderson",
-        "Tom Jones"
+        "Steff Garrero"
       ],
       "topics": [
         "rocks"
@@ -4908,12 +4385,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Steve Alderson",
-        "Tom Jones"
+        "Steff Garrero"
       ],
       "topics": [
         "rocks"
@@ -4931,9 +4403,7 @@
       "enclosure_length": "7692098",
       "itunes_duration": "7:40",
       "speakers": [
-        "Michael Owen",
-        "Join Elis",
-        "Hoffi Pod",
+        "Honest History",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -4956,12 +4426,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Cole Palmer",
-        "tLpJtK mbfI"
+        "Steff Garrero"
       ],
       "topics": [
         "mike",
@@ -4982,12 +4447,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Cole Palmer",
-        "tLpJtK mbfI"
+        "Steff Garrero"
       ],
       "topics": [
         "mike",
@@ -5029,12 +4489,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Stewart Piper",
-        "status Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "peak",
@@ -5056,12 +4511,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Stewart Piper",
-        "status Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "peak",
@@ -5081,7 +4531,7 @@
       "enclosure_length": "7629412",
       "itunes_duration": "7:36",
       "speakers": [
-        "Gordon Smart",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -5104,12 +4554,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Mike Book",
-        "Johanna Mounzer"
+        "Steff Garrero"
       ],
       "topics": [
         "breakfast",
@@ -5132,12 +4577,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Mike Book",
-        "Johanna Mounzer"
+        "Steff Garrero"
       ],
       "topics": [
         "breakfast",
@@ -5183,12 +4623,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Nick’s Links",
-        "Steff’s Tom Brady Wrexham"
+        "Steff Garrero"
       ],
       "topics": [
         "keycard"
@@ -5208,12 +4643,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Nick’s Links",
-        "Steff’s Tom Brady Wrexham"
+        "Steff Garrero"
       ],
       "topics": [
         "keycard"
@@ -5254,11 +4684,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Jonathan Wilson"
+        "Steff Garrero"
       ],
       "topics": [
         "mike"
@@ -5278,11 +4704,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Jonathan Wilson"
+        "Steff Garrero"
       ],
       "topics": [
         "mike"
@@ -5325,12 +4747,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Reggie Jackson",
-        "Mike Book"
+        "Steff Garrero"
       ],
       "topics": [
         "jets",
@@ -5351,12 +4768,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Hoffi Pod",
-        "Michael Owen",
-        "Reggie Jackson",
-        "Mike Book"
+        "Steff Garrero"
       ],
       "topics": [
         "jets",
@@ -5375,6 +4787,7 @@
       "enclosure_length": "11973257",
       "itunes_duration": "12:08",
       "speakers": [
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -5397,10 +4810,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Pepe Reina",
-        "Mike Documentary",
-        "Danny Jansen"
+        "Steff Garrero"
       ],
       "topics": [
         "palm",
@@ -5421,10 +4831,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Pepe Reina",
-        "Mike Documentary",
-        "Danny Jansen"
+        "Steff Garrero"
       ],
       "topics": [
         "palm",
@@ -5466,9 +4873,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Harrison Walsh",
-        "Craig Bellamy"
+        "Steff Garrero"
       ],
       "topics": [
         "time"
@@ -5488,10 +4893,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Harrison Walsh",
-        "Steff Documentary",
-        "Craig Bellamy"
+        "Steff Garrero"
       ],
       "topics": [
         "time"
@@ -5509,7 +4911,7 @@
       "enclosure_length": "14431301",
       "itunes_duration": "14:41",
       "speakers": [
-        "Gordon Smart",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -5533,12 +4935,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Merson",
-        "Mike Documentary",
-        "Andy Clarke",
-        "Roger Harper",
-        "Graham Gooch"
+        "Steff Garrero"
       ],
       "topics": [
         "pampas",
@@ -5560,12 +4957,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Merson",
-        "Mike Documentary",
-        "Andy Clarke",
-        "Roger Harper",
-        "Graham Gooch"
+        "Steff Garrero"
       ],
       "topics": [
         "pampas",
@@ -5585,7 +4977,7 @@
       "enclosure_length": "12641572",
       "itunes_duration": "12:49",
       "speakers": [
-        "Humphrey Kerr",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -5606,11 +4998,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Max Rushden",
-        "Scottie Scheffler",
-        "Steff Documentary",
-        "xA RGj"
+        "Steff Garrero"
       ],
       "topics": [
         "outdoorsy"
@@ -5630,11 +5018,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Max Rushden",
-        "Scottie Scheffler",
-        "Steff Documentary",
-        "xA RGj"
+        "Steff Garrero"
       ],
       "topics": [
         "outdoorsy"
@@ -5676,11 +5060,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Gary Neville",
-        "Elis Documentary",
-        "Mike Book",
-        "Ernest Thayer"
+        "Steff Garrero"
       ],
       "topics": [
         "michu",
@@ -5701,11 +5081,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Gary Neville",
-        "Elis Documentary",
-        "Mike Book",
-        "Ernest Thayer"
+        "Steff Garrero"
       ],
       "topics": [
         "michu",
@@ -5724,7 +5100,7 @@
       "enclosure_length": "10390020",
       "itunes_duration": "10:29",
       "speakers": [
-        "rd Leg",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -5745,10 +5121,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Elis Documentary",
-        "Mike Book Steff",
-        "Iwan Thomas"
+        "Steff Garrero"
       ],
       "topics": [
         "stag"
@@ -5768,10 +5141,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Elis Documentary",
-        "Mike Book Steff",
-        "Iwan Thomas"
+        "Steff Garrero"
       ],
       "topics": [
         "stag"
@@ -5789,7 +5159,8 @@
       "enclosure_length": "5640752",
       "itunes_duration": "5:32",
       "speakers": [
-        "Ulster Hall",
+        "Red Card Vets",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -5873,12 +5244,11 @@
       "enclosure_length": "40589664",
       "itunes_duration": "41:56",
       "speakers": [
+        "Am Bubbs",
+        "Summer Olympic Games",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Cindy Ngamba",
-        "Mike Doc",
-        "Richard Moore"
+        "Steff Garrero"
       ],
       "topics": [
         "bubbs"
@@ -5896,12 +5266,11 @@
       "enclosure_length": "65178622",
       "itunes_duration": "1:07:33",
       "speakers": [
+        "Am Bubbs",
+        "Summer Olympic Games",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Cindy Ngamba",
-        "Mike Doc",
-        "Richard Moore"
+        "Steff Garrero"
       ],
       "topics": [
         "bubbs"
@@ -5944,11 +5313,7 @@
         "Paul Heaton",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Grace Harris",
-        "Georgi Kinkladze",
-        "Elis Doc",
-        "George Best"
+        "Steff Garrero"
       ],
       "topics": [
         "jacket",
@@ -5973,11 +5338,7 @@
         "Paul Heaton",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Grace Harris",
-        "Georgi Kinkladze",
-        "Elis Doc",
-        "George Best"
+        "Steff Garrero"
       ],
       "topics": [
         "jacket",
@@ -5999,7 +5360,6 @@
       "enclosure_length": "8355403",
       "itunes_duration": "8:22",
       "speakers": [
-        "rd Leg",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -6023,11 +5383,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Steff Doc",
-        "Inshallah Utd",
-        "Nooruddean Chowdry",
-        "status Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "peace",
@@ -6048,11 +5404,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Steff Doc",
-        "Inshallah Utd",
-        "Nooruddean Chowdry",
-        "status Mike"
+        "Steff Garrero"
       ],
       "topics": [
         "peace",
@@ -6096,11 +5448,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Mike Eddie Hearn",
-        "Ryan Garcia",
-        "Mike Documentary",
-        "Johnson Wagner"
+        "Steff Garrero"
       ],
       "topics": [
         "worst",
@@ -6122,11 +5470,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Mike Eddie Hearn",
-        "Ryan Garcia",
-        "Mike Documentary",
-        "Johnson Wagner"
+        "Steff Garrero"
       ],
       "topics": [
         "worst",
@@ -6171,8 +5515,7 @@
         "Colin Murray",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Johnny Logan"
+        "Steff Garrero"
       ],
       "topics": [
         "colin",
@@ -6194,8 +5537,7 @@
         "Colin Murray",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Johnny Logan"
+        "Steff Garrero"
       ],
       "topics": [
         "colin",
@@ -6239,12 +5581,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Peter Shilton",
-        "Rob Burrow",
-        "reel Steff"
+        "Steff Garrero"
       ],
       "topics": [
         "twice",
@@ -6265,12 +5602,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Peter Shilton",
-        "Rob Burrow",
-        "reel Steff"
+        "Steff Garrero"
       ],
       "topics": [
         "twice",
@@ -6289,7 +5621,8 @@
       "enclosure_length": "9774395",
       "itunes_duration": "9:59",
       "speakers": [
-        "Hackney Empire",
+        "Hungover Cricketers",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -6313,12 +5646,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Ian Rush",
-        "Steven Scragg",
-        "Ronnie Whelan"
+        "Steff Garrero"
       ],
       "topics": [
         "bottle",
@@ -6339,12 +5667,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Ian Rush",
-        "Steven Scragg",
-        "Ronnie Whelan"
+        "Steff Garrero"
       ],
       "topics": [
         "bottle",
@@ -6387,12 +5710,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Kerry Skull",
-        "Mike Documentary",
-        "Dan Orlovsky"
+        "Steff Garrero"
       ],
       "topics": [
         "country",
@@ -6413,12 +5731,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Kerry Skull",
-        "Mike Documentary",
-        "Dan Orlovsky"
+        "Steff Garrero"
       ],
       "topics": [
         "country",
@@ -6437,7 +5750,8 @@
       "enclosure_length": "11830603",
       "itunes_duration": "12:13",
       "speakers": [
-        "Hackney Empire",
+        "No One Likes Us",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -6461,9 +5775,7 @@
         "Danny Wallace",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jim Carey",
-        "Ian Botham"
+        "Steff Garrero"
       ],
       "topics": [
         "danny",
@@ -6485,9 +5797,7 @@
         "Danny Wallace",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jim Carey",
-        "Ian Botham"
+        "Steff Garrero"
       ],
       "topics": [
         "danny",
@@ -6506,8 +5816,7 @@
       "enclosure_length": "7791859",
       "itunes_duration": "8:01",
       "speakers": [
-        "Michael Owen",
-        "Bull Durham",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -6530,12 +5839,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Eddie Hall"
+        "Steff Garrero"
       ],
       "topics": [
         "plan"
@@ -6579,12 +5883,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Eddie Hall"
+        "Steff Garrero"
       ],
       "topics": [
         "plan"
@@ -6602,7 +5901,7 @@
       "enclosure_length": "9517606",
       "itunes_duration": "9:49",
       "speakers": [
-        "Michael Owen",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -6623,12 +5922,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Tracy Austin"
+        "Steff Garrero"
       ],
       "topics": [
         "mammoth"
@@ -6648,12 +5942,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Tracy Austin"
+        "Steff Garrero"
       ],
       "topics": [
         "mammoth"
@@ -6695,12 +5984,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Lloyd Martin"
+        "Steff Garrero"
       ],
       "topics": [
         "owner",
@@ -6721,12 +6005,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Lloyd Martin"
+        "Steff Garrero"
       ],
       "topics": [
         "owner",
@@ -6746,7 +6025,6 @@
       "itunes_duration": "7:42",
       "speakers": [
         "Raquel Welch",
-        "Michael Owen",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -6770,12 +6048,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Leighton James"
+        "Steff Garrero"
       ],
       "topics": [
         "batman",
@@ -6796,12 +6069,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Leighton James"
+        "Steff Garrero"
       ],
       "topics": [
         "batman",
@@ -6844,12 +6112,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Babe Didrikson"
+        "Steff Garrero"
       ],
       "topics": [
         "pathetic",
@@ -6872,12 +6135,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Babe Didrikson"
+        "Steff Garrero"
       ],
       "topics": [
         "pathetic",
@@ -6898,7 +6156,9 @@
       "enclosure_length": "9517628",
       "itunes_duration": "9:49",
       "speakers": [
-        "Michael Owen",
+        "Pint Sized Distant Pod",
+        "Pints Welcome",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -6922,12 +6182,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Wilma Rudolph"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -6945,12 +6200,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Wilma Rudolph"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -6966,6 +6216,7 @@
       "enclosure_length": "11752853",
       "itunes_duration": "12:09",
       "speakers": [
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -6989,8 +6240,7 @@
         "Scott Quinnell",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Derek Quinnell"
+        "Steff Garrero"
       ],
       "topics": [
         "scott",
@@ -7012,8 +6262,7 @@
         "Scott Quinnell",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Derek Quinnell"
+        "Steff Garrero"
       ],
       "topics": [
         "scott",
@@ -7057,11 +6306,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Pint Sized"
+        "Steff Garrero"
       ],
       "topics": [
         "distant"
@@ -7081,11 +6326,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Pint Sized"
+        "Steff Garrero"
       ],
       "topics": [
         "distant"
@@ -7127,11 +6368,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Pint Sized"
+        "Steff Garrero"
       ],
       "topics": [
         "distant"
@@ -7151,11 +6388,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Distant Pod",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Pint Sized"
+        "Steff Garrero"
       ],
       "topics": [
         "distant"
@@ -7198,12 +6431,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Arnold Schwarzenegger"
+        "Steff Garrero"
       ],
       "topics": [
         "ridiculous",
@@ -7224,12 +6452,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Arnold Schwarzenegger"
+        "Steff Garrero"
       ],
       "topics": [
         "ridiculous",
@@ -7271,12 +6494,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Baltimore Rygbi"
+        "Steff Garrero"
       ],
       "topics": [
         "nude"
@@ -7296,12 +6514,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Baltimore Rygbi"
+        "Steff Garrero"
       ],
       "topics": [
         "nude"
@@ -7342,12 +6555,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Suzi Ruffell",
-        "Maisie Adam",
-        "Best Newcomer",
-        "Best Stand Up Show",
-        "Bunny Shaw"
+        "Steff Garrero"
       ],
       "topics": [
         "suzi",
@@ -7372,12 +6580,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Suzi Ruffell",
-        "Maisie Adam",
-        "Best Newcomer",
-        "Best Stand Up Show",
-        "Bunny Shaw"
+        "Steff Garrero"
       ],
       "topics": [
         "suzi",
@@ -7423,12 +6626,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Travis Kelce"
+        "Steff Garrero"
       ],
       "topics": [
         "argus",
@@ -7450,12 +6648,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Travis Kelce"
+        "Steff Garrero"
       ],
       "topics": [
         "argus",
@@ -7499,12 +6692,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Barry John"
+        "Steff Garrero"
       ],
       "topics": [
         "radio",
@@ -7525,12 +6713,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Barry John"
+        "Steff Garrero"
       ],
       "topics": [
         "radio",
@@ -7573,12 +6756,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Daf Jenkins"
+        "Steff Garrero"
       ],
       "topics": [
         "club"
@@ -7598,12 +6776,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Daf Jenkins"
+        "Steff Garrero"
       ],
       "topics": [
         "club"
@@ -7644,12 +6817,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Calvin Peete"
+        "Steff Garrero"
       ],
       "topics": [
         "nerd"
@@ -7669,12 +6837,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Calvin Peete"
+        "Steff Garrero"
       ],
       "topics": [
         "nerd"
@@ -7715,12 +6878,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Mike Book"
+        "Steff Garrero"
       ],
       "topics": [
         "whelk"
@@ -7740,12 +6898,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Mike Book"
+        "Steff Garrero"
       ],
       "topics": [
         "whelk"
@@ -7788,12 +6941,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Herbie Sykes"
+        "Steff Garrero"
       ],
       "topics": [
         "qwaylog"
@@ -7813,12 +6961,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Herbie Sykes"
+        "Steff Garrero"
       ],
       "topics": [
         "qwaylog"
@@ -7862,12 +7005,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Andrew Lawn"
+        "Steff Garrero"
       ],
       "topics": [
         "pork",
@@ -7889,12 +7027,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Andrew Lawn"
+        "Steff Garrero"
       ],
       "topics": [
         "pork",
@@ -7937,12 +7070,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Hristo Stoichcov"
+        "Steff Garrero"
       ],
       "topics": [
         "middle"
@@ -7962,12 +7090,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Hristo Stoichcov"
+        "Steff Garrero"
       ],
       "topics": [
         "middle"
@@ -8008,12 +7131,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "El Tel"
+        "Steff Garrero"
       ],
       "topics": [
         "split",
@@ -8036,12 +7154,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "El Tel"
+        "Steff Garrero"
       ],
       "topics": [
         "split",
@@ -8087,12 +7200,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "John Noakes"
+        "Steff Garrero"
       ],
       "topics": [
         "outdoor",
@@ -8114,12 +7222,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "John Noakes"
+        "Steff Garrero"
       ],
       "topics": [
         "outdoor",
@@ -8163,11 +7266,7 @@
         "Humphrey Ker",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Rob McElhenney",
-        "Ryan Reynolds",
-        "Best Newcomer",
-        "Michael Owen"
+        "Steff Garrero"
       ],
       "topics": [
         "humphrey",
@@ -8189,11 +7288,7 @@
         "Humphrey Ker",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Rob McElhenney",
-        "Ryan Reynolds",
-        "Best Newcomer",
-        "Michael Owen"
+        "Steff Garrero"
       ],
       "topics": [
         "humphrey",
@@ -8236,11 +7331,7 @@
         "Clapham Grand",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "clapham",
@@ -8263,11 +7354,7 @@
         "Clapham Grand",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "clapham",
@@ -8311,11 +7398,7 @@
         "Galatasaray Match",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "galatasaray",
@@ -8339,11 +7422,7 @@
         "Galatasaray Match",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "galatasaray",
@@ -8386,12 +7465,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Vaughan Thomas"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -8409,12 +7483,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Vaughan Thomas"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -8454,12 +7523,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Tanni Grey Thompson"
+        "Steff Garrero"
       ],
       "topics": [
         "luck"
@@ -8479,12 +7543,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Tanni Grey Thompson"
+        "Steff Garrero"
       ],
       "topics": [
         "luck"
@@ -8525,9 +7584,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Anna Ptaszynski",
-        "James Harkin"
+        "Steff Garrero"
       ],
       "topics": [
         "thing",
@@ -8548,9 +7605,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Anna Ptaszynski",
-        "James Harkin"
+        "Steff Garrero"
       ],
       "topics": [
         "thing",
@@ -8592,12 +7647,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Manitoba Bisons"
+        "Steff Garrero"
       ],
       "topics": [
         "self",
@@ -8618,12 +7668,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Manitoba Bisons"
+        "Steff Garrero"
       ],
       "topics": [
         "self",
@@ -8667,12 +7712,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "David Tossell"
+        "Steff Garrero"
       ],
       "topics": [
         "apples"
@@ -8692,12 +7732,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "David Tossell"
+        "Steff Garrero"
       ],
       "topics": [
         "apples"
@@ -8715,7 +7750,7 @@
       "enclosure_length": "11811367",
       "itunes_duration": "12:12",
       "speakers": [
-        "Tommy Two",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -8738,11 +7773,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "join",
@@ -8763,11 +7794,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "join",
@@ -8811,12 +7838,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Kyra Poh"
+        "Steff Garrero"
       ],
       "topics": [
         "hour",
@@ -8837,12 +7859,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Kyra Poh"
+        "Steff Garrero"
       ],
       "topics": [
         "hour",
@@ -8884,12 +7901,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Carl Frampton"
+        "Steff Garrero"
       ],
       "topics": [
         "biggins"
@@ -8909,12 +7921,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Carl Frampton"
+        "Steff Garrero"
       ],
       "topics": [
         "biggins"
@@ -8957,12 +7964,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Camera Angle"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -8980,12 +7982,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Camera Angle"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -9001,6 +7998,8 @@
       "enclosure_length": "8501558",
       "itunes_duration": "8:45",
       "speakers": [
+        "Venus Bluegenes",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -9024,12 +8023,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Danny Dyer"
+        "Steff Garrero"
       ],
       "topics": [
         "relationship",
@@ -9050,12 +8044,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Michael Owen",
-        "Hoffi Pod",
-        "Paul Melin",
-        "Distant Pod",
-        "Danny Dyer"
+        "Steff Garrero"
       ],
       "topics": [
         "relationship",
@@ -9095,12 +8084,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Siya Kolisi",
-        "Steve Jones",
-        "Mike Book"
+        "Steff Garrero"
       ],
       "topics": [
         "tele",
@@ -9121,12 +8105,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Siya Kolisi",
-        "Steve Jones",
-        "Mike Book"
+        "Steff Garrero"
       ],
       "topics": [
         "tele",
@@ -9172,12 +8151,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Dickie Bird",
-        "Femke Bol",
-        "Ed Hawkins"
+        "Steff Garrero"
       ],
       "topics": [
         "philosopher"
@@ -9197,12 +8171,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Dickie Bird",
-        "Femke Bol",
-        "Ed Hawkins"
+        "Steff Garrero"
       ],
       "topics": [
         "philosopher"
@@ -9242,9 +8211,6 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Paul Melin",
-        "Distant Pod",
-        "Scott Quinnell",
         "Steff Garrero"
       ],
       "topics": [
@@ -9266,10 +8232,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Scott Quinnell"
+        "Steff Garrero"
       ],
       "topics": [
         "welsh",
@@ -9312,11 +8275,7 @@
         "Adam Hurrey",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Adam HURREYAdam",
-        "Paul Melin",
-        "Distant Pod",
-        "Bill Leslie"
+        "Steff Garrero"
       ],
       "topics": [
         "adam",
@@ -9338,11 +8297,7 @@
         "Adam Hurrey",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Adam HURREYAdam",
-        "Paul Melin",
-        "Distant Pod",
-        "Bill Leslie"
+        "Steff Garrero"
       ],
       "topics": [
         "adam",
@@ -9386,12 +8341,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Mike Book",
-        "Peter Bills",
-        "Aaron Ramsey"
+        "Steff Garrero"
       ],
       "topics": [
         "golden",
@@ -9412,12 +8362,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Mike Book",
-        "Peter Bills",
-        "Aaron Ramsey"
+        "Steff Garrero"
       ],
       "topics": [
         "golden",
@@ -9461,11 +8406,7 @@
         "Greg Jenner",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Greg Clip",
-        "Gareth Bale"
+        "Steff Garrero"
       ],
       "topics": [
         "greg",
@@ -9487,11 +8428,7 @@
         "Greg Jenner",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Greg Clip",
-        "Gareth Bale"
+        "Steff Garrero"
       ],
       "topics": [
         "greg",
@@ -9537,12 +8474,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Lee Trundle",
-        "Fatima Whitbread",
-        "Daniel Lieberman"
+        "Steff Garrero"
       ],
       "topics": [
         "number"
@@ -9562,12 +8494,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Lee Trundle",
-        "Fatima Whitbread",
-        "Daniel Lieberman"
+        "Steff Garrero"
       ],
       "topics": [
         "number"
@@ -9609,11 +8536,7 @@
         "Gordon Smart",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Martin Compston",
-        "Paul Melin",
-        "Distant Pod",
-        "Scott Brown"
+        "Steff Garrero"
       ],
       "topics": [
         "gordon",
@@ -9636,11 +8559,7 @@
         "Gordon Smart",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Martin Compston",
-        "Paul Melin",
-        "Distant Pod",
-        "Scott Brown"
+        "Steff Garrero"
       ],
       "topics": [
         "gordon",
@@ -9685,11 +8604,7 @@
         "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Damon Albarn",
-        "Mike Documentary Elvis"
+        "Steff Garrero"
       ],
       "topics": [
         "hoffi"
@@ -9710,11 +8625,7 @@
         "Hoffi Pod",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Damon Albarn",
-        "Mike Documentary Elvis"
+        "Steff Garrero"
       ],
       "topics": [
         "hoffi"
@@ -9756,10 +8667,6 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Paul Melin",
-        "Distant Pod",
-        "Catriona Clarke",
-        "Farah Williams",
         "Steff Garrero"
       ],
       "topics": [
@@ -9780,11 +8687,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Catriona Clarke",
-        "Farah Williams"
+        "Steff Garrero"
       ],
       "topics": [
         "attitude"
@@ -9802,8 +8705,6 @@
       "enclosure_length": "23235951",
       "itunes_duration": "24:02",
       "speakers": [
-        "Tom Craine",
-        "Chris Scull",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -9824,6 +8725,7 @@
       "enclosure_length": "9169051",
       "itunes_duration": "9:27",
       "speakers": [
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -9848,11 +8750,7 @@
         "Josh Widdicombe",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Parenting Hell",
-        "Quickly Kevin",
-        "Paul Melin",
-        "Distant Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "josh",
@@ -9874,11 +8772,7 @@
         "Josh Widdicombe",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Parenting Hell",
-        "Quickly Kevin",
-        "Paul Melin",
-        "Distant Pod"
+        "Steff Garrero"
       ],
       "topics": [
         "josh",
@@ -9919,10 +8813,7 @@
         "Richard Herring",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Richard Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "richard",
@@ -9944,10 +8835,7 @@
         "Richard Herring",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Richard Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "richard",
@@ -9989,12 +8877,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Thierry Henry",
-        "Chas Smith",
-        "Rocket Ronnie"
+        "Steff Garrero"
       ],
       "topics": [
         "mate"
@@ -10014,12 +8897,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Paul Melin",
-        "Distant Pod",
-        "Thierry Henry",
-        "Chas Smith",
-        "Rocket Ronnie"
+        "Steff Garrero"
       ],
       "topics": [
         "mate"
@@ -10059,11 +8937,7 @@
         "Felix White",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Fulham FC",
-        "Paul Melin",
-        "Distant Pod",
-        "Mark Nicholas"
+        "Steff Garrero"
       ],
       "topics": [
         "felix",
@@ -10085,11 +8959,7 @@
         "Felix White",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Fulham FC",
-        "Paul Melin",
-        "Distant Pod",
-        "Mark Nicholas"
+        "Steff Garrero"
       ],
       "topics": [
         "felix",
@@ -10132,11 +9002,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jamie Carragher",
-        "Geraint Thomas",
-        "Mike Documentary",
-        "Jay Allan"
+        "Steff Garrero"
       ],
       "topics": [
         "titchmarsh"
@@ -10156,11 +9022,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jamie Carragher",
-        "Geraint Thomas",
-        "Mike Documentary",
-        "Jay Allan"
+        "Steff Garrero"
       ],
       "topics": [
         "titchmarsh"
@@ -10202,10 +9064,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Craig Douglas",
-        "Andrew Nickolds",
-        "Nick Newman"
+        "Steff Garrero"
       ],
       "topics": [
         "kind",
@@ -10227,10 +9086,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Craig Douglas",
-        "Andrew Nickolds",
-        "Nick Newman"
+        "Steff Garrero"
       ],
       "topics": [
         "kind",
@@ -10272,12 +9128,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Max Rushden",
-        "status Steff",
-        "Matt Whyman",
-        "Mike Clip",
-        "Kate Mason"
+        "Steff Garrero"
       ],
       "topics": [
         "girlfriends"
@@ -10297,12 +9148,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Max Rushden",
-        "status Steff",
-        "Matt Whyman",
-        "Mike Clip",
-        "Kate Mason"
+        "Steff Garrero"
       ],
       "topics": [
         "girlfriends"
@@ -10320,6 +9166,7 @@
       "enclosure_length": "9062453",
       "itunes_duration": "9:20",
       "speakers": [
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -10343,8 +9190,7 @@
         "Kate Mason",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Elis Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "kate",
@@ -10366,8 +9212,7 @@
         "Kate Mason",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Elis Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "kate",
@@ -10386,6 +9231,7 @@
       "enclosure_length": "15537072",
       "itunes_duration": "16:05",
       "speakers": [
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -10408,12 +9254,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Drew Magi",
-        "Terry Griffiths",
-        "John Spencer",
-        "Len Ganley",
-        "Mike Documentary"
+        "Steff Garrero"
       ],
       "topics": [
         "parking"
@@ -10433,12 +9274,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Drew Magi",
-        "Terry Griffiths",
-        "John Spencer",
-        "Len Ganley",
-        "Mike Documentary"
+        "Steff Garrero"
       ],
       "topics": [
         "parking"
@@ -10482,12 +9318,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Chris Sutton",
-        "status Elis",
-        "John Virgo",
-        "Mike Book Welsh",
-        "Fred Deakin"
+        "Steff Garrero"
       ],
       "topics": [
         "wrist",
@@ -10508,12 +9339,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Chris Sutton",
-        "status Elis",
-        "John Virgo",
-        "Mike Book Welsh",
-        "Fred Deakin"
+        "Steff Garrero"
       ],
       "topics": [
         "wrist",
@@ -10552,8 +9378,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Niall Quinn"
+        "Steff Garrero"
       ],
       "topics": [
         "porno"
@@ -10573,8 +9398,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Niall Quinn"
+        "Steff Garrero"
       ],
       "topics": [
         "porno"
@@ -10617,11 +9441,7 @@
         "Sam Warburton",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jonny Wilkinson",
-        "Chris Hoy",
-        "Heather Knight",
-        "Troy Deeney"
+        "Steff Garrero"
       ],
       "topics": [
         "warburton"
@@ -10642,11 +9462,7 @@
         "Sam Warburton",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jonny Wilkinson",
-        "Chris Hoy",
-        "Heather Knight",
-        "Troy Deeney"
+        "Steff Garrero"
       ],
       "topics": [
         "warburton"
@@ -10688,12 +9504,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Ian Holloway",
-        "Mike Documentary",
-        "Glenn Webbe",
-        "Elis Books",
-        "John Smith"
+        "Steff Garrero"
       ],
       "topics": [
         "stones",
@@ -10715,12 +9526,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Ian Holloway",
-        "Mike Documentary",
-        "Glenn Webbe",
-        "Elis Books",
-        "John Smith"
+        "Steff Garrero"
       ],
       "topics": [
         "stones",
@@ -10764,10 +9570,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Frank Bough",
-        "Good Sport",
-        "Sean Long"
+        "Steff Garrero"
       ],
       "topics": [
         "friend",
@@ -10788,10 +9591,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Frank Bough",
-        "Good Sport",
-        "Sean Long"
+        "Steff Garrero"
       ],
       "topics": [
         "friend",
@@ -10833,12 +9633,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Tessa Sanderson",
-        "Victor Ubogu",
-        "status Mike",
-        "Ken Sema",
-        "Nick Kyrgios"
+        "Steff Garrero"
       ],
       "topics": [
         "doubles"
@@ -10858,12 +9653,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Tessa Sanderson",
-        "Victor Ubogu",
-        "status Mike",
-        "Ken Sema",
-        "Nick Kyrgios"
+        "Steff Garrero"
       ],
       "topics": [
         "doubles"
@@ -10905,11 +9695,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "site Mike",
-        "Ken Owens",
-        "Stuart Broad",
-        "Mike Documentary"
+        "Steff Garrero"
       ],
       "topics": [
         "absolute",
@@ -10930,11 +9716,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "site Mike",
-        "Ken Owens",
-        "Stuart Broad",
-        "Mike Documentary"
+        "Steff Garrero"
       ],
       "topics": [
         "absolute",
@@ -10976,12 +9758,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "site Mike",
-        "Lou Macari",
-        "Mike Book",
-        "Miles Jupp",
-        "Jordan Pickford"
+        "Steff Garrero"
       ],
       "topics": [
         "circle",
@@ -11002,12 +9779,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "site Mike",
-        "Lou Macari",
-        "Mike Book",
-        "Miles Jupp",
-        "Jordan Pickford"
+        "Steff Garrero"
       ],
       "topics": [
         "circle",
@@ -11049,12 +9821,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "site Mike",
-        "Duncan Ferguson",
-        "Hazal Nehir",
-        "Mark Hughes",
-        "Jamie Roberts"
+        "Steff Garrero"
       ],
       "topics": [
         "kicks"
@@ -11074,12 +9841,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "site Mike",
-        "Duncan Ferguson",
-        "Hazal Nehir",
-        "Mark Hughes",
-        "Jamie Roberts"
+        "Steff Garrero"
       ],
       "topics": [
         "kicks"
@@ -11119,8 +9881,6 @@
       "enclosure_length": "50152874",
       "itunes_duration": "52:09",
       "speakers": [
-        "Arena Show",
-        "site Mike",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11141,8 +9901,6 @@
       "enclosure_length": "49760828",
       "itunes_duration": "51:44",
       "speakers": [
-        "Arena Show",
-        "site Mike",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11184,10 +9942,6 @@
       "enclosure_length": "27783728",
       "itunes_duration": "28:51",
       "speakers": [
-        "site Mike",
-        "Leeds Utd",
-        "Weston McKennie",
-        "Matt Williams",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11212,10 +9966,6 @@
       "enclosure_length": "43513204",
       "itunes_duration": "45:14",
       "speakers": [
-        "site Mike",
-        "Leeds Utd",
-        "Weston McKennie",
-        "Matt Williams",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11261,8 +10011,6 @@
       "enclosure_length": "21730831",
       "itunes_duration": "22:32",
       "speakers": [
-        "site Mike",
-        "Alex Ferguson",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11286,8 +10034,6 @@
       "enclosure_length": "49097125",
       "itunes_duration": "51:03",
       "speakers": [
-        "site Mike",
-        "Alex Ferguson",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11332,10 +10078,6 @@
       "enclosure_length": "32769521",
       "itunes_duration": "34:02",
       "speakers": [
-        "site Mike",
-        "Mike Documentary",
-        "Kevin Stone",
-        "Frank Rothwell",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11356,10 +10098,6 @@
       "enclosure_length": "62742627",
       "itunes_duration": "1:05:15",
       "speakers": [
-        "site Mike",
-        "Mike Documentary",
-        "Kevin Stone",
-        "Frank Rothwell",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11380,7 +10118,9 @@
       "enclosure_length": "9836529",
       "itunes_duration": "10:09",
       "speakers": [
-        "Annwyl Bloke Learn",
+        "Late Night",
+        "Early Morning",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11403,13 +10143,11 @@
       "enclosure_length": "41610633",
       "itunes_duration": "43:15",
       "speakers": [
+        "Too Many Cooks Make",
+        "Good Broth",
         "Elis James",
-        "Steff Garrero",
-        "Mike Book Superstars",
-        "Jack Clary",
-        "Judith Chalmers",
-        "Gary Player",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "cook",
@@ -11428,12 +10166,11 @@
       "enclosure_length": "74903172",
       "itunes_duration": "1:17:55",
       "speakers": [
+        "Too Many Cooks Make",
+        "Good Broth",
         "Elis James",
-        "Steff Garrero",
-        "Mike Book",
-        "Judith Chalmers",
-        "Gary Player",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "cook",
@@ -11476,12 +10213,8 @@
       "itunes_duration": "32:22",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Scott Quinnell",
-        "Mark Hudson",
-        "rKNUvFxZI Elis",
-        "Johan Cruyff",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "sudocrem",
@@ -11502,12 +10235,8 @@
       "itunes_duration": "1:20:04",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Scott Quinnell",
-        "Mark Hudson",
-        "rKNUvFxZI Elis",
-        "Johan Cruyff",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "sudocrem",
@@ -11549,10 +10278,8 @@
       "itunes_duration": "36:16",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Franco Harris",
-        "Peter Stead",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "briefly",
@@ -11572,10 +10299,8 @@
       "itunes_duration": "1:21:29",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Franco Harris",
-        "Peter Stead",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "briefly",
@@ -11614,9 +10339,8 @@
       "itunes_duration": "38:20",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Stuart Pearce",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "milk",
@@ -11636,8 +10360,8 @@
       "itunes_duration": "1:36:04",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "milk",
@@ -11680,10 +10404,8 @@
       "itunes_duration": "47:21",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Kareem Abdul Jabar",
-        "Mac Alister",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "rich"
@@ -11702,10 +10424,8 @@
       "itunes_duration": "1:19:28",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
         "Mike Bubbins",
-        "JSOje-cF ASteff",
-        "Blue Peter"
+        "Steff Garrero"
       ],
       "topics": [
         "rich"
@@ -11723,6 +10443,8 @@
       "enclosure_length": "13405055",
       "itunes_duration": "13:52",
       "speakers": [
+        "Exchange Student",
+        "Sized Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -11746,11 +10468,8 @@
       "speakers": [
         "Tommy Two Kormas",
         "Elis James",
-        "Steff Garrero",
-        "Chris Evans",
-        "Brian Clough",
-        "Jeremy Reaves",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "tommy",
@@ -11771,9 +10490,8 @@
       "speakers": [
         "Tommy Two Kormas",
         "Elis James",
-        "Steff Garrero",
-        "Terry Venables",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "tommy",
@@ -11815,10 +10533,8 @@
       "itunes_duration": "46:30",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Tony Cotteys",
-        "David Brayley",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -11835,8 +10551,8 @@
       "itunes_duration": "1:26:48",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -11875,11 +10591,8 @@
       "itunes_duration": "42:10",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Grant Whal",
-        "RdG Elis",
-        "Roy Keane",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "hell"
@@ -11898,9 +10611,8 @@
       "itunes_duration": "1:27:57",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Bobby Robson",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "hell"
@@ -11939,10 +10651,10 @@
       "enclosure_length": "52406952",
       "itunes_duration": "54:29",
       "speakers": [
+        "Tooled Up Vegan Burglar",
         "Elis James",
-        "Steff Garrero",
-        "Judith Hann",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "vegan",
@@ -11962,11 +10674,10 @@
       "enclosure_length": "70331550",
       "itunes_duration": "1:13:10",
       "speakers": [
+        "Tooled Up Vegan Burglar",
         "Elis James",
-        "Steff Garrero",
-        "Barry Davies",
-        "Jack Leach",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "vegan",
@@ -12008,10 +10719,8 @@
       "itunes_duration": "55:01",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Steffi Graf",
-        "gW Elis",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "idea",
@@ -12032,8 +10741,8 @@
       "itunes_duration": "1:26:07",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "idea",
@@ -12074,10 +10783,8 @@
       "itunes_duration": "34:24",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Harry Thompson",
-        "Allan Border",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -12094,10 +10801,8 @@
       "itunes_duration": "1:30:00",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Rainbow Bucket",
-        "Neco Williams",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -12136,11 +10841,9 @@
       "itunes_duration": "42:45",
       "speakers": [
         "Berry Gordy Snaps",
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Sarah Hunter",
-        "Martyn Thomas"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "berry",
@@ -12161,10 +10864,9 @@
       "itunes_duration": "1:11:43",
       "speakers": [
         "Berry Gordy Snaps",
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Paul Thorburn"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "berry",
@@ -12184,11 +10886,9 @@
       "enclosure_length": "33887175",
       "itunes_duration": "35:12",
       "speakers": [
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Charlie Wilett",
-        "Geraint Thomas"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "life",
@@ -12207,12 +10907,9 @@
       "enclosure_length": "88572119",
       "itunes_duration": "1:32:10",
       "speakers": [
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Charlie Wilett",
-        "Rob Page",
-        "Jack Grealish"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "life",
@@ -12233,11 +10930,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Daniel Williamson",
-        "Ruud Van Nistelroy",
-        "Rio Mitchum",
-        "Mike Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "sponge",
@@ -12257,13 +10950,8 @@
       "itunes_duration": "1:47:43",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Max Baer",
-        "Barney Ross",
-        "gL WC",
-        "Danny Cipriani",
-        "John Devereaux",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "chimney"
@@ -12282,13 +10970,8 @@
       "itunes_duration": "1:52:13",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Rory Smith",
-        "Tony Adams",
-        "Katya Jones",
-        "Bob Mortimer",
-        "Sean Hughes",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "pear"
@@ -12307,10 +10990,8 @@
       "itunes_duration": "1:46:17",
       "speakers": [
         "Elis James",
-        "Steff Garrero",
-        "Mike Clip",
-        "Jess Fishlock",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "could",
@@ -12330,11 +11011,9 @@
       "itunes_duration": "1:50:01",
       "speakers": [
         "Roy Keane Steff",
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Eddie Butler",
-        "Nfl Show"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "keane"
@@ -12352,12 +11031,9 @@
       "enclosure_length": "123705390",
       "itunes_duration": "2:08:46",
       "speakers": [
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Steven Scragg",
-        "Mark Noble’s Neighbour",
-        "Mike Clip"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "goodwill",
@@ -12380,12 +11056,9 @@
       "enclosure_length": "119035501",
       "itunes_duration": "2:03:54",
       "speakers": [
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Mary Peters Heide",
-        "Phil Bennett",
-        "Peter Wright"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "head",
@@ -12404,14 +11077,9 @@
       "enclosure_length": "105258730",
       "itunes_duration": "1:49:33",
       "speakers": [
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Richard Herring",
-        "php id",
-        "Dickie Bird Autobiography",
-        "Bobby Knight",
-        "Gaelic Football"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "decipher",
@@ -12431,14 +11099,11 @@
       "enclosure_length": "115961370",
       "itunes_duration": "2:00:42",
       "speakers": [
-        "Mike Bubbins",
+        "Twelve Pint Mike Steff",
+        "New York Marathon",
         "Elis James",
-        "Steff Garrero",
-        "Richard Herring",
-        "php id",
-        "Aidan Williams",
-        "Steve Davis",
-        "Tom Brady"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "pint",
@@ -12459,11 +11124,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Richard Herring",
-        "php id",
-        "Savannah Marshall",
-        "Claressa Shields"
+        "Steff Garrero"
       ],
       "topics": [
         "shakespeare",
@@ -12485,12 +11146,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Robert Whiting",
-        "St Helen",
-        "Mick Morgan",
-        "Leon Edwards",
-        "Ufc Title"
+        "Steff Garrero"
       ],
       "topics": [
         "party",
@@ -12511,11 +11167,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Harry Pearson",
-        "Cindy Sember",
-        "Jordan Spieth",
-        "kTAH Elis"
+        "Steff Garrero"
       ],
       "topics": [
         "smooth",
@@ -12538,10 +11190,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Jonathan Wilson",
-        "Gary Lineker",
-        "Jake Wightmans Dad"
+        "Steff Garrero"
       ],
       "topics": [
         "body"
@@ -12561,11 +11210,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Van Basten",
-        "Alex Falase-Koya",
-        "Shelly-Ann Fraser-Pryce",
-        "Mike Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "earnie",
@@ -12586,12 +11231,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Mackey Story",
-        "Mike Book Choice",
-        "Mike Pearce",
-        "BIajBbbtgbs Steff",
-        "Eden Hazard"
+        "Steff Garrero"
       ],
       "topics": [
         "matching",
@@ -12633,8 +11273,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "John Cruyff"
+        "Steff Garrero"
       ],
       "topics": [
         "woman",
@@ -12655,11 +11294,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "John Barnes",
-        "John Aldridge",
-        "Filbert Bayi",
-        "Ian Wight"
+        "Steff Garrero"
       ],
       "topics": [
         "probe",
@@ -12678,8 +11313,9 @@
       "enclosure_length": "118519605",
       "itunes_duration": "2:03:20",
       "speakers": [
-        "Mike Bubbins",
+        "Distant Pod",
         "Elis James",
+        "Mike Bubbins",
         "Steff Garrero"
       ],
       "topics": [
@@ -12698,14 +11334,9 @@
       "enclosure_length": "140412021",
       "itunes_duration": "2:26:10",
       "speakers": [
-        "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Mike’s Tour",
-        "Suzy Wrack",
-        "Jess Fishlock",
-        "amy Elis",
-        "Marie-Antoinette Katoto"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "charlatans",
@@ -12726,10 +11357,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Orny Adams",
-        "Roger Federer",
-        "Mike Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "drug"
@@ -12749,11 +11377,6 @@
       "speakers": [
         "Elis James",
         "Steff Garrero",
-        "Phil Bennett",
-        "Phi Bennett",
-        "Graham Thomas",
-        "Eddie Butler",
-        "Phil Bennet",
         "Mike Bubbins"
       ],
       "topics": [
@@ -12801,8 +11424,6 @@
         "Elis James",
         "Mike Bubbins",
         "Comic Steff Garrero",
-        "First Round",
-        "Joe Cordina",
         "Steff Garrero"
       ],
       "topics": []
@@ -12819,9 +11440,9 @@
       "enclosure_length": "112094018",
       "itunes_duration": "1:56:40",
       "speakers": [
-        "Michael Lewis",
-        "Evel Knievel",
-        "Manchester United",
+        "Weather Guessers Head",
+        "Distant Pod Shop",
+        "Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -12843,10 +11464,9 @@
       "enclosure_length": "116071351",
       "itunes_duration": "2:00:49",
       "speakers": [
-        "First Round",
-        "Jonathan Phillips",
-        "Jack Grealish",
-        "Club Videos",
+        "Texting Head",
+        "Distant Pod Shop",
+        "Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -12888,8 +11508,9 @@
       "enclosure_length": "126955401",
       "itunes_duration": "2:12:09",
       "speakers": [
-        "Steven Scragg",
-        "Bruce Buffer",
+        "Coasted Head",
+        "Distant Pod Shop",
+        "Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -12911,11 +11532,8 @@
       "itunes_duration": "53:26",
       "speakers": [
         "Dark Secret",
-        "Mike Bubbins",
-        "John Rutledge",
-        "Hosted ByMike Bubbins",
-        "John RutledgeLearn",
         "Elis James",
+        "Mike Bubbins",
         "Steff Garrero"
       ],
       "topics": [
@@ -12935,8 +11553,9 @@
       "enclosure_length": "108056554",
       "itunes_duration": "1:52:28",
       "speakers": [
-        "Dave Doodlemoose",
-        "Mike Clip",
+        "Lot Smaller",
+        "Lot Harder Head",
+        "Distant Pod Shop",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -12957,14 +11576,10 @@
       "enclosure_length": "124688399",
       "itunes_duration": "2:09:48",
       "speakers": [
-        "Barry Johnston",
-        "Adam Ricketts",
-        "Katie Taylor",
-        "Amanda Serrano",
-        "Joe Rodon",
-        "Ben Davies",
-        "Luton Town",
-        "Elis James"
+        "Year Old Man If",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "year"
@@ -13007,9 +11622,6 @@
       "enclosure_length": "107669088",
       "itunes_duration": "1:52:04",
       "speakers": [
-        "Duncan Ferguson",
-        "Connor Griffiths",
-        "Mark Williams",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13032,9 +11644,6 @@
       "enclosure_length": "106670583",
       "itunes_duration": "1:51:01",
       "speakers": [
-        "Netflix Losers",
-        "Pat Butcher",
-        "Gary Lineker",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13055,9 +11664,6 @@
       "enclosure_length": "112312610",
       "itunes_duration": "1:56:54",
       "speakers": [
-        "Hana Walker-Brown",
-        "John Noakes",
-        "Louis Van Gaal",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13078,8 +11684,9 @@
       "enclosure_length": "139612034",
       "itunes_duration": "2:25:20",
       "speakers": [
-        "Dafydd Iwan",
-        "Moustapha Cisse",
+        "Really Sharp Hat Steff",
+        "Documentary Choice",
+        "Spirit Game",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13098,7 +11705,7 @@
       "enclosure_length": "128783618",
       "itunes_duration": "2:14:03",
       "speakers": [
-        "David Matthews",
+        "Documentary Cho",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13124,14 +11731,9 @@
       "enclosure_length": "121880972",
       "itunes_duration": "2:06:52",
       "speakers": [
-        "Nicolas Dawidoff",
-        "Kevin Keegan",
-        "Menna Fitzpatrick",
-        "Liam Livingstone",
-        "Mike Clip",
-        "Tadgh Furlong",
-        "Mark Wood",
-        "Elis James"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "merlot"
@@ -13149,11 +11751,6 @@
       "enclosure_length": "136186855",
       "itunes_duration": "2:21:46",
       "speakers": [
-        "Shane Warne",
-        "Gideon Haigh",
-        "Ricky Ponting",
-        "Ian Healy",
-        "xa Steff",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13175,9 +11772,6 @@
       "enclosure_length": "124868133",
       "itunes_duration": "2:09:59",
       "speakers": [
-        "Hillary Allen",
-        "Botille Vette-Welsh",
-        "Ms Fitz",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13204,13 +11798,9 @@
       "itunes_duration": "2:34:38",
       "speakers": [
         "Richard Vote",
-        "James Stafford",
-        "Richard Burton",
-        "Liz Taylor",
-        "Jimmy Watkins",
-        "Running Punks",
-        "Llwelyn Williams",
-        "Mike Clip"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "gwaelod",
@@ -13230,7 +11820,6 @@
       "itunes_duration": "55:21",
       "speakers": [
         "Distant Podders",
-        "Joe Marler",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13251,10 +11840,6 @@
       "enclosure_length": "122981868",
       "itunes_duration": "2:08:01",
       "speakers": [
-        "Gordon Strachan",
-        "Bobby Jones",
-        "Bobby Robson",
-        "Ron Saunders",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13275,14 +11860,10 @@
       "enclosure_length": "128457963",
       "itunes_duration": "2:13:43",
       "speakers": [
-        "David Crystal",
-        "Adrian Clifton",
-        "Shot Putter",
-        "Werner Gunthor",
-        "BrYjHk ktuoElis",
-        "Alex Ferguson",
-        "Mike Clip",
-        "Bill Murray"
+        "Eunuch Vote",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "eunuch"
@@ -13300,8 +11881,6 @@
       "enclosure_length": "128419092",
       "itunes_duration": "2:13:41",
       "speakers": [
-        "Jack Nicklaus",
-        "Matthew Stafford",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13323,14 +11902,9 @@
       "enclosure_length": "120945653",
       "itunes_duration": "2:05:54",
       "speakers": [
-        "Sue Anstiss",
-        "Richard Hibbard",
-        "Graham Stack",
-        "Mike Clip",
-        "Tim Rosaforte",
-        "Harry Redknapp",
         "Elis James",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "black",
@@ -13357,14 +11931,10 @@
       "enclosure_length": "133655276",
       "itunes_duration": "2:19:08",
       "speakers": [
-        "JczVtaRi nASteff Clip",
-        "Clara Hughes medalist",
-        "John Higgins",
-        "Mark Williams",
-        "Max Rushden",
-        "Scott Boland",
-        "Pat Cummins",
-        "Elis James"
+        "Slobs Join",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "grub",
@@ -13383,11 +11953,7 @@
       "enclosure_length": "129771187",
       "itunes_duration": "2:15:05",
       "speakers": [
-        "Mickey Thomas Kick-ups",
-        "Andy Carroll",
-        "Mike Rayer",
-        "Ieuan Evans",
-        "Mark Williams",
+        "Butts Join",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13410,10 +11976,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "James Brown",
-        "James Brian Moore",
-        "Mike Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "gold",
@@ -13434,10 +11997,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "EHWlOAFirst Round",
-        "Sam Kerr",
-        "Mike Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "bilbo"
@@ -13457,12 +12017,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Steve Fenwick",
-        "Welsh Bobsleigh",
-        "Billy Vunipola",
-        "Steve Bull",
-        "David Michael"
+        "Steff Garrero"
       ],
       "topics": [
         "russia",
@@ -13481,10 +12036,6 @@
       "enclosure_length": "121033362",
       "itunes_duration": "2:05:59",
       "speakers": [
-        "Tom Pages",
-        "MnFirst Round",
-        "Mike Clip",
-        "Steve Ford",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13507,9 +12058,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Carl Frampton",
-        "Mike Clip"
+        "Steff Garrero"
       ],
       "topics": [
         "trample",
@@ -13529,12 +12078,9 @@
       "enclosure_length": "125193295",
       "itunes_duration": "2:10:19",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jordan Mailata",
-        "Steff Clip",
-        "Kevin Sinfield",
-        "Elis James"
+        "Steff Garrero"
       ],
       "topics": [
         "harry",
@@ -13555,10 +12101,8 @@
       "enclosure_length": "49355849",
       "itunes_duration": "51:19",
       "speakers": [
-        "John Robins",
-        "Robin Allender",
-        "Mike Bubbins",
         "Elis James",
+        "Mike Bubbins",
         "Steff Garrero"
       ],
       "topics": [
@@ -13581,9 +12125,7 @@
         "Sandy Lyle",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Peter Cossins",
-        "Man Utd"
+        "Steff Garrero"
       ],
       "topics": [
         "sandy",
@@ -13605,9 +12147,7 @@
         "Ulster Hall",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jimmy Nesbitt",
-        "Rory McIlroy"
+        "Steff Garrero"
       ],
       "topics": [
         "ulster",
@@ -13627,7 +12167,6 @@
       "enclosure_length": "57458413",
       "itunes_duration": "59:46",
       "speakers": [
-        "Geraint Jones",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13650,7 +12189,6 @@
       "enclosure_length": "65545491",
       "itunes_duration": "1:08:11",
       "speakers": [
-        "Alan Wells Commonwealth",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13672,8 +12210,8 @@
       "enclosure_length": "64466757",
       "itunes_duration": "1:07:04",
       "speakers": [
-        "Geordie Boys",
-        "Peter Beardsley World",
+        "Tyne Theatre",
+        "Opera House",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13698,8 +12236,6 @@
       "enclosure_length": "59169537",
       "itunes_duration": "1:01:33",
       "speakers": [
-        "Sorba Thomas",
-        "Malcolm Allen",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13721,9 +12257,6 @@
       "enclosure_length": "59271519",
       "itunes_duration": "1:01:39",
       "speakers": [
-        "Ray French",
-        "HvVAoCu epYSteff",
-        "Angharad James",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13745,8 +12278,6 @@
       "enclosure_length": "61138543",
       "itunes_duration": "1:03:36",
       "speakers": [
-        "Clive Sullivan",
-        "Geoff Capes",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13768,8 +12299,6 @@
       "enclosure_length": "64550747",
       "itunes_duration": "1:07:09",
       "speakers": [
-        "Motorpoint Arena",
-        "Gary Neville",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13792,10 +12321,6 @@
       "itunes_duration": "1:03:19",
       "speakers": [
         "Hackney Empire",
-        "Motorpoint Arena",
-        "Demba Ba",
-        "Jazmin Joyce",
-        "Jimmy Greaves",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13818,8 +12343,6 @@
       "itunes_duration": "1:39:52",
       "speakers": [
         "Hackney Empire",
-        "Paul Thorburn",
-        "Jimmy Greaves",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13841,10 +12364,6 @@
       "enclosure_length": "135587934",
       "itunes_duration": "2:21:09",
       "speakers": [
-        "Rob Burrow",
-        "Turbo Tommy",
-        "Stuart Pearce",
-        "Brian Johnson",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13866,10 +12385,6 @@
       "enclosure_length": "148340271",
       "itunes_duration": "2:34:26",
       "speakers": [
-        "Roy Keane",
-        "Imran Tahir",
-        "Cathy Freeman",
-        "Sydney Olympics",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13890,7 +12405,6 @@
       "enclosure_length": "111213796",
       "itunes_duration": "1:55:45",
       "speakers": [
-        "Distant Pod",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13911,9 +12425,6 @@
       "enclosure_length": "124615660",
       "itunes_duration": "2:09:43",
       "speakers": [
-        "Richard Moore",
-        "Steff Clip",
-        "Brian McClair",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13958,8 +12469,6 @@
       "enclosure_length": "132522188",
       "itunes_duration": "2:17:57",
       "speakers": [
-        "Luke Treharne",
-        "Andy Murray",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -13980,7 +12489,6 @@
       "enclosure_length": "105477731",
       "itunes_duration": "1:49:47",
       "speakers": [
-        "com Elis",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14001,14 +12509,9 @@
       "enclosure_length": "122889481",
       "itunes_duration": "2:07:55",
       "speakers": [
-        "LsNBA XwXU",
-        "Pcdc First",
-        "Michael Johnson",
-        "Jqi Elis",
-        "Bobby Robson",
-        "Carl Lewis",
-        "Mike Powell",
-        "Elis James"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "cofficionado"
@@ -14026,9 +12529,6 @@
       "enclosure_length": "146296871",
       "itunes_duration": "2:32:18",
       "speakers": [
-        "Marcus Smith",
-        "John Akhwari",
-        "Tom O'Flaherty",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14067,8 +12567,6 @@
       "enclosure_length": "142218009",
       "itunes_duration": "2:28:03",
       "speakers": [
-        "UXdJOlFirst Round",
-        "John Charles",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14089,9 +12587,7 @@
       "enclosure_length": "140407411",
       "itunes_duration": "2:26:10",
       "speakers": [
-        "Joe Rodon",
-        "Carl Nassib",
-        "Gareth Bale",
+        "Absolutely Ingrammed",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14114,9 +12610,6 @@
       "itunes_duration": "1:47:25",
       "speakers": [
         "Willy Seaman",
-        "Richard Williams",
-        "Colin McCrae",
-        "Kasper Schmeichel",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14142,11 +12635,8 @@
         "Bonnie Tyler Snooker",
         "Tommy Cooper SuperFan",
         "Elis James",
-        "Pat Nevin",
-        "George Best",
-        "John Barnes",
-        "Ricky Hatton",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "bonnie",
@@ -14170,8 +12660,6 @@
       "enclosure_length": "147177925",
       "itunes_duration": "2:33:13",
       "speakers": [
-        "Steve Bunce",
-        "Joe Marler",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14193,14 +12681,9 @@
       "enclosure_length": "117508262",
       "itunes_duration": "2:02:19",
       "speakers": [
-        "Gordon’s Game",
-        "First Round",
-        "Harry Redknapp",
-        "Tony Bellew",
-        "Gary Lineker",
-        "Al Charron",
-        "Alan Shearer",
-        "Elis James"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "laughterhouse"
@@ -14218,10 +12701,6 @@
       "enclosure_length": "128099787",
       "itunes_duration": "2:13:21",
       "speakers": [
-        "Andrea Pirlo",
-        "Swindon Town",
-        "Stuart Pearce",
-        "David James",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14244,11 +12723,6 @@
       "enclosure_length": "124746949",
       "itunes_duration": "2:09:51",
       "speakers": [
-        "Craig Bellamy",
-        "Karren Brady",
-        "Alun Evans",
-        "Ian McGeechan",
-        "George Best",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14277,12 +12751,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Roger Daltrey",
-        "Nigel Kennedy",
-        "John Lennon",
-        "Keith Cooper",
-        "Emlyn Hughes"
+        "Steff Garrero"
       ],
       "topics": [
         "good"
@@ -14301,8 +12770,6 @@
       "itunes_duration": "2:39:55",
       "speakers": [
         "Necessary Mike",
-        "Bobby Moore Look",
-        "James Simpson",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14324,10 +12791,6 @@
       "itunes_duration": "2:19:46",
       "speakers": [
         "Taking Pyjamas",
-        "Stuart Cosgrove",
-        "David Fairclough",
-        "Danny McAlinden",
-        "Duncan Ferguson",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -14351,12 +12814,9 @@
       "speakers": [
         "David Ginola",
         "Handsome Bastard",
-        "Ellen MacArthur",
-        "Dougie Smith",
-        "Alex Scott",
-        "Rachel Atherton",
-        "Alex Murphy",
-        "Hm PZShwwMElis"
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "david",
@@ -14379,11 +12839,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jonathan Wilson",
-        "Gordon Strachan",
-        "Arsene Wenger",
-        "Second Round"
+        "Steff Garrero"
       ],
       "topics": [
         "dessert"
@@ -14404,11 +12860,7 @@
         "Barry McGuigan",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Shelina Janmohamed",
-        "Martin Compson",
-        "Jonny Williams",
-        "Amy Williams"
+        "Steff Garrero"
       ],
       "topics": [
         "barry",
@@ -14429,11 +12881,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Francesco Totti",
-        "Joe Frazier",
-        "com distantpodElis",
-        "Frank Worthington"
+        "Steff Garrero"
       ],
       "topics": [
         "piggle",
@@ -14456,12 +12904,7 @@
       "speakers": [
         "Mike Bubbins",
         "Steff Garrero",
-        "Sabine Schmitz",
-        "KiC wVjcSteff",
-        "Phil Vickery",
-        "Tony Sibson",
-        "BzF feNYiYElis",
-        "Linford Christie"
+        "Elis James"
       ],
       "topics": [
         "jane",
@@ -14485,11 +12928,7 @@
         "JusticeforCnut Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Martha Ackmann",
-        "Katherine Switzer",
-        "Rose Reilly",
-        "Flo Jo",
-        "Martina Navratilova"
+        "Mike Bubbins"
       ],
       "topics": [
         "justiceforcnut"
@@ -14509,12 +12948,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Muhammad Ali",
-        "David Remnick",
-        "Lou Reed",
-        "Spurs Ballboy",
-        "Kick Science"
+        "Steff Garrero"
       ],
       "topics": [
         "hopeless",
@@ -14535,12 +12969,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "False Nines",
-        "Michael Cox",
-        "Mike Kearney",
-        "Stephen Garcia",
-        "Eric Morecombe"
+        "Steff Garrero"
       ],
       "topics": [
         "paper",
@@ -14561,11 +12990,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Tom Anderson",
-        "Willis Halaholo",
-        "Tom Dumoulin",
-        "Roger Milla"
+        "Steff Garrero"
       ],
       "topics": [
         "vocal",
@@ -14586,12 +13011,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Secret Sins",
-        "Russell Davies",
-        "Robot Hole",
-        "Dan James",
-        "Calon Lan"
+        "Steff Garrero"
       ],
       "topics": [
         "referee",
@@ -14612,12 +13032,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Steven Gerrard",
-        "Sean Taylor",
-        "Gerald Cordle",
-        "Martin Offiah",
-        "Will Carling"
+        "Steff Garrero"
       ],
       "topics": [
         "living"
@@ -14635,14 +13050,10 @@
       "enclosure_length": "129789572",
       "itunes_duration": "2:15:06",
       "speakers": [
+        "Doddie Weir Foundation",
         "Elis James",
-        "Steff Garrero",
-        "Scott Quinnell",
-        "MQ CnbhsElis",
-        "Jonathan Pearce",
-        "Eric Cantona",
-        "fu kick",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "blue",
@@ -14661,14 +13072,9 @@
       "enclosure_length": "144424000",
       "itunes_duration": "2:30:21",
       "speakers": [
+        "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Bob Marley",
-        "Jack Charlton",
-        "LeRoy Butler",
-        "George Best",
-        "youtube com",
-        "Chris Fairclough"
+        "Steff Garrero"
       ],
       "topics": [
         "woman"
@@ -14686,14 +13092,11 @@
       "enclosure_length": "136137967",
       "itunes_duration": "2:21:43",
       "speakers": [
+        "Minestrone Soup",
+        "Doddie Weir Foundation",
         "Elis James",
-        "Steff Garrero",
-        "Adam Hurrey",
-        "Liam Williams",
-        "status Mike",
-        "Brett Lee",
-        "Derek Chisora",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": [
         "minestrone",
@@ -14713,11 +13116,10 @@
       "enclosure_length": "146965182",
       "itunes_duration": "2:33:00",
       "speakers": [
+        "Doddie Weir Foundation",
         "Elis James",
-        "Steff Garrero",
-        "Mike’s Documentary",
-        "Colin Bell",
-        "Mike Bubbins"
+        "Mike Bubbins",
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -14736,9 +13138,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Chris Needs",
-        "Jeff Benedict",
-        "Mitchell Johnson Golden Duck"
+        "Chris Needs"
       ],
       "topics": [
         "feet",
@@ -14799,9 +13199,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Boris Becker",
-        "Andre Agassi"
+        "Steff Garrero"
       ],
       "topics": [
         "bean"
@@ -14822,11 +13220,7 @@
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero",
-        "Simon Jones",
-        "Geraint Thomas",
-        "Adam Bushby",
-        "Rob MacDonald",
-        "Peter Alliss"
+        "Simon Jones"
       ],
       "topics": [
         "lion"
@@ -14847,10 +13241,7 @@
         "Giving Geraint Thomas",
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Geraint Thomas",
-        "Herbert Sutcliffe",
-        "St Helens"
+        "Steff Garrero"
       ],
       "topics": [
         "geraint",
@@ -14872,11 +13263,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Gary O’Donovan",
-        "Jimmy Wilde",
-        "Park Si Hun",
-        "Dele Alli"
+        "Steff Garrero"
       ],
       "topics": [
         "dennis",
@@ -14898,11 +13285,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Buffalo Bills",
-        "Robert O'Connor",
-        "Fernando Torres",
-        "Dick Fosbury"
+        "Steff Garrero"
       ],
       "topics": [
         "shunkie"
@@ -14923,11 +13306,7 @@
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero",
-        "Macaque Attack",
-        "Michael Owen",
-        "John Madden",
-        "Peter Richmond",
-        "Dean Jones"
+        "Macaque Attack"
       ],
       "topics": [
         "doing"
@@ -14947,12 +13326,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Denis Law",
-        "Man Utd",
-        "Iwan Thomas",
-        "Jamie Baulch",
-        "Anthony Joshua"
+        "Steff Garrero"
       ],
       "topics": [
         "face"
@@ -14973,11 +13347,7 @@
         "Sport Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Maurice Flitcroft",
-        "Rick Telander",
-        "Stuart Pearce",
-        "Geoffrey Boycott",
-        "Deaney goal Watford"
+        "Mike Bubbins"
       ],
       "topics": [
         "sexual",
@@ -14999,11 +13369,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Rob Steen",
-        "Tommy Lawrence",
-        "Jason McAteer",
-        "Brian Clough"
+        "Steff Garrero"
       ],
       "topics": [
         "remind"
@@ -15023,11 +13389,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Brian Flynn",
-        "Little Wonder",
-        "Leon Barton",
-        "Jimmy Wilde"
+        "Steff Garrero"
       ],
       "topics": [
         "semen",
@@ -15050,11 +13412,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Kevin Keegan",
-        "Simon Hughes",
-        "Darts Fart",
-        "Nigel Benn",
-        "Chris Eubank"
+        "Kevin Keegan"
       ],
       "topics": [
         "hindu"
@@ -15074,12 +13432,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Kick Off",
-        "David Brayley",
-        "James Hook",
-        "Jack Nicklaus",
-        "Gary Player"
+        "Steff Garrero"
       ],
       "topics": []
     },
@@ -15098,11 +13451,7 @@
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero",
-        "Mike’s Wales Schoolboy",
-        "Joe Rogan",
-        "Leighton Rees",
-        "Phil Stead",
-        "Gavin Henson"
+        "Mike’s Wales Schoolboy"
       ],
       "topics": [
         "spielberg"
@@ -15122,12 +13471,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Steve Peters",
-        "John McEnroe",
-        "John Williams",
-        "Michael Jordan",
-        "dxS SYcOzNcSteff"
+        "Steff Garrero"
       ],
       "topics": [
         "cannot",
@@ -15149,11 +13493,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Horrid Henry",
-        "Carwyn James",
-        "Alex Cassidy",
-        "Rene HiguitaThe",
-        "Kevin Pieterson"
+        "Horrid Henry"
       ],
       "topics": [
         "room",
@@ -15175,11 +13515,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Ray Reardon",
-        "Johnny Marr",
-        "MArtin Johnes",
-        "Ali Dia",
-        "cricket Elis"
+        "Ray Reardon"
       ],
       "topics": [
         "iain",
@@ -15201,10 +13537,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Sonny Pike",
-        "Mike’s Choice",
-        "Andrew Downie",
-        "Marcelo Bielsa"
+        "Sonny Pike"
       ],
       "topics": [
         "love",
@@ -15227,11 +13560,7 @@
         "Peter Reid",
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Sergey Bubka",
-        "Howard’s Way",
-        "Adam Ondra",
-        "Eric Cantona"
+        "Steff Garrero"
       ],
       "topics": [
         "redemption",
@@ -15251,10 +13580,6 @@
       "enclosure_length": "109972043",
       "itunes_duration": "1:54:28",
       "speakers": [
-        "David Rudisha Gold",
-        "Nancy Kerrigan",
-        "Tonya Harding",
-        "David Campese",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -15277,12 +13602,7 @@
       "speakers": [
         "Steff Garrero",
         "Elis James",
-        "Mike Bubbins",
-        "Scott Jurek",
-        "Castleford Wigan",
-        "stoJJ NoSteff",
-        "Ieuan Evans",
-        "Millionaire Pitcher"
+        "Mike Bubbins"
       ],
       "topics": [
         "piece",
@@ -15304,12 +13624,7 @@
       "speakers": [
         "Elis James",
         "Steff Garrero",
-        "Mike’s Choice",
-        "Paolo Hewitt Paul McGuigan",
-        "Tina Turner",
-        "ok IElis",
-        "Greg Lemond",
-        "Larry Merchant"
+        "Mike Bubbins"
       ],
       "topics": [
         "mother",
@@ -15330,11 +13645,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Tony Bellew",
-        "Brian Close",
-        "Geraint Thomas",
-        "John Toshack"
+        "Steff Garrero"
       ],
       "topics": [
         "chimp"
@@ -15354,10 +13665,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Gary Sobers",
-        "Haruki Murukami",
-        "Shane Warne"
+        "Steff Garrero"
       ],
       "topics": [
         "geldof"
@@ -15378,11 +13686,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Jack Charlton",
-        "Paul Gascoigne",
-        "Bob Marley",
-        "Bert Trautman",
-        "Ian Stafford"
+        "Jack Charlt"
       ],
       "topics": [
         "times",
@@ -15405,10 +13709,7 @@
         "Steff Garrero",
         "Nigel Havers",
         "Jpr Williams",
-        "Eddie Hall",
-        "YgenDR IFGgSteff",
-        "Manchester Utd",
-        "Raphael Honigstein"
+        "Elis James"
       ],
       "topics": [
         "half",
@@ -15433,12 +13734,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Jurgen Klopp",
-        "Jan Molby",
-        "Michael Chang",
-        "Ivan Lendl",
-        "Nicole Cooke"
+        "Steff Garrero"
       ],
       "topics": [
         "bears"
@@ -15459,11 +13755,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "April Fools",
-        "Alan Jones",
-        "Zola Budd",
-        "Mary Decker",
-        "Danny MacAskill"
+        "April Fools"
       ],
       "topics": [
         "grandstanding"
@@ -15484,11 +13776,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Bruce Lee",
-        "Brian McKechnie",
-        "Calcio Storico",
-        "Robert Jones",
-        "iOOjOWL Steff"
+        "Bruce Lee"
       ],
       "topics": [
         "underarmer",
@@ -15511,10 +13799,7 @@
         "Mike Bubbins",
         "Steff Garrero",
         "David Blaine",
-        "Chris Froome",
-        "Kimbo Slice",
-        "Jimmy Anderson",
-        "My Story"
+        "Scrum Halves"
       ],
       "topics": [
         "pear"
@@ -15534,12 +13819,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Herman Maier",
-        "Jonty Rhodes",
-        "Nick Hornby",
-        "Tom Oldfield Ultimate",
-        "Barry John"
+        "Steff Garrero"
       ],
       "topics": [
         "wimbledon",
@@ -15562,10 +13842,7 @@
         "Elis James",
         "Steff Garrero",
         "Ben Johnson",
-        "Jim Bowen",
-        "Robbie Savage",
-        "Moe Norman",
-        "Norman Mailer"
+        "Jim Bowen"
       ],
       "topics": []
     },
@@ -15583,12 +13860,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Mike Tyson",
-        "Max Boyce",
-        "Ian Wright",
-        "Mark Hughes",
-        "Alan Sillitoe"
+        "Steff Garrero"
       ],
       "topics": [
         "second"
@@ -15608,12 +13880,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Peter Reid",
-        "Garlic King Prawns",
-        "Michael Owen",
-        "Panorama Millwall",
-        "nPHlytdl wElis"
+        "Steff Garrero"
       ],
       "topics": [
         "mother",
@@ -15636,12 +13903,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Kimbo Slice",
-        "John Noakes",
-        "Shaun Williamson",
-        "Andy Powell",
-        "Chuck Wepner"
+        "Steff Garrero"
       ],
       "topics": [
         "cement"
@@ -15661,12 +13923,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "Phil May",
-        "Shamrock Rovers",
-        "John Facenda",
-        "Bernard Hopkins",
-        "Derek Quinnell"
+        "Steff Garrero"
       ],
       "topics": [
         "youve",
@@ -15688,11 +13945,7 @@
         "Mike Bubbins",
         "Elis James",
         "Steff Garrero",
-        "Francesco Totti",
-        "Dick Butkus",
-        "Bobby Davro",
-        "Lionel Blair",
-        "Derek Redmond"
+        "Francesco Totti"
       ],
       "topics": [
         "bobby"
@@ -15712,10 +13965,7 @@
       "speakers": [
         "Elis James",
         "Mike Bubbins",
-        "Steff Garrero",
-        "John Sitton",
-        "Paul Sykes",
-        "Magic Johnson"
+        "Steff Garrero"
       ],
       "topics": [
         "milk",
@@ -15734,10 +13984,6 @@
       "enclosure_length": "63775838",
       "itunes_duration": "1:06:20",
       "speakers": [
-        "Paul Thorburn",
-        "Terry Wogan",
-        "James Scott",
-        "William Finnegan",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -15758,11 +14004,6 @@
       "enclosure_length": "57592283",
       "itunes_duration": "59:38",
       "speakers": [
-        "Kevin Keegan",
-        "Graham Taylor",
-        "XlYgoAElis McIlvanney",
-        "Hugh McIlvanney",
-        "Donald McRae",
         "Elis James",
         "Mike Bubbins",
         "Steff Garrero"
@@ -15783,10 +14024,7 @@
       "speakers": [
         "Mike Bubbins",
         "Elis James",
-        "Steff Garrero",
-        "Bobby Davro",
-        "Lionel Blair",
-        "Kimbo Slice"
+        "Steff Garrero"
       ],
       "topics": [
         "story"
@@ -15799,659 +14037,660 @@
 
 ## Episodes (newest first)
 
-- 2026-02-22 — Paul McCartney: Pint Size — speakers: Paul McCartney, Pint Size Welcome, Gordon Smart, Elis James, Mike Bubbins, Steff Garrero
-- 2026-02-20 — Mario (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero, Run Steff, Terry Yorath, Tim Wigmore
-- 2026-02-18 — Mario (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero, Run Steff, Orchid Cancer
-- 2026-02-15 — Carling: Pint Size — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2026-02-13 — Zex (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero, Run Steff, Orchid Cancer, Rick Reilly
-- 2026-02-11 — Zex (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero, Run Steff, Orchid Cancer, Jackie Stewart
-- 2026-02-08 — Sexy Neanderthal: Pint Size — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2026-02-06 — A New Pair Of Trousers (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero, Run Steff, Orchid Cancer, Scotty James, jbv Mike
-- 2026-02-04 — A New Pair Of Trousers (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero, Orchid Cancer, John McEnroe, Charlie Baker
-- 2026-02-01 — DOMS: Pint Size — speakers: Pint Size Welcome, Orchid Cancer, Elis James, Mike Bubbins, Steff Garrero
-- 2026-01-30 — Kissing Scholesy On The Lips (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero, Orchid Cancer, Miguel Delaney’s States, Miguel Delaney
-- 2026-01-28 — Kissing Scholesy On The Lips (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Jackie Grealish Watch, Chris Kamara Watch
-- 2026-01-25 — Cold: Pint Size — speakers: Michael Owen, Elis James, Mike Bubbins, Steff Garrero
-- 2026-01-23 — Geraint Thomas (pt 2) — speakers: Geraint Thomas, Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Geraint Thomas Clips, Colin Jackson
-- 2026-01-21 — Geraint Thomas (pt 1) — speakers: Geraint Thomas, Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Geraint Thomas Clips, Colin Jackson
+- 2026-02-25 — Maybe Start With Public Speaking (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-22 — Paul McCartney: Pint Size — speakers: Paul McCartney, Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-20 — Mario (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-18 — Mario (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-15 — Carling: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-13 — Zex (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-11 — Zex (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-08 — Sexy Neanderthal: Pint Size — speakers: Sexy Neanderthal, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-06 — A New Pair Of Trousers (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-04 — A New Pair Of Trousers (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-02-01 — DOMS: Pint Size — speakers: Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-30 — Kissing Scholesy On The Lips (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-28 — Kissing Scholesy On The Lips (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-25 — Cold: Pint Size — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-23 — Geraint Thomas (pt 2) — speakers: Geraint Thomas, Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-21 — Geraint Thomas (pt 1) — speakers: Geraint Thomas, Elis James, Mike Bubbins, Steff Garrero
 - 2026-01-18 — Chesney: Pint Size — speakers: Pint Size Chesney, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2026-01-16 — Can I Go Rowing? (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero, Mike Book, Max Boyce
-- 2026-01-14 — Can I Go Rowing? (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-16 — Can I Go Rowing? (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-14 — Can I Go Rowing? (pt 1) — speakers: Go Rowing, Apple Subscription, Elis James, Mike Bubbins, Steff Garrero
 - 2026-01-11 — Conkers: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2026-01-09 — George Lewis (pt 2) — speakers: George Lewis, Elis James, Mike Bubbins, Steff Garrero, George Lewis comedian, Comedian George Lewis, George Lewis Posts, George’s Pick
-- 2026-01-07 — George Lewis (pt 1) — speakers: George Lewis, George Lewis comedian, Mark Williams, Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-09 — George Lewis (pt 2) — speakers: George Lewis, Elis James, Mike Bubbins, Steff Garrero
+- 2026-01-07 — George Lewis (pt 1) — speakers: George Lewis, Elis James, Mike Bubbins, Steff Garrero
 - 2026-01-04 — Like: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-01-02 — Pillock (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2025-12-31 — Pillock (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Brian London
+- 2025-12-31 — Pillock (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2025-12-28 — Outdoorsy: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-12-26 — Siôn Corn (pt 2): 291 — speakers: Siôn Corn, Elis James, Mike Bubbins, Steff Garrero, David Walsh
-- 2025-12-24 — Siôn Corn (pt 1): 291 — speakers: Siôn Corn, Elis James, Mike Bubbins, Steff Garrero, Jess Li
+- 2025-12-26 — Siôn Corn (pt 2): 291 — speakers: Siôn Corn, Elis James, Mike Bubbins, Steff Garrero
+- 2025-12-24 — Siôn Corn (pt 1): 291 — speakers: Siôn Corn, Elis James, Mike Bubbins, Steff Garre, Steff Garrero
 - 2025-12-21 — Dallas: PS161 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2025-12-19 — I Hate Your Music (Pt 2): 290 — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2025-12-17 — I Hate Your Music (Pt 1): 290 — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2025-12-14 — Joe Marler’s Tickle: PS160 — speakers: Joe Marler, Elis James, Mike Bubbins, Steff Garrero
-- 2025-12-12 — Snoring (Pt 2): 289 — speakers: Elis James, Mike Bubbins, Steff Garrero, Joe Simpson Buy
-- 2025-12-10 — Snoring (Pt 1): 289 — speakers: Elis James, Mike Bubbins, Steff Garrero, Elis Documentary, Joe Simpson Buy
+- 2025-12-12 — Snoring (Pt 2): 289 — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-12-10 — Snoring (Pt 1): 289 — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2025-12-07 — F-ing: PS159 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-12-05 — Sugared Alpen: 288 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Mike Documentary, Jonathan Wilson
-- 2025-12-03 — Sugared Alpen: 288 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-12-05 — Sugared Alpen: 288 (Pt 2) — speakers: Sugared Alpen, Elis James, Mike Bubbins, Steff Garrero
+- 2025-12-03 — Sugared Alpen: 288 (Pt 1) — speakers: Sugared Alpen, Elis James, Mike Bubbins, Steff Garrero
 - 2025-11-30 — Empty Inside: PS158 — speakers: Empty Inside, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-11-28 — Fabio’s Goose: 287 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Ludovico Einaudi, Mike Mentzer, Paul Ince, Aston Villa
-- 2025-11-26 — Fabio’s Goose: 287 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Ludovico Einaudi, Mike Mentzer
+- 2025-11-28 — Fabio’s Goose: 287 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-11-26 — Fabio’s Goose: 287 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2025-11-23 — Mike Post: PS157 — speakers: Mike Post, Elis James, Mike Bubbins, Steff Garrero
-- 2025-11-21 — The Bounty Diet (Pt 2): 286 — speakers: Mike Bubbins, Steff Garrero, Norman Mailer, Geoffrey Boycott, Clive Thomas Watch, Elis James
-- 2025-11-19 — The Bounty Diet (Pt 1): 286 — speakers: Elis James Elis John, Mike Bubbins, Steff Garrero, Norman Mailer, Geoffrey Boycott, Clive Thomas Watch, Elis James
-- 2025-11-16 — Trees: PS156 — speakers: Tommy Two, Mun Click, Elis James, Mike Bubbins, Steff Garrero
-- 2025-11-14 — Charlie Baker (pt 2): 285 — speakers: Charlie Baker, Charlie Baker Guest Special, Kick Start Watch, Elis James, Mike Bubbins, Steff Garrero
-- 2025-11-12 — Charlie Baker (pt 1): 285 — speakers: Charlie Baker, Charlie Baker Guest Special, Kick Start Watch, Elis James, Mike Bubbins, Steff Garrero
+- 2025-11-21 — The Bounty Diet (Pt 2): 286 — speakers: Mike Bubbins, Steff Garrero, Elis James
+- 2025-11-19 — The Bounty Diet (Pt 1): 286 — speakers: Elis James Elis John, Mike Bubbins, Elis James, Steff Garrero
+- 2025-11-16 — Trees: PS156 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-11-14 — Charlie Baker (pt 2): 285 — speakers: Charlie Baker, Charlie Baker Guest Special, Elis James, Mike Bubbins, Steff Garrero
+- 2025-11-12 — Charlie Baker (pt 1): 285 — speakers: Charlie Baker, Charlie Baker Guest Special, Elis James, Mike Bubbins, Steff Garrero
 - 2025-11-09 — Airport: PS155 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-11-07 — Pick Those Conkers Up (Pt 2): 284 — speakers: Emma Buchy, Mike Documentary, Lawrence Taylor, YouTube Elis, John Burgum, Tiger Woods, Distant Pod, Elis James
-- 2025-11-05 — Pick Those Conkers Up (Pt 1): 284 — speakers: Emma Buchy, Mike Documentary, Lawrence Taylor, YouTube Elis, John Burgum, Tiger Woods, Distant Pod, Elis James
+- 2025-11-07 — Pick Those Conkers Up (Pt 2): 284 — speakers: Pick Those Conkers Up, Elis James, Mike Bubbins, Steff Garrero
+- 2025-11-05 — Pick Those Conkers Up (Pt 1): 284 — speakers: Pick Those Conkers Up, Elis James, Mike Bubbins, Steff Garrero
 - 2025-11-02 — Mike’s Stomach: PS154 — speakers: Mike’s Stomach, Elis James, Mike Bubbins, Steff Garrero
-- 2025-10-31 — Guess Who's Back: 283 (Pt 2) — speakers: Mike Book, Instagram Elis, Elis James, Mike Bubbins, Steff Garrero
-- 2025-10-29 — Guess Who's Back: 283 (Pt 1) — speakers: Mike Book, Instagram Elis, Elis James, Mike Bubbins, Steff Garrero
+- 2025-10-31 — Guess Who's Back: 283 (Pt 2) — speakers: Guess Who, Elis James, Mike Bubbins, Steff Garrero
+- 2025-10-29 — Guess Who's Back: 283 (Pt 1) — speakers: Guess Who, Elis James, Mike Bubbins, Steff Garrero
 - 2025-10-25 — Stop Rockin’ It: PS153 — speakers: Stop Rockin, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2025-10-25 — Dating Record: PS152 — speakers: Dating Record, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2025-10-25 — King Of Spades: PS151 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2025-10-25 — Cracking: PS150 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2025-10-24 — A Little Bit Of Wee On The End: PS149 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-10-24 — Clowning: PS148 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2025-10-21 — The Patreon Tapes 5: Splinter — speakers: John Smith Plus, Elis James, Mike Bubbins, Steff Garrero
+- 2025-10-24 — Clowning: PS148 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-10-21 — The Patreon Tapes 5: Splinter — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2025-10-14 — The Patreon Tapes 4: The Riyadh Lads — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2025-10-07 — The Patreon Tapes 3: Danish Yoghurt — speakers: Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-10-07 — The Patreon Tapes 3: Danish Yoghurt — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2025-09-30 — The Patreon Tapes 2: The Shower Seat — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2025-09-23 — The Patreon Tapes 1: Terminated — speakers: Mark Hughes, Leon Gladwell, Wheelie Bin Game Click, Elis James, Mike Bubbins, Steff Garrero
-- 2025-09-19 — 282: Gold Top (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Barry Rfc Elis, John Feinstein, John Gregory, Hoffi Pod, Michael Owen, Elis James
-- 2025-09-17 — 282: Gold Top (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Barry Rfc Elis, John Feinstein, John Gregory, Hoffi Pod, Michael Owen, Elis James
-- 2025-09-13 — They’ve… : PS147 — speakers: PS Welcome, Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-09-12 — 281: He’s Trying To Say Sorry (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Steve Burton Mike, Scottie Scheffler, Steff Book, Nick Hornby, St Helens, Michael Owen
-- 2025-09-10 — 281: He’s Trying To Say Sorry (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Steve Burton Mike, Scottie Scheffler, Steff Book, Nick Hornby, St Helens, Michael Owen
+- 2025-09-23 — The Patreon Tapes 1: Terminated — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-09-19 — 282: Gold Top (Pt 2) — speakers: Mike Bubbins, Steff Ga, Elis James, Steff Garrero
+- 2025-09-17 — 282: Gold Top (Pt 1) — speakers: Mike Bubbins, Steff Ga, Elis James, Steff Garrero
+- 2025-09-13 — They’ve… : PS147 — speakers: PS Welcome, Elis James, Mike Bubbins, Steff Garrero
+- 2025-09-12 — 281: He’s Trying To Say Sorry (Pt 2) — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2025-09-10 — 281: He’s Trying To Say Sorry (Pt 1) — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2025-09-07 — Last Chance to Vote — speakers: Last Chance, Elis James, Mike Bubbins, Steff Garrero
-- 2025-09-06 — Johnny Marr: PS146 — speakers: Johnny Marr, PS Welcome, Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-09-05 — 280: When’s It Going Out? (Pt 2) — speakers: Jake Paul, Elis James, Mike Bubbins, Steff Garrero
-- 2025-09-03 — 280: When’s It Going Out? (Pt 1) — speakers: Jake Paul, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-31 — Milk Float: PS145 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-29 — 279: The Best Of Hoffi Pod (Pt 2) — speakers: Hoffi Pod, Michael Owen, Hackney Empire, Lyric Theatre Grab, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-27 — 279: The Best Of Hoffi Pod (Pt 1) — speakers: Hoffi Pod, Michael Owen, Hackney Empire, Lyric Theatre Grab, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-24 — On A Matchbox?: PS144 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-22 — 278: Double Custard (Pt 2) — speakers: Kathy Botham, Mike Nasser, Brian Clough, Hackney Empire, Lyric Theatre, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-20 — 278: Double Custard (Pt 1) — speakers: Kathy Botham, Mike Nasser, Brian Clough, Hackney Empire, Lyric Theatre, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-17 — Total Eclipse Of The Heart: PS143 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-15 — 277: The Fat Friar (Pt 2) — speakers: Kenny Sansom, Grass Skiing, Wes Anderson, joy Watch, Hackney Empire, Lyric Theatre, Michael Owen, Hoffi Pod
-- 2025-08-13 — 277: The Fat Friar (Pt 1) — speakers: Kenny Sansom, Grass Skiing, Wes Anderson, joy Watch, Hackney Empire, Lyric Theatre, Michael Owen, Hoffi Pod
-- 2025-08-10 — Back Flipper: PS142 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-08 — 276: See You Next Wednesday (Pt 2) — speakers: Kevin Keegan, Brett Favre, Dominic Hougham, Hackney Empire, Lyric Theatre, Michael Owen, Hoffi Pod, Elis James
-- 2025-08-06 — 276: See You Next Wednesday (Pt 1) — speakers: Kevin Keegan, Brett Favre, Dominic Hougham, Hackney Empire, Lyric Theatre, Michael Owen, Hoffi Pod, Elis James
-- 2025-08-03 — Sunday: PS141 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-08-01 — 275: The Best of Michael Owen’s Movie Club (Pt 2) — speakers: Michael Owen, Karate Kid, Michael Owen’s Movie Club, Hoffi Pod, Hackney Empire, Lyric Theatre, Elis James, Mike Bubbins
-- 2025-07-30 — 275: The Best of Michael Owen’s Movie Club (Pt 1) — speakers: Michael Owen, Karate Kid, Michael Owen’s Movie Club, Hoffi Pod, Hackney Empire, Lyric Theatre, Elis James, Mike Bubbins
-- 2025-07-27 — George Melly: PS140 — speakers: George Melly, Tommy Two Kormas, Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-07-25 — 274: I’m Not An Owl (Pt 2) — speakers: Roy Hodgson, Claude Makélélé, Elis James, Mike Bubbins, Steff Garrero, Joe Nelms, Jackie Wilson Said, Jocky Wilson
-- 2025-07-23 — 274: I’m Not An Owl (Pt 1) — speakers: Roy Hodgson, Claude Makélélé, Elis James, Mike Bubbins, Steff Garrero, Joe Nelms, Jackie Wilson Said, Jocky Wilson
-- 2025-07-20 — Mascots: PS139 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-07-18 — 273: Get A Bigger Waist And A Pair Of Socks (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, YouTube Elis, Roberto Durán, Jonathan Harding Grab, Rory McIlroy, Harry Diamond Instagram
-- 2025-07-16 — 273: Get A Bigger Waist And A Pair Of Socks (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, YouTube Elis, Roberto Durán, Jonathan Harding Grab, Rory McIlroy, Harry Diamond Instagram
-- 2025-07-13 — SNC: PS138 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-07-11 — 272: Due In No Small Part To Barbara Bush (Pt 2) — speakers: Barbara Bush, Elis James, Mike Bubbins, Steff Garrero, Barbara Nicklaus, Scott McTominay, Jack Watch, Instagram Elis Sampdoria
-- 2025-07-09 — 272: Due In No Small Part To Barbara Bush (Pt 1) — speakers: Barbara Bush, Elis James, Mike Bubbins, Steff Garrero, Barbara Nicklaus, Scott McTominay, Jack Watch, Instagram Elis Sampdoria
-- 2025-07-06 — WIMBLEDON: PS137 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-07-04 — 271: Best of The Guests (Pt 2) — speakers: Bob Harris, Josh Widdicombe, Sam Warburton, Humphrey Ker, Kate Mason, Chesney Hawkes, Gordon Smart, Scott Quinnell
-- 2025-07-02 — 271: Best of The Guests (Pt 1) — speakers: Bob Harris, Josh Widdicombe, Sam Warburton, Humphrey Ker, Kate Mason, Chesney Hawkes, Gordon Smart, Scott Quinnell
-- 2025-06-29 — The Swimming Bit: PS136 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-06-27 — 270: You’re Rubbish & I Mean That In A Good Way (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, YouTube Elis, Aitana Bonmatí, Steff Documentary, Mike Book, Mary Earps
-- 2025-06-25 — 270: You’re Rubbish & I Mean That In A Good Way (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, YouTube Elis, Aitana Bonmatí, Steff Documentary, Mike Book, Mary Earps
-- 2025-06-22 — Danny Dyer: PS135 — speakers: Danny Dyer, Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-06-20 — 269: You’re A Step Away From OnlyFans (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, YouTube Mike, Jamie Tells, Malcolm Thomas, YouTube Steff
-- 2025-06-18 — 269: You’re A Step Away From OnlyFans (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, YouTube Mike, Jamie Tells, Malcolm Thomas, YouTube Steff
-- 2025-06-15 — Belfast: PS134 — speakers: Ulster Hall, Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-06-13 — 268: D’You Want A Selfie? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, Netflix Elis, Paul Tonkinson, YouTube Steff
-- 2025-06-11 — 268: D’You Want A Selfie? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, Netflix Elis, Paul Tonkinson, YouTube Steff
-- 2025-06-08 — Elis Forgets His Book: PS133 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-06-06 — 267: Show Me The Arian (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, Paul Tonkinson, Instagram Steff, Team GB, Giant Killers
-- 2025-06-04 — 267: Show Me The Arian (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, Paul Tonkinson, Instagram Steff, Team GB, Giant Killers
-- 2025-06-01 — This Is Man United: PS132 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-05-30 — 266: You’re The Least Real Person I’ve Ever Met (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, Instagram Mike, Will Greenwood, Allan Bateman
-- 2025-05-28 — 266: You’re The Least Real Person I’ve Ever Met (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, Instagram Mike, Will Greenwood, Allan Bateman
-- 2025-05-25 — 'Allo 'Allo!: PS131 — speakers: PS Welcome, Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-05-23 — 265: Average Dick Dave (Pt 2) — speakers: Dick Dave, Dick Dave Elis James, Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, Instagram Steff, YouTube Elis
-- 2025-05-21 — 265: Average Dick Dave (Pt 1) — speakers: Dick Dave, Dick Dave Elis James, Mike Bubbins, Steff Garrero, Hackney Empire, Lyric Theatre, Instagram Steff, YouTube Elis
-- 2025-05-18 — In A Hillman Imp: PS130 — speakers: Hillman Imp, Gordon Smart, Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-05-16 — 264: Max Rushden (Pt 2) — speakers: Max Rushden, Elis James, Mike Bubbins, Steff Garrero, Chesney Hawkes, Josh Widdicombe, Sam Warburton, Barry Glendenning
-- 2025-05-14 — 264: Max Rushden (Pt 1) — speakers: Max Rushden, Elis James, Mike Bubbins, Steff Garrero, Chesney Hawkes, Josh Widdicombe, Sam Warburton, Barry Glendenning
-- 2025-05-11 — Terror USP: PS129 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-05-09 — 263: Choking Out O’Toole (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Brian Blessed, Hackney Empire, Lyric Theatre, Maddison Levi, Craig Bellamy
-- 2025-05-07 — 263: Choking Out O’Toole (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Brian Blessed, Hackney Empire, Lyric Theatre, Maddison Levi, Craig Bellamy
-- 2025-05-04 — Pitch Invader: PS128 — speakers: Pitch Invader, Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-05-02 — 262: Oh My God, He’s 52! (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Lyric Theatre, YouTube Mike, Madeleine Orr, Peter Williams, Facebook Elis
-- 2025-04-30 — 262: Oh My God, He’s 52! (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Lyric Theatre, YouTube Mike, Madeleine Orr, Peter Williams, Facebook Elis
-- 2025-04-27 — Hand Shakes: PS127 — speakers: Hackney Empire, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-04-25 — 261: Medium Performance (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Shaun Edwards, Millie Bright, Hackney Empire, Lyric Theatre, Millie Bright Invests, Angel Rangel
-- 2025-04-23 — 261: Medium Performance (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Shaun Edwards, Millie Bright, Hackney Empire, Lyric Theatre, Millie Bright Invests, Angel Rangel
-- 2025-04-20 — Massage Guns: PS126 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-04-18 — 260: Our Friends At The Ford Motor Company (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Elton John, Steve Bull, Aaron Ramsey, Wally Backman, Steve Bull Poem, Tom Parry
-- 2025-04-16 — 260: Our Friends At The Ford Motor Company (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Elton John, Steve Bull, Aaron Ramsey, Wally Backman, Steve Bull Poem, Tom Parry
-- 2025-04-13 — JPR: PS125 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-04-11 — 259: Part Pity, Part Disdain (Pt 2) — speakers: Mike Bubbins, Steff Garrero, George Foreman, Jason Reynolds, Michael Owen, Gift Memberships, Elis James
-- 2025-04-09 — 259: Part Pity, Part Disdain (Pt 1) — speakers: Mike Bubbins, Steff Garrero, George Foreman, Jason Reynolds, Michael Owen, Gift Memberships, Elis James
-- 2025-04-06 — Dirty Dancing: PS124 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-04-04 — 258: The 5th Anniversary (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Secret Guitarist, Duncan Ferguson, Roy Keane, Peak Keano, Tom Petty, Tony Judt
-- 2025-04-02 — 258: The 5th Anniversary (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Secret Guitarist, Duncan Ferguson, Roy Keane, Peak Keano, Tom Petty, Tony Judt
-- 2025-03-30 — Argus: PS123 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-03-28 — 257: Joe Marler (Pt 2) — speakers: Joe Marler, Elis James, Mike Bubbins, Steff Garrero, Chesney Hawkes, Josh Widdicombe, Sam Warburton, Dave Doodlemoose
-- 2025-03-26 — 257: Joe Marler (Pt 1) — speakers: Joe Marler, Elis James, Mike Bubbins, Steff Garrero, Chesney Hawkes, Josh Widdicombe, Sam Warburton, Dave Doodlemoose
-- 2025-03-23 — Ron Paul: PS122 — speakers: Ron Paul, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-03-21 — 256: Just Two Spanners & A Hammer Please Mate (Pt 2) — speakers: Mike Bubbins, Steff Garrero, James Milner, Colin Jackson, Michael Owen, Gift Memberships, Hoffi Pod Elis, Mike’s Throwback Special
-- 2025-03-19 — 256: Just Two Spanners & A Hammer Please Mate (Pt 1) — speakers: Mike Bubbins, Steff Garrero, James Milner, Colin Jackson, Michael Owen, Gift Memberships, Hoffi Pod Elis, Mike’s Throwback Special
-- 2025-03-16 — Wallet: PS121 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-03-14 — 255: Sexy But Contrite (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Arthur Emyr, Dan Marino, Michael Owen, Gift Memberships, Hoffi Pod Elis, Emma Jones
-- 2025-03-12 — 255: Sexy But Contrite (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Arthur Emyr, Dan Marino, Michael Owen, Gift Memberships, Hoffi Pod Elis, Emma Jones
-- 2025-03-09 — Bad Hair: PS120 — speakers: Sam Warburton, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-03-07 — 254: Emily Campbell (Pt 2) — speakers: Emily Campbell, Elis James, Mike Bubbins, Steff Garrero, Chesney Hawkes, Josh Widdicome, Sam Warburton, Greatest Prematch
-- 2025-03-05 — 254: Emily Campbell (Pt 1) — speakers: Emily Campbell, Elis James, Mike Bubbins, Steff Garrero, Chesney Hawkes, Josh Widdicome, Sam Warburton, Greatest Prematch
-- 2025-03-02 — Dating Records: PS119 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-02-28 — 253: Papering Over The Cracks (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Bernard Hopkins, Buncey Elis, Dennis Bree, Jason Robinson, Tom Brady
-- 2025-02-26 — 253: Papering Over The Cracks (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Bernard Hopkins, Buncey Elis, Dennis Bree, Jason Robinson, Tom Brady
-- 2025-02-23 — Skimming: PS118 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-02-21 — 252: Just Put A Towel Over My Head (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Tom Brady, Claressa Shields, Michael Owen, Gift Memberships, Hoffi Pod Elis, Mike’s Throwback Special Watch
-- 2025-02-19 — 252: Just Put A Towel Over My Head (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Tom Brady, Claressa Shields, Michael Owen, Gift Memberships, Hoffi Pod Elis, Mike’s Throwback Special Watch
-- 2025-02-16 — Gardens: PS117 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-02-14 — 251: Moderately Messianic (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Braxton McCullough, Scott Quinnell, Hoffi Pod, Michael Owen, Gift Memberships, Hoffi Pod Elis
-- 2025-02-12 — 251: Moderately Messianic (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Braxton McCullough, Scott Quinnell, Hoffi Pod, Michael Owen, Gift Memberships, Hoffi Pod Elis
-- 2025-02-09 — Randy Old Goat: PS116 — speakers: Randy Old Goat PS, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-02-07 — 250: That’s So Cool (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Larry Csonka, Denis Law, Michael Owen, Gift Memberships, Hoffi Pod Elis
-- 2025-02-05 — 250: That's So Cool (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Larry Csonka, Denis Law, Michael Owen, Gift Memberships, Hoffi Pod Elis
-- 2025-02-02 — Robomam: PS115 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-01-31 — 249: Exiting The Ralgex Era (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Eddie Hall, Brian Clough, Michael Owen, Gift Memberships, Hoffi Pod Elis, Jon Spurling
-- 2025-01-29 — 249: Exiting The Ralgex Era (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Eddie Hall, Brian Clough, Michael Owen, Gift Memberships, Hoffi Pod Elis, Jon Spurling
-- 2025-01-26 — Turkey Hunt: PS114 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-01-24 — 248: Sparky’s Thighs (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Mark Hughes, Freddy Adu, Gypsy Jem Mace, Hoffi Pod, Michael Owen, Rich Russo
-- 2025-01-22 — 248: Sparky’s Thighs (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Mark Hughes, Freddy Adu, Gypsy Jem Mace, Hoffi Pod, Michael Owen, Rich Russo
-- 2025-01-19 — Deodorant: PS113 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-01-17 — 247: Do You Want To Eat A Dead Pig? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Denis Frisoli’s Tower, Neil Jenkins, Phil Salt, Hoffi Pod, Michael Owen
-- 2025-01-15 — 247: Do You Want To Eat A Dead Pig? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Denis Frisoli’s Tower, Neil Jenkins, Phil Salt, Hoffi Pod, Michael Owen
-- 2025-01-12 — We Put People On The Moon 50 Years Ago: PS112 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-01-10 — 246: The Race Is Back On (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Kevin De Bruyne, Hoffi Pod, Michael Owen, Scott Quinnell, YouTube Mike
-- 2025-01-08 — 246: The Race Is Back On (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Kevin De Bruyne, Hoffi Pod, Michael Owen, Scott Quinnell, YouTube Mike
-- 2025-01-05 — Back In the USSR: PS111 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2025-01-03 — 245: The Elephant In The Room (Pt2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Hoffi Pod, Michael Owen, Ilona Maher, Bob Morgan, YouTube Mike
-- 2025-01-01 — 245: The Elephant In The Room (Pt1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Hoffi Pod, Michael Owen, Ilona Maher, Bob Morgan, YouTube Mike
-- 2024-12-29 — Formats: PS110 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-12-27 — 244: Leroy Brito (Pt 2) — speakers: Leroy Brito, Elis James, Mike Bubbins, Steff Garrero, Leroy’s Picks, YouTube Diana Ross, Salt Bae, Hoffi Pod
-- 2024-12-25 — 244: Leroy Brito (Pt 1) — speakers: Leroy Brito, Elis James, Mike Bubbins, Steff Garrero, Leroy’s Picks, YouTube Diana Ross, Salt Bae, Hoffi Pod
-- 2024-12-22 — Moo: PS109 — speakers: Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-12-20 — 243: No Guile, No Subterfuge (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Patreon Membership, Hoffi Pod, Michael Owen, Kath Morgan, Mike Documentary
-- 2024-12-18 — 243: No Guile, No Subterfuge (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Patreon Membership, Hoffi Pod, Michael Owen, Kath Morgan, Mike Documentary
-- 2024-12-15 — Lloyd George: PS108 — speakers: Lloyd George, Michael Owen, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-12-13 — 242: Chesney Hawkes (Pt 2) — speakers: Chesney Hawkes, Elis James, Mike Bubbins, Steff Garrero, Hoffi Pod, Michael Owen, Living Arrows, Catch Chesney
-- 2024-12-11 — 242: Chesney Hawkes (Pt 1) — speakers: Chesney Hawkes, Elis James, Mike Bubbins, Steff Garrero, Hoffi Pod, Michael Owen, Living Arrows, Catch Chesney
+- 2025-09-06 — Johnny Marr: PS146 — speakers: Johnny Marr, PS Welcome, Elis James, Mike Bubbins, Steff Garrero
+- 2025-09-05 — 280: When’s It Going Out? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-09-03 — 280: When’s It Going Out? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-31 — Milk Float: PS145 — speakers: Milk Float, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-29 — 279: The Best Of Hoffi Pod (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-27 — 279: The Best Of Hoffi Pod (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-24 — On A Matchbox?: PS144 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-22 — 278: Double Custard (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-20 — 278: Double Custard (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-17 — Total Eclipse Of The Heart: PS143 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-15 — 277: The Fat Friar (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-13 — 277: The Fat Friar (Pt 1) — speakers: Choice Award, Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-10 — Back Flipper: PS142 — speakers: Back Flipper, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-08 — 276: See You Next Wednesday (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-06 — 276: See You Next Wednesday (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-03 — Sunday: PS141 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-08-01 — 275: The Best of Michael Owen’s Movie Club (Pt 2) — speakers: Michael Owen, Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-30 — 275: The Best of Michael Owen’s Movie Club (Pt 1) — speakers: Michael Owen, Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-27 — George Melly: PS140 — speakers: George Melly, Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-25 — 274: I’m Not An Owl (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-23 — 274: I’m Not An Owl (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-20 — Mascots: PS139 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-18 — 273: Get A Bigger Waist And A Pair Of Socks (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-16 — 273: Get A Bigger Waist And A Pair Of Socks (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-13 — SNC: PS138 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-11 — 272: Due In No Small Part To Barbara Bush (Pt 2) — speakers: Barbara Bush, Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-09 — 272: Due In No Small Part To Barbara Bush (Pt 1) — speakers: Barbara Bush, Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-06 — WIMBLEDON: PS137 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-04 — 271: Best of The Guests (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-07-02 — 271: Best of The Guests (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-29 — The Swimming Bit: PS136 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-27 — 270: You’re Rubbish & I Mean That In A Good Way (Pt 2) — speakers: Good Way, Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-25 — 270: You’re Rubbish & I Mean That In A Good Way (Pt 1) — speakers: Good Way, Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-22 — Danny Dyer: PS135 — speakers: Danny Dyer, Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-20 — 269: You’re A Step Away From OnlyFans (Pt 2) — speakers: Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-06-18 — 269: You’re A Step Away From OnlyFans (Pt 1) — speakers: Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-06-15 — Belfast: PS134 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-13 — 268: D’You Want A Selfie? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-11 — 268: D’You Want A Selfie? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-08 — Elis Forgets His Book: PS133 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-06 — 267: Show Me The Arian (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-04 — 267: Show Me The Arian (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-06-01 — This Is Man United: PS132 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-30 — 266: You’re The Least Real Person I’ve Ever Met (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-28 — 266: You’re The Least Real Person I’ve Ever Met (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-25 — 'Allo 'Allo!: PS131 — speakers: PS Welcome, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-23 — 265: Average Dick Dave (Pt 2) — speakers: Dick Dave, Dick Dave Elis James, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-21 — 265: Average Dick Dave (Pt 1) — speakers: Dick Dave, Dick Dave Elis James, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-18 — In A Hillman Imp: PS130 — speakers: Hillman Imp, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-16 — 264: Max Rushden (Pt 2) — speakers: Max Rushden, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-14 — 264: Max Rushden (Pt 1) — speakers: Max Rushden, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-11 — Terror USP: PS129 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-09 — 263: Choking Out O’Toole (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-07 — 263: Choking Out O’Toole (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-04 — Pitch Invader: PS128 — speakers: Pitch Invader, Elis James, Mike Bubbins, Steff Garrero
+- 2025-05-02 — 262: Oh My God, He’s 52! (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-30 — 262: Oh My God, He’s 52! (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-27 — Hand Shakes: PS127 — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-25 — 261: Medium Performance (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-23 — 261: Medium Performance (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-20 — Massage Guns: PS126 — speakers: Massage Guns, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-18 — 260: Our Friends At The Ford Motor Company (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-16 — 260: Our Friends At The Ford Motor Company (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-13 — JPR: PS125 — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-11 — 259: Part Pity, Part Disdain (Pt 2) — speakers: Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-04-09 — 259: Part Pity, Part Disdain (Pt 1) — speakers: Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-04-06 — Dirty Dancing: PS124 — speakers: Dirty Dancing, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-04 — 258: The 5th Anniversary (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-04-02 — 258: The 5th Anniversary (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-30 — Argus: PS123 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-28 — 257: Joe Marler (Pt 2) — speakers: Joe Marler, Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-26 — 257: Joe Marler (Pt 1) — speakers: Joe Marler, Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-23 — Ron Paul: PS122 — speakers: Ron Paul, Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-21 — 256: Just Two Spanners & A Hammer Please Mate (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-19 — 256: Just Two Spanners & A Hammer Please Mate (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-16 — Wallet: PS121 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-14 — 255: Sexy But Contrite (Pt 2) — speakers: Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-03-12 — 255: Sexy But Contrite (Pt 1) — speakers: Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-03-09 — Bad Hair: PS120 — speakers: Bad Hair, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-07 — 254: Emily Campbell (Pt 2) — speakers: Emily Campbell, Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-05 — 254: Emily Campbell (Pt 1) — speakers: Emily Campbell, Elis James, Mike Bubbins, Steff Garrero
+- 2025-03-02 — Dating Records: PS119 — speakers: Dating Records, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-28 — 253: Papering Over The Cracks (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-26 — 253: Papering Over The Cracks (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-23 — Skimming: PS118 — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-21 — 252: Just Put A Towel Over My Head (Pt 2) — speakers: Just Put, Towel Over My Head, Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-02-19 — 252: Just Put A Towel Over My Head (Pt 1) — speakers: Just Put, Towel Over My Head, Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-02-16 — Gardens: PS117 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-14 — 251: Moderately Messianic (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-12 — 251: Moderately Messianic (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-09 — Randy Old Goat: PS116 — speakers: Randy Old Goat PS, Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-07 — 250: That’s So Cool (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-05 — 250: That's So Cool (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-02-02 — Robomam: PS115 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-31 — 249: Exiting The Ralgex Era (Pt 2) — speakers: Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-01-29 — 249: Exiting The Ralgex Era (Pt 1) — speakers: Elis James, Oh What, Mike Bubbins, Steff Garrero
+- 2025-01-26 — Turkey Hunt: PS114 — speakers: Turkey Hunt, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-24 — 248: Sparky’s Thighs (Pt 2) — speakers: Thighs Elis James, Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-22 — 248: Sparky’s Thighs (Pt 1) — speakers: Thighs Elis James, Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-19 — Deodorant: PS113 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-17 — 247: Do You Want To Eat A Dead Pig? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-15 — 247: Do You Want To Eat A Dead Pig? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-12 — We Put People On The Moon 50 Years Ago: PS112 — speakers: Years Ago, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-10 — 246: The Race Is Back On (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-08 — 246: The Race Is Back On (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-05 — Back In the USSR: PS111 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-03 — 245: The Elephant In The Room (Pt2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2025-01-01 — 245: The Elephant In The Room (Pt1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-29 — Formats: PS110 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-27 — 244: Leroy Brito (Pt 2) — speakers: Leroy Brito, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-25 — 244: Leroy Brito (Pt 1) — speakers: Leroy Brito, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-22 — Moo: PS109 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-20 — 243: No Guile, No Subterfuge (Pt 2) — speakers: No Guile, No Subterfuge, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-18 — 243: No Guile, No Subterfuge (Pt 1) — speakers: No Guile, No Subterfuge, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-15 — Lloyd George: PS108 — speakers: Lloyd George, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-13 — 242: Chesney Hawkes (Pt 2) — speakers: Chesney Hawkes, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-11 — 242: Chesney Hawkes (Pt 1) — speakers: Chesney Hawkes, Elis James, Mike Bubbins, Steff Garrero
 - 2024-12-08 — Shakespeare & Weddings: PS107 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-12-06 — 241: Twenty Minutes (Pt 2) — speakers: Mike Bubbins, Steff Garrero, Hoffi Pod, Michael Owen, Tom Platz Elis, Steff Documentary, Quiz Ball Elis Book, Sammy Harvey
-- 2024-12-04 — 241: Twenty Minutes (Pt 1) — speakers: Mike Bubbins, Steff Garrero, Hoffi Pod, Michael Owen, Tom Platz Elis, Steff Documentary, Quiz Ball Elis Book, Sammy Harvey
+- 2024-12-06 — 241: Twenty Minutes (Pt 2) — speakers: Twenty Minutes, Elis James, Mike Bubbins, Steff Garrero
+- 2024-12-04 — 241: Twenty Minutes (Pt 1) — speakers: Twenty Minutes, Elis James, Mike Bubbins, Steff Garrero
 - 2024-12-01 — Trident: PS106 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2024-11-30 — LGBC 2: Fever Pitch (1992) — speakers: Liam Gallagher, Mike Bubbins, Elis James, Steff Garrero
-- 2024-11-29 — 240: Best Of Distant Pod 8 (Pt 2) — speakers: Michael Owen, Hoffi Pod, Liam Gallagher, Colin Murray, Scott Quinnell, Bob Harris, Danny Wallace, Distant Pod
-- 2024-11-27 — 240: Best Of Distant Pod 8 (Pt 1) — speakers: Michael Owen, Hoffi Pod, Liam Gallagher, Colin Murray, Scott Quinnell, Bob Harris, Danny Wallace, Distant Pod
-- 2024-11-24 — I’ve Got A Two Year Contract: PS105 — speakers: Michael Owen, Join Elis, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-11-22 — 239: Pwllheli Spar (Pt 2) — speakers: Pwllheli Spar, Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Mark Hughes
-- 2024-11-20 — 239: Pwllheli Spar (Pt 1) — speakers: Pwllheli Spar, Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Mark Hughes
+- 2024-11-29 — 240: Best Of Distant Pod 8 (Pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-27 — 240: Best Of Distant Pod 8 (Pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-24 — I’ve Got A Two Year Contract: PS105 — speakers: Two Year Contract, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-22 — 239: Pwllheli Spar (Pt 2) — speakers: Pwllheli Spar, Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-20 — 239: Pwllheli Spar (Pt 1) — speakers: Pwllheli Spar, Elis James, Mike Bubbins, Steff Garrero
 - 2024-11-17 — What’s Coal Boss?: PS104 — speakers: Coal Boss, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-11-15 — 238: Sex Radio (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, David James, Mike Documentary
-- 2024-11-13 — 238: Sex Radio (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, David James, Mike Documentary
-- 2024-11-10 — Big Pink Disc: PS103 — speakers: Michael Owen, Join Elis, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-11-08 — 237: Ken Tubbins (Pt 2) — speakers: Ken Tubbins, Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Tyreek Stephenson Karma
-- 2024-11-06 — 237: Ken Tubbins (Pt 1) — speakers: Ken Tubbins, Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Tyreek Stephenson Karma
-- 2024-11-03 — Chesney Hawkes: PS102 — speakers: Chesney Hawkes, Michael Owen, Join Elis, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-11-01 — 236: You’ve Gotta Beat The Rocks (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Steve Alderson, Tom Jones
-- 2024-10-30 — 236: You’ve Gotta Beat The Rocks (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Steve Alderson, Tom Jones
-- 2024-10-27 — Honest History: PS101 — speakers: Michael Owen, Join Elis, Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-10-25 — 235: I’m Still Mike From The No Through Road (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Cole Palmer, tLpJtK mbfI
-- 2024-10-23 — 235: I’m Still Mike From The No Through Road (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Cole Palmer, tLpJtK mbfI
+- 2024-11-15 — 238: Sex Radio (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-13 — 238: Sex Radio (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-10 — Big Pink Disc: PS103 — speakers: Big Pink Disc, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-08 — 237: Ken Tubbins (Pt 2) — speakers: Ken Tubbins, Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-06 — 237: Ken Tubbins (Pt 1) — speakers: Ken Tubbins, Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-03 — Chesney Hawkes: PS102 — speakers: Chesney Hawkes, Elis James, Mike Bubbins, Steff Garrero
+- 2024-11-01 — 236: You’ve Gotta Beat The Rocks (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-30 — 236: You’ve Gotta Beat The Rocks (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-27 — Honest History: PS101 — speakers: Honest History, Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-25 — 235: I’m Still Mike From The No Through Road (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-23 — 235: I’m Still Mike From The No Through Road (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-10-20 — Made Of Pottery: PS100 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-10-18 — 234: Peak Ebbw Vale (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Stewart Piper, status Mike
-- 2024-10-16 — 234: Peak Ebbw Vale (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Stewart Piper, status Mike
-- 2024-10-13 — A Lion Dressed As A Man: PS99 — speakers: Gordon Smart, Elis James, Mike Bubbins, Steff Garrero
-- 2024-10-11 — 233: Breakfast, Podcast, Toilet, Sleep (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Mike Book, Johanna Mounzer
-- 2024-10-09 — 233: Breakfast, Podcast, Toilet, Sleep (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Mike Book, Johanna Mounzer
+- 2024-10-18 — 234: Peak Ebbw Vale (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-16 — 234: Peak Ebbw Vale (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-13 — A Lion Dressed As A Man: PS99 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-11 — 233: Breakfast, Podcast, Toilet, Sleep (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-09 — 233: Breakfast, Podcast, Toilet, Sleep (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-10-06 — Ten Grand Bar Bill: PS98 — speakers: Ten Grand Bar Bill, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-10-04 — 232: You’ve Got A Keycard (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Nick’s Links, Steff’s Tom Brady Wrexham
-- 2024-10-02 — 232: You’ve Got A Keycard (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Nick’s Links, Steff’s Tom Brady Wrexham
+- 2024-10-04 — 232: You’ve Got A Keycard (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-10-02 — 232: You’ve Got A Keycard (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-09-29 — Espresso: PS97 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-09-27 — 231: What Are You Drinking Mike? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Jonathan Wilson
-- 2024-09-25 — 231: What Are You Drinking Mike? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Jonathan Wilson
+- 2024-09-27 — 231: What Are You Drinking Mike? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-09-25 — 231: What Are You Drinking Mike? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-09-22 — Ideal Gym Outfit: PS96 — speakers: Ideal Gym Outfit, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-09-20 — 230: Private Jets & Carling (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Reggie Jackson, Mike Book
-- 2024-09-18 — 230: Private Jets & Carling (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Hoffi Pod, Michael Owen, Reggie Jackson, Mike Book
-- 2024-09-15 — Audiences Liked It: PS95 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2024-09-13 — 229: Cross My Palm With Cotton (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Pepe Reina, Mike Documentary, Danny Jansen
-- 2024-09-11 — 229: Cross My Palm With Cotton (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Pepe Reina, Mike Documentary, Danny Jansen
+- 2024-09-20 — 230: Private Jets & Carling (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-09-18 — 230: Private Jets & Carling (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-09-15 — Audiences Liked It: PS95 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-09-13 — 229: Cross My Palm With Cotton (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-09-11 — 229: Cross My Palm With Cotton (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-09-08 — Jeff In Kettering: PS94 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2024-09-06 — 228: It’s Kissing Time (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Harrison Walsh, Craig Bellamy
-- 2024-09-04 — 228: It’s Kissing Time (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Harrison Walsh, Steff Documentary, Craig Bellamy
-- 2024-09-01 — I’d Like To Be Taken Advantage Of… Twice: PS93 — speakers: Gordon Smart, Elis James, Mike Bubbins, Steff Garrero
-- 2024-08-30 — 227: Pampas Grass & Badminton (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Merson, Mike Documentary, Andy Clarke, Roger Harper, Graham Gooch
-- 2024-08-28 — 227: Pampas Grass & Badminton (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Merson, Mike Documentary, Andy Clarke, Roger Harper, Graham Gooch
-- 2024-08-25 — Unlocking The Gog: PS92 — speakers: Humphrey Kerr, Elis James, Mike Bubbins, Steff Garrero
-- 2024-08-23 — 226: I Am Outdoorsy (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Max Rushden, Scottie Scheffler, Steff Documentary, xA RGj
-- 2024-08-21 — 226: I Am Outdoorsy (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Max Rushden, Scottie Scheffler, Steff Documentary, xA RGj
+- 2024-09-06 — 228: It’s Kissing Time (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-09-04 — 228: It’s Kissing Time (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-09-01 — I’d Like To Be Taken Advantage Of… Twice: PS93 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-30 — 227: Pampas Grass & Badminton (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-28 — 227: Pampas Grass & Badminton (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-25 — Unlocking The Gog: PS92 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-23 — 226: I Am Outdoorsy (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-21 — 226: I Am Outdoorsy (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-08-17 — The Boys From Totting-Ham: PS91 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-08-16 — 225: Michu & His Talking Dog (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Gary Neville, Elis Documentary, Mike Book, Ernest Thayer
-- 2024-08-14 — 225: Michu & His Talking Dog (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Gary Neville, Elis Documentary, Mike Book, Ernest Thayer
-- 2024-08-11 — It’s 1839: PS90 — speakers: rd Leg, Elis James, Mike Bubbins, Steff Garrero
-- 2024-08-09 — 224: Stag, Stag, Stag (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Elis Documentary, Mike Book Steff, Iwan Thomas
-- 2024-08-07 — 224: Stag, Stag, Stag (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Elis Documentary, Mike Book Steff, Iwan Thomas
-- 2024-08-03 — Red Card Vets: PS89 — speakers: Ulster Hall, Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-16 — 225: Michu & His Talking Dog (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-14 — 225: Michu & His Talking Dog (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-11 — It’s 1839: PS90 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-09 — 224: Stag, Stag, Stag (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-07 — 224: Stag, Stag, Stag (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-08-03 — Red Card Vets: PS89 — speakers: Red Card Vets, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2024-08-02 — 223: Bob Harris (Pt 2) — speakers: Bob Harris, Elis James, Mike Bubbins, Steff Garrero
 - 2024-07-31 — 223: Bob Harris (Pt 1) — speakers: Bob Harris, Elis James, Mike Bubbins, Steff Garrero
 - 2024-07-28 — Lynn The Leap: PS88 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2024-07-26 — 222: I Am Bubbs (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Cindy Ngamba, Mike Doc, Richard Moore
-- 2024-07-24 — 222: I Am Bubbs (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Cindy Ngamba, Mike Doc, Richard Moore
+- 2024-07-26 — 222: I Am Bubbs (Pt 2) — speakers: Am Bubbs, Summer Olympic Games, Elis James, Mike Bubbins, Steff Garrero
+- 2024-07-24 — 222: I Am Bubbs (Pt 1) — speakers: Am Bubbs, Summer Olympic Games, Elis James, Mike Bubbins, Steff Garrero
 - 2024-07-21 — First Dates: PS87 — speakers: First Dates, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-07-19 — 221: The Jackets Of Paul Heaton With Elis & The Rock (Pt 2) — speakers: Paul Heaton, Elis James, Mike Bubbins, Steff Garrero, Grace Harris, Georgi Kinkladze, Elis Doc, George Best
-- 2024-07-17 — 221: The Jackets Of Paul Heaton With Elis & The Rock (Pt 1) — speakers: Paul Heaton, Elis James, Mike Bubbins, Steff Garrero, Grace Harris, Georgi Kinkladze, Elis Doc, George Best
-- 2024-07-14 — The Return Of Simon: PS86 — speakers: rd Leg, Elis James, Mike Bubbins, Steff Garrero
-- 2024-07-12 — 220: Peace & Love, Peace & Love (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Steff Doc, Inshallah Utd, Nooruddean Chowdry, status Mike
-- 2024-07-10 — 220: Peace & Love, Peace & Love (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Steff Doc, Inshallah Utd, Nooruddean Chowdry, status Mike
+- 2024-07-19 — 221: The Jackets Of Paul Heaton With Elis & The Rock (Pt 2) — speakers: Paul Heaton, Elis James, Mike Bubbins, Steff Garrero
+- 2024-07-17 — 221: The Jackets Of Paul Heaton With Elis & The Rock (Pt 1) — speakers: Paul Heaton, Elis James, Mike Bubbins, Steff Garrero
+- 2024-07-14 — The Return Of Simon: PS86 — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-07-12 — 220: Peace & Love, Peace & Love (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-07-10 — 220: Peace & Love, Peace & Love (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-07-07 — Tracing Papers: PS85 — speakers: Tracing Papers, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-07-05 — 219: My Worst Ever Comment Had Eight Million Hates (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Mike Eddie Hearn, Ryan Garcia, Mike Documentary, Johnson Wagner
-- 2024-07-02 — 219: My Worst Ever Comment Had Eight Million Hates (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Mike Eddie Hearn, Ryan Garcia, Mike Documentary, Johnson Wagner
+- 2024-07-05 — 219: My Worst Ever Comment Had Eight Million Hates (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-07-02 — 219: My Worst Ever Comment Had Eight Million Hates (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-06-29 — Jimmy Five Bellies: PS84 — speakers: Jimmy Five Bellies, Elis James, Mike Bubbins, Steff Garrero
-- 2024-06-27 — 218: Colin Murray (Pt 2) — speakers: Colin Murray, Elis James, Mike Bubbins, Steff Garrero, Johnny Logan
-- 2024-06-25 — 218: Colin Murray (Pt 1) — speakers: Colin Murray, Elis James, Mike Bubbins, Steff Garrero, Johnny Logan
+- 2024-06-27 — 218: Colin Murray (Pt 2) — speakers: Colin Murray, Elis James, Mike Bubbins, Steff Garrero
+- 2024-06-25 — 218: Colin Murray (Pt 1) — speakers: Colin Murray, Elis James, Mike Bubbins, Steff Garrero
 - 2024-06-22 — Pope At Ninian Park: PS83 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-06-20 — 217: I'm Good, Twice A Year, For That (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Peter Shilton, Rob Burrow, reel Steff
-- 2024-06-18 — 217: I'm Good, Twice A Year, For That (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Peter Shilton, Rob Burrow, reel Steff
-- 2024-06-15 — Hungover Cricketers: PS82 — speakers: Hackney Empire, Elis James, Mike Bubbins, Steff Garrero
-- 2024-06-13 — 216: Take Two Bottles Into The Kitchen? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Ian Rush, Steven Scragg, Ronnie Whelan
-- 2024-06-11 — 216: Take Two Bottles Into The Kitchen? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Ian Rush, Steven Scragg, Ronnie Whelan
+- 2024-06-20 — 217: I'm Good, Twice A Year, For That (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-06-18 — 217: I'm Good, Twice A Year, For That (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-06-15 — Hungover Cricketers: PS82 — speakers: Hungover Cricketers, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-06-13 — 216: Take Two Bottles Into The Kitchen? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-06-11 — 216: Take Two Bottles Into The Kitchen? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-06-08 — The Mock Mock Turtles: PS81 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-06-06 — 215: This Country’s Gone To The Bonkers (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Kerry Skull, Mike Documentary, Dan Orlovsky
-- 2024-06-04 — 215: This Country’s Gone To The Bonkers (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Kerry Skull, Mike Documentary, Dan Orlovsky
-- 2024-06-01 — No One Likes Us: PS80 — speakers: Hackney Empire, Elis James, Mike Bubbins, Steff Garrero
-- 2024-05-30 — 214: Danny Wallace (Pt 2) — speakers: Danny Wallace, Elis James, Mike Bubbins, Steff Garrero, Jim Carey, Ian Botham
-- 2024-05-28 — 214: Danny Wallace (Pt 1) — speakers: Danny Wallace, Elis James, Mike Bubbins, Steff Garrero, Jim Carey, Ian Botham
-- 2024-05-25 — Fellowships: PS79 — speakers: Michael Owen, Bull Durham, Elis James, Mike Bubbins, Steff Garrero
-- 2024-05-23 — 213: It Was Always Plan A (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Eddie Hall
+- 2024-06-06 — 215: This Country’s Gone To The Bonkers (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-06-04 — 215: This Country’s Gone To The Bonkers (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-06-01 — No One Likes Us: PS80 — speakers: No One Likes Us, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-30 — 214: Danny Wallace (Pt 2) — speakers: Danny Wallace, Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-28 — 214: Danny Wallace (Pt 1) — speakers: Danny Wallace, Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-25 — Fellowships: PS79 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-23 — 213: It Was Always Plan A (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-05-22 — The Barry John Story (1974): LG1 — speakers: John Story, Liam Gallagher, Mike Bubbins, Elis James, Steff Garrero
-- 2024-05-21 — 213: It Was Always Plan A (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Eddie Hall
-- 2024-05-18 — Pubs: PS78 — speakers: Michael Owen, Elis James, Mike Bubbins, Steff Garrero
-- 2024-05-16 — 212: Mammoth (1979) (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Tracy Austin
-- 2024-05-14 — 212: Mammoth (1979) (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Tracy Austin
+- 2024-05-21 — 213: It Was Always Plan A (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-18 — Pubs: PS78 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-16 — 212: Mammoth (1979) (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-14 — 212: Mammoth (1979) (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-05-11 — He Looks Harder Than Me?: PS77 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-05-09 — 211: Café Owners Are Sexy (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Lloyd Martin
-- 2024-05-07 — 211: Café Owners Are Sexy (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Lloyd Martin
-- 2024-05-04 — Raquel Welch: PS76 — speakers: Raquel Welch, Michael Owen, Elis James, Mike Bubbins, Steff Garrero
-- 2024-05-02 — 210: Batman’s Mate (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Leighton James
-- 2024-04-30 — 210: Batman’s Mate (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Leighton James
+- 2024-05-09 — 211: Café Owners Are Sexy (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-07 — 211: Café Owners Are Sexy (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-04 — Raquel Welch: PS76 — speakers: Raquel Welch, Elis James, Mike Bubbins, Steff Garrero
+- 2024-05-02 — 210: Batman’s Mate (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-30 — 210: Batman’s Mate (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-04-28 — Cowboy Hats: PS75 — speakers: Cowboy Hats, Elis James, Mike Bubbins, Steff Garrero
-- 2024-04-25 — 209: I Find It So Pathetic That People Would Pay To Hear You Speak, That I’d Rather You Didn’t Put Food On The Table (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Babe Didrikson
-- 2024-04-23 — 209: I Find It So Pathetic That People Would Pay To Hear You Speak, That I’d Rather You Didn’t Put Food On The Table (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Babe Didrikson
-- 2024-04-20 — Pint Sized Distant Pod 74: Pints — speakers: Michael Owen, Elis James, Mike Bubbins, Steff Garrero
-- 2024-04-18 — 208: Don’t You Know Who I Think I Am? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Wilma Rudolph
-- 2024-04-16 — 208: Don’t You Know Who I Think I Am? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Wilma Rudolph
-- 2024-04-13 — Clowns: PS73 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2024-04-11 — 207: Scott Quinnell (Pt 2) — speakers: Scott Quinnell, Elis James, Mike Bubbins, Steff Garrero, Derek Quinnell
-- 2024-04-09 — 207: Scott Quinnell (Pt 1) — speakers: Scott Quinnell, Elis James, Mike Bubbins, Steff Garrero, Derek Quinnell
+- 2024-04-25 — 209: I Find It So Pathetic That People Would Pay To Hear You Speak, That I’d Rather You Didn’t Put Food On The Table (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-23 — 209: I Find It So Pathetic That People Would Pay To Hear You Speak, That I’d Rather You Didn’t Put Food On The Table (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-20 — Pint Sized Distant Pod 74: Pints — speakers: Pint Sized Distant Pod, Pints Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-18 — 208: Don’t You Know Who I Think I Am? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-16 — 208: Don’t You Know Who I Think I Am? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-13 — Clowns: PS73 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-11 — 207: Scott Quinnell (Pt 2) — speakers: Scott Quinnell, Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-09 — 207: Scott Quinnell (Pt 1) — speakers: Scott Quinnell, Elis James, Mike Bubbins, Steff Garrero
 - 2024-04-06 — Citizen Clem: PS72 — speakers: Citizen Clem, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-04-04 — 206: Best Of Distant Pod 7 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Michael Owen, Hoffi Pod, Pint Sized
-- 2024-04-02 — 206: Best Of Distant Pod 7 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Michael Owen, Hoffi Pod, Pint Sized
+- 2024-04-04 — 206: Best Of Distant Pod 7 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-04-02 — 206: Best Of Distant Pod 7 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-03-31 — Go Compare: PS71 — speakers: Go Compare, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-03-29 — 205: Best Of Distant Pod 6 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Michael Owen, Hoffi Pod, Pint Sized
-- 2024-03-27 — 205: Best Of Distant Pod 6 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Distant Pod, Michael Owen, Hoffi Pod, Pint Sized
+- 2024-03-29 — 205: Best Of Distant Pod 6 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-03-27 — 205: Best Of Distant Pod 6 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-03-24 — It's Willy Wonka Then: PS70 — speakers: Willy Wonka Then, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-03-22 — 204: Before You Can Say Ridiculous Idea (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Arnold Schwarzenegger
-- 2024-03-20 — 204: Before You Can Say Ridiculous Idea (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Arnold Schwarzenegger
+- 2024-03-22 — 204: Before You Can Say Ridiculous Idea (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-03-20 — 204: Before You Can Say Ridiculous Idea (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-03-17 — Philosophers: PS69 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-03-15 — 203: I Do It All In The Nude (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Baltimore Rygbi
-- 2024-03-13 — 203: I Do It All In The Nude (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Baltimore Rygbi
+- 2024-03-15 — 203: I Do It All In The Nude (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-03-13 — 203: I Do It All In The Nude (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-03-10 — Seve: PS68 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-03-08 — 202: Suzi Ruffell & Maisie Adam From "Big Kick Energy" (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Suzi Ruffell, Maisie Adam, Best Newcomer, Best Stand Up Show, Bunny Shaw
-- 2024-03-06 — 202: Suzi Ruffell & Maisie Adam From "Big Kick Energy" (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Suzi Ruffell, Maisie Adam, Best Newcomer, Best Stand Up Show, Bunny Shaw
+- 2024-03-08 — 202: Suzi Ruffell & Maisie Adam From "Big Kick Energy" (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-03-06 — 202: Suzi Ruffell & Maisie Adam From "Big Kick Energy" (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-03-03 — Dynamo: PS67 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-03-01 — 201: The Argus? No Offence But, The Argus? Not Even The Echo? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Travis Kelce
-- 2024-02-27 — 201: The Argus? No Offence But, The Argus? Not Even The Echo? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Travis Kelce
+- 2024-03-01 — 201: The Argus? No Offence But, The Argus? Not Even The Echo? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-02-27 — 201: The Argus? No Offence But, The Argus? Not Even The Echo? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-02-25 — And We Won Two World Wars, Elis: PS66 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2024-02-23 — 200: It's Been On The Radio Since 1942, Mike (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Barry John
-- 2024-02-21 — 200: It's Been On The Radio Since 1942, Mike (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Barry John
+- 2024-02-23 — 200: It's Been On The Radio Since 1942, Mike (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-02-21 — 200: It's Been On The Radio Since 1942, Mike (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-02-18 — Sex Education: PS65 — speakers: Sex Education, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-02-16 — 199: The 1% Club (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Daf Jenkins
-- 2024-02-14 — 199: The 1% Club (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Daf Jenkins
+- 2024-02-16 — 199: The 1% Club (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-02-14 — 199: The 1% Club (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-02-11 — The Mexicans: PS64 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-02-09 — 198: The Nerd Net (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Calvin Peete
-- 2024-02-07 — 198: The Nerd Net (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Calvin Peete
+- 2024-02-09 — 198: The Nerd Net (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-02-07 — 198: The Nerd Net (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-02-04 — You Know The Words: PS63 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-02-02 — 197: Whelk (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Mike Book
-- 2024-01-31 — 197: Whelk (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Mike Book
+- 2024-02-02 — 197: Whelk (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-01-31 — 197: Whelk (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-01-28 — Cardiff Airport: PS62 — speakers: Cardiff Airport, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-01-26 — 196: Qwaylog 9 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Herbie Sykes
-- 2024-01-24 — 196: Qwaylog 9 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Herbie Sykes
+- 2024-01-26 — 196: Qwaylog 9 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-01-24 — 196: Qwaylog 9 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-01-21 — Elvis Jungle Room: PS61 — speakers: Elvis Jungle Room, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-01-19 — Episode 195, Part 2: Pork Baguette Club — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Andrew Lawn
-- 2024-01-17 — Episode 195, Part 1: Pork Baguette Club — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Andrew Lawn
+- 2024-01-19 — Episode 195, Part 2: Pork Baguette Club — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-01-17 — Episode 195, Part 1: Pork Baguette Club — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-01-14 — Mike And The Masons: PS60 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2024-01-12 — 194: Stuck In The Middle With Poo (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Hristo Stoichcov
-- 2024-01-10 — 194: Stuck In The Middle With Poo (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Hristo Stoichcov
+- 2024-01-12 — 194: Stuck In The Middle With Poo (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-01-10 — 194: Stuck In The Middle With Poo (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2024-01-07 — I Know For A Fact You’re Not Wearing That: PS59 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2024-01-05 — 193: His Guts Split Open And It Was The King Of Spades (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, El Tel
-- 2024-01-03 — 193: His Guts Split Open And It Was The King Of Spades (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, El Tel
+- 2024-01-05 — 193: His Guts Split Open And It Was The King Of Spades (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2024-01-03 — 193: His Guts Split Open And It Was The King Of Spades (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-12-31 — What Does Daddy Love?: PS58 — speakers: What Does Daddy Love, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-12-29 — 192: The Outdoor Amusement Committee (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, John Noakes
-- 2023-12-27 — 192: The Outdoor Amusement Committee (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, John Noakes
+- 2023-12-29 — 192: The Outdoor Amusement Committee (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-12-27 — 192: The Outdoor Amusement Committee (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-12-24 — Aliens: PS57 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-12-22 — 191: Humphrey Ker, Live, Wrexham (h) (Pt 2) — speakers: Humphrey Ker, Elis James, Mike Bubbins, Steff Garrero, Rob McElhenney, Ryan Reynolds, Best Newcomer, Michael Owen
-- 2023-12-20 — 191: Humphrey Ker, Live, Wrexham (h) (Pt 1) — speakers: Humphrey Ker, Elis James, Mike Bubbins, Steff Garrero, Rob McElhenney, Ryan Reynolds, Best Newcomer, Michael Owen
+- 2023-12-22 — 191: Humphrey Ker, Live, Wrexham (h) (Pt 2) — speakers: Humphrey Ker, Elis James, Mike Bubbins, Steff Garrero
+- 2023-12-20 — 191: Humphrey Ker, Live, Wrexham (h) (Pt 1) — speakers: Humphrey Ker, Elis James, Mike Bubbins, Steff Garrero
 - 2023-12-17 — Emmerdale: PS56 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-12-15 — 190: Clapham Grand, London (a) (Pt 2) — speakers: Clapham Grand, Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod
-- 2023-12-13 — 190: Clapham Grand, London (a) (Pt 1) — speakers: Clapham Grand, Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod
+- 2023-12-15 — 190: Clapham Grand, London (a) (Pt 2) — speakers: Clapham Grand, Elis James, Mike Bubbins, Steff Garrero
+- 2023-12-13 — 190: Clapham Grand, London (a) (Pt 1) — speakers: Clapham Grand, Elis James, Mike Bubbins, Steff Garrero
 - 2023-12-10 — It Just Works For Us: PS55 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-12-08 — 189: I’d Rather Go To A Galatasaray Match, Wearing An Away Shirt (Pt 2) — speakers: Galatasaray Match, Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod
-- 2023-12-06 — 189: I’d Rather Go To A Galatasaray Match, Wearing An Away Shirt (Pt 1) — speakers: Galatasaray Match, Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod
+- 2023-12-08 — 189: I’d Rather Go To A Galatasaray Match, Wearing An Away Shirt (Pt 2) — speakers: Galatasaray Match, Elis James, Mike Bubbins, Steff Garrero
+- 2023-12-06 — 189: I’d Rather Go To A Galatasaray Match, Wearing An Away Shirt (Pt 1) — speakers: Galatasaray Match, Elis James, Mike Bubbins, Steff Garrero
 - 2023-12-03 — Not A Drop…: PS54 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-12-01 — 188: A Mug Of KenCafé (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Vaughan Thomas
-- 2023-11-29 — 188: A Mug Of KenCafé (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Vaughan Thomas
+- 2023-12-01 — 188: A Mug Of KenCafé (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-11-29 — 188: A Mug Of KenCafé (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-11-26 — Richard Burton: PS53 — speakers: Richard Burton, Elis James, Mike Bubbins, Steff Garrero
-- 2023-11-24 — 187: I Think She Could Believe Her Luck (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Tanni Grey Thompson
-- 2023-11-22 — 187: I Think She Could Believe Her Luck (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Tanni Grey Thompson
+- 2023-11-24 — 187: I Think She Could Believe Her Luck (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-11-22 — 187: I Think She Could Believe Her Luck (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-11-19 — Saviour’s Day: PS52 — speakers: Saviour’s Day, Elis James, Mike Bubbins, Steff Garrero
-- 2023-11-17 — 186: No Such Thing As A Fish (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Anna Ptaszynski, James Harkin
-- 2023-11-15 — 186: No Such Thing As A Fish (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Anna Ptaszynski, James Harkin
+- 2023-11-17 — 186: No Such Thing As A Fish (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-11-15 — 186: No Such Thing As A Fish (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-11-12 — Monocultural: PS51 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-11-10 — 185: Self-Styled Hulkamaniac (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Manitoba Bisons
-- 2023-11-08 — 185: Self-Styled Hulkamaniac (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Manitoba Bisons
+- 2023-11-10 — 185: Self-Styled Hulkamaniac (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-11-08 — 185: Self-Styled Hulkamaniac (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-11-05 — Milky Bubbs: PS50 — speakers: Milky Bubbs, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-11-03 — 184: A Bit Of Apples (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, David Tossell
-- 2023-11-01 — 184: A Bit Of Apples (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, David Tossell
-- 2023-10-28 — Poems: PS49 — speakers: Tommy Two, Elis James, Mike Bubbins, Steff Garrero
-- 2023-10-26 — 183: Would You Like To Join Steffan’s Show? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod
-- 2023-10-24 — 183: Would You Like To Join Steffan’s Show? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod
+- 2023-11-03 — 184: A Bit Of Apples (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-11-01 — 184: A Bit Of Apples (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-10-28 — Poems: PS49 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2023-10-26 — 183: Would You Like To Join Steffan’s Show? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-10-24 — 183: Would You Like To Join Steffan’s Show? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-10-21 — Lord’s Prayer On A Matchbox: PS48 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-10-19 — 182: After About Two Hours I Just Gave Up And Slept In A Hedge (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Kyra Poh
-- 2023-10-17 — 182: After About Two Hours I Just Gave Up And Slept In A Hedge (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Kyra Poh
+- 2023-10-19 — 182: After About Two Hours I Just Gave Up And Slept In A Hedge (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-10-17 — 182: After About Two Hours I Just Gave Up And Slept In A Hedge (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-10-14 — Sports Days In The 80s: PS47 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-10-12 — 181: What's That Biggins? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Carl Frampton
-- 2023-10-10 — 181: What's That Biggins? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Carl Frampton
+- 2023-10-12 — 181: What's That Biggins? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-10-10 — 181: What's That Biggins? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-10-07 — Little Alive, Large Dead: PS46 — speakers: Little Alive, Large Dead, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-10-05 — 180: I Do Not Get DOMS, I Don’t Believe In It (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Camera Angle
-- 2023-10-03 — 180: I Do Not Get DOMS, I Don’t Believe In It (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Camera Angle
-- 2023-09-30 — Venus Bluegenes: PS45 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-09-28 — 179: Develop A Relationship With The Ball (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Danny Dyer
-- 2023-09-26 — 179: Develop A Relationship With The Ball (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Michael Owen, Hoffi Pod, Paul Melin, Distant Pod, Danny Dyer
+- 2023-10-05 — 180: I Do Not Get DOMS, I Don’t Believe In It (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-10-03 — 180: I Do Not Get DOMS, I Don’t Believe In It (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-09-30 — Venus Bluegenes: PS45 — speakers: Venus Bluegenes, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2023-09-28 — 179: Develop A Relationship With The Ball (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-09-26 — 179: Develop A Relationship With The Ball (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-09-23 — I Say It As I See It...: PS44 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-09-21 — 178: I’ve Been On Tele For 39 Years (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Siya Kolisi, Steve Jones, Mike Book
-- 2023-09-19 — 178: I’ve Been On Tele For 39 Years (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Siya Kolisi, Steve Jones, Mike Book
+- 2023-09-21 — 178: I’ve Been On Tele For 39 Years (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-09-19 — 178: I’ve Been On Tele For 39 Years (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-09-16 — The World Ends At Port Talbot: PS43 — speakers: Port Talbot, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-09-14 — 177: Do You Like Thinking? Thank A Philosopher (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Dickie Bird, Femke Bol, Ed Hawkins
-- 2023-09-12 — 177: Do You Like Thinking? Thank A Philosopher (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Dickie Bird, Femke Bol, Ed Hawkins
+- 2023-09-14 — 177: Do You Like Thinking? Thank A Philosopher (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-09-12 — 177: Do You Like Thinking? Thank A Philosopher (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-09-09 — The Towel: PS42 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-09-07 — 176: Who Was The Welsh One Who Discovered America? (Pt 2) — speakers: Elis James, Mike Bubbins, Paul Melin, Distant Pod, Scott Quinnell, Steff Garrero
-- 2023-09-05 — 176: Who Was The Welsh One Who Discovered America? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Scott Quinnell
+- 2023-09-07 — 176: Who Was The Welsh One Who Discovered America? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-09-05 — 176: Who Was The Welsh One Who Discovered America? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-09-02 — Legover: PS41 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-08-31 — 175: Adam Hurrey (Pt 2) — speakers: Adam Hurrey, Elis James, Mike Bubbins, Steff Garrero, Adam HURREYAdam, Paul Melin, Distant Pod, Bill Leslie
-- 2023-08-29 — 175: Adam Hurrey (Pt 1) — speakers: Adam Hurrey, Elis James, Mike Bubbins, Steff Garrero, Adam HURREYAdam, Paul Melin, Distant Pod, Bill Leslie
+- 2023-08-31 — 175: Adam Hurrey (Pt 2) — speakers: Adam Hurrey, Elis James, Mike Bubbins, Steff Garrero
+- 2023-08-29 — 175: Adam Hurrey (Pt 1) — speakers: Adam Hurrey, Elis James, Mike Bubbins, Steff Garrero
 - 2023-08-26 — It's Like A Record Player & A Map: PS40 — speakers: Record Player, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-08-24 — 174: The Golden Helmet (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Mike Book, Peter Bills, Aaron Ramsey
-- 2023-08-22 — 174: The Golden Helmet (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Mike Book, Peter Bills, Aaron Ramsey
+- 2023-08-24 — 174: The Golden Helmet (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-08-22 — 174: The Golden Helmet (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-08-19 — Doing A Bit Of Research For A Book: PS39 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-08-17 — Episode 173, Part 2: Greg Jenner — speakers: Greg Jenner, Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Greg Clip, Gareth Bale
-- 2023-08-15 — Episode 173, Part 1: Greg Jenner — speakers: Greg Jenner, Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Greg Clip, Gareth Bale
+- 2023-08-17 — Episode 173, Part 2: Greg Jenner — speakers: Greg Jenner, Elis James, Mike Bubbins, Steff Garrero
+- 2023-08-15 — Episode 173, Part 1: Greg Jenner — speakers: Greg Jenner, Elis James, Mike Bubbins, Steff Garrero
 - 2023-08-12 — Pint Sized Distant Pod 38: KY Jelly In Batch — speakers: Pint Sized Distant Pod, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-08-10 — Episode 172, Part 2: Or Will You Choose Number Three? — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Lee Trundle, Fatima Whitbread, Daniel Lieberman
-- 2023-08-08 — Episode 172, Part 1: Or Will You Choose Number Three? — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Lee Trundle, Fatima Whitbread, Daniel Lieberman
+- 2023-08-10 — Episode 172, Part 2: Or Will You Choose Number Three? — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-08-08 — Episode 172, Part 1: Or Will You Choose Number Three? — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-08-05 — Mash Boy, Mash Boy: PS37 — speakers: Mash Boy, Elis James, Mike Bubbins, Steff Garrero
-- 2023-08-03 — 171: Gordon Smart, Live in Islington (a) (Pt 2) — speakers: Gordon Smart, Elis James, Mike Bubbins, Steff Garrero, Martin Compston, Paul Melin, Distant Pod, Scott Brown
-- 2023-08-01 — 171: Gordon Smart, Live in Islington (a) (Pt 1) — speakers: Gordon Smart, Elis James, Mike Bubbins, Steff Garrero, Martin Compston, Paul Melin, Distant Pod, Scott Brown
+- 2023-08-03 — 171: Gordon Smart, Live in Islington (a) (Pt 2) — speakers: Gordon Smart, Elis James, Mike Bubbins, Steff Garrero
+- 2023-08-01 — 171: Gordon Smart, Live in Islington (a) (Pt 1) — speakers: Gordon Smart, Elis James, Mike Bubbins, Steff Garrero
 - 2023-07-29 — Whack A Macaque: PS36 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-07-27 — 170: Hoffi Pod (Pt 2) — speakers: Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Damon Albarn, Mike Documentary Elvis
-- 2023-07-25 — 170: Hoffi Pod (Pt 1) — speakers: Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Damon Albarn, Mike Documentary Elvis
+- 2023-07-27 — 170: Hoffi Pod (Pt 2) — speakers: Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2023-07-25 — 170: Hoffi Pod (Pt 1) — speakers: Hoffi Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2023-07-22 — The Tartan Flash: PS35 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-07-20 — 169: We're Known For Our “Say Die" Attitude (Pt 2) — speakers: Elis James, Mike Bubbins, Paul Melin, Distant Pod, Catriona Clarke, Farah Williams, Steff Garrero
-- 2023-07-18 — 169: We're Known For Our “Say Die" Attitude (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Catriona Clarke, Farah Williams
-- 2023-07-17 — Introducing: Oh What A Time... — speakers: Tom Craine, Chris Scull, Elis James, Mike Bubbins, Steff Garrero
-- 2023-07-15 — Crack Is Very Moreish Henry: PS34 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-07-13 — 168: Josh Widdicombe (Pt 2) — speakers: Josh Widdicombe, Elis James, Mike Bubbins, Steff Garrero, Parenting Hell, Quickly Kevin, Paul Melin, Distant Pod
-- 2023-07-11 — 168: Josh Widdicombe (Pt 1) — speakers: Josh Widdicombe, Elis James, Mike Bubbins, Steff Garrero, Parenting Hell, Quickly Kevin, Paul Melin, Distant Pod
+- 2023-07-20 — 169: We're Known For Our “Say Die" Attitude (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-07-18 — 169: We're Known For Our “Say Die" Attitude (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-07-17 — Introducing: Oh What A Time... — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-07-15 — Crack Is Very Moreish Henry: PS34 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2023-07-13 — 168: Josh Widdicombe (Pt 2) — speakers: Josh Widdicombe, Elis James, Mike Bubbins, Steff Garrero
+- 2023-07-11 — 168: Josh Widdicombe (Pt 1) — speakers: Josh Widdicombe, Elis James, Mike Bubbins, Steff Garrero
 - 2023-07-08 — It Sounds Like a Lie: PS33 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-07-06 — 167: Richard Herring (Pt 2) — speakers: Richard Herring, Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Richard Clip
-- 2023-07-04 — 167: Richard Herring (Pt 1) — speakers: Richard Herring, Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Richard Clip
+- 2023-07-06 — 167: Richard Herring (Pt 2) — speakers: Richard Herring, Elis James, Mike Bubbins, Steff Garrero
+- 2023-07-04 — 167: Richard Herring (Pt 1) — speakers: Richard Herring, Elis James, Mike Bubbins, Steff Garrero
 - 2023-07-01 — Jane From Castleford: PS32 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-06-29 — 166: Help Me Out Mate, This Is My Lowest Ebb (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Thierry Henry, Chas Smith, Rocket Ronnie
-- 2023-06-27 — 166: Help Me Out Mate, This Is My Lowest Ebb (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Paul Melin, Distant Pod, Thierry Henry, Chas Smith, Rocket Ronnie
+- 2023-06-29 — 166: Help Me Out Mate, This Is My Lowest Ebb (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-06-27 — 166: Help Me Out Mate, This Is My Lowest Ebb (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-06-24 — Me And You: PS31 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-06-22 — 165: Felix White (Pt 2) — speakers: Felix White, Elis James, Mike Bubbins, Steff Garrero, Fulham FC, Paul Melin, Distant Pod, Mark Nicholas
-- 2023-06-20 — 165: Felix White (Pt 1) — speakers: Felix White, Elis James, Mike Bubbins, Steff Garrero, Fulham FC, Paul Melin, Distant Pod, Mark Nicholas
+- 2023-06-22 — 165: Felix White (Pt 2) — speakers: Felix White, Elis James, Mike Bubbins, Steff Garrero
+- 2023-06-20 — 165: Felix White (Pt 1) — speakers: Felix White, Elis James, Mike Bubbins, Steff Garrero
 - 2023-06-18 — Shepton Mallet Pig: PS30 — speakers: Shepton Mallet, Elis James, Mike Bubbins, Steff Garrero
-- 2023-06-15 — 164: Mr Titchmarsh. It’s Been Done. (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Jamie Carragher, Geraint Thomas, Mike Documentary, Jay Allan
-- 2023-06-13 — 164: Mr Titchmarsh. It’s Been Done. (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Jamie Carragher, Geraint Thomas, Mike Documentary, Jay Allan
+- 2023-06-15 — 164: Mr Titchmarsh. It’s Been Done. (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-06-13 — 164: Mr Titchmarsh. It’s Been Done. (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-06-10 — Garlic Prawns: PS29 — speakers: Garlic Prawns, Elis James, Mike Bubbins, Steff Garrero
-- 2023-06-08 — 163: What Kind Of Carling Goes Well With Fish? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Craig Douglas, Andrew Nickolds, Nick Newman
-- 2023-06-06 — 163: What Kind Of Carling Goes Well With Fish? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Craig Douglas, Andrew Nickolds, Nick Newman
+- 2023-06-08 — 163: What Kind Of Carling Goes Well With Fish? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-06-06 — 163: What Kind Of Carling Goes Well With Fish? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-06-03 — Simon: PS28 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-06-01 — 162: Let’s Settle This Like Men With No Girlfriends (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Max Rushden, status Steff, Matt Whyman, Mike Clip, Kate Mason
-- 2023-05-30 — 162: Let’s Settle This Like Men With No Girlfriends (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Max Rushden, status Steff, Matt Whyman, Mike Clip, Kate Mason
-- 2023-05-27 — Ray & Tony: PS27 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-05-25 — 161: Kate Mason (Pt 2) — speakers: Kate Mason, Elis James, Mike Bubbins, Steff Garrero, Elis Clip
-- 2023-05-23 — 161: Kate Mason (Pt 1) — speakers: Kate Mason, Elis James, Mike Bubbins, Steff Garrero, Elis Clip
-- 2023-05-20 — We All Watched The Kiss: PS26 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-05-18 — 160: Parking The Bus (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Drew Magi, Terry Griffiths, John Spencer, Len Ganley, Mike Documentary
-- 2023-05-16 — 160: Parking The Bus (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Drew Magi, Terry Griffiths, John Spencer, Len Ganley, Mike Documentary
+- 2023-06-01 — 162: Let’s Settle This Like Men With No Girlfriends (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-30 — 162: Let’s Settle This Like Men With No Girlfriends (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-27 — Ray & Tony: PS27 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-25 — 161: Kate Mason (Pt 2) — speakers: Kate Mason, Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-23 — 161: Kate Mason (Pt 1) — speakers: Kate Mason, Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-20 — We All Watched The Kiss: PS26 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-18 — 160: Parking The Bus (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-16 — 160: Parking The Bus (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-05-13 — A Packet of Apple Brambleys: PS25 — speakers: Apple Brambleys, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-05-11 — 159: I Would Prefer To Have My Left Wrist Broken By Two Men In Hoods With A Bat (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Chris Sutton, status Elis, John Virgo, Mike Book Welsh, Fred Deakin
-- 2023-05-09 — 159: I Would Prefer To Have My Left Wrist Broken By Two Men In Hoods With A Bat (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Chris Sutton, status Elis, John Virgo, Mike Book Welsh, Fred Deakin
+- 2023-05-11 — 159: I Would Prefer To Have My Left Wrist Broken By Two Men In Hoods With A Bat (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-09 — 159: I Would Prefer To Have My Left Wrist Broken By Two Men In Hoods With A Bat (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-05-06 — Bob's Gym: PS24 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-05-04 — 158: Making A Porno, Is It? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Niall Quinn
-- 2023-05-02 — 158: Making A Porno, Is It? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Niall Quinn
+- 2023-05-04 — 158: Making A Porno, Is It? (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-05-02 — 158: Making A Porno, Is It? (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-04-29 — The Shot Put Story: PS23 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-04-27 — 157: Sam Warburton (Pt 2) — speakers: Sam Warburton, Elis James, Mike Bubbins, Steff Garrero, Jonny Wilkinson, Chris Hoy, Heather Knight, Troy Deeney
-- 2023-04-25 — 157: Sam Warburton (Pt 1) — speakers: Sam Warburton, Elis James, Mike Bubbins, Steff Garrero, Jonny Wilkinson, Chris Hoy, Heather Knight, Troy Deeney
+- 2023-04-27 — 157: Sam Warburton (Pt 2) — speakers: Sam Warburton, Elis James, Mike Bubbins, Steff Garrero
+- 2023-04-25 — 157: Sam Warburton (Pt 1) — speakers: Sam Warburton, Elis James, Mike Bubbins, Steff Garrero
 - 2023-04-22 — Canton Warlord: PS22 — speakers: Canton Warlord, Elis James, Mike Bubbins, Steff Garrero
-- 2023-04-20 — 156: Most Of The Stones Left Unturned (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Ian Holloway, Mike Documentary, Glenn Webbe, Elis Books, John Smith
-- 2023-04-18 — 156: Most Of The Stones Left Unturned (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Ian Holloway, Mike Documentary, Glenn Webbe, Elis Books, John Smith
+- 2023-04-20 — 156: Most Of The Stones Left Unturned (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-04-18 — 156: Most Of The Stones Left Unturned (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-04-15 — Just Do Dirty Jokes: PS21 — speakers: Just Do Dirty Jokes, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-04-13 — 155: Some Of My Best Friends Are Trees (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Frank Bough, Good Sport, Sean Long
-- 2023-04-11 — 155: Some Of My Best Friends Are Trees (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Frank Bough, Good Sport, Sean Long
+- 2023-04-13 — 155: Some Of My Best Friends Are Trees (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-04-11 — 155: Some Of My Best Friends Are Trees (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-04-08 — See You In Strasbourg: PS20 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-04-06 — 154: *Doubles (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, Tessa Sanderson, Victor Ubogu, status Mike, Ken Sema, Nick Kyrgios
-- 2023-04-04 — 154: *Doubles (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, Tessa Sanderson, Victor Ubogu, status Mike, Ken Sema, Nick Kyrgios
+- 2023-04-06 — 154: *Doubles (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-04-04 — 154: *Doubles (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-04-01 — I'm Not Stig Of The Dump: PS19 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-03-30 — 153: I Will Make An Absolute Star Out Of That Cow There (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, site Mike, Ken Owens, Stuart Broad, Mike Documentary
-- 2023-03-28 — 153: I Will Make An Absolute Star Out Of That Cow There (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, site Mike, Ken Owens, Stuart Broad, Mike Documentary
+- 2023-03-30 — 153: I Will Make An Absolute Star Out Of That Cow There (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-03-28 — 153: I Will Make An Absolute Star Out Of That Cow There (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-03-26 — The Slide: PS18 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-03-24 — 152: A Circle Thank (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, site Mike, Lou Macari, Mike Book, Miles Jupp, Jordan Pickford
-- 2023-03-22 — 152: A Circle Thank (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, site Mike, Lou Macari, Mike Book, Miles Jupp, Jordan Pickford
+- 2023-03-24 — 152: A Circle Thank (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-03-22 — 152: A Circle Thank (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-03-19 — You Make Me Sick: PS17 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-03-17 — 151: Box Kicks To Nowhere (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero, site Mike, Duncan Ferguson, Hazal Nehir, Mark Hughes, Jamie Roberts
-- 2023-03-15 — 151: Box Kicks To Nowhere (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero, site Mike, Duncan Ferguson, Hazal Nehir, Mark Hughes, Jamie Roberts
+- 2023-03-17 — 151: Box Kicks To Nowhere (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-03-15 — 151: Box Kicks To Nowhere (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-03-12 — Torvill & Dean: PS16 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-03-10 — 150: Best Of Distant Pod 5 (Pt 2) — speakers: Arena Show, site Mike, Elis James, Mike Bubbins, Steff Garrero
-- 2023-03-08 — 150: Best Of Distant Pod 5 (Pt 1) — speakers: Arena Show, site Mike, Elis James, Mike Bubbins, Steff Garrero
+- 2023-03-10 — 150: Best Of Distant Pod 5 (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-03-08 — 150: Best Of Distant Pod 5 (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-03-05 — The Spray Tan: PS15 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-03-03 — 149: Carriages of Justice (Live at King's Place, London) (Pt 2) — speakers: site Mike, Leeds Utd, Weston McKennie, Matt Williams, Elis James, Mike Bubbins, Steff Garrero
-- 2023-03-01 — 149: Carriages of Justice (Live at King's Place, London) (Pt 1) — speakers: site Mike, Leeds Utd, Weston McKennie, Matt Williams, Elis James, Mike Bubbins, Steff Garrero
+- 2023-03-03 — 149: Carriages of Justice (Live at King's Place, London) (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-03-01 — 149: Carriages of Justice (Live at King's Place, London) (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-02-26 — They Are Massive: PS14 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-02-24 — 148: TODGERS (Live at King's Place, London) (Pt 2) — speakers: site Mike, Alex Ferguson, Elis James, Mike Bubbins, Steff Garrero
-- 2023-02-22 — 148: TODGERS (Live at King's Place, London) (Pt 1) — speakers: site Mike, Alex Ferguson, Elis James, Mike Bubbins, Steff Garrero
+- 2023-02-24 — 148: TODGERS (Live at King's Place, London) (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-02-22 — 148: TODGERS (Live at King's Place, London) (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-02-19 — They Turned Right At The Lights: PS13 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-02-17 — 147: Cwtchella (Pt 2) — speakers: site Mike, Mike Documentary, Kevin Stone, Frank Rothwell, Elis James, Mike Bubbins, Steff Garrero
-- 2023-02-15 — 147: Cwtchella (Pt 1) — speakers: site Mike, Mike Documentary, Kevin Stone, Frank Rothwell, Elis James, Mike Bubbins, Steff Garrero
-- 2023-02-12 — Late Night, Early Morning: PS12 — speakers: Annwyl Bloke Learn, Elis James, Mike Bubbins, Steff Garrero
-- 2023-02-10 — 146: Too Many Cooks Make Good Broth (Pt 2) — speakers: Elis James, Steff Garrero, Mike Book Superstars, Jack Clary, Judith Chalmers, Gary Player, Mike Bubbins
-- 2023-02-08 — 146: Too Many Cooks Make Good Broth (Pt 1) — speakers: Elis James, Steff Garrero, Mike Book, Judith Chalmers, Gary Player, Mike Bubbins
+- 2023-02-17 — 147: Cwtchella (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-02-15 — 147: Cwtchella (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-02-12 — Late Night, Early Morning: PS12 — speakers: Late Night, Early Morning, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2023-02-10 — 146: Too Many Cooks Make Good Broth (Pt 2) — speakers: Too Many Cooks Make, Good Broth, Elis James, Mike Bubbins, Steff Garrero
+- 2023-02-08 — 146: Too Many Cooks Make Good Broth (Pt 1) — speakers: Too Many Cooks Make, Good Broth, Elis James, Mike Bubbins, Steff Garrero
 - 2023-02-05 — Smoking Crack Is It Boys?: PS11 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-02-03 — 145: I’m Buying Sudocrem In Commercial Quantities (Pt 2) — speakers: Elis James, Steff Garrero, Scott Quinnell, Mark Hudson, rKNUvFxZI Elis, Johan Cruyff, Mike Bubbins
-- 2023-02-01 — 145: I’m Buying Sudocrem In Commercial Quantities (Pt 1) — speakers: Elis James, Steff Garrero, Scott Quinnell, Mark Hudson, rKNUvFxZI Elis, Johan Cruyff, Mike Bubbins
+- 2023-02-03 — 145: I’m Buying Sudocrem In Commercial Quantities (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-02-01 — 145: I’m Buying Sudocrem In Commercial Quantities (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-01-29 — There'll Have To Be Pipes: PS10 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-01-27 — 144: I Was Briefly In The Freemasons (Pt 2) — speakers: Elis James, Steff Garrero, Franco Harris, Peter Stead, Mike Bubbins
-- 2023-01-25 — 144: I Was Briefly In The Freemasons (Pt 1) — speakers: Elis James, Steff Garrero, Franco Harris, Peter Stead, Mike Bubbins
+- 2023-01-27 — 144: I Was Briefly In The Freemasons (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-01-25 — 144: I Was Briefly In The Freemasons (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-01-22 — Embarrassing Ways To Die: PS9 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-01-20 — 143: Milk Pod, Gloop Episode (Pt 2) — speakers: Elis James, Steff Garrero, Stuart Pearce, Mike Bubbins
-- 2023-01-18 — 143: Milk Pod, Gloop Episode (Pt 1) — speakers: Elis James, Steff Garrero, Mike Bubbins
+- 2023-01-20 — 143: Milk Pod, Gloop Episode (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-01-18 — 143: Milk Pod, Gloop Episode (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2023-01-15 — Sexey School: PS8 — speakers: Sexey School, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2023-01-13 — 142: Oh! Rich, Mun (Pt 2) — speakers: Elis James, Steff Garrero, Kareem Abdul Jabar, Mac Alister, Mike Bubbins
-- 2023-01-11 — 142: Oh! Rich, Mun (Pt 1) — speakers: Elis James, Steff Garrero, Mike Bubbins, JSOje-cF ASteff, Blue Peter
-- 2023-01-08 — Exchange Student: PS7 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2023-01-06 — 141: Little Tommy Two Kormas (Pt 2) — speakers: Tommy Two Kormas, Elis James, Steff Garrero, Chris Evans, Brian Clough, Jeremy Reaves, Mike Bubbins
-- 2023-01-04 — 141: Little Tommy Two Kormas (Pt 1) — speakers: Tommy Two Kormas, Elis James, Steff Garrero, Terry Venables, Mike Bubbins
+- 2023-01-13 — 142: Oh! Rich, Mun (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-01-11 — 142: Oh! Rich, Mun (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2023-01-08 — Exchange Student: PS7 — speakers: Exchange Student, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2023-01-06 — 141: Little Tommy Two Kormas (Pt 2) — speakers: Tommy Two Kormas, Elis James, Mike Bubbins, Steff Garrero
+- 2023-01-04 — 141: Little Tommy Two Kormas (Pt 1) — speakers: Tommy Two Kormas, Elis James, Mike Bubbins, Steff Garrero
 - 2023-01-01 — Risk & Reward: PS6 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2022-12-30 — 140: $illy (Pt 2) — speakers: Elis James, Steff Garrero, Tony Cotteys, David Brayley, Mike Bubbins
-- 2022-12-28 — 140: $illy (Pt 1) — speakers: Elis James, Steff Garrero, Mike Bubbins
+- 2022-12-30 — 140: $illy (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-12-28 — 140: $illy (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2022-12-25 — Wimbledon: PS5 — speakers: Sized Distant Pod, Happy Christmas, Elis James, Mike Bubbins, Steff Garrero
-- 2022-12-23 — 139: You’re Going To Actual Hell (Pt 2) — speakers: Elis James, Steff Garrero, Grant Whal, RdG Elis, Roy Keane, Mike Bubbins
-- 2022-12-21 — 139: You’re Going To Actual Hell (Pt 1) — speakers: Elis James, Steff Garrero, Bobby Robson, Mike Bubbins
+- 2022-12-23 — 139: You’re Going To Actual Hell (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-12-21 — 139: You’re Going To Actual Hell (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2022-12-18 — Taylforth: PS4 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2022-12-16 — 138: I’ll Be A Tooled Up Vegan Burglar On Mondays (Pt 2) — speakers: Elis James, Steff Garrero, Judith Hann, Mike Bubbins
-- 2022-12-14 — 138: I’ll Be A Tooled Up Vegan Burglar On Mondays (Pt 1) — speakers: Elis James, Steff Garrero, Barry Davies, Jack Leach, Mike Bubbins
+- 2022-12-16 — 138: I’ll Be A Tooled Up Vegan Burglar On Mondays (Pt 2) — speakers: Tooled Up Vegan Burglar, Elis James, Mike Bubbins, Steff Garrero
+- 2022-12-14 — 138: I’ll Be A Tooled Up Vegan Burglar On Mondays (Pt 1) — speakers: Tooled Up Vegan Burglar, Elis James, Mike Bubbins, Steff Garrero
 - 2022-12-11 — The Wankatron3000: PS3 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2022-12-09 — 137: A Great Idea And A Big Sack Of Cash (Pt 2) — speakers: Elis James, Steff Garrero, Steffi Graf, gW Elis, Mike Bubbins
-- 2022-12-07 — 137: A Great Idea And A Big Sack Of Cash (Pt 1) — speakers: Elis James, Steff Garrero, Mike Bubbins
+- 2022-12-09 — 137: A Great Idea And A Big Sack Of Cash (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-12-07 — 137: A Great Idea And A Big Sack Of Cash (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2022-12-04 — Mr Johnny: PS2 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2022-12-02 — 136: Who Are We Not Telling? The Tax Man (Pt 2) — speakers: Elis James, Steff Garrero, Harry Thompson, Allan Border, Mike Bubbins
-- 2022-11-30 — 136: Who Are We Not Telling? The Tax Man (Pt 1) — speakers: Elis James, Steff Garrero, Rainbow Bucket, Neco Williams, Mike Bubbins
+- 2022-12-02 — 136: Who Are We Not Telling? The Tax Man (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-11-30 — 136: Who Are We Not Telling? The Tax Man (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2022-11-27 — The Camping Stove: PS1 — speakers: Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2022-11-25 — 135: Berry Gordy Snaps Your ACL (Pt 2) — speakers: Berry Gordy Snaps, Mike Bubbins, Elis James, Steff Garrero, Sarah Hunter, Martyn Thomas
-- 2022-11-23 — 135: Berry Gordy Snaps Your ACL (Pt 1) — speakers: Berry Gordy Snaps, Mike Bubbins, Elis James, Steff Garrero, Paul Thorburn
-- 2022-11-18 — 134: He Knows Exactly Where His Life Jacket Is (Pt 2) — speakers: Mike Bubbins, Elis James, Steff Garrero, Charlie Wilett, Geraint Thomas
-- 2022-11-16 — 134: He Knows Exactly Where His Life Jacket Is (Pt 1) — speakers: Mike Bubbins, Elis James, Steff Garrero, Charlie Wilett, Rob Page, Jack Grealish
-- 2022-11-08 — 133: A Sponge On A Stick — speakers: Mike Bubbins, Elis James, Steff Garrero, Daniel Williamson, Ruud Van Nistelroy, Rio Mitchum, Mike Clip
-- 2022-11-01 — 132: Shouting Up The Chimney — speakers: Elis James, Steff Garrero, Max Baer, Barney Ross, gL WC, Danny Cipriani, John Devereaux, Mike Bubbins
-- 2022-10-24 — 131: When The Pears Are Nice, Eat All Of Them — speakers: Elis James, Steff Garrero, Rory Smith, Tony Adams, Katya Jones, Bob Mortimer, Sean Hughes, Mike Bubbins
-- 2022-10-17 — 130: Or I Could Just Drive You — speakers: Elis James, Steff Garrero, Mike Clip, Jess Fishlock, Mike Bubbins
-- 2022-10-10 — 129: Thank God For Roy Keane — speakers: Roy Keane Steff, Mike Bubbins, Elis James, Steff Garrero, Eddie Butler, Nfl Show
-- 2022-10-03 — 128: You Ruin All Of This Goodwill In Two And A Half Years Time With One Truly Horrific Tweet — speakers: Mike Bubbins, Elis James, Steff Garrero, Steven Scragg, Mark Noble’s Neighbour, Mike Clip
-- 2022-09-26 — 127: If You Put A Gun To My Head I’d Have To Say Caravaggio — speakers: Mike Bubbins, Elis James, Steff Garrero, Mary Peters Heide, Phil Bennett, Peter Wright
-- 2022-09-19 — 126: You’d Think I Was Trying To Decipher The Rosetta Stone — speakers: Mike Bubbins, Elis James, Steff Garrero, Richard Herring, php id, Dickie Bird Autobiography, Bobby Knight, Gaelic Football
-- 2022-09-12 — 125: Twelve Pint Mike — speakers: Mike Bubbins, Elis James, Steff Garrero, Richard Herring, php id, Aidan Williams, Steve Davis, Tom Brady
-- 2022-09-05 — 124: Shakespeare At The Castle, What A Farce — speakers: Mike Bubbins, Elis James, Steff Garrero, Richard Herring, php id, Savannah Marshall, Claressa Shields
-- 2022-08-29 — 123: The Party Line — speakers: Mike Bubbins, Elis James, Steff Garrero, Robert Whiting, St Helen, Mick Morgan, Leon Edwards, Ufc Title
-- 2022-08-22 — 122: Smooth, Like A Fruit Bowl From Habitat — speakers: Mike Bubbins, Elis James, Steff Garrero, Harry Pearson, Cindy Sember, Jordan Spieth, kTAH Elis
-- 2022-08-15 — 121: Trust Your Body — speakers: Mike Bubbins, Elis James, Steff Garrero, Jonathan Wilson, Gary Lineker, Jake Wightmans Dad
-- 2022-08-08 — 120: That’s Earnie From The Two Ronnies — speakers: Mike Bubbins, Elis James, Steff Garrero, Van Basten, Alex Falase-Koya, Shelly-Ann Fraser-Pryce, Mike Clip
-- 2022-08-01 — 119: His and Hers Matching Porn Rooms — speakers: Mike Bubbins, Elis James, Steff Garrero, Mackey Story, Mike Book Choice, Mike Pearce, BIajBbbtgbs Steff, Eden Hazard
+- 2022-11-25 — 135: Berry Gordy Snaps Your ACL (Pt 2) — speakers: Berry Gordy Snaps, Elis James, Mike Bubbins, Steff Garrero
+- 2022-11-23 — 135: Berry Gordy Snaps Your ACL (Pt 1) — speakers: Berry Gordy Snaps, Elis James, Mike Bubbins, Steff Garrero
+- 2022-11-18 — 134: He Knows Exactly Where His Life Jacket Is (Pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-11-16 — 134: He Knows Exactly Where His Life Jacket Is (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-11-08 — 133: A Sponge On A Stick — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-11-01 — 132: Shouting Up The Chimney — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-10-24 — 131: When The Pears Are Nice, Eat All Of Them — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-10-17 — 130: Or I Could Just Drive You — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-10-10 — 129: Thank God For Roy Keane — speakers: Roy Keane Steff, Elis James, Mike Bubbins, Steff Garrero
+- 2022-10-03 — 128: You Ruin All Of This Goodwill In Two And A Half Years Time With One Truly Horrific Tweet — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-09-26 — 127: If You Put A Gun To My Head I’d Have To Say Caravaggio — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-09-19 — 126: You’d Think I Was Trying To Decipher The Rosetta Stone — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-09-12 — 125: Twelve Pint Mike — speakers: Twelve Pint Mike Steff, New York Marathon, Elis James, Mike Bubbins, Steff Garrero
+- 2022-09-05 — 124: Shakespeare At The Castle, What A Farce — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-08-29 — 123: The Party Line — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-08-22 — 122: Smooth, Like A Fruit Bowl From Habitat — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-08-15 — 121: Trust Your Body — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-08-08 — 120: That’s Earnie From The Two Ronnies — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-08-01 — 119: His and Hers Matching Porn Rooms — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2022-07-27 — Bonus: Down The Clubhouse Trailer — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2022-07-25 — 118: Wooing A Woman Made Of Flowers — speakers: Mike Bubbins, Elis James, Steff Garrero, John Cruyff
-- 2022-07-18 — 117: Use Your Probes On Newbon — speakers: Mike Bubbins, Elis James, Steff Garrero, John Barnes, John Aldridge, Filbert Bayi, Ian Wight
-- 2022-07-11 — Best of Distant Pod 4 — speakers: Mike Bubbins, Elis James, Steff Garrero
-- 2022-07-04 — 116: Tim, I’m Leaving The Charlatans To Join the Beatles — speakers: Mike Bubbins, Elis James, Steff Garrero, Mike’s Tour, Suzy Wrack, Jess Fishlock, amy Elis, Marie-Antoinette Katoto
-- 2022-06-27 — 115: You’re On Drugs, Old Man — speakers: Mike Bubbins, Elis James, Steff Garrero, Orny Adams, Roger Federer, Mike Clip
-- 2022-06-20 — 114: I’m Gonna Be In Trouble Now For Losing A Card — speakers: Elis James, Steff Garrero, Phil Bennett, Phi Bennett, Graham Thomas, Eddie Butler, Phil Bennet, Mike Bubbins
+- 2022-07-25 — 118: Wooing A Woman Made Of Flowers — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-07-18 — 117: Use Your Probes On Newbon — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-07-11 — Best of Distant Pod 4 — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2022-07-04 — 116: Tim, I’m Leaving The Charlatans To Join the Beatles — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-06-27 — 115: You’re On Drugs, Old Man — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2022-06-20 — 114: I’m Gonna Be In Trouble Now For Losing A Card — speakers: Elis James, Steff Garrero, Mike Bubbins
 - 2022-06-15 — Distant Pod Father's Day Deals — speakers: Distant Pod Father, Day Deals Hi, Day Deal, Elis James, Mike Bubbins, Steff Garrero
-- 2022-06-13 — 113: I Know It’s Only Bits — speakers: Elis James, Mike Bubbins, Comic Steff Garrero, First Round, Joe Cordina, Steff Garrero
-- 2022-06-06 — 112: Weather Guessers — speakers: Michael Lewis, Evel Knievel, Manchester United, Elis James, Mike Bubbins, Steff Garrero
-- 2022-05-30 — 111: You Don’t Look At The Tele When You’re Texting — speakers: First Round, Jonathan Phillips, Jack Grealish, Club Videos, Elis James, Mike Bubbins, Steff Garrero
+- 2022-06-13 — 113: I Know It’s Only Bits — speakers: Elis James, Mike Bubbins, Comic Steff Garrero, Steff Garrero
+- 2022-06-06 — 112: Weather Guessers — speakers: Weather Guessers Head, Distant Pod Shop, Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2022-05-30 — 111: You Don’t Look At The Tele When You’re Texting — speakers: Texting Head, Distant Pod Shop, Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2022-05-27 — Admiral x Distant Pod: OUT NOW — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2022-05-23 — 110: I Came, I Saw, I Coasted — speakers: Steven Scragg, Bruce Buffer, Elis James, Mike Bubbins, Steff Garrero
-- 2022-05-19 — Introducing: The Demon Seed — speakers: Dark Secret, Mike Bubbins, John Rutledge, Hosted ByMike Bubbins, John RutledgeLearn, Elis James, Steff Garrero
-- 2022-05-16 — 109: It’s A Lot Smaller, But A Lot Harder — speakers: Dave Doodlemoose, Mike Clip, Elis James, Mike Bubbins, Steff Garrero
-- 2022-05-09 — 108: You Throw Like A 120 Year Old Man — speakers: Barry Johnston, Adam Ricketts, Katie Taylor, Amanda Serrano, Joe Rodon, Ben Davies, Luton Town, Elis James
+- 2022-05-23 — 110: I Came, I Saw, I Coasted — speakers: Coasted Head, Distant Pod Shop, Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2022-05-19 — Introducing: The Demon Seed — speakers: Dark Secret, Elis James, Mike Bubbins, Steff Garrero
+- 2022-05-16 — 109: It’s A Lot Smaller, But A Lot Harder — speakers: Lot Smaller, Lot Harder Head, Distant Pod Shop, Elis James, Mike Bubbins, Steff Garrero
+- 2022-05-09 — 108: You Throw Like A 120 Year Old Man — speakers: Year Old Man If, Elis James, Mike Bubbins, Steff Garrero
 - 2022-05-02 — The Best of Michael Owen's Movie Club — speakers: Michael Owen, Elis James, Mike Bubbins, Steff Garrero
-- 2022-04-25 — 107: Sugar Cubes And Chill — speakers: Duncan Ferguson, Connor Griffiths, Mark Williams, Elis James, Mike Bubbins, Steff Garrero
-- 2022-04-18 — 106: Feeding The Rabbits — speakers: Netflix Losers, Pat Butcher, Gary Lineker, Elis James, Mike Bubbins, Steff Garrero
-- 2022-04-11 — 105: End Of The Road — speakers: Hana Walker-Brown, John Noakes, Louis Van Gaal, Elis James, Mike Bubbins, Steff Garrero
-- 2022-04-04 — 104: A Really Sharp Hat — speakers: Dafydd Iwan, Moustapha Cisse, Elis James, Mike Bubbins, Steff Garrero
-- 2022-03-28 — 103: There Are More Deer In This Country Than There Were In The Days Of King Henry VIII. Fact. — speakers: David Matthews, Elis James, Mike Bubbins, Steff Garrero
-- 2022-03-22 — 102: Listen To You With Your Chilean Merlot — speakers: Nicolas Dawidoff, Kevin Keegan, Menna Fitzpatrick, Liam Livingstone, Mike Clip, Tadgh Furlong, Mark Wood, Elis James
-- 2022-03-15 — 101: Bowling Warnie — speakers: Shane Warne, Gideon Haigh, Ricky Ponting, Ian Healy, xa Steff, Elis James, Mike Bubbins, Steff Garrero
-- 2022-03-08 — 100: The Dick, Kerr Ladies Social Media Department — speakers: Hillary Allen, Botille Vette-Welsh, Ms Fitz, Elis James, Mike Bubbins, Steff Garrero
-- 2022-03-01 — 99: Tell Me About Cantre'r Gwaelod Again Richard — speakers: Richard Vote, James Stafford, Richard Burton, Liz Taylor, Jimmy Watkins, Running Punks, Llwelyn Williams, Mike Clip
-- 2022-02-25 — Introducing: The Joe Marler Show — speakers: Distant Podders, Joe Marler, Elis James, Mike Bubbins, Steff Garrero
-- 2022-02-22 — 98: You’re Sitting On My Catheter — speakers: Gordon Strachan, Bobby Jones, Bobby Robson, Ron Saunders, Elis James, Mike Bubbins, Steff Garrero
-- 2022-02-15 — 97: I’d Rather Be a Eunuch — speakers: David Crystal, Adrian Clifton, Shot Putter, Werner Gunthor, BrYjHk ktuoElis, Alex Ferguson, Mike Clip, Bill Murray
-- 2022-02-08 — 96: Any Blood In Your Semen? — speakers: Jack Nicklaus, Matthew Stafford, Elis James, Mike Bubbins, Steff Garrero
-- 2022-02-01 — 95: A Black Cowboy Shirt With White Pearl Buttons And A Red Paisley Yoke. With A Bootlace Tie With A Big Eagle On It. — speakers: Sue Anstiss, Richard Hibbard, Graham Stack, Mike Clip, Tim Rosaforte, Harry Redknapp, Elis James, Mike Bubbins
-- 2022-01-25 — 94: Grubs and Slobs — speakers: JczVtaRi nASteff Clip, Clara Hughes medalist, John Higgins, Mark Williams, Max Rushden, Scott Boland, Pat Cummins, Elis James
-- 2022-01-18 — 93: Carry On Up The Butts — speakers: Mickey Thomas Kick-ups, Andy Carroll, Mike Rayer, Ieuan Evans, Mark Williams, Elis James, Mike Bubbins, Steff Garrero
-- 2022-01-11 — 92: The Gold Blenders — speakers: Elis James, Mike Bubbins, Steff Garrero, James Brown, James Brian Moore, Mike Clip
-- 2022-01-04 — 91: Bilbo Bubbins — speakers: Elis James, Mike Bubbins, Steff Garrero, EHWlOAFirst Round, Sam Kerr, Mike Clip
-- 2021-12-28 — 90: From Russia With Bubbs — speakers: Elis James, Mike Bubbins, Steff Garrero, Steve Fenwick, Welsh Bobsleigh, Billy Vunipola, Steve Bull, David Michael
-- 2021-12-21 — 89: The Cat Will Think It’s a Worm And Try To Eat It — speakers: Tom Pages, MnFirst Round, Mike Clip, Steve Ford, Elis James, Mike Bubbins, Steff Garrero
-- 2021-12-14 — 88: You Trample The Dead… You Hurdle The Weak… — speakers: Elis James, Mike Bubbins, Steff Garrero, Carl Frampton, Mike Clip
-- 2021-12-07 — 87: Harry Potter and the Goblet of Puke — speakers: Mike Bubbins, Steff Garrero, Jordan Mailata, Steff Clip, Kevin Sinfield, Elis James
-- 2021-12-06 — Introducing: The Moon Under Water — speakers: John Robins, Robin Allender, Mike Bubbins, Elis James, Steff Garrero
-- 2021-11-30 — 86: Bitten By A Radioactive Sandy Lyle — speakers: Sandy Lyle, Elis James, Mike Bubbins, Steff Garrero, Peter Cossins, Man Utd
-- 2021-11-23 — 85: Ulster Hall, Belfast (a) — speakers: Ulster Hall, Elis James, Mike Bubbins, Steff Garrero, Jimmy Nesbitt, Rory McIlroy
-- 2021-11-16 — 84: The Alexandra Theatre, Birmingham (a) — speakers: Geraint Jones, Elis James, Mike Bubbins, Steff Garrero
-- 2021-11-09 — 83: The EICC, Edinburgh (a) — speakers: Alan Wells Commonwealth, Elis James, Mike Bubbins, Steff Garrero
-- 2021-11-02 — 82: Tyne Theatre & Opera House, Newcastle (a) — speakers: Geordie Boys, Peter Beardsley World, Elis James, Mike Bubbins, Steff Garrero
-- 2021-10-25 — 81: The New Theatre, Cardiff (h) 3rd Leg — speakers: Sorba Thomas, Malcolm Allen, Elis James, Mike Bubbins, Steff Garrero
-- 2021-10-18 — 80: The New Theatre, Cardiff (h) 2nd Leg — speakers: Ray French, HvVAoCu epYSteff, Angharad James, Elis James, Mike Bubbins, Steff Garrero
-- 2021-10-11 — 79: The New Theatre, Cardiff (h) 1st Leg — speakers: Clive Sullivan, Geoff Capes, Elis James, Mike Bubbins, Steff Garrero
-- 2021-10-04 — 78: Salford: The Lowry (a) — speakers: Motorpoint Arena, Gary Neville, Elis James, Mike Bubbins, Steff Garrero
-- 2021-09-27 — 77: Hackney Empire (a) 2nd Leg — speakers: Hackney Empire, Motorpoint Arena, Demba Ba, Jazmin Joyce, Jimmy Greaves, Elis James, Mike Bubbins, Steff Garrero
-- 2021-09-20 — 76: Hackney Empire (a) 1st Leg — speakers: Hackney Empire, Paul Thorburn, Jimmy Greaves, Elis James, Mike Bubbins, Steff Garrero
-- 2021-09-13 — 75: Gangsters Can Be Good Dads Too — speakers: Rob Burrow, Turbo Tommy, Stuart Pearce, Brian Johnson, Elis James, Mike Bubbins, Steff Garrero
-- 2021-09-06 — 74: I Am The Catman — speakers: Roy Keane, Imran Tahir, Cathy Freeman, Sydney Olympics, Elis James, Mike Bubbins, Steff Garrero
-- 2021-08-30 — Best Of Distant Pod 3 — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
-- 2021-08-23 — 73: This Is Our Live Aid — speakers: Richard Moore, Steff Clip, Brian McClair, Elis James, Mike Bubbins, Steff Garrero
+- 2022-04-25 — 107: Sugar Cubes And Chill — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-04-18 — 106: Feeding The Rabbits — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-04-11 — 105: End Of The Road — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-04-04 — 104: A Really Sharp Hat — speakers: Really Sharp Hat Steff, Documentary Choice, Spirit Game, Elis James, Mike Bubbins, Steff Garrero
+- 2022-03-28 — 103: There Are More Deer In This Country Than There Were In The Days Of King Henry VIII. Fact. — speakers: Documentary Cho, Elis James, Mike Bubbins, Steff Garrero
+- 2022-03-22 — 102: Listen To You With Your Chilean Merlot — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-03-15 — 101: Bowling Warnie — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-03-08 — 100: The Dick, Kerr Ladies Social Media Department — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-03-01 — 99: Tell Me About Cantre'r Gwaelod Again Richard — speakers: Richard Vote, Elis James, Mike Bubbins, Steff Garrero
+- 2022-02-25 — Introducing: The Joe Marler Show — speakers: Distant Podders, Elis James, Mike Bubbins, Steff Garrero
+- 2022-02-22 — 98: You’re Sitting On My Catheter — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-02-15 — 97: I’d Rather Be a Eunuch — speakers: Eunuch Vote, Elis James, Mike Bubbins, Steff Garrero
+- 2022-02-08 — 96: Any Blood In Your Semen? — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-02-01 — 95: A Black Cowboy Shirt With White Pearl Buttons And A Red Paisley Yoke. With A Bootlace Tie With A Big Eagle On It. — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-01-25 — 94: Grubs and Slobs — speakers: Slobs Join, Elis James, Mike Bubbins, Steff Garrero
+- 2022-01-18 — 93: Carry On Up The Butts — speakers: Butts Join, Elis James, Mike Bubbins, Steff Garrero
+- 2022-01-11 — 92: The Gold Blenders — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2022-01-04 — 91: Bilbo Bubbins — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-12-28 — 90: From Russia With Bubbs — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-12-21 — 89: The Cat Will Think It’s a Worm And Try To Eat It — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-12-14 — 88: You Trample The Dead… You Hurdle The Weak… — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-12-07 — 87: Harry Potter and the Goblet of Puke — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-12-06 — Introducing: The Moon Under Water — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-11-30 — 86: Bitten By A Radioactive Sandy Lyle — speakers: Sandy Lyle, Elis James, Mike Bubbins, Steff Garrero
+- 2021-11-23 — 85: Ulster Hall, Belfast (a) — speakers: Ulster Hall, Elis James, Mike Bubbins, Steff Garrero
+- 2021-11-16 — 84: The Alexandra Theatre, Birmingham (a) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-11-09 — 83: The EICC, Edinburgh (a) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-11-02 — 82: Tyne Theatre & Opera House, Newcastle (a) — speakers: Tyne Theatre, Opera House, Elis James, Mike Bubbins, Steff Garrero
+- 2021-10-25 — 81: The New Theatre, Cardiff (h) 3rd Leg — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-10-18 — 80: The New Theatre, Cardiff (h) 2nd Leg — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-10-11 — 79: The New Theatre, Cardiff (h) 1st Leg — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-10-04 — 78: Salford: The Lowry (a) — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-09-27 — 77: Hackney Empire (a) 2nd Leg — speakers: Hackney Empire, Elis James, Mike Bubbins, Steff Garrero
+- 2021-09-20 — 76: Hackney Empire (a) 1st Leg — speakers: Hackney Empire, Elis James, Mike Bubbins, Steff Garrero
+- 2021-09-13 — 75: Gangsters Can Be Good Dads Too — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-09-06 — 74: I Am The Catman — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-08-30 — Best Of Distant Pod 3 — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-08-23 — 73: This Is Our Live Aid — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2021-08-16 — 72: Michael Owen's Movie Club: Field of Dreams — speakers: Michael Owen, Elis James, Mike Bubbins, Steff Garrero
-- 2021-08-09 — 71: A Million Bees — speakers: Luke Treharne, Andy Murray, Elis James, Mike Bubbins, Steff Garrero
-- 2021-08-03 — 70: Failed P.E. Teacher I Am — speakers: com Elis, Elis James, Mike Bubbins, Steff Garrero
-- 2021-07-27 — 69: Cofficionado — speakers: LsNBA XwXU, Pcdc First, Michael Johnson, Jqi Elis, Bobby Robson, Carl Lewis, Mike Powell, Elis James
-- 2021-07-19 — 68: Saluting the Urn — speakers: Marcus Smith, John Akhwari, Tom O'Flaherty, Elis James, Mike Bubbins, Steff Garrero
+- 2021-08-09 — 71: A Million Bees — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-08-03 — 70: Failed P.E. Teacher I Am — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-07-27 — 69: Cofficionado — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-07-19 — 68: Saluting the Urn — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2021-07-12 — 67: Are You Not Looking At My Missus? — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2021-07-05 — 66: Outsprinting Mozart — speakers: UXdJOlFirst Round, John Charles, Elis James, Mike Bubbins, Steff Garrero
-- 2021-06-28 — 65: Absolutely Ingrammed — speakers: Joe Rodon, Carl Nassib, Gareth Bale, Elis James, Mike Bubbins, Steff Garrero
-- 2021-06-21 — 64: Dick and Willy Seaman — speakers: Willy Seaman, Richard Williams, Colin McCrae, Kasper Schmeichel, Elis James, Mike Bubbins, Steff Garrero
-- 2021-06-14 — 63: I’m a Bonnie Tyler/Snooker/White Dog Poo/Tommy Cooper SuperFan — speakers: Bonnie Tyler Snooker, Tommy Cooper SuperFan, Elis James, Pat Nevin, George Best, John Barnes, Ricky Hatton, Mike Bubbins
-- 2021-06-07 — 62: Annwyl Bloke — speakers: Steve Bunce, Joe Marler, Elis James, Mike Bubbins, Steff Garrero
-- 2021-05-31 — 61: Laughterhouse-Five — speakers: Gordon’s Game, First Round, Harry Redknapp, Tony Bellew, Gary Lineker, Al Charron, Alan Shearer, Elis James
-- 2021-05-24 — 60: “So I Did: The Peter Shilton Story” — speakers: Andrea Pirlo, Swindon Town, Stuart Pearce, David James, Elis James, Mike Bubbins, Steff Garrero
-- 2021-05-17 — 59: Meet My Family: Rusty, Cheeky, Dirty, Smelly, Complete, Massive & Hard — speakers: Craig Bellamy, Karren Brady, Alun Evans, Ian McGeechan, George Best, Elis James, Mike Bubbins, Steff Garrero
-- 2021-05-10 — 58: What Good’s That To Me? — speakers: Elis James, Mike Bubbins, Steff Garrero, Roger Daltrey, Nigel Kennedy, John Lennon, Keith Cooper, Emlyn Hughes
-- 2021-05-03 — 57: Shower When Necessary — speakers: Necessary Mike, Bobby Moore Look, James Simpson, Elis James, Mike Bubbins, Steff Garrero
-- 2021-04-26 — 56: Taking Pyjamas to a Nightclub — speakers: Taking Pyjamas, Stuart Cosgrove, David Fairclough, Danny McAlinden, Duncan Ferguson, Elis James, Mike Bubbins, Steff Garrero
-- 2021-04-19 — 55: David Ginola. The Handsome Bastard. — speakers: David Ginola, Handsome Bastard, Ellen MacArthur, Dougie Smith, Alex Scott, Rachel Atherton, Alex Murphy, Hm PZShwwMElis
-- 2021-04-12 — 54: British Dessert Tie — speakers: Elis James, Mike Bubbins, Steff Garrero, Jonathan Wilson, Gordon Strachan, Arsene Wenger, Second Round
-- 2021-04-05 — 53: Barry McGuigan — speakers: Barry McGuigan, Elis James, Mike Bubbins, Steff Garrero, Shelina Janmohamed, Martin Compson, Jonny Williams, Amy Williams
-- 2021-03-29 — 52: You've Got Your Piggles, Your Daisies, Your Boos, Your Pakkas — speakers: Elis James, Mike Bubbins, Steff Garrero, Francesco Totti, Joe Frazier, com distantpodElis, Frank Worthington
-- 2021-03-23 — 51: The Jane & Finch Candle Company — speakers: Mike Bubbins, Steff Garrero, Sabine Schmitz, KiC wVjcSteff, Phil Vickery, Tony Sibson, BzF feNYiYElis, Linford Christie
-- 2021-03-16 — 50: #JusticeforCnut — speakers: JusticeforCnut Mike Bubbins, Elis James, Steff Garrero, Martha Ackmann, Katherine Switzer, Rose Reilly, Flo Jo, Martina Navratilova
-- 2021-03-09 — 49: Hopeless. Romantic. — speakers: Elis James, Mike Bubbins, Steff Garrero, Muhammad Ali, David Remnick, Lou Reed, Spurs Ballboy, Kick Science
-- 2021-03-02 — 48: Paper Pants — speakers: Mike Bubbins, Elis James, Steff Garrero, False Nines, Michael Cox, Mike Kearney, Stephen Garcia, Eric Morecombe
-- 2021-02-23 — 47: Top Vocal Act from the East — speakers: Mike Bubbins, Elis James, Steff Garrero, Tom Anderson, Willis Halaholo, Tom Dumoulin, Roger Milla
-- 2021-02-16 — 46: The Referee's a Plonker — speakers: Mike Bubbins, Elis James, Steff Garrero, Secret Sins, Russell Davies, Robot Hole, Dan James, Calon Lan
-- 2021-02-09 — 45: Stealing a Living — speakers: Mike Bubbins, Elis James, Steff Garrero, Steven Gerrard, Sean Taylor, Gerald Cordle, Martin Offiah, Will Carling
-- 2021-02-02 — 44: Very Blue Danube — speakers: Elis James, Steff Garrero, Scott Quinnell, MQ CnbhsElis, Jonathan Pearce, Eric Cantona, fu kick, Mike Bubbins
-- 2021-01-26 — 43: No Woman, No Cry, Dai — speakers: Mike Bubbins, Steff Garrero, Bob Marley, Jack Charlton, LeRoy Butler, George Best, youtube com, Chris Fairclough
-- 2021-01-19 — 42: Minestrone Soup and Soldiers — speakers: Elis James, Steff Garrero, Adam Hurrey, Liam Williams, status Mike, Brett Lee, Derek Chisora, Mike Bubbins
-- 2021-01-12 — 41: I Blame Vic — speakers: Elis James, Steff Garrero, Mike’s Documentary, Colin Bell, Mike Bubbins
-- 2021-01-05 — 40: To Feet Terry — speakers: Mike Bubbins, Elis James, Steff Garrero, Chris Needs, Jeff Benedict, Mitchell Johnson Golden Duck
+- 2021-07-05 — 66: Outsprinting Mozart — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-06-28 — 65: Absolutely Ingrammed — speakers: Absolutely Ingrammed, Elis James, Mike Bubbins, Steff Garrero
+- 2021-06-21 — 64: Dick and Willy Seaman — speakers: Willy Seaman, Elis James, Mike Bubbins, Steff Garrero
+- 2021-06-14 — 63: I’m a Bonnie Tyler/Snooker/White Dog Poo/Tommy Cooper SuperFan — speakers: Bonnie Tyler Snooker, Tommy Cooper SuperFan, Elis James, Mike Bubbins, Steff Garrero
+- 2021-06-07 — 62: Annwyl Bloke — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-05-31 — 61: Laughterhouse-Five — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-05-24 — 60: “So I Did: The Peter Shilton Story” — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-05-17 — 59: Meet My Family: Rusty, Cheeky, Dirty, Smelly, Complete, Massive & Hard — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-05-10 — 58: What Good’s That To Me? — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-05-03 — 57: Shower When Necessary — speakers: Necessary Mike, Elis James, Mike Bubbins, Steff Garrero
+- 2021-04-26 — 56: Taking Pyjamas to a Nightclub — speakers: Taking Pyjamas, Elis James, Mike Bubbins, Steff Garrero
+- 2021-04-19 — 55: David Ginola. The Handsome Bastard. — speakers: David Ginola, Handsome Bastard, Elis James, Mike Bubbins, Steff Garrero
+- 2021-04-12 — 54: British Dessert Tie — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-04-05 — 53: Barry McGuigan — speakers: Barry McGuigan, Elis James, Mike Bubbins, Steff Garrero
+- 2021-03-29 — 52: You've Got Your Piggles, Your Daisies, Your Boos, Your Pakkas — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-03-23 — 51: The Jane & Finch Candle Company — speakers: Mike Bubbins, Steff Garrero, Elis James
+- 2021-03-16 — 50: #JusticeforCnut — speakers: JusticeforCnut Mike Bubbins, Elis James, Steff Garrero, Mike Bubbins
+- 2021-03-09 — 49: Hopeless. Romantic. — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-03-02 — 48: Paper Pants — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2021-02-23 — 47: Top Vocal Act from the East — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2021-02-16 — 46: The Referee's a Plonker — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2021-02-09 — 45: Stealing a Living — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2021-02-02 — 44: Very Blue Danube — speakers: Doddie Weir Foundation, Elis James, Mike Bubbins, Steff Garrero
+- 2021-01-26 — 43: No Woman, No Cry, Dai — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2021-01-19 — 42: Minestrone Soup and Soldiers — speakers: Minestrone Soup, Doddie Weir Foundation, Elis James, Mike Bubbins, Steff Garrero
+- 2021-01-12 — 41: I Blame Vic — speakers: Doddie Weir Foundation, Elis James, Mike Bubbins, Steff Garrero
+- 2021-01-05 — 40: To Feet Terry — speakers: Mike Bubbins, Elis James, Steff Garrero, Chris Needs
 - 2020-12-29 — Best Of Distant Pod 2 — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2020-12-29 — Best Of Distant Pod 1 — speakers: Elis James, Mike Bubbins, Steff Garrero
-- 2020-12-22 — 39: I Couldn’t Bare to Think of You Eating Cold Beans — speakers: Mike Bubbins, Elis James, Steff Garrero, Boris Becker, Andre Agassi
-- 2020-12-15 — 38: Sex and Lions — speakers: Elis James, Mike Bubbins, Steff Garrero, Simon Jones, Geraint Thomas, Adam Bushby, Rob MacDonald, Peter Alliss
-- 2020-12-08 — 37: Giving Geraint Thomas a Backie — speakers: Giving Geraint Thomas, Mike Bubbins, Elis James, Steff Garrero, Geraint Thomas, Herbert Sutcliffe, St Helens
-- 2020-12-01 — 36: The Famous Dennis Catering DistantPod — speakers: Elis James, Mike Bubbins, Steff Garrero, Gary O’Donovan, Jimmy Wilde, Park Si Hun, Dele Alli
-- 2020-11-24 — 35: Shunkies — speakers: Mike Bubbins, Elis James, Steff Garrero, Buffalo Bills, Robert O'Connor, Fernando Torres, Dick Fosbury
-- 2020-11-17 — 34: Doing it for Free — speakers: Elis James, Mike Bubbins, Steff Garrero, Macaque Attack, Michael Owen, John Madden, Peter Richmond, Dean Jones
-- 2020-11-10 — 33: If You’ve Got Something To Say To Me, Say It To My Face — speakers: Elis James, Mike Bubbins, Steff Garrero, Denis Law, Man Utd, Iwan Thomas, Jamie Baulch, Anthony Joshua
-- 2020-11-03 — 32: Sexual Smorgasbord #Sport — speakers: Sport Mike Bubbins, Elis James, Steff Garrero, Maurice Flitcroft, Rick Telander, Stuart Pearce, Geoffrey Boycott, Deaney goal Watford
-- 2020-10-27 — 31: Remind Me of Your Name — speakers: Elis James, Mike Bubbins, Steff Garrero, Rob Steen, Tommy Lawrence, Jason McAteer, Brian Clough
-- 2020-10-19 — 30: Semen World of Sport — speakers: Mike Bubbins, Elis James, Steff Garrero, Brian Flynn, Little Wonder, Leon Barton, Jimmy Wilde
-- 2020-10-12 — 29: Hindu or Hin Don't — speakers: Mike Bubbins, Elis James, Steff Garrero, Kevin Keegan, Simon Hughes, Darts Fart, Nigel Benn, Chris Eubank
-- 2020-10-05 — 28: Mo & Elv — speakers: Mike Bubbins, Elis James, Steff Garrero, Kick Off, David Brayley, James Hook, Jack Nicklaus, Gary Player
-- 2020-09-28 — 27: Spielberg: Catch Me If You Can — speakers: Elis James, Mike Bubbins, Steff Garrero, Mike’s Wales Schoolboy, Joe Rogan, Leighton Rees, Phil Stead, Gavin Henson
-- 2020-09-21 — 26: We Cannot Be Serious — speakers: Mike Bubbins, Elis James, Steff Garrero, Steve Peters, John McEnroe, John Williams, Michael Jordan, dxS SYcOzNcSteff
-- 2020-09-14 — 25: A Room With a View — speakers: Mike Bubbins, Elis James, Steff Garrero, Horrid Henry, Carwyn James, Alex Cassidy, Rene HiguitaThe, Kevin Pieterson
-- 2020-09-07 — 24: Getting off with Iain Dowie — speakers: Mike Bubbins, Elis James, Steff Garrero, Ray Reardon, Johnny Marr, MArtin Johnes, Ali Dia, cricket Elis
-- 2020-08-31 — 23: Love Caldey Island — speakers: Mike Bubbins, Elis James, Steff Garrero, Sonny Pike, Mike’s Choice, Andrew Downie, Marcelo Bielsa
-- 2020-08-24 — 22: The Redemption of Peter Reid — speakers: Peter Reid, Elis James, Mike Bubbins, Steff Garrero, Sergey Bubka, Howard’s Way, Adam Ondra, Eric Cantona
-- 2020-08-17 — 21: Sohcahtoa, Sohcahtoa! — speakers: David Rudisha Gold, Nancy Kerrigan, Tonya Harding, David Campese, Elis James, Mike Bubbins, Steff Garrero
-- 2020-08-10 — 20: The Four Piece Bathroom Suite — speakers: Steff Garrero, Elis James, Mike Bubbins, Scott Jurek, Castleford Wigan, stoJJ NoSteff, Ieuan Evans, Millionaire Pitcher
-- 2020-08-03 — 19: On My Mother's Life — speakers: Elis James, Steff Garrero, Mike’s Choice, Paolo Hewitt Paul McGuigan, Tina Turner, ok IElis, Greg Lemond, Larry Merchant
-- 2020-07-27 — 18: Ripped Like a Chimp — speakers: Mike Bubbins, Elis James, Steff Garrero, Tony Bellew, Brian Close, Geraint Thomas, John Toshack
-- 2020-07-20 — 17: Doing a Geldof — speakers: Elis James, Mike Bubbins, Steff Garrero, Gary Sobers, Haruki Murukami, Shane Warne
-- 2020-07-13 — 16: Seven Times a Night — speakers: Mike Bubbins, Elis James, Steff Garrero, Jack Charlton, Paul Gascoigne, Bob Marley, Bert Trautman, Ian Stafford
-- 2020-07-06 — 15: Half a Family Cheesecake, Two Ribeye Steaks and a Lion Bar — speakers: Mike Bubbins, Steff Garrero, Nigel Havers, Jpr Williams, Eddie Hall, YgenDR IFGgSteff, Manchester Utd, Raphael Honigstein
-- 2020-06-29 — 14: 40 Bags of Pom-Bears — speakers: Elis James, Mike Bubbins, Steff Garrero, Jurgen Klopp, Jan Molby, Michael Chang, Ivan Lendl, Nicole Cooke
-- 2020-06-22 — 13: Grandstanding — speakers: Mike Bubbins, Elis James, Steff Garrero, April Fools, Alan Jones, Zola Budd, Mary Decker, Danny MacAskill
-- 2020-06-15 — 12: Underarmer Karma — speakers: Mike Bubbins, Elis James, Steff Garrero, Bruce Lee, Brian McKechnie, Calcio Storico, Robert Jones, iOOjOWL Steff
-- 2020-06-09 — 11: Podding for Pears — speakers: Elis James, Mike Bubbins, Steff Garrero, David Blaine, Chris Froome, Kimbo Slice, Jimmy Anderson, My Story
-- 2020-06-01 — 10: Wimbledon or Bust — speakers: Mike Bubbins, Elis James, Steff Garrero, Herman Maier, Jonty Rhodes, Nick Hornby, Tom Oldfield Ultimate, Barry John
-- 2020-05-25 — 9: Dr Z — speakers: Mike Bubbins, Elis James, Steff Garrero, Ben Johnson, Jim Bowen, Robbie Savage, Moe Norman, Norman Mailer
-- 2020-05-18 — 8: 14 Seconds — speakers: Mike Bubbins, Elis James, Steff Garrero, Mike Tyson, Max Boyce, Ian Wright, Mark Hughes, Alan Sillitoe
-- 2020-05-12 — 7: Mother Teresa's Debit Card — speakers: Elis James, Mike Bubbins, Steff Garrero, Peter Reid, Garlic King Prawns, Michael Owen, Panorama Millwall, nPHlytdl wElis
-- 2020-05-05 — 6: Waking up Next to a Bag of Cement — speakers: Elis James, Mike Bubbins, Steff Garrero, Kimbo Slice, John Noakes, Shaun Williamson, Andy Powell, Chuck Wepner
-- 2020-04-28 — 5: You've Got to Die of Something — speakers: Elis James, Mike Bubbins, Steff Garrero, Phil May, Shamrock Rovers, John Facenda, Bernard Hopkins, Derek Quinnell
-- 2020-04-20 — 4: Oh Bobby! — speakers: Mike Bubbins, Elis James, Steff Garrero, Francesco Totti, Dick Butkus, Bobby Davro, Lionel Blair, Derek Redmond
-- 2020-04-14 — 3: Milk and Biscuits — speakers: Elis James, Mike Bubbins, Steff Garrero, John Sitton, Paul Sykes, Magic Johnson
-- 2020-04-06 — 2: Covfefe 19 — speakers: Paul Thorburn, Terry Wogan, James Scott, William Finnegan, Elis James, Mike Bubbins, Steff Garrero
-- 2020-03-31 — 1: Do We Not Like This? — speakers: Kevin Keegan, Graham Taylor, XlYgoAElis McIlvanney, Hugh McIlvanney, Donald McRae, Elis James, Mike Bubbins, Steff Garrero
-- 2020-03-21 — Trailer: The Story So Far — speakers: Mike Bubbins, Elis James, Steff Garrero, Bobby Davro, Lionel Blair, Kimbo Slice
+- 2020-12-22 — 39: I Couldn’t Bare to Think of You Eating Cold Beans — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2020-12-15 — 38: Sex and Lions — speakers: Elis James, Mike Bubbins, Steff Garrero, Simon Jones
+- 2020-12-08 — 37: Giving Geraint Thomas a Backie — speakers: Giving Geraint Thomas, Mike Bubbins, Elis James, Steff Garrero
+- 2020-12-01 — 36: The Famous Dennis Catering DistantPod — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-11-24 — 35: Shunkies — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2020-11-17 — 34: Doing it for Free — speakers: Elis James, Mike Bubbins, Steff Garrero, Macaque Attack
+- 2020-11-10 — 33: If You’ve Got Something To Say To Me, Say It To My Face — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-11-03 — 32: Sexual Smorgasbord #Sport — speakers: Sport Mike Bubbins, Elis James, Steff Garrero, Mike Bubbins
+- 2020-10-27 — 31: Remind Me of Your Name — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-10-19 — 30: Semen World of Sport — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2020-10-12 — 29: Hindu or Hin Don't — speakers: Mike Bubbins, Elis James, Steff Garrero, Kevin Keegan
+- 2020-10-05 — 28: Mo & Elv — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2020-09-28 — 27: Spielberg: Catch Me If You Can — speakers: Elis James, Mike Bubbins, Steff Garrero, Mike’s Wales Schoolboy
+- 2020-09-21 — 26: We Cannot Be Serious — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2020-09-14 — 25: A Room With a View — speakers: Mike Bubbins, Elis James, Steff Garrero, Horrid Henry
+- 2020-09-07 — 24: Getting off with Iain Dowie — speakers: Mike Bubbins, Elis James, Steff Garrero, Ray Reardon
+- 2020-08-31 — 23: Love Caldey Island — speakers: Mike Bubbins, Elis James, Steff Garrero, Sonny Pike
+- 2020-08-24 — 22: The Redemption of Peter Reid — speakers: Peter Reid, Elis James, Mike Bubbins, Steff Garrero
+- 2020-08-17 — 21: Sohcahtoa, Sohcahtoa! — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-08-10 — 20: The Four Piece Bathroom Suite — speakers: Steff Garrero, Elis James, Mike Bubbins
+- 2020-08-03 — 19: On My Mother's Life — speakers: Elis James, Steff Garrero, Mike Bubbins
+- 2020-07-27 — 18: Ripped Like a Chimp — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2020-07-20 — 17: Doing a Geldof — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-07-13 — 16: Seven Times a Night — speakers: Mike Bubbins, Elis James, Steff Garrero, Jack Charlt
+- 2020-07-06 — 15: Half a Family Cheesecake, Two Ribeye Steaks and a Lion Bar — speakers: Mike Bubbins, Steff Garrero, Nigel Havers, Jpr Williams, Elis James
+- 2020-06-29 — 14: 40 Bags of Pom-Bears — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-06-22 — 13: Grandstanding — speakers: Mike Bubbins, Elis James, Steff Garrero, April Fools
+- 2020-06-15 — 12: Underarmer Karma — speakers: Mike Bubbins, Elis James, Steff Garrero, Bruce Lee
+- 2020-06-09 — 11: Podding for Pears — speakers: Elis James, Mike Bubbins, Steff Garrero, David Blaine, Scrum Halves
+- 2020-06-01 — 10: Wimbledon or Bust — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2020-05-25 — 9: Dr Z — speakers: Mike Bubbins, Elis James, Steff Garrero, Ben Johnson, Jim Bowen
+- 2020-05-18 — 8: 14 Seconds — speakers: Mike Bubbins, Elis James, Steff Garrero
+- 2020-05-12 — 7: Mother Teresa's Debit Card — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-05-05 — 6: Waking up Next to a Bag of Cement — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-04-28 — 5: You've Got to Die of Something — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-04-20 — 4: Oh Bobby! — speakers: Mike Bubbins, Elis James, Steff Garrero, Francesco Totti
+- 2020-04-14 — 3: Milk and Biscuits — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-04-06 — 2: Covfefe 19 — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-03-31 — 1: Do We Not Like This? — speakers: Elis James, Mike Bubbins, Steff Garrero
+- 2020-03-21 — Trailer: The Story So Far — speakers: Mike Bubbins, Elis James, Steff Garrero

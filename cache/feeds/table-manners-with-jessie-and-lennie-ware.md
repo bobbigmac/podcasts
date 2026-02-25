@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-02-24T16:14:08+00:00`
-- checked_at: `2026-02-24T16:14:08+00:00`
-- etag: `"djEuMi4wOjE3NzE5NDQ0NDQ4MjY="`
+- fetched_at: `2026-02-25T03:15:32+00:00`
+- checked_at: `2026-02-25T03:15:32+00:00`
+- etag: `"djEuMi4wOjE3NzE5ODEyMzkzNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-02-24T16:14:08+00:00",
+  "fetched_at": "2026-02-25T03:15:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7359cb149e7cad9e4c190a5d3ec09395e7cdb1ff",
+      "title": "Hannah Fry",
+      "published_at": "2026-02-25T01:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/hannah-fry",
+      "description": "This week we have science guru, maths mastermind - and owner of the best hair of all time - Professor Hannah Fry! Hannah is a TV host, university professor, AI consultant, social media superstar, and now she adds another string to her bow as the face of the new podcast series ‘The Rest is Science’. Over a delicious lunch we covered everything from Korean skincare routines, to cooking her ex-mother in law’s Indian recipes, her dreams of being a hairdresser, the science behind the best Yorkshire pudding, dabbling in stand up comedy, and we hear about the classic ‘Irish Mixed Grill’ - aka 5 different types of potatoes all on one plate! Watch this space, Hannah has absolutely nailed the science behind skincare and it’s only a matter of time until she’s the face of her own beauty series too. The new series ‘The Rest is Science’ is available to listen everywhere now. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1771944439477-d2dd9723-7fdf-4a33-b8b7-c79ef7f98a9e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/698b0cda5fc77c93276f7fff/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56091793",
+      "itunes_duration": "58:25",
+      "speakers": [
+        "Hannah Fry"
+      ],
+      "topics": [
+        "hannah"
+      ]
+    },
     {
       "key": "bbda964d824dad6b161af561e656a9eceeef34ce",
       "title": "Emma Corrin",
@@ -6889,6 +6907,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-25 — Hannah Fry — speakers: Hannah Fry
 - 2026-02-18 — Emma Corrin — speakers: Emma Corrin
 - 2026-02-11 — Margot Robbie — speakers: Margot Robbie
 - 2026-02-04 — Claire Foy — speakers: Claire Foy

@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-02-23T22:02:17+00:00`
-- checked_at: `2026-02-23T22:02:17+00:00`
-- etag: `W/"1c829-wexLTNMp4SKrYLVyA0wv8GDqk+g"`
+- fetched_at: `2026-02-25T03:15:32+00:00`
+- checked_at: `2026-02-25T03:15:32+00:00`
+- etag: `W/"1ccae-CiilmgeQxOUmSqSyK6DFpJprx98"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-02-23T22:02:17+00:00",
+  "fetched_at": "2026-02-25T03:15:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4ff1b97680d11eafd3e733f939898441d3c90a1e",
+      "title": "#13 Jon Richardson Podcast with Lloyd Langford",
+      "published_at": "2026-02-24T19:25:26+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/13-Jon-Richardson-Podcast-with-Lloyd-Langford-e3fi8ek",
+      "description": "#13 Jon Richardson Podcast with Lloyd Langford",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771961107588-09919d39ddc9d.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115990420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2F98528c92-7457-8941-716b-48dbbc6f55e5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58063424",
+      "itunes_duration": "01:20:38",
+      "speakers": [
+        "Lloyd Langford"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "lloyd",
+        "langford"
+      ]
+    },
     {
       "key": "92500fac287dacedec7545574f8c4136191fd88d",
       "title": "#12 Jon Richardson Podcast with Will Smith",
@@ -2035,6 +2056,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-24 — #13 Jon Richardson Podcast with Lloyd Langford — speakers: Lloyd Langford
 - 2026-02-23 — #12 Jon Richardson Podcast with Will Smith — speakers: Will Smith
 - 2026-02-23 — #11 Jon Richardson Podcast with Hal Cruttenden
 - 2026-02-22 — #10 Jon Richardson Podcast with Arnab Chandra — speakers: Arnab Chandra

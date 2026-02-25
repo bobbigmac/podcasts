@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-02-23T18:40:11+00:00`
-- checked_at: `2026-02-23T18:40:11+00:00`
-- etag: `"djEuMi4wOjE3NzE4NjkzNzM1NTU="`
+- fetched_at: `2026-02-25T03:15:32+00:00`
+- checked_at: `2026-02-25T03:15:32+00:00`
+- etag: `"djEuMi4wOjE3NzE5ODEyMzkzNzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://audioalways.lnk.to/drunkwomensolvingcrime",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-02-23T18:40:11+00:00",
+  "fetched_at": "2026-02-25T03:15:32+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,29 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "cb993f5fd8b32301b239aff25d32bff03393c8a9",
+      "title": "The Naked Truth, with Madeleine Brettingham",
+      "published_at": "2026-02-25T01:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/the-naked-truth-with-madeleine-brettingham",
+      "description": "In this week's episode of DWSC, comedian and avoidant gardener, Madeleine Brettingham, popped in to tell us about a scandalous situation at the allotment, which didn't help any of the veggies grow. The gang then were well and truly up the creek without a paddle when they heard the details of an audacious case where one perp's quick fix money schemes gets him in more than a bit of hot water. Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/699c9047483a121592b20250/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78134583",
+      "itunes_duration": "54:15",
+      "speakers": [
+        "Madeleine Brettingham",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "naked",
+        "truth",
+        "madeleine",
+        "brettingham"
+      ]
+    },
     {
       "key": "62b3bf087bbeca6c1d32459721fc5d9e75d187a6",
       "title": "That's the Ticket, with AJ Stubberfield",
@@ -367,10 +390,6 @@
       "enclosure_length": "78122468",
       "itunes_duration": "54:14",
       "speakers": [
-        "Miss Marple",
-        "Jessica Fletcher",
-        "Emma Kennedy",
-        "Dane Buckley",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -393,8 +412,6 @@
       "speakers": [
         "Hats Off",
         "Sian Eleri",
-        "Emma Kennedy",
-        "Dane Buckley",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -416,8 +433,6 @@
       "itunes_duration": "55:27",
       "speakers": [
         "Brenda Gilhooly",
-        "Emma Kennedy",
-        "Dane Buckley",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -440,7 +455,6 @@
       "itunes_duration": "57:41",
       "speakers": [
         "Robin Ince",
-        "Ron Howard",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -509,6 +523,7 @@
       "itunes_duration": "54:29",
       "speakers": [
         "Katie Breathwick",
+        "Katie Breath",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -620,8 +635,7 @@
       "itunes_duration": "28:57",
       "speakers": [
         "Hannah George",
-        "Taylor Glenn",
-        "Alfred Douglas"
+        "Taylor Glenn"
       ],
       "topics": [
         "drunk",
@@ -732,7 +746,6 @@
       "itunes_duration": "1:01:27",
       "speakers": [
         "Anna Samson",
-        "See Taylor",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -779,7 +792,6 @@
         "Matt Hitt",
         "Laura Reid",
         "Hannah George",
-        "Carol Vorderman",
         "Taylor Glenn"
       ],
       "topics": [
@@ -867,7 +879,6 @@
       "enclosure_length": "79451040",
       "itunes_duration": "55:10",
       "speakers": [
-        "Saaniya Abbas",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -890,6 +901,7 @@
       "itunes_duration": "44:53",
       "speakers": [
         "Geoff Norcott",
+        "Geoff Norco",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -934,7 +946,6 @@
       "itunes_duration": "55:00",
       "speakers": [
         "Kiell Smith Bynoe",
-        "Edinburgh Fringe",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -958,7 +969,6 @@
       "itunes_duration": "54:13",
       "speakers": [
         "Lou Wall",
-        "Edinburgh Fringe",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1002,7 +1012,6 @@
       "itunes_duration": "54:03",
       "speakers": [
         "Emma Doran",
-        "Edinburgh Fringe",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1047,7 +1056,6 @@
       "itunes_duration": "52:27",
       "speakers": [
         "Rachel Galvo",
-        "Richard Osman",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1178,8 +1186,8 @@
       "enclosure_length": "92775973",
       "itunes_duration": "1:04:25",
       "speakers": [
-        "Karen Pirie",
         "Emer Kenny",
+        "Shame What",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1340,7 +1348,6 @@
       "speakers": [
         "Drunk Mile Time",
         "Murder Mile",
-        "Drunk Mile",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1404,6 +1411,7 @@
       "enclosure_length": "96820069",
       "itunes_duration": "1:07:13",
       "speakers": [
+        "Spring Kathryn Day",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1427,7 +1435,6 @@
       "enclosure_length": "82432550",
       "itunes_duration": "57:14",
       "speakers": [
-        "Kate Cheka",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1449,7 +1456,6 @@
       "enclosure_length": "93975781",
       "itunes_duration": "1:05:15",
       "speakers": [
-        "Hal Cruttenden",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1470,6 +1476,7 @@
       "enclosure_length": "93942185",
       "itunes_duration": "1:05:13",
       "speakers": [
+        "Bebe Cave Another day",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1491,7 +1498,6 @@
       "itunes_duration": "49:47",
       "speakers": [
         "Remel London",
-        "Edinburgh Fringe details",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1585,8 +1591,6 @@
       "itunes_duration": "57:21",
       "speakers": [
         "Jamie-Lee O'Donnell",
-        "Derry Girls",
-        "Tara Lynne O'Neil see",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1653,7 +1657,6 @@
       "itunes_duration": "1:00:27",
       "speakers": [
         "Ele Mckenzie",
-        "Jane McDonald",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1696,6 +1699,8 @@
       "enclosure_length": "85421029",
       "itunes_duration": "59:18",
       "speakers": [
+        "Drunk Women Solving Crime",
+        "Scummy Mummies",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1718,7 +1723,6 @@
       "speakers": [
         "Tamar Broadbent's Sliding Doors",
         "Tamar Broadbent",
-        "Lara Croft",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1742,6 +1746,7 @@
       "itunes_duration": "1:01:37",
       "speakers": [
         "Dave Berry",
+        "Usual Suspects Happy Friday",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1786,7 +1791,6 @@
       "itunes_duration": "53:47",
       "speakers": [
         "Laura Aikman",
-        "Bulldog Eric",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -1810,7 +1814,6 @@
       "itunes_duration": "1:05:01",
       "speakers": [
         "Brona CTitley",
-        "Detective Titley",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2009,7 +2012,6 @@
       "itunes_duration": "49:41",
       "speakers": [
         "Kyrah Gray",
-        "Will Smith",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2098,6 +2100,7 @@
       "enclosure_length": "79664110",
       "itunes_duration": "55:18",
       "speakers": [
+        "Drunk Huns Solving Ghosts",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2211,7 +2214,6 @@
       "itunes_duration": "57:44",
       "speakers": [
         "Clair Buckley Hits",
-        "Clair Buckley",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2325,7 +2327,6 @@
       "itunes_duration": "55:05",
       "speakers": [
         "Laura Lexx Returns",
-        "Laura Lexx",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2392,8 +2393,6 @@
       "itunes_duration": "50:56",
       "speakers": [
         "Laura Smyth",
-        "Comic Con",
-        "Crimey Con",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2551,7 +2550,6 @@
       "enclosure_length": "6427540",
       "itunes_duration": "4:27",
       "speakers": [
-        "Amanda Xxx Hosted",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2634,6 +2632,8 @@
       "enclosure_length": "94111076",
       "itunes_duration": "1:05:20",
       "speakers": [
+        "Did Felicity Ward See",
+        "Felicity Ward",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2678,7 +2678,6 @@
       "itunes_duration": "49:55",
       "speakers": [
         "Jordan Stephens",
-        "Justin Timberlake",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2723,7 +2722,6 @@
       "itunes_duration": "52:42",
       "speakers": [
         "Charlie Higson",
-        "Michael McIntyre",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2768,7 +2766,7 @@
       "enclosure_length": "79330405",
       "itunes_duration": "55:05",
       "speakers": [
-        "Alan Hanson",
+        "Jess Th",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2904,7 +2902,6 @@
       "itunes_duration": "1:10:03",
       "speakers": [
         "Michelle Collins",
-        "Aileen Wuornos",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2926,7 +2923,6 @@
       "itunes_duration": "58:01",
       "speakers": [
         "Eleanor Tiernan",
-        "Robert Kennedy Jr",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2972,8 +2968,6 @@
       "enclosure_length": "82487461",
       "itunes_duration": "57:16",
       "speakers": [
-        "Karen Whitehouse",
-        "Lauren Kilby",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -2995,8 +2989,6 @@
       "enclosure_length": "1396353",
       "itunes_duration": "0:57",
       "speakers": [
-        "Karen Whitehouse",
-        "Lauren Kilby",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3189,13 +3181,8 @@
       "itunes_duration": "1:09:28",
       "speakers": [
         "Steph McGovern",
-        "Bruce Willis",
-        "Toby Williams",
         "Hannah George",
-        "Grainne Maguire",
-        "London Hughes",
-        "James Acaster",
-        "Jenny Eclair"
+        "Taylor Glenn"
       ],
       "topics": [
         "steph",
@@ -3324,8 +3311,6 @@
       "enclosure_length": "96654757",
       "itunes_duration": "1:07:06",
       "speakers": [
-        "Ronni Ancona",
-        "Olivia Coleman",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3435,6 +3420,7 @@
       "itunes_duration": "1:27",
       "speakers": [
         "Abby Wambaugh",
+        "Abby Wambau",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3656,7 +3642,6 @@
       "itunes_duration": "1:28",
       "speakers": [
         "Chick Flicks",
-        "Kerry Ipema",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3677,7 +3662,6 @@
       "enclosure_length": "86000485",
       "itunes_duration": "59:42",
       "speakers": [
-        "Athena Kugblenu",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3699,7 +3683,6 @@
       "enclosure_length": "1898055",
       "itunes_duration": "1:18",
       "speakers": [
-        "Athena Kugblenu",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3720,7 +3703,6 @@
       "enclosure_length": "74806822",
       "itunes_duration": "51:56",
       "speakers": [
-        "Bronté Barbé",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3765,9 +3747,6 @@
       "itunes_duration": "55:37",
       "speakers": [
         "Emma Flint",
-        "Catie Wilkins",
-        "Detective Sasshole",
-        "Catie XX",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3791,7 +3770,6 @@
       "itunes_duration": "0:58",
       "speakers": [
         "Emma Flint",
-        "Detective Sasshole",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3812,6 +3790,7 @@
       "enclosure_length": "76202197",
       "itunes_duration": "52:54",
       "speakers": [
+        "Oenone Forbat",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -3939,7 +3918,6 @@
       "enclosure_length": "79231740",
       "itunes_duration": "55:00",
       "speakers": [
-        "Chantel Nash",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4004,6 +3982,7 @@
       "enclosure_length": "2147388",
       "itunes_duration": "1:29",
       "speakers": [
+        "born detective",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4044,7 +4023,6 @@
       "enclosure_length": "2231012",
       "itunes_duration": "1:32",
       "speakers": [
-        "Cally Beaton",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4086,6 +4064,8 @@
       "enclosure_length": "55176942",
       "itunes_duration": "38:18",
       "speakers": [
+        "Au Revoir Catie Hello",
+        "Drunk Women Solving Crime",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4154,12 +4134,7 @@
       "speakers": [
         "Toby Williams",
         "Hannah George",
-        "Katherine Ryan",
-        "Sara Pascoe",
-        "Desiree Burch",
-        "Samira Ahmed",
-        "Fern Britton",
-        "Shazia Mirza"
+        "Taylor Glenn"
       ],
       "topics": [
         "week",
@@ -4180,7 +4155,6 @@
       "itunes_duration": "1:06:10",
       "speakers": [
         "Ava Glass",
-        "Alias Emma",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4287,7 +4261,6 @@
       "itunes_duration": "56:58",
       "speakers": [
         "Alison Thea-Skot",
-        "Paul Abdul",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4310,8 +4283,6 @@
       "enclosure_length": "7197444",
       "itunes_duration": "4:59",
       "speakers": [
-        "Edinburgh Fringe",
-        "Xxx Support",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4334,7 +4305,6 @@
       "itunes_duration": "1:05:06",
       "speakers": [
         "Rosie Dempsey",
-        "Richard Herring",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4356,7 +4326,6 @@
       "enclosure_length": "77139822",
       "itunes_duration": "53:33",
       "speakers": [
-        "Rosie Dempsey",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4379,8 +4348,6 @@
       "itunes_duration": "1:09:11",
       "speakers": [
         "Wen Huang",
-        "Kuan-Wen Huang",
-        "Kuan Wen",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4403,7 +4370,6 @@
       "itunes_duration": "53:37",
       "speakers": [
         "Les Dennis Men",
-        "Les Dennis",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4425,7 +4391,6 @@
       "itunes_duration": "51:23",
       "speakers": [
         "Christopher Hall",
-        "Ruth Bratt",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4448,7 +4413,6 @@
       "itunes_duration": "48:32",
       "speakers": [
         "Clive Anderson Men",
-        "Clive Anderson",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4470,7 +4434,7 @@
       "enclosure_length": "84552838",
       "itunes_duration": "58:42",
       "speakers": [
-        "Scroobius Pip",
+        "every year",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4559,6 +4523,7 @@
       "enclosure_length": "115118698",
       "itunes_duration": "1:19:56",
       "speakers": [
+        "Drunk Women Solving Crime",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4582,7 +4547,6 @@
       "speakers": [
         "Edinburgh Fringe",
         "Hannah George",
-        "Ruth Bratt",
         "Taylor Glenn"
       ],
       "topics": [
@@ -4603,7 +4567,6 @@
       "itunes_duration": "51:59",
       "speakers": [
         "Jo Caulfield",
-        "Ruth Bratt",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4624,7 +4587,6 @@
       "enclosure_length": "83650991",
       "itunes_duration": "58:05",
       "speakers": [
-        "Ruth Bratt",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4648,7 +4610,6 @@
       "speakers": [
         "Susie McCabe",
         "Edinburgh Fringe",
-        "Ruth Bratt",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4712,9 +4673,8 @@
       "enclosure_length": "49087786",
       "itunes_duration": "34:04",
       "speakers": [
-        "Deborah Francis White",
+        "Guilty Feminists Solving Podcasts",
         "Hannah George",
-        "Catie Wilkins",
         "Taylor Glenn"
       ],
       "topics": [
@@ -4804,7 +4764,6 @@
       "speakers": [
         "Jordan Gray Hooray",
         "Jordan Gray",
-        "Rachel Fairborn",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4913,6 +4872,7 @@
       "enclosure_length": "84912682",
       "itunes_duration": "58:57",
       "speakers": [
+        "Frog Stone",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4958,7 +4918,6 @@
       "itunes_duration": "58:36",
       "speakers": [
         "Belle Blain",
-        "nick name",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -4982,8 +4941,6 @@
       "itunes_duration": "59:26",
       "speakers": [
         "Jo Griffin Needs",
-        "Jo Griffin",
-        "Bacardi Breezer",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5003,7 +4960,6 @@
       "enclosure_length": "83787084",
       "itunes_duration": "58:10",
       "speakers": [
-        "Gabby Bryan",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5070,7 +5026,6 @@
       "speakers": [
         "Wilder Keeps",
         "Meter Running",
-        "Robyn Wilder",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5138,7 +5093,7 @@
       "itunes_duration": "57:32",
       "speakers": [
         "Posey Mehta",
-        "Edinburgh Fringe",
+        "Drunk Women",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5163,8 +5118,6 @@
       "speakers": [
         "Daisy Earl Back",
         "Daisy Earl",
-        "Once Daisy",
-        "Edinburgh Fringe",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5187,8 +5140,6 @@
       "itunes_duration": "57:18",
       "speakers": [
         "Helen Zaltzman",
-        "Agatha Christie",
-        "Cherry Garcia",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5211,7 +5162,6 @@
       "enclosure_length": "92290512",
       "itunes_duration": "1:04:05",
       "speakers": [
-        "Teresa Livingstone",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5234,7 +5184,6 @@
       "itunes_duration": "50:39",
       "speakers": [
         "Lisa McGee",
-        "Derry Girls",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5256,10 +5205,8 @@
       "enclosure_length": "77538576",
       "itunes_duration": "53:50",
       "speakers": [
-        "John Robins",
-        "Robin Allender",
-        "Lady Gaga",
-        "Comic Relief",
+        "Moon Under Water Red",
+        "Nose Day",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5305,7 +5252,6 @@
       "itunes_duration": "1:04:47",
       "speakers": [
         "Kate McCabe Time",
-        "Kate McCabe",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5328,7 +5274,6 @@
       "itunes_duration": "53:57",
       "speakers": [
         "Kimia Etemadi",
-        "Guest Kimia Etemadi",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5371,7 +5316,6 @@
       "enclosure_length": "81342584",
       "itunes_duration": "56:28",
       "speakers": [
-        "Tej Dhutia",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5524,7 +5468,6 @@
       "itunes_duration": "1:03:14",
       "speakers": [
         "Arabella Weir",
-        "Xxx Hosted",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5611,6 +5554,7 @@
       "enclosure_length": "100488720",
       "itunes_duration": "1:09:46",
       "speakers": [
+        "Men's Month",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5697,7 +5641,8 @@
       "itunes_duration": "47:48",
       "speakers": [
         "Fanny Sidney",
-        "Margret Atwood",
+        "Grace Oh",
+        "Drunk Women",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5720,11 +5665,8 @@
       "enclosure_length": "83658715",
       "itunes_duration": "58:05",
       "speakers": [
-        "Hannah Maguire",
-        "Suruthi Bala",
         "Hannah George",
-        "Taylor Glenn",
-        "Catie Wilkins"
+        "Taylor Glenn"
       ],
       "topics": [
         "drunk",
@@ -5835,7 +5777,6 @@
       "itunes_duration": "54:22",
       "speakers": [
         "Rachel Fairburn",
-        "Gregor McGregor",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -5923,7 +5864,6 @@
       "enclosure_length": "72447854",
       "itunes_duration": "50:18",
       "speakers": [
-        "Janeane Garofalo",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6033,7 +5973,6 @@
       "itunes_duration": "56:41",
       "speakers": [
         "Brenda Gilhooly",
-        "Robin Hood",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6077,6 +6016,8 @@
       "enclosure_length": "94209898",
       "itunes_duration": "1:05:25",
       "speakers": [
+        "Chantal Feduchin",
+        "Drunk Women Solving Crime",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6121,7 +6062,6 @@
       "itunes_duration": "53:32",
       "speakers": [
         "Samira Ahmed",
-        "Samira Always",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6164,8 +6104,6 @@
       "itunes_duration": "53:34",
       "speakers": [
         "Lucy Pearman",
-        "Mother Goose",
-        "Ben Affleck",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6207,8 +6145,6 @@
       "enclosure_length": "95795513",
       "itunes_duration": "1:06:31",
       "speakers": [
-        "Rosalind Blessed",
-        "Quick Award",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6229,7 +6165,8 @@
       "enclosure_length": "74919639",
       "itunes_duration": "52:01",
       "speakers": [
-        "Richard Curtis",
+        "Gina Lyons",
+        "Drunk Women Solving Crime",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6274,7 +6211,6 @@
       "itunes_duration": "53:36",
       "speakers": [
         "Abigail Burdess Recorded",
-        "Abigail Burdess",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6339,6 +6275,7 @@
       "itunes_duration": "1:03:08",
       "speakers": [
         "Lauren Layfield",
+        "Mean Girls",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6381,8 +6318,6 @@
       "enclosure_length": "70720628",
       "itunes_duration": "49:06",
       "speakers": [
-        "Holly Burn",
-        "Grainne Maguire",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6427,8 +6362,6 @@
       "itunes_duration": "56:06",
       "speakers": [
         "Lily Phillips",
-        "Joining Taylor",
-        "Mary Johnson",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6451,7 +6384,6 @@
       "itunes_duration": "1:06:16",
       "speakers": [
         "Richard Herring",
-        "Comic Relief",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6497,8 +6429,6 @@
       "enclosure_length": "91650256",
       "itunes_duration": "1:03:38",
       "speakers": [
-        "Sasshole Catie",
-        "Nat Luurtsema",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6519,7 +6449,6 @@
       "enclosure_length": "90973550",
       "itunes_duration": "1:03:10",
       "speakers": [
-        "Felippe Lido",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6541,9 +6470,7 @@
       "itunes_duration": "1:06:13",
       "speakers": [
         "Alison Spittle",
-        "Jenny Eclair",
-        "Richard Herring",
-        "Mark Silcox",
+        "Guild Award",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6590,7 +6517,6 @@
       "speakers": [
         "Parm Sandhu",
         "Drunk Women Solving Crime",
-        "British Police",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6637,9 +6563,6 @@
       "itunes_duration": "20:39",
       "speakers": [
         "Rob Williams",
-        "Nina Sosanya",
-        "Jamie Lee O'Donnell",
-        "Laura Checkley",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6664,7 +6587,6 @@
       "itunes_duration": "59:44",
       "speakers": [
         "Ayesha Hazarika",
-        "Maisie Adam",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6753,7 +6675,6 @@
       "enclosure_length": "73884376",
       "itunes_duration": "51:22",
       "speakers": [
-        "Bikini Atoll",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6777,7 +6698,6 @@
       "itunes_duration": "53:16",
       "speakers": [
         "Luisa Omielan",
-        "Luisa Omelian",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6801,7 +6721,6 @@
       "itunes_duration": "52:52",
       "speakers": [
         "Jocelyn Jee Esien",
-        "Jocelyn Jee Esien Aka",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -6956,7 +6875,6 @@
       "itunes_duration": "49:46",
       "speakers": [
         "Mary O'Connell",
-        "Joining Taylor",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7159,7 +7077,6 @@
       "enclosure_length": "88382592",
       "itunes_duration": "1:01:27",
       "speakers": [
-        "Sewing Bee",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7182,7 +7099,6 @@
       "enclosure_length": "98389043",
       "itunes_duration": "1:08:25",
       "speakers": [
-        "Hatty Ashdown",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7228,7 +7144,7 @@
       "enclosure_length": "72804576",
       "itunes_duration": "50:37",
       "speakers": [
-        "Heather Brooker",
+        "Heather Brooker Takes Over",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7250,6 +7166,7 @@
       "enclosure_length": "81446994",
       "itunes_duration": "56:38",
       "speakers": [
+        "Grace Petrie",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7295,7 +7212,7 @@
       "enclosure_length": "94823500",
       "itunes_duration": "1:05:56",
       "speakers": [
-        "Woody Woodpecker",
+        "Isy Suttie",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7338,7 +7255,6 @@
       "enclosure_length": "97629858",
       "itunes_duration": "1:07:53",
       "speakers": [
-        "Vix Leyton",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7360,6 +7276,7 @@
       "enclosure_length": "96767371",
       "itunes_duration": "1:07:17",
       "speakers": [
+        "Caroline Newte Hardie Isn",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7383,9 +7300,6 @@
       "enclosure_length": "98372926",
       "itunes_duration": "1:08:24",
       "speakers": [
-        "Alexis Strum",
-        "John Lennon",
-        "Paul McCartney",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7479,7 +7393,6 @@
       "itunes_duration": "1:13:13",
       "speakers": [
         "May Williams",
-        "Briony May Williams",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7550,6 +7463,7 @@
       "itunes_duration": "54:20",
       "speakers": [
         "Kate Thornton",
+        "Drunk Women",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7596,6 +7510,7 @@
       "itunes_duration": "55:11",
       "speakers": [
         "Emma Burnell",
+        "Drunk Women",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7663,13 +7578,10 @@
       "enclosure_length": "84456418",
       "itunes_duration": "58:43",
       "speakers": [
-        "Hannah Maguire",
-        "Suruthi Bala",
+        "Drunk Women Caught Redhanded",
+        "Acast Red Nose Day",
         "Hannah George",
-        "Catie Wilkins",
-        "Taylor Glenn",
-        "Comic Relief",
-        "bill payer"
+        "Taylor Glenn"
       ],
       "topics": [
         "drunk",
@@ -7732,8 +7644,6 @@
       "enclosure_length": "95941332",
       "itunes_duration": "1:06:43",
       "speakers": [
-        "Catherine Bohart",
-        "Margret Thatcher",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7757,6 +7667,7 @@
       "itunes_duration": "58:30",
       "speakers": [
         "Erika Ehler",
+        "Drunk Women Solving Crime",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7850,8 +7761,6 @@
       "itunes_duration": "1:02:04",
       "speakers": [
         "Amy Gledhill",
-        "Clapham Grand",
-        "King James",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7894,7 +7803,7 @@
       "enclosure_length": "3759384",
       "itunes_duration": "2:36",
       "speakers": [
-        "Amy Gledhill",
+        "Christmas Message",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7916,7 +7825,6 @@
       "itunes_duration": "58:26",
       "speakers": [
         "Sara Barron",
-        "Sarah Barron",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -7939,6 +7847,7 @@
       "itunes_duration": "1:12:06",
       "speakers": [
         "Natasha Vasandani",
+        "Drunk Women Solving Crime",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8007,7 +7916,6 @@
       "itunes_duration": "1:08:34",
       "speakers": [
         "Adam Buxton",
-        "Mark Zukerberg",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8029,6 +7937,7 @@
       "enclosure_length": "2582504",
       "itunes_duration": "1:47",
       "speakers": [
+        "Extra Content Announcement",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8071,7 +7980,6 @@
       "enclosure_length": "93242328",
       "itunes_duration": "1:04:50",
       "speakers": [
-        "Nish Kumar",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8093,7 +8001,6 @@
       "enclosure_length": "72810940",
       "itunes_duration": "50:37",
       "speakers": [
-        "Lisa Holdsworth",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8162,7 +8069,7 @@
       "enclosure_length": "94659344",
       "itunes_duration": "1:05:49",
       "speakers": [
-        "Samantha Baines",
+        "some exp",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8185,7 +8092,6 @@
       "enclosure_length": "92243898",
       "itunes_duration": "1:04:08",
       "speakers": [
-        "Carrie Bradshaw",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8210,7 +8116,6 @@
       "itunes_duration": "1:03:22",
       "speakers": [
         "Sarah Keyworth",
-        "Mariah Carey",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8232,6 +8137,7 @@
       "enclosure_length": "99970616",
       "itunes_duration": "1:09:31",
       "speakers": [
+        "Jackie Adedeji",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8256,7 +8162,6 @@
       "itunes_duration": "58:13",
       "speakers": [
         "Joanne McNally's Guide",
-        "Joanne McNally",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8368,7 +8273,6 @@
       "enclosure_length": "95617529",
       "itunes_duration": "1:06:23",
       "speakers": [
-        "Viv Groskop",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8410,8 +8314,6 @@
       "enclosure_length": "90160129",
       "itunes_duration": "1:02:36",
       "speakers": [
-        "Esther Manito",
-        "Oliver Twist",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8435,6 +8337,7 @@
       "itunes_duration": "1:02:19",
       "speakers": [
         "Christine Robertson",
+        "Drunk Women Solving Crime",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8456,8 +8359,7 @@
       "enclosure_length": "89792535",
       "itunes_duration": "1:02:21",
       "speakers": [
-        "Dick Van-Dyke",
-        "Nidhi Gupta",
+        "Dr Nidhi Gupta",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8480,6 +8382,7 @@
       "enclosure_length": "66654600",
       "itunes_duration": "46:16",
       "speakers": [
+        "Fortune Feimster",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8548,8 +8451,7 @@
       "enclosure_length": "65022231",
       "itunes_duration": "45:08",
       "speakers": [
-        "Jo Caulfield",
-        "Danny DeVito",
+        "Jo Caulfie",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8572,7 +8474,6 @@
       "enclosure_length": "95186681",
       "itunes_duration": "1:06:05",
       "speakers": [
-        "Fern Britton",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8664,7 +8565,6 @@
       "enclosure_length": "81206679",
       "itunes_duration": "56:23",
       "speakers": [
-        "Laura Lexx",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8689,7 +8589,6 @@
       "itunes_duration": "50:33",
       "speakers": [
         "Lizzie Roper",
-        "Daniel Smith",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8712,6 +8611,7 @@
       "itunes_duration": "40:19",
       "speakers": [
         "Ruth Bratt",
+        "Fraud Coming",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8734,6 +8634,7 @@
       "enclosure_length": "68121111",
       "itunes_duration": "47:18",
       "speakers": [
+        "Drunk Women",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8756,7 +8657,6 @@
       "itunes_duration": "1:03:38",
       "speakers": [
         "Monica Heisey Spring",
-        "Monica Heisey",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8780,7 +8680,6 @@
       "enclosure_length": "88061029",
       "itunes_duration": "1:01:08",
       "speakers": [
-        "Liz Miele",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8827,7 +8726,6 @@
       "itunes_duration": "1:02:39",
       "speakers": [
         "Doop Back",
-        "Margret Caborn-Smith",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -8851,7 +8749,6 @@
       "enclosure_length": "77088029",
       "itunes_duration": "53:36",
       "speakers": [
-        "Andi Osho",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9082,7 +8979,6 @@
       "enclosure_length": "4679071",
       "itunes_duration": "3:14",
       "speakers": [
-        "Christmas Day",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9264,8 +9160,8 @@
       "enclosure_length": "71782515",
       "itunes_duration": "49:55",
       "speakers": [
-        "Ellie Gibson",
-        "Helen Thorn",
+        "Scummy Mummies What",
+        "Drunk Women",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9337,9 +9233,6 @@
       "enclosure_length": "111730071",
       "itunes_duration": "1:17:35",
       "speakers": [
-        "Deborah Frances-White",
-        "Sindhu Vee",
-        "Ma Barker",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9498,7 +9391,6 @@
       "enclosure_length": "73533207",
       "itunes_duration": "51:03",
       "speakers": [
-        "Sukh Ojla",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9544,7 +9436,6 @@
       "enclosure_length": "66873492",
       "itunes_duration": "46:26",
       "speakers": [
-        "King James",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9591,6 +9482,7 @@
       "itunes_duration": "30:57",
       "speakers": [
         "Alia Shawkat",
+        "Drunk Women",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9658,7 +9550,6 @@
       "itunes_duration": "51:51",
       "speakers": [
         "Jayde Adams",
-        "Comedian Jayde Adams",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9706,8 +9597,6 @@
         "Jo Middleton",
         "Jo Middleton otherwise",
         "Slummy Single Mummy",
-        "Jo despite",
-        "Read Jo",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9731,8 +9620,6 @@
       "enclosure_length": "62103639",
       "itunes_duration": "43:07",
       "speakers": [
-        "Thanyia Moore",
-        "Jessica Fletcher",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9832,6 +9719,7 @@
       "enclosure_length": "76862398",
       "itunes_duration": "53:22",
       "speakers": [
+        "Amanda Abbington",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9878,7 +9766,6 @@
       "enclosure_length": "75850361",
       "itunes_duration": "52:40",
       "speakers": [
-        "Tiff Stevenson",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9903,7 +9790,6 @@
       "speakers": [
         "Way Out",
         "Paper Bag",
-        "Deborah Frances-White",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9926,6 +9812,9 @@
       "enclosure_length": "71724567",
       "itunes_duration": "49:48",
       "speakers": [
+        "Jen Brister",
+        "Cold War Murder",
+        "Drunk Women",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -9976,6 +9865,8 @@
       "enclosure_length": "66799191",
       "itunes_duration": "46:22",
       "speakers": [
+        "Natalia Tena",
+        "Murderous Marriage",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10026,7 +9917,6 @@
       "itunes_duration": "49:10",
       "speakers": [
         "Hannah Dunleavy",
-        "Guest Hannah",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10073,9 +9963,6 @@
       "itunes_duration": "47:12",
       "speakers": [
         "Hannah Witton",
-        "Gwyneth Paltrow",
-        "Detective Witton",
-        "Team Mum",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10098,7 +9985,6 @@
       "enclosure_length": "68558396",
       "itunes_duration": "47:40",
       "speakers": [
-        "Bec Hill",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10145,6 +10031,8 @@
       "enclosure_length": "57041874",
       "itunes_duration": "39:39",
       "speakers": [
+        "Faye Carruthers",
+        "Cake What",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10195,7 +10083,6 @@
       "speakers": [
         "Jessica Fostekew",
         "Karma Cashpoint",
-        "Lou Pearlman",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10248,7 +10135,6 @@
         "Wendy Wason",
         "Charles Manson",
         "Forgotten Victim",
-        "Tom Cruise",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10371,8 +10257,6 @@
       "enclosure_length": "63502540",
       "itunes_duration": "44:09",
       "speakers": [
-        "Suzi Ruffell",
-        "Guest Suzi",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10397,7 +10281,6 @@
       "speakers": [
         "Sofie Hagen",
         "kick us",
-        "Maggie Dickson",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10499,7 +10382,6 @@
       "enclosure_length": "62685545",
       "itunes_duration": "43:35",
       "speakers": [
-        "Jenny Eclair",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10573,8 +10455,6 @@
       "itunes_duration": "41:04",
       "speakers": [
         "Louisa Connolly-Burnham",
-        "Sarah Wilson",
-        "Queen Charlotte",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10654,7 +10534,6 @@
       "speakers": [
         "Helen Monks",
         "Homework Actor",
-        "Sardinian Bandits",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10845,6 +10724,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-25 — The Naked Truth, with Madeleine Brettingham — speakers: Madeleine Brettingham, Hannah George, Taylor Glenn
 - 2026-02-20 — That's the Ticket, with AJ Stubberfield — speakers: Hannah George, Taylor Glenn
 - 2026-02-18 — Frozen, with James Barr — speakers: James Barr Hannah, Hannah George, Taylor Glenn
 - 2026-02-11 — Special Delivery, with Jo Somner — speakers: Jo Somner, Hannah George, Taylor Glenn
@@ -10860,71 +10740,71 @@
 - 2025-12-19 — DWSC XMAS DO LIVE: With Dane Buckley — speakers: Dane Buckley, Hannah George, Taylor Glenn
 - 2025-12-17 — Welcome to Rat, with Daniel Foxx — speakers: Daniel Foxx, Hannah George, Taylor Glenn
 - 2025-12-12 — Phil Ellis is Losing His Marbles — speakers: Phil Ellis, Hannah George, Taylor Glenn
-- 2025-12-10 — Surprise Packages with Sikisa — speakers: Miss Marple, Jessica Fletcher, Emma Kennedy, Dane Buckley, Hannah George, Taylor Glenn
-- 2025-12-05 — Hats Off to Sian Eleri — speakers: Hats Off, Sian Eleri, Emma Kennedy, Dane Buckley, Hannah George, Taylor Glenn
-- 2025-12-03 — DWSC LIVE: With Brenda Gilhooly — speakers: Brenda Gilhooly, Emma Kennedy, Dane Buckley, Hannah George, Taylor Glenn
-- 2025-11-28 — DWSC LIVE: With Robin Ince — speakers: Robin Ince, Ron Howard, Hannah George, Taylor Glenn
+- 2025-12-10 — Surprise Packages with Sikisa — speakers: Hannah George, Taylor Glenn
+- 2025-12-05 — Hats Off to Sian Eleri — speakers: Hats Off, Sian Eleri, Hannah George, Taylor Glenn
+- 2025-12-03 — DWSC LIVE: With Brenda Gilhooly — speakers: Brenda Gilhooly, Hannah George, Taylor Glenn
+- 2025-11-28 — DWSC LIVE: With Robin Ince — speakers: Robin Ince, Hannah George, Taylor Glenn
 - 2025-11-26 — Bogus Times Ahead: With Abbie Murphy — speakers: Abbie Murphy, Hannah George, Taylor Glenn
 - 2025-11-21 — The Nanny State of It, with Henry Rowley — speakers: Henry Rowley, Hannah George, Taylor Glenn
-- 2025-11-19 — No Sleep for Katie Breathwick — speakers: Katie Breathwick, Hannah George, Taylor Glenn
+- 2025-11-19 — No Sleep for Katie Breathwick — speakers: Katie Breathwick, Katie Breath, Hannah George, Taylor Glenn
 - 2025-11-14 — DWSC LIVE: With Laura Checkley — speakers: Laura Checkley, Hannah George, Taylor Glenn
 - 2025-11-12 — A Lotta Louvre for Alice Etches — speakers: Alice Etches, Hannah George, Taylor Glenn
 - 2025-11-07 — An Orange a Day...with Sophie Craig — speakers: Sophie Craig, Hannah George, Taylor Glenn
 - 2025-11-05 — A Bit of a Stir, with Kemi Rogers — speakers: Kemi Rogers, Hannah George, Taylor Glenn
-- 2025-10-31 — From Drunk Women Solving Crime… Toil and Trouble — speakers: Hannah George, Taylor Glenn, Alfred Douglas
+- 2025-10-31 — From Drunk Women Solving Crime… Toil and Trouble — speakers: Hannah George, Taylor Glenn
 - 2025-10-29 — DWSC LIVE: With Huge Davies — speakers: Hannah George, Taylor Glenn
 - 2025-10-24 — If You Squeeze For Long Enough ....with Alex Bertulis-Fernandes — speakers: Alex Bertulis-Fernandes, Hannah George, Taylor Glenn
 - 2025-10-22 — Audrey's One Degree of Separation — speakers: Hannah George, Taylor Glenn
 - 2025-10-17 — 'Scuse Fingers, with Desiree Burch — speakers: Desiree Burch, Hannah George, Taylor Glenn
-- 2025-10-15 — Anna Samson's Difficult Second Album — speakers: Anna Samson, See Taylor, Hannah George, Taylor Glenn
+- 2025-10-15 — Anna Samson's Difficult Second Album — speakers: Anna Samson, Hannah George, Taylor Glenn
 - 2025-10-10 — The Big Four Oh Oh, with Natalie Cassidy! — speakers: Natalie Cassidy, Hannah George, Taylor Glenn
-- 2025-10-08 — Blame it on Ann, with The Ventnor Darlings — speakers: Matt Hitt, Laura Reid, Hannah George, Carol Vorderman, Taylor Glenn
+- 2025-10-08 — Blame it on Ann, with The Ventnor Darlings — speakers: Matt Hitt, Laura Reid, Hannah George, Taylor Glenn
 - 2025-10-03 — Juliette Burton is Crystal Clear — speakers: Juliette Burton, Hannah George, Taylor Glenn
 - 2025-10-01 — In a Spin, with Judith Jacob — speakers: Judith Jacob, Hannah George, Taylor Glenn
 - 2025-09-26 — DWSC LIVE: With Jessie Nixon — speakers: Jessie Nixon, Edinburgh Fringe, Hannah George, Taylor Glenn
-- 2025-09-24 — DWSC LIVE: With Saaniya Abbas — speakers: Saaniya Abbas, Hannah George, Taylor Glenn
-- 2025-09-19 — DWSC LIVE: With Geoff Norcott — speakers: Geoff Norcott, Hannah George, Taylor Glenn
+- 2025-09-24 — DWSC LIVE: With Saaniya Abbas — speakers: Hannah George, Taylor Glenn
+- 2025-09-19 — DWSC LIVE: With Geoff Norcott — speakers: Geoff Norcott, Geoff Norco, Hannah George, Taylor Glenn
 - 2025-09-17 — DWSC LIVE: With Karen Dunbar — speakers: Karen Dunbar, Hannah George, Taylor Glenn
-- 2025-09-12 — DWSC LIVE: With Kiell Smith Bynoe — speakers: Kiell Smith Bynoe, Edinburgh Fringe, Hannah George, Taylor Glenn
-- 2025-09-10 — DWSC LIVE: With Lou Wall — speakers: Lou Wall, Edinburgh Fringe, Hannah George, Taylor Glenn
+- 2025-09-12 — DWSC LIVE: With Kiell Smith Bynoe — speakers: Kiell Smith Bynoe, Hannah George, Taylor Glenn
+- 2025-09-10 — DWSC LIVE: With Lou Wall — speakers: Lou Wall, Hannah George, Taylor Glenn
 - 2025-09-05 — DWSC LIVE: With Courtney Buchner — speakers: Courtney Buchner, Hannah George, Taylor Glenn
-- 2025-09-03 — DWSC LIVE: With Emma Doran — speakers: Emma Doran, Edinburgh Fringe, Hannah George, Taylor Glenn
+- 2025-09-03 — DWSC LIVE: With Emma Doran — speakers: Emma Doran, Hannah George, Taylor Glenn
 - 2025-08-29 — DWSC LIVE: With Jamie Lee — speakers: Jamie Lee, Edinburgh Fringe, Hannah George, Taylor Glenn
-- 2025-08-27 — DWSC LIVE: With Rachel Galvo — speakers: Rachel Galvo, Richard Osman, Hannah George, Taylor Glenn
+- 2025-08-27 — DWSC LIVE: With Rachel Galvo — speakers: Rachel Galvo, Hannah George, Taylor Glenn
 - 2025-08-22 — DWSC LIVE: With Richard Quigley — speakers: Richard Quigley, Hannah George, Taylor Glenn
 - 2025-08-20 — DWSC LIVE: With Jessica Fostekew — speakers: Jessica Fostekew, Hannah George, Taylor Glenn
 - 2025-08-15 — Killers, Cults and Queens — speakers: Hannah George, Taylor Glenn
 - 2025-08-13 — Bringing the Swing, with Charlene Douglas — speakers: Charlene Douglas, Hannah George, Taylor Glenn
 - 2025-08-08 — DWSC LIVE: With Nick Banks — speakers: Nick Banks, Hannah George, Taylor Glenn
-- 2025-08-06 — Emer Kenny & the Bell of Shame — speakers: Karen Pirie, Emer Kenny, Hannah George, Taylor Glenn
+- 2025-08-06 — Emer Kenny & the Bell of Shame — speakers: Emer Kenny, Shame What, Hannah George, Taylor Glenn
 - 2025-08-01 — DWSC LIVE: With Matthew Crosby — speakers: Matthew Crosby, Hannah George, Taylor Glenn
 - 2025-07-30 — DWSC LIVE: With Blank Peng — speakers: Blank Peng, Hannah George, Taylor Glenn
 - 2025-07-25 — Birds of a Feather, with Robyn Perkins — speakers: Robyn Perkins, Hannah George, Taylor Glenn
 - 2025-07-23 — Liz Guterbock's Load of Bologna — speakers: Liz Guterbock's Load, Liz Guterbock, Hannah George, Taylor Glenn
 - 2025-07-18 — Carl Donnelly & the Evolution of Donuts — speakers: Carl Donnelly, Hannah George, Taylor Glenn
 - 2025-07-16 — Katie Norris Follows Suit — speakers: Katie Norris Follows Suit, Katie Norris, Hannah George, Taylor Glenn
-- 2025-07-11 — DRUNK MILE — speakers: Drunk Mile Time, Murder Mile, Drunk Mile, Hannah George, Taylor Glenn
+- 2025-07-11 — DRUNK MILE — speakers: Drunk Mile Time, Murder Mile, Hannah George, Taylor Glenn
 - 2025-07-09 — Chloe Petts Goes for the Juggler — speakers: Chloe Petts Goes, Chloe Petts, Hannah George, Taylor Glenn
 - 2025-07-04 — Anything From The Trolly? With Seán Burke — speakers: Hannah George, Taylor Glenn
-- 2025-07-02 — It's a Kansas City Thing , with Spring Kathryn Day — speakers: Hannah George, Taylor Glenn
-- 2025-06-27 — DWSC LIVE: With Kate Cheka — speakers: Kate Cheka, Hannah George, Taylor Glenn
-- 2025-06-25 — DWSC LIVE: With Hal Cruttenden — speakers: Hal Cruttenden, Hannah George, Taylor Glenn
-- 2025-06-20 — Going Nuts with Bebe Cave — speakers: Hannah George, Taylor Glenn
-- 2025-06-18 — A Slice of Cakebread, with Remel London — speakers: Remel London, Edinburgh Fringe details, Hannah George, Taylor Glenn
+- 2025-07-02 — It's a Kansas City Thing , with Spring Kathryn Day — speakers: Spring Kathryn Day, Hannah George, Taylor Glenn
+- 2025-06-27 — DWSC LIVE: With Kate Cheka — speakers: Hannah George, Taylor Glenn
+- 2025-06-25 — DWSC LIVE: With Hal Cruttenden — speakers: Hannah George, Taylor Glenn
+- 2025-06-20 — Going Nuts with Bebe Cave — speakers: Bebe Cave Another day, Hannah George, Taylor Glenn
+- 2025-06-18 — A Slice of Cakebread, with Remel London — speakers: Remel London, Hannah George, Taylor Glenn
 - 2025-06-13 — Kate Dolan's Stairway to Hell — speakers: Kate Dolan, Hannah George, Taylor Glenn
 - 2025-06-11 — Classy Birds, with Kate Williams — speakers: Classy Birds, Kate Williams, Hannah George, Taylor Glenn
 - 2025-06-06 — DWSC LIVE: With Tara Lynne O'Neil — speakers: Tara Lynne O'Neil, Derry Girls, Hannah George, Taylor Glenn
-- 2025-06-04 — DWSC LIVE: With Jamie-Lee O'Donnell — speakers: Jamie-Lee O'Donnell, Derry Girls, Tara Lynne O'Neil see, Hannah George, Taylor Glenn
+- 2025-06-04 — DWSC LIVE: With Jamie-Lee O'Donnell — speakers: Jamie-Lee O'Donnell, Hannah George, Taylor Glenn
 - 2025-05-30 — Paul Longley's Signature Dance Moves — speakers: Paul Longley, Hannah George, Taylor Glenn
 - 2025-05-28 — Predicting Trouble, with Amy Annette — speakers: Amy Annette, Hannah George, Taylor Glenn
-- 2025-05-23 — DWSC LIVE: With Ele Mckenzie — speakers: Ele Mckenzie, Jane McDonald, Hannah George, Taylor Glenn
+- 2025-05-23 — DWSC LIVE: With Ele Mckenzie — speakers: Ele Mckenzie, Hannah George, Taylor Glenn
 - 2025-05-21 — DWSC LIVE: Michelle Shaughnessy — speakers: Michelle Shaughnessy, Hannah George, Taylor Glenn
-- 2025-05-16 — DRUNK MUMMIES — speakers: Hannah George, Taylor Glenn
-- 2025-05-14 — Tamar Broadbent's Sliding Doors — speakers: Tamar Broadbent's Sliding Doors, Tamar Broadbent, Lara Croft, Hannah George, Taylor Glenn
-- 2025-05-09 — Dave Berry & the Usual Suspects — speakers: Dave Berry, Hannah George, Taylor Glenn
+- 2025-05-16 — DRUNK MUMMIES — speakers: Drunk Women Solving Crime, Scummy Mummies, Hannah George, Taylor Glenn
+- 2025-05-14 — Tamar Broadbent's Sliding Doors — speakers: Tamar Broadbent's Sliding Doors, Tamar Broadbent, Hannah George, Taylor Glenn
+- 2025-05-09 — Dave Berry & the Usual Suspects — speakers: Dave Berry, Usual Suspects Happy Friday, Hannah George, Taylor Glenn
 - 2025-05-07 — Mickey Noonan and the Sk8ter Boy — speakers: Mickey Noonan, Hannah George, Taylor Glenn
-- 2025-05-02 — A Very 80s Crime, with Laura Aikman (and Eric) — speakers: Laura Aikman, Bulldog Eric, Hannah George, Taylor Glenn
-- 2025-04-30 — Bringing Brona C Titley Back — speakers: Brona CTitley, Detective Titley, Hannah George, Taylor Glenn
+- 2025-05-02 — A Very 80s Crime, with Laura Aikman (and Eric) — speakers: Laura Aikman, Hannah George, Taylor Glenn
+- 2025-04-30 — Bringing Brona C Titley Back — speakers: Brona CTitley, Hannah George, Taylor Glenn
 - 2025-04-25 — Running Amok with Kemah Bob — speakers: Kemah Bob, Hannah George, Taylor Glenn
 - 2025-04-23 — Jenny Laville Makes The Roly Poly Happen — speakers: Jenny Laville, Hannah George, Taylor Glenn
 - 2025-04-18 — DRUNK HOGS — speakers: Hannah George, Taylor Glenn
@@ -10933,51 +10813,51 @@
 - 2025-04-09 — DWSC LIVE: With Abigoliah Schamaun — speakers: Abigoliah Schamaun, Hannah George, Taylor Glenn
 - 2025-04-04 — Pearl Mackie's Instant Justice — speakers: Pearl Mackie, Hannah George, Taylor Glenn
 - 2025-04-02 — God Save Helen George — speakers: Helen George, Hannah George, Taylor Glenn
-- 2025-03-28 — DWSC LIVE: With Kyrah Gray — speakers: Kyrah Gray, Will Smith, Hannah George, Taylor Glenn
+- 2025-03-28 — DWSC LIVE: With Kyrah Gray — speakers: Kyrah Gray, Hannah George, Taylor Glenn
 - 2025-03-26 — DWSC LIVE: With Freya Parker — speakers: Freya Parker, Hannah George, Taylor Glenn
 - 2025-03-21 — Wine Tasting, with Jessie Cave — speakers: Wine Tasting, Jessie Cave, Hannah George, Taylor Glenn
 - 2025-03-19 — Flossing Over It, with Kath Hughes — speakers: Kath Hughes, Hannah George, Taylor Glenn
-- 2025-03-14 — Drunk Huns Solving Ghosts — speakers: Hannah George, Taylor Glenn
+- 2025-03-14 — Drunk Huns Solving Ghosts — speakers: Drunk Huns Solving Ghosts, Hannah George, Taylor Glenn
 - 2025-03-12 — Good Vibrations with Julia Tuffs — speakers: Julia Tuffs, Hannah George, Taylor Glenn
 - 2025-03-07 — Off the Books with Njambi McGrath — speakers: Njambi McGrath, Hannah George, Taylor Glenn
 - 2025-03-05 — Jen Offord's Nose for Crime — speakers: Jen Offord, Hannah George, Taylor Glenn
 - 2025-02-28 — Marjolein Robertson's Fishy Tale — speakers: Marjolein Robertson, Fishy Tale, Hannah George, Taylor Glenn
-- 2025-02-26 — Clair Buckley Hits the Jackpot — speakers: Clair Buckley Hits, Clair Buckley, Hannah George, Taylor Glenn
+- 2025-02-26 — Clair Buckley Hits the Jackpot — speakers: Clair Buckley Hits, Hannah George, Taylor Glenn
 - 2025-02-21 — Monica Gaga's Sugar Bitch — speakers: Monica Gaga, Hannah George, Taylor Glenn
 - 2025-02-19 — Davina Bentley ESQ: At Your Service — speakers: Davina Bentley, Hannah George, Taylor Glenn
 - 2025-02-14 — Rosalie Minnett Cries Wolf — speakers: Rosalie Minnett Cries Wolf, Rosalie Minnett, Hannah George, Taylor Glenn
 - 2025-02-12 — Adrift with Jessica Knappett — speakers: Jessica Knappett, Hannah George, Taylor Glenn
-- 2025-02-07 — DWSC LIVE: Laura Lexx Returns — speakers: Laura Lexx Returns, Laura Lexx, Hannah George, Taylor Glenn
+- 2025-02-07 — DWSC LIVE: Laura Lexx Returns — speakers: Laura Lexx Returns, Hannah George, Taylor Glenn
 - 2025-02-05 — DWSC LIVE: Zoe Lyons Returns — speakers: Hannah George, Taylor Glenn
 - 2025-01-31 — Freya Mallard's Buddy Bus Stop — speakers: Freya Mallard, Hannah George, Taylor Glenn
-- 2025-01-29 — Hungary Games with Laura Smyth — speakers: Laura Smyth, Comic Con, Crimey Con, Hannah George, Taylor Glenn
+- 2025-01-29 — Hungary Games with Laura Smyth — speakers: Laura Smyth, Hannah George, Taylor Glenn
 - 2025-01-24 — Julia Raeside goes batty — speakers: Julia Raeside, Hannah George, Taylor Glenn
 - 2025-01-22 — Jay Walking with Amy Matthews — speakers: Jay Walking, Amy Matthews, Hannah George, Taylor Glenn
 - 2025-01-17 — Margaret Cabourn-Smith: The Sequel — speakers: Margaret Cabourn-Smith, Hannah George, Taylor Glenn
 - 2025-01-15 — Lorna Rose Treen's Beanie Burglar — speakers: Lorna Rose Treen, Beanie Burglar, Hannah George, Taylor Glenn
 - 2025-01-10 — Pravanya Pillay - Dad Knows Best — speakers: Best Who, Hannah George, Taylor Glenn
 - 2025-01-08 — Bec Hill's Belgian Waffle — speakers: Bec Hill, Hannah George, Taylor Glenn
-- 2024-12-25 — HAPPY CHRISTMAS! — speakers: Amanda Xxx Hosted, Hannah George, Taylor Glenn
+- 2024-12-25 — HAPPY CHRISTMAS! — speakers: Hannah George, Taylor Glenn
 - 2024-12-18 — DWSC LIVE: With Dawn O' Porter 2 — speakers: Hannah George, Taylor Glenn
 - 2024-12-11 — DWSC LIVE: With Dawn O' Porter 1 — speakers: Hannah George, Taylor Glenn
 - 2024-12-11 — LIVE Q&A With Dawn O' Porter — speakers: Hannah George, Taylor Glenn
-- 2024-12-04 — Did Felicity Ward See Santa? — speakers: Hannah George, Taylor Glenn
+- 2024-12-04 — Did Felicity Ward See Santa? — speakers: Did Felicity Ward See, Felicity Ward, Hannah George, Taylor Glenn
 - 2024-11-27 — MEN'S MONTH: Chesney Hawkes — speakers: Chesney Hawkes, Hannah George, Taylor Glenn
-- 2024-11-20 — MEN'S MONTH: Jordan Stephens — speakers: Jordan Stephens, Justin Timberlake, Hannah George, Taylor Glenn
+- 2024-11-20 — MEN'S MONTH: Jordan Stephens — speakers: Jordan Stephens, Hannah George, Taylor Glenn
 - 2024-11-13 — MEN'S MONTH: With Jonny Weldon — speakers: Jonny Weldon, Hannah George, Taylor Glenn
-- 2024-11-06 — MENS MONTH: With Charlie Higson — speakers: Charlie Higson, Michael McIntyre, Hannah George, Taylor Glenn
+- 2024-11-06 — MENS MONTH: With Charlie Higson — speakers: Charlie Higson, Hannah George, Taylor Glenn
 - 2024-10-30 — Anna Morris and Her Ladies in Waiting — speakers: Anna Morris, Hannah George, Taylor Glenn
-- 2024-10-23 — Catch the Pigeon, with Jess Thom — speakers: Alan Hanson, Hannah George, Taylor Glenn
+- 2024-10-23 — Catch the Pigeon, with Jess Thom — speakers: Jess Th, Hannah George, Taylor Glenn
 - 2024-10-16 — Bearing with Anna Richardson — speakers: Anna Richardson, Hannah George, Taylor Glenn
 - 2024-10-10 — Help I Sexted Drunk Women Solving Crime — speakers: Hannah George, Taylor Glenn
 - 2024-10-09 — Leah Davis' Hangry Encounter — speakers: Leah Davis, Hannah George, Taylor Glenn
 - 2024-10-02 — Susan Harrison's Bumpy Johnson — speakers: Susan Harrison, Bumpy Johnson, Hannah George, Taylor Glenn
 - 2024-09-25 — Crime Adjacent, with Lindsay Sharman — speakers: Lindsay Sharman, Hannah George, Taylor Glenn
-- 2024-09-18 — In the Bag, with Michelle Collins — speakers: Michelle Collins, Aileen Wuornos, Hannah George, Taylor Glenn
-- 2024-09-11 — Does a Bear Poo in the Park? With Eleanor Tiernan — speakers: Eleanor Tiernan, Robert Kennedy Jr, Hannah George, Taylor Glenn
+- 2024-09-18 — In the Bag, with Michelle Collins — speakers: Michelle Collins, Hannah George, Taylor Glenn
+- 2024-09-11 — Does a Bear Poo in the Park? With Eleanor Tiernan — speakers: Eleanor Tiernan, Hannah George, Taylor Glenn
 - 2024-09-04 — DWSC: It's Elementary, with Becky Holmes — speakers: Becky Holmes, Hannah George, Taylor Glenn
-- 2024-08-28 — DWSC LIVE With Who Shat on the Floor at My Wedding? — speakers: Karen Whitehouse, Lauren Kilby, Hannah George, Taylor Glenn
-- 2024-08-26 — COMING UP NEXT EP... Who Shat on The Floor at My Wedding? LIVE — speakers: Karen Whitehouse, Lauren Kilby, Hannah George, Taylor Glenn
+- 2024-08-28 — DWSC LIVE With Who Shat on the Floor at My Wedding? — speakers: Hannah George, Taylor Glenn
+- 2024-08-26 — COMING UP NEXT EP... Who Shat on The Floor at My Wedding? LIVE — speakers: Hannah George, Taylor Glenn
 - 2024-08-21 — DWSC LIVE: With Bella Hull — speakers: Bella Hull, Hannah George, Taylor Glenn
 - 2024-08-19 — COMING UP NEXT EP ... With Bella Hull — speakers: Bella Hull, Hannah George, Taylor Glenn
 - 2024-08-14 — DWSC LIVE: With Olga Koch — speakers: Olga Koch, Hannah George, Taylor Glenn
@@ -10986,18 +10866,18 @@
 - 2024-08-05 — COMING UP NEXT EP ...With Abi Clarke — speakers: Abi Clarke, Hannah George, Taylor Glenn
 - 2024-07-31 — Sam McAlister's double 'Scoop' — speakers: Sam McAlister, Hannah George, Taylor Glenn
 - 2024-07-29 — COMING UP NEXT EP... Sam McAlister — speakers: Sam McAlister, Hannah George, Taylor Glenn
-- 2024-07-24 — The Big Three-Oh-Oh, with Steph McGovern — speakers: Steph McGovern, Bruce Willis, Toby Williams, Hannah George, Grainne Maguire, London Hughes, James Acaster, Jenny Eclair
+- 2024-07-24 — The Big Three-Oh-Oh, with Steph McGovern — speakers: Steph McGovern, Hannah George, Taylor Glenn
 - 2024-07-22 — COMING UP NEXT EP...With Steph McGovern — speakers: Steph McGovern, Hannah George, Taylor Glenn
 - 2024-07-17 — Julie Adenuga's in Circleville — speakers: Julie Adenuga, Hannah George, Taylor Glenn
 - 2024-07-15 — COMING UP NEXT EP ... Julie Adenuga — speakers: Julie Adenuga, Hannah George, Taylor Glenn
 - 2024-07-10 — Sasha Ellen was never on Babe Station — speakers: Sasha Ellen, Babe Station, Hannah George, Taylor Glenn
 - 2024-07-08 — COMING UP NEXT EP ...Sasha Ellen — speakers: Sasha Ellen, Prue Leith, Hannah George, Taylor Glenn
-- 2024-07-03 — DWSC LIVE: With Ronni Ancona — speakers: Ronni Ancona, Olivia Coleman, Hannah George, Taylor Glenn
+- 2024-07-03 — DWSC LIVE: With Ronni Ancona — speakers: Hannah George, Taylor Glenn
 - 2024-07-01 — COMING UP NEXT EP ...Ronni Ancona — speakers: Ronni Ancona, Hannah George, Taylor Glenn
 - 2024-06-26 — A Fishy Tale from Samira Banks — speakers: Fishy Tale, Samira Banks, Hannah George, Taylor Glenn
 - 2024-06-24 — COMING UP NEXT EP...With Samira Banks — speakers: Samira Banks, Hannah George, Taylor Glenn
 - 2024-06-19 — LIVE ZOOM: With Abby Wambaugh — speakers: Abby Wambaugh, Hannah George, Taylor Glenn
-- 2024-06-17 — COMING UP NEXT EP ... With Abby Wambaugh — speakers: Abby Wambaugh, Hannah George, Taylor Glenn
+- 2024-06-17 — COMING UP NEXT EP ... With Abby Wambaugh — speakers: Abby Wambaugh, Abby Wambau, Hannah George, Taylor Glenn
 - 2024-06-12 — Foxy Holes, with Shannon Kyle — speakers: Foxy Holes, Shannon Kyle, Hannah George, Taylor Glenn
 - 2024-06-10 — COMING UP NEXT EP ...Shannon Kyle — speakers: Shannon Kyle, Hannah George, Taylor Glenn
 - 2024-06-05 — DWSC LIVE: With Micky Overman — speakers: Micky Overman, Hannah George, Taylor Glenn
@@ -11007,155 +10887,155 @@
 - 2024-05-22 — The Return of Sofie Hagen — speakers: Sofie Hagen, Hannah George, Taylor Glenn
 - 2024-05-20 — COMING UP NEXT EP...With Sofie Hagen — speakers: Sofie Hagen, Hannah George, Taylor Glenn
 - 2024-05-15 — The Case of Virginia Two Legs: With Six Chick Flicks — speakers: Kerry Ipema, Hannah George, Taylor Glenn
-- 2024-05-13 — COMING UP NEXT EP...With Six Chick Flicks — speakers: Chick Flicks, Kerry Ipema, Hannah George, Taylor Glenn
-- 2024-05-08 — DWSC LIVE: With Athena Kugblenu — speakers: Athena Kugblenu, Hannah George, Taylor Glenn
-- 2024-05-06 — COMING UP NEXT EP ... With Athena Kugblenu — speakers: Athena Kugblenu, Hannah George, Taylor Glenn
-- 2024-05-01 — DWSC LIVE: Kathy & Stella Solve a Murder — speakers: Bronté Barbé, Hannah George, Taylor Glenn
+- 2024-05-13 — COMING UP NEXT EP...With Six Chick Flicks — speakers: Chick Flicks, Hannah George, Taylor Glenn
+- 2024-05-08 — DWSC LIVE: With Athena Kugblenu — speakers: Hannah George, Taylor Glenn
+- 2024-05-06 — COMING UP NEXT EP ... With Athena Kugblenu — speakers: Hannah George, Taylor Glenn
+- 2024-05-01 — DWSC LIVE: Kathy & Stella Solve a Murder — speakers: Hannah George, Taylor Glenn
 - 2024-04-29 — COMING UP NEXT EP ... Kathy & Stella Solve a Murder — speakers: Hannah George, Taylor Glenn
-- 2024-04-24 — Catie's Swansong, with Emma Flint — speakers: Emma Flint, Catie Wilkins, Detective Sasshole, Catie XX, Hannah George, Taylor Glenn
-- 2024-04-22 — COMING UP NEXT EP ... With Emma Flint — speakers: Emma Flint, Detective Sasshole, Hannah George, Taylor Glenn
-- 2024-04-17 — Oenone Forbat's Hat Pin — speakers: Hannah George, Taylor Glenn
+- 2024-04-24 — Catie's Swansong, with Emma Flint — speakers: Emma Flint, Hannah George, Taylor Glenn
+- 2024-04-22 — COMING UP NEXT EP ... With Emma Flint — speakers: Emma Flint, Hannah George, Taylor Glenn
+- 2024-04-17 — Oenone Forbat's Hat Pin — speakers: Oenone Forbat, Hannah George, Taylor Glenn
 - 2024-04-15 — COMING UP NEXT EP...With Oenone Forbat — speakers: Hannah George, Taylor Glenn
 - 2024-04-10 — DWSC LIVE: With Ginnia Cheng — speakers: Ginnia Cheng, Hannah George, Taylor Glenn
 - 2024-04-08 — COMING UP NEXT EP ... Ginnia Cheng — speakers: Ginnia Cheng, Hannah George, Taylor Glenn
 - 2024-04-03 — Roxy Dunn's Cultured Crime — speakers: Roxy Dunn, Hannah George, Taylor Glenn
 - 2024-04-01 — COMING UP NEXT EP ... With Roxy Dunn — speakers: Roxy Dunn, Hannah George, Taylor Glenn
-- 2024-03-27 — DWSC LIVE: With Chantel Nash — speakers: Chantel Nash, Hannah George, Taylor Glenn
+- 2024-03-27 — DWSC LIVE: With Chantel Nash — speakers: Hannah George, Taylor Glenn
 - 2024-03-25 — COMING UP NEXT EP...with Chantel Nash — speakers: Chantel Nash, Hannah George, Taylor Glenn
 - 2024-03-20 — Poppy Jay's Race Home — speakers: Poppy Jay, Hannah George, Taylor Glenn
-- 2024-03-18 — COMING UP NEXT EP...With Poppy Jay — speakers: Hannah George, Taylor Glenn
+- 2024-03-18 — COMING UP NEXT EP...With Poppy Jay — speakers: born detective, Hannah George, Taylor Glenn
 - 2024-03-13 — DWSC LIVE: With Cally Beaton — speakers: Cally Beaton, Hannah George, Taylor Glenn
-- 2024-03-11 — COMING UP NEXT EP...With Cally Beaton — speakers: Cally Beaton, Hannah George, Taylor Glenn
+- 2024-03-11 — COMING UP NEXT EP...With Cally Beaton — speakers: Hannah George, Taylor Glenn
 - 2024-03-06 — 280 DWSC LIVE: With Michelle de Swarte — speakers: Michelle de Swarte, Hannah George, Taylor Glenn
-- 2024-03-04 — SPECIAL ANNOUNCEMENT: Au Revoir Catie — speakers: Hannah George, Taylor Glenn
+- 2024-03-04 — SPECIAL ANNOUNCEMENT: Au Revoir Catie — speakers: Au Revoir Catie Hello, Drunk Women Solving Crime, Hannah George, Taylor Glenn
 - 2024-02-28 — COMING UP NEXT WEEK ... With Michelle de Swarte — speakers: Michelle de Swarte, Hannah George, Taylor Glenn
 - 2024-02-21 — DWSC LIVE: With Toby Williams — speakers: Toby Williams, Hannah George, Taylor Glenn
-- 2024-02-14 — COMING UP NEXT WEEK...with Toby Williams — speakers: Toby Williams, Hannah George, Katherine Ryan, Sara Pascoe, Desiree Burch, Samira Ahmed, Fern Britton, Shazia Mirza
-- 2024-02-07 — The Bones of Spying with Ava Glass — speakers: Ava Glass, Alias Emma, Hannah George, Taylor Glenn
+- 2024-02-14 — COMING UP NEXT WEEK...with Toby Williams — speakers: Toby Williams, Hannah George, Taylor Glenn
+- 2024-02-07 — The Bones of Spying with Ava Glass — speakers: Ava Glass, Hannah George, Taylor Glenn
 - 2024-02-02 — IMPORTANT ANNOUNCEMENT — speakers: Hannah George, Taylor Glenn
 - 2024-01-31 — COMING UP NEXT WEEK.... with Ava Glass — speakers: Ava Glass, Hannah George, Taylor Glenn
 - 2024-01-24 — DWSC LIVE: With Alexandra Haddow — speakers: Alexandra Haddow, Hannah George, Taylor Glenn
 - 2024-01-17 — COMING UP NEXT WEEK.... with Alexandra Haddow — speakers: Alexandra Haddow, Hannah George, Taylor Glenn
-- 2024-01-10 — DWSC LIVE: With Alison Thea-Skot — speakers: Alison Thea-Skot, Paul Abdul, Hannah George, Taylor Glenn
-- 2023-12-20 — It's the DWSC Christmas Message — speakers: Edinburgh Fringe, Xxx Support, Hannah George, Taylor Glenn
-- 2023-12-13 — DWSC LIVE: With Rosie Dempsey — speakers: Rosie Dempsey, Richard Herring, Hannah George, Taylor Glenn
-- 2023-12-06 — DWSC LIVE: With Nicola Dempsey — speakers: Rosie Dempsey, Hannah George, Taylor Glenn
-- 2023-11-29 — MEN'S MONTH: With Kuan-Wen Huang — speakers: Wen Huang, Kuan-Wen Huang, Kuan Wen, Hannah George, Taylor Glenn
-- 2023-11-22 — MEN'S MONTH: With Les Dennis — speakers: Les Dennis Men, Les Dennis, Hannah George, Taylor Glenn
-- 2023-11-15 — MEN'S MONTH: With Christopher Hall — speakers: Christopher Hall, Ruth Bratt, Hannah George, Taylor Glenn
-- 2023-11-08 — MEN'S MONTH: With Clive Anderson — speakers: Clive Anderson Men, Clive Anderson, Hannah George, Taylor Glenn
-- 2023-11-01 — MEN'S MONTH: With Scroobius Pip — speakers: Scroobius Pip, Hannah George, Taylor Glenn
+- 2024-01-10 — DWSC LIVE: With Alison Thea-Skot — speakers: Alison Thea-Skot, Hannah George, Taylor Glenn
+- 2023-12-20 — It's the DWSC Christmas Message — speakers: Hannah George, Taylor Glenn
+- 2023-12-13 — DWSC LIVE: With Rosie Dempsey — speakers: Rosie Dempsey, Hannah George, Taylor Glenn
+- 2023-12-06 — DWSC LIVE: With Nicola Dempsey — speakers: Hannah George, Taylor Glenn
+- 2023-11-29 — MEN'S MONTH: With Kuan-Wen Huang — speakers: Wen Huang, Hannah George, Taylor Glenn
+- 2023-11-22 — MEN'S MONTH: With Les Dennis — speakers: Les Dennis Men, Hannah George, Taylor Glenn
+- 2023-11-15 — MEN'S MONTH: With Christopher Hall — speakers: Christopher Hall, Hannah George, Taylor Glenn
+- 2023-11-08 — MEN'S MONTH: With Clive Anderson — speakers: Clive Anderson Men, Hannah George, Taylor Glenn
+- 2023-11-01 — MEN'S MONTH: With Scroobius Pip — speakers: every year, Hannah George, Taylor Glenn
 - 2023-10-25 — Making Mincemeat out of Criminals, with Kate Barron — speakers: Kate Barron, Hannah George, Taylor Glenn
 - 2023-10-18 — Horsin' Around, with Kate Weston — speakers: Kate Weston, Hannah George, Taylor Glenn
 - 2023-10-11 — Sirens a Blazing, with Lisa Greenwood — speakers: Lisa Greenwood, Hannah George, Taylor Glenn
-- 2023-10-04 — DRUNK WOMEN EMPIRE, LIVE! — speakers: Hannah George, Taylor Glenn
-- 2023-09-27 — DWSC LIVE: With Thenjiwe — speakers: Edinburgh Fringe, Hannah George, Ruth Bratt, Taylor Glenn
-- 2023-09-20 — DWSC LIVE: With Jo Caulfield — speakers: Jo Caulfield, Ruth Bratt, Hannah George, Taylor Glenn
-- 2023-09-13 — DWSC LIVE: With Sooz Kempner — speakers: Ruth Bratt, Hannah George, Taylor Glenn
-- 2023-09-06 — DWSC LIVE: With Susie McCabe — speakers: Susie McCabe, Edinburgh Fringe, Ruth Bratt, Hannah George, Taylor Glenn
+- 2023-10-04 — DRUNK WOMEN EMPIRE, LIVE! — speakers: Drunk Women Solving Crime, Hannah George, Taylor Glenn
+- 2023-09-27 — DWSC LIVE: With Thenjiwe — speakers: Edinburgh Fringe, Hannah George, Taylor Glenn
+- 2023-09-20 — DWSC LIVE: With Jo Caulfield — speakers: Jo Caulfield, Hannah George, Taylor Glenn
+- 2023-09-13 — DWSC LIVE: With Sooz Kempner — speakers: Hannah George, Taylor Glenn
+- 2023-09-06 — DWSC LIVE: With Susie McCabe — speakers: Susie McCabe, Edinburgh Fringe, Hannah George, Taylor Glenn
 - 2023-08-30 — DWSC LIVE: With Mhairi Black — speakers: Hannah George, Taylor Glenn
 - 2023-08-23 — DWSC LIVE: With Bridget Christie — speakers: Hannah George, Taylor Glenn
-- 2023-08-18 — Guilty Feminists Solving Podcasts — speakers: Deborah Francis White, Hannah George, Catie Wilkins, Taylor Glenn
+- 2023-08-18 — Guilty Feminists Solving Podcasts — speakers: Guilty Feminists Solving Podcasts, Hannah George, Taylor Glenn
 - 2023-08-16 — DWSC LIVE: With Pippa Evans — speakers: Pippa Evans, Edinburgh Fringe, Hannah George, Taylor Glenn
 - 2023-08-09 — DWSC LIVE: With Catherine Bohart — speakers: Catherine Bohart, Hannah George, Taylor Glenn
 - 2023-08-02 — Strawpedo & Sweats with Chloe Petts — speakers: Chloe Petts, Hannah George, Taylor Glenn
-- 2023-07-26 — DWSC LIVE: With Jordan Gray — speakers: Jordan Gray Hooray, Jordan Gray, Rachel Fairborn, Hannah George, Taylor Glenn
+- 2023-07-26 — DWSC LIVE: With Jordan Gray — speakers: Jordan Gray Hooray, Jordan Gray, Hannah George, Taylor Glenn
 - 2023-07-19 — DWSC LIVE: With Rachel Fairburn (again) — speakers: Rachel Fairburn, Hannah George, Taylor Glenn
 - 2023-07-12 — DWSC LIVE: With Tolly T — speakers: Hannah George, Taylor Glenn
 - 2023-07-05 — DWSC LIVE: With Harriet Kemsley — speakers: Harriet Kemsley, Hannah George, Taylor Glenn
 - 2023-06-28 — Abigoliah Schamaun: It's a London Thing — speakers: Abigoliah Schamaun, Hannah George, Taylor Glenn
-- 2023-06-21 — Frog Stone's Cadaver Caper — speakers: Hannah George, Taylor Glenn
+- 2023-06-21 — Frog Stone's Cadaver Caper — speakers: Frog Stone, Hannah George, Taylor Glenn
 - 2023-06-14 — DWSC LIVE: With Rosie Jones — speakers: Rosie Jones, Hannah George, Taylor Glenn
-- 2023-06-07 — DWSC LIVE: With Cicely Belle Blain — speakers: Belle Blain, nick name, Hannah George, Taylor Glenn
-- 2023-05-31 — Jo Griffin Needs to Move Her Car — speakers: Jo Griffin Needs, Jo Griffin, Bacardi Breezer, Hannah George, Taylor Glenn
-- 2023-05-24 — Gabby Bryan Packs-Up Her Trunk — speakers: Gabby Bryan, Hannah George, Taylor Glenn
+- 2023-06-07 — DWSC LIVE: With Cicely Belle Blain — speakers: Belle Blain, Hannah George, Taylor Glenn
+- 2023-05-31 — Jo Griffin Needs to Move Her Car — speakers: Jo Griffin Needs, Hannah George, Taylor Glenn
+- 2023-05-24 — Gabby Bryan Packs-Up Her Trunk — speakers: Hannah George, Taylor Glenn
 - 2023-05-17 — Sally O'Leary Leaves the Door WIDE OPEN — speakers: Sally O'Leary, Hannah George, Taylor Glenn
 - 2023-05-10 — Ria Lina Vs 'Alex' — speakers: Hannah George, Taylor Glenn
-- 2023-05-03 — Robyn Wilder Keeps the Meter Running — speakers: Wilder Keeps, Meter Running, Robyn Wilder, Hannah George, Taylor Glenn
+- 2023-05-03 — Robyn Wilder Keeps the Meter Running — speakers: Wilder Keeps, Meter Running, Hannah George, Taylor Glenn
 - 2023-04-26 — DWSC LIVE: With Emily Dean — speakers: Emily Dean, Hannah George, Taylor Glenn
 - 2023-04-19 — DWSC LIVE: With Fatiha El Ghorri — speakers: Fatiha El Ghorri, Hannah George, Taylor Glenn
-- 2023-04-12 — Posey Mehta & The Tottenham Outrage — speakers: Posey Mehta, Edinburgh Fringe, Hannah George, Taylor Glenn
-- 2023-04-05 — DWSC LIVE: With Daisy Earl — speakers: Daisy Earl Back, Daisy Earl, Once Daisy, Edinburgh Fringe, Hannah George, Taylor Glenn
-- 2023-03-29 — In The Quiet Carriage with Helen Zaltzman — speakers: Helen Zaltzman, Agatha Christie, Cherry Garcia, Hannah George, Taylor Glenn
-- 2023-03-22 — DWSC LIVE: With Teresa Livingstone — speakers: Teresa Livingstone, Hannah George, Taylor Glenn
-- 2023-03-15 — DWSC LIVE: With Lisa McGee — speakers: Lisa McGee, Derry Girls, Hannah George, Taylor Glenn
-- 2023-03-12 — Drunk Women Solving The Moon Under Water — speakers: John Robins, Robin Allender, Lady Gaga, Comic Relief, Hannah George, Taylor Glenn
+- 2023-04-12 — Posey Mehta & The Tottenham Outrage — speakers: Posey Mehta, Drunk Women, Hannah George, Taylor Glenn
+- 2023-04-05 — DWSC LIVE: With Daisy Earl — speakers: Daisy Earl Back, Daisy Earl, Hannah George, Taylor Glenn
+- 2023-03-29 — In The Quiet Carriage with Helen Zaltzman — speakers: Helen Zaltzman, Hannah George, Taylor Glenn
+- 2023-03-22 — DWSC LIVE: With Teresa Livingstone — speakers: Hannah George, Taylor Glenn
+- 2023-03-15 — DWSC LIVE: With Lisa McGee — speakers: Lisa McGee, Hannah George, Taylor Glenn
+- 2023-03-12 — Drunk Women Solving The Moon Under Water — speakers: Moon Under Water Red, Nose Day, Hannah George, Taylor Glenn
 - 2023-03-08 — DWSC LIVE: With Heidi Regan — speakers: Heidi Regan, Hannah George, Taylor Glenn
-- 2023-03-01 — DWSC LIVE: With Kate McCabe — speakers: Kate McCabe Time, Kate McCabe, Hannah George, Taylor Glenn
-- 2023-02-22 — DWSC LIVE: With Kimia Etemadi — speakers: Kimia Etemadi, Guest Kimia Etemadi, Hannah George, Taylor Glenn
+- 2023-03-01 — DWSC LIVE: With Kate McCabe — speakers: Kate McCabe Time, Hannah George, Taylor Glenn
+- 2023-02-22 — DWSC LIVE: With Kimia Etemadi — speakers: Kimia Etemadi, Hannah George, Taylor Glenn
 - 2023-02-15 — DWSC LIVE: With Janice Connolly — speakers: Hannah George, Taylor Glenn
-- 2023-02-08 — DWSC LIVE: With Tej Dhutia — speakers: Tej Dhutia, Hannah George, Taylor Glenn
+- 2023-02-08 — DWSC LIVE: With Tej Dhutia — speakers: Hannah George, Taylor Glenn
 - 2023-02-01 — Katie Pritchard's Extensive Knowledge — speakers: Katie Pritchard, Hannah George, Taylor Glenn
 - 2023-01-25 — DWSC LIVE: With Sarah Bennetto — speakers: Sarah Bennetto, Hannah George, Taylor Glenn
 - 2023-01-18 — DWSC LIVE : With Priya Hall — speakers: Priya Hall, Hannah George, Taylor Glenn
 - 2023-01-11 — El Vino con Ella Kenion — speakers: el vino, Hannah George, Taylor Glenn
 - 2023-01-04 — DWSC LIVE: With Lauren Pattison — speakers: Lauren Pattison, Hannah George, Taylor Glenn
 - 2022-12-28 — DWSC LIVE: With Eme Essien — speakers: Eme Essien, Hannah George, Taylor Glenn
-- 2022-12-21 — DWSC LIVE: With Arabella Weir — speakers: Arabella Weir, Xxx Hosted, Hannah George, Taylor Glenn
+- 2022-12-21 — DWSC LIVE: With Arabella Weir — speakers: Arabella Weir, Hannah George, Taylor Glenn
 - 2022-12-14 — DWSC LIVE: With Harriet Dyer — speakers: Harriet Dyer, Hannah George, Taylor Glenn
 - 2022-12-07 — DWSC LIVE: With Nina Gilligan — speakers: Nina Gilligan, Hannah George, Taylor Glenn
 - 2022-11-30 — MEN'S MONTH: Ed Byrne — speakers: Ed Byrne, Hannah George, Taylor Glenn
-- 2022-11-23 — MEN'S MONTH: With Mikey Day — speakers: Hannah George, Taylor Glenn
+- 2022-11-23 — MEN'S MONTH: With Mikey Day — speakers: Men's Month, Hannah George, Taylor Glenn
 - 2022-11-16 — MEN'S MONTH: With Jamie Morton — speakers: Jamie Morton, Hannah George, Taylor Glenn
 - 2022-11-09 — MEN'S MONTH: With Nick Helm — speakers: Nick Helm, Hannah George, Taylor Glenn
 - 2022-11-02 — MEN'S MONTH: With Bilal Zafar — speakers: Hannah George, Taylor Glenn
-- 2022-10-26 — Fanny Sidney & The Crime of Grace — speakers: Fanny Sidney, Margret Atwood, Hannah George, Taylor Glenn
-- 2022-10-25 — DRUNK WOMEN CAUGHT REDHANDED LIVE! — speakers: Hannah Maguire, Suruthi Bala, Hannah George, Taylor Glenn, Catie Wilkins
+- 2022-10-26 — Fanny Sidney & The Crime of Grace — speakers: Fanny Sidney, Grace Oh, Drunk Women, Hannah George, Taylor Glenn
+- 2022-10-25 — DRUNK WOMEN CAUGHT REDHANDED LIVE! — speakers: Hannah George, Taylor Glenn
 - 2022-10-19 — Jenny Collier: One Shady Lady — speakers: Jenny Collier, Hannah George, Taylor Glenn
 - 2022-10-12 — DWSC LIVE: With Rosie Holt — speakers: Rosie Holt, Hannah George, Taylor Glenn
 - 2022-10-05 — DWSC LIVE: With Rachel Harper — speakers: Rachel Harper, Hannah George, Taylor Glenn
 - 2022-09-28 — DWSC LIVE: With Charlie George — speakers: Charlie George, Hannah George, Taylor Glenn
-- 2022-09-21 — DWSC LIVE: With Rachel Fairburn — speakers: Rachel Fairburn, Gregor McGregor, Hannah George, Taylor Glenn
+- 2022-09-21 — DWSC LIVE: With Rachel Fairburn — speakers: Rachel Fairburn, Hannah George, Taylor Glenn
 - 2022-09-14 — DWSC LIVE: With Abi Clarke — speakers: Abi Clarke, Edinburgh Fringe, Hannah George, Taylor Glenn
 - 2022-09-07 — DWSC LIVE: With Dee Allum — speakers: Dee Allum, Edinburgh Odyssey, Hannah George, Taylor Glenn
 - 2022-08-31 — DWSC LIVE: With Janey Godley — speakers: Janey Godley, Hannah George, Taylor Glenn
-- 2022-08-24 — DWSC LIVE: With Janeane Garofalo — speakers: Janeane Garofalo, Hannah George, Taylor Glenn
+- 2022-08-24 — DWSC LIVE: With Janeane Garofalo — speakers: Hannah George, Taylor Glenn
 - 2022-08-17 — DWSC LIVE with Lucy Porter — speakers: Lucy Porter, Hannah George, Taylor Glenn
 - 2022-08-10 — DWSC LIVE: With Lou Sanders — speakers: Lou Sanders, Hannah George, Taylor Glenn
 - 2022-08-03 — In the Woodshed with Dr Janina Ramirez — speakers: Janina Ramirez, Hannah George, Taylor Glenn
 - 2022-07-27 — DWSC LIVE: With Sharon Wanjohi — speakers: Sharon Wanjohi, Hannah George, Taylor Glenn
-- 2022-07-20 — Brenda Gilhooly HAS THE EVIDENCE — speakers: Brenda Gilhooly, Robin Hood, Hannah George, Taylor Glenn
+- 2022-07-20 — Brenda Gilhooly HAS THE EVIDENCE — speakers: Brenda Gilhooly, Hannah George, Taylor Glenn
 - 2022-07-13 — DWSC LIVE: With Suchandrika Chakrabarti — speakers: Suchandrika Chakrabarti, Hannah George, Taylor Glenn
-- 2022-07-06 — Chantal Feduchin-Pate & The Car Guy — speakers: Hannah George, Taylor Glenn
+- 2022-07-06 — Chantal Feduchin-Pate & The Car Guy — speakers: Chantal Feduchin, Drunk Women Solving Crime, Hannah George, Taylor Glenn
 - 2022-06-29 — DWSC LIVE: With Marianne Levy — speakers: Marianne Levy, Hannah George, Taylor Glenn
-- 2022-06-22 — Samira Ahmed's Newsround — speakers: Samira Ahmed, Samira Always, Hannah George, Taylor Glenn
+- 2022-06-22 — Samira Ahmed's Newsround — speakers: Samira Ahmed, Hannah George, Taylor Glenn
 - 2022-06-15 — Celya AB & Her Spoons Stakeout — speakers: Hannah George, Taylor Glenn
-- 2022-06-08 — DWSC LIVE: With Lucy Pearman — speakers: Lucy Pearman, Mother Goose, Ben Affleck, Hannah George, Taylor Glenn
+- 2022-06-08 — DWSC LIVE: With Lucy Pearman — speakers: Lucy Pearman, Hannah George, Taylor Glenn
 - 2022-06-01 — DWSC LIVE: With Sikisa — speakers: Hannah George, Taylor Glenn
-- 2022-05-25 — Rosalind Blessed Will Wait For You — speakers: Rosalind Blessed, Quick Award, Hannah George, Taylor Glenn
-- 2022-05-18 — Gina Lyons' Bludgeoning Actually — speakers: Richard Curtis, Hannah George, Taylor Glenn
+- 2022-05-25 — Rosalind Blessed Will Wait For You — speakers: Hannah George, Taylor Glenn
+- 2022-05-18 — Gina Lyons' Bludgeoning Actually — speakers: Gina Lyons, Drunk Women Solving Crime, Hannah George, Taylor Glenn
 - 2022-05-11 — DWSC LIVE: With Stevie Martin — speakers: Stevie Martin, Hannah George, Taylor Glenn
-- 2022-05-04 — DWSC LIVE: With Abigail Burdess — speakers: Abigail Burdess Recorded, Abigail Burdess, Hannah George, Taylor Glenn
+- 2022-05-04 — DWSC LIVE: With Abigail Burdess — speakers: Abigail Burdess Recorded, Hannah George, Taylor Glenn
 - 2022-04-27 — Beth Morrey & The Floating Floor — speakers: Beth Morrey, Hannah George, Taylor Glenn
 - 2022-04-20 — No episode this week, here's why... — speakers: Hannah George, Taylor Glenn
-- 2022-04-13 — Lauren Layfield & Mean Girls X5 — speakers: Lauren Layfield, Hannah George, Taylor Glenn
+- 2022-04-13 — Lauren Layfield & Mean Girls X5 — speakers: Lauren Layfield, Mean Girls, Hannah George, Taylor Glenn
 - 2022-04-06 — DWSC LIVE: With Gráinne Maguire — speakers: Hannah George, Taylor Glenn
-- 2022-03-30 — DWSC LIVE: With Holly Burn — speakers: Holly Burn, Grainne Maguire, Hannah George, Taylor Glenn
+- 2022-03-30 — DWSC LIVE: With Holly Burn — speakers: Hannah George, Taylor Glenn
 - 2022-03-23 — DWSC LIVE: With Angela Barnes — speakers: Angela Barnes, Hannah George, Taylor Glenn
-- 2022-03-16 — Lily Phillips' Best of Three — speakers: Lily Phillips, Joining Taylor, Mary Johnson, Hannah George, Taylor Glenn
-- 2022-03-13 — Drunk Women Solving Richard Herring — speakers: Richard Herring, Comic Relief, Hannah George, Taylor Glenn
+- 2022-03-16 — Lily Phillips' Best of Three — speakers: Lily Phillips, Hannah George, Taylor Glenn
+- 2022-03-13 — Drunk Women Solving Richard Herring — speakers: Richard Herring, Hannah George, Taylor Glenn
 - 2022-03-09 — Maisie Adam is NOT a catfish — speakers: Maisie Adam, Hannah George, Taylor Glenn
-- 2022-03-02 — DWSC LIVE: With Nat Luurtsema — speakers: Sasshole Catie, Nat Luurtsema, Hannah George, Taylor Glenn
-- 2022-02-23 — DWSC LIVE: With Elf Lyons — speakers: Felippe Lido, Hannah George, Taylor Glenn
-- 2022-02-16 — Alison Spittle et Le Scandale de Royal — speakers: Alison Spittle, Jenny Eclair, Richard Herring, Mark Silcox, Hannah George, Taylor Glenn
+- 2022-03-02 — DWSC LIVE: With Nat Luurtsema — speakers: Hannah George, Taylor Glenn
+- 2022-02-23 — DWSC LIVE: With Elf Lyons — speakers: Hannah George, Taylor Glenn
+- 2022-02-16 — Alison Spittle et Le Scandale de Royal — speakers: Alison Spittle, Guild Award, Hannah George, Taylor Glenn
 - 2022-02-09 — DWSC LIVE: With Hayley Ellis — speakers: Hayley Ellis, Hannah George, Taylor Glenn
-- 2022-02-02 — Parm Sandhu's Detective School — speakers: Parm Sandhu, Drunk Women Solving Crime, British Police, Hannah George, Taylor Glenn
+- 2022-02-02 — Parm Sandhu's Detective School — speakers: Parm Sandhu, Drunk Women Solving Crime, Hannah George, Taylor Glenn
 - 2022-01-26 — Joanne Lau's Most Unusual Father's Day Package — speakers: Joanne Lau, Hannah George, Taylor Glenn
-- 2022-01-21 — DWSC Talk C4's Screw with show creator Rob Williams — speakers: Rob Williams, Nina Sosanya, Jamie Lee O'Donnell, Laura Checkley, Hannah George, Taylor Glenn
-- 2022-01-19 — DWSC LIVE: With Ayesha Hazarika — speakers: Ayesha Hazarika, Maisie Adam, Hannah George, Taylor Glenn
+- 2022-01-21 — DWSC Talk C4's Screw with show creator Rob Williams — speakers: Rob Williams, Hannah George, Taylor Glenn
+- 2022-01-19 — DWSC LIVE: With Ayesha Hazarika — speakers: Ayesha Hazarika, Hannah George, Taylor Glenn
 - 2022-01-07 — DWSC LIVE IN LONDON AND GUERNSEY (Plus Sassy Catie Anno) — speakers: Catie Anno, Hannah George, Taylor Glenn
 - 2021-12-29 — HAPPY NEW YEAR — speakers: Hannah George, Taylor Glenn
 - 2021-12-22 — DRUNK WOMEN LIVE: With Eleanor Morton — speakers: Eleanor Morton, Hannah George, Taylor Glenn
-- 2021-12-15 — DRUNK WOMEN LIVE: With Felicity Ward — speakers: Bikini Atoll, Hannah George, Taylor Glenn
-- 2021-12-08 — DRUNK WOMEN LIVE: With Luisa Omielan — speakers: Luisa Omielan, Luisa Omelian, Hannah George, Taylor Glenn
-- 2021-12-01 — DWSC LIVE: With Jocelyn Jee Esien — speakers: Jocelyn Jee Esien, Jocelyn Jee Esien Aka, Hannah George, Taylor Glenn
+- 2021-12-15 — DRUNK WOMEN LIVE: With Felicity Ward — speakers: Hannah George, Taylor Glenn
+- 2021-12-08 — DRUNK WOMEN LIVE: With Luisa Omielan — speakers: Luisa Omielan, Hannah George, Taylor Glenn
+- 2021-12-01 — DWSC LIVE: With Jocelyn Jee Esien — speakers: Jocelyn Jee Esien, Hannah George, Taylor Glenn
 - 2021-11-24 — MEN'S MONTH LIVE: With Ed Gamble — speakers: Ed Gamble, Hannah George, Taylor Glenn
 - 2021-11-17 — MEN'S MONTH: With Nick Mohammed — speakers: Nick Mohammed, Hannah George, Taylor Glenn
 - 2021-11-10 — MEN'S MONTH: With Al Murray — speakers: Al Murray, Hannah George, Taylor Glenn
 - 2021-11-03 — MEN'S MONTH LIVE: With Kiell Smith Bynoe — speakers: Kiell Smith Bynoe, Guy Fawks, Hannah George, Taylor Glenn
 - 2021-10-27 — Feeling 'Seen' with Sarah Mills — speakers: Sarah Mills, Hannah George, Taylor Glenn
 - 2021-10-20 — Izzy Mant's Indecent Proposal — speakers: Indecent Proposal, Hannah George, Taylor Glenn
-- 2021-10-13 — DWSC LIVE with Mary O'Connell — speakers: Mary O'Connell, Joining Taylor, Hannah George, Taylor Glenn
+- 2021-10-13 — DWSC LIVE with Mary O'Connell — speakers: Mary O'Connell, Hannah George, Taylor Glenn
 - 2021-10-06 — DWSC LIVE: With Grace Campbell — speakers: Grace Campbell, Hannah George, Taylor Glenn
 - 2021-09-29 — Good Heavens, It's Susie Dent! — speakers: Good Heavens, Susie Dent, Hannah George, Taylor Glenn
 - 2021-09-22 — Dinner In The Clink, With Hannah Cunningham — speakers: Hannah Cunningham, Hannah George, Taylor Glenn
@@ -11164,81 +11044,81 @@
 - 2021-09-01 — DRUNK WOMEN LIVE: With Janine Harouni — speakers: Janine Harouni, Hannah George, Taylor Glenn
 - 2021-08-25 — DRUNK WOMEN LIVE: With Kirsten O'Brien — speakers: Kirsten O'Brien, Hannah George, Taylor Glenn
 - 2021-08-18 — Laurita Blewitt's Mime & Crime Masterclass — speakers: Laurita Blewitt, Hannah George, Taylor Glenn
-- 2021-08-11 — Esme Young & The Worst Woman on Earth — speakers: Sewing Bee, Hannah George, Taylor Glenn
-- 2021-08-04 — Hatty Ashdown - We Had Her At 'Farmer' — speakers: Hatty Ashdown, Hannah George, Taylor Glenn
+- 2021-08-11 — Esme Young & The Worst Woman on Earth — speakers: Hannah George, Taylor Glenn
+- 2021-08-04 — Hatty Ashdown - We Had Her At 'Farmer' — speakers: Hannah George, Taylor Glenn
 - 2021-07-28 — Jackie Weaver Wins Cluedo — speakers: Jackie Weaver Wins Cluedo, Jackie Weaver, Hannah George, Taylor Glenn
-- 2021-07-21 — Heather Brooker Takes Over The Asylum. — speakers: Heather Brooker, Hannah George, Taylor Glenn
-- 2021-07-14 — Grace Petrie & The Good Sport — speakers: Hannah George, Taylor Glenn
+- 2021-07-21 — Heather Brooker Takes Over The Asylum. — speakers: Heather Brooker Takes Over, Hannah George, Taylor Glenn
+- 2021-07-14 — Grace Petrie & The Good Sport — speakers: Grace Petrie, Hannah George, Taylor Glenn
 - 2021-07-07 — Sajeela Kershi & The Acid Test — speakers: Sajeela Kershi, Hannah George, Taylor Glenn
-- 2021-06-30 — Isy Suttie and The Culture War By Proxy — speakers: Woody Woodpecker, Hannah George, Taylor Glenn
+- 2021-06-30 — Isy Suttie and The Culture War By Proxy — speakers: Isy Suttie, Hannah George, Taylor Glenn
 - 2021-06-23 — Rachel Creeger & The Boo Box — speakers: Rachel Creeger, Hannah George, Taylor Glenn
-- 2021-06-16 — Vix Leyton & The Cliff-Hanger — speakers: Vix Leyton, Hannah George, Taylor Glenn
-- 2021-06-09 — Caroline Newte Hardie Isn't In Kansas Anymore — speakers: Hannah George, Taylor Glenn
-- 2021-06-02 — Alexis Strum & The Escape From Down Under — speakers: Alexis Strum, John Lennon, Paul McCartney, Hannah George, Taylor Glenn
+- 2021-06-16 — Vix Leyton & The Cliff-Hanger — speakers: Hannah George, Taylor Glenn
+- 2021-06-09 — Caroline Newte Hardie Isn't In Kansas Anymore — speakers: Caroline Newte Hardie Isn, Hannah George, Taylor Glenn
+- 2021-06-02 — Alexis Strum & The Escape From Down Under — speakers: Hannah George, Taylor Glenn
 - 2021-05-26 — Rubina Pabani: Crime Fighter with a Taste for Chicken — speakers: Rubina Pabani, Hannah George, Taylor Glenn
 - 2021-05-19 — Sally-Anne Hayward's Imposter Syndrome — speakers: Sally-Anne Hayward, Hannah George, Taylor Glenn
 - 2021-05-12 — Florence Schechter and the Honesty Box — speakers: Florence Schechter, Hannah George, Taylor Glenn
-- 2021-05-05 — Briony May Williams: Nobody's fool — speakers: May Williams, Briony May Williams, Hannah George, Taylor Glenn
+- 2021-05-05 — Briony May Williams: Nobody's fool — speakers: May Williams, Hannah George, Taylor Glenn
 - 2021-04-28 — DRUNK WOMEN STREAMED: With Shazia Mirza (And Jayde Adams) — speakers: Jayde Adams, Hannah George, Taylor Glenn
 - 2021-04-21 — Rosie Wilby & The Stairway To Nowhere — speakers: Rosie Wilby, Hannah George, Taylor Glenn
-- 2021-04-14 — Kate Thornton & The Lady in the Spotlight — speakers: Kate Thornton, Hannah George, Taylor Glenn
+- 2021-04-14 — Kate Thornton & The Lady in the Spotlight — speakers: Kate Thornton, Drunk Women, Hannah George, Taylor Glenn
 - 2021-04-07 — Sara Pascoe & The Initiation Ceremony — speakers: Sara Pascoe, Hannah George, Taylor Glenn
-- 2021-03-30 — Emma Burnell & The Cat Burglar — speakers: Emma Burnell, Hannah George, Taylor Glenn
+- 2021-03-30 — Emma Burnell & The Cat Burglar — speakers: Emma Burnell, Drunk Women, Hannah George, Taylor Glenn
 - 2021-03-24 — Nina Conti, Dispenser of Bikes — speakers: Nina Conti, Hannah George, Taylor Glenn
 - 2021-03-17 — DRUNK WOMEN LIVE: With Helen Bauer — speakers: Helen Bauer, Hannah George, Taylor Glenn
-- 2021-03-14 — Drunk Women Caught Redhanded — speakers: Hannah Maguire, Suruthi Bala, Hannah George, Catie Wilkins, Taylor Glenn, Comic Relief, bill payer
+- 2021-03-14 — Drunk Women Caught Redhanded — speakers: Drunk Women Caught Redhanded, Acast Red Nose Day, Hannah George, Taylor Glenn
 - 2021-03-10 — Annie McGrath: Lady Detective — speakers: Annie McGrath, Hannah George, Taylor Glenn
 - 2021-03-03 — Brona C. Titley takes us to Funderland — speakers: Hannah George, Taylor Glenn
-- 2021-02-24 — Catherine Bohart & The Sassy Pamphlet — speakers: Catherine Bohart, Margret Thatcher, Hannah George, Taylor Glenn
-- 2021-02-17 — Erika Ehler & The Village of The Damned — speakers: Erika Ehler, Hannah George, Taylor Glenn
+- 2021-02-24 — Catherine Bohart & The Sassy Pamphlet — speakers: Hannah George, Taylor Glenn
+- 2021-02-17 — Erika Ehler & The Village of The Damned — speakers: Erika Ehler, Drunk Women Solving Crime, Hannah George, Taylor Glenn
 - 2021-02-10 — Juliet Meyers & The Mail Train Terror — speakers: Juliet Meyers, Hannah George, Taylor Glenn
 - 2021-02-03 — Crime Samples with Pippa Evans — speakers: Pippa Evans, Hannah George, Taylor Glenn
 - 2021-01-27 — DWSC LIVE: With Michelle De Swarte — speakers: Michelle De Swarte, Clapham Grand, Hannah George, Taylor Glenn
-- 2021-01-20 — DWSC LIVE: With Amy Gledhill — speakers: Amy Gledhill, Clapham Grand, King James, Hannah George, Taylor Glenn
+- 2021-01-20 — DWSC LIVE: With Amy Gledhill — speakers: Amy Gledhill, Hannah George, Taylor Glenn
 - 2021-01-13 — Laura Hayden & The Smugglers — speakers: Laura Hayden, Hannah George, Taylor Glenn
-- 2020-12-23 — Christmas Message 2020 — speakers: Amy Gledhill, Hannah George, Taylor Glenn
-- 2020-12-16 — In The Dog House, with Sara Barron. — speakers: Sara Barron, Sarah Barron, Hannah George, Taylor Glenn
-- 2020-12-09 — Natasha Vasandani & The Nonagenarian Serial Killer — speakers: Natasha Vasandani, Hannah George, Taylor Glenn
+- 2020-12-23 — Christmas Message 2020 — speakers: Christmas Message, Hannah George, Taylor Glenn
+- 2020-12-16 — In The Dog House, with Sara Barron. — speakers: Sara Barron, Hannah George, Taylor Glenn
+- 2020-12-09 — Natasha Vasandani & The Nonagenarian Serial Killer — speakers: Natasha Vasandani, Drunk Women Solving Crime, Hannah George, Taylor Glenn
 - 2020-12-02 — Kellie Shirley & The Riddle of Poison — speakers: Kellie Shirley, Hannah George, Taylor Glenn
 - 2020-11-25 — MEN'S MONTH: Romesh Ranganathan — speakers: Hannah George, Taylor Glenn
-- 2020-11-18 — MEN'S MONTH: Adam Buxton — speakers: Adam Buxton, Mark Zukerberg, Hannah George, Taylor Glenn
-- 2020-11-11 — Extra Content Announcement! — speakers: Hannah George, Taylor Glenn
+- 2020-11-18 — MEN'S MONTH: Adam Buxton — speakers: Adam Buxton, Hannah George, Taylor Glenn
+- 2020-11-11 — Extra Content Announcement! — speakers: Extra Content Announcement, Hannah George, Taylor Glenn
 - 2020-11-11 — MEN'S MONTH: Tom Allen — speakers: Tom Allen, Hannah George, Taylor Glenn
-- 2020-11-04 — MEN'S MONTH: Nish Kumar — speakers: Nish Kumar, Hannah George, Taylor Glenn
-- 2020-10-28 — Lisa Holdsworth & The Belles Of The Ball — speakers: Lisa Holdsworth, Hannah George, Taylor Glenn
+- 2020-11-04 — MEN'S MONTH: Nish Kumar — speakers: Hannah George, Taylor Glenn
+- 2020-10-28 — Lisa Holdsworth & The Belles Of The Ball — speakers: Hannah George, Taylor Glenn
 - 2020-10-21 — Ariane Sherine & The Stressful Picnic — speakers: Ariane Sherine, Hannah George, Taylor Glenn
 - 2020-10-14 — Sarah Callaghan & The Porcine Perpetrators — speakers: Sarah Callaghan, Hannah George, Taylor Glenn
-- 2020-10-07 — Samantha Baines & The Ivy League of Murder — speakers: Samantha Baines, Hannah George, Taylor Glenn
-- 2020-09-30 — Poppy Hillstead & The Ubiquitous Naked Lady — speakers: Carrie Bradshaw, Hannah George, Taylor Glenn
-- 2020-09-23 — Sarah Keyworth: Here With Bells-On — speakers: Sarah Keyworth, Mariah Carey, Hannah George, Taylor Glenn
-- 2020-09-16 — Jackie Adedeji & The Hottest Heister In Town — speakers: Hannah George, Taylor Glenn
-- 2020-09-09 — Joanne McNally's Guide To A Great Ab. — speakers: Joanne McNally's Guide, Joanne McNally, Hannah George, Taylor Glenn
+- 2020-10-07 — Samantha Baines & The Ivy League of Murder — speakers: some exp, Hannah George, Taylor Glenn
+- 2020-09-30 — Poppy Hillstead & The Ubiquitous Naked Lady — speakers: Hannah George, Taylor Glenn
+- 2020-09-23 — Sarah Keyworth: Here With Bells-On — speakers: Sarah Keyworth, Hannah George, Taylor Glenn
+- 2020-09-16 — Jackie Adedeji & The Hottest Heister In Town — speakers: Jackie Adedeji, Hannah George, Taylor Glenn
+- 2020-09-09 — Joanne McNally's Guide To A Great Ab. — speakers: Joanne McNally's Guide, Hannah George, Taylor Glenn
 - 2020-09-02 — Athena Kugblenu's got The Benz — speakers: Athena Kugblenu, Hannah George, Taylor Glenn
 - 2020-08-26 — Christina Martin & The Prison Dash — speakers: Christina Martin, Hannah George, Taylor Glenn
 - 2020-08-19 — Aggie MacKenzie & The Naughty Boy — speakers: Hannah George, Taylor Glenn
 - 2020-08-12 — Making Crime Sexy, With Arielle Souma — speakers: Arielle Souma, Hannah George, Taylor Glenn
-- 2020-08-05 — Synchronising With Viv Groskop — speakers: Viv Groskop, Hannah George, Taylor Glenn
+- 2020-08-05 — Synchronising With Viv Groskop — speakers: Hannah George, Taylor Glenn
 - 2020-07-29 — One Hundredth Episode with Ricki Lake — speakers: Ricki Lake, Hannah George, Taylor Glenn
-- 2020-07-22 — Esther Manito & Game of Stones — speakers: Esther Manito, Oliver Twist, Hannah George, Taylor Glenn
-- 2020-07-15 — Christine Robertson & The Lobotomobile — speakers: Christine Robertson, Hannah George, Taylor Glenn
-- 2020-07-08 — Dr Nidhi Gupta & The Unfit Husband — speakers: Dick Van-Dyke, Nidhi Gupta, Hannah George, Taylor Glenn
-- 2020-07-01 — Fortune Feimster & The Mile-High Misdemeanour — speakers: Hannah George, Taylor Glenn
+- 2020-07-22 — Esther Manito & Game of Stones — speakers: Hannah George, Taylor Glenn
+- 2020-07-15 — Christine Robertson & The Lobotomobile — speakers: Christine Robertson, Drunk Women Solving Crime, Hannah George, Taylor Glenn
+- 2020-07-08 — Dr Nidhi Gupta & The Unfit Husband — speakers: Dr Nidhi Gupta, Hannah George, Taylor Glenn
+- 2020-07-01 — Fortune Feimster & The Mile-High Misdemeanour — speakers: Fortune Feimster, Hannah George, Taylor Glenn
 - 2020-06-24 — Jane Fallon: Unreliable Witness — speakers: Jane Fallon, Hannah George, Taylor Glenn
 - 2020-06-17 — Jo Elvin & The Witness In The Family — speakers: Jo Elvin, Hannah George, Taylor Glenn
-- 2020-06-10 — Jo Caulfield & The Self Anointed Saint — speakers: Jo Caulfield, Danny DeVito, Hannah George, Taylor Glenn
-- 2020-06-03 — Fern Britton & The Family Feud — speakers: Fern Britton, Hannah George, Taylor Glenn
+- 2020-06-10 — Jo Caulfield & The Self Anointed Saint — speakers: Jo Caulfie, Hannah George, Taylor Glenn
+- 2020-06-03 — Fern Britton & The Family Feud — speakers: Hannah George, Taylor Glenn
 - 2020-05-27 — But WAS Tasha Dhanraj Kidnapped? — speakers: Dhanraj Kidnapped, Tasha Dhanraj, Hannah George, Taylor Glenn
 - 2020-05-20 — Desiree Burch's Swinging Detective — speakers: Desiree Burch, Hannah George, Taylor Glenn
 - 2020-05-13 — Frankie Ward & Crime by Clown — speakers: Frankie Ward, Hannah George, Taylor Glenn
-- 2020-05-06 — Laura Lexx & The Case of The Gun Wielding Granny — speakers: Laura Lexx, Hannah George, Taylor Glenn
-- 2020-04-29 — An Education With Lizzie Roper — speakers: Lizzie Roper, Daniel Smith, Hannah George, Taylor Glenn
-- 2020-04-22 — Ruth Bratt & A Fiction of Fraud — speakers: Ruth Bratt, Hannah George, Taylor Glenn
-- 2020-04-15 — The Drunk Women & The Duel — speakers: Hannah George, Taylor Glenn
-- 2020-04-08 — Monica Heisey & Spring-Heeled Jack — speakers: Monica Heisey Spring, Monica Heisey, Hannah George, Taylor Glenn
-- 2020-03-31 — Liz Miele & The Spy With The Cold Nose — speakers: Liz Miele, Hannah George, Taylor Glenn
+- 2020-05-06 — Laura Lexx & The Case of The Gun Wielding Granny — speakers: Hannah George, Taylor Glenn
+- 2020-04-29 — An Education With Lizzie Roper — speakers: Lizzie Roper, Hannah George, Taylor Glenn
+- 2020-04-22 — Ruth Bratt & A Fiction of Fraud — speakers: Ruth Bratt, Fraud Coming, Hannah George, Taylor Glenn
+- 2020-04-15 — The Drunk Women & The Duel — speakers: Drunk Women, Hannah George, Taylor Glenn
+- 2020-04-08 — Monica Heisey & Spring-Heeled Jack — speakers: Monica Heisey Spring, Hannah George, Taylor Glenn
+- 2020-03-31 — Liz Miele & The Spy With The Cold Nose — speakers: Hannah George, Taylor Glenn
 - 2020-03-25 — Charlie Dinkin & The Mouse Butter Murderer — speakers: Charlie Dinkin, Hannah George, Taylor Glenn
-- 2020-03-18 — Margaret Cabourn-Smith & Boop Boop Be Doop — speakers: Doop Back, Margret Caborn-Smith, Hannah George, Taylor Glenn
-- 2020-03-11 — DRUNK WOMEN LIVE: With Andi Osho — speakers: Andi Osho, Hannah George, Taylor Glenn
+- 2020-03-18 — Margaret Cabourn-Smith & Boop Boop Be Doop — speakers: Doop Back, Hannah George, Taylor Glenn
+- 2020-03-11 — DRUNK WOMEN LIVE: With Andi Osho — speakers: Hannah George, Taylor Glenn
 - 2020-03-04 — Sarah Morgan & A Merciless Bludgeoning — speakers: Sarah Morgan, Hannah George, Taylor Glenn
 - 2020-02-26 — Philippa Perry & The Radioactive Rogue — speakers: Philippa Perry, Hannah George, Taylor Glenn
 - 2020-02-19 — Saima Ferdows & A Right, Royal Gem of a Heist — speakers: Royal Gem, Saima Ferdows, Hannah George, Taylor Glenn
@@ -11248,7 +11128,7 @@
 - 2020-01-22 — Megan Prescott & A Revolutionary Murder — speakers: Megan Prescott, Hannah George, Taylor Glenn
 - 2020-01-15 — DRUNK WOMEN LIVE: With Katie Mulgrew — speakers: Katie Mulgrew, Hannah George, Taylor Glenn
 - 2020-01-08 — DRUNK WOMEN LIVE: With Lou Conran — speakers: Lou Conran, Hannah George, Taylor Glenn
-- 2019-12-25 — Christmas Message — speakers: Christmas Day, Hannah George, Taylor Glenn
+- 2019-12-25 — Christmas Message — speakers: Hannah George, Taylor Glenn
 - 2019-12-18 — DRUNK WOMEN LIVE AT CHRISTMAS: With Rachel Parris — speakers: Rachel Parris, Hannah George, Taylor Glenn
 - 2019-12-11 — DRUNK WOMEN LIVE: With Olga Koch — speakers: Olga Koch, Hannah George, Taylor Glenn
 - 2019-12-04 — DRUNK WOMEN LIVE: With Kerry Howard — speakers: Kerry Howard, Hannah George, Taylor Glenn
@@ -11256,64 +11136,64 @@
 - 2019-11-20 — Men's Month Special 3 - With Phil Wang — speakers: Phil Wang, Hannah George, Taylor Glenn
 - 2019-11-13 — Men's Month Special 2 - With Richard Osman — speakers: Richard Osman, Hannah George, Taylor Glenn
 - 2019-11-06 — Men's Month Special 1 - With James Acaster — speakers: James Acaster, Hannah George, Taylor Glenn
-- 2019-10-30 — DRUNK WOMEN LIVE: Scummy Mummies — speakers: Ellie Gibson, Helen Thorn, Hannah George, Taylor Glenn
+- 2019-10-30 — DRUNK WOMEN LIVE: Scummy Mummies — speakers: Scummy Mummies What, Drunk Women, Hannah George, Taylor Glenn
 - 2019-10-23 — Martina Cole, Father-Son Murder & Stolen Nail Varnish — speakers: Martina Cole, Hannah George, Taylor Glenn
 - 2019-10-16 — DRUNK WOMEN LIVE: Andrea Hubert — speakers: Andrea Hubert, Hannah George, Taylor Glenn
-- 2019-10-16 — DRUNK GUILTY FEMINISTS SOLVING CRIME — speakers: Deborah Frances-White, Sindhu Vee, Ma Barker, Hannah George, Taylor Glenn
+- 2019-10-16 — DRUNK GUILTY FEMINISTS SOLVING CRIME — speakers: Hannah George, Taylor Glenn
 - 2019-10-09 — DRUNK WOMEN LIVE: With Zoe Lyons — speakers: Hannah George, Taylor Glenn
 - 2019-10-02 — DRUNK WOMEN LIVE: With Anna Drezen — speakers: Anna Drezen, Hannah George, Taylor Glenn
 - 2019-09-25 — DRUNK WOMEN LIVE: With Isma Almas — speakers: Isma Almas, Hannah George, Taylor Glenn
 - 2019-09-18 — DRUNK WOMEN LIVE: With Steph Tisdell — speakers: Steph Tisdell, Hannah George, Taylor Glenn
 - 2019-09-11 — DRUNK WOMEN LIVE: With Anneka Rice — speakers: Anneka Rice, Hannah George, Taylor Glenn
 - 2019-09-04 — DRUNK WOMEN LIVE: With Jena Friedman — speakers: Jena Friedman, Hannah George, Taylor Glenn
-- 2019-08-28 — DRUNK WOMEN LIVE: With Sukh Ojla — speakers: Sukh Ojla, Hannah George, Taylor Glenn
+- 2019-08-28 — DRUNK WOMEN LIVE: With Sukh Ojla — speakers: Hannah George, Taylor Glenn
 - 2019-08-21 — DRUNK WOMEN LIVE: With Alice Fraser — speakers: Alice Fraser, Hannah George, Taylor Glenn
-- 2019-08-14 — DRUNK WOMEN LIVE: With Lucie Pohl — speakers: King James, Hannah George, Taylor Glenn
+- 2019-08-14 — DRUNK WOMEN LIVE: With Lucie Pohl — speakers: Hannah George, Taylor Glenn
 - 2019-08-07 — DRUNK WOMEN LIVE: With Ashley Storrie — speakers: Ashley Storrie, Hannah George, Taylor Glenn
-- 2019-07-31 — Alia Shawkat & The Suspicious Trunk — speakers: Alia Shawkat, Hannah George, Taylor Glenn
+- 2019-07-31 — Alia Shawkat & The Suspicious Trunk — speakers: Alia Shawkat, Drunk Women, Hannah George, Taylor Glenn
 - 2019-07-24 — DWSC LIVE: With Rebecca Root — speakers: Rebecca Root, Hannah George, Taylor Glenn
 - 2019-07-22 — DWSC LIVE: With Ulrika Jonsson — speakers: Ulrika Jonsson, Hannah George, Taylor Glenn
-- 2019-07-17 — DWSC LIVE: With Jayde Adams — speakers: Jayde Adams, Comedian Jayde Adams, Hannah George, Taylor Glenn
+- 2019-07-17 — DWSC LIVE: With Jayde Adams — speakers: Jayde Adams, Hannah George, Taylor Glenn
 - 2019-07-10 — Caroline Mabey Points The Finger — speakers: Caroline Mabey, Hannah George, Taylor Glenn
-- 2019-07-03 — Jo Middleton, Cuthbert & A Lesson In Metric vs Imperial — speakers: Jo Middleton, Jo Middleton otherwise, Slummy Single Mummy, Jo despite, Read Jo, Hannah George, Taylor Glenn
-- 2019-06-26 — DRUNK WOMEN LIVE: With Thanyia Moore — speakers: Thanyia Moore, Jessica Fletcher, Hannah George, Taylor Glenn
+- 2019-07-03 — Jo Middleton, Cuthbert & A Lesson In Metric vs Imperial — speakers: Jo Middleton, Jo Middleton otherwise, Slummy Single Mummy, Hannah George, Taylor Glenn
+- 2019-06-26 — DRUNK WOMEN LIVE: With Thanyia Moore — speakers: Hannah George, Taylor Glenn
 - 2019-06-12 — Sali Hughes' NYE Hell & A Lesson In Hand Gun History — speakers: Sali Hughes, Hannah George, Taylor Glenn
 - 2019-06-05 — Miranda Sawyer, A Ghostly Witness & True Confessions — speakers: Miranda Sawyer, Hannah George, Taylor Glenn
 - 2019-05-29 — Anna Ptaszynski, The Sodder Children & Bank Heist Of Maida Vale — speakers: Anna Ptaszynski, Hannah George, Taylor Glenn
-- 2019-05-22 — Amanda Abbington & A Crime Encounter Of The Third Kind — speakers: Hannah George, Taylor Glenn
+- 2019-05-22 — Amanda Abbington & A Crime Encounter Of The Third Kind — speakers: Amanda Abbington, Hannah George, Taylor Glenn
 - 2019-05-15 — DRUNK WOMEN LIVE - With Shaparak Khorsandi — speakers: Shaparak Khorsandi, Hannah George, Taylor Glenn
-- 2019-05-08 — DRUNK WOMEN LIVE - with Tiff Stevenson — speakers: Tiff Stevenson, Hannah George, Taylor Glenn
-- 2019-05-01 — Deborah Frances-White & Fighting Your Way Out Of A Paper Bag — speakers: Way Out, Paper Bag, Deborah Frances-White, Hannah George, Taylor Glenn
-- 2019-04-24 — Jen Brister, A Cold War Murder & Bucket List Aspirations — speakers: Hannah George, Taylor Glenn
+- 2019-05-08 — DRUNK WOMEN LIVE - with Tiff Stevenson — speakers: Hannah George, Taylor Glenn
+- 2019-05-01 — Deborah Frances-White & Fighting Your Way Out Of A Paper Bag — speakers: Way Out, Paper Bag, Hannah George, Taylor Glenn
+- 2019-04-24 — Jen Brister, A Cold War Murder & Bucket List Aspirations — speakers: Jen Brister, Cold War Murder, Drunk Women, Hannah George, Taylor Glenn
 - 2019-04-17 — Jenny Bede, A Wild West Murder & Chicken Trauma — speakers: Jenny Bede, Hannah George, Taylor Glenn
-- 2019-04-10 — Natalia Tena, A Murderous Marriage & Badly Lit Porn — speakers: Hannah George, Taylor Glenn
+- 2019-04-10 — Natalia Tena, A Murderous Marriage & Badly Lit Porn — speakers: Natalia Tena, Murderous Marriage, Hannah George, Taylor Glenn
 - 2019-04-03 — Jess Robinson, Belle Gunness & A Crime In Real-Time — speakers: Jess Robinson, Hannah George, Taylor Glenn
-- 2019-03-27 — Hannah Dunleavy, Big Bertha & Where There's Smoke... — speakers: Hannah Dunleavy, Guest Hannah, Hannah George, Taylor Glenn
+- 2019-03-27 — Hannah Dunleavy, Big Bertha & Where There's Smoke... — speakers: Hannah Dunleavy, Hannah George, Taylor Glenn
 - 2019-03-20 — DRUNK WOMEN LIVE - with Helen Lederer — speakers: Helen Lederer, Hannah George, Taylor Glenn
-- 2019-03-13 — DRUNK WOMEN LIVE - with Hannah Witton — speakers: Hannah Witton, Gwyneth Paltrow, Detective Witton, Team Mum, Hannah George, Taylor Glenn
-- 2019-03-06 — DRUNK WOMEN LIVE - With Bec Hill — speakers: Bec Hill, Hannah George, Taylor Glenn
+- 2019-03-13 — DRUNK WOMEN LIVE - with Hannah Witton — speakers: Hannah Witton, Hannah George, Taylor Glenn
+- 2019-03-06 — DRUNK WOMEN LIVE - With Bec Hill — speakers: Hannah George, Taylor Glenn
 - 2019-02-27 — Uma Nayer, A Soap Opera and The Uninvited Wedding Guests — speakers: Uma Nayer, Hannah George, Taylor Glenn
-- 2019-02-20 — Faye Carruthers, A Town Accused Of Murder & The Icing On The Cake — speakers: Hannah George, Taylor Glenn
+- 2019-02-20 — Faye Carruthers, A Town Accused Of Murder & The Icing On The Cake — speakers: Faye Carruthers, Cake What, Hannah George, Taylor Glenn
 - 2019-02-13 — Jenny Ryan, The Dug-Up Skull & A Vat Of Prosecco — speakers: Jenny Ryan, Hannah George, Taylor Glenn
-- 2019-02-06 — Jessica Fostekew, Karma Cashpoint, and the Backstreet Boys Baddie — speakers: Jessica Fostekew, Karma Cashpoint, Lou Pearlman, Hannah George, Taylor Glenn
+- 2019-02-06 — Jessica Fostekew, Karma Cashpoint, and the Backstreet Boys Baddie — speakers: Jessica Fostekew, Karma Cashpoint, Hannah George, Taylor Glenn
 - 2019-01-30 — Hannah Warman, The Dismembered Arm and The Hapless Shark — speakers: Hannah Warman, Hannah George, Taylor Glenn
-- 2019-01-23 — Wendy Wason, The Red Wallet & Charles Manson's Forgotten Victim — speakers: Wendy Wason, Charles Manson, Forgotten Victim, Tom Cruise, Hannah George, Taylor Glenn
+- 2019-01-23 — Wendy Wason, The Red Wallet & Charles Manson's Forgotten Victim — speakers: Wendy Wason, Charles Manson, Forgotten Victim, Hannah George, Taylor Glenn
 - 2019-01-16 — DRUNK WOMEN LIVE - with Olivia Lee — speakers: Olivia Lee, Hannah George, Taylor Glenn
 - 2019-01-09 — Evelyn Mok, Pirate Anne Bonny & The Doorstep Of Meat — speakers: Evelyn Mok, Anne Bonny, Hannah George, Taylor Glenn
 - 2019-01-02 — Lucy Porter & Lavinia Fisher - America's First Female Serial Killer — speakers: Lucy Porter, Hannah George, Taylor Glenn
 - 2018-12-26 — DRUNK WOMEN LIVE - With London Hughes — speakers: Hannah George, Taylor Glenn
-- 2018-12-19 — DRUNK WOMEN LIVE - With Suzi Ruffell — speakers: Suzi Ruffell, Guest Suzi, Hannah George, Taylor Glenn
-- 2018-12-12 — Sofie Hagen, Half-Hang It Maggie & The Family Jewels — speakers: Sofie Hagen, kick us, Maggie Dickson, Hannah George, Taylor Glenn
+- 2018-12-19 — DRUNK WOMEN LIVE - With Suzi Ruffell — speakers: Hannah George, Taylor Glenn
+- 2018-12-12 — Sofie Hagen, Half-Hang It Maggie & The Family Jewels — speakers: Sofie Hagen, kick us, Hannah George, Taylor Glenn
 - 2018-12-05 — Angela Barnes, Carl Tanzler & A Crime Worth Conversing About — speakers: Angela Barnes, Carl Tanzler, Hannah George, Taylor Glenn
 - 2018-11-28 — Lou Sanders, The Mother Of All Criminals & Stolen Bermuda Shorts — speakers: Lou Sanders, Hannah George, Taylor Glenn
 - 2018-11-21 — Annabel Port, A Hapless Stereotype & Pigeon Kidnap — speakers: Annabel Port, Hannah George, Taylor Glenn
-- 2018-11-14 — DRUNK WOMEN LIVE - With Jenny Eclair — speakers: Jenny Eclair, Hannah George, Taylor Glenn
+- 2018-11-14 — DRUNK WOMEN LIVE - With Jenny Eclair — speakers: Hannah George, Taylor Glenn
 - 2018-11-07 — Louise Wener, Real Life Batman & A Fish Called Nutcase — speakers: Louise Wener, Hannah George, Taylor Glenn
 - 2018-10-31 — Sarah Champion's True Crime Trick-Or-Treat — speakers: Sarah Champion, Hannah George, Taylor Glenn
-- 2018-10-24 — Louisa Connolly-Burnham, A Right Royal Theft & Mascara Madness — speakers: Louisa Connolly-Burnham, Sarah Wilson, Queen Charlotte, Hannah George, Taylor Glenn
+- 2018-10-24 — Louisa Connolly-Burnham, A Right Royal Theft & Mascara Madness — speakers: Louisa Connolly-Burnham, Hannah George, Taylor Glenn
 - 2018-10-17 — Felicity Montagu , Dr Crippen, Master Of Disguise & A Peacock Called Captain — speakers: Alan Partridge, Hannah George, Taylor Glenn
 - 2018-10-10 — Sian Harries, A Murder Of Academic Proportions & A Sh*t Night Out — speakers: Sian Harries, Hannah George, Taylor Glenn
-- 2018-10-03 — Helen Monks, Sardinian Bandits Stole My Homework — speakers: Helen Monks, Homework Actor, Sardinian Bandits, Hannah George, Taylor Glenn
+- 2018-10-03 — Helen Monks, Sardinian Bandits Stole My Homework — speakers: Helen Monks, Homework Actor, Hannah George, Taylor Glenn
 - 2018-09-26 — Dana Alexander, a Gravitron Groping, Murder by Arsenic & The Dead Hamster — speakers: Dana Alexander, Gravitron Groping, Hannah George, Taylor Glenn
 - 2018-09-19 — Gráinne Maguire, and Some Unusually Low Standards — speakers: Gráinne Maguire, Hannah George, Taylor Glenn
 - 2018-09-12 — Nerina Pallot, The Drug Bust and Suspicious Nuns — speakers: Hannah George, Taylor Glenn

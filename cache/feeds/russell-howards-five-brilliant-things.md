@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-02-23T13:41:58+00:00`
-- checked_at: `2026-02-23T13:41:58+00:00`
-- last_modified: `Mon, 23 Feb 2026 12:31:39 GMT`
+- fetched_at: `2026-02-25T03:15:32+00:00`
+- checked_at: `2026-02-25T03:15:32+00:00`
+- last_modified: `Wed, 25 Feb 2026 02:07:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Join our Patreon for two shows a week, ad-free listening, early access and much more... Follow this link and get involved! - patreon.com/RussellHoward Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/f49076c57d0c5aac5d76c06956cf8e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T13:41:58+00:00",
+  "fetched_at": "2026-02-25T03:15:32+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a9fecb7d1ca51c96c6f4b6b5bb667967e4a98ab9",
+      "title": "Stevie Martin",
+      "published_at": "2026-02-25T02:00:00+00:00",
+      "link": null,
+      "description": "This is a cracking episode with a cracking comedian. The Taskmaster star Stevie Martin speaks with completely unguarded honesty about her favourite things which leads to not one but several introspective spirals! What is it about chonky penne, pyrex jugs and interior design that could lead to a live-on-air existential episode? Get your bobbles in your ears, press play and find out. It’s lots of fun. 🎭 You should go to see Stevie live! Stevie extended has her critically acclaimed and sold-out debut UK tour, Clout , for the second time to 100 dates with more shows added in Autumn 2026. Stevie kicks off her 2026 tour dates with an already sold-out performance at The Glee Birmingham on Tuesday 3rd March, with the tour now running till October. Full dates and tickets: https://steviemartin.com/ 🎭 🎟️ YOU WANT MORE LIVE COMEDY? Russell’s brand new tour show ‘Don’t Tell The Algorithm’ is well underway with rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ And here ends your weekly recommended dose of blurb reading. I know it feels hard-going but you’ll start to see the benefits someday soon. You’ll have a frontal-lobe that’s so large people will start to avoid you in the street and make babies cry. That’s what you wanted, right? RIGHT? Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/41f7b4fa-10af-11f1-92c9-739fc3889646/image/5d7c0bccc92643d012f1493906ae260b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8601607716.mp3?updated=1771848879",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3692",
+      "speakers": [
+        "Stevie Martin",
+        "Russell Howard"
+      ],
+      "topics": [
+        "stevie",
+        "martin"
+      ]
+    },
     {
       "key": "f3d915c28bdc75e075c62805863bb8e860937312",
       "title": "Harry Enfield",
@@ -39,10 +59,6 @@
       "itunes_duration": "3402",
       "speakers": [
         "Harry Enfield",
-        "Xxx Producer",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -63,10 +79,6 @@
       "itunes_duration": "3859",
       "speakers": [
         "Amy Gledhill",
-        "Ian Smith",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -85,8 +97,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2827",
       "speakers": [
-        "Tom Rosenthal",
-        "Dan Snow",
         "Russell Howard"
       ],
       "topics": [
@@ -108,11 +118,6 @@
       "itunes_duration": "3840",
       "speakers": [
         "Charlie Higson",
-        "Jim Moir",
-        "Vic Reeves",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -134,11 +139,7 @@
       "speakers": [
         "Dan Snow Fascinating",
         "Historian Dan Snow",
-        "History Hit",
-        "Russell Howard",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer"
+        "Russell Howard"
       ],
       "topics": [
         "snow"
@@ -157,9 +158,6 @@
       "itunes_duration": "3692",
       "speakers": [
         "Tom Rosenthal Tom Rosenthal",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -179,11 +177,6 @@
       "itunes_duration": "3525",
       "speakers": [
         "Daniel Foxx",
-        "Louis Theroux",
-        "George Egg",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -205,9 +198,6 @@
       "speakers": [
         "Bridget Christie Superb",
         "Bridget Christie",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -227,9 +217,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4528",
       "speakers": [
-        "Adam Kay Taskmaster",
-        "Ross Noble",
-        "Rory Sutherland",
         "Russell Howard"
       ],
       "topics": [
@@ -251,9 +238,6 @@
       "itunes_duration": "4122",
       "speakers": [
         "Rory Sutherland",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -272,9 +256,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3263",
       "speakers": [
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -295,9 +276,6 @@
       "itunes_duration": "4392",
       "speakers": [
         "Ross Noble",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -318,9 +296,6 @@
       "itunes_duration": "4161",
       "speakers": [
         "Ania Magliano",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -342,11 +317,6 @@
       "speakers": [
         "Adam Kay Doctor",
         "Adam Kay",
-        "Ben Wishaw",
-        "Dexter Proctor",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -365,12 +335,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2846",
       "speakers": [
-        "Kerry Godliman",
-        "Tom Gilbey",
-        "Iron Maiden",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -392,10 +356,6 @@
       "itunes_duration": "3470",
       "speakers": [
         "Mo Amer",
-        "Dave Chappelle",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -415,10 +375,6 @@
       "itunes_duration": "3836",
       "speakers": [
         "Susie Dent",
-        "Dwayne Johnson",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -439,9 +395,6 @@
       "itunes_duration": "3858",
       "speakers": [
         "Tom Gilbey",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -461,9 +414,6 @@
       "itunes_duration": "3963",
       "speakers": [
         "Kerry Godliman",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -483,11 +433,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4784",
       "speakers": [
-        "Dom Joly",
-        "Sally Lindsay",
-        "Nick Mohammed",
-        "Horatio Gould",
-        "Pete Firman",
         "Russell Howard"
       ],
       "topics": [
@@ -509,9 +454,6 @@
       "itunes_duration": "3430",
       "speakers": [
         "Pete Firman",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -532,9 +474,6 @@
       "itunes_duration": "3966",
       "speakers": [
         "Horatio Gould",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -557,10 +496,7 @@
         "Nick Mohammed Star",
         "Slow Horses",
         "Nick Mohammed",
-        "Andrew Lloyd Webber",
-        "Mr Swallow",
-        "Nick Mohammed fan",
-        "Dan Atkinson Line Producer"
+        "Russell Howard"
       ],
       "topics": [
         "nick",
@@ -580,9 +516,6 @@
       "itunes_duration": "3995",
       "speakers": [
         "Sally Lindsay",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -602,9 +535,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3888",
       "speakers": [
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
+        "Dom Joly Which",
+        "Dom Joly",
         "Russell Howard"
       ],
       "topics": [
@@ -623,11 +555,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4861",
       "speakers": [
-        "Beef Rendang",
-        "Ardal O'Hanlon",
-        "Georgia Tennant",
-        "Taylor Tomlinson",
-        "Phil Ellis",
         "Russell Howard"
       ],
       "topics": [
@@ -650,11 +577,6 @@
       "speakers": [
         "Joanna Page How",
         "Joanna Page",
-        "Kenneth Branagh",
-        "Queen Elizabeth",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -675,10 +597,6 @@
       "itunes_duration": "3572",
       "speakers": [
         "Phil Ellis",
-        "Rik Mayall",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -700,9 +618,6 @@
       "speakers": [
         "Taylor Tomlinson Comedy",
         "Taylor Tomlinson",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -724,10 +639,6 @@
       "speakers": [
         "Georgia Tennant Warning",
         "Very Strong",
-        "Georgia Tennant",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -748,13 +659,7 @@
       "itunes_duration": "3085",
       "speakers": [
         "Michael Dapaah",
-        "Bernie Mac",
-        "Tiff Stevenson",
-        "Jake Lambert",
-        "Howie Mandell",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer"
+        "Russell Howard"
       ],
       "topics": [
         "august",
@@ -776,9 +681,6 @@
       "speakers": [
         "Ardal O'Hanlon One",
         "Ardal O’Hanlon",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -799,10 +701,6 @@
       "itunes_duration": "3575",
       "speakers": [
         "Red Richardson",
-        "Keith Floyd",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -823,9 +721,6 @@
       "speakers": [
         "Jake Lambert",
         "Jack Dee",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -846,9 +741,6 @@
       "itunes_duration": "3554",
       "speakers": [
         "Tiff Stevenson",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -868,12 +760,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3195",
       "speakers": [
-        "Ashley Cain",
-        "Sophie McCartney",
-        "Willy Cook",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
+        "Month Four",
         "Russell Howard"
       ],
       "topics": [
@@ -895,10 +782,6 @@
       "itunes_duration": "3331",
       "speakers": [
         "Michael Dapaah",
-        "Dave Chappelle",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -919,9 +802,6 @@
       "itunes_duration": "3442",
       "speakers": [
         "Willy Cook",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -942,9 +822,6 @@
       "itunes_duration": "3628",
       "speakers": [
         "Sophie McCartney",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -965,9 +842,6 @@
       "itunes_duration": "3296",
       "speakers": [
         "Ashley Cain",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1011,6 +885,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3824",
       "speakers": [
+        "Felicity Ward Australian",
         "Russell Howard"
       ],
       "topics": [
@@ -1031,11 +906,6 @@
       "itunes_duration": "3755",
       "speakers": [
         "Max Fosh Having",
-        "Max Fosh",
-        "Max’s Five Brilliant Things",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": []
@@ -1074,10 +944,6 @@
       "itunes_duration": "3651",
       "speakers": [
         "Harriet Kemsley",
-        "Amy Gledhill",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1097,13 +963,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3100",
       "speakers": [
-        "Kae Kurd",
-        "Jeff Innocent",
-        "Jordan Stephens",
-        "Adam Buxton",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
+        "Month Welcome",
         "Russell Howard"
       ],
       "topics": [
@@ -1125,10 +985,6 @@
       "speakers": [
         "Jake Humphrey",
         "David Coulthard",
-        "Greylag Geese",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1149,9 +1005,6 @@
       "itunes_duration": "3975",
       "speakers": [
         "Adam Buxton",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1172,7 +1025,6 @@
       "itunes_duration": "3400",
       "speakers": [
         "Jordan Stephens",
-        "Rizzle Kicks",
         "Russell Howard"
       ],
       "topics": [
@@ -1213,7 +1065,6 @@
       "itunes_duration": "3694",
       "speakers": [
         "Kae Kurd",
-        "Brilliant Things",
         "Russell Howard"
       ],
       "topics": [
@@ -1234,7 +1085,6 @@
       "speakers": [
         "Emma Gannon Russell",
         "Emma Gannon",
-        "Ctrl Alt Delete",
         "Russell Howard"
       ],
       "topics": [
@@ -1294,7 +1144,6 @@
       "itunes_duration": "3571",
       "speakers": [
         "Spencer Matthews",
-        "Jake Quickenden",
         "Russell Howard"
       ],
       "topics": [
@@ -1315,7 +1164,6 @@
       "itunes_duration": "3507",
       "speakers": [
         "Nina Conti",
-        "John Mulaney",
         "Russell Howard"
       ],
       "topics": [
@@ -1434,8 +1282,6 @@
       "itunes_duration": "4249",
       "speakers": [
         "Dave Gorman Dave Gorman",
-        "Eric Bristow",
-        "Dave Gorman",
         "Russell Howard"
       ],
       "topics": [
@@ -1476,7 +1322,6 @@
       "itunes_duration": "4074",
       "speakers": [
         "Troy Deeney Insider",
-        "Troy Deeney",
         "Russell Howard"
       ],
       "topics": [
@@ -1498,8 +1343,6 @@
       "speakers": [
         "William Hanson Etiquette",
         "William Hanson",
-        "Mary Poppins",
-        "Brilliant Things",
         "Russell Howard"
       ],
       "topics": [
@@ -1520,9 +1363,6 @@
       "itunes_duration": "4121",
       "speakers": [
         "Andy Zaltzman",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1543,9 +1383,6 @@
       "itunes_duration": "3814",
       "speakers": [
         "Jessie Cave",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1566,10 +1403,6 @@
       "itunes_duration": "3934",
       "speakers": [
         "Al Murray",
-        "Pub Landlord",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1589,10 +1422,6 @@
       "itunes_duration": "4096",
       "speakers": [
         "Suzi Ruffell",
-        "Aaaaand Suzi",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1613,9 +1442,7 @@
       "itunes_duration": "3659",
       "speakers": [
         "Vogue Williams",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
+        "Vogue Williams st",
         "Russell Howard"
       ],
       "topics": [
@@ -1636,9 +1463,6 @@
       "itunes_duration": "3928",
       "speakers": [
         "Cariad Lloyd",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1658,9 +1482,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3894",
       "speakers": [
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1682,9 +1503,6 @@
       "speakers": [
         "Sara Pascoe",
         "Robbie Williams",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1705,11 +1523,6 @@
       "itunes_duration": "3601",
       "speakers": [
         "Joe Marler",
-        "Prop Joe Marler",
-        "Tom Fordyce",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1729,9 +1542,6 @@
       "itunes_duration": "3858",
       "speakers": [
         "Giovanna Fletcher",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1753,11 +1563,6 @@
       "speakers": [
         "Adam Rowe Russell",
         "Adam Rowe",
-        "Dan Nightingale",
-        "Egg Man",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1778,9 +1583,6 @@
       "itunes_duration": "3663",
       "speakers": [
         "David Baddiel David Baddiel",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1801,10 +1603,6 @@
       "itunes_duration": "3839",
       "speakers": [
         "James Bay",
-        "co uk",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1823,10 +1621,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3562",
       "speakers": [
-        "Andy Peacock",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1849,9 +1643,6 @@
       "speakers": [
         "Michelle Wolf",
         "US Comedy",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1892,9 +1683,6 @@
       "itunes_duration": "3726",
       "speakers": [
         "Ashley Roberts",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1915,10 +1703,6 @@
       "itunes_duration": "3788",
       "speakers": [
         "Adam Hills",
-        "Adam’s Wonderbox",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1939,12 +1723,6 @@
       "itunes_duration": "3574",
       "speakers": [
         "David O'Doherty",
-        "David’s DJ",
-        "Taika Waititi",
-        "Ready Steady David",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1965,9 +1743,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3762",
       "speakers": [
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -1988,9 +1763,6 @@
       "itunes_duration": "3698",
       "speakers": [
         "Matt Forde",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2010,11 +1782,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3494",
       "speakers": [
-        "Jason Byrne",
-        "Ta ta",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2037,10 +1804,6 @@
       "itunes_duration": "3511",
       "speakers": [
         "Larry Dean",
-        "Monkey Barrel",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2063,9 +1826,6 @@
       "speakers": [
         "Tom Grennan",
         "Peter Andre",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2085,9 +1845,6 @@
       "itunes_duration": "3347",
       "speakers": [
         "Zach Zucker",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2108,10 +1865,6 @@
       "itunes_duration": "3828",
       "speakers": [
         "Rosie Jones",
-        "Scotch Eggs",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2133,10 +1886,6 @@
       "speakers": [
         "Abi Clarke",
         "Tik Tok",
-        "Cherry Bakewells",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2156,9 +1905,6 @@
       "itunes_duration": "3688",
       "speakers": [
         "Jamali Maddix",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2180,11 +1926,6 @@
       "speakers": [
         "Maisie Adam Hawk Tuah",
         "Comedian Maisie Adam",
-        "Jimmy Carr",
-        "Stephen Hawking",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2205,11 +1946,6 @@
       "itunes_duration": "3643",
       "speakers": [
         "Kiell Smith Bynoe",
-        "Kool Story Bro",
-        "Sewing Bee",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2233,9 +1969,6 @@
         "Joel Dommett",
         "Alan Titchmarsh",
         "Davina McCall",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2277,8 +2010,6 @@
       "speakers": [
         "Mo Gilligan",
         "Rod Stewart",
-        "Antiques Roadshow",
-        "Aaaaand Russell",
         "Russell Howard"
       ],
       "topics": [
@@ -2298,7 +2029,6 @@
       "itunes_duration": "3662",
       "speakers": [
         "John Robins",
-        "Ronnie O'Sullivan",
         "Russell Howard"
       ],
       "topics": [
@@ -2320,9 +2050,6 @@
       "speakers": [
         "Lou Sanders Why",
         "Lou Sanders",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2342,9 +2069,6 @@
       "itunes_duration": "3482",
       "speakers": [
         "Shabaz Ali",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2364,11 +2088,6 @@
       "itunes_duration": "3723",
       "speakers": [
         "Joe Wilkinson",
-        "David Earle",
-        "Henry Paker",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2388,9 +2107,6 @@
       "itunes_duration": "3966",
       "speakers": [
         "Richard Herring",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2411,10 +2127,6 @@
       "itunes_duration": "3616",
       "speakers": [
         "Laura Smyth",
-        "Stephen Fry",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2435,10 +2147,6 @@
       "itunes_duration": "3621",
       "speakers": [
         "Russell Kane Russell Kane",
-        "Russell Kane",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2460,9 +2168,6 @@
       "speakers": [
         "Fatiha El Ghorri Stand",
         "Fatiha El Ghorri",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2483,11 +2188,6 @@
       "itunes_duration": "3622",
       "speakers": [
         "Seann Walsh",
-        "Paul McCaffrey",
-        "Jack Dee",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2509,10 +2209,6 @@
       "speakers": [
         "Sean Keaveny",
         "Shaun Keaveny",
-        "Dave Grohl",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2533,9 +2229,6 @@
       "itunes_duration": "2325",
       "speakers": [
         "Paul Chowdhry",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2556,9 +2249,6 @@
       "itunes_duration": "3988",
       "speakers": [
         "Jon Richardson Russell",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2578,9 +2268,6 @@
       "itunes_duration": "3620",
       "speakers": [
         "Clair Buckley",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2599,9 +2286,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3400",
       "speakers": [
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2622,10 +2306,6 @@
       "itunes_duration": "3210",
       "speakers": [
         "John Kearns",
-        "Jonathan Pearce",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2646,10 +2326,6 @@
       "itunes_duration": "4025",
       "speakers": [
         "Jameela Jamil",
-        "Dustin Hoffman",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2670,11 +2346,6 @@
       "itunes_duration": "3667",
       "speakers": [
         "Celebrity Gogglebox",
-        "Matt Hancock",
-        "com Russell",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2695,9 +2366,6 @@
       "itunes_duration": "3505",
       "speakers": [
         "Fin Taylor Fin Taylor",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2717,10 +2385,6 @@
       "itunes_duration": "3685",
       "speakers": [
         "Mark Normand",
-        "Jerry Seinfeld",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2741,10 +2405,6 @@
       "itunes_duration": "3647",
       "speakers": [
         "Roisin Conaty",
-        "Pat Sharpe",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2765,9 +2425,6 @@
       "itunes_duration": "3779",
       "speakers": [
         "Greg Davies Greg Davies",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2788,10 +2445,6 @@
       "itunes_duration": "3690",
       "speakers": [
         "Clint Coley Recorded",
-        "Clint Coley",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2812,10 +2465,6 @@
       "itunes_duration": "2690",
       "speakers": [
         "Maddie Wiener",
-        "com Check",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2837,9 +2486,6 @@
       "speakers": [
         "Neal Brennan Co-creator",
         "Neal Brennan",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2859,9 +2505,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3464",
       "speakers": [
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2881,9 +2524,6 @@
       "itunes_duration": "3613",
       "speakers": [
         "Iliza Sheslinger",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2924,10 +2564,6 @@
       "itunes_duration": "3426",
       "speakers": [
         "Jack Whitehall",
-        "Jamie Laing",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2949,10 +2585,6 @@
       "speakers": [
         "John Oliver",
         "John flippin Oliver",
-        "Michael Bolton",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2973,9 +2605,6 @@
       "itunes_duration": "3519",
       "speakers": [
         "Ed Gamble Ed Gamble",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -2996,9 +2625,6 @@
       "speakers": [
         "Jordan Gray Stand",
         "Jordan Gray",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -3018,9 +2644,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3530",
       "speakers": [
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
@@ -3040,14 +2663,31 @@
       "itunes_duration": "3806",
       "speakers": [
         "Jimmy Carr",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
         "jimmy",
         "carr"
+      ]
+    },
+    {
+      "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
+      "title": "1. Munya Chawawa",
+      "published_at": "2023-10-11T00:00:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/munya-chawawa-s-wonderbox/",
+      "description": "Today’s guest is internet comedy star, Munya Chawawa, who chats to Russell about why he loves Streets of Rage, the importance of a slice of pizza and reveals his jaw-dropping hidden ability. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Munya is also on tour now and you can get tickets for his show at livenation.co.uk Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213247652.mp3?updated=1724199785",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3440",
+      "speakers": [
+        "Munya Chawawa",
+        "Russell Howard"
+      ],
+      "topics": [
+        "munya",
+        "chawawa"
       ]
     },
     {
@@ -3064,36 +2704,10 @@
       "speakers": [
         "Sam Ryder Sitting",
         "Sam Ryder",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
         "Russell Howard"
       ],
       "topics": [
         "ryder"
-      ]
-    },
-    {
-      "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
-      "title": "1. Munya Chawawa",
-      "published_at": "2023-10-11T00:00:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/munya-chawawa-s-wonderbox/",
-      "description": "Today’s guest is internet comedy star, Munya Chawawa, who chats to Russell about why he loves Streets of Rage, the importance of a slice of pizza and reveals his jaw-dropping hidden ability. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Munya is also on tour now and you can get tickets for his show at livenation.co.uk Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213247652.mp3?updated=1724199785",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3440",
-      "speakers": [
-        "Munya Chawawa",
-        "Dan Atkinson Line Producer",
-        "Daisy Knight",
-        "James Taylor Composer",
-        "Russell Howard"
-      ],
-      "topics": [
-        "munya",
-        "chawawa"
       ]
     },
     {
@@ -3119,137 +2733,138 @@
 
 ## Episodes (newest first)
 
-- 2026-02-18 — Harry Enfield — speakers: Harry Enfield, Xxx Producer, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2026-02-11 — Amy Gledhill — speakers: Amy Gledhill, Ian Smith, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2026-02-09 — January's Moments of the Month — speakers: Tom Rosenthal, Dan Snow, Russell Howard
-- 2026-02-04 — Charlie Higson — speakers: Charlie Higson, Jim Moir, Vic Reeves, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2026-01-28 — Dan Snow — speakers: Dan Snow Fascinating, Historian Dan Snow, History Hit, Russell Howard, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer
-- 2026-01-21 — Tom Rosenthal — speakers: Tom Rosenthal Tom Rosenthal, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2026-01-14 — Daniel Foxx — speakers: Daniel Foxx, Louis Theroux, George Egg, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2026-01-07 — Bridget Christie — speakers: Bridget Christie Superb, Bridget Christie, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2026-01-03 — December's Moments of the Month — speakers: Adam Kay Taskmaster, Ross Noble, Rory Sutherland, Russell Howard
-- 2025-12-31 — Rory Sutherland — speakers: Rory Sutherland, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-12-24 — Russell's Best Bits of 2025 — speakers: Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-12-17 — Ross Noble — speakers: Ross Noble, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-12-10 — Ania Magliano — speakers: Ania Magliano, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-12-03 — Adam Kay — speakers: Adam Kay Doctor, Adam Kay, Ben Wishaw, Dexter Proctor, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-11-29 — November's Moments of the Month — speakers: Kerry Godliman, Tom Gilbey, Iron Maiden, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-11-26 — Mo Amer — speakers: Mo Amer, Dave Chappelle, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-11-19 — Susie Dent — speakers: Susie Dent, Dwayne Johnson, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-11-12 — Tom Gilbey — speakers: Tom Gilbey, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-11-05 — Kerry Godliman — speakers: Kerry Godliman, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-11-03 — October's Moments of the Month — speakers: Dom Joly, Sally Lindsay, Nick Mohammed, Horatio Gould, Pete Firman, Russell Howard
-- 2025-10-29 — Pete Firman — speakers: Pete Firman, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-10-22 — Horatio Gould — speakers: Horatio Gould, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-10-15 — Nick Mohammed — speakers: Nick Mohammed Star, Slow Horses, Nick Mohammed, Andrew Lloyd Webber, Mr Swallow, Nick Mohammed fan, Dan Atkinson Line Producer
-- 2025-10-08 — Sally Lindsay — speakers: Sally Lindsay, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-10-01 — Dom Joly — speakers: Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-09-27 — September's Moments of the Month — speakers: Beef Rendang, Ardal O'Hanlon, Georgia Tennant, Taylor Tomlinson, Phil Ellis, Russell Howard
-- 2025-09-24 — Joanna Page — speakers: Joanna Page How, Joanna Page, Kenneth Branagh, Queen Elizabeth, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-09-17 — Phil Ellis — speakers: Phil Ellis, Rik Mayall, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-09-10 — Taylor Tomlinson — speakers: Taylor Tomlinson Comedy, Taylor Tomlinson, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-09-03 — Georgia Tennant — speakers: Georgia Tennant Warning, Very Strong, Georgia Tennant, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-08-30 — August's Moments of the Month — speakers: Michael Dapaah, Bernie Mac, Tiff Stevenson, Jake Lambert, Howie Mandell, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer
-- 2025-08-27 — Ardal O'Hanlon — speakers: Ardal O'Hanlon One, Ardal O’Hanlon, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-08-20 — Red Richardson — speakers: Red Richardson, Keith Floyd, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-08-13 — Jake Lambert — speakers: Jake Lambert, Jack Dee, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-08-06 — Tiff Stevenson — speakers: Tiff Stevenson, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-08-02 — July's Moments of the Month — speakers: Ashley Cain, Sophie McCartney, Willy Cook, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-07-30 — Michael Dapaah — speakers: Michael Dapaah, Dave Chappelle, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-07-23 — What Willy Cook — speakers: Willy Cook, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-07-16 — Sophie McCartney — speakers: Sophie McCartney, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-07-09 — Ashley Cain — speakers: Ashley Cain, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
+- 2026-02-25 — Stevie Martin — speakers: Stevie Martin, Russell Howard
+- 2026-02-18 — Harry Enfield — speakers: Harry Enfield, Russell Howard
+- 2026-02-11 — Amy Gledhill — speakers: Amy Gledhill, Russell Howard
+- 2026-02-09 — January's Moments of the Month — speakers: Russell Howard
+- 2026-02-04 — Charlie Higson — speakers: Charlie Higson, Russell Howard
+- 2026-01-28 — Dan Snow — speakers: Dan Snow Fascinating, Historian Dan Snow, Russell Howard
+- 2026-01-21 — Tom Rosenthal — speakers: Tom Rosenthal Tom Rosenthal, Russell Howard
+- 2026-01-14 — Daniel Foxx — speakers: Daniel Foxx, Russell Howard
+- 2026-01-07 — Bridget Christie — speakers: Bridget Christie Superb, Bridget Christie, Russell Howard
+- 2026-01-03 — December's Moments of the Month — speakers: Russell Howard
+- 2025-12-31 — Rory Sutherland — speakers: Rory Sutherland, Russell Howard
+- 2025-12-24 — Russell's Best Bits of 2025 — speakers: Russell Howard
+- 2025-12-17 — Ross Noble — speakers: Ross Noble, Russell Howard
+- 2025-12-10 — Ania Magliano — speakers: Ania Magliano, Russell Howard
+- 2025-12-03 — Adam Kay — speakers: Adam Kay Doctor, Adam Kay, Russell Howard
+- 2025-11-29 — November's Moments of the Month — speakers: Russell Howard
+- 2025-11-26 — Mo Amer — speakers: Mo Amer, Russell Howard
+- 2025-11-19 — Susie Dent — speakers: Susie Dent, Russell Howard
+- 2025-11-12 — Tom Gilbey — speakers: Tom Gilbey, Russell Howard
+- 2025-11-05 — Kerry Godliman — speakers: Kerry Godliman, Russell Howard
+- 2025-11-03 — October's Moments of the Month — speakers: Russell Howard
+- 2025-10-29 — Pete Firman — speakers: Pete Firman, Russell Howard
+- 2025-10-22 — Horatio Gould — speakers: Horatio Gould, Russell Howard
+- 2025-10-15 — Nick Mohammed — speakers: Nick Mohammed Star, Slow Horses, Nick Mohammed, Russell Howard
+- 2025-10-08 — Sally Lindsay — speakers: Sally Lindsay, Russell Howard
+- 2025-10-01 — Dom Joly — speakers: Dom Joly Which, Dom Joly, Russell Howard
+- 2025-09-27 — September's Moments of the Month — speakers: Russell Howard
+- 2025-09-24 — Joanna Page — speakers: Joanna Page How, Joanna Page, Russell Howard
+- 2025-09-17 — Phil Ellis — speakers: Phil Ellis, Russell Howard
+- 2025-09-10 — Taylor Tomlinson — speakers: Taylor Tomlinson Comedy, Taylor Tomlinson, Russell Howard
+- 2025-09-03 — Georgia Tennant — speakers: Georgia Tennant Warning, Very Strong, Russell Howard
+- 2025-08-30 — August's Moments of the Month — speakers: Michael Dapaah, Russell Howard
+- 2025-08-27 — Ardal O'Hanlon — speakers: Ardal O'Hanlon One, Ardal O’Hanlon, Russell Howard
+- 2025-08-20 — Red Richardson — speakers: Red Richardson, Russell Howard
+- 2025-08-13 — Jake Lambert — speakers: Jake Lambert, Jack Dee, Russell Howard
+- 2025-08-06 — Tiff Stevenson — speakers: Tiff Stevenson, Russell Howard
+- 2025-08-02 — July's Moments of the Month — speakers: Month Four, Russell Howard
+- 2025-07-30 — Michael Dapaah — speakers: Michael Dapaah, Russell Howard
+- 2025-07-23 — What Willy Cook — speakers: Willy Cook, Russell Howard
+- 2025-07-16 — Sophie McCartney — speakers: Sophie McCartney, Russell Howard
+- 2025-07-09 — Ashley Cain — speakers: Ashley Cain, Russell Howard
 - 2025-07-05 — June's Moments of the Month — speakers: Starring Jake Humphrey, Harriet Kemsley, Jordan Banjo, Max Fosh, Russell Howard
-- 2025-07-02 — Felicity Ward — speakers: Russell Howard
-- 2025-06-25 — Max Fosh — speakers: Max Fosh Having, Max Fosh, Max’s Five Brilliant Things, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
+- 2025-07-02 — Felicity Ward — speakers: Felicity Ward Australian, Russell Howard
+- 2025-06-25 — Max Fosh — speakers: Max Fosh Having, Russell Howard
 - 2025-06-18 — Jordan Banjo — speakers: Jordan Banjo Jordan, Jordan Banjo, Russell Howard
-- 2025-06-11 — Harriet Kemsley — speakers: Harriet Kemsley, Amy Gledhill, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-06-06 — May's Moments of the Month — speakers: Kae Kurd, Jeff Innocent, Jordan Stephens, Adam Buxton, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-06-04 — Jake Humphrey — speakers: Jake Humphrey, David Coulthard, Greylag Geese, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-05-28 — Adam Buxton — speakers: Adam Buxton, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-05-21 — Jordan Stephens — speakers: Jordan Stephens, Rizzle Kicks, Russell Howard
+- 2025-06-11 — Harriet Kemsley — speakers: Harriet Kemsley, Russell Howard
+- 2025-06-06 — May's Moments of the Month — speakers: Month Welcome, Russell Howard
+- 2025-06-04 — Jake Humphrey — speakers: Jake Humphrey, David Coulthard, Russell Howard
+- 2025-05-28 — Adam Buxton — speakers: Adam Buxton, Russell Howard
+- 2025-05-21 — Jordan Stephens — speakers: Jordan Stephens, Russell Howard
 - 2025-05-14 — Jeff Innocent — speakers: Jeff Innocent Jeff, Russell Howard
-- 2025-05-07 — Kae Kurd — speakers: Kae Kurd, Brilliant Things, Russell Howard
-- 2025-04-30 — Emma Gannon — speakers: Emma Gannon Russell, Emma Gannon, Ctrl Alt Delete, Russell Howard
+- 2025-05-07 — Kae Kurd — speakers: Kae Kurd, Russell Howard
+- 2025-04-30 — Emma Gannon — speakers: Emma Gannon Russell, Emma Gannon, Russell Howard
 - 2025-04-23 — Tom Kerridge — speakers: Tom Kerridge, Russell Howard
 - 2025-04-16 — Alex Horne — speakers: Alex Horne, Russell Howard
-- 2025-04-09 — Spencer Matthews — speakers: Spencer Matthews, Jake Quickenden, Russell Howard
-- 2025-04-02 — Nina Conti — speakers: Nina Conti, John Mulaney, Russell Howard
+- 2025-04-09 — Spencer Matthews — speakers: Spencer Matthews, Russell Howard
+- 2025-04-02 — Nina Conti — speakers: Nina Conti, Russell Howard
 - 2025-03-26 — Jay Rayner — speakers: Jay Rayner, Russell Howard
 - 2025-03-19 — Rose Ayling-Ellis — speakers: Rose Ayling-Ellis, Russell Howard
 - 2025-03-12 — Daniel Sloss — speakers: Daniel Sloss, Russell Howard
 - 2025-03-05 — JaackMaate — speakers: Russell Howard
 - 2025-02-26 — Rachel Riley — speakers: Rachel Riley, Russell Howard
-- 2025-02-19 — Dave Gorman — speakers: Dave Gorman Dave Gorman, Eric Bristow, Dave Gorman, Russell Howard
+- 2025-02-19 — Dave Gorman — speakers: Dave Gorman Dave Gorman, Russell Howard
 - 2025-02-12 — Vittorio Angelone — speakers: Vittorio Angelone, Russell Howard
-- 2025-02-05 — Troy Deeney — speakers: Troy Deeney Insider, Troy Deeney, Russell Howard
-- 2025-01-29 — William Hanson — speakers: William Hanson Etiquette, William Hanson, Mary Poppins, Brilliant Things, Russell Howard
-- 2025-01-22 — Andy Zaltzman — speakers: Andy Zaltzman, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-01-15 — Jessie Cave — speakers: Jessie Cave, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-01-08 — Al Murray — speakers: Al Murray, Pub Landlord, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2025-01-01 — Suzi Ruffell — speakers: Suzi Ruffell, Aaaaand Suzi, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-12-18 — Vogue Williams — speakers: Vogue Williams, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-12-11 — Cariad Lloyd — speakers: Cariad Lloyd, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-12-04 — Alain de Botton — speakers: Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-11-27 — Sara Pascoe — speakers: Sara Pascoe, Robbie Williams, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-11-20 — Joe Marler — speakers: Joe Marler, Prop Joe Marler, Tom Fordyce, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-11-13 — Giovanna Fletcher — speakers: Giovanna Fletcher, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-11-06 — Adam Rowe — speakers: Adam Rowe Russell, Adam Rowe, Dan Nightingale, Egg Man, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-10-30 — David Baddiel — speakers: David Baddiel David Baddiel, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-10-23 — James Bay — speakers: James Bay, co uk, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-10-16 — Allan 'Seapa' Mustafa — speakers: Andy Peacock, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-10-11 — Michelle Wolf — speakers: Michelle Wolf, US Comedy, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
+- 2025-02-05 — Troy Deeney — speakers: Troy Deeney Insider, Russell Howard
+- 2025-01-29 — William Hanson — speakers: William Hanson Etiquette, William Hanson, Russell Howard
+- 2025-01-22 — Andy Zaltzman — speakers: Andy Zaltzman, Russell Howard
+- 2025-01-15 — Jessie Cave — speakers: Jessie Cave, Russell Howard
+- 2025-01-08 — Al Murray — speakers: Al Murray, Russell Howard
+- 2025-01-01 — Suzi Ruffell — speakers: Suzi Ruffell, Russell Howard
+- 2024-12-18 — Vogue Williams — speakers: Vogue Williams, Vogue Williams st, Russell Howard
+- 2024-12-11 — Cariad Lloyd — speakers: Cariad Lloyd, Russell Howard
+- 2024-12-04 — Alain de Botton — speakers: Russell Howard
+- 2024-11-27 — Sara Pascoe — speakers: Sara Pascoe, Robbie Williams, Russell Howard
+- 2024-11-20 — Joe Marler — speakers: Joe Marler, Russell Howard
+- 2024-11-13 — Giovanna Fletcher — speakers: Giovanna Fletcher, Russell Howard
+- 2024-11-06 — Adam Rowe — speakers: Adam Rowe Russell, Adam Rowe, Russell Howard
+- 2024-10-30 — David Baddiel — speakers: David Baddiel David Baddiel, Russell Howard
+- 2024-10-23 — James Bay — speakers: James Bay, Russell Howard
+- 2024-10-16 — Allan 'Seapa' Mustafa — speakers: Russell Howard
+- 2024-10-11 — Michelle Wolf — speakers: Michelle Wolf, US Comedy, Russell Howard
 - 2024-10-09 — Stephen Merchant — speakers: Stephen Merchant, Russell Howard
-- 2024-10-02 — Ashley Roberts — speakers: Ashley Roberts, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-09-25 — Adam Hills — speakers: Adam Hills, Adam’s Wonderbox, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-09-23 — David O'Doherty LIVE from the Edinburgh Festival — speakers: David O'Doherty, David’s DJ, Taika Waititi, Ready Steady David, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-09-23 — Linford Christie — speakers: Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-08-28 — 48. Matt Forde — speakers: Matt Forde, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-08-21 — 47. Jason Byrne LIVE from the Edinburgh Festival — speakers: Jason Byrne, Ta ta, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-08-14 — 46. Larry Dean LIVE from the Fringe — speakers: Larry Dean, Monkey Barrel, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-08-07 — 45. Tom Grennan — speakers: Tom Grennan, Peter Andre, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-07-31 — 44. Zach Zucker — speakers: Zach Zucker, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-07-24 — 43. Rosie Jones — speakers: Rosie Jones, Scotch Eggs, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-07-17 — 42. Abi Clarke — speakers: Abi Clarke, Tik Tok, Cherry Bakewells, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-07-10 — 41. Jamali Maddix — speakers: Jamali Maddix, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-07-03 — 40. Maisie Adam — speakers: Maisie Adam Hawk Tuah, Comedian Maisie Adam, Jimmy Carr, Stephen Hawking, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-06-26 — 39. Kiell Smith Bynoe — speakers: Kiell Smith Bynoe, Kool Story Bro, Sewing Bee, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-06-19 — 38. Joel Dommett — speakers: Joel Dommett, Alan Titchmarsh, Davina McCall, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
+- 2024-10-02 — Ashley Roberts — speakers: Ashley Roberts, Russell Howard
+- 2024-09-25 — Adam Hills — speakers: Adam Hills, Russell Howard
+- 2024-09-23 — David O'Doherty LIVE from the Edinburgh Festival — speakers: David O'Doherty, Russell Howard
+- 2024-09-23 — Linford Christie — speakers: Russell Howard
+- 2024-08-28 — 48. Matt Forde — speakers: Matt Forde, Russell Howard
+- 2024-08-21 — 47. Jason Byrne LIVE from the Edinburgh Festival — speakers: Russell Howard
+- 2024-08-14 — 46. Larry Dean LIVE from the Fringe — speakers: Larry Dean, Russell Howard
+- 2024-08-07 — 45. Tom Grennan — speakers: Tom Grennan, Peter Andre, Russell Howard
+- 2024-07-31 — 44. Zach Zucker — speakers: Zach Zucker, Russell Howard
+- 2024-07-24 — 43. Rosie Jones — speakers: Rosie Jones, Russell Howard
+- 2024-07-17 — 42. Abi Clarke — speakers: Abi Clarke, Tik Tok, Russell Howard
+- 2024-07-10 — 41. Jamali Maddix — speakers: Jamali Maddix, Russell Howard
+- 2024-07-03 — 40. Maisie Adam — speakers: Maisie Adam Hawk Tuah, Comedian Maisie Adam, Russell Howard
+- 2024-06-26 — 39. Kiell Smith Bynoe — speakers: Kiell Smith Bynoe, Russell Howard
+- 2024-06-19 — 38. Joel Dommett — speakers: Joel Dommett, Alan Titchmarsh, Davina McCall, Russell Howard
 - 2024-06-12 — 37. Emmanuel Sonubi — speakers: Emmanuel Sonubi, Russell Howard
-- 2024-06-05 — 36. Mo Gilligan — speakers: Mo Gilligan, Rod Stewart, Antiques Roadshow, Aaaaand Russell, Russell Howard
-- 2024-05-29 — 35. John Robins — speakers: John Robins, Ronnie O'Sullivan, Russell Howard
-- 2024-05-22 — 34. Lou Sanders — speakers: Lou Sanders Why, Lou Sanders, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-05-15 — 33. Shabaz Ali — speakers: Shabaz Ali, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-05-08 — 32. Joe Wilkinson — speakers: Joe Wilkinson, David Earle, Henry Paker, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-05-01 — 31. Richard Herring — speakers: Richard Herring, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-04-24 — 30. Laura Smyth — speakers: Laura Smyth, Stephen Fry, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-04-17 — 29. Russell Kane — speakers: Russell Kane Russell Kane, Russell Kane, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-04-10 — 28. Fatiha El Ghorri — speakers: Fatiha El Ghorri Stand, Fatiha El Ghorri, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-04-03 — 27. Seann Walsh — speakers: Seann Walsh, Paul McCaffrey, Jack Dee, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-03-27 — 26. Sean Keaveny — speakers: Sean Keaveny, Shaun Keaveny, Dave Grohl, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-03-20 — 25. Paul Chowdhry — speakers: Paul Chowdhry, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-03-13 — 24. Jon Richardson — speakers: Jon Richardson Russell, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-03-06 — 23. The Buckleys — speakers: Clair Buckley, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-02-28 — 22. Iain Stirling — speakers: Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-02-21 — 21. John Kearns — speakers: John Kearns, Jonathan Pearce, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-02-14 — 20. Jameela Jamil — speakers: Jameela Jamil, Dustin Hoffman, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-02-07 — 19. Babatunde Aleshe — speakers: Celebrity Gogglebox, Matt Hancock, com Russell, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-01-31 — 18. Fin Taylor — speakers: Fin Taylor Fin Taylor, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-01-24 — 17. Mark Normand — speakers: Mark Normand, Jerry Seinfeld, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-01-17 — 16. Roisin Conaty — speakers: Roisin Conaty, Pat Sharpe, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-01-10 — 15. Greg Davies — speakers: Greg Davies Greg Davies, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2024-01-03 — 14. Clint Coley — speakers: Clint Coley Recorded, Clint Coley, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-12-27 — 13. Maddie Wiener — speakers: Maddie Wiener, com Check, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-12-20 — 12. Neal Brennan — speakers: Neal Brennan Co-creator, Neal Brennan, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-12-12 — 11. Guz Khan — speakers: Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-12-06 — 10. Iliza Shlesinger — speakers: Iliza Sheslinger, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
+- 2024-06-05 — 36. Mo Gilligan — speakers: Mo Gilligan, Rod Stewart, Russell Howard
+- 2024-05-29 — 35. John Robins — speakers: John Robins, Russell Howard
+- 2024-05-22 — 34. Lou Sanders — speakers: Lou Sanders Why, Lou Sanders, Russell Howard
+- 2024-05-15 — 33. Shabaz Ali — speakers: Shabaz Ali, Russell Howard
+- 2024-05-08 — 32. Joe Wilkinson — speakers: Joe Wilkinson, Russell Howard
+- 2024-05-01 — 31. Richard Herring — speakers: Richard Herring, Russell Howard
+- 2024-04-24 — 30. Laura Smyth — speakers: Laura Smyth, Russell Howard
+- 2024-04-17 — 29. Russell Kane — speakers: Russell Kane Russell Kane, Russell Howard
+- 2024-04-10 — 28. Fatiha El Ghorri — speakers: Fatiha El Ghorri Stand, Fatiha El Ghorri, Russell Howard
+- 2024-04-03 — 27. Seann Walsh — speakers: Seann Walsh, Russell Howard
+- 2024-03-27 — 26. Sean Keaveny — speakers: Sean Keaveny, Shaun Keaveny, Russell Howard
+- 2024-03-20 — 25. Paul Chowdhry — speakers: Paul Chowdhry, Russell Howard
+- 2024-03-13 — 24. Jon Richardson — speakers: Jon Richardson Russell, Russell Howard
+- 2024-03-06 — 23. The Buckleys — speakers: Clair Buckley, Russell Howard
+- 2024-02-28 — 22. Iain Stirling — speakers: Russell Howard
+- 2024-02-21 — 21. John Kearns — speakers: John Kearns, Russell Howard
+- 2024-02-14 — 20. Jameela Jamil — speakers: Jameela Jamil, Russell Howard
+- 2024-02-07 — 19. Babatunde Aleshe — speakers: Celebrity Gogglebox, Russell Howard
+- 2024-01-31 — 18. Fin Taylor — speakers: Fin Taylor Fin Taylor, Russell Howard
+- 2024-01-24 — 17. Mark Normand — speakers: Mark Normand, Russell Howard
+- 2024-01-17 — 16. Roisin Conaty — speakers: Roisin Conaty, Russell Howard
+- 2024-01-10 — 15. Greg Davies — speakers: Greg Davies Greg Davies, Russell Howard
+- 2024-01-03 — 14. Clint Coley — speakers: Clint Coley Recorded, Russell Howard
+- 2023-12-27 — 13. Maddie Wiener — speakers: Maddie Wiener, Russell Howard
+- 2023-12-20 — 12. Neal Brennan — speakers: Neal Brennan Co-creator, Neal Brennan, Russell Howard
+- 2023-12-12 — 11. Guz Khan — speakers: Russell Howard
+- 2023-12-06 — 10. Iliza Shlesinger — speakers: Iliza Sheslinger, Russell Howard
 - 2023-11-29 — 9. Rachel Parris — speakers: Rachel Parris, Russell Howard
-- 2023-11-22 — 8. Jack Whitehall — speakers: Jack Whitehall, Jamie Laing, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-11-15 — 7. John Oliver — speakers: John Oliver, John flippin Oliver, Michael Bolton, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-11-08 — 6. Ed Gamble — speakers: Ed Gamble Ed Gamble, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-11-01 — 5. Jordan Gray — speakers: Jordan Gray Stand, Jordan Gray, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-10-25 — 4. Jen Brister — speakers: Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-10-18 — 3. Jimmy Carr — speakers: Jimmy Carr, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-10-11 — 2. Sam Ryder — speakers: Sam Ryder Sitting, Sam Ryder, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
-- 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Dan Atkinson Line Producer, Daisy Knight, James Taylor Composer, Russell Howard
+- 2023-11-22 — 8. Jack Whitehall — speakers: Jack Whitehall, Russell Howard
+- 2023-11-15 — 7. John Oliver — speakers: John Oliver, John flippin Oliver, Russell Howard
+- 2023-11-08 — 6. Ed Gamble — speakers: Ed Gamble Ed Gamble, Russell Howard
+- 2023-11-01 — 5. Jordan Gray — speakers: Jordan Gray Stand, Jordan Gray, Russell Howard
+- 2023-10-25 — 4. Jen Brister — speakers: Russell Howard
+- 2023-10-18 — 3. Jimmy Carr — speakers: Jimmy Carr, Russell Howard
+- 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Russell Howard
+- 2023-10-11 — 2. Sam Ryder — speakers: Sam Ryder Sitting, Sam Ryder, Russell Howard
 - 2023-09-28 — Trailer — speakers: Russell Howard

@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-02-20T00:38:53+00:00`
-- checked_at: `2026-02-20T00:38:53+00:00`
-- etag: `"djEuMi4wOjE3NzE1NDU2OTkzMzQ="`
+- fetched_at: `2026-02-25T03:15:32+00:00`
+- checked_at: `2026-02-25T03:15:32+00:00`
+- etag: `"djEuMi4wOjE3NzE5Nzc3MDA1NzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-02-20T00:38:53+00:00",
+  "fetched_at": "2026-02-25T03:15:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3580adb24dbfd8ee186ddaae1f448b1458862453",
+      "title": "JOEL FRY • further proof that The Bill & Casualty might be acting university (Stitch Head / Our Flag Means Death / Cruella) #660",
+      "published_at": "2026-02-25T00:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the proper acting talent that is JOEL FRY ! A delightful chat here with Joel, who we catch mere months into the second child bubble (and is holding up impressively). A quick glimpse at his IMDB will reveal an absolute avalanche of great projects that you're likely to have peeped over the years, though it may even be the case that you're only just discovering him through the latest (at time of publishing) 'Stitch Head' in which he voices 'Creature'. Whatever the case may be, it's a treat to hear the backstage banter about past and present work engagements, including working with Ben Wheatley on 'In The Earth', the move from Devon to Brixton, the science of doing nothing on camera, pandemic hangover life and acting throughout, Yesterday, cinematic universes (whether you believe in them or not!) and so much more of course. Lovely stuff. Get involved. PIP'S PATREON PAGE if you're of a supporting nature IMDB IN THE EARTH STITCH HEAD OUR FLAG MEANS DEATH PIP AT PRINCE CHARLES CINEMA! SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1771428317769-5081f868-b8a1-488d-8001-d21a93058176.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6995dd1b7012ce537645311c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139876199",
+      "itunes_duration": "58:14",
+      "speakers": [],
+      "topics": [
+        "joel",
+        "proof",
+        "bill",
+        "casualty",
+        "university",
+        "stitch",
+        "head",
+        "flag",
+        "means",
+        "death"
+      ]
+    },
     {
       "key": "ade42285b445856b0151936a3646924d413575c1",
       "title": "TARON EGERTON (Rocketman / Tetris / Kingsman) • Friday Rewind",
@@ -36,13 +61,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "169258818",
       "itunes_duration": "1:10:28",
-      "speakers": [
-        "Taron Egerton",
-        "Stephen Graham",
-        "Matthew Vaughn",
-        "Dexter Fletcher",
-        "Tom Hardy"
-      ],
+      "speakers": [],
       "topics": [
         "taron",
         "egerton",
@@ -64,10 +83,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "173143089",
       "itunes_duration": "1:12:05",
-      "speakers": [
-        "Jane Powell",
-        "Prince Charles Cinema Speech"
-      ],
+      "speakers": [],
       "topics": [
         "jessie",
         "roux",
@@ -89,9 +105,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99865142",
       "itunes_duration": "41:33",
-      "speakers": [
-        "Emerald Fennell"
-      ],
+      "speakers": [],
       "topics": [
         "emerald",
         "fennell",
@@ -113,9 +127,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114828767",
       "itunes_duration": "47:48",
-      "speakers": [
-        "Prince Charles Cinema Speech"
-      ],
+      "speakers": [],
       "topics": [
         "hardy",
         "horror",
@@ -137,10 +149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "157651602",
       "itunes_duration": "1:05:37",
-      "speakers": [
-        "Led Zeppelin",
-        "Sarah Cawood"
-      ],
+      "speakers": [],
       "topics": [
         "fearne",
         "cotton",
@@ -162,9 +171,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "258147826",
       "itunes_duration": "1:47:31",
-      "speakers": [
-        "Prince Charles Cinema Speech"
-      ],
+      "speakers": [],
       "topics": [
         "jess",
         "megan",
@@ -184,11 +191,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "170866665",
       "itunes_duration": "1:11:08",
-      "speakers": [
-        "Kathryn Bigelow",
-        "Leonardo Di Caprio",
-        "Tom Hardy"
-      ],
+      "speakers": [],
       "topics": [
         "midsommar",
         "detroit",
@@ -209,8 +212,7 @@
       "enclosure_length": "154704566",
       "itunes_duration": "1:04:25",
       "speakers": [
-        "Shooting Ropes",
-        "Rosco McCLELLAND"
+        "Shooting Ropes"
       ],
       "topics": [
         "christopher",
@@ -236,10 +238,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120340456",
       "itunes_duration": "50:05",
-      "speakers": [
-        "Adam Elliott-Cooper",
-        "Adam Elliott"
-      ],
+      "speakers": [],
       "topics": [
         "police",
         "friday",
@@ -279,11 +278,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "199447273",
       "itunes_duration": "1:23:02",
-      "speakers": [
-        "Jon Drever",
-        "Grain Media",
-        "Ted Lasso"
-      ],
+      "speakers": [],
       "topics": [
         "brett",
         "goldstein",
@@ -306,9 +301,7 @@
       "enclosure_length": "131650543",
       "itunes_duration": "54:48",
       "speakers": [
-        "James Nelson-Joyce",
-        "Stephen Graham",
-        "Hannah Walters"
+        "James Nelson-Joyce"
       ],
       "topics": [
         "james",
@@ -335,8 +328,7 @@
       "enclosure_length": "41588680",
       "itunes_duration": "17:17",
       "speakers": [
-        "Scroobius Pip",
-        "Grace Neutral Finley"
+        "Scroobius Pip"
       ],
       "topics": [
         "firstly"
@@ -370,9 +362,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139111682",
       "itunes_duration": "57:55",
-      "speakers": [
-        "Joe Talbot"
-      ],
+      "speakers": [],
       "topics": [
         "roundup",
         "talbot",
@@ -391,9 +381,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "165165030",
       "itunes_duration": "1:08:46",
-      "speakers": [
-        "Joe Talbot"
-      ],
+      "speakers": [],
       "topics": [
         "roundup",
         "talbot",
@@ -412,9 +400,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125211767",
       "itunes_duration": "52:07",
-      "speakers": [
-        "outward gaze"
-      ],
+      "speakers": [],
       "topics": [
         "christmas",
         "drinks",
@@ -434,9 +420,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133979143",
       "itunes_duration": "55:46",
-      "speakers": [
-        "outward gaze"
-      ],
+      "speakers": [],
       "topics": [
         "christmas",
         "drinks",
@@ -502,8 +486,7 @@
       "enclosure_length": "153093721",
       "itunes_duration": "1:03:44",
       "speakers": [
-        "Bill Bailey",
-        "Idris Elba"
+        "Bill Bailey"
       ],
       "topics": [
         "bill",
@@ -527,11 +510,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144088524",
       "itunes_duration": "59:59",
-      "speakers": [
-        "Ghostface Killah",
-        "Wu Tang just",
-        "Richard Russell"
-      ],
+      "speakers": [],
       "topics": [
         "infinite",
         "coles",
@@ -557,8 +536,7 @@
       "itunes_duration": "1:18:18",
       "speakers": [
         "Jordan Gray",
-        "Edinburgh Fringe",
-        "Follow Jordan"
+        "Edinburgh Fringe"
       ],
       "topics": [
         "jordan",
@@ -608,10 +586,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142777042",
       "itunes_duration": "59:26",
-      "speakers": [
-        "Self Esteem",
-        "Scroobius Pip"
-      ],
+      "speakers": [],
       "topics": [
         "self",
         "esteem",
@@ -659,9 +634,7 @@
       "enclosure_length": "151609558",
       "itunes_duration": "1:03:07",
       "speakers": [
-        "Benjamin Zephaniah",
-        "Bob Marley",
-        "Peaky Blinders"
+        "Benjamin Zephaniah"
       ],
       "topics": [
         "benjamin",
@@ -709,8 +682,7 @@
       "enclosure_length": "247793280",
       "itunes_duration": "1:43:12",
       "speakers": [
-        "Liam Howlett",
-        "Nick Halkes"
+        "Liam Howlett"
       ],
       "topics": [
         "liam",
@@ -782,8 +754,7 @@
       "enclosure_length": "170837736",
       "itunes_duration": "1:11:08",
       "speakers": [
-        "Harry Baker",
-        "Hip Hop"
+        "Harry Baker"
       ],
       "topics": [
         "harry",
@@ -806,10 +777,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "250641746",
       "itunes_duration": "1:44:23",
-      "speakers": [
-        "Hip Hop",
-        "Scroobius Pip"
-      ],
+      "speakers": [],
       "topics": [
         "akala",
         "rapper",
@@ -858,8 +826,7 @@
       "enclosure_length": "117866756",
       "itunes_duration": "49:04",
       "speakers": [
-        "Armando Iannucci",
-        "Alan Partridge"
+        "Armando Iannucci"
       ],
       "topics": [
         "armando",
@@ -952,9 +919,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116744379",
       "itunes_duration": "48:36",
-      "speakers": [
-        "Action Bronson"
-      ],
+      "speakers": [],
       "topics": [
         "action",
         "bronson",
@@ -975,10 +940,7 @@
       "enclosure_length": "199674580",
       "itunes_duration": "1:23:09",
       "speakers": [
-        "Adam Buxton",
-        "homie Adam",
-        "Werner Herzog's Zoom",
-        "Roger Scruton"
+        "Adam Buxton"
       ],
       "topics": [
         "adam",
@@ -1001,9 +963,7 @@
       "enclosure_length": "89954077",
       "itunes_duration": "37:26",
       "speakers": [
-        "Spike Lee",
-        "Jordan Peele",
-        "Lee Joint"
+        "Spike Lee"
       ],
       "topics": [
         "spike",
@@ -1025,9 +985,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112384736",
       "itunes_duration": "46:47",
-      "speakers": [
-        "Jordan Peele"
-      ],
+      "speakers": [],
       "topics": [
         "justin",
         "tipping",
@@ -1048,8 +1006,7 @@
       "enclosure_length": "230457624",
       "itunes_duration": "1:35:59",
       "speakers": [
-        "Stephen Graham",
-        "Al Capone"
+        "Stephen Graham"
       ],
       "topics": [
         "stephen",
@@ -1074,9 +1031,7 @@
       "enclosure_length": "138381505",
       "itunes_duration": "57:37",
       "speakers": [
-        "Christopher Chung",
-        "Gary Oldman",
-        "Kathy Burke"
+        "Christopher Chung"
       ],
       "topics": [
         "christopher",
@@ -1100,8 +1055,7 @@
       "enclosure_length": "148904112",
       "itunes_duration": "1:02:00",
       "speakers": [
-        "Mae Martin",
-        "Feel Good"
+        "Mae Martin"
       ],
       "topics": [
         "martin",
@@ -1146,8 +1100,7 @@
       "itunes_duration": "1:09:30",
       "speakers": [
         "Karl Pilkington",
-        "Ricky Gervais",
-        "Stephen Merchant"
+        "Ricky Gervais"
       ],
       "topics": [
         "karl",
@@ -1220,10 +1173,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79193216",
       "itunes_duration": "32:58",
-      "speakers": [
-        "Hip Hop",
-        "Youtube Heavy Break"
-      ],
+      "speakers": [],
       "topics": [
         "grandmaster",
         "flash",
@@ -1296,11 +1246,7 @@
       "enclosure_length": "128919050",
       "itunes_duration": "53:41",
       "speakers": [
-        "Ashley Walters",
-        "Noel Clarke",
-        "Carol Jackson",
-        "Lindsey Coulson",
-        "Top Boy"
+        "Ashley Walters"
       ],
       "topics": [
         "ashley",
@@ -1324,8 +1270,7 @@
       "enclosure_length": "174485020",
       "itunes_duration": "1:12:40",
       "speakers": [
-        "Rhys James",
-        "Adam Buxton"
+        "Rhys James"
       ],
       "topics": [
         "rhys",
@@ -1352,9 +1297,7 @@
       "enclosure_length": "96928630",
       "itunes_duration": "40:21",
       "speakers": [
-        "Kaitlyn Dever",
-        "Julia Roberts",
-        "George Clooney"
+        "Kaitlyn Dever"
       ],
       "topics": [
         "kaitlyn",
@@ -1402,8 +1345,7 @@
       "enclosure_length": "201840930",
       "itunes_duration": "1:24:04",
       "speakers": [
-        "Stewart Lee",
-        "Marc Maron"
+        "Stewart Lee"
       ],
       "topics": [
         "stewart",
@@ -1429,8 +1371,7 @@
       "enclosure_length": "90610705",
       "itunes_duration": "37:44",
       "speakers": [
-        "Michael Socha",
-        "Shane Meadows"
+        "Michael Socha"
       ],
       "topics": [
         "michael",
@@ -1457,8 +1398,7 @@
       "enclosure_length": "103979665",
       "itunes_duration": "43:18",
       "speakers": [
-        "Michael Socha",
-        "Shane Meadows"
+        "Michael Socha"
       ],
       "topics": [
         "michael",
@@ -1485,11 +1425,7 @@
       "enclosure_length": "170657134",
       "itunes_duration": "1:11:04",
       "speakers": [
-        "Louis Theroux",
-        "Adam Buxton",
-        "Joe Cornish",
-        "Gorky’s Zygotic Mynci",
-        "Jimmy Saville"
+        "Louis Theroux"
       ],
       "topics": [
         "louis",
@@ -1514,8 +1450,7 @@
       "itunes_duration": "1:02:50",
       "speakers": [
         "Lauren Lyle",
-        "Karen Pirie Outlander",
-        "Karen Pirie"
+        "Karen Pirie Outlander"
       ],
       "topics": [
         "lauren",
@@ -1539,13 +1474,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "199154096",
       "itunes_duration": "1:22:57",
-      "speakers": [
-        "Kelly Marcel",
-        "Scroobius Pip",
-        "prone squirrel",
-        "Tom Hardy",
-        "Stephen Spielberg"
-      ],
+      "speakers": [],
       "topics": [
         "kelly",
         "marcel",
@@ -1569,9 +1498,7 @@
       "enclosure_length": "111059176",
       "itunes_duration": "46:15",
       "speakers": [
-        "Ralph Ineson",
-        "Thankfully Ralph",
-        "Ed Skrein"
+        "Ralph Ineson"
       ],
       "topics": [
         "ralph",
@@ -1595,8 +1522,7 @@
       "enclosure_length": "159488267",
       "itunes_duration": "1:06:25",
       "speakers": [
-        "Vicky McClure",
-        "Shane Meadows"
+        "Vicky McClure"
       ],
       "topics": [
         "vicky",
@@ -1670,8 +1596,7 @@
       "enclosure_length": "169730953",
       "itunes_duration": "1:10:41",
       "speakers": [
-        "Ann Bickley",
-        "Kae Tempest"
+        "Ann Bickley"
       ],
       "topics": [
         "tempest",
@@ -1695,8 +1620,7 @@
       "enclosure_length": "161746049",
       "itunes_duration": "1:07:22",
       "speakers": [
-        "Bob Vylan",
-        "Bobby Vylan"
+        "Bob Vylan"
       ],
       "topics": [
         "vylan",
@@ -1720,9 +1644,7 @@
       "enclosure_length": "149806705",
       "itunes_duration": "1:02:24",
       "speakers": [
-        "Jordan Gray",
-        "Edinburgh Fringe",
-        "Harry Potter"
+        "Jordan Gray"
       ],
       "topics": [
         "jordan",
@@ -1747,9 +1669,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "186679003",
       "itunes_duration": "1:17:45",
-      "speakers": [
-        "Pip white-knuckles"
-      ],
+      "speakers": [],
       "topics": [
         "goldie",
         "timeless",
@@ -1795,11 +1715,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "179752671",
       "itunes_duration": "1:14:52",
-      "speakers": [
-        "Mike Skinner",
-        "Top Boy",
-        "Albert Hall"
-      ],
+      "speakers": [],
       "topics": [
         "kano",
         "hoodies",
@@ -1821,9 +1737,7 @@
       "enclosure_length": "140392744",
       "itunes_duration": "58:28",
       "speakers": [
-        "Domhnall Gleeson",
-        "Percy Pigs",
-        "Werner Herzog"
+        "Domhnall Gleeson"
       ],
       "topics": [
         "domhnall",
@@ -1872,12 +1786,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "153224605",
       "itunes_duration": "1:03:49",
-      "speakers": [
-        "Hip Hop",
-        "Danny Brown",
-        "Mike Eagle",
-        "Jean Grae"
-      ],
+      "speakers": [],
       "topics": [
         "childish",
         "gambino",
@@ -1902,9 +1811,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137026370",
       "itunes_duration": "57:04",
-      "speakers": [
-        "Killer Mike"
-      ],
+      "speakers": [],
       "topics": [
         "killer",
         "mike",
@@ -1926,8 +1833,7 @@
       "enclosure_length": "173823283",
       "itunes_duration": "1:12:24",
       "speakers": [
-        "Renay Richardson",
-        "Arisa Loomba"
+        "Renay Richardson"
       ],
       "topics": [
         "renay",
@@ -1953,9 +1859,7 @@
       "enclosure_length": "161242783",
       "itunes_duration": "1:07:09",
       "speakers": [
-        "Ron Perlman",
-        "Ron down",
-        "Guillermo Del Toro"
+        "Ron Perlman"
       ],
       "topics": [
         "perlman",
@@ -1978,8 +1882,7 @@
       "enclosure_length": "111815359",
       "itunes_duration": "46:34",
       "speakers": [
-        "Benicio Del Toro",
-        "Wes Anderson"
+        "Benicio Del Toro"
       ],
       "topics": [
         "benicio",
@@ -2005,9 +1908,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "171735048",
       "itunes_duration": "1:11:32",
-      "speakers": [
-        "Paloma Faith"
-      ],
+      "speakers": [],
       "topics": [
         "paloma",
         "faith",
@@ -2031,8 +1932,7 @@
       "enclosure_length": "150563256",
       "itunes_duration": "1:02:43",
       "speakers": [
-        "Simone Kirby",
-        "Enjoy Simone"
+        "Simone Kirby"
       ],
       "topics": [
         "simone",
@@ -2059,9 +1959,7 @@
       "enclosure_length": "106201812",
       "itunes_duration": "44:13",
       "speakers": [
-        "Charlie Brooker",
-        "Annabel Jones",
-        "Nathan Barley"
+        "Charlie Brooker"
       ],
       "topics": [
         "charlie",
@@ -2244,9 +2142,7 @@
       "enclosure_length": "139282802",
       "itunes_duration": "58:00",
       "speakers": [
-        "John Cooper Clarke",
-        "Bernard Manning",
-        "Michael Madson"
+        "John Cooper Clarke"
       ],
       "topics": [
         "john",
@@ -2322,9 +2218,7 @@
       "enclosure_length": "120982137",
       "itunes_duration": "50:23",
       "speakers": [
-        "Daisy Dunne",
-        "James Skeet",
-        "Carbon Brief"
+        "Daisy Dunne"
       ],
       "topics": [
         "climate",
@@ -2393,8 +2287,7 @@
       "enclosure_length": "76081136",
       "itunes_duration": "31:41",
       "speakers": [
-        "Martin Freeman",
-        "Hitchhikers Guide"
+        "Martin Freeman"
       ],
       "topics": [
         "martin",
@@ -2441,8 +2334,7 @@
       "enclosure_length": "203587807",
       "itunes_duration": "1:24:48",
       "speakers": [
-        "Kathy Burke",
-        "Gary Oldman"
+        "Kathy Burke"
       ],
       "topics": [
         "kathy",
@@ -2486,8 +2378,7 @@
       "enclosure_length": "155676362",
       "itunes_duration": "1:04:51",
       "speakers": [
-        "Robert Sheehan",
-        "Jet Trash"
+        "Robert Sheehan"
       ],
       "topics": [
         "robert",
@@ -2513,9 +2404,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "201117837",
       "itunes_duration": "1:23:47",
-      "speakers": [
-        "Kate Nash"
-      ],
+      "speakers": [],
       "topics": [
         "kate",
         "nash",
@@ -2535,12 +2424,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138230500",
       "itunes_duration": "57:34",
-      "speakers": [
-        "Cosmo Jarvis",
-        "Niamh Algar",
-        "Lady Macbeth",
-        "Peaky Blinders"
-      ],
+      "speakers": [],
       "topics": [
         "cosmo",
         "jarvis",
@@ -2565,9 +2449,7 @@
       "enclosure_length": "179832217",
       "itunes_duration": "1:14:55",
       "speakers": [
-        "John Robins",
-        "Lou Sanders",
-        "Bonnie Prince Billy"
+        "John Robins"
       ],
       "topics": [
         "john",
@@ -2592,9 +2474,7 @@
       "itunes_duration": "1:14:49",
       "speakers": [
         "Florence Pugh",
-        "Worry Darling",
-        "Lady Macbeth",
-        "Peaky Blinders"
+        "Worry Darling"
       ],
       "topics": [
         "florence",
@@ -2619,9 +2499,7 @@
       "enclosure_length": "163344188",
       "itunes_duration": "1:08:03",
       "speakers": [
-        "Frank Carter",
-        "Sex Pistols",
-        "Frank catch"
+        "Frank Carter"
       ],
       "topics": [
         "frank",
@@ -2697,9 +2575,7 @@
       "enclosure_length": "105396982",
       "itunes_duration": "43:54",
       "speakers": [
-        "Michael Fassbender",
-        "Tomas Alfredson",
-        "Jo Nesbø"
+        "Michael Fassbender"
       ],
       "topics": [
         "michael",
@@ -2748,8 +2624,7 @@
       "enclosure_length": "154810640",
       "itunes_duration": "1:04:29",
       "speakers": [
-        "Roots Manuva",
-        "Hip Hop"
+        "Roots Manuva"
       ],
       "topics": [
         "root",
@@ -2771,10 +2646,7 @@
       "enclosure_length": "180908110",
       "itunes_duration": "1:15:22",
       "speakers": [
-        "Christopher Macarthur-Boyd",
-        "Frankie Boyle",
-        "Susie McCabe",
-        "Scroobius Pip"
+        "Christopher Macarthur-Boyd"
       ],
       "topics": [
         "christopher",
@@ -2821,8 +2693,7 @@
       "enclosure_length": "165736502",
       "itunes_duration": "1:09:02",
       "speakers": [
-        "John Joel",
-        "Producer Buddy"
+        "John Joel"
       ],
       "topics": [
         "show",
@@ -2844,11 +2715,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120668730",
       "itunes_duration": "50:16",
-      "speakers": [
-        "Matilda Lutz",
-        "Coralie Fargeat",
-        "David Cronenberg"
-      ],
+      "speakers": [],
       "topics": [
         "coralie",
         "fargeat",
@@ -2934,8 +2801,7 @@
       "enclosure_length": "254821424",
       "itunes_duration": "1:46:10",
       "speakers": [
-        "Michaela Coel",
-        "John Goodman"
+        "Michaela Coel"
       ],
       "topics": [
         "michaela",
@@ -2959,10 +2825,7 @@
       "enclosure_length": "148613854",
       "itunes_duration": "1:01:54",
       "speakers": [
-        "Jesse Eisenberg",
-        "Jesse Eiseinberg",
-        "Kieran Culkin",
-        "You'RE Finished Saving"
+        "Jesse Eisenberg"
       ],
       "topics": [
         "jesse",
@@ -2988,8 +2851,7 @@
       "enclosure_length": "69751585",
       "itunes_duration": "29:03",
       "speakers": [
-        "Barry Keoghan",
-        "Bart Layton"
+        "Barry Keoghan"
       ],
       "topics": [
         "barry",
@@ -3133,13 +2995,7 @@
       "enclosure_length": "167290989",
       "itunes_duration": "1:09:42",
       "speakers": [
-        "Ruth Husko",
-        "Twitter treasure Ruth",
-        "Norm Macdonald",
-        "Stewart Lee",
-        "Chris Morris",
-        "Richard Herring",
-        "Yung Pip"
+        "Ruth Husko"
       ],
       "topics": [
         "ruth",
@@ -3204,8 +3060,7 @@
       "itunes_duration": "1:05:22",
       "speakers": [
         "Ben Bailey Smith",
-        "Doc Brown",
-        "Tony Bones"
+        "Doc Brown"
       ],
       "topics": [
         "bailey",
@@ -3231,8 +3086,7 @@
       "enclosure_length": "166364065",
       "itunes_duration": "1:09:18",
       "speakers": [
-        "Andrew Ellis",
-        "Stephen Graham"
+        "Andrew Ellis"
       ],
       "topics": [
         "andrew",
@@ -3253,9 +3107,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141692473",
       "itunes_duration": "59:02",
-      "speakers": [
-        "Brainwash Me"
-      ],
+      "speakers": [],
       "topics": [
         "poppy",
         "hillstead",
@@ -3275,9 +3127,7 @@
       "enclosure_length": "161246008",
       "itunes_duration": "1:07:10",
       "speakers": [
-        "Joey Page",
-        "Nick Helm",
-        "Bilal Zafar"
+        "Joey Page"
       ],
       "topics": [
         "joey",
@@ -3319,11 +3169,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141500933",
       "itunes_duration": "58:57",
-      "speakers": [
-        "Alice Lowe",
-        "Nick Frost",
-        "Alice Instagram Nick"
-      ],
+      "speakers": [],
       "topics": [
         "alice",
         "lowe",
@@ -3414,8 +3260,7 @@
       "enclosure_length": "185859653",
       "itunes_duration": "1:17:26",
       "speakers": [
-        "Stuart Goldsmith Distraction Pieces",
-        "Stuart Goldsmith"
+        "Stuart Goldsmith Distraction Pieces"
       ],
       "topics": [
         "stuart",
@@ -3437,10 +3282,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "161431494",
       "itunes_duration": "1:07:15",
-      "speakers": [
-        "Louis Theroux",
-        "Jamali Maddix"
-      ],
+      "speakers": [],
       "topics": [
         "jamali",
         "maddix",
@@ -3461,9 +3303,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "165216774",
       "itunes_duration": "1:08:50",
-      "speakers": [
-        "Frank Quitely"
-      ],
+      "speakers": [],
       "topics": [
         "frankie",
         "boyle",
@@ -3508,8 +3348,7 @@
       "enclosure_length": "134418053",
       "itunes_duration": "56:00",
       "speakers": [
-        "Phil Wang Distraction Pieces",
-        "Taylor Mali Speech"
+        "Phil Wang Distraction Pieces"
       ],
       "topics": [
         "phil",
@@ -3531,9 +3370,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "162713094",
       "itunes_duration": "1:07:47",
-      "speakers": [
-        "Stephen Grahame"
-      ],
+      "speakers": [],
       "topics": [
         "thomas",
         "coombes",
@@ -3554,10 +3391,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128797507",
       "itunes_duration": "53:39",
-      "speakers": [
-        "Hardcore Listing",
-        "Dan Le Sac vs"
-      ],
+      "speakers": [],
       "topics": [
         "soundman",
         "distraction",
@@ -3598,9 +3432,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "185048707",
       "itunes_duration": "1:17:06",
-      "speakers": [
-        "Fringe Show"
-      ],
+      "speakers": [],
       "topics": [
         "sophie",
         "duker",
@@ -3641,9 +3473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147691014",
       "itunes_duration": "1:01:32",
-      "speakers": [
-        "Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "acolyte",
         "special",
@@ -3665,9 +3495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "203735352",
       "itunes_duration": "1:24:53",
-      "speakers": [
-        "Steven Ogg"
-      ],
+      "speakers": [],
       "topics": [
         "steven",
         "distraction",
@@ -3688,8 +3516,7 @@
       "enclosure_length": "174282054",
       "itunes_duration": "1:12:36",
       "speakers": [
-        "Steve Stamp Allan",
-        "Top Boy"
+        "Steve Stamp Allan"
       ],
       "topics": [
         "steve",
@@ -3715,8 +3542,7 @@
       "enclosure_length": "98631392",
       "itunes_duration": "1:08:29",
       "speakers": [
-        "Scroobius Pip Happy",
-        "Kae Tempest"
+        "Scroobius Pip Happy"
       ],
       "topics": [
         "pride",
@@ -3740,9 +3566,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144326284",
       "itunes_duration": "1:00:07",
-      "speakers": [
-        "Stevie Martin"
-      ],
+      "speakers": [],
       "topics": [
         "stevie",
         "martin",
@@ -3764,9 +3588,7 @@
       "enclosure_length": "88833056",
       "itunes_duration": "1:01:41",
       "speakers": [
-        "Scroobius Pip Happy",
-        "Mae Martin",
-        "Feel Good"
+        "Scroobius Pip Happy"
       ],
       "topics": [
         "pride",
@@ -3791,9 +3613,7 @@
       "enclosure_length": "111477977",
       "itunes_duration": "46:26",
       "speakers": [
-        "Jeff Nichols Distraction Pieces",
-        "Jeff Nichols",
-        "Michael Shannon"
+        "Jeff Nichols Distraction Pieces"
       ],
       "topics": [
         "jeff",
@@ -3816,8 +3636,7 @@
       "enclosure_length": "112514144",
       "itunes_duration": "1:18:08",
       "speakers": [
-        "Scroobius Pip Happy",
-        "Jordan Gray"
+        "Scroobius Pip Happy"
       ],
       "topics": [
         "pride",
@@ -3865,9 +3684,7 @@
       "enclosure_length": "103765647",
       "itunes_duration": "1:12:03",
       "speakers": [
-        "Scroobius Pip Happy",
-        "Michael Cashman",
-        "Ian McKellen"
+        "Scroobius Pip Happy"
       ],
       "topics": [
         "pride",
@@ -3936,10 +3753,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "158924934",
       "itunes_duration": "1:06:12",
-      "speakers": [
-        "Bec Hill",
-        "Makeaway Takeaway"
-      ],
+      "speakers": [],
       "topics": [
         "hill",
         "distraction",
@@ -3959,10 +3773,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102428960",
       "itunes_duration": "1:11:07",
-      "speakers": [
-        "Twitch pro",
-        "Beth Douglas"
-      ],
+      "speakers": [],
       "topics": [
         "picklebee",
         "beth",
@@ -4008,9 +3819,7 @@
       "enclosure_length": "134410373",
       "itunes_duration": "56:00",
       "speakers": [
-        "Suzi Ruffell Distraction Pieces",
-        "Bake Off",
-        "Enjoy Suzi"
+        "Suzi Ruffell Distraction Pieces"
       ],
       "topics": [
         "suzi",
@@ -4075,10 +3884,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150955089",
       "itunes_duration": "1:02:53",
-      "speakers": [
-        "Pepsi Max",
-        "Slingsbury Gin"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -4117,9 +3923,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "159666567",
       "itunes_duration": "1:06:31",
-      "speakers": [
-        "Bobby Vylan"
-      ],
+      "speakers": [],
       "topics": [
         "bobby",
         "vylan",
@@ -4185,9 +3989,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "173071514",
       "itunes_duration": "1:12:06",
-      "speakers": [
-        "Jack Rooke"
-      ],
+      "speakers": [],
       "topics": [
         "john",
         "pointing",
@@ -4210,7 +4012,7 @@
       "itunes_duration": "1:10:22",
       "speakers": [
         "John Harris Joel Grove",
-        "Producer Buddy"
+        "Pip ma"
       ],
       "topics": [
         "show",
@@ -4236,10 +4038,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152696408",
       "itunes_duration": "1:03:37",
-      "speakers": [
-        "Gareth Edwards",
-        "Peter Jackson"
-      ],
+      "speakers": [],
       "topics": [
         "gareth",
         "edwards",
@@ -4261,10 +4060,7 @@
       "enclosure_length": "136783447",
       "itunes_duration": "56:59",
       "speakers": [
-        "Peter Capaldi Distraction Pieces",
-        "Peter Capaldi",
-        "Malcolm Tucker",
-        "Lewis Capaldi"
+        "Peter Capaldi Distraction Pieces"
       ],
       "topics": [
         "peter",
@@ -4286,9 +4082,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142838237",
       "itunes_duration": "59:30",
-      "speakers": [
-        "Bob Marley"
-      ],
+      "speakers": [],
       "topics": [
         "kingsley",
         "adir",
@@ -4310,8 +4104,7 @@
       "enclosure_length": "204110166",
       "itunes_duration": "1:25:02",
       "speakers": [
-        "David Holmes Distraction Pieces",
-        "Davd Holmes"
+        "David Holmes Distraction Pieces"
       ],
       "topics": [
         "david",
@@ -4356,9 +4149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "132815767",
       "itunes_duration": "55:20",
-      "speakers": [
-        "Andrew Haigh"
-      ],
+      "speakers": [],
       "topics": [
         "andrew",
         "haigh",
@@ -4403,8 +4194,7 @@
       "enclosure_length": "210509573",
       "itunes_duration": "1:27:42",
       "speakers": [
-        "Joel Edegerton Distraction Pieces",
-        "Barrys Jenkins"
+        "Joel Edegerton Distraction Pieces"
       ],
       "topics": [
         "joel",
@@ -4426,9 +4216,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "196369304",
       "itunes_duration": "1:21:48",
-      "speakers": [
-        "Yung Pip"
-      ],
+      "speakers": [],
       "topics": [
         "film",
         "year",
@@ -4546,10 +4334,7 @@
       "itunes_duration": "1:12:18",
       "speakers": [
         "Thomas Turgoose Distraction Pieces",
-        "Scroobius Pip",
-        "Thomas Turgoose",
-        "Shane Meadows",
-        "Stephen Graham"
+        "Scroobius Pip"
       ],
       "topics": [
         "thomas",
@@ -4616,9 +4401,7 @@
       "enclosure_length": "111159109",
       "itunes_duration": "46:18",
       "speakers": [
-        "William Oldroyd Distraction Pieces",
-        "William Oldroyd",
-        "Lady Macbeth"
+        "William Oldroyd Distraction Pieces"
       ],
       "topics": [
         "william",
@@ -4640,10 +4423,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148362008",
       "itunes_duration": "1:01:48",
-      "speakers": [
-        "Chris Morris",
-        "Pro Evo Soccer"
-      ],
+      "speakers": [],
       "topics": [
         "bilal",
         "zafar",
@@ -4686,8 +4466,7 @@
       "enclosure_length": "106575375",
       "itunes_duration": "44:24",
       "speakers": [
-        "Emerald Fennell Distraction Pieces",
-        "Emerald Fennell"
+        "Emerald Fennell Distraction Pieces"
       ],
       "topics": [
         "emerald",
@@ -4751,9 +4530,7 @@
       "enclosure_length": "156468288",
       "itunes_duration": "1:05:11",
       "speakers": [
-        "Philip Barantini Distraction Pieces",
-        "Philip Barantini",
-        "Stephen Grahame"
+        "Philip Barantini Distraction Pieces"
       ],
       "topics": [
         "philip",
@@ -4776,8 +4553,7 @@
       "enclosure_length": "162636294",
       "itunes_duration": "1:07:45",
       "speakers": [
-        "Jed Shepherd",
-        "Alice Lowe"
+        "Jed Shepherd"
       ],
       "topics": [
         "show",
@@ -4800,9 +4576,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "204178447",
       "itunes_duration": "1:25:04",
-      "speakers": [
-        "Buddha Steven Ogg"
-      ],
+      "speakers": [],
       "topics": [
         "steven",
         "distraction",
@@ -4823,8 +4597,7 @@
       "enclosure_length": "124366853",
       "itunes_duration": "51:48",
       "speakers": [
-        "Laura Checkley Distraction Pieces",
-        "Laura Checkley"
+        "Laura Checkley Distraction Pieces"
       ],
       "topics": [
         "laura",
@@ -4887,10 +4660,7 @@
       "enclosure_length": "127738373",
       "itunes_duration": "53:13",
       "speakers": [
-        "Otto Baxter Distraction Pieces",
-        "Peter Beard",
-        "Otto Baxter",
-        "Horror Story"
+        "Otto Baxter Distraction Pieces"
       ],
       "topics": [
         "otto",
@@ -4933,11 +4703,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145341894",
       "itunes_duration": "1:00:33",
-      "speakers": [
-        "Susan jumps back",
-        "Helen Mirren",
-        "Deborah Frances-White"
-      ],
+      "speakers": [],
       "topics": [
         "susan",
         "wokoma",
@@ -5083,9 +4849,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75979958",
       "itunes_duration": "48:29",
-      "speakers": [
-        "Sam Dabb"
-      ],
+      "speakers": [],
       "topics": [
         "grassroots",
         "music",
@@ -5108,10 +4872,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "177012288",
       "itunes_duration": "1:13:45",
-      "speakers": [
-        "Jack Whitehall",
-        "Edinburgh Fringe"
-      ],
+      "speakers": [],
       "topics": [
         "lloyd",
         "griffith",
@@ -5133,11 +4894,7 @@
       "enclosure_length": "113613187",
       "itunes_duration": "47:20",
       "speakers": [
-        "Pom Klementieff Distraction Pieces",
-        "Suicide Squad",
-        "Spike Lee",
-        "Simon Pegg",
-        "Tom Cruise"
+        "Pom Klementieff Distraction Pieces"
       ],
       "topics": [
         "klementieff",
@@ -5201,9 +4958,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130677968",
       "itunes_duration": "54:26",
-      "speakers": [
-        "Bridget Christie"
-      ],
+      "speakers": [],
       "topics": [
         "bridget",
         "christie",
@@ -5245,9 +5000,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "165331085",
       "itunes_duration": "1:08:53",
-      "speakers": [
-        "Dr Nishant"
-      ],
+      "speakers": [],
       "topics": [
         "nishant",
         "joshi",
@@ -5268,12 +5021,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143860613",
       "itunes_duration": "59:56",
-      "speakers": [
-        "Jon Ronson",
-        "Louis Theroux",
-        "Adam Curtis",
-        "Nick Broomfield"
-      ],
+      "speakers": [],
       "topics": [
         "ronson",
         "distraction",
@@ -5338,10 +5086,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "185458627",
       "itunes_duration": "1:17:16",
-      "speakers": [
-        "James Acaster",
-        "Youtube Dpp"
-      ],
+      "speakers": [],
       "topics": [
         "james",
         "acaster",
@@ -5363,8 +5108,7 @@
       "enclosure_length": "179441348",
       "itunes_duration": "1:14:45",
       "speakers": [
-        "Anna Bogutskaya Distraction Pieces",
-        "Anna Bogutskaya"
+        "Anna Bogutskaya Distraction Pieces"
       ],
       "topics": [
         "anna",
@@ -5387,8 +5131,7 @@
       "enclosure_length": "219051653",
       "itunes_duration": "1:31:16",
       "speakers": [
-        "Fantasy Film Casting",
-        "Hardcore Listing"
+        "Fantasy Film Casting"
       ],
       "topics": [
         "fantasy",
@@ -5413,8 +5156,7 @@
       "enclosure_length": "162450054",
       "itunes_duration": "1:07:41",
       "speakers": [
-        "Johnny Harris Distraction Pieces",
-        "Johnny Harris"
+        "Johnny Harris Distraction Pieces"
       ],
       "topics": [
         "johnny",
@@ -5483,9 +5225,7 @@
       "enclosure_length": "141709253",
       "itunes_duration": "59:02",
       "speakers": [
-        "Rou Reynolds Distraction Pieces",
-        "Enter Shikari",
-        "Rou Reynolds"
+        "Rou Reynolds Distraction Pieces"
       ],
       "topics": [
         "reynolds",
@@ -5506,9 +5246,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89198167",
       "itunes_duration": "37:09",
-      "speakers": [
-        "Brandon Cronenberg"
-      ],
+      "speakers": [],
       "topics": [
         "brandon",
         "cronenberg",
@@ -5549,11 +5287,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138253207",
       "itunes_duration": "57:36",
-      "speakers": [
-        "Harry Potter",
-        "John Wick",
-        "Imdb Instagram Twitter"
-      ],
+      "speakers": [],
       "topics": [
         "natalia",
         "tena",
@@ -5574,9 +5308,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "149967128",
       "itunes_duration": "1:02:28",
-      "speakers": [
-        "Saul Williams"
-      ],
+      "speakers": [],
       "topics": [
         "saul",
         "williams",
@@ -5619,8 +5351,7 @@
       "enclosure_length": "166492921",
       "itunes_duration": "1:09:22",
       "speakers": [
-        "Join Pip",
-        "Buddy Peace"
+        "Join Pip"
       ],
       "topics": [
         "distraction",
@@ -5641,8 +5372,7 @@
       "enclosure_length": "185763856",
       "itunes_duration": "1:17:23",
       "speakers": [
-        "Join Pip",
-        "Buddy Peace"
+        "Join Pip"
       ],
       "topics": [
         "distraction",
@@ -5663,9 +5393,7 @@
       "enclosure_length": "160863682",
       "itunes_duration": "1:07:01",
       "speakers": [
-        "Darren McGarvey",
-        "Rutger Bregman",
-        "Emma Dabiri"
+        "Darren McGarvey"
       ],
       "topics": [
         "darren",
@@ -5688,9 +5416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "213573847",
       "itunes_duration": "1:28:59",
-      "speakers": [
-        "Amar Chadha-Patel"
-      ],
+      "speakers": [],
       "topics": [
         "amar",
         "chadha",
@@ -5802,9 +5528,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189067927",
       "itunes_duration": "1:18:46",
-      "speakers": [
-        "William Regal"
-      ],
+      "speakers": [],
       "topics": [
         "william",
         "regal",
@@ -5915,9 +5639,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83592016",
       "itunes_duration": "34:49",
-      "speakers": [
-        "Knives Out"
-      ],
+      "speakers": [],
       "topics": [
         "rian",
         "johnson",
@@ -5938,7 +5660,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97474574",
       "itunes_duration": "40:36",
-      "speakers": [],
+      "speakers": [
+        "Adam Buxton"
+      ],
       "topics": [
         "adam",
         "buxton",
@@ -5961,7 +5685,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130216336",
       "itunes_duration": "54:15",
-      "speakers": [],
+      "speakers": [
+        "Adam Buxton"
+      ],
       "topics": [
         "adam",
         "buxton",
@@ -5984,10 +5710,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78743012",
       "itunes_duration": "32:48",
-      "speakers": [
-        "Rio Rosenberg",
-        "Charlie Hyman"
-      ],
+      "speakers": [],
       "topics": [
         "bloomsbury",
         "football",
@@ -6010,8 +5733,7 @@
       "enclosure_length": "130995856",
       "itunes_duration": "54:34",
       "speakers": [
-        "Xmas Drinks",
-        "Kae Tempest"
+        "Xmas Drinks"
       ],
       "topics": [
         "xmas",
@@ -6036,8 +5758,7 @@
       "enclosure_length": "142461847",
       "itunes_duration": "59:21",
       "speakers": [
-        "Xmas Drinks",
-        "Kae Tempest"
+        "Xmas Drinks"
       ],
       "topics": [
         "xmas",
@@ -6061,10 +5782,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143293207",
       "itunes_duration": "59:42",
-      "speakers": [
-        "Joe Thomas",
-        "Simon Bird"
-      ],
+      "speakers": [],
       "topics": [
         "inbetweener",
         "special",
@@ -6086,10 +5804,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126499457",
       "itunes_duration": "52:42",
-      "speakers": [
-        "John Hathaway",
-        "Instagram Espn"
-      ],
+      "speakers": [],
       "topics": [
         "john",
         "hathaway",
@@ -6110,10 +5825,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126077776",
       "itunes_duration": "52:31",
-      "speakers": [
-        "Jack Spring",
-        "Twitter Destination"
-      ],
+      "speakers": [],
       "topics": [
         "jack",
         "spring",
@@ -6134,10 +5846,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114983767",
       "itunes_duration": "47:54",
-      "speakers": [
-        "Blue Peter",
-        "Maid Marian"
-      ],
+      "speakers": [],
       "topics": [
         "mark",
         "mylod",
@@ -6179,10 +5888,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142833629",
       "itunes_duration": "59:30",
-      "speakers": [
-        "Alan Partridge",
-        "Ted Lasso"
-      ],
+      "speakers": [],
       "topics": [
         "alistair",
         "green",
@@ -6204,8 +5910,7 @@
       "enclosure_length": "149469137",
       "itunes_duration": "1:02:16",
       "speakers": [
-        "Adam Kay Distraction Pieces",
-        "Adam Kay"
+        "Adam Kay Distraction Pieces"
       ],
       "topics": [
         "adam",
@@ -6226,9 +5931,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152547183",
       "itunes_duration": "1:03:33",
-      "speakers": [
-        "Nikesh Patel"
-      ],
+      "speakers": [],
       "topics": [
         "nikesh",
         "patel",
@@ -6269,9 +5972,7 @@
       "enclosure_length": "156645188",
       "itunes_duration": "1:05:15",
       "speakers": [
-        "Jim Bob",
-        "Carter Bloodsport",
-        "Jim Bob Books"
+        "Jim Bob"
       ],
       "topics": [
         "carter",
@@ -6336,10 +6037,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100145346",
       "itunes_duration": "41:43",
-      "speakers": [
-        "Julia Roberts",
-        "George Clooney"
-      ],
+      "speakers": [],
       "topics": [
         "kaitlyn",
         "dever",
@@ -6360,9 +6058,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114913981",
       "itunes_duration": "47:52",
-      "speakers": [
-        "Tom George"
-      ],
+      "speakers": [],
       "topics": [
         "george",
         "distraction",
@@ -6383,9 +6079,7 @@
       "enclosure_length": "126438787",
       "itunes_duration": "52:40",
       "speakers": [
-        "Charlie Cooper Distraction Pieces",
-        "Daisy May",
-        "Tom George comfort"
+        "Charlie Cooper Distraction Pieces"
       ],
       "topics": [
         "charlie",
@@ -6428,9 +6122,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108339152",
       "itunes_duration": "45:08",
-      "speakers": [
-        "George Mackay"
-      ],
+      "speakers": [],
       "topics": [
         "george",
         "mackay",
@@ -6451,10 +6143,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54288442",
       "itunes_duration": "56:32",
-      "speakers": [
-        "John Bradley West",
-        "Marry Me"
-      ],
+      "speakers": [],
       "topics": [
         "john",
         "bradley",
@@ -6497,10 +6186,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55436602",
       "itunes_duration": "57:44",
-      "speakers": [
-        "Left Wing",
-        "Imdb Meantime"
-      ],
+      "speakers": [],
       "topics": [
         "frankie",
         "boyle",
@@ -6521,9 +6207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63093562",
       "itunes_duration": "1:05:42",
-      "speakers": [
-        "Stu Whiffen"
-      ],
+      "speakers": [],
       "topics": [
         "charlie",
         "nina",
@@ -6545,8 +6229,7 @@
       "enclosure_length": "57703666",
       "itunes_duration": "1:00:05",
       "speakers": [
-        "Stu Whiffen Kunt",
-        "Stu Whiffen"
+        "Stu Whiffen Kunt"
       ],
       "topics": [
         "birthday",
@@ -6571,8 +6254,7 @@
       "enclosure_length": "62475322",
       "itunes_duration": "1:05:04",
       "speakers": [
-        "Stu Whiffen Kunt",
-        "Stu Whiffen"
+        "Stu Whiffen Kunt"
       ],
       "topics": [
         "birthday",
@@ -6596,10 +6278,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52779706",
       "itunes_duration": "54:58",
-      "speakers": [
-        "Kerry Godliman",
-        "Ricky Gervais"
-      ],
+      "speakers": [],
       "topics": [
         "kerry",
         "godliman",
@@ -6621,8 +6300,7 @@
       "enclosure_length": "64509754",
       "itunes_duration": "1:07:11",
       "speakers": [
-        "Mark Thomas Distraction Pieces",
-        "Mark Thomas"
+        "Mark Thomas Distraction Pieces"
       ],
       "topics": [
         "mark",
@@ -6645,8 +6323,7 @@
       "enclosure_length": "54828730",
       "itunes_duration": "57:06",
       "speakers": [
-        "Laura Whitmore Distraction Pieces",
-        "Laura Whitmore"
+        "Laura Whitmore Distraction Pieces"
       ],
       "topics": [
         "laura",
@@ -6669,9 +6346,7 @@
       "enclosure_length": "45057850",
       "itunes_duration": "46:55",
       "speakers": [
-        "Jim Archer",
-        "David Earl",
-        "Charles Imdb Brian"
+        "Jim Archer"
       ],
       "topics": [
         "archer",
@@ -6695,11 +6370,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69775546",
       "itunes_duration": "1:12:40",
-      "speakers": [
-        "Twitcher David Earl",
-        "Brian Gittins",
-        "Charles Imdb Brian"
-      ],
+      "speakers": [],
       "topics": [
         "david",
         "earl",
@@ -6763,10 +6434,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58039335",
       "itunes_duration": "1:00:26",
-      "speakers": [
-        "Joe Barton",
-        "Imdb Twitter Giri"
-      ],
+      "speakers": [],
       "topics": [
         "barton",
         "distraction",
@@ -6807,9 +6475,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59186675",
       "itunes_duration": "1:01:38",
-      "speakers": [
-        "Twitch Ace"
-      ],
+      "speakers": [],
       "topics": [
         "stirling",
         "distraction",
@@ -6829,10 +6495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65722810",
       "itunes_duration": "1:08:27",
-      "speakers": [
-        "Rebecca Lucy Taylor",
-        "Self Esteem"
-      ],
+      "speakers": [],
       "topics": [
         "self",
         "esteem",
@@ -6853,10 +6516,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70296792",
       "itunes_duration": "1:13:12",
-      "speakers": [
-        "Tim Key",
-        "Emily Dean"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -6896,10 +6556,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50797045",
       "itunes_duration": "52:54",
-      "speakers": [
-        "Gaspar Noe",
-        "Gaspar Noe fan Pip"
-      ],
+      "speakers": [],
       "topics": [
         "gaspar",
         "distraction",
@@ -6920,10 +6577,7 @@
       "enclosure_length": "54616378",
       "itunes_duration": "56:53",
       "speakers": [
-        "Benedict Wong Distraction Pieces",
-        "Benedict Wong",
-        "Sean Lock",
-        "Top Boy"
+        "Benedict Wong Distraction Pieces"
       ],
       "topics": [
         "benedict",
@@ -6945,11 +6599,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38401203",
       "itunes_duration": "39:59",
-      "speakers": [
-        "Lisa Simpson",
-        "Richard Risher",
-        "Lisa Links"
-      ],
+      "speakers": [],
       "topics": [
         "accountability",
         "activism",
@@ -6992,8 +6642,7 @@
       "enclosure_length": "53545786",
       "itunes_duration": "55:46",
       "speakers": [
-        "Sarah Solemani Distraction Pieces",
-        "Steve Coogan"
+        "Sarah Solemani Distraction Pieces"
       ],
       "topics": [
         "sarah",
@@ -7015,9 +6664,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70452378",
       "itunes_duration": "1:13:22",
-      "speakers": [
-        "Kae Tempest"
-      ],
+      "speakers": [],
       "topics": [
         "tempest",
         "distraction",
@@ -7038,9 +6685,7 @@
       "enclosure_length": "57459514",
       "itunes_duration": "59:50",
       "speakers": [
-        "Jo Whiley Distraction Pieces",
-        "JO Whiley",
-        "JO Links Twitter Instagram"
+        "Jo Whiley Distraction Pieces"
       ],
       "topics": [
         "whiley",
@@ -7061,10 +6706,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66589498",
       "itunes_duration": "1:09:21",
-      "speakers": [
-        "Neil Gaiman",
-        "Alan Moore"
-      ],
+      "speakers": [],
       "topics": [
         "hayley",
         "campbell",
@@ -7086,9 +6728,7 @@
       "enclosure_length": "63932986",
       "itunes_duration": "1:06:35",
       "speakers": [
-        "Scroobius Pip",
-        "Instagram Mum",
-        "Twitter Mum"
+        "Scroobius Pip"
       ],
       "topics": [
         "viral",
@@ -7110,11 +6750,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56813626",
       "itunes_duration": "59:10",
-      "speakers": [
-        "Kae Tempest",
-        "Musa Okwonga",
-        "Jack Rooke"
-      ],
+      "speakers": [],
       "topics": [
         "cecilia",
         "knapp",
@@ -7136,11 +6772,7 @@
       "enclosure_length": "56272570",
       "itunes_duration": "58:36",
       "speakers": [
-        "Craig Roberts Distraction Pieces",
-        "Craig Roberts",
-        "Mark Rylance",
-        "Shaheen Baig",
-        "Richard Ayoade"
+        "Craig Roberts Distraction Pieces"
       ],
       "topics": [
         "craig",
@@ -7162,9 +6794,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49251514",
       "itunes_duration": "51:17",
-      "speakers": [
-        "Nicole Links Imdb Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -7183,10 +6813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65450883",
       "itunes_duration": "1:08:10",
-      "speakers": [
-        "Stephen Fry well",
-        "Stephen Links"
-      ],
+      "speakers": [],
       "topics": [
         "stephen",
         "distraction",
@@ -7206,11 +6833,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55785658",
       "itunes_duration": "58:06",
-      "speakers": [
-        "Beth Granville",
-        "Lucy Pinder",
-        "Beth Links"
-      ],
+      "speakers": [],
       "topics": [
         "beth",
         "granville",
@@ -7232,8 +6855,7 @@
       "enclosure_length": "63771706",
       "itunes_duration": "1:06:25",
       "speakers": [
-        "Lucy Pinder Distraction Pieces",
-        "Lucy Links Smashing Sundays"
+        "Lucy Pinder Distraction Pieces"
       ],
       "topics": [
         "lucy",
@@ -7256,8 +6878,7 @@
       "enclosure_length": "67633978",
       "itunes_duration": "1:10:26",
       "speakers": [
-        "Tom Davis Distraction Pieces",
-        "Tom Davis"
+        "Tom Davis Distraction Pieces"
       ],
       "topics": [
         "davis",
@@ -7300,8 +6921,7 @@
       "enclosure_length": "54930675",
       "itunes_duration": "57:12",
       "speakers": [
-        "Tom Davies Distraction Pieces",
-        "Tom Davies"
+        "Tom Davies Distraction Pieces"
       ],
       "topics": [
         "geowizard",
@@ -7324,11 +6944,7 @@
       "enclosure_length": "69006299",
       "itunes_duration": "1:11:52",
       "speakers": [
-        "Youssef Kerkour Distraction Pieces",
-        "Youssef Kerkour",
-        "Adam Driver",
-        "Al Pacino",
-        "Instagram House"
+        "Youssef Kerkour Distraction Pieces"
       ],
       "topics": [
         "youssef",
@@ -7351,9 +6967,7 @@
       "enclosure_length": "54703546",
       "itunes_duration": "56:58",
       "speakers": [
-        "Scroobius Pip",
-        "Andy Chambers",
-        "Chris Glassen"
+        "Scroobius Pip"
       ],
       "topics": [
         "parent",
@@ -7374,9 +6988,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75884218",
       "itunes_duration": "1:19:02",
-      "speakers": [
-        "Dan Schreiber"
-      ],
+      "speakers": [],
       "topics": [
         "schreiber",
         "distraction",
@@ -7397,8 +7009,7 @@
       "enclosure_length": "26983738",
       "itunes_duration": "28:05",
       "speakers": [
-        "Scroobius Pip",
-        "Rob Williams"
+        "Scroobius Pip"
       ],
       "topics": [
         "williams",
@@ -7440,11 +7051,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59799226",
       "itunes_duration": "1:02:16",
-      "speakers": [
-        "Evanna Lynch",
-        "Luna Lovegood",
-        "Harry Potter"
-      ],
+      "speakers": [],
       "topics": [
         "evanna",
         "lynch",
@@ -7467,8 +7074,7 @@
       "itunes_duration": "1:24:06",
       "speakers": [
         "Mma Roundup",
-        "Scroobius Pip",
-        "Mixed Martial Arts"
+        "Scroobius Pip"
       ],
       "topics": [
         "roundup",
@@ -7596,10 +7202,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66091066",
       "itunes_duration": "1:08:50",
-      "speakers": [
-        "Boris Johnson",
-        "Stu Whiffen"
-      ],
+      "speakers": [],
       "topics": [
         "kunt",
         "gang",
@@ -7621,9 +7224,7 @@
       "enclosure_length": "55110340",
       "itunes_duration": "57:23",
       "speakers": [
-        "Mark Gatiss Distraction Pieces",
-        "Sky Max",
-        "Mark Links"
+        "Mark Gatiss Distraction Pieces"
       ],
       "topics": [
         "mark",
@@ -7666,8 +7267,7 @@
       "enclosure_length": "58593466",
       "itunes_duration": "1:01:01",
       "speakers": [
-        "Kiell Smith-Bynoe Distraction Pieces",
-        "Kiell Smith-Bynoe"
+        "Kiell Smith-Bynoe Distraction Pieces"
       ],
       "topics": [
         "kiell",
@@ -7690,13 +7290,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52064714",
       "itunes_duration": "54:13",
-      "speakers": [
-        "Zane Lowe",
-        "DJ Yoda",
-        "Don Letts",
-        "Lindy Layton",
-        "Chris Glassen Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "lizard",
         "distraction",
@@ -7716,13 +7310,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55046023",
       "itunes_duration": "57:19",
-      "speakers": [
-        "Zane Lowe",
-        "DJ Yoda",
-        "Don Letts",
-        "Lindy Layton",
-        "Chris Glassen Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "lizard",
         "distraction",
@@ -7763,11 +7351,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75891130",
       "itunes_duration": "1:19:02",
-      "speakers": [
-        "Liam Williams",
-        "Alex Beardall",
-        "Cambridge Uni"
-      ],
+      "speakers": [],
       "topics": [
         "liam",
         "williams",
@@ -7788,11 +7372,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76462522",
       "itunes_duration": "1:19:38",
-      "speakers": [
-        "Katy Wix",
-        "Steve Coogan",
-        "Alan Partridge"
-      ],
+      "speakers": [],
       "topics": [
         "katy",
         "distraction",
@@ -7813,8 +7393,7 @@
       "enclosure_length": "66913210",
       "itunes_duration": "1:09:41",
       "speakers": [
-        "Daniel Mays Distraction Pieces",
-        "Stephen Graham"
+        "Daniel Mays Distraction Pieces"
       ],
       "topics": [
         "daniel",
@@ -7836,10 +7415,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61636666",
       "itunes_duration": "1:04:11",
-      "speakers": [
-        "Edgar Wright",
-        "Edgar Links"
-      ],
+      "speakers": [],
       "topics": [
         "edgar",
         "wright",
@@ -7860,10 +7436,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62113978",
       "itunes_duration": "1:04:41",
-      "speakers": [
-        "Stewart Lee",
-        "Paul Chowdhry"
-      ],
+      "speakers": [],
       "topics": [
         "paul",
         "chowdhry",
@@ -7884,9 +7457,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62798266",
       "itunes_duration": "1:05:24",
-      "speakers": [
-        "Sleaford Links"
-      ],
+      "speakers": [],
       "topics": [
         "sleaford",
         "mods",
@@ -7907,9 +7478,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54177850",
       "itunes_duration": "56:25",
-      "speakers": [
-        "Sean Lock"
-      ],
+      "speakers": [],
       "topics": [
         "jimmy",
         "carr",
@@ -7931,8 +7500,7 @@
       "enclosure_length": "67847866",
       "itunes_duration": "1:10:39",
       "speakers": [
-        "Andy Chambers",
-        "Born Human"
+        "Andy Chambers"
       ],
       "topics": [
         "andy",
@@ -7956,8 +7524,7 @@
       "enclosure_length": "64966714",
       "itunes_duration": "1:07:39",
       "speakers": [
-        "Jack Thorne Distraction Pieces",
-        "Stephen Graham"
+        "Jack Thorne Distraction Pieces"
       ],
       "topics": [
         "jack",
@@ -7979,9 +7546,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63407674",
       "itunes_duration": "1:06:02",
-      "speakers": [
-        "Tom Stade"
-      ],
+      "speakers": [],
       "topics": [
         "stade",
         "distraction",
@@ -8001,12 +7566,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53270024",
       "itunes_duration": "55:28",
-      "speakers": [
-        "Jayde Adams",
-        "John Waters",
-        "Mike Leigh",
-        "Rob Parker"
-      ],
+      "speakers": [],
       "topics": [
         "sophie",
         "willan",
@@ -8028,11 +7588,7 @@
       "enclosure_length": "54601402",
       "itunes_duration": "56:52",
       "speakers": [
-        "Sam Spruell Distraction Pieces",
-        "Sam Spruell",
-        "Andrew Haigh",
-        "Steve McQueen",
-        "Sam Links"
+        "Sam Spruell Distraction Pieces"
       ],
       "topics": [
         "spruell",
@@ -8053,9 +7609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72577678",
       "itunes_duration": "1:15:35",
-      "speakers": [
-        "kung fu"
-      ],
+      "speakers": [],
       "topics": [
         "lowkey",
         "distraction",
@@ -8098,8 +7652,7 @@
       "enclosure_length": "51301451",
       "itunes_duration": "53:25",
       "speakers": [
-        "Nathaniel Martello-White Distraction Pieces",
-        "Steve McQueen"
+        "Nathaniel Martello-White Distraction Pieces"
       ],
       "topics": [
         "nathaniel",
@@ -8122,11 +7675,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55783738",
       "itunes_duration": "58:05",
-      "speakers": [
-        "Niamh Algar",
-        "Ridley Scott",
-        "Prano Bailey Bond"
-      ],
+      "speakers": [],
       "topics": [
         "niamh",
         "algar",
@@ -8148,9 +7697,7 @@
       "enclosure_length": "51403450",
       "itunes_duration": "53:32",
       "speakers": [
-        "Steve Stamp Distraction Pieces",
-        "Steve Stamp",
-        "Steve Links"
+        "Steve Stamp Distraction Pieces"
       ],
       "topics": [
         "steve",
@@ -8172,9 +7719,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53845306",
       "itunes_duration": "56:04",
-      "speakers": [
-        "Shawn Levy"
-      ],
+      "speakers": [],
       "topics": [
         "shawn",
         "levy",
@@ -8197,9 +7742,7 @@
       "itunes_duration": "58:11",
       "speakers": [
         "Tim Renkow Distraction Pieces",
-        "Scroobius Pip",
-        "Tim Renkow",
-        "MF Doom"
+        "Scroobius Pip"
       ],
       "topics": [
         "renkow",
@@ -8220,9 +7763,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73240767",
       "itunes_duration": "1:16:16",
-      "speakers": [
-        "Uncle Pip"
-      ],
+      "speakers": [],
       "topics": [
         "birthday",
         "bash",
@@ -8243,9 +7784,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62929599",
       "itunes_duration": "1:05:32",
-      "speakers": [
-        "Uncle Pip"
-      ],
+      "speakers": [],
       "topics": [
         "birthday",
         "bash",
@@ -8266,9 +7805,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68662714",
       "itunes_duration": "1:11:30",
-      "speakers": [
-        "Uncle Pip"
-      ],
+      "speakers": [],
       "topics": [
         "birthday",
         "bash",
@@ -8289,9 +7826,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65827714",
       "itunes_duration": "1:08:33",
-      "speakers": [
-        "Uncle Pip"
-      ],
+      "speakers": [],
       "topics": [
         "birthday",
         "bash",
@@ -8312,11 +7847,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55538266",
       "itunes_duration": "57:50",
-      "speakers": [
-        "Scroobius Pip",
-        "Top Boy",
-        "La Haine"
-      ],
+      "speakers": [],
       "topics": [
         "seapa",
         "grindah",
@@ -8337,9 +7868,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22925882",
       "itunes_duration": "23:55",
-      "speakers": [
-        "You'VE Listened"
-      ],
+      "speakers": [],
       "topics": [
         "announcement",
         "distraction",
@@ -8384,10 +7913,7 @@
       "enclosure_length": "49812154",
       "itunes_duration": "51:52",
       "speakers": [
-        "Scroobius Pip",
-        "Chris Glassen",
-        "Stu Whiffen",
-        "Hardcore Listing"
+        "Scroobius Pip"
       ],
       "topics": [
         "character",
@@ -8410,9 +7936,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54953914",
       "itunes_duration": "57:14",
-      "speakers": [
-        "Childish Gambino"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -8433,11 +7957,7 @@
       "itunes_duration": "52:50",
       "speakers": [
         "Nick Frost Distraction Pieces",
-        "Joining Pip",
-        "Nick Frost",
-        "Simon Pegg",
-        "Truth Seekers",
-        "Twitter Instagram"
+        "Joining Pip"
       ],
       "topics": [
         "nick",
@@ -8460,8 +7980,7 @@
       "enclosure_length": "66330682",
       "itunes_duration": "1:09:05",
       "speakers": [
-        "Scroobius Pip",
-        "Kelechi Okafor"
+        "Scroobius Pip"
       ],
       "topics": [
         "kelechi",
@@ -8526,9 +8045,7 @@
       "enclosure_length": "75994676",
       "itunes_duration": "1:19:08",
       "speakers": [
-        "Scroobius Pip Originally",
-        "Michael Cashman",
-        "Ian McKellen"
+        "Scroobius Pip Originally"
       ],
       "topics": [
         "rewind",
@@ -8551,12 +8068,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66622138",
       "itunes_duration": "1:09:23",
-      "speakers": [
-        "Sara Pascoe",
-        "Edinburgh Fringe",
-        "Alan Rickman",
-        "Juliet Links"
-      ],
+      "speakers": [],
       "topics": [
         "juliet",
         "stevenson",
@@ -8578,9 +8090,7 @@
       "enclosure_length": "79760314",
       "itunes_duration": "1:23:04",
       "speakers": [
-        "Laura Dockrill Distraction Pieces",
-        "Laura Dockrill",
-        "Laura Links Twitter"
+        "Laura Dockrill Distraction Pieces"
       ],
       "topics": [
         "laura",
@@ -8602,9 +8112,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100891375",
       "itunes_duration": "1:45:05",
-      "speakers": [
-        "Chris Meads"
-      ],
+      "speakers": [],
       "topics": [
         "head",
         "distraction",
@@ -8624,9 +8132,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84464655",
       "itunes_duration": "1:27:58",
-      "speakers": [
-        "Stu Whiffen"
-      ],
+      "speakers": [],
       "topics": [
         "head",
         "distraction",
@@ -8646,9 +8152,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94732431",
       "itunes_duration": "1:38:40",
-      "speakers": [
-        "Chris Glassen Jayde Adams"
-      ],
+      "speakers": [],
       "topics": [
         "head",
         "distraction",
@@ -8668,10 +8172,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81388815",
       "itunes_duration": "1:24:46",
-      "speakers": [
-        "Amy Bullman",
-        "Rob Parker"
-      ],
+      "speakers": [],
       "topics": [
         "head",
         "distraction",
@@ -8691,9 +8192,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80403471",
       "itunes_duration": "1:23:44",
-      "speakers": [
-        "Rob Auton"
-      ],
+      "speakers": [],
       "topics": [
         "head",
         "distraction",
@@ -8713,10 +8212,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184025679",
       "itunes_duration": "1:16:40",
-      "speakers": [
-        "Pip's Mum",
-        "Stephen Graham"
-      ],
+      "speakers": [],
       "topics": [
         "head",
         "distraction",
@@ -8759,8 +8255,7 @@
       "itunes_duration": "1:21:38",
       "speakers": [
         "Daniel Sloss Distraction Pieces",
-        "Scroobius Pip",
-        "Daniel days"
+        "Scroobius Pip"
       ],
       "topics": [
         "daniel",
@@ -8783,8 +8278,7 @@
       "enclosure_length": "74384314",
       "itunes_duration": "1:17:28",
       "speakers": [
-        "Scroobius Pip",
-        "Kalyn Heffernan"
+        "Scroobius Pip"
       ],
       "topics": [
         "wheelchair",
@@ -8808,9 +8302,7 @@
       "enclosure_length": "83454010",
       "itunes_duration": "1:26:55",
       "speakers": [
-        "Scroobius Pip",
-        "Pip kick",
-        "Stu Whiffen"
+        "Scroobius Pip"
       ],
       "topics": [
         "blake",
@@ -8834,9 +8326,7 @@
       "itunes_duration": "58:17",
       "speakers": [
         "John Simm Distraction Pieces",
-        "Scroobius Pip",
-        "John through Human Traffic",
-        "Dad Band"
+        "Scroobius Pip"
       ],
       "topics": [
         "john",
@@ -8859,7 +8349,7 @@
       "enclosure_length": "55403962",
       "itunes_duration": "57:42",
       "speakers": [
-        "Pharoahe Monch"
+        "paths th"
       ],
       "topics": [
         "distraction",
@@ -8880,9 +8370,7 @@
       "enclosure_length": "80104220",
       "itunes_duration": "1:23:25",
       "speakers": [
-        "Joining Pip",
-        "himself please",
-        "Buddy Peace"
+        "Joining Pip"
       ],
       "topics": [
         "dolan",
@@ -8905,8 +8393,7 @@
       "enclosure_length": "52183354",
       "itunes_duration": "54:20",
       "speakers": [
-        "Scroobius Pip",
-        "Jane Links Twitter Imdb"
+        "Scroobius Pip"
       ],
       "topics": [
         "jane",
@@ -8928,11 +8415,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79198906",
       "itunes_duration": "1:22:29",
-      "speakers": [
-        "Musa Okawonga",
-        "Oscar Brown Jr via",
-        "Nina Simone"
-      ],
+      "speakers": [],
       "topics": [
         "nikesh",
         "shukla",
@@ -8953,10 +8436,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62132693",
       "itunes_duration": "1:04:42",
-      "speakers": [
-        "Dan Le Sac",
-        "Bruce Springsteen Atlantic City"
-      ],
+      "speakers": [],
       "topics": [
         "album",
         "repent",
@@ -8979,9 +8459,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60051878",
       "itunes_duration": "1:02:32",
-      "speakers": [
-        "Lucinda Williams Those"
-      ],
+      "speakers": [],
       "topics": [
         "album",
         "logic",
@@ -9003,9 +8481,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71474362",
       "itunes_duration": "1:14:26",
-      "speakers": [
-        "Dan Le Sac yes"
-      ],
+      "speakers": [],
       "topics": [
         "album",
         "angles",
@@ -9048,9 +8524,7 @@
       "enclosure_length": "56827450",
       "itunes_duration": "59:11",
       "speakers": [
-        "Scroobius Pip",
-        "Broccoli Content",
-        "George Floyd"
+        "Scroobius Pip"
       ],
       "topics": [
         "renay",
@@ -9094,8 +8568,7 @@
       "enclosure_length": "74307294",
       "itunes_duration": "1:17:23",
       "speakers": [
-        "Scroobius Pip",
-        "Girthy Geeza"
+        "Scroobius Pip"
       ],
       "topics": [
         "asim",
@@ -9118,8 +8591,7 @@
       "enclosure_length": "74632378",
       "itunes_duration": "1:17:43",
       "speakers": [
-        "Adam Buxton",
-        "Tom Cruise"
+        "Adam Buxton"
       ],
       "topics": [
         "adam",
@@ -9142,8 +8614,7 @@
       "enclosure_length": "90081185",
       "itunes_duration": "1:33:49",
       "speakers": [
-        "Scroobius Pip",
-        "Ed Sheeran"
+        "Scroobius Pip"
       ],
       "topics": [
         "musa",
@@ -9165,11 +8636,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62047162",
       "itunes_duration": "1:04:37",
-      "speakers": [
-        "Steven Cree",
-        "Mr Goldstein",
-        "Mick Foley"
-      ],
+      "speakers": [],
       "topics": [
         "steven",
         "cree",
@@ -9191,8 +8658,7 @@
       "enclosure_length": "54093372",
       "itunes_duration": "56:20",
       "speakers": [
-        "Scroobius Pip",
-        "Stacy Martin"
+        "Scroobius Pip"
       ],
       "topics": [
         "stacy",
@@ -9237,8 +8703,7 @@
       "enclosure_length": "23322298",
       "itunes_duration": "24:17",
       "speakers": [
-        "Scroobius Pip",
-        "Buddy Peace"
+        "Scroobius Pip"
       ],
       "topics": [
         "show",
@@ -9324,8 +8789,7 @@
       "enclosure_length": "56610973",
       "itunes_duration": "58:57",
       "speakers": [
-        "Xmas Drinks",
-        "Kae Tempest"
+        "Xmas Drinks"
       ],
       "topics": [
         "xmas",
@@ -9350,8 +8814,7 @@
       "enclosure_length": "52866106",
       "itunes_duration": "55:03",
       "speakers": [
-        "Xmas Drinks",
-        "Kae Tempest"
+        "Xmas Drinks"
       ],
       "topics": [
         "xmas",
@@ -9375,9 +8838,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84373710",
       "itunes_duration": "1:27:52",
-      "speakers": [
-        "Aunty Donna"
-      ],
+      "speakers": [],
       "topics": [
         "aunty",
         "donna",
@@ -9416,12 +8877,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87189946",
       "itunes_duration": "1:30:48",
-      "speakers": [
-        "Myanna Buring",
-        "Kill List",
-        "Michael Smiley",
-        "Stephen Graham"
-      ],
+      "speakers": [],
       "topics": [
         "myanna",
         "buring",
@@ -9443,8 +8899,7 @@
       "enclosure_length": "82270925",
       "itunes_duration": "1:25:41",
       "speakers": [
-        "Rahul Kohli Distraction Pieces",
-        "Mike Bithell"
+        "Rahul Kohli Distraction Pieces"
       ],
       "topics": [
         "rahul",
@@ -9466,9 +8921,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73082170",
       "itunes_duration": "1:16:07",
-      "speakers": [
-        "Towerblock Dreams"
-      ],
+      "speakers": [],
       "topics": [
         "hugo",
         "seapa",
@@ -9490,10 +8943,7 @@
       "enclosure_length": "63291706",
       "itunes_duration": "1:05:55",
       "speakers": [
-        "Benjamin Zephaniah Distraction Pieces",
-        "Benjamin Zephaniah",
-        "Bob Marley",
-        "Peaky Blinders"
+        "Benjamin Zephaniah Distraction Pieces"
       ],
       "topics": [
         "benjamin",
@@ -9515,11 +8965,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79366714",
       "itunes_duration": "1:22:39",
-      "speakers": [
-        "Ben Blaine",
-        "Da Vinci",
-        "Blaine Brothers"
-      ],
+      "speakers": [],
       "topics": [
         "blaine",
         "brothers",
@@ -9560,12 +9006,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70092730",
       "itunes_duration": "1:13:00",
-      "speakers": [
-        "Stephen Graham",
-        "Matthew Vaughn",
-        "Dexter Fletcher",
-        "Tom Hardy"
-      ],
+      "speakers": [],
       "topics": [
         "taron",
         "egerton",
@@ -9629,8 +9070,7 @@
       "enclosure_length": "49854332",
       "itunes_duration": "51:55",
       "speakers": [
-        "Scroobius Pip",
-        "Action Bronson"
+        "Scroobius Pip"
       ],
       "topics": [
         "action",
@@ -9653,8 +9093,7 @@
       "enclosure_length": "60790714",
       "itunes_duration": "1:03:18",
       "speakers": [
-        "Scroobius Pip",
-        "Jamali Maddix"
+        "Scroobius Pip"
       ],
       "topics": [
         "ghett",
@@ -9697,8 +9136,7 @@
       "enclosure_length": "73895743",
       "itunes_duration": "1:16:57",
       "speakers": [
-        "Scroobius Pip",
-        "Justin Timberlake"
+        "Scroobius Pip"
       ],
       "topics": [
         "dizzee",
@@ -9743,8 +9181,7 @@
       "enclosure_length": "51238371",
       "itunes_duration": "53:21",
       "speakers": [
-        "Scroobius Pip",
-        "Chris Nolan"
+        "Scroobius Pip"
       ],
       "topics": [
         "himesh",
@@ -9813,8 +9250,7 @@
       "enclosure_length": "39009082",
       "itunes_duration": "40:37",
       "speakers": [
-        "Scroobius Pip",
-        "Killing Eve"
+        "Scroobius Pip"
       ],
       "topics": [
         "shannon",
@@ -9837,9 +9273,7 @@
       "enclosure_length": "56168890",
       "itunes_duration": "58:30",
       "speakers": [
-        "Scroobius Pip",
-        "Alex Murphy",
-        "Chris Walley"
+        "Scroobius Pip"
       ],
       "topics": [
         "alex",
@@ -9863,10 +9297,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75427642",
       "itunes_duration": "1:18:33",
-      "speakers": [
-        "Bigg Jus",
-        "Def Jux"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -9886,8 +9317,7 @@
       "enclosure_length": "76732474",
       "itunes_duration": "1:19:55",
       "speakers": [
-        "Scroobius Pip",
-        "Rob Auton"
+        "Scroobius Pip"
       ],
       "topics": [
         "jack",
@@ -9910,9 +9340,7 @@
       "enclosure_length": "48555669",
       "itunes_duration": "50:34",
       "speakers": [
-        "Jasmine Jobson Distraction Pieces",
-        "Top Boy",
-        "Des Hamilton"
+        "Jasmine Jobson Distraction Pieces"
       ],
       "topics": [
         "jasmine",
@@ -9955,11 +9383,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62563375",
       "itunes_duration": "1:05:09",
-      "speakers": [
-        "Stu Whiffen",
-        "Chris Glassen",
-        "Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "moment",
         "life",
@@ -9981,11 +9405,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67711203",
       "itunes_duration": "1:10:31",
-      "speakers": [
-        "Stu Whiffen",
-        "Chris Glassen",
-        "Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "moment",
         "life",
@@ -10007,10 +9427,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63585466",
       "itunes_duration": "1:06:13",
-      "speakers": [
-        "Paapa Essiedu",
-        "Michaela Coel"
-      ],
+      "speakers": [],
       "topics": [
         "paapa",
         "essiedu",
@@ -10033,8 +9450,7 @@
       "itunes_duration": "1:15:04",
       "speakers": [
         "Scroobius Pip",
-        "Ashley Dotty Charles",
-        "Katie Hopkins"
+        "Ashley Dotty"
       ],
       "topics": [
         "ashley",
@@ -10057,9 +9473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57014842",
       "itunes_duration": "59:22",
-      "speakers": [
-        "Adam Elliott-Cooper"
-      ],
+      "speakers": [],
       "topics": [
         "police",
         "distraction",
@@ -10079,9 +9493,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53427514",
       "itunes_duration": "55:38",
-      "speakers": [
-        "Monica Dolan"
-      ],
+      "speakers": [],
       "topics": [
         "simon",
         "bird",
@@ -10102,11 +9514,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92653164",
       "itunes_duration": "1:36:30",
-      "speakers": [
-        "Jayde Adams",
-        "Rich Wilson",
-        "Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "isolation",
         "drunkcast",
@@ -10130,11 +9538,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72670431",
       "itunes_duration": "1:15:40",
-      "speakers": [
-        "Jayde Adams",
-        "Rich Wilson",
-        "Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "isolation",
         "drunkcast",
@@ -10158,11 +9562,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64940212",
       "itunes_duration": "1:07:37",
-      "speakers": [
-        "Jayde Adams",
-        "Rich Wilson",
-        "Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "isolation",
         "drunkcast",
@@ -10187,8 +9587,7 @@
       "enclosure_length": "101823802",
       "itunes_duration": "1:46:03",
       "speakers": [
-        "Scroobius Pip Welcome",
-        "Scroobius Pip"
+        "Scroobius Pip Welcome"
       ],
       "topics": [
         "akala",
@@ -10210,10 +9609,7 @@
       "enclosure_length": "64750470",
       "itunes_duration": "1:07:26",
       "speakers": [
-        "Scroobius Pip Welcome",
-        "Scroobius Pip",
-        "Killer Mike",
-        "Kille Mike"
+        "Scroobius Pip Welcome"
       ],
       "topics": [
         "killer",
@@ -10281,9 +9677,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80263079",
       "itunes_duration": "1:23:35",
-      "speakers": [
-        "James Acaster"
-      ],
+      "speakers": [],
       "topics": [
         "isolation",
         "drunkcast",
@@ -10304,9 +9698,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66810549",
       "itunes_duration": "1:09:34",
-      "speakers": [
-        "James Acaster"
-      ],
+      "speakers": [],
       "topics": [
         "isolation",
         "drunkcast",
@@ -10327,9 +9719,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92483334",
       "itunes_duration": "1:36:19",
-      "speakers": [
-        "James Acaster"
-      ],
+      "speakers": [],
       "topics": [
         "isolation",
         "drunkcast",
@@ -10351,8 +9741,7 @@
       "enclosure_length": "76659526",
       "itunes_duration": "1:19:50",
       "speakers": [
-        "Scroobius Pip",
-        "Soldier Boy"
+        "Scroobius Pip"
       ],
       "topics": [
         "album",
@@ -10432,11 +9821,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88535348",
       "itunes_duration": "1:32:12",
-      "speakers": [
-        "Tim Key",
-        "Edinburgh Fringe",
-        "Steve Coogan Alan Partridge"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -10455,12 +9840,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81946414",
       "itunes_duration": "1:25:20",
-      "speakers": [
-        "Scroobius Pip",
-        "Stu Whiffen",
-        "Chris Glassen",
-        "Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "isolation",
         "drunkcast",
@@ -10481,12 +9861,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87748856",
       "itunes_duration": "1:31:23",
-      "speakers": [
-        "Scroobius Pip",
-        "Stu Whiffen",
-        "Chris Glassen",
-        "Hardcore Listing"
-      ],
+      "speakers": [],
       "topics": [
         "isolation",
         "drunkcast",
@@ -10553,11 +9928,7 @@
       "itunes_duration": "55:44",
       "speakers": [
         "Ashley Walters Distraction Pieces",
-        "Ashley Walters",
-        "Noel Clarke",
-        "Carol Jackson",
-        "Lindsey Coulson",
-        "Top Boy"
+        "Scroobius Pip"
       ],
       "topics": [
         "ashley",
@@ -10580,10 +9951,7 @@
       "enclosure_length": "57813178",
       "itunes_duration": "1:00:12",
       "speakers": [
-        "Scroobius Pip",
-        "Niamh Algar",
-        "Lady Macbeth",
-        "Peaky Blinders"
+        "Scroobius Pip"
       ],
       "topics": [
         "cosmo",
@@ -10605,13 +9973,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53025850",
       "itunes_duration": "55:13",
-      "speakers": [
-        "Stephen Graham",
-        "Shane Meadows",
-        "Guy Ritchie",
-        "Barry Keoghan",
-        "Cosmo Jarvis"
-      ],
+      "speakers": [],
       "topics": [
         "niamh",
         "algar",
@@ -10632,10 +9994,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62884226",
       "itunes_duration": "1:05:29",
-      "speakers": [
-        "Mae Martin",
-        "Feel Good"
-      ],
+      "speakers": [],
       "topics": [
         "martin",
         "distraction",
@@ -10680,11 +10039,7 @@
       "itunes_duration": "1:04:51",
       "speakers": [
         "Graham Fellows",
-        "John Shuttleworth Distraction Pieces",
-        "John Shuttleworth",
-        "Jilted John",
-        "Brian Appleton",
-        "David Tordoff"
+        "John Shuttleworth Distraction Pieces"
       ],
       "topics": [
         "graham",
@@ -10708,10 +10063,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76031272",
       "itunes_duration": "1:19:11",
-      "speakers": [
-        "Michael Cashman",
-        "Ian McKellen"
-      ],
+      "speakers": [],
       "topics": [
         "michael",
         "cashman",
@@ -10732,9 +10084,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82096277",
       "itunes_duration": "1:25:30",
-      "speakers": [
-        "Scroobius Pip"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -10755,10 +10105,7 @@
       "itunes_duration": "53:21",
       "speakers": [
         "Robert Eggers Distraction Pieces",
-        "Robert Eggers",
-        "Willem Defoe",
-        "Robert Pattinson",
-        "Jah-Rinn Blash-key"
+        "Scroobius Pip"
       ],
       "topics": [
         "robert",
@@ -10782,8 +10129,7 @@
       "itunes_duration": "1:20:55",
       "speakers": [
         "Rob Auton Distraction Pieces",
-        "Rob Auton",
-        "Craig Links"
+        "Scroobius Pip"
       ],
       "topics": [
         "auton",
@@ -10805,10 +10151,7 @@
       "enclosure_length": "42400508",
       "itunes_duration": "44:09",
       "speakers": [
-        "Scroobius Pip",
-        "Robert Pattinson",
-        "Adam Sandler-starring",
-        "Adam Sandler"
+        "Scroobius Pip"
       ],
       "topics": [
         "safdie",
@@ -10830,10 +10173,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72645178",
       "itunes_duration": "1:15:39",
-      "speakers": [
-        "Ricky Gervais",
-        "Stephen Merchant"
-      ],
+      "speakers": [],
       "topics": [
         "karl",
         "pilkington",
@@ -10876,7 +10216,7 @@
       "enclosure_length": "72515853",
       "itunes_duration": "1:15:31",
       "speakers": [
-        "Busta Rhymes"
+        "Scroobius Pip"
       ],
       "topics": [
         "year",
@@ -10899,8 +10239,7 @@
       "enclosure_length": "55455997",
       "itunes_duration": "57:45",
       "speakers": [
-        "Scroobius Pip",
-        "jibber jabber"
+        "Scroobius Pip"
       ],
       "topics": [
         "year",
@@ -10923,9 +10262,7 @@
       "enclosure_length": "58817074",
       "itunes_duration": "1:01:15",
       "speakers": [
-        "Scroobius Pip",
-        "John Travolta",
-        "Tom Hardy"
+        "Scroobius Pip"
       ],
       "topics": [
         "year",
@@ -10948,14 +10285,7 @@
       "enclosure_length": "63534747",
       "itunes_duration": "1:06:10",
       "speakers": [
-        "Scroobius Pip",
-        "Stu Whiffen",
-        "Chris Glassen",
-        "Top Boy",
-        "Katie Hopkins",
-        "Jordan Peterson",
-        "Bryan Callen",
-        "Meth Syndicate"
+        "Scroobius Pip"
       ],
       "topics": [
         "year",
@@ -11000,9 +10330,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80015290",
       "itunes_duration": "1:23:20",
-      "speakers": [
-        "jibber jabber"
-      ],
+      "speakers": [],
       "topics": [
         "yoni",
         "wolf",
@@ -11025,8 +10353,7 @@
       "itunes_duration": "1:02:04",
       "speakers": [
         "Kevin Smith Distraction Pieces",
-        "Scroobius Pip",
-        "Kevin Smith"
+        "Scroobius Pip"
       ],
       "topics": [
         "kevin",
@@ -11048,13 +10375,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93059535",
       "itunes_duration": "1:36:55",
-      "speakers": [
-        "Neil Gaiman",
-        "Good Omens",
-        "Peter Sellers",
-        "David Tenant",
-        "Michael Sheen"
-      ],
+      "speakers": [],
       "topics": [
         "neil",
         "gaiman",
@@ -11075,10 +10396,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46631098",
       "itunes_duration": "48:33",
-      "speakers": [
-        "Gerard Butler",
-        "Paul Feig"
-      ],
+      "speakers": [],
       "topics": [
         "paul",
         "feig",
@@ -11100,10 +10418,7 @@
       "enclosure_length": "39160762",
       "itunes_duration": "40:46",
       "speakers": [
-        "James Mangold Distraction Pieces",
-        "Scroobius Pip",
-        "James Mangold",
-        "Robert De Niro"
+        "James Mangold Distraction Pieces"
       ],
       "topics": [
         "james",
@@ -11125,11 +10440,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74136096",
       "itunes_duration": "1:17:12",
-      "speakers": [
-        "Ultra Brite",
-        "James Lavelle",
-        "Melody Maker"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "distraction",
@@ -11151,10 +10462,7 @@
       "itunes_duration": "1:21:03",
       "speakers": [
         "Eugene Simon",
-        "Scroobius Pip",
-        "Agatha Christie",
-        "Ben Lyk",
-        "Kill Ben Lyk"
+        "Scroobius Pip"
       ],
       "topics": [
         "eugene",
@@ -11197,11 +10505,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68379706",
       "itunes_duration": "1:11:13",
-      "speakers": [
-        "Led Zeppelin",
-        "Sarah Cawood",
-        "Konnie Huq"
-      ],
+      "speakers": [],
       "topics": [
         "fearne",
         "cotton",
@@ -11223,10 +10527,7 @@
       "enclosure_length": "63829306",
       "itunes_duration": "1:06:28",
       "speakers": [
-        "Scroobius Pip",
-        "Harry Potter",
-        "Charlie Brooker",
-        "Jo Hartley"
+        "Scroobius Pip"
       ],
       "topics": [
         "daisy",
@@ -11248,10 +10549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94882513",
       "itunes_duration": "1:38:49",
-      "speakers": [
-        "George Owen",
-        "Joseph Gilgun Links"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -11272,8 +10570,7 @@
       "itunes_duration": "1:12:40",
       "speakers": [
         "Bill Bailey Distraction Pieces",
-        "Scroobius Pip",
-        "Idris Elba"
+        "Scroobius Pip"
       ],
       "topics": [
         "bill",
@@ -11297,11 +10594,7 @@
       "itunes_duration": "1:02:27",
       "speakers": [
         "Ricky Wilson",
-        "Mark Ronson",
-        "Pip Outro",
-        "Sam Get Cape",
-        "Rich Wilson",
-        "Frank Turner"
+        "Scroobius Pip"
       ],
       "topics": [
         "ricky",
@@ -11326,10 +10619,7 @@
       "enclosure_length": "48423994",
       "itunes_duration": "50:25",
       "speakers": [
-        "Jack Sexsmith",
-        "Curtis Mayfield",
-        "Jimmy Havoc",
-        "David Starr Riptide"
+        "Jack Sexsmith"
       ],
       "topics": [
         "jack",
@@ -11352,10 +10642,7 @@
       "enclosure_length": "66302419",
       "itunes_duration": "1:09:03",
       "speakers": [
-        "Jack Sexsmith",
-        "Rip Tide",
-        "Edward Dennis",
-        "David Starr Riptide"
+        "Jack Sexsmith"
       ],
       "topics": [
         "jack",
@@ -11378,14 +10665,7 @@
       "enclosure_length": "78293100",
       "itunes_duration": "1:21:32",
       "speakers": [
-        "Scroobius Pip",
-        "Louis Theroux",
-        "Adam Buxton",
-        "Joe Cornish",
-        "Gorky’s Zygotic Mynci",
-        "Joe Rogan",
-        "Jimmy Saville",
-        "Pip Outro"
+        "Scroobius Pip"
       ],
       "topics": [
         "louis",
@@ -11408,12 +10688,7 @@
       "enclosure_length": "79229248",
       "itunes_duration": "1:22:31",
       "speakers": [
-        "Scroobius Pip",
-        "Mike Skinner",
-        "Top Boy",
-        "Albert Hall",
-        "Pip Outro",
-        "Louis Theroux"
+        "Scroobius Pip"
       ],
       "topics": [
         "kano",
@@ -11435,8 +10710,7 @@
       "enclosure_length": "68570554",
       "itunes_duration": "1:11:25",
       "speakers": [
-        "Frank Turner Distraction Pieces",
-        "Frank Turner"
+        "Frank Turner Distraction Pieces"
       ],
       "topics": [
         "frank",
@@ -11458,9 +10732,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85419599",
       "itunes_duration": "1:28:57",
-      "speakers": [
-        "Frank Turner"
-      ],
+      "speakers": [],
       "topics": [
         "ilyas",
         "distraction",
@@ -11481,13 +10753,7 @@
       "enclosure_length": "75794554",
       "itunes_duration": "1:18:56",
       "speakers": [
-        "Little Simz",
-        "David Byrne",
-        "Celebrity Gogglebox",
-        "Mark Ronson",
-        "Pip Outro",
-        "Liam Howlett",
-        "Green Links"
+        "Scroobius Pip"
       ],
       "topics": [
         "serge",
@@ -11509,11 +10775,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56466063",
       "itunes_duration": "58:48",
-      "speakers": [
-        "Joe Gilgun",
-        "Pip Outro",
-        "Barry Keoghan Links"
-      ],
+      "speakers": [],
       "topics": [
         "joseph",
         "gilgun",
@@ -11535,10 +10797,7 @@
       "enclosure_length": "36303802",
       "itunes_duration": "37:48",
       "speakers": [
-        "Scroobius Pip",
-        "Stu Whiffen",
-        "Adam Richardson",
-        "Hardcore Listing"
+        "Scroobius Pip"
       ],
       "topics": [
         "whiffen",
@@ -11562,9 +10821,7 @@
       "enclosure_length": "88461748",
       "itunes_duration": "1:32:07",
       "speakers": [
-        "Scroobius Pip",
-        "Konnie Huq",
-        "Jayde Adams Links"
+        "Scroobius Pip"
       ],
       "topics": [
         "sara",
@@ -11587,11 +10844,7 @@
       "enclosure_length": "87162129",
       "itunes_duration": "1:30:46",
       "speakers": [
-        "Matt Richards",
-        "Jim Smallman",
-        "Jack Sexsmith",
-        "Jaw Hardest",
-        "Jack Gallagher"
+        "Matt Richards"
       ],
       "topics": [
         "matt",
@@ -11614,10 +10867,7 @@
       "enclosure_length": "87783464",
       "itunes_duration": "1:31:25",
       "speakers": [
-        "Scroobius Pip",
-        "Cruse Bereavement",
-        "Carla Valentine",
-        "Jean Grae Links"
+        "Scroobius Pip"
       ],
       "topics": [
         "cariad",
@@ -11641,8 +10891,7 @@
       "itunes_duration": "1:31:34",
       "speakers": [
         "Greg Jenner Distraction Pieces",
-        "Scroobius Pip",
-        "Konnie Huq WeAreLizards"
+        "Scroobius Pip"
       ],
       "topics": [
         "greg",
@@ -11665,11 +10914,7 @@
       "enclosure_length": "91473587",
       "itunes_duration": "1:35:16",
       "speakers": [
-        "Scroobius Pip",
-        "Blue Peter",
-        "James Acaster",
-        "Adam Buxton",
-        "Rutger Bregman"
+        "Scroobius Pip"
       ],
       "topics": [
         "konnie",
@@ -11691,8 +10936,7 @@
       "enclosure_length": "83037517",
       "itunes_duration": "1:26:28",
       "speakers": [
-        "Scroobius Pip",
-        "Saul Williams"
+        "Scroobius Pip"
       ],
       "topics": [
         "inua",
@@ -11715,11 +10959,7 @@
       "enclosure_length": "45280501",
       "itunes_duration": "47:09",
       "speakers": [
-        "Danny Boyle Distraction Pieces",
-        "Slumdog Millionaire",
-        "Himesh Patel",
-        "Danny Boyle",
-        "Charlie Brooker"
+        "Danny Boyle Distraction Pieces"
       ],
       "topics": [
         "danny",
@@ -11743,9 +10983,7 @@
       "itunes_duration": "56:58",
       "speakers": [
         "Charlie Brooker Distraction Pieces",
-        "Annabel Jones",
-        "Nathan Barley",
-        "Mark Millar"
+        "Scroobius Pip"
       ],
       "topics": [
         "charlie",
@@ -11814,9 +11052,7 @@
       "enclosure_length": "86309638",
       "itunes_duration": "1:29:53",
       "speakers": [
-        "Scroobius Pip",
-        "Mark’s Mark Can’T",
-        "Tim Clare"
+        "Scroobius Pip"
       ],
       "topics": [
         "mark",
@@ -11841,9 +11077,7 @@
       "enclosure_length": "45494842",
       "itunes_duration": "47:22",
       "speakers": [
-        "Scroobius Pip",
-        "Stu Whiffen",
-        "Dartford Greggs"
+        "Scroobius Pip"
       ],
       "topics": [
         "idiot",
@@ -11865,10 +11099,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68294038",
       "itunes_duration": "1:11:07",
-      "speakers": [
-        "Stewart Lee",
-        "Josie Long"
-      ],
+      "speakers": [],
       "topics": [
         "nick",
         "helm",
@@ -11891,9 +11122,7 @@
       "itunes_duration": "1:21:39",
       "speakers": [
         "Jo Hartley Distraction Pieces",
-        "Shane Meadows",
-        "Ricky Gervais",
-        "Tom Turgoose"
+        "Scroobius Pip"
       ],
       "topics": [
         "hartley",
@@ -11915,12 +11144,7 @@
       "enclosure_length": "74773581",
       "itunes_duration": "1:17:52",
       "speakers": [
-        "Dexter Fletcher",
-        "Elton John",
-        "Guy Ritchie",
-        "Press Gang",
-        "Stephen Graham",
-        "Barry Keoghan Links"
+        "Scroobius Pip"
       ],
       "topics": [
         "dexter",
@@ -11943,10 +11167,7 @@
       "enclosure_length": "76738594",
       "itunes_duration": "1:19:54",
       "speakers": [
-        "Norman Cook",
-        "Norman’s Brighton",
-        "Kool Keith",
-        "Zoe Ball"
+        "Norman Cook"
       ],
       "topics": [
         "norman",
@@ -11971,8 +11192,7 @@
       "enclosure_length": "65791243",
       "itunes_duration": "1:08:30",
       "speakers": [
-        "Myalgic Encephalomyelitis",
-        "Allow Jason"
+        "Scroobius Pip"
       ],
       "topics": [
         "awareness",
@@ -11997,9 +11217,7 @@
       "enclosure_length": "99448329",
       "itunes_duration": "1:43:34",
       "speakers": [
-        "Tim Clare Distraction Pieces",
-        "Tim Clare",
-        "Jamie East"
+        "Tim Clare Distraction Pieces"
       ],
       "topics": [
         "clare",
@@ -12021,11 +11239,7 @@
       "enclosure_length": "73430834",
       "itunes_duration": "1:16:27",
       "speakers": [
-        "Scroobius Pip",
-        "James Acaster",
-        "Steve Coogan",
-        "Edinburgh Fringe",
-        "Aisling Bea"
+        "Scroobius Pip"
       ],
       "topics": [
         "gamble",
@@ -12047,9 +11261,7 @@
       "enclosure_length": "80830127",
       "itunes_duration": "1:24:10",
       "speakers": [
-        "Josie Long",
-        "James Acaster",
-        "Aisling Bea"
+        "Scroobius Pip"
       ],
       "topics": [
         "kumar",
@@ -12072,10 +11284,7 @@
       "itunes_duration": "1:17:02",
       "speakers": [
         "Zawe Ashton Distraction Pieces",
-        "Scroobius Pip",
-        "Harold Pinter’s Betrayal",
-        "Jungian mantras",
-        "Michaela Coel Dpp"
+        "Scroobius Pip"
       ],
       "topics": [
         "zawe",
@@ -12097,12 +11306,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74412828",
       "itunes_duration": "1:17:29",
-      "speakers": [
-        "Ron Perlman",
-        "Ron down",
-        "Guillermo Del Toro",
-        "Stephen Merchant"
-      ],
+      "speakers": [],
       "topics": [
         "perlman",
         "distraction",
@@ -12123,9 +11327,7 @@
       "enclosure_length": "47408049",
       "itunes_duration": "49:22",
       "speakers": [
-        "Scroobius Pip Welcome",
-        "Scroobius Pip",
-        "Pip poem"
+        "Scroobius Pip Welcome"
       ],
       "topics": [
         "secret",
@@ -12148,11 +11350,7 @@
       "enclosure_length": "69432587",
       "itunes_duration": "1:12:18",
       "speakers": [
-        "Scroobius Pip",
-        "Jamie East",
-        "Holy Moly",
-        "Colin Murray",
-        "Nick Halkes"
+        "Scroobius Pip"
       ],
       "topics": [
         "jamie",
@@ -12175,8 +11373,7 @@
       "enclosure_length": "105656888",
       "itunes_duration": "1:50:02",
       "speakers": [
-        "Jayde Adams Distraction Pieces",
-        "Russell Howard Links"
+        "Jayde Adams Distraction Pieces"
       ],
       "topics": [
         "jayde",
@@ -12198,9 +11395,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43272829",
       "itunes_duration": "45:03",
-      "speakers": [
-        "Jordan Peele"
-      ],
+      "speakers": [],
       "topics": [
         "winston",
         "duke",
@@ -12221,11 +11416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105656019",
       "itunes_duration": "1:50:01",
-      "speakers": [
-        "Luckily Johann",
-        "Natalie Clapshaw",
-        "Rutger Bregman"
-      ],
+      "speakers": [],
       "topics": [
         "johann",
         "hari",
@@ -12247,10 +11438,7 @@
       "enclosure_length": "94283361",
       "itunes_duration": "1:38:11",
       "speakers": [
-        "Leon McLeod Distraction Pieces",
-        "Leon McLeod",
-        "Leon’s London Marathon",
-        "Natalie Clapshaw"
+        "Leon McLeod Distraction Pieces"
       ],
       "topics": [
         "leon",
@@ -12273,11 +11461,7 @@
       "enclosure_length": "64168691",
       "itunes_duration": "1:06:49",
       "speakers": [
-        "Steven Knight Distraction Pieces",
-        "Steven Knight",
-        "Florence Pugh",
-        "Stephen Graham",
-        "David Lowery"
+        "Steven Knight Distraction Pieces"
       ],
       "topics": [
         "steven",
@@ -12300,9 +11484,7 @@
       "enclosure_length": "93642714",
       "itunes_duration": "1:37:31",
       "speakers": [
-        "Stephen Merchant Distraction Pieces",
-        "Scroobius Pip",
-        "Lena Headey"
+        "Stephen Merchant Distraction Pieces"
       ],
       "topics": [
         "stephen",
@@ -12324,9 +11506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78862667",
       "itunes_duration": "1:22:07",
-      "speakers": [
-        "Scroobius Pip"
-      ],
+      "speakers": [],
       "topics": [
         "adefope",
         "distraction",
@@ -12348,9 +11528,7 @@
       "itunes_duration": "57:06",
       "speakers": [
         "Joe Cornish Distraction Pieces",
-        "Scroobius Pip",
-        "Adam Buxton",
-        "Louis Theroux"
+        "Scroobius Pip"
       ],
       "topics": [
         "cornish",
@@ -12372,7 +11550,8 @@
       "enclosure_length": "53619041",
       "itunes_duration": "55:49",
       "speakers": [
-        "Distraction Pieces"
+        "Distraction Pieces",
+        "Scroobius Pip"
       ],
       "topics": [
         "mary",
@@ -12395,8 +11574,7 @@
       "enclosure_length": "59790222",
       "itunes_duration": "1:02:15",
       "speakers": [
-        "Joel Edgerton Distraction Pieces",
-        "Animal Kingdom"
+        "Joel Edgerton Distraction Pieces"
       ],
       "topics": [
         "joel",
@@ -12420,8 +11598,7 @@
       "itunes_duration": "47:54",
       "speakers": [
         "Distraction Pieces",
-        "Scroobius Pip",
-        "Steve Martin"
+        "Scroobius Pip"
       ],
       "topics": [
         "richard",
@@ -12444,9 +11621,7 @@
       "enclosure_length": "46004841",
       "itunes_duration": "47:54",
       "speakers": [
-        "Adam McKay Distraction Pieces",
-        "Dick Cheney",
-        "Christian Bale"
+        "Adam McKay Distraction Pieces"
       ],
       "topics": [
         "adam",
@@ -12470,9 +11645,7 @@
       "itunes_duration": "1:08:44",
       "speakers": [
         "Mark Millar Distraction Pieces",
-        "Scroobius Pip",
-        "Mark Millar",
-        "Alan Moore"
+        "Scroobius Pip"
       ],
       "topics": [
         "mark",
@@ -12494,9 +11667,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66701660",
       "itunes_duration": "1:09:27",
-      "speakers": [
-        "Stephen Graham"
-      ],
+      "speakers": [],
       "topics": [
         "eddie",
         "marsan",
@@ -12517,10 +11688,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88806986",
       "itunes_duration": "1:32:28",
-      "speakers": [
-        "Richard Nixon",
-        "Prince Charles Cinema"
-      ],
+      "speakers": [],
       "topics": [
         "film",
         "year",
@@ -12542,7 +11710,7 @@
       "enclosure_length": "77745818",
       "itunes_duration": "1:20:58",
       "speakers": [
-        "Mrs Glasson"
+        "Scroobius Pip"
       ],
       "topics": [
         "drunkcast",
@@ -12605,9 +11773,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71542156",
       "itunes_duration": "1:14:29",
-      "speakers": [
-        "Nicholas Lyndhurst"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -12627,12 +11793,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69511652",
       "itunes_duration": "1:12:23",
-      "speakers": [
-        "Chris Glasson",
-        "Hardcore Listing",
-        "Stu Whiffen",
-        "Hans Gruber"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -12654,9 +11815,7 @@
       "itunes_duration": "1:19:45",
       "speakers": [
         "Russell Kane Distraction Pieces",
-        "Scroobius Pip",
-        "Russell Kane",
-        "John Cooper Clarke"
+        "Scroobius Pip"
       ],
       "topics": [
         "russell",
@@ -12678,10 +11837,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57209201",
       "itunes_duration": "59:34",
-      "speakers": [
-        "Scroobius Pip",
-        "Spike Lee"
-      ],
+      "speakers": [],
       "topics": [
         "boots",
         "riley",
@@ -12704,12 +11860,7 @@
       "itunes_duration": "58:14",
       "speakers": [
         "David Lowery Distraction Pieces",
-        "Scroobius Pip",
-        "David’s Old Man",
-        "Tom Waits",
-        "Robert Redford",
-        "Pete’s Dragon",
-        "MF Doom"
+        "Scroobius Pip"
       ],
       "topics": [
         "david",
@@ -12756,10 +11907,7 @@
       "enclosure_length": "66711367",
       "itunes_duration": "1:09:27",
       "speakers": [
-        "Distraction Pieces",
-        "John Cooper Clarke",
-        "Bernard Manning",
-        "Michael Madson"
+        "Distraction Pieces"
       ],
       "topics": [
         "john",
@@ -12784,10 +11932,7 @@
       "itunes_duration": "1:44:40",
       "speakers": [
         "Distraction Pieces",
-        "Scroobius Pip",
-        "Wu Tang",
-        "Dan Hardy pt",
-        "Dan Hardy"
+        "Scroobius Pip"
       ],
       "topics": [
         "michael",
@@ -12811,8 +11956,7 @@
       "enclosure_length": "55383434",
       "itunes_duration": "57:40",
       "speakers": [
-        "Michaela Coel",
-        "John Goodman"
+        "Michaela Coel"
       ],
       "topics": [
         "michaela",
@@ -12836,8 +11980,7 @@
       "enclosure_length": "51202970",
       "itunes_duration": "53:19",
       "speakers": [
-        "Liam Howlett",
-        "tons tons"
+        "Liam Howlett"
       ],
       "topics": [
         "liam",
@@ -12860,8 +12003,7 @@
       "enclosure_length": "56744341",
       "itunes_duration": "59:05",
       "speakers": [
-        "Liam Howlett",
-        "Nick Halkes"
+        "Liam Howlett"
       ],
       "topics": [
         "liam",
@@ -12885,10 +12027,7 @@
       "itunes_duration": "1:46:03",
       "speakers": [
         "Epic Beard Men",
-        "Scroobius Pip",
-        "Ex Machina",
-        "Slick Rick",
-        "Edinburgh Fringe"
+        "Scroobius Pip"
       ],
       "topics": [
         "epic",
@@ -12915,8 +12054,7 @@
       "itunes_duration": "1:10:44",
       "speakers": [
         "Gizzi Erskine Distraction Pieces",
-        "Scroobius Pip",
-        "Gizzi Erskine"
+        "Scroobius Pip"
       ],
       "topics": [
         "gizzi",
@@ -12940,10 +12078,7 @@
       "itunes_duration": "1:11:32",
       "speakers": [
         "Kate Devlin Distraction Pieces",
-        "Scroobius Pip",
-        "Kate Devlin master",
-        "Dr Kate",
-        "Carla Valentine"
+        "Scroobius Pip"
       ],
       "topics": [
         "kate",
@@ -12988,10 +12123,7 @@
       "itunes_duration": "1:48:06",
       "speakers": [
         "Josh Weller Distraction Pieces",
-        "Scroobius Pip",
-        "Hardcore Listings",
-        "Jordan Gray",
-        "Stuart Whiffen"
+        "Scroobius Pip"
       ],
       "topics": [
         "josh",
@@ -13013,11 +12145,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97397939",
       "itunes_duration": "1:41:26",
-      "speakers": [
-        "Indulge YO",
-        "Martin Freeman",
-        "Queue Jump"
-      ],
+      "speakers": [],
       "topics": [
         "dominic",
         "monoghan",
@@ -13039,9 +12167,7 @@
       "enclosure_length": "88477789",
       "itunes_duration": "1:32:08",
       "speakers": [
-        "Eddie Dennis Distraction Pieces",
-        "Jack Gallagher",
-        "Queue Jump"
+        "Eddie Dennis Distraction Pieces"
       ],
       "topics": [
         "eddie",
@@ -13064,9 +12190,7 @@
       "enclosure_length": "85559135",
       "itunes_duration": "1:29:05",
       "speakers": [
-        "Angel Giuffria Distraction Pieces",
-        "Angel Giuffria",
-        "Queue Jump"
+        "Angel Giuffria Distraction Pieces"
       ],
       "topics": [
         "angel",
@@ -13090,10 +12214,7 @@
       "itunes_duration": "1:31:56",
       "speakers": [
         "Drew Pearce Distraction Pieces",
-        "Scroobius Pip",
-        "Tom Cruise",
-        "Robert Downey Jr",
-        "Queue Jump"
+        "Scroobius Pip"
       ],
       "topics": [
         "drew",
@@ -13116,8 +12237,7 @@
       "enclosure_length": "68366706",
       "itunes_duration": "1:11:11",
       "speakers": [
-        "Scroobius Pip",
-        "Rick Rubin"
+        "Scroobius Pip"
       ],
       "topics": [
         "kate",
@@ -13141,10 +12261,7 @@
       "itunes_duration": "1:02:06",
       "speakers": [
         "Barry Keoghan Distraction Pieces",
-        "Scroobius Pip",
-        "Spike Lee",
-        "Bart Layton",
-        "Barry Keoghan"
+        "Scroobius Pip"
       ],
       "topics": [
         "bart",
@@ -13168,11 +12285,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45921502",
       "itunes_duration": "47:48",
-      "speakers": [
-        "Jordan Peele",
-        "Spike Lee",
-        "Lee Joint"
-      ],
+      "speakers": [],
       "topics": [
         "spike",
         "distraction",
@@ -13193,8 +12306,7 @@
       "enclosure_length": "94147876",
       "itunes_duration": "1:38:02",
       "speakers": [
-        "Scroobius Pip",
-        "Mike Skinner"
+        "Scroobius Pip"
       ],
       "topics": [
         "example",
@@ -13215,9 +12327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87979460",
       "itunes_duration": "1:31:37",
-      "speakers": [
-        "Lily Allen"
-      ],
+      "speakers": [],
       "topics": [
         "professor",
         "green",
@@ -13239,11 +12349,7 @@
       "enclosure_length": "114862931",
       "itunes_duration": "1:59:38",
       "speakers": [
-        "Russell Lissack",
-        "Sam Duckworth",
-        "Stuart Tourle",
-        "Jim Smallman",
-        "Jim Smallman'S"
+        "Scroobius Pip"
       ],
       "topics": [
         "love",
@@ -13268,9 +12374,7 @@
       "itunes_duration": "1:09:52",
       "speakers": [
         "Tony Law Distraction Pieces",
-        "Scroobius Pip",
-        "Tony Law",
-        "Pip down"
+        "Scroobius Pip"
       ],
       "topics": [
         "tony",
@@ -13292,8 +12396,7 @@
       "enclosure_length": "122766030",
       "itunes_duration": "2:07:50",
       "speakers": [
-        "Brett Goldstein",
-        "YA Been"
+        "Scroobius Pip"
       ],
       "topics": [
         "birthday",
@@ -13337,9 +12440,7 @@
       "enclosure_length": "80160937",
       "itunes_duration": "1:23:28",
       "speakers": [
-        "Scroobius Pip",
-        "Dan Skinner",
-        "Angelos Epithemiou"
+        "Scroobius Pip"
       ],
       "topics": [
         "skinner",
@@ -13384,8 +12485,7 @@
       "itunes_duration": "1:14:26",
       "speakers": [
         "Simon Pegg Distraction Pieces",
-        "Simon Pegg",
-        "Tom Cruise"
+        "Scroobius Pip"
       ],
       "topics": [
         "simon",
@@ -13409,9 +12509,7 @@
       "itunes_duration": "1:40:51",
       "speakers": [
         "Stuart Whiffen Distraction Pieces",
-        "Scroobius Pip",
-        "Stuart Whiffen",
-        "Stuart Whiffen Pip"
+        "Scroobius Pip"
       ],
       "topics": [
         "stuart",
@@ -13433,9 +12531,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65237898",
       "itunes_duration": "1:07:56",
-      "speakers": [
-        "Joe Cole"
-      ],
+      "speakers": [],
       "topics": [
         "cole",
         "distraction",
@@ -13457,9 +12553,7 @@
       "itunes_duration": "1:27:47",
       "speakers": [
         "Stephen Graham",
-        "Mark Bolton",
-        "Dan Cadan",
-        "Kate Nash"
+        "Scroobius Pip"
       ],
       "topics": [
         "stephen",
@@ -13485,8 +12579,7 @@
       "enclosure_length": "78722254",
       "itunes_duration": "1:21:58",
       "speakers": [
-        "Kate Nash Distraction Pieces",
-        "Lily Allen"
+        "Kate Nash Distraction Pieces"
       ],
       "topics": [
         "kate",
@@ -13509,9 +12602,7 @@
       "enclosure_length": "77281353",
       "itunes_duration": "1:20:28",
       "speakers": [
-        "Jamie Demetriou Distraction Pieces",
-        "Jamie Demetriou",
-        "David Earl"
+        "Jamie Demetriou Distraction Pieces"
       ],
       "topics": [
         "jamie",
@@ -13534,8 +12625,7 @@
       "enclosure_length": "89894207",
       "itunes_duration": "1:33:37",
       "speakers": [
-        "Natalie Clapshaw Distraction Pieces",
-        "Natalie Clapshaw"
+        "Natalie Clapshaw Distraction Pieces"
       ],
       "topics": [
         "headway",
@@ -13558,9 +12648,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66826590",
       "itunes_duration": "1:09:35",
-      "speakers": [
-        "Praia Dona"
-      ],
+      "speakers": [],
       "topics": [
         "portugal",
         "edition",
@@ -13604,9 +12692,7 @@
       "enclosure_length": "45211755",
       "itunes_duration": "47:04",
       "speakers": [
-        "Martin Freeman Distraction Pieces",
-        "Martin Freeman",
-        "Hitchhikers Guide"
+        "Martin Freeman Distraction Pieces"
       ],
       "topics": [
         "martin",
@@ -13629,11 +12715,7 @@
       "enclosure_length": "80862185",
       "itunes_duration": "1:24:13",
       "speakers": [
-        "Le Sac",
-        "Dan Le Sac",
-        "Dan Le Sac vs",
-        "Scroobius Pip Angles",
-        "Dan’s Twitch"
+        "Le Sac"
       ],
       "topics": [
         "angles",
@@ -13656,11 +12738,7 @@
       "enclosure_length": "91367641",
       "itunes_duration": "1:35:08",
       "speakers": [
-        "Le Sac",
-        "Dan Le Sac",
-        "Dan Le Sac vs",
-        "Scroobius Pip Angles",
-        "Dan’s Twitch"
+        "Le Sac"
       ],
       "topics": [
         "angles",
@@ -13683,8 +12761,7 @@
       "enclosure_length": "88520689",
       "itunes_duration": "1:32:11",
       "speakers": [
-        "Marc Goddard Distraction Pieces",
-        "Marc Goddard"
+        "Marc Goddard Distraction Pieces"
       ],
       "topics": [
         "marc",
@@ -13706,12 +12783,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50736719",
       "itunes_duration": "52:50",
-      "speakers": [
-        "Scroobius Pip",
-        "Coralie Fargeat",
-        "Matilda Lutz",
-        "David Cronenberg"
-      ],
+      "speakers": [],
       "topics": [
         "coralie",
         "fargeat",
@@ -13758,9 +12830,7 @@
       "enclosure_length": "92042436",
       "itunes_duration": "1:35:50",
       "speakers": [
-        "Nick Halkes Distraction Pieces",
-        "Nick Halkes",
-        "Aphex Twin"
+        "Nick Halkes Distraction Pieces"
       ],
       "topics": [
         "nick",
@@ -13804,9 +12874,7 @@
       "enclosure_length": "71921270",
       "itunes_duration": "1:14:53",
       "speakers": [
-        "Cedric Bixler-Zavala Distraction Pieces",
-        "Scroobius Pip",
-        "Jello Biafra"
+        "Cedric Bixler-Zavala Distraction Pieces"
       ],
       "topics": [
         "cedric",
@@ -13830,8 +12898,7 @@
       "enclosure_length": "77804321",
       "itunes_duration": "1:21:01",
       "speakers": [
-        "Scroobius Pip",
-        "Samuel Beckett"
+        "Scroobius Pip"
       ],
       "topics": [
         "jess",
@@ -13857,11 +12924,7 @@
       "itunes_duration": "1:13:11",
       "speakers": [
         "Charlotte Hatherley Distraction Pieces",
-        "Scroobius Pip",
-        "Charlotte Hatherley",
-        "Bryan Ferry",
-        "Pip Truly",
-        "Altered Carbon"
+        "Scroobius Pip"
       ],
       "topics": [
         "charlotte",
@@ -13883,9 +12946,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68715360",
       "itunes_duration": "1:11:33",
-      "speakers": [
-        "Alexis Okeowo"
-      ],
+      "speakers": [],
       "topics": [
         "alexis",
         "okeowo",
@@ -13907,12 +12968,7 @@
       "enclosure_length": "64564047",
       "itunes_duration": "1:07:13",
       "speakers": [
-        "Jimmy Iovine Distraction Pieces",
-        "Allen Hughes",
-        "Jimmy Iovine",
-        "John Lennon",
-        "Bruce Springsteen",
-        "Dr Dre"
+        "Jimmy Iovine Distraction Pieces"
       ],
       "topics": [
         "allen",
@@ -13958,8 +13014,7 @@
       "enclosure_length": "65092246",
       "itunes_duration": "1:07:46",
       "speakers": [
-        "Stu Whiffen",
-        "Chris Glassen"
+        "Scroobius Pip"
       ],
       "topics": [
         "song",
@@ -13981,9 +13036,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62600930",
       "itunes_duration": "1:05:11",
-      "speakers": [
-        "Rodney King"
-      ],
+      "speakers": [],
       "topics": [
         "patrisse",
         "cullors",
@@ -14005,10 +13058,7 @@
       "enclosure_length": "82061899",
       "itunes_duration": "1:25:27",
       "speakers": [
-        "Steve McNeil Distraction Pieces",
-        "Dave’s Go",
-        "Steve McNeil",
-        "Edinburgh Fringe"
+        "Steve McNeil Distraction Pieces"
       ],
       "topics": [
         "steve",
@@ -14030,12 +13080,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67889422",
       "itunes_duration": "1:10:42",
-      "speakers": [
-        "Tom Hardy",
-        "Stephen Graham",
-        "Brett Goldstein",
-        "Michael Socha"
-      ],
+      "speakers": [],
       "topics": [
         "panther",
         "distraction",
@@ -14055,11 +13100,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95203784",
       "itunes_duration": "1:39:09",
-      "speakers": [
-        "Dan Le Sac vs",
-        "Scroobius Pip if",
-        "Pip’s Mum"
-      ],
+      "speakers": [],
       "topics": [
         "mother",
         "special",
@@ -14081,10 +13122,7 @@
       "enclosure_length": "75707530",
       "itunes_duration": "1:18:50",
       "speakers": [
-        "Chris Ramsey Distraction Pieces",
-        "Scroobius Pip",
-        "Chris Ramsey",
-        "Russell Howard’s Good News"
+        "Chris Ramsey Distraction Pieces"
       ],
       "topics": [
         "chris",
@@ -14107,9 +13145,7 @@
       "enclosure_length": "87757777",
       "itunes_duration": "1:31:23",
       "speakers": [
-        "Rutger Bregman Distraction Pieces",
-        "Scroobius Pip",
-        "Ted Talk"
+        "Rutger Bregman Distraction Pieces"
       ],
       "topics": [
         "rutger",
@@ -14132,10 +13168,7 @@
       "enclosure_length": "68122315",
       "itunes_duration": "1:10:56",
       "speakers": [
-        "Don Letts Distraction Pieces",
-        "Scroobius Pip",
-        "Elvis Costello",
-        "Bob Marley"
+        "Don Letts Distraction Pieces"
       ],
       "topics": [
         "letts",
@@ -14156,10 +13189,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76403527",
       "itunes_duration": "1:19:33",
-      "speakers": [
-        "Lady Macbeth",
-        "Peaky Blinders"
-      ],
+      "speakers": [],
       "topics": [
         "florence",
         "pugh",
@@ -14182,10 +13212,7 @@
       "itunes_duration": "1:13:08",
       "speakers": [
         "Dr Dre",
-        "Snoop Dogg",
-        "Scroobius Pip",
-        "Vicky McClure",
-        "Shane Meadows"
+        "Snoop Dogg"
       ],
       "topics": [
         "vicky",
@@ -14208,9 +13235,7 @@
       "enclosure_length": "108635535",
       "itunes_duration": "1:53:08",
       "speakers": [
-        "Scroobius Pip",
-        "Kirsty Bosley",
-        "Vicky Haskins"
+        "sensitive subject"
       ],
       "topics": [
         "wrestling",
@@ -14231,9 +13256,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69645055",
       "itunes_duration": "1:12:31",
-      "speakers": [
-        "Guz Khan"
-      ],
+      "speakers": [],
       "topics": [
         "khan",
         "distraction",
@@ -14276,10 +13299,7 @@
       "itunes_duration": "1:10:29",
       "speakers": [
         "Lena Headey Distraction Pieces",
-        "Scroobius Pip",
-        "Cersei Lannister",
-        "Lena Headey",
-        "Harvey Weinstein"
+        "Scroobius Pip"
       ],
       "topics": [
         "lena",
@@ -14301,13 +13321,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98043144",
       "itunes_duration": "1:42:07",
-      "speakers": [
-        "Scroobius Pip",
-        "Hardcore Listing",
-        "Jim Smallman",
-        "Jimmy Havoc",
-        "Frank Bruno"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -14328,9 +13342,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1:08:45",
       "speakers": [
-        "Jim Smallman",
-        "Jimmy Havoc",
-        "Jason Reed"
+        "infamous Dru"
       ],
       "topics": [
         "drunkcast",
@@ -14351,11 +13363,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63533290",
       "itunes_duration": "1:06:10",
-      "speakers": [
-        "Jim Smallman",
-        "Jimmy Havoc",
-        "Jason Reed"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -14375,12 +13383,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62890262",
       "itunes_duration": "1:05:30",
-      "speakers": [
-        "Hardcore Listing",
-        "Jim Smallman",
-        "Jimmy Havoc",
-        "Jason Reed"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -14401,11 +13404,7 @@
       "enclosure_length": "62529825",
       "itunes_duration": "1:05:07",
       "speakers": [
-        "Alex Horne Distraction Pieces",
-        "Scroobius Pip",
-        "Tim Key",
-        "Alex Horne",
-        "Edinburgh Fringery"
+        "Alex Horne Distraction Pieces"
       ],
       "topics": [
         "alex",
@@ -14428,9 +13427,7 @@
       "enclosure_length": "57781821",
       "itunes_duration": "1:00:10",
       "speakers": [
-        "Jim Bowen",
-        "Bless ya heart",
-        "Entirely Free"
+        "Jim Bowen"
       ],
       "topics": [
         "film",
@@ -14454,7 +13451,7 @@
       "itunes_duration": "1:16:16",
       "speakers": [
         "Rick Edwards Distraction Pieces",
-        "Elon Musk"
+        "Scroobius Pip"
       ],
       "topics": [
         "rick",
@@ -14499,10 +13496,7 @@
       "itunes_duration": "1:26:32",
       "speakers": [
         "Distraction Pieces",
-        "Scroobius Pip",
-        "Jonny Lee Miller",
-        "Sherlock Holmes",
-        "Lee Miller"
+        "Scroobius Pip"
       ],
       "topics": [
         "jonny",
@@ -14525,8 +13519,7 @@
       "enclosure_length": "62073037",
       "itunes_duration": "1:04:38",
       "speakers": [
-        "Scroobius Pip Welcome",
-        "Adam Buxton"
+        "Scroobius Pip Welcome"
       ],
       "topics": [
         "distraction",
@@ -14547,11 +13540,7 @@
       "enclosure_length": "90527362",
       "itunes_duration": "1:34:17",
       "speakers": [
-        "Jean Grae Distraction Pieces",
-        "Scroobius Pip",
-        "Jeannie Grigio",
-        "Jean Greasy",
-        "Jean Grae"
+        "Jean Grae Distraction Pieces"
       ],
       "topics": [
         "jean",
@@ -14573,9 +13562,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65244788",
       "itunes_duration": "1:07:57",
-      "speakers": [
-        "Scroobius Pip"
-      ],
+      "speakers": [],
       "topics": [
         "dublin",
         "distraction",
@@ -14595,11 +13582,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46409549",
       "itunes_duration": "48:20",
-      "speakers": [
-        "Scroobius Pip",
-        "Hardcore Listing",
-        "James Buckley"
-      ],
+      "speakers": [],
       "topics": [
         "dublin",
         "distraction",
@@ -14619,10 +13602,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52174080",
       "itunes_duration": "54:20",
-      "speakers": [
-        "Scroobius Pip",
-        "Craig Zahler"
-      ],
+      "speakers": [],
       "topics": [
         "craig",
         "zahler",
@@ -14644,9 +13624,7 @@
       "enclosure_length": "52974351",
       "itunes_duration": "55:10",
       "speakers": [
-        "Armando Iannucci Distraction Pieces",
-        "Armando Iannucci",
-        "Alan Partridge"
+        "Armando Iannucci Distraction Pieces"
       ],
       "topics": [
         "armando",
@@ -14670,8 +13648,7 @@
       "itunes_duration": "1:29:05",
       "speakers": [
         "Russell Howard Distraction Pieces",
-        "Scroobius Pip",
-        "Russell Howard"
+        "Scroobius Pip"
       ],
       "topics": [
         "russell",
@@ -14695,10 +13672,7 @@
       "itunes_duration": "54:07",
       "speakers": [
         "Michael Fassbender Distraction Pieces",
-        "Scroobius Pip",
-        "Michael Fassbender Far",
-        "Tomas Alfredson",
-        "Jo Nesbø"
+        "Scroobius Pip"
       ],
       "topics": [
         "michael",
@@ -14721,10 +13695,7 @@
       "enclosure_length": "84298322",
       "itunes_duration": "1:27:48",
       "speakers": [
-        "Helen Chamberlain Distraction Pieces",
-        "Scroobius Pip",
-        "Helen Chamberlain No-one",
-        "Helen Chamberlain"
+        "Helen Chamberlain Distraction Pieces"
       ],
       "topics": [
         "helen",
@@ -14747,9 +13718,7 @@
       "enclosure_length": "79105526",
       "itunes_duration": "1:22:23",
       "speakers": [
-        "Hugo White",
-        "Kate Nash",
-        "Jack Penate"
+        "Hugo White"
       ],
       "topics": [
         "hugo",
@@ -14774,8 +13743,7 @@
       "itunes_duration": "1:20:36",
       "speakers": [
         "Souad Mekhennet Distraction Pieces",
-        "Scroobius Pip",
-        "Jihadi John"
+        "Scroobius Pip"
       ],
       "topics": [
         "souad",
@@ -14798,7 +13766,7 @@
       "enclosure_length": "64443969",
       "itunes_duration": "1:07:07",
       "speakers": [
-        "eddieizzard Eddie"
+        "ultra plush"
       ],
       "topics": [
         "eddie",
@@ -14820,11 +13788,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75584111",
       "itunes_duration": "1:18:43",
-      "speakers": [
-        "Kathryn Bigelow",
-        "Leonardo Di Caprio",
-        "Tom Hardy"
-      ],
+      "speakers": [],
       "topics": [
         "poulter",
         "distraction",
@@ -14846,8 +13810,7 @@
       "itunes_duration": "1:31:30",
       "speakers": [
         "Aisling Bea Distraction Pieces",
-        "Scroobius Pip",
-        "Aisling Bea Aisling"
+        "Scroobius Pip"
       ],
       "topics": [
         "aisling",
@@ -14869,7 +13832,7 @@
       "enclosure_length": "85139064",
       "itunes_duration": "1:28:40",
       "speakers": [
-        "Scroobius Pip"
+        "Distraction Piece"
       ],
       "topics": [
         "jerry",
@@ -14940,8 +13903,7 @@
       "itunes_duration": "40:03",
       "speakers": [
         "Scroobius Pip Birthday Welcomes",
-        "Scroobius Pip",
-        "Stephen Graham"
+        "Mr Scr"
       ],
       "topics": [
         "birthday",
@@ -14965,10 +13927,7 @@
       "itunes_duration": "1:42:17",
       "speakers": [
         "Alice Lowe Distraction Pieces",
-        "Scroobius Pip",
-        "Garth Marenghi",
-        "Mighty Boosh",
-        "Alice Lowe"
+        "Scroobius Pip"
       ],
       "topics": [
         "alice",
@@ -14991,9 +13950,7 @@
       "enclosure_length": "108991374",
       "itunes_duration": "1:53:30",
       "speakers": [
-        "Doc Brown Distraction Pieces",
-        "Ricky Gervais",
-        "Jason Isaac"
+        "Doc Brown Distraction Pieces"
       ],
       "topics": [
         "brown",
@@ -15015,8 +13972,7 @@
       "enclosure_length": "80470454",
       "itunes_duration": "1:23:48",
       "speakers": [
-        "Laura Dockrill Distraction Pieces",
-        "Laura Dockrill"
+        "Laura Dockrill Distraction Pieces"
       ],
       "topics": [
         "laura",
@@ -15058,10 +14014,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95632386",
       "itunes_duration": "1:39:36",
-      "speakers": [
-        "Stu Whiffen",
-        "Chris Glasson"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -15081,9 +14034,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85189190",
       "itunes_duration": "1:28:43",
-      "speakers": [
-        "Chris Glasson"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -15103,12 +14054,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81823359",
       "itunes_duration": "1:25:13",
-      "speakers": [
-        "Scroobius Pip",
-        "Eric Osborne",
-        "Sam White",
-        "Dan Le Sac"
-      ],
+      "speakers": [],
       "topics": [
         "destiny",
         "distraction",
@@ -15129,8 +14075,7 @@
       "enclosure_length": "85586055",
       "itunes_duration": "1:29:08",
       "speakers": [
-        "Wayne Sharrocks Distraction Pieces",
-        "Wayne Sharrocks film"
+        "Wayne Sharrocks Distraction Pieces"
       ],
       "topics": [
         "child",
@@ -15155,10 +14100,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80336772",
       "itunes_duration": "1:23:40",
-      "speakers": [
-        "Scroobius Pip",
-        "Pip white-knuckles"
-      ],
+      "speakers": [],
       "topics": [
         "goldie",
         "distraction",
@@ -15179,10 +14121,7 @@
       "enclosure_length": "83833419",
       "itunes_duration": "1:27:18",
       "speakers": [
-        "Christopher Fairbank",
-        "Scroobius Pip",
-        "Tim Burton",
-        "David Fincher"
+        "Christopher Fairbank"
       ],
       "topics": [
         "christopher",
@@ -15205,9 +14144,7 @@
       "enclosure_length": "74222746",
       "itunes_duration": "1:17:18",
       "speakers": [
-        "Christopher Fairbank",
-        "Scroobius Pip",
-        "Alan Partridge"
+        "Christopher Fairbank"
       ],
       "topics": [
         "christopher",
@@ -15230,8 +14167,7 @@
       "enclosure_length": "94663326",
       "itunes_duration": "1:38:35",
       "speakers": [
-        "Neil Fitzmaurice",
-        "more Neil"
+        "Scroobius Pip"
       ],
       "topics": [
         "neil",
@@ -15254,9 +14190,7 @@
       "enclosure_length": "77495813",
       "itunes_duration": "1:20:42",
       "speakers": [
-        "Sofia Boutella Distraction Pieces",
-        "Scroobius Pip",
-        "Sofia Boutella One"
+        "Sofia Boutella Distraction Pieces"
       ],
       "topics": [
         "sofia",
@@ -15278,10 +14212,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55489661",
       "itunes_duration": "57:47",
-      "speakers": [
-        "Rob Auton",
-        "Dan Le Sac vs"
-      ],
+      "speakers": [],
       "topics": [
         "living",
         "room",
@@ -15328,8 +14259,7 @@
       "enclosure_length": "74736446",
       "itunes_duration": "1:17:50",
       "speakers": [
-        "Andrew Beef",
-        "Scroobius Pip"
+        "Andrew Beef"
       ],
       "topics": [
         "andrew",
@@ -15415,12 +14345,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83563545",
       "itunes_duration": "1:27:01",
-      "speakers": [
-        "Scroobius Pip",
-        "prone squirrel",
-        "Tom Hardy",
-        "Stephen Spielberg"
-      ],
+      "speakers": [],
       "topics": [
         "kelly",
         "marcel",
@@ -15441,9 +14366,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99283182",
       "itunes_duration": "1:43:24",
-      "speakers": [
-        "Steven Camden"
-      ],
+      "speakers": [],
       "topics": [
         "polarbear",
         "distraction",
@@ -15463,9 +14386,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91913371",
       "itunes_duration": "1:35:44",
-      "speakers": [
-        "Scarlett Johannson"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -15505,11 +14426,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66127208",
       "itunes_duration": "1:08:52",
-      "speakers": [
-        "Scroobius Pip",
-        "Stu Whiffen",
-        "Chris Glasson"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -15530,11 +14447,7 @@
       "enclosure_length": "88998861",
       "itunes_duration": "1:32:41",
       "speakers": [
-        "James Buckley Distraction Pieces",
-        "Scroobius Pip",
-        "James Buckley",
-        "Stu Whiffen",
-        "Del Boy"
+        "James Buckley Distraction Pieces"
       ],
       "topics": [
         "james",
@@ -15557,8 +14470,7 @@
       "enclosure_length": "79392447",
       "itunes_duration": "1:22:41",
       "speakers": [
-        "Susan Wokoma Distraction Pieces",
-        "Susan Wokoma"
+        "Susan Wokoma Distraction Pieces"
       ],
       "topics": [
         "susan",
@@ -15581,8 +14493,7 @@
       "enclosure_length": "35825640",
       "itunes_duration": "37:18",
       "speakers": [
-        "Rory MacDonald Distraction Pieces",
-        "Dan Hardy"
+        "Rory MacDonald Distraction Pieces"
       ],
       "topics": [
         "macdonald",
@@ -15674,11 +14585,7 @@
       "enclosure_length": "60590348",
       "itunes_duration": "1:03:06",
       "speakers": [
-        "Katherine Ryan Distraction Pieces",
-        "Scroobius Pip",
-        "Katherine Ryan",
-        "Jessica Simpson",
-        "Amy Schumer"
+        "Katherine Ryan Distraction Pieces"
       ],
       "topics": [
         "katherine",
@@ -15700,9 +14607,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "188891108",
       "itunes_duration": "1:18:42",
-      "speakers": [
-        "Ancilla van de Leest"
-      ],
+      "speakers": [],
       "topics": [
         "ancilla",
         "leest",
@@ -15767,10 +14672,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67101258",
       "itunes_duration": "1:09:53",
-      "speakers": [
-        "Homelessness Special",
-        "Mustard Tree"
-      ],
+      "speakers": [],
       "topics": [
         "homelessness",
         "special",
@@ -15815,8 +14717,7 @@
       "enclosure_length": "42331801",
       "itunes_duration": "44:05",
       "speakers": [
-        "James McAvoy Distraction Pieces",
-        "James McAvoy Pip"
+        "James McAvoy Distraction Pieces"
       ],
       "topics": [
         "james",
@@ -15839,8 +14740,7 @@
       "enclosure_length": "78707459",
       "itunes_duration": "1:21:58",
       "speakers": [
-        "Matt Willis Distraction Pieces",
-        "Matt Willis"
+        "Matt Willis Distraction Pieces"
       ],
       "topics": [
         "matt",
@@ -15863,11 +14763,7 @@
       "enclosure_length": "106016300",
       "itunes_duration": "1:50:25",
       "speakers": [
-        "Rob Parker Distraction Pieces",
-        "Rob Parker",
-        "Scroobius Pip",
-        "Tom Hardy",
-        "Stephen Graham"
+        "Rob Parker Distraction Pieces"
       ],
       "topics": [
         "parker",
@@ -15888,11 +14784,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70994643",
       "itunes_duration": "1:13:56",
-      "speakers": [
-        "Scroobius Pip",
-        "Chris Glasson",
-        "Stu Whiffen"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "xmas",
@@ -15914,10 +14806,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66463719",
       "itunes_duration": "1:09:13",
-      "speakers": [
-        "Chris Glasson",
-        "Stu Whiffen"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "xmas",
@@ -15939,10 +14828,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68495655",
       "itunes_duration": "1:11:20",
-      "speakers": [
-        "Chris Glasson",
-        "Stu Whiffen"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "xmas",
@@ -15964,9 +14850,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75102310",
       "itunes_duration": "1:18:13",
-      "speakers": [
-        "Chris Glasson"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "xmas",
@@ -16012,8 +14896,7 @@
       "enclosure_length": "66336719",
       "itunes_duration": "1:09:05",
       "speakers": [
-        "Robert Sheehan Distraction Pieces",
-        "Jet Trash"
+        "Robert Sheehan Distraction Pieces"
       ],
       "topics": [
         "robert",
@@ -16058,10 +14941,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86023330",
       "itunes_duration": "1:29:35",
-      "speakers": [
-        "Jim Smallman",
-        "Jason Reed"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -16082,7 +14962,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66568075",
       "itunes_duration": "1:09:19",
-      "speakers": [],
+      "speakers": [
+        "all seein"
+      ],
       "topics": [
         "dolan",
         "distraction",
@@ -16102,10 +14984,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100460885",
       "itunes_duration": "1:44:38",
-      "speakers": [
-        "Chris Glasson",
-        "Sam Marshall"
-      ],
+      "speakers": [],
       "topics": [
         "roundtable",
         "chris",
@@ -16126,9 +15005,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84231588",
       "itunes_duration": "1:27:43",
-      "speakers": [
-        "Scroobius Pip"
-      ],
+      "speakers": [],
       "topics": [
         "iain",
         "distraction",
@@ -16195,8 +15072,7 @@
       "enclosure_length": "80501795",
       "itunes_duration": "1:23:50",
       "speakers": [
-        "John Bradley Distraction Pieces",
-        "John Bradley"
+        "John Bradley Distraction Pieces"
       ],
       "topics": [
         "john",
@@ -16219,11 +15095,7 @@
       "enclosure_length": "74972084",
       "itunes_duration": "1:18:05",
       "speakers": [
-        "Jack Gallagher Distraction Pieces",
-        "Scroobius Pip",
-        "Cruiserweight Classic",
-        "Gentleman Jack",
-        "Jack Gallagher"
+        "Jack Gallagher Distraction Pieces"
       ],
       "topics": [
         "jack",
@@ -16265,11 +15137,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72058499",
       "itunes_duration": "1:15:02",
-      "speakers": [
-        "Kevin Hart",
-        "Paul Blart",
-        "Brett Goldstein"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -16289,7 +15157,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64270915",
       "itunes_duration": "1:06:56",
-      "speakers": [],
+      "speakers": [
+        "upon yo"
+      ],
       "topics": [
         "drunkcast",
         "distraction",
@@ -16309,11 +15179,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61230016",
       "itunes_duration": "1:03:46",
-      "speakers": [
-        "Scroobius Pip",
-        "Christopher Glasson",
-        "Stu Whiffen"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -16334,8 +15200,7 @@
       "enclosure_length": "79543484",
       "itunes_duration": "1:22:50",
       "speakers": [
-        "Frankie Boyle Distraction Pieces",
-        "Frankie Boyle"
+        "Frankie Boyle Distraction Pieces"
       ],
       "topics": [
         "frankie",
@@ -16358,8 +15223,7 @@
       "enclosure_length": "60716806",
       "itunes_duration": "1:03:14",
       "speakers": [
-        "Edith Bowman Distraction Pieces",
-        "Scroobius Pip"
+        "Edith Bowman Distraction Pieces"
       ],
       "topics": [
         "edith",
@@ -16382,9 +15246,7 @@
       "enclosure_length": "84576328",
       "itunes_duration": "1:28:05",
       "speakers": [
-        "Satin Lizard Lounge Special",
-        "Social Media Hollie McNISHWEB",
-        "Jack Rookeweb"
+        "Satin Lizard Lounge Special"
       ],
       "topics": [
         "satin",
@@ -16430,9 +15292,7 @@
       "enclosure_length": "75812327",
       "itunes_duration": "1:18:57",
       "speakers": [
-        "Neil Woods Distraction Pieces",
-        "Scroobius Pip",
-        "Neil Woods"
+        "Neil Woods Distraction Pieces"
       ],
       "topics": [
         "neil",
@@ -16496,10 +15356,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80331640",
       "itunes_duration": "1:23:40",
-      "speakers": [
-        "Scroobius Pip",
-        "Miles Davis"
-      ],
+      "speakers": [],
       "topics": [
         "marcus",
         "brigstocke",
@@ -16523,7 +15380,7 @@
       "speakers": [
         "Brendon Burns Distraction Pieces",
         "John Oliver",
-        "Colt Cabana"
+        "Scroobius Pi"
       ],
       "topics": [
         "brendon",
@@ -16546,9 +15403,7 @@
       "enclosure_length": "99500755",
       "itunes_duration": "1:43:38",
       "speakers": [
-        "Oran Mor",
-        "Scroobius Pip",
-        "Suicide Squad"
+        "Oran Mor"
       ],
       "topics": [
         "oran",
@@ -16570,9 +15425,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82255995",
       "itunes_duration": "1:25:40",
-      "speakers": [
-        "Edinburgh Fringe"
-      ],
+      "speakers": [],
       "topics": [
         "edinburgh",
         "fringe",
@@ -16594,8 +15447,7 @@
       "enclosure_length": "89388984",
       "itunes_duration": "1:33:06",
       "speakers": [
-        "Scroobius Pip",
-        "Stu Whiffen"
+        "Distraction Pieces"
       ],
       "topics": [
         "leicester",
@@ -16684,9 +15536,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70108257",
       "itunes_duration": "1:13:01",
-      "speakers": [
-        "Caroline Aherne"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -16728,7 +15578,7 @@
       "itunes_duration": "1:32:13",
       "speakers": [
         "Thomas Coles Distraction Pieces",
-        "Dan Le Sac vs"
+        "Distraction Pi"
       ],
       "topics": [
         "thomas",
@@ -16752,8 +15602,7 @@
       "itunes_duration": "1:25:30",
       "speakers": [
         "Jordan Stephens",
-        "Rizzle Kicks",
-        "Scroobius Pip"
+        "Rizzle Kicks"
       ],
       "topics": [
         "jordan",
@@ -16801,8 +15650,7 @@
       "enclosure_length": "147900547",
       "itunes_duration": "1:01:37",
       "speakers": [
-        "Tom Rosenthal Distraction Pieces",
-        "Jim Rosenthal"
+        "Tom Rosenthal Distraction Pieces"
       ],
       "topics": [
         "rosenthal",
@@ -16869,14 +15717,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "182713610",
       "itunes_duration": "1:16:07",
-      "speakers": [
-        "Chris Glasson",
-        "Stu Whiffen",
-        "Redshift Rebels",
-        "Scroobius Pip",
-        "Secret CInema",
-        "Brian Gittins"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -16896,9 +15737,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150596149",
       "itunes_duration": "1:02:44",
-      "speakers": [
-        "Tom Coles"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -16918,9 +15757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67799541",
       "itunes_duration": "1:10:36",
-      "speakers": [
-        "DJ Yoda"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -16961,9 +15798,7 @@
       "enclosure_length": "100285694",
       "itunes_duration": "1:44:26",
       "speakers": [
-        "Dan Le Sac",
-        "Dan Le",
-        "Dan Le Sac vs"
+        "Dan Le Sac"
       ],
       "topics": [
         "distraction",
@@ -16984,9 +15819,7 @@
       "enclosure_length": "92196603",
       "itunes_duration": "1:36:01",
       "speakers": [
-        "Dan Le Sac",
-        "Scroobius Pip",
-        "Dan Le Sac vs"
+        "Dan Le Sac"
       ],
       "topics": [
         "distraction",
@@ -17008,10 +15841,7 @@
       "itunes_duration": "1:11:05",
       "speakers": [
         "David Earl",
-        "Joe Wilkinson Distraction Pieces",
-        "Brian Gittins",
-        "Joe Wilkinson",
-        "Ricky Gervais"
+        "Joe Wilkinson Distraction Pieces"
       ],
       "topics": [
         "david",
@@ -17056,9 +15886,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94791305",
       "itunes_duration": "1:38:43",
-      "speakers": [
-        "Edinburgh Fringe"
-      ],
+      "speakers": [],
       "topics": [
         "suttie",
         "distraction",
@@ -17079,8 +15907,7 @@
       "enclosure_length": "89062241",
       "itunes_duration": "1:32:45",
       "speakers": [
-        "Kathy Burke Distraction Pieces",
-        "Gary Oldman"
+        "Kathy Burke Distraction Pieces"
       ],
       "topics": [
         "kathy",
@@ -17125,9 +15952,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45812806",
       "itunes_duration": "47:42",
-      "speakers": [
-        "Scroobius Pip"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -17169,8 +15994,7 @@
       "enclosure_length": "57393519",
       "itunes_duration": "59:46",
       "speakers": [
-        "Ed Skrein",
-        "Transporter Refueled"
+        "Ed Skrein"
       ],
       "topics": [
         "skrein",
@@ -17192,10 +16016,7 @@
       "enclosure_length": "69749052",
       "itunes_duration": "1:12:38",
       "speakers": [
-        "Carl Barât Distraction Pieces",
-        "Scroobius Pip",
-        "Carl Barât",
-        "Pete Doherty"
+        "Carl Barât Distraction Pieces"
       ],
       "topics": [
         "carl",
@@ -17278,11 +16099,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50301363",
       "itunes_duration": "52:23",
-      "speakers": [
-        "Scroobius Pip",
-        "Stu Whiffen",
-        "Chris Glassen"
-      ],
+      "speakers": [],
       "topics": [
         "drunkcast",
         "distraction",
@@ -17302,9 +16119,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65357588",
       "itunes_duration": "1:08:04",
-      "speakers": [
-        "Georgina Campbell"
-      ],
+      "speakers": [],
       "topics": [
         "georgina",
         "campbell",
@@ -17346,9 +16161,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37927487",
       "itunes_duration": "39:30",
-      "speakers": [
-        "Jason Reed"
-      ],
+      "speakers": [],
       "topics": [
         "leap",
         "distraction",
@@ -17369,9 +16182,7 @@
       "enclosure_length": "100678501",
       "itunes_duration": "1:44:51",
       "speakers": [
-        "Stephen Graham Distraction Pieces",
-        "Stephen Graham Full",
-        "Al Capone"
+        "Stephen Graham Distraction Pieces"
       ],
       "topics": [
         "stephen",
@@ -17394,7 +16205,7 @@
       "enclosure_length": "93378278",
       "itunes_duration": "1:37:15",
       "speakers": [
-        "Comic Relief"
+        "Housing Fo"
       ],
       "topics": [
         "housing",
@@ -17442,8 +16253,7 @@
       "enclosure_length": "80914877",
       "itunes_duration": "1:24:16",
       "speakers": [
-        "Saul Williams Distraction Pieces",
-        "Loser King"
+        "Saul Williams Distraction Pieces"
       ],
       "topics": [
         "saul",
@@ -17466,8 +16276,7 @@
       "enclosure_length": "82320788",
       "itunes_duration": "1:25:44",
       "speakers": [
-        "Jim Smallman",
-        "Jim Smallman Full"
+        "Jim Smallman"
       ],
       "topics": [
         "smallman",
@@ -17491,8 +16300,7 @@
       "enclosure_length": "67592867",
       "itunes_duration": "1:10:24",
       "speakers": [
-        "Jamie McKelvie Distraction Pieces",
-        "Kieron Gillen"
+        "Jamie McKelvie Distraction Pieces"
       ],
       "topics": [
         "kieron",
@@ -17538,10 +16346,7 @@
       "enclosure_length": "103238093",
       "itunes_duration": "1:47:46",
       "speakers": [
-        "Robin Ince Distraction Pieces",
-        "Ricky Gervais",
-        "Monkey Cage",
-        "Brian Cox"
+        "Robin Ince Distraction Pieces"
       ],
       "topics": [
         "robin",
@@ -17601,7 +16406,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69914222",
       "itunes_duration": "1:12:49",
-      "speakers": [],
+      "speakers": [
+        "Distraction Piec"
+      ],
       "topics": [
         "year",
         "review",
@@ -17685,10 +16492,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61237975",
       "itunes_duration": "1:03:46",
-      "speakers": [
-        "Chris Glassen",
-        "Stu Whiffen"
-      ],
+      "speakers": [],
       "topics": [
         "year",
         "review",
@@ -17754,8 +16558,7 @@
       "enclosure_length": "83517826",
       "itunes_duration": "1:26:59",
       "speakers": [
-        "John Osborne Distraction Pieces",
-        "John Osborne"
+        "John Osborne Distraction Pieces"
       ],
       "topics": [
         "john",
@@ -17778,8 +16581,7 @@
       "enclosure_length": "87041006",
       "itunes_duration": "1:30:39",
       "speakers": [
-        "Richard Herring Distraction Pieces",
-        "Stewart Lee"
+        "Richard Herring Distraction Pieces"
       ],
       "topics": [
         "richard",
@@ -17889,10 +16691,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49951884",
       "itunes_duration": "52:08",
-      "speakers": [
-        "Dan Le Sac vs",
-        "Keith Clark"
-      ],
+      "speakers": [],
       "topics": [
         "distraction",
         "pieces",
@@ -17912,9 +16711,7 @@
       "enclosure_length": "92473812",
       "itunes_duration": "1:35:30",
       "speakers": [
-        "Adam Buxton Distraction Pieces",
-        "Adam Buxton",
-        "Joe Cornish"
+        "Adam Buxton Distraction Pieces"
       ],
       "topics": [
         "adam",
@@ -17936,9 +16733,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106277328",
       "itunes_duration": "1:50:42",
-      "speakers": [
-        "Hip Hop"
-      ],
+      "speakers": [],
       "topics": [
         "akala",
         "distraction",
@@ -17958,9 +16753,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71269065",
       "itunes_duration": "1:14:14",
-      "speakers": [
-        "Tom Robinson"
-      ],
+      "speakers": [],
       "topics": [
         "robinson",
         "distraction",
@@ -17980,9 +16773,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79997307",
       "itunes_duration": "1:23:19",
-      "speakers": [
-        "Tom Robinson"
-      ],
+      "speakers": [],
       "topics": [
         "robinson",
         "distraction",
@@ -18003,8 +16794,7 @@
       "enclosure_length": "66805261",
       "itunes_duration": "1:09:35",
       "speakers": [
-        "Roots Manuva Distraction Pieces",
-        "Roots Manuva"
+        "Roots Manuva Distraction Pieces"
       ],
       "topics": [
         "root",
@@ -18026,9 +16816,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86789144",
       "itunes_duration": "1:30:24",
-      "speakers": [
-        "Jon Drever"
-      ],
+      "speakers": [],
       "topics": [
         "brett",
         "goldstein",
@@ -18051,8 +16839,7 @@
       "enclosure_length": "89733249",
       "itunes_duration": "1:33:28",
       "speakers": [
-        "Comic Book",
-        "Garth Ennis"
+        "legendary Com"
       ],
       "topics": [
         "garth",
@@ -18074,10 +16861,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92645171",
       "itunes_duration": "1:36:30",
-      "speakers": [
-        "Sam Preston",
-        "Celebrity Big Brother"
-      ],
+      "speakers": [],
       "topics": [
         "preston",
         "distraction",
@@ -18098,9 +16882,7 @@
       "enclosure_length": "74085275",
       "itunes_duration": "1:17:10",
       "speakers": [
-        "Andrew Shim Distraction Pieces",
-        "Shane Meadows",
-        "Andrew Shim"
+        "Andrew Shim Distraction Pieces"
       ],
       "topics": [
         "andrew",
@@ -18124,8 +16906,7 @@
       "itunes_duration": "1:28:18",
       "speakers": [
         "Tom Davis Distraction Pieces",
-        "Tom Davis",
-        "Hip Hop"
+        "Tom Davis"
       ],
       "topics": [
         "davis",
@@ -18146,10 +16927,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80549014",
       "itunes_duration": "1:23:54",
-      "speakers": [
-        "Tall Dark Friend",
-        "Jordan Gray"
-      ],
+      "speakers": [],
       "topics": [
         "tall",
         "dark",
@@ -18172,8 +16950,7 @@
       "enclosure_length": "92434937",
       "itunes_duration": "1:36:16",
       "speakers": [
-        "Frank Carter Distraction Pieces",
-        "Frank Carter"
+        "Frank Carter Distraction Pieces"
       ],
       "topics": [
         "frank",
@@ -18196,8 +16973,7 @@
       "enclosure_length": "75092974",
       "itunes_duration": "1:18:13",
       "speakers": [
-        "Carla Valentine Distraction Pieces",
-        "Carla Valentine"
+        "Carla Valentine Distraction Pieces"
       ],
       "topics": [
         "carla",
@@ -18239,7 +17015,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79717275",
       "itunes_duration": "1:23:02",
-      "speakers": [],
+      "speakers": [
+        "Dr Su"
+      ],
       "topics": [
         "suzi",
         "gage",
@@ -18261,10 +17039,7 @@
       "enclosure_length": "100295078",
       "itunes_duration": "1:44:28",
       "speakers": [
-        "Frank Hewetson Distraction Pieces",
-        "Ben Stewart",
-        "Ben Ayliffe",
-        "Frank Hewetson"
+        "Frank Hewetson Distraction Pieces"
       ],
       "topics": [
         "greenpeace",
@@ -18290,10 +17065,7 @@
       "enclosure_length": "49061221",
       "itunes_duration": "51:06",
       "speakers": [
-        "Ben Stewart Distraction Pieces",
-        "Ben Stewart",
-        "Ben Ayliffe",
-        "Frank Hewetson"
+        "Ben Stewart Distraction Pieces"
       ],
       "topics": [
         "greenpeace",
@@ -18338,8 +17110,7 @@
       "enclosure_length": "101997008",
       "itunes_duration": "1:46:14",
       "speakers": [
-        "John Kennedy Distraction Pieces",
-        "John Kennedy"
+        "John Kennedy Distraction Pieces"
       ],
       "topics": [
         "john",
@@ -18361,11 +17132,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67743162",
       "itunes_duration": "1:10:33",
-      "speakers": [
-        "Neil Maskell",
-        "Ben Wheatley",
-        "Kill List"
-      ],
+      "speakers": [],
       "topics": [
         "neil",
         "distraction",
@@ -18409,7 +17176,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65308967",
       "itunes_duration": "1:08:01",
-      "speakers": [],
+      "speakers": [
+        "Strange famous Records"
+      ],
       "topics": [
         "dolan",
         "kill",
@@ -18559,10 +17328,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68901327",
       "itunes_duration": "1:11:46",
-      "speakers": [
-        "Dresden Doll",
-        "kickstarter campaign"
-      ],
+      "speakers": [],
       "topics": [
         "amanda",
         "palmer",
@@ -18583,7 +17349,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104953233",
       "itunes_duration": "1:49:19",
-      "speakers": [],
+      "speakers": [
+        "time Rapper"
+      ],
       "topics": [
         "romesh",
         "ranganathan",
@@ -18646,7 +17414,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55012960",
       "itunes_duration": "57:18",
-      "speakers": [],
+      "speakers": [
+        "artist extraordinaire"
+      ],
       "topics": [
         "heggie",
         "distraction",
@@ -18778,7 +17548,8 @@
       "enclosure_length": "79197333",
       "itunes_duration": "1:22:29",
       "speakers": [
-        "Dan Hardy"
+        "Dan Hardy",
+        "Dan dis"
       ],
       "topics": [
         "hardy",
@@ -18801,8 +17572,7 @@
       "itunes_duration": "1:37:56",
       "speakers": [
         "Howard Marks Distraction Pieces",
-        "Howard Marks",
-        "Mr Nice"
+        "Howard Marks"
       ],
       "topics": [
         "howard",
@@ -18872,8 +17642,7 @@
       "enclosure_length": "97901008",
       "itunes_duration": "1:41:58",
       "speakers": [
-        "Danny Wallace Distraction Pieces",
-        "Danny Wallace"
+        "Danny Wallace Distraction Pieces"
       ],
       "topics": [
         "danny",
@@ -18917,7 +17686,7 @@
       "enclosure_length": "84853157",
       "itunes_duration": "1:28:23",
       "speakers": [
-        "Stephen Fry"
+        "comedian extraordinaire"
       ],
       "topics": [
         "sara",
@@ -18987,8 +17756,7 @@
       "itunes_duration": "1:35:33",
       "speakers": [
         "Wes Borland Distraction Pieces",
-        "Wes Borland",
-        "Queen Kwong"
+        "Wes Borland"
       ],
       "topics": [
         "borland",
@@ -19031,8 +17799,7 @@
       "enclosure_length": "55685039",
       "itunes_duration": "58:00",
       "speakers": [
-        "Dylan Moran Distraction Pieces",
-        "Dylan Moran"
+        "Dylan Moran Distraction Pieces"
       ],
       "topics": [
         "dylan",
@@ -19079,8 +17846,7 @@
       "enclosure_length": "138004191",
       "itunes_duration": "1:22:08",
       "speakers": [
-        "Frank Turner Distraction Pieces",
-        "Wembley Arena"
+        "Frank Turner Distraction Pieces"
       ],
       "topics": [
         "frank",
@@ -19104,7 +17870,7 @@
       "itunes_duration": "1:22:40",
       "speakers": [
         "Mike Skinner Distraction Pieces",
-        "Mike Skinner"
+        "Mike Skinne"
       ],
       "topics": [
         "mike",
@@ -19174,8 +17940,7 @@
       "enclosure_length": "188678402",
       "itunes_duration": "1:38:16",
       "speakers": [
-        "Kate Tempest",
-        "Everybody Down"
+        "Kate Tempest"
       ],
       "topics": [
         "kate",
@@ -19356,9 +18121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37939232",
       "itunes_duration": "1:19:02",
-      "speakers": [
-        "Scroobius Pip Hosted"
-      ],
+      "speakers": [],
       "topics": [
         "dolan",
         "distraction",
@@ -19380,8 +18143,7 @@
       "itunes_duration": "1:07:03",
       "speakers": [
         "Ann Bickley Distraction Pieces",
-        "Ann Bickley",
-        "Scroobius Pip Hosted"
+        "Ann Bickley"
       ],
       "topics": [
         "jodi",
@@ -19404,8 +18166,7 @@
       "enclosure_length": "36260289",
       "itunes_duration": "1:15:32",
       "speakers": [
-        "Warren Ellis",
-        "Scroobius Pip Hosted"
+        "Warren Ellis"
       ],
       "topics": [
         "warren",
@@ -19428,9 +18189,7 @@
       "enclosure_length": "36804263",
       "itunes_duration": "1:16:40",
       "speakers": [
-        "Simon Singh Distraction Pieces",
-        "Simon Singh",
-        "Scroobius Pip Hosted"
+        "Simon Singh Distraction Pieces"
       ],
       "topics": [
         "simon",
@@ -19452,9 +18211,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46822327",
       "itunes_duration": "1:37:32",
-      "speakers": [
-        "Scroobius Pip Hosted"
-      ],
+      "speakers": [],
       "topics": [
         "sage",
         "francis",
@@ -19476,8 +18233,7 @@
       "enclosure_length": "44501191",
       "itunes_duration": "1:32:42",
       "speakers": [
-        "DJ Yoda",
-        "Scroobius Pip Hosted"
+        "DJ Yoda"
       ],
       "topics": [
         "yoda",
@@ -19500,8 +18256,7 @@
       "itunes_duration": "1:36:46",
       "speakers": [
         "Alan Moore Distraction Pieces",
-        "Alan Moore",
-        "Scroobius Pip"
+        "Alan Moore"
       ],
       "topics": [
         "alan",
@@ -19525,8 +18280,7 @@
       "itunes_duration": "1:21:59",
       "speakers": [
         "Zane Lowe Distraction Pieces",
-        "Zane Lowe",
-        "Scroobius Pip"
+        "Zane Lowe"
       ],
       "topics": [
         "zane",
@@ -19544,88 +18298,89 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — TARON EGERTON (Rocketman / Tetris / Kingsman) • Friday Rewind — speakers: Taron Egerton, Stephen Graham, Matthew Vaughn, Dexter Fletcher, Tom Hardy
-- 2026-02-18 — JESSIE ROUX • the power of representation & hitting the floor running post-Traitors (Traitors Series 4) #659 — speakers: Jane Powell, Prince Charles Cinema Speech
-- 2026-02-13 — EMERALD FENNELL (Wuthering Heights / Saltburn) • Friday Rewind — speakers: Emerald Fennell
-- 2026-02-11 — CORIN HARDY • the horror movie whistle-blower (Whistle / The Nun / Gangs Of London) #658 — speakers: Prince Charles Cinema Speech
-- 2026-02-06 — FEARNE COTTON (Happy Place / Top Of The Pops) • Friday Rewind — speakers: Led Zeppelin, Sarah Cawood
-- 2026-02-04 — JESS MEGAN • surviving grief, addiction and social media #657 — speakers: Prince Charles Cinema Speech
-- 2026-01-30 — WILL POULTER (Midsommar / Detroit / The Bear) • Friday Rewind — speakers: Kathryn Bigelow, Leonardo Di Caprio, Tom Hardy
-- 2026-01-28 — CHRISTOPHER MACARTHUR-BOYD & ROSCO McCLELLAND • Shooting Ropes meets Distraction Pieces! (Shooting Ropes podcast / comedy) #656 — speakers: Shooting Ropes, Rosco McCLELLAND
-- 2026-01-23 — DEFUND THE POLICE: Discussed • Friday Rewind — speakers: Adam Elliott-Cooper, Adam Elliott
+- 2026-02-25 — JOEL FRY • further proof that The Bill & Casualty might be acting university (Stitch Head / Our Flag Means Death / Cruella) #660
+- 2026-02-20 — TARON EGERTON (Rocketman / Tetris / Kingsman) • Friday Rewind
+- 2026-02-18 — JESSIE ROUX • the power of representation & hitting the floor running post-Traitors (Traitors Series 4) #659
+- 2026-02-13 — EMERALD FENNELL (Wuthering Heights / Saltburn) • Friday Rewind
+- 2026-02-11 — CORIN HARDY • the horror movie whistle-blower (Whistle / The Nun / Gangs Of London) #658
+- 2026-02-06 — FEARNE COTTON (Happy Place / Top Of The Pops) • Friday Rewind
+- 2026-02-04 — JESS MEGAN • surviving grief, addiction and social media #657
+- 2026-01-30 — WILL POULTER (Midsommar / Detroit / The Bear) • Friday Rewind
+- 2026-01-28 — CHRISTOPHER MACARTHUR-BOYD & ROSCO McCLELLAND • Shooting Ropes meets Distraction Pieces! (Shooting Ropes podcast / comedy) #656 — speakers: Shooting Ropes
+- 2026-01-23 — DEFUND THE POLICE: Discussed • Friday Rewind
 - 2026-01-21 — JAMALI MADDIX & ELLIOT STEEL • Drivetime Show meets Distraction Pieces! (Elliot & Jamali's Drivetime Show) #655
-- 2026-01-16 — BRETT GOLDSTEIN & JON DREVER (Superbob together, and much more in the next decade) • Friday Rewind — speakers: Jon Drever, Grain Media, Ted Lasso
-- 2026-01-14 — JAMES NELSON-JOYCE • from a chance meeting in a chicken restaurant to a beautiful acting path ahead (A Thousand Blows / This City Is Ours / Black Mirror) #653 — speakers: James Nelson-Joyce, Stephen Graham, Hannah Walters
-- 2026-01-09 — Firstly, Are You Okay? #653 — speakers: Scroobius Pip, Grace Neutral Finley
+- 2026-01-16 — BRETT GOLDSTEIN & JON DREVER (Superbob together, and much more in the next decade) • Friday Rewind
+- 2026-01-14 — JAMES NELSON-JOYCE • from a chance meeting in a chicken restaurant to a beautiful acting path ahead (A Thousand Blows / This City Is Ours / Black Mirror) #653 — speakers: James Nelson-Joyce
+- 2026-01-09 — Firstly, Are You Okay? #653 — speakers: Scroobius Pip
 - 2026-01-07 — FILMS OF THE YEAR 2025 #652
-- 2026-01-01 — 2025 Roundup w/Joe Talbot & Grace Neutral • Part 2 of 2 #651 — speakers: Joe Talbot
-- 2025-12-31 — 2025 Roundup w/Joe Talbot & Grace Neutral • Part 1 of 2 #651 — speakers: Joe Talbot
-- 2025-12-24 — Christmas Drinks w/Musa Okwonga & Polarbear • Part 2 of 2 #650 — speakers: outward gaze
-- 2025-12-24 — Christmas Drinks w/Musa Okwonga & Polarbear • Part 1 of 2 #650 — speakers: outward gaze
+- 2026-01-01 — 2025 Roundup w/Joe Talbot & Grace Neutral • Part 2 of 2 #651
+- 2025-12-31 — 2025 Roundup w/Joe Talbot & Grace Neutral • Part 1 of 2 #651
+- 2025-12-24 — Christmas Drinks w/Musa Okwonga & Polarbear • Part 2 of 2 #650
+- 2025-12-24 — Christmas Drinks w/Musa Okwonga & Polarbear • Part 1 of 2 #650
 - 2025-12-19 — Stephen Merchant (The Office / Logan / Fighting With My Family) • Friday Rewind — speakers: Stephen Merchant
 - 2025-12-17 — TV Of The Year 2025 w/John & Joel (of The Dream Factory podcast) #649
-- 2025-12-12 — Bill Bailey (Vaudevillean / Black Books / Buzzcocks) • Friday Rewind — speakers: Bill Bailey, Idris Elba
-- 2025-12-10 — Infinite Coles: show me to your crowd (son of Ghostface Killah / Black Girl Magic / SweetFaceKillah) #648 — speakers: Ghostface Killah, Wu Tang just, Richard Russell
-- 2025-12-05 — Jordan Gray (Transaction / Tall Dark Friend / Edinburgh Fringe) • Friday Rewind — speakers: Jordan Gray, Edinburgh Fringe, Follow Jordan
+- 2025-12-12 — Bill Bailey (Vaudevillean / Black Books / Buzzcocks) • Friday Rewind — speakers: Bill Bailey
+- 2025-12-10 — Infinite Coles: show me to your crowd (son of Ghostface Killah / Black Girl Magic / SweetFaceKillah) #648
+- 2025-12-05 — Jordan Gray (Transaction / Tall Dark Friend / Edinburgh Fringe) • Friday Rewind — speakers: Jordan Gray, Edinburgh Fringe
 - 2025-12-03 — Bilal Zafar: can't knock the hustle, or the day job (Got A Problem Mate podcast / Cakes special / Twitch) #647
-- 2025-11-28 — Self Esteem (A Complicated Woman / Prima Face / Prioritise Pleasure) • Friday Rewind — speakers: Self Esteem, Scroobius Pip
+- 2025-11-28 — Self Esteem (A Complicated Woman / Prima Face / Prioritise Pleasure) • Friday Rewind
 - 2025-11-26 — Ben Foster: the quest to find the character vibration (Christy out 28th Nov) #646 — speakers: Ben Foster
-- 2025-11-21 — Benjamin Zephaniah (writer / poet / actor / 1958-2023) • Friday Rewind — speakers: Benjamin Zephaniah, Bob Marley, Peaky Blinders
+- 2025-11-21 — Benjamin Zephaniah (writer / poet / actor / 1958-2023) • Friday Rewind — speakers: Benjamin Zephaniah
 - 2025-11-19 — Alex Winter: a lifelong excellent adventure (Bill from Bill & Ted / Lost Boys / Adulthood) #645 — speakers: Alex Winter
-- 2025-11-14 — Liam Howlett (The Prodigy) • Friday Rewind — speakers: Liam Howlett, Nick Halkes
+- 2025-11-14 — Liam Howlett (The Prodigy) • Friday Rewind — speakers: Liam Howlett
 - 2025-11-12 — Edgar Wright: the man behind The Running Man returns! (The Running Man / Baby Driver / Scott Pilgrim) #644 — speakers: Edgar Wright
 - 2025-11-07 — Helen Chamberlain (Soccer AM / animal rescue hero) • Friday Rewind — speakers: Helen Chamberlain
-- 2025-11-05 — Harry Baker: your poet best friend! (pre-order the new book 'Tender' now / Something Borrowed podcast) #643 — speakers: Harry Baker, Hip Hop
-- 2025-10-31 — Akala (rapper / poet / activist / author) • Friday Rewind — speakers: Hip Hop, Scroobius Pip
+- 2025-11-05 — Harry Baker: your poet best friend! (pre-order the new book 'Tender' now / Something Borrowed podcast) #643 — speakers: Harry Baker
+- 2025-10-31 — Akala (rapper / poet / activist / author) • Friday Rewind
 - 2025-10-29 — Craig Mazin: delivering script notes and dropping science on the small and big screen (Chernobyl / The Last Of Us / Scriptnotes Podcast) #642 — speakers: Craig Mazin
-- 2025-10-23 — Armando Iannucci (The Death Of Stalin / In The Loop / Veep) • Friday Rewind — speakers: Armando Iannucci, Alan Partridge
+- 2025-10-23 — Armando Iannucci (The Death Of Stalin / In The Loop / Veep) • Friday Rewind — speakers: Armando Iannucci
 - 2025-10-21 — Dissecting Disfluency (w/ Cherry Burns) #641 — speakers: Cherry Burns
 - 2025-10-16 — Kevin Smith (Mallrats / Chasing Amy / Clerks) • Friday Rewind — speakers: Kevin Smith
 - 2025-10-14 — Miranda Sawyer: contextualising the music scene of an entire decade (Uncommon People / Talk 90's To Me) #640 — speakers: Miranda Sawyer
-- 2025-10-09 — Action Bronson (rap music / acting / hosting / more...) • Friday Rewind — speakers: Action Bronson
-- 2025-10-07 — Adam Buxton: put on your conversation coat and find your talking hat (Adam Buxton Podcast / Buckle Up / I Love You, Byeee) #639 — speakers: Adam Buxton, homie Adam, Werner Herzog's Zoom, Roger Scruton
-- 2025-10-02 — Spike Lee (Highest 2 Lowest / Do The Right Thing / Malcolm X) • Friday Rewind — speakers: Spike Lee, Jordan Peele, Lee Joint
-- 2025-09-30 — Justin Tipping: you will see Him (Him / Kicks / Flatbush Misdemeanors) #638 — speakers: Jordan Peele
-- 2025-09-25 — Stephen Graham (Adolescence / Boiling Point / The Virtues) • Friday Rewind — speakers: Stephen Graham, Al Capone
-- 2025-09-23 — Christopher Chung: all across the map to Slough House (Slow Horses / Blitz) #637 — speakers: Christopher Chung, Gary Oldman, Kathy Burke
-- 2025-09-18 — Mae Martin (Wayward / Feel Good / Handsome Podcast) • Friday Rewind — speakers: Mae Martin, Feel Good
+- 2025-10-09 — Action Bronson (rap music / acting / hosting / more...) • Friday Rewind
+- 2025-10-07 — Adam Buxton: put on your conversation coat and find your talking hat (Adam Buxton Podcast / Buckle Up / I Love You, Byeee) #639 — speakers: Adam Buxton
+- 2025-10-02 — Spike Lee (Highest 2 Lowest / Do The Right Thing / Malcolm X) • Friday Rewind — speakers: Spike Lee
+- 2025-09-30 — Justin Tipping: you will see Him (Him / Kicks / Flatbush Misdemeanors) #638
+- 2025-09-25 — Stephen Graham (Adolescence / Boiling Point / The Virtues) • Friday Rewind — speakers: Stephen Graham
+- 2025-09-23 — Christopher Chung: all across the map to Slough House (Slow Horses / Blitz) #637 — speakers: Christopher Chung
+- 2025-09-18 — Mae Martin (Wayward / Feel Good / Handsome Podcast) • Friday Rewind — speakers: Mae Martin
 - 2025-09-16 — Chris & Pip's Staylist for CALM (Campaign Against Living Miserably • link in shownotes) #636
-- 2025-09-11 — Karl Pilkington (Ricky Gervais XFM Show / An Idiot Abroad / Derek) • Friday Rewind — speakers: Karl Pilkington, Ricky Gervais, Stephen Merchant
+- 2025-09-11 — Karl Pilkington (Ricky Gervais XFM Show / An Idiot Abroad / Derek) • Friday Rewind — speakers: Karl Pilkington, Ricky Gervais
 - 2025-09-09 — Mark Steel: making gold with tragedy and comedy (The Leopard In My House / The Mark Steel Lectures / Vive La Revolution) #635 — speakers: Mark Steel
 - 2025-09-04 — Lolly Adefope (The Franchise / Ghosts / Shrill) • Friday Rewind
-- 2025-09-02 — Grandmaster Flash: further adventures on the wheels of steel #634 — speakers: Hip Hop, Youtube Heavy Break
+- 2025-09-02 — Grandmaster Flash: further adventures on the wheels of steel #634
 - 2025-08-28 — Wes Borland (Limp Bizkit / Black Light Burns / Big Dumb Face) • Friday Rewind — speakers: Wes Borland
 - 2025-08-26 — Dan Le Sac vs Scroobius Pip: don't call it a comeback! (Live In Places / Repent Replenish Repeat / The Logic Of Chance) #633 — speakers: Dan Le Sac vs
-- 2025-08-21 — Ashley Walters (Adolescence / Top Boy / So Solid Crew) • Friday Rewind — speakers: Ashley Walters, Noel Clarke, Carol Jackson, Lindsey Coulson, Top Boy
-- 2025-08-19 — Rhys James: writing the honest behind the scenes life story of a comedian (You'll Like It When You Get There / Spilt Milk / Mock The Week) #632 — speakers: Rhys James, Adam Buxton
-- 2025-08-14 — Kaitlyn Dever (The Last Of Us / Booksmart / Dopesick) • Friday Rewind — speakers: Kaitlyn Dever, Julia Roberts, George Clooney
+- 2025-08-21 — Ashley Walters (Adolescence / Top Boy / So Solid Crew) • Friday Rewind — speakers: Ashley Walters
+- 2025-08-19 — Rhys James: writing the honest behind the scenes life story of a comedian (You'll Like It When You Get There / Spilt Milk / Mock The Week) #632 — speakers: Rhys James
+- 2025-08-14 — Kaitlyn Dever (The Last Of Us / Booksmart / Dopesick) • Friday Rewind — speakers: Kaitlyn Dever
 - 2025-08-12 — Xelia Mendes-Jones: self-tapes and screens of all sizes (Fallout / Havoc / The Wheel Of Time) #631
-- 2025-08-07 — Stewart Lee (VS The Man Wulf / Comedy Vehicle / Jerry Springer The Opera) • Friday Rewind — speakers: Stewart Lee, Marc Maron
-- 2025-08-06 — Michael Socha (Part 2): a classic two parter for the books with the brilliant actor (The Gallows Pole / Toxic Town / This Is England) #630 — speakers: Michael Socha, Shane Meadows
-- 2025-08-05 — Michael Socha (Part 1): a classic two parter for the books with the brilliant actor (The Gallows Pole / Toxic Town / This Is England) #630 — speakers: Michael Socha, Shane Meadows
-- 2025-07-31 — Louis Theroux (documentaries / podcasts / television) • Friday Rewind — speakers: Louis Theroux, Adam Buxton, Joe Cornish, Gorky’s Zygotic Mynci, Jimmy Saville
-- 2025-07-29 — Lauren Lyle: forging a unique path to primetime, brick by brick (Karen Pirie / Outlander / The Outrun) #629 — speakers: Lauren Lyle, Karen Pirie Outlander, Karen Pirie
-- 2025-07-24 — Kelly Marcel (Saving Mr Banks / Cruella / Venom) • Friday Rewind — speakers: Kelly Marcel, Scroobius Pip, prone squirrel, Tom Hardy, Stephen Spielberg
-- 2025-07-22 — Ralph Ineson: ascending and adjusting, and being a larger than life character, literally (The Fantastic Four / The Office / Nosferatu) #628 — speakers: Ralph Ineson, Thankfully Ralph, Ed Skrein
-- 2025-07-18 — Vicky McClure (This Is England / Insomnia / Line Of Duty) • Friday Rewind — speakers: Vicky McClure, Shane Meadows
+- 2025-08-07 — Stewart Lee (VS The Man Wulf / Comedy Vehicle / Jerry Springer The Opera) • Friday Rewind — speakers: Stewart Lee
+- 2025-08-06 — Michael Socha (Part 2): a classic two parter for the books with the brilliant actor (The Gallows Pole / Toxic Town / This Is England) #630 — speakers: Michael Socha
+- 2025-08-05 — Michael Socha (Part 1): a classic two parter for the books with the brilliant actor (The Gallows Pole / Toxic Town / This Is England) #630 — speakers: Michael Socha
+- 2025-07-31 — Louis Theroux (documentaries / podcasts / television) • Friday Rewind — speakers: Louis Theroux
+- 2025-07-29 — Lauren Lyle: forging a unique path to primetime, brick by brick (Karen Pirie / Outlander / The Outrun) #629 — speakers: Lauren Lyle, Karen Pirie Outlander
+- 2025-07-24 — Kelly Marcel (Saving Mr Banks / Cruella / Venom) • Friday Rewind
+- 2025-07-22 — Ralph Ineson: ascending and adjusting, and being a larger than life character, literally (The Fantastic Four / The Office / Nosferatu) #628 — speakers: Ralph Ineson
+- 2025-07-18 — Vicky McClure (This Is England / Insomnia / Line Of Duty) • Friday Rewind — speakers: Vicky McClure
 - 2025-07-15 — Harry Trevaldwyn: the life and times of a fully fledged Drama King (How To Train Your Dragon / The Acolyte) #627 — speakers: Harry Trevaldwyn, Drama King
 - 2025-07-10 — Joe Gilgun (This Is England / Preacher / Brassic) • Friday Rewind — speakers: Joe Gilgun
-- 2025-07-08 — Kae Tempest • Polarbear • Hollie McNish • Musa Okwonga • Jodi Ann Bickley! #626 — speakers: Ann Bickley, Kae Tempest
-- 2025-07-03 — Bob Vylan (...Presents The Price Of Life / Humble As The Sun) • Friday Rewind — speakers: Bob Vylan, Bobby Vylan
-- 2025-07-01 — Jordan Gray: showrunning, compartmentalising, and loving the craft again (Transaction / Is That A Cock In Your Pocket... / Is It A Bird?) #625 — speakers: Jordan Gray, Edinburgh Fringe, Harry Potter
-- 2025-06-26 — Goldie (Timeless / Metalheadz / D&B legend) • Friday Rewind — speakers: Pip white-knuckles
+- 2025-07-08 — Kae Tempest • Polarbear • Hollie McNish • Musa Okwonga • Jodi Ann Bickley! #626 — speakers: Ann Bickley
+- 2025-07-03 — Bob Vylan (...Presents The Price Of Life / Humble As The Sun) • Friday Rewind — speakers: Bob Vylan
+- 2025-07-01 — Jordan Gray: showrunning, compartmentalising, and loving the craft again (Transaction / Is That A Cock In Your Pocket... / Is It A Bird?) #625 — speakers: Jordan Gray
+- 2025-06-26 — Goldie (Timeless / Metalheadz / D&B legend) • Friday Rewind
 - 2025-06-24 — Danny Boyle: a chat at Curzon, Soho (28 Years Later / Slumdog Millionaire / Trainspotting) #624 — speakers: Danny Boyle
-- 2025-06-19 — Kano (Top Boy / Hoodies All Summer / Made In The Manor) • Friday Rewind — speakers: Mike Skinner, Top Boy, Albert Hall
-- 2025-06-17 — Domhnall Gleeson: the acting continuum and spectrum just about covered in about an hour (Echo Valley / Ex Machina / Frank) #623 — speakers: Domhnall Gleeson, Percy Pigs, Werner Herzog
+- 2025-06-19 — Kano (Top Boy / Hoodies All Summer / Made In The Manor) • Friday Rewind
+- 2025-06-17 — Domhnall Gleeson: the acting continuum and spectrum just about covered in about an hour (Echo Valley / Ex Machina / Frank) #623 — speakers: Domhnall Gleeson
 - 2025-06-12 — James McAvoy (Speak No Evil / Split / His Dark Materials) • Friday Rewind — speakers: James McAvoy
-- 2025-06-10 — Childish Gambino • Run The Jewels • Danny Brown • Open Mike Eagle • Jean Grae! #622 — speakers: Hip Hop, Danny Brown, Mike Eagle, Jean Grae
-- 2025-06-05 — Killer Mike (Run The Jewels & solo) • Friday Rewind — speakers: Killer Mike
-- 2025-06-03 — Renay Richardson: being an author, double mothering and the podcast multiverse ('Human Resources...' book) #621 — speakers: Renay Richardson, Arisa Loomba
-- 2025-05-29 — Ron Perlman (Sons Of Anarchy / Hellboy) • Friday Rewind — speakers: Ron Perlman, Ron down, Guillermo Del Toro
-- 2025-05-27 — Benicio Del Toro: Puerto Rico to Hollywood and dreaming in English (The Phoenician Scheme / The Usual Suspects / Sicario) #620 — speakers: Benicio Del Toro, Wes Anderson
-- 2025-05-22 — Paloma Faith (The Glorification Of Sadness / MILF book) • Friday Rewind — speakers: Paloma Faith
-- 2025-05-20 — Simone Kirby: putting County Clare on the big and small screen map (Kneecap / Peaky Blinders / Calm With Horses) #619 — speakers: Simone Kirby, Enjoy Simone
-- 2025-05-15 — Charlie Brooker (Black Mirror) • Friday Rewind — speakers: Charlie Brooker, Annabel Jones, Nathan Barley
+- 2025-06-10 — Childish Gambino • Run The Jewels • Danny Brown • Open Mike Eagle • Jean Grae! #622
+- 2025-06-05 — Killer Mike (Run The Jewels & solo) • Friday Rewind
+- 2025-06-03 — Renay Richardson: being an author, double mothering and the podcast multiverse ('Human Resources...' book) #621 — speakers: Renay Richardson
+- 2025-05-29 — Ron Perlman (Sons Of Anarchy / Hellboy) • Friday Rewind — speakers: Ron Perlman
+- 2025-05-27 — Benicio Del Toro: Puerto Rico to Hollywood and dreaming in English (The Phoenician Scheme / The Usual Suspects / Sicario) #620 — speakers: Benicio Del Toro
+- 2025-05-22 — Paloma Faith (The Glorification Of Sadness / MILF book) • Friday Rewind
+- 2025-05-20 — Simone Kirby: putting County Clare on the big and small screen map (Kneecap / Peaky Blinders / Calm With Horses) #619 — speakers: Simone Kirby
+- 2025-05-15 — Charlie Brooker (Black Mirror) • Friday Rewind — speakers: Charlie Brooker
 - 2025-05-13 — Goldie Lookin Chain: straight outta Newport (Guns Don't Kill People, Rappers Do) #618 — speakers: Kill People
 - 2025-05-08 — Will Ospreay (professional wrestling royalty) • Friday Rewind — speakers: Will Ospreay
 - 2025-05-06 — Failing In Plain Sight (a solo Pip update) #617
@@ -19633,37 +18388,37 @@
 - 2025-04-29 — Grace Neutral: transcending the tattoo universe with inclusivity and safety (Femme Fatale Tattoo) #616 — speakers: Grace Neutral
 - 2025-04-24 — Alan Moore (Swamp Thing / V For Vendetta / Watchmen) • Friday Rewind — speakers: Alan Moore
 - 2025-04-22 — Climate activist ROSIE HAMPTON (Climate Solutions For Realists miniseries Part 4) #615 — speakers: Rosie Hampton
-- 2025-04-17 — John Cooper Clarke (The Bard Of Salford / The Luckiest Guy Alive / Chickentown) • Friday Rewind — speakers: John Cooper Clarke, Bernard Manning, Michael Madson
+- 2025-04-17 — John Cooper Clarke (The Bard Of Salford / The Luckiest Guy Alive / Chickentown) • Friday Rewind — speakers: John Cooper Clarke
 - 2025-04-15 — Greenpeace CEO AREEBA HAMID (Climate Solutions For Realists miniseries Part 3) #614 — speakers: Areeba Hamid
 - 2025-04-10 — Sofia Boutella (Rebel Moon / Cimax / Kingsman) • Friday Rewind — speakers: Sofia Boutella, Rebel Moon Cimax Kingsman
-- 2025-04-08 — Climate journalist DAISY DUNNE (Climate Solutions For Realists miniseries Part 2) #613 — speakers: Daisy Dunne, James Skeet, Carbon Brief
+- 2025-04-08 — Climate journalist DAISY DUNNE (Climate Solutions For Realists miniseries Part 2) #613 — speakers: Daisy Dunne
 - 2025-04-03 — Mike Skinner (The Streets / The Beats Recordings / The DOT) • Friday Rewind — speakers: Mike Skinner
 - 2025-04-01 — Just Stop Oil's JAMES SKEET (Climate Solutions For Realists miniseries Part 1) #612 — speakers: James Skeet
-- 2025-03-28 — Martin Freeman (The Office/ The Hobbit / Fargo) • Friday Rewind — speakers: Martin Freeman, Hitchhikers Guide
+- 2025-03-28 — Martin Freeman (The Office/ The Hobbit / Fargo) • Friday Rewind — speakers: Martin Freeman
 - 2025-03-26 — Alex Horne: a cosy broadcast from the Taskmaster caravan (Taskmaster / The Horne Section / No More Jockeys) #611 — speakers: Alex Horne
-- 2025-03-21 — Kathy Burke (Where There's A Will There's A Wake / Blitz / Nil By Mouth) • Friday Rewind — speakers: Kathy Burke, Gary Oldman
+- 2025-03-21 — Kathy Burke (Where There's A Will There's A Wake / Blitz / Nil By Mouth) • Friday Rewind — speakers: Kathy Burke
 - 2025-03-19 — Joe Talbot (Idles): fighting the good fight, but peacefully #610 — speakers: Joe Talbot
-- 2025-03-14 — Robert Sheehan (The Umbrella Academy / Young Offenders / Mortal Engines) • Friday Rewind — speakers: Robert Sheehan, Jet Trash
-- 2025-03-12 — Kate Nash & Maedb Joy: sex work is work, and not exclusive to artistry #609 — speakers: Kate Nash
-- 2025-03-07 — Cosmo Jarvis (Shogun / Calm With Horses / Lady Macbeth) • Friday Rewind — speakers: Cosmo Jarvis, Niamh Algar, Lady Macbeth, Peaky Blinders
-- 2025-03-05 — John Robins: the many moods of podcasting, mental health, and Wordle (Elis & John / How Do You Cope / Howl) #608 — speakers: John Robins, Lou Sanders, Bonnie Prince Billy
-- 2025-02-28 — Florence Pugh (We Live In Time / Midsommar / Don't Worry Darling) • Friday Rewind — speakers: Florence Pugh, Worry Darling, Lady Macbeth, Peaky Blinders
-- 2025-02-26 — Frank Carter: becoming a Sex Pistol and living a thousand lives (Gallows / Ratlesnakes / Pure Love / Rose Of Mercy) #607 — speakers: Frank Carter, Sex Pistols, Frank catch
+- 2025-03-14 — Robert Sheehan (The Umbrella Academy / Young Offenders / Mortal Engines) • Friday Rewind — speakers: Robert Sheehan
+- 2025-03-12 — Kate Nash & Maedb Joy: sex work is work, and not exclusive to artistry #609
+- 2025-03-07 — Cosmo Jarvis (Shogun / Calm With Horses / Lady Macbeth) • Friday Rewind
+- 2025-03-05 — John Robins: the many moods of podcasting, mental health, and Wordle (Elis & John / How Do You Cope / Howl) #608 — speakers: John Robins
+- 2025-02-28 — Florence Pugh (We Live In Time / Midsommar / Don't Worry Darling) • Friday Rewind — speakers: Florence Pugh, Worry Darling
+- 2025-02-26 — Frank Carter: becoming a Sex Pistol and living a thousand lives (Gallows / Ratlesnakes / Pure Love / Rose Of Mercy) #607 — speakers: Frank Carter
 - 2025-02-21 — Riz Ahmed (Sound Of Metal / Nimona / Venom) • Friday Rewind — speakers: Riz Ahmed
 - 2025-02-19 — Cody Frost: from bedroom to tattoo studio to stage, leaving no genre unchecked (Anatomy / Alligator / Process) #606 — speakers: Cody Frost
-- 2025-02-14 — Michael Fassbender (The Killer / Shame / Kneecap / X-Men) • Friday Rewind — speakers: Michael Fassbender, Tomas Alfredson, Jo Nesbø
+- 2025-02-14 — Michael Fassbender (The Killer / Shame / Kneecap / X-Men) • Friday Rewind — speakers: Michael Fassbender
 - 2025-02-12 — Ayesha Hussain: Stuntwoman making actual history in front of us (Deadpool & Wolverine / Gladiator II / The Acolyte) #605 — speakers: Ayesha Hussain
-- 2025-02-07 — Roots Manuva (UK Hip Hop legend) • Friday Rewind — speakers: Roots Manuva, Hip Hop
-- 2025-02-05 — Christopher Macarthur-Boyd: Fringes, podcasts and the journey through comedy (Here Comes The Guillotine) #604 — speakers: Christopher Macarthur-Boyd, Frankie Boyle, Susie McCabe, Scroobius Pip
+- 2025-02-07 — Roots Manuva (UK Hip Hop legend) • Friday Rewind — speakers: Roots Manuva
+- 2025-02-05 — Christopher Macarthur-Boyd: Fringes, podcasts and the journey through comedy (Here Comes The Guillotine) #604 — speakers: Christopher Macarthur-Boyd
 - 2025-01-31 — Howard Marks (Mr. Nice) • Friday Rewind — speakers: Howard Marks
-- 2025-01-29 — TV Shows Of The Year 2024: featuring John & Joel of The Dream Factory #603 — speakers: John Joel, Producer Buddy
-- 2025-01-24 — Coralie Fargeat (The Substance / Revenge) & Matilda Lutz (Revenge / Magpie) • Friday Rewind — speakers: Matilda Lutz, Coralie Fargeat, David Cronenberg
+- 2025-01-29 — TV Shows Of The Year 2024: featuring John & Joel of The Dream Factory #603 — speakers: John Joel
+- 2025-01-24 — Coralie Fargeat (The Substance / Revenge) & Matilda Lutz (Revenge / Magpie) • Friday Rewind
 - 2025-01-22 — Films Of The Year 2024: Pip's personal roundup of 2024's finest films #602
 - 2025-01-17 — Limmy (Limmy's Show / Twitch & Youtube legend) • Friday Rewind
 - 2025-01-15 — Rob Auton: The importance of positive internal monologue, and staying hydrated (poetry / standup) #601 — speakers: Rob Auton
-- 2025-01-10 — Michaela Coel (I May Destroy You / Chewing Gum / Black Earth Rising) • Friday Rewind — speakers: Michaela Coel, John Goodman
-- 2025-01-08 — Jesse Eisenberg: Movies are alive, follow your instincts (A Real Pain, The Social Network, Zombieland) #600 — speakers: Jesse Eisenberg, Jesse Eiseinberg, Kieran Culkin, You'RE Finished Saving
-- 2025-01-03 — Barry Keoghan (Saltburn / Bird / Banshees Of Inisherin) • Friday Rewind — speakers: Barry Keoghan, Bart Layton
+- 2025-01-10 — Michaela Coel (I May Destroy You / Chewing Gum / Black Earth Rising) • Friday Rewind — speakers: Michaela Coel
+- 2025-01-08 — Jesse Eisenberg: Movies are alive, follow your instincts (A Real Pain, The Social Network, Zombieland) #600 — speakers: Jesse Eisenberg
+- 2025-01-03 — Barry Keoghan (Saltburn / Bird / Banshees Of Inisherin) • Friday Rewind — speakers: Barry Keoghan
 - 2025-01-01 — Hangovercast 2024 w/ Chris & Stu • Part 7/7
 - 2024-12-27 — Drunkast 2024 w/ Chris & Stu • Part 6/7
 - 2024-12-26 — Drunkast 2024 w/ Chris & Stu • Part 5/7
@@ -19671,686 +18426,686 @@
 - 2024-12-20 — Drunkast 2024 w/ Chris & Stu • Part 3/7
 - 2024-12-19 — Drunkast 2024 w/ Chris & Stu • Part 2/7
 - 2024-12-18 — Drunkast 2024 w/ Chris & Stu • Part 1/7
-- 2024-12-11 — Ruth Husko (writer / podcaster / tweetgenius) #598 — speakers: Ruth Husko, Twitter treasure Ruth, Norm Macdonald, Stewart Lee, Chris Morris, Richard Herring, Yung Pip
+- 2024-12-11 — Ruth Husko (writer / podcaster / tweetgenius) #598 — speakers: Ruth Husko
 - 2024-12-04 — Alex Edelman (standup / podcasts / Just For Us) #597 — speakers: Alex Edelman
 - 2024-11-27 — Danny Wallace (Somebody Told Me / Yes Man / Who Is Tom Ditto) #596 — speakers: Danny Wallace, Tom Ditto
-- 2024-11-20 — Ben Bailey Smith aka Doc Brown (Andor / David Brent: Life On The Road / rap / standup) #595 — speakers: Ben Bailey Smith, Doc Brown, Tony Bones
-- 2024-11-13 — Andrew Ellis (This Is England / The Walk-In / Boiling Point) #594 — speakers: Andrew Ellis, Stephen Graham
-- 2024-11-06 — Poppy Hillstead (Brainwash Me / ...Has Entered The Chat) #593 — speakers: Brainwash Me
-- 2024-10-30 — Joey Page (Got A Problem Mate / standup) #592 — speakers: Joey Page, Nick Helm, Bilal Zafar
+- 2024-11-20 — Ben Bailey Smith aka Doc Brown (Andor / David Brent: Life On The Road / rap / standup) #595 — speakers: Ben Bailey Smith, Doc Brown
+- 2024-11-13 — Andrew Ellis (This Is England / The Walk-In / Boiling Point) #594 — speakers: Andrew Ellis
+- 2024-11-06 — Poppy Hillstead (Brainwash Me / ...Has Entered The Chat) #593
+- 2024-10-30 — Joey Page (Got A Problem Mate / standup) #592 — speakers: Joey Page
 - 2024-10-21 — Jane Powell (STAMMA chief executive) #591 — speakers: Jane Powell
-- 2024-10-15 — Alice Lowe & Nick Frost (Timestalker) #590 — speakers: Alice Lowe, Nick Frost, Alice Instagram Nick
+- 2024-10-15 — Alice Lowe & Nick Frost (Timestalker) #590
 - 2024-10-09 — Harry Lawtey (Pt. 2) (Joker Folie A Deux / Industry / The Pale Blue Eye) #589 — speakers: Harry Lawtey
 - 2024-10-08 — Harry Lawtey (Pt. 1) (Joker Folie A Deux / Industry / The Pale Blue Eye) #589 — speakers: Harry Lawtey
 - 2024-10-01 — Hollie McNish • Distraction Pieces Podcast with Scroobius Pip #588
-- 2024-09-24 — Stuart Goldsmith • Distraction Pieces Podcast with Scroobius Pip #587 — speakers: Stuart Goldsmith Distraction Pieces, Stuart Goldsmith
-- 2024-09-17 — Jamali Maddix • Distraction Pieces Podcast with Scroobius Pip #586 — speakers: Louis Theroux, Jamali Maddix
-- 2024-09-10 — Frankie Boyle • Distraction Pieces Podcast with Scroobius Pip #585 — speakers: Frank Quitely
+- 2024-09-24 — Stuart Goldsmith • Distraction Pieces Podcast with Scroobius Pip #587 — speakers: Stuart Goldsmith Distraction Pieces
+- 2024-09-17 — Jamali Maddix • Distraction Pieces Podcast with Scroobius Pip #586
+- 2024-09-10 — Frankie Boyle • Distraction Pieces Podcast with Scroobius Pip #585
 - 2024-09-03 — Rosco McClelland • Distraction Pieces Podcast with Scroobius Pip #584 — speakers: Rosco McClelland Distraction Pieces
-- 2024-08-27 — Phil Wang • Distraction Pieces Podcast with Scroobius Pip #583 — speakers: Phil Wang Distraction Pieces, Taylor Mali Speech
-- 2024-08-20 — Thomas Coombes • Distraction Pieces Podcast with Scroobius Pip #582 — speakers: Stephen Grahame
-- 2024-08-13 — The Soundman Jim Episode • Distraction Pieces Podcast with Scroobius Pip #581 — speakers: Hardcore Listing, Dan Le Sac vs
+- 2024-08-27 — Phil Wang • Distraction Pieces Podcast with Scroobius Pip #583 — speakers: Phil Wang Distraction Pieces
+- 2024-08-20 — Thomas Coombes • Distraction Pieces Podcast with Scroobius Pip #582
+- 2024-08-13 — The Soundman Jim Episode • Distraction Pieces Podcast with Scroobius Pip #581
 - 2024-08-06 — Paul Foot • Distraction Pieces Podcast with Scroobius Pip #580
-- 2024-07-30 — Sophie Duker • Distraction Pieces Podcast with Scroobius Pip #579 — speakers: Fringe Show
+- 2024-07-30 — Sophie Duker • Distraction Pieces Podcast with Scroobius Pip #579
 - 2024-07-23 — Rob Delaney • Distraction Pieces Podcast with Scroobius Pip #578
-- 2024-07-16 — The Acolyte & H.O.T.D. Special (w/Chris) • Distraction Pieces Podcast with Scroobius Pip #577 — speakers: Hardcore Listing
-- 2024-07-09 — Steven Ogg • Distraction Pieces Podcast with Scroobius Pip #576 — speakers: Steven Ogg
-- 2024-07-02 — Steve Stamp & Allan Seapa Mustafa • Distraction Pieces Podcast with Scroobius Pip #575 — speakers: Steve Stamp Allan, Top Boy
-- 2024-06-27 — Pride Month Rewind 4 • Kae Tempest • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Happy, Kae Tempest
-- 2024-06-25 — Stevie Martin • Distraction Pieces Podcast with Scroobius Pip #574 — speakers: Stevie Martin
-- 2024-06-20 — Pride Month Rewind 3 • Mae Martin • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Happy, Mae Martin, Feel Good
-- 2024-06-18 — Jeff Nichols • Distraction Pieces Podcast with Scroobius Pip #573 — speakers: Jeff Nichols Distraction Pieces, Jeff Nichols, Michael Shannon
-- 2024-06-13 — Pride Month Rewind 2 • Jordan Gray aka Tall Dark Friend • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Happy, Jordan Gray
+- 2024-07-16 — The Acolyte & H.O.T.D. Special (w/Chris) • Distraction Pieces Podcast with Scroobius Pip #577
+- 2024-07-09 — Steven Ogg • Distraction Pieces Podcast with Scroobius Pip #576
+- 2024-07-02 — Steve Stamp & Allan Seapa Mustafa • Distraction Pieces Podcast with Scroobius Pip #575 — speakers: Steve Stamp Allan
+- 2024-06-27 — Pride Month Rewind 4 • Kae Tempest • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Happy
+- 2024-06-25 — Stevie Martin • Distraction Pieces Podcast with Scroobius Pip #574
+- 2024-06-20 — Pride Month Rewind 3 • Mae Martin • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Happy
+- 2024-06-18 — Jeff Nichols • Distraction Pieces Podcast with Scroobius Pip #573 — speakers: Jeff Nichols Distraction Pieces
+- 2024-06-13 — Pride Month Rewind 2 • Jordan Gray aka Tall Dark Friend • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Happy
 - 2024-06-11 — Sara Barron • Distraction Pieces Podcast with Scroobius Pip #572
-- 2024-06-06 — Pride Month Rewind 1 • Michael Cashman • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Happy, Michael Cashman, Ian McKellen
+- 2024-06-06 — Pride Month Rewind 1 • Michael Cashman • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Happy
 - 2024-06-04 — Michelle De Swarte • Distraction Pieces Podcast with Scroobius Pip #571
 - 2024-05-28 — We Need You! (w/ James Houston aka 1030) • Distraction Pieces Podcast with Scroobius Pip #570 — speakers: James Houston
-- 2024-05-21 — Bec Hill • Distraction Pieces Podcast with Scroobius Pip #569 — speakers: Bec Hill, Makeaway Takeaway
-- 2024-05-14 — Picklebee aka Beth Douglas • Distraction Pieces Podcast with Scroobius Pip #568 — speakers: Twitch pro, Beth Douglas
+- 2024-05-21 — Bec Hill • Distraction Pieces Podcast with Scroobius Pip #569
+- 2024-05-14 — Picklebee aka Beth Douglas • Distraction Pieces Podcast with Scroobius Pip #568
 - 2024-05-07 — John Bradley • Distraction Pieces Podcast with Scroobius Pip #567 — speakers: John Bradley Distraction Pieces
-- 2024-04-30 — Suzi Ruffell • Distraction Pieces Podcast with Scroobius Pip #566 — speakers: Suzi Ruffell Distraction Pieces, Bake Off, Enjoy Suzi
+- 2024-04-30 — Suzi Ruffell • Distraction Pieces Podcast with Scroobius Pip #566 — speakers: Suzi Ruffell Distraction Pieces
 - 2024-04-23 — Ed Skrein • Distraction Pieces Podcast with Scroobius Pip #565
 - 2024-04-16 — Sofie Hagen • Distraction Pieces Podcast with Scroobius Pip #564 — speakers: Sofie Hagen Distraction Pieces
-- 2024-04-09 — Ask Pip • Distraction Pieces Podcast with Scroobius Pip #563 — speakers: Pepsi Max, Slingsbury Gin
+- 2024-04-09 — Ask Pip • Distraction Pieces Podcast with Scroobius Pip #563
 - 2024-04-02 — B. Dolan • Distraction Pieces Podcast with Scroobius Pip #562
-- 2024-03-27 — Bobby Vylan • Distraction Pieces Podcast with Scroobius Pip #561 — speakers: Bobby Vylan
+- 2024-03-27 — Bobby Vylan • Distraction Pieces Podcast with Scroobius Pip #561
 - 2024-03-20 — Wunmi Mosaku • Distraction Pieces Podcast with Scroobius Pip #560
 - 2024-03-13 — Manga Saint Hilare • Distraction Pieces Podcast with Scroobius Pip #559 — speakers: Manga Saint
-- 2024-03-06 — John Pointing • Distraction Pieces Podcast with Scroobius Pip #558 — speakers: Jack Rooke
-- 2024-03-01 — TV Shows Of The Year 2023 (w/ John Harris & Joel Grove) • Distraction Pieces Podcast with Scroobius Pip #557 — speakers: John Harris Joel Grove, Producer Buddy
-- 2024-02-28 — Gareth Edwards • Distraction Pieces Podcast with Scroobius Pip #556 — speakers: Gareth Edwards, Peter Jackson
-- 2024-02-21 — Peter Capaldi • Distraction Pieces Podcast with Scroobius Pip #555 — speakers: Peter Capaldi Distraction Pieces, Peter Capaldi, Malcolm Tucker, Lewis Capaldi
-- 2024-02-14 — Kingsley Ben-Adir • Distraction Pieces Podcast with Scroobius Pip #554 — speakers: Bob Marley
-- 2024-02-07 — David Holmes • Distraction Pieces Podcast with Scroobius Pip #553 — speakers: David Holmes Distraction Pieces, Davd Holmes
+- 2024-03-06 — John Pointing • Distraction Pieces Podcast with Scroobius Pip #558
+- 2024-03-01 — TV Shows Of The Year 2023 (w/ John Harris & Joel Grove) • Distraction Pieces Podcast with Scroobius Pip #557 — speakers: John Harris Joel Grove, Pip ma
+- 2024-02-28 — Gareth Edwards • Distraction Pieces Podcast with Scroobius Pip #556
+- 2024-02-21 — Peter Capaldi • Distraction Pieces Podcast with Scroobius Pip #555 — speakers: Peter Capaldi Distraction Pieces
+- 2024-02-14 — Kingsley Ben-Adir • Distraction Pieces Podcast with Scroobius Pip #554
+- 2024-02-07 — David Holmes • Distraction Pieces Podcast with Scroobius Pip #553 — speakers: David Holmes Distraction Pieces
 - 2024-01-31 — Marjolein Robertson • Distraction Pieces Podcast with Scroobius Pip #552 — speakers: Marjolein Robertson Distraction Pieces
-- 2024-01-24 — Andrew Haigh • Distraction Pieces Podcast with Scroobius Pip #551 — speakers: Andrew Haigh
+- 2024-01-24 — Andrew Haigh • Distraction Pieces Podcast with Scroobius Pip #551
 - 2024-01-16 — Samuel T. Herring (Future Islands) • Distraction Pieces Podcast with Scroobius Pip #550
-- 2024-01-09 — Joel Edegerton • Distraction Pieces Podcast with Scroobius Pip #549 — speakers: Joel Edegerton Distraction Pieces, Barrys Jenkins
-- 2024-01-02 — Films Of The Year 2023 • Distraction Pieces Podcast with Scroobius Pip #548 — speakers: Yung Pip
+- 2024-01-09 — Joel Edegerton • Distraction Pieces Podcast with Scroobius Pip #549 — speakers: Joel Edegerton Distraction Pieces
+- 2024-01-02 — Films Of The Year 2023 • Distraction Pieces Podcast with Scroobius Pip #548
 - 2023-12-27 — Drunkast 2023 w/ Chris & Stu • Part 5/5 — speakers: Scroobius Pip
 - 2023-12-26 — Drunkast 2023 w/ Chris & Stu • Part 4/5 — speakers: Scroobius Pip
 - 2023-12-22 — Drunkast 2023 w/ Chris & Stu • Part 3/5 — speakers: Scroobius Pip
 - 2023-12-21 — Drunkast 2023 w/ Chris & Stu • Part 2/5 — speakers: Scroobius Pip
 - 2023-12-20 — Drunkast 2023 w/ Chris & Stu • Part 1/5 — speakers: Scroobius Pip
-- 2023-12-13 — Thomas Turgoose • Distraction Pieces Podcast with Scroobius Pip #546 — speakers: Thomas Turgoose Distraction Pieces, Scroobius Pip, Thomas Turgoose, Shane Meadows, Stephen Graham
+- 2023-12-13 — Thomas Turgoose • Distraction Pieces Podcast with Scroobius Pip #546 — speakers: Thomas Turgoose Distraction Pieces, Scroobius Pip
 - 2023-12-08 — Rosie Marcel (the lost episode) • Distraction Pieces Podcast with Scroobius Pip #545 — speakers: Rosie Marcel
 - 2023-12-06 — Rosie Marcel • Distraction Pieces Podcast with Scroobius Pip #544
-- 2023-12-01 — William Oldroyd • Distraction Pieces Podcast with Scroobius Pip #543 — speakers: William Oldroyd Distraction Pieces, William Oldroyd, Lady Macbeth
-- 2023-11-29 — Bilal Zafar • Distraction Pieces Podcast with Scroobius Pip #542 — speakers: Chris Morris, Pro Evo Soccer
+- 2023-12-01 — William Oldroyd • Distraction Pieces Podcast with Scroobius Pip #543 — speakers: William Oldroyd Distraction Pieces
+- 2023-11-29 — Bilal Zafar • Distraction Pieces Podcast with Scroobius Pip #542
 - 2023-11-22 — Josh Weller • Distraction Pieces Podcast with Scroobius Pip #541
-- 2023-11-15 — Emerald Fennell • Distraction Pieces Podcast with Scroobius Pip #540 — speakers: Emerald Fennell Distraction Pieces, Emerald Fennell
+- 2023-11-15 — Emerald Fennell • Distraction Pieces Podcast with Scroobius Pip #540 — speakers: Emerald Fennell Distraction Pieces
 - 2023-11-08 — Lowkey • Distraction Pieces Podcast with Scroobius Pip #539
 - 2023-11-01 — Aodh Breathnach • Distraction Pieces Podcast with Scroobius Pip #538
-- 2023-10-24 — Philip Barantini • Distraction Pieces Podcast with Scroobius Pip #537 — speakers: Philip Barantini Distraction Pieces, Philip Barantini, Stephen Grahame
-- 2023-10-17 — Underrated TV Shows (w/ Jed Shepherd, Chris & Stu) • Distraction Pieces Podcast with Scroobius Pip #536 — speakers: Jed Shepherd, Alice Lowe
-- 2023-10-10 — Steven Ogg • Distraction Pieces Podcast with Scroobius Pip #535 — speakers: Buddha Steven Ogg
-- 2023-10-03 — Laura Checkley • Distraction Pieces Podcast with Scroobius Pip #534 — speakers: Laura Checkley Distraction Pieces, Laura Checkley
+- 2023-10-24 — Philip Barantini • Distraction Pieces Podcast with Scroobius Pip #537 — speakers: Philip Barantini Distraction Pieces
+- 2023-10-17 — Underrated TV Shows (w/ Jed Shepherd, Chris & Stu) • Distraction Pieces Podcast with Scroobius Pip #536 — speakers: Jed Shepherd
+- 2023-10-10 — Steven Ogg • Distraction Pieces Podcast with Scroobius Pip #535
+- 2023-10-03 — Laura Checkley • Distraction Pieces Podcast with Scroobius Pip #534 — speakers: Laura Checkley Distraction Pieces
 - 2023-09-29 — The Thank You Episode
 - 2023-09-26 — Psychedelics w/ Andy Mitchell • Distraction Pieces Podcast with Scroobius Pip #533 — speakers: Andy Mitchell Distraction Pieces
-- 2023-09-19 — Otto Baxter • Distraction Pieces Podcast with Scroobius Pip #532 — speakers: Otto Baxter Distraction Pieces, Peter Beard, Otto Baxter, Horror Story
+- 2023-09-19 — Otto Baxter • Distraction Pieces Podcast with Scroobius Pip #532 — speakers: Otto Baxter Distraction Pieces
 - 2023-09-12 — Andi Osho • Distraction Pieces Podcast with Scroobius Pip #531
-- 2023-09-05 — Susan Wokoma • Distraction Pieces Podcast with Scroobius Pip #530 — speakers: Susan jumps back, Helen Mirren, Deborah Frances-White
+- 2023-09-05 — Susan Wokoma • Distraction Pieces Podcast with Scroobius Pip #530
 - 2023-08-29 — Josh Pugh • Distraction Pieces Podcast with Scroobius Pip #529
 - 2023-08-22 — Shaggy • Distraction Pieces Podcast with Scroobius Pip #528
 - 2023-08-15 — Open Mike Eagle • Distraction Pieces Podcast with Scroobius Pip #527
 - 2023-08-08 — Lou Sanders • Distraction Pieces Podcast with Scroobius Pip #526
 - 2023-08-01 — Josie Long • Distraction Pieces Podcast with Scroobius Pip #525
 - 2023-07-25 — Sasha Lane • Distraction Pieces Podcast with Scroobius Pip #524
-- 2023-07-20 — Grassroots Music Venue Special • Distraction Pieces Podcast with Scroobius Pip #523 — speakers: Sam Dabb
-- 2023-07-18 — Lloyd Griffith • Distraction Pieces Podcast with Scroobius Pip #522 — speakers: Jack Whitehall, Edinburgh Fringe
-- 2023-07-11 — Pom Klementieff • Distraction Pieces Podcast with Scroobius Pip #521 — speakers: Pom Klementieff Distraction Pieces, Suicide Squad, Spike Lee, Simon Pegg, Tom Cruise
+- 2023-07-20 — Grassroots Music Venue Special • Distraction Pieces Podcast with Scroobius Pip #523
+- 2023-07-18 — Lloyd Griffith • Distraction Pieces Podcast with Scroobius Pip #522
+- 2023-07-11 — Pom Klementieff • Distraction Pieces Podcast with Scroobius Pip #521 — speakers: Pom Klementieff Distraction Pieces
 - 2023-07-04 — Rhys James • Distraction Pieces Podcast with Scroobius Pip #520
 - 2023-06-27 — Pride Film Club • Distraction Pieces Podcast with Scroobius Pip #519
-- 2023-06-20 — Bridget Christie • Distraction Pieces Podcast with Scroobius Pip #518 — speakers: Bridget Christie
+- 2023-06-20 — Bridget Christie • Distraction Pieces Podcast with Scroobius Pip #518
 - 2023-06-13 — Trevor & Simon • Distraction Pieces Podcast with Scroobius Pip #517
-- 2023-06-06 — Dr Nishant Joshi • Distraction Pieces Podcast with Scroobius Pip #516 — speakers: Dr Nishant
-- 2023-05-30 — Jon Ronson • Distraction Pieces Podcast with Scroobius Pip #515 — speakers: Jon Ronson, Louis Theroux, Adam Curtis, Nick Broomfield
+- 2023-06-06 — Dr Nishant Joshi • Distraction Pieces Podcast with Scroobius Pip #516
+- 2023-05-30 — Jon Ronson • Distraction Pieces Podcast with Scroobius Pip #515
 - 2023-05-23 — Balmer (autism, parenting, Twitch) • Distraction Pieces Podcast with Scroobius Pip #514
 - 2023-05-16 — Florence & Reed (Come Curious) • Distraction Pieces Podcast with Scroobius Pip #513
-- 2023-05-09 — James Acaster • Distraction Pieces Podcast with Scroobius Pip #512 — speakers: James Acaster, Youtube Dpp
-- 2023-05-02 — Anna Bogutskaya • Distraction Pieces Podcast with Scroobius Pip #511 — speakers: Anna Bogutskaya Distraction Pieces, Anna Bogutskaya
-- 2023-04-25 — Fantasy Film Casting (w/Chris & Stu) • Distraction Pieces Podcast with Scroobius Pip #510 — speakers: Fantasy Film Casting, Hardcore Listing
-- 2023-04-18 — Johnny Harris • Distraction Pieces Podcast with Scroobius Pip #509 — speakers: Johnny Harris Distraction Pieces, Johnny Harris
+- 2023-05-09 — James Acaster • Distraction Pieces Podcast with Scroobius Pip #512
+- 2023-05-02 — Anna Bogutskaya • Distraction Pieces Podcast with Scroobius Pip #511 — speakers: Anna Bogutskaya Distraction Pieces
+- 2023-04-25 — Fantasy Film Casting (w/Chris & Stu) • Distraction Pieces Podcast with Scroobius Pip #510 — speakers: Fantasy Film Casting
+- 2023-04-18 — Johnny Harris • Distraction Pieces Podcast with Scroobius Pip #509 — speakers: Johnny Harris Distraction Pieces
 - 2023-04-11 — John Kearns • Distraction Pieces Podcast with Scroobius Pip #508 — speakers: John Kearns Distraction Pieces
 - 2023-04-04 — Drunk Women Solving Crime • Distraction Pieces Podcast with Scroobius Pip #507
-- 2023-03-28 — Rou Reynolds • Distraction Pieces Podcast with Scroobius Pip #506 — speakers: Rou Reynolds Distraction Pieces, Enter Shikari, Rou Reynolds
-- 2023-03-22 — Brandon Cronenberg • Distraction Pieces Podcast with Scroobius Pip #505 — speakers: Brandon Cronenberg
+- 2023-03-28 — Rou Reynolds • Distraction Pieces Podcast with Scroobius Pip #506 — speakers: Rou Reynolds Distraction Pieces
+- 2023-03-22 — Brandon Cronenberg • Distraction Pieces Podcast with Scroobius Pip #505
 - 2023-03-15 — Bisha K. Ali • Distraction Pieces Podcast with Scroobius Pip #504
-- 2023-03-08 — Natalia Tena • Distraction Pieces Podcast with Scroobius Pip #503 — speakers: Harry Potter, John Wick, Imdb Instagram Twitter
-- 2023-03-01 — Saul Williams & Anisia Uzeyman • Distraction Pieces Podcast with Scroobius Pip #502 — speakers: Saul Williams
+- 2023-03-08 — Natalia Tena • Distraction Pieces Podcast with Scroobius Pip #503
+- 2023-03-01 — Saul Williams & Anisia Uzeyman • Distraction Pieces Podcast with Scroobius Pip #502
 - 2023-02-22 — Ask Pip • Distraction Pieces Podcast with Scroobius Pip #501
-- 2023-02-17 — DPP Episode 500! (Part 2 of 2) • Distraction Pieces Podcast with Scroobius Pip #500 — speakers: Join Pip, Buddy Peace
-- 2023-02-15 — DPP Episode 500! (Part 1 of 2) • Distraction Pieces Podcast with Scroobius Pip #500 — speakers: Join Pip, Buddy Peace
-- 2023-02-08 — Darren McGarvey aka Loki • Distraction Pieces Podcast with Scroobius Pip #499 — speakers: Darren McGarvey, Rutger Bregman, Emma Dabiri
-- 2023-02-01 — Amar Chadha-Patel • Distraction Pieces Podcast with Scroobius Pip #498 — speakers: Amar Chadha-Patel
+- 2023-02-17 — DPP Episode 500! (Part 2 of 2) • Distraction Pieces Podcast with Scroobius Pip #500 — speakers: Join Pip
+- 2023-02-15 — DPP Episode 500! (Part 1 of 2) • Distraction Pieces Podcast with Scroobius Pip #500 — speakers: Join Pip
+- 2023-02-08 — Darren McGarvey aka Loki • Distraction Pieces Podcast with Scroobius Pip #499 — speakers: Darren McGarvey
+- 2023-02-01 — Amar Chadha-Patel • Distraction Pieces Podcast with Scroobius Pip #498
 - 2023-01-27 — End Of Year Drunkast w/ Chris & Stu 2022 • Part 5
 - 2023-01-26 — End Of Year Drunkast w/ Chris & Stu 2022 • Part 4
 - 2023-01-26 — End Of Year Drunkast w/ Chris & Stu 2022 • Part 3
 - 2023-01-25 — End Of Year Drunkast w/ Chris & Stu 2022 • Part 2
 - 2023-01-25 — End Of Year Drunkast w/ Chris & Stu 2022 • Part 1
-- 2023-01-18 — William Regal • Distraction Pieces Podcast with Scroobius Pip #496 — speakers: William Regal
+- 2023-01-18 — William Regal • Distraction Pieces Podcast with Scroobius Pip #496
 - 2023-01-13 — Lenny Rush • Distraction Pieces Podcast with Scroobius Pip #495
 - 2023-01-11 — Ruth Madeley • Distraction Pieces Podcast with Scroobius Pip #494
 - 2023-01-04 — Films Of The Year 2022 • Distraction Pieces Podcast with Scroobius Pip #493
 - 2022-12-28 — TV Shows Of The Year 2022 (w/ John Harris & Joel Grove) • Distraction Pieces Podcast with Scroobius Pip #492 — speakers: John Harris Joel Grove
-- 2022-12-21 — Rian Johnson • Distraction Pieces Podcast with Scroobius Pip #491 — speakers: Knives Out
-- 2022-12-14 — Three Wise Men of Podcasting with Adam Buxton & Richard Herring (2 of 2) • Distraction Pieces Podcast with Scroobius Pip #490
-- 2022-12-14 — Three Wise Men of Podcasting with Adam Buxton & Richard Herring (1 of 2) • Distraction Pieces Podcast with Scroobius Pip #490
-- 2022-12-09 — Bloomsbury Football w/Rio & Charlie • Distraction Pieces Podcast with Scroobius Pip #489 — speakers: Rio Rosenberg, Charlie Hyman
-- 2022-12-07 — Xmas Drinks w/Polar & Musa (2 of 2) • Distraction Pieces Podcast with Scroobius Pip #488 — speakers: Xmas Drinks, Kae Tempest
-- 2022-12-07 — Xmas Drinks w/Polar & Musa (1 of 2) • Distraction Pieces Podcast with Scroobius Pip #488 — speakers: Xmas Drinks, Kae Tempest
-- 2022-12-02 — Inbetweeners Special w/Joe & Simon • Distraction Pieces Podcast with Scroobius Pip #487 — speakers: Joe Thomas, Simon Bird
-- 2022-11-30 — John Hathaway • Distraction Pieces Podcast with Scroobius Pip #486 — speakers: John Hathaway, Instagram Espn
-- 2022-11-23 — Jack Spring • Distraction Pieces Podcast with Scroobius Pip #485 — speakers: Jack Spring, Twitter Destination
-- 2022-11-21 — Mark Mylod • Distraction Pieces Podcast with Scroobius Pip #484 — speakers: Blue Peter, Maid Marian
+- 2022-12-21 — Rian Johnson • Distraction Pieces Podcast with Scroobius Pip #491
+- 2022-12-14 — Three Wise Men of Podcasting with Adam Buxton & Richard Herring (2 of 2) • Distraction Pieces Podcast with Scroobius Pip #490 — speakers: Adam Buxton
+- 2022-12-14 — Three Wise Men of Podcasting with Adam Buxton & Richard Herring (1 of 2) • Distraction Pieces Podcast with Scroobius Pip #490 — speakers: Adam Buxton
+- 2022-12-09 — Bloomsbury Football w/Rio & Charlie • Distraction Pieces Podcast with Scroobius Pip #489
+- 2022-12-07 — Xmas Drinks w/Polar & Musa (2 of 2) • Distraction Pieces Podcast with Scroobius Pip #488 — speakers: Xmas Drinks
+- 2022-12-07 — Xmas Drinks w/Polar & Musa (1 of 2) • Distraction Pieces Podcast with Scroobius Pip #488 — speakers: Xmas Drinks
+- 2022-12-02 — Inbetweeners Special w/Joe & Simon • Distraction Pieces Podcast with Scroobius Pip #487
+- 2022-11-30 — John Hathaway • Distraction Pieces Podcast with Scroobius Pip #486
+- 2022-11-23 — Jack Spring • Distraction Pieces Podcast with Scroobius Pip #485
+- 2022-11-21 — Mark Mylod • Distraction Pieces Podcast with Scroobius Pip #484
 - 2022-11-16 — Maisie Adam • Distraction Pieces Podcast with Scroobius Pip #483
-- 2022-11-09 — Alistair Green • Distraction Pieces Podcast with Scroobius Pip #482 — speakers: Alan Partridge, Ted Lasso
-- 2022-11-02 — Adam Kay • Distraction Pieces Podcast with Scroobius Pip #481 — speakers: Adam Kay Distraction Pieces, Adam Kay
-- 2022-10-25 — Nikesh Patel • Distraction Pieces Podcast with Scroobius Pip #480 — speakers: Nikesh Patel
+- 2022-11-09 — Alistair Green • Distraction Pieces Podcast with Scroobius Pip #482
+- 2022-11-02 — Adam Kay • Distraction Pieces Podcast with Scroobius Pip #481 — speakers: Adam Kay Distraction Pieces
+- 2022-10-25 — Nikesh Patel • Distraction Pieces Podcast with Scroobius Pip #480
 - 2022-10-18 — Ṣọpẹ́ Dìrísù • Distraction Pieces Podcast with Scroobius Pip #479
-- 2022-10-11 — Jim Bob (Carter USM) • Distraction Pieces Podcast with Scroobius Pip #478 — speakers: Jim Bob, Carter Bloodsport, Jim Bob Books
+- 2022-10-11 — Jim Bob (Carter USM) • Distraction Pieces Podcast with Scroobius Pip #478 — speakers: Jim Bob
 - 2022-10-04 — Lauren Pattison • Distraction Pieces Podcast with Scroobius Pip #477
 - 2022-09-27 — Jordan Gray (2022) • Distraction Pieces Podcast with Scroobius Pip #476 — speakers: Jordan Gray
-- 2022-09-20 — Kaitlyn Dever • Distraction Pieces Podcast with Scroobius Pip #475 — speakers: Julia Roberts, George Clooney
-- 2022-09-15 — Tom George • Distraction Pieces Podcast with Scroobius Pip #474 — speakers: Tom George
-- 2022-09-13 — Charlie Cooper • Distraction Pieces Podcast with Scroobius Pip #473 — speakers: Charlie Cooper Distraction Pieces, Daisy May, Tom George comfort
+- 2022-09-20 — Kaitlyn Dever • Distraction Pieces Podcast with Scroobius Pip #475
+- 2022-09-15 — Tom George • Distraction Pieces Podcast with Scroobius Pip #474
+- 2022-09-13 — Charlie Cooper • Distraction Pieces Podcast with Scroobius Pip #473 — speakers: Charlie Cooper Distraction Pieces
 - 2022-09-08 — Babak Anvari • Distraction Pieces Podcast with Scroobius Pip #472
-- 2022-09-06 — George MacKay • Distraction Pieces Podcast with Scroobius Pip #471 — speakers: George Mackay
-- 2022-08-30 — John Bradley West • Distraction Pieces Podcast with Scroobius Pip #470 — speakers: John Bradley West, Marry Me
+- 2022-09-06 — George MacKay • Distraction Pieces Podcast with Scroobius Pip #471
+- 2022-08-30 — John Bradley West • Distraction Pieces Podcast with Scroobius Pip #470
 - 2022-08-23 — Paddy Considine • Distraction Pieces Podcast with Scroobius Pip #469
-- 2022-08-16 — Frankie Boyle • Distraction Pieces Podcast with Scroobius Pip #468 — speakers: Left Wing, Imdb Meantime
-- 2022-08-09 — Sex With Charlie & Nina • Distraction Pieces Podcast with Scroobius Pip #467 — speakers: Stu Whiffen
-- 2022-08-03 — Birthday Party w/ Stu Whiffen & Kunt (Part 2) • Distraction Pieces Podcast with Scroobius Pip #466 — speakers: Stu Whiffen Kunt, Stu Whiffen
-- 2022-08-02 — Birthday Party w/ Stu Whiffen & Kunt (Part 1) • Distraction Pieces Podcast with Scroobius Pip #466 — speakers: Stu Whiffen Kunt, Stu Whiffen
-- 2022-07-26 — Kerry Godliman • Distraction Pieces Podcast with Scroobius Pip #465 — speakers: Kerry Godliman, Ricky Gervais
-- 2022-07-19 — Mark Thomas • Distraction Pieces Podcast with Scroobius Pip #464 — speakers: Mark Thomas Distraction Pieces, Mark Thomas
-- 2022-07-12 — Laura Whitmore • Distraction Pieces Podcast with Scroobius Pip #463 — speakers: Laura Whitmore Distraction Pieces, Laura Whitmore
-- 2022-07-07 — Jim Archer (director of Brian & Charles) • Distraction Pieces Podcast with Scroobius Pip #462 — speakers: Jim Archer, David Earl, Charles Imdb Brian
-- 2022-07-05 — David Earl • Distraction Pieces Podcast with Scroobius Pip #461 — speakers: Twitcher David Earl, Brian Gittins, Charles Imdb Brian
+- 2022-08-16 — Frankie Boyle • Distraction Pieces Podcast with Scroobius Pip #468
+- 2022-08-09 — Sex With Charlie & Nina • Distraction Pieces Podcast with Scroobius Pip #467
+- 2022-08-03 — Birthday Party w/ Stu Whiffen & Kunt (Part 2) • Distraction Pieces Podcast with Scroobius Pip #466 — speakers: Stu Whiffen Kunt
+- 2022-08-02 — Birthday Party w/ Stu Whiffen & Kunt (Part 1) • Distraction Pieces Podcast with Scroobius Pip #466 — speakers: Stu Whiffen Kunt
+- 2022-07-26 — Kerry Godliman • Distraction Pieces Podcast with Scroobius Pip #465
+- 2022-07-19 — Mark Thomas • Distraction Pieces Podcast with Scroobius Pip #464 — speakers: Mark Thomas Distraction Pieces
+- 2022-07-12 — Laura Whitmore • Distraction Pieces Podcast with Scroobius Pip #463 — speakers: Laura Whitmore Distraction Pieces
+- 2022-07-07 — Jim Archer (director of Brian & Charles) • Distraction Pieces Podcast with Scroobius Pip #462 — speakers: Jim Archer
+- 2022-07-05 — David Earl • Distraction Pieces Podcast with Scroobius Pip #461
 - 2022-06-28 — Ritu Arya • Distraction Pieces Podcast with Scroobius Pip #460
 - 2022-06-21 — Jack Rooke & Jon Pointing • Distraction Pieces Podcast with Scroobius Pip #459
-- 2022-06-16 — Joe Barton • Distraction Pieces Podcast with Scroobius Pip #458 — speakers: Joe Barton, Imdb Twitter Giri
+- 2022-06-16 — Joe Barton • Distraction Pieces Podcast with Scroobius Pip #458
 - 2022-06-14 — Jordan Stephens • Distraction Pieces Podcast with Scroobius Pip #457
-- 2022-06-07 — Iain Stirling • Distraction Pieces Podcast with Scroobius Pip #456 — speakers: Twitch Ace
-- 2022-05-31 — Self Esteem • Distraction Pieces Podcast with Scroobius Pip #455 — speakers: Rebecca Lucy Taylor, Self Esteem
-- 2022-05-24 — Tim Key • Distraction Pieces Podcast with Scroobius Pip #454 — speakers: Tim Key, Emily Dean
+- 2022-06-07 — Iain Stirling • Distraction Pieces Podcast with Scroobius Pip #456
+- 2022-05-31 — Self Esteem • Distraction Pieces Podcast with Scroobius Pip #455
+- 2022-05-24 — Tim Key • Distraction Pieces Podcast with Scroobius Pip #454
 - 2022-05-17 — Jack Lowden • Distraction Pieces Podcast with Scroobius Pip #453
-- 2022-05-10 — Gaspar Noe • Distraction Pieces Podcast with Scroobius Pip #452 — speakers: Gaspar Noe, Gaspar Noe fan Pip
-- 2022-05-03 — Benedict Wong • Distraction Pieces Podcast with Scroobius Pip #451 — speakers: Benedict Wong Distraction Pieces, Benedict Wong, Sean Lock, Top Boy
-- 2022-04-28 — Accountability In Activism • Distraction Pieces Podcast with Scroobius Pip #450 — speakers: Lisa Simpson, Richard Risher, Lisa Links
+- 2022-05-10 — Gaspar Noe • Distraction Pieces Podcast with Scroobius Pip #452
+- 2022-05-03 — Benedict Wong • Distraction Pieces Podcast with Scroobius Pip #451 — speakers: Benedict Wong Distraction Pieces
+- 2022-04-28 — Accountability In Activism • Distraction Pieces Podcast with Scroobius Pip #450
 - 2022-04-26 — Emer Kenny • Distraction Pieces Podcast with Scroobius Pip #449
-- 2022-04-19 — Sarah Solemani • Distraction Pieces Podcast with Scroobius Pip #448 — speakers: Sarah Solemani Distraction Pieces, Steve Coogan
-- 2022-04-12 — Kae Tempest • Distraction Pieces Podcast with Scroobius Pip #447 — speakers: Kae Tempest
-- 2022-04-05 — Jo Whiley • Distraction Pieces Podcast with Scroobius Pip #446 — speakers: Jo Whiley Distraction Pieces, JO Whiley, JO Links Twitter Instagram
-- 2022-03-29 — Hayley Campbell • Distraction Pieces Podcast with Scroobius Pip #445 — speakers: Neil Gaiman, Alan Moore
-- 2022-03-25 — Going Viral (w/ Amy & Bozzers • Distraction Pieces Podcast with Scroobius Pip #444 — speakers: Scroobius Pip, Instagram Mum, Twitter Mum
-- 2022-03-23 — Cecilia Knapp • Distraction Pieces Podcast with Scroobius Pip #443 — speakers: Kae Tempest, Musa Okwonga, Jack Rooke
-- 2022-03-16 — Craig Roberts • Distraction Pieces Podcast with Scroobius Pip #442 — speakers: Craig Roberts Distraction Pieces, Craig Roberts, Mark Rylance, Shaheen Baig, Richard Ayoade
-- 2022-03-09 — Nicôle Lecky • Distraction Pieces Podcast with Scroobius Pip #441 — speakers: Nicole Links Imdb Instagram
-- 2022-03-02 — Stephen Fry • Distraction Pieces Podcast with Scroobius Pip #440 — speakers: Stephen Fry well, Stephen Links
-- 2022-02-25 — Beth Granville • Distraction Pieces Podcast with Scroobius Pip #439 — speakers: Beth Granville, Lucy Pinder, Beth Links
-- 2022-02-23 — Lucy Pinder • Distraction Pieces Podcast with Scroobius Pip #438 — speakers: Lucy Pinder Distraction Pieces, Lucy Links Smashing Sundays
-- 2022-02-16 — Tom Davis • Distraction Pieces Podcast with Scroobius Pip #437 — speakers: Tom Davis Distraction Pieces, Tom Davis
+- 2022-04-19 — Sarah Solemani • Distraction Pieces Podcast with Scroobius Pip #448 — speakers: Sarah Solemani Distraction Pieces
+- 2022-04-12 — Kae Tempest • Distraction Pieces Podcast with Scroobius Pip #447
+- 2022-04-05 — Jo Whiley • Distraction Pieces Podcast with Scroobius Pip #446 — speakers: Jo Whiley Distraction Pieces
+- 2022-03-29 — Hayley Campbell • Distraction Pieces Podcast with Scroobius Pip #445
+- 2022-03-25 — Going Viral (w/ Amy & Bozzers • Distraction Pieces Podcast with Scroobius Pip #444 — speakers: Scroobius Pip
+- 2022-03-23 — Cecilia Knapp • Distraction Pieces Podcast with Scroobius Pip #443
+- 2022-03-16 — Craig Roberts • Distraction Pieces Podcast with Scroobius Pip #442 — speakers: Craig Roberts Distraction Pieces
+- 2022-03-09 — Nicôle Lecky • Distraction Pieces Podcast with Scroobius Pip #441
+- 2022-03-02 — Stephen Fry • Distraction Pieces Podcast with Scroobius Pip #440
+- 2022-02-25 — Beth Granville • Distraction Pieces Podcast with Scroobius Pip #439
+- 2022-02-23 — Lucy Pinder • Distraction Pieces Podcast with Scroobius Pip #438 — speakers: Lucy Pinder Distraction Pieces
+- 2022-02-16 — Tom Davis • Distraction Pieces Podcast with Scroobius Pip #437 — speakers: Tom Davis Distraction Pieces
 - 2022-02-11 — Mopes (fka Prolyphic) • Distraction Pieces Podcast with Scroobius Pip #436
-- 2022-02-09 — Geowizard aka Tom Davies • Distraction Pieces Podcast with Scroobius Pip #435 — speakers: Tom Davies Distraction Pieces, Tom Davies
-- 2022-02-02 — Youssef Kerkour • Distraction Pieces Podcast with Scroobius Pip #434 — speakers: Youssef Kerkour Distraction Pieces, Youssef Kerkour, Adam Driver, Al Pacino, Instagram House
-- 2022-01-28 — Parenting Your Parents • Distraction Pieces Podcast with Scroobius Pip #433 — speakers: Scroobius Pip, Andy Chambers, Chris Glassen
-- 2022-01-26 — Dan Schreiber • Distraction Pieces Podcast with Scroobius Pip #432 — speakers: Dan Schreiber
-- 2022-01-21 — Rob Williams • Distraction Pieces Podcast with Scroobius Pip #431 — speakers: Scroobius Pip, Rob Williams
+- 2022-02-09 — Geowizard aka Tom Davies • Distraction Pieces Podcast with Scroobius Pip #435 — speakers: Tom Davies Distraction Pieces
+- 2022-02-02 — Youssef Kerkour • Distraction Pieces Podcast with Scroobius Pip #434 — speakers: Youssef Kerkour Distraction Pieces
+- 2022-01-28 — Parenting Your Parents • Distraction Pieces Podcast with Scroobius Pip #433 — speakers: Scroobius Pip
+- 2022-01-26 — Dan Schreiber • Distraction Pieces Podcast with Scroobius Pip #432
+- 2022-01-21 — Rob Williams • Distraction Pieces Podcast with Scroobius Pip #431 — speakers: Scroobius Pip
 - 2022-01-19 — Emma Dabiri • Distraction Pieces Podcast with Scroobius Pip #430
-- 2022-01-12 — Evanna Lynch • Distraction Pieces Podcast with Scroobius Pip #429 — speakers: Evanna Lynch, Luna Lovegood, Harry Potter
-- 2022-01-08 — MMA Roundup w/Seán, Blake & Stu • Distraction Pieces Podcast with Scroobius Pip #428 — speakers: Mma Roundup, Scroobius Pip, Mixed Martial Arts
+- 2022-01-12 — Evanna Lynch • Distraction Pieces Podcast with Scroobius Pip #429
+- 2022-01-08 — MMA Roundup w/Seán, Blake & Stu • Distraction Pieces Podcast with Scroobius Pip #428 — speakers: Mma Roundup, Scroobius Pip
 - 2022-01-05 — Films Of The Year: 2021 • Distraction Pieces Podcast with Scroobius Pip #427
 - 2021-12-29 — End Of Year Drunkast 2021 • Part 5
 - 2021-12-27 — End Of Year Drunkast 2021 • Part 4
 - 2021-12-24 — End Of Year Drunkast 2021 • Part 3
 - 2021-12-22 — End Of Year Drunkast 2021 • Part 2
 - 2021-12-22 — End Of Year Drunkast 2021 • Part 1
-- 2021-12-17 — Kunt & The Gang • Distraction Pieces Podcast with Scroobius Pip #425 — speakers: Boris Johnson, Stu Whiffen
-- 2021-12-15 — Mark Gatiss • Distraction Pieces Podcast with Scroobius Pip #424 — speakers: Mark Gatiss Distraction Pieces, Sky Max, Mark Links
+- 2021-12-17 — Kunt & The Gang • Distraction Pieces Podcast with Scroobius Pip #425
+- 2021-12-15 — Mark Gatiss • Distraction Pieces Podcast with Scroobius Pip #424 — speakers: Mark Gatiss Distraction Pieces
 - 2021-12-10 — Will Sharpe • Distraction Pieces Podcast with Scroobius Pip #423
-- 2021-12-08 — Kiell Smith-Bynoe • Distraction Pieces Podcast with Scroobius Pip #422 — speakers: Kiell Smith-Bynoe Distraction Pieces, Kiell Smith-Bynoe
-- 2021-12-03 — We.Were.Lizards. (Part 2) • Distraction Pieces Podcast with Scroobius Pip #421 — speakers: Zane Lowe, DJ Yoda, Don Letts, Lindy Layton, Chris Glassen Hardcore Listing
-- 2021-12-01 — We.Were.Lizards. (Part 1) • Distraction Pieces Podcast with Scroobius Pip #421 — speakers: Zane Lowe, DJ Yoda, Don Letts, Lindy Layton, Chris Glassen Hardcore Listing
+- 2021-12-08 — Kiell Smith-Bynoe • Distraction Pieces Podcast with Scroobius Pip #422 — speakers: Kiell Smith-Bynoe Distraction Pieces
+- 2021-12-03 — We.Were.Lizards. (Part 2) • Distraction Pieces Podcast with Scroobius Pip #421
+- 2021-12-01 — We.Were.Lizards. (Part 1) • Distraction Pieces Podcast with Scroobius Pip #421
 - 2021-11-24 — Irvine Welsh • Distraction Pieces Podcast with Scroobius Pip #420
-- 2021-11-17 — Liam Williams • Distraction Pieces Podcast with Scroobius Pip #419 — speakers: Liam Williams, Alex Beardall, Cambridge Uni
-- 2021-11-10 — Katy Wix • Distraction Pieces Podcast with Scroobius Pip #418 — speakers: Katy Wix, Steve Coogan, Alan Partridge
-- 2021-11-03 — Daniel Mays • Distraction Pieces Podcast with Scroobius Pip #417 — speakers: Daniel Mays Distraction Pieces, Stephen Graham
-- 2021-10-26 — Edgar Wright • Distraction Pieces Podcast with Scroobius Pip #416 — speakers: Edgar Wright, Edgar Links
-- 2021-10-24 — Paul Chowdhry • Distraction Pieces Podcast with Scroobius Pip #415 — speakers: Stewart Lee, Paul Chowdhry
-- 2021-10-19 — Sleaford Mods • Distraction Pieces Podcast with Scroobius Pip #414 — speakers: Sleaford Links
-- 2021-10-12 — Jimmy Carr • Distraction Pieces Podcast with Scroobius Pip #413 — speakers: Sean Lock
-- 2021-10-07 — Andy Chambers (Born Human) • Distraction Pieces Podcast with Scroobius Pip #412 — speakers: Andy Chambers, Born Human
-- 2021-10-05 — Jack Thorne • Distraction Pieces Podcast with Scroobius Pip #411 — speakers: Jack Thorne Distraction Pieces, Stephen Graham
-- 2021-09-28 — Tom Stade • Distraction Pieces Podcast with Scroobius Pip #410 — speakers: Tom Stade
-- 2021-09-21 — Sophie Willan • Distraction Pieces Podcast with Scroobius Pip #409 — speakers: Jayde Adams, John Waters, Mike Leigh, Rob Parker
-- 2021-09-14 — Sam Spruell • Distraction Pieces Podcast with Scroobius Pip #408 — speakers: Sam Spruell Distraction Pieces, Sam Spruell, Andrew Haigh, Steve McQueen, Sam Links
-- 2021-09-07 — Lowkey • Distraction Pieces Podcast with Scroobius Pip #407 — speakers: kung fu
+- 2021-11-17 — Liam Williams • Distraction Pieces Podcast with Scroobius Pip #419
+- 2021-11-10 — Katy Wix • Distraction Pieces Podcast with Scroobius Pip #418
+- 2021-11-03 — Daniel Mays • Distraction Pieces Podcast with Scroobius Pip #417 — speakers: Daniel Mays Distraction Pieces
+- 2021-10-26 — Edgar Wright • Distraction Pieces Podcast with Scroobius Pip #416
+- 2021-10-24 — Paul Chowdhry • Distraction Pieces Podcast with Scroobius Pip #415
+- 2021-10-19 — Sleaford Mods • Distraction Pieces Podcast with Scroobius Pip #414
+- 2021-10-12 — Jimmy Carr • Distraction Pieces Podcast with Scroobius Pip #413
+- 2021-10-07 — Andy Chambers (Born Human) • Distraction Pieces Podcast with Scroobius Pip #412 — speakers: Andy Chambers
+- 2021-10-05 — Jack Thorne • Distraction Pieces Podcast with Scroobius Pip #411 — speakers: Jack Thorne Distraction Pieces
+- 2021-09-28 — Tom Stade • Distraction Pieces Podcast with Scroobius Pip #410
+- 2021-09-21 — Sophie Willan • Distraction Pieces Podcast with Scroobius Pip #409
+- 2021-09-14 — Sam Spruell • Distraction Pieces Podcast with Scroobius Pip #408 — speakers: Sam Spruell Distraction Pieces
+- 2021-09-07 — Lowkey • Distraction Pieces Podcast with Scroobius Pip #407
 - 2021-09-03 — Say Why To Drugs • Distraction Pieces Podcast with Scroobius Pip #406 — speakers: Scroobius Pip
-- 2021-08-31 — Nathaniel Martello-White • Distraction Pieces Podcast with Scroobius Pip #405 — speakers: Nathaniel Martello-White Distraction Pieces, Steve McQueen
-- 2021-08-24 — Niamh Algar • Distraction Pieces Podcast with Scroobius Pip #404 — speakers: Niamh Algar, Ridley Scott, Prano Bailey Bond
-- 2021-08-17 — Steve Stamp • Distraction Pieces Podcast with Scroobius Pip #403 — speakers: Steve Stamp Distraction Pieces, Steve Stamp, Steve Links
-- 2021-08-15 — Shawn Levy • Distraction Pieces Podcast with Scroobius Pip #402 — speakers: Shawn Levy
-- 2021-08-10 — Tim Renkow • Distraction Pieces Podcast with Scroobius Pip #401 — speakers: Tim Renkow Distraction Pieces, Scroobius Pip, Tim Renkow, MF Doom
-- 2021-08-09 — Big Birthday Bash Pt. 4 • Distraction Pieces Podcast with Scroobius Pip #400 — speakers: Uncle Pip
-- 2021-08-08 — Big Birthday Bash Pt. 3 • Distraction Pieces Podcast with Scroobius Pip #400 — speakers: Uncle Pip
-- 2021-08-03 — Big Birthday Bash Pt. 2 • Distraction Pieces Podcast with Scroobius Pip #400 — speakers: Uncle Pip
-- 2021-08-02 — Big Birthday Bash Pt. 1 • Distraction Pieces Podcast with Scroobius Pip #400 — speakers: Uncle Pip
-- 2021-07-27 — Seapa aka MC Grindah • Distraction Pieces Podcast with Scroobius Pip #399 — speakers: Scroobius Pip, Top Boy, La Haine
-- 2021-07-22 — Secret Announcement • Distraction Pieces Podcast with Scroobius Pip #398 — speakers: You'VE Listened
+- 2021-08-31 — Nathaniel Martello-White • Distraction Pieces Podcast with Scroobius Pip #405 — speakers: Nathaniel Martello-White Distraction Pieces
+- 2021-08-24 — Niamh Algar • Distraction Pieces Podcast with Scroobius Pip #404
+- 2021-08-17 — Steve Stamp • Distraction Pieces Podcast with Scroobius Pip #403 — speakers: Steve Stamp Distraction Pieces
+- 2021-08-15 — Shawn Levy • Distraction Pieces Podcast with Scroobius Pip #402
+- 2021-08-10 — Tim Renkow • Distraction Pieces Podcast with Scroobius Pip #401 — speakers: Tim Renkow Distraction Pieces, Scroobius Pip
+- 2021-08-09 — Big Birthday Bash Pt. 4 • Distraction Pieces Podcast with Scroobius Pip #400
+- 2021-08-08 — Big Birthday Bash Pt. 3 • Distraction Pieces Podcast with Scroobius Pip #400
+- 2021-08-03 — Big Birthday Bash Pt. 2 • Distraction Pieces Podcast with Scroobius Pip #400
+- 2021-08-02 — Big Birthday Bash Pt. 1 • Distraction Pieces Podcast with Scroobius Pip #400
+- 2021-07-27 — Seapa aka MC Grindah • Distraction Pieces Podcast with Scroobius Pip #399
+- 2021-07-22 — Secret Announcement • Distraction Pieces Podcast with Scroobius Pip #398
 - 2021-07-20 — Prano Bailey-Bond • Distraction Pieces Podcast with Scroobius Pip #397 — speakers: Joining Pip
-- 2021-07-15 — Top 5 TV Show Character Names (Hardcore Listing bonus!) • Distraction Pieces Podcast with Scroobius Pip #396 — speakers: Scroobius Pip, Chris Glassen, Stu Whiffen, Hardcore Listing
-- 2021-07-13 — KSI • Distraction Pieces Podcast with Scroobius Pip #395 — speakers: Childish Gambino
-- 2021-07-06 — Nick Frost • Distraction Pieces Podcast with Scroobius Pip #394 — speakers: Nick Frost Distraction Pieces, Joining Pip, Nick Frost, Simon Pegg, Truth Seekers, Twitter Instagram
-- 2021-06-29 — Kelechi Okafor • Distraction Pieces Podcast with Scroobius Pip #393 — speakers: Scroobius Pip, Kelechi Okafor
+- 2021-07-15 — Top 5 TV Show Character Names (Hardcore Listing bonus!) • Distraction Pieces Podcast with Scroobius Pip #396 — speakers: Scroobius Pip
+- 2021-07-13 — KSI • Distraction Pieces Podcast with Scroobius Pip #395
+- 2021-07-06 — Nick Frost • Distraction Pieces Podcast with Scroobius Pip #394 — speakers: Nick Frost Distraction Pieces, Joining Pip
+- 2021-06-29 — Kelechi Okafor • Distraction Pieces Podcast with Scroobius Pip #393 — speakers: Scroobius Pip
 - 2021-06-22 — Annie MacManus • Distraction Pieces Podcast with Scroobius Pip #392
 - 2021-06-15 — Amanda Abbington • Distraction Pieces Podcast with Scroobius Pip #391
-- 2021-06-10 — DPP Rewind • Michael Cashman • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Originally, Michael Cashman, Ian McKellen
-- 2021-06-08 — Juliet Stevenson • Distraction Pieces Podcast with Scroobius Pip #390 — speakers: Sara Pascoe, Edinburgh Fringe, Alan Rickman, Juliet Links
-- 2021-06-01 — Laura Dockrill • Distraction Pieces Podcast with Scroobius Pip #389 — speakers: Laura Dockrill Distraction Pieces, Laura Dockrill, Laura Links Twitter
-- 2021-05-25 — Where's Your Head At? Part 6 • Distraction Pieces Podcast with Scroobius Pip #388 — speakers: Chris Meads
-- 2021-05-18 — Where's Your Head At? Part 5 • Distraction Pieces Podcast with Scroobius Pip #387 — speakers: Stu Whiffen
-- 2021-05-13 — Where's Your Head At? Part 4 • Distraction Pieces Podcast with Scroobius Pip #386 — speakers: Chris Glassen Jayde Adams
-- 2021-05-11 — Where's Your Head At? Part 3 • Distraction Pieces Podcast with Scroobius Pip #385 — speakers: Amy Bullman, Rob Parker
-- 2021-05-09 — Where's Your Head At? Part 2 • Distraction Pieces Podcast with Scroobius Pip #384 — speakers: Rob Auton
-- 2021-05-04 — Where's Your Head At? Part 1 • Distraction Pieces Podcast with Scroobius Pip #383 — speakers: Pip's Mum, Stephen Graham
+- 2021-06-10 — DPP Rewind • Michael Cashman • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Originally
+- 2021-06-08 — Juliet Stevenson • Distraction Pieces Podcast with Scroobius Pip #390
+- 2021-06-01 — Laura Dockrill • Distraction Pieces Podcast with Scroobius Pip #389 — speakers: Laura Dockrill Distraction Pieces
+- 2021-05-25 — Where's Your Head At? Part 6 • Distraction Pieces Podcast with Scroobius Pip #388
+- 2021-05-18 — Where's Your Head At? Part 5 • Distraction Pieces Podcast with Scroobius Pip #387
+- 2021-05-13 — Where's Your Head At? Part 4 • Distraction Pieces Podcast with Scroobius Pip #386
+- 2021-05-11 — Where's Your Head At? Part 3 • Distraction Pieces Podcast with Scroobius Pip #385
+- 2021-05-09 — Where's Your Head At? Part 2 • Distraction Pieces Podcast with Scroobius Pip #384
+- 2021-05-04 — Where's Your Head At? Part 1 • Distraction Pieces Podcast with Scroobius Pip #383
 - 2021-04-27 — Simon(e) Sun - The Science Of The Sexes • Distraction Pieces Podcast with Scroobius Pip #382
-- 2021-04-20 — Daniel Sloss • Distraction Pieces Podcast with Scroobius Pip #381 — speakers: Daniel Sloss Distraction Pieces, Scroobius Pip, Daniel days
-- 2021-04-13 — Wheelchair Sports Camp • Distraction Pieces Podcast with Scroobius Pip #380 — speakers: Scroobius Pip, Kalyn Heffernan
-- 2021-04-06 — Blake Harrison • Distraction Pieces Podcast with Scroobius Pip #379 — speakers: Scroobius Pip, Pip kick, Stu Whiffen
-- 2021-03-30 — John Simm • Distraction Pieces Podcast with Scroobius Pip #378 — speakers: John Simm Distraction Pieces, Scroobius Pip, John through Human Traffic, Dad Band
-- 2021-03-24 — Rag'n'Bone Man • Distraction Pieces Podcast with Scroobius Pip #377 — speakers: Pharoahe Monch
-- 2021-03-19 — B Dolan - The Surgery Episode • Distraction Pieces Podcast with Scroobius Pip #376 — speakers: Joining Pip, himself please, Buddy Peace
-- 2021-03-17 — Jane Horrocks • Distraction Pieces Podcast with Scroobius Pip #375 — speakers: Scroobius Pip, Jane Links Twitter Imdb
-- 2021-03-10 — Nikesh Shukla • Distraction Pieces Podcast with Scroobius Pip #374 — speakers: Musa Okawonga, Oscar Brown Jr via, Nina Simone
-- 2021-03-05 — Behind The Album: Repent Replenish Repeat (2013) • Distraction Pieces Podcast with Scroobius Pip #373 — speakers: Dan Le Sac, Bruce Springsteen Atlantic City
-- 2021-03-03 — Behind The Album: The Logic Of Chance (2010) • Distraction Pieces Podcast with Scroobius Pip #372 — speakers: Lucinda Williams Those
-- 2021-03-01 — Behind The Album: Angles (2008) • Distraction Pieces Podcast with Scroobius Pip #371 — speakers: Dan Le Sac yes
+- 2021-04-20 — Daniel Sloss • Distraction Pieces Podcast with Scroobius Pip #381 — speakers: Daniel Sloss Distraction Pieces, Scroobius Pip
+- 2021-04-13 — Wheelchair Sports Camp • Distraction Pieces Podcast with Scroobius Pip #380 — speakers: Scroobius Pip
+- 2021-04-06 — Blake Harrison • Distraction Pieces Podcast with Scroobius Pip #379 — speakers: Scroobius Pip
+- 2021-03-30 — John Simm • Distraction Pieces Podcast with Scroobius Pip #378 — speakers: John Simm Distraction Pieces, Scroobius Pip
+- 2021-03-24 — Rag'n'Bone Man • Distraction Pieces Podcast with Scroobius Pip #377 — speakers: paths th
+- 2021-03-19 — B Dolan - The Surgery Episode • Distraction Pieces Podcast with Scroobius Pip #376 — speakers: Joining Pip
+- 2021-03-17 — Jane Horrocks • Distraction Pieces Podcast with Scroobius Pip #375 — speakers: Scroobius Pip
+- 2021-03-10 — Nikesh Shukla • Distraction Pieces Podcast with Scroobius Pip #374
+- 2021-03-05 — Behind The Album: Repent Replenish Repeat (2013) • Distraction Pieces Podcast with Scroobius Pip #373
+- 2021-03-03 — Behind The Album: The Logic Of Chance (2010) • Distraction Pieces Podcast with Scroobius Pip #372
+- 2021-03-01 — Behind The Album: Angles (2008) • Distraction Pieces Podcast with Scroobius Pip #371
 - 2021-02-24 — Tahar Rahim • Distraction Pieces Podcast with Scroobius Pip #370
-- 2021-02-19 — Renay Richardson • Distraction Pieces Podcast with Scroobius Pip #369 — speakers: Scroobius Pip, Broccoli Content, George Floyd
+- 2021-02-19 — Renay Richardson • Distraction Pieces Podcast with Scroobius Pip #369 — speakers: Scroobius Pip
 - 2021-02-17 — Nihal Arthanayake • Distraction Pieces Podcast with Scroobius Pip #368
-- 2021-02-12 — Asim Chaudhry • Distraction Pieces Podcast with Scroobius Pip #367 — speakers: Scroobius Pip, Girthy Geeza
-- 2021-02-10 — Adam Buxton (Mk 2) • Distraction Pieces Podcast with Scroobius Pip #366 — speakers: Adam Buxton, Tom Cruise
-- 2021-02-03 — Musa Okwonga • Distraction Pieces Podcast with Scroobius Pip #365 — speakers: Scroobius Pip, Ed Sheeran
-- 2021-01-27 — Steven Cree • Distraction Pieces Podcast with Scroobius Pip #364 — speakers: Steven Cree, Mr Goldstein, Mick Foley
-- 2021-01-20 — Stacy Martin • Distraction Pieces Podcast with Scroobius Pip #363 — speakers: Scroobius Pip, Stacy Martin
+- 2021-02-12 — Asim Chaudhry • Distraction Pieces Podcast with Scroobius Pip #367 — speakers: Scroobius Pip
+- 2021-02-10 — Adam Buxton (Mk 2) • Distraction Pieces Podcast with Scroobius Pip #366 — speakers: Adam Buxton
+- 2021-02-03 — Musa Okwonga • Distraction Pieces Podcast with Scroobius Pip #365 — speakers: Scroobius Pip
+- 2021-01-27 — Steven Cree • Distraction Pieces Podcast with Scroobius Pip #364
+- 2021-01-20 — Stacy Martin • Distraction Pieces Podcast with Scroobius Pip #363 — speakers: Scroobius Pip
 - 2021-01-13 — Sacha Dhawan • Distraction Pieces Podcast with Scroobius Pip #362 — speakers: Scroobius Pip
-- 2021-01-08 — TV Shows Of The Year: 2020 (bonus ep!) • Distraction Pieces Podcast with Scroobius Pip #361 — speakers: Scroobius Pip, Buddy Peace
+- 2021-01-08 — TV Shows Of The Year: 2020 (bonus ep!) • Distraction Pieces Podcast with Scroobius Pip #361 — speakers: Scroobius Pip
 - 2021-01-06 — Films Of The Year: 2020 • Distraction Pieces Podcast with Scroobius Pip #360
 - 2020-12-30 — 2020 Roundup w/ Blindboy (pt. 2 of 2) • Distraction Pieces Podcast with Scroobius Pip #359
 - 2020-12-23 — 2020 Roundup w/ Blindboy (pt. 1 of 2) • Distraction Pieces Podcast with Scroobius Pip #359
-- 2020-12-18 — Xmas Drinks w/ Kae Tempest & Polarbear (pt. 2 of 2) • Distraction Pieces Podcast with Scroobius Pip #358 — speakers: Xmas Drinks, Kae Tempest
-- 2020-12-16 — Xmas Drinks w/ Kae Tempest & Polarbear (pt. 1 of 2) • Distraction Pieces Podcast with Scroobius Pip #358 — speakers: Xmas Drinks, Kae Tempest
-- 2020-12-09 — Aunty Donna • Distraction Pieces Podcast with Scroobius Pip #357 — speakers: Aunty Donna
+- 2020-12-18 — Xmas Drinks w/ Kae Tempest & Polarbear (pt. 2 of 2) • Distraction Pieces Podcast with Scroobius Pip #358 — speakers: Xmas Drinks
+- 2020-12-16 — Xmas Drinks w/ Kae Tempest & Polarbear (pt. 1 of 2) • Distraction Pieces Podcast with Scroobius Pip #358 — speakers: Xmas Drinks
+- 2020-12-09 — Aunty Donna • Distraction Pieces Podcast with Scroobius Pip #357
 - 2020-12-04 — 12 Days Of Pipmas — speakers: Scroobius Pip
-- 2020-12-02 — MyAnna Buring • Distraction Pieces Podcast with Scroobius Pip #356 — speakers: Myanna Buring, Kill List, Michael Smiley, Stephen Graham
-- 2020-11-25 — Rahul Kohli • Distraction Pieces Podcast with Scroobius Pip #355 — speakers: Rahul Kohli Distraction Pieces, Mike Bithell
-- 2020-11-18 — Kurupt FM (Hugo & Seapa) • Distraction Pieces Podcast with Scroobius Pip #354 — speakers: Towerblock Dreams
-- 2020-11-11 — Benjamin Zephaniah • Distraction Pieces Podcast with Scroobius Pip #353 — speakers: Benjamin Zephaniah Distraction Pieces, Benjamin Zephaniah, Bob Marley, Peaky Blinders
-- 2020-11-04 — The Blaine Brothers • Distraction Pieces Podcast with Scroobius Pip #352 — speakers: Ben Blaine, Da Vinci, Blaine Brothers
+- 2020-12-02 — MyAnna Buring • Distraction Pieces Podcast with Scroobius Pip #356
+- 2020-11-25 — Rahul Kohli • Distraction Pieces Podcast with Scroobius Pip #355 — speakers: Rahul Kohli Distraction Pieces
+- 2020-11-18 — Kurupt FM (Hugo & Seapa) • Distraction Pieces Podcast with Scroobius Pip #354
+- 2020-11-11 — Benjamin Zephaniah • Distraction Pieces Podcast with Scroobius Pip #353 — speakers: Benjamin Zephaniah Distraction Pieces
+- 2020-11-04 — The Blaine Brothers • Distraction Pieces Podcast with Scroobius Pip #352
 - 2020-10-28 — Ben Wheatley • Distraction Pieces Podcast with Scroobius Pip #351
-- 2020-10-20 — Taron Egerton • Distraction Pieces Podcast with Scroobius Pip #350 — speakers: Stephen Graham, Matthew Vaughn, Dexter Fletcher, Tom Hardy
+- 2020-10-20 — Taron Egerton • Distraction Pieces Podcast with Scroobius Pip #350
 - 2020-10-13 — Maxine Peake • Distraction Pieces Podcast with Scroobius Pip #349
 - 2020-10-06 — Corey Taylor • Distraction Pieces Podcast with Scroobius Pip #348
-- 2020-09-29 — Action Bronson • Distraction Pieces Podcast with Scroobius Pip #347 — speakers: Scroobius Pip, Action Bronson
-- 2020-09-22 — Ghetts • Distraction Pieces Podcast with Scroobius Pip #346 — speakers: Scroobius Pip, Jamali Maddix
+- 2020-09-29 — Action Bronson • Distraction Pieces Podcast with Scroobius Pip #347 — speakers: Scroobius Pip
+- 2020-09-22 — Ghetts • Distraction Pieces Podcast with Scroobius Pip #346 — speakers: Scroobius Pip
 - 2020-09-15 — Fern Brady • Distraction Pieces Podcast with Scroobius Pip #345
-- 2020-09-08 — Dizzee Rascal • Distraction Pieces Podcast with Scroobius Pip #344 — speakers: Scroobius Pip, Justin Timberlake
+- 2020-09-08 — Dizzee Rascal • Distraction Pieces Podcast with Scroobius Pip #344 — speakers: Scroobius Pip
 - 2020-09-03 — Bozzers • Distraction Pieces Podcast with Scroobius Pip #343 — speakers: Joining Pip
-- 2020-09-01 — Himesh Patel • Distraction Pieces Podcast with Scroobius Pip #342 — speakers: Scroobius Pip, Chris Nolan
+- 2020-09-01 — Himesh Patel • Distraction Pieces Podcast with Scroobius Pip #342 — speakers: Scroobius Pip
 - 2020-08-25 — Joe Talbot (Idles) • Distraction Pieces Podcast with Scroobius Pip #341 — speakers: Joe Talbot, Joining Pip
 - 2020-08-18 — Lou Sanders • Distraction Pieces Podcast with Scroobius Pip #340 — speakers: Scroobius Pip
-- 2020-08-13 — Shannon Murphy • Distraction Pieces Podcast with Scroobius Pip #339 — speakers: Scroobius Pip, Killing Eve
-- 2020-08-11 — Alex & Chris of Young Offenders • Distraction Pieces Podcast with Scroobius Pip #338 — speakers: Scroobius Pip, Alex Murphy, Chris Walley
-- 2020-08-04 — El-P • Distraction Pieces Podcast with Scroobius Pip #337 — speakers: Bigg Jus, Def Jux
-- 2020-07-28 — Jack Rooke • Distraction Pieces Podcast with Scroobius Pip #336 — speakers: Scroobius Pip, Rob Auton
-- 2020-07-21 — Jasmine Jobson • Distraction Pieces Podcast with Scroobius Pip #335 — speakers: Jasmine Jobson Distraction Pieces, Top Boy, Des Hamilton
+- 2020-08-13 — Shannon Murphy • Distraction Pieces Podcast with Scroobius Pip #339 — speakers: Scroobius Pip
+- 2020-08-11 — Alex & Chris of Young Offenders • Distraction Pieces Podcast with Scroobius Pip #338 — speakers: Scroobius Pip
+- 2020-08-04 — El-P • Distraction Pieces Podcast with Scroobius Pip #337
+- 2020-07-28 — Jack Rooke • Distraction Pieces Podcast with Scroobius Pip #336 — speakers: Scroobius Pip
+- 2020-07-21 — Jasmine Jobson • Distraction Pieces Podcast with Scroobius Pip #335 — speakers: Jasmine Jobson Distraction Pieces
 - 2020-07-14 — Dane Baptiste • Distraction Pieces Podcast with Scroobius Pip #334
-- 2020-07-08 — Moments That Changed My Life (w/Chris & Stu) (part 2) • Distraction Pieces Podcast with Scroobius Pip #333 — speakers: Stu Whiffen, Chris Glassen, Hardcore Listing
-- 2020-07-07 — Moments That Changed My Life (w/Chris & Stu) (part 1) • Distraction Pieces Podcast with Scroobius Pip #333 — speakers: Stu Whiffen, Chris Glassen, Hardcore Listing
-- 2020-06-30 — Paapa Essiedu • Distraction Pieces Podcast with Scroobius Pip #332 — speakers: Paapa Essiedu, Michaela Coel
-- 2020-06-23 — Ashley 'Dotty' Charles • Distraction Pieces Podcast with Scroobius Pip #331 — speakers: Scroobius Pip, Ashley Dotty Charles, Katie Hopkins
-- 2020-06-18 — Defund The Police: Discussed • Distraction Pieces Podcast with Scroobius Pip #330 — speakers: Adam Elliott-Cooper
-- 2020-06-16 — Simon Bird • Distraction Pieces Podcast with Scroobius Pip #329 — speakers: Monica Dolan
-- 2020-06-10 — Isolation DrunkCast v.3 w/Jayde, Rich, Chris & Stu (pt 3 of 3) • Distraction Pieces Podcast with Scroobius Pip #328 — speakers: Jayde Adams, Rich Wilson, Hardcore Listing
-- 2020-06-10 — Isolation DrunkCast v.3 w/Jayde, Rich, Chris & Stu (pt 2 of 3) • Distraction Pieces Podcast with Scroobius Pip #328 — speakers: Jayde Adams, Rich Wilson, Hardcore Listing
-- 2020-06-09 — Isolation DrunkCast v.3 w/Jayde, Rich, Chris & Stu (pt 1 of 3) • Distraction Pieces Podcast with Scroobius Pip #328 — speakers: Jayde Adams, Rich Wilson, Hardcore Listing
-- 2020-06-03 — Akala (Revisited) • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome, Scroobius Pip
-- 2020-06-02 — Killer Mike (Revisited) • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome, Scroobius Pip, Killer Mike, Kille Mike
+- 2020-07-08 — Moments That Changed My Life (w/Chris & Stu) (part 2) • Distraction Pieces Podcast with Scroobius Pip #333
+- 2020-07-07 — Moments That Changed My Life (w/Chris & Stu) (part 1) • Distraction Pieces Podcast with Scroobius Pip #333
+- 2020-06-30 — Paapa Essiedu • Distraction Pieces Podcast with Scroobius Pip #332
+- 2020-06-23 — Ashley 'Dotty' Charles • Distraction Pieces Podcast with Scroobius Pip #331 — speakers: Scroobius Pip, Ashley Dotty
+- 2020-06-18 — Defund The Police: Discussed • Distraction Pieces Podcast with Scroobius Pip #330
+- 2020-06-16 — Simon Bird • Distraction Pieces Podcast with Scroobius Pip #329
+- 2020-06-10 — Isolation DrunkCast v.3 w/Jayde, Rich, Chris & Stu (pt 3 of 3) • Distraction Pieces Podcast with Scroobius Pip #328
+- 2020-06-10 — Isolation DrunkCast v.3 w/Jayde, Rich, Chris & Stu (pt 2 of 3) • Distraction Pieces Podcast with Scroobius Pip #328
+- 2020-06-09 — Isolation DrunkCast v.3 w/Jayde, Rich, Chris & Stu (pt 1 of 3) • Distraction Pieces Podcast with Scroobius Pip #328
+- 2020-06-03 — Akala (Revisited) • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome
+- 2020-06-02 — Killer Mike (Revisited) • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome
 - 2020-05-26 — Behind The Album: No Commercial Breaks (2006) • Distraction Pieces Podcast with Scroobius Pip #327
 - 2020-05-19 — Rutger Bregman (v.2) • Distraction Pieces Podcast with Scroobius Pip #326 — speakers: Rutger Bregman, Scroobius Pip
-- 2020-05-13 — Isolation DrunkCast v.2 (pt 3 of 3) • Distraction Pieces Podcast with Scroobius Pip #325 — speakers: James Acaster
-- 2020-05-13 — Isolation DrunkCast v.2 (pt 2 of 3) • Distraction Pieces Podcast with Scroobius Pip #325 — speakers: James Acaster
-- 2020-05-12 — Isolation DrunkCast v.2 (pt 1 of 3) • Distraction Pieces Podcast with Scroobius Pip #325 — speakers: James Acaster
-- 2020-05-05 — Behind The Album: Distraction Pieces (2011) • Distraction Pieces Podcast with Scroobius Pip #324 — speakers: Scroobius Pip, Soldier Boy
+- 2020-05-13 — Isolation DrunkCast v.2 (pt 3 of 3) • Distraction Pieces Podcast with Scroobius Pip #325
+- 2020-05-13 — Isolation DrunkCast v.2 (pt 2 of 3) • Distraction Pieces Podcast with Scroobius Pip #325
+- 2020-05-12 — Isolation DrunkCast v.2 (pt 1 of 3) • Distraction Pieces Podcast with Scroobius Pip #325
+- 2020-05-05 — Behind The Album: Distraction Pieces (2011) • Distraction Pieces Podcast with Scroobius Pip #324 — speakers: Scroobius Pip
 - 2020-04-28 — Mum & Mummer w/ Amy & Harry • Distraction Pieces Podcast with Scroobius Pip #323
 - 2020-04-22 — Ask Pip v.9 (part 2/2) • Distraction Pieces Podcast with Scroobius Pip #322
 - 2020-04-21 — Ask Pip v.9 (part 1/2) • Distraction Pieces Podcast with Scroobius Pip #322
-- 2020-04-14 — Tim Key • Distraction Pieces Podcast with Scroobius Pip #321 — speakers: Tim Key, Edinburgh Fringe, Steve Coogan Alan Partridge
-- 2020-04-08 — Isolation DrunkCast v.1 (pt 2 of 2) • Distraction Pieces Podcast with Scroobius Pip #320 — speakers: Scroobius Pip, Stu Whiffen, Chris Glassen, Hardcore Listing
-- 2020-04-07 — Isolation DrunkCast v.1 (pt 1 of 2) • Distraction Pieces Podcast with Scroobius Pip #320 — speakers: Scroobius Pip, Stu Whiffen, Chris Glassen, Hardcore Listing
+- 2020-04-14 — Tim Key • Distraction Pieces Podcast with Scroobius Pip #321
+- 2020-04-08 — Isolation DrunkCast v.1 (pt 2 of 2) • Distraction Pieces Podcast with Scroobius Pip #320
+- 2020-04-07 — Isolation DrunkCast v.1 (pt 1 of 2) • Distraction Pieces Podcast with Scroobius Pip #320
 - 2020-03-31 — Lianne La Havas • Distraction Pieces Podcast with Scroobius Pip #319 — speakers: Scroobius Pip
 - 2020-03-25 — Isolation Recommendations • Distraction Pieces Podcast with Scroobius Pip #318
-- 2020-03-18 — Ashley Walters • Distraction Pieces Podcast with Scroobius Pip #317 — speakers: Ashley Walters Distraction Pieces, Ashley Walters, Noel Clarke, Carol Jackson, Lindsey Coulson, Top Boy
-- 2020-03-11 — Cosmo Jarvis • Distraction Pieces Podcast with Scroobius Pip #316 — speakers: Scroobius Pip, Niamh Algar, Lady Macbeth, Peaky Blinders
-- 2020-03-04 — Niamh Algar • Distraction Pieces Podcast with Scroobius Pip #315 — speakers: Stephen Graham, Shane Meadows, Guy Ritchie, Barry Keoghan, Cosmo Jarvis
-- 2020-02-26 — Mae Martin • Distraction Pieces Podcast with Scroobius Pip #314 — speakers: Mae Martin, Feel Good
+- 2020-03-18 — Ashley Walters • Distraction Pieces Podcast with Scroobius Pip #317 — speakers: Ashley Walters Distraction Pieces, Scroobius Pip
+- 2020-03-11 — Cosmo Jarvis • Distraction Pieces Podcast with Scroobius Pip #316 — speakers: Scroobius Pip
+- 2020-03-04 — Niamh Algar • Distraction Pieces Podcast with Scroobius Pip #315
+- 2020-02-26 — Mae Martin • Distraction Pieces Podcast with Scroobius Pip #314
 - 2020-02-21 — Rich Wilson • Distraction Pieces Podcast with Scroobius Pip #313 — speakers: Rich Wilson Distraction Pieces
-- 2020-02-19 — Graham Fellows aka John Shuttleworth • Distraction Pieces Podcast with Scroobius Pip #312 — speakers: Graham Fellows, John Shuttleworth Distraction Pieces, John Shuttleworth, Jilted John, Brian Appleton, David Tordoff
-- 2020-02-12 — Michael Cashman • Distraction Pieces Podcast with Scroobius Pip #311 — speakers: Michael Cashman, Ian McKellen
-- 2020-02-05 — Ask Pip v.8 • Distraction Pieces Podcast with Scroobius Pip #310 — speakers: Scroobius Pip
-- 2020-01-29 — Robert Eggers • Distraction Pieces Podcast with Scroobius Pip #309 — speakers: Robert Eggers Distraction Pieces, Robert Eggers, Willem Defoe, Robert Pattinson, Jah-Rinn Blash-key
-- 2020-01-22 — Rob Auton • Distraction Pieces Podcast with Scroobius Pip #308 — speakers: Rob Auton Distraction Pieces, Rob Auton, Craig Links
-- 2020-01-15 — The Safdie Brothers • Distraction Pieces Podcast with Scroobius Pip #307 — speakers: Scroobius Pip, Robert Pattinson, Adam Sandler-starring, Adam Sandler
-- 2020-01-08 — Karl Pilkington • Distraction Pieces Podcast with Scroobius Pip #306 — speakers: Ricky Gervais, Stephen Merchant
+- 2020-02-19 — Graham Fellows aka John Shuttleworth • Distraction Pieces Podcast with Scroobius Pip #312 — speakers: Graham Fellows, John Shuttleworth Distraction Pieces
+- 2020-02-12 — Michael Cashman • Distraction Pieces Podcast with Scroobius Pip #311
+- 2020-02-05 — Ask Pip v.8 • Distraction Pieces Podcast with Scroobius Pip #310
+- 2020-01-29 — Robert Eggers • Distraction Pieces Podcast with Scroobius Pip #309 — speakers: Robert Eggers Distraction Pieces, Scroobius Pip
+- 2020-01-22 — Rob Auton • Distraction Pieces Podcast with Scroobius Pip #308 — speakers: Rob Auton Distraction Pieces, Scroobius Pip
+- 2020-01-15 — The Safdie Brothers • Distraction Pieces Podcast with Scroobius Pip #307 — speakers: Scroobius Pip
+- 2020-01-08 — Karl Pilkington • Distraction Pieces Podcast with Scroobius Pip #306
 - 2020-01-06 — Films Of The Year 2019 • Distraction Pieces Podcast with Scroobius Pip #305
-- 2020-01-01 — End Of Year Drunkcast (Part 5) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Busta Rhymes
-- 2019-12-25 — End Of Year Drunkcast (Part 4) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Scroobius Pip, jibber jabber
-- 2019-12-23 — End Of Year Drunkcast (Part 3) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Scroobius Pip, John Travolta, Tom Hardy
-- 2019-12-20 — End Of Year Drunkcast (Part 2) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Scroobius Pip, Stu Whiffen, Chris Glassen, Top Boy, Katie Hopkins, Jordan Peterson, Bryan Callen, Meth Syndicate
+- 2020-01-01 — End Of Year Drunkcast (Part 5) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Scroobius Pip
+- 2019-12-25 — End Of Year Drunkcast (Part 4) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Scroobius Pip
+- 2019-12-23 — End Of Year Drunkcast (Part 3) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Scroobius Pip
+- 2019-12-20 — End Of Year Drunkcast (Part 2) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Scroobius Pip
 - 2019-12-18 — End Of Year Drunkcast (Part 1) • Distraction Pieces Podcast with Scroobius Pip #304 — speakers: Scroobius Pip
-- 2019-12-11 — Yoni Wolf • Distraction Pieces Podcast with Scroobius Pip #303 — speakers: jibber jabber
-- 2019-12-04 — Kevin Smith • Distraction Pieces Podcast with Scroobius Pip #302 — speakers: Kevin Smith Distraction Pieces, Scroobius Pip, Kevin Smith
-- 2019-11-27 — Neil Gaiman • Distraction Pieces Podcast with Scroobius Pip #301 — speakers: Neil Gaiman, Good Omens, Peter Sellers, David Tenant, Michael Sheen
-- 2019-11-20 — Paul Feig • Distraction Pieces Podcast with Scroobius Pip #300 — speakers: Gerard Butler, Paul Feig
-- 2019-11-15 — James Mangold • Distraction Pieces Podcast with Scroobius Pip #299 — speakers: James Mangold Distraction Pieces, Scroobius Pip, James Mangold, Robert De Niro
-- 2019-11-13 — DJ Shadow • Distraction Pieces Podcast with Scroobius Pip #298 — speakers: Ultra Brite, James Lavelle, Melody Maker
-- 2019-11-08 — Eugene Simon & Erwan Marinopoulos • Distraction Pieces Podcast with Scroobius Pip #297 — speakers: Eugene Simon, Scroobius Pip, Agatha Christie, Ben Lyk, Kill Ben Lyk
+- 2019-12-11 — Yoni Wolf • Distraction Pieces Podcast with Scroobius Pip #303
+- 2019-12-04 — Kevin Smith • Distraction Pieces Podcast with Scroobius Pip #302 — speakers: Kevin Smith Distraction Pieces, Scroobius Pip
+- 2019-11-27 — Neil Gaiman • Distraction Pieces Podcast with Scroobius Pip #301
+- 2019-11-20 — Paul Feig • Distraction Pieces Podcast with Scroobius Pip #300
+- 2019-11-15 — James Mangold • Distraction Pieces Podcast with Scroobius Pip #299 — speakers: James Mangold Distraction Pieces
+- 2019-11-13 — DJ Shadow • Distraction Pieces Podcast with Scroobius Pip #298
+- 2019-11-08 — Eugene Simon & Erwan Marinopoulos • Distraction Pieces Podcast with Scroobius Pip #297 — speakers: Eugene Simon, Scroobius Pip
 - 2019-11-06 — Wretch32 • Distraction Pieces Podcast with Scroobius Pip #296
-- 2019-10-30 — Fearne Cotton • Distraction Pieces Podcast with Scroobius Pip #295 — speakers: Led Zeppelin, Sarah Cawood, Konnie Huq
-- 2019-10-22 — Daisy Haggard • Distraction Pieces Podcast with Scroobius Pip #294 — speakers: Scroobius Pip, Harry Potter, Charlie Brooker, Jo Hartley
-- 2019-10-20 — Stamma special • Distraction Pieces Podcast with Scroobius Pip #293 — speakers: George Owen, Joseph Gilgun Links
-- 2019-10-15 — Bill Bailey • Distraction Pieces Podcast with Scroobius Pip #292 — speakers: Bill Bailey Distraction Pieces, Scroobius Pip, Idris Elba
-- 2019-10-08 — Ricky Wilson (Kaiser Chiefs) • Distraction Pieces Podcast with Scroobius Pip #291 — speakers: Ricky Wilson, Mark Ronson, Pip Outro, Sam Get Cape, Rich Wilson, Frank Turner
-- 2019-10-02 — Jack Sexsmith (part 2/2) • Distraction Pieces Podcast with Scroobius Pip #290 — speakers: Jack Sexsmith, Curtis Mayfield, Jimmy Havoc, David Starr Riptide
-- 2019-10-01 — Jack Sexsmith (part 1/2) • Distraction Pieces Podcast with Scroobius Pip #290 — speakers: Jack Sexsmith, Rip Tide, Edward Dennis, David Starr Riptide
-- 2019-09-24 — Louis Theroux • Distraction Pieces Podcast with Scroobius Pip #289 — speakers: Scroobius Pip, Louis Theroux, Adam Buxton, Joe Cornish, Gorky’s Zygotic Mynci, Joe Rogan, Jimmy Saville, Pip Outro
-- 2019-09-17 — Kano • Distraction Pieces Podcast with Scroobius Pip #288 — speakers: Scroobius Pip, Mike Skinner, Top Boy, Albert Hall, Pip Outro, Louis Theroux
-- 2019-09-10 — Frank Turner • Distraction Pieces Podcast with Scroobius Pip #287 — speakers: Frank Turner Distraction Pieces, Frank Turner
-- 2019-09-03 — Tez Ilyas • Distraction Pieces Podcast with Scroobius Pip #286 — speakers: Frank Turner
-- 2019-08-27 — Serge Pizzorno • Distraction Pieces Podcast with Scroobius Pip #285 — speakers: Little Simz, David Byrne, Celebrity Gogglebox, Mark Ronson, Pip Outro, Liam Howlett, Green Links
-- 2019-08-20 — Joseph Gilgun • Distraction Pieces Podcast with Scroobius Pip #284 — speakers: Joe Gilgun, Pip Outro, Barry Keoghan Links
-- 2019-08-17 — Stu Whiffen & Adam Richardson • Distraction Pieces Podcast with Scroobius Pip #283 — speakers: Scroobius Pip, Stu Whiffen, Adam Richardson, Hardcore Listing
-- 2019-08-13 — Sara Pascoe • Distraction Pieces Podcast with Scroobius Pip #282 — speakers: Scroobius Pip, Konnie Huq, Jayde Adams Links
-- 2019-08-06 — Matt Richards • Distraction Pieces Podcast with Scroobius Pip #281 — speakers: Matt Richards, Jim Smallman, Jack Sexsmith, Jaw Hardest, Jack Gallagher
-- 2019-07-30 — Cariad Lloyd • Distraction Pieces Podcast with Scroobius Pip #280 — speakers: Scroobius Pip, Cruse Bereavement, Carla Valentine, Jean Grae Links
-- 2019-07-23 — Greg Jenner • Distraction Pieces Podcast with Scroobius Pip #279 — speakers: Greg Jenner Distraction Pieces, Scroobius Pip, Konnie Huq WeAreLizards
-- 2019-07-16 — Konnie Huq • Distraction Pieces Podcast with Scroobius Pip #278 — speakers: Scroobius Pip, Blue Peter, James Acaster, Adam Buxton, Rutger Bregman
-- 2019-07-09 — Inua Ellams • Distraction Pieces Podcast with Scroobius Pip #277 — speakers: Scroobius Pip, Saul Williams
-- 2019-07-02 — Danny Boyle • Distraction Pieces Podcast with Scroobius Pip #276 — speakers: Danny Boyle Distraction Pieces, Slumdog Millionaire, Himesh Patel, Danny Boyle, Charlie Brooker
-- 2019-06-25 — Charlie Brooker • Distraction Pieces Podcast with Scroobius Pip #275 — speakers: Charlie Brooker Distraction Pieces, Annabel Jones, Nathan Barley, Mark Millar
+- 2019-10-30 — Fearne Cotton • Distraction Pieces Podcast with Scroobius Pip #295
+- 2019-10-22 — Daisy Haggard • Distraction Pieces Podcast with Scroobius Pip #294 — speakers: Scroobius Pip
+- 2019-10-20 — Stamma special • Distraction Pieces Podcast with Scroobius Pip #293
+- 2019-10-15 — Bill Bailey • Distraction Pieces Podcast with Scroobius Pip #292 — speakers: Bill Bailey Distraction Pieces, Scroobius Pip
+- 2019-10-08 — Ricky Wilson (Kaiser Chiefs) • Distraction Pieces Podcast with Scroobius Pip #291 — speakers: Ricky Wilson, Scroobius Pip
+- 2019-10-02 — Jack Sexsmith (part 2/2) • Distraction Pieces Podcast with Scroobius Pip #290 — speakers: Jack Sexsmith
+- 2019-10-01 — Jack Sexsmith (part 1/2) • Distraction Pieces Podcast with Scroobius Pip #290 — speakers: Jack Sexsmith
+- 2019-09-24 — Louis Theroux • Distraction Pieces Podcast with Scroobius Pip #289 — speakers: Scroobius Pip
+- 2019-09-17 — Kano • Distraction Pieces Podcast with Scroobius Pip #288 — speakers: Scroobius Pip
+- 2019-09-10 — Frank Turner • Distraction Pieces Podcast with Scroobius Pip #287 — speakers: Frank Turner Distraction Pieces
+- 2019-09-03 — Tez Ilyas • Distraction Pieces Podcast with Scroobius Pip #286
+- 2019-08-27 — Serge Pizzorno • Distraction Pieces Podcast with Scroobius Pip #285 — speakers: Scroobius Pip
+- 2019-08-20 — Joseph Gilgun • Distraction Pieces Podcast with Scroobius Pip #284
+- 2019-08-17 — Stu Whiffen & Adam Richardson • Distraction Pieces Podcast with Scroobius Pip #283 — speakers: Scroobius Pip
+- 2019-08-13 — Sara Pascoe • Distraction Pieces Podcast with Scroobius Pip #282 — speakers: Scroobius Pip
+- 2019-08-06 — Matt Richards • Distraction Pieces Podcast with Scroobius Pip #281 — speakers: Matt Richards
+- 2019-07-30 — Cariad Lloyd • Distraction Pieces Podcast with Scroobius Pip #280 — speakers: Scroobius Pip
+- 2019-07-23 — Greg Jenner • Distraction Pieces Podcast with Scroobius Pip #279 — speakers: Greg Jenner Distraction Pieces, Scroobius Pip
+- 2019-07-16 — Konnie Huq • Distraction Pieces Podcast with Scroobius Pip #278 — speakers: Scroobius Pip
+- 2019-07-09 — Inua Ellams • Distraction Pieces Podcast with Scroobius Pip #277 — speakers: Scroobius Pip
+- 2019-07-02 — Danny Boyle • Distraction Pieces Podcast with Scroobius Pip #276 — speakers: Danny Boyle Distraction Pieces
+- 2019-06-25 — Charlie Brooker • Distraction Pieces Podcast with Scroobius Pip #275 — speakers: Charlie Brooker Distraction Pieces, Scroobius Pip
 - 2019-06-18 — Jed Mercurio • Distraction Pieces Podcast with Scroobius Pip #274
 - 2019-06-17 — DPP Flashback • Refugee Week Special w/Ramelle • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome
-- 2019-06-11 — Mark Grist & Ross Sutherland • Distraction Pieces Podcast with Scroobius Pip #273 — speakers: Scroobius Pip, Mark’s Mark Can’T, Tim Clare
-- 2019-06-06 — Two idiots talking MMA in Greggs • Distraction Pieces Podcast with Scroobius Pip #272 — speakers: Scroobius Pip, Stu Whiffen, Dartford Greggs
-- 2019-06-04 — Nick Helm • Distraction Pieces Podcast with Scroobius Pip #271 — speakers: Stewart Lee, Josie Long
-- 2019-05-28 — Jo Hartley • Distraction Pieces Podcast with Scroobius Pip #270 — speakers: Jo Hartley Distraction Pieces, Shane Meadows, Ricky Gervais, Tom Turgoose
-- 2019-05-21 — Dexter Fletcher • Distraction Pieces Podcast with Scroobius Pip #269 — speakers: Dexter Fletcher, Elton John, Guy Ritchie, Press Gang, Stephen Graham, Barry Keoghan Links
-- 2019-05-14 — Norman Cook aka Fatboy Slim • Distraction Pieces Podcast with Scroobius Pip #268 — speakers: Norman Cook, Norman’s Brighton, Kool Keith, Zoe Ball
-- 2019-05-11 — ME Awareness Special w/ Jason Reed • Distraction Pieces Podcast with Scroobius Pip #267 — speakers: Myalgic Encephalomyelitis, Allow Jason
-- 2019-05-07 — Tim Clare • Distraction Pieces Podcast with Scroobius Pip #266 — speakers: Tim Clare Distraction Pieces, Tim Clare, Jamie East
-- 2019-04-30 — Ed Gamble • Distraction Pieces Podcast with Scroobius Pip #265 — speakers: Scroobius Pip, James Acaster, Steve Coogan, Edinburgh Fringe, Aisling Bea
-- 2019-04-23 — Nish Kumar • Distraction Pieces Podcast with Scroobius Pip #264 — speakers: Josie Long, James Acaster, Aisling Bea
-- 2019-04-16 — Zawe Ashton • Distraction Pieces Podcast with Scroobius Pip #263 — speakers: Zawe Ashton Distraction Pieces, Scroobius Pip, Harold Pinter’s Betrayal, Jungian mantras, Michaela Coel Dpp
-- 2019-04-09 — Ron Perlman • Distraction Pieces Podcast with Scroobius Pip #262 — speakers: Ron Perlman, Ron down, Guillermo Del Toro, Stephen Merchant
-- 2019-04-04 — Secret Club Bonus! • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome, Scroobius Pip, Pip poem
-- 2019-04-02 — Jamie East • Distraction Pieces Podcast with Scroobius Pip #261 — speakers: Scroobius Pip, Jamie East, Holy Moly, Colin Murray, Nick Halkes
-- 2019-03-27 — Jayde Adams • Distraction Pieces Podcast with Scroobius Pip #260 — speakers: Jayde Adams Distraction Pieces, Russell Howard Links
-- 2019-03-22 — Winston Duke • Distraction Pieces Podcast with Scroobius Pip #259 — speakers: Jordan Peele
-- 2019-03-20 — Johann Hari • Distraction Pieces Podcast with Scroobius Pip #258 — speakers: Luckily Johann, Natalie Clapshaw, Rutger Bregman
-- 2019-03-13 — PC Leon McLeod • Distraction Pieces Podcast with Scroobius Pip #257 — speakers: Leon McLeod Distraction Pieces, Leon McLeod, Leon’s London Marathon, Natalie Clapshaw
-- 2019-03-06 — Steven Knight - Distraction Pieces Podcast with Scroobius Pip #256 — speakers: Steven Knight Distraction Pieces, Steven Knight, Florence Pugh, Stephen Graham, David Lowery
-- 2019-02-27 — Stephen Merchant - Distraction Pieces Podcast with Scroobius Pip #255 — speakers: Stephen Merchant Distraction Pieces, Scroobius Pip, Lena Headey
-- 2019-02-20 — Lolly Adefope - Distraction Pieces Podcast with Scroobius Pip #254 — speakers: Scroobius Pip
-- 2019-02-15 — Joe Cornish - Distraction Pieces Podcast with Scroobius Pip #253 — speakers: Joe Cornish Distraction Pieces, Scroobius Pip, Adam Buxton, Louis Theroux
-- 2019-02-13 — Mary J. Blige - Distraction Pieces Podcast with Scroobius Pip #252 — speakers: Distraction Pieces
-- 2019-02-06 — Joel Edgerton - Distraction Pieces Podcast with Scroobius Pip #251 — speakers: Joel Edgerton Distraction Pieces, Animal Kingdom
-- 2019-01-30 — Richard E. Grant - Distraction Pieces Podcast with Scroobius Pip #250 — speakers: Distraction Pieces, Scroobius Pip, Steve Martin
-- 2019-01-25 — Adam McKay - Distraction Pieces Podcast with Scroobius Pip #249 — speakers: Adam McKay Distraction Pieces, Dick Cheney, Christian Bale
-- 2019-01-23 — Mark Millar - Distraction Pieces Podcast with Scroobius Pip #248 — speakers: Mark Millar Distraction Pieces, Scroobius Pip, Mark Millar, Alan Moore
-- 2019-01-16 — Eddie Marsan - Distraction Pieces Podcast with Scroobius Pip #247 — speakers: Stephen Graham
-- 2019-01-09 — Films Of The Year 2018 - Distraction Pieces Podcast with Scroobius Pip #246 — speakers: Richard Nixon, Prince Charles Cinema
-- 2019-01-02 — DrunkCast (Mk10) - Part 4 - Distraction Pieces Podcast with Scroobius Pip #245 — speakers: Mrs Glasson
+- 2019-06-11 — Mark Grist & Ross Sutherland • Distraction Pieces Podcast with Scroobius Pip #273 — speakers: Scroobius Pip
+- 2019-06-06 — Two idiots talking MMA in Greggs • Distraction Pieces Podcast with Scroobius Pip #272 — speakers: Scroobius Pip
+- 2019-06-04 — Nick Helm • Distraction Pieces Podcast with Scroobius Pip #271
+- 2019-05-28 — Jo Hartley • Distraction Pieces Podcast with Scroobius Pip #270 — speakers: Jo Hartley Distraction Pieces, Scroobius Pip
+- 2019-05-21 — Dexter Fletcher • Distraction Pieces Podcast with Scroobius Pip #269 — speakers: Scroobius Pip
+- 2019-05-14 — Norman Cook aka Fatboy Slim • Distraction Pieces Podcast with Scroobius Pip #268 — speakers: Norman Cook
+- 2019-05-11 — ME Awareness Special w/ Jason Reed • Distraction Pieces Podcast with Scroobius Pip #267 — speakers: Scroobius Pip
+- 2019-05-07 — Tim Clare • Distraction Pieces Podcast with Scroobius Pip #266 — speakers: Tim Clare Distraction Pieces
+- 2019-04-30 — Ed Gamble • Distraction Pieces Podcast with Scroobius Pip #265 — speakers: Scroobius Pip
+- 2019-04-23 — Nish Kumar • Distraction Pieces Podcast with Scroobius Pip #264 — speakers: Scroobius Pip
+- 2019-04-16 — Zawe Ashton • Distraction Pieces Podcast with Scroobius Pip #263 — speakers: Zawe Ashton Distraction Pieces, Scroobius Pip
+- 2019-04-09 — Ron Perlman • Distraction Pieces Podcast with Scroobius Pip #262
+- 2019-04-04 — Secret Club Bonus! • Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome
+- 2019-04-02 — Jamie East • Distraction Pieces Podcast with Scroobius Pip #261 — speakers: Scroobius Pip
+- 2019-03-27 — Jayde Adams • Distraction Pieces Podcast with Scroobius Pip #260 — speakers: Jayde Adams Distraction Pieces
+- 2019-03-22 — Winston Duke • Distraction Pieces Podcast with Scroobius Pip #259
+- 2019-03-20 — Johann Hari • Distraction Pieces Podcast with Scroobius Pip #258
+- 2019-03-13 — PC Leon McLeod • Distraction Pieces Podcast with Scroobius Pip #257 — speakers: Leon McLeod Distraction Pieces
+- 2019-03-06 — Steven Knight - Distraction Pieces Podcast with Scroobius Pip #256 — speakers: Steven Knight Distraction Pieces
+- 2019-02-27 — Stephen Merchant - Distraction Pieces Podcast with Scroobius Pip #255 — speakers: Stephen Merchant Distraction Pieces
+- 2019-02-20 — Lolly Adefope - Distraction Pieces Podcast with Scroobius Pip #254
+- 2019-02-15 — Joe Cornish - Distraction Pieces Podcast with Scroobius Pip #253 — speakers: Joe Cornish Distraction Pieces, Scroobius Pip
+- 2019-02-13 — Mary J. Blige - Distraction Pieces Podcast with Scroobius Pip #252 — speakers: Distraction Pieces, Scroobius Pip
+- 2019-02-06 — Joel Edgerton - Distraction Pieces Podcast with Scroobius Pip #251 — speakers: Joel Edgerton Distraction Pieces
+- 2019-01-30 — Richard E. Grant - Distraction Pieces Podcast with Scroobius Pip #250 — speakers: Distraction Pieces, Scroobius Pip
+- 2019-01-25 — Adam McKay - Distraction Pieces Podcast with Scroobius Pip #249 — speakers: Adam McKay Distraction Pieces
+- 2019-01-23 — Mark Millar - Distraction Pieces Podcast with Scroobius Pip #248 — speakers: Mark Millar Distraction Pieces, Scroobius Pip
+- 2019-01-16 — Eddie Marsan - Distraction Pieces Podcast with Scroobius Pip #247
+- 2019-01-09 — Films Of The Year 2018 - Distraction Pieces Podcast with Scroobius Pip #246
+- 2019-01-02 — DrunkCast (Mk10) - Part 4 - Distraction Pieces Podcast with Scroobius Pip #245 — speakers: Scroobius Pip
 - 2018-12-26 — DrunkCast (Mk10) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #245
 - 2018-12-25 — The Kings Speech - Christmas Bonus - Distraction Pieces Podcast with Scroobius Pip #xxx
-- 2018-12-20 — DrunkCast (Mk10) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #245 — speakers: Nicholas Lyndhurst
-- 2018-12-19 — DrunkCast (Mk10) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #245 — speakers: Chris Glasson, Hardcore Listing, Stu Whiffen, Hans Gruber
-- 2018-12-12 — Russell Kane - Distraction Pieces Podcast with Scroobius Pip #244 — speakers: Russell Kane Distraction Pieces, Scroobius Pip, Russell Kane, John Cooper Clarke
-- 2018-12-05 — Boots Riley - Distraction Pieces Podcast with Scroobius Pip #243 — speakers: Scroobius Pip, Spike Lee
-- 2018-11-28 — David Lowery - Distraction Pieces Podcast with Scroobius Pip #242 — speakers: David Lowery Distraction Pieces, Scroobius Pip, David’s Old Man, Tom Waits, Robert Redford, Pete’s Dragon, MF Doom
+- 2018-12-20 — DrunkCast (Mk10) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #245
+- 2018-12-19 — DrunkCast (Mk10) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #245
+- 2018-12-12 — Russell Kane - Distraction Pieces Podcast with Scroobius Pip #244 — speakers: Russell Kane Distraction Pieces, Scroobius Pip
+- 2018-12-05 — Boots Riley - Distraction Pieces Podcast with Scroobius Pip #243
+- 2018-11-28 — David Lowery - Distraction Pieces Podcast with Scroobius Pip #242 — speakers: David Lowery Distraction Pieces, Scroobius Pip
 - 2018-11-23 — Matt Palmer - Distraction Pieces Podcast with Scroobius Pip #241 — speakers: Matt Palmer Distraction Pieces, Scroobius Pip
-- 2018-11-21 — John Cooper Clarke - Distraction Pieces Podcast with Scroobius Pip #240 — speakers: Distraction Pieces, John Cooper Clarke, Bernard Manning, Michael Madson
-- 2018-11-14 — Michael Venom Page - Distraction Pieces Podcast with Scroobius Pip #239 — speakers: Distraction Pieces, Scroobius Pip, Wu Tang, Dan Hardy pt, Dan Hardy
-- 2018-11-07 — Michaela Coel returns! - Distraction Pieces Podcast with Scroobius Pip #238 — speakers: Michaela Coel, John Goodman
-- 2018-10-31 — Liam Howlett (side B) - Distraction Pieces Podcast with Scroobius Pip #237 — speakers: Liam Howlett, tons tons
-- 2018-10-31 — Liam Howlett (side A) - Distraction Pieces Podcast with Scroobius Pip #237 — speakers: Liam Howlett, Nick Halkes
-- 2018-10-23 — Epic Beard Men (Sage Francis & B Dolan) - Distraction Pieces Podcast with Scroobius Pip #236 — speakers: Epic Beard Men, Scroobius Pip, Ex Machina, Slick Rick, Edinburgh Fringe
-- 2018-10-18 — Gizzi Erskine - Distraction Pieces Podcast with Scroobius Pip #235 — speakers: Gizzi Erskine Distraction Pieces, Scroobius Pip, Gizzi Erskine
-- 2018-10-16 — Dr Kate Devlin - Distraction Pieces Podcast with Scroobius Pip #234 — speakers: Kate Devlin Distraction Pieces, Scroobius Pip, Kate Devlin master, Dr Kate, Carla Valentine
+- 2018-11-21 — John Cooper Clarke - Distraction Pieces Podcast with Scroobius Pip #240 — speakers: Distraction Pieces
+- 2018-11-14 — Michael Venom Page - Distraction Pieces Podcast with Scroobius Pip #239 — speakers: Distraction Pieces, Scroobius Pip
+- 2018-11-07 — Michaela Coel returns! - Distraction Pieces Podcast with Scroobius Pip #238 — speakers: Michaela Coel
+- 2018-10-31 — Liam Howlett (side B) - Distraction Pieces Podcast with Scroobius Pip #237 — speakers: Liam Howlett
+- 2018-10-31 — Liam Howlett (side A) - Distraction Pieces Podcast with Scroobius Pip #237 — speakers: Liam Howlett
+- 2018-10-23 — Epic Beard Men (Sage Francis & B Dolan) - Distraction Pieces Podcast with Scroobius Pip #236 — speakers: Epic Beard Men, Scroobius Pip
+- 2018-10-18 — Gizzi Erskine - Distraction Pieces Podcast with Scroobius Pip #235 — speakers: Gizzi Erskine Distraction Pieces, Scroobius Pip
+- 2018-10-16 — Dr Kate Devlin - Distraction Pieces Podcast with Scroobius Pip #234 — speakers: Kate Devlin Distraction Pieces, Scroobius Pip
 - 2018-10-09 — Desiree Akhavan - Distraction Pieces Podcast with Scroobius Pip #233
-- 2018-10-02 — Josh Weller - Distraction Pieces Podcast with Scroobius Pip #232 — speakers: Josh Weller Distraction Pieces, Scroobius Pip, Hardcore Listings, Jordan Gray, Stuart Whiffen
-- 2018-09-25 — Dominic Monoghan - Distraction Pieces Podcast with Scroobius Pip #231 — speakers: Indulge YO, Martin Freeman, Queue Jump
-- 2018-09-22 — Eddie Dennis - Distraction Pieces Podcast with Scroobius Pip #230 — speakers: Eddie Dennis Distraction Pieces, Jack Gallagher, Queue Jump
-- 2018-09-18 — Angel Giuffria - Distraction Pieces Podcast with Scroobius Pip #229 — speakers: Angel Giuffria Distraction Pieces, Angel Giuffria, Queue Jump
-- 2018-09-11 — Drew Pearce - Distraction Pieces Podcast with Scroobius Pip #228 — speakers: Drew Pearce Distraction Pieces, Scroobius Pip, Tom Cruise, Robert Downey Jr, Queue Jump
-- 2018-09-04 — Kate Tempest - Distraction Pieces Podcast with Scroobius Pip #227 — speakers: Scroobius Pip, Rick Rubin
-- 2018-08-28 — Bart Layton & Barry Keoghan - Distraction Pieces Podcast with Scroobius Pip #226 — speakers: Barry Keoghan Distraction Pieces, Scroobius Pip, Spike Lee, Bart Layton, Barry Keoghan
-- 2018-08-23 — Spike Lee - Distraction Pieces Podcast with Scroobius Pip #225 — speakers: Jordan Peele, Spike Lee, Lee Joint
-- 2018-08-21 — Example - Distraction Pieces Podcast with Scroobius Pip #224 — speakers: Scroobius Pip, Mike Skinner
-- 2018-08-14 — Professor Green - Distraction Pieces Podcast with Scroobius Pip #223 — speakers: Lily Allen
-- 2018-08-09 — Why I Love Wrestling (Roundtable) - Distraction Pieces Podcast with Scroobius Pip #222 — speakers: Russell Lissack, Sam Duckworth, Stuart Tourle, Jim Smallman, Jim Smallman'S
-- 2018-08-07 — Tony Law - Distraction Pieces Podcast with Scroobius Pip #221 — speakers: Tony Law Distraction Pieces, Scroobius Pip, Tony Law, Pip down
-- 2018-08-02 — Birthday Party! - Distraction Pieces Podcast with Scroobius Pip #220 — speakers: Brett Goldstein, YA Been
+- 2018-10-02 — Josh Weller - Distraction Pieces Podcast with Scroobius Pip #232 — speakers: Josh Weller Distraction Pieces, Scroobius Pip
+- 2018-09-25 — Dominic Monoghan - Distraction Pieces Podcast with Scroobius Pip #231
+- 2018-09-22 — Eddie Dennis - Distraction Pieces Podcast with Scroobius Pip #230 — speakers: Eddie Dennis Distraction Pieces
+- 2018-09-18 — Angel Giuffria - Distraction Pieces Podcast with Scroobius Pip #229 — speakers: Angel Giuffria Distraction Pieces
+- 2018-09-11 — Drew Pearce - Distraction Pieces Podcast with Scroobius Pip #228 — speakers: Drew Pearce Distraction Pieces, Scroobius Pip
+- 2018-09-04 — Kate Tempest - Distraction Pieces Podcast with Scroobius Pip #227 — speakers: Scroobius Pip
+- 2018-08-28 — Bart Layton & Barry Keoghan - Distraction Pieces Podcast with Scroobius Pip #226 — speakers: Barry Keoghan Distraction Pieces, Scroobius Pip
+- 2018-08-23 — Spike Lee - Distraction Pieces Podcast with Scroobius Pip #225
+- 2018-08-21 — Example - Distraction Pieces Podcast with Scroobius Pip #224 — speakers: Scroobius Pip
+- 2018-08-14 — Professor Green - Distraction Pieces Podcast with Scroobius Pip #223
+- 2018-08-09 — Why I Love Wrestling (Roundtable) - Distraction Pieces Podcast with Scroobius Pip #222 — speakers: Scroobius Pip
+- 2018-08-07 — Tony Law - Distraction Pieces Podcast with Scroobius Pip #221 — speakers: Tony Law Distraction Pieces, Scroobius Pip
+- 2018-08-02 — Birthday Party! - Distraction Pieces Podcast with Scroobius Pip #220 — speakers: Scroobius Pip
 - 2018-07-31 — Chilly Gonzales - Distraction Pieces Podcast with Scroobius Pip #219
-- 2018-07-24 — Dan Skinner / Angelos Epithemiou - Distraction Pieces Podcast with Scroobius Pip #218 — speakers: Scroobius Pip, Dan Skinner, Angelos Epithemiou
+- 2018-07-24 — Dan Skinner / Angelos Epithemiou - Distraction Pieces Podcast with Scroobius Pip #218 — speakers: Scroobius Pip
 - 2018-07-22 — DPP BONUS - The Cinemile / Distraction Pieces Mum-Off — speakers: Cinemile Distraction
-- 2018-07-17 — Simon Pegg - Distraction Pieces Podcast with Scroobius Pip #217 — speakers: Simon Pegg Distraction Pieces, Simon Pegg, Tom Cruise
-- 2018-07-12 — Stuart Whiffen - Distraction Pieces Podcast with Scroobius Pip #216 — speakers: Stuart Whiffen Distraction Pieces, Scroobius Pip, Stuart Whiffen, Stuart Whiffen Pip
-- 2018-07-10 — Joe Cole - Distraction Pieces Podcast with Scroobius Pip #215 — speakers: Joe Cole
-- 2018-07-03 — Stephen Graham, Neil Fitzmaurice & Dan Cadan - Distraction Pieces Podcast with Scroobius Pip #214 — speakers: Stephen Graham, Mark Bolton, Dan Cadan, Kate Nash
-- 2018-06-26 — Kate Nash - Distraction Pieces Podcast with Scroobius Pip #213 — speakers: Kate Nash Distraction Pieces, Lily Allen
-- 2018-06-19 — Jamie Demetriou - Distraction Pieces Podcast with Scroobius Pip #212 — speakers: Jamie Demetriou Distraction Pieces, Jamie Demetriou, David Earl
-- 2018-06-12 — Headway special w/ Natalie Clapshaw - Distraction Pieces Podcast with Scroobius Pip #211 — speakers: Natalie Clapshaw Distraction Pieces, Natalie Clapshaw
-- 2018-06-07 — Ask Pip v.7 (Portugal edition) - Distraction Pieces Podcast with Scroobius Pip #210 — speakers: Praia Dona
+- 2018-07-17 — Simon Pegg - Distraction Pieces Podcast with Scroobius Pip #217 — speakers: Simon Pegg Distraction Pieces, Scroobius Pip
+- 2018-07-12 — Stuart Whiffen - Distraction Pieces Podcast with Scroobius Pip #216 — speakers: Stuart Whiffen Distraction Pieces, Scroobius Pip
+- 2018-07-10 — Joe Cole - Distraction Pieces Podcast with Scroobius Pip #215
+- 2018-07-03 — Stephen Graham, Neil Fitzmaurice & Dan Cadan - Distraction Pieces Podcast with Scroobius Pip #214 — speakers: Stephen Graham, Scroobius Pip
+- 2018-06-26 — Kate Nash - Distraction Pieces Podcast with Scroobius Pip #213 — speakers: Kate Nash Distraction Pieces
+- 2018-06-19 — Jamie Demetriou - Distraction Pieces Podcast with Scroobius Pip #212 — speakers: Jamie Demetriou Distraction Pieces
+- 2018-06-12 — Headway special w/ Natalie Clapshaw - Distraction Pieces Podcast with Scroobius Pip #211 — speakers: Natalie Clapshaw Distraction Pieces
+- 2018-06-07 — Ask Pip v.7 (Portugal edition) - Distraction Pieces Podcast with Scroobius Pip #210
 - 2018-06-05 — Live @ Wells Comedy Festival - Distraction Pieces Podcast with Scroobius Pip #209
-- 2018-05-29 — Martin Freeman - Distraction Pieces Podcast with Scroobius Pip #208 — speakers: Martin Freeman Distraction Pieces, Martin Freeman, Hitchhikers Guide
-- 2018-05-23 — Angles 10th Anniversary w/Dan Le Sac (2 of 2) - Distraction Pieces Podcast with Scroobius Pip #207 — speakers: Le Sac, Dan Le Sac, Dan Le Sac vs, Scroobius Pip Angles, Dan’s Twitch
-- 2018-05-22 — Angles 10th Anniversary w/Dan Le Sac (1 of 2) - Distraction Pieces Podcast with Scroobius Pip #207 — speakers: Le Sac, Dan Le Sac, Dan Le Sac vs, Scroobius Pip Angles, Dan’s Twitch
-- 2018-05-15 — Marc Goddard - Distraction Pieces Podcast with Scroobius Pip #206 — speakers: Marc Goddard Distraction Pieces, Marc Goddard
-- 2018-05-10 — Coralie Fargeat & Matilda Lutz - Distraction Pieces Podcast with Scroobius Pip #205 — speakers: Scroobius Pip, Coralie Fargeat, Matilda Lutz, David Cronenberg
+- 2018-05-29 — Martin Freeman - Distraction Pieces Podcast with Scroobius Pip #208 — speakers: Martin Freeman Distraction Pieces
+- 2018-05-23 — Angles 10th Anniversary w/Dan Le Sac (2 of 2) - Distraction Pieces Podcast with Scroobius Pip #207 — speakers: Le Sac
+- 2018-05-22 — Angles 10th Anniversary w/Dan Le Sac (1 of 2) - Distraction Pieces Podcast with Scroobius Pip #207 — speakers: Le Sac
+- 2018-05-15 — Marc Goddard - Distraction Pieces Podcast with Scroobius Pip #206 — speakers: Marc Goddard Distraction Pieces
+- 2018-05-10 — Coralie Fargeat & Matilda Lutz - Distraction Pieces Podcast with Scroobius Pip #205
 - 2018-05-08 — Jamali Maddix - Distraction Pieces Podcast with Scroobius Pip #204 — speakers: Jamali Maddix Distraction Pieces
-- 2018-05-03 — Nick Halkes - Distraction Pieces Podcast with Scroobius Pip #203 — speakers: Nick Halkes Distraction Pieces, Nick Halkes, Aphex Twin
+- 2018-05-03 — Nick Halkes - Distraction Pieces Podcast with Scroobius Pip #203 — speakers: Nick Halkes Distraction Pieces
 - 2018-05-01 — Beans On Toast - Distraction Pieces Podcast with Scroobius Pip #202
-- 2018-04-24 — Cedric Bixler-Zavala - Distraction Pieces Podcast with Scroobius Pip #201 — speakers: Cedric Bixler-Zavala Distraction Pieces, Scroobius Pip, Jello Biafra
-- 2018-04-17 — Jess Thom (Tourettes Hero) - Distraction Pieces Podcast with Scroobius Pip #200 — speakers: Scroobius Pip, Samuel Beckett
-- 2018-04-12 — Charlotte Hatherley - Distraction Pieces Podcast with Scroobius Pip #199 — speakers: Charlotte Hatherley Distraction Pieces, Scroobius Pip, Charlotte Hatherley, Bryan Ferry, Pip Truly, Altered Carbon
-- 2018-04-10 — Alexis Okeowo - Distraction Pieces Podcast with Scroobius Pip #198 — speakers: Alexis Okeowo
-- 2018-04-03 — Allen Hughes & Jimmy Iovine - Distraction Pieces Podcast with Scroobius Pip #197 — speakers: Jimmy Iovine Distraction Pieces, Allen Hughes, Jimmy Iovine, John Lennon, Bruce Springsteen, Dr Dre
+- 2018-04-24 — Cedric Bixler-Zavala - Distraction Pieces Podcast with Scroobius Pip #201 — speakers: Cedric Bixler-Zavala Distraction Pieces
+- 2018-04-17 — Jess Thom (Tourettes Hero) - Distraction Pieces Podcast with Scroobius Pip #200 — speakers: Scroobius Pip
+- 2018-04-12 — Charlotte Hatherley - Distraction Pieces Podcast with Scroobius Pip #199 — speakers: Charlotte Hatherley Distraction Pieces, Scroobius Pip
+- 2018-04-10 — Alexis Okeowo - Distraction Pieces Podcast with Scroobius Pip #198
+- 2018-04-03 — Allen Hughes & Jimmy Iovine - Distraction Pieces Podcast with Scroobius Pip #197 — speakers: Jimmy Iovine Distraction Pieces
 - 2018-03-28 — Top 5 Songs That Make You Cry w/Chris & Stu (part 2 of 2) - Distraction Pieces Podcast with Scroobius Pip #196
-- 2018-03-27 — Top 5 Songs That Make You Cry w/Chris & Stu (part 1 of 2) - Distraction Pieces Podcast with Scroobius Pip #196 — speakers: Stu Whiffen, Chris Glassen
-- 2018-03-21 — Patrisse Cullors - Distraction Pieces Podcast with Scroobius Pip #195 — speakers: Rodney King
-- 2018-03-14 — Steve McNeil - Distraction Pieces Podcast with Scroobius Pip #194 — speakers: Steve McNeil Distraction Pieces, Dave’s Go, Steve McNeil, Edinburgh Fringe
-- 2018-03-09 — Walk Like A Panther special - Distraction Pieces Podcast with Scroobius Pip #193 — speakers: Tom Hardy, Stephen Graham, Brett Goldstein, Michael Socha
-- 2018-03-07 — Mother's Day Special - Distraction Pieces Podcast with Scroobius Pip #192 — speakers: Dan Le Sac vs, Scroobius Pip if, Pip’s Mum
-- 2018-02-28 — Chris Ramsey - Distraction Pieces Podcast with Scroobius Pip #191 — speakers: Chris Ramsey Distraction Pieces, Scroobius Pip, Chris Ramsey, Russell Howard’s Good News
-- 2018-02-21 — Rutger Bregman - Distraction Pieces Podcast with Scroobius Pip #190 — speakers: Rutger Bregman Distraction Pieces, Scroobius Pip, Ted Talk
-- 2018-02-14 — Don Letts - Distraction Pieces Podcast with Scroobius Pip #189 — speakers: Don Letts Distraction Pieces, Scroobius Pip, Elvis Costello, Bob Marley
-- 2018-02-07 — Florence Pugh - Distraction Pieces Podcast with Scroobius Pip #188 — speakers: Lady Macbeth, Peaky Blinders
-- 2018-01-31 — Vicky McClure - Distraction Pieces Podcast with Scroobius Pip #187 — speakers: Dr Dre, Snoop Dogg, Scroobius Pip, Vicky McClure, Shane Meadows
-- 2018-01-26 — We Need To Talk About Wrestling - Distraction Pieces Podcast with Scroobius Pip #186 — speakers: Scroobius Pip, Kirsty Bosley, Vicky Haskins
-- 2018-01-24 — Guz Khan - Distraction Pieces Podcast with Scroobius Pip #185 — speakers: Guz Khan
+- 2018-03-27 — Top 5 Songs That Make You Cry w/Chris & Stu (part 1 of 2) - Distraction Pieces Podcast with Scroobius Pip #196 — speakers: Scroobius Pip
+- 2018-03-21 — Patrisse Cullors - Distraction Pieces Podcast with Scroobius Pip #195
+- 2018-03-14 — Steve McNeil - Distraction Pieces Podcast with Scroobius Pip #194 — speakers: Steve McNeil Distraction Pieces
+- 2018-03-09 — Walk Like A Panther special - Distraction Pieces Podcast with Scroobius Pip #193
+- 2018-03-07 — Mother's Day Special - Distraction Pieces Podcast with Scroobius Pip #192
+- 2018-02-28 — Chris Ramsey - Distraction Pieces Podcast with Scroobius Pip #191 — speakers: Chris Ramsey Distraction Pieces
+- 2018-02-21 — Rutger Bregman - Distraction Pieces Podcast with Scroobius Pip #190 — speakers: Rutger Bregman Distraction Pieces
+- 2018-02-14 — Don Letts - Distraction Pieces Podcast with Scroobius Pip #189 — speakers: Don Letts Distraction Pieces
+- 2018-02-07 — Florence Pugh - Distraction Pieces Podcast with Scroobius Pip #188
+- 2018-01-31 — Vicky McClure - Distraction Pieces Podcast with Scroobius Pip #187 — speakers: Dr Dre, Snoop Dogg
+- 2018-01-26 — We Need To Talk About Wrestling - Distraction Pieces Podcast with Scroobius Pip #186 — speakers: sensitive subject
+- 2018-01-24 — Guz Khan - Distraction Pieces Podcast with Scroobius Pip #185
 - 2018-01-17 — Paloma Faith - Distraction Pieces Podcast with Scroobius Pip #184
-- 2018-01-10 — Lena Headey - Distraction Pieces Podcast with Scroobius Pip #183 — speakers: Lena Headey Distraction Pieces, Scroobius Pip, Cersei Lannister, Lena Headey, Harvey Weinstein
-- 2018-01-03 — DrunkCast (Mk9) - Part 4 - Distraction Pieces Podcast with Scroobius Pip #182 — speakers: Scroobius Pip, Hardcore Listing, Jim Smallman, Jimmy Havoc, Frank Bruno
-- 2017-12-27 — DrunkCast (Mk9) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #182 — speakers: Jim Smallman, Jimmy Havoc, Jason Reed
-- 2017-12-22 — DrunkCast (Mk9) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #182 — speakers: Jim Smallman, Jimmy Havoc, Jason Reed
-- 2017-12-20 — DrunkCast (Mk9) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #182 — speakers: Hardcore Listing, Jim Smallman, Jimmy Havoc, Jason Reed
-- 2017-12-13 — Alex Horne - Distraction Pieces Podcast with Scroobius Pip #181 — speakers: Alex Horne Distraction Pieces, Scroobius Pip, Tim Key, Alex Horne, Edinburgh Fringery
-- 2017-12-06 — Films Of The Year 2017 - Distraction Pieces Podcast with Scroobius Pip #180 — speakers: Jim Bowen, Bless ya heart, Entirely Free
-- 2017-11-29 — Rick Edwards - Distraction Pieces Podcast with Scroobius Pip #179 — speakers: Rick Edwards Distraction Pieces, Elon Musk
+- 2018-01-10 — Lena Headey - Distraction Pieces Podcast with Scroobius Pip #183 — speakers: Lena Headey Distraction Pieces, Scroobius Pip
+- 2018-01-03 — DrunkCast (Mk9) - Part 4 - Distraction Pieces Podcast with Scroobius Pip #182
+- 2017-12-27 — DrunkCast (Mk9) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #182 — speakers: infamous Dru
+- 2017-12-22 — DrunkCast (Mk9) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #182
+- 2017-12-20 — DrunkCast (Mk9) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #182
+- 2017-12-13 — Alex Horne - Distraction Pieces Podcast with Scroobius Pip #181 — speakers: Alex Horne Distraction Pieces
+- 2017-12-06 — Films Of The Year 2017 - Distraction Pieces Podcast with Scroobius Pip #180 — speakers: Jim Bowen
+- 2017-11-29 — Rick Edwards - Distraction Pieces Podcast with Scroobius Pip #179 — speakers: Rick Edwards Distraction Pieces, Scroobius Pip
 - 2017-11-24 — Ask Pip v.6 (Part 2) - Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome
-- 2017-11-22 — Jonny Lee Miller - Distraction Pieces Podcast with Scroobius Pip #178 — speakers: Distraction Pieces, Scroobius Pip, Jonny Lee Miller, Sherlock Holmes, Lee Miller
-- 2017-11-17 — Ask Pip v.6 (Part 1) - Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome, Adam Buxton
-- 2017-11-15 — Jean Grae - Distraction Pieces Podcast with Scroobius Pip #177 — speakers: Jean Grae Distraction Pieces, Scroobius Pip, Jeannie Grigio, Jean Greasy, Jean Grae
-- 2017-11-08 — Live In Dublin (Part 2/2) - Distraction Pieces Podcast with Scroobius Pip #176 — speakers: Scroobius Pip
-- 2017-11-08 — Live In Dublin (Part 1/2) - Distraction Pieces Podcast with Scroobius Pip #176 — speakers: Scroobius Pip, Hardcore Listing, James Buckley
-- 2017-11-01 — S. Craig Zahler - Distraction Pieces Podcast with Scroobius Pip #175 — speakers: Scroobius Pip, Craig Zahler
-- 2017-10-24 — Armando Iannucci - Distraction Pieces Podcast with Scroobius Pip #174 — speakers: Armando Iannucci Distraction Pieces, Armando Iannucci, Alan Partridge
-- 2017-10-17 — Russell Howard - Distraction Pieces Podcast with Scroobius Pip #173 — speakers: Russell Howard Distraction Pieces, Scroobius Pip, Russell Howard
-- 2017-10-10 — Michael Fassbender - Distraction Pieces Podcast with Scroobius Pip #172 — speakers: Michael Fassbender Distraction Pieces, Scroobius Pip, Michael Fassbender Far, Tomas Alfredson, Jo Nesbø
-- 2017-10-03 — Helen Chamberlain - Distraction Pieces Podcast with Scroobius Pip #171 — speakers: Helen Chamberlain Distraction Pieces, Scroobius Pip, Helen Chamberlain No-one, Helen Chamberlain
-- 2017-09-26 — Hugo White of The Maccabees - Distraction Pieces Podcast with Scroobius Pip #170 — speakers: Hugo White, Kate Nash, Jack Penate
-- 2017-09-19 — Souad Mekhennet - Distraction Pieces Podcast with Scroobius Pip #169 — speakers: Souad Mekhennet Distraction Pieces, Scroobius Pip, Jihadi John
-- 2017-09-12 — Eddie Izzard - Distraction Pieces Podcast with Scroobius Pip #168 — speakers: eddieizzard Eddie
-- 2017-09-05 — Will Poulter - Distraction Pieces Podcast with Scroobius Pip #167 — speakers: Kathryn Bigelow, Leonardo Di Caprio, Tom Hardy
-- 2017-08-29 — Aisling Bea - Distraction Pieces Podcast with Scroobius Pip #166 — speakers: Aisling Bea Distraction Pieces, Scroobius Pip, Aisling Bea Aisling
-- 2017-08-23 — Ben & Jerry's special w/Rebecca & Melanie - Distraction Pieces Podcast with Scroobius Pip #165 — speakers: Scroobius Pip
+- 2017-11-22 — Jonny Lee Miller - Distraction Pieces Podcast with Scroobius Pip #178 — speakers: Distraction Pieces, Scroobius Pip
+- 2017-11-17 — Ask Pip v.6 (Part 1) - Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Welcome
+- 2017-11-15 — Jean Grae - Distraction Pieces Podcast with Scroobius Pip #177 — speakers: Jean Grae Distraction Pieces
+- 2017-11-08 — Live In Dublin (Part 2/2) - Distraction Pieces Podcast with Scroobius Pip #176
+- 2017-11-08 — Live In Dublin (Part 1/2) - Distraction Pieces Podcast with Scroobius Pip #176
+- 2017-11-01 — S. Craig Zahler - Distraction Pieces Podcast with Scroobius Pip #175
+- 2017-10-24 — Armando Iannucci - Distraction Pieces Podcast with Scroobius Pip #174 — speakers: Armando Iannucci Distraction Pieces
+- 2017-10-17 — Russell Howard - Distraction Pieces Podcast with Scroobius Pip #173 — speakers: Russell Howard Distraction Pieces, Scroobius Pip
+- 2017-10-10 — Michael Fassbender - Distraction Pieces Podcast with Scroobius Pip #172 — speakers: Michael Fassbender Distraction Pieces, Scroobius Pip
+- 2017-10-03 — Helen Chamberlain - Distraction Pieces Podcast with Scroobius Pip #171 — speakers: Helen Chamberlain Distraction Pieces
+- 2017-09-26 — Hugo White of The Maccabees - Distraction Pieces Podcast with Scroobius Pip #170 — speakers: Hugo White
+- 2017-09-19 — Souad Mekhennet - Distraction Pieces Podcast with Scroobius Pip #169 — speakers: Souad Mekhennet Distraction Pieces, Scroobius Pip
+- 2017-09-12 — Eddie Izzard - Distraction Pieces Podcast with Scroobius Pip #168 — speakers: ultra plush
+- 2017-09-05 — Will Poulter - Distraction Pieces Podcast with Scroobius Pip #167
+- 2017-08-29 — Aisling Bea - Distraction Pieces Podcast with Scroobius Pip #166 — speakers: Aisling Bea Distraction Pieces, Scroobius Pip
+- 2017-08-23 — Ben & Jerry's special w/Rebecca & Melanie - Distraction Pieces Podcast with Scroobius Pip #165 — speakers: Distraction Piece
 - 2017-08-15 — Sofie Hagen - Distraction Pieces Podcast with Scroobius Pip #164 — speakers: Sofie Hagen Distraction Pieces
 - 2017-08-08 — Laurie Penny - Distraction Pieces Podcast with Scroobius Pip #163 — speakers: Laurie Penny Distraction Pieces
-- 2017-08-02 — Secret Birthday Special - Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Birthday Welcomes, Scroobius Pip, Stephen Graham
-- 2017-08-01 — Alice Lowe - Distraction Pieces Podcast with Scroobius Pip #162 — speakers: Alice Lowe Distraction Pieces, Scroobius Pip, Garth Marenghi, Mighty Boosh, Alice Lowe
-- 2017-07-25 — Doc Brown - Distraction Pieces Podcast with Scroobius Pip #161 — speakers: Doc Brown Distraction Pieces, Ricky Gervais, Jason Isaac
-- 2017-07-18 — Laura Dockrill - Distraction Pieces Podcast with Scroobius Pip #160 — speakers: Laura Dockrill Distraction Pieces, Laura Dockrill
+- 2017-08-02 — Secret Birthday Special - Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip Birthday Welcomes, Mr Scr
+- 2017-08-01 — Alice Lowe - Distraction Pieces Podcast with Scroobius Pip #162 — speakers: Alice Lowe Distraction Pieces, Scroobius Pip
+- 2017-07-25 — Doc Brown - Distraction Pieces Podcast with Scroobius Pip #161 — speakers: Doc Brown Distraction Pieces
+- 2017-07-18 — Laura Dockrill - Distraction Pieces Podcast with Scroobius Pip #160 — speakers: Laura Dockrill Distraction Pieces
 - 2017-07-12 — DrunkCast (Mk8) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #159
-- 2017-07-12 — DrunkCast (Mk8) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #159 — speakers: Stu Whiffen, Chris Glasson
-- 2017-07-11 — DrunkCast (Mk8) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #159 — speakers: Chris Glasson
-- 2017-07-04 — 'Destiny 2' special - Distraction Pieces Podcast with Scroobius Pip #158 — speakers: Scroobius Pip, Eric Osborne, Sam White, Dan Le Sac
-- 2017-06-27 — Child Soldiers Special w/ Wayne Sharrocks - Distraction Pieces Podcast with Scroobius Pip #157 — speakers: Wayne Sharrocks Distraction Pieces, Wayne Sharrocks film
-- 2017-06-20 — Goldie - Distraction Pieces Podcast with Scroobius Pip #156 — speakers: Scroobius Pip, Pip white-knuckles
-- 2017-06-14 — Christopher Fairbank (Part 2) - Distraction Pieces Podcast with Scroobius Pip #155 — speakers: Christopher Fairbank, Scroobius Pip, Tim Burton, David Fincher
-- 2017-06-13 — Christopher Fairbank (Part 1) - Distraction Pieces Podcast with Scroobius Pip #155 — speakers: Christopher Fairbank, Scroobius Pip, Alan Partridge
-- 2017-06-06 — Neil Fitzmaurice - Distraction Pieces Podcast with Scroobius Pip #154 — speakers: Neil Fitzmaurice, more Neil
-- 2017-05-30 — Sofia Boutella - Distraction Pieces Podcast with Scroobius Pip #153 — speakers: Sofia Boutella Distraction Pieces, Scroobius Pip, Sofia Boutella One
-- 2017-05-23 — Living Room Spoken Word - Distraction Pieces Podcast with Scroobius Pip #152 — speakers: Rob Auton, Dan Le Sac vs
+- 2017-07-12 — DrunkCast (Mk8) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #159
+- 2017-07-11 — DrunkCast (Mk8) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #159
+- 2017-07-04 — 'Destiny 2' special - Distraction Pieces Podcast with Scroobius Pip #158
+- 2017-06-27 — Child Soldiers Special w/ Wayne Sharrocks - Distraction Pieces Podcast with Scroobius Pip #157 — speakers: Wayne Sharrocks Distraction Pieces
+- 2017-06-20 — Goldie - Distraction Pieces Podcast with Scroobius Pip #156
+- 2017-06-14 — Christopher Fairbank (Part 2) - Distraction Pieces Podcast with Scroobius Pip #155 — speakers: Christopher Fairbank
+- 2017-06-13 — Christopher Fairbank (Part 1) - Distraction Pieces Podcast with Scroobius Pip #155 — speakers: Christopher Fairbank
+- 2017-06-06 — Neil Fitzmaurice - Distraction Pieces Podcast with Scroobius Pip #154 — speakers: Scroobius Pip
+- 2017-05-30 — Sofia Boutella - Distraction Pieces Podcast with Scroobius Pip #153 — speakers: Sofia Boutella Distraction Pieces
+- 2017-05-23 — Living Room Spoken Word - Distraction Pieces Podcast with Scroobius Pip #152
 - 2017-05-16 — Huey Morgan - Distraction Pieces Podcast with Scroobius Pip #151 — speakers: Huey Morgan Distraction Pieces
-- 2017-05-09 — Andrew 'Beef' Johnston - Distraction Pieces Podcast with Scroobius Pip #150 — speakers: Andrew Beef, Scroobius Pip
+- 2017-05-09 — Andrew 'Beef' Johnston - Distraction Pieces Podcast with Scroobius Pip #150 — speakers: Andrew Beef
 - 2017-05-03 — Ask Pip v.5 (Part 2) - Distraction Pieces Podcast with Scroobius Pip #149 — speakers: Scroobius Pip
 - 2017-05-02 — Ask Pip v.5 (Part 1) - Distraction Pieces Podcast with Scroobius Pip #149 — speakers: Scroobius Pip
 - 2017-04-25 — Gemma Cairney - Distraction Pieces Podcast with Scroobius Pip #148
-- 2017-04-18 — Kelly Marcel - Distraction Pieces Podcast with Scroobius Pip #147 — speakers: Scroobius Pip, prone squirrel, Tom Hardy, Stephen Spielberg
-- 2017-04-11 — Polarbear - Distraction Pieces Podcast with Scroobius Pip #146 — speakers: Steven Camden
-- 2017-04-05 — DrunkCast (Mk7) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #145 — speakers: Scarlett Johannson
+- 2017-04-18 — Kelly Marcel - Distraction Pieces Podcast with Scroobius Pip #147
+- 2017-04-11 — Polarbear - Distraction Pieces Podcast with Scroobius Pip #146
+- 2017-04-05 — DrunkCast (Mk7) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #145
 - 2017-04-05 — DrunkCast (Mk7) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #145
-- 2017-04-04 — DrunkCast (Mk7) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #145 — speakers: Scroobius Pip, Stu Whiffen, Chris Glasson
-- 2017-03-28 — James Buckley - Distraction Pieces Podcast with Scroobius Pip #144 — speakers: James Buckley Distraction Pieces, Scroobius Pip, James Buckley, Stu Whiffen, Del Boy
-- 2017-03-22 — Susan Wokoma - Distraction Pieces Podcast with Scroobius Pip #143 — speakers: Susan Wokoma Distraction Pieces, Susan Wokoma
-- 2017-03-17 — Rory MacDonald - Distraction Pieces Podcast with Scroobius Pip #142 — speakers: Rory MacDonald Distraction Pieces, Dan Hardy
+- 2017-04-04 — DrunkCast (Mk7) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #145
+- 2017-03-28 — James Buckley - Distraction Pieces Podcast with Scroobius Pip #144 — speakers: James Buckley Distraction Pieces
+- 2017-03-22 — Susan Wokoma - Distraction Pieces Podcast with Scroobius Pip #143 — speakers: Susan Wokoma Distraction Pieces
+- 2017-03-17 — Rory MacDonald - Distraction Pieces Podcast with Scroobius Pip #142 — speakers: Rory MacDonald Distraction Pieces
 - 2017-03-15 — Dan Hardy (Mk 2) - Distraction Pieces Podcast with Scroobius Pip #141 — speakers: Dan Hardy
 - 2017-03-08 — Holly Ross (The Lovely Eggs) - Distraction Pieces Podcast with Scroobius Pip #140 — speakers: Holly Ross
 - 2017-03-01 — David Johns - Distraction Pieces Podcast with Scroobius Pip #139 — speakers: David Johns Distraction Pieces
-- 2017-02-22 — Katherine Ryan - Distraction Pieces Podcast with Scroobius Pip #138 — speakers: Katherine Ryan Distraction Pieces, Scroobius Pip, Katherine Ryan, Jessica Simpson, Amy Schumer
-- 2017-02-15 — Ancilla van de Leest - Distraction Pieces Podcast with Scroobius Pip #137 — speakers: Ancilla van de Leest
+- 2017-02-22 — Katherine Ryan - Distraction Pieces Podcast with Scroobius Pip #138 — speakers: Katherine Ryan Distraction Pieces
+- 2017-02-15 — Ancilla van de Leest - Distraction Pieces Podcast with Scroobius Pip #137
 - 2017-02-08 — Wim Hof - Distraction Pieces Podcast with Scroobius Pip #136 — speakers: Wim Hof Distraction Pieces
 - 2017-02-01 — Homelessness Special Part 2 - Haircuts 4 Homeless - Distraction Pieces Podcast with Scroobius Pip #135
-- 2017-02-01 — Homelessness Special Part 1 - Mustard Tree - Distraction Pieces Podcast with Scroobius Pip #135 — speakers: Homelessness Special, Mustard Tree
+- 2017-02-01 — Homelessness Special Part 1 - Mustard Tree - Distraction Pieces Podcast with Scroobius Pip #135
 - 2017-01-25 — Garth Jennings - Distraction Pieces Podcast with Scroobius Pip #134
-- 2017-01-18 — James McAvoy - Distraction Pieces Podcast with Scroobius Pip #133 — speakers: James McAvoy Distraction Pieces, James McAvoy Pip
-- 2017-01-11 — Matt Willis - Distraction Pieces Podcast with Scroobius Pip #132 — speakers: Matt Willis Distraction Pieces, Matt Willis
-- 2017-01-04 — Rob Parker - Distraction Pieces Podcast with Scroobius Pip #131 — speakers: Rob Parker Distraction Pieces, Rob Parker, Scroobius Pip, Tom Hardy, Stephen Graham
-- 2016-12-28 — DrunkCast (Mk6) - Xmas Special Part 4 - Distraction Pieces Podcast with Scroobius Pip #130 — speakers: Scroobius Pip, Chris Glasson, Stu Whiffen
-- 2016-12-26 — DrunkCast (Mk6) - Xmas Special Part 3 - Distraction Pieces Podcast with Scroobius Pip #130 — speakers: Chris Glasson, Stu Whiffen
-- 2016-12-23 — DrunkCast (Mk6) - Xmas Special Part 2 - Distraction Pieces Podcast with Scroobius Pip #130 — speakers: Chris Glasson, Stu Whiffen
-- 2016-12-21 — DrunkCast (Mk6) - Xmas Special Part 1 - Distraction Pieces Podcast with Scroobius Pip #130 — speakers: Chris Glasson
+- 2017-01-18 — James McAvoy - Distraction Pieces Podcast with Scroobius Pip #133 — speakers: James McAvoy Distraction Pieces
+- 2017-01-11 — Matt Willis - Distraction Pieces Podcast with Scroobius Pip #132 — speakers: Matt Willis Distraction Pieces
+- 2017-01-04 — Rob Parker - Distraction Pieces Podcast with Scroobius Pip #131 — speakers: Rob Parker Distraction Pieces
+- 2016-12-28 — DrunkCast (Mk6) - Xmas Special Part 4 - Distraction Pieces Podcast with Scroobius Pip #130
+- 2016-12-26 — DrunkCast (Mk6) - Xmas Special Part 3 - Distraction Pieces Podcast with Scroobius Pip #130
+- 2016-12-23 — DrunkCast (Mk6) - Xmas Special Part 2 - Distraction Pieces Podcast with Scroobius Pip #130
+- 2016-12-21 — DrunkCast (Mk6) - Xmas Special Part 1 - Distraction Pieces Podcast with Scroobius Pip #130
 - 2016-12-14 — Michaela Coel - Distraction Pieces Podcast with Scroobius Pip #129 — speakers: Michaela Coel Distraction Pieces
-- 2016-12-07 — Robert Sheehan - Distraction Pieces Podcast with Scroobius Pip #128 — speakers: Robert Sheehan Distraction Pieces, Jet Trash
+- 2016-12-07 — Robert Sheehan - Distraction Pieces Podcast with Scroobius Pip #128 — speakers: Robert Sheehan Distraction Pieces
 - 2016-11-30 — Lauren Laverne - Distraction Pieces Podcast with Scroobius Pip #127 — speakers: Lauren Laverne Distraction Pieces
-- 2016-11-23 — Distraction Pieces Network Special - Distraction Pieces Podcast with Scroobius Pip #126 — speakers: Jim Smallman, Jason Reed
-- 2016-11-16 — B. Dolan / Knowmore.org - Distraction Pieces Podcast with Scroobius Pip #125
-- 2016-11-14 — UFC 205 Roundtable w/ Chris & Sam - Distraction Pieces Podcast with Scroobius Pip #124 — speakers: Chris Glasson, Sam Marshall
-- 2016-11-09 — Iain Lee - Distraction Pieces Podcast with Scroobius Pip #123 — speakers: Scroobius Pip
+- 2016-11-23 — Distraction Pieces Network Special - Distraction Pieces Podcast with Scroobius Pip #126
+- 2016-11-16 — B. Dolan / Knowmore.org - Distraction Pieces Podcast with Scroobius Pip #125 — speakers: all seein
+- 2016-11-14 — UFC 205 Roundtable w/ Chris & Sam - Distraction Pieces Podcast with Scroobius Pip #124
+- 2016-11-09 — Iain Lee - Distraction Pieces Podcast with Scroobius Pip #123
 - 2016-11-02 — Geoff Lloyd - Distraction Pieces Podcast with Scroobius Pip #122 — speakers: Geoff Lloyd Distraction Pieces
 - 2016-10-25 — Dignity In Dying (w/ Lloyd & Mick) - Distraction Pieces Podcast with Scroobius Pip #121
-- 2016-10-18 — John Bradley - Distraction Pieces Podcast with Scroobius Pip #120 — speakers: John Bradley Distraction Pieces, John Bradley
-- 2016-10-11 — Jack Gallagher - Distraction Pieces Podcast with Scroobius Pip #119 — speakers: Jack Gallagher Distraction Pieces, Scroobius Pip, Cruiserweight Classic, Gentleman Jack, Jack Gallagher
+- 2016-10-18 — John Bradley - Distraction Pieces Podcast with Scroobius Pip #120 — speakers: John Bradley Distraction Pieces
+- 2016-10-11 — Jack Gallagher - Distraction Pieces Podcast with Scroobius Pip #119 — speakers: Jack Gallagher Distraction Pieces
 - 2016-10-05 — DrunkCast (Mk5) - Part 4 - Distraction Pieces Podcast with Scroobius Pip #118
-- 2016-10-05 — DrunkCast (Mk5) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #118 — speakers: Kevin Hart, Paul Blart, Brett Goldstein
-- 2016-10-05 — DrunkCast (Mk5) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #118
-- 2016-10-04 — DrunkCast (Mk5) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #118 — speakers: Scroobius Pip, Christopher Glasson, Stu Whiffen
-- 2016-09-27 — Frankie Boyle - Distraction Pieces Podcast with Scroobius Pip #117 — speakers: Frankie Boyle Distraction Pieces, Frankie Boyle
-- 2016-09-20 — Edith Bowman - Distraction Pieces Podcast with Scroobius Pip #116 — speakers: Edith Bowman Distraction Pieces, Scroobius Pip
-- 2016-09-14 — Satin Lizard Lounge Special (part 2) - Distraction Pieces Podcast with Scroobius Pip #115 — speakers: Satin Lizard Lounge Special, Social Media Hollie McNISHWEB, Jack Rookeweb
+- 2016-10-05 — DrunkCast (Mk5) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #118
+- 2016-10-05 — DrunkCast (Mk5) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #118 — speakers: upon yo
+- 2016-10-04 — DrunkCast (Mk5) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #118
+- 2016-09-27 — Frankie Boyle - Distraction Pieces Podcast with Scroobius Pip #117 — speakers: Frankie Boyle Distraction Pieces
+- 2016-09-20 — Edith Bowman - Distraction Pieces Podcast with Scroobius Pip #116 — speakers: Edith Bowman Distraction Pieces
+- 2016-09-14 — Satin Lizard Lounge Special (part 2) - Distraction Pieces Podcast with Scroobius Pip #115 — speakers: Satin Lizard Lounge Special
 - 2016-09-13 — Bestival Special (part 1) - Distraction Pieces Podcast with Scroobius Pip #115
-- 2016-09-06 — Neil Woods - Distraction Pieces Podcast with Scroobius Pip #114 — speakers: Neil Woods Distraction Pieces, Scroobius Pip, Neil Woods
+- 2016-09-06 — Neil Woods - Distraction Pieces Podcast with Scroobius Pip #114 — speakers: Neil Woods Distraction Pieces
 - 2016-08-31 — Limmy (Part 2) - Distraction Pieces Podcast with Scroobius Pip #113 — speakers: Scroobius Pip
 - 2016-08-30 — Limmy (Part 1) - Distraction Pieces Podcast with Scroobius Pip #113
-- 2016-08-23 — Marcus Brigstocke - Distraction Pieces Podcast with Scroobius Pip #112 — speakers: Scroobius Pip, Miles Davis
-- 2016-08-16 — Brendon Burns - Distraction Pieces Podcast with Scroobius Pip #111 — speakers: Brendon Burns Distraction Pieces, John Oliver, Colt Cabana
-- 2016-08-11 — Live from Oran Mor, Glasgow - Distraction Pieces Podcast with Scroobius Pip #110 — speakers: Oran Mor, Scroobius Pip, Suicide Squad
-- 2016-08-09 — Live from the Edinburgh Fringe - Distraction Pieces Podcast with Scroobius Pip #109 — speakers: Edinburgh Fringe
-- 2016-08-04 — Live from the Leicester Square Theatre - Part 2 - Distraction Pieces Podcast with Scroobius Pip #108 — speakers: Scroobius Pip, Stu Whiffen
+- 2016-08-23 — Marcus Brigstocke - Distraction Pieces Podcast with Scroobius Pip #112
+- 2016-08-16 — Brendon Burns - Distraction Pieces Podcast with Scroobius Pip #111 — speakers: Brendon Burns Distraction Pieces, John Oliver, Scroobius Pi
+- 2016-08-11 — Live from Oran Mor, Glasgow - Distraction Pieces Podcast with Scroobius Pip #110 — speakers: Oran Mor
+- 2016-08-09 — Live from the Edinburgh Fringe - Distraction Pieces Podcast with Scroobius Pip #109
+- 2016-08-04 — Live from the Leicester Square Theatre - Part 2 - Distraction Pieces Podcast with Scroobius Pip #108 — speakers: Distraction Pieces
 - 2016-08-04 — Live from the Leicester Square Theatre - Part 1 - Distraction Pieces Podcast with Scroobius Pip #108
 - 2016-08-02 — Bonus Birthday Special (Minisode) - Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip
 - 2016-07-27 — DrunkCast (Mk4) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #107
-- 2016-07-27 — DrunkCast (Mk4) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #107 — speakers: Caroline Aherne
+- 2016-07-27 — DrunkCast (Mk4) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #107
 - 2016-07-26 — DrunkCast (Mk4) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #107
-- 2016-07-19 — Thomas Coles - Distraction Pieces Podcast with Scroobius Pip #106 — speakers: Thomas Coles Distraction Pieces, Dan Le Sac vs
-- 2016-07-12 — Jordan Stephens (Rizzle Kicks) - Distraction Pieces Podcast with Scroobius Pip #105 — speakers: Jordan Stephens, Rizzle Kicks, Scroobius Pip
+- 2016-07-19 — Thomas Coles - Distraction Pieces Podcast with Scroobius Pip #106 — speakers: Thomas Coles Distraction Pieces, Distraction Pi
+- 2016-07-12 — Jordan Stephens (Rizzle Kicks) - Distraction Pieces Podcast with Scroobius Pip #105 — speakers: Jordan Stephens, Rizzle Kicks
 - 2016-07-05 — James Acaster - Distraction Pieces Podcast with Scroobius Pip #104 — speakers: James Acaster Distraction Pieces
-- 2016-06-28 — Tom Rosenthal - Distraction Pieces Podcast with Scroobius Pip #103 — speakers: Tom Rosenthal Distraction Pieces, Jim Rosenthal
+- 2016-06-28 — Tom Rosenthal - Distraction Pieces Podcast with Scroobius Pip #103 — speakers: Tom Rosenthal Distraction Pieces
 - 2016-06-22 — Colin Murray (part 2) - Distraction Pieces Podcast with Scroobius Pip #102 — speakers: Colin Murray
 - 2016-06-21 — Colin Murray (part 1) - Distraction Pieces Podcast with Scroobius Pip #102 — speakers: Colin Murray
-- 2016-06-15 — DrunkCast (Mk3) - Part 4 - Distraction Pieces Podcast with Scroobius Pip #101 — speakers: Chris Glasson, Stu Whiffen, Redshift Rebels, Scroobius Pip, Secret CInema, Brian Gittins
-- 2016-06-14 — DrunkCast (Mk3) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #101 — speakers: Tom Coles
-- 2016-06-08 — DrunkCast (Mk3) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #101 — speakers: DJ Yoda
+- 2016-06-15 — DrunkCast (Mk3) - Part 4 - Distraction Pieces Podcast with Scroobius Pip #101
+- 2016-06-14 — DrunkCast (Mk3) - Part 3 - Distraction Pieces Podcast with Scroobius Pip #101
+- 2016-06-08 — DrunkCast (Mk3) - Part 2 - Distraction Pieces Podcast with Scroobius Pip #101
 - 2016-06-07 — DrunkCast (Mk3) - Part 1 - Distraction Pieces Podcast with Scroobius Pip #101
-- 2016-06-01 — Dan Le Sac (part 2) - Distraction Pieces Podcast with Scroobius Pip #100 — speakers: Dan Le Sac, Dan Le, Dan Le Sac vs
-- 2016-05-31 — Dan Le Sac (part 1) - Distraction Pieces Podcast with Scroobius Pip #100 — speakers: Dan Le Sac, Scroobius Pip, Dan Le Sac vs
-- 2016-05-24 — David Earl & Joe Wilkinson - Distraction Pieces Podcast with Scroobius Pip #99 — speakers: David Earl, Joe Wilkinson Distraction Pieces, Brian Gittins, Joe Wilkinson, Ricky Gervais
+- 2016-06-01 — Dan Le Sac (part 2) - Distraction Pieces Podcast with Scroobius Pip #100 — speakers: Dan Le Sac
+- 2016-05-31 — Dan Le Sac (part 1) - Distraction Pieces Podcast with Scroobius Pip #100 — speakers: Dan Le Sac
+- 2016-05-24 — David Earl & Joe Wilkinson - Distraction Pieces Podcast with Scroobius Pip #99 — speakers: David Earl, Joe Wilkinson Distraction Pieces
 - 2016-05-17 — Will Ospreay - Distraction Pieces Podcast with Scroobius Pip #98 — speakers: Will Ospreay Distraction Pieces
-- 2016-05-10 — Isy Suttie - Distraction Pieces Podcast with Scroobius Pip #97 — speakers: Edinburgh Fringe
-- 2016-05-03 — Kathy Burke - Distraction Pieces Podcast with Scroobius Pip #96 — speakers: Kathy Burke Distraction Pieces, Gary Oldman
+- 2016-05-10 — Isy Suttie - Distraction Pieces Podcast with Scroobius Pip #97
+- 2016-05-03 — Kathy Burke - Distraction Pieces Podcast with Scroobius Pip #96 — speakers: Kathy Burke Distraction Pieces
 - 2016-04-26 — Michael Socha - Distraction Pieces Podcast with Scroobius Pip #95 — speakers: Michael Socha Distraction Pieces
-- 2016-04-24 — Bonus Episode! - Distraction Pieces Podcast with Scroobius Pip — speakers: Scroobius Pip
+- 2016-04-24 — Bonus Episode! - Distraction Pieces Podcast with Scroobius Pip
 - 2016-04-19 — Ed Skrein [part 2 of 2] - Distraction Pieces Podcast with Scroobius Pip #94 — speakers: Ed Skrein
-- 2016-04-19 — Ed Skrein [part 1 of 2] - Distraction Pieces Podcast with Scroobius Pip #94 — speakers: Ed Skrein, Transporter Refueled
-- 2016-04-12 — Carl Barât - Distraction Pieces Podcast with Scroobius Pip #93 — speakers: Carl Barât Distraction Pieces, Scroobius Pip, Carl Barât, Pete Doherty
+- 2016-04-19 — Ed Skrein [part 1 of 2] - Distraction Pieces Podcast with Scroobius Pip #94 — speakers: Ed Skrein
+- 2016-04-12 — Carl Barât - Distraction Pieces Podcast with Scroobius Pip #93 — speakers: Carl Barât Distraction Pieces
 - 2016-04-05 — Ask Pip v.4 - Distraction Pieces Podcast with Scroobius Pip #92
 - 2016-03-30 — DrunkCast Part 3/3 - Distraction Pieces Podcast with Scroobius Pip #91
 - 2016-03-30 — DrunkCast Part 2/3 - Distraction Pieces Podcast with Scroobius Pip #91 — speakers: more booze, more banter
-- 2016-03-29 — DrunkCast Part 1/3 - Distraction Pieces Podcast with Scroobius Pip #91 — speakers: Scroobius Pip, Stu Whiffen, Chris Glassen
-- 2016-03-23 — Georgina Campbell - Distraction Pieces Podcast with Scroobius Pip #90 — speakers: Georgina Campbell
+- 2016-03-29 — DrunkCast Part 1/3 - Distraction Pieces Podcast with Scroobius Pip #91
+- 2016-03-23 — Georgina Campbell - Distraction Pieces Podcast with Scroobius Pip #90
 - 2016-03-16 — Blindboy of The Rubberbandits - Distraction Pieces Podcast with Scroobius Pip #89
-- 2016-03-11 — LEAP UK special - Distraction Pieces Podcast with Scroobius Pip #88 — speakers: Jason Reed
-- 2016-03-09 — Stephen Graham - Distraction Pieces Podcast with Scroobius Pip #87 — speakers: Stephen Graham Distraction Pieces, Stephen Graham Full, Al Capone
-- 2016-03-02 — Housing for Women special - Mira - Distraction Pieces Podcast with Scroobius Pip #86 — speakers: Comic Relief
+- 2016-03-11 — LEAP UK special - Distraction Pieces Podcast with Scroobius Pip #88
+- 2016-03-09 — Stephen Graham - Distraction Pieces Podcast with Scroobius Pip #87 — speakers: Stephen Graham Distraction Pieces
+- 2016-03-02 — Housing for Women special - Mira - Distraction Pieces Podcast with Scroobius Pip #86 — speakers: Housing Fo
 - 2016-02-24 — Ryan Callanan aka RYCA - Distraction Pieces Podcast with Scroobius Pip #85 — speakers: Ryan Callanan
-- 2016-02-17 — Saul Williams - Distraction Pieces Podcast with Scroobius Pip #84 — speakers: Saul Williams Distraction Pieces, Loser King
-- 2016-02-10 — Jim Smallman of PROGRESS Wrestling - Distraction Pieces Podcast with Scroobius Pip #83 — speakers: Jim Smallman, Jim Smallman Full
-- 2016-02-03 — Kieron Gillen & Jamie McKelvie - Distraction Pieces Podcast with Scroobius Pip #82 — speakers: Jamie McKelvie Distraction Pieces, Kieron Gillen
+- 2016-02-17 — Saul Williams - Distraction Pieces Podcast with Scroobius Pip #84 — speakers: Saul Williams Distraction Pieces
+- 2016-02-10 — Jim Smallman of PROGRESS Wrestling - Distraction Pieces Podcast with Scroobius Pip #83 — speakers: Jim Smallman
+- 2016-02-03 — Kieron Gillen & Jamie McKelvie - Distraction Pieces Podcast with Scroobius Pip #82 — speakers: Jamie McKelvie Distraction Pieces
 - 2016-01-27 — Jason Reed - Distraction Pieces Podcast with Scroobius Pip #81
-- 2016-01-20 — Robin Ince - Distraction Pieces Podcast with Scroobius Pip #80 — speakers: Robin Ince Distraction Pieces, Ricky Gervais, Monkey Cage, Brian Cox
+- 2016-01-20 — Robin Ince - Distraction Pieces Podcast with Scroobius Pip #80 — speakers: Robin Ince Distraction Pieces
 - 2016-01-13 — Ask Pip [Part 2] - Distraction Pieces Podcast with Scroobius Pip #79
 - 2016-01-13 — Ask Pip [Part 1] - Distraction Pieces Podcast with Scroobius Pip #79
-- 2016-01-06 — End Of Year Review [Part 5] - Distraction Pieces Podcast with Scroobius Pip #78
+- 2016-01-06 — End Of Year Review [Part 5] - Distraction Pieces Podcast with Scroobius Pip #78 — speakers: Distraction Piec
 - 2015-12-31 — End Of Year Review [Part 4] - Distraction Pieces Podcast with Scroobius Pip #77
 - 2015-12-30 — End Of Year Review [Part 3] - Distraction Pieces Podcast with Scroobius Pip #76
 - 2015-12-24 — End Of Year Review [Part 2] - Distraction Pieces Podcast with Scroobius Pip #75
-- 2015-12-23 — End Of Year Review [Part 1] - Distraction Pieces Podcast with Scroobius Pip #74 — speakers: Chris Glassen, Stu Whiffen
+- 2015-12-23 — End Of Year Review [Part 1] - Distraction Pieces Podcast with Scroobius Pip #74
 - 2015-12-16 — Itch - Distraction Pieces Podcast with Scroobius Pip #73
 - 2015-12-09 — Dale Vince (Ecotricity) - Distraction Pieces Podcast with Scroobius Pip #72 — speakers: Dale Vince
-- 2015-12-04 — John Osborne - Distraction Pieces Podcast with Scroobius Pip #71 — speakers: John Osborne Distraction Pieces, John Osborne
-- 2015-12-02 — Richard Herring - Distraction Pieces Podcast with Scroobius Pip #70 — speakers: Richard Herring Distraction Pieces, Stewart Lee
+- 2015-12-04 — John Osborne - Distraction Pieces Podcast with Scroobius Pip #71 — speakers: John Osborne Distraction Pieces
+- 2015-12-02 — Richard Herring - Distraction Pieces Podcast with Scroobius Pip #70 — speakers: Richard Herring Distraction Pieces
 - 2015-11-25 — Kurt Sutter Part 2 - Distraction Pieces Podcast with Scroobius Pip #69 — speakers: Kurt Sutter
 - 2015-11-25 — Kurt Sutter Part 1 - Distraction Pieces Podcast with Scroobius Pip #69 — speakers: Kurt Sutter
 - 2015-11-18 — Chris Jericho - Distraction Pieces Podcast with Scroobius Pip #68 — speakers: Chris Jericho Distraction Pieces
 - 2015-11-11 — DPP LIVE Part 2 - Distraction Pieces Podcast with Scroobius Pip #67
-- 2015-11-11 — DPP LIVE Part 1 - Distraction Pieces Podcast with Scroobius Pip #67 — speakers: Dan Le Sac vs, Keith Clark
-- 2015-11-04 — Adam Buxton - Distraction Pieces Podcast with Scroobius Pip #66 — speakers: Adam Buxton Distraction Pieces, Adam Buxton, Joe Cornish
-- 2015-10-28 — Akala - Distraction Pieces Podcast with Scroobius Pip #65 — speakers: Hip Hop
-- 2015-10-21 — Tom Robinson - Part 2 - Distraction Pieces Podcast with Scroobius Pip #64 — speakers: Tom Robinson
-- 2015-10-20 — Tom Robinson - Part 1 - Distraction Pieces Podcast with Scroobius Pip #64 — speakers: Tom Robinson
-- 2015-10-13 — Roots Manuva - Distraction Pieces Podcast with Scroobius Pip #63 — speakers: Roots Manuva Distraction Pieces, Roots Manuva
-- 2015-10-06 — Brett Goldstein & Jon Drever - Distraction Pieces Podcast with Scroobius Pip #62 — speakers: Jon Drever
-- 2015-09-29 — Garth Ennis - Distraction Pieces Podcast with Scroobius Pip #61 — speakers: Comic Book, Garth Ennis
-- 2015-09-22 — Preston - Distraction Pieces Podcast with Scroobius Pip #60 — speakers: Sam Preston, Celebrity Big Brother
-- 2015-09-17 — Andrew Shim - Distraction Pieces Podcast with Scroobius Pip #59 — speakers: Andrew Shim Distraction Pieces, Shane Meadows, Andrew Shim
-- 2015-09-15 — Tom Davis - Distraction Pieces Podcast with Scroobius Pip #58 — speakers: Tom Davis Distraction Pieces, Tom Davis, Hip Hop
-- 2015-09-08 — Tall Dark Friend - Distraction Pieces Podcast with Scroobius Pip #57 — speakers: Tall Dark Friend, Jordan Gray
-- 2015-09-01 — Frank Carter - Distraction Pieces Podcast with Scroobius Pip #56 — speakers: Frank Carter Distraction Pieces, Frank Carter
-- 2015-08-25 — Carla Valentine - Distraction Pieces Podcast with Scroobius Pip #55 — speakers: Carla Valentine Distraction Pieces, Carla Valentine
+- 2015-11-11 — DPP LIVE Part 1 - Distraction Pieces Podcast with Scroobius Pip #67
+- 2015-11-04 — Adam Buxton - Distraction Pieces Podcast with Scroobius Pip #66 — speakers: Adam Buxton Distraction Pieces
+- 2015-10-28 — Akala - Distraction Pieces Podcast with Scroobius Pip #65
+- 2015-10-21 — Tom Robinson - Part 2 - Distraction Pieces Podcast with Scroobius Pip #64
+- 2015-10-20 — Tom Robinson - Part 1 - Distraction Pieces Podcast with Scroobius Pip #64
+- 2015-10-13 — Roots Manuva - Distraction Pieces Podcast with Scroobius Pip #63 — speakers: Roots Manuva Distraction Pieces
+- 2015-10-06 — Brett Goldstein & Jon Drever - Distraction Pieces Podcast with Scroobius Pip #62
+- 2015-09-29 — Garth Ennis - Distraction Pieces Podcast with Scroobius Pip #61 — speakers: legendary Com
+- 2015-09-22 — Preston - Distraction Pieces Podcast with Scroobius Pip #60
+- 2015-09-17 — Andrew Shim - Distraction Pieces Podcast with Scroobius Pip #59 — speakers: Andrew Shim Distraction Pieces
+- 2015-09-15 — Tom Davis - Distraction Pieces Podcast with Scroobius Pip #58 — speakers: Tom Davis Distraction Pieces, Tom Davis
+- 2015-09-08 — Tall Dark Friend - Distraction Pieces Podcast with Scroobius Pip #57
+- 2015-09-01 — Frank Carter - Distraction Pieces Podcast with Scroobius Pip #56 — speakers: Frank Carter Distraction Pieces
+- 2015-08-25 — Carla Valentine - Distraction Pieces Podcast with Scroobius Pip #55 — speakers: Carla Valentine Distraction Pieces
 - 2015-08-18 — Huw Stephens - Distraction Pieces Podcast with Scroobius Pip #54
-- 2015-08-11 — Dr Suzi Gage - Distraction Pieces Podcast with Scroobius Pip #53
-- 2015-08-05 — Greenpeace Special Part 2 - Ben Ayliffe & Frank Hewetson - Distraction Pieces Podcast with Scroobius Pip #52 — speakers: Frank Hewetson Distraction Pieces, Ben Stewart, Ben Ayliffe, Frank Hewetson
-- 2015-08-04 — Greenpeace Special Part 1 - Ben Stewart - Distraction Pieces Podcast with Scroobius Pip #52 — speakers: Ben Stewart Distraction Pieces, Ben Stewart, Ben Ayliffe, Frank Hewetson
+- 2015-08-11 — Dr Suzi Gage - Distraction Pieces Podcast with Scroobius Pip #53 — speakers: Dr Su
+- 2015-08-05 — Greenpeace Special Part 2 - Ben Ayliffe & Frank Hewetson - Distraction Pieces Podcast with Scroobius Pip #52 — speakers: Frank Hewetson Distraction Pieces
+- 2015-08-04 — Greenpeace Special Part 1 - Ben Stewart - Distraction Pieces Podcast with Scroobius Pip #52 — speakers: Ben Stewart Distraction Pieces
 - 2015-08-02 — Birthday Special with My Mum and Dad - Distraction Pieces Podcast with Scroobius Pip #51
-- 2015-07-28 — John Kennedy - Distraction Pieces Podcast with Scroobius Pip #50 — speakers: John Kennedy Distraction Pieces, John Kennedy
-- 2015-07-21 — Neil Maskell- Distraction Pieces Podcast with Scroobius Pip #49 — speakers: Neil Maskell, Ben Wheatley, Kill List
+- 2015-07-28 — John Kennedy - Distraction Pieces Podcast with Scroobius Pip #50 — speakers: John Kennedy Distraction Pieces
+- 2015-07-21 — Neil Maskell- Distraction Pieces Podcast with Scroobius Pip #49
 - 2015-07-14 — Jon Tolley of Banquet Records - Distraction Pieces Podcast with Scroobius Pip #48 — speakers: Jon Tolley
-- 2015-07-09 — B Dolan - Kill The Wolf Special - Distraction Pieces Podcast with Scroobius Pip #47
+- 2015-07-09 — B Dolan - Kill The Wolf Special - Distraction Pieces Podcast with Scroobius Pip #47 — speakers: Strange famous Records
 - 2015-07-08 — Dessa - Distraction Pieces Podcast with Scroobius Pip #46
 - 2015-07-07 — P.O.S - Distraction Pieces Podcast with Scroobius Pip #45
 - 2015-06-30 — Flux Pavilion - Distraction Pieces Podcast with Scroobius Pip #44
 - 2015-06-24 — Jon Ronson Part 2 - Distraction Pieces Podcast with Scroobius Pip #43 — speakers: Jon Ronson
 - 2015-06-23 — Jon Ronson Part 1 - Distraction Pieces Podcast with Scroobius Pip #43 — speakers: Jon Ronson
 - 2015-06-18 — Refugee Week Special - Ramelle - Distraction Pieces Podcast with Scroobius Pip #42
-- 2015-06-16 — Amanda Palmer - Distraction Pieces Podcast with Scroobius Pip #41 — speakers: Dresden Doll, kickstarter campaign
-- 2015-06-09 — Romesh Ranganathan - Distraction Pieces Podcast with Scroobius Pip #40
+- 2015-06-16 — Amanda Palmer - Distraction Pieces Podcast with Scroobius Pip #41
+- 2015-06-09 — Romesh Ranganathan - Distraction Pieces Podcast with Scroobius Pip #40 — speakers: time Rapper
 - 2015-06-03 — Gail Porter Part 2 - Distraction Pieces Podcast with Scroobius Pip #39
 - 2015-06-02 — Gail Porter Part 1 - Distraction Pieces Podcast with Scroobius Pip #39
-- 2015-05-28 — Mr Heggie - Distraction Pieces Podcast with Scroobius Pip #38
+- 2015-05-28 — Mr Heggie - Distraction Pieces Podcast with Scroobius Pip #38 — speakers: artist extraordinaire
 - 2015-05-26 — Michael Smiley - Distraction Pieces Podcast with Scroobius Pip #37 — speakers: Michael Smiley Distraction Pieces, Michael Smiley
 - 2015-05-19 — Prince Charles Cinema (Paul Vickery) - Distraction Pieces Podcast with Scroobius Pip #36 — speakers: Prince Charles Cinema, Paul Vickery
 - 2015-05-13 — Ask Pip 2 Part 2 - Distraction Pieces Podcast with Scroobius Pip #35
 - 2015-05-12 — Ask Pip 2 Part 1 - Distraction Pieces Podcast with Scroobius Pip #35
 - 2015-05-06 — Dan Hardy Part 2 - Distraction Pieces Podcast with Scroobius Pip #34 — speakers: Dan Hardy
-- 2015-05-05 — Dan Hardy Part 1 - Distraction Pieces Podcast with Scroobius Pip #34 — speakers: Dan Hardy
-- 2015-04-28 — Howard Marks - Distraction Pieces Podcast with Scroobius Pip #33 — speakers: Howard Marks Distraction Pieces, Howard Marks, Mr Nice
+- 2015-05-05 — Dan Hardy Part 1 - Distraction Pieces Podcast with Scroobius Pip #34 — speakers: Dan Hardy, Dan dis
+- 2015-04-28 — Howard Marks - Distraction Pieces Podcast with Scroobius Pip #33 — speakers: Howard Marks Distraction Pieces, Howard Marks
 - 2015-04-21 — Ricki Hall- Distraction Pieces Podcast with Scroobius Pip #32 — speakers: Scroobius Pip
 - 2015-04-14 — Eddy Temple-Morris - Distraction Pieces Podcast with Scroobius Pip #31 — speakers: Eddy Temple-Morris Distraction Pieces, Eddy Temple-Morris
-- 2015-04-07 — Danny Wallace - Distraction Pieces Podcast with Scroobius Pip #30 — speakers: Danny Wallace Distraction Pieces, Danny Wallace
+- 2015-04-07 — Danny Wallace - Distraction Pieces Podcast with Scroobius Pip #30 — speakers: Danny Wallace Distraction Pieces
 - 2015-03-31 — Paddy Considine - Distraction Pieces Podcast with Scroobius Pip #29
-- 2015-03-26 — Sara Pascoe - Distraction Pieces Podcast with Scroobius Pip #28 — speakers: Stephen Fry
+- 2015-03-26 — Sara Pascoe - Distraction Pieces Podcast with Scroobius Pip #28 — speakers: comedian extraordinaire
 - 2015-03-25 — Rou Reynolds - Distraction Pieces Podcast with Scroobius Pip #27 — speakers: Rou Reynolds Distraction Pieces, Rou Reynolds
 - 2015-03-19 — Rob Da Bank - Distraction Pieces Podcast with Scroobius Pip #26 — speakers: Distraction Pieces, Rob Da Bank
-- 2015-03-18 — Wes Borland - Distraction Pieces Podcast with Scroobius Pip #25 — speakers: Wes Borland Distraction Pieces, Wes Borland, Queen Kwong
+- 2015-03-18 — Wes Borland - Distraction Pieces Podcast with Scroobius Pip #25 — speakers: Wes Borland Distraction Pieces, Wes Borland
 - 2015-03-12 — Ask Pip - Distraction Pieces Podcast with Scroobius Pip #24 — speakers: Hear Pip
-- 2015-03-11 — Dylan Moran - Distraction Pieces Podcast with Scroobius Pip #23 — speakers: Dylan Moran Distraction Pieces, Dylan Moran
+- 2015-03-11 — Dylan Moran - Distraction Pieces Podcast with Scroobius Pip #23 — speakers: Dylan Moran Distraction Pieces
 - 2015-03-05 — Billy Bragg - Distraction Pieces Podcast with Scroobius Pip #22 — speakers: Billy Bragg Distraction Pieces, Billy Bragg
-- 2015-03-04 — Frank Turner - Distraction Pieces Podcast with Scroobius Pip #21 — speakers: Frank Turner Distraction Pieces, Wembley Arena
-- 2015-02-25 — Mike Skinner - Distraction Pieces Podcast with Scroobius Pip #20 — speakers: Mike Skinner Distraction Pieces, Mike Skinner
+- 2015-03-04 — Frank Turner - Distraction Pieces Podcast with Scroobius Pip #21 — speakers: Frank Turner Distraction Pieces
+- 2015-02-25 — Mike Skinner - Distraction Pieces Podcast with Scroobius Pip #20 — speakers: Mike Skinner Distraction Pieces, Mike Skinne
 - 2015-02-18 — Nick Frost - Distraction Pieces Podcast with Scroobius Pip #19 — speakers: Nick Frost Distraction Pieces, Nick Frost
 - 2015-02-11 — Rufus Hound - Distraction Pieces Podcast with Scroobius Pip #18 — speakers: Rufus Hound
-- 2015-02-04 — Kate Tempest - Distraction Pieces Podcast with Scroobius Pip #17 — speakers: Kate Tempest, Everybody Down
+- 2015-02-04 — Kate Tempest - Distraction Pieces Podcast with Scroobius Pip #17 — speakers: Kate Tempest
 - 2015-01-28 — Riz Ahmed - Distraction Pieces Podcast with Scroobius Pip #16 — speakers: Riz Ahmed
 - 2015-01-21 — Stewart Lee - Distraction Pieces Podcast with Scroobius Pip #15 — speakers: Stewart Lee Distraction Pieces, Stewart Lee
 - 2015-01-14 — Josie Long - Distraction Pieces Podcast with Scroobius Pip #14 — speakers: Josie Long Distraction Pieces, Comedian Josie Long
@@ -20358,11 +19113,11 @@
 - 2014-12-31 — Killer Mike - Distraction Pieces Podcast with Scroobius Pip #12
 - 2014-12-24 — Simon Pegg - Distractions Pieces Podcast with Scroobius Pip #11 — speakers: Simon Pegg Distractions Pieces, Simon Pegg
 - 2014-12-17 — Open Mike Eagle - Distraction Pieces Podcast with Scroobius Pip #10 — speakers: Mike Eagle Distraction Pieces, Open Mike Eagle
-- 2014-12-10 — B Dolan - Distraction Pieces Podcast with Scroobius Pip #9 — speakers: Scroobius Pip Hosted
-- 2014-12-03 — Jodi Ann Bickley - Distraction Pieces Podcast with Scroobius Pip #8 — speakers: Ann Bickley Distraction Pieces, Ann Bickley, Scroobius Pip Hosted
-- 2014-11-26 — Warren Ellis - Distraction Pieces Podcast with Scroobius Pip #7 — speakers: Warren Ellis, Scroobius Pip Hosted
-- 2014-11-19 — Simon Singh - Distraction Pieces Podcast with Scroobius Pip #6 — speakers: Simon Singh Distraction Pieces, Simon Singh, Scroobius Pip Hosted
-- 2014-11-12 — Sage Francis - Distraction Pieces Podcast with Scroobius Pip #5 — speakers: Scroobius Pip Hosted
-- 2014-11-05 — DJ Yoda - Distraction Pieces Podcast with Scroobius Pip #4 — speakers: DJ Yoda, Scroobius Pip Hosted
-- 2014-10-29 — Alan Moore - Distraction Pieces Podcast with Scroobius Pip #3 — speakers: Alan Moore Distraction Pieces, Alan Moore, Scroobius Pip
-- 2014-10-21 — Zane Lowe - Distraction Pieces Podcast with Scroobius Pip #2 — speakers: Zane Lowe Distraction Pieces, Zane Lowe, Scroobius Pip
+- 2014-12-10 — B Dolan - Distraction Pieces Podcast with Scroobius Pip #9
+- 2014-12-03 — Jodi Ann Bickley - Distraction Pieces Podcast with Scroobius Pip #8 — speakers: Ann Bickley Distraction Pieces, Ann Bickley
+- 2014-11-26 — Warren Ellis - Distraction Pieces Podcast with Scroobius Pip #7 — speakers: Warren Ellis
+- 2014-11-19 — Simon Singh - Distraction Pieces Podcast with Scroobius Pip #6 — speakers: Simon Singh Distraction Pieces
+- 2014-11-12 — Sage Francis - Distraction Pieces Podcast with Scroobius Pip #5
+- 2014-11-05 — DJ Yoda - Distraction Pieces Podcast with Scroobius Pip #4 — speakers: DJ Yoda
+- 2014-10-29 — Alan Moore - Distraction Pieces Podcast with Scroobius Pip #3 — speakers: Alan Moore Distraction Pieces, Alan Moore
+- 2014-10-21 — Zane Lowe - Distraction Pieces Podcast with Scroobius Pip #2 — speakers: Zane Lowe Distraction Pieces, Zane Lowe
