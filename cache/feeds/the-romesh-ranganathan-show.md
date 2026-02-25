@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-02-25T19:20:09+00:00`
-- checked_at: `2026-02-25T19:20:09+00:00`
-- last_modified: `Wed, 25 Feb 2026 18:32:52 GMT`
+- fetched_at: `2026-02-25T21:48:47+00:00`
+- checked_at: `2026-02-25T21:48:47+00:00`
+- last_modified: `Wed, 25 Feb 2026 21:42:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/2bd761193d6895adbeb3644032f20f68.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-25T19:20:09+00:00",
+  "fetched_at": "2026-02-25T21:48:47+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -33,10 +33,10 @@
       "link": null,
       "description": "Comedian Josh Widdicombe joins Romesh to explain why he might actually prefer podcasts to television. They chat about his stand-up tour Not My Cup of Tea, appearing in more than 30 series of The Last Leg, and co-hosting the hugely successful Parenting Hell. Josh also talks about his move to Devon after being pushed out of London, rediscovering photography as a hobby, and launching his new series, Josh Widdicombe’s Museum of Pop Culture – covering everything from Mr Blobby to David Hasselhoff and the Berlin Wall. A Ranga Bee Production in partnership with Listen. 00:00 Intro 02:20 Podcasting vs TV 04:10 On Touring 07:45 Gift giving 14:54 Stand up 17:45 Moving 21:50 Noel Edmunds’ House 24:01 Getting business offers 27:11 A question from Shanthi 29:00 Photography and hobbies 33:30 Romesh on his Marathon 36:16 Drinking habits and ChatGPT 44:41 Josh on podcasting 50:06 Obsessions and interests 55:53 Parenting Hell 58:38 Rob Beckett 01:02:40 Agents and insecurities 01:06:42 Being mimicable 01:11:50 Misquoted 01:30:20 An Exclusive Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/b086cccc-0e97-11f1-a97d-e762241298cd/image/89eb70cc27a6632e8031dab0a56d66ac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1041248637.mp3?updated=1771844494",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1041248637.mp3?updated=1772055547",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5669",
+      "itunes_duration": "5729",
       "speakers": [
         "Josh Widdicombe",
         "Romesh Ranganathan"
