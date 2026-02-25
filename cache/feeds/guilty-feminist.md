@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-02-25T10:11:18+00:00`
-- checked_at: `2026-02-25T10:11:18+00:00`
-- last_modified: `Wed, 25 Feb 2026 10:08:29 GMT`
+- fetched_at: `2026-02-25T13:43:22+00:00`
+- checked_at: `2026-02-25T13:43:22+00:00`
+- last_modified: `Wed, 25 Feb 2026 10:51:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/967914911d6e26f1bb9223e736bc7c12.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-25T10:11:18+00:00",
+  "fetched_at": "2026-02-25T13:43:22+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -34,7 +34,7 @@
       "link": null,
       "description": "In Conversation with Hannah Spencer Presented by Deborah Frances-White Recorded and released 25 February 2026. The Guilty Feminist theme composed by Mark Hodge. https://www.instagram.com/hannahtheplumbermcr https://gorton-denton.greenparty.org.uk Come to a live show Zack Polanski and Juno Dawson at The Union Chapel, 5 March . https://www.gigantic.com/the-guilty-feminist-tickets/london-union-chapel/2026-03-05-18-30 31 March Bloomsbury Theatre . https://www.bloomsburytheatre.com/event/2026/03/guilty-feminist-live Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/a86823c2-1231-11f1-842a-9770ff17f4c1/image/fbbfd9841419f2e1a5f1cea5ea9cce91.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/APL4041903799.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/APL4041903799.mp3?updated=1772014421",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1514",

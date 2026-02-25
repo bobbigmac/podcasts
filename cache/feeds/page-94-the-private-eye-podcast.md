@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-02-24T19:18:04+00:00`
-- checked_at: `2026-02-24T19:18:04+00:00`
-- etag: `W/"8fcbe1d4ae2773b0f22e707d7d865b00"`
-- last_modified: `Tue, 24 Feb 2026 18:51:06 GMT`
+- fetched_at: `2026-02-25T13:43:22+00:00`
+- checked_at: `2026-02-25T13:43:22+00:00`
+- etag: `W/"bc41925c5aa8b8f0016133813b6a28b7"`
+- last_modified: `Wed, 25 Feb 2026 10:53:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-02-24T19:18:04+00:00",
+  "fetched_at": "2026-02-25T13:43:22+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -36,10 +36,10 @@
       "link": "https://audioboom.com/posts/8865407",
       "description": "Ian, Adam, Andy and Rachael Claye discuss two men named Andrew - one who used to be a prince, and one who's still a solicitor with a very dubious practice.",
       "image_url": "https://audioboom.com/i/43493333/s=1400x1400/el=1/rt=fill.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8865407.mp3?modified=1771959073&sid=5112392&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8865407.mp3?modified=1772016798&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2110",
+      "itunes_duration": "2124",
       "speakers": [
         "Rachael Claye",
         "Andrew one",
