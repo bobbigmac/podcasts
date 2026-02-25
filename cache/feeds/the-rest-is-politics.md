@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-02-25T10:11:18+00:00`
-- checked_at: `2026-02-25T10:11:18+00:00`
-- last_modified: `Wed, 25 Feb 2026 09:40:43 GMT`
+- fetched_at: `2026-02-25T16:19:49+00:00`
+- checked_at: `2026-02-25T16:19:49+00:00`
+- last_modified: `Wed, 25 Feb 2026 14:24:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/3f50b7a1b1632c03b74bec14bb7de2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-25T10:11:18+00:00",
+  "fetched_at": "2026-02-25T16:19:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -32,7 +32,7 @@
       "link": null,
       "description": "On the fourth anniversary of Russia's full-scale invasion of Ukraine, what's the reality on the ground? Why is Trump still calling the shots on negotiations with Russia, given the huge withdrawal of US military aid? Why are Ukrainians tired of being praised for their resilience? __________ Sign up HERE to the free TRIP newsletter to receive Alastair's diary from Ukraine, and much more. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . Get our exclusive NordVPN deal here ➼ https://nordvpn.com/restispolitics It's risk-free with Nord's 30-day money-back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Adam Thornton Assistant Producer: Daisy Alston-Horne Producer: Evan Green Senior Producer: Callum Hill General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/caca1686-11a6-11f1-9e1e-bba664c9164f/image/3d585c9d3cb222933c42c6a9fbc72e6b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2597005388.mp3?updated=1772012741",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2597005388.mp3?updated=1772029609",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3936",

@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-02-23T13:41:58+00:00`
-- checked_at: `2026-02-23T13:41:58+00:00`
-- etag: `"5135e6f1edd36406d509a9a7f72d6a6b"`
-- last_modified: `Mon, 23 Feb 2026 13:20:27 GMT`
+- fetched_at: `2026-02-25T16:19:49+00:00`
+- checked_at: `2026-02-25T16:19:49+00:00`
+- etag: `"b7bb7d949ffa3851805fb37244226e61"`
+- last_modified: `Wed, 25 Feb 2026 15:13:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-02-23T13:41:58+00:00",
+  "fetched_at": "2026-02-25T16:19:49+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -39,14 +39,10 @@
       "enclosure_length": "63734628",
       "itunes_duration": "01:05:51",
       "speakers": [
-        "Boxing Robin",
-        "Alex Sturbaum",
-        "Erin Ruth",
-        "Sue Tillotson",
-        "Jim Cunningham",
-        "Ian Alistair Gosbee",
-        "Vienna Scheyer",
-        "Slí Amach"
+        "Donegal Jigs",
+        "Modern Celtic Voices",
+        "County Clare",
+        "Marc Gunn"
       ],
       "topics": [
         "donegal",
@@ -68,14 +64,7 @@
       "enclosure_length": "65295900",
       "itunes_duration": "01:07:30",
       "speakers": [
-        "Aisling Drost Byrne",
-        "Brendan McCarthy",
-        "Conal O'Kane",
-        "Sean Heely",
-        "Beth Patterson",
-        "Alex Sturbaum",
-        "Sue Tillotson",
-        "Jim Cunningham"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -95,14 +84,7 @@
       "enclosure_length": "60784212",
       "itunes_duration": "01:02:57",
       "speakers": [
-        "Adrianna Ciccone",
-        "Ellen Gibling",
-        "Alex Sturbaum",
-        "Nick Metcalf",
-        "Zac Léger",
-        "Caitríona Lagan",
-        "Eddie Biggins",
-        "Aisling Drost Byrne"
+        "Marc Gunn"
       ],
       "topics": [
         "brooklyn",
@@ -124,13 +106,7 @@
       "itunes_duration": "01:06:57",
       "speakers": [
         "Adam Agee Jon Sousa",
-        "Alex Sturbaum",
-        "Dan Possumato",
-        "Heather Dale",
-        "Stephen MacDonald",
-        "Mary Frances Leahy",
-        "Pat Tuohey",
-        "Mick Mulcrone"
+        "Marc Gunn"
       ],
       "topics": [
         "lady",
@@ -150,14 +126,8 @@
       "enclosure_length": "59495527",
       "itunes_duration": "01:01:39",
       "speakers": [
-        "Shannon Heaton",
-        "Boxing Robin",
-        "Whiskey Faithful",
-        "Mary Beth Carty",
-        "Michael Joseph Ulery",
-        "Hugh Morrison",
-        "Joseph Ulery",
-        "Hank Woodward"
+        "Wondering Souls",
+        "Marc Gunn"
       ],
       "topics": [
         "waltz",
@@ -177,14 +147,9 @@
       "enclosure_length": "71656324",
       "itunes_duration": "01:14:15",
       "speakers": [
-        "Aisling Drost Byrne",
-        "Brendan McCarthy",
-        "Michael Joseph Ulery",
-        "Kyle Carey",
-        "Julien LOko Irish Band",
-        "Joseph Ulery Biscuit Tin",
-        "Advanced Roguery",
-        "John Walsh"
+        "fresh trad",
+        "pub songs",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -203,14 +168,8 @@
       "enclosure_length": "61605965",
       "itunes_duration": "01:03:51",
       "speakers": [
-        "Enda Reilly",
-        "Brobdingnagian Bards",
-        "Charlie O'Brien",
-        "Whiskey Bay Rovers",
-        "Boxing Robin",
-        "Heather Dale",
-        "Jesse Ferguson",
-        "Ho Come Roll Me"
+        "Celtic songs",
+        "Marc Gunn"
       ],
       "topics": [
         "chill",
@@ -223,7 +182,7 @@
     {
       "key": "da1a10f967856cf6f5546af88876a30977c98ee3",
       "title": "Best Celtic Music 2025 – Fan Voted Top 20 #740",
-      "published_at": "2026-01-01T08:30:00+00:00",
+      "published_at": "2025-12-31T08:30:00+00:00",
       "link": "https://celticmusicpodcast.com/best-celtic-music-2025-fan-voted-top-20-740",
       "description": "These are the songs you loved most in 2025. The votes are in. The stories are written. From powerful folk anthems to driving reels and unforgettable voices, these tracks defined the year in Irish & Celtic music. Welcome to the Top 20 Irish & Celtic Songs and Tunes of 2025 as chosen by fans, fueled by community, and celebrating Celtic culture through music on the Irish & Celtic Music Podcast #740 - - Subscribe now ! Kinnfolk, Niamh Dunne, Natalie Padilla, Socks in the Frying Pan, Scottish Fish, Kyle Carey, The Drowsy Lads, Heather Dale, Sheridan Rúitín, The Ciderhouse Rebellion with Molly Donnery, The Gothard Sisters, Screaming Orphans, Doolin', Fialla, Jigjam, Eimear Arkins, Austral, Ed Miller, Arise & Go, Willowgreen GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! You can follow our playlist on YouTube to listen to those top voted tracks as they are added every 2 - 3 weeks. THIS WEEK IN CELTIC MUSIC 0:12 - Kinnfolk \"The Triple Crown Set\" from Star Above The Mountain 5:10 - WELCOME 10:08 - Niamh Dunne \"Ballyneety's Walls\" from Portraits 13:27 - Natalie Padilla \"Balsamroot\" from Montana Wildflower 17:25 - Socks in the Frying Pan \"Irelands Struggle\" from Waiting for Inspiration 21:47 - Scottish Fish \"Annie's\" from Currently 26:37 - FEEDBACK 30:35 - Kyle Carey \"Nach Muladach, Muladach Duine Leis Fhèin\" from The Last Bough 33:32 - The Drowsy Lads \"Lost and Found Hooley\" from Time Flies 38:56 - Heather Dale \"Weaver\" from The Green Knight 42:20 - Sheridan Rúitín \"Dean McLeod\" from Only Savage 45:52 - The Ciderhouse Rebellion with Molly Donnery \"Murphy's Running Dog\" from A Little Bit Slanted 50:43 - FEEDBACK 53:47 - The Gothard Sisters \"Adventurer\" from Moment in Time 56:56 - Screaming Orphans \"This Is the Life\" from Paper Daisies 59:31 - Doolin' \"Mary's Jigs\" from Doolin' 1:03:56 - Fialla \"The Road to Drumleman\" from A Rare Thing 1:08:48 - THANKS 1:11:53 - Jigjam \"Red Paddy on the Ridge\" from Phoenix 1:16:30 - Eimear Arkins \"Téir Abhaile Riú (Song)\" from Here & There 1:20:03 - Austral \"Woodford Nights\" from Thylacine 1:26:55 - Ed Miller \"The Wide Rio Grand\" from Many's The Fine Tale 1:31:26 - Arise & Go \"The Dirty Bee: La Grondeuse / Mutt's Favourite / Break Yer Bass Drone / The Dirty Bee\" from Meeting Place 1:36:36 - CLOSING 1:38:25 - Willowgreen \"Walking on the Waves\" from Sheila's Brush 1:42:40 - CREDITS Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Finally, remember. Clean energy isn't just good for the planet, it's good for your wallet. Solar and wind are now the cheapest power sources in history. But too many politicians would rather protect billionaires than help working families save on their bills. Real change starts when we stop allowing the ultra - rich to write our energy policy and run our government. Let's choose affordable, renewable power. Clean energy means lower costs, more freedom, and a planet that can actually breathe. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. Discover the stories behind the songs from the heart of the Celtic pub scene. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email artists to let them know you heard them on the Irish and Celtic Music Podcast. Musicians depend on your generosity to release new music. So please find a way to support them. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . Email follow@bestcelticmusic to learn how to subscribe to the podcast and you will get a free music - only episode. You'll also learn how to get your band played on the podcast. Bands don't need to send in music, and you will get a free eBook called Celtic Musicians Guide to Digital Music . It's 100% free. Again email follow@bestcelticmusic IRISH & CELTIC MUSIC PODFEST Today's show is brought to you by Irish & Celtic Music PodFest. Our first ever festival will feature three Celtic bands, including yours truly, Marc Gunn. It's happening Sunday, March 8, 2026 at The Lost Druid Brewery in Avondale Estates, GA. Follow our event page on Facebook for more details. Or even better, Follow us for Free on our Patreon page . While you're there, you'll also find out about the Kickstarter we're launching for an album of the Best Celtic Music of 2025. And you can find out how You can get involved. ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC I got an email from Discmakers, my CD manufacturer, saying they were forced to raise their prices because of tariffs by our president. This is a tax on Americans. So if you love CDs, remember that the prices will go up. So please support those higher priced CDs. But there is an option for those who don't want to buy CDs and for those who want a better alternative for the environment. It's the Album Pin. Album Pins are lapel pins themed to a particular album. You get a digital download of the album. Then you can wear your album. All of my latest Album Pins are wood - burned and locally produced. This makes them better for the environment. And they are fun and fashionable. If you want to learn more about Album Pins, you can read more about them on my celtfather.Substack.com or just buy one at magerecords.com THANK YOU PATRONS OF THE PODCAST! Because of generous patrons like you, the Irish & Celtic Music Podcast releases new episodes nearly every single week . Your support doesn't just fund the show—it fuels a movement. It helps us share the magic of Celtic music with thousands of new listeners and grow a global community of music lovers. Your contributions pay for everything behind the scenes: audio engineering, stunning graphics, weekly issues of the Celtic Music Magazine, show promotion, and—most importantly—buying the music we feature from indie Celtic artists. And if you're not yet a patron? You're missing out! Patrons get: Early access to episodes Music - only editions Free MP3 downloads Exclusive stories and artist interviews A vote in the Celtic Top 20 Join us today and help keep the music alive, vibrant, and independent. 🍀 A special thanks to our Celtic Legends: Alan Schindler, Brian McReynolds, Bruce, Dan mcDade, Daniel Ide, Dave and Rosie Donnelly, Emma Bartholomew, Gary R Hook, Gerald F Boyle, Jeff A, John Sharkey White, II, Kelly Garrod, Lynda MacNeil, Margreta Silverstone, Marti Meyers, Mike Schock, Miranda Nelson, Nancie Barnett, Rick Boyce, Shawn Cali HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $25. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. In 2026, we're traveling to the Celtic nation of Galicia in Spain. We'll dive deep into the history and legends of the Galician Celts, uncovering their connections to Ireland, Scotland, and beyond. We'll walk the same lands where Celtic warriors once roamed, hear the myths passed down through generations, and experience the magic of authentic Galician Celtic music, alive with passion and history. This isn't just a trip—it's a journey into the heart of a Celtic culture unlike any other. Will you join us? Learn more about the invasion at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? I'd love to see a picture of what you're doing while listening. Is there a new Celtic CD or Celtic band that you heard of or saw? Send a picture. Email me at follow@bestcelticmusic. Woodland Folk sent some photos: \"Hello my friend.... I do not have an album though would like to snd a recording for u to consider...this could be considered\"amateur\"& would take time before I snd as the fiddle is not an easy thing to record(I have an old style go mic)also my ability would mean a fair amount of preparing & practice before hand... save for a drop in my case should anyone wish & were passing im not at a point were I would need to be promoted just yet... Preparing anything to snd u would in itself be a privilege & learned experience though I understand if a band with a presence would appreciate the space u give them & need that space more... Would a show from a street performance angle be a poss,maby a podcast dedicated to the more transient path...?\" Patrick Rieger emailed some photos: \"Hi Marc, Yes, more feedback. I love letting you and your audience know about the incredible musicians my family and I get to see, and I hope they get to see them as well. Labor Day Weekend, the three of us were joined again by our Chenna from Nashville for three days at the Ohio Renaissance Festival. The weather was perfect! As you undoubtedly know, ren faire garb can be quite uncomfortable when the weather is hot and humid, but not that weekend. The first show of the weekend for us was The Lady Victoria, hammered dulcimer player. During the depth of the pandemic, I was posting photos of faire on Instagram to help remind people we would eventually get back to the fun, and found someone called The Lady Victoria was liking some of my photos. Then I learned we had had about a dozen mutual friends, and she had played at my home faire of Pittsburgh, which led to a friendship. In the afternoon, Victoria leads a group called The Medieval Minstrels, including The Toasted Clover on ukulele and Seán Nós on flute. Captain John Stout leads everyone in A Health to the Company at the end of the day. The captain and I first met back in 2008 at Pittsburgh when he was part of Porter & Stout. Great music and also lots of great stories. We also saw the Queen's Choice Singers for the first time. The Summer isn't over, we still have another faire to go to, and we'll be seeing other celtic musicians, so be on the lookout for more feedback. Joseph F. Dumond emailed photos: \"What am I doing while listening to the latest Celtic Music podcast? Hello Marc, the last time I wrote to you, I explained how my walking distance increased as I walked while listening to the best Celtic Music from Marc Gunn. And when I was not listening to your show, my pace slowed. I then urged you to call it something like the Irish Celtic Weight Watchers walking show. LOL I forgot. I decided to do some of my work from an all - inclusive resort, Sol Melia Carib, in the Dominican Republic. The all - inclusive is killing my weight goals. So naturally, I began to walk on the beach with the ocean lapping along the shore during my walk. And, of course, I am listening to \"The Best Celtic Music from the Irish & Celtic Music Podcast\" by Marc Gunn. I have got to tell you that no matter which Celtic music you play, whether fast Jigs or slow tunes, my pace in the sand or along the shoreline does not change. The rhythmic tune of the waves crashing ashore is incredibly strong and soothing, and it alone decides my pace. While watching the entertainment here, I saw a lady playing a host of music on an electric violin. It was very beautiful. I asked her for her website or where I could get more of her music, but she had none. I will attach the short video so you can see her. But as she played, I was thinking of you. This would be a great place with international guests from around the world, where you and your daughter could introduce them to the great Celtic Music you play. And if you contact the resort or many of the other resorts, you could play and stay for next to nothing—just a suggestion. Loving the latest shows from the beaches of Punta Cana. The pictures are to show you where I'm listening to your show. It is not meant to make you jealous, although it might.\"",
       "image_url": "https://static.libsyn.com/p/assets/5/d/b/6/5db64b161025436016c3140a3186d450/740-Best_Celtic_Music_2025__Fan_Voted_Top_20-AriseGo-1400.jpg",
@@ -232,14 +191,9 @@
       "enclosure_length": "100453487",
       "itunes_duration": "01:44:12",
       "speakers": [
-        "Niamh Dunne",
-        "Natalie Padilla",
-        "Kyle Carey",
-        "Heather Dale",
-        "Sheridan Rúitín",
-        "Ed Miller",
-        "Dean McLeod",
-        "Mary's Jigs"
+        "Best Celtic Music",
+        "Fan Voted Top",
+        "Marc Gunn"
       ],
       "topics": [
         "music"
@@ -257,14 +211,7 @@
       "enclosure_length": "61692746",
       "itunes_duration": "01:03:56",
       "speakers": [
-        "Gothard Sisters",
-        "Ritchie Remo",
-        "Boston Blackthorne",
-        "Kathleen MacInnes",
-        "Sean Griffin",
-        "Carol Bring",
-        "Ding Dong Merrily",
-        "Hank Woodward"
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -284,14 +231,8 @@
       "enclosure_length": "61919527",
       "itunes_duration": "01:04:08",
       "speakers": [
-        "Heather Dale",
-        "Olivia Bradley",
-        "Kira Doppel",
-        "Sarah Ling",
-        "Kathleen O'Donohoe",
-        "Hank Woodward",
-        "Annie Lorkowski",
-        "Joseph Dumond"
+        "Just Listening",
+        "Marc Gunn"
       ],
       "topics": [
         "listening",
@@ -313,13 +254,7 @@
       "itunes_duration": "01:05:58",
       "speakers": [
         "Gothard Sisters",
-        "Joshua Davis",
-        "Engines Roar",
-        "Joseph Dumond",
-        "Hank Woodward",
-        "Annie Lorkowski",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "gothard",
@@ -340,14 +275,7 @@
       "enclosure_length": "72485866",
       "itunes_duration": "01:15:08",
       "speakers": [
-        "Clanna Morna",
-        "Adam Agee Jon Sousa",
-        "Irishtown Road",
-        "Marys Lane",
-        "Brobdingnagian Bards",
-        "Charlene Adzima",
-        "Heather Dale",
-        "Wolf Loescher"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -369,12 +297,7 @@
       "speakers": [
         "Gerry O'Connor",
         "Gothard Sisters",
-        "Elizabeth Sutherland",
-        "Piskey Led",
-        "Derina Harvey Band",
-        "Ashley Davis Band",
-        "Tommy Makem Faoileán",
-        "Piskey Led Thanks"
+        "Marc Gunn"
       ],
       "topics": [
         "spirit",
@@ -395,14 +318,9 @@
       "enclosure_length": "59028872",
       "itunes_duration": "01:01:13",
       "speakers": [
-        "Gothard Sisters",
-        "Eddie Biggins",
-        "Cedar Dobson Music",
-        "Jeff Blaney",
-        "Robbie Malone",
-        "Lochaber Badger",
-        "Annie Lorkowski",
-        "Joseph Dumond"
+        "New Irish",
+        "Celtic Folk",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -422,14 +340,8 @@
       "enclosure_length": "63255193",
       "itunes_duration": "01:05:06",
       "speakers": [
-        "Gothard Sisters",
-        "Jesse Ferguson",
-        "Ritchie Remo",
-        "Ainsley Hamill",
-        "Amelia Hogan",
-        "George Murphy",
-        "Kim Carnie",
-        "Hank Woodward"
+        "Celtic Adventure",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -451,14 +363,7 @@
       "enclosure_length": "67490969",
       "itunes_duration": "01:10:03",
       "speakers": [
-        "Jared Bogle",
-        "Cathy Jordan",
-        "Kevin Burke Seamie O'Dowd",
-        "Alexander James Adams",
-        "O'Carolan Tunes",
-        "Faery Song",
-        "Alexander James Adams Samhain",
-        "Joseph Dumond"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -481,13 +386,7 @@
       "itunes_duration": "01:10:26",
       "speakers": [
         "Niamh Dunne",
-        "Ed Miller",
-        "Jesse Ferguson",
-        "Olivia Bradley",
-        "Don Gabbert",
-        "Marc Gunn",
-        "Ainsley Hamill Get",
-        "St Patrick"
+        "Marc Gunn"
       ],
       "topics": [
         "voice",
@@ -507,13 +406,6 @@
       "enclosure_length": "87899150",
       "itunes_duration": "01:31:03",
       "speakers": [
-        "Thom Dunn",
-        "Dublin Gulch",
-        "Willowgreen Iii Open",
-        "Jane Suite",
-        "Joseph Dumond",
-        "Hank Woodward",
-        "Annie Lorkowski",
         "Marc Gunn"
       ],
       "topics": [
@@ -533,13 +425,7 @@
       "itunes_duration": "01:02:38",
       "speakers": [
         "Dave Curley",
-        "Hanneke Cassel",
-        "Ed Miller",
-        "Seán Heely",
-        "Tami Curtis",
-        "Brad Tuck",
-        "Joanna Hyde",
-        "Randy Clepper"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -562,13 +448,7 @@
       "itunes_duration": "01:11:28",
       "speakers": [
         "Niamh Dunne",
-        "Ashley Davis",
-        "Natalie Padilla",
-        "Toby Bresnahan",
-        "Dublin Gulch",
-        "Sylvia Platypus",
-        "Ryan Roubison",
-        "John Egan's Saunders"
+        "Marc Gunn"
       ],
       "topics": [
         "strange",
@@ -589,14 +469,7 @@
       "enclosure_length": "62302724",
       "itunes_duration": "01:04:34",
       "speakers": [
-        "Jeff Blaney",
-        "Norse Gael",
-        "Dan Possumato",
-        "Brobdingnagian Bards",
-        "Enda Reilly",
-        "Liz Carroll",
-        "Creadeamh Sí",
-        "Bláth Chliath"
+        "Marc Gunn"
       ],
       "topics": [
         "dublin",
@@ -615,14 +488,8 @@
       "enclosure_length": "58662931",
       "itunes_duration": "01:00:26",
       "speakers": [
-        "Ryan Mccombe",
-        "Eimear Arkins",
-        "Wylde Nept",
-        "Coiscéim Coiligh",
-        "Joseph Dumond",
-        "Hank Woodward",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Ryan Mc",
+        "Marc Gunn"
       ],
       "topics": []
     },
@@ -638,14 +505,8 @@
       "enclosure_length": "64200059",
       "itunes_duration": "01:06:29",
       "speakers": [
-        "Olivia Barrett",
-        "Carroll Sisters Trio",
-        "Muireann Nic Amhlaoibh",
-        "Niamh Dunne",
-        "Jen Midkiff",
-        "Liam Childs Baby Dragon",
-        "Radiance Emilie",
-        "Nora Carrol"
+        "Celtic Women",
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -665,14 +526,8 @@
       "enclosure_length": "62502956",
       "itunes_duration": "01:04:50",
       "speakers": [
-        "Andrew Finn Magill",
-        "Dublin Gulch",
-        "Joseph Dumond",
-        "Hank Woodward",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley",
-        "Guest Liz Carroll"
+        "Standing Stones",
+        "Marc Gunn"
       ],
       "topics": [
         "whiskey",
@@ -693,13 +548,6 @@
       "enclosure_length": "92213957",
       "itunes_duration": "01:35:33",
       "speakers": [
-        "Sarah Copus",
-        "Chloe Matharu",
-        "Nathan Gourley",
-        "Joey Abarta",
-        "Owen Marshall",
-        "Joseph Dumond",
-        "Hank Woodward",
         "Marc Gunn"
       ],
       "topics": [
@@ -721,12 +569,6 @@
       "itunes_duration": "01:03:39",
       "speakers": [
         "Carroll Sisters Trio",
-        "Ellen Giro",
-        "Melanie Gruben",
-        "Ye Winds",
-        "Stay Scottish",
-        "Joseph Dumond",
-        "Hank Woodward",
         "Marc Gunn"
       ],
       "topics": [
@@ -746,14 +588,7 @@
       "enclosure_length": "59442550",
       "itunes_duration": "01:01:34",
       "speakers": [
-        "Andrew Finn Magill",
-        "Gothard Sisters",
-        "Journey North",
-        "Midnight Sun",
-        "Journey North Revisited",
-        "Joseph Dumond",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "belfast"
@@ -771,14 +606,7 @@
       "enclosure_length": "62669335",
       "itunes_duration": "01:05:17",
       "speakers": [
-        "Lussa Tulua",
-        "Chloe Matharu",
-        "Andrew Finn Magill",
-        "Marc Gunn Fir Arda",
-        "Natalie Padilla",
-        "Wooden Legs",
-        "Charles Dickens Jig",
-        "Eostre Marc Gunn Bunny"
+        "Marc Gunn"
       ],
       "topics": [
         "ocean"
@@ -796,14 +624,8 @@
       "enclosure_length": "97992990",
       "itunes_duration": "01:41:39",
       "speakers": [
-        "Gothard Sisters",
-        "Brobdingnagian Bards",
-        "Alexander James Adams",
-        "Ed Miller",
-        "Heather Dale",
-        "Sharon Shannon",
-        "Wolf Loescher",
-        "Mark Kenneth"
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "year",
@@ -824,14 +646,8 @@
       "enclosure_length": "63401208",
       "itunes_duration": "01:05:42",
       "speakers": [
-        "Marc Gunn",
-        "David Pedrick",
-        "Robert Zielinski",
-        "Sheridan Rúitín",
-        "Emerald Rose",
-        "Kilmaine Saints",
-        "Jimmy Murphy",
-        "Kitchen Vinegar Hill"
+        "Irish Rebellion",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -851,12 +667,7 @@
       "enclosure_length": "77660176",
       "itunes_duration": "01:20:39",
       "speakers": [
-        "Highlight Reels",
-        "Muireann Nic Amhlaoibh",
-        "Deception Hair",
-        "Jamie Haeuser",
-        "Campbell Graham",
-        "Miranda Nelson Designs",
+        "Highlight Reel",
         "Marc Gunn"
       ],
       "topics": [
@@ -875,12 +686,10 @@
       "enclosure_length": "40142740",
       "itunes_duration": "41:49",
       "speakers": [
-        "Peggy Gordon",
-        "Marc Gunn",
-        "Heather Alexander",
-        "Marc Gunn Wandering Geek",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Celtic Pub Songs",
+        "Folk Songs",
+        "Stories Flashback",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -899,14 +708,7 @@
       "enclosure_length": "61524281",
       "itunes_duration": "01:04:05",
       "speakers": [
-        "Joseph Carmichael",
-        "Robert Zielinski",
-        "Katie Jane Band",
-        "Ryan Dunne",
-        "Olivia Barrett",
-        "Rachel Hair",
-        "Neilidh Boyle",
-        "Loch Lomond"
+        "Marc Gunn"
       ],
       "topics": [
         "mortal"
@@ -925,12 +727,6 @@
       "itunes_duration": "01:14:41",
       "speakers": [
         "St Patrick",
-        "River Driver",
-        "David Mitchell",
-        "Conamara Chaos",
-        "Brobdingnagian Bards",
-        "Charlie O'Brien",
-        "John Riley",
         "Marc Gunn"
       ],
       "topics": [
@@ -950,14 +746,14 @@
       "enclosure_length": "58171571",
       "itunes_duration": "01:00:36",
       "speakers": [
-        "Ciarán Bolger",
-        "Michael Coult",
-        "Julie Fowlis",
-        "Mary Jane Lamond",
-        "Jane Knight",
-        "Roland Hebborn",
-        "Marina Poggemann",
-        "Emil Hauptmann"
+        "How Gaelic Languages Carry",
+        "Celtic Traditions",
+        "Shannon Heaton",
+        "Irish Music Stories",
+        "Ancient Tongues",
+        "Modern Times",
+        "How Gaelic",
+        "Marc Gunn"
       ],
       "topics": [
         "gaelic",
@@ -978,14 +774,9 @@
       "enclosure_length": "76711780",
       "itunes_duration": "01:19:22",
       "speakers": [
-        "Malin Lewis",
-        "Alexander James Adams",
-        "Seumas Gagne",
-        "Melanie Gruben",
-        "Daphne Eftychia Arthur",
-        "John Joe Hartnett",
-        "John Adams",
-        "Hobbit Hornpipe"
+        "Pride Month",
+        "Celtic Music Pod",
+        "Marc Gunn"
       ],
       "topics": [
         "celt",
@@ -1005,14 +796,8 @@
       "enclosure_length": "63870843",
       "itunes_duration": "01:06:04",
       "speakers": [
-        "Olivia Barrett",
-        "de Fierro",
-        "Hanneke Cassel",
-        "Journey North Phoenyx",
-        "Camín de Fierro",
-        "Ellen Gira",
-        "Journey North Revisited",
-        "Marley O'Reilly"
+        "Monday Morning Fun",
+        "Marc Gunn"
       ],
       "topics": [
         "monday",
@@ -1031,14 +816,7 @@
       "enclosure_length": "63592316",
       "itunes_duration": "01:05:43",
       "speakers": [
-        "Brendan Hayes",
-        "Heather Alexander",
-        "Olivia Barrett",
-        "Rebecca Winckworth",
-        "Muireann Nic Amhlaoibh",
-        "Stinky Ocean Kelpie",
-        "Journey North",
-        "Fiona Tyndell"
+        "Marc Gunn"
       ],
       "topics": [
         "matter"
@@ -1057,13 +835,7 @@
       "itunes_duration": "01:04:20",
       "speakers": [
         "Battlefield Band",
-        "Chris Gray",
-        "Dom DufF",
-        "John Martin Strathspey Reels",
-        "Mar Pottinger",
-        "Lad O'Beirne",
-        "Top Shelf First",
-        "Marney McCague"
+        "Marc Gunn"
       ],
       "topics": [
         "world"
@@ -1081,14 +853,7 @@
       "enclosure_length": "60615397",
       "itunes_duration": "01:02:45",
       "speakers": [
-        "Wolf Loescher",
-        "Duncan Mclauchlan",
-        "Don Gabbert",
-        "Amelia Hogan",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley",
-        "Allie Stockton"
+        "Marc Gunn"
       ],
       "topics": [
         "friend"
@@ -1107,13 +872,7 @@
       "itunes_duration": "01:07:15",
       "speakers": [
         "Pure Grace",
-        "Robert Zielinski",
-        "Nathan Gourley",
-        "Joey Abarta",
-        "Owen Marshall",
-        "David Mitchell",
-        "Kevin Meehan",
-        "Mary's Jigs"
+        "Marc Gunn"
       ],
       "topics": [
         "grace",
@@ -1135,13 +894,7 @@
       "itunes_duration": "01:19:54",
       "speakers": [
         "Amelia Hogan",
-        "Robert Zielinski",
-        "Joseph Carmichael",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley",
-        "Rick Boyce",
-        "Brian McReynolds"
+        "Marc Gunn"
       ],
       "topics": [
         "amelia",
@@ -1161,13 +914,8 @@
       "itunes_duration": "01:03:01",
       "speakers": [
         "Sheridan Rúitín",
-        "Malin Lewis",
-        "Juha Rossi",
-        "Dean McLeod",
-        "Nathan Gourley",
-        "Joey Abarta",
-        "Owen Marshall",
-        "James Betagh"
+        "Copley St",
+        "Marc Gunn"
       ],
       "topics": [
         "springtime"
@@ -1185,14 +933,8 @@
       "enclosure_length": "62482540",
       "itunes_duration": "01:04:43",
       "speakers": [
-        "Katie Jane Band",
-        "Malin Lewis",
-        "Brobdingnagian Bards",
-        "Olivia Bradley",
-        "Brian Finnegan",
-        "Robert Zielinski",
-        "Amelia Hogan",
-        "Ashley Davis"
+        "Little Fairy",
+        "Marc Gunn"
       ],
       "topics": [
         "fairy"
@@ -1210,14 +952,7 @@
       "enclosure_length": "88923031",
       "itunes_duration": "01:32:04",
       "speakers": [
-        "Clare Sands",
-        "Aisling Urwin",
-        "Marc Gunn",
-        "David Mitchell",
-        "Tuatha Dea",
-        "Ancora Flook",
-        "Peggy Gordon",
-        "Licensed Beggars"
+        "Marc Gunn"
       ],
       "topics": [
         "flook"
@@ -1236,13 +971,7 @@
       "itunes_duration": "01:10:30",
       "speakers": [
         "Nathan Gourley",
-        "Juha Rossi",
-        "Charlie O'Brien",
-        "Blackwillow Starling",
-        "Carbon Leaf",
-        "Katie Jane Band",
-        "Joey Abarta",
-        "Owen Marshall"
+        "Marc Gunn"
       ],
       "topics": []
     },
@@ -1259,13 +988,7 @@
       "itunes_duration": "03:44:58",
       "speakers": [
         "Happy St Patrick",
-        "St Patrick",
-        "Marc Gunn",
-        "Nathan Gourley",
-        "Joey Abarta",
-        "Owen Marshall",
-        "Dick Gossips Dinky",
-        "Ellen MacIsaac"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -1286,13 +1009,7 @@
       "itunes_duration": "01:05:04",
       "speakers": [
         "St Patrick",
-        "Sheridan Rúitín",
-        "Tami Curtis",
-        "John O'Reilly",
-        "Raggle Taggle Gypsy",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -1311,14 +1028,9 @@
       "enclosure_length": "82655890",
       "itunes_duration": "01:25:28",
       "speakers": [
-        "Nathan Gourley",
-        "Joey Abarta",
-        "Owen Marshall",
-        "Ed Yother",
-        "Charlie O'Brien",
-        "Misty Posey",
-        "Brendan Monaghan",
-        "Noel Reid"
+        "Star Above",
+        "Celtic Music Podcas",
+        "Marc Gunn"
       ],
       "topics": [
         "kinnfolk"
@@ -1336,14 +1048,7 @@
       "enclosure_length": "64923298",
       "itunes_duration": "01:07:19",
       "speakers": [
-        "Louise Bichan",
-        "Toby Bresnahan",
-        "Bal Loudieg",
-        "Gretna Green Michael Darcy",
-        "Sweet Daisy",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "valley"
@@ -1361,14 +1066,7 @@
       "enclosure_length": "64545308",
       "itunes_duration": "01:06:45",
       "speakers": [
-        "David Mitchell",
-        "Kyle Carey",
-        "Katie Jane Band",
-        "Charlie O'Brien",
-        "Joseph Carmichael",
-        "Ryan Dunne",
-        "Juha Rossi",
-        "Blackwillow Starling"
+        "Marc Gunn"
       ],
       "topics": [
         "ireland",
@@ -1388,13 +1086,7 @@
       "itunes_duration": "01:16:26",
       "speakers": [
         "Jesse Ferguson",
-        "Juha Rossi",
-        "Misty Posey",
-        "Danny Boy",
-        "Gretna Green",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "minstrel",
@@ -1416,11 +1108,7 @@
       "speakers": [
         "Want St Patrick",
         "St Patrick",
-        "Corey Purcell",
-        "Mary Beth Carty",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "want",
@@ -1440,14 +1128,7 @@
       "enclosure_length": "62188541",
       "itunes_duration": "01:04:22",
       "speakers": [
-        "Marc Gunn",
-        "Jonny Dyer",
-        "Ian Fontova",
-        "Shannon Heaton",
-        "Leaf Linden",
-        "John Lover",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic"
@@ -1465,14 +1146,7 @@
       "enclosure_length": "58363497",
       "itunes_duration": "01:00:26",
       "speakers": [
-        "Hanneke Cassel",
-        "Eimear Arkins",
-        "Erin Ruth",
-        "Mary Kate Spring Lee",
-        "Charlene Adzima",
-        "Mary Frances Leahy",
-        "Sheridan Rúitín",
-        "Louise Bichan"
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -1493,13 +1167,7 @@
       "itunes_duration": "01:05:18",
       "speakers": [
         "Ed Harris",
-        "Clanna Morna",
-        "Molly Donnery",
-        "Dublin Gulch",
-        "Miles O'Brien",
-        "Mark Shelton",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "peacock"
@@ -1517,14 +1185,7 @@
       "enclosure_length": "75805163",
       "itunes_duration": "01:18:27",
       "speakers": [
-        "Natalie Padilla",
-        "Joseph Carmichael",
-        "Kyle Carey",
-        "Robert Zielinski",
-        "Shannon Heaton",
-        "Joe Hayes",
-        "Thady Casey",
-        "Crane Bar"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -1545,14 +1206,9 @@
       "enclosure_length": "102592047",
       "itunes_duration": "01:46:30",
       "speakers": [
-        "Marc Gunn",
-        "Gothard Sisters",
-        "Jonny Dyer",
-        "Hanneke Cassel",
-        "Natalie Padilla",
-        "Ian Fontova",
-        "David Howley",
-        "Fergal Scahill"
+        "Celtic Top",
+        "Best Songs",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic"
@@ -1570,14 +1226,7 @@
       "enclosure_length": "61959796",
       "itunes_duration": "01:03:57",
       "speakers": [
-        "Ashley Davis",
-        "Jen Midkiff",
-        "Seán Heely",
-        "Marc Gunn",
-        "Joseph Carmichael",
-        "Dublin Gulch",
-        "Mary Kate Spring Lee",
-        "Jesse Ferguson"
+        "Marc Gunn"
       ],
       "topics": [
         "candle",
@@ -1596,14 +1245,9 @@
       "enclosure_length": "75802972",
       "itunes_duration": "01:18:26",
       "speakers": [
-        "Emma Langford",
-        "Hanneke Cassel",
-        "Cutting Bracken Emma Langford",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley",
-        "Brian McReynolds",
-        "Alan Schindler"
+        "Celtic Gems",
+        "Old Blind",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic"
@@ -1621,14 +1265,7 @@
       "enclosure_length": "60903685",
       "itunes_duration": "01:03:02",
       "speakers": [
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley",
-        "Brian McReynolds",
-        "Alan Schindler",
-        "Karen DM Harris",
-        "Emma Bartholomew",
-        "Miranda Nelson"
+        "Marc Gunn"
       ],
       "topics": [
         "brother"
@@ -1646,14 +1283,9 @@
       "enclosure_length": "56889457",
       "itunes_duration": "58:56",
       "speakers": [
-        "Conor Lamb",
-        "Deirdre Galway",
-        "Ewen Henderson",
-        "Irishtown Road",
-        "Jesse Ferguson",
-        "Charlie Rutan",
-        "Lad Dan",
-        "Sylvia Platypus"
+        "Celtic Music",
+        "Happy Thanksgiving",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -1672,14 +1304,8 @@
       "enclosure_length": "63082363",
       "itunes_duration": "01:04:55",
       "speakers": [
-        "Kathryn Tickell",
-        "Kevin Meehan",
-        "Kyle Carey",
-        "Joseph Carmichael",
-        "Brobdingnagian Bards",
-        "Rachel Hair",
-        "Robert Zielinski",
-        "Graih Foalsey"
+        "Kathryn Tic",
+        "Marc Gunn"
       ],
       "topics": [
         "unicorn",
@@ -1698,14 +1324,7 @@
       "enclosure_length": "66643168",
       "itunes_duration": "01:09:02",
       "speakers": [
-        "Jesse Ferguson",
-        "Joseph Carmichael",
-        "Dublin Gulch",
-        "Adria Jackson",
-        "Sheridan Rúitín",
-        "Kathryn Tickell",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "folk",
@@ -1724,14 +1343,7 @@
       "enclosure_length": "76787561",
       "itunes_duration": "01:19:08",
       "speakers": [
-        "Angel Band",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley",
-        "Brian McReynolds",
-        "Alan Schindler",
-        "Karen DM Harris",
-        "Emma Bartholomew"
+        "Marc Gunn"
       ],
       "topics": [
         "friel",
@@ -1750,13 +1362,8 @@
       "enclosure_length": "82333500",
       "itunes_duration": "01:25:16",
       "speakers": [
-        "Natalie Padilla",
-        "Joanie Madden",
-        "Jesse Powers",
-        "John McGinley",
-        "Deirdre Connolly",
-        "Mortal Boy",
-        "Nicolas Babineau",
+        "IrishFest Atlanta headliner",
+        "Celtic Music",
         "Marc Gunn"
       ],
       "topics": [
@@ -1775,14 +1382,7 @@
       "enclosure_length": "64399865",
       "itunes_duration": "01:06:38",
       "speakers": [
-        "Friel Sisters",
-        "Kevin Meehan",
-        "Enda Reilly",
-        "Adam Agee Jon Sousa",
-        "Dublin Gulch",
-        "Sheridan Rúitín",
-        "Tha M'Intinn Raoir Duke",
-        "Hy Brasil"
+        "Marc Gunn"
       ],
       "topics": [
         "scotland",
@@ -1802,13 +1402,8 @@
       "itunes_duration": "01:04:15",
       "speakers": [
         "Dan Possumato",
-        "Conamara Chaos",
-        "Jesse Ferguson",
-        "Enda Reilly",
-        "Olivia Bradley",
-        "Miles O'Brien",
-        "Betsy Rose",
-        "Sheila Coyle"
+        "Cherish Th",
+        "Marc Gunn"
       ],
       "topics": [
         "lady",
@@ -1828,13 +1423,7 @@
       "itunes_duration": "01:23:34",
       "speakers": [
         "Teresa Finley",
-        "Conor Lamb",
-        "Brendan Mulholland",
-        "Deirdre Galway",
-        "Clanna Morna",
-        "Cameron Mackay",
-        "Olivia Bradley",
-        "Joanie Madden"
+        "Marc Gunn"
       ],
       "topics": [
         "irishfest",
@@ -1854,12 +1443,6 @@
       "itunes_duration": "01:09:01",
       "speakers": [
         "Bonnie Dundee",
-        "Conamara Chaos",
-        "Jesse Ferguson",
-        "Wylde Nept",
-        "Clanna Morna",
-        "Rie Sheridan Rose",
-        "Mauna Kea",
         "Marc Gunn"
       ],
       "topics": [
@@ -1879,14 +1462,7 @@
       "enclosure_length": "65686260",
       "itunes_duration": "01:08:04",
       "speakers": [
-        "Dublin Gulch",
-        "Louise Bichan",
-        "Clanna Morna",
-        "Adria Jackson",
-        "Mary Frances Leahy",
-        "Toby Bresnahan",
-        "Vel Onen",
-        "Gretna Green"
+        "Marc Gunn"
       ],
       "topics": [
         "hobbits"
@@ -1905,13 +1481,7 @@
       "itunes_duration": "01:17:41",
       "speakers": [
         "Whiskey Tango",
-        "Dan Possumato",
-        "Jesse Ferguson",
-        "Amy Bradley",
-        "Kevin Burke Frances Cunningham",
-        "Slainte Mhaith",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "muckers",
@@ -1931,14 +1501,7 @@
       "enclosure_length": "66815532",
       "itunes_duration": "01:09:11",
       "speakers": [
-        "Dan Possumato",
-        "Tuatha Dea",
-        "Ian Fontova",
-        "Miles O'Brien",
-        "Betsy Rose",
-        "Mark Shelton",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -1957,14 +1520,7 @@
       "enclosure_length": "68716507",
       "itunes_duration": "01:11:18",
       "speakers": [
-        "Brobdingnagian Bards",
-        "Louise Bichan",
-        "Hayley Griffiths",
-        "Toby Bresnahan",
-        "Natalie Padilla",
-        "Philippe Barnes",
-        "Tom Phelan",
-        "Loch Lomond"
+        "Marc Gunn"
       ],
       "topics": [
         "kitty"
@@ -1982,14 +1538,8 @@
       "enclosure_length": "59970153",
       "itunes_duration": "01:02:01",
       "speakers": [
-        "Molly Donnery",
-        "Natalie Padilla",
-        "Marc Gunn",
-        "Michael Darcy",
-        "Sheridan Rúitín",
-        "vore Fig",
-        "Ye Rosebuds",
-        "Lady Kennaway"
+        "Celtic singers",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -2009,14 +1559,8 @@
       "enclosure_length": "66113877",
       "itunes_duration": "01:08:29",
       "speakers": [
-        "Dublin Gulch",
-        "Mary Frances Leahy",
-        "Enda Reilly",
-        "Poitin Band",
-        "Aneta Dortová",
-        "Charlene Adzima",
-        "Sheridan Rúitín",
-        "Clanna Morna"
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "light",
@@ -2038,14 +1582,7 @@
       "enclosure_length": "63263211",
       "itunes_duration": "01:05:29",
       "speakers": [
-        "Clanna Lorna",
-        "Aneta Dortová",
-        "Willow Trio",
-        "Calum MacPhail",
-        "Mary Frances Leahy",
-        "Sheridan Rúitín",
-        "Martin Wynne",
-        "Emanuele De Simone Mooncoin"
+        "Marc Gunn"
       ],
       "topics": [
         "life",
@@ -2066,13 +1603,7 @@
       "itunes_duration": "01:06:23",
       "speakers": [
         "Hanneke Cassel",
-        "Wylde Nept",
-        "Jesse Ferguson",
-        "Knucklehead Circus",
-        "Gretna Green",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "friend"
@@ -2090,14 +1621,7 @@
       "enclosure_length": "63540802",
       "itunes_duration": "01:05:52",
       "speakers": [
-        "Album Pins",
-        "Dublin Gulch",
-        "Wylde Nept",
-        "Enda Reilly",
-        "Molly Donnery",
-        "Natalie Padilla",
-        "Kevin Meehan",
-        "Hayley Griffiths"
+        "Marc Gunn"
       ],
       "topics": [
         "memories",
@@ -2117,13 +1641,7 @@
       "itunes_duration": "01:10:55",
       "speakers": [
         "Jeremy King",
-        "Conamara Chaos",
-        "Aneta Dortová",
-        "Emanuele De Simone",
-        "Anagha Jirka",
-        "Co mi je",
-        "Maple Leaf",
-        "Ona Band"
+        "Marc Gunn"
       ],
       "topics": [
         "music",
@@ -2142,14 +1660,8 @@
       "enclosure_length": "64383612",
       "itunes_duration": "01:06:42",
       "speakers": [
-        "Lissa Schneckenburger",
-        "Bedlam Bards",
-        "Derek Warfield",
-        "Kevin Meehan",
-        "Marc Gunn",
-        "Tom Paine",
-        "Bert Ferguson",
-        "Miranda Nelson Designs"
+        "Independence Day",
+        "Marc Gunn"
       ],
       "topics": [
         "freedom"
@@ -2167,14 +1679,8 @@
       "enclosure_length": "70976121",
       "itunes_duration": "01:13:28",
       "speakers": [
-        "Dublin Gulch",
-        "Louise Bichan",
-        "Telenn Tri",
-        "Charlene Adzima",
-        "Jimmie McGetrick's John",
-        "Tom Ward",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Celtic Dance Party",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -2195,13 +1701,7 @@
       "itunes_duration": "01:06:18",
       "speakers": [
         "Come Hell",
-        "Telenn Tri",
-        "Michael Darcy",
-        "Paisley Close",
-        "Wooden Legs",
-        "Ashley Davis",
-        "Cloud Horizons",
-        "Doire Cholm Cille"
+        "Marc Gunn"
       ],
       "topics": [
         "hell",
@@ -2220,14 +1720,7 @@
       "enclosure_length": "59881689",
       "itunes_duration": "01:02:08",
       "speakers": [
-        "Charlene Adzima",
-        "Natalie Padilla",
-        "Adria Jackson",
-        "Bettina Solas",
-        "Louise Bichan",
-        "Lisa McCann",
-        "Suzanne Ramos",
-        "Eriskay Lullaby"
+        "Marc Gunn"
       ],
       "topics": [
         "woman",
@@ -2246,13 +1739,6 @@
       "enclosure_length": "61781254",
       "itunes_duration": "01:03:59",
       "speakers": [
-        "Ashley Davis Band",
-        "Gretna Green",
-        "Sam Hall",
-        "Lucy Farr",
-        "Joe Bane",
-        "Mick McAuley",
-        "Jamie Raeburn",
         "Marc Gunn"
       ],
       "topics": [
@@ -2272,14 +1758,7 @@
       "enclosure_length": "57673345",
       "itunes_duration": "59:31",
       "speakers": [
-        "Philippe Barnes",
-        "Tom Phelan",
-        "Santiago Molina",
-        "Lissa Schneckenburger",
-        "Logical Fleadh",
-        "Patsy O'Brien",
-        "Louise Bichan",
-        "Joey Abarta"
+        "Marc Gunn"
       ],
       "topics": [
         "ireland",
@@ -2298,13 +1777,6 @@
       "enclosure_length": "64334810",
       "itunes_duration": "01:06:46",
       "speakers": [
-        "Natalie Padilla",
-        "Wylde Nept",
-        "Louise Bichan",
-        "Adria Jackson",
-        "Dublin Gulch",
-        "Bettina Solas",
-        "Matthew Newman",
         "Marc Gunn"
       ],
       "topics": [
@@ -2324,13 +1796,8 @@
       "enclosure_length": "65190942",
       "itunes_duration": "01:07:33",
       "speakers": [
-        "Conor Mallon",
-        "Charlene Adzima",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley",
-        "James Dolan",
-        "Stan Berry"
+        "Conor Mal",
+        "Marc Gunn"
       ],
       "topics": [
         "thrush"
@@ -2348,14 +1815,7 @@
       "enclosure_length": "62960064",
       "itunes_duration": "01:05:10",
       "speakers": [
-        "Charlene Adzima",
-        "Ed Miller",
-        "Enda Reilly",
-        "Sharon Shannon",
-        "Frobisher Bay",
-        "Johnny Jump",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "drowsy",
@@ -2375,14 +1835,7 @@
       "enclosure_length": "59228825",
       "itunes_duration": "01:01:05",
       "speakers": [
-        "Boxing Robin",
-        "Melanie Gruben",
-        "Louise Bichan",
-        "Dans Loudieg",
-        "Ellen Gira",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "place",
@@ -2401,14 +1854,7 @@
       "enclosure_length": "60787978",
       "itunes_duration": "01:02:43",
       "speakers": [
-        "Telenn Tri",
-        "Nick Metcalf",
-        "Karan Casey",
-        "Altan Liostáil",
-        "Gretna Green",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "shadow"
@@ -2426,14 +1872,8 @@
       "enclosure_length": "58636126",
       "itunes_duration": "01:01:05",
       "speakers": [
-        "Railcar Graffiti",
-        "Brobdingnagian Bards",
-        "Sober Gentlemen",
-        "River Driver",
-        "Jiggy Get",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Haired Bully Boys",
+        "Marc Gunn"
       ],
       "topics": [
         "haired",
@@ -2453,14 +1893,7 @@
       "enclosure_length": "61949175",
       "itunes_duration": "01:04:10",
       "speakers": [
-        "Gothard Sisters",
-        "Emma Langford",
-        "Patsy O'Brien",
-        "Gordon McLeod",
-        "de Fierro",
-        "Alexander James Adams Get",
-        "Luke Skywalker Walks",
-        "Lobster Tail"
+        "Marc Gunn"
       ],
       "topics": [
         "boots",
@@ -2480,13 +1913,7 @@
       "itunes_duration": "01:04:18",
       "speakers": [
         "Telenn Tri",
-        "Patsy O'Brien",
-        "Toby Bresnahan",
-        "Ian Fontova",
-        "Olivia Bradley",
-        "River Driver",
-        "Ida Elena",
-        "Mustache La"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -2505,13 +1932,6 @@
       "enclosure_length": "64936021",
       "itunes_duration": "01:07:39",
       "speakers": [
-        "Derek Warfield",
-        "Nuala Kennedy",
-        "Eamon O'Leary",
-        "Louise Bichan",
-        "Ian Alistair Gosbee",
-        "Hayley Griffiths",
-        "Bastard Son",
         "Marc Gunn"
       ],
       "topics": [
@@ -2533,13 +1953,7 @@
       "itunes_duration": "01:50:54",
       "speakers": [
         "St Patrick",
-        "Hayley Griffiths",
-        "Marc Gunn",
-        "Michael Darcy",
-        "Louise Bichan",
-        "Toby Bresnahan",
-        "River Driver",
-        "Philippe Barnes"
+        "Marc Gunn"
       ],
       "topics": [
         "happy",
@@ -2560,12 +1974,7 @@
       "speakers": [
         "St Patrick",
         "Santiago Molina",
-        "Corey Purcell",
-        "Mary Beth Carty",
-        "Gothard Sisters",
-        "Emma Langford",
-        "Jonny Dyer",
-        "Heather Dale"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -2583,11 +1992,7 @@
       "enclosure_length": "30032776",
       "itunes_duration": "31:06",
       "speakers": [
-        "Nick Hennessey",
-        "Soundcloud Closing",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "devil"
@@ -2605,14 +2010,8 @@
       "enclosure_length": "68573698",
       "itunes_duration": "01:11:26",
       "speakers": [
-        "Eimear Arkins",
-        "Mary Kate Spring Lee",
-        "Jonny Dyer",
-        "Mary Beth Carty",
-        "Hanneke Cassel",
-        "Katherine Nagy",
-        "Debby Regan",
-        "Susan Palmer"
+        "Celtic Women",
+        "Marc Gunn"
       ],
       "topics": [
         "woman"
@@ -2630,14 +2029,7 @@
       "enclosure_length": "96218456",
       "itunes_duration": "01:40:14",
       "speakers": [
-        "Hanneke Cassel",
-        "Matt McGinn",
-        "Cap Le Moine",
-        "Shannon Heaton",
-        "Joe Hayes",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "midnight",
@@ -2657,14 +2049,7 @@
       "enclosure_length": "67180041",
       "itunes_duration": "01:09:41",
       "speakers": [
-        "Avery LeVine",
-        "Seán Heely",
-        "Corey Purcell",
-        "Juha Rossi",
-        "Marc Gunn",
-        "Piskey Led",
-        "Mitchell Petersen",
-        "Raggle Taggle Gypsy"
+        "Marc Gunn"
       ],
       "topics": []
     },
@@ -2681,13 +2066,8 @@
       "itunes_duration": "01:13:03",
       "speakers": [
         "Seán Heely",
-        "Olivia Bradley",
-        "Ben Doran",
-        "Hanneke Cassel",
-        "Irishtown Road",
-        "Brian Quigley",
-        "Emily Huffman",
-        "Marbhna Luimni"
+        "Olivia Bradl",
+        "Marc Gunn"
       ],
       "topics": [
         "gaelic",
@@ -2706,14 +2086,8 @@
       "enclosure_length": "42120969",
       "itunes_duration": "43:36",
       "speakers": [
-        "Gordon McLeod",
-        "Tim Cummings",
-        "Pete Sutherland",
-        "Brad Kolodner",
-        "Corey Purcell",
-        "Logical Fleadh",
-        "Merry Blacksmith",
-        "Cloud Horizons"
+        "Gordon McLeo",
+        "Marc Gunn"
       ],
       "topics": [
         "minute",
@@ -2733,14 +2107,7 @@
       "enclosure_length": "75347586",
       "itunes_duration": "01:18:02",
       "speakers": [
-        "Alisa Marie",
-        "Brendan Monaghan",
-        "Matt McGinn",
-        "Ashley Davis",
-        "Shannon Heaton",
-        "Jessie Summerhayes",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "heather"
@@ -2758,14 +2125,7 @@
       "enclosure_length": "62572760",
       "itunes_duration": "01:05:11",
       "speakers": [
-        "Charlie Rutan",
-        "Sylvia Platypus",
-        "Piskey Led",
-        "Ryan Roubison",
-        "Railcar Graffiti",
-        "Wolf Loescher",
-        "Mark Kenneth",
-        "Tim Cummings"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -2785,14 +2145,7 @@
       "enclosure_length": "61437726",
       "itunes_duration": "01:03:38",
       "speakers": [
-        "Bonhomme Setter",
-        "Hanneke Cassel",
-        "Juha Rossi",
-        "Joseph Carmichael",
-        "Ed Harris",
-        "Seán Heely",
-        "Wander Juha Rossi",
-        "Joseph Carmichael Sovay"
+        "Marc Gunn"
       ],
       "topics": [
         "wild",
@@ -2813,12 +2166,7 @@
       "itunes_duration": "01:08:40",
       "speakers": [
         "Ed Yother",
-        "Mary Beth Carty",
-        "Jesse Ferguson",
-        "Daniele Scardovi",
-        "Kellys Wayke",
-        "Harvey Band",
-        "Abu Chuibhl",
+        "Mary Beth Cart",
         "Marc Gunn"
       ],
       "topics": [
@@ -2841,14 +2189,9 @@
       "enclosure_length": "92256984",
       "itunes_duration": "01:35:28",
       "speakers": [
-        "Corey Purcell",
-        "Matt McGinn",
-        "Jonny Dyer",
-        "Emma Langford",
-        "Gothard Sisters",
-        "Mary Beth Carty",
-        "Heather Dale",
-        "Cutting Bracken Arise Go"
+        "Celtic Top",
+        "Best Songs",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic"
@@ -2866,14 +2209,9 @@
       "enclosure_length": "78431566",
       "itunes_duration": "01:21:10",
       "speakers": [
-        "Gothard Sisters",
-        "Brad Tuck",
-        "Mad Maudlin",
-        "Brendan Monaghan",
-        "Corey Purcell",
-        "Alisa Marie",
-        "Bart Zeal",
-        "Ashley Davis"
+        "Celtic Christmas",
+        "Enjoy Irish",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas"
@@ -2891,14 +2229,7 @@
       "enclosure_length": "68842665",
       "itunes_duration": "01:11:43",
       "speakers": [
-        "Wolf Loescher",
-        "Marc Gunn",
-        "Tuatha Dea",
-        "Muireann Nic Amhlaoibh",
-        "Miranda Nelson Designs",
-        "Todd Wiley",
-        "Bill Mandeville",
-        "Emma Bartholomew"
+        "Marc Gunn"
       ],
       "topics": [
         "winter",
@@ -2917,14 +2248,8 @@
       "enclosure_length": "79920884",
       "itunes_duration": "01:22:48",
       "speakers": [
-        "Hanneke Cassel",
-        "Ashley Davis",
-        "Marc Gunn",
-        "Ewen McIntosh",
-        "Ella Roberts",
-        "Derina Harvey Band",
-        "Cloud Horizons",
-        "Shane Hennessy"
+        "New York",
+        "Marc Gunn"
       ],
       "topics": [
         "fairytale",
@@ -2943,14 +2268,8 @@
       "enclosure_length": "63064608",
       "itunes_duration": "01:05:41",
       "speakers": [
-        "Hanneke Cassel",
-        "Dave Wiesler",
-        "Gothard Sisters",
-        "Brad Reid",
-        "Massimo Giuntini",
-        "Brendan Monaghan",
-        "Winterberry Set",
-        "Win Thank"
+        "Celtic Thanksgiving",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -2970,13 +2289,7 @@
       "itunes_duration": "01:07:39",
       "speakers": [
         "Mist Covered",
-        "Ed Harris",
-        "Mary Kate Spring Lee",
-        "Brian Quigley",
-        "Ed Yother",
-        "Ashley Davis Band",
-        "Campbell Calum Breugach",
-        "Arthur McBride"
+        "Marc Gunn"
       ],
       "topics": [
         "mist",
@@ -2997,13 +2310,7 @@
       "itunes_duration": "01:07:18",
       "speakers": [
         "Hanneke Cassel",
-        "Jesse Ferguson",
-        "Juha Rossi",
-        "Andy Irvine",
-        "Jim Sharkey",
-        "Gordon McLeod",
-        "Lauren Oxford",
-        "Don Gabbert"
+        "Marc Gunn"
       ],
       "topics": [
         "black",
@@ -3022,14 +2329,7 @@
       "enclosure_length": "59706768",
       "itunes_duration": "01:01:48",
       "speakers": [
-        "Ed Yother",
-        "Ryan Roubison",
-        "Ed Harris",
-        "John Doyle",
-        "Dave Howard Coons",
-        "Ashley Davis Band",
-        "Olivia Bradley",
-        "Robby Hilliard"
+        "Marc Gunn"
       ],
       "topics": [
         "irishfest",
@@ -3048,14 +2348,8 @@
       "enclosure_length": "72896174",
       "itunes_duration": "01:15:30",
       "speakers": [
-        "Ed Harris",
-        "Eamon Friel",
-        "Jared Bogle",
-        "Miranda Nelson",
-        "Slán Le Máigh",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Eimear Arkins",
+        "Marc Gunn"
       ],
       "topics": [
         "eimear"
@@ -3074,13 +2368,7 @@
       "itunes_duration": "01:00:00",
       "speakers": [
         "Jared Bogle",
-        "Mary Kate Spring Lee",
-        "Seldom Sober",
-        "Avery LeVine",
-        "Brian Quigley",
-        "Marc Gunn",
-        "Sam Gillogly",
-        "John Kennedy"
+        "Marc Gunn"
       ],
       "topics": [
         "cruisicin"
@@ -3100,12 +2388,7 @@
       "speakers": [
         "Rocky Road",
         "Ed Harris",
-        "Mary Kate Spring Lee",
-        "Ashley Davis Band",
-        "Jocelyn Pettit",
-        "Sylvia Platypus",
-        "Tommy Fakem",
-        "Brian Quigley"
+        "Marc Gunn"
       ],
       "topics": [
         "rocky",
@@ -3127,12 +2410,7 @@
       "speakers": [
         "Ashley Davis Band",
         "Ashley Davis",
-        "Matt McGinn",
-        "Seldom Sober",
-        "Dave Curley",
-        "Daniele Scardovi",
-        "Poitin Band",
-        "Xavier Boderiou"
+        "Marc Gunn"
       ],
       "topics": [
         "ashley",
@@ -3152,14 +2430,7 @@
       "enclosure_length": "70759381",
       "itunes_duration": "01:13:21",
       "speakers": [
-        "Ellen Gibling",
-        "Muireann Nic Amhlaoibh",
-        "Anne McCaffrey",
-        "Tania Opland",
-        "Mike Freeman",
-        "Nora Carroll",
-        "Ava Montesi",
-        "Caroline Dressler"
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -3182,11 +2453,7 @@
         "Foxhunter Dance",
         "Foxhunter Jig",
         "Nathan Gourley",
-        "Laura Feddersen",
-        "Ben Doran",
-        "La Nef",
-        "Kitty Got",
-        "Willie Taylor"
+        "Marc Gunn"
       ],
       "topics": [
         "foxhunter",
@@ -3205,14 +2472,7 @@
       "enclosure_length": "66572674",
       "itunes_duration": "01:08:57",
       "speakers": [
-        "Jocelyn Pettit",
-        "Telenn Tri",
-        "Karan Casey",
-        "Joey Abarta",
-        "Boxing Robin",
-        "Railcar Graffiti",
-        "Raúl Sanz",
-        "La Nef"
+        "Marc Gunn"
       ],
       "topics": [
         "moon"
@@ -3232,12 +2492,7 @@
       "speakers": [
         "Carry My Song",
         "Juha Rossi",
-        "Santiago Molina",
-        "Clare Sands",
-        "Niamh Dunne",
-        "Susan O'Neill",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "song",
@@ -3258,13 +2513,8 @@
       "enclosure_length": "115969265",
       "itunes_duration": "02:00:48",
       "speakers": [
-        "Derina Harvey Band",
-        "Ewen McIntosh",
-        "Kellys Wayke",
-        "Thom Dunn",
-        "Hugh Morrison",
-        "Loch Lomond",
-        "Kilrush Ewen McIntosh",
+        "Secret World",
+        "Celtic Rock",
         "Marc Gunn"
       ],
       "topics": [
@@ -3287,13 +2537,7 @@
       "itunes_duration": "01:10:50",
       "speakers": [
         "Chris Gray",
-        "Hanneke Cassel",
-        "Gordon McLeod",
-        "Erin Ruth",
-        "Angus MacKenzie",
-        "Ryan Roubison",
-        "Mick Citern Walsh",
-        "Patsy O'Brien"
+        "Marc Gunn"
       ],
       "topics": [
         "ladies"
@@ -3311,14 +2555,7 @@
       "enclosure_length": "63969735",
       "itunes_duration": "01:05:58",
       "speakers": [
-        "Enda Reilly",
-        "Corey Purcell",
-        "Mad Maudlin",
-        "Sylvia Platypus",
-        "Joey Abarta",
-        "Charlie Rutan",
-        "Tim Cummings",
-        "Pete Sutherland"
+        "Marc Gunn"
       ],
       "topics": [
         "super",
@@ -3337,14 +2574,8 @@
       "enclosure_length": "61333734",
       "itunes_duration": "01:03:21",
       "speakers": [
-        "Leaping Lulu",
-        "Seán Heely",
-        "Juha Rossi",
-        "Niamh Parsons",
-        "Chris Gray",
-        "Edward Johnson",
-        "Cutting Bracken",
-        "Mona Screaming Orphans"
+        "Celtic Earth",
+        "Marc Gunn"
       ],
       "topics": [
         "great",
@@ -3363,9 +2594,7 @@
       "enclosure_length": "26824163",
       "itunes_duration": "27:23",
       "speakers": [
-        "Gallant Murray",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "gallant",
@@ -3385,10 +2614,7 @@
       "enclosure_length": "29011092",
       "itunes_duration": "29:43",
       "speakers": [
-        "Paisley Close",
-        "Johnny Jump",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "waterfall",
@@ -3407,14 +2633,7 @@
       "enclosure_length": "66235183",
       "itunes_duration": "01:08:38",
       "speakers": [
-        "Corey Purcell",
-        "Seán Heely",
-        "Irishtown Road",
-        "Derina Harvey Band",
-        "Marc Gunn",
-        "Juha Rossi",
-        "Miranda Nelson Designs",
-        "Todd Wiley"
+        "Marc Gunn"
       ],
       "topics": [
         "paddy",
@@ -3433,13 +2652,7 @@
       "enclosure_length": "29168852",
       "itunes_duration": "29:50",
       "speakers": [
-        "Railcar Graffiti",
-        "Claire Roche",
-        "Inne Amarach",
-        "Slainte Claire Roche",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Tote Bag"
+        "Marc Gunn"
       ],
       "topics": [
         "jacobite",
@@ -3458,11 +2671,7 @@
       "enclosure_length": "21996747",
       "itunes_duration": "22:31",
       "speakers": [
-        "Heather Dale",
-        "Emerald Rose",
-        "Art O'Keeffe",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -3482,14 +2691,7 @@
       "enclosure_length": "66420388",
       "itunes_duration": "01:08:47",
       "speakers": [
-        "Erin Ruth",
-        "Seán Heely",
-        "Wolf Loescher",
-        "Brad Reid",
-        "Dan Milner",
-        "Brobdingnagian Bards",
-        "Bonnie Rideout",
-        "Alex Sturbaum"
+        "Marc Gunn"
       ],
       "topics": [
         "mile",
@@ -3509,14 +2711,7 @@
       "enclosure_length": "69119612",
       "itunes_duration": "01:11:41",
       "speakers": [
-        "Derina Harvey Band",
-        "Hanneke Cassel",
-        "Ed Yother",
-        "Jesse Ferguson",
-        "Corey Purcell",
-        "Boxing Robin",
-        "Brad Tuck",
-        "Pernod Waltz"
+        "Marc Gunn"
       ],
       "topics": [
         "fella"
@@ -3534,14 +2729,7 @@
       "enclosure_length": "66669783",
       "itunes_duration": "01:09:14",
       "speakers": [
-        "Alexander James Adams",
-        "River Driver",
-        "Ewen McIntosh",
-        "Brad Tuck",
-        "Hillary Chance",
-        "Glen Roy",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "rocks",
@@ -3560,14 +2748,7 @@
       "enclosure_length": "67861289",
       "itunes_duration": "01:10:12",
       "speakers": [
-        "Lily Bentley",
-        "Mary Beth Carty",
-        "Tim Cummings",
-        "Pete Sutherland",
-        "Brad Kolodner",
-        "Alli Johnson",
-        "Corey Purcell",
-        "Victoria Johnston"
+        "Marc Gunn"
       ],
       "topics": [
         "street",
@@ -3586,13 +2767,7 @@
       "enclosure_length": "67380832",
       "itunes_duration": "01:09:41",
       "speakers": [
-        "Irishtown Road",
-        "Amelia Hogan",
-        "Logical Fleadh",
-        "Sober Gentlemen",
-        "Jim Sharkey",
-        "Christa Burton",
-        "Martino Vacca",
+        "Celtic Musi",
         "Marc Gunn"
       ],
       "topics": [
@@ -3613,13 +2788,7 @@
       "itunes_duration": "01:13:51",
       "speakers": [
         "Rod Nevin",
-        "Corey Purcell",
-        "Colin McGlynn",
-        "Fin Moore",
-        "Chris Gray",
-        "Sylvia Platypus",
-        "Tim Cummings",
-        "Elias Alexander"
+        "Marc Gunn"
       ],
       "topics": [
         "fire",
@@ -3638,14 +2807,9 @@
       "enclosure_length": "59760870",
       "itunes_duration": "01:01:47",
       "speakers": [
-        "Colin McGlynn",
-        "Lily Bentley",
-        "Alli Johnson",
-        "Boxing Robin",
-        "Mary Beth Carty",
-        "Wolf Loescher Mark Kenneth",
-        "Amelia Hogan",
-        "Roy Michael"
+        "County Mayo",
+        "Celtic Invasion",
+        "Marc Gunn"
       ],
       "topics": [
         "county",
@@ -3666,13 +2830,7 @@
       "itunes_duration": "01:53:11",
       "speakers": [
         "Mitchell Petersen",
-        "Julie Kinn",
-        "Jon Pilatzke",
-        "Marc Gunn",
-        "George Allan Set",
-        "Kelly Set Reels",
-        "Midsummer Jigs",
-        "Story Girl"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -3692,14 +2850,7 @@
       "enclosure_length": "66136958",
       "itunes_duration": "01:08:27",
       "speakers": [
-        "Gordon McLeod",
-        "Joey Abarta",
-        "Kieran Byrne",
-        "Brad Reid",
-        "David Arkenstone",
-        "Thrifty Malone",
-        "Ewen McIntosh",
-        "Ryan Roubison"
+        "Marc Gunn"
       ],
       "topics": [
         "magic",
@@ -3718,14 +2869,7 @@
       "enclosure_length": "63790888",
       "itunes_duration": "01:05:55",
       "speakers": [
-        "Wolf Loescher",
-        "Mark Kenneth",
-        "Mad Maudlin",
-        "Lauren Oxford",
-        "Seán Heely",
-        "Brobdingnagian Bards",
-        "Jesse Ferguson",
-        "Karen Matheson"
+        "Marc Gunn"
       ],
       "topics": [
         "highland",
@@ -3744,14 +2888,7 @@
       "enclosure_length": "58418084",
       "itunes_duration": "01:00:25",
       "speakers": [
-        "Logical Fleadh",
-        "Hanneke Cassel",
-        "Boxing Robin",
-        "Karan Casey",
-        "Amelia Hogan",
-        "Alli Johnson",
-        "Lissa Schneckenburger",
-        "Mary Beth Carty"
+        "Marc Gunn"
       ],
       "topics": [
         "mother",
@@ -3772,13 +2909,7 @@
       "itunes_duration": "01:14:32",
       "speakers": [
         "Bridge O'Malley",
-        "Norah Rendell",
-        "Conor Caldwell",
-        "Enda Reilly",
-        "Tommy Fakem",
-        "Nick Metcalf",
-        "Micho Ressell",
-        "Johnny Irish"
+        "Marc Gunn"
       ],
       "topics": [
         "pint",
@@ -3797,14 +2928,7 @@
       "enclosure_length": "65187064",
       "itunes_duration": "01:07:27",
       "speakers": [
-        "Emma Langford",
-        "Tommy Fakem",
-        "Karan Casey",
-        "Railcar Graffiti",
-        "Mick Citern Walsh",
-        "Alli Johnson",
-        "Hanneke Cassel",
-        "Pipe Jigs"
+        "Marc Gunn"
       ],
       "topics": [
         "life",
@@ -3824,13 +2948,7 @@
       "itunes_duration": "01:10:16",
       "speakers": [
         "Hanneke Cassel",
-        "Niamh Dunne",
-        "Kieran Byrne",
-        "Seldom Sober",
-        "Ben Doran",
-        "Jonny Dyer",
-        "Kellys Wayke",
-        "Michael Maloney"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -3851,12 +2969,7 @@
       "speakers": [
         "Hanneke Cassel",
         "Railcar Graffiti",
-        "Ben Doran",
-        "Irishtown Road",
-        "Ewen McIntosh",
-        "Jeri Hanneke Cassel",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "home"
@@ -3874,14 +2987,7 @@
       "enclosure_length": "68827606",
       "itunes_duration": "01:11:14",
       "speakers": [
-        "Hanneke Cassel",
-        "Lily Bentley",
-        "Ben Doran",
-        "Mad Maudlin",
-        "Jim Brady",
-        "Chris Crawford",
-        "Kyle Carey",
-        "Niamh Dunne"
+        "Marc Gunn"
       ],
       "topics": [
         "thing"
@@ -3899,14 +3005,7 @@
       "enclosure_length": "61733861",
       "itunes_duration": "01:04:00",
       "speakers": [
-        "Railcar Graffiti",
-        "Kellys Wayke",
-        "Brobdingnagian Bards",
-        "Jedi Mickey",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Bill Mandeville",
-        "Meghan Walker"
+        "Marc Gunn"
       ],
       "topics": [
         "funny"
@@ -3924,14 +3023,8 @@
       "enclosure_length": "60567874",
       "itunes_duration": "01:02:42",
       "speakers": [
-        "Adam Young",
-        "Allison Lupton",
-        "John Doyle",
-        "Gaelynn Lea",
-        "Laughing Jack",
-        "Beth Patterson",
-        "Lily Bentley",
-        "Liesel Wilson"
+        "Into Spring",
+        "Marc Gunn"
       ],
       "topics": [
         "spring"
@@ -3950,13 +3043,7 @@
       "itunes_duration": "01:31:48",
       "speakers": [
         "St Patrick",
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Bill Mullen",
-        "Marc Gunn",
-        "Lissa Schneckenburger",
-        "Brad Tuck",
-        "Logical Fleadh"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -3975,13 +3062,7 @@
       "itunes_duration": "01:39:11",
       "speakers": [
         "St Patrick",
-        "Wild Blue Yonder",
-        "Wolf Loescher",
-        "Mark Kenneth",
-        "Mary Beth Carty",
-        "Jesse Ferguson",
-        "Mad Maudlin",
-        "Seán Heely"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -4000,13 +3081,7 @@
       "itunes_duration": "01:21:09",
       "speakers": [
         "St Patrick",
-        "Lissa Schneckenburger",
-        "Mary Beth Carty",
-        "Niamh Parsons",
-        "Muireann Nic Amhlaoibh",
-        "Randy Lee Gosa",
-        "Karan Casey",
-        "Thom Dunn"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -4026,13 +3101,7 @@
       "itunes_duration": "01:13:28",
       "speakers": [
         "St Patrick",
-        "Sharon Shannon",
-        "Mary Beth Carty",
-        "Amelia Hogan",
-        "Kellswater Bridge",
-        "Heather Dale",
-        "Emerald Accent",
-        "Lisa Schettner"
+        "Marc Gunn"
       ],
       "topics": [
         "woman"
@@ -4050,14 +3119,8 @@
       "enclosure_length": "63302966",
       "itunes_duration": "01:05:34",
       "speakers": [
-        "Santiago Molina",
-        "Logical Fleadh",
-        "Lissa Schneckenburger",
-        "Melanie Gruben",
-        "Victoria Keating",
-        "Chris Murphy",
-        "Bad Haggis",
-        "Kevin McHugh"
+        "Wonderful New Day",
+        "Marc Gunn"
       ],
       "topics": [
         "ireland"
@@ -4075,14 +3138,7 @@
       "enclosure_length": "63196212",
       "itunes_duration": "01:05:24",
       "speakers": [
-        "Grace O'Malley",
-        "Ed Harris",
-        "Jodee James",
-        "Achill Crossing",
-        "Melanie Gruben",
-        "Lissa Schneckenburger",
-        "Dark Isle Bagpiper",
-        "Til Ireland"
+        "Marc Gunn"
       ],
       "topics": [
         "kindness"
@@ -4100,13 +3156,6 @@
       "enclosure_length": "65211466",
       "itunes_duration": "01:07:56",
       "speakers": [
-        "Stratford Symphony Orchestra",
-        "Mary Beth Carty",
-        "Logical Fleadh",
-        "Na Rósaí",
-        "Ryan MacNeil",
-        "Bill Grogan",
-        "Cutting Bracken Tha mi",
         "Marc Gunn"
       ],
       "topics": [
@@ -4125,14 +3174,7 @@
       "enclosure_length": "70279438",
       "itunes_duration": "01:13:02",
       "speakers": [
-        "Poisoned Dwarf",
-        "Widening Gyre",
-        "Sylvia Woods",
-        "Robin Huw Bowen",
-        "Ed Harris",
-        "Keith Hinchliffe",
-        "Jonathan Milton",
-        "Mark Miller"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -4153,13 +3195,7 @@
       "itunes_duration": "01:06:44",
       "speakers": [
         "Jen Midkiff",
-        "Seán Heely",
-        "Shelli Le Fay",
-        "Lauren Oxford",
-        "Wolf Loescher",
-        "Mark Kenneth",
-        "Jesse Ferguson",
-        "Brad Tuck"
+        "Marc Gunn"
       ],
       "topics": [
         "stolen",
@@ -4178,14 +3214,7 @@
       "enclosure_length": "77495687",
       "itunes_duration": "01:20:32",
       "speakers": [
-        "Garry O'Meara",
-        "Will Macmorran",
-        "Sober Gentlemen",
-        "Lobster Tail",
-        "John Barleycorn",
-        "Ken Petrie",
-        "Marc Gunn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "kilt",
@@ -4204,13 +3233,6 @@
       "enclosure_length": "67191523",
       "itunes_duration": "01:09:46",
       "speakers": [
-        "Wolf Loescher",
-        "Jesse Ferguson",
-        "Emma Langford",
-        "Ryan McKasson",
-        "Kalos Kickstarter",
-        "Johnny Gallacher",
-        "Vincent Seven Stars",
         "Marc Gunn"
       ],
       "topics": [
@@ -4230,14 +3252,7 @@
       "enclosure_length": "99835130",
       "itunes_duration": "01:43:47",
       "speakers": [
-        "Marc Gunn",
-        "Gothard Sisters",
-        "Screeched Inn",
-        "Flynn Cohen",
-        "John Doyle",
-        "Battlefield Band",
-        "Muireann Nic Amhlaoibh",
-        "Ed Miller"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic"
@@ -4255,14 +3270,8 @@
       "enclosure_length": "65813895",
       "itunes_duration": "01:08:18",
       "speakers": [
-        "David Blonski",
-        "Enda Reilly",
-        "Bart Zeal",
-        "Alisa Marie",
-        "Terry McDade",
-        "Ken O'Malley",
-        "Eileen Ivers",
-        "Brad Tuck"
+        "David Blon",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -4282,14 +3291,8 @@
       "enclosure_length": "122091310",
       "itunes_duration": "02:07:02",
       "speakers": [
-        "Amelia Hogan",
-        "Boston Blackthorne",
-        "Brad Tuck",
-        "Sue Spencer",
-        "Marc Gunn",
-        "Enda Reilly",
-        "Jim Ofsthun",
-        "Julie Kinn"
+        "Celtic Music Stories",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -4309,14 +3312,9 @@
       "enclosure_length": "67550202",
       "itunes_duration": "01:10:06",
       "speakers": [
-        "Marc Gunn Sam Gillogly",
-        "Gone Molly",
-        "Alexander James Adams Get",
-        "John Sharkey White",
-        "Peggy Gordon",
-        "Hobbit Polka",
-        "Sam Gillogly",
-        "Baobhan Sith"
+        "Patron Saints",
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "patron",
@@ -4337,14 +3335,8 @@
       "enclosure_length": "59153093",
       "itunes_duration": "01:01:29",
       "speakers": [
-        "Anna Bosnick",
-        "Enda Reilly",
-        "Alisa Marie",
-        "Graham Vincent David Mitchell",
-        "Captian O'Kane",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Song Henger"
+        "Anna Bosn",
+        "Marc Gunn"
       ],
       "topics": [
         "thanksgiving"
@@ -4363,12 +3355,6 @@
       "itunes_duration": "01:05:00",
       "speakers": [
         "Raúl Sanz",
-        "David Blonski",
-        "Niamh Dunne",
-        "Annie Lorkowski",
-        "Willie Taylor",
-        "Dance Kinnfolk",
-        "Mona Wakefire Smuggler's Song",
         "Marc Gunn"
       ],
       "topics": [
@@ -4388,14 +3374,7 @@
       "enclosure_length": "61712155",
       "itunes_duration": "01:04:09",
       "speakers": [
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Ron Cody",
-        "Raúl Sanz",
-        "Bren Holmes",
-        "Clare Sands",
-        "Biddy Mulligan",
-        "Blackberry Blossom"
+        "Marc Gunn"
       ],
       "topics": [
         "ireland"
@@ -4413,14 +3392,8 @@
       "enclosure_length": "65426462",
       "itunes_duration": "01:08:03",
       "speakers": [
-        "Wendy MacIsaac",
-        "Brobdingnagian Bards",
-        "Jared Bogle",
-        "Angel Story",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Song Henger",
-        "Martin Schaub"
+        "County Donegal",
+        "Marc Gunn"
       ],
       "topics": [
         "altan"
@@ -4438,14 +3411,7 @@
       "enclosure_length": "60616392",
       "itunes_duration": "01:02:59",
       "speakers": [
-        "Sharon Shannon",
-        "Colin Grant Adams",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Meghan Walker",
-        "Dan mcDade",
-        "Carol Baril",
-        "Miranda Nelson"
+        "Marc Gunn"
       ],
       "topics": [
         "lunasa"
@@ -4464,13 +3430,7 @@
       "itunes_duration": "01:05:13",
       "speakers": [
         "Shannon Dunne",
-        "Santiago Molina",
-        "Niamh Dunne",
-        "Alex Sturbaum",
-        "Battlefield Band",
-        "Gwilym Morus",
-        "Chris Murphy",
-        "Clare Sands"
+        "Marc Gunn"
       ],
       "topics": [
         "sail",
@@ -4489,14 +3449,7 @@
       "enclosure_length": "63699847",
       "itunes_duration": "01:06:06",
       "speakers": [
-        "Patrick Finley",
-        "Achill Crossing",
-        "Outbound Traveler",
-        "Lissa Schneckenburger",
-        "Patrick Finley Achonry Lasses",
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Mitchell Petersen"
+        "Marc Gunn"
       ],
       "topics": [
         "queen",
@@ -4515,13 +3468,7 @@
       "enclosure_length": "71520414",
       "itunes_duration": "01:14:14",
       "speakers": [
-        "Randy Clepper",
-        "Anne Roos",
-        "David Blonski",
-        "Johnny Mickey",
-        "Lee Erin Quinn",
-        "Bung Knee Jigs",
-        "Rouge Mouse",
+        "Celtic Music Podcas",
         "Marc Gunn"
       ],
       "topics": [
@@ -4542,14 +3489,9 @@
       "enclosure_length": "64859920",
       "itunes_duration": "01:07:24",
       "speakers": [
-        "Flynn Cohen",
-        "Jackie Oates",
-        "David Blonski",
-        "Dylan Walshe",
-        "Derek Byrne",
-        "Tuatha Dea",
-        "Fletch Taylor",
-        "Dead String Rhythm"
+        "Am Ireland",
+        "Celtic Story",
+        "Marc Gunn"
       ],
       "topics": [
         "ireland"
@@ -4567,13 +3509,6 @@
       "enclosure_length": "61775956",
       "itunes_duration": "01:04:10",
       "speakers": [
-        "Muireann Nic Amhlaoibh",
-        "Brobdingnagian Bards",
-        "Clare Cunningham",
-        "Flynn Cohen",
-        "Brad Tuck",
-        "Andrew McKee",
-        "Dead String Rhythm",
         "Marc Gunn"
       ],
       "topics": [
@@ -4594,13 +3529,7 @@
       "itunes_duration": "01:02:58",
       "speakers": [
         "Wolf Loescher",
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Niamh Dunne",
-        "Don Gabbert",
-        "Heidi Talbot",
-        "Screeched Inn",
-        "Arty McGlynn"
+        "Marc Gunn"
       ],
       "topics": [
         "lagan",
@@ -4619,14 +3548,7 @@
       "enclosure_length": "59483275",
       "itunes_duration": "01:01:47",
       "speakers": [
-        "Marc Gunn",
-        "Miranda Nelson Designs",
-        "Clare Cunningham",
-        "Tuatha Dea",
-        "Song Henger",
-        "Meghan Walker",
-        "Dan mcDade",
-        "Carol Baril"
+        "Marc Gunn"
       ],
       "topics": [
         "byker",
@@ -4645,14 +3567,9 @@
       "enclosure_length": "64727937",
       "itunes_duration": "01:07:10",
       "speakers": [
-        "Avon Faire",
-        "Lissa Schneckenburger",
-        "Niamh Dunne",
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Gwendolyn Snowdon",
-        "Erin Ruth Tulua",
-        "Kwee vuh"
+        "Celtic Women",
+        "Avon Fair",
+        "Marc Gunn"
       ],
       "topics": [
         "right",
@@ -4671,14 +3588,11 @@
       "enclosure_length": "68249264",
       "itunes_duration": "01:10:51",
       "speakers": [
-        "Laura Feddersen",
-        "Flynn Cohen",
-        "Derek Byrne",
-        "Marc Gunn",
-        "Tuatha Dea",
-        "Nathan Gourley",
-        "Joe Tighe",
-        "Dead String Rhythm"
+        "Middle Tennessee Highland Games",
+        "Visit Middle Tennessee Highland",
+        "Celtic Festival",
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "middle",
@@ -4700,13 +3614,7 @@
       "itunes_duration": "01:07:40",
       "speakers": [
         "Lissa Schneckenburger",
-        "Wolf Loescher",
-        "Sharon Shannon",
-        "Gerry O'Beirne",
-        "Rosie Shipley",
-        "Kelly Set Reels",
-        "Sacred Earth",
-        "Laura Cortese"
+        "Marc Gunn"
       ],
       "topics": [
         "sustainability",
@@ -4729,14 +3637,7 @@
       "enclosure_length": "66882679",
       "itunes_duration": "01:09:27",
       "speakers": [
-        "Andy Irvine",
-        "La Nef",
-        "Kevin McKrell",
-        "Kris Colt",
-        "Enda Reilly",
-        "Mary MacMahon's Lady",
-        "Beggarman Dan",
-        "Presenting Sons"
+        "Marc Gunn"
       ],
       "topics": [
         "magic",
@@ -4757,14 +3658,8 @@
       "enclosure_length": "66489171",
       "itunes_duration": "01:09:08",
       "speakers": [
-        "Will Macmorran",
-        "Niamh Dunne",
-        "Maggie Rant",
-        "Erin Ruth",
-        "Bluegrass Band",
-        "John Doyle",
-        "Harry Brewer",
-        "Miranda Nelson Designs"
+        "Celtic Musi",
+        "Marc Gunn"
       ],
       "topics": [
         "beauty",
@@ -4784,13 +3679,7 @@
       "itunes_duration": "01:03:13",
       "speakers": [
         "La Nef",
-        "Enda Reilly",
-        "Niamh Dunne",
-        "Telenn Tri",
-        "Kevin McKrell",
-        "Brad Tuck",
-        "Merry Blacksmith",
-        "Dublin Town"
+        "Marc Gunn"
       ],
       "topics": [
         "irish"
@@ -4808,13 +3697,7 @@
       "enclosure_length": "59855688",
       "itunes_duration": "01:02:05",
       "speakers": [
-        "Jocelyn Pettit",
-        "Kate Rusby",
-        "Erin Ruth",
-        "John Stout",
-        "Wind Rose",
-        "Erin Ruth Voice",
-        "Miranda Nelson Designs",
+        "Far Away",
         "Marc Gunn"
       ],
       "topics": [
@@ -4834,13 +3717,7 @@
       "itunes_duration": "01:07:09",
       "speakers": [
         "Ellen Gibling",
-        "Gerry O'Connor",
-        "Marc Gunn",
-        "Jonny Dyer",
-        "Jamie Haeuser",
-        "Jonathan Milton",
-        "Boston Blackthorne",
-        "Jocelyn Pettit"
+        "Marc Gunn"
       ],
       "topics": [
         "favor",
@@ -4862,14 +3739,8 @@
       "enclosure_length": "56269639",
       "itunes_duration": "58:26",
       "speakers": [
-        "Song Henger",
-        "Deirdre Graham",
-        "Boston Blackthorne",
-        "Marys Lane",
-        "Event Horizon",
-        "Marc Gunn Sam Gillogly",
-        "Chrissy Crowley",
-        "Wendy MacIsaac"
+        "Celtic Workout",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -4890,12 +3761,7 @@
       "speakers": [
         "Eileen Ivers",
         "Nathan Gourley",
-        "Laura Feddersen",
-        "Abby Green",
-        "Mile Stone",
-        "Graham Dunne",
-        "Tony Gibbons",
-        "Muireann Nic Amhlaoibh"
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -4915,13 +3781,8 @@
       "itunes_duration": "01:11:50",
       "speakers": [
         "Mike Katz",
-        "Spencer Murray Pipeslinger",
-        "Battlefield Band",
-        "Jimi McRae",
-        "Ed Miller",
-        "Alasdair White",
-        "Marc Gunn",
-        "Duncan McLauchlan"
+        "Spencer Murray",
+        "Marc Gunn"
       ],
       "topics": [
         "scotland"
@@ -4939,14 +3800,8 @@
       "enclosure_length": "53936698",
       "itunes_duration": "56:00",
       "speakers": [
-        "Mike Katz Mike Whellans",
-        "Ed Harris",
-        "Spirited Lads",
-        "Maggie Drennon",
-        "Telenn Tri",
-        "Mike Whellans Juan Martino",
-        "Juan Martino",
-        "Ye Banks"
+        "Celtic Invasion Vacation",
+        "Marc Gunn"
       ],
       "topics": [
         "kyle",
@@ -4966,13 +3821,7 @@
       "itunes_duration": "59:12",
       "speakers": [
         "Bret Blackshear",
-        "Poitin Band",
-        "Graham Dunne",
-        "Tony Gibbons",
-        "Jacqui McCarthy",
-        "Scott Hoye",
-        "Redhill Rats",
-        "Gibbons Blackbirds"
+        "Marc Gunn"
       ],
       "topics": [
         "tales"
@@ -4991,13 +3840,8 @@
       "itunes_duration": "01:09:02",
       "speakers": [
         "Andrew Finn Magill",
-        "Marc Gunn",
-        "Sam Gillogly",
-        "David Curley Mick Broderick",
-        "Emma Langford",
-        "Dark Patrick",
-        "Hugh Morrison",
-        "Mick Broderick"
+        "Marc Gun",
+        "Marc Gunn"
       ],
       "topics": [
         "dance"
@@ -5016,13 +3860,7 @@
       "itunes_duration": "01:05:10",
       "speakers": [
         "Poitin Band",
-        "Preab Meadar",
-        "Liesel Wilson",
-        "Telenn Tri",
-        "Karen Matheson",
-        "Gaelynn Lea",
-        "Colleen Raney",
-        "Jeremy Spencer"
+        "Marc Gunn"
       ],
       "topics": [
         "folk"
@@ -5040,14 +3878,9 @@
       "enclosure_length": "59694335",
       "itunes_duration": "01:02:05",
       "speakers": [
-        "Bonnie Rideout Matt Bell",
-        "Tom Morley",
-        "Beth Patterson",
-        "Patrick O'Flaherty",
-        "Hank Cramer",
-        "James Shipp",
-        "Boston Blackthorne",
-        "Cady Finlayson"
+        "Drums Let",
+        "Bonnie Rideout",
+        "Marc Gunn"
       ],
       "topics": [
         "dumbarton",
@@ -5066,14 +3899,7 @@
       "enclosure_length": "61955865",
       "itunes_duration": "01:04:25",
       "speakers": [
-        "Stephanie Claussen",
-        "Beer Belly",
-        "Muireann Nic Amhlaoibh",
-        "Tim Hill",
-        "George Papavgeris",
-        "Cois Abhann",
-        "Bonnie Anne",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "jack",
@@ -5093,13 +3919,7 @@
       "itunes_duration": "01:15:09",
       "speakers": [
         "Scots Gaelic",
-        "Gothard Sisters",
-        "Telenn Tri",
-        "Tom Eure",
-        "Hunting McLeod",
-        "Kyle Carey",
-        "Story Girl",
-        "Shannon Heaton"
+        "Marc Gunn"
       ],
       "topics": [
         "scots",
@@ -5118,14 +3938,7 @@
       "enclosure_length": "62884840",
       "itunes_duration": "01:05:19",
       "speakers": [
-        "Jonny Dyer",
-        "Heather Dale",
-        "Nick Hennessey",
-        "Avon Faire",
-        "Brad Reid",
-        "Iarla O'Lionaird",
-        "John McLean Allan",
-        "Yon Forest"
+        "Marc Gunn"
       ],
       "topics": [
         "tree",
@@ -5144,14 +3957,7 @@
       "enclosure_length": "72308605",
       "itunes_duration": "01:15:07",
       "speakers": [
-        "John Doyle",
-        "Alasdair White",
-        "Avon Faire",
-        "Andy Lamy",
-        "Graham Dunne",
-        "Tony Gibbons",
-        "Don Gabbert",
-        "Aughris Head"
+        "Marc Gunn"
       ],
       "topics": [
         "faeries"
@@ -5170,13 +3976,7 @@
       "itunes_duration": "01:02:33",
       "speakers": [
         "Screeched Inn",
-        "de Fierro",
-        "Jasper Coal",
-        "Bren Holmes",
-        "Screeched Inn Welcome",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "John Doyle"
+        "Marc Gunn"
       ],
       "topics": [
         "celt",
@@ -5195,14 +3995,7 @@
       "enclosure_length": "60396061",
       "itunes_duration": "01:02:48",
       "speakers": [
-        "Jeff Ksiazek",
-        "Muireann Nic Amhlaoibh",
-        "Don Gabbert",
-        "Cady Finlayson",
-        "Alexander James Adams",
-        "John Stout",
-        "Jennifer Licko",
-        "Ed Harris"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -5222,13 +4015,7 @@
       "itunes_duration": "03:16:21",
       "speakers": [
         "St Patrick",
-        "Gothard Sisters",
-        "Dave Curley",
-        "Jackie Oates",
-        "Andy Irvine",
-        "Marc Gunn Sam Gillogly",
-        "Avon Faire",
-        "Colin Farrell"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -5247,13 +4034,7 @@
       "itunes_duration": "01:28:21",
       "speakers": [
         "St Patrick",
-        "Carroll Sisters",
-        "John Doyle",
-        "Bonnie Rideout",
-        "Seamus Kennedy",
-        "Kevin Burke",
-        "Brobdingnagian Bards",
-        "Bonny Kellswater"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -5273,13 +4054,7 @@
       "itunes_duration": "01:12:15",
       "speakers": [
         "St Patrick",
-        "Dom Duff",
-        "John Doyle",
-        "John Weber",
-        "Kris Colt",
-        "Coole Park",
-        "Marc Gunn",
-        "Finn Byrne"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -5318,14 +4093,7 @@
       "enclosure_length": "67629298",
       "itunes_duration": "01:10:15",
       "speakers": [
-        "Lissa Schneckenburger",
-        "Jenna Moynihan",
-        "Heather Dale",
-        "Dublin Abbey",
-        "Bonnie Rideout",
-        "Beth Patterson",
-        "Secret Sky",
-        "Liesel Wilson"
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -5347,13 +4115,7 @@
       "itunes_duration": "01:09:23",
       "speakers": [
         "Enda Seery",
-        "Brad Reid",
-        "Marc Gunn",
-        "Andy Law",
-        "Kathy Barwick",
-        "Banna De Dhá",
-        "Eddie Biggins",
-        "Marys Lane"
+        "Marc Gunn"
       ],
       "topics": [
         "slow",
@@ -5372,14 +4134,8 @@
       "enclosure_length": "65295032",
       "itunes_duration": "01:07:47",
       "speakers": [
-        "Poitin Band",
-        "Vintage Wildflowers",
-        "Wooden Legs",
-        "Hugh Morrison",
-        "Rising Gael",
-        "Kilmaine Saints",
-        "Duncan McLauchlan",
-        "Animali Hugh Morrison"
+        "Places So Sacred",
+        "Marc Gunn"
       ],
       "topics": [
         "place"
@@ -5397,13 +4153,7 @@
       "enclosure_length": "153688930",
       "itunes_duration": "01:03:58",
       "speakers": [
-        "Spencer Murray Pipeslinger",
-        "Ed Miller",
-        "Hank Cramer",
-        "Seumas Gagne",
-        "Kevin Flynn",
-        "Jenny Dang",
-        "Miranda Nelson Designs",
+        "Spencer Murray",
         "Marc Gunn"
       ],
       "topics": [
@@ -5423,13 +4173,7 @@
       "itunes_duration": "01:06:58",
       "speakers": [
         "Conor Caldwell",
-        "Muireann Nic Amhlaoibh",
-        "Ellen Gibling",
-        "Pauline Scanlon",
-        "Bob McNeill",
-        "Brad Tuck",
-        "Joe Batts",
-        "Tall Tales"
+        "Marc Gunn"
       ],
       "topics": [
         "famine",
@@ -5448,14 +4192,8 @@
       "enclosure_length": "150113743",
       "itunes_duration": "01:02:29",
       "speakers": [
-        "Marc Gunn",
-        "Screeched Inn",
-        "Achill Crossing",
-        "Alisa Marie",
-        "Miranda Nelson Designs",
-        "Song Henger",
-        "Carol Baril",
-        "Miranda Nelson"
+        "Get Back Together",
+        "Marc Gunn"
       ],
       "topics": [
         "together"
@@ -5473,13 +4211,6 @@
       "enclosure_length": "155080076",
       "itunes_duration": "01:04:34",
       "speakers": [
-        "Gerry O'Connor",
-        "Cara Dillon",
-        "Alisa Marie",
-        "Tuatha Dea",
-        "Creadeamh Sí",
-        "Peggy Gordon",
-        "Miranda Nelson Designs",
         "Marc Gunn"
       ],
       "topics": [
@@ -5498,14 +4229,7 @@
       "enclosure_length": "172052363",
       "itunes_duration": "01:11:37",
       "speakers": [
-        "Widening Gyre",
-        "Muireann Nic Amhlaoibh",
-        "Michael William Harrison",
-        "Jon Pilatzke",
-        "Tuatha Dea",
-        "Linda King",
-        "Brian Boru",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": []
     },
@@ -5539,7 +4263,6 @@
       "enclosure_length": null,
       "itunes_duration": null,
       "speakers": [
-        "any job",
         "Marc Gunn"
       ],
       "topics": []
@@ -5556,9 +4279,8 @@
       "enclosure_length": null,
       "itunes_duration": null,
       "speakers": [
-        "Irish Song Lyrics",
-        "Click Share",
-        "Album Name",
+        "Promote Yourself Want",
+        "Celtic Music Ma",
         "Marc Gunn"
       ],
       "topics": [
@@ -5578,14 +4300,10 @@
       "enclosure_length": "95680040",
       "itunes_duration": "01:39:26",
       "speakers": [
-        "Heather Dale",
-        "Brad Reid",
-        "Beth Patterson",
-        "Will Macmorran",
-        "Marc Gunn",
-        "Brass Lassie",
-        "Moch Pryderi",
-        "Deirdre Graham"
+        "Celtic Top",
+        "Best Celtic Songs",
+        "Amazing Celtic",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -5606,14 +4324,9 @@
       "enclosure_length": "67707289",
       "itunes_duration": "01:10:14",
       "speakers": [
-        "Adam Young",
-        "Terry McDade",
-        "Gaelynn Lea",
-        "Sharon Shannon",
-        "Marc Gunn",
-        "Stephanie Claussen",
-        "Brightest Dawn Steel City",
-        "Miranda Nelson Designs"
+        "Happy Celtic Christmas",
+        "Celtic Christmas",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas"
@@ -5631,14 +4344,7 @@
       "enclosure_length": "87224098",
       "itunes_duration": "01:30:43",
       "speakers": [
-        "Mary Knickle",
-        "Marc Gunn",
-        "Terry Griffith",
-        "Jim Brannigan",
-        "Ed Miller",
-        "Brobdingnagian Bards",
-        "Jonny Dyer",
-        "Iarla O'Lionaird"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -5658,14 +4364,7 @@
       "enclosure_length": "74250563",
       "itunes_duration": "01:17:10",
       "speakers": [
-        "Gaelynn Lea",
-        "Jon Pilatzke",
-        "Gerry O'Connor",
-        "Kevin Burke",
-        "Jesse Ferguson",
-        "Jen Midkiff",
-        "Achill Crossing",
-        "Thom Dunn"
+        "Marc Gunn"
       ],
       "topics": [
         "prayer",
@@ -5685,13 +4384,7 @@
       "itunes_duration": "01:00:29",
       "speakers": [
         "Jon Pilatzke",
-        "Ed Harris",
-        "Amelia Hogan",
-        "Susana Seivane",
-        "Marc Gunn",
-        "Gerry O'Connor",
-        "Duncan McLauchlan",
-        "Glaucia Carvalho"
+        "Marc Gunn"
       ],
       "topics": [
         "home"
@@ -5709,14 +4402,7 @@
       "enclosure_length": "67762977",
       "itunes_duration": "01:10:28",
       "speakers": [
-        "Jon Pilatzke",
-        "Muireann Nic Amhlaoibh",
-        "Brad Reid",
-        "Steve Gibb",
-        "Matthew Young",
-        "Ed Miller",
-        "Gaelynn Lea",
-        "Gerry O'Connor"
+        "Marc Gunn"
       ],
       "topics": [
         "love",
@@ -5735,14 +4421,8 @@
       "enclosure_length": "61547475",
       "itunes_duration": "01:03:58",
       "speakers": [
-        "Robin Huw Bowen",
-        "Jonny Dyer",
-        "John McGaha",
-        "Emma Langford",
-        "Bill Mullen",
-        "de Fierro",
-        "Blue Alatar",
-        "Jennifer Cutting"
+        "Green Man",
+        "Marc Gunn"
       ],
       "topics": [
         "green"
@@ -5760,14 +4440,7 @@
       "enclosure_length": "64734803",
       "itunes_duration": "01:07:20",
       "speakers": [
-        "Brad Reid",
-        "Duncan McLauchlan",
-        "Jim McKenna",
-        "Gothard Sisters",
-        "Amelia Hogan",
-        "Estren Tartanic",
-        "John Barleycorn",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "nightfall"
@@ -5785,14 +4458,7 @@
       "enclosure_length": "63588840",
       "itunes_duration": "01:06:01",
       "speakers": [
-        "Muireann Nic Amhlaoibh",
-        "Achill Crossing",
-        "Elizabeth Sutherland",
-        "Gaelynn Lea",
-        "Ashley Davis",
-        "Christine Weir",
-        "Graham Dunne",
-        "Sue Spencer"
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -5811,14 +4477,9 @@
       "enclosure_length": "60126702",
       "itunes_duration": "01:02:29",
       "speakers": [
-        "Muireann Nic Amhlaoibh",
-        "Adam Young",
-        "Jesse Ferguson",
-        "Will Macmorran",
-        "Shannon Heaton",
-        "Thar Toinn Seaborne",
-        "Garry Owen",
-        "Kenning Bang"
+        "New York Girls",
+        "New York",
+        "Marc Gunn"
       ],
       "topics": [
         "york",
@@ -5837,14 +4498,7 @@
       "enclosure_length": "66261211",
       "itunes_duration": "01:08:52",
       "speakers": [
-        "Jen Midkiff",
-        "Amelia Hogan",
-        "Dustin Cooper",
-        "Bill Mullen",
-        "Mickey Coleman",
-        "Dom Duff",
-        "Gaelynn Lea",
-        "Eira Willowgreen"
+        "Marc Gunn"
       ],
       "topics": [
         "wild",
@@ -5863,14 +4517,7 @@
       "enclosure_length": "64132267",
       "itunes_duration": "01:06:40",
       "speakers": [
-        "Emma Langford",
-        "Sue Spencer",
-        "Achill Crossing",
-        "Graham Dunne",
-        "Fir Arda",
-        "Turf Fire Liars",
-        "Sally Gardens",
-        "Michael Goes Flatpickin Road"
+        "Marc Gunn"
       ],
       "topics": [
         "grog"
@@ -5888,13 +4535,6 @@
       "enclosure_length": "63298132",
       "itunes_duration": "01:05:44",
       "speakers": [
-        "Jonny Dyer",
-        "Jen Midkiff",
-        "Adam Young",
-        "Gaelynn Lea",
-        "Will Macmorran",
-        "Duncan Cameron",
-        "Miranda Nelson Designs",
         "Marc Gunn"
       ],
       "topics": [
@@ -5916,13 +4556,7 @@
       "itunes_duration": "59:30",
       "speakers": [
         "Adam Young",
-        "Muireann Nic Amhlaoibh",
-        "Christine Collister",
-        "Achill Crossing",
-        "Jen Midkiff",
-        "Jesse Ferguson",
-        "Shannon Heaton",
-        "Donald MacGillivray"
+        "Marc Gunn"
       ],
       "topics": [
         "fire",
@@ -5943,12 +4577,7 @@
       "speakers": [
         "Muirhseen Durkin",
         "Jen Midkiff",
-        "Alexander James Adams",
-        "Catherine Koehler",
-        "Achill Crossing",
-        "Hugh Morrison",
-        "Hapn Frog",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "muirsheen",
@@ -5967,14 +4596,7 @@
       "enclosure_length": "61763531",
       "itunes_duration": "01:04:12",
       "speakers": [
-        "Susana Seivane",
-        "Anna Bosnick",
-        "Colleen Raney",
-        "Stephanie Claussen",
-        "John Mcgaha",
-        "Wooden Legs",
-        "Brendan Monaghan",
-        "Lissa Schneckenburger"
+        "Marc Gunn"
       ],
       "topics": [
         "blackbird"
@@ -5992,14 +4614,9 @@
       "enclosure_length": "59018618",
       "itunes_duration": "01:01:19",
       "speakers": [
-        "John Doyle Cillian Vallely",
-        "Jonny Dyer",
-        "Gaelynn Lea",
-        "Kyle Gryphon",
-        "Seamus Kennedy",
-        "John McLean Allan",
-        "Vicki Swan",
-        "Slip Tease"
+        "Even Irish Airmen",
+        "Emerald Accent",
+        "Marc Gunn"
       ],
       "topics": [
         "airman"
@@ -6020,11 +4637,7 @@
         "Gaelynn Lea",
         "Adam Young",
         "Ashley Davis",
-        "Thom Dunn",
-        "Jesse Ferguson",
-        "Muireann Nic Amhlaoibh",
-        "Laughing Jack",
-        "Will Macmorran"
+        "Marc Gunn"
       ],
       "topics": [
         "ireland"
@@ -6042,13 +4655,6 @@
       "enclosure_length": "65317745",
       "itunes_duration": "01:07:47",
       "speakers": [
-        "Graham Dunne",
-        "Jeff Blaney",
-        "Fir Arda",
-        "John Mcgaha",
-        "Kean O'Hara",
-        "Que Forte",
-        "Miranda Nelson Designs",
         "Marc Gunn"
       ],
       "topics": [
@@ -6067,14 +4673,7 @@
       "enclosure_length": "59911069",
       "itunes_duration": "01:02:15",
       "speakers": [
-        "Bay Allen",
-        "Sue Spencer",
-        "Jesse Ferguson",
-        "Duncan Mclauchlan",
-        "Glaucia Carvalho",
-        "Matthew Young",
-        "Brad Reid",
-        "de Fierro"
+        "Marc Gunn"
       ],
       "topics": [
         "paddy"
@@ -6093,13 +4692,7 @@
       "itunes_duration": "01:05:02",
       "speakers": [
         "Steve Gibb",
-        "Marc Gunn",
-        "Brobdingnagian Bards",
-        "Andrew McKee",
-        "Kelly Set Reels",
-        "Totes Adorbs",
-        "Miranda Nelson Designs",
-        "Morgan George"
+        "Marc Gunn"
       ],
       "topics": [
         "cottage"
@@ -6118,13 +4711,7 @@
       "itunes_duration": "01:02:07",
       "speakers": [
         "Gothard Sisters",
-        "Erin Ruth",
-        "Liesel Wilson",
-        "Emma Langford",
-        "Elizabeth Sutherland",
-        "Anna Bosnick",
-        "Norah Rendell",
-        "Amelia Hogan"
+        "Marc Gunn"
       ],
       "topics": [
         "woman",
@@ -6143,14 +4730,7 @@
       "enclosure_length": "66140079",
       "itunes_duration": "01:08:43",
       "speakers": [
-        "Brad Reid",
-        "John Mcgaha",
-        "Emma Langford",
-        "Gothard Sisters",
-        "Duncan McLauchlan",
-        "Glaucia Carvalho",
-        "Peggy Gordon",
-        "Illumina Duncan McLauchlan"
+        "Marc Gunn"
       ],
       "topics": [
         "house"
@@ -6168,14 +4748,8 @@
       "enclosure_length": "58233850",
       "itunes_duration": "01:00:30",
       "speakers": [
-        "Emma Langford",
-        "Ed Miller",
-        "Jim Nelson",
-        "Tim Hill",
-        "Seamus Kennedy",
-        "Duncan McLauchlan",
-        "Mháthar Pyata",
-        "Mormond Braes"
+        "Hats Off",
+        "Marc Gunn"
       ],
       "topics": [
         "beer"
@@ -6195,12 +4769,7 @@
       "speakers": [
         "Bold Fenian",
         "Liesel Wilson",
-        "Graham Dunne",
-        "Ed Harris",
-        "Erin Ruth",
-        "Matthew Young",
-        "Nick Metcalf",
-        "Orla Fallon"
+        "Marc Gunn"
       ],
       "topics": [
         "bold",
@@ -6219,14 +4788,8 @@
       "enclosure_length": "65349999",
       "itunes_duration": "01:07:46",
       "speakers": [
-        "Anna Bosnick",
-        "Elizabeth Sutherland",
-        "Steve Gibb",
-        "John Mcgaha",
-        "Amelia Hogan",
-        "Turf Fire Liars",
-        "Brad Tuck",
-        "Brad Reid"
+        "Too Short",
+        "Marc Gunn"
       ],
       "topics": [
         "life"
@@ -6244,14 +4807,7 @@
       "enclosure_length": "60651857",
       "itunes_duration": "01:02:58",
       "speakers": [
-        "Gothard Sisters",
-        "Brad Reid",
-        "Steve Gibb",
-        "Kevin Michael Offord",
-        "Duncan McLauchlan",
-        "Blue Alatar",
-        "Wolf Loescher",
-        "Michael Offord"
+        "Marc Gunn"
       ],
       "topics": [
         "dragonfly"
@@ -6269,14 +4825,7 @@
       "enclosure_length": "62437869",
       "itunes_duration": "01:04:49",
       "speakers": [
-        "Brad Reid",
-        "John Mcgaha",
-        "Duncan McLauchlan",
-        "Kevin Michael Offord",
-        "Elizabeth Sutherland",
-        "Matthew Young",
-        "Bay Allen",
-        "Robin Huw Bowen"
+        "Marc Gunn"
       ],
       "topics": [
         "blast",
@@ -6295,14 +4844,7 @@
       "enclosure_length": "54537810",
       "itunes_duration": "56:20",
       "speakers": [
-        "Melanie Gruben",
-        "Bedlam Bards",
-        "Dublin Abbey",
-        "Beth Patterson",
-        "Thomas Patrick Kenny",
-        "James Connolly",
-        "Patrick Kenny Raglan Road",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "rainy",
@@ -6322,13 +4864,7 @@
       "itunes_duration": "01:15:56",
       "speakers": [
         "Sleepytime Slow Aires",
-        "Mithril Duo",
-        "Anne Roos",
-        "Nick Metcalf",
-        "Thomas Doc Grauzer",
-        "Andy Lamy",
-        "Mark Davies",
-        "Cady Finlayson"
+        "Marc Gunn"
       ],
       "topics": [
         "sleepytime",
@@ -6348,14 +4884,7 @@
       "enclosure_length": "57443286",
       "itunes_duration": "59:42",
       "speakers": [
-        "Avery LeVine",
-        "Hugh Morrison",
-        "Sue Spencer",
-        "Robin Huw Bowen",
-        "Matt Hughes",
-        "Elizabeth Sutherland",
-        "Gaelic Storm",
-        "Hoffedd Nanw Fach"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -6374,14 +4903,7 @@
       "enclosure_length": "59478017",
       "itunes_duration": "01:01:49",
       "speakers": [
-        "Jamie Smith",
-        "Sue Spencer",
-        "Tim Hill",
-        "Jeff Blaney",
-        "Graham Dunne",
-        "Nick Metcalf",
-        "Liesel Wilson",
-        "Estren Jeff Blaney"
+        "Marc Gunn"
       ],
       "topics": [
         "water"
@@ -6400,13 +4922,7 @@
       "itunes_duration": "59:00",
       "speakers": [
         "Fir Arda",
-        "Sue Spencer",
-        "Graham Dunne",
-        "Caroline Bennett",
-        "Jeff Blaney",
-        "Liesel Wilson",
-        "Amelia Hogan",
-        "Jesse Ferguson"
+        "Marc Gunn"
       ],
       "topics": [
         "green",
@@ -6425,14 +4941,9 @@
       "enclosure_length": "62675342",
       "itunes_duration": "01:05:04",
       "speakers": [
-        "Laughing Jack",
-        "Liesel Wilson",
-        "Nick Metcalf",
-        "Fir Arda",
-        "Estren Doolin",
-        "Mary's Jigs",
-        "Eira Feedback",
-        "Miranda Nelson Designs"
+        "Instrumental Earth",
+        "Instrumental Celtic",
+        "Marc Gunn"
       ],
       "topics": [
         "instrumental",
@@ -6452,13 +4963,7 @@
       "itunes_duration": "01:07:32",
       "speakers": [
         "Jack Duggan",
-        "Caroline Bennett",
-        "Graham Dunne",
-        "Bill Mullen",
-        "Liesel Wilson",
-        "Nick Metcalf",
-        "Jeff Blaney",
-        "Turf Fire Liars"
+        "Marc Gunn"
       ],
       "topics": [
         "colonial"
@@ -6478,12 +4983,7 @@
       "speakers": [
         "Liesel Wilson",
         "Amelia Hogan",
-        "Gothard Sisters",
-        "Graham Dunne",
-        "Caroline Bennett",
-        "Lisa Schettner",
-        "Sue Spencer",
-        "Cathy Jordan"
+        "Marc Gunn"
       ],
       "topics": [
         "woman"
@@ -6503,12 +5003,7 @@
       "speakers": [
         "Mike Katz",
         "Cady Finlayson",
-        "Deirdre Graham",
-        "Sarah Marie Mullen",
-        "Seumas Gagne",
-        "William Jackson",
-        "Celeste Howard",
-        "Claire Roche Support"
+        "Marc Gunn"
       ],
       "topics": [
         "easter",
@@ -6527,14 +5022,7 @@
       "enclosure_length": "68021828",
       "itunes_duration": "01:10:42",
       "speakers": [
-        "Cady Finlayson",
-        "Adam Beattie",
-        "Karen Matheson",
-        "Marys Lane",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Kathy Stanford",
-        "Kenn Brooks"
+        "Marc Gunn"
       ],
       "topics": [
         "johnny",
@@ -6553,6 +5041,7 @@
       "enclosure_length": null,
       "itunes_duration": null,
       "speakers": [
+        "Celtic Music Pod",
         "Marc Gunn"
       ],
       "topics": [
@@ -6575,11 +5064,7 @@
         "St Patrick",
         "Mike Katz",
         "Jesse Ferguson",
-        "Adam Beattie",
-        "Laughing Jack",
-        "Eddie Biggins",
-        "Heather Dale",
-        "Andrew McManus"
+        "Marc Gunn"
       ],
       "topics": [
         "happy",
@@ -6599,13 +5084,7 @@
       "itunes_duration": "04:15:37",
       "speakers": [
         "St Patrick",
-        "Brad Reid",
-        "Jesse Ferguson",
-        "Colleen Raney",
-        "Emma Langford",
-        "Deirdre Graham",
-        "Beth Patterson",
-        "Caliceltic Ed Miller"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -6625,14 +5104,8 @@
       "enclosure_length": "77159324",
       "itunes_duration": "01:12:03",
       "speakers": [
-        "St Patrick",
-        "Joseph Carmichael",
-        "Muireann Nic Amhlaoibh",
-        "Rising Gael",
-        "Marc Gunn Sam Gillogly",
-        "Gerry O'Beirne",
-        "Gothard Sisters",
-        "Sylvia Woods"
+        "Celtic Culture Awareness Month",
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -6650,14 +5123,7 @@
       "enclosure_length": "63689494",
       "itunes_duration": "01:06:13",
       "speakers": [
-        "Laughing Jack",
-        "Brass Lassie",
-        "Eddie Biggins",
-        "Spring Lee",
-        "Brad Tuck",
-        "St Patrick",
-        "St Patrick's Day",
-        "Newry Highwayman"
+        "Marc Gunn"
       ],
       "topics": [
         "thar",
@@ -6677,13 +5143,7 @@
       "itunes_duration": "01:06:20",
       "speakers": [
         "St Patrick",
-        "Marc Gunn",
-        "Sam Gillogly",
-        "Deirdre Graham",
-        "Andrew McManus",
-        "Brad Tuck",
-        "Mary Turn Awa",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -6702,14 +5162,8 @@
       "enclosure_length": "65755718",
       "itunes_duration": "01:08:03",
       "speakers": [
-        "Andrew Finn Magill",
-        "Screeched Inn",
-        "Gothard Sisters",
-        "Marc Gunn",
-        "Finn Magill",
-        "Playground Marc Gunn",
-        "St Patrick",
-        "Miranda Nelson Designs"
+        "Much Needed Catharsis",
+        "Marc Gunn"
       ],
       "topics": [
         "catharsis"
@@ -6727,13 +5181,6 @@
       "enclosure_length": "62378617",
       "itunes_duration": "01:04:39",
       "speakers": [
-        "Jonny Dyer",
-        "Deirdre Graham",
-        "Andrew McManus",
-        "Gwilym Morus",
-        "Dòmhnall nan Dòmhnall",
-        "Donald MacGilvary",
-        "Miranda Nelson Designs",
         "Marc Gunn"
       ],
       "topics": [
@@ -6752,14 +5199,7 @@
       "enclosure_length": "60312597",
       "itunes_duration": "01:02:30",
       "speakers": [
-        "John Williams",
-        "Wendy MacIsaac",
-        "RG Paddler",
-        "Moch Pryderi",
-        "Patsy O'Brien",
-        "Don Gabbert",
-        "Marys Lane",
-        "Icewagon Flu"
+        "Marc Gunn"
       ],
       "topics": [
         "road"
@@ -6777,14 +5217,7 @@
       "enclosure_length": "65649484",
       "itunes_duration": "01:08:08",
       "speakers": [
-        "Andrew McManus",
-        "Dylan Foley",
-        "Andrew Finn Magill",
-        "Jesse Ferguson",
-        "Kathryn Rose",
-        "Dave Howard Coons",
-        "Deirdre Graham",
-        "Ronnie Hall"
+        "Marc Gunn"
       ],
       "topics": [
         "grace",
@@ -6803,14 +5236,8 @@
       "enclosure_length": "69950284",
       "itunes_duration": "01:12:28",
       "speakers": [
-        "Serious Kitchen",
-        "Emma Langford",
-        "Andrew Finn Magill",
-        "Martyn Wylde",
-        "Heather Dale",
-        "Stand Easy",
-        "John McLean Allan",
-        "Batten Down"
+        "Celtic Music Po",
+        "Marc Gunn"
       ],
       "topics": [
         "always"
@@ -6828,14 +5255,10 @@
       "enclosure_length": "125185229",
       "itunes_duration": "02:09:57",
       "speakers": [
-        "Andrew Finn Magill",
-        "Brass Lassie",
-        "Brad Tuck",
-        "Emma Langford",
-        "Cady Finlayson",
-        "Dave Howard Coons",
-        "John McLean Allan",
-        "Kathryn Rose"
+        "Planet Earth",
+        "Happy New Year",
+        "Do Over",
+        "Marc Gunn"
       ],
       "topics": [
         "love",
@@ -6855,14 +5278,9 @@
       "enclosure_length": "87428228",
       "itunes_duration": "01:30:29",
       "speakers": [
-        "Gothard Sisters",
-        "Kyle Gryphon",
-        "Lisa Schettner",
-        "Heather Dale",
-        "Midnight Sun",
-        "Bellow Bridge",
-        "Tales Bronwyn Leigh",
-        "Miranda Nelson Designs"
+        "Celtic Music Top",
+        "Best Celtic Music Songs",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -6881,14 +5299,9 @@
       "enclosure_length": "127054950",
       "itunes_duration": "02:11:53",
       "speakers": [
-        "Stephanie Claussen",
-        "Laura MacKenzie",
-        "Sarah Marie Mullen",
-        "Jessica Victoria",
-        "Heather Alexander",
-        "Susan Toman",
-        "Ed Miller",
-        "Heather Dale"
+        "Celtic Christmas Women",
+        "Celtic Christmas",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -6907,14 +5320,8 @@
       "enclosure_length": "97749213",
       "itunes_duration": "01:41:26",
       "speakers": [
-        "Jim Brannigan",
-        "Marc Gunn Sam Gillogly",
-        "Cady Finlayson",
-        "Mary Knickle",
-        "Heather Dale",
-        "Gaelic Storm",
-        "Marc Gunn",
-        "Iarla O'Lionaird"
+        "Patron Requests",
+        "Marc Gunn"
       ],
       "topics": [
         "patron",
@@ -6933,14 +5340,8 @@
       "enclosure_length": "64065640",
       "itunes_duration": "01:06:14",
       "speakers": [
-        "Anne Roos",
-        "Ed Miller",
-        "Allison Barber",
-        "Anton Emery",
-        "Abby Green",
-        "Jimi McRae",
-        "Pibroch Medley",
-        "Miranda Nelson Designs"
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "whiskey"
@@ -6958,14 +5359,7 @@
       "enclosure_length": "62071186",
       "itunes_duration": "01:04:14",
       "speakers": [
-        "Andrew Finn Magill",
-        "Martyn Wylde",
-        "Erin Ruth",
-        "Kathryn Rose",
-        "Dublin Abbey",
-        "Michael Tinker Tierney",
-        "Brass Lassie",
-        "John McLean Allan"
+        "Marc Gunn"
       ],
       "topics": [
         "thank",
@@ -6984,14 +5378,7 @@
       "enclosure_length": "62567307",
       "itunes_duration": "01:04:48",
       "speakers": [
-        "John McLean Allan",
-        "St Stephen",
-        "Wooden Legs",
-        "Kilmaine Saints",
-        "Iron Roux",
-        "Brenda Stubbert",
-        "Raggle Taggle Gipsy",
-        "Tuatha de Dannann"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -7010,14 +5397,8 @@
       "enclosure_length": "59398545",
       "itunes_duration": "01:01:31",
       "speakers": [
-        "Dave Howard Coons",
-        "Brass Lassie",
-        "Sharon Collins Powers",
-        "Brad Tuck",
-        "Emma Langford",
-        "Pol Mac Adaim",
-        "John McLean Allan",
-        "Còta Mòr Ealasaid"
+        "Wild Atlantic",
+        "Marc Gunn"
       ],
       "topics": [
         "wild",
@@ -7036,14 +5417,7 @@
       "enclosure_length": "61867424",
       "itunes_duration": "01:04:07",
       "speakers": [
-        "John Doyle",
-        "Pol Mac Adaim",
-        "Jessica Victoria",
-        "Alex Sturbaum",
-        "Nick Metcalf",
-        "Rick Metcalf",
-        "Byrne Band",
-        "Mary Come"
+        "Marc Gunn"
       ],
       "topics": [
         "happy"
@@ -7061,14 +5435,8 @@
       "enclosure_length": "71918969",
       "itunes_duration": "01:14:25",
       "speakers": [
-        "David Pedrick",
-        "Cara Wildman",
-        "Andrew Finn Magill",
-        "Marc Gunn",
-        "Mary Vanhoozer",
-        "Madison Metricula Roberts",
-        "Melanie Gruben",
-        "Brenda Stubbert"
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "halloween"
@@ -7086,13 +5454,6 @@
       "enclosure_length": "68056896",
       "itunes_duration": "01:10:35",
       "speakers": [
-        "Joseph Carmichael",
-        "Liz Madden",
-        "Orla Fallon",
-        "Brad Tuck",
-        "Nick Metcalf",
-        "de Sorribas",
-        "Miranda Nelson Designs",
         "Marc Gunn"
       ],
       "topics": [
@@ -7112,14 +5473,7 @@
       "enclosure_length": "59456021",
       "itunes_duration": "01:01:42",
       "speakers": [
-        "Catya Mare",
-        "Bad Haggis",
-        "Event Horizon",
-        "Alasdair Whyte",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Brenda Richardson",
-        "Bella Seita"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -7139,13 +5493,8 @@
       "itunes_duration": "01:08:40",
       "speakers": [
         "Gothard Sisters",
-        "Keyreel Raskolenko",
-        "David Pedrick",
-        "Tres Maksimuk",
-        "John McLean Allan",
-        "Anna Bosnick",
-        "Marc Gunn Sam Gillogly",
-        "Miranda Nelson Designs"
+        "Keyreel Raskole",
+        "Marc Gunn"
       ],
       "topics": [
         "fairy",
@@ -7164,10 +5513,8 @@
       "enclosure_length": "24048489",
       "itunes_duration": "25:02",
       "speakers": [
-        "Marc Gunn",
-        "Rising Gael",
-        "John McLean Allan",
-        "Marys Lane"
+        "Celtic Rock",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -7186,14 +5533,8 @@
       "enclosure_length": "65393802",
       "itunes_duration": "01:08:08",
       "speakers": [
-        "David Pedrick",
-        "Marc Gunn Sam Gillogly",
-        "Teton Skye",
-        "Mike Kats",
-        "Blackstone Cuil",
-        "John McLean Allan",
-        "Fir Arda",
-        "Gordon Duncan"
+        "Celtic music",
+        "Marc Gunn"
       ],
       "topics": [
         "barley"
@@ -7212,13 +5553,7 @@
       "itunes_duration": "01:03:25",
       "speakers": [
         "St Patrick",
-        "Orla Fallon",
-        "Karan Casey",
-        "Erin Ruth",
-        "Ravens Three",
-        "Anna Bosnick",
-        "Kyle Carey",
-        "Mrs Ferris"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -7239,13 +5574,8 @@
       "itunes_duration": "01:01:28",
       "speakers": [
         "Beer Belly",
-        "Pol Mac Adaim",
-        "Moch Pryderi",
-        "Brobdingnagian Bards",
-        "Preab Meadar",
-        "Jon Baade",
-        "Dick Gossip",
-        "Bad Haggis"
+        "Dublin Harpe",
+        "Marc Gunn"
       ],
       "topics": [
         "lady",
@@ -7266,12 +5596,7 @@
       "speakers": [
         "KeyReel Raskolenko",
         "David Pedrick",
-        "John Doyle",
-        "Foggy Dude",
-        "Jon Baade",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Samir Malak"
+        "Marc Gunn"
       ],
       "topics": [
         "sunflower"
@@ -7289,14 +5614,7 @@
       "enclosure_length": "62677893",
       "itunes_duration": "01:05:18",
       "speakers": [
-        "Kyle Gryphon",
-        "Eileen Ivers",
-        "Poisoned Dwarf",
-        "Gerry O'Beirne",
-        "Brenda Stubbert",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Paul Vigansky"
+        "Marc Gunn"
       ],
       "topics": [
         "love"
@@ -7316,12 +5634,7 @@
       "speakers": [
         "John Doyle",
         "Anna Bosnick",
-        "Orla Fallon",
-        "Colleen Orender",
-        "Wyvern Lingo",
-        "Gillian Boucher",
-        "Bob McNeill",
-        "Matt Diaz Erin Michet"
+        "Marc Gunn"
       ],
       "topics": [
         "forest",
@@ -7341,13 +5654,7 @@
       "itunes_duration": "01:09:19",
       "speakers": [
         "Cady Finlayson",
-        "Orla Fallon",
-        "Erin Ruth",
-        "Dustin Cooper",
-        "St Stephen",
-        "Wolf Loescher",
-        "Erin Ruth Celtic",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "mantle",
@@ -7367,13 +5674,7 @@
       "itunes_duration": "01:10:45",
       "speakers": [
         "Kyle Carey",
-        "Marc Gunn",
-        "Sam Gillogly",
-        "Orla Fallon",
-        "Jim Sharkey",
-        "Kevin Kennedy",
-        "Samantha Kennedy",
-        "Susana Seivane"
+        "Marc Gunn"
       ],
       "topics": [
         "bean",
@@ -7393,11 +5694,6 @@
       "itunes_duration": "01:01:26",
       "speakers": [
         "String Theory",
-        "Lily Bentley",
-        "St Stephen",
-        "Jamie Smith",
-        "Skeleton McKee",
-        "Miranda Nelson Designs",
         "Marc Gunn"
       ],
       "topics": [
@@ -7419,13 +5715,7 @@
       "itunes_duration": "01:05:06",
       "speakers": [
         "St Stephen",
-        "Anna Bosnick",
-        "Lisa Schettner",
-        "John Stout",
-        "Brad Reid",
-        "Dylan Walshe",
-        "Kellswater Bridge",
-        "Skeleton McKee"
+        "Marc Gunn"
       ],
       "topics": [
         "stephen",
@@ -7445,13 +5735,7 @@
       "itunes_duration": "01:01:27",
       "speakers": [
         "Alexander James Adams",
-        "Lissa Schneckenburger",
-        "Seumas Gagne",
-        "Tir Nan Og",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Anthony Young",
-        "Loreena McKennitt"
+        "Marc Gunn"
       ],
       "topics": [
         "alright"
@@ -7470,13 +5754,7 @@
       "itunes_duration": "01:05:25",
       "speakers": [
         "Fir Arda",
-        "Alexander James Adams",
-        "Jesse Ferguson",
-        "Ed Harris",
-        "Tami Curtis",
-        "Wooden Legs",
-        "Skeleton McKee",
-        "Plaid Menagerie"
+        "Marc Gunn"
       ],
       "topics": [
         "highland",
@@ -7495,14 +5773,7 @@
       "enclosure_length": "57107758",
       "itunes_duration": "59:30",
       "speakers": [
-        "Merry Wives",
-        "Johnny Brown",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Elle Clark",
-        "Jackson Shinn",
-        "Mark Long",
-        "Emil Volcheck"
+        "Marc Gunn"
       ],
       "topics": [
         "mary"
@@ -7520,14 +5791,7 @@
       "enclosure_length": "70519596",
       "itunes_duration": "01:13:28",
       "speakers": [
-        "Molly Bauckham",
-        "Julia Lane",
-        "Kellswater Bridge",
-        "Anne Roos",
-        "Ceili Moss",
-        "Ed Miller",
-        "Paisley Close",
-        "Ryan MacNeil"
+        "Marc Gunn"
       ],
       "topics": [
         "maid",
@@ -7546,14 +5810,7 @@
       "enclosure_length": "61244301",
       "itunes_duration": "01:03:48",
       "speakers": [
-        "Christine Primose",
-        "Skeleton McKee",
-        "Hugh Morrison",
-        "Jennifer Licko",
-        "Emerald Accent",
-        "Plaid Menagerie",
-        "Johnny Jump",
-        "Robert Tannahill"
+        "Marc Gunn"
       ],
       "topics": [
         "feather"
@@ -7571,14 +5828,7 @@
       "enclosure_length": "83882653",
       "itunes_duration": "01:27:23",
       "speakers": [
-        "Seumas Gagne",
-        "Alexander James Adams",
-        "Samantha Gillogly",
-        "Melanie Gruben",
-        "Daphne Eftychia Arthur",
-        "Kris Clements",
-        "Douglas Jig",
-        "John Adams"
+        "Marc Gunn"
       ],
       "topics": [
         "pride",
@@ -7599,14 +5849,8 @@
       "enclosure_length": "62283761",
       "itunes_duration": "01:04:53",
       "speakers": [
-        "Lissa Schneckenburger",
-        "Jessica Victoria",
-        "Claire Roche",
-        "Tami Curits",
-        "Kellswater Bridge",
-        "Muireann Nic Amhlaoibh",
-        "Nick Owl-eev",
-        "Miranda Nelson Designs"
+        "Lissa Schn",
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -7626,13 +5870,7 @@
       "itunes_duration": "01:09:26",
       "speakers": [
         "Merry Blacksmith",
-        "Gillian Boucher",
-        "Bob McNeill",
-        "Lissa Schneckenburger",
-        "Jonny Dyer",
-        "Jesse Ferguson",
-        "Ed Harris",
-        "Mary Ann Kennedy"
+        "Marc Gunn"
       ],
       "topics": [
         "merry",
@@ -7651,14 +5889,7 @@
       "enclosure_length": "64403243",
       "itunes_duration": "01:07:06",
       "speakers": [
-        "Jeremy Spencer",
-        "Wolf Loescher",
-        "Ed Harris",
-        "Kilmaine Saints",
-        "Skeleton McKee",
-        "Dan O'Connell",
-        "Tami Curtis",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "wolf",
@@ -7678,14 +5909,7 @@
       "enclosure_length": "60470242",
       "itunes_duration": "01:03:00",
       "speakers": [
-        "Fir Arda",
-        "Gillian Boucher",
-        "Bob McNeill",
-        "Iron Roux",
-        "Stephanie Claussen",
-        "Jesse Ferugson",
-        "Jonny Dyer",
-        "Jeremy Spencer"
+        "Marc Gunn"
       ],
       "topics": [
         "paddy",
@@ -7704,14 +5928,8 @@
       "enclosure_length": "63293150",
       "itunes_duration": "01:05:56",
       "speakers": [
-        "Heather Dale",
-        "Jesse Ferguson",
-        "Seamus Kennedy",
-        "Ed Miller",
-        "Lachan Sa",
-        "Sa Vew-ta",
-        "Midnight Sun",
-        "Mary Mac"
+        "Celtic Music Patronage",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -7732,14 +5950,8 @@
       "enclosure_length": "122031039",
       "itunes_duration": "02:07:07",
       "speakers": [
-        "BestCelticMusic net",
-        "Haggis Rampant",
-        "Sarah Marie Mullen",
-        "Teton Skye",
-        "Moch Pryderi",
-        "Moira Smiley",
-        "Nick Hennessey",
-        "Susana Seivane"
+        "Instrumental Celtic Tunes",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -7759,14 +5971,9 @@
       "enclosure_length": "68515121",
       "itunes_duration": "01:11:23",
       "speakers": [
-        "Heather Dale",
-        "Brobdingnagian Bards",
-        "Hearthfire Duo",
-        "Catherine Koehler",
-        "Wooden Legs",
-        "Pauline Scanlon Feat",
-        "Damien Dempsey",
-        "Jessica Victoria"
+        "Celtic Tree",
+        "Earth Day",
+        "Marc Gunn"
       ],
       "topics": [
         "plant",
@@ -7786,14 +5993,7 @@
       "enclosure_length": "97103945",
       "itunes_duration": "01:41:09",
       "speakers": [
-        "Eileen Ivers",
-        "Jesse Ferguson",
-        "Wooden Legs",
-        "Ed Harris",
-        "Stephanie Claussen",
-        "Gillian Boucher",
-        "Bob McNeill",
-        "Lissa Schneckenburger"
+        "Marc Gunn"
       ],
       "topics": [
         "pandemic",
@@ -7812,14 +6012,9 @@
       "enclosure_length": "63869077",
       "itunes_duration": "01:06:32",
       "speakers": [
-        "Stephanie Claussen",
-        "Kilmaine Saints",
-        "Screeched Inn",
-        "Screeched Inn Bonny Portmore",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Domenico Rossi",
-        "Eric Mailler"
+        "Scottish songs",
+        "Celtic Music Pod",
+        "Marc Gunn"
       ],
       "topics": [
         "tartan"
@@ -7837,14 +6032,8 @@
       "enclosure_length": "67934575",
       "itunes_duration": "01:10:46",
       "speakers": [
-        "Lissa Schneckenburger",
-        "Hanz Araki",
-        "Wolf Loescher",
-        "Norah Rendell",
-        "Jim McKenna",
-        "Ginger Ackley",
-        "Xavier Boderiou",
-        "Jim McKenna Uileann"
+        "Respect Like",
+        "Marc Gunn"
       ],
       "topics": [
         "respect",
@@ -7864,13 +6053,7 @@
       "itunes_duration": "01:19:56",
       "speakers": [
         "Covid Blues",
-        "Jeremy Spencer",
-        "Kyle Gryphon",
-        "Francis Leclerc Marise Demers",
-        "Kilmaine Saints",
-        "Emerald Accent",
-        "Alba Gu Brath",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "post",
@@ -7892,13 +6075,7 @@
       "itunes_duration": "02:18:17",
       "speakers": [
         "St Patrick",
-        "Xavier Boderiou",
-        "Gillian Boucher",
-        "Bob McNeill",
-        "Lissa Schneckenburger",
-        "Jesse Ferguson",
-        "Jonny Dyer",
-        "Catherine Koehler"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -7917,13 +6094,7 @@
       "itunes_duration": "01:15:53",
       "speakers": [
         "St Patrick",
-        "Whiskey Bay Rovers",
-        "Nick Metcalf",
-        "Jonny Dyer",
-        "Alexander James Adams",
-        "Ed Miller Subscribe",
-        "Ed Miller",
-        "Miranda Nelson Designs"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -7942,13 +6113,7 @@
       "itunes_duration": "01:09:23",
       "speakers": [
         "St Patrick",
-        "Bonnie Rideout",
-        "Janette Geri",
-        "Shauna Mullin",
-        "Jennifer Licko",
-        "Melanie Gruben",
-        "Beth Patterson",
-        "Shannon Heaton"
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -7967,13 +6132,6 @@
       "enclosure_length": "60420498",
       "itunes_duration": "01:02:57",
       "speakers": [
-        "Neil Anderson",
-        "Tim Maurice",
-        "Kyle Gryphon",
-        "Eamonn Flynn",
-        "Jim Sharkey",
-        "Samantha Gillogly",
-        "Miranda Nelson Designs",
         "Marc Gunn"
       ],
       "topics": [
@@ -7993,13 +6151,7 @@
       "enclosure_length": "63058156",
       "itunes_duration": "01:05:41",
       "speakers": [
-        "Allison Girvan",
-        "Ashley Davis",
-        "Janette Geri",
-        "Kyle Gryphon",
-        "Leanaim Thú",
-        "Cormac De Barra",
-        "Miranda Nelson Designs",
+        "Julia Delaney",
         "Marc Gunn"
       ],
       "topics": [
@@ -8019,14 +6171,7 @@
       "enclosure_length": "63004740",
       "itunes_duration": "01:05:38",
       "speakers": [
-        "Matthew Dickerson",
-        "Kellswater Bridge",
-        "Teton Skye",
-        "Tom Morrison",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Shawn Cali",
-        "Hank Woodward"
+        "Marc Gunn"
       ],
       "topics": [
         "carolan",
@@ -8045,14 +6190,8 @@
       "enclosure_length": "64190485",
       "itunes_duration": "01:06:52",
       "speakers": [
-        "Franco Bordoni",
-        "Romana Fabris",
-        "Mishaped Pearls",
-        "Seamus Kennedy",
-        "Oisin McAuley",
-        "Doug Folkins",
-        "Joe Tam",
-        "Cava de"
+        "Celtic Italy",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -8072,13 +6211,7 @@
       "itunes_duration": "01:03:45",
       "speakers": [
         "Bonnie Rideout",
-        "Heather Dale",
-        "Terry Griffith",
-        "Ella Roberts",
-        "Michael Goes",
-        "Miranda Nelson Designs",
-        "Marc Gunn",
-        "Brobdingnagian Bards"
+        "Marc Gunn"
       ],
       "topics": [
         "jaunting"
@@ -8096,14 +6229,7 @@
       "enclosure_length": "72448948",
       "itunes_duration": "01:15:29",
       "speakers": [
-        "Marc Gunn",
-        "Alexander James Adams",
-        "Heather Dale",
-        "Seldom Sober",
-        "Miranda Nelson Designs",
-        "Erin Breen",
-        "Raymond McCullough",
-        "Co Down"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -8123,14 +6249,8 @@
       "enclosure_length": "61032125",
       "itunes_duration": "01:03:35",
       "speakers": [
-        "Warbelow Range",
-        "Serious Kitchen",
-        "Jonny Dyer",
-        "Kyle Gryphon",
-        "Catherine Koehler",
-        "Hugh Morrison",
-        "Marc Gunn",
-        "Annie Lorkowski"
+        "Warbelow Rang",
+        "Marc Gunn"
       ],
       "topics": [
         "kisses"
@@ -8148,14 +6268,8 @@
       "enclosure_length": "102383241",
       "itunes_duration": "01:46:37",
       "speakers": [
-        "Moira Smiley",
-        "Colleen Raney",
-        "Byrne Band",
-        "Ella Roberts",
-        "Rising Gael",
-        "Sharon Shannon",
-        "Melanie Gruben",
-        "Don Gabbert"
+        "Celtic Top",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic"
@@ -8173,14 +6287,10 @@
       "enclosure_length": "60362746",
       "itunes_duration": "01:02:53",
       "speakers": [
-        "Heather Dale",
-        "Marc Gunn",
-        "Natalie MacMaster",
-        "Alexander James Adams",
-        "Ed Miller",
-        "Sarah Marie Mullen",
-        "Susan Toman",
-        "Tommy Sands"
+        "Celtic Christmas Cheer",
+        "Merry Christmas",
+        "Celtic Christmas",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -8199,14 +6309,7 @@
       "enclosure_length": "63659197",
       "itunes_duration": "01:06:19",
       "speakers": [
-        "Jonny Dyer",
-        "Merry Wives",
-        "Katherine Nagy",
-        "Anne Roos",
-        "Lily Bentley",
-        "Maggie Drennon",
-        "Rising Gael",
-        "Fionnuala Gill"
+        "Marc Gunn"
       ],
       "topics": [
         "woman"
@@ -8224,14 +6327,9 @@
       "enclosure_length": "65201039",
       "itunes_duration": "01:07:55",
       "speakers": [
-        "Outbound Traveler",
-        "Jim Sharkey",
-        "Tommy Peoples",
-        "Garry Owen",
-        "Marc Gunn",
-        "Shawn Cali",
-        "Hank Woodward",
-        "Annie Lorkowski"
+        "Celtic Top",
+        "Celtic Music Pod",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic"
@@ -8250,13 +6348,7 @@
       "itunes_duration": "01:07:36",
       "speakers": [
         "Deanna Smith",
-        "Westwood Bluegrass Band",
-        "Jim Sharkey",
-        "Dustin Cooper",
-        "Jiggy Biddy",
-        "Marc Gunn",
-        "Robert MK",
-        "Gary Hook"
+        "Marc Gunn"
       ],
       "topics": [
         "jiggy"
@@ -8275,13 +6367,7 @@
       "itunes_duration": "01:02:17",
       "speakers": [
         "Wendy MacIsaac",
-        "Marc Gunn",
-        "Edward Willoughby",
-        "Ed Willoughby",
-        "Suzanna Anderson",
-        "Kyle Meadows",
-        "Victoria Van Arnam",
-        "Matthew Abelson"
+        "Marc Gunn"
       ],
       "topics": []
     },
@@ -8299,12 +6385,7 @@
       "speakers": [
         "Climb Slea Head",
         "Andy Law",
-        "Westwood Bluegrass Band",
-        "Fir Arda",
-        "Dustin Cooper",
-        "Nicole White",
-        "Catherine Koehler",
-        "Fantasy La Ridee"
+        "Marc Gunn"
       ],
       "topics": [
         "slea",
@@ -8326,11 +6407,7 @@
         "Andy Law",
         "Dustin Cooper",
         "Seaumas Gagne",
-        "Poisoned Dwarf",
-        "Moira Smiley",
-        "Fir Arda",
-        "Nicole White",
-        "Westwood Bluegrass Band"
+        "Marc Gunn"
       ],
       "topics": [
         "home",
@@ -8351,12 +6428,7 @@
       "itunes_duration": "01:06:17",
       "speakers": [
         "Poisoned Dwarf",
-        "Dylan Walshe",
-        "Alexander James Adams",
-        "Brendan Monaghan",
-        "Moch Pryderi",
-        "Cady Finlayson",
-        "Heather Dale",
+        "Dylan Wal",
         "Marc Gunn"
       ],
       "topics": [
@@ -8377,14 +6449,9 @@
       "enclosure_length": "140012912",
       "itunes_duration": "02:25:51",
       "speakers": [
-        "Seldom Sober",
-        "Kellswater Bridge",
-        "John Stout",
-        "Dylan Walshe",
-        "Sylvia Woods",
-        "Claire Roche",
-        "Teton Skye",
-        "Alexander James Adams"
+        "While Listening",
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -8403,14 +6470,7 @@
       "enclosure_length": "57728017",
       "itunes_duration": "01:00:08",
       "speakers": [
-        "Eamon Friel",
-        "Catherine Koehler",
-        "Alexander James Adams",
-        "Kellswater Bridge",
-        "Seumas Gagne",
-        "Marc Gunn",
-        "Robert Tumey",
-        "Ed Miller"
+        "Marc Gunn"
       ],
       "topics": [
         "brother"
@@ -8428,14 +6488,8 @@
       "enclosure_length": "70023753",
       "itunes_duration": "01:12:55",
       "speakers": [
-        "Seumas Gagne",
-        "Graham Vincent David Mitchell",
-        "Rising Gael",
-        "Alexander James Adams",
-        "Eamon Friel",
-        "Dylan Walshe",
-        "Seldom Sober",
-        "Frankie Kennedy"
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -8456,12 +6510,7 @@
       "speakers": [
         "Beth Patterson",
         "Cady Finlayson",
-        "Catherine Koehler",
-        "Na Skylark",
-        "Judith Weikle",
-        "Anne Roos",
-        "Gwendolyn Snowdon",
-        "Kathy Barwick"
+        "Marc Gunn"
       ],
       "topics": [
         "women"
@@ -8479,14 +6528,7 @@
       "enclosure_length": "59587368",
       "itunes_duration": "01:02:04",
       "speakers": [
-        "Kellswater Bridge",
-        "Claire Roche",
-        "Sarah Dinan",
-        "Moch Pryderi",
-        "Muireann Nic Amhlaoibh",
-        "Bernadette Morris",
-        "Seldom Sober",
-        "Jig Moch"
+        "Marc Gunn"
       ],
       "topics": [
         "highland"
@@ -8505,12 +6547,6 @@
       "itunes_duration": "01:01:58",
       "speakers": [
         "Raggle Taggle",
-        "Claire Roche",
-        "Ruth Smith",
-        "Kellswater Bridge",
-        "Dylan Walshe",
-        "John Stout",
-        "Seldom Sober",
         "Marc Gunn"
       ],
       "topics": [
@@ -8531,14 +6567,7 @@
       "enclosure_length": "61876411",
       "itunes_duration": "01:04:27",
       "speakers": [
-        "Gothard Sisters",
-        "John Stout",
-        "Brobdingnagian Bards",
-        "Omos Sheamuis",
-        "Midnight Sun",
-        "Randy Dandy-O",
-        "Gaelic Storm",
-        "McGee Orchestral Pipestep"
+        "Marc Gunn"
       ],
       "topics": [
         "color",
@@ -8558,14 +6587,8 @@
       "enclosure_length": "62025165",
       "itunes_duration": "01:04:35",
       "speakers": [
-        "Brobdingnagian Bards",
-        "Larry Mallette",
-        "Matt Lewis",
-        "Muireann Nic Amhlaoibh",
-        "Dylan Walshe",
-        "Nick Owl-eev",
-        "Dubh Dhonn",
-        "James Fearnley"
+        "Brobdingnagian Ba",
+        "Marc Gunn"
       ],
       "topics": [
         "lisdoonvarna"
@@ -8583,14 +6606,8 @@
       "enclosure_length": "70992372",
       "itunes_duration": "01:13:57",
       "speakers": [
-        "Boston Blackthorne",
-        "Sgian Dubh",
-        "Kerry Park",
-        "Tim Finegan",
-        "Marc Gunn",
-        "Kevin Leahy",
-        "Robyn Dobbs",
-        "Adriana Sanroman"
+        "Irish Drinking Songs",
+        "Marc Gunn"
       ],
       "topics": [
         "rockin",
@@ -8613,12 +6630,7 @@
       "speakers": [
         "Bonnie Rideout",
         "Colin Farrell",
-        "Bernadette Morris",
-        "Teton Skye",
-        "Brad Reid",
-        "Dom Duff",
-        "Dancing Morris",
-        "Gone Molly"
+        "Marc Gunn"
       ],
       "topics": [
         "change",
@@ -8637,14 +6649,7 @@
       "enclosure_length": "64374014",
       "itunes_duration": "01:07:03",
       "speakers": [
-        "Ed Miller",
-        "Thomas Doc Grauzer Runa",
-        "Bill Grogan",
-        "Alan Moore",
-        "Edinburgh Rambler",
-        "Thomas Doc Grauzer",
-        "Jenna Greene",
-        "Bad Haggis"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -8664,13 +6669,7 @@
       "itunes_duration": "01:06:34",
       "speakers": [
         "Muireann Nic Amhlaoibh",
-        "Claire Roche",
-        "Brian Conway",
-        "Seamus Kennedy",
-        "Amelia Hogan",
-        "Moira Smiley",
-        "Dau Rosyn Coch",
-        "Moch Pryderi"
+        "Marc Gunn"
       ],
       "topics": [
         "long",
@@ -8690,9 +6689,7 @@
       "itunes_duration": "51:00",
       "speakers": [
         "Andrew Meade",
-        "Jesse Ferguson",
-        "Marc Gunn",
-        "Gone Molly"
+        "Marc Gunn"
       ],
       "topics": [
         "jackdaws"
@@ -8710,14 +6707,8 @@
       "enclosure_length": "85616996",
       "itunes_duration": "01:29:11",
       "speakers": [
-        "Jonny Dyer",
-        "Gerry O'Beirne",
-        "Rosie Shipley",
-        "Tania Opland",
-        "Mike Freeman",
-        "Claire Roche",
-        "Marc Gunn",
-        "Gwilym Morus"
+        "Celtic Invasion Vacations",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -8737,14 +6728,9 @@
       "enclosure_length": "64665726",
       "itunes_duration": "01:07:22",
       "speakers": [
-        "Teton Skye",
-        "Moch Pryderi",
-        "Kevin Kennedy",
-        "Samantha Kennedy",
-        "Bernadette Morris",
-        "Brendan Monaghan",
-        "John Ryan",
-        "Moira Smiley"
+        "Celtic Music",
+        "Irish Celtic",
+        "Marc Gunn"
       ],
       "topics": [
         "diversity",
@@ -8765,13 +6751,7 @@
       "itunes_duration": "01:12:20",
       "speakers": [
         "Jesse Ferguson",
-        "Brent Santin",
-        "Jim Malcolm",
-        "Susie Malcolm",
-        "Katherine Moller",
-        "Marc Gunn",
-        "Loch Lomond",
-        "Jason Mitchell"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -8792,13 +6772,7 @@
       "itunes_duration": "55:51",
       "speakers": [
         "Lady Susan",
-        "Colleen Raney",
-        "Hanneke Cassel",
-        "Ashley Davis",
-        "Cady Finlayson",
-        "Jennifer Licko",
-        "Sarah Copus",
-        "Sharon Shannon"
+        "Marc Gunn"
       ],
       "topics": [
         "woman",
@@ -8818,14 +6792,9 @@
       "enclosure_length": "58237153",
       "itunes_duration": "01:00:38",
       "speakers": [
-        "Gone Molly",
-        "Rising Gael",
-        "Kevin Kennedy",
-        "Samantha Kennedy",
-        "Moch Pryderi",
-        "Brendan Monaghan",
-        "Michael Goes Flatpickin Road",
-        "Stubby Shillelagh"
+        "Celtic Summer Recess",
+        "Gone Moll",
+        "Marc Gunn"
       ],
       "topics": [
         "summer",
@@ -8844,14 +6813,9 @@
       "enclosure_length": "44593629",
       "itunes_duration": "46:27",
       "speakers": [
-        "Chuckawalla Rhythm Kings",
-        "John Stout",
-        "Angus McHugh",
-        "Henry Martin",
-        "Black Jack",
-        "Bocca Musica",
-        "Merry Bee",
-        "John Kanaka"
+        "Sea Shanties",
+        "Renaissance Festivals",
+        "Marc Gunn"
       ],
       "topics": [
         "shanties",
@@ -8871,13 +6835,7 @@
       "itunes_duration": "01:00:16",
       "speakers": [
         "Harpist Anne Roos",
-        "William Jackson",
-        "Sylvia Woods",
-        "Anne Roos",
-        "Susan Toman",
-        "Leah Jorgensen",
-        "Mark Davies",
-        "Catriona McKay"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -8898,14 +6856,8 @@
       "enclosure_length": "54354058",
       "itunes_duration": "56:37",
       "speakers": [
-        "Matthew Dickerson",
-        "Susana Seivane",
-        "Keith Hinchliffe",
-        "Heather Dale",
-        "Clan Celtica",
-        "Tom Morrison",
-        "Coffee Beans",
-        "Tam Lin"
+        "Galway Shawl",
+        "Marc Gunn"
       ],
       "topics": [
         "galway",
@@ -8924,13 +6876,6 @@
       "enclosure_length": "61405116",
       "itunes_duration": "01:03:58",
       "speakers": [
-        "Cady Finlayson",
-        "Bardic Rose",
-        "Jennifer Licko",
-        "Jesse Linder",
-        "Duncan Cameron",
-        "Garry O'Meara",
-        "Maggie Sansone",
         "Marc Gunn"
       ],
       "topics": [
@@ -8951,12 +6896,6 @@
       "itunes_duration": "01:05:38",
       "speakers": [
         "Steve Behrens",
-        "Katie Jane Band",
-        "Bernadette Morris",
-        "Hanneke Cassel",
-        "Anton Emery",
-        "Vincent Black",
-        "Bidh Clann Ulaidh",
         "Marc Gunn"
       ],
       "topics": [
@@ -8978,13 +6917,7 @@
       "itunes_duration": "01:00:14",
       "speakers": [
         "Gothard Sisters",
-        "Marc Gunn",
-        "Colin Farrell",
-        "Ashley Davis",
-        "Gaelic Storm",
-        "Midnight Sun",
-        "Story Road",
-        "Loch Lomond"
+        "Marc Gunn"
       ],
       "topics": [
         "gothard",
@@ -9003,13 +6936,7 @@
       "enclosure_length": "60419809",
       "itunes_duration": "01:02:56",
       "speakers": [
-        "Cady Finlayson",
-        "Colleen Raney",
-        "Clan Celtica",
-        "Tribal Thunder",
-        "Marc Gunn",
-        "Ian Shaw",
-        "Traci Tucker"
+        "Marc Gunn"
       ],
       "topics": [
         "rambling",
@@ -9028,14 +6955,9 @@
       "enclosure_length": "61421993",
       "itunes_duration": "01:03:59",
       "speakers": [
-        "Ed Miller",
-        "Jed Marum",
-        "Skeleton McKee",
-        "Desert Reels",
-        "Martin Wynne",
-        "Loch Lomond",
-        "Marc Gunn",
-        "Lori Wilson"
+        "Texas Scots",
+        "Texas Scottish Festival",
+        "Marc Gunn"
       ],
       "topics": [
         "texas",
@@ -9054,14 +6976,8 @@
       "enclosure_length": "56985931",
       "itunes_duration": "59:20",
       "speakers": [
-        "Larry Mallette",
-        "Ravens Three",
-        "Matthew Dickerson",
-        "Bones Jangle",
-        "Kevin Kane",
-        "Rose Rock",
-        "Randy Dandy",
-        "Ken Petrie"
+        "Bagpipe Ferret",
+        "Marc Gunn"
       ],
       "topics": [
         "bagpipe",
@@ -9080,14 +6996,7 @@
       "enclosure_length": "68424160",
       "itunes_duration": "01:11:15",
       "speakers": [
-        "net Ciana",
-        "Eilis Crean",
-        "Susana Seivane",
-        "Colleen Raney",
-        "Kyle Carey",
-        "Rebecca Gilbert",
-        "Kellswater Bridge",
-        "Cady Finlayson"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -9107,10 +7016,6 @@
       "itunes_duration": "01:02:06",
       "speakers": [
         "net Flook",
-        "Larry Mallette",
-        "David Roon",
-        "Kendall Rogers",
-        "Ida Elena",
         "Marc Gunn"
       ],
       "topics": []
@@ -9127,14 +7032,8 @@
       "enclosure_length": "68475587",
       "itunes_duration": "01:11:18",
       "speakers": [
-        "Seamus Kennedy",
-        "Whiskey Bay Rovers",
-        "Emerald Rose",
-        "Marc Gunn",
-        "Don Gabbert",
-        "Andrew McKee",
-        "Sligo Rags",
-        "Jim Cope"
+        "Gaelic Fur",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -9153,14 +7052,7 @@
       "enclosure_length": "56715629",
       "itunes_duration": "59:03",
       "speakers": [
-        "net Beyond",
-        "Jesse Ferguson",
-        "Allison Girvan",
-        "Larry Mallette",
-        "Matt Lewis",
-        "Ida Elena",
-        "Andy Clarke",
-        "Devils Water"
+        "Marc Gunn"
       ],
       "topics": [
         "whiskey"
@@ -9179,13 +7071,7 @@
       "itunes_duration": "01:05:08",
       "speakers": [
         "St Patrick",
-        "Dylan Foley",
-        "Gone Molly",
-        "Cara Wildman",
-        "Jimi McRae",
-        "Na Rosai",
-        "Midnight Sun",
-        "Dick's Maggot"
+        "Marc Gunn"
       ],
       "topics": [
         "paddy"
@@ -9204,13 +7090,7 @@
       "itunes_duration": "03:23:27",
       "speakers": [
         "St Patrick",
-        "Gothard Sisters",
-        "Banna De Dha",
-        "Keith Hinchliffe",
-        "Kyle Carey",
-        "Ceol Gan Achar",
-        "Jonny Dyer",
-        "Bedlam Bards"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -9231,13 +7111,7 @@
       "itunes_duration": "01:04:05",
       "speakers": [
         "St Patrick",
-        "net Beyond",
-        "Clan Celtica",
-        "Jonny Dyer",
-        "Ella Roberts",
-        "Keith Hinchliffe",
-        "Bonnie Rideout",
-        "Eoin Murphy"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -9257,12 +7131,6 @@
       "itunes_duration": "01:01:48",
       "speakers": [
         "Deep Blue Sky",
-        "Dylan Foley",
-        "Gothard Sisters",
-        "Waulking Songs",
-        "Joe Batts",
-        "Story Girl",
-        "Dun Aengus",
         "Marc Gunn"
       ],
       "topics": [
@@ -9284,13 +7152,7 @@
       "enclosure_length": "64742241",
       "itunes_duration": "01:07:25",
       "speakers": [
-        "Cady Finlayson",
-        "Tami Curtis",
-        "Beth Patterson",
-        "Patrick O'Flaherty",
-        "Claire Roche",
-        "Redhill Rats",
-        "Event Horizon",
+        "Sporting Paddy Reel Celtic",
         "Marc Gunn"
       ],
       "topics": [
@@ -9312,14 +7174,8 @@
       "enclosure_length": "70270973",
       "itunes_duration": "01:13:11",
       "speakers": [
-        "net Dervish",
-        "Ravens Three",
-        "Terry Griffith",
-        "Patrick D'Arcy",
-        "Lily Bentley",
-        "Tom Morley",
-        "Journey North",
-        "Sober Gentleman"
+        "Celtic Music Po",
+        "Marc Gunn"
       ],
       "topics": [
         "wounded",
@@ -9338,14 +7194,8 @@
       "enclosure_length": "68475029",
       "itunes_duration": "01:11:18",
       "speakers": [
-        "Ed Miller",
-        "Athena Tergis",
-        "Byrne Band",
-        "Marc Gunn",
-        "Jamie Laval",
-        "Ashley Broder",
-        "Tami Curtis",
-        "Melanie Gruben"
+        "Irish Fire",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -9364,14 +7214,10 @@
       "enclosure_length": "64969921",
       "itunes_duration": "01:07:40",
       "speakers": [
-        "net Raglan",
-        "Lily Bentley",
-        "Sober Gentlemen",
-        "Brobdingnagian Bards",
-        "Lissa Kathe",
-        "Louise Fraser",
-        "Seamus Kennedy",
-        "Jedi Mickey"
+        "South Australia",
+        "New International Irish",
+        "Great Britain",
+        "Marc Gunn"
       ],
       "topics": [
         "south",
@@ -9390,14 +7236,7 @@
       "enclosure_length": "61806384",
       "itunes_duration": "01:04:21",
       "speakers": [
-        "Gerry O'Beirne",
-        "Rosie Shipley",
-        "Scott Boswell",
-        "Spencer Murray Pipeslinger",
-        "Enda Seery",
-        "Caledonia Swing",
-        "Beer Belly",
-        "Gillian Boucher"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -9419,13 +7258,7 @@
       "itunes_duration": "01:03:39",
       "speakers": [
         "Warbelow Range",
-        "Conor Caldwell",
-        "Catherine Koehler",
-        "Nick Metcalf",
-        "Janette Geri",
-        "Journey North",
-        "Enda Seery",
-        "Nick Metcalf Rick Metcalf"
+        "Marc Gunn"
       ],
       "topics": [
         "calm",
@@ -9444,14 +7277,7 @@
       "enclosure_length": "61011681",
       "itunes_duration": "01:03:32",
       "speakers": [
-        "Catherine Koehler",
-        "Warbelow Range",
-        "Tami Curtis",
-        "Gothard Sisters",
-        "Jodee James",
-        "Gwendolyn Snowdown",
-        "Anne Roos",
-        "Sharon Shannon"
+        "Marc Gunn"
       ],
       "topics": [
         "year",
@@ -9472,14 +7298,7 @@
       "enclosure_length": "89094006",
       "itunes_duration": "01:32:47",
       "speakers": [
-        "Chris Murphy",
-        "Gwendolyn Snowdon",
-        "Colleen Raney",
-        "Gothard Sisters",
-        "Bill Grogan",
-        "Gone Molly",
-        "Tom Paine",
-        "Midnight Sun"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -9500,13 +7319,8 @@
       "enclosure_length": "58226830",
       "itunes_duration": "01:00:38",
       "speakers": [
-        "Susan Toman",
-        "Ed Miller",
-        "Heather Dale",
-        "David Pedrick",
-        "Sarah Marie Mullen",
-        "Nollaig Chridheil Songs",
-        "Merry Munster",
+        "Celtic Christmas Music",
+        "Celtic Christmas",
         "Marc Gunn"
       ],
       "topics": [
@@ -9527,14 +7341,8 @@
       "enclosure_length": "64424309",
       "itunes_duration": "01:07:05",
       "speakers": [
-        "Jimi McRae",
-        "Marc Gunn",
-        "Derek Warfield",
-        "Maggie Drennan",
-        "Peter Daldry",
-        "Patsy O'Brien",
-        "Sam Okoo",
-        "Peggy Gordon"
+        "Great Irish",
+        "Marc Gunn"
       ],
       "topics": [
         "great",
@@ -9555,14 +7363,7 @@
       "enclosure_length": "63081302",
       "itunes_duration": "01:05:41",
       "speakers": [
-        "Catherine Koehler",
-        "Tami Curtis",
-        "Van Morrison",
-        "Nick Metcalf",
-        "Marc Gunn",
-        "Annie Lorkowski",
-        "Brendan Nix",
-        "Bryan Brake"
+        "Marc Gunn"
       ],
       "topics": [
         "hill"
@@ -9582,11 +7383,7 @@
       "speakers": [
         "Loch Lomond",
         "Ed Miller",
-        "Marc Gunn",
-        "Nick Metcalf",
-        "Bryan Brake",
-        "John Gibbon",
-        "Michele Williams"
+        "Marc Gunn"
       ],
       "topics": [
         "loch",
@@ -9607,11 +7404,6 @@
       "speakers": [
         "Enda Seery",
         "Ed Miller",
-        "Catherine Koehler",
-        "Tami Curtis",
-        "Conor Caldwell",
-        "Mwnci Nel",
-        "Bill Grogan",
         "Marc Gunn"
       ],
       "topics": [
@@ -9632,13 +7424,7 @@
       "itunes_duration": "01:08:10",
       "speakers": [
         "Warbelow Range",
-        "Dylan Foley",
-        "Ed Miller",
-        "Abby Green",
-        "Event Horizon",
-        "Bill Grogan",
-        "Julia Lane",
-        "Dinny O'Brien"
+        "Marc Gunn"
       ],
       "topics": [
         "pandora"
@@ -9656,14 +7442,7 @@
       "enclosure_length": "67153664",
       "itunes_duration": "01:09:56",
       "speakers": [
-        "Bill Grogan",
-        "Timmy Clifford",
-        "Pierre Leblanc",
-        "Michael Collins",
-        "Marys Lane",
-        "Marc Gunn",
-        "Carol Baril",
-        "Brandon Carl"
+        "Marc Gunn"
       ],
       "topics": [
         "ghost",
@@ -9682,11 +7461,7 @@
       "enclosure_length": "57869986",
       "itunes_duration": "01:00:16",
       "speakers": [
-        "celticmusicpodcast com",
-        "Stark Raving Celtic",
-        "Jonny Hardie",
-        "Marc Gunn",
-        "Jed Marum"
+        "Marc Gunn"
       ],
       "topics": [
         "charma",
@@ -9708,13 +7483,7 @@
       "itunes_duration": "01:04:02",
       "speakers": [
         "Merry Wives",
-        "Gone Molly",
-        "Melanie Gruben",
-        "Cara Dillon",
-        "Janette Geri",
-        "Anne Roos",
-        "celticmusicpodcast com",
-        "Sam Hall"
+        "Marc Gunn"
       ],
       "topics": [
         "halloween"
@@ -9733,10 +7502,6 @@
       "itunes_duration": "58:51",
       "speakers": [
         "Celia Ramsay",
-        "Brendan Loughrey",
-        "Donna Germano",
-        "Journey North",
-        "Paisley Close",
         "Marc Gunn"
       ],
       "topics": [
@@ -9757,13 +7522,7 @@
       "itunes_duration": "01:14:26",
       "speakers": [
         "Liz Carroll",
-        "Warbelow Range",
-        "Shannon Heaton",
-        "Melanie Gruben",
-        "Sarah Marie Mullen",
-        "Noirin Ni Riain",
-        "Moya Brenna",
-        "Claire Roche"
+        "Marc Gunn"
       ],
       "topics": [
         "woman",
@@ -9784,14 +7543,7 @@
       "enclosure_length": "69418299",
       "itunes_duration": "01:12:17",
       "speakers": [
-        "Colleen Raney",
-        "Jimi McRae",
-        "Heather Dale",
-        "Vintage Wildflowers",
-        "Ed Miller",
-        "celticmusicpodcast com",
-        "Grace O'Malley",
-        "Pibroch Medley"
+        "Marc Gunn"
       ],
       "topics": [
         "paddy",
@@ -9811,14 +7563,8 @@
       "enclosure_length": "59348650",
       "itunes_duration": "01:01:48",
       "speakers": [
-        "Dan Milner",
-        "Jenna Greene",
-        "Jeff Ksiazek",
-        "Sylvia Platypus",
-        "Sharon Shannon",
-        "Event Horizon",
-        "celticmusicpodcast com",
-        "Bard Song"
+        "Big Trip",
+        "Marc Gunn"
       ],
       "topics": [
         "trip",
@@ -9837,14 +7583,7 @@
       "enclosure_length": "59636822",
       "itunes_duration": "01:02:06",
       "speakers": [
-        "Steve Holloway",
-        "Jed Marum",
-        "Gwendolyn Snowdon",
-        "celticmusicpodcast com",
-        "Carls O'Dysart",
-        "St Brendan",
-        "Marc Gunn",
-        "Michael Truman Cavanaugh"
+        "Marc Gunn"
       ],
       "topics": [
         "lake",
@@ -9865,12 +7604,7 @@
       "speakers": [
         "Warbelow Range",
         "Enda Seery",
-        "Conor Caldwell",
-        "Jerry McLean",
-        "Brad Tuck",
-        "Marys Lane",
-        "celticmusicpodcast com",
-        "Carraige Baine"
+        "Marc Gunn"
       ],
       "topics": [
         "scarborough",
@@ -9889,13 +7623,6 @@
       "enclosure_length": "56430542",
       "itunes_duration": "58:46",
       "speakers": [
-        "David Kilpatrick",
-        "Brobdingnagian Bards",
-        "Merry Wives",
-        "Jasper Coal",
-        "Sean Orr",
-        "Tom Paine",
-        "John Brosnan",
         "Marc Gunn"
       ],
       "topics": [
@@ -9918,12 +7645,7 @@
       "speakers": [
         "Rocky Road",
         "Becky Taylor",
-        "Carolina Ceili",
-        "Marys Lane",
-        "Sligo Rags",
-        "celticmusicpodcast com",
-        "Dun Aengus",
-        "Kick Around"
+        "Marc Gunn"
       ],
       "topics": [
         "rocky",
@@ -9944,13 +7666,7 @@
       "itunes_duration": "01:05:06",
       "speakers": [
         "Dylan Foley",
-        "Allison Barber",
-        "Gone Molly",
-        "Jack Riordan",
-        "Ed Harris",
-        "Marc Gunn",
-        "Tim O'Neill",
-        "Jeremy Perlman"
+        "Marc Gunn"
       ],
       "topics": [
         "fairy",
@@ -9969,13 +7685,6 @@
       "enclosure_length": "60025379",
       "itunes_duration": "01:02:31",
       "speakers": [
-        "David Pedrick",
-        "Tom Eure",
-        "Susan Toman",
-        "Gothard Sisters",
-        "Story Girl Celtic",
-        "Merry Blacksmith",
-        "Emerald Shores Emily",
         "Marc Gunn"
       ],
       "topics": [
@@ -9998,12 +7707,7 @@
       "speakers": [
         "Ed Miller",
         "Na Rosai",
-        "Brobdingnagian Bards",
-        "Jamie Smith",
-        "Leaping Lulu",
-        "Derek Byrne",
-        "Gillian Boucher",
-        "com Listen"
+        "Marc Gunn"
       ],
       "topics": [
         "school"
@@ -10021,14 +7725,8 @@
       "enclosure_length": "58149934",
       "itunes_duration": "01:00:33",
       "speakers": [
-        "Tom Eure",
-        "Dylan Foley",
-        "Marc Gunn",
-        "com Listen",
-        "Stan Chapman",
-        "Gallant Murray",
-        "Elvis Murphy",
-        "Gone Molly"
+        "Tom Eur",
+        "Marc Gunn"
       ],
       "topics": [
         "beautiful",
@@ -10049,11 +7747,6 @@
       "speakers": [
         "Anthea Lawrence",
         "Bonnie Rideout",
-        "Jonny Dyer",
-        "Ed Harris",
-        "com Listen",
-        "Slainte Single",
-        "Bert Gonnella",
         "Marc Gunn"
       ],
       "topics": [
@@ -10072,14 +7765,8 @@
       "enclosure_length": "59609785",
       "itunes_duration": "01:02:05",
       "speakers": [
-        "Spirited Lads",
-        "Brad Tuck",
-        "Marys Lane",
-        "com Listen",
-        "Ed Harris",
-        "Marc Gunn",
-        "Hank Woodward",
-        "Bryan Brake"
+        "No Irish Need Apply",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -10098,9 +7785,7 @@
       "enclosure_length": "69063023",
       "itunes_duration": "01:11:56",
       "speakers": [
-        "Irish Bastard",
-        "Kilmaine Saints",
-        "Molly Malone",
+        "Enjoy Cel",
         "Marc Gunn"
       ],
       "topics": [
@@ -10126,11 +7811,7 @@
       "enclosure_length": "60987148",
       "itunes_duration": "01:03:31",
       "speakers": [
-        "Dylan Foley",
-        "Bill Mullen",
-        "com Listen",
-        "Galway Rambler",
-        "Sarah Jane",
+        "Celtic Music",
         "Marc Gunn"
       ],
       "topics": [
@@ -10151,14 +7832,7 @@
       "enclosure_length": "55312036",
       "itunes_duration": "57:37",
       "speakers": [
-        "Matt Heaton",
-        "Jimmy Keane",
-        "Ryan Beveridge",
-        "Nic Gareiss",
-        "Eileen Ivers",
-        "Laura Cortese",
-        "George Keith",
-        "Liz Carroll"
+        "Marc Gunn"
       ],
       "topics": [
         "story",
@@ -10180,13 +7854,7 @@
       "itunes_duration": "54:25",
       "speakers": [
         "John WIlmott",
-        "Stephen Murphy",
-        "John Willmott",
-        "Claire Roche",
-        "Mike Absalom",
-        "Jimi McRae",
-        "Archaic Revival",
-        "Woodland Bard"
+        "Marc Gunn"
       ],
       "topics": [
         "midsummer",
@@ -10208,13 +7876,7 @@
       "itunes_duration": "01:02:59",
       "speakers": [
         "Sarah Copus",
-        "Carl Peterson",
-        "Kevin Behan",
-        "Tom Eure",
-        "Roots Company",
-        "Brad Tuck",
-        "Marc Gunn",
-        "Hank Woodward"
+        "Marc Gunn"
       ],
       "topics": [
         "roved"
@@ -10234,12 +7896,7 @@
       "speakers": [
         "Andrew Finn Magill",
         "Susana Seivane",
-        "Maidens IV",
-        "Gillian Boucher",
-        "Mark Saul",
-        "Darren Raleigh",
-        "Boston Blackthorne",
-        "Dave Wilson"
+        "Marc Gunn"
       ],
       "topics": [
         "summer",
@@ -10259,14 +7916,8 @@
       "enclosure_length": "58638575",
       "itunes_duration": "01:01:04",
       "speakers": [
-        "Jodee James",
-        "Chris Murphy",
-        "Gwendolyn Snowdon",
-        "Dave Wilson",
-        "Natalie MacMaster",
-        "com Listen",
-        "Lady Joan",
-        "Katie Fiddler"
+        "Celtic mus",
+        "Marc Gunn"
       ],
       "topics": [
         "summer",
@@ -10286,13 +7937,7 @@
       "itunes_duration": "01:09:51",
       "speakers": [
         "Jed Marum",
-        "Hugh Morrison",
-        "Ed Miller",
-        "com Listen",
-        "Linda Relph",
-        "David Lovrien",
-        "Lary Fowler Jed Marum",
-        "Willie Coleman Tune Set"
+        "Marc Gunn"
       ],
       "topics": [
         "marum",
@@ -10311,14 +7956,9 @@
       "enclosure_length": "63489425",
       "itunes_duration": "01:06:08",
       "speakers": [
-        "Bonnie Rideout",
-        "Good Foot",
-        "Sarah Copus",
-        "Fromseier Rose",
-        "Beth Patterson",
-        "com Listen",
-        "Midnight Sun",
-        "John MacNeal"
+        "Celtic Tunes",
+        "Celtic Women",
+        "Marc Gunn"
       ],
       "topics": [
         "tunes",
@@ -10340,13 +7980,7 @@
       "itunes_duration": "01:04:12",
       "speakers": [
         "Na Rosai",
-        "Gwendolyn Snowdown",
-        "Ginger Ackley",
-        "Jim Sharkey",
-        "Colleen Raney",
-        "David Pedrick",
-        "com Listen",
-        "Shandon Bells"
+        "Marc Gunn"
       ],
       "topics": [
         "rainy",
@@ -10366,14 +8000,8 @@
       "enclosure_length": "61120011",
       "itunes_duration": "01:03:39",
       "speakers": [
-        "Anne Roos",
-        "Michael Black",
-        "Dark Patrick",
-        "Nick Hennessey",
-        "Emerald Rose",
-        "Bag Haggis",
-        "Galway Rambler-Maid",
-        "Fainne Gael"
+        "Arbor Day",
+        "Marc Gunn"
       ],
       "topics": [
         "arbor"
@@ -10391,13 +8019,7 @@
       "enclosure_length": "52904730",
       "itunes_duration": "55:06",
       "speakers": [
-        "Na Rosai",
-        "Claire Roche",
-        "Marys Lane",
-        "Karan Casey",
-        "com Listen",
-        "Peg Ryan",
-        "Leaving Plevna",
+        "Celtic music",
         "Marc Gunn"
       ],
       "topics": [
@@ -10416,14 +8038,7 @@
       "enclosure_length": "57551062",
       "itunes_duration": "59:56",
       "speakers": [
-        "David Pedrick",
-        "Spencer Murray Pipeslinger",
-        "Ed Miller",
-        "Mandala Folk",
-        "Jimi McRae",
-        "Marys Lane",
-        "com Listen",
-        "Bonnie Jean Cameron"
+        "Marc Gunn"
       ],
       "topics": [
         "mountain"
@@ -10441,13 +8056,9 @@
       "enclosure_length": "58408920",
       "itunes_duration": "01:00:50",
       "speakers": [
-        "Serious Kitchen",
-        "Marc Gunn",
-        "Maggie Sansone",
-        "Ed Miller",
-        "com Listen",
-        "Scott Benson",
-        "Nancy BV"
+        "Tartan Day",
+        "Scottish Independence Day",
+        "Marc Gunn"
       ],
       "topics": [
         "tartan",
@@ -10467,13 +8078,7 @@
       "itunes_duration": "58:52",
       "speakers": [
         "Jonathan Milton",
-        "Kellswater Bridge",
-        "Marc Gunn",
-        "Marys Lane",
-        "com Listen",
-        "Dun Aengus",
-        "Tommy Peoples",
-        "Joanna Fedewa"
+        "Marc Gunn"
       ],
       "topics": [
         "easter",
@@ -10495,11 +8100,7 @@
         "St Patrick",
         "Na Rosai",
         "Jimi McRae",
-        "David Pedrick",
-        "Liz Schettner",
-        "Dun Aengus",
-        "Ballymun Bootboys",
-        "Brad Tuck"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -10519,13 +8120,7 @@
       "itunes_duration": "01:04:04",
       "speakers": [
         "St Patrick",
-        "Alasdair White",
-        "Jodee James",
-        "Sarah Copus",
-        "John Taylor",
-        "Scooter Muse",
-        "Melanie Gruben",
-        "Jesse Ferguson"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -10546,13 +8141,7 @@
       "itunes_duration": "01:37:39",
       "speakers": [
         "St Patrick",
-        "Jim Sharkey",
-        "Colleen Raney",
-        "Beth Patterson",
-        "Ne'er Duwels",
-        "Lady Moon",
-        "Secret Sky",
-        "Dom Duff"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -10573,13 +8162,7 @@
       "itunes_duration": "01:06:29",
       "speakers": [
         "St Patrick",
-        "Christine Primrose",
-        "String Theory",
-        "Cormac Gannon",
-        "David Curley Mick Broderick",
-        "com Listen",
-        "Winnie Hayes",
-        "Kellswater Bridge"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -10598,14 +8181,8 @@
       "enclosure_length": "64142686",
       "itunes_duration": "01:06:48",
       "speakers": [
-        "Anne Roos",
-        "Chris Murphy",
-        "Crossm Solasta",
-        "Andy Lamy",
-        "Eleanor Plunkett",
-        "Marc Gunn",
-        "Robin Allen",
-        "Luke Sinclare"
+        "Instrumental Celtic Music Study",
+        "Marc Gunn"
       ],
       "topics": [
         "instrumental",
@@ -10626,14 +8203,8 @@
       "enclosure_length": "63011983",
       "itunes_duration": "01:05:37",
       "speakers": [
-        "Andrew Finn Magill",
-        "Jennifer Licko",
-        "Wendy MacIsaac",
-        "Tara O'Grady",
-        "Tim Maurice",
-        "Spencer Murray Pipeslinger",
-        "Alex Sturbaum",
-        "Matt Hughes"
+        "Andrew Finn Ma",
+        "Marc Gunn"
       ],
       "topics": [
         "street",
@@ -10653,13 +8224,7 @@
       "itunes_duration": "01:00:17",
       "speakers": [
         "Jed Marum",
-        "Hugh Morrison",
-        "Steve Hawson",
-        "Colleen Raney",
-        "Jonny Dyer",
-        "Norah Rendell",
-        "Ryan MacNeil",
-        "Sligo Rags"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -10679,14 +8244,8 @@
       "enclosure_length": "60823244",
       "itunes_duration": "01:03:21",
       "speakers": [
-        "Ed Miller",
-        "Telenn Tri",
-        "Melanie Gruben",
-        "Sharon Shannon",
-        "Tuatha Dea",
-        "Tim Keeley",
-        "Christine Weir",
-        "com Listen"
+        "Spoil th",
+        "Marc Gunn"
       ],
       "topics": [
         "jolly",
@@ -10705,14 +8264,7 @@
       "enclosure_length": "61113390",
       "itunes_duration": "01:03:38",
       "speakers": [
-        "Cormac Gannon",
-        "Jesse Ferguson",
-        "Jim Cope",
-        "Hearthfire Duo",
-        "Andrew McKee",
-        "Bill Grogan",
-        "Screeched Inn",
-        "Seamus Kennedy"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -10733,13 +8285,8 @@
       "itunes_duration": "01:00:23",
       "speakers": [
         "Ryan MacNeil",
-        "Bellow Bridge",
-        "Jodee James",
-        "Natalie MacMaster",
-        "Dom Duff",
-        "com Listen",
-        "Derry Gaol",
-        "Klask Ar Wagenn"
+        "Bellow Bridg",
+        "Marc Gunn"
       ],
       "topics": [
         "joyous"
@@ -10757,14 +8304,7 @@
       "enclosure_length": "57801893",
       "itunes_duration": "01:00:12",
       "speakers": [
-        "Cara Wildman",
-        "Bill Grogan",
-        "com Listen",
-        "Avery LeVine",
-        "Marc Gunn",
-        "Aaron Dent",
-        "George Mears",
-        "Robin Allen"
+        "Marc Gunn"
       ],
       "topics": [
         "corpus",
@@ -10785,14 +8325,9 @@
       "enclosure_length": "59620009",
       "itunes_duration": "01:02:05",
       "speakers": [
-        "Jodee James",
-        "Patsy O'Brien",
-        "Alex Sturbaum",
-        "Sharon Shannon",
-        "Ryan MacNeil",
-        "Bill Grogan",
-        "com Listen",
-        "Jacob Hall's Jig"
+        "Celtic music Na Skylark",
+        "Purcell's Polyphonic Party",
+        "Marc Gunn"
       ],
       "topics": [
         "kicks",
@@ -10812,14 +8347,7 @@
       "enclosure_length": "88465196",
       "itunes_duration": "01:32:08",
       "speakers": [
-        "Gothard Sisters",
-        "Ed Miller",
-        "Jesse Ferguson",
-        "Battlefield Band",
-        "Jonny Dyer",
-        "Screeched Inn",
-        "com Listen",
-        "Bonnie Bessie Logan"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -10839,13 +8367,7 @@
       "itunes_duration": "01:16:09",
       "speakers": [
         "Jim Sharkey",
-        "Ed Miller",
-        "Marc Gunn",
-        "Susan Toman",
-        "Caitríona O'Leary",
-        "Rhiannon Giddens",
-        "Jennifer Licko",
-        "Thistle Band"
+        "Marc Gunn"
       ],
       "topics": [
         "christmas"
@@ -10863,14 +8385,8 @@
       "enclosure_length": "57750453",
       "itunes_duration": "01:00:08",
       "speakers": [
-        "Vicki Swan",
-        "Nick Hennessey",
-        "Bill Grogan",
-        "com Listen",
-        "Marc Gunn",
-        "Dan Buchner",
-        "Niagara Falls",
-        "Will Collins"
+        "Working Hard",
+        "Marc Gunn"
       ],
       "topics": [
         "working",
@@ -10889,14 +8405,7 @@
       "enclosure_length": "125027171",
       "itunes_duration": "02:10:13",
       "speakers": [
-        "Dom DufF",
-        "Blackstone Cuil",
-        "Screeched Inn",
-        "Kilmaine Saints",
-        "Clan Na Gael",
-        "Neil Anderson",
-        "Bryan Brake",
-        "Hunter Melville"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -10916,14 +8425,8 @@
       "enclosure_length": "61729904",
       "itunes_duration": "01:04:17",
       "speakers": [
-        "Sarah Marie Mullen",
-        "Beth Patterson",
-        "Margaret Davis",
-        "Patrick D'Arcy",
-        "Adam Beattie",
-        "William Coulter Friends",
-        "Nick Hennessey",
-        "String Thaw"
+        "Celtic music fro",
+        "Marc Gunn"
       ],
       "topics": [
         "thank"
@@ -10941,14 +8444,8 @@
       "enclosure_length": "124651963",
       "itunes_duration": "02:09:50",
       "speakers": [
-        "Ed Miller",
-        "Cady Finlayson",
-        "Mithril Duo",
-        "Jesse Ferguson",
-        "Cara Dillon",
-        "Oisin McAuley",
-        "Screeched Inn",
-        "Battlefield Band"
+        "Celtic music",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -10967,14 +8464,8 @@
       "enclosure_length": "55792229",
       "itunes_duration": "58:06",
       "speakers": [
-        "Heather Gilmer",
-        "Jeff Moore",
-        "Linda Relph",
-        "Devils Waterm",
-        "Rogue Diplomats",
-        "Ryan MacNeil",
-        "Dark Patrick",
-        "Kilmaine Saints"
+        "Strayaway Child",
+        "Marc Gunn"
       ],
       "topics": [
         "strayaway",
@@ -10994,13 +8485,7 @@
       "itunes_duration": "01:02:07",
       "speakers": [
         "Cara Wildman",
-        "Moira Nelson",
-        "Gerry O'Beirne",
-        "Rosie Shipley",
-        "Melanie Gruben",
-        "Flora MacDonald",
-        "Marc Gunn",
-        "Kim Knebel"
+        "Marc Gunn"
       ],
       "topics": [
         "weight",
@@ -11020,13 +8505,7 @@
       "itunes_duration": "01:04:11",
       "speakers": [
         "Thin Veil",
-        "Heather Dale",
-        "Patrick D'Arcy",
-        "Marc Gunn",
-        "Bellow Bridge",
-        "Matt Hughes",
-        "Christine Weir",
-        "Brad Boucher"
+        "Marc Gunn"
       ],
       "topics": [
         "thin",
@@ -11047,13 +8526,7 @@
       "itunes_duration": "01:04:31",
       "speakers": [
         "Skye Boat Song",
-        "Cara Wildman",
-        "Bellow Bridge",
-        "Mark Saul",
-        "Banna De Dha",
-        "Marc Gunn",
-        "Spencer Crawford",
-        "Kevin McDonald"
+        "Marc Gunn"
       ],
       "topics": [
         "skye",
@@ -11073,14 +8546,8 @@
       "enclosure_length": "60734701",
       "itunes_duration": "01:03:15",
       "speakers": [
-        "Telenn Tri",
-        "Secret Sky",
-        "Marc Gunn",
-        "Brenda Beard",
-        "Tracy Knapp",
-        "Secret History",
-        "Grab Bags",
-        "Michael Conners"
+        "Bellow Bri",
+        "Marc Gunn"
       ],
       "topics": [
         "truth"
@@ -11098,14 +8565,8 @@
       "enclosure_length": "57107471",
       "itunes_duration": "59:28",
       "speakers": [
-        "Mike Katz",
-        "Boston Blackthorne",
-        "Cormac Gannon",
-        "Jesse Ferguson",
-        "Devils Water",
-        "Tuatha Dea",
-        "Dom Duff",
-        "John Bilderback"
+        "Best Podsafe Music",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -11128,12 +8589,7 @@
       "speakers": [
         "Irish Jig Heroes",
         "Jim Sharkey",
-        "Marc Gunn",
-        "Mike Katz",
-        "Sharon Shannon",
-        "Trevor Teuscher",
-        "Michael Cavanaugh",
-        "Ellen Calnan"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -11153,13 +8609,7 @@
       "itunes_duration": "01:30:24",
       "speakers": [
         "Stephen Bernhardt",
-        "Tania Opland",
-        "Sligo Rags",
-        "Oona McOuat",
-        "George Murphy",
-        "Young Dubliners",
-        "Martyn Wylde",
-        "Emerald Rose"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -11181,14 +8631,7 @@
       "enclosure_length": "81639843",
       "itunes_duration": "01:25:01",
       "speakers": [
-        "St Patrick",
-        "Sharon Shannon",
-        "Screeched Inn",
-        "Wendy MacIsaac",
-        "Mark Davies",
-        "Seamus Kennedy",
-        "Ed Miller",
-        "Alasdair White"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -11208,14 +8651,8 @@
       "enclosure_length": "57063662",
       "itunes_duration": "59:25",
       "speakers": [
-        "Tim Edey",
-        "Rachael Herron",
-        "Marc Gunn",
-        "Dom Duff",
-        "Rudiger Reinhardt",
-        "Michael Conners",
-        "Alison Johnson",
-        "Zane Barber"
+        "Eilis Crean",
+        "Marc Gunn"
       ],
       "topics": [
         "connemara"
@@ -11233,14 +8670,7 @@
       "enclosure_length": "58572846",
       "itunes_duration": "01:01:00",
       "speakers": [
-        "Rogue Diplomats",
-        "Christine Weir",
-        "Jim Sharkey",
-        "Marc Gunn",
-        "Mark Aicken",
-        "Christian Feitl",
-        "Steve Wright",
-        "Miguel Bessa"
+        "Marc Gunn"
       ],
       "topics": [
         "summer",
@@ -11260,14 +8690,7 @@
       "enclosure_length": "52530390",
       "itunes_duration": "54:43",
       "speakers": [
-        "Abby Green",
-        "Darcy Nair",
-        "Darren Raleigh",
-        "Emily Kellam",
-        "Jesse Linder",
-        "Lindsay Smith",
-        "Marc Gunn",
-        "Shillelagh Law"
+        "Marc Gunn"
       ],
       "topics": [
         "renaissance",
@@ -11288,14 +8711,10 @@
       "enclosure_length": "58572936",
       "itunes_duration": "01:00:59",
       "speakers": [
-        "Chrissy Crowley",
-        "Jonny Dyer",
-        "Patrick D'Arcy",
-        "Rogue Diplomats",
-        "Marc Gunn",
-        "Alasdair White",
-        "Jesse Fergusonm Tara Hill",
-        "Dom Duff"
+        "Brown Ale",
+        "Celtic Music",
+        "Chrissy Cro",
+        "Marc Gunn"
       ],
       "topics": [
         "brown",
@@ -11316,13 +8735,7 @@
       "itunes_duration": "01:02:53",
       "speakers": [
         "Alasdair White",
-        "David Curley Mick Broderick",
-        "Sarah Copus",
-        "Battlefield Band",
-        "Mike Katz",
-        "Christine Primrose",
-        "Peter Nardini",
-        "Kellswater Bridge"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -11343,14 +8756,7 @@
       "enclosure_length": "82787053",
       "itunes_duration": "01:26:13",
       "speakers": [
-        "Annie Lorkowski",
-        "Mary Knickle",
-        "Heather Dale",
-        "Marc Gunn",
-        "Coyote Run",
-        "Ciara Considine",
-        "John Byrne Band",
-        "Derek Warfield"
+        "Marc Gunn"
       ],
       "topics": [
         "rolling",
@@ -11369,13 +8775,6 @@
       "enclosure_length": "61470719",
       "itunes_duration": "01:04:01",
       "speakers": [
-        "Sarah Copus",
-        "Jesse Ferguson",
-        "Cormac Gannon",
-        "Shauna Mullin",
-        "Devils Water",
-        "Laura McGhee",
-        "Preab Meadar",
         "Marc Gunn"
       ],
       "topics": [
@@ -11396,14 +8795,7 @@
       "enclosure_length": "130942919",
       "itunes_duration": "02:16:22",
       "speakers": [
-        "Rachel Hair Trio",
-        "Christine Primrose",
-        "Battlefield Band",
-        "Wendy MacIsaac",
-        "Marc Gunn",
-        "Canned Haggis",
-        "Zoe Alexander",
-        "Jimi McRae"
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -11425,12 +8817,7 @@
       "speakers": [
         "Randy Lee Gosa",
         "Steve Hawson",
-        "Terry Griffith",
-        "Seamus Kennedy",
-        "String Theory",
-        "Dom Duff",
-        "Greenwich Meantime",
-        "Unique Gifts"
+        "Marc Gunn"
       ],
       "topics": [
         "star",
@@ -11450,13 +8837,7 @@
       "itunes_duration": "59:32",
       "speakers": [
         "Jesse Ferguson",
-        "Laura McGhee",
-        "Jamie Smith",
-        "Murray McDowell",
-        "Ciara Considine",
-        "Gaelic Storm",
-        "Leaping Lulu",
-        "Unique Gifts"
+        "Marc Gunn"
       ],
       "topics": [
         "summer",
@@ -11475,14 +8856,7 @@
       "enclosure_length": "54354230",
       "itunes_duration": "56:37",
       "speakers": [
-        "John Williams",
-        "Keith Murphy",
-        "Kevin Griffin",
-        "Eoin O'Neill",
-        "Sharon Shannon",
-        "Shannon Heaton",
-        "Maeve Gilchrist",
-        "Karan Casey"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -11505,9 +8879,7 @@
       "itunes_duration": "01:00:38",
       "speakers": [
         "Grinning Beggar",
-        "Nevermind Nessie",
-        "Marc Gunn",
-        "James McDaniel II"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -11526,14 +8898,7 @@
       "enclosure_length": "64529940",
       "itunes_duration": "01:07:12",
       "speakers": [
-        "Andrea Tophoj",
-        "Peter Daldry",
-        "Gothard Sisters",
-        "Marc Gunn",
-        "Journey North",
-        "net Subscribe",
-        "John OConnor",
-        "Keriann Noble"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -11554,13 +8919,7 @@
       "itunes_duration": "01:07:23",
       "speakers": [
         "Karan Casey",
-        "Abby Green",
-        "John Byrne Band",
-        "Marc Gunn",
-        "Steve Behrens",
-        "Grant Jacobson",
-        "Mary Layzska",
-        "Miranda Nelson"
+        "Marc Gunn"
       ],
       "topics": [
         "carnac",
@@ -11579,14 +8938,7 @@
       "enclosure_length": "58560557",
       "itunes_duration": "01:00:59",
       "speakers": [
-        "Iarla O'Lionaird",
-        "Brad Reid",
-        "Mishaped Pearls",
-        "Tuatha Dea",
-        "net Subscribe",
-        "Marc Gunn",
-        "James McDaniel II",
-        "Rick Hantz"
+        "Marc Gunn"
       ],
       "topics": [
         "kilt",
@@ -11606,13 +8958,8 @@
       "itunes_duration": "01:00:48",
       "speakers": [
         "Brendan Monaghan",
-        "David Curley Mick Broderick",
-        "Robert Doyle",
-        "net Subscribe",
-        "Marc Gunn",
-        "James McDaniel II",
-        "Jeff Pike",
-        "Miranda Nelson"
+        "Rambling Sai",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -11632,14 +8979,7 @@
       "enclosure_length": "59007022",
       "itunes_duration": "01:01:27",
       "speakers": [
-        "Susan Toman",
-        "Jennifer Lick",
-        "Colleen Raney",
-        "Wendy MacIsaac",
-        "Katherine Nagy",
-        "Arlene Faith",
-        "Karan Casey",
-        "Chrissy Crowley"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -11659,14 +8999,7 @@
       "enclosure_length": "58175188",
       "itunes_duration": "01:00:35",
       "speakers": [
-        "John McGaha",
-        "Andrew Finn Magill",
-        "Seamus Kennedy",
-        "Ron Cody",
-        "Ashley Davis",
-        "Marc Gunn",
-        "Bedlam Bards",
-        "Edward Montgomery"
+        "Marc Gunn"
       ],
       "topics": [
         "fourth"
@@ -11684,14 +9017,10 @@
       "enclosure_length": "59110208",
       "itunes_duration": "01:01:33",
       "speakers": [
-        "Ed Miller",
-        "Jed Marum",
-        "Seamus Stout",
-        "Madi Davis",
-        "Skeleton McKee",
-        "Marc Gunn",
-        "Battlefield Band",
-        "Brian McNeill"
+        "Texas Scottish Festival",
+        "Highland Games",
+        "Texas Scottish Fest",
+        "Marc Gunn"
       ],
       "topics": [
         "texas",
@@ -11715,12 +9044,7 @@
       "speakers": [
         "Hearthfire Duo",
         "Jed Marum",
-        "Hugh Morrison",
-        "Julia Lane",
-        "Arthur Hinds",
-        "Sea Star",
-        "Marc Gunn",
-        "Joss Whedon"
+        "Marc Gunn"
       ],
       "topics": [
         "earth",
@@ -11739,13 +9063,9 @@
       "enclosure_length": "58898901",
       "itunes_duration": "01:01:20",
       "speakers": [
-        "Gerry O'Beirne",
-        "Rosie Shipley",
-        "Hearthfire Duo",
-        "Mithril Duo",
-        "Beer Belly",
-        "Tim Keeley",
-        "David Curley Mick Broderick",
+        "Happy Thoughts",
+        "Old Blind Dogs",
+        "Steel Cl",
         "Marc Gunn"
       ],
       "topics": [
@@ -11767,12 +9087,7 @@
       "speakers": [
         "Ed Miller",
         "Sligo Rags",
-        "Seamus Kennedy",
-        "Andrew McKee",
-        "Merry Wives",
-        "Emerald Rose",
-        "Marc Gunn",
-        "Tom Russell"
+        "Marc Gunn"
       ],
       "topics": [
         "laugh",
@@ -11793,14 +9108,7 @@
       "enclosure_length": "62686093",
       "itunes_duration": "01:05:16",
       "speakers": [
-        "Sligo Rags",
-        "Ken O'Malley",
-        "Merry Wives",
-        "Beatnik Turtles",
-        "Marc Gunn",
-        "Perry Greza",
-        "Nataliya Semenova",
-        "Beth Folkemer"
+        "Marc Gunn"
       ],
       "topics": [
         "fortunate"
@@ -11819,13 +9127,7 @@
       "itunes_duration": "59:34",
       "speakers": [
         "St Patrick",
-        "Patrick Penta",
-        "Jim Cope",
-        "Battlefield Band",
-        "Katherine Nagy",
-        "Avery LeVine",
-        "Beth Patterson",
-        "Patrick O'Flaherty"
+        "Marc Gunn"
       ],
       "topics": [
         "traveler"
@@ -11843,14 +9145,9 @@
       "enclosure_length": "118287591",
       "itunes_duration": "02:03:11",
       "speakers": [
-        "String Theory",
-        "Patrick D'Arcy",
-        "Andrew McKee",
-        "Thomas Patrick Kenny",
-        "Seamus Kennedy",
-        "Abby Green",
-        "Spencer Murray Pipeslinger",
-        "Brobdingnagian Bards"
+        "Day Music",
+        "Happy St",
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -11870,14 +9167,9 @@
       "enclosure_length": "81762330",
       "itunes_duration": "01:25:09",
       "speakers": [
-        "Heidi-Jane Schwabe",
-        "Sarah Marie Mullen",
-        "Skeleton McKee",
-        "Liz Schettner",
-        "Corktown Popes",
-        "Rachel Hair Trio",
-        "Young Dubliners",
-        "Spirited Lads"
+        "Day Celtic Top",
+        "Best Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -11897,13 +9189,7 @@
       "itunes_duration": "01:10:31",
       "speakers": [
         "St Patrick",
-        "Hugh Morrison",
-        "Leaping Lulu",
-        "Jed Marum",
-        "Gothard Sisters",
-        "Skeleton McKee",
-        "Marc Gunn",
-        "Eric Patterons"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -11922,13 +9208,7 @@
       "itunes_duration": "01:01:08",
       "speakers": [
         "Garry O'Meara",
-        "Bill Troxler",
-        "Pol Mac Adaim",
-        "Rising Gael",
-        "Screeched Inn",
-        "net Subscribe",
-        "Marc Gunn",
-        "Jason Meyers"
+        "Marc Gunn"
       ],
       "topics": [
         "patricio",
@@ -11947,14 +9227,7 @@
       "enclosure_length": "121522472",
       "itunes_duration": "02:06:33",
       "speakers": [
-        "Marc Gunn",
-        "Gothard Sisters",
-        "Vintage Wildflowers",
-        "Gwilym Morus",
-        "Tim Maurice",
-        "Jimi McRae",
-        "Sam Okoo",
-        "Ed Miller"
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -11976,14 +9249,7 @@
       "enclosure_length": "61329780",
       "itunes_duration": "01:03:52",
       "speakers": [
-        "Beth Paterson",
-        "Andrew Finn Magill",
-        "Sean Orr",
-        "Ciara Considine",
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Carbon Leaf",
-        "Jesse Ferguson"
+        "Marc Gunn"
       ],
       "topics": [
         "love"
@@ -12001,14 +9267,8 @@
       "enclosure_length": "58749140",
       "itunes_duration": "01:01:11",
       "speakers": [
-        "Abby Green",
-        "Colleen Raney",
-        "Colm Maccarthaigh",
-        "Hank Cramer",
-        "Jamie Smith",
-        "Marc Gunn",
-        "Michael Cavanaugh",
-        "Colm Maccárthaigh"
+        "Dublin Harpers",
+        "Marc Gunn"
       ],
       "topics": [
         "wild",
@@ -12030,12 +9290,7 @@
       "speakers": [
         "Blarney Castle",
         "Ed Miller",
-        "Chris Murphy",
-        "Andrew McKee",
-        "Blackstone Cuil",
-        "Marc Gunn",
-        "Tim Hughes",
-        "Superstar Kevin Long"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -12054,14 +9309,9 @@
       "enclosure_length": "65960699",
       "itunes_duration": "01:08:40",
       "speakers": [
-        "Bonnie Rideout",
-        "Battlefield Band",
-        "Jonny Dyer",
-        "Ed Miller",
-        "Andrew McKee",
-        "Don Grieve",
-        "Brobdingnagian Bards",
-        "Caledonia Swing"
+        "Scottish Music",
+        "Awesome Scottish",
+        "Marc Gunn"
       ],
       "topics": [
         "scottish",
@@ -12082,12 +9332,7 @@
       "speakers": [
         "Andrew Finn Magill",
         "Myddle Earth",
-        "Blarney Castle",
-        "Acoustic Butterfly",
-        "Matt Hughes",
-        "Screeched Inn",
-        "Marc Gunn",
-        "Jeffrey Evans"
+        "Marc Gunn"
       ],
       "topics": []
     },
@@ -12103,14 +9348,10 @@
       "enclosure_length": "59874727",
       "itunes_duration": "01:02:21",
       "speakers": [
-        "Andrew Finn Magill",
-        "Bill Troxler",
-        "Battlefield Band",
-        "Myddle Earth",
-        "Vicki Swan",
-        "Oisin McAuley",
-        "Jed Marum",
-        "Cady Finlayson"
+        "Instrumental Celtic Music",
+        "Instrumental Celtic",
+        "Enjoy Celtic",
+        "Marc Gunn"
       ],
       "topics": [
         "instrumental",
@@ -12130,14 +9371,8 @@
       "enclosure_length": "62482521",
       "itunes_duration": "01:05:04",
       "speakers": [
-        "Gothard Sisters",
-        "Kevin Tyler",
-        "Chuckawalla Rhythm Kings",
-        "Heather Dale",
-        "Seamus Kennedy",
-        "Marc Gunn",
-        "Beth Patteron",
-        "Patrick O'Flaherty"
+        "Auld Lang Syne",
+        "Marc Gunn"
       ],
       "topics": [
         "auld",
@@ -12157,14 +9392,7 @@
       "enclosure_length": "59337818",
       "itunes_duration": "01:01:47",
       "speakers": [
-        "Vince Conaway",
-        "Hugh Morrison",
-        "Seamus Kennedy",
-        "Vintage Wildflowers",
-        "Andrew McKee",
-        "Sligo Rags",
-        "Doug Folkins",
-        "Secret Sky"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -12185,13 +9413,7 @@
       "itunes_duration": "01:03:24",
       "speakers": [
         "Gothard Sisters",
-        "Jennifer Licko",
-        "Eddie Biggins",
-        "Rosanne Cash",
-        "Thistle Band",
-        "Heather Dale",
-        "De Ceadaoin",
-        "Woodland Bard"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -12210,14 +9432,8 @@
       "enclosure_length": "57480542",
       "itunes_duration": "59:51",
       "speakers": [
-        "Ed Miller",
-        "Dom Duff",
-        "Angus Mohr",
-        "Susan Toman",
-        "Tara O'Grady",
-        "Karan Casey",
-        "Olivier Marechal",
-        "Ken Brixius"
+        "December Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "december",
@@ -12237,14 +9453,7 @@
       "enclosure_length": "61044779",
       "itunes_duration": "01:03:34",
       "speakers": [
-        "Jed Marum",
-        "Jesse Ferguson",
-        "Hugh Morrison",
-        "Hearthfire Duo",
-        "Mary Jane Lamond",
-        "Belfast Andi",
-        "Rachel Barckhaus",
-        "Harvey Yaw"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -12263,14 +9472,7 @@
       "enclosure_length": "116852962",
       "itunes_duration": "02:01:41",
       "speakers": [
-        "Spencer Murray Pipeslinger",
-        "Jonny Dyer",
-        "Colleen Raney",
-        "Skeleton McKee",
-        "Saor Patrol",
-        "Rachel Hair Trio",
-        "Brad Millar",
-        "Derek Lineberry"
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -12291,14 +9493,9 @@
       "enclosure_length": "62154118",
       "itunes_duration": "01:04:43",
       "speakers": [
-        "Sarah Marie Mullen",
-        "Abby Green",
-        "Andrew McKee",
-        "Grey Aengus",
-        "Rick Bonney",
-        "Hank Woodward",
-        "Amanda Wiseman",
-        "Derek Lineberry"
+        "Great Celtic Music Hiding",
+        "Renaissance Festivals",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -12320,14 +9517,8 @@
       "enclosure_length": "57661623",
       "itunes_duration": "01:00:03",
       "speakers": [
-        "Emerald Rose",
-        "Shauna Mullin",
-        "Andy Lamy",
-        "Bonnie Rideout",
-        "Ed Miller",
-        "Robb Sansonetti",
-        "Gaelic Storm",
-        "Sharif Abed"
+        "Election Day Reprieve",
+        "Marc Gunn"
       ],
       "topics": [
         "election",
@@ -12346,14 +9537,8 @@
       "enclosure_length": "72754328",
       "itunes_duration": "01:15:45",
       "speakers": [
-        "Spencer Murray Pipeslinger",
-        "Anne Roos",
-        "Steve Holloway",
-        "Jasper Coal",
-        "Bill Grogan",
-        "Hank Woodward",
-        "Ashley Taylor",
-        "Tim Finnegan"
+        "Halloween special",
+        "Marc Gunn"
       ],
       "topics": [
         "halloween"
@@ -12371,14 +9556,7 @@
       "enclosure_length": "55482307",
       "itunes_duration": "57:46",
       "speakers": [
-        "Heather Gilmer",
-        "Jeff Moore",
-        "Mary Jane Lamond",
-        "Hugh Morrison",
-        "Doug Folkins",
-        "Robert Buck",
-        "Pete Alexander",
-        "Mark McCaffrey"
+        "Marc Gunn"
       ],
       "topics": [
         "dance"
@@ -12396,14 +9574,7 @@
       "enclosure_length": "56133953",
       "itunes_duration": "58:27",
       "speakers": [
-        "Good Foot",
-        "Vince Conaway",
-        "Danny Guinan Red",
-        "Demon Barbers",
-        "Gerry O'Beirne",
-        "Frank Donahue",
-        "Mike Hamilton",
-        "Kelly Rogers"
+        "Marc Gunn"
       ],
       "topics": [
         "cead",
@@ -12423,14 +9594,7 @@
       "enclosure_length": "93586036",
       "itunes_duration": "01:37:28",
       "speakers": [
-        "Linda Relph",
-        "Leah Jorgensen",
-        "Jennifer Licko",
-        "Claire Roche",
-        "Becky Taylor",
-        "Abby Green",
-        "Anne Roos",
-        "Gothard Sisters"
+        "Marc Gunn"
       ],
       "topics": [
         "woman",
@@ -12450,14 +9614,7 @@
       "enclosure_length": "61021149",
       "itunes_duration": "01:03:32",
       "speakers": [
-        "Linda Relph",
-        "Leah Jorgensen",
-        "Jennifer Licko",
-        "Claire Roche",
-        "Becky Taylor",
-        "Abby Green",
-        "Anne Roos",
-        "Gothard Sisters"
+        "Marc Gunn"
       ],
       "topics": [
         "woman",
@@ -12477,13 +9634,7 @@
       "enclosure_length": "58850663",
       "itunes_duration": "01:01:17",
       "speakers": [
-        "Linda Relph",
-        "Patrick Clifford",
-        "Bill Grogan",
-        "Frank Donahue",
-        "Stephen Bernhardt",
-        "Beatnik Turtles",
-        "Broken Mist",
+        "Celtic Workout Special",
         "Marc Gunn"
       ],
       "topics": [
@@ -12504,14 +9655,7 @@
       "enclosure_length": "58509874",
       "itunes_duration": "01:00:56",
       "speakers": [
-        "Seamus Kennedy",
-        "Bonnie Rideout",
-        "Ed Miller",
-        "Jamie Smith",
-        "Terry Griffith",
-        "Hobbit Drinking Songs",
-        "Concert Window",
-        "Frank Donahue"
+        "Marc Gunn"
       ],
       "topics": [
         "highlands"
@@ -12529,14 +9673,7 @@
       "enclosure_length": "60320721",
       "itunes_duration": "01:02:48",
       "speakers": [
-        "Liz Schettner",
-        "Ed Miller",
-        "Derek Lineberry",
-        "Lynda MacNeil",
-        "Peter Tilghman",
-        "Bryan Brake",
-        "John Sharkey White",
-        "Theresa Sullivan"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -12554,14 +9691,8 @@
       "enclosure_length": "60336024",
       "itunes_duration": "01:02:50",
       "speakers": [
-        "Heather Dale",
-        "Sarah Marie Mullen",
-        "Jasper Coal",
-        "Jesse Linder",
-        "Brobdingnagian Bards",
-        "Randy Wothke",
-        "Raül Aicart",
-        "Chris Kapustin"
+        "Athena Tergis",
+        "Marc Gunn"
       ],
       "topics": [
         "stone",
@@ -12580,14 +9711,8 @@
       "enclosure_length": "58560670",
       "itunes_duration": "01:00:59",
       "speakers": [
-        "Ed Miller",
-        "Jeff Ksiazek",
-        "Abby Green",
-        "Derek Byrne",
-        "Bog Hoppers",
-        "Skeleton McKee",
-        "Derek Lineberry",
-        "Summer Cruiser"
+        "Celtic Music Podca",
+        "Marc Gunn"
       ],
       "topics": [
         "indie",
@@ -12608,13 +9733,7 @@
       "itunes_duration": "55:02",
       "speakers": [
         "Gaelic Girls",
-        "Ciaran Tourish",
-        "Ciara Considine",
-        "Corktown Popes",
-        "Ken O'Malley",
-        "Cady Finlayson",
-        "Vita Tanga",
-        "Peter Tilghman"
+        "Marc Gunn"
       ],
       "topics": [
         "girls",
@@ -12634,14 +9753,7 @@
       "enclosure_length": "55036756",
       "itunes_duration": "57:15",
       "speakers": [
-        "Colin Farrell",
-        "Hank Cramer",
-        "Emerald Rose",
-        "Kosaka Kazuhiko",
-        "Carl Peterson",
-        "Angus Mohr",
-        "Lynda MacNeil",
-        "Mark Allison"
+        "Marc Gunn"
       ],
       "topics": [
         "long",
@@ -12662,13 +9774,7 @@
       "itunes_duration": "58:26",
       "speakers": [
         "Pwca Rambles",
-        "Susan Kidney Donna Germano",
-        "Arthur Hinds",
-        "Shamrock Orchestra",
-        "Redhill Rats",
-        "Icewagon Flu",
-        "Young Dubliners",
-        "Bat Kinane"
+        "Marc Gunn"
       ],
       "topics": [
         "pwca",
@@ -12689,13 +9795,7 @@
       "itunes_duration": "01:10:30",
       "speakers": [
         "Michael Liebmann",
-        "Becky Taylor",
-        "Anton Emery",
-        "Claire Roche",
-        "Brobdingnagian Bards",
-        "De Ceadaoin",
-        "Cu Dubh",
-        "Theo Niessink"
+        "Marc Gunn"
       ],
       "topics": [
         "dedication"
@@ -12714,13 +9814,7 @@
       "itunes_duration": "01:01:19",
       "speakers": [
         "David Hyams",
-        "Beth Patterson Patrick O'Flaherty",
-        "Darren Raleigh",
-        "Marc Gunn",
-        "Bill Grogan",
-        "Andrew Scarbro",
-        "Aaron Bendavid",
-        "Caitlin Conchoille"
+        "Marc Gunn"
       ],
       "topics": [
         "wandering",
@@ -12739,14 +9833,7 @@
       "enclosure_length": "57863218",
       "itunes_duration": "01:00:15",
       "speakers": [
-        "Good Foot",
-        "Adam Beattie",
-        "Taisgeal Clachan",
-        "Caledonia Swing",
-        "Dave Wilson",
-        "Mark Saul",
-        "Marc Gunn",
-        "Andrew Scarbro"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -12765,12 +9852,7 @@
       "enclosure_length": "59290123",
       "itunes_duration": "01:01:45",
       "speakers": [
-        "Beth Patterson",
-        "Marc Gunn",
-        "Redhill Rats",
-        "Rod Nevin",
-        "Cutting Bracken",
-        "Canned Haggis"
+        "Marc Gunn"
       ],
       "topics": [
         "crazy",
@@ -12790,14 +9872,8 @@
       "enclosure_length": "60939433",
       "itunes_duration": "01:03:28",
       "speakers": [
-        "Chalice Well",
-        "Leaping Lulu",
-        "Ron Cody",
-        "Willie McCulloch",
-        "Gaelic Storm",
-        "Ginger Ackley",
-        "Ceol Gan Achar",
-        "John Byrne Band"
+        "Celtic Invasion",
+        "Marc Gunn"
       ],
       "topics": [
         "black",
@@ -12816,9 +9892,8 @@
       "enclosure_length": "57334182",
       "itunes_duration": "59:42",
       "speakers": [
-        "Banna De Dha",
-        "Sligo Rags",
-        "Jerrie Adkins",
+        "Celtic Music",
+        "Cornish Kitchen",
         "Marc Gunn"
       ],
       "topics": [
@@ -12841,13 +9916,7 @@
       "itunes_duration": "01:00:55",
       "speakers": [
         "Will Castles Stop",
-        "Bat Kinane",
-        "Emerald Rose",
-        "Martyn Wylde",
-        "Maidens IV",
-        "Peter Tilghman",
-        "Bryan Brake",
-        "John Sharkey White"
+        "Marc Gunn"
       ],
       "topics": [
         "castle",
@@ -12866,14 +9935,10 @@
       "enclosure_length": "58014406",
       "itunes_duration": "01:00:25",
       "speakers": [
-        "Jonny Dyer",
-        "Julia Lane",
-        "Skeleton McKee",
-        "Sean Orr",
-        "Saor Patrol",
-        "Jodie Purgahn",
-        "Rita Barnowski",
-        "Stephen Bernhardt"
+        "Golden Glove",
+        "Celtic Music",
+        "Poor Man",
+        "Marc Gunn"
       ],
       "topics": [
         "golden",
@@ -12894,14 +9959,7 @@
       "enclosure_length": "57974567",
       "itunes_duration": "01:00:22",
       "speakers": [
-        "Maggie Sansone",
-        "Ciara Considine",
-        "Karan Casey",
-        "Marc Gunn",
-        "Eilis Crean",
-        "Linda Marie Smith",
-        "Joyce Pavelko",
-        "Charlie Returns North"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -12921,14 +9979,7 @@
       "enclosure_length": "55683879",
       "itunes_duration": "57:56",
       "speakers": [
-        "Hearthfire Duo",
-        "Andy Lamy",
-        "Battlefield Band",
-        "Rebecca Gilbert",
-        "Kellswater Bridge",
-        "Jed Marum",
-        "Mickey Coleman",
-        "Joyce Pavelko"
+        "Marc Gunn"
       ],
       "topics": [
         "wild",
@@ -12949,14 +10000,8 @@
       "enclosure_length": "58009629",
       "itunes_duration": "01:00:21",
       "speakers": [
-        "Dave Wilson",
-        "Dun Aengus",
-        "Colleen Raney",
-        "Peter Tilghman",
-        "Bryan Brake",
-        "John Sharkey White II",
-        "Theresa Sullivan",
-        "Brendan Nix"
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -12976,14 +10021,7 @@
       "enclosure_length": "61039434",
       "itunes_duration": "01:03:31",
       "speakers": [
-        "Tania Opland",
-        "Ken O'Malley",
-        "Darragh McGann",
-        "Vintage Wildflowers",
-        "Tim Malloys",
-        "Pink Ribbon Project",
-        "Concert Window",
-        "Bonnie Rantin"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13002,14 +10040,7 @@
       "enclosure_length": "60122359",
       "itunes_duration": "01:02:33",
       "speakers": [
-        "Jimi McRae",
-        "Heather Dale",
-        "Sarah Dinan",
-        "Kilmaine Saints",
-        "Battlefield Band",
-        "Mark Hughes",
-        "Jeff Fischer",
-        "Frank Donahue"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13030,14 +10061,9 @@
       "enclosure_length": "58354882",
       "itunes_duration": "01:00:42",
       "speakers": [
-        "Mixed Flock",
-        "Hearthfire Duo",
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Gwilym Morus",
-        "Daibheid Jordan",
-        "Elizabeth Thomas",
-        "Bold O'Donahue"
+        "Celtic Music",
+        "Celtic Feedback",
+        "Marc Gunn"
       ],
       "topics": [
         "commitment",
@@ -13057,14 +10083,9 @@
       "enclosure_length": "58900645",
       "itunes_duration": "01:01:17",
       "speakers": [
-        "Sarah Marie Mullen",
-        "Hanz Araki",
-        "Ed Yother",
-        "Bret Blackshear",
-        "Judith Weikle",
-        "Boston Blackthorne",
-        "Staggering Jack",
-        "Bonnie Jean Cameron"
+        "Celtic Music",
+        "Cloudy Day",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13084,14 +10105,8 @@
       "enclosure_length": "118996683",
       "itunes_duration": "02:03:52",
       "speakers": [
-        "Coole Park",
-        "Duncan Cameron",
-        "Chrissy Crowley",
-        "Madd Paddy",
-        "Jesse Ferguson",
-        "Maggie Rant",
-        "Gillian Boucher",
-        "Heather Dale"
+        "Celtic Canadian Music",
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -13112,13 +10127,7 @@
       "itunes_duration": "56:10",
       "speakers": [
         "April Fools",
-        "Sligo Rags",
-        "Brobdingnagian Bards",
-        "Emerald Rose",
-        "Beatnik Turtle",
-        "Doug Folkins",
-        "Patrick Maloney",
-        "Whirly Jig"
+        "Marc Gunn"
       ],
       "topics": [
         "trad",
@@ -13141,13 +10150,7 @@
       "itunes_duration": "01:04:17",
       "speakers": [
         "St Patrick",
-        "John Byrne Band",
-        "Jonathan Milton",
-        "Karan Casey",
-        "Mithril Duo",
-        "Tuatha Dea",
-        "Scarlett Letter",
-        "Betsy Ross Bridge"
+        "Marc Gunn"
       ],
       "topics": [
         "post",
@@ -13168,13 +10171,7 @@
       "itunes_duration": "01:21:18",
       "speakers": [
         "St Patrick",
-        "Marc Gunn",
-        "Emerald Rose",
-        "Full Gael",
-        "Heather Alexander",
-        "Jesse Ferguson",
-        "Patsy O'Brien",
-        "Peggy Gordon"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -13195,13 +10192,7 @@
       "itunes_duration": "01:02:50",
       "speakers": [
         "St Patrick",
-        "Poitin Poitin",
-        "Abby Green",
-        "Marc Gunn",
-        "Jim Sharkey",
-        "Eddie Biggins",
-        "Tommy Peoples",
-        "Scully Casey"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -13225,13 +10216,7 @@
       "itunes_duration": "01:11:25",
       "speakers": [
         "St Patrick",
-        "Mixed Flock",
-        "Gothard Sisters",
-        "Abby Green",
-        "John Byrne Band",
-        "Redhill Rats",
-        "Noel Nash",
-        "Danny O'Flaherty"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -13252,11 +10237,7 @@
       "itunes_duration": "01:02:36",
       "speakers": [
         "St Patrick",
-        "Marc Gunn",
-        "Kilkelly Ireland",
-        "Rocky Road",
-        "Danny Boy Drunken",
-        "Henry Martin"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -13276,13 +10257,7 @@
       "itunes_duration": "01:26:59",
       "speakers": [
         "St Patrick",
-        "Linda Relph",
-        "Michael Black",
-        "Anne Roos",
-        "Michael DeAngelis",
-        "Jonny Dyer",
-        "Ginger Ackley",
-        "Hanz Araki"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -13305,14 +10280,8 @@
       "enclosure_length": "59105782",
       "itunes_duration": "01:01:32",
       "speakers": [
-        "Heidi-Jane Schwabe",
-        "Abby Green",
-        "Jonathan Milton",
-        "Myddle Earth",
-        "Stephen Kern",
-        "Lady Moon",
-        "Patrick Special",
-        "Peter Tilghman"
+        "Irish Music Month",
+        "Marc Gunn"
       ],
       "topics": [
         "train",
@@ -13331,14 +10300,7 @@
       "enclosure_length": "61097217",
       "itunes_duration": "01:03:36",
       "speakers": [
-        "David Nigel Lloyd",
-        "Emerald Dawn",
-        "Jim Sharkey",
-        "Don Gabbert",
-        "St Patrick",
-        "Whalley Range",
-        "Lo Lop",
-        "Sweet Anne"
+        "Marc Gunn"
       ],
       "topics": [
         "wind",
@@ -13358,14 +10320,8 @@
       "enclosure_length": "56504699",
       "itunes_duration": "58:50",
       "speakers": [
-        "Battlefield Band",
-        "Marc Gunn",
-        "Scott Hoye",
-        "Seamus Kennedy",
-        "Carbon Leaf",
-        "St Patrick",
-        "Andy Kruspe",
-        "Mithril Duo"
+        "tunes whi",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13386,14 +10342,8 @@
       "enclosure_length": "62350770",
       "itunes_duration": "01:04:56",
       "speakers": [
-        "John Byrne Band",
-        "Jamie Smith",
-        "Patrick Penta",
-        "Bill Grogan",
-        "John McLean Allan",
-        "Carbon Leaf",
-        "Cara Dillon",
-        "Peter Tilghman"
+        "Whiskey Kelpie Reels",
+        "Marc Gunn"
       ],
       "topics": [
         "whiskey",
@@ -13413,12 +10363,6 @@
       "enclosure_length": "55226993",
       "itunes_duration": "57:30",
       "speakers": [
-        "Grey Whistle",
-        "Bonnie Rideout",
-        "Good Foot",
-        "Tibby Fouller",
-        "Gordon Stables",
-        "Pandora Celtica",
         "Marc Gunn"
       ],
       "topics": [
@@ -13438,14 +10382,9 @@
       "enclosure_length": "85741456",
       "itunes_duration": "01:29:17",
       "speakers": [
-        "Emerald Rose",
-        "Heather Alexander",
-        "Jesse Ferguson",
-        "Patsy O'Brien",
-        "James McDaniel II",
-        "Grace O'Malley",
-        "Full Gael",
-        "Gypsy Bardic Tinker"
+        "Best Celtic Music",
+        "Best Celtic",
+        "Marc Gunn"
       ],
       "topics": [
         "best",
@@ -13465,13 +10404,7 @@
       "itunes_duration": "59:56",
       "speakers": [
         "Amelia Hogan",
-        "Laurent Leemans",
-        "Doug Folkins",
-        "Ann Sannat",
-        "Bryan Blake",
-        "Chris Cooper",
-        "Martin Wynne",
-        "Siun Ni Dhuibhir"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -13492,14 +10425,8 @@
       "enclosure_length": "119403343",
       "itunes_duration": "02:04:19",
       "speakers": [
-        "Sarah Marie Mullen",
-        "Claire Roche",
-        "Scott Hoye",
-        "Leah Jorgensen",
-        "Donna Germano",
-        "Margaret Davis",
-        "Daphne Quigley-Freund",
-        "Allyson Adair"
+        "Celtic Harp Music Special",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13521,14 +10448,8 @@
       "enclosure_length": "58683983",
       "itunes_duration": "01:01:07",
       "speakers": [
-        "Jim Flanagan",
-        "Jim Brannigan",
-        "Seamus Kennedy",
-        "Ed Miller",
-        "Merry Wives",
-        "Brobdingnagian Bards",
-        "Marc Gunn",
-        "King Arthur"
+        "funny Irish",
+        "Marc Gunn"
       ],
       "topics": [
         "funny",
@@ -13550,13 +10471,7 @@
       "itunes_duration": "01:04:15",
       "speakers": [
         "Nollaig Shona",
-        "Mithril Duo",
-        "Battlefield Band",
-        "Leo McCann",
-        "Ceol Gan Achar",
-        "Marc Gunn Jamie Haeuser",
-        "Fionnuala Sherry",
-        "Good Foot"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13576,14 +10491,8 @@
       "enclosure_length": "61448588",
       "itunes_duration": "01:03:59",
       "speakers": [
-        "Mark O'Connor",
-        "Jonny Dyer",
-        "Marc Gunn",
-        "Bat Kinane",
-        "Katie McMahon",
-        "Heather Dale",
-        "Small Town Sheiks",
-        "Jennifer Licko"
+        "more awe",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -13604,13 +10513,7 @@
       "itunes_duration": "01:04:39",
       "speakers": [
         "Kick Off",
-        "Shamrock Orchestra",
-        "Bat Kinane",
-        "Kilmaine Saints",
-        "Danny Carthy",
-        "William Murphy",
-        "George Town Folk Festivals",
-        "Mark Gunn"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13630,14 +10533,7 @@
       "enclosure_length": "57270196",
       "itunes_duration": "59:38",
       "speakers": [
-        "Samantha Gillogly",
-        "Tim Maurice",
-        "Vintage Wildflowers",
-        "Don Gabbert",
-        "Grey Whistle",
-        "Ashley Davis",
-        "Redhill Rats",
-        "Allison Barber"
+        "Marc Gunn"
       ],
       "topics": [
         "home",
@@ -13658,14 +10554,7 @@
       "enclosure_length": "59612396",
       "itunes_duration": "01:02:04",
       "speakers": [
-        "John McGaha",
-        "Jonathan Milton",
-        "Emerald Rose",
-        "Colin Farrell",
-        "Mwnci Nel",
-        "Dun Aengus",
-        "Beer Belly",
-        "Demon Barbers"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13684,13 +10573,7 @@
       "enclosure_length": "57816712",
       "itunes_duration": "01:00:13",
       "speakers": [
-        "Jennifer Licko Shelton",
-        "String Thaw",
-        "Ed Miller",
-        "Beat Smash Square",
-        "Jed Marum",
-        "Liz Madden",
-        "King Arthur",
+        "Relaxing Celtic Music",
         "Marc Gunn"
       ],
       "topics": [
@@ -13710,14 +10593,8 @@
       "enclosure_length": "59126865",
       "itunes_duration": "01:01:35",
       "speakers": [
-        "Bret Blackshear",
-        "Linda Relph",
-        "David Lovrien",
-        "Larry Fowler Jed Marum",
-        "George Papavgeris",
-        "Patrick Clifford",
-        "Sligo Rags",
-        "Paisley Close"
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -13737,13 +10614,7 @@
       "enclosure_length": "60891661",
       "itunes_duration": "01:03:25",
       "speakers": [
-        "Bat Kinane",
-        "Lady Prudence",
-        "Arthur Hinds",
-        "Sylvia Platypus",
-        "Coyote Run",
-        "David Nigel Lloyd",
-        "King Arthur",
+        "Celtic Halloween",
         "Marc Gunn"
       ],
       "topics": [
@@ -13763,14 +10634,8 @@
       "enclosure_length": "117543521",
       "itunes_duration": "02:02:25",
       "speakers": [
-        "Cady Finlayson",
-        "Samantha Gillogly",
-        "Tim Maurice",
-        "Marc Gunn",
-        "Linda Relph",
-        "Jamie Laval Ashley Broder",
-        "Heidi Jane",
-        "Bedlam Bards"
+        "Celtic Fiddle Music",
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -13791,14 +10656,7 @@
       "enclosure_length": "57814337",
       "itunes_duration": "01:00:13",
       "speakers": [
-        "Patsy O'Brien",
-        "Jesse Ferguson",
-        "Bill Grogan",
-        "King Arthur",
-        "Marc Gunn",
-        "Tripping Down",
-        "Emerald Accent",
-        "Johnny Jump"
+        "Marc Gunn"
       ],
       "topics": [
         "sets",
@@ -13817,11 +10675,10 @@
       "enclosure_length": "56960160",
       "itunes_duration": "59:19",
       "speakers": [
-        "Darren Raleigh",
-        "Redhill Rats",
-        "King Arthur",
-        "Marc Gunn",
-        "Lee Ho"
+        "Celtic Music Before",
+        "Sprag Session",
+        "Celtic Tri",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -13840,13 +10697,6 @@
       "enclosure_length": "58835304",
       "itunes_duration": "01:01:17",
       "speakers": [
-        "Rachel Hair Trio",
-        "Lady Prudence",
-        "Patrick D'Arcy",
-        "Saxon Moon",
-        "Jerry McLean",
-        "Blackthorne Aire",
-        "King Arthur",
         "Marc Gunn"
       ],
       "topics": [
@@ -13866,12 +10716,6 @@
       "enclosure_length": "60787346",
       "itunes_duration": "01:03:18",
       "speakers": [
-        "Becky Taylor",
-        "Carolina Ceili",
-        "Jed Marum",
-        "King Arthur",
-        "Emerald Accent",
-        "Sligo Rags",
         "Marc Gunn"
       ],
       "topics": [
@@ -13893,14 +10737,7 @@
       "enclosure_length": "59179184",
       "itunes_duration": "01:01:37",
       "speakers": [
-        "Hank Cramer",
-        "Merry Wives",
-        "Darcy Nair",
-        "Brobdingnagian Bards",
-        "Black Jack Murphy",
-        "King Arthur",
-        "Katie Jo",
-        "Paddy Murphy"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -13918,14 +10755,8 @@
       "enclosure_length": "58957936",
       "itunes_duration": "01:01:24",
       "speakers": [
-        "Full Gael",
-        "William Coulter Friends",
-        "Bonnie Rideout",
-        "Linda Connell Studley",
-        "Jerry McLean",
-        "Blackthorne Aire",
-        "Emerald Rose",
-        "James Olin Oden"
+        "Celtic Roots I'm back",
+        "Marc Gunn"
       ],
       "topics": [
         "music",
@@ -13945,14 +10776,8 @@
       "enclosure_length": "116376947",
       "itunes_duration": "02:01:13",
       "speakers": [
-        "Becky Taylor",
-        "Jasper Coal",
-        "Jim Brannigan",
-        "Patrick D'Arcy",
-        "Jimi McRae",
-        "Sam Okoo",
-        "Brian Boru",
-        "Mark Twain"
+        "Burly Bagpipe Music",
+        "Marc Gunn"
       ],
       "topics": [
         "burly",
@@ -13973,14 +10798,8 @@
       "enclosure_length": "57884020",
       "itunes_duration": "01:00:17",
       "speakers": [
-        "Emerald Rose",
-        "Karan Casey",
-        "Claire Roche",
-        "Heather Dale",
-        "Cady Finlayson",
-        "Vita Tanga",
-        "Chuckawalla Rhythm Kings",
-        "Emerald Dawn"
+        "Celtic son",
+        "Marc Gunn"
       ],
       "topics": [
         "white",
@@ -13999,14 +10818,7 @@
       "enclosure_length": "56234748",
       "itunes_duration": "58:34",
       "speakers": [
-        "Jenna Greene",
-        "Ray Kelly",
-        "Saxon Moon",
-        "Sligo Rags",
-        "Ed Miller",
-        "Obia Song",
-        "Bonhomme Setter",
-        "Danny Boy"
+        "Marc Gunn"
       ],
       "topics": [
         "laois"
@@ -14024,14 +10836,7 @@
       "enclosure_length": "58746102",
       "itunes_duration": "01:01:11",
       "speakers": [
-        "Colin Farrell",
-        "Kevin Behan",
-        "Cele De",
-        "Danny Carthy",
-        "Noirin Ni Riain",
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Heather Dale"
+        "Marc Gunn"
       ],
       "topics": [
         "siren",
@@ -14051,14 +10856,7 @@
       "enclosure_length": "73131672",
       "itunes_duration": "01:16:10",
       "speakers": [
-        "Theresa Sullivan",
-        "Wesley Dunnington",
-        "Anna Cylkowski",
-        "Brendan Nix",
-        "John Bilderback",
-        "Samual Hill",
-        "Johnny Berry",
-        "Shawn Cali"
+        "Marc Gunn"
       ],
       "topics": [
         "voicemail",
@@ -14080,14 +10878,9 @@
       "enclosure_length": "191176917",
       "itunes_duration": "03:19:06",
       "speakers": [
-        "Heather Alexander",
-        "Jamie Laval",
-        "Ashley Broder",
-        "Sligo Rags",
-        "Jimi McRae",
-        "Sam Okoo",
-        "Heather Dale",
-        "Mary Knickle"
+        "Great Irish",
+        "Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "year",
@@ -14110,14 +10903,7 @@
       "enclosure_length": "57909105",
       "itunes_duration": "01:00:18",
       "speakers": [
-        "Gerry O'Beirne",
-        "Rosie Shipley",
-        "Cady Finlayson",
-        "Jasper Coal",
-        "Arthur Hinds",
-        "Demon Barbers",
-        "Marc Gunn",
-        "Brendan Nix"
+        "Marc Gunn"
       ],
       "topics": [
         "sleepy",
@@ -14136,14 +10922,9 @@
       "enclosure_length": "57135396",
       "itunes_duration": "59:30",
       "speakers": [
-        "Mixed Flock",
-        "Maggie Sansone",
-        "Rob Higginbotham",
-        "Ron Cody",
-        "Marc Gunn",
-        "Gothard Sisters",
-        "Jesse Ferguson",
-        "Mark Twain"
+        "Irish Whiskey",
+        "Sunday Can",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -14163,14 +10944,7 @@
       "enclosure_length": "90905340",
       "itunes_duration": "01:03:07",
       "speakers": [
-        "Buzz Turner",
-        "Scott Hoye",
-        "Kyle Carey",
-        "Raymond McCullough",
-        "Marys Lane",
-        "Mark Twain",
-        "King Arthur",
-        "Lake Cochituate"
+        "Marc Gunn"
       ],
       "topics": [
         "lucky",
@@ -14189,14 +10963,8 @@
       "enclosure_length": "56547959",
       "itunes_duration": "58:54",
       "speakers": [
-        "Rachel Hair Trio",
-        "Patrick D'Arcy",
-        "Gothard Sisters",
-        "Jim McKenna",
-        "Eddie Biggins",
-        "Heather Dale",
-        "Neil Anderson",
-        "Mark Twain"
+        "Uilleann Pipes",
+        "Marc Gunn"
       ],
       "topics": [
         "uilleann",
@@ -14217,14 +10985,8 @@
       "enclosure_length": "58686871",
       "itunes_duration": "01:01:07",
       "speakers": [
-        "Joe Travers",
-        "Adam Alexander",
-        "Michael DeAngelis",
-        "Bonnie Rideout",
-        "Marc Gunn",
-        "Raymond McCollough",
-        "Mark Twain",
-        "Joe Travers Adam Alexander"
+        "Celtic Invasion Vacation",
+        "Marc Gunn"
       ],
       "topics": [
         "donegal"
@@ -14242,14 +11004,9 @@
       "enclosure_length": "67777135",
       "itunes_duration": "01:10:35",
       "speakers": [
-        "Ed Miller",
-        "Dark Patrick",
-        "Cynthia Bennett",
-        "Joe Travers Adam Alexander",
-        "Sean Tyrell",
-        "Heather Alexander",
-        "Dan Milner",
-        "Jasper Coal"
+        "Irish Music Postcard",
+        "Back Soon",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -14269,14 +11026,10 @@
       "enclosure_length": "62782662",
       "itunes_duration": "01:05:23",
       "speakers": [
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Liz Madden",
-        "Mixed Flock",
-        "Laura McGhee",
-        "Jeremy King",
-        "Mark Twain",
-        "Mark Miller"
+        "Celtic Thursday",
+        "Next Friday",
+        "Celtic Invasion",
+        "Marc Gunn"
       ],
       "topics": [
         "tgict",
@@ -14295,13 +11048,7 @@
       "enclosure_length": "60162157",
       "itunes_duration": "01:02:39",
       "speakers": [
-        "Seamus Kennedy",
-        "Rising Gael",
-        "Jim McKenna",
-        "Jonny Dyer",
-        "Jimi McRae",
-        "Sam Okoo",
-        "Susan Kidney Donna Germano",
+        "Memorial Day Today",
         "Marc Gunn"
       ],
       "topics": [
@@ -14320,14 +11067,7 @@
       "enclosure_length": "57449424",
       "itunes_duration": "59:50",
       "speakers": [
-        "Colin Farrell",
-        "Kate Crossan",
-        "Preab Meadar",
-        "Nathan Gourley",
-        "Laura Feddersen",
-        "Linda Marie Smith",
-        "Jasper Coal",
-        "John George's Favorite"
+        "Marc Gunn"
       ],
       "topics": [
         "foot"
@@ -14345,14 +11085,8 @@
       "enclosure_length": "58732159",
       "itunes_duration": "01:01:10",
       "speakers": [
-        "Julia Lane",
-        "Linda Relph",
-        "Molly Bauckham",
-        "Jeff Ksiazek",
-        "John McCormack Frank Patterson",
-        "Fionnuala Sherry",
-        "Steve Holloway",
-        "Margaret Davis"
+        "mom's every",
+        "Marc Gunn"
       ],
       "topics": [
         "mother",
@@ -14373,12 +11107,7 @@
       "itunes_duration": "01:02:35",
       "speakers": [
         "Evo Terra",
-        "Heather Dale",
-        "John Bilderback",
-        "Marc Gunn",
-        "Concert Window",
-        "Lume de Biqueira",
-        "Cal Ninyo"
+        "Marc Gunn"
       ],
       "topics": [
         "galicia"
@@ -14396,14 +11125,8 @@
       "enclosure_length": "59178109",
       "itunes_duration": "01:01:38",
       "speakers": [
-        "Bruce Boyd",
-        "Karan Casey",
-        "Jed Marum",
-        "Anne Roos",
-        "Michael Black",
-        "Emerald Rose",
-        "Mater Dea",
-        "Hugh Morrison"
+        "Celtic musi",
+        "Marc Gunn"
       ],
       "topics": [
         "earth"
@@ -14421,14 +11144,8 @@
       "enclosure_length": "175012067",
       "itunes_duration": "03:02:17",
       "speakers": [
-        "Brian Thomas",
-        "Linda Relph",
-        "Sarah Marie Mullen",
-        "Fromseier Rose",
-        "Thomas Patrick Kenny",
-        "Eilis Crean",
-        "Carey Street",
-        "Thomas Doc Grauzer"
+        "Instrumental Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -14449,14 +11166,7 @@
       "enclosure_length": "57592095",
       "itunes_duration": "59:59",
       "speakers": [
-        "Duncan Cameron",
-        "Hugh Morrison",
-        "Dublin O'Shea",
-        "Don Gabbert",
-        "Mishaped Pearls",
-        "Mary Black",
-        "Joris Louwes",
-        "My Kickstarter"
+        "Marc Gunn"
       ],
       "topics": [
         "work",
@@ -14475,14 +11185,11 @@
       "enclosure_length": "57974681",
       "itunes_duration": "01:00:22",
       "speakers": [
-        "Seamus Kennedy",
-        "Brobdingnagian Bards",
-        "Jonathan Ramsey",
-        "Marc Gunn",
-        "Cairde na Gael",
-        "Tom Smith",
-        "Sligo Rags",
-        "Mary Ellen Spider"
+        "Funny Irish Songs",
+        "Scottish Songs",
+        "Parodies Get",
+        "Funny Irish",
+        "Marc Gunn"
       ],
       "topics": [
         "funny",
@@ -14505,11 +11212,6 @@
       "itunes_duration": "01:02:28",
       "speakers": [
         "St Patrick",
-        "Duncan Cameron",
-        "Beth Patterson Patrick O'Flaherty",
-        "Henry Lee",
-        "Johnny Cunningham",
-        "Froggy Fox",
         "Marc Gunn"
       ],
       "topics": [
@@ -14530,14 +11232,8 @@
       "enclosure_length": "78159259",
       "itunes_duration": "01:21:24",
       "speakers": [
-        "Jimi McRae",
-        "Jesse Linder",
-        "Jonathan Milton",
-        "Jesse Ferguson",
-        "Martyn Wylde",
-        "Hugh Morrison",
-        "Free St Patrick",
-        "St Patrick’s Day"
+        "Day Music Playlist",
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -14557,14 +11253,8 @@
       "enclosure_length": "87795130",
       "itunes_duration": "01:31:26",
       "speakers": [
-        "Marc Gunn",
-        "Gwilym Morus",
-        "Gothard Sisters",
-        "Tom Morley",
-        "Bedlam Bards",
-        "Arlene Faith",
-        "Brobdingnagian Bards",
-        "Fleur De Lis"
+        "Best Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "music"
@@ -14582,13 +11272,8 @@
       "enclosure_length": "69054942",
       "itunes_duration": "01:11:55",
       "speakers": [
-        "Sharon Shannon",
-        "Nancy Daily Green",
-        "Sarah Dinan",
-        "Ed Miller",
-        "Marc Gunn",
-        "St Patrick",
-        "Nancy Daily-Green"
+        "Day Songs",
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -14607,14 +11292,8 @@
       "enclosure_length": "70939253",
       "itunes_duration": "01:13:52",
       "speakers": [
-        "Dun Aengus",
-        "Brobdingnagian Bards",
-        "Terry Griffith",
-        "Bedlam Bards",
-        "Doggy Dike",
-        "Jonathan Ramsey",
-        "Jim Brannigan",
-        "Melanie Gruben"
+        "Irish Drinking Songs Top",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -14634,14 +11313,8 @@
       "enclosure_length": "117108770",
       "itunes_duration": "02:01:58",
       "speakers": [
-        "Chrissy Crowley",
-        "Emerald Rose",
-        "Vince Conaway",
-        "Gaelic Storm",
-        "Patsy O'Brien",
-        "Colleen Raney",
-        "Steve Holloway",
-        "Maggie Rant"
+        "Traditional Celtic Music",
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -14661,13 +11334,7 @@
       "enclosure_length": "62678900",
       "itunes_duration": "01:05:16",
       "speakers": [
-        "Arlene Faith",
-        "Marc Gunn",
-        "Anne Roos",
-        "Claire Roche",
-        "Gothard Sisters",
-        "Jamie Haeuser",
-        "Birmingham St Patrick"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -14687,13 +11354,7 @@
       "itunes_duration": "59:49",
       "speakers": [
         "Craic Medley",
-        "Smithfield Fair",
-        "Darren Raleigh",
-        "James Shipp",
-        "Redhill Rats",
-        "Spade McQuade",
-        "Nick Watson",
-        "St Patrick"
+        "Marc Gunn"
       ],
       "topics": [
         "craic",
@@ -14712,13 +11373,7 @@
       "enclosure_length": "61631724",
       "itunes_duration": "01:04:10",
       "speakers": [
-        "Banna De Dha",
-        "Abby Green",
-        "Cady Finlayson",
-        "Heidi Jane",
-        "St Patrick",
-        "Serious Kitchen",
-        "Pandora Celtica",
+        "Best Celtic Dinner Music",
         "Marc Gunn"
       ],
       "topics": [
@@ -14741,13 +11396,7 @@
       "itunes_duration": "01:00:04",
       "speakers": [
         "Robert Burns Day",
-        "Don Grieve",
-        "Ed Miller",
-        "Marc Gunn",
-        "Carl Peterson",
-        "Sassanak Lassies",
-        "Merry Wives",
-        "Leah Jorgensen"
+        "Marc Gunn"
       ],
       "topics": [
         "burns",
@@ -14767,14 +11416,10 @@
       "enclosure_length": "57617147",
       "itunes_duration": "01:00:00",
       "speakers": [
-        "Bonnie Rideout",
-        "Maggie Rant",
-        "Corktown Popes",
-        "St Patrick",
-        "Marc Gunn",
-        "Concert Concert",
-        "Beth Patterson",
-        "Michael Liebmann"
+        "Celtic Music Kid",
+        "Irish Celtic",
+        "Black Market Haggis",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -14797,12 +11442,7 @@
       "speakers": [
         "Arlene Faith",
         "Patsy O'Brien",
-        "Jesse Ferguson",
-        "Jonathan Kershaw",
-        "Dubliner Harpers",
-        "Jed Marum",
-        "Colleen Raney",
-        "Tripping Down"
+        "Marc Gunn"
       ],
       "topics": [
         "faerie",
@@ -14821,10 +11461,7 @@
       "enclosure_length": "59554371",
       "itunes_duration": "01:02:01",
       "speakers": [
-        "Michael Black",
-        "Gothard Sisters",
-        "Ed Miller",
-        "Oran Arasaig",
+        "Celtic music",
         "Marc Gunn"
       ],
       "topics": [
@@ -14846,14 +11483,10 @@
       "enclosure_length": "59742796",
       "itunes_duration": "01:02:13",
       "speakers": [
-        "Gothard Sisters",
-        "John McGaha",
-        "Vince Conaway",
-        "Jim Flanagan",
-        "Bonnie Rideout",
-        "Liz Madden",
-        "Julia Lane",
-        "Golden Bough"
+        "Peaceful Celtic Christmas",
+        "Celtic Christmas",
+        "Silent Night",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas"
@@ -14871,14 +11504,10 @@
       "enclosure_length": "56662411",
       "itunes_duration": "59:01",
       "speakers": [
-        "Maggie Sansone",
-        "Bonnie Rideout",
-        "Golden Bough",
-        "Marc Gunn",
-        "Tom Morley",
-        "Eileen Ivers",
-        "Ross Crean",
-        "Merry Merry Time"
+        "Celtic Christmas Music",
+        "Celtic Christmas",
+        "Celtic Chri",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -14897,14 +11526,10 @@
       "enclosure_length": "60875472",
       "itunes_duration": "01:03:24",
       "speakers": [
-        "Brobdingnagian Bards",
-        "Merry Mischief",
-        "Nancy Daily-Green",
-        "Abby Green",
-        "Leah Jorgensen",
-        "Merry Wives",
-        "Lucy Cassidy",
-        "Cataloochee Kool"
+        "Celtic Music",
+        "Renaissance Festivals",
+        "Irish Celtic",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -14925,14 +11550,9 @@
       "enclosure_length": "117186734",
       "itunes_duration": "02:02:02",
       "speakers": [
-        "Mickey Coleman",
-        "Redhill Rats",
-        "Johnsons Motorcar",
-        "Mighty Ploughboy",
-        "Heidi Jane",
-        "Brendan Monaghan",
-        "Paisley Close",
-        "Angus Mohr"
+        "Celtic Rock Music",
+        "Celtic Rock",
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -14954,13 +11574,7 @@
       "itunes_duration": "01:07:51",
       "speakers": [
         "Emerald Rose",
-        "Julia Lane",
-        "Sean Orr",
-        "Beth Patterson Patrick O'Flaherty",
-        "Merry Wives",
-        "Laura McGhee",
-        "Gothard Sisters",
-        "Jenna Greene"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -14981,13 +11595,8 @@
       "itunes_duration": "01:03:23",
       "speakers": [
         "Welsh Bard",
-        "Gwilym Morus",
-        "Leah Jorgensen",
-        "Karen Mueller",
-        "Moch Pryderi",
-        "Mwnci Nel",
-        "Thomas Doc Grauzer",
-        "Shillelagh Law"
+        "Gwilym Mor",
+        "Marc Gunn"
       ],
       "topics": [
         "music",
@@ -15006,12 +11615,10 @@
       "enclosure_length": "142883032",
       "itunes_duration": "59:32",
       "speakers": [
-        "Ashley Davis",
-        "Ross Crean",
-        "Marc Gunn",
-        "Forgotten Dublin Mando",
-        "Mahatma Ghandi",
-        "James Connolly"
+        "Irish Celtic",
+        "Poor Man",
+        "Smithfield Fai",
+        "Marc Gunn"
       ],
       "topics": [
         "mermaid",
@@ -15033,12 +11640,7 @@
       "speakers": [
         "Mark Saul",
         "Icewagon Flu",
-        "Brian Boru Irish Pipe",
-        "Jonny Dyer",
-        "Jimi McRae",
-        "Sam Okoo",
-        "Bonnie Rideout",
-        "Stephen Types"
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -15058,14 +11660,8 @@
       "enclosure_length": "57644538",
       "itunes_duration": "01:00:02",
       "speakers": [
-        "John Williams Dean Magraw",
-        "Bedlam Bards",
-        "Jenneth Tolin",
-        "Marc Gunn",
-        "Karan Casey",
-        "Gary Hook",
-        "Jesse Ferguson",
-        "Witches Dance"
+        "John Williams",
+        "Marc Gunn"
       ],
       "topics": [
         "halloween",
@@ -15085,12 +11681,6 @@
       "itunes_duration": "59:53",
       "speakers": [
         "Steve Hawson",
-        "Maggie Sansone",
-        "Jesse Linder",
-        "Kyle Carey",
-        "Young Dubliners",
-        "Claire Roche",
-        "Kickstart Marc Gunn",
         "Marc Gunn"
       ],
       "topics": [
@@ -15111,10 +11701,10 @@
       "enclosure_length": "57482877",
       "itunes_duration": "59:52",
       "speakers": [
-        "Colm Seoighe",
-        "Sarah Dinan",
-        "Marc Gunn",
-        "Emerald Accents"
+        "Celtic Music",
+        "Irish Celtic",
+        "Emerald Accents",
+        "Marc Gunn"
       ],
       "topics": [
         "roisin",
@@ -15135,14 +11725,7 @@
       "enclosure_length": "57483976",
       "itunes_duration": "59:52",
       "speakers": [
-        "Banna De Dha",
-        "Catriona McKay",
-        "Jed Marum",
-        "Cady Finlayson",
-        "Marc Gunn",
-        "Tim Maurice",
-        "Gael Warning",
-        "David Roon"
+        "Marc Gunn"
       ],
       "topics": [
         "swan",
@@ -15165,11 +11748,7 @@
         "Gan Fidel",
         "Joe Derrane",
         "Jesse Ferguson",
-        "Ciara Considine",
-        "Brendan Monaghan",
-        "Brian Thomas",
-        "Marc Gunn",
-        "Kick Cancer"
+        "Marc Gunn"
       ],
       "topics": [
         "september",
@@ -15191,12 +11770,7 @@
       "speakers": [
         "Ed Miller",
         "Kyle Carey",
-        "Linda Relph",
-        "Wild Colonial Bhoys",
-        "Beth Patterson",
-        "Emerald Rose",
-        "Derek Young",
-        "Ken O'Malley"
+        "Marc Gunn"
       ],
       "topics": [
         "hour",
@@ -15216,14 +11790,7 @@
       "enclosure_length": "55136600",
       "itunes_duration": "57:24",
       "speakers": [
-        "Black Jack",
-        "Bob Conroy",
-        "Heather Dale",
-        "Bill Grogan",
-        "Marc Gunn",
-        "Kick Cancer",
-        "Black Jack Murphy",
-        "Knotty Tales"
+        "Marc Gunn"
       ],
       "topics": [
         "pirate"
@@ -15241,12 +11808,7 @@
       "enclosure_length": "62192784",
       "itunes_duration": "01:04:46",
       "speakers": [
-        "Abby Green",
-        "Bedlam Bards",
-        "Ashley Davis",
-        "Saxon Moon",
-        "Marc Gunn",
-        "Kick Cancer"
+        "Marc Gunn"
       ],
       "topics": [
         "sherwood",
@@ -15267,7 +11829,8 @@
       "enclosure_length": "72572313",
       "itunes_duration": "01:15:36",
       "speakers": [
-        "Bearded Irishmen",
+        "Irish Punk",
+        "Irish Celtic",
         "Marc Gunn"
       ],
       "topics": [
@@ -15288,12 +11851,7 @@
       "itunes_duration": "59:52",
       "speakers": [
         "Emerald Rose",
-        "Brobdingnagian Bards",
-        "Green Man",
-        "Marc Gunn",
-        "Maggie Lauder",
-        "Humans Walked",
-        "Top Shelf"
+        "Marc Gunn"
       ],
       "topics": [
         "drunken",
@@ -15313,12 +11871,7 @@
       "itunes_duration": "59:55",
       "speakers": [
         "Ed Miller",
-        "Sheridan Band",
-        "Marc Gunn",
-        "Canu Cwnsela Pwnco",
-        "Come Awa",
-        "Voicemail Tippin",
-        "Donald MacGillavry"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -15337,8 +11890,6 @@
       "enclosure_length": "44931230",
       "itunes_duration": "46:48",
       "speakers": [
-        "Marc Gunn Jamie Haeuser",
-        "Ais Vis Lo Lop",
         "Marc Gunn"
       ],
       "topics": [
@@ -15362,12 +11913,7 @@
       "speakers": [
         "Sarah Marie Mullen",
         "Merry Wives",
-        "Colleen Raney",
-        "Martyn Wylde",
-        "Ken O'Malley",
-        "Ashley Davis",
-        "Paisley Close",
-        "Moya Brennan"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -15389,12 +11935,7 @@
       "speakers": [
         "Jonathan Milton",
         "Melanie Gruben",
-        "Jed Marum",
-        "Ginger Ackley",
-        "Brobdingnagian Bards",
-        "Randy Cat",
-        "Molly Bauckham",
-        "Bonnie Green"
+        "Marc Gunn"
       ],
       "topics": [
         "postcard",
@@ -15414,14 +11955,7 @@
       "enclosure_length": "57422028",
       "itunes_duration": "59:48",
       "speakers": [
-        "John Byrne Band",
-        "James Scott Skinner",
-        "Heather Gilmer",
-        "Jeff Moore",
-        "Adam Beattie",
-        "Maggie Lauder",
-        "Laird O'Thrums",
-        "Gavin M'Millan"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -15443,12 +11977,7 @@
       "speakers": [
         "Linda Relph",
         "Bonhomme Setter",
-        "David Nigel Lloyd",
-        "Francesca Fabris",
-        "Cady Finlayson",
-        "Marc Gunn",
-        "Concert Window",
-        "Heather Gilmer"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -15469,10 +11998,6 @@
       "itunes_duration": "01:00:05",
       "speakers": [
         "Karen Mal",
-        "David Roon",
-        "Scott Hoye",
-        "Anne Roos",
-        "Jennifer Licko Shelton",
         "Marc Gunn"
       ],
       "topics": [
@@ -15494,13 +12019,7 @@
       "itunes_duration": "59:54",
       "speakers": [
         "Marc Gunn Jamie Haeuser",
-        "Tim Maurice",
-        "Jim Brannigan",
-        "Seamus Kennedy",
-        "Christiane Cargill",
-        "David Hum",
-        "Icewagon Flu",
-        "Bill Grogan"
+        "Marc Gunn"
       ],
       "topics": [
         "homesick",
@@ -15522,10 +12041,7 @@
       "itunes_duration": "59:53",
       "speakers": [
         "Boston Blackthorne",
-        "Marc Gunn",
-        "Kerry Park",
-        "Dick Gossip",
-        "Beer Belly"
+        "Marc Gunn"
       ],
       "topics": [
         "workout",
@@ -15548,10 +12064,6 @@
       "speakers": [
         "Cady Finlayson",
         "Emerald Rose",
-        "Dan Ar Braz",
-        "Kilmaine Saints",
-        "Mary Come",
-        "Donald McGillivray",
         "Marc Gunn"
       ],
       "topics": [
@@ -15574,11 +12086,7 @@
         "Mist Covered Mountains",
         "Jamie Smith",
         "Colin Farrell",
-        "Hugh Morrison",
-        "Candace Corrigan",
-        "Marc Gunn",
-        "Eleanor Plunkett",
-        "O'Carolan Songwriter"
+        "Marc Gunn"
       ],
       "topics": [
         "mist",
@@ -15602,11 +12110,8 @@
         "Farewell Whisky",
         "Julia Lane",
         "Wicked Tinkers",
-        "Ceol Gan Achar",
-        "Paisley Close",
-        "Marc Gunn",
-        "Whisky Supper",
-        "Green Tea"
+        "Ceol Gan Ach",
+        "Marc Gunn"
       ],
       "topics": [
         "farewell",
@@ -15630,10 +12135,7 @@
         "Ashley Davis",
         "Tania Opland",
         "Adam Beattie",
-        "Jonny Dyer",
-        "Banna de Dha",
-        "Marc Gunn",
-        "Jimi McRae"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -15654,9 +12156,6 @@
       "itunes_duration": "59:52",
       "speakers": [
         "Telenn Tri",
-        "Cheeks Miller",
-        "Brian Boru",
-        "Billy McConnell",
         "Marc Gunn"
       ],
       "topics": [
@@ -15680,11 +12179,7 @@
         "Michael Albert",
         "Henry Lebedinsky",
         "Adam Beattie",
-        "James Olin Oden",
-        "Martyn Wylde",
-        "Sligo Rags",
-        "Jack Talty",
-        "Gougane Barra"
+        "Marc Gunn"
       ],
       "topics": [
         "gates",
@@ -15706,12 +12201,7 @@
       "speakers": [
         "Great St Patrick",
         "Jimi McRae",
-        "Jonathan Ramsey",
-        "Marc Gunn Jamie Haeuser",
-        "de dha",
-        "Jamie Laval",
-        "Ashley Broder",
-        "Maggie Drennon"
+        "Marc Gunn"
       ],
       "topics": [
         "great",
@@ -15733,14 +12223,10 @@
       "enclosure_length": "66970820",
       "itunes_duration": "01:09:45",
       "speakers": [
-        "Gwilym Morus",
-        "Kevin McCormack",
-        "Gothard Sisters",
-        "Jack Carey",
-        "Jonny Dyer",
-        "Telenn Tri",
-        "Marc Gunn",
-        "Heather Dale"
+        "Free St Patrick",
+        "Day Music Playlist",
+        "Irish Celtic",
+        "Marc Gunn"
       ],
       "topics": [
         "free",
@@ -15763,12 +12249,7 @@
       "speakers": [
         "Gael Warning",
         "Gothard Sisters",
-        "Brobdingnagian Bards",
-        "Bilge Pumps",
-        "Jed Marum",
-        "Marc Gunn",
-        "Jack Talty",
-        "Gougane Barra"
+        "Marc Gunn"
       ],
       "topics": [
         "best",
@@ -15790,13 +12271,7 @@
       "itunes_duration": "59:11",
       "speakers": [
         "Brendan Monaghan",
-        "Jack Talty",
-        "Gougane Barra",
-        "Blarney Castle",
-        "Song Henge",
-        "St Patrick",
-        "Celtophilia Tee Company",
-        "St Brendan"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -15817,11 +12292,7 @@
       "speakers": [
         "Brian Hebert",
         "Chris Digby",
-        "BlackEyed Dempseys",
-        "Jasper Coal",
-        "Vintage Wine",
-        "Marc Gunn",
-        "Jamie Raeburn"
+        "Marc Gunn"
       ],
       "topics": [
         "brilliant",
@@ -15845,10 +12316,7 @@
         "Jonny Dyer",
         "Cu Dubh",
         "James Olin Oden",
-        "Jesse Ferguson",
-        "Chrissy Crowley",
-        "Martyn Wylde",
-        "Brendan Monaghan",
+        "Jesse Fergu",
         "Marc Gunn"
       ],
       "topics": [
@@ -15874,9 +12342,7 @@
         "George Papavgeris",
         "Tom Morley",
         "Jed Marum",
-        "Marc Gunn",
-        "Boston Blackthorne",
-        "Brobdingnagian Bards"
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -15895,14 +12361,11 @@
       "enclosure_length": "56774716",
       "itunes_duration": "59:08",
       "speakers": [
-        "Hank Cramer",
-        "Gothard Sisters",
-        "Bowi Band",
-        "Erin McNamee",
-        "Ockham’s Razor",
-        "Marc Gunn",
-        "Buchan Bluegrass",
-        "Top Shelf Heather"
+        "West Coast Celtic Music",
+        "West Coast Irish Celtic",
+        "Stout Pounders",
+        "Derek Warfield",
+        "Marc Gunn"
       ],
       "topics": [
         "west",
@@ -15925,12 +12388,7 @@
       "speakers": [
         "Nancy Daily-Green",
         "Maggie Sansone",
-        "Marc Gunn",
-        "Anne Roos",
-        "James Olin Oden",
-        "Merry Wives",
-        "Gan Fidel",
-        "Green Man"
+        "Marc Gunn"
       ],
       "topics": [
         "halloween"
@@ -15949,12 +12407,6 @@
       "itunes_duration": "59:56",
       "speakers": [
         "David Nigel Lloyd",
-        "Full Gael",
-        "Jack Carey",
-        "Cady Finlayson",
-        "La Unica",
-        "Jasper Coal",
-        "Scott Hoye",
         "Marc Gunn"
       ],
       "topics": [
@@ -15976,11 +12428,7 @@
       "itunes_duration": "59:56",
       "speakers": [
         "Jonny Dyer",
-        "Gael Warning",
-        "Seamus Kennedy",
-        "Marc Gunn",
-        "de dhá",
-        "Don Grieve"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick"
@@ -15998,14 +12446,7 @@
       "enclosure_length": "83115413",
       "itunes_duration": "01:26:34",
       "speakers": [
-        "Brobdingnagian Bards",
-        "Coole Park",
-        "Martyn Wylde",
-        "Staggering Jack",
-        "Sarah Marie Mullen",
-        "Kevin McCormack",
-        "La Unica",
-        "Mrs McLean"
+        "Marc Gunn"
       ],
       "topics": [
         "summer"
@@ -16024,13 +12465,7 @@
       "itunes_duration": "01:40:56",
       "speakers": [
         "Marc Gunn",
-        "Gerry O’Beirne Rosie Shipley",
-        "Gothard Sisters",
-        "Ken O’Malley",
-        "Gillian Boucher",
-        "Coole Park",
-        "Maarten Roos",
-        "Bad Haggis"
+        "Gerry O’Beirne Rosie Shipley"
       ],
       "topics": [
         "song",
@@ -16052,9 +12487,7 @@
       "speakers": [
         "Buzz Turner",
         "Jed Marum",
-        "Marc Gunn",
-        "Beer Belly",
-        "Top Shelf"
+        "Marc Gunn"
       ],
       "topics": [
         "banish",
@@ -16078,12 +12511,7 @@
       "speakers": [
         "Bagpipes Rock",
         "Jesse Ferguson",
-        "Ed Yother",
-        "Brendan Loughrey",
-        "Jonny Dyer",
-        "Song Henge",
-        "Marc Gunn’s Kickstarter",
-        "Culann’s Hounds"
+        "Marc Gunn"
       ],
       "topics": [
         "bagpipes",
@@ -16104,12 +12532,7 @@
       "speakers": [
         "Duncan Ross Cameron",
         "Allyson Adair",
-        "Anne Roos",
-        "Amelia Hogan",
-        "Angus Mohr",
-        "Mimi Burns Band",
-        "Marc Gunn",
-        "Reid’s Maid"
+        "Marc Gunn"
       ],
       "topics": [
         "thursday",
@@ -16130,13 +12553,7 @@
       "itunes_duration": "01:13:35",
       "speakers": [
         "St Patrick",
-        "Beth Patterson",
-        "Patrick O’Flaherty",
-        "Dave Hum",
-        "Brendan Loughrey",
-        "Marc Gunn",
-        "Staggering Jack",
-        "Jasper Coal"
+        "Marc Gunn"
       ],
       "topics": [
         "best",
@@ -16157,13 +12574,7 @@
       "itunes_duration": "01:26:51",
       "speakers": [
         "St Patrick’s Day",
-        "Brobdingnagian Bards",
-        "Peter Daldry",
-        "Vintage Wildflowers",
-        "Hayley Griffith",
-        "Tim Maurice",
-        "Susan Kidney",
-        "Donna Germano"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -16185,12 +12596,7 @@
       "speakers": [
         "St Patrick’s Day",
         "Duncan Ross Cameron",
-        "Jonny Dyer",
-        "Ed Yother",
-        "Shamrock Orchestra",
-        "Beerside Scoundrels",
-        "Slides Ger",
-        "Sweet Dublin"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -16211,12 +12617,7 @@
       "speakers": [
         "Athena Tergis",
         "Colleen Raney",
-        "Moira Nelson",
-        "Ciara Considine",
-        "Merry Wives",
-        "Jed Marum",
-        "Valentine’s Day Special",
-        "Valentine’s Day"
+        "Marc Gunn"
       ],
       "topics": [
         "love"
@@ -16236,12 +12637,7 @@
       "speakers": [
         "Beth Patterson",
         "Patrick O’Flaherty",
-        "Jesse Ferguson",
-        "Marc Gunn",
-        "Caledonia Swing",
-        "Coole Park",
-        "Heather Dale",
-        "Diana Gabaldon’s Outlander"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -16261,14 +12657,10 @@
       "enclosure_length": "79671459",
       "itunes_duration": "01:22:58",
       "speakers": [
-        "Brobdingnagian Bards",
-        "Peter Daldry",
-        "Vintage Wildflowers",
-        "Hayley Griffith",
-        "Tim Maurice",
-        "Susan Kidney",
-        "Donna Germano",
-        "Ockham’s Razor"
+        "Best Celtic Music",
+        "Best Irish Celtic",
+        "Colleen Raney",
+        "Marc Gunn"
       ],
       "topics": [
         "best",
@@ -16289,12 +12681,7 @@
       "speakers": [
         "Heather Gilmer",
         "Jeff Moore",
-        "Sean Orr",
-        "Patrick Clifford",
-        "Brobdingnagian Bards",
-        "Marc Gunn",
-        "Samantha Gillogly",
-        "Maidens IV"
+        "Marc Gunn"
       ],
       "topics": [
         "hobbit",
@@ -16316,12 +12703,8 @@
       "speakers": [
         "Laura McGhee",
         "Dave Hum",
-        "Ginger Ackley",
-        "Tim Maurice",
-        "Angus Mohr",
-        "Marc Gunn",
-        "Randy Wothke",
-        "Andy Renwick"
+        "Ginger Ack",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16348,13 +12731,7 @@
       "itunes_duration": "59:42",
       "speakers": [
         "Peter Daldry",
-        "Paul Carroll",
-        "Leah Jorgensen",
-        "Merry Wives",
-        "Dave Hum",
-        "Angus Mohr",
-        "Marc Gunn",
-        "Leaving Plevna"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16381,11 +12758,7 @@
         "Colleen Raney",
         "Tania Opland",
         "Mike Freeman",
-        "Leah Jorgensen",
-        "Sgian Dubh",
-        "Gillian Boucher",
-        "Ed Miller",
-        "Squinting Patrick"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16414,12 +12787,7 @@
       "speakers": [
         "Steven Hawson",
         "Scott Hoye",
-        "Paul Carroll",
-        "Shamus Begley",
-        "Marc Gunn",
-        "Leaving Plevna",
-        "Aaron’s Quay",
-        "My Bonnie Jean"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16443,9 +12811,7 @@
       "enclosure_length": "54161286",
       "itunes_duration": "56:25",
       "speakers": [
-        "Marc Gunn",
-        "Peter Jackson",
-        "Song Bilbo"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -16468,11 +12834,7 @@
         "Vintage Wildflowers",
         "Allison Barber",
         "Claire Roche",
-        "Ken O’Malley",
-        "Seamus Stout",
-        "Fionnuala Sherry",
-        "Tuatha Dea",
-        "Jennifer Johnson"
+        "Marc Gunn"
       ],
       "topics": [
         "gone",
@@ -16499,9 +12861,6 @@
       "itunes_duration": "59:56",
       "speakers": [
         "Scott Hoye",
-        "Tara Hill",
-        "Murray McDowell",
-        "Emerald Rose",
         "Marc Gunn"
       ],
       "topics": [
@@ -16527,12 +12886,7 @@
       "itunes_duration": "56:54",
       "speakers": [
         "Bill Grogan",
-        "Marc Gunn",
-        "Tara’s Fire",
-        "Bill Grogan’s Goat",
-        "Rie Sheridan",
-        "Rie Sheridan Rose",
-        "Danny Boy"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16562,11 +12916,8 @@
         "Brian Thomas",
         "Steve Hawson",
         "Ceol Gan Achar",
-        "Doug Folkins",
-        "Pog Mo Thon",
-        "Rie Sheridan",
-        "Rie Sheridan Rose",
-        "Tara Hill"
+        "Doug Folki",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16594,12 +12945,7 @@
       "speakers": [
         "Derek Warfield",
         "Iarla O'Lionaird",
-        "Mickey Coleman",
-        "Noel Nash",
-        "Danny O’Flaherty",
-        "Merry Wives",
-        "Leah Jorgensen",
-        "Ed Miller"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16626,11 +12972,6 @@
       "speakers": [
         "George Murphy",
         "Hugh Morrison",
-        "Rie Sheridan",
-        "Rie Sheridan Rose",
-        "Nancy FLynn",
-        "Rüdiger Reinhardt",
-        "Tam Lin",
         "Marc Gunn"
       ],
       "topics": [
@@ -16653,11 +12994,7 @@
         "Oisin McAuley",
         "Susan Kidney",
         "Donna Germano",
-        "Ed Miller",
-        "Canned Haggis",
-        "Rie Sheridan",
-        "Rie Sheridan Rose",
-        "Oisín McAuley"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16681,11 +13018,7 @@
         "St Patrick",
         "Sean Orr",
         "Jesse Ferguson",
-        "Marc Gunn",
-        "Leah Jorgenson",
-        "Danny O’Flaherty",
-        "Noel Nash",
-        "Vintage Wildflowers"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -16710,9 +13043,7 @@
         "Jimi McRae Sam Okoo",
         "Jonny Dyer",
         "Heather Alexander",
-        "Keith Hinchliffe",
-        "Molly Bauckham",
-        "Gaelic Storm"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -16735,11 +13066,7 @@
         "Jonny Dyer",
         "Dun Aengus",
         "Tim Maurice",
-        "Cod Gone Wild",
-        "Marc Gunn",
-        "Fiona Explores",
-        "Brian Boru",
-        "Story Girl"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16761,13 +13088,7 @@
       "itunes_duration": "57:43",
       "speakers": [
         "Robert Doyle",
-        "Moira Nelson",
-        "Hayley Griffith",
-        "Sgian Dubh",
-        "Fionnuala Sherry",
-        "Jenne Lennon",
-        "Marc Gunn",
-        "Caterina Franscesca"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16791,12 +13112,8 @@
       "speakers": [
         "Brian Boru",
         "Tania Opland",
-        "Jesse Ferguson",
-        "Ricky Fitzpatrick",
-        "Hayley Griffith",
-        "Beer Belly",
-        "Marc Gunn",
-        "Lonely Mountain Band"
+        "Jesse Fergus",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16820,11 +13137,7 @@
         "Sligo Rags",
         "Keith Hinchliffe",
         "Maggie Drennon",
-        "Rising Gael",
-        "Heather Alexander",
-        "Jonny Dyer",
-        "Colin Farrell",
-        "Molly Bauckham"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16850,10 +13163,7 @@
         "Jed Marum",
         "Pandora Celtica",
         "Heather Dale",
-        "Marc Gunn",
-        "Coyote Run",
-        "George Papavgeris",
-        "Moya Brennan"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16877,12 +13187,7 @@
       "speakers": [
         "Boston Blackthorne",
         "Shamrock Orchestra",
-        "Maidens IV Brizeus",
-        "Vintage Wildflowers",
-        "Sheridan Band",
-        "Shillelagh Jack",
-        "James Olin Oden",
-        "Gift Pack"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16913,9 +13218,7 @@
         "Samantha Gillogly",
         "Jimi McRae",
         "Molly Bauckham",
-        "Kathy Barwick",
-        "George Murphy",
-        "Hunting McLeod"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16943,12 +13246,7 @@
       "speakers": [
         "Michael Black Music",
         "Michael Black",
-        "Colleen Raney",
-        "Marc Gunn",
-        "Vintage Wildflowers",
-        "Bill Grogan",
-        "Icewagon Flu",
-        "Gerry O'Beirne"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -16979,10 +13277,7 @@
         "Terry Griffith",
         "Green Man Music",
         "Alison Nolan",
-        "Brobdingnagian Bards",
-        "Boston Blackthorne",
-        "Redhill Rats",
-        "Green Tea"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17011,12 +13306,7 @@
       "speakers": [
         "Keith Hinchliffe",
         "Dun Aengus",
-        "Ed Miller",
-        "Mary Behan Miller",
-        "Marc Gunn",
-        "Beth Patterson",
-        "Caber Toss",
-        "Tommy Coen"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17047,8 +13337,6 @@
         "Abby Green",
         "Beer Belly",
         "Jonny Dyer",
-        "Vintage Wildflowers",
-        "Bill Grogan",
         "Marc Gunn"
       ],
       "topics": [
@@ -17080,10 +13368,7 @@
         "Ciara Considine",
         "Danny Carthy Music",
         "Colleen Raney",
-        "Jimi McRae",
-        "Danny Carthy",
-        "John McGaha",
-        "Laura McGhee"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17115,9 +13400,7 @@
         "Dan Milner",
         "Gerry O'Beirne",
         "Rosie Shipley",
-        "Maggie Drennon",
-        "Marc Gunn",
-        "Brobdingnagian Bards"
+        "Marc Gunn"
       ],
       "topics": [
         "happy",
@@ -17145,11 +13428,8 @@
         "Seamus Stout",
         "Hugh Morrison",
         "Jed Marum",
-        "Don Gabbert",
-        "Marc Gunn",
-        "Ed Miller",
-        "Ray MacDonald",
-        "Rigs O'Barley"
+        "Don Gab",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17176,13 +13456,10 @@
       "enclosure_length": "62867432",
       "itunes_duration": "01:05:29",
       "speakers": [
-        "Jillian LaDage",
-        "Sarah Dinan",
-        "Emerald Rose",
-        "Sheridan Band",
-        "Jimi McRae",
-        "Sam Okoo",
-        "George Papavgeris",
+        "Irish Celtic Music",
+        "Rambling Sailors Music",
+        "Burning Bridget Cleary",
+        "Rambling Sailors",
         "Marc Gunn"
       ],
       "topics": [
@@ -17210,10 +13487,6 @@
       "itunes_duration": "59:16",
       "speakers": [
         "Jonny Dyer",
-        "Heather Alexander",
-        "Jimmy Keefe",
-        "Josie McDermott",
-        "Rootsy Folky",
         "Marc Gunn"
       ],
       "topics": [
@@ -17238,11 +13511,7 @@
         "Jasper Coal",
         "Dun Aengus",
         "Jonny Dyer",
-        "Marc Gunn",
-        "Jim Brannigan",
-        "Abby Green",
-        "John Byrne Band",
-        "Jack Montgomery"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -17272,10 +13541,7 @@
         "Heidi Talbot",
         "Merry Wives",
         "Locklin Road",
-        "Anne Roos",
-        "Anton Emery",
-        "Jonny Dyer",
-        "Holly Kirby"
+        "Marc Gunn"
       ],
       "topics": [
         "artists",
@@ -17303,12 +13569,7 @@
       "speakers": [
         "Gillian Boucher",
         "Brendan Monaghan",
-        "Jerry McLean",
-        "Marc Gunn",
-        "Brobdingnagian Bards",
-        "Mary Come",
-        "Jeannie Waldie",
-        "Joe Cooley"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17336,12 +13597,7 @@
       "speakers": [
         "David Roon",
         "Arlene Faith",
-        "Patrick Clifford",
-        "Sara Hillis",
-        "Kilmaine Saints",
-        "com Sponsor",
-        "Marc Gunn",
-        "Patrick Halloran"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17368,11 +13624,7 @@
       "speakers": [
         "Sligo Rags",
         "Jim Brannigan",
-        "John Byrne Band",
-        "Ballymun Bootboys",
-        "Keith Hinchliffe",
-        "Marc Gunn",
-        "Martin Mulvihill"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17400,11 +13652,7 @@
         "Gaelic Storm",
         "Marc Gunn",
         "Merry Wives",
-        "Anne Roos",
-        "Holly Kirby",
-        "Heidi Talbot",
-        "Anton Emery",
-        "Sligo Rags"
+        "Anne Roos"
       ],
       "topics": [
         "music",
@@ -17429,12 +13677,7 @@
       "speakers": [
         "Don Grieve",
         "Angus Mohr",
-        "Samantha Gillogly",
-        "Brobdingnagian Bards",
-        "Boston Blackthorne",
-        "Jennifer Grassman",
-        "Ron Cody",
-        "Oona McOuat"
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -17462,11 +13705,7 @@
       "speakers": [
         "Tommy Sands",
         "Eileen Ivers",
-        "Wicked Tinkers",
-        "Locklin Road",
-        "Marc Gunn",
-        "Nancy Daily Green",
-        "Fred Gosbee"
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -17494,10 +13733,7 @@
         "Brad Reid",
         "Sligo Rags",
         "Claire Roche",
-        "Brobdingnagian Bards",
-        "Angus Mohr",
-        "Myth Podshow St Patrick",
-        "Serious Kitchen"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17523,9 +13759,9 @@
       "enclosure_length": "69083835",
       "itunes_duration": "01:11:57",
       "speakers": [
-        "Marc Gunn Celtic",
-        "Kan Bale",
-        "Lída Lidunka",
+        "Celtic Music Feature",
+        "Jiggery Pokery",
+        "Celtic Invasion Vacations Wouldn",
         "Marc Gunn"
       ],
       "topics": [
@@ -17554,10 +13790,6 @@
         "Heather Dale",
         "Grey Aengus",
         "Jasper Coal",
-        "Serious Kitchen",
-        "David Nigel Lloyd",
-        "John McLean Allan",
-        "Angus Mohr",
         "Marc Gunn"
       ],
       "topics": [
@@ -17582,7 +13814,6 @@
       "itunes_duration": "01:05:41",
       "speakers": [
         "Jed Marum",
-        "Drill Ye Tarriers",
         "Marc Gunn"
       ],
       "topics": [
@@ -17608,12 +13839,7 @@
       "speakers": [
         "Michael William Harrison",
         "Jim Clarke Granny",
-        "Nancy Daily-Green",
-        "James Raynard",
-        "Ann Sannat",
-        "Jasper Coal",
-        "Locklin Road",
-        "St Patrick"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17639,10 +13865,7 @@
         "Doug Folkins",
         "Locklin Road",
         "Jenna Greene",
-        "Avalon Spirit",
-        "Hugh Morrison",
-        "Marc Gunn",
-        "St Patrick"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17666,11 +13889,7 @@
         "Jimi McRae",
         "Dublin O'Shea",
         "Sheridan Band",
-        "Liz Madden",
-        "Seamus Stout",
-        "Anton Emery",
-        "Marc Gunn",
-        "Demand Marc Gunn"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17696,9 +13915,7 @@
         "Don Grieve",
         "Beer Belly",
         "Marc Gunn",
-        "Gaelic Storm",
-        "Brendan O'Loughlin",
-        "Hugh Morrison"
+        "Gaelic Storm"
       ],
       "topics": [
         "right"
@@ -17720,10 +13937,7 @@
         "Jonny Dyer",
         "Gerard Smith",
         "David Nigel Lloyd",
-        "Liam Griffin",
-        "Bill Grogan",
-        "Merry Wives",
-        "Peter Gavin"
+        "Marc Gunn"
       ],
       "topics": [
         "jenny",
@@ -17747,9 +13961,7 @@
         "Heather Dale",
         "Maidens IV",
         "Linda Connell Studley",
-        "Diane Linn",
-        "Anne Roos",
-        "Heidi Talbot"
+        "Marc Gunn"
       ],
       "topics": [
         "women"
@@ -17769,12 +13981,7 @@
       "speakers": [
         "Hank Cramer",
         "Anne Roos",
-        "Rising Gael",
-        "Merry Wives",
-        "Holly Kirby",
-        "Yellow Jack",
-        "Bad Haggis",
-        "La Ta Tee Da"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17796,11 +14003,7 @@
       "speakers": [
         "Dark Patrick",
         "David Nigel Lloyd",
-        "Marc Gunn",
-        "Holly Kirby",
-        "Brendan O'Loughlin",
-        "Fainne Gael",
-        "Deep Dark"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic082mp3"
@@ -17818,9 +14021,7 @@
       "enclosure_length": "41231856",
       "itunes_duration": "42:56",
       "speakers": [
-        "Marc Gunn",
-        "Johnny Jump",
-        "Til Dawn"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17845,12 +14046,7 @@
       "speakers": [
         "Luke Daniels",
         "Cady Finlayson Vita Tanga",
-        "Gothard Sisters",
-        "Daphne Quigley-Freund",
-        "Tom Bradfish",
-        "David Nigel Lloyd",
-        "Marc Gunn",
-        "Bridget O'Malley"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic081mp3"
@@ -17873,9 +14069,7 @@
         "Jacqui McCarthy",
         "Jonny Dyer",
         "Claire Roche",
-        "Ed Miller",
-        "Grey Aengus",
-        "Hank Cramer"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -17898,12 +14092,7 @@
       "speakers": [
         "Daphne Quigley-Freund",
         "Tom Bradfish",
-        "Brad Reid",
-        "Marc Gunn",
-        "Luke Daniels",
-        "John McGaha",
-        "Anne Roos",
-        "St Patrick"
+        "Marc Gunn"
       ],
       "topics": [
         "free",
@@ -17926,13 +14115,7 @@
       "itunes_duration": "01:13:27",
       "speakers": [
         "Full Gael",
-        "Brobdingnagian Bards",
-        "Hugh Morrison",
-        "Anne Roos",
-        "Gan Fidel",
-        "Ali MacGregor",
-        "Gan Fidel Si Bheag",
-        "Bad Haggis"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -17959,11 +14142,7 @@
         "Robert Burns",
         "Con Durham",
         "Don Gabbert",
-        "Ed Miller",
-        "Icewagon Flu",
-        "Char Butler",
-        "Blarney Rebel Band",
-        "Marc Gunn Shows"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -17986,13 +14165,7 @@
       "itunes_duration": "01:34:06",
       "speakers": [
         "String Band",
-        "Maidens IV",
-        "Ron Cody",
-        "Song Henge",
-        "Emerald Fire",
-        "Lavendar Blue",
-        "Vicki Swan",
-        "Jonny Dyer"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -18017,13 +14190,7 @@
       "itunes_duration": "01:12:23",
       "speakers": [
         "Song Henge",
-        "Marc Gunn",
-        "Emerald Rose",
-        "Con Durham",
-        "Peggy Gordon",
-        "Paddy Keys",
-        "Se Si Hi",
-        "Dom Duff"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic074mp3"
@@ -18046,9 +14213,8 @@
         "Tania Opland",
         "Vince Conaway",
         "Julia Lane",
-        "Seamus Kennedy",
-        "Maidens Iii",
-        "Kevin Behan"
+        "Seamus Ke",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -18074,14 +14240,7 @@
       "enclosure_length": "75903659",
       "itunes_duration": "01:19:03",
       "speakers": [
-        "Scott Boswell",
-        "Dom Duff",
-        "Rising Gael",
-        "Franco Bordoni",
-        "Vicki Swan",
-        "Johnny Dyer",
-        "Marc Gunn",
-        "Terry Griffith"
+        "Marc Gunn"
       ],
       "topics": [
         "halloween",
@@ -18105,13 +14264,7 @@
       "itunes_duration": "01:08:11",
       "speakers": [
         "Song Henge",
-        "Marc Gunn",
-        "Anne Rice",
-        "Dick Gossip",
-        "Beer Belly",
-        "Adam Alexander",
-        "Joe Travers",
-        "Leprechaun Water"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic072mp3"
@@ -18130,13 +14283,7 @@
       "itunes_duration": "01:02:18",
       "speakers": [
         "Cady Finlayson",
-        "Emerald Rose",
-        "Song Henge",
-        "Marc Gunn",
-        "Twitter Marc Gunn",
-        "Dick Gossip",
-        "Beer Belly",
-        "Sam Hall"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18159,12 +14306,7 @@
       "speakers": [
         "Jonny Dyer",
         "Cady Finlayson",
-        "Marc Gunn",
-        "Nancy Daily-Green",
-        "Adam Alexander",
-        "Joe Travers",
-        "Heather Dale",
-        "Tullamore Brought"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18187,12 +14329,7 @@
       "speakers": [
         "Hugh Morrison",
         "Jed Marum",
-        "Marc Gunn",
-        "Ed Miller",
-        "Don Gabbert",
-        "com Brought",
-        "Song Henge",
-        "Marc Gunn Post"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -18215,14 +14352,7 @@
       "enclosure_length": "55684047",
       "itunes_duration": "58:00",
       "speakers": [
-        "Madd Paddy",
-        "Ceili Moss",
-        "Squall Brought",
-        "Song Henge",
-        "Marc Gunn",
-        "Laurel Thomsen",
-        "Ed Miller",
-        "Beth Patterson"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18261,14 +14391,8 @@
       "enclosure_length": "63082254",
       "itunes_duration": "01:05:42",
       "speakers": [
-        "Marc Gunn",
-        "Marc Gunn Celtic",
-        "Merry Measure",
-        "Ron Cody",
-        "Ed Miller",
-        "Jillian LaDage",
-        "Sleepy Maggie",
-        "Beth Patterson"
+        "Celtic Invasion Vacations",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18291,12 +14415,7 @@
       "speakers": [
         "Sligo Rags",
         "Hugh Morrison",
-        "Anne Roos",
-        "Beth Patterson",
-        "Jesse Ferguson",
-        "Jamie Laval",
-        "Ashley Broder",
-        "Maidens IV"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -18323,12 +14442,7 @@
       "speakers": [
         "Jed Marum",
         "Hugh Morrison",
-        "Brian Hebert",
-        "Mactalla Mor",
-        "Marc Gunn",
-        "Henk Hopman",
-        "Mick Moloney",
-        "Waywood Folk"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -18349,13 +14463,7 @@
       "itunes_duration": "56:31",
       "speakers": [
         "Song Henge",
-        "Marc Gunn",
-        "Mardi Gras",
-        "Henry Martin",
-        "John O'Dreams",
-        "Ron Cody",
-        "Jenny O'Farrell",
-        "Jim Abel"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18377,13 +14485,7 @@
       "itunes_duration": "01:03:25",
       "speakers": [
         "Song Henge",
-        "Marc Gunn",
-        "Jim Rowlands",
-        "Jesse Ferguson",
-        "Heidi Jane",
-        "Hunting McLeod",
-        "Heather Alexander",
-        "Dunje Rajke Druske"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18407,11 +14509,7 @@
         "Heather Alexander",
         "Jamie Laval",
         "Ashley Broder",
-        "Tara MacKenzie",
-        "Anne Roos",
-        "Brobdingnagian Bards",
-        "Merry Wives",
-        "com Underwriting"
+        "Marc Gunn"
       ],
       "topics": [
         "best",
@@ -18433,13 +14531,7 @@
       "itunes_duration": "58:14",
       "speakers": [
         "Jed Marum",
-        "Alison Brown",
-        "Samantha Gillogly",
-        "Marc Gunn",
-        "Seamus Kennedy",
-        "Eileen Ivers",
-        "Coyote Run",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -18461,12 +14553,7 @@
       "speakers": [
         "Merry Mischief",
         "Jacie McConnell",
-        "Raymond McCullough",
-        "Angus Mohr",
-        "Merry Wives",
-        "Song Henge",
-        "Stingy Jack",
-        "Sligo Rags"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18490,11 +14577,7 @@
         "Steve Holloway",
         "Maidens IV",
         "Merry Wives",
-        "Sligo Rags",
-        "Widening Gyre",
-        "Pog Mo Thon",
-        "Mark Saul Brought",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18515,10 +14598,7 @@
       "enclosure_length": "13299673",
       "itunes_duration": "13:30",
       "speakers": [
-        "Jennifer Licko",
-        "Chuan Domh",
-        "Marc Gunn",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "gaelic",
@@ -18537,13 +14617,6 @@
       "enclosure_length": "61042964",
       "itunes_duration": "01:03:35",
       "speakers": [
-        "Thomas Patrick Kenny",
-        "Jim Brannigan",
-        "Scott Boswell",
-        "Nick Hennessey",
-        "Mark Saul",
-        "Siochain Brought",
-        "Song Henge",
         "Marc Gunn"
       ],
       "topics": [
@@ -18563,13 +14636,7 @@
       "itunes_duration": "01:01:38",
       "speakers": [
         "Song Henge",
-        "Heather Dale",
-        "Angus Mohr",
-        "Laughing Got",
-        "Roger Drawdy",
-        "Raymond McCullough",
-        "Anne Roos",
-        "Ciara Considine"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18591,13 +14658,7 @@
       "itunes_duration": "01:03:41",
       "speakers": [
         "Song Henge",
-        "Beer Belly",
-        "Annie Laurie",
-        "Anne Roos",
-        "Heather Dale",
-        "Loch Lomond",
-        "Jesse Ferguson",
-        "Tara MacKenzie"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic055mp3"
@@ -18615,14 +14676,8 @@
       "enclosure_length": "62827087",
       "itunes_duration": "01:05:26",
       "speakers": [
-        "Tara MacKenzie",
-        "Jesse Ferguson",
-        "Ciara Considine",
-        "Ruth Smith",
-        "Kara Manke",
-        "Beer Belly",
-        "Kevin Tyler",
-        "Keltoi Anam"
+        "Year Anniversary Underwriting",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18646,13 +14701,7 @@
       "itunes_duration": "57:52",
       "speakers": [
         "Song Henge",
-        "Emerald Fire William",
-        "Keltoi Anam",
-        "Kevin Tyler",
-        "Reel Medley",
-        "Darren Raleigh",
-        "Jesse Ferguson",
-        "Ruth Smith"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic053mp3"
@@ -18671,13 +14720,7 @@
       "itunes_duration": "01:02:08",
       "speakers": [
         "Song Henge",
-        "Marc Gunn",
-        "Mulineira de Santalla d'Ozcos",
-        "Claire Roche",
-        "Seamus Kennedy",
-        "James Connolly",
-        "Ken O'Malley",
-        "Robbie O'Connell"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18701,12 +14744,7 @@
       "speakers": [
         "Planxty Irwin",
         "Thomas Patrick Kenny",
-        "Sheridan Band",
-        "Maidens IV",
-        "Ed Miller",
-        "Shauna Burns",
-        "Scott Boswell",
-        "Jennifer Licko"
+        "Marc Gunn"
       ],
       "topics": [
         "planxty",
@@ -18725,14 +14763,7 @@
       "enclosure_length": "56842556",
       "itunes_duration": "59:12",
       "speakers": [
-        "Marc Gunn",
-        "Bad Haggis",
-        "Gennady Sherman",
-        "Melanie Gruben",
-        "George Brabazon",
-        "Kebab Crazed Nutter",
-        "Shauna Burns",
-        "Scott Boswell"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -18758,13 +14789,7 @@
       "itunes_duration": "01:01:36",
       "speakers": [
         "Song Henge",
-        "Ashley Broder",
-        "Melanie Gruben",
-        "Ken O'Malley",
-        "Kitty Martin",
-        "Darren Mullins",
-        "Mary Mac",
-        "Heather Alexander"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic049mp3"
@@ -18783,13 +14808,7 @@
       "itunes_duration": "01:19:22",
       "speakers": [
         "Jonny Dyer",
-        "Sligo Rags",
-        "Darren Raleigh",
-        "Teresa Doyle",
-        "Emerald Rose",
-        "Heather Alexander",
-        "Song Henge",
-        "St Patrick"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -18813,12 +14832,7 @@
       "speakers": [
         "St Patrick",
         "Heather Alexander",
-        "Marc Gunn",
-        "Answer Hymn",
-        "Jed Marum",
-        "Allison Girvan",
-        "Redhill Rats",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -18841,13 +14855,7 @@
       "itunes_duration": "01:08:52",
       "speakers": [
         "IrishCelticMusic mp Brought",
-        "Theobald Wolfetone",
-        "Song Henge",
-        "Bob Tedrow",
-        "Jeff Ksiazek",
-        "Jacie McConnell",
-        "Jacie McConnell Demo",
-        "Beggarman Medley"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic046mp3"
@@ -18868,11 +14876,7 @@
         "Jamie Laval",
         "Ashley Broder",
         "Heather Dale",
-        "Emerald Rose",
-        "Allison Barber",
-        "Ed Miller",
-        "Thornhill Road",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "music"
@@ -18890,14 +14894,8 @@
       "enclosure_length": "87446050",
       "itunes_duration": "01:31:05",
       "speakers": [
-        "Heather Dale",
-        "Emerald Rose",
-        "Allison Barber",
-        "Ed Miller",
-        "Thornhill Road",
-        "Ashley Broder",
-        "Brobdingnagian Bards",
-        "Jed Marum"
+        "Celtic music fro",
+        "Marc Gunn"
       ],
       "topics": [
         "music"
@@ -18916,13 +14914,8 @@
       "itunes_duration": "01:00:48",
       "speakers": [
         "Gypsy Soul",
-        "Seamus Kennedy",
-        "Cady Finlayson",
-        "Merry Wives",
-        "Celeste Howard",
-        "Heather Dale",
-        "Coyote Run",
-        "Brobdingnagian Bards"
+        "Seamus Ke",
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -18943,11 +14936,6 @@
       "speakers": [
         "Jed Marum",
         "Lonestar Stout",
-        "Foggy Dew",
-        "Saint James",
-        "Wild Colonial",
-        "Bloody Dawn",
-        "Song Henge",
         "Marc Gunn"
       ],
       "topics": [
@@ -18972,13 +14960,7 @@
       "itunes_duration": "01:05:34",
       "speakers": [
         "Song Henge",
-        "Theobald Wolfetone",
-        "Terry Griffith",
-        "Kevin Collins",
-        "Kenny Klein",
-        "Black Jack",
-        "Allison Barber",
-        "Jacie McConnell"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic041mp3"
@@ -18997,13 +14979,7 @@
       "itunes_duration": "01:21:10",
       "speakers": [
         "IrishCelticMusic mp Brought",
-        "Song Henge",
-        "Seamus Kennedy",
-        "Claire Roche",
-        "Knotty Tales",
-        "Catherine Duc",
-        "Con Suite Next",
-        "Kevin Collins"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic040mp3"
@@ -19022,13 +14998,7 @@
       "itunes_duration": "01:03:30",
       "speakers": [
         "Song Henge",
-        "Marc Gunn",
-        "Ashley Broder",
-        "Tam Linn Set",
-        "Catherine Duc",
-        "Strange Woods",
-        "Caber Loo",
-        "Claire Roche"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic039mp3"
@@ -19047,11 +15017,7 @@
       "itunes_duration": "47:33",
       "speakers": [
         "Marc Gunn",
-        "Song Henge",
-        "Song Requests",
-        "Patriot Game",
-        "Bonnie Ship",
-        "Gypsy Rover"
+        "Song Henge"
       ],
       "topics": [
         "irish",
@@ -19076,13 +15042,7 @@
       "itunes_duration": "01:21:12",
       "speakers": [
         "Song Henge",
-        "Marc Gunn",
-        "Song Requests",
-        "Loch Lomond",
-        "Ian Patton",
-        "Liam Murray",
-        "Boston Blackthorne",
-        "Brian Boru Pipe Band"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic037mp3"
@@ -19102,12 +15062,7 @@
       "speakers": [
         "IrishCelticMusic mp Brought",
         "Song Henge",
-        "Song Requests",
-        "Cady Finlayson",
-        "Ed Miller",
-        "Brian Boru Pipe Band",
-        "Brian Boru",
-        "Maireid Sullivan"
+        "Marc Gunn"
       ],
       "topics": [
         "irishcelticmusic036mp3"
@@ -19127,12 +15082,8 @@
       "speakers": [
         "Tocando el Aire",
         "James Connolly",
-        "Marc Gunn",
-        "Joe Hooper",
-        "Greenwich Meantime",
-        "Song Henge",
-        "Song Requests",
-        "Proof Next"
+        "Marc Gun",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19161,12 +15112,7 @@
       "speakers": [
         "Heather Dale",
         "Kevin Behan",
-        "Bruce Boyd",
-        "Raymond McCullough",
-        "Gaelic Wind Project",
-        "Song Henge",
-        "Song Requests",
-        "Scott Skinner"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19192,11 +15138,7 @@
         "St Patrick",
         "Brobdingnagian Bards",
         "Thomas Doc Grauzer",
-        "Marc Gunn",
-        "Ceili Moss",
-        "Jonny Dyer",
-        "Bunratty Castle",
-        "Order Victims"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -19220,10 +15162,8 @@
         "Merry Mischief",
         "Serious Kitchen",
         "Ali Benson",
-        "James Raynard",
-        "Coyote Run",
-        "Diane Linn",
-        "com Subscribe"
+        "James Rayn",
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -19243,14 +15183,8 @@
       "enclosure_length": "55634919",
       "itunes_duration": "57:57",
       "speakers": [
-        "Bedlam Bards",
-        "Celeste Howard",
-        "Maidens IV",
-        "Kitchen Subscribe",
-        "Song Henge",
-        "St Patrick",
-        "Marc Gunn",
-        "Mary Mac"
+        "Celtic Music Awards",
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -19271,11 +15205,6 @@
       "itunes_duration": "01:00:53",
       "speakers": [
         "Cady Finlayson",
-        "Ken O'Malley",
-        "Gaelic Wind Project",
-        "String Thaw",
-        "St Patrick",
-        "Mary Mack",
         "Marc Gunn"
       ],
       "topics": [
@@ -19296,13 +15225,7 @@
       "itunes_duration": "57:22",
       "speakers": [
         "Thornhill Road",
-        "Cynthia Bennett",
-        "Mary Knickle",
-        "com Subscribe",
-        "Bunratty Castle",
-        "Novelty Band",
-        "Maidens IV",
-        "Belfast Andi"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19322,14 +15245,7 @@
       "enclosure_length": "65035232",
       "itunes_duration": "01:17:25",
       "speakers": [
-        "Sarah Dinan",
-        "Coyote Run",
-        "Marc Gunn",
-        "Brian Boru",
-        "Cara Dillon",
-        "Mary Knickle",
-        "Heather Dale",
-        "Paisley Close"
+        "Marc Gunn"
       ],
       "topics": [
         "music"
@@ -19347,14 +15263,7 @@
       "enclosure_length": "51087060",
       "itunes_duration": "01:00:48",
       "speakers": [
-        "Coyote Run",
-        "George Papavgeris",
-        "Gypsy Soul",
-        "Heather Dale",
-        "Stuart Martz",
-        "Cara Dillon",
-        "Pol Mac Adaim",
-        "Brobdingnagian Bards"
+        "Marc Gunn"
       ],
       "topics": [
         "christmas",
@@ -19376,11 +15285,6 @@
       "speakers": [
         "Kiss Me",
         "Gaelic Storm",
-        "Mary Knickle",
-        "Cele De",
-        "Craic Wisely",
-        "com Subscribe",
-        "Song Henge",
         "Marc Gunn"
       ],
       "topics": [
@@ -19400,11 +15304,7 @@
       "itunes_duration": "01:28:25",
       "speakers": [
         "Jonny Dyer",
-        "Serious Kitchen",
-        "Song Henge",
-        "Marc Gunn",
-        "Muckle Flugga",
-        "George Papavgeris"
+        "Marc Gunn"
       ],
       "topics": [
         "celtic",
@@ -19429,13 +15329,7 @@
       "itunes_duration": "58:58",
       "speakers": [
         "Jed Marum",
-        "Seamus Stout",
-        "Michael William Harrison",
-        "Franco Bordoni",
-        "Emerald Rose",
-        "Seamus Kennedy",
-        "Pol MacAdaim",
-        "Ed Miller"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19457,12 +15351,7 @@
       "speakers": [
         "Neil Anderson Irish",
         "Brobdingnagian Bards",
-        "Neil Anderson",
-        "Ed Miller",
-        "Brendan O'Loughlin",
-        "Pol MacAdaim",
-        "Stuart Martz",
-        "com Subscribe"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19490,11 +15379,7 @@
         "Sheridan Band",
         "John McCormack",
         "Pol MacAdaim",
-        "Jed Marum",
-        "Maidens Iii",
-        "Brobdingnagian Bards",
-        "Emerald Rose",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19522,12 +15407,7 @@
       "speakers": [
         "Michael William Harrison",
         "Marita Brake",
-        "Willie McCulloch",
-        "Stuart Martz",
-        "Marc Gunn",
-        "Ferris Pighouse Collection",
-        "com Subscribe",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19552,12 +15432,7 @@
       "itunes_duration": "59:54",
       "speakers": [
         "Molly Maguires",
-        "Jonathan Ramsey",
-        "Marc Gunn",
-        "George Papavgeris",
-        "Boston Blackthorne",
-        "com Subscribe",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19585,13 +15460,7 @@
       "itunes_duration": "58:26",
       "speakers": [
         "James Raynard",
-        "Dom Duff",
-        "Pol MacAdaim",
-        "com Subscribe",
-        "Song Henge",
-        "Song Requests",
-        "Marc Gunn",
-        "Apryl Knight"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19616,13 +15485,7 @@
       "itunes_duration": "59:10",
       "speakers": [
         "Pipe Band",
-        "James Connolly",
-        "Tara MacKenzie",
-        "Marc Gunn",
-        "Vadim Krakovsky",
-        "Greenwich Meantime",
-        "Coyote Run",
-        "Song Henge"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19647,10 +15510,7 @@
         "Susan Hamlin",
         "Heather Dale",
         "Cady Finlayson Women",
-        "Sarah Dinan",
-        "Heather Gilmer",
-        "Cady Finlayson",
-        "Ali Benson"
+        "Marc Gunn"
       ],
       "topics": [
         "women",
@@ -19677,14 +15537,9 @@
       "enclosure_length": "50287451",
       "itunes_duration": "59:51",
       "speakers": [
-        "Gaelic Storm",
-        "Flogging Molly",
-        "Brobdingnagian Bards",
-        "Emerald Rose",
-        "Boston Blackthorne",
-        "Song Henge",
-        "Murphys Dropkick Murphys",
-        "Lucinda Williams"
+        "Celtic Music",
+        "Celtic Music Awards",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19709,10 +15564,7 @@
         "Jonathan Ramsey St Patrick",
         "Jonny Dyer",
         "Emerald Rose",
-        "Ed Miller",
-        "Brobdingnagian Bards",
-        "Paisley Close",
-        "Sarah Dinan"
+        "Marc Gunn"
       ],
       "topics": [
         "patrick",
@@ -19735,14 +15587,8 @@
       "enclosure_length": "57952457",
       "itunes_duration": "01:08:59",
       "speakers": [
-        "Sarah Dinan",
-        "Ed Miller",
-        "Jed Marum",
-        "Paisley Close",
-        "Seamus Stout",
-        "Brobdingnagian Bards",
-        "com Subscribe",
-        "Jonny Dyer"
+        "Irish Celtic Mu",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19769,11 +15615,7 @@
         "Ed Miller",
         "Robbie O'Connell",
         "Seamus Stout",
-        "Marc Gunn",
-        "Jed Marum",
-        "Brobdingnagian Bards",
-        "celticmusicpodcast com",
-        "Jonny Dyer"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19800,11 +15642,7 @@
         "Karen Mal",
         "Seamus Kennedy",
         "Kevin Behan",
-        "Jed Marum",
-        "Thomas Doc Grauzer Queen",
-        "Canned Haggis",
-        "Marc Gunn",
-        "Jonny Dyer"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19828,14 +15666,7 @@
       "enclosure_length": "49098357",
       "itunes_duration": "58:27",
       "speakers": [
-        "Sarah Dinan",
-        "Ed Miller",
-        "Brobdingnagian Bards",
-        "Bedlam Bards",
-        "Michael Murphy",
-        "celticmusicpodcast com",
-        "Jonny Dyer",
-        "Knotty Tales"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19863,11 +15694,7 @@
         "Seamus Kennedy",
         "Jonny Dyer",
         "Heather Dale",
-        "Paisley Close",
-        "Brobdingnagian Bards",
-        "Green Tea",
-        "celticmusicpodcast com",
-        "Dublin Tourism"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19892,10 +15719,7 @@
       "itunes_duration": "59:05",
       "speakers": [
         "Brobdingnagian Bards",
-        "Serious Kitchen",
-        "celticmusicpodcast com",
-        "Vicki Swan",
-        "Jonny Dyer",
+        "Serious Ki",
         "Marc Gunn"
       ],
       "topics": [
@@ -19920,11 +15744,9 @@
       "enclosure_length": "6785354",
       "itunes_duration": "14:08",
       "speakers": [
-        "Pet Photography",
-        "Les Howard",
-        "Kind Supporters",
-        "Reida Riley",
-        "Melissa Konigsdorfer Music",
+        "Cat Really",
+        "Cat Music",
+        "News Irish Drinking",
         "Marc Gunn"
       ],
       "topics": []
@@ -19942,13 +15764,8 @@
       "itunes_duration": "01:04:30",
       "speakers": [
         "Ed Miller",
-        "Cady Finlayson",
-        "Brobdingnagian Bards",
-        "Don Grieve",
-        "Carl Peterson",
-        "Jeff Donald",
-        "Jonny Dyer",
-        "Sligo Rags"
+        "Cady Finlays",
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -19974,12 +15791,7 @@
       "speakers": [
         "Pol Mac Adaim",
         "Niamh Parsons",
-        "Willie McCulloch",
-        "Gan Fidil",
-        "Ed Miller",
-        "celticmusicpodcast com",
-        "Jonny Dyer",
-        "Paul Stamler"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -20005,12 +15817,7 @@
       "speakers": [
         "Sarah Dinan",
         "Michael Murphy",
-        "Cairde na Gael",
-        "Emerald Rose",
-        "Raymond McCullough",
-        "Shays Rebellion",
-        "Marc Gunn",
-        "Cady Finlayson"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -20040,9 +15847,7 @@
         "Patched Hats",
         "Ali Benson Indie",
         "Jonny Dyer",
-        "Ali Benson",
-        "Brobdingnagian Bards",
-        "Hugh Morrison"
+        "Marc Gunn"
       ],
       "topics": [
         "indie",
@@ -20073,10 +15878,7 @@
         "Paisley Close",
         "Emerald Rose",
         "Ed Miller",
-        "Marc Gunn",
-        "Thomas Doc Grauzer",
-        "Don Grieve",
-        "Jonny Dyer"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -20102,13 +15904,7 @@
       "itunes_duration": "01:30:27",
       "speakers": [
         "Cairde na Gael",
-        "Marc Gunn",
-        "Heather Gilmer",
-        "Jeff Moore",
-        "Sarah Dinan",
-        "Bedlam Bards",
-        "Emerald Rose",
-        "Kristen Roger"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -20129,12 +15925,7 @@
       "itunes_duration": "49:10",
       "speakers": [
         "Michael Murphy",
-        "Raymond McCullough",
-        "Brobdingnagian Bards",
-        "Ingrid Houwers",
-        "Marc Gunn",
-        "Door Auld",
-        "Johnny Jump"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -20163,12 +15954,7 @@
       "speakers": [
         "Hugh Morrison",
         "Brobdingnagian Bards",
-        "Vicki Swan",
-        "Johnny Dyer",
-        "Raymond McCullough",
-        "Aaron Drake",
-        "Michael Murphy",
-        "Mac'Talla Mor"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -20189,10 +15975,7 @@
       "itunes_duration": "43:44",
       "speakers": [
         "Susan Hamlin",
-        "Paul McKenna",
-        "Marc Gunn",
-        "Brobdingnagian Fairy Tales",
-        "Take My"
+        "Marc Gunn"
       ],
       "topics": [
         "irish",
@@ -20207,762 +15990,762 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Donegal Jigs & Modern Celtic Voices #747 — speakers: Boxing Robin, Alex Sturbaum, Erin Ruth, Sue Tillotson, Jim Cunningham, Ian Alistair Gosbee, Vienna Scheyer, Slí Amach
-- 2026-02-12 — New Irish Folk Fire #746 — speakers: Aisling Drost Byrne, Brendan McCarthy, Conal O'Kane, Sean Heely, Beth Patterson, Alex Sturbaum, Sue Tillotson, Jim Cunningham
-- 2026-02-05 — Brooklyn Kings & Golden Geese #745 — speakers: Adrianna Ciccone, Ellen Gibling, Alex Sturbaum, Nick Metcalf, Zac Léger, Caitríona Lagan, Eddie Biggins, Aisling Drost Byrne
-- 2026-01-29 — Lady With a Lily Crown #744 — speakers: Adam Agee Jon Sousa, Alex Sturbaum, Dan Possumato, Heather Dale, Stephen MacDonald, Mary Frances Leahy, Pat Tuohey, Mick Mulcrone
-- 2026-01-22 — Waltzes, Whiskey, & Wondering Souls #743 — speakers: Shannon Heaton, Boxing Robin, Whiskey Faithful, Mary Beth Carty, Michael Joseph Ulery, Hugh Morrison, Joseph Ulery, Hank Woodward
-- 2026-01-15 — New Celtic Music You'll Love #742 — speakers: Aisling Drost Byrne, Brendan McCarthy, Michael Joseph Ulery, Kyle Carey, Julien LOko Irish Band, Joseph Ulery Biscuit Tin, Advanced Roguery, John Walsh
-- 2026-01-08 — Chill Celtic Folk Songs for a New Year #741 — speakers: Enda Reilly, Brobdingnagian Bards, Charlie O'Brien, Whiskey Bay Rovers, Boxing Robin, Heather Dale, Jesse Ferguson, Ho Come Roll Me
-- 2026-01-01 — Best Celtic Music 2025 – Fan Voted Top 20 #740 — speakers: Niamh Dunne, Natalie Padilla, Kyle Carey, Heather Dale, Sheridan Rúitín, Ed Miller, Dean McLeod, Mary's Jigs
-- 2025-12-24 — Celtic Christmas Carols & Songs #739 — speakers: Gothard Sisters, Ritchie Remo, Boston Blackthorne, Kathleen MacInnes, Sean Griffin, Carol Bring, Ding Dong Merrily, Hank Woodward
-- 2025-12-18 — Just Listening... Live Recordings from IrishFest Atlanta and More #738 — speakers: Heather Dale, Olivia Bradley, Kira Doppel, Sarah Ling, Kathleen O'Donohoe, Hank Woodward, Annie Lorkowski, Joseph Dumond
-- 2025-12-11 — Interviews with The Gothard Sisters and The Irish Lassies #737 — speakers: Gothard Sisters, Joshua Davis, Engines Roar, Joseph Dumond, Hank Woodward, Annie Lorkowski, Marc Gunn, Miranda Nelson Designs
-- 2025-11-27 — Celtic Blessings for Thanksgiving — speakers: Clanna Morna, Adam Agee Jon Sousa, Irishtown Road, Marys Lane, Brobdingnagian Bards, Charlene Adzima, Heather Dale, Wolf Loescher
-- 2025-11-20 — The Spirit of Irish Folk Music #735 — speakers: Gerry O'Connor, Gothard Sisters, Elizabeth Sutherland, Piskey Led, Derina Harvey Band, Ashley Davis Band, Tommy Makem Faoileán, Piskey Led Thanks
-- 2025-11-13 — New Irish & Celtic Folk #734 — speakers: Gothard Sisters, Eddie Biggins, Cedar Dobson Music, Jeff Blaney, Robbie Malone, Lochaber Badger, Annie Lorkowski, Joseph Dumond
-- 2025-11-06 — Celtic Adventure: Songs and Stories of the Isles #733 — speakers: Gothard Sisters, Jesse Ferguson, Ritchie Remo, Ainsley Hamill, Amelia Hogan, George Murphy, Kim Carnie, Hank Woodward
-- 2025-10-30 — Celtic Songs of Samhain and the Faerie Folk #732 — speakers: Jared Bogle, Cathy Jordan, Kevin Burke Seamie O'Dowd, Alexander James Adams, O'Carolan Tunes, Faery Song, Alexander James Adams Samhain, Joseph Dumond
-- 2025-10-23 — Voices of Celtic Song #731 — speakers: Niamh Dunne, Ed Miller, Jesse Ferguson, Olivia Bradley, Don Gabbert, Marc Gunn, Ainsley Hamill Get, St Patrick
-- 2025-10-16 — Open the Door for Three Interview #730 — speakers: Thom Dunn, Dublin Gulch, Willowgreen Iii Open, Jane Suite, Joseph Dumond, Hank Woodward, Annie Lorkowski, Marc Gunn
-- 2025-10-09 — Celtic Folk Songs & Fiddle Tunes #729 — speakers: Dave Curley, Hanneke Cassel, Ed Miller, Seán Heely, Tami Curtis, Brad Tuck, Joanna Hyde, Randy Clepper
-- 2025-09-25 — Strange Affairs & Irish Traditions #728 — speakers: Niamh Dunne, Ashley Davis, Natalie Padilla, Toby Bresnahan, Dublin Gulch, Sylvia Platypus, Ryan Roubison, John Egan's Saunders
-- 2025-09-18 — From Dublin To Glencoe #727 — speakers: Jeff Blaney, Norse Gael, Dan Possumato, Brobdingnagian Bards, Enda Reilly, Liz Carroll, Creadeamh Sí, Bláth Chliath
-- 2025-09-11 — Téada Interview #726 — speakers: Ryan Mccombe, Eimear Arkins, Wylde Nept, Coiscéim Coiligh, Joseph Dumond, Hank Woodward, Marc Gunn, Miranda Nelson Designs
-- 2025-09-04 — Celtic Women at the Heart of the Tradition #725 — speakers: Olivia Barrett, Carroll Sisters Trio, Muireann Nic Amhlaoibh, Niamh Dunne, Jen Midkiff, Liam Childs Baby Dragon, Radiance Emilie, Nora Carrol
-- 2025-08-28 — Whiskey, Slides & Standing Stones #724 — speakers: Andrew Finn Magill, Dublin Gulch, Joseph Dumond, Hank Woodward, Marc Gunn, Miranda Nelson Designs, Todd Wiley, Guest Liz Carroll
-- 2025-08-21 — Tulua Interview in County Wexford #723 — speakers: Sarah Copus, Chloe Matharu, Nathan Gourley, Joey Abarta, Owen Marshall, Joseph Dumond, Hank Woodward, Marc Gunn
-- 2025-08-14 — Sparks in the Cabin #722 — speakers: Carroll Sisters Trio, Ellen Giro, Melanie Gruben, Ye Winds, Stay Scottish, Joseph Dumond, Hank Woodward, Marc Gunn
-- 2025-08-07 — Farewell To Belfast #721 — speakers: Andrew Finn Magill, Gothard Sisters, Journey North, Midnight Sun, Journey North Revisited, Joseph Dumond, Marc Gunn, Miranda Nelson Designs
-- 2025-07-31 — Sailing Across the Ocean #720 — speakers: Lussa Tulua, Chloe Matharu, Andrew Finn Magill, Marc Gunn Fir Arda, Natalie Padilla, Wooden Legs, Charles Dickens Jig, Eostre Marc Gunn Bunny
-- 2025-07-24 — 20 Years of Irish & Celtic Music! #719 — speakers: Gothard Sisters, Brobdingnagian Bards, Alexander James Adams, Ed Miller, Heather Dale, Sharon Shannon, Wolf Loescher, Mark Kenneth
-- 2025-07-17 — Irish Rebellion in Wexford #718 — speakers: Marc Gunn, David Pedrick, Robert Zielinski, Sheridan Rúitín, Emerald Rose, Kilmaine Saints, Jimmy Murphy, Kitchen Vinegar Hill
-- 2025-07-10 — Only the Highlights, Please! #717 — speakers: Highlight Reels, Muireann Nic Amhlaoibh, Deception Hair, Jamie Haeuser, Campbell Graham, Miranda Nelson Designs, Marc Gunn
-- 2025-07-03 — Celtic Pub Songs #716 — speakers: Peggy Gordon, Marc Gunn, Heather Alexander, Marc Gunn Wandering Geek, Miranda Nelson Designs, Todd Wiley
-- 2025-06-26 — We're Only Mortal #715 — speakers: Joseph Carmichael, Robert Zielinski, Katie Jane Band, Ryan Dunne, Olivia Barrett, Rachel Hair, Neilidh Boyle, Loch Lomond
-- 2025-06-19 — St. Patrick's Day Favorites #714 — speakers: St Patrick, River Driver, David Mitchell, Conamara Chaos, Brobdingnagian Bards, Charlie O'Brien, John Riley, Marc Gunn
-- 2025-06-12 — How Gaelic Languages Carry Celtic Traditions #713 — speakers: Ciarán Bolger, Michael Coult, Julie Fowlis, Mary Jane Lamond, Jane Knight, Roland Hebborn, Marina Poggemann, Emil Hauptmann
-- 2025-06-05 — Celts of Pride Month #712 — speakers: Malin Lewis, Alexander James Adams, Seumas Gagne, Melanie Gruben, Daphne Eftychia Arthur, John Joe Hartnett, John Adams, Hobbit Hornpipe
-- 2025-05-29 — Monday Morning Fun #711 — speakers: Olivia Barrett, de Fierro, Hanneke Cassel, Journey North Phoenyx, Camín de Fierro, Ellen Gira, Journey North Revisited, Marley O'Reilly
-- 2025-05-22 — What You Do Matters #710 — speakers: Brendan Hayes, Heather Alexander, Olivia Barrett, Rebecca Winckworth, Muireann Nic Amhlaoibh, Stinky Ocean Kelpie, Journey North, Fiona Tyndell
-- 2025-05-15 — The World is Changing #709 — speakers: Battlefield Band, Chris Gray, Dom DufF, John Martin Strathspey Reels, Mar Pottinger, Lad O'Beirne, Top Shelf First, Marney McCague
-- 2025-05-08 — Making Friends #708 — speakers: Wolf Loescher, Duncan Mclauchlan, Don Gabbert, Amelia Hogan, Marc Gunn, Miranda Nelson Designs, Todd Wiley, Allie Stockton
-- 2025-04-24 — Pure Grace, Celtic Instrumental Music #707 — speakers: Pure Grace, Robert Zielinski, Nathan Gourley, Joey Abarta, Owen Marshall, David Mitchell, Kevin Meehan, Mary's Jigs
-- 2025-04-17 — Amelia Hogan Interview #706 — speakers: Amelia Hogan, Robert Zielinski, Joseph Carmichael, Marc Gunn, Miranda Nelson Designs, Todd Wiley, Rick Boyce, Brian McReynolds
-- 2025-04-10 — Celtic Springtime #705 — speakers: Sheridan Rúitín, Malin Lewis, Juha Rossi, Dean McLeod, Nathan Gourley, Joey Abarta, Owen Marshall, James Betagh
-- 2025-04-03 — Little Fairy #704 — speakers: Katie Jane Band, Malin Lewis, Brobdingnagian Bards, Olivia Bradley, Brian Finnegan, Robert Zielinski, Amelia Hogan, Ashley Davis
-- 2025-03-27 — Interview With Flook #703 — speakers: Clare Sands, Aisling Urwin, Marc Gunn, David Mitchell, Tuatha Dea, Ancora Flook, Peggy Gordon, Licensed Beggars
-- 2025-03-20 — All Around My Hat #702 — speakers: Nathan Gourley, Juha Rossi, Charlie O'Brien, Blackwillow Starling, Carbon Leaf, Katie Jane Band, Joey Abarta, Owen Marshall
-- 2025-03-13 — St. Patrick's Day Music #701 - 3 1/2 Hours!!! — speakers: Happy St Patrick, St Patrick, Marc Gunn, Nathan Gourley, Joey Abarta, Owen Marshall, Dick Gossips Dinky, Ellen MacIsaac
-- 2025-03-06 — St. Patrick's Day Shows in 2025 #700 — speakers: St Patrick, Sheridan Rúitín, Tami Curtis, John O'Reilly, Raggle Taggle Gypsy, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2025-02-27 — Kinnfolk Interview #699 — speakers: Nathan Gourley, Joey Abarta, Owen Marshall, Ed Yother, Charlie O'Brien, Misty Posey, Brendan Monaghan, Noel Reid
-- 2025-02-20 — Ramble Through the Valley #698 — speakers: Louise Bichan, Toby Bresnahan, Bal Loudieg, Gretna Green Michael Darcy, Sweet Daisy, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2025-02-13 — Ireland's Struggle #697 — speakers: David Mitchell, Kyle Carey, Katie Jane Band, Charlie O'Brien, Joseph Carmichael, Ryan Dunne, Juha Rossi, Blackwillow Starling
-- 2025-02-06 — The Minstrel Boy with Jesse Ferguson #696 — speakers: Jesse Ferguson, Juha Rossi, Misty Posey, Danny Boy, Gretna Green, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2025-02-04 — Want St Patrick's Day Forever Long Episode? #695 BONUS — speakers: Want St Patrick, St Patrick, Corey Purcell, Mary Beth Carty, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2025-01-30 — Celtic Forever #695 — speakers: Marc Gunn, Jonny Dyer, Ian Fontova, Shannon Heaton, Leaf Linden, John Lover, Miranda Nelson Designs, Todd Wiley
-- 2025-01-23 — Celtic Women Flowers of Winter #694 — speakers: Hanneke Cassel, Eimear Arkins, Erin Ruth, Mary Kate Spring Lee, Charlene Adzima, Mary Frances Leahy, Sheridan Rúitín, Louise Bichan
-- 2025-01-16 — The Peacocks #693 — speakers: Ed Harris, Clanna Morna, Molly Donnery, Dublin Gulch, Miles O'Brien, Mark Shelton, Marc Gunn, Miranda Nelson Designs
-- 2025-01-09 — Irish Sessions with Shannon Heaton #692 — speakers: Natalie Padilla, Joseph Carmichael, Kyle Carey, Robert Zielinski, Shannon Heaton, Joe Hayes, Thady Casey, Crane Bar
-- 2024-12-25 — Celtic Top 20 of 2024 #691 — speakers: Marc Gunn, Gothard Sisters, Jonny Dyer, Hanneke Cassel, Natalie Padilla, Ian Fontova, David Howley, Fergal Scahill
-- 2024-12-19 — Light a Candle in the Window #690 — speakers: Ashley Davis, Jen Midkiff, Seán Heely, Marc Gunn, Joseph Carmichael, Dublin Gulch, Mary Kate Spring Lee, Jesse Ferguson
-- 2024-12-12 — Celtic Gems #689 — speakers: Emma Langford, Hanneke Cassel, Cutting Bracken Emma Langford, Marc Gunn, Miranda Nelson Designs, Todd Wiley, Brian McReynolds, Alan Schindler
-- 2024-12-05 — Brother Sea #688 — speakers: Marc Gunn, Miranda Nelson Designs, Todd Wiley, Brian McReynolds, Alan Schindler, Karen DM Harris, Emma Bartholomew, Miranda Nelson
-- 2024-11-28 — Thankfully, There's You and Celtic Music #687 — speakers: Conor Lamb, Deirdre Galway, Ewen Henderson, Irishtown Road, Jesse Ferguson, Charlie Rutan, Lad Dan, Sylvia Platypus
-- 2024-11-21 — The Unicorn Song #686 — speakers: Kathryn Tickell, Kevin Meehan, Kyle Carey, Joseph Carmichael, Brobdingnagian Bards, Rachel Hair, Robert Zielinski, Graih Foalsey
-- 2024-11-14 — Folk on Foot #685 — speakers: Jesse Ferguson, Joseph Carmichael, Dublin Gulch, Adria Jackson, Sheridan Rúitín, Kathryn Tickell, Marc Gunn, Miranda Nelson Designs
-- 2024-11-07 — The Friel Sisters #684 — speakers: Angel Band, Marc Gunn, Miranda Nelson Designs, Todd Wiley, Brian McReynolds, Alan Schindler, Karen DM Harris, Emma Bartholomew
-- 2024-10-31 — Cherish the Ladies #683 — speakers: Natalie Padilla, Joanie Madden, Jesse Powers, John McGinley, Deirdre Connolly, Mortal Boy, Nicolas Babineau, Marc Gunn
-- 2024-10-24 — Scotland's Whisky #682 — speakers: Friel Sisters, Kevin Meehan, Enda Reilly, Adam Agee Jon Sousa, Dublin Gulch, Sheridan Rúitín, Tha M'Intinn Raoir Duke, Hy Brasil
-- 2024-10-17 — Lady of the House #681 — speakers: Dan Possumato, Conamara Chaos, Jesse Ferguson, Enda Reilly, Olivia Bradley, Miles O'Brien, Betsy Rose, Sheila Coyle
-- 2024-10-10 — Irishfest Atlanta 2024 #680 — speakers: Teresa Finley, Conor Lamb, Brendan Mulholland, Deirdre Galway, Clanna Morna, Cameron Mackay, Olivia Bradley, Joanie Madden
-- 2024-09-26 — Bonnie Dundee #679 — speakers: Bonnie Dundee, Conamara Chaos, Jesse Ferguson, Wylde Nept, Clanna Morna, Rie Sheridan Rose, Mauna Kea, Marc Gunn
-- 2024-09-19 — Dancing With Hobbits #578 — speakers: Dublin Gulch, Louise Bichan, Clanna Morna, Adria Jackson, Mary Frances Leahy, Toby Bresnahan, Vel Onen, Gretna Green
-- 2024-09-12 — The Muckers' Whiskey Tango #677 — speakers: Whiskey Tango, Dan Possumato, Jesse Ferguson, Amy Bradley, Kevin Burke Frances Cunningham, Slainte Mhaith, Marc Gunn, Miranda Nelson Designs
-- 2024-09-05 — Fishing For Celtic Music #676 — speakers: Dan Possumato, Tuatha Dea, Ian Fontova, Miles O'Brien, Betsy Rose, Mark Shelton, Marc Gunn, Miranda Nelson Designs
-- 2024-08-29 — Kitty's Gone A-Milking #675 — speakers: Brobdingnagian Bards, Louise Bichan, Hayley Griffiths, Toby Bresnahan, Natalie Padilla, Philippe Barnes, Tom Phelan, Loch Lomond
-- 2024-08-22 — Celtic Singers and Songs #674 — speakers: Molly Donnery, Natalie Padilla, Marc Gunn, Michael Darcy, Sheridan Rúitín, vore Fig, Ye Rosebuds, Lady Kennaway
-- 2024-08-15 — First Light Dawns On Irish & Celtic Music #673 — speakers: Dublin Gulch, Mary Frances Leahy, Enda Reilly, Poitin Band, Aneta Dortová, Charlene Adzima, Sheridan Rúitín, Clanna Morna
-- 2024-08-08 — Life As A Rainy Dream #672 — speakers: Clanna Lorna, Aneta Dortová, Willow Trio, Calum MacPhail, Mary Frances Leahy, Sheridan Rúitín, Martin Wynne, Emanuele De Simone Mooncoin
-- 2024-07-25 — Here's to Friends! #671 — speakers: Hanneke Cassel, Wylde Nept, Jesse Ferguson, Knucklehead Circus, Gretna Green, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2024-07-18 — Memories of Ireland #670 — speakers: Album Pins, Dublin Gulch, Wylde Nept, Enda Reilly, Molly Donnery, Natalie Padilla, Kevin Meehan, Hayley Griffiths
-- 2024-07-11 — Czech Celtic Music with Poitin #669 — speakers: Jeremy King, Conamara Chaos, Aneta Dortová, Emanuele De Simone, Anagha Jirka, Co mi je, Maple Leaf, Ona Band
-- 2024-07-04 — Freedom for the Fourth #668 — speakers: Lissa Schneckenburger, Bedlam Bards, Derek Warfield, Kevin Meehan, Marc Gunn, Tom Paine, Bert Ferguson, Miranda Nelson Designs
-- 2024-06-27 — Celtic Dance Party #667 — speakers: Dublin Gulch, Louise Bichan, Telenn Tri, Charlene Adzima, Jimmie McGetrick's John, Tom Ward, Marc Gunn, Miranda Nelson Designs
-- 2024-06-20 — Come Hell or Highwater #666 — speakers: Come Hell, Telenn Tri, Michael Darcy, Paisley Close, Wooden Legs, Ashley Davis, Cloud Horizons, Doire Cholm Cille
-- 2024-06-13 — Women of Summer #665 — speakers: Charlene Adzima, Natalie Padilla, Adria Jackson, Bettina Solas, Louise Bichan, Lisa McCann, Suzanne Ramos, Eriskay Lullaby
-- 2024-06-06 — Planxty Caper #664 — speakers: Ashley Davis Band, Gretna Green, Sam Hall, Lucy Farr, Joe Bane, Mick McAuley, Jamie Raeburn, Marc Gunn
-- 2024-05-30 — Ireland's New Road #663 — speakers: Philippe Barnes, Tom Phelan, Santiago Molina, Lissa Schneckenburger, Logical Fleadh, Patsy O'Brien, Louise Bichan, Joey Abarta
-- 2024-05-23 — Whale Hymn #662 — speakers: Natalie Padilla, Wylde Nept, Louise Bichan, Adria Jackson, Dublin Gulch, Bettina Solas, Matthew Newman, Marc Gunn
-- 2024-05-16 — The Fox & The Thrush #661 — speakers: Conor Mallon, Charlene Adzima, Marc Gunn, Miranda Nelson Designs, Todd Wiley, James Dolan, Stan Berry
-- 2024-05-09 — Drowsy Dancing Bear #660 — speakers: Charlene Adzima, Ed Miller, Enda Reilly, Sharon Shannon, Frobisher Bay, Johnny Jump, Marc Gunn, Miranda Nelson Designs
-- 2024-04-25 — No Place Like Home #659 — speakers: Boxing Robin, Melanie Gruben, Louise Bichan, Dans Loudieg, Ellen Gira, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2024-04-18 — Irish Shadows #658 — speakers: Telenn Tri, Nick Metcalf, Karan Casey, Altan Liostáil, Gretna Green, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2024-04-11 — Red-Haired Bully Boys #657 — speakers: Railcar Graffiti, Brobdingnagian Bards, Sober Gentlemen, River Driver, Jiggy Get, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2024-04-04 — Plant Your Boots For Freedom #656 — speakers: Gothard Sisters, Emma Langford, Patsy O'Brien, Gordon McLeod, de Fierro, Alexander James Adams Get, Luke Skywalker Walks, Lobster Tail
-- 2024-03-28 — Celtic Cat's Meow #655 — speakers: Telenn Tri, Patsy O'Brien, Toby Bresnahan, Ian Fontova, Olivia Bradley, River Driver, Ida Elena, Mustache La
-- 2024-03-21 — Flying Fingers in the Fire's Glow #654 — speakers: Derek Warfield, Nuala Kennedy, Eamon O'Leary, Louise Bichan, Ian Alistair Gosbee, Hayley Griffiths, Bastard Son, Marc Gunn
-- 2024-03-14 — Happy St. Patrick's Day 2024 #653 — speakers: St Patrick, Hayley Griffiths, Marc Gunn, Michael Darcy, Louise Bichan, Toby Bresnahan, River Driver, Philippe Barnes
-- 2024-03-07 — St. Patrick's Day 2024 #652 — speakers: St Patrick, Santiago Molina, Corey Purcell, Mary Beth Carty, Gothard Sisters, Emma Langford, Jonny Dyer, Heather Dale
-- 2024-03-06 — Devil's in the Sea #651 — speakers: Nick Hennessey, Soundcloud Closing, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2024-02-29 — Celtic Women #650 — speakers: Eimear Arkins, Mary Kate Spring Lee, Jonny Dyer, Mary Beth Carty, Hanneke Cassel, Katherine Nagy, Debby Regan, Susan Palmer
-- 2024-02-22 — Midnight Hour with RUNA #649 — speakers: Hanneke Cassel, Matt McGinn, Cap Le Moine, Shannon Heaton, Joe Hayes, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2024-02-15 — Dúlamán #648 — speakers: Avery LeVine, Seán Heely, Corey Purcell, Juha Rossi, Marc Gunn, Piskey Led, Mitchell Petersen, Raggle Taggle Gypsy
-- 2024-02-08 — A Gaelic Blessing #647 — speakers: Seán Heely, Olivia Bradley, Ben Doran, Hanneke Cassel, Irishtown Road, Brian Quigley, Emily Huffman, Marbhna Luimni
-- 2024-01-30 — 40 Minute Celtic Workout #646 — speakers: Gordon McLeod, Tim Cummings, Pete Sutherland, Brad Kolodner, Corey Purcell, Logical Fleadh, Merry Blacksmith, Cloud Horizons
-- 2024-01-25 — Rose in the Heather #645 — speakers: Alisa Marie, Brendan Monaghan, Matt McGinn, Ashley Davis, Shannon Heaton, Jessie Summerhayes, Marc Gunn, Miranda Nelson Designs
-- 2024-01-18 — The Celtic Kitchen Party #644 — speakers: Charlie Rutan, Sylvia Platypus, Piskey Led, Ryan Roubison, Railcar Graffiti, Wolf Loescher, Mark Kenneth, Tim Cummings
-- 2024-01-11 — The Wild Rover from The Harr #643 — speakers: Bonhomme Setter, Hanneke Cassel, Juha Rossi, Joseph Carmichael, Ed Harris, Seán Heely, Wander Juha Rossi, Joseph Carmichael Sovay
-- 2024-01-04 — Happy New Year of Irish & Celtic Music Joy #642 — speakers: Ed Yother, Mary Beth Carty, Jesse Ferguson, Daniele Scardovi, Kellys Wayke, Harvey Band, Abu Chuibhl, Marc Gunn
-- 2023-12-28 — Celtic Top 20 of 2023 #641 — speakers: Corey Purcell, Matt McGinn, Jonny Dyer, Emma Langford, Gothard Sisters, Mary Beth Carty, Heather Dale, Cutting Bracken Arise Go
-- 2023-12-21 — Celtic Christmas 2023 — speakers: Gothard Sisters, Brad Tuck, Mad Maudlin, Brendan Monaghan, Corey Purcell, Alisa Marie, Bart Zeal, Ashley Davis
-- 2023-12-14 — Winter Garden #639 — speakers: Wolf Loescher, Marc Gunn, Tuatha Dea, Muireann Nic Amhlaoibh, Miranda Nelson Designs, Todd Wiley, Bill Mandeville, Emma Bartholomew
-- 2023-12-07 — Fairytale of New York #638 — speakers: Hanneke Cassel, Ashley Davis, Marc Gunn, Ewen McIntosh, Ella Roberts, Derina Harvey Band, Cloud Horizons, Shane Hennessy
-- 2023-11-23 — Celtic Thanksgiving #637 — speakers: Hanneke Cassel, Dave Wiesler, Gothard Sisters, Brad Reid, Massimo Giuntini, Brendan Monaghan, Winterberry Set, Win Thank
-- 2023-11-16 — Mist Covered Mountains #636 — speakers: Mist Covered, Ed Harris, Mary Kate Spring Lee, Brian Quigley, Ed Yother, Ashley Davis Band, Campbell Calum Breugach, Arthur McBride
-- 2023-11-09 — Black Tower #635 — speakers: Hanneke Cassel, Jesse Ferguson, Juha Rossi, Andy Irvine, Jim Sharkey, Gordon McLeod, Lauren Oxford, Don Gabbert
-- 2023-11-02 — IrishFest Atlanta 2023 #634 — speakers: Ed Yother, Ryan Roubison, Ed Harris, John Doyle, Dave Howard Coons, Ashley Davis Band, Olivia Bradley, Robby Hilliard
-- 2023-10-26 — Eimear Arkins #633 — speakers: Ed Harris, Eamon Friel, Jared Bogle, Miranda Nelson, Slán Le Máigh, Marc Gunn, Miranda Nelson Designs, Todd Wiley
-- 2023-10-19 — Cruisicin Lan #632 — speakers: Jared Bogle, Mary Kate Spring Lee, Seldom Sober, Avery LeVine, Brian Quigley, Marc Gunn, Sam Gillogly, John Kennedy
-- 2023-10-12 — Rocky Road to Dublin #631 — speakers: Rocky Road, Ed Harris, Mary Kate Spring Lee, Ashley Davis Band, Jocelyn Pettit, Sylvia Platypus, Tommy Fakem, Brian Quigley
-- 2023-10-05 — Ashley Davis Band #630 — speakers: Ashley Davis Band, Ashley Davis, Matt McGinn, Seldom Sober, Dave Curley, Daniele Scardovi, Poitin Band, Xavier Boderiou
-- 2023-09-28 — Celtic Women Trip to Dingle #629 — speakers: Ellen Gibling, Muireann Nic Amhlaoibh, Anne McCaffrey, Tania Opland, Mike Freeman, Nora Carroll, Ava Montesi, Caroline Dressler
-- 2023-09-21 — Foxhunter Dance a Jig #628 — speakers: Foxhunter Dance, Foxhunter Jig, Nathan Gourley, Laura Feddersen, Ben Doran, La Nef, Kitty Got, Willie Taylor
-- 2023-09-14 — Tangled on the Moon #627 — speakers: Jocelyn Pettit, Telenn Tri, Karan Casey, Joey Abarta, Boxing Robin, Railcar Graffiti, Raúl Sanz, La Nef
-- 2023-09-07 — Carry My Song, Clare Island Whiskey #626 — speakers: Carry My Song, Juha Rossi, Santiago Molina, Clare Sands, Niamh Dunne, Susan O'Neill, Marc Gunn, Miranda Nelson Designs
-- 2023-08-31 — Secret World of Celtic Rock #625 — speakers: Derina Harvey Band, Ewen McIntosh, Kellys Wayke, Thom Dunn, Hugh Morrison, Loch Lomond, Kilrush Ewen McIntosh, Marc Gunn
-- 2023-08-24 — Spanish Ladies #624 — speakers: Chris Gray, Hanneke Cassel, Gordon McLeod, Erin Ruth, Angus MacKenzie, Ryan Roubison, Mick Citern Walsh, Patsy O'Brien
-- 2023-08-17 — Super Moon #623 — speakers: Enda Reilly, Corey Purcell, Mad Maudlin, Sylvia Platypus, Joey Abarta, Charlie Rutan, Tim Cummings, Pete Sutherland
-- 2023-08-10 — The Great Selkie #622 — speakers: Leaping Lulu, Seán Heely, Juha Rossi, Niamh Parsons, Chris Gray, Edward Johnson, Cutting Bracken, Mona Screaming Orphans
-- 2023-08-08 — Gallant Murray #621 Mini Bonus — speakers: Gallant Murray, Marc Gunn, Miranda Nelson Designs
-- 2023-08-05 — Over the Waterfall #620 Mini Bonus — speakers: Paisley Close, Johnny Jump, Marc Gunn, Miranda Nelson Designs
-- 2023-08-03 — Paddy on the Turnpike #619 — speakers: Corey Purcell, Seán Heely, Irishtown Road, Derina Harvey Band, Marc Gunn, Juha Rossi, Miranda Nelson Designs, Todd Wiley
-- 2023-07-31 — Jacobites #618 Mini Bonus — speakers: Railcar Graffiti, Claire Roche, Inne Amarach, Slainte Claire Roche, Marc Gunn, Miranda Nelson Designs, Tote Bag
-- 2023-07-29 — Celtic Music from MP3.com #617 Mini Bonus — speakers: Heather Dale, Emerald Rose, Art O'Keeffe, Marc Gunn, Miranda Nelson Designs
-- 2023-07-27 — 10,000 Miles Away, Celtic Kickstarter #616 — speakers: Erin Ruth, Seán Heely, Wolf Loescher, Brad Reid, Dan Milner, Brobdingnagian Bards, Bonnie Rideout, Alex Sturbaum
-- 2023-07-20 — The Big Fella #615 — speakers: Derina Harvey Band, Hanneke Cassel, Ed Yother, Jesse Ferguson, Corey Purcell, Boxing Robin, Brad Tuck, Pernod Waltz
-- 2023-07-13 — Wind That Rocks the Barley #614 — speakers: Alexander James Adams, River Driver, Ewen McIntosh, Brad Tuck, Hillary Chance, Glen Roy, Marc Gunn, Miranda Nelson Designs
-- 2023-07-06 — Streets of Derry #613 — speakers: Lily Bentley, Mary Beth Carty, Tim Cummings, Pete Sutherland, Brad Kolodner, Alli Johnson, Corey Purcell, Victoria Johnston
-- 2023-06-29 — High Up On An Irish Cliff #612 — speakers: Irishtown Road, Amelia Hogan, Logical Fleadh, Sober Gentlemen, Jim Sharkey, Christa Burton, Martino Vacca, Marc Gunn
-- 2023-06-22 — Fire In The Glen #611 — speakers: Rod Nevin, Corey Purcell, Colin McGlynn, Fin Moore, Chris Gray, Sylvia Platypus, Tim Cummings, Elias Alexander
-- 2023-06-15 — Return from County Mayo, Ireland #610 — speakers: Colin McGlynn, Lily Bentley, Alli Johnson, Boxing Robin, Mary Beth Carty, Wolf Loescher Mark Kenneth, Amelia Hogan, Roy Michael
-- 2023-06-08 — Irish Sessions With Kinnfolk #609 — speakers: Mitchell Petersen, Julie Kinn, Jon Pilatzke, Marc Gunn, George Allan Set, Kelly Set Reels, Midsummer Jigs, Story Girl
-- 2023-05-25 — Magic Dragon #608 — speakers: Gordon McLeod, Joey Abarta, Kieran Byrne, Brad Reid, David Arkenstone, Thrifty Malone, Ewen McIntosh, Ryan Roubison
-- 2023-05-18 — Highlands to Glasgow #607 — speakers: Wolf Loescher, Mark Kenneth, Mad Maudlin, Lauren Oxford, Seán Heely, Brobdingnagian Bards, Jesse Ferguson, Karen Matheson
-- 2023-05-11 — Mother's Day, In Praise of Women #606 — speakers: Logical Fleadh, Hanneke Cassel, Boxing Robin, Karan Casey, Amelia Hogan, Alli Johnson, Lissa Schneckenburger, Mary Beth Carty
-- 2023-05-04 — First Pint with Bridget O'Malley #605 — speakers: Bridge O'Malley, Norah Rendell, Conor Caldwell, Enda Reilly, Tommy Fakem, Nick Metcalf, Micho Ressell, Johnny Irish
-- 2023-04-27 — Life of a Rover #604 — speakers: Emma Langford, Tommy Fakem, Karan Casey, Railcar Graffiti, Mick Citern Walsh, Alli Johnson, Hanneke Cassel, Pipe Jigs
-- 2023-04-20 — Celtic Tides #603 — speakers: Hanneke Cassel, Niamh Dunne, Kieran Byrne, Seldom Sober, Ben Doran, Jonny Dyer, Kellys Wayke, Michael Maloney
-- 2023-04-13 — Roll On Home #602 — speakers: Hanneke Cassel, Railcar Graffiti, Ben Doran, Irishtown Road, Ewen McIntosh, Jeri Hanneke Cassel, Marc Gunn, Miranda Nelson Designs
-- 2023-04-06 — Celebrate the Things you Love #601 — speakers: Hanneke Cassel, Lily Bentley, Ben Doran, Mad Maudlin, Jim Brady, Chris Crawford, Kyle Carey, Niamh Dunne
-- 2023-03-30 — Fun & Funny #600 — speakers: Railcar Graffiti, Kellys Wayke, Brobdingnagian Bards, Jedi Mickey, Marc Gunn, Miranda Nelson Designs, Bill Mandeville, Meghan Walker
-- 2023-03-23 — Into Spring #599 — speakers: Adam Young, Allison Lupton, John Doyle, Gaelynn Lea, Laughing Jack, Beth Patterson, Lily Bentley, Liesel Wilson
-- 2023-03-17 — St. Patrick's Day 2023, Part 2 — speakers: St Patrick, Nathan Gourley, Laura Feddersen, Bill Mullen, Marc Gunn, Lissa Schneckenburger, Brad Tuck, Logical Fleadh
-- 2023-03-15 — St. Patrick's Day 2023, Part 1 — speakers: St Patrick, Wild Blue Yonder, Wolf Loescher, Mark Kenneth, Mary Beth Carty, Jesse Ferguson, Mad Maudlin, Seán Heely
-- 2023-03-09 — St. Patrick's Day Morning — speakers: St Patrick, Lissa Schneckenburger, Mary Beth Carty, Niamh Parsons, Muireann Nic Amhlaoibh, Randy Lee Gosa, Karan Casey, Thom Dunn
-- 2023-03-02 — Adrift with Celtic Women — speakers: St Patrick, Sharon Shannon, Mary Beth Carty, Amelia Hogan, Kellswater Bridge, Heather Dale, Emerald Accent, Lisa Schettner
-- 2023-02-23 — Wonderful New Day, Ireland — speakers: Santiago Molina, Logical Fleadh, Lissa Schneckenburger, Melanie Gruben, Victoria Keating, Chris Murphy, Bad Haggis, Kevin McHugh
-- 2023-02-16 — We All Need More Kindness — speakers: Grace O'Malley, Ed Harris, Jodee James, Achill Crossing, Melanie Gruben, Lissa Schneckenburger, Dark Isle Bagpiper, Til Ireland
-- 2023-02-09 — She Moved Through the Fair #592 — speakers: Stratford Symphony Orchestra, Mary Beth Carty, Logical Fleadh, Na Rósaí, Ryan MacNeil, Bill Grogan, Cutting Bracken Tha mi, Marc Gunn
-- 2023-01-26 — Celtic Instrumental Reconnect #591 — speakers: Poisoned Dwarf, Widening Gyre, Sylvia Woods, Robin Huw Bowen, Ed Harris, Keith Hinchliffe, Jonathan Milton, Mark Miller
-- 2023-01-19 — Stolen Child #590 — speakers: Jen Midkiff, Seán Heely, Shelli Le Fay, Lauren Oxford, Wolf Loescher, Mark Kenneth, Jesse Ferguson, Brad Tuck
-- 2023-01-12 — Kilts, Celts, & Rock'n'Roll — speakers: Garry O'Meara, Will Macmorran, Sober Gentlemen, Lobster Tail, John Barleycorn, Ken Petrie, Marc Gunn, Miranda Nelson Designs
-- 2023-01-05 — New Celtic Music in 2023 — speakers: Wolf Loescher, Jesse Ferguson, Emma Langford, Ryan McKasson, Kalos Kickstarter, Johnny Gallacher, Vincent Seven Stars, Marc Gunn
-- 2022-12-29 — Celtic Top 20 for 2022 — speakers: Marc Gunn, Gothard Sisters, Screeched Inn, Flynn Cohen, John Doyle, Battlefield Band, Muireann Nic Amhlaoibh, Ed Miller
-- 2022-12-22 — Celtic Folk Christmas #586 — speakers: David Blonski, Enda Reilly, Bart Zeal, Alisa Marie, Terry McDade, Ken O'Malley, Eileen Ivers, Brad Tuck
-- 2022-12-15 — Celtic Music Stories #585 — speakers: Amelia Hogan, Boston Blackthorne, Brad Tuck, Sue Spencer, Marc Gunn, Enda Reilly, Jim Ofsthun, Julie Kinn
-- 2022-12-08 — Patron Saints of Celtic Music #584 — speakers: Marc Gunn Sam Gillogly, Gone Molly, Alexander James Adams Get, John Sharkey White, Peggy Gordon, Hobbit Polka, Sam Gillogly, Baobhan Sith
-- 2022-11-24 — Celtic Thanksgiving #583 — speakers: Anna Bosnick, Enda Reilly, Alisa Marie, Graham Vincent David Mitchell, Captian O'Kane, Marc Gunn, Miranda Nelson Designs, Song Henger
-- 2022-11-17 — Dinosaur Jigs #582 — speakers: Raúl Sanz, David Blonski, Niamh Dunne, Annie Lorkowski, Willie Taylor, Dance Kinnfolk, Mona Wakefire Smuggler's Song, Marc Gunn
-- 2022-11-10 — Walking Ireland #581 — speakers: Nathan Gourley, Laura Feddersen, Ron Cody, Raúl Sanz, Bren Holmes, Clare Sands, Biddy Mulligan, Blackberry Blossom
-- 2022-11-03 — Altan #580 — speakers: Wendy MacIsaac, Brobdingnagian Bards, Jared Bogle, Angel Story, Marc Gunn, Miranda Nelson Designs, Song Henger, Martin Schaub
-- 2022-10-27 — Lunasa #579 — speakers: Sharon Shannon, Colin Grant Adams, Marc Gunn, Miranda Nelson Designs, Meghan Walker, Dan mcDade, Carol Baril, Miranda Nelson
-- 2022-10-20 — Sail On, Ireland #578 — speakers: Shannon Dunne, Santiago Molina, Niamh Dunne, Alex Sturbaum, Battlefield Band, Gwilym Morus, Chris Murphy, Clare Sands
-- 2022-10-13 — Queen Among The Heather #577 — speakers: Patrick Finley, Achill Crossing, Outbound Traveler, Lissa Schneckenburger, Patrick Finley Achonry Lasses, Marc Gunn, Miranda Nelson Designs, Mitchell Petersen
-- 2022-10-06 — Jigs & Reels of Ireland #576 — speakers: Randy Clepper, Anne Roos, David Blonski, Johnny Mickey, Lee Erin Quinn, Bung Knee Jigs, Rouge Mouse, Marc Gunn
-- 2022-09-29 — I Am Ireland #575 — speakers: Flynn Cohen, Jackie Oates, David Blonski, Dylan Walshe, Derek Byrne, Tuatha Dea, Fletch Taylor, Dead String Rhythm
-- 2022-09-22 — Irish Legacy #574 — speakers: Muireann Nic Amhlaoibh, Brobdingnagian Bards, Clare Cunningham, Flynn Cohen, Brad Tuck, Andrew McKee, Dead String Rhythm, Marc Gunn
-- 2022-09-16 — My Lagan Love #573 — speakers: Wolf Loescher, Nathan Gourley, Laura Feddersen, Niamh Dunne, Don Gabbert, Heidi Talbot, Screeched Inn, Arty McGlynn
-- 2022-09-08 — Byker Hill #572 — speakers: Marc Gunn, Miranda Nelson Designs, Clare Cunningham, Tuatha Dea, Song Henger, Meghan Walker, Dan mcDade, Carol Baril
-- 2022-08-25 — Rights of Celtic Women #571 — speakers: Avon Faire, Lissa Schneckenburger, Niamh Dunne, Nathan Gourley, Laura Feddersen, Gwendolyn Snowdon, Erin Ruth Tulua, Kwee vuh
-- 2022-08-18 — Middle Tennessee Highland Games #570 — speakers: Laura Feddersen, Flynn Cohen, Derek Byrne, Marc Gunn, Tuatha Dea, Nathan Gourley, Joe Tighe, Dead String Rhythm
-- 2022-08-11 — Sustainability in Celtic Music #569 feat. Lissa Schneckenburger — speakers: Lissa Schneckenburger, Wolf Loescher, Sharon Shannon, Gerry O'Beirne, Rosie Shipley, Kelly Set Reels, Sacred Earth, Laura Cortese
-- 2022-08-04 — Magic of the Celts #568 feat. CaliCeltic — speakers: Andy Irvine, La Nef, Kevin McKrell, Kris Colt, Enda Reilly, Mary MacMahon's Lady, Beggarman Dan, Presenting Sons
-- 2022-07-28 — Beauty of Limerick #567 — speakers: Will Macmorran, Niamh Dunne, Maggie Rant, Erin Ruth, Bluegrass Band, John Doyle, Harry Brewer, Miranda Nelson Designs
-- 2022-07-21 — Irish All Along #566 — speakers: La Nef, Enda Reilly, Niamh Dunne, Telenn Tri, Kevin McKrell, Brad Tuck, Merry Blacksmith, Dublin Town
-- 2022-07-14 — Over the Hills and Far Away #565 — speakers: Jocelyn Pettit, Kate Rusby, Erin Ruth, John Stout, Wind Rose, Erin Ruth Voice, Miranda Nelson Designs, Marc Gunn
-- 2022-07-07 — Favor of a Dance #564 feat. Ellen Gibling — speakers: Ellen Gibling, Gerry O'Connor, Marc Gunn, Jonny Dyer, Jamie Haeuser, Jonathan Milton, Boston Blackthorne, Jocelyn Pettit
-- 2022-06-30 — Celtic Workout #563 — speakers: Song Henger, Deirdre Graham, Boston Blackthorne, Marys Lane, Event Horizon, Marc Gunn Sam Gillogly, Chrissy Crowley, Wendy MacIsaac
-- 2022-06-23 — Celtic Women of Summer #562 — speakers: Eileen Ivers, Nathan Gourley, Laura Feddersen, Abby Green, Mile Stone, Graham Dunne, Tony Gibbons, Muireann Nic Amhlaoibh
-- 2022-06-16 — Scotland #561 — speakers: Mike Katz, Spencer Murray Pipeslinger, Battlefield Band, Jimi McRae, Ed Miller, Alasdair White, Marc Gunn, Duncan McLauchlan
-- 2022-06-09 — Kyles of Bute #560 — speakers: Mike Katz Mike Whellans, Ed Harris, Spirited Lads, Maggie Drennon, Telenn Tri, Mike Whellans Juan Martino, Juan Martino, Ye Banks
-- 2022-05-26 — Courting Tales #559 — speakers: Bret Blackshear, Poitin Band, Graham Dunne, Tony Gibbons, Jacqui McCarthy, Scott Hoye, Redhill Rats, Gibbons Blackbirds
-- 2022-05-19 — You Can Irish Dance If You Want To #558 — speakers: Andrew Finn Magill, Marc Gunn, Sam Gillogly, David Curley Mick Broderick, Emma Langford, Dark Patrick, Hugh Morrison, Mick Broderick
-- 2022-05-12 — Folk Yeah! #557 — speakers: Poitin Band, Preab Meadar, Liesel Wilson, Telenn Tri, Karen Matheson, Gaelynn Lea, Colleen Raney, Jeremy Spencer
-- 2022-05-05 — Dumbarton's Drums — speakers: Bonnie Rideout Matt Bell, Tom Morley, Beth Patterson, Patrick O'Flaherty, Hank Cramer, James Shipp, Boston Blackthorne, Cady Finlayson
-- 2022-04-28 — Jack of All Trades #555 — speakers: Stephanie Claussen, Beer Belly, Muireann Nic Amhlaoibh, Tim Hill, George Papavgeris, Cois Abhann, Bonnie Anne, Miranda Nelson Designs
-- 2022-04-21 — Singing Scots Gaelic #554 — speakers: Scots Gaelic, Gothard Sisters, Telenn Tri, Tom Eure, Hunting McLeod, Kyle Carey, Story Girl, Shannon Heaton
-- 2022-04-14 — Trees for Peace #553 — speakers: Jonny Dyer, Heather Dale, Nick Hennessey, Avon Faire, Brad Reid, Iarla O'Lionaird, John McLean Allan, Yon Forest
-- 2022-04-07 — Reel Faeries #552 — speakers: John Doyle, Alasdair White, Avon Faire, Andy Lamy, Graham Dunne, Tony Gibbons, Don Gabbert, Aughris Head
-- 2022-03-31 — The Celts Rock #551 — speakers: Screeched Inn, de Fierro, Jasper Coal, Bren Holmes, Screeched Inn Welcome, Miranda Nelson Designs, Marc Gunn, John Doyle
-- 2022-03-24 — Celtic Folk #550 — speakers: Jeff Ksiazek, Muireann Nic Amhlaoibh, Don Gabbert, Cady Finlayson, Alexander James Adams, John Stout, Jennifer Licko, Ed Harris
-- 2022-03-16 — St Patrick's Day 2022 — speakers: St Patrick, Gothard Sisters, Dave Curley, Jackie Oates, Andy Irvine, Marc Gunn Sam Gillogly, Avon Faire, Colin Farrell
-- 2022-03-10 — St. Patrick's Ireland #548 — speakers: St Patrick, Carroll Sisters, John Doyle, Bonnie Rideout, Seamus Kennedy, Kevin Burke, Brobdingnagian Bards, Bonny Kellswater
-- 2022-03-03 — St. Patrick #547 — speakers: St Patrick, Dom Duff, John Doyle, John Weber, Kris Colt, Coole Park, Marc Gunn, Finn Byrne
+- 2026-02-19 — Donegal Jigs & Modern Celtic Voices #747 — speakers: Donegal Jigs, Modern Celtic Voices, County Clare, Marc Gunn
+- 2026-02-12 — New Irish Folk Fire #746 — speakers: Marc Gunn
+- 2026-02-05 — Brooklyn Kings & Golden Geese #745 — speakers: Marc Gunn
+- 2026-01-29 — Lady With a Lily Crown #744 — speakers: Adam Agee Jon Sousa, Marc Gunn
+- 2026-01-22 — Waltzes, Whiskey, & Wondering Souls #743 — speakers: Wondering Souls, Marc Gunn
+- 2026-01-15 — New Celtic Music You'll Love #742 — speakers: fresh trad, pub songs, Marc Gunn
+- 2026-01-08 — Chill Celtic Folk Songs for a New Year #741 — speakers: Celtic songs, Marc Gunn
+- 2025-12-31 — Best Celtic Music 2025 – Fan Voted Top 20 #740 — speakers: Best Celtic Music, Fan Voted Top, Marc Gunn
+- 2025-12-24 — Celtic Christmas Carols & Songs #739 — speakers: Marc Gunn
+- 2025-12-18 — Just Listening... Live Recordings from IrishFest Atlanta and More #738 — speakers: Just Listening, Marc Gunn
+- 2025-12-11 — Interviews with The Gothard Sisters and The Irish Lassies #737 — speakers: Gothard Sisters, Marc Gunn
+- 2025-11-27 — Celtic Blessings for Thanksgiving — speakers: Marc Gunn
+- 2025-11-20 — The Spirit of Irish Folk Music #735 — speakers: Gerry O'Connor, Gothard Sisters, Marc Gunn
+- 2025-11-13 — New Irish & Celtic Folk #734 — speakers: New Irish, Celtic Folk, Marc Gunn
+- 2025-11-06 — Celtic Adventure: Songs and Stories of the Isles #733 — speakers: Celtic Adventure, Marc Gunn
+- 2025-10-30 — Celtic Songs of Samhain and the Faerie Folk #732 — speakers: Marc Gunn
+- 2025-10-23 — Voices of Celtic Song #731 — speakers: Niamh Dunne, Marc Gunn
+- 2025-10-16 — Open the Door for Three Interview #730 — speakers: Marc Gunn
+- 2025-10-09 — Celtic Folk Songs & Fiddle Tunes #729 — speakers: Dave Curley, Marc Gunn
+- 2025-09-25 — Strange Affairs & Irish Traditions #728 — speakers: Niamh Dunne, Marc Gunn
+- 2025-09-18 — From Dublin To Glencoe #727 — speakers: Marc Gunn
+- 2025-09-11 — Téada Interview #726 — speakers: Ryan Mc, Marc Gunn
+- 2025-09-04 — Celtic Women at the Heart of the Tradition #725 — speakers: Celtic Women, Marc Gunn
+- 2025-08-28 — Whiskey, Slides & Standing Stones #724 — speakers: Standing Stones, Marc Gunn
+- 2025-08-21 — Tulua Interview in County Wexford #723 — speakers: Marc Gunn
+- 2025-08-14 — Sparks in the Cabin #722 — speakers: Carroll Sisters Trio, Marc Gunn
+- 2025-08-07 — Farewell To Belfast #721 — speakers: Marc Gunn
+- 2025-07-31 — Sailing Across the Ocean #720 — speakers: Marc Gunn
+- 2025-07-24 — 20 Years of Irish & Celtic Music! #719 — speakers: Celtic Music, Marc Gunn
+- 2025-07-17 — Irish Rebellion in Wexford #718 — speakers: Irish Rebellion, Marc Gunn
+- 2025-07-10 — Only the Highlights, Please! #717 — speakers: Highlight Reel, Marc Gunn
+- 2025-07-03 — Celtic Pub Songs #716 — speakers: Celtic Pub Songs, Folk Songs, Stories Flashback, Marc Gunn
+- 2025-06-26 — We're Only Mortal #715 — speakers: Marc Gunn
+- 2025-06-19 — St. Patrick's Day Favorites #714 — speakers: St Patrick, Marc Gunn
+- 2025-06-12 — How Gaelic Languages Carry Celtic Traditions #713 — speakers: How Gaelic Languages Carry, Celtic Traditions, Shannon Heaton, Irish Music Stories, Ancient Tongues, Modern Times, How Gaelic, Marc Gunn
+- 2025-06-05 — Celts of Pride Month #712 — speakers: Pride Month, Celtic Music Pod, Marc Gunn
+- 2025-05-29 — Monday Morning Fun #711 — speakers: Monday Morning Fun, Marc Gunn
+- 2025-05-22 — What You Do Matters #710 — speakers: Marc Gunn
+- 2025-05-15 — The World is Changing #709 — speakers: Battlefield Band, Marc Gunn
+- 2025-05-08 — Making Friends #708 — speakers: Marc Gunn
+- 2025-04-24 — Pure Grace, Celtic Instrumental Music #707 — speakers: Pure Grace, Marc Gunn
+- 2025-04-17 — Amelia Hogan Interview #706 — speakers: Amelia Hogan, Marc Gunn
+- 2025-04-10 — Celtic Springtime #705 — speakers: Sheridan Rúitín, Copley St, Marc Gunn
+- 2025-04-03 — Little Fairy #704 — speakers: Little Fairy, Marc Gunn
+- 2025-03-27 — Interview With Flook #703 — speakers: Marc Gunn
+- 2025-03-20 — All Around My Hat #702 — speakers: Nathan Gourley, Marc Gunn
+- 2025-03-13 — St. Patrick's Day Music #701 - 3 1/2 Hours!!! — speakers: Happy St Patrick, Marc Gunn
+- 2025-03-06 — St. Patrick's Day Shows in 2025 #700 — speakers: St Patrick, Marc Gunn
+- 2025-02-27 — Kinnfolk Interview #699 — speakers: Star Above, Celtic Music Podcas, Marc Gunn
+- 2025-02-20 — Ramble Through the Valley #698 — speakers: Marc Gunn
+- 2025-02-13 — Ireland's Struggle #697 — speakers: Marc Gunn
+- 2025-02-06 — The Minstrel Boy with Jesse Ferguson #696 — speakers: Jesse Ferguson, Marc Gunn
+- 2025-02-04 — Want St Patrick's Day Forever Long Episode? #695 BONUS — speakers: Want St Patrick, St Patrick, Marc Gunn
+- 2025-01-30 — Celtic Forever #695 — speakers: Marc Gunn
+- 2025-01-23 — Celtic Women Flowers of Winter #694 — speakers: Marc Gunn
+- 2025-01-16 — The Peacocks #693 — speakers: Ed Harris, Marc Gunn
+- 2025-01-09 — Irish Sessions with Shannon Heaton #692 — speakers: Marc Gunn
+- 2024-12-25 — Celtic Top 20 of 2024 #691 — speakers: Celtic Top, Best Songs, Marc Gunn
+- 2024-12-19 — Light a Candle in the Window #690 — speakers: Marc Gunn
+- 2024-12-12 — Celtic Gems #689 — speakers: Celtic Gems, Old Blind, Marc Gunn
+- 2024-12-05 — Brother Sea #688 — speakers: Marc Gunn
+- 2024-11-28 — Thankfully, There's You and Celtic Music #687 — speakers: Celtic Music, Happy Thanksgiving, Marc Gunn
+- 2024-11-21 — The Unicorn Song #686 — speakers: Kathryn Tic, Marc Gunn
+- 2024-11-14 — Folk on Foot #685 — speakers: Marc Gunn
+- 2024-11-07 — The Friel Sisters #684 — speakers: Marc Gunn
+- 2024-10-31 — Cherish the Ladies #683 — speakers: IrishFest Atlanta headliner, Celtic Music, Marc Gunn
+- 2024-10-24 — Scotland's Whisky #682 — speakers: Marc Gunn
+- 2024-10-17 — Lady of the House #681 — speakers: Dan Possumato, Cherish Th, Marc Gunn
+- 2024-10-10 — Irishfest Atlanta 2024 #680 — speakers: Teresa Finley, Marc Gunn
+- 2024-09-26 — Bonnie Dundee #679 — speakers: Bonnie Dundee, Marc Gunn
+- 2024-09-19 — Dancing With Hobbits #578 — speakers: Marc Gunn
+- 2024-09-12 — The Muckers' Whiskey Tango #677 — speakers: Whiskey Tango, Marc Gunn
+- 2024-09-05 — Fishing For Celtic Music #676 — speakers: Marc Gunn
+- 2024-08-29 — Kitty's Gone A-Milking #675 — speakers: Marc Gunn
+- 2024-08-22 — Celtic Singers and Songs #674 — speakers: Celtic singers, Marc Gunn
+- 2024-08-15 — First Light Dawns On Irish & Celtic Music #673 — speakers: Celtic Music, Marc Gunn
+- 2024-08-08 — Life As A Rainy Dream #672 — speakers: Marc Gunn
+- 2024-07-25 — Here's to Friends! #671 — speakers: Hanneke Cassel, Marc Gunn
+- 2024-07-18 — Memories of Ireland #670 — speakers: Marc Gunn
+- 2024-07-11 — Czech Celtic Music with Poitin #669 — speakers: Jeremy King, Marc Gunn
+- 2024-07-04 — Freedom for the Fourth #668 — speakers: Independence Day, Marc Gunn
+- 2024-06-27 — Celtic Dance Party #667 — speakers: Celtic Dance Party, Marc Gunn
+- 2024-06-20 — Come Hell or Highwater #666 — speakers: Come Hell, Marc Gunn
+- 2024-06-13 — Women of Summer #665 — speakers: Marc Gunn
+- 2024-06-06 — Planxty Caper #664 — speakers: Marc Gunn
+- 2024-05-30 — Ireland's New Road #663 — speakers: Marc Gunn
+- 2024-05-23 — Whale Hymn #662 — speakers: Marc Gunn
+- 2024-05-16 — The Fox & The Thrush #661 — speakers: Conor Mal, Marc Gunn
+- 2024-05-09 — Drowsy Dancing Bear #660 — speakers: Marc Gunn
+- 2024-04-25 — No Place Like Home #659 — speakers: Marc Gunn
+- 2024-04-18 — Irish Shadows #658 — speakers: Marc Gunn
+- 2024-04-11 — Red-Haired Bully Boys #657 — speakers: Haired Bully Boys, Marc Gunn
+- 2024-04-04 — Plant Your Boots For Freedom #656 — speakers: Marc Gunn
+- 2024-03-28 — Celtic Cat's Meow #655 — speakers: Telenn Tri, Marc Gunn
+- 2024-03-21 — Flying Fingers in the Fire's Glow #654 — speakers: Marc Gunn
+- 2024-03-14 — Happy St. Patrick's Day 2024 #653 — speakers: St Patrick, Marc Gunn
+- 2024-03-07 — St. Patrick's Day 2024 #652 — speakers: St Patrick, Santiago Molina, Marc Gunn
+- 2024-03-06 — Devil's in the Sea #651 — speakers: Marc Gunn
+- 2024-02-29 — Celtic Women #650 — speakers: Celtic Women, Marc Gunn
+- 2024-02-22 — Midnight Hour with RUNA #649 — speakers: Marc Gunn
+- 2024-02-15 — Dúlamán #648 — speakers: Marc Gunn
+- 2024-02-08 — A Gaelic Blessing #647 — speakers: Seán Heely, Olivia Bradl, Marc Gunn
+- 2024-01-30 — 40 Minute Celtic Workout #646 — speakers: Gordon McLeo, Marc Gunn
+- 2024-01-25 — Rose in the Heather #645 — speakers: Marc Gunn
+- 2024-01-18 — The Celtic Kitchen Party #644 — speakers: Marc Gunn
+- 2024-01-11 — The Wild Rover from The Harr #643 — speakers: Marc Gunn
+- 2024-01-04 — Happy New Year of Irish & Celtic Music Joy #642 — speakers: Ed Yother, Mary Beth Cart, Marc Gunn
+- 2023-12-28 — Celtic Top 20 of 2023 #641 — speakers: Celtic Top, Best Songs, Marc Gunn
+- 2023-12-21 — Celtic Christmas 2023 — speakers: Celtic Christmas, Enjoy Irish, Marc Gunn
+- 2023-12-14 — Winter Garden #639 — speakers: Marc Gunn
+- 2023-12-07 — Fairytale of New York #638 — speakers: New York, Marc Gunn
+- 2023-11-23 — Celtic Thanksgiving #637 — speakers: Celtic Thanksgiving, Marc Gunn
+- 2023-11-16 — Mist Covered Mountains #636 — speakers: Mist Covered, Marc Gunn
+- 2023-11-09 — Black Tower #635 — speakers: Hanneke Cassel, Marc Gunn
+- 2023-11-02 — IrishFest Atlanta 2023 #634 — speakers: Marc Gunn
+- 2023-10-26 — Eimear Arkins #633 — speakers: Eimear Arkins, Marc Gunn
+- 2023-10-19 — Cruisicin Lan #632 — speakers: Jared Bogle, Marc Gunn
+- 2023-10-12 — Rocky Road to Dublin #631 — speakers: Rocky Road, Ed Harris, Marc Gunn
+- 2023-10-05 — Ashley Davis Band #630 — speakers: Ashley Davis Band, Ashley Davis, Marc Gunn
+- 2023-09-28 — Celtic Women Trip to Dingle #629 — speakers: Marc Gunn
+- 2023-09-21 — Foxhunter Dance a Jig #628 — speakers: Foxhunter Dance, Foxhunter Jig, Nathan Gourley, Marc Gunn
+- 2023-09-14 — Tangled on the Moon #627 — speakers: Marc Gunn
+- 2023-09-07 — Carry My Song, Clare Island Whiskey #626 — speakers: Carry My Song, Juha Rossi, Marc Gunn
+- 2023-08-31 — Secret World of Celtic Rock #625 — speakers: Secret World, Celtic Rock, Marc Gunn
+- 2023-08-24 — Spanish Ladies #624 — speakers: Chris Gray, Marc Gunn
+- 2023-08-17 — Super Moon #623 — speakers: Marc Gunn
+- 2023-08-10 — The Great Selkie #622 — speakers: Celtic Earth, Marc Gunn
+- 2023-08-08 — Gallant Murray #621 Mini Bonus — speakers: Marc Gunn
+- 2023-08-05 — Over the Waterfall #620 Mini Bonus — speakers: Marc Gunn
+- 2023-08-03 — Paddy on the Turnpike #619 — speakers: Marc Gunn
+- 2023-07-31 — Jacobites #618 Mini Bonus — speakers: Marc Gunn
+- 2023-07-29 — Celtic Music from MP3.com #617 Mini Bonus — speakers: Marc Gunn
+- 2023-07-27 — 10,000 Miles Away, Celtic Kickstarter #616 — speakers: Marc Gunn
+- 2023-07-20 — The Big Fella #615 — speakers: Marc Gunn
+- 2023-07-13 — Wind That Rocks the Barley #614 — speakers: Marc Gunn
+- 2023-07-06 — Streets of Derry #613 — speakers: Marc Gunn
+- 2023-06-29 — High Up On An Irish Cliff #612 — speakers: Celtic Musi, Marc Gunn
+- 2023-06-22 — Fire In The Glen #611 — speakers: Rod Nevin, Marc Gunn
+- 2023-06-15 — Return from County Mayo, Ireland #610 — speakers: County Mayo, Celtic Invasion, Marc Gunn
+- 2023-06-08 — Irish Sessions With Kinnfolk #609 — speakers: Mitchell Petersen, Marc Gunn
+- 2023-05-25 — Magic Dragon #608 — speakers: Marc Gunn
+- 2023-05-18 — Highlands to Glasgow #607 — speakers: Marc Gunn
+- 2023-05-11 — Mother's Day, In Praise of Women #606 — speakers: Marc Gunn
+- 2023-05-04 — First Pint with Bridget O'Malley #605 — speakers: Bridge O'Malley, Marc Gunn
+- 2023-04-27 — Life of a Rover #604 — speakers: Marc Gunn
+- 2023-04-20 — Celtic Tides #603 — speakers: Hanneke Cassel, Marc Gunn
+- 2023-04-13 — Roll On Home #602 — speakers: Hanneke Cassel, Railcar Graffiti, Marc Gunn
+- 2023-04-06 — Celebrate the Things you Love #601 — speakers: Marc Gunn
+- 2023-03-30 — Fun & Funny #600 — speakers: Marc Gunn
+- 2023-03-23 — Into Spring #599 — speakers: Into Spring, Marc Gunn
+- 2023-03-17 — St. Patrick's Day 2023, Part 2 — speakers: St Patrick, Marc Gunn
+- 2023-03-15 — St. Patrick's Day 2023, Part 1 — speakers: St Patrick, Marc Gunn
+- 2023-03-09 — St. Patrick's Day Morning — speakers: St Patrick, Marc Gunn
+- 2023-03-02 — Adrift with Celtic Women — speakers: St Patrick, Marc Gunn
+- 2023-02-23 — Wonderful New Day, Ireland — speakers: Wonderful New Day, Marc Gunn
+- 2023-02-16 — We All Need More Kindness — speakers: Marc Gunn
+- 2023-02-09 — She Moved Through the Fair #592 — speakers: Marc Gunn
+- 2023-01-26 — Celtic Instrumental Reconnect #591 — speakers: Marc Gunn
+- 2023-01-19 — Stolen Child #590 — speakers: Jen Midkiff, Marc Gunn
+- 2023-01-12 — Kilts, Celts, & Rock'n'Roll — speakers: Marc Gunn
+- 2023-01-05 — New Celtic Music in 2023 — speakers: Marc Gunn
+- 2022-12-29 — Celtic Top 20 for 2022 — speakers: Marc Gunn
+- 2022-12-22 — Celtic Folk Christmas #586 — speakers: David Blon, Marc Gunn
+- 2022-12-15 — Celtic Music Stories #585 — speakers: Celtic Music Stories, Marc Gunn
+- 2022-12-08 — Patron Saints of Celtic Music #584 — speakers: Patron Saints, Celtic Music, Marc Gunn
+- 2022-11-24 — Celtic Thanksgiving #583 — speakers: Anna Bosn, Marc Gunn
+- 2022-11-17 — Dinosaur Jigs #582 — speakers: Raúl Sanz, Marc Gunn
+- 2022-11-10 — Walking Ireland #581 — speakers: Marc Gunn
+- 2022-11-03 — Altan #580 — speakers: County Donegal, Marc Gunn
+- 2022-10-27 — Lunasa #579 — speakers: Marc Gunn
+- 2022-10-20 — Sail On, Ireland #578 — speakers: Shannon Dunne, Marc Gunn
+- 2022-10-13 — Queen Among The Heather #577 — speakers: Marc Gunn
+- 2022-10-06 — Jigs & Reels of Ireland #576 — speakers: Celtic Music Podcas, Marc Gunn
+- 2022-09-29 — I Am Ireland #575 — speakers: Am Ireland, Celtic Story, Marc Gunn
+- 2022-09-22 — Irish Legacy #574 — speakers: Marc Gunn
+- 2022-09-16 — My Lagan Love #573 — speakers: Wolf Loescher, Marc Gunn
+- 2022-09-08 — Byker Hill #572 — speakers: Marc Gunn
+- 2022-08-25 — Rights of Celtic Women #571 — speakers: Celtic Women, Avon Fair, Marc Gunn
+- 2022-08-18 — Middle Tennessee Highland Games #570 — speakers: Middle Tennessee Highland Games, Visit Middle Tennessee Highland, Celtic Festival, Celtic Music, Marc Gunn
+- 2022-08-11 — Sustainability in Celtic Music #569 feat. Lissa Schneckenburger — speakers: Lissa Schneckenburger, Marc Gunn
+- 2022-08-04 — Magic of the Celts #568 feat. CaliCeltic — speakers: Marc Gunn
+- 2022-07-28 — Beauty of Limerick #567 — speakers: Celtic Musi, Marc Gunn
+- 2022-07-21 — Irish All Along #566 — speakers: La Nef, Marc Gunn
+- 2022-07-14 — Over the Hills and Far Away #565 — speakers: Far Away, Marc Gunn
+- 2022-07-07 — Favor of a Dance #564 feat. Ellen Gibling — speakers: Ellen Gibling, Marc Gunn
+- 2022-06-30 — Celtic Workout #563 — speakers: Celtic Workout, Marc Gunn
+- 2022-06-23 — Celtic Women of Summer #562 — speakers: Eileen Ivers, Nathan Gourley, Marc Gunn
+- 2022-06-16 — Scotland #561 — speakers: Mike Katz, Spencer Murray, Marc Gunn
+- 2022-06-09 — Kyles of Bute #560 — speakers: Celtic Invasion Vacation, Marc Gunn
+- 2022-05-26 — Courting Tales #559 — speakers: Bret Blackshear, Marc Gunn
+- 2022-05-19 — You Can Irish Dance If You Want To #558 — speakers: Andrew Finn Magill, Marc Gun, Marc Gunn
+- 2022-05-12 — Folk Yeah! #557 — speakers: Poitin Band, Marc Gunn
+- 2022-05-05 — Dumbarton's Drums — speakers: Drums Let, Bonnie Rideout, Marc Gunn
+- 2022-04-28 — Jack of All Trades #555 — speakers: Marc Gunn
+- 2022-04-21 — Singing Scots Gaelic #554 — speakers: Scots Gaelic, Marc Gunn
+- 2022-04-14 — Trees for Peace #553 — speakers: Marc Gunn
+- 2022-04-07 — Reel Faeries #552 — speakers: Marc Gunn
+- 2022-03-31 — The Celts Rock #551 — speakers: Screeched Inn, Marc Gunn
+- 2022-03-24 — Celtic Folk #550 — speakers: Marc Gunn
+- 2022-03-16 — St Patrick's Day 2022 — speakers: St Patrick, Marc Gunn
+- 2022-03-10 — St. Patrick's Ireland #548 — speakers: St Patrick, Marc Gunn
+- 2022-03-03 — St. Patrick #547 — speakers: St Patrick, Marc Gunn
 - 2022-03-01 — St Patrick's Day Party Begins! — speakers: St Patrick, Marc Gunn
-- 2022-02-24 — The Women of Irish & Celtic Music #546 — speakers: Lissa Schneckenburger, Jenna Moynihan, Heather Dale, Dublin Abbey, Bonnie Rideout, Beth Patterson, Secret Sky, Liesel Wilson
-- 2022-02-17 — Slow Travel #545 — speakers: Enda Seery, Brad Reid, Marc Gunn, Andy Law, Kathy Barwick, Banna De Dhá, Eddie Biggins, Marys Lane
-- 2022-02-10 — Places So Sacred #544 — speakers: Poitin Band, Vintage Wildflowers, Wooden Legs, Hugh Morrison, Rising Gael, Kilmaine Saints, Duncan McLauchlan, Animali Hugh Morrison
-- 2022-02-03 — One Day in Sligo #543 — speakers: Spencer Murray Pipeslinger, Ed Miller, Hank Cramer, Seumas Gagne, Kevin Flynn, Jenny Dang, Miranda Nelson Designs, Marc Gunn
-- 2022-01-27 — Famine or the Sword #542 — speakers: Conor Caldwell, Muireann Nic Amhlaoibh, Ellen Gibling, Pauline Scanlon, Bob McNeill, Brad Tuck, Joe Batts, Tall Tales
-- 2022-01-20 — Get Back Together #541 — speakers: Marc Gunn, Screeched Inn, Achill Crossing, Alisa Marie, Miranda Nelson Designs, Song Henger, Carol Baril, Miranda Nelson
-- 2022-01-13 — Wonder #540 — speakers: Gerry O'Connor, Cara Dillon, Alisa Marie, Tuatha Dea, Creadeamh Sí, Peggy Gordon, Miranda Nelson Designs, Marc Gunn
-- 2022-01-06 — Out With the Old, In With the New #539 — speakers: Widening Gyre, Muireann Nic Amhlaoibh, Michael William Harrison, Jon Pilatzke, Tuatha Dea, Linda King, Brian Boru, Miranda Nelson Designs
+- 2022-02-24 — The Women of Irish & Celtic Music #546 — speakers: Marc Gunn
+- 2022-02-17 — Slow Travel #545 — speakers: Enda Seery, Marc Gunn
+- 2022-02-10 — Places So Sacred #544 — speakers: Places So Sacred, Marc Gunn
+- 2022-02-03 — One Day in Sligo #543 — speakers: Spencer Murray, Marc Gunn
+- 2022-01-27 — Famine or the Sword #542 — speakers: Conor Caldwell, Marc Gunn
+- 2022-01-20 — Get Back Together #541 — speakers: Get Back Together, Marc Gunn
+- 2022-01-13 — Wonder #540 — speakers: Marc Gunn
+- 2022-01-06 — Out With the Old, In With the New #539 — speakers: Marc Gunn
 - 2022-01-01 — Submit Your Music — speakers: Marc Gunn
-- 2022-01-01 — FAQ — speakers: any job, Marc Gunn
-- 2022-01-01 — Promote Yourself — speakers: Irish Song Lyrics, Click Share, Album Name, Marc Gunn
-- 2021-12-30 — Celtic Top 20 Best Celtic Songs & Tunes of 2021 #538 — speakers: Heather Dale, Brad Reid, Beth Patterson, Will Macmorran, Marc Gunn, Brass Lassie, Moch Pryderi, Deirdre Graham
-- 2021-12-23 — Happy Celtic Christmas 2021 #537 — speakers: Adam Young, Terry McDade, Gaelynn Lea, Sharon Shannon, Marc Gunn, Stephanie Claussen, Brightest Dawn Steel City, Miranda Nelson Designs
-- 2021-12-16 — Celtic Flashback from Patrons #536 — speakers: Mary Knickle, Marc Gunn, Terry Griffith, Jim Brannigan, Ed Miller, Brobdingnagian Bards, Jonny Dyer, Iarla O'Lionaird
-- 2021-12-02 — Prayer for the Fallen #535 — speakers: Gaelynn Lea, Jon Pilatzke, Gerry O'Connor, Kevin Burke, Jesse Ferguson, Jen Midkiff, Achill Crossing, Thom Dunn
-- 2021-11-25 — This is Home #534 — speakers: Jon Pilatzke, Ed Harris, Amelia Hogan, Susana Seivane, Marc Gunn, Gerry O'Connor, Duncan McLauchlan, Glaucia Carvalho
-- 2021-11-18 — Love at Dawn #533 — speakers: Jon Pilatzke, Muireann Nic Amhlaoibh, Brad Reid, Steve Gibb, Matthew Young, Ed Miller, Gaelynn Lea, Gerry O'Connor
-- 2021-11-11 — Green Man #532 — speakers: Robin Huw Bowen, Jonny Dyer, John McGaha, Emma Langford, Bill Mullen, de Fierro, Blue Alatar, Jennifer Cutting
-- 2021-11-04 — Nightfall #531 — speakers: Brad Reid, Duncan McLauchlan, Jim McKenna, Gothard Sisters, Amelia Hogan, Estren Tartanic, John Barleycorn, Miranda Nelson Designs
-- 2021-10-28 — Celtic Women Shine #530 — speakers: Muireann Nic Amhlaoibh, Achill Crossing, Elizabeth Sutherland, Gaelynn Lea, Ashley Davis, Christine Weir, Graham Dunne, Sue Spencer
-- 2021-10-21 — New York Girls #529 — speakers: Muireann Nic Amhlaoibh, Adam Young, Jesse Ferguson, Will Macmorran, Shannon Heaton, Thar Toinn Seaborne, Garry Owen, Kenning Bang
-- 2021-10-13 — Wild Rover #528 — speakers: Jen Midkiff, Amelia Hogan, Dustin Cooper, Bill Mullen, Mickey Coleman, Dom Duff, Gaelynn Lea, Eira Willowgreen
-- 2021-10-07 — All For Me Grog #527 — speakers: Emma Langford, Sue Spencer, Achill Crossing, Graham Dunne, Fir Arda, Turf Fire Liars, Sally Gardens, Michael Goes Flatpickin Road
-- 2021-09-30 — Swallowtail Jig & Other Celtic Tunes #526 — speakers: Jonny Dyer, Jen Midkiff, Adam Young, Gaelynn Lea, Will Macmorran, Duncan Cameron, Miranda Nelson Designs, Marc Gunn
-- 2021-09-23 — Fire in the Kitchen #525 — speakers: Adam Young, Muireann Nic Amhlaoibh, Christine Collister, Achill Crossing, Jen Midkiff, Jesse Ferguson, Shannon Heaton, Donald MacGillivray
-- 2021-09-16 — Muirsheen Durkin #524 — speakers: Muirhseen Durkin, Jen Midkiff, Alexander James Adams, Catherine Koehler, Achill Crossing, Hugh Morrison, Hapn Frog, Miranda Nelson Designs
-- 2021-09-09 — Blackbird #523 — speakers: Susana Seivane, Anna Bosnick, Colleen Raney, Stephanie Claussen, John Mcgaha, Wooden Legs, Brendan Monaghan, Lissa Schneckenburger
-- 2021-08-26 — An Irish Airman #522 — speakers: John Doyle Cillian Vallely, Jonny Dyer, Gaelynn Lea, Kyle Gryphon, Seamus Kennedy, John McLean Allan, Vicki Swan, Slip Tease
-- 2021-08-19 — I Am of Ireland #521 — speakers: Gaelynn Lea, Adam Young, Ashley Davis, Thom Dunn, Jesse Ferguson, Muireann Nic Amhlaoibh, Laughing Jack, Will Macmorran
-- 2021-08-12 — Over the Moor #520 — speakers: Graham Dunne, Jeff Blaney, Fir Arda, John Mcgaha, Kean O'Hara, Que Forte, Miranda Nelson Designs, Marc Gunn
-- 2021-08-05 — P Stands for Paddy #519 — speakers: Bay Allen, Sue Spencer, Jesse Ferguson, Duncan Mclauchlan, Glaucia Carvalho, Matthew Young, Brad Reid, de Fierro
-- 2021-07-29 — An Irish Cottage #518 — speakers: Steve Gibb, Marc Gunn, Brobdingnagian Bards, Andrew McKee, Kelly Set Reels, Totes Adorbs, Miranda Nelson Designs, Morgan George
-- 2021-07-22 — Women of Summer #517 — speakers: Gothard Sisters, Erin Ruth, Liesel Wilson, Emma Langford, Elizabeth Sutherland, Anna Bosnick, Norah Rendell, Amelia Hogan
-- 2021-07-15 — Man of the House #516 — speakers: Brad Reid, John Mcgaha, Emma Langford, Gothard Sisters, Duncan McLauchlan, Glaucia Carvalho, Peggy Gordon, Illumina Duncan McLauchlan
-- 2021-07-08 — Hats Off to Beer #515 — speakers: Emma Langford, Ed Miller, Jim Nelson, Tim Hill, Seamus Kennedy, Duncan McLauchlan, Mháthar Pyata, Mormond Braes
-- 2021-06-24 — Bold Fenian Men #514 — speakers: Bold Fenian, Liesel Wilson, Graham Dunne, Ed Harris, Erin Ruth, Matthew Young, Nick Metcalf, Orla Fallon
-- 2021-06-17 — Life is Too Short #513 — speakers: Anna Bosnick, Elizabeth Sutherland, Steve Gibb, John Mcgaha, Amelia Hogan, Turf Fire Liars, Brad Tuck, Brad Reid
-- 2021-06-10 — Dragonfly #512 — speakers: Gothard Sisters, Brad Reid, Steve Gibb, Kevin Michael Offord, Duncan McLauchlan, Blue Alatar, Wolf Loescher, Michael Offord
-- 2021-06-03 — Blast of Wind #511 — speakers: Brad Reid, John Mcgaha, Duncan McLauchlan, Kevin Michael Offord, Elizabeth Sutherland, Matthew Young, Bay Allen, Robin Huw Bowen
-- 2021-05-27 — Rainy Days #510 — speakers: Melanie Gruben, Bedlam Bards, Dublin Abbey, Beth Patterson, Thomas Patrick Kenny, James Connolly, Patrick Kenny Raglan Road, Miranda Nelson Designs
-- 2021-05-20 — Sleepytime Slow Aires #509 — speakers: Sleepytime Slow Aires, Mithril Duo, Anne Roos, Nick Metcalf, Thomas Doc Grauzer, Andy Lamy, Mark Davies, Cady Finlayson
-- 2021-05-13 — The Irish Rover #508 — speakers: Avery LeVine, Hugh Morrison, Sue Spencer, Robin Huw Bowen, Matt Hughes, Elizabeth Sutherland, Gaelic Storm, Hoffedd Nanw Fach
-- 2021-05-06 — Down By the Water #507 — speakers: Jamie Smith, Sue Spencer, Tim Hill, Jeff Blaney, Graham Dunne, Nick Metcalf, Liesel Wilson, Estren Jeff Blaney
-- 2021-04-29 — Green Ireland #506 — speakers: Fir Arda, Sue Spencer, Graham Dunne, Caroline Bennett, Jeff Blaney, Liesel Wilson, Amelia Hogan, Jesse Ferguson
-- 2021-04-22 — Instrumental Earth #505 — speakers: Laughing Jack, Liesel Wilson, Nick Metcalf, Fir Arda, Estren Doolin, Mary's Jigs, Eira Feedback, Miranda Nelson Designs
-- 2021-04-15 — Wild Colonial Boy #504 — speakers: Jack Duggan, Caroline Bennett, Graham Dunne, Bill Mullen, Liesel Wilson, Nick Metcalf, Jeff Blaney, Turf Fire Liars
-- 2021-04-08 — Celtic Women #503 — speakers: Liesel Wilson, Amelia Hogan, Gothard Sisters, Graham Dunne, Caroline Bennett, Lisa Schettner, Sue Spencer, Cathy Jordan
-- 2021-04-03 — Easter Peace Bonus #502 — speakers: Mike Katz, Cady Finlayson, Deirdre Graham, Sarah Marie Mullen, Seumas Gagne, William Jackson, Celeste Howard, Claire Roche Support
-- 2021-03-25 — My Johnny Was A Shoemaker #502 — speakers: Cady Finlayson, Adam Beattie, Karen Matheson, Marys Lane, Miranda Nelson Designs, Marc Gunn, Kathy Stanford, Kenn Brooks
-- 2021-03-17 — We're giving away 34 Celtic MP3s... — speakers: Marc Gunn
-- 2021-03-17 — Happy St. Patrick's Day #501 — speakers: St Patrick, Mike Katz, Jesse Ferguson, Adam Beattie, Laughing Jack, Eddie Biggins, Heather Dale, Andrew McManus
-- 2021-03-11 — St. Patrick's Day Mind-Blowing Tribute #500 — speakers: St Patrick, Brad Reid, Jesse Ferguson, Colleen Raney, Emma Langford, Deirdre Graham, Beth Patterson, Caliceltic Ed Miller
-- 2021-03-04 — St. Patrick's Day 17 #499 — speakers: St Patrick, Joseph Carmichael, Muireann Nic Amhlaoibh, Rising Gael, Marc Gunn Sam Gillogly, Gerry O'Beirne, Gothard Sisters, Sylvia Woods
-- 2021-02-25 — Thar Be Shanties #498 — speakers: Laughing Jack, Brass Lassie, Eddie Biggins, Spring Lee, Brad Tuck, St Patrick, St Patrick's Day, Newry Highwayman
-- 2021-02-18 — St. Patrick's March #497 — speakers: St Patrick, Marc Gunn, Sam Gillogly, Deirdre Graham, Andrew McManus, Brad Tuck, Mary Turn Awa, Miranda Nelson Designs
-- 2021-02-11 — Much Needed Catharsis #496 — speakers: Andrew Finn Magill, Screeched Inn, Gothard Sisters, Marc Gunn, Finn Magill, Playground Marc Gunn, St Patrick, Miranda Nelson Designs
-- 2021-02-04 — The Cat Rambles #495 — speakers: Jonny Dyer, Deirdre Graham, Andrew McManus, Gwilym Morus, Dòmhnall nan Dòmhnall, Donald MacGilvary, Miranda Nelson Designs, Marc Gunn
-- 2021-01-28 — The Road to Anywhere #494 — speakers: John Williams, Wendy MacIsaac, RG Paddler, Moch Pryderi, Patsy O'Brien, Don Gabbert, Marys Lane, Icewagon Flu
-- 2021-01-21 — Grace and Kindness #493 — speakers: Andrew McManus, Dylan Foley, Andrew Finn Magill, Jesse Ferguson, Kathryn Rose, Dave Howard Coons, Deirdre Graham, Ronnie Hall
-- 2021-01-14 — I Will Always Love You #492 — speakers: Serious Kitchen, Emma Langford, Andrew Finn Magill, Martyn Wylde, Heather Dale, Stand Easy, John McLean Allan, Batten Down
-- 2021-01-07 — Love for Planet Earth #491 — speakers: Andrew Finn Magill, Brass Lassie, Brad Tuck, Emma Langford, Cady Finlayson, Dave Howard Coons, John McLean Allan, Kathryn Rose
-- 2020-12-31 — Celtic Music Top 20 of 2020 — speakers: Gothard Sisters, Kyle Gryphon, Lisa Schettner, Heather Dale, Midnight Sun, Bellow Bridge, Tales Bronwyn Leigh, Miranda Nelson Designs
-- 2020-12-17 — Celtic Christmas Women #489 — speakers: Stephanie Claussen, Laura MacKenzie, Sarah Marie Mullen, Jessica Victoria, Heather Alexander, Susan Toman, Ed Miller, Heather Dale
-- 2020-12-10 — Patron Requests #488 — speakers: Jim Brannigan, Marc Gunn Sam Gillogly, Cady Finlayson, Mary Knickle, Heather Dale, Gaelic Storm, Marc Gunn, Iarla O'Lionaird
-- 2020-12-03 — Farewell to Whiskey #487 — speakers: Anne Roos, Ed Miller, Allison Barber, Anton Emery, Abby Green, Jimi McRae, Pibroch Medley, Miranda Nelson Designs
-- 2020-11-26 — Thanks for Your Kindness #486 — speakers: Andrew Finn Magill, Martyn Wylde, Erin Ruth, Kathryn Rose, Dublin Abbey, Michael Tinker Tierney, Brass Lassie, John McLean Allan
-- 2020-11-19 — Celtic Rock #485 — speakers: John McLean Allan, St Stephen, Wooden Legs, Kilmaine Saints, Iron Roux, Brenda Stubbert, Raggle Taggle Gipsy, Tuatha de Dannann
-- 2020-11-12 — Wild Atlantic #484 — speakers: Dave Howard Coons, Brass Lassie, Sharon Collins Powers, Brad Tuck, Emma Langford, Pol Mac Adaim, John McLean Allan, Còta Mòr Ealasaid
-- 2020-11-05 — Poor But Happy #483 — speakers: John Doyle, Pol Mac Adaim, Jessica Victoria, Alex Sturbaum, Nick Metcalf, Rick Metcalf, Byrne Band, Mary Come
-- 2020-10-29 — Halloween #482 — speakers: David Pedrick, Cara Wildman, Andrew Finn Magill, Marc Gunn, Mary Vanhoozer, Madison Metricula Roberts, Melanie Gruben, Brenda Stubbert
-- 2020-10-22 — Lost Passport #481 — speakers: Joseph Carmichael, Liz Madden, Orla Fallon, Brad Tuck, Nick Metcalf, de Sorribas, Miranda Nelson Designs, Marc Gunn
-- 2020-10-15 — Celtic Fusion #480 — speakers: Catya Mare, Bad Haggis, Event Horizon, Alasdair Whyte, Miranda Nelson Designs, Marc Gunn, Brenda Richardson, Bella Seita
-- 2020-10-08 — Fairy Tale #479 — speakers: Gothard Sisters, Keyreel Raskolenko, David Pedrick, Tres Maksimuk, John McLean Allan, Anna Bosnick, Marc Gunn Sam Gillogly, Miranda Nelson Designs
-- 2020-10-01 — Celtic Rock BONUS — speakers: Marc Gunn, Rising Gael, John McLean Allan, Marys Lane
-- 2020-09-24 — All Among the Barley #478 — speakers: David Pedrick, Marc Gunn Sam Gillogly, Teton Skye, Mike Kats, Blackstone Cuil, John McLean Allan, Fir Arda, Gordon Duncan
-- 2020-09-17 — Halfway to Celtic Women of St. Patrick's Day #477 — speakers: St Patrick, Orla Fallon, Karan Casey, Erin Ruth, Ravens Three, Anna Bosnick, Kyle Carey, Mrs Ferris
-- 2020-09-10 — Lady of the Lake #476 — speakers: Beer Belly, Pol Mac Adaim, Moch Pryderi, Brobdingnagian Bards, Preab Meadar, Jon Baade, Dick Gossip, Bad Haggis
-- 2020-09-03 — Sunflower #475 — speakers: KeyReel Raskolenko, David Pedrick, John Doyle, Foggy Dude, Jon Baade, Miranda Nelson Designs, Marc Gunn, Samir Malak
-- 2020-08-27 — Give Love #474 — speakers: Kyle Gryphon, Eileen Ivers, Poisoned Dwarf, Gerry O'Beirne, Brenda Stubbert, Miranda Nelson Designs, Marc Gunn, Paul Vigansky
-- 2020-08-20 — The Forest Magician #473 — speakers: John Doyle, Anna Bosnick, Orla Fallon, Colleen Orender, Wyvern Lingo, Gillian Boucher, Bob McNeill, Matt Diaz Erin Michet
-- 2020-08-13 — Her Mantle So Green #472 — speakers: Cady Finlayson, Orla Fallon, Erin Ruth, Dustin Cooper, St Stephen, Wolf Loescher, Erin Ruth Celtic, Miranda Nelson Designs
-- 2020-08-06 — Bean Phaidin #471 — speakers: Kyle Carey, Marc Gunn, Sam Gillogly, Orla Fallon, Jim Sharkey, Kevin Kennedy, Samantha Kennedy, Susana Seivane
-- 2020-07-23 — Celtic Running Music #470 — speakers: String Theory, Lily Bentley, St Stephen, Jamie Smith, Skeleton McKee, Miranda Nelson Designs, Marc Gunn
-- 2020-07-16 — St Stephen's Green #469 — speakers: St Stephen, Anna Bosnick, Lisa Schettner, John Stout, Brad Reid, Dylan Walshe, Kellswater Bridge, Skeleton McKee
-- 2020-07-09 — Everything's Alright #468 — speakers: Alexander James Adams, Lissa Schneckenburger, Seumas Gagne, Tir Nan Og, Miranda Nelson Designs, Marc Gunn, Anthony Young, Loreena McKennitt
-- 2020-07-02 — Highland Life #467 — speakers: Fir Arda, Alexander James Adams, Jesse Ferguson, Ed Harris, Tami Curtis, Wooden Legs, Skeleton McKee, Plaid Menagerie
-- 2020-06-25 — Step It Out Mary #466 — speakers: Merry Wives, Johnny Brown, Miranda Nelson Designs, Marc Gunn, Elle Clark, Jackson Shinn, Mark Long, Emil Volcheck
-- 2020-06-18 — Maid on the Shore #465 — speakers: Molly Bauckham, Julia Lane, Kellswater Bridge, Anne Roos, Ceili Moss, Ed Miller, Paisley Close, Ryan MacNeil
-- 2020-06-11 — Toss the Feathers #464 — speakers: Christine Primose, Skeleton McKee, Hugh Morrison, Jennifer Licko, Emerald Accent, Plaid Menagerie, Johnny Jump, Robert Tannahill
-- 2020-06-04 — Pride Month with Celtic Music #463 — speakers: Seumas Gagne, Alexander James Adams, Samantha Gillogly, Melanie Gruben, Daphne Eftychia Arthur, Kris Clements, Douglas Jig, John Adams
-- 2020-05-28 — Celtic Women Singers #462 — speakers: Lissa Schneckenburger, Jessica Victoria, Claire Roche, Tami Curits, Kellswater Bridge, Muireann Nic Amhlaoibh, Nick Owl-eev, Miranda Nelson Designs
-- 2020-05-21 — Merry Blacksmith #461 — speakers: Merry Blacksmith, Gillian Boucher, Bob McNeill, Lissa Schneckenburger, Jonny Dyer, Jesse Ferguson, Ed Harris, Mary Ann Kennedy
-- 2020-05-14 — Wolf in Sheep's Clothing #460 — speakers: Jeremy Spencer, Wolf Loescher, Ed Harris, Kilmaine Saints, Skeleton McKee, Dan O'Connell, Tami Curtis, Miranda Nelson Designs
-- 2020-05-07 — Paddy's Lamentation #459 — speakers: Fir Arda, Gillian Boucher, Bob McNeill, Iron Roux, Stephanie Claussen, Jesse Ferugson, Jonny Dyer, Jeremy Spencer
-- 2020-04-30 — Irish & Celtic Music Patronage #458 — speakers: Heather Dale, Jesse Ferguson, Seamus Kennedy, Ed Miller, Lachan Sa, Sa Vew-ta, Midnight Sun, Mary Mac
-- 2020-04-23 — Instrumental Celtic Tunes, 2-Hours #457 — speakers: BestCelticMusic net, Haggis Rampant, Sarah Marie Mullen, Teton Skye, Moch Pryderi, Moira Smiley, Nick Hennessey, Susana Seivane
-- 2020-04-16 — Plant A Celtic Tree #456 — speakers: Heather Dale, Brobdingnagian Bards, Hearthfire Duo, Catherine Koehler, Wooden Legs, Pauline Scanlon Feat, Damien Dempsey, Jessica Victoria
-- 2020-04-09 — Pandemic Patience #455 — speakers: Eileen Ivers, Jesse Ferguson, Wooden Legs, Ed Harris, Stephanie Claussen, Gillian Boucher, Bob McNeill, Lissa Schneckenburger
-- 2020-04-02 — Tartan Day #454 — speakers: Stephanie Claussen, Kilmaine Saints, Screeched Inn, Screeched Inn Bonny Portmore, Miranda Nelson Designs, Marc Gunn, Domenico Rossi, Eric Mailler
-- 2020-03-26 — Respect Like A Celt #453 — speakers: Lissa Schneckenburger, Hanz Araki, Wolf Loescher, Norah Rendell, Jim McKenna, Ginger Ackley, Xavier Boderiou, Jim McKenna Uileann
-- 2020-03-19 — Post-St. Patrick's Day, Pandemic Blues #452 — speakers: Covid Blues, Jeremy Spencer, Kyle Gryphon, Francis Leclerc Marise Demers, Kilmaine Saints, Emerald Accent, Alba Gu Brath, Miranda Nelson Designs
-- 2020-03-12 — St Patrick's Day #451 — speakers: St Patrick, Xavier Boderiou, Gillian Boucher, Bob McNeill, Lissa Schneckenburger, Jesse Ferguson, Jonny Dyer, Catherine Koehler
-- 2020-03-05 — St. Patrick's Day 17 #450 — speakers: St Patrick, Whiskey Bay Rovers, Nick Metcalf, Jonny Dyer, Alexander James Adams, Ed Miller Subscribe, Ed Miller, Miranda Nelson Designs
-- 2020-02-27 — Celtic Women of St. Patrick's Day #449 — speakers: St Patrick, Bonnie Rideout, Janette Geri, Shauna Mullin, Jennifer Licko, Melanie Gruben, Beth Patterson, Shannon Heaton
-- 2020-02-20 — Edge of the World #448 — speakers: Neil Anderson, Tim Maurice, Kyle Gryphon, Eamonn Flynn, Jim Sharkey, Samantha Gillogly, Miranda Nelson Designs, Marc Gunn
-- 2020-02-13 — Julia Delaney #447 — speakers: Allison Girvan, Ashley Davis, Janette Geri, Kyle Gryphon, Leanaim Thú, Cormac De Barra, Miranda Nelson Designs, Marc Gunn
-- 2020-02-06 — Carolan's Draught #446 — speakers: Matthew Dickerson, Kellswater Bridge, Teton Skye, Tom Morrison, Miranda Nelson Designs, Marc Gunn, Shawn Cali, Hank Woodward
-- 2020-01-30 — Celtic Italy #445 — speakers: Franco Bordoni, Romana Fabris, Mishaped Pearls, Seamus Kennedy, Oisin McAuley, Doug Folkins, Joe Tam, Cava de
-- 2020-01-23 — Jaunting Car #444 — speakers: Bonnie Rideout, Heather Dale, Terry Griffith, Ella Roberts, Michael Goes, Miranda Nelson Designs, Marc Gunn, Brobdingnagian Bards
-- 2020-01-16 — Celtic Tree of Life #443 — speakers: Marc Gunn, Alexander James Adams, Heather Dale, Seldom Sober, Miranda Nelson Designs, Erin Breen, Raymond McCullough, Co Down
-- 2020-01-09 — Irish Kisses in Twenty Twenty #442 — speakers: Warbelow Range, Serious Kitchen, Jonny Dyer, Kyle Gryphon, Catherine Koehler, Hugh Morrison, Marc Gunn, Annie Lorkowski
-- 2019-12-26 — Celtic Top 20 for 2019 #441 — speakers: Moira Smiley, Colleen Raney, Byrne Band, Ella Roberts, Rising Gael, Sharon Shannon, Melanie Gruben, Don Gabbert
-- 2019-12-19 — Celtic Christmas Cheer #440 — speakers: Heather Dale, Marc Gunn, Natalie MacMaster, Alexander James Adams, Ed Miller, Sarah Marie Mullen, Susan Toman, Tommy Sands
-- 2019-12-12 — I Will Stand With Celtic Women #439 — speakers: Jonny Dyer, Merry Wives, Katherine Nagy, Anne Roos, Lily Bentley, Maggie Drennon, Rising Gael, Fionnuala Gill
-- 2019-12-05 — How to Vote in Celtic Top 20 #438 — speakers: Outbound Traveler, Jim Sharkey, Tommy Peoples, Garry Owen, Marc Gunn, Shawn Cali, Hank Woodward, Annie Lorkowski
-- 2019-11-28 — Get Jiggy #437 — speakers: Deanna Smith, Westwood Bluegrass Band, Jim Sharkey, Dustin Cooper, Jiggy Biddy, Marc Gunn, Robert MK, Gary Hook
-- 2019-11-21 — Rise Up #436 — speakers: Wendy MacIsaac, Marc Gunn, Edward Willoughby, Ed Willoughby, Suzanna Anderson, Kyle Meadows, Victoria Van Arnam, Matthew Abelson
-- 2019-11-14 — Slea Head #435 — speakers: Climb Slea Head, Andy Law, Westwood Bluegrass Band, Fir Arda, Dustin Cooper, Nicole White, Catherine Koehler, Fantasy La Ridee
-- 2019-11-07 — Going Home to Celtic Music #434 — speakers: Andy Law, Dustin Cooper, Seaumas Gagne, Poisoned Dwarf, Moira Smiley, Fir Arda, Nicole White, Westwood Bluegrass Band
-- 2019-10-31 — Celtic Music for Halloween #433 — speakers: Poisoned Dwarf, Dylan Walshe, Alexander James Adams, Brendan Monaghan, Moch Pryderi, Cady Finlayson, Heather Dale, Marc Gunn
-- 2019-10-24 — What Are You Doing While Listening to Celtic Music #432 — speakers: Seldom Sober, Kellswater Bridge, John Stout, Dylan Walshe, Sylvia Woods, Claire Roche, Teton Skye, Alexander James Adams
-- 2019-10-17 — Pour Another For Your Brother #431 — speakers: Eamon Friel, Catherine Koehler, Alexander James Adams, Kellswater Bridge, Seumas Gagne, Marc Gunn, Robert Tumey, Ed Miller
-- 2019-10-10 — Why "Celtic Music?" #430 — speakers: Seumas Gagne, Graham Vincent David Mitchell, Rising Gael, Alexander James Adams, Eamon Friel, Dylan Walshe, Seldom Sober, Frankie Kennedy
-- 2019-10-03 — Amazing Celtic Women #429 — speakers: Beth Patterson, Cady Finlayson, Catherine Koehler, Na Skylark, Judith Weikle, Anne Roos, Gwendolyn Snowdon, Kathy Barwick
-- 2019-09-26 — Highland Laddies #428 — speakers: Kellswater Bridge, Claire Roche, Sarah Dinan, Moch Pryderi, Muireann Nic Amhlaoibh, Bernadette Morris, Seldom Sober, Jig Moch
-- 2019-09-19 — Raggle Taggle Gypsy #427 — speakers: Raggle Taggle, Claire Roche, Ruth Smith, Kellswater Bridge, Dylan Walshe, John Stout, Seldom Sober, Marc Gunn
-- 2019-09-12 — Colors of Irish Music #426 — speakers: Gothard Sisters, John Stout, Brobdingnagian Bards, Omos Sheamuis, Midnight Sun, Randy Dandy-O, Gaelic Storm, McGee Orchestral Pipestep
-- 2019-09-05 — Road to Lisdoonvarna #425 — speakers: Brobdingnagian Bards, Larry Mallette, Matt Lewis, Muireann Nic Amhlaoibh, Dylan Walshe, Nick Owl-eev, Dubh Dhonn, James Fearnley
-- 2019-08-29 — 20 Rockin' Irish Drinking Songs #424 — speakers: Boston Blackthorne, Sgian Dubh, Kerry Park, Tim Finegan, Marc Gunn, Kevin Leahy, Robyn Dobbs, Adriana Sanroman
-- 2019-08-22 — Make A Change in the World #423 — speakers: Bonnie Rideout, Colin Farrell, Bernadette Morris, Teton Skye, Brad Reid, Dom Duff, Dancing Morris, Gone Molly
-- 2019-08-15 — Celtic Soul #422 — speakers: Ed Miller, Thomas Doc Grauzer Runa, Bill Grogan, Alan Moore, Edinburgh Rambler, Thomas Doc Grauzer, Jenna Greene, Bad Haggis
-- 2019-08-08 — The Long Drive #421 — speakers: Muireann Nic Amhlaoibh, Claire Roche, Brian Conway, Seamus Kennedy, Amelia Hogan, Moira Smiley, Dau Rosyn Coch, Moch Pryderi
-- 2019-08-01 — The Jackdaws #420 — speakers: Andrew Meade, Jesse Ferguson, Marc Gunn, Gone Molly
-- 2019-07-25 — Celtic Invasion Vacations #419 — speakers: Jonny Dyer, Gerry O'Beirne, Rosie Shipley, Tania Opland, Mike Freeman, Claire Roche, Marc Gunn, Gwilym Morus
-- 2019-07-18 — Diversity of Celtic Music #418 — speakers: Teton Skye, Moch Pryderi, Kevin Kennedy, Samantha Kennedy, Bernadette Morris, Brendan Monaghan, John Ryan, Moira Smiley
-- 2019-07-11 — Canadian Celtic with Jesse Ferguson #417 — speakers: Jesse Ferguson, Brent Santin, Jim Malcolm, Susie Malcolm, Katherine Moller, Marc Gunn, Loch Lomond, Jason Mitchell
-- 2019-07-04 — Women of Celtic Music #416 — speakers: Lady Susan, Colleen Raney, Hanneke Cassel, Ashley Davis, Cady Finlayson, Jennifer Licko, Sarah Copus, Sharon Shannon
-- 2019-06-27 — Celtic Summer Recess #415 — speakers: Gone Molly, Rising Gael, Kevin Kennedy, Samantha Kennedy, Moch Pryderi, Brendan Monaghan, Michael Goes Flatpickin Road, Stubby Shillelagh
-- 2019-06-20 — Sea Shanties from Renaissance Festivals #414 — speakers: Chuckawalla Rhythm Kings, John Stout, Angus McHugh, Henry Martin, Black Jack, Bocca Musica, Merry Bee, John Kanaka
-- 2019-06-13 — Celtic Harp with Anne Roos #413 — speakers: Harpist Anne Roos, William Jackson, Sylvia Woods, Anne Roos, Susan Toman, Leah Jorgensen, Mark Davies, Catriona McKay
-- 2019-06-06 — Galway Shawl #412 — speakers: Matthew Dickerson, Susana Seivane, Keith Hinchliffe, Heather Dale, Clan Celtica, Tom Morrison, Coffee Beans, Tam Lin
-- 2019-05-30 — Humors of Whiskey #411 — speakers: Cady Finlayson, Bardic Rose, Jennifer Licko, Jesse Linder, Duncan Cameron, Garry O'Meara, Maggie Sansone, Marc Gunn
-- 2019-05-23 — Celtic Music Journal 2019 — speakers: Steve Behrens, Katie Jane Band, Bernadette Morris, Hanneke Cassel, Anton Emery, Vincent Black, Bidh Clann Ulaidh, Marc Gunn
-- 2019-05-16 — The Gothard Sisters #409 — speakers: Gothard Sisters, Marc Gunn, Colin Farrell, Ashley Davis, Gaelic Storm, Midnight Sun, Story Road, Loch Lomond
-- 2019-05-09 — Rambling Irishman #408 — speakers: Cady Finlayson, Colleen Raney, Clan Celtica, Tribal Thunder, Marc Gunn, Ian Shaw, Traci Tucker
-- 2019-04-25 — Texas Scots #407 — speakers: Ed Miller, Jed Marum, Skeleton McKee, Desert Reels, Martin Wynne, Loch Lomond, Marc Gunn, Lori Wilson
-- 2019-04-18 — Bagpipe Ferret #406 — speakers: Larry Mallette, Ravens Three, Matthew Dickerson, Bones Jangle, Kevin Kane, Rose Rock, Randy Dandy, Ken Petrie
-- 2019-04-11 — Fight Like A Celtic Woman #405 — speakers: net Ciana, Eilis Crean, Susana Seivane, Colleen Raney, Kyle Carey, Rebecca Gilbert, Kellswater Bridge, Cady Finlayson
-- 2019-04-04 — Walking Toward the Sun #404 — speakers: net Flook, Larry Mallette, David Roon, Kendall Rogers, Ida Elena, Marc Gunn
-- 2019-03-29 — Silly Celtic Songs #403 — speakers: Seamus Kennedy, Whiskey Bay Rovers, Emerald Rose, Marc Gunn, Don Gabbert, Andrew McKee, Sligo Rags, Jim Cope
-- 2019-03-21 — Whiskey in the Jar #402 — speakers: net Beyond, Jesse Ferguson, Allison Girvan, Larry Mallette, Matt Lewis, Ida Elena, Andy Clarke, Devils Water
-- 2019-03-14 — St Paddy's Day's 17 Free Celtic MP3s #401 — speakers: St Patrick, Dylan Foley, Gone Molly, Cara Wildman, Jimi McRae, Na Rosai, Midnight Sun, Dick's Maggot
-- 2019-03-07 — St Patrick's Day Playlist 2019, 3 Hours #400 — speakers: St Patrick, Gothard Sisters, Banna De Dha, Keith Hinchliffe, Kyle Carey, Ceol Gan Achar, Jonny Dyer, Bedlam Bards
-- 2019-02-28 — St Patrick's Day Whiskey #399 — speakers: St Patrick, net Beyond, Clan Celtica, Jonny Dyer, Ella Roberts, Keith Hinchliffe, Bonnie Rideout, Eoin Murphy
-- 2019-02-21 — Birds and Deep Blue Sky of Ireland #398 — speakers: Deep Blue Sky, Dylan Foley, Gothard Sisters, Waulking Songs, Joe Batts, Story Girl, Dun Aengus, Marc Gunn
-- 2019-02-14 — Sporting Paddy Reel Celtic Music #397 — speakers: Cady Finlayson, Tami Curtis, Beth Patterson, Patrick O'Flaherty, Claire Roche, Redhill Rats, Event Horizon, Marc Gunn
-- 2019-02-07 — Wounded Ireland #396 — speakers: net Dervish, Ravens Three, Terry Griffith, Patrick D'Arcy, Lily Bentley, Tom Morley, Journey North, Sober Gentleman
-- 2019-01-31 — Irish Fire #395 — speakers: Ed Miller, Athena Tergis, Byrne Band, Marc Gunn, Jamie Laval, Ashley Broder, Tami Curtis, Melanie Gruben
-- 2019-01-24 — South Australia #394 — speakers: net Raglan, Lily Bentley, Sober Gentlemen, Brobdingnagian Bards, Lissa Kathe, Louise Fraser, Seamus Kennedy, Jedi Mickey
-- 2019-01-17 — Celtic Music Instrumental Study Aid #393 — speakers: Gerry O'Beirne, Rosie Shipley, Scott Boswell, Spencer Murray Pipeslinger, Enda Seery, Caledonia Swing, Beer Belly, Gillian Boucher
-- 2019-01-10 — Calm Before the Storm #392 — speakers: Warbelow Range, Conor Caldwell, Catherine Koehler, Nick Metcalf, Janette Geri, Journey North, Enda Seery, Nick Metcalf Rick Metcalf
-- 2019-01-03 — Year of the Irish & Celtic Women #391 — speakers: Catherine Koehler, Warbelow Range, Tami Curtis, Gothard Sisters, Jodee James, Gwendolyn Snowdown, Anne Roos, Sharon Shannon
-- 2018-12-27 — Celtic Top 20 Irish & Celtic Music Bands of 2018 #390 — speakers: Chris Murphy, Gwendolyn Snowdon, Colleen Raney, Gothard Sisters, Bill Grogan, Gone Molly, Tom Paine, Midnight Sun
-- 2018-12-20 — Irish & Celtic Christmas Music #389 — speakers: Susan Toman, Ed Miller, Heather Dale, David Pedrick, Sarah Marie Mullen, Nollaig Chridheil Songs, Merry Munster, Marc Gunn
-- 2018-12-13 — Warm Up with Great Irish & Celtic Music #388 — speakers: Jimi McRae, Marc Gunn, Derek Warfield, Maggie Drennan, Peter Daldry, Patsy O'Brien, Sam Okoo, Peggy Gordon
-- 2018-12-06 — Ned of the Hill #387 — speakers: Catherine Koehler, Tami Curtis, Van Morrison, Nick Metcalf, Marc Gunn, Annie Lorkowski, Brendan Nix, Bryan Brake
-- 2018-11-29 — Loch Lomond #386 — speakers: Loch Lomond, Ed Miller, Marc Gunn, Nick Metcalf, Bryan Brake, John Gibbon, Michele Williams
-- 2018-11-22 — Thanksgiving Castle #385 — speakers: Enda Seery, Ed Miller, Catherine Koehler, Tami Curtis, Conor Caldwell, Mwnci Nel, Bill Grogan, Marc Gunn
-- 2018-11-15 — Pandora's Box #384 — speakers: Warbelow Range, Dylan Foley, Ed Miller, Abby Green, Event Horizon, Bill Grogan, Julia Lane, Dinny O'Brien
-- 2018-11-08 — Ghost Stories #383 — speakers: Bill Grogan, Timmy Clifford, Pierre Leblanc, Michael Collins, Marys Lane, Marc Gunn, Carol Baril, Brandon Carl
-- 2018-11-01 — Charmas are Stark Raving Celtic #382 — speakers: celticmusicpodcast com, Stark Raving Celtic, Jonny Hardie, Marc Gunn, Jed Marum
-- 2018-10-25 — Celtic Halloween #381 — speakers: Merry Wives, Gone Molly, Melanie Gruben, Cara Dillon, Janette Geri, Anne Roos, celticmusicpodcast com, Sam Hall
-- 2018-10-18 — Lady Fair #380 — speakers: Celia Ramsay, Brendan Loughrey, Donna Germano, Journey North, Paisley Close, Marc Gunn
-- 2018-10-11 — Women of Irish & Celtic Music #379 — speakers: Liz Carroll, Warbelow Range, Shannon Heaton, Melanie Gruben, Sarah Marie Mullen, Noirin Ni Riain, Moya Brenna, Claire Roche
-- 2018-10-04 — Paddy Rock Renegade #378 — speakers: Colleen Raney, Jimi McRae, Heather Dale, Vintage Wildflowers, Ed Miller, celticmusicpodcast com, Grace O'Malley, Pibroch Medley
-- 2018-09-27 — Big Trip to Ireland #377 — speakers: Dan Milner, Jenna Greene, Jeff Ksiazek, Sylvia Platypus, Sharon Shannon, Event Horizon, celticmusicpodcast com, Bard Song
-- 2018-09-20 — Lakes of Pontchartrain #376 — speakers: Steve Holloway, Jed Marum, Gwendolyn Snowdon, celticmusicpodcast com, Carls O'Dysart, St Brendan, Marc Gunn, Michael Truman Cavanaugh
-- 2018-09-13 — Scarborough Fair #375 — speakers: Warbelow Range, Enda Seery, Conor Caldwell, Jerry McLean, Brad Tuck, Marys Lane, celticmusicpodcast com, Carraige Baine
-- 2018-09-06 — Zero Gravity Celtic #374 — speakers: David Kilpatrick, Brobdingnagian Bards, Merry Wives, Jasper Coal, Sean Orr, Tom Paine, John Brosnan, Marc Gunn
-- 2018-08-30 — Rocky Road to Dublin #373 — speakers: Rocky Road, Becky Taylor, Carolina Ceili, Marys Lane, Sligo Rags, celticmusicpodcast com, Dun Aengus, Kick Around
-- 2018-08-23 — Fairy Dance #372 — speakers: Dylan Foley, Allison Barber, Gone Molly, Jack Riordan, Ed Harris, Marc Gunn, Tim O'Neill, Jeremy Perlman
-- 2018-08-16 — Instrumental Celtic Music for Studying #371 — speakers: David Pedrick, Tom Eure, Susan Toman, Gothard Sisters, Story Girl Celtic, Merry Blacksmith, Emerald Shores Emily, Marc Gunn
-- 2018-08-09 — Back to School #370 — speakers: Ed Miller, Na Rosai, Brobdingnagian Bards, Jamie Smith, Leaping Lulu, Derek Byrne, Gillian Boucher, com Listen
-- 2018-08-02 — Beautiful Affair #369 — speakers: Tom Eure, Dylan Foley, Marc Gunn, com Listen, Stan Chapman, Gallant Murray, Elvis Murphy, Gone Molly
-- 2018-07-26 — The Well Below the Valley #368 — speakers: Anthea Lawrence, Bonnie Rideout, Jonny Dyer, Ed Harris, com Listen, Slainte Single, Bert Gonnella, Marc Gunn
-- 2018-07-19 — No Irish Need Apply #367 — speakers: Spirited Lads, Brad Tuck, Marys Lane, com Listen, Ed Harris, Marc Gunn, Hank Woodward, Bryan Brake
-- 2018-07-12 — Celtic Punk "Smoking Gunn Part Deux" with Paddy Rock Podcast #366 — speakers: Irish Bastard, Kilmaine Saints, Molly Malone, Marc Gunn
-- 2018-07-05 — 10 Years of Celtic Music with 67 Music #365 — speakers: Dylan Foley, Bill Mullen, com Listen, Galway Rambler, Sarah Jane, Marc Gunn
-- 2018-06-28 — Stories Behind Irish Music with Shannon Heaton #364 — speakers: Matt Heaton, Jimmy Keane, Ryan Beveridge, Nic Gareiss, Eileen Ivers, Laura Cortese, George Keith, Liz Carroll
-- 2018-06-21 — Midsummer in Ireland with John WIlmott #363 — speakers: John WIlmott, Stephen Murphy, John Willmott, Claire Roche, Mike Absalom, Jimi McRae, Archaic Revival, Woodland Bard
-- 2018-06-14 — As I Roved Out #362 — speakers: Sarah Copus, Carl Peterson, Kevin Behan, Tom Eure, Roots Company, Brad Tuck, Marc Gunn, Hank Woodward
-- 2018-06-07 — Summer Road Trip #361 — speakers: Andrew Finn Magill, Susana Seivane, Maidens IV, Gillian Boucher, Mark Saul, Darren Raleigh, Boston Blackthorne, Dave Wilson
-- 2018-05-24 — Celtic Summer Festivals #360 — speakers: Jodee James, Chris Murphy, Gwendolyn Snowdon, Dave Wilson, Natalie MacMaster, com Listen, Lady Joan, Katie Fiddler
-- 2018-05-17 — Jed Marum Tribute #359 — speakers: Jed Marum, Hugh Morrison, Ed Miller, com Listen, Linda Relph, David Lovrien, Lary Fowler Jed Marum, Willie Coleman Tune Set
-- 2018-05-10 — Celtic Tunes by Celtic Women for Mother's Day #358 — speakers: Bonnie Rideout, Good Foot, Sarah Copus, Fromseier Rose, Beth Patterson, com Listen, Midnight Sun, John MacNeal
-- 2018-05-03 — Rainy Day in the Celtic Nations #357 — speakers: Na Rosai, Gwendolyn Snowdown, Ginger Ackley, Jim Sharkey, Colleen Raney, David Pedrick, com Listen, Shandon Bells
-- 2018-04-26 — Arbor Day #356 — speakers: Anne Roos, Michael Black, Dark Patrick, Nick Hennessey, Emerald Rose, Bag Haggis, Galway Rambler-Maid, Fainne Gael
-- 2018-04-19 — Up Among the Heather #355 — speakers: Na Rosai, Claire Roche, Marys Lane, Karan Casey, com Listen, Peg Ryan, Leaving Plevna, Marc Gunn
-- 2018-04-12 — Mountain Dew #354 — speakers: David Pedrick, Spencer Murray Pipeslinger, Ed Miller, Mandala Folk, Jimi McRae, Marys Lane, com Listen, Bonnie Jean Cameron
-- 2018-04-05 — Tartan Day in Kilts #353 — speakers: Serious Kitchen, Marc Gunn, Maggie Sansone, Ed Miller, com Listen, Scott Benson, Nancy BV
-- 2018-03-29 — Easter Sunday #352 — speakers: Jonathan Milton, Kellswater Bridge, Marc Gunn, Marys Lane, com Listen, Dun Aengus, Tommy Peoples, Joanna Fedewa
-- 2018-03-22 — New Celtic Music #351 — speakers: St Patrick, Na Rosai, Jimi McRae, David Pedrick, Liz Schettner, Dun Aengus, Ballymun Bootboys, Brad Tuck
-- 2018-03-15 — St Patrick's Day Music Party — speakers: St Patrick, Alasdair White, Jodee James, Sarah Copus, John Taylor, Scooter Muse, Melanie Gruben, Jesse Ferguson
-- 2018-03-08 — Celtic Music Top 20 for St Patrick's Day #349 — speakers: St Patrick, Jim Sharkey, Colleen Raney, Beth Patterson, Ne'er Duwels, Lady Moon, Secret Sky, Dom Duff
-- 2018-03-01 — St. Patrick's Day Warm Up #348 — speakers: St Patrick, Christine Primrose, String Theory, Cormac Gannon, David Curley Mick Broderick, com Listen, Winnie Hayes, Kellswater Bridge
-- 2018-02-22 — Instrumental Celtic Music Study Aid #347 — speakers: Anne Roos, Chris Murphy, Crossm Solasta, Andy Lamy, Eleanor Plunkett, Marc Gunn, Robin Allen, Luke Sinclare
-- 2018-02-15 — Streets of Dublin #346 — speakers: Andrew Finn Magill, Jennifer Licko, Wendy MacIsaac, Tara O'Grady, Tim Maurice, Spencer Murray Pipeslinger, Alex Sturbaum, Matt Hughes
-- 2018-02-08 — Celtic Love Songs #345 — speakers: Jed Marum, Hugh Morrison, Steve Hawson, Colleen Raney, Jonny Dyer, Norah Rendell, Ryan MacNeil, Sligo Rags
-- 2018-02-01 — The Jolly Ploughboys #344 — speakers: Ed Miller, Telenn Tri, Melanie Gruben, Sharon Shannon, Tuatha Dea, Tim Keeley, Christine Weir, com Listen
-- 2018-01-25 — 20 Irish Drinking Songs for 2018 #343 — speakers: Cormac Gannon, Jesse Ferguson, Jim Cope, Hearthfire Duo, Andrew McKee, Bill Grogan, Screeched Inn, Seamus Kennedy
-- 2018-01-18 — Joyous #342 — speakers: Ryan MacNeil, Bellow Bridge, Jodee James, Natalie MacMaster, Dom Duff, com Listen, Derry Gaol, Klask Ar Wagenn
-- 2018-01-11 — Corpus Christi Irish Session #341 — speakers: Cara Wildman, Bill Grogan, com Listen, Avery LeVine, Marc Gunn, Aaron Dent, George Mears, Robin Allen
-- 2018-01-04 — 2018 Kicks Off with Celtic Music #340 — speakers: Jodee James, Patsy O'Brien, Alex Sturbaum, Sharon Shannon, Ryan MacNeil, Bill Grogan, com Listen, Jacob Hall's Jig
-- 2017-12-28 — Most-Popular Celtic Bands of 2017 #339 — speakers: Gothard Sisters, Ed Miller, Jesse Ferguson, Battlefield Band, Jonny Dyer, Screeched Inn, com Listen, Bonnie Bessie Logan
-- 2017-12-21 — Joy On Your Celtic Christmas Day #338 — speakers: Jim Sharkey, Ed Miller, Marc Gunn, Susan Toman, Caitríona O'Leary, Rhiannon Giddens, Jennifer Licko, Thistle Band
-- 2017-12-14 — Working Hard #337 — speakers: Vicki Swan, Nick Hennessey, Bill Grogan, com Listen, Marc Gunn, Dan Buchner, Niagara Falls, Will Collins
-- 2017-12-07 — Celtic Rock... For 2-Hours — speakers: Dom DufF, Blackstone Cuil, Screeched Inn, Kilmaine Saints, Clan Na Gael, Neil Anderson, Bryan Brake, Hunter Melville
-- 2017-11-23 — Giving Thanks! #335 — speakers: Sarah Marie Mullen, Beth Patterson, Margaret Davis, Patrick D'Arcy, Adam Beattie, William Coulter Friends, Nick Hennessey, String Thaw
-- 2017-11-16 — Getting Started With Celtic Music #334 — speakers: Ed Miller, Cady Finlayson, Mithril Duo, Jesse Ferguson, Cara Dillon, Oisin McAuley, Screeched Inn, Battlefield Band
-- 2017-11-09 — Strayaway Child #333 — speakers: Heather Gilmer, Jeff Moore, Linda Relph, Devils Waterm, Rogue Diplomats, Ryan MacNeil, Dark Patrick, Kilmaine Saints
-- 2017-11-02 — Weight of the World #332 — speakers: Cara Wildman, Moira Nelson, Gerry O'Beirne, Rosie Shipley, Melanie Gruben, Flora MacDonald, Marc Gunn, Kim Knebel
-- 2017-10-26 — The Thin Veil of Halloween #331 — speakers: Thin Veil, Heather Dale, Patrick D'Arcy, Marc Gunn, Bellow Bridge, Matt Hughes, Christine Weir, Brad Boucher
-- 2017-10-19 — Skye Boat Song #330 — speakers: Skye Boat Song, Cara Wildman, Bellow Bridge, Mark Saul, Banna De Dha, Marc Gunn, Spencer Crawford, Kevin McDonald
-- 2017-10-12 — Celtic Truth #329 — speakers: Telenn Tri, Secret Sky, Marc Gunn, Brenda Beard, Tracy Knapp, Secret History, Grab Bags, Michael Conners
-- 2017-10-05 — Celtic Music Wins Podcast Awards #328 — speakers: Mike Katz, Boston Blackthorne, Cormac Gannon, Jesse Ferguson, Devils Water, Tuatha Dea, Dom Duff, John Bilderback
-- 2017-09-28 — Irish Jig Heroes #327 — speakers: Irish Jig Heroes, Jim Sharkey, Marc Gunn, Mike Katz, Sharon Shannon, Trevor Teuscher, Michael Cavanaugh, Ellen Calnan
-- 2017-09-21 — Celtic Favorites from the Banks of Loch Lomond #326 — speakers: Stephen Bernhardt, Tania Opland, Sligo Rags, Oona McOuat, George Murphy, Young Dubliners, Martyn Wylde, Emerald Rose
-- 2017-09-14 — Halfway to St. Patrick's Day Celtic Music #325 — speakers: St Patrick, Sharon Shannon, Screeched Inn, Wendy MacIsaac, Mark Davies, Seamus Kennedy, Ed Miller, Alasdair White
-- 2017-09-07 — Celtic in Connemara #324 — speakers: Tim Edey, Rachael Herron, Marc Gunn, Dom Duff, Rudiger Reinhardt, Michael Conners, Alison Johnson, Zane Barber
-- 2017-08-31 — End of Summer Celtic Jams #323 — speakers: Rogue Diplomats, Christine Weir, Jim Sharkey, Marc Gunn, Mark Aicken, Christian Feitl, Steve Wright, Miguel Bessa
-- 2017-08-17 — Renaissance Festival Celtic Music #322 — speakers: Abby Green, Darcy Nair, Darren Raleigh, Emily Kellam, Jesse Linder, Lindsay Smith, Marc Gunn, Shillelagh Law
-- 2017-08-10 — Brown Ale & Celtic Music #321 — speakers: Chrissy Crowley, Jonny Dyer, Patrick D'Arcy, Rogue Diplomats, Marc Gunn, Alasdair White, Jesse Fergusonm Tara Hill, Dom Duff
-- 2017-08-03 — New Celtic Music & Temple Records Feature #320 — speakers: Alasdair White, David Curley Mick Broderick, Sarah Copus, Battlefield Band, Mike Katz, Christine Primrose, Peter Nardini, Kellswater Bridge
-- 2017-07-27 — Rolling Home #319 — speakers: Annie Lorkowski, Mary Knickle, Heather Dale, Marc Gunn, Coyote Run, Ciara Considine, John Byrne Band, Derek Warfield
-- 2017-07-20 — New Celtic Music of Tomorrow #318 — speakers: Sarah Copus, Jesse Ferguson, Cormac Gannon, Shauna Mullin, Devils Water, Laura McGhee, Preab Meadar, Marc Gunn
-- 2017-07-13 — 2-Hours of Scottish Music #317 — speakers: Rachel Hair Trio, Christine Primrose, Battlefield Band, Wendy MacIsaac, Marc Gunn, Canned Haggis, Zoe Alexander, Jimi McRae
-- 2017-07-06 — Star of the County Down #316 — speakers: Randy Lee Gosa, Steve Hawson, Terry Griffith, Seamus Kennedy, String Theory, Dom Duff, Greenwich Meantime, Unique Gifts
-- 2017-06-29 — Summer Nights #315 — speakers: Jesse Ferguson, Laura McGhee, Jamie Smith, Murray McDowell, Ciara Considine, Gaelic Storm, Leaping Lulu, Unique Gifts
-- 2017-06-22 — Irish Music Stories with Shannon Heaton #314 — speakers: John Williams, Keith Murphy, Kevin Griffin, Eoin O'Neill, Sharon Shannon, Shannon Heaton, Maeve Gilchrist, Karan Casey
-- 2017-06-15 — Celtic Punk #313 — speakers: Grinning Beggar, Nevermind Nessie, Marc Gunn, James McDaniel II
-- 2017-06-08 — Celtic Music Journal #312 — speakers: Andrea Tophoj, Peter Daldry, Gothard Sisters, Marc Gunn, Journey North, net Subscribe, John OConnor, Keriann Noble
-- 2017-06-01 — Off to Carnac, Brittany #311 — speakers: Karan Casey, Abby Green, John Byrne Band, Marc Gunn, Steve Behrens, Grant Jacobson, Mary Layzska, Miranda Nelson
-- 2017-05-25 — Kilts and Corsets #310 — speakers: Iarla O'Lionaird, Brad Reid, Mishaped Pearls, Tuatha Dea, net Subscribe, Marc Gunn, James McDaniel II, Rick Hantz
-- 2017-05-18 — Celtic Warrior's Salute #309 — speakers: Brendan Monaghan, David Curley Mick Broderick, Robert Doyle, net Subscribe, Marc Gunn, James McDaniel II, Jeff Pike, Miranda Nelson
-- 2017-05-11 — Irish Women for Mother's Day #308 — speakers: Susan Toman, Jennifer Lick, Colleen Raney, Wendy MacIsaac, Katherine Nagy, Arlene Faith, Karan Casey, Chrissy Crowley
-- 2017-05-04 — May the Fourth Be With You #307 — speakers: John McGaha, Andrew Finn Magill, Seamus Kennedy, Ron Cody, Ashley Davis, Marc Gunn, Bedlam Bards, Edward Montgomery
-- 2017-04-27 — Texas Scottish Festival & Highland Games 2017 #306 — speakers: Ed Miller, Jed Marum, Seamus Stout, Madi Davis, Skeleton McKee, Marc Gunn, Battlefield Band, Brian McNeill
-- 2017-04-20 — Earth Day Celebration #305 — speakers: Hearthfire Duo, Jed Marum, Hugh Morrison, Julia Lane, Arthur Hinds, Sea Star, Marc Gunn, Joss Whedon
-- 2017-04-13 — Happy Thoughts #304 — speakers: Gerry O'Beirne, Rosie Shipley, Hearthfire Duo, Mithril Duo, Beer Belly, Tim Keeley, David Curley Mick Broderick, Marc Gunn
-- 2017-04-06 — Laugh Along, Funny Celtic Songs #303 — speakers: Ed Miller, Sligo Rags, Seamus Kennedy, Andrew McKee, Merry Wives, Emerald Rose, Marc Gunn, Tom Russell
-- 2017-03-30 — Fortunate #302 — speakers: Sligo Rags, Ken O'Malley, Merry Wives, Beatnik Turtles, Marc Gunn, Perry Greza, Nataliya Semenova, Beth Folkemer
-- 2017-03-23 — Travelers #301 — speakers: St Patrick, Patrick Penta, Jim Cope, Battlefield Band, Katherine Nagy, Avery LeVine, Beth Patterson, Patrick O'Flaherty
-- 2017-03-16 — 2-Hours of St. Patrick's Day Music #300 — speakers: String Theory, Patrick D'Arcy, Andrew McKee, Thomas Patrick Kenny, Seamus Kennedy, Abby Green, Spencer Murray Pipeslinger, Brobdingnagian Bards
-- 2017-03-09 — St. Patrick's Day Celtic Top 20 #299 — speakers: Heidi-Jane Schwabe, Sarah Marie Mullen, Skeleton McKee, Liz Schettner, Corktown Popes, Rachel Hair Trio, Young Dubliners, Spirited Lads
-- 2017-03-02 — 17 for St Patrick's Day #298 — speakers: St Patrick, Hugh Morrison, Leaping Lulu, Jed Marum, Gothard Sisters, Skeleton McKee, Marc Gunn, Eric Patterons
-- 2017-02-23 — San Patricio Fantasy #297 — speakers: Garry O'Meara, Bill Troxler, Pol Mac Adaim, Rising Gael, Screeched Inn, net Subscribe, Marc Gunn, Jason Meyers
-- 2017-02-16 — 2-Hour Best Celtic Music Retrospective #296 — speakers: Marc Gunn, Gothard Sisters, Vintage Wildflowers, Gwilym Morus, Tim Maurice, Jimi McRae, Sam Okoo, Ed Miller
-- 2017-02-09 — In the Name of Love #295 — speakers: Beth Paterson, Andrew Finn Magill, Sean Orr, Ciara Considine, Nathan Gourley, Laura Feddersen, Carbon Leaf, Jesse Ferguson
-- 2017-02-02 — Wild Mountain Thyme #294 — speakers: Abby Green, Colleen Raney, Colm Maccarthaigh, Hank Cramer, Jamie Smith, Marc Gunn, Michael Cavanaugh, Colm Maccárthaigh
-- 2017-01-26 — Together with Celtic Music #293 — speakers: Blarney Castle, Ed Miller, Chris Murphy, Andrew McKee, Blackstone Cuil, Marc Gunn, Tim Hughes, Superstar Kevin Long
-- 2017-01-19 — Scottish Music #292 — speakers: Bonnie Rideout, Battlefield Band, Jonny Dyer, Ed Miller, Andrew McKee, Don Grieve, Brobdingnagian Bards, Caledonia Swing
-- 2017-01-12 — Thru Your Irish Eyes #291 — speakers: Andrew Finn Magill, Myddle Earth, Blarney Castle, Acoustic Butterfly, Matt Hughes, Screeched Inn, Marc Gunn, Jeffrey Evans
-- 2017-01-05 — Instrumental Celtic Music #290 — speakers: Andrew Finn Magill, Bill Troxler, Battlefield Band, Myddle Earth, Vicki Swan, Oisin McAuley, Jed Marum, Cady Finlayson
-- 2016-12-29 — Auld Lang Syne #289 — speakers: Gothard Sisters, Kevin Tyler, Chuckawalla Rhythm Kings, Heather Dale, Seamus Kennedy, Marc Gunn, Beth Patteron, Patrick O'Flaherty
-- 2016-12-22 — Celtic Peace Maker #288 — speakers: Vince Conaway, Hugh Morrison, Seamus Kennedy, Vintage Wildflowers, Andrew McKee, Sligo Rags, Doug Folkins, Secret Sky
-- 2016-12-15 — Irish & Celtic Christmas #287 — speakers: Gothard Sisters, Jennifer Licko, Eddie Biggins, Rosanne Cash, Thistle Band, Heather Dale, De Ceadaoin, Woodland Bard
-- 2016-12-01 — December Celtic Music #286 — speakers: Ed Miller, Dom Duff, Angus Mohr, Susan Toman, Tara O'Grady, Karan Casey, Olivier Marechal, Ken Brixius
-- 2016-11-24 — Thanksgiving with Celtic Music #285 — speakers: Jed Marum, Jesse Ferguson, Hugh Morrison, Hearthfire Duo, Mary Jane Lamond, Belfast Andi, Rachel Barckhaus, Harvey Yaw
-- 2016-11-17 — 2-Hours of On Fire Celtic Music #284 — speakers: Spencer Murray Pipeslinger, Jonny Dyer, Colleen Raney, Skeleton McKee, Saor Patrol, Rachel Hair Trio, Brad Millar, Derek Lineberry
-- 2016-11-10 — Great Celtic Music Hiding at Renaissance Festivals #283 — speakers: Sarah Marie Mullen, Abby Green, Andrew McKee, Grey Aengus, Rick Bonney, Hank Woodward, Amanda Wiseman, Derek Lineberry
-- 2016-11-03 — Election Day Reprieve #282 — speakers: Emerald Rose, Shauna Mullin, Andy Lamy, Bonnie Rideout, Ed Miller, Robb Sansonetti, Gaelic Storm, Sharif Abed
-- 2016-10-27 — Celtic Halloween #281 — speakers: Spencer Murray Pipeslinger, Anne Roos, Steve Holloway, Jasper Coal, Bill Grogan, Hank Woodward, Ashley Taylor, Tim Finnegan
-- 2016-10-20 — Work and Dance #280 — speakers: Heather Gilmer, Jeff Moore, Mary Jane Lamond, Hugh Morrison, Doug Folkins, Robert Buck, Pete Alexander, Mark McCaffrey
-- 2016-10-13 — Cead Mile Failte #279 — speakers: Good Foot, Vince Conaway, Danny Guinan Red, Demon Barbers, Gerry O'Beirne, Frank Donahue, Mike Hamilton, Kelly Rogers
-- 2016-10-06 — Women of Celtic Music #278 Bonus — speakers: Linda Relph, Leah Jorgensen, Jennifer Licko, Claire Roche, Becky Taylor, Abby Green, Anne Roos, Gothard Sisters
-- 2016-10-06 — Women of Celtic Music #278 — speakers: Linda Relph, Leah Jorgensen, Jennifer Licko, Claire Roche, Becky Taylor, Abby Green, Anne Roos, Gothard Sisters
-- 2016-09-29 — Celtic Workout Special #277 — speakers: Linda Relph, Patrick Clifford, Bill Grogan, Frank Donahue, Stephen Bernhardt, Beatnik Turtles, Broken Mist, Marc Gunn
-- 2016-09-22 — The Highlands #276 — speakers: Seamus Kennedy, Bonnie Rideout, Ed Miller, Jamie Smith, Terry Griffith, Hobbit Drinking Songs, Concert Window, Frank Donahue
-- 2016-09-15 — Halfway to St. Patrick's Day #275 — speakers: Liz Schettner, Ed Miller, Derek Lineberry, Lynda MacNeil, Peter Tilghman, Bryan Brake, John Sharkey White, Theresa Sullivan
-- 2016-09-01 — Stone Soup #274 — speakers: Heather Dale, Sarah Marie Mullen, Jasper Coal, Jesse Linder, Brobdingnagian Bards, Randy Wothke, Raül Aicart, Chris Kapustin
-- 2016-08-25 — Indie Celtic Musicians #273 — speakers: Ed Miller, Jeff Ksiazek, Abby Green, Derek Byrne, Bog Hoppers, Skeleton McKee, Derek Lineberry, Summer Cruiser
-- 2016-08-18 — Gaelic Girls of Dublin Town #272 — speakers: Gaelic Girls, Ciaran Tourish, Ciara Considine, Corktown Popes, Ken O'Malley, Cady Finlayson, Vita Tanga, Peter Tilghman
-- 2016-08-11 — The Long Road to Dundee #271 — speakers: Colin Farrell, Hank Cramer, Emerald Rose, Kosaka Kazuhiko, Carl Peterson, Angus Mohr, Lynda MacNeil, Mark Allison
-- 2016-08-05 — Pwca Rambles in Spring #270 — speakers: Pwca Rambles, Susan Kidney Donna Germano, Arthur Hinds, Shamrock Orchestra, Redhill Rats, Icewagon Flu, Young Dubliners, Bat Kinane
-- 2016-07-28 — Celtic Dedication #269 — speakers: Michael Liebmann, Becky Taylor, Anton Emery, Claire Roche, Brobdingnagian Bards, De Ceadaoin, Cu Dubh, Theo Niessink
-- 2016-07-21 — Wandering Aengus #268 — speakers: David Hyams, Beth Patterson Patrick O'Flaherty, Darren Raleigh, Marc Gunn, Bill Grogan, Andrew Scarbro, Aaron Bendavid, Caitlin Conchoille
-- 2016-07-14 — Jolly Irish Brogue #267 — speakers: Good Foot, Adam Beattie, Taisgeal Clachan, Caledonia Swing, Dave Wilson, Mark Saul, Marc Gunn, Andrew Scarbro
-- 2016-07-07 — Crazy Summer Dance #266 — speakers: Beth Patterson, Marc Gunn, Redhill Rats, Rod Nevin, Cutting Bracken, Canned Haggis
-- 2016-06-30 — Raised on Black and Tans #265 — speakers: Chalice Well, Leaping Lulu, Ron Cody, Willie McCulloch, Gaelic Storm, Ginger Ackley, Ceol Gan Achar, John Byrne Band
-- 2016-06-16 — Celtic Music from the Cornish Kitchen #264 — speakers: Banna De Dha, Sligo Rags, Jerrie Adkins, Marc Gunn
-- 2016-06-09 — Will Castles Stop the Roving Celt? #263 — speakers: Will Castles Stop, Bat Kinane, Emerald Rose, Martyn Wylde, Maidens IV, Peter Tilghman, Bryan Brake, John Sharkey White
-- 2016-06-02 — Golden Glove of Celtic Music #262 — speakers: Jonny Dyer, Julia Lane, Skeleton McKee, Sean Orr, Saor Patrol, Jodie Purgahn, Rita Barnowski, Stephen Bernhardt
-- 2016-05-26 — Celtic Beach for Memorial Day #261 — speakers: Maggie Sansone, Ciara Considine, Karan Casey, Marc Gunn, Eilis Crean, Linda Marie Smith, Joyce Pavelko, Charlie Returns North
-- 2016-05-19 — Wild Geese in a Summer Storm #260 — speakers: Hearthfire Duo, Andy Lamy, Battlefield Band, Rebecca Gilbert, Kellswater Bridge, Jed Marum, Mickey Coleman, Joyce Pavelko
-- 2016-05-12 — Celtic Music to the Rescue #259 — speakers: Dave Wilson, Dun Aengus, Colleen Raney, Peter Tilghman, Bryan Brake, John Sharkey White II, Theresa Sullivan, Brendan Nix
-- 2016-05-05 — Chilling By the Celtic Campfire #258 — speakers: Tania Opland, Ken O'Malley, Darragh McGann, Vintage Wildflowers, Tim Malloys, Pink Ribbon Project, Concert Window, Bonnie Rantin
-- 2016-04-28 — Celtic Music Hero's Return #257 — speakers: Jimi McRae, Heather Dale, Sarah Dinan, Kilmaine Saints, Battlefield Band, Mark Hughes, Jeff Fischer, Frank Donahue
-- 2016-04-21 — Commitment to Celtic Music #256 — speakers: Mixed Flock, Hearthfire Duo, Nathan Gourley, Laura Feddersen, Gwilym Morus, Daibheid Jordan, Elizabeth Thomas, Bold O'Donahue
-- 2016-04-14 — Celtic Music for a Cloudy Day #255 — speakers: Sarah Marie Mullen, Hanz Araki, Ed Yother, Bret Blackshear, Judith Weikle, Boston Blackthorne, Staggering Jack, Bonnie Jean Cameron
-- 2016-04-07 — 2-Hours of Celtic Canadian Music #254 — speakers: Coole Park, Duncan Cameron, Chrissy Crowley, Madd Paddy, Jesse Ferguson, Maggie Rant, Gillian Boucher, Heather Dale
-- 2016-03-31 — Totally Trad Irish Music... April Fools! #253 — speakers: April Fools, Sligo Rags, Brobdingnagian Bards, Emerald Rose, Beatnik Turtle, Doug Folkins, Patrick Maloney, Whirly Jig
-- 2016-03-24 — Post-St. Patrick's Day Blues #252 — speakers: St Patrick, John Byrne Band, Jonathan Milton, Karan Casey, Mithril Duo, Tuatha Dea, Scarlett Letter, Betsy Ross Bridge
-- 2016-03-16 — St Patrick's Day Top 20 Celtic Bands #251 — speakers: St Patrick, Marc Gunn, Emerald Rose, Full Gael, Heather Alexander, Jesse Ferguson, Patsy O'Brien, Peggy Gordon
-- 2016-03-14 — St Patrick's Day Wish with Poitin's Czech Celtic Music #250 — speakers: St Patrick, Poitin Poitin, Abby Green, Marc Gunn, Jim Sharkey, Eddie Biggins, Tommy Peoples, Scully Casey
-- 2016-03-10 — 17 for St Patrick's Day Music Playlist #249 — speakers: St Patrick, Mixed Flock, Gothard Sisters, Abby Green, John Byrne Band, Redhill Rats, Noel Nash, Danny O'Flaherty
-- 2016-03-07 — St Patrick's Day Songs #248 — speakers: St Patrick, Marc Gunn, Kilkelly Ireland, Rocky Road, Danny Boy Drunken, Henry Martin
-- 2016-03-03 — St Patrick's Day Playlist for Irish American Heritage Month #247 — speakers: St Patrick, Linda Relph, Michael Black, Anne Roos, Michael DeAngelis, Jonny Dyer, Ginger Ackley, Hanz Araki
-- 2016-02-25 — Passing the Train to St. Patrick's Day #246 — speakers: Heidi-Jane Schwabe, Abby Green, Jonathan Milton, Myddle Earth, Stephen Kern, Lady Moon, Patrick Special, Peter Tilghman
-- 2016-02-18 — Wind & Whiskey to Shake the Barley #245 — speakers: David Nigel Lloyd, Emerald Dawn, Jim Sharkey, Don Gabbert, St Patrick, Whalley Range, Lo Lop, Sweet Anne
-- 2016-02-11 — Celtic Love Songs & Tunes #244 — speakers: Battlefield Band, Marc Gunn, Scott Hoye, Seamus Kennedy, Carbon Leaf, St Patrick, Andy Kruspe, Mithril Duo
-- 2016-02-04 — Whiskey Kelpie Reels #243 — speakers: John Byrne Band, Jamie Smith, Patrick Penta, Bill Grogan, John McLean Allan, Carbon Leaf, Cara Dillon, Peter Tilghman
-- 2016-01-28 — King of the Fairies #242 — speakers: Grey Whistle, Bonnie Rideout, Good Foot, Tibby Fouller, Gordon Stables, Pandora Celtica, Marc Gunn
-- 2016-01-21 — Top 20 Best Celtic Music of 2015 on #241 — speakers: Emerald Rose, Heather Alexander, Jesse Ferguson, Patsy O'Brien, James McDaniel II, Grace O'Malley, Full Gael, Gypsy Bardic Tinker
-- 2016-01-14 — Irish Music on Ellis Island #240 — speakers: Amelia Hogan, Laurent Leemans, Doug Folkins, Ann Sannat, Bryan Blake, Chris Cooper, Martin Wynne, Siun Ni Dhuibhir
-- 2016-01-07 — Celtic Harp Music Special for 2-Hours #239 — speakers: Sarah Marie Mullen, Claire Roche, Scott Hoye, Leah Jorgensen, Donna Germano, Margaret Davis, Daphne Quigley-Freund, Allyson Adair
-- 2015-12-31 — Funny Irish & Celtic Songs #238 — speakers: Jim Flanagan, Jim Brannigan, Seamus Kennedy, Ed Miller, Merry Wives, Brobdingnagian Bards, Marc Gunn, King Arthur
-- 2015-12-24 — Celtic Music for Christmas Eve #237 — speakers: Nollaig Shona, Mithril Duo, Battlefield Band, Leo McCann, Ceol Gan Achar, Marc Gunn Jamie Haeuser, Fionnuala Sherry, Good Foot
-- 2015-12-17 — Celtic Christmas Music Special for 2015 #236 — speakers: Mark O'Connor, Jonny Dyer, Marc Gunn, Bat Kinane, Katie McMahon, Heather Dale, Small Town Sheiks, Jennifer Licko
-- 2015-12-04 — Celtic Music to Kick Off December #235 — speakers: Kick Off, Shamrock Orchestra, Bat Kinane, Kilmaine Saints, Danny Carthy, William Murphy, George Town Folk Festivals, Mark Gunn
-- 2015-11-26 — Safe Travels Home with Irish Celtic Music #234 — speakers: Samantha Gillogly, Tim Maurice, Vintage Wildflowers, Don Gabbert, Grey Whistle, Ashley Davis, Redhill Rats, Allison Barber
-- 2015-11-19 — Workout with Celtic Music #233 — speakers: John McGaha, Jonathan Milton, Emerald Rose, Colin Farrell, Mwnci Nel, Dun Aengus, Beer Belly, Demon Barbers
-- 2015-11-12 — Relaxing Celtic Music #232 — speakers: Jennifer Licko Shelton, String Thaw, Ed Miller, Beat Smash Square, Jed Marum, Liz Madden, King Arthur, Marc Gunn
-- 2015-11-05 — Irish & Celtic Music #231 — speakers: Bret Blackshear, Linda Relph, David Lovrien, Larry Fowler Jed Marum, George Papavgeris, Patrick Clifford, Sligo Rags, Paisley Close
-- 2015-10-29 — Celtic Halloween and Samhain #230 — speakers: Bat Kinane, Lady Prudence, Arthur Hinds, Sylvia Platypus, Coyote Run, David Nigel Lloyd, King Arthur, Marc Gunn
-- 2015-10-22 — 2-Hours of Celtic Fiddle Music #229 — speakers: Cady Finlayson, Samantha Gillogly, Tim Maurice, Marc Gunn, Linda Relph, Jamie Laval Ashley Broder, Heidi Jane, Bedlam Bards
-- 2015-10-15 — The Sun Sets On My Love #228 — speakers: Patsy O'Brien, Jesse Ferguson, Bill Grogan, King Arthur, Marc Gunn, Tripping Down, Emerald Accent, Johnny Jump
-- 2015-10-12 — Celtic Music Before the War #227 — speakers: Darren Raleigh, Redhill Rats, King Arthur, Marc Gunn, Lee Ho
-- 2015-10-01 — Less Talk, More Celtic Music #226 — speakers: Rachel Hair Trio, Lady Prudence, Patrick D'Arcy, Saxon Moon, Jerry McLean, Blackthorne Aire, King Arthur, Marc Gunn
-- 2015-09-24 — Irish Music Farewell to Erin #225 — speakers: Becky Taylor, Carolina Ceili, Jed Marum, King Arthur, Emerald Accent, Sligo Rags, Marc Gunn
-- 2015-09-17 — Halfway to St. Patrick's Day #224 — speakers: Hank Cramer, Merry Wives, Darcy Nair, Brobdingnagian Bards, Black Jack Murphy, King Arthur, Katie Jo, Paddy Murphy
-- 2015-09-10 — #223: Traditional Music with Celtic Roots — speakers: Full Gael, William Coulter Friends, Bonnie Rideout, Linda Connell Studley, Jerry McLean, Blackthorne Aire, Emerald Rose, James Olin Oden
-- 2015-08-27 — Burly Bagpipe Music, 2-Hours! #222 — speakers: Becky Taylor, Jasper Coal, Jim Brannigan, Patrick D'Arcy, Jimi McRae, Sam Okoo, Brian Boru, Mark Twain
-- 2015-08-20 — #221: The White Hare — speakers: Emerald Rose, Karan Casey, Claire Roche, Heather Dale, Cady Finlayson, Vita Tanga, Chuckawalla Rhythm Kings, Emerald Dawn
-- 2015-08-13 — #220: Lads of Laois — speakers: Jenna Greene, Ray Kelly, Saxon Moon, Sligo Rags, Ed Miller, Obia Song, Bonhomme Setter, Danny Boy
-- 2015-08-06 — #219: Siren's Song of the Selkie — speakers: Colin Farrell, Kevin Behan, Cele De, Danny Carthy, Noirin Ni Riain, Nathan Gourley, Laura Feddersen, Heather Dale
-- 2015-07-30 — #218: Voicemail from Best Celtic Music Retrospective — speakers: Theresa Sullivan, Wesley Dunnington, Anna Cylkowski, Brendan Nix, John Bilderback, Samual Hill, Johnny Berry, Shawn Cali
-- 2015-07-23 — #217: 10 Years of Great Irish & Celtic Music, a Retrospective — speakers: Heather Alexander, Jamie Laval, Ashley Broder, Sligo Rags, Jimi McRae, Sam Okoo, Heather Dale, Mary Knickle
-- 2015-07-16 — #216: Sleepy Maggie — speakers: Gerry O'Beirne, Rosie Shipley, Cady Finlayson, Jasper Coal, Arthur Hinds, Demon Barbers, Marc Gunn, Brendan Nix
-- 2015-07-09 — #215: Irish Whiskey on Sunday — speakers: Mixed Flock, Maggie Sansone, Rob Higginbotham, Ron Cody, Marc Gunn, Gothard Sisters, Jesse Ferguson, Mark Twain
-- 2015-07-02 — #214: Lucky Carrickfergus — speakers: Buzz Turner, Scott Hoye, Kyle Carey, Raymond McCullough, Marys Lane, Mark Twain, King Arthur, Lake Cochituate
-- 2015-06-25 — Uilleann Pipes on the Giant's Causeway #213 — speakers: Rachel Hair Trio, Patrick D'Arcy, Gothard Sisters, Jim McKenna, Eddie Biggins, Heather Dale, Neil Anderson, Mark Twain
-- 2015-06-18 — #212: Back from Donegal — speakers: Joe Travers, Adam Alexander, Michael DeAngelis, Bonnie Rideout, Marc Gunn, Raymond McCollough, Mark Twain, Joe Travers Adam Alexander
-- 2015-06-01 — Irish Music Postcard, Back Soon! #211 — speakers: Ed Miller, Dark Patrick, Cynthia Bennett, Joe Travers Adam Alexander, Sean Tyrell, Heather Alexander, Dan Milner, Jasper Coal
-- 2015-05-28 — #210: TGICT (Thank God It's Celtic Thursday) — speakers: Nathan Gourley, Laura Feddersen, Liz Madden, Mixed Flock, Laura McGhee, Jeremy King, Mark Twain, Mark Miller
-- 2015-05-21 — #209: Memorial Day — speakers: Seamus Kennedy, Rising Gael, Jim McKenna, Jonny Dyer, Jimi McRae, Sam Okoo, Susan Kidney Donna Germano, Marc Gunn
-- 2015-05-13 — #208: Your Feet Will Take You — speakers: Colin Farrell, Kate Crossan, Preab Meadar, Nathan Gourley, Laura Feddersen, Linda Marie Smith, Jasper Coal, John George's Favorite
-- 2015-05-07 — Mother's Day Celtic Music #207 — speakers: Julia Lane, Linda Relph, Molly Bauckham, Jeff Ksiazek, John McCormack Frank Patterson, Fionnuala Sherry, Steve Holloway, Margaret Davis
-- 2015-04-30 — #206: Galicia — speakers: Evo Terra, Heather Dale, John Bilderback, Marc Gunn, Concert Window, Lume de Biqueira, Cal Ninyo
-- 2015-04-23 — #205: Earth Day — speakers: Bruce Boyd, Karan Casey, Jed Marum, Anne Roos, Michael Black, Emerald Rose, Mater Dea, Hugh Morrison
-- 2015-04-15 — 3-Hours of Instrumental Celtic Music #204 — speakers: Brian Thomas, Linda Relph, Sarah Marie Mullen, Fromseier Rose, Thomas Patrick Kenny, Eilis Crean, Carey Street, Thomas Doc Grauzer
-- 2015-04-09 — #203: Work of the Weavers — speakers: Duncan Cameron, Hugh Morrison, Dublin O'Shea, Don Gabbert, Mishaped Pearls, Mary Black, Joris Louwes, My Kickstarter
-- 2015-04-02 — #202: Funny Irish Songs, Scottish Songs, and Parodies — speakers: Seamus Kennedy, Brobdingnagian Bards, Jonathan Ramsey, Marc Gunn, Cairde na Gael, Tom Smith, Sligo Rags, Mary Ellen Spider
-- 2015-03-26 — The Four Redheads of Celtic Music #201 — speakers: St Patrick, Duncan Cameron, Beth Patterson Patrick O'Flaherty, Henry Lee, Johnny Cunningham, Froggy Fox, Marc Gunn
-- 2015-03-24 — St. Patrick's Day Music Playlist 2015 #200 — speakers: Jimi McRae, Jesse Linder, Jonathan Milton, Jesse Ferguson, Martyn Wylde, Hugh Morrison, Free St Patrick, St Patrick’s Day
-- 2015-03-12 — Best Celtic Music of 2014 #199 — speakers: Marc Gunn, Gwilym Morus, Gothard Sisters, Tom Morley, Bedlam Bards, Arlene Faith, Brobdingnagian Bards, Fleur De Lis
-- 2015-03-03 — St. Patrick's Day Songs for Kids #198 — speakers: Sharon Shannon, Nancy Daily Green, Sarah Dinan, Ed Miller, Marc Gunn, St Patrick, Nancy Daily-Green
-- 2015-02-26 — Irish Drinking Songs Top 20 #197 — speakers: Dun Aengus, Brobdingnagian Bards, Terry Griffith, Bedlam Bards, Doggy Dike, Jonathan Ramsey, Jim Brannigan, Melanie Gruben
-- 2015-02-18 — 2-Hours of Traditional Celtic Music #196 — speakers: Chrissy Crowley, Emerald Rose, Vince Conaway, Gaelic Storm, Patsy O'Brien, Colleen Raney, Steve Holloway, Maggie Rant
-- 2015-02-11 — Celtic Valentine's Day #195 — speakers: Arlene Faith, Marc Gunn, Anne Roos, Claire Roche, Gothard Sisters, Jamie Haeuser, Birmingham St Patrick
-- 2015-02-03 — Celtic Craic Medley #194 — speakers: Craic Medley, Smithfield Fair, Darren Raleigh, James Shipp, Redhill Rats, Spade McQuade, Nick Watson, St Patrick
-- 2015-01-28 — Best Celtic Dinner Music in Dublin #193 — speakers: Banna De Dha, Abby Green, Cady Finlayson, Heidi Jane, St Patrick, Serious Kitchen, Pandora Celtica, Marc Gunn
-- 2015-01-21 — Burns Day Scottish Music #192 — speakers: Robert Burns Day, Don Grieve, Ed Miller, Marc Gunn, Carl Peterson, Sassanak Lassies, Merry Wives, Leah Jorgensen
-- 2015-01-14 — Irish & Celtic Music Kid on the Mountain #191 — speakers: Bonnie Rideout, Maggie Rant, Corktown Popes, St Patrick, Marc Gunn, Concert Concert, Beth Patterson, Michael Liebmann
-- 2015-01-07 — Faerie Rings #190 — speakers: Arlene Faith, Patsy O'Brien, Jesse Ferguson, Jonathan Kershaw, Dubliner Harpers, Jed Marum, Colleen Raney, Tripping Down
-- 2014-12-31 — Have a Happy New Year with Celtic Music #189 — speakers: Michael Black, Gothard Sisters, Ed Miller, Oran Arasaig, Marc Gunn
-- 2014-12-24 — Peaceful Celtic Christmas #188 — speakers: Gothard Sisters, John McGaha, Vince Conaway, Jim Flanagan, Bonnie Rideout, Liz Madden, Julia Lane, Golden Bough
-- 2014-12-17 — Celtic Christmas Music #187 — speakers: Maggie Sansone, Bonnie Rideout, Golden Bough, Marc Gunn, Tom Morley, Eileen Ivers, Ross Crean, Merry Merry Time
-- 2014-12-09 — Celtic Music from Renaissance Festivals #186 — speakers: Brobdingnagian Bards, Merry Mischief, Nancy Daily-Green, Abby Green, Leah Jorgensen, Merry Wives, Lucy Cassidy, Cataloochee Kool
-- 2014-12-03 — 2 Hours of Celtic Rock Music! #185 — speakers: Mickey Coleman, Redhill Rats, Johnsons Motorcar, Mighty Ploughboy, Heidi Jane, Brendan Monaghan, Paisley Close, Angus Mohr
-- 2014-11-26 — Celtic Music for Thanksgiving #184 — speakers: Emerald Rose, Julia Lane, Sean Orr, Beth Patterson Patrick O'Flaherty, Merry Wives, Laura McGhee, Gothard Sisters, Jenna Greene
-- 2014-11-19 — Music Wales #183 — speakers: Welsh Bard, Gwilym Morus, Leah Jorgensen, Karen Mueller, Moch Pryderi, Mwnci Nel, Thomas Doc Grauzer, Shillelagh Law
-- 2014-11-12 — The Mermaid's Crown of Celts #182 — speakers: Ashley Davis, Ross Crean, Marc Gunn, Forgotten Dublin Mando, Mahatma Ghandi, James Connolly
-- 2014-11-04 — 2-Hours of Bagpipe Music #181 — speakers: Mark Saul, Icewagon Flu, Brian Boru Irish Pipe, Jonny Dyer, Jimi McRae, Sam Okoo, Bonnie Rideout, Stephen Types
-- 2014-10-29 — Celtic Halloween Special #180 — speakers: John Williams Dean Magraw, Bedlam Bards, Jenneth Tolin, Marc Gunn, Karan Casey, Gary Hook, Jesse Ferguson, Witches Dance
-- 2014-10-27 — Celtic Castles, Reels and New Celtic CDs #179 — speakers: Steve Hawson, Maggie Sansone, Jesse Linder, Kyle Carey, Young Dubliners, Claire Roche, Kickstart Marc Gunn, Marc Gunn
-- 2014-10-15 — Roisin ag an Doilin - Celtic Music #178: — speakers: Colm Seoighe, Sarah Dinan, Marc Gunn, Emerald Accents
-- 2014-10-08 — Celtic Swan in the the Misty Mountains #177 — speakers: Banna De Dha, Catriona McKay, Jed Marum, Cady Finlayson, Marc Gunn, Tim Maurice, Gael Warning, David Roon
-- 2014-09-30 — September Irish Reels #176 — speakers: Gan Fidel, Joe Derrane, Jesse Ferguson, Ciara Considine, Brendan Monaghan, Brian Thomas, Marc Gunn, Kick Cancer
-- 2014-09-24 — 2-Hours of Celtic Music #175 — speakers: Ed Miller, Kyle Carey, Linda Relph, Wild Colonial Bhoys, Beth Patterson, Emerald Rose, Derek Young, Ken O'Malley
-- 2014-09-17 — Talk Like a Pirate Day #174 — speakers: Black Jack, Bob Conroy, Heather Dale, Bill Grogan, Marc Gunn, Kick Cancer, Black Jack Murphy, Knotty Tales
-- 2014-09-10 — Sherwood Celtic Music Festival #173 — speakers: Abby Green, Bedlam Bards, Ashley Davis, Saxon Moon, Marc Gunn, Kick Cancer
-- 2014-09-03 — Irish Punk #172 — speakers: Bearded Irishmen, Marc Gunn
-- 2014-08-27 — Drunken Sailor #171 — speakers: Emerald Rose, Brobdingnagian Bards, Green Man, Marc Gunn, Maggie Lauder, Humans Walked, Top Shelf
-- 2014-08-20 — Across the Celtic Waters #170 — speakers: Ed Miller, Sheridan Band, Marc Gunn, Canu Cwnsela Pwnco, Come Awa, Voicemail Tippin, Donald MacGillavry
-- 2014-08-13 — How America Saved Irish Music #169 — speakers: Marc Gunn Jamie Haeuser, Ais Vis Lo Lop, Marc Gunn
-- 2014-08-06 — Irish Vacation on the Beach #168 — speakers: Sarah Marie Mullen, Merry Wives, Colleen Raney, Martyn Wylde, Ken O'Malley, Ashley Davis, Paisley Close, Moya Brennan
-- 2014-07-30 — Postcard from Dublin [Clean Edit] #167 — speakers: Jonathan Milton, Melanie Gruben, Jed Marum, Ginger Ackley, Brobdingnagian Bards, Randy Cat, Molly Bauckham, Bonnie Green
-- 2014-07-23 — Celtic Dinner Party #166 — speakers: John Byrne Band, James Scott Skinner, Heather Gilmer, Jeff Moore, Adam Beattie, Maggie Lauder, Laird O'Thrums, Gavin M'Millan
-- 2014-07-16 — Celtic Music Celebration #165 — speakers: Linda Relph, Bonhomme Setter, David Nigel Lloyd, Francesca Fabris, Cady Finlayson, Marc Gunn, Concert Window, Heather Gilmer
-- 2014-07-09 — Sailing the Dark Windy Seas #164 — speakers: Karen Mal, David Roon, Scott Hoye, Anne Roos, Jennifer Licko Shelton, Marc Gunn
-- 2014-07-02 — Homesick for Ireland and Irish Music #163 — speakers: Marc Gunn Jamie Haeuser, Tim Maurice, Jim Brannigan, Seamus Kennedy, Christiane Cargill, David Hum, Icewagon Flu, Bill Grogan
-- 2014-06-25 — Workout with Rockin' Celtic Music #162 — speakers: Boston Blackthorne, Marc Gunn, Kerry Park, Dick Gossip, Beer Belly
-- 2014-06-18 — Irish Coffee #161 — speakers: Cady Finlayson, Emerald Rose, Dan Ar Braz, Kilmaine Saints, Mary Come, Donald McGillivray, Marc Gunn
-- 2014-06-11 — Mist Covered Mountains of Donegal #160 — speakers: Mist Covered Mountains, Jamie Smith, Colin Farrell, Hugh Morrison, Candace Corrigan, Marc Gunn, Eleanor Plunkett, O'Carolan Songwriter
-- 2014-06-04 — Farewell Whisky 'n Wales #159 — speakers: Farewell Whisky, Julia Lane, Wicked Tinkers, Ceol Gan Achar, Paisley Close, Marc Gunn, Whisky Supper, Green Tea
-- 2014-05-19 — Celtic Music for Brunch #158 — speakers: Jonathan Milton, Ashley Davis, Tania Opland, Adam Beattie, Jonny Dyer, Banna de Dha, Marc Gunn, Jimi McRae
-- 2014-04-30 — Fizzy Pop and Celtic Reels #157 — speakers: Telenn Tri, Cheeks Miller, Brian Boru, Billy McConnell, Marc Gunn
-- 2014-04-09 — Open the Gates of Celtic Music #156 — speakers: Michael Albert, Henry Lebedinsky, Adam Beattie, James Olin Oden, Martyn Wylde, Sligo Rags, Jack Talty, Gougane Barra
-- 2014-03-16 — Great St Patrick's Day Music Playlist Extravaganza 2014 #155 — speakers: Great St Patrick, Jimi McRae, Jonathan Ramsey, Marc Gunn Jamie Haeuser, de dha, Jamie Laval, Ashley Broder, Maggie Drennon
-- 2014-03-13 — Free St Patrick's Day Music Playlist of 2014 #154 — speakers: Gwilym Morus, Kevin McCormack, Gothard Sisters, Jack Carey, Jonny Dyer, Telenn Tri, Marc Gunn, Heather Dale
-- 2014-03-10 — Best Irish & Celtic Music of 2013 #153 — speakers: Gael Warning, Gothard Sisters, Brobdingnagian Bards, Bilge Pumps, Jed Marum, Marc Gunn, Jack Talty, Gougane Barra
-- 2014-03-04 — Celtic Rock #152 — speakers: Brendan Monaghan, Jack Talty, Gougane Barra, Blarney Castle, Song Henge, St Patrick, Celtophilia Tee Company, St Brendan
-- 2014-02-05 — Brilliant Collection of Celtic Music #151 — speakers: Brian Hebert, Chris Digby, BlackEyed Dempseys, Jasper Coal, Vintage Wine, Marc Gunn, Jamie Raeburn
-- 2014-01-18 — The Craic Is Free Celtic Music #150 — speakers: Jonny Dyer, Cu Dubh, James Olin Oden, Jesse Ferguson, Chrissy Crowley, Martyn Wylde, Brendan Monaghan, Marc Gunn
-- 2013-12-09 — Celtic Christmas Miracle #149 — speakers: Heather Dale, John McGaha, George Papavgeris, Tom Morley, Jed Marum, Marc Gunn, Boston Blackthorne, Brobdingnagian Bards
-- 2013-11-15 — West Coast Celtic Music #148 — speakers: Hank Cramer, Gothard Sisters, Bowi Band, Erin McNamee, Ockham’s Razor, Marc Gunn, Buchan Bluegrass, Top Shelf Heather
-- 2013-10-24 — Celtic Halloween #147 — speakers: Nancy Daily-Green, Maggie Sansone, Marc Gunn, Anne Roos, James Olin Oden, Merry Wives, Gan Fidel, Green Man
-- 2013-09-27 — Rolling Hills of Shamrocks #146 — speakers: David Nigel Lloyd, Full Gael, Jack Carey, Cady Finlayson, La Unica, Jasper Coal, Scott Hoye, Marc Gunn
-- 2013-09-16 — Halfway to St. Patrick's Day #145 — speakers: Jonny Dyer, Gael Warning, Seamus Kennedy, Marc Gunn, de dhá, Don Grieve
-- 2013-08-22 — Endless Celtic Summer #144 — speakers: Brobdingnagian Bards, Coole Park, Martyn Wylde, Staggering Jack, Sarah Marie Mullen, Kevin McCormack, La Unica, Mrs McLean
-- 2013-07-05 — Songs of Irish Immigration #143 — speakers: Marc Gunn, Gerry O’Beirne Rosie Shipley, Gothard Sisters, Ken O’Malley, Gillian Boucher, Coole Park, Maarten Roos, Bad Haggis
-- 2013-06-06 — Banish Misfortune with Irish Celtic Music #142 — speakers: Buzz Turner, Jed Marum, Marc Gunn, Beer Belly, Top Shelf
-- 2013-05-04 — Bagpipes Rock #141 — speakers: Bagpipes Rock, Jesse Ferguson, Ed Yother, Brendan Loughrey, Jonny Dyer, Song Henge, Marc Gunn’s Kickstarter, Culann’s Hounds
-- 2013-04-18 — Thursday Celtic Music #140 — speakers: Duncan Ross Cameron, Allyson Adair, Anne Roos, Amelia Hogan, Angus Mohr, Mimi Burns Band, Marc Gunn, Reid’s Maid
-- 2013-03-13 — Best St. Patrick's Day Playlist of 2013 #139 — speakers: St Patrick, Beth Patterson, Patrick O’Flaherty, Dave Hum, Brendan Loughrey, Marc Gunn, Staggering Jack, Jasper Coal
-- 2013-03-08 — Top 20 Celtic Bands of 2012 for St. Patrick's Day #138 — speakers: St Patrick’s Day, Brobdingnagian Bards, Peter Daldry, Vintage Wildflowers, Hayley Griffith, Tim Maurice, Susan Kidney, Donna Germano
-- 2013-03-06 — St. Patrick's Day Playlist #137 — speakers: St Patrick’s Day, Duncan Ross Cameron, Jonny Dyer, Ed Yother, Shamrock Orchestra, Beerside Scoundrels, Slides Ger, Sweet Dublin
-- 2013-02-11 — Celtic Love #136 — speakers: Athena Tergis, Colleen Raney, Moira Nelson, Ciara Considine, Merry Wives, Jed Marum, Valentine’s Day Special, Valentine’s Day
-- 2013-01-24 — Celtic Music Inspiration #135 — speakers: Beth Patterson, Patrick O’Flaherty, Jesse Ferguson, Marc Gunn, Caledonia Swing, Coole Park, Heather Dale, Diana Gabaldon’s Outlander
-- 2013-01-12 — Top 20 Best Celtic Music of 2012 #134 — speakers: Brobdingnagian Bards, Peter Daldry, Vintage Wildflowers, Hayley Griffith, Tim Maurice, Susan Kidney, Donna Germano, Ockham’s Razor
-- 2012-12-13 — Hobbit Music by Celtic Artists #133 — speakers: Heather Gilmer, Jeff Moore, Sean Orr, Patrick Clifford, Brobdingnagian Bards, Marc Gunn, Samantha Gillogly, Maidens IV
-- 2012-11-20 — Irish & Celtic Music Podcast #132: The Rogues, Sisters of Murphy, Laura McGhee — speakers: Laura McGhee, Dave Hum, Ginger Ackley, Tim Maurice, Angus Mohr, Marc Gunn, Randy Wothke, Andy Renwick
-- 2012-10-26 — Irish Celtic Music: Hair of the Dog, The Triskells, Peter Daldry #131 — speakers: Peter Daldry, Paul Carroll, Leah Jorgensen, Merry Wives, Dave Hum, Angus Mohr, Marc Gunn, Leaving Plevna
-- 2012-10-02 — Irish & Celtic Music Podcast #130: Iona, Colleen Raney, The Young Wolfe Tones — speakers: Colleen Raney, Tania Opland, Mike Freeman, Leah Jorgensen, Sgian Dubh, Gillian Boucher, Ed Miller, Squinting Patrick
-- 2012-09-14 — Irish Blessings #129: Steven Hawson, The Duplets, Bard of the South — speakers: Steven Hawson, Scott Hoye, Paul Carroll, Shamus Begley, Marc Gunn, Leaving Plevna, Aaron’s Quay, My Bonnie Jean
-- 2012-09-06 — Celtic Special on Don't Go Drinking With Hobbits #128 — speakers: Marc Gunn, Peter Jackson, Song Bilbo
-- 2012-08-26 — Gone Gaelic with Music #127: Vintage Wildflowers, Allison Barber, Claire Roche — speakers: Vintage Wildflowers, Allison Barber, Claire Roche, Ken O’Malley, Seamus Stout, Fionnuala Sherry, Tuatha Dea, Jennifer Johnson
-- 2012-07-25 — Irish & Celtic Music Podcast #126: Emerald rose, Beyond the Pale, Hawp — speakers: Scott Hoye, Tara Hill, Murray McDowell, Emerald Rose, Marc Gunn
-- 2012-07-11 — Irish & Celtic Music Podcast #125: Tricky Pixie, Bill Grogan's Goat, Tara's Fire — speakers: Bill Grogan, Marc Gunn, Tara’s Fire, Bill Grogan’s Goat, Rie Sheridan, Rie Sheridan Rose, Danny Boy
-- 2012-06-29 — Irish & Celtic Music Podcast #124: Brian Thomas, Celtic Pipes Rock!, Culbeag — speakers: Brian Thomas, Steve Hawson, Ceol Gan Achar, Doug Folkins, Pog Mo Thon, Rie Sheridan, Rie Sheridan Rose, Tara Hill
-- 2012-05-30 — Irish & Celtic Music Podcast #123: Derek Warfield, Poitin, Iarla O'Lionaird — speakers: Derek Warfield, Iarla O'Lionaird, Mickey Coleman, Noel Nash, Danny O’Flaherty, Merry Wives, Leah Jorgensen, Ed Miller
-- 2012-05-10 — #122: Feature on the Bodhran — speakers: George Murphy, Hugh Morrison, Rie Sheridan, Rie Sheridan Rose, Nancy FLynn, Rüdiger Reinhardt, Tam Lin, Marc Gunn
-- 2012-04-18 — Irish & Celtic Music Podcast #121 — speakers: Oisin McAuley, Susan Kidney, Donna Germano, Ed Miller, Canned Haggis, Rie Sheridan, Rie Sheridan Rose, Oisín McAuley
-- 2012-03-14 — #120: St Patrick's Day Special MP3 Downloads — speakers: St Patrick, Sean Orr, Jesse Ferguson, Marc Gunn, Leah Jorgenson, Danny O’Flaherty, Noel Nash, Vintage Wildflowers
-- 2012-03-07 — #119: Best Celtic Artists for St Patrick's Day 2012 — speakers: St Patrick, Colin Farrell, Jimi McRae Sam Okoo, Jonny Dyer, Heather Alexander, Keith Hinchliffe, Molly Bauckham, Gaelic Storm
-- 2012-02-26 — Irish & Celtic Music Podcast #118 — speakers: Jonny Dyer, Dun Aengus, Tim Maurice, Cod Gone Wild, Marc Gunn, Fiona Explores, Brian Boru, Story Girl
-- 2012-02-07 — Irish & Celtic Music Podcast #117: Pressed For Time — speakers: Robert Doyle, Moira Nelson, Hayley Griffith, Sgian Dubh, Fionnuala Sherry, Jenne Lennon, Marc Gunn, Caterina Franscesca
-- 2012-01-20 — Irish & Celtic Music Podcast #116 — speakers: Brian Boru, Tania Opland, Jesse Ferguson, Ricky Fitzpatrick, Hayley Griffith, Beer Belly, Marc Gunn, Lonely Mountain Band
-- 2012-01-06 — Irish & Celtic Music Podcast #115 – Top 20 Best Celtic Music of 2011 — speakers: Sligo Rags, Keith Hinchliffe, Maggie Drennon, Rising Gael, Heather Alexander, Jonny Dyer, Colin Farrell, Molly Bauckham
-- 2011-12-16 — Irish & Celtic Music Podcast #114 - Celtic Christmas — speakers: John McGaha, Jed Marum, Pandora Celtica, Heather Dale, Marc Gunn, Coyote Run, George Papavgeris, Moya Brennan
-- 2011-12-03 — Irish & Celtic Music Podcast #113: Boston Blackthorne, Stout Pounders, Emish — speakers: Boston Blackthorne, Shamrock Orchestra, Maidens IV Brizeus, Vintage Wildflowers, Sheridan Band, Shillelagh Jack, James Olin Oden, Gift Pack
-- 2011-11-16 — Irish & Celtic Music Podcast #112: Cod Gone Wild, Rathkeltair, EHM, Hunting McLeod — speakers: Cod Gone Wild, Hunting McLeod Music, Samantha Gillogly, Jimi McRae, Molly Bauckham, Kathy Barwick, George Murphy, Hunting McLeod
-- 2011-10-31 — Irish & Celtic Music Podcast #111: Fiddlin' in the Parlor, Burning Bridget Cleary, Michael Black — speakers: Michael Black Music, Michael Black, Colleen Raney, Marc Gunn, Vintage Wildflowers, Bill Grogan, Icewagon Flu, Gerry O'Beirne
-- 2011-10-05 — Irish & Celtic Music Podcast #110: Alison Nolan, Ron Cody, Terry Griffith, Green Man — speakers: Ron Cody, Terry Griffith, Green Man Music, Alison Nolan, Brobdingnagian Bards, Boston Blackthorne, Redhill Rats, Green Tea
-- 2011-08-30 — Irish & Celtic Music Podcast #109: Keith Hinchliffe, Dun Aengus, Homeland, The Killdares — speakers: Keith Hinchliffe, Dun Aengus, Ed Miller, Mary Behan Miller, Marc Gunn, Beth Patterson, Caber Toss, Tommy Coen
-- 2011-07-26 — Irish Celtic Music Six-Year Anniversary #108: Ellis Island, Jameson's Revenge, Cu Dubh, Beer Belly — speakers: Cu Dubh, Colin Farrell, Abby Green, Beer Belly, Jonny Dyer, Vintage Wildflowers, Bill Grogan, Marc Gunn
-- 2011-07-07 — Irish Celtic Music #107: Colin Farrell, Ciara Considine, StoneRing, Danny Carthy — speakers: Colin Farrell, Ciara Considine, Danny Carthy Music, Colleen Raney, Jimi McRae, Danny Carthy, John McGaha, Laura McGhee
-- 2011-06-19 — Happy Father's Day Celtic Music #106: Johnson's Motorcar, Maggie Sansone, Ken O'Malley — speakers: Maggie Sansone, Ken O'Malley, Dan Milner, Gerry O'Beirne, Rosie Shipley, Maggie Drennon, Marc Gunn, Brobdingnagian Bards
-- 2011-06-08 — Irish Celtic Music #105: Texas Scottish Festival w/ Clandestine, Seamus Stout, Hugh Morrison, Tullamore — speakers: Seamus Stout, Hugh Morrison, Jed Marum, Don Gabbert, Marc Gunn, Ed Miller, Ray MacDonald, Rigs O'Barley
-- 2011-05-26 — Irish Celtic Music #104: The Flying Toads, FiddleSticks, Mithril, Rambling Sailors — speakers: Jillian LaDage, Sarah Dinan, Emerald Rose, Sheridan Band, Jimi McRae, Sam Okoo, George Papavgeris, Marc Gunn
-- 2011-04-12 — Irish Celtic Music #103: Celtic Instrumentals — speakers: Jonny Dyer, Heather Alexander, Jimmy Keefe, Josie McDermott, Rootsy Folky, Marc Gunn
-- 2011-03-16 — St. Patrick's Day Music #102: In Search of a Rose, The Canny Brothers Band, Jasper Coal — speakers: Jasper Coal, Dun Aengus, Jonny Dyer, Marc Gunn, Jim Brannigan, Abby Green, John Byrne Band, Jack Montgomery
-- 2011-03-06 — Best Celtic Artists for St Patrick's Day #101: Heidi Talbot, Merry Wives of Windsor, Round the House — speakers: St Patrick, Heidi Talbot, Merry Wives, Locklin Road, Anne Roos, Anton Emery, Jonny Dyer, Holly Kirby
-- 2011-03-03 — Irish Celtic Music #100: Gillian Boucher, The Whiskey Boys, Brendan Monaghan — speakers: Gillian Boucher, Brendan Monaghan, Jerry McLean, Marc Gunn, Brobdingnagian Bards, Mary Come, Jeannie Waldie, Joe Cooley
-- 2011-02-12 — Irish & Celtic Music #99: Ceann, Mudmen, Mishaped Pearls, The Crossing — speakers: David Roon, Arlene Faith, Patrick Clifford, Sara Hillis, Kilmaine Saints, com Sponsor, Marc Gunn, Patrick Halloran
-- 2011-01-14 — Irish & Celtic Music #98: Three Mile Stone, Sligo Rags, The Nettles — speakers: Sligo Rags, Jim Brannigan, John Byrne Band, Ballymun Bootboys, Keith Hinchliffe, Marc Gunn, Martin Mulvihill
-- 2011-01-05 — Best Celtic Music of 2010 #97: Albannach, Gaelic Storm, Bow Triplets, Ennis — speakers: Gaelic Storm, Marc Gunn, Merry Wives, Anne Roos, Holly Kirby, Heidi Talbot, Anton Emery, Sligo Rags
-- 2010-12-21 — Celtic Christmas Music Special #96: Wicked Tinkers, Don Grieve, Altan, Angus Mohr — speakers: Don Grieve, Angus Mohr, Samantha Gillogly, Brobdingnagian Bards, Boston Blackthorne, Jennifer Grassman, Ron Cody, Oona McOuat
-- 2010-12-10 — Celtic Christmas #95: Tommy Sands, Eileen Ivers, Banshee in the Kitchen — speakers: Tommy Sands, Eileen Ivers, Wicked Tinkers, Locklin Road, Marc Gunn, Nancy Daily Green, Fred Gosbee
-- 2010-11-10 — Irish & Celtic Music #94: Damh the Bard, The Gleasons, Jenna Greene, Stonecircle — speakers: Jenna Greene, Brad Reid, Sligo Rags, Claire Roche, Brobdingnagian Bards, Angus Mohr, Myth Podshow St Patrick, Serious Kitchen
-- 2010-10-14 — Irish & Celtic Music Podcast #93 – Celtic Music Feature on Poitin's CD "Jiggery Pokery" — speakers: Marc Gunn Celtic, Kan Bale, Lída Lidunka, Marc Gunn
-- 2010-10-06 — Irish & Celtic Music Podcast #92 – Music for Halloween and Samhain — speakers: Heather Dale, Grey Aengus, Jasper Coal, Serious Kitchen, David Nigel Lloyd, John McLean Allan, Angus Mohr, Marc Gunn
-- 2010-09-29 — Jed Marum's Album "The Soul of a Wanderer" Special Feature #91 — speakers: Jed Marum, Drill Ye Tarriers, Marc Gunn
-- 2010-09-26 — Irish & Celtic Music Podcast #90: Rising of the Moon — speakers: Michael William Harrison, Jim Clarke Granny, Nancy Daily-Green, James Raynard, Ann Sannat, Jasper Coal, Locklin Road, St Patrick
-- 2010-09-13 — Irish & Celtic Music Podcast #89 — speakers: Jeff Ksiazek, Doug Folkins, Locklin Road, Jenna Greene, Avalon Spirit, Hugh Morrison, Marc Gunn, St Patrick
-- 2010-08-24 — Irish & Celtic Music Podcast #88 — speakers: Jimi McRae, Dublin O'Shea, Sheridan Band, Liz Madden, Seamus Stout, Anton Emery, Marc Gunn, Demand Marc Gunn
-- 2010-07-28 — Rights of Man #87 — speakers: Anton Emery, Seamus Stout, Don Grieve, Beer Belly, Marc Gunn, Gaelic Storm, Brendan O'Loughlin, Hugh Morrison
-- 2010-07-11 — Mad Jenny on Lamlash Bay #85 — speakers: Vicki Swan, Jonny Dyer, Gerard Smith, David Nigel Lloyd, Liam Griffin, Bill Grogan, Merry Wives, Peter Gavin
-- 2010-07-11 — Celtic Women Feature #86 — speakers: Gothard Sisters, Ciara Considine, Heather Dale, Maidens IV, Linda Connell Studley, Diane Linn, Anne Roos, Heidi Talbot
-- 2010-05-29 — IrishCelticMusic-084.mp3 #84: Irish Celtic Music of the Sea — speakers: Hank Cramer, Anne Roos, Rising Gael, Merry Wives, Holly Kirby, Yellow Jack, Bad Haggis, La Ta Tee Da
-- 2010-05-29 — IrishCelticMusic-082.mp3 — speakers: Dark Patrick, David Nigel Lloyd, Marc Gunn, Holly Kirby, Brendan O'Loughlin, Fainne Gael, Deep Dark
-- 2010-05-19 — IrishCelticMusic-083.mp3 #83 – Irish Music Feature on Happy Songs of Death — speakers: Marc Gunn, Johnny Jump, Til Dawn
-- 2010-04-12 — IrishCelticMusic-081.mp3 — speakers: Luke Daniels, Cady Finlayson Vita Tanga, Gothard Sisters, Daphne Quigley-Freund, Tom Bradfish, David Nigel Lloyd, Marc Gunn, Bridget O'Malley
-- 2010-03-17 — St Patrick's Day Celtic Music Celebration #80 — speakers: St Patrick, Ron Cody, Jacqui McCarthy, Jonny Dyer, Claire Roche, Ed Miller, Grey Aengus, Hank Cramer
-- 2010-03-16 — 17 Free Celtic Music Downloads for St. Patrick's Day #79 — speakers: Daphne Quigley-Freund, Tom Bradfish, Brad Reid, Marc Gunn, Luke Daniels, John McGaha, Anne Roos, St Patrick
-- 2010-02-08 — Irish & Celtic Music #78: MacTalla Mor, Kinfolk, Full Gael, Three Quarter Ale — speakers: Full Gael, Brobdingnagian Bards, Hugh Morrison, Anne Roos, Gan Fidel, Ali MacGregor, Gan Fidel Si Bheag, Bad Haggis
-- 2010-01-23 — Celtic Music Tribute to Robert Burns #77 — speakers: Robert Burns, Con Durham, Don Gabbert, Ed Miller, Icewagon Flu, Char Butler, Blarney Rebel Band, Marc Gunn Shows
-- 2010-01-08 — Best Irish Celtic Music of 2009 #76: Heidi-Jane, Kennedy's Kitchen, Skully, Siochain — speakers: String Band, Maidens IV, Ron Cody, Song Henge, Emerald Fire, Lavendar Blue, Vicki Swan, Jonny Dyer
-- 2010-01-08 — IrishCelticMusic-074.mp3 — speakers: Song Henge, Marc Gunn, Emerald Rose, Con Durham, Peggy Gordon, Paddy Keys, Se Si Hi, Dom Duff
-- 2010-01-08 — Celtic Christmas Special #75: Heather Dale, Liz Carroll, Tania Opland, Vince Conaway — speakers: Heather Dale, Liz Carroll, Tania Opland, Vince Conaway, Julia Lane, Seamus Kennedy, Maidens Iii, Kevin Behan
-- 2009-10-31 — Halloween and Samhain Irish Celtic Music Special #73 — speakers: Scott Boswell, Dom Duff, Rising Gael, Franco Bordoni, Vicki Swan, Johnny Dyer, Marc Gunn, Terry Griffith
-- 2009-10-05 — IrishCelticMusic-072.mp3 — speakers: Song Henge, Marc Gunn, Anne Rice, Dick Gossip, Beer Belly, Adam Alexander, Joe Travers, Leprechaun Water
-- 2009-09-03 — Irish & Celtic Music Podcast #71 — speakers: Cady Finlayson, Emerald Rose, Song Henge, Marc Gunn, Twitter Marc Gunn, Dick Gossip, Beer Belly, Sam Hall
-- 2009-08-30 — Irish & Celtic Music Podcast #70 — speakers: Jonny Dyer, Cady Finlayson, Marc Gunn, Nancy Daily-Green, Adam Alexander, Joe Travers, Heather Dale, Tullamore Brought
-- 2009-07-15 — Celtic Music Feature #69: Texas Scottish Festival — speakers: Hugh Morrison, Jed Marum, Marc Gunn, Ed Miller, Don Gabbert, com Brought, Song Henge, Marc Gunn Post
-- 2009-06-05 — Irish & Celtic Music Podcast #68 — speakers: Madd Paddy, Ceili Moss, Squall Brought, Song Henge, Marc Gunn, Laurel Thomsen, Ed Miller, Beth Patterson
+- 2022-01-01 — FAQ — speakers: Marc Gunn
+- 2022-01-01 — Promote Yourself — speakers: Promote Yourself Want, Celtic Music Ma, Marc Gunn
+- 2021-12-30 — Celtic Top 20 Best Celtic Songs & Tunes of 2021 #538 — speakers: Celtic Top, Best Celtic Songs, Amazing Celtic, Marc Gunn
+- 2021-12-23 — Happy Celtic Christmas 2021 #537 — speakers: Happy Celtic Christmas, Celtic Christmas, Marc Gunn
+- 2021-12-16 — Celtic Flashback from Patrons #536 — speakers: Marc Gunn
+- 2021-12-02 — Prayer for the Fallen #535 — speakers: Marc Gunn
+- 2021-11-25 — This is Home #534 — speakers: Jon Pilatzke, Marc Gunn
+- 2021-11-18 — Love at Dawn #533 — speakers: Marc Gunn
+- 2021-11-11 — Green Man #532 — speakers: Green Man, Marc Gunn
+- 2021-11-04 — Nightfall #531 — speakers: Marc Gunn
+- 2021-10-28 — Celtic Women Shine #530 — speakers: Marc Gunn
+- 2021-10-21 — New York Girls #529 — speakers: New York Girls, New York, Marc Gunn
+- 2021-10-13 — Wild Rover #528 — speakers: Marc Gunn
+- 2021-10-07 — All For Me Grog #527 — speakers: Marc Gunn
+- 2021-09-30 — Swallowtail Jig & Other Celtic Tunes #526 — speakers: Marc Gunn
+- 2021-09-23 — Fire in the Kitchen #525 — speakers: Adam Young, Marc Gunn
+- 2021-09-16 — Muirsheen Durkin #524 — speakers: Muirhseen Durkin, Jen Midkiff, Marc Gunn
+- 2021-09-09 — Blackbird #523 — speakers: Marc Gunn
+- 2021-08-26 — An Irish Airman #522 — speakers: Even Irish Airmen, Emerald Accent, Marc Gunn
+- 2021-08-19 — I Am of Ireland #521 — speakers: Gaelynn Lea, Adam Young, Ashley Davis, Marc Gunn
+- 2021-08-12 — Over the Moor #520 — speakers: Marc Gunn
+- 2021-08-05 — P Stands for Paddy #519 — speakers: Marc Gunn
+- 2021-07-29 — An Irish Cottage #518 — speakers: Steve Gibb, Marc Gunn
+- 2021-07-22 — Women of Summer #517 — speakers: Gothard Sisters, Marc Gunn
+- 2021-07-15 — Man of the House #516 — speakers: Marc Gunn
+- 2021-07-08 — Hats Off to Beer #515 — speakers: Hats Off, Marc Gunn
+- 2021-06-24 — Bold Fenian Men #514 — speakers: Bold Fenian, Liesel Wilson, Marc Gunn
+- 2021-06-17 — Life is Too Short #513 — speakers: Too Short, Marc Gunn
+- 2021-06-10 — Dragonfly #512 — speakers: Marc Gunn
+- 2021-06-03 — Blast of Wind #511 — speakers: Marc Gunn
+- 2021-05-27 — Rainy Days #510 — speakers: Marc Gunn
+- 2021-05-20 — Sleepytime Slow Aires #509 — speakers: Sleepytime Slow Aires, Marc Gunn
+- 2021-05-13 — The Irish Rover #508 — speakers: Marc Gunn
+- 2021-05-06 — Down By the Water #507 — speakers: Marc Gunn
+- 2021-04-29 — Green Ireland #506 — speakers: Fir Arda, Marc Gunn
+- 2021-04-22 — Instrumental Earth #505 — speakers: Instrumental Earth, Instrumental Celtic, Marc Gunn
+- 2021-04-15 — Wild Colonial Boy #504 — speakers: Jack Duggan, Marc Gunn
+- 2021-04-08 — Celtic Women #503 — speakers: Liesel Wilson, Amelia Hogan, Marc Gunn
+- 2021-04-03 — Easter Peace Bonus #502 — speakers: Mike Katz, Cady Finlayson, Marc Gunn
+- 2021-03-25 — My Johnny Was A Shoemaker #502 — speakers: Marc Gunn
+- 2021-03-17 — We're giving away 34 Celtic MP3s... — speakers: Celtic Music Pod, Marc Gunn
+- 2021-03-17 — Happy St. Patrick's Day #501 — speakers: St Patrick, Mike Katz, Jesse Ferguson, Marc Gunn
+- 2021-03-11 — St. Patrick's Day Mind-Blowing Tribute #500 — speakers: St Patrick, Marc Gunn
+- 2021-03-04 — St. Patrick's Day 17 #499 — speakers: Celtic Culture Awareness Month, Marc Gunn
+- 2021-02-25 — Thar Be Shanties #498 — speakers: Marc Gunn
+- 2021-02-18 — St. Patrick's March #497 — speakers: St Patrick, Marc Gunn
+- 2021-02-11 — Much Needed Catharsis #496 — speakers: Much Needed Catharsis, Marc Gunn
+- 2021-02-04 — The Cat Rambles #495 — speakers: Marc Gunn
+- 2021-01-28 — The Road to Anywhere #494 — speakers: Marc Gunn
+- 2021-01-21 — Grace and Kindness #493 — speakers: Marc Gunn
+- 2021-01-14 — I Will Always Love You #492 — speakers: Celtic Music Po, Marc Gunn
+- 2021-01-07 — Love for Planet Earth #491 — speakers: Planet Earth, Happy New Year, Do Over, Marc Gunn
+- 2020-12-31 — Celtic Music Top 20 of 2020 — speakers: Celtic Music Top, Best Celtic Music Songs, Marc Gunn
+- 2020-12-17 — Celtic Christmas Women #489 — speakers: Celtic Christmas Women, Celtic Christmas, Marc Gunn
+- 2020-12-10 — Patron Requests #488 — speakers: Patron Requests, Marc Gunn
+- 2020-12-03 — Farewell to Whiskey #487 — speakers: Celtic Music, Marc Gunn
+- 2020-11-26 — Thanks for Your Kindness #486 — speakers: Marc Gunn
+- 2020-11-19 — Celtic Rock #485 — speakers: Marc Gunn
+- 2020-11-12 — Wild Atlantic #484 — speakers: Wild Atlantic, Marc Gunn
+- 2020-11-05 — Poor But Happy #483 — speakers: Marc Gunn
+- 2020-10-29 — Halloween #482 — speakers: Celtic Music, Marc Gunn
+- 2020-10-22 — Lost Passport #481 — speakers: Marc Gunn
+- 2020-10-15 — Celtic Fusion #480 — speakers: Marc Gunn
+- 2020-10-08 — Fairy Tale #479 — speakers: Gothard Sisters, Keyreel Raskole, Marc Gunn
+- 2020-10-01 — Celtic Rock BONUS — speakers: Celtic Rock, Marc Gunn
+- 2020-09-24 — All Among the Barley #478 — speakers: Celtic music, Marc Gunn
+- 2020-09-17 — Halfway to Celtic Women of St. Patrick's Day #477 — speakers: St Patrick, Marc Gunn
+- 2020-09-10 — Lady of the Lake #476 — speakers: Beer Belly, Dublin Harpe, Marc Gunn
+- 2020-09-03 — Sunflower #475 — speakers: KeyReel Raskolenko, David Pedrick, Marc Gunn
+- 2020-08-27 — Give Love #474 — speakers: Marc Gunn
+- 2020-08-20 — The Forest Magician #473 — speakers: John Doyle, Anna Bosnick, Marc Gunn
+- 2020-08-13 — Her Mantle So Green #472 — speakers: Cady Finlayson, Marc Gunn
+- 2020-08-06 — Bean Phaidin #471 — speakers: Kyle Carey, Marc Gunn
+- 2020-07-23 — Celtic Running Music #470 — speakers: String Theory, Marc Gunn
+- 2020-07-16 — St Stephen's Green #469 — speakers: St Stephen, Marc Gunn
+- 2020-07-09 — Everything's Alright #468 — speakers: Alexander James Adams, Marc Gunn
+- 2020-07-02 — Highland Life #467 — speakers: Fir Arda, Marc Gunn
+- 2020-06-25 — Step It Out Mary #466 — speakers: Marc Gunn
+- 2020-06-18 — Maid on the Shore #465 — speakers: Marc Gunn
+- 2020-06-11 — Toss the Feathers #464 — speakers: Marc Gunn
+- 2020-06-04 — Pride Month with Celtic Music #463 — speakers: Marc Gunn
+- 2020-05-28 — Celtic Women Singers #462 — speakers: Lissa Schn, Marc Gunn
+- 2020-05-21 — Merry Blacksmith #461 — speakers: Merry Blacksmith, Marc Gunn
+- 2020-05-14 — Wolf in Sheep's Clothing #460 — speakers: Marc Gunn
+- 2020-05-07 — Paddy's Lamentation #459 — speakers: Marc Gunn
+- 2020-04-30 — Irish & Celtic Music Patronage #458 — speakers: Celtic Music Patronage, Marc Gunn
+- 2020-04-23 — Instrumental Celtic Tunes, 2-Hours #457 — speakers: Instrumental Celtic Tunes, Marc Gunn
+- 2020-04-16 — Plant A Celtic Tree #456 — speakers: Celtic Tree, Earth Day, Marc Gunn
+- 2020-04-09 — Pandemic Patience #455 — speakers: Marc Gunn
+- 2020-04-02 — Tartan Day #454 — speakers: Scottish songs, Celtic Music Pod, Marc Gunn
+- 2020-03-26 — Respect Like A Celt #453 — speakers: Respect Like, Marc Gunn
+- 2020-03-19 — Post-St. Patrick's Day, Pandemic Blues #452 — speakers: Covid Blues, Marc Gunn
+- 2020-03-12 — St Patrick's Day #451 — speakers: St Patrick, Marc Gunn
+- 2020-03-05 — St. Patrick's Day 17 #450 — speakers: St Patrick, Marc Gunn
+- 2020-02-27 — Celtic Women of St. Patrick's Day #449 — speakers: St Patrick, Marc Gunn
+- 2020-02-20 — Edge of the World #448 — speakers: Marc Gunn
+- 2020-02-13 — Julia Delaney #447 — speakers: Julia Delaney, Marc Gunn
+- 2020-02-06 — Carolan's Draught #446 — speakers: Marc Gunn
+- 2020-01-30 — Celtic Italy #445 — speakers: Celtic Italy, Marc Gunn
+- 2020-01-23 — Jaunting Car #444 — speakers: Bonnie Rideout, Marc Gunn
+- 2020-01-16 — Celtic Tree of Life #443 — speakers: Marc Gunn
+- 2020-01-09 — Irish Kisses in Twenty Twenty #442 — speakers: Warbelow Rang, Marc Gunn
+- 2019-12-26 — Celtic Top 20 for 2019 #441 — speakers: Celtic Top, Marc Gunn
+- 2019-12-19 — Celtic Christmas Cheer #440 — speakers: Celtic Christmas Cheer, Merry Christmas, Celtic Christmas, Marc Gunn
+- 2019-12-12 — I Will Stand With Celtic Women #439 — speakers: Marc Gunn
+- 2019-12-05 — How to Vote in Celtic Top 20 #438 — speakers: Celtic Top, Celtic Music Pod, Marc Gunn
+- 2019-11-28 — Get Jiggy #437 — speakers: Deanna Smith, Marc Gunn
+- 2019-11-21 — Rise Up #436 — speakers: Wendy MacIsaac, Marc Gunn
+- 2019-11-14 — Slea Head #435 — speakers: Climb Slea Head, Andy Law, Marc Gunn
+- 2019-11-07 — Going Home to Celtic Music #434 — speakers: Andy Law, Dustin Cooper, Seaumas Gagne, Marc Gunn
+- 2019-10-31 — Celtic Music for Halloween #433 — speakers: Poisoned Dwarf, Dylan Wal, Marc Gunn
+- 2019-10-24 — What Are You Doing While Listening to Celtic Music #432 — speakers: While Listening, Celtic Music, Marc Gunn
+- 2019-10-17 — Pour Another For Your Brother #431 — speakers: Marc Gunn
+- 2019-10-10 — Why "Celtic Music?" #430 — speakers: Celtic Music, Marc Gunn
+- 2019-10-03 — Amazing Celtic Women #429 — speakers: Beth Patterson, Cady Finlayson, Marc Gunn
+- 2019-09-26 — Highland Laddies #428 — speakers: Marc Gunn
+- 2019-09-19 — Raggle Taggle Gypsy #427 — speakers: Raggle Taggle, Marc Gunn
+- 2019-09-12 — Colors of Irish Music #426 — speakers: Marc Gunn
+- 2019-09-05 — Road to Lisdoonvarna #425 — speakers: Brobdingnagian Ba, Marc Gunn
+- 2019-08-29 — 20 Rockin' Irish Drinking Songs #424 — speakers: Irish Drinking Songs, Marc Gunn
+- 2019-08-22 — Make A Change in the World #423 — speakers: Bonnie Rideout, Colin Farrell, Marc Gunn
+- 2019-08-15 — Celtic Soul #422 — speakers: Marc Gunn
+- 2019-08-08 — The Long Drive #421 — speakers: Muireann Nic Amhlaoibh, Marc Gunn
+- 2019-08-01 — The Jackdaws #420 — speakers: Andrew Meade, Marc Gunn
+- 2019-07-25 — Celtic Invasion Vacations #419 — speakers: Celtic Invasion Vacations, Marc Gunn
+- 2019-07-18 — Diversity of Celtic Music #418 — speakers: Celtic Music, Irish Celtic, Marc Gunn
+- 2019-07-11 — Canadian Celtic with Jesse Ferguson #417 — speakers: Jesse Ferguson, Marc Gunn
+- 2019-07-04 — Women of Celtic Music #416 — speakers: Lady Susan, Marc Gunn
+- 2019-06-27 — Celtic Summer Recess #415 — speakers: Celtic Summer Recess, Gone Moll, Marc Gunn
+- 2019-06-20 — Sea Shanties from Renaissance Festivals #414 — speakers: Sea Shanties, Renaissance Festivals, Marc Gunn
+- 2019-06-13 — Celtic Harp with Anne Roos #413 — speakers: Harpist Anne Roos, Marc Gunn
+- 2019-06-06 — Galway Shawl #412 — speakers: Galway Shawl, Marc Gunn
+- 2019-05-30 — Humors of Whiskey #411 — speakers: Marc Gunn
+- 2019-05-23 — Celtic Music Journal 2019 — speakers: Steve Behrens, Marc Gunn
+- 2019-05-16 — The Gothard Sisters #409 — speakers: Gothard Sisters, Marc Gunn
+- 2019-05-09 — Rambling Irishman #408 — speakers: Marc Gunn
+- 2019-04-25 — Texas Scots #407 — speakers: Texas Scots, Texas Scottish Festival, Marc Gunn
+- 2019-04-18 — Bagpipe Ferret #406 — speakers: Bagpipe Ferret, Marc Gunn
+- 2019-04-11 — Fight Like A Celtic Woman #405 — speakers: Marc Gunn
+- 2019-04-04 — Walking Toward the Sun #404 — speakers: net Flook, Marc Gunn
+- 2019-03-29 — Silly Celtic Songs #403 — speakers: Gaelic Fur, Marc Gunn
+- 2019-03-21 — Whiskey in the Jar #402 — speakers: Marc Gunn
+- 2019-03-14 — St Paddy's Day's 17 Free Celtic MP3s #401 — speakers: St Patrick, Marc Gunn
+- 2019-03-07 — St Patrick's Day Playlist 2019, 3 Hours #400 — speakers: St Patrick, Marc Gunn
+- 2019-02-28 — St Patrick's Day Whiskey #399 — speakers: St Patrick, Marc Gunn
+- 2019-02-21 — Birds and Deep Blue Sky of Ireland #398 — speakers: Deep Blue Sky, Marc Gunn
+- 2019-02-14 — Sporting Paddy Reel Celtic Music #397 — speakers: Sporting Paddy Reel Celtic, Marc Gunn
+- 2019-02-07 — Wounded Ireland #396 — speakers: Celtic Music Po, Marc Gunn
+- 2019-01-31 — Irish Fire #395 — speakers: Irish Fire, Marc Gunn
+- 2019-01-24 — South Australia #394 — speakers: South Australia, New International Irish, Great Britain, Marc Gunn
+- 2019-01-17 — Celtic Music Instrumental Study Aid #393 — speakers: Marc Gunn
+- 2019-01-10 — Calm Before the Storm #392 — speakers: Warbelow Range, Marc Gunn
+- 2019-01-03 — Year of the Irish & Celtic Women #391 — speakers: Marc Gunn
+- 2018-12-27 — Celtic Top 20 Irish & Celtic Music Bands of 2018 #390 — speakers: Marc Gunn
+- 2018-12-20 — Irish & Celtic Christmas Music #389 — speakers: Celtic Christmas Music, Celtic Christmas, Marc Gunn
+- 2018-12-13 — Warm Up with Great Irish & Celtic Music #388 — speakers: Great Irish, Marc Gunn
+- 2018-12-06 — Ned of the Hill #387 — speakers: Marc Gunn
+- 2018-11-29 — Loch Lomond #386 — speakers: Loch Lomond, Ed Miller, Marc Gunn
+- 2018-11-22 — Thanksgiving Castle #385 — speakers: Enda Seery, Ed Miller, Marc Gunn
+- 2018-11-15 — Pandora's Box #384 — speakers: Warbelow Range, Marc Gunn
+- 2018-11-08 — Ghost Stories #383 — speakers: Marc Gunn
+- 2018-11-01 — Charmas are Stark Raving Celtic #382 — speakers: Marc Gunn
+- 2018-10-25 — Celtic Halloween #381 — speakers: Merry Wives, Marc Gunn
+- 2018-10-18 — Lady Fair #380 — speakers: Celia Ramsay, Marc Gunn
+- 2018-10-11 — Women of Irish & Celtic Music #379 — speakers: Liz Carroll, Marc Gunn
+- 2018-10-04 — Paddy Rock Renegade #378 — speakers: Marc Gunn
+- 2018-09-27 — Big Trip to Ireland #377 — speakers: Big Trip, Marc Gunn
+- 2018-09-20 — Lakes of Pontchartrain #376 — speakers: Marc Gunn
+- 2018-09-13 — Scarborough Fair #375 — speakers: Warbelow Range, Enda Seery, Marc Gunn
+- 2018-09-06 — Zero Gravity Celtic #374 — speakers: Marc Gunn
+- 2018-08-30 — Rocky Road to Dublin #373 — speakers: Rocky Road, Becky Taylor, Marc Gunn
+- 2018-08-23 — Fairy Dance #372 — speakers: Dylan Foley, Marc Gunn
+- 2018-08-16 — Instrumental Celtic Music for Studying #371 — speakers: Marc Gunn
+- 2018-08-09 — Back to School #370 — speakers: Ed Miller, Na Rosai, Marc Gunn
+- 2018-08-02 — Beautiful Affair #369 — speakers: Tom Eur, Marc Gunn
+- 2018-07-26 — The Well Below the Valley #368 — speakers: Anthea Lawrence, Bonnie Rideout, Marc Gunn
+- 2018-07-19 — No Irish Need Apply #367 — speakers: No Irish Need Apply, Marc Gunn
+- 2018-07-12 — Celtic Punk "Smoking Gunn Part Deux" with Paddy Rock Podcast #366 — speakers: Enjoy Cel, Marc Gunn
+- 2018-07-05 — 10 Years of Celtic Music with 67 Music #365 — speakers: Celtic Music, Marc Gunn
+- 2018-06-28 — Stories Behind Irish Music with Shannon Heaton #364 — speakers: Marc Gunn
+- 2018-06-21 — Midsummer in Ireland with John WIlmott #363 — speakers: John WIlmott, Marc Gunn
+- 2018-06-14 — As I Roved Out #362 — speakers: Sarah Copus, Marc Gunn
+- 2018-06-07 — Summer Road Trip #361 — speakers: Andrew Finn Magill, Susana Seivane, Marc Gunn
+- 2018-05-24 — Celtic Summer Festivals #360 — speakers: Celtic mus, Marc Gunn
+- 2018-05-17 — Jed Marum Tribute #359 — speakers: Jed Marum, Marc Gunn
+- 2018-05-10 — Celtic Tunes by Celtic Women for Mother's Day #358 — speakers: Celtic Tunes, Celtic Women, Marc Gunn
+- 2018-05-03 — Rainy Day in the Celtic Nations #357 — speakers: Na Rosai, Marc Gunn
+- 2018-04-26 — Arbor Day #356 — speakers: Arbor Day, Marc Gunn
+- 2018-04-19 — Up Among the Heather #355 — speakers: Celtic music, Marc Gunn
+- 2018-04-12 — Mountain Dew #354 — speakers: Marc Gunn
+- 2018-04-05 — Tartan Day in Kilts #353 — speakers: Tartan Day, Scottish Independence Day, Marc Gunn
+- 2018-03-29 — Easter Sunday #352 — speakers: Jonathan Milton, Marc Gunn
+- 2018-03-22 — New Celtic Music #351 — speakers: St Patrick, Na Rosai, Jimi McRae, Marc Gunn
+- 2018-03-15 — St Patrick's Day Music Party — speakers: St Patrick, Marc Gunn
+- 2018-03-08 — Celtic Music Top 20 for St Patrick's Day #349 — speakers: St Patrick, Marc Gunn
+- 2018-03-01 — St. Patrick's Day Warm Up #348 — speakers: St Patrick, Marc Gunn
+- 2018-02-22 — Instrumental Celtic Music Study Aid #347 — speakers: Instrumental Celtic Music Study, Marc Gunn
+- 2018-02-15 — Streets of Dublin #346 — speakers: Andrew Finn Ma, Marc Gunn
+- 2018-02-08 — Celtic Love Songs #345 — speakers: Jed Marum, Marc Gunn
+- 2018-02-01 — The Jolly Ploughboys #344 — speakers: Spoil th, Marc Gunn
+- 2018-01-25 — 20 Irish Drinking Songs for 2018 #343 — speakers: Marc Gunn
+- 2018-01-18 — Joyous #342 — speakers: Ryan MacNeil, Bellow Bridg, Marc Gunn
+- 2018-01-11 — Corpus Christi Irish Session #341 — speakers: Marc Gunn
+- 2018-01-04 — 2018 Kicks Off with Celtic Music #340 — speakers: Celtic music Na Skylark, Purcell's Polyphonic Party, Marc Gunn
+- 2017-12-28 — Most-Popular Celtic Bands of 2017 #339 — speakers: Marc Gunn
+- 2017-12-21 — Joy On Your Celtic Christmas Day #338 — speakers: Jim Sharkey, Marc Gunn
+- 2017-12-14 — Working Hard #337 — speakers: Working Hard, Marc Gunn
+- 2017-12-07 — Celtic Rock... For 2-Hours — speakers: Marc Gunn
+- 2017-11-23 — Giving Thanks! #335 — speakers: Celtic music fro, Marc Gunn
+- 2017-11-16 — Getting Started With Celtic Music #334 — speakers: Celtic music, Marc Gunn
+- 2017-11-09 — Strayaway Child #333 — speakers: Strayaway Child, Marc Gunn
+- 2017-11-02 — Weight of the World #332 — speakers: Cara Wildman, Marc Gunn
+- 2017-10-26 — The Thin Veil of Halloween #331 — speakers: Thin Veil, Marc Gunn
+- 2017-10-19 — Skye Boat Song #330 — speakers: Skye Boat Song, Marc Gunn
+- 2017-10-12 — Celtic Truth #329 — speakers: Bellow Bri, Marc Gunn
+- 2017-10-05 — Celtic Music Wins Podcast Awards #328 — speakers: Best Podsafe Music, Marc Gunn
+- 2017-09-28 — Irish Jig Heroes #327 — speakers: Irish Jig Heroes, Jim Sharkey, Marc Gunn
+- 2017-09-21 — Celtic Favorites from the Banks of Loch Lomond #326 — speakers: Stephen Bernhardt, Marc Gunn
+- 2017-09-14 — Halfway to St. Patrick's Day Celtic Music #325 — speakers: Marc Gunn
+- 2017-09-07 — Celtic in Connemara #324 — speakers: Eilis Crean, Marc Gunn
+- 2017-08-31 — End of Summer Celtic Jams #323 — speakers: Marc Gunn
+- 2017-08-17 — Renaissance Festival Celtic Music #322 — speakers: Marc Gunn
+- 2017-08-10 — Brown Ale & Celtic Music #321 — speakers: Brown Ale, Celtic Music, Chrissy Cro, Marc Gunn
+- 2017-08-03 — New Celtic Music & Temple Records Feature #320 — speakers: Alasdair White, Marc Gunn
+- 2017-07-27 — Rolling Home #319 — speakers: Marc Gunn
+- 2017-07-20 — New Celtic Music of Tomorrow #318 — speakers: Marc Gunn
+- 2017-07-13 — 2-Hours of Scottish Music #317 — speakers: Marc Gunn
+- 2017-07-06 — Star of the County Down #316 — speakers: Randy Lee Gosa, Steve Hawson, Marc Gunn
+- 2017-06-29 — Summer Nights #315 — speakers: Jesse Ferguson, Marc Gunn
+- 2017-06-22 — Irish Music Stories with Shannon Heaton #314 — speakers: Marc Gunn
+- 2017-06-15 — Celtic Punk #313 — speakers: Grinning Beggar, Marc Gunn
+- 2017-06-08 — Celtic Music Journal #312 — speakers: Marc Gunn
+- 2017-06-01 — Off to Carnac, Brittany #311 — speakers: Karan Casey, Marc Gunn
+- 2017-05-25 — Kilts and Corsets #310 — speakers: Marc Gunn
+- 2017-05-18 — Celtic Warrior's Salute #309 — speakers: Brendan Monaghan, Rambling Sai, Marc Gunn
+- 2017-05-11 — Irish Women for Mother's Day #308 — speakers: Marc Gunn
+- 2017-05-04 — May the Fourth Be With You #307 — speakers: Marc Gunn
+- 2017-04-27 — Texas Scottish Festival & Highland Games 2017 #306 — speakers: Texas Scottish Festival, Highland Games, Texas Scottish Fest, Marc Gunn
+- 2017-04-20 — Earth Day Celebration #305 — speakers: Hearthfire Duo, Jed Marum, Marc Gunn
+- 2017-04-13 — Happy Thoughts #304 — speakers: Happy Thoughts, Old Blind Dogs, Steel Cl, Marc Gunn
+- 2017-04-06 — Laugh Along, Funny Celtic Songs #303 — speakers: Ed Miller, Sligo Rags, Marc Gunn
+- 2017-03-30 — Fortunate #302 — speakers: Marc Gunn
+- 2017-03-23 — Travelers #301 — speakers: St Patrick, Marc Gunn
+- 2017-03-16 — 2-Hours of St. Patrick's Day Music #300 — speakers: Day Music, Happy St, Marc Gunn
+- 2017-03-09 — St. Patrick's Day Celtic Top 20 #299 — speakers: Day Celtic Top, Best Celtic Music, Marc Gunn
+- 2017-03-02 — 17 for St Patrick's Day #298 — speakers: St Patrick, Marc Gunn
+- 2017-02-23 — San Patricio Fantasy #297 — speakers: Garry O'Meara, Marc Gunn
+- 2017-02-16 — 2-Hour Best Celtic Music Retrospective #296 — speakers: Marc Gunn
+- 2017-02-09 — In the Name of Love #295 — speakers: Marc Gunn
+- 2017-02-02 — Wild Mountain Thyme #294 — speakers: Dublin Harpers, Marc Gunn
+- 2017-01-26 — Together with Celtic Music #293 — speakers: Blarney Castle, Ed Miller, Marc Gunn
+- 2017-01-19 — Scottish Music #292 — speakers: Scottish Music, Awesome Scottish, Marc Gunn
+- 2017-01-12 — Thru Your Irish Eyes #291 — speakers: Andrew Finn Magill, Myddle Earth, Marc Gunn
+- 2017-01-05 — Instrumental Celtic Music #290 — speakers: Instrumental Celtic Music, Instrumental Celtic, Enjoy Celtic, Marc Gunn
+- 2016-12-29 — Auld Lang Syne #289 — speakers: Auld Lang Syne, Marc Gunn
+- 2016-12-22 — Celtic Peace Maker #288 — speakers: Marc Gunn
+- 2016-12-15 — Irish & Celtic Christmas #287 — speakers: Gothard Sisters, Marc Gunn
+- 2016-12-01 — December Celtic Music #286 — speakers: December Celtic Music, Marc Gunn
+- 2016-11-24 — Thanksgiving with Celtic Music #285 — speakers: Marc Gunn
+- 2016-11-17 — 2-Hours of On Fire Celtic Music #284 — speakers: Marc Gunn
+- 2016-11-10 — Great Celtic Music Hiding at Renaissance Festivals #283 — speakers: Great Celtic Music Hiding, Renaissance Festivals, Marc Gunn
+- 2016-11-03 — Election Day Reprieve #282 — speakers: Election Day Reprieve, Marc Gunn
+- 2016-10-27 — Celtic Halloween #281 — speakers: Halloween special, Marc Gunn
+- 2016-10-20 — Work and Dance #280 — speakers: Marc Gunn
+- 2016-10-13 — Cead Mile Failte #279 — speakers: Marc Gunn
+- 2016-10-06 — Women of Celtic Music #278 Bonus — speakers: Marc Gunn
+- 2016-10-06 — Women of Celtic Music #278 — speakers: Marc Gunn
+- 2016-09-29 — Celtic Workout Special #277 — speakers: Celtic Workout Special, Marc Gunn
+- 2016-09-22 — The Highlands #276 — speakers: Marc Gunn
+- 2016-09-15 — Halfway to St. Patrick's Day #275 — speakers: Marc Gunn
+- 2016-09-01 — Stone Soup #274 — speakers: Athena Tergis, Marc Gunn
+- 2016-08-25 — Indie Celtic Musicians #273 — speakers: Celtic Music Podca, Marc Gunn
+- 2016-08-18 — Gaelic Girls of Dublin Town #272 — speakers: Gaelic Girls, Marc Gunn
+- 2016-08-11 — The Long Road to Dundee #271 — speakers: Marc Gunn
+- 2016-08-05 — Pwca Rambles in Spring #270 — speakers: Pwca Rambles, Marc Gunn
+- 2016-07-28 — Celtic Dedication #269 — speakers: Michael Liebmann, Marc Gunn
+- 2016-07-21 — Wandering Aengus #268 — speakers: David Hyams, Marc Gunn
+- 2016-07-14 — Jolly Irish Brogue #267 — speakers: Marc Gunn
+- 2016-07-07 — Crazy Summer Dance #266 — speakers: Marc Gunn
+- 2016-06-30 — Raised on Black and Tans #265 — speakers: Celtic Invasion, Marc Gunn
+- 2016-06-16 — Celtic Music from the Cornish Kitchen #264 — speakers: Celtic Music, Cornish Kitchen, Marc Gunn
+- 2016-06-09 — Will Castles Stop the Roving Celt? #263 — speakers: Will Castles Stop, Marc Gunn
+- 2016-06-02 — Golden Glove of Celtic Music #262 — speakers: Golden Glove, Celtic Music, Poor Man, Marc Gunn
+- 2016-05-26 — Celtic Beach for Memorial Day #261 — speakers: Marc Gunn
+- 2016-05-19 — Wild Geese in a Summer Storm #260 — speakers: Marc Gunn
+- 2016-05-12 — Celtic Music to the Rescue #259 — speakers: Celtic Music, Marc Gunn
+- 2016-05-05 — Chilling By the Celtic Campfire #258 — speakers: Marc Gunn
+- 2016-04-28 — Celtic Music Hero's Return #257 — speakers: Marc Gunn
+- 2016-04-21 — Commitment to Celtic Music #256 — speakers: Celtic Music, Celtic Feedback, Marc Gunn
+- 2016-04-14 — Celtic Music for a Cloudy Day #255 — speakers: Celtic Music, Cloudy Day, Marc Gunn
+- 2016-04-07 — 2-Hours of Celtic Canadian Music #254 — speakers: Celtic Canadian Music, Marc Gunn
+- 2016-03-31 — Totally Trad Irish Music... April Fools! #253 — speakers: April Fools, Marc Gunn
+- 2016-03-24 — Post-St. Patrick's Day Blues #252 — speakers: St Patrick, Marc Gunn
+- 2016-03-16 — St Patrick's Day Top 20 Celtic Bands #251 — speakers: St Patrick, Marc Gunn
+- 2016-03-14 — St Patrick's Day Wish with Poitin's Czech Celtic Music #250 — speakers: St Patrick, Marc Gunn
+- 2016-03-10 — 17 for St Patrick's Day Music Playlist #249 — speakers: St Patrick, Marc Gunn
+- 2016-03-07 — St Patrick's Day Songs #248 — speakers: St Patrick, Marc Gunn
+- 2016-03-03 — St Patrick's Day Playlist for Irish American Heritage Month #247 — speakers: St Patrick, Marc Gunn
+- 2016-02-25 — Passing the Train to St. Patrick's Day #246 — speakers: Irish Music Month, Marc Gunn
+- 2016-02-18 — Wind & Whiskey to Shake the Barley #245 — speakers: Marc Gunn
+- 2016-02-11 — Celtic Love Songs & Tunes #244 — speakers: tunes whi, Marc Gunn
+- 2016-02-04 — Whiskey Kelpie Reels #243 — speakers: Whiskey Kelpie Reels, Marc Gunn
+- 2016-01-28 — King of the Fairies #242 — speakers: Marc Gunn
+- 2016-01-21 — Top 20 Best Celtic Music of 2015 on #241 — speakers: Best Celtic Music, Best Celtic, Marc Gunn
+- 2016-01-14 — Irish Music on Ellis Island #240 — speakers: Amelia Hogan, Marc Gunn
+- 2016-01-07 — Celtic Harp Music Special for 2-Hours #239 — speakers: Celtic Harp Music Special, Marc Gunn
+- 2015-12-31 — Funny Irish & Celtic Songs #238 — speakers: funny Irish, Marc Gunn
+- 2015-12-24 — Celtic Music for Christmas Eve #237 — speakers: Nollaig Shona, Marc Gunn
+- 2015-12-17 — Celtic Christmas Music Special for 2015 #236 — speakers: more awe, Marc Gunn
+- 2015-12-04 — Celtic Music to Kick Off December #235 — speakers: Kick Off, Marc Gunn
+- 2015-11-26 — Safe Travels Home with Irish Celtic Music #234 — speakers: Marc Gunn
+- 2015-11-19 — Workout with Celtic Music #233 — speakers: Marc Gunn
+- 2015-11-12 — Relaxing Celtic Music #232 — speakers: Relaxing Celtic Music, Marc Gunn
+- 2015-11-05 — Irish & Celtic Music #231 — speakers: Celtic Music, Marc Gunn
+- 2015-10-29 — Celtic Halloween and Samhain #230 — speakers: Celtic Halloween, Marc Gunn
+- 2015-10-22 — 2-Hours of Celtic Fiddle Music #229 — speakers: Celtic Fiddle Music, Marc Gunn
+- 2015-10-15 — The Sun Sets On My Love #228 — speakers: Marc Gunn
+- 2015-10-12 — Celtic Music Before the War #227 — speakers: Celtic Music Before, Sprag Session, Celtic Tri, Marc Gunn
+- 2015-10-01 — Less Talk, More Celtic Music #226 — speakers: Marc Gunn
+- 2015-09-24 — Irish Music Farewell to Erin #225 — speakers: Marc Gunn
+- 2015-09-17 — Halfway to St. Patrick's Day #224 — speakers: Marc Gunn
+- 2015-09-10 — #223: Traditional Music with Celtic Roots — speakers: Celtic Roots I'm back, Marc Gunn
+- 2015-08-27 — Burly Bagpipe Music, 2-Hours! #222 — speakers: Burly Bagpipe Music, Marc Gunn
+- 2015-08-20 — #221: The White Hare — speakers: Celtic son, Marc Gunn
+- 2015-08-13 — #220: Lads of Laois — speakers: Marc Gunn
+- 2015-08-06 — #219: Siren's Song of the Selkie — speakers: Marc Gunn
+- 2015-07-30 — #218: Voicemail from Best Celtic Music Retrospective — speakers: Marc Gunn
+- 2015-07-23 — #217: 10 Years of Great Irish & Celtic Music, a Retrospective — speakers: Great Irish, Celtic Music, Marc Gunn
+- 2015-07-16 — #216: Sleepy Maggie — speakers: Marc Gunn
+- 2015-07-09 — #215: Irish Whiskey on Sunday — speakers: Irish Whiskey, Sunday Can, Marc Gunn
+- 2015-07-02 — #214: Lucky Carrickfergus — speakers: Marc Gunn
+- 2015-06-25 — Uilleann Pipes on the Giant's Causeway #213 — speakers: Uilleann Pipes, Marc Gunn
+- 2015-06-18 — #212: Back from Donegal — speakers: Celtic Invasion Vacation, Marc Gunn
+- 2015-06-01 — Irish Music Postcard, Back Soon! #211 — speakers: Irish Music Postcard, Back Soon, Marc Gunn
+- 2015-05-28 — #210: TGICT (Thank God It's Celtic Thursday) — speakers: Celtic Thursday, Next Friday, Celtic Invasion, Marc Gunn
+- 2015-05-21 — #209: Memorial Day — speakers: Memorial Day Today, Marc Gunn
+- 2015-05-13 — #208: Your Feet Will Take You — speakers: Marc Gunn
+- 2015-05-07 — Mother's Day Celtic Music #207 — speakers: mom's every, Marc Gunn
+- 2015-04-30 — #206: Galicia — speakers: Evo Terra, Marc Gunn
+- 2015-04-23 — #205: Earth Day — speakers: Celtic musi, Marc Gunn
+- 2015-04-15 — 3-Hours of Instrumental Celtic Music #204 — speakers: Instrumental Celtic Music, Marc Gunn
+- 2015-04-09 — #203: Work of the Weavers — speakers: Marc Gunn
+- 2015-04-02 — #202: Funny Irish Songs, Scottish Songs, and Parodies — speakers: Funny Irish Songs, Scottish Songs, Parodies Get, Funny Irish, Marc Gunn
+- 2015-03-26 — The Four Redheads of Celtic Music #201 — speakers: St Patrick, Marc Gunn
+- 2015-03-24 — St. Patrick's Day Music Playlist 2015 #200 — speakers: Day Music Playlist, Marc Gunn
+- 2015-03-12 — Best Celtic Music of 2014 #199 — speakers: Best Celtic Music, Marc Gunn
+- 2015-03-03 — St. Patrick's Day Songs for Kids #198 — speakers: Day Songs, Marc Gunn
+- 2015-02-26 — Irish Drinking Songs Top 20 #197 — speakers: Irish Drinking Songs Top, Marc Gunn
+- 2015-02-18 — 2-Hours of Traditional Celtic Music #196 — speakers: Traditional Celtic Music, Marc Gunn
+- 2015-02-11 — Celtic Valentine's Day #195 — speakers: Marc Gunn
+- 2015-02-03 — Celtic Craic Medley #194 — speakers: Craic Medley, Marc Gunn
+- 2015-01-28 — Best Celtic Dinner Music in Dublin #193 — speakers: Best Celtic Dinner Music, Marc Gunn
+- 2015-01-21 — Burns Day Scottish Music #192 — speakers: Robert Burns Day, Marc Gunn
+- 2015-01-14 — Irish & Celtic Music Kid on the Mountain #191 — speakers: Celtic Music Kid, Irish Celtic, Black Market Haggis, Marc Gunn
+- 2015-01-07 — Faerie Rings #190 — speakers: Arlene Faith, Patsy O'Brien, Marc Gunn
+- 2014-12-31 — Have a Happy New Year with Celtic Music #189 — speakers: Celtic music, Marc Gunn
+- 2014-12-24 — Peaceful Celtic Christmas #188 — speakers: Peaceful Celtic Christmas, Celtic Christmas, Silent Night, Marc Gunn
+- 2014-12-17 — Celtic Christmas Music #187 — speakers: Celtic Christmas Music, Celtic Christmas, Celtic Chri, Marc Gunn
+- 2014-12-09 — Celtic Music from Renaissance Festivals #186 — speakers: Celtic Music, Renaissance Festivals, Irish Celtic, Marc Gunn
+- 2014-12-03 — 2 Hours of Celtic Rock Music! #185 — speakers: Celtic Rock Music, Celtic Rock, Marc Gunn
+- 2014-11-26 — Celtic Music for Thanksgiving #184 — speakers: Emerald Rose, Marc Gunn
+- 2014-11-19 — Music Wales #183 — speakers: Welsh Bard, Gwilym Mor, Marc Gunn
+- 2014-11-12 — The Mermaid's Crown of Celts #182 — speakers: Irish Celtic, Poor Man, Smithfield Fai, Marc Gunn
+- 2014-11-04 — 2-Hours of Bagpipe Music #181 — speakers: Mark Saul, Icewagon Flu, Marc Gunn
+- 2014-10-29 — Celtic Halloween Special #180 — speakers: John Williams, Marc Gunn
+- 2014-10-27 — Celtic Castles, Reels and New Celtic CDs #179 — speakers: Steve Hawson, Marc Gunn
+- 2014-10-15 — Roisin ag an Doilin - Celtic Music #178: — speakers: Celtic Music, Irish Celtic, Emerald Accents, Marc Gunn
+- 2014-10-08 — Celtic Swan in the the Misty Mountains #177 — speakers: Marc Gunn
+- 2014-09-30 — September Irish Reels #176 — speakers: Gan Fidel, Joe Derrane, Jesse Ferguson, Marc Gunn
+- 2014-09-24 — 2-Hours of Celtic Music #175 — speakers: Ed Miller, Kyle Carey, Marc Gunn
+- 2014-09-17 — Talk Like a Pirate Day #174 — speakers: Marc Gunn
+- 2014-09-10 — Sherwood Celtic Music Festival #173 — speakers: Marc Gunn
+- 2014-09-03 — Irish Punk #172 — speakers: Irish Punk, Irish Celtic, Marc Gunn
+- 2014-08-27 — Drunken Sailor #171 — speakers: Emerald Rose, Marc Gunn
+- 2014-08-20 — Across the Celtic Waters #170 — speakers: Ed Miller, Marc Gunn
+- 2014-08-13 — How America Saved Irish Music #169 — speakers: Marc Gunn
+- 2014-08-06 — Irish Vacation on the Beach #168 — speakers: Sarah Marie Mullen, Merry Wives, Marc Gunn
+- 2014-07-30 — Postcard from Dublin [Clean Edit] #167 — speakers: Jonathan Milton, Melanie Gruben, Marc Gunn
+- 2014-07-23 — Celtic Dinner Party #166 — speakers: Marc Gunn
+- 2014-07-16 — Celtic Music Celebration #165 — speakers: Linda Relph, Bonhomme Setter, Marc Gunn
+- 2014-07-09 — Sailing the Dark Windy Seas #164 — speakers: Karen Mal, Marc Gunn
+- 2014-07-02 — Homesick for Ireland and Irish Music #163 — speakers: Marc Gunn Jamie Haeuser, Marc Gunn
+- 2014-06-25 — Workout with Rockin' Celtic Music #162 — speakers: Boston Blackthorne, Marc Gunn
+- 2014-06-18 — Irish Coffee #161 — speakers: Cady Finlayson, Emerald Rose, Marc Gunn
+- 2014-06-11 — Mist Covered Mountains of Donegal #160 — speakers: Mist Covered Mountains, Jamie Smith, Colin Farrell, Marc Gunn
+- 2014-06-04 — Farewell Whisky 'n Wales #159 — speakers: Farewell Whisky, Julia Lane, Wicked Tinkers, Ceol Gan Ach, Marc Gunn
+- 2014-05-19 — Celtic Music for Brunch #158 — speakers: Jonathan Milton, Ashley Davis, Tania Opland, Adam Beattie, Marc Gunn
+- 2014-04-30 — Fizzy Pop and Celtic Reels #157 — speakers: Telenn Tri, Marc Gunn
+- 2014-04-09 — Open the Gates of Celtic Music #156 — speakers: Michael Albert, Henry Lebedinsky, Adam Beattie, Marc Gunn
+- 2014-03-16 — Great St Patrick's Day Music Playlist Extravaganza 2014 #155 — speakers: Great St Patrick, Jimi McRae, Marc Gunn
+- 2014-03-13 — Free St Patrick's Day Music Playlist of 2014 #154 — speakers: Free St Patrick, Day Music Playlist, Irish Celtic, Marc Gunn
+- 2014-03-10 — Best Irish & Celtic Music of 2013 #153 — speakers: Gael Warning, Gothard Sisters, Marc Gunn
+- 2014-03-04 — Celtic Rock #152 — speakers: Brendan Monaghan, Marc Gunn
+- 2014-02-05 — Brilliant Collection of Celtic Music #151 — speakers: Brian Hebert, Chris Digby, Marc Gunn
+- 2014-01-18 — The Craic Is Free Celtic Music #150 — speakers: Jonny Dyer, Cu Dubh, James Olin Oden, Jesse Fergu, Marc Gunn
+- 2013-12-09 — Celtic Christmas Miracle #149 — speakers: Heather Dale, John McGaha, George Papavgeris, Tom Morley, Jed Marum, Marc Gunn
+- 2013-11-15 — West Coast Celtic Music #148 — speakers: West Coast Celtic Music, West Coast Irish Celtic, Stout Pounders, Derek Warfield, Marc Gunn
+- 2013-10-24 — Celtic Halloween #147 — speakers: Nancy Daily-Green, Maggie Sansone, Marc Gunn
+- 2013-09-27 — Rolling Hills of Shamrocks #146 — speakers: David Nigel Lloyd, Marc Gunn
+- 2013-09-16 — Halfway to St. Patrick's Day #145 — speakers: Jonny Dyer, Marc Gunn
+- 2013-08-22 — Endless Celtic Summer #144 — speakers: Marc Gunn
+- 2013-07-05 — Songs of Irish Immigration #143 — speakers: Marc Gunn, Gerry O’Beirne Rosie Shipley
+- 2013-06-06 — Banish Misfortune with Irish Celtic Music #142 — speakers: Buzz Turner, Jed Marum, Marc Gunn
+- 2013-05-04 — Bagpipes Rock #141 — speakers: Bagpipes Rock, Jesse Ferguson, Marc Gunn
+- 2013-04-18 — Thursday Celtic Music #140 — speakers: Duncan Ross Cameron, Allyson Adair, Marc Gunn
+- 2013-03-13 — Best St. Patrick's Day Playlist of 2013 #139 — speakers: St Patrick, Marc Gunn
+- 2013-03-08 — Top 20 Celtic Bands of 2012 for St. Patrick's Day #138 — speakers: St Patrick’s Day, Marc Gunn
+- 2013-03-06 — St. Patrick's Day Playlist #137 — speakers: St Patrick’s Day, Duncan Ross Cameron, Marc Gunn
+- 2013-02-11 — Celtic Love #136 — speakers: Athena Tergis, Colleen Raney, Marc Gunn
+- 2013-01-24 — Celtic Music Inspiration #135 — speakers: Beth Patterson, Patrick O’Flaherty, Marc Gunn
+- 2013-01-12 — Top 20 Best Celtic Music of 2012 #134 — speakers: Best Celtic Music, Best Irish Celtic, Colleen Raney, Marc Gunn
+- 2012-12-13 — Hobbit Music by Celtic Artists #133 — speakers: Heather Gilmer, Jeff Moore, Marc Gunn
+- 2012-11-20 — Irish & Celtic Music Podcast #132: The Rogues, Sisters of Murphy, Laura McGhee — speakers: Laura McGhee, Dave Hum, Ginger Ack, Marc Gunn
+- 2012-10-26 — Irish Celtic Music: Hair of the Dog, The Triskells, Peter Daldry #131 — speakers: Peter Daldry, Marc Gunn
+- 2012-10-02 — Irish & Celtic Music Podcast #130: Iona, Colleen Raney, The Young Wolfe Tones — speakers: Colleen Raney, Tania Opland, Mike Freeman, Marc Gunn
+- 2012-09-14 — Irish Blessings #129: Steven Hawson, The Duplets, Bard of the South — speakers: Steven Hawson, Scott Hoye, Marc Gunn
+- 2012-09-06 — Celtic Special on Don't Go Drinking With Hobbits #128 — speakers: Marc Gunn
+- 2012-08-26 — Gone Gaelic with Music #127: Vintage Wildflowers, Allison Barber, Claire Roche — speakers: Vintage Wildflowers, Allison Barber, Claire Roche, Marc Gunn
+- 2012-07-25 — Irish & Celtic Music Podcast #126: Emerald rose, Beyond the Pale, Hawp — speakers: Scott Hoye, Marc Gunn
+- 2012-07-11 — Irish & Celtic Music Podcast #125: Tricky Pixie, Bill Grogan's Goat, Tara's Fire — speakers: Bill Grogan, Marc Gunn
+- 2012-06-29 — Irish & Celtic Music Podcast #124: Brian Thomas, Celtic Pipes Rock!, Culbeag — speakers: Brian Thomas, Steve Hawson, Ceol Gan Achar, Doug Folki, Marc Gunn
+- 2012-05-30 — Irish & Celtic Music Podcast #123: Derek Warfield, Poitin, Iarla O'Lionaird — speakers: Derek Warfield, Iarla O'Lionaird, Marc Gunn
+- 2012-05-10 — #122: Feature on the Bodhran — speakers: George Murphy, Hugh Morrison, Marc Gunn
+- 2012-04-18 — Irish & Celtic Music Podcast #121 — speakers: Oisin McAuley, Susan Kidney, Donna Germano, Marc Gunn
+- 2012-03-14 — #120: St Patrick's Day Special MP3 Downloads — speakers: St Patrick, Sean Orr, Jesse Ferguson, Marc Gunn
+- 2012-03-07 — #119: Best Celtic Artists for St Patrick's Day 2012 — speakers: St Patrick, Colin Farrell, Jimi McRae Sam Okoo, Jonny Dyer, Heather Alexander, Marc Gunn
+- 2012-02-26 — Irish & Celtic Music Podcast #118 — speakers: Jonny Dyer, Dun Aengus, Tim Maurice, Marc Gunn
+- 2012-02-07 — Irish & Celtic Music Podcast #117: Pressed For Time — speakers: Robert Doyle, Marc Gunn
+- 2012-01-20 — Irish & Celtic Music Podcast #116 — speakers: Brian Boru, Tania Opland, Jesse Fergus, Marc Gunn
+- 2012-01-06 — Irish & Celtic Music Podcast #115 – Top 20 Best Celtic Music of 2011 — speakers: Sligo Rags, Keith Hinchliffe, Maggie Drennon, Marc Gunn
+- 2011-12-16 — Irish & Celtic Music Podcast #114 - Celtic Christmas — speakers: John McGaha, Jed Marum, Pandora Celtica, Heather Dale, Marc Gunn
+- 2011-12-03 — Irish & Celtic Music Podcast #113: Boston Blackthorne, Stout Pounders, Emish — speakers: Boston Blackthorne, Shamrock Orchestra, Marc Gunn
+- 2011-11-16 — Irish & Celtic Music Podcast #112: Cod Gone Wild, Rathkeltair, EHM, Hunting McLeod — speakers: Cod Gone Wild, Hunting McLeod Music, Samantha Gillogly, Jimi McRae, Molly Bauckham, Marc Gunn
+- 2011-10-31 — Irish & Celtic Music Podcast #111: Fiddlin' in the Parlor, Burning Bridget Cleary, Michael Black — speakers: Michael Black Music, Michael Black, Marc Gunn
+- 2011-10-05 — Irish & Celtic Music Podcast #110: Alison Nolan, Ron Cody, Terry Griffith, Green Man — speakers: Ron Cody, Terry Griffith, Green Man Music, Alison Nolan, Marc Gunn
+- 2011-08-30 — Irish & Celtic Music Podcast #109: Keith Hinchliffe, Dun Aengus, Homeland, The Killdares — speakers: Keith Hinchliffe, Dun Aengus, Marc Gunn
+- 2011-07-26 — Irish Celtic Music Six-Year Anniversary #108: Ellis Island, Jameson's Revenge, Cu Dubh, Beer Belly — speakers: Cu Dubh, Colin Farrell, Abby Green, Beer Belly, Jonny Dyer, Marc Gunn
+- 2011-07-07 — Irish Celtic Music #107: Colin Farrell, Ciara Considine, StoneRing, Danny Carthy — speakers: Colin Farrell, Ciara Considine, Danny Carthy Music, Colleen Raney, Marc Gunn
+- 2011-06-19 — Happy Father's Day Celtic Music #106: Johnson's Motorcar, Maggie Sansone, Ken O'Malley — speakers: Maggie Sansone, Ken O'Malley, Dan Milner, Gerry O'Beirne, Rosie Shipley, Marc Gunn
+- 2011-06-08 — Irish Celtic Music #105: Texas Scottish Festival w/ Clandestine, Seamus Stout, Hugh Morrison, Tullamore — speakers: Seamus Stout, Hugh Morrison, Jed Marum, Don Gab, Marc Gunn
+- 2011-05-26 — Irish Celtic Music #104: The Flying Toads, FiddleSticks, Mithril, Rambling Sailors — speakers: Irish Celtic Music, Rambling Sailors Music, Burning Bridget Cleary, Rambling Sailors, Marc Gunn
+- 2011-04-12 — Irish Celtic Music #103: Celtic Instrumentals — speakers: Jonny Dyer, Marc Gunn
+- 2011-03-16 — St. Patrick's Day Music #102: In Search of a Rose, The Canny Brothers Band, Jasper Coal — speakers: Jasper Coal, Dun Aengus, Jonny Dyer, Marc Gunn
+- 2011-03-06 — Best Celtic Artists for St Patrick's Day #101: Heidi Talbot, Merry Wives of Windsor, Round the House — speakers: St Patrick, Heidi Talbot, Merry Wives, Locklin Road, Marc Gunn
+- 2011-03-03 — Irish Celtic Music #100: Gillian Boucher, The Whiskey Boys, Brendan Monaghan — speakers: Gillian Boucher, Brendan Monaghan, Marc Gunn
+- 2011-02-12 — Irish & Celtic Music #99: Ceann, Mudmen, Mishaped Pearls, The Crossing — speakers: David Roon, Arlene Faith, Marc Gunn
+- 2011-01-14 — Irish & Celtic Music #98: Three Mile Stone, Sligo Rags, The Nettles — speakers: Sligo Rags, Jim Brannigan, Marc Gunn
+- 2011-01-05 — Best Celtic Music of 2010 #97: Albannach, Gaelic Storm, Bow Triplets, Ennis — speakers: Gaelic Storm, Marc Gunn, Merry Wives, Anne Roos
+- 2010-12-21 — Celtic Christmas Music Special #96: Wicked Tinkers, Don Grieve, Altan, Angus Mohr — speakers: Don Grieve, Angus Mohr, Marc Gunn
+- 2010-12-10 — Celtic Christmas #95: Tommy Sands, Eileen Ivers, Banshee in the Kitchen — speakers: Tommy Sands, Eileen Ivers, Marc Gunn
+- 2010-11-10 — Irish & Celtic Music #94: Damh the Bard, The Gleasons, Jenna Greene, Stonecircle — speakers: Jenna Greene, Brad Reid, Sligo Rags, Claire Roche, Marc Gunn
+- 2010-10-14 — Irish & Celtic Music Podcast #93 – Celtic Music Feature on Poitin's CD "Jiggery Pokery" — speakers: Celtic Music Feature, Jiggery Pokery, Celtic Invasion Vacations Wouldn, Marc Gunn
+- 2010-10-06 — Irish & Celtic Music Podcast #92 – Music for Halloween and Samhain — speakers: Heather Dale, Grey Aengus, Jasper Coal, Marc Gunn
+- 2010-09-29 — Jed Marum's Album "The Soul of a Wanderer" Special Feature #91 — speakers: Jed Marum, Marc Gunn
+- 2010-09-26 — Irish & Celtic Music Podcast #90: Rising of the Moon — speakers: Michael William Harrison, Jim Clarke Granny, Marc Gunn
+- 2010-09-13 — Irish & Celtic Music Podcast #89 — speakers: Jeff Ksiazek, Doug Folkins, Locklin Road, Jenna Greene, Marc Gunn
+- 2010-08-24 — Irish & Celtic Music Podcast #88 — speakers: Jimi McRae, Dublin O'Shea, Sheridan Band, Marc Gunn
+- 2010-07-28 — Rights of Man #87 — speakers: Anton Emery, Seamus Stout, Don Grieve, Beer Belly, Marc Gunn, Gaelic Storm
+- 2010-07-11 — Mad Jenny on Lamlash Bay #85 — speakers: Vicki Swan, Jonny Dyer, Gerard Smith, David Nigel Lloyd, Marc Gunn
+- 2010-07-11 — Celtic Women Feature #86 — speakers: Gothard Sisters, Ciara Considine, Heather Dale, Maidens IV, Linda Connell Studley, Marc Gunn
+- 2010-05-29 — IrishCelticMusic-084.mp3 #84: Irish Celtic Music of the Sea — speakers: Hank Cramer, Anne Roos, Marc Gunn
+- 2010-05-29 — IrishCelticMusic-082.mp3 — speakers: Dark Patrick, David Nigel Lloyd, Marc Gunn
+- 2010-05-19 — IrishCelticMusic-083.mp3 #83 – Irish Music Feature on Happy Songs of Death — speakers: Marc Gunn
+- 2010-04-12 — IrishCelticMusic-081.mp3 — speakers: Luke Daniels, Cady Finlayson Vita Tanga, Marc Gunn
+- 2010-03-17 — St Patrick's Day Celtic Music Celebration #80 — speakers: St Patrick, Ron Cody, Jacqui McCarthy, Jonny Dyer, Claire Roche, Marc Gunn
+- 2010-03-16 — 17 Free Celtic Music Downloads for St. Patrick's Day #79 — speakers: Daphne Quigley-Freund, Tom Bradfish, Marc Gunn
+- 2010-02-08 — Irish & Celtic Music #78: MacTalla Mor, Kinfolk, Full Gael, Three Quarter Ale — speakers: Full Gael, Marc Gunn
+- 2010-01-23 — Celtic Music Tribute to Robert Burns #77 — speakers: Robert Burns, Con Durham, Don Gabbert, Marc Gunn
+- 2010-01-08 — Best Irish Celtic Music of 2009 #76: Heidi-Jane, Kennedy's Kitchen, Skully, Siochain — speakers: String Band, Marc Gunn
+- 2010-01-08 — IrishCelticMusic-074.mp3 — speakers: Song Henge, Marc Gunn
+- 2010-01-08 — Celtic Christmas Special #75: Heather Dale, Liz Carroll, Tania Opland, Vince Conaway — speakers: Heather Dale, Liz Carroll, Tania Opland, Vince Conaway, Julia Lane, Seamus Ke, Marc Gunn
+- 2009-10-31 — Halloween and Samhain Irish Celtic Music Special #73 — speakers: Marc Gunn
+- 2009-10-05 — IrishCelticMusic-072.mp3 — speakers: Song Henge, Marc Gunn
+- 2009-09-03 — Irish & Celtic Music Podcast #71 — speakers: Cady Finlayson, Marc Gunn
+- 2009-08-30 — Irish & Celtic Music Podcast #70 — speakers: Jonny Dyer, Cady Finlayson, Marc Gunn
+- 2009-07-15 — Celtic Music Feature #69: Texas Scottish Festival — speakers: Hugh Morrison, Jed Marum, Marc Gunn
+- 2009-06-05 — Irish & Celtic Music Podcast #68 — speakers: Marc Gunn
 - 2009-05-08 — IrishCelticMusic-067_clean.mp3 — speakers: Marc Gunn
-- 2009-04-20 — Irish & Celtic Music Podcast #66 — speakers: Marc Gunn, Marc Gunn Celtic, Merry Measure, Ron Cody, Ed Miller, Jillian LaDage, Sleepy Maggie, Beth Patterson
-- 2009-03-17 — St. Patrick's Day feature on Best of the Irish & Celtic Music Podcast Compilation #65 — speakers: Sligo Rags, Hugh Morrison, Anne Roos, Beth Patterson, Jesse Ferguson, Jamie Laval, Ashley Broder, Maidens IV
-- 2009-03-12 — St. Patrick's Day Music Special #64 — speakers: Jed Marum, Hugh Morrison, Brian Hebert, Mactalla Mor, Marc Gunn, Henk Hopman, Mick Moloney, Waywood Folk
-- 2009-02-24 — Irish & Celtic Music Podcast #63 — speakers: Song Henge, Marc Gunn, Mardi Gras, Henry Martin, John O'Dreams, Ron Cody, Jenny O'Farrell, Jim Abel
-- 2009-01-27 — Irish & Celtic Music Podcast #62 — speakers: Song Henge, Marc Gunn, Jim Rowlands, Jesse Ferguson, Heidi Jane, Hunting McLeod, Heather Alexander, Dunje Rajke Druske
-- 2009-01-02 — Best Irish & Celtic Music of 2008 - #61 — speakers: Heather Alexander, Jamie Laval, Ashley Broder, Tara MacKenzie, Anne Roos, Brobdingnagian Bards, Merry Wives, com Underwriting
-- 2008-12-17 — Celtic Christmas Music Special #60 — speakers: Jed Marum, Alison Brown, Samantha Gillogly, Marc Gunn, Seamus Kennedy, Eileen Ivers, Coyote Run, Song Henge
-- 2008-12-04 — Irish & Celtic Music Podcast #59 — speakers: Merry Mischief, Jacie McConnell, Raymond McCullough, Angus Mohr, Merry Wives, Song Henge, Stingy Jack, Sligo Rags
-- 2008-11-05 — Irish & Celtic Music Podcast #58 — speakers: Steve Holloway, Maidens IV, Merry Wives, Sligo Rags, Widening Gyre, Pog Mo Thon, Mark Saul Brought, Song Henge
-- 2008-10-24 — Gaelic Songs Bonus Feature — speakers: Jennifer Licko, Chuan Domh, Marc Gunn, Song Henge
-- 2008-10-13 — Keg of Brandy #57 — speakers: Thomas Patrick Kenny, Jim Brannigan, Scott Boswell, Nick Hennessey, Mark Saul, Siochain Brought, Song Henge, Marc Gunn
-- 2008-09-21 — Irish & Celtic Music Podcast #56 — speakers: Song Henge, Heather Dale, Angus Mohr, Laughing Got, Roger Drawdy, Raymond McCullough, Anne Roos, Ciara Considine
-- 2008-08-27 — IrishCelticMusic-055.mp3 — speakers: Song Henge, Beer Belly, Annie Laurie, Anne Roos, Heather Dale, Loch Lomond, Jesse Ferguson, Tara MacKenzie
-- 2008-08-12 — IrishCelticMusic-054.mp3 Irish & Celtic Music Podcast #54 – Three-Year Anniversary — speakers: Tara MacKenzie, Jesse Ferguson, Ciara Considine, Ruth Smith, Kara Manke, Beer Belly, Kevin Tyler, Keltoi Anam
-- 2008-07-13 — IrishCelticMusic-053.mp3 — speakers: Song Henge, Emerald Fire William, Keltoi Anam, Kevin Tyler, Reel Medley, Darren Raleigh, Jesse Ferguson, Ruth Smith
-- 2008-07-01 — IrishCelticMusic-052.mp3 Irish & Celtic Music Podcast #52 – Feature on Irish Musicians — speakers: Song Henge, Marc Gunn, Mulineira de Santalla d'Ozcos, Claire Roche, Seamus Kennedy, James Connolly, Ken O'Malley, Robbie O'Connell
-- 2008-06-04 — Planxty Irwin #51 — speakers: Planxty Irwin, Thomas Patrick Kenny, Sheridan Band, Maidens IV, Ed Miller, Shauna Burns, Scott Boswell, Jennifer Licko
-- 2008-05-20 — IrishCelticMusic-050.mp3 Irish & Celtic Music Podcast #50: The Beggarmen, Fire in the Kitchen, Damanta — speakers: Marc Gunn, Bad Haggis, Gennady Sherman, Melanie Gruben, George Brabazon, Kebab Crazed Nutter, Shauna Burns, Scott Boswell
-- 2008-04-22 — IrishCelticMusic-049.mp3 — speakers: Song Henge, Ashley Broder, Melanie Gruben, Ken O'Malley, Kitty Martin, Darren Mullins, Mary Mac, Heather Alexander
-- 2008-03-16 — St. Patrick's Day Celtic Music Diaspora Special #2 - Episode #48 — speakers: Jonny Dyer, Sligo Rags, Darren Raleigh, Teresa Doyle, Emerald Rose, Heather Alexander, Song Henge, St Patrick
-- 2008-03-11 — St. Patrick's Day Celtic Music Diaspora Special #1 Show #47 — speakers: St Patrick, Heather Alexander, Marc Gunn, Answer Hymn, Jed Marum, Allison Girvan, Redhill Rats, Song Henge
-- 2008-02-22 — IrishCelticMusic-046.mp3 — speakers: IrishCelticMusic mp Brought, Theobald Wolfetone, Song Henge, Bob Tedrow, Jeff Ksiazek, Jacie McConnell, Jacie McConnell Demo, Beggarman Medley
-- 2008-01-28 — More Fantastic Celtic Music for 2008 #45 — speakers: Jamie Laval, Ashley Broder, Heather Dale, Emerald Rose, Allison Barber, Ed Miller, Thornhill Road, Song Henge
-- 2008-01-06 — Best Celtic Music of 2007 #44 — speakers: Heather Dale, Emerald Rose, Allison Barber, Ed Miller, Thornhill Road, Ashley Broder, Brobdingnagian Bards, Jed Marum
-- 2007-12-16 — Celtic Christmas Special #43 — speakers: Gypsy Soul, Seamus Kennedy, Cady Finlayson, Merry Wives, Celeste Howard, Heather Dale, Coyote Run, Brobdingnagian Bards
-- 2007-11-20 — Irish Music Feature on Jed Marum's CD Lonestar Stout #42 — speakers: Jed Marum, Lonestar Stout, Foggy Dew, Saint James, Wild Colonial, Bloody Dawn, Song Henge, Marc Gunn
-- 2007-11-09 — IrishCelticMusic-041.mp3 — speakers: Song Henge, Theobald Wolfetone, Terry Griffith, Kevin Collins, Kenny Klein, Black Jack, Allison Barber, Jacie McConnell
-- 2007-10-12 — IrishCelticMusic-040.mp3 — speakers: IrishCelticMusic mp Brought, Song Henge, Seamus Kennedy, Claire Roche, Knotty Tales, Catherine Duc, Con Suite Next, Kevin Collins
-- 2007-09-26 — IrishCelticMusic-039.mp3 — speakers: Song Henge, Marc Gunn, Ashley Broder, Tam Linn Set, Catherine Duc, Strange Woods, Caber Loo, Claire Roche
-- 2007-08-29 — IrishCelticMusic-038.mp3 #38 – Irish Drinking Songs of Marc Gunn's Newest Celtic Music CD — speakers: Marc Gunn, Song Henge, Song Requests, Patriot Game, Bonnie Ship, Gypsy Rover
-- 2007-07-18 — IrishCelticMusic-037.mp3 — speakers: Song Henge, Marc Gunn, Song Requests, Loch Lomond, Ian Patton, Liam Murray, Boston Blackthorne, Brian Boru Pipe Band
-- 2007-05-31 — IrishCelticMusic-036.mp3 — speakers: IrishCelticMusic mp Brought, Song Henge, Song Requests, Cady Finlayson, Ed Miller, Brian Boru Pipe Band, Brian Boru, Maireid Sullivan
-- 2007-05-12 — Irish & Celtic Music Podcast #35: Jolly Rogues, Navan, Celticburn, Tocando el Aire, Skelpin', James Connolly, Round the House, — speakers: Tocando el Aire, James Connolly, Marc Gunn, Joe Hooper, Greenwich Meantime, Song Henge, Song Requests, Proof Next
-- 2007-04-12 — Irish & Celtic Music Podcast #34: Mordred's Lullaby — speakers: Heather Dale, Kevin Behan, Bruce Boyd, Raymond McCullough, Gaelic Wind Project, Song Henge, Song Requests, Scott Skinner
-- 2007-03-17 — St Patrick's Day MP3 Special Edition, Pt 1 #33 — speakers: St Patrick, Brobdingnagian Bards, Thomas Doc Grauzer, Marc Gunn, Ceili Moss, Jonny Dyer, Bunratty Castle, Order Victims
-- 2007-03-15 — St Patrick's Day Music - Your Requests #33, Pt 2 — speakers: St Patrick, Merry Mischief, Serious Kitchen, Ali Benson, James Raynard, Coyote Run, Diane Linn, com Subscribe
-- 2007-03-07 — Celtic Music Awards #32 — speakers: Bedlam Bards, Celeste Howard, Maidens IV, Kitchen Subscribe, Song Henge, St Patrick, Marc Gunn, Mary Mac
-- 2007-02-22 — Almost Irish #31 — speakers: Cady Finlayson, Ken O'Malley, Gaelic Wind Project, String Thaw, St Patrick, Mary Mack, Marc Gunn
-- 2007-01-22 — Great Irish Celtic Music #30 — speakers: Thornhill Road, Cynthia Bennett, Mary Knickle, com Subscribe, Bunratty Castle, Novelty Band, Maidens IV, Belfast Andi
-- 2007-01-05 — Best Celtic Music of 2006 #29 — speakers: Sarah Dinan, Coyote Run, Marc Gunn, Brian Boru, Cara Dillon, Mary Knickle, Heather Dale, Paisley Close
-- 2006-12-22 — Getting Started Celtic Christmas Music Special #28 — speakers: Coyote Run, George Papavgeris, Gypsy Soul, Heather Dale, Stuart Martz, Cara Dillon, Pol Mac Adaim, Brobdingnagian Bards
-- 2006-12-06 — Kiss Me, I'm Irish #27 — speakers: Kiss Me, Gaelic Storm, Mary Knickle, Cele De, Craic Wisely, com Subscribe, Song Henge, Marc Gunn
-- 2006-11-11 — Celtic Music Feature on Vicki Swan & Jonny Dyer #26 — speakers: Jonny Dyer, Serious Kitchen, Song Henge, Marc Gunn, Muckle Flugga, George Papavgeris
-- 2006-10-12 — Irish & Celtic Music #25: Celtic Men — speakers: Jed Marum, Seamus Stout, Michael William Harrison, Franco Bordoni, Emerald Rose, Seamus Kennedy, Pol MacAdaim, Ed Miller
-- 2006-09-22 — Irish & Celtic Music #24: The Indulgers, Irish Balladeers, Full Gael, Neil Anderson — speakers: Neil Anderson Irish, Brobdingnagian Bards, Neil Anderson, Ed Miller, Brendan O'Loughlin, Pol MacAdaim, Stuart Martz, com Subscribe
-- 2006-08-25 — Irish & Celtic Music #23: Culann's Hounds, Sheridan Band, John McCormack, — speakers: Sheridan Band, John McCormack, Pol MacAdaim, Jed Marum, Maidens Iii, Brobdingnagian Bards, Emerald Rose, Song Henge
-- 2006-07-17 — Irish & Celtic Music #22: Rhianon, Celtic Music Society, Cormorant's Fancy — speakers: Michael William Harrison, Marita Brake, Willie McCulloch, Stuart Martz, Marc Gunn, Ferris Pighouse Collection, com Subscribe, Song Henge
-- 2006-06-25 — Irish & Celtic Music #21: Molly Maguires, MacTalla M'or, The Muses, Ann'Sannat, Wild Clover Band, Sandcarvers — speakers: Molly Maguires, Jonathan Ramsey, Marc Gunn, George Papavgeris, Boston Blackthorne, com Subscribe, Song Henge
-- 2006-05-30 — Irish & Celtic Music #20: Celticana, James Raynard, Beyond the Pale — speakers: James Raynard, Dom Duff, Pol MacAdaim, com Subscribe, Song Henge, Song Requests, Marc Gunn, Apryl Knight
-- 2006-05-06 — Irish Celtic Music #19: Wearing of the Green — speakers: Pipe Band, James Connolly, Tara MacKenzie, Marc Gunn, Vadim Krakovsky, Greenwich Meantime, Coyote Run, Song Henge
-- 2006-04-21 — Celtic Women Special #18: Niamh Parsons, Susan Hamlin, Heather Dale, Rise, Cady Finlayson — speakers: Niamh Parsons, Susan Hamlin, Heather Dale, Cady Finlayson Women, Sarah Dinan, Heather Gilmer, Cady Finlayson, Ali Benson
-- 2006-04-03 — Irish & Celtic Music #17: Celtic Music Awards — speakers: Gaelic Storm, Flogging Molly, Brobdingnagian Bards, Emerald Rose, Boston Blackthorne, Song Henge, Murphys Dropkick Murphys, Lucinda Williams
-- 2006-03-17 — St Patrick's Day MP3 Special #16: McCabes, Black 47, Jonathan Ramsey — speakers: St Patrick, Jonathan Ramsey St Patrick, Jonny Dyer, Emerald Rose, Ed Miller, Brobdingnagian Bards, Paisley Close, Sarah Dinan
-- 2006-03-16 — Irish & Celtic Music #15: North Texas Irish Festival Wrap Up, Part 2 — speakers: Sarah Dinan, Ed Miller, Jed Marum, Paisley Close, Seamus Stout, Brobdingnagian Bards, com Subscribe, Jonny Dyer
-- 2006-03-12 — Irish & Celtic Music #14: North Texas Irish Festival Wrap Up, Part 1 — speakers: Ed Miller, Robbie O'Connell, Seamus Stout, Marc Gunn, Jed Marum, Brobdingnagian Bards, celticmusicpodcast com, Jonny Dyer
-- 2006-03-03 — Irish & Celtic Music #13: Karen Mal, Fardaxu, Seamus Kennedy — speakers: Karen Mal, Seamus Kennedy, Kevin Behan, Jed Marum, Thomas Doc Grauzer Queen, Canned Haggis, Marc Gunn, Jonny Dyer
-- 2006-02-26 — Irish & Celtic Music #12: Trinity River Whalers, Barleyjuice, The Killdares — speakers: Sarah Dinan, Ed Miller, Brobdingnagian Bards, Bedlam Bards, Michael Murphy, celticmusicpodcast com, Jonny Dyer, Knotty Tales
-- 2006-02-10 — Irish & Celtic Music #11: Ceann, The Jolly Rogues, The Black Irish — speakers: Seamus Kennedy, Jonny Dyer, Heather Dale, Paisley Close, Brobdingnagian Bards, Green Tea, celticmusicpodcast com, Dublin Tourism
-- 2006-01-19 — Irish & Celtic Music #10: Blaggards, Highland Reign, The Patched Hats — speakers: Brobdingnagian Bards, Serious Kitchen, celticmusicpodcast com, Vicki Swan, Jonny Dyer, Marc Gunn
-- 2006-01-17 — How Old Is Your Cat Really? #7 — speakers: Pet Photography, Les Howard, Kind Supporters, Reida Riley, Melissa Konigsdorfer Music, Marc Gunn
-- 2005-12-30 — Irish & Celtic Music #9: Tears for Beers, Stonering, Don Grieve — speakers: Ed Miller, Cady Finlayson, Brobdingnagian Bards, Don Grieve, Carl Peterson, Jeff Donald, Jonny Dyer, Sligo Rags
-- 2005-12-16 — Irish & Celtic Music #8: Flook, The Barley Boys, Pol Mac Adaim — speakers: Pol Mac Adaim, Niamh Parsons, Willie McCulloch, Gan Fidil, Ed Miller, celticmusicpodcast com, Jonny Dyer, Paul Stamler
-- 2005-12-04 — Irish & Celtic Music #7: Sarah Dinan, The Tea Merchants, 3 Pints Gone — speakers: Sarah Dinan, Michael Murphy, Cairde na Gael, Emerald Rose, Raymond McCullough, Shays Rebellion, Marc Gunn, Cady Finlayson
-- 2005-11-27 — Indie Celtic Music #6: Moch Pryderi, Enter the Haggis, Eric Benson, 3 Pints Gone, Patched Hats, Ali Benson — speakers: Moch Pryderi, Eric Benson, Patched Hats, Ali Benson Indie, Jonny Dyer, Ali Benson, Brobdingnagian Bards, Hugh Morrison
-- 2005-11-08 — Irish Celtic Music #5: Rise, MacTalla Mor, Cady Finlayson, Paisley Close — speakers: Cady Finlayson, Paisley Close, Emerald Rose, Ed Miller, Marc Gunn, Thomas Doc Grauzer, Don Grieve, Jonny Dyer
-- 2005-09-21 — Irish Music Podcast #4 — speakers: Cairde na Gael, Marc Gunn, Heather Gilmer, Jeff Moore, Sarah Dinan, Bedlam Bards, Emerald Rose, Kristen Roger
-- 2005-08-26 — Irish Music Podcast #3 - Barley Boys, Contea, Queen's Gambit, Highland Fling, Michael Murphy, Amadan, Bow Triplets, Stone Ring — speakers: Michael Murphy, Raymond McCullough, Brobdingnagian Bards, Ingrid Houwers, Marc Gunn, Door Auld, Johnny Jump
-- 2005-08-16 — Irish Music Podcast #2 — speakers: Hugh Morrison, Brobdingnagian Bards, Vicki Swan, Johnny Dyer, Raymond McCullough, Aaron Drake, Michael Murphy, Mac'Talla Mor
-- 2005-07-28 — Irish Music Podcast #1 — speakers: Susan Hamlin, Paul McKenna, Marc Gunn, Brobdingnagian Fairy Tales, Take My
+- 2009-04-20 — Irish & Celtic Music Podcast #66 — speakers: Celtic Invasion Vacations, Marc Gunn
+- 2009-03-17 — St. Patrick's Day feature on Best of the Irish & Celtic Music Podcast Compilation #65 — speakers: Sligo Rags, Hugh Morrison, Marc Gunn
+- 2009-03-12 — St. Patrick's Day Music Special #64 — speakers: Jed Marum, Hugh Morrison, Marc Gunn
+- 2009-02-24 — Irish & Celtic Music Podcast #63 — speakers: Song Henge, Marc Gunn
+- 2009-01-27 — Irish & Celtic Music Podcast #62 — speakers: Song Henge, Marc Gunn
+- 2009-01-02 — Best Irish & Celtic Music of 2008 - #61 — speakers: Heather Alexander, Jamie Laval, Ashley Broder, Marc Gunn
+- 2008-12-17 — Celtic Christmas Music Special #60 — speakers: Jed Marum, Marc Gunn
+- 2008-12-04 — Irish & Celtic Music Podcast #59 — speakers: Merry Mischief, Jacie McConnell, Marc Gunn
+- 2008-11-05 — Irish & Celtic Music Podcast #58 — speakers: Steve Holloway, Maidens IV, Merry Wives, Marc Gunn
+- 2008-10-24 — Gaelic Songs Bonus Feature — speakers: Marc Gunn
+- 2008-10-13 — Keg of Brandy #57 — speakers: Marc Gunn
+- 2008-09-21 — Irish & Celtic Music Podcast #56 — speakers: Song Henge, Marc Gunn
+- 2008-08-27 — IrishCelticMusic-055.mp3 — speakers: Song Henge, Marc Gunn
+- 2008-08-12 — IrishCelticMusic-054.mp3 Irish & Celtic Music Podcast #54 – Three-Year Anniversary — speakers: Year Anniversary Underwriting, Marc Gunn
+- 2008-07-13 — IrishCelticMusic-053.mp3 — speakers: Song Henge, Marc Gunn
+- 2008-07-01 — IrishCelticMusic-052.mp3 Irish & Celtic Music Podcast #52 – Feature on Irish Musicians — speakers: Song Henge, Marc Gunn
+- 2008-06-04 — Planxty Irwin #51 — speakers: Planxty Irwin, Thomas Patrick Kenny, Marc Gunn
+- 2008-05-20 — IrishCelticMusic-050.mp3 Irish & Celtic Music Podcast #50: The Beggarmen, Fire in the Kitchen, Damanta — speakers: Marc Gunn
+- 2008-04-22 — IrishCelticMusic-049.mp3 — speakers: Song Henge, Marc Gunn
+- 2008-03-16 — St. Patrick's Day Celtic Music Diaspora Special #2 - Episode #48 — speakers: Jonny Dyer, Marc Gunn
+- 2008-03-11 — St. Patrick's Day Celtic Music Diaspora Special #1 Show #47 — speakers: St Patrick, Heather Alexander, Marc Gunn
+- 2008-02-22 — IrishCelticMusic-046.mp3 — speakers: IrishCelticMusic mp Brought, Marc Gunn
+- 2008-01-28 — More Fantastic Celtic Music for 2008 #45 — speakers: Jamie Laval, Ashley Broder, Heather Dale, Marc Gunn
+- 2008-01-06 — Best Celtic Music of 2007 #44 — speakers: Celtic music fro, Marc Gunn
+- 2007-12-16 — Celtic Christmas Special #43 — speakers: Gypsy Soul, Seamus Ke, Marc Gunn
+- 2007-11-20 — Irish Music Feature on Jed Marum's CD Lonestar Stout #42 — speakers: Jed Marum, Lonestar Stout, Marc Gunn
+- 2007-11-09 — IrishCelticMusic-041.mp3 — speakers: Song Henge, Marc Gunn
+- 2007-10-12 — IrishCelticMusic-040.mp3 — speakers: IrishCelticMusic mp Brought, Marc Gunn
+- 2007-09-26 — IrishCelticMusic-039.mp3 — speakers: Song Henge, Marc Gunn
+- 2007-08-29 — IrishCelticMusic-038.mp3 #38 – Irish Drinking Songs of Marc Gunn's Newest Celtic Music CD — speakers: Marc Gunn, Song Henge
+- 2007-07-18 — IrishCelticMusic-037.mp3 — speakers: Song Henge, Marc Gunn
+- 2007-05-31 — IrishCelticMusic-036.mp3 — speakers: IrishCelticMusic mp Brought, Song Henge, Marc Gunn
+- 2007-05-12 — Irish & Celtic Music Podcast #35: Jolly Rogues, Navan, Celticburn, Tocando el Aire, Skelpin', James Connolly, Round the House, — speakers: Tocando el Aire, James Connolly, Marc Gun, Marc Gunn
+- 2007-04-12 — Irish & Celtic Music Podcast #34: Mordred's Lullaby — speakers: Heather Dale, Kevin Behan, Marc Gunn
+- 2007-03-17 — St Patrick's Day MP3 Special Edition, Pt 1 #33 — speakers: St Patrick, Brobdingnagian Bards, Thomas Doc Grauzer, Marc Gunn
+- 2007-03-15 — St Patrick's Day Music - Your Requests #33, Pt 2 — speakers: St Patrick, Merry Mischief, Serious Kitchen, Ali Benson, James Rayn, Marc Gunn
+- 2007-03-07 — Celtic Music Awards #32 — speakers: Celtic Music Awards, Marc Gunn
+- 2007-02-22 — Almost Irish #31 — speakers: Cady Finlayson, Marc Gunn
+- 2007-01-22 — Great Irish Celtic Music #30 — speakers: Thornhill Road, Marc Gunn
+- 2007-01-05 — Best Celtic Music of 2006 #29 — speakers: Marc Gunn
+- 2006-12-22 — Getting Started Celtic Christmas Music Special #28 — speakers: Marc Gunn
+- 2006-12-06 — Kiss Me, I'm Irish #27 — speakers: Kiss Me, Gaelic Storm, Marc Gunn
+- 2006-11-11 — Celtic Music Feature on Vicki Swan & Jonny Dyer #26 — speakers: Jonny Dyer, Marc Gunn
+- 2006-10-12 — Irish & Celtic Music #25: Celtic Men — speakers: Jed Marum, Marc Gunn
+- 2006-09-22 — Irish & Celtic Music #24: The Indulgers, Irish Balladeers, Full Gael, Neil Anderson — speakers: Neil Anderson Irish, Brobdingnagian Bards, Marc Gunn
+- 2006-08-25 — Irish & Celtic Music #23: Culann's Hounds, Sheridan Band, John McCormack, — speakers: Sheridan Band, John McCormack, Pol MacAdaim, Marc Gunn
+- 2006-07-17 — Irish & Celtic Music #22: Rhianon, Celtic Music Society, Cormorant's Fancy — speakers: Michael William Harrison, Marita Brake, Marc Gunn
+- 2006-06-25 — Irish & Celtic Music #21: Molly Maguires, MacTalla M'or, The Muses, Ann'Sannat, Wild Clover Band, Sandcarvers — speakers: Molly Maguires, Marc Gunn
+- 2006-05-30 — Irish & Celtic Music #20: Celticana, James Raynard, Beyond the Pale — speakers: James Raynard, Marc Gunn
+- 2006-05-06 — Irish Celtic Music #19: Wearing of the Green — speakers: Pipe Band, Marc Gunn
+- 2006-04-21 — Celtic Women Special #18: Niamh Parsons, Susan Hamlin, Heather Dale, Rise, Cady Finlayson — speakers: Niamh Parsons, Susan Hamlin, Heather Dale, Cady Finlayson Women, Marc Gunn
+- 2006-04-03 — Irish & Celtic Music #17: Celtic Music Awards — speakers: Celtic Music, Celtic Music Awards, Marc Gunn
+- 2006-03-17 — St Patrick's Day MP3 Special #16: McCabes, Black 47, Jonathan Ramsey — speakers: St Patrick, Jonathan Ramsey St Patrick, Jonny Dyer, Emerald Rose, Marc Gunn
+- 2006-03-16 — Irish & Celtic Music #15: North Texas Irish Festival Wrap Up, Part 2 — speakers: Irish Celtic Mu, Marc Gunn
+- 2006-03-12 — Irish & Celtic Music #14: North Texas Irish Festival Wrap Up, Part 1 — speakers: Ed Miller, Robbie O'Connell, Seamus Stout, Marc Gunn
+- 2006-03-03 — Irish & Celtic Music #13: Karen Mal, Fardaxu, Seamus Kennedy — speakers: Karen Mal, Seamus Kennedy, Kevin Behan, Marc Gunn
+- 2006-02-26 — Irish & Celtic Music #12: Trinity River Whalers, Barleyjuice, The Killdares — speakers: Marc Gunn
+- 2006-02-10 — Irish & Celtic Music #11: Ceann, The Jolly Rogues, The Black Irish — speakers: Seamus Kennedy, Jonny Dyer, Heather Dale, Marc Gunn
+- 2006-01-19 — Irish & Celtic Music #10: Blaggards, Highland Reign, The Patched Hats — speakers: Brobdingnagian Bards, Serious Ki, Marc Gunn
+- 2006-01-17 — How Old Is Your Cat Really? #7 — speakers: Cat Really, Cat Music, News Irish Drinking, Marc Gunn
+- 2005-12-30 — Irish & Celtic Music #9: Tears for Beers, Stonering, Don Grieve — speakers: Ed Miller, Cady Finlays, Marc Gunn
+- 2005-12-16 — Irish & Celtic Music #8: Flook, The Barley Boys, Pol Mac Adaim — speakers: Pol Mac Adaim, Niamh Parsons, Marc Gunn
+- 2005-12-04 — Irish & Celtic Music #7: Sarah Dinan, The Tea Merchants, 3 Pints Gone — speakers: Sarah Dinan, Michael Murphy, Marc Gunn
+- 2005-11-27 — Indie Celtic Music #6: Moch Pryderi, Enter the Haggis, Eric Benson, 3 Pints Gone, Patched Hats, Ali Benson — speakers: Moch Pryderi, Eric Benson, Patched Hats, Ali Benson Indie, Jonny Dyer, Marc Gunn
+- 2005-11-08 — Irish Celtic Music #5: Rise, MacTalla Mor, Cady Finlayson, Paisley Close — speakers: Cady Finlayson, Paisley Close, Emerald Rose, Ed Miller, Marc Gunn
+- 2005-09-21 — Irish Music Podcast #4 — speakers: Cairde na Gael, Marc Gunn
+- 2005-08-26 — Irish Music Podcast #3 - Barley Boys, Contea, Queen's Gambit, Highland Fling, Michael Murphy, Amadan, Bow Triplets, Stone Ring — speakers: Michael Murphy, Marc Gunn
+- 2005-08-16 — Irish Music Podcast #2 — speakers: Hugh Morrison, Brobdingnagian Bards, Marc Gunn
+- 2005-07-28 — Irish Music Podcast #1 — speakers: Susan Hamlin, Marc Gunn

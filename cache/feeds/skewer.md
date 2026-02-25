@@ -2,10 +2,10 @@
 
 - slug: `skewer`
 - source: `https://podcasts.files.bbci.co.uk/m000czyb.rss`
-- fetched_at: `2026-02-24T10:08:52+00:00`
-- checked_at: `2026-02-24T10:08:52+00:00`
-- etag: `"41965582a4ae7f0e9ad11fc226b8c43e"`
-- last_modified: `Tue, 24 Feb 2026 09:46:02 GMT`
+- fetched_at: `2026-02-25T16:19:49+00:00`
+- checked_at: `2026-02-25T16:19:49+00:00`
+- etag: `"5468dc87063ff50e11f9d9160bf6c652"`
+- last_modified: `Wed, 25 Feb 2026 14:52:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m000czyb",
   "description": "A twisted comedy treat. Jon Holmes brings you the week's biggest stories like you've never heard them before. The news remixed. Welcome to The Skewer. Headphones on. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS New York Festival 2020 Audio Production Awards 2020 British Podcast Awards 2020 Audio Production Awards 2019 (Sound Design) Audio Production Awards 2020 An Unusual production for BBC Radio 4",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
-  "fetched_at": "2026-02-24T10:08:52+00:00",
+  "fetched_at": "2026-02-25T16:19:49+00:00",
   "owners": [
     "Jon Holmes"
   ],
@@ -1596,102 +1596,6 @@
         "Jon Holmes"
       ],
       "topics": []
-    },
-    {
-      "key": "e828270db20b30535d8bdeff3cdcf0bd0d0baaf4",
-      "title": "Episode 6",
-      "published_at": "2020-10-23T08:33:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000nm09",
-      "description": "Jon Holmes's extraordinary Skewer returns to twist itself into these extraordinary times.",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08w41dc.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26944000",
-      "itunes_duration": "1684",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "a2fccbef1e52e0a8143cb31bb5e98839ccbc234a",
-      "title": "Episode 5",
-      "published_at": "2020-10-16T09:03:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000ncqg",
-      "description": "Jon Holmes's extraordinary Skewer returns to twist itself into these extraordinary times.",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08vgd3j.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26944000",
-      "itunes_duration": "1684",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "93999df608f5ef3430d4ba67db56ad68c79c7eac",
-      "title": "Episode 4",
-      "published_at": "2020-10-09T08:24:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000n492",
-      "description": "Jon Holmes's extraordinary Skewer returns to twist itself into these extraordinary times.",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08tt6hy.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26944000",
-      "itunes_duration": "1684",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "b8c762c2aef8ef4dff9553fc47c384929641d34e",
-      "title": "Episode 3",
-      "published_at": "2020-10-02T15:14:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000myxg",
-      "description": "Jon Holmes's extraordinary Skewer returns to twist itself into these extraordinary times.",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08t56f1.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26944000",
-      "itunes_duration": "1684",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "29f4a1926e62f8d04cf341d24280b05eb3fe4bde",
-      "title": "Episode 2",
-      "published_at": "2020-09-25T09:20:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000mqq2",
-      "description": "Jon Holmes's extraordinary Skewer returns to twist itself into these extraordinary times.",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08shw5d.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26944000",
-      "itunes_duration": "1684",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "67ada21648c5ca0e1875300b83759cae37165201",
-      "title": "Episode 1",
-      "published_at": "2020-09-18T09:20:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000mk3v",
-      "description": "Jon Holmes returns with the 'dizzying, dazzling' satirical river of sound. Topical satire like you've never heard before. The Skewer dances with the newsscape to unsettle and intoxicate. Series 1 won a Gold Award at the New York Festival, a British Podcast Award and a comedy award at the Audio Production Awards. Creator Jon Holmes combines award winning audio production and sound design with brand new audio talent to produce something quite unlike anything else. The show has an open door policy - anyone can contribute. The extraordinary Skewer is back to twist itself into these extraordinary times. Reviews of The Skewer's first series: 'An immersive, otherworldly river of sound. A freeform assault on the senses constituting a ludic yet deeply haunting collection of juicy quotes and well-placed soundbites from recent global bulletins, juxtaposed to form an eerily beautiful, discombobulating mosaic of political spin.' 'Holmes takes the newsscape as his playground, juggling countless noises and titbits from topical Brexit coverage to create a jarring, unsettling work specifically designed to be experienced immersively via headphones. A mind-boggling collage of extracts, interviews, and fragments of speech, it satirically defamiliarised the (all too) familiar, critiquing the Machiavellian nature of yah-boo politics.' ‘Cleverest thing on radio by at least 8 distances’. ‘The boldest thing I’ve heard on BBC Radio in years. A masterful piece of radio. Brilliant.’ ‘An audio rollercoaster. Magnificent. Give this all of the awards.’ ‘Mind-bogglingly brilliant and distressing. Intelligent, catchy and powerful.’ ‘I’d be quite happy to stop listening to the news and just listen to The Skewer.’ ‘Wonderful. It’s been a while since something was this engaging and listenable from start to finish.’ ‘Simply brilliant. Please listen to it. It’s the most incredible satire of current affairs I’ve ever heard.’ ‘Nightmarish. But – oh my God - in a good way.’ ‘Audio news drugs to medicate the strange world we live in.’ ‘There is just nothing like this out there. Brilliant songs, cutting edge satire. Compelling and you have to listen more than once. Evocative. Intoxicating. Incredibly original. Listen and listen again – you always hear something new.’ An Unusual production for BBC Radio 4",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08rvpcx.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26928000",
-      "itunes_duration": "1683",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
     }
   ]
 }
@@ -1793,9 +1697,3 @@
 - 2021-03-17 — Episode 10 — speakers: Jon Holmes
 - 2021-03-11 — Episode 9 — speakers: Jon Holmes
 - 2021-03-04 — Episode 8 — speakers: Jon Holmes
-- 2020-10-23 — Episode 6 — speakers: Jon Holmes
-- 2020-10-16 — Episode 5 — speakers: Jon Holmes
-- 2020-10-09 — Episode 4 — speakers: Jon Holmes
-- 2020-10-02 — Episode 3 — speakers: Jon Holmes
-- 2020-09-25 — Episode 2 — speakers: Jon Holmes
-- 2020-09-18 — Episode 1 — speakers: Jon Holmes
