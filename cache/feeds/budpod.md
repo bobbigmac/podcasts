@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-02-24T10:08:52+00:00`
-- checked_at: `2026-02-24T10:08:52+00:00`
-- etag: `"djEuMi4wOjE3NzE5MjQ1NzMxNjY="`
+- fetched_at: `2026-02-25T07:16:57+00:00`
+- checked_at: `2026-02-25T07:16:57+00:00`
+- etag: `"djEuMi4wOjE3NzE5OTkyOTkyNjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-02-24T10:08:52+00:00",
+  "fetched_at": "2026-02-25T07:16:57+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5e131d89e3cae78f3fdcac393bff52fae591465c",
+      "title": "S2E37 | Illness Cheese",
+      "published_at": "2026-02-25T06:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e37-illness-cheese",
+      "description": "This week the buds discuss robot Paddington, the BAFTAs controversy, Pierre's Venice trip and Dominos v Papa Johns! Watch the full episode on our YouTube channel here! Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Glenn is on tour across the UK! For tickets go to https://www.glennmoorecomedy.com/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is going on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/699d6c5d3a5156c5d2e84d26/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67725705",
+      "itunes_duration": "46:57",
+      "speakers": [
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "illness",
+        "cheese"
+      ]
+    },
     {
       "key": "4d9a1aab424b8df8fd23f53a26b203031b2d91fa",
       "title": "S2E36 | Prescription Jeans",
@@ -7471,6 +7491,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-25 — S2E37 | Illness Cheese — speakers: Phil Wang, Pierre Novellie
 - 2026-02-18 — S2E36 | Prescription Jeans — speakers: Phil Wang, Pierre Novellie
 - 2026-02-11 — S2E35 | Iron Dick — speakers: Iron Dick Full, Phil Wang, Pierre Novellie
 - 2026-02-04 — S2E34 | Pot of Egg — speakers: Egg Full, Phil Wang, Pierre Novellie

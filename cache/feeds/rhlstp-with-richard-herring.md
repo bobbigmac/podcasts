@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-02-24T21:51:13+00:00`
-- checked_at: `2026-02-24T21:51:13+00:00`
-- etag: `"djEuMi4wOjE3NzE5NjgwNDcyNzQ="`
+- fetched_at: `2026-02-25T07:16:57+00:00`
+- checked_at: `2026-02-25T07:16:57+00:00`
+- etag: `"djEuMi4wOjE3NzE5OTE4NTkzNzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-02-24T21:51:13+00:00",
+  "fetched_at": "2026-02-25T07:16:57+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "216e89707dba876aa3b68221bacb3013ae0ffef5",
+      "title": "RHLSTP 600 - Fatiha El-Ghorri",
+      "published_at": "2026-02-25T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #600 - Paul Hollywood Hand Shandy - Richard returns to the Leicester Comedy Festival and news has broken of his upcoming appearance on Bake Off and his starring role in a (slightly) off-West End play. His guest is the feisty, slightly scary, but soft-hearted Fatiha El-Ghorri. They talk about whether she got close to marrying Greg on Taskmaster, her fantasic comedy pilot Donkey https://www.youtube.com/watch?v=h3RJwtzKk2A , how and why Rich and Fatiha struck up a very close friendship on a recent secret TV appearance which won’t do either of their reputations any good, Fatiha’s new tour and why she sometimes does clean versions of the show, ghosts, learning lines, celebrities in the audience and going public with personal news. See Fatiha on tour https://www.ents24.com/uk/tour-dates/fatiha-el-ghorri SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1771444386208-eacff8f4-ff2d-466c-a248-4065bb402fa0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6995f8217012ce53764f4797/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33209302",
+      "itunes_duration": "1:01:51",
+      "speakers": [
+        "Fatiha El",
+        "Paul Hollywood Hand Shandy",
+        "Leicester Comedy Festival",
+        "Richard Herring"
+      ],
+      "topics": [
+        "fatiha",
+        "ghorri"
+      ]
+    },
     {
       "key": "b4a5e564c78d0904b059b62d9aa92eb304f3fed9",
       "title": "Retro RHLSTP 134 - Paul Chowdhry",
@@ -21534,6 +21556,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-25 — RHLSTP 600 - Fatiha El-Ghorri — speakers: Fatiha El, Paul Hollywood Hand Shandy, Leicester Comedy Festival, Richard Herring
 - 2026-02-23 — Retro RHLSTP 134 - Paul Chowdhry — speakers: Paul Chowdhry, Richard Herring
 - 2026-02-21 — RAACN week 4 — speakers: Richard Herring
 - 2026-02-20 — RHLSTP Book Club 170 - Fergus Craig — speakers: Craig Rhl, Richard Herring

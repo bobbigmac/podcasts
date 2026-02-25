@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-02-24T03:14:34+00:00`
-- checked_at: `2026-02-24T03:14:34+00:00`
-- last_modified: `Mon, 23 Feb 2026 22:38:16 GMT`
+- fetched_at: `2026-02-25T07:16:57+00:00`
+- checked_at: `2026-02-25T07:16:57+00:00`
+- last_modified: `Wed, 25 Feb 2026 05:37:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-24T03:14:34+00:00",
+  "fetched_at": "2026-02-25T07:16:57+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8eb9add6ad1d276f6be3c9e99294f0c87ead4f3b",
+      "title": "Please Keep Me Anonymous with Sara Pascoe",
+      "published_at": "2026-02-25T05:30:00+00:00",
+      "link": null,
+      "description": "The brilliant comedian, podcaster and writer Sara Pascoe joins Chris and Rosie on today's Please Keep Me Anonymous. They discuss Book-Tok, coming to trends late, their first ever stand up kids and how life (and work) changes once you have kids! Sara also reads a very funny story from a SMA! You can catch Sara on tour with her show I Am a Strange Gloop, for tickets visit sarapascoe.co.uk/tickets Sara's podcast Weirdos Book Club which she hosts with Cariad Lloyd is available wherever you get your podcasts and you can even catch them in person at The Crossed Wires Festival. Visit crossedwires.live/podcast/weirdos-book-club for tickets If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b0697d56-10d7-11f1-8cd3-3f537ef5ec9d/image/93e273a6e6b53b17d465e24e7a7fbb82.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2063944579.mp3?updated=1771868876",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2996",
+      "speakers": [
+        "Sara Pascoe",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "sara",
+        "pascoe"
+      ]
+    },
     {
       "key": "a3ed565a452640e87307f2d317501de96e94965e",
       "title": "Emotions run high watching Lewis Capaldi and Chris has an awkward encounter with a Taxi driver",
@@ -7788,6 +7810,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-25 — Please Keep Me Anonymous with Sara Pascoe — speakers: Sara Pascoe, Chris Ramsey, Rosie Ramsey
 - 2026-02-20 — Emotions run high watching Lewis Capaldi and Chris has an awkward encounter with a Taxi driver — speakers: Lewis Capaldi, Chris Ramsey, Rosie Ramsey
 - 2026-02-18 — Please Keep Me Anonymous with Chris McCausland — speakers: Chris McCausland, Anonymous Chris, Chris Ramsey, Rosie Ramsey
 - 2026-02-13 — The reverse ick, a lost moon cup and why Rosie's alright for a safari — speakers: Chris Ramsey, Rosie Ramsey
