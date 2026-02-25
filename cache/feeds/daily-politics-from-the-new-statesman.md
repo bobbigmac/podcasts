@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-02-24T19:18:04+00:00`
-- checked_at: `2026-02-24T19:18:04+00:00`
-- etag: `"djEuMi4wOjE3NzE5NTMwMzMyMTk="`
+- fetched_at: `2026-02-25T19:20:09+00:00`
+- checked_at: `2026-02-25T19:20:09+00:00`
+- etag: `"djEuMi4wOjE3NzIwNDE3NDAyMDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-02-24T19:18:04+00:00",
+  "fetched_at": "2026-02-25T19:20:09+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "bd70b1cefac52d0d460b5ef81a91dc1de71567aa",
+      "title": "Andrew, Epstein and the crumbling crown",
+      "published_at": "2026-02-25T16:48:59+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/andrew-epstein-and-the-crumbling-crown",
+      "description": "Last Thursday, Andrew Mountbatten-Windsor, was arrested on suspicion of misconduct in public office. He has since been released under investigation. The police have searched Andrew’s former home, Royal Lodge. The former Prince’s relationship to convicted paedophile Jeffrey Epstein is triggering a reckoning for not just Andrew, but the monarchy itself. Oli Dugmore is joined by Will Lloyd to discuss. SAVE £££ THIS CHRISTMAS: ⭐️ Gift big ideas, bold politics, and proper journalism from just £2 LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772038012838-857700c6-1bab-4fbd-a254-8b72d853ebf2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/699f27fbfa5595772245c47e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96301187",
+      "itunes_duration": "40:04",
+      "speakers": [
+        "Andrew Mountbatten-Windsor",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andrew",
+        "epstein",
+        "crown"
+      ]
+    },
     {
       "key": "8454f463bee1d2a3487dfb1e804043bc0dd23016",
       "title": "A three horse race in Gorton and Denton",
@@ -30142,6 +30164,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-25 — Andrew, Epstein and the crumbling crown — speakers: Andrew Mountbatten-Windsor, Anoosh Chakelian, Oli Dugmore
 - 2026-02-24 — A three horse race in Gorton and Denton — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-02-23 — What if Russia wins? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-02-21 — Labour Together’s attack on press freedom — speakers: Labour Together, Anoosh Chakelian, Oli Dugmore
