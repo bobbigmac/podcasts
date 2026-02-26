@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-02-23T03:19:38+00:00`
-- checked_at: `2026-02-23T03:19:38+00:00`
-- last_modified: `Sun, 22 Feb 2026 22:46:35 GMT`
+- fetched_at: `2026-02-26T03:11:10+00:00`
+- checked_at: `2026-02-26T03:11:10+00:00`
+- last_modified: `Thu, 26 Feb 2026 00:06:54 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T03:19:38+00:00",
+  "fetched_at": "2026-02-26T03:11:10+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -30,6 +30,31 @@
   ],
   "episodes": [
     {
+      "key": "07748a3d63fe90f7b870c49b8495f2848e3120ff",
+      "title": "The Sound Effect: The Best and Worst Game Audio",
+      "published_at": "2026-02-26T00:00:00+00:00",
+      "link": null,
+      "description": "Banging on your eardrums and vibrating your vestibular nerves, it's this week's episode of Button Boys so listen closely, as the topic is sounds. Sounds good, sounds bad, sounds you'll never forget. There are squelches, pings and rattles aplenty, and for the detectives amongst you, a little quiz at the end. But first, we catch up on what the gang are up to: Sarah's a little lost in the weeds with Expedition 33, Pierre's experiencing life as a mum through the medium of sci-fi grand strategy and Glenn has never watched Bedknobs and Broomsticks. Ever. Like, not once. To follow along with the Button Boys outside the podcast: Pierre - ⁠ You Sit There, I’ll Stand Here⁠ Glenn - ⁠Please Sir, Glenn I Have Some Moore Glenn and Producer Ben - ⁠ The Audience VS ⁠ ⁠Sarah's Melbourne Show⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Clair Obscur: Expedition 33 Nioh 3 Neopets Nioh Terra Invicta EVE Online Dark Souls Dark Souls II Dark Souls III Bloodborne Elden Ring Age of Empires II: The Age of Kings Blue Prince The Last of Us The Legend of Zelda: Tears of the Kingdom The Legend of Zelda: Breath of the Wild Desperados: Wanted Dead or Alive Demon's Souls Wolfenstein II: The New Colossus LittleBigPlanet Abe's Oddysee Abe's Exoddus Hell Let Loose God of War P.T. Dorfromantik Red Dead Redemption 2 Cyberpunk 2077 Bioshock Infinite The Sinking City Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4116859705.mp3?updated=1771800689",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3214",
+      "speakers": [
+        "Worst Game Audio Banging",
+        "Button Bo",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "effect",
+        "worst",
+        "game",
+        "audio"
+      ]
+    },
+    {
       "key": "574406b18cebb96af1055e438aa27333d1110bf6",
       "title": "Mobile Ports: Phoning It In",
       "published_at": "2026-02-19T00:00:00+00:00",
@@ -41,14 +66,10 @@
       "enclosure_length": "0",
       "itunes_duration": "3462",
       "speakers": [
-        "Producer Ben",
-        "Melbourne Show",
-        "Games Mentioned",
-        "Flappy Bird",
-        "Wars Fortnite",
-        "City Hitman",
-        "Ben Drayton Learn",
-        "Glenn Moore"
+        "Mobile Ports",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
       ],
       "topics": [
         "mobile",
@@ -68,10 +89,6 @@
       "itunes_duration": "3255",
       "speakers": [
         "Valentine’s Special Eat",
-        "Producer Ben",
-        "Melbourne Show",
-        "Games Mentioned",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -95,11 +112,11 @@
       "enclosure_length": "0",
       "itunes_duration": "2816",
       "speakers": [
+        "Never Done",
+        "Button Boys",
         "Glenn Moore",
         "Sarah Keyworth",
-        "Pierre Novellie",
-        "Games Mentioned",
-        "Ben Drayton Learn"
+        "Pierre Novellie"
       ],
       "topics": [
         "thing",
@@ -119,10 +136,6 @@
       "itunes_duration": "3424",
       "speakers": [
         "Demo Discs",
-        "Games Mentioned",
-        "Nightmares Baldur",
-        "MediEvil Crash",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -145,10 +158,6 @@
       "itunes_duration": "3366",
       "speakers": [
         "Button Boys",
-        "Melbourne Show",
-        "Games Mentioned",
-        "Yōtei Uncharted",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -170,9 +179,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3391",
       "speakers": [
-        "Mutton Toys",
-        "Games Mentioned",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -194,9 +200,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4199",
       "speakers": [
-        "Games Mentioned",
-        "Strike Blitzkrieg Sudden Strike",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -219,8 +222,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1964",
       "speakers": [
-        "Split Fiction",
-        "Ben Drayton Learn",
+        "Hidden Cac",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -244,9 +246,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2848",
       "speakers": [
-        "Games Mentioned",
-        "Pokémon Yellow Grand",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -270,13 +269,9 @@
       "itunes_duration": "3571",
       "speakers": [
         "Award Ceremony Welcome",
-        "Games Mentioned",
-        "Katamari Damacy Slay",
-        "Yōtei Absolum",
-        "Silksong Kingdom",
-        "Ben Drayton Learn",
         "Glenn Moore",
-        "Sarah Keyworth"
+        "Sarah Keyworth",
+        "Pierre Novellie"
       ],
       "topics": [
         "butties",
@@ -296,10 +291,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2581",
       "speakers": [
-        "Button Boys",
-        "Pippa Funnell Playthrough",
-        "Games Mentioned",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -323,10 +314,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3611",
       "speakers": [
-        "Games Mentioned",
-        "Creed Odyssey",
-        "Skyrim Animal Crossing",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -349,14 +336,11 @@
       "enclosure_length": "0",
       "itunes_duration": "3232",
       "speakers": [
-        "Games Mentioned",
-        "Figment Baldur",
-        "Crusader Kings",
-        "Victoria Hearts",
-        "Abzû Sword",
-        "Ben Drayton Learn",
+        "Gateway Games",
+        "Wololo After",
         "Glenn Moore",
-        "Sarah Keyworth"
+        "Sarah Keyworth",
+        "Pierre Novellie"
       ],
       "topics": [
         "gateway",
@@ -377,8 +361,6 @@
       "itunes_duration": "2784",
       "speakers": [
         "Button Boy",
-        "Games Mentioned",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -400,10 +382,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2816",
       "speakers": [
-        "Games Mentioned",
-        "Sid Meier",
-        "Soul Ryse Son",
-        "Ben Drayton Learn",
+        "Button Boys",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -424,9 +403,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3416",
       "speakers": [
-        "Games Mentioned",
-        "Stronghold Produced",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -450,9 +426,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3808",
       "speakers": [
-        "Games Mentioned",
-        "Mundaun Alien",
-        "Ben Drayton Learn",
+        "video games",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -475,8 +449,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3649",
       "speakers": [
-        "Games Mentioned",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -500,9 +472,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3646",
       "speakers": [
-        "Games Mentioned",
-        "Bennett Foddy Crash Bandicoot",
-        "Ben Drayton Learn",
+        "Unforgettable Sequences Buckle",
+        "Button Boys",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -524,10 +495,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4129",
       "speakers": [
-        "Mother Nature",
-        "Games Mentioned",
-        "Skyrim Death Stranding Shadow",
-        "Ben Drayton Learn",
+        "Call Button Boys Bangers",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -551,10 +519,6 @@
       "itunes_duration": "3380",
       "speakers": [
         "Greatest Gaming Hubs",
-        "Games Mentioned",
-        "Silksong Alan Wake",
-        "Sackboy Astro Bot",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -579,9 +543,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3207",
       "speakers": [
-        "Games Mentioned",
-        "Wonder Medal",
-        "Ben Drayton Learn",
+        "Button Boys",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -604,9 +566,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3906",
       "speakers": [
-        "Games Mentioned",
-        "Miles Morales Demon",
-        "Ben Drayton Learn",
+        "Hype Train",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -630,9 +590,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3469",
       "speakers": [
-        "Games Mentioned",
-        "Tony Hawk",
-        "Ben Drayton Learn",
+        "Imposed Rules",
+        "Mistake Another",
+        "Button Boys",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -656,9 +616,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4040",
       "speakers": [
-        "Games Mentioned",
-        "Bennett Foddy Qwop Hollow",
-        "Ben Drayton Learn",
+        "Autumn Edition Dear Button",
+        "Boys Listeners",
+        "Button Boys Taste Test",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -682,9 +642,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3478",
       "speakers": [
-        "Games Mentioned",
-        "Hunter Wilds",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -705,10 +662,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2946",
       "speakers": [
-        "Games Mentioned",
-        "Red Dead",
-        "Wukong Assassin",
-        "Ben Drayton Learn",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -731,8 +684,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3091",
       "speakers": [
-        "Games Mentioned",
-        "Ben Drayton Learn",
+        "Memory Wipe",
+        "First Time Do",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -755,14 +708,10 @@
       "enclosure_length": "0",
       "itunes_duration": "3143",
       "speakers": [
-        "Games Mentioned",
-        "Dark Souls James Bond",
-        "Jedi Survivor",
-        "Garfield Dizzy",
-        "Golden Axe Streets",
-        "Sekiro Famous",
-        "Ben Drayton Learn",
-        "Glenn Moore"
+        "Button Boys",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
       ],
       "topics": [
         "games",
@@ -781,8 +730,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3211",
       "speakers": [
-        "Games Mentioned",
-        "Ben Drayton Learn",
+        "Button Boys",
         "Glenn Moore",
         "Sarah Keyworth",
         "Pierre Novellie"
@@ -807,8 +755,7 @@
       "speakers": [
         "Glenn Moore",
         "Sarah Keyworth",
-        "Pierre Novellie",
-        "Ben Drayton Learn"
+        "Pierre Novellie"
       ],
       "topics": [
         "gaps",
@@ -830,8 +777,7 @@
       "speakers": [
         "Glenn Moore",
         "Sarah Keyworth",
-        "Pierre Novellie",
-        "Ben Drayton Learn"
+        "Pierre Novellie"
       ],
       "topics": [
         "tutorial"
@@ -844,35 +790,36 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Mobile Ports: Phoning It In — speakers: Producer Ben, Melbourne Show, Games Mentioned, Flappy Bird, Wars Fortnite, City Hitman, Ben Drayton Learn, Glenn Moore
-- 2026-02-12 — Valentine’s Special: Eat, Play, Love — speakers: Valentine’s Special Eat, Producer Ben, Melbourne Show, Games Mentioned, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2026-02-05 — The Things In Games You’ve Never Done IRL — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie, Games Mentioned, Ben Drayton Learn
-- 2026-01-29 — Demo Discs: Just the Tip? — speakers: Demo Discs, Games Mentioned, Nightmares Baldur, MediEvil Crash, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2026-01-22 — Cheats and Cheeses: Are They Ever Justified? — speakers: Button Boys, Melbourne Show, Games Mentioned, Yōtei Uncharted, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2026-01-15 — Gaming Gaps 2: The Reckoning — speakers: Mutton Toys, Games Mentioned, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2026-01-08 — The Prediction Game: 2026 Edition — speakers: Games Mentioned, Strike Blitzkrieg Sudden Strike, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2026-01-01 — Hidden Cache - The Butties Afterparty — speakers: Split Fiction, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-12-25 — A Very Button Boys Christmas — speakers: Games Mentioned, Pokémon Yellow Grand, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-12-18 — The Butties 2025 Award Ceremony — speakers: Award Ceremony Welcome, Games Mentioned, Katamari Damacy Slay, Yōtei Absolum, Silksong Kingdom, Ben Drayton Learn, Glenn Moore, Sarah Keyworth
-- 2025-12-11 — Resurrect, Reboot and Remaster: The Series Crying Out for a Revival — speakers: Button Boys, Pippa Funnell Playthrough, Games Mentioned, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-12-04 — Virtually in Love: Our Biggest Gaming Crushes — speakers: Games Mentioned, Creed Odyssey, Skyrim Animal Crossing, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-11-27 — Gateway Games: How to Wololo — speakers: Games Mentioned, Figment Baldur, Crusader Kings, Victoria Hearts, Abzû Sword, Ben Drayton Learn, Glenn Moore, Sarah Keyworth
-- 2025-11-20 — Game Shame: How it Feels and What to Do About It — speakers: Button Boy, Games Mentioned, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-11-13 — Sandbox v1 — speakers: Games Mentioned, Sid Meier, Soul Ryse Son, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-11-06 — Cosy Games: Free Hygges for Everyone — speakers: Games Mentioned, Stronghold Produced, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-10-29 — The Biggest Spooks: A Halloween Special — speakers: Games Mentioned, Mundaun Alien, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-10-22 — Dastardly Deeds: Our Darkest Confessions — speakers: Games Mentioned, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-10-15 — Unforgettable Sequences — speakers: Games Mentioned, Bennett Foddy Crash Bandicoot, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-10-08 — Now That's What I Call Button Boys Bangers! — speakers: Mother Nature, Games Mentioned, Skyrim Death Stranding Shadow, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-10-01 — Greatest Gaming Hubs: You Don’t Need Plumbing to Have a Toilet — speakers: Greatest Gaming Hubs, Games Mentioned, Silksong Alan Wake, Sackboy Astro Bot, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-09-24 — Introduction to Gaming: The Early Years — speakers: Games Mentioned, Wonder Medal, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-09-17 — Boarding the Hype Train: The Highs and Lows — speakers: Games Mentioned, Miles Morales Demon, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-09-10 — Self-Imposed Rules: Love is a Mistake — speakers: Games Mentioned, Tony Hawk, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-09-03 — The Prediction Game: Autumn Edition — speakers: Games Mentioned, Bennett Foddy Qwop Hollow, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-08-27 — Yes Please Moments: Swinging like a Nazgûl — speakers: Games Mentioned, Hunter Wilds, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-08-20 — Character Creators: There Goes Ol’ Smoothballs — speakers: Games Mentioned, Red Dead, Wukong Assassin, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-08-13 — Memory Wipe: Reliving the First Time — speakers: Games Mentioned, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-08-07 — Games That You Rage Quit and Are Still Haunted By — speakers: Games Mentioned, Dark Souls James Bond, Jedi Survivor, Garfield Dizzy, Golden Axe Streets, Sekiro Famous, Ben Drayton Learn, Glenn Moore
-- 2025-07-30 — The Tamest Games that Made Us Pee Our Pants — speakers: Games Mentioned, Ben Drayton Learn, Glenn Moore, Sarah Keyworth, Pierre Novellie
-- 2025-07-23 — Gaming Gaps: A Shame Amnesty — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie, Ben Drayton Learn
-- 2025-07-16 — Tutorial — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie, Ben Drayton Learn
+- 2026-02-26 — The Sound Effect: The Best and Worst Game Audio — speakers: Worst Game Audio Banging, Button Bo, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-02-19 — Mobile Ports: Phoning It In — speakers: Mobile Ports, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-02-12 — Valentine’s Special: Eat, Play, Love — speakers: Valentine’s Special Eat, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-02-05 — The Things In Games You’ve Never Done IRL — speakers: Never Done, Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-01-29 — Demo Discs: Just the Tip? — speakers: Demo Discs, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-01-22 — Cheats and Cheeses: Are They Ever Justified? — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-01-15 — Gaming Gaps 2: The Reckoning — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-01-08 — The Prediction Game: 2026 Edition — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-01-01 — Hidden Cache - The Butties Afterparty — speakers: Hidden Cac, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-12-25 — A Very Button Boys Christmas — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-12-18 — The Butties 2025 Award Ceremony — speakers: Award Ceremony Welcome, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-12-11 — Resurrect, Reboot and Remaster: The Series Crying Out for a Revival — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-12-04 — Virtually in Love: Our Biggest Gaming Crushes — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-11-27 — Gateway Games: How to Wololo — speakers: Gateway Games, Wololo After, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-11-20 — Game Shame: How it Feels and What to Do About It — speakers: Button Boy, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-11-13 — Sandbox v1 — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-11-06 — Cosy Games: Free Hygges for Everyone — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-10-29 — The Biggest Spooks: A Halloween Special — speakers: video games, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-10-22 — Dastardly Deeds: Our Darkest Confessions — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-10-15 — Unforgettable Sequences — speakers: Unforgettable Sequences Buckle, Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-10-08 — Now That's What I Call Button Boys Bangers! — speakers: Call Button Boys Bangers, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-10-01 — Greatest Gaming Hubs: You Don’t Need Plumbing to Have a Toilet — speakers: Greatest Gaming Hubs, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-09-24 — Introduction to Gaming: The Early Years — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-09-17 — Boarding the Hype Train: The Highs and Lows — speakers: Hype Train, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-09-10 — Self-Imposed Rules: Love is a Mistake — speakers: Imposed Rules, Mistake Another, Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-09-03 — The Prediction Game: Autumn Edition — speakers: Autumn Edition Dear Button, Boys Listeners, Button Boys Taste Test, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-08-27 — Yes Please Moments: Swinging like a Nazgûl — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-08-20 — Character Creators: There Goes Ol’ Smoothballs — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-08-13 — Memory Wipe: Reliving the First Time — speakers: Memory Wipe, First Time Do, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-08-07 — Games That You Rage Quit and Are Still Haunted By — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-07-30 — The Tamest Games that Made Us Pee Our Pants — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-07-23 — Gaming Gaps: A Shame Amnesty — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2025-07-16 — Tutorial — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie

@@ -2,10 +2,10 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `W/"c860c-w9G+fKfiwW0oD1fOvpVDEkprm4k"`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-26T03:11:10+00:00`
+- checked_at: `2026-02-26T03:11:10+00:00`
+- etag: `W/"c860c-rxReBnFyGxpAZoNLIBFQlBgafs0"`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,11 @@
   "link": "https://bossrush.net/",
   "description": "Xbox Casuals is a biweekly podcast dedicated to everything Xbox, brought to you by Tower Casuals and Boss Rush Media. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Catch new episodes every other Friday on all major podcast platforms and on YouTube via the Tower Casuals channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1754277624394-2c1d8fced3054.jpg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-26T03:11:10+00:00",
+  "owners": [
+    "Corey Dirrig",
+    "Josh Finney"
+  ],
   "common_speakers": [],
   "categories": [
     "entertainment"
@@ -36,9 +39,10 @@
       "enclosure_length": "86113613",
       "itunes_duration": "01:11:45",
       "speakers": [
+        "Can Xbox Deliver",
+        "Xbox Casuals",
         "Corey Dirrig",
-        "Josh Finney",
-        "Forza Horizon"
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -63,8 +67,7 @@
       "itunes_duration": "01:41:46",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Forza Horizon"
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -111,8 +114,7 @@
       "itunes_duration": "01:42:22",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Boss Rush Media"
+        "Josh Finney"
       ],
       "topics": [
         "game",
@@ -133,7 +135,12 @@
       "enclosure_length": "78775295",
       "itunes_duration": "01:05:38",
       "speakers": [
-        "Boss Rush Media"
+        "Xbox Ally",
+        "Makes Xbox",
+        "Messaging Much More Complicated",
+        "Xbox Casuals",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -152,9 +159,8 @@
       "enclosure_length": "126796193",
       "itunes_duration": "01:45:39",
       "speakers": [
-        "Gemma Chan",
-        "Mario Tennis",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "tokyo",
@@ -178,8 +184,7 @@
       "speakers": [
         "Will Xbox Show Off",
         "Josh Finney",
-        "Forza Horizon",
-        "Boss Rush Media"
+        "Corey Dirrig"
       ],
       "topics": [
         "xbox",
@@ -200,9 +205,8 @@
       "itunes_duration": "01:59:46",
       "speakers": [
         "Xbox Shows Big",
-        "Cloud Chamber",
-        "Rod Fergusson",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -225,9 +229,8 @@
       "itunes_duration": "01:47:41",
       "speakers": [
         "Rod Fergusson",
-        "Josh Finney",
-        "Satya Nadella",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -252,12 +255,8 @@
       "itunes_duration": "01:51:42",
       "speakers": [
         "Xbox Partners",
-        "Project Blackbird",
-        "Josh Finney",
         "Corey Dirrig",
-        "Blade Runner",
-        "Matt Firor",
-        "Crash Bandicoot"
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -279,10 +278,8 @@
       "enclosure_length": "83481516",
       "itunes_duration": "01:09:33",
       "speakers": [
-        "Josh Finney",
         "Corey Dirrig",
-        "Project Blackbird",
-        "Forza Motorsport"
+        "Josh Finney"
       ],
       "topics": [
         "perfect",
@@ -305,7 +302,9 @@
       "enclosure_length": "109883474",
       "itunes_duration": "01:31:33",
       "speakers": [
-        "Summer Showcase"
+        "Summer Showcase",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -326,7 +325,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "131181629",
       "itunes_duration": "01:49:18",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "state",
         "play",
@@ -349,7 +351,9 @@
       "itunes_duration": "01:39:33",
       "speakers": [
         "Art Debacle",
-        "Xbox Wins"
+        "Xbox Wins",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "game",
@@ -374,7 +378,8 @@
       "enclosure_length": "118384242",
       "itunes_duration": "01:38:39",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -396,8 +401,8 @@
       "enclosure_length": "108692291",
       "itunes_duration": "01:30:34",
       "speakers": [
-        "Nintendo Switch",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -421,7 +426,8 @@
       "speakers": [
         "Summer Showcase",
         "Nintendo Switch",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -445,7 +451,8 @@
       "itunes_duration": "02:08:15",
       "speakers": [
         "Xbox UI",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "steam",
@@ -465,9 +472,8 @@
       "itunes_duration": "01:27:06",
       "speakers": [
         "Xbox Handheld Incoming",
-        "Tony Hawk Oblivion",
-        "Monster Hunter",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -490,7 +496,8 @@
       "speakers": [
         "Tony Hawk Rides Again",
         "Tony Hawk",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "tony",
@@ -510,7 +517,8 @@
       "enclosure_length": "113540659",
       "itunes_duration": "01:34:36",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "impressions",
@@ -531,7 +539,8 @@
       "enclosure_length": "122259810",
       "itunes_duration": "01:41:52",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -551,7 +560,8 @@
       "enclosure_length": "57751468",
       "itunes_duration": "00:48:07",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -571,7 +581,8 @@
       "enclosure_length": "148935532",
       "itunes_duration": "02:04:06",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -592,8 +603,8 @@
       "enclosure_length": "156980724",
       "itunes_duration": "02:10:48",
       "speakers": [
-        "Indiana Jones",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "indiana",
@@ -618,7 +629,8 @@
       "speakers": [
         "Phil Spencer Spills",
         "Phil Spencer",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "phil",
@@ -642,7 +654,8 @@
       "enclosure_length": "111998390",
       "itunes_duration": "01:33:19",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "perfect",
@@ -666,7 +679,8 @@
       "enclosure_length": "59483386",
       "itunes_duration": "00:49:34",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -687,7 +701,8 @@
       "enclosure_length": "124904969",
       "itunes_duration": "01:44:05",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -708,7 +723,8 @@
       "itunes_duration": "01:50:20",
       "speakers": [
         "Sarah Bond",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "layoffs",
@@ -731,7 +747,8 @@
       "speakers": [
         "Story Time",
         "Phil Spencer",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "story",
@@ -754,7 +771,8 @@
       "enclosure_length": "183218271",
       "itunes_duration": "01:33:45",
       "speakers": [
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "gamescom",
@@ -778,9 +796,8 @@
       "enclosure_length": "99885933",
       "itunes_duration": "01:23:14",
       "speakers": [
-        "Game Informer",
-        "Twitter Bluesky Discord",
-        "Boss Rush Media"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -802,7 +819,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80701606",
       "itunes_duration": "01:07:14",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "xbox",
         "game",
@@ -823,8 +843,7 @@
       "speakers": [
         "Summer Showcase",
         "Corey Dirrig",
-        "Josh Finney",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -848,8 +867,7 @@
       "speakers": [
         "Xbox Showcase Predictions",
         "Corey Dirrig",
-        "Josh Finney",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "hellblade",
@@ -873,7 +891,9 @@
       "speakers": [
         "Xbox Closes",
         "Tango Gameworks",
-        "Arkane Austin"
+        "Arkane Austin",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -896,7 +916,9 @@
       "enclosure_length": "90728447",
       "itunes_duration": "01:15:36",
       "speakers": [
-        "Fallout Explodes"
+        "Fallout Explodes",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "fallout",
@@ -918,7 +940,9 @@
       "enclosure_length": "100254259",
       "itunes_duration": "01:23:32",
       "speakers": [
-        "Sarah Bond"
+        "Sarah Bond",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "sarah",
@@ -943,7 +967,9 @@
       "itunes_duration": "01:29:20",
       "speakers": [
         "Phil Spencer Celebrates",
-        "Phil Spencer"
+        "Phil Spencer",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "phil",
@@ -966,8 +992,7 @@
       "itunes_duration": "01:23:59",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "thieves",
@@ -1015,8 +1040,7 @@
       "itunes_duration": "01:16:22",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "email",
@@ -1039,8 +1063,7 @@
       "itunes_duration": "01:44:36",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "xbox"
@@ -1059,8 +1082,7 @@
       "itunes_duration": "02:55:28",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "game",
@@ -1082,8 +1104,7 @@
       "itunes_duration": "01:43:43",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "grand",
@@ -1132,9 +1153,7 @@
       "speakers": [
         "Sarah Bond",
         "Corey Dirrig",
-        "Josh Finney",
-        "Email Us",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "sarah",
@@ -1189,9 +1208,7 @@
       "itunes_duration": "01:37:44",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Josh Finney",
-        "Instagram Email",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "activision",
@@ -1219,9 +1236,7 @@
       "speakers": [
         "Xbox Leaks",
         "Corey Dirrig",
-        "Instagram Josh Finney",
-        "Instagram Email",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "massive",
@@ -1246,9 +1261,7 @@
       "itunes_duration": "01:39:56",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Josh Finney",
-        "Instagram Email",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "starfield",
@@ -1275,9 +1288,7 @@
       "speakers": [
         "Phil Spencer",
         "Corey Dirrig",
-        "Instagram Josh Finney",
-        "Instagram Email",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "baldur",
@@ -1302,9 +1313,7 @@
       "itunes_duration": "01:49:19",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Josh Finney",
-        "Instagram Email",
-        "Follow Tower"
+        "Josh Finney"
       ],
       "topics": [
         "tmnt",
@@ -1331,8 +1340,7 @@
       "speakers": [
         "Xbox Arsenal",
         "Corey Dirrig",
-        "Josh Finney",
-        "Instagram Josh Finney"
+        "Josh Finney"
       ],
       "topics": [
         "final",
@@ -1359,9 +1367,7 @@
       "itunes_duration": "01:22:58",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Larry Herb",
-        "Instagram Josh Finney"
+        "Josh Finney"
       ],
       "topics": [
         "goodbye",
@@ -1385,7 +1391,9 @@
       "speakers": [
         "Elder Scrolls",
         "Fallout Producer Jeff Gardiner",
-        "Jeff Gardiner"
+        "Jeff Gardiner",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "spotlight",
@@ -1412,8 +1420,7 @@
       "itunes_duration": "02:21:37",
       "speakers": [
         "Corey Dirrig",
-        "Josh Finney",
-        "Instagram Josh Finney"
+        "Josh Finney"
       ],
       "topics": [
         "activision",
@@ -1435,10 +1442,7 @@
       "speakers": [
         "Xbox Showcase",
         "Josh Finney",
-        "Corey Dirrig",
-        "Instagram Josh Finney",
-        "Instagram Boss Rush",
-        "Xbox Arsenal"
+        "Corey Dirrig"
       ],
       "topics": [
         "xbox",
@@ -1461,7 +1465,7 @@
       "itunes_duration": "02:10:46",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "modern",
@@ -1482,7 +1486,7 @@
       "itunes_duration": "02:06:35",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "sony",
@@ -1503,7 +1507,7 @@
       "itunes_duration": "02:02:34",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -1527,9 +1531,9 @@
       "speakers": [
         "Blizzard IP",
         "Xbox Game Draft",
-        "Activision Blizzard",
+        "Activision Blizzard ga",
         "Corey Dirrig",
-        "Instagram Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "activision",
@@ -1552,13 +1556,8 @@
       "itunes_duration": "00:46:36",
       "speakers": [
         "Activision Blizzard",
-        "Xbox Wire",
-        "Xbox Gaming",
-        "Phil Spencer",
-        "Raven Software",
         "Corey Dirrig",
-        "Instagram Stoy Jovic",
-        "Twitter Josh Finney"
+        "Josh Finney"
       ],
       "topics": [
         "microsoft",
@@ -1580,10 +1579,7 @@
       "itunes_duration": "01:55:44",
       "speakers": [
         "Josh Finney",
-        "Corey Dirrig",
-        "Instagram Stoy Jovic",
-        "Twitter Josh Finney",
-        "Twitter Follow"
+        "Corey Dirrig"
       ],
       "topics": [
         "xbox",
@@ -1608,12 +1604,8 @@
       "speakers": [
         "Ubisoft Plus",
         "Jedi Fallen Order",
-        "Wars Jedi Fallen Order",
         "Corey Dirrig",
-        "Instagram Stoy Jovic",
-        "Twitter LeRon Dawkins",
-        "Twitch Stephanie Klimov",
-        "Twitter Follow"
+        "Josh Finney"
       ],
       "topics": [
         "goes",
@@ -1638,9 +1630,7 @@
       "itunes_duration": "02:20:17",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Jesse Douglas",
-        "Twitter Instagram",
-        "Twitch Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "xbox"
@@ -1658,11 +1648,9 @@
       "enclosure_length": "175988616",
       "itunes_duration": "02:21:39",
       "speakers": [
-        "Assassin’s Creed",
+        "Assassin’s Cr",
         "Corey Dirrig",
-        "Instagram Jesse Douglas",
-        "Twitter Instagram",
-        "Twitch Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -1683,9 +1671,7 @@
       "itunes_duration": "02:35:21",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Jesse Douglas",
-        "Twitter Instagram",
-        "Twitch Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "hellblade",
@@ -1709,11 +1695,8 @@
       "enclosure_length": "114076480",
       "itunes_duration": "01:57:33",
       "speakers": [
-        "Vince Zampella",
         "Corey Dirrig",
-        "Instagram Jesse Douglas",
-        "Twitter Instagram",
-        "Twitch Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "thieves",
@@ -1735,11 +1718,8 @@
       "enclosure_length": "145744032",
       "itunes_duration": "02:29:58",
       "speakers": [
-        "Xbox GamePass",
         "Corey Dirrig",
-        "Instagram Jesse Douglas",
-        "Twitter Instagram",
-        "Twitch Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "game",
@@ -1765,9 +1745,7 @@
       "itunes_duration": "02:31:48",
       "speakers": [
         "Corey Dirrig",
-        "Instagram Jesse Douglas",
-        "Twitter Instagram",
-        "Twitch Stoy Jovic"
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -1788,10 +1766,8 @@
       "enclosure_length": "75882227",
       "itunes_duration": "00:38:56",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy",
-        "Stephanie Klimov"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -1815,9 +1791,8 @@
       "itunes_duration": "02:25:35",
       "speakers": [
         "Forza Horizon",
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "compulsion",
@@ -1840,11 +1815,9 @@
       "enclosure_length": "133051080",
       "itunes_duration": "01:50:46",
       "speakers": [
-        "Forza Horizon",
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy",
-        "Stephanie Klimov"
+        "Forza Ho",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "forza",
@@ -1866,9 +1839,8 @@
       "enclosure_length": "152423256",
       "itunes_duration": "02:01:01",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -1889,7 +1861,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "158773512",
       "itunes_duration": "02:08:55",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "xbox",
         "arsenal",
@@ -1909,9 +1884,8 @@
       "itunes_duration": "01:59:40",
       "speakers": [
         "Fantasy Xiv",
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "fifa",
@@ -1938,9 +1912,8 @@
         "Gta Remastered",
         "Spooky Games",
         "Unannounced Roadmap",
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "remastered",
@@ -1963,9 +1936,8 @@
       "enclosure_length": "132289392",
       "itunes_duration": "01:59:21",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "tokyo",
@@ -1989,10 +1961,8 @@
       "itunes_duration": "01:55:19",
       "speakers": [
         "More Tomb Raider",
-        "Alan Wake",
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "tomb",
@@ -2015,9 +1985,8 @@
       "enclosure_length": "96403824",
       "itunes_duration": "01:37:53",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "microsoft",
@@ -2037,7 +2006,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117397944",
       "itunes_duration": "02:07:39",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "xbox",
         "games",
@@ -2057,8 +2029,8 @@
       "enclosure_length": "128753976",
       "itunes_duration": "02:13:36",
       "speakers": [
-        "Alan Wake",
-        "Smart Delivery"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -2078,7 +2050,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102315480",
       "itunes_duration": "02:21:59",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "gamescom",
         "week",
@@ -2099,7 +2074,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77950848",
       "itunes_duration": "01:48:42",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "quakecon",
         "gamescom",
@@ -2119,7 +2097,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "136135191",
       "itunes_duration": "02:20:17",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "showcase",
         "recap",
@@ -2139,7 +2120,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "115507814",
       "itunes_duration": "01:59:02",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "battle",
         "royal",
@@ -2161,9 +2145,10 @@
       "enclosure_length": "211125353",
       "itunes_duration": "01:48:25",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Stoy"
+        "Xbox Franchises",
+        "All Time Stoy",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -2184,7 +2169,9 @@
       "itunes_duration": "02:11:55",
       "speakers": [
         "Joins Jesse",
-        "Phil Spencer"
+        "Phil Spencer",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -2205,10 +2192,8 @@
       "enclosure_length": "126907640",
       "itunes_duration": "01:28:07",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Corey",
-        "Instagram Follow Edward",
-        "Twitch Follow Stoy"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "valve",
@@ -2231,7 +2216,9 @@
       "enclosure_length": "114843884",
       "itunes_duration": "01:58:21",
       "speakers": [
-        "Corey Talk"
+        "Corey Talk",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "games",
@@ -2252,7 +2239,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "135216688",
       "itunes_duration": "02:19:20",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "future",
         "xbox",
@@ -2270,7 +2260,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "117969546",
       "itunes_duration": "02:01:34",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "xbox",
         "showcase",
@@ -2292,7 +2285,9 @@
       "enclosure_length": "68433816",
       "itunes_duration": "01:35:33",
       "speakers": [
-        "Rnl Panic"
+        "Rnl Panic",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "year",
@@ -2312,7 +2307,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56725944",
       "itunes_duration": "01:20:53",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "year",
         "xbox",
@@ -2332,7 +2330,9 @@
       "enclosure_length": "110888172",
       "itunes_duration": "01:54:16",
       "speakers": [
-        "Xbox Bethesda Arsenal"
+        "Xbox Bethesda Arsenal",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "prediction",
@@ -2353,7 +2353,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70678608",
       "itunes_duration": "01:44:36",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "starfield",
         "microsoft",
@@ -2373,7 +2376,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "109676307",
       "itunes_duration": "01:53:01",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "multiplayer",
         "arsenal",
@@ -2392,7 +2398,9 @@
       "enclosure_length": "75329696",
       "itunes_duration": "01:17:37",
       "speakers": [
-        "Ed Talk"
+        "Ed Talk",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "respawn",
@@ -2413,7 +2421,8 @@
       "enclosure_length": "109183250",
       "itunes_duration": "01:52:31",
       "speakers": [
-        "Square Enix"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "life",
@@ -2433,7 +2442,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89385744",
       "itunes_duration": "01:53:25",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "teaser",
         "rumors",
@@ -2452,7 +2464,8 @@
       "enclosure_length": "64814448",
       "itunes_duration": "01:48:54",
       "speakers": [
-        "Twitter Follow Ed"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "games",
@@ -2472,7 +2485,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "79962737",
       "itunes_duration": "01:22:24",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "twitch",
         "arsenal",
@@ -2493,9 +2509,8 @@
       "itunes_duration": "01:31:18",
       "speakers": [
         "Xbox Plus Bethesda",
-        "Twitter Instagram",
-        "Twitch Follow Edward",
-        "Twitch Follow Arsenal"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -2520,9 +2535,8 @@
       "speakers": [
         "Gen Tomb Raider",
         "Tomb Raider",
-        "Twitter Instagram",
-        "Twitch Follow Edward",
-        "Twitch Follow Arsenal"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "outrider",
@@ -2544,7 +2558,9 @@
       "enclosure_length": "108613567",
       "itunes_duration": "01:15:25",
       "speakers": [
-        "Halo Infinite Looks"
+        "Halo Infinite Looks",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -2563,7 +2579,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94204006",
       "itunes_duration": "01:05:25",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "host",
         "xbox",
@@ -2584,11 +2603,8 @@
       "speakers": [
         "Saying Farewell",
         "Halo Infinite",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Follow Arsenal"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -2614,12 +2630,8 @@
       "enclosure_length": "79791031",
       "itunes_duration": "01:22:13",
       "speakers": [
-        "Follow Corey",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Follow Arsenal"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "knights",
@@ -2639,12 +2651,8 @@
       "enclosure_length": "108148972",
       "itunes_duration": "01:51:27",
       "speakers": [
-        "Indiana Jones",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Follow Arsenal"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "indiana",
@@ -2666,12 +2674,8 @@
       "enclosure_length": "112020381",
       "itunes_duration": "01:55:26",
       "speakers": [
-        "Halo Infinite",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Follow Arsenal"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -2693,11 +2697,8 @@
       "itunes_duration": "02:06:44",
       "speakers": [
         "Halo Infinite",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Follow Arsenal"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "fable",
@@ -2720,11 +2721,8 @@
       "enclosure_length": "53293140",
       "itunes_duration": "00:54:55",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Social"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "year",
@@ -2743,11 +2741,8 @@
       "enclosure_length": "88025873",
       "itunes_duration": "01:30:42",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Social"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "game",
@@ -2772,7 +2767,8 @@
         "Twitch Follow Jesse",
         "Twitter Instagram",
         "Twitch Follow Josh",
-        "Twitch Follow Joe"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "cyberpunk",
@@ -2795,12 +2791,8 @@
       "speakers": [
         "Casey Hudson",
         "Mark Darrah",
-        "Anthem Next",
-        "Halo Infinite",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "casey",
@@ -2823,13 +2815,9 @@
       "enclosure_length": "90422713",
       "itunes_duration": "01:33:11",
       "speakers": [
-        "Phil Spencer",
-        "Aaron Greenburg",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Twitter"
+        "Jesse ge",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "hedgehog"
@@ -2847,11 +2835,8 @@
       "enclosure_length": "94348128",
       "itunes_duration": "01:37:13",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitch Follow Joe",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -2870,11 +2855,8 @@
       "enclosure_length": "93461147",
       "itunes_duration": "01:36:18",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "sierra",
@@ -2896,12 +2878,8 @@
       "enclosure_length": "120803992",
       "itunes_duration": "02:04:29",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe",
-        "Twitch Follow LeRon",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "parties",
@@ -2923,11 +2901,8 @@
       "enclosure_length": "138075146",
       "itunes_duration": "02:22:17",
       "speakers": [
-        "Phil Spencer",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -2956,12 +2931,9 @@
       "speakers": [
         "Bethesda Might Stay Exclusive",
         "Boss Rush",
-        "Phil Spencer",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe",
-        "Twitch Follow LeRon"
+        "Phil Spe",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "gamestop",
@@ -2982,11 +2954,8 @@
       "enclosure_length": "80458001",
       "itunes_duration": "01:22:54",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "gamepass",
@@ -3010,11 +2979,8 @@
       "enclosure_length": "193370757",
       "itunes_duration": "01:39:37",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -3036,11 +3002,8 @@
       "enclosure_length": "108794842",
       "itunes_duration": "01:52:07",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "microsoft",
@@ -3061,12 +3024,8 @@
       "enclosure_length": "119680578",
       "itunes_duration": "02:03:20",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe",
-        "Twitch Follow Will-O",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -3085,7 +3044,8 @@
       "enclosure_length": "43273004",
       "itunes_duration": "00:44:35",
       "speakers": [
-        "Elder Scrolls"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "microsoft",
@@ -3104,12 +3064,8 @@
       "enclosure_length": "108550718",
       "itunes_duration": "01:51:52",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Follow Joe",
-        "Twitch Follow Will-O",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -3132,10 +3088,8 @@
       "itunes_duration": "01:54:53",
       "speakers": [
         "Tony Hawk",
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Josh",
-        "Twitter Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "wasteland",
@@ -3160,11 +3114,8 @@
       "enclosure_length": "94122049",
       "itunes_duration": "01:36:59",
       "speakers": [
-        "Twitter Instagram",
-        "Twitch Follow Jesse",
-        "Twitch Follow Joe",
-        "Twitch Follow Will-O",
-        "Twitch Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -3191,13 +3142,8 @@
       "itunes_duration": "01:35:38",
       "speakers": [
         "Gotham Knights",
-        "Amazon Corey",
-        "Joe Wilson",
-        "Halo Infinite",
-        "Twitter Instagram",
-        "Twitch Follow Edward",
-        "Twitch Follow Joe",
-        "Twitch Follow Boss"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "gotham",
@@ -3224,7 +3170,8 @@
       "enclosure_length": "42480738",
       "itunes_duration": "00:43:46",
       "speakers": [
-        "Twitter Instagram"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "avengers",
@@ -3246,7 +3193,8 @@
         "Halo Infinite",
         "Halo Multiplayer",
         "Follow Corey",
-        "Twitter Instagram"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "halo",
@@ -3266,8 +3214,8 @@
       "enclosure_length": "183094730",
       "itunes_duration": "03:08:41",
       "speakers": [
-        "Twitter Instagram",
-        "Follow Jeff"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -3287,7 +3235,8 @@
       "enclosure_length": "150958889",
       "itunes_duration": "01:44:49",
       "speakers": [
-        "Twitter Instagram"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox"
@@ -3306,7 +3255,7 @@
       "itunes_duration": "01:21:07",
       "speakers": [
         "Josh Finney",
-        "Twitter Instagram"
+        "Corey Dirrig"
       ],
       "topics": [
         "ubisoft",
@@ -3328,7 +3277,9 @@
       "enclosure_length": "134019003",
       "itunes_duration": "01:33:04",
       "speakers": [
-        "Twitter Instagram"
+        "Hold Each Other Accountable",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "arsenal",
@@ -3347,7 +3298,8 @@
       "enclosure_length": "164560325",
       "itunes_duration": "01:54:16",
       "speakers": [
-        "Twitter Instagram"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -3366,7 +3318,8 @@
       "enclosure_length": "223490062",
       "itunes_duration": "02:35:12",
       "speakers": [
-        "Twitter Instagram"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "world"
@@ -3385,12 +3338,8 @@
       "itunes_duration": "01:20:06",
       "speakers": [
         "Cam Hawkins",
-        "Carl Kirk",
-        "Edward Varnell",
-        "Twitter Instagram",
-        "Dualshockers Carl Kirk",
-        "Twitch Black Lives",
-        "Twitch Saturdays"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "light",
@@ -3412,7 +3361,8 @@
       "enclosure_length": "226210977",
       "itunes_duration": "02:37:05",
       "speakers": [
-        "Twitter Instagram"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -3435,9 +3385,7 @@
       "speakers": [
         "Josh Finney",
         "Luke Lohr",
-        "Follow Josh",
-        "Twitter Follow Luke",
-        "Twitter Instagram"
+        "Corey Dirrig"
       ],
       "topics": [
         "minecraft",
@@ -3462,7 +3410,8 @@
       "speakers": [
         "Tony Hawk",
         "Alan Wake",
-        "Twitter Instagram"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "tony",
@@ -3488,7 +3437,8 @@
       "enclosure_length": "149578996",
       "itunes_duration": "01:43:52",
       "speakers": [
-        "Jesse Douglas Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -3508,7 +3458,8 @@
       "itunes_duration": "01:08:44",
       "speakers": [
         "Creed Valhalla",
-        "Jesse Douglas Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "gears",
@@ -3531,7 +3482,8 @@
       "enclosure_length": "124509595",
       "itunes_duration": "01:26:27",
       "speakers": [
-        "Jesse Douglas Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -3550,7 +3502,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98145566",
       "itunes_duration": "01:08:09",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "cheaters",
         "duty",
@@ -3571,7 +3526,10 @@
       "enclosure_length": "207738100",
       "itunes_duration": "01:47:03",
       "speakers": [
-        "Phil Spencer"
+        "Phil Spencer",
+        "Phil Spe",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "phil",
@@ -3590,7 +3548,9 @@
       "enclosure_length": "184884818",
       "itunes_duration": "01:35:29",
       "speakers": [
-        "Nier Automata"
+        "Nier Automata",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "nier",
@@ -3612,7 +3572,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "200127189",
       "itunes_duration": "02:18:58",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "games",
         "xbox"
@@ -3629,7 +3592,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "170513109",
       "itunes_duration": "01:58:24",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "warzone",
         "different",
@@ -3650,7 +3616,9 @@
       "enclosure_length": "164846117",
       "itunes_duration": "01:24:45",
       "speakers": [
-        "Galaxy's Edge"
+        "Galaxy's Edge",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "star",
@@ -3676,7 +3644,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88930193",
       "itunes_duration": "01:01:45",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "xbox",
         "series",
@@ -3694,7 +3665,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "165682109",
       "itunes_duration": "01:25:07",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "star",
         "wars",
@@ -3713,7 +3687,9 @@
       "enclosure_length": "163804688",
       "itunes_duration": "01:24:11",
       "speakers": [
-        "Dan Houser"
+        "Dan Houser",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "edge",
@@ -3734,7 +3710,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "218741982",
       "itunes_duration": "01:52:14",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "initiative",
         "game",
@@ -3754,7 +3733,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73526299",
       "itunes_duration": "01:16:11",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "final"
       ]
@@ -3771,7 +3753,9 @@
       "enclosure_length": "19941459",
       "itunes_duration": "00:54:33",
       "speakers": [
-        "Solo Show Ed"
+        "Solo Show Ed",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "edward",
@@ -3789,7 +3773,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81754908",
       "itunes_duration": "01:24:45",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": []
     },
     {
@@ -3803,7 +3790,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26178393",
       "itunes_duration": "01:11:40",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "stadia",
         "xcloud"
@@ -3820,7 +3810,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19043818",
       "itunes_duration": "00:19:28",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "state",
         "arsenal"
@@ -3838,7 +3831,8 @@
       "enclosure_length": "59761790",
       "itunes_duration": "01:01:49",
       "speakers": [
-        "Edward Twitter"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "crackdown",
@@ -3856,7 +3850,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41553636",
       "itunes_duration": "00:42:54",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "javelin",
         "hire",
@@ -3876,7 +3873,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23909941",
       "itunes_duration": "01:05:17",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "solo"
       ]
@@ -3895,7 +3895,9 @@
       "speakers": [
         "Activision Layoffs",
         "Xbox Live's Expansion",
-        "Apex Legends"
+        "Apex Legends",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "apex",
@@ -3919,7 +3921,8 @@
       "enclosure_length": "71735922",
       "itunes_duration": "01:14:17",
       "speakers": [
-        "groups arsen"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "positive",
@@ -3938,7 +3941,9 @@
       "enclosure_length": "37091240",
       "itunes_duration": "00:38:18",
       "speakers": [
-        "guardian Edward"
+        "guardian Edward",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "tower",
@@ -3960,7 +3965,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42761705",
       "itunes_duration": "00:44:09",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "javelin",
         "hire",
@@ -3980,7 +3988,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103841792",
       "itunes_duration": "01:47:40",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "assassin",
         "creed",
@@ -4000,7 +4011,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38978705",
       "itunes_duration": "00:40:13",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "javelin",
         "hire",
@@ -4022,7 +4036,9 @@
       "enclosure_length": "33706542",
       "itunes_duration": "00:34:47",
       "speakers": [
-        "Luke Smith"
+        "Luke Smith",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "tower",
@@ -4045,7 +4061,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41401855",
       "itunes_duration": "00:42:44",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "javelin",
         "hire",
@@ -4067,7 +4086,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51871544",
       "itunes_duration": "00:53:40",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "tower",
         "casuals",
@@ -4090,7 +4112,9 @@
       "speakers": [
         "Javelin Melee",
         "Gear Slots",
-        "Ally Combos"
+        "Ally Combos",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "javelin",
@@ -4116,7 +4140,9 @@
       "enclosure_length": "98872567",
       "itunes_duration": "01:42:30",
       "speakers": [
-        "Xbox Game"
+        "Xbox Game",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -4135,7 +4161,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50292307",
       "itunes_duration": "00:52:02",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "tower",
         "casuals",
@@ -4153,7 +4182,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54375030",
       "itunes_duration": "00:56:14",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "javelin",
         "hire",
@@ -4175,7 +4207,12 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101367509",
       "itunes_duration": "01:45:14",
-      "speakers": [],
+      "speakers": [
+        "Xbox One",
+        "Xbox One Game",
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "xbox",
         "road"
@@ -4193,7 +4230,8 @@
       "enclosure_length": "47954833",
       "itunes_duration": "02:12:09",
       "speakers": [
-        "Halo Infinite"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "fallout",
@@ -4212,7 +4250,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116890227",
       "itunes_duration": "02:01:25",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "xbox",
         "event"
@@ -4230,7 +4271,8 @@
       "enclosure_length": "91236597",
       "itunes_duration": "01:34:44",
       "speakers": [
-        "Blackout Mode"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "dead",
@@ -4249,7 +4291,9 @@
       "enclosure_length": "20309302",
       "itunes_duration": "00:55:48",
       "speakers": [
-        "Solo Mode Ed"
+        "Solo Mode Ed",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "solo",
@@ -4269,7 +4313,9 @@
       "itunes_duration": "01:54:02",
       "speakers": [
         "Forza Horizon Edward",
-        "Forza Horizon"
+        "Forza Horizon",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "black",
@@ -4288,7 +4334,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84681725",
       "itunes_duration": "01:27:55",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "season"
       ]
@@ -4306,7 +4355,9 @@
       "itunes_duration": "01:05:20",
       "speakers": [
         "Blackout Mode Edward",
-        "Blackout Mode"
+        "Blackout Mode",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "blackout",
@@ -4324,7 +4375,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85793712",
       "itunes_duration": "01:29:05",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "present",
         "tmnt",
@@ -4343,7 +4397,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18180268",
       "itunes_duration": "00:49:54",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "edward",
         "solo",
@@ -4361,7 +4418,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25138670",
       "itunes_duration": "01:09:09",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "battlefield",
         "bungie",
@@ -4380,7 +4440,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51869051",
       "itunes_duration": "00:53:22",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "gamescom"
       ]
@@ -4396,7 +4459,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19256631",
       "itunes_duration": "00:51:45",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "tale",
         "bethesdas"
@@ -4413,7 +4479,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100395828",
       "itunes_duration": "01:43:50",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "arsenal",
         "importance",
@@ -4431,7 +4500,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37815953",
       "itunes_duration": "01:43:06",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "august",
         "games",
@@ -4450,7 +4522,9 @@
       "enclosure_length": "27184017",
       "itunes_duration": "01:13:41",
       "speakers": [
-        "Forza Horizon"
+        "Forza Hori",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "resident",
@@ -4473,7 +4547,9 @@
       "enclosure_length": "34704743",
       "itunes_duration": "01:34:29",
       "speakers": [
-        "Xbox Scarlet"
+        "Xbox Scarlet",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "xbox",
@@ -4491,7 +4567,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26157903",
       "itunes_duration": "01:11:57",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "state",
         "decay",
@@ -4510,7 +4589,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32438058",
       "itunes_duration": "01:29:19",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": []
     },
     {
@@ -4525,7 +4607,9 @@
       "enclosure_length": "69763623",
       "itunes_duration": "01:12:24",
       "speakers": [
-        "Creed Odyssey"
+        "Creed Odyssey",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "assassin",
@@ -4546,7 +4630,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21378721",
       "itunes_duration": "00:58:44",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "duty",
         "black",
@@ -4566,7 +4653,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83344298",
       "itunes_duration": "01:26:31",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "buys",
         "campo",
@@ -4591,7 +4681,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30385175",
       "itunes_duration": "00:31:26",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "east",
         "special",
@@ -4612,7 +4705,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36777490",
       "itunes_duration": "01:41:20",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "thieves",
         "streamer",
@@ -4632,7 +4728,8 @@
       "enclosure_length": "79660634",
       "itunes_duration": "01:22:41",
       "speakers": [
-        "Inside Xbox"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "calm",
@@ -4650,7 +4747,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61441387",
       "itunes_duration": "01:03:44",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "rainbow",
         "siege",
@@ -4671,7 +4771,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20313436",
       "itunes_duration": "00:55:47",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "microsoft",
         "acquired",
@@ -4691,7 +4794,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100981967",
       "itunes_duration": "01:44:52",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "microsoft",
         "game",
@@ -4710,7 +4816,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90127488",
       "itunes_duration": "01:33:35",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "roles"
       ]
@@ -4727,7 +4836,9 @@
       "enclosure_length": "111137340",
       "itunes_duration": "01:55:26",
       "speakers": [
-        "Forza Horizon"
+        "Forza Horizon",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "fable",
@@ -4747,7 +4858,9 @@
       "enclosure_length": "116083196",
       "itunes_duration": "02:00:34",
       "speakers": [
-        "Ed Invented"
+        "Ed Invented",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "game"
@@ -4764,7 +4877,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94358541",
       "itunes_duration": "01:37:59",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "curse",
         "osiris",
@@ -4783,7 +4899,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42891635",
       "itunes_duration": "01:58:15",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "ninja",
         "turtles",
@@ -4801,7 +4920,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54166073",
       "itunes_duration": "02:29:26",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "arsenal",
         "block"
@@ -4818,7 +4940,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120150732",
       "itunes_duration": "02:04:48",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "visceral",
         "games",
@@ -4837,7 +4962,8 @@
       "enclosure_length": "49251432",
       "itunes_duration": "02:15:50",
       "speakers": [
-        "Phil Spencer"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "destiny",
@@ -4860,7 +4986,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91342090",
       "itunes_duration": "01:34:53",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "microsoft",
         "gamescom"
@@ -4877,7 +5006,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "131478857",
       "itunes_duration": "02:16:38",
-      "speakers": [],
+      "speakers": [
+        "Community Extraordinaire",
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "arsenal",
         "xbox",
@@ -4895,7 +5028,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90202774",
       "itunes_duration": "01:33:42",
-      "speakers": [],
+      "speakers": [
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
       "topics": [
         "xbox",
         "path"
@@ -4914,7 +5050,8 @@
       "itunes_duration": "01:13:40",
       "speakers": [
         "Kingdom Hearts Iii",
-        "Xbox Show"
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "kingdom",
@@ -4937,7 +5074,9 @@
       "enclosure_length": "85075763",
       "itunes_duration": "01:28:22",
       "speakers": [
-        "Andromeda Dlc"
+        "Andromeda Dlc",
+        "Corey Dirrig",
+        "Josh Finney"
       ],
       "topics": [
         "podcast",
@@ -4957,222 +5096,222 @@
 
 ## Episodes (newest first)
 
-- 2026-02-06 — Can Xbox Deliver on Halo, Gears of War, Fable, and Forza This Year? — speakers: Corey Dirrig, Josh Finney, Forza Horizon
-- 2026-01-23 — Xbox Developer Direct Shows Fable Has Major Potential to be Great — speakers: Corey Dirrig, Josh Finney, Forza Horizon
+- 2026-02-06 — Can Xbox Deliver on Halo, Gears of War, Fable, and Forza This Year? — speakers: Can Xbox Deliver, Xbox Casuals, Corey Dirrig, Josh Finney
+- 2026-01-23 — Xbox Developer Direct Shows Fable Has Major Potential to be Great — speakers: Corey Dirrig, Josh Finney
 - 2026-01-09 — Game of the Year 2025 and Our Most Anticipated Games of 2026 — speakers: Corey Dirrig, Josh Finney
-- 2025-12-12 — Let's Talk About The Game Awards Announcements and Winners — speakers: Corey Dirrig, Josh Finney, Boss Rush Media
-- 2025-10-24 — The ROG Xbox Ally X Makes Xbox's Messaging Much More Complicated — speakers: Boss Rush Media
-- 2025-09-26 — Tokyo Game Show Reactions and The Xbox Ecosystem Gets More Expensive — speakers: Gemma Chan, Mario Tennis, Boss Rush Media
-- 2025-09-12 — What Will Xbox Show Off at Tokyo Game Show? — speakers: Will Xbox Show Off, Josh Finney, Forza Horizon, Boss Rush Media
-- 2025-08-29 — Xbox Shows Big at Gamescom 2025 and Silksong Has a Release Date — speakers: Xbox Shows Big, Cloud Chamber, Rod Fergusson, Boss Rush Media
-- 2025-08-15 — Xbox at Gamescom, Helldivers 2 + ODST, and Rod Fergusson Leaves Blizzard — speakers: Rod Fergusson, Josh Finney, Satya Nadella, Boss Rush Media
-- 2025-07-11 — Xbox Partners with AMD for Next Generation and Library Compatibility — speakers: Xbox Partners, Project Blackbird, Josh Finney, Corey Dirrig, Blade Runner, Matt Firor, Crash Bandicoot
-- 2025-07-04 — Perfect Dark and Everwild CANCELLED, The Initiative Shut Down by Xbox — speakers: Josh Finney, Corey Dirrig, Project Blackbird, Forza Motorsport
-- 2025-06-09 — Let's Talk Xbox Summer Showcase and Summer Game Fest — speakers: Summer Showcase
-- 2025-06-06 — State of Play Xbox Games and Predicting the Summer Showcase
-- 2025-05-23 — Game Pass gets Massive Games, Marathon's Art Debacle, & Xbox Wins on PS5 — speakers: Art Debacle, Xbox Wins
-- 2025-05-09 — Xbox is PlayStation’s Biggest Publisher as Gears of War Reloaded Goes Multiplatform — speakers: Boss Rush Media
-- 2025-04-25 — Can We Keep Up with Xbox First Party Games and Game Pass in 2025? — speakers: Nintendo Switch, Boss Rush Media
-- 2025-04-11 — Xbox Summer Showcase Predictions Time, Marathon, and More — speakers: Summer Showcase, Nintendo Switch, Boss Rush Media
-- 2025-03-28 — There's a Steam in My Xbox UI — speakers: Xbox UI, Boss Rush Media
-- 2025-03-14 — 39. Xbox Handheld Incoming with a Twist — speakers: Xbox Handheld Incoming, Tony Hawk Oblivion, Monster Hunter, Boss Rush Media
-- 2025-02-28 — 38. Tony Hawk Rides Again in Newly Revealed Teaser — speakers: Tony Hawk Rides Again, Tony Hawk, Boss Rush Media
-- 2025-02-14 — 37. Avowed Impressions and Xbox's Multiplatform Strategy — speakers: Boss Rush Media
-- 2025-01-31 — 36. Xbox Has a Massive 2025 Lineup, Is it Too Much? — speakers: Boss Rush Media
-- 2025-01-24 — 35. Breaking Down the Xbox Developer Direct, Was it Worth It? — speakers: Boss Rush Media
-- 2025-01-17 — 34. Xbox Has News Coming. What is the Mystery Game? — speakers: Boss Rush Media
-- 2024-12-13 — 33. Indiana Jones and the Great Game Awards Reactions — speakers: Indiana Jones, Boss Rush Media
-- 2024-11-15 — 32. Phil Spencer Spills the Beans about Xbox's Future in Recent Interviews — speakers: Phil Spencer Spills, Phil Spencer, Boss Rush Media
-- 2024-11-01 — 31. Perfect Dark's New Creative Director & Call of Duty Black Ops 6 is Awesome — speakers: Boss Rush Media
-- 2024-10-18 — 30. The Xbox Partner Showcase Discussion — speakers: Boss Rush Media
-- 2024-10-08 — 29. Halo is Back as 343 Rebrands as Halo Studios at HCS — speakers: Boss Rush Media
-- 2024-09-24 — 28. More Layoffs, Tokyo Game Show Predictions, and More — speakers: Sarah Bond, Boss Rush Media
-- 2024-09-10 — 27. Story Time with Phil Spencer Had Some Twists at PAX West — speakers: Story Time, Phil Spencer, Boss Rush Media
-- 2024-08-27 — 26. Gamescom, The Indiana Jones PS5 Disaster, and Star Wars Outlaws — speakers: Boss Rush Media
-- 2024-08-06 — 25. Xbox's Strong Fall and Game Informer's Closure — speakers: Game Informer, Twitter Bluesky Discord, Boss Rush Media
-- 2024-07-16 — 24. What is Going On with Xbox and Game Pass?
-- 2024-06-10 — 23. Xbox 2024 Summer Showcase Review Discussion — speakers: Summer Showcase, Corey Dirrig, Josh Finney, Follow Tower
-- 2024-05-28 — 22. Hellblade II Impressions and Xbox Showcase Predictions — speakers: Xbox Showcase Predictions, Corey Dirrig, Josh Finney, Follow Tower
-- 2024-05-14 — 21. Xbox Closes Tango Gameworks, Arkane Austin, and More — speakers: Xbox Closes, Tango Gameworks, Arkane Austin
-- 2024-04-30 — 20. Fallout Explodes and ID@Xbox Indie Showcase Hits — speakers: Fallout Explodes
-- 2024-04-16 — 19. Sarah Bond and Xbox Create Game Preservation Team — speakers: Sarah Bond
-- 2024-04-02 — 18. Phil Spencer Celebrates 10 Years as the Head of Xbox — speakers: Phil Spencer Celebrates, Phil Spencer
-- 2024-03-19 — 17. Sea of Thieves, Pentiment, and More Head to PlayStation — speakers: Corey Dirrig, Josh Finney, Follow Tower
+- 2025-12-12 — Let's Talk About The Game Awards Announcements and Winners — speakers: Corey Dirrig, Josh Finney
+- 2025-10-24 — The ROG Xbox Ally X Makes Xbox's Messaging Much More Complicated — speakers: Xbox Ally, Makes Xbox, Messaging Much More Complicated, Xbox Casuals, Corey Dirrig, Josh Finney
+- 2025-09-26 — Tokyo Game Show Reactions and The Xbox Ecosystem Gets More Expensive — speakers: Corey Dirrig, Josh Finney
+- 2025-09-12 — What Will Xbox Show Off at Tokyo Game Show? — speakers: Will Xbox Show Off, Josh Finney, Corey Dirrig
+- 2025-08-29 — Xbox Shows Big at Gamescom 2025 and Silksong Has a Release Date — speakers: Xbox Shows Big, Corey Dirrig, Josh Finney
+- 2025-08-15 — Xbox at Gamescom, Helldivers 2 + ODST, and Rod Fergusson Leaves Blizzard — speakers: Rod Fergusson, Corey Dirrig, Josh Finney
+- 2025-07-11 — Xbox Partners with AMD for Next Generation and Library Compatibility — speakers: Xbox Partners, Corey Dirrig, Josh Finney
+- 2025-07-04 — Perfect Dark and Everwild CANCELLED, The Initiative Shut Down by Xbox — speakers: Corey Dirrig, Josh Finney
+- 2025-06-09 — Let's Talk Xbox Summer Showcase and Summer Game Fest — speakers: Summer Showcase, Corey Dirrig, Josh Finney
+- 2025-06-06 — State of Play Xbox Games and Predicting the Summer Showcase — speakers: Corey Dirrig, Josh Finney
+- 2025-05-23 — Game Pass gets Massive Games, Marathon's Art Debacle, & Xbox Wins on PS5 — speakers: Art Debacle, Xbox Wins, Corey Dirrig, Josh Finney
+- 2025-05-09 — Xbox is PlayStation’s Biggest Publisher as Gears of War Reloaded Goes Multiplatform — speakers: Corey Dirrig, Josh Finney
+- 2025-04-25 — Can We Keep Up with Xbox First Party Games and Game Pass in 2025? — speakers: Corey Dirrig, Josh Finney
+- 2025-04-11 — Xbox Summer Showcase Predictions Time, Marathon, and More — speakers: Summer Showcase, Nintendo Switch, Corey Dirrig, Josh Finney
+- 2025-03-28 — There's a Steam in My Xbox UI — speakers: Xbox UI, Corey Dirrig, Josh Finney
+- 2025-03-14 — 39. Xbox Handheld Incoming with a Twist — speakers: Xbox Handheld Incoming, Corey Dirrig, Josh Finney
+- 2025-02-28 — 38. Tony Hawk Rides Again in Newly Revealed Teaser — speakers: Tony Hawk Rides Again, Tony Hawk, Corey Dirrig, Josh Finney
+- 2025-02-14 — 37. Avowed Impressions and Xbox's Multiplatform Strategy — speakers: Corey Dirrig, Josh Finney
+- 2025-01-31 — 36. Xbox Has a Massive 2025 Lineup, Is it Too Much? — speakers: Corey Dirrig, Josh Finney
+- 2025-01-24 — 35. Breaking Down the Xbox Developer Direct, Was it Worth It? — speakers: Corey Dirrig, Josh Finney
+- 2025-01-17 — 34. Xbox Has News Coming. What is the Mystery Game? — speakers: Corey Dirrig, Josh Finney
+- 2024-12-13 — 33. Indiana Jones and the Great Game Awards Reactions — speakers: Corey Dirrig, Josh Finney
+- 2024-11-15 — 32. Phil Spencer Spills the Beans about Xbox's Future in Recent Interviews — speakers: Phil Spencer Spills, Phil Spencer, Corey Dirrig, Josh Finney
+- 2024-11-01 — 31. Perfect Dark's New Creative Director & Call of Duty Black Ops 6 is Awesome — speakers: Corey Dirrig, Josh Finney
+- 2024-10-18 — 30. The Xbox Partner Showcase Discussion — speakers: Corey Dirrig, Josh Finney
+- 2024-10-08 — 29. Halo is Back as 343 Rebrands as Halo Studios at HCS — speakers: Corey Dirrig, Josh Finney
+- 2024-09-24 — 28. More Layoffs, Tokyo Game Show Predictions, and More — speakers: Sarah Bond, Corey Dirrig, Josh Finney
+- 2024-09-10 — 27. Story Time with Phil Spencer Had Some Twists at PAX West — speakers: Story Time, Phil Spencer, Corey Dirrig, Josh Finney
+- 2024-08-27 — 26. Gamescom, The Indiana Jones PS5 Disaster, and Star Wars Outlaws — speakers: Corey Dirrig, Josh Finney
+- 2024-08-06 — 25. Xbox's Strong Fall and Game Informer's Closure — speakers: Corey Dirrig, Josh Finney
+- 2024-07-16 — 24. What is Going On with Xbox and Game Pass? — speakers: Corey Dirrig, Josh Finney
+- 2024-06-10 — 23. Xbox 2024 Summer Showcase Review Discussion — speakers: Summer Showcase, Corey Dirrig, Josh Finney
+- 2024-05-28 — 22. Hellblade II Impressions and Xbox Showcase Predictions — speakers: Xbox Showcase Predictions, Corey Dirrig, Josh Finney
+- 2024-05-14 — 21. Xbox Closes Tango Gameworks, Arkane Austin, and More — speakers: Xbox Closes, Tango Gameworks, Arkane Austin, Corey Dirrig, Josh Finney
+- 2024-04-30 — 20. Fallout Explodes and ID@Xbox Indie Showcase Hits — speakers: Fallout Explodes, Corey Dirrig, Josh Finney
+- 2024-04-16 — 19. Sarah Bond and Xbox Create Game Preservation Team — speakers: Sarah Bond, Corey Dirrig, Josh Finney
+- 2024-04-02 — 18. Phil Spencer Celebrates 10 Years as the Head of Xbox — speakers: Phil Spencer Celebrates, Phil Spencer, Corey Dirrig, Josh Finney
+- 2024-03-19 — 17. Sea of Thieves, Pentiment, and More Head to PlayStation — speakers: Corey Dirrig, Josh Finney
 - 2024-03-05 — 16. Toys for Bob Goes Indie, Saber Escapes Embracer, and More Layoffs — speakers: Bob Goes Indie, Saber Escapes Embracer, Corey Dirrig, Josh Finney
-- 2024-02-16 — 15. That Could Have Been an Email - The Xbox Business Update Breakdown — speakers: Corey Dirrig, Josh Finney, Follow Tower
-- 2024-01-23 — 14. Breaking Down the Xbox Developer_Direct — speakers: Corey Dirrig, Josh Finney, Follow Tower
-- 2024-01-09 — 13. Game of the Year 2023 and the Look Ahead at Xbox in 2024 — speakers: Corey Dirrig, Josh Finney, Follow Tower
-- 2023-12-12 — 12. Grand Theft Auto VI, Marvel's Blade, The Game Awards, and More — speakers: Corey Dirrig, Josh Finney, Follow Tower
+- 2024-02-16 — 15. That Could Have Been an Email - The Xbox Business Update Breakdown — speakers: Corey Dirrig, Josh Finney
+- 2024-01-23 — 14. Breaking Down the Xbox Developer_Direct — speakers: Corey Dirrig, Josh Finney
+- 2024-01-09 — 13. Game of the Year 2023 and the Look Ahead at Xbox in 2024 — speakers: Corey Dirrig, Josh Finney
+- 2023-12-12 — 12. Grand Theft Auto VI, Marvel's Blade, The Game Awards, and More — speakers: Corey Dirrig, Josh Finney
 - 2023-11-28 — 11. The Game Awards Move Away from World Premiere Phrasing — speakers: Corey Dirrig, Josh Finney
-- 2023-11-14 — 10. Sarah Bond is President of Xbox, Blizzcon, the Game Awards, and Modern Warfare 3 — speakers: Sarah Bond, Corey Dirrig, Josh Finney, Email Us, Follow Tower
+- 2023-11-14 — 10. Sarah Bond is President of Xbox, Blizzcon, the Game Awards, and Modern Warfare 3 — speakers: Sarah Bond, Corey Dirrig, Josh Finney
 - 2023-10-24 — 9. Xbox Activision Deal Closes and Pete Hines Retires from Bethesda — speakers: Xbox Activision Deal Closes, Pete Hines, Corey Dirrig, Josh Finney
-- 2023-10-10 — 8. Activision Blizzard Deal, Phantom Liberty, More Layoffs, and a Bigger Square-Enix Partnership — speakers: Corey Dirrig, Instagram Josh Finney, Instagram Email, Follow Tower
-- 2023-09-26 — 7. Massive Xbox Leaks, Tokyo Game Show, and Halo 3 Anniversary — speakers: Xbox Leaks, Corey Dirrig, Instagram Josh Finney, Instagram Email, Follow Tower
-- 2023-09-12 — 6. Starfield Spoilercast and Review Discussion, Volition Closes, and Embracer's Troubles — speakers: Corey Dirrig, Instagram Josh Finney, Instagram Email, Follow Tower
-- 2023-08-29 — Baldur's Gate III on Series S, Ubisoft Continues to Struggle, and the IGN Phil Spencer Interview — speakers: Phil Spencer, Corey Dirrig, Instagram Josh Finney, Instagram Email, Follow Tower
-- 2023-08-15 — TMNT: The Last Ronin Announced, Modern Warfare III, and Killer Instinct's Possible Return — speakers: Corey Dirrig, Instagram Josh Finney, Instagram Email, Follow Tower
-- 2023-08-01 — Final Fantasy XIV Comes to Xbox, a Possible Return of Old Transformers Games, and Oblivion Remake Rumors — speakers: Xbox Arsenal, Corey Dirrig, Josh Finney, Instagram Josh Finney
-- 2023-07-18 — Saying Goodbye to Xbox Legend Major Nelson — speakers: Corey Dirrig, Josh Finney, Larry Herb, Instagram Josh Finney
-- 2023-07-11 — Spotlight. Something Wicked Games CEO and Former Elder Scrolls and Fallout Producer Jeff Gardiner — speakers: Elder Scrolls, Fallout Producer Jeff Gardiner, Jeff Gardiner
-- 2023-07-04 — Let's Talk About the Activision Blizzard Deal — speakers: Corey Dirrig, Josh Finney, Instagram Josh Finney
-- 2023-06-12 — X. Xbox Showcase & Starfield Direct Reactions — speakers: Xbox Showcase, Josh Finney, Corey Dirrig, Instagram Josh Finney, Instagram Boss Rush, Xbox Arsenal
-- 2022-02-15 — 176. Modern Warfare 2 and Warzone 2 Are Coming — speakers: Corey Dirrig, Instagram Stoy Jovic
-- 2022-02-08 — GTA VI, MLB The Show, and Sony Buys Bungie — speakers: Corey Dirrig, Instagram Stoy Jovic
-- 2022-02-01 — 174. Halo Trailer and Certain Affinity Making a Monster Hunter Like — speakers: Corey Dirrig, Instagram Stoy Jovic
-- 2022-01-25 — 173. Activision Blizzard IP, E3 2022 Canceled, and Xbox Game Draft 2022 — speakers: Blizzard IP, Xbox Game Draft, Activision Blizzard, Corey Dirrig, Instagram Stoy Jovic
-- 2022-01-18 — 172. Microsoft to Purchase Activision Blizzard — speakers: Activision Blizzard, Xbox Wire, Xbox Gaming, Phil Spencer, Raven Software, Corey Dirrig, Instagram Stoy Jovic, Twitter Josh Finney
-- 2022-01-18 — 171. Xbox Series Sales Numbers and Take Two Buys Zynga — speakers: Josh Finney, Corey Dirrig, Instagram Stoy Jovic, Twitter Josh Finney, Twitter Follow
-- 2022-01-11 — 170. E3 Goes Digital, Ubisoft Plus, and Jedi Fallen Order 2 — speakers: Ubisoft Plus, Jedi Fallen Order, Wars Jedi Fallen Order, Corey Dirrig, Instagram Stoy Jovic, Twitter LeRon Dawkins, Twitch Stephanie Klimov, Twitter Follow
-- 2022-01-04 — 169. Xbox in 2022 and Beyond — speakers: Corey Dirrig, Instagram Jesse Douglas, Twitter Instagram, Twitch Stoy Jovic
-- 2021-12-21 — 168. Xbox 2021 Year in Review — speakers: Assassin’s Creed, Corey Dirrig, Instagram Jesse Douglas, Twitter Instagram, Twitch Stoy Jovic
-- 2021-12-14 — 167. Hellblade II Graphical Dream and Halo Infinite Campaign Impressions — speakers: Corey Dirrig, Instagram Jesse Douglas, Twitter Instagram, Twitch Stoy Jovic
-- 2021-12-07 — 166. Sea of Thieves Season 5, Fortnite, and New Halo Playlists — speakers: Vince Zampella, Corey Dirrig, Instagram Jesse Douglas, Twitter Instagram, Twitch Stoy Jovic
-- 2021-11-30 — 165. Game Awards Discussions, Traditions, and Xbox Series S Winning Black Friday — speakers: Xbox GamePass, Corey Dirrig, Instagram Jesse Douglas, Twitter Instagram, Twitch Stoy Jovic
-- 2021-11-23 — 164. Halo and GamePass, gotta love it - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Instagram Jesse Douglas, Twitter Instagram, Twitch Stoy Jovic
-- 2021-11-16 — Xbox and Halo Celebrate 20 Years of Playing Games Together — speakers: Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy, Stephanie Klimov
-- 2021-11-15 — 163. Compulsion and Obsidian's Next Projects and Favorite Xbox Memories — speakers: Forza Horizon, Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy
-- 2021-11-09 — 162. From Forza With Love - Arsenal X: The XBOX Podcast — speakers: Forza Horizon, Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy, Stephanie Klimov
-- 2021-11-02 — 161. Halo Variety Show - Arsenal X: The XBOX Podcast — speakers: Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy
-- 2021-10-26 — 160. AAA The XBOX Way - Arsenal X: The XBOX Podcast
-- 2021-10-19 — 159. FIFA, DC FanDome, Final Fantasy XIV, and a Major Minecraft Update — speakers: Fantasy Xiv, Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy
-- 2021-10-12 — 158. GTA Remastered, Spooky Games, and Xbox's Unannounced Roadmap — speakers: Gta Remastered, Spooky Games, Unannounced Roadmap, Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy
-- 2021-10-05 — 157. Tokyo Game Show Recap - Arsenal X: The XBOX Podcast — speakers: Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy
-- 2021-09-28 — 156. Need More Tomb Raider and Deus Ex - Arsenal X: The XBOX Podcast — speakers: More Tomb Raider, Alan Wake, Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy
-- 2021-09-21 — 155. What Will Microsoft Buy Next - Arsenal X: The XBOX Podcast — speakers: Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy
-- 2021-09-14 — 154. XBOX Does Have Games - Arsenal X: The XBOX Podcast
-- 2021-09-07 — 153. How XBOX Is Doing Things Right - Arsenal X: The XBOX Podcast — speakers: Alan Wake, Smart Delivery
-- 2021-08-31 — 152. GamesCom week Recap - Arsenal X: The XBOX Podcast
-- 2021-08-24 — 151. From QuakeCon to GamesCom - Arsenal X: The XBOX Podcast
-- 2021-08-17 — 150. ID@XBOX Showcase Recap - Arsenal X: The Xbox Podcast
-- 2021-08-10 — 149. Battle Royal Stay off my Halo - Arsenal X: The Xbox Podcast
-- 2021-08-03 — 148. Top 10 Xbox Franchises of All Time — speakers: Twitter Instagram, Twitch Follow Corey, Instagram Follow Stoy
-- 2021-07-27 — 147. New XBOX Controller? - Arsenal X: The XBOX Podcast — speakers: Joins Jesse, Phil Spencer
-- 2021-07-20 — 146. Is Valve's Steam Deck The Secret Weapon for GamePass? — speakers: Twitter Instagram, Twitch Follow Corey, Instagram Follow Edward, Twitch Follow Stoy
-- 2021-07-13 — 145. New Games and New Beginnings - Arsenal X: An XBOX Podcast — speakers: Corey Talk
-- 2021-06-29 — 144. The Future Looks Bright - Arsenal X: The XBOX Podcast
-- 2021-06-22 — 143. XBOX Showcase Extended Recap - Arsenal X: The XBOX Podcast
-- 2021-06-08 — 142. 20 Years of XBOX Part: 2 - Arsenal X: Podcast — speakers: Rnl Panic
-- 2021-06-01 — 141. 20 Years of XBOX part: 1 - Arsenal X: Podcast
-- 2021-05-25 — 140. E3 Predictions: Xbox + Bethesda - Arsenal X: The Xbox Podcast — speakers: Xbox Bethesda Arsenal
-- 2021-05-18 — 139. Starfield is a Microsoft Exclusive - Arsenal X Podcast
-- 2021-05-11 — 138. single vs multiplayer - Arsenal X Podcast
-- 2021-04-27 — 137. Respawn has New Ideas - Arsenal X Podcast — speakers: Ed Talk
-- 2021-04-20 — 136. Life is the real Game - Arsenal X Podcast — speakers: Square Enix
-- 2021-04-13 — 135. Teasers, Rumors and Kojima. OH MY
-- 2021-03-30 — 134 We Have Games Galore - Arsenal X Podcast — speakers: Twitter Follow Ed
-- 2021-03-23 — 133. ID@XBOX teams up with Twitch - Arsenal X: The Xbox Podcast
-- 2021-03-16 — 132. Xbox Plus Bethesda Makes GamePass Better - Arsenal X: The Xbox Podcast Episode 132 — speakers: Xbox Plus Bethesda, Twitter Instagram, Twitch Follow Edward, Twitch Follow Arsenal
-- 2021-03-16 — 131. Outriders Demo Impressions and Next Gen Tomb Raider — speakers: Gen Tomb Raider, Tomb Raider, Twitter Instagram, Twitch Follow Edward, Twitch Follow Arsenal
-- 2021-03-09 — 130. Halo Infinite Looks Like A Different Game — speakers: Halo Infinite Looks
-- 2021-02-25 — 129. New Host, Same Xbox Channel
-- 2021-02-02 — 128. Halo Infinite Monthly Updates, Xbox Live Prices, and Saying Farewell to Dear Friends — speakers: Saying Farewell, Halo Infinite, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Follow Arsenal
-- 2021-01-26 — 127. Is Knights of the Old Republic in the Works? Sounds Like It — speakers: Follow Corey, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Follow Arsenal
-- 2021-01-19 — 126. Indiana Jones, Star Wars, and The End of EA's Exclusivity — speakers: Indiana Jones, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Follow Arsenal
-- 2021-01-12 — 125. Is Halo Infinite a Make or Break for Xbox? We Discuss — speakers: Halo Infinite, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Follow Arsenal
-- 2021-01-05 — 124. Fable, Mass Effect, Halo Infinite and More - What Are We Looking Forward to in 2021 — speakers: Halo Infinite, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Follow Arsenal
-- 2020-12-29 — 123. Our End of the Year Discussions — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Social
-- 2020-12-22 — 122. The Game Awards and Xbox Game Studios Lineup — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Social
-- 2020-12-15 — 121. Cyberpunk 2077 Initial Thoughts and Impressions — speakers: Twitch Follow Jesse, Twitter Instagram, Twitch Follow Josh, Twitch Follow Joe
-- 2020-12-08 — AX120! - Casey Hudson and Mark Darrah Leave BioWare — speakers: Casey Hudson, Mark Darrah, Anthem Next, Halo Infinite, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe
-- 2020-12-01 — AX119! - Someone Fleeted a Hedgehog — speakers: Phil Spencer, Aaron Greenburg, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Twitter
-- 2020-11-17 — AX118! - Xbox Series X and Xbox Series S are Here. What Do We Think? — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitch Follow Joe, Twitch Twitter
-- 2020-11-10 — Sierra 117 - Celebrating The Master Chief, Halo, and The Xbox — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe, Twitch Twitter
-- 2020-11-03 — AX116! - Third Parties Are Confusing Gamers About Series X/S Optimization — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe, Twitch Follow LeRon, Twitch Twitter
-- 2020-10-27 — AX115! - Halo: The Master Chief Collection Series X Optimization, Bethesda Exclusivity, Elite V2 Issues, and Feedback! — speakers: Phil Spencer, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe
-- 2020-10-20 — AX114! - GameStop Gets a Cut from Microsoft and Bethesda Might Stay Exclusive — speakers: Bethesda Might Stay Exclusive, Boss Rush, Phil Spencer, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe, Twitch Follow LeRon
-- 2020-10-13 — AX113! - GamePass is The Best Deal Period, Microsoft and GameStop Partner — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe, Twitch Twitter
-- 2020-10-06 — AX112! - Xbox Series X and the Details on Backwards Compatibility — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe, Twitch Twitter
-- 2020-09-29 — AX111! - Microsoft Bought Bethesda and We Bought Series X's — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe, Twitch Twitter
-- 2020-09-22 — AX110! - Preordering Xbox Could Be Messy — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe, Twitch Follow Will-O, Twitch Twitter
-- 2020-09-22 — Microsoft Acquires Bethesda — speakers: Elder Scrolls
-- 2020-09-15 — AX109! - Xbox Series X and Series S Breakdown and Ubisoft Forward — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Follow Joe, Twitch Follow Will-O, Twitch Twitter
-- 2020-09-08 — AX108! - Tell Me Why, Wasteland 3, Marvel's Avengers, Fortnite, Tony Hawk's Pro Skater, and Gears 5 DLC — speakers: Tony Hawk, Twitter Instagram, Twitch Follow Jesse, Twitch Follow Josh, Twitter Twitter
-- 2020-09-01 — AX107! - Halo Infinite Adds Some Franchise Veterans and Marvel's Avengers Has a Battle Pass Problem — speakers: Twitter Instagram, Twitch Follow Jesse, Twitch Follow Joe, Twitch Follow Will-O, Twitch Twitter
-- 2020-08-25 — AX106! - Gotham Knights, Suicide Squad Kill the Justice League, and the Halo Infinite Issue — speakers: Gotham Knights, Amazon Corey, Joe Wilson, Halo Infinite, Twitter Instagram, Twitch Follow Edward, Twitch Follow Joe, Twitch Follow Boss
-- 2020-08-12 — AX105! - The Avengers and xCloud on iOS — speakers: Twitter Instagram
-- 2020-08-05 — AX104! - Halo Infinite's Multiplayer is Free — speakers: Halo Infinite, Halo Multiplayer, Follow Corey, Twitter Instagram
-- 2020-07-29 — AX103! - Breaking Down The Xbox Games Showcase — speakers: Twitter Instagram, Follow Jeff
-- 2020-07-22 — AX102! - What is Xbox Preparing For? — speakers: Twitter Instagram
-- 2020-07-15 — AX101: Ubisoft Forward and Xbox's Next Generation Plans — speakers: Josh Finney, Twitter Instagram
-- 2020-07-08 — Arsenal X Episode 100: The One Where We Hold Each Other Accountable, Try 2 — speakers: Twitter Instagram
-- 2020-06-17 — AX98! - How Xbox Can Swing Back at Sony — speakers: Twitter Instagram
-- 2020-06-11 — AX97! - The World is Changing and We Must Help It Change — speakers: Twitter Instagram
-- 2020-06-06 — Finding Light in a Dark Time - The Black Lives Matter Panel — speakers: Cam Hawkins, Carl Kirk, Edward Varnell, Twitter Instagram, Dualshockers Carl Kirk, Twitch Black Lives, Twitch Saturdays
-- 2020-06-03 — AX96! - Xbox Summer of Gaming Predictions Show — speakers: Twitter Instagram
-- 2020-05-27 — AX95! - Minecraft Dungeons, Saints Row The Third Remastered, Destiny 2, and Control — speakers: Josh Finney, Luke Lohr, Follow Josh, Twitter Follow Luke, Twitter Instagram
-- 2020-05-20 — AX94! - Tony Hawk's Pro Skater 1+2 Remastered, Alan Wake, Anthem's Overhaul, and Control — speakers: Tony Hawk, Alan Wake, Twitter Instagram
-- 2020-05-13 — AX93! - Let's Talk About Those Xbox Series X Reveals — speakers: Jesse Douglas Twitter
-- 2020-05-06 — AX92! - Gears Tactics, Assassin's Creed Valhalla, and Xbox 20|20 — speakers: Creed Valhalla, Jesse Douglas Twitter
-- 2020-04-29 — AX91! - The Xbox Series X Logo Revealed — speakers: Jesse Douglas Twitter
-- 2020-04-22 — AX90! - Cheaters in Call of Duty Crossplay and The Cyberpunk 2077 Xbox One X
-- 2020-04-15 — AX89! - Phil Spencer's Unlocked Interview Has Us Excited — speakers: Phil Spencer
-- 2020-04-01 — AX88! - Nier Automata is Coming to GamePass and Modern Warfare 2 and 3 Rumored Remasters — speakers: Nier Automata
-- 2020-03-25 — AX87! - There Are So Many Games Coming to Xbox
-- 2020-03-21 — AX86! - Warzone is a Different Type of Battle Royale
-- 2020-03-11 — AX85! - Star Wars Galaxy's Edge, Modern Warfare, Fortnite, and Call of Duty Battle Royale — speakers: Galaxy's Edge
-- 2020-03-09 — AX84! - Xbox Series X Details
-- 2020-02-26 — AX83! - EA Cancelled Another Star Wars Game
-- 2020-02-19 — AX82! - Bleeding Edge Beta Impressions and Dan Houser leaves Rockstar — speakers: Dan Houser
-- 2020-02-12 — AX 81 - The Initiative's New Game and Modern Warfare's Season 2
-- 2019-05-20 — Episode 80: The Final Episode Before We Launch The NX Show!
-- 2019-05-02 — Episode 78: Edward's Solo Show — speakers: Solo Show Ed
-- 2019-04-10 — Episode 75: More Than A Box
-- 2019-03-27 — Episode 73: What Does Stadia Mean for xCloud?
-- 2019-03-09 — The State of Arsenal X
-- 2019-03-06 — Episode 70: Crackdown 3 and Anthem — speakers: Edward Twitter
-- 2019-02-25 — Javelins for Hire Episode 8: Our Initial Impressions of Anthem and The 90 Day Roadmap
-- 2019-02-20 — Episode 69: How Does One Solo a 69?
-- 2019-02-13 — Episode 68: Apex Legends, Activision Layoffs, and Xbox Live's Expansion to Other Devices — speakers: Activision Layoffs, Xbox Live's Expansion, Apex Legends
-- 2019-02-06 — Episode 67: Keeping the Positive Message — speakers: groups arsen
-- 2019-02-05 — The Tower Casuals Episode 4: New Destiny Toys and Scout Rifles Live! — speakers: guardian Edward
-- 2019-02-04 — Javelins for Hire Episode 6: Anthem's Endgame Progression
-- 2019-01-30 — Episode 66: Assassin's Creed Controversy and How to Demo a Game as a Service
-- 2019-01-28 — Javelins for Hire Episode 5: Anthem Gameplay Impressions and VIP Demo
-- 2019-01-22 — The Tower Casuals Episode 3: Luke Smith's Message to the Destiny Community — speakers: Luke Smith
-- 2019-01-21 — Javelins for Hire Episode 4: The Villains, The Monitor, The Dominion, and Anthem's Success
-- 2019-01-14 — The Tower Casuals Episode 2: Bungie Splits from Activision
-- 2019-01-14 — Javelins for Hire Episode 3: Javelin Melee, Special Abilities, Gear Slots, and Ally Combos — speakers: Javelin Melee, Gear Slots, Ally Combos
-- 2019-01-09 — Episode 64: Xbox Game of the Year 2018 — speakers: Xbox Game
-- 2019-01-08 — The Tower Casuals Episode 1: Why Destiny is Still Important
-- 2019-01-07 — Javelins for Hire Episode 2: Exploring The Legion of Dawn, The Dominion, Cyphers, and More in Anthem
-- 2018-12-12 — Episode 63: Xbox One's 2019 Road Map
-- 2018-12-05 — Episode 62: Fallout 76's Woes and Battlefield V — speakers: Halo Infinite
-- 2018-11-14 — Inside Xbox XO18 Event Live Watch Along
-- 2018-11-07 — Episode 61: Red Dead Rodeo — speakers: Blackout Mode
-- 2018-10-24 — Episode 60: Solo Mode — speakers: Solo Mode Ed
-- 2018-10-17 — Episode 59: Black Ops 4 and Forza Horizon 4 — speakers: Forza Horizon Edward, Forza Horizon
-- 2018-10-03 — Episode 57: A New Season Begins
-- 2018-09-26 — Episode 56: Blackout Mode — speakers: Blackout Mode Edward, Blackout Mode
-- 2018-09-19 — Aresnal X Presents: The TMNT Movie Commentary
-- 2018-09-12 — Episode 55: Edward's Solo Rodeo Show
-- 2018-09-05 — 54! - Battlefield Gets Delayed and Bungie Lays Down the Ban Hammer
-- 2018-08-29 — Episode 53: Gamescom
-- 2018-08-15 — Episode 52: The Tale of Two Bethesdas?
-- 2018-08-08 — Arsenal X Episode 51 - The Importance of Anthem
-- 2018-08-01 — Episode 50: The August Games With Gold Are Awesome!
-- 2018-07-25 — Episode 49: Resident Evil 2 Remake Gets a Cool Collector's Edition — speakers: Forza Horizon
-- 2018-07-04 — Episode 46: What is Xbox Scarlet? — speakers: Xbox Scarlet
-- 2018-06-27 — Episode 45: State of Decay 2 Leads NPD, Hellblade Sells One Million
-- 2018-06-20 — Episode 44: E3 2018 is Over, What Did We Think?
-- 2018-06-06 — Episode 42: Assassin's Creed Odyssey and Bungie Gets 100 Million Dollars — speakers: Creed Odyssey
-- 2018-05-23 — Episode 41: Call of Duty Black Ops IIII and the New Adaptive Controller
-- 2018-04-25 — Episode 37: Valve Buys Campo Santo, Destiny 2's Warmind Expansion, and Some Professional Outlets Troll Xbox Fans
-- 2018-04-11 — Episode 35: Pax East Special Edition! State of Decay 2, Below, and PUBG Hands On
-- 2018-04-04 — Episode 34: Sea of Thieves Streamer Makes Pirate Legend, But Fans are Mad
-- 2018-03-21 — Episode 32: The Calm Before The Storm — speakers: Inside Xbox
-- 2018-02-21 — Episode 29: Rainbow Six Siege Season 3 and Xbox Arcade Games
-- 2018-02-07 — Episode 28: What If Microsoft Acquired EA or Another Huge Publisher/Developer?
-- 2018-01-31 — Episode 27: Microsoft Game Pass and Anthem Gets Delayed
-- 2018-01-24 — Episode 26: The Roles We Play
-- 2018-01-17 — Episode 25: Is There A New Fable Game On the Horizon? — speakers: Forza Horizon
-- 2017-11-28 — Episode 20: Ed Invented a Game.... — speakers: Ed Invented
-- 2017-11-23 — Episode 19: Curse of Osiris and Battlefront 2's Struggles
-- 2017-11-15 — Episode 18: The GD Ninja Turtles are Coming to Injustice 2!
-- 2017-11-01 — The Arsenal X Pow Block Episode!
-- 2017-10-25 — Episode 17: EA Closes Visceral Games and Trials of the Nine Delayed
-- 2017-09-27 — Episode 13: Destiny 2's Raid Impressions, Xbox's Future, and Fortnite's Crossplay — speakers: Phil Spencer
-- 2017-08-23 — Episode 9: Microsoft at Gamescom!
-- 2017-08-09 — Arsenal X Episode 7: How We Got Into The Xbox Ecosystem
-- 2017-08-02 — Episode 6: How Xbox Could Find a New Path
-- 2017-07-19 — Episode 4: Kingdom Hearts III, Moon Studios, and Reinventing the Xbox Look — speakers: Kingdom Hearts Iii, Xbox Show
-- 2017-07-06 — Episode 1: Forming A Rightful Podcast, Mass Effect Andromeda DLC, and Modern Warfare Remastered's Exclusivity — speakers: Andromeda Dlc
+- 2023-10-10 — 8. Activision Blizzard Deal, Phantom Liberty, More Layoffs, and a Bigger Square-Enix Partnership — speakers: Corey Dirrig, Josh Finney
+- 2023-09-26 — 7. Massive Xbox Leaks, Tokyo Game Show, and Halo 3 Anniversary — speakers: Xbox Leaks, Corey Dirrig, Josh Finney
+- 2023-09-12 — 6. Starfield Spoilercast and Review Discussion, Volition Closes, and Embracer's Troubles — speakers: Corey Dirrig, Josh Finney
+- 2023-08-29 — Baldur's Gate III on Series S, Ubisoft Continues to Struggle, and the IGN Phil Spencer Interview — speakers: Phil Spencer, Corey Dirrig, Josh Finney
+- 2023-08-15 — TMNT: The Last Ronin Announced, Modern Warfare III, and Killer Instinct's Possible Return — speakers: Corey Dirrig, Josh Finney
+- 2023-08-01 — Final Fantasy XIV Comes to Xbox, a Possible Return of Old Transformers Games, and Oblivion Remake Rumors — speakers: Xbox Arsenal, Corey Dirrig, Josh Finney
+- 2023-07-18 — Saying Goodbye to Xbox Legend Major Nelson — speakers: Corey Dirrig, Josh Finney
+- 2023-07-11 — Spotlight. Something Wicked Games CEO and Former Elder Scrolls and Fallout Producer Jeff Gardiner — speakers: Elder Scrolls, Fallout Producer Jeff Gardiner, Jeff Gardiner, Corey Dirrig, Josh Finney
+- 2023-07-04 — Let's Talk About the Activision Blizzard Deal — speakers: Corey Dirrig, Josh Finney
+- 2023-06-12 — X. Xbox Showcase & Starfield Direct Reactions — speakers: Xbox Showcase, Josh Finney, Corey Dirrig
+- 2022-02-15 — 176. Modern Warfare 2 and Warzone 2 Are Coming — speakers: Corey Dirrig, Josh Finney
+- 2022-02-08 — GTA VI, MLB The Show, and Sony Buys Bungie — speakers: Corey Dirrig, Josh Finney
+- 2022-02-01 — 174. Halo Trailer and Certain Affinity Making a Monster Hunter Like — speakers: Corey Dirrig, Josh Finney
+- 2022-01-25 — 173. Activision Blizzard IP, E3 2022 Canceled, and Xbox Game Draft 2022 — speakers: Blizzard IP, Xbox Game Draft, Activision Blizzard ga, Corey Dirrig, Josh Finney
+- 2022-01-18 — 172. Microsoft to Purchase Activision Blizzard — speakers: Activision Blizzard, Corey Dirrig, Josh Finney
+- 2022-01-18 — 171. Xbox Series Sales Numbers and Take Two Buys Zynga — speakers: Josh Finney, Corey Dirrig
+- 2022-01-11 — 170. E3 Goes Digital, Ubisoft Plus, and Jedi Fallen Order 2 — speakers: Ubisoft Plus, Jedi Fallen Order, Corey Dirrig, Josh Finney
+- 2022-01-04 — 169. Xbox in 2022 and Beyond — speakers: Corey Dirrig, Josh Finney
+- 2021-12-21 — 168. Xbox 2021 Year in Review — speakers: Assassin’s Cr, Corey Dirrig, Josh Finney
+- 2021-12-14 — 167. Hellblade II Graphical Dream and Halo Infinite Campaign Impressions — speakers: Corey Dirrig, Josh Finney
+- 2021-12-07 — 166. Sea of Thieves Season 5, Fortnite, and New Halo Playlists — speakers: Corey Dirrig, Josh Finney
+- 2021-11-30 — 165. Game Awards Discussions, Traditions, and Xbox Series S Winning Black Friday — speakers: Corey Dirrig, Josh Finney
+- 2021-11-23 — 164. Halo and GamePass, gotta love it - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-11-16 — Xbox and Halo Celebrate 20 Years of Playing Games Together — speakers: Corey Dirrig, Josh Finney
+- 2021-11-15 — 163. Compulsion and Obsidian's Next Projects and Favorite Xbox Memories — speakers: Forza Horizon, Corey Dirrig, Josh Finney
+- 2021-11-09 — 162. From Forza With Love - Arsenal X: The XBOX Podcast — speakers: Forza Ho, Corey Dirrig, Josh Finney
+- 2021-11-02 — 161. Halo Variety Show - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-10-26 — 160. AAA The XBOX Way - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-10-19 — 159. FIFA, DC FanDome, Final Fantasy XIV, and a Major Minecraft Update — speakers: Fantasy Xiv, Corey Dirrig, Josh Finney
+- 2021-10-12 — 158. GTA Remastered, Spooky Games, and Xbox's Unannounced Roadmap — speakers: Gta Remastered, Spooky Games, Unannounced Roadmap, Corey Dirrig, Josh Finney
+- 2021-10-05 — 157. Tokyo Game Show Recap - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-09-28 — 156. Need More Tomb Raider and Deus Ex - Arsenal X: The XBOX Podcast — speakers: More Tomb Raider, Corey Dirrig, Josh Finney
+- 2021-09-21 — 155. What Will Microsoft Buy Next - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-09-14 — 154. XBOX Does Have Games - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-09-07 — 153. How XBOX Is Doing Things Right - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-08-31 — 152. GamesCom week Recap - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-08-24 — 151. From QuakeCon to GamesCom - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-08-17 — 150. ID@XBOX Showcase Recap - Arsenal X: The Xbox Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-08-10 — 149. Battle Royal Stay off my Halo - Arsenal X: The Xbox Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-08-03 — 148. Top 10 Xbox Franchises of All Time — speakers: Xbox Franchises, All Time Stoy, Corey Dirrig, Josh Finney
+- 2021-07-27 — 147. New XBOX Controller? - Arsenal X: The XBOX Podcast — speakers: Joins Jesse, Phil Spencer, Corey Dirrig, Josh Finney
+- 2021-07-20 — 146. Is Valve's Steam Deck The Secret Weapon for GamePass? — speakers: Corey Dirrig, Josh Finney
+- 2021-07-13 — 145. New Games and New Beginnings - Arsenal X: An XBOX Podcast — speakers: Corey Talk, Corey Dirrig, Josh Finney
+- 2021-06-29 — 144. The Future Looks Bright - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-06-22 — 143. XBOX Showcase Extended Recap - Arsenal X: The XBOX Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-06-08 — 142. 20 Years of XBOX Part: 2 - Arsenal X: Podcast — speakers: Rnl Panic, Corey Dirrig, Josh Finney
+- 2021-06-01 — 141. 20 Years of XBOX part: 1 - Arsenal X: Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-05-25 — 140. E3 Predictions: Xbox + Bethesda - Arsenal X: The Xbox Podcast — speakers: Xbox Bethesda Arsenal, Corey Dirrig, Josh Finney
+- 2021-05-18 — 139. Starfield is a Microsoft Exclusive - Arsenal X Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-05-11 — 138. single vs multiplayer - Arsenal X Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-04-27 — 137. Respawn has New Ideas - Arsenal X Podcast — speakers: Ed Talk, Corey Dirrig, Josh Finney
+- 2021-04-20 — 136. Life is the real Game - Arsenal X Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-04-13 — 135. Teasers, Rumors and Kojima. OH MY — speakers: Corey Dirrig, Josh Finney
+- 2021-03-30 — 134 We Have Games Galore - Arsenal X Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-03-23 — 133. ID@XBOX teams up with Twitch - Arsenal X: The Xbox Podcast — speakers: Corey Dirrig, Josh Finney
+- 2021-03-16 — 132. Xbox Plus Bethesda Makes GamePass Better - Arsenal X: The Xbox Podcast Episode 132 — speakers: Xbox Plus Bethesda, Corey Dirrig, Josh Finney
+- 2021-03-16 — 131. Outriders Demo Impressions and Next Gen Tomb Raider — speakers: Gen Tomb Raider, Tomb Raider, Corey Dirrig, Josh Finney
+- 2021-03-09 — 130. Halo Infinite Looks Like A Different Game — speakers: Halo Infinite Looks, Corey Dirrig, Josh Finney
+- 2021-02-25 — 129. New Host, Same Xbox Channel — speakers: Corey Dirrig, Josh Finney
+- 2021-02-02 — 128. Halo Infinite Monthly Updates, Xbox Live Prices, and Saying Farewell to Dear Friends — speakers: Saying Farewell, Halo Infinite, Corey Dirrig, Josh Finney
+- 2021-01-26 — 127. Is Knights of the Old Republic in the Works? Sounds Like It — speakers: Corey Dirrig, Josh Finney
+- 2021-01-19 — 126. Indiana Jones, Star Wars, and The End of EA's Exclusivity — speakers: Corey Dirrig, Josh Finney
+- 2021-01-12 — 125. Is Halo Infinite a Make or Break for Xbox? We Discuss — speakers: Corey Dirrig, Josh Finney
+- 2021-01-05 — 124. Fable, Mass Effect, Halo Infinite and More - What Are We Looking Forward to in 2021 — speakers: Halo Infinite, Corey Dirrig, Josh Finney
+- 2020-12-29 — 123. Our End of the Year Discussions — speakers: Corey Dirrig, Josh Finney
+- 2020-12-22 — 122. The Game Awards and Xbox Game Studios Lineup — speakers: Corey Dirrig, Josh Finney
+- 2020-12-15 — 121. Cyberpunk 2077 Initial Thoughts and Impressions — speakers: Twitch Follow Jesse, Twitter Instagram, Twitch Follow Josh, Corey Dirrig, Josh Finney
+- 2020-12-08 — AX120! - Casey Hudson and Mark Darrah Leave BioWare — speakers: Casey Hudson, Mark Darrah, Corey Dirrig, Josh Finney
+- 2020-12-01 — AX119! - Someone Fleeted a Hedgehog — speakers: Jesse ge, Corey Dirrig, Josh Finney
+- 2020-11-17 — AX118! - Xbox Series X and Xbox Series S are Here. What Do We Think? — speakers: Corey Dirrig, Josh Finney
+- 2020-11-10 — Sierra 117 - Celebrating The Master Chief, Halo, and The Xbox — speakers: Corey Dirrig, Josh Finney
+- 2020-11-03 — AX116! - Third Parties Are Confusing Gamers About Series X/S Optimization — speakers: Corey Dirrig, Josh Finney
+- 2020-10-27 — AX115! - Halo: The Master Chief Collection Series X Optimization, Bethesda Exclusivity, Elite V2 Issues, and Feedback! — speakers: Corey Dirrig, Josh Finney
+- 2020-10-20 — AX114! - GameStop Gets a Cut from Microsoft and Bethesda Might Stay Exclusive — speakers: Bethesda Might Stay Exclusive, Boss Rush, Phil Spe, Corey Dirrig, Josh Finney
+- 2020-10-13 — AX113! - GamePass is The Best Deal Period, Microsoft and GameStop Partner — speakers: Corey Dirrig, Josh Finney
+- 2020-10-06 — AX112! - Xbox Series X and the Details on Backwards Compatibility — speakers: Corey Dirrig, Josh Finney
+- 2020-09-29 — AX111! - Microsoft Bought Bethesda and We Bought Series X's — speakers: Corey Dirrig, Josh Finney
+- 2020-09-22 — AX110! - Preordering Xbox Could Be Messy — speakers: Corey Dirrig, Josh Finney
+- 2020-09-22 — Microsoft Acquires Bethesda — speakers: Corey Dirrig, Josh Finney
+- 2020-09-15 — AX109! - Xbox Series X and Series S Breakdown and Ubisoft Forward — speakers: Corey Dirrig, Josh Finney
+- 2020-09-08 — AX108! - Tell Me Why, Wasteland 3, Marvel's Avengers, Fortnite, Tony Hawk's Pro Skater, and Gears 5 DLC — speakers: Tony Hawk, Corey Dirrig, Josh Finney
+- 2020-09-01 — AX107! - Halo Infinite Adds Some Franchise Veterans and Marvel's Avengers Has a Battle Pass Problem — speakers: Corey Dirrig, Josh Finney
+- 2020-08-25 — AX106! - Gotham Knights, Suicide Squad Kill the Justice League, and the Halo Infinite Issue — speakers: Gotham Knights, Corey Dirrig, Josh Finney
+- 2020-08-12 — AX105! - The Avengers and xCloud on iOS — speakers: Corey Dirrig, Josh Finney
+- 2020-08-05 — AX104! - Halo Infinite's Multiplayer is Free — speakers: Halo Infinite, Halo Multiplayer, Follow Corey, Corey Dirrig, Josh Finney
+- 2020-07-29 — AX103! - Breaking Down The Xbox Games Showcase — speakers: Corey Dirrig, Josh Finney
+- 2020-07-22 — AX102! - What is Xbox Preparing For? — speakers: Corey Dirrig, Josh Finney
+- 2020-07-15 — AX101: Ubisoft Forward and Xbox's Next Generation Plans — speakers: Josh Finney, Corey Dirrig
+- 2020-07-08 — Arsenal X Episode 100: The One Where We Hold Each Other Accountable, Try 2 — speakers: Hold Each Other Accountable, Corey Dirrig, Josh Finney
+- 2020-06-17 — AX98! - How Xbox Can Swing Back at Sony — speakers: Corey Dirrig, Josh Finney
+- 2020-06-11 — AX97! - The World is Changing and We Must Help It Change — speakers: Corey Dirrig, Josh Finney
+- 2020-06-06 — Finding Light in a Dark Time - The Black Lives Matter Panel — speakers: Cam Hawkins, Corey Dirrig, Josh Finney
+- 2020-06-03 — AX96! - Xbox Summer of Gaming Predictions Show — speakers: Corey Dirrig, Josh Finney
+- 2020-05-27 — AX95! - Minecraft Dungeons, Saints Row The Third Remastered, Destiny 2, and Control — speakers: Josh Finney, Luke Lohr, Corey Dirrig
+- 2020-05-20 — AX94! - Tony Hawk's Pro Skater 1+2 Remastered, Alan Wake, Anthem's Overhaul, and Control — speakers: Tony Hawk, Alan Wake, Corey Dirrig, Josh Finney
+- 2020-05-13 — AX93! - Let's Talk About Those Xbox Series X Reveals — speakers: Corey Dirrig, Josh Finney
+- 2020-05-06 — AX92! - Gears Tactics, Assassin's Creed Valhalla, and Xbox 20|20 — speakers: Creed Valhalla, Corey Dirrig, Josh Finney
+- 2020-04-29 — AX91! - The Xbox Series X Logo Revealed — speakers: Corey Dirrig, Josh Finney
+- 2020-04-22 — AX90! - Cheaters in Call of Duty Crossplay and The Cyberpunk 2077 Xbox One X — speakers: Corey Dirrig, Josh Finney
+- 2020-04-15 — AX89! - Phil Spencer's Unlocked Interview Has Us Excited — speakers: Phil Spencer, Phil Spe, Corey Dirrig, Josh Finney
+- 2020-04-01 — AX88! - Nier Automata is Coming to GamePass and Modern Warfare 2 and 3 Rumored Remasters — speakers: Nier Automata, Corey Dirrig, Josh Finney
+- 2020-03-25 — AX87! - There Are So Many Games Coming to Xbox — speakers: Corey Dirrig, Josh Finney
+- 2020-03-21 — AX86! - Warzone is a Different Type of Battle Royale — speakers: Corey Dirrig, Josh Finney
+- 2020-03-11 — AX85! - Star Wars Galaxy's Edge, Modern Warfare, Fortnite, and Call of Duty Battle Royale — speakers: Galaxy's Edge, Corey Dirrig, Josh Finney
+- 2020-03-09 — AX84! - Xbox Series X Details — speakers: Corey Dirrig, Josh Finney
+- 2020-02-26 — AX83! - EA Cancelled Another Star Wars Game — speakers: Corey Dirrig, Josh Finney
+- 2020-02-19 — AX82! - Bleeding Edge Beta Impressions and Dan Houser leaves Rockstar — speakers: Dan Houser, Corey Dirrig, Josh Finney
+- 2020-02-12 — AX 81 - The Initiative's New Game and Modern Warfare's Season 2 — speakers: Corey Dirrig, Josh Finney
+- 2019-05-20 — Episode 80: The Final Episode Before We Launch The NX Show! — speakers: Corey Dirrig, Josh Finney
+- 2019-05-02 — Episode 78: Edward's Solo Show — speakers: Solo Show Ed, Corey Dirrig, Josh Finney
+- 2019-04-10 — Episode 75: More Than A Box — speakers: Corey Dirrig, Josh Finney
+- 2019-03-27 — Episode 73: What Does Stadia Mean for xCloud? — speakers: Corey Dirrig, Josh Finney
+- 2019-03-09 — The State of Arsenal X — speakers: Corey Dirrig, Josh Finney
+- 2019-03-06 — Episode 70: Crackdown 3 and Anthem — speakers: Corey Dirrig, Josh Finney
+- 2019-02-25 — Javelins for Hire Episode 8: Our Initial Impressions of Anthem and The 90 Day Roadmap — speakers: Corey Dirrig, Josh Finney
+- 2019-02-20 — Episode 69: How Does One Solo a 69? — speakers: Corey Dirrig, Josh Finney
+- 2019-02-13 — Episode 68: Apex Legends, Activision Layoffs, and Xbox Live's Expansion to Other Devices — speakers: Activision Layoffs, Xbox Live's Expansion, Apex Legends, Corey Dirrig, Josh Finney
+- 2019-02-06 — Episode 67: Keeping the Positive Message — speakers: Corey Dirrig, Josh Finney
+- 2019-02-05 — The Tower Casuals Episode 4: New Destiny Toys and Scout Rifles Live! — speakers: guardian Edward, Corey Dirrig, Josh Finney
+- 2019-02-04 — Javelins for Hire Episode 6: Anthem's Endgame Progression — speakers: Corey Dirrig, Josh Finney
+- 2019-01-30 — Episode 66: Assassin's Creed Controversy and How to Demo a Game as a Service — speakers: Corey Dirrig, Josh Finney
+- 2019-01-28 — Javelins for Hire Episode 5: Anthem Gameplay Impressions and VIP Demo — speakers: Corey Dirrig, Josh Finney
+- 2019-01-22 — The Tower Casuals Episode 3: Luke Smith's Message to the Destiny Community — speakers: Luke Smith, Corey Dirrig, Josh Finney
+- 2019-01-21 — Javelins for Hire Episode 4: The Villains, The Monitor, The Dominion, and Anthem's Success — speakers: Corey Dirrig, Josh Finney
+- 2019-01-14 — The Tower Casuals Episode 2: Bungie Splits from Activision — speakers: Corey Dirrig, Josh Finney
+- 2019-01-14 — Javelins for Hire Episode 3: Javelin Melee, Special Abilities, Gear Slots, and Ally Combos — speakers: Javelin Melee, Gear Slots, Ally Combos, Corey Dirrig, Josh Finney
+- 2019-01-09 — Episode 64: Xbox Game of the Year 2018 — speakers: Xbox Game, Corey Dirrig, Josh Finney
+- 2019-01-08 — The Tower Casuals Episode 1: Why Destiny is Still Important — speakers: Corey Dirrig, Josh Finney
+- 2019-01-07 — Javelins for Hire Episode 2: Exploring The Legion of Dawn, The Dominion, Cyphers, and More in Anthem — speakers: Corey Dirrig, Josh Finney
+- 2018-12-12 — Episode 63: Xbox One's 2019 Road Map — speakers: Xbox One, Xbox One Game, Corey Dirrig, Josh Finney
+- 2018-12-05 — Episode 62: Fallout 76's Woes and Battlefield V — speakers: Corey Dirrig, Josh Finney
+- 2018-11-14 — Inside Xbox XO18 Event Live Watch Along — speakers: Corey Dirrig, Josh Finney
+- 2018-11-07 — Episode 61: Red Dead Rodeo — speakers: Corey Dirrig, Josh Finney
+- 2018-10-24 — Episode 60: Solo Mode — speakers: Solo Mode Ed, Corey Dirrig, Josh Finney
+- 2018-10-17 — Episode 59: Black Ops 4 and Forza Horizon 4 — speakers: Forza Horizon Edward, Forza Horizon, Corey Dirrig, Josh Finney
+- 2018-10-03 — Episode 57: A New Season Begins — speakers: Corey Dirrig, Josh Finney
+- 2018-09-26 — Episode 56: Blackout Mode — speakers: Blackout Mode Edward, Blackout Mode, Corey Dirrig, Josh Finney
+- 2018-09-19 — Aresnal X Presents: The TMNT Movie Commentary — speakers: Corey Dirrig, Josh Finney
+- 2018-09-12 — Episode 55: Edward's Solo Rodeo Show — speakers: Corey Dirrig, Josh Finney
+- 2018-09-05 — 54! - Battlefield Gets Delayed and Bungie Lays Down the Ban Hammer — speakers: Corey Dirrig, Josh Finney
+- 2018-08-29 — Episode 53: Gamescom — speakers: Corey Dirrig, Josh Finney
+- 2018-08-15 — Episode 52: The Tale of Two Bethesdas? — speakers: Corey Dirrig, Josh Finney
+- 2018-08-08 — Arsenal X Episode 51 - The Importance of Anthem — speakers: Corey Dirrig, Josh Finney
+- 2018-08-01 — Episode 50: The August Games With Gold Are Awesome! — speakers: Corey Dirrig, Josh Finney
+- 2018-07-25 — Episode 49: Resident Evil 2 Remake Gets a Cool Collector's Edition — speakers: Forza Hori, Corey Dirrig, Josh Finney
+- 2018-07-04 — Episode 46: What is Xbox Scarlet? — speakers: Xbox Scarlet, Corey Dirrig, Josh Finney
+- 2018-06-27 — Episode 45: State of Decay 2 Leads NPD, Hellblade Sells One Million — speakers: Corey Dirrig, Josh Finney
+- 2018-06-20 — Episode 44: E3 2018 is Over, What Did We Think? — speakers: Corey Dirrig, Josh Finney
+- 2018-06-06 — Episode 42: Assassin's Creed Odyssey and Bungie Gets 100 Million Dollars — speakers: Creed Odyssey, Corey Dirrig, Josh Finney
+- 2018-05-23 — Episode 41: Call of Duty Black Ops IIII and the New Adaptive Controller — speakers: Corey Dirrig, Josh Finney
+- 2018-04-25 — Episode 37: Valve Buys Campo Santo, Destiny 2's Warmind Expansion, and Some Professional Outlets Troll Xbox Fans — speakers: Corey Dirrig, Josh Finney
+- 2018-04-11 — Episode 35: Pax East Special Edition! State of Decay 2, Below, and PUBG Hands On — speakers: Corey Dirrig, Josh Finney
+- 2018-04-04 — Episode 34: Sea of Thieves Streamer Makes Pirate Legend, But Fans are Mad — speakers: Corey Dirrig, Josh Finney
+- 2018-03-21 — Episode 32: The Calm Before The Storm — speakers: Corey Dirrig, Josh Finney
+- 2018-02-21 — Episode 29: Rainbow Six Siege Season 3 and Xbox Arcade Games — speakers: Corey Dirrig, Josh Finney
+- 2018-02-07 — Episode 28: What If Microsoft Acquired EA or Another Huge Publisher/Developer? — speakers: Corey Dirrig, Josh Finney
+- 2018-01-31 — Episode 27: Microsoft Game Pass and Anthem Gets Delayed — speakers: Corey Dirrig, Josh Finney
+- 2018-01-24 — Episode 26: The Roles We Play — speakers: Corey Dirrig, Josh Finney
+- 2018-01-17 — Episode 25: Is There A New Fable Game On the Horizon? — speakers: Forza Horizon, Corey Dirrig, Josh Finney
+- 2017-11-28 — Episode 20: Ed Invented a Game.... — speakers: Ed Invented, Corey Dirrig, Josh Finney
+- 2017-11-23 — Episode 19: Curse of Osiris and Battlefront 2's Struggles — speakers: Corey Dirrig, Josh Finney
+- 2017-11-15 — Episode 18: The GD Ninja Turtles are Coming to Injustice 2! — speakers: Corey Dirrig, Josh Finney
+- 2017-11-01 — The Arsenal X Pow Block Episode! — speakers: Corey Dirrig, Josh Finney
+- 2017-10-25 — Episode 17: EA Closes Visceral Games and Trials of the Nine Delayed — speakers: Corey Dirrig, Josh Finney
+- 2017-09-27 — Episode 13: Destiny 2's Raid Impressions, Xbox's Future, and Fortnite's Crossplay — speakers: Corey Dirrig, Josh Finney
+- 2017-08-23 — Episode 9: Microsoft at Gamescom! — speakers: Corey Dirrig, Josh Finney
+- 2017-08-09 — Arsenal X Episode 7: How We Got Into The Xbox Ecosystem — speakers: Community Extraordinaire, Corey Dirrig, Josh Finney
+- 2017-08-02 — Episode 6: How Xbox Could Find a New Path — speakers: Corey Dirrig, Josh Finney
+- 2017-07-19 — Episode 4: Kingdom Hearts III, Moon Studios, and Reinventing the Xbox Look — speakers: Kingdom Hearts Iii, Corey Dirrig, Josh Finney
+- 2017-07-06 — Episode 1: Forming A Rightful Podcast, Mass Effect Andromeda DLC, and Modern Warfare Remastered's Exclusivity — speakers: Andromeda Dlc, Corey Dirrig, Josh Finney
