@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-02-24T16:14:08+00:00`
-- checked_at: `2026-02-24T16:14:08+00:00`
-- etag: `"f8598f0717102961672dbad98444a6ca"`
-- last_modified: `Tue, 24 Feb 2026 16:00:05 GMT`
+- fetched_at: `2026-02-26T13:43:52+00:00`
+- checked_at: `2026-02-26T13:43:52+00:00`
+- etag: `"34569d17a50ec0e871d13cfdccf38a7e"`
+- last_modified: `Thu, 26 Feb 2026 13:08:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-02-24T16:14:08+00:00",
+  "fetched_at": "2026-02-26T13:43:52+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -34,7 +34,7 @@
       "title": "#517 - A Peruvian Exit, A 14 Pocket Scenario and A Neyland in the Coffin",
       "published_at": "2026-02-24T16:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m002rqs9",
-      "description": "Elis has Barrel of Eggs’ed it. Or more accurately, Isy has. The new car has met its match in the form of inner-London carpark tight corners. But for a show that holds content on the highest pedestal possible, this can only be seen as a good thing. Not only has Elis got a damaged car, but he also has a damaged connection rate in the Cymru Connection. Can youth-based listener Holly be the ticket Elis needs to do a three-point turn and drive straight up Success Alley? Elsewhere there’s an abundance of fun as both Benjamin Partridge and Lou Sanders give their two cents on hot air balloons and the glowing-up of Elis James respectively, John does some winning and losing, and a trip to the sound proof booth causes Elis to do some very strange things… Keep watering the soil of content by sending in your fantastic correspondence to elisandjohn@bbc.co.uk.",
+      "description": "Elis has Barrel of Eggs’ed it. Or more accurately, Isy has. The new car has met its match in the form of inner-London car park tight corners. But for a show that holds content on the highest pedestal possible, this can only be seen as a good thing. Not only has Elis got a damaged car, but he also has a damaged connection rate in the Cymru Connection. Can youth-based listener Holly be the ticket Elis needs to do a three point turn and drive straight up Success Alley? Elsewhere there’s an abundance of fun as both Benjamin Partridge and Lou Sanders give their two cents on hot air balloons and the glowing-up of Elis James respectively, John does some winning and losing, and a trip to the sound proof booth causes Elis to do some very strange things… Keep watering the soil of content by sending in your fantastic correspondence to elisandjohn@bbc.co.uk.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n2z36m.mp3",
       "enclosure_type": "audio/mpeg",

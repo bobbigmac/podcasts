@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-02-25T21:48:47+00:00`
-- checked_at: `2026-02-25T21:48:47+00:00`
-- etag: `"djEuMi4wOjE3NzIwNDk2NzgyMjA="`
+- fetched_at: `2026-02-26T13:43:52+00:00`
+- checked_at: `2026-02-26T13:43:52+00:00`
+- etag: `"djEuMi4wOjE3NzIxMTA4MzkzNzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-02-25T21:48:47+00:00",
+  "fetched_at": "2026-02-26T13:43:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ff5151cc6a6f79a9f21fec6bcac0adac9ca41c0f",
+      "title": "What should we replace the monarchy with? Q&A special",
+      "published_at": "2026-02-26T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69a02771fa559577228c4b7f",
+      "description": "With the shroud of purdah descending this fine Thursday, we take to the studio to answer some of your burning questions. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69a02771fa559577228c4b7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80023908",
+      "itunes_duration": "41:39",
+      "speakers": [],
+      "topics": [
+        "monarchy",
+        "special"
+      ]
+    },
     {
       "key": "37d158dcdd2e67d4c6ff4a88831d7a773a0d4297",
       "title": "Fact-checking Keir Starmer's Student Loans claims at PMQs",
@@ -11702,6 +11719,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-26 — What should we replace the monarchy with? Q&A special
 - 2026-02-25 — Fact-checking Keir Starmer's Student Loans claims at PMQs
 - 2026-02-24 — Are MPs about to expose ANOTHER Andrew scandal? — speakers: Peter Mandelson
 - 2026-02-23 — Nigel Farage denied entry to Chagos and Prince Andrew's shady dealings — speakers: Prince Andrew

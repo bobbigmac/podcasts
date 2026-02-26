@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `"83cda8dc5ae4c9c6792baa8040fef5ae"`
-- last_modified: `Fri, 20 Feb 2026 14:56:10 GMT`
+- fetched_at: `2026-02-26T13:43:52+00:00`
+- checked_at: `2026-02-26T13:43:52+00:00`
+- etag: `"4f1bba137371f747fe635057a9d2a08e"`
+- last_modified: `Thu, 26 Feb 2026 12:56:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-02-26T13:43:52+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -47,9 +47,7 @@
         "Christopher Macarthur-Boyd",
         "Val McDermid Des",
         "Andrew Mountbatten-Windsor",
-        "Nathan Cowley Additional",
-        "Scott Graham",
-        "Rebecca Bain"
+        "Bbc Radio Scotland"
       ],
       "topics": [
         "gareth",
@@ -73,13 +71,7 @@
       "enclosure_length": "26880000",
       "itunes_duration": "1680",
       "speakers": [
-        "Lead Writer",
-        "Elaine Malcolmson Additional",
-        "Jay Bhatt",
-        "Duncan Black",
-        "Neil Bratchpiece",
-        "Alex Buchanan",
-        "Uttom Chowdhury"
+        "Bbc Radio Scotland"
       ],
       "topics": [
         "year"
@@ -97,14 +89,8 @@
       "enclosure_length": "26880000",
       "itunes_duration": "1680",
       "speakers": [
-        "Chris Quilietti",
-        "David Flynn",
-        "Sam Lake Jay",
-        "Mark Nelson Kemah",
-        "Bob Amy Matthews",
-        "Evans Liam",
-        "Robertson Ria",
-        "Raymond Mearns"
+        "Unbroadcast Join Des Clarke",
+        "Bbc Radio Scotland"
       ],
       "topics": [
         "best",
@@ -125,12 +111,7 @@
       "speakers": [
         "Lead Writer",
         "Laura Major",
-        "Chris Ballard",
-        "Nathan Cowley",
-        "Stephen Halford",
-        "Jennifer Walker",
-        "Chris Quilietti",
-        "David Flynn Script"
+        "Bbc Radio Scotland"
       ],
       "topics": [
         "year",
@@ -152,11 +133,7 @@
         "Vittorio Angelone",
         "Kathleen Hughes",
         "Scott Agnew",
-        "Judy Murray",
-        "Lead Writer",
-        "Rebecca Bain",
-        "Alex Garrick Wright",
-        "Nathan Cowley"
+        "Bbc Radio Scotland"
       ],
       "topics": [
         "vittorio",
@@ -186,9 +163,7 @@
         "Elaine Malcolmson",
         "Chris Thorburn",
         "Rachel Reeves",
-        "Zarah Sultana",
-        "Grant Morrison",
-        "Nathan Cowley"
+        "Bbc Radio Scotland"
       ],
       "topics": [
         "susie",
@@ -200,36 +175,6 @@
         "chris",
         "thorburn"
       ]
-    },
-    {
-      "key": "f0f7a4e94fbe19dbce24f8597c67ccdf62a005e2",
-      "title": "Jim Smith, Ria Lina, Raymond Mearns and Athena Kugblenu",
-      "published_at": "2025-11-28T14:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002mp5s",
-      "description": "Des and the teams break up the week's big news. Including: the UK Government's Budget, the rise in the use of private weight-loss jabs, new research into brain development, a pub that’s caused outrage by banning solo drinkers after 9, Dick Van Dyke at 100 and much more. Lead Writer: Nathan Cowley Additional material: Chris Stanners, Scott Graham, Chris Willshaw, Lucienne Cummings, Chris Ballard, Skylar Macdonald, Kit Proudfoot , Gregor Paton, Terry Hughes, Claire Cox Producer: Chris Quilietti Producer: Jodie White Senior Producer: Lauren Mackay Series Producer: David Flynn Script Editor: Keiron Nicholson An Eco-Audio certified Production",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mkccmm.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Jim Smith",
-        "Ria Lina",
-        "Raymond Mearns",
-        "Athena Kugblenu Des",
-        "Dick Van Dyke",
-        "Lead Writer",
-        "Nathan Cowley Additional",
-        "Chris Stanners"
-      ],
-      "topics": [
-        "smith",
-        "lina",
-        "raymond",
-        "mearns",
-        "athena",
-        "kugblenu"
-      ]
     }
   ]
 }
@@ -238,10 +183,9 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Nathan Cowley Additional, Scott Graham, Rebecca Bain
-- 2026-01-01 — Breaking the Year — speakers: Lead Writer, Elaine Malcolmson Additional, Jay Bhatt, Duncan Black, Neil Bratchpiece, Alex Buchanan, Uttom Chowdhury
-- 2025-12-26 — The Best of Unbroadcast — speakers: Chris Quilietti, David Flynn, Sam Lake Jay, Mark Nelson Kemah, Bob Amy Matthews, Evans Liam, Robertson Ria, Raymond Mearns
-- 2025-12-19 — 10 Years of Breaking the News — speakers: Lead Writer, Laura Major, Chris Ballard, Nathan Cowley, Stephen Halford, Jennifer Walker, Chris Quilietti, David Flynn Script
-- 2025-12-12 — Vittorio Angelone, Kathleen Hughes, Tiffany Stevenson and Scott Agnew — speakers: Vittorio Angelone, Kathleen Hughes, Scott Agnew, Judy Murray, Lead Writer, Rebecca Bain, Alex Garrick Wright, Nathan Cowley
-- 2025-12-05 — Susie McCabe, Ahir Shah, Elaine Malcolmson and Chris Thorburn — speakers: Susie McCabe, Ahir Shah, Elaine Malcolmson, Chris Thorburn, Rachel Reeves, Zarah Sultana, Grant Morrison, Nathan Cowley
-- 2025-11-28 — Jim Smith, Ria Lina, Raymond Mearns and Athena Kugblenu — speakers: Jim Smith, Ria Lina, Raymond Mearns, Athena Kugblenu Des, Dick Van Dyke, Lead Writer, Nathan Cowley Additional, Chris Stanners
+- 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Bbc Radio Scotland
+- 2026-01-01 — Breaking the Year — speakers: Bbc Radio Scotland
+- 2025-12-26 — The Best of Unbroadcast — speakers: Unbroadcast Join Des Clarke, Bbc Radio Scotland
+- 2025-12-19 — 10 Years of Breaking the News — speakers: Lead Writer, Laura Major, Bbc Radio Scotland
+- 2025-12-12 — Vittorio Angelone, Kathleen Hughes, Tiffany Stevenson and Scott Agnew — speakers: Vittorio Angelone, Kathleen Hughes, Scott Agnew, Bbc Radio Scotland
+- 2025-12-05 — Susie McCabe, Ahir Shah, Elaine Malcolmson and Chris Thorburn — speakers: Susie McCabe, Ahir Shah, Elaine Malcolmson, Chris Thorburn, Rachel Reeves, Bbc Radio Scotland

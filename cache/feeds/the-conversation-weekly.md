@@ -2,11 +2,11 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"232122-64b2f3116e16b"`
-- last_modified: `Thu, 19 Feb 2026 15:45:19 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-26T13:43:52+00:00`
+- checked_at: `2026-02-26T13:43:52+00:00`
+- etag: `"232122-64bb85c135e46"`
+- last_modified: `Thu, 26 Feb 2026 11:24:11 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,8 +18,10 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-26T13:43:52+00:00",
+  "owners": [
+    "Gemma Ware"
+  ],
   "common_speakers": [],
   "categories": [
     "education"
@@ -38,13 +40,7 @@
       "itunes_duration": "24:17",
       "speakers": [
         "Vladmir Putin",
-        "James Rodgers",
-        "Ashlynne McGhee",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "Vladimir Putin",
-        "Zelenskyy Mentioned",
-        "Donald Trump"
+        "Gemma Ware"
       ],
       "topics": [
         "humiliation",
@@ -64,12 +60,8 @@
       "enclosure_length": "36078489",
       "itunes_duration": "25:03",
       "speakers": [
-        "Daniel Cueto-Villalobos",
-        "George Floyd",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "Donald Trump"
+        "How Minneapolis",
+        "Gemma Ware"
       ],
       "topics": [
         "minneapolis"
@@ -87,11 +79,8 @@
       "enclosure_length": "33732484",
       "itunes_duration": "23:25",
       "speakers": [
-        "William Perry",
-        "John Affleck",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "America Super Bowl Sunday",
+        "Gemma Ware"
       ],
       "topics": [
         "super",
@@ -112,10 +101,8 @@
       "enclosure_length": "40765483",
       "itunes_duration": "28:19",
       "speakers": [
-        "Amin Naeni",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "Donald Trump"
+        "How Iran",
+        "Gemma Ware"
       ],
       "topics": [
         "iran",
@@ -134,10 +121,7 @@
       "enclosure_length": "40263932",
       "itunes_duration": "27:58",
       "speakers": [
-        "Donald Trump",
-        "Paul Bierman",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "base",
@@ -157,9 +141,7 @@
       "enclosure_length": "31357640",
       "itunes_duration": "21:47",
       "speakers": [
-        "Callum Roberts",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "treaty",
@@ -178,11 +160,7 @@
       "enclosure_length": "26605485",
       "itunes_duration": "18:29",
       "speakers": [
-        "Joe Wright",
-        "Justin Bergman",
-        "Isabella Podwinski",
-        "Ashlynne McGhee",
-        "Michelle Macklem"
+        "Gemma Ware"
       ],
       "topics": [
         "making",
@@ -202,14 +180,7 @@
       "enclosure_length": "21740013",
       "itunes_duration": "15:06",
       "speakers": [
-        "Donald Trump",
-        "James Comey",
-        "Letitia James",
-        "John Bolton",
-        "Adam Schiff",
-        "Mark Kelly",
-        "Kamala Harris",
-        "Justin Bergman"
+        "Gemma Ware"
       ],
       "topics": [
         "making",
@@ -229,12 +200,7 @@
       "enclosure_length": "24736365",
       "itunes_duration": "17:11",
       "speakers": [
-        "Donald Trump",
-        "Paul Collins",
-        "Justin Bergman",
-        "Isabella Podwinski",
-        "Ashlynne McGhee",
-        "Michelle Macklem"
+        "Gemma Ware"
       ],
       "topics": [
         "making",
@@ -254,12 +220,7 @@
       "enclosure_length": "20789037",
       "itunes_duration": "14:26",
       "speakers": [
-        "Donald Trump",
-        "Natasha Lindstaedt",
-        "Justin Bergman",
-        "Isabella Podwinski",
-        "Ashlynne McGhee",
-        "Michelle Macklem"
+        "Gemma Ware"
       ],
       "topics": [
         "making",
@@ -279,13 +240,7 @@
       "enclosure_length": "23293485",
       "itunes_duration": "16:11",
       "speakers": [
-        "Stephen Miller",
-        "Donald Trump",
-        "Emma Shortis",
-        "Justin Bergman",
-        "Isabella Podwinski",
-        "Ashlynne McGhee",
-        "Michelle Macklem"
+        "Gemma Ware"
       ],
       "topics": [
         "making",
@@ -305,14 +260,8 @@
       "enclosure_length": "24760557",
       "itunes_duration": "17:12",
       "speakers": [
-        "Adolf Hitler",
-        "Joseph Stalin",
-        "Mao Zedong",
-        "Vladimir Putin",
-        "Xi Jinping",
-        "Donald Trump",
-        "Justin Bergman",
-        "Isabella Podwinski"
+        "Adolf Hitl",
+        "Gemma Ware"
       ],
       "topics": [
         "making",
@@ -333,7 +282,7 @@
       "enclosure_length": "1873152",
       "itunes_duration": "01:18",
       "speakers": [
-        "Donald Trump"
+        "Gemma Ware"
       ],
       "topics": [
         "making",
@@ -352,12 +301,6 @@
       "enclosure_length": "34815208",
       "itunes_duration": "24:11",
       "speakers": [
-        "Donald Trump",
-        "Nicolás Maduro",
-        "Pablo Uchoa",
-        "Hugo Chávez",
-        "Michelle Macklem",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -378,11 +321,8 @@
       "enclosure_length": "23602617",
       "itunes_duration": "24:35",
       "speakers": [
-        "Michael Rose",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "Gemma Ware",
-        "Donald Trump"
+        "How Timor",
+        "Gemma Ware"
       ],
       "topics": [
         "timor",
@@ -404,11 +344,7 @@
       "enclosure_length": "42668243",
       "itunes_duration": "29:38",
       "speakers": [
-        "Donald Trump",
-        "Carolyn Holmes",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "south",
@@ -428,10 +364,7 @@
       "enclosure_length": "37466532",
       "itunes_duration": "26:01",
       "speakers": [
-        "Ian Barr",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "Donald Trump"
+        "Gemma Ware"
       ],
       "topics": [
         "scientist"
@@ -449,10 +382,8 @@
       "enclosure_length": "33360709",
       "itunes_duration": "23:10",
       "speakers": [
-        "Laura Wilcox",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "Donald Trump"
+        "air quality",
+        "Gemma Ware"
       ],
       "topics": [
         "china",
@@ -471,9 +402,7 @@
       "enclosure_length": "34823357",
       "itunes_duration": "24:11",
       "speakers": [
-        "Nadir Jeevanjee",
-        "Eleanor Brezzi",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "climate",
@@ -493,10 +422,7 @@
       "enclosure_length": "40489629",
       "itunes_duration": "28:07",
       "speakers": [
-        "Robert Muggah",
-        "Eleanor Brezzi",
-        "Neeta Sarl",
-        "mais séria"
+        "Gemma Ware"
       ],
       "topics": [
         "crime",
@@ -515,10 +441,6 @@
       "enclosure_length": "34817714",
       "itunes_duration": "24:11",
       "speakers": [
-        "James VI",
-        "Penelope Geng",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -541,10 +463,8 @@
       "enclosure_length": "31498701",
       "itunes_duration": "21:52",
       "speakers": [
-        "Michael Saylor",
-        "Larisa Yarovaya",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "One American",
+        "Gemma Ware"
       ],
       "topics": [
         "bitcoin",
@@ -566,9 +486,8 @@
       "enclosure_length": "34215853",
       "itunes_duration": "23:46",
       "speakers": [
-        "Patrick Byrne",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "River Mersey",
+        "Gemma Ware"
       ],
       "topics": [
         "source",
@@ -588,10 +507,7 @@
       "itunes_duration": "16:10",
       "speakers": [
         "Shimon Sakaguchi",
-        "Mary Brunkow",
-        "Fred Ramsdell",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "nobel",
@@ -614,11 +530,7 @@
       "enclosure_length": "38906608",
       "itunes_duration": "27:01",
       "speakers": [
-        "Donald Trump",
-        "Andrew Whitehouse",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "diagnosis",
@@ -639,10 +551,7 @@
       "enclosure_length": "38948614",
       "itunes_duration": "27:03",
       "speakers": [
-        "Donald Trump",
-        "Richard Nixon",
-        "Cristina Bodea",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": []
     },
@@ -658,8 +567,7 @@
       "enclosure_length": "69674884",
       "itunes_duration": "29:02",
       "speakers": [
-        "Maha Nassar",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "statehood",
@@ -680,11 +588,7 @@
       "itunes_duration": "23:44",
       "speakers": [
         "Dezi Freeman",
-        "Keiran Hardy",
-        "Prince Leonard",
-        "Katie Flood",
-        "Ashlynee McGhee",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "citizen",
@@ -705,8 +609,8 @@
       "enclosure_length": "20628969",
       "itunes_duration": "24:33",
       "speakers": [
-        "Xi Jinping",
-        "Neeta Sarl"
+        "How China",
+        "Gemma Ware"
       ],
       "topics": [
         "china",
@@ -726,8 +630,7 @@
       "enclosure_length": "53041109",
       "itunes_duration": "22:06",
       "speakers": [
-        "John Kounios",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "ingredient",
@@ -746,8 +649,7 @@
       "enclosure_length": "78104031",
       "itunes_duration": "32:33",
       "speakers": [
-        "Anna Bevan",
-        "Oliver Johnson"
+        "Gemma Ware"
       ],
       "topics": [
         "planet"
@@ -765,9 +667,7 @@
       "enclosure_length": "52190562",
       "itunes_duration": "21:45",
       "speakers": [
-        "Scarlett Howard",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "animal",
@@ -788,10 +688,7 @@
       "enclosure_length": "69337337",
       "itunes_duration": "28:53",
       "speakers": [
-        "Mark Miodownik",
-        "Michelle Macklem",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "world",
@@ -810,12 +707,8 @@
       "enclosure_length": "67178623",
       "itunes_duration": "27:59",
       "speakers": [
-        "Rupert Murdoch",
         "Trump Donald Trump",
-        "Jeffrey Epstein",
-        "Andrew Dodd",
-        "Ashlynne McGhee",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "rupert",
@@ -836,12 +729,7 @@
       "enclosure_length": "64923688",
       "itunes_duration": "27:03",
       "speakers": [
-        "Golda Meir",
-        "Richard Nixon",
-        "Avner Cohen",
-        "Katie Flood",
-        "Ashlynne McGhee",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "israel",
@@ -861,12 +749,7 @@
       "enclosure_length": "63019929",
       "itunes_duration": "26:15",
       "speakers": [
-        "Laurence Hardwick",
-        "Robert Armstrong",
-        "Ulugbek Azimov",
-        "Bill Yen",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "battery",
@@ -885,8 +768,8 @@
       "enclosure_length": "56872750",
       "itunes_duration": "23:42",
       "speakers": [
-        "Juan Masullo",
-        "Neeta Sarl"
+        "Italy Across Europe",
+        "Gemma Ware"
       ],
       "topics": [
         "legacy",
@@ -905,11 +788,7 @@
       "enclosure_length": "74437484",
       "itunes_duration": "31:01",
       "speakers": [
-        "Mark Rutte",
-        "Donald Trump",
-        "Francesco Grillo",
-        "François Lafond",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "europe",
@@ -930,10 +809,7 @@
       "itunes_duration": "33:55",
       "speakers": [
         "Kennedy Jr",
-        "Amy Gaeta",
-        "Katie Flood",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "autism",
@@ -953,10 +829,8 @@
       "enclosure_length": "26371773",
       "itunes_duration": "31:24",
       "speakers": [
-        "Daniel Bar-Tal",
-        "Katie Flood",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "people decide",
+        "Gemma Ware"
       ],
       "topics": [
         "self",
@@ -975,9 +849,7 @@
       "enclosure_length": "22279775",
       "itunes_duration": "23:12",
       "speakers": [
-        "Hollie Booth",
-        "Said Ramdlan",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "cash",
@@ -997,9 +869,7 @@
       "enclosure_length": "20771316",
       "itunes_duration": "21:38",
       "speakers": [
-        "Martin Hearson",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "solution",
@@ -1018,10 +888,7 @@
       "enclosure_length": "62803591",
       "itunes_duration": "26:10",
       "speakers": [
-        "Annette Alstadsæter",
-        "Tarcisio Diniz Magalhaes",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "solution",
@@ -1040,9 +907,7 @@
       "enclosure_length": "99901648",
       "itunes_duration": "41:38",
       "speakers": [
-        "Sean Campbell",
-        "Topher McDougal",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "mexico",
@@ -1062,10 +927,7 @@
       "enclosure_length": "30499360",
       "itunes_duration": "31:46",
       "speakers": [
-        "Donald Weaver",
-        "Katie Flood",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "theory",
@@ -1087,8 +949,7 @@
       "enclosure_length": "84055815",
       "itunes_duration": "35:01",
       "speakers": [
-        "Neeta Sarl",
-        "Donald Trump"
+        "Gemma Ware"
       ],
       "topics": [
         "future"
@@ -1106,11 +967,9 @@
       "enclosure_length": "40845060",
       "itunes_duration": "17:01",
       "speakers": [
-        "Mohamed Salah",
-        "Salma Mousa",
-        "Gemma Ware",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Mo Salah",
+        "English Premier League",
+        "Gemma Ware"
       ],
       "topics": [
         "salah",
@@ -1130,11 +989,7 @@
       "enclosure_length": "93875721",
       "itunes_duration": "39:07",
       "speakers": [
-        "Brady West",
-        "Sunghee Lee",
-        "Glenda Gray",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "scientist",
@@ -1156,9 +1011,7 @@
       "enclosure_length": "65261235",
       "itunes_duration": "27:12",
       "speakers": [
-        "Ergon Cugler",
-        "Igor Sacramento",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "brazil",
@@ -1178,11 +1031,7 @@
       "enclosure_length": "60723243",
       "itunes_duration": "25:18",
       "speakers": [
-        "Parul Bhandari",
-        "Aarushi Bhandari",
-        "Katie Flood",
-        "Neeta Sarl",
-        "Louis Vuitton"
+        "Gemma Ware"
       ],
       "topics": [
         "birkin",
@@ -1201,8 +1050,7 @@
       "enclosure_length": "64612353",
       "itunes_duration": "26:55",
       "speakers": [
-        "Rob Brooks",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "evolution",
@@ -1221,9 +1069,7 @@
       "enclosure_length": "51215672",
       "itunes_duration": "21:20",
       "speakers": [
-        "Alex Bentley",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "city",
@@ -1243,9 +1089,7 @@
       "enclosure_length": "52841533",
       "itunes_duration": "22:01",
       "speakers": [
-        "Daniel Precioso",
-        "Alice Larkin",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "shipping",
@@ -1264,9 +1108,8 @@
       "enclosure_length": "62344880",
       "itunes_duration": "25:59",
       "speakers": [
-        "Abdullah Öcalan",
-        "Pinar Dinc",
-        "Neeta Sarl"
+        "Kurdistan Workers Party",
+        "Gemma Ware"
       ],
       "topics": [
         "prospect",
@@ -1287,9 +1130,7 @@
       "enclosure_length": "77318268",
       "itunes_duration": "32:13",
       "speakers": [
-        "Japhy Wilson",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "story",
@@ -1310,12 +1151,8 @@
       "enclosure_length": "59367966",
       "itunes_duration": "24:44",
       "speakers": [
-        "Raymond Dart",
-        "Christa Kuljian",
-        "Dipuo Kgotleng",
-        "Katie Flood",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "Africa One",
+        "Gemma Ware"
       ],
       "topics": [
         "fossil",
@@ -1336,12 +1173,7 @@
       "enclosure_length": "41851923",
       "itunes_duration": "43:36",
       "speakers": [
-        "Michelle Macklem",
-        "Leila Goldstein",
-        "Halima Athumani",
-        "Hui Lin",
-        "Justin Bergman",
-        "Ashlynee McGhee"
+        "Gemma Ware"
       ],
       "topics": [
         "scam",
@@ -1363,13 +1195,7 @@
       "itunes_duration": "38:13",
       "speakers": [
         "Ben Yeo",
-        "Ivan Franceschini",
-        "Ling Li",
-        "Mark Bo",
-        "Michelle Macklem",
-        "Leila Goldstein",
-        "Halima Athumani",
-        "Hui Lin"
+        "Gemma Ware"
       ],
       "topics": [
         "scam",
@@ -1389,14 +1215,7 @@
       "enclosure_length": "31598967",
       "itunes_duration": "32:55",
       "speakers": [
-        "Ivan Franceschini",
-        "Ling Li",
-        "Mark Bo",
-        "Michelle Macklem",
-        "Leila Goldstein",
-        "Halima Athumani",
-        "Hui Lin",
-        "Justin Bergman"
+        "Gemma Ware"
       ],
       "topics": [
         "scam",
@@ -1416,10 +1235,7 @@
       "enclosure_length": "28201794",
       "itunes_duration": "29:23",
       "speakers": [
-        "Jostein Hauge",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "Will Trump"
+        "Gemma Ware"
       ],
       "topics": [
         "tariff",
@@ -1439,10 +1255,7 @@
       "enclosure_length": "26195590",
       "itunes_duration": "27:17",
       "speakers": [
-        "Elon Musk",
-        "Robert Gehl",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "medium",
@@ -1461,11 +1274,7 @@
       "enclosure_length": "35344138",
       "itunes_duration": "36:49",
       "speakers": [
-        "Rolf Frankenberger",
-        "Laura Hood",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "Elon Musk"
+        "Gemma Ware"
       ],
       "topics": [
         "support",
@@ -1484,10 +1293,7 @@
       "enclosure_length": "28938168",
       "itunes_duration": "30:09",
       "speakers": [
-        "Daniel Lidar",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "computer"
@@ -1505,9 +1311,9 @@
       "enclosure_length": "22994358",
       "itunes_duration": "23:57",
       "speakers": [
-        "Emily Lindsey",
-        "Katie Flood",
-        "Michelle Macklem"
+        "Ice Age",
+        "Los Angeles",
+        "Gemma Ware"
       ],
       "topics": [
         "wildfire",
@@ -1528,9 +1334,8 @@
       "enclosure_length": "31115733",
       "itunes_duration": "32:25",
       "speakers": [
-        "Elke Schwarz",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Silicon Valley",
+        "Gemma Ware"
       ],
       "topics": [
         "silicon",
@@ -1551,9 +1356,7 @@
       "enclosure_length": "28031666",
       "itunes_duration": "29:12",
       "speakers": [
-        "Mark Miodowonik",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "world",
@@ -1574,13 +1377,7 @@
       "enclosure_length": "36423469",
       "itunes_duration": "37:56",
       "speakers": [
-        "Gemma Ware",
-        "Paul Rincon",
-        "Elsa Couderc",
-        "Signe Dean",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "brain",
@@ -1602,10 +1399,9 @@
       "enclosure_length": "25050743",
       "itunes_duration": "26:06",
       "speakers": [
-        "Carolyn Hoyle",
-        "Parvais Jabbar",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "How Zimbabwe",
+        "Death Penalty Abolition Bill",
+        "Gemma Ware"
       ],
       "topics": [
         "zimbabwe",
@@ -1626,12 +1422,7 @@
       "enclosure_length": "26583000",
       "itunes_duration": "27:41",
       "speakers": [
-        "Grant Duncan",
-        "Donald Trump",
-        "Gemma Ware",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "politician",
@@ -1650,11 +1441,7 @@
       "enclosure_length": "25644185",
       "itunes_duration": "26:43",
       "speakers": [
-        "Susana Monsó",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl",
-        "de lo"
+        "Gemma Ware"
       ],
       "topics": [
         "animal",
@@ -1673,12 +1460,7 @@
       "enclosure_length": "31651583",
       "itunes_duration": "32:58",
       "speakers": [
-        "Tom Vickers",
-        "John Logan",
-        "Sarah Reid",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "story",
@@ -1699,9 +1481,7 @@
       "itunes_duration": "27:39",
       "speakers": [
         "Donald Johanson",
-        "Yohannes Haile-Selassie",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "year",
@@ -1725,9 +1505,7 @@
       "enclosure_length": "24552914",
       "itunes_duration": "25:35",
       "speakers": [
-        "Tyler Eddy",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "controversy",
@@ -1747,9 +1525,7 @@
       "enclosure_length": "30553162",
       "itunes_duration": "31:50",
       "speakers": [
-        "Dennis Rodgers",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "gangster",
@@ -1768,11 +1544,7 @@
       "enclosure_length": "31159629",
       "itunes_duration": "32:27",
       "speakers": [
-        "Naomi Schalit",
-        "Jesse Rhodes",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "americans"
@@ -1790,11 +1562,8 @@
       "enclosure_length": "20925898",
       "itunes_duration": "21:48",
       "speakers": [
-        "Sharmaine Verhaert",
-        "Gemma Ware",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "South Australia",
+        "Gemma Ware"
       ],
       "topics": [
         "origins",
@@ -1817,10 +1586,7 @@
       "speakers": [
         "Victor Ambros",
         "Gary Ruvkun",
-        "Gemma Ware",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "microrna",
@@ -1843,12 +1609,7 @@
       "enclosure_length": "31664557",
       "itunes_duration": "32:59",
       "speakers": [
-        "Laura Hood",
-        "John Curtice",
-        "Paula Surridge",
-        "Tim Bale",
-        "Geoffrey Evans",
-        "Michelle Macklem"
+        "Gemma Ware"
       ],
       "topics": [
         "place",
@@ -1868,10 +1629,8 @@
       "enclosure_length": "34756127",
       "itunes_duration": "36:12",
       "speakers": [
-        "Mireille Rebeiz",
-        "Amnon Aran",
-        "Michelle Macklem",
-        "Hassan Nasrallah"
+        "What Israel",
+        "Gemma Ware"
       ],
       "topics": [
         "israel",
@@ -1890,10 +1649,7 @@
       "enclosure_length": "26133241",
       "itunes_duration": "27:13",
       "speakers": [
-        "Linda-Gail Bekker",
-        "Michelle Macklem",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "breakthrough",
@@ -1913,12 +1669,7 @@
       "enclosure_length": "22729030",
       "itunes_duration": "23:41",
       "speakers": [
-        "Samantha Dodson",
-        "Katie Flood",
-        "Michelle Macklem",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Jean Carroll"
+        "Gemma Ware"
       ],
       "topics": [
         "himpathy",
@@ -1940,10 +1691,7 @@
       "enclosure_length": "19633220",
       "itunes_duration": "20:27",
       "speakers": [
-        "Laura Cinti",
-        "Gemma Ware",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "plant",
@@ -1964,11 +1712,8 @@
       "enclosure_length": "29087425",
       "itunes_duration": "30:18",
       "speakers": [
-        "Adjoa Sam-Agudu",
-        "Wolfgang Preiser",
-        "Gemma Ware",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Democratic Republic",
+        "Gemma Ware"
       ],
       "topics": [
         "mpox",
@@ -1989,9 +1734,6 @@
       "enclosure_length": "28141583",
       "itunes_duration": "29:19",
       "speakers": [
-        "Carolina Bandinelli",
-        "Michelle Macklem",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2011,12 +1753,7 @@
       "enclosure_length": "30246006",
       "itunes_duration": "31:30",
       "speakers": [
-        "Chukwumerije Okereke",
-        "Aarti Gupta",
-        "Shaun Fitzgerald",
-        "Gemma Ware",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "case",
@@ -2036,13 +1773,7 @@
       "enclosure_length": "27390893",
       "itunes_duration": "28:32",
       "speakers": [
-        "Shaun Fitzgerald",
-        "Ben Kravitz",
-        "Stacy Morford",
-        "Katie Flood",
-        "Gemma Ware",
-        "Michelle Macklem",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "case",
@@ -2061,11 +1792,7 @@
       "enclosure_length": "26043866",
       "itunes_duration": "27:08",
       "speakers": [
-        "Homo Sapiens",
-        "Ludovic Slimak",
-        "Paul Sabatier",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "tooth",
@@ -2086,10 +1813,7 @@
       "enclosure_length": "39008492",
       "itunes_duration": "40:38",
       "speakers": [
-        "Maggie Perzyna",
-        "Ito Peng",
-        "Nana Oishi",
-        "Michelle Macklem"
+        "Gemma Ware"
       ],
       "topics": [
         "borders",
@@ -2111,7 +1835,7 @@
       "enclosure_length": "19283690",
       "itunes_duration": "20:05",
       "speakers": [
-        "Deborah Wells",
+        "Curious Kids",
         "Gemma Ware"
       ],
       "topics": []
@@ -2128,9 +1852,7 @@
       "enclosure_length": "26909072",
       "itunes_duration": "28:02",
       "speakers": [
-        "Kyla Tienhaara",
-        "Neeta Sarl",
-        "Christian Porter"
+        "Gemma Ware"
       ],
       "topics": [
         "fightback",
@@ -2157,9 +1879,6 @@
       "enclosure_length": "23442016",
       "itunes_duration": "24:25",
       "speakers": [
-        "Rachael Rzasa Lynn",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2180,9 +1899,6 @@
       "enclosure_length": "24447190",
       "itunes_duration": "25:28",
       "speakers": [
-        "Garriy Shteynberg",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2202,10 +1918,6 @@
       "enclosure_length": "38678682",
       "itunes_duration": "40:17",
       "speakers": [
-        "Keir Starmer",
-        "Tim Bale",
-        "Safia Dahani",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2224,8 +1936,6 @@
       "enclosure_length": "17019671",
       "itunes_duration": "17:44",
       "speakers": [
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2247,7 +1957,8 @@
       "enclosure_length": "37735031",
       "itunes_duration": "39:18",
       "speakers": [
-        "Vinita Srivastava"
+        "Call Me Resilient",
+        "Gemma Ware"
       ],
       "topics": [
         "resilient",
@@ -2271,9 +1982,6 @@
       "enclosure_length": "25532630",
       "itunes_duration": "26:36",
       "speakers": [
-        "Rajan Basra",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2292,9 +2000,6 @@
       "enclosure_length": "30027869",
       "itunes_duration": "31:17",
       "speakers": [
-        "Nando Sigona",
-        "Michaela Benson",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2318,10 +2023,6 @@
       "enclosure_length": "23364400",
       "itunes_duration": "24:20",
       "speakers": [
-        "James Webb Space Telescope",
-        "Lorena Sánchez",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2343,9 +2044,6 @@
       "enclosure_length": "20777557",
       "itunes_duration": "21:39",
       "speakers": [
-        "John Kounios",
-        "Kate Kilpatrick",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2365,9 +2063,6 @@
       "enclosure_length": "23959058",
       "itunes_duration": "24:57",
       "speakers": [
-        "Stuart Ainsworth",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2391,11 +2086,7 @@
       "enclosure_length": "24564703",
       "itunes_duration": "25:35",
       "speakers": [
-        "Narendra Modi",
-        "Indrajit Roy",
-        "Katie Flood",
-        "Neeta Sarl",
-        "Modi’s Hindu"
+        "Gemma Ware"
       ],
       "topics": [
         "moment",
@@ -2417,10 +2108,7 @@
       "enclosure_length": "24432210",
       "itunes_duration": "25:27",
       "speakers": [
-        "Karandeep Sonu Gaind",
-        "Patricia Nicholson",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "dying",
@@ -2442,10 +2130,6 @@
       "enclosure_length": "23651082",
       "itunes_duration": "24:38",
       "speakers": [
-        "Katherine Browne",
-        "Margaret Angula",
-        "Kofo Belo-Osagie",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2468,10 +2152,6 @@
       "enclosure_length": "25077497",
       "itunes_duration": "26:07",
       "speakers": [
-        "Daniel Angus",
-        "Eric Smalley",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2493,12 +2173,6 @@
       "itunes_duration": "34:07",
       "speakers": [
         "Nelson Mandela",
-        "Cyril Ramaphosa",
-        "Sithembile Mbete",
-        "Richard Calland",
-        "Gary Oberholzer",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2522,12 +2196,6 @@
       "itunes_duration": "37:19",
       "speakers": [
         "Nelson Mandela",
-        "Jacob Zuma",
-        "Mashupye Maserumule",
-        "Michael Sachs",
-        "Gary Oberholzer",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2552,11 +2220,7 @@
       "itunes_duration": "40:54",
       "speakers": [
         "Nelson Mandela",
-        "Steven Friedman",
-        "Sandy Africa",
-        "Gary Oberholzer",
-        "Katie Flood",
-        "Neeta Sarl",
+        "Nelson Mandel",
         "Gemma Ware"
       ],
       "topics": [
@@ -2581,7 +2245,8 @@
       "enclosure_length": "1744909",
       "itunes_duration": "01:49",
       "speakers": [
-        "Nelson Mandela"
+        "Nelson Mandela",
+        "Gemma Ware"
       ],
       "topics": [
         "nelson",
@@ -2602,8 +2267,6 @@
       "enclosure_length": "22727668",
       "itunes_duration": "23:40",
       "speakers": [
-        "Jan Zalasiewicz",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2623,8 +2286,8 @@
       "enclosure_length": "30466658",
       "itunes_duration": "31:44",
       "speakers": [
-        "Vinita Srivastava",
-        "Hilal Elver"
+        "Call Me Resilient",
+        "Gemma Ware"
       ],
       "topics": [
         "resilient",
@@ -2645,8 +2308,6 @@
       "enclosure_length": "21175430",
       "itunes_duration": "22:03",
       "speakers": [
-        "Maxim Samson",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2667,10 +2328,6 @@
       "enclosure_length": "22264255",
       "itunes_duration": "23:11",
       "speakers": [
-        "Grace Augustine",
-        "Sam Phelps",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2694,12 +2351,7 @@
       "enclosure_length": "24888613",
       "itunes_duration": "25:56",
       "speakers": [
-        "Vladimir Putin",
-        "Ilya Yablokov",
-        "Grégory Rayko",
-        "Katie Flood",
-        "Neeta Sarl",
-        "En Russie"
+        "Gemma Ware"
       ],
       "topics": [
         "conspiracy",
@@ -2723,10 +2375,9 @@
       "enclosure_length": "25140986",
       "itunes_duration": "26:11",
       "speakers": [
-        "Bronwen Dalton",
-        "Kyungja Jung",
-        "Justin Bergman",
-        "Neeta Sarl"
+        "How North Korea",
+        "North Kor",
+        "Gemma Ware"
       ],
       "topics": [
         "north",
@@ -2746,10 +2397,6 @@
       "enclosure_length": "20756649",
       "itunes_duration": "21:37",
       "speakers": [
-        "Daryl Van Tongeren",
-        "Maggie Villiger",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2770,9 +2417,7 @@
       "enclosure_length": "21473469",
       "itunes_duration": "22:22",
       "speakers": [
-        "Colin Irwin",
-        "Jonathan Este",
-        "Neeta Sarl",
+        "Northern Ireland",
         "Gemma Ware"
       ],
       "topics": [
@@ -2797,10 +2442,6 @@
       "enclosure_length": "18973591",
       "itunes_duration": "19:46",
       "speakers": [
-        "Başak Türker",
-        "Lionel Cavicchioli",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -2819,9 +2460,7 @@
       "enclosure_length": "21185041",
       "itunes_duration": "22:04",
       "speakers": [
-        "Nuurrianti Jalli",
-        "Neeta Sarl",
-        "Fake Biden"
+        "Gemma Ware"
       ],
       "topics": [
         "deepfake",
@@ -2842,9 +2481,7 @@
       "enclosure_length": "18301106",
       "itunes_duration": "19:04",
       "speakers": [
-        "Michael Varnum",
-        "Meher Batia",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "environment",
@@ -2864,10 +2501,7 @@
       "enclosure_length": "20507937",
       "itunes_duration": "21:22",
       "speakers": [
-        "Stephen Garnett",
-        "Signe Dean",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "journey",
@@ -2888,11 +2522,7 @@
       "enclosure_length": "18577895",
       "itunes_duration": "19:21",
       "speakers": [
-        "Dale Berning Sawa",
-        "Alice Bloch",
-        "David Rubin",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "descendant",
@@ -2915,8 +2545,7 @@
       "enclosure_length": "22788756",
       "itunes_duration": "23:44",
       "speakers": [
-        "Eviane Leidig",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "woman",
@@ -2938,10 +2567,7 @@
       "enclosure_length": "21088514",
       "itunes_duration": "21:58",
       "speakers": [
-        "Sarah Garfinkel",
-        "Vivian Lam",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "interoception",
@@ -2962,10 +2588,7 @@
       "enclosure_length": "21638532",
       "itunes_duration": "22:32",
       "speakers": [
-        "Hanna Pettersson",
-        "Jack Marley",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "wolf",
@@ -2986,10 +2609,7 @@
       "enclosure_length": "17222786",
       "itunes_duration": "17:56",
       "speakers": [
-        "Matthew Pittman",
-        "Kate Kilpatrick",
-        "Jusneel Mahal",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "media",
@@ -3009,8 +2629,7 @@
       "enclosure_length": "20914637",
       "itunes_duration": "21:47",
       "speakers": [
-        "Neve Gordon",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "israel",
@@ -3032,9 +2651,7 @@
       "enclosure_length": "23688216",
       "itunes_duration": "24:40",
       "speakers": [
-        "David Mednicoff",
-        "Naomi Schalit",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "israel",
@@ -3056,9 +2673,6 @@
       "enclosure_length": "20197851",
       "itunes_duration": "21:02",
       "speakers": [
-        "Doseline Kiguru",
-        "Julius Maina",
-        "Katie Flood",
         "Gemma Ware"
       ],
       "topics": [
@@ -3080,8 +2694,6 @@
       "enclosure_length": "24551716",
       "itunes_duration": "25:34",
       "speakers": [
-        "Philip Fearnside",
-        "Katie Flood",
         "Gemma Ware"
       ],
       "topics": [
@@ -3102,7 +2714,6 @@
       "enclosure_length": "24983060",
       "itunes_duration": "26:01",
       "speakers": [
-        "Alexander Hinton",
         "Gemma Ware"
       ],
       "topics": [
@@ -3123,8 +2734,7 @@
       "enclosure_length": "25365524",
       "itunes_duration": "26:25",
       "speakers": [
-        "Eloise Stevens",
-        "Katie Flood",
+        "Black Friday",
         "Gemma Ware"
       ],
       "topics": [
@@ -3147,8 +2757,6 @@
       "enclosure_length": "25770495",
       "itunes_duration": "26:51",
       "speakers": [
-        "Nubwa Medugu",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -3171,11 +2779,7 @@
       "enclosure_length": "20504651",
       "itunes_duration": "21:22",
       "speakers": [
-        "Abbey Stockstill",
-        "Nour Eddine Nachaoune",
-        "Kalpana Jain",
-        "Katie Flood",
-        "Neeta Sarl",
+        "After Morocco",
         "Gemma Ware"
       ],
       "topics": [
@@ -3199,10 +2803,9 @@
       "enclosure_length": "23697439",
       "itunes_duration": "24:41",
       "speakers": [
-        "Emily Lindsey",
-        "Stacy Morford",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "some deadly",
+        "destructive wildfires",
+        "Gemma Ware"
       ],
       "topics": [
         "wildfire",
@@ -3224,9 +2827,7 @@
       "enclosure_length": "25367122",
       "itunes_duration": "26:25",
       "speakers": [
-        "Ammar Azzouz",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "domicide",
@@ -3247,8 +2848,8 @@
       "enclosure_length": "30433678",
       "itunes_duration": "31:42",
       "speakers": [
-        "Vinita Srivastava",
-        "Daniel Martinez HoSang"
+        "Call Me Resilient",
+        "Gemma Ware"
       ],
       "topics": [
         "resilient",
@@ -3268,9 +2869,7 @@
       "itunes_duration": "21:26",
       "speakers": [
         "Louis Brus",
-        "Katie Flood",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "quantum",
@@ -3294,10 +2893,7 @@
       "itunes_duration": "26:57",
       "speakers": [
         "Homo Sapiens",
-        "Ludovic Slimak",
-        "Paul Sabatier",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "neanderthal",
@@ -3318,12 +2914,9 @@
       "enclosure_length": "30445370",
       "itunes_duration": "31:43",
       "speakers": [
-        "Sana Nakata",
-        "Kiera Ladner",
-        "Gemma Ware",
-        "Carissa Lee",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "Why Australia",
+        "First Nations Voice",
+        "Gemma Ware"
       ],
       "topics": [
         "australia",
@@ -3345,14 +2938,7 @@
       "enclosure_length": "36547103",
       "itunes_duration": "38:04",
       "speakers": [
-        "Daniel Merino",
-        "Nehal El-Hadi",
-        "Faith Osier",
-        "Adrian Hill",
-        "Training Center",
-        "Katie Flood",
-        "Dan Merino",
-        "Eloise Stevens"
+        "Gemma Ware"
       ],
       "topics": [
         "malaria",
@@ -3373,9 +2959,6 @@
       "enclosure_length": "19428700",
       "itunes_duration": "20:14",
       "speakers": [
-        "Anna Molas",
-        "Katie Flood",
-        "Neeta Sarl",
         "Gemma Ware"
       ],
       "topics": [
@@ -3396,11 +2979,8 @@
       "enclosure_length": "30871621",
       "itunes_duration": "32:09",
       "speakers": [
-        "Hanan Ashrawi",
-        "Yossi Beilin",
-        "James Rodgers",
-        "Amnon Aran",
-        "Neeta Sarl"
+        "Oslo Accords",
+        "Gemma Ware"
       ],
       "topics": [
         "oslo",
@@ -3420,11 +3000,8 @@
       "enclosure_length": "36915329",
       "itunes_duration": "38:27",
       "speakers": [
-        "Hanan Ashrawi",
-        "Yossi Beilin",
-        "James Rodgers",
-        "Amnon Aran",
-        "Neeta Sarl"
+        "Oslo Accords",
+        "Gemma Ware"
       ],
       "topics": [
         "oslo",
@@ -3444,9 +3021,9 @@
       "enclosure_length": "24864757",
       "itunes_duration": "25:54",
       "speakers": [
-        "James Rodgers",
-        "Amnon Aran",
-        "Neeta Sarl"
+        "Oslo Accords",
+        "Middle East Inside",
+        "Gemma Ware"
       ],
       "topics": [
         "oslo",
@@ -3468,10 +3045,7 @@
       "enclosure_length": "44668073",
       "itunes_duration": "46:32",
       "speakers": [
-        "Tero Mustonen",
-        "Gretta Pecl",
-        "Joelle Gergis",
-        "Michael Green"
+        "Gemma Ware"
       ],
       "topics": [
         "fear",
@@ -3492,7 +3066,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "591262",
       "itunes_duration": "00:37",
-      "speakers": [],
+      "speakers": [
+        "Gemma Ware"
+      ],
       "topics": [
         "production",
         "break"
@@ -3511,9 +3087,7 @@
       "itunes_duration": "19:51",
       "speakers": [
         "Michael Crichton",
-        "Travis Holland",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "discovery",
@@ -3539,10 +3113,7 @@
       "enclosure_length": "35928657",
       "itunes_duration": "37:26",
       "speakers": [
-        "Chris Damman",
-        "Andrea Merchak",
-        "Tae Seok Moon",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "bacteria",
@@ -3565,13 +3136,7 @@
       "enclosure_length": "42144036",
       "itunes_duration": "43:54",
       "speakers": [
-        "Anthony Bourdain",
-        "Krishnendu Ray",
-        "Zeena Feldman",
-        "Gillian Gualtieri",
-        "Dan Merino",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "dining",
@@ -3591,10 +3156,8 @@
       "enclosure_length": "37044436",
       "itunes_duration": "38:35",
       "speakers": [
-        "Valentina Di Iasio",
-        "Christopher Nshimbi",
-        "Avery Anapol",
-        "Neeta Sarl"
+        "Global South Around",
+        "Gemma Ware"
       ],
       "topics": [
         "migration",
@@ -3617,11 +3180,7 @@
       "enclosure_length": "37183776",
       "itunes_duration": "38:44",
       "speakers": [
-        "Parichehr Kazemi",
-        "Aliaksei Kazharski",
-        "Michaela Grančayová",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "protest",
@@ -3644,10 +3203,9 @@
       "enclosure_length": "36948479",
       "itunes_duration": "38:29",
       "speakers": [
-        "Carlos Bernal",
-        "Jennifer Piscopo",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Latin American",
+        "Latin America",
+        "Gemma Ware"
       ],
       "topics": [
         "constitution",
@@ -3669,11 +3227,7 @@
       "enclosure_length": "30551590",
       "itunes_duration": "31:49",
       "speakers": [
-        "Alvaro Jarrín",
-        "Maria Zhivagui",
-        "Nehal El-Hadi",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "beauty",
@@ -3697,11 +3251,7 @@
       "enclosure_length": "39360930",
       "itunes_duration": "41:00",
       "speakers": [
-        "Niak Sian Koh",
-        "Zoe Nay",
-        "Jackie Smith",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "government",
@@ -3724,9 +3274,8 @@
       "enclosure_length": "34637499",
       "itunes_duration": "36:05",
       "speakers": [
-        "Danny Bradlow",
-        "Attiya Waris",
-        "Neeta Sarl"
+        "Global South",
+        "Gemma Ware"
       ],
       "topics": [
         "business",
@@ -3746,10 +3295,10 @@
       "enclosure_length": "42857942",
       "itunes_duration": "44:39",
       "speakers": [
-        "Greg Nemet",
-        "Gregory Nemet",
-        "Yamina Saheb",
-        "Michael Green"
+        "Intergovernmental Panel",
+        "Climate Change",
+        "Synthesis Report",
+        "Gemma Ware"
       ],
       "topics": [
         "solution",
@@ -3772,13 +3321,7 @@
       "itunes_duration": "43:08",
       "speakers": [
         "Rana Plaza",
-        "Dina Siddiqi",
-        "Vinita Srivastava",
-        "Boke Saisi",
-        "Jennifer Moroz",
-        "Ateqah Khaki",
-        "Rehmatullah Sheikh",
-        "Ollie Nicholas"
+        "Gemma Ware"
       ],
       "topics": [
         "fashion",
@@ -3803,12 +3346,7 @@
       "enclosure_length": "41707315",
       "itunes_duration": "43:27",
       "speakers": [
-        "Katja Friedrich",
-        "Dean Bangsund",
-        "Linda Zou",
-        "Katie Flood",
-        "Eloise Stevens",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "cloud",
@@ -3830,10 +3368,8 @@
       "enclosure_length": "29487044",
       "itunes_duration": "30:43",
       "speakers": [
-        "Festival Godwin Boateng",
-        "Paul Bledsoe",
-        "Professional Lecturer",
-        "Neeta Sarl"
+        "Latin America",
+        "Gemma Ware"
       ],
       "topics": [
         "europe",
@@ -3853,10 +3389,10 @@
       "enclosure_length": "48101666",
       "itunes_duration": "50:06",
       "speakers": [
-        "Friederike Otto",
-        "David Karoly",
-        "Tannecia Stephenson",
-        "Michael Green"
+        "United Nations",
+        "Intergovernmental Panel",
+        "Climate Change",
+        "Gemma Ware"
       ],
       "topics": [
         "wonder",
@@ -3879,11 +3415,7 @@
       "enclosure_length": "30830803",
       "itunes_duration": "32:07",
       "speakers": [
-        "Danny Hettiarachchi",
-        "Ezra Rashkow",
-        "Jules Pretty",
-        "Nehal El-Hadi",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "practice",
@@ -3904,11 +3436,7 @@
       "enclosure_length": "32296486",
       "itunes_duration": "33:39",
       "speakers": [
-        "David Reiner",
-        "Abbas Abdul",
-        "Mark Maslin",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "award",
@@ -3930,10 +3458,7 @@
       "enclosure_length": "42316649",
       "itunes_duration": "44:05",
       "speakers": [
-        "Maryanne Wolf",
-        "Kai Lukoff",
-        "Daniel Le Roux",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "distraction",
@@ -3952,11 +3477,7 @@
       "enclosure_length": "43630191",
       "itunes_duration": "45:27",
       "speakers": [
-        "Mahesh Anand",
-        "Space Law",
-        "Katie Flood",
-        "Dan Merino",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "moon"
@@ -3974,9 +3495,8 @@
       "enclosure_length": "46051092",
       "itunes_duration": "47:58",
       "speakers": [
-        "Sana Murran",
-        "Inna Rudolf",
-        "Neeta Sarl"
+        "United States",
+        "Gemma Ware"
       ],
       "topics": [
         "iraq",
@@ -3998,14 +3518,7 @@
       "enclosure_length": "43977495",
       "itunes_duration": "45:49",
       "speakers": [
-        "Sean Carroll",
-        "Emily Adlam",
-        "Miriam Frankel",
-        "Hannah Fisher",
-        "Jo Adetunji",
-        "Gemma Ware",
-        "Alice Mason",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "time",
@@ -4024,12 +3537,7 @@
       "enclosure_length": "40022899",
       "itunes_duration": "41:41",
       "speakers": [
-        "Daniel Acuña",
-        "Kentaro Toyama",
-        "Thierry Rayna",
-        "Katie Flood",
-        "Dan Merino",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "expert",
@@ -4051,10 +3559,7 @@
       "enclosure_length": "21068972",
       "itunes_duration": "21:57",
       "speakers": [
-        "Bárbara Freitas",
-        "Katie Flood",
-        "Dan Merino",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "discovery",
@@ -4076,8 +3581,7 @@
       "enclosure_length": "36083638",
       "itunes_duration": "37:35",
       "speakers": [
-        "Natalie Koch",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "challenge",
@@ -4099,9 +3603,7 @@
       "enclosure_length": "35065491",
       "itunes_duration": "36:32",
       "speakers": [
-        "Ananya Chakravarti",
-        "Kate Mulligan",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "loneliness",
@@ -4120,11 +3622,7 @@
       "enclosure_length": "39102203",
       "itunes_duration": "40:44",
       "speakers": [
-        "Jennifer Miller",
-        "Julia Liu",
-        "Keith Yamamoto",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "lack",
@@ -4148,7 +3646,7 @@
       "enclosure_length": "27457414",
       "itunes_duration": "28:36",
       "speakers": [
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "influencer",
@@ -4169,11 +3667,7 @@
       "enclosure_length": "38378672",
       "itunes_duration": "39:59",
       "speakers": [
-        "Josh Larsen",
-        "Dominic McAfee",
-        "Andy Kliskey",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "beaver",
@@ -4196,10 +3690,10 @@
       "enclosure_length": "18717410",
       "itunes_duration": "19:30",
       "speakers": [
-        "Merry Fitzpatrick",
-        "Dan Merino",
-        "Neeta Sarl",
-        "Warsaw Ghetto"
+        "Warsaw Ghetto During",
+        "Warsaw Ghetto",
+        "World War",
+        "Gemma Ware"
       ],
       "topics": [
         "discovery",
@@ -4220,11 +3714,7 @@
       "enclosure_length": "35244018",
       "itunes_duration": "36:43",
       "speakers": [
-        "Miguel Niño-Zarazúa",
-        "Christine Corlet Walker",
-        "Erdem Yörük",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "welfare",
@@ -4245,9 +3735,7 @@
       "enclosure_length": "17361948",
       "itunes_duration": "18:05",
       "speakers": [
-        "Glen Jeffery",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "discovery",
@@ -4268,13 +3756,7 @@
       "itunes_duration": "38:55",
       "speakers": [
         "James Webb Telescope",
-        "James Webb Space Telescope",
-        "James Webb",
-        "Jeyhan Kartaltepe",
-        "Jonathan Trump",
-        "Katie Flood",
-        "Daniel Merino",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "james",
@@ -4295,12 +3777,7 @@
       "enclosure_length": "33770550",
       "itunes_duration": "35:11",
       "speakers": [
-        "Xiaobo Xue Romeiko",
-        "Paul Behrens",
-        "Marco Springmann",
-        "Katie Flood",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "nation",
@@ -4319,10 +3796,7 @@
       "enclosure_length": "18709504",
       "itunes_duration": "19:29",
       "speakers": [
-        "Salma Mousa",
-        "Gemma Ware",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "discovery",
@@ -4344,11 +3818,7 @@
       "enclosure_length": "36643651",
       "itunes_duration": "38:10",
       "speakers": [
-        "Amy Pennay",
-        "Jonas Raninen",
-        "Katie Flood",
-        "Dan Merino",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "people",
@@ -4368,11 +3838,7 @@
       "enclosure_length": "37013109",
       "itunes_duration": "38:33",
       "speakers": [
-        "Moksha Patel",
-        "Jacinta O'Shea",
-        "Katie Flood",
-        "Dan Merino",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "illness",
@@ -4392,10 +3858,7 @@
       "itunes_duration": "27:39",
       "speakers": [
         "Uncharted Brain",
-        "Ruth Itzhaki",
-        "Dana Cairns",
-        "Paul Keaveny",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "uncharted",
@@ -4418,10 +3881,7 @@
       "itunes_duration": "25:20",
       "speakers": [
         "Uncharted Brain",
-        "Matthew Smith",
-        "Lisa McHale",
-        "Paul Keaveny",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "uncharted",
@@ -4445,12 +3905,9 @@
       "enclosure_length": "28612595",
       "itunes_duration": "29:48",
       "speakers": [
-        "Paul Keaveny",
-        "Marcus Richards",
-        "Jonathan Schott",
-        "David Ward",
         "Uncharted Brain",
-        "Neeta Sarl"
+        "Decoding Dementia",
+        "Gemma Ware"
       ],
       "topics": [
         "uncharted",
@@ -4472,12 +3929,7 @@
       "enclosure_length": "32483715",
       "itunes_duration": "33:50",
       "speakers": [
-        "John Kelechi Ugwuanyi",
-        "Farai Chabata",
-        "Aribiah David Attoe",
-        "Katie Flood",
-        "Neeta Sarl",
-        "Benin Bronzes"
+        "Gemma Ware"
       ],
       "topics": [
         "africa",
@@ -4496,9 +3948,7 @@
       "enclosure_length": "37462837",
       "itunes_duration": "39:01",
       "speakers": [
-        "Jennifer Lynn McCoy",
-        "Katie Flood",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "society"
@@ -4516,8 +3966,7 @@
       "enclosure_length": "15777053",
       "itunes_duration": "16:26",
       "speakers": [
-        "Ruth Mace",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "discovery",
@@ -4537,10 +3986,7 @@
       "enclosure_length": "38634853",
       "itunes_duration": "40:15",
       "speakers": [
-        "Andrew Whitehead",
-        "Marc Johnson",
-        "Daniel Merino",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "radiation",
@@ -4561,10 +4007,7 @@
       "enclosure_length": "38469263",
       "itunes_duration": "40:04",
       "speakers": [
-        "Dave Cook",
-        "Fabiola Mancinelli",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "nomad",
@@ -4584,9 +4027,7 @@
       "itunes_duration": "35:45",
       "speakers": [
         "Jair Bolsonaro",
-        "Erika Robb Larkins",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "brazil",
@@ -4605,12 +4046,7 @@
       "enclosure_length": "39425637",
       "itunes_duration": "41:04",
       "speakers": [
-        "Kyla Tienhaara",
-        "Emilia Onyema",
-        "Lea Di Salvatore",
-        "Maria-Rita D'Orsogna",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "lawsuit",
@@ -4633,10 +4069,7 @@
       "enclosure_length": "32432754",
       "itunes_duration": "33:47",
       "speakers": [
-        "Robin Carhart-Harris",
-        "Wayne Hall",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "research",
@@ -4657,11 +4090,7 @@
       "itunes_duration": "38:49",
       "speakers": [
         "Thwaites Glacier",
-        "Yixi Zheng",
-        "Ted Scambos",
-        "Paul Holland",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "thwaite",
@@ -4684,11 +4113,7 @@
       "enclosure_length": "31723000",
       "itunes_duration": "33:03",
       "speakers": [
-        "Anthony Ogbuokiri",
-        "Vyta Pivo",
-        "Susan Abed Hassan",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "building"
@@ -4706,10 +4131,7 @@
       "enclosure_length": "33680796",
       "itunes_duration": "35:05",
       "speakers": [
-        "Eleni Braat",
-        "Ben de Jong",
-        "Neeta Sarl",
-        "John Le Carré"
+        "Gemma Ware"
       ],
       "topics": [
         "agent",
@@ -4729,9 +4151,8 @@
       "enclosure_length": "22841363",
       "itunes_duration": "23:48",
       "speakers": [
-        "Maria McNamara",
-        "Nicolas Campione",
-        "Neeta Sarl"
+        "Jurassic World Dominion",
+        "Gemma Ware"
       ],
       "topics": [
         "dinosaur"
@@ -4748,7 +4169,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "833256",
       "itunes_duration": "00:52",
-      "speakers": [],
+      "speakers": [
+        "Gemma Ware"
+      ],
       "topics": [
         "update"
       ]
@@ -4765,9 +4188,7 @@
       "enclosure_length": "41641199",
       "itunes_duration": "43:23",
       "speakers": [
-        "Alan Thomas Kennedy-Asser",
-        "Andrew King",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "india",
@@ -4788,10 +4209,7 @@
       "enclosure_length": "29183958",
       "itunes_duration": "30:24",
       "speakers": [
-        "Scott Morrison",
-        "Michelle Grattan",
-        "Neeta Sarl",
-        "Anthony Albanese"
+        "Gemma Ware"
       ],
       "topics": [
         "election",
@@ -4811,8 +4229,7 @@
       "enclosure_length": "33857095",
       "itunes_duration": "35:16",
       "speakers": [
-        "Tamara May",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "adult",
@@ -4831,9 +4248,7 @@
       "enclosure_length": "43065678",
       "itunes_duration": "44:52",
       "speakers": [
-        "Maartje Abbenhuis",
-        "Swaran Singh",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "neutrality",
@@ -4853,9 +4268,7 @@
       "enclosure_length": "39208441",
       "itunes_duration": "40:50",
       "speakers": [
-        "Space Law",
-        "Neeta Sarl",
-        "Space Blocs"
+        "Gemma Ware"
       ],
       "topics": [
         "ukraine",
@@ -4878,8 +4291,7 @@
       "enclosure_length": "18765463",
       "itunes_duration": "19:33",
       "speakers": [
-        "George Athanasopoulos",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "culture",
@@ -4899,9 +4311,7 @@
       "enclosure_length": "34969411",
       "itunes_duration": "36:26",
       "speakers": [
-        "Hendricus Andy Simarmata",
-        "Alex Lechner",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "indonesia",
@@ -4926,11 +4336,7 @@
       "itunes_duration": "27:19",
       "speakers": [
         "Maria Gunning",
-        "Fiona McNeill",
-        "Will Smith",
-        "Gemma Ware",
-        "Ellen Duffy",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "makeup",
@@ -4951,13 +4357,8 @@
       "enclosure_length": "47060544",
       "itunes_duration": "49:01",
       "speakers": [
-        "Carissa Lee",
-        "Bronwyn Carlson",
-        "Jenny Munro",
-        "Catherine Porter",
-        "Gemma Ware",
-        "Ellen Duffy",
-        "Neeta Sarl"
+        "First Nations",
+        "Gemma Ware"
       ],
       "topics": [
         "aboriginal",
@@ -4982,13 +4383,7 @@
       "itunes_duration": "47:05",
       "speakers": [
         "Emmanuel Macron",
-        "Gilles Ivaldi",
-        "Adrian Dyer",
-        "Claudia Lorenzo",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Dale Berning Sawa",
-        "Nicolas Sarkozy"
+        "Gemma Ware"
       ],
       "topics": [
         "emmanuel",
@@ -5008,14 +4403,7 @@
       "enclosure_length": "48200237",
       "itunes_duration": "50:12",
       "speakers": [
-        "Volodomyr Kulyk",
-        "Dominique Arel",
-        "Olga Onuch",
-        "Katja Kolcio",
-        "Moina Spooner",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Kyivan Rus"
+        "Gemma Ware"
       ],
       "topics": [
         "history",
@@ -5035,12 +4423,7 @@
       "enclosure_length": "47233967",
       "itunes_duration": "49:12",
       "speakers": [
-        "Blerina Kellezi",
-        "Irina Kuznetsova",
-        "Martine Turenne",
-        "Gemma Ware",
-        "Mau Loseto",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "trauma",
@@ -5065,11 +4448,9 @@
       "enclosure_length": "48138843",
       "itunes_duration": "50:09",
       "speakers": [
-        "Mark Howden",
-        "Paul Hayne",
-        "Jonathan Este",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Intergovernmental Panel",
+        "Climate Change",
+        "Gemma Ware"
       ],
       "topics": [
         "climate",
@@ -5092,12 +4473,7 @@
       "enclosure_length": "38838419",
       "itunes_duration": "40:27",
       "speakers": [
-        "Livia Casali",
-        "Angel Ibarra Sanchez",
-        "Brock Bastian",
-        "Eric Smalley",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "fusion",
@@ -5117,13 +4493,7 @@
       "enclosure_length": "44711205",
       "itunes_duration": "46:34",
       "speakers": [
-        "Folahanmi Aina",
-        "Mady Ibrahim Kanté",
-        "Thierry Vircoulon",
-        "Shiri Lev-Ari",
-        "Jack Marley",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "sahel",
@@ -5149,12 +4519,8 @@
       "enclosure_length": "44283169",
       "itunes_duration": "46:08",
       "speakers": [
-        "Michael Bradshaw",
-        "Anastasiya Shapochkina",
-        "Madeleine Orr",
-        "Haley Lewis",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "If Russia",
+        "Gemma Ware"
       ],
       "topics": [
         "russia",
@@ -5175,12 +4541,9 @@
       "enclosure_length": "48513010",
       "itunes_duration": "50:32",
       "speakers": [
-        "Ozayr Patel",
-        "George Athanasopoulos",
-        "Laura Hood",
-        "Boris Johnson",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "South African",
+        "Jinal Bhima",
+        "Gemma Ware"
       ],
       "topics": [
         "story",
@@ -5204,13 +4567,9 @@
       "enclosure_length": "48058598",
       "itunes_duration": "50:04",
       "speakers": [
-        "Darren Byler",
-        "David Tobin",
-        "Anna Hayes",
-        "Cynthia Faye Isley",
-        "Matt Williams",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Uyghurs When",
+        "Beijing Winter Olympics",
+        "Gemma Ware"
       ],
       "topics": [
         "china",
@@ -5232,14 +4591,7 @@
       "enclosure_length": "47096906",
       "itunes_duration": "49:04",
       "speakers": [
-        "Stephen Wooding",
-        "Lina Begdache",
-        "Kristine Nolin",
-        "Anne Levesque",
-        "Veronika Meduna",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Ho Jung"
+        "Gemma Ware"
       ],
       "topics": [
         "science",
@@ -5259,14 +4611,8 @@
       "enclosure_length": "43181861",
       "itunes_duration": "44:59",
       "speakers": [
-        "Iwa Salami",
-        "Erica Pimentel",
-        "Benjamin Curtis",
-        "Rob Reddick",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Bertrand Malsch",
-        "Nathaniel Loh"
+        "El Salvador",
+        "Gemma Ware"
       ],
       "topics": [
         "country",
@@ -5288,14 +4634,7 @@
       "enclosure_length": "45027554",
       "itunes_duration": "46:54",
       "speakers": [
-        "Deborah Fuller",
-        "Monica Grady",
-        "Teresa Vidal-Calleja",
-        "Carlos Gradín",
-        "Naomi Schalit",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "James Piazza"
+        "Gemma Ware"
       ],
       "topics": [
         "science",
@@ -5317,14 +4656,7 @@
       "enclosure_length": "50548735",
       "itunes_duration": "52:39",
       "speakers": [
-        "Cherine Fahd",
-        "Being Together",
-        "Angelina Hurley",
-        "Ron Hurley",
-        "Kirsty Sedgman",
-        "Gregory Rayko",
-        "Gemma Ware",
-        "Rhianna Patrick"
+        "Gemma Ware"
       ],
       "topics": []
     },
@@ -5341,13 +4673,7 @@
       "itunes_duration": "45:29",
       "speakers": [
         "James Webb Space Telescope",
-        "Martin Barstow",
-        "Marcia Rieke",
-        "Edwin Kwong",
-        "Luthfi Dzulfikar",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "James Webb Space"
+        "Gemma Ware"
       ],
       "topics": [
         "history",
@@ -5372,12 +4698,7 @@
       "enclosure_length": "40107697",
       "itunes_duration": "41:47",
       "speakers": [
-        "Ray Moynihan",
-        "Jérôme Caby",
-        "Nicole Hassoun",
-        "Ozayr Patel",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "planet",
@@ -5398,14 +4719,8 @@
       "enclosure_length": "41954238",
       "itunes_duration": "43:42",
       "speakers": [
-        "Jean Stevenson",
-        "Sydney Calkin",
-        "Jane Marcus Delgado",
-        "Patrick Randolph-Quinney",
-        "Wale Fatade",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Alison Gash"
+        "Supreme Court",
+        "Gemma Ware"
       ],
       "topics": [
         "abortion",
@@ -5425,14 +4740,7 @@
       "enclosure_length": "48255865",
       "itunes_duration": "50:16",
       "speakers": [
-        "Jack Marley",
-        "Saleemul Huq",
-        "Richard Beardsworth",
-        "Rachel Kyte",
-        "Anna Malos",
-        "Stephen Khan",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "glasgow",
@@ -5453,14 +4761,7 @@
       "enclosure_length": "38215244",
       "itunes_duration": "39:48",
       "speakers": [
-        "Damon Matthews",
-        "Caroline Hickman",
-        "Charles Ogunbode",
-        "Teaghan Hogg",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Glen Peters",
-        "Léan O'Brien"
+        "Gemma Ware"
       ],
       "topics": [
         "year",
@@ -5482,14 +4783,7 @@
       "enclosure_length": "44628369",
       "itunes_duration": "46:29",
       "speakers": [
-        "Mukesh Kapila",
-        "Alejandro Gallego Schmid",
-        "Nicole Hasham",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Adisa Azapagic",
-        "Scott Morrison",
-        "Frank Jotzo"
+        "Gemma Ware"
       ],
       "topics": [
         "tigray",
@@ -5510,14 +4804,7 @@
       "enclosure_length": "35340950",
       "itunes_duration": "36:49",
       "speakers": [
-        "Samuel Alexande",
-        "Lorenzo Fioramonti",
-        "Beth Stratford PhD",
-        "Veronika Meduna",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Henrietta Moore",
-        "Jason Hickel"
+        "Gemma Ware"
       ],
       "topics": [
         "degrowth",
@@ -5538,14 +4825,7 @@
       "enclosure_length": "44800531",
       "itunes_duration": "46:40",
       "speakers": [
-        "Olivia Cheung",
-        "Vinita Srivastava",
-        "Veldon Coburn",
-        "Celeste Pedri-Spade",
-        "Luthfi Dzulfikar",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Jahmal Padmore"
+        "Gemma Ware"
       ],
       "topics": [
         "taiwan",
@@ -5566,14 +4846,9 @@
       "enclosure_length": "42341825",
       "itunes_duration": "44:06",
       "speakers": [
-        "Abdulrazak Gurnah",
-        "Kate Poole",
-        "David Nagib",
-        "Susheila Nasta",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Paolo Barucca",
-        "Kathy Kiely"
+        "Nobel Prizes",
+        "Abdulrazak Gurnah Six",
+        "Gemma Ware"
       ],
       "topics": [
         "nobel",
@@ -5597,14 +4872,7 @@
       "enclosure_length": "45618949",
       "itunes_duration": "47:31",
       "speakers": [
-        "Leandro Sanz",
-        "Ahmed Elgammal",
-        "Holly Squire",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Barbara Jacquelyn Sahakian",
-        "Christelle Langley",
-        "Philip Goff"
+        "Gemma Ware"
       ],
       "topics": [
         "clue",
@@ -5625,14 +4893,8 @@
       "enclosure_length": "38384969",
       "itunes_duration": "39:59",
       "speakers": [
-        "Angela Merkel",
-        "Jasmin Riedl",
-        "Niko Switek",
-        "Chantal Sullivan-Thomsett",
-        "Charles James Steward",
-        "Lucía Caballero",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "After Germany",
+        "Gemma Ware"
       ],
       "topics": [
         "germany",
@@ -5657,14 +4919,7 @@
       "enclosure_length": "44181125",
       "itunes_duration": "46:01",
       "speakers": [
-        "Christopher White",
-        "Victor Ongoma",
-        "Kewei Lyu",
-        "Justin Bergman",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Université Mohammed VI Polytechnique",
-        "Luke Harrington"
+        "Gemma Ware"
       ],
       "topics": [
         "climate",
@@ -5686,13 +4941,7 @@
       "itunes_duration": "41:50",
       "speakers": [
         "Justin Trudeau",
-        "Alex Marland",
-        "Jeremy Wildeman",
-        "Madelien Wooding",
-        "Moina Spooner",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Fenwick McKelvey"
+        "Gemma Ware"
       ],
       "topics": [
         "justin",
@@ -5714,14 +4963,7 @@
       "enclosure_length": "42580781",
       "itunes_duration": "44:21",
       "speakers": [
-        "Louise Comfort",
-        "Jean Eddy Saint Paul",
-        "Susan Kamei",
-        "Kalpana Jain",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Luigi Di Sarno",
-        "David Alexander"
+        "Gemma Ware"
       ],
       "topics": [
         "haiti",
@@ -5742,14 +4984,7 @@
       "enclosure_length": "41576829",
       "itunes_duration": "43:19",
       "speakers": [
-        "Brandon Guthrie",
-        "Laura Abou Haidar",
-        "Thomas Andrillon",
-        "Heather Kroeker",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Jay Kaufman",
-        "Catherine Haeck"
+        "Gemma Ware"
       ],
       "topics": [
         "school",
@@ -5769,14 +5004,8 @@
       "enclosure_length": "39359020",
       "itunes_duration": "41:00",
       "speakers": [
-        "Niamatullah Ibrahimi",
-        "Lee-Anne Goodman",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Safiullah Taye",
-        "Vrinda Narain",
-        "Kaweh Kerami",
-        "Lucia Nalbandian"
+        "Taliban Twenty",
+        "Gemma Ware"
       ],
       "topics": [
         "origin",
@@ -5795,12 +5024,7 @@
       "enclosure_length": "15013763",
       "itunes_duration": "15:38",
       "speakers": [
-        "Sarah Ackerman",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Sarah DeGenova Ackerman",
-        "Seena Mathew",
-        "Duncan Banks"
+        "Gemma Ware"
       ],
       "topics": [
         "switch",
@@ -5820,10 +5044,7 @@
       "enclosure_length": "12617197",
       "itunes_duration": "13:09",
       "speakers": [
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Mohammed Ibrahim Shire",
-        "Abdi Ismail Samatar"
+        "Gemma Ware"
       ],
       "topics": [
         "shabaab",
@@ -5843,11 +5064,7 @@
       "enclosure_length": "15381167",
       "itunes_duration": "16:01",
       "speakers": [
-        "Catherine Price",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Joshua Powell",
-        "Karen Vanderwolf Trent University"
+        "Gemma Ware"
       ],
       "topics": [
         "smell",
@@ -5867,14 +5084,8 @@
       "enclosure_length": "36865053",
       "itunes_duration": "38:24",
       "speakers": [
-        "Anthony Veal",
-        "Jana Javornik",
-        "Melissa Wanjiru-Mwita",
-        "Catesby Holmes",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "James Walker",
-        "David Spencer"
+        "How Nairobi",
+        "Gemma Ware"
       ],
       "topics": [
         "week",
@@ -5896,14 +5107,7 @@
       "enclosure_length": "44673785",
       "itunes_duration": "46:32",
       "speakers": [
-        "Nicole Forrester",
-        "Anthony Blazevich",
-        "Jonathan Taylor",
-        "Keith Rathbone",
-        "Jacob Zuma",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Jane Thornton"
+        "Gemma Ware"
       ],
       "topics": [
         "olympic",
@@ -5926,14 +5130,7 @@
       "enclosure_length": "35963102",
       "itunes_duration": "37:28",
       "speakers": [
-        "Mariana Lamas",
-        "Andrew Stout",
-        "Matti Wilks",
-        "Hannah Hoag",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Clive Phillips",
-        "Richard Hoffman"
+        "Gemma Ware"
       ],
       "topics": [
         "science",
@@ -5957,14 +5154,7 @@
       "enclosure_length": "40085011",
       "itunes_duration": "41:45",
       "speakers": [
-        "Craig Jones",
-        "Amy Maguire",
-        "Penny Pexman",
-        "Megan Clement",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Asaf Lubin",
-        "Peter Lee"
+        "Gemma Ware"
       ],
       "topics": [
         "justice",
@@ -5984,14 +5174,7 @@
       "enclosure_length": "41704185",
       "itunes_duration": "43:26",
       "speakers": [
-        "Chris Impey",
-        "Greg Eghigian",
-        "Line Engbo Gissel",
-        "Troels Burchall Henningsen",
-        "Naomi Joseph",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Kyle Cunliffe"
+        "Gemma Ware"
       ],
       "topics": [
         "report",
@@ -6013,14 +5196,7 @@
       "enclosure_length": "39790768",
       "itunes_duration": "41:27",
       "speakers": [
-        "Kamaljit Sangha",
-        "Elizabeth Maly",
-        "Ian Goldin",
-        "Julius Maina",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Charles Darwin University",
-        "Andrew Edwards"
+        "Gemma Ware"
       ],
       "topics": [
         "fire",
@@ -6044,13 +5220,7 @@
       "itunes_duration": "37:33",
       "speakers": [
         "Jair Bolsonaro",
-        "Vinicius Mariano de Carvalho",
-        "Marcos García García",
-        "Nick Lehr",
-        "Gemma Ware",
-        "Mau Loseto",
-        "Neeta Sarl",
-        "Peter Richards"
+        "Gemma Ware"
       ],
       "topics": [
         "brazil",
@@ -6076,13 +5246,7 @@
       "itunes_duration": "38:54",
       "speakers": [
         "Hassan Rouhani",
-        "Ammar Maleki",
-        "Pooyan Tamimi Arab",
-        "Avalon Owens",
-        "Haley Lewis",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Kyle Matthews"
+        "Gemma Ware"
       ],
       "topics": [
         "iranians",
@@ -6104,14 +5268,7 @@
       "enclosure_length": "39748972",
       "itunes_duration": "41:24",
       "speakers": [
-        "Jean-Baptise Jouffray",
-        "Anna Metaxas",
-        "Ifesinachi Okafor-Yarwood",
-        "Catesby Holmes",
-        "Letícia Marteleto",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "John Virdin"
+        "Gemma Ware"
       ],
       "topics": [
         "race",
@@ -6132,14 +5289,7 @@
       "enclosure_length": "35738679",
       "itunes_duration": "37:14",
       "speakers": [
-        "Megan Munsie",
-        "Jun Wu",
-        "César Palacios-González",
-        "Pier Paolo Frassinelli",
-        "Wale Fatade",
-        "Gemma Ware",
-        "Matt Williams",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "embryo",
@@ -6160,14 +5310,7 @@
       "enclosure_length": "38695297",
       "itunes_duration": "40:18",
       "speakers": [
-        "Caitlin Caspi",
-        "Craig Gundersen",
-        "Julian Agyeman",
-        "Gemma Ware",
-        "Matt Williams",
-        "Neeta Sarl",
-        "Maria Martinón-Torres",
-        "Evolución Humana"
+        "Gemma Ware"
       ],
       "topics": [
         "hunger",
@@ -6186,14 +5329,8 @@
       "enclosure_length": "35773784",
       "itunes_duration": "37:16",
       "speakers": [
-        "Rajib Dasgupta",
-        "Rowena Hill",
-        "Carissa Lee",
-        "Gemma Ware",
-        "Namita Kohli",
-        "Neeta Sarl",
-        "Saba Hussain",
-        "Vageesh Jain"
+        "Why India",
+        "Gemma Ware"
       ],
       "topics": [
         "india",
@@ -6213,14 +5350,7 @@
       "enclosure_length": "36954919",
       "itunes_duration": "38:30",
       "speakers": [
-        "Jennifer Hosek",
-        "Peter Hotez",
-        "Finlay Macdonald",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Jennifer Ruth Hosek",
-        "Stéphanie Panichelli-Batalla",
-        "Eddie Clark"
+        "Gemma Ware"
       ],
       "topics": [
         "cuba",
@@ -6243,13 +5373,7 @@
       "enclosure_length": "37232062",
       "itunes_duration": "38:47",
       "speakers": [
-        "Nicola Sturgeon",
-        "Boris Johnson",
-        "Kezia Dugdale",
-        "Darren Nyatanga",
-        "Graeme Roy",
-        "Sarah Ackerman",
-        "Moina Spooner",
+        "Why Scotland",
         "Gemma Ware"
       ],
       "topics": [
@@ -6273,14 +5397,7 @@
       "enclosure_length": "35389244",
       "itunes_duration": "36:52",
       "speakers": [
-        "Boko Haram",
-        "Wale Fatade",
-        "Hakeem Onapajo",
-        "Samuel Okunade",
-        "Bryan Keogh",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Francis Abiodun"
+        "Gemma Ware"
       ],
       "topics": [
         "child",
@@ -6301,14 +5418,7 @@
       "enclosure_length": "38116235",
       "itunes_duration": "39:42",
       "speakers": [
-        "Maria McNamara",
-        "Nicolas Campione",
-        "Amnon Aran",
-        "Eva Catalán",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Tiffany Slater",
-        "Valentina Rossi"
+        "Gemma Ware"
       ],
       "topics": [
         "world",
@@ -6329,14 +5439,7 @@
       "enclosure_length": "36887623",
       "itunes_duration": "38:25",
       "speakers": [
-        "Karl Schmedders",
-        "Sandy Brian Hager",
-        "Catherine Price",
-        "Luthfi Dzulfikar",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Patrick Reinmoeller",
-        "Robert Earle"
+        "Gemma Ware"
       ],
       "topics": [
         "zombie",
@@ -6358,13 +5461,7 @@
       "itunes_duration": "38:43",
       "speakers": [
         "Hadron Collider",
-        "Harry Cliff",
-        "Celine Boehm",
-        "Rubayat Jesmin",
-        "Nehal El-Hadi",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Paula Alvarez Cartelle"
+        "Gemma Ware"
       ],
       "topics": [
         "force",
@@ -6387,14 +5484,7 @@
       "enclosure_length": "34965553",
       "itunes_duration": "36:25",
       "speakers": [
-        "Dave Cook",
-        "Jean-Nicolas Reyt",
-        "Ruchi Sinha",
-        "Victoria Wyckelsma",
-        "Sunanda Creagh",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Jane Parry"
+        "Gemma Ware"
       ],
       "topics": [
         "work",
@@ -6413,14 +5503,7 @@
       "enclosure_length": "35668894",
       "itunes_duration": "37:09",
       "speakers": [
-        "Corinne Le Quéré",
-        "Steve Westlake",
-        "Sook Lee",
-        "Wale Fatade",
-        "Dan Merino",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Pep Canadell"
+        "Gemma Ware"
       ],
       "topics": [
         "drop",
@@ -6440,14 +5523,7 @@
       "enclosure_length": "35340022",
       "itunes_duration": "36:49",
       "speakers": [
-        "Tedros Adhanom Ghebreyesus",
-        "Peter Gluckman",
-        "Koi Tū",
-        "Andrew Lakoff",
-        "Dan Merino",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Andrew Gillespie"
+        "Gemma Ware"
       ],
       "topics": [
         "covid19",
@@ -6466,14 +5542,7 @@
       "enclosure_length": "32555610",
       "itunes_duration": "33:55",
       "speakers": [
-        "Jørgen Berge",
-        "Julio Mercader",
-        "Pastory Bushozi",
-        "Peter Itambu",
-        "Laura Hood",
-        "Dan Merino",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "climate",
@@ -6495,14 +5564,9 @@
       "enclosure_length": "34648780",
       "itunes_duration": "36:06",
       "speakers": [
-        "Hong Kongers",
-        "Peter William Walsh",
-        "Tsungyi Michelle Huang",
-        "Benjamin Brubaker",
-        "Luthfi Dzulfikar",
-        "Dan Merino",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Leaving Hong Kong",
+        "Hong Kong",
+        "Gemma Ware"
       ],
       "topics": [
         "hong",
@@ -6524,13 +5588,7 @@
       "enclosure_length": "35045833",
       "itunes_duration": "36:30",
       "speakers": [
-        "Ronald Labonté",
-        "Mosoka Fallah",
-        "Anne Moore",
-        "Hao Tan",
-        "Dan Merino",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "coronavirus",
@@ -6550,14 +5608,7 @@
       "enclosure_length": "33188335",
       "itunes_duration": "34:34",
       "speakers": [
-        "Adam Simpson",
-        "DB Subedi",
-        "Kaitlin Sawatzki",
-        "Catesby Holmes",
-        "Dan Merino",
-        "Gemma Ware",
-        "Neeta Sarl",
-        "Johanna Garnett"
+        "Gemma Ware"
       ],
       "topics": [
         "myanmar",
@@ -6576,14 +5627,8 @@
       "enclosure_length": "34277126",
       "itunes_duration": "35:42",
       "speakers": [
-        "Jim Bell",
-        "Stefania Paladini",
-        "Nidhal Guessoum",
-        "Félix Krawatzek",
-        "Alexei Navalny",
-        "Dan Merino",
-        "Gemma Ware",
-        "Neeta Sarl"
+        "Mars Welcome",
+        "Gemma Ware"
       ],
       "topics": [
         "month",
@@ -6602,9 +5647,7 @@
       "enclosure_length": "2014445",
       "itunes_duration": "02:06",
       "speakers": [
-        "Gemma Ware",
-        "Dan Merino",
-        "Neeta Sarl"
+        "Gemma Ware"
       ],
       "topics": [
         "conversation",
@@ -6618,268 +5661,268 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — The 'national humiliation' behind Russia's war on Ukraine — speakers: Vladmir Putin, James Rodgers, Ashlynne McGhee, Michelle Macklem, Neeta Sarl, Vladimir Putin, Zelenskyy Mentioned, Donald Trump
-- 2026-02-12 — How Minneapolis is organising against ICE — speakers: Daniel Cueto-Villalobos, George Floyd, Katie Flood, Michelle Macklem, Neeta Sarl, Donald Trump
-- 2026-02-05 — The Super Bowl that kickstarted prop betting in America — speakers: William Perry, John Affleck, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2026-01-29 — How Iran shut down the internet — speakers: Amin Naeni, Michelle Macklem, Neeta Sarl, Donald Trump
-- 2026-01-22 — A lost US military base under Greenland's ice sheet — speakers: Donald Trump, Paul Bierman, Michelle Macklem, Neeta Sarl
-- 2026-01-15 — A new treaty to protect our oceans — speakers: Callum Roberts, Michelle Macklem, Neeta Sarl
-- 2026-01-04 — The Making of an Autocrat: co-opt the military — speakers: Joe Wright, Justin Bergman, Isabella Podwinski, Ashlynne McGhee, Michelle Macklem
-- 2026-01-04 — The Making of an Autocrat: suppress the people — speakers: Donald Trump, James Comey, Letitia James, John Bolton, Adam Schiff, Mark Kelly, Kamala Harris, Justin Bergman
-- 2025-12-28 — The Making of an Autocrat: beat the courts — speakers: Donald Trump, Paul Collins, Justin Bergman, Isabella Podwinski, Ashlynne McGhee, Michelle Macklem
-- 2025-12-28 — The Making of an Autocrat: manufacture a crisis — speakers: Donald Trump, Natasha Lindstaedt, Justin Bergman, Isabella Podwinski, Ashlynne McGhee, Michelle Macklem
-- 2025-12-28 — The Making of an Autocrat: recruit an architect — speakers: Stephen Miller, Donald Trump, Emma Shortis, Justin Bergman, Isabella Podwinski, Ashlynne McGhee, Michelle Macklem
-- 2025-12-28 — The Making of an Autocrat: hijack a party — speakers: Adolf Hitler, Joseph Stalin, Mao Zedong, Vladimir Putin, Xi Jinping, Donald Trump, Justin Bergman, Isabella Podwinski
-- 2025-12-22 — Coming soon: The Making of an Autocrat — speakers: Donald Trump
-- 2025-12-18 — Venezuela's plan to resist a US invasion — speakers: Donald Trump, Nicolás Maduro, Pablo Uchoa, Hugo Chávez, Michelle Macklem, Neeta Sarl, Gemma Ware
-- 2025-12-11 — How Timor-Leste is fighting back against Asia’s scamming gangs — speakers: Michael Rose, Michelle Macklem, Neeta Sarl, Gemma Ware, Donald Trump
-- 2025-12-04 — Why the US is fixated on South Africa’s white Afrikaners — speakers: Donald Trump, Carolyn Holmes, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2025-11-27 — The 40 scientists who decide which flu shot you'll get — speakers: Ian Barr, Michelle Macklem, Neeta Sarl, Donald Trump
-- 2025-11-20 — How China cleaned up its air pollution — speakers: Laura Wilcox, Michelle Macklem, Neeta Sarl, Donald Trump
-- 2025-11-13 — How early climate models got global warming right — speakers: Nadir Jeevanjee, Eleanor Brezzi, Neeta Sarl
-- 2025-11-06 — How organised crime infiltrated Brazil — speakers: Robert Muggah, Eleanor Brezzi, Neeta Sarl, mais séria
-- 2025-10-30 — Ghosts vs demons: a 16th century Halloween showdown — speakers: James VI, Penelope Geng, Katie Flood, Neeta Sarl, Gemma Ware
-- 2025-10-23 — Bitcoin buys: the risks and rewards of companies buying crypto — speakers: Michael Saylor, Larisa Yarovaya, Michelle Macklem, Neeta Sarl
-- 2025-10-16 — The hidden sources of forever chemicals — speakers: Patrick Byrne, Michelle Macklem, Neeta Sarl
-- 2025-10-09 — Nobel laureate Shimon Sakaguchi on his immune system breakthrough — speakers: Shimon Sakaguchi, Mary Brunkow, Fred Ramsdell, Michelle Macklem, Neeta Sarl
-- 2025-10-02 — The diagnosis dimension to the rise in autism — speakers: Donald Trump, Andrew Whitehouse, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2025-09-25 — Pressuring the Fed doesn't end well — speakers: Donald Trump, Richard Nixon, Cristina Bodea, Neeta Sarl
-- 2025-09-18 — Palestinian statehood: the route to recognition — speakers: Maha Nassar, Neeta Sarl
-- 2025-09-11 — The sovereign citizen movement's spread around the world — speakers: Dezi Freeman, Keiran Hardy, Prince Leonard, Katie Flood, Ashlynee McGhee, Neeta Sarl
-- 2025-09-04 — How China is weaponising the history of WWII — speakers: Xi Jinping, Neeta Sarl
-- 2025-08-28 — The secret ingredients for creative flow — speakers: John Kounios, Neeta Sarl
-- 2025-08-21 — LSE IQ: is AI destroying the planet? — speakers: Anna Bevan, Oliver Johnson
-- 2025-08-14 — Teaching animals irrelevant skills can reveal the secrets of cognition — speakers: Scarlett Howard, Katie Flood, Neeta Sarl
-- 2025-08-07 — How the world got hooked on plastic — speakers: Mark Miodownik, Michelle Macklem, Eloise Stevens, Neeta Sarl
-- 2025-07-31 — How Rupert Murdoch helped to build brand Trump — speakers: Rupert Murdoch, Trump Donald Trump, Jeffrey Epstein, Andrew Dodd, Ashlynne McGhee, Neeta Sarl
-- 2025-07-24 — Israel’s secret deal to build a nuclear arsenal — speakers: Golda Meir, Richard Nixon, Avner Cohen, Katie Flood, Ashlynne McGhee, Neeta Sarl
-- 2025-07-17 — What will batteries of the future be made of? — speakers: Laurence Hardwick, Robert Armstrong, Ulugbek Azimov, Bill Yen, Katie Flood, Neeta Sarl
-- 2025-07-10 — An enduring anti-fascist legacy in Italy — speakers: Juan Masullo, Neeta Sarl
-- 2025-07-03 — How Europe dropped the ball on its own defence — speakers: Mark Rutte, Donald Trump, Francesco Grillo, François Lafond, Neeta Sarl
-- 2025-06-26 — Autism, RFK Jr and avoiding disability surveillance — speakers: Kennedy Jr, Amy Gaeta, Katie Flood, Gemma Ware, Neeta Sarl
-- 2025-06-19 — Self-censorship and what drives it — speakers: Daniel Bar-Tal, Katie Flood, Gemma Ware, Neeta Sarl
-- 2025-06-12 — Cash for releasing sharks has a catch — speakers: Hollie Booth, Said Ramdlan, Neeta Sarl
-- 2025-06-06 — The 15% solution part 2: can a global tax make the world fairer? — speakers: Martin Hearson, Gemma Ware, Neeta Sarl
-- 2025-06-05 — The 15% solution part 1: why global tax reform is long overdue — speakers: Annette Alstadsæter, Tarcisio Diniz Magalhaes, Gemma Ware, Neeta Sarl
-- 2025-05-29 — The trafficked American guns fuelling Mexico’s cartel violence — speakers: Sean Campbell, Topher McDougal, Neeta Sarl
-- 2025-05-22 — New theories of Alzheimer's taking the search for a cure in a different direction — speakers: Donald Weaver, Katie Flood, Gemma Ware, Neeta Sarl
-- 2025-05-15 — After USAID: the future of foreign aid — speakers: Neeta Sarl, Donald Trump
-- 2025-05-08 — The 'Mo Salah effect' on reducing prejudice — speakers: Mohamed Salah, Salma Mousa, Gemma Ware, Katie Flood, Neeta Sarl
-- 2025-05-01 — Three scientists on what it's like to have research funding cut by the Trump administration — speakers: Brady West, Sunghee Lee, Glenda Gray, Katie Flood, Neeta Sarl
-- 2025-04-24 — Brazil’s anti-vax disinformation economy — speakers: Ergon Cugler, Igor Sacramento, Neeta Sarl
-- 2025-04-17 — The Birkin bag game — speakers: Parul Bhandari, Aarushi Bhandari, Katie Flood, Neeta Sarl, Louis Vuitton
-- 2025-04-09 — How AI could influence the evolution of humanity — speakers: Rob Brooks, Neeta Sarl
-- 2025-04-03 — Ancient cities had hidden disease protections — speakers: Alex Bentley, Katie Flood, Neeta Sarl
-- 2025-03-27 — Shipping produces 3% of global emissions. How to get that down, quickly — speakers: Daniel Precioso, Alice Larkin, Neeta Sarl
-- 2025-03-20 — Prospects of lasting peace between Turkey and the Kurds — speakers: Abdullah Öcalan, Pinar Dinc, Neeta Sarl
-- 2025-03-13 — The surreal story of how COVID took over a remote city in the Amazon — speakers: Japhy Wilson, Katie Flood, Neeta Sarl
-- 2025-03-06 — The fossil that proved humanity's common origins in Africa — speakers: Raymond Dart, Christa Kuljian, Dipuo Kgotleng, Katie Flood, Eloise Stevens, Neeta Sarl
-- 2025-02-25 — Scam Factories Ep 3: Great Escapes — speakers: Michelle Macklem, Leila Goldstein, Halima Athumani, Hui Lin, Justin Bergman, Ashlynee McGhee
-- 2025-02-24 — Scam Factories Ep 2: Inside the operation — speakers: Ben Yeo, Ivan Franceschini, Ling Li, Mark Bo, Michelle Macklem, Leila Goldstein, Halima Athumani, Hui Lin
-- 2025-02-23 — Scam Factories Ep 1: No skills required — speakers: Ivan Franceschini, Ling Li, Mark Bo, Michelle Macklem, Leila Goldstein, Halima Athumani, Hui Lin, Justin Bergman
-- 2025-02-20 — Tariffs: the winners and losers — speakers: Jostein Hauge, Michelle Macklem, Neeta Sarl, Will Trump
-- 2025-02-13 — How does decentralised social media work? — speakers: Elon Musk, Robert Gehl, Michelle Macklem, Neeta Sarl
-- 2025-02-06 — Where support for Germany’s far-right AFD is growing and why — speakers: Rolf Frankenberger, Laura Hood, Michelle Macklem, Neeta Sarl, Elon Musk
-- 2025-01-30 — How close are quantum computers to being really useful? — speakers: Daniel Lidar, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2025-01-23 — A wildfire warning from California's Ice Age past — speakers: Emily Lindsey, Katie Flood, Michelle Macklem
-- 2025-01-16 — Silicon Valley’s bet on a future of AI-enabled warfare — speakers: Elke Schwarz, Michelle Macklem, Neeta Sarl
-- 2025-01-09 — How the world fell in love with plastic without thinking through the consequences — speakers: Mark Miodowonik, Michelle Macklem, Neeta Sarl
-- 2025-01-02 — Brain implants, agentic AI and answers on dark matter: what to expect from science in 2025 — speakers: Gemma Ware, Paul Rincon, Elsa Couderc, Signe Dean, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2024-12-19 — How Zimbabwe reached the point of abolishing the death penalty — speakers: Carolyn Hoyle, Parvais Jabbar, Michelle Macklem, Neeta Sarl
-- 2024-12-12 — Why distrust in powerful politicians is part of a functioning democracy — speakers: Grant Duncan, Donald Trump, Gemma Ware, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2024-12-05 — How do animals understand death? — speakers: Susana Monsó, Katie Flood, Michelle Macklem, Neeta Sarl, de lo
-- 2024-11-28 — The story of one Amazon warehouse in the UK that pushed to unionise — speakers: Tom Vickers, John Logan, Sarah Reid, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2024-11-21 — 50 years since the discovery of ancient hominin fossil Lucy in Ethiopia, calls grow to decolonize paleoanthropology — speakers: Donald Johanson, Yohannes Haile-Selassie, Michelle Macklem, Neeta Sarl
-- 2024-11-14 — The controversy over cod fishing in Canada — speakers: Tyler Eddy, Michelle Macklem, Neeta Sarl
-- 2024-11-07 — Gangsters who leave their gang behind for something new — speakers: Dennis Rodgers, Michelle Macklem, Neeta Sarl
-- 2024-10-31 — What is motivating Americans as they decide who to vote for — speakers: Naomi Schalit, Jesse Rhodes, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2024-10-24 — Origins of South Australia’s mysterious pink sands revealed — speakers: Sharmaine Verhaert, Gemma Ware, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2024-10-17 — MicroRNA: Victor Ambros on the discovery that won him the Nobel prize — speakers: Victor Ambros, Gary Ruvkun, Gemma Ware, Katie Flood, Michelle Macklem, Neeta Sarl
-- 2024-10-14 — Know Your Place: when did class stop predicting the way British people vote? — speakers: Laura Hood, John Curtice, Paula Surridge, Tim Bale, Geoffrey Evans, Michelle Macklem
-- 2024-10-10 — What Israel and its neighbours want now — speakers: Mireille Rebeiz, Amnon Aran, Michelle Macklem, Hassan Nasrallah
-- 2024-10-03 — HIV breakthrough in preventing infection via injection — speakers: Linda-Gail Bekker, Michelle Macklem, Gemma Ware, Neeta Sarl
-- 2024-09-26 — Himpathy: the psychology of why some people side with perpetrators of sexual misconduct — speakers: Samantha Dodson, Katie Flood, Michelle Macklem, Gemma Ware, Neeta Sarl, Jean Carroll
-- 2024-09-19 — A lonely ancient plant needs a female partner – researchers are using drones and AI to find it — speakers: Laura Cinti, Gemma Ware, Michelle Macklem, Neeta Sarl
-- 2024-09-12 — Why mpox in Africa was ignored for too long and children are dying as a result — speakers: Adjoa Sam-Agudu, Wolfgang Preiser, Gemma Ware, Michelle Macklem, Neeta Sarl
-- 2024-09-05 — The emotional toll of dating apps and why they're no longer about finding love — speakers: Carolina Bandinelli, Michelle Macklem, Neeta Sarl, Gemma Ware
-- 2024-08-30 — Geoengineering part 2: the case against reflecting sunlight to cool the Earth — speakers: Chukwumerije Okereke, Aarti Gupta, Shaun Fitzgerald, Gemma Ware, Michelle Macklem, Neeta Sarl
-- 2024-08-29 — Geoengineering part 1: the case to try modifying the climate — speakers: Shaun Fitzgerald, Ben Kravitz, Stacy Morford, Katie Flood, Gemma Ware, Michelle Macklem, Neeta Sarl
-- 2024-08-22 — A tooth that rewrites history? The discovery challenging what we knew about Neanderthals — speakers: Homo Sapiens, Ludovic Slimak, Paul Sabatier, Eloise Stevens, Neeta Sarl
-- 2024-08-15 — Borders and Belonging: is Japan turning into a migration state? — speakers: Maggie Perzyna, Ito Peng, Nana Oishi, Michelle Macklem
-- 2024-08-08 — Curious Kids: Why is my dog so cute? — speakers: Deborah Wells, Gemma Ware
-- 2024-08-01 — Fightback mounts against trade deals fossil fuel investors can use to sue countries over climate action — speakers: Kyla Tienhaara, Neeta Sarl, Christian Porter
-- 2024-07-25 — New options for managing chronic pain after the opioid crisis — speakers: Rachael Rzasa Lynn, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-07-18 — Can shared experiences bring people closer together? — speakers: Garriy Shteynberg, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-07-11 — What next for the French and British right? — speakers: Keir Starmer, Tim Bale, Safia Dahani, Neeta Sarl, Gemma Ware
-- 2024-07-04 — Underwater soundscapes of seagrass meadows revealed in new recordings — speakers: Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-07-01 — Don't Call Me Resilient: as war rages in Sudan, a new type of community resistance takes hold — speakers: Vinita Srivastava
-- 2024-06-27 — 3D printed guns: unmasking the designer of the FGC-9 — speakers: Rajan Basra, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-06-20 — The Brexit roots of the UK's Rwanda asylum plan – and why other EU leaders might want to copy it — speakers: Nando Sigona, Michaela Benson, Neeta Sarl, Gemma Ware
-- 2024-06-13 — Scientists can't agree on how fast the universe is expanding – why this matters so much for our understanding of the cosmos — speakers: James Webb Space Telescope, Lorena Sánchez, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-06-06 — Creative flow: what's going on inside our brains when everything just clicks — speakers: John Kounios, Kate Kilpatrick, Neeta Sarl, Gemma Ware
-- 2024-05-30 — Breakthroughs and failures on the road to a universal snake bite antivenom — speakers: Stuart Ainsworth, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-05-23 — Moments of hope: how Indians keep pushing back against the hollowing out of democracy — speakers: Narendra Modi, Indrajit Roy, Katie Flood, Neeta Sarl, Modi’s Hindu
-- 2024-05-16 — Assisted dying: Canada grapples with plans to introduce euthanasia for mental illness — speakers: Karandeep Sonu Gaind, Patricia Nicholson, Katie Flood, Neeta Sarl
-- 2024-05-09 — How to spend the billions needed for climate adaptation – and make sure frontline communities have a say — speakers: Katherine Browne, Margaret Angula, Kofo Belo-Osagie, Neeta Sarl, Gemma Ware
-- 2024-05-02 — Data poisoning: how artists are trying to sabotage generative AI — speakers: Daniel Angus, Eric Smalley, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-04-25 — What happened to Nelson Mandela's South Africa part 3: Dream deferred — speakers: Nelson Mandela, Cyril Ramaphosa, Sithembile Mbete, Richard Calland, Gary Oberholzer, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-04-18 — What happened to Nelson Mandela's South Africa part 2: Tasting the fruits of freedom — speakers: Nelson Mandela, Jacob Zuma, Mashupye Maserumule, Michael Sachs, Gary Oberholzer, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-04-11 — What happened to Nelson Mandela's South Africa part 1: Liberation, transition and reconciliation — speakers: Nelson Mandela, Steven Friedman, Sandy Africa, Gary Oberholzer, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-04-10 — Trailer: What happened to Nelson Mandela's South Africa? — speakers: Nelson Mandela
-- 2024-04-04 — The Anthropocene epoch that isn't — speakers: Jan Zalasiewicz, Neeta Sarl, Gemma Ware
-- 2024-04-01 — Don't Call Me Resilient: starvation as a weapon of war in Gaza — speakers: Vinita Srivastava, Hilal Elver
-- 2024-03-28 — Invisible lines: how unseen boundaries shape the world around us — speakers: Maxim Samson, Neeta Sarl, Gemma Ware
-- 2024-03-21 — Climate quitting: the people leaving their fossil fuel jobs because of climate change — speakers: Grace Augustine, Sam Phelps, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-03-14 — How conspiracy theories help to maintain Vladimir Putin’s grip on power in Russia — speakers: Vladimir Putin, Ilya Yablokov, Grégory Rayko, Katie Flood, Neeta Sarl, En Russie
-- 2024-03-07 — How North Korea is turning into a matriarchy — speakers: Bronwen Dalton, Kyungja Jung, Justin Bergman, Neeta Sarl
-- 2024-02-29 — Intellectual humility: the rewards of being willing to change your mind — speakers: Daryl Van Tongeren, Maggie Villiger, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-02-22 — Israel-Gaza: how opinion polls used in Northern Ireland could pave a way to peace — speakers: Colin Irwin, Jonathan Este, Neeta Sarl, Gemma Ware
-- 2024-02-15 — As we dream, we can listen in on the waking world — speakers: Başak Türker, Lionel Cavicchioli, Katie Flood, Neeta Sarl, Gemma Ware
-- 2024-02-12 — Deepfakes and disinformation swirl ahead of Indonesian election — speakers: Nuurrianti Jalli, Neeta Sarl, Fake Biden
-- 2024-02-08 — Environments can shape the differences between cultures — speakers: Michael Varnum, Meher Batia, Neeta Sarl
-- 2024-02-01 — The complicated journey toward a list of all life on Earth — speakers: Stephen Garnett, Signe Dean, Katie Flood, Neeta Sarl
-- 2024-01-25 — Descendants of Holocaust survivors explain why they are replicating Auschwitz tattoos on their own bodies — speakers: Dale Berning Sawa, Alice Bloch, David Rubin, Katie Flood, Neeta Sarl
-- 2024-01-18 — Women lifestyle influencers are changing the face of the far right — speakers: Eviane Leidig, Neeta Sarl
-- 2024-01-11 — Interoception: the sixth sense we use to read hidden signals from our body — speakers: Sarah Garfinkel, Vivian Lam, Katie Flood, Neeta Sarl
-- 2024-01-04 — Wolves return to Europe: what to do about them is a people problem — speakers: Hanna Pettersson, Jack Marley, Katie Flood, Neeta Sarl
-- 2023-12-21 — Social media drains our brains and impacts our decision making — speakers: Matthew Pittman, Kate Kilpatrick, Jusneel Mahal, Neeta Sarl
-- 2023-12-18 — Israel-Gaza war on campus part 2: a chilling effect on academic freedom — speakers: Neve Gordon, Neeta Sarl
-- 2023-12-14 — Israel-Gaza war on campus part 1: American universities in the spotlight — speakers: David Mednicoff, Naomi Schalit, Neeta Sarl
-- 2023-12-11 — Kenya at 60: the patriotic choral music used to present one version of history — speakers: Doseline Kiguru, Julius Maina, Katie Flood, Gemma Ware
-- 2023-12-07 — Why unprecedented drought in the Amazon is so dangerous for the planet — speakers: Philip Fearnside, Katie Flood, Gemma Ware
-- 2023-11-30 — Genocide: the history of the term and what it means under international law — speakers: Alexander Hinton, Gemma Ware
-- 2023-11-23 — Brandalism: the environmental activists using spoof adverts to critique rampant consumerism — speakers: Eloise Stevens, Katie Flood, Gemma Ware
-- 2023-11-16 — Antibiotic resistance: microbiologists turn to new technologies in the hunt for solutions — speakers: Nubwa Medugu, Neeta Sarl, Gemma Ware
-- 2023-11-09 — After Morocco's earthquake, artisans in Marrakech’s old medina face an uncertain future — speakers: Abbey Stockstill, Nour Eddine Nachaoune, Kalpana Jain, Katie Flood, Neeta Sarl, Gemma Ware
-- 2023-11-02 — The wildfires that led to mass extinction. A warning from California's Ice Age history — speakers: Emily Lindsey, Stacy Morford, Eloise Stevens, Neeta Sarl
-- 2023-10-26 — When domicide razed my city: a view from Homs in Syria — speakers: Ammar Azzouz, Eloise Stevens, Neeta Sarl
-- 2023-10-24 — Don't Call Me Resilient: why are brown and Black people supporting the far right? — speakers: Vinita Srivastava, Daniel Martinez HoSang
-- 2023-10-19 — Quantum dots: Louis Brus on the discovery that won him the Nobel prize — speakers: Louis Brus, Katie Flood, Eloise Stevens, Neeta Sarl
-- 2023-10-12 — Neanderthals: what their extinction could tell us about Homo Sapiens — speakers: Homo Sapiens, Ludovic Slimak, Paul Sabatier, Eloise Stevens, Neeta Sarl
-- 2023-10-05 — Why Australia is putting a First Nations Voice to Parliament to a referendum — speakers: Sana Nakata, Kiera Ladner, Gemma Ware, Carissa Lee, Eloise Stevens, Neeta Sarl
-- 2023-10-03 — New malaria vaccine: a step closer to eradication — speakers: Daniel Merino, Nehal El-Hadi, Faith Osier, Adrian Hill, Training Center, Katie Flood, Dan Merino, Eloise Stevens
-- 2023-09-28 — Spain's egg donation boom — speakers: Anna Molas, Katie Flood, Neeta Sarl, Gemma Ware
-- 2023-09-26 — Inside the Oslo Accords part 3: the legacy — speakers: Hanan Ashrawi, Yossi Beilin, James Rodgers, Amnon Aran, Neeta Sarl
-- 2023-09-19 — Inside the Oslo Accords part 2: after the handshake — speakers: Hanan Ashrawi, Yossi Beilin, James Rodgers, Amnon Aran, Neeta Sarl
-- 2023-09-12 — Inside the Oslo Accords part 1: why Norway was in the Middle East — speakers: James Rodgers, Amnon Aran, Neeta Sarl
-- 2023-08-31 — Fear and Wonder: how species are responding to climate change — speakers: Tero Mustonen, Gretta Pecl, Joelle Gergis, Michael Green
-- 2023-07-27 — Production break
-- 2023-07-20 — Discovery: Thirty years after Jurassic Park hit movie screens, its impact on science and culture remains as strong as ever — speakers: Michael Crichton, Travis Holland, Katie Flood, Neeta Sarl
-- 2023-07-13 — The bacteria and microbes in your gut can affect your body and mental health, and engineering them promises new forms of treatment — speakers: Chris Damman, Andrea Merchak, Tae Seok Moon, Neeta Sarl
-- 2023-07-06 — How fine dining in Europe and the US came to exclude immigrant cuisine — speakers: Anthony Bourdain, Krishnendu Ray, Zeena Feldman, Gillian Gualtieri, Dan Merino, Katie Flood, Neeta Sarl
-- 2023-06-29 — Debunking migration myths: the real reasons people move, and why most migration happens in the Global South — speakers: Valentina Di Iasio, Christopher Nshimbi, Avery Anapol, Neeta Sarl
-- 2023-06-22 — How protest movements use feminine images and social media to fight sexist ideologies of authoritarian regimes — speakers: Parichehr Kazemi, Aliaksei Kazharski, Michaela Grančayová, Katie Flood, Neeta Sarl
-- 2023-06-15 — Crowdsourcing new constitutions: how 2 Latin American countries increased participation and empowered groups excluded from politics — speakers: Carlos Bernal, Jennifer Piscopo, Katie Flood, Neeta Sarl
-- 2023-06-08 — Beauty procedures from manicures to cosmetic surgery carry risk and the potential reward of a better life — speakers: Alvaro Jarrín, Maria Zhivagui, Nehal El-Hadi, Katie Flood, Neeta Sarl
-- 2023-06-01 — Governments and environmental groups are turning to international courts to combat the impacts of climate change — speakers: Niak Sian Koh, Zoe Nay, Jackie Smith, Katie Flood, Neeta Sarl
-- 2023-05-25 — Improving how the IMF does business could help billions of people worldwide — speakers: Danny Bradlow, Attiya Waris, Neeta Sarl
-- 2023-05-18 — The solutions needed to address climate change already exist – Fear and Wonder podcast — speakers: Greg Nemet, Gregory Nemet, Yamina Saheb, Michael Green
-- 2023-05-11 — Fast Fashion: Why garment workers’ lives are still in danger 10 years after Rana Plaza — speakers: Rana Plaza, Dina Siddiqi, Vinita Srivastava, Boke Saisi, Jennifer Moroz, Ateqah Khaki, Rehmatullah Sheikh, Ollie Nicholas
-- 2023-05-04 — Cloud seeding can increase rain and snow, and new techniques may make it a lot more effective — speakers: Katja Friedrich, Dean Bangsund, Linda Zou, Katie Flood, Eloise Stevens, Neeta Sarl
-- 2023-04-27 — Dangerous and dirty – but cheap – used cars exported from the US and Europe are filling roads in Africa — speakers: Festival Godwin Boateng, Paul Bledsoe, Professional Lecturer, Neeta Sarl
-- 2023-04-20 — Fear and Wonder podcast: how scientists attribute extreme weather events to climate change — speakers: Friederike Otto, David Karoly, Tannecia Stephenson, Michael Green
-- 2023-04-13 — How recognising cultural practices in environmental regulation can help protect natural resources like sandalwood — speakers: Danny Hettiarachchi, Ezra Rashkow, Jules Pretty, Nehal El-Hadi, Neeta Sarl
-- 2023-04-06 — Do glitzy awards like the Earthshot Prize actually help fight climate change? — speakers: David Reiner, Abbas Abdul, Mark Maslin, Katie Flood, Neeta Sarl
-- 2023-03-30 — Too many digital distractions are eroding our ability to read deeply — speakers: Maryanne Wolf, Kai Lukoff, Daniel Le Roux, Neeta Sarl
-- 2023-03-23 — Back to the Moon — speakers: Mahesh Anand, Space Law, Katie Flood, Dan Merino, Neeta Sarl
-- 2023-03-16 — Iraq 20 years on: researchers assess how US invasion shapes lives today — speakers: Sana Murran, Inna Rudolf, Neeta Sarl
-- 2023-03-09 — Is time an illusion? — speakers: Sean Carroll, Emily Adlam, Miriam Frankel, Hannah Fisher, Jo Adetunji, Gemma Ware, Alice Mason, Neeta Sarl
-- 2023-03-02 — Three AI experts on how access to ChatGPT-style tech is about to change our world — speakers: Daniel Acuña, Kentaro Toyama, Thierry Rayna, Katie Flood, Dan Merino, Neeta Sarl
-- 2023-02-27 — Discovery: Biologists discovered a new species of tiny owl on the forested island of Príncipe, and it's already under threat — speakers: Bárbara Freitas, Katie Flood, Dan Merino, Neeta Sarl
-- 2023-02-23 — After oil: the challenge and promise of getting the world off fossil fuels — speakers: Natalie Koch, Neeta Sarl
-- 2023-02-16 — Loneliness is making us physically sick, but social prescribing can treat it — speakers: Ananya Chakravarti, Kate Mulligan, Neeta Sarl
-- 2023-02-09 — Lack of diversity in clinical trials is leaving minority patients behind and harming the future of medicine — speakers: Jennifer Miller, Julia Liu, Keith Yamamoto, Katie Flood, Neeta Sarl
-- 2023-02-02 — Influencers are getting hired by smaller cities to attract new residents and generate revenue — speakers: Neeta Sarl
-- 2023-01-26 — Beavers and oysters are helping restore lost ecosystems with their engineering skills — speakers: Josh Larsen, Dominic McAfee, Andy Kliskey, Katie Flood, Neeta Sarl
-- 2023-01-23 — Discovery: Secretly documenting starvation in the Warsaw Ghetto — speakers: Merry Fitzpatrick, Dan Merino, Neeta Sarl, Warsaw Ghetto
-- 2023-01-19 — Social welfare services are being cut across the world – but providing them is about more than just money — speakers: Miguel Niño-Zarazúa, Christine Corlet Walker, Erdem Yörük, Katie Flood, Neeta Sarl
-- 2022-12-21 — Discovery: Reindeer's fascinating color-changing eyes — speakers: Glen Jeffery, Katie Flood, Neeta Sarl
-- 2022-12-15 — James Webb Telescope reveals unexpectedly busy early universe — speakers: James Webb Telescope, James Webb Space Telescope, James Webb, Jeyhan Kartaltepe, Jonathan Trump, Katie Flood, Daniel Merino, Neeta Sarl
-- 2022-12-08 — Changing a nation's diet — speakers: Xiaobo Xue Romeiko, Paul Behrens, Marco Springmann, Katie Flood, Gemma Ware, Neeta Sarl
-- 2022-12-05 — Discovery: how celebrity footballers can help reduce prejudice against minorities — speakers: Salma Mousa, Gemma Ware, Katie Flood, Neeta Sarl
-- 2022-12-01 — Young people’s shifting relationship with alcohol — speakers: Amy Pennay, Jonas Raninen, Katie Flood, Dan Merino, Neeta Sarl
-- 2022-11-24 — Treating mental illness with electricity — speakers: Moksha Patel, Jacinta O'Shea, Katie Flood, Dan Merino, Neeta Sarl
-- 2022-11-19 — Uncharted Brain 3: the role viruses may play in Alzheimer’s — speakers: Uncharted Brain, Ruth Itzhaki, Dana Cairns, Paul Keaveny, Neeta Sarl
-- 2022-11-18 — Uncharted Brain 2: the family trauma of dementia from sports injuries — speakers: Uncharted Brain, Matthew Smith, Lisa McHale, Paul Keaveny, Neeta Sarl
-- 2022-11-17 — Uncharted Brain 1: a lifelong study unlocks clues to Alzheimer’s — speakers: Paul Keaveny, Marcus Richards, Jonathan Schott, David Ward, Uncharted Brain, Neeta Sarl
-- 2022-11-10 — Africa's stolen objects: what happens after they return — speakers: John Kelechi Ugwuanyi, Farai Chabata, Aribiah David Attoe, Katie Flood, Neeta Sarl, Benin Bronzes
-- 2022-11-03 — How to depolarize deeply divided societies — speakers: Jennifer Lynn McCoy, Katie Flood, Neeta Sarl
-- 2022-10-31 — Discovery: celibacy's surprising evolutionary advantages — speakers: Ruth Mace, Neeta Sarl
-- 2022-10-27 — Radiation, pollution and urbanization are taking over natural selection — speakers: Andrew Whitehead, Marc Johnson, Daniel Merino, Neeta Sarl
-- 2022-10-20 — When digital nomads come to town — speakers: Dave Cook, Fabiola Mancinelli, Gemma Ware, Neeta Sarl
-- 2022-10-13 — Inside Brazil’s divisive gun debate — speakers: Jair Bolsonaro, Erika Robb Larkins, Gemma Ware, Neeta Sarl
-- 2022-10-06 — Secretive lawsuits by fossil fuel companies could hold back climate action — speakers: Kyla Tienhaara, Emilia Onyema, Lea Di Salvatore, Maria-Rita D'Orsogna, Gemma Ware, Neeta Sarl
-- 2022-09-29 — Psychedelic research: balancing trippyness with a new scientific rigor — speakers: Robin Carhart-Harris, Wayne Hall, Gemma Ware, Neeta Sarl
-- 2022-09-22 — Thwaites Glacier: the melting, Antarctic monster of sea level rise — speakers: Thwaites Glacier, Yixi Zheng, Ted Scambos, Paul Holland, Gemma Ware, Neeta Sarl
-- 2022-09-15 — Keeping buildings cool as it gets hotter — speakers: Anthony Ogbuokiri, Vyta Pivo, Susan Abed Hassan, Gemma Ware, Neeta Sarl
-- 2022-07-27 — The cold war double agent abandoned by the spy agencies he risked his life for — speakers: Eleni Braat, Ben de Jong, Neeta Sarl, John Le Carré
-- 2022-06-16 — What did dinosaurs actually look like? — speakers: Maria McNamara, Nicolas Campione, Neeta Sarl
-- 2022-06-01 — A brief update
-- 2022-05-26 — India and Pakistan heatwave is a sign of worse to come — speakers: Alan Thomas Kennedy-Asser, Andrew King, Neeta Sarl
-- 2022-05-18 — Australian election: how the country’s political landscape is shifting — speakers: Scott Morrison, Michelle Grattan, Neeta Sarl, Anthony Albanese
-- 2022-05-12 — What is adult ADHD and how to treat it — speakers: Tamara May, Neeta Sarl
-- 2022-05-05 — Neutrality: why countries choose not to join a war – and what responsibilities come with it — speakers: Maartje Abbenhuis, Swaran Singh, Neeta Sarl
-- 2022-04-28 — Ukraine invasion threatens international collaboration in space – is current space law equipped to handle a new era of shifting power structures? — speakers: Space Law, Neeta Sarl, Space Blocs
-- 2022-04-21 — How your culture informs your emotional reaction to music — speakers: George Athanasopoulos, Neeta Sarl
-- 2022-04-14 — Why Indonesia plans to relocate its capital from Jakarta to a new forest city on the island of Borneo — speakers: Hendricus Andy Simarmata, Alex Lechner, Neeta Sarl
-- 2022-04-07 — Could lead makeup really have killed an 18th century socialite? A scientist investigated — speakers: Maria Gunning, Fiona McNeill, Will Smith, Gemma Ware, Ellen Duffy, Neeta Sarl
-- 2022-03-31 — The Aboriginal Tent Embassy – 50 years of ongoing protest for Indigenous sovereignty in Australia — speakers: Carissa Lee, Bronwyn Carlson, Jenny Munro, Catherine Porter, Gemma Ware, Ellen Duffy, Neeta Sarl
-- 2022-03-24 — How has Emmanuel Macron changed France? — speakers: Emmanuel Macron, Gilles Ivaldi, Adrian Dyer, Claudia Lorenzo, Gemma Ware, Neeta Sarl, Dale Berning Sawa, Nicolas Sarkozy
-- 2022-03-17 — The history and evolution of Ukrainian national identity — speakers: Volodomyr Kulyk, Dominique Arel, Olga Onuch, Katja Kolcio, Moina Spooner, Gemma Ware, Neeta Sarl, Kyivan Rus
-- 2022-03-10 — The trauma of life in limbo for refugees and asylum seekers in immigration detention — speakers: Blerina Kellezi, Irina Kuznetsova, Martine Turenne, Gemma Ware, Mau Loseto, Neeta Sarl
-- 2022-03-03 — Climate change: IPCC scientists on the narrowing window of opportunity to adapt — speakers: Mark Howden, Paul Hayne, Jonathan Este, Gemma Ware, Neeta Sarl
-- 2022-02-24 — Nuclear fusion record broken – what will it take to start generating electricity? — speakers: Livia Casali, Angel Ibarra Sanchez, Brock Bastian, Eric Smalley, Gemma Ware, Neeta Sarl
-- 2022-02-17 — Sahel security: what a wave of military coups means for the fight against jihadi groups in West Africa — speakers: Folahanmi Aina, Mady Ibrahim Kanté, Thierry Vircoulon, Shiri Lev-Ari, Jack Marley, Gemma Ware, Neeta Sarl
-- 2022-02-10 — If Russia invades Ukraine, what could happen to natural gas supplies to Europe? — speakers: Michael Bradshaw, Anastasiya Shapochkina, Madeleine Orr, Haley Lewis, Gemma Ware, Neeta Sarl
-- 2022-02-03 — The inside story of discovering omicron: South African scientists on the lessons their experience offers the rest of the world — speakers: Ozayr Patel, George Athanasopoulos, Laura Hood, Boris Johnson, Gemma Ware, Neeta Sarl
-- 2022-01-27 — China's plans for Xinjiang, and what it means for the region's persecuted Uyghurs — speakers: Darren Byler, David Tobin, Anna Hayes, Cynthia Faye Isley, Matt Williams, Gemma Ware, Neeta Sarl
-- 2022-01-20 — The science of sugar – why we're hardwired to love it and what eating too much does to your brain — speakers: Stephen Wooding, Lina Begdache, Kristine Nolin, Anne Levesque, Veronika Meduna, Gemma Ware, Neeta Sarl, Ho Jung
-- 2022-01-13 — Crypto countries: Nigeria and El Salvador's opposing journeys into digital currencies — speakers: Iwa Salami, Erica Pimentel, Benjamin Curtis, Rob Reddick, Gemma Ware, Neeta Sarl, Bertrand Malsch, Nathaniel Loh
-- 2022-01-05 — 2022 science preview: mRNA vaccines, asteroid missions and collaborative robots — speakers: Deborah Fuller, Monica Grady, Teresa Vidal-Calleja, Carlos Gradín, Naomi Schalit, Gemma Ware, Neeta Sarl, James Piazza
-- 2021-12-16 — How the arts can help us come back together again — speakers: Cherine Fahd, Being Together, Angelina Hurley, Ron Hurley, Kirsty Sedgman, Gregory Rayko, Gemma Ware, Rhianna Patrick
-- 2021-12-09 — Peering into the history of the universe: astronomers explain why the James Webb Space Telescope is such a big deal — speakers: James Webb Space Telescope, Martin Barstow, Marcia Rieke, Edwin Kwong, Luthfi Dzulfikar, Gemma Ware, Neeta Sarl, James Webb Space
-- 2021-12-02 — Planet pharma: what the industry got out of COVID — speakers: Ray Moynihan, Jérôme Caby, Nicole Hassoun, Ozayr Patel, Gemma Ware, Neeta Sarl
-- 2021-11-25 — How abortion access is changing around the world — speakers: Jean Stevenson, Sydney Calkin, Jane Marcus Delgado, Patrick Randolph-Quinney, Wale Fatade, Gemma Ware, Neeta Sarl, Alison Gash
-- 2021-11-18 — Glasgow Climate Pact: what happened at COP26 and what it means for the world — speakers: Jack Marley, Saleemul Huq, Richard Beardsworth, Rachel Kyte, Anna Malos, Stephen Khan, Gemma Ware, Neeta Sarl
-- 2021-11-11 — Ten years to 1.5°C: how climate anxiety is affecting young people around the world — speakers: Damon Matthews, Caroline Hickman, Charles Ogunbode, Teaghan Hogg, Gemma Ware, Neeta Sarl, Glen Peters, Léan O'Brien
-- 2021-11-04 — Tigray: the devastating toll of Ethiopia's vicious year of war — speakers: Mukesh Kapila, Alejandro Gallego Schmid, Nicole Hasham, Gemma Ware, Neeta Sarl, Adisa Azapagic, Scott Morrison, Frank Jotzo
-- 2021-10-28 — Degrowth: why some economists think abandoning growth is the only way to save the planet — speakers: Samuel Alexande, Lorenzo Fioramonti, Beth Stratford PhD, Veronika Meduna, Gemma Ware, Neeta Sarl, Henrietta Moore, Jason Hickel
-- 2021-10-21 — Taiwan: what is China's long-term strategy? — speakers: Olivia Cheung, Vinita Srivastava, Veldon Coburn, Celeste Pedri-Spade, Luthfi Dzulfikar, Gemma Ware, Neeta Sarl, Jahmal Padmore
-- 2021-10-14 — Explaining the 2021 Nobel Prizes: how touch works, a better way to make medicine and the fiction of Abdulrazak Gurnah — speakers: Abdulrazak Gurnah, Kate Poole, David Nagib, Susheila Nasta, Gemma Ware, Neeta Sarl, Paolo Barucca, Kathy Kiely
-- 2021-10-07 — New clues to consciousness + AI helps finish Beethoven's 10th symphony — speakers: Leandro Sanz, Ahmed Elgammal, Holly Squire, Gemma Ware, Neeta Sarl, Barbara Jacquelyn Sahakian, Christelle Langley, Philip Goff
-- 2021-09-30 — Germany election winners, losers, and how the Greens emerged as kingmakers + the benefits of saunas — speakers: Angela Merkel, Jasmin Riedl, Niko Switek, Chantal Sullivan-Thomsett, Charles James Steward, Lucía Caballero, Gemma Ware, Neeta Sarl
-- 2021-09-23 — Have climate change predictions matched reality? — speakers: Christopher White, Victor Ongoma, Kewei Lyu, Justin Bergman, Gemma Ware, Neeta Sarl, Université Mohammed VI Polytechnique, Luke Harrington
-- 2021-09-16 — Why is Justin Trudeau more popular abroad than in Canada? + Clues on why mosquitoes bite some of us more than others — speakers: Justin Trudeau, Alex Marland, Jeremy Wildeman, Madelien Wooding, Moina Spooner, Gemma Ware, Neeta Sarl, Fenwick McKelvey
-- 2021-09-09 — Haiti's history of cascading crises and political fragility — speakers: Louise Comfort, Jean Eddy Saint Paul, Susan Kamei, Kalpana Jain, Gemma Ware, Neeta Sarl, Luigi Di Sarno, David Alexander
-- 2021-09-02 — Back to school with COVID: how to keep children safe — speakers: Brandon Guthrie, Laura Abou Haidar, Thomas Andrillon, Heather Kroeker, Gemma Ware, Neeta Sarl, Jay Kaufman, Catherine Haeck
-- 2021-08-26 — The origins of the Taliban — speakers: Niamatullah Ibrahimi, Lee-Anne Goodman, Gemma Ware, Neeta Sarl, Safiullah Taye, Vrinda Narain, Kaweh Kerami, Lucia Nalbandian
-- 2021-08-19 — The biological switch that could turn neuroplasticity on and off in the brain — speakers: Sarah Ackerman, Gemma Ware, Neeta Sarl, Sarah DeGenova Ackerman, Seena Mathew, Duncan Banks
-- 2021-08-12 — Al-Shabaab: why women join the Islamist militant group — speakers: Gemma Ware, Neeta Sarl, Mohammed Ibrahim Shire, Abdi Ismail Samatar
-- 2021-08-05 — How we created fake smells to trick predators and save endangered birds — speakers: Catherine Price, Gemma Ware, Neeta Sarl, Joshua Powell, Karen Vanderwolf Trent University
-- 2021-07-29 — Four-day week: has its moment arrived? + How Nairobi’s informal settlements got their names — speakers: Anthony Veal, Jana Javornik, Melissa Wanjiru-Mwita, Catesby Holmes, Gemma Ware, Neeta Sarl, James Walker, David Spencer
-- 2021-07-22 — Olympics: the ultimate limits of human performance + lessons from 1920 Antwerp games — speakers: Nicole Forrester, Anthony Blazevich, Jonathan Taylor, Keith Rathbone, Jacob Zuma, Gemma Ware, Neeta Sarl, Jane Thornton
-- 2021-07-15 — Science of lab-grown and plant-based meat + Indonesia's child smoking problem — speakers: Mariana Lamas, Andrew Stout, Matti Wilks, Hannah Hoag, Gemma Ware, Neeta Sarl, Clive Phillips, Richard Hoffman
-- 2021-07-08 — Tough justice for international war crimes + why sarcasm is tricky for kids — speakers: Craig Jones, Amy Maguire, Penny Pexman, Megan Clement, Gemma Ware, Neeta Sarl, Asaf Lubin, Peter Lee
-- 2021-07-01 — UFO report: from shrouded history to a data-driven future – podcast — speakers: Chris Impey, Greg Eghigian, Line Engbo Gissel, Troels Burchall Henningsen, Naomi Joseph, Gemma Ware, Neeta Sarl, Kyle Cunliffe
-- 2021-06-24 — Fire, tsunami, pandemic: how to ensure societies learn lessons from disaster — speakers: Kamaljit Sangha, Elizabeth Maly, Ian Goldin, Julius Maina, Gemma Ware, Neeta Sarl, Charles Darwin University, Andrew Edwards
-- 2021-06-17 — How Brazil’s Jair Bolsonaro brought the military back to the centre of politics + archaeological garbage investigators — speakers: Jair Bolsonaro, Vinicius Mariano de Carvalho, Marcos García García, Nick Lehr, Gemma Ware, Mau Loseto, Neeta Sarl, Peter Richards
-- 2021-06-10 — Why so many Iranians plan not to vote this month + fireflies need the dark for love — speakers: Hassan Rouhani, Ammar Maleki, Pooyan Tamimi Arab, Avalon Owens, Haley Lewis, Gemma Ware, Neeta Sarl, Kyle Matthews
-- 2021-06-03 — The race to make money from our oceans: who is winning? + Brazilian women avoid getting pregnant — speakers: Jean-Baptise Jouffray, Anna Metaxas, Ifesinachi Okafor-Yarwood, Catesby Holmes, Letícia Marteleto, Gemma Ware, Neeta Sarl, John Virdin
-- 2021-05-27 — Lab-grown human embryos just got a new set of rules + Johannesburg's romcom revolution — speakers: Megan Munsie, Jun Wu, César Palacios-González, Pier Paolo Frassinelli, Wale Fatade, Gemma Ware, Matt Williams, Neeta Sarl
-- 2021-05-20 — The racial hunger gap in American cities and what to do about it — speakers: Caitlin Caspi, Craig Gundersen, Julian Agyeman, Gemma Ware, Matt Williams, Neeta Sarl, Maria Martinón-Torres, Evolución Humana
-- 2021-05-13 — Why India's COVID-19 vaccine rollout is faltering — speakers: Rajib Dasgupta, Rowena Hill, Carissa Lee, Gemma Ware, Namita Kohli, Neeta Sarl, Saba Hussain, Vageesh Jain
-- 2021-05-06 — Cuba's race for a coronavirus vaccine + making life's big decisions — speakers: Jennifer Hosek, Peter Hotez, Finlay Macdonald, Gemma Ware, Neeta Sarl, Jennifer Ruth Hosek, Stéphanie Panichelli-Batalla, Eddie Clark
-- 2021-04-29 — Why Scotland's May election is crucial to independence movement, and the UK + an on/off switch for neuroplasticity — speakers: Nicola Sturgeon, Boris Johnson, Kezia Dugdale, Darren Nyatanga, Graeme Roy, Sarah Ackerman, Moina Spooner, Gemma Ware
-- 2021-04-22 — Why children keep getting kidnapped in Nigeria + the Kenyan women who join Al-Shabaab — speakers: Boko Haram, Wale Fatade, Hakeem Onapajo, Samuel Okunade, Bryan Keogh, Gemma Ware, Neeta Sarl, Francis Abiodun
-- 2021-04-15 — The colourful feathered world of what dinosaurs really looked like + Israel’s post-election foreign policy — speakers: Maria McNamara, Nicolas Campione, Amnon Aran, Eva Catalán, Gemma Ware, Neeta Sarl, Tiffany Slater, Valentina Rossi
-- 2021-04-08 — The zombie company problem and what it means for our economies — speakers: Karl Schmedders, Sandy Brian Hager, Catherine Price, Luthfi Dzulfikar, Gemma Ware, Neeta Sarl, Patrick Reinmoeller, Robert Earle
-- 2021-04-01 — A new force of nature? The inside story of fresh evidence from Cern that's exciting physicists — speakers: Hadron Collider, Harry Cliff, Celine Boehm, Rubayat Jesmin, Nehal El-Hadi, Gemma Ware, Neeta Sarl, Paula Alvarez Cartelle
-- 2021-03-25 — The great remote work experiment – what happens next? — speakers: Dave Cook, Jean-Nicolas Reyt, Ruchi Sinha, Victoria Wyckelsma, Sunanda Creagh, Gemma Ware, Neeta Sarl, Jane Parry
-- 2021-03-18 — COVID-19 caused the biggest drop in carbon emissions ever – how do we make it last? — speakers: Corinne Le Quéré, Steve Westlake, Sook Lee, Wale Fatade, Dan Merino, Gemma Ware, Neeta Sarl, Pep Canadell
-- 2021-03-11 — COVID-19: where does the WHO go from here? — speakers: Tedros Adhanom Ghebreyesus, Peter Gluckman, Koi Tū, Andrew Lakoff, Dan Merino, Gemma Ware, Neeta Sarl, Andrew Gillespie
-- 2021-03-04 — How climate change is flooding the Arctic Ocean with light — speakers: Jørgen Berge, Julio Mercader, Pastory Bushozi, Peter Itambu, Laura Hood, Dan Merino, Gemma Ware, Neeta Sarl
-- 2021-02-25 — Leaving Hong Kong after China's clampdown: where people are going and why — speakers: Hong Kongers, Peter William Walsh, Tsungyi Michelle Huang, Benjamin Brubaker, Luthfi Dzulfikar, Dan Merino, Gemma Ware, Neeta Sarl
-- 2021-02-18 — Coronavirus vaccines: what’s getting in the way of the global rollout — speakers: Ronald Labonté, Mosoka Fallah, Anne Moore, Hao Tan, Dan Merino, Gemma Ware, Neeta Sarl
-- 2021-02-11 — Myanmar's collective fury — speakers: Adam Simpson, DB Subedi, Kaitlin Sawatzki, Catesby Holmes, Dan Merino, Gemma Ware, Neeta Sarl, Johanna Garnett
-- 2021-02-04 — Why it's a big month for Mars — speakers: Jim Bell, Stefania Paladini, Nidhal Guessoum, Félix Krawatzek, Alexei Navalny, Dan Merino, Gemma Ware, Neeta Sarl
-- 2021-01-25 — Trailer: The Conversation Weekly — speakers: Gemma Ware, Dan Merino, Neeta Sarl
+- 2026-02-19 — The 'national humiliation' behind Russia's war on Ukraine — speakers: Vladmir Putin, Gemma Ware
+- 2026-02-12 — How Minneapolis is organising against ICE — speakers: How Minneapolis, Gemma Ware
+- 2026-02-05 — The Super Bowl that kickstarted prop betting in America — speakers: America Super Bowl Sunday, Gemma Ware
+- 2026-01-29 — How Iran shut down the internet — speakers: How Iran, Gemma Ware
+- 2026-01-22 — A lost US military base under Greenland's ice sheet — speakers: Gemma Ware
+- 2026-01-15 — A new treaty to protect our oceans — speakers: Gemma Ware
+- 2026-01-04 — The Making of an Autocrat: co-opt the military — speakers: Gemma Ware
+- 2026-01-04 — The Making of an Autocrat: suppress the people — speakers: Gemma Ware
+- 2025-12-28 — The Making of an Autocrat: beat the courts — speakers: Gemma Ware
+- 2025-12-28 — The Making of an Autocrat: manufacture a crisis — speakers: Gemma Ware
+- 2025-12-28 — The Making of an Autocrat: recruit an architect — speakers: Gemma Ware
+- 2025-12-28 — The Making of an Autocrat: hijack a party — speakers: Adolf Hitl, Gemma Ware
+- 2025-12-22 — Coming soon: The Making of an Autocrat — speakers: Gemma Ware
+- 2025-12-18 — Venezuela's plan to resist a US invasion — speakers: Gemma Ware
+- 2025-12-11 — How Timor-Leste is fighting back against Asia’s scamming gangs — speakers: How Timor, Gemma Ware
+- 2025-12-04 — Why the US is fixated on South Africa’s white Afrikaners — speakers: Gemma Ware
+- 2025-11-27 — The 40 scientists who decide which flu shot you'll get — speakers: Gemma Ware
+- 2025-11-20 — How China cleaned up its air pollution — speakers: air quality, Gemma Ware
+- 2025-11-13 — How early climate models got global warming right — speakers: Gemma Ware
+- 2025-11-06 — How organised crime infiltrated Brazil — speakers: Gemma Ware
+- 2025-10-30 — Ghosts vs demons: a 16th century Halloween showdown — speakers: Gemma Ware
+- 2025-10-23 — Bitcoin buys: the risks and rewards of companies buying crypto — speakers: One American, Gemma Ware
+- 2025-10-16 — The hidden sources of forever chemicals — speakers: River Mersey, Gemma Ware
+- 2025-10-09 — Nobel laureate Shimon Sakaguchi on his immune system breakthrough — speakers: Shimon Sakaguchi, Gemma Ware
+- 2025-10-02 — The diagnosis dimension to the rise in autism — speakers: Gemma Ware
+- 2025-09-25 — Pressuring the Fed doesn't end well — speakers: Gemma Ware
+- 2025-09-18 — Palestinian statehood: the route to recognition — speakers: Gemma Ware
+- 2025-09-11 — The sovereign citizen movement's spread around the world — speakers: Dezi Freeman, Gemma Ware
+- 2025-09-04 — How China is weaponising the history of WWII — speakers: How China, Gemma Ware
+- 2025-08-28 — The secret ingredients for creative flow — speakers: Gemma Ware
+- 2025-08-21 — LSE IQ: is AI destroying the planet? — speakers: Gemma Ware
+- 2025-08-14 — Teaching animals irrelevant skills can reveal the secrets of cognition — speakers: Gemma Ware
+- 2025-08-07 — How the world got hooked on plastic — speakers: Gemma Ware
+- 2025-07-31 — How Rupert Murdoch helped to build brand Trump — speakers: Trump Donald Trump, Gemma Ware
+- 2025-07-24 — Israel’s secret deal to build a nuclear arsenal — speakers: Gemma Ware
+- 2025-07-17 — What will batteries of the future be made of? — speakers: Gemma Ware
+- 2025-07-10 — An enduring anti-fascist legacy in Italy — speakers: Italy Across Europe, Gemma Ware
+- 2025-07-03 — How Europe dropped the ball on its own defence — speakers: Gemma Ware
+- 2025-06-26 — Autism, RFK Jr and avoiding disability surveillance — speakers: Kennedy Jr, Gemma Ware
+- 2025-06-19 — Self-censorship and what drives it — speakers: people decide, Gemma Ware
+- 2025-06-12 — Cash for releasing sharks has a catch — speakers: Gemma Ware
+- 2025-06-06 — The 15% solution part 2: can a global tax make the world fairer? — speakers: Gemma Ware
+- 2025-06-05 — The 15% solution part 1: why global tax reform is long overdue — speakers: Gemma Ware
+- 2025-05-29 — The trafficked American guns fuelling Mexico’s cartel violence — speakers: Gemma Ware
+- 2025-05-22 — New theories of Alzheimer's taking the search for a cure in a different direction — speakers: Gemma Ware
+- 2025-05-15 — After USAID: the future of foreign aid — speakers: Gemma Ware
+- 2025-05-08 — The 'Mo Salah effect' on reducing prejudice — speakers: Mo Salah, English Premier League, Gemma Ware
+- 2025-05-01 — Three scientists on what it's like to have research funding cut by the Trump administration — speakers: Gemma Ware
+- 2025-04-24 — Brazil’s anti-vax disinformation economy — speakers: Gemma Ware
+- 2025-04-17 — The Birkin bag game — speakers: Gemma Ware
+- 2025-04-09 — How AI could influence the evolution of humanity — speakers: Gemma Ware
+- 2025-04-03 — Ancient cities had hidden disease protections — speakers: Gemma Ware
+- 2025-03-27 — Shipping produces 3% of global emissions. How to get that down, quickly — speakers: Gemma Ware
+- 2025-03-20 — Prospects of lasting peace between Turkey and the Kurds — speakers: Kurdistan Workers Party, Gemma Ware
+- 2025-03-13 — The surreal story of how COVID took over a remote city in the Amazon — speakers: Gemma Ware
+- 2025-03-06 — The fossil that proved humanity's common origins in Africa — speakers: Africa One, Gemma Ware
+- 2025-02-25 — Scam Factories Ep 3: Great Escapes — speakers: Gemma Ware
+- 2025-02-24 — Scam Factories Ep 2: Inside the operation — speakers: Ben Yeo, Gemma Ware
+- 2025-02-23 — Scam Factories Ep 1: No skills required — speakers: Gemma Ware
+- 2025-02-20 — Tariffs: the winners and losers — speakers: Gemma Ware
+- 2025-02-13 — How does decentralised social media work? — speakers: Gemma Ware
+- 2025-02-06 — Where support for Germany’s far-right AFD is growing and why — speakers: Gemma Ware
+- 2025-01-30 — How close are quantum computers to being really useful? — speakers: Gemma Ware
+- 2025-01-23 — A wildfire warning from California's Ice Age past — speakers: Ice Age, Los Angeles, Gemma Ware
+- 2025-01-16 — Silicon Valley’s bet on a future of AI-enabled warfare — speakers: Silicon Valley, Gemma Ware
+- 2025-01-09 — How the world fell in love with plastic without thinking through the consequences — speakers: Gemma Ware
+- 2025-01-02 — Brain implants, agentic AI and answers on dark matter: what to expect from science in 2025 — speakers: Gemma Ware
+- 2024-12-19 — How Zimbabwe reached the point of abolishing the death penalty — speakers: How Zimbabwe, Death Penalty Abolition Bill, Gemma Ware
+- 2024-12-12 — Why distrust in powerful politicians is part of a functioning democracy — speakers: Gemma Ware
+- 2024-12-05 — How do animals understand death? — speakers: Gemma Ware
+- 2024-11-28 — The story of one Amazon warehouse in the UK that pushed to unionise — speakers: Gemma Ware
+- 2024-11-21 — 50 years since the discovery of ancient hominin fossil Lucy in Ethiopia, calls grow to decolonize paleoanthropology — speakers: Donald Johanson, Gemma Ware
+- 2024-11-14 — The controversy over cod fishing in Canada — speakers: Gemma Ware
+- 2024-11-07 — Gangsters who leave their gang behind for something new — speakers: Gemma Ware
+- 2024-10-31 — What is motivating Americans as they decide who to vote for — speakers: Gemma Ware
+- 2024-10-24 — Origins of South Australia’s mysterious pink sands revealed — speakers: South Australia, Gemma Ware
+- 2024-10-17 — MicroRNA: Victor Ambros on the discovery that won him the Nobel prize — speakers: Victor Ambros, Gary Ruvkun, Gemma Ware
+- 2024-10-14 — Know Your Place: when did class stop predicting the way British people vote? — speakers: Gemma Ware
+- 2024-10-10 — What Israel and its neighbours want now — speakers: What Israel, Gemma Ware
+- 2024-10-03 — HIV breakthrough in preventing infection via injection — speakers: Gemma Ware
+- 2024-09-26 — Himpathy: the psychology of why some people side with perpetrators of sexual misconduct — speakers: Gemma Ware
+- 2024-09-19 — A lonely ancient plant needs a female partner – researchers are using drones and AI to find it — speakers: Gemma Ware
+- 2024-09-12 — Why mpox in Africa was ignored for too long and children are dying as a result — speakers: Democratic Republic, Gemma Ware
+- 2024-09-05 — The emotional toll of dating apps and why they're no longer about finding love — speakers: Gemma Ware
+- 2024-08-30 — Geoengineering part 2: the case against reflecting sunlight to cool the Earth — speakers: Gemma Ware
+- 2024-08-29 — Geoengineering part 1: the case to try modifying the climate — speakers: Gemma Ware
+- 2024-08-22 — A tooth that rewrites history? The discovery challenging what we knew about Neanderthals — speakers: Gemma Ware
+- 2024-08-15 — Borders and Belonging: is Japan turning into a migration state? — speakers: Gemma Ware
+- 2024-08-08 — Curious Kids: Why is my dog so cute? — speakers: Curious Kids, Gemma Ware
+- 2024-08-01 — Fightback mounts against trade deals fossil fuel investors can use to sue countries over climate action — speakers: Gemma Ware
+- 2024-07-25 — New options for managing chronic pain after the opioid crisis — speakers: Gemma Ware
+- 2024-07-18 — Can shared experiences bring people closer together? — speakers: Gemma Ware
+- 2024-07-11 — What next for the French and British right? — speakers: Gemma Ware
+- 2024-07-04 — Underwater soundscapes of seagrass meadows revealed in new recordings — speakers: Gemma Ware
+- 2024-07-01 — Don't Call Me Resilient: as war rages in Sudan, a new type of community resistance takes hold — speakers: Call Me Resilient, Gemma Ware
+- 2024-06-27 — 3D printed guns: unmasking the designer of the FGC-9 — speakers: Gemma Ware
+- 2024-06-20 — The Brexit roots of the UK's Rwanda asylum plan – and why other EU leaders might want to copy it — speakers: Gemma Ware
+- 2024-06-13 — Scientists can't agree on how fast the universe is expanding – why this matters so much for our understanding of the cosmos — speakers: Gemma Ware
+- 2024-06-06 — Creative flow: what's going on inside our brains when everything just clicks — speakers: Gemma Ware
+- 2024-05-30 — Breakthroughs and failures on the road to a universal snake bite antivenom — speakers: Gemma Ware
+- 2024-05-23 — Moments of hope: how Indians keep pushing back against the hollowing out of democracy — speakers: Gemma Ware
+- 2024-05-16 — Assisted dying: Canada grapples with plans to introduce euthanasia for mental illness — speakers: Gemma Ware
+- 2024-05-09 — How to spend the billions needed for climate adaptation – and make sure frontline communities have a say — speakers: Gemma Ware
+- 2024-05-02 — Data poisoning: how artists are trying to sabotage generative AI — speakers: Gemma Ware
+- 2024-04-25 — What happened to Nelson Mandela's South Africa part 3: Dream deferred — speakers: Nelson Mandela, Gemma Ware
+- 2024-04-18 — What happened to Nelson Mandela's South Africa part 2: Tasting the fruits of freedom — speakers: Nelson Mandela, Gemma Ware
+- 2024-04-11 — What happened to Nelson Mandela's South Africa part 1: Liberation, transition and reconciliation — speakers: Nelson Mandela, Nelson Mandel, Gemma Ware
+- 2024-04-10 — Trailer: What happened to Nelson Mandela's South Africa? — speakers: Nelson Mandela, Gemma Ware
+- 2024-04-04 — The Anthropocene epoch that isn't — speakers: Gemma Ware
+- 2024-04-01 — Don't Call Me Resilient: starvation as a weapon of war in Gaza — speakers: Call Me Resilient, Gemma Ware
+- 2024-03-28 — Invisible lines: how unseen boundaries shape the world around us — speakers: Gemma Ware
+- 2024-03-21 — Climate quitting: the people leaving their fossil fuel jobs because of climate change — speakers: Gemma Ware
+- 2024-03-14 — How conspiracy theories help to maintain Vladimir Putin’s grip on power in Russia — speakers: Gemma Ware
+- 2024-03-07 — How North Korea is turning into a matriarchy — speakers: How North Korea, North Kor, Gemma Ware
+- 2024-02-29 — Intellectual humility: the rewards of being willing to change your mind — speakers: Gemma Ware
+- 2024-02-22 — Israel-Gaza: how opinion polls used in Northern Ireland could pave a way to peace — speakers: Northern Ireland, Gemma Ware
+- 2024-02-15 — As we dream, we can listen in on the waking world — speakers: Gemma Ware
+- 2024-02-12 — Deepfakes and disinformation swirl ahead of Indonesian election — speakers: Gemma Ware
+- 2024-02-08 — Environments can shape the differences between cultures — speakers: Gemma Ware
+- 2024-02-01 — The complicated journey toward a list of all life on Earth — speakers: Gemma Ware
+- 2024-01-25 — Descendants of Holocaust survivors explain why they are replicating Auschwitz tattoos on their own bodies — speakers: Gemma Ware
+- 2024-01-18 — Women lifestyle influencers are changing the face of the far right — speakers: Gemma Ware
+- 2024-01-11 — Interoception: the sixth sense we use to read hidden signals from our body — speakers: Gemma Ware
+- 2024-01-04 — Wolves return to Europe: what to do about them is a people problem — speakers: Gemma Ware
+- 2023-12-21 — Social media drains our brains and impacts our decision making — speakers: Gemma Ware
+- 2023-12-18 — Israel-Gaza war on campus part 2: a chilling effect on academic freedom — speakers: Gemma Ware
+- 2023-12-14 — Israel-Gaza war on campus part 1: American universities in the spotlight — speakers: Gemma Ware
+- 2023-12-11 — Kenya at 60: the patriotic choral music used to present one version of history — speakers: Gemma Ware
+- 2023-12-07 — Why unprecedented drought in the Amazon is so dangerous for the planet — speakers: Gemma Ware
+- 2023-11-30 — Genocide: the history of the term and what it means under international law — speakers: Gemma Ware
+- 2023-11-23 — Brandalism: the environmental activists using spoof adverts to critique rampant consumerism — speakers: Black Friday, Gemma Ware
+- 2023-11-16 — Antibiotic resistance: microbiologists turn to new technologies in the hunt for solutions — speakers: Gemma Ware
+- 2023-11-09 — After Morocco's earthquake, artisans in Marrakech’s old medina face an uncertain future — speakers: After Morocco, Gemma Ware
+- 2023-11-02 — The wildfires that led to mass extinction. A warning from California's Ice Age history — speakers: some deadly, destructive wildfires, Gemma Ware
+- 2023-10-26 — When domicide razed my city: a view from Homs in Syria — speakers: Gemma Ware
+- 2023-10-24 — Don't Call Me Resilient: why are brown and Black people supporting the far right? — speakers: Call Me Resilient, Gemma Ware
+- 2023-10-19 — Quantum dots: Louis Brus on the discovery that won him the Nobel prize — speakers: Louis Brus, Gemma Ware
+- 2023-10-12 — Neanderthals: what their extinction could tell us about Homo Sapiens — speakers: Homo Sapiens, Gemma Ware
+- 2023-10-05 — Why Australia is putting a First Nations Voice to Parliament to a referendum — speakers: Why Australia, First Nations Voice, Gemma Ware
+- 2023-10-03 — New malaria vaccine: a step closer to eradication — speakers: Gemma Ware
+- 2023-09-28 — Spain's egg donation boom — speakers: Gemma Ware
+- 2023-09-26 — Inside the Oslo Accords part 3: the legacy — speakers: Oslo Accords, Gemma Ware
+- 2023-09-19 — Inside the Oslo Accords part 2: after the handshake — speakers: Oslo Accords, Gemma Ware
+- 2023-09-12 — Inside the Oslo Accords part 1: why Norway was in the Middle East — speakers: Oslo Accords, Middle East Inside, Gemma Ware
+- 2023-08-31 — Fear and Wonder: how species are responding to climate change — speakers: Gemma Ware
+- 2023-07-27 — Production break — speakers: Gemma Ware
+- 2023-07-20 — Discovery: Thirty years after Jurassic Park hit movie screens, its impact on science and culture remains as strong as ever — speakers: Michael Crichton, Gemma Ware
+- 2023-07-13 — The bacteria and microbes in your gut can affect your body and mental health, and engineering them promises new forms of treatment — speakers: Gemma Ware
+- 2023-07-06 — How fine dining in Europe and the US came to exclude immigrant cuisine — speakers: Gemma Ware
+- 2023-06-29 — Debunking migration myths: the real reasons people move, and why most migration happens in the Global South — speakers: Global South Around, Gemma Ware
+- 2023-06-22 — How protest movements use feminine images and social media to fight sexist ideologies of authoritarian regimes — speakers: Gemma Ware
+- 2023-06-15 — Crowdsourcing new constitutions: how 2 Latin American countries increased participation and empowered groups excluded from politics — speakers: Latin American, Latin America, Gemma Ware
+- 2023-06-08 — Beauty procedures from manicures to cosmetic surgery carry risk and the potential reward of a better life — speakers: Gemma Ware
+- 2023-06-01 — Governments and environmental groups are turning to international courts to combat the impacts of climate change — speakers: Gemma Ware
+- 2023-05-25 — Improving how the IMF does business could help billions of people worldwide — speakers: Global South, Gemma Ware
+- 2023-05-18 — The solutions needed to address climate change already exist – Fear and Wonder podcast — speakers: Intergovernmental Panel, Climate Change, Synthesis Report, Gemma Ware
+- 2023-05-11 — Fast Fashion: Why garment workers’ lives are still in danger 10 years after Rana Plaza — speakers: Rana Plaza, Gemma Ware
+- 2023-05-04 — Cloud seeding can increase rain and snow, and new techniques may make it a lot more effective — speakers: Gemma Ware
+- 2023-04-27 — Dangerous and dirty – but cheap – used cars exported from the US and Europe are filling roads in Africa — speakers: Latin America, Gemma Ware
+- 2023-04-20 — Fear and Wonder podcast: how scientists attribute extreme weather events to climate change — speakers: United Nations, Intergovernmental Panel, Climate Change, Gemma Ware
+- 2023-04-13 — How recognising cultural practices in environmental regulation can help protect natural resources like sandalwood — speakers: Gemma Ware
+- 2023-04-06 — Do glitzy awards like the Earthshot Prize actually help fight climate change? — speakers: Gemma Ware
+- 2023-03-30 — Too many digital distractions are eroding our ability to read deeply — speakers: Gemma Ware
+- 2023-03-23 — Back to the Moon — speakers: Gemma Ware
+- 2023-03-16 — Iraq 20 years on: researchers assess how US invasion shapes lives today — speakers: United States, Gemma Ware
+- 2023-03-09 — Is time an illusion? — speakers: Gemma Ware
+- 2023-03-02 — Three AI experts on how access to ChatGPT-style tech is about to change our world — speakers: Gemma Ware
+- 2023-02-27 — Discovery: Biologists discovered a new species of tiny owl on the forested island of Príncipe, and it's already under threat — speakers: Gemma Ware
+- 2023-02-23 — After oil: the challenge and promise of getting the world off fossil fuels — speakers: Gemma Ware
+- 2023-02-16 — Loneliness is making us physically sick, but social prescribing can treat it — speakers: Gemma Ware
+- 2023-02-09 — Lack of diversity in clinical trials is leaving minority patients behind and harming the future of medicine — speakers: Gemma Ware
+- 2023-02-02 — Influencers are getting hired by smaller cities to attract new residents and generate revenue — speakers: Gemma Ware
+- 2023-01-26 — Beavers and oysters are helping restore lost ecosystems with their engineering skills — speakers: Gemma Ware
+- 2023-01-23 — Discovery: Secretly documenting starvation in the Warsaw Ghetto — speakers: Warsaw Ghetto During, Warsaw Ghetto, World War, Gemma Ware
+- 2023-01-19 — Social welfare services are being cut across the world – but providing them is about more than just money — speakers: Gemma Ware
+- 2022-12-21 — Discovery: Reindeer's fascinating color-changing eyes — speakers: Gemma Ware
+- 2022-12-15 — James Webb Telescope reveals unexpectedly busy early universe — speakers: James Webb Telescope, Gemma Ware
+- 2022-12-08 — Changing a nation's diet — speakers: Gemma Ware
+- 2022-12-05 — Discovery: how celebrity footballers can help reduce prejudice against minorities — speakers: Gemma Ware
+- 2022-12-01 — Young people’s shifting relationship with alcohol — speakers: Gemma Ware
+- 2022-11-24 — Treating mental illness with electricity — speakers: Gemma Ware
+- 2022-11-19 — Uncharted Brain 3: the role viruses may play in Alzheimer’s — speakers: Uncharted Brain, Gemma Ware
+- 2022-11-18 — Uncharted Brain 2: the family trauma of dementia from sports injuries — speakers: Uncharted Brain, Gemma Ware
+- 2022-11-17 — Uncharted Brain 1: a lifelong study unlocks clues to Alzheimer’s — speakers: Uncharted Brain, Decoding Dementia, Gemma Ware
+- 2022-11-10 — Africa's stolen objects: what happens after they return — speakers: Gemma Ware
+- 2022-11-03 — How to depolarize deeply divided societies — speakers: Gemma Ware
+- 2022-10-31 — Discovery: celibacy's surprising evolutionary advantages — speakers: Gemma Ware
+- 2022-10-27 — Radiation, pollution and urbanization are taking over natural selection — speakers: Gemma Ware
+- 2022-10-20 — When digital nomads come to town — speakers: Gemma Ware
+- 2022-10-13 — Inside Brazil’s divisive gun debate — speakers: Jair Bolsonaro, Gemma Ware
+- 2022-10-06 — Secretive lawsuits by fossil fuel companies could hold back climate action — speakers: Gemma Ware
+- 2022-09-29 — Psychedelic research: balancing trippyness with a new scientific rigor — speakers: Gemma Ware
+- 2022-09-22 — Thwaites Glacier: the melting, Antarctic monster of sea level rise — speakers: Thwaites Glacier, Gemma Ware
+- 2022-09-15 — Keeping buildings cool as it gets hotter — speakers: Gemma Ware
+- 2022-07-27 — The cold war double agent abandoned by the spy agencies he risked his life for — speakers: Gemma Ware
+- 2022-06-16 — What did dinosaurs actually look like? — speakers: Jurassic World Dominion, Gemma Ware
+- 2022-06-01 — A brief update — speakers: Gemma Ware
+- 2022-05-26 — India and Pakistan heatwave is a sign of worse to come — speakers: Gemma Ware
+- 2022-05-18 — Australian election: how the country’s political landscape is shifting — speakers: Gemma Ware
+- 2022-05-12 — What is adult ADHD and how to treat it — speakers: Gemma Ware
+- 2022-05-05 — Neutrality: why countries choose not to join a war – and what responsibilities come with it — speakers: Gemma Ware
+- 2022-04-28 — Ukraine invasion threatens international collaboration in space – is current space law equipped to handle a new era of shifting power structures? — speakers: Gemma Ware
+- 2022-04-21 — How your culture informs your emotional reaction to music — speakers: Gemma Ware
+- 2022-04-14 — Why Indonesia plans to relocate its capital from Jakarta to a new forest city on the island of Borneo — speakers: Gemma Ware
+- 2022-04-07 — Could lead makeup really have killed an 18th century socialite? A scientist investigated — speakers: Maria Gunning, Gemma Ware
+- 2022-03-31 — The Aboriginal Tent Embassy – 50 years of ongoing protest for Indigenous sovereignty in Australia — speakers: First Nations, Gemma Ware
+- 2022-03-24 — How has Emmanuel Macron changed France? — speakers: Emmanuel Macron, Gemma Ware
+- 2022-03-17 — The history and evolution of Ukrainian national identity — speakers: Gemma Ware
+- 2022-03-10 — The trauma of life in limbo for refugees and asylum seekers in immigration detention — speakers: Gemma Ware
+- 2022-03-03 — Climate change: IPCC scientists on the narrowing window of opportunity to adapt — speakers: Intergovernmental Panel, Climate Change, Gemma Ware
+- 2022-02-24 — Nuclear fusion record broken – what will it take to start generating electricity? — speakers: Gemma Ware
+- 2022-02-17 — Sahel security: what a wave of military coups means for the fight against jihadi groups in West Africa — speakers: Gemma Ware
+- 2022-02-10 — If Russia invades Ukraine, what could happen to natural gas supplies to Europe? — speakers: If Russia, Gemma Ware
+- 2022-02-03 — The inside story of discovering omicron: South African scientists on the lessons their experience offers the rest of the world — speakers: South African, Jinal Bhima, Gemma Ware
+- 2022-01-27 — China's plans for Xinjiang, and what it means for the region's persecuted Uyghurs — speakers: Uyghurs When, Beijing Winter Olympics, Gemma Ware
+- 2022-01-20 — The science of sugar – why we're hardwired to love it and what eating too much does to your brain — speakers: Gemma Ware
+- 2022-01-13 — Crypto countries: Nigeria and El Salvador's opposing journeys into digital currencies — speakers: El Salvador, Gemma Ware
+- 2022-01-05 — 2022 science preview: mRNA vaccines, asteroid missions and collaborative robots — speakers: Gemma Ware
+- 2021-12-16 — How the arts can help us come back together again — speakers: Gemma Ware
+- 2021-12-09 — Peering into the history of the universe: astronomers explain why the James Webb Space Telescope is such a big deal — speakers: James Webb Space Telescope, Gemma Ware
+- 2021-12-02 — Planet pharma: what the industry got out of COVID — speakers: Gemma Ware
+- 2021-11-25 — How abortion access is changing around the world — speakers: Supreme Court, Gemma Ware
+- 2021-11-18 — Glasgow Climate Pact: what happened at COP26 and what it means for the world — speakers: Gemma Ware
+- 2021-11-11 — Ten years to 1.5°C: how climate anxiety is affecting young people around the world — speakers: Gemma Ware
+- 2021-11-04 — Tigray: the devastating toll of Ethiopia's vicious year of war — speakers: Gemma Ware
+- 2021-10-28 — Degrowth: why some economists think abandoning growth is the only way to save the planet — speakers: Gemma Ware
+- 2021-10-21 — Taiwan: what is China's long-term strategy? — speakers: Gemma Ware
+- 2021-10-14 — Explaining the 2021 Nobel Prizes: how touch works, a better way to make medicine and the fiction of Abdulrazak Gurnah — speakers: Nobel Prizes, Abdulrazak Gurnah Six, Gemma Ware
+- 2021-10-07 — New clues to consciousness + AI helps finish Beethoven's 10th symphony — speakers: Gemma Ware
+- 2021-09-30 — Germany election winners, losers, and how the Greens emerged as kingmakers + the benefits of saunas — speakers: After Germany, Gemma Ware
+- 2021-09-23 — Have climate change predictions matched reality? — speakers: Gemma Ware
+- 2021-09-16 — Why is Justin Trudeau more popular abroad than in Canada? + Clues on why mosquitoes bite some of us more than others — speakers: Justin Trudeau, Gemma Ware
+- 2021-09-09 — Haiti's history of cascading crises and political fragility — speakers: Gemma Ware
+- 2021-09-02 — Back to school with COVID: how to keep children safe — speakers: Gemma Ware
+- 2021-08-26 — The origins of the Taliban — speakers: Taliban Twenty, Gemma Ware
+- 2021-08-19 — The biological switch that could turn neuroplasticity on and off in the brain — speakers: Gemma Ware
+- 2021-08-12 — Al-Shabaab: why women join the Islamist militant group — speakers: Gemma Ware
+- 2021-08-05 — How we created fake smells to trick predators and save endangered birds — speakers: Gemma Ware
+- 2021-07-29 — Four-day week: has its moment arrived? + How Nairobi’s informal settlements got their names — speakers: How Nairobi, Gemma Ware
+- 2021-07-22 — Olympics: the ultimate limits of human performance + lessons from 1920 Antwerp games — speakers: Gemma Ware
+- 2021-07-15 — Science of lab-grown and plant-based meat + Indonesia's child smoking problem — speakers: Gemma Ware
+- 2021-07-08 — Tough justice for international war crimes + why sarcasm is tricky for kids — speakers: Gemma Ware
+- 2021-07-01 — UFO report: from shrouded history to a data-driven future – podcast — speakers: Gemma Ware
+- 2021-06-24 — Fire, tsunami, pandemic: how to ensure societies learn lessons from disaster — speakers: Gemma Ware
+- 2021-06-17 — How Brazil’s Jair Bolsonaro brought the military back to the centre of politics + archaeological garbage investigators — speakers: Jair Bolsonaro, Gemma Ware
+- 2021-06-10 — Why so many Iranians plan not to vote this month + fireflies need the dark for love — speakers: Hassan Rouhani, Gemma Ware
+- 2021-06-03 — The race to make money from our oceans: who is winning? + Brazilian women avoid getting pregnant — speakers: Gemma Ware
+- 2021-05-27 — Lab-grown human embryos just got a new set of rules + Johannesburg's romcom revolution — speakers: Gemma Ware
+- 2021-05-20 — The racial hunger gap in American cities and what to do about it — speakers: Gemma Ware
+- 2021-05-13 — Why India's COVID-19 vaccine rollout is faltering — speakers: Why India, Gemma Ware
+- 2021-05-06 — Cuba's race for a coronavirus vaccine + making life's big decisions — speakers: Gemma Ware
+- 2021-04-29 — Why Scotland's May election is crucial to independence movement, and the UK + an on/off switch for neuroplasticity — speakers: Why Scotland, Gemma Ware
+- 2021-04-22 — Why children keep getting kidnapped in Nigeria + the Kenyan women who join Al-Shabaab — speakers: Gemma Ware
+- 2021-04-15 — The colourful feathered world of what dinosaurs really looked like + Israel’s post-election foreign policy — speakers: Gemma Ware
+- 2021-04-08 — The zombie company problem and what it means for our economies — speakers: Gemma Ware
+- 2021-04-01 — A new force of nature? The inside story of fresh evidence from Cern that's exciting physicists — speakers: Hadron Collider, Gemma Ware
+- 2021-03-25 — The great remote work experiment – what happens next? — speakers: Gemma Ware
+- 2021-03-18 — COVID-19 caused the biggest drop in carbon emissions ever – how do we make it last? — speakers: Gemma Ware
+- 2021-03-11 — COVID-19: where does the WHO go from here? — speakers: Gemma Ware
+- 2021-03-04 — How climate change is flooding the Arctic Ocean with light — speakers: Gemma Ware
+- 2021-02-25 — Leaving Hong Kong after China's clampdown: where people are going and why — speakers: Leaving Hong Kong, Hong Kong, Gemma Ware
+- 2021-02-18 — Coronavirus vaccines: what’s getting in the way of the global rollout — speakers: Gemma Ware
+- 2021-02-11 — Myanmar's collective fury — speakers: Gemma Ware
+- 2021-02-04 — Why it's a big month for Mars — speakers: Mars Welcome, Gemma Ware
+- 2021-01-25 — Trailer: The Conversation Weekly — speakers: Gemma Ware
