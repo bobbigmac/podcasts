@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-02-20T19:06:07+00:00`
-- checked_at: `2026-02-20T19:06:07+00:00`
-- etag: `"cebde-64b44c6a93a21"`
-- last_modified: `Fri, 20 Feb 2026 17:30:23 GMT`
+- fetched_at: `2026-02-26T21:46:41+00:00`
+- checked_at: `2026-02-26T21:46:41+00:00`
+- etag: `"cf372-64bc032d419d3"`
+- last_modified: `Thu, 26 Feb 2026 20:45:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-02-20T19:06:07+00:00",
+  "fetched_at": "2026-02-26T21:46:41+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3b4796bc9722467e6c457dabf5bf5796d984aded",
+      "title": "Taskmaster Live on Stage - Washington D.C.",
+      "published_at": "2026-02-26T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "Ready for some Greg & Alex live action? Well look know more... Taskmaster Live on Stage in Washington, D.C . took place on January 21, 2026, at the Warner Theatre. On the Podcast this week you can listen to the Q&A part of the show which was hosted by the brilliant Josh Gondelman. Listen to Greg Alex talk about all things TM plus some updates on their US trip! To catch up on Taskmaster visit channel4.com For all your latest Taskmaster news visit Taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8a779215-1a3f-40dc-be0e-6f1a4a30ba1e.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=8a779215-1a3f-40dc-be0e-6f1a4a30ba1e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40781347",
+      "itunes_duration": "42:28",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "stage",
+        "washington"
+      ]
+    },
     {
       "key": "9ad25be2f5debc63b2e7e8a935c078e3a34f6980",
       "title": "Taskmaster The Podcast Rewind - Series 4 Ep4. With Mel Giedroyc",
@@ -41,7 +61,7 @@
       "speakers": [
         "Mel Giedroyc",
         "Joining Ed",
-        "Desky Dennis",
+        "Mel Gi",
         "Ed Gamble"
       ],
       "topics": [
@@ -88,7 +108,6 @@
       "itunes_duration": "49:35",
       "speakers": [
         "Kerry Godliman",
-        "Richard Herring",
         "Ed Gamble"
       ],
       "topics": [
@@ -112,8 +131,6 @@
       "enclosure_length": "56268461",
       "itunes_duration": "58:45",
       "speakers": [
-        "Tree Wizard",
-        "Melon Buffet",
         "Ed Gamble"
       ],
       "topics": [
@@ -161,10 +178,6 @@
       "itunes_duration": "44:32",
       "speakers": [
         "Alex Horne",
-        "Frank Skinner",
-        "Josh Widdicombe",
-        "Roisin Conaty",
-        "Tim Key",
         "Ed Gamble"
       ],
       "topics": [
@@ -231,10 +244,6 @@
       "itunes_duration": "54:18",
       "speakers": [
         "Sam Ryder",
-        "Big Zuu",
-        "Jill Scott",
-        "Susie Dent",
-        "Rose Ayling-Ellis",
         "Ed Gamble"
       ],
       "topics": [
@@ -255,12 +264,7 @@
       "enclosure_length": "68041214",
       "itunes_duration": "01:10:52",
       "speakers": [
-        "Ed Gamble",
-        "Andy Zaltzman",
-        "John Robins",
-        "Maisie Adam",
-        "Mathew Baynton",
-        "Sam Campbell"
+        "Ed Gamble"
       ],
       "topics": [
         "champion",
@@ -325,11 +329,6 @@
       "enclosure_length": "52829494",
       "itunes_duration": "55:01",
       "speakers": [
-        "Jason Manzoukas",
-        "Ania Magliano",
-        "Phil Ellis",
-        "Reece Shearsmith",
-        "Sanjeev Bhaskar",
         "Ed Gamble"
       ],
       "topics": [
@@ -351,7 +350,6 @@
       "enclosure_length": "52308721",
       "itunes_duration": "54:29",
       "speakers": [
-        "Join Ed",
         "Ed Gamble"
       ],
       "topics": [
@@ -392,7 +390,6 @@
       "itunes_duration": "53:03",
       "speakers": [
         "Stevie Martin",
-        "Phil Ellis",
         "Ed Gamble"
       ],
       "topics": [
@@ -477,7 +474,6 @@
       "itunes_duration": "54:11",
       "speakers": [
         "Comedy Royalty two",
-        "Sanjeev Bhaskar",
         "Ed Gamble"
       ],
       "topics": [
@@ -539,7 +535,6 @@
       "enclosure_length": "79371724",
       "itunes_duration": "01:22:40",
       "speakers": [
-        "Jason Mantzoukas",
         "Ed Gamble"
       ],
       "topics": [
@@ -580,9 +575,6 @@
       "enclosure_length": "25301057",
       "itunes_duration": "26:21",
       "speakers": [
-        "Laughs Comedy",
-        "Taskmaster Royalty",
-        "Bob Mortimer",
         "Ed Gamble"
       ],
       "topics": [
@@ -603,8 +595,6 @@
       "enclosure_length": "28661401",
       "itunes_duration": "29:51",
       "speakers": [
-        "Laughs Comedy",
-        "Taskmaster Royalty",
         "Ed Gamble"
       ],
       "topics": [
@@ -625,10 +615,6 @@
       "enclosure_length": "63062788",
       "itunes_duration": "01:03:19",
       "speakers": [
-        "Jenny Eclair",
-        "Jack Bernhardt",
-        "Victoria Coren-Mitchell",
-        "Jason Mantzoukas",
         "Ed Gamble"
       ],
       "topics": [
@@ -652,7 +638,6 @@
       "itunes_duration": "36:38",
       "speakers": [
         "Alex Horne",
-        "Josh Gondelman",
         "Ed Gamble"
       ],
       "topics": [
@@ -677,7 +662,6 @@
       "itunes_duration": "30:03",
       "speakers": [
         "Alex Horne",
-        "Josh Gondelman",
         "Ed Gamble"
       ],
       "topics": [
@@ -702,10 +686,6 @@
       "itunes_duration": "29:26",
       "speakers": [
         "Taskmaster’s Alex Horne",
-        "Alex Horne",
-        "Amy Matthews",
-        "Peter Moore",
-        "Lady Braybrooke",
         "Ed Gamble"
       ],
       "topics": [
@@ -731,10 +711,6 @@
       "itunes_duration": "01:12:01",
       "speakers": [
         "Best Ofs",
-        "Stevie Martin",
-        "Chris Ramsey",
-        "Rosie Ramsey",
-        "Emma Sidi",
         "Ed Gamble"
       ],
       "topics": [
@@ -756,11 +732,6 @@
       "enclosure_length": "67728016",
       "itunes_duration": "01:10:33",
       "speakers": [
-        "Nick Mohammed",
-        "Mat Baynton",
-        "Sophie Duker",
-        "Fatiha El-Ghouri",
-        "Jason Mantzoukas",
         "Ed Gamble"
       ],
       "topics": [
@@ -801,8 +772,6 @@
       "enclosure_length": "65686904",
       "itunes_duration": "01:08:25",
       "speakers": [
-        "Rosie Ramsey",
-        "Chris Ramey Shagged",
         "Ed Gamble"
       ],
       "topics": [
@@ -823,7 +792,6 @@
       "enclosure_length": "54139876",
       "itunes_duration": "56:23",
       "speakers": [
-        "Chris Ramsey",
         "Ed Gamble"
       ],
       "topics": [
@@ -844,8 +812,6 @@
       "enclosure_length": "61900507",
       "itunes_duration": "01:04:28",
       "speakers": [
-        "Stevie Martin",
-        "Mat Baynton",
         "Ed Gamble"
       ],
       "topics": [
@@ -867,7 +833,6 @@
       "itunes_duration": "57:06",
       "speakers": [
         "Emma Sidi",
-        "Mat Baynton",
         "Ed Gamble"
       ],
       "topics": [
@@ -971,8 +936,6 @@
       "itunes_duration": "01:00:55",
       "speakers": [
         "New Taskmaster",
-        "Nick Mohammed",
-        "Mathew Baynton",
         "Ed Gamble"
       ],
       "topics": [
@@ -993,8 +956,6 @@
       "enclosure_length": "51783807",
       "itunes_duration": "53:56",
       "speakers": [
-        "Join Ed",
-        "Nick Mohammed",
         "Ed Gamble"
       ],
       "topics": [
@@ -1015,8 +976,6 @@
       "enclosure_length": "59687771",
       "itunes_duration": "01:02:10",
       "speakers": [
-        "Guy Montgomery",
-        "David Correos",
         "Ed Gamble"
       ],
       "topics": [
@@ -1077,7 +1036,6 @@
       "enclosure_length": "57232220",
       "itunes_duration": "59:37",
       "speakers": [
-        "Ray O'Leary",
         "Ed Gamble"
       ],
       "topics": []
@@ -1115,7 +1073,6 @@
       "itunes_duration": "51:24",
       "speakers": [
         "Brynley Stent",
-        "Kura Forrester",
         "Ed Gamble"
       ],
       "topics": [
@@ -1136,7 +1093,6 @@
       "itunes_duration": "53:22",
       "speakers": [
         "Melanie Bracewell",
-        "Abraham Lincoln",
         "Ed Gamble"
       ],
       "topics": [
@@ -1157,7 +1113,6 @@
       "itunes_duration": "56:43",
       "speakers": [
         "Urzila Carlson",
-        "David Correos",
         "Ed Gamble"
       ],
       "topics": [
@@ -1254,14 +1209,7 @@
       "enclosure_length": "64784736",
       "itunes_duration": "01:07:29",
       "speakers": [
-        "Emma Sidi",
-        "Mike Wozniak",
-        "Rose Matafeo",
-        "Lou Sanders",
-        "Matt Baynton",
-        "Rosie Ramsey",
-        "Jason Mantzoukas",
-        "Fatiha El-Ghorri",
+        "Junior Taskmaster",
         "Ed Gamble"
       ],
       "topics": [
@@ -1283,13 +1231,6 @@
       "enclosure_length": "58295240",
       "itunes_duration": "01:00:43",
       "speakers": [
-        "Tail Soup",
-        "Emma Sidi",
-        "Andy Zaltzman",
-        "Babatunde Aléshé",
-        "Rosie Jones",
-        "Jack Dee",
-        "John Robins",
         "Ed Gamble"
       ],
       "topics": [
@@ -1311,8 +1252,6 @@
       "enclosure_length": "48604300",
       "itunes_duration": "49:30",
       "speakers": [
-        "Jenny Eclair",
-        "Jack Bernhardt",
         "Ed Gamble"
       ],
       "topics": [
@@ -1398,7 +1337,6 @@
       "speakers": [
         "Lou Sanders Junior",
         "Lou Sanders",
-        "Catch Lou",
         "Ed Gamble"
       ],
       "topics": [
@@ -1422,8 +1360,6 @@
         "Jack Bernhardt Junior",
         "Tonight Ed",
         "Jack Bernhardt",
-        "Alex Horne",
-        "Jenny Eclair",
         "Ed Gamble"
       ],
       "topics": [
@@ -1447,7 +1383,7 @@
       "speakers": [
         "Alex Horne Junior",
         "Alex Horne",
-        "Bob Mortimer",
+        "Alex di",
         "Ed Gamble"
       ],
       "topics": [
@@ -1493,8 +1429,7 @@
       "enclosure_length": "18079116",
       "itunes_duration": "18:50",
       "speakers": [
-        "Alex Horne",
-        "Jack Bernhardt",
+        "Attention Taskmaster",
         "Ed Gamble"
       ],
       "topics": [
@@ -1517,8 +1452,6 @@
         "Emma Sidi Junior",
         "Tonight Ed",
         "Emma Sidi",
-        "Catch Emma",
-        "emma Order",
         "Ed Gamble"
       ],
       "topics": [
@@ -1560,7 +1493,6 @@
       "itunes_duration": "01:03:43",
       "speakers": [
         "Mike Wozniak Junior",
-        "Mike Wozniak",
         "Ed Gamble"
       ],
       "topics": [
@@ -1623,7 +1555,6 @@
       "speakers": [
         "Joining Ed",
         "Ivo Graham",
-        "Rosie Jones",
         "Ed Gamble"
       ],
       "topics": [
@@ -1642,8 +1573,6 @@
       "enclosure_length": "59404327",
       "itunes_duration": "01:01:48",
       "speakers": [
-        "Jack Bernhardt",
-        "Jenny Eclair Preorder",
         "Ed Gamble"
       ],
       "topics": [
@@ -1682,7 +1611,6 @@
       "enclosure_length": "59656418",
       "itunes_duration": "01:02:08",
       "speakers": [
-        "Andy Zaltzman",
         "Ed Gamble"
       ],
       "topics": [
@@ -1702,7 +1630,6 @@
       "enclosure_length": "66165367",
       "itunes_duration": "01:08:55",
       "speakers": [
-        "Emma Sidi",
         "Ed Gamble"
       ],
       "topics": [
@@ -1742,7 +1669,6 @@
       "enclosure_length": "51429899",
       "itunes_duration": "53:34",
       "speakers": [
-        "Leonie Aléshé",
         "Ed Gamble"
       ],
       "topics": [
@@ -1761,7 +1687,6 @@
       "enclosure_length": "49657999",
       "itunes_duration": "51:43",
       "speakers": [
-        "Leigh Hart",
         "Ed Gamble"
       ],
       "topics": [
@@ -1781,7 +1706,7 @@
       "enclosure_length": "55282547",
       "itunes_duration": "57:35",
       "speakers": [
-        "Kura Forrester",
+        "Kura Forr",
         "Ed Gamble"
       ],
       "topics": [
@@ -1801,7 +1726,6 @@
       "enclosure_length": "64268579",
       "itunes_duration": "01:06:56",
       "speakers": [
-        "Chris Parker",
         "Ed Gamble"
       ],
       "topics": [
@@ -1900,7 +1824,6 @@
       "enclosure_length": "56435697",
       "itunes_duration": "58:47",
       "speakers": [
-        "Paul Williams",
         "Ed Gamble"
       ],
       "topics": [
@@ -1921,7 +1844,6 @@
       "itunes_duration": "57:58",
       "speakers": [
         "Brynley Stent",
-        "Catch Brynley",
         "Ed Gamble"
       ],
       "topics": [
@@ -1941,8 +1863,7 @@
       "enclosure_length": "67957086",
       "itunes_duration": "01:10:47",
       "speakers": [
-        "Ed Gamble",
-        "Jack Bernhardt"
+        "Ed Gamble"
       ],
       "topics": [
         "jack",
@@ -1961,8 +1882,7 @@
       "enclosure_length": "50093582",
       "itunes_duration": "52:10",
       "speakers": [
-        "Jenny Recaldin",
-        "Daisy Knight",
+        "Join Ed Gamble",
         "Ed Gamble"
       ],
       "topics": [
@@ -1982,9 +1902,7 @@
       "enclosure_length": "47264414",
       "itunes_duration": "49:14",
       "speakers": [
-        "Lou Sanders",
-        "Jenny Recaldin",
-        "Daisy Knight",
+        "Join Ed Gamble",
         "Ed Gamble"
       ],
       "topics": [
@@ -2007,8 +1925,6 @@
         "John Robins",
         "Jenny Eclair",
         "Jack Bernhardt",
-        "goof Jack-related",
-        "Christine Macdonald",
         "Ed Gamble"
       ],
       "topics": [
@@ -2052,7 +1968,6 @@
       "enclosure_length": "57278126",
       "itunes_duration": "59:37",
       "speakers": [
-        "Bart Simpson",
         "Ed Gamble"
       ],
       "topics": [
@@ -2093,7 +2008,6 @@
       "itunes_duration": "56:29",
       "speakers": [
         "Chris Ramsey",
-        "Nick Mohammed",
         "Ed Gamble"
       ],
       "topics": [
@@ -2173,7 +2087,6 @@
       "itunes_duration": "57:16",
       "speakers": [
         "Lou Sanders",
-        "John Robins",
         "Ed Gamble"
       ],
       "topics": [
@@ -2212,8 +2125,6 @@
       "enclosure_length": "70327775",
       "itunes_duration": "01:13:15",
       "speakers": [
-        "John Robins",
-        "John Robins Watch",
         "Ed Gamble"
       ],
       "topics": [
@@ -2273,7 +2184,6 @@
       "enclosure_length": "52878374",
       "itunes_duration": "55:05",
       "speakers": [
-        "John Kearns",
         "Ed Gamble"
       ],
       "topics": [
@@ -2293,7 +2203,6 @@
       "enclosure_length": "48376061",
       "itunes_duration": "50:23",
       "speakers": [
-        "John Kearns",
         "Ed Gamble"
       ],
       "topics": [
@@ -2313,7 +2222,6 @@
       "enclosure_length": "41148373",
       "itunes_duration": "42:52",
       "speakers": [
-        "Christine Macdonald",
         "Ed Gamble"
       ],
       "topics": [
@@ -2373,7 +2281,6 @@
       "enclosure_length": "56995644",
       "itunes_duration": "59:22",
       "speakers": [
-        "Greg Jenner",
         "Ed Gamble"
       ],
       "topics": [
@@ -2393,7 +2300,7 @@
       "enclosure_length": "67396140",
       "itunes_duration": "01:10:12",
       "speakers": [
-        "Mark Watson",
+        "Mark Watso",
         "Ed Gamble"
       ],
       "topics": [
@@ -2435,7 +2342,6 @@
       "itunes_duration": "57:02",
       "speakers": [
         "Sue Perkins",
-        "Susan Wokoma",
         "Ed Gamble"
       ],
       "topics": [
@@ -2455,7 +2361,6 @@
       "itunes_duration": "52:49",
       "speakers": [
         "Julian Clary",
-        "Josh Widdicombe",
         "Ed Gamble"
       ],
       "topics": [
@@ -2552,7 +2457,6 @@
       "itunes_duration": "01:08:49",
       "speakers": [
         "Joining Ed",
-        "Jenny Eclair",
         "Ed Gamble"
       ],
       "topics": [
@@ -2689,7 +2593,6 @@
       "enclosure_length": "53903167",
       "itunes_duration": "56:09",
       "speakers": [
-        "Sally Phillips",
         "Ed Gamble"
       ],
       "topics": [
@@ -2709,8 +2612,6 @@
       "enclosure_length": "69585014",
       "itunes_duration": "01:12:29",
       "speakers": [
-        "Andy Devonshire",
-        "Exec Producer",
         "Ed Gamble"
       ],
       "topics": [
@@ -2733,8 +2634,6 @@
       "itunes_duration": "01:02:24",
       "speakers": [
         "Joining Ed",
-        "Chris Parker",
-        "Jenny Eclair",
         "Ed Gamble"
       ],
       "topics": [
@@ -2774,7 +2673,6 @@
       "enclosure_length": "69890937",
       "itunes_duration": "01:12:48",
       "speakers": [
-        "Frankie Boyle",
         "Ed Gamble"
       ],
       "topics": [
@@ -2833,7 +2731,6 @@
       "enclosure_length": "55781060",
       "itunes_duration": "58:06",
       "speakers": [
-        "Kiell Smith-Bynoe",
         "Ed Gamble"
       ],
       "topics": [
@@ -2874,8 +2771,6 @@
       "itunes_duration": "01:04:20",
       "speakers": [
         "Hugh Dennis",
-        "David Baddiel",
-        "Briain Watch",
         "Ed Gamble"
       ],
       "topics": [
@@ -2933,7 +2828,6 @@
       "enclosure_length": "79987997",
       "itunes_duration": "01:23:19",
       "speakers": [
-        "David Baddiel",
         "Ed Gamble"
       ],
       "topics": [
@@ -2998,6 +2892,7 @@
       "itunes_duration": "59:40",
       "speakers": [
         "Alex Horne",
+        "digs de",
         "Ed Gamble"
       ],
       "topics": [
@@ -3057,7 +2952,6 @@
       "itunes_duration": "52:04",
       "speakers": [
         "Lou Sanders",
-        "Jack Bernhardt",
         "Ed Gamble"
       ],
       "topics": [
@@ -3076,7 +2970,6 @@
       "enclosure_length": "62908533",
       "itunes_duration": "01:05:32",
       "speakers": [
-        "Andy Cartwright",
         "Ed Gamble"
       ],
       "topics": [
@@ -3118,7 +3011,6 @@
       "itunes_duration": "54:28",
       "speakers": [
         "Greg James",
-        "Joe Thomas",
         "Ed Gamble"
       ],
       "topics": [
@@ -3140,7 +3032,7 @@
       "enclosure_length": "56302247",
       "itunes_duration": "58:39",
       "speakers": [
-        "Paul Sinha",
+        "Paul Sin",
         "Ed Gamble"
       ],
       "topics": [
@@ -3198,7 +3090,6 @@
       "itunes_duration": "01:12:33",
       "speakers": [
         "Greg Jenner",
-        "John Kearns",
         "Ed Gamble"
       ],
       "topics": [
@@ -3257,7 +3148,6 @@
       "enclosure_length": "71215036",
       "itunes_duration": "01:14:11",
       "speakers": [
-        "Philip Schofield",
         "Ed Gamble"
       ],
       "topics": [
@@ -3317,7 +3207,6 @@
       "enclosure_length": "86316734",
       "itunes_duration": "01:29:55",
       "speakers": [
-        "John Kearns",
         "Ed Gamble"
       ],
       "topics": [
@@ -3357,7 +3246,6 @@
       "enclosure_length": "48804062",
       "itunes_duration": "50:50",
       "speakers": [
-        "Chris Ramsey",
         "Ed Gamble"
       ],
       "topics": [
@@ -3434,7 +3322,6 @@
       "enclosure_length": "56578932",
       "itunes_duration": "58:56",
       "speakers": [
-        "Mrs Mangel",
         "Ed Gamble"
       ],
       "topics": []
@@ -3452,7 +3339,6 @@
       "itunes_duration": "57:02",
       "speakers": [
         "Brynley Stent",
-        "Follow Brynley",
         "Ed Gamble"
       ],
       "topics": [
@@ -3589,8 +3475,6 @@
       "enclosure_length": "59284387",
       "itunes_duration": "01:01:45",
       "speakers": [
-        "Laura Daniel",
-        "Follow Laura",
         "Ed Gamble"
       ],
       "topics": [
@@ -3650,7 +3534,6 @@
       "itunes_duration": "55:33",
       "speakers": [
         "Joining Ed",
-        "Jack Bernhardt",
         "Ed Gamble"
       ],
       "topics": [
@@ -3671,7 +3554,6 @@
       "itunes_duration": "55:29",
       "speakers": [
         "Rosie Ramsey",
-        "Chris Ramsey",
         "Ed Gamble"
       ],
       "topics": [
@@ -3732,7 +3614,6 @@
       "itunes_duration": "01:07:14",
       "speakers": [
         "Chris Ramsey",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3753,7 +3634,6 @@
       "itunes_duration": "51:41",
       "speakers": [
         "Ardal O'Hanlon",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": []
@@ -3771,8 +3651,6 @@
       "itunes_duration": "53:35",
       "speakers": [
         "Joining Ed",
-        "Lou Sanders",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3791,7 +3669,6 @@
       "enclosure_length": "44714331",
       "itunes_duration": "46:35",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3811,10 +3688,7 @@
       "enclosure_length": "19463005",
       "itunes_duration": "20:16",
       "speakers": [
-        "Lou Sanders",
-        "Jack Bernhardt",
-        "Taskmaster Superfans",
-        "Greg Davies",
+        "Introducing Taskmaster",
         "Ed Gamble"
       ],
       "topics": [
@@ -3835,7 +3709,6 @@
       "enclosure_length": "57082162",
       "itunes_duration": "59:28",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3856,8 +3729,6 @@
       "itunes_duration": "01:04:08",
       "speakers": [
         "Dave Gorman",
-        "Alex Horne",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3877,7 +3748,6 @@
       "enclosure_length": "50800996",
       "itunes_duration": "52:55",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3897,8 +3767,6 @@
       "enclosure_length": "67566243",
       "itunes_duration": "01:10:23",
       "speakers": [
-        "Tim Key",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": []
@@ -3915,8 +3783,6 @@
       "enclosure_length": "49336460",
       "itunes_duration": "51:23",
       "speakers": [
-        "Saint Bernard",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3938,10 +3804,6 @@
       "itunes_duration": "01:00:05",
       "speakers": [
         "Comedian Chloe Petts",
-        "Liza Tarbuck",
-        "Follow Chloe",
-        "Twitter ChloePetts",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3962,7 +3824,6 @@
       "itunes_duration": "55:36",
       "speakers": [
         "Russell Howard",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -3983,7 +3844,6 @@
       "itunes_duration": "01:12:27",
       "speakers": [
         "Joining Ed",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4003,9 +3863,7 @@
       "enclosure_length": "61340742",
       "itunes_duration": "01:03:54",
       "speakers": [
-        "Tim Vine",
-        "Sledge Ravine",
-        "Daisy Knight",
+        "Tim Vin",
         "Ed Gamble"
       ],
       "topics": [
@@ -4025,8 +3883,6 @@
       "itunes_duration": "01:14:44",
       "speakers": [
         "Alex Horne Champion",
-        "Alex Horne",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4048,12 +3904,6 @@
       "enclosure_length": "71149014",
       "itunes_duration": "01:14:07",
       "speakers": [
-        "Bob Mortimer",
-        "Josh Widdicombe",
-        "Katherine Ryan",
-        "Noel Fielding",
-        "Rob Beckett",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4075,7 +3925,6 @@
       "itunes_duration": "59:55",
       "speakers": [
         "Kerry Godliman",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4095,8 +3944,6 @@
       "enclosure_length": "58410015",
       "itunes_duration": "01:00:51",
       "speakers": [
-        "Aisling Bea",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": []
@@ -4114,8 +3961,6 @@
       "itunes_duration": "01:08:21",
       "speakers": [
         "Jack Bernhardt",
-        "Follow Jack",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4136,7 +3981,6 @@
       "itunes_duration": "01:07:44",
       "speakers": [
         "Mark Watson",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4156,7 +4000,7 @@
       "enclosure_length": "51405433",
       "itunes_duration": "53:33",
       "speakers": [
-        "Daisy Knight",
+        "New Year",
         "Ed Gamble"
       ],
       "topics": [
@@ -4176,8 +4020,6 @@
       "enclosure_length": "60702522",
       "itunes_duration": "01:03:14",
       "speakers": [
-        "Lou Sanders",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4196,7 +4038,6 @@
       "enclosure_length": "57842849",
       "itunes_duration": "01:00:15",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4217,7 +4058,6 @@
       "itunes_duration": "01:12:49",
       "speakers": [
         "Guy Montgomery",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4237,11 +4077,6 @@
       "itunes_duration": "01:06:25",
       "speakers": [
         "Nish Kumar",
-        "Aisling Bea",
-        "Bob Mortimer",
-        "Mark Watson",
-        "Sally Phillips",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4260,7 +4095,6 @@
       "enclosure_length": "57036266",
       "itunes_duration": "59:25",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4280,9 +4114,6 @@
       "enclosure_length": "62453358",
       "itunes_duration": "01:05:03",
       "speakers": [
-        "Richard Herring",
-        "Order Bring",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4303,8 +4134,6 @@
       "itunes_duration": "01:07:15",
       "speakers": [
         "Liza Tarbuck",
-        "Order Bring",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4325,7 +4154,6 @@
       "itunes_duration": "51:52",
       "speakers": [
         "Al Murray",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4345,8 +4173,6 @@
       "itunes_duration": "01:01:36",
       "speakers": [
         "Alan Davies",
-        "Order Bring",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4387,8 +4213,6 @@
       "itunes_duration": "01:05:49",
       "speakers": [
         "Victoria Coren Mitchell",
-        "Order Bring",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4409,9 +4233,6 @@
       "enclosure_length": "67117362",
       "itunes_duration": "01:09:55",
       "speakers": [
-        "Desiree Burch",
-        "Order Bring",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4432,8 +4253,6 @@
       "itunes_duration": "01:09:36",
       "speakers": [
         "Paul Williams",
-        "Order Bring",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4453,9 +4272,6 @@
       "enclosure_length": "65345213",
       "itunes_duration": "01:08:04",
       "speakers": [
-        "Mike Wozniak",
-        "Order Bring",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4495,8 +4311,6 @@
       "itunes_duration": "01:03:29",
       "speakers": [
         "Jack Bernhardt",
-        "Book Club",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4516,7 +4330,6 @@
       "enclosure_length": "65138326",
       "itunes_duration": "01:07:51",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4537,8 +4350,6 @@
       "itunes_duration": "01:09:42",
       "speakers": [
         "Mel Giedroyc",
-        "Desky Dennis",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4558,7 +4369,6 @@
       "itunes_duration": "01:03:23",
       "speakers": [
         "Hugh Dennis",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4579,9 +4389,6 @@
       "itunes_duration": "01:04:42",
       "speakers": [
         "Jack Bernhardt",
-        "Alex Horne",
-        "Find Jack",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4602,8 +4409,6 @@
       "itunes_duration": "01:04:06",
       "speakers": [
         "Mark Watson",
-        "Noel Fielding",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4624,9 +4429,6 @@
       "itunes_duration": "58:08",
       "speakers": [
         "Maisie Adam",
-        "Dave Gorman",
-        "Paul Chowdhry",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4646,8 +4448,6 @@
       "enclosure_length": "53985497",
       "itunes_duration": "56:14",
       "speakers": [
-        "Katy Wix",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4667,7 +4467,6 @@
       "itunes_duration": "01:00:47",
       "speakers": [
         "Dave Gorman",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4688,7 +4487,6 @@
       "itunes_duration": "58:07",
       "speakers": [
         "Al Murray",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4707,7 +4505,6 @@
       "enclosure_length": "84462689",
       "itunes_duration": "01:27:59",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4730,7 +4527,6 @@
       "itunes_duration": "59:01",
       "speakers": [
         "Comedy Actress",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4751,7 +4547,6 @@
       "enclosure_length": "55333416",
       "itunes_duration": "57:38",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4771,7 +4566,6 @@
       "itunes_duration": "01:02:52",
       "speakers": [
         "Charlotte Ritchie",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4792,7 +4586,6 @@
       "itunes_duration": "01:10:04",
       "speakers": [
         "Mike Wozniak",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4813,7 +4606,6 @@
       "itunes_duration": "01:02:49",
       "speakers": [
         "Sarah Kendall",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4834,8 +4626,6 @@
       "itunes_duration": "53:42",
       "speakers": [
         "Rick Edwards",
-        "Taskmaster Bleeped",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4856,8 +4646,6 @@
       "itunes_duration": "01:02:04",
       "speakers": [
         "Katherine Parkinson",
-        "Taskmaster Bleeped",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4878,8 +4666,6 @@
       "itunes_duration": "01:03:37",
       "speakers": [
         "Jamali Maddix",
-        "Taskmaster Bleeped",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4899,7 +4685,6 @@
       "enclosure_length": "57168264",
       "itunes_duration": "59:33",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4920,7 +4705,6 @@
       "itunes_duration": "48:05",
       "speakers": [
         "Richard Osman",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4940,10 +4724,6 @@
       "enclosure_length": "50918100",
       "itunes_duration": "53:02",
       "speakers": [
-        "Kerry Godliman",
-        "Human Tapas",
-        "Jon Richardson",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4964,8 +4744,6 @@
       "itunes_duration": "49:44",
       "speakers": [
         "Ben Bailey Smith",
-        "Doc Brown",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -4986,9 +4764,6 @@
       "enclosure_length": "60956641",
       "itunes_duration": "01:03:30",
       "speakers": [
-        "Sian Gibson",
-        "Joe Wilkinson",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5008,8 +4783,6 @@
       "enclosure_length": "55269890",
       "itunes_duration": "57:34",
       "speakers": [
-        "Joe Wilkinson",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5028,9 +4801,6 @@
       "enclosure_length": "59525556",
       "itunes_duration": "01:02:00",
       "speakers": [
-        "Tree Wizard",
-        "Melon Buffet",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5051,7 +4821,6 @@
       "itunes_duration": "54:52",
       "speakers": [
         "Jayde Adams",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5072,7 +4841,6 @@
       "itunes_duration": "56:13",
       "speakers": [
         "Derry Girls",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5092,7 +4860,6 @@
       "enclosure_length": "58266241",
       "itunes_duration": "01:00:42",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5112,9 +4879,6 @@
       "enclosure_length": "58303013",
       "itunes_duration": "01:00:44",
       "speakers": [
-        "Tim Key",
-        "Tree Wizard",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": []
@@ -5131,8 +4895,6 @@
       "enclosure_length": "45338759",
       "itunes_duration": "47:14",
       "speakers": [
-        "Alex Horne",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5153,9 +4915,6 @@
       "itunes_duration": "54:01",
       "speakers": [
         "Joining Ed",
-        "Taskmaster Fan Scroobius Pip",
-        "Shirly Ballas",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5178,7 +4937,6 @@
       "itunes_duration": "59:27",
       "speakers": [
         "Greg Davies",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5198,7 +4956,6 @@
       "enclosure_length": "54743676",
       "itunes_duration": "57:01",
       "speakers": [
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5219,7 +4976,6 @@
       "itunes_duration": "55:51",
       "speakers": [
         "Katy Wix",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5239,7 +4995,6 @@
       "itunes_duration": "57:45",
       "speakers": [
         "Richard Osman",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5260,7 +5015,6 @@
       "itunes_duration": "57:34",
       "speakers": [
         "Rose Matafeo",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5281,7 +5035,7 @@
       "itunes_duration": "56:58",
       "speakers": [
         "Jess Knappett",
-        "Daisy Knight",
+        "Jess Knappet",
         "Ed Gamble"
       ],
       "topics": [
@@ -5302,7 +5056,6 @@
       "itunes_duration": "01:07:49",
       "speakers": [
         "James Acaster",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5323,7 +5076,6 @@
       "itunes_duration": "57:05",
       "speakers": [
         "Paul Chowdhry",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5344,8 +5096,6 @@
       "itunes_duration": "55:07",
       "speakers": [
         "Jo Brand",
-        "Alex Horne",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5364,8 +5114,6 @@
       "enclosure_length": "57326653",
       "itunes_duration": "59:43",
       "speakers": [
-        "Alex Horne",
-        "Daisy Knight",
         "Ed Gamble"
       ],
       "topics": [
@@ -5385,8 +5133,7 @@
       "itunes_duration": "45:43",
       "speakers": [
         "Alex Horne",
-        "Ed Gamble",
-        "Daisy Knight"
+        "Ed Gamble"
       ],
       "topics": [
         "alex",
@@ -5400,258 +5147,259 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Taskmaster The Podcast Rewind - Series 4 Ep4. With Mel Giedroyc — speakers: Mel Giedroyc, Joining Ed, Desky Dennis, Ed Gamble
+- 2026-02-26 — Taskmaster Live on Stage - Washington D.C. — speakers: Ed Gamble
+- 2026-02-20 — Taskmaster The Podcast Rewind - Series 4 Ep4. With Mel Giedroyc — speakers: Mel Giedroyc, Joining Ed, Mel Gi, Ed Gamble
 - 2026-02-18 — Taskmaster The Podcast Rewind - Series 3 Ep2. With Al Murray — speakers: Al Murray, Ed Gamble
-- 2026-02-10 — Taskmaster The Podcast Rewind - Series 2 Ep 4. With Kerry Godliman — speakers: Kerry Godliman, Richard Herring, Ed Gamble
-- 2026-02-04 — Taskmaster The Podcast Rewind - Series 1 Ep.6 With Romesh Ranganathan — speakers: Tree Wizard, Melon Buffet, Ed Gamble
+- 2026-02-10 — Taskmaster The Podcast Rewind - Series 2 Ep 4. With Kerry Godliman — speakers: Kerry Godliman, Ed Gamble
+- 2026-02-04 — Taskmaster The Podcast Rewind - Series 1 Ep.6 With Romesh Ranganathan — speakers: Ed Gamble
 - 2026-01-30 — Taskmaster The Podcast Rewind - Series 2 Ep.2 With Joe Wilkinson — speakers: Joe Wilkinson, Ed Gamble
-- 2026-01-27 — Taskmaster The Podcast Rewind - Series 1 Ep1. With Alex Horne — speakers: Alex Horne, Frank Skinner, Josh Widdicombe, Roisin Conaty, Tim Key, Ed Gamble
+- 2026-01-27 — Taskmaster The Podcast Rewind - Series 1 Ep1. With Alex Horne — speakers: Alex Horne, Ed Gamble
 - 2026-01-12 — Taskmaster: The People's Podcast - 2026 New Years Treat, Part Two — speakers: Ed Gamble
 - 2026-01-03 — *2026 Festive Treat Winner!* — speakers: Ed Gamble
-- 2026-01-02 — *2026 New Year's Treat* Part One with Sam Ryder — speakers: Sam Ryder, Big Zuu, Jill Scott, Susie Dent, Rose Ayling-Ellis, Ed Gamble
-- 2025-12-22 — *Champion of Champions #4 Winner* — speakers: Ed Gamble, Andy Zaltzman, John Robins, Maisie Adam, Mathew Baynton, Sam Campbell
+- 2026-01-02 — *2026 New Year's Treat* Part One with Sam Ryder — speakers: Sam Ryder, Ed Gamble
+- 2025-12-22 — *Champion of Champions #4 Winner* — speakers: Ed Gamble
 - 2025-12-08 — Taskmaster: The People's Podcast - With Special Guest Ania Magliano — speakers: Ed Gamble
 - 2025-11-27 — Taskmaster The Podcast *Best of Series 20 - Part 2* — speakers: Ed Gamble
-- 2025-11-20 — Taskmaster The Podcast *Best of Series 20 - Part 1* — speakers: Jason Manzoukas, Ania Magliano, Phil Ellis, Reece Shearsmith, Sanjeev Bhaskar, Ed Gamble
-- 2025-11-13 — *Series 20 Winner* Series 20 Ep.10 — speakers: Join Ed, Ed Gamble
+- 2025-11-20 — Taskmaster The Podcast *Best of Series 20 - Part 1* — speakers: Ed Gamble
+- 2025-11-13 — *Series 20 Winner* Series 20 Ep.10 — speakers: Ed Gamble
 - 2025-11-06 — Paul F. Tompkins - Series 20 Ep. 9 — speakers: Ed Gamble
-- 2025-10-30 — Stevie Martin - Series 20 Ep. 8 — speakers: Stevie Martin, Phil Ellis, Ed Gamble
+- 2025-10-30 — Stevie Martin - Series 20 Ep. 8 — speakers: Stevie Martin, Ed Gamble
 - 2025-10-23 — Mike Wozniak - Series 20 Ep.7 — speakers: Mike Wozniak, Ed Gamble
 - 2025-10-16 — Maisie Adam - Series 20 Ep.6 — speakers: Maisie Adam, Ed Gamble
 - 2025-10-09 — Phil Ellis - Series 20 Ep.5 — speakers: Phil Ellis, Ed Gamble
-- 2025-10-02 — Sanjeev Bhaskar - Series 20 Ep.4 — speakers: Comedy Royalty two, Sanjeev Bhaskar, Ed Gamble
+- 2025-10-02 — Sanjeev Bhaskar - Series 20 Ep.4 — speakers: Comedy Royalty two, Ed Gamble
 - 2025-09-25 — Reece Shearsmith - Series 20 Ep.3 — speakers: Ed Gamble
 - 2025-09-18 — Ania Magliano - Series 20 Ep.2 — speakers: Ania Magliano, Ed Gamble
-- 2025-09-11 — Jason Mantzoukas - Series 20 Ep.1 — speakers: Jason Mantzoukas, Ed Gamble
+- 2025-09-11 — Jason Mantzoukas - Series 20 Ep.1 — speakers: Ed Gamble
 - 2025-09-05 — Taskmaster The Podcast - Series 20 Trailer — speakers: Ed Gamble
-- 2025-08-29 — Taskmaster the Podcast Live with Nish Kumar - Part Two — speakers: Laughs Comedy, Taskmaster Royalty, Bob Mortimer, Ed Gamble
-- 2025-08-21 — Taskmaster the Podcast Live with Nish Kumar - Part One — speakers: Laughs Comedy, Taskmaster Royalty, Ed Gamble
-- 2025-08-14 — Taskmaster The People's Podcast - Sudoku for a Poodle — speakers: Jenny Eclair, Jack Bernhardt, Victoria Coren-Mitchell, Jason Mantzoukas, Ed Gamble
-- 2025-08-07 — Q&A With Greg Davies and Alex Horne at The Town Hall in NYC - Part Two — speakers: Alex Horne, Josh Gondelman, Ed Gamble
-- 2025-07-31 — Q&A With Greg Davies and Alex Horne at The Town Hall in NYC - Part One — speakers: Alex Horne, Josh Gondelman, Ed Gamble
-- 2025-07-24 — Taskmaster x English Heritage : A short history of games with Taskmaster’s Alex Horne — speakers: Taskmaster’s Alex Horne, Alex Horne, Amy Matthews, Peter Moore, Lady Braybrooke, Ed Gamble
-- 2025-07-17 — Taskmaster The Podcast *Best of Series 19* - Part Two — speakers: Best Ofs, Stevie Martin, Chris Ramsey, Rosie Ramsey, Emma Sidi, Ed Gamble
-- 2025-07-10 — Taskmaster The Podcast *Best of Series 19* - Part One — speakers: Nick Mohammed, Mat Baynton, Sophie Duker, Fatiha El-Ghouri, Jason Mantzoukas, Ed Gamble
+- 2025-08-29 — Taskmaster the Podcast Live with Nish Kumar - Part Two — speakers: Ed Gamble
+- 2025-08-21 — Taskmaster the Podcast Live with Nish Kumar - Part One — speakers: Ed Gamble
+- 2025-08-14 — Taskmaster The People's Podcast - Sudoku for a Poodle — speakers: Ed Gamble
+- 2025-08-07 — Q&A With Greg Davies and Alex Horne at The Town Hall in NYC - Part Two — speakers: Alex Horne, Ed Gamble
+- 2025-07-31 — Q&A With Greg Davies and Alex Horne at The Town Hall in NYC - Part One — speakers: Alex Horne, Ed Gamble
+- 2025-07-24 — Taskmaster x English Heritage : A short history of games with Taskmaster’s Alex Horne — speakers: Taskmaster’s Alex Horne, Ed Gamble
+- 2025-07-17 — Taskmaster The Podcast *Best of Series 19* - Part Two — speakers: Best Ofs, Ed Gamble
+- 2025-07-10 — Taskmaster The Podcast *Best of Series 19* - Part One — speakers: Ed Gamble
 - 2025-07-03 — Ep 210. *Series 19 Winner* S19 Ep.10 — speakers: Ed Gamble
-- 2025-06-26 — Ep 209. Rosie Ramsey - Series 19 Ep.9 — speakers: Rosie Ramsey, Chris Ramey Shagged, Ed Gamble
-- 2025-06-19 — Ep 208. Chris Ramsey - Series 19 Ep.8 — speakers: Chris Ramsey, Ed Gamble
-- 2025-06-12 — Ep 207. Stevie Martin - Series 19 Ep.7 — speakers: Stevie Martin, Mat Baynton, Ed Gamble
-- 2025-06-05 — Ep 206. Emma Sidi - Series 19 Ep.6 — speakers: Emma Sidi, Mat Baynton, Ed Gamble
+- 2025-06-26 — Ep 209. Rosie Ramsey - Series 19 Ep.9 — speakers: Ed Gamble
+- 2025-06-19 — Ep 208. Chris Ramsey - Series 19 Ep.8 — speakers: Ed Gamble
+- 2025-06-12 — Ep 207. Stevie Martin - Series 19 Ep.7 — speakers: Ed Gamble
+- 2025-06-05 — Ep 206. Emma Sidi - Series 19 Ep.6 — speakers: Emma Sidi, Ed Gamble
 - 2025-05-29 — Ep 205. Jason Mantzoukas - Series 19 Ep.5 — speakers: Jason Mantzoukas, Ed Gamble
 - 2025-05-22 — Ep 204. Fatiha El-Ghorri - Series 19 Ep.4 — speakers: Ed Gamble
 - 2025-05-15 — Ep 203. Sophie Duker - Series 19 Ep.3 — speakers: Ed Gamble
 - 2025-05-08 — Ep 202. Mathew Baynton - Series 19 Ep.2 — speakers: Mathew Baynton, Ed Gamble
-- 2025-05-01 — Ep 201. Nick Mohammed - Series 19 Ep.1 — speakers: New Taskmaster, Nick Mohammed, Mathew Baynton, Ed Gamble
-- 2025-04-25 — Taskmaster The Podcast *Best of TM NZ S2 Part 2* — speakers: Join Ed, Nick Mohammed, Ed Gamble
-- 2025-04-17 — Taskmaster The Podcast *Best of TM NZ S2* — speakers: Guy Montgomery, David Correos, Ed Gamble
+- 2025-05-01 — Ep 201. Nick Mohammed - Series 19 Ep.1 — speakers: New Taskmaster, Ed Gamble
+- 2025-04-25 — Taskmaster The Podcast *Best of TM NZ S2 Part 2* — speakers: Ed Gamble
+- 2025-04-17 — Taskmaster The Podcast *Best of TM NZ S2* — speakers: Ed Gamble
 - 2025-04-10 — Taskmaster: The People's Podcast - S12, Ep. 1 — speakers: Ed Gamble
 - 2025-04-03 — Ep 200. Laura Daniel - TM NZ S2 EP.10 — speakers: Laura Daniel, Ed Gamble
-- 2025-03-27 — Ep 199. Ray O'Leary - TM NZ S2 EP.9 — speakers: Ray O'Leary, Ed Gamble
+- 2025-03-27 — Ep 199. Ray O'Leary - TM NZ S2 EP.9 — speakers: Ed Gamble
 - 2025-03-20 — Ep 198. Jack Bernhardt - TM NZ S2 EP.8 — speakers: Jack Bernhardt, Ed Gamble
-- 2025-03-13 — Ep 197. Brynley Stent - TM NZ S2 Ep.7 — speakers: Brynley Stent, Kura Forrester, Ed Gamble
-- 2025-03-06 — Ep 196. Melanie Bracewell - TM NZ S2 Ep.6 — speakers: Melanie Bracewell, Abraham Lincoln, Ed Gamble
-- 2025-02-27 — Ep 195. Urzila Carlson - TM NZ S2 Ep.5 — speakers: Urzila Carlson, David Correos, Ed Gamble
+- 2025-03-13 — Ep 197. Brynley Stent - TM NZ S2 Ep.7 — speakers: Brynley Stent, Ed Gamble
+- 2025-03-06 — Ep 196. Melanie Bracewell - TM NZ S2 Ep.6 — speakers: Melanie Bracewell, Ed Gamble
+- 2025-02-27 — Ep 195. Urzila Carlson - TM NZ S2 Ep.5 — speakers: Urzila Carlson, Ed Gamble
 - 2025-02-20 — Ep 194. Guy Williams - TM NZ S2 Ep.4 — speakers: Paul Williams Guy Williams, Ed Gamble
 - 2025-02-13 — Ep 193. Matt Heath - TM NZ S2 Ep.3 — speakers: Ed Gamble
 - 2025-02-06 — Ep 192. Guy Montgomery - TM NZ S2 Ep.2 — speakers: Guy Montgomery, Ed Gamble
 - 2025-01-31 — Ep 191. David Correos - TM NZ S2 Ep.1 — speakers: David Correos, Ed Gamble
-- 2025-01-23 — Taskmaster The Podcast *Best of Junior TM* — speakers: Emma Sidi, Mike Wozniak, Rose Matafeo, Lou Sanders, Matt Baynton, Rosie Ramsey, Jason Mantzoukas, Fatiha El-Ghorri, Ed Gamble
-- 2025-01-17 — Taskmaster The Podcast *Best of Series 18* — speakers: Tail Soup, Emma Sidi, Andy Zaltzman, Babatunde Aléshé, Rosie Jones, Jack Dee, John Robins, Ed Gamble
-- 2025-01-09 — Taskmaster: The People's Podcast - Best of 2024 — speakers: Jenny Eclair, Jack Bernhardt, Ed Gamble
+- 2025-01-23 — Taskmaster The Podcast *Best of Junior TM* — speakers: Junior Taskmaster, Ed Gamble
+- 2025-01-17 — Taskmaster The Podcast *Best of Series 18* — speakers: Ed Gamble
+- 2025-01-09 — Taskmaster: The People's Podcast - Best of 2024 — speakers: Ed Gamble
 - 2024-12-29 — Ep. 190. *2025 New Years Treat* — speakers: Ed Gamble
 - 2024-12-23 — Ep. 189. Rose Matafeo - Junior Taskmaster S1 Ep.8 — speakers: Rose Matafeo Junior, Rose Matafeo, Ed Gamble
 - 2024-12-20 — Ep. 188. Nish Kumar - Junior Taskmaster S1 Ep7 — speakers: Ed Gamble
-- 2024-12-13 — Ep 187. Lou Sanders - Junior Taskmaster S1 Ep.6 — speakers: Lou Sanders Junior, Lou Sanders, Catch Lou, Ed Gamble
-- 2024-12-06 — Ep 186. Jack Bernhardt - Junior Taskmaster S1 Ep.5 — speakers: Jack Bernhardt Junior, Tonight Ed, Jack Bernhardt, Alex Horne, Jenny Eclair, Ed Gamble
-- 2024-11-29 — Ep 185. Alex Horne - Junior Taskmaster S1 Ep.4 — speakers: Alex Horne Junior, Alex Horne, Bob Mortimer, Ed Gamble
+- 2024-12-13 — Ep 187. Lou Sanders - Junior Taskmaster S1 Ep.6 — speakers: Lou Sanders Junior, Lou Sanders, Ed Gamble
+- 2024-12-06 — Ep 186. Jack Bernhardt - Junior Taskmaster S1 Ep.5 — speakers: Jack Bernhardt Junior, Tonight Ed, Jack Bernhardt, Ed Gamble
+- 2024-11-29 — Ep 185. Alex Horne - Junior Taskmaster S1 Ep.4 — speakers: Alex Horne Junior, Alex Horne, Alex di, Ed Gamble
 - 2024-11-22 — Ep 184. Jenny Eclair - Junior Taskmaster S1 Ep.3 — speakers: Jenny Eclair Junior, Tonight Ed, Jenny Eclair, Ed Gamble
-- 2024-11-21 — *A special bonus episode of Taskmaster The Podcast* — speakers: Alex Horne, Jack Bernhardt, Ed Gamble
-- 2024-11-15 — Ep 183. Emma Sidi - Junior Taskmaster S1 Ep.2 — speakers: Emma Sidi Junior, Tonight Ed, Emma Sidi, Catch Emma, emma Order, Ed Gamble
+- 2024-11-21 — *A special bonus episode of Taskmaster The Podcast* — speakers: Attention Taskmaster, Ed Gamble
+- 2024-11-15 — Ep 183. Emma Sidi - Junior Taskmaster S1 Ep.2 — speakers: Emma Sidi Junior, Tonight Ed, Emma Sidi, Ed Gamble
 - 2024-11-14 — Ep 182. *Series 18 Winner* S18 Ep.10 — speakers: Ed Gamble
-- 2024-11-09 — Ep 181. Mike Wozniak - Junior Taskmaster S1 Ep.1 — speakers: Mike Wozniak Junior, Mike Wozniak, Ed Gamble
+- 2024-11-09 — Ep 181. Mike Wozniak - Junior Taskmaster S1 Ep.1 — speakers: Mike Wozniak Junior, Ed Gamble
 - 2024-11-07 — Ep 180. Rosie Jones - S18 Ep.9 — speakers: Rosie Jones, Ed Gamble
 - 2024-10-31 — Ep 179. Desiree Burch - S18 Ep.8 — speakers: Ed Gamble
-- 2024-10-24 — Ep 178. Ivo Graham - S18 Ep.7 — speakers: Joining Ed, Ivo Graham, Rosie Jones, Ed Gamble
-- 2024-10-17 — Ep 177. Jack Bernhardt - S18 Ep.6 — speakers: Jack Bernhardt, Jenny Eclair Preorder, Ed Gamble
+- 2024-10-24 — Ep 178. Ivo Graham - S18 Ep.7 — speakers: Joining Ed, Ivo Graham, Ed Gamble
+- 2024-10-17 — Ep 177. Jack Bernhardt - S18 Ep.6 — speakers: Ed Gamble
 - 2024-10-10 — Ep 176. Jack Dee - S18 Ep.5 — speakers: Jack Dee, Ed Gamble
-- 2024-10-03 — Ep 175. Andy Zaltzman - S18 Ep.4 — speakers: Andy Zaltzman, Ed Gamble
-- 2024-09-26 — Ep 174. Emma Sidi - S18 Ep.3 — speakers: Emma Sidi, Ed Gamble
+- 2024-10-03 — Ep 175. Andy Zaltzman - S18 Ep.4 — speakers: Ed Gamble
+- 2024-09-26 — Ep 174. Emma Sidi - S18 Ep.3 — speakers: Ed Gamble
 - 2024-09-19 — Ep 173. John Robins - S18 Ep.2 — speakers: John Robins, Ed Gamble
-- 2024-09-12 — Ep 172. Babatunde Aléshé - S18 Ep.1 — speakers: Leonie Aléshé, Ed Gamble
-- 2024-09-05 — Ep 171. Leigh Hart - TM NZ S1 Ep.10 — speakers: Leigh Hart, Ed Gamble
-- 2024-08-29 — Ep 170. Kura Forrester - TM NZ S1 Ep.9 — speakers: Kura Forrester, Ed Gamble
-- 2024-08-22 — Ep 169. Chris Parker - TM NZ S1 Ep.8 — speakers: Chris Parker, Ed Gamble
+- 2024-09-12 — Ep 172. Babatunde Aléshé - S18 Ep.1 — speakers: Ed Gamble
+- 2024-09-05 — Ep 171. Leigh Hart - TM NZ S1 Ep.10 — speakers: Ed Gamble
+- 2024-08-29 — Ep 170. Kura Forrester - TM NZ S1 Ep.9 — speakers: Kura Forr, Ed Gamble
+- 2024-08-22 — Ep 169. Chris Parker - TM NZ S1 Ep.8 — speakers: Ed Gamble
 - 2024-08-15 — Ep. 168. Madeleine Sami - TM NZ S1. Ep 7 — speakers: Madeleine Sami, Ed Gamble
 - 2024-08-08 — Ep. 167. Angella Dravid - TM NZ S1. Ep6 — speakers: Angella Dravid, Ed Gamble
 - 2024-08-01 — Ep 166. Alice Snedden - TM NZ S1. Ep 5 — speakers: Alice Snedden, Ed Gamble
 - 2024-07-25 — Ep 165. Guy Williams - TM NZ S1. Ep 4 — speakers: Guy Williams, Ed Gamble
-- 2024-07-18 — Ep 164. Paul Williams - TM NZ S1. Ep 3 — speakers: Paul Williams, Ed Gamble
-- 2024-07-11 — Ep 163. Brynley Stent - TM NZ S1. Ep2 — speakers: Brynley Stent, Catch Brynley, Ed Gamble
-- 2024-07-04 — Ep 162. Jack Bernhardt - TM NZ S1 EP.1 — speakers: Ed Gamble, Jack Bernhardt
-- 2024-06-27 — Series 17 Best of #2 — speakers: Jenny Recaldin, Daisy Knight, Ed Gamble
-- 2024-06-20 — Series 17 Best of #1 — speakers: Lou Sanders, Jenny Recaldin, Daisy Knight, Ed Gamble
-- 2024-06-10 — Taskmaster The People's Podcast with Special Guest John Robins — speakers: John Robins, Jenny Eclair, Jack Bernhardt, goof Jack-related, Christine Macdonald, Ed Gamble
+- 2024-07-18 — Ep 164. Paul Williams - TM NZ S1. Ep 3 — speakers: Ed Gamble
+- 2024-07-11 — Ep 163. Brynley Stent - TM NZ S1. Ep2 — speakers: Brynley Stent, Ed Gamble
+- 2024-07-04 — Ep 162. Jack Bernhardt - TM NZ S1 EP.1 — speakers: Ed Gamble
+- 2024-06-27 — Series 17 Best of #2 — speakers: Join Ed Gamble, Ed Gamble
+- 2024-06-20 — Series 17 Best of #1 — speakers: Join Ed Gamble, Ed Gamble
+- 2024-06-10 — Taskmaster The People's Podcast with Special Guest John Robins — speakers: John Robins, Jenny Eclair, Jack Bernhardt, Ed Gamble
 - 2024-05-30 — Ep 161. *Series 17 Winner* S17 Ep.10 — speakers: Ed Gamble
-- 2024-05-23 — Ep 160. Kiell Smith-Bynoe - S17, Ep.9 — speakers: Bart Simpson, Ed Gamble
+- 2024-05-23 — Ep 160. Kiell Smith-Bynoe - S17, Ep.9 — speakers: Ed Gamble
 - 2024-05-16 — Ep 159. Sophie Willan - S17 Ep.8 — speakers: Ed Gamble
-- 2024-05-09 — Ep 158. Chris Ramsey - S17 Ep.7 — speakers: Chris Ramsey, Nick Mohammed, Ed Gamble
+- 2024-05-09 — Ep 158. Chris Ramsey - S17 Ep.7 — speakers: Chris Ramsey, Ed Gamble
 - 2024-05-02 — EP 157. Paul F. Tompkins - S17 Ep.6 — speakers: Ed Gamble
 - 2024-04-25 — Ep 156. Joanne McNally - S17 Ep.5 — speakers: Joanne McNally, Ed Gamble
 - 2024-04-18 — Ep 155. Nick Mohammed - S17 Ep.4 — speakers: Nick Mohammed, Ed Gamble
-- 2024-04-11 — Ep 154. Lou Sanders - S17, Ep.3 — speakers: Lou Sanders, John Robins, Ed Gamble
+- 2024-04-11 — Ep 154. Lou Sanders - S17, Ep.3 — speakers: Lou Sanders, Ed Gamble
 - 2024-04-04 — Ep 153. Steve Pemberton - S17 Ep.2 — speakers: Steve Pemberton, Ed Gamble
-- 2024-03-28 — Ep 152. John Robins - S17 Ep.1 — speakers: John Robins, John Robins Watch, Ed Gamble
+- 2024-03-28 — Ep 152. John Robins - S17 Ep.1 — speakers: Ed Gamble
 - 2024-01-14 — Ep 151. *Champion of Champions #3 Winner* — speakers: Ed Gamble
 - 2024-01-02 — Ep 150. *New Year's Treat Winner* — speakers: Ed Gamble
-- 2023-12-21 — Series 16 Best of #2 — speakers: John Kearns, Ed Gamble
-- 2023-12-14 — Series 16 Best of #1 — speakers: John Kearns, Ed Gamble
-- 2023-12-04 — Taskmaster The People's Podcast — speakers: Christine Macdonald, Ed Gamble
+- 2023-12-21 — Series 16 Best of #2 — speakers: Ed Gamble
+- 2023-12-14 — Series 16 Best of #1 — speakers: Ed Gamble
+- 2023-12-04 — Taskmaster The People's Podcast — speakers: Ed Gamble
 - 2023-11-23 — Ep 149. *Series 16 Winner* - S16 Ep.10 — speakers: Ed Gamble
 - 2023-11-16 — Ep 148. John Kearns - S16 Ep.9 — speakers: John Kearns, Ed Gamble
-- 2023-11-09 — Ep 147. Greg Jenner - S16 Ep.8 — speakers: Greg Jenner, Ed Gamble
-- 2023-11-02 — Ep 146. Mark Watson - S16 Ep.7 — speakers: Mark Watson, Ed Gamble
+- 2023-11-09 — Ep 147. Greg Jenner - S16 Ep.8 — speakers: Ed Gamble
+- 2023-11-02 — Ep 146. Mark Watson - S16 Ep.7 — speakers: Mark Watso, Ed Gamble
 - 2023-10-26 — Ep 145. Susan Wokoma - Series 16 Ep.6 — speakers: Susan Wokoma, Ed Gamble
-- 2023-10-19 — Ep 144. Sue Perkins - S16 Ep.5 — speakers: Sue Perkins, Susan Wokoma, Ed Gamble
-- 2023-10-12 — Ep 143. Julian Clary - S16 Ep.4 — speakers: Julian Clary, Josh Widdicombe, Ed Gamble
+- 2023-10-19 — Ep 144. Sue Perkins - S16 Ep.5 — speakers: Sue Perkins, Ed Gamble
+- 2023-10-12 — Ep 143. Julian Clary - S16 Ep.4 — speakers: Julian Clary, Ed Gamble
 - 2023-10-05 — Ep 142. Lucy Beaumont - S16 Ep.3 — speakers: Lucy Beaumont, Ed Gamble
 - 2023-09-28 — Ep 141. Sam Campbell - S16 Ep.2 — speakers: Sam Campbell, Ed Gamble
 - 2023-09-21 — Ep 140. Ivo Graham - S16 Ep.1 — speakers: Ivo Graham, Ed Gamble
 - 2023-07-27 — Ep 139. Rose Matafeo - S9 Ep.10 — speakers: Ed Gamble
-- 2023-07-14 — Ep 138. Jenny Eclair - S9 Ep.9 — speakers: Joining Ed, Jenny Eclair, Ed Gamble
+- 2023-07-14 — Ep 138. Jenny Eclair - S9 Ep.9 — speakers: Joining Ed, Ed Gamble
 - 2023-07-06 — Ep 137. Paul Williams - S9 Ep.8 — speakers: Paul Williams, Ed Gamble
 - 2023-06-29 — Ep 136. Sophie Duker - S9 Ep.7 — speakers: Ed Gamble
 - 2023-06-22 — Ep 135. Paul Chowdhry - S9 Ep.6 — speakers: Paul Chowdhry, Ed Gamble
 - 2023-06-15 — Ep 134. Greg Davies - S9 Ep.5 — speakers: Ed Gamble
 - 2023-06-08 — Taskmaster The Podcast: Best of #3 — speakers: John Kearns, Ed Gamble
 - 2023-06-01 — Ep 133. *Series 15 Winner* S15 Ep.10 — speakers: Ed Gamble
-- 2023-05-25 — Ep 132. Sally Phillips - S15 Ep.9 — speakers: Sally Phillips, Ed Gamble
-- 2023-05-18 — Ep 131. Series Director - Andy Devonshire - S15 Ep.8 — speakers: Andy Devonshire, Exec Producer, Ed Gamble
-- 2023-05-11 — Ep 130. Chris Parker - S15 Ep.7 — speakers: Joining Ed, Chris Parker, Jenny Eclair, Ed Gamble
+- 2023-05-25 — Ep 132. Sally Phillips - S15 Ep.9 — speakers: Ed Gamble
+- 2023-05-18 — Ep 131. Series Director - Andy Devonshire - S15 Ep.8 — speakers: Ed Gamble
+- 2023-05-11 — Ep 130. Chris Parker - S15 Ep.7 — speakers: Joining Ed, Ed Gamble
 - 2023-05-04 — Ep 129. Charlotte Ritchie - S15 Ep.6 — speakers: Charlotte Ritchie, Ed Gamble
-- 2023-04-27 — Ep 128. Ivo Graham - S15 Ep.5 — speakers: Frankie Boyle, Ed Gamble
+- 2023-04-27 — Ep 128. Ivo Graham - S15 Ep.5 — speakers: Ed Gamble
 - 2023-04-20 — Ep 127. Frankie Boyle - S15 Ep.4 — speakers: Frankie Boyle, Ed Gamble
 - 2023-04-13 — Ep 126. Jenny Eclair - S15 Ep.3 — speakers: Jenny Eclair, Ed Gamble
-- 2023-04-06 — Ep 125. Kiell Smith-Bynoe - S15 Ep.2 — speakers: Kiell Smith-Bynoe, Ed Gamble
+- 2023-04-06 — Ep 125. Kiell Smith-Bynoe - S15 Ep.2 — speakers: Ed Gamble
 - 2023-03-30 — Ep 124. Dara Ó Briain - S15 Ep.1 — speakers: Ed Gamble
-- 2023-03-23 — Ep 123. Hugh Dennis - S9 Ep.4 — speakers: Hugh Dennis, David Baddiel, Briain Watch, Ed Gamble
+- 2023-03-23 — Ep 123. Hugh Dennis - S9 Ep.4 — speakers: Hugh Dennis, Ed Gamble
 - 2023-03-16 — Ep 122. Nish Kumar - S9 Ep.3 — speakers: Nish Kumar, Ed Gamble
 - 2023-03-09 — Ep 121. Jo Brand - S9 Ep.2 — speakers: Jo Brand, Ed Gamble
-- 2023-03-02 — Ep 120. David Baddiel - S9 Ep.1 — speakers: David Baddiel, Ed Gamble
+- 2023-03-02 — Ep 120. David Baddiel - S9 Ep.1 — speakers: Ed Gamble
 - 2023-02-23 — Ep 119. Urzila Carlson - S8 Ep.10 — speakers: Urzila Carlson, Ed Gamble
 - 2023-02-16 — Ep 118 - Rebecca Lucy Taylor AKA Self Esteem - S8 Ep.9 — speakers: Lucy Taylor, Rebecca Lucy Taylor, Ed Gamble
-- 2023-02-09 — Ep 117. Alex Horne - S8 Ep.8 — speakers: Alex Horne, Ed Gamble
+- 2023-02-09 — Ep 117. Alex Horne - S8 Ep.8 — speakers: Alex Horne, digs de, Ed Gamble
 - 2023-02-02 — Ep 116. John Kearns - S8 Ep.7 — speakers: John Kearns, Ed Gamble
 - 2023-01-26 — Ep 115. Iain Stirling - S8 Ep.6 — speakers: Ed Gamble
-- 2023-01-19 — Ep 114. Lou Sanders - S8 Ep.5 — speakers: Lou Sanders, Jack Bernhardt, Ed Gamble
-- 2023-01-12 — Ep 113. Series Producer - Andy Cartwright - S8 Ep.4 — speakers: Andy Cartwright, Ed Gamble
+- 2023-01-19 — Ep 114. Lou Sanders - S8 Ep.5 — speakers: Lou Sanders, Ed Gamble
+- 2023-01-12 — Ep 113. Series Producer - Andy Cartwright - S8 Ep.4 — speakers: Ed Gamble
 - 2023-01-05 — Ep 112 - Joe Thomas - S8 Ep.3 — speakers: Joe Thomas, Ed Gamble
-- 2023-01-01 — Ep 111. New Year's Treat with Greg James — speakers: Greg James, Joe Thomas, Ed Gamble
-- 2022-12-22 — Ep 110. Paul Sinha - S8 Ep.2 — speakers: Paul Sinha, Ed Gamble
+- 2023-01-01 — Ep 111. New Year's Treat with Greg James — speakers: Greg James, Ed Gamble
+- 2022-12-22 — Ep 110. Paul Sinha - S8 Ep.2 — speakers: Paul Sin, Ed Gamble
 - 2022-12-08 — Ep 108. Paul F. Tompkins - S7 Ep.10 — speakers: Ed Gamble
 - 2022-12-01 — Ep 107. *The Final* - S14 Ep.10 — speakers: Ed Gamble
-- 2022-11-24 — Ep 106. Greg Jenner - S14 Ep.9 — speakers: Greg Jenner, John Kearns, Ed Gamble
+- 2022-11-24 — Ep 106. Greg Jenner - S14 Ep.9 — speakers: Greg Jenner, Ed Gamble
 - 2022-11-17 — Ep 105. Richard Herring - S14 Ep.8 — speakers: Ed Gamble
 - 2022-11-10 — Ep 104. Sarah Kendall - S14 Ep.7 — speakers: Sarah Kendall, Ed Gamble
-- 2022-11-03 — Ep 103. Dara Ó Briain - S14 Ep.6 — speakers: Philip Schofield, Ed Gamble
+- 2022-11-03 — Ep 103. Dara Ó Briain - S14 Ep.6 — speakers: Ed Gamble
 - 2022-10-27 — Ep 102. Rose Matafeo - S14 Ep.5 — speakers: Rose Matafeo, Ed Gamble
 - 2022-10-20 — Ep 101. Fern Brady - S14 Ep.4 — speakers: Fern Brady, Ed Gamble
-- 2022-10-13 — Ep 100. John Kearns - S14 Ep.3 — speakers: John Kearns, Ed Gamble
+- 2022-10-13 — Ep 100. John Kearns - S14 Ep.3 — speakers: Ed Gamble
 - 2022-10-06 — Ep 99. Dave Gorman - S14 Ep.2 — speakers: Dave Gorman, Ed Gamble
-- 2022-09-29 — Ep 98. Chris Ramsey - S14 Ep.1 — speakers: Chris Ramsey, Ed Gamble
+- 2022-09-29 — Ep 98. Chris Ramsey - S14 Ep.1 — speakers: Ed Gamble
 - 2022-09-22 — Ep 97. James Acaster - S7 Ep.9 — speakers: James Acaster, Ed Gamble
 - 2022-09-15 — Ep 96. Nish Kumar - S7 Ep.8 — speakers: Ed Gamble
 - 2022-09-08 — Ep 95. Jack Bernhardt - S7 EP.7 — speakers: Ed Gamble
-- 2022-09-01 — Ep 94. Tim Key - S7 Ep.6 — speakers: Mrs Mangel, Ed Gamble
-- 2022-08-25 — Ep 93. Brynley Stent - S7 Ep.5 — speakers: Brynley Stent, Follow Brynley, Ed Gamble
+- 2022-09-01 — Ep 94. Tim Key - S7 Ep.6 — speakers: Ed Gamble
+- 2022-08-25 — Ep 93. Brynley Stent - S7 Ep.5 — speakers: Brynley Stent, Ed Gamble
 - 2022-08-18 — Ep 92. Katy Wix - S7 Ep.4 — speakers: Katy Wix, Ed Gamble
 - 2022-08-11 — Ep 91. Phil Wang - S7 Ep.3 — speakers: Phil Wang, Ed Gamble
 - 2022-08-04 — Ep 90. Liza Tarbuck - S7 Ep.2 — speakers: Liza Tarbuck, Ed Gamble
 - 2022-07-28 — Ep 89. Kerry Godliman - S7 Ep.1 — speakers: Kerry Godliman, Ed Gamble
 - 2022-07-21 — Taskmaster The Podcast: Best of Part 2 — speakers: Ed Gamble
 - 2022-07-14 — Taskmaster The Podcast: Best of Part 1 — speakers: Ed Gamble
-- 2022-06-30 — Ep 87. Laura Daniel - S6 Ep.9 — speakers: Laura Daniel, Follow Laura, Ed Gamble
+- 2022-06-30 — Ep 87. Laura Daniel - S6 Ep.9 — speakers: Ed Gamble
 - 2022-06-23 — Ep 86. *Champion of Champions #2 Winner* — speakers: Ed Gamble
 - 2022-06-16 — Ep 85. *Series 13 Winner* S13 Ep.10 — speakers: Ed Gamble
-- 2022-06-09 — Ep 84. Jack Bernhardt - S13 Ep.9 — speakers: Joining Ed, Jack Bernhardt, Ed Gamble
-- 2022-06-02 — Ep 83. Rosie Ramsey - S13 Ep.8 — speakers: Rosie Ramsey, Chris Ramsey, Ed Gamble
+- 2022-06-09 — Ep 84. Jack Bernhardt - S13 Ep.9 — speakers: Joining Ed, Ed Gamble
+- 2022-06-02 — Ep 83. Rosie Ramsey - S13 Ep.8 — speakers: Rosie Ramsey, Ed Gamble
 - 2022-05-26 — Ep 82. Rick Edwards - S13 Ep.7 — speakers: Rick Edwards, Ed Gamble
 - 2022-05-19 — Ep 81. Bridget Christie - S13 Ep.6 — speakers: Bridget Christie, Ed Gamble
-- 2022-05-12 — Ep 80. Chris Ramsey - S13 Ep.5 — speakers: Chris Ramsey, Daisy Knight, Ed Gamble
-- 2022-05-05 — Ep 79. Ardal O'Hanlon - S13 Ep.4 — speakers: Ardal O'Hanlon, Daisy Knight, Ed Gamble
-- 2022-04-28 — Ep 78. Lou Sanders - S13 Ep.3 — speakers: Joining Ed, Lou Sanders, Daisy Knight, Ed Gamble
-- 2022-04-21 — Ep 77. Sophie Duker - S13 Ep.2 — speakers: Daisy Knight, Ed Gamble
-- 2022-04-20 — Introducing Taskmaster: The People's Podcast — speakers: Lou Sanders, Jack Bernhardt, Taskmaster Superfans, Greg Davies, Ed Gamble
-- 2022-04-14 — Ep 76. Desiree Burch - S13 Ep.1 — speakers: Daisy Knight, Ed Gamble
-- 2022-04-07 — Ep 75. Dave Gorman - S6 Ep.8 — speakers: Dave Gorman, Alex Horne, Daisy Knight, Ed Gamble
-- 2022-03-31 — Ep 74. Sarah Kendall - S6 Ep.7 — speakers: Daisy Knight, Ed Gamble
-- 2022-03-24 — Ep 73. Tim Key - S6 Ep.6 — speakers: Tim Key, Daisy Knight, Ed Gamble
-- 2022-03-17 — Ep 72. Margaret Cabourn-Smith - S6 Ep.5 — speakers: Saint Bernard, Daisy Knight, Ed Gamble
-- 2022-03-10 — Ep 71. Chloe Petts - S6 Ep.4 — speakers: Comedian Chloe Petts, Liza Tarbuck, Follow Chloe, Twitter ChloePetts, Daisy Knight, Ed Gamble
-- 2022-03-03 — Ep 70. Russell Howard - S6 Ep.3 — speakers: Russell Howard, Daisy Knight, Ed Gamble
-- 2022-02-24 — Ep 69. Greg Jenner - S6 Ep.2 — speakers: Joining Ed, Daisy Knight, Ed Gamble
-- 2022-02-17 — Ep 68. Tim Vine - S6 Ep.1 — speakers: Tim Vine, Sledge Ravine, Daisy Knight, Ed Gamble
-- 2022-02-10 — Ep 67. Alex Horne - Champion of Champions S1-5 Ep.2 — speakers: Alex Horne Champion, Alex Horne, Daisy Knight, Ed Gamble
-- 2022-02-03 — Ep 66. Guz Khan - Champion of Champions S1-5 Ep.1 — speakers: Bob Mortimer, Josh Widdicombe, Katherine Ryan, Noel Fielding, Rob Beckett, Daisy Knight, Ed Gamble
-- 2022-01-27 — Ep 65. Kerry Godliman - S5 Ep.8 — speakers: Kerry Godliman, Daisy Knight, Ed Gamble
-- 2022-01-20 — Ep 64. Aisling Bea - S5 Ep.7 — speakers: Aisling Bea, Daisy Knight, Ed Gamble
-- 2022-01-13 — Ep 63. Jack Bernhardt - S5 Ep.6 — speakers: Jack Bernhardt, Follow Jack, Daisy Knight, Ed Gamble
-- 2022-01-06 — Ep 62. Mark Watson - S5 Ep.5 — speakers: Mark Watson, Daisy Knight, Ed Gamble
-- 2022-01-01 — Ep 61. New Year's Treat — speakers: Daisy Knight, Ed Gamble
-- 2021-12-23 — Ep 60. Lou Sanders - S5 Ep.4 — speakers: Lou Sanders, Daisy Knight, Ed Gamble
-- 2021-12-16 — Ep 59. Josh Widdicombe - S5 Ep.3 — speakers: Daisy Knight, Ed Gamble
-- 2021-12-09 — Ep 58. Guy Montgomery - S5 Ep.2 — speakers: Guy Montgomery, Daisy Knight, Ed Gamble
-- 2021-12-02 — Ep 57. Nish Kumar - S5 Ep.1 — speakers: Nish Kumar, Aisling Bea, Bob Mortimer, Mark Watson, Sally Phillips, Daisy Knight, Ed Gamble
-- 2021-11-25 — Ep 56. *Series 12 Winner* - S12 Ep.10 — speakers: Daisy Knight, Ed Gamble
-- 2021-11-18 — Ep 55. Richard Herring - S12 Ep.9 — speakers: Richard Herring, Order Bring, Daisy Knight, Ed Gamble
-- 2021-11-11 — Ep 54. Liza Tarbuck – S12 Ep.8 — speakers: Liza Tarbuck, Order Bring, Daisy Knight, Ed Gamble
-- 2021-11-04 — Ep 53. Al Murray – S12 Ep.7 — speakers: Al Murray, Daisy Knight, Ed Gamble
-- 2021-10-28 — Ep 52. Alan Davies – S12 Ep.6 — speakers: Alan Davies, Order Bring, Daisy Knight, Ed Gamble
+- 2022-05-12 — Ep 80. Chris Ramsey - S13 Ep.5 — speakers: Chris Ramsey, Ed Gamble
+- 2022-05-05 — Ep 79. Ardal O'Hanlon - S13 Ep.4 — speakers: Ardal O'Hanlon, Ed Gamble
+- 2022-04-28 — Ep 78. Lou Sanders - S13 Ep.3 — speakers: Joining Ed, Ed Gamble
+- 2022-04-21 — Ep 77. Sophie Duker - S13 Ep.2 — speakers: Ed Gamble
+- 2022-04-20 — Introducing Taskmaster: The People's Podcast — speakers: Introducing Taskmaster, Ed Gamble
+- 2022-04-14 — Ep 76. Desiree Burch - S13 Ep.1 — speakers: Ed Gamble
+- 2022-04-07 — Ep 75. Dave Gorman - S6 Ep.8 — speakers: Dave Gorman, Ed Gamble
+- 2022-03-31 — Ep 74. Sarah Kendall - S6 Ep.7 — speakers: Ed Gamble
+- 2022-03-24 — Ep 73. Tim Key - S6 Ep.6 — speakers: Ed Gamble
+- 2022-03-17 — Ep 72. Margaret Cabourn-Smith - S6 Ep.5 — speakers: Ed Gamble
+- 2022-03-10 — Ep 71. Chloe Petts - S6 Ep.4 — speakers: Comedian Chloe Petts, Ed Gamble
+- 2022-03-03 — Ep 70. Russell Howard - S6 Ep.3 — speakers: Russell Howard, Ed Gamble
+- 2022-02-24 — Ep 69. Greg Jenner - S6 Ep.2 — speakers: Joining Ed, Ed Gamble
+- 2022-02-17 — Ep 68. Tim Vine - S6 Ep.1 — speakers: Tim Vin, Ed Gamble
+- 2022-02-10 — Ep 67. Alex Horne - Champion of Champions S1-5 Ep.2 — speakers: Alex Horne Champion, Ed Gamble
+- 2022-02-03 — Ep 66. Guz Khan - Champion of Champions S1-5 Ep.1 — speakers: Ed Gamble
+- 2022-01-27 — Ep 65. Kerry Godliman - S5 Ep.8 — speakers: Kerry Godliman, Ed Gamble
+- 2022-01-20 — Ep 64. Aisling Bea - S5 Ep.7 — speakers: Ed Gamble
+- 2022-01-13 — Ep 63. Jack Bernhardt - S5 Ep.6 — speakers: Jack Bernhardt, Ed Gamble
+- 2022-01-06 — Ep 62. Mark Watson - S5 Ep.5 — speakers: Mark Watson, Ed Gamble
+- 2022-01-01 — Ep 61. New Year's Treat — speakers: New Year, Ed Gamble
+- 2021-12-23 — Ep 60. Lou Sanders - S5 Ep.4 — speakers: Ed Gamble
+- 2021-12-16 — Ep 59. Josh Widdicombe - S5 Ep.3 — speakers: Ed Gamble
+- 2021-12-09 — Ep 58. Guy Montgomery - S5 Ep.2 — speakers: Guy Montgomery, Ed Gamble
+- 2021-12-02 — Ep 57. Nish Kumar - S5 Ep.1 — speakers: Nish Kumar, Ed Gamble
+- 2021-11-25 — Ep 56. *Series 12 Winner* - S12 Ep.10 — speakers: Ed Gamble
+- 2021-11-18 — Ep 55. Richard Herring - S12 Ep.9 — speakers: Ed Gamble
+- 2021-11-11 — Ep 54. Liza Tarbuck – S12 Ep.8 — speakers: Liza Tarbuck, Ed Gamble
+- 2021-11-04 — Ep 53. Al Murray – S12 Ep.7 — speakers: Al Murray, Ed Gamble
+- 2021-10-28 — Ep 52. Alan Davies – S12 Ep.6 — speakers: Alan Davies, Ed Gamble
 - 2021-10-21 — Ep 51. David Correos – S12 Ep.5 — speakers: David Correos, Ed Gamble
-- 2021-10-14 — Ep 50. Victoria Coren Mitchell - S12 Ep.4 — speakers: Victoria Coren Mitchell, Order Bring, Daisy Knight, Ed Gamble
-- 2021-10-07 — Ep 49. Desiree Burch - S12 Ep.3 — speakers: Desiree Burch, Order Bring, Daisy Knight, Ed Gamble
-- 2021-09-30 — Ep 48. Paul Williams – S12 Ep.2 — speakers: Paul Williams, Order Bring, Daisy Knight, Ed Gamble
-- 2021-09-23 — Ep 47.Mike Wozniak - S12 Ep.1 — speakers: Mike Wozniak, Order Bring, Daisy Knight, Ed Gamble
+- 2021-10-14 — Ep 50. Victoria Coren Mitchell - S12 Ep.4 — speakers: Victoria Coren Mitchell, Ed Gamble
+- 2021-10-07 — Ep 49. Desiree Burch - S12 Ep.3 — speakers: Ed Gamble
+- 2021-09-30 — Ep 48. Paul Williams – S12 Ep.2 — speakers: Paul Williams, Ed Gamble
+- 2021-09-23 — Ep 47.Mike Wozniak - S12 Ep.1 — speakers: Ed Gamble
 - 2021-09-09 — Taskmaster Series 12 - Podcast Trailer — speakers: Ed Gamble
-- 2021-08-19 — Ep 46. Jack Bernhardt – S4 Ep.8 — speakers: Jack Bernhardt, Book Club, Daisy Knight, Ed Gamble
-- 2021-07-29 — Ep 43. Iain Stirling – S4 Ep.5 — speakers: Daisy Knight, Ed Gamble
-- 2021-07-22 — Ep 42. Mel Giedroyc – S4 Ep.4 — speakers: Mel Giedroyc, Desky Dennis, Daisy Knight, Ed Gamble
-- 2021-07-15 — Ep 41. Hugh Dennis – S4 Ep.3 — speakers: Hugh Dennis, Daisy Knight, Ed Gamble
-- 2021-07-08 — Ep 40. Jack Bernhardt - S4 Ep.2 — speakers: Jack Bernhardt, Alex Horne, Find Jack, Daisy Knight, Ed Gamble
-- 2021-07-01 — Ep 39. Mark Watson – S4 Ep.1 — speakers: Mark Watson, Noel Fielding, Daisy Knight, Ed Gamble
-- 2021-06-24 — Ep 38. Maisie Adam – S3 EP.5 — speakers: Maisie Adam, Dave Gorman, Paul Chowdhry, Daisy Knight, Ed Gamble
-- 2021-06-10 — Ep 36. Katy Wix - S3 Ep.3 — speakers: Katy Wix, Daisy Knight, Ed Gamble
-- 2021-06-03 — Ep 35. Dave Gorman - S3 Ep.2 — speakers: Dave Gorman, Daisy Knight, Ed Gamble
-- 2021-05-27 — Ep 34. Al Murray – S3 Ep.1 — speakers: Al Murray, Daisy Knight, Ed Gamble
-- 2021-05-20 — Ep 33. Alex Horne & Series 11 Champion – S11 Ep.10 — speakers: Daisy Knight, Ed Gamble
-- 2021-05-13 — Ep 32. Margaret Cabourn-Smith - S11 Ep.9 — speakers: Comedy Actress, Daisy Knight, Ed Gamble
-- 2021-05-06 — Ep 31. Lee Mack - S11 Ep.8 — speakers: Daisy Knight, Ed Gamble
-- 2021-04-29 — Ep 30. Charlotte Ritchie - S11 Ep.7 — speakers: Charlotte Ritchie, Daisy Knight, Ed Gamble
-- 2021-04-22 — Ep 29. Mike Wozniak - S11 Ep.6 — speakers: Mike Wozniak, Daisy Knight, Ed Gamble
-- 2021-04-15 — Ep 28. Sarah Kendall - S11 Ep.5 — speakers: Sarah Kendall, Daisy Knight, Ed Gamble
-- 2021-04-08 — Ep 27. Rick Edwards - S11 Ep.4 — speakers: Rick Edwards, Taskmaster Bleeped, Daisy Knight, Ed Gamble
-- 2021-04-01 — Ep 26. Katherine Parkinson - S11 Ep.3 — speakers: Katherine Parkinson, Taskmaster Bleeped, Daisy Knight, Ed Gamble
-- 2021-03-25 — Ep 25. Jamali Maddix - S11 Ep.2 — speakers: Jamali Maddix, Taskmaster Bleeped, Daisy Knight, Ed Gamble
-- 2021-03-18 — Ep 24. Richard Herring - S11 Ep.1 — speakers: Daisy Knight, Ed Gamble
-- 2021-03-11 — Ep 23. Richard Osman - S2 Ep.5 — speakers: Richard Osman, Daisy Knight, Ed Gamble
-- 2021-03-11 — Ep 22. Kerry Godliman - S2 Ep.4 — speakers: Kerry Godliman, Human Tapas, Jon Richardson, Daisy Knight, Ed Gamble
-- 2021-03-04 — Ep 21. Ben Bailey Smith AKA Doc Brown - S2 Ep.3 — speakers: Ben Bailey Smith, Doc Brown, Daisy Knight, Ed Gamble
-- 2021-02-25 — Ep 20. Sian Gibson - S2 Ep.2 — speakers: Sian Gibson, Joe Wilkinson, Daisy Knight, Ed Gamble
-- 2021-02-18 — Ep 19. Joe Wilkinson - S2 Ep.1 — speakers: Joe Wilkinson, Daisy Knight, Ed Gamble
-- 2021-02-11 — Ep 18. Romesh Ranganathan - S1 Ep.6 — speakers: Tree Wizard, Melon Buffet, Daisy Knight, Ed Gamble
-- 2021-02-04 — Ep 17. Jayde Adams - S1 Ep.5 — speakers: Jayde Adams, Daisy Knight, Ed Gamble
-- 2021-01-28 — Ep 16. Nicola Coughlan - S1 Ep.4 — speakers: Derry Girls, Daisy Knight, Ed Gamble
-- 2021-01-21 — Ep 15. Josh Widdicombe - S1 Ep.3 — speakers: Daisy Knight, Ed Gamble
-- 2021-01-14 — Ep 14.Tim Key - S1 Ep.2 — speakers: Tim Key, Tree Wizard, Daisy Knight, Ed Gamble
-- 2021-01-07 — Ep 13. Alex Horne - S1 Ep.1 — speakers: Alex Horne, Daisy Knight, Ed Gamble
-- 2021-01-01 — Ep 12. Taskmaster's New Year Treat - Scroobius Pip — speakers: Joining Ed, Taskmaster Fan Scroobius Pip, Shirly Ballas, Daisy Knight, Ed Gamble
-- 2020-12-24 — Ep 11. Greg Davies — speakers: Greg Davies, Daisy Knight, Ed Gamble
-- 2020-12-17 — Ep 10. *Series 10 Champion* — speakers: Daisy Knight, Ed Gamble
-- 2020-12-10 — Ep 9. Katy Wix — speakers: Katy Wix, Daisy Knight, Ed Gamble
-- 2020-12-03 — Ep 8. Richard Osman — speakers: Richard Osman, Daisy Knight, Ed Gamble
-- 2020-11-26 — Ep 7. Rose Matafeo — speakers: Rose Matafeo, Daisy Knight, Ed Gamble
-- 2020-11-19 — Ep 6. Jess Knappett — speakers: Jess Knappett, Daisy Knight, Ed Gamble
-- 2020-11-12 — Ep 5. James Acaster — speakers: James Acaster, Daisy Knight, Ed Gamble
-- 2020-11-05 — Ep 4. Paul Chowdhry — speakers: Paul Chowdhry, Daisy Knight, Ed Gamble
-- 2020-10-29 — Ep 3. Jo Brand — speakers: Jo Brand, Alex Horne, Daisy Knight, Ed Gamble
-- 2020-10-22 — Ep 2. Nish Kumar — speakers: Alex Horne, Daisy Knight, Ed Gamble
-- 2020-10-15 — Ep 1. Alex Horne — speakers: Alex Horne, Ed Gamble, Daisy Knight
+- 2021-08-19 — Ep 46. Jack Bernhardt – S4 Ep.8 — speakers: Jack Bernhardt, Ed Gamble
+- 2021-07-29 — Ep 43. Iain Stirling – S4 Ep.5 — speakers: Ed Gamble
+- 2021-07-22 — Ep 42. Mel Giedroyc – S4 Ep.4 — speakers: Mel Giedroyc, Ed Gamble
+- 2021-07-15 — Ep 41. Hugh Dennis – S4 Ep.3 — speakers: Hugh Dennis, Ed Gamble
+- 2021-07-08 — Ep 40. Jack Bernhardt - S4 Ep.2 — speakers: Jack Bernhardt, Ed Gamble
+- 2021-07-01 — Ep 39. Mark Watson – S4 Ep.1 — speakers: Mark Watson, Ed Gamble
+- 2021-06-24 — Ep 38. Maisie Adam – S3 EP.5 — speakers: Maisie Adam, Ed Gamble
+- 2021-06-10 — Ep 36. Katy Wix - S3 Ep.3 — speakers: Ed Gamble
+- 2021-06-03 — Ep 35. Dave Gorman - S3 Ep.2 — speakers: Dave Gorman, Ed Gamble
+- 2021-05-27 — Ep 34. Al Murray – S3 Ep.1 — speakers: Al Murray, Ed Gamble
+- 2021-05-20 — Ep 33. Alex Horne & Series 11 Champion – S11 Ep.10 — speakers: Ed Gamble
+- 2021-05-13 — Ep 32. Margaret Cabourn-Smith - S11 Ep.9 — speakers: Comedy Actress, Ed Gamble
+- 2021-05-06 — Ep 31. Lee Mack - S11 Ep.8 — speakers: Ed Gamble
+- 2021-04-29 — Ep 30. Charlotte Ritchie - S11 Ep.7 — speakers: Charlotte Ritchie, Ed Gamble
+- 2021-04-22 — Ep 29. Mike Wozniak - S11 Ep.6 — speakers: Mike Wozniak, Ed Gamble
+- 2021-04-15 — Ep 28. Sarah Kendall - S11 Ep.5 — speakers: Sarah Kendall, Ed Gamble
+- 2021-04-08 — Ep 27. Rick Edwards - S11 Ep.4 — speakers: Rick Edwards, Ed Gamble
+- 2021-04-01 — Ep 26. Katherine Parkinson - S11 Ep.3 — speakers: Katherine Parkinson, Ed Gamble
+- 2021-03-25 — Ep 25. Jamali Maddix - S11 Ep.2 — speakers: Jamali Maddix, Ed Gamble
+- 2021-03-18 — Ep 24. Richard Herring - S11 Ep.1 — speakers: Ed Gamble
+- 2021-03-11 — Ep 23. Richard Osman - S2 Ep.5 — speakers: Richard Osman, Ed Gamble
+- 2021-03-11 — Ep 22. Kerry Godliman - S2 Ep.4 — speakers: Ed Gamble
+- 2021-03-04 — Ep 21. Ben Bailey Smith AKA Doc Brown - S2 Ep.3 — speakers: Ben Bailey Smith, Ed Gamble
+- 2021-02-25 — Ep 20. Sian Gibson - S2 Ep.2 — speakers: Ed Gamble
+- 2021-02-18 — Ep 19. Joe Wilkinson - S2 Ep.1 — speakers: Ed Gamble
+- 2021-02-11 — Ep 18. Romesh Ranganathan - S1 Ep.6 — speakers: Ed Gamble
+- 2021-02-04 — Ep 17. Jayde Adams - S1 Ep.5 — speakers: Jayde Adams, Ed Gamble
+- 2021-01-28 — Ep 16. Nicola Coughlan - S1 Ep.4 — speakers: Derry Girls, Ed Gamble
+- 2021-01-21 — Ep 15. Josh Widdicombe - S1 Ep.3 — speakers: Ed Gamble
+- 2021-01-14 — Ep 14.Tim Key - S1 Ep.2 — speakers: Ed Gamble
+- 2021-01-07 — Ep 13. Alex Horne - S1 Ep.1 — speakers: Ed Gamble
+- 2021-01-01 — Ep 12. Taskmaster's New Year Treat - Scroobius Pip — speakers: Joining Ed, Ed Gamble
+- 2020-12-24 — Ep 11. Greg Davies — speakers: Greg Davies, Ed Gamble
+- 2020-12-17 — Ep 10. *Series 10 Champion* — speakers: Ed Gamble
+- 2020-12-10 — Ep 9. Katy Wix — speakers: Katy Wix, Ed Gamble
+- 2020-12-03 — Ep 8. Richard Osman — speakers: Richard Osman, Ed Gamble
+- 2020-11-26 — Ep 7. Rose Matafeo — speakers: Rose Matafeo, Ed Gamble
+- 2020-11-19 — Ep 6. Jess Knappett — speakers: Jess Knappett, Jess Knappet, Ed Gamble
+- 2020-11-12 — Ep 5. James Acaster — speakers: James Acaster, Ed Gamble
+- 2020-11-05 — Ep 4. Paul Chowdhry — speakers: Paul Chowdhry, Ed Gamble
+- 2020-10-29 — Ep 3. Jo Brand — speakers: Jo Brand, Ed Gamble
+- 2020-10-22 — Ep 2. Nish Kumar — speakers: Ed Gamble
+- 2020-10-15 — Ep 1. Alex Horne — speakers: Alex Horne, Ed Gamble

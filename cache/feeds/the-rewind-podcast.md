@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `W/"13b18-p3sBQaw+B11KgyqqobViPls+Hgw"`
+- fetched_at: `2026-02-26T21:46:41+00:00`
+- checked_at: `2026-02-26T21:46:41+00:00`
+- etag: `W/"14281-rxZWOle9660SQll7AJJtRdvOcxo"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-02-26T21:46:41+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,35 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8b258eb75a15bbe1abe7681561cfc0abb5499b84",
+      "title": "Does A Knight of the Seven Kingdoms Bring the Juice Back to Thrones? | The Rewind Podcast",
+      "published_at": "2026-02-25T15:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Does-A-Knight-of-the-Seven-Kingdoms-Bring-the-Juice-Back-to-Thrones---The-Rewind-Podcast-e3flkbr",
+      "description": "It's about time we make another video game genre name. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/116100923/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2Fdf023d1b-91fa-b0f1-4f75-2dd449d1979c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "233678048",
+      "itunes_duration": "02:42:16",
+      "speakers": [
+        "Seven Kingdoms Bring",
+        "Juice Back",
+        "Second Wind",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "knight",
+        "seven",
+        "kingdoms",
+        "juice",
+        "thrones",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "0e89cf238c6299049fe074629772c3bb019a368d",
       "title": "Our Thoughts on Iron Lung, Fallout Season 2, and Wonder Man | The Rewind Podcast",
@@ -41,8 +70,6 @@
       "itunes_duration": "02:26:34",
       "speakers": [
         "Wonder Man",
-        "Iron Lung",
-        "Send Help",
         "Darren Mooney",
         "Jack Packard",
         "Marty Sliva"
@@ -119,7 +146,6 @@
       "itunes_duration": "03:21:32",
       "speakers": [
         "Rip Rob Reiner",
-        "Rob Reiner",
         "Darren Mooney",
         "Jack Packard",
         "Marty Sliva"
@@ -351,7 +377,7 @@
       "enclosure_length": "219208352",
       "itunes_duration": "02:32:13",
       "speakers": [
-        "Demon Hunters",
+        "KPop Demon Hunte",
         "Darren Mooney",
         "Jack Packard",
         "Marty Sliva"
@@ -429,6 +455,7 @@
       "itunes_duration": "02:27:41",
       "speakers": [
         "Denis Villeneuve",
+        "Denis Vill",
         "Darren Mooney",
         "Jack Packard",
         "Marty Sliva"
@@ -556,7 +583,6 @@
       "enclosure_length": "139423712",
       "itunes_duration": "01:36:49",
       "speakers": [
-        "Second Wind",
         "Darren Mooney",
         "Jack Packard",
         "Marty Sliva"
@@ -1012,10 +1038,11 @@
 
 ## Episodes (newest first)
 
-- 2026-02-11 — Our Thoughts on Iron Lung, Fallout Season 2, and Wonder Man | The Rewind Podcast — speakers: Wonder Man, Iron Lung, Send Help, Darren Mooney, Jack Packard, Marty Sliva
+- 2026-02-25 — Does A Knight of the Seven Kingdoms Bring the Juice Back to Thrones? | The Rewind Podcast — speakers: Seven Kingdoms Bring, Juice Back, Second Wind, Darren Mooney, Jack Packard, Marty Sliva
+- 2026-02-11 — Our Thoughts on Iron Lung, Fallout Season 2, and Wonder Man | The Rewind Podcast — speakers: Wonder Man, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-01-28 — Sinners' Record-Breaking Oscar Nominations | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-01-14 — We Need to Talk About Pluribus | The Rewind Podcast — speakers: Jenna Stoeber, Darren Mooney, Jack Packard, Marty Sliva
-- 2025-12-18 — Unpacking the Warner Bros. Sale, Christmas Media, and RIP Rob Reiner | The Rewind Podcast — speakers: Rip Rob Reiner, Rob Reiner, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-12-18 — Unpacking the Warner Bros. Sale, Christmas Media, and RIP Rob Reiner | The Rewind Podcast — speakers: Rip Rob Reiner, Darren Mooney, Jack Packard, Marty Sliva
 - 2025-12-05 — Wake Up Dead Man, Murder Mysteries, and More | The Rewind Podcast — speakers: Murder Mysteries, Darren Mooney, Jack Packard, Marty Sliva
 - 2025-11-19 — Gabbing About Predator: Badlands, The Running Man, Pluribus, and More! | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-11-05 — Jack and Darren Talk Star Trek for Two Hours | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
@@ -1024,15 +1051,15 @@
 - 2025-09-24 — The Long Walk, Demon Slayer: Infinity Castle, and More | The Rewind Podcast — speakers: Long Walk, Demon Slayer, Darren Mooney, Jack Packard, Marty Sliva
 - 2025-09-10 — The Conjuring: Last Rites, Highest 2 Lowest, and More | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-08-27 — Alien: Earth, Peacemaker Season 2, and More | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
-- 2025-08-12 — Weapons and The Naked Gun Prove Why Theaters Are Still King | The Rewind Podcast — speakers: Demon Hunters, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-08-12 — Weapons and The Naked Gun Prove Why Theaters Are Still King | The Rewind Podcast — speakers: KPop Demon Hunte, Darren Mooney, Jack Packard, Marty Sliva
 - 2025-07-30 — Did Either The Fantastic Four: First Steps or Happy Gilmore 2 Spark Joy? | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-07-16 — Where We Landed on Superman + Jurassic World Rebirth | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
-- 2025-07-02 — 28 Years Years Later + Denis Villeneuve's Bond Movie | The Rewind Podcast — speakers: Denis Villeneuve, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-07-02 — 28 Years Years Later + Denis Villeneuve's Bond Movie | The Rewind Podcast — speakers: Denis Villeneuve, Denis Vill, Darren Mooney, Jack Packard, Marty Sliva
 - 2025-06-18 — Chatting About Predators, Ballerinas, and Spaceballs | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-05-28 — Andor Isn't Just Top-Tier Star Wars, It's Top-Tier Television | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-05-15 — Thunderbolts* Thoughts and Our Summer Movie Preview | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-04-30 — Sinners Is the First Must-See Movie of 2025 | The Rewind Podcast — speakers: Until Dawn, Darren Mooney, Jack Packard, Marty Sliva
-- 2025-04-16 — A Minecraft Movie Has Saved Cinema | The Rewind Podcast — speakers: Second Wind, Darren Mooney, Jack Packard, Marty Sliva
+- 2025-04-16 — A Minecraft Movie Has Saved Cinema | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-04-02 — Hollywood's Eternal Obsession With Itself | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-03-19 — $450 Million Worth of Sci-Fi in Mickey 17 and The Electric State | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2025-03-05 — Who Are the Oscars Actually For? | The Rewind Podcast — speakers: Gene Hackman, Darren Mooney, Jack Packard, Marty Sliva
