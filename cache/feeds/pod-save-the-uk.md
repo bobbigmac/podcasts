@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-02-24T19:18:04+00:00`
-- checked_at: `2026-02-24T19:18:04+00:00`
-- etag: `W/"40757d914e2f778782b7016c360512ad"`
-- last_modified: `Tue, 24 Feb 2026 19:10:47 GMT`
+- fetched_at: `2026-02-26T07:15:52+00:00`
+- checked_at: `2026-02-26T07:15:52+00:00`
+- etag: `W/"c33608a4f314272be6877e34c9317d13"`
+- last_modified: `Thu, 26 Feb 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-02-24T19:18:04+00:00",
+  "fetched_at": "2026-02-26T07:15:52+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c6adf173439d186e93f3543dc47e0a034f568c57",
+      "title": "143: Are we stuck in never-ending political scandal? w/Ash Sarkar",
+      "published_at": "2026-02-26T04:00:00+00:00",
+      "link": "https://audioboom.com/posts/8866226",
+      "description": "This week Nish and Coco are joined by friend of the pod, Ash Sarkar from Novara Media to talk about political scandal, trust and compromise. Ash’s book, Minority Rule, has a new afterword which talks about two progressive movements which have tried to build different kinds of relationships with voters. Is that the way forward - or are we stuck in an endless cycle of broken promises from our leaders? One of those leaders - Keir Starmer - seems to be lurching from crisis to nightmare, so can he rise above the latest headlines about Peter Mandelson’s arrest and the Labour Together scandal? Plus Reform’s new immigration policies, the new proposals to change the SEND system - and some good news about two protest groups. CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK WISE: https://www.wise.com SURFSHARK: https://www.surfshark.com/podsave CODE: PODSAVE GUESTS Ash Sarkar, Contributing Editor at Novara Media and author of Minority Rule: Adventures in the Culture War - out now in paperback. USEFUL LINKS Jumaane Williams’ thoughtful response following the outcry about the handling of a racial slur at the Baftas. https://www.youtube.com/watch?v=FgaqKIxS4Hs&t=1s CREDITS Daily Express - YouTube Nigel Farage - YouTube @ sendra.uk - Instagram Nida Jafri Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43496983.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8866226.mp3?modified=1772055194&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3398",
+      "speakers": [
+        "Ash Sarkar",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "scandal",
+        "sarkar"
+      ]
+    },
     {
       "key": "fc02c68a423c41a1bd7218bf724adb1ca116eda9",
       "title": "142: Can she fix it? Hannah the plumber and politician on tackling Reform",
@@ -3520,6 +3541,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-26 — 143: Are we stuck in never-ending political scandal? w/Ash Sarkar — speakers: Ash Sarkar, Nish Kumar, Coco Khan
 - 2026-02-19 — 142: Can she fix it? Hannah the plumber and politician on tackling Reform — speakers: Cody Dahler, Nish Kumar, Coco Khan
 - 2026-02-12 — 141: McSweeney: the man who made Starmer and his ties to Mandelson — speakers: Nish Kumar, Coco Khan
 - 2026-02-05 — 140: Will Mandelson be Starmer’s downfall? — speakers: Will Mandelson, Nish Kumar, Coco Khan

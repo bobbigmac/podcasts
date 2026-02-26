@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-02-25T13:43:22+00:00`
-- checked_at: `2026-02-25T13:43:22+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpJd01qVTFNRFV4TVRjPTo6c2F4ZXNz"`
+- fetched_at: `2026-02-26T07:15:52+00:00`
+- checked_at: `2026-02-26T07:15:52+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpJd09EazJOVEl6TURVPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-02-25T13:43:22+00:00",
+  "fetched_at": "2026-02-26T07:15:52+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e0ca5e9533ed9918676216da4a53fc4227de4ab6",
+      "title": "He Unfollowed ME? | And Jordan’s Got The Itch",
+      "published_at": "2026-02-26T07:01:34+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/he-unfollowed-me-and-jordans-got-the-itch",
+      "description": "From the reason you unfollowed them to the words you've always mispronounced, there's plenty of your responses that give William and Jordan a giggle. There's also time for Jordan to revealing all about his chest and William's not happy about your birthday posts.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "28:06",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "jordan",
+        "itch"
+      ]
+    },
     {
       "key": "9eba108f6abbbce3376733ab4a83c4bcd23fb5c7",
       "title": "Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance",
@@ -13788,6 +13808,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-26 — He Unfollowed ME? | And Jordan’s Got The Itch — speakers: William Hanson, Jordan North
 - 2026-02-24 — Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance — speakers: William Hanson, Jordan North
 - 2026-02-20 — Jordan FAINTS | And Sushi With Half Pints — speakers: William Hanson, Jordan North
 - 2026-02-17 — Help There’s A Fishy Smell | And William Gets Chintzy — speakers: Fishy Smell, William Gets Chintzy, William Hanson, Jordan North

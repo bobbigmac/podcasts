@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-02-22T07:06:44+00:00`
-- checked_at: `2026-02-22T07:06:44+00:00`
-- etag: `W/"3d6d943189774bfe51f0dd2dc1003a0d"`
-- last_modified: `Sun, 22 Feb 2026 05:07:58 GMT`
+- fetched_at: `2026-02-26T07:15:52+00:00`
+- checked_at: `2026-02-26T07:15:52+00:00`
+- etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
+- last_modified: `Thu, 26 Feb 2026 05:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://audioboom.com/i/43053503.jpg",
-  "fetched_at": "2026-02-22T07:06:44+00:00",
+  "fetched_at": "2026-02-26T07:15:52+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "80891cee96c332f1bf4da3c5ddd087a09667efec",
+      "title": "A Message From Tom",
+      "published_at": "2026-02-26T05:00:00+00:00",
+      "link": "https://audioboom.com/posts/8865847",
+      "description": "Hello lovely listeners. Pottering with me, Tom Allen, is taking a short intermission. Yes, I’m stepping away from the garden for a few weeks, swapping my much loved Crocs for something altogether more seaworthy as I step aboard the West End stage in Titanique! But fear not. We shall return, and when we do there are plenty more delightful guests lined up, which I am very much looking forward to. With any luck we may even be greeted by a little Spring sunshine. Now, wouldn’t that be nice? In the meantime, do pop back next week for some of my favourite moments from the podcast so far, some Clippings if you will. And you can always head over to my YouTube for a nosey at my giant urn and to watch our wonderful guests in full.",
+      "image_url": "https://audioboom.com/i/43495433/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8865847.mp3?modified=1772024993&sid=5160692&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "69",
+      "speakers": [
+        "Tom Hello",
+        "Tom Allen"
+      ],
+      "topics": [
+        "message"
+      ]
+    },
     {
       "key": "6f8d531a89776fb362681bab9fdfa0358d9340aa",
       "title": "Charlie Baker and Sam Battersea",
@@ -41,7 +60,6 @@
       "speakers": [
         "Charlie Baker",
         "Sam Battersea",
-        "Pat St Clement",
         "Tom Allen"
       ],
       "topics": [
@@ -63,8 +81,6 @@
       "itunes_duration": "3334",
       "speakers": [
         "Gareth Howells",
-        "Steve McFadden",
-        "Anne Summers",
         "Tom Allen"
       ],
       "topics": [
@@ -86,7 +102,6 @@
       "speakers": [
         "Amy Gledhill",
         "Edinburgh Award",
-        "Run Away",
         "Tom Allen"
       ],
       "topics": [
@@ -126,8 +141,6 @@
       "itunes_duration": "2723",
       "speakers": [
         "Phil Dunning",
-        "Smoggie Queens",
-        "Chicken Parmo",
         "Tom Allen"
       ],
       "topics": [
@@ -167,8 +180,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2776",
       "speakers": [
-        "Alan Carr",
-        "Noel Edmonds",
         "Tom Allen"
       ],
       "topics": [
@@ -188,10 +199,8 @@
       "enclosure_length": "0",
       "itunes_duration": "125",
       "speakers": [
-        "Kerry Godliman",
-        "Giovanna Fletcher",
-        "Gabby Best",
-        "Amy Gledhill",
+        "New Years Message Hello",
+        "New Year",
         "Tom Allen"
       ],
       "topics": [
@@ -211,9 +220,7 @@
       "enclosure_length": "0",
       "itunes_duration": "155",
       "speakers": [
-        "Fay Ripley",
-        "Lee Peart",
-        "James Acaster",
+        "Christmas Message Oh",
         "Tom Allen"
       ],
       "topics": [
@@ -235,8 +242,6 @@
       "speakers": [
         "Harry Hadden-Paton",
         "Harry Hadden Paton",
-        "Martin Charteris",
-        "Doc Martin",
         "Tom Allen"
       ],
       "topics": [
@@ -258,7 +263,6 @@
       "itunes_duration": "3823",
       "speakers": [
         "Natalie Cassidy",
-        "Ronnie Corbett",
         "Tom Allen"
       ],
       "topics": [
@@ -279,7 +283,6 @@
       "itunes_duration": "2303",
       "speakers": [
         "Lee Peart",
-        "Alan Carr",
         "Tom Allen"
       ],
       "topics": [
@@ -300,7 +303,6 @@
       "speakers": [
         "Amy Annette Oh",
         "Amy Annette",
-        "Angela Lansbury",
         "Tom Allen"
       ],
       "topics": [
@@ -401,7 +403,6 @@
       "speakers": [
         "Fay Ripley Ah",
         "Fay Ripley",
-        "Jane Asher",
         "Tom Allen"
       ],
       "topics": [
@@ -420,6 +421,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2103",
       "speakers": [
+        "Alfresco Therapy",
         "Tom Allen"
       ],
       "topics": [
@@ -439,7 +441,6 @@
       "itunes_duration": "1871",
       "speakers": [
         "Suzi Ruffell",
-        "Minded Friends",
         "Tom Allen"
       ],
       "topics": [
@@ -460,7 +461,6 @@
       "itunes_duration": "1537",
       "speakers": [
         "Jo Brand",
-        "Bake Off",
         "Tom Allen"
       ],
       "topics": [
@@ -480,7 +480,6 @@
       "itunes_duration": "1489",
       "speakers": [
         "Kerry Godliman",
-        "Handkerchief Trees",
         "Tom Allen"
       ],
       "topics": [
@@ -501,7 +500,6 @@
       "itunes_duration": "2287",
       "speakers": [
         "Rob Beckett",
-        "Parenting Hell",
         "Tom Allen"
       ],
       "topics": [
@@ -533,27 +531,28 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Charlie Baker and Sam Battersea — speakers: Charlie Baker, Sam Battersea, Pat St Clement, Tom Allen
-- 2026-02-12 — Gareth Howells — speakers: Gareth Howells, Steve McFadden, Anne Summers, Tom Allen
-- 2026-02-05 — Amy Gledhill — speakers: Amy Gledhill, Edinburgh Award, Run Away, Tom Allen
+- 2026-02-26 — A Message From Tom — speakers: Tom Hello, Tom Allen
+- 2026-02-19 — Charlie Baker and Sam Battersea — speakers: Charlie Baker, Sam Battersea, Tom Allen
+- 2026-02-12 — Gareth Howells — speakers: Gareth Howells, Tom Allen
+- 2026-02-05 — Amy Gledhill — speakers: Amy Gledhill, Edinburgh Award, Tom Allen
 - 2026-01-29 — Giovanna Fletcher — speakers: Giovanna Fletcher, Tom Allen
-- 2026-01-22 — Phil Dunning — speakers: Phil Dunning, Smoggie Queens, Chicken Parmo, Tom Allen
+- 2026-01-22 — Phil Dunning — speakers: Phil Dunning, Tom Allen
 - 2026-01-15 — James Gill — speakers: James Gill, Tom Allen
-- 2026-01-08 — Gabby Best — speakers: Alan Carr, Noel Edmonds, Tom Allen
-- 2026-01-01 — New Years Message — speakers: Kerry Godliman, Giovanna Fletcher, Gabby Best, Amy Gledhill, Tom Allen
-- 2025-12-25 — Christmas Message — speakers: Fay Ripley, Lee Peart, James Acaster, Tom Allen
-- 2025-12-18 — Harry Hadden-Paton — speakers: Harry Hadden-Paton, Harry Hadden Paton, Martin Charteris, Doc Martin, Tom Allen
-- 2025-12-11 — Natalie Cassidy — speakers: Natalie Cassidy, Ronnie Corbett, Tom Allen
-- 2025-12-04 — Lee Peart — speakers: Lee Peart, Alan Carr, Tom Allen
-- 2025-11-27 — Amy Annette — speakers: Amy Annette Oh, Amy Annette, Angela Lansbury, Tom Allen
+- 2026-01-08 — Gabby Best — speakers: Tom Allen
+- 2026-01-01 — New Years Message — speakers: New Years Message Hello, New Year, Tom Allen
+- 2025-12-25 — Christmas Message — speakers: Christmas Message Oh, Tom Allen
+- 2025-12-18 — Harry Hadden-Paton — speakers: Harry Hadden-Paton, Harry Hadden Paton, Tom Allen
+- 2025-12-11 — Natalie Cassidy — speakers: Natalie Cassidy, Tom Allen
+- 2025-12-04 — Lee Peart — speakers: Lee Peart, Tom Allen
+- 2025-11-27 — Amy Annette — speakers: Amy Annette Oh, Amy Annette, Tom Allen
 - 2025-11-20 — James Acaster — speakers: James Acaster, Tom Allen
 - 2025-11-13 — Jess Wright — speakers: Jess Wright, Tom Allen
 - 2025-11-06 — Phil Wang — speakers: Phil Wang, Tom Allen
 - 2025-10-30 — Angela Scanlon — speakers: Angela Scanlon, Tom Allen
-- 2025-10-23 — Fay Ripley — speakers: Fay Ripley Ah, Fay Ripley, Jane Asher, Tom Allen
-- 2025-10-16 — Nish Kumar — speakers: Tom Allen
-- 2025-10-09 — Suzi Ruffell — speakers: Suzi Ruffell, Minded Friends, Tom Allen
-- 2025-10-02 — Jo Brand — speakers: Jo Brand, Bake Off, Tom Allen
-- 2025-09-25 — Kerry Godliman — speakers: Kerry Godliman, Handkerchief Trees, Tom Allen
-- 2025-09-25 — Rob Beckett — speakers: Rob Beckett, Parenting Hell, Tom Allen
+- 2025-10-23 — Fay Ripley — speakers: Fay Ripley Ah, Fay Ripley, Tom Allen
+- 2025-10-16 — Nish Kumar — speakers: Alfresco Therapy, Tom Allen
+- 2025-10-09 — Suzi Ruffell — speakers: Suzi Ruffell, Tom Allen
+- 2025-10-02 — Jo Brand — speakers: Jo Brand, Tom Allen
+- 2025-09-25 — Kerry Godliman — speakers: Kerry Godliman, Tom Allen
+- 2025-09-25 — Rob Beckett — speakers: Rob Beckett, Tom Allen
 - 2025-09-17 — Introducing... Pottering with Tom Allen — speakers: Tom Allen
