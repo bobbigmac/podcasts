@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-02-26T13:43:52+00:00`
-- checked_at: `2026-02-26T13:43:52+00:00`
-- etag: `"232122-64bb85c135e46"`
-- last_modified: `Thu, 26 Feb 2026 11:24:11 GMT`
+- fetched_at: `2026-02-26T16:06:48+00:00`
+- checked_at: `2026-02-26T16:06:48+00:00`
+- etag: `"24041e-64bbc0208386e"`
+- last_modified: `Thu, 26 Feb 2026 15:45:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-02-26T13:43:52+00:00",
+  "fetched_at": "2026-02-26T16:06:48+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,29 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "d7e07db7eb65a9f980fbb9ecfbad5af8c5d298c3",
+      "title": "South Korea's birth rate is rising, but the population is still shrinking",
+      "published_at": "2026-02-26T15:45:00+00:00",
+      "link": "https://theconversation.com/south-koreas-birth-rate-is-rising-but-the-population-is-still-shrinking-276924",
+      "description": "South Korea’s very low birth rate and ageing population have long served as a cautionary tale for other governments worried that they’ll see similar demographic challenges. But now, for the second year running, more people in South Korea are having children. The 6.8% rise in births in 2025 is the largest rise since 2007, and has taken the country’s total fertility rate to 0.80, up from 0.75 in 2024. The news is being cautiously celebrated, but with South Korea’s overall population still shrinking, it is yet to reverse its demographic fortunes. In this episode, we speak to Stuart Gietel-Basten , a demographer and professor of social science and public policy at Hong Kong University of Science and Technology, about how South Korea has got to this point and some of the structural issues the country still faces. This episode was written and produced by Gemma Ware and Katie Flood. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Japan is not the only country worrying about population decline – get used to a two-speed world China’s population decline is a result of decades of botched family planning measures and will have global implications South Korea’s gender imbalance is bad news for men − outnumbering women, many face bleak marriage prospects Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/40a9eef5-f369-418b-92b3-2416f0ad8f14.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41027543",
+      "itunes_duration": "28:29",
+      "speakers": [
+        "South Korea",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "south",
+        "korea",
+        "birth",
+        "rate",
+        "population"
+      ]
+    },
     {
       "key": "4b9e29a1ba932a91d1ed4145b2a7b4af8c617445",
       "title": "The 'national humiliation' behind Russia's war on Ukraine",
@@ -4886,7 +4909,7 @@
       "title": "Germany election winners, losers, and how the Greens emerged as kingmakers + the benefits of saunas",
       "published_at": "2021-09-30T10:36:57+00:00",
       "link": "https://theconversation.com/german-greens-from-the-anti-party-party-to-kingmakers-in-the-post-merkel-coalition-podcast-168956",
-      "description": "After Germany’s recent election, coalition talks are now underway to determine the composition of the next government and who will succeed Angela Merkel as chancellor. We speak to three experts about what the results tell us about German voters’ priorities – and dig into the history of the Greens, now one of the kingmakers in coalition negotiations. Featuring Jasmin Riedl , professor of political science at Bundeswehr University Munich in Germany, Niko Switek , visiting professor for German studies at University of Washington in the US and Chantal Sullivan-Thomsett , PhD candidate in German and politics at the University of Leeds in the UK. In our second story, we talk to Charles James Steward , PhD candidate at the Centre for Sport, Exercise and Life Sciences at Coventry University in the UK, on his research looking at the health benefits of saunas and hot baths, particularly after exercise. Plus, Lucía Caballero, environment and energy editor at The Conversation in Madrid gives us some of her recommended reading. The Conversation Weekly is produced by Mend Mariwany and Gemma Ware, with sound design by Eloise Stevens. Our theme music is by Neeta Sarl. You can sign up to The Conversation’s free daily email here . Full credits for this episode available here . Further reading German election explained: why is it always so hard to form a government? , by Alim Baluch, University of Bath Germany election: Olaf Scholz’s social democrats come out on top but smaller parties hold the key to government , by Ed Turner, Aston University German election sees centre-left eke out a slim victory over Angela Merkel’s party , by James M. Skidmore, University of Waterloo Can’t face running? Have a hot bath or a sauna – research shows they offer some similar benefits , by Charles James Steward, Coventry University Why we continue to live near volcanoes despite the risk , by María Belén Benito Oterino , Polytechnic University of Madrid (UPM) (in Spanish) <a href=\"https://theconversation.com/pueden-las-ciudades-seguir-creciendo-de-forma-ilimitada-168307\" rel=\"noopener noreferrer\"...",
+      "description": "After Germany’s recent election, coalition talks are now underway to determine the composition of the next government and who will succeed Angela Merkel as chancellor. We speak to three experts about what the results tell us about German voters’ priorities – and dig into the history of the Greens, now one of the kingmakers in coalition negotiations. Featuring Jasmin Riedl , professor of political science at Bundeswehr University Munich in Germany, Niko Switek , visiting professor for German studies at University of Washington in the US and Chantal Sullivan-Thomsett , PhD candidate in German and politics at the University of Leeds in the UK. In our second story, we talk to Charles James Steward , PhD candidate at the Centre for Sport, Exercise and Life Sciences at Coventry University in the UK, on his research looking at the health benefits of saunas and hot baths, particularly after exercise. Plus, Lucía Caballero, environment and energy editor at The Conversation in Madrid gives us some of her recommended reading. The Conversation Weekly is produced by Mend Mariwany and Gemma Ware, with sound design by Eloise Stevens. Our theme music is by Neeta Sarl. You can sign up to The Conversation’s free daily email here . Full credits for this episode available here . Further reading German election explained: why is it always so hard to form a government? , by Alim Baluch, University of Bath Germany election: Olaf Scholz’s social democrats come out on top but smaller parties hold the key to government , by Ed Turner, Aston University German election sees centre-left eke out a slim victory over Angela Merkel’s party , by James M. Skidmore, University of Waterloo Can’t face running? Have a hot bath or a sauna – research shows they offer some similar benefits , by Charles James Steward, Coventry University Why we continue to live near volcanoes despite the risk , by María Belén Benito Oterino , Polytechnic University of Madrid (UPM) (in Spanish) Can cities continue to grow in an unlimited way? , by Juan Manuel Ros García , CEU San Pablo University (in Spanish)",
       "image_url": "https://artwork.captivate.fm/35d1b66c-0851-411b-925d-00d80613dd25/1632990328202-b027e1b8e11ed1419307ecbafbdd5c89.jpeg",
       "enclosure_url": "https://podcasts.captivate.fm/media/b911d321-9260-4daf-9ae4-c1193173590e/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4977,7 +5000,7 @@
       "title": "Back to school with COVID: how to keep children safe",
       "published_at": "2021-09-02T10:29:36+00:00",
       "link": "https://theconversation.com/back-to-school-what-works-to-keep-children-safe-from-covid-19-podcast-167125",
-      "description": "As many children head back to school, in this episode we look at what really works to help stop COVID-19 transmission in the classroom. And for those countries where masks remain mandatory in schools, we hear some tips for teachers and students on how to communicate. Featuring, Brandon Guthrie , an associate professor of global health an epidemiology at the University of Washington in the US and Laura Abou Haidar , a professor of linguistics at the Université Grenoble Alpes in France. In our second story, we dig into the science behind daydreaming. Thomas Andrillon , research fellow at the Paris Brain Institute in France and an adjunct research fellow at Monash University in Australia, explains his new research on what's happening in our brains when our mind wanders. And Heather Kroeker, a health editor at The Conversation in London, recommends some recent health stories. The Conversation Weekly is produced by Mend Mariwany and Gemma Ware, with sound design by Eloise Stevens. Our theme music is by Neeta Sarl. You can sign up to The Conversation’s free daily email here . Full credits for this episode available here . Further reading: Schools can reopen safely – an epidemiologist describes what works and what’s not worth the effort , by Brandon Guthrie, University of Washington COVID-19 back to school Q&A: Is it safe for unvaccinated children to go to school in person? Is the harm of school closures greater than the risk of the virus? by Joanna-Trees Merckx and Jay Kaufman, McGill University; Catherine Haeck, Université du Québec à Montréal; Dimitri Van der Linden, Université Catholique de Louvain Teaching with a masked face: a challenge? by Laura Abou Haidar, Université Grenoble Alpes (in French) What is daydreaming? Parts of the brain show sleep-like activity when your mind wanders , by Thomas Andrillon, Inserm; Jennifer Windt, Monash University, and Naotsugu Tsuchiya, Monash University Feeling tired? Here’s how the brain’s ‘hourglass’ controls your need for sleep – new research , by Lukas B. Krone, Vladyslav Vyazovskiy and Zoltán Molnár, University of Oxford <a href=\"https://theconversation.com/sugar-why-some-people-experience-side-effects-when-they-quit-166051\" rel=\"noopener noreferrer\"...",
+      "description": "As many children head back to school, in this episode we look at what really works to help stop COVID-19 transmission in the classroom. And for those countries where masks remain mandatory in schools, we hear some tips for teachers and students on how to communicate. Featuring, Brandon Guthrie , an associate professor of global health an epidemiology at the University of Washington in the US and Laura Abou Haidar , a professor of linguistics at the Université Grenoble Alpes in France. In our second story, we dig into the science behind daydreaming. Thomas Andrillon , research fellow at the Paris Brain Institute in France and an adjunct research fellow at Monash University in Australia, explains his new research on what's happening in our brains when our mind wanders. And Heather Kroeker, a health editor at The Conversation in London, recommends some recent health stories. The Conversation Weekly is produced by Mend Mariwany and Gemma Ware, with sound design by Eloise Stevens. Our theme music is by Neeta Sarl. You can sign up to The Conversation’s free daily email here . Full credits for this episode available here . Further reading: Schools can reopen safely – an epidemiologist describes what works and what’s not worth the effort , by Brandon Guthrie, University of Washington COVID-19 back to school Q&A: Is it safe for unvaccinated children to go to school in person? Is the harm of school closures greater than the risk of the virus? by Joanna-Trees Merckx and Jay Kaufman, McGill University; Catherine Haeck, Université du Québec à Montréal; Dimitri Van der Linden, Université Catholique de Louvain Teaching with a masked face: a challenge? by Laura Abou Haidar, Université Grenoble Alpes (in French) What is daydreaming? Parts of the brain show sleep-like activity when your mind wanders , by Thomas Andrillon, Inserm; Jennifer Windt, Monash University, and Naotsugu Tsuchiya, Monash University Feeling tired? Here’s how the brain’s ‘hourglass’ controls your need for sleep – new research , by Lukas B. Krone, Vladyslav Vyazovskiy and Zoltán Molnár, University of Oxford Sugar: why some people experience side-effects when they quit , by James Brown, Aston University",
       "image_url": "https://artwork.captivate.fm/bfd1557c-9ddc-401a-bddd-30640cc0f349/1630573428334-054d20c0b86e6cbb96428b0f51409298.jpeg",
       "enclosure_url": "https://podcasts.captivate.fm/media/29c3d5dc-a551-4192-9a27-255401f3e1da/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -5661,6 +5684,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-26 — South Korea's birth rate is rising, but the population is still shrinking — speakers: South Korea, Gemma Ware
 - 2026-02-19 — The 'national humiliation' behind Russia's war on Ukraine — speakers: Vladmir Putin, Gemma Ware
 - 2026-02-12 — How Minneapolis is organising against ICE — speakers: How Minneapolis, Gemma Ware
 - 2026-02-05 — The Super Bowl that kickstarted prop betting in America — speakers: America Super Bowl Sunday, Gemma Ware

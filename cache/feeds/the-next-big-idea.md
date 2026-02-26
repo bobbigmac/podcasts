@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-02-26T13:43:52+00:00`
-- checked_at: `2026-02-26T13:43:52+00:00`
-- last_modified: `Thu, 26 Feb 2026 10:30:00 GMT`
+- fetched_at: `2026-02-26T16:06:48+00:00`
+- checked_at: `2026-02-26T16:06:48+00:00`
+- last_modified: `Thu, 26 Feb 2026 13:55:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-26T13:43:52+00:00",
+  "fetched_at": "2026-02-26T16:06:48+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -32,7 +32,7 @@
       "title": "Inside the Most Creative Friendship in History",
       "published_at": "2026-02-26T10:30:00+00:00",
       "link": null,
-      "description": "On the surface, Ian Leslie's book John & Paul: A Love Story in Songs is a dual biography of the greatest songwriting duo the world has ever seen. So not exactly standard Next Big Idea territory. But what’s remarkable about Ian's book, which I've been pressing on everyone I know, whether they're Beatlemaniacs or the opposite (i.e., Rolling Stones fans), is that through the narrative of this tender, tempestuous, radically inventive partnership — romance, really — emerge genuinely big ideas about creativity, vulnerability, and how to get by with a little help from your friends. Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . We love getting fan mail. Sponsored By: Bitdefender — Get 30% off your plan at bitdefender.com/idea Factor — Head to ⁠factormeals.com/idea50off⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at granola.ai/idea Shopify — Start your $1/month trial at ⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "description": "On the surface, Ian Leslie's book John & Paul: A Love Story in Songs is a dual biography of the greatest songwriting duo the world has ever seen. So not exactly standard Next Big Idea territory. But what’s remarkable about Ian's book, which I've been pressing on everyone I know, whether they're Beatlemaniacs or the opposite (i.e., Rolling Stones fans), is that through the narrative of this tender, tempestuous, radically inventive partnership — romance, really — genuinely big ideas emerge about creativity, vulnerability, and how to get by with a little help from your friends. Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . We love getting fan mail. Sponsored By: Bitdefender — Get 30% off your plan at bitdefender.com/idea Factor — Head to ⁠factormeals.com/idea50off⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at granola.ai/idea Shopify — Start your $1/month trial at ⁠⁠⁠shopify.com/nbi⁠⁠⁠",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP2999856564.mp3?updated=1772078208",
       "enclosure_type": "audio/mpeg",
