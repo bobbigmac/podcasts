@@ -2,10 +2,10 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"djEuMi4wOjE3NzE0ODA4Mzk2NDY="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-26T19:10:12+00:00`
+- checked_at: `2026-02-26T19:10:12+00:00`
+- etag: `"djEuMi4wOjE3NzIxMjgzMzc5Mjc="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,10 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-26T19:10:12+00:00",
+  "owners": [
+    "Stuart Goldsmith"
+  ],
   "common_speakers": [],
   "categories": [
     "comedy"
@@ -38,9 +40,7 @@
       "speakers": [
         "Lindsey Santoro",
         "Edinburgh Fringe",
-        "Pink Tinge",
-        "Joe Lycett",
-        "Mailing List"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lindsey",
@@ -60,10 +60,7 @@
       "itunes_duration": "1:15:43",
       "speakers": [
         "Shenoah Allen Shenoah Allen",
-        "Nina Conti",
-        "Kim Noble",
-        "Mailing List",
-        "Shenoah Allen"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "shenoah",
@@ -83,12 +80,7 @@
       "itunes_duration": "1:24:04",
       "speakers": [
         "Sophie Duker",
-        "Best Newcomer",
-        "Adam Bloom",
-        "Matt Lucas",
-        "Ed Byrne",
-        "Ninia Benjamin",
-        "Mailing List"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sophie",
@@ -108,13 +100,7 @@
       "itunes_duration": "1:26:17",
       "speakers": [
         "Reggie Watts",
-        "James Corden",
-        "Comedy Bang",
-        "Adam Bloom",
-        "Matt Lucas",
-        "Ed Byrne",
-        "Ninia Benjamin",
-        "Mailing List"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "reggie",
@@ -134,7 +120,7 @@
       "itunes_duration": "1:04:18",
       "speakers": [
         "Sarah Millican",
-        "Mailing List"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -155,10 +141,7 @@
       "itunes_duration": "27:36",
       "speakers": [
         "Russell Howard",
-        "Mark Simmons",
-        "Aparna Nancherla",
-        "Nick Mohammed",
-        "Kemah Bob"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "comedians",
@@ -177,11 +160,7 @@
       "enclosure_length": "50731200",
       "itunes_duration": "35:13",
       "speakers": [
-        "Max Fosh",
-        "Lucy Pearman",
-        "Pete Lee",
-        "Marjolein Robertson",
-        "Josie Long"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "comedians",
@@ -202,11 +181,7 @@
       "speakers": [
         "Chloe Radcliffe",
         "Scott Auckerman",
-        "Alan Davies",
-        "Chloe Petts",
-        "Alex Kealy",
-        "Comedy Bang Bang",
-        "Mailing List"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "comedians",
@@ -226,10 +201,7 @@
       "itunes_duration": "1:01:45",
       "speakers": [
         "Ray Bradshaw",
-        "John Bishop",
-        "Fantasy Fives",
-        "Mailing List",
-        "Bald Ginger"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bradshaw"
@@ -247,9 +219,9 @@
       "enclosure_length": "109003968",
       "itunes_duration": "1:15:41",
       "speakers": [
-        "Best Newcomer",
-        "Mailing List",
-        "Stevie Martin"
+        "Urooj Ashfaq Today",
+        "Urooj Ashfaq",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "urooj",
@@ -269,11 +241,7 @@
       "itunes_duration": "1:06:47",
       "speakers": [
         "John Kearns",
-        "Jacques Tati",
-        "Neil Hamburger",
-        "Harry Hill",
-        "Chris Morris",
-        "Mailing List"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -295,8 +263,7 @@
       "speakers": [
         "Josie Long Returns",
         "Josie Long",
-        "bill gigs",
-        "Mailing List"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josie",
@@ -317,8 +284,7 @@
       "itunes_duration": "2:14:17",
       "speakers": [
         "Adam Riches Adam Riches",
-        "Michael Ball",
-        "Adam Riches"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adam",
@@ -338,8 +304,7 @@
       "itunes_duration": "1:28:23",
       "speakers": [
         "Doug Naylor",
-        "Rob Grant",
-        "Sin Bin Island"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "doug",
@@ -360,7 +325,7 @@
       "speakers": [
         "Alan Davies Returns",
         "Alan Davies",
-        "Jonathan Creek"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alan",
@@ -381,7 +346,7 @@
       "itunes_duration": "1:11:41",
       "speakers": [
         "Emma Doran",
-        "Graham Norton"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "emma",
@@ -401,8 +366,7 @@
       "itunes_duration": "1:10:49",
       "speakers": [
         "Lucy Pearman",
-        "Please Help",
-        "Adam Brace"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lucy",
@@ -423,6 +387,8 @@
       "speakers": [
         "Ivo Graham",
         "Laura Lexx",
+        "Comedian Climate Confessions",
+        "Georgia Elliott",
         "Stuart Goldsmith"
       ],
       "topics": [
@@ -446,7 +412,7 @@
       "enclosure_length": "39046591",
       "itunes_duration": "27:06",
       "speakers": [
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "help"
@@ -465,10 +431,7 @@
       "itunes_duration": "55:54",
       "speakers": [
         "Aparna Nancherla",
-        "Bob’s Burgers",
-        "Seth Meyers",
-        "Michael Bublé",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aparna",
@@ -489,7 +452,7 @@
       "itunes_duration": "1:27:37",
       "speakers": [
         "Abby Wambaugh",
-        "Edinburgh Comedy Award"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "abby",
@@ -509,7 +472,7 @@
       "itunes_duration": "1:11:53",
       "speakers": [
         "Kemah Bob Kemah Bob",
-        "Kemah Bob"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kemah"
@@ -528,8 +491,7 @@
       "itunes_duration": "1:32:06",
       "speakers": [
         "Marjolein Robertson",
-        "Billy Connolly",
-        "Glasgow Comedy Award"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "marjolein",
@@ -549,9 +511,7 @@
       "itunes_duration": "1:22:02",
       "speakers": [
         "Daniel Foxx",
-        "Daniel co-wrote",
-        "Cheltenham Playhouse",
-        "Edinburgh Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "daniel",
@@ -571,8 +531,7 @@
       "itunes_duration": "1:14:19",
       "speakers": [
         "Marc Jennings",
-        "Cheltenham Playhouse",
-        "Edinburgh Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "marc",
@@ -593,8 +552,7 @@
       "speakers": [
         "Nick Mohammed Returns",
         "Nick Mohammed",
-        "Ted Lasso",
-        "Mr Swallow"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -616,8 +574,7 @@
       "speakers": [
         "Nick Mohammed Returns",
         "Nick Mohammed",
-        "Ted Lasso",
-        "Mr Swallow"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -638,8 +595,7 @@
       "itunes_duration": "1:18:16",
       "speakers": [
         "Alex Kealy",
-        "Ivo Graham",
-        "Leamington Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alex",
@@ -659,8 +615,7 @@
       "itunes_duration": "1:11:15",
       "speakers": [
         "Scott Aukerman",
-        "Comedy Bang Bang",
-        "Leamington Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "scott",
@@ -681,11 +636,7 @@
       "itunes_duration": "1:30:41",
       "speakers": [
         "Chloe Radcliffe Chloe Radcliffe",
-        "John Bishop",
-        "Will Arnett",
-        "Laura Dern",
-        "Chloe Radcliffe",
-        "Leamington Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "chloe",
@@ -705,10 +656,7 @@
       "itunes_duration": "1:11:13",
       "speakers": [
         "Pete Lee",
-        "Comedy Central",
-        "Roseanne Barr",
-        "Russell Peters",
-        "Machynlleth Comedy Festival"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pete",
@@ -727,9 +675,7 @@
       "enclosure_length": "107816832",
       "itunes_duration": "1:14:52",
       "speakers": [
-        "Best Stand",
-        "Robin Williams",
-        "Mort Sahl"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "shazia",
@@ -748,7 +694,9 @@
       "enclosure_length": "124752384",
       "itunes_duration": "1:26:38",
       "speakers": [
-        "Machynlleth Discover"
+        "Iain Stirling Iain Stirling",
+        "Love Island",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "iain",
@@ -768,7 +716,7 @@
       "itunes_duration": "53:24",
       "speakers": [
         "Damien Power",
-        "Machynlleth Discover"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "damien",
@@ -787,12 +735,8 @@
       "enclosure_length": "108125341",
       "itunes_duration": "1:15:00",
       "speakers": [
-        "Edinburgh Fringe",
-        "Best Newcomer",
-        "Russell Howard",
-        "Lise Mayer",
-        "Rhys James",
-        "Machynlleth Discover"
+        "Huge Davies Huge Davies",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "davy"
@@ -811,10 +755,7 @@
       "itunes_duration": "1:18:47",
       "speakers": [
         "Mark Simmons",
-        "Russell Howard",
-        "Lise Mayer",
-        "Rhys James",
-        "Machynlleth Discover"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mark",
@@ -833,9 +774,7 @@
       "enclosure_length": "66137472",
       "itunes_duration": "45:55",
       "speakers": [
-        "Tim Renkow",
-        "Janine Harouni",
-        "Machynlleth Discover"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "apollo",
@@ -855,9 +794,7 @@
       "itunes_duration": "1:18:34",
       "speakers": [
         "Chloe Petts",
-        "Ed Gamble",
-        "Adam Drake",
-        "Machynlleth Discover"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "chloe",
@@ -877,7 +814,8 @@
       "itunes_duration": "1:05:36",
       "speakers": [
         "Russell Howard Returns",
-        "Russell Howard"
+        "Russell Howard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "russell",
@@ -899,7 +837,7 @@
       "speakers": [
         "Russell Howard Returns",
         "Russell Howard",
-        "Albert Hall"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "russell",
@@ -919,7 +857,8 @@
       "enclosure_length": "123399936",
       "itunes_duration": "1:25:41",
       "speakers": [
-        "Max Fosh"
+        "Max Fosh",
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -935,7 +874,8 @@
       "enclosure_length": "104704704",
       "itunes_duration": "1:12:42",
       "speakers": [
-        "Milton Jones Returns"
+        "Milton Jones Returns",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "milton",
@@ -956,8 +896,7 @@
       "itunes_duration": "1:19:28",
       "speakers": [
         "Rhys James Rhys James",
-        "Split Milk",
-        "Rhys James"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rhys",
@@ -977,11 +916,7 @@
       "itunes_duration": "1:21:15",
       "speakers": [
         "Lise Mayer Lise",
-        "Rik Mayall",
-        "Ben Elton",
-        "Bum Bum Train",
-        "Lise Mayer",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lise",
@@ -1001,7 +936,7 @@
       "itunes_duration": "1:04:53",
       "speakers": [
         "Janey Godley",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "remembering",
@@ -1022,9 +957,7 @@
       "itunes_duration": "1:19:45",
       "speakers": [
         "Vittorio Angelone",
-        "Best Newcomer",
-        "Fin Taylor",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "vittorio",
@@ -1044,10 +977,7 @@
       "itunes_duration": "1:23:16",
       "speakers": [
         "Ania Magliano",
-        "Edinburgh Comedy Award",
-        "Frankie Boyle",
-        "James Adomian Josh Johnson",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ania",
@@ -1067,7 +997,7 @@
       "itunes_duration": "53:25",
       "speakers": [
         "Viggo Venn",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "viggo",
@@ -1087,7 +1017,7 @@
       "itunes_duration": "52:29",
       "speakers": [
         "Viggo Venn",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "viggo",
@@ -1107,10 +1037,7 @@
       "itunes_duration": "1:14:17",
       "speakers": [
         "Geoffrey Asmus",
-        "Comedy Cellar",
-        "Daniel Sloss",
-        "Ari Shaffir",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "geoffrey",
@@ -1130,11 +1057,7 @@
       "itunes_duration": "46:40",
       "speakers": [
         "Edinburgh Fringe Picks",
-        "Edinburgh Fringe",
-        "Vir Das",
-        "Sara Barron",
-        "Monkey Barrel",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "edinburgh",
@@ -1155,8 +1078,8 @@
       "enclosure_length": "106976197",
       "itunes_duration": "1:14:14",
       "speakers": [
-        "Sista Flo",
-        "Discover Stu"
+        "Nurse Georgie Carroll Georgie",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nurse",
@@ -1177,12 +1100,6 @@
       "itunes_duration": "1:01:09",
       "speakers": [
         "Edinburgh Fringe Picks",
-        "Edinburgh Fringe",
-        "Lauren Pattison",
-        "Monkey Barrel",
-        "Aaron Chen",
-        "Select Dates",
-        "Trygve Wakenshaw",
         "Stuart Goldsmith"
       ],
       "topics": [
@@ -1204,7 +1121,8 @@
       "enclosure_length": "106175015",
       "itunes_duration": "1:13:40",
       "speakers": [
-        "Nabil Abdulrashid"
+        "Nabil Abdulrashid",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nabil",
@@ -1224,8 +1142,7 @@
       "itunes_duration": "1:13:49",
       "speakers": [
         "Rosie Holt",
-        "Jonathan Pie",
-        "Edinburgh Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rosie",
@@ -1245,9 +1162,7 @@
       "itunes_duration": "1:14:23",
       "speakers": [
         "Zach Zucker",
-        "Jack Tucker",
-        "Viggo Ven",
-        "Comedy Stand"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "zach",
@@ -1267,11 +1182,7 @@
       "itunes_duration": "1:17:01",
       "speakers": [
         "Fin Taylor",
-        "Vittorio Angelone",
-        "Jonathan Pie",
-        "Jamie Laing",
-        "Rosie Holt",
-        "com FinTaylor"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "taylor",
@@ -1292,7 +1203,7 @@
       "speakers": [
         "Tanyalee Davis",
         "Meet Tanyalee Davis",
-        "Abnormally Funny People"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tanyalee",
@@ -1312,10 +1223,7 @@
       "itunes_duration": "1:18:05",
       "speakers": [
         "Jaboukie Young-White",
-        "Joaquin Phoenix",
-        "Ralph Breaks",
-        "James Acaster",
-        "Dai Henwood"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jaboukie",
@@ -1337,8 +1245,7 @@
       "itunes_duration": "59:54",
       "speakers": [
         "Mike Wozniak",
-        "Rose Matafeo",
-        "Everything Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mike",
@@ -1358,7 +1265,7 @@
       "itunes_duration": "57:41",
       "speakers": [
         "Mike Wozniak",
-        "Everything Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mike",
@@ -1378,10 +1285,7 @@
       "itunes_duration": "1:07:58",
       "speakers": [
         "Lynne Koplitz",
-        "Craig Ferguson",
-        "Neil deGrasse Tyson",
-        "James Acaster",
-        "Dai Henwood"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lynne",
@@ -1401,7 +1305,8 @@
       "enclosure_length": "114769502",
       "itunes_duration": "1:19:38",
       "speakers": [
-        "Dai Henwood"
+        "Dai Henwood",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "henwood"
@@ -1420,10 +1325,7 @@
       "itunes_duration": "1:08:39",
       "speakers": [
         "Brian Simpson",
-        "David Spade",
-        "Iliza Shlesinger",
-        "Lucy Beaumont",
-        "James Acaster"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brian",
@@ -1443,7 +1345,8 @@
       "enclosure_length": "108177000",
       "itunes_duration": "1:14:45",
       "speakers": [
-        "Viggo Venn"
+        "Julia Masli Julia Masli",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "julia",
@@ -1463,9 +1366,7 @@
       "itunes_duration": "1:15:59",
       "speakers": [
         "Martin Urbano",
-        "Comedy Central’s Featured",
-        "Will Smith",
-        "Jimmy Fallon"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "martin",
@@ -1485,7 +1386,7 @@
       "itunes_duration": "1:22:00",
       "speakers": [
         "Josh Pugh",
-        "Dave’s Edinburgh Comedy Award"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josh",
@@ -1504,7 +1405,8 @@
       "enclosure_length": "54499081",
       "itunes_duration": "37:30",
       "speakers": [
-        "Briain Returns"
+        "Briain Returns",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "dara",
@@ -1524,7 +1426,8 @@
       "enclosure_length": "78976373",
       "itunes_duration": "54:15",
       "speakers": [
-        "Briain Returns"
+        "Briain Returns",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "dara",
@@ -1545,10 +1448,7 @@
       "itunes_duration": "1:18:22",
       "speakers": [
         "Janine Harouni Janine Harouni",
-        "Janine Harouni",
-        "Remain Seated",
-        "Best Newcomer",
-        "Matt Reeves"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "janine",
@@ -1568,8 +1468,7 @@
       "itunes_duration": "1:19:04",
       "speakers": [
         "Leo Reich",
-        "Best Newcomer",
-        "Adam Brace"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "reich"
@@ -1587,7 +1486,8 @@
       "enclosure_length": "132674095",
       "itunes_duration": "1:32:06",
       "speakers": [
-        "Discover Stu"
+        "Tomi Walamies Tomi Walamies",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tomi",
@@ -1607,7 +1507,7 @@
       "itunes_duration": "1:11:17",
       "speakers": [
         "Mawaan Rizwan",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mawaan",
@@ -1627,7 +1527,7 @@
       "itunes_duration": "1:18:58",
       "speakers": [
         "Susie McCabe",
-        "Discover Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "susie",
@@ -1647,9 +1547,7 @@
       "itunes_duration": "1:00:45",
       "speakers": [
         "James Acaster Returns",
-        "Bo Burnham",
-        "Discover Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -1671,8 +1569,7 @@
       "speakers": [
         "James Acaster Returns",
         "James Acaster",
-        "Discover Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -1693,9 +1590,7 @@
       "itunes_duration": "1:15:16",
       "speakers": [
         "Harriet Dyer",
-        "Trigger Warning",
-        "Discover Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "harriet",
@@ -1715,9 +1610,7 @@
       "itunes_duration": "57:25",
       "speakers": [
         "Iliza Shlesinger",
-        "Eventim Apollo",
-        "Discover Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "iliza",
@@ -1736,8 +1629,8 @@
       "enclosure_length": "71631097",
       "itunes_duration": "1:14:36",
       "speakers": [
-        "Discover Stu",
-        "David Cooper"
+        "Sikisa There",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sikisa"
@@ -1755,9 +1648,8 @@
       "enclosure_length": "75934823",
       "itunes_duration": "1:19:05",
       "speakers": [
-        "Everything Stu",
-        "Discover Stu",
-        "David Cooper"
+        "Alistair Barrie",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alistair",
@@ -1777,8 +1669,7 @@
       "itunes_duration": "1:21:42",
       "speakers": [
         "Jeff Shaw",
-        "Discover Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jeff",
@@ -1798,9 +1689,7 @@
       "itunes_duration": "1:20:39",
       "speakers": [
         "Ruth Bratt",
-        "Everything Stu",
-        "Discover Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ruth",
@@ -1820,8 +1709,7 @@
       "itunes_duration": "1:38:31",
       "speakers": [
         "Adam Bloom",
-        "Discover Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adam",
@@ -1842,10 +1730,7 @@
       "itunes_duration": "1:20:21",
       "speakers": [
         "Gareth Reynolds",
-        "Dave Anthony",
-        "Jake Johnson",
-        "Everything Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gareth",
@@ -1864,7 +1749,8 @@
       "enclosure_length": "49832441",
       "itunes_duration": "1:42:04",
       "speakers": [
-        "David Cooper"
+        "Nish Kumar Returns Nish",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nish",
@@ -1884,8 +1770,8 @@
       "enclosure_length": "64964126",
       "itunes_duration": "1:07:40",
       "speakers": [
-        "Lucy Beaumont",
-        "David Cooper"
+        "Lucy Beaumont Most",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lucy",
@@ -1905,8 +1791,7 @@
       "itunes_duration": "1:20:14",
       "speakers": [
         "Jonny Pelham",
-        "Edinburgh Fringe",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jonny",
@@ -1926,11 +1811,7 @@
       "itunes_duration": "1:06:09",
       "speakers": [
         "Mike Birbiglia",
-        "Jimmy Carr",
-        "Daniel Kitson",
-        "Edinburgh Sept Oct",
-        "Everything Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mike",
@@ -1950,8 +1831,7 @@
       "itunes_duration": "1:12:04",
       "speakers": [
         "Gianmarco Soresi",
-        "Anthony Jeselnik",
-        "Rodney Dangerfield"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gianmarco",
@@ -1971,8 +1851,7 @@
       "itunes_duration": "1:17:18",
       "speakers": [
         "Lee Kyle",
-        "Felt Nowt",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kyle"
@@ -1991,7 +1870,7 @@
       "itunes_duration": "1:09:25",
       "speakers": [
         "Neil Delamere",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "neil",
@@ -2011,7 +1890,7 @@
       "itunes_duration": "1:20:45",
       "speakers": [
         "James Adomian",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -2032,7 +1911,7 @@
       "itunes_duration": "1:02:18",
       "speakers": [
         "Ignacio Lopez",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ignacio",
@@ -2052,8 +1931,7 @@
       "itunes_duration": "1:22:25",
       "speakers": [
         "Emma Willmann",
-        "Everything Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "emma",
@@ -2075,8 +1953,7 @@
       "speakers": [
         "Steve Agee",
         "John Economos",
-        "James Gunn Cinematic Universe",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "steve",
@@ -2097,8 +1974,7 @@
       "speakers": [
         "John Hastings Returns",
         "John Hastings",
-        "Paul Byrne",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -2118,9 +1994,7 @@
       "enclosure_length": "73588925",
       "itunes_duration": "1:16:39",
       "speakers": [
-        "Michelle Brasier",
-        "Aunty Donna",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "michelle",
@@ -2139,7 +2013,7 @@
       "enclosure_length": "71887397",
       "itunes_duration": "1:14:52",
       "speakers": [
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "godfrey",
@@ -2159,12 +2033,7 @@
       "itunes_duration": "1:21:45",
       "speakers": [
         "Tom Houghton",
-        "Posh Guy",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Amanda Donnet",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "houghton"
@@ -2183,10 +2052,7 @@
       "itunes_duration": "1:34:03",
       "speakers": [
         "Fern Brady",
-        "Alfie Brown",
-        "James Acaster",
-        "Amanda Donnet",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "fern",
@@ -2207,12 +2073,7 @@
       "itunes_duration": "1:14:26",
       "speakers": [
         "Vir Das",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Amanda Donnet",
-        "Everything Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -2229,7 +2090,7 @@
       "itunes_duration": "1:24:00",
       "speakers": [
         "Gina Yashere",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gina",
@@ -2249,7 +2110,8 @@
       "enclosure_length": "127036415",
       "itunes_duration": "2:12:19",
       "speakers": [
-        "Stewart Lee"
+        "Stewart Lee",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stewart",
@@ -2267,7 +2129,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61786555",
       "itunes_duration": "1:04:21",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "romesh",
         "ranganathan",
@@ -2288,7 +2152,8 @@
       "enclosure_length": "74539700",
       "itunes_duration": "1:17:38",
       "speakers": [
-        "Shaparak Khorsandi"
+        "Shaparak Khorsandi",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "shaparak",
@@ -2308,7 +2173,8 @@
       "enclosure_length": "62594849",
       "itunes_duration": "1:05:12",
       "speakers": [
-        "Sarah Millican"
+        "Sarah Millican",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -2328,7 +2194,8 @@
       "enclosure_length": "75209475",
       "itunes_duration": "1:18:20",
       "speakers": [
-        "James Acaster"
+        "James Acaster",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -2349,13 +2216,7 @@
       "itunes_duration": "1:19:21",
       "speakers": [
         "Kurt Braunohler",
-        "Kurt Vonnegut",
-        "Eugene Mirman",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Amanda Donnet",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kurt",
@@ -2375,8 +2236,7 @@
       "itunes_duration": "1:22:35",
       "speakers": [
         "Sarah Keyworth",
-        "Paul Byrne",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -2395,11 +2255,8 @@
       "enclosure_length": "67278268",
       "itunes_duration": "1:10:04",
       "speakers": [
-        "Esther Manito",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "David Cooper"
+        "Esther Man",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "esther",
@@ -2419,10 +2276,7 @@
       "itunes_duration": "1:07:32",
       "speakers": [
         "Glenn Moore",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "glenn",
@@ -2441,12 +2295,7 @@
       "enclosure_length": "71543123",
       "itunes_duration": "1:14:31",
       "speakers": [
-        "Josie Long",
-        "Robin Ince",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "grace",
@@ -2467,11 +2316,7 @@
       "speakers": [
         "Lauren Pattison",
         "Best Newcomer",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Everything Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lauren",
@@ -2491,11 +2336,7 @@
       "itunes_duration": "1:12:51",
       "speakers": [
         "Jordan Gray",
-        "Ian McKellen",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jordan",
@@ -2514,10 +2355,9 @@
       "enclosure_length": "77109793",
       "itunes_duration": "1:27:32",
       "speakers": [
-        "Roy Haylock",
-        "Matt Crockett",
-        "Monkey Barrel",
-        "David Cooper"
+        "Bianca Del Rio Everyone",
+        "Bianca Del Rio",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bianca"
@@ -2536,12 +2376,7 @@
       "itunes_duration": "1:16:52",
       "speakers": [
         "Jenny Bede",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Jenny’s Edinburgh Fringe",
-        "Monkey Barrel",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jenny",
@@ -2561,8 +2396,7 @@
       "itunes_duration": "1:17:45",
       "speakers": [
         "Tom Ward",
-        "Monkey Barrel",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ward"
@@ -2581,13 +2415,7 @@
       "itunes_duration": "1:24:25",
       "speakers": [
         "Sean McLoughlin",
-        "Albert Hall",
-        "Bill Burr",
-        "Katherine Ryan",
-        "Ricky Gervais",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sean",
@@ -2607,11 +2435,7 @@
       "itunes_duration": "1:27:56",
       "speakers": [
         "Ria Lina",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Everything Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lina"
@@ -2630,11 +2454,7 @@
       "itunes_duration": "1:35:02",
       "speakers": [
         "Alison Spittle",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "gigs See",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alison",
@@ -2654,12 +2474,7 @@
       "itunes_duration": "1:17:30",
       "speakers": [
         "Amy Miller",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Everything Stu",
-        "Twitter Standup",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "miller"
@@ -2678,11 +2493,7 @@
       "itunes_duration": "1:23:23",
       "speakers": [
         "Derek Chickpeas",
-        "Edinburgh Fringe",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "olaf",
@@ -2702,12 +2513,7 @@
       "itunes_duration": "1:15:53",
       "speakers": [
         "Helen Bauer",
-        "Rosie Jones",
-        "Catherine Bohart",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "helen",
@@ -2727,12 +2533,7 @@
       "itunes_duration": "1:15:50",
       "speakers": [
         "Bobby Mair",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Red Richardson",
-        "Twitter Stu",
-        "David Cooper"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bobby",
@@ -2751,13 +2552,8 @@
       "enclosure_length": "76665231",
       "itunes_duration": "1:19:51",
       "speakers": [
-        "Isaac Steele",
         "Daniel Rigby",
-        "Eric Morecambe",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Jo Matkin"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "daniel",
@@ -2777,10 +2573,7 @@
       "itunes_duration": "1:15:50",
       "speakers": [
         "Dulcé Sloan",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Jo Matkin"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sloan",
@@ -2800,13 +2593,7 @@
       "itunes_duration": "1:59:15",
       "speakers": [
         "Rob Deering",
-        "Paul Tonkinson",
-        "Roger Rabbit",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Read Rob",
-        "Everything Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "birthday",
@@ -2827,11 +2614,9 @@
       "enclosure_length": "74525285",
       "itunes_duration": "1:17:37",
       "speakers": [
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Everything Stu",
-        "Jo Matkin"
+        "Eddie Pepitone Returns",
+        "Bitter Buddha",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "eddie",
@@ -2853,10 +2638,7 @@
       "itunes_duration": "1:15:12",
       "speakers": [
         "Honey Boy",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Jo Matkin"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "byron",
@@ -2877,10 +2659,7 @@
       "itunes_duration": "1:19:23",
       "speakers": [
         "Matt Richardson",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Jo Matkin"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "matt",
@@ -2899,10 +2678,7 @@
       "enclosure_length": "88877988",
       "itunes_duration": "1:32:34",
       "speakers": [
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Jo Matkin"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "trevor",
@@ -2921,11 +2697,7 @@
       "enclosure_length": "72168460",
       "itunes_duration": "1:15:10",
       "speakers": [
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Slim IG",
-        "Jo Matkin"
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -2942,7 +2714,7 @@
       "itunes_duration": "1:02:42",
       "speakers": [
         "Joan Rivers",
-        "Jo Matkin"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "beaton"
@@ -2960,12 +2732,7 @@
       "enclosure_length": "70023187",
       "itunes_duration": "1:12:56",
       "speakers": [
-        "Diane Spencer",
-        "Kevin Shepherd",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Jo Matkin"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "diane",
@@ -2984,7 +2751,8 @@
       "enclosure_length": "111750146",
       "itunes_duration": "1:56:24",
       "speakers": [
-        "Barry Cryer"
+        "Barry Cryer",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "remembering",
@@ -3004,7 +2772,7 @@
       "enclosure_length": "42541343",
       "itunes_duration": "44:18",
       "speakers": [
-        "Jimmy Carr"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jimmy",
@@ -3024,8 +2792,8 @@
       "enclosure_length": "53125754",
       "itunes_duration": "55:20",
       "speakers": [
-        "Sean Lock",
-        "Jimmy Carr"
+        "Jimmy Carr Returns",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jimmy",
@@ -3046,13 +2814,7 @@
       "itunes_duration": "1:00:51",
       "speakers": [
         "Omid Djalili",
-        "Michael McIntyre",
-        "Whoopi Goldberg",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Everything Stu",
-        "Maria Kuzak"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "omid",
@@ -3071,11 +2833,8 @@
       "enclosure_length": "79311297",
       "itunes_duration": "1:22:36",
       "speakers": [
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Foil Arms",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "foil"
@@ -3094,7 +2853,7 @@
       "itunes_duration": "1:23:44",
       "speakers": [
         "Tom Stade",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stade",
@@ -3114,13 +2873,7 @@
       "itunes_duration": "1:12:51",
       "speakers": [
         "Philippa Perry",
-        "Grayson Perry",
-        "Jimmy Carr",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "noncompod",
@@ -3141,12 +2894,7 @@
       "itunes_duration": "1:46:18",
       "speakers": [
         "Pierre Novellie",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Phil Wang Watch",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pierre",
@@ -3165,8 +2913,7 @@
       "enclosure_length": "27721344",
       "itunes_duration": "28:52",
       "speakers": [
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "panamble",
@@ -3186,13 +2933,7 @@
       "itunes_duration": "1:20:27",
       "speakers": [
         "Aaron Chen",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady",
-        "Follow Aaron",
-        "Adult Swim",
-        "Everything Stu",
-        "Maria Kuzak"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aaron",
@@ -3212,12 +2953,7 @@
       "itunes_duration": "1:24:41",
       "speakers": [
         "Adam Rowe",
-        "Dan Nightingale",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adam",
@@ -3237,9 +2973,7 @@
       "itunes_duration": "1:23:46",
       "speakers": [
         "Thanyia Moore",
-        "Alfie Brown",
-        "James Acaster",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "thanyia",
@@ -3259,10 +2993,7 @@
       "itunes_duration": "1:30:19",
       "speakers": [
         "Harriet Kemsley",
-        "Bobby Mair",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "harriet",
@@ -3282,10 +3013,7 @@
       "itunes_duration": "1:22:56",
       "speakers": [
         "Jonathan Coulton",
-        "Lawrence Lessig",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jonathan",
@@ -3305,7 +3033,7 @@
       "itunes_duration": "10:20",
       "speakers": [
         "Mini Fringe Prelude",
-        "Edinburgh Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mini",
@@ -3325,10 +3053,7 @@
       "enclosure_length": "78431512",
       "itunes_duration": "1:21:41",
       "speakers": [
-        "Bunny McGarry",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "caimh",
@@ -3348,9 +3073,7 @@
       "itunes_duration": "1:34:17",
       "speakers": [
         "Fin Taylor",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "taylor"
@@ -3369,10 +3092,7 @@
       "itunes_duration": "1:17:31",
       "speakers": [
         "Stevie Martin",
-        "Massive Dad",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stevie",
@@ -3393,12 +3113,7 @@
       "speakers": [
         "Paul Zerdin Irrepressibly",
         "Paul Zerdin",
-        "Nish Kumar",
-        "James Acaster",
-        "Alfie Brown",
-        "Fern Brady",
-        "Find Paul",
-        "paulzerdin TW"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -3418,10 +3133,7 @@
       "itunes_duration": "1:13:18",
       "speakers": [
         "Josh Johnson",
-        "Nish Kumar",
-        "James Acaster",
-        "Alfie Brown",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josh",
@@ -3441,11 +3153,7 @@
       "itunes_duration": "1:16:58",
       "speakers": [
         "Jessie Cave",
-        "Harry Potter",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady",
-        "Find Jessie"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jessie",
@@ -3465,10 +3173,7 @@
       "itunes_duration": "1:26:35",
       "speakers": [
         "John Van Der Put",
-        "bulletproof performer",
-        "Nish Kumar",
-        "James Acaster",
-        "Fern Brady"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "piff",
@@ -3489,11 +3194,8 @@
       "enclosure_length": "84145005",
       "itunes_duration": "1:27:38",
       "speakers": [
-        "Greg Jenner",
-        "Nish Kumar",
-        "James Acaster",
-        "Alfie Brown",
-        "Fern Brady"
+        "Greg Jenner If",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "greg",
@@ -3513,8 +3215,7 @@
       "itunes_duration": "1:04:03",
       "speakers": [
         "Rosie Jones",
-        "Nish Kumar",
-        "Alfie Brown"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rosie",
@@ -3534,11 +3235,7 @@
       "itunes_duration": "1:16:08",
       "speakers": [
         "Ian Moore",
-        "Comedy Store",
-        "Alfie Brown",
-        "Fern Brady",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "moore"
@@ -3556,13 +3253,7 @@
       "enclosure_length": "78137678",
       "itunes_duration": "1:21:23",
       "speakers": [
-        "James Acaster",
-        "Turtle Canyon",
-        "Joel Dommett",
-        "Alfie Brown",
-        "Stuart Laws",
-        "Matt Winning",
-        "Maria Kuzak"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stuart"
@@ -3580,11 +3271,8 @@
       "enclosure_length": "66363355",
       "itunes_duration": "1:09:07",
       "speakers": [
-        "Catherine Bohart",
-        "James Acaster",
-        "Nish Kumar",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Catherine Bohart Scintillating",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "catherine",
@@ -3603,11 +3291,7 @@
       "enclosure_length": "71700282",
       "itunes_duration": "1:14:41",
       "speakers": [
-        "Amy Gledhill",
-        "Chris Cantrill",
-        "James Acaster",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "delightful",
@@ -3626,10 +3310,7 @@
       "enclosure_length": "85153960",
       "itunes_duration": "1:28:42",
       "speakers": [
-        "James Acaster",
-        "SoozUK Co-hosting",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sooz",
@@ -3648,9 +3329,8 @@
       "enclosure_length": "60231471",
       "itunes_duration": "1:02:44",
       "speakers": [
-        "James Acaster",
-        "Maria Kuzak",
-        "Ben Gott"
+        "South Africa",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "loyiso",
@@ -3671,11 +3351,7 @@
       "itunes_duration": "1:11:36",
       "speakers": [
         "Ramon Rivas",
-        "Weed Comedy",
-        "James Acaster",
-        "blazerramon Ramon",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ramon",
@@ -3695,8 +3371,7 @@
       "itunes_duration": "1:26:00",
       "speakers": [
         "Olga Koch",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "olga",
@@ -3715,9 +3390,7 @@
       "enclosure_length": "96624433",
       "itunes_duration": "1:40:38",
       "speakers": [
-        "James Acaster",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bethany",
@@ -3736,12 +3409,8 @@
       "enclosure_length": "67892245",
       "itunes_duration": "1:10:43",
       "speakers": [
-        "Russell Kane",
-        "Stewart Lee",
-        "James Acaster",
-        "Follow Russell",
-        "Maria Kuzak",
-        "Ben Gott"
+        "Russell Kane Energetic",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "russell",
@@ -3761,13 +3430,7 @@
       "itunes_duration": "1:07:02",
       "speakers": [
         "Tom Neenan Head",
-        "Tom Neenan",
-        "James Acaster",
-        "Tom Neenan Follow tneenan",
-        "Follow Tom’s Dr",
-        "Jenny Nicholson",
-        "Lindsey Ellis",
-        "Maria Kuzak"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "neenan"
@@ -3787,9 +3450,7 @@
       "speakers": [
         "Edinburgh Comedy Award",
         "Jordan Brookes",
-        "James Acaster",
-        "Stu’s Infinite Sofa",
-        "Maria Kuzak"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jordan",
@@ -3809,9 +3470,7 @@
       "itunes_duration": "1:01:48",
       "speakers": [
         "Donna Return",
-        "James Acaster",
-        "Stu’s Infinite Sofa",
-        "Maria Kuzak"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aunty",
@@ -3832,10 +3491,7 @@
       "itunes_duration": "1:10:42",
       "speakers": [
         "Uncle Roger",
-        "Nigel Ng",
-        "James Acaster",
-        "Stu’s Infinite Sofa",
-        "Maria Kuzak"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nigel",
@@ -3855,7 +3511,7 @@
       "itunes_duration": "1:07:32",
       "speakers": [
         "Athena Kugblenu",
-        "James Acaster"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "athena",
@@ -3875,7 +3531,7 @@
       "itunes_duration": "1:01:57",
       "speakers": [
         "James Acaster Returns",
-        "James Acaster"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -3896,7 +3552,7 @@
       "itunes_duration": "1:02:31",
       "speakers": [
         "James Acaster Returns",
-        "James Acaster"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -3917,7 +3573,7 @@
       "itunes_duration": "1:36:29",
       "speakers": [
         "Martin Mor",
-        "Everything Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "martin"
@@ -3936,11 +3592,7 @@
       "itunes_duration": "1:19:54",
       "speakers": [
         "Colt Cabana",
-        "Brendon Burns",
-        "John Hastings",
-        "Toru Yano",
-        "Tw IG",
-        "Sara Barron"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "colt",
@@ -3959,10 +3611,7 @@
       "enclosure_length": "80340544",
       "itunes_duration": "1:23:41",
       "speakers": [
-        "Sara Barron",
-        "Dara O'Briain",
-        "Sarah Millican",
-        "Russell Howard"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alasdair",
@@ -3983,9 +3632,7 @@
       "itunes_duration": "1:07:42",
       "speakers": [
         "Laurie Kilmartin",
-        "Dara O'Briain",
-        "Sarah Millican",
-        "Russell Howard"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "laurie",
@@ -4005,13 +3652,7 @@
       "itunes_duration": "1:22:47",
       "speakers": [
         "Mat Ewins",
-        "Harry Hill’s Club Nite",
-        "Download Mat",
-        "John Kearns",
-        "Harry Hill",
-        "WaTsUMudD TW",
-        "Dara O'Briain",
-        "Sarah Millican"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ewins"
@@ -4030,10 +3671,7 @@
       "itunes_duration": "1:32:51",
       "speakers": [
         "Kim Noble",
-        "Everything Stu",
-        "Dara O'Briain",
-        "Sarah Millican",
-        "Russell Howard"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "noble"
@@ -4052,10 +3690,7 @@
       "itunes_duration": "1:18:22",
       "speakers": [
         "Erin Foley",
-        "Deep Dive",
-        "Dara O'Briain",
-        "Sarah Millican",
-        "Russell Howard"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "erin",
@@ -4075,10 +3710,7 @@
       "itunes_duration": "1:24:18",
       "speakers": [
         "Paul Sinha",
-        "Everything Stu",
-        "Dara O'Briain",
-        "Sarah Millican",
-        "Russell Howard"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -4099,10 +3731,7 @@
       "itunes_duration": "1:30:26",
       "speakers": [
         "Gary Gulman",
-        "Kurt Vonnegut",
-        "Dara O'Briain",
-        "Sarah Millican",
-        "Russell Howard"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gary",
@@ -4122,13 +3751,7 @@
       "itunes_duration": "1:26:29",
       "speakers": [
         "Larry Dean",
-        "Stu Goldsmith",
-        "Alex Horne",
-        "Ed Aczel",
-        "Thom Tuck",
-        "Kelly Convey",
-        "Alice Fraser",
-        "Marcus Brigstocke"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "larry",
@@ -4147,14 +3770,9 @@
       "enclosure_length": "69185208",
       "itunes_duration": "1:12:03",
       "speakers": [
-        "Stu Goldsmith",
-        "Alex Horne",
-        "Ed Aczel",
-        "Thom Tuck",
-        "Kelly Convey",
-        "Alice Fraser",
-        "Marcus Brigstocke",
-        "Charlie George"
+        "Archie Maddocks Stand",
+        "Archie Maddocks",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "archie",
@@ -4174,13 +3792,7 @@
       "itunes_duration": "1:14:58",
       "speakers": [
         "Nigel Ng",
-        "Stu Goldsmith",
-        "Rhod Gilbert",
-        "Sara Barron",
-        "Luisa Omelian",
-        "Josie Long",
-        "Sarah Millican",
-        "Rob Kemp"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nigel"
@@ -4199,13 +3811,7 @@
       "itunes_duration": "59:54",
       "speakers": [
         "Catherine Cohen",
-        "Stu Goldsmith",
-        "Rhod Gilbert",
-        "Sara Barron",
-        "Luisa Omelian",
-        "Josie Long",
-        "Sarah Millican",
-        "Rob Kemp"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "catherine",
@@ -4224,14 +3830,9 @@
       "enclosure_length": "58639683",
       "itunes_duration": "1:01:04",
       "speakers": [
-        "Jess Fostekew",
-        "Spencer Jones",
-        "Stu Goldsmith",
-        "Rhod Gilbert",
-        "Josh Widdicombe",
-        "Josie Long",
-        "Sarah Millican",
-        "Rob Kemp"
+        "Sindhu Vee Returns",
+        "Child Labour",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sindhu",
@@ -4250,14 +3851,7 @@
       "enclosure_length": "76046424",
       "itunes_duration": "1:19:12",
       "speakers": [
-        "Pope Lonergan",
-        "Stu Goldsmith",
-        "Josh Widdicombe",
-        "Sindhu Vee",
-        "Josie Long",
-        "Sarah Millican",
-        "Rob Kemp",
-        "Russell Hicks"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pope",
@@ -4277,13 +3871,7 @@
       "itunes_duration": "1:21:17",
       "speakers": [
         "Brett Goldstein",
-        "Stu Goldsmith",
-        "Nish Kumar",
-        "Suzi Ruffell",
-        "Anna Mann",
-        "Randy Feltface",
-        "Josie Long",
-        "Sarah Millican"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brett",
@@ -4303,12 +3891,7 @@
       "itunes_duration": "9:30",
       "speakers": [
         "Stu Goldsmith",
-        "Russell Howard",
-        "Sarah Millican",
-        "Iain Stirling",
-        "Laura Lexx",
-        "Alfie Brown",
-        "Anna Mann"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -4332,9 +3915,7 @@
       "itunes_duration": "1:23:30",
       "speakers": [
         "Helen Zaltzman",
-        "Olly Mann",
-        "Josie Long",
-        "com helenzaltzman"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "helen",
@@ -4354,11 +3935,7 @@
       "itunes_duration": "1:15:15",
       "speakers": [
         "Alonzo Bodden",
-        "Terry Crews",
-        "Stu Goldsmith",
-        "James Acaster",
-        "Sarah Millican",
-        "Jasky Singh"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alonzo",
@@ -4377,9 +3954,7 @@
       "enclosure_length": "19359062",
       "itunes_duration": "20:09",
       "speakers": [
-        "Stu Goldsmith",
-        "James Acaster",
-        "Sarah Millican"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "special",
@@ -4399,14 +3974,7 @@
       "enclosure_length": "78757489",
       "itunes_duration": "1:21:01",
       "speakers": [
-        "Timewaster Robert Popper",
-        "Peter Serafinowicz",
-        "Stu Goldsmith",
-        "Sindhu Vee",
-        "Desiree Burch",
-        "Phil Ellis",
-        "Rob Rouse",
-        "Ben Milden"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "robert",
@@ -4426,12 +3994,7 @@
       "itunes_duration": "1:15:30",
       "speakers": [
         "Scott Bennett",
-        "Rob Brydon",
-        "Jason Manford how",
-        "Pete Dobbing",
-        "Follow Scott",
-        "Stu Goldsmith",
-        "Ben Milden"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "scott",
@@ -4451,7 +4014,7 @@
       "itunes_duration": "44:46",
       "speakers": [
         "Alexander Bennett",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lockdown",
@@ -4473,11 +4036,7 @@
       "itunes_duration": "1:22:33",
       "speakers": [
         "Robby Collins",
-        "Trevor Noah",
-        "Dave Chapelle",
-        "Pete Dobbing",
-        "Stu Goldsmith",
-        "Ben Milden"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "robby",
@@ -4498,8 +4057,7 @@
       "speakers": [
         "Steve McNeil",
         "Briain's Go",
-        "Pete Dobbing",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "steve",
@@ -4519,9 +4077,7 @@
       "itunes_duration": "1:07:49",
       "speakers": [
         "Desiree Burch",
-        "dick pics",
-        "Pete Dobbing",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "desiree",
@@ -4540,7 +4096,7 @@
       "enclosure_length": "49161704",
       "itunes_duration": "51:12",
       "speakers": [
-        "Pete Dobbing"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "special",
@@ -4564,10 +4120,7 @@
       "speakers": [
         "Janey Godley Superb",
         "Janey Godley",
-        "Ashley Storrie",
-        "Pot Tour",
-        "Stuart Goldsmith",
-        "Edinburgh Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "janey",
@@ -4587,11 +4140,7 @@
       "itunes_duration": "1:09:05",
       "speakers": [
         "Alexei Sayle",
-        "Sandwich Bar",
-        "Ben Elton",
-        "Ellen Frost",
-        "Stuart Goldsmith",
-        "Edinburgh Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alexei",
@@ -4611,7 +4160,7 @@
       "itunes_duration": "1:24:43",
       "speakers": [
         "Eshaan Akbar",
-        "Catch Eshaan"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "eshaan",
@@ -4630,7 +4179,8 @@
       "enclosure_length": "74018248",
       "itunes_duration": "1:16:04",
       "speakers": [
-        "Seann Walsh"
+        "Seann Walsh",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "seann",
@@ -4649,7 +4199,8 @@
       "enclosure_length": "71841936",
       "itunes_duration": "1:13:48",
       "speakers": [
-        "Matt Winning"
+        "Matt Winning",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "matt",
@@ -4669,8 +4220,7 @@
       "itunes_duration": "1:10:26",
       "speakers": [
         "Twins Randy",
-        "Roast Battles",
-        "Farnham Maltings"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sklar",
@@ -4690,8 +4240,7 @@
       "itunes_duration": "1:24:27",
       "speakers": [
         "Ninia Benjamin",
-        "Will Smith",
-        "Newcastle Stand"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ninia",
@@ -4710,7 +4259,8 @@
       "enclosure_length": "56388314",
       "itunes_duration": "57:43",
       "speakers": [
-        "Jamali Maddix"
+        "Jamali Maddix",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jamali",
@@ -4731,10 +4281,7 @@
       "speakers": [
         "John Kearns",
         "Best Newcomer",
-        "Jacques Tati",
-        "Neil Hamburger",
-        "Harry Hill",
-        "Chris Morris"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -4753,7 +4300,8 @@
       "enclosure_length": "30658141",
       "itunes_duration": "31:56",
       "speakers": [
-        "Conan Debrief"
+        "Conan Debrief",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "conan",
@@ -4773,9 +4321,7 @@
       "itunes_duration": "53:28",
       "speakers": [
         "Tom Basden Returning",
-        "Tom Basden",
-        "Best Newcomer",
-        "Soho Theatre"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "basden"
@@ -4795,7 +4341,7 @@
       "speakers": [
         "Santa Claus",
         "Herbie Treehead",
-        "Comcompod Happy"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "santa",
@@ -4816,7 +4362,7 @@
       "enclosure_length": "82475651",
       "itunes_duration": "1:24:53",
       "speakers": [
-        "Soho Theatre"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "joan"
@@ -4834,7 +4380,8 @@
       "enclosure_length": "74004454",
       "itunes_duration": "1:16:04",
       "speakers": [
-        "Tim Renkow"
+        "Tim Renkow",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "renkow"
@@ -4853,7 +4400,7 @@
       "itunes_duration": "1:26:40",
       "speakers": [
         "Gregg Turkington",
-        "Comcompod Weirdos Save"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "neil",
@@ -4875,9 +4422,7 @@
       "itunes_duration": "1:32:45",
       "speakers": [
         "Matt Besser",
-        "Del Close",
-        "Keith Johnstone",
-        "DirectTV Vod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "matt",
@@ -4896,8 +4441,8 @@
       "enclosure_length": "78836067",
       "itunes_duration": "1:21:06",
       "speakers": [
-        "Carl Hutchinson",
-        "Comedy Box"
+        "Carl Hutchinson Combining",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "carl",
@@ -4917,8 +4462,7 @@
       "itunes_duration": "1:07:23",
       "speakers": [
         "Chris Fleming",
-        "Nottingham Glee Club",
-        "Comedy Box"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "chris",
@@ -4937,8 +4481,8 @@
       "enclosure_length": "78613287",
       "itunes_duration": "1:20:52",
       "speakers": [
-        "Nottingham Glee Club",
-        "Comedy Box"
+        "mass appeal",
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -4954,10 +4498,7 @@
       "enclosure_length": "69115587",
       "itunes_duration": "1:10:58",
       "speakers": [
-        "Nicky Wilkinson",
-        "Claire Ford",
-        "Nottingham Glee Club",
-        "Comedy Box"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kagool"
@@ -4978,10 +4519,7 @@
         "Jonny Woolley",
         "Zach Zucker",
         "Viggo Venn",
-        "Jack Tucker",
-        "Find Stu",
-        "Nottingham Glee Club",
-        "Comedy Box"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "zach",
@@ -5003,10 +4541,7 @@
       "itunes_duration": "1:22:55",
       "speakers": [
         "Sofie Hagen",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club",
-        "Comedy Box"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sofie",
@@ -5026,11 +4561,7 @@
       "itunes_duration": "1:27:03",
       "speakers": [
         "Sara Barron",
-        "sarabarron Catch",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club",
-        "Comedy Box"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sara",
@@ -5049,11 +4580,7 @@
       "enclosure_length": "69695715",
       "itunes_duration": "1:11:34",
       "speakers": [
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club",
-        "Comedy Box",
-        "Dave Hill"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "randy",
@@ -5073,11 +4600,7 @@
       "enclosure_length": "83949795",
       "itunes_duration": "1:26:25",
       "speakers": [
-        "Ellie Taylor",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club",
-        "Comedy Box"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ellie",
@@ -5097,8 +4620,7 @@
       "itunes_duration": "1:25:37",
       "speakers": [
         "Rob Auton",
-        "Kanye West",
-        "RobertAuton Dates"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "auton"
@@ -5116,8 +4638,8 @@
       "enclosure_length": "67441659",
       "itunes_duration": "1:09:13",
       "speakers": [
-        "Joz Norris",
-        "co uk"
+        "Joz Norri",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "norris",
@@ -5136,10 +4658,7 @@
       "enclosure_length": "64368825",
       "itunes_duration": "1:06:01",
       "speakers": [
-        "Suzi Ruffell",
-        "Josh Widdicombe",
-        "Kevin Bridges",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "suzi",
@@ -5159,8 +4678,7 @@
       "itunes_duration": "1:27:53",
       "speakers": [
         "Vikki Stone",
-        "Song Bird",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "vikki",
@@ -5179,8 +4697,7 @@
       "enclosure_length": "66739524",
       "itunes_duration": "1:08:29",
       "speakers": [
-        "Pete Holmes",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pete",
@@ -5202,7 +4719,7 @@
       "itunes_duration": "1:14:00",
       "speakers": [
         "Jayde Adams",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jayde",
@@ -5226,8 +4743,7 @@
       "speakers": [
         "Simon Brodkin",
         "Lee Nelson",
-        "SimonBrodkin Simon Brodkin",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "simon",
@@ -5247,13 +4763,7 @@
       "itunes_duration": "2:02:59",
       "speakers": [
         "Stu Goldsmith",
-        "Sarah Millican",
-        "Tom Allen",
-        "Sindhu Vee",
-        "James Acaster",
-        "Ricky Gervais",
-        "Brett Goldstein",
-        "Herbie Treehead"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stuart",
@@ -5273,7 +4783,7 @@
       "itunes_duration": "1:02:26",
       "speakers": [
         "Sam Jay",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -5290,7 +4800,7 @@
       "itunes_duration": "1:07:29",
       "speakers": [
         "Nick Revell",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -5310,7 +4820,7 @@
       "itunes_duration": "1:14:36",
       "speakers": [
         "Paul Smith",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -5330,7 +4840,8 @@
       "itunes_duration": "1:11:47",
       "speakers": [
         "Markus Birdman",
-        "Edinburgh Fringe ComComPod"
+        "Markus Bir",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "markus",
@@ -5350,8 +4861,7 @@
       "itunes_duration": "1:28:19",
       "speakers": [
         "Russell Hicks",
-        "Find Russell",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "russell",
@@ -5371,7 +4881,7 @@
       "itunes_duration": "1:20:19",
       "speakers": [
         "Ahir Shah",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ahir",
@@ -5391,7 +4901,7 @@
       "itunes_duration": "1:10:04",
       "speakers": [
         "Andi Osho",
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "andi",
@@ -5410,7 +4920,7 @@
       "enclosure_length": "65010024",
       "itunes_duration": "1:06:41",
       "speakers": [
-        "Edinburgh Fringe ComComPod"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josh",
@@ -5434,8 +4944,7 @@
       "itunes_duration": "1:17:07",
       "speakers": [
         "Bec Hill",
-        "How Bec",
-        "Ed Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "hill"
@@ -5454,7 +4963,7 @@
       "itunes_duration": "1:08:12",
       "speakers": [
         "Matt Braunger",
-        "Marc Maron"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "matt",
@@ -5477,10 +4986,7 @@
       "itunes_duration": "1:26:55",
       "speakers": [
         "Deborah Frances-White",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club",
-        "Farnham Maltings"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "deborah",
@@ -5500,13 +5006,8 @@
       "itunes_duration": "1:20:22",
       "speakers": [
         "Chris Addison",
-        "Rebel Wilson",
-        "Anne Hathaway",
-        "Armando Iannucci",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club",
-        "Farnham Maltings"
+        "Chris Ad",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "chris",
@@ -5526,11 +5027,7 @@
       "itunes_duration": "1:17:08",
       "speakers": [
         "Eugene Mirman",
-        "EugeneMirman Get ad-free",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club",
-        "Farnham Maltings"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "eugene",
@@ -5551,10 +5048,7 @@
       "itunes_duration": "1:11:37",
       "speakers": [
         "Sindhu Vee",
-        "Leamington Spa Royal Spa",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sindhu",
@@ -5575,11 +5069,7 @@
       "itunes_duration": "1:11:44",
       "speakers": [
         "Roy Wood Jr",
-        "Ronny Chieng",
-        "Leamington Spa Royal Spa",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "wood",
@@ -5599,11 +5089,7 @@
       "itunes_duration": "1:27:10",
       "speakers": [
         "Kathy Griffin",
-        "Donald Trump",
-        "Buy Fuck Trump",
-        "Leamington Spa Royal Spa",
-        "Edinburgh Stand",
-        "Nottingham Glee Club"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kathy",
@@ -5625,10 +5111,7 @@
       "enclosure_length": "74055457",
       "itunes_duration": "1:16:07",
       "speakers": [
-        "Blog Get",
-        "Leamington Spa Royal Spa",
-        "Edinburgh Stand",
-        "Nottingham Glee Club"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "yahtzee",
@@ -5647,12 +5130,9 @@
       "enclosure_length": "81980355",
       "itunes_duration": "1:24:22",
       "speakers": [
-        "XS Mallarkey",
-        "Spike Milligan",
-        "Dead Parrot",
-        "Leamington Spa Royal Spa",
-        "Edinburgh Stand",
-        "Nottingham Glee Club Hosted"
+        "Toby Hadoke Toby",
+        "Dr Who",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "toby",
@@ -5671,11 +5151,8 @@
       "enclosure_length": "1946883",
       "itunes_duration": "2:02",
       "speakers": [
-        "Leamington Spa",
-        "Edinburgh Stand",
-        "Nottingham Glee Club",
-        "Birmingham Glee Club",
-        "Comedy Box"
+        "Comedy Special",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "comedy",
@@ -5695,7 +5172,7 @@
       "itunes_duration": "1:22:20",
       "speakers": [
         "Jake Johannsen",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jake",
@@ -5715,7 +5192,7 @@
       "itunes_duration": "1:22:08",
       "speakers": [
         "Jeff Innocent",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jeff",
@@ -5734,7 +5211,9 @@
       "enclosure_length": "64947723",
       "itunes_duration": "1:06:37",
       "speakers": [
-        "Leamington Spa Royal Spa"
+        "Vault Festival",
+        "Police Cops",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "police",
@@ -5756,9 +5235,8 @@
       "itunes_duration": "1:39:26",
       "speakers": [
         "John Rutledge",
-        "John Eggsy Rutledge",
-        "Mike Bubbins",
-        "Leamington Spa Royal Spa"
+        "John Eggsy Rutled",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "eggsy",
@@ -5782,7 +5260,7 @@
       "itunes_duration": "1:06:10",
       "speakers": [
         "Jeremy Hardy",
-        "Mark Steele"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jeremy",
@@ -5802,8 +5280,7 @@
       "itunes_duration": "1:17:12",
       "speakers": [
         "Jessica Fostekew",
-        "Lauren Pattinson",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jessica",
@@ -5823,8 +5300,7 @@
       "itunes_duration": "1:16:09",
       "speakers": [
         "Ed Aczel",
-        "Edward Aczel",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aczel"
@@ -5844,8 +5320,7 @@
       "speakers": [
         "Ben Bailey Smith",
         "Aka Doc Brown",
-        "Youtube Book",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brown"
@@ -5863,7 +5338,8 @@
       "enclosure_length": "72122803",
       "itunes_duration": "1:14:06",
       "speakers": [
-        "Laura Davis"
+        "Laura Davis",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "laura",
@@ -5883,9 +5359,7 @@
       "itunes_duration": "1:05:12",
       "speakers": [
         "John Robertson Creator",
-        "John Robertson",
-        "Twitter Robbotron Stu",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -5905,10 +5379,7 @@
       "itunes_duration": "1:09:04",
       "speakers": [
         "Laura Lexx",
-        "Jessica Fostekew",
-        "Catch Laura",
-        "Secret Santa",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "laura",
@@ -5927,7 +5398,7 @@
       "enclosure_length": "808380",
       "itunes_duration": "0:57",
       "speakers": [
-        "Lise Richardson LiseRichardson"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "hive"
@@ -5949,9 +5420,7 @@
         "Anna Ptaszynski",
         "Dan Schreiber",
         "James Harkin",
-        "Twitter NoSuchThing Buy",
-        "Stu Goldsmith",
-        "Secret Santa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "thing",
@@ -5970,7 +5439,9 @@
       "enclosure_length": "67812822",
       "itunes_duration": "1:09:37",
       "speakers": [
-        "Leamington Spa Royal Spa"
+        "Sean Morley Peep",
+        "Sean Morley",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sean",
@@ -5990,10 +5461,7 @@
       "itunes_duration": "1:24:25",
       "speakers": [
         "Imran Yusuf",
-        "Best Newcomer",
-        "Michael McIntyre",
-        "Comedy Roadshow",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "imran",
@@ -6012,8 +5480,9 @@
       "enclosure_length": "84003709",
       "itunes_duration": "1:26:28",
       "speakers": [
-        "com Enjoy",
-        "Leamington Spa Royal Spa"
+        "weaponised vulnerability",
+        "tackling impo",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lyons"
@@ -6031,7 +5500,8 @@
       "enclosure_length": "3337379",
       "itunes_duration": "3:28",
       "speakers": [
-        "Future Girl"
+        "Future Girl",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "future",
@@ -6050,8 +5520,10 @@
       "enclosure_length": "73435196",
       "itunes_duration": "1:15:28",
       "speakers": [
-        "Mitch Hedberg",
-        "Leamington Spa Royal Spa"
+        "Ismo Leikola Crowned",
+        "Hollywood Laugh Factory",
+        "Finnish Ismo",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ismo",
@@ -6071,8 +5543,7 @@
       "itunes_duration": "1:00:23",
       "speakers": [
         "Mark Thomas",
-        "Mark Thomas Tour",
-        "Leamington Spa Royal Spa"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mark",
@@ -6091,7 +5562,8 @@
       "enclosure_length": "80509577",
       "itunes_duration": "1:22:50",
       "speakers": [
-        "Janeane Garofalo"
+        "Janeane Garofalo",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "janeane",
@@ -6110,7 +5582,7 @@
       "enclosure_length": "69792269",
       "itunes_duration": "1:11:40",
       "speakers": [
-        "Garrett Millerick"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "garrett",
@@ -6132,10 +5604,7 @@
       "enclosure_length": "69601720",
       "itunes_duration": "1:11:28",
       "speakers": [
-        "Alice Fraser",
-        "Follow Alice",
-        "Ben Moorhouse",
-        "Cinema more"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alice",
@@ -6158,7 +5627,8 @@
       "enclosure_length": "85411817",
       "itunes_duration": "59:18",
       "speakers": [
-        "Alex Edelman"
+        "Alex Edelman",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alex",
@@ -6178,7 +5648,9 @@
       "itunes_duration": "1:05:48",
       "speakers": [
         "Jack Docherty",
-        "Cameron Miekelsonfrom"
+        "Cameron Miekelsonfrom",
+        "Jack Doc",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jack",
@@ -6198,7 +5670,8 @@
       "itunes_duration": "1:04:40",
       "speakers": [
         "Edinburgh Comedy Award",
-        "Rose Matafeo"
+        "Rose Matafeo",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rose",
@@ -6218,8 +5691,7 @@
       "itunes_duration": "1:04:13",
       "speakers": [
         "Nick Thune",
-        "Mitch Hedberg",
-        "Good Guy"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -6238,7 +5710,8 @@
       "enclosure_length": "60611370",
       "itunes_duration": "1:02:06",
       "speakers": [
-        "Myq Kaplan"
+        "Myq Kaplan",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kaplan"
@@ -6255,7 +5728,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60820351",
       "itunes_duration": "1:02:20",
-      "speakers": [],
+      "speakers": [
+        "Jen Brister",
+        "Larmer Tree Festival",
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "brister",
         "larmer",
@@ -6275,7 +5752,8 @@
       "enclosure_length": "60791932",
       "itunes_duration": "1:02:18",
       "speakers": [
-        "Ellie Gibson"
+        "Ellie Gibson",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "scummy",
@@ -6295,7 +5773,7 @@
       "itunes_duration": "1:31:27",
       "speakers": [
         "Paul Foot",
-        "Ed Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -6314,10 +5792,7 @@
       "enclosure_length": "66561878",
       "itunes_duration": "1:08:18",
       "speakers": [
-        "Edinburgh Fringe",
-        "Robin Ince",
-        "Dara O'Briain",
-        "James Acaster"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "raymond",
@@ -6339,9 +5814,7 @@
       "speakers": [
         "Luke Roberts Splicing",
         "John Luke Roberts",
-        "Thom Tuck",
-        "John Luke",
-        "Ed Fringe"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -6362,9 +5835,7 @@
       "itunes_duration": "1:25:22",
       "speakers": [
         "Robin Ince Comedian",
-        "Robin Ince",
-        "Dara O'Briain",
-        "James Acaster"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "robin",
@@ -6383,9 +5854,8 @@
       "enclosure_length": "83366141",
       "itunes_duration": "1:26:50",
       "speakers": [
-        "Guest Zero",
-        "Dara O'Briain",
-        "James Acaster"
+        "Guest Zer",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "simon",
@@ -6405,8 +5875,7 @@
       "itunes_duration": "1:27:38",
       "speakers": [
         "Anuvab Pal",
-        "Russell Howard",
-        "James Acaster"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "anuvab"
@@ -6424,10 +5893,8 @@
       "enclosure_length": "83331634",
       "itunes_duration": "1:25:46",
       "speakers": [
-        "Russell Howard",
-        "James Acaster",
-        "SophieWillan See Stu",
-        "Birmingham Glee"
+        "Sophie Willan Sophie",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sophie",
@@ -6446,9 +5913,8 @@
       "enclosure_length": "80331938",
       "itunes_duration": "1:06:12",
       "speakers": [
-        "Ben Target",
-        "Edinburgh Fringe",
-        "Birmingham Glee"
+        "Ben Target Considering",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "target"
@@ -6466,7 +5932,7 @@
       "enclosure_length": "2146011",
       "itunes_duration": "1:16",
       "speakers": [
-        "Paul Foot"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "shhhh"
@@ -6484,7 +5950,8 @@
       "enclosure_length": "63043477",
       "itunes_duration": "1:04:38",
       "speakers": [
-        "Anne Edmonds See"
+        "Anne Edmonds See",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "anne",
@@ -6504,9 +5971,7 @@
       "itunes_duration": "1:00:23",
       "speakers": [
         "Ron Tater Salad White",
-        "Ron White ron white",
-        "Henry Tudor House",
-        "Birmingham Glee"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "white",
@@ -6525,7 +5990,8 @@
       "enclosure_length": "76067791",
       "itunes_duration": "1:19:14",
       "speakers": [
-        "Tez Ilyas"
+        "Tez Ilyas Very",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ilyas"
@@ -6543,7 +6009,8 @@
       "enclosure_length": "63861859",
       "itunes_duration": "1:05:30",
       "speakers": [
-        "Beth Stelling"
+        "Beth Stelling",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "beth",
@@ -6563,7 +6030,8 @@
       "enclosure_length": "81657290",
       "itunes_duration": "1:24:02",
       "speakers": [
-        "Maria Bamford"
+        "Maria Bamford",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "maria",
@@ -6582,8 +6050,9 @@
       "enclosure_length": "46885615",
       "itunes_duration": "47:49",
       "speakers": [
-        "Andy Nyman",
-        "Jeremy Dyson"
+        "Jeremy Dyson",
+        "Ghost Stories",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jeremy",
@@ -6605,8 +6074,8 @@
       "itunes_duration": "51:02",
       "speakers": [
         "Andy Nyman",
-        "Jeremy Dyson",
-        "Derren Brown"
+        "Andy Nyma",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "andy",
@@ -6626,7 +6095,7 @@
       "itunes_duration": "1:00:31",
       "speakers": [
         "James Davis",
-        "Will Smith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -6648,7 +6117,7 @@
       "speakers": [
         "Maeve Higgins",
         "Marvellous Maeve Higgins",
-        "Find Maeve"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "maeve",
@@ -6667,7 +6136,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107531892",
       "itunes_duration": "1:50:59",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "comedian"
       ]
@@ -6683,7 +6154,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85289972",
       "itunes_duration": "1:27:49",
-      "speakers": [],
+      "speakers": [
+        "El Salvadoran American",
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "julio",
         "torres"
@@ -6702,7 +6176,8 @@
       "itunes_duration": "1:58:31",
       "speakers": [
         "Colin Hoult",
-        "Anna Mann"
+        "Anna Mann",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "colin",
@@ -6721,7 +6196,7 @@
       "enclosure_length": "93692425",
       "itunes_duration": "1:36:34",
       "speakers": [
-        "Arabella Weir"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "arabella",
@@ -6739,7 +6214,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59085556",
       "itunes_duration": "1:01:32",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "compared"
       ]
@@ -6757,7 +6234,8 @@
       "itunes_duration": "1:15:49",
       "speakers": [
         "Jonathan Pie",
-        "Tom Walker"
+        "Tom Walker",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jonathan",
@@ -6779,7 +6257,7 @@
       "itunes_duration": "1:03:09",
       "speakers": [
         "James Acaster",
-        "Buy Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -6800,7 +6278,7 @@
       "itunes_duration": "1:22:12",
       "speakers": [
         "James Acaster",
-        "Buy Stu"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -6819,7 +6297,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94333919",
       "itunes_duration": "1:38:15",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "jess",
         "robinson"
@@ -6836,7 +6316,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40802670",
       "itunes_duration": "1:24:14",
-      "speakers": [],
+      "speakers": [
+        "Zoe Coombs Marr",
+        "Zoe Coombs",
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "coombs",
         "marr"
@@ -6854,7 +6338,8 @@
       "enclosure_length": "49177730",
       "itunes_duration": "1:41:46",
       "speakers": [
-        "Howard Read"
+        "Howard Read",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "howard",
@@ -6873,7 +6358,7 @@
       "enclosure_length": "20635365",
       "itunes_duration": "42:04",
       "speakers": [
-        "Brian Regan"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brian",
@@ -6893,7 +6378,8 @@
       "enclosure_length": "41435242",
       "itunes_duration": "1:25:34",
       "speakers": [
-        "Sarah Kendall"
+        "Sarah Kendall",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -6913,7 +6399,7 @@
       "itunes_duration": "1:23:25",
       "speakers": [
         "Sean Patton",
-        "Buy Sean"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sean",
@@ -6931,7 +6417,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43417831",
       "itunes_duration": "1:29:43",
-      "speakers": [],
+      "speakers": [
+        "Hunter Recorded",
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "reginald",
         "hunter"
@@ -6949,7 +6438,10 @@
       "enclosure_length": "34211791",
       "itunes_duration": "1:10:27",
       "speakers": [
-        "Tim McGarry"
+        "Belfast Comedy Festival",
+        "Northern Ireland",
+        "Give My Head Peace",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mcgarry",
@@ -6970,7 +6462,8 @@
       "enclosure_length": "41423962",
       "itunes_duration": "1:25:33",
       "speakers": [
-        "Jo Caulfield"
+        "Jo Caulfield",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "caulfield"
@@ -6988,7 +6481,8 @@
       "enclosure_length": "46151539",
       "itunes_duration": "1:35:27",
       "speakers": [
-        "Joe DeRosa"
+        "Joe DeRosa",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "derosa"
@@ -7006,7 +6500,8 @@
       "enclosure_length": "30228097",
       "itunes_duration": "1:02:07",
       "speakers": [
-        "Michael Legge"
+        "Michael Legge",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "michael",
@@ -7028,7 +6523,8 @@
       "enclosure_length": "36404390",
       "itunes_duration": "1:15:12",
       "speakers": [
-        "Sasheer Zamata"
+        "Sasheer Zamata",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sasheer",
@@ -7047,7 +6543,8 @@
       "enclosure_length": "31453344",
       "itunes_duration": "1:04:41",
       "speakers": [
-        "Sugar Sammy"
+        "Sugar Sammy",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sugar",
@@ -7066,7 +6563,8 @@
       "enclosure_length": "35141805",
       "itunes_duration": "1:12:24",
       "speakers": [
-        "Liza Treyger"
+        "Liza Treyger",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "liza",
@@ -7085,8 +6583,9 @@
       "enclosure_length": "32692083",
       "itunes_duration": "1:07:17",
       "speakers": [
-        "Chris Rock",
-        "Stu Goldsmith"
+        "Kamau Bell",
+        "Emmy Award",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kamau",
@@ -7108,8 +6607,7 @@
       "itunes_duration": "1:19:51",
       "speakers": [
         "Andy Daly",
-        "Comedy Bang Bang",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "andy",
@@ -7128,7 +6626,8 @@
       "enclosure_length": "33067124",
       "itunes_duration": "1:08:04",
       "speakers": [
-        "Venezuelan Ivan"
+        "Venezuelan Ivan",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ivan",
@@ -7147,7 +6646,8 @@
       "enclosure_length": "43188133",
       "itunes_duration": "1:29:15",
       "speakers": [
-        "Nick Cody"
+        "Nick Cody",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -7166,7 +6666,8 @@
       "enclosure_length": "39041822",
       "itunes_duration": "1:20:42",
       "speakers": [
-        "Simon Munnery"
+        "Simon Munnery",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "simon",
@@ -7185,7 +6686,8 @@
       "enclosure_length": "42099011",
       "itunes_duration": "1:26:58",
       "speakers": [
-        "Orlando Baxter"
+        "Orlando Baxter",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "orlando",
@@ -7205,8 +6707,7 @@
       "itunes_duration": "1:59:56",
       "speakers": [
         "Barry Cryer Obe",
-        "Tommy Cooper",
-        "Kenny Everett"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "barry",
@@ -7225,7 +6726,8 @@
       "enclosure_length": "55142115",
       "itunes_duration": "1:54:16",
       "speakers": [
-        "Pippa Evans"
+        "Olivier Award",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pippa",
@@ -7245,7 +6747,7 @@
       "itunes_duration": "1:13:56",
       "speakers": [
         "Ed Gamble",
-        "Nish Kumar"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gamble",
@@ -7264,7 +6766,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "8902111",
       "itunes_duration": "9:16",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "shirt",
         "hell",
@@ -7285,7 +6789,8 @@
       "enclosure_length": "37609576",
       "itunes_duration": "1:17:35",
       "speakers": [
-        "Jo Brand"
+        "Jo Brand",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brand",
@@ -7305,7 +6810,8 @@
       "enclosure_length": "43696753",
       "itunes_duration": "1:30:20",
       "speakers": [
-        "Tom Ballard Multiple"
+        "Tom Ballard Multiple",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ballard"
@@ -7324,7 +6830,7 @@
       "itunes_duration": "1:10:54",
       "speakers": [
         "Lee Ridley",
-        "Follow Lee"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lost",
@@ -7344,7 +6850,8 @@
       "enclosure_length": "41363623",
       "itunes_duration": "1:25:27",
       "speakers": [
-        "Rhys Nicholson"
+        "Rhys Nicholson",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rhys",
@@ -7363,7 +6870,8 @@
       "enclosure_length": "37492319",
       "itunes_duration": "1:17:20",
       "speakers": [
-        "Jeremy Hardy"
+        "Jeremy Hardy",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jeremy",
@@ -7384,7 +6892,9 @@
       "enclosure_length": "36400748",
       "itunes_duration": "1:15:03",
       "speakers": [
-        "sound design"
+        "sound design",
+        "direction re",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aunty",
@@ -7403,7 +6913,8 @@
       "enclosure_length": "35306201",
       "itunes_duration": "1:12:46",
       "speakers": [
-        "Hannah Gadsby"
+        "Hannah Gadsby",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "hannah",
@@ -7425,13 +6936,9 @@
       "enclosure_length": "9656074",
       "itunes_duration": "19:05",
       "speakers": [
-        "Deanne Smith",
-        "Aunty Donna",
-        "Aaron Chen",
-        "Tom Walker",
-        "Ahir Shah",
-        "Becky Lucas",
-        "Rebecca Walker"
+        "Melbourne Comedy Festival",
+        "Special Post",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "melbourne",
@@ -7454,8 +6961,7 @@
       "itunes_duration": "2:16:51",
       "speakers": [
         "Stewart Lee",
-        "Follow Stewart",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stewart"
@@ -7473,8 +6979,7 @@
       "enclosure_length": "39880604",
       "itunes_duration": "1:22:21",
       "speakers": [
-        "Paul Chowdhry",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -7495,7 +7000,7 @@
       "itunes_duration": "1:45:21",
       "speakers": [
         "Mark Forward",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mark",
@@ -7515,7 +7020,7 @@
       "itunes_duration": "1:39:01",
       "speakers": [
         "Phil Wang",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "phil",
@@ -7534,8 +7039,8 @@
       "enclosure_length": "42556759",
       "itunes_duration": "1:27:57",
       "speakers": [
-        "Rachel Parris",
-        "Stu Goldsmith"
+        "Rachel Parr",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rachel",
@@ -7556,7 +7061,7 @@
       "speakers": [
         "John Robins",
         "Elis James",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "elis",
@@ -7580,7 +7085,7 @@
       "itunes_duration": "56:20",
       "speakers": [
         "Brian Regan",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brian",
@@ -7599,7 +7104,7 @@
       "enclosure_length": "37539162",
       "itunes_duration": "1:17:27",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "angela",
@@ -7619,7 +7124,7 @@
       "itunes_duration": "1:23:02",
       "speakers": [
         "Elis James",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "elis",
@@ -7638,7 +7143,8 @@
       "enclosure_length": "83591104",
       "itunes_duration": "1:27:04",
       "speakers": [
-        "Return Pappys"
+        "Return Pappys",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pappy",
@@ -7658,7 +7164,7 @@
       "itunes_duration": "1:49:56",
       "speakers": [
         "Fern Brady",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "fern",
@@ -7677,7 +7183,8 @@
       "enclosure_length": "34906119",
       "itunes_duration": "1:11:56",
       "speakers": [
-        "Chris Gethard"
+        "Chris Gethard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "chris",
@@ -7697,7 +7204,7 @@
       "itunes_duration": "1:27:32",
       "speakers": [
         "Andy Askins",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "andy",
@@ -7716,7 +7223,8 @@
       "enclosure_length": "71058911",
       "itunes_duration": "1:14:01",
       "speakers": [
-        "Stu Goldsmith"
+        "Carmen Lynch Carmen Lynch",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "carmen",
@@ -7736,7 +7244,8 @@
       "itunes_duration": "1:36:32",
       "speakers": [
         "Tony Law Returns",
-        "Old Tone"
+        "Old Tone",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tony",
@@ -7755,7 +7264,10 @@
       "enclosure_length": "46038074",
       "itunes_duration": "1:35:14",
       "speakers": [
-        "Stu Goldsmith"
+        "real jokes",
+        "real music",
+        "real po",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jonny",
@@ -7775,7 +7287,7 @@
       "itunes_duration": "1:11:28",
       "speakers": [
         "Barry Crimmins",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "barry",
@@ -7795,7 +7307,7 @@
       "itunes_duration": "1:32:21",
       "speakers": [
         "Paul Currie",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -7815,7 +7327,7 @@
       "itunes_duration": "1:16:31",
       "speakers": [
         "Cameron Esposito",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "cameron",
@@ -7835,7 +7347,7 @@
       "itunes_duration": "1:21:34",
       "speakers": [
         "John Robins",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -7857,8 +7369,7 @@
         "Multiple Tony",
         "Olivier Award-winner",
         "Tim Minchin",
-        "Royal Albert Hall",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "minchin",
@@ -7879,7 +7390,8 @@
       "enclosure_length": "36451967",
       "itunes_duration": "1:15:15",
       "speakers": [
-        "Stu Goldsmith"
+        "Loyiso Gola Why",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "loyiso",
@@ -7898,7 +7410,7 @@
       "enclosure_length": "39325973",
       "itunes_duration": "1:21:17",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lewis",
@@ -7919,7 +7431,9 @@
       "enclosure_length": "38844737",
       "itunes_duration": "1:21:17",
       "speakers": [
-        "Stu Goldsmith"
+        "Tiff Stevenson",
+        "Larmer Tree Festival",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tiff",
@@ -7941,7 +7455,8 @@
       "enclosure_length": "48497261",
       "itunes_duration": "1:39:48",
       "speakers": [
-        "Bill Burr"
+        "Bill Burr",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bill",
@@ -7961,7 +7476,7 @@
       "itunes_duration": "1:11:04",
       "speakers": [
         "Todd Barry",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "todd",
@@ -7981,7 +7496,7 @@
       "itunes_duration": "1:16:16",
       "speakers": [
         "Wendy Wason",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "wendy",
@@ -8002,7 +7517,7 @@
       "speakers": [
         "Jinkx Monsoon",
         "Drag Race IV",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jinkx",
@@ -8021,7 +7536,8 @@
       "enclosure_length": "45821925",
       "itunes_duration": "1:35:26",
       "speakers": [
-        "Stu Goldsmith"
+        "Funmbi Omotayo Brilliant British",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "funmbi",
@@ -8039,7 +7555,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44384525",
       "itunes_duration": "1:32:26",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "shappi",
         "khorsandi"
@@ -8058,7 +7576,7 @@
       "itunes_duration": "1:41:53",
       "speakers": [
         "Russell Howard Star",
-        "Russell Howard"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "russell",
@@ -8079,7 +7597,7 @@
       "speakers": [
         "Liam Williams Rigorously",
         "Liam Williams",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "liam",
@@ -8098,7 +7616,8 @@
       "enclosure_length": "36999431",
       "itunes_duration": "1:17:03",
       "speakers": [
-        "Joe Lycett"
+        "Joe Lycett",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lycett",
@@ -8120,7 +7639,7 @@
       "itunes_duration": "1:32:39",
       "speakers": [
         "Seymour Mace",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "seymour",
@@ -8140,7 +7659,7 @@
       "itunes_duration": "1:22:51",
       "speakers": [
         "Abigoliah Schamaun",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "abigoliah",
@@ -8159,7 +7678,8 @@
       "enclosure_length": "37474303",
       "itunes_duration": "1:17:04",
       "speakers": [
-        "dizzying speed"
+        "dizzying speed",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "romesh",
@@ -8180,7 +7700,8 @@
       "enclosure_length": "33876421",
       "itunes_duration": "1:10:34",
       "speakers": [
-        "Jimmy Carr"
+        "Jimmy Carr",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jimmy",
@@ -8199,7 +7720,8 @@
       "enclosure_length": "33294069",
       "itunes_duration": "1:08:22",
       "speakers": [
-        "Jimmy Carr"
+        "Jimmy Carr",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jimmy",
@@ -8218,7 +7740,9 @@
       "enclosure_length": "44716457",
       "itunes_duration": "1:32:10",
       "speakers": [
-        "Stu Goldsmith"
+        "Mike Wilmot",
+        "Uncle Mike",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mike",
@@ -8238,7 +7762,7 @@
       "itunes_duration": "1:24:39",
       "speakers": [
         "Tania Edwards",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tania",
@@ -8257,7 +7781,8 @@
       "enclosure_length": "40675864",
       "itunes_duration": "1:23:45",
       "speakers": [
-        "Dave Gorman"
+        "Dave Gorman",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "dave",
@@ -8279,7 +7804,7 @@
       "itunes_duration": "1:50:38",
       "speakers": [
         "Family Giftshop Bird",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gein",
@@ -8302,7 +7827,8 @@
         "Spencer Jones",
         "Bob Slayer",
         "Barry Awards voted",
-        "Stu Goldsmith"
+        "Spencer Jone",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "spencer",
@@ -8325,7 +7851,7 @@
       "itunes_duration": "1:33:39",
       "speakers": [
         "Hari Kondabolu",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "hari",
@@ -8345,7 +7871,7 @@
       "itunes_duration": "1:32:19",
       "speakers": [
         "Nathan Caton",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nathan",
@@ -8366,7 +7892,7 @@
       "speakers": [
         "Matt Kirshen Wise",
         "Matt Kirshen",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "matt",
@@ -8385,7 +7911,9 @@
       "enclosure_length": "34187889",
       "itunes_duration": "1:10:14",
       "speakers": [
-        "Stu Goldsmith"
+        "Jena Friedman",
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jena",
@@ -8407,7 +7935,8 @@
       "itunes_duration": "1:17:09",
       "speakers": [
         "Mark Steel",
-        "Stu Goldsmith"
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mark",
@@ -8428,7 +7957,7 @@
       "enclosure_length": "33126057",
       "itunes_duration": "1:08:01",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "suttie",
@@ -8449,7 +7978,7 @@
       "itunes_duration": "1:05:23",
       "speakers": [
         "Daniel Sloss",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "daniel",
@@ -8471,8 +8000,7 @@
       "itunes_duration": "57:17",
       "speakers": [
         "Ronny Chieng",
-        "Bill Burr",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ronny",
@@ -8494,7 +8022,7 @@
       "itunes_duration": "59:41",
       "speakers": [
         "Stewart Francis",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stewart",
@@ -8516,7 +8044,9 @@
       "itunes_duration": "1:04:54",
       "speakers": [
         "Will Durst",
-        "Stu Goldsmith"
+        "Edinburgh Fringe",
+        "San Fra",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "durst",
@@ -8537,7 +8067,7 @@
       "itunes_duration": "58:15",
       "speakers": [
         "Aisling Bea",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "edinburgh",
@@ -8557,7 +8087,7 @@
       "itunes_duration": "1:08:51",
       "speakers": [
         "Jason Byrne",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jason",
@@ -8580,7 +8110,7 @@
       "speakers": [
         "Dave Anthony Known",
         "Dave Anthony",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "dave",
@@ -8600,7 +8130,7 @@
       "itunes_duration": "51:29",
       "speakers": [
         "Jimmy Pardo",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jimmy",
@@ -8620,8 +8150,7 @@
       "itunes_duration": "56:52",
       "speakers": [
         "Jimmy Pardo",
-        "Conan O'Brien",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jimmy",
@@ -8641,8 +8170,7 @@
       "itunes_duration": "54:55",
       "speakers": [
         "Todd Glass",
-        "David Cross",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "todd",
@@ -8662,7 +8190,7 @@
       "itunes_duration": "1:10:23",
       "speakers": [
         "Todd Glass",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "todd",
@@ -8682,9 +8210,7 @@
       "itunes_duration": "1:41:08",
       "speakers": [
         "Jackie Kashian",
-        "Head Ranger",
-        "Maria Bamford",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jackie",
@@ -8703,8 +8229,9 @@
       "enclosure_length": "30535972",
       "itunes_duration": "1:02:37",
       "speakers": [
-        "Steve Dunne",
-        "knifey knifey"
+        "Joel Dommett",
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "joel",
@@ -8726,9 +8253,7 @@
       "itunes_duration": "1:35:55",
       "speakers": [
         "Matt Lucas",
-        "George Dawes",
-        "David Walliams",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "matt",
@@ -8748,7 +8273,7 @@
       "itunes_duration": "57:18",
       "speakers": [
         "Mae Martin",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "martin",
@@ -8769,7 +8294,7 @@
       "itunes_duration": "1:04:39",
       "speakers": [
         "Tommy Tiernan",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tommy",
@@ -8791,7 +8316,7 @@
       "itunes_duration": "1:14:03",
       "speakers": [
         "John Lloyd",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -8813,13 +8338,7 @@
       "itunes_duration": "1:01:04",
       "speakers": [
         "Katherine Ryan",
-        "Frankie Boyle",
-        "Joan Rivers",
-        "Bette Midler",
-        "Kirstie Allsopp",
-        "Joe Lycett",
-        "Daniel Sloss",
-        "Aisling Bea"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "katherine",
@@ -8841,13 +8360,7 @@
       "itunes_duration": "1:30:17",
       "speakers": [
         "Justin Moorhouse",
-        "Destiny Calling",
-        "Peter Kay",
-        "Alfie Joey",
-        "Jason Manford",
-        "John Bishop",
-        "Ross Noble",
-        "Paul Sinha"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "justin",
@@ -8867,11 +8380,7 @@
       "itunes_duration": "1:08:57",
       "speakers": [
         "Charlie Baker",
-        "Andy Parsons",
-        "Dominic Holland",
-        "Harry Hill",
-        "Andre Agassi",
-        "Comic Relief"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "charlie",
@@ -8893,13 +8402,7 @@
       "itunes_duration": "1:08:05",
       "speakers": [
         "Andy Kindler",
-        "Jerry Seinfeld",
-        "Steven Wright",
-        "Mitch Hedberg",
-        "James Adomian",
-        "Richard Gere",
-        "Ben Stiller",
-        "Adam Sandler"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "andy",
@@ -8919,13 +8422,7 @@
       "itunes_duration": "1:04:23",
       "speakers": [
         "Patton Oswalt",
-        "Kyle Kinane",
-        "Alan Moore",
-        "Louis CK",
-        "Dave Chappelle",
-        "Tony Woods",
-        "George Lucas",
-        "James Joyce"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "patton",
@@ -8946,14 +8443,8 @@
       "enclosure_length": "33967802",
       "itunes_duration": "1:09:46",
       "speakers": [
-        "Moshe Kasher",
-        "Bill Burr",
-        "Steven Wright",
-        "Robert Schimmel",
-        "Todd Barry",
-        "Patton Oswalt",
-        "Ron Hubbard",
-        "Ben Stiller Hosted"
+        "Moshe Ka",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "moshe",
@@ -8973,13 +8464,7 @@
       "itunes_duration": "1:21:40",
       "speakers": [
         "Jen Kirkman",
-        "Dave Chappelle",
-        "Kurt Metzger",
-        "Chelsea Handler",
-        "Marc Maron",
-        "Bll Burr",
-        "Steve Bennett",
-        "Alan Cumming"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kirkman"
@@ -8998,11 +8483,7 @@
       "itunes_duration": "1:26:09",
       "speakers": [
         "George Egg",
-        "Robin Ince",
-        "Will Smith",
-        "Edinburgh Fringe",
-        "Chris Eubank",
-        "Monkey Tennis Hosted"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "george"
@@ -9021,7 +8502,7 @@
       "itunes_duration": "1:17:12",
       "speakers": [
         "Adam Buxton",
-        "Joe Cornish"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adam",
@@ -9043,8 +8524,7 @@
       "itunes_duration": "1:04:08",
       "speakers": [
         "Chaponda Malawi",
-        "Eddie Murphy",
-        "Roger Ebert Hosted"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "daliso",
@@ -9066,14 +8546,7 @@
       "enclosure_length": "32935252",
       "itunes_duration": "1:07:58",
       "speakers": [
-        "Gavin Webster",
-        "Adam Buxton",
-        "Stewart Lee",
-        "Paul Foot",
-        "Jo Brand",
-        "Ross Noble",
-        "Bill Hicks",
-        "Harry Hill"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gavin",
@@ -9093,7 +8566,7 @@
       "itunes_duration": "1:07:05",
       "speakers": [
         "Nazeem Hussain",
-        "Adam Buxton"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nazeem",
@@ -9111,7 +8584,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28197051",
       "itunes_duration": "58:06",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "dara",
         "briain"
@@ -9130,13 +8605,7 @@
       "itunes_duration": "1:07:58",
       "speakers": [
         "Ian Stone",
-        "Adam Buxton",
-        "George Carlin",
-        "Michael McIntyre",
-        "Jenny Eclair",
-        "Rich Hall",
-        "Dylan Moran",
-        "Jerry Sadowitz"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stone"
@@ -9155,13 +8624,7 @@
       "itunes_duration": "1:21:11",
       "speakers": [
         "Wil Anderson",
-        "Adam Buxton",
-        "Stewart Lee",
-        "Daniel Kitson",
-        "Festival Comedian",
-        "Bill Burr",
-        "George Carlin",
-        "Bill Hicks"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "anderson"
@@ -9179,14 +8642,8 @@
       "enclosure_length": "34933295",
       "itunes_duration": "1:12:08",
       "speakers": [
-        "Festival Comedian",
-        "Jo Brand",
-        "Russell Kane",
-        "James Acaster",
-        "Ben Elton",
-        "Robin Williams",
-        "Jo Caulfield",
-        "Kerry Godliman"
+        "Zoe Lyons One",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lyons"
@@ -9204,14 +8661,8 @@
       "enclosure_length": "32867121",
       "itunes_duration": "1:07:50",
       "speakers": [
-        "Mitch Benn",
-        "Daniel Kitson",
-        "Alternative Comedy",
-        "Charlie Brooker",
-        "Ross Noble",
-        "Mark Thomas",
-        "Comedy Music",
-        "Harry Shearer"
+        "musical comedi",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mitch",
@@ -9231,13 +8682,7 @@
       "itunes_duration": "1:22:47",
       "speakers": [
         "Mark Watson",
-        "Stewart Lee",
-        "David O'Doherty",
-        "Daniel Kitson",
-        "Festival Comedian",
-        "Paul Foot",
-        "Tim Key",
-        "Michael McIntyre"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mark",
@@ -9257,12 +8702,7 @@
       "itunes_duration": "1:13:11",
       "speakers": [
         "Nina Conti",
-        "Ken Campbell",
-        "Daniel Kitson",
-        "Touring Comedian",
-        "Jeff Dunham",
-        "Dr Brown",
-        "Phil Burgers"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nina",
@@ -9281,11 +8721,7 @@
       "enclosure_length": "43940324",
       "itunes_duration": "1:30:54",
       "speakers": [
-        "melodic dick-jokes",
-        "Nina Conti",
-        "Comedy Central",
-        "Joe Lycett",
-        "Family Guy"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "midnight",
@@ -9305,13 +8741,7 @@
       "itunes_duration": "1:30:07",
       "speakers": [
         "Nick Mohammed",
-        "Mr Swallow",
-        "Nina Conti",
-        "Festival Comedian",
-        "Stefan Golaszewski",
-        "Julia Davis",
-        "Matt Damon",
-        "Ridley Scott"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -9330,10 +8760,8 @@
       "enclosure_length": "37336150",
       "itunes_duration": "1:17:09",
       "speakers": [
-        "Russell Kane",
-        "Jason Byrne",
-        "Steve Bennett",
-        "Fringe Hosted"
+        "narrative intensity",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bishop"
@@ -9353,12 +8781,7 @@
       "speakers": [
         "Russell Peters",
         "Gina Yashere",
-        "Stewart Lee",
-        "Michael McIntyre",
-        "Greg Proops",
-        "Jay Leno",
-        "Def Comedy Jam",
-        "Def Jam"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gina",
@@ -9377,7 +8800,7 @@
       "enclosure_length": "28826081",
       "itunes_duration": "59:25",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -9397,8 +8820,7 @@
       "itunes_duration": "1:12:52",
       "speakers": [
         "Michael McIntyre",
-        "John Gordillo",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -9417,8 +8839,7 @@
       "enclosure_length": "34589167",
       "itunes_duration": "1:11:25",
       "speakers": [
-        "Alex Horne",
-        "Mark Watson"
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -9435,13 +8856,7 @@
       "itunes_duration": "1:07:54",
       "speakers": [
         "Tim Key",
-        "Alan Partridge",
-        "Festival Comedian",
-        "Philippe Gaulier",
-        "Alex Horne",
-        "Mark Watson",
-        "Steve Coogan",
-        "David Baddiel Hosted"
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -9457,7 +8872,8 @@
       "enclosure_length": "36857370",
       "itunes_duration": "1:16:09",
       "speakers": [
-        "Liz Miele"
+        "Liz Miele",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "miele"
@@ -9475,7 +8891,8 @@
       "enclosure_length": "32269645",
       "itunes_duration": "1:06:35",
       "speakers": [
-        "Brendon Burns"
+        "Brendon Burns",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brendon",
@@ -9494,7 +8911,8 @@
       "enclosure_length": "40380977",
       "itunes_duration": "1:23:29",
       "speakers": [
-        "Lou Sanders"
+        "Lou Sanders",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sanders"
@@ -9512,7 +8930,8 @@
       "enclosure_length": "26940875",
       "itunes_duration": "55:29",
       "speakers": [
-        "Andrew O'Neill"
+        "Andrew O'Neill",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "andrew"
@@ -9530,7 +8949,8 @@
       "enclosure_length": "36305040",
       "itunes_duration": "1:15:00",
       "speakers": [
-        "festival act"
+        "festival act",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "harley",
@@ -9549,7 +8969,8 @@
       "enclosure_length": "31343264",
       "itunes_duration": "1:04:39",
       "speakers": [
-        "Urzila Carlson"
+        "Urzila Carlson",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "urzila",
@@ -9568,7 +8989,8 @@
       "enclosure_length": "35822712",
       "itunes_duration": "1:13:59",
       "speakers": [
-        "Thom Tuck"
+        "Thom Tuck",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "thom",
@@ -9587,7 +9009,8 @@
       "enclosure_length": "73635896",
       "itunes_duration": "1:16:23",
       "speakers": [
-        "Katy Wix"
+        "Katy Wix",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "katy"
@@ -9605,7 +9028,8 @@
       "enclosure_length": "73826240",
       "itunes_duration": "1:34:05",
       "speakers": [
-        "Alfie Brown Alfie Brown"
+        "Alfie Brown Alfie Brown",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alfie",
@@ -9624,7 +9048,8 @@
       "enclosure_length": "107110628",
       "itunes_duration": "1:51:15",
       "speakers": [
-        "Carl Donnelly"
+        "Carl Donnelly",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "christmas",
@@ -9646,7 +9071,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85043466",
       "itunes_duration": "1:10:36",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "mickey",
         "dwyer"
@@ -9664,7 +9091,8 @@
       "enclosure_length": "100877852",
       "itunes_duration": "1:23:48",
       "speakers": [
-        "Nish Kumar"
+        "Nish Kumar Fiercely",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nish",
@@ -9683,7 +9111,7 @@
       "enclosure_length": "84552782",
       "itunes_duration": "1:10:15",
       "speakers": [
-        "Phil Kay"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "phil"
@@ -9701,12 +9129,8 @@
       "enclosure_length": "101232596",
       "itunes_duration": "1:24:06",
       "speakers": [
-        "Soho Theatre",
-        "Suzi Ruffell",
-        "XS Malarkey",
-        "Debi Allen",
-        "Caroline Rhea",
-        "Whoopi Goldberg"
+        "Luisa Omielan Luisa Omielan",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "luisa",
@@ -9726,13 +9150,7 @@
       "itunes_duration": "52:26",
       "speakers": [
         "Ross Noble",
-        "Russell Brand",
-        "Bill Bailey",
-        "Boothy Graffoe",
-        "Stewart Lee",
-        "Harry Hill",
-        "Billy Connolly",
-        "Joe Wilkinson"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ross",
@@ -9752,13 +9170,7 @@
       "itunes_duration": "1:13:37",
       "speakers": [
         "Ross Noble",
-        "Russell Brand",
-        "Bill Bailey",
-        "Boothy Graffoe",
-        "Stewart Lee",
-        "Harry Hill",
-        "Billy Connolly",
-        "Joe Wilkinson"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ross",
@@ -9777,7 +9189,8 @@
       "enclosure_length": "95329965",
       "itunes_duration": "1:19:11",
       "speakers": [
-        "Stu Goldsmith"
+        "Prince Abdi Prince Abdi",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "prince",
@@ -9797,8 +9210,7 @@
       "itunes_duration": "10:38",
       "speakers": [
         "David Cross",
-        "Jon Benjamin",
-        "David Hosted"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "david",
@@ -9820,7 +9232,8 @@
       "enclosure_length": "80507045",
       "itunes_duration": "1:06:50",
       "speakers": [
-        "David Cross"
+        "David Cross",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "david",
@@ -9839,7 +9252,11 @@
       "enclosure_length": "84223745",
       "itunes_duration": "1:09:55",
       "speakers": [
-        "David Cross"
+        "David Cross",
+        "Arrested Development",
+        "Mr Show",
+        "Todd Margaret",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "david",
@@ -9859,13 +9276,7 @@
       "itunes_duration": "1:23:13",
       "speakers": [
         "Trygve Wakenshaw Bloody",
-        "Dr Brown",
-        "Phil Burgers",
-        "Barry Awards",
-        "Vikki Stone",
-        "Steen Raskopoulos",
-        "Red Bastard",
-        "Benjamin Crellin"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "trygve",
@@ -9885,13 +9296,7 @@
       "itunes_duration": "1:15:11",
       "speakers": [
         "Tom Stade",
-        "Gary Delaney",
-        "Micky Flanagan",
-        "Stephen Fry",
-        "Craig Campbell",
-        "Stuart Goldsmith",
-        "John Hastings",
-        "Doug Stanhope"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stade"
@@ -9910,13 +9315,7 @@
       "itunes_duration": "1:03:57",
       "speakers": [
         "Eleanor Tiernan",
-        "Free Fringe",
-        "Laughter Lounge",
-        "Tommy Tiernan",
-        "Mrs Brown's Boys",
-        "Chris Brown",
-        "Stewart Lee",
-        "Andrew Lawrence"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "eleanor",
@@ -9935,7 +9334,8 @@
       "enclosure_length": "79528502",
       "itunes_duration": "1:06:01",
       "speakers": [
-        "Josie Long"
+        "Josie Long",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josie",
@@ -9955,13 +9355,7 @@
       "itunes_duration": "50:19",
       "speakers": [
         "Steen Raskopoulos",
-        "Edinburgh Best Newcomer",
-        "Edinburgh Best Newcomer Nomination",
-        "Paul Byrne",
-        "Adam Riches",
-        "Lynsey Hanley",
-        "Jordan Raskopoulos",
-        "Eric Bana"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "steen",
@@ -9981,13 +9375,7 @@
       "itunes_duration": "1:01:31",
       "speakers": [
         "Bridget Christie",
-        "Stewart Lee",
-        "Edinburgh Fringe Festival",
-        "Fosters Comedy Award",
-        "David Trent",
-        "Alternative Comedy Memorial Society",
-        "Sam Simmons",
-        "Alison Vernon-Smith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bridget",
@@ -10007,13 +9395,7 @@
       "itunes_duration": "1:18:25",
       "speakers": [
         "Phill Jupitus",
-        "Josie Long",
-        "Bridget Christie",
-        "Sara Pascoe",
-        "Deborah Francis-White",
-        "Nadia Kamil",
-        "Alternative Comedy Memorial Society",
-        "Malcolm Hardee"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "phill",
@@ -10033,13 +9415,7 @@
       "itunes_duration": "1:09:34",
       "speakers": [
         "Sam Simmons",
-        "Paul Foot",
-        "Mike Wilmot",
-        "Noel Fielding",
-        "Graeme Garden",
-        "Bob Slayer",
-        "James Acaster",
-        "Hannibal Burress"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "simmons"
@@ -10057,7 +9433,8 @@
       "enclosure_length": "9824558",
       "itunes_duration": "9:55",
       "speakers": [
-        "Edinburgh Fringe"
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "edfringe",
@@ -10077,13 +9454,7 @@
       "itunes_duration": "1:19:10",
       "speakers": [
         "John Hastings",
-        "Edinburgh Fringe Festival",
-        "Comedy Store",
-        "Imran Yusuf",
-        "Josh Widdicombe",
-        "Patton Oswalt",
-        "Michael McIntyre",
-        "Tony Law"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -10103,13 +9474,7 @@
       "itunes_duration": "1:14:05",
       "speakers": [
         "Noel James",
-        "Gavin Webster",
-        "James Joyce",
-        "Dylan Thomas",
-        "Spike Milligan",
-        "Mark Thomas",
-        "Kevin Day",
-        "Maria Callas"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "noel",
@@ -10129,11 +9494,7 @@
       "itunes_duration": "58:11",
       "speakers": [
         "Kyle Kinane",
-        "Eddie Pepitone",
-        "Kurt Braunohler",
-        "Mitch Hedburg",
-        "Charles Bukowski",
-        "Dave Attell"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kyle",
@@ -10153,13 +9514,7 @@
       "itunes_duration": "1:20:39",
       "speakers": [
         "Nick Doody",
-        "Jim Jefferies",
-        "Ben Moore",
-        "Wayne Shepherd",
-        "Arnold Brown",
-        "Stephen Fry",
-        "Bill Hicks",
-        "Jack Dee"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -10179,9 +9534,7 @@
       "itunes_duration": "1:04:26",
       "speakers": [
         "Aamer Rahman",
-        "Reverse Racism",
-        "Nazeem Hussain",
-        "Nabil Abdul Rashid"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aamer",
@@ -10201,13 +9554,7 @@
       "itunes_duration": "1:25:28",
       "speakers": [
         "Andy Zaltzman",
-        "John Oliver",
-        "Karen Taylor",
-        "Danny Bhoy",
-        "Spencer Brown",
-        "Daniel Kitson",
-        "David O'Doherty",
-        "Ross Noble"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "andy",
@@ -10226,7 +9573,8 @@
       "enclosure_length": "93763792",
       "itunes_duration": "1:17:53",
       "speakers": [
-        "Adrienne Truscott"
+        "Adrienne Truscott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adrienne",
@@ -10244,7 +9592,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116219883",
       "itunes_duration": "1:20:29",
-      "speakers": [],
+      "speakers": [
+        "Jarred Christmas",
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "jarred",
         "christmas"
@@ -10262,7 +9613,8 @@
       "enclosure_length": "78735835",
       "itunes_duration": "54:27",
       "speakers": [
-        "Luke Heggie"
+        "Luke Heggie",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "luke",
@@ -10281,7 +9633,8 @@
       "enclosure_length": "85828398",
       "itunes_duration": "59:23",
       "speakers": [
-        "Michele A'Court"
+        "Michele A'Court",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "michele"
@@ -10299,7 +9652,8 @@
       "enclosure_length": "113139106",
       "itunes_duration": "1:18:21",
       "speakers": [
-        "Tom Wrigglesworth"
+        "Tom Wrigglesworth",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "wrigglesworth"
@@ -10317,7 +9671,8 @@
       "enclosure_length": "118321375",
       "itunes_duration": "1:21:57",
       "speakers": [
-        "Ben Hurley"
+        "Ben Hurley",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "hurley"
@@ -10335,7 +9690,8 @@
       "enclosure_length": "78681212",
       "itunes_duration": "1:05:18",
       "speakers": [
-        "Carey Marx"
+        "Carey Marx",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "carey",
@@ -10354,7 +9710,8 @@
       "enclosure_length": "87405785",
       "itunes_duration": "1:00:29",
       "speakers": [
-        "Claudia O'Doherty"
+        "Claudia O'Doherty",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "claudia"
@@ -10372,7 +9729,7 @@
       "enclosure_length": "89578747",
       "itunes_duration": "1:01:59",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ivan"
@@ -10391,7 +9748,7 @@
       "itunes_duration": "1:02:09",
       "speakers": [
         "David O'Doherty",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "david"
@@ -10410,7 +9767,7 @@
       "itunes_duration": "1:20:54",
       "speakers": [
         "Kerry Godliman",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kerry",
@@ -10429,7 +9786,8 @@
       "enclosure_length": "83099960",
       "itunes_duration": "57:29",
       "speakers": [
-        "Tim Vine"
+        "Tim Vine",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "vine"
@@ -10448,7 +9806,7 @@
       "itunes_duration": "1:02:51",
       "speakers": [
         "Ed Byrne",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "byrne"
@@ -10467,7 +9825,7 @@
       "itunes_duration": "58:29",
       "speakers": [
         "Sean Hughes",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sean",
@@ -10487,13 +9845,7 @@
       "itunes_duration": "1:08:19",
       "speakers": [
         "Gary Delaney",
-        "Simon Munnery",
-        "Harry Hill",
-        "Stewart Lee",
-        "Stephen Wright",
-        "Tim Vine",
-        "Tony Law",
-        "Martin Lewis"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gary",
@@ -10513,7 +9865,7 @@
       "itunes_duration": "54:45",
       "speakers": [
         "Will Franken",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "franken"
@@ -10532,7 +9884,7 @@
       "itunes_duration": "1:17:23",
       "speakers": [
         "Nick Helm",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -10552,7 +9904,7 @@
       "itunes_duration": "56:48",
       "speakers": [
         "Tony Law",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tony"
@@ -10570,7 +9922,7 @@
       "enclosure_length": "85931225",
       "itunes_duration": "59:27",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "marcus",
@@ -10590,7 +9942,7 @@
       "itunes_duration": "1:00:55",
       "speakers": [
         "Norman Lovett",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "norman",
@@ -10610,7 +9962,7 @@
       "itunes_duration": "59:13",
       "speakers": [
         "Bo Burnham",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "burnham"
@@ -10629,7 +9981,7 @@
       "itunes_duration": "58:47",
       "speakers": [
         "Susan Calman",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "susan",
@@ -10649,7 +10001,7 @@
       "itunes_duration": "1:01:23",
       "speakers": [
         "Rob Delaney",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "delaney"
@@ -10668,7 +10020,7 @@
       "itunes_duration": "54:47",
       "speakers": [
         "Sarah Millican",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -10689,7 +10041,7 @@
       "itunes_duration": "1:01:34",
       "speakers": [
         "Jason Manford",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jason",
@@ -10709,7 +10061,7 @@
       "itunes_duration": "41:11",
       "speakers": [
         "Andrew Maxwell",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "andrew",
@@ -10729,7 +10081,7 @@
       "itunes_duration": "57:35",
       "speakers": [
         "Milton Jones",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "milton",
@@ -10749,8 +10101,7 @@
       "itunes_duration": "1:00:35",
       "speakers": [
         "David Baddiel",
-        "Edinburgh Fringe",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "david",
@@ -10769,7 +10120,8 @@
       "enclosure_length": "43655788",
       "itunes_duration": "1:00:12",
       "speakers": [
-        "Al Murray"
+        "Al Murray",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "murray"
@@ -10788,8 +10140,7 @@
       "itunes_duration": "1:03:21",
       "speakers": [
         "Pajama Men",
-        "Edinburgh Fringe",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pajama"
@@ -10808,7 +10159,7 @@
       "itunes_duration": "1:00:43",
       "speakers": [
         "Phil Nichol",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "phil",
@@ -10826,7 +10177,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44689923",
       "itunes_duration": "1:01:38",
-      "speakers": [],
+      "speakers": [
+        "Greg Proops",
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "greg",
         "proops"
@@ -10845,7 +10199,7 @@
       "itunes_duration": "58:33",
       "speakers": [
         "Hal Cruttenden",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "cruttenden"
@@ -10864,7 +10218,7 @@
       "itunes_duration": "59:01",
       "speakers": [
         "Alexis Dubus",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "marcel",
@@ -10886,8 +10240,7 @@
       "itunes_duration": "59:57",
       "speakers": [
         "Brendon Burns",
-        "Edinburgh Fringe",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brendon",
@@ -10906,7 +10259,7 @@
       "enclosure_length": "41515753",
       "itunes_duration": "57:14",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "richard",
@@ -10926,7 +10279,7 @@
       "itunes_duration": "1:17:00",
       "speakers": [
         "Richard Herring",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "richard",
@@ -10947,7 +10300,7 @@
       "speakers": [
         "Jarlath Regan How",
         "Jarlath Regan",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jarlath",
@@ -10966,8 +10319,7 @@
       "enclosure_length": "57280112",
       "itunes_duration": "1:19:08",
       "speakers": [
-        "Phil Burgers",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "milo",
@@ -10987,7 +10339,7 @@
       "itunes_duration": "1:09:03",
       "speakers": [
         "Benny Boot",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "benny",
@@ -11007,7 +10359,7 @@
       "itunes_duration": "1:20:37",
       "speakers": [
         "Tom Gleeson",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gleeson"
@@ -11025,7 +10377,9 @@
       "enclosure_length": "50254200",
       "itunes_duration": "1:09:22",
       "speakers": [
-        "Stu Goldsmith"
+        "Alasdair Tremblay",
+        "Birchall Talented",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alasdair",
@@ -11045,7 +10399,8 @@
       "enclosure_length": "57511775",
       "itunes_duration": "1:19:27",
       "speakers": [
-        "Stu Goldsmith"
+        "heartfelt storytelling",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "felicity",
@@ -11065,7 +10420,7 @@
       "itunes_duration": "1:12:58",
       "speakers": [
         "Tom Allen",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "allen"
@@ -11083,8 +10438,8 @@
       "enclosure_length": "43958912",
       "itunes_duration": "1:00:37",
       "speakers": [
-        "Geraldine Hickey",
-        "Stu Goldsmith"
+        "Geraldine Hi",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "geraldine",
@@ -11104,7 +10459,7 @@
       "itunes_duration": "58:27",
       "speakers": [
         "David Quirk",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "david",
@@ -11123,7 +10478,9 @@
       "enclosure_length": "47454114",
       "itunes_duration": "1:05:29",
       "speakers": [
-        "Stu Goldsmith"
+        "Asher Treleaven Rubber",
+        "Asher Treleaven",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "asher",
@@ -11143,7 +10500,7 @@
       "itunes_duration": "1:14:00",
       "speakers": [
         "Clarke MacFarlane",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "clarke",
@@ -11163,7 +10520,7 @@
       "itunes_duration": "58:27",
       "speakers": [
         "Lindsay Webb",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lindsay",
@@ -11183,7 +10540,7 @@
       "itunes_duration": "1:16:30",
       "speakers": [
         "Carl Donnelly",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "carl",
@@ -11202,7 +10559,8 @@
       "enclosure_length": "43930125",
       "itunes_duration": "1:00:45",
       "speakers": [
-        "Stu Goldsmith"
+        "Franklin Heath Franklin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "heath",
@@ -11223,7 +10581,7 @@
       "itunes_duration": "54:47",
       "speakers": [
         "Jim Jefferies",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jefferies"
@@ -11241,7 +10599,8 @@
       "enclosure_length": "44839976",
       "itunes_duration": "1:02:01",
       "speakers": [
-        "Stu Goldsmith"
+        "Rhod Gilbert",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rhod",
@@ -11261,7 +10620,8 @@
       "itunes_duration": "1:21:33",
       "speakers": [
         "James Acaster",
-        "Edinburgh Award"
+        "Edinburgh Award",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -11281,7 +10641,7 @@
       "itunes_duration": "1:13:48",
       "speakers": [
         "Rob Rouse",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rouse"
@@ -11300,9 +10660,7 @@
       "itunes_duration": "1:05:48",
       "speakers": [
         "Stephen Grant",
-        "Seann Walsh",
-        "Russell Kane",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stephen",
@@ -11321,8 +10679,7 @@
       "enclosure_length": "2290457",
       "itunes_duration": "2:55",
       "speakers": [
-        "Michael Legge",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "edinburgh"
@@ -11341,7 +10698,7 @@
       "itunes_duration": "1:05:02",
       "speakers": [
         "Terry Alderton",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "terry",
@@ -11359,7 +10716,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45250423",
       "itunes_duration": "1:02:45",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "pappys"
       ]
@@ -11377,7 +10736,7 @@
       "itunes_duration": "1:09:38",
       "speakers": [
         "Phil Burgers",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brown",
@@ -11398,7 +10757,7 @@
       "itunes_duration": "1:03:48",
       "speakers": [
         "Rob Broderick",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "abandoman"
@@ -11417,7 +10776,7 @@
       "itunes_duration": "1:11:36",
       "speakers": [
         "Mike Gunn Mike Gunn",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mike",
@@ -11438,7 +10797,7 @@
       "speakers": [
         "Eddie Pepitone",
         "Edinburgh Fringe",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "eddie",
@@ -11458,8 +10817,7 @@
       "itunes_duration": "55:57",
       "speakers": [
         "Chris Rock",
-        "Edinburgh Fringe",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "hannibal",
@@ -11479,9 +10837,7 @@
       "itunes_duration": "58:48",
       "speakers": [
         "Sam Wills",
-        "Physical Comedy",
-        "Tim Burton",
-        "Silent Comedy"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tape",
@@ -11501,7 +10857,7 @@
       "itunes_duration": "1:11:43",
       "speakers": [
         "Mark Maier",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mark",
@@ -11522,7 +10878,7 @@
       "speakers": [
         "Alan Davies",
         "Jonathan Creek",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alan",
@@ -11541,7 +10897,8 @@
       "enclosure_length": "46356032",
       "itunes_duration": "1:04:17",
       "speakers": [
-        "Josh Widdicombe"
+        "Josh Widdicombe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josh",
@@ -11560,7 +10917,9 @@
       "enclosure_length": "51242558",
       "itunes_duration": "1:11:05",
       "speakers": [
-        "Stu Goldsmith"
+        "Celia Pacquola Failed",
+        "Celia Pacquola",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "celia",
@@ -11579,7 +10938,7 @@
       "enclosure_length": "40471267",
       "itunes_duration": "56:07",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "fred",
@@ -11599,7 +10958,7 @@
       "itunes_duration": "1:12:10",
       "speakers": [
         "Noel Britten Noel",
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "noel",
@@ -11619,7 +10978,9 @@
       "itunes_duration": "1:02:45",
       "speakers": [
         "Sara Pascoe",
-        "Stu Goldsmith"
+        "Gilded Balloon",
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sara",
@@ -11638,8 +10999,8 @@
       "enclosure_length": "54862319",
       "itunes_duration": "1:16:06",
       "speakers": [
-        "Tim Minchin",
-        "Stu Goldsmith"
+        "Liam Mullone Liam",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "liam",
@@ -11658,7 +11019,7 @@
       "enclosure_length": "48728221",
       "itunes_duration": "1:07:35",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alun",
@@ -11677,7 +11038,7 @@
       "enclosure_length": "40239300",
       "itunes_duration": "55:48",
       "speakers": [
-        "Stu Goldsmith"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "arthur",
@@ -11696,7 +11057,8 @@
       "enclosure_length": "51456490",
       "itunes_duration": "1:11:22",
       "speakers": [
-        "Sarah Millican"
+        "Sarah Millican",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -11715,7 +11077,8 @@
       "enclosure_length": "49138067",
       "itunes_duration": "1:08:09",
       "speakers": [
-        "Adam Bloom Adam Bloom"
+        "Adam Bloom Adam Bloom",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adam",
@@ -11734,14 +11097,7 @@
       "enclosure_length": "53489345",
       "itunes_duration": "1:14:12",
       "speakers": [
-        "Marcus Brigstocke",
-        "Steve Hughes",
-        "Hal Cruttenden",
-        "Ian Stone",
-        "Alastair Barrie",
-        "Jim Davidson",
-        "David Cameron",
-        "Cutting Edge"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -11760,14 +11116,7 @@
       "enclosure_length": "42682479",
       "itunes_duration": "59:11",
       "speakers": [
-        "Clapham Jongleurs",
-        "Noel James",
-        "Ivor Dembina",
-        "Patrick Marber",
-        "Paul Tonkinson",
-        "Rudi Lickwood",
-        "Victoria Coren",
-        "Comedy Store"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "norris"
@@ -11786,13 +11135,7 @@
       "itunes_duration": "1:03:49",
       "speakers": [
         "Dan Antopolski",
-        "Purple Turtle",
-        "Lenny Henry",
-        "Ben Elton",
-        "Harry Enfield",
-        "Rich Hall",
-        "Stewart Lee",
-        "Harry Hill"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "antopolski"
@@ -11810,12 +11153,8 @@
       "enclosure_length": "40239718",
       "itunes_duration": "55:48",
       "speakers": [
-        "Dan Evans",
-        "Jo Caulfield",
-        "George Egg",
-        "Comedy Cafe",
-        "Bill Bailey",
-        "Richard Curtis"
+        "Dan Ev",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "evans"
@@ -11847,554 +11186,554 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Lindsey Santoro — speakers: Lindsey Santoro, Edinburgh Fringe, Pink Tinge, Joe Lycett, Mailing List
-- 2026-02-12 — Shenoah Allen — speakers: Shenoah Allen Shenoah Allen, Nina Conti, Kim Noble, Mailing List, Shenoah Allen
-- 2026-02-05 — Sophie Duker — speakers: Sophie Duker, Best Newcomer, Adam Bloom, Matt Lucas, Ed Byrne, Ninia Benjamin, Mailing List
-- 2026-01-29 — Reggie Watts — speakers: Reggie Watts, James Corden, Comedy Bang, Adam Bloom, Matt Lucas, Ed Byrne, Ninia Benjamin, Mailing List
-- 2026-01-16 — Sarah Millican 2012: ComCompendium — speakers: Sarah Millican, Mailing List
-- 2026-01-05 — Were Comedians Happy In 2025: Vol 3 — speakers: Russell Howard, Mark Simmons, Aparna Nancherla, Nick Mohammed, Kemah Bob
-- 2025-12-29 — Were Comedians Happy In 2025: Vol 2 — speakers: Max Fosh, Lucy Pearman, Pete Lee, Marjolein Robertson, Josie Long
-- 2025-12-22 — Were Comedians Happy In 2025: Vol 1 — speakers: Chloe Radcliffe, Scott Auckerman, Alan Davies, Chloe Petts, Alex Kealy, Comedy Bang Bang, Mailing List
-- 2025-12-18 — Ray Bradshaw — speakers: Ray Bradshaw, John Bishop, Fantasy Fives, Mailing List, Bald Ginger
-- 2025-12-12 — Urooj Ashfaq — speakers: Best Newcomer, Mailing List, Stevie Martin
-- 2025-12-04 — John Kearns 2020: ComCompendium — speakers: John Kearns, Jacques Tati, Neil Hamburger, Harry Hill, Chris Morris, Mailing List
-- 2025-11-27 — Josie Long Returns — speakers: Josie Long Returns, Josie Long, bill gigs, Mailing List
-- 2025-11-20 — Adam Riches — speakers: Adam Riches Adam Riches, Michael Ball, Adam Riches
-- 2025-11-13 — Doug Naylor — speakers: Doug Naylor, Rob Grant, Sin Bin Island
-- 2025-10-24 — Alan Davies Returns — speakers: Alan Davies Returns, Alan Davies, Jonathan Creek
-- 2025-10-10 — Emma Doran — speakers: Emma Doran, Graham Norton
-- 2025-09-26 — Lucy Pearman — speakers: Lucy Pearman, Please Help, Adam Brace
-- 2025-09-18 — Ivo Graham & Laura Lexx: Comedian Climate Confessions! — speakers: Ivo Graham, Laura Lexx, Stuart Goldsmith
-- 2025-09-02 — Episode 500: I Need Your Help! — speakers: Discover Stu
-- 2025-08-15 — Aparna Nancherla (Live @ SXSW) — speakers: Aparna Nancherla, Bob’s Burgers, Seth Meyers, Michael Bublé, Discover Stu
-- 2025-08-08 — Abby Wambaugh — speakers: Abby Wambaugh, Edinburgh Comedy Award
-- 2025-08-01 — Kemah Bob — speakers: Kemah Bob Kemah Bob, Kemah Bob
-- 2025-07-25 — Marjolein Robertson — speakers: Marjolein Robertson, Billy Connolly, Glasgow Comedy Award
-- 2025-07-11 — Daniel Foxx — speakers: Daniel Foxx, Daniel co-wrote, Cheltenham Playhouse, Edinburgh Fringe
-- 2025-06-27 — Marc Jennings — speakers: Marc Jennings, Cheltenham Playhouse, Edinburgh Fringe
-- 2025-06-19 — Nick Mohammed Returns | Part Two — speakers: Nick Mohammed Returns, Nick Mohammed, Ted Lasso, Mr Swallow
-- 2025-06-13 — Nick Mohammed Returns | Part One — speakers: Nick Mohammed Returns, Nick Mohammed, Ted Lasso, Mr Swallow
-- 2025-06-06 — Alex Kealy — speakers: Alex Kealy, Ivo Graham, Leamington Spa
-- 2025-05-23 — Scott Aukerman (Live @ SXSW) — speakers: Scott Aukerman, Comedy Bang Bang, Leamington Spa
-- 2025-05-09 — Chloe Radcliffe — speakers: Chloe Radcliffe Chloe Radcliffe, John Bishop, Will Arnett, Laura Dern, Chloe Radcliffe, Leamington Spa
-- 2025-05-02 — Pete Lee (Live @ SXSW) — speakers: Pete Lee, Comedy Central, Roseanne Barr, Russell Peters, Machynlleth Comedy Festival
-- 2025-04-10 — Shazia Mirza — speakers: Best Stand, Robin Williams, Mort Sahl
-- 2025-03-28 — Iain Stirling — speakers: Machynlleth Discover
-- 2025-03-13 — Damien Power — speakers: Damien Power, Machynlleth Discover
-- 2025-03-07 — Huge Davies — speakers: Edinburgh Fringe, Best Newcomer, Russell Howard, Lise Mayer, Rhys James, Machynlleth Discover
-- 2025-02-20 — Mark Simmons — speakers: Mark Simmons, Russell Howard, Lise Mayer, Rhys James, Machynlleth Discover
-- 2025-02-05 — Live At The Apollo: Behind The Scenes — speakers: Tim Renkow, Janine Harouni, Machynlleth Discover
-- 2025-01-30 — Chloe Petts — speakers: Chloe Petts, Ed Gamble, Adam Drake, Machynlleth Discover
-- 2025-01-15 — Russell Howard Returns | Part Two — speakers: Russell Howard Returns, Russell Howard
-- 2025-01-10 — Russell Howard Returns | Part One — speakers: Russell Howard Returns, Russell Howard, Albert Hall
-- 2025-01-03 — Max Fosh — speakers: Max Fosh
-- 2024-12-19 — Milton Jones Returns — speakers: Milton Jones Returns
-- 2024-12-06 — Rhys James — speakers: Rhys James Rhys James, Split Milk, Rhys James
-- 2024-11-22 — Lise Mayer — speakers: Lise Mayer Lise, Rik Mayall, Ben Elton, Bum Bum Train, Lise Mayer, Discover Stu
-- 2024-11-08 — Remembering Dr Janey Godley — speakers: Janey Godley, Discover Stu
-- 2024-10-24 — Vittorio Angelone — speakers: Vittorio Angelone, Best Newcomer, Fin Taylor, Discover Stu
-- 2024-10-11 — Ania Magliano — speakers: Ania Magliano, Edinburgh Comedy Award, Frankie Boyle, James Adomian Josh Johnson, Discover Stu
-- 2024-09-19 — Viggo Venn | Part Two — speakers: Viggo Venn, Discover Stu
-- 2024-09-12 — Viggo Venn | Part One — speakers: Viggo Venn, Discover Stu
-- 2024-08-30 — Geoffrey Asmus — speakers: Geoffrey Asmus, Comedy Cellar, Daniel Sloss, Ari Shaffir, Discover Stu
-- 2024-08-15 — Edinburgh Fringe Picks 2024: Volume 2 — speakers: Edinburgh Fringe Picks, Edinburgh Fringe, Vir Das, Sara Barron, Monkey Barrel, Discover Stu
-- 2024-08-09 — Nurse Georgie Carroll — speakers: Sista Flo, Discover Stu
-- 2024-08-01 — Edinburgh Fringe Picks 2024: Volume 1 — speakers: Edinburgh Fringe Picks, Edinburgh Fringe, Lauren Pattison, Monkey Barrel, Aaron Chen, Select Dates, Trygve Wakenshaw, Stuart Goldsmith
-- 2024-07-25 — Nabil Abdulrashid — speakers: Nabil Abdulrashid
-- 2024-07-19 — Rosie Holt — speakers: Rosie Holt, Jonathan Pie, Edinburgh Fringe
-- 2024-07-11 — Zach Zucker — speakers: Zach Zucker, Jack Tucker, Viggo Ven, Comedy Stand
-- 2024-06-28 — Fin Taylor vs The Internet — speakers: Fin Taylor, Vittorio Angelone, Jonathan Pie, Jamie Laing, Rosie Holt, com FinTaylor
-- 2024-06-20 — Tanyalee Davis — speakers: Tanyalee Davis, Meet Tanyalee Davis, Abnormally Funny People
-- 2024-06-07 — Jaboukie Young-White (Live @ SXSW) — speakers: Jaboukie Young-White, Joaquin Phoenix, Ralph Breaks, James Acaster, Dai Henwood
-- 2024-05-30 — Mike Wozniak | Part Two — speakers: Mike Wozniak, Rose Matafeo, Everything Stu
-- 2024-05-24 — Mike Wozniak | Part One — speakers: Mike Wozniak, Everything Stu
-- 2024-05-17 — Lynne Koplitz (Live @ SXSW) — speakers: Lynne Koplitz, Craig Ferguson, Neil deGrasse Tyson, James Acaster, Dai Henwood
-- 2024-05-03 — Dai Henwood — speakers: Dai Henwood
-- 2024-04-26 — Brian Simpson (Live @ SXSW) — speakers: Brian Simpson, David Spade, Iliza Shlesinger, Lucy Beaumont, James Acaster
-- 2024-04-18 — Julia Masli — speakers: Viggo Venn
-- 2024-04-05 — Martin Urbano — speakers: Martin Urbano, Comedy Central’s Featured, Will Smith, Jimmy Fallon
-- 2024-03-28 — Josh Pugh — speakers: Josh Pugh, Dave’s Edinburgh Comedy Award
-- 2024-03-21 — Dara Ó Briain Returns | Part Two — speakers: Briain Returns
-- 2024-03-15 — Dara Ó Briain Returns | Part One — speakers: Briain Returns
-- 2024-03-08 — Janine Harouni — speakers: Janine Harouni Janine Harouni, Janine Harouni, Remain Seated, Best Newcomer, Matt Reeves
-- 2024-02-22 — Leo Reich — speakers: Leo Reich, Best Newcomer, Adam Brace
-- 2024-02-09 — Tomi Walamies — speakers: Discover Stu
-- 2024-02-01 — Mawaan Rizwan — speakers: Mawaan Rizwan, Discover Stu
-- 2024-01-25 — Susie McCabe — speakers: Susie McCabe, Discover Stu
-- 2024-01-16 — James Acaster Returns, Again! (2024) | Part Two — speakers: James Acaster Returns, Bo Burnham, Discover Stu, David Cooper
-- 2024-01-12 — James Acaster Returns, Again! (2024) | Part One — speakers: James Acaster Returns, James Acaster, Discover Stu, David Cooper
-- 2023-12-15 — Harriet Dyer — speakers: Harriet Dyer, Trigger Warning, Discover Stu, David Cooper
-- 2023-11-23 — Iliza Shlesinger — speakers: Iliza Shlesinger, Eventim Apollo, Discover Stu, David Cooper
-- 2023-11-10 — 441 - Sikisa — speakers: Discover Stu, David Cooper
-- 2023-10-26 — 440 - Alistair Barrie — speakers: Everything Stu, Discover Stu, David Cooper
-- 2023-10-14 — 439 - Jeff Shaw — speakers: Jeff Shaw, Discover Stu, David Cooper
-- 2023-09-29 — 438 - Ruth Bratt — speakers: Ruth Bratt, Everything Stu, Discover Stu, David Cooper
-- 2023-09-22 — 437 - Adam Bloom Returns — speakers: Adam Bloom, Discover Stu, David Cooper
-- 2023-09-07 — 436 - Gareth Reynolds — speakers: Gareth Reynolds, Dave Anthony, Jake Johnson, Everything Stu, David Cooper
-- 2023-08-31 — 435 - Nish Kumar Returns — speakers: David Cooper
-- 2023-07-28 — 434 - Lucy Beaumont — speakers: Lucy Beaumont, David Cooper
-- 2023-07-20 — 433 - Jonny Pelham — speakers: Jonny Pelham, Edinburgh Fringe, David Cooper
-- 2023-07-13 — 432 - Mike Birbiglia — speakers: Mike Birbiglia, Jimmy Carr, Daniel Kitson, Edinburgh Sept Oct, Everything Stu, David Cooper
-- 2023-06-22 — 431 - Gianmarco Soresi — speakers: Gianmarco Soresi, Anthony Jeselnik, Rodney Dangerfield
-- 2023-06-13 — 430 - Lee Kyle — speakers: Lee Kyle, Felt Nowt, David Cooper
-- 2023-05-25 — 429 - Neil Delamere — speakers: Neil Delamere, David Cooper
-- 2023-05-19 — 428 - James Adomian (Live @ SXSW) — speakers: James Adomian, David Cooper
-- 2023-05-12 — 427 - Ignacio Lopez — speakers: Ignacio Lopez, David Cooper
-- 2023-04-28 — 426 - Emma Willmann (Live @ SXSW) — speakers: Emma Willmann, Everything Stu, David Cooper
-- 2023-04-21 — 425 - Steve Agee (Live @SXSW) — speakers: Steve Agee, John Economos, James Gunn Cinematic Universe, David Cooper
-- 2023-04-14 — 424 - John Hastings Returns — speakers: John Hastings Returns, John Hastings, Paul Byrne, David Cooper
-- 2023-04-07 — 423 - Michelle Brasier — speakers: Michelle Brasier, Aunty Donna, David Cooper
-- 2023-03-31 — 422 - Godfrey SXSW — speakers: David Cooper
-- 2023-03-24 — 421 - Tom Houghton — speakers: Tom Houghton, Posh Guy, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, David Cooper
-- 2023-03-17 — Fern Brady 2016: ComCompendium — speakers: Fern Brady, Alfie Brown, James Acaster, Amanda Donnet, David Cooper
-- 2023-03-10 — 420 - Vir Das — speakers: Vir Das, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, Everything Stu, David Cooper
-- 2023-02-24 — Gina Yashere 2015: ComCompendium — speakers: Gina Yashere, David Cooper
-- 2023-02-17 — Stewart Lee 2017: ComCompendium — speakers: Stewart Lee
-- 2023-02-06 — Romesh Ranganathan (Live at Soho Theatre) 2016: ComCompendium
-- 2023-01-29 — Shaparak Khorsandi 2016: ComCompendium — speakers: Shaparak Khorsandi
-- 2023-01-22 — Sarah Millican 2012: ComCompendium — speakers: Sarah Millican
-- 2023-01-13 — James Acaster 2013: ComCompendium — speakers: James Acaster
-- 2022-11-18 — 419 - Kurt Braunohler — speakers: Kurt Braunohler, Kurt Vonnegut, Eugene Mirman, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, David Cooper
-- 2022-11-11 — 418 - Sarah Keyworth — speakers: Sarah Keyworth, Paul Byrne, David Cooper
-- 2022-11-04 — 417 - Esther Manito — speakers: Esther Manito, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-10-21 — 416 - Glenn Moore — speakers: Glenn Moore, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-10-13 — 415 - Grace Petrie — speakers: Josie Long, Robin Ince, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-10-07 — 414 - Lauren Pattison — speakers: Lauren Pattison, Best Newcomer, Alfie Brown, James Acaster, Fern Brady, Everything Stu, David Cooper
-- 2022-09-30 — 413 - Jordan Gray — speakers: Jordan Gray, Ian McKellen, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-08-17 — 412 - Bianca Del Rio — speakers: Roy Haylock, Matt Crockett, Monkey Barrel, David Cooper
-- 2022-08-05 — 411 - Jenny Bede — speakers: Jenny Bede, Alfie Brown, James Acaster, Fern Brady, Jenny’s Edinburgh Fringe, Monkey Barrel, David Cooper
-- 2022-08-01 — 410 - Tom Ward — speakers: Tom Ward, Monkey Barrel, David Cooper
-- 2022-07-22 — 409 - Sean McLoughlin — speakers: Sean McLoughlin, Albert Hall, Bill Burr, Katherine Ryan, Ricky Gervais, Alfie Brown, James Acaster, Fern Brady
-- 2022-07-15 — 408 - Ria Lina — speakers: Ria Lina, Alfie Brown, James Acaster, Fern Brady, Everything Stu, David Cooper
-- 2022-07-04 — 407 - Alison Spittle — speakers: Alison Spittle, Alfie Brown, James Acaster, Fern Brady, gigs See, David Cooper
-- 2022-06-17 — 406 - Amy Miller — speakers: Amy Miller, Alfie Brown, James Acaster, Fern Brady, Everything Stu, Twitter Standup, David Cooper
-- 2022-06-11 — 405 - Olaf Falafel — speakers: Derek Chickpeas, Edinburgh Fringe, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-06-02 — 404 - Helen Bauer — speakers: Helen Bauer, Rosie Jones, Catherine Bohart, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-05-27 — 403 - Bobby Mair — speakers: Bobby Mair, Alfie Brown, James Acaster, Fern Brady, Red Richardson, Twitter Stu, David Cooper
-- 2022-05-20 — 402 - Daniel Rigby — speakers: Isaac Steele, Daniel Rigby, Eric Morecambe, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-05-13 — 401 - Dulcé Sloan (Live at SXSW) — speakers: Dulcé Sloan, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-03-31 — 400 - 10th Birthday Special - Rob Deering Returns! — speakers: Rob Deering, Paul Tonkinson, Roger Rabbit, Nish Kumar, James Acaster, Fern Brady, Read Rob, Everything Stu
-- 2022-03-24 — 399 - Eddie Pepitone Returns (Live at SXSW) — speakers: Alfie Brown, James Acaster, Fern Brady, Everything Stu, Jo Matkin
-- 2022-03-21 — 398 - Byron Bowers (Live at SXSW) — speakers: Honey Boy, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-03-11 — 397 - Matt Richardson — speakers: Matt Richardson, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-03-03 — 396 - K Trevor Wilson — speakers: Alfie Brown, James Acaster, Fern Brady, Jo Matkin
-- 2022-02-25 — 395 - Slim — speakers: Nish Kumar, James Acaster, Fern Brady, Slim IG, Jo Matkin
-- 2022-02-17 — 394 - Cally Beaton — speakers: Joan Rivers, Jo Matkin
-- 2022-02-10 — 393 - Diane Spencer — speakers: Diane Spencer, Kevin Shepherd, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-02-03 — Remembering Barry Cryer — speakers: Barry Cryer
-- 2021-12-17 — 392B - Jimmy Carr Returns, Live! (Part Two) — speakers: Jimmy Carr
-- 2021-12-13 — 392A - Jimmy Carr Returns, Live! (Part One) — speakers: Sean Lock, Jimmy Carr
-- 2021-12-02 — 391 - Omid Djalili — speakers: Omid Djalili, Michael McIntyre, Whoopi Goldberg, Nish Kumar, James Acaster, Fern Brady, Everything Stu, Maria Kuzak
-- 2021-11-25 — 390 - Foil Arms and Hog — speakers: Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott
-- 2021-11-22 — 389 - Tom Stade Returns — speakers: Tom Stade, Ben Gott
-- 2021-11-12 — 388 - NonComPod - Philippa Perry — speakers: Philippa Perry, Grayson Perry, Jimmy Carr, Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott
-- 2021-11-04 — 387 - Pierre Novellie — speakers: Pierre Novellie, Nish Kumar, James Acaster, Fern Brady, Phil Wang Watch, Maria Kuzak, Ben Gott
-- 2021-10-28 — 386 - Pan-Amble: Belonging — speakers: Maria Kuzak, Ben Gott
-- 2021-10-21 — 385 - Aaron Chen — speakers: Aaron Chen, Alfie Brown, James Acaster, Fern Brady, Follow Aaron, Adult Swim, Everything Stu, Maria Kuzak
-- 2021-10-14 — 384 - Adam Rowe — speakers: Adam Rowe, Dan Nightingale, Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott
-- 2021-10-07 — 383 - Thanyia Moore — speakers: Thanyia Moore, Alfie Brown, James Acaster, Fern Brady
-- 2021-09-30 — 382 - Harriet Kemsley — speakers: Harriet Kemsley, Bobby Mair, Nish Kumar, James Acaster, Fern Brady
-- 2021-09-24 — 381 - Jonathan Coulton — speakers: Jonathan Coulton, Lawrence Lessig, Nish Kumar, James Acaster, Fern Brady
-- 2021-08-05 — Mini Fringe Prelude — speakers: Mini Fringe Prelude, Edinburgh Fringe
-- 2021-07-23 — 380 - CK (Caimh) McDonnell — speakers: Bunny McGarry, Nish Kumar, James Acaster, Fern Brady
-- 2021-07-16 — 379 - Fin Taylor — speakers: Fin Taylor, Nish Kumar, James Acaster, Fern Brady
-- 2021-07-08 — 378 - Stevie Martin — speakers: Stevie Martin, Massive Dad, Nish Kumar, James Acaster, Fern Brady
-- 2021-07-01 — 377 - Paul Zerdin — speakers: Paul Zerdin Irrepressibly, Paul Zerdin, Nish Kumar, James Acaster, Alfie Brown, Fern Brady, Find Paul, paulzerdin TW
-- 2021-06-24 — 376 - Josh Johnson — speakers: Josh Johnson, Nish Kumar, James Acaster, Alfie Brown, Fern Brady
-- 2021-06-18 — 375 - Jessie Cave — speakers: Jessie Cave, Harry Potter, Nish Kumar, James Acaster, Fern Brady, Find Jessie
-- 2021-06-10 — 374 - Piff The Magic Dragon (John Van Der Put) — speakers: John Van Der Put, bulletproof performer, Nish Kumar, James Acaster, Fern Brady
-- 2021-05-27 — 373 - Greg Jenner — speakers: Greg Jenner, Nish Kumar, James Acaster, Alfie Brown, Fern Brady
-- 2021-05-20 — 372 - Rosie Jones — speakers: Rosie Jones, Nish Kumar, Alfie Brown
-- 2021-05-13 — 371 - Ian Moore — speakers: Ian Moore, Comedy Store, Alfie Brown, Fern Brady, Maria Kuzak, Ben Gott
-- 2021-05-06 — 370 - Stuart Laws — speakers: James Acaster, Turtle Canyon, Joel Dommett, Alfie Brown, Stuart Laws, Matt Winning, Maria Kuzak
-- 2021-04-08 — 369 - Catherine Bohart — speakers: Catherine Bohart, James Acaster, Nish Kumar, Maria Kuzak, Ben Gott
-- 2021-04-01 — 368 - The Delightful Sausage — speakers: Amy Gledhill, Chris Cantrill, James Acaster, Maria Kuzak, Ben Gott
-- 2021-03-25 — 367 - Sooz Kempner — speakers: James Acaster, SoozUK Co-hosting, Maria Kuzak, Ben Gott
-- 2021-03-18 — 366 - Loyiso Gola Returns — speakers: James Acaster, Maria Kuzak, Ben Gott
-- 2021-03-11 — 365 - Ramon Rivas II — speakers: Ramon Rivas, Weed Comedy, James Acaster, blazerramon Ramon, Maria Kuzak, Ben Gott
-- 2021-03-05 — 364 - Olga Koch — speakers: Olga Koch, Maria Kuzak, Ben Gott
-- 2021-02-26 — 363 - Bethany Black — speakers: James Acaster, Maria Kuzak, Ben Gott
-- 2021-02-18 — 362 - Russell Kane — speakers: Russell Kane, Stewart Lee, James Acaster, Follow Russell, Maria Kuzak, Ben Gott
-- 2021-02-11 — 361 - Tom Neenan — speakers: Tom Neenan Head, Tom Neenan, James Acaster, Tom Neenan Follow tneenan, Follow Tom’s Dr, Jenny Nicholson, Lindsey Ellis, Maria Kuzak
-- 2021-02-04 — 360 - Jordan Brookes — speakers: Edinburgh Comedy Award, Jordan Brookes, James Acaster, Stu’s Infinite Sofa, Maria Kuzak
-- 2020-12-24 — 359 - Aunty Donna Return! — speakers: Donna Return, James Acaster, Stu’s Infinite Sofa, Maria Kuzak
-- 2020-12-17 — 358 - Nigel Ng Returns! — speakers: Uncle Roger, Nigel Ng, James Acaster, Stu’s Infinite Sofa, Maria Kuzak
-- 2020-12-10 — 357 - Athena Kugblenu — speakers: Athena Kugblenu, James Acaster
-- 2020-12-03 — 356 - James Acaster Returns, Again! (Part 2) — speakers: James Acaster Returns, James Acaster
-- 2020-11-26 — 355 - James Acaster Returns, Again! (Part 1) — speakers: James Acaster Returns, James Acaster
-- 2020-11-19 — 354 - Martin Mor — speakers: Martin Mor, Everything Stu
-- 2020-11-12 — 353 - Colt Cabana — speakers: Colt Cabana, Brendon Burns, John Hastings, Toru Yano, Tw IG, Sara Barron
-- 2020-10-29 — 352 - Alasdair Beckett-King — speakers: Sara Barron, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-10-15 — 351- Laurie Kilmartin — speakers: Laurie Kilmartin, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-10-08 — 350 - Mat Ewins — speakers: Mat Ewins, Harry Hill’s Club Nite, Download Mat, John Kearns, Harry Hill, WaTsUMudD TW, Dara O'Briain, Sarah Millican
-- 2020-10-01 — 349 - Kim Noble — speakers: Kim Noble, Everything Stu, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-09-24 — 348 - Erin Foley — speakers: Erin Foley, Deep Dive, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-09-17 — 347 - Paul Sinha Returns — speakers: Paul Sinha, Everything Stu, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-09-10 — 346 - Gary Gulman — speakers: Gary Gulman, Kurt Vonnegut, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-09-03 — 345 - Larry Dean — speakers: Larry Dean, Stu Goldsmith, Alex Horne, Ed Aczel, Thom Tuck, Kelly Convey, Alice Fraser, Marcus Brigstocke
-- 2020-06-18 — 344 - Archie Maddocks — speakers: Stu Goldsmith, Alex Horne, Ed Aczel, Thom Tuck, Kelly Convey, Alice Fraser, Marcus Brigstocke, Charlie George
-- 2020-06-11 — 343 - Nigel Ng — speakers: Nigel Ng, Stu Goldsmith, Rhod Gilbert, Sara Barron, Luisa Omelian, Josie Long, Sarah Millican, Rob Kemp
-- 2020-06-04 — 342 - Catherine Cohen — speakers: Catherine Cohen, Stu Goldsmith, Rhod Gilbert, Sara Barron, Luisa Omelian, Josie Long, Sarah Millican, Rob Kemp
-- 2020-05-26 — 341 - Sindhu Vee Returns — speakers: Jess Fostekew, Spencer Jones, Stu Goldsmith, Rhod Gilbert, Josh Widdicombe, Josie Long, Sarah Millican, Rob Kemp
-- 2020-05-21 — 340 - Pope Lonergan — speakers: Pope Lonergan, Stu Goldsmith, Josh Widdicombe, Sindhu Vee, Josie Long, Sarah Millican, Rob Kemp, Russell Hicks
-- 2020-05-14 — 339 - Brett Goldstein — speakers: Brett Goldstein, Stu Goldsmith, Nish Kumar, Suzi Ruffell, Anna Mann, Randy Feltface, Josie Long, Sarah Millican
-- 2020-05-12 — SARAH MILLICAN & RUSSELL HOWARD ON THE INFINITE SOFA — speakers: Stu Goldsmith, Russell Howard, Sarah Millican, Iain Stirling, Laura Lexx, Alfie Brown, Anna Mann
-- 2020-05-08 — 338 - Helen Zaltzman — speakers: Helen Zaltzman, Olly Mann, Josie Long, com helenzaltzman
-- 2020-04-30 — 337 - Alonzo Bodden — speakers: Alonzo Bodden, Terry Crews, Stu Goldsmith, James Acaster, Sarah Millican, Jasky Singh
-- 2020-04-23 — Special Episode: The "Infinite Sofa" & What To Do Next... — speakers: Stu Goldsmith, James Acaster, Sarah Millican
-- 2020-04-16 — 336 - Robert Popper — speakers: Timewaster Robert Popper, Peter Serafinowicz, Stu Goldsmith, Sindhu Vee, Desiree Burch, Phil Ellis, Rob Rouse, Ben Milden
-- 2020-04-10 — 335 - Scott Bennett — speakers: Scott Bennett, Rob Brydon, Jason Manford how, Pete Dobbing, Follow Scott, Stu Goldsmith, Ben Milden
-- 2020-04-09 — LOCKDOWN SPECIAL - Alexander Bennett — speakers: Alexander Bennett, Stu Goldsmith
-- 2020-04-02 — 334 - Robby Collins — speakers: Robby Collins, Trevor Noah, Dave Chapelle, Pete Dobbing, Stu Goldsmith, Ben Milden
-- 2020-03-30 — 333 - Steve McNeil — speakers: Steve McNeil, Briain's Go, Pete Dobbing, Stu Goldsmith
-- 2020-03-20 — 332 - Desiree Burch — speakers: Desiree Burch, dick pics, Pete Dobbing, Stu Goldsmith
-- 2020-03-19 — Special Episode - Resilience, Self-care and Creativity — speakers: Pete Dobbing
-- 2020-03-12 — 331 - Janey Godley — speakers: Janey Godley Superb, Janey Godley, Ashley Storrie, Pot Tour, Stuart Goldsmith, Edinburgh Fringe
-- 2020-03-05 — 330 - Alexei Sayle — speakers: Alexei Sayle, Sandwich Bar, Ben Elton, Ellen Frost, Stuart Goldsmith, Edinburgh Fringe
-- 2020-02-28 — 329 - Eshaan Akbar — speakers: Eshaan Akbar, Catch Eshaan
-- 2020-02-20 — 328 - Seann Walsh — speakers: Seann Walsh
-- 2020-02-13 — 327 - Matt Winning — speakers: Matt Winning
-- 2020-02-06 — 326 - The Sklar Brothers — speakers: Twins Randy, Roast Battles, Farnham Maltings
-- 2020-01-31 — 325 - Ninia Benjamin — speakers: Ninia Benjamin, Will Smith, Newcastle Stand
-- 2020-01-23 — 324 - Jamali Maddix — speakers: Jamali Maddix
-- 2020-01-16 — 323 - John Kearns — speakers: John Kearns, Best Newcomer, Jacques Tati, Neil Hamburger, Harry Hill, Chris Morris
-- 2020-01-08 — Conan Debrief — speakers: Conan Debrief
-- 2020-01-06 — 322 - Tom Basden — speakers: Tom Basden Returning, Tom Basden, Best Newcomer, Soho Theatre
-- 2019-12-19 — 321 Santa Claus (and Herbie Treehead) — speakers: Santa Claus, Herbie Treehead, Comcompod Happy
-- 2019-12-13 — 320 - Flo & Joan — speakers: Soho Theatre
-- 2019-12-05 — 319 - Tim Renkow — speakers: Tim Renkow
-- 2019-11-28 — 318 - Neil Hamburger (Gregg Turkington) — speakers: Gregg Turkington, Comcompod Weirdos Save
-- 2019-11-14 — 317 - Matt Besser — speakers: Matt Besser, Del Close, Keith Johnstone, DirectTV Vod
-- 2019-11-08 — 316 - Carl Hutchinson — speakers: Carl Hutchinson, Comedy Box
-- 2019-10-31 — 315 - Chris Fleming — speakers: Chris Fleming, Nottingham Glee Club, Comedy Box
-- 2019-10-24 — 314 - Jimeóin — speakers: Nottingham Glee Club, Comedy Box
-- 2019-10-21 — 313 - The Kagools — speakers: Nicky Wilkinson, Claire Ford, Nottingham Glee Club, Comedy Box
-- 2019-10-10 — 312 - "Zach and Viggo" and Jonny Woolley — speakers: Jonny Woolley, Zach Zucker, Viggo Venn, Jack Tucker, Find Stu, Nottingham Glee Club, Comedy Box
-- 2019-10-03 — 311 - Sofie Hagen — speakers: Sofie Hagen, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box
-- 2019-09-26 — 310 - Sara Barron — speakers: Sara Barron, sarabarron Catch, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box
-- 2019-09-22 — 309 - Randy (Heath McIvor) — speakers: Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box, Dave Hill
-- 2019-09-10 — 308 - Ellie Taylor — speakers: Ellie Taylor, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box
-- 2019-09-05 — 307 - Rob Auton — speakers: Rob Auton, Kanye West, RobertAuton Dates
-- 2019-08-29 — 306 - Joz Norris (Live at Edfringe 2019) — speakers: Joz Norris, co uk
-- 2019-08-18 — 305 - Suzi Ruffell — speakers: Suzi Ruffell, Josh Widdicombe, Kevin Bridges, Edinburgh Fringe ComComPod
-- 2019-08-05 — 304 - Vikki Stone — speakers: Vikki Stone, Song Bird, Edinburgh Fringe ComComPod
-- 2019-07-30 — 303 - Pete Holmes (Live at Just For Laughs Montreal) — speakers: Pete Holmes, Edinburgh Fringe ComComPod
-- 2019-07-23 — 302 - Jayde Adams (Live at Southend Comedy Festival) — speakers: Jayde Adams, Edinburgh Fringe ComComPod
-- 2019-07-17 — 301 - Simon Brodkin — speakers: Simon Brodkin, Lee Nelson, SimonBrodkin Simon Brodkin, Edinburgh Fringe ComComPod
-- 2019-07-09 — 300 - Stuart Goldsmith — speakers: Stu Goldsmith, Sarah Millican, Tom Allen, Sindhu Vee, James Acaster, Ricky Gervais, Brett Goldstein, Herbie Treehead
-- 2019-07-01 — 299 - Sam Jay — speakers: Sam Jay, Edinburgh Fringe ComComPod
-- 2019-06-25 — 298 - Nick Revell — speakers: Nick Revell, Edinburgh Fringe ComComPod
-- 2019-06-18 — 297 - Paul Smith — speakers: Paul Smith, Edinburgh Fringe ComComPod
-- 2019-06-11 — 296 - Markus Birdman — speakers: Markus Birdman, Edinburgh Fringe ComComPod
-- 2019-06-03 — 295 - Russell Hicks — speakers: Russell Hicks, Find Russell, Edinburgh Fringe ComComPod
-- 2019-05-28 — 294 - Ahir Shah — speakers: Ahir Shah, Edinburgh Fringe ComComPod
-- 2019-05-22 — 293 - Andi Osho — speakers: Andi Osho, Edinburgh Fringe ComComPod
-- 2019-05-13 — 292 - JOSH WIDDICOMBE RETURNS (Live at Machynlleth Comedy Festival) — speakers: Edinburgh Fringe ComComPod
-- 2019-05-07 — 291 - Bec Hill — speakers: Bec Hill, How Bec, Ed Fringe
-- 2019-04-29 — 290 - Matt Braunger (Live at SXSW, Austin Texas) — speakers: Matt Braunger, Marc Maron
-- 2019-04-22 — 289 - Deborah Frances-White — speakers: Deborah Frances-White, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Farnham Maltings
-- 2019-04-16 — 288 - Chris Addison — speakers: Chris Addison, Rebel Wilson, Anne Hathaway, Armando Iannucci, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Farnham Maltings
-- 2019-04-08 — 287 - Eugene Mirman, Live at SXSW — speakers: Eugene Mirman, EugeneMirman Get ad-free, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Farnham Maltings
-- 2019-04-01 — 286 - Sindhu Vee (Live at Podfest Birmingham) — speakers: Sindhu Vee, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club
-- 2019-03-26 — 285 - Roy Wood Jr, Live at SXSW — speakers: Roy Wood Jr, Ronny Chieng, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club
-- 2019-03-18 — 284 - Kathy Griffin, Live at SXSW, Austin Texas. — speakers: Kathy Griffin, Donald Trump, Buy Fuck Trump, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club
-- 2019-03-12 — 283 - Ben "Yahtzee" Croshaw — speakers: Blog Get, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club
-- 2019-03-04 — 282 - Toby Hadoke — speakers: XS Mallarkey, Spike Milligan, Dead Parrot, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club Hosted
-- 2019-02-28 — "Like I Mean It" Comedy Special now available for free! — speakers: Leamington Spa, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box
-- 2019-02-25 — 281 - Jake Johannsen — speakers: Jake Johannsen, Leamington Spa Royal Spa
-- 2019-02-18 — 280 - Jeff Innocent — speakers: Jeff Innocent, Leamington Spa Royal Spa
-- 2019-02-11 — 279 - POLICE COPS (Live at Vault Festival) — speakers: Leamington Spa Royal Spa
-- 2019-02-04 — 278 - Eggsy (Goldie Lookin Chain) AKA John Rutledge — speakers: John Rutledge, John Eggsy Rutledge, Mike Bubbins, Leamington Spa Royal Spa
-- 2019-02-01 — Remembering Jeremy Hardy — speakers: Jeremy Hardy, Mark Steele
-- 2019-01-28 — 277 - Jessica Fostekew — speakers: Jessica Fostekew, Lauren Pattinson, Leamington Spa Royal Spa
-- 2019-01-21 — 276 - Ed Aczel — speakers: Ed Aczel, Edward Aczel, Leamington Spa Royal Spa
-- 2019-01-14 — 275 - Doc Brown — speakers: Ben Bailey Smith, Aka Doc Brown, Youtube Book, Leamington Spa Royal Spa
-- 2018-12-17 — 273 - Laura Davis — speakers: Laura Davis
-- 2018-12-10 — 272 - John Robertson — speakers: John Robertson Creator, John Robertson, Twitter Robbotron Stu, Leamington Spa Royal Spa
-- 2018-12-03 — 271 - Laura Lexx — speakers: Laura Lexx, Jessica Fostekew, Catch Laura, Secret Santa, Leamington Spa Royal Spa
-- 2018-11-27 — A million bees? In just one hive? — speakers: Lise Richardson LiseRichardson
-- 2018-11-26 — 270 - No Such Thing As A Fish (Live) — speakers: Andrew Hunter Murray, Anna Ptaszynski, Dan Schreiber, James Harkin, Twitter NoSuchThing Buy, Stu Goldsmith, Secret Santa
-- 2018-11-19 — 269 - Sean Morley — speakers: Leamington Spa Royal Spa
-- 2018-11-12 — 268 - Imran Yusuf — speakers: Imran Yusuf, Best Newcomer, Michael McIntyre, Comedy Roadshow, Leamington Spa Royal Spa
-- 2018-11-05 — 267 - Elf Lyons — speakers: com Enjoy, Leamington Spa Royal Spa
-- 2018-10-31 — Future Girl — speakers: Future Girl
-- 2018-10-22 — 266 - Ismo Leikola — speakers: Mitch Hedberg, Leamington Spa Royal Spa
-- 2018-10-15 — 265 - Mark Thomas — speakers: Mark Thomas, Mark Thomas Tour, Leamington Spa Royal Spa
-- 2018-10-08 — 264 - Janeane Garofalo — speakers: Janeane Garofalo
-- 2018-10-01 — 263 - Garrett Millerick (Live at the Barn Theatre, Welwyn) — speakers: Garrett Millerick
-- 2018-09-25 — 262 - Alice Fraser (Live at The Vintage Mobile Cinema, Edfringe) — speakers: Alice Fraser, Follow Alice, Ben Moorhouse, Cinema more
-- 2018-09-17 — 261 - Alex Edelman — speakers: Alex Edelman
-- 2018-09-10 — 260 - Jack Docherty — speakers: Jack Docherty, Cameron Miekelsonfrom
-- 2018-09-03 — 259 - Rose Matafeo — speakers: Edinburgh Comedy Award, Rose Matafeo
-- 2018-08-21 — 258 - Nick Thune — speakers: Nick Thune, Mitch Hedberg, Good Guy
-- 2018-08-13 — 257 - Myq Kaplan — speakers: Myq Kaplan
-- 2018-07-30 — 256 - Jen Brister (Live at Larmer Tree Festival)
-- 2018-07-23 — 255 - Scummy Mummies — speakers: Ellie Gibson
-- 2018-07-09 — 254 - Paul Foot — speakers: Paul Foot, Ed Fringe
-- 2018-07-03 — 253 - The Raymond and Mr Timpkins Revue — speakers: Edinburgh Fringe, Robin Ince, Dara O'Briain, James Acaster
-- 2018-06-25 — 252 - John Luke Roberts — speakers: Luke Roberts Splicing, John Luke Roberts, Thom Tuck, John Luke, Ed Fringe
-- 2018-06-19 — 251 - Robin Ince — speakers: Robin Ince Comedian, Robin Ince, Dara O'Briain, James Acaster
-- 2018-06-11 — 250 - Simon Evans — speakers: Guest Zero, Dara O'Briain, James Acaster
-- 2018-06-04 — 249 - Anuvab Pal — speakers: Anuvab Pal, Russell Howard, James Acaster
-- 2018-05-28 — 248 - Sophie Willan — speakers: Russell Howard, James Acaster, SophieWillan See Stu, Birmingham Glee
-- 2018-05-21 — 247 - Ben Target — speakers: Ben Target, Edinburgh Fringe, Birmingham Glee
-- 2018-05-15 — Shhhh... This one's [REDACTED] — speakers: Paul Foot
-- 2018-05-14 — 246 - Anne Edmonds — speakers: Anne Edmonds See
-- 2018-04-30 — 245 - Ron White (Live from SXSW) — speakers: Ron Tater Salad White, Ron White ron white, Henry Tudor House, Birmingham Glee
-- 2018-04-23 — 244 - Tez Ilyas — speakers: Tez Ilyas
-- 2018-04-16 — 243 - Beth Stelling (Live from SXSW) — speakers: Beth Stelling
-- 2018-04-09 — 242 - Maria Bamford — speakers: Maria Bamford
-- 2018-04-03 — 241 - Jeremy Dyson (The League of Gentlemen) — speakers: Andy Nyman, Jeremy Dyson
-- 2018-04-02 — 240 - Andy Nyman — speakers: Andy Nyman, Jeremy Dyson, Derren Brown
-- 2018-03-26 — 239 - James Davis (Live from SXSW) — speakers: James Davis, Will Smith
-- 2018-03-19 — 238 - Maeve Higgins (SXSW) — speakers: Maeve Higgins, Marvellous Maeve Higgins, Find Maeve
-- 2018-03-14 — 237 - Ola The Comedian
-- 2018-03-08 — 236 - Julio Torres
-- 2018-02-26 — 235 - Colin Hoult — speakers: Colin Hoult, Anna Mann
-- 2018-02-18 — 234 - Arabella Weir — speakers: Arabella Weir
-- 2018-02-14 — Compared To What
-- 2018-02-09 — 233 - Jonathan Pie (Tom Walker & Andrew Doyle) — speakers: Jonathan Pie, Tom Walker
-- 2018-01-18 — 232A - James Acaster: Returns (part two) — speakers: James Acaster, Buy Stu
-- 2018-01-17 — 232 - James Acaster: Returns (part one) — speakers: James Acaster, Buy Stu
-- 2017-12-19 — 231 - Jess Robinson
-- 2017-12-04 — 229 - Zoe Coombs Marr
-- 2017-11-28 — 228 - Howard Read — speakers: Howard Read
-- 2017-11-21 — 22X - Brian Regan (Re-release) — speakers: Brian Regan
-- 2017-11-13 — 227 - Sarah Kendall — speakers: Sarah Kendall
-- 2017-10-30 — 226 - Sean Patton — speakers: Sean Patton, Buy Sean
-- 2017-10-23 — 225 - Reginald D Hunter
-- 2017-10-16 — 224 - Tim McGarry (Live at Belfast Comedy Festival) — speakers: Tim McGarry
-- 2017-10-10 — 223 - Jo Caulfield — speakers: Jo Caulfield
-- 2017-10-03 — 222 - Joe DeRosa — speakers: Joe DeRosa
-- 2017-09-26 — 221 - Michael Legge (Live at Objectively Funny Festival) — speakers: Michael Legge
-- 2017-09-18 — 220 - Sasheer Zamata — speakers: Sasheer Zamata
-- 2017-09-11 — 219 - Sugar Sammy — speakers: Sugar Sammy
-- 2017-09-04 — 218 - Liza Treyger — speakers: Liza Treyger
-- 2017-08-27 — 217 - W Kamau Bell (Live at Just For Laughs Montreal) — speakers: Chris Rock, Stu Goldsmith
-- 2017-08-07 — 216 - Andy Daly — speakers: Andy Daly, Comedy Bang Bang, Stu Goldsmith
-- 2017-07-31 — 215 - Ivan Aristeguieta — speakers: Venezuelan Ivan
-- 2017-07-26 — 214 - Nick Cody — speakers: Nick Cody
-- 2017-07-17 — 213 - Simon Munnery — speakers: Simon Munnery
-- 2017-07-10 — 212 - Orlando Baxter — speakers: Orlando Baxter
-- 2017-07-03 — 211 - Barry Cryer — speakers: Barry Cryer Obe, Tommy Cooper, Kenny Everett
-- 2017-06-27 — 210 - Pippa Evans — speakers: Pippa Evans
-- 2017-06-20 — 209 - Ed Gamble (Live at Stonefree Festival) — speakers: Ed Gamble, Nish Kumar
-- 2017-06-15 — Micro-pod: T-shirts! "Hell Week"! Wedding Amble!
-- 2017-06-12 — 208 - Jo Brand (Live at Soho Theatre) — speakers: Jo Brand
-- 2017-06-05 — 207 - Tom Ballard — speakers: Tom Ballard Multiple
-- 2017-05-29 — 206 - Lost Voice Guy (AKA Lee Ridley) — speakers: Lee Ridley, Follow Lee
-- 2017-05-22 — 205 - Rhys Nicholson — speakers: Rhys Nicholson
-- 2017-05-15 — 204 - Jeremy Hardy (Live at Soho Theatre) — speakers: Jeremy Hardy
-- 2017-05-08 — 203 - Aunty Donna — speakers: sound design
-- 2017-04-11 — 202 - Hannah Gadsby (Live at Melbourne Comedy Festival) — speakers: Hannah Gadsby
-- 2017-04-05 — 20X - Melbourne Comedy Festival 2017 Special Post-amble — speakers: Deanne Smith, Aunty Donna, Aaron Chen, Tom Walker, Ahir Shah, Becky Lucas, Rebecca Walker
-- 2017-03-06 — 200 - Stewart Lee — speakers: Stewart Lee, Follow Stewart, Stu Goldsmith
-- 2017-02-27 — 199 - Paul Chowdhry (Live at Soho) — speakers: Paul Chowdhry, Stu Goldsmith
-- 2017-02-20 — 198 - Mark Forward — speakers: Mark Forward, Stu Goldsmith
-- 2017-02-13 — 197 - Phil Wang — speakers: Phil Wang, Stu Goldsmith
-- 2017-02-07 — 196 - Rachel Parris — speakers: Rachel Parris, Stu Goldsmith
-- 2017-01-30 — 195 - Elis James and John Robins (Live from Soho Theatre) — speakers: John Robins, Elis James, Stu Goldsmith
-- 2017-01-23 — 194 - Brian Regan — speakers: Brian Regan, Stu Goldsmith
-- 2017-01-16 — 193 - Angela Barnes — speakers: Stu Goldsmith
-- 2017-01-09 — 192 - Elis James — speakers: Elis James, Stu Goldsmith
-- 2016-12-19 — 191 - Pappy's Return — speakers: Return Pappys
-- 2016-12-12 — 190 - Fern Brady — speakers: Fern Brady, Stu Goldsmith
-- 2016-12-05 — 189 - Chris Gethard — speakers: Chris Gethard
-- 2016-11-28 — 188 - Andy Askins — speakers: Andy Askins, Stu Goldsmith
-- 2016-11-21 — 187 - Carmen Lynch — speakers: Stu Goldsmith
-- 2016-11-15 — 186 - Tony Law Returns — speakers: Tony Law Returns, Old Tone
-- 2016-11-07 — 185 - Jonny And The Baptists — speakers: Stu Goldsmith
-- 2016-10-31 — 184 - Barry Crimmins — speakers: Barry Crimmins, Stu Goldsmith
-- 2016-10-24 — 183 - Paul Currie — speakers: Paul Currie, Stu Goldsmith
-- 2016-10-17 — 182 - Cameron Esposito — speakers: Cameron Esposito, Stu Goldsmith
-- 2016-10-10 — 181 - John Robins — speakers: John Robins, Stu Goldsmith
-- 2016-10-03 — 180 - Tim Minchin (Live at the Los Angeles Podcast Festival) — speakers: Multiple Tony, Olivier Award-winner, Tim Minchin, Royal Albert Hall, Stu Goldsmith
-- 2016-09-26 — 179 - Loyiso Gola — speakers: Stu Goldsmith
-- 2016-09-18 — 178 - Lewis Black (Live at Just For Laughs, Montreal) — speakers: Stu Goldsmith
-- 2016-09-12 — 177 - Tiff Stevenson (Live at Larmer Tree Festival) — speakers: Stu Goldsmith
-- 2016-08-15 — 176 - Bill Burr — speakers: Bill Burr
-- 2016-08-01 — 175 - Todd Barry — speakers: Todd Barry, Stu Goldsmith
-- 2016-07-18 — 174 - Wendy Wason — speakers: Wendy Wason, Stu Goldsmith
-- 2016-07-11 — 173 - Jinkx Monsoon — speakers: Jinkx Monsoon, Drag Race IV, Stu Goldsmith
-- 2016-07-04 — 172 - Funmbi Omotayo — speakers: Stu Goldsmith
-- 2016-06-24 — 171 - Shappi Khorsandi
-- 2016-06-13 — 170 - Russell Howard — speakers: Russell Howard Star, Russell Howard
-- 2016-06-04 — 169 - Liam Williams — speakers: Liam Williams Rigorously, Liam Williams, Stu Goldsmith
-- 2016-05-24 — 168 - Joe Lycett (Live at Machynlleth Comedy Festival) — speakers: Joe Lycett
-- 2016-05-17 — 167 - Seymour Mace — speakers: Seymour Mace, Stu Goldsmith
-- 2016-05-04 — 166 - Abigoliah Schamaun — speakers: Abigoliah Schamaun, Stu Goldsmith
-- 2016-04-21 — 165 - Romesh Ranganathan (Live at Soho Theatre) — speakers: dizzying speed
-- 2016-04-11 — 164 - Jimmy Carr (Part Two of Two) — speakers: Jimmy Carr
-- 2016-04-04 — 164 - Jimmy Carr (Part One of Two) — speakers: Jimmy Carr
-- 2016-03-26 — 163 - Mike Wilmot — speakers: Stu Goldsmith
-- 2016-03-19 — 162 - Tania Edwards — speakers: Tania Edwards, Stu Goldsmith
-- 2016-03-11 — 161 - Dave Gorman (Live at Soho Theatre) — speakers: Dave Gorman
-- 2016-03-07 — 160 - Gein's Family Giftshop — speakers: Family Giftshop Bird, Stu Goldsmith
-- 2016-02-26 — 159 - Spencer Jones aka The Herbert (Live at Bob Slayer's Blundabus) — speakers: Spencer Jones, Bob Slayer, Barry Awards voted, Stu Goldsmith
-- 2016-02-19 — 158 - Hari Kondabolu — speakers: Hari Kondabolu, Stu Goldsmith
-- 2016-02-12 — 157 - Nathan Caton — speakers: Nathan Caton, Stu Goldsmith
-- 2016-02-04 — 156 - Matt Kirshen — speakers: Matt Kirshen Wise, Matt Kirshen, Stu Goldsmith
-- 2016-01-22 — 155 - Jena Friedman (Live at the Edinburgh Fringe) — speakers: Stu Goldsmith
-- 2016-01-16 — 154 - Mark Steel (Live at the Edinburgh Fringe) — speakers: Mark Steel, Stu Goldsmith
-- 2016-01-08 — 153 - Isy Suttie (Live at the Soho Theatre) — speakers: Stu Goldsmith
-- 2015-12-19 — 152 - Daniel Sloss (Live at the Edinburgh Fringe) — speakers: Daniel Sloss, Stu Goldsmith
-- 2015-12-10 — 151 - Ronny Chieng (Live at the Edinburgh Fringe) — speakers: Ronny Chieng, Bill Burr, Stu Goldsmith
-- 2015-11-27 — 150 - Stewart Francis (Live at the Edinburgh Fringe) — speakers: Stewart Francis, Stu Goldsmith
-- 2015-11-21 — 149 - Will Durst (Live at the Edinburgh Fringe) — speakers: Will Durst, Stu Goldsmith
-- 2015-11-14 — 148 - Aisling Bea (Live at the Edinburgh Fringe) — speakers: Aisling Bea, Stu Goldsmith
-- 2015-11-04 — 147 - Jason Byrne (Live at the Edinburgh Fringe) — speakers: Jason Byrne, Stu Goldsmith
-- 2015-10-23 — 146 - Dave Anthony — speakers: Dave Anthony Known, Dave Anthony, Stu Goldsmith
-- 2015-10-19 — 145A - Jimmy Pardo (Part Two of Two) — speakers: Jimmy Pardo, Stu Goldsmith
-- 2015-10-16 — 145 - Jimmy Pardo (Part One of Two) — speakers: Jimmy Pardo, Conan O'Brien, Stu Goldsmith
-- 2015-10-12 — 144A - Todd Glass (Part Two of Two) — speakers: Todd Glass, David Cross, Stu Goldsmith
-- 2015-10-10 — 144 - Todd Glass (Part One of Two) — speakers: Todd Glass, Stu Goldsmith
-- 2015-10-07 — 143 - Jackie Kashian — speakers: Jackie Kashian, Head Ranger, Maria Bamford, Stu Goldsmith
-- 2015-10-02 — 142 - Joel Dommett (Live at the Edinburgh Fringe) — speakers: Steve Dunne, knifey knifey
-- 2015-09-25 — 141 - Matt Lucas — speakers: Matt Lucas, George Dawes, David Walliams, Stu Goldsmith
-- 2015-09-18 — 140 - Mae Martin (Live at the Edinburgh Fringe) — speakers: Mae Martin, Stu Goldsmith
-- 2015-09-12 — 139 - Tommy Tiernan (Live at the Edinburgh Fringe) — speakers: Tommy Tiernan, Stu Goldsmith
-- 2015-09-04 — 138 - John Lloyd (Live at the Edinburgh Fringe) — speakers: John Lloyd, Stu Goldsmith
-- 2015-08-24 — 137 - Katherine Ryan (Live at the Edinburgh Fringe) — speakers: Katherine Ryan, Frankie Boyle, Joan Rivers, Bette Midler, Kirstie Allsopp, Joe Lycett, Daniel Sloss, Aisling Bea
-- 2015-08-16 — 136 - Justin Moorhouse — speakers: Justin Moorhouse, Destiny Calling, Peter Kay, Alfie Joey, Jason Manford, John Bishop, Ross Noble, Paul Sinha
-- 2015-08-09 — 135 - Charlie Baker (Live at Latitude Festival) — speakers: Charlie Baker, Andy Parsons, Dominic Holland, Harry Hill, Andre Agassi, Comic Relief
-- 2015-08-02 — 134 - Andy Kindler — speakers: Andy Kindler, Jerry Seinfeld, Steven Wright, Mitch Hedberg, James Adomian, Richard Gere, Ben Stiller, Adam Sandler
-- 2015-07-30 — 133 - Patton Oswalt (Live at Just For Laughs, Montreal) — speakers: Patton Oswalt, Kyle Kinane, Alan Moore, Louis CK, Dave Chappelle, Tony Woods, George Lucas, James Joyce
-- 2015-07-29 — 132 - Moshe Kasher — speakers: Moshe Kasher, Bill Burr, Steven Wright, Robert Schimmel, Todd Barry, Patton Oswalt, Ron Hubbard, Ben Stiller Hosted
-- 2015-07-28 — 131 - Jen Kirkman — speakers: Jen Kirkman, Dave Chappelle, Kurt Metzger, Chelsea Handler, Marc Maron, Bll Burr, Steve Bennett, Alan Cumming
-- 2015-07-27 — 130 - George Egg — speakers: George Egg, Robin Ince, Will Smith, Edinburgh Fringe, Chris Eubank, Monkey Tennis Hosted
-- 2015-07-17 — 129 - Adam Buxton (Live at Soho Theatre) — speakers: Adam Buxton, Joe Cornish
-- 2015-07-10 — 128 - Daliso Chaponda (Live at Darlington Comedy Festival) — speakers: Chaponda Malawi, Eddie Murphy, Roger Ebert Hosted
-- 2015-07-03 — 127 - Gavin Webster (Live) — speakers: Gavin Webster, Adam Buxton, Stewart Lee, Paul Foot, Jo Brand, Ross Noble, Bill Hicks, Harry Hill
-- 2015-06-26 — 126 - Nazeem Hussain — speakers: Nazeem Hussain, Adam Buxton
-- 2015-06-19 — 125 - Dara Ó Briain
-- 2015-06-12 — 124 - Ian Stone — speakers: Ian Stone, Adam Buxton, George Carlin, Michael McIntyre, Jenny Eclair, Rich Hall, Dylan Moran, Jerry Sadowitz
-- 2015-06-05 — 123 - Wil Anderson (Live) — speakers: Wil Anderson, Adam Buxton, Stewart Lee, Daniel Kitson, Festival Comedian, Bill Burr, George Carlin, Bill Hicks
-- 2015-05-29 — 122 - Zoe Lyons — speakers: Festival Comedian, Jo Brand, Russell Kane, James Acaster, Ben Elton, Robin Williams, Jo Caulfield, Kerry Godliman
-- 2015-05-22 — 121 - Mitch Benn (Live) — speakers: Mitch Benn, Daniel Kitson, Alternative Comedy, Charlie Brooker, Ross Noble, Mark Thomas, Comedy Music, Harry Shearer
-- 2015-05-15 — 120 - Mark Watson (Live) — speakers: Mark Watson, Stewart Lee, David O'Doherty, Daniel Kitson, Festival Comedian, Paul Foot, Tim Key, Michael McIntyre
-- 2015-05-08 — 119 - Nina Conti (Live) — speakers: Nina Conti, Ken Campbell, Daniel Kitson, Touring Comedian, Jeff Dunham, Dr Brown, Phil Burgers
-- 2015-05-01 — 118 - The Midnight Beast — speakers: melodic dick-jokes, Nina Conti, Comedy Central, Joe Lycett, Family Guy
-- 2015-04-24 — 117 - Nick Mohammed — speakers: Nick Mohammed, Mr Swallow, Nina Conti, Festival Comedian, Stefan Golaszewski, Julia Davis, Matt Damon, Ridley Scott
-- 2015-04-17 — 116 - Des Bishop (Live) — speakers: Russell Kane, Jason Byrne, Steve Bennett, Fringe Hosted
-- 2015-04-10 — 115 - Gina Yashere — speakers: Russell Peters, Gina Yashere, Stewart Lee, Michael McIntyre, Greg Proops, Jay Leno, Def Comedy Jam, Def Jam
-- 2015-04-03 — 114A - John Gordillo (2 of 2) — speakers: Stu Goldsmith
-- 2015-03-27 — 114 - John Gordillo (1 of 2) — speakers: Michael McIntyre, John Gordillo, Stu Goldsmith
-- 2015-03-20 — 113A - Tim Key (2 of 2) — speakers: Alex Horne, Mark Watson
-- 2015-03-13 — 113 - Tim Key (1 of 2) — speakers: Tim Key, Alan Partridge, Festival Comedian, Philippe Gaulier, Alex Horne, Mark Watson, Steve Coogan, David Baddiel Hosted
-- 2015-03-06 — 112 - Liz Miele — speakers: Liz Miele
-- 2015-02-27 — 111 - Brendon Burns — speakers: Brendon Burns
-- 2015-02-20 — 110 - Lou Sanders — speakers: Lou Sanders
-- 2015-02-13 — 109 - Andrew O'Neill — speakers: Andrew O'Neill
-- 2015-02-06 — 108 - Harley Breen — speakers: festival act
-- 2015-01-29 — 107 - Urzila Carlson — speakers: Urzila Carlson
-- 2015-01-24 — 106 - Thom Tuck — speakers: Thom Tuck
-- 2015-01-15 — 105 - Katy Wix — speakers: Katy Wix
-- 2015-01-08 — 104 - Alfie Brown — speakers: Alfie Brown Alfie Brown
-- 2014-12-24 — Christmas Mega Pod with Carl Donnelly and Chris Martin — speakers: Carl Donnelly
-- 2014-12-18 — 103 - Mickey "D" Dwyer
-- 2014-12-04 — 101 - Nish Kumar — speakers: Nish Kumar
-- 2014-11-27 — 100 - Phil Kay (Live) — speakers: Phil Kay
-- 2014-11-20 — 99 - Luisa Omielan — speakers: Soho Theatre, Suzi Ruffell, XS Malarkey, Debi Allen, Caroline Rhea, Whoopi Goldberg
-- 2014-11-13 — 98A - Ross Noble (2 of 2) — speakers: Ross Noble, Russell Brand, Bill Bailey, Boothy Graffoe, Stewart Lee, Harry Hill, Billy Connolly, Joe Wilkinson
-- 2014-11-06 — 98 - Ross Noble (1 of 2) — speakers: Ross Noble, Russell Brand, Bill Bailey, Boothy Graffoe, Stewart Lee, Harry Hill, Billy Connolly, Joe Wilkinson
-- 2014-10-30 — 97 - Prince Abdi — speakers: Stu Goldsmith
-- 2014-10-23 — 96B - David Cross "Clapping In the Usa" Exclusive Deleted Track from "It's Not Funny" (2014, Sub Pop) — speakers: David Cross, Jon Benjamin, David Hosted
-- 2014-10-23 — 96A - David Cross (2 of 2) — speakers: David Cross
-- 2014-10-16 — 96 - David Cross (1 of 2) — speakers: David Cross
-- 2014-10-09 — 95 - Trygve Wakenshaw — speakers: Trygve Wakenshaw Bloody, Dr Brown, Phil Burgers, Barry Awards, Vikki Stone, Steen Raskopoulos, Red Bastard, Benjamin Crellin
-- 2014-10-02 — 94 - Tom Stade (Live) — speakers: Tom Stade, Gary Delaney, Micky Flanagan, Stephen Fry, Craig Campbell, Stuart Goldsmith, John Hastings, Doug Stanhope
-- 2014-09-25 — 93 - Eleanor Tiernan — speakers: Eleanor Tiernan, Free Fringe, Laughter Lounge, Tommy Tiernan, Mrs Brown's Boys, Chris Brown, Stewart Lee, Andrew Lawrence
-- 2014-09-17 — 92 - Josie Long (Live) — speakers: Josie Long
-- 2014-09-10 — 91 - Steen Raskopoulos — speakers: Steen Raskopoulos, Edinburgh Best Newcomer, Edinburgh Best Newcomer Nomination, Paul Byrne, Adam Riches, Lynsey Hanley, Jordan Raskopoulos, Eric Bana
-- 2014-09-05 — 90 - Bridget Christie (Live) — speakers: Bridget Christie, Stewart Lee, Edinburgh Fringe Festival, Fosters Comedy Award, David Trent, Alternative Comedy Memorial Society, Sam Simmons, Alison Vernon-Smith
-- 2014-08-27 — 89 - Phill Jupitus (Live) — speakers: Phill Jupitus, Josie Long, Bridget Christie, Sara Pascoe, Deborah Francis-White, Nadia Kamil, Alternative Comedy Memorial Society, Malcolm Hardee
-- 2014-08-14 — 88 - Sam Simmons (Live) — speakers: Sam Simmons, Paul Foot, Mike Wilmot, Noel Fielding, Graeme Garden, Bob Slayer, James Acaster, Hannibal Burress
-- 2014-08-06 — 87A - Edfringe Mini Ep — speakers: Edinburgh Fringe
-- 2014-07-30 — 87 - John Hastings — speakers: John Hastings, Edinburgh Fringe Festival, Comedy Store, Imran Yusuf, Josh Widdicombe, Patton Oswalt, Michael McIntyre, Tony Law
-- 2014-07-23 — 86 - Noel James — speakers: Noel James, Gavin Webster, James Joyce, Dylan Thomas, Spike Milligan, Mark Thomas, Kevin Day, Maria Callas
-- 2014-07-17 — 85 - Kyle Kinane — speakers: Kyle Kinane, Eddie Pepitone, Kurt Braunohler, Mitch Hedburg, Charles Bukowski, Dave Attell
-- 2014-07-10 — 84 - Nick Doody — speakers: Nick Doody, Jim Jefferies, Ben Moore, Wayne Shepherd, Arnold Brown, Stephen Fry, Bill Hicks, Jack Dee
-- 2014-07-02 — 83 - Aamer Rahman — speakers: Aamer Rahman, Reverse Racism, Nazeem Hussain, Nabil Abdul Rashid
-- 2014-06-25 — 82 - Andy Zaltzman — speakers: Andy Zaltzman, John Oliver, Karen Taylor, Danny Bhoy, Spencer Brown, Daniel Kitson, David O'Doherty, Ross Noble
-- 2014-06-19 — 81 - Adrienne Truscott — speakers: Adrienne Truscott
-- 2014-06-11 — 80 - Jarred Christmas
-- 2014-06-05 — 79 - Luke Heggie — speakers: Luke Heggie
-- 2014-05-28 — 78 - Michele A'Court — speakers: Michele A'Court
-- 2014-05-22 — 77 - Tom Wrigglesworth — speakers: Tom Wrigglesworth
-- 2014-05-15 — 76 - Ben Hurley — speakers: Ben Hurley
-- 2014-04-30 — 75 - Carey Marx (Live) — speakers: Carey Marx
-- 2014-04-25 — 74 - Claudia O'Doherty (Live) — speakers: Claudia O'Doherty
-- 2014-04-17 — 73 - Max And Ivan (Live) — speakers: Stu Goldsmith
-- 2014-04-09 — 72 - David O'Doherty (Live) — speakers: David O'Doherty, Stu Goldsmith
-- 2014-04-03 — 71 - Kerry Godliman — speakers: Kerry Godliman, Stu Goldsmith
-- 2014-03-25 — 70 - Tim Vine (Live) — speakers: Tim Vine
-- 2014-03-19 — 69 - Ed Byrne (Live) — speakers: Ed Byrne, Stu Goldsmith
-- 2014-03-12 — 68 - Sean Hughes (Live) — speakers: Sean Hughes, Stu Goldsmith
-- 2014-03-05 — 67 - Gary Delaney (Live) — speakers: Gary Delaney, Simon Munnery, Harry Hill, Stewart Lee, Stephen Wright, Tim Vine, Tony Law, Martin Lewis
-- 2014-02-27 — 66 - Will Franken (Live) — speakers: Will Franken, Stu Goldsmith
-- 2014-02-20 — 65 - Nick Helm (Live) — speakers: Nick Helm, Stu Goldsmith
-- 2014-02-12 — 64 - Tony Law (Live) — speakers: Tony Law, Stu Goldsmith
-- 2014-02-06 — 63 - Marcus Brigstocke (Live) — speakers: Stu Goldsmith
-- 2014-01-29 — 62 - Norman Lovett (Live) — speakers: Norman Lovett, Stu Goldsmith
-- 2014-01-23 — 61 - Bo Burnham (Live) — speakers: Bo Burnham, Stu Goldsmith
-- 2014-01-15 — 60 - Susan Calman (Live) — speakers: Susan Calman, Stu Goldsmith
-- 2014-01-08 — 59 - Rob Delaney (Live) — speakers: Rob Delaney, Stu Goldsmith
-- 2013-12-30 — 58 - Sarah Millican Returns (Live) — speakers: Sarah Millican, Stu Goldsmith
-- 2013-12-16 — 57 - Jason Manford (Live) — speakers: Jason Manford, Stu Goldsmith
-- 2013-12-11 — 56 - Andrew Maxwell (Live) — speakers: Andrew Maxwell, Stu Goldsmith
-- 2013-11-27 — 55 - Milton Jones (Live) — speakers: Milton Jones, Stu Goldsmith
-- 2013-11-12 — 54 - David Baddiel (Live) — speakers: David Baddiel, Edinburgh Fringe, Stu Goldsmith
-- 2013-10-29 — 53 - Al Murray (Live) — speakers: Al Murray
-- 2013-10-16 — 52 - The Pajama Men (Live) — speakers: Pajama Men, Edinburgh Fringe, Stu Goldsmith
-- 2013-10-01 — 51 - Phil Nichol (Live) — speakers: Phil Nichol, Stu Goldsmith
-- 2013-09-18 — 50 - Greg Proops (Live)
-- 2013-09-12 — 49 - Hal Cruttenden (Live) — speakers: Hal Cruttenden, Stu Goldsmith
-- 2013-09-01 — 48 - Marcel Lucont and Alexis Dubus — speakers: Alexis Dubus, Stu Goldsmith
-- 2013-08-09 — 47 - Brendon Burns (Live) — speakers: Brendon Burns, Edinburgh Fringe, Stu Goldsmith
-- 2013-07-17 — 46A - Richard Herring (2 of 2) — speakers: Stu Goldsmith
-- 2013-07-10 — 46 - Richard Herring (1 of 2) — speakers: Richard Herring, Stu Goldsmith
-- 2013-06-24 — 45 - Jarlath Regan — speakers: Jarlath Regan How, Jarlath Regan, Stu Goldsmith
-- 2013-06-11 — 44 - Milo McCabe — speakers: Phil Burgers, Stu Goldsmith
-- 2013-06-05 — 43 - Benny Boot (Live) — speakers: Benny Boot, Stu Goldsmith
-- 2013-05-22 — 41 - Tom Gleeson — speakers: Tom Gleeson, Stu Goldsmith
-- 2013-05-14 — 40 - Alasdair Tremblay-Birchall — speakers: Stu Goldsmith
-- 2013-05-08 — 39 - Felicity Ward — speakers: Stu Goldsmith
-- 2013-05-01 — 38 - Tom Allen — speakers: Tom Allen, Stu Goldsmith
-- 2013-04-24 — 37 - Geraldine Hickey — speakers: Geraldine Hickey, Stu Goldsmith
-- 2013-04-16 — 36 - David Quirk — speakers: David Quirk, Stu Goldsmith
-- 2013-04-10 — 35 - Asher Treleaven — speakers: Stu Goldsmith
-- 2013-04-02 — 34 - Clarke MacFarlane — speakers: Clarke MacFarlane, Stu Goldsmith
-- 2013-03-27 — 33 - Lindsay Webb — speakers: Lindsay Webb, Stu Goldsmith
-- 2013-03-12 — 32 - Carl Donnelly — speakers: Carl Donnelly, Stu Goldsmith
-- 2013-03-05 — 31 - Heath "Chopper" Franklin — speakers: Stu Goldsmith
-- 2013-02-28 — 30 - Jim Jefferies (Live) — speakers: Jim Jefferies, Stu Goldsmith
-- 2013-02-21 — 29 - Rhod Gilbert (Live) — speakers: Stu Goldsmith
-- 2013-02-12 — 28 - James Acaster (Live) — speakers: James Acaster, Edinburgh Award
-- 2013-02-05 — 27 - Rob Rouse — speakers: Rob Rouse, Stu Goldsmith
-- 2013-01-29 — 26 - Stephen Grant — speakers: Stephen Grant, Seann Walsh, Russell Kane, Stu Goldsmith
-- 2013-01-22 — 25a - All Day Edinburgh (Live) — speakers: Michael Legge, Stu Goldsmith
-- 2013-01-16 — 25 - Terry Alderton (Live) — speakers: Terry Alderton, Stu Goldsmith
-- 2013-01-09 — 24 - Pappys (Live)
-- 2012-12-18 — 23 - Dr Brown (Phil Burgers) — speakers: Phil Burgers, Stu Goldsmith
-- 2012-12-11 — 22 - Abandoman (Live) — speakers: Rob Broderick, Stu Goldsmith
-- 2012-12-04 — 21 - Mike Gunn — speakers: Mike Gunn Mike Gunn, Stu Goldsmith
-- 2012-11-28 — 20 - Eddie Pepitone (Live) — speakers: Eddie Pepitone, Edinburgh Fringe, Stu Goldsmith
-- 2012-11-20 — 19 - Hannibal Buress (Live) — speakers: Chris Rock, Edinburgh Fringe, Stu Goldsmith
-- 2012-11-13 — 18 - The Boy With Tape On His Face (Live) — speakers: Sam Wills, Physical Comedy, Tim Burton, Silent Comedy
-- 2012-11-06 — 17 - Mark Maier — speakers: Mark Maier, Stu Goldsmith
-- 2012-10-30 — 16 - Alan Davies (Live) — speakers: Alan Davies, Jonathan Creek, Stu Goldsmith
-- 2012-10-22 — 15 - Josh Widdicombe — speakers: Josh Widdicombe
-- 2012-10-16 — 14 - Celia Pacquola — speakers: Stu Goldsmith
-- 2012-10-10 — 13 - Fred Macaulay (Live) — speakers: Stu Goldsmith
-- 2012-10-03 — 12 - Noel Britten — speakers: Noel Britten Noel, Stu Goldsmith
-- 2012-09-19 — 11 - Sara Pascoe (Live) — speakers: Sara Pascoe, Stu Goldsmith
-- 2012-07-31 — 10 - Liam Mullone — speakers: Tim Minchin, Stu Goldsmith
-- 2012-07-24 — 9 - Alun Cochrane — speakers: Stu Goldsmith
-- 2012-07-03 — 8 - Arthur Smith — speakers: Stu Goldsmith
-- 2012-06-19 — 7 - Sarah Millican — speakers: Sarah Millican
-- 2012-06-05 — 6 - Adam Bloom — speakers: Adam Bloom Adam Bloom
-- 2012-05-23 — 5 - Paul Sinha — speakers: Marcus Brigstocke, Steve Hughes, Hal Cruttenden, Ian Stone, Alastair Barrie, Jim Davidson, David Cameron, Cutting Edge
-- 2012-05-09 — 4 - Ben Norris — speakers: Clapham Jongleurs, Noel James, Ivor Dembina, Patrick Marber, Paul Tonkinson, Rudi Lickwood, Victoria Coren, Comedy Store
-- 2012-04-25 — 3 - Dan Antopolski — speakers: Dan Antopolski, Purple Turtle, Lenny Henry, Ben Elton, Harry Enfield, Rich Hall, Stewart Lee, Harry Hill
-- 2012-04-11 — 2 - Dan Evans — speakers: Dan Evans, Jo Caulfield, George Egg, Comedy Cafe, Bill Bailey, Richard Curtis
+- 2026-02-19 — Lindsey Santoro — speakers: Lindsey Santoro, Edinburgh Fringe, Stuart Goldsmith
+- 2026-02-12 — Shenoah Allen — speakers: Shenoah Allen Shenoah Allen, Stuart Goldsmith
+- 2026-02-05 — Sophie Duker — speakers: Sophie Duker, Stuart Goldsmith
+- 2026-01-29 — Reggie Watts — speakers: Reggie Watts, Stuart Goldsmith
+- 2026-01-16 — Sarah Millican 2012: ComCompendium — speakers: Sarah Millican, Stuart Goldsmith
+- 2026-01-05 — Were Comedians Happy In 2025: Vol 3 — speakers: Russell Howard, Stuart Goldsmith
+- 2025-12-29 — Were Comedians Happy In 2025: Vol 2 — speakers: Stuart Goldsmith
+- 2025-12-22 — Were Comedians Happy In 2025: Vol 1 — speakers: Chloe Radcliffe, Scott Auckerman, Stuart Goldsmith
+- 2025-12-18 — Ray Bradshaw — speakers: Ray Bradshaw, Stuart Goldsmith
+- 2025-12-12 — Urooj Ashfaq — speakers: Urooj Ashfaq Today, Urooj Ashfaq, Stuart Goldsmith
+- 2025-12-04 — John Kearns 2020: ComCompendium — speakers: John Kearns, Stuart Goldsmith
+- 2025-11-27 — Josie Long Returns — speakers: Josie Long Returns, Josie Long, Stuart Goldsmith
+- 2025-11-20 — Adam Riches — speakers: Adam Riches Adam Riches, Stuart Goldsmith
+- 2025-11-13 — Doug Naylor — speakers: Doug Naylor, Stuart Goldsmith
+- 2025-10-24 — Alan Davies Returns — speakers: Alan Davies Returns, Alan Davies, Stuart Goldsmith
+- 2025-10-10 — Emma Doran — speakers: Emma Doran, Stuart Goldsmith
+- 2025-09-26 — Lucy Pearman — speakers: Lucy Pearman, Stuart Goldsmith
+- 2025-09-18 — Ivo Graham & Laura Lexx: Comedian Climate Confessions! — speakers: Ivo Graham, Laura Lexx, Comedian Climate Confessions, Georgia Elliott, Stuart Goldsmith
+- 2025-09-02 — Episode 500: I Need Your Help! — speakers: Stuart Goldsmith
+- 2025-08-15 — Aparna Nancherla (Live @ SXSW) — speakers: Aparna Nancherla, Stuart Goldsmith
+- 2025-08-08 — Abby Wambaugh — speakers: Abby Wambaugh, Stuart Goldsmith
+- 2025-08-01 — Kemah Bob — speakers: Kemah Bob Kemah Bob, Stuart Goldsmith
+- 2025-07-25 — Marjolein Robertson — speakers: Marjolein Robertson, Stuart Goldsmith
+- 2025-07-11 — Daniel Foxx — speakers: Daniel Foxx, Stuart Goldsmith
+- 2025-06-27 — Marc Jennings — speakers: Marc Jennings, Stuart Goldsmith
+- 2025-06-19 — Nick Mohammed Returns | Part Two — speakers: Nick Mohammed Returns, Nick Mohammed, Stuart Goldsmith
+- 2025-06-13 — Nick Mohammed Returns | Part One — speakers: Nick Mohammed Returns, Nick Mohammed, Stuart Goldsmith
+- 2025-06-06 — Alex Kealy — speakers: Alex Kealy, Stuart Goldsmith
+- 2025-05-23 — Scott Aukerman (Live @ SXSW) — speakers: Scott Aukerman, Stuart Goldsmith
+- 2025-05-09 — Chloe Radcliffe — speakers: Chloe Radcliffe Chloe Radcliffe, Stuart Goldsmith
+- 2025-05-02 — Pete Lee (Live @ SXSW) — speakers: Pete Lee, Stuart Goldsmith
+- 2025-04-10 — Shazia Mirza — speakers: Stuart Goldsmith
+- 2025-03-28 — Iain Stirling — speakers: Iain Stirling Iain Stirling, Love Island, Stuart Goldsmith
+- 2025-03-13 — Damien Power — speakers: Damien Power, Stuart Goldsmith
+- 2025-03-07 — Huge Davies — speakers: Huge Davies Huge Davies, Stuart Goldsmith
+- 2025-02-20 — Mark Simmons — speakers: Mark Simmons, Stuart Goldsmith
+- 2025-02-05 — Live At The Apollo: Behind The Scenes — speakers: Stuart Goldsmith
+- 2025-01-30 — Chloe Petts — speakers: Chloe Petts, Stuart Goldsmith
+- 2025-01-15 — Russell Howard Returns | Part Two — speakers: Russell Howard Returns, Russell Howard, Stuart Goldsmith
+- 2025-01-10 — Russell Howard Returns | Part One — speakers: Russell Howard Returns, Russell Howard, Stuart Goldsmith
+- 2025-01-03 — Max Fosh — speakers: Max Fosh, Stuart Goldsmith
+- 2024-12-19 — Milton Jones Returns — speakers: Milton Jones Returns, Stuart Goldsmith
+- 2024-12-06 — Rhys James — speakers: Rhys James Rhys James, Stuart Goldsmith
+- 2024-11-22 — Lise Mayer — speakers: Lise Mayer Lise, Stuart Goldsmith
+- 2024-11-08 — Remembering Dr Janey Godley — speakers: Janey Godley, Stuart Goldsmith
+- 2024-10-24 — Vittorio Angelone — speakers: Vittorio Angelone, Stuart Goldsmith
+- 2024-10-11 — Ania Magliano — speakers: Ania Magliano, Stuart Goldsmith
+- 2024-09-19 — Viggo Venn | Part Two — speakers: Viggo Venn, Stuart Goldsmith
+- 2024-09-12 — Viggo Venn | Part One — speakers: Viggo Venn, Stuart Goldsmith
+- 2024-08-30 — Geoffrey Asmus — speakers: Geoffrey Asmus, Stuart Goldsmith
+- 2024-08-15 — Edinburgh Fringe Picks 2024: Volume 2 — speakers: Edinburgh Fringe Picks, Stuart Goldsmith
+- 2024-08-09 — Nurse Georgie Carroll — speakers: Nurse Georgie Carroll Georgie, Stuart Goldsmith
+- 2024-08-01 — Edinburgh Fringe Picks 2024: Volume 1 — speakers: Edinburgh Fringe Picks, Stuart Goldsmith
+- 2024-07-25 — Nabil Abdulrashid — speakers: Nabil Abdulrashid, Stuart Goldsmith
+- 2024-07-19 — Rosie Holt — speakers: Rosie Holt, Stuart Goldsmith
+- 2024-07-11 — Zach Zucker — speakers: Zach Zucker, Stuart Goldsmith
+- 2024-06-28 — Fin Taylor vs The Internet — speakers: Fin Taylor, Stuart Goldsmith
+- 2024-06-20 — Tanyalee Davis — speakers: Tanyalee Davis, Meet Tanyalee Davis, Stuart Goldsmith
+- 2024-06-07 — Jaboukie Young-White (Live @ SXSW) — speakers: Jaboukie Young-White, Stuart Goldsmith
+- 2024-05-30 — Mike Wozniak | Part Two — speakers: Mike Wozniak, Stuart Goldsmith
+- 2024-05-24 — Mike Wozniak | Part One — speakers: Mike Wozniak, Stuart Goldsmith
+- 2024-05-17 — Lynne Koplitz (Live @ SXSW) — speakers: Lynne Koplitz, Stuart Goldsmith
+- 2024-05-03 — Dai Henwood — speakers: Dai Henwood, Stuart Goldsmith
+- 2024-04-26 — Brian Simpson (Live @ SXSW) — speakers: Brian Simpson, Stuart Goldsmith
+- 2024-04-18 — Julia Masli — speakers: Julia Masli Julia Masli, Stuart Goldsmith
+- 2024-04-05 — Martin Urbano — speakers: Martin Urbano, Stuart Goldsmith
+- 2024-03-28 — Josh Pugh — speakers: Josh Pugh, Stuart Goldsmith
+- 2024-03-21 — Dara Ó Briain Returns | Part Two — speakers: Briain Returns, Stuart Goldsmith
+- 2024-03-15 — Dara Ó Briain Returns | Part One — speakers: Briain Returns, Stuart Goldsmith
+- 2024-03-08 — Janine Harouni — speakers: Janine Harouni Janine Harouni, Stuart Goldsmith
+- 2024-02-22 — Leo Reich — speakers: Leo Reich, Stuart Goldsmith
+- 2024-02-09 — Tomi Walamies — speakers: Tomi Walamies Tomi Walamies, Stuart Goldsmith
+- 2024-02-01 — Mawaan Rizwan — speakers: Mawaan Rizwan, Stuart Goldsmith
+- 2024-01-25 — Susie McCabe — speakers: Susie McCabe, Stuart Goldsmith
+- 2024-01-16 — James Acaster Returns, Again! (2024) | Part Two — speakers: James Acaster Returns, Stuart Goldsmith
+- 2024-01-12 — James Acaster Returns, Again! (2024) | Part One — speakers: James Acaster Returns, James Acaster, Stuart Goldsmith
+- 2023-12-15 — Harriet Dyer — speakers: Harriet Dyer, Stuart Goldsmith
+- 2023-11-23 — Iliza Shlesinger — speakers: Iliza Shlesinger, Stuart Goldsmith
+- 2023-11-10 — 441 - Sikisa — speakers: Sikisa There, Stuart Goldsmith
+- 2023-10-26 — 440 - Alistair Barrie — speakers: Alistair Barrie, Stuart Goldsmith
+- 2023-10-14 — 439 - Jeff Shaw — speakers: Jeff Shaw, Stuart Goldsmith
+- 2023-09-29 — 438 - Ruth Bratt — speakers: Ruth Bratt, Stuart Goldsmith
+- 2023-09-22 — 437 - Adam Bloom Returns — speakers: Adam Bloom, Stuart Goldsmith
+- 2023-09-07 — 436 - Gareth Reynolds — speakers: Gareth Reynolds, Stuart Goldsmith
+- 2023-08-31 — 435 - Nish Kumar Returns — speakers: Nish Kumar Returns Nish, Stuart Goldsmith
+- 2023-07-28 — 434 - Lucy Beaumont — speakers: Lucy Beaumont Most, Stuart Goldsmith
+- 2023-07-20 — 433 - Jonny Pelham — speakers: Jonny Pelham, Stuart Goldsmith
+- 2023-07-13 — 432 - Mike Birbiglia — speakers: Mike Birbiglia, Stuart Goldsmith
+- 2023-06-22 — 431 - Gianmarco Soresi — speakers: Gianmarco Soresi, Stuart Goldsmith
+- 2023-06-13 — 430 - Lee Kyle — speakers: Lee Kyle, Stuart Goldsmith
+- 2023-05-25 — 429 - Neil Delamere — speakers: Neil Delamere, Stuart Goldsmith
+- 2023-05-19 — 428 - James Adomian (Live @ SXSW) — speakers: James Adomian, Stuart Goldsmith
+- 2023-05-12 — 427 - Ignacio Lopez — speakers: Ignacio Lopez, Stuart Goldsmith
+- 2023-04-28 — 426 - Emma Willmann (Live @ SXSW) — speakers: Emma Willmann, Stuart Goldsmith
+- 2023-04-21 — 425 - Steve Agee (Live @SXSW) — speakers: Steve Agee, John Economos, Stuart Goldsmith
+- 2023-04-14 — 424 - John Hastings Returns — speakers: John Hastings Returns, John Hastings, Stuart Goldsmith
+- 2023-04-07 — 423 - Michelle Brasier — speakers: Stuart Goldsmith
+- 2023-03-31 — 422 - Godfrey SXSW — speakers: Stuart Goldsmith
+- 2023-03-24 — 421 - Tom Houghton — speakers: Tom Houghton, Stuart Goldsmith
+- 2023-03-17 — Fern Brady 2016: ComCompendium — speakers: Fern Brady, Stuart Goldsmith
+- 2023-03-10 — 420 - Vir Das — speakers: Vir Das, Stuart Goldsmith
+- 2023-02-24 — Gina Yashere 2015: ComCompendium — speakers: Gina Yashere, Stuart Goldsmith
+- 2023-02-17 — Stewart Lee 2017: ComCompendium — speakers: Stewart Lee, Stuart Goldsmith
+- 2023-02-06 — Romesh Ranganathan (Live at Soho Theatre) 2016: ComCompendium — speakers: Stuart Goldsmith
+- 2023-01-29 — Shaparak Khorsandi 2016: ComCompendium — speakers: Shaparak Khorsandi, Stuart Goldsmith
+- 2023-01-22 — Sarah Millican 2012: ComCompendium — speakers: Sarah Millican, Stuart Goldsmith
+- 2023-01-13 — James Acaster 2013: ComCompendium — speakers: James Acaster, Stuart Goldsmith
+- 2022-11-18 — 419 - Kurt Braunohler — speakers: Kurt Braunohler, Stuart Goldsmith
+- 2022-11-11 — 418 - Sarah Keyworth — speakers: Sarah Keyworth, Stuart Goldsmith
+- 2022-11-04 — 417 - Esther Manito — speakers: Esther Man, Stuart Goldsmith
+- 2022-10-21 — 416 - Glenn Moore — speakers: Glenn Moore, Stuart Goldsmith
+- 2022-10-13 — 415 - Grace Petrie — speakers: Stuart Goldsmith
+- 2022-10-07 — 414 - Lauren Pattison — speakers: Lauren Pattison, Best Newcomer, Stuart Goldsmith
+- 2022-09-30 — 413 - Jordan Gray — speakers: Jordan Gray, Stuart Goldsmith
+- 2022-08-17 — 412 - Bianca Del Rio — speakers: Bianca Del Rio Everyone, Bianca Del Rio, Stuart Goldsmith
+- 2022-08-05 — 411 - Jenny Bede — speakers: Jenny Bede, Stuart Goldsmith
+- 2022-08-01 — 410 - Tom Ward — speakers: Tom Ward, Stuart Goldsmith
+- 2022-07-22 — 409 - Sean McLoughlin — speakers: Sean McLoughlin, Stuart Goldsmith
+- 2022-07-15 — 408 - Ria Lina — speakers: Ria Lina, Stuart Goldsmith
+- 2022-07-04 — 407 - Alison Spittle — speakers: Alison Spittle, Stuart Goldsmith
+- 2022-06-17 — 406 - Amy Miller — speakers: Amy Miller, Stuart Goldsmith
+- 2022-06-11 — 405 - Olaf Falafel — speakers: Derek Chickpeas, Stuart Goldsmith
+- 2022-06-02 — 404 - Helen Bauer — speakers: Helen Bauer, Stuart Goldsmith
+- 2022-05-27 — 403 - Bobby Mair — speakers: Bobby Mair, Stuart Goldsmith
+- 2022-05-20 — 402 - Daniel Rigby — speakers: Daniel Rigby, Stuart Goldsmith
+- 2022-05-13 — 401 - Dulcé Sloan (Live at SXSW) — speakers: Dulcé Sloan, Stuart Goldsmith
+- 2022-03-31 — 400 - 10th Birthday Special - Rob Deering Returns! — speakers: Rob Deering, Stuart Goldsmith
+- 2022-03-24 — 399 - Eddie Pepitone Returns (Live at SXSW) — speakers: Eddie Pepitone Returns, Bitter Buddha, Stuart Goldsmith
+- 2022-03-21 — 398 - Byron Bowers (Live at SXSW) — speakers: Honey Boy, Stuart Goldsmith
+- 2022-03-11 — 397 - Matt Richardson — speakers: Matt Richardson, Stuart Goldsmith
+- 2022-03-03 — 396 - K Trevor Wilson — speakers: Stuart Goldsmith
+- 2022-02-25 — 395 - Slim — speakers: Stuart Goldsmith
+- 2022-02-17 — 394 - Cally Beaton — speakers: Joan Rivers, Stuart Goldsmith
+- 2022-02-10 — 393 - Diane Spencer — speakers: Stuart Goldsmith
+- 2022-02-03 — Remembering Barry Cryer — speakers: Barry Cryer, Stuart Goldsmith
+- 2021-12-17 — 392B - Jimmy Carr Returns, Live! (Part Two) — speakers: Stuart Goldsmith
+- 2021-12-13 — 392A - Jimmy Carr Returns, Live! (Part One) — speakers: Jimmy Carr Returns, Stuart Goldsmith
+- 2021-12-02 — 391 - Omid Djalili — speakers: Omid Djalili, Stuart Goldsmith
+- 2021-11-25 — 390 - Foil Arms and Hog — speakers: Foil Arms, Stuart Goldsmith
+- 2021-11-22 — 389 - Tom Stade Returns — speakers: Tom Stade, Stuart Goldsmith
+- 2021-11-12 — 388 - NonComPod - Philippa Perry — speakers: Philippa Perry, Stuart Goldsmith
+- 2021-11-04 — 387 - Pierre Novellie — speakers: Pierre Novellie, Stuart Goldsmith
+- 2021-10-28 — 386 - Pan-Amble: Belonging — speakers: Stuart Goldsmith
+- 2021-10-21 — 385 - Aaron Chen — speakers: Aaron Chen, Stuart Goldsmith
+- 2021-10-14 — 384 - Adam Rowe — speakers: Adam Rowe, Stuart Goldsmith
+- 2021-10-07 — 383 - Thanyia Moore — speakers: Thanyia Moore, Stuart Goldsmith
+- 2021-09-30 — 382 - Harriet Kemsley — speakers: Harriet Kemsley, Stuart Goldsmith
+- 2021-09-24 — 381 - Jonathan Coulton — speakers: Jonathan Coulton, Stuart Goldsmith
+- 2021-08-05 — Mini Fringe Prelude — speakers: Mini Fringe Prelude, Stuart Goldsmith
+- 2021-07-23 — 380 - CK (Caimh) McDonnell — speakers: Stuart Goldsmith
+- 2021-07-16 — 379 - Fin Taylor — speakers: Fin Taylor, Stuart Goldsmith
+- 2021-07-08 — 378 - Stevie Martin — speakers: Stevie Martin, Stuart Goldsmith
+- 2021-07-01 — 377 - Paul Zerdin — speakers: Paul Zerdin Irrepressibly, Paul Zerdin, Stuart Goldsmith
+- 2021-06-24 — 376 - Josh Johnson — speakers: Josh Johnson, Stuart Goldsmith
+- 2021-06-18 — 375 - Jessie Cave — speakers: Jessie Cave, Stuart Goldsmith
+- 2021-06-10 — 374 - Piff The Magic Dragon (John Van Der Put) — speakers: John Van Der Put, Stuart Goldsmith
+- 2021-05-27 — 373 - Greg Jenner — speakers: Greg Jenner If, Stuart Goldsmith
+- 2021-05-20 — 372 - Rosie Jones — speakers: Rosie Jones, Stuart Goldsmith
+- 2021-05-13 — 371 - Ian Moore — speakers: Ian Moore, Stuart Goldsmith
+- 2021-05-06 — 370 - Stuart Laws — speakers: Stuart Goldsmith
+- 2021-04-08 — 369 - Catherine Bohart — speakers: Catherine Bohart Scintillating, Stuart Goldsmith
+- 2021-04-01 — 368 - The Delightful Sausage — speakers: Stuart Goldsmith
+- 2021-03-25 — 367 - Sooz Kempner — speakers: Stuart Goldsmith
+- 2021-03-18 — 366 - Loyiso Gola Returns — speakers: South Africa, Stuart Goldsmith
+- 2021-03-11 — 365 - Ramon Rivas II — speakers: Ramon Rivas, Stuart Goldsmith
+- 2021-03-05 — 364 - Olga Koch — speakers: Olga Koch, Stuart Goldsmith
+- 2021-02-26 — 363 - Bethany Black — speakers: Stuart Goldsmith
+- 2021-02-18 — 362 - Russell Kane — speakers: Russell Kane Energetic, Stuart Goldsmith
+- 2021-02-11 — 361 - Tom Neenan — speakers: Tom Neenan Head, Stuart Goldsmith
+- 2021-02-04 — 360 - Jordan Brookes — speakers: Edinburgh Comedy Award, Jordan Brookes, Stuart Goldsmith
+- 2020-12-24 — 359 - Aunty Donna Return! — speakers: Donna Return, Stuart Goldsmith
+- 2020-12-17 — 358 - Nigel Ng Returns! — speakers: Uncle Roger, Stuart Goldsmith
+- 2020-12-10 — 357 - Athena Kugblenu — speakers: Athena Kugblenu, Stuart Goldsmith
+- 2020-12-03 — 356 - James Acaster Returns, Again! (Part 2) — speakers: James Acaster Returns, Stuart Goldsmith
+- 2020-11-26 — 355 - James Acaster Returns, Again! (Part 1) — speakers: James Acaster Returns, Stuart Goldsmith
+- 2020-11-19 — 354 - Martin Mor — speakers: Martin Mor, Stuart Goldsmith
+- 2020-11-12 — 353 - Colt Cabana — speakers: Colt Cabana, Stuart Goldsmith
+- 2020-10-29 — 352 - Alasdair Beckett-King — speakers: Stuart Goldsmith
+- 2020-10-15 — 351- Laurie Kilmartin — speakers: Laurie Kilmartin, Stuart Goldsmith
+- 2020-10-08 — 350 - Mat Ewins — speakers: Mat Ewins, Stuart Goldsmith
+- 2020-10-01 — 349 - Kim Noble — speakers: Kim Noble, Stuart Goldsmith
+- 2020-09-24 — 348 - Erin Foley — speakers: Erin Foley, Stuart Goldsmith
+- 2020-09-17 — 347 - Paul Sinha Returns — speakers: Paul Sinha, Stuart Goldsmith
+- 2020-09-10 — 346 - Gary Gulman — speakers: Gary Gulman, Stuart Goldsmith
+- 2020-09-03 — 345 - Larry Dean — speakers: Larry Dean, Stuart Goldsmith
+- 2020-06-18 — 344 - Archie Maddocks — speakers: Archie Maddocks Stand, Archie Maddocks, Stuart Goldsmith
+- 2020-06-11 — 343 - Nigel Ng — speakers: Nigel Ng, Stuart Goldsmith
+- 2020-06-04 — 342 - Catherine Cohen — speakers: Catherine Cohen, Stuart Goldsmith
+- 2020-05-26 — 341 - Sindhu Vee Returns — speakers: Sindhu Vee Returns, Child Labour, Stuart Goldsmith
+- 2020-05-21 — 340 - Pope Lonergan — speakers: Stuart Goldsmith
+- 2020-05-14 — 339 - Brett Goldstein — speakers: Brett Goldstein, Stuart Goldsmith
+- 2020-05-12 — SARAH MILLICAN & RUSSELL HOWARD ON THE INFINITE SOFA — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2020-05-08 — 338 - Helen Zaltzman — speakers: Helen Zaltzman, Stuart Goldsmith
+- 2020-04-30 — 337 - Alonzo Bodden — speakers: Alonzo Bodden, Stuart Goldsmith
+- 2020-04-23 — Special Episode: The "Infinite Sofa" & What To Do Next... — speakers: Stuart Goldsmith
+- 2020-04-16 — 336 - Robert Popper — speakers: Stuart Goldsmith
+- 2020-04-10 — 335 - Scott Bennett — speakers: Scott Bennett, Stuart Goldsmith
+- 2020-04-09 — LOCKDOWN SPECIAL - Alexander Bennett — speakers: Alexander Bennett, Stuart Goldsmith
+- 2020-04-02 — 334 - Robby Collins — speakers: Robby Collins, Stuart Goldsmith
+- 2020-03-30 — 333 - Steve McNeil — speakers: Steve McNeil, Briain's Go, Stuart Goldsmith
+- 2020-03-20 — 332 - Desiree Burch — speakers: Desiree Burch, Stuart Goldsmith
+- 2020-03-19 — Special Episode - Resilience, Self-care and Creativity — speakers: Stuart Goldsmith
+- 2020-03-12 — 331 - Janey Godley — speakers: Janey Godley Superb, Janey Godley, Stuart Goldsmith
+- 2020-03-05 — 330 - Alexei Sayle — speakers: Alexei Sayle, Stuart Goldsmith
+- 2020-02-28 — 329 - Eshaan Akbar — speakers: Eshaan Akbar, Stuart Goldsmith
+- 2020-02-20 — 328 - Seann Walsh — speakers: Seann Walsh, Stuart Goldsmith
+- 2020-02-13 — 327 - Matt Winning — speakers: Matt Winning, Stuart Goldsmith
+- 2020-02-06 — 326 - The Sklar Brothers — speakers: Twins Randy, Stuart Goldsmith
+- 2020-01-31 — 325 - Ninia Benjamin — speakers: Ninia Benjamin, Stuart Goldsmith
+- 2020-01-23 — 324 - Jamali Maddix — speakers: Jamali Maddix, Stuart Goldsmith
+- 2020-01-16 — 323 - John Kearns — speakers: John Kearns, Best Newcomer, Stuart Goldsmith
+- 2020-01-08 — Conan Debrief — speakers: Conan Debrief, Stuart Goldsmith
+- 2020-01-06 — 322 - Tom Basden — speakers: Tom Basden Returning, Stuart Goldsmith
+- 2019-12-19 — 321 Santa Claus (and Herbie Treehead) — speakers: Santa Claus, Herbie Treehead, Stuart Goldsmith
+- 2019-12-13 — 320 - Flo & Joan — speakers: Stuart Goldsmith
+- 2019-12-05 — 319 - Tim Renkow — speakers: Tim Renkow, Stuart Goldsmith
+- 2019-11-28 — 318 - Neil Hamburger (Gregg Turkington) — speakers: Gregg Turkington, Stuart Goldsmith
+- 2019-11-14 — 317 - Matt Besser — speakers: Matt Besser, Stuart Goldsmith
+- 2019-11-08 — 316 - Carl Hutchinson — speakers: Carl Hutchinson Combining, Stuart Goldsmith
+- 2019-10-31 — 315 - Chris Fleming — speakers: Chris Fleming, Stuart Goldsmith
+- 2019-10-24 — 314 - Jimeóin — speakers: mass appeal, Stuart Goldsmith
+- 2019-10-21 — 313 - The Kagools — speakers: Stuart Goldsmith
+- 2019-10-10 — 312 - "Zach and Viggo" and Jonny Woolley — speakers: Jonny Woolley, Zach Zucker, Viggo Venn, Stuart Goldsmith
+- 2019-10-03 — 311 - Sofie Hagen — speakers: Sofie Hagen, Stuart Goldsmith
+- 2019-09-26 — 310 - Sara Barron — speakers: Sara Barron, Stuart Goldsmith
+- 2019-09-22 — 309 - Randy (Heath McIvor) — speakers: Stuart Goldsmith
+- 2019-09-10 — 308 - Ellie Taylor — speakers: Stuart Goldsmith
+- 2019-09-05 — 307 - Rob Auton — speakers: Rob Auton, Stuart Goldsmith
+- 2019-08-29 — 306 - Joz Norris (Live at Edfringe 2019) — speakers: Joz Norri, Stuart Goldsmith
+- 2019-08-18 — 305 - Suzi Ruffell — speakers: Stuart Goldsmith
+- 2019-08-05 — 304 - Vikki Stone — speakers: Vikki Stone, Stuart Goldsmith
+- 2019-07-30 — 303 - Pete Holmes (Live at Just For Laughs Montreal) — speakers: Stuart Goldsmith
+- 2019-07-23 — 302 - Jayde Adams (Live at Southend Comedy Festival) — speakers: Jayde Adams, Stuart Goldsmith
+- 2019-07-17 — 301 - Simon Brodkin — speakers: Simon Brodkin, Lee Nelson, Stuart Goldsmith
+- 2019-07-09 — 300 - Stuart Goldsmith — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2019-07-01 — 299 - Sam Jay — speakers: Sam Jay, Stuart Goldsmith
+- 2019-06-25 — 298 - Nick Revell — speakers: Nick Revell, Stuart Goldsmith
+- 2019-06-18 — 297 - Paul Smith — speakers: Paul Smith, Stuart Goldsmith
+- 2019-06-11 — 296 - Markus Birdman — speakers: Markus Birdman, Markus Bir, Stuart Goldsmith
+- 2019-06-03 — 295 - Russell Hicks — speakers: Russell Hicks, Stuart Goldsmith
+- 2019-05-28 — 294 - Ahir Shah — speakers: Ahir Shah, Stuart Goldsmith
+- 2019-05-22 — 293 - Andi Osho — speakers: Andi Osho, Stuart Goldsmith
+- 2019-05-13 — 292 - JOSH WIDDICOMBE RETURNS (Live at Machynlleth Comedy Festival) — speakers: Stuart Goldsmith
+- 2019-05-07 — 291 - Bec Hill — speakers: Bec Hill, Stuart Goldsmith
+- 2019-04-29 — 290 - Matt Braunger (Live at SXSW, Austin Texas) — speakers: Matt Braunger, Stuart Goldsmith
+- 2019-04-22 — 289 - Deborah Frances-White — speakers: Deborah Frances-White, Stuart Goldsmith
+- 2019-04-16 — 288 - Chris Addison — speakers: Chris Addison, Chris Ad, Stuart Goldsmith
+- 2019-04-08 — 287 - Eugene Mirman, Live at SXSW — speakers: Eugene Mirman, Stuart Goldsmith
+- 2019-04-01 — 286 - Sindhu Vee (Live at Podfest Birmingham) — speakers: Sindhu Vee, Stuart Goldsmith
+- 2019-03-26 — 285 - Roy Wood Jr, Live at SXSW — speakers: Roy Wood Jr, Stuart Goldsmith
+- 2019-03-18 — 284 - Kathy Griffin, Live at SXSW, Austin Texas. — speakers: Kathy Griffin, Stuart Goldsmith
+- 2019-03-12 — 283 - Ben "Yahtzee" Croshaw — speakers: Stuart Goldsmith
+- 2019-03-04 — 282 - Toby Hadoke — speakers: Toby Hadoke Toby, Dr Who, Stuart Goldsmith
+- 2019-02-28 — "Like I Mean It" Comedy Special now available for free! — speakers: Comedy Special, Stuart Goldsmith
+- 2019-02-25 — 281 - Jake Johannsen — speakers: Jake Johannsen, Stuart Goldsmith
+- 2019-02-18 — 280 - Jeff Innocent — speakers: Jeff Innocent, Stuart Goldsmith
+- 2019-02-11 — 279 - POLICE COPS (Live at Vault Festival) — speakers: Vault Festival, Police Cops, Stuart Goldsmith
+- 2019-02-04 — 278 - Eggsy (Goldie Lookin Chain) AKA John Rutledge — speakers: John Rutledge, John Eggsy Rutled, Stuart Goldsmith
+- 2019-02-01 — Remembering Jeremy Hardy — speakers: Jeremy Hardy, Stuart Goldsmith
+- 2019-01-28 — 277 - Jessica Fostekew — speakers: Jessica Fostekew, Stuart Goldsmith
+- 2019-01-21 — 276 - Ed Aczel — speakers: Ed Aczel, Stuart Goldsmith
+- 2019-01-14 — 275 - Doc Brown — speakers: Ben Bailey Smith, Aka Doc Brown, Stuart Goldsmith
+- 2018-12-17 — 273 - Laura Davis — speakers: Laura Davis, Stuart Goldsmith
+- 2018-12-10 — 272 - John Robertson — speakers: John Robertson Creator, Stuart Goldsmith
+- 2018-12-03 — 271 - Laura Lexx — speakers: Laura Lexx, Stuart Goldsmith
+- 2018-11-27 — A million bees? In just one hive? — speakers: Stuart Goldsmith
+- 2018-11-26 — 270 - No Such Thing As A Fish (Live) — speakers: Andrew Hunter Murray, Anna Ptaszynski, Dan Schreiber, James Harkin, Stuart Goldsmith
+- 2018-11-19 — 269 - Sean Morley — speakers: Sean Morley Peep, Sean Morley, Stuart Goldsmith
+- 2018-11-12 — 268 - Imran Yusuf — speakers: Imran Yusuf, Stuart Goldsmith
+- 2018-11-05 — 267 - Elf Lyons — speakers: weaponised vulnerability, tackling impo, Stuart Goldsmith
+- 2018-10-31 — Future Girl — speakers: Future Girl, Stuart Goldsmith
+- 2018-10-22 — 266 - Ismo Leikola — speakers: Ismo Leikola Crowned, Hollywood Laugh Factory, Finnish Ismo, Stuart Goldsmith
+- 2018-10-15 — 265 - Mark Thomas — speakers: Mark Thomas, Stuart Goldsmith
+- 2018-10-08 — 264 - Janeane Garofalo — speakers: Janeane Garofalo, Stuart Goldsmith
+- 2018-10-01 — 263 - Garrett Millerick (Live at the Barn Theatre, Welwyn) — speakers: Stuart Goldsmith
+- 2018-09-25 — 262 - Alice Fraser (Live at The Vintage Mobile Cinema, Edfringe) — speakers: Stuart Goldsmith
+- 2018-09-17 — 261 - Alex Edelman — speakers: Alex Edelman, Stuart Goldsmith
+- 2018-09-10 — 260 - Jack Docherty — speakers: Jack Docherty, Cameron Miekelsonfrom, Jack Doc, Stuart Goldsmith
+- 2018-09-03 — 259 - Rose Matafeo — speakers: Edinburgh Comedy Award, Rose Matafeo, Stuart Goldsmith
+- 2018-08-21 — 258 - Nick Thune — speakers: Nick Thune, Stuart Goldsmith
+- 2018-08-13 — 257 - Myq Kaplan — speakers: Myq Kaplan, Stuart Goldsmith
+- 2018-07-30 — 256 - Jen Brister (Live at Larmer Tree Festival) — speakers: Jen Brister, Larmer Tree Festival, Stuart Goldsmith
+- 2018-07-23 — 255 - Scummy Mummies — speakers: Ellie Gibson, Stuart Goldsmith
+- 2018-07-09 — 254 - Paul Foot — speakers: Paul Foot, Stuart Goldsmith
+- 2018-07-03 — 253 - The Raymond and Mr Timpkins Revue — speakers: Stuart Goldsmith
+- 2018-06-25 — 252 - John Luke Roberts — speakers: Luke Roberts Splicing, John Luke Roberts, Stuart Goldsmith
+- 2018-06-19 — 251 - Robin Ince — speakers: Robin Ince Comedian, Stuart Goldsmith
+- 2018-06-11 — 250 - Simon Evans — speakers: Guest Zer, Stuart Goldsmith
+- 2018-06-04 — 249 - Anuvab Pal — speakers: Anuvab Pal, Stuart Goldsmith
+- 2018-05-28 — 248 - Sophie Willan — speakers: Sophie Willan Sophie, Stuart Goldsmith
+- 2018-05-21 — 247 - Ben Target — speakers: Ben Target Considering, Stuart Goldsmith
+- 2018-05-15 — Shhhh... This one's [REDACTED] — speakers: Stuart Goldsmith
+- 2018-05-14 — 246 - Anne Edmonds — speakers: Anne Edmonds See, Stuart Goldsmith
+- 2018-04-30 — 245 - Ron White (Live from SXSW) — speakers: Ron Tater Salad White, Stuart Goldsmith
+- 2018-04-23 — 244 - Tez Ilyas — speakers: Tez Ilyas Very, Stuart Goldsmith
+- 2018-04-16 — 243 - Beth Stelling (Live from SXSW) — speakers: Beth Stelling, Stuart Goldsmith
+- 2018-04-09 — 242 - Maria Bamford — speakers: Maria Bamford, Stuart Goldsmith
+- 2018-04-03 — 241 - Jeremy Dyson (The League of Gentlemen) — speakers: Jeremy Dyson, Ghost Stories, Stuart Goldsmith
+- 2018-04-02 — 240 - Andy Nyman — speakers: Andy Nyman, Andy Nyma, Stuart Goldsmith
+- 2018-03-26 — 239 - James Davis (Live from SXSW) — speakers: James Davis, Stuart Goldsmith
+- 2018-03-19 — 238 - Maeve Higgins (SXSW) — speakers: Maeve Higgins, Marvellous Maeve Higgins, Stuart Goldsmith
+- 2018-03-14 — 237 - Ola The Comedian — speakers: Stuart Goldsmith
+- 2018-03-08 — 236 - Julio Torres — speakers: El Salvadoran American, Stuart Goldsmith
+- 2018-02-26 — 235 - Colin Hoult — speakers: Colin Hoult, Anna Mann, Stuart Goldsmith
+- 2018-02-18 — 234 - Arabella Weir — speakers: Stuart Goldsmith
+- 2018-02-14 — Compared To What — speakers: Stuart Goldsmith
+- 2018-02-09 — 233 - Jonathan Pie (Tom Walker & Andrew Doyle) — speakers: Jonathan Pie, Tom Walker, Stuart Goldsmith
+- 2018-01-18 — 232A - James Acaster: Returns (part two) — speakers: James Acaster, Stuart Goldsmith
+- 2018-01-17 — 232 - James Acaster: Returns (part one) — speakers: James Acaster, Stuart Goldsmith
+- 2017-12-19 — 231 - Jess Robinson — speakers: Stuart Goldsmith
+- 2017-12-04 — 229 - Zoe Coombs Marr — speakers: Zoe Coombs Marr, Zoe Coombs, Stuart Goldsmith
+- 2017-11-28 — 228 - Howard Read — speakers: Howard Read, Stuart Goldsmith
+- 2017-11-21 — 22X - Brian Regan (Re-release) — speakers: Stuart Goldsmith
+- 2017-11-13 — 227 - Sarah Kendall — speakers: Sarah Kendall, Stuart Goldsmith
+- 2017-10-30 — 226 - Sean Patton — speakers: Sean Patton, Stuart Goldsmith
+- 2017-10-23 — 225 - Reginald D Hunter — speakers: Hunter Recorded, Stuart Goldsmith
+- 2017-10-16 — 224 - Tim McGarry (Live at Belfast Comedy Festival) — speakers: Belfast Comedy Festival, Northern Ireland, Give My Head Peace, Stuart Goldsmith
+- 2017-10-10 — 223 - Jo Caulfield — speakers: Jo Caulfield, Stuart Goldsmith
+- 2017-10-03 — 222 - Joe DeRosa — speakers: Joe DeRosa, Stuart Goldsmith
+- 2017-09-26 — 221 - Michael Legge (Live at Objectively Funny Festival) — speakers: Michael Legge, Stuart Goldsmith
+- 2017-09-18 — 220 - Sasheer Zamata — speakers: Sasheer Zamata, Stuart Goldsmith
+- 2017-09-11 — 219 - Sugar Sammy — speakers: Sugar Sammy, Stuart Goldsmith
+- 2017-09-04 — 218 - Liza Treyger — speakers: Liza Treyger, Stuart Goldsmith
+- 2017-08-27 — 217 - W Kamau Bell (Live at Just For Laughs Montreal) — speakers: Kamau Bell, Emmy Award, Stuart Goldsmith
+- 2017-08-07 — 216 - Andy Daly — speakers: Andy Daly, Stuart Goldsmith
+- 2017-07-31 — 215 - Ivan Aristeguieta — speakers: Venezuelan Ivan, Stuart Goldsmith
+- 2017-07-26 — 214 - Nick Cody — speakers: Nick Cody, Stuart Goldsmith
+- 2017-07-17 — 213 - Simon Munnery — speakers: Simon Munnery, Stuart Goldsmith
+- 2017-07-10 — 212 - Orlando Baxter — speakers: Orlando Baxter, Stuart Goldsmith
+- 2017-07-03 — 211 - Barry Cryer — speakers: Barry Cryer Obe, Stuart Goldsmith
+- 2017-06-27 — 210 - Pippa Evans — speakers: Olivier Award, Stuart Goldsmith
+- 2017-06-20 — 209 - Ed Gamble (Live at Stonefree Festival) — speakers: Ed Gamble, Stuart Goldsmith
+- 2017-06-15 — Micro-pod: T-shirts! "Hell Week"! Wedding Amble! — speakers: Stuart Goldsmith
+- 2017-06-12 — 208 - Jo Brand (Live at Soho Theatre) — speakers: Jo Brand, Stuart Goldsmith
+- 2017-06-05 — 207 - Tom Ballard — speakers: Tom Ballard Multiple, Stuart Goldsmith
+- 2017-05-29 — 206 - Lost Voice Guy (AKA Lee Ridley) — speakers: Lee Ridley, Stuart Goldsmith
+- 2017-05-22 — 205 - Rhys Nicholson — speakers: Rhys Nicholson, Stuart Goldsmith
+- 2017-05-15 — 204 - Jeremy Hardy (Live at Soho Theatre) — speakers: Jeremy Hardy, Stuart Goldsmith
+- 2017-05-08 — 203 - Aunty Donna — speakers: sound design, direction re, Stuart Goldsmith
+- 2017-04-11 — 202 - Hannah Gadsby (Live at Melbourne Comedy Festival) — speakers: Hannah Gadsby, Stuart Goldsmith
+- 2017-04-05 — 20X - Melbourne Comedy Festival 2017 Special Post-amble — speakers: Melbourne Comedy Festival, Special Post, Stuart Goldsmith
+- 2017-03-06 — 200 - Stewart Lee — speakers: Stewart Lee, Stuart Goldsmith
+- 2017-02-27 — 199 - Paul Chowdhry (Live at Soho) — speakers: Stuart Goldsmith
+- 2017-02-20 — 198 - Mark Forward — speakers: Mark Forward, Stuart Goldsmith
+- 2017-02-13 — 197 - Phil Wang — speakers: Phil Wang, Stuart Goldsmith
+- 2017-02-07 — 196 - Rachel Parris — speakers: Rachel Parr, Stuart Goldsmith
+- 2017-01-30 — 195 - Elis James and John Robins (Live from Soho Theatre) — speakers: John Robins, Elis James, Stuart Goldsmith
+- 2017-01-23 — 194 - Brian Regan — speakers: Brian Regan, Stuart Goldsmith
+- 2017-01-16 — 193 - Angela Barnes — speakers: Stuart Goldsmith
+- 2017-01-09 — 192 - Elis James — speakers: Elis James, Stuart Goldsmith
+- 2016-12-19 — 191 - Pappy's Return — speakers: Return Pappys, Stuart Goldsmith
+- 2016-12-12 — 190 - Fern Brady — speakers: Fern Brady, Stuart Goldsmith
+- 2016-12-05 — 189 - Chris Gethard — speakers: Chris Gethard, Stuart Goldsmith
+- 2016-11-28 — 188 - Andy Askins — speakers: Andy Askins, Stuart Goldsmith
+- 2016-11-21 — 187 - Carmen Lynch — speakers: Carmen Lynch Carmen Lynch, Stuart Goldsmith
+- 2016-11-15 — 186 - Tony Law Returns — speakers: Tony Law Returns, Old Tone, Stuart Goldsmith
+- 2016-11-07 — 185 - Jonny And The Baptists — speakers: real jokes, real music, real po, Stuart Goldsmith
+- 2016-10-31 — 184 - Barry Crimmins — speakers: Barry Crimmins, Stuart Goldsmith
+- 2016-10-24 — 183 - Paul Currie — speakers: Paul Currie, Stuart Goldsmith
+- 2016-10-17 — 182 - Cameron Esposito — speakers: Cameron Esposito, Stuart Goldsmith
+- 2016-10-10 — 181 - John Robins — speakers: John Robins, Stuart Goldsmith
+- 2016-10-03 — 180 - Tim Minchin (Live at the Los Angeles Podcast Festival) — speakers: Multiple Tony, Olivier Award-winner, Tim Minchin, Stuart Goldsmith
+- 2016-09-26 — 179 - Loyiso Gola — speakers: Loyiso Gola Why, Stuart Goldsmith
+- 2016-09-18 — 178 - Lewis Black (Live at Just For Laughs, Montreal) — speakers: Stuart Goldsmith
+- 2016-09-12 — 177 - Tiff Stevenson (Live at Larmer Tree Festival) — speakers: Tiff Stevenson, Larmer Tree Festival, Stuart Goldsmith
+- 2016-08-15 — 176 - Bill Burr — speakers: Bill Burr, Stuart Goldsmith
+- 2016-08-01 — 175 - Todd Barry — speakers: Todd Barry, Stuart Goldsmith
+- 2016-07-18 — 174 - Wendy Wason — speakers: Wendy Wason, Stuart Goldsmith
+- 2016-07-11 — 173 - Jinkx Monsoon — speakers: Jinkx Monsoon, Drag Race IV, Stuart Goldsmith
+- 2016-07-04 — 172 - Funmbi Omotayo — speakers: Funmbi Omotayo Brilliant British, Stuart Goldsmith
+- 2016-06-24 — 171 - Shappi Khorsandi — speakers: Stuart Goldsmith
+- 2016-06-13 — 170 - Russell Howard — speakers: Russell Howard Star, Stuart Goldsmith
+- 2016-06-04 — 169 - Liam Williams — speakers: Liam Williams Rigorously, Liam Williams, Stuart Goldsmith
+- 2016-05-24 — 168 - Joe Lycett (Live at Machynlleth Comedy Festival) — speakers: Joe Lycett, Stuart Goldsmith
+- 2016-05-17 — 167 - Seymour Mace — speakers: Seymour Mace, Stuart Goldsmith
+- 2016-05-04 — 166 - Abigoliah Schamaun — speakers: Abigoliah Schamaun, Stuart Goldsmith
+- 2016-04-21 — 165 - Romesh Ranganathan (Live at Soho Theatre) — speakers: dizzying speed, Stuart Goldsmith
+- 2016-04-11 — 164 - Jimmy Carr (Part Two of Two) — speakers: Jimmy Carr, Stuart Goldsmith
+- 2016-04-04 — 164 - Jimmy Carr (Part One of Two) — speakers: Jimmy Carr, Stuart Goldsmith
+- 2016-03-26 — 163 - Mike Wilmot — speakers: Mike Wilmot, Uncle Mike, Stuart Goldsmith
+- 2016-03-19 — 162 - Tania Edwards — speakers: Tania Edwards, Stuart Goldsmith
+- 2016-03-11 — 161 - Dave Gorman (Live at Soho Theatre) — speakers: Dave Gorman, Stuart Goldsmith
+- 2016-03-07 — 160 - Gein's Family Giftshop — speakers: Family Giftshop Bird, Stuart Goldsmith
+- 2016-02-26 — 159 - Spencer Jones aka The Herbert (Live at Bob Slayer's Blundabus) — speakers: Spencer Jones, Bob Slayer, Barry Awards voted, Spencer Jone, Stuart Goldsmith
+- 2016-02-19 — 158 - Hari Kondabolu — speakers: Hari Kondabolu, Stuart Goldsmith
+- 2016-02-12 — 157 - Nathan Caton — speakers: Nathan Caton, Stuart Goldsmith
+- 2016-02-04 — 156 - Matt Kirshen — speakers: Matt Kirshen Wise, Matt Kirshen, Stuart Goldsmith
+- 2016-01-22 — 155 - Jena Friedman (Live at the Edinburgh Fringe) — speakers: Jena Friedman, Edinburgh Fringe, Stuart Goldsmith
+- 2016-01-16 — 154 - Mark Steel (Live at the Edinburgh Fringe) — speakers: Mark Steel, Edinburgh Fringe, Stuart Goldsmith
+- 2016-01-08 — 153 - Isy Suttie (Live at the Soho Theatre) — speakers: Stuart Goldsmith
+- 2015-12-19 — 152 - Daniel Sloss (Live at the Edinburgh Fringe) — speakers: Daniel Sloss, Stuart Goldsmith
+- 2015-12-10 — 151 - Ronny Chieng (Live at the Edinburgh Fringe) — speakers: Ronny Chieng, Stuart Goldsmith
+- 2015-11-27 — 150 - Stewart Francis (Live at the Edinburgh Fringe) — speakers: Stewart Francis, Stuart Goldsmith
+- 2015-11-21 — 149 - Will Durst (Live at the Edinburgh Fringe) — speakers: Will Durst, Edinburgh Fringe, San Fra, Stuart Goldsmith
+- 2015-11-14 — 148 - Aisling Bea (Live at the Edinburgh Fringe) — speakers: Aisling Bea, Stuart Goldsmith
+- 2015-11-04 — 147 - Jason Byrne (Live at the Edinburgh Fringe) — speakers: Jason Byrne, Stuart Goldsmith
+- 2015-10-23 — 146 - Dave Anthony — speakers: Dave Anthony Known, Dave Anthony, Stuart Goldsmith
+- 2015-10-19 — 145A - Jimmy Pardo (Part Two of Two) — speakers: Jimmy Pardo, Stuart Goldsmith
+- 2015-10-16 — 145 - Jimmy Pardo (Part One of Two) — speakers: Jimmy Pardo, Stuart Goldsmith
+- 2015-10-12 — 144A - Todd Glass (Part Two of Two) — speakers: Todd Glass, Stuart Goldsmith
+- 2015-10-10 — 144 - Todd Glass (Part One of Two) — speakers: Todd Glass, Stuart Goldsmith
+- 2015-10-07 — 143 - Jackie Kashian — speakers: Jackie Kashian, Stuart Goldsmith
+- 2015-10-02 — 142 - Joel Dommett (Live at the Edinburgh Fringe) — speakers: Joel Dommett, Edinburgh Fringe, Stuart Goldsmith
+- 2015-09-25 — 141 - Matt Lucas — speakers: Matt Lucas, Stuart Goldsmith
+- 2015-09-18 — 140 - Mae Martin (Live at the Edinburgh Fringe) — speakers: Mae Martin, Stuart Goldsmith
+- 2015-09-12 — 139 - Tommy Tiernan (Live at the Edinburgh Fringe) — speakers: Tommy Tiernan, Stuart Goldsmith
+- 2015-09-04 — 138 - John Lloyd (Live at the Edinburgh Fringe) — speakers: John Lloyd, Stuart Goldsmith
+- 2015-08-24 — 137 - Katherine Ryan (Live at the Edinburgh Fringe) — speakers: Katherine Ryan, Stuart Goldsmith
+- 2015-08-16 — 136 - Justin Moorhouse — speakers: Justin Moorhouse, Stuart Goldsmith
+- 2015-08-09 — 135 - Charlie Baker (Live at Latitude Festival) — speakers: Charlie Baker, Stuart Goldsmith
+- 2015-08-02 — 134 - Andy Kindler — speakers: Andy Kindler, Stuart Goldsmith
+- 2015-07-30 — 133 - Patton Oswalt (Live at Just For Laughs, Montreal) — speakers: Patton Oswalt, Stuart Goldsmith
+- 2015-07-29 — 132 - Moshe Kasher — speakers: Moshe Ka, Stuart Goldsmith
+- 2015-07-28 — 131 - Jen Kirkman — speakers: Jen Kirkman, Stuart Goldsmith
+- 2015-07-27 — 130 - George Egg — speakers: George Egg, Stuart Goldsmith
+- 2015-07-17 — 129 - Adam Buxton (Live at Soho Theatre) — speakers: Adam Buxton, Stuart Goldsmith
+- 2015-07-10 — 128 - Daliso Chaponda (Live at Darlington Comedy Festival) — speakers: Chaponda Malawi, Stuart Goldsmith
+- 2015-07-03 — 127 - Gavin Webster (Live) — speakers: Stuart Goldsmith
+- 2015-06-26 — 126 - Nazeem Hussain — speakers: Nazeem Hussain, Stuart Goldsmith
+- 2015-06-19 — 125 - Dara Ó Briain — speakers: Stuart Goldsmith
+- 2015-06-12 — 124 - Ian Stone — speakers: Ian Stone, Stuart Goldsmith
+- 2015-06-05 — 123 - Wil Anderson (Live) — speakers: Wil Anderson, Stuart Goldsmith
+- 2015-05-29 — 122 - Zoe Lyons — speakers: Zoe Lyons One, Stuart Goldsmith
+- 2015-05-22 — 121 - Mitch Benn (Live) — speakers: musical comedi, Stuart Goldsmith
+- 2015-05-15 — 120 - Mark Watson (Live) — speakers: Mark Watson, Stuart Goldsmith
+- 2015-05-08 — 119 - Nina Conti (Live) — speakers: Nina Conti, Stuart Goldsmith
+- 2015-05-01 — 118 - The Midnight Beast — speakers: Stuart Goldsmith
+- 2015-04-24 — 117 - Nick Mohammed — speakers: Nick Mohammed, Stuart Goldsmith
+- 2015-04-17 — 116 - Des Bishop (Live) — speakers: narrative intensity, Stuart Goldsmith
+- 2015-04-10 — 115 - Gina Yashere — speakers: Russell Peters, Gina Yashere, Stuart Goldsmith
+- 2015-04-03 — 114A - John Gordillo (2 of 2) — speakers: Stuart Goldsmith
+- 2015-03-27 — 114 - John Gordillo (1 of 2) — speakers: Michael McIntyre, Stuart Goldsmith
+- 2015-03-20 — 113A - Tim Key (2 of 2) — speakers: Stuart Goldsmith
+- 2015-03-13 — 113 - Tim Key (1 of 2) — speakers: Tim Key, Stuart Goldsmith
+- 2015-03-06 — 112 - Liz Miele — speakers: Liz Miele, Stuart Goldsmith
+- 2015-02-27 — 111 - Brendon Burns — speakers: Brendon Burns, Stuart Goldsmith
+- 2015-02-20 — 110 - Lou Sanders — speakers: Lou Sanders, Stuart Goldsmith
+- 2015-02-13 — 109 - Andrew O'Neill — speakers: Andrew O'Neill, Stuart Goldsmith
+- 2015-02-06 — 108 - Harley Breen — speakers: festival act, Stuart Goldsmith
+- 2015-01-29 — 107 - Urzila Carlson — speakers: Urzila Carlson, Stuart Goldsmith
+- 2015-01-24 — 106 - Thom Tuck — speakers: Thom Tuck, Stuart Goldsmith
+- 2015-01-15 — 105 - Katy Wix — speakers: Katy Wix, Stuart Goldsmith
+- 2015-01-08 — 104 - Alfie Brown — speakers: Alfie Brown Alfie Brown, Stuart Goldsmith
+- 2014-12-24 — Christmas Mega Pod with Carl Donnelly and Chris Martin — speakers: Carl Donnelly, Stuart Goldsmith
+- 2014-12-18 — 103 - Mickey "D" Dwyer — speakers: Stuart Goldsmith
+- 2014-12-04 — 101 - Nish Kumar — speakers: Nish Kumar Fiercely, Stuart Goldsmith
+- 2014-11-27 — 100 - Phil Kay (Live) — speakers: Stuart Goldsmith
+- 2014-11-20 — 99 - Luisa Omielan — speakers: Luisa Omielan Luisa Omielan, Stuart Goldsmith
+- 2014-11-13 — 98A - Ross Noble (2 of 2) — speakers: Ross Noble, Stuart Goldsmith
+- 2014-11-06 — 98 - Ross Noble (1 of 2) — speakers: Ross Noble, Stuart Goldsmith
+- 2014-10-30 — 97 - Prince Abdi — speakers: Prince Abdi Prince Abdi, Stuart Goldsmith
+- 2014-10-23 — 96B - David Cross "Clapping In the Usa" Exclusive Deleted Track from "It's Not Funny" (2014, Sub Pop) — speakers: David Cross, Stuart Goldsmith
+- 2014-10-23 — 96A - David Cross (2 of 2) — speakers: David Cross, Stuart Goldsmith
+- 2014-10-16 — 96 - David Cross (1 of 2) — speakers: David Cross, Arrested Development, Mr Show, Todd Margaret, Stuart Goldsmith
+- 2014-10-09 — 95 - Trygve Wakenshaw — speakers: Trygve Wakenshaw Bloody, Stuart Goldsmith
+- 2014-10-02 — 94 - Tom Stade (Live) — speakers: Tom Stade, Stuart Goldsmith
+- 2014-09-25 — 93 - Eleanor Tiernan — speakers: Eleanor Tiernan, Stuart Goldsmith
+- 2014-09-17 — 92 - Josie Long (Live) — speakers: Josie Long, Stuart Goldsmith
+- 2014-09-10 — 91 - Steen Raskopoulos — speakers: Steen Raskopoulos, Stuart Goldsmith
+- 2014-09-05 — 90 - Bridget Christie (Live) — speakers: Bridget Christie, Stuart Goldsmith
+- 2014-08-27 — 89 - Phill Jupitus (Live) — speakers: Phill Jupitus, Stuart Goldsmith
+- 2014-08-14 — 88 - Sam Simmons (Live) — speakers: Sam Simmons, Stuart Goldsmith
+- 2014-08-06 — 87A - Edfringe Mini Ep — speakers: Edinburgh Fringe, Stuart Goldsmith
+- 2014-07-30 — 87 - John Hastings — speakers: John Hastings, Stuart Goldsmith
+- 2014-07-23 — 86 - Noel James — speakers: Noel James, Stuart Goldsmith
+- 2014-07-17 — 85 - Kyle Kinane — speakers: Kyle Kinane, Stuart Goldsmith
+- 2014-07-10 — 84 - Nick Doody — speakers: Nick Doody, Stuart Goldsmith
+- 2014-07-02 — 83 - Aamer Rahman — speakers: Aamer Rahman, Stuart Goldsmith
+- 2014-06-25 — 82 - Andy Zaltzman — speakers: Andy Zaltzman, Stuart Goldsmith
+- 2014-06-19 — 81 - Adrienne Truscott — speakers: Adrienne Truscott, Stuart Goldsmith
+- 2014-06-11 — 80 - Jarred Christmas — speakers: Jarred Christmas, Stuart Goldsmith
+- 2014-06-05 — 79 - Luke Heggie — speakers: Luke Heggie, Stuart Goldsmith
+- 2014-05-28 — 78 - Michele A'Court — speakers: Michele A'Court, Stuart Goldsmith
+- 2014-05-22 — 77 - Tom Wrigglesworth — speakers: Tom Wrigglesworth, Stuart Goldsmith
+- 2014-05-15 — 76 - Ben Hurley — speakers: Ben Hurley, Stuart Goldsmith
+- 2014-04-30 — 75 - Carey Marx (Live) — speakers: Carey Marx, Stuart Goldsmith
+- 2014-04-25 — 74 - Claudia O'Doherty (Live) — speakers: Claudia O'Doherty, Stuart Goldsmith
+- 2014-04-17 — 73 - Max And Ivan (Live) — speakers: Stuart Goldsmith
+- 2014-04-09 — 72 - David O'Doherty (Live) — speakers: David O'Doherty, Stuart Goldsmith
+- 2014-04-03 — 71 - Kerry Godliman — speakers: Kerry Godliman, Stuart Goldsmith
+- 2014-03-25 — 70 - Tim Vine (Live) — speakers: Tim Vine, Stuart Goldsmith
+- 2014-03-19 — 69 - Ed Byrne (Live) — speakers: Ed Byrne, Stuart Goldsmith
+- 2014-03-12 — 68 - Sean Hughes (Live) — speakers: Sean Hughes, Stuart Goldsmith
+- 2014-03-05 — 67 - Gary Delaney (Live) — speakers: Gary Delaney, Stuart Goldsmith
+- 2014-02-27 — 66 - Will Franken (Live) — speakers: Will Franken, Stuart Goldsmith
+- 2014-02-20 — 65 - Nick Helm (Live) — speakers: Nick Helm, Stuart Goldsmith
+- 2014-02-12 — 64 - Tony Law (Live) — speakers: Tony Law, Stuart Goldsmith
+- 2014-02-06 — 63 - Marcus Brigstocke (Live) — speakers: Stuart Goldsmith
+- 2014-01-29 — 62 - Norman Lovett (Live) — speakers: Norman Lovett, Stuart Goldsmith
+- 2014-01-23 — 61 - Bo Burnham (Live) — speakers: Bo Burnham, Stuart Goldsmith
+- 2014-01-15 — 60 - Susan Calman (Live) — speakers: Susan Calman, Stuart Goldsmith
+- 2014-01-08 — 59 - Rob Delaney (Live) — speakers: Rob Delaney, Stuart Goldsmith
+- 2013-12-30 — 58 - Sarah Millican Returns (Live) — speakers: Sarah Millican, Stuart Goldsmith
+- 2013-12-16 — 57 - Jason Manford (Live) — speakers: Jason Manford, Stuart Goldsmith
+- 2013-12-11 — 56 - Andrew Maxwell (Live) — speakers: Andrew Maxwell, Stuart Goldsmith
+- 2013-11-27 — 55 - Milton Jones (Live) — speakers: Milton Jones, Stuart Goldsmith
+- 2013-11-12 — 54 - David Baddiel (Live) — speakers: David Baddiel, Stuart Goldsmith
+- 2013-10-29 — 53 - Al Murray (Live) — speakers: Al Murray, Stuart Goldsmith
+- 2013-10-16 — 52 - The Pajama Men (Live) — speakers: Pajama Men, Stuart Goldsmith
+- 2013-10-01 — 51 - Phil Nichol (Live) — speakers: Phil Nichol, Stuart Goldsmith
+- 2013-09-18 — 50 - Greg Proops (Live) — speakers: Greg Proops, Stuart Goldsmith
+- 2013-09-12 — 49 - Hal Cruttenden (Live) — speakers: Hal Cruttenden, Stuart Goldsmith
+- 2013-09-01 — 48 - Marcel Lucont and Alexis Dubus — speakers: Alexis Dubus, Stuart Goldsmith
+- 2013-08-09 — 47 - Brendon Burns (Live) — speakers: Brendon Burns, Stuart Goldsmith
+- 2013-07-17 — 46A - Richard Herring (2 of 2) — speakers: Stuart Goldsmith
+- 2013-07-10 — 46 - Richard Herring (1 of 2) — speakers: Richard Herring, Stuart Goldsmith
+- 2013-06-24 — 45 - Jarlath Regan — speakers: Jarlath Regan How, Jarlath Regan, Stuart Goldsmith
+- 2013-06-11 — 44 - Milo McCabe — speakers: Stuart Goldsmith
+- 2013-06-05 — 43 - Benny Boot (Live) — speakers: Benny Boot, Stuart Goldsmith
+- 2013-05-22 — 41 - Tom Gleeson — speakers: Tom Gleeson, Stuart Goldsmith
+- 2013-05-14 — 40 - Alasdair Tremblay-Birchall — speakers: Alasdair Tremblay, Birchall Talented, Stuart Goldsmith
+- 2013-05-08 — 39 - Felicity Ward — speakers: heartfelt storytelling, Stuart Goldsmith
+- 2013-05-01 — 38 - Tom Allen — speakers: Tom Allen, Stuart Goldsmith
+- 2013-04-24 — 37 - Geraldine Hickey — speakers: Geraldine Hi, Stuart Goldsmith
+- 2013-04-16 — 36 - David Quirk — speakers: David Quirk, Stuart Goldsmith
+- 2013-04-10 — 35 - Asher Treleaven — speakers: Asher Treleaven Rubber, Asher Treleaven, Stuart Goldsmith
+- 2013-04-02 — 34 - Clarke MacFarlane — speakers: Clarke MacFarlane, Stuart Goldsmith
+- 2013-03-27 — 33 - Lindsay Webb — speakers: Lindsay Webb, Stuart Goldsmith
+- 2013-03-12 — 32 - Carl Donnelly — speakers: Carl Donnelly, Stuart Goldsmith
+- 2013-03-05 — 31 - Heath "Chopper" Franklin — speakers: Franklin Heath Franklin, Stuart Goldsmith
+- 2013-02-28 — 30 - Jim Jefferies (Live) — speakers: Jim Jefferies, Stuart Goldsmith
+- 2013-02-21 — 29 - Rhod Gilbert (Live) — speakers: Rhod Gilbert, Stuart Goldsmith
+- 2013-02-12 — 28 - James Acaster (Live) — speakers: James Acaster, Edinburgh Award, Stuart Goldsmith
+- 2013-02-05 — 27 - Rob Rouse — speakers: Rob Rouse, Stuart Goldsmith
+- 2013-01-29 — 26 - Stephen Grant — speakers: Stephen Grant, Stuart Goldsmith
+- 2013-01-22 — 25a - All Day Edinburgh (Live) — speakers: Stuart Goldsmith
+- 2013-01-16 — 25 - Terry Alderton (Live) — speakers: Terry Alderton, Stuart Goldsmith
+- 2013-01-09 — 24 - Pappys (Live) — speakers: Stuart Goldsmith
+- 2012-12-18 — 23 - Dr Brown (Phil Burgers) — speakers: Phil Burgers, Stuart Goldsmith
+- 2012-12-11 — 22 - Abandoman (Live) — speakers: Rob Broderick, Stuart Goldsmith
+- 2012-12-04 — 21 - Mike Gunn — speakers: Mike Gunn Mike Gunn, Stuart Goldsmith
+- 2012-11-28 — 20 - Eddie Pepitone (Live) — speakers: Eddie Pepitone, Edinburgh Fringe, Stuart Goldsmith
+- 2012-11-20 — 19 - Hannibal Buress (Live) — speakers: Chris Rock, Stuart Goldsmith
+- 2012-11-13 — 18 - The Boy With Tape On His Face (Live) — speakers: Sam Wills, Stuart Goldsmith
+- 2012-11-06 — 17 - Mark Maier — speakers: Mark Maier, Stuart Goldsmith
+- 2012-10-30 — 16 - Alan Davies (Live) — speakers: Alan Davies, Jonathan Creek, Stuart Goldsmith
+- 2012-10-22 — 15 - Josh Widdicombe — speakers: Josh Widdicombe, Stuart Goldsmith
+- 2012-10-16 — 14 - Celia Pacquola — speakers: Celia Pacquola Failed, Celia Pacquola, Stuart Goldsmith
+- 2012-10-10 — 13 - Fred Macaulay (Live) — speakers: Stuart Goldsmith
+- 2012-10-03 — 12 - Noel Britten — speakers: Noel Britten Noel, Stuart Goldsmith
+- 2012-09-19 — 11 - Sara Pascoe (Live) — speakers: Sara Pascoe, Gilded Balloon, Edinburgh Fringe, Stuart Goldsmith
+- 2012-07-31 — 10 - Liam Mullone — speakers: Liam Mullone Liam, Stuart Goldsmith
+- 2012-07-24 — 9 - Alun Cochrane — speakers: Stuart Goldsmith
+- 2012-07-03 — 8 - Arthur Smith — speakers: Stuart Goldsmith
+- 2012-06-19 — 7 - Sarah Millican — speakers: Sarah Millican, Stuart Goldsmith
+- 2012-06-05 — 6 - Adam Bloom — speakers: Adam Bloom Adam Bloom, Stuart Goldsmith
+- 2012-05-23 — 5 - Paul Sinha — speakers: Stuart Goldsmith
+- 2012-05-09 — 4 - Ben Norris — speakers: Stuart Goldsmith
+- 2012-04-25 — 3 - Dan Antopolski — speakers: Dan Antopolski, Stuart Goldsmith
+- 2012-04-11 — 2 - Dan Evans — speakers: Dan Ev, Stuart Goldsmith
 - 2012-03-19 — 1 - Rob Deering — speakers: Stuart Goldsmith, Rob Deering

@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-02-25T19:20:09+00:00`
-- checked_at: `2026-02-25T19:20:09+00:00`
-- etag: `"djEuMi4wOjE3NzIwNDE3NDAyMDY="`
+- fetched_at: `2026-02-26T19:10:12+00:00`
+- checked_at: `2026-02-26T19:10:12+00:00`
+- etag: `"djEuMi4wOjE3NzIxMjg5ODM2ODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-02-25T19:20:09+00:00",
+  "fetched_at": "2026-02-26T19:10:12+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e7edef7ccacbc84c3a0685a35cc8b88bd7b2946f",
+      "title": "Puberty blockers, blocked",
+      "published_at": "2026-02-26T18:03:03+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/puberty-blockers-blocked",
+      "description": "Should some children be given drugs to stop them going through puberty? That’s the question the NHS, the government and an independent research and ethics committee have been trying to answer. The “Pathways” trial, backed by the NHS and led by a team from King’s College London, aims to test the effectiveness and safety of puberty blockers for children experiencing gender dysphoria. At the end of 2025, the trial was approved to go ahead. Health Secretary Wes Streeting reassured parliamentary colleagues it “could not have received more oversight and scrutiny”. But now the agency in charge of medicine regulation has U-turned. The study is now paused because of ethical and safety concerns. All of which, Hannah Barnes reports today on the New Statesman website, they knew about when they first approved it. So how did the study get approved in the first place? And what does this tell us about the systems we trust to ensure medical research is safe and ethical? Also: Baroness Amos has released the interim findings from her review into England's maternity care, and says the system is \"not working\". Oli Dugmore is joined by Hannah Barnes to discuss. READ MORE Inside the decision to pause the puberty blockers trial England's maternity system \"not working\" for anyone, report says SAVE £££ THIS CHRISTMAS: ⭐️ Gift big ideas, bold politics, and proper journalism from just £2 LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772128793858-b790cbbc-0e70-4e9f-aba0-f61938f723a3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69a089fde4e1627e8cb526c0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40001356",
+      "itunes_duration": "27:46",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "puberty",
+        "blocker"
+      ]
+    },
     {
       "key": "bd70b1cefac52d0d460b5ef81a91dc1de71567aa",
       "title": "Andrew, Epstein and the crumbling crown",
@@ -30164,6 +30184,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-26 — Puberty blockers, blocked — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-02-25 — Andrew, Epstein and the crumbling crown — speakers: Andrew Mountbatten-Windsor, Anoosh Chakelian, Oli Dugmore
 - 2026-02-24 — A three horse race in Gorton and Denton — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-02-23 — What if Russia wins? — speakers: Anoosh Chakelian, Oli Dugmore

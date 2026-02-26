@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-02-21T13:11:17+00:00`
-- checked_at: `2026-02-21T13:11:17+00:00`
-- etag: `"7e3f8f08c3a4af842fe170a0c60fa328"`
-- last_modified: `Sat, 21 Feb 2026 12:05:03 GMT`
+- fetched_at: `2026-02-26T19:10:12+00:00`
+- checked_at: `2026-02-26T19:10:12+00:00`
+- etag: `"34484b568d6556ef0f2b29302c1457b1"`
+- last_modified: `Thu, 26 Feb 2026 19:00:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-02-21T13:11:17+00:00",
+  "fetched_at": "2026-02-26T19:10:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,16 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27312000",
       "itunes_duration": "1707",
-      "speakers": [
-        "Joining Andy",
-        "Alasdair Beckett-King",
-        "Rachel Fairburn",
-        "Stephen Bush",
-        "Mhairi Black Written",
-        "Andy Zaltzman",
-        "Cody Dahler",
-        "Eve Delaney"
-      ],
+      "speakers": [],
       "topics": [
         "news",
         "quiz",
@@ -65,13 +56,7 @@
       "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
-        "Peter Mandelson",
-        "Helping Andy",
-        "Desiree Burch",
-        "Pierre Novellie",
-        "Daniel Finkelstein",
-        "Catherine Bohart",
-        "Andy Zaltzman"
+        "Peter Mandelson"
       ],
       "topics": [
         "news",
@@ -92,14 +77,7 @@
       "enclosure_length": "27216000",
       "itunes_duration": "1701",
       "speakers": [
-        "Suella Braverman",
-        "Hugo Rifkind",
-        "Holly Walsh",
-        "Andy Zaltzman",
-        "Christina Riggs",
-        "Cameron Loxdale",
-        "Sarah Mills Producer",
-        "Pete Strauss Production Coordinator"
+        "Suella Braverman’s defec"
       ],
       "topics": [
         "news",
@@ -119,16 +97,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27088000",
       "itunes_duration": "1693",
-      "speakers": [
-        "Lucy Porter",
-        "Alasdair Beckett-King",
-        "Stephen Bush",
-        "Shappi Khorsandi",
-        "Andy Zaltzman",
-        "Christina Riggs",
-        "Cameron Loxdale",
-        "Ruth Husko"
-      ],
+      "speakers": [],
       "topics": [
         "news",
         "quiz",
@@ -146,16 +115,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27472000",
       "itunes_duration": "1717",
-      "speakers": [
-        "Helping Andy",
-        "Susie McCabe",
-        "Paul Sinha",
-        "Cindy Yu",
-        "Scott Bennett",
-        "Andy Zaltzman",
-        "Mike Shephard",
-        "Eleanor Morton"
-      ],
+      "speakers": [],
       "topics": [
         "news",
         "quiz",
@@ -174,14 +134,7 @@
       "enclosure_length": "27280000",
       "itunes_duration": "1705",
       "speakers": [
-        "Ian Smith",
-        "Nicolás Maduro",
-        "Grok AI",
-        "Helping Ian",
-        "Lucy Porter",
-        "Geoff Norcott",
-        "Mike Shephard",
-        "Alex Kealy"
+        "Ian Smith"
       ],
       "topics": [
         "news",
@@ -203,12 +156,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27296000",
       "itunes_duration": "1706",
-      "speakers": [
-        "Leo Xiv",
-        "Andy Zaltzman",
-        "Rajiv Karia",
-        "Pete Strauss Production Coordinator"
-      ],
+      "speakers": [],
       "topics": [
         "news",
         "quiz"
@@ -226,14 +174,7 @@
       "enclosure_length": "27104000",
       "itunes_duration": "1694",
       "speakers": [
-        "Matt Forde",
-        "Michael Gove",
-        "Charles Dickens",
-        "Matt Forde Additional",
-        "Karl Minns",
-        "Laura Claxton",
-        "Richard Garvin Producer",
-        "Richard Garvin"
+        "Matt Forde"
       ],
       "topics": [
         "matt",
@@ -254,16 +195,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27360000",
       "itunes_duration": "1710",
-      "speakers": [
-        "Jon Culshaw",
-        "Jan Ravens",
-        "Duncan Wisbey",
-        "Jess Robinson",
-        "Nev Fountain",
-        "Tom Jamieson",
-        "Laurence Howarth",
-        "Tom Coles"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "ringers",
@@ -285,13 +217,7 @@
       "enclosure_length": "26576000",
       "itunes_duration": "1661",
       "speakers": [
-        "Alan Carr",
-        "Jan Ravens",
-        "Jess Robinson",
-        "Kieran Hodgson",
-        "Josh Berry",
-        "Nev Fountain",
-        "Tom Jamieson"
+        "Alan Carr"
       ],
       "topics": [
         "dead",
@@ -317,16 +243,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26496000",
       "itunes_duration": "1656",
-      "speakers": [
-        "Andrew Hunter Murray",
-        "Jon Holmes",
-        "Andrew Hunter Murray Guests",
-        "Rosie Holt",
-        "Fiona Mundy",
-        "Holly Alderson",
-        "Kayley Williams",
-        "Molly Punshon"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -346,14 +263,7 @@
       "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "Andrew Hunter Murray",
-        "Jon Holmes",
-        "Andrew Hunter Murray Guests",
-        "Kate Cheka",
-        "Janet Ellis Investigations Team",
-        "Freya Shaw Written",
-        "Jon Holmes Katie Sayer",
-        "Jason Hazeley"
+        "Bedtime Story"
       ],
       "topics": [
         "naked",
@@ -376,14 +286,7 @@
       "enclosure_length": "26880000",
       "itunes_duration": "1680",
       "speakers": [
-        "Andrew Hunter Murray",
-        "Jon Holmes",
-        "Andrew Hunter Murray Guests",
-        "Larry Budd",
-        "Alan Dedicoat",
-        "Freya Shaw Written",
-        "Jon Holmes Katie Sayer",
-        "Jason Hazeley"
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "naked",
@@ -408,14 +311,7 @@
       "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "Rip Tim Davie",
-        "Andrew Hunter Murray",
-        "Jon Holmes",
-        "Andrew Hunter Murray Guests",
-        "Paul Gorton",
-        "Milo Edwards",
-        "James Akka",
-        "Holly Skinner"
+        "Rip Tim Davie"
       ],
       "topics": [
         "naked",
@@ -435,15 +331,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26640000",
       "itunes_duration": "1665",
-      "speakers": [
-        "Andrew Hunter Murray",
-        "Jon Holmes",
-        "Andrew Hunter Murray Guests",
-        "Paul Dunphy",
-        "Freya Shaw Written",
-        "Jon Holmes Katie Sayer",
-        "Jason Hazeley"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -464,16 +352,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26736000",
       "itunes_duration": "1671",
-      "speakers": [
-        "Andrew Hunter Murray",
-        "Jon Holmes",
-        "Andrew Hunter Murray Guests",
-        "Bella Hull",
-        "Lisa Webb",
-        "Freya Shaw Written",
-        "Jon Holmes Katie Sayer",
-        "Jason Hazeley"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -498,11 +377,7 @@
         "Laura Lexx",
         "Ahir Shah",
         "Ava Santina",
-        "Andy Zaltzman",
-        "Andy Zaltzman Additional",
-        "Milo Edwards",
-        "Cameron Loxdale",
-        "Ruth Husko"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -523,16 +398,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27280000",
       "itunes_duration": "1705",
-      "speakers": [
-        "Andy Zaltzman",
-        "Adam Kay",
-        "Stephen Bush",
-        "Daman Bamrah",
-        "Ruth Husko",
-        "Christina Riggs",
-        "Peter Tellouche",
-        "Rajiv Karia"
-      ],
+      "speakers": [],
       "topics": [
         "news",
         "quiz",
@@ -553,14 +419,8 @@
       "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
-        "Andy Zaltzman",
-        "Scott Bennett",
-        "Ayesha Hazarika",
-        "Kate Cheka",
-        "Ian Smith",
-        "Jain Edwards",
-        "Ruth Husko",
-        "Rajiv Karia"
+        "Peace Deals",
+        "Middle East"
       ],
       "topics": [
         "news",
@@ -583,14 +443,7 @@
       "enclosure_length": "27072000",
       "itunes_duration": "1692",
       "speakers": [
-        "Kier Starmer",
-        "Helping Andy Zaltzman",
-        "Ian Smith",
-        "Andy Zaltzman",
-        "Cody Dahler",
-        "John Tothill",
-        "Georgia Keating",
-        "James Robinson Executive"
+        "Kier Starmer"
       ],
       "topics": [
         "news",
@@ -612,13 +465,7 @@
       "itunes_duration": "1706",
       "speakers": [
         "Lib Dem Conference",
-        "Lib Dems",
-        "Andy Zaltzman",
-        "Simon Evans",
-        "Neil Delamere",
-        "Tiff Stevenson",
-        "Cindy Yu",
-        "Jade Gebbie"
+        "Lib Dems"
       ],
       "topics": [
         "news",
@@ -643,11 +490,7 @@
         "Andy Zaltzman",
         "Pierre Novellie",
         "Sara Barron",
-        "Lucy Porter",
-        "Ed Davey",
-        "Penny Mordaunt",
-        "Cody Dahler",
-        "Ruth Husko"
+        "Lucy Porter"
       ],
       "topics": [
         "news",
@@ -671,11 +514,7 @@
         "Andy Zaltzman",
         "Susie McCabe",
         "Geoff Norcott",
-        "Ash Sarkar",
-        "Simon Alcock",
-        "Carwyn Blayney",
-        "Ruth Husko",
-        "Alex Kealy"
+        "Ash Sarkar"
       ],
       "topics": [
         "news",
@@ -699,10 +538,7 @@
         "Alasdair Beckett-King",
         "Andrew Maxwell",
         "Lucy Porter",
-        "Coco Khan",
-        "Angela Rayner",
-        "Xi Jinping",
-        "St George"
+        "Coco Khan"
       ],
       "topics": [
         "news",
@@ -724,14 +560,7 @@
       "enclosure_length": "27232000",
       "itunes_duration": "1702",
       "speakers": [
-        "Catherine Bohart",
-        "Olga Koch",
-        "Kate Devlin",
-        "Sunil Patel",
-        "Madeleine Brettingham",
-        "Rose Johnson",
-        "Pravanya Pillay",
-        "David Thomas"
+        "Catherine Bohart"
       ],
       "topics": [
         "long",
@@ -750,14 +579,7 @@
       "enclosure_length": "27984000",
       "itunes_duration": "1749",
       "speakers": [
-        "Catherine Bohart",
-        "John Bolton",
-        "Sunil Patel",
-        "Madeleine Brettingham",
-        "Catherine Brinkworth",
-        "Priya Hall Producer",
-        "David Thomas",
-        "Katie Sayer"
+        "Catherine Bohart"
       ],
       "topics": [
         "long",
@@ -776,16 +598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27568000",
       "itunes_duration": "1723",
-      "speakers": [
-        "Isabel Berwick",
-        "Sunil Patel",
-        "Catherine Bohart",
-        "Madeleine Brettingham",
-        "Georgie Flinn",
-        "Christina Riggs",
-        "David Thomas",
-        "Katie Sayer"
-      ],
+      "speakers": [],
       "topics": [
         "long",
         "work"
@@ -803,14 +616,7 @@
       "enclosure_length": "27552000",
       "itunes_duration": "1722",
       "speakers": [
-        "Catherine Bohart",
-        "Ian Dunt",
-        "Sunil Patel",
-        "Madeleine Brettingham",
-        "Gareth Gwynn",
-        "John Tothill",
-        "David Thomas",
-        "Katie Sayer"
+        "Catherine Bohart"
       ],
       "topics": [
         "long",
@@ -829,14 +635,7 @@
       "enclosure_length": "27264000",
       "itunes_duration": "1704",
       "speakers": [
-        "Catherine Bohart",
-        "Sunil Patel",
-        "Emma Chamberlain",
-        "Madeleine Brettingham",
-        "Tom Neenan",
-        "Pravanya Pillay",
-        "David Thomas",
-        "Katie Sayer"
+        "Catherine Bohart"
       ],
       "topics": [
         "long",
@@ -855,14 +654,7 @@
       "enclosure_length": "27344000",
       "itunes_duration": "1709",
       "speakers": [
-        "Catherine Bohart",
-        "Phil Wang",
-        "Sunil Patel",
-        "Madeleine Brettingham",
-        "Tom Neenan",
-        "Pravanya Pillay",
-        "David Thomas",
-        "Katie Sayer"
+        "Catherine Bohart"
       ],
       "topics": [
         "long",
@@ -881,14 +673,7 @@
       "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
-        "Diane Abbott",
-        "Jon Culshaw",
-        "Jan Ravens",
-        "Lewis Macleod",
-        "Jess Robinson",
-        "Duncan Wisbey",
-        "Tom Jamieson",
-        "Laurence Howarth"
+        "Diane Abbott"
       ],
       "topics": [
         "dead",
@@ -912,14 +697,7 @@
       "enclosure_length": "27200000",
       "itunes_duration": "1700",
       "speakers": [
-        "Salt Path",
-        "Jan Ravens",
-        "Jon Culshaw",
-        "Lewis Macleod",
-        "Jess Robinson",
-        "Duncan Wisbey",
-        "Tom Jamieson",
-        "Laurence Howarth"
+        "Salt Path"
       ],
       "topics": [
         "dead",
@@ -941,16 +719,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27536000",
       "itunes_duration": "1721",
-      "speakers": [
-        "Nev Fountain",
-        "Tom Jamieson",
-        "Laurence Howarth",
-        "Rob Darke",
-        "Sophie Dickson",
-        "Toussaint Douglass",
-        "Peter Tellouche",
-        "Tom Coles"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "ringers",
@@ -969,16 +738,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27984000",
       "itunes_duration": "1749",
-      "speakers": [
-        "Martin Lewis",
-        "Jan Ravens",
-        "Jon Culshaw",
-        "Lewis Macleod",
-        "Jess Robinson",
-        "Duncan Wisbey",
-        "Kieran Hodgson",
-        "Nev Fountain"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "ringers",
@@ -998,16 +758,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27536000",
       "itunes_duration": "1721",
-      "speakers": [
-        "Laura Kuenssberg",
-        "Ross Kemp",
-        "Grooming Gangs",
-        "Jan Ravens",
-        "Jon Culshaw",
-        "Lewis Macleod",
-        "Jess Robinson",
-        "Duncan Wisbey"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "ringers",
@@ -1026,16 +777,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27552000",
       "itunes_duration": "1722",
-      "speakers": [
-        "Greta Thunberg",
-        "Gary Lineker",
-        "Jan Ravens",
-        "Jon Culshaw",
-        "Jess Robinson",
-        "Kieran Hodgson",
-        "Duncan Wisbey",
-        "Nev Fountain"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "ringers",
@@ -1060,10 +802,7 @@
         "Andy Zaltzman",
         "Glenn Moore",
         "Athena Kugblenu",
-        "Marie Le Conte",
-        "Eve Delaney",
-        "Jade Gebbie",
-        "Cameron Loxdale"
+        "Marie Le Conte"
       ],
       "topics": [
         "news",
@@ -1088,11 +827,7 @@
         "Armando Iannucci",
         "Ria Lina",
         "Ian Smith",
-        "Cindy Yu",
-        "King’s Canadian",
-        "Andy Zaltzman",
-        "Mike Shephard",
-        "Peter Tellouche"
+        "Cindy Yu"
       ],
       "topics": [
         "news",
@@ -1117,10 +852,7 @@
         "Andrew Maxwell",
         "Ian Smith",
         "Alex Kealy",
-        "Cindy Yu",
-        "Christina Riggs",
-        "Laura Major",
-        "Christian Manley"
+        "Cindy Yu"
       ],
       "topics": [
         "news",
@@ -1142,12 +874,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Alasdair Beckett-King",
-        "Sara Barron",
-        "Anushka Asthana",
-        "Samira Banks",
-        "Catherine Brinkworth",
-        "Cody Dahler",
-        "Rajiv Karia"
+        "Sara Barron"
       ],
       "topics": [
         "news",
@@ -1172,10 +899,7 @@
         "Geoff Norcott",
         "Ria Lina",
         "Ava Santina",
-        "Alasdair Beckett-King",
-        "Andy Zaltzman",
-        "Eve Delaney",
-        "Jade Gebbie"
+        "Alasdair Beckett-King"
       ],
       "topics": [
         "news",
@@ -1199,10 +923,7 @@
         "Geoff Norcott",
         "Lucy Porter",
         "Ed Byrne",
-        "Marie Le Conte",
-        "Ruby Clyde",
-        "Eve Delaney",
-        "Cameron Loxdale"
+        "Marie Le Conte"
       ],
       "topics": [
         "news",
@@ -1227,10 +948,7 @@
         "Andrew Maxwell",
         "Zing Tsjeng",
         "Jessica Fostekew",
-        "Pierre Novellie",
-        "Yorkshire Gladiators",
-        "Chris Ballard",
-        "Cody Dahler"
+        "Pierre Novellie"
       ],
       "topics": [
         "news",
@@ -1254,12 +972,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Athena Kugblenu",
-        "Mike Shephard",
-        "Christina Riggs",
-        "Eve Delaney",
-        "Ben Pope",
-        "Rajiv Karia",
-        "Pete Strauss Production Coordinator"
+        "bin wor"
       ],
       "topics": [
         "news",
@@ -1281,14 +994,7 @@
       "enclosure_length": "27552000",
       "itunes_duration": "1722",
       "speakers": [
-        "Theme Parks",
-        "Andrew Hunter Murray",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster Jason Hazeley",
-        "Freya Shaw",
-        "Matt Brown",
-        "Freya Parker",
-        "Alicia Fitzgerald"
+        "Theme Parks"
       ],
       "topics": [
         "naked",
@@ -1311,14 +1017,7 @@
       "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
-        "Woop Woop",
-        "Andrew Hunter Murray",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster Jason Hazeley",
-        "Freya Shaw",
-        "Matt Brown",
-        "Larry Budd",
-        "Laura Grimshaw"
+        "Woop Woop"
       ],
       "topics": [
         "naked",
@@ -1343,16 +1042,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27808000",
       "itunes_duration": "1738",
-      "speakers": [
-        "Rachel Reeves",
-        "Andrew Hunter Murray",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster Jason Hazeley",
-        "Freya Shaw",
-        "Matt Brown",
-        "Ania Magliano",
-        "Laura Grimshaw"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -1371,15 +1061,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27424000",
       "itunes_duration": "1714",
-      "speakers": [
-        "Andrew Hunter Murray",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster Jason Hazeley",
-        "Freya Shaw",
-        "Matt Brown",
-        "Rubina Pabani",
-        "Alice Stapleton"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -1403,13 +1085,7 @@
       "itunes_duration": "1712",
       "speakers": [
         "Brick Walls",
-        "Dead Wood",
-        "Andrew Hunter Murray",
-        "Jon Holmes Katie Sayer",
-        "Freya Shaw",
-        "Matt Brown",
-        "Paul Dunphy",
-        "Donna Moore"
+        "Dead Wood"
       ],
       "topics": [
         "naked",
@@ -1432,16 +1108,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27712000",
       "itunes_duration": "1732",
-      "speakers": [
-        "Rosie Holt",
-        "Andrew Hunter Murray",
-        "Jon Holmes Katie Sayer",
-        "Jason Hazeley",
-        "Freya Shaw",
-        "Matt Brown",
-        "Nussaibah Younis",
-        "Laura Windsor"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -1470,9 +1137,7 @@
         "Scott Bennett",
         "Sara Barron",
         "Alex Massie",
-        "Lucy Porter",
-        "Simon Alcock",
-        "David Duncan"
+        "Lucy Porter"
       ],
       "topics": [
         "news",
@@ -1495,12 +1160,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Ian Smith",
-        "Laura Lexx",
-        "Simon Alcock",
-        "David Duncan",
-        "Laura Major",
-        "Christina Riggs",
-        "Peter Tellouche"
+        "Laura Lexx"
       ],
       "topics": [
         "news",
@@ -1547,11 +1207,7 @@
         "Andy Zaltzman",
         "Ayesha Hazarika",
         "Susie McCabe",
-        "Geoff Norcott",
-        "Pierre Novellie",
-        "Jade Gebbie",
-        "Alex Kealy",
-        "Christina Riggs"
+        "Geoff Norcott"
       ],
       "topics": [
         "news",
@@ -1576,10 +1232,7 @@
         "Andy Zaltzman",
         "Simon Evans",
         "Athena Kugblenu",
-        "Susie McCabe",
-        "Hugo Rifkind",
-        "Cameron Loxdale",
-        "Sascha LO"
+        "Susie McCabe"
       ],
       "topics": [
         "news",
@@ -1602,10 +1255,7 @@
         "Andy Zaltzman",
         "Andrew Maxwell",
         "Val McDermid",
-        "Jay Lafferty",
-        "Stuart Mitchell",
-        "Prince Harry",
-        "Neil Gray"
+        "Jay Lafferty"
       ],
       "topics": [
         "news",
@@ -1628,9 +1278,7 @@
         "Andy Zaltzman",
         "Nish Kumar",
         "Sara Barron",
-        "Glenn Moore",
-        "Zing Tsjeng",
-        "Cody Dahler"
+        "Glenn Moore"
       ],
       "topics": [
         "news",
@@ -1654,8 +1302,7 @@
         "Andy Zaltzman",
         "Geoff Norcott",
         "Paul Sinha",
-        "Angela Barnes",
-        "Anushka Asthana"
+        "Angela Barnes"
       ],
       "topics": [
         "news",
@@ -1677,16 +1324,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27328000",
       "itunes_duration": "1708",
-      "speakers": [
-        "Andy Zaltzman",
-        "Ian Smith",
-        "Lucy Porter",
-        "Geoff Norcott",
-        "Alasdair Beckett-King",
-        "Mark Steel",
-        "Ria Lina",
-        "Simon Evans"
-      ],
+      "speakers": [],
       "topics": [
         "news",
         "quiz"
@@ -1703,16 +1341,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27520000",
       "itunes_duration": "1720",
-      "speakers": [
-        "Andrew Hunter Murray Chief",
-        "Amy Hoggart Written",
-        "Jon Holmes Jason Hazeley",
-        "Katie Sayer",
-        "Sarah Dempster",
-        "Adam Macqueen",
-        "Louis Mian",
-        "Jon Ho-ho-ho-Holmes"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "christmas",
@@ -1734,13 +1363,7 @@
       "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
-        "Uncanny Ghosts",
-        "Andrew Hunter Murray",
-        "Amy Hoggart",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster",
-        "Gareth Ceredig",
-        "Jason Hazeley"
+        "Uncanny Ghosts"
       ],
       "topics": [
         "naked",
@@ -1762,16 +1385,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27328000",
       "itunes_duration": "1708",
-      "speakers": [
-        "Andrew Hunter Murray",
-        "Amy Hoggart",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster",
-        "Gareth Ceredig",
-        "Jason Hazeley",
-        "Karl Minns Production Team",
-        "Laura Grimshaw"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -1792,16 +1406,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27520000",
       "itunes_duration": "1720",
-      "speakers": [
-        "Gregg Wallace",
-        "Andrew Hunter Murray",
-        "Amy Hoggart",
-        "Jon Holmes",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster",
-        "Gareth Ceredig",
-        "Jason Hazeley"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -1823,16 +1428,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27520000",
       "itunes_duration": "1720",
-      "speakers": [
-        "Andrew Hunter Murray",
-        "Amy Hoggart",
-        "Jon Holmes Katie Sayer",
-        "Sarah Dempster",
-        "Gareth Ceredig",
-        "Jason Hazeley",
-        "Mark Miodownik",
-        "Laura Grimshaw"
-      ],
+      "speakers": [],
       "topics": [
         "naked",
         "week",
@@ -1854,11 +1450,7 @@
       "itunes_duration": "1710",
       "speakers": [
         "Jeremy Clarkson",
-        "Rachel Reeves",
-        "Jon Culshaw",
-        "Jan Ravens",
-        "Lewis MacLeod",
-        "Duncan Wisbey"
+        "Rachel Reeves"
       ],
       "topics": [
         "dead",
@@ -1877,15 +1469,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27392000",
       "itunes_duration": "1712",
-      "speakers": [
-        "Justin Welby",
-        "Jan Ravens",
-        "Jess Robinson",
-        "Duncan Wisbey",
-        "Jason Forbes",
-        "Tom Jamieson",
-        "Nev Fountain"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "ringers",
@@ -1905,11 +1489,7 @@
       "enclosure_length": "27376000",
       "itunes_duration": "1711",
       "speakers": [
-        "Jon Culshaw",
-        "Jan Ravens",
-        "Jess Robinson",
-        "Duncan Wisbey",
-        "Tom Jamieson"
+        "Kemi Badenoc"
       ],
       "topics": [
         "dead",
@@ -1929,13 +1509,7 @@
       "enclosure_length": "26976000",
       "itunes_duration": "1686",
       "speakers": [
-        "Rachel Reeves",
-        "Kamala Harris",
-        "JD Vance",
-        "Tim Walz",
-        "Rishi Sunak",
-        "Jon Culshaw",
-        "Jan Ravens"
+        "Rachel Reeves"
       ],
       "topics": [
         "dead",
@@ -1958,11 +1532,7 @@
       "speakers": [
         "Ian Smith",
         "Geoff Norcott",
-        "Amy Hoggart",
-        "Alasdair Beckett-King",
-        "Susie McCabe",
-        "Alex Kealy",
-        "Cameron Loxdale"
+        "Amy Hoggart"
       ],
       "topics": [
         "news",
@@ -1984,14 +1554,7 @@
       "enclosure_length": "27520000",
       "itunes_duration": "1720",
       "speakers": [
-        "Wes Streeting",
-        "Lucy Porter",
-        "Mike Shephard",
-        "Tasha Dhanraj",
-        "Peter Tellouche",
-        "Rajiv Karia",
-        "James Robinson Production Coordinator",
-        "Marc Willcox"
+        "Wes Streeting"
       ],
       "topics": [
         "news",
@@ -2013,13 +1576,7 @@
       "itunes_duration": "1710",
       "speakers": [
         "Cleverly Timed",
-        "Sue Gray",
-        "James Cleverly",
-        "Geoff Norcott",
-        "Cody Dahler",
-        "James Farmer",
-        "Tom Mayhew",
-        "Christina Riggs"
+        "Sue Gray"
       ],
       "topics": [
         "news",
@@ -2043,12 +1600,7 @@
       "speakers": [
         "Scott Bennett",
         "Cindy Yu",
-        "Andy Zaltzman",
-        "Jade Gebbie",
-        "Cody Dahler",
-        "Dee Allum",
-        "Peter Tellouche",
-        "Sam Holmes Executive"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2073,9 +1625,7 @@
         "Ian Smith",
         "Alice Fraser",
         "Ash Sarkar",
-        "Andy Zaltzman",
-        "Jade Gebbie",
-        "Mark Granger"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2099,11 +1649,7 @@
         "Simon Evans",
         "Ian Smith",
         "Anushka Asthana",
-        "Andy Zaltzman",
-        "Cameron Loxdale",
-        "Sarah Campbell",
-        "Peter Tellouche",
-        "Sam Holmes Executive"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2127,10 +1673,7 @@
         "Ria Lina",
         "Glenn Moore",
         "Coco Khan",
-        "Andy Zaltzman",
-        "Mike Shephard",
-        "Christiana Riggs",
-        "Rebecca Bain"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2155,10 +1698,7 @@
         "Lucy Porter",
         "Mark Steel",
         "Marie Le Conte",
-        "Andy Zaltzman",
-        "Mike Shephard",
-        "Meryl O'Rourke",
-        "Peter Tellouche"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2180,14 +1720,7 @@
       "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
-        "Catherine Bohart",
-        "Hugo Rifkind",
-        "Gina Neff",
-        "Sunil Patel",
-        "Madeleine Brettingham",
-        "Sarah Campbell",
-        "Ellen Patterson",
-        "Flobot Produced"
+        "Catherine Bohart"
       ],
       "topics": [
         "catherine",
@@ -2208,14 +1741,7 @@
       "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
-        "Catherine Bohart",
-        "Robert Jenrick",
-        "Alex Kealy",
-        "Olga Koch",
-        "Stephen Bush",
-        "Madeleine Brettingham",
-        "Sarah Campbell",
-        "Georgie Flinn"
+        "Catherine Bohart"
       ],
       "topics": [
         "catherine",
@@ -2260,14 +1786,7 @@
       "enclosure_length": "27232000",
       "itunes_duration": "1702",
       "speakers": [
-        "Catherine Bohart",
-        "Tom Neenan",
-        "Anand Menon",
-        "Madeleine Brettingham",
-        "Sarah Campbell",
-        "Georgie Flinn",
-        "Ellen Robertson",
-        "Pravanya Pillay"
+        "Catherine Bohart"
       ],
       "topics": [
         "catherine",
@@ -2287,14 +1806,7 @@
       "enclosure_length": "27200000",
       "itunes_duration": "1700",
       "speakers": [
-        "Catherine Bohart",
-        "Sunil Patel",
-        "Gareth Gwynn",
-        "Julia Leikin",
-        "Madeleine Brettingham",
-        "Sarah Campbell",
-        "Georgie Flinn",
-        "David Thomas"
+        "Catherine Bohart"
       ],
       "topics": [
         "catherine",
@@ -2316,14 +1828,7 @@
       "enclosure_length": "27040000",
       "itunes_duration": "1690",
       "speakers": [
-        "Catherine Bohart",
-        "Sunil Patel",
-        "Katy Balls",
-        "Sarah Churchwell",
-        "Madeleine Brettingham",
-        "Sarah Campbell",
-        "Ellen Robertson",
-        "David Thomas"
+        "Catherine Bohart"
       ],
       "topics": [
         "catherine",
@@ -2385,10 +1890,7 @@
         "Lucy Porter",
         "Ria Lina",
         "Simon Evans",
-        "Andy Zaltzman",
-        "Peter Tellouche",
-        "Alice Fraser",
-        "Cameron Loxdale"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2411,11 +1913,7 @@
         "Geoff Norcott",
         "Stuart Mitchell",
         "Katy Balls",
-        "Andy Zaltzman",
-        "Toussaint Douglass",
-        "Mark Granger",
-        "Angela Channell",
-        "Pete Tellouche"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2439,10 +1937,7 @@
         "Simon Evans",
         "Laura Smyth",
         "Cindy Yu",
-        "Andy Zaltzman",
-        "Cameron Loxdale",
-        "Jade Gebbie",
-        "Dan Sweryt"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2465,11 +1960,7 @@
         "Lucy Porter",
         "Alasdair Beckett-King",
         "Athena Kugblenu",
-        "Andy Zaltzman",
-        "Christina Riggs",
-        "Meryl O'Rourke",
-        "Mike Shephard",
-        "Sam Holmes Executive"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2491,12 +1982,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Ian Smith",
-        "Geoff Norcott",
-        "Shaparak Khorsandi",
-        "Anushka Asthana",
-        "Christina Riggs",
-        "Jade Gebbie",
-        "Sam Holmes Executive"
+        "Geoff Norcott"
       ],
       "topics": [
         "news",
@@ -2517,13 +2003,7 @@
       "itunes_duration": "1746",
       "speakers": [
         "Dead Ringers st",
-        "Tom Jamieson",
-        "Laurence Howarth",
-        "Ed Amsden Tom Coles",
-        "Rob Darke",
-        "Edward Tew",
-        "Sophie Dixon",
-        "Cody Dahler"
+        "Tom Jamie"
       ],
       "topics": [
         "dead",
@@ -2542,14 +2022,7 @@
       "enclosure_length": "25104000",
       "itunes_duration": "1569",
       "speakers": [
-        "Jon Culshaw",
-        "Jan Ravens",
-        "Duncan Wisbey",
-        "Jess Robinson",
-        "Tom Jamieson",
-        "Laurence Howarth",
-        "Ed Amsden Tom Coles",
-        "Rob Darke"
+        "Jon Cul"
       ],
       "topics": [
         "dead",
@@ -2571,11 +2044,7 @@
         "Dead Ringers th",
         "Mr Blobby",
         "Tom Jamieson",
-        "Laurence Howarth",
-        "Ed Amsden Tom Coles",
-        "Rob Darke",
-        "Edward Tew",
-        "Sophie Dixon"
+        "Nev Founta"
       ],
       "topics": [
         "dead",
@@ -2594,13 +2063,7 @@
       "enclosure_length": "25600000",
       "itunes_duration": "1600",
       "speakers": [
-        "Dead Ringers th",
-        "Rishi Sunak",
-        "Tom Jamieson",
-        "Laurence Howarth",
-        "Ed Amsden Tom Coles",
-        "Rob Darke",
-        "Edward Tew"
+        "Dead Ringers th"
       ],
       "topics": [
         "dead",
@@ -2619,14 +2082,7 @@
       "enclosure_length": "26960000",
       "itunes_duration": "1685",
       "speakers": [
-        "Dead Ringers rd",
-        "Harry Kane",
-        "Tom Jamieson",
-        "Laurence Howarth",
-        "Ed Amsden Tom Coles",
-        "Sarah Campbell",
-        "Rob Darke",
-        "Edward Tew"
+        "Dead Ringers rd"
       ],
       "topics": [
         "dead",
@@ -2645,14 +2101,7 @@
       "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "Dead Ringers th April",
-        "Angela Rayner",
-        "Will Rylan",
-        "Stacey Solomon",
-        "Tom Jamieson",
-        "Ed Amsden Tom Coles",
-        "Laurence Howarth",
-        "Rob Darke"
+        "Dead Ringers th April"
       ],
       "topics": [
         "dead",
@@ -2671,16 +2120,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33168000",
       "itunes_duration": "2073",
-      "speakers": [
-        "Steve Punt",
-        "Hugh Dennis",
-        "Rory Bremner",
-        "Glenn Moore",
-        "Harriet Kemsley",
-        "Matt Hutson",
-        "Luke Bainbridge",
-        "Tom Marlow"
-      ],
+      "speakers": [],
       "topics": [
         "april"
       ]
@@ -2698,13 +2138,7 @@
       "itunes_duration": "1675",
       "speakers": [
         "Steve Punt",
-        "Starring Gareth Gwynn",
-        "Laura Lexx",
-        "Russ Cook",
-        "Jon Long",
-        "Daniel Barker",
-        "Gemma Arrowsmith",
-        "Zoë Tomalin"
+        "Starring Gareth Gwynn"
       ],
       "topics": [
         "april"
@@ -2723,12 +2157,7 @@
       "itunes_duration": "1676",
       "speakers": [
         "Steve Punt",
-        "Starring Jon Holmes",
-        "Angela Barnes",
-        "Mike Shepard",
-        "Alex Bertulis-Fernandes",
-        "Peter Tellouche",
-        "Pete Strauss Production Coordinator"
+        "Starring Jon Holmes"
       ],
       "topics": [
         "april"
@@ -2747,12 +2176,7 @@
       "itunes_duration": "1675",
       "speakers": [
         "Steve Punt",
-        "Starring Geoff Norcott",
-        "Rachel Fairburn",
-        "Rachel Parris",
-        "Jon Culshaw",
-        "Laura Shavin",
-        "Tasha Dhanraj"
+        "Starring Geoff"
       ],
       "topics": [
         "march"
@@ -2771,13 +2195,7 @@
       "itunes_duration": "1696",
       "speakers": [
         "Steve Punt",
-        "Lucy Porter",
-        "Laura Kenny",
-        "Alasdair Beckett-King",
-        "Mitch Benn",
-        "Ed Jones",
-        "Katie Norris",
-        "Cody Dahler"
+        "Lucy Porter"
       ],
       "topics": [
         "march"
@@ -2796,13 +2214,7 @@
       "itunes_duration": "1675",
       "speakers": [
         "Steve Punt",
-        "Marcus Brigstocke",
-        "Ed MacArthur",
-        "David Duncan",
-        "Aidan Fitzmaurice",
-        "Jade Gebbie",
-        "Christina Riggs",
-        "Gemma Arrowsmith"
+        "Marcus Brig"
       ],
       "topics": [
         "march"
@@ -2823,11 +2235,7 @@
         "Mark Steel",
         "Marie Le Conte",
         "Simon Evans",
-        "Andy Zaltzman",
-        "George Galloway",
-        "Cody Dahler",
-        "Meryl O'Rourke",
-        "Molly McGuinness"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2850,10 +2258,7 @@
         "Susie McCabe",
         "Ashley Storrie",
         "Stuart Mitchell",
-        "Andy Zaltzman",
-        "Lee Anderson",
-        "Cody Dahler",
-        "Rebecca Bain"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2875,11 +2280,7 @@
       "speakers": [
         "Andrew Doyle",
         "Lucy Porter",
-        "Andy Zaltzman",
-        "Cody Dahler",
-        "Cameron Loxdale",
-        "Viv May Producer",
-        "James Robinson Executive"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2901,12 +2302,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Andrew Maxwell",
-        "Rachel Parris",
-        "Danny Finkelstein",
-        "Cody Dahler",
-        "Ben Clover",
-        "Jade Gebbie Producer",
-        "Sam Holmes Executive"
+        "Rachel Parr"
       ],
       "topics": [
         "news",
@@ -2927,13 +2323,7 @@
       "itunes_duration": "1710",
       "speakers": [
         "Andy Zaltzman",
-        "Neil Delamere",
-        "Diona Doherty",
-        "Alex Kane",
-        "Cody Dahler",
-        "Alison Spittle",
-        "John Meagher",
-        "Claire Sullivan Producer"
+        "Neil Delamere"
       ],
       "topics": [
         "news",
@@ -2954,13 +2344,7 @@
       "itunes_duration": "1710",
       "speakers": [
         "Andy Zaltzman",
-        "Simon Evans",
-        "Alasdair Beckett-King",
-        "Anushka Asthana",
-        "Cody Dahler",
-        "Alice Fraser",
-        "Jade Gebbie",
-        "Adam Greene"
+        "Simon Evans"
       ],
       "topics": [
         "news",
@@ -2982,11 +2366,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Lucy Porter",
-        "Geoff Norcott",
-        "Alasdair Beckett-King",
-        "Cindy Yu",
-        "Cody Dahler",
-        "Mike Shephard"
+        "Geoff Norcott"
       ],
       "topics": [
         "news",
@@ -3007,13 +2387,7 @@
       "itunes_duration": "1729",
       "speakers": [
         "Andy Zaltzman",
-        "Lucy Porter",
-        "Robin Morgan",
-        "Tadiwa Mahlunge",
-        "Ayesha Hazarika",
-        "Cody Dahler",
-        "Cameron Loxdale",
-        "Sam Holmes Executive"
+        "Lucy Porter"
       ],
       "topics": [
         "news",
@@ -3053,10 +2427,7 @@
       "enclosure_length": "27664000",
       "itunes_duration": "1729",
       "speakers": [
-        "Andy Zaltzman",
-        "Sam Holmes Executive",
-        "James Robinson Production Coordinator",
-        "Jodie Charman"
+        "Andy Zal"
       ],
       "topics": [
         "news",
@@ -3080,8 +2451,7 @@
         "Jon Culshaw",
         "Jan Ravens",
         "Bill Dare",
-        "Dead Ringers",
-        "Ed Miliband"
+        "Dead Ringers"
       ],
       "topics": [
         "dead",
@@ -3101,13 +2471,7 @@
       "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
-        "Dead Ringers",
-        "Katherine Jenkins",
-        "Ncuti Gatwa",
-        "Tom Jamieson",
-        "Laurence Howarth",
-        "Ed Amsden Tom Coles",
-        "Edward Tew"
+        "Dead Ringers"
       ],
       "topics": [
         "dead",
@@ -3127,14 +2491,7 @@
       "enclosure_length": "27584000",
       "itunes_duration": "1724",
       "speakers": [
-        "Dead Ringers th",
-        "Kier Starmer",
-        "Jon Culshaw",
-        "Lewis MacLeod",
-        "Jan Ravens",
-        "Jess Robinson",
-        "Duncan Wisbey",
-        "Tom Jamieson"
+        "Dead Ringers th"
       ],
       "topics": [
         "dead",
@@ -3155,13 +2512,7 @@
       "itunes_duration": "1720",
       "speakers": [
         "Steve Punt",
-        "Geoff Norcott",
-        "Harriet Kemsley",
-        "Kim Jong Un",
-        "Peter Rugman",
-        "Adrian Gray",
-        "Miranda Holms",
-        "Rajiv Karia"
+        "Geoff Norco"
       ],
       "topics": [
         "december"
@@ -3179,14 +2530,7 @@
       "enclosure_length": "27536000",
       "itunes_duration": "1721",
       "speakers": [
-        "Steve Punt",
-        "David Eagle",
-        "Jessica Fostekew",
-        "Archie Henderson",
-        "Becky CJ",
-        "Alex Garrick-Wright",
-        "Jade Gebbie",
-        "Rhiannon Shaw"
+        "Steve Punt"
       ],
       "topics": [
         "december"
@@ -3204,14 +2548,7 @@
       "enclosure_length": "27376000",
       "itunes_duration": "1711",
       "speakers": [
-        "Steve Punt",
-        "Fin Taylor",
-        "Ed MacArthur",
-        "Aidan Fitzmaurice",
-        "Joe Bates",
-        "Cody Dahler",
-        "Joz Norris",
-        "Gemma Arrowsmith"
+        "Steve Punt"
       ],
       "topics": [
         "november"
@@ -3229,14 +2566,7 @@
       "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
-        "Steve Punt",
-        "Pierre Novellie",
-        "Jess Robinson",
-        "Mike Shephard",
-        "Tasha Dhanraj",
-        "David Duncan",
-        "Cody Dahler",
-        "Katie Baum"
+        "Steve Punt"
       ],
       "topics": [
         "november"
@@ -3254,14 +2584,7 @@
       "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
-        "Steve Punt",
-        "Alasdair Beckett-King",
-        "Desiree Burch",
-        "Mike Shephard",
-        "Zoe Tomalin",
-        "Christina Riggs",
-        "Cody Dahler",
-        "Katie Baum"
+        "Steve Punt"
       ],
       "topics": [
         "november"
@@ -3279,14 +2602,7 @@
       "enclosure_length": "27232000",
       "itunes_duration": "1702",
       "speakers": [
-        "Steve Punt",
-        "Ken Cheng",
-        "Helen Bauer",
-        "Rachel Parris",
-        "Tasha Dhanraj",
-        "Jules Garnett",
-        "Cody Dahler",
-        "Katie Baum"
+        "Steve Punt"
       ],
       "topics": [
         "november"
@@ -3306,12 +2622,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Ian Smith",
-        "Ria Lina",
-        "Robin Morgan",
-        "Cody Dahler Mike Shephard",
-        "Adam Greene Producer",
-        "Sam Holmes Executive",
-        "Dan Marchini Sound"
+        "Ria Lina"
       ],
       "topics": [
         "news",
@@ -3333,12 +2644,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Ian Smith",
-        "Lucy Porter",
-        "Anushka Asthana",
-        "Simon Evans",
-        "Jade Gebbie",
-        "Simon Alcock",
-        "Cameron Loxdale"
+        "Lucy Porter"
       ],
       "topics": [
         "news",
@@ -3360,12 +2666,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Alex Massie",
-        "Simon Evans",
-        "Alice Fraser",
-        "Rachel Parris",
-        "Peter Tellouche",
-        "Cameron Loxdale",
-        "Sam Holmes Executive"
+        "Simon Eva"
       ],
       "topics": [
         "news",
@@ -3385,13 +2686,7 @@
       "enclosure_length": "26752000",
       "itunes_duration": "1672",
       "speakers": [
-        "Andy Zaltzman",
-        "Susie McCabe",
-        "Alice Fraser Cody Dahler",
-        "Caroline Mabey Producer",
-        "Sam Holmes Executive",
-        "Pete Strauss Production Co-ordinator",
-        "Dan Marchini Sound"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -3412,11 +2707,7 @@
       "itunes_duration": "1675",
       "speakers": [
         "Andy Zaltzman",
-        "Andrew Doyle",
-        "Athena Kugblenu",
-        "Cody Dahler",
-        "Miranda Holms Producer",
-        "Dan Marchini Sound"
+        "Andrew Doyle"
       ],
       "topics": [
         "news",
@@ -3438,12 +2729,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Ayesha Hazarika",
-        "Chris McCausland",
-        "Alasdair Beckett-King",
-        "Rhiannon Shaw",
-        "Miranda Holms Producer",
-        "James Robinson Production Co-ordinator",
-        "Dan Marchini Sound"
+        "Chris Mc"
       ],
       "topics": [
         "news",
@@ -3467,10 +2753,7 @@
         "Tom Ballard",
         "Anushka Asthana",
         "Mark Steel",
-        "Andy Zaltzman",
-        "Cody Dahler Mike Shephard",
-        "Christina Riggs Producer",
-        "Sam Holmes Executive"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -3492,12 +2775,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Ian Smith",
-        "Lucy Porter",
-        "Hugo Rifkind",
-        "Cody Dahler Mike Shepard",
-        "Eleri Morgan Producer",
-        "Sam Holmes Executive",
-        "James Robinson Production Co-ordinator"
+        "Lucy Porter"
       ],
       "topics": [
         "news",
@@ -3539,14 +2817,7 @@
       "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
-        "Catherine Bohart",
-        "James Ball",
-        "Sunil Patel",
-        "Dave’s Jon Richardson",
-        "Frankie Boyle",
-        "Madeleine Brettingham",
-        "Sarah Campbell",
-        "Emma Nagouse"
+        "Catherine Bohart"
       ],
       "topics": [
         "catherine",
@@ -3565,8 +2836,7 @@
       "enclosure_length": "27104000",
       "itunes_duration": "1694",
       "speakers": [
-        "Heidi Regan",
-        "Ignacio Lopez"
+        "Ria Lina"
       ],
       "topics": [
         "united",
@@ -3586,9 +2856,7 @@
       "enclosure_length": "26176000",
       "itunes_duration": "1636",
       "speakers": [
-        "Alan Clarke",
-        "Alison Vernon-Smith",
-        "Julian Mayers"
+        "Dom Joly Breaks"
       ],
       "topics": [
         "joly",
@@ -3608,8 +2876,7 @@
       "enclosure_length": "27424000",
       "itunes_duration": "1714",
       "speakers": [
-        "Rhys James",
-        "Alasdair Beckett-King"
+        "Rhys James"
       ],
       "topics": [
         "talking",
@@ -3628,14 +2895,7 @@
       "enclosure_length": "27440000",
       "itunes_duration": "1715",
       "speakers": [
-        "Rachel Parris",
-        "Rachel Parris Guests",
-        "Rosie Holt",
-        "Sam Pamphilion",
-        "Michael Spicer",
-        "Zafar Nim Odedra Additional",
-        "Robin Morgan Recorded",
-        "David Thomas Producer"
+        "Rachel Parris"
       ],
       "topics": [
         "newsmakers",
@@ -3695,13 +2955,7 @@
       "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "Dead Ringers th July",
-        "Kier Starmer",
-        "Tom Jamieson",
-        "Laurence Howarth",
-        "Ed Amsden Tom Coles",
-        "Edward Tew",
-        "Robert Darke"
+        "Dead Ringers th July"
       ],
       "topics": [
         "dead",
@@ -3721,11 +2975,7 @@
       "enclosure_length": "752000",
       "itunes_duration": "47",
       "speakers": [
-        "Rachel Parris",
-        "Dom Joly",
-        "Catherine Bohart",
-        "Rhys James",
-        "Andrew Hunter Murray"
+        "Summer Specials"
       ],
       "topics": [
         "summer",
@@ -3791,9 +3041,7 @@
       "speakers": [
         "Dead Ringers th",
         "Dead Ringers",
-        "Jess Robinson",
-        "Duncan Wisbey",
-        "Jan Ravens"
+        "Lewis MacLeod"
       ],
       "topics": [
         "dead",
@@ -4099,10 +3347,7 @@
         "Andy Zaltzman",
         "Simon Evans",
         "Samira Ahmed",
-        "Alasdair Beckett-King",
-        "Matt Hancock’s WhatsApps",
-        "Alice Fraser",
-        "Zoë Tomalin"
+        "Alasdair Beckett-King"
       ],
       "topics": [
         "news",
@@ -4125,10 +3370,7 @@
         "Ian Smith",
         "Holly Walsh",
         "Andy Parsons",
-        "Kate Andrews",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Catherine Brinkworth"
+        "Kate Andrews"
       ],
       "topics": [
         "news",
@@ -4149,13 +3391,7 @@
       "itunes_duration": "1730",
       "speakers": [
         "Andy Zaltzman",
-        "Angela Barnes",
-        "Jeremy Corbyn",
-        "Alice Fraser",
-        "Catherine Brinkworth",
-        "Eleanor Morton",
-        "Peter Tellouche",
-        "Cameron Loxdale"
+        "Angela Barnes"
       ],
       "topics": [
         "news",
@@ -4178,10 +3414,7 @@
         "Andy Zaltzman",
         "Mark Steel",
         "Ria Lina",
-        "Catherine Bohart",
-        "Rishi Sunak",
-        "Alice Fraser",
-        "Zoë Tomalin"
+        "Catherine Bohart"
       ],
       "topics": [
         "news",
@@ -4203,12 +3436,7 @@
       "speakers": [
         "Frankie Boyle",
         "Susie McCabe",
-        "Ashley Storrie",
-        "Alex Massie",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Max Davis",
-        "Stuart Mitchell"
+        "Ashley St"
       ],
       "topics": [
         "news",
@@ -4232,10 +3460,7 @@
         "Geoff Norcott",
         "Chris McCausland",
         "Isabel Hardman",
-        "Maisie Adam",
-        "Nadhim Zahawi",
-        "Alice Fraser",
-        "Davina Bentley"
+        "Maisie Adam"
       ],
       "topics": [
         "news",
@@ -4259,9 +3484,7 @@
         "Geoff Norcott",
         "Shaparak Khorsandi",
         "Helen Lewis",
-        "Ian Smith",
-        "Alice Fraser",
-        "Mike Shephard"
+        "Ian Smith"
       ],
       "topics": [
         "news",
@@ -4285,10 +3508,7 @@
         "Lucy Porter",
         "Mark Steel",
         "Ayesha Hazarika",
-        "Ian Smith",
-        "Alice Fraser",
-        "Mike Shephard",
-        "Aidan Fitzmaurice"
+        "Ian Smith"
       ],
       "topics": [
         "news",
@@ -4308,13 +3528,7 @@
       "enclosure_length": "28288000",
       "itunes_duration": "1768",
       "speakers": [
-        "Andy Zaltzman",
-        "Lucy Porter",
-        "Chris McCausland",
-        "Samira Ahmed",
-        "Scott Bennett",
-        "Rishi Sunak",
-        "Alice Fraser"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -4334,10 +3548,7 @@
       "enclosure_length": "42464000",
       "itunes_duration": "2654",
       "speakers": [
-        "Andy Zaltzman",
-        "James Robinson Production Co-ordinator",
-        "Ryan Walker-Edwards Sound",
-        "Jerry Peal"
+        "Andy Za"
       ],
       "topics": [
         "news",
@@ -4357,15 +3568,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26928000",
       "itunes_duration": "1683",
-      "speakers": [
-        "Jon Culshaw",
-        "Jan Ravens",
-        "Duncan Wisbey",
-        "Naomi McDonald",
-        "Anil Desai",
-        "Tom Jamieson",
-        "Nev Fountain"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "ringers",
@@ -4384,13 +3587,7 @@
       "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
-        "Matt Hancock’s Covid",
-        "Jon Culshaw",
-        "Lewis McLeod",
-        "Jan Ravens",
-        "Duncan Wisbey",
-        "Naomi McDonald",
-        "Anil Desai"
+        "Matt Hancock’s Covid"
       ],
       "topics": [
         "dead",
@@ -4410,14 +3607,7 @@
       "enclosure_length": "28144000",
       "itunes_duration": "1759",
       "speakers": [
-        "David Beckham",
-        "Dead Ringers",
-        "Jon Culshaw",
-        "Jan Ravens",
-        "Lewis McLeod",
-        "Duncan Wisbey",
-        "Naomi McDonald",
-        "Anil Desai"
+        "David Beckham"
       ],
       "topics": [
         "dead",
@@ -4437,14 +3627,7 @@
       "enclosure_length": "28144000",
       "itunes_duration": "1759",
       "speakers": [
-        "Steve Punt",
-        "Jamie MacDonald",
-        "Lucy Porter",
-        "Ed MacArthur",
-        "Zoe Tomalin",
-        "Cameron Loxdale",
-        "George Fouracres",
-        "David Thomas Sound"
+        "Steve Punt"
       ],
       "topics": [
         "december"
@@ -4464,12 +3647,7 @@
       "speakers": [
         "Hugh Dennis",
         "Glenn Moore",
-        "Steve Punt",
-        "Alex Kealy",
-        "Athena Kugblenu",
-        "Ignacio Lopez",
-        "Shamima Begum",
-        "Simon Alcock"
+        "Steve Punt"
       ],
       "topics": [
         "november"
@@ -4487,14 +3665,7 @@
       "enclosure_length": "26864000",
       "itunes_duration": "1679",
       "speakers": [
-        "Steve Punt",
-        "Lauren Pattison",
-        "Jess Robinson",
-        "Matt Hancock",
-        "Sarah Campbell",
-        "Mike Shephard",
-        "Alex Garrick-Wright",
-        "Luke Kempner"
+        "Steve Punt"
       ],
       "topics": [
         "november"
@@ -4513,13 +3684,7 @@
       "itunes_duration": "1706",
       "speakers": [
         "Steve Punt",
-        "Gemma Arrowsmith",
-        "Catherine Bohart",
-        "Fin Taylor",
-        "Hugh Dennis",
-        "Katie Storey",
-        "Carl Carzana",
-        "Cameron Loxdale"
+        "Gemma Arrowsmith"
       ],
       "topics": [
         "november"
@@ -4537,14 +3702,7 @@
       "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
-        "Steve Punt",
-        "Colin Hoult",
-        "Laura Lexx",
-        "Jordan Gray",
-        "Anna Mann",
-        "Prince Harry",
-        "Laura Major",
-        "Nathan Cowley"
+        "Steve Punt"
       ],
       "topics": [
         "november"
@@ -4562,14 +3720,7 @@
       "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "Steve Punt",
-        "Cally Beaton",
-        "Emmanuel Sonubi",
-        "Christy Coysh",
-        "Catherine Brinkworth",
-        "Alex Kealy",
-        "Peter Tellouche",
-        "Jade Gebbie"
+        "Steve Punt"
       ],
       "topics": [
         "october"
@@ -4707,13 +3858,7 @@
       "enclosure_length": "26848000",
       "itunes_duration": "1678",
       "speakers": [
-        "Henry Tobin",
-        "Starring Miles Jupp",
-        "Ingrid Oliver",
-        "Emma Sidi",
-        "Justin Edwards",
-        "Fergus Craig",
-        "Paul Doolan"
+        "August What"
       ],
       "topics": [
         "party",
@@ -4732,13 +3877,8 @@
       "enclosure_length": "26688000",
       "itunes_duration": "1668",
       "speakers": [
-        "Henry Tobin",
-        "Starring Miles Jupp",
-        "Ingrid Oliver",
-        "Emma Sidi",
-        "Justin Edwards",
-        "Ruth Bratt",
-        "Paul Doolan"
+        "August What",
+        "Prime Minister"
       ],
       "topics": [
         "party",
@@ -4757,13 +3897,7 @@
       "enclosure_length": "26656000",
       "itunes_duration": "1666",
       "speakers": [
-        "Henry Tobin",
-        "Starring Miles Jupp",
-        "Ingrid Oliver",
-        "Emma Sidi",
-        "Justin Edwards",
-        "Mali Ann Rees",
-        "Paul Doolan"
+        "August What"
       ],
       "topics": [
         "party",
@@ -4782,13 +3916,8 @@
       "enclosure_length": "26848000",
       "itunes_duration": "1678",
       "speakers": [
-        "Henry Tobin",
-        "Starring Miles Jupp",
-        "Ingrid Oliver",
-        "Emma Sidi",
-        "Justin Edwards",
-        "David Mumeni",
-        "Paul Doolan"
+        "August What",
+        "Prime Minister"
       ],
       "topics": [
         "party",
@@ -4807,13 +3936,7 @@
       "enclosure_length": "26384000",
       "itunes_duration": "1649",
       "speakers": [
-        "Henry Tobin",
-        "Starring Miles Jupp",
-        "Ingrid Oliver",
-        "Emma Sidi",
-        "Justin Edwards",
-        "David Momeni",
-        "Paul Doolan"
+        "July What"
       ],
       "topics": [
         "party",
@@ -4931,12 +4054,7 @@
       "itunes_duration": "1672",
       "speakers": [
         "Dead Ringers th June",
-        "Sue Gray",
-        "Michael Gove",
-        "Jon Culshaw",
-        "Jan Ravens",
-        "Lewis MacLeod",
-        "Debra Stephenson"
+        "Sue Gray"
       ],
       "topics": [
         "dead",
@@ -5073,9 +4191,7 @@
       "itunes_duration": "1677",
       "speakers": [
         "Andy Zaltzman",
-        "Andy Hamilton",
-        "Richard Morris",
-        "Katie Baum"
+        "Andy Hamilton"
       ],
       "topics": [
         "news",
@@ -5095,10 +4211,7 @@
       "enclosure_length": "26512000",
       "itunes_duration": "1657",
       "speakers": [
-        "Andy Zaltzman",
-        "Eleanor Tiernan",
-        "Richard Morris",
-        "Katie Baum"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5209,9 +4322,7 @@
       "itunes_duration": "1675",
       "speakers": [
         "Stevie Martin",
-        "Kieran Hodgson",
-        "Ian Smith",
-        "Chloe Petts"
+        "Kieran Hodgson"
       ],
       "topics": [
         "march"
@@ -5249,13 +4360,7 @@
       "itunes_duration": "1737",
       "speakers": [
         "Andy Zaltzman",
-        "Sindhu Vee",
-        "Daniel Finkelstein",
-        "Lucy Porter",
-        "Andy Zaltzman Chairs",
-        "Andy Zaltzman Additional",
-        "Alice Fraser",
-        "Mike Shephard"
+        "Sindhu Vee"
       ],
       "topics": [
         "news",
@@ -5277,12 +4382,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Angela Barnes",
-        "Ian Smith",
-        "Desiree Burch",
-        "Geoff Norcott",
-        "Andy Zaltzman Chairs",
-        "Andy Zaltzman Additional",
-        "Alice Fraser"
+        "Ian Smith"
       ],
       "topics": [
         "news",
@@ -5304,12 +4404,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Elis James",
-        "Olga Koch",
-        "Tim Shipman",
-        "Shaparak Khorsandi",
-        "Andy Zaltzman Chairs",
-        "Andy Zaltzman Additional",
-        "Alice Fraser"
+        "Olga Koch"
       ],
       "topics": [
         "news",
@@ -5329,14 +4424,7 @@
       "enclosure_length": "27792000",
       "itunes_duration": "1737",
       "speakers": [
-        "Andy Zaltzman",
-        "Mark Steel",
-        "Athena Kugblenu",
-        "Hugo Rifkind",
-        "Jackie Weaver",
-        "Andy Zaltzman Chairs",
-        "Andy Zaltzman Additional",
-        "Alice Fraser"
+        "News Quiz"
       ],
       "topics": [
         "news",
@@ -5359,11 +4447,7 @@
         "Andy Zaltzman",
         "Elis James",
         "Ola Labib",
-        "Ed Balls",
-        "Andy Zaltzman Chairs",
-        "Andy Zaltzman Additional",
-        "Alice Fraser",
-        "Benjamin Partridge"
+        "Ed Balls"
       ],
       "topics": [
         "news",
@@ -5383,14 +4467,7 @@
       "enclosure_length": "26512000",
       "itunes_duration": "1657",
       "speakers": [
-        "Andy Zaltzman",
-        "Nish Kumar",
-        "Rachel Fairburn",
-        "Neil Delamere",
-        "Isabel Hardman",
-        "Alice Fraser",
-        "Heidi Regan",
-        "Rhiannon Shaw"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5410,14 +4487,7 @@
       "enclosure_length": "26544000",
       "itunes_duration": "1659",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris McCausland",
-        "Hugo Rifkind",
-        "Heidi Regan",
-        "Cameron Loxdale",
-        "Stephen Buchanan",
-        "Tasha Dhanraj"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5437,14 +4507,7 @@
       "enclosure_length": "26720000",
       "itunes_duration": "1670",
       "speakers": [
-        "Andy Zaltzman",
-        "Ayesha Hazarika",
-        "Paul Sinha",
-        "Simon Evans",
-        "Sue Gray-like",
-        "Michael Gove",
-        "Alice Fraser",
-        "Mike Shephard"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5464,13 +4527,7 @@
       "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris McCausland",
-        "Ahir Shah",
-        "Simon Alcock",
-        "Nathan D'Arcy Roberts",
-        "Rajiv Karia"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5490,9 +4547,7 @@
       "enclosure_length": "26496000",
       "itunes_duration": "1656",
       "speakers": [
-        "Andy Zaltzman",
-        "Richard Morris",
-        "Katie Baum"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5511,14 +4566,7 @@
       "enclosure_length": "41216000",
       "itunes_duration": "2576",
       "speakers": [
-        "Dead Ringers Christmas Specials",
-        "Man Flu",
-        "Ronnie Corbett",
-        "Jon Culshaw",
-        "Lewis Macleod",
-        "Jan Ravens",
-        "Debra Stephenson",
-        "Duncan Wisbey"
+        "Dead Ringers Christmas Specials"
       ],
       "topics": [
         "dead",
@@ -5541,13 +4589,7 @@
       "enclosure_length": "26464000",
       "itunes_duration": "1654",
       "speakers": [
-        "Dead Ringers Christmas Specials",
-        "Chris Whitty",
-        "Lewis Macleod",
-        "Jan Ravens",
-        "Debra Stephenson",
-        "Duncan Wisbey",
-        "Tom Jamieson"
+        "Dead Ringers Christmas Specials"
       ],
       "topics": [
         "dead",
@@ -5568,14 +4610,7 @@
       "enclosure_length": "24048000",
       "itunes_duration": "1503",
       "speakers": [
-        "Dead Ringers Christmas Specials",
-        "Jon Culshaw",
-        "Lewis Macleod",
-        "Jan Ravens",
-        "Debra Stephenson",
-        "Duncan Wisbey",
-        "Tom Jamieson",
-        "Laurence Howarth"
+        "Dead Ringers Christmas Specials"
       ],
       "topics": [
         "dead",
@@ -5599,10 +4634,7 @@
         "Janine Harouni",
         "Jamie MacDonald",
         "Tim Sutton",
-        "Steve Punt",
-        "Kieran Hodgson",
-        "Nimisha Odedra",
-        "Sarah Sharpe"
+        "Steve Punt"
       ],
       "topics": [
         "december",
@@ -5629,10 +4661,7 @@
       "itunes_duration": "1670",
       "speakers": [
         "Geoff Norcott",
-        "Steve Punt",
-        "Emma Sidi",
-        "Jason Forbes",
-        "Sarah Sharpe"
+        "Steve Punt"
       ],
       "topics": [
         "november",
@@ -5658,10 +4687,7 @@
       "itunes_duration": "1673",
       "speakers": [
         "Josh Pugh",
-        "Beardyman Steve Punt",
-        "Luke Kempner",
-        "Natasha Hodgson",
-        "Sarah Sharpe"
+        "Beardyman Steve Punt"
       ],
       "topics": [
         "november",
@@ -5687,10 +4713,7 @@
         "Michael Spicer",
         "Priya Hall",
         "Ignacio Lopez",
-        "Steve Punt",
-        "Igancio Lopez",
-        "Luke Kempner",
-        "Karen Bartke"
+        "Steve Punt"
       ],
       "topics": [
         "november",
@@ -5717,12 +4740,7 @@
       "itunes_duration": "1673",
       "speakers": [
         "Jess Robinson",
-        "Steve Punt",
-        "Alex Silverman",
-        "Gemma Arrowsmith",
-        "Luke Kempner Producer",
-        "Pete Strauss Production Co-Ordinator",
-        "Sarah Sharpe"
+        "Steve Punt"
       ],
       "topics": [
         "october",
@@ -5746,14 +4764,7 @@
       "enclosure_length": "26640000",
       "itunes_duration": "1665",
       "speakers": [
-        "Andy Zaltzman",
-        "Ayesha Hazarika",
-        "Matt Winning",
-        "Geoff Norcott",
-        "Elis James",
-        "Brian Cox",
-        "Sajid Javid",
-        "Alice Fraser"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5777,9 +4788,7 @@
         "Michael Deacon",
         "Chris McCausland",
         "Eshaan Akbar",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Catherine Brinkworth"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5802,11 +4811,7 @@
         "Kerry Godliman",
         "Anand Menon",
         "Ola Labib",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Heidi Regan",
-        "Suchandrika Chakrabarti",
-        "Tasha Dhanraj"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5830,10 +4835,7 @@
         "Angela Barnes",
         "Alun Cochrane",
         "Matt Forde",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Max Davis",
-        "Tasha Dhanraj"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -5856,11 +4858,7 @@
         "Hugo Rifkind",
         "Susie McCabe",
         "Ria Lina",
-        "Andrew Maxwell",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Mike Shephard",
-        "Rajiv Karia"
+        "Andrew Maxwell"
       ],
       "topics": [
         "news",
@@ -5882,11 +4880,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Paul Sinha",
-        "Neil Delamere",
-        "Emma Raducanu",
-        "Alice Fraser",
-        "Max Davis",
-        "Richard Stott"
+        "Neil Delamere"
       ],
       "topics": [
         "news",
@@ -5948,14 +4942,8 @@
       "enclosure_length": "26768000",
       "itunes_duration": "1673",
       "speakers": [
-        "Miles Jupp",
-        "Henry Tobin",
-        "Ingrid Oliver Natalie",
-        "Emma Sidi Jones",
-        "Justin Edwards Lizzie",
-        "Alice Fraser",
-        "Paul Doolan",
-        "Jon Hunter"
+        "Going Green",
+        "Prime Minister"
       ],
       "topics": [
         "party",
@@ -5975,14 +4963,7 @@
       "enclosure_length": "26608000",
       "itunes_duration": "1663",
       "speakers": [
-        "Miles Jupp",
-        "Henry Tobin",
-        "Ingrid Oliver Natalie",
-        "Emma Sidi Jones",
-        "Justin Edwards",
-        "Paul Doolan",
-        "Jon Hunter",
-        "Richard Morris"
+        "Prime Minister"
       ],
       "topics": [
         "party",
@@ -6001,14 +4982,8 @@
       "enclosure_length": "26784000",
       "itunes_duration": "1674",
       "speakers": [
-        "Miles Jupp",
-        "Henry Tobin",
-        "Ingrid Oliver Natalie",
-        "Emma Sidi Jones",
-        "Justin Edwards Albert",
-        "Joseph Marcell Written",
-        "Paul Doolan",
-        "Jon Hunter"
+        "Parish Council",
+        "Prime Minister"
       ],
       "topics": [
         "party",
@@ -6029,14 +5004,8 @@
       "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "Miles Jupp",
-        "Henry Tobin",
-        "Scott Machin",
-        "Ingrid Oliver Natalie",
-        "Emma Sidi Jones",
-        "Justin Edwards Scott",
-        "Kiell Smith-Bynoe Written",
-        "Paul Doolan"
+        "New Party",
+        "Prime Minister"
       ],
       "topics": [
         "party",
@@ -6055,14 +5024,8 @@
       "enclosure_length": "26880000",
       "itunes_duration": "1680",
       "speakers": [
-        "Miles Jupp",
-        "Henry Tobin",
-        "Ingrid Oliver Natalie",
-        "Emma Sidi Jones",
-        "Justin Edwards",
-        "Paul Doolan",
-        "Jon Hunter",
-        "Richard Morris"
+        "Road Trip",
+        "Prime Minister"
       ],
       "topics": [
         "party",
@@ -6083,14 +5046,7 @@
       "enclosure_length": "25264000",
       "itunes_duration": "1579",
       "speakers": [
-        "Dead Ringers",
-        "Ronan Keating",
-        "Jon Culshaw",
-        "Lewis Macleod",
-        "Jan Ravens",
-        "Debra Stephenson",
-        "Tom Jamieson",
-        "Laurence Howarth"
+        "Dead Ringers"
       ],
       "topics": [
         "dead",
@@ -6111,13 +5067,7 @@
       "itunes_duration": "1750",
       "speakers": [
         "Dead Ringers",
-        "Angela Rayner",
-        "Andy Murray",
-        "Jon Culshaw",
-        "Lewis Macleod",
-        "Jan Ravens",
-        "Debra Stephenson",
-        "Duncan Wisbey"
+        "Angela Rayner"
       ],
       "topics": [
         "dead",
@@ -6139,11 +5089,7 @@
       "speakers": [
         "Dead Ringers",
         "Sajid Javid",
-        "Harry Kane",
-        "Andy Murray",
-        "Tom Jamieson",
-        "Nev Fountain",
-        "Laurence Howarth"
+        "Harry Kane"
       ],
       "topics": [
         "dead",
@@ -6164,12 +5110,7 @@
       "itunes_duration": "1613",
       "speakers": [
         "Dead Ringers",
-        "Chris Whitty",
-        "Jon Culshaw",
-        "Lewis Macleod",
-        "Jan Ravens",
-        "Duncan Wisbey",
-        "Tom Jamieson"
+        "Chris Whitty"
       ],
       "topics": [
         "dead",
@@ -6189,13 +5130,7 @@
       "enclosure_length": "28288000",
       "itunes_duration": "1768",
       "speakers": [
-        "Dead Ringers",
-        "Martin Bashir",
-        "Tom Jamieson",
-        "Nev Fountain",
-        "Laurence Howarth",
-        "Tom Coles Ed Amsden",
-        "Jeffrey Aidoo"
+        "Dead Ringers"
       ],
       "topics": [
         "dead",
@@ -6215,14 +5150,8 @@
       "enclosure_length": "26752000",
       "itunes_duration": "1672",
       "speakers": [
-        "Tom Cruise",
-        "Tom Jamieson",
-        "Nev Fountain",
-        "Laurence Howarth",
-        "Tom Coles Ed Amsden",
-        "Jeffrey Aidoo",
-        "Simon Alcock",
-        "James Bugg"
+        "Dead Ringers",
+        "Will England"
       ],
       "topics": [
         "dead",
@@ -6243,13 +5172,7 @@
       "itunes_duration": "1675",
       "speakers": [
         "Andy Zaltzman",
-        "Andrew Maxwell",
-        "Alex Massie",
-        "Alice Fraser",
-        "Max Davis",
-        "Tasha Dhanraj",
-        "Richard Morris",
-        "Cherlynn Andrew-Wilfred Sound"
+        "Andrew Maxwell"
       ],
       "topics": [
         "news",
@@ -6272,12 +5195,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Lucy Porter",
-        "Alice Fraser",
-        "Eleanor Morton",
-        "Rajiv Karia",
-        "Simon Alcock",
-        "Richard Morris",
-        "Cherlynn Andrew-Wilfred Sound"
+        "Alice Fraser"
       ],
       "topics": [
         "news",
@@ -6299,10 +5217,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Geoff Norcott",
-        "Eleanor Tiernan",
-        "Richard Morris",
-        "Cherlynn Andrew-Wilfred Sound",
-        "Marc Willcox"
+        "Eleanor Tiernan"
       ],
       "topics": [
         "news",
@@ -6323,13 +5238,7 @@
       "itunes_duration": "1665",
       "speakers": [
         "Andy Zaltzman",
-        "Danny Finkelstein",
-        "Catherine Bohart",
-        "Darren Harriott",
-        "Alice Fraser",
-        "Max Davis",
-        "Rajiv Karia",
-        "Hannah Platt"
+        "Danny Finkelstein"
       ],
       "topics": [
         "news",
@@ -6352,11 +5261,7 @@
         "Andy Zaltzman",
         "Paul Sinha",
         "Angela Barnes",
-        "Ayesha Hazarika",
-        "Ian Smith",
-        "Alice Fraser",
-        "Mike Shephard",
-        "Tasha Dhanraj"
+        "Ayesha Ha"
       ],
       "topics": [
         "news",
@@ -6379,11 +5284,7 @@
         "Andy Zaltzman",
         "Simon Evans",
         "Helen Lewis",
-        "Elis James",
-        "Alice Fraser",
-        "Mike Shephard",
-        "Tasha Dhanraj",
-        "Tom Mayhew"
+        "Elis James"
       ],
       "topics": [
         "news",
@@ -6406,12 +5307,7 @@
       "speakers": [
         "Andy Zaltman",
         "Andrew Maxwell",
-        "Athena Kugblenu",
-        "Anne McElvoy",
-        "Chris McCausland",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Mike Shephard"
+        "Athena Kug"
       ],
       "topics": [
         "news",
@@ -6434,12 +5330,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Hugo Rifkind",
-        "Susie McCabe",
-        "Lucy Porter",
-        "Alice Fraser",
-        "Simon Alcock",
-        "Tasha Dhanraj",
-        "Jenan Younis"
+        "Susie McCabe"
       ],
       "topics": [
         "news",
@@ -6462,11 +5353,7 @@
       "speakers": [
         "Alun Cochrane",
         "Rachel Parris",
-        "Steve Punt",
-        "Katie Norris",
-        "Luke Kempner Producer",
-        "Pete Strauss Production Co-Ordinator",
-        "David Thomas"
+        "Steve Punt"
       ],
       "topics": [
         "april",
@@ -6490,12 +5377,7 @@
       "itunes_duration": "1670",
       "speakers": [
         "Laura Lexx",
-        "Steve Punt",
-        "Geoff Norcott",
-        "Emily Lloyd-Saini",
-        "Kieran Hodgson Producer",
-        "Pete Strauss Production Co-Ordinator",
-        "David Thomas"
+        "Steve Punt"
       ],
       "topics": [
         "april",
@@ -6521,12 +5403,7 @@
       "speakers": [
         "Janine Harouni",
         "Rachel Parris",
-        "Steve Punt",
-        "Chiara Goldsmith",
-        "Luke Kempner Producer",
-        "Pete Strauss Production Co-Ordinator",
-        "Sarah Sharpe",
-        "David Thomas"
+        "Steve Punt"
       ],
       "topics": [
         "march",
@@ -6553,11 +5430,7 @@
         "Lucy Porter",
         "Eshaan Akbar",
         "Jess Robinson",
-        "Steve Punt",
-        "Felix Hagen",
-        "Jason Forbes",
-        "Karen Bartke",
-        "Pete Strauss Production Co-Ordinator"
+        "Steve Punt"
       ],
       "topics": [
         "march",
@@ -6582,11 +5455,7 @@
       "itunes_duration": "1684",
       "speakers": [
         "Ellie Taylor",
-        "Steve Punt",
-        "George Fouracres",
-        "Gemma Arrowsmith Producer",
-        "Pete Strauss Production Co-Ordinator",
-        "David Thomas"
+        "Steve Punt"
       ],
       "topics": [
         "march",
@@ -6612,11 +5481,7 @@
       "speakers": [
         "Chris McCausland",
         "Tim Sutton",
-        "Steve Punt",
-        "George Fouracres",
-        "Karen Bartke",
-        "Adnan Ahmed Production Co-Ordinator",
-        "David Thomas"
+        "Steve Punt"
       ],
       "topics": [
         "march",
@@ -6627,34 +5492,6 @@
         "sooz",
         "kempner"
       ]
-    },
-    {
-      "key": "029be5ad60266766bd3e38110759b0ff4817ee18",
-      "title": "The Now Show - 26th February - ft Jess Fostekew, Beardyman and Ken Cheng...",
-      "published_at": "2021-02-26T19:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0985lfb",
-      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! In the first show of the new series, they are joined by Jessica Fostekew who relays her time volunteering in a vaccination centre. Ken Cheng talks about his experiences as a Chinese Briton plus music from Beardyman... Voice Actors: Luke Kempner and Gemma Arrowsmith Producer: Adnan Ahmed Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0985j68.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "28480000",
-      "itunes_duration": "1780",
-      "speakers": [
-        "Ken Cheng",
-        "Steve Punt",
-        "Jessica Fostekew",
-        "Luke Kempner",
-        "Gemma Arrowsmith Producer",
-        "Adnan Ahmed Production Co-Ordinator",
-        "David Thomas"
-      ],
-      "topics": [
-        "february",
-        "jess",
-        "fostekew",
-        "beardyman",
-        "cheng"
-      ]
     }
   ]
 }
@@ -6663,147 +5500,147 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — The News Quiz: Ep6. Is the UK getting sunnier? — speakers: Joining Andy, Alasdair Beckett-King, Rachel Fairburn, Stephen Bush, Mhairi Black Written, Andy Zaltzman, Cody Dahler, Eve Delaney
-- 2026-02-13 — The News Quiz: Ep5. The Prince of Darkness — speakers: Peter Mandelson, Helping Andy, Desiree Burch, Pierre Novellie, Daniel Finkelstein, Catherine Bohart, Andy Zaltzman
-- 2026-02-06 — The News Quiz: Ep4. By-elections, hello defections — speakers: Suella Braverman, Hugo Rifkind, Holly Walsh, Andy Zaltzman, Christina Riggs, Cameron Loxdale, Sarah Mills Producer, Pete Strauss Production Coordinator
-- 2026-01-30 — The News Quiz: Ep3. Bored of peace — speakers: Lucy Porter, Alasdair Beckett-King, Stephen Bush, Shappi Khorsandi, Andy Zaltzman, Christina Riggs, Cameron Loxdale, Ruth Husko
-- 2026-01-23 — The News Quiz: Ep2. U-Turn, We Defect — speakers: Helping Andy, Susie McCabe, Paul Sinha, Cindy Yu, Scott Bennett, Andy Zaltzman, Mike Shephard, Eleanor Morton
-- 2026-01-16 — The News Quiz: Ep1. Red, White, Blue and Green-land — speakers: Ian Smith, Nicolás Maduro, Grok AI, Helping Ian, Lucy Porter, Geoff Norcott, Mike Shephard, Alex Kealy
-- 2026-01-09 — Best of The News Quiz 2025 — speakers: Leo Xiv, Andy Zaltzman, Rajiv Karia, Pete Strauss Production Coordinator
-- 2026-01-02 — The Matt Forde Focus Group: Boxing Day Special — speakers: Matt Forde, Michael Gove, Charles Dickens, Matt Forde Additional, Karl Minns, Laura Claxton, Richard Garvin Producer, Richard Garvin
-- 2025-12-26 — Dead Ringers Christmas: Ep 2. A Very Kemi Christmas and a Lammy New Year — speakers: Jon Culshaw, Jan Ravens, Duncan Wisbey, Jess Robinson, Nev Fountain, Tom Jamieson, Laurence Howarth, Tom Coles
-- 2025-12-19 — Dead Ringers Christmas: Ep 1. Farage Goes to School, The Snowman v Keir, and Alan Carr: Special Negotiator — speakers: Alan Carr, Jan Ravens, Jess Robinson, Kieran Hodgson, Josh Berry, Nev Fountain, Tom Jamieson
-- 2025-12-12 — The Naked Week: Ep6. Parties, polycules, and pardoning — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Rosie Holt, Fiona Mundy, Holly Alderson, Kayley Williams, Molly Punshon
-- 2025-12-05 — The Naked Week: Ep5. A Budget, A Bombshell, and a Bedtime Story. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Kate Cheka, Janet Ellis Investigations Team, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
-- 2025-11-28 — The Naked Week: Ep4. Immigration, Espionage, and a game of Guess Who? - Epstein Edition. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Larry Budd, Alan Dedicoat, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
-- 2025-11-21 — The Naked Week: Ep3. Trump, Traitors, and RIP Tim Davie — speakers: Rip Tim Davie, Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Paul Gorton, Milo Edwards, James Akka, Holly Skinner
-- 2025-11-14 — The Naked Week: Ep2. Trains, Tice, and Taylor Swift — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Paul Dunphy, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
-- 2025-11-07 — The Naked Week: Ep1. Royal lodges, asylum hotels and witches. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Bella Hull, Lisa Webb, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
-- 2025-10-31 — The News Quiz: Ep8. Titles, Jewels and "Chocolate" Bars — speakers: Laura Lexx, Ahir Shah, Ava Santina, Andy Zaltzman, Andy Zaltzman Additional, Milo Edwards, Cameron Loxdale, Ruth Husko
-- 2025-10-24 — The News Quiz: Ep7. Forecast for Inflation and Flooding — speakers: Andy Zaltzman, Adam Kay, Stephen Bush, Daman Bamrah, Ruth Husko, Christina Riggs, Peter Tellouche, Rajiv Karia
-- 2025-10-17 — The News Quiz: Ep6. Peace Deals and Police Powers — speakers: Andy Zaltzman, Scott Bennett, Ayesha Hazarika, Kate Cheka, Ian Smith, Jain Edwards, Ruth Husko, Rajiv Karia
-- 2025-10-10 — The News Quiz: Ep5. Less Flags, More Bunting — speakers: Kier Starmer, Helping Andy Zaltzman, Ian Smith, Andy Zaltzman, Cody Dahler, John Tothill, Georgia Keating, James Robinson Executive
-- 2025-10-03 — The News Quiz: Ep 4. A Lib Dem Conference and a Seagull Summit — speakers: Lib Dem Conference, Lib Dems, Andy Zaltzman, Simon Evans, Neil Delamere, Tiff Stevenson, Cindy Yu, Jade Gebbie
-- 2025-09-26 — The News Quiz: Ep 3. Crossing the Pond, Crossing the Floor — speakers: Andy Zaltzman, Pierre Novellie, Sara Barron, Lucy Porter, Ed Davey, Penny Mordaunt, Cody Dahler, Ruth Husko
-- 2025-09-19 — The News Quiz: Ep 2. Cards revealed and Reshufffle — speakers: Andy Zaltzman, Susie McCabe, Geoff Norcott, Ash Sarkar, Simon Alcock, Carwyn Blayney, Ruth Husko, Alex Kealy
-- 2025-09-12 — The News Quiz: Ep 1. Flags out, stamp duty. Stamped out, off duty. — speakers: Andy Zaltzman, Alasdair Beckett-King, Andrew Maxwell, Lucy Porter, Coco Khan, Angela Rayner, Xi Jinping, St George
-- 2025-09-05 — Too Long; Didn't Read: Ep 6. Computer says no — speakers: Catherine Bohart, Olga Koch, Kate Devlin, Sunil Patel, Madeleine Brettingham, Rose Johnson, Pravanya Pillay, David Thomas
-- 2025-08-29 — Too Long; Didn't Read: Ep 5. The Special Relationship — speakers: Catherine Bohart, John Bolton, Sunil Patel, Madeleine Brettingham, Catherine Brinkworth, Priya Hall Producer, David Thomas, Katie Sayer
-- 2025-08-22 — Too Long; Didn't Read: Ep 4. We've got our work cut out — speakers: Isabel Berwick, Sunil Patel, Catherine Bohart, Madeleine Brettingham, Georgie Flinn, Christina Riggs, David Thomas, Katie Sayer
-- 2025-08-15 — Too Long; Didn't Read: Ep 3. Let's get this party started — speakers: Catherine Bohart, Ian Dunt, Sunil Patel, Madeleine Brettingham, Gareth Gwynn, John Tothill, David Thomas, Katie Sayer
-- 2025-08-08 — Too Long; Didn't Read: Ep 2. It's a taxing subject — speakers: Catherine Bohart, Sunil Patel, Emma Chamberlain, Madeleine Brettingham, Tom Neenan, Pravanya Pillay, David Thomas, Katie Sayer
-- 2025-08-01 — Too Long; Didn't Read: Ep 1. There's something in the water — speakers: Catherine Bohart, Phil Wang, Sunil Patel, Madeleine Brettingham, Tom Neenan, Pravanya Pillay, David Thomas, Katie Sayer
-- 2025-07-25 — Dead Ringers: Ep 6. Super-injunctions, Superheroes, and, er, Diane Abbott. — speakers: Diane Abbott, Jon Culshaw, Jan Ravens, Lewis Macleod, Jess Robinson, Duncan Wisbey, Tom Jamieson, Laurence Howarth
-- 2025-07-18 — Dead Ringers: Ep 5. Man of Steel, Woman of Salt Path — speakers: Salt Path, Jan Ravens, Jon Culshaw, Lewis Macleod, Jess Robinson, Duncan Wisbey, Tom Jamieson, Laurence Howarth
-- 2025-07-11 — Dead Ringers: Ep 4. Welfare woes and Wimbledon — speakers: Nev Fountain, Tom Jamieson, Laurence Howarth, Rob Darke, Sophie Dickson, Toussaint Douglass, Peter Tellouche, Tom Coles
-- 2025-07-04 — Dead Ringers: Ep 3. Glastonbury, Benefits, and Bombs. — speakers: Martin Lewis, Jan Ravens, Jon Culshaw, Lewis Macleod, Jess Robinson, Duncan Wisbey, Kieran Hodgson, Nev Fountain
-- 2025-06-27 — Dead Ringers: Ep2. De-escalation and nuclear proliferation — speakers: Laura Kuenssberg, Ross Kemp, Grooming Gangs, Jan Ravens, Jon Culshaw, Lewis Macleod, Jess Robinson, Duncan Wisbey
-- 2025-06-20 — Dead Ringers: Ep1. Greta, Trump and Eau de Farage — speakers: Greta Thunberg, Gary Lineker, Jan Ravens, Jon Culshaw, Jess Robinson, Kieran Hodgson, Duncan Wisbey, Nev Fountain
-- 2025-06-13 — The News Quiz: Ep 8. Musk and Trump Break Up — speakers: Trump Break, Andy Zaltzman, Glenn Moore, Athena Kugblenu, Marie Le Conte, Eve Delaney, Jade Gebbie, Cameron Loxdale
-- 2025-06-06 — The News Quiz: Ep 7. Tariff Turmoil — speakers: Armando Iannucci, Ria Lina, Ian Smith, Cindy Yu, King’s Canadian, Andy Zaltzman, Mike Shephard, Peter Tellouche
-- 2025-05-30 — The News Quiz: Ep 6. Big Deals — speakers: Andy Zaltzman, Andrew Maxwell, Ian Smith, Alex Kealy, Cindy Yu, Christina Riggs, Laura Major, Christian Manley
-- 2025-05-23 — The News Quiz: Ep 5. An Island of Strangers — speakers: Andy Zaltzman, Alasdair Beckett-King, Sara Barron, Anushka Asthana, Samira Banks, Catherine Brinkworth, Cody Dahler, Rajiv Karia
-- 2025-05-16 — The News Quiz: Ep 4. Conclave Concluded — speakers: Concluded Andy Zaltzman, Geoff Norcott, Ria Lina, Ava Santina, Alasdair Beckett-King, Andy Zaltzman, Eve Delaney, Jade Gebbie
-- 2025-05-09 — The News Quiz: Ep 3. Power Outrage — speakers: Andy Zaltzman, Geoff Norcott, Lucy Porter, Ed Byrne, Marie Le Conte, Ruby Clyde, Eve Delaney, Cameron Loxdale
-- 2025-05-02 — The News Quiz: Ep 2. Elections (Local and Papal) — speakers: Andy Zaltzman, Andrew Maxwell, Zing Tsjeng, Jessica Fostekew, Pierre Novellie, Yorkshire Gladiators, Chris Ballard, Cody Dahler
-- 2025-04-25 — The News Quiz: Ep 1. Space, Steel and Strikes — speakers: Andy Zaltzman, Athena Kugblenu, Mike Shephard, Christina Riggs, Eve Delaney, Ben Pope, Rajiv Karia, Pete Strauss Production Coordinator
-- 2025-04-18 — The Naked Week: Ep6. Tariffs, Theme Parks, and Twister. — speakers: Theme Parks, Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Freya Parker, Alicia Fitzgerald
-- 2025-04-11 — The Naked Week: Ep5. Tariffic Trump retaliation, and Woop Woop - it's the sound of the Thought Police. — speakers: Woop Woop, Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Larry Budd, Laura Grimshaw
-- 2025-04-04 — The Naked Week: Ep4. Performing, Potholes, and Paddington. — speakers: Rachel Reeves, Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Ania Magliano, Laura Grimshaw
-- 2025-03-28 — The Naked Week: Ep 3. Benefits, Borders, and a game of Truss or Towers. — speakers: Andrew Hunter Murray, Jon Holmes Katie Sayer, Sarah Dempster Jason Hazeley, Freya Shaw, Matt Brown, Rubina Pabani, Alice Stapleton
-- 2025-03-21 — The Naked Week: Ep 2. Brick Walls, Dead Wood, and Charlie. — speakers: Brick Walls, Dead Wood, Andrew Hunter Murray, Jon Holmes Katie Sayer, Freya Shaw, Matt Brown, Paul Dunphy, Donna Moore
-- 2025-03-14 — The Naked Week: Ep 1. Oval arguments, awful algorithms, and a game of Top (Donald) Trumps. — speakers: Rosie Holt, Andrew Hunter Murray, Jon Holmes Katie Sayer, Jason Hazeley, Freya Shaw, Matt Brown, Nussaibah Younis, Laura Windsor
-- 2025-03-07 — The News Quiz: Ep8. Mr. Starmer Goes To Washington — speakers: Starmer Goes, Andy Zaltzman, Scott Bennett, Sara Barron, Alex Massie, Lucy Porter, Simon Alcock, David Duncan
-- 2025-02-28 — The News Quiz: Ep7. Lying and Reassurance — speakers: Andy Zaltzman, Ian Smith, Laura Lexx, Simon Alcock, David Duncan, Laura Major, Christina Riggs, Peter Tellouche
+- 2026-02-20 — The News Quiz: Ep6. Is the UK getting sunnier?
+- 2026-02-13 — The News Quiz: Ep5. The Prince of Darkness — speakers: Peter Mandelson
+- 2026-02-06 — The News Quiz: Ep4. By-elections, hello defections — speakers: Suella Braverman’s defec
+- 2026-01-30 — The News Quiz: Ep3. Bored of peace
+- 2026-01-23 — The News Quiz: Ep2. U-Turn, We Defect
+- 2026-01-16 — The News Quiz: Ep1. Red, White, Blue and Green-land — speakers: Ian Smith
+- 2026-01-09 — Best of The News Quiz 2025
+- 2026-01-02 — The Matt Forde Focus Group: Boxing Day Special — speakers: Matt Forde
+- 2025-12-26 — Dead Ringers Christmas: Ep 2. A Very Kemi Christmas and a Lammy New Year
+- 2025-12-19 — Dead Ringers Christmas: Ep 1. Farage Goes to School, The Snowman v Keir, and Alan Carr: Special Negotiator — speakers: Alan Carr
+- 2025-12-12 — The Naked Week: Ep6. Parties, polycules, and pardoning
+- 2025-12-05 — The Naked Week: Ep5. A Budget, A Bombshell, and a Bedtime Story. — speakers: Bedtime Story
+- 2025-11-28 — The Naked Week: Ep4. Immigration, Espionage, and a game of Guess Who? - Epstein Edition. — speakers: Andrew Hunter Murray
+- 2025-11-21 — The Naked Week: Ep3. Trump, Traitors, and RIP Tim Davie — speakers: Rip Tim Davie
+- 2025-11-14 — The Naked Week: Ep2. Trains, Tice, and Taylor Swift
+- 2025-11-07 — The Naked Week: Ep1. Royal lodges, asylum hotels and witches.
+- 2025-10-31 — The News Quiz: Ep8. Titles, Jewels and "Chocolate" Bars — speakers: Laura Lexx, Ahir Shah, Ava Santina, Andy Zaltzman
+- 2025-10-24 — The News Quiz: Ep7. Forecast for Inflation and Flooding
+- 2025-10-17 — The News Quiz: Ep6. Peace Deals and Police Powers — speakers: Peace Deals, Middle East
+- 2025-10-10 — The News Quiz: Ep5. Less Flags, More Bunting — speakers: Kier Starmer
+- 2025-10-03 — The News Quiz: Ep 4. A Lib Dem Conference and a Seagull Summit — speakers: Lib Dem Conference, Lib Dems
+- 2025-09-26 — The News Quiz: Ep 3. Crossing the Pond, Crossing the Floor — speakers: Andy Zaltzman, Pierre Novellie, Sara Barron, Lucy Porter
+- 2025-09-19 — The News Quiz: Ep 2. Cards revealed and Reshufffle — speakers: Andy Zaltzman, Susie McCabe, Geoff Norcott, Ash Sarkar
+- 2025-09-12 — The News Quiz: Ep 1. Flags out, stamp duty. Stamped out, off duty. — speakers: Andy Zaltzman, Alasdair Beckett-King, Andrew Maxwell, Lucy Porter, Coco Khan
+- 2025-09-05 — Too Long; Didn't Read: Ep 6. Computer says no — speakers: Catherine Bohart
+- 2025-08-29 — Too Long; Didn't Read: Ep 5. The Special Relationship — speakers: Catherine Bohart
+- 2025-08-22 — Too Long; Didn't Read: Ep 4. We've got our work cut out
+- 2025-08-15 — Too Long; Didn't Read: Ep 3. Let's get this party started — speakers: Catherine Bohart
+- 2025-08-08 — Too Long; Didn't Read: Ep 2. It's a taxing subject — speakers: Catherine Bohart
+- 2025-08-01 — Too Long; Didn't Read: Ep 1. There's something in the water — speakers: Catherine Bohart
+- 2025-07-25 — Dead Ringers: Ep 6. Super-injunctions, Superheroes, and, er, Diane Abbott. — speakers: Diane Abbott
+- 2025-07-18 — Dead Ringers: Ep 5. Man of Steel, Woman of Salt Path — speakers: Salt Path
+- 2025-07-11 — Dead Ringers: Ep 4. Welfare woes and Wimbledon
+- 2025-07-04 — Dead Ringers: Ep 3. Glastonbury, Benefits, and Bombs.
+- 2025-06-27 — Dead Ringers: Ep2. De-escalation and nuclear proliferation
+- 2025-06-20 — Dead Ringers: Ep1. Greta, Trump and Eau de Farage
+- 2025-06-13 — The News Quiz: Ep 8. Musk and Trump Break Up — speakers: Trump Break, Andy Zaltzman, Glenn Moore, Athena Kugblenu, Marie Le Conte
+- 2025-06-06 — The News Quiz: Ep 7. Tariff Turmoil — speakers: Armando Iannucci, Ria Lina, Ian Smith, Cindy Yu
+- 2025-05-30 — The News Quiz: Ep 6. Big Deals — speakers: Andy Zaltzman, Andrew Maxwell, Ian Smith, Alex Kealy, Cindy Yu
+- 2025-05-23 — The News Quiz: Ep 5. An Island of Strangers — speakers: Andy Zaltzman, Alasdair Beckett-King, Sara Barron
+- 2025-05-16 — The News Quiz: Ep 4. Conclave Concluded — speakers: Concluded Andy Zaltzman, Geoff Norcott, Ria Lina, Ava Santina, Alasdair Beckett-King
+- 2025-05-09 — The News Quiz: Ep 3. Power Outrage — speakers: Andy Zaltzman, Geoff Norcott, Lucy Porter, Ed Byrne, Marie Le Conte
+- 2025-05-02 — The News Quiz: Ep 2. Elections (Local and Papal) — speakers: Andy Zaltzman, Andrew Maxwell, Zing Tsjeng, Jessica Fostekew, Pierre Novellie
+- 2025-04-25 — The News Quiz: Ep 1. Space, Steel and Strikes — speakers: Andy Zaltzman, Athena Kugblenu, bin wor
+- 2025-04-18 — The Naked Week: Ep6. Tariffs, Theme Parks, and Twister. — speakers: Theme Parks
+- 2025-04-11 — The Naked Week: Ep5. Tariffic Trump retaliation, and Woop Woop - it's the sound of the Thought Police. — speakers: Woop Woop
+- 2025-04-04 — The Naked Week: Ep4. Performing, Potholes, and Paddington.
+- 2025-03-28 — The Naked Week: Ep 3. Benefits, Borders, and a game of Truss or Towers.
+- 2025-03-21 — The Naked Week: Ep 2. Brick Walls, Dead Wood, and Charlie. — speakers: Brick Walls, Dead Wood
+- 2025-03-14 — The Naked Week: Ep 1. Oval arguments, awful algorithms, and a game of Top (Donald) Trumps.
+- 2025-03-07 — The News Quiz: Ep8. Mr. Starmer Goes To Washington — speakers: Starmer Goes, Andy Zaltzman, Scott Bennett, Sara Barron, Alex Massie, Lucy Porter
+- 2025-02-28 — The News Quiz: Ep7. Lying and Reassurance — speakers: Andy Zaltzman, Ian Smith, Laura Lexx
 - 2025-02-21 — The News Quiz: Ep6. Corruption Leagues and Leaked WhatsApps — speakers: Corruption Leagues
-- 2025-02-14 — The News Quiz: Ep5. Tariffs, Tabloids and Typewriters — speakers: Andy Zaltzman, Ayesha Hazarika, Susie McCabe, Geoff Norcott, Pierre Novellie, Jade Gebbie, Alex Kealy, Christina Riggs
-- 2025-02-07 — The News Quiz: Ep 4. Gear shifting and Shoplifting — speakers: Andy Zaltzman, Simon Evans, Athena Kugblenu, Susie McCabe, Hugo Rifkind, Cameron Loxdale, Sascha LO
-- 2025-01-31 — The News Quiz: Ep 3. The Donald and The Dons — speakers: Andy Zaltzman, Andrew Maxwell, Val McDermid, Jay Lafferty, Stuart Mitchell, Prince Harry, Neil Gray
-- 2025-01-24 — The News Quiz: Ep 2. Unconditional Discharge In Charge — speakers: Andy Zaltzman, Nish Kumar, Sara Barron, Glenn Moore, Zing Tsjeng, Cody Dahler
-- 2025-01-17 — The News Quiz: Ep 1. Checked Facts & Unfettered Fictions — speakers: Andy Zaltzman, Geoff Norcott, Paul Sinha, Angela Barnes, Anushka Asthana
-- 2025-01-10 — Best of The News Quiz 2024 — speakers: Andy Zaltzman, Ian Smith, Lucy Porter, Geoff Norcott, Alasdair Beckett-King, Mark Steel, Ria Lina, Simon Evans
-- 2025-01-03 — The Naked Christmas Week: Books, Trump, and When Is Bins? — speakers: Andrew Hunter Murray Chief, Amy Hoggart Written, Jon Holmes Jason Hazeley, Katie Sayer, Sarah Dempster, Adam Macqueen, Louis Mian, Jon Ho-ho-ho-Holmes
-- 2024-12-27 — The Naked Week: Ep4: Spies, Uncanny Ghosts, and Christmas Crackers — speakers: Uncanny Ghosts, Andrew Hunter Murray, Amy Hoggart, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley
-- 2024-12-20 — The Naked Week: Ep 3. Prisons, Syria, and Kemi's Catchphrase. — speakers: Andrew Hunter Murray, Amy Hoggart, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley, Karl Minns Production Team, Laura Grimshaw
-- 2024-12-13 — The Naked Week: Ep2. Spin, Milestones, and Monopoly (Qatar edition) — speakers: Gregg Wallace, Andrew Hunter Murray, Amy Hoggart, Jon Holmes, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley
-- 2024-12-06 — The Naked Week: Ep1. Lobbying, art, soup, and farms — speakers: Andrew Hunter Murray, Amy Hoggart, Jon Holmes Katie Sayer, Sarah Dempster, Gareth Ceredig, Jason Hazeley, Mark Miodownik, Laura Grimshaw
-- 2024-11-29 — Dead Ringers: Ep4. Revolting Farmers — speakers: Jeremy Clarkson, Rachel Reeves, Jon Culshaw, Jan Ravens, Lewis MacLeod, Duncan Wisbey
-- 2024-11-22 — Dead Ringers: Ep 3. New World Disorder — speakers: Justin Welby, Jan Ravens, Jess Robinson, Duncan Wisbey, Jason Forbes, Tom Jamieson, Nev Fountain
-- 2024-11-15 — Dead Ringers: Ep 2. America Went There — speakers: Jon Culshaw, Jan Ravens, Jess Robinson, Duncan Wisbey, Tom Jamieson
-- 2024-11-08 — Dead Ringers: Ep1. Budget Politicians — speakers: Rachel Reeves, Kamala Harris, JD Vance, Tim Walz, Rishi Sunak, Jon Culshaw, Jan Ravens
-- 2024-11-01 — The News Quiz: Ep 8. Interference, Incentives and Interruptions — speakers: Ian Smith, Geoff Norcott, Amy Hoggart, Alasdair Beckett-King, Susie McCabe, Alex Kealy, Cameron Loxdale
-- 2024-10-25 — The News Quiz: Ep 7. Inflation and Incinerators — speakers: Wes Streeting, Lucy Porter, Mike Shephard, Tasha Dhanraj, Peter Tellouche, Rajiv Karia, James Robinson Production Coordinator, Marc Willcox
-- 2024-10-18 — The News Quiz: Ep 6. Cleverly Timed Exits — speakers: Cleverly Timed, Sue Gray, James Cleverly, Geoff Norcott, Cody Dahler, James Farmer, Tom Mayhew, Christina Riggs
-- 2024-10-11 — The News Quiz: Ep 5. Peace & Peaks — speakers: Scott Bennett, Cindy Yu, Andy Zaltzman, Jade Gebbie, Cody Dahler, Dee Allum, Peter Tellouche, Sam Holmes Executive
-- 2024-10-04 — The News Quiz: Ep4. Conference & Confidence — speakers: Robin Morgan, Ian Smith, Alice Fraser, Ash Sarkar, Andy Zaltzman, Jade Gebbie, Mark Granger
-- 2024-09-27 — The News Quiz: Ep3. Work & Play — speakers: Simon Evans, Ian Smith, Anushka Asthana, Andy Zaltzman, Cameron Loxdale, Sarah Campbell, Peter Tellouche, Sam Holmes Executive
-- 2024-09-20 — The News Quiz: Ep2. Prisoners and Pensioners — speakers: Simon Evans, Ria Lina, Glenn Moore, Coco Khan, Andy Zaltzman, Mike Shephard, Christiana Riggs, Rebecca Bain
-- 2024-09-13 — The News Quiz: Ep1. Labour’s Brat Summer — speakers: Neil Delamere, Lucy Porter, Mark Steel, Marie Le Conte, Andy Zaltzman, Mike Shephard, Meryl O'Rourke, Peter Tellouche
-- 2024-09-06 — Catherine Bohart: TL;DR - 6. Hang on - are there ghosts in this machine? — speakers: Catherine Bohart, Hugo Rifkind, Gina Neff, Sunil Patel, Madeleine Brettingham, Sarah Campbell, Ellen Patterson, Flobot Produced
-- 2024-08-30 — Catherine Bohart: TL;DR - 5. Are we going to see Robert Jenrick's Brat Summer? — speakers: Catherine Bohart, Robert Jenrick, Alex Kealy, Olga Koch, Stephen Bush, Madeleine Brettingham, Sarah Campbell, Georgie Flinn
+- 2025-02-14 — The News Quiz: Ep5. Tariffs, Tabloids and Typewriters — speakers: Andy Zaltzman, Ayesha Hazarika, Susie McCabe, Geoff Norcott
+- 2025-02-07 — The News Quiz: Ep 4. Gear shifting and Shoplifting — speakers: Andy Zaltzman, Simon Evans, Athena Kugblenu, Susie McCabe
+- 2025-01-31 — The News Quiz: Ep 3. The Donald and The Dons — speakers: Andy Zaltzman, Andrew Maxwell, Val McDermid, Jay Lafferty
+- 2025-01-24 — The News Quiz: Ep 2. Unconditional Discharge In Charge — speakers: Andy Zaltzman, Nish Kumar, Sara Barron, Glenn Moore
+- 2025-01-17 — The News Quiz: Ep 1. Checked Facts & Unfettered Fictions — speakers: Andy Zaltzman, Geoff Norcott, Paul Sinha, Angela Barnes
+- 2025-01-10 — Best of The News Quiz 2024
+- 2025-01-03 — The Naked Christmas Week: Books, Trump, and When Is Bins?
+- 2024-12-27 — The Naked Week: Ep4: Spies, Uncanny Ghosts, and Christmas Crackers — speakers: Uncanny Ghosts
+- 2024-12-20 — The Naked Week: Ep 3. Prisons, Syria, and Kemi's Catchphrase.
+- 2024-12-13 — The Naked Week: Ep2. Spin, Milestones, and Monopoly (Qatar edition)
+- 2024-12-06 — The Naked Week: Ep1. Lobbying, art, soup, and farms
+- 2024-11-29 — Dead Ringers: Ep4. Revolting Farmers — speakers: Jeremy Clarkson, Rachel Reeves
+- 2024-11-22 — Dead Ringers: Ep 3. New World Disorder
+- 2024-11-15 — Dead Ringers: Ep 2. America Went There — speakers: Kemi Badenoc
+- 2024-11-08 — Dead Ringers: Ep1. Budget Politicians — speakers: Rachel Reeves
+- 2024-11-01 — The News Quiz: Ep 8. Interference, Incentives and Interruptions — speakers: Ian Smith, Geoff Norcott, Amy Hoggart
+- 2024-10-25 — The News Quiz: Ep 7. Inflation and Incinerators — speakers: Wes Streeting
+- 2024-10-18 — The News Quiz: Ep 6. Cleverly Timed Exits — speakers: Cleverly Timed, Sue Gray
+- 2024-10-11 — The News Quiz: Ep 5. Peace & Peaks — speakers: Scott Bennett, Cindy Yu, Andy Zaltzman
+- 2024-10-04 — The News Quiz: Ep4. Conference & Confidence — speakers: Robin Morgan, Ian Smith, Alice Fraser, Ash Sarkar, Andy Zaltzman
+- 2024-09-27 — The News Quiz: Ep3. Work & Play — speakers: Simon Evans, Ian Smith, Anushka Asthana, Andy Zaltzman
+- 2024-09-20 — The News Quiz: Ep2. Prisoners and Pensioners — speakers: Simon Evans, Ria Lina, Glenn Moore, Coco Khan, Andy Zaltzman
+- 2024-09-13 — The News Quiz: Ep1. Labour’s Brat Summer — speakers: Neil Delamere, Lucy Porter, Mark Steel, Marie Le Conte, Andy Zaltzman
+- 2024-09-06 — Catherine Bohart: TL;DR - 6. Hang on - are there ghosts in this machine? — speakers: Catherine Bohart
+- 2024-08-30 — Catherine Bohart: TL;DR - 5. Are we going to see Robert Jenrick's Brat Summer? — speakers: Catherine Bohart
 - 2024-08-23 — Catherine Bohart: TL;DR - 4. Want to brush up on education for the new school year? — speakers: Catherine Bohart
-- 2024-08-16 — Catherine Bohart: TL;DR - 3. What's with all the riotous goings-on? — speakers: Catherine Bohart, Tom Neenan, Anand Menon, Madeleine Brettingham, Sarah Campbell, Georgie Flinn, Ellen Robertson, Pravanya Pillay
-- 2024-08-09 — Catherine Bohart: TL;DR - 2. What's Putin's endgame in Ukraine? — speakers: Catherine Bohart, Sunil Patel, Gareth Gwynn, Julia Leikin, Madeleine Brettingham, Sarah Campbell, Georgie Flinn, David Thomas
-- 2024-08-02 — Catherine Bohart: TL;DR - 1. We Need To Talk About Kamala — speakers: Catherine Bohart, Sunil Patel, Katy Balls, Sarah Churchwell, Madeleine Brettingham, Sarah Campbell, Ellen Robertson, David Thomas
+- 2024-08-16 — Catherine Bohart: TL;DR - 3. What's with all the riotous goings-on? — speakers: Catherine Bohart
+- 2024-08-09 — Catherine Bohart: TL;DR - 2. What's Putin's endgame in Ukraine? — speakers: Catherine Bohart
+- 2024-08-02 — Catherine Bohart: TL;DR - 1. We Need To Talk About Kamala — speakers: Catherine Bohart
 - 2024-07-19 — The News Quiz - 19th July — speakers: July Topical
 - 2024-07-19 — The News Quiz- 12th July — speakers: July Topical
-- 2024-07-12 — The News Quiz - 5th July — speakers: Lucy Porter, Ria Lina, Simon Evans, Andy Zaltzman, Peter Tellouche, Alice Fraser, Cameron Loxdale
-- 2024-07-05 — The News Quiz - 28th June — speakers: Geoff Norcott, Stuart Mitchell, Katy Balls, Andy Zaltzman, Toussaint Douglass, Mark Granger, Angela Channell, Pete Tellouche
-- 2024-06-28 — The News Quiz - 21st June — speakers: Alasdair Beckett-King, Simon Evans, Laura Smyth, Cindy Yu, Andy Zaltzman, Cameron Loxdale, Jade Gebbie, Dan Sweryt
-- 2024-06-21 — The News Quiz - 14th June — speakers: Lucy Porter, Alasdair Beckett-King, Athena Kugblenu, Andy Zaltzman, Christina Riggs, Meryl O'Rourke, Mike Shephard, Sam Holmes Executive
-- 2024-06-14 — The News Quiz - 7th June — speakers: Andy Zaltzman, Ian Smith, Geoff Norcott, Shaparak Khorsandi, Anushka Asthana, Christina Riggs, Jade Gebbie, Sam Holmes Executive
-- 2024-06-13 — Dead Ringers - 31st May — speakers: Dead Ringers st, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke, Edward Tew, Sophie Dixon, Cody Dahler
-- 2024-06-12 — Dead Ringers - 24th May — speakers: Jon Culshaw, Jan Ravens, Duncan Wisbey, Jess Robinson, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke
-- 2024-06-11 — Dead Ringers - 17th May — speakers: Dead Ringers th, Mr Blobby, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke, Edward Tew, Sophie Dixon
-- 2024-06-07 — Dead Ringers - 10th May — speakers: Dead Ringers th, Rishi Sunak, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Rob Darke, Edward Tew
-- 2024-05-31 — Dead Ringers - 3rd May — speakers: Dead Ringers rd, Harry Kane, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Sarah Campbell, Rob Darke, Edward Tew
-- 2024-05-24 — Dead Ringers - 26th April — speakers: Dead Ringers th April, Angela Rayner, Will Rylan, Stacey Solomon, Tom Jamieson, Ed Amsden Tom Coles, Laurence Howarth, Rob Darke
-- 2024-05-17 — The Now Show - 19th April — speakers: Steve Punt, Hugh Dennis, Rory Bremner, Glenn Moore, Harriet Kemsley, Matt Hutson, Luke Bainbridge, Tom Marlow
-- 2024-05-10 — The Now Show - 12th April — speakers: Steve Punt, Starring Gareth Gwynn, Laura Lexx, Russ Cook, Jon Long, Daniel Barker, Gemma Arrowsmith, Zoë Tomalin
-- 2024-05-03 — The Now Show - 5th April — speakers: Steve Punt, Starring Jon Holmes, Angela Barnes, Mike Shepard, Alex Bertulis-Fernandes, Peter Tellouche, Pete Strauss Production Coordinator
-- 2024-04-26 — The Now Show - 29th March — speakers: Steve Punt, Starring Geoff Norcott, Rachel Fairburn, Rachel Parris, Jon Culshaw, Laura Shavin, Tasha Dhanraj
-- 2024-04-20 — The Now Show - 22nd March — speakers: Steve Punt, Lucy Porter, Laura Kenny, Alasdair Beckett-King, Mitch Benn, Ed Jones, Katie Norris, Cody Dahler
-- 2024-04-20 — The Now Show - 15th March — speakers: Steve Punt, Marcus Brigstocke, Ed MacArthur, David Duncan, Aidan Fitzmaurice, Jade Gebbie, Christina Riggs, Gemma Arrowsmith
-- 2024-04-05 — The News Quiz - 8th March — speakers: Mark Steel, Marie Le Conte, Simon Evans, Andy Zaltzman, George Galloway, Cody Dahler, Meryl O'Rourke, Molly McGuinness
-- 2024-03-29 — The News Quiz - 1st March — speakers: Susie McCabe, Ashley Storrie, Stuart Mitchell, Andy Zaltzman, Lee Anderson, Cody Dahler, Rebecca Bain
-- 2024-03-22 — The News Quiz - 23rd February — speakers: Andrew Doyle, Lucy Porter, Andy Zaltzman, Cody Dahler, Cameron Loxdale, Viv May Producer, James Robinson Executive
-- 2024-03-15 — The News Quiz - 16th February — speakers: Andy Zaltzman, Andrew Maxwell, Rachel Parris, Danny Finkelstein, Cody Dahler, Ben Clover, Jade Gebbie Producer, Sam Holmes Executive
-- 2024-03-08 — The News Quiz - 9th February — speakers: Andy Zaltzman, Neil Delamere, Diona Doherty, Alex Kane, Cody Dahler, Alison Spittle, John Meagher, Claire Sullivan Producer
-- 2024-03-01 — The News Quiz - 2nd February — speakers: Andy Zaltzman, Simon Evans, Alasdair Beckett-King, Anushka Asthana, Cody Dahler, Alice Fraser, Jade Gebbie, Adam Greene
-- 2024-02-23 — The News Quiz - 26th January — speakers: Andy Zaltzman, Lucy Porter, Geoff Norcott, Alasdair Beckett-King, Cindy Yu, Cody Dahler, Mike Shephard
-- 2024-02-16 — The News Quiz - 19th January — speakers: Andy Zaltzman, Lucy Porter, Robin Morgan, Tadiwa Mahlunge, Ayesha Hazarika, Cody Dahler, Cameron Loxdale, Sam Holmes Executive
+- 2024-07-12 — The News Quiz - 5th July — speakers: Lucy Porter, Ria Lina, Simon Evans, Andy Zaltzman
+- 2024-07-05 — The News Quiz - 28th June — speakers: Geoff Norcott, Stuart Mitchell, Katy Balls, Andy Zaltzman
+- 2024-06-28 — The News Quiz - 21st June — speakers: Alasdair Beckett-King, Simon Evans, Laura Smyth, Cindy Yu, Andy Zaltzman
+- 2024-06-21 — The News Quiz - 14th June — speakers: Lucy Porter, Alasdair Beckett-King, Athena Kugblenu, Andy Zaltzman
+- 2024-06-14 — The News Quiz - 7th June — speakers: Andy Zaltzman, Ian Smith, Geoff Norcott
+- 2024-06-13 — Dead Ringers - 31st May — speakers: Dead Ringers st, Tom Jamie
+- 2024-06-12 — Dead Ringers - 24th May — speakers: Jon Cul
+- 2024-06-11 — Dead Ringers - 17th May — speakers: Dead Ringers th, Mr Blobby, Tom Jamieson, Nev Founta
+- 2024-06-07 — Dead Ringers - 10th May — speakers: Dead Ringers th
+- 2024-05-31 — Dead Ringers - 3rd May — speakers: Dead Ringers rd
+- 2024-05-24 — Dead Ringers - 26th April — speakers: Dead Ringers th April
+- 2024-05-17 — The Now Show - 19th April
+- 2024-05-10 — The Now Show - 12th April — speakers: Steve Punt, Starring Gareth Gwynn
+- 2024-05-03 — The Now Show - 5th April — speakers: Steve Punt, Starring Jon Holmes
+- 2024-04-26 — The Now Show - 29th March — speakers: Steve Punt, Starring Geoff
+- 2024-04-20 — The Now Show - 22nd March — speakers: Steve Punt, Lucy Porter
+- 2024-04-20 — The Now Show - 15th March — speakers: Steve Punt, Marcus Brig
+- 2024-04-05 — The News Quiz - 8th March — speakers: Mark Steel, Marie Le Conte, Simon Evans, Andy Zaltzman
+- 2024-03-29 — The News Quiz - 1st March — speakers: Susie McCabe, Ashley Storrie, Stuart Mitchell, Andy Zaltzman
+- 2024-03-22 — The News Quiz - 23rd February — speakers: Andrew Doyle, Lucy Porter, Andy Zaltzman
+- 2024-03-15 — The News Quiz - 16th February — speakers: Andy Zaltzman, Andrew Maxwell, Rachel Parr
+- 2024-03-08 — The News Quiz - 9th February — speakers: Andy Zaltzman, Neil Delamere
+- 2024-03-01 — The News Quiz - 2nd February — speakers: Andy Zaltzman, Simon Evans
+- 2024-02-23 — The News Quiz - 26th January — speakers: Andy Zaltzman, Lucy Porter, Geoff Norcott
+- 2024-02-16 — The News Quiz - 19th January — speakers: Andy Zaltzman, Lucy Porter
 - 2024-02-09 — The News Quiz - 12th January — speakers: January Topical
-- 2024-02-02 — The News Quiz - 5th January — speakers: Andy Zaltzman, Sam Holmes Executive, James Robinson Production Coordinator, Jodie Charman
-- 2024-01-26 — Dead Ringers - 29th December — speakers: Dead Ringers th, Jon Culshaw, Jan Ravens, Bill Dare, Dead Ringers, Ed Miliband
-- 2024-01-19 — Dead Ringers - 22nd December — speakers: Dead Ringers, Katherine Jenkins, Ncuti Gatwa, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Edward Tew
-- 2024-01-12 — Dead Ringers - 15th December — speakers: Dead Ringers th, Kier Starmer, Jon Culshaw, Lewis MacLeod, Jan Ravens, Jess Robinson, Duncan Wisbey, Tom Jamieson
-- 2024-01-05 — The Now Show - 8th December — speakers: Steve Punt, Geoff Norcott, Harriet Kemsley, Kim Jong Un, Peter Rugman, Adrian Gray, Miranda Holms, Rajiv Karia
-- 2023-12-29 — The Now Show - 1st December — speakers: Steve Punt, David Eagle, Jessica Fostekew, Archie Henderson, Becky CJ, Alex Garrick-Wright, Jade Gebbie, Rhiannon Shaw
-- 2023-12-22 — The Now Show - 24th November — speakers: Steve Punt, Fin Taylor, Ed MacArthur, Aidan Fitzmaurice, Joe Bates, Cody Dahler, Joz Norris, Gemma Arrowsmith
-- 2023-12-15 — The Now Show - 17th November — speakers: Steve Punt, Pierre Novellie, Jess Robinson, Mike Shephard, Tasha Dhanraj, David Duncan, Cody Dahler, Katie Baum
-- 2023-12-08 — The Now Show - 10th November — speakers: Steve Punt, Alasdair Beckett-King, Desiree Burch, Mike Shephard, Zoe Tomalin, Christina Riggs, Cody Dahler, Katie Baum
-- 2023-12-01 — The Now Show - 3rd November — speakers: Steve Punt, Ken Cheng, Helen Bauer, Rachel Parris, Tasha Dhanraj, Jules Garnett, Cody Dahler, Katie Baum
-- 2023-11-24 — The News Quiz - 27th October — speakers: Andy Zaltzman, Ian Smith, Ria Lina, Robin Morgan, Cody Dahler Mike Shephard, Adam Greene Producer, Sam Holmes Executive, Dan Marchini Sound
-- 2023-11-17 — The News Quiz - 20th October — speakers: Andy Zaltzman, Ian Smith, Lucy Porter, Anushka Asthana, Simon Evans, Jade Gebbie, Simon Alcock, Cameron Loxdale
-- 2023-11-10 — The News Quiz - 13th October — speakers: Andy Zaltzman, Alex Massie, Simon Evans, Alice Fraser, Rachel Parris, Peter Tellouche, Cameron Loxdale, Sam Holmes Executive
-- 2023-11-03 — The News Quiz - 6th October — speakers: Andy Zaltzman, Susie McCabe, Alice Fraser Cody Dahler, Caroline Mabey Producer, Sam Holmes Executive, Pete Strauss Production Co-ordinator, Dan Marchini Sound
-- 2023-10-27 — The News Quiz - 29th September — speakers: Andy Zaltzman, Andrew Doyle, Athena Kugblenu, Cody Dahler, Miranda Holms Producer, Dan Marchini Sound
-- 2023-10-20 — The News Quiz - 22nd September — speakers: Andy Zaltzman, Ayesha Hazarika, Chris McCausland, Alasdair Beckett-King, Rhiannon Shaw, Miranda Holms Producer, James Robinson Production Co-ordinator, Dan Marchini Sound
-- 2023-10-13 — The News Quiz - 15th September — speakers: Lucy Porter, Tom Ballard, Anushka Asthana, Mark Steel, Andy Zaltzman, Cody Dahler Mike Shephard, Christina Riggs Producer, Sam Holmes Executive
-- 2023-10-06 — The News Quiz - 8th September — speakers: Andy Zaltzman, Ian Smith, Lucy Porter, Hugo Rifkind, Cody Dahler Mike Shepard, Eleri Morgan Producer, Sam Holmes Executive, James Robinson Production Co-ordinator
+- 2024-02-02 — The News Quiz - 5th January — speakers: Andy Zal
+- 2024-01-26 — Dead Ringers - 29th December — speakers: Dead Ringers th, Jon Culshaw, Jan Ravens, Bill Dare, Dead Ringers
+- 2024-01-19 — Dead Ringers - 22nd December — speakers: Dead Ringers
+- 2024-01-12 — Dead Ringers - 15th December — speakers: Dead Ringers th
+- 2024-01-05 — The Now Show - 8th December — speakers: Steve Punt, Geoff Norco
+- 2023-12-29 — The Now Show - 1st December — speakers: Steve Punt
+- 2023-12-22 — The Now Show - 24th November — speakers: Steve Punt
+- 2023-12-15 — The Now Show - 17th November — speakers: Steve Punt
+- 2023-12-08 — The Now Show - 10th November — speakers: Steve Punt
+- 2023-12-01 — The Now Show - 3rd November — speakers: Steve Punt
+- 2023-11-24 — The News Quiz - 27th October — speakers: Andy Zaltzman, Ian Smith, Ria Lina
+- 2023-11-17 — The News Quiz - 20th October — speakers: Andy Zaltzman, Ian Smith, Lucy Porter
+- 2023-11-10 — The News Quiz - 13th October — speakers: Andy Zaltzman, Alex Massie, Simon Eva
+- 2023-11-03 — The News Quiz - 6th October — speakers: Andy Zaltzman
+- 2023-10-27 — The News Quiz - 29th September — speakers: Andy Zaltzman, Andrew Doyle
+- 2023-10-20 — The News Quiz - 22nd September — speakers: Andy Zaltzman, Ayesha Hazarika, Chris Mc
+- 2023-10-13 — The News Quiz - 15th September — speakers: Lucy Porter, Tom Ballard, Anushka Asthana, Mark Steel, Andy Zaltzman
+- 2023-10-06 — The News Quiz - 8th September — speakers: Andy Zaltzman, Ian Smith, Lucy Porter
 - 2023-09-29 — The Naked Week with Andrew Hunter Murray — speakers: Andrew Hunter Murray
-- 2023-09-22 — Catherine Bohart: TL;DR — speakers: Catherine Bohart, James Ball, Sunil Patel, Dave’s Jon Richardson, Frankie Boyle, Madeleine Brettingham, Sarah Campbell, Emma Nagouse
-- 2023-09-15 — The United Nations of News — speakers: Heidi Regan, Ignacio Lopez
-- 2023-09-08 — Dom Joly Breaks the News — speakers: Alan Clarke, Alison Vernon-Smith, Julian Mayers
-- 2023-09-01 — What Are You Talking About? — speakers: Rhys James, Alasdair Beckett-King
-- 2023-08-25 — The Newsmakers with Rachel Parris — speakers: Rachel Parris, Rachel Parris Guests, Rosie Holt, Sam Pamphilion, Michael Spicer, Zafar Nim Odedra Additional, Robin Morgan Recorded, David Thomas Producer
+- 2023-09-22 — Catherine Bohart: TL;DR — speakers: Catherine Bohart
+- 2023-09-15 — The United Nations of News — speakers: Ria Lina
+- 2023-09-08 — Dom Joly Breaks the News — speakers: Dom Joly Breaks
+- 2023-09-01 — What Are You Talking About? — speakers: Rhys James
+- 2023-08-25 — The Newsmakers with Rachel Parris — speakers: Rachel Parris
 - 2023-08-18 — Dead Ringers - 21st July — speakers: Dead Ringers st July
 - 2023-08-11 — Dead Ringers - 14th July — speakers: Dead Ringers th July
-- 2023-08-04 — Dead Ringers - 7th July — speakers: Dead Ringers th July, Kier Starmer, Tom Jamieson, Laurence Howarth, Ed Amsden Tom Coles, Edward Tew, Robert Darke
-- 2023-07-31 — Introducing six Summer Specials — speakers: Rachel Parris, Dom Joly, Catherine Bohart, Rhys James, Andrew Hunter Murray
+- 2023-08-04 — Dead Ringers - 7th July — speakers: Dead Ringers th July
+- 2023-07-31 — Introducing six Summer Specials — speakers: Summer Specials
 - 2023-07-28 — Dead Ringers - 30th June — speakers: Dead Ringers th June
 - 2023-07-21 — Dead Ringers - 23rd June — speakers: Dead Ringers rd June, Jon Culshaw, Duncan Wisbey, Jess Robinson, Jason Forbes, Jan Ravens
-- 2023-07-14 — Dead Ringers - 16th June — speakers: Dead Ringers th, Dead Ringers, Jess Robinson, Duncan Wisbey, Jan Ravens
+- 2023-07-14 — Dead Ringers - 16th June — speakers: Dead Ringers th, Dead Ringers, Lewis MacLeod
 - 2023-07-07 — The News Quiz - 9th June — speakers: Andy Zaltzman
 - 2023-06-30 — The News Quiz - 2nd June — speakers: Andy Zaltzman
 - 2023-06-23 — The News Quiz - 26th May — speakers: Andy Zaltzman
@@ -6819,106 +5656,105 @@
 - 2023-04-21 — The Now Show - 24th March — speakers: Steve Punt
 - 2023-04-14 — The Now Show - 17th March — speakers: Steve Punt
 - 2023-04-07 — The News Quiz - 10th March — speakers: Andy Zaltzman
-- 2023-03-31 — The News Quiz - 3rd March — speakers: Andy Zaltzman, Simon Evans, Samira Ahmed, Alasdair Beckett-King, Matt Hancock’s WhatsApps, Alice Fraser, Zoë Tomalin
-- 2023-03-24 — The News Quiz - 24th February — speakers: Ian Smith, Holly Walsh, Andy Parsons, Kate Andrews, Andy Zaltzman, Alice Fraser, Catherine Brinkworth
-- 2023-03-17 — The News Quiz - 17th February — speakers: Andy Zaltzman, Angela Barnes, Jeremy Corbyn, Alice Fraser, Catherine Brinkworth, Eleanor Morton, Peter Tellouche, Cameron Loxdale
-- 2023-03-10 — The News Quiz - 10th February — speakers: Andy Zaltzman, Mark Steel, Ria Lina, Catherine Bohart, Rishi Sunak, Alice Fraser, Zoë Tomalin
-- 2023-03-03 — The News Quiz - 3rd February — speakers: Frankie Boyle, Susie McCabe, Ashley Storrie, Alex Massie, Andy Zaltzman, Alice Fraser, Max Davis, Stuart Mitchell
-- 2023-02-24 — The News Quiz - 27th January — speakers: Andy Zaltzman, Geoff Norcott, Chris McCausland, Isabel Hardman, Maisie Adam, Nadhim Zahawi, Alice Fraser, Davina Bentley
-- 2023-02-17 — The News Quiz – 20th January — speakers: Andy Zaltzman, Geoff Norcott, Shaparak Khorsandi, Helen Lewis, Ian Smith, Alice Fraser, Mike Shephard
-- 2023-02-10 — The News Quiz – 13th January — speakers: Andy Zaltzman, Lucy Porter, Mark Steel, Ayesha Hazarika, Ian Smith, Alice Fraser, Mike Shephard, Aidan Fitzmaurice
-- 2023-02-03 — The News Quiz – 6th January — speakers: Andy Zaltzman, Lucy Porter, Chris McCausland, Samira Ahmed, Scott Bennett, Rishi Sunak, Alice Fraser
-- 2023-01-27 — News Quiz Best of 2022 – 30th December — speakers: Andy Zaltzman, James Robinson Production Co-ordinator, Ryan Walker-Edwards Sound, Jerry Peal
-- 2023-01-20 — Dead Ringers – 23rd December — speakers: Jon Culshaw, Jan Ravens, Duncan Wisbey, Naomi McDonald, Anil Desai, Tom Jamieson, Nev Fountain
-- 2023-01-13 — Dead Ringers – 16th December — speakers: Matt Hancock’s Covid, Jon Culshaw, Lewis McLeod, Jan Ravens, Duncan Wisbey, Naomi McDonald, Anil Desai
-- 2023-01-06 — Dead Ringers – 9th December — speakers: David Beckham, Dead Ringers, Jon Culshaw, Jan Ravens, Lewis McLeod, Duncan Wisbey, Naomi McDonald, Anil Desai
-- 2022-12-30 — The Now Show - 2nd December — speakers: Steve Punt, Jamie MacDonald, Lucy Porter, Ed MacArthur, Zoe Tomalin, Cameron Loxdale, George Fouracres, David Thomas Sound
-- 2022-12-23 — The Now Show - 25th November — speakers: Hugh Dennis, Glenn Moore, Steve Punt, Alex Kealy, Athena Kugblenu, Ignacio Lopez, Shamima Begum, Simon Alcock
-- 2022-12-16 — The Now Show - 18th November — speakers: Steve Punt, Lauren Pattison, Jess Robinson, Matt Hancock, Sarah Campbell, Mike Shephard, Alex Garrick-Wright, Luke Kempner
-- 2022-12-09 — The Now Show - 11th November — speakers: Steve Punt, Gemma Arrowsmith, Catherine Bohart, Fin Taylor, Hugh Dennis, Katie Storey, Carl Carzana, Cameron Loxdale
-- 2022-12-02 — The Now Show - 4th November — speakers: Steve Punt, Colin Hoult, Laura Lexx, Jordan Gray, Anna Mann, Prince Harry, Laura Major, Nathan Cowley
-- 2022-11-25 — The Now Show - 28th October — speakers: Steve Punt, Cally Beaton, Emmanuel Sonubi, Christy Coysh, Catherine Brinkworth, Alex Kealy, Peter Tellouche, Jade Gebbie
+- 2023-03-31 — The News Quiz - 3rd March — speakers: Andy Zaltzman, Simon Evans, Samira Ahmed, Alasdair Beckett-King
+- 2023-03-24 — The News Quiz - 24th February — speakers: Ian Smith, Holly Walsh, Andy Parsons, Kate Andrews
+- 2023-03-17 — The News Quiz - 17th February — speakers: Andy Zaltzman, Angela Barnes
+- 2023-03-10 — The News Quiz - 10th February — speakers: Andy Zaltzman, Mark Steel, Ria Lina, Catherine Bohart
+- 2023-03-03 — The News Quiz - 3rd February — speakers: Frankie Boyle, Susie McCabe, Ashley St
+- 2023-02-24 — The News Quiz - 27th January — speakers: Andy Zaltzman, Geoff Norcott, Chris McCausland, Isabel Hardman, Maisie Adam
+- 2023-02-17 — The News Quiz – 20th January — speakers: Andy Zaltzman, Geoff Norcott, Shaparak Khorsandi, Helen Lewis, Ian Smith
+- 2023-02-10 — The News Quiz – 13th January — speakers: Andy Zaltzman, Lucy Porter, Mark Steel, Ayesha Hazarika, Ian Smith
+- 2023-02-03 — The News Quiz – 6th January — speakers: Andy Zaltzman
+- 2023-01-27 — News Quiz Best of 2022 – 30th December — speakers: Andy Za
+- 2023-01-20 — Dead Ringers – 23rd December
+- 2023-01-13 — Dead Ringers – 16th December — speakers: Matt Hancock’s Covid
+- 2023-01-06 — Dead Ringers – 9th December — speakers: David Beckham
+- 2022-12-30 — The Now Show - 2nd December — speakers: Steve Punt
+- 2022-12-23 — The Now Show - 25th November — speakers: Hugh Dennis, Glenn Moore, Steve Punt
+- 2022-12-16 — The Now Show - 18th November — speakers: Steve Punt
+- 2022-12-09 — The Now Show - 11th November — speakers: Steve Punt, Gemma Arrowsmith
+- 2022-12-02 — The Now Show - 4th November — speakers: Steve Punt
+- 2022-11-25 — The Now Show - 28th October — speakers: Steve Punt
 - 2022-11-18 — The News Quiz - 21st October — speakers: Andy Zaltzman
 - 2022-11-11 — The News Quiz - 14th October — speakers: Andy Zaltzman
 - 2022-11-04 — The News Quiz - 7th October — speakers: Andy Zaltzman
 - 2022-10-28 — The News Quiz - 30th September — speakers: September Topical
 - 2022-10-21 — The News Quiz - 23rd September — speakers: Andy Zaltzman
 - 2022-10-14 — The News Quiz - 16th September — speakers: Andy Zaltzman
-- 2022-09-23 — Party's Over - 26th August — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Fergus Craig, Paul Doolan
-- 2022-09-23 — Party's Over - 19th August — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Ruth Bratt, Paul Doolan
-- 2022-09-23 — Party's Over - 12th August — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, Mali Ann Rees, Paul Doolan
-- 2022-09-02 — Party's Over - 5th August — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, David Mumeni, Paul Doolan
-- 2022-08-26 — Party's Over - 29th July — speakers: Henry Tobin, Starring Miles Jupp, Ingrid Oliver, Emma Sidi, Justin Edwards, David Momeni, Paul Doolan
+- 2022-09-23 — Party's Over - 26th August — speakers: August What
+- 2022-09-23 — Party's Over - 19th August — speakers: August What, Prime Minister
+- 2022-09-23 — Party's Over - 12th August — speakers: August What
+- 2022-09-02 — Party's Over - 5th August — speakers: August What, Prime Minister
+- 2022-08-26 — Party's Over - 29th July — speakers: July What
 - 2022-08-19 — Dead Ringers - 22nd July — speakers: Dead Ringers
 - 2022-08-12 — Dead Ringers - 15th July — speakers: Dead Ringers th
 - 2022-08-05 — Dead Ringers - 8th July — speakers: Dead Ringers th July
 - 2022-07-29 — Dead Ringers - 1st July — speakers: Dead Ringers st
 - 2022-07-22 — Dead Ringers - 24th June
-- 2022-07-15 — Dead Ringers - 17th June — speakers: Dead Ringers th June, Sue Gray, Michael Gove, Jon Culshaw, Jan Ravens, Lewis MacLeod, Debra Stephenson
+- 2022-07-15 — Dead Ringers - 17th June — speakers: Dead Ringers th June, Sue Gray
 - 2022-07-08 — The News Quiz - 10th June — speakers: Andy Zaltzman
 - 2022-07-01 — The News Quiz - 3rd June — speakers: Andy Zaltzman
 - 2022-06-24 — The News Quiz - 27th May — speakers: Andy Zaltzman
 - 2022-06-17 — The News Quiz - 20th May — speakers: May Topical
 - 2022-06-10 — The News Quiz - 13th May — speakers: May Topical
 - 2022-06-03 — The News Quiz - 6th May — speakers: May Topical
-- 2022-05-27 — The News Quiz - 29th April — speakers: Andy Zaltzman, Andy Hamilton, Richard Morris, Katie Baum
-- 2022-05-20 — The News Quiz - 22nd April — speakers: Andy Zaltzman, Eleanor Tiernan, Richard Morris, Katie Baum
+- 2022-05-27 — The News Quiz - 29th April — speakers: Andy Zaltzman, Andy Hamilton
+- 2022-05-20 — The News Quiz - 22nd April — speakers: Andy Zaltzman
 - 2022-05-13 — The Now Show - 15th April — speakers: Steve Punt
 - 2022-05-06 — The Now Show - 8th April — speakers: Steve Punt
 - 2022-04-29 — The Now Show - 1st April — speakers: Steve Punt
 - 2022-04-22 — The Now Show - 25th March — speakers: Steve Punt
 - 2022-04-15 — The Now Show – 18th March — speakers: Steve Punt
-- 2022-04-08 — The Now Show - 11th March — speakers: Stevie Martin, Kieran Hodgson, Ian Smith, Chloe Petts
+- 2022-04-08 — The Now Show - 11th March — speakers: Stevie Martin, Kieran Hodgson
 - 2022-03-12 — Friday Night Comedy is now first on BBC Sounds
-- 2022-03-04 — News Quiz 4th March 2022 — speakers: Andy Zaltzman, Sindhu Vee, Daniel Finkelstein, Lucy Porter, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser, Mike Shephard
-- 2022-02-25 — News Quiz 25th February 2022 — speakers: Andy Zaltzman, Angela Barnes, Ian Smith, Desiree Burch, Geoff Norcott, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser
-- 2022-02-18 — News Quiz 18th February 2022 — speakers: Andy Zaltzman, Elis James, Olga Koch, Tim Shipman, Shaparak Khorsandi, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser
-- 2022-02-11 — News Quiz 11th February 2022 — speakers: Andy Zaltzman, Mark Steel, Athena Kugblenu, Hugo Rifkind, Jackie Weaver, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser
-- 2022-02-04 — News Quiz 4th February 2022 — speakers: Andy Zaltzman, Elis James, Ola Labib, Ed Balls, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser, Benjamin Partridge
-- 2022-01-28 — News Quiz 28th January 2022 — speakers: Andy Zaltzman, Nish Kumar, Rachel Fairburn, Neil Delamere, Isabel Hardman, Alice Fraser, Heidi Regan, Rhiannon Shaw
-- 2022-01-21 — News Quiz 21st January 2022 — speakers: Andy Zaltzman, Alice Fraser, Chris McCausland, Hugo Rifkind, Heidi Regan, Cameron Loxdale, Stephen Buchanan, Tasha Dhanraj
-- 2022-01-14 — News Quiz 14th January 2022 — speakers: Andy Zaltzman, Ayesha Hazarika, Paul Sinha, Simon Evans, Sue Gray-like, Michael Gove, Alice Fraser, Mike Shephard
-- 2022-01-07 — News Quiz 7th January 2022 — speakers: Andy Zaltzman, Alice Fraser, Chris McCausland, Ahir Shah, Simon Alcock, Nathan D'Arcy Roberts, Rajiv Karia
-- 2021-12-31 — News Quiz: Best of 2021 — speakers: Andy Zaltzman, Richard Morris, Katie Baum
-- 2021-12-24 — Dead Ringers - Christmas Specials 2021 - The Multiverse Special — speakers: Dead Ringers Christmas Specials, Man Flu, Ronnie Corbett, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey
-- 2021-12-17 — Dead Ringers - Christmas Specials 2021 - Episode 2 — speakers: Dead Ringers Christmas Specials, Chris Whitty, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey, Tom Jamieson
-- 2021-12-10 — Dead Ringers - Christmas Specials 2021 - Episode 1 — speakers: Dead Ringers Christmas Specials, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey, Tom Jamieson, Laurence Howarth
-- 2021-12-03 — The Now Show - 3rd December - feat Janine Harouni, Jamie MacDonald, Tim Sutton and Sooz Kempner — speakers: Janine Harouni, Jamie MacDonald, Tim Sutton, Steve Punt, Kieran Hodgson, Nimisha Odedra, Sarah Sharpe
-- 2021-11-26 — The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies — speakers: Geoff Norcott, Steve Punt, Emma Sidi, Jason Forbes, Sarah Sharpe
-- 2021-11-19 — The Now Show - 19th November ft Ria Lina, Josh Pugh and Beardyman — speakers: Josh Pugh, Beardyman Steve Punt, Luke Kempner, Natasha Hodgson, Sarah Sharpe
-- 2021-11-12 — The Now Show - 12th November ft Gareth Gwynn, Michael Spicer, Priya Hall and Ignacio Lopez — speakers: Gareth Gwynn, Michael Spicer, Priya Hall, Ignacio Lopez, Steve Punt, Igancio Lopez, Luke Kempner, Karen Bartke
-- 2021-10-29 — The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson — speakers: Jess Robinson, Steve Punt, Alex Silverman, Gemma Arrowsmith, Luke Kempner Producer, Pete Strauss Production Co-Ordinator, Sarah Sharpe
-- 2021-10-22 — News Quiz 22nd October 2021 — speakers: Andy Zaltzman, Ayesha Hazarika, Matt Winning, Geoff Norcott, Elis James, Brian Cox, Sajid Javid, Alice Fraser
-- 2021-10-15 — News Quiz 15th October 2021 — speakers: Catherine Bohart, Michael Deacon, Chris McCausland, Eshaan Akbar, Andy Zaltzman, Alice Fraser, Catherine Brinkworth
-- 2021-10-08 — News Quiz 8th October 2021 — speakers: Kerry Godliman, Anand Menon, Ola Labib, Andy Zaltzman, Alice Fraser, Heidi Regan, Suchandrika Chakrabarti, Tasha Dhanraj
-- 2021-10-01 — News Quiz 1st October 2021 — speakers: Lucy Porter, Angela Barnes, Alun Cochrane, Matt Forde, Andy Zaltzman, Alice Fraser, Max Davis, Tasha Dhanraj
-- 2021-09-24 — News Quiz 24th September 2021 — speakers: Hugo Rifkind, Susie McCabe, Ria Lina, Andrew Maxwell, Andy Zaltzman, Alice Fraser, Mike Shephard, Rajiv Karia
-- 2021-09-17 — News Quiz 17th September 2021 — speakers: Andy Zaltzman, Paul Sinha, Neil Delamere, Emma Raducanu, Alice Fraser, Max Davis, Richard Stott
+- 2022-03-04 — News Quiz 4th March 2022 — speakers: Andy Zaltzman, Sindhu Vee
+- 2022-02-25 — News Quiz 25th February 2022 — speakers: Andy Zaltzman, Angela Barnes, Ian Smith
+- 2022-02-18 — News Quiz 18th February 2022 — speakers: Andy Zaltzman, Elis James, Olga Koch
+- 2022-02-11 — News Quiz 11th February 2022 — speakers: News Quiz
+- 2022-02-04 — News Quiz 4th February 2022 — speakers: Andy Zaltzman, Elis James, Ola Labib, Ed Balls
+- 2022-01-28 — News Quiz 28th January 2022 — speakers: Andy Zaltzman
+- 2022-01-21 — News Quiz 21st January 2022 — speakers: Andy Zaltzman
+- 2022-01-14 — News Quiz 14th January 2022 — speakers: Andy Zaltzman
+- 2022-01-07 — News Quiz 7th January 2022 — speakers: Andy Zaltzman
+- 2021-12-31 — News Quiz: Best of 2021 — speakers: Andy Zaltzman
+- 2021-12-24 — Dead Ringers - Christmas Specials 2021 - The Multiverse Special — speakers: Dead Ringers Christmas Specials
+- 2021-12-17 — Dead Ringers - Christmas Specials 2021 - Episode 2 — speakers: Dead Ringers Christmas Specials
+- 2021-12-10 — Dead Ringers - Christmas Specials 2021 - Episode 1 — speakers: Dead Ringers Christmas Specials
+- 2021-12-03 — The Now Show - 3rd December - feat Janine Harouni, Jamie MacDonald, Tim Sutton and Sooz Kempner — speakers: Janine Harouni, Jamie MacDonald, Tim Sutton, Steve Punt
+- 2021-11-26 — The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies — speakers: Geoff Norcott, Steve Punt
+- 2021-11-19 — The Now Show - 19th November ft Ria Lina, Josh Pugh and Beardyman — speakers: Josh Pugh, Beardyman Steve Punt
+- 2021-11-12 — The Now Show - 12th November ft Gareth Gwynn, Michael Spicer, Priya Hall and Ignacio Lopez — speakers: Gareth Gwynn, Michael Spicer, Priya Hall, Ignacio Lopez, Steve Punt
+- 2021-10-29 — The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson — speakers: Jess Robinson, Steve Punt
+- 2021-10-22 — News Quiz 22nd October 2021 — speakers: Andy Zaltzman
+- 2021-10-15 — News Quiz 15th October 2021 — speakers: Catherine Bohart, Michael Deacon, Chris McCausland, Eshaan Akbar, Andy Zaltzman
+- 2021-10-08 — News Quiz 8th October 2021 — speakers: Kerry Godliman, Anand Menon, Ola Labib, Andy Zaltzman
+- 2021-10-01 — News Quiz 1st October 2021 — speakers: Lucy Porter, Angela Barnes, Alun Cochrane, Matt Forde, Andy Zaltzman
+- 2021-09-24 — News Quiz 24th September 2021 — speakers: Hugo Rifkind, Susie McCabe, Ria Lina, Andrew Maxwell
+- 2021-09-17 — News Quiz 17th September 2021 — speakers: Andy Zaltzman, Paul Sinha, Neil Delamere
 - 2021-09-10 — News Quiz 10th September 2021
 - 2021-09-03 — News Quiz 3rd September 2021 — speakers: Andy Zaltzman, Rachel Fairburn, Hugo Rifkind, Helen Lewis, Ian Smith
-- 2021-08-27 — Party's Over: ep6 Going Green 27th August 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards Lizzie, Alice Fraser, Paul Doolan, Jon Hunter
-- 2021-08-20 — Party's Over: ep5 The Great Outdoors 20th August 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards, Paul Doolan, Jon Hunter, Richard Morris
-- 2021-08-13 — Party's Over: ep4 Parish Council 13th August 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards Albert, Joseph Marcell Written, Paul Doolan, Jon Hunter
-- 2021-08-06 — Party's Over: ep3 New Party 6th August 2021 — speakers: Miles Jupp, Henry Tobin, Scott Machin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards Scott, Kiell Smith-Bynoe Written, Paul Doolan
-- 2021-08-02 — Party's Over: ep2 Road Trip 30th July 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards, Paul Doolan, Jon Hunter, Richard Morris
-- 2021-07-16 — Dead Ringers, 16th July, 2021 — speakers: Dead Ringers, Ronan Keating, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Tom Jamieson, Laurence Howarth
-- 2021-07-09 — Dead Ringers, 9th July, 2021 — speakers: Dead Ringers, Angela Rayner, Andy Murray, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey
-- 2021-07-02 — Dead Ringers, Series 21, Episode 4 — speakers: Dead Ringers, Sajid Javid, Harry Kane, Andy Murray, Tom Jamieson, Nev Fountain, Laurence Howarth
-- 2021-06-25 — Dead Ringers, 25th June, 2021 — speakers: Dead Ringers, Chris Whitty, Jon Culshaw, Lewis Macleod, Jan Ravens, Duncan Wisbey, Tom Jamieson
-- 2021-06-18 — Dead Ringers, 18th June, 2021 — speakers: Dead Ringers, Martin Bashir, Tom Jamieson, Nev Fountain, Laurence Howarth, Tom Coles Ed Amsden, Jeffrey Aidoo
-- 2021-06-14 — Dead Ringers 11th June 2021 — speakers: Tom Cruise, Tom Jamieson, Nev Fountain, Laurence Howarth, Tom Coles Ed Amsden, Jeffrey Aidoo, Simon Alcock, James Bugg
-- 2021-06-04 — The News Quiz - Friday 4th June 2021 — speakers: Andy Zaltzman, Andrew Maxwell, Alex Massie, Alice Fraser, Max Davis, Tasha Dhanraj, Richard Morris, Cherlynn Andrew-Wilfred Sound
-- 2021-05-28 — The News Quiz - Friday 28th May 2021 — speakers: Andy Zaltzman, Lucy Porter, Alice Fraser, Eleanor Morton, Rajiv Karia, Simon Alcock, Richard Morris, Cherlynn Andrew-Wilfred Sound
-- 2021-05-21 — The News Quiz - Friday 21st May 2021 — speakers: Andy Zaltzman, Geoff Norcott, Eleanor Tiernan, Richard Morris, Cherlynn Andrew-Wilfred Sound, Marc Willcox
-- 2021-05-14 — The News Quiz - Friday 14th May 2021 — speakers: Andy Zaltzman, Danny Finkelstein, Catherine Bohart, Darren Harriott, Alice Fraser, Max Davis, Rajiv Karia, Hannah Platt
-- 2021-05-07 — The News Quiz - Friday 7th May 2021 — speakers: Andy Zaltzman, Paul Sinha, Angela Barnes, Ayesha Hazarika, Ian Smith, Alice Fraser, Mike Shephard, Tasha Dhanraj
-- 2021-04-30 — The News Quiz - Friday 30th April 2021 — speakers: Andy Zaltzman, Simon Evans, Helen Lewis, Elis James, Alice Fraser, Mike Shephard, Tasha Dhanraj, Tom Mayhew
-- 2021-04-23 — The News Quiz - Friday 23rd April 2021 — speakers: Andy Zaltman, Andrew Maxwell, Athena Kugblenu, Anne McElvoy, Chris McCausland, Andy Zaltzman, Alice Fraser, Mike Shephard
-- 2021-04-16 — The News Quiz - Friday 16th April 2021 — speakers: Andy Zaltzman, Hugo Rifkind, Susie McCabe, Lucy Porter, Alice Fraser, Simon Alcock, Tasha Dhanraj, Jenan Younis
-- 2021-04-10 — The Now Show - 9th April ft Ria Lina, Alun Cochrane and Rachel Parris — speakers: Alun Cochrane, Rachel Parris, Steve Punt, Katie Norris, Luke Kempner Producer, Pete Strauss Production Co-Ordinator, David Thomas
-- 2021-04-02 — The Now Show - 2nd April ft Geoff Norcott, Laura Lexx and Huge Davies — speakers: Laura Lexx, Steve Punt, Geoff Norcott, Emily Lloyd-Saini, Kieran Hodgson Producer, Pete Strauss Production Co-Ordinator, David Thomas
-- 2021-03-26 — The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris — speakers: Janine Harouni, Rachel Parris, Steve Punt, Chiara Goldsmith, Luke Kempner Producer, Pete Strauss Production Co-Ordinator, Sarah Sharpe, David Thomas
-- 2021-03-19 — The Now Show - 19th March ft Lucy Porter, Eshaan Akbar and Jess Robinson — speakers: Lucy Porter, Eshaan Akbar, Jess Robinson, Steve Punt, Felix Hagen, Jason Forbes, Karen Bartke, Pete Strauss Production Co-Ordinator
-- 2021-03-12 — The Now Show - 12th March ft Daliso Chaponda, Ellie Taylor and Huge Davies — speakers: Ellie Taylor, Steve Punt, George Fouracres, Gemma Arrowsmith Producer, Pete Strauss Production Co-Ordinator, David Thomas
-- 2021-03-05 — The Now Show - 5th March ft Zoe Lyons, Chris McCausland, Tim Sutton and Sooz Kempner — speakers: Chris McCausland, Tim Sutton, Steve Punt, George Fouracres, Karen Bartke, Adnan Ahmed Production Co-Ordinator, David Thomas
-- 2021-02-26 — The Now Show - 26th February - ft Jess Fostekew, Beardyman and Ken Cheng... — speakers: Ken Cheng, Steve Punt, Jessica Fostekew, Luke Kempner, Gemma Arrowsmith Producer, Adnan Ahmed Production Co-Ordinator, David Thomas
+- 2021-08-27 — Party's Over: ep6 Going Green 27th August 2021 — speakers: Going Green, Prime Minister
+- 2021-08-20 — Party's Over: ep5 The Great Outdoors 20th August 2021 — speakers: Prime Minister
+- 2021-08-13 — Party's Over: ep4 Parish Council 13th August 2021 — speakers: Parish Council, Prime Minister
+- 2021-08-06 — Party's Over: ep3 New Party 6th August 2021 — speakers: New Party, Prime Minister
+- 2021-08-02 — Party's Over: ep2 Road Trip 30th July 2021 — speakers: Road Trip, Prime Minister
+- 2021-07-16 — Dead Ringers, 16th July, 2021 — speakers: Dead Ringers
+- 2021-07-09 — Dead Ringers, 9th July, 2021 — speakers: Dead Ringers, Angela Rayner
+- 2021-07-02 — Dead Ringers, Series 21, Episode 4 — speakers: Dead Ringers, Sajid Javid, Harry Kane
+- 2021-06-25 — Dead Ringers, 25th June, 2021 — speakers: Dead Ringers, Chris Whitty
+- 2021-06-18 — Dead Ringers, 18th June, 2021 — speakers: Dead Ringers
+- 2021-06-14 — Dead Ringers 11th June 2021 — speakers: Dead Ringers, Will England
+- 2021-06-04 — The News Quiz - Friday 4th June 2021 — speakers: Andy Zaltzman, Andrew Maxwell
+- 2021-05-28 — The News Quiz - Friday 28th May 2021 — speakers: Andy Zaltzman, Lucy Porter, Alice Fraser
+- 2021-05-21 — The News Quiz - Friday 21st May 2021 — speakers: Andy Zaltzman, Geoff Norcott, Eleanor Tiernan
+- 2021-05-14 — The News Quiz - Friday 14th May 2021 — speakers: Andy Zaltzman, Danny Finkelstein
+- 2021-05-07 — The News Quiz - Friday 7th May 2021 — speakers: Andy Zaltzman, Paul Sinha, Angela Barnes, Ayesha Ha
+- 2021-04-30 — The News Quiz - Friday 30th April 2021 — speakers: Andy Zaltzman, Simon Evans, Helen Lewis, Elis James
+- 2021-04-23 — The News Quiz - Friday 23rd April 2021 — speakers: Andy Zaltman, Andrew Maxwell, Athena Kug
+- 2021-04-16 — The News Quiz - Friday 16th April 2021 — speakers: Andy Zaltzman, Hugo Rifkind, Susie McCabe
+- 2021-04-10 — The Now Show - 9th April ft Ria Lina, Alun Cochrane and Rachel Parris — speakers: Alun Cochrane, Rachel Parris, Steve Punt
+- 2021-04-02 — The Now Show - 2nd April ft Geoff Norcott, Laura Lexx and Huge Davies — speakers: Laura Lexx, Steve Punt
+- 2021-03-26 — The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris — speakers: Janine Harouni, Rachel Parris, Steve Punt
+- 2021-03-19 — The Now Show - 19th March ft Lucy Porter, Eshaan Akbar and Jess Robinson — speakers: Lucy Porter, Eshaan Akbar, Jess Robinson, Steve Punt
+- 2021-03-12 — The Now Show - 12th March ft Daliso Chaponda, Ellie Taylor and Huge Davies — speakers: Ellie Taylor, Steve Punt
+- 2021-03-05 — The Now Show - 5th March ft Zoe Lyons, Chris McCausland, Tim Sutton and Sooz Kempner — speakers: Chris McCausland, Tim Sutton, Steve Punt
