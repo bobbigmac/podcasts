@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-02-26T03:11:10+00:00`
-- checked_at: `2026-02-26T03:11:10+00:00`
-- last_modified: `Thu, 26 Feb 2026 00:15:06 GMT`
+- fetched_at: `2026-02-26T10:07:01+00:00`
+- checked_at: `2026-02-26T10:07:01+00:00`
+- last_modified: `Thu, 26 Feb 2026 09:52:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/2bd761193d6895adbeb3644032f20f68.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-26T03:11:10+00:00",
+  "fetched_at": "2026-02-26T10:07:01+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -31,9 +31,9 @@
       "title": "Telling Your Sri Lankan Mum You're Dieting...",
       "published_at": "2026-02-26T00:01:00+00:00",
       "link": null,
-      "description": "Cooking advice, dieting disasters and impressions that probably shouldn’t happen... Romesh is joined once again by mum Shanthi Ranganathan for another episode of unfiltered family chat. They cover Shanthi’s go-to recipes, strong opinions on chicken, and what it’s actually like trying to diet with a Sri Lankan mum in the house. There’s listener questions, unexpected tangents (including one about poop), impressions of Josh Widdicombe, and Romesh attempting a Tamil impression that may or may not get him in trouble. As always: advice is given confidently. Whether you should follow it is another matter. A Ranga Bee Production in partnership with Listen. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Cooking advice, dieting disasters and impressions that probably shouldn’t happen... Romesh is joined once again by mum Shanthi Ranganathan for another episode of unfiltered family chat. They cover Shanthi’s go-to recipes, strong opinions on chicken, and what it’s actually like trying to diet with a Sri Lankan mum in the house. There’s listener questions, unexpected tangents (including one about poop), impressions of Josh Widdicombe, and Romesh attempting a Tamil impression that may or may not get him in trouble. As always: advice is given confidently. Whether you should follow it is another matter. A Ranga Bee Production in partnership with Listen. 00:00 Intro 03:03 Josh Widdicombe Impressions 04:34 On poop 05:13 A question from you 06:10 Shanthi’s recipe 11:43 A question on chicken 14:36 Shanthi’s cooking advice 18:30 How to diet with a Sri Lankan Mum 20:24 Romesh’s Tamil Impression 23:59 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5deddb20-1272-11f1-9faf-7b422672c241/image/bcad7114b0e31009433adcf8bf46a927.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8700158826.mp3?updated=1772055588",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8700158826.mp3?updated=1772099125",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1694",
