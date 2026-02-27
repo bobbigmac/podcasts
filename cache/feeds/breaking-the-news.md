@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-02-26T13:43:52+00:00`
-- checked_at: `2026-02-26T13:43:52+00:00`
-- etag: `"4f1bba137371f747fe635057a9d2a08e"`
-- last_modified: `Thu, 26 Feb 2026 12:56:02 GMT`
+- fetched_at: `2026-02-27T15:52:23+00:00`
+- checked_at: `2026-02-27T15:52:23+00:00`
+- etag: `"43608c0492d2b0cb7a63f58e65780f46"`
+- last_modified: `Fri, 27 Feb 2026 15:26:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-02-26T13:43:52+00:00",
+  "fetched_at": "2026-02-27T15:52:23+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -30,6 +30,33 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "882cf8fe71d2858dc0d78c8d3368ec4db5c14853",
+      "title": "Jay Lafferty, Robin Ince, Sam Lake and Amanda Hursy",
+      "published_at": "2026-02-27T14:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002rp4r",
+      "description": "Des and the teams break up the week's big news. Including: the arrest of Peter Mandelson, the opening of new walk-in GP Surgeries in Scotland, if people in their 60s are the luckiest generation, the proposed addition of snowball fighting to the Winter Olympics, Alan Carr’s new Scottish property and more. Lead Writer: Adelle Cliff Additional material: Sean Gorman, Alex Buchanan and Mark Granger, Louis Beer, Fearghas Kelly, James Docherty, Nathan Cowley, Jon Paisley, Cooper Mawhinney Sweryt, Oli Higham, Gordon Watson, Stuart Cooke, Neil Bratchpiece, Heather Kondak Ross Producer: Chris Quilietti Senior Producer: Lauren Mackay Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n3pd1w.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Jay Lafferty",
+        "Robin Ince",
+        "Sam Lake",
+        "Peter Mandelson",
+        "Bbc Radio Scotland"
+      ],
+      "topics": [
+        "lafferty",
+        "robin",
+        "ince",
+        "lake",
+        "amanda",
+        "hursy"
+      ]
+    },
     {
       "key": "9d4ac60dea2a0d1e16585ed92a8bf2a55a6faddd",
       "title": "Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid",
@@ -183,6 +210,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — Jay Lafferty, Robin Ince, Sam Lake and Amanda Hursy — speakers: Jay Lafferty, Robin Ince, Sam Lake, Peter Mandelson, Bbc Radio Scotland
 - 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Bbc Radio Scotland
 - 2026-01-01 — Breaking the Year — speakers: Bbc Radio Scotland
 - 2025-12-26 — The Best of Unbroadcast — speakers: Unbroadcast Join Des Clarke, Bbc Radio Scotland

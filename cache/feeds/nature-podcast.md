@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-02-25T16:19:49+00:00`
-- checked_at: `2026-02-25T16:19:49+00:00`
-- etag: `"djEuMi4wOjE3NzIwMzUyMzk1Mjc="`
+- fetched_at: `2026-02-27T15:52:23+00:00`
+- checked_at: `2026-02-27T15:52:23+00:00`
+- etag: `"djEuMi4wOjE3NzIyMDY3MjU3NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-02-25T16:19:49+00:00",
+  "fetched_at": "2026-02-27T15:52:23+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "83499b48dcffcceea7fe2e3f70cd0de1d3f47c3f",
+      "title": "Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers",
+      "published_at": "2026-02-27T15:38:45+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-00674-x",
+      "description": "In this episode: 00:15 How Pokémon inspired fields as diverse as evolution, biodiversity and research integrity. Nature: Pokémon turns 30 — how the fictional pocket monsters shaped science Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69a1ba850b98e7a136b72baf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "10663415",
+      "itunes_duration": "11:05",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "briefing",
+        "chat",
+        "pikachu",
+        "generation",
+        "researcher"
+      ]
+    },
     {
       "key": "9e9b0ddb2ac4f3c38f9269b28c5c5ae7afffb994",
       "title": "How earthquakes and lightning help explain squeaky sneakers",
@@ -19105,6 +19128,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-25 — How earthquakes and lightning help explain squeaky sneakers — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-20 — Briefing chat: How hovering bumblebees keep their cool — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-18 — This chunk of glass could store two million books for 10,000 years — speakers: Microsoft Research Project Silica, Team Nature, Benjamin Thompson, Noah Baker
