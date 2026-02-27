@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-02-26T19:10:12+00:00`
-- checked_at: `2026-02-26T19:10:12+00:00`
-- etag: `"djEuMi4wOjE3NzIxMjg5ODM2ODI="`
+- fetched_at: `2026-02-27T09:59:13+00:00`
+- checked_at: `2026-02-27T09:59:13+00:00`
+- etag: `"djEuMi4wOjE3NzIxNzg0MzUwODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-02-26T19:10:12+00:00",
+  "fetched_at": "2026-02-27T09:59:13+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2c4e43ca2b6b8d4de46b8c650fb46ca650b99979",
+      "title": "Historic win for the Greens",
+      "published_at": "2026-02-27T07:21:08+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/historic-win-for-the-greens",
+      "description": "Hannah Spencer, a plumber and Green Party councillor, is now the MP for Gorton and Denton. The party takes the seat from right under Labour, following weeks of what was seen to be a three way race with Reform. Megan Kenyon is joined by Ben Walker. SAVE £££ THIS CHRISTMAS: ⭐️ Gift big ideas, bold politics, and proper journalism from just £2 LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772176812738-c8d9ab8f-2c62-4398-924a-561775031ca8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69a145e49d923e5ce90cec9e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20461205",
+      "itunes_duration": "14:12",
+      "speakers": [
+        "Hannah Spencer",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "greens"
+      ]
+    },
     {
       "key": "e7edef7ccacbc84c3a0685a35cc8b88bd7b2946f",
       "title": "Puberty blockers, blocked",
@@ -30184,6 +30204,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — Historic win for the Greens — speakers: Hannah Spencer, Anoosh Chakelian, Oli Dugmore
 - 2026-02-26 — Puberty blockers, blocked — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-02-25 — Andrew, Epstein and the crumbling crown — speakers: Andrew Mountbatten-Windsor, Anoosh Chakelian, Oli Dugmore
 - 2026-02-24 — A three horse race in Gorton and Denton — speakers: Anoosh Chakelian, Oli Dugmore

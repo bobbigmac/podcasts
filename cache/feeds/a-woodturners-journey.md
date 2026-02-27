@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-02-27T03:08:24+00:00`
-- checked_at: `2026-02-27T03:08:24+00:00`
-- etag: `"djEuMi4wOjE3NzIxNDczMDEyMzM="`
+- fetched_at: `2026-02-27T09:59:13+00:00`
+- checked_at: `2026-02-27T09:59:13+00:00`
+- etag: `"djEuMi4wOjE3NzIxNzkyMzk1MDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-02-27T03:08:24+00:00",
+  "fetched_at": "2026-02-27T09:59:13+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -26,6 +26,24 @@
     "hobbies"
   ],
   "episodes": [
+    {
+      "key": "dd8eca1b108b701c806bfd6f0d977c9d3f81d8f9",
+      "title": "Ep 32 - The Vacuum",
+      "published_at": "2026-02-27T08:00:00+00:00",
+      "link": "https://shows.acast.com/a-woodturners-journey/episodes/ep-32-the-vacuum",
+      "description": "Enjoy episode 32. Vacuum pumps, criticizing others work and do you tell them? Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1772147290475-ba9c8aed-c3c6-48de-a9ee-d30b8724d973.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/69a0d265e4e1627e8ccddaee/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120931723",
+      "itunes_duration": "1:00:49",
+      "speakers": [
+        "Chris Jacobsen"
+      ],
+      "topics": [
+        "vacuum"
+      ]
+    },
     {
       "key": "fecc4bf1d43053239130b60305b2f17b799a7219",
       "title": "Ep 31 - WE ARE THE CHAMPIONS",
@@ -635,6 +653,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — Ep 32 - The Vacuum — speakers: Chris Jacobsen
 - 2026-02-13 — Ep 31 - WE ARE THE CHAMPIONS — speakers: Chris Jacobsen
 - 2026-01-30 — Ep 30 - Your head got misplaced — speakers: Chris Jacobsen
 - 2026-01-16 — 29 - Keep Off The Lawn — speakers: Chris Jacobsen

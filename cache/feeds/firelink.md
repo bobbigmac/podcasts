@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-02-21T09:44:27+00:00`
-- checked_at: `2026-02-21T09:44:27+00:00`
-- etag: `W/"306fb-L7OUYAk5FyJ9+38LEi1fm+8dxd0"`
+- fetched_at: `2026-02-27T09:59:13+00:00`
+- checked_at: `2026-02-27T09:59:13+00:00`
+- etag: `W/"306fb-hilyeRxZ6Qkcf+dyatK7rPY7JYM"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-02-21T09:44:27+00:00",
+  "fetched_at": "2026-02-27T09:59:13+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -394,7 +394,6 @@
       "enclosure_length": "186224864",
       "itunes_duration": "02:09:19",
       "speakers": [
-        "Silent Hill",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -590,6 +589,7 @@
       "enclosure_length": "145747616",
       "itunes_duration": "01:41:12",
       "speakers": [
+        "Fantasy Critic League",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -612,7 +612,6 @@
       "enclosure_length": "93367328",
       "itunes_duration": "01:04:50",
       "speakers": [
-        "Nintendo Partner Showcase",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -711,6 +710,7 @@
       "enclosure_length": "137190560",
       "itunes_duration": "01:35:16",
       "speakers": [
+        "Death Str",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -908,7 +908,6 @@
       "enclosure_length": "145968800",
       "itunes_duration": "01:41:22",
       "speakers": [
-        "Giant Bomb",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -1120,8 +1119,7 @@
       "itunes_duration": "02:08:50",
       "speakers": [
         "Tony Hawk",
-        "Tony Hawk Remastered",
-        "Hunter Wilds",
+        "Tony Hawk Remastered Monster",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -1249,6 +1247,7 @@
       "enclosure_length": "151117088",
       "itunes_duration": "01:44:56",
       "speakers": [
+        "Second Wind",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -1395,7 +1394,6 @@
       "enclosure_length": "176756576",
       "itunes_duration": "02:02:44",
       "speakers": [
-        "Second Wind",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -1444,7 +1442,6 @@
       "enclosure_length": "165296493",
       "itunes_duration": "01:54:47",
       "speakers": [
-        "Second Wind",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -1718,8 +1715,6 @@
       "enclosure_length": "137329465",
       "itunes_duration": "01:35:21",
       "speakers": [
-        "Secret Level",
-        "Peter Molyneux",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -1790,7 +1785,6 @@
       "enclosure_length": "168543085",
       "itunes_duration": "01:57:02",
       "speakers": [
-        "Second Wind",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -1965,7 +1959,6 @@
       "enclosure_length": "162437805",
       "itunes_duration": "01:52:48",
       "speakers": [
-        "Neil Druckmann",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -2251,7 +2244,6 @@
       "itunes_duration": "01:27:08",
       "speakers": [
         "Elden Ring Shadow",
-        "Second Wind",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -2327,7 +2319,6 @@
       "enclosure_length": "144580077",
       "itunes_duration": "01:40:24",
       "speakers": [
-        "Second Wind",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -2355,7 +2346,6 @@
       "itunes_duration": "02:04:47",
       "speakers": [
         "Kahlief Adams",
-        "Second Wind",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -2426,7 +2416,6 @@
       "enclosure_length": "216651501",
       "itunes_duration": "02:30:27",
       "speakers": [
-        "Second Wind",
         "Marty Sliva",
         "Nick Calandra",
         "KC Nwosu"
@@ -2523,7 +2512,7 @@
 - 2025-10-24 — Our Favorite Video Game Performances Ever | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-10-17 — What a Weird Week for the Pokémon Company | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-10-10 — We've Been Hit with Another Sudden Deluge of Good Games | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2025-10-03 — Breaking Down This Week's Big AAA Drama | Firelink Podcast — speakers: Silent Hill, Marty Sliva, Nick Calandra, KC Nwosu
+- 2025-10-03 — Breaking Down This Week's Big AAA Drama | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-09-26 — Marvel's Wolverine Looks Exactly As Bloody As It Should | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-09-19 — Rad 2025 Games That Slipped Under the Radar | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-09-12 — Nintendo Direct Hopes/Wishes + Silksong Continues to Impress | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
@@ -2531,12 +2520,12 @@
 - 2025-08-29 — Silksong Is Causing Other Games to Flee Its Orbit | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-08-22 — Hollow Knight: Silksong Is Real, and It's Out Very, Very Soon | Firelink Podcast — speakers: Hollow Knight, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-08-15 — Is a "Good Enough" Game Good Enough Anymore? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2025-08-11 — There Are SO MANY Games, and We Have Been Playing Them | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2025-08-01 — Can Battlefield 6 Still Deliver the Juice? | Firelink Podcast — speakers: Nintendo Partner Showcase, Marty Sliva, Nick Calandra, KC Nwosu
+- 2025-08-11 — There Are SO MANY Games, and We Have Been Playing Them | Firelink Podcast — speakers: Fantasy Critic League, Marty Sliva, Nick Calandra, KC Nwosu
+- 2025-08-01 — Can Battlefield 6 Still Deliver the Juice? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-07-26 — Chatting DK Bananza + Predicting 2025's GOTY Nominees | Firelink Podcast — speakers: Chatting DK Bananza Predicting, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-07-18 — Donkey Kong Bananza First Impressions | Firelink Podcast — speakers: Donkey Kong Bananza, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-07-05 — What Does the Future of Xbox Look Like? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2025-06-27 — A Deluge of Good New Games Is Upon Us | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
+- 2025-06-27 — A Deluge of Good New Games Is Upon Us | Firelink Podcast — speakers: Death Str, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-06-20 — You Should Be Playing The Alters Instead of Watching This Podcast | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-06-13 — Switch 2 Soars, MindsEye Sinks, and Silent Hill 1 Is Being Remade | Firelink Podcast — speakers: Switch Soars, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-06-06 — Nintendo Switch 2: Day One Impressions | Firelink Podcast — speakers: Nintendo Switch, Marty Sliva, Nick Calandra, KC Nwosu
@@ -2544,7 +2533,7 @@
 - 2025-05-23 — "If You're a Real Fan..." | Firelink Podcast — speakers: Randy Pitchford, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-05-17 — What Does a 10/10 Actually Mean? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-05-09 — Grand Theft Auto VI Is Going to Sell Several Bajillion Copies in 2026 | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2025-05-03 — Xbox Just Got More Expensive and Corps Ruin More Games Outlets | Firelink Podcast — speakers: Giant Bomb, Marty Sliva, Nick Calandra, KC Nwosu
+- 2025-05-03 — Xbox Just Got More Expensive and Corps Ruin More Games Outlets | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-04-25 — Happy RPG Week (Oblivion Remastered + Clair Obscur: Expedition 33) | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-04-18 — Oblivion Remaster and the State of Bethesda in 2025 | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-04-12 — We've Got Ourselves a GOTY Contender in Blue Prince | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
@@ -2552,20 +2541,20 @@
 - 2025-03-28 — Amidst Industry Chaos, Japan's AAA Scene Is Thriving | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-03-21 — Early Assassin's Creed Shadows Impressions + News on Amazon's God of War Series | Firelink Podcast — speakers: Creed Shadows, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-03-15 — The Latest Death Stranding 2 Trailer is Peak Kojima in the Best Way | Firelink Podcast — speakers: Peak Kojima, Split Fiction, Marty Sliva, Nick Calandra, KC Nwosu
-- 2025-03-08 — Stop Rereleasing Games (Unless It's Tony Hawk's Pro Skater 3) | Firelink Podcast — speakers: Tony Hawk, Tony Hawk Remastered, Hunter Wilds, Marty Sliva, Nick Calandra, KC Nwosu
+- 2025-03-08 — Stop Rereleasing Games (Unless It's Tony Hawk's Pro Skater 3) | Firelink Podcast — speakers: Tony Hawk, Tony Hawk Remastered Monster, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-02-28 — We've Played Over 40 Hours of Monster Hunter Wilds, and... | Firelink Podcast — speakers: Hunter Wilds, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-02-20 — Make Some Time for Avowed and Pirate Yakuza in Hawaii | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-02-13 — PlayStation State of Play Reactions | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-02-06 — Kingdom Come: Deliverance 2 Is 2025's First Massive Hit | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2025-01-30 — Favorite First Games From Developers | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
+- 2025-01-30 — Favorite First Games From Developers | Firelink Podcast — speakers: Second Wind, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-01-23 — PlayStation, What the Hell Are You Doing?| Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-01-16 — The Second Wind Video Game Fantasy Draft! | Firelink Podcast — speakers: Fantasy Draft, Marty Sliva, Nick Calandra, KC Nwosu
 - 2025-01-09 — Games We're Looking Forward to in 2025 | Firelink Podcast — speakers: Nick kick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-12-21 — 2024 Was a _____ Year For Gaming | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-12-12 — Secret Level's First Batch of Episodes Are Here, But Are They Good? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-12-05 — Is the Original PlayStation a Top-Tier Console? | Firelink Podcast — speakers: Second Wind, Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-12-05 — Is the Original PlayStation a Top-Tier Console? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-11-22 — FromSoftware's Very Strange Week | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-11-14 — Four Years In, How's This Console Generation Holding Up? | Firelink Podcast — speakers: Second Wind, Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-11-14 — Four Years In, How's This Console Generation Holding Up? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-11-01 — Where Have All the AAA Shooter Campaigns Gone? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-10-25 — Did You Know Netflix Had a AAA Game Studio? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-10-18 — The State of Trend-Chasing Indies | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
@@ -2576,17 +2565,17 @@
 - 2024-09-13 — Following Up an Indie Darling (ft. Dean Walshe - Wild Bastards) | Firelink Podcast — speakers: Dean Walshe Wild Bastards, Dean Walshe, Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-09-05 — How Does Something Like Concord Happen? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-08-30 — Deadlock, Wukong, and Star Wars Outlaws Impressions | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-08-22 — Breaking Down the Biggest Gamescom Reveals | Firelink Podcast — speakers: Secret Level, Peter Molyneux, Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-08-22 — Breaking Down the Biggest Gamescom Reveals | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-08-08 — Game Music We Can't Get Out of Our Heads | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-08-01 — More Layoffs at Bungie While CEO Buys Cars | Firelink Podcast — speakers: Buys Cars, Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-07-25 — Is Marvel Rivals Set to be The Next Big Hero Shooter? | Firelink Podcast — speakers: Second Wind, Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-07-25 — Is Marvel Rivals Set to be The Next Big Hero Shooter? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-07-18 — Launching a New Franchise in 2024... Good Luck | Firelink Podcast — speakers: Good Luck, Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-07-11 — Xbox Continues to Confuse | Firelink Podcast — speakers: Xbox Continues, Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-07-04 — Don't Forget to Enjoy Your Hobby | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-06-28 — Is Shadow of the Erdtree the Best Expansion Ever? | Firelink Podcast — speakers: Elden Ring, Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-06-13 — Summer Game Fest Winners and Losers | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-06-06 — Our Summer Game Fest Expectations and Speculation | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-05-30 — PlayStation's Weird PR Fiasco | Firelink Podcast — speakers: Neil Druckmann, Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-05-30 — PlayStation's Weird PR Fiasco | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-05-18 — Indie Developers Are Absolutely Crushing It Right Now | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-05-09 — Xbox, What the Hell Are You Doing? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-05-02 — When Developers / Publishers Lose the Trust of Their Fans | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
@@ -2598,14 +2587,14 @@
 - 2024-03-25 — Is It Weird That We're Already Talking about a PS5 Pro? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-03-25 — Triple A vs Triple I | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-03-01 — We Played 100 Hours of Final Fantasy VII Rebirth, and... | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-02-23 — Elden Ring: Shadow of the Erdtree, Baby! | Firelink Podcast — speakers: Elden Ring Shadow, Second Wind, Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-02-23 — Elden Ring: Shadow of the Erdtree, Baby! | Firelink Podcast — speakers: Elden Ring Shadow, Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-02-18 — This Xbox Podcast Could Have Been an Email (ft. Frost) | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-02-09 — The "Calm" Before the Xbox Storm | Firelink Podcast — speakers: Xbox Storm, Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-02-02 — PlayStation State of Play with Second Wind | Firelink Podcast — speakers: Second Wind, Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-01-26 — The Palworld Hubbub (ft. Kahlief Adams) | Firelink Podcast — speakers: Kahlief Adams, Second Wind, Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-02-02 — PlayStation State of Play with Second Wind | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-01-26 — The Palworld Hubbub (ft. Kahlief Adams) | Firelink Podcast — speakers: Kahlief Adams, Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-01-19 — The Much-Needed Return of Physical Media | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2024-01-12 — Do "Exclusives" Still Matter in 2024? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2024-01-05 — The Year Ahead | Firelink Podcast — speakers: Second Wind, Marty Sliva, Nick Calandra, KC Nwosu
+- 2024-01-05 — The Year Ahead | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2023-12-21 — Our Favorite Games of 2023 — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2023-12-15 — The Day After — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2023-12-08 — Grand Theft Auto VI, The Game Awards... and Layoffs — speakers: Layoffs Marty Sliva, Nick Calandra, Marty Sliva, KC Nwosu
