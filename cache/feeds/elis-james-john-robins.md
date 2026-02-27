@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-02-26T13:43:52+00:00`
-- checked_at: `2026-02-26T13:43:52+00:00`
-- etag: `"34569d17a50ec0e871d13cfdccf38a7e"`
-- last_modified: `Thu, 26 Feb 2026 13:08:36 GMT`
+- fetched_at: `2026-02-27T19:03:11+00:00`
+- checked_at: `2026-02-27T19:03:11+00:00`
+- etag: `"46ea9f2115a9b449668c8bcc6dfb4b77"`
+- last_modified: `Fri, 27 Feb 2026 17:55:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-02-26T13:43:52+00:00",
+  "fetched_at": "2026-02-27T19:03:11+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,33 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "102feddb9d3aba4906d5a090f0381b2bd73cf7dc",
+      "title": "#518 - An 18 Yard Sprint, Sovereignty Not Dominion and Big Diolch Energy",
+      "published_at": "2026-02-27T17:55:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n3r5zh",
+      "description": "Elis is in the middle of a megaweek. He’s about to do a 100m race for charity that he wishes could be 18 yards, he’s been to 10 Downing Street because Sir Keir is in love with him, and he’s been accosted by a roomful of Welsh people wanting to connect with him. But amongst all this he has also been betrayed. For there was a Paul McCartney-based event that he wasn’t invited to, despite another member of the team making the guest list. But what about John? He’s been doing what he does everyday; checking the price of Bitcoin. This despite not ever having owned any. Plus, there’s an update on the WhatsApp community and another cap in the feather of the world’s greatest invention; e-mail. If you want to get in touch via this great unparalleled medium, then send your messages to elisandjohn@bbc.co.uk.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n3rkq7.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55424000",
+      "itunes_duration": "3464",
+      "speakers": [
+        "Yard Sprint",
+        "Sovereignty Not Dominion",
+        "Big Diolch Energy Elis",
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "yard",
+        "sprint",
+        "sovereignty",
+        "dominion",
+        "diolch",
+        "energy"
+      ]
+    },
     {
       "key": "8ba616d63dc59d0e782bbf2f2b2d7d3863cef3fb",
       "title": "#517 - A Peruvian Exit, A 14 Pocket Scenario and A Neyland in the Coffin",
@@ -12509,6 +12536,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — #518 - An 18 Yard Sprint, Sovereignty Not Dominion and Big Diolch Energy — speakers: Yard Sprint, Sovereignty Not Dominion, Big Diolch Energy Elis, Elis James, John Robins
 - 2026-02-24 — #517 - A Peruvian Exit, A 14 Pocket Scenario and A Neyland in the Coffin — speakers: Elis James, John Robins
 - 2026-02-20 — #516 - Master of The Memoir, French Flag Fancy and I Am Full of Eggs — speakers: French Flag Fancy, Am Full, Melvin Brain, Elis James, John Robins
 - 2026-02-17 — #515 - Lads FM, Acquire It and Do you Want Vibes with That? — speakers: Elis James, John Robins

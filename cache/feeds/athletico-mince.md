@@ -2,10 +2,10 @@
 
 - slug: `athletico-mince`
 - source: `https://feeds.acast.com/public/shows/512e6e5b-1328-4152-869e-16ad11c71e70`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"djEuMi4wOjE3NjY1ODc3MzExOTY="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-27T19:03:11+00:00`
+- checked_at: `2026-02-27T19:03:11+00:00`
+- etag: `"djEuMi4wOjE3NzIyMDg1MjE3MjQ="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,17 +17,40 @@
   "link": "https://athleticomince.com",
   "description": "Bob Mortimer and Andy Dawson's podcast - brass hands, blue drink and more. It's not really about football, d'you know what I mean?",
   "image_url": "https://assets.pippa.io/shows/620e4cf6bbc313c2291225d7/55638de6-e973-4375-94e5-11d1669fb19d.png",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-02-27T19:03:11+00:00",
   "owners": [
     "Bob Mortimer",
     "Andy Dawson"
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british",
-    "sports/football"
+    "comedy",
+    "sports"
   ],
   "episodes": [
+    {
+      "key": "35216475ff9b1ff58a6107150c84f91f4e6acffc",
+      "title": "Boiled Parsnips 52: Lemon Drivel",
+      "published_at": "2026-02-27T16:08:26+00:00",
+      "link": "https://shows.acast.com/athleticomince/episodes/boiled-parsnips-52-lemon-drivel",
+      "description": "Safety first, a QR game, Crime Files, a dog-based Littlepod, a visit to an old friend, and some children's pastimes. (Originally recorded for Club Parsnips on 24/4/25 https://www.patreon.com/c/athleticomince ) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/620e4cf6bbc313c2291225d7/55638de6-e973-4375-94e5-11d1669fb19d.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/athleticomince/e/69a1c189f0bb26c29611487c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32094502",
+      "itunes_duration": "42:10",
+      "speakers": [
+        "Boiled Parsnips",
+        "Crime Files",
+        "Bob Mortimer",
+        "Andy Dawson"
+      ],
+      "topics": [
+        "parsnip",
+        "lemon",
+        "drivel"
+      ]
+    },
     {
       "key": "d6d9cdccc582fd093c480ec9bb234dd834577356",
       "title": "The Crime Files Collection Vol. 4",
@@ -106,7 +129,7 @@
       "enclosure_length": "27836706",
       "itunes_duration": "31:18",
       "speakers": [
-        "Club Parsnips",
+        "Dominic Littlewood",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -151,7 +174,6 @@
       "itunes_duration": "29:19",
       "speakers": [
         "Boiled Parsnips",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -173,7 +195,6 @@
       "enclosure_length": "38663616",
       "itunes_duration": "43:47",
       "speakers": [
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -239,6 +260,7 @@
       "itunes_duration": "29:40",
       "speakers": [
         "Boiled Parsnips",
+        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -305,7 +327,6 @@
       "itunes_duration": "30:09",
       "speakers": [
         "Boiled Parsnips",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -329,7 +350,6 @@
       "speakers": [
         "Boiled Parsnips",
         "Harry’s England",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -373,7 +393,6 @@
       "speakers": [
         "Boiled Parsnips",
         "Mickey Nixon",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -396,7 +415,6 @@
       "itunes_duration": "29:24",
       "speakers": [
         "Barry Homeowner",
-        "ciao bella",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -418,7 +436,6 @@
       "itunes_duration": "36:58",
       "speakers": [
         "Train Guy",
-        "Barry Homeowner",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -459,7 +476,6 @@
       "enclosure_length": "23554177",
       "itunes_duration": "29:48",
       "speakers": [
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -480,7 +496,6 @@
       "itunes_duration": "39:22",
       "speakers": [
         "Boiled Parsnips",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -523,7 +538,6 @@
       "speakers": [
         "Boiled Parsnips",
         "Geordie Heat",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -586,8 +600,6 @@
       "itunes_duration": "44:37",
       "speakers": [
         "Geordie Heat",
-        "Club Parsnips",
-        "Athletico Mince",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -608,7 +620,6 @@
       "itunes_duration": "34:26",
       "speakers": [
         "Boiled Parsnips",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -653,7 +664,8 @@
       "enclosure_length": "17275945",
       "itunes_duration": "22:02",
       "speakers": [
-        "Club Parsnips",
+        "Collection Vol",
+        "Club Pa",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -697,7 +709,6 @@
       "itunes_duration": "44:38",
       "speakers": [
         "Harry Kane",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -742,7 +753,7 @@
       "enclosure_length": "19364179",
       "itunes_duration": "20:53",
       "speakers": [
-        "Club Parsnips",
+        "Sean Dyche",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -764,6 +775,7 @@
       "itunes_duration": "39:53",
       "speakers": [
         "Boiled Parsnips",
+        "Peter’s Chri",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -785,7 +797,7 @@
       "enclosure_length": "52689617",
       "itunes_duration": "40:41",
       "speakers": [
-        "Club Parsnips",
+        "Crime Files",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -808,7 +820,6 @@
       "itunes_duration": "43:11",
       "speakers": [
         "Boiled Parsnips",
-        "Club Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -1089,7 +1100,6 @@
       "itunes_duration": "37:55",
       "speakers": [
         "Boiled Parsnips",
-        "Mr Sting",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -1198,7 +1208,6 @@
       "itunes_duration": "38:17",
       "speakers": [
         "Boiled Parsnips",
-        "Mr Sting",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -2021,7 +2030,6 @@
       "itunes_duration": "29:06",
       "speakers": [
         "Boiled Parsnips",
-        "Neil Hunt",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -2167,7 +2175,6 @@
       "enclosure_length": "17438844",
       "itunes_duration": "24:22",
       "speakers": [
-        "Peter Beardsley",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -2213,7 +2220,6 @@
         "Boiled Parsnips",
         "Liam Gallagher",
         "Neil Hunt",
-        "Ron Craggs",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -2236,7 +2242,6 @@
       "itunes_duration": "1:10:29",
       "speakers": [
         "Peter Beardsley",
-        "Nick Knowles",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -2659,12 +2664,7 @@
       "speakers": [
         "Slender People",
         "Sex Robots",
-        "Steve Picks",
-        "Klopp Hop",
-        "Fake Tan",
-        "Sunderland Girl",
-        "Bread Song",
-        "Supermarket Song",
+        "Dyche Mo",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3019,7 +3019,6 @@
       "itunes_duration": "35:40",
       "speakers": [
         "Jordan Henderson",
-        "Lunch Club",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3041,7 +3040,6 @@
       "itunes_duration": "33:18",
       "speakers": [
         "Ian Holloway",
-        "Sean Dyche",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3185,7 +3183,6 @@
       "itunes_duration": "37:09",
       "speakers": [
         "Jordan Henderson",
-        "Joe Swash",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3245,7 +3242,6 @@
       "enclosure_length": "34373409",
       "itunes_duration": "35:48",
       "speakers": [
-        "Harry Kane",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3285,6 +3281,7 @@
       "enclosure_length": "40623393",
       "itunes_duration": "42:18",
       "speakers": [
+        "Reheated Mince Vol",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3325,7 +3322,6 @@
       "enclosure_length": "43756449",
       "itunes_duration": "45:34",
       "speakers": [
-        "Secret Soccer Superstar",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3366,7 +3362,6 @@
       "enclosure_length": "37372065",
       "itunes_duration": "38:55",
       "speakers": [
-        "Susanna Hoffs",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3389,7 +3384,6 @@
       "speakers": [
         "Jordan Henderson",
         "Peter Beardsley",
-        "Nick Knowles",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3411,7 +3405,6 @@
       "speakers": [
         "Steve McClaren",
         "Debbie Ali",
-        "Barry Homeowner",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3474,7 +3467,6 @@
       "enclosure_length": "32398881",
       "itunes_duration": "33:44",
       "speakers": [
-        "Peter Beardsley",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3496,7 +3488,6 @@
       "itunes_duration": "33:50",
       "speakers": [
         "Mark Lawrenson",
-        "Peter Beardsley",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3539,7 +3530,6 @@
       "itunes_duration": "40:20",
       "speakers": [
         "Mick McCarthy",
-        "Steve McClaren",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3580,7 +3570,6 @@
       "enclosure_length": "23589921",
       "itunes_duration": "24:34",
       "speakers": [
-        "Mick McCarthy",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3622,8 +3611,6 @@
       "speakers": [
         "Mick McCarthy",
         "Barry Homeowner",
-        "Peter Beardsley",
-        "Dom Littlewood",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3646,8 +3633,6 @@
         "Ping Ping",
         "Mick McCarthy",
         "Peter Beardsley",
-        "Harry Kane",
-        "Mark Lawrenson",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3688,8 +3673,10 @@
       "enclosure_length": "46032881",
       "itunes_duration": "46:17",
       "speakers": [
-        "Acker Bilk",
-        "Peter Beardsley",
+        "Bonnet Another",
+        "British Manager",
+        "Sunderland Tourist Board",
+        "Dom Littlewood",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3711,7 +3698,6 @@
       "itunes_duration": "42:20",
       "speakers": [
         "Harry Kane",
-        "Peter Beardsley",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3756,8 +3742,6 @@
       "itunes_duration": "39:25",
       "speakers": [
         "Lenny Biscuits",
-        "Barry Homeowner",
-        "Peter Beardsley",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3843,7 +3827,6 @@
       "enclosure_length": "40825377",
       "itunes_duration": "42:31",
       "speakers": [
-        "Vince Parsnips",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3863,7 +3846,6 @@
       "enclosure_length": "43908897",
       "itunes_duration": "45:44",
       "speakers": [
-        "Pierce Morgan",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -3966,7 +3948,7 @@
       "itunes_duration": "41:04",
       "speakers": [
         "Ding Dong",
-        "Barry Homeowner",
+        "Barry Homeowne",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4092,7 +4074,6 @@
       "enclosure_length": "42841761",
       "itunes_duration": "44:37",
       "speakers": [
-        "Little Mouse",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4113,7 +4094,7 @@
       "enclosure_length": "40866465",
       "itunes_duration": "42:34",
       "speakers": [
-        "observational comedy",
+        "observational comed",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4236,7 +4217,6 @@
       "enclosure_length": "31830177",
       "itunes_duration": "33:09",
       "speakers": [
-        "Steve McClaren",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4322,7 +4302,6 @@
       "itunes_duration": "34:04",
       "speakers": [
         "Mark Lawrenson",
-        "Jeremy Corbyn",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4345,7 +4324,7 @@
       "enclosure_length": "32231457",
       "itunes_duration": "33:34",
       "speakers": [
-        "Gregg Wallace",
+        "Gregg Wallac",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4643,7 +4622,7 @@
       "enclosure_length": "36917025",
       "itunes_duration": "38:27",
       "speakers": [
-        "Didier Drogba",
+        "Didier Dro",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4731,7 +4710,6 @@
       "speakers": [
         "Louis van Gaal",
         "Leighton Baines",
-        "Geordie Shore",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4772,7 +4750,6 @@
       "enclosure_length": "45331233",
       "itunes_duration": "47:13",
       "speakers": [
-        "Football Reinvented Lifting",
         "Bob Mortimer",
         "Andy Dawson"
       ],
@@ -4848,42 +4825,43 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — Boiled Parsnips 52: Lemon Drivel — speakers: Boiled Parsnips, Crime Files, Bob Mortimer, Andy Dawson
 - 2025-12-24 — The Crime Files Collection Vol. 4 — speakers: Neil Hunt, Bob Mortimer, Andy Dawson
 - 2025-12-11 — Boiled Parsnips 51: The Power Of Nine — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
 - 2025-10-03 — Boiled Parsnips 50: General Purpose Powder — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
-- 2025-09-19 — The Littlewood Collection Vol. 2 — speakers: Club Parsnips, Bob Mortimer, Andy Dawson
+- 2025-09-19 — The Littlewood Collection Vol. 2 — speakers: Dominic Littlewood, Bob Mortimer, Andy Dawson
 - 2025-08-06 — Boiled Parsnips 49: Missed Spoon Opportunity — speakers: Boiled Parsnips, ding dong, Bob Mortimer, Andy Dawson
-- 2025-06-03 — Boiled Parsnips 48: Ladder Parties — speakers: Boiled Parsnips, Club Parsnips, Bob Mortimer, Andy Dawson
-- 2025-05-23 — The Geordie Heat Collection Vol. 3 — speakers: Club Parsnips, Bob Mortimer, Andy Dawson
+- 2025-06-03 — Boiled Parsnips 48: Ladder Parties — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
+- 2025-05-23 — The Geordie Heat Collection Vol. 3 — speakers: Bob Mortimer, Andy Dawson
 - 2025-05-02 — Boiled Parsnips 47: Norwegian Tasting — speakers: Boiled Parsnips, Ding Dong, Bob Mortimer, Andy Dawson
 - 2025-04-17 — The McClaren Collection Vol. 4 — speakers: Bob Mortimer, Andy Dawson
-- 2025-04-01 — Boiled Parsnips 46 And A Half: Cool Petrol Guy — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
+- 2025-04-01 — Boiled Parsnips 46 And A Half: Cool Petrol Guy — speakers: Boiled Parsnips, Club Parsnips, Bob Mortimer, Andy Dawson
 - 2025-03-08 — The Beardsley Collection Vol. 5 — speakers: Bob Mortimer, Andy Dawson
 - 2025-02-28 — Boiled Parsnips 45: Japanese Street Food Van — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
-- 2025-01-28 — Boiled Parsnips 44: Fish Truthers — speakers: Boiled Parsnips, Club Parsnips, Bob Mortimer, Andy Dawson
-- 2024-12-27 — Boiled Parsnips 43: Bone On Bone — speakers: Boiled Parsnips, Harry’s England, Club Parsnips, Bob Mortimer, Andy Dawson
+- 2025-01-28 — Boiled Parsnips 44: Fish Truthers — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
+- 2024-12-27 — Boiled Parsnips 43: Bone On Bone — speakers: Boiled Parsnips, Harry’s England, Bob Mortimer, Andy Dawson
 - 2024-11-27 — The Littlewood Collection Vol. 1 — speakers: Dom Littlewood, Bob Mortimer, Andy Dawson
-- 2024-11-12 — Boiled Parsnips 42: Business Monkey — speakers: Boiled Parsnips, Mickey Nixon, Club Parsnips, Bob Mortimer, Andy Dawson
-- 2024-09-27 — The Homeowner Collection Vol. 2 — speakers: Barry Homeowner, ciao bella, Bob Mortimer, Andy Dawson
-- 2024-09-27 — The Homeowner Collection Vol. 1 — speakers: Train Guy, Barry Homeowner, Bob Mortimer, Andy Dawson
+- 2024-11-12 — Boiled Parsnips 42: Business Monkey — speakers: Boiled Parsnips, Mickey Nixon, Bob Mortimer, Andy Dawson
+- 2024-09-27 — The Homeowner Collection Vol. 2 — speakers: Barry Homeowner, Bob Mortimer, Andy Dawson
+- 2024-09-27 — The Homeowner Collection Vol. 1 — speakers: Train Guy, Bob Mortimer, Andy Dawson
 - 2024-09-19 — The Martin Collection Vol. 2 — speakers: Bob Mortimer, Andy Dawson
-- 2024-08-06 — Ep. 125 - Mr. Parakeet — speakers: Club Parsnips, Bob Mortimer, Andy Dawson
-- 2024-07-30 — Boiled Parsnips 41: No No No No No — speakers: Boiled Parsnips, Club Parsnips, Bob Mortimer, Andy Dawson
+- 2024-08-06 — Ep. 125 - Mr. Parakeet — speakers: Bob Mortimer, Andy Dawson
+- 2024-07-30 — Boiled Parsnips 41: No No No No No — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
 - 2024-06-28 — The Geordie Heat Collection Vol. 2 — speakers: Bob Mortimer, Andy Dawson
-- 2024-06-13 — Boiled Parsnips 40: Safety First — speakers: Boiled Parsnips, Geordie Heat, Club Parsnips, Bob Mortimer, Andy Dawson
+- 2024-06-13 — Boiled Parsnips 40: Safety First — speakers: Boiled Parsnips, Geordie Heat, Bob Mortimer, Andy Dawson
 - 2024-05-17 — The Slaughters Collection Vol. 2 — speakers: Bob Mortimer, Andy Dawson
 - 2024-05-15 — The Beardsley Joke Collection Vol. 2 — speakers: Bob Mortimer, Andy Dawson
-- 2024-04-30 — Ep. 124 - No Fighting — speakers: Geordie Heat, Club Parsnips, Athletico Mince, Bob Mortimer, Andy Dawson
-- 2024-03-21 — Boiled Parsnips 39: What Are Machines? — speakers: Boiled Parsnips, Club Parsnips, Bob Mortimer, Andy Dawson
+- 2024-04-30 — Ep. 124 - No Fighting — speakers: Geordie Heat, Bob Mortimer, Andy Dawson
+- 2024-03-21 — Boiled Parsnips 39: What Are Machines? — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
 - 2024-02-20 — Boiled Parsnips 38: Sound Effects Extravaganza — speakers: Boiled Parsnips, Hunt vs Sugar, Bob Mortimer, Andy Dawson
-- 2024-02-01 — The McCarthy Collection Vol. 1 — speakers: Club Parsnips, Bob Mortimer, Andy Dawson
+- 2024-02-01 — The McCarthy Collection Vol. 1 — speakers: Collection Vol, Club Pa, Bob Mortimer, Andy Dawson
 - 2024-01-12 — Boiled Parsnips 37: Crawling Under A Horse — speakers: Boiled Parsnips, Amanda Baby, Bob Mortimer, Andy Dawson
-- 2023-12-22 — The White Harts Collection Vol. 3 — speakers: Harry Kane, Club Parsnips, Bob Mortimer, Andy Dawson
+- 2023-12-22 — The White Harts Collection Vol. 3 — speakers: Harry Kane, Bob Mortimer, Andy Dawson
 - 2023-12-08 — Boiled Parsnips 36: Mr Sting’s Unexploded Bomb — speakers: Boiled Parsnips, hose connectors, Bob Mortimer, Andy Dawson
-- 2023-11-24 — The Dyche Collection Vol. 2 — speakers: Club Parsnips, Bob Mortimer, Andy Dawson
-- 2023-11-02 — Boiled Parsnips 35: Fingers Of Richmond — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
-- 2023-10-24 — The Crime Files Collection Vol. 3 — speakers: Club Parsnips, Bob Mortimer, Andy Dawson
-- 2023-10-03 — Boiled Parsnips 34: Wheat Special — speakers: Boiled Parsnips, Club Parsnips, Bob Mortimer, Andy Dawson
+- 2023-11-24 — The Dyche Collection Vol. 2 — speakers: Sean Dyche, Bob Mortimer, Andy Dawson
+- 2023-11-02 — Boiled Parsnips 35: Fingers Of Richmond — speakers: Boiled Parsnips, Peter’s Chri, Bob Mortimer, Andy Dawson
+- 2023-10-24 — The Crime Files Collection Vol. 3 — speakers: Crime Files, Bob Mortimer, Andy Dawson
+- 2023-10-03 — Boiled Parsnips 34: Wheat Special — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
 - 2023-08-29 — The Beardsley Collection Vol. 4 — speakers: Bob Mortimer, Andy Dawson
 - 2023-08-14 — Boiled Parsnips 33: Norwegian Jumper Hunt — speakers: Boiled Parsnips, Jumper Hunt, Bob Mortimer, Andy Dawson
 - 2023-07-31 — Boiled Parsnips 32: Goodbye Fun Conifer — speakers: Boiled Parsnips, Peter’s van, Geordie Heat, Bob Mortimer, Andy Dawson
@@ -4896,12 +4874,12 @@
 - 2023-04-28 — The Homeowner Collection Vol. 2 — speakers: Barry Homeowner, ciao bella, Bob Mortimer, Andy Dawson
 - 2023-04-04 — Ep 122 - New Ray Gun — speakers: Geordie Heat, Bob Mortimer, Andy Dawson
 - 2023-03-31 — Boiled Parsnips 29: Make Time For Lemon Curd — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
-- 2023-03-08 — Boiled Parsnips 28: Great Big Super Onions — speakers: Boiled Parsnips, Mr Sting, Bob Mortimer, Andy Dawson
+- 2023-03-08 — Boiled Parsnips 28: Great Big Super Onions — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
 - 2023-02-15 — The White Harts Collection Vol. 2 — speakers: Bob Mortimer, Andy Dawson
 - 2023-01-31 — Boiled Parsnips 27: Dyche’s Farewell — speakers: Boiled Parsnips, Farewell Bob, Geordie Heat, Bob Mortimer, Andy Dawson
 - 2023-01-24 — The Observational Comedy Collection Vol. 1 — speakers: Bob Mortimer, Andy Dawson
 - 2023-01-24 — The Martin Collection Vol. 1 — speakers: Bob Mortimer, Andy Dawson
-- 2022-12-30 — Boiled Parsnips 26: Flat Hand! — speakers: Boiled Parsnips, Mr Sting, Bob Mortimer, Andy Dawson
+- 2022-12-30 — Boiled Parsnips 26: Flat Hand! — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
 - 2022-12-01 — Boiled Parsnips 25: Over To Stockley Park — speakers: Boiled Parsnips, Mark Hughes, Bob Mortimer, Andy Dawson
 - 2022-10-28 — Boiled Parsnips 24: Chance In A Million — speakers: Boiled Parsnips, Geordie Heat, Bob Mortimer, Andy Dawson
 - 2022-09-23 — Boiled Parsnips 23: Booster Boy — speakers: Boiled Parsnips, Booster Boy, Bob Mortimer, Andy Dawson
@@ -4939,17 +4917,17 @@
 - 2021-04-16 — Ep. 113 - Background Cat — speakers: Geordie Heat, Bob Mortimer, Andy Dawson
 - 2021-03-31 — The White Harts Collection Vol.1 — speakers: Bob Mortimer, Andy Dawson
 - 2021-03-23 — Ep. 112 - Geordie Heat — speakers: Bob Mortimer, Andy Dawson
-- 2021-03-11 — Boiled Parsnips 7: Seabass The Lion — speakers: Boiled Parsnips, Neil Hunt, Bob Mortimer, Andy Dawson
+- 2021-03-11 — Boiled Parsnips 7: Seabass The Lion — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
 - 2021-02-26 — Ep. 111 - Brainstormer — speakers: Lockdown Gary, Nigel Pearson, Bob Mortimer, Andy Dawson
 - 2021-02-22 — The Slaughters Collection Vol. 1 — speakers: Bob Mortimer, Andy Dawson
 - 2021-02-05 — The Crime Files Collection Vol. 1 — speakers: Crime Files, Bob Mortimer, Andy Dawson
 - 2021-01-30 — Ep. 110 - Pedro Ken — speakers: Bob Mortimer, Andy Dawson
 - 2021-01-15 — Boiled Parsnips 6: Latvian Wood — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson
 - 2021-01-01 — The Corbyn Collection Vol. 1 — speakers: Jeremy Corbyn, Bob Mortimer, Andy Dawson
-- 2020-12-28 — The Beardsley Joke Collection Vol. 1 — speakers: Peter Beardsley, Bob Mortimer, Andy Dawson
+- 2020-12-28 — The Beardsley Joke Collection Vol. 1 — speakers: Bob Mortimer, Andy Dawson
 - 2020-12-24 — Ep. 109 - Fritter Killer — speakers: Fritter Killer, Bob Mortimer, Andy Dawson
-- 2020-12-02 — Boiled Parsnips 5: Coat Bloke — speakers: Boiled Parsnips, Liam Gallagher, Neil Hunt, Ron Craggs, Bob Mortimer, Andy Dawson
-- 2020-10-29 — The Beardsley Collection Vol. 2 — speakers: Peter Beardsley, Nick Knowles, Bob Mortimer, Andy Dawson
+- 2020-12-02 — Boiled Parsnips 5: Coat Bloke — speakers: Boiled Parsnips, Liam Gallagher, Neil Hunt, Bob Mortimer, Andy Dawson
+- 2020-10-29 — The Beardsley Collection Vol. 2 — speakers: Peter Beardsley, Bob Mortimer, Andy Dawson
 - 2020-10-21 — Boiled Parsnips 4: Hunt vs Hodgson — speakers: Boiled Parsnips, Hunt vs Hodgson, Athletico Parsnips, Bob Mortimer, Andy Dawson
 - 2020-10-08 — The McClaren Collection Vol. 1 — speakers: Collection Vol, Fat Lass, Bob Mortimer, Andy Dawson
 - 2020-10-01 — Ep. 108 - Potatoes Are Life — speakers: Bob Mortimer, Andy Dawson
@@ -4969,7 +4947,7 @@
 - 2020-03-15 — The Beardsley Collection Vol. 1 — speakers: Peter Beardsley, Bob Mortimer, Andy Dawson
 - 2020-02-28 — Ep. 100 - Heavy Hanky — speakers: Bob Mortimer, Andy Dawson
 - 2020-02-09 — Ep.99 - Mind Soothing Unit — speakers: Bob Mortimer, Andy Dawson
-- 2019-12-31 — Ep. 98 - A Song Collection Vol. 1 — speakers: Slender People, Sex Robots, Steve Picks, Klopp Hop, Fake Tan, Sunderland Girl, Bread Song, Supermarket Song, Bob Mortimer, Andy Dawson
+- 2019-12-31 — Ep. 98 - A Song Collection Vol. 1 — speakers: Slender People, Sex Robots, Dyche Mo, Bob Mortimer, Andy Dawson
 - 2019-12-24 — Ep. 97 - Christmas Mince Part 2 — speakers: Neil Hunt, Bob Mortimer, Andy Dawson
 - 2019-12-23 — Ep. 96 - Christmas Mince Part 1 — speakers: Bob Mortimer, Andy Dawson
 - 2019-11-25 — Ep. 95 - Chicken Leg, Chicken Wing — speakers: Chicken Wing Fresh, Lunch Club, Bob Mortimer, Andy Dawson
@@ -4986,70 +4964,70 @@
 - 2019-07-01 — Ep. 85 - Excellent Humour — speakers: Humour Peter, Bob Mortimer, Andy Dawson
 - 2019-06-17 — Ep. 84 - Private Dining Areas — speakers: Private Dining Areas All, Crime Files, Bob Mortimer, Andy Dawson
 - 2019-05-31 — Ep. 83 - Hats Off To Marvin Pipkin! — speakers: Bob Mortimer, Andy Dawson
-- 2019-05-13 — Ep. 82 - Night Blight — speakers: Jordan Henderson, Lunch Club, Bob Mortimer, Andy Dawson
-- 2019-04-29 — Ep. 81 - Return To The Laughter Emporium — speakers: Ian Holloway, Sean Dyche, Bob Mortimer, Andy Dawson
+- 2019-05-13 — Ep. 82 - Night Blight — speakers: Jordan Henderson, Bob Mortimer, Andy Dawson
+- 2019-04-29 — Ep. 81 - Return To The Laughter Emporium — speakers: Ian Holloway, Bob Mortimer, Andy Dawson
 - 2019-04-19 — Ep. 80 - Mrs Beardsley’s Sister — speakers: Susanna Reid, Bob Mortimer, Andy Dawson
 - 2019-04-05 — Ep. 79 - Another Destroy And Exit — speakers: Paul Scholes, Bob Mortimer, Andy Dawson
 - 2019-03-22 — Ep. 78 - Princess The Mouse — speakers: Bob Mortimer, Andy Dawson
 - 2019-03-08 — Ep. 77 - Doctor YouNeedSomeSeeds — speakers: Bob Mortimer, Andy Dawson
 - 2019-02-25 — Ep. 76 - Anti-Tremor Honk — speakers: Bob Mortimer, Andy Dawson
 - 2019-02-01 — Ep. 75 - Living With A Bananarama — speakers: Bob Mortimer, Andy Dawson
-- 2019-01-11 — Ep. 74 - Adrian Lewis Meat Feast — speakers: Jordan Henderson, Joe Swash, Bob Mortimer, Andy Dawson
+- 2019-01-11 — Ep. 74 - Adrian Lewis Meat Feast — speakers: Jordan Henderson, Bob Mortimer, Andy Dawson
 - 2019-01-03 — Ep. 73 - Bob's Ray Gun — speakers: Bob Mortimer, Andy Dawson
 - 2018-12-21 — Ep. 72 - Christmas Mince — speakers: Bob Mortimer, Andy Dawson
-- 2018-12-07 — Ep. 71 - Otter Otter Otter Otter! — speakers: Harry Kane, Bob Mortimer, Andy Dawson
+- 2018-12-07 — Ep. 71 - Otter Otter Otter Otter! — speakers: Bob Mortimer, Andy Dawson
 - 2018-11-23 — Ep. 70 - Warhammer — speakers: Roy Hodgson, Bob Mortimer, Andy Dawson
-- 2018-11-09 — Reheated Mince Vol. 5 — speakers: Bob Mortimer, Andy Dawson
+- 2018-11-09 — Reheated Mince Vol. 5 — speakers: Reheated Mince Vol, Bob Mortimer, Andy Dawson
 - 2018-10-26 — Reheated Mince Vol. 4 — speakers: Bob Mortimer, Andy Dawson
-- 2018-10-11 — Reheated Mince Vol. 3 — speakers: Secret Soccer Superstar, Bob Mortimer, Andy Dawson
+- 2018-10-11 — Reheated Mince Vol. 3 — speakers: Bob Mortimer, Andy Dawson
 - 2018-10-02 — Reheated Mince Vol. 2 — speakers: Bob Mortimer, Andy Dawson
-- 2018-09-21 — Reheated Mince Vol. 1 — speakers: Susanna Hoffs, Bob Mortimer, Andy Dawson
-- 2018-09-07 — Ep. 69 - Six More Fish — speakers: Jordan Henderson, Peter Beardsley, Nick Knowles, Bob Mortimer, Andy Dawson
-- 2018-08-24 — Ep. 68 - Fun and Laughter — speakers: Steve McClaren, Debbie Ali, Barry Homeowner, Bob Mortimer, Andy Dawson
+- 2018-09-21 — Reheated Mince Vol. 1 — speakers: Bob Mortimer, Andy Dawson
+- 2018-09-07 — Ep. 69 - Six More Fish — speakers: Jordan Henderson, Peter Beardsley, Bob Mortimer, Andy Dawson
+- 2018-08-24 — Ep. 68 - Fun and Laughter — speakers: Steve McClaren, Debbie Ali, Bob Mortimer, Andy Dawson
 - 2018-08-10 — Ep. 67 - Garden Centre Special — speakers: Bob Mortimer, Andy Dawson
 - 2018-08-03 — Ep. 66 - Catering Bacon — speakers: Barry Homeowner, Mick McCarthy, Bob Mortimer, Andy Dawson
-- 2018-07-20 — Ep. 65 - Like A Chicken Wing — speakers: Peter Beardsley, Bob Mortimer, Andy Dawson
-- 2018-07-13 — Ep. 64 - Briefcase Droppings — speakers: Mark Lawrenson, Peter Beardsley, Bob Mortimer, Andy Dawson
+- 2018-07-20 — Ep. 65 - Like A Chicken Wing — speakers: Bob Mortimer, Andy Dawson
+- 2018-07-13 — Ep. 64 - Briefcase Droppings — speakers: Mark Lawrenson, Bob Mortimer, Andy Dawson
 - 2018-06-21 — Ep. 63 - Nut Quiz — speakers: Mark Lawrenson, Peter Beardsley, Bob Mortimer, Andy Dawson
-- 2018-06-11 — Ep. 62 - Specific Beef — speakers: Mick McCarthy, Steve McClaren, Bob Mortimer, Andy Dawson
+- 2018-06-11 — Ep. 62 - Specific Beef — speakers: Mick McCarthy, Bob Mortimer, Andy Dawson
 - 2018-06-01 — Ep. 61 - No Jukebox! — speakers: Peter Beardsley, Bob Mortimer, Andy Dawson
-- 2018-05-11 — Ep. 60 - I Don't Want A Cot — speakers: Mick McCarthy, Bob Mortimer, Andy Dawson
+- 2018-05-11 — Ep. 60 - I Don't Want A Cot — speakers: Bob Mortimer, Andy Dawson
 - 2018-05-04 — Ep. 59 - The History of Whistles — speakers: Steve Wright, Adam Lilliana, Bob Mortimer, Andy Dawson
-- 2018-04-20 — Ep. 58 - Honk the Conch — speakers: Mick McCarthy, Barry Homeowner, Peter Beardsley, Dom Littlewood, Bob Mortimer, Andy Dawson
-- 2018-04-13 — Ep. 57 - Ping Ping! — speakers: Ping Ping, Mick McCarthy, Peter Beardsley, Harry Kane, Mark Lawrenson, Bob Mortimer, Andy Dawson
+- 2018-04-20 — Ep. 58 - Honk the Conch — speakers: Mick McCarthy, Barry Homeowner, Bob Mortimer, Andy Dawson
+- 2018-04-13 — Ep. 57 - Ping Ping! — speakers: Ping Ping, Mick McCarthy, Peter Beardsley, Bob Mortimer, Andy Dawson
 - 2018-03-29 — Ep. 56 - World King Fighter — speakers: Bob Mortimer, Andy Dawson
-- 2018-03-21 — Ep. 55 - Mouse on the Bonnet — speakers: Acker Bilk, Peter Beardsley, Bob Mortimer, Andy Dawson
-- 2018-02-19 — Ep. 54 - Crunch Crunch Ooops — speakers: Harry Kane, Peter Beardsley, Bob Mortimer, Andy Dawson
+- 2018-03-21 — Ep. 55 - Mouse on the Bonnet — speakers: Bonnet Another, British Manager, Sunderland Tourist Board, Dom Littlewood, Bob Mortimer, Andy Dawson
+- 2018-02-19 — Ep. 54 - Crunch Crunch Ooops — speakers: Harry Kane, Bob Mortimer, Andy Dawson
 - 2018-01-25 — Ep. 53 - Long Legs, Short Bodies — speakers: Peter Beardsley, Bob Mortimer, Andy Dawson
-- 2017-12-22 — Ep. 52 - Three Foot Christmas Tree — speakers: Lenny Biscuits, Barry Homeowner, Peter Beardsley, Bob Mortimer, Andy Dawson
+- 2017-12-22 — Ep. 52 - Three Foot Christmas Tree — speakers: Lenny Biscuits, Bob Mortimer, Andy Dawson
 - 2017-12-01 — Ep. 51 - Black Pudding To The Rescue — speakers: Lenny Biscuits, Bob Mortimer, Andy Dawson
 - 2017-09-25 — Ep. 50 - The Guy Rowland Salvage Job — speakers: Bob Mortimer, Andy Dawson
 - 2017-08-25 — Ep. 49 - Rafa and the Spherical Lump — speakers: Barry Homeowner, Bob Mortimer, Andy Dawson
-- 2017-08-11 — Ep. 48 - Milk's Off! — speakers: Vince Parsnips, Bob Mortimer, Andy Dawson
-- 2017-07-29 — Ep. 47 - Lawrissey's Ironmongers — speakers: Pierce Morgan, Bob Mortimer, Andy Dawson
+- 2017-08-11 — Ep. 48 - Milk's Off! — speakers: Bob Mortimer, Andy Dawson
+- 2017-07-29 — Ep. 47 - Lawrissey's Ironmongers — speakers: Bob Mortimer, Andy Dawson
 - 2017-07-14 — Ep. 46 - Democracy In A Capsule — speakers: Pierce Morgan, Alan Brazil, Bob Mortimer, Andy Dawson
 - 2017-07-01 — Ep. 45 - Yes Please! — speakers: Bob Mortimer, Andy Dawson
 - 2017-05-12 — Ep. 44 - Dinner With Morrissey — speakers: Barry Homeowner, Bob Mortimer, Andy Dawson
 - 2017-05-05 — Ep. 43 - New Potato Season — speakers: Barry Homeowner, Bob Mortimer, Andy Dawson
-- 2017-04-28 — Ep. 42 – Ding Dong, Landlord Here — speakers: Ding Dong, Barry Homeowner, Bob Mortimer, Andy Dawson
+- 2017-04-28 — Ep. 42 – Ding Dong, Landlord Here — speakers: Ding Dong, Barry Homeowne, Bob Mortimer, Andy Dawson
 - 2017-02-24 — Ep. 41 - Meet Barry Homeowner — speakers: Vince Parsnips, Bob Mortimer, Andy Dawson
 - 2017-02-17 — Ep. 40 - Hello, Is It Three You're Cooking For? — speakers: Bob Mortimer, Andy Dawson
 - 2017-02-10 — Ep. 39 - Instanbul — speakers: Manchester United, Bob Mortimer, Andy Dawson
 - 2017-02-03 — Ep. 38 - Zlatan Versus Roody Toody — speakers: Zlatan Versus Roody Toody, Bob Mortimer, Andy Dawson
 - 2016-12-31 — Ep. 37 - Christmas Mince... Part Two — speakers: Bob Mortimer, Andy Dawson
-- 2016-12-25 — Ep. 36 - A Christmas Gift To You — speakers: Little Mouse, Bob Mortimer, Andy Dawson
-- 2016-12-23 — Ep. 35 - Christmas Mince... Part One — speakers: observational comedy, Bob Mortimer, Andy Dawson
+- 2016-12-25 — Ep. 36 - A Christmas Gift To You — speakers: Bob Mortimer, Andy Dawson
+- 2016-12-23 — Ep. 35 - Christmas Mince... Part One — speakers: observational comed, Bob Mortimer, Andy Dawson
 - 2016-11-25 — Ep. 34 - Enter The Borthwick — speakers: Bob Mortimer, Andy Dawson
 - 2016-11-18 — Ep. 33 - Steve's Restaurant Showdown — speakers: Bob Mortimer, Andy Dawson
 - 2016-11-04 — Ep. 32 – The Alderman and the Apricot — speakers: Bob Mortimer, Andy Dawson
 - 2016-10-28 — Ep. 31 - Cuban Chicken Collective — speakers: Bob Mortimer, Andy Dawson
 - 2016-10-14 — Ep. 30 – My Mantelpiece Is Marble — speakers: Corbyn’s Chadwick, Bob Mortimer, Andy Dawson
-- 2016-10-06 — Ep. 29 - Sigh by Romany Distance — speakers: Steve McClaren, Bob Mortimer, Andy Dawson
+- 2016-10-06 — Ep. 29 - Sigh by Romany Distance — speakers: Bob Mortimer, Andy Dawson
 - 2016-09-29 — Ep. 28 - Stop The Clock, Ernie! — speakers: Bob Mortimer, Andy Dawson
 - 2016-09-23 — Ep. 27 – Extreme Bangers — speakers: Extreme Bangers, Bob Mortimer, Andy Dawson
 - 2016-09-13 — Ep. 26 - Two Whole Roast Crabs — speakers: Mark Lawrenson, Robson Greene, Bob Mortimer, Andy Dawson
-- 2016-08-25 — Ep. 25 - Inspiration, Sophistication, Integrity and Style — speakers: Mark Lawrenson, Jeremy Corbyn, Bob Mortimer, Andy Dawson
-- 2016-08-19 — Ep. 24 - Clown Car Mercy Dash — speakers: Gregg Wallace, Bob Mortimer, Andy Dawson
+- 2016-08-25 — Ep. 25 - Inspiration, Sophistication, Integrity and Style — speakers: Mark Lawrenson, Bob Mortimer, Andy Dawson
+- 2016-08-19 — Ep. 24 - Clown Car Mercy Dash — speakers: Gregg Wallac, Bob Mortimer, Andy Dawson
 - 2016-08-12 — Ep. 23 - RIP Kenny Pepper — speakers: Jeremy Corbyn, Bob Mortimer, Andy Dawson
 - 2016-08-04 — Ep. 22 - Chadwick Contest — speakers: Chadwick Contest Bob, Bob Mortimer, Andy Dawson
 - 2016-07-28 — Ep. 21 - An Airborne Kissing Mix-Up — speakers: Steve McClaren, Bob Mortimer, Andy Dawson
@@ -5063,13 +5041,13 @@
 - 2016-05-31 — Ep.13 - BobFest Revealed — speakers: Revealed Reaction, Bob Mortimer, Andy Dawson
 - 2016-05-24 — Ep.12 - Bob's Crime Club — speakers: Robbie Savage, Bob Mortimer, Andy Dawson
 - 2016-05-17 — Ep.11 - Tom Jones’s Gold Extravagance — speakers: Extravagance Kitchen, Steve McClaren, Bob Mortimer, Andy Dawson
-- 2016-05-10 — Ep.10 - Return of the Buttered Weetabix — speakers: Didier Drogba, Bob Mortimer, Andy Dawson
+- 2016-05-10 — Ep.10 - Return of the Buttered Weetabix — speakers: Didier Dro, Bob Mortimer, Andy Dawson
 - 2016-05-03 — Ep.9 - Mashed Potato Fireworks — speakers: Steve McClaren, Chris Evans, Bob Mortimer, Andy Dawson
 - 2016-04-26 — Ep.8 - Mickey Drink Retrieves The Keys — speakers: Steve McClaren, Bob Mortimer, Andy Dawson
 - 2016-04-18 — Ep.7 - Bonus Mince: Bob's Garden — speakers: Bob Mortimer, Andy Dawson
-- 2016-04-12 — Ep.6 - World’s Biggest Poppadom — speakers: Louis van Gaal, Leighton Baines, Geordie Shore, Bob Mortimer, Andy Dawson
+- 2016-04-12 — Ep.6 - World’s Biggest Poppadom — speakers: Louis van Gaal, Leighton Baines, Bob Mortimer, Andy Dawson
 - 2016-04-05 — Ep.5 - Napoleon’s Bed — speakers: Janet Jackson, Bob Mortimer, Andy Dawson
-- 2016-03-31 — Ep.4 - Football Reinvented — speakers: Football Reinvented Lifting, Bob Mortimer, Andy Dawson
+- 2016-03-31 — Ep.4 - Football Reinvented — speakers: Bob Mortimer, Andy Dawson
 - 2016-03-22 — Ep.3 - Chickens — speakers: Chickens Foam, Bob Mortimer, Andy Dawson
 - 2016-03-15 — Ep.2 - The Reverse Toilet — speakers: Bob Mortimer, Andy Dawson
 - 2016-03-08 — Ep.1 - The Power Of Gentleness — speakers: Bob Mortimer, Andy Dawson

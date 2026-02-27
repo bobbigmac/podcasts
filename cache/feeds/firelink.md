@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-02-27T15:52:23+00:00`
-- checked_at: `2026-02-27T15:52:23+00:00`
-- etag: `W/"30f05-w87pU3dhJeGR59D5Z1YyEHIuQmw"`
+- fetched_at: `2026-02-27T19:03:11+00:00`
+- checked_at: `2026-02-27T19:03:11+00:00`
+- etag: `W/"306fb-L7OUYAk5FyJ9+38LEi1fm+8dxd0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-02-27T15:52:23+00:00",
+  "fetched_at": "2026-02-27T19:03:11+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,31 +28,6 @@
     "games"
   ],
   "episodes": [
-    {
-      "key": "c71b2b3bb93e801339a8e8dabb34fdd3f767cb28",
-      "title": "Pondering the Future of Xbox + Patreon Mailbag | Firelink Podcast",
-      "published_at": "2026-02-27T15:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Pondering-the-Future-of-Xbox--Patreon-Mailbag--Firelink-Podcast-e3fmctj",
-      "description": "This week on Firelink, KC and Marty try to predict the future of Xbox, give some Steam Next Fest recommendations, and answer a bunch of random questions from Patreon. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/116126067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2Fe0c6b5f4-b5b1-7bf7-b072-3ef112aec645.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "147465248",
-      "itunes_duration": "01:42:24",
-      "speakers": [
-        "Marty Sliva",
-        "Nick Calandra",
-        "KC Nwosu"
-      ],
-      "topics": [
-        "future",
-        "xbox",
-        "patreon",
-        "mailbag",
-        "firelink",
-        "podcast"
-      ]
-    },
     {
       "key": "29fa18bb8de3ef0e0b64554442dfa63706a6dbcd",
       "title": "Can Spoilers Make or Break a Game? | Firelink Podcast",
@@ -2523,7 +2498,6 @@
 
 ## Episodes (newest first)
 
-- 2026-02-27 — Pondering the Future of Xbox + Patreon Mailbag | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-20 — Can Spoilers Make or Break a Game? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-13 — Sony State of Play Watchalong + Silent Hill Transmission | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-06 — Losing Ourselves in Cairn, Nioh 3, and Dragon Quest VII Reimagined | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu

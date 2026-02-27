@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-02-27T03:08:24+00:00`
-- checked_at: `2026-02-27T03:08:24+00:00`
-- etag: `W/"8b66a79065d6d7f607753a6700ac8551"`
-- last_modified: `Thu, 26 Feb 2026 23:55:00 GMT`
+- fetched_at: `2026-02-27T19:03:11+00:00`
+- checked_at: `2026-02-27T19:03:11+00:00`
+- etag: `W/"013c3254d7ccf42afcafbe8695e3f9e5"`
+- last_modified: `Fri, 27 Feb 2026 16:03:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-02-27T03:08:24+00:00",
+  "fetched_at": "2026-02-27T19:03:11+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -205,8 +205,8 @@
       "published_at": "2026-02-01T23:55:00+00:00",
       "link": "https://audioboom.com/posts/8854874",
       "description": "Dan, James and Andy discuss YOUR facts, including Joan of Arc, Lily Allen and Vidkun Quisling. We also make some VERY STRONG jokes that require a lot of explanation, and we meet eight new Custodians of Fish Facts. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
-      "image_url": "https://audioboom.com/i/43479169.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8854874.mp3?modified=1769793261&sid=2399216&source=rss",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8854874.mp3?modified=1771419245&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1893",
@@ -393,8 +393,8 @@
       "published_at": "2026-01-04T23:55:00+00:00",
       "link": "https://audioboom.com/posts/8822635",
       "description": "Dan, James and Andy discuss YOUR facts, including lice, dinosaurs and pin boys. We also learn what spies keep alongside their meat pies, and meet eight new Custodians of Fish Facts. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
-      "image_url": "https://audioboom.com/i/43479169.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8822635.mp3?modified=1766485468&sid=2399216&source=rss",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8822635.mp3?modified=1771419271&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1808",
@@ -439,8 +439,8 @@
       "published_at": "2025-12-28T23:55:00+00:00",
       "link": "https://audioboom.com/posts/8822632",
       "description": "Dan, James and Andy discuss YOUR facts, including raunchy maths, fossilised vomit and apt biscuits. We also hear a fact from an actual Lord and meet eight new Custodians of Fish Facts. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
-      "image_url": "https://audioboom.com/i/43479169.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8822632.mp3?modified=1766485382&sid=2399216&source=rss",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8822632.mp3?modified=1771419278&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1945",
@@ -538,8 +538,8 @@
       "published_at": "2025-12-14T23:55:00+00:00",
       "link": "https://audioboom.com/posts/8817747",
       "description": "Dan, James and Andy discuss YOUR facts. In episode seven, subjects include krill, coupes and cattle. And one of us learns a bit more about classical music. We also meet eight new Custodians of Fish Facts.",
-      "image_url": "https://audioboom.com/i/43479169.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8817747.mp3?modified=1765708369&sid=2399216&source=rss",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8817747.mp3?modified=1771419292&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1788",
@@ -635,8 +635,8 @@
       "published_at": "2025-12-01T00:01:00+00:00",
       "link": "https://audioboom.com/posts/8812458",
       "description": "Dan, James and Andy discuss YOUR facts. In episode five, subjects include cork, clocks, Patsy Cline and Ming Campbell. We also meet eight more listeners who have become Custodians of Fish Facts.",
-      "image_url": "https://audioboom.com/i/43479169.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8812458.mp3?modified=1764348866&sid=2399216&source=rss",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8812458.mp3?modified=1771419300&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2037",
@@ -777,7 +777,7 @@
       "link": "https://audioboom.com/posts/8798315",
       "description": "Dan, James and Andy discuss YOUR facts, in episode two of our brand new weekly show. This week's subjects include beds, wind, panhandles and Devo. We also meet our first four listeners who have become Fact Custodians.",
       "image_url": "https://audioboom.com/i/43479177.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8798315.mp3?modified=1763054912&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8798315.mp3?modified=1771419334&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1938",
@@ -824,7 +824,7 @@
       "link": "https://audioboom.com/posts/8798319",
       "description": "Dan, James and Andy discuss YOUR facts, in a brand new weekly show. This week's subjects include hamburgers, space, staircases and Berlin. We also meet our first four Fact Custodians (spoiler: you've met them a lot in the past).",
       "image_url": "https://audioboom.com/i/43479177.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8798319.mp3?modified=1763054955&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8798319.mp3?modified=1771419334&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1944",
