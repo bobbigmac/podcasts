@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-02-26T13:43:52+00:00`
-- checked_at: `2026-02-26T13:43:52+00:00`
-- last_modified: `Thu, 26 Feb 2026 12:21:14 GMT`
+- fetched_at: `2026-02-27T07:13:19+00:00`
+- checked_at: `2026-02-27T07:13:19+00:00`
+- last_modified: `Fri, 27 Feb 2026 05:37:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-26T13:43:52+00:00",
+  "fetched_at": "2026-02-27T07:13:19+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fb8c19b376273b567c6baece7399b0b7a223c315",
+      "title": "A new crush, a tour update and the return of Barry Beef!",
+      "published_at": "2026-02-27T05:30:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed... Chris has a tour update which of course involves friend of the pod Carl Hutchinson! Rosie has some dishwasher thoughts and she reveals a potential new crush. She has also started a new hobby/fitness regime, it turns out that it is quite difficult! All of this plus a handy Huel bottle, some gut updates, brilliant voice notes and QTFP's and the return of the OG Barry Beef! One last thing smas and das... what IS the correct way to pronounce Croissant? 🥐 If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1068415349.mp3?updated=1772107253",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4083",
+      "speakers": [
+        "Barry Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "crush",
+        "tour",
+        "update",
+        "return",
+        "barry",
+        "beef"
+      ]
+    },
     {
       "key": "8eb9add6ad1d276f6be3c9e99294f0c87ead4f3b",
       "title": "Please Keep Me Anonymous with Sara Pascoe",
@@ -7810,6 +7835,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — A new crush, a tour update and the return of Barry Beef! — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
 - 2026-02-25 — Please Keep Me Anonymous with Sara Pascoe — speakers: Sara Pascoe, Chris Ramsey, Rosie Ramsey
 - 2026-02-20 — Emotions run high watching Lewis Capaldi and Chris has an awkward encounter with a Taxi driver — speakers: Lewis Capaldi, Chris Ramsey, Rosie Ramsey
 - 2026-02-18 — Please Keep Me Anonymous with Chris McCausland — speakers: Chris McCausland, Anonymous Chris, Chris Ramsey, Rosie Ramsey

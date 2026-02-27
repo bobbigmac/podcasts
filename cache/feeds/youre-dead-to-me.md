@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-02-20T07:14:33+00:00`
-- checked_at: `2026-02-20T07:14:33+00:00`
-- etag: `"cd8bb4e864f59bb07412f1e9baece224"`
-- last_modified: `Fri, 20 Feb 2026 06:00:07 GMT`
+- fetched_at: `2026-02-27T07:13:19+00:00`
+- checked_at: `2026-02-27T07:13:19+00:00`
+- etag: `"2ac7f22bcf79d7a07cadfb08427918dc"`
+- last_modified: `Fri, 27 Feb 2026 06:00:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-02-20T07:14:33+00:00",
+  "fetched_at": "2026-02-27T07:13:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,31 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "c59c31239f4ce9dbf194a6d7cf89f7550cc4cd7e",
+      "title": "Geoffrey Chaucer: the medieval father of English literature",
+      "published_at": "2026-02-27T06:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002qrb6",
+      "description": "Greg Jenner is joined in medieval England by Professor Marion Turner and comedian Mike Wozniak to learn all about Geoffrey Chaucer, author of the Canterbury Tales. Since the fifteenth century, Chaucer has been referred to as the father of English literature. He was one of the first authors to champion the use of Middle English for poetry instead of Latin, and after the invention of the printing press, his works became the foundation of the English literary canon – long before Shakespeare ever put quill to parchment. But Chaucer’s life was as extraordinary as his legacy, living as he did through the Black Death, the Hundred Years’ War between England and France, and the Peasants’ Revolt. In this episode, Greg and his guests explore Chaucer’s dramatic biography: growing up the son of a wine merchant in fourteenth-century London, his work for the royal court and long career as a medieval civil servant, his relationship with John of Gaunt through his mistress Katherine Swynford, and his travels throughout Europe. They also examine the poets that influenced him – including Petrarch, Bocaccio and Dante – and take a deep dive into the famous Canterbury Tales. If you’re a fan of medieval literature, historical courtroom dramas, and the tumult of fourteenth-century England, you’ll love our episode on Geoffrey Chaucer. If you want more literary history with Mike Wozniak, listen to our episodes on Charles Dickens at Christmas and the Legends of King Arthur. And for more fourteenth-century lives, check out our episode on medieval Muslim traveller Ibn Battuta. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Rosalyn Sklar Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n3c0z6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56480000",
+      "itunes_duration": "3530",
+      "speakers": [
+        "Geoffrey Chaucer",
+        "Greg Jenner",
+        "Marion Turner",
+        "Mike Wozniak"
+      ],
+      "topics": [
+        "geoffrey",
+        "chaucer",
+        "father",
+        "english",
+        "literature"
+      ]
+    },
     {
       "key": "bb1085c8902e1c9fd9fcd6b92df7528aab9b1f25",
       "title": "Lena Horne: racism and resilience in the Golden Age of Hollywood",
@@ -41,12 +66,7 @@
       "speakers": [
         "Lena Horne",
         "Greg Jenner",
-        "Hannah Thuraisingam Robbins",
-        "Desiree Burch",
-        "Martin Luther King Jr",
-        "Paul Robeson",
-        "Josephine Baker",
-        "Sarah Bernhardt"
+        "Hannah Thuraisingam Robbins"
       ],
       "topics": [
         "lena",
@@ -71,12 +91,7 @@
       "speakers": [
         "Greg Jenner",
         "Jonathan Spangler",
-        "Tom Allen",
-        "Louis Xiv",
-        "Catherine de Medici",
-        "Marie Antoinette",
-        "Benedetta Carlini",
-        "Emma Mitchell"
+        "Tom Allen"
       ],
       "topics": [
         "philippe",
@@ -98,12 +113,7 @@
       "speakers": [
         "Greg Jenner",
         "Alanna Skuse",
-        "Ria Lina",
-        "Stuart England",
-        "Henry Viii",
-        "William Harvey",
-        "Christopher Wren",
-        "Zheng Yi Sao"
+        "Ria Lina"
       ],
       "topics": [
         "renaissance",
@@ -127,12 +137,7 @@
       "speakers": [
         "Greg Jenner",
         "Mary Beard",
-        "Patton Oswalt",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Gill Huggett",
-        "Philip Sellars"
+        "Patton Oswalt"
       ],
       "topics": [
         "emperor",
@@ -155,12 +160,7 @@
       "speakers": [
         "Marie Antoinette",
         "Greg Jenner",
-        "Katherine Astbury",
-        "Jen Brister",
-        "Louis Xvi",
-        "Charlotte Emily",
-        "Charlotte Emily Edgeshaw",
-        "Emmie Rose Price-Goodfellow"
+        "Katherine Astbury"
       ],
       "topics": [
         "marie",
@@ -182,13 +182,7 @@
       "itunes_duration": "1687",
       "speakers": [
         "Greg Jenner",
-        "Josephine Quinn",
-        "Darren Harriott",
-        "Emma Bentley",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Gill Huggett"
+        "Josephine Quinn"
       ],
       "topics": [
         "hannibal",
@@ -211,12 +205,7 @@
       "speakers": [
         "Greg Jenner",
         "Islam Issa",
-        "Athena Kugblenu",
-        "Emma Bentley",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Gill Huggett"
+        "Athena Kugblenu"
       ],
       "topics": [
         "alexandria",
@@ -236,14 +225,7 @@
       "enclosure_length": "13536000",
       "itunes_duration": "846",
       "speakers": [
-        "Greg Jenner",
-        "Dead Funny History",
-        "Jane Eyre",
-        "Agnes Grey",
-        "Jack Bernhardt",
-        "Mali Ann Rees",
-        "John-Luke Roberts Producer",
-        "Emma Weatherill"
+        "Greg Jenner"
       ],
       "topics": []
     },
@@ -259,14 +241,7 @@
       "enclosure_length": "13248000",
       "itunes_duration": "828",
       "speakers": [
-        "Greg Jenner",
-        "Dead Funny History",
-        "Hagia Sophia",
-        "Jack Bernhardt",
-        "Mali Ann Rees",
-        "Richard David-Caine",
-        "Emma Weatherill",
-        "Peter Frankopan"
+        "Greg Jenner"
       ],
       "topics": [
         "justinian",
@@ -285,14 +260,7 @@
       "enclosure_length": "13584000",
       "itunes_duration": "849",
       "speakers": [
-        "Greg Jenner",
-        "Kris Jenner",
-        "Dead Funny History",
-        "Harold Harefoot",
-        "Athena Kugblenu",
-        "Emma Nagouse",
-        "Mali Ann Rees",
-        "John-Luke Roberts Producer"
+        "Greg Jenner"
       ],
       "topics": [
         "emma",
@@ -310,16 +278,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13520000",
       "itunes_duration": "845",
-      "speakers": [
-        "Dead Funny History",
-        "Greg Jenner",
-        "Magna Carta",
-        "John Lackland",
-        "Athena Kugblenu",
-        "Emma Nagouse",
-        "Mali Ann Rees",
-        "Richard David-Caine"
-      ],
+      "speakers": [],
       "topics": [
         "king",
         "john",
@@ -341,12 +300,7 @@
       "speakers": [
         "Witch Craze Dead",
         "Witch Craze",
-        "Greg Jenner",
-        "Dead Funny History",
-        "Malleus Maleficarum",
-        "Matthew Hopkins",
-        "Athena Kugblenu",
-        "Emma Nagouse"
+        "Greg Jenner"
       ],
       "topics": [
         "witch",
@@ -366,13 +320,7 @@
       "itunes_duration": "901",
       "speakers": [
         "Marie Curie",
-        "Greg Jenner",
-        "Dead Funny History",
-        "Pierre Curie",
-        "Athena Kugblenu",
-        "Emma Nagouse",
-        "Mali Ann Rees",
-        "John-Luke Roberts Producer"
+        "Greg Jenner"
       ],
       "topics": [
         "marie",
@@ -391,14 +339,7 @@
       "enclosure_length": "13152000",
       "itunes_duration": "822",
       "speakers": [
-        "Greg Jenner",
-        "Dead Funny History",
-        "Queen Idia",
-        "Athena Kugblenu",
-        "Emma Nagouse",
-        "Mali Ann Rees",
-        "John-Luke Roberts Producer",
-        "Emma Weatherill"
+        "Greg Jenner"
       ],
       "topics": [
         "kingdom",
@@ -417,14 +358,7 @@
       "enclosure_length": "13008000",
       "itunes_duration": "813",
       "speakers": [
-        "Greg Jenner",
-        "Dead Funny History",
-        "King Henry IV",
-        "Athena Kugblenu",
-        "Emma Nagouse",
-        "Mali Ann Rees",
-        "John-Luke Roberts Producer",
-        "Emma Weatherill"
+        "Greg Jenner"
       ],
       "topics": [
         "owain"
@@ -442,14 +376,7 @@
       "enclosure_length": "12864000",
       "itunes_duration": "804",
       "speakers": [
-        "Greg Jenner",
-        "Dead Funny History",
-        "Athena Kugblenu",
-        "Emma Nagouse",
-        "Mali Ann Rees",
-        "John-Luke Roberts Producer",
-        "Emma Weatherill",
-        "Jo Kyle Sound"
+        "Greg Jenner"
       ],
       "topics": [
         "indus",
@@ -468,14 +395,7 @@
       "enclosure_length": "13248000",
       "itunes_duration": "828",
       "speakers": [
-        "Zheng Yi Sao",
-        "Dead Funny History",
-        "Greg Jenner",
-        "Shi Yang",
-        "Zheng Yi",
-        "Athena Kugblenu",
-        "Emma Nagouse",
-        "Mali Ann Rees"
+        "Zheng Yi Sao"
       ],
       "topics": [
         "zheng"
@@ -493,14 +413,7 @@
       "enclosure_length": "13968000",
       "itunes_duration": "873",
       "speakers": [
-        "Greg Jenner",
-        "Dead Funny History",
-        "Apis Bull",
-        "Jack Bernhardt",
-        "Mali Ann Rees",
-        "Richard David-Caine",
-        "Emma Weatherill",
-        "Jo Kyle Studio"
+        "Greg Jenner"
       ],
       "topics": [
         "ramesses",
@@ -519,14 +432,7 @@
       "enclosure_length": "13632000",
       "itunes_duration": "852",
       "speakers": [
-        "Josephine Baker",
-        "Dead Funny History",
-        "Greg Jenner",
-        "Greg explores",
-        "Jr Greg",
-        "Jack Bernhardt",
-        "Mali Ann Rees",
-        "John-Luke Roberts Producer"
+        "Josephine Baker"
       ],
       "topics": [
         "josephine",
@@ -545,14 +451,7 @@
       "enclosure_length": "12912000",
       "itunes_duration": "807",
       "speakers": [
-        "Greg Jenner",
-        "Tudor London",
-        "Dead Funny History",
-        "Jack Bernhardt",
-        "Mali Ann Rees",
-        "John-Luke Roberts Producer",
-        "Emma Weatherill Script",
-        "Caroline Dodds"
+        "Greg Jenner"
       ],
       "topics": [
         "aztec"
@@ -570,14 +469,7 @@
       "enclosure_length": "12768000",
       "itunes_duration": "798",
       "speakers": [
-        "Greg Jenner",
-        "Hadrian’s Wall",
-        "Dead Funny History",
-        "Jack Bernhardt",
-        "Hutchinson Crouch",
-        "Mali Ann Rees",
-        "Richard David-Caine",
-        "Emmie Rose Price-Goodfellow Audio"
+        "Greg Jenner"
       ],
       "topics": [
         "hadrian",
@@ -596,14 +488,7 @@
       "enclosure_length": "13232000",
       "itunes_duration": "827",
       "speakers": [
-        "Greg Jenner",
-        "Dead Funny History",
-        "Ebenezer Cobb Morley",
-        "Nettie Honeyball",
-        "Lily Parr",
-        "Kerr Ladies",
-        "Dead Funny",
-        "Greg Jenner Writers"
+        "Greg Jenner"
       ],
       "topics": [
         "history",
@@ -646,11 +531,7 @@
         "Jane Austen",
         "Greg Jenner",
         "Lucy Worsley",
-        "Sally Phillips",
-        "Elizabeth Bennet",
-        "Emma Woodhouse",
-        "Marianne Dashwood",
-        "Northanger Abbey"
+        "Sally Phillips"
       ],
       "topics": [
         "jane",
@@ -673,12 +554,7 @@
       "speakers": [
         "Greg Jenner",
         "Jagjeet Lally",
-        "Nish Kumar",
-        "Clara Chamberlain Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Gill Huggett"
+        "Nish Kumar"
       ],
       "topics": [
         "india",
@@ -701,12 +577,7 @@
       "speakers": [
         "Greg Jenner",
         "Jill Burke",
-        "Tatty Macleod",
-        "Emma Bentley",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Gill Huggett"
+        "Tatty Mac"
       ],
       "topics": [
         "renaissance",
@@ -728,13 +599,7 @@
       "itunes_duration": "1689",
       "speakers": [
         "Greg Jenner",
-        "Eleanor Barraclough",
-        "Chloe Petts",
-        "Clara Chamberlain Written",
-        "Clara Chamberlain",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Eleanor Barraclough"
       ],
       "topics": [
         "women",
@@ -756,12 +621,7 @@
       "speakers": [
         "Greg Jenner",
         "Vanessa Heggie",
-        "Ed Byrne",
-        "Will Kellogg",
-        "John’s Seventh Day",
-        "Charlotte Emily",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Ed Byrne"
       ],
       "topics": [
         "kellogg",
@@ -784,12 +644,7 @@
       "speakers": [
         "Alexandre Dumas",
         "Greg Jenner",
-        "Olivette Otele",
-        "Emma Bentley",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Gill Huggett"
+        "Olivette Otele"
       ],
       "topics": [
         "alexandre",
@@ -812,12 +667,7 @@
       "speakers": [
         "Greg Jenner",
         "Gabrielle Storey",
-        "Cariad Lloyd",
-        "Clara Chamberlain Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Ben Hollands"
+        "Cariad Lloyd"
       ],
       "topics": [
         "empress",
@@ -839,13 +689,7 @@
       "itunes_duration": "1688",
       "speakers": [
         "Greg Jenner",
-        "Frank Cogliano",
-        "Patton Oswalt",
-        "Thomas Jefferson",
-        "Ben Franklin",
-        "George Washington",
-        "Charlotte Emily",
-        "Emmie Rose Price-Goodfellow"
+        "Frank Cogliano"
       ],
       "topics": [
         "american",
@@ -868,11 +712,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Brett Whalen",
-        "Alison Spittle",
-        "Jessica Honey Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey"
+        "Alison Spittle"
       ],
       "topics": [
         "medieval",
@@ -894,12 +734,7 @@
       "itunes_duration": "1677",
       "speakers": [
         "Greg Jenner",
-        "Desiree Burch",
-        "Christopher Columbus",
-        "Roxy Moore Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey"
+        "Desiree Burch"
       ],
       "topics": [
         "columbian",
@@ -923,11 +758,7 @@
         "Jane Austen",
         "Greg Jenner",
         "Lucy Worsley",
-        "Sally Phillips",
-        "Elizabeth Bennet",
-        "Emma Woodhouse",
-        "Marianne Dashwood",
-        "Northanger Abbey"
+        "Sally Phillips"
       ],
       "topics": [
         "jane",
@@ -950,13 +781,7 @@
       "itunes_duration": "3463",
       "speakers": [
         "Marie Antoinette",
-        "Katherine Astbury",
-        "Jen Brister",
-        "Louis Xvi",
-        "Greg Jenner",
-        "Charlotte Emily",
-        "Charlotte Emily Edgeshaw",
-        "Emmie Rose Price-Goodfellow"
+        "Katherine Astbury"
       ],
       "topics": [
         "marie",
@@ -978,13 +803,7 @@
       "itunes_duration": "3321",
       "speakers": [
         "Greg Jenner",
-        "Josephine Quinn",
-        "Darren Harriott",
-        "Robert Bruce",
-        "Emma Bentley",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Josephine Quinn"
       ],
       "topics": [
         "hannibal",
@@ -1007,12 +826,7 @@
       "speakers": [
         "Greg Jenner",
         "Islam Issa",
-        "Athena Kugblenu",
-        "Emma Bentley",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Gill Huggett"
+        "Athena Kugblenu"
       ],
       "topics": [
         "alexandria",
@@ -1035,12 +849,7 @@
       "speakers": [
         "Greg Jenner",
         "Jagjeet Lally",
-        "Nish Kumar",
-        "Clara Chamberlain Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Gill Huggett"
+        "Nish Kumar"
       ],
       "topics": [
         "india",
@@ -1061,13 +870,7 @@
       "itunes_duration": "3459",
       "speakers": [
         "Greg Jenner",
-        "Jill Burke",
-        "Tatty Macleod",
-        "Madam CJ Walker",
-        "Leonardo Da Vinci",
-        "Emma Bentley",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Jill Burke"
       ],
       "topics": [
         "renaissance",
@@ -1091,13 +894,7 @@
       "itunes_duration": "3468",
       "speakers": [
         "Greg Jenner",
-        "Eleanor Barraclough",
-        "Chloe Petts",
-        "Leif Erikson",
-        "Clara Chamberlain Written",
-        "Clara Chamberlain",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Eleanor Barraclough"
       ],
       "topics": [
         "woman",
@@ -1119,13 +916,7 @@
       "itunes_duration": "3549",
       "speakers": [
         "Greg Jenner",
-        "Vanessa Heggie",
-        "Ed Byrne",
-        "Will Kellogg",
-        "John’s Seventh Day",
-        "Vaness Heggie",
-        "Charlotte Emily",
-        "Emmie Rose Price-Goodfellow"
+        "Vanessa Heggie"
       ],
       "topics": [
         "kellogg",
@@ -1150,13 +941,7 @@
       "itunes_duration": "3367",
       "speakers": [
         "Alexandre Dumas",
-        "Olivette Otele",
-        "Josephine Baker",
-        "Young Napoleon",
-        "Greg Jenner",
-        "Emma Bentley",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Olivette Otele"
       ],
       "topics": [
         "alexandre",
@@ -1179,12 +964,7 @@
       "speakers": [
         "Greg Jenner",
         "Gabrielle Storey",
-        "Cariad Lloyd",
-        "Mary Wollstonecraft",
-        "Clara Chamberlain Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Cariad Lloyd"
       ],
       "topics": [
         "empress",
@@ -1207,11 +987,7 @@
         "Marco Polo",
         "Greg Jenner",
         "Sharon Kinoshita",
-        "Ria Lina",
-        "Qubilai Khan",
-        "Hannah Cusworth Written",
-        "Hannah Cusworth",
-        "Emmie Rose Price-Goodfellow"
+        "Ria Lina"
       ],
       "topics": [
         "marco",
@@ -1234,12 +1010,7 @@
       "speakers": [
         "Greg Jenner",
         "Jonathan Morris",
-        "Sophie Duker",
-        "Matt Ryan Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Ben Hollands"
+        "Sophie Duker"
       ],
       "topics": [
         "history",
@@ -1261,13 +1032,7 @@
       "itunes_duration": "3454",
       "speakers": [
         "Greg Jenner",
-        "Frank Cogliano",
-        "Patton Oswalt",
-        "Thomas Jefferson",
-        "Ben Franklin",
-        "George Washington",
-        "Frederick Douglass",
-        "Sojourner Truth"
+        "Frank Cogliano"
       ],
       "topics": [
         "american",
@@ -1291,12 +1056,7 @@
       "speakers": [
         "Greg Jenner",
         "Vanessa Heggie",
-        "Stu Goldsmith",
-        "John Franklin",
-        "Roald Amundsen",
-        "Matt Ryan Written",
-        "Matt Ryan",
-        "Emmie Rose Price-Goodfellow"
+        "Stu Goldsmith"
       ],
       "topics": [
         "arctic",
@@ -1319,12 +1079,7 @@
       "speakers": [
         "Greg Jenner",
         "Moudhy Al-Rashid",
-        "Phil Wang",
-        "Hannah Cusworth",
-        "Matt Ryan Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Phil Wang"
       ],
       "topics": [
         "cuneiform",
@@ -1346,12 +1101,7 @@
       "speakers": [
         "Greg Jenner",
         "Amy Fuller",
-        "Jen Brister",
-        "Hernán Cortés",
-        "Abbashar Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Jen Brister"
       ],
       "topics": [
         "malintzin",
@@ -1373,12 +1123,7 @@
       "speakers": [
         "Greg Jenner",
         "Mary Bateman",
-        "Mike Wozniak",
-        "King Arthur",
-        "Hannah Cusworth",
-        "Jon Norman-Mason",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Mike Wozniak"
       ],
       "topics": [
         "legend",
@@ -1402,12 +1147,7 @@
       "speakers": [
         "Greg Jenner",
         "Michell Chresfield",
-        "Desiree Burch",
-        "Sojourner Truth",
-        "Frederick Douglass",
-        "Abraham Lincoln",
-        "Madeleine Bracey Written",
-        "Madeleine Bracey"
+        "Desiree Burch"
       ],
       "topics": [
         "sojourner",
@@ -1431,11 +1171,7 @@
         "Catherine de",
         "Greg Jenner",
         "Estelle Paranque",
-        "Shaparak Khorsandi",
-        "Catherine de Medici",
-        "Hannah Cusworth Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Shaparak Khorsandi"
       ],
       "topics": [
         "catherine",
@@ -1458,12 +1194,7 @@
       "speakers": [
         "Greg Jenner",
         "Isabella Rosner",
-        "Cariad Lloyd",
-        "William Morris",
-        "May Morris",
-        "Gertrude Jekyll",
-        "Philip Webb",
-        "Jon Norman-Mason"
+        "Cariad Lloyd"
       ],
       "topics": [
         "arts",
@@ -1487,12 +1218,7 @@
       "speakers": [
         "Greg Jenner",
         "Jonathan Healey",
-        "Toussaint Douglass",
-        "Oliver Cromwell",
-        "Matt Ryan Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Toussaint Douglass"
       ],
       "topics": [
         "cause",
@@ -1517,12 +1243,7 @@
       "speakers": [
         "Greg Jenner",
         "Edith Hall",
-        "Dan Schreiber",
-        "Madeleine Bracey Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Ben Hollands"
+        "Dan Schreiber"
       ],
       "topics": [
         "aristotle",
@@ -1544,12 +1265,7 @@
       "speakers": [
         "Greg Jenner",
         "Danika Parikh",
-        "Ahir Shah",
-        "Emmie Rose Price-Goodfellow",
-        "Aimee Hinds Scott",
-        "Emma Nagouse",
-        "Steve Hankey Executive",
-        "Philip Sellars"
+        "Ahir Shah"
       ],
       "topics": [
         "indus",
@@ -1572,12 +1288,7 @@
       "speakers": [
         "Greg Jenner",
         "Sally Holloway",
-        "Cariad Lloyd",
-        "Jane Austen",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Greg Jenner Project Management",
-        "Steve Hankey Executive"
+        "Cariad Lloyd"
       ],
       "topics": [
         "georgian",
@@ -1601,11 +1312,7 @@
         "Marco Polo",
         "Greg Jenner",
         "Sharon Kinoshita",
-        "Ria Lina",
-        "Qubilai Khan",
-        "Zheng Yi Sao",
-        "Ibn Battuta",
-        "Hannah Cusworth Written"
+        "Ria Lina"
       ],
       "topics": [
         "marco",
@@ -1629,12 +1336,7 @@
       "speakers": [
         "Greg Jenner",
         "Jonathan Morris",
-        "Sophie Duker",
-        "Matt Ryan Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Ben Hollands"
+        "Sophie Duker"
       ],
       "topics": [
         "history",
@@ -1657,12 +1359,7 @@
       "speakers": [
         "Greg Jenner",
         "Vanessa Heggie",
-        "Stu Goldsmith",
-        "John Franklin",
-        "Roald Amundsen",
-        "Matt Ryan Written",
-        "Matt Ryan",
-        "Emmie Rose Price-Goodfellow"
+        "Stu Goldsmith"
       ],
       "topics": [
         "arctic",
@@ -1686,12 +1383,7 @@
       "speakers": [
         "Greg Jenner",
         "Moudhy Al-Rashid",
-        "Phil Wang",
-        "Kung Fu",
-        "Hannah Cusworth",
-        "Matt Ryan Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Phil Wang"
       ],
       "topics": [
         "cuneiform",
@@ -1713,12 +1405,7 @@
       "speakers": [
         "Greg Jenner",
         "Amy Fuller",
-        "Jen Brister",
-        "Hernán Cortés",
-        "Abbashar Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Jen Brister"
       ],
       "topics": [
         "malintzin",
@@ -1740,12 +1427,7 @@
       "speakers": [
         "Greg Jenner",
         "Mary Bateman",
-        "Mike Wozniak",
-        "King Arthur",
-        "Charles Dickens",
-        "Hannah Cusworth",
-        "Jon Norman-Mason",
-        "Emmie Rose Price-Goodfellow"
+        "Mike Wozniak"
       ],
       "topics": [
         "legend",
@@ -1769,12 +1451,7 @@
       "speakers": [
         "Greg Jenner",
         "Michell Chresfield",
-        "Desiree Burch",
-        "Sojourner Truth",
-        "Frederick Douglass",
-        "Abraham Lincoln",
-        "Harriet Tubman",
-        "Josephine Baker"
+        "Desiree Burch"
       ],
       "topics": [
         "sojourner",
@@ -1798,11 +1475,7 @@
         "Catherine de Medici",
         "Greg Jenner",
         "Estelle Paranque",
-        "Shaparak Khorsandi",
-        "Hannah Cusworth Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Shaparak Khorsandi"
       ],
       "topics": [
         "catherine",
@@ -1827,11 +1500,7 @@
         "William Morris",
         "Greg Jenner",
         "Isabella Rosner",
-        "Cariad Lloyd",
-        "May Morris",
-        "Gertrude Jekyll",
-        "Philip Webb",
-        "Mary Wollstonecraft"
+        "Cariad Lloyd"
       ],
       "topics": [
         "arts",
@@ -1856,12 +1525,7 @@
       "speakers": [
         "Greg Jenner",
         "Jonathan Healey",
-        "Toussaint Douglass",
-        "Oliver Cromwell",
-        "Frederick Douglass",
-        "Nell Gwyn",
-        "Matt Ryan Written",
-        "Emmie Rose Price-Goodfellow"
+        "Toussaint Douglass"
       ],
       "topics": [
         "cause",
@@ -1887,11 +1551,7 @@
         "Ancient Greece",
         "Greg Jenner",
         "Edith Hall",
-        "Dan Schreiber",
-        "Madeleine Bracey Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Dan Schreiber"
       ],
       "topics": [
         "aristotle",
@@ -1933,13 +1593,7 @@
       "itunes_duration": "1688",
       "speakers": [
         "Greg Jenner",
-        "Hannah Thuraisingam Robbins",
-        "Desiree Burch",
-        "Les Misérables",
-        "Lloyd Webber",
-        "Hannah Campbell Hewson",
-        "Annabel Storr",
-        "Anna McCully"
+        "Hannah Thuraisingam Robbins"
       ],
       "topics": [
         "history",
@@ -1963,11 +1617,7 @@
         "Leif Erikson",
         "Greg Jenner",
         "Eleanor Barraclough",
-        "Kiell Smith-Bynoe",
-        "Christopher Columbus",
-        "Jon Norman Mason Written",
-        "Jon Norman Mason",
-        "Emmie Rose Price-Goodfellow"
+        "Kiell Smith-Bynoe"
       ],
       "topics": [
         "leif",
@@ -1990,12 +1640,7 @@
       "speakers": [
         "Greg Jenner",
         "Isobel Wisher",
-        "Seán Burke",
-        "Jon Norman Mason Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Ben Hollands"
+        "Seán Burke"
       ],
       "topics": [
         "palaeolithic",
@@ -2018,12 +1663,7 @@
       "speakers": [
         "Greg Jenner",
         "Michelle Sauer",
-        "Sophie Duker",
-        "Benedetta Carlini",
-        "Hannah Campbell Hewson Written",
-        "Hannah Campbell Hewson",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Sophie Duker"
       ],
       "topics": [
         "benedetta",
@@ -2047,11 +1687,7 @@
         "Alexis Soyer",
         "Greg Jenner",
         "Annie Gray",
-        "Ed Gamble",
-        "Hannah Campbell Hewson Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Ed Gamble"
       ],
       "topics": [
         "alexis",
@@ -2073,13 +1709,7 @@
       "itunes_duration": "1691",
       "speakers": [
         "Greg Jenner",
-        "Satona Suzuki",
-        "Ahir Shah",
-        "Tokugawa Ieyasu",
-        "Annabel Storr Written",
-        "Annabel Storr",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Satona Suzuki"
       ],
       "topics": [
         "japan",
@@ -2101,12 +1731,7 @@
       "speakers": [
         "Robert Bruce",
         "Greg Jenner",
-        "Marjolein Robertson",
-        "Anna McCully",
-        "Stewart Written",
-        "Anna McCully Stewart",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Marjolein Robertson"
       ],
       "topics": [
         "robert",
@@ -2129,12 +1754,7 @@
       "speakers": [
         "Greg Jenner",
         "Stephen Kershaw",
-        "Josie Long",
-        "Bronze Age",
-        "Anna McCully",
-        "Stewart Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Josie Long"
       ],
       "topics": [
         "minoan",
@@ -2157,12 +1777,7 @@
       "speakers": [
         "Greg Jenner",
         "Bodie Ashton",
-        "Jordan Gray",
-        "Weimar Germany",
-        "Jon Norman Mason Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Jordan Gray"
       ],
       "topics": [
         "lgbtq",
@@ -2187,12 +1802,7 @@
       "speakers": [
         "Mary Anning",
         "Greg Jenner",
-        "Michael Taylor",
-        "Sara Pascoe",
-        "Annabel Storr Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Michael Taylor"
       ],
       "topics": [
         "mary",
@@ -2214,13 +1824,7 @@
       "itunes_duration": "1700",
       "speakers": [
         "Greg Jenner",
-        "Lydia Zeldenrust",
-        "Robin Ince",
-        "William Caxton",
-        "Jon Norman Mason Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Lydia Zeldenrust"
       ],
       "topics": [
         "england",
@@ -2243,11 +1847,7 @@
         "Frederick Douglass",
         "Greg Jenner",
         "Prof Emily Bernard",
-        "Toussaint Douglass",
-        "Jess White",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey"
+        "Toussaint Douglass"
       ],
       "topics": [
         "frederick",
@@ -2270,12 +1870,7 @@
       "speakers": [
         "Greg Jenner",
         "Shushma Malik",
-        "Thanyia Moore",
-        "Mark Antony",
-        "Aimee Hinds Scott Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey"
+        "Thanyia Moore"
       ],
       "topics": [
         "cleopatra",
@@ -2295,14 +1890,7 @@
       "enclosure_length": "55104000",
       "itunes_duration": "3444",
       "speakers": [
-        "Hannah Thuraisingam Robbins",
-        "Desiree Burch",
-        "Les Misérables",
-        "Lloyd Webber",
-        "Greg Jenner",
-        "Hannah Campbell Hewson",
-        "Annabel Storr",
-        "Anna McCully"
+        "Hannah Thuraisingam Robbins"
       ],
       "topics": [
         "history",
@@ -2323,12 +1911,7 @@
       "speakers": [
         "Leif Erikson Greg Jenner",
         "Eleanor Barraclough",
-        "Kiell Smith-Bynoe",
-        "Leif Erikson",
-        "Christopher Columbus",
-        "Greg Jenner",
-        "Jon Norman Mason Written",
-        "Jon Norman Mason"
+        "Kiell Smith-Bynoe"
       ],
       "topics": [
         "leif",
@@ -2348,13 +1931,7 @@
       "itunes_duration": "3374",
       "speakers": [
         "Isobel Wisher",
-        "Seán Burke",
-        "Greg Jenner",
-        "Jon Norman Mason Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Ben Hollands"
+        "Seán Burke"
       ],
       "topics": [
         "palaeolithic",
@@ -2375,12 +1952,7 @@
       "speakers": [
         "Carlini Greg Jenner",
         "Michelle Sauer",
-        "Sophie Duker",
-        "Benedetta Carlini",
-        "Greg Jenner",
-        "Hannah Campbell Hewson Written",
-        "Hannah Campbell Hewson",
-        "Emmie Rose Price-Goodfellow"
+        "Sophie Duker"
       ],
       "topics": [
         "benedetta",
@@ -2402,11 +1974,7 @@
         "Alexis Soyer",
         "Greg Jenner",
         "Annie Gray",
-        "Ed Gamble",
-        "Hannah Campbell Hewson Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Ed Ga"
       ],
       "topics": [
         "alexis",
@@ -2426,13 +1994,7 @@
       "itunes_duration": "3222",
       "speakers": [
         "Greg Jenner",
-        "Satona Suzuki",
-        "Ahir Shah",
-        "Tokugawa Ieyasu",
-        "Annabel Storr Written",
-        "Annabel Storr",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Satona Suzuki"
       ],
       "topics": [
         "japan"
@@ -2451,13 +2013,7 @@
       "itunes_duration": "3485",
       "speakers": [
         "Robert Bruce",
-        "Greg Jenner",
-        "Marjolein Robertson",
-        "Anna McCully",
-        "Stewart Written",
-        "Anna McCully Stewart",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Greg Jenner"
       ],
       "topics": [
         "robert",
@@ -2477,13 +2033,7 @@
       "itunes_duration": "3415",
       "speakers": [
         "Greg Jenner",
-        "Stephen Kershaw",
-        "Josie Long",
-        "Bronze Age",
-        "Anna McCully",
-        "Stewart Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Stephen Kershaw"
       ],
       "topics": [
         "minoan",
@@ -2503,13 +2053,7 @@
       "itunes_duration": "3363",
       "speakers": [
         "Greg Jenner",
-        "Bodie Ashton",
-        "Jordan Gray",
-        "Weimar Germany",
-        "Jon Norman Mason Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Bodie Ashton"
       ],
       "topics": [
         "lgbtq",
@@ -2532,12 +2076,7 @@
       "speakers": [
         "Mary Anning",
         "Greg Jenner",
-        "Michael Taylor",
-        "Sara Pascoe",
-        "Annabel Storr Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Michael Taylor"
       ],
       "topics": [
         "mary",
@@ -2557,13 +2096,7 @@
       "itunes_duration": "3382",
       "speakers": [
         "Greg Jenner",
-        "Lydia Zeldenrust",
-        "Robin Ince",
-        "William Caxton",
-        "Jon Norman Mason Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Lydia Zeldenrust"
       ],
       "topics": [
         "england"
@@ -2583,12 +2116,7 @@
       "speakers": [
         "Greg Jenner",
         "Elizabeth Tyler",
-        "Jen Brister",
-        "Queen Emma",
-        "Danish Cnut",
-        "Josh Rice Written",
-        "Josh Rice",
-        "Emmie Rose Price-Goodfellow"
+        "Jen Brister"
       ],
       "topics": [
         "emma",
@@ -2611,12 +2139,7 @@
       "speakers": [
         "Greg Jenner",
         "Bill Sillar",
-        "Sue Perkins",
-        "Machu Picchu",
-        "Andrew Himmelberg Written",
-        "Andrew Himmelberg",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Sue Perkins"
       ],
       "topics": [
         "inca",
@@ -2638,11 +2161,7 @@
       "itunes_duration": "1694",
       "speakers": [
         "Greg Jenner",
-        "Jillian Stinchcomb",
-        "Jon Mason",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "Jillian Stinchcomb"
       ],
       "topics": [
         "queen",
@@ -2665,12 +2184,7 @@
       "speakers": [
         "Greg Jenner",
         "Sunny Singh",
-        "Poppy Jay",
-        "Madeleine Bracey Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Caitlin Hobbs"
+        "Poppy Jay"
       ],
       "topics": [
         "history",
@@ -2694,11 +2208,7 @@
         "Simón Bolívar",
         "Greg Jenner",
         "Francisco Eissa-Barroso",
-        "Katie Green",
-        "Roxy Moore Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Katie Green"
       ],
       "topics": [
         "radio",
@@ -2719,11 +2229,7 @@
       "speakers": [
         "Greg Jenner",
         "Noliwe Rooks",
-        "Athena Kugblenu",
-        "Andrew Himmelberg Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "Athena Kugblenu"
       ],
       "topics": [
         "madam",
@@ -2746,12 +2252,7 @@
       "speakers": [
         "Greg Jenner",
         "Edith Hall",
-        "Desiree Burch",
-        "mathematician Pythagoras",
-        "Josh Rice Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "Desiree Burch"
       ],
       "topics": [
         "pythagoras",
@@ -2773,12 +2274,7 @@
       "speakers": [
         "Greg Jenner",
         "Jane Goldman",
-        "Suzi Ruffell",
-        "Virginia Woolf",
-        "John Maynard Keynes",
-        "Madeleine Bracey",
-        "Andrew Himmelberg",
-        "Josh Rice"
+        "Suzi Ruffell"
       ],
       "topics": [
         "bloomsbury",
@@ -2801,11 +2297,7 @@
       "speakers": [
         "Greg Jenner",
         "Leon Rocha",
-        "Phil Wang",
-        "kung fu",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "Phil Wang"
       ],
       "topics": [
         "history",
@@ -2828,11 +2320,7 @@
       "speakers": [
         "Greg Jenner",
         "Julia Leikin",
-        "David Mitchell",
-        "Catherine II",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "David Mitchell"
       ],
       "topics": [
         "catherine",
@@ -2854,13 +2342,7 @@
       "itunes_duration": "4277",
       "speakers": [
         "Concert Orchestra",
-        "Ben Dawson",
-        "Greg Jenner",
-        "Hannah Templeton",
-        "David O’Doherty",
-        "Wolfgang Amadeus Mozart",
-        "Madeleine Bracey Written",
-        "Madeleine Bracey"
+        "Ben Dawson"
       ],
       "topics": [
         "mozart"
@@ -2880,8 +2362,7 @@
       "speakers": [
         "Greg Jenner",
         "Janina Ramirez",
-        "Kae Kurd",
-        "Emma Nagouse"
+        "Kae Kurd"
       ],
       "topics": [
         "norse",
@@ -2902,9 +2383,7 @@
       "enclosure_length": "28640000",
       "itunes_duration": "1790",
       "speakers": [
-        "Greg Jenner",
-        "Sophie Duker",
-        "Emma Nagouse"
+        "Greg Jenner"
       ],
       "topics": [
         "radio",
@@ -2925,12 +2404,7 @@
       "speakers": [
         "Greg Jenner",
         "Elizabeth Tyler",
-        "Jen Brister",
-        "Queen Emma",
-        "Danish Cnut",
-        "Josh Rice Written",
-        "Josh Rice",
-        "Emmie Rose Price-Goodfellow"
+        "Jen Brister"
       ],
       "topics": [
         "emma",
@@ -2951,12 +2425,7 @@
       "speakers": [
         "Greg Jenner",
         "Bill Sillar",
-        "Sue Perkins",
-        "Machu Picchu",
-        "Andrew Himmelberg Written",
-        "Andrew Himmelberg",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse"
+        "Sue Perkins"
       ],
       "topics": [
         "inca",
@@ -2976,11 +2445,7 @@
       "itunes_duration": "3276",
       "speakers": [
         "Greg Jenner",
-        "Jillian Stinchcomb",
-        "Jon Mason",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "Jillian Stinchcomb"
       ],
       "topics": [
         "queen",
@@ -3001,12 +2466,7 @@
       "speakers": [
         "Greg Jenner",
         "Sunny Singh",
-        "Poppy Jay",
-        "Madeleine Bracey Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Caitlin Hobbs"
+        "Poppy Jay"
       ],
       "topics": [
         "history",
@@ -3028,11 +2488,7 @@
         "Simón Bolívar",
         "Greg Jenner",
         "Francisco Eissa-Barroso",
-        "Katie Green",
-        "Roxy Moore Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator"
+        "Katie Gr"
       ],
       "topics": []
     },
@@ -3050,11 +2506,7 @@
       "speakers": [
         "Greg Jenner",
         "Noliwe Rooks",
-        "Athena Kugblenu",
-        "Andrew Himmelberg Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "Athena Kugblenu"
       ],
       "topics": [
         "madam",
@@ -3075,12 +2527,7 @@
       "speakers": [
         "Greg Jenner",
         "Edith Hall",
-        "Desiree Burch",
-        "mathematician Pythagoras",
-        "Josh Rice Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "Desiree Burch"
       ],
       "topics": [
         "pythagora"
@@ -3100,12 +2547,7 @@
       "speakers": [
         "Greg Jenner",
         "Jane Goldman",
-        "Suzi Ruffell",
-        "Virginia Woolf",
-        "John Maynard Keynes",
-        "Madeleine Bracey",
-        "Andrew Himmelberg",
-        "Josh Rice"
+        "Suzi Ruffell"
       ],
       "topics": [
         "bloomsbury",
@@ -3126,11 +2568,7 @@
       "speakers": [
         "Greg Jenner",
         "Leon Rocha",
-        "Phil Wang",
-        "kung fu",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "Phil Wang"
       ],
       "topics": [
         "history",
@@ -3151,11 +2589,7 @@
       "speakers": [
         "Greg Jenner",
         "Julia Leikin",
-        "David Mitchell",
-        "Catherine II",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Senior"
+        "David Mi"
       ],
       "topics": [
         "catherine"
@@ -3176,10 +2610,7 @@
         "Charles Dickens",
         "Greg Jenner",
         "Emily Bell",
-        "Mike Wozniak",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey"
+        "Mike Wozniak"
       ],
       "topics": [
         "christmas",
@@ -3201,14 +2632,7 @@
       "enclosure_length": "26912000",
       "itunes_duration": "1682",
       "speakers": [
-        "Greg Jenner",
-        "Farah Karim-Cooper",
-        "Richard Herring",
-        "William Shakespeare",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Caitlin Hobbs"
+        "Greg Jenner"
       ],
       "topics": [
         "shakespeare",
@@ -3228,14 +2652,7 @@
       "enclosure_length": "66688000",
       "itunes_duration": "4168",
       "speakers": [
-        "Greg Jenner",
-        "Farah Karim-Cooper",
-        "Richard Herring",
-        "William Shakespeare",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Caitlin Hobbs"
+        "Greg Jenner"
       ],
       "topics": [
         "shakespeare"
@@ -3255,12 +2672,7 @@
       "speakers": [
         "Greg Jenner",
         "Michael Carter",
-        "Mathew Baynton",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Steve Hankey Production Coordinator",
-        "Caitlin Hobbs",
-        "Chris Ledgard"
+        "Mathew Baynton"
       ],
       "topics": [
         "medieval",
@@ -3282,12 +2694,7 @@
       "speakers": [
         "Greg Jenner",
         "Vanessa Heggie",
-        "Darren Harriott",
-        "Caitlín Rankin-McCabe Written",
-        "Emma Nagouse",
-        "Caitlín Rankin-McCabe",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey You’re Dead"
+        "Darren Harriott"
       ],
       "topics": [
         "victorian",
@@ -3308,10 +2715,7 @@
       "enclosure_length": "27136000",
       "itunes_duration": "1696",
       "speakers": [
-        "Greg Jenner",
-        "Joining Greg",
-        "Peter Frankopan",
-        "Olga Koch"
+        "Greg Jenner"
       ],
       "topics": [
         "ivan",
@@ -3356,9 +2760,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Benjamin Reiss",
-        "Desiree Burch",
-        "Tom Thumb",
-        "Charlotte Potter"
+        "Desiree Burch"
       ],
       "topics": [
         "barnum",
@@ -3379,10 +2781,7 @@
       "itunes_duration": "1710",
       "speakers": [
         "Greg Jenner",
-        "Kemah Bob",
-        "Genevieve Johnson Written",
-        "Emma Nagouse",
-        "Abi Paterson You’re"
+        "Kemah Bob"
       ],
       "topics": [
         "hatshepsut",
@@ -3403,12 +2802,7 @@
       "itunes_duration": "3437",
       "speakers": [
         "Greg Jenner",
-        "Prof Catherine Fletcher",
-        "Leonardo da Vinci",
-        "Anna Nadine-Pike",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Charles Mutter"
+        "Prof Catherine Fletcher"
       ],
       "topics": [
         "leonardo",
@@ -3452,13 +2846,7 @@
       "itunes_duration": "1706",
       "speakers": [
         "Medieval Science",
-        "Greg Jenner",
-        "Seb Falk",
-        "Josie Long",
-        "Rosanna Evans Script",
-        "Emma Nagouse",
-        "Rosanna Evans",
-        "Greg Jenner Project"
+        "Greg Jenner"
       ],
       "topics": [
         "medieval",
@@ -3480,12 +2868,7 @@
       "itunes_duration": "1704",
       "speakers": [
         "Nell Gwyn",
-        "Greg Jenner",
-        "Diana Solomon",
-        "Jess Knappett",
-        "Emma Nagouse",
-        "Greg Jenner Research",
-        "William Clayton"
+        "Greg Jenner"
       ],
       "topics": [
         "nell",
@@ -3508,10 +2891,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Michael Scott",
-        "Alice Fraser",
-        "Rosie Rich Written",
-        "Emma Nagouse",
-        "Abi Paterson"
+        "Alice Fras"
       ],
       "topics": [
         "democracy",
@@ -3533,10 +2913,7 @@
       "speakers": [
         "Zheng Yi Sao",
         "Greg Jenner",
-        "Ria Lina",
-        "Will Clayton Script",
-        "Emma Nagouse",
-        "Will Clayton"
+        "Ria Lina"
       ],
       "topics": [
         "zheng",
@@ -3558,11 +2935,7 @@
       "speakers": [
         "Greg Jenner",
         "David Rooney",
-        "Desiree Burch",
-        "Rosie Rich Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey You’re Dead"
+        "Desiree Burch"
       ],
       "topics": [
         "history",
@@ -3584,12 +2957,7 @@
       "speakers": [
         "Sue Perkins",
         "Lucy Worsley",
-        "Greg Jenner",
-        "Agatha Christie",
-        "Jessica Honey Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Jessica Honey"
+        "Greg Jenner"
       ],
       "topics": [
         "agatha",
@@ -3611,12 +2979,7 @@
       "itunes_duration": "3640",
       "speakers": [
         "Greg Jenner",
-        "Gillian Kenny",
-        "Seán Burke",
-        "Emmie Rose Price-Goodfellow Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey You’re Dead"
+        "Gillian Kenn"
       ],
       "topics": [
         "irish",
@@ -3637,12 +3000,7 @@
       "speakers": [
         "Agatha Christie Sue Perkins",
         "Lucy Worsley",
-        "Greg Jenner",
-        "Agatha Christie",
-        "Jessica Honey Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Jessica Honey"
+        "Greg Jenner"
       ],
       "topics": [
         "agatha",
@@ -3662,12 +3020,7 @@
       "itunes_duration": "4494",
       "speakers": [
         "Leonardo da Vinci",
-        "Greg Jenner",
-        "Catherine Fletcher",
-        "Anna Nadine-Pike",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Charles Mutter"
+        "Greg Jenner"
       ],
       "topics": [
         "leonardo",
@@ -3688,12 +3041,7 @@
       "speakers": [
         "Victorian Bodybuilding Greg Jenner",
         "Vanessa Heggie",
-        "Darren Harriot",
-        "Caitlín Rankin-McCabe Written",
-        "Emma Nagouse",
-        "Caitlín Rankin-McCabe",
-        "Greg Jenner",
-        "Emmie Rose Price-Goodfellow"
+        "Darren Harriot"
       ],
       "topics": [
         "victorian",
@@ -3714,12 +3062,7 @@
       "speakers": [
         "Greg Jenner",
         "Adam Chapman",
-        "Kiri Pritchard-McLean",
-        "Margaret Beaufort",
-        "Edward Iii",
-        "Katherine Swynford",
-        "Caitlín Rankin-McCabe Written",
-        "Emma Nagouse"
+        "Kiri Pritchard-McLean"
       ],
       "topics": [
         "rise",
@@ -3740,12 +3083,7 @@
       "speakers": [
         "Cleopatra Greg Jenner",
         "Shushma Malik",
-        "Thanyia Moore",
-        "Mark Antony",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Greg Jenner",
-        "Steve Hankey"
+        "Thanyia Moore"
       ],
       "topics": [
         "cleopatra"
@@ -3766,11 +3104,7 @@
         "Al Andalus Greg Jenner",
         "Prof Amira Bennison",
         "Fatiha El-Ghorri",
-        "Al Andalus",
-        "Jessica Honey Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Greg Jenner"
+        "Al Andalus"
       ],
       "topics": [
         "andalus"
@@ -3790,11 +3124,7 @@
       "speakers": [
         "Greg Jenner",
         "Jeremy Filet",
-        "Eleanor Morton",
-        "James VI",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey You’re Dead"
+        "Eleanor Morton"
       ],
       "topics": [
         "jacobites"
@@ -3832,13 +3162,7 @@
       "enclosure_length": "57232000",
       "itunes_duration": "3577",
       "speakers": [
-        "Sarah Bernhardt Greg Jenner",
-        "Sarah Bernhardt",
-        "Caitlin Rankin-McCabe Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Greg Jenner",
-        "Steve Hankey You’re Dead"
+        "Sarah Bernhardt Greg Jenner"
       ],
       "topics": [
         "sarah",
@@ -3858,12 +3182,7 @@
       "itunes_duration": "3362",
       "speakers": [
         "Greg Jenner",
-        "Desiree Burch",
-        "Christopher Columbus",
-        "Roxy Moore Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey You’re Dead"
+        "Desiree Burch"
       ],
       "topics": [
         "columbian",
@@ -3884,12 +3203,7 @@
       "speakers": [
         "Frederick Douglass Greg Jenner",
         "Prof Emily Bernard",
-        "Toussaint Douglass",
-        "Frederick Douglass",
-        "Jess White",
-        "Emma Nagouse",
-        "Greg Jenner",
-        "Emmie Rose Price-Goodfellow"
+        "Toussaint Douglass"
       ],
       "topics": [
         "frederick",
@@ -3908,13 +3222,7 @@
       "enclosure_length": "53568000",
       "itunes_duration": "3348",
       "speakers": [
-        "Olga Koch",
-        "Roxy Moore Written",
-        "Emma Nagouse",
-        "Roxy Moore",
-        "Greg Jenner",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey You’re Dead"
+        "Olga Koch"
       ],
       "topics": [
         "vital",
@@ -3935,12 +3243,7 @@
       "speakers": [
         "Greg Jenner",
         "Danika Parikh",
-        "Ahir Shah",
-        "Emmie Rose Price-Goodfellow",
-        "Aimee Hinds Scott",
-        "Emma Nagouse",
-        "Steve Hankey Executive",
-        "Philip Sellars"
+        "Ahir Shah"
       ],
       "topics": [
         "indus",
@@ -3965,11 +3268,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Brett Whalen",
-        "Alison Spittle",
-        "Jessica Honey Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey You’re Dead"
+        "Alison Spittle"
       ],
       "topics": [
         "medieval",
@@ -3990,12 +3289,7 @@
       "speakers": [
         "Greg Jenner",
         "Sally Holloway",
-        "Cariad Lloyd",
-        "Jane Austen",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Greg Jenner Project Management",
-        "Steve Hankey Executive"
+        "Cariad Lloyd"
       ],
       "topics": [
         "georgian",
@@ -4021,8 +3315,7 @@
         "Grainne O’Malley",
         "Greg Jenner",
         "Gillian Kenny",
-        "Catherine Bohart",
-        "Jessica White"
+        "Catherine Bohart"
       ],
       "topics": [
         "grainne",
@@ -4044,8 +3337,7 @@
       "speakers": [
         "Greg Jenner",
         "Kristi Upson-Saia",
-        "Stu Goldsmith",
-        "Hannah MacKenzie"
+        "Stu Goldsmith"
       ],
       "topics": [
         "ancient",
@@ -4070,8 +3362,7 @@
       "speakers": [
         "Greg Jenner",
         "Augustus Casely-Hayford Obe",
-        "Sophie Duker",
-        "Lloyd Roberts"
+        "Sophie Duker"
       ],
       "topics": [
         "asante",
@@ -4094,8 +3385,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Sarah Churchwell",
-        "Kemah Bob",
-        "Tim Galsworthy"
+        "Kemah Bob"
       ],
       "topics": [
         "prohibition",
@@ -4117,10 +3407,7 @@
       "speakers": [
         "Greg Jenner",
         "Miles Jupp",
-        "Eleanor Janega",
-        "Lloyd Roberts Script",
-        "Emma Nagouse",
-        "Greg Jenner Project Management"
+        "Eleanor Janega"
       ],
       "topics": [
         "christmas",
@@ -4142,11 +3429,7 @@
       "speakers": [
         "Charles Dickens Greg Jenner",
         "Emily Bell",
-        "Mike Wozniak",
-        "Charles Dickens",
-        "Emma Nagouse",
-        "Greg Jenner",
-        "Emmie Rose Price-Goodfellow"
+        "Mike Wozniak"
       ],
       "topics": [
         "christmas",
@@ -4195,8 +3478,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Marlene Daut",
-        "Athena Kugblenu",
-        "Toussaint Louverture"
+        "Athena Kugblenu"
       ],
       "topics": [
         "haitian",
@@ -4216,13 +3498,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27840000",
       "itunes_duration": "1740",
-      "speakers": [
-        "Greg Jenner",
-        "Maria Shehata",
-        "Prof Jonathan Phillips",
-        "Dan Morelle Scripted",
-        "Emily Greenwell"
-      ],
+      "speakers": [],
       "topics": [
         "saladin",
         "radio",
@@ -4290,8 +3566,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Tineke D’Haeseleer",
-        "Evelyn Mok",
-        "Emperor Xuanzong"
+        "Evelyn Mok"
       ],
       "topics": [
         "tang",
@@ -4337,11 +3612,7 @@
       "speakers": [
         "Greg Jenner",
         "Corin Throsby",
-        "Stuart Goldsmith",
-        "Emmie Rose Price-Goodfellow Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Abi Paterson"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "history",
@@ -4361,11 +3632,7 @@
       "itunes_duration": "3535",
       "speakers": [
         "Greg Jenner",
-        "Tim Wingard",
-        "Emmie Rose Price-Goodfellow Written",
-        "Emmie Rose Price-Goodfellow",
-        "Emma Nagouse",
-        "Max Bower"
+        "Tim Wingard"
       ],
       "topics": [
         "animal"
@@ -4385,12 +3652,7 @@
       "speakers": [
         "Ibn Battuta Greg Jenner",
         "Prof Amira Bennison",
-        "Nabil Abdulrashid",
-        "Ibn Battuta",
-        "Jon Mason Written",
-        "Emma Nagouse",
-        "Greg Jenner",
-        "Emmie Rose Price-Goodfellow"
+        "Nabil Abdulrashid"
       ],
       "topics": [
         "battuta"
@@ -4410,11 +3672,7 @@
       "speakers": [
         "Greg Jenner",
         "David Rooney",
-        "Desiree Burch",
-        "Rosie Rich Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Steve Hankey"
+        "Desiree Burch"
       ],
       "topics": [
         "history"
@@ -4433,12 +3691,7 @@
       "itunes_duration": "3418",
       "speakers": [
         "Greg Jenner",
-        "Athena Kugblenu",
-        "Rosie Rich Written",
-        "Emma Nagouse",
-        "Rosie Rich",
-        "Emmie Rose Price-Goodfellow",
-        "Max Bower"
+        "Athena Kugblenu"
       ],
       "topics": [
         "njinga",
@@ -4460,11 +3713,7 @@
       "speakers": [
         "Greg Jenner",
         "Julia Lovell",
-        "Phil Wang",
-        "Jon Mason Written",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Abi Paterson"
+        "Phil Wang"
       ],
       "topics": [
         "terracotta",
@@ -4485,12 +3734,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Gretchen Gerzina",
-        "Kwame Asante",
-        "Genevieve Johnson Written",
-        "Emma Nagouse",
-        "Genevieve Johnson",
-        "Emmie Rose Price-Goodfellow",
-        "Abi Paterson"
+        "Kwame Asante"
       ],
       "topics": [
         "black",
@@ -4511,11 +3755,7 @@
       "itunes_duration": "3474",
       "speakers": [
         "Shushma Malik",
-        "Ahir Shah",
-        "Emma Nagouse",
-        "Greg Jenner",
-        "Emmie Rose Price-Goodfellow",
-        "Abi Paterson"
+        "Ahir Shah"
       ],
       "topics": [
         "julius",
@@ -4538,12 +3778,7 @@
       "speakers": [
         "Julie d'Aubigny Greg Jenner",
         "Sara Barker",
-        "Catherine Bohart",
-        "Julie d'Aubigny",
-        "Kelly Gardiner Written",
-        "Emma Nagouse",
-        "Greg Jenner",
-        "Emmie Rose Price-Goodfellow"
+        "Catherine Bohart"
       ],
       "topics": [
         "julie"
@@ -4563,10 +3798,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Ebru Boyar",
-        "Sue Perkins",
-        "Genevieve Johnson Written",
-        "Emma Nagouse",
-        "Abi Paterson"
+        "Sue Perkins"
       ],
       "topics": [
         "istanbul",
@@ -4588,11 +3820,7 @@
       "speakers": [
         "Greg Jenner",
         "Katherine Parker",
-        "James Nokise",
-        "Claudia Treacher",
-        "Rosanna Evans Written",
-        "Emma Nagouse",
-        "Abi Paterson"
+        "James Nokise"
       ],
       "topics": [
         "captain",
@@ -4614,11 +3842,7 @@
       "speakers": [
         "Athenian Democracy",
         "Greg Jenner",
-        "Michael Scott",
-        "Alice Fraser",
-        "Rosie Rich Written",
-        "Emma Nagouse",
-        "Abi Paterson"
+        "Michael Scott"
       ],
       "topics": [
         "democracy"
@@ -4638,10 +3862,7 @@
       "speakers": [
         "Greg Jenner",
         "Janina Ramirez",
-        "Lou Sanders",
-        "John Mason Written",
-        "Emma Nagouse",
-        "Abi Paterson"
+        "Lou Sanders"
       ],
       "topics": [
         "bayeux",
@@ -4681,10 +3902,7 @@
       "speakers": [
         "Greg Jenner",
         "Stephen Fry",
-        "Bodie Ashton",
-        "Emma Nagouse",
-        "Emmie Rose Price-Goodfellow",
-        "Abi Paterson"
+        "Bodie Ashton"
       ],
       "topics": [
         "frederick",
@@ -4705,8 +3923,7 @@
       "itunes_duration": "3701",
       "speakers": [
         "Miles Jupp",
-        "Eleanor Janega",
-        "Management Siefe"
+        "Eleanor Janega"
       ],
       "topics": [
         "christmas"
@@ -4726,10 +3943,7 @@
       "speakers": [
         "Zheng Yi Sao",
         "Greg Jenner",
-        "Ria Lina",
-        "Will Clayton Script",
-        "Emma Nagouse",
-        "Will Clayton"
+        "Ria Lina"
       ],
       "topics": [
         "zheng"
@@ -4748,12 +3962,7 @@
       "itunes_duration": "3233",
       "speakers": [
         "Mary Wollstonecraft Greg Jenner",
-        "Corin Throsby",
-        "Mary Wollstonecraft",
-        "Chris Wakefield",
-        "Rosanna Evans Script",
-        "Emma Nagouse",
-        "Greg Jenner"
+        "Corin Throsby"
       ],
       "topics": [
         "mary",
@@ -4774,10 +3983,7 @@
       "speakers": [
         "Greg Jenner",
         "Annie Gray",
-        "Richard Osman",
-        "Chris Wakefield Script",
-        "Emma Nagouse",
-        "Chris Wakefield"
+        "Richard Osman"
       ],
       "topics": [
         "history",
@@ -4798,11 +4004,7 @@
       "speakers": [
         "Mary Seacole Greg Jenner",
         "Prof Gretchen Gerzina",
-        "Nathan Caton",
-        "Mary Seacole",
-        "Hannah McKenzie Script",
-        "Emma Nagouse",
-        "Greg Jenner Project"
+        "Nathan Caton"
       ],
       "topics": [
         "mary",
@@ -4823,10 +4025,7 @@
       "speakers": [
         "Greg Jenner",
         "Rosie Jones",
-        "Jane Draycott",
-        "Kierri Price Script",
-        "Emma Nagouse",
-        "Greg Jenner Project"
+        "Jane Draycott"
       ],
       "topics": [
         "disability",
@@ -4847,11 +4046,7 @@
       "itunes_duration": "3159",
       "speakers": [
         "Elis James",
-        "Kathryn Hurlock",
-        "Kierri Price Script",
-        "Emma Nagouse",
-        "Kierri Price",
-        "Greg Jenner Project"
+        "Kathryn Hurlock"
       ],
       "topics": [
         "owain"
@@ -4871,10 +4066,7 @@
       "speakers": [
         "Paul Robeson",
         "Greg Jenner",
-        "Desiree Burch",
-        "William Clayton Script",
-        "Emma Nagouse",
-        "Greg Jenner Project"
+        "Desiree Burch"
       ],
       "topics": [
         "paul",
@@ -4892,13 +4084,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51456000",
       "itunes_duration": "3216",
-      "speakers": [
-        "Lindsay Der",
-        "Mike Wozniak",
-        "Chris Wakefield",
-        "Emma Nagouse",
-        "Greg Jenner"
-      ],
+      "speakers": [],
       "topics": [
         "neolithic",
         "revolution"
@@ -4916,13 +4102,7 @@
       "enclosure_length": "50448000",
       "itunes_duration": "3153",
       "speakers": [
-        "Dean Mahomed Greg Jenner",
-        "Sake Dean Mahomed",
-        "Arunima Datta",
-        "Eshaan Akbar",
-        "Emma Nagouse",
-        "Chris Wakefield",
-        "Greg Jenner"
+        "Dean Mahomed Greg Jenner"
       ],
       "topics": [
         "sake",
@@ -4942,13 +4122,7 @@
       "enclosure_length": "52160000",
       "itunes_duration": "3260",
       "speakers": [
-        "Medieval Science",
-        "Greg Jenner",
-        "Ibn Al Hytham",
-        "Seb Falk",
-        "Josie Long",
-        "Rosanna Evans",
-        "Gregg Jenner"
+        "Medieval Science"
       ],
       "topics": [
         "science"
@@ -4966,11 +4140,7 @@
       "enclosure_length": "50208000",
       "itunes_duration": "3138",
       "speakers": [
-        "Greg Jenner",
-        "Elizabeth Semmelhack",
-        "Lauren Pattison",
-        "Emma Nagouse",
-        "Harry Prance"
+        "High Heels High"
       ],
       "topics": [
         "history",
@@ -4991,13 +4161,7 @@
       "itunes_duration": "3106",
       "speakers": [
         "Nell Gwyn One",
-        "Nell Gwyn",
-        "Greg Jenner",
-        "Diana Solomon",
-        "Jess Knappett",
-        "Emma Nagouse",
-        "Greg Jenner Research",
-        "William Clayton"
+        "Nell Gwyn"
       ],
       "topics": [
         "nell",
@@ -5016,9 +4180,8 @@
       "enclosure_length": "50784000",
       "itunes_duration": "3174",
       "speakers": [
-        "Sophie Duker",
-        "Greg Jenner",
-        "Emma Nagouse"
+        "Great Greg Jenner",
+        "Ancient Egypt"
       ],
       "topics": [
         "ramesses",
@@ -5037,9 +4200,7 @@
       "enclosure_length": "49536000",
       "itunes_duration": "3096",
       "speakers": [
-        "Fairy Tales Greg Jenner",
-        "Sally Phillips",
-        "Prof Maria Tatar"
+        "Fairy Tales Greg Jenner"
       ],
       "topics": [
         "fairy",
@@ -5057,11 +4218,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47424000",
       "itunes_duration": "2964",
-      "speakers": [
-        "Greg Jenner",
-        "Peter Frankopan",
-        "Olga Koch"
-      ],
+      "speakers": [],
       "topics": [
         "ivan"
       ]
@@ -5123,12 +4280,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28000000",
       "itunes_duration": "1750",
-      "speakers": [
-        "Greg Jenner",
-        "Catherine Bohart",
-        "Helen Castor Script",
-        "Dan Morelle"
-      ],
+      "speakers": [],
       "topics": [
         "joan",
         "radio",
@@ -5170,10 +4322,8 @@
       "enclosure_length": "28240000",
       "itunes_duration": "1765",
       "speakers": [
-        "Greg Jenner",
-        "Ed Gamble",
-        "Corin Throsby",
-        "Dan Morelle"
+        "Lord Byron",
+        "Radio Edit"
       ],
       "topics": [
         "lord",
@@ -5194,11 +4344,7 @@
       "enclosure_length": "27792000",
       "itunes_duration": "1737",
       "speakers": [
-        "Greg Jenner",
-        "Sara Pascoe",
-        "Emma Southon",
-        "Greg Jenner Producer",
-        "Dan Morelle"
+        "Greg Jenner"
       ],
       "topics": [
         "boudica",
@@ -5220,9 +4366,7 @@
       "speakers": [
         "Greg Jenner",
         "Benjamin Reiss",
-        "Desiree Burch",
-        "Tom Thumb",
-        "Charlotte Potter"
+        "Desiree Burch"
       ],
       "topics": [
         "barnum"
@@ -5242,9 +4386,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Sarah Churchwell",
-        "Kemah Bob",
-        "Rum Rows",
-        "Tim Galsworthy"
+        "Kemah Bob"
       ],
       "topics": [
         "prohibition"
@@ -5264,8 +4406,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Katrina Phillips",
-        "Alex Edelman",
-        "Charlotte Potter"
+        "Alex Edelman"
       ],
       "topics": [
         "sacagawea"
@@ -5285,9 +4426,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Joanne Freeman",
-        "Chris Addison",
-        "George Washington",
-        "Tim Galsworthy"
+        "Chris Addison"
       ],
       "topics": [
         "america"
@@ -5305,11 +4444,7 @@
       "enclosure_length": "49664000",
       "itunes_duration": "3104",
       "speakers": [
-        "Greg Jenner",
-        "Roy Wood Jr",
-        "Harry Prance",
-        "Jess White",
-        "Tim Galsworthy"
+        "Greg Jenner"
       ],
       "topics": [
         "harlem",
@@ -5330,9 +4465,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Olivette Otele",
-        "Sophie Duker",
-        "Marie Antoinette",
-        "Lloyd Roberts"
+        "Sophie Duker"
       ],
       "topics": [
         "chevalier",
@@ -5354,8 +4487,7 @@
       "speakers": [
         "Greg Jenner",
         "Janina Ramirez",
-        "Kae Kurd",
-        "Emma Nagouse"
+        "Kae Kurd"
       ],
       "topics": [
         "norse",
@@ -5376,8 +4508,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Tineke D’Haeseleer",
-        "Evelyn Mok",
-        "Emperor Xuanzong"
+        "Evelyn Mok"
       ],
       "topics": [
         "tang",
@@ -5421,8 +4552,7 @@
       "speakers": [
         "Greg Jenner",
         "Augustus Casely-Hayford Obe",
-        "Sophie Duker",
-        "Lloyd Roberts"
+        "Sophie Duker"
       ],
       "topics": [
         "asante",
@@ -5443,9 +4573,7 @@
       "speakers": [
         "Greg Jenner",
         "Prof Catherine Fletcher",
-        "Phil Wang",
-        "Mario Puzo",
-        "Jessica White"
+        "Phil Wang"
       ],
       "topics": [
         "borgia"
@@ -5464,9 +4592,7 @@
       "itunes_duration": "3434",
       "speakers": [
         "Kristi Upson-Saia",
-        "Stu Goldsmith",
-        "Greg Jenner",
-        "Hannah MacKenzie"
+        "Stu Goldsmith"
       ],
       "topics": [
         "ancient",
@@ -5489,10 +4615,7 @@
       "speakers": [
         "Grainne O’Malley Greg Jenner",
         "Gillian Kenny",
-        "Catherine Bohart",
-        "Grainne O’Malley",
-        "Greg Jenner",
-        "Jessica White"
+        "Catherine Bohart"
       ],
       "topics": [
         "grainne"
@@ -5512,9 +4635,7 @@
       "speakers": [
         "Greg Jenner",
         "Dr Moudhy Al-Rashid",
-        "Kae Kurd",
-        "Amy Grant",
-        "Lloyd Roberts"
+        "Kae Kurd"
       ],
       "topics": [
         "ancient",
@@ -5535,8 +4656,7 @@
       "speakers": [
         "Greg Jenner",
         "Emma Southon",
-        "Cariad Lloyd",
-        "Harry Prance"
+        "Cariad Lloyd"
       ],
       "topics": [
         "agrippina"
@@ -5599,11 +4719,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27760000",
       "itunes_duration": "1735",
-      "speakers": [
-        "Greg Jenner",
-        "Fern Riddell",
-        "Russell Kane"
-      ],
+      "speakers": [],
       "topics": [
         "christmas",
         "radio",
@@ -5668,11 +4784,8 @@
       "enclosure_length": "28016000",
       "itunes_duration": "1751",
       "speakers": [
-        "Greg Jenner",
-        "Cariad Lloyd",
-        "Prof Suzannah Lipscomb",
-        "Dan Morelle Script",
-        "Eszter Szabo"
+        "Radio Edit",
+        "European Witch Craze"
       ],
       "topics": [
         "witch",
@@ -5693,13 +4806,7 @@
       "enclosure_length": "27712000",
       "itunes_duration": "1732",
       "speakers": [
-        "Greg Jenner",
-        "Tom Parry",
-        "Prof Jean Williams",
-        "Dan Morelle Scripted",
-        "Greg Jenner Researched",
-        "Emma Nagouse",
-        "Eszter Szabo"
+        "Radio Edit"
       ],
       "topics": [
         "history",
@@ -5720,10 +4827,7 @@
       "enclosure_length": "28336000",
       "itunes_duration": "1771",
       "speakers": [
-        "Greg Jenner",
-        "Richard Herring",
-        "Susan Greaney",
-        "Dan Morelle Script"
+        "Greg Jenner"
       ],
       "topics": [
         "stonehenge",
@@ -5746,9 +4850,7 @@
         "Harriet Tubman",
         "Greg Jenner",
         "Desiree Burch",
-        "Michell Chresfield",
-        "Dan Morelle Scripted",
-        "Greg Jenner Researched"
+        "Michell Chresfield"
       ],
       "topics": [
         "harriet",
@@ -5769,10 +4871,8 @@
       "enclosure_length": "28144000",
       "itunes_duration": "1759",
       "speakers": [
-        "Greg Jenner",
-        "Dan Schreiber",
-        "Laura O’Brien",
-        "Dan Morelle Script"
+        "Young Napoleon",
+        "Radio Edit"
       ],
       "topics": [
         "napoleon",
@@ -5794,7 +4894,7 @@
       "speakers": [
         "Greg Jenner",
         "Tim Minchin",
-        "Becky Wragg"
+        "Dr Becky"
       ],
       "topics": [
         "neanderthal",
@@ -5814,9 +4914,7 @@
       "enclosure_length": "28064000",
       "itunes_duration": "1754",
       "speakers": [
-        "Greg Jenner",
-        "Joel Dommett",
-        "Dan Morelle Script"
+        "Greg Jenner"
       ],
       "topics": [
         "aztecs",
@@ -5838,9 +4936,7 @@
       "speakers": [
         "Greg Jenner",
         "Stu Goldsmith",
-        "Rebecca Simon",
-        "Dan Morelle Scripted",
-        "Greg Jenner Researched"
+        "Rebecca Simon"
       ],
       "topics": [
         "blackbeard",
@@ -5882,8 +4978,7 @@
       "speakers": [
         "Greg Jenner",
         "Peter Frankopan",
-        "Phil Wang",
-        "Genghis Khan"
+        "Phil Wang"
       ],
       "topics": [
         "genghis",
@@ -5945,8 +5040,7 @@
       "itunes_duration": "3078",
       "speakers": [
         "Marlene Daut",
-        "Athena Kugblenu",
-        "Toussaint Louverture"
+        "Athena Kugblenu"
       ],
       "topics": [
         "haitian",
@@ -6072,8 +5166,7 @@
       "speakers": [
         "Josephine Baker Greg Jenner",
         "Michell Chresfield",
-        "Desiree Burch",
-        "Josephine Baker"
+        "Desiree Burch"
       ],
       "topics": [
         "josephine",
@@ -6134,8 +5227,7 @@
       "speakers": [
         "Mary Shelley Greg Jenner",
         "Corin Throsby",
-        "Lauren Pattison",
-        "Mary Shelley"
+        "Lauren Pattison"
       ],
       "topics": [
         "mary",
@@ -6156,7 +5248,7 @@
       "speakers": [
         "Greg Jenner",
         "Tim Minchin",
-        "Becky Wragg"
+        "Dr Becky"
       ],
       "topics": [
         "neanderthal"
@@ -6173,11 +5265,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46048000",
       "itunes_duration": "2878",
-      "speakers": [
-        "Greg Jenner",
-        "Fern Riddell",
-        "Russell Kane"
-      ],
+      "speakers": [],
       "topics": [
         "christmas"
       ]
@@ -6194,9 +5282,7 @@
       "enclosure_length": "46336000",
       "itunes_duration": "2896",
       "speakers": [
-        "Greg Jenner",
-        "Hannah Nicholson",
-        "Catherine Bohart"
+        "General Elections"
       ],
       "topics": [
         "history",
@@ -6215,13 +5301,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42976000",
       "itunes_duration": "2686",
-      "speakers": [
-        "Greg Jenner",
-        "Maria Shehata",
-        "Jonathan Phillips",
-        "Dan Morelle Scripted",
-        "Emily Greenwell"
-      ],
+      "speakers": [],
       "topics": [
         "saladin"
       ]
@@ -6238,11 +5318,7 @@
       "enclosure_length": "45440000",
       "itunes_duration": "2840",
       "speakers": [
-        "Greg Jenner",
-        "Cariad Lloyd",
-        "Prof Suzannah Lipscomb",
-        "Dan Morelle Script",
-        "Eszter Szabo"
+        "European Witch Craze"
       ],
       "topics": [
         "witch",
@@ -6261,10 +5337,8 @@
       "enclosure_length": "43200000",
       "itunes_duration": "2700",
       "speakers": [
-        "Greg Jenner",
-        "Ed Gamble",
-        "Corin Throsby",
-        "Dan Morelle"
+        "Lord Byron Who",
+        "Lord Byron"
       ],
       "topics": [
         "lord",
@@ -6283,10 +5357,7 @@
       "enclosure_length": "44800000",
       "itunes_duration": "2800",
       "speakers": [
-        "Richard Herring",
-        "Susan Greaney",
-        "Dan Morelle Script",
-        "Greg Jenner"
+        "Stonehenge Greg Jenner"
       ],
       "topics": [
         "stonehenge"
@@ -6303,11 +5374,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43632000",
       "itunes_duration": "2727",
-      "speakers": [
-        "Greg Jenner",
-        "Joel Dommett",
-        "Dan Morelle Script"
-      ],
+      "speakers": [],
       "topics": [
         "aztec"
       ]
@@ -6323,12 +5390,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46064000",
       "itunes_duration": "2879",
-      "speakers": [
-        "Greg Jenner",
-        "Catherine Bohart",
-        "Helen Castor",
-        "Dan Morelle"
-      ],
+      "speakers": [],
       "topics": [
         "joan"
       ]
@@ -6345,10 +5407,7 @@
       "enclosure_length": "44256000",
       "itunes_duration": "2766",
       "speakers": [
-        "Greg Jenner",
-        "Dan Schreiber",
-        "Laura O’Brien",
-        "Dan Morelle Script"
+        "Young Napoleon Never"
       ],
       "topics": [
         "young",
@@ -6366,11 +5425,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46256000",
       "itunes_duration": "2891",
-      "speakers": [
-        "Greg Jenner",
-        "Shappi Khorsandi",
-        "Prof Peter Frankopan"
-      ],
+      "speakers": [],
       "topics": [
         "justinian",
         "theodora"
@@ -6388,11 +5443,7 @@
       "enclosure_length": "44064000",
       "itunes_duration": "2754",
       "speakers": [
-        "Mansa Musa",
-        "Greg Jenner",
-        "Athena Kugblenu",
-        "Augustus Caseley-Hayford Obe",
-        "Dan Morelle"
+        "Mansa Musa"
       ],
       "topics": [
         "mansa",
@@ -6412,11 +5463,7 @@
       "itunes_duration": "2834",
       "speakers": [
         "Lgbtq History",
-        "Molly Houses",
-        "Greg Jenner",
-        "Suzie Ruffell",
-        "Justin Bengry",
-        "Dan Morelle Scripted"
+        "Molly Houses"
       ],
       "topics": [
         "lgbtq",
@@ -6435,11 +5482,7 @@
       "enclosure_length": "42768000",
       "itunes_duration": "2673",
       "speakers": [
-        "Greg Jenner",
-        "Rebecca Simon",
-        "Stu Goldsmith",
-        "Dan Morelle Scripted",
-        "Greg Jenner Researched"
+        "Greg Jenner"
       ],
       "topics": [
         "blackbeard"
@@ -6457,13 +5500,7 @@
       "enclosure_length": "44480000",
       "itunes_duration": "2780",
       "speakers": [
-        "Greg Jenner",
-        "Tom Parry",
-        "Jean Williams",
-        "Dan Morelle Scripted",
-        "Greg Jenner Researched",
-        "Emma Nagouse",
-        "Eszter Szabo"
+        "Football Where"
       ],
       "topics": [
         "history",
@@ -6482,11 +5519,7 @@
       "enclosure_length": "44384000",
       "itunes_duration": "2774",
       "speakers": [
-        "Harriet Tubman",
-        "Greg Jenner",
-        "Desiree Burch",
-        "Michell Chresfield",
-        "Dan Morelle"
+        "Harriet Tubman"
       ],
       "topics": [
         "harriet",
@@ -6506,10 +5539,7 @@
       "itunes_duration": "2795",
       "speakers": [
         "Greg Jenner",
-        "Joel Dommett",
-        "Michael Scott",
-        "Greg Jenner Producer",
-        "Dan Morelle"
+        "Joel Dommett"
       ],
       "topics": [
         "spartans"
@@ -6527,11 +5557,7 @@
       "enclosure_length": "43408000",
       "itunes_duration": "2713",
       "speakers": [
-        "Greg Jenner",
-        "Sara Pascoe",
-        "Emma Southon",
-        "Greg Jenner Producer",
-        "Dan Morelle"
+        "Greg Jenner"
       ],
       "topics": [
         "boudica"
@@ -6563,263 +5589,264 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Lena Horne: racism and resilience in the Golden Age of Hollywood — speakers: Lena Horne, Greg Jenner, Hannah Thuraisingam Robbins, Desiree Burch, Martin Luther King Jr, Paul Robeson, Josephine Baker, Sarah Bernhardt
-- 2026-02-13 — Philippe, Duc d’Orléans: in the shadow of the Sun King — speakers: Greg Jenner, Jonathan Spangler, Tom Allen, Louis Xiv, Catherine de Medici, Marie Antoinette, Benedetta Carlini, Emma Mitchell
-- 2026-02-06 — Renaissance Medicine: healthcare and disease in early modern England — speakers: Greg Jenner, Alanna Skuse, Ria Lina, Stuart England, Henry Viii, William Harvey, Christopher Wren, Zheng Yi Sao
-- 2026-01-30 — Emperor Nero: ancient Rome’s most infamous ruler — speakers: Greg Jenner, Mary Beard, Patton Oswalt, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett, Philip Sellars
-- 2026-01-23 — Marie Antoinette (Radio Edit) — speakers: Marie Antoinette, Greg Jenner, Katherine Astbury, Jen Brister, Louis Xvi, Charlotte Emily, Charlotte Emily Edgeshaw, Emmie Rose Price-Goodfellow
-- 2026-01-16 — Hannibal of Carthage (Radio Edit) — speakers: Greg Jenner, Josephine Quinn, Darren Harriott, Emma Bentley, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett
-- 2026-01-09 — Alexandria (Radio Edit) — speakers: Greg Jenner, Islam Issa, Athena Kugblenu, Emma Bentley, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett
-- 2026-01-02 — The Brontës — speakers: Greg Jenner, Dead Funny History, Jane Eyre, Agnes Grey, Jack Bernhardt, Mali Ann Rees, John-Luke Roberts Producer, Emma Weatherill
-- 2026-01-01 — Justinian and Theodora — speakers: Greg Jenner, Dead Funny History, Hagia Sophia, Jack Bernhardt, Mali Ann Rees, Richard David-Caine, Emma Weatherill, Peter Frankopan
-- 2025-12-31 — Emma of Normandy — speakers: Greg Jenner, Kris Jenner, Dead Funny History, Harold Harefoot, Athena Kugblenu, Emma Nagouse, Mali Ann Rees, John-Luke Roberts Producer
-- 2025-12-30 — King John and the Magna Carta — speakers: Dead Funny History, Greg Jenner, Magna Carta, John Lackland, Athena Kugblenu, Emma Nagouse, Mali Ann Rees, Richard David-Caine
-- 2025-12-29 — Witch Craze — speakers: Witch Craze Dead, Witch Craze, Greg Jenner, Dead Funny History, Malleus Maleficarum, Matthew Hopkins, Athena Kugblenu, Emma Nagouse
-- 2025-12-26 — Marie Curie — speakers: Marie Curie, Greg Jenner, Dead Funny History, Pierre Curie, Athena Kugblenu, Emma Nagouse, Mali Ann Rees, John-Luke Roberts Producer
-- 2025-12-25 — Kingdom of Benin — speakers: Greg Jenner, Dead Funny History, Queen Idia, Athena Kugblenu, Emma Nagouse, Mali Ann Rees, John-Luke Roberts Producer, Emma Weatherill
-- 2025-12-24 — Owain Glyndŵr — speakers: Greg Jenner, Dead Funny History, King Henry IV, Athena Kugblenu, Emma Nagouse, Mali Ann Rees, John-Luke Roberts Producer, Emma Weatherill
-- 2025-12-23 — Indus Civilization — speakers: Greg Jenner, Dead Funny History, Athena Kugblenu, Emma Nagouse, Mali Ann Rees, John-Luke Roberts Producer, Emma Weatherill, Jo Kyle Sound
-- 2025-12-22 — Zheng Yi Sao — speakers: Zheng Yi Sao, Dead Funny History, Greg Jenner, Shi Yang, Zheng Yi, Athena Kugblenu, Emma Nagouse, Mali Ann Rees
-- 2025-12-19 — Ramesses the Great — speakers: Greg Jenner, Dead Funny History, Apis Bull, Jack Bernhardt, Mali Ann Rees, Richard David-Caine, Emma Weatherill, Jo Kyle Studio
-- 2025-12-18 — Josephine Baker — speakers: Josephine Baker, Dead Funny History, Greg Jenner, Greg explores, Jr Greg, Jack Bernhardt, Mali Ann Rees, John-Luke Roberts Producer
-- 2025-12-17 — Aztecs — speakers: Greg Jenner, Tudor London, Dead Funny History, Jack Bernhardt, Mali Ann Rees, John-Luke Roberts Producer, Emma Weatherill Script, Caroline Dodds
-- 2025-12-16 — Hadrian's Wall — speakers: Greg Jenner, Hadrian’s Wall, Dead Funny History, Jack Bernhardt, Hutchinson Crouch, Mali Ann Rees, Richard David-Caine, Emmie Rose Price-Goodfellow Audio
-- 2025-12-15 — History of Football — speakers: Greg Jenner, Dead Funny History, Ebenezer Cobb Morley, Nettie Honeyball, Lily Parr, Kerr Ladies, Dead Funny, Greg Jenner Writers
+- 2026-02-27 — Geoffrey Chaucer: the medieval father of English literature — speakers: Geoffrey Chaucer, Greg Jenner, Marion Turner, Mike Wozniak
+- 2026-02-20 — Lena Horne: racism and resilience in the Golden Age of Hollywood — speakers: Lena Horne, Greg Jenner, Hannah Thuraisingam Robbins
+- 2026-02-13 — Philippe, Duc d’Orléans: in the shadow of the Sun King — speakers: Greg Jenner, Jonathan Spangler, Tom Allen
+- 2026-02-06 — Renaissance Medicine: healthcare and disease in early modern England — speakers: Greg Jenner, Alanna Skuse, Ria Lina
+- 2026-01-30 — Emperor Nero: ancient Rome’s most infamous ruler — speakers: Greg Jenner, Mary Beard, Patton Oswalt
+- 2026-01-23 — Marie Antoinette (Radio Edit) — speakers: Marie Antoinette, Greg Jenner, Katherine Astbury
+- 2026-01-16 — Hannibal of Carthage (Radio Edit) — speakers: Greg Jenner, Josephine Quinn
+- 2026-01-09 — Alexandria (Radio Edit) — speakers: Greg Jenner, Islam Issa, Athena Kugblenu
+- 2026-01-02 — The Brontës — speakers: Greg Jenner
+- 2026-01-01 — Justinian and Theodora — speakers: Greg Jenner
+- 2025-12-31 — Emma of Normandy — speakers: Greg Jenner
+- 2025-12-30 — King John and the Magna Carta
+- 2025-12-29 — Witch Craze — speakers: Witch Craze Dead, Witch Craze, Greg Jenner
+- 2025-12-26 — Marie Curie — speakers: Marie Curie, Greg Jenner
+- 2025-12-25 — Kingdom of Benin — speakers: Greg Jenner
+- 2025-12-24 — Owain Glyndŵr — speakers: Greg Jenner
+- 2025-12-23 — Indus Civilization — speakers: Greg Jenner
+- 2025-12-22 — Zheng Yi Sao — speakers: Zheng Yi Sao
+- 2025-12-19 — Ramesses the Great — speakers: Greg Jenner
+- 2025-12-18 — Josephine Baker — speakers: Josephine Baker
+- 2025-12-17 — Aztecs — speakers: Greg Jenner
+- 2025-12-16 — Hadrian's Wall — speakers: Greg Jenner
+- 2025-12-15 — History of Football — speakers: Greg Jenner
 - 2025-12-13 — Introducing... Dead Funny History — speakers: Dead Funny History, Greg Jenner
-- 2025-12-12 — Jane Austen (Radio Edit) — speakers: Jane Austen, Greg Jenner, Lucy Worsley, Sally Phillips, Elizabeth Bennet, Emma Woodhouse, Marianne Dashwood, Northanger Abbey
-- 2025-12-08 — India Between Empires (Radio Edit) — speakers: Greg Jenner, Jagjeet Lally, Nish Kumar, Clara Chamberlain Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett
-- 2025-12-05 — Renaissance Beauty (Radio Edit) — speakers: Greg Jenner, Jill Burke, Tatty Macleod, Emma Bentley, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett
-- 2025-11-28 — Viking Women (Radio Edit) — speakers: Greg Jenner, Eleanor Barraclough, Chloe Petts, Clara Chamberlain Written, Clara Chamberlain, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2025-11-21 — Kellogg Brothers (Radio Edit) — speakers: Greg Jenner, Vanessa Heggie, Ed Byrne, Will Kellogg, John’s Seventh Day, Charlotte Emily, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2025-11-14 — Alexandre Dumas (Radio Edit) — speakers: Alexandre Dumas, Greg Jenner, Olivette Otele, Emma Bentley, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett
-- 2025-11-07 — Empress Matilda (Radio Edit) — speakers: Greg Jenner, Gabrielle Storey, Cariad Lloyd, Clara Chamberlain Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Ben Hollands
-- 2025-10-31 — American War of Independence (Radio Edit) — speakers: Greg Jenner, Frank Cogliano, Patton Oswalt, Thomas Jefferson, Ben Franklin, George Washington, Charlotte Emily, Emmie Rose Price-Goodfellow
-- 2025-10-24 — Early Medieval Papacy (Radio Edit) — speakers: Greg Jenner, Prof Brett Whalen, Alison Spittle, Jessica Honey Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey
-- 2025-10-17 — The Columbian Exchange (Radio Edit) — speakers: Greg Jenner, Desiree Burch, Christopher Columbus, Roxy Moore Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey
-- 2025-10-10 — Jane Austen: the life of a Regency literary icon — speakers: Jane Austen, Greg Jenner, Lucy Worsley, Sally Phillips, Elizabeth Bennet, Emma Woodhouse, Marianne Dashwood, Northanger Abbey
-- 2025-10-03 — Marie Antoinette: last French queen before the Revolution — speakers: Marie Antoinette, Katherine Astbury, Jen Brister, Louis Xvi, Greg Jenner, Charlotte Emily, Charlotte Emily Edgeshaw, Emmie Rose Price-Goodfellow
-- 2025-09-26 — Hannibal of Carthage: fearsome enemy of ancient Rome — speakers: Greg Jenner, Josephine Quinn, Darren Harriott, Robert Bruce, Emma Bentley, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2025-09-19 — Alexandria: city of knowledge and culture — speakers: Greg Jenner, Islam Issa, Athena Kugblenu, Emma Bentley, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett
-- 2025-09-12 — India between empires: the long 18th century — speakers: Greg Jenner, Jagjeet Lally, Nish Kumar, Clara Chamberlain Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Gill Huggett
-- 2025-09-05 — Renaissance Beauty: hair, makeup and skincare in the 16th century — speakers: Greg Jenner, Jill Burke, Tatty Macleod, Madam CJ Walker, Leonardo Da Vinci, Emma Bentley, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2025-08-29 — Viking Women: wives, weavers and warriors — speakers: Greg Jenner, Eleanor Barraclough, Chloe Petts, Leif Erikson, Clara Chamberlain Written, Clara Chamberlain, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2025-08-22 — Kellogg Brothers: a family feud and the creation of a cereal empire — speakers: Greg Jenner, Vanessa Heggie, Ed Byrne, Will Kellogg, John’s Seventh Day, Vaness Heggie, Charlotte Emily, Emmie Rose Price-Goodfellow
-- 2025-08-15 — Alexandre Dumas: author of The Three Musketeers — speakers: Alexandre Dumas, Olivette Otele, Josephine Baker, Young Napoleon, Greg Jenner, Emma Bentley, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2025-08-08 — Empress Matilda: civil war in medieval England — speakers: Greg Jenner, Gabrielle Storey, Cariad Lloyd, Mary Wollstonecraft, Clara Chamberlain Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2025-07-11 — Marco Polo (Radio Edit) — speakers: Marco Polo, Greg Jenner, Sharon Kinoshita, Ria Lina, Qubilai Khan, Hannah Cusworth Written, Hannah Cusworth, Emmie Rose Price-Goodfellow
-- 2025-07-04 — History of Coffee (Radio Edit) — speakers: Greg Jenner, Jonathan Morris, Sophie Duker, Matt Ryan Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Ben Hollands
-- 2025-07-04 — American War of Independence: Fourth of July Special — speakers: Greg Jenner, Frank Cogliano, Patton Oswalt, Thomas Jefferson, Ben Franklin, George Washington, Frederick Douglass, Sojourner Truth
-- 2025-06-27 — Arctic Exploration (Radio Edit) — speakers: Greg Jenner, Vanessa Heggie, Stu Goldsmith, John Franklin, Roald Amundsen, Matt Ryan Written, Matt Ryan, Emmie Rose Price-Goodfellow
-- 2025-06-20 — Cuneiform (Radio Edit) — speakers: Greg Jenner, Moudhy Al-Rashid, Phil Wang, Hannah Cusworth, Matt Ryan Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2025-06-13 — Hernán Cortés and Malintzin (Radio Edit) — speakers: Greg Jenner, Amy Fuller, Jen Brister, Hernán Cortés, Abbashar Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2025-06-06 — Legends of King Arthur (Radio Edit) — speakers: Greg Jenner, Mary Bateman, Mike Wozniak, King Arthur, Hannah Cusworth, Jon Norman-Mason, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2025-05-30 — Sojourner Truth (Radio Edit) — speakers: Greg Jenner, Michell Chresfield, Desiree Burch, Sojourner Truth, Frederick Douglass, Abraham Lincoln, Madeleine Bracey Written, Madeleine Bracey
-- 2025-05-23 — Catherine de’ Medici (Radio Edit) — speakers: Catherine de, Greg Jenner, Estelle Paranque, Shaparak Khorsandi, Catherine de Medici, Hannah Cusworth Written, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2025-05-16 — The Arts and Crafts Movement (Radio Edit) — speakers: Greg Jenner, Isabella Rosner, Cariad Lloyd, William Morris, May Morris, Gertrude Jekyll, Philip Webb, Jon Norman-Mason
-- 2025-05-09 — Causes of the British Civil Wars (Radio Edit) — speakers: Greg Jenner, Jonathan Healey, Toussaint Douglass, Oliver Cromwell, Matt Ryan Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2025-05-02 — Aristotle (Radio Edit) — speakers: Greg Jenner, Edith Hall, Dan Schreiber, Madeleine Bracey Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Ben Hollands
-- 2025-04-25 — The Indus Civilisation (Radio Edit) — speakers: Greg Jenner, Danika Parikh, Ahir Shah, Emmie Rose Price-Goodfellow, Aimee Hinds Scott, Emma Nagouse, Steve Hankey Executive, Philip Sellars
-- 2025-04-18 — Georgian Courtship (Radio Edit) — speakers: Greg Jenner, Sally Holloway, Cariad Lloyd, Jane Austen, Emmie Rose Price-Goodfellow, Emma Nagouse, Greg Jenner Project Management, Steve Hankey Executive
-- 2025-04-11 — Marco Polo: history’s most famous travel writer? — speakers: Marco Polo, Greg Jenner, Sharon Kinoshita, Ria Lina, Qubilai Khan, Zheng Yi Sao, Ibn Battuta, Hannah Cusworth Written
-- 2025-04-04 — History of Coffee: from devil’s brew to our favourite beverage — speakers: Greg Jenner, Jonathan Morris, Sophie Duker, Matt Ryan Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Ben Hollands
-- 2025-03-28 — Arctic Exploration: the fatal quest for the Northwest Passage — speakers: Greg Jenner, Vanessa Heggie, Stu Goldsmith, John Franklin, Roald Amundsen, Matt Ryan Written, Matt Ryan, Emmie Rose Price-Goodfellow
-- 2025-03-21 — Cuneiform: the world’s first writing system — speakers: Greg Jenner, Moudhy Al-Rashid, Phil Wang, Kung Fu, Hannah Cusworth, Matt Ryan Written, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2025-03-14 — Hernán Cortés and Malintzin: the Spanish conquest of Mexico — speakers: Greg Jenner, Amy Fuller, Jen Brister, Hernán Cortés, Abbashar Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2025-03-07 — Legends of King Arthur: from medieval literature to modern myth — speakers: Greg Jenner, Mary Bateman, Mike Wozniak, King Arthur, Charles Dickens, Hannah Cusworth, Jon Norman-Mason, Emmie Rose Price-Goodfellow
-- 2025-02-28 — Sojourner Truth: American abolitionist, suffragist, preacher — speakers: Greg Jenner, Michell Chresfield, Desiree Burch, Sojourner Truth, Frederick Douglass, Abraham Lincoln, Harriet Tubman, Josephine Baker
-- 2025-02-21 — Catherine de’ Medici: the real Serpent Queen of France — speakers: Catherine de Medici, Greg Jenner, Estelle Paranque, Shaparak Khorsandi, Hannah Cusworth Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2025-02-14 — The Arts and Crafts Movement: William Morris and his circle — speakers: William Morris, Greg Jenner, Isabella Rosner, Cariad Lloyd, May Morris, Gertrude Jekyll, Philip Webb, Mary Wollstonecraft
-- 2025-02-07 — Causes of the British Civil Wars: Royalists versus Parliamentarians — speakers: Greg Jenner, Jonathan Healey, Toussaint Douglass, Oliver Cromwell, Frederick Douglass, Nell Gwyn, Matt Ryan Written, Emmie Rose Price-Goodfellow
-- 2025-01-31 — Aristotle: Ancient Greece’s greatest philosopher? — speakers: Ancient Greece, Greg Jenner, Edith Hall, Dan Schreiber, Madeleine Bracey Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
+- 2025-12-12 — Jane Austen (Radio Edit) — speakers: Jane Austen, Greg Jenner, Lucy Worsley, Sally Phillips
+- 2025-12-08 — India Between Empires (Radio Edit) — speakers: Greg Jenner, Jagjeet Lally, Nish Kumar
+- 2025-12-05 — Renaissance Beauty (Radio Edit) — speakers: Greg Jenner, Jill Burke, Tatty Mac
+- 2025-11-28 — Viking Women (Radio Edit) — speakers: Greg Jenner, Eleanor Barraclough
+- 2025-11-21 — Kellogg Brothers (Radio Edit) — speakers: Greg Jenner, Vanessa Heggie, Ed Byrne
+- 2025-11-14 — Alexandre Dumas (Radio Edit) — speakers: Alexandre Dumas, Greg Jenner, Olivette Otele
+- 2025-11-07 — Empress Matilda (Radio Edit) — speakers: Greg Jenner, Gabrielle Storey, Cariad Lloyd
+- 2025-10-31 — American War of Independence (Radio Edit) — speakers: Greg Jenner, Frank Cogliano
+- 2025-10-24 — Early Medieval Papacy (Radio Edit) — speakers: Greg Jenner, Prof Brett Whalen, Alison Spittle
+- 2025-10-17 — The Columbian Exchange (Radio Edit) — speakers: Greg Jenner, Desiree Burch
+- 2025-10-10 — Jane Austen: the life of a Regency literary icon — speakers: Jane Austen, Greg Jenner, Lucy Worsley, Sally Phillips
+- 2025-10-03 — Marie Antoinette: last French queen before the Revolution — speakers: Marie Antoinette, Katherine Astbury
+- 2025-09-26 — Hannibal of Carthage: fearsome enemy of ancient Rome — speakers: Greg Jenner, Josephine Quinn
+- 2025-09-19 — Alexandria: city of knowledge and culture — speakers: Greg Jenner, Islam Issa, Athena Kugblenu
+- 2025-09-12 — India between empires: the long 18th century — speakers: Greg Jenner, Jagjeet Lally, Nish Kumar
+- 2025-09-05 — Renaissance Beauty: hair, makeup and skincare in the 16th century — speakers: Greg Jenner, Jill Burke
+- 2025-08-29 — Viking Women: wives, weavers and warriors — speakers: Greg Jenner, Eleanor Barraclough
+- 2025-08-22 — Kellogg Brothers: a family feud and the creation of a cereal empire — speakers: Greg Jenner, Vanessa Heggie
+- 2025-08-15 — Alexandre Dumas: author of The Three Musketeers — speakers: Alexandre Dumas, Olivette Otele
+- 2025-08-08 — Empress Matilda: civil war in medieval England — speakers: Greg Jenner, Gabrielle Storey, Cariad Lloyd
+- 2025-07-11 — Marco Polo (Radio Edit) — speakers: Marco Polo, Greg Jenner, Sharon Kinoshita, Ria Lina
+- 2025-07-04 — History of Coffee (Radio Edit) — speakers: Greg Jenner, Jonathan Morris, Sophie Duker
+- 2025-07-04 — American War of Independence: Fourth of July Special — speakers: Greg Jenner, Frank Cogliano
+- 2025-06-27 — Arctic Exploration (Radio Edit) — speakers: Greg Jenner, Vanessa Heggie, Stu Goldsmith
+- 2025-06-20 — Cuneiform (Radio Edit) — speakers: Greg Jenner, Moudhy Al-Rashid, Phil Wang
+- 2025-06-13 — Hernán Cortés and Malintzin (Radio Edit) — speakers: Greg Jenner, Amy Fuller, Jen Brister
+- 2025-06-06 — Legends of King Arthur (Radio Edit) — speakers: Greg Jenner, Mary Bateman, Mike Wozniak
+- 2025-05-30 — Sojourner Truth (Radio Edit) — speakers: Greg Jenner, Michell Chresfield, Desiree Burch
+- 2025-05-23 — Catherine de’ Medici (Radio Edit) — speakers: Catherine de, Greg Jenner, Estelle Paranque, Shaparak Khorsandi
+- 2025-05-16 — The Arts and Crafts Movement (Radio Edit) — speakers: Greg Jenner, Isabella Rosner, Cariad Lloyd
+- 2025-05-09 — Causes of the British Civil Wars (Radio Edit) — speakers: Greg Jenner, Jonathan Healey, Toussaint Douglass
+- 2025-05-02 — Aristotle (Radio Edit) — speakers: Greg Jenner, Edith Hall, Dan Schreiber
+- 2025-04-25 — The Indus Civilisation (Radio Edit) — speakers: Greg Jenner, Danika Parikh, Ahir Shah
+- 2025-04-18 — Georgian Courtship (Radio Edit) — speakers: Greg Jenner, Sally Holloway, Cariad Lloyd
+- 2025-04-11 — Marco Polo: history’s most famous travel writer? — speakers: Marco Polo, Greg Jenner, Sharon Kinoshita, Ria Lina
+- 2025-04-04 — History of Coffee: from devil’s brew to our favourite beverage — speakers: Greg Jenner, Jonathan Morris, Sophie Duker
+- 2025-03-28 — Arctic Exploration: the fatal quest for the Northwest Passage — speakers: Greg Jenner, Vanessa Heggie, Stu Goldsmith
+- 2025-03-21 — Cuneiform: the world’s first writing system — speakers: Greg Jenner, Moudhy Al-Rashid, Phil Wang
+- 2025-03-14 — Hernán Cortés and Malintzin: the Spanish conquest of Mexico — speakers: Greg Jenner, Amy Fuller, Jen Brister
+- 2025-03-07 — Legends of King Arthur: from medieval literature to modern myth — speakers: Greg Jenner, Mary Bateman, Mike Wozniak
+- 2025-02-28 — Sojourner Truth: American abolitionist, suffragist, preacher — speakers: Greg Jenner, Michell Chresfield, Desiree Burch
+- 2025-02-21 — Catherine de’ Medici: the real Serpent Queen of France — speakers: Catherine de Medici, Greg Jenner, Estelle Paranque, Shaparak Khorsandi
+- 2025-02-14 — The Arts and Crafts Movement: William Morris and his circle — speakers: William Morris, Greg Jenner, Isabella Rosner, Cariad Lloyd
+- 2025-02-07 — Causes of the British Civil Wars: Royalists versus Parliamentarians — speakers: Greg Jenner, Jonathan Healey, Toussaint Douglass
+- 2025-01-31 — Aristotle: Ancient Greece’s greatest philosopher? — speakers: Ancient Greece, Greg Jenner, Edith Hall, Dan Schreiber
 - 2024-12-23 — Happy Christmas from Greg and the team! — speakers: Greg Jenner
-- 2024-12-20 — History of Broadway (Radio Edit) — speakers: Greg Jenner, Hannah Thuraisingam Robbins, Desiree Burch, Les Misérables, Lloyd Webber, Hannah Campbell Hewson, Annabel Storr, Anna McCully
-- 2024-12-13 — Leif Erikson (Radio Edit) — speakers: Leif Erikson, Greg Jenner, Eleanor Barraclough, Kiell Smith-Bynoe, Christopher Columbus, Jon Norman Mason Written, Jon Norman Mason, Emmie Rose Price-Goodfellow
-- 2024-12-06 — Palaeolithic Cave Art (Radio Edit) — speakers: Greg Jenner, Isobel Wisher, Seán Burke, Jon Norman Mason Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Ben Hollands
-- 2024-11-29 — Benedetta Carlini (Radio Edit) — speakers: Greg Jenner, Michelle Sauer, Sophie Duker, Benedetta Carlini, Hannah Campbell Hewson Written, Hannah Campbell Hewson, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-11-22 — Alexis Soyer (Radio Edit) — speakers: Alexis Soyer, Greg Jenner, Annie Gray, Ed Gamble, Hannah Campbell Hewson Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-11-15 — Edo Japan (Radio Edit) — speakers: Greg Jenner, Satona Suzuki, Ahir Shah, Tokugawa Ieyasu, Annabel Storr Written, Annabel Storr, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-11-08 — Robert Bruce (Radio Edit) — speakers: Robert Bruce, Greg Jenner, Marjolein Robertson, Anna McCully, Stewart Written, Anna McCully Stewart, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-11-01 — Minoan Civilisation (Radio Edit) — speakers: Greg Jenner, Stephen Kershaw, Josie Long, Bronze Age, Anna McCully, Stewart Written, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-10-25 — LGBTQ Life in Weimar Germany (Radio Edit) — speakers: Greg Jenner, Bodie Ashton, Jordan Gray, Weimar Germany, Jon Norman Mason Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-10-18 — Mary Anning (Radio Edit) — speakers: Mary Anning, Greg Jenner, Michael Taylor, Sara Pascoe, Annabel Storr Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-10-11 — Printing in England (Radio Edit) — speakers: Greg Jenner, Lydia Zeldenrust, Robin Ince, William Caxton, Jon Norman Mason Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-09-27 — Frederick Douglass (Radio Edit) — speakers: Frederick Douglass, Greg Jenner, Prof Emily Bernard, Toussaint Douglass, Jess White, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey
-- 2024-09-20 — Cleopatra (Radio Edit) — speakers: Greg Jenner, Shushma Malik, Thanyia Moore, Mark Antony, Aimee Hinds Scott Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey
-- 2024-09-13 — History of Broadway — speakers: Hannah Thuraisingam Robbins, Desiree Burch, Les Misérables, Lloyd Webber, Greg Jenner, Hannah Campbell Hewson, Annabel Storr, Anna McCully
-- 2024-09-06 — Leif Erikson — speakers: Leif Erikson Greg Jenner, Eleanor Barraclough, Kiell Smith-Bynoe, Leif Erikson, Christopher Columbus, Greg Jenner, Jon Norman Mason Written, Jon Norman Mason
-- 2024-08-30 — Palaeolithic Cave Art — speakers: Isobel Wisher, Seán Burke, Greg Jenner, Jon Norman Mason Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Ben Hollands
-- 2024-08-23 — Benedetta Carlini — speakers: Carlini Greg Jenner, Michelle Sauer, Sophie Duker, Benedetta Carlini, Greg Jenner, Hannah Campbell Hewson Written, Hannah Campbell Hewson, Emmie Rose Price-Goodfellow
-- 2024-08-16 — Alexis Soyer — speakers: Alexis Soyer, Greg Jenner, Annie Gray, Ed Gamble, Hannah Campbell Hewson Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-08-09 — Edo Japan — speakers: Greg Jenner, Satona Suzuki, Ahir Shah, Tokugawa Ieyasu, Annabel Storr Written, Annabel Storr, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-08-02 — Robert Bruce — speakers: Robert Bruce, Greg Jenner, Marjolein Robertson, Anna McCully, Stewart Written, Anna McCully Stewart, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-07-26 — Minoan Civilisation — speakers: Greg Jenner, Stephen Kershaw, Josie Long, Bronze Age, Anna McCully, Stewart Written, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-07-19 — LGBTQ Life in Weimar Germany — speakers: Greg Jenner, Bodie Ashton, Jordan Gray, Weimar Germany, Jon Norman Mason Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-07-12 — Mary Anning — speakers: Mary Anning, Greg Jenner, Michael Taylor, Sara Pascoe, Annabel Storr Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-07-05 — Printing in England — speakers: Greg Jenner, Lydia Zeldenrust, Robin Ince, William Caxton, Jon Norman Mason Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-06-21 — Emma of Normandy (Radio Edit) — speakers: Greg Jenner, Elizabeth Tyler, Jen Brister, Queen Emma, Danish Cnut, Josh Rice Written, Josh Rice, Emmie Rose Price-Goodfellow
-- 2024-06-14 — The Inca Empire (Radio Edit) — speakers: Greg Jenner, Bill Sillar, Sue Perkins, Machu Picchu, Andrew Himmelberg Written, Andrew Himmelberg, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-06-07 — The Queen of Sheba (Radio Edit) — speakers: Greg Jenner, Jillian Stinchcomb, Jon Mason, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-05-31 — The History of Bollywood (Radio Edit) — speakers: Greg Jenner, Sunny Singh, Poppy Jay, Madeleine Bracey Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Caitlin Hobbs
-- 2024-05-24 — Simón Bolívar (Radio Edit) — speakers: Simón Bolívar, Greg Jenner, Francisco Eissa-Barroso, Katie Green, Roxy Moore Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-05-17 — Madam C.J. Walker (Radio Edit) — speakers: Greg Jenner, Noliwe Rooks, Athena Kugblenu, Andrew Himmelberg Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-05-10 — Pythagoras (Radio Edit) — speakers: Greg Jenner, Edith Hall, Desiree Burch, mathematician Pythagoras, Josh Rice Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-05-03 — The Bloomsbury Group (Radio Edit) — speakers: Greg Jenner, Jane Goldman, Suzi Ruffell, Virginia Woolf, John Maynard Keynes, Madeleine Bracey, Andrew Himmelberg, Josh Rice
-- 2024-04-26 — The History of Kung Fu (Radio Edit) — speakers: Greg Jenner, Leon Rocha, Phil Wang, kung fu, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-04-19 — Catherine the Great (Radio Edit) — speakers: Greg Jenner, Julia Leikin, David Mitchell, Catherine II, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-03-29 — Mozart — speakers: Concert Orchestra, Ben Dawson, Greg Jenner, Hannah Templeton, David O’Doherty, Wolfgang Amadeus Mozart, Madeleine Bracey Written, Madeleine Bracey
-- 2024-03-22 — Old Norse Literature (Radio Edit) — speakers: Greg Jenner, Janina Ramirez, Kae Kurd, Emma Nagouse
-- 2024-03-15 — Ramesses the Great (Radio Edit) — speakers: Greg Jenner, Sophie Duker, Emma Nagouse
-- 2024-03-08 — Emma of Normandy — speakers: Greg Jenner, Elizabeth Tyler, Jen Brister, Queen Emma, Danish Cnut, Josh Rice Written, Josh Rice, Emmie Rose Price-Goodfellow
-- 2024-03-01 — The Inca Empire — speakers: Greg Jenner, Bill Sillar, Sue Perkins, Machu Picchu, Andrew Himmelberg Written, Andrew Himmelberg, Emmie Rose Price-Goodfellow, Emma Nagouse
-- 2024-02-23 — The Queen of Sheba — speakers: Greg Jenner, Jillian Stinchcomb, Jon Mason, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-02-16 — The History of Bollywood — speakers: Greg Jenner, Sunny Singh, Poppy Jay, Madeleine Bracey Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Caitlin Hobbs
-- 2024-02-09 — Simón Bolívar — speakers: Simón Bolívar, Greg Jenner, Francisco Eissa-Barroso, Katie Green, Roxy Moore Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator
-- 2024-02-02 — Madam C.J. Walker — speakers: Greg Jenner, Noliwe Rooks, Athena Kugblenu, Andrew Himmelberg Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-01-26 — Pythagoras — speakers: Greg Jenner, Edith Hall, Desiree Burch, mathematician Pythagoras, Josh Rice Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-01-19 — The Bloomsbury Group — speakers: Greg Jenner, Jane Goldman, Suzi Ruffell, Virginia Woolf, John Maynard Keynes, Madeleine Bracey, Andrew Himmelberg, Josh Rice
-- 2024-01-12 — The History of Kung Fu — speakers: Greg Jenner, Leon Rocha, Phil Wang, kung fu, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2024-01-05 — Catherine the Great — speakers: Greg Jenner, Julia Leikin, David Mitchell, Catherine II, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Senior
-- 2023-12-15 — Christmas with Charles Dickens (Radio Edit) — speakers: Charles Dickens, Greg Jenner, Emily Bell, Mike Wozniak, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey
-- 2023-11-10 — Shakespeare (Radio Edit) — speakers: Greg Jenner, Farah Karim-Cooper, Richard Herring, William Shakespeare, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Caitlin Hobbs
-- 2023-11-03 — Shakespeare — speakers: Greg Jenner, Farah Karim-Cooper, Richard Herring, William Shakespeare, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Caitlin Hobbs
-- 2023-10-27 — Medieval Ghost Stories — speakers: Greg Jenner, Michael Carter, Mathew Baynton, Emmie Rose Price-Goodfellow, Emma Nagouse, Steve Hankey Production Coordinator, Caitlin Hobbs, Chris Ledgard
-- 2023-09-30 — Victorian Bodybuilding (Radio Edit) — speakers: Greg Jenner, Vanessa Heggie, Darren Harriott, Caitlín Rankin-McCabe Written, Emma Nagouse, Caitlín Rankin-McCabe, Emmie Rose Price-Goodfellow, Steve Hankey You’re Dead
-- 2023-09-23 — Ivan The Terrible (Radio Edit) — speakers: Greg Jenner, Joining Greg, Peter Frankopan, Olga Koch
+- 2024-12-20 — History of Broadway (Radio Edit) — speakers: Greg Jenner, Hannah Thuraisingam Robbins
+- 2024-12-13 — Leif Erikson (Radio Edit) — speakers: Leif Erikson, Greg Jenner, Eleanor Barraclough, Kiell Smith-Bynoe
+- 2024-12-06 — Palaeolithic Cave Art (Radio Edit) — speakers: Greg Jenner, Isobel Wisher, Seán Burke
+- 2024-11-29 — Benedetta Carlini (Radio Edit) — speakers: Greg Jenner, Michelle Sauer, Sophie Duker
+- 2024-11-22 — Alexis Soyer (Radio Edit) — speakers: Alexis Soyer, Greg Jenner, Annie Gray, Ed Gamble
+- 2024-11-15 — Edo Japan (Radio Edit) — speakers: Greg Jenner, Satona Suzuki
+- 2024-11-08 — Robert Bruce (Radio Edit) — speakers: Robert Bruce, Greg Jenner, Marjolein Robertson
+- 2024-11-01 — Minoan Civilisation (Radio Edit) — speakers: Greg Jenner, Stephen Kershaw, Josie Long
+- 2024-10-25 — LGBTQ Life in Weimar Germany (Radio Edit) — speakers: Greg Jenner, Bodie Ashton, Jordan Gray
+- 2024-10-18 — Mary Anning (Radio Edit) — speakers: Mary Anning, Greg Jenner, Michael Taylor
+- 2024-10-11 — Printing in England (Radio Edit) — speakers: Greg Jenner, Lydia Zeldenrust
+- 2024-09-27 — Frederick Douglass (Radio Edit) — speakers: Frederick Douglass, Greg Jenner, Prof Emily Bernard, Toussaint Douglass
+- 2024-09-20 — Cleopatra (Radio Edit) — speakers: Greg Jenner, Shushma Malik, Thanyia Moore
+- 2024-09-13 — History of Broadway — speakers: Hannah Thuraisingam Robbins
+- 2024-09-06 — Leif Erikson — speakers: Leif Erikson Greg Jenner, Eleanor Barraclough, Kiell Smith-Bynoe
+- 2024-08-30 — Palaeolithic Cave Art — speakers: Isobel Wisher, Seán Burke
+- 2024-08-23 — Benedetta Carlini — speakers: Carlini Greg Jenner, Michelle Sauer, Sophie Duker
+- 2024-08-16 — Alexis Soyer — speakers: Alexis Soyer, Greg Jenner, Annie Gray, Ed Ga
+- 2024-08-09 — Edo Japan — speakers: Greg Jenner, Satona Suzuki
+- 2024-08-02 — Robert Bruce — speakers: Robert Bruce, Greg Jenner
+- 2024-07-26 — Minoan Civilisation — speakers: Greg Jenner, Stephen Kershaw
+- 2024-07-19 — LGBTQ Life in Weimar Germany — speakers: Greg Jenner, Bodie Ashton
+- 2024-07-12 — Mary Anning — speakers: Mary Anning, Greg Jenner, Michael Taylor
+- 2024-07-05 — Printing in England — speakers: Greg Jenner, Lydia Zeldenrust
+- 2024-06-21 — Emma of Normandy (Radio Edit) — speakers: Greg Jenner, Elizabeth Tyler, Jen Brister
+- 2024-06-14 — The Inca Empire (Radio Edit) — speakers: Greg Jenner, Bill Sillar, Sue Perkins
+- 2024-06-07 — The Queen of Sheba (Radio Edit) — speakers: Greg Jenner, Jillian Stinchcomb
+- 2024-05-31 — The History of Bollywood (Radio Edit) — speakers: Greg Jenner, Sunny Singh, Poppy Jay
+- 2024-05-24 — Simón Bolívar (Radio Edit) — speakers: Simón Bolívar, Greg Jenner, Francisco Eissa-Barroso, Katie Green
+- 2024-05-17 — Madam C.J. Walker (Radio Edit) — speakers: Greg Jenner, Noliwe Rooks, Athena Kugblenu
+- 2024-05-10 — Pythagoras (Radio Edit) — speakers: Greg Jenner, Edith Hall, Desiree Burch
+- 2024-05-03 — The Bloomsbury Group (Radio Edit) — speakers: Greg Jenner, Jane Goldman, Suzi Ruffell
+- 2024-04-26 — The History of Kung Fu (Radio Edit) — speakers: Greg Jenner, Leon Rocha, Phil Wang
+- 2024-04-19 — Catherine the Great (Radio Edit) — speakers: Greg Jenner, Julia Leikin, David Mitchell
+- 2024-03-29 — Mozart — speakers: Concert Orchestra, Ben Dawson
+- 2024-03-22 — Old Norse Literature (Radio Edit) — speakers: Greg Jenner, Janina Ramirez, Kae Kurd
+- 2024-03-15 — Ramesses the Great (Radio Edit) — speakers: Greg Jenner
+- 2024-03-08 — Emma of Normandy — speakers: Greg Jenner, Elizabeth Tyler, Jen Brister
+- 2024-03-01 — The Inca Empire — speakers: Greg Jenner, Bill Sillar, Sue Perkins
+- 2024-02-23 — The Queen of Sheba — speakers: Greg Jenner, Jillian Stinchcomb
+- 2024-02-16 — The History of Bollywood — speakers: Greg Jenner, Sunny Singh, Poppy Jay
+- 2024-02-09 — Simón Bolívar — speakers: Simón Bolívar, Greg Jenner, Francisco Eissa-Barroso, Katie Gr
+- 2024-02-02 — Madam C.J. Walker — speakers: Greg Jenner, Noliwe Rooks, Athena Kugblenu
+- 2024-01-26 — Pythagoras — speakers: Greg Jenner, Edith Hall, Desiree Burch
+- 2024-01-19 — The Bloomsbury Group — speakers: Greg Jenner, Jane Goldman, Suzi Ruffell
+- 2024-01-12 — The History of Kung Fu — speakers: Greg Jenner, Leon Rocha, Phil Wang
+- 2024-01-05 — Catherine the Great — speakers: Greg Jenner, Julia Leikin, David Mi
+- 2023-12-15 — Christmas with Charles Dickens (Radio Edit) — speakers: Charles Dickens, Greg Jenner, Emily Bell, Mike Wozniak
+- 2023-11-10 — Shakespeare (Radio Edit) — speakers: Greg Jenner
+- 2023-11-03 — Shakespeare — speakers: Greg Jenner
+- 2023-10-27 — Medieval Ghost Stories — speakers: Greg Jenner, Michael Carter, Mathew Baynton
+- 2023-09-30 — Victorian Bodybuilding (Radio Edit) — speakers: Greg Jenner, Vanessa Heggie, Darren Harriott
+- 2023-09-23 — Ivan The Terrible (Radio Edit) — speakers: Greg Jenner
 - 2023-09-16 — Agrippina the Younger (Radio Edit) — speakers: Greg Jenner, Emma Southon, Cariad Lloyd
-- 2023-09-09 — P.T. Barnum (Radio Edit) — speakers: Greg Jenner, Prof Benjamin Reiss, Desiree Burch, Tom Thumb, Charlotte Potter
-- 2023-09-02 — Hatshepsut (Radio Edit) — speakers: Greg Jenner, Kemah Bob, Genevieve Johnson Written, Emma Nagouse, Abi Paterson You’re
-- 2023-08-26 — Leonardo da Vinci - Live (Radio Edit) — speakers: Greg Jenner, Prof Catherine Fletcher, Leonardo da Vinci, Anna Nadine-Pike, Emma Nagouse, Emmie Rose Price-Goodfellow, Charles Mutter
+- 2023-09-09 — P.T. Barnum (Radio Edit) — speakers: Greg Jenner, Prof Benjamin Reiss, Desiree Burch
+- 2023-09-02 — Hatshepsut (Radio Edit) — speakers: Greg Jenner, Kemah Bob
+- 2023-08-26 — Leonardo da Vinci - Live (Radio Edit) — speakers: Greg Jenner, Prof Catherine Fletcher
 - 2023-08-19 — Atlantis (Radio Edit) — speakers: Greg Jenner, Stephen Kershaw, Sophie Duker
-- 2023-08-12 — Medieval Science (Radio Edit) — speakers: Medieval Science, Greg Jenner, Seb Falk, Josie Long, Rosanna Evans Script, Emma Nagouse, Rosanna Evans, Greg Jenner Project
-- 2023-08-05 — Nell Gwyn (Radio Edit) — speakers: Nell Gwyn, Greg Jenner, Diana Solomon, Jess Knappett, Emma Nagouse, Greg Jenner Research, William Clayton
-- 2023-07-29 — Ancient Athenian Democracy (Radio Edit) — speakers: Greg Jenner, Prof Michael Scott, Alice Fraser, Rosie Rich Written, Emma Nagouse, Abi Paterson
-- 2023-07-22 — Zheng Yi Sao (Radio Edit) — speakers: Zheng Yi Sao, Greg Jenner, Ria Lina, Will Clayton Script, Emma Nagouse, Will Clayton
-- 2023-07-15 — The History of Timekeeping (Radio Edit) — speakers: Greg Jenner, David Rooney, Desiree Burch, Rosie Rich Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey You’re Dead
-- 2023-07-08 — Agatha Christie (Radio Edit) — speakers: Sue Perkins, Lucy Worsley, Greg Jenner, Agatha Christie, Jessica Honey Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Jessica Honey
-- 2023-06-02 — Medieval Irish Folklore (Live) — speakers: Greg Jenner, Gillian Kenny, Seán Burke, Emmie Rose Price-Goodfellow Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey You’re Dead
-- 2023-05-19 — Agatha Christie — speakers: Agatha Christie Sue Perkins, Lucy Worsley, Greg Jenner, Agatha Christie, Jessica Honey Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Jessica Honey
-- 2023-05-12 — Leonardo da Vinci (Live) — speakers: Leonardo da Vinci, Greg Jenner, Catherine Fletcher, Anna Nadine-Pike, Emma Nagouse, Emmie Rose Price-Goodfellow, Charles Mutter
-- 2023-05-05 — Victorian Bodybuilding — speakers: Victorian Bodybuilding Greg Jenner, Vanessa Heggie, Darren Harriot, Caitlín Rankin-McCabe Written, Emma Nagouse, Caitlín Rankin-McCabe, Greg Jenner, Emmie Rose Price-Goodfellow
-- 2023-04-28 — The Rise of the Tudors — speakers: Greg Jenner, Adam Chapman, Kiri Pritchard-McLean, Margaret Beaufort, Edward Iii, Katherine Swynford, Caitlín Rankin-McCabe Written, Emma Nagouse
-- 2023-04-21 — Cleopatra — speakers: Cleopatra Greg Jenner, Shushma Malik, Thanyia Moore, Mark Antony, Emma Nagouse, Emmie Rose Price-Goodfellow, Greg Jenner, Steve Hankey
-- 2023-04-14 — Al Andalus — speakers: Al Andalus Greg Jenner, Prof Amira Bennison, Fatiha El-Ghorri, Al Andalus, Jessica Honey Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Greg Jenner
-- 2023-04-07 — The Jacobites — speakers: Greg Jenner, Jeremy Filet, Eleanor Morton, James VI, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey You’re Dead
+- 2023-08-12 — Medieval Science (Radio Edit) — speakers: Medieval Science, Greg Jenner
+- 2023-08-05 — Nell Gwyn (Radio Edit) — speakers: Nell Gwyn, Greg Jenner
+- 2023-07-29 — Ancient Athenian Democracy (Radio Edit) — speakers: Greg Jenner, Prof Michael Scott, Alice Fras
+- 2023-07-22 — Zheng Yi Sao (Radio Edit) — speakers: Zheng Yi Sao, Greg Jenner, Ria Lina
+- 2023-07-15 — The History of Timekeeping (Radio Edit) — speakers: Greg Jenner, David Rooney, Desiree Burch
+- 2023-07-08 — Agatha Christie (Radio Edit) — speakers: Sue Perkins, Lucy Worsley, Greg Jenner
+- 2023-06-02 — Medieval Irish Folklore (Live) — speakers: Greg Jenner, Gillian Kenn
+- 2023-05-19 — Agatha Christie — speakers: Agatha Christie Sue Perkins, Lucy Worsley, Greg Jenner
+- 2023-05-12 — Leonardo da Vinci (Live) — speakers: Leonardo da Vinci, Greg Jenner
+- 2023-05-05 — Victorian Bodybuilding — speakers: Victorian Bodybuilding Greg Jenner, Vanessa Heggie, Darren Harriot
+- 2023-04-28 — The Rise of the Tudors — speakers: Greg Jenner, Adam Chapman, Kiri Pritchard-McLean
+- 2023-04-21 — Cleopatra — speakers: Cleopatra Greg Jenner, Shushma Malik, Thanyia Moore
+- 2023-04-14 — Al Andalus — speakers: Al Andalus Greg Jenner, Prof Amira Bennison, Fatiha El-Ghorri, Al Andalus
+- 2023-04-07 — The Jacobites — speakers: Greg Jenner, Jeremy Filet, Eleanor Morton
 - 2023-03-31 — Atlantis — speakers: Greg Jenner, Stephen Kershaw, Sophie Duker
-- 2023-03-24 — Sarah Bernhardt — speakers: Sarah Bernhardt Greg Jenner, Sarah Bernhardt, Caitlin Rankin-McCabe Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Greg Jenner, Steve Hankey You’re Dead
-- 2023-03-17 — The Columbian Exchange — speakers: Greg Jenner, Desiree Burch, Christopher Columbus, Roxy Moore Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey You’re Dead
-- 2023-03-10 — Frederick Douglass — speakers: Frederick Douglass Greg Jenner, Prof Emily Bernard, Toussaint Douglass, Frederick Douglass, Jess White, Emma Nagouse, Greg Jenner, Emmie Rose Price-Goodfellow
-- 2023-03-03 — Vital Electricity — speakers: Olga Koch, Roxy Moore Written, Emma Nagouse, Roxy Moore, Greg Jenner, Emmie Rose Price-Goodfellow, Steve Hankey You’re Dead
-- 2023-02-24 — The Indus Civilisation: life in Bronze Age South Asia — speakers: Greg Jenner, Danika Parikh, Ahir Shah, Emmie Rose Price-Goodfellow, Aimee Hinds Scott, Emma Nagouse, Steve Hankey Executive, Philip Sellars
-- 2023-02-17 — Early Medieval Papacy — speakers: Greg Jenner, Prof Brett Whalen, Alison Spittle, Jessica Honey Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey You’re Dead
-- 2023-02-10 — Georgian Courtship: love and marriage in 18th-century England — speakers: Greg Jenner, Sally Holloway, Cariad Lloyd, Jane Austen, Emmie Rose Price-Goodfellow, Emma Nagouse, Greg Jenner Project Management, Steve Hankey Executive
-- 2023-01-21 — Grainne O’Malley (Radio Edit) — speakers: Grainne O’Malley, Greg Jenner, Gillian Kenny, Catherine Bohart, Jessica White
-- 2023-01-14 — Ancient Greek & Roman Medicine (Radio Edit) — speakers: Greg Jenner, Kristi Upson-Saia, Stu Goldsmith, Hannah MacKenzie
-- 2023-01-07 — The Asante Empire (Radio Edit) — speakers: Greg Jenner, Augustus Casely-Hayford Obe, Sophie Duker, Lloyd Roberts
-- 2022-12-31 — Prohibition in the USA (Radio Edit) — speakers: Greg Jenner, Prof Sarah Churchwell, Kemah Bob, Tim Galsworthy
-- 2022-12-09 — Medieval Christmas (Radio Edit) — speakers: Greg Jenner, Miles Jupp, Eleanor Janega, Lloyd Roberts Script, Emma Nagouse, Greg Jenner Project Management
-- 2022-12-05 — Christmas with Charles Dickens — speakers: Charles Dickens Greg Jenner, Emily Bell, Mike Wozniak, Charles Dickens, Emma Nagouse, Greg Jenner, Emmie Rose Price-Goodfellow
+- 2023-03-24 — Sarah Bernhardt — speakers: Sarah Bernhardt Greg Jenner
+- 2023-03-17 — The Columbian Exchange — speakers: Greg Jenner, Desiree Burch
+- 2023-03-10 — Frederick Douglass — speakers: Frederick Douglass Greg Jenner, Prof Emily Bernard, Toussaint Douglass
+- 2023-03-03 — Vital Electricity — speakers: Olga Koch
+- 2023-02-24 — The Indus Civilisation: life in Bronze Age South Asia — speakers: Greg Jenner, Danika Parikh, Ahir Shah
+- 2023-02-17 — Early Medieval Papacy — speakers: Greg Jenner, Prof Brett Whalen, Alison Spittle
+- 2023-02-10 — Georgian Courtship: love and marriage in 18th-century England — speakers: Greg Jenner, Sally Holloway, Cariad Lloyd
+- 2023-01-21 — Grainne O’Malley (Radio Edit) — speakers: Grainne O’Malley, Greg Jenner, Gillian Kenny, Catherine Bohart
+- 2023-01-14 — Ancient Greek & Roman Medicine (Radio Edit) — speakers: Greg Jenner, Kristi Upson-Saia, Stu Goldsmith
+- 2023-01-07 — The Asante Empire (Radio Edit) — speakers: Greg Jenner, Augustus Casely-Hayford Obe, Sophie Duker
+- 2022-12-31 — Prohibition in the USA (Radio Edit) — speakers: Greg Jenner, Prof Sarah Churchwell, Kemah Bob
+- 2022-12-09 — Medieval Christmas (Radio Edit) — speakers: Greg Jenner, Miles Jupp, Eleanor Janega
+- 2022-12-05 — Christmas with Charles Dickens — speakers: Charles Dickens Greg Jenner, Emily Bell, Mike Wozniak
 - 2022-11-11 — Greg Jenner talks to Lucy Worsley about Lady Killers — speakers: Greg Jenner, Lucy Worsley, Lady Killers Greg Jenner, Lucy’s Radio, Lady Killers
-- 2022-10-22 — The Haitian Revolution (Radio Edit) — speakers: Greg Jenner, Prof Marlene Daut, Athena Kugblenu, Toussaint Louverture
-- 2022-10-22 — Saladin (Radio Edit) — speakers: Greg Jenner, Maria Shehata, Prof Jonathan Phillips, Dan Morelle Scripted, Emily Greenwell
+- 2022-10-22 — The Haitian Revolution (Radio Edit) — speakers: Greg Jenner, Prof Marlene Daut, Athena Kugblenu
+- 2022-10-22 — Saladin (Radio Edit)
 - 2022-10-14 — Mary Shelley (Radio Edit) — speakers: Mary Shelley, Greg Jenner, Corin Throsby, Lauren Pattison
 - 2022-10-14 — The Ancient Olympics (Radio Edit) — speakers: Greg Jenner, Prof Michael Scott, Shaparak Khorsandi
-- 2022-10-07 — The Tang Dynasty (Radio Edit) — speakers: Greg Jenner, Prof Tineke D’Haeseleer, Evelyn Mok, Emperor Xuanzong
+- 2022-10-07 — The Tang Dynasty (Radio Edit) — speakers: Greg Jenner, Prof Tineke D’Haeseleer, Evelyn Mok
 - 2022-10-07 — Eleanor of Aquitaine (Radio Edit) — speakers: Greg Jenner, Gabby Storey, Rachel Parris
-- 2022-09-16 — The History of Fandom, 1700-1900 (Live) — speakers: Greg Jenner, Corin Throsby, Stuart Goldsmith, Emmie Rose Price-Goodfellow Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Abi Paterson
-- 2022-09-10 — Medieval Animals — speakers: Greg Jenner, Tim Wingard, Emmie Rose Price-Goodfellow Written, Emmie Rose Price-Goodfellow, Emma Nagouse, Max Bower
-- 2022-09-02 — Ibn Battuta — speakers: Ibn Battuta Greg Jenner, Prof Amira Bennison, Nabil Abdulrashid, Ibn Battuta, Jon Mason Written, Emma Nagouse, Greg Jenner, Emmie Rose Price-Goodfellow
-- 2022-08-26 — The History of Timekeeping — speakers: Greg Jenner, David Rooney, Desiree Burch, Rosie Rich Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Steve Hankey
-- 2022-08-19 — Njinga of Ndongo and Matamba — speakers: Greg Jenner, Athena Kugblenu, Rosie Rich Written, Emma Nagouse, Rosie Rich, Emmie Rose Price-Goodfellow, Max Bower
-- 2022-08-12 — The Terracotta Army — speakers: Greg Jenner, Julia Lovell, Phil Wang, Jon Mason Written, Emma Nagouse, Emmie Rose Price-Goodfellow, Abi Paterson
-- 2022-08-05 — Black Georgian England — speakers: Greg Jenner, Prof Gretchen Gerzina, Kwame Asante, Genevieve Johnson Written, Emma Nagouse, Genevieve Johnson, Emmie Rose Price-Goodfellow, Abi Paterson
-- 2022-07-29 — Julius Caesar’s Rise To Power — speakers: Shushma Malik, Ahir Shah, Emma Nagouse, Greg Jenner, Emmie Rose Price-Goodfellow, Abi Paterson
-- 2022-07-22 — Julie d'Aubigny — speakers: Julie d'Aubigny Greg Jenner, Sara Barker, Catherine Bohart, Julie d'Aubigny, Kelly Gardiner Written, Emma Nagouse, Greg Jenner, Emmie Rose Price-Goodfellow
-- 2022-07-15 — Istanbul in the Ottoman Golden Age — speakers: Greg Jenner, Prof Ebru Boyar, Sue Perkins, Genevieve Johnson Written, Emma Nagouse, Abi Paterson
-- 2022-07-08 — Captain Cook's First Voyage — speakers: Greg Jenner, Katherine Parker, James Nokise, Claudia Treacher, Rosanna Evans Written, Emma Nagouse, Abi Paterson
-- 2022-07-01 — Ancient Athenian Democracy — speakers: Athenian Democracy, Greg Jenner, Michael Scott, Alice Fraser, Rosie Rich Written, Emma Nagouse, Abi Paterson
-- 2022-06-24 — The Bayeux Tapestry — speakers: Greg Jenner, Janina Ramirez, Lou Sanders, John Mason Written, Emma Nagouse, Abi Paterson
+- 2022-09-16 — The History of Fandom, 1700-1900 (Live) — speakers: Greg Jenner, Corin Throsby, Stuart Goldsmith
+- 2022-09-10 — Medieval Animals — speakers: Greg Jenner, Tim Wingard
+- 2022-09-02 — Ibn Battuta — speakers: Ibn Battuta Greg Jenner, Prof Amira Bennison, Nabil Abdulrashid
+- 2022-08-26 — The History of Timekeeping — speakers: Greg Jenner, David Rooney, Desiree Burch
+- 2022-08-19 — Njinga of Ndongo and Matamba — speakers: Greg Jenner, Athena Kugblenu
+- 2022-08-12 — The Terracotta Army — speakers: Greg Jenner, Julia Lovell, Phil Wang
+- 2022-08-05 — Black Georgian England — speakers: Greg Jenner, Prof Gretchen Gerzina, Kwame Asante
+- 2022-07-29 — Julius Caesar’s Rise To Power — speakers: Shushma Malik, Ahir Shah
+- 2022-07-22 — Julie d'Aubigny — speakers: Julie d'Aubigny Greg Jenner, Sara Barker, Catherine Bohart
+- 2022-07-15 — Istanbul in the Ottoman Golden Age — speakers: Greg Jenner, Prof Ebru Boyar, Sue Perkins
+- 2022-07-08 — Captain Cook's First Voyage — speakers: Greg Jenner, Katherine Parker, James Nokise
+- 2022-07-01 — Ancient Athenian Democracy — speakers: Athenian Democracy, Greg Jenner, Michael Scott
+- 2022-06-24 — The Bayeux Tapestry — speakers: Greg Jenner, Janina Ramirez, Lou Sanders
 - 2022-06-17 — Hatshepsut — speakers: Hatshepsut Greg Jenner, Kemah Bob
-- 2022-06-10 — Frederick the Great of Prussia — speakers: Greg Jenner, Stephen Fry, Bodie Ashton, Emma Nagouse, Emmie Rose Price-Goodfellow, Abi Paterson
-- 2021-12-17 — Medieval Christmas — speakers: Miles Jupp, Eleanor Janega, Management Siefe
-- 2021-11-26 — Zheng Yi Sao — speakers: Zheng Yi Sao, Greg Jenner, Ria Lina, Will Clayton Script, Emma Nagouse, Will Clayton
-- 2021-11-19 — Mary Wollstonecraft — speakers: Mary Wollstonecraft Greg Jenner, Corin Throsby, Mary Wollstonecraft, Chris Wakefield, Rosanna Evans Script, Emma Nagouse, Greg Jenner
-- 2021-11-12 — The History of Ice Cream — speakers: Greg Jenner, Annie Gray, Richard Osman, Chris Wakefield Script, Emma Nagouse, Chris Wakefield
-- 2021-11-05 — Mary Seacole — speakers: Mary Seacole Greg Jenner, Prof Gretchen Gerzina, Nathan Caton, Mary Seacole, Hannah McKenzie Script, Emma Nagouse, Greg Jenner Project
-- 2021-10-29 — Disability in the Ancient World — speakers: Greg Jenner, Rosie Jones, Jane Draycott, Kierri Price Script, Emma Nagouse, Greg Jenner Project
-- 2021-10-22 — Owain Glyndŵr — speakers: Elis James, Kathryn Hurlock, Kierri Price Script, Emma Nagouse, Kierri Price, Greg Jenner Project
-- 2021-10-15 — Paul Robeson — speakers: Paul Robeson, Greg Jenner, Desiree Burch, William Clayton Script, Emma Nagouse, Greg Jenner Project
-- 2021-10-08 — Çatalhöyük and the Neolithic Revolution — speakers: Lindsay Der, Mike Wozniak, Chris Wakefield, Emma Nagouse, Greg Jenner
-- 2021-10-01 — Sake Dean Mahomed — speakers: Dean Mahomed Greg Jenner, Sake Dean Mahomed, Arunima Datta, Eshaan Akbar, Emma Nagouse, Chris Wakefield, Greg Jenner
-- 2021-09-24 — Medieval Science — speakers: Medieval Science, Greg Jenner, Ibn Al Hytham, Seb Falk, Josie Long, Rosanna Evans, Gregg Jenner
-- 2021-09-17 — The History of High Heels — speakers: Greg Jenner, Elizabeth Semmelhack, Lauren Pattison, Emma Nagouse, Harry Prance
-- 2021-09-10 — Nell Gwyn — speakers: Nell Gwyn One, Nell Gwyn, Greg Jenner, Diana Solomon, Jess Knappett, Emma Nagouse, Greg Jenner Research, William Clayton
-- 2021-09-03 — Ramesses the Great — speakers: Sophie Duker, Greg Jenner, Emma Nagouse
-- 2021-08-27 — Fairy Tales — speakers: Fairy Tales Greg Jenner, Sally Phillips, Prof Maria Tatar
-- 2021-08-20 — Ivan the Terrible — speakers: Greg Jenner, Peter Frankopan, Olga Koch
+- 2022-06-10 — Frederick the Great of Prussia — speakers: Greg Jenner, Stephen Fry, Bodie Ashton
+- 2021-12-17 — Medieval Christmas — speakers: Miles Jupp, Eleanor Janega
+- 2021-11-26 — Zheng Yi Sao — speakers: Zheng Yi Sao, Greg Jenner, Ria Lina
+- 2021-11-19 — Mary Wollstonecraft — speakers: Mary Wollstonecraft Greg Jenner, Corin Throsby
+- 2021-11-12 — The History of Ice Cream — speakers: Greg Jenner, Annie Gray, Richard Osman
+- 2021-11-05 — Mary Seacole — speakers: Mary Seacole Greg Jenner, Prof Gretchen Gerzina, Nathan Caton
+- 2021-10-29 — Disability in the Ancient World — speakers: Greg Jenner, Rosie Jones, Jane Draycott
+- 2021-10-22 — Owain Glyndŵr — speakers: Elis James, Kathryn Hurlock
+- 2021-10-15 — Paul Robeson — speakers: Paul Robeson, Greg Jenner, Desiree Burch
+- 2021-10-08 — Çatalhöyük and the Neolithic Revolution
+- 2021-10-01 — Sake Dean Mahomed — speakers: Dean Mahomed Greg Jenner
+- 2021-09-24 — Medieval Science — speakers: Medieval Science
+- 2021-09-17 — The History of High Heels — speakers: High Heels High
+- 2021-09-10 — Nell Gwyn — speakers: Nell Gwyn One, Nell Gwyn
+- 2021-09-03 — Ramesses the Great — speakers: Great Greg Jenner, Ancient Egypt
+- 2021-08-27 — Fairy Tales — speakers: Fairy Tales Greg Jenner
+- 2021-08-20 — Ivan the Terrible
 - 2021-06-19 — Genghis Khan (Radio Edit) — speakers: Genghis Khan, Greg Jenner, Prof Peter Frankopan, Phil Wang
 - 2021-06-12 — The Egyptian Pyramids (Radio Edit) — speakers: Greg Jenner, Prof Sarah Parcak, Maria Shehata
-- 2021-06-05 — Joan of Arc (Radio Edit) — speakers: Greg Jenner, Catherine Bohart, Helen Castor Script, Dan Morelle
+- 2021-06-05 — Joan of Arc (Radio Edit)
 - 2021-05-29 — The Battle of Salamis (Radio Edit) — speakers: Greg Jenner, Prof Michael Scott, Shappi Khorsandi
-- 2021-05-22 — Lord Byron (Radio Edit) — speakers: Greg Jenner, Ed Gamble, Corin Throsby, Dan Morelle
-- 2021-05-15 — Boudica (Radio Edit) — speakers: Greg Jenner, Sara Pascoe, Emma Southon, Greg Jenner Producer, Dan Morelle
-- 2021-04-23 — P.T. Barnum — speakers: Greg Jenner, Benjamin Reiss, Desiree Burch, Tom Thumb, Charlotte Potter
-- 2021-04-16 — Prohibition in the USA — speakers: Greg Jenner, Prof Sarah Churchwell, Kemah Bob, Rum Rows, Tim Galsworthy
-- 2021-04-09 — Sacagawea — speakers: Greg Jenner, Prof Katrina Phillips, Alex Edelman, Charlotte Potter
-- 2021-04-02 — Becoming America — speakers: Greg Jenner, Prof Joanne Freeman, Chris Addison, George Washington, Tim Galsworthy
-- 2021-03-26 — The Harlem Renaissance — speakers: Greg Jenner, Roy Wood Jr, Harry Prance, Jess White, Tim Galsworthy
-- 2021-03-19 — Chevalier de Saint-Georges — speakers: Greg Jenner, Prof Olivette Otele, Sophie Duker, Marie Antoinette, Lloyd Roberts
-- 2021-03-12 — Old Norse Literature — speakers: Greg Jenner, Janina Ramirez, Kae Kurd, Emma Nagouse
-- 2021-03-05 — The Tang Dynasty — speakers: Greg Jenner, Prof Tineke D’Haeseleer, Evelyn Mok, Emperor Xuanzong
+- 2021-05-22 — Lord Byron (Radio Edit) — speakers: Lord Byron, Radio Edit
+- 2021-05-15 — Boudica (Radio Edit) — speakers: Greg Jenner
+- 2021-04-23 — P.T. Barnum — speakers: Greg Jenner, Benjamin Reiss, Desiree Burch
+- 2021-04-16 — Prohibition in the USA — speakers: Greg Jenner, Prof Sarah Churchwell, Kemah Bob
+- 2021-04-09 — Sacagawea — speakers: Greg Jenner, Prof Katrina Phillips, Alex Edelman
+- 2021-04-02 — Becoming America — speakers: Greg Jenner, Prof Joanne Freeman, Chris Addison
+- 2021-03-26 — The Harlem Renaissance — speakers: Greg Jenner
+- 2021-03-19 — Chevalier de Saint-Georges — speakers: Greg Jenner, Prof Olivette Otele, Sophie Duker
+- 2021-03-12 — Old Norse Literature — speakers: Greg Jenner, Janina Ramirez, Kae Kurd
+- 2021-03-05 — The Tang Dynasty — speakers: Greg Jenner, Prof Tineke D’Haeseleer, Evelyn Mok
 - 2021-02-26 — King James VI of Scotland — speakers: James VI, Greg Jenner, Anna Whitelock, Larry Dean
-- 2021-02-19 — The Asante Empire — speakers: Greg Jenner, Augustus Casely-Hayford Obe, Sophie Duker, Lloyd Roberts
-- 2021-02-12 — The Borgias — speakers: Greg Jenner, Prof Catherine Fletcher, Phil Wang, Mario Puzo, Jessica White
-- 2021-02-05 — Ancient Greek & Roman Medicine — speakers: Kristi Upson-Saia, Stu Goldsmith, Greg Jenner, Hannah MacKenzie
-- 2021-01-29 — Grainne O’Malley — speakers: Grainne O’Malley Greg Jenner, Gillian Kenny, Catherine Bohart, Grainne O’Malley, Greg Jenner, Jessica White
-- 2021-01-22 — The Ancient Babylonians — speakers: Greg Jenner, Dr Moudhy Al-Rashid, Kae Kurd, Amy Grant, Lloyd Roberts
-- 2021-01-15 — Agrippina the Younger — speakers: Greg Jenner, Emma Southon, Cariad Lloyd, Harry Prance
+- 2021-02-19 — The Asante Empire — speakers: Greg Jenner, Augustus Casely-Hayford Obe, Sophie Duker
+- 2021-02-12 — The Borgias — speakers: Greg Jenner, Prof Catherine Fletcher, Phil Wang
+- 2021-02-05 — Ancient Greek & Roman Medicine — speakers: Kristi Upson-Saia, Stu Goldsmith
+- 2021-01-29 — Grainne O’Malley — speakers: Grainne O’Malley Greg Jenner, Gillian Kenny, Catherine Bohart
+- 2021-01-22 — The Ancient Babylonians — speakers: Greg Jenner, Dr Moudhy Al-Rashid, Kae Kurd
+- 2021-01-15 — Agrippina the Younger — speakers: Greg Jenner, Emma Southon, Cariad Lloyd
 - 2021-01-06 — The Mughal Empire (Radio Edit) — speakers: Greg Jenner, Mehreen Chida-Razvi, Sindhu Vee
 - 2020-12-26 — The History of Chocolate (Radio Edit) — speakers: Greg Jenner, Alex Hutchinson, Richard Osman
-- 2020-12-21 — The Victorian Christmas (Radio Edit) — speakers: Greg Jenner, Fern Riddell, Russell Kane
+- 2020-12-21 — The Victorian Christmas (Radio Edit)
 - 2020-12-16 — Josephine Baker (Radio Edit) — speakers: Josephine Baker, Greg Jenner, Michell Chresfield, Desiree Burch
 - 2020-12-12 — The Mayflower (Radio Edit) — speakers: Greg Jenner, Misha Ewen, Alex Edelman
-- 2020-12-08 — The Witch Craze (Radio Edit) — speakers: Greg Jenner, Cariad Lloyd, Prof Suzannah Lipscomb, Dan Morelle Script, Eszter Szabo
-- 2020-12-05 — The History of Football (Radio Edit) — speakers: Greg Jenner, Tom Parry, Prof Jean Williams, Dan Morelle Scripted, Greg Jenner Researched, Emma Nagouse, Eszter Szabo
-- 2020-12-01 — Stonehenge (Radio Edit) — speakers: Greg Jenner, Richard Herring, Susan Greaney, Dan Morelle Script
-- 2020-11-28 — Harriet Tubman (Radio Edit) — speakers: Harriet Tubman, Greg Jenner, Desiree Burch, Michell Chresfield, Dan Morelle Scripted, Greg Jenner Researched
-- 2020-11-21 — Young Napoleon (Radio Edit) — speakers: Greg Jenner, Dan Schreiber, Laura O’Brien, Dan Morelle Script
-- 2020-11-21 — Neanderthals (Radio Edit) — speakers: Greg Jenner, Tim Minchin, Becky Wragg
-- 2020-11-14 — The Aztecs (Radio Edit) — speakers: Greg Jenner, Joel Dommett, Dan Morelle Script
-- 2020-11-14 — Blackbeard (Radio Edit) — speakers: Greg Jenner, Stu Goldsmith, Rebecca Simon, Dan Morelle Scripted, Greg Jenner Researched
+- 2020-12-08 — The Witch Craze (Radio Edit) — speakers: Radio Edit, European Witch Craze
+- 2020-12-05 — The History of Football (Radio Edit) — speakers: Radio Edit
+- 2020-12-01 — Stonehenge (Radio Edit) — speakers: Greg Jenner
+- 2020-11-28 — Harriet Tubman (Radio Edit) — speakers: Harriet Tubman, Greg Jenner, Desiree Burch, Michell Chresfield
+- 2020-11-21 — Young Napoleon (Radio Edit) — speakers: Young Napoleon, Radio Edit
+- 2020-11-21 — Neanderthals (Radio Edit) — speakers: Greg Jenner, Tim Minchin, Dr Becky
+- 2020-11-14 — The Aztecs (Radio Edit) — speakers: Greg Jenner
+- 2020-11-14 — Blackbeard (Radio Edit) — speakers: Greg Jenner, Stu Goldsmith, Rebecca Simon
 - 2020-09-11 — The Egyptian Pyramids — speakers: Greg Jenner, Prof Sarah Parcak, Maria Shehata
-- 2020-09-04 — Genghis Khan — speakers: Greg Jenner, Peter Frankopan, Phil Wang, Genghis Khan
+- 2020-09-04 — Genghis Khan — speakers: Greg Jenner, Peter Frankopan, Phil Wang
 - 2020-08-28 — Notting Hill Carnival — speakers: Meleisa Ono-George, Nathan Caton
 - 2020-08-21 — Jack Sheppard — speakers: Jack Sheppard, Greg Jenner, Lena Liapi, Stu Goldsmith
-- 2020-08-14 — The Haitian Revolution — speakers: Marlene Daut, Athena Kugblenu, Toussaint Louverture
+- 2020-08-14 — The Haitian Revolution — speakers: Marlene Daut, Athena Kugblenu
 - 2020-08-07 — Vampires in Gothic Literature — speakers: Greg Jenner, Corin Throsby, Comedian Ed Gamble
 - 2020-07-31 — The Battle of Salamis — speakers: Michael Scott, Shappi Khorsandi
 - 2020-04-03 — The Mughal Empire — speakers: Greg Jenner, Mehreen Chida-Razvi, Sindhu Vee
 - 2020-03-27 — Eleanor of Aquitaine — speakers: Greg Jenner, Gabby Storey, Rachel Parris
 - 2020-03-20 — The History of Chocolate — speakers: Greg Jenner, Alex Hutchinson, Richard Osman
-- 2020-03-13 — Josephine Baker — speakers: Josephine Baker Greg Jenner, Michell Chresfield, Desiree Burch, Josephine Baker
+- 2020-03-13 — Josephine Baker — speakers: Josephine Baker Greg Jenner, Michell Chresfield, Desiree Burch
 - 2020-03-06 — The Ancient Olympics — speakers: Michael Scott, Shaparak Khorsandi
 - 2020-03-06 — The Mayflower — speakers: Greg Jenner, Misha Ewen, Alex Edelman
-- 2020-02-28 — Mary Shelley — speakers: Mary Shelley Greg Jenner, Corin Throsby, Lauren Pattison, Mary Shelley
-- 2020-02-28 — Neanderthals — speakers: Greg Jenner, Tim Minchin, Becky Wragg
-- 2019-12-13 — The Victorian Christmas — speakers: Greg Jenner, Fern Riddell, Russell Kane
-- 2019-11-22 — The History of General Elections — speakers: Greg Jenner, Hannah Nicholson, Catherine Bohart
-- 2019-10-25 — Saladin — speakers: Greg Jenner, Maria Shehata, Jonathan Phillips, Dan Morelle Scripted, Emily Greenwell
-- 2019-10-21 — The Witch Craze — speakers: Greg Jenner, Cariad Lloyd, Prof Suzannah Lipscomb, Dan Morelle Script, Eszter Szabo
-- 2019-10-18 — Lord Byron — speakers: Greg Jenner, Ed Gamble, Corin Throsby, Dan Morelle
-- 2019-10-11 — Stonehenge — speakers: Richard Herring, Susan Greaney, Dan Morelle Script, Greg Jenner
-- 2019-10-04 — The Aztecs — speakers: Greg Jenner, Joel Dommett, Dan Morelle Script
-- 2019-09-27 — Joan of Arc — speakers: Greg Jenner, Catherine Bohart, Helen Castor, Dan Morelle
-- 2019-09-23 — Young Napoleon — speakers: Greg Jenner, Dan Schreiber, Laura O’Brien, Dan Morelle Script
-- 2019-09-20 — Justinian and Theodora — speakers: Greg Jenner, Shappi Khorsandi, Prof Peter Frankopan
-- 2019-09-20 — Mansa Musa — speakers: Mansa Musa, Greg Jenner, Athena Kugblenu, Augustus Caseley-Hayford Obe, Dan Morelle
-- 2019-09-20 — LGBTQ History — speakers: Lgbtq History, Molly Houses, Greg Jenner, Suzie Ruffell, Justin Bengry, Dan Morelle Scripted
-- 2019-09-13 — Blackbeard — speakers: Greg Jenner, Rebecca Simon, Stu Goldsmith, Dan Morelle Scripted, Greg Jenner Researched
-- 2019-09-13 — The History of Football — speakers: Greg Jenner, Tom Parry, Jean Williams, Dan Morelle Scripted, Greg Jenner Researched, Emma Nagouse, Eszter Szabo
-- 2019-09-13 — Harriet Tubman — speakers: Harriet Tubman, Greg Jenner, Desiree Burch, Michell Chresfield, Dan Morelle
-- 2019-09-13 — The Spartans — speakers: Greg Jenner, Joel Dommett, Michael Scott, Greg Jenner Producer, Dan Morelle
-- 2019-09-13 — Boudica — speakers: Greg Jenner, Sara Pascoe, Emma Southon, Greg Jenner Producer, Dan Morelle
+- 2020-02-28 — Mary Shelley — speakers: Mary Shelley Greg Jenner, Corin Throsby, Lauren Pattison
+- 2020-02-28 — Neanderthals — speakers: Greg Jenner, Tim Minchin, Dr Becky
+- 2019-12-13 — The Victorian Christmas
+- 2019-11-22 — The History of General Elections — speakers: General Elections
+- 2019-10-25 — Saladin
+- 2019-10-21 — The Witch Craze — speakers: European Witch Craze
+- 2019-10-18 — Lord Byron — speakers: Lord Byron Who, Lord Byron
+- 2019-10-11 — Stonehenge — speakers: Stonehenge Greg Jenner
+- 2019-10-04 — The Aztecs
+- 2019-09-27 — Joan of Arc
+- 2019-09-23 — Young Napoleon — speakers: Young Napoleon Never
+- 2019-09-20 — Justinian and Theodora
+- 2019-09-20 — Mansa Musa — speakers: Mansa Musa
+- 2019-09-20 — LGBTQ History — speakers: Lgbtq History, Molly Houses
+- 2019-09-13 — Blackbeard — speakers: Greg Jenner
+- 2019-09-13 — The History of Football — speakers: Football Where
+- 2019-09-13 — Harriet Tubman — speakers: Harriet Tubman
+- 2019-09-13 — The Spartans — speakers: Greg Jenner, Joel Dommett
+- 2019-09-13 — Boudica — speakers: Greg Jenner
 - 2019-09-12 — Welcome to You're Dead To Me — speakers: Greg Jenner

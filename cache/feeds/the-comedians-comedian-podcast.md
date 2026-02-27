@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-02-26T19:10:12+00:00`
-- checked_at: `2026-02-26T19:10:12+00:00`
-- etag: `"djEuMi4wOjE3NzIxMjgzMzc5Mjc="`
+- fetched_at: `2026-02-27T07:13:19+00:00`
+- checked_at: `2026-02-27T07:13:19+00:00`
+- etag: `"djEuMi4wOjE3NzIxNzIwMzk4NjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-02-26T19:10:12+00:00",
+  "fetched_at": "2026-02-27T07:13:19+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c7903efc9b4b3f470af94a75923d0f7da0892c80",
+      "title": "Ken Cheng",
+      "published_at": "2026-02-27T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/504-ken-cheng",
+      "description": "Ken Cheng is a stand-up comedian, writer and professional poker player, but is probably best known for being the master of going viral on LinkedIn with over 200,000 followers! Outside of poking the corporate world, Ken has written for Have I Got News For You , Mock the Week and even created a Doctor Who audio episode . We discuss: how LinkedIn satire accidentally became the biggest career pivot of his life is poker psychology the same as being a stand-up how signing up for an open mic with Ed Gamble changed everything becoming a minor celebrity in the board game world the realisation that the Fringe isn't your audience and we find out if Ken Cheng is happy... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 20 minutes of exclusive extras including: turning LinkedIn satire into corporate gigs and serious money the temptation to tour again and refusing to rip off an audience and being commissioned to write for companies that don't even publish the work 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Ken: You can obviously connect with Ken professionally on LinkedIn, search “ Ken Cheng ”. For everything else, you can visit linktr.ee/kencheng . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 20 minutes of exclusive extra content with Ken ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE including dates in Bristol , London , Manchester , Stoke , Marlborough and Mach ! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1772128100729-8ec9e1db-bc5e-464d-a3d9-42bc75137a8d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69a087e1e4e1627e8cb491e7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124773696",
+      "itunes_duration": "1:26:38",
+      "speakers": [
+        "Ken Cheng Ken Cheng",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "cheng"
+      ]
+    },
     {
       "key": "47a89d6ac53a2df2ddb1228bce826a4eddd2b51f",
       "title": "Lindsey Santoro",
@@ -11186,6 +11205,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — Ken Cheng — speakers: Ken Cheng Ken Cheng, Stuart Goldsmith
 - 2026-02-19 — Lindsey Santoro — speakers: Lindsey Santoro, Edinburgh Fringe, Stuart Goldsmith
 - 2026-02-12 — Shenoah Allen — speakers: Shenoah Allen Shenoah Allen, Stuart Goldsmith
 - 2026-02-05 — Sophie Duker — speakers: Sophie Duker, Stuart Goldsmith

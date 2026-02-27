@@ -17048,6 +17048,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:b6a34bbc15a5",
+        "feed_title": "I'm ADHD! No You're Not",
+        "source_rss_url": "https://feeds.acast.com/public/shows/69a075d077f20883e45618fb",
+        "dedupe_key": "bf503c98098240ddbbdc15e6178fe1cb95c18ee3",
+        "episode_key": "bf503c98098240ddbbdc15e6178fe1cb95c18ee3",
+        "title": "The 4% Club with Lee Mack",
+        "published_at": "2025-01-16T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We’re back for another series! And what a way to kick things off - with none other than comedian, actor, and writer Lee Mack!\nFamed for his roles in Not Going Out, Would I Lie to You?, and The 1% Club, Lee is celebrated for his lightning-quick wit and razor-sharp observational humour.\nWhile writing his autobiography, M",
+        "audio_url": "https://sphinx.acast.com/p/open/s/69a075d077f20883e45618fb/e/7b9d434e-d359-11ef-8520-3fe6b4923c3c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-4-club-with-lee-mack/id1768305930?i=1000684189905&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:1eac8536e49a",
         "feed_title": "Walking The Dog with Emily Dean",
         "source_rss_url": "https://feeds.acast.com/public/shows/65fd941cc33959001681e12e",
@@ -18887,6 +18909,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:0bf102c49cf0",
+        "feed_title": "Pottering with Tom Allen",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR7948227179",
+        "dedupe_key": "e158f3054fac17b04ee491bc0affe85e80da0aeb",
+        "episode_key": "e158f3054fac17b04ee491bc0affe85e80da0aeb",
+        "title": "Nish Kumar",
+        "published_at": "2025-10-16T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on Pottering, I had the pleasure of being joined for some 'Alfresco Therapy' by the gloriously funny Nish Kumar! Superbly satirical stand up, you may also know him from Radio 4, his hit podcast Pod Save The UK, or from television (The Mash Report, Taskmaster, Joel and Nish vs The World).On a rather changeable",
+        "audio_url": "https://traffic.megaphone.fm/NSR7598941532.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1840896737?i=1000732084979&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0cdae44e9981",
         "feed_title": "The Alexei Sayle Podcast",
         "source_rss_url": "https://audioboom.com/channels/5038428.rss",
@@ -19687,6 +19731,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "da707a2f2c3d4b1cae5393375279ddfccd36ac53",
+        "episode_key": "da707a2f2c3d4b1cae5393375279ddfccd36ac53",
+        "title": "Excuse Me While I F**k The Sky (4242)",
+        "published_at": "2022-10-04T21:27:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nish Kumar and Hari Kondabolu join Andy Zaltzman for a riotous Bugle that makes Nish laugh so hard he, er, farts, while Hari reveals a huge confession.\nWe take a tour of democracy around the world, taking in Italy, Brazil and Russia, before tucking into some UK politics and the Chancellor's kami-Kwasi mini-Budget.\nOur ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/633ca5276d4b9600118d867a/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/excuse-me-while-i-f-k-the-sky-4242/id265799883?i=1000581602960&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
@@ -19699,6 +19765,28 @@
         "description": "On this week's podcast Nish Kumar returns to discuss S7 with Ed. There is a lot to cover - Pants on a Stick, Rhod's most unexpected thing and the creepiest t-shirt ever! As well as this they reflect on some of Nish's TM moments and make series 14 predictions. \nGet tickets to the recording of Nish's show Your Power, You",
         "audio_url": "https://dax.captivate.fm/4c441d3e-f901-4363-ac4f-84a79b73cade/media-encoded.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=d8e5460f-c549-4a9c-a7e4-0a9f14d042ef",
         "link_url": "https://podcasts.apple.com/gb/podcast/ep-96-nish-kumar-s7-ep-8/id1535040312?i=1000579551728&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "749617b6e8ce0329fb492fc0db0f311c877c5bdc",
+        "episode_key": "749617b6e8ce0329fb492fc0db0f311c877c5bdc",
+        "title": "Who? Liz Truss!?",
+        "published_at": "2022-09-06T19:06:07Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Who is Liz Truss and when will that change? Also, what next for Boris Johnson, what can you do with a gun in Times Square and what is Serena going to evolve into?\nOur 15th Birthday Special Tour is coming to the UK and Ireland this year: https://www.thebuglepodcast.com/live\nThere's no ads in this show, thanks to you! Ca",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/63179a20b5acb7001458517c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/who-liz-truss/id265799883?i=1000578585734&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -19809,6 +19897,28 @@
         "description": "LOOK OUT! It’s only Films To Be Buried With!\nJoin your host Brett Goldstein as he talks life, death, love and the universe with show favourite and hilarious comic NISH KUMAR!\nFolks, it's Nish time again! OH MY you are lucky as this is the first of an ultramagnetic and super awesome two parter as Brett and Nish go back ",
         "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1445729336.mp3?updated=1758120632",
         "link_url": "https://podcasts.apple.com/gb/podcast/the-perfectly-on-time-films-of-the-year-2021-special/id1408585620?i=1000560639928&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "bf7cc6fd92a1c28aa2f84bd4713493590d530b42",
+        "episode_key": "bf7cc6fd92a1c28aa2f84bd4713493590d530b42",
+        "title": "Everything I Do, I Do It For You (4226)",
+        "published_at": "2022-04-20T08:32:27Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Andy, Nish and Alice try to understand how Vladimir Putin's mind works, why sending asylum seekers to Rwanda is a good idea, and evaluate just how much we should trust Boris Johnson.\nThis Bugle is pretty sweary...\nSupport us via our website with a regular or one off donationBuy a loved one Bugle Merch Follow us on YouT",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/625fc4cc2b9af40013ac47af/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/everything-i-do-i-do-it-for-you-4226/id265799883?i=1000558130676&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -20484,6 +20594,28 @@
         "feed_slug": "external:apple:556cc9550d87",
         "feed_title": "The Bugle",
         "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "94ecec82b13230fd711a12a77ac9440dbfdc36b0",
+        "episode_key": "94ecec82b13230fd711a12a77ac9440dbfdc36b0",
+        "title": "Bugle 4156 - Statuesque",
+        "published_at": "2020-06-13T09:27:18Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Andy, Nish and Nato reflect on the global Black Lives Matter movement, the chaos in the USA and why people are going mad about statues.\nWe are funded entirely by Buglers! Support The Bugle. We carry no ads and exist because you make it happen: http://thebuglepodcast.com/#donate\nWe have a sister show, The Last Post, whi",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/5ee49bf69c9910757d904cfb/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bugle-4156-statuesque/id265799883?i=1000477830374&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
         "dedupe_key": "5619873c41426ea697fedd14bf3ca9919d814619",
         "episode_key": "5619873c41426ea697fedd14bf3ca9919d814619",
         "title": "Bugle 4153 - A Dutch Village",
@@ -20581,6 +20713,28 @@
         "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with 3rd time guest and therefore 3rd time dead NISH KUMAR!\nTHIS IS PART 1 OF A 2 PART SET so be sure to collect em both, lest you miss out on some ULTRA HEAVY POWERFUL END OF DECADE FILM BANTER! U",
         "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8341224271.mp3?updated=1758121035",
         "link_url": "https://podcasts.apple.com/gb/podcast/films-of-2019-the-decade-w-nish-kumar-films-to-be/id1408585620?i=1000466800071&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:71ff8532d9f4",
+        "feed_title": "Films To Be Buried With with Brett Goldstein",
+        "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
+        "dedupe_key": "49ffb8aed30c09e0f7a9079ea54a7382a68baa35",
+        "episode_key": "49ffb8aed30c09e0f7a9079ea54a7382a68baa35",
+        "title": "Nish Kumar (live @ BFI) • Films To Be Buried With with Brett Goldstein #76",
+        "published_at": "2019-12-26T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the hilarious writer, comedian and presenter and TWICE DEAD guest on Films To Be Buried With, it’s Nish Kumar AND it’s recorded live at the BFI!\nYes you read correct. This is Nish’s third time",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6340473389.mp3?updated=1758120414",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-live-bfi-films-to-be-buried-with-with/id1408585620?i=1000460773803&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -23043,6 +23197,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:ebfec7fd5c47",
+        "feed_title": "This Was The Scene Podcast",
+        "source_rss_url": "https://rss.libsyn.com/shows/118583/destinations/684870.xml",
+        "dedupe_key": "e51079720fbf37d27b5d5d096ffb2b482fae27e4",
+        "episode_key": "e51079720fbf37d27b5d5d096ffb2b482fae27e4",
+        "title": "Ep. 153: Orange Island w/ Dave Gorman (Pt. 2)",
+        "published_at": "2021-10-08T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Before we start, feel free to support the podcast if you've been listening for a while by signing up for my Patreon for $1 and I will love you forever.\n This is part 2 of 2 since this is a very long interview. Thank you to Casey Iodine (episode 134) for connecting me to Dave who I got on the Skype and this is what we c",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/thiswasthescene/Episode153-orangeisland-FINAL-pt2.mp3?dest-id=684870",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-153-orange-island-w-dave-gorman-pt-2/id1363105632?i=1000537930725&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:7c74f08c1573",
         "feed_title": "This Was The Scene Podcast",
         "source_rss_url": "https://thiswasthescene.libsyn.com/rss",
@@ -23054,6 +23230,28 @@
         "feed_image_url": null,
         "description": "Before we start, feel free to support the podcast if you've been listening for a while by signing up for my Patreon for $1 and I will love you forever.\n  Orange Island was a rock band based out of the town Clinton, Massachusetts. They wrote and recorded several demos before being signed to the Boston-based record label",
         "audio_url": "https://traffic.libsyn.com/secure/thiswasthescene/Episode152-orangeisland-FINAL.mp3?dest-id=684870",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-152-orange-island-w-dave-gorman/id1363105632?i=1000537189041&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:ebfec7fd5c47",
+        "feed_title": "This Was The Scene Podcast",
+        "source_rss_url": "https://rss.libsyn.com/shows/118583/destinations/684870.xml",
+        "dedupe_key": "7eecf555d87953303f71c62aa3e5100a41b185e0",
+        "episode_key": "7eecf555d87953303f71c62aa3e5100a41b185e0",
+        "title": "Ep. 152: Orange Island w/ Dave Gorman",
+        "published_at": "2021-10-01T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Before we start, feel free to support the podcast if you've been listening for a while by signing up for my Patreon for $1 and I will love you forever.\n  Orange Island was a rock band based out of the town Clinton, Massachusetts. They wrote and recorded several demos before being signed to the Boston-based record label",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/thiswasthescene/Episode152-orangeisland-FINAL.mp3?dest-id=684870",
         "link_url": "https://podcasts.apple.com/gb/podcast/ep-152-orange-island-w-dave-gorman/id1363105632?i=1000537189041&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -24326,6 +24524,28 @@
       }
     ],
     "david-mitchell": [
+      {
+        "feed_slug": "external:apple:456a89172dbd",
+        "feed_title": "The Ageless Warrior Lab",
+        "source_rss_url": "https://rss.buzzsprout.com/2501023.rss",
+        "dedupe_key": "1441b264f5b012cbe502d6f12fdefe55cfa342e3",
+        "episode_key": "1441b264f5b012cbe502d6f12fdefe55cfa342e3",
+        "title": "BJJ BONUS: Turning Chaos into Taps While Managing a Corporate Career - David Mitchell | Ep. 27",
+        "published_at": "2026-02-03T20:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode, I sit down with David Mitchell, a BJJ black belt and one of the most dangerous submission artists in Masters competition today. David is ranked #1 in the world for Master 2 No-Gi by IBJJF, has won around 85% of his matches with a 90% submission rate, and recently released his instructional \"Ankle Locks",
+        "audio_url": "https://www.buzzsprout.com/2501023/episodes/18614162-bjj-bonus-turning-chaos-into-taps-while-managing-a-corporate-career-david-mitchell-ep-27.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bjj-bonus-turning-chaos-into-taps-while-managing-a/id1840239491?i=1000747915240&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:2a4dadfe68e3",
         "feed_title": "RealTalk MS",

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-02-25T10:11:18+00:00`
-- checked_at: `2026-02-25T10:11:18+00:00`
-- etag: `"djEuMi4wOjE3NzIwMDkwMDMyNDg="`
+- fetched_at: `2026-02-27T07:13:19+00:00`
+- checked_at: `2026-02-27T07:13:19+00:00`
+- etag: `"djEuMi4wOjE3NzIxNjQ2NTk0MTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-02-25T10:11:18+00:00",
+  "fetched_at": "2026-02-27T07:13:19+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b6240ad8a97fb0fcbf7d434c7c2633c0536b7b27",
+      "title": "RHLSTP Book Club 171 - Ian Leslie",
+      "published_at": "2026-02-27T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #171 - John & Paul - A Love Story in Songs - Rich chats to author Ian Leslie about his hit book about Lennon and McCartney. Amongst other things they discuss why no other Beatles book has effectively asked why as well as what and when, whether Lee and Herring were more successful than the Beatles, how this book sends you back to the songs to remind you how truly inspirational and inventive they are, how death seemed to stalk John Lennon and whether Paul died in 1966 and Jane Asher just went along with the replacement (and the more likely hypothesis that there were always loads of Pauls, why Paul said “It’s a drag” when Lennon died, how Lennon and McCartney are similar to Peter Cook and Dudley Moore and much more. Buy the book here - https://uk.bookshop.org/p/books/john-and-paul-a-love-story-in-songs-ian-leslie/7751121 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1771444555095-fb11c900-c3d0-4285-bc7c-d0abc702b571.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6995f8187012ce53764f45b2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23010326",
+      "itunes_duration": "45:35",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhlstp",
+        "book",
+        "club",
+        "leslie"
+      ]
+    },
     {
       "key": "216e89707dba876aa3b68221bacb3013ae0ffef5",
       "title": "RHLSTP 600 - Fatiha El-Ghorri",
@@ -21556,6 +21577,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — RHLSTP Book Club 171 - Ian Leslie — speakers: Richard Herring
 - 2026-02-25 — RHLSTP 600 - Fatiha El-Ghorri — speakers: Fatiha El, Paul Hollywood Hand Shandy, Leicester Comedy Festival, Richard Herring
 - 2026-02-23 — Retro RHLSTP 134 - Paul Chowdhry — speakers: Paul Chowdhry, Richard Herring
 - 2026-02-21 — RAACN week 4 — speakers: Richard Herring
