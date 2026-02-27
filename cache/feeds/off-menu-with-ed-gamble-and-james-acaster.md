@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-02-25T07:16:57+00:00`
-- checked_at: `2026-02-25T07:16:57+00:00`
-- etag: `"djEuMi4wOjE3NzE5OTIwMzk4MzI="`
+- fetched_at: `2026-02-27T13:32:20+00:00`
+- checked_at: `2026-02-27T13:32:20+00:00`
+- etag: `"djEuMi4wOjE3NzIxOTM2MDI5MzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-02-25T07:16:57+00:00",
+  "fetched_at": "2026-02-27T13:32:20+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
