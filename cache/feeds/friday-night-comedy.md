@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-02-26T19:10:12+00:00`
-- checked_at: `2026-02-26T19:10:12+00:00`
-- etag: `"34484b568d6556ef0f2b29302c1457b1"`
-- last_modified: `Thu, 26 Feb 2026 19:00:11 GMT`
+- fetched_at: `2026-02-27T21:43:38+00:00`
+- checked_at: `2026-02-27T21:43:38+00:00`
+- etag: `"1425a95257781acf8f8aa7d1b4d60158"`
+- last_modified: `Fri, 27 Feb 2026 19:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-02-26T19:10:12+00:00",
+  "fetched_at": "2026-02-27T21:43:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "ac45773a07c374b72c914465fddc7cd3cacf2f91",
+      "title": "The News Quiz: Ep7. The worst birthday ever",
+      "published_at": "2026-02-27T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n10wlg",
+      "description": "Top of the agenda this week is some royal breaking news - who got a special birthday visit from the police? We’ll be analysing yet another government U-turn and see who’s emerged from the shadows for Nigel Farage’s proposed ‘shadow cabinet'. Plus a couple of stories on robots and aliens - something for everyone. Joining Andy this week is Mark Steel, Daliso Chaponda, Coco Khan and Bella Hull. Written by Andy Zaltzman. With additional material by: Jade Gebbie, Ruth Husko and Peter Tellouche. Producer: Georgia Keating Executive Producer: Pete Strauss Production Coordinator: Giulia Lopes Mazzu Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n2bxxl.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27152000",
+      "itunes_duration": "1697",
+      "speakers": [],
+      "topics": [
+        "news",
+        "quiz",
+        "birthday"
+      ]
+    },
     {
       "key": "4288ce1524fa30c55439c53dfd3b6d4ddc980c3a",
       "title": "The News Quiz: Ep6. Is the UK getting sunnier?",
@@ -5500,6 +5518,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — The News Quiz: Ep7. The worst birthday ever
 - 2026-02-20 — The News Quiz: Ep6. Is the UK getting sunnier?
 - 2026-02-13 — The News Quiz: Ep5. The Prince of Darkness — speakers: Peter Mandelson
 - 2026-02-06 — The News Quiz: Ep4. By-elections, hello defections — speakers: Suella Braverman’s defec
