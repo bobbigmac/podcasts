@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-02-26T13:43:52+00:00`
-- checked_at: `2026-02-26T13:43:52+00:00`
-- etag: `W/"9909e1739c49e290e6c3fb457992b1b6"`
-- last_modified: `Thu, 26 Feb 2026 11:30:35 GMT`
+- fetched_at: `2026-02-27T03:08:24+00:00`
+- checked_at: `2026-02-27T03:08:24+00:00`
+- etag: `W/"8b66a79065d6d7f607753a6700ac8551"`
+- last_modified: `Thu, 26 Feb 2026 23:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-02-26T13:43:52+00:00",
+  "fetched_at": "2026-02-27T03:08:24+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,31 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "55d087b7972e7be7cdc8d53a2238fa19e5c5944f",
+      "title": "No Such Thing As A Hedgehog In A Lifeboat",
+      "published_at": "2026-02-26T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8866484",
+      "description": "Melanie Bracewell joins Dan, James and Andy to discuss springtime, snot and Selena Gomez. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43498411.png",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8866484.mp3?modified=1772110328&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3253",
+      "speakers": [
+        "Melanie Bracewell",
+        "Selena Gomez",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "hedgehog",
+        "lifeboat"
+      ]
+    },
     {
       "key": "6131615c4037bf41b9f2487c8558c286532337ce",
       "title": "Little Fish: See You In The Charts",
@@ -15741,6 +15766,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-26 — No Such Thing As A Hedgehog In A Lifeboat — speakers: Melanie Bracewell, Selena Gomez, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-22 — Little Fish: See You In The Charts — speakers: Ryan Bingham, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-19 — No Such Thing As Magical Fox Phishing — speakers: Ray O'Leary, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-15 — Little Fish: Gary Scrabble — speakers: Gary Scrabble Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

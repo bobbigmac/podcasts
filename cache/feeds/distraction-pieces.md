@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-02-26T13:43:52+00:00`
-- checked_at: `2026-02-26T13:43:52+00:00`
-- etag: `"djEuMi4wOjE3NzIxMTE3NTY0MDk="`
+- fetched_at: `2026-02-27T03:08:24+00:00`
+- checked_at: `2026-02-27T03:08:24+00:00`
+- etag: `"djEuMi4wOjE3NzIxNTA0OTkzNDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-02-26T13:43:52+00:00",
+  "fetched_at": "2026-02-27T03:08:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b470d6b4a4d0a0fbbba5615b4aae37a9b8d1c9a1",
+      "title": "LUCY PINDER (Smashing Sundays / Me Myself & Di) • Friday Rewind",
+      "published_at": "2026-02-27T00:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Lucy Pinder , originally episode 438 from 2022-02-23. Original writeup below: A delightful chat bringing in loads of feelgood action, with a dash of triumph over adversity in there for good measure. From her days back in Winchester, we hear about her path to publicity and being involved in the world of early 00's lad culture and glamour modeling from a chance day off at the beach, which led to a huge amount of ups and downs as the path began to stabilise. What this did lead to though is a ton of good things which we hear about, as well as thoughts on pandemic walks and rituals, reclaiming Sundays and releasing podcasts on them, the difference between fun and selfishness these days to back then, rebranding being single and so much more besides. Get involved, you’ll love this one. PIP'S PATREON PAGE if you're of a supporting nature SMASHING SUNDAYS podcast TWITTER INSTAGRAM IMDB ME MYSELF AND DI PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1772111522073-d83ca375-c49f-4c1c-a107-620b6b75cf95.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69a0478c1eb5ccf456789183/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "151893382",
+      "itunes_duration": "1:03:13",
+      "speakers": [],
+      "topics": [
+        "lucy",
+        "pinder",
+        "smashing",
+        "sundays",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "3580adb24dbfd8ee186ddaae1f448b1458862453",
       "title": "JOEL FRY • further proof that The Bill & Casualty might be acting university (Stitch Head / Our Flag Means Death / Cruella) #660",
@@ -18298,6 +18319,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — LUCY PINDER (Smashing Sundays / Me Myself & Di) • Friday Rewind
 - 2026-02-25 — JOEL FRY • further proof that The Bill & Casualty might be acting university (Stitch Head / Our Flag Means Death / Cruella) #660
 - 2026-02-20 — TARON EGERTON (Rocketman / Tetris / Kingsman) • Friday Rewind
 - 2026-02-18 — JESSIE ROUX • the power of representation & hitting the floor running post-Traitors (Traitors Series 4) #659

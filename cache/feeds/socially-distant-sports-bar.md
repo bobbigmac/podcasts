@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-02-25T03:15:32+00:00`
-- checked_at: `2026-02-25T03:15:32+00:00`
-- etag: `"djEuMi4wOjE3NzE5Nzg1MzkzMjU="`
+- fetched_at: `2026-02-27T03:08:24+00:00`
+- checked_at: `2026-02-27T03:08:24+00:00`
+- etag: `"djEuMi4wOjE3NzIxNTE2MzkzMjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "Join Elis James, Mike Bubbins and Steff Garrero in Award winning Podcast \"The Socially Distant Sports Bar\". It's a Comedy & Sports Podcast, but you don't have to like Sports to LOVE it. Comedians Elis James (BBC 5Live, Sky TV's Fantasy Football League) & Mike Bubbins (BBC's Mammoth) are \"Unreasonably hilarious\" The Telegraph. \"Elis James, Mike Bubbins and Steff Garrero created a haven where they ramble on about classic clips and random recollections.\" The Guardian Known to fans as Distant Pod it has won awards at the Sports Podcast Awards & Pod Bible Awards. Hosts of \"Down The Clubhouse\" on TNT Sport another Comedy & Sports show. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-02-25T03:15:32+00:00",
+  "fetched_at": "2026-02-27T03:08:24+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "4a7b7edae1bf15c9177b7a017cc53269174a96c5",
+      "title": "Maybe Start With Public Speaking (pt 2)",
+      "published_at": "2026-02-27T00:20:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/maybe-start-with-public-speaking-pt-2",
+      "description": "Episode 300: Maybe Start With Public Speaking Distant Pod is a weekly podcast where Elis James, Mike Bubbins, and Steff Garrero dive into the best (and worst) clips, documentaries, books, and sporting moments they’ve discovered that week. 🏃‍♂️ CHARITY RUN Steff is running the Tokyo Marathon for Orchid Cancer . 👉 Donate here: https://www.justgiving.com/page/the-socially-distant-sports-bar-podcast-5 🎧 PART 2 – Episode 300 Elis Documentary: Flo Jo: A Daughter’s Love https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.6fda2c47-6ef2-415d-ab31-d889eacc240b Steff Book/Find: Lee Child using footballers’ names in Jack Reacher books https://www.reddit.com/r/footballcliches/comments/1gnw5d7/footballers_names_in_jack_reacher_things_again/ 🔒 Upgrade to Distant Pod Bonus Club on Apple for early, ad-free Parts 1 & 2 — and get Part 3 as exclusive bonus content. Click here for a NORD VPN deal https://nordvpn.com/distant CLICK HERE TO SEE CRWST's SELECTION https://crwst.cymru/collections/shop-all 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com 🎟️ TOUR 2026 Live shows are coming! 🎫 Tickets available now at distantpod.com/live Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6998517ce1d87731196ea277/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78469440",
+      "itunes_duration": "32:41",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "public",
+        "speaking"
+      ]
+    },
     {
       "key": "0132885d4220c2f553b22abc045cd19bf010a10b",
       "title": "Maybe Start With Public Speaking (pt 1)",
@@ -14037,6 +14058,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — Maybe Start With Public Speaking (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-02-25 — Maybe Start With Public Speaking (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-02-22 — Paul McCartney: Pint Size — speakers: Paul McCartney, Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
 - 2026-02-20 — Mario (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero

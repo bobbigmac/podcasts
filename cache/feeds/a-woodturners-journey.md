@@ -2,10 +2,10 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"djEuMi4wOjE3NzA5Njk2Mzk0ODE="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-02-27T03:08:24+00:00`
+- checked_at: `2026-02-27T03:08:24+00:00`
+- etag: `"djEuMi4wOjE3NzIxNDczMDEyMzM="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,10 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-02-27T03:08:24+00:00",
+  "owners": [
+    "Chris Jacobsen"
+  ],
   "common_speakers": [],
   "categories": [
     "hobbies"
@@ -35,7 +37,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107932497",
       "itunes_duration": "1:01:34",
-      "speakers": [],
+      "speakers": [
+        "Chris Jacobsen"
+      ],
       "topics": [
         "champion"
       ]
@@ -52,7 +56,7 @@
       "enclosure_length": "116909734",
       "itunes_duration": "1:04:26",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "head"
@@ -70,7 +74,7 @@
       "enclosure_length": "122367877",
       "itunes_duration": "1:09:21",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "lawn"
@@ -88,8 +92,7 @@
       "enclosure_length": "123839192",
       "itunes_duration": "1:08:57",
       "speakers": [
-        "awoodturnersjourney Chris",
-        "com bodiedesignsww"
+        "Chris Jacobsen"
       ],
       "topics": [
         "paris"
@@ -107,7 +110,7 @@
       "enclosure_length": "113968520",
       "itunes_duration": "1:01:25",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "time",
@@ -126,7 +129,7 @@
       "enclosure_length": "111766371",
       "itunes_duration": "1:01:15",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "dumb"
@@ -145,7 +148,7 @@
       "itunes_duration": "1:16:20",
       "speakers": [
         "Adrian Stanciu",
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "weird",
@@ -164,7 +167,8 @@
       "enclosure_length": "122169785",
       "itunes_duration": "1:04:13",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Microwave Mayo Enjoy",
+        "Chris Jacobsen"
       ],
       "topics": [
         "microwave",
@@ -183,7 +187,8 @@
       "enclosure_length": "123293875",
       "itunes_duration": "1:02:04",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Boss Enjoy",
+        "Chris Jacobsen"
       ],
       "topics": [
         "boss"
@@ -202,7 +207,7 @@
       "itunes_duration": "47:06",
       "speakers": [
         "Glenn Lucas",
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "irish",
@@ -222,8 +227,7 @@
       "itunes_duration": "51:17",
       "speakers": [
         "Glenn Lucas",
-        "Peter Johnston",
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "business",
@@ -243,7 +247,7 @@
       "itunes_duration": "41:47",
       "speakers": [
         "Glenn Lucas",
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "ashes",
@@ -262,8 +266,9 @@
       "enclosure_length": "70769389",
       "itunes_duration": "35:36",
       "speakers": [
-        "Glenn Lucas",
-        "awoodturnersjourney Chris"
+        "Million Miles",
+        "Fun Enjoy",
+        "Chris Jacobsen"
       ],
       "topics": [
         "miles"
@@ -280,7 +285,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130259487",
       "itunes_duration": "1:09:19",
-      "speakers": [],
+      "speakers": [
+        "Chris Jacobsen"
+      ],
       "topics": [
         "vermont"
       ]
@@ -297,9 +304,8 @@
       "enclosure_length": "119078187",
       "itunes_duration": "1:03:49",
       "speakers": [
-        "John Hampton",
-        "etsy com",
-        "awoodturnersjourney Chris"
+        "Surface Enjoy",
+        "Chris Jacobsen"
       ],
       "topics": [
         "surface"
@@ -319,7 +325,7 @@
       "speakers": [
         "Tom Rathert Enjoy",
         "Tom Rathert",
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "supernova",
@@ -338,7 +344,7 @@
       "enclosure_length": "119974777",
       "itunes_duration": "1:04:17",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "face"
@@ -356,7 +362,7 @@
       "enclosure_length": "116967018",
       "itunes_duration": "1:01:18",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "rope"
@@ -373,7 +379,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74217286",
       "itunes_duration": "38:59",
-      "speakers": [],
+      "speakers": [
+        "Chris Jacobsen"
+      ],
       "topics": [
         "episde",
         "trainwreck"
@@ -391,7 +399,7 @@
       "enclosure_length": "108016217",
       "itunes_duration": "57:44",
       "speakers": [
-        "David Ellsworth"
+        "Chris Jacobsen"
       ],
       "topics": [
         "work",
@@ -411,7 +419,7 @@
       "itunes_duration": "1:22:40",
       "speakers": [
         "Elizabeth Weber",
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "water",
@@ -432,7 +440,7 @@
       "enclosure_length": "117218914",
       "itunes_duration": "1:01:28",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "bourbon",
@@ -452,7 +460,7 @@
       "itunes_duration": "1:11:54",
       "speakers": [
         "David Ellsworth",
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": [
         "sweet",
@@ -471,7 +479,7 @@
       "enclosure_length": "119283257",
       "itunes_duration": "1:03:05",
       "speakers": [
-        "awoodturnersjourney Chris"
+        "Chris Jacobsen"
       ],
       "topics": []
     },
@@ -487,7 +495,8 @@
       "enclosure_length": "127667393",
       "itunes_duration": "1:07:34",
       "speakers": [
-        "Nick Agar"
+        "Nick Agar",
+        "Chris Jacobsen"
       ],
       "topics": [
         "nickels",
@@ -505,7 +514,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111485901",
       "itunes_duration": "58:42",
-      "speakers": [],
+      "speakers": [
+        "Chris Jacobsen"
+      ],
       "topics": [
         "process"
       ]
@@ -521,7 +532,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111221072",
       "itunes_duration": "58:22",
-      "speakers": [],
+      "speakers": [
+        "Chris Jacobsen"
+      ],
       "topics": [
         "ring",
         "fire"
@@ -539,7 +552,8 @@
       "enclosure_length": "91703814",
       "itunes_duration": "50:53",
       "speakers": [
-        "Shrink Hosted"
+        "Shrink Hosted",
+        "Chris Jacobsen"
       ],
       "topics": [
         "shrink"
@@ -557,7 +571,8 @@
       "enclosure_length": "115976936",
       "itunes_duration": "1:00:46",
       "speakers": [
-        "Guess Who"
+        "Guess Who",
+        "Chris Jacobsen"
       ],
       "topics": []
     },
@@ -572,7 +587,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135361704",
       "itunes_duration": "1:09:10",
-      "speakers": [],
+      "speakers": [
+        "Chris Jacobsen"
+      ],
       "topics": []
     },
     {
@@ -586,7 +603,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127652573",
       "itunes_duration": "1:15:53",
-      "speakers": [],
+      "speakers": [
+        "Chris Jacobsen"
+      ],
       "topics": [
         "party"
       ]
@@ -602,7 +621,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124498175",
       "itunes_duration": "1:15:08",
-      "speakers": [],
+      "speakers": [
+        "Chris Jacobsen"
+      ],
       "topics": [
         "introductions"
       ]
@@ -614,35 +635,35 @@
 
 ## Episodes (newest first)
 
-- 2026-02-13 — Ep 31 - WE ARE THE CHAMPIONS
-- 2026-01-30 — Ep 30 - Your head got misplaced — speakers: awoodturnersjourney Chris
-- 2026-01-16 — 29 - Keep Off The Lawn — speakers: awoodturnersjourney Chris
-- 2026-01-02 — Ep. 28 - The Paris of Nowhere — speakers: awoodturnersjourney Chris, com bodiedesignsww
-- 2025-12-26 — Episode 27 - This Time Next Year — speakers: awoodturnersjourney Chris
-- 2025-12-19 — Episode 26 - All The Way Dumb — speakers: awoodturnersjourney Chris
-- 2025-12-05 — Episode 25 - Weird Science — speakers: Adrian Stanciu, awoodturnersjourney Chris
-- 2025-11-21 — Episode 24 - Microwave Mayo — speakers: awoodturnersjourney Chris
-- 2025-11-07 — Ep. 23 - Like a Boss — speakers: awoodturnersjourney Chris
-- 2025-10-22 — Episode 22 - Irish Handcuffs — speakers: Glenn Lucas, awoodturnersjourney Chris
-- 2025-10-21 — Episode 21 - Business Time — speakers: Glenn Lucas, Peter Johnston, awoodturnersjourney Chris
-- 2025-10-20 — Episode 20 - Ashes to Iron — speakers: Glenn Lucas, awoodturnersjourney Chris
-- 2025-10-20 — Episode 19 - Million Miles of Fun — speakers: Glenn Lucas, awoodturnersjourney Chris
-- 2025-10-17 — Episode 18 - Vermont
-- 2025-10-03 — Ep. 17 - Scratch the Surface — speakers: John Hampton, etsy com, awoodturnersjourney Chris
-- 2025-09-19 — Episode 16 - Supernova w/Tom Rathert — speakers: Tom Rathert Enjoy, Tom Rathert, awoodturnersjourney Chris
-- 2025-09-13 — Bonus Episode - Face to Face — speakers: awoodturnersjourney Chris
-- 2025-09-05 — Episode 15 - Show 'em The Ropes — speakers: awoodturnersjourney Chris
-- 2025-08-21 — Episde 14 - Trainwreck
-- 2025-08-08 — Episode 13 - Work in Progress — speakers: David Ellsworth
-- 2025-07-25 — Episode 12 - Water & Solutions w/Elizabeth Weber — speakers: Elizabeth Weber, awoodturnersjourney Chris
-- 2025-07-11 — Episode 11 - Bourbon Discipline — speakers: awoodturnersjourney Chris
-- 2025-06-27 — Episode 10 - Sweet Caroline — speakers: David Ellsworth, awoodturnersjourney Chris
-- 2025-06-13 — Episode 9 - Sell out — speakers: awoodturnersjourney Chris
-- 2025-06-01 — Episode 8 - Nickels and Diamonds — speakers: Nick Agar
-- 2025-05-23 — Episode 7 - In the Process of...
-- 2025-05-11 — Episode 6 - Ring of Fire
-- 2025-05-03 — Episode 5 - Shrink — speakers: Shrink Hosted
-- 2025-04-26 — Episode 4 - Guess Who's Back? — speakers: Guess Who
-- 2024-02-09 — Episode 3 - Shake it off
-- 2024-01-26 — Episode 2 - Let's get this party started
-- 2024-01-23 — Ep. 1 - Introductions
+- 2026-02-13 — Ep 31 - WE ARE THE CHAMPIONS — speakers: Chris Jacobsen
+- 2026-01-30 — Ep 30 - Your head got misplaced — speakers: Chris Jacobsen
+- 2026-01-16 — 29 - Keep Off The Lawn — speakers: Chris Jacobsen
+- 2026-01-02 — Ep. 28 - The Paris of Nowhere — speakers: Chris Jacobsen
+- 2025-12-26 — Episode 27 - This Time Next Year — speakers: Chris Jacobsen
+- 2025-12-19 — Episode 26 - All The Way Dumb — speakers: Chris Jacobsen
+- 2025-12-05 — Episode 25 - Weird Science — speakers: Adrian Stanciu, Chris Jacobsen
+- 2025-11-21 — Episode 24 - Microwave Mayo — speakers: Microwave Mayo Enjoy, Chris Jacobsen
+- 2025-11-07 — Ep. 23 - Like a Boss — speakers: Boss Enjoy, Chris Jacobsen
+- 2025-10-22 — Episode 22 - Irish Handcuffs — speakers: Glenn Lucas, Chris Jacobsen
+- 2025-10-21 — Episode 21 - Business Time — speakers: Glenn Lucas, Chris Jacobsen
+- 2025-10-20 — Episode 20 - Ashes to Iron — speakers: Glenn Lucas, Chris Jacobsen
+- 2025-10-20 — Episode 19 - Million Miles of Fun — speakers: Million Miles, Fun Enjoy, Chris Jacobsen
+- 2025-10-17 — Episode 18 - Vermont — speakers: Chris Jacobsen
+- 2025-10-03 — Ep. 17 - Scratch the Surface — speakers: Surface Enjoy, Chris Jacobsen
+- 2025-09-19 — Episode 16 - Supernova w/Tom Rathert — speakers: Tom Rathert Enjoy, Tom Rathert, Chris Jacobsen
+- 2025-09-13 — Bonus Episode - Face to Face — speakers: Chris Jacobsen
+- 2025-09-05 — Episode 15 - Show 'em The Ropes — speakers: Chris Jacobsen
+- 2025-08-21 — Episde 14 - Trainwreck — speakers: Chris Jacobsen
+- 2025-08-08 — Episode 13 - Work in Progress — speakers: Chris Jacobsen
+- 2025-07-25 — Episode 12 - Water & Solutions w/Elizabeth Weber — speakers: Elizabeth Weber, Chris Jacobsen
+- 2025-07-11 — Episode 11 - Bourbon Discipline — speakers: Chris Jacobsen
+- 2025-06-27 — Episode 10 - Sweet Caroline — speakers: David Ellsworth, Chris Jacobsen
+- 2025-06-13 — Episode 9 - Sell out — speakers: Chris Jacobsen
+- 2025-06-01 — Episode 8 - Nickels and Diamonds — speakers: Nick Agar, Chris Jacobsen
+- 2025-05-23 — Episode 7 - In the Process of... — speakers: Chris Jacobsen
+- 2025-05-11 — Episode 6 - Ring of Fire — speakers: Chris Jacobsen
+- 2025-05-03 — Episode 5 - Shrink — speakers: Shrink Hosted, Chris Jacobsen
+- 2025-04-26 — Episode 4 - Guess Who's Back? — speakers: Guess Who, Chris Jacobsen
+- 2024-02-09 — Episode 3 - Shake it off — speakers: Chris Jacobsen
+- 2024-01-26 — Episode 2 - Let's get this party started — speakers: Chris Jacobsen
+- 2024-01-23 — Ep. 1 - Introductions — speakers: Chris Jacobsen

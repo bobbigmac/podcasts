@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-02-26T10:07:01+00:00`
-- checked_at: `2026-02-26T10:07:01+00:00`
-- last_modified: `Thu, 26 Feb 2026 09:41:53 GMT`
+- fetched_at: `2026-02-27T03:08:24+00:00`
+- checked_at: `2026-02-27T03:08:24+00:00`
+- last_modified: `Fri, 27 Feb 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-26T10:07:01+00:00",
+  "fetched_at": "2026-02-27T03:08:24+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "4a1a2fe746216035f613143074a80fd657abd1fd",
+      "title": "S15 Ep 785 Listeners Mailbag: Old Bosses and Other Digressions",
+      "published_at": "2026-02-27T03:00:00+00:00",
+      "link": null,
+      "description": "Delving into the Mailbag once again, we read messages about one of David’s old bosses (which leads to a lot of reminiscing about previous jobs), a Norwegian cigarette quip, a Joe look-a-like (followed by even more digressions) and a litter vigilante video. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠⁠⁠YouTube⁠⁠⁠ ⁠⁠⁠Instagram⁠⁠⁠ ⁠⁠⁠TikTok⁠⁠⁠ ⁠⁠⁠Patreon⁠⁠⁠ ⁠⁠⁠Merch⁠⁠⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6924403019.mp3?updated=1771495618",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2083",
+      "speakers": [
+        "David’s old",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "bosses",
+        "digression"
+      ]
+    },
     {
       "key": "a7f14814f89512cacdda546555c3e79facd4fe6e",
       "title": "S15 Ep 784: Joe’s Birthday Double Bubble Part 2",
@@ -13682,6 +13705,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — S15 Ep 785 Listeners Mailbag: Old Bosses and Other Digressions — speakers: David’s old, Joe Wilkinson, David Earl
 - 2026-02-26 — S15 Ep 784: Joe’s Birthday Double Bubble Part 2 — speakers: Joe’s Birthday Double, Joe Wilkinson, David Earl
 - 2026-02-25 — S15 Ep 783: Joe’s Birthday Double Bubble Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-02-24 — S15 Ep 782: London Larry and Befriending Take That — speakers: London Larry, Joe Wilkinson, David Earl

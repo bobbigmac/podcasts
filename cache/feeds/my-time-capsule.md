@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-02-23T03:19:38+00:00`
-- checked_at: `2026-02-23T03:19:38+00:00`
-- etag: `"djEuMi4wOjE3NzE4MDQ5NTkzOTk="`
+- fetched_at: `2026-02-27T03:08:24+00:00`
+- checked_at: `2026-02-27T03:08:24+00:00`
+- etag: `"djEuMi4wOjE3NzIxNTA1NTkzNTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-02-23T03:19:38+00:00",
+  "fetched_at": "2026-02-27T03:08:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b75bcb9d4f4fa2bf0c13059b8458d8abf08f4e8c",
+      "title": "Ep. 565 - Holly White - Australian actress who Mike worked with in Panama on a film",
+      "published_at": "2026-02-27T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-565-holly-white-australian-actress-who-mike-worked-with-i",
+      "description": "Holly White is an Australian actress who Mike met in Panama whilst filming Perfect Wedding Days, in which she plays the lead. He enjoyed her company so much that he thought she’d make the perfect guest! Holly has appeared in Home and Away and the films Bilched, Scenes from a Film and Black Box. She has family connections with Australia, England, Finland and Malta and has also lived in India. Quite an unusual mix, which all go to make up this delightful, charming, gentle person. Holly White is our guest in episode 565 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Follow Holly White on Instagram : @hollyleenawhite . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69a0bfd4e4e1627e8cc608ba/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "153344960",
+      "itunes_duration": "1:03:53",
+      "speakers": [
+        "Holly White"
+      ],
+      "topics": [
+        "holly",
+        "white",
+        "actress",
+        "mike",
+        "panama",
+        "film"
+      ]
+    },
     {
       "key": "084dbfd104c5c269562a42850049a1dd731e9042",
       "title": "Ep. 564 - Neil Pearson - From Drop the Dead Donkey and all four Bridget Jones films",
@@ -38,13 +61,7 @@
       "itunes_duration": "1:11:04",
       "speakers": [
         "Neil Pearson",
-        "Dave Charnley",
-        "Richard Fink",
-        "Waterloo Road",
-        "Colin Firth",
-        "Michael Fenton Stevens",
-        "Neil Person",
-        "John Fenton-Stevens"
+        "Dave Charnley"
       ],
       "topics": [
         "neil",
@@ -68,14 +85,7 @@
       "enclosure_length": "118611508",
       "itunes_duration": "49:25",
       "speakers": [
-        "Daisy Doris May",
-        "Steve Porters",
-        "Catherine Tate",
-        "Hannah Gadsby",
-        "Drag King",
-        "Michael Fenton Stevens",
-        "Follow Daisy Doris May",
-        "John Fenton-Stevens"
+        "Daisy Doris May"
       ],
       "topics": [
         "daisy",
@@ -98,12 +108,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101882691",
       "itunes_duration": "1:24:53",
-      "speakers": [
-        "Ed Byrne",
-        "Rory McGrath",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "dara",
         "briain",
@@ -124,9 +129,8 @@
       "enclosure_length": "58437924",
       "itunes_duration": "48:41",
       "speakers": [
-        "Nicky Hambleton-Jones",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Nicky Hambleton",
+        "Years Younger Nicky Hambleton"
       ],
       "topics": [
         "nicky",
@@ -152,9 +156,7 @@
       "enclosure_length": "84776144",
       "itunes_duration": "1:10:38",
       "speakers": [
-        "Andy Hamilton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Andy Hamilton"
       ],
       "topics": [
         "andy",
@@ -179,13 +181,7 @@
       "itunes_duration": "1:13:59",
       "speakers": [
         "Danny Ward Winner",
-        "Danny Ward",
-        "Mark Simmons",
-        "Ian Cognito",
-        "Michael Fenton Stevens",
-        "Mark Simmons podfollow com",
-        "Follow Danny Ward",
-        "John Fenton-Stevens"
+        "Danny Ward"
       ],
       "topics": [
         "danny",
@@ -212,14 +208,7 @@
       "enclosure_length": "73140161",
       "itunes_duration": "1:00:56",
       "speakers": [
-        "Mark Simmons",
-        "Seann Walsh",
-        "Rob Beckett",
-        "Rob Brydon",
-        "Michael McIntyre",
-        "Jack Dee",
-        "Michael Fenton Stevens",
-        "Mark Simmons podfollow com"
+        "Mark Simmons"
       ],
       "topics": [
         "mark",
@@ -244,11 +233,7 @@
       "enclosure_length": "70960503",
       "itunes_duration": "59:07",
       "speakers": [
-        "Alyssa Kyria",
-        "Stephen Fry",
-        "Michael Fenton Stevens",
-        "Follow Alyssa",
-        "John Fenton-Stevens"
+        "Alyssa Kyria"
       ],
       "topics": [
         "alyssa",
@@ -272,14 +257,7 @@
       "enclosure_length": "77045467",
       "itunes_duration": "1:04:12",
       "speakers": [
-        "Vittorio Angelone",
-        "Russell Howard",
-        "Jason Manford",
-        "Adam Rowe",
-        "Sam Morril",
-        "Ivo Graham",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Vittorio Angelone"
       ],
       "topics": [
         "vittorio",
@@ -302,14 +280,7 @@
       "enclosure_length": "57367948",
       "itunes_duration": "47:48",
       "speakers": [
-        "Edinburgh Fringe Amy Annette",
-        "Thick Skin",
-        "Lazy Susan",
-        "Tom Allen",
-        "Aisling Bea",
-        "Rose Matafeo",
-        "Lou Sanders",
-        "Kiell Smith-Bynoe"
+        "Edinburgh Fringe Amy Annette"
       ],
       "topics": [
         "annette",
@@ -336,11 +307,7 @@
       "itunes_duration": "1:09:58",
       "speakers": [
         "John Thomson Best",
-        "John Thompson",
-        "Pete Gifford",
-        "Steve Coogan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "John Thompson"
       ],
       "topics": [
         "john",
@@ -363,14 +330,7 @@
       "enclosure_length": "105575360",
       "itunes_duration": "1:27:58",
       "speakers": [
-        "Duncan Maitland",
-        "David Gary",
-        "Ronnie Stone",
-        "Shine Box",
-        "John Walshe",
-        "Bon Jovi",
-        "Michael Fenton Stevens",
-        "Follow Duncan Maitland"
+        "Duncan Maitland"
       ],
       "topics": [
         "duncan",
@@ -393,14 +353,7 @@
       "enclosure_length": "66812781",
       "itunes_duration": "55:40",
       "speakers": [
-        "Naomi Yang",
-        "Salt Marsh",
-        "Kelly Reilly",
-        "Rafe Spall",
-        "Jonathan Pryce",
-        "Harry Lawtey",
-        "DI Ray",
-        "Jamie Bell"
+        "Naomi Yang"
       ],
       "topics": [
         "naomi",
@@ -425,11 +378,7 @@
       "enclosure_length": "105677760",
       "itunes_duration": "1:28:03",
       "speakers": [
-        "Lisa Riley",
-        "Mandy Dingle",
-        "Harry Hill",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Lisa Riley"
       ],
       "topics": [
         "lisa",
@@ -449,9 +398,7 @@
       "enclosure_length": "73743067",
       "itunes_duration": "1:01:26",
       "speakers": [
-        "Tom Read Wilson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Tom Read Wilson"
       ],
       "topics": [
         "read",
@@ -475,7 +422,7 @@
       "speakers": [
         "Charles Dickens Read",
         "Michael Fenton Stevens",
-        "Charles Dickens"
+        "Michael Fenton Stev"
       ],
       "topics": [
         "christmas",
@@ -499,14 +446,7 @@
       "enclosure_length": "172986952",
       "itunes_duration": "1:12:04",
       "speakers": [
-        "Joe Wilkinson",
-        "Lisa Riley",
-        "Sanjeev Bhaskar",
-        "Anneka Rice",
-        "Griff Rhys Jones",
-        "Joe Pasquale",
-        "Charlie Higson",
-        "Alex Horne"
+        "My Christmas Time Capsule"
       ],
       "topics": [
         "christmas",
@@ -527,14 +467,7 @@
       "enclosure_length": "91575295",
       "itunes_duration": "1:16:18",
       "speakers": [
-        "Jason Manford",
-        "Fern Britton",
-        "Les Dennis",
-        "Lucy Porter",
-        "Arthur Smith",
-        "Tony Hawks",
-        "Mark Watson",
-        "JIm Howick"
+        "My Christmas Time Capsule"
       ],
       "topics": [
         "christmas",
@@ -555,14 +488,7 @@
       "enclosure_length": "74997989",
       "itunes_duration": "1:02:29",
       "speakers": [
-        "Stephen Fry",
-        "Jan Ravens",
-        "Andrew Hunter Murray",
-        "Emma Kennedy",
-        "John O'Farrel",
-        "Joe Pasquale",
-        "Cheryl Baker",
-        "Ted Robbins"
+        "My Christmas Time Capsule"
       ],
       "topics": [
         "christmas",
@@ -584,10 +510,7 @@
       "itunes_duration": "45:22",
       "speakers": [
         "Alan Davies",
-        "Logan Mersh",
-        "Rose Bruford",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Logan Mersh"
       ],
       "topics": [
         "logan",
@@ -615,11 +538,7 @@
       "speakers": [
         "George Cartrick",
         "Bill Fellows",
-        "Stu Carpenter",
-        "Alan Partridge",
-        "Steve Coogan",
-        "Julia Ormond",
-        "Mark Williams"
+        "Stu Carpenter"
       ],
       "topics": [
         "bill",
@@ -644,8 +563,9 @@
       "enclosure_length": "85963148",
       "itunes_duration": "1:11:37",
       "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Eli Hart",
+        "New Comedy Award",
+        "Komedia New"
       ],
       "topics": [
         "hart",
@@ -667,13 +587,7 @@
       "itunes_duration": "1:05:51",
       "speakers": [
         "Robin Hood",
-        "Hellen Mirren Michael Elwyn",
-        "Simon Staunton",
-        "Charles Moore",
-        "Anthony Eden",
-        "Peter Morgan",
-        "Stephen Daldry",
-        "Hellen Mirren"
+        "Hellen Mirren Michael Elwyn"
       ],
       "topics": [
         "michael",
@@ -700,9 +614,7 @@
       "enclosure_length": "73940030",
       "itunes_duration": "1:01:36",
       "speakers": [
-        "Michael Fenton Stevens",
-        "Charles Dickens",
-        "John Fenton-Stevens"
+        "Michael Fenton Stevens"
       ],
       "topics": [
         "battle",
@@ -723,9 +635,7 @@
       "enclosure_length": "88847067",
       "itunes_duration": "1:14:02",
       "speakers": [
-        "Michael Fenton Stevens",
-        "Charles Dickens",
-        "John Fenton-Stevens"
+        "Michael Fenton Stevens"
       ],
       "topics": [
         "battle",
@@ -747,12 +657,7 @@
       "itunes_duration": "1:21:30",
       "speakers": [
         "Robin Ince Unedited now",
-        "Robin Ince",
-        "Brian Cox",
-        "Nine Lessons",
-        "Michael Fenton Stevens",
-        "Follow Robin Ince",
-        "John Fenton-Stevens"
+        "Robin Ince"
       ],
       "topics": [
         "robin",
@@ -774,8 +679,7 @@
       "itunes_duration": "55:36",
       "speakers": [
         "Charles Dickens",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Michael Fenton Stevens"
       ],
       "topics": [
         "christmas",
@@ -798,13 +702,7 @@
       "enclosure_length": "61974381",
       "itunes_duration": "51:38",
       "speakers": [
-        "Ella Eyre",
-        "Wiz Khalifa",
-        "Meghan Trainor",
-        "Becky Hill",
-        "Sonny Fodera",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ella Eyre"
       ],
       "topics": [
         "ella",
@@ -829,9 +727,7 @@
       "itunes_duration": "1:01:24",
       "speakers": [
         "Keaton Henson Critically",
-        "Keaton Henson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Keaton Henson"
       ],
       "topics": [
         "keaton",
@@ -854,10 +750,7 @@
       "enclosure_length": "67310152",
       "itunes_duration": "56:05",
       "speakers": [
-        "Connor Burns",
-        "Daniel Sloss",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Connor Burns"
       ],
       "topics": [
         "connor",
@@ -879,13 +772,7 @@
       "itunes_duration": "1:02:56",
       "speakers": [
         "Matthew Lorenzo Sports",
-        "Matthew Lorenzo",
-        "Bobby Moore",
-        "Brighton Stand",
-        "Jack Charlton",
-        "Eric Cantona",
-        "Luck’s Sake",
-        "Michael Fenton Stevens"
+        "Matthew Lorenzo"
       ],
       "topics": [
         "matthew",
@@ -911,11 +798,7 @@
       "itunes_duration": "1:35:22",
       "speakers": [
         "Rob Brydon Unedited",
-        "Rob Brydon",
-        "Bryn West",
-        "Steve Coogan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Rob Brydon"
       ],
       "topics": [
         "brydon",
@@ -935,15 +818,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54415589",
       "itunes_duration": "45:20",
-      "speakers": [
-        "Josie Long",
-        "Jaye Griffiths",
-        "Bob Cryer",
-        "Uncanny Danny Robins",
-        "Karl Howman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "special",
@@ -964,9 +839,7 @@
       "enclosure_length": "76164095",
       "itunes_duration": "1:03:27",
       "speakers": [
-        "Beth Rigby",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Beth Rigby"
       ],
       "topics": [
         "beth",
@@ -988,9 +861,7 @@
       "enclosure_length": "123832862",
       "itunes_duration": "1:43:11",
       "speakers": [
-        "Miles Jupp",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Miles Jupp"
       ],
       "topics": [
         "miles",
@@ -1012,10 +883,7 @@
       "enclosure_length": "69580193",
       "itunes_duration": "57:58",
       "speakers": [
-        "Alma Baldwin",
-        "Amanda Barrie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Alma Baldwin"
       ],
       "topics": [
         "amanda",
@@ -1042,11 +910,7 @@
       "itunes_duration": "1:04:16",
       "speakers": [
         "Joz Norris Award",
-        "Joz Norris",
-        "Miranda Holms",
-        "Michael Fenton Stevens",
-        "Follow Joz Norris",
-        "John Fenton-Stevens"
+        "Joz Norris"
       ],
       "topics": [
         "norris",
@@ -1068,10 +932,7 @@
       "enclosure_length": "110600274",
       "itunes_duration": "1:32:09",
       "speakers": [
-        "John Duncan",
-        "Michael Posner",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "John Duncan"
       ],
       "topics": [
         "professor",
@@ -1093,14 +954,7 @@
       "enclosure_length": "86980356",
       "itunes_duration": "1:12:28",
       "speakers": [
-        "Edy Hurst",
-        "NextUp Comedy",
-        "Best Comedy Show",
-        "Hurst Schmurst",
-        "Edy Hurst’s Comedy",
-        "Jeff Wayne",
-        "Literary Version",
-        "Orson Welles"
+        "Edy Hurst"
       ],
       "topics": [
         "hurst"
@@ -1118,13 +972,7 @@
       "enclosure_length": "62765369",
       "itunes_duration": "52:18",
       "speakers": [
-        "Doug Naylor",
-        "Head Writers",
-        "Mike Fenton Stevens",
-        "Sin Bin Island",
-        "Michael Fenton Stevens",
-        "Follow Doug Naylor",
-        "John Fenton-Stevens"
+        "Doug Naylor"
       ],
       "topics": [
         "doug",
@@ -1143,12 +991,7 @@
       "enclosure_length": "68755246",
       "itunes_duration": "57:17",
       "speakers": [
-        "John Bishop",
-        "Frankie Boyle",
-        "Ray Bradshaw",
-        "Michael Fenton Stevens",
-        "Follow Ray Bradshaw",
-        "John Fenton-Stevens"
+        "Ray Bradshaw Ray Bradshaw"
       ],
       "topics": [
         "bradshaw"
@@ -1166,10 +1009,7 @@
       "enclosure_length": "46485336",
       "itunes_duration": "38:44",
       "speakers": [
-        "Adam Frost",
-        "Geoff Hamilton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Adam Frost"
       ],
       "topics": [
         "adam",
@@ -1188,13 +1028,7 @@
       "enclosure_length": "69553026",
       "itunes_duration": "57:57",
       "speakers": [
-        "Harriet Dyer",
-        "Howard Hour",
-        "Sky Max",
-        "Edinburgh Fringe",
-        "Michael Fenton Stevens",
-        "Follow Harriet Dyer",
-        "John Fenton-Stevens"
+        "Harriet Dyer"
       ],
       "topics": [
         "harriet",
@@ -1213,12 +1047,7 @@
       "enclosure_length": "75367883",
       "itunes_duration": "1:02:48",
       "speakers": [
-        "John Thaw",
-        "Joe McIntyre",
-        "Jim Henson",
-        "Reece Dinsdale",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "John Thaw"
       ],
       "topics": [
         "reece",
@@ -1238,12 +1067,7 @@
       "itunes_duration": "44:49",
       "speakers": [
         "Emmanuel Sonubi",
-        "Edinburgh Comedy Award",
-        "Best Show",
-        "Richard Osmond",
-        "Michael Fenton Stevens",
-        "Follow Emmanuel Sonubi",
-        "John Fenton-Stevens"
+        "Edinburgh Comedy Award"
       ],
       "topics": [
         "emmanuel",
@@ -1262,10 +1086,7 @@
       "enclosure_length": "89955181",
       "itunes_duration": "1:14:57",
       "speakers": [
-        "Mark Steel",
-        "Michael Fenton Stevens",
-        "Follow Mark Steel",
-        "John Fenton-Stevens"
+        "Mark Steel"
       ],
       "topics": [
         "mark",
@@ -1285,11 +1106,7 @@
       "enclosure_length": "48252259",
       "itunes_duration": "40:12",
       "speakers": [
-        "Josh Jones",
-        "Ross Show",
-        "Alan Davies",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Josh Jones"
       ],
       "topics": [
         "josh",
@@ -1309,14 +1126,7 @@
       "enclosure_length": "65922006",
       "itunes_duration": "54:55",
       "speakers": [
-        "Marcus Brigstocke",
-        "Rachel Paris",
-        "Giles Wemmbley-Hogg Goes Off",
-        "Kerry Godliman",
-        "Steph’s Packed Lunch",
-        "Vitruvian Mango",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Marcus Brigstocke"
       ],
       "topics": [
         "marcus",
@@ -1335,14 +1145,7 @@
       "enclosure_length": "58082659",
       "itunes_duration": "48:23",
       "speakers": [
-        "Jim Meskimen",
-        "Family Guy",
-        "Marion Ross",
-        "Mrs Cunningham",
-        "Ron Howard",
-        "Henry Winkler",
-        "Michael Fenton Stevens",
-        "Nick Helm"
+        "Jim Meskimen"
       ],
       "topics": [
         "meskiman"
@@ -1361,11 +1164,7 @@
       "itunes_duration": "1:24:40",
       "speakers": [
         "Nick Helm Returns",
-        "Nick Helm",
-        "Edinburgh Comedy Award",
-        "Russell Howard’s Good News",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Nick Helm"
       ],
       "topics": [
         "nick",
@@ -1385,12 +1184,7 @@
       "enclosure_length": "90176699",
       "itunes_duration": "1:15:08",
       "speakers": [
-        "Billy Boyd",
-        "Hobbit Pippin Took",
-        "Peter Jackson",
-        "Russell Crowe",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Billy Boyd"
       ],
       "topics": [
         "billy",
@@ -1410,13 +1204,7 @@
       "enclosure_length": "76820291",
       "itunes_duration": "1:04:00",
       "speakers": [
-        "Emma Doran",
-        "Eamon Rte",
-        "Callan Kicks Rte",
-        "Gogglebox Virgin Media",
-        "Gill Books",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Emma Doran"
       ],
       "topics": [
         "emma",
@@ -1435,14 +1223,7 @@
       "enclosure_length": "74842822",
       "itunes_duration": "1:02:21",
       "speakers": [
-        "Robert Ross",
-        "Sid James",
-        "Marty Feldman",
-        "Colin Baker",
-        "Leslie Phillips",
-        "Roy Hudd",
-        "Doug Bradley",
-        "David Tennant"
+        "Robert Ross"
       ],
       "topics": [
         "robert",
@@ -1461,14 +1242,7 @@
       "enclosure_length": "57536699",
       "itunes_duration": "47:56",
       "speakers": [
-        "Suzi Ruffell",
-        "Ross Show",
-        "Edinburgh Fringe",
-        "Minded Friends",
-        "Tom Allen",
-        "Maisie Adam",
-        "Michael Fenton Stevens",
-        "Buy Suzi"
+        "Suzi Ruffell"
       ],
       "topics": [
         "suzi",
@@ -1487,10 +1261,7 @@
       "enclosure_length": "69968895",
       "itunes_duration": "58:18",
       "speakers": [
-        "Roger Taylor",
-        "Marcus Buckland",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Roger Taylor"
       ],
       "topics": [
         "roger",
@@ -1510,12 +1281,7 @@
       "itunes_duration": "48:12",
       "speakers": [
         "John Michie",
-        "Robbie Ross",
-        "Karl Munro",
-        "Guy Self",
-        "Karen Pirie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Robbie Ross"
       ],
       "topics": [
         "john",
@@ -1535,11 +1301,7 @@
       "itunes_duration": "54:52",
       "speakers": [
         "Anna Hale",
-        "Audience Favourite",
-        "theatre performer",
-        "Anna’s Edinburgh",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Audience Favourite"
       ],
       "topics": [
         "anna",
@@ -1558,13 +1320,7 @@
       "enclosure_length": "68441777",
       "itunes_duration": "57:01",
       "speakers": [
-        "Rory Alexander",
-        "Alex Rider",
-        "Dark Windows",
-        "Mark Rylance",
-        "Michael Fenton Stevens",
-        "Follow Rory Alexander",
-        "John Fenton-Stevens"
+        "Rory Alexander"
       ],
       "topics": [
         "rory",
@@ -1583,9 +1339,7 @@
       "enclosure_length": "57796357",
       "itunes_duration": "48:09",
       "speakers": [
-        "Sam Williams",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Sam Williams"
       ],
       "topics": [
         "williams"
@@ -1603,13 +1357,7 @@
       "enclosure_length": "74061761",
       "itunes_duration": "1:01:42",
       "speakers": [
-        "Paul Sinha",
-        "Paul Sinha’s History Revision",
-        "Michael Fenton Stevens",
-        "Paul Sinha’s Edinburgh",
-        "Buy Paul Sinha",
-        "Follow Paul Sinha",
-        "John Fenton-Stevens"
+        "Paul Sinha"
       ],
       "topics": [
         "paul",
@@ -1628,12 +1376,7 @@
       "enclosure_length": "66213010",
       "itunes_duration": "55:10",
       "speakers": [
-        "Matt Parker",
-        "Monkey Cage",
-        "Getting Triggy",
-        "Michael Fenton Stevens",
-        "Matt’s Youtube",
-        "John Fenton-Stevens"
+        "Matt Parker"
       ],
       "topics": [
         "matt",
@@ -1652,13 +1395,7 @@
       "enclosure_length": "57143818",
       "itunes_duration": "47:36",
       "speakers": [
-        "James Cosmo",
-        "Ben Hur",
-        "Jeor Mormont",
-        "Jack Ryan",
-        "Karen Pirie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "James Cosmo"
       ],
       "topics": [
         "james",
@@ -1679,11 +1416,7 @@
       "speakers": [
         "Steve Blacknell",
         "Kate Bush",
-        "Phil Collins",
-        "John Peel",
-        "Peter Stringfellow",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Phil Collins"
       ],
       "topics": [
         "steve",
@@ -1702,9 +1435,7 @@
       "enclosure_length": "52588063",
       "itunes_duration": "43:49",
       "speakers": [
-        "Lee Ridley",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Lee Ridley"
       ],
       "topics": [
         "lost",
@@ -1724,14 +1455,7 @@
       "enclosure_length": "79429401",
       "itunes_duration": "1:06:11",
       "speakers": [
-        "Scott Bennett",
-        "Sarah Millican",
-        "Arthur Smith",
-        "Jason Manford",
-        "Little Mix",
-        "Chris Ramsey",
-        "Rob Brydon",
-        "John Bishop"
+        "Scott Bennett"
       ],
       "topics": [
         "scott",
@@ -1750,9 +1474,7 @@
       "enclosure_length": "61426855",
       "itunes_duration": "51:11",
       "speakers": [
-        "Chris Tarrant",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Chris Tarrant"
       ],
       "topics": [
         "chris",
@@ -1771,14 +1493,7 @@
       "enclosure_length": "82878087",
       "itunes_duration": "1:09:03",
       "speakers": [
-        "Carl Donnelly",
-        "Edinburgh Comedy Awards",
-        "Russell Howard’s Good News",
-        "Dave’s One Night Stand",
-        "Alan Davies",
-        "Kilkenny Cat Laughs",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Carl Donnelly"
       ],
       "topics": [
         "carl",
@@ -1797,12 +1512,7 @@
       "enclosure_length": "59234136",
       "itunes_duration": "49:21",
       "speakers": [
-        "Sheli McCoy",
-        "Comic Relief",
-        "Robert Gordons university",
-        "Michael Fenton Stevens",
-        "Follow Sheli McCoy",
-        "John Fenton-Stevens"
+        "Sheli McCoy"
       ],
       "topics": [
         "sheli",
@@ -1823,14 +1533,7 @@
       "enclosure_length": "51882757",
       "itunes_duration": "43:13",
       "speakers": [
-        "Kerry Ellis",
-        "Brian May",
-        "Barry Manilow",
-        "Alan Titchmarsh Show",
-        "John Barrowman",
-        "Jubilee Concert",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Kerry Ellis"
       ],
       "topics": [
         "kerry",
@@ -1849,12 +1552,7 @@
       "enclosure_length": "54961548",
       "itunes_duration": "45:47",
       "speakers": [
-        "Steve Backshall",
-        "Lizzie Daly",
-        "Sarah Roberts",
-        "Michael Fenton Stevens",
-        "Follow Steve Backshall",
-        "John Fenton-Stevens"
+        "Steve Backshall"
       ],
       "topics": [
         "steve",
@@ -1873,10 +1571,7 @@
       "enclosure_length": "82854054",
       "itunes_duration": "1:09:02",
       "speakers": [
-        "Summer Kitchens",
-        "Strong Roots",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Olia Hercules Olia Hercules"
       ],
       "topics": [
         "olia",
@@ -1895,12 +1590,7 @@
       "enclosure_length": "75213238",
       "itunes_duration": "1:02:40",
       "speakers": [
-        "Josh Widdicombe",
-        "Alexander Armstrong",
-        "Rob Beckett",
-        "Michael Fenton Stevens",
-        "Follow Josh Widdicombe",
-        "John Fenton-Stevens"
+        "Josh Widdicombe"
       ],
       "topics": [
         "josh",
@@ -1919,13 +1609,7 @@
       "enclosure_length": "121810985",
       "itunes_duration": "1:41:30",
       "speakers": [
-        "Ross Noble",
-        "Jonathan Ross",
-        "Top Gear",
-        "Mel Brooks",
-        "Mel Brooks Young Frankenstein",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ross Noble Very"
       ],
       "topics": [
         "unedited",
@@ -1945,14 +1629,7 @@
       "enclosure_length": "63161908",
       "itunes_duration": "52:37",
       "speakers": [
-        "Sally Bowles",
-        "Peter Pan",
-        "Kurt Weill",
-        "Marlene Dietrich",
-        "Astor Piazzolla",
-        "La Scala",
-        "Punishing Kiss",
-        "Elvis Costello"
+        "Ute Lemper Ute Lemper"
       ],
       "topics": [
         "lemper"
@@ -1970,10 +1647,7 @@
       "enclosure_length": "78401744",
       "itunes_duration": "1:05:19",
       "speakers": [
-        "Katie Derham",
-        "Sean Rafferty",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Petroc Trelawny Petroc Trelawny"
       ],
       "topics": [
         "petroc",
@@ -1993,13 +1667,7 @@
       "itunes_duration": "1:00:36",
       "speakers": [
         "Miranda Raison",
-        "Jo Portman",
-        "David Hare",
-        "Ralph Fiennes",
-        "Henry Irving",
-        "Ellen Terry",
-        "Anne Boleyn",
-        "Kenneth Branagh"
+        "Jo Portman"
       ],
       "topics": [
         "miranda",
@@ -2018,12 +1686,7 @@
       "enclosure_length": "56876846",
       "itunes_duration": "47:23",
       "speakers": [
-        "Joe Sutherland",
-        "Ellie Taylor",
-        "Dave’s Hypothetical",
-        "Michael Fenton Stevens",
-        "Joe’s Edinburgh",
-        "John Fenton-Stevens"
+        "Joe Sutherland"
       ],
       "topics": [
         "sutherland"
@@ -2041,11 +1704,7 @@
       "enclosure_length": "76284781",
       "itunes_duration": "1:03:34",
       "speakers": [
-        "Peter Fincham",
-        "Alan Partridge",
-        "Jimmy Mulville",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Peter Fincham"
       ],
       "topics": [
         "peter",
@@ -2064,13 +1723,7 @@
       "enclosure_length": "66244357",
       "itunes_duration": "55:12",
       "speakers": [
-        "Ben Hart",
-        "Ricky Wilson",
-        "Mel Giedroyc",
-        "George Square Gardens",
-        "Michael Fenton Stevens",
-        "Follow Ben Hart",
-        "John Fenton-Stevens"
+        "Ben Hart"
       ],
       "topics": [
         "hart"
@@ -2087,14 +1740,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72940585",
       "itunes_duration": "1:00:46",
-      "speakers": [
-        "Alexei Sayle",
-        "Sandwich Bar",
-        "Gorky Park",
-        "Selling Hitler",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "alexei",
         "sayle"
@@ -2113,13 +1759,7 @@
       "itunes_duration": "1:07:52",
       "speakers": [
         "Christopher Macarthur-Boyd",
-        "Frankie Boyle",
-        "Susie McCabe",
-        "Pound Gorilla Media",
-        "Russell Kane",
-        "Michael Fenton Stevens",
-        "Christopher’s Edinburgh",
-        "John Fenton-Stevens"
+        "Frankie Boyle"
       ],
       "topics": [
         "christopher",
@@ -2138,16 +1778,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50713516",
       "itunes_duration": "42:15",
-      "speakers": [
-        "Geoffrey Perkins",
-        "Philip Pope",
-        "Angus Deayton",
-        "Kiss Me Kate",
-        "Sarah Millican",
-        "John Morton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "helen",
         "atkinson",
@@ -2166,11 +1797,7 @@
       "enclosure_length": "78072079",
       "itunes_duration": "1:05:03",
       "speakers": [
-        "Liz Guterbock",
-        "Armando Iannucci",
-        "Michael Fenton Stevens",
-        "Follow Liz Guterbock",
-        "John Fenton-Stevens"
+        "Liz Guterbock"
       ],
       "topics": [
         "guterbock"
@@ -2188,12 +1815,7 @@
       "enclosure_length": "71607295",
       "itunes_duration": "59:40",
       "speakers": [
-        "David Hepworth",
-        "Mark Boxer",
-        "Paul McCartney",
-        "Michael Fenton Stevens",
-        "Follow David Hepworth",
-        "John Fenton-Stevens"
+        "David Hepworth"
       ],
       "topics": [
         "david",
@@ -2213,13 +1835,7 @@
       "itunes_duration": "59:42",
       "speakers": [
         "Charles Collingwood",
-        "Brian Aldridge",
-        "Judy Bennett",
-        "Shula Hebden Lloyd",
-        "Noel Edmonds",
-        "Bernard Manning",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Brian Aldridge"
       ],
       "topics": [
         "charles",
@@ -2238,10 +1854,7 @@
       "enclosure_length": "97948650",
       "itunes_duration": "1:21:37",
       "speakers": [
-        "Horror Story",
-        "Michael Fenton Stevens",
-        "Follow Limahl",
-        "John Fenton-Stevens"
+        "Limahl Limahl"
       ],
       "topics": [
         "limahl"
@@ -2258,16 +1871,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118823099",
       "itunes_duration": "1:39:00",
-      "speakers": [
-        "Caroline Quentin",
-        "Dave Gorman",
-        "Seann Walsh",
-        "Jon Ronson",
-        "David Jason",
-        "Josie Long",
-        "George Mombiot",
-        "Howard Goodall"
-      ],
+      "speakers": [],
       "topics": [
         "birthday",
         "special"
@@ -2285,9 +1889,7 @@
       "enclosure_length": "101269858",
       "itunes_duration": "1:24:23",
       "speakers": [
-        "Mark Thomas",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Mark Thomas"
       ],
       "topics": [
         "mark",
@@ -2307,11 +1909,7 @@
       "enclosure_length": "76044977",
       "itunes_duration": "1:03:22",
       "speakers": [
-        "Sam Nicoresti",
-        "Baby Doomer",
-        "Michael Fenton Stevens",
-        "Follow Sam Nicoresti",
-        "John Fenton-Stevens"
+        "Sam Nicoresti"
       ],
       "topics": [
         "nicoresti"
@@ -2329,14 +1927,7 @@
       "enclosure_length": "93772715",
       "itunes_duration": "1:18:08",
       "speakers": [
-        "Jessica Martin Jessica Martin",
-        "Gary Wilmot",
-        "Nellie Forbush",
-        "Mrs Lovett",
-        "Norma Desmond",
-        "Jessica Martin",
-        "Michael Fenton Stevens",
-        "Follow Jess Robinson"
+        "Jessica Martin Jessica Martin"
       ],
       "topics": [
         "jessica",
@@ -2354,11 +1945,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50152928",
       "itunes_duration": "41:47",
-      "speakers": [
-        "Chatty Natty",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "natty",
         "mike",
@@ -2377,12 +1964,7 @@
       "enclosure_length": "64930397",
       "itunes_duration": "54:06",
       "speakers": [
-        "Ignacio Lopez",
-        "Celebrity Mastermind",
-        "Richard Osman",
-        "James Dean Bradfield",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ignacio Lopez"
       ],
       "topics": [
         "ignacio",
@@ -2401,12 +1983,7 @@
       "enclosure_length": "66810691",
       "itunes_duration": "55:40",
       "speakers": [
-        "Jess Robinson",
-        "Jim Cartwright",
-        "Hammersmith Apollo",
-        "Michael Fenton Stevens",
-        "Jess’s Elton",
-        "John Fenton-Stevens"
+        "Jess Robinson"
       ],
       "topics": [
         "jess",
@@ -2424,10 +2001,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46805598",
       "itunes_duration": "39:00",
-      "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "donald",
         "trump"
@@ -2445,14 +2019,7 @@
       "enclosure_length": "72990218",
       "itunes_duration": "1:00:49",
       "speakers": [
-        "Kevin Cummins",
-        "Ian Curtis",
-        "Iggy Pop",
-        "Debbie Harry",
-        "Bob Marley",
-        "Patti Smith",
-        "Helen Mirren",
-        "Ralph Fiennes"
+        "Kevin Cummins"
       ],
       "topics": [
         "kevin",
@@ -2471,13 +2038,9 @@
       "enclosure_length": "65931932",
       "itunes_duration": "54:56",
       "speakers": [
-        "Mervyn Stutter",
-        "Ricky Gervais",
-        "Nathan Barley",
-        "Garth Marenghi",
-        "Michael Fenton Stevens",
-        "Marcel Lucont",
-        "John Fenton-Stevens"
+        "Alexis Dubus",
+        "Marcel Lucont Alexis Dubus",
+        "Chortle Award"
       ],
       "topics": [
         "alexis",
@@ -2500,12 +2063,7 @@
       "speakers": [
         "Kris Marshall",
         "Nick Harper",
-        "DI Humphrey Goodman",
-        "Jeremy Irons",
-        "Ralph Finnes",
-        "Citizen Khan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "DI Hump"
       ],
       "topics": [
         "kris",
@@ -2524,13 +2082,7 @@
       "enclosure_length": "71579605",
       "itunes_duration": "59:38",
       "speakers": [
-        "Dane Buckley",
-        "Tom Allen",
-        "Rosie Jones",
-        "Comedy Central",
-        "Daniel Foxx",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Dane Buckley"
       ],
       "topics": [
         "dane",
@@ -2549,14 +2101,7 @@
       "enclosure_length": "64112765",
       "itunes_duration": "53:25",
       "speakers": [
-        "Paul Zerdin",
-        "Jonathan Ross",
-        "Comedy Rocks",
-        "Jason Manford",
-        "Bruce Forsyth",
-        "Bradley Walsh",
-        "Christmas Show",
-        "Julian Clary"
+        "Paul Zerdin"
       ],
       "topics": [
         "paul",
@@ -2575,11 +2120,7 @@
       "enclosure_length": "92869401",
       "itunes_duration": "1:17:23",
       "speakers": [
-        "Pippa Evans",
-        "Netflix’s Jack Whitehall",
-        "Michael Fenton Stevens",
-        "Follow Pippa Evans",
-        "John Fenton-Stevens"
+        "Pippa Evans"
       ],
       "topics": [
         "pippa",
@@ -2597,11 +2138,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67001385",
       "itunes_duration": "55:49",
-      "speakers": [
-        "Muhammad Ali",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "john",
         "stracey"
@@ -2619,13 +2156,7 @@
       "enclosure_length": "85333075",
       "itunes_duration": "1:11:06",
       "speakers": [
-        "Ruth Bratt Ruth Bratt",
-        "Rob Brydon",
-        "Ricky Gervais",
-        "Sarah Millican",
-        "Ruth Bratt",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ruth Bratt Ruth Bratt"
       ],
       "topics": [
         "ruth",
@@ -2645,13 +2176,7 @@
       "itunes_duration": "39:16",
       "speakers": [
         "Marsha Thomason",
-        "Sara Evers",
-        "Eddie Murphy",
-        "Naomi Dorrit",
-        "Diana Berrigan",
-        "Jenn Townsend",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Sara Evers"
       ],
       "topics": [
         "marsha",
@@ -2670,10 +2195,7 @@
       "enclosure_length": "48600210",
       "itunes_duration": "40:29",
       "speakers": [
-        "Alister Kingsley",
-        "Tim Minchin",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Alister Kingsley"
       ],
       "topics": [
         "alister",
@@ -2692,10 +2214,7 @@
       "enclosure_length": "69070283",
       "itunes_duration": "57:33",
       "speakers": [
-        "Anton Du Beke",
-        "Sarah Stirk",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Anton Du Beke"
       ],
       "topics": [
         "anton",
@@ -2714,11 +2233,7 @@
       "enclosure_length": "40725336",
       "itunes_duration": "33:56",
       "speakers": [
-        "Jena Friedman",
-        "David Letterman",
-        "Top Ten Comedy Specials",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jena Friedman"
       ],
       "topics": [
         "jena",
@@ -2737,14 +2252,7 @@
       "enclosure_length": "79389695",
       "itunes_duration": "1:06:09",
       "speakers": [
-        "Steve Nallon",
-        "Margaret Thatcher",
-        "Alan Bennett",
-        "Tom Holt",
-        "Dick Fiddy",
-        "Steve Nallon’s Ghost Stories",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Steve Nallon"
       ],
       "topics": [
         "steve",
@@ -2763,14 +2271,7 @@
       "enclosure_length": "89963018",
       "itunes_duration": "1:14:57",
       "speakers": [
-        "Miller Show",
-        "Paul Whitehouse",
-        "Harry Enfield",
-        "Vic Reeves",
-        "Sheridan Smith",
-        "Carrie Fisher",
-        "Jason Hazeley",
-        "Nico Tatarowicz"
+        "Nico Tatarowicz Nico Tatarowicz"
       ],
       "topics": [
         "nico",
@@ -2789,13 +2290,7 @@
       "enclosure_length": "72813107",
       "itunes_duration": "1:00:40",
       "speakers": [
-        "Jeffrey Holland",
-        "James Twelvetrees",
-        "Russ Abbot’s Madhouse",
-        "Victoria Wood",
-        "Stan Laurel",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jeffrey Holland"
       ],
       "topics": [
         "jeffrey",
@@ -2814,10 +2309,7 @@
       "enclosure_length": "95819671",
       "itunes_duration": "1:19:50",
       "speakers": [
-        "Richard Herring",
-        "Stewart Lee",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Richard Herring"
       ],
       "topics": [
         "richard",
@@ -2837,10 +2329,7 @@
       "enclosure_length": "58840210",
       "itunes_duration": "49:01",
       "speakers": [
-        "Angus Deayton",
-        "Victor Meldrew",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Angus Deayton"
       ],
       "topics": [
         "angus",
@@ -2859,11 +2348,7 @@
       "enclosure_length": "66051573",
       "itunes_duration": "55:02",
       "speakers": [
-        "John Challis",
-        "Citizen Smith",
-        "Being Boycie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "John Challis"
       ],
       "topics": [
         "john",
@@ -2884,13 +2369,7 @@
       "itunes_duration": "45:27",
       "speakers": [
         "Danny Peacock",
-        "Mental Mickey",
-        "Trevor Peacock",
-        "Robin Hood",
-        "Kevin Costner",
-        "Morgan Freeman",
-        "Alan Rickman",
-        "Christian Slater"
+        "Mental Mickey"
       ],
       "topics": [
         "danny",
@@ -2909,9 +2388,7 @@
       "enclosure_length": "37680504",
       "itunes_duration": "31:23",
       "speakers": [
-        "Chatty Natty",
-        "Email Chatty Natty",
-        "John Fenton-Stevens"
+        "Chatty Natty"
       ],
       "topics": [
         "chatty",
@@ -2930,10 +2407,7 @@
       "enclosure_length": "103572813",
       "itunes_duration": "1:26:18",
       "speakers": [
-        "Rick Wakeman",
-        "David Bowie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Rick Wakeman"
       ],
       "topics": [
         "rick",
@@ -2953,9 +2427,7 @@
       "enclosure_length": "55555573",
       "itunes_duration": "46:17",
       "speakers": [
-        "Sarah Roberts",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Sarah Roberts"
       ],
       "topics": [
         "sarah",
@@ -2974,14 +2446,7 @@
       "enclosure_length": "55640210",
       "itunes_duration": "46:21",
       "speakers": [
-        "Duncan Preston",
-        "Acorn Antiques",
-        "Press Gang",
-        "Hetty Wainthropp Investigates",
-        "Midsomer Murders",
-        "Dennis Stokes",
-        "Doug Potts",
-        "Harry Enfield"
+        "Duncan Preston"
       ],
       "topics": [
         "duncan",
@@ -3000,9 +2465,7 @@
       "enclosure_length": "44940455",
       "itunes_duration": "37:26",
       "speakers": [
-        "Stuart Mitchell",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Stuart Mitchell"
       ],
       "topics": [
         "stuart",
@@ -3021,9 +2484,7 @@
       "enclosure_length": "85375393",
       "itunes_duration": "1:11:08",
       "speakers": [
-        "John Lloyd",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "John Lloyd"
       ],
       "topics": [
         "john",
@@ -3042,11 +2503,7 @@
       "enclosure_length": "67530103",
       "itunes_duration": "56:16",
       "speakers": [
-        "Comedian Abby Wambaugh",
-        "Abby Wambaugh",
-        "Michael Fenton Stevens",
-        "Follow Abby Wambaugh",
-        "John Fenton-Stevens"
+        "Comedian Abby Wambaugh"
       ],
       "topics": [
         "abby",
@@ -3067,12 +2524,7 @@
       "speakers": [
         "Arthur Smith",
         "Maisie Adam",
-        "Rosie Holt",
-        "Stephen Fry",
-        "David Mitchell",
-        "Chip Chapman",
-        "Daliso Chapona",
-        "Madeline Smith"
+        "Rosie Holt"
       ],
       "topics": []
     },
@@ -3089,13 +2541,7 @@
       "itunes_duration": "59:29",
       "speakers": [
         "Alice Roberts",
-        "Jason Manford",
-        "Anette Badland",
-        "Chris Lintott",
-        "Robin Askwith",
-        "Kim Leadbeater",
-        "Ainsley Harriott",
-        "Colin Hoult"
+        "Jason Manf"
       ],
       "topics": []
     },
@@ -3110,16 +2556,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110342707",
       "itunes_duration": "1:31:56",
-      "speakers": [
-        "Jason Manford",
-        "Stephen Fry",
-        "Arthur Smith",
-        "Maria McErlane",
-        "Rick Wakeman",
-        "Sonali Shah",
-        "Lauren Pattison",
-        "John O'Farrell"
-      ],
+      "speakers": [],
       "topics": [
         "christmas",
         "time",
@@ -3163,14 +2600,7 @@
       "enclosure_length": "69796487",
       "itunes_duration": "58:09",
       "speakers": [
-        "Mike Batt",
-        "Steeleye Span",
-        "Art Garfunkel",
-        "David Essex",
-        "Tim Rice",
-        "Alvin Stardust",
-        "Katie Melua",
-        "Albums Chart"
+        "Mike Batt"
       ],
       "topics": [
         "mike",
@@ -3214,12 +2644,7 @@
       "enclosure_length": "52582316",
       "itunes_duration": "43:48",
       "speakers": [
-        "Richard Vranch",
-        "Paul Merton",
-        "Suki Webster",
-        "Tony Slattery",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Richard Vranch"
       ],
       "topics": [
         "richard",
@@ -3238,11 +2663,7 @@
       "enclosure_length": "49125271",
       "itunes_duration": "40:56",
       "speakers": [
-        "Angela Barnes",
-        "John O'Farrell",
-        "Michael Fenton Stevens",
-        "Follow Angela Barnes",
-        "John Fenton-Stevens"
+        "Angela Barnes"
       ],
       "topics": [
         "angela",
@@ -3262,12 +2683,7 @@
       "enclosure_length": "63995214",
       "itunes_duration": "53:19",
       "speakers": [
-        "Eliot Stein",
-        "Lowell Thomas",
-        "Solas Awards",
-        "Michael Fenton Stevens",
-        "Buy Elliot",
-        "John Fenton-Stevens"
+        "Eliot Stein"
       ],
       "topics": [
         "eliot",
@@ -3286,10 +2702,7 @@
       "enclosure_length": "45915344",
       "itunes_duration": "38:15",
       "speakers": [
-        "Andy Zaltzman",
-        "Michael Fenton Stevens",
-        "Follow Andy Zaltzman",
-        "John Fenton-Stevens"
+        "Andy Zaltzman Andy Zaltzman"
       ],
       "topics": [
         "andy",
@@ -3309,8 +2722,7 @@
       "itunes_duration": "1:15:33",
       "speakers": [
         "David Mitchell",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "David Mi"
       ],
       "topics": [
         "david",
@@ -3330,14 +2742,7 @@
       "enclosure_length": "54922887",
       "itunes_duration": "45:45",
       "speakers": [
-        "Jeff Dunham",
-        "Billboard’s Top Comedy Tour",
-        "Jerry Seinfeld",
-        "Chris Rock",
-        "Wembley Arena",
-        "Manchester’s Co-op",
-        "Michael Fenton Stevens",
-        "Follow Jeff Dunham"
+        "Jeff Dunham"
       ],
       "topics": [
         "jeff",
@@ -3357,13 +2762,7 @@
       "itunes_duration": "1:12:32",
       "speakers": [
         "Paul Putner",
-        "Stewart Lee’s Comedy Vehicle",
-        "Richard Not Judy",
-        "Matt Lucas",
-        "David Walliams",
-        "Come Fly",
-        "Downton Abby",
-        "Michael Fenton Stevens"
+        "Stewart Lee’s Comed"
       ],
       "topics": [
         "paul",
@@ -3382,14 +2781,7 @@
       "enclosure_length": "68535295",
       "itunes_duration": "57:06",
       "speakers": [
-        "John O’Farrell",
-        "Nick Park",
-        "Chicken Run",
-        "Chicken Run Dawn",
-        "Something Rotten",
-        "Tony Awards",
-        "Mrs Doubtfire",
-        "Michael Fenton Stevens"
+        "John O’Farrell"
       ],
       "topics": [
         "john",
@@ -3410,10 +2802,7 @@
       "speakers": [
         "Joe Kent-Walters",
         "Frankie Monroe",
-        "Best Newcomer",
-        "Michael Fenton Stevens",
-        "Joe Kent Walters",
-        "John Fenton-Stevens"
+        "Best Newcomer"
       ],
       "topics": [
         "kent",
@@ -3434,12 +2823,7 @@
       "enclosure_length": "55560275",
       "itunes_duration": "46:17",
       "speakers": [
-        "Milton Jones",
-        "Michael McIntyre",
-        "Comedy Roadshow",
-        "Milton Impossible",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Milton Jones"
       ],
       "topics": [
         "milton",
@@ -3458,15 +2842,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67510250",
       "itunes_duration": "56:15",
-      "speakers": [
-        "Rupert Grint",
-        "Nick Frost",
-        "Murder Most Horrid",
-        "Aunt Melody",
-        "Robin Williams",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "matilda",
         "thorpe"
@@ -3483,16 +2859,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47097647",
       "itunes_duration": "39:14",
-      "speakers": [
-        "Comedy Central",
-        "Howard Stern",
-        "Woody Allen",
-        "Bill De Blasio",
-        "Mordechi Modi Rosenfeld Day",
-        "Michael Fenton Stevens",
-        "Follow Modi",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "modi"
       ]
@@ -3509,9 +2876,7 @@
       "enclosure_length": "65353059",
       "itunes_duration": "54:27",
       "speakers": [
-        "Andy Hamilton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Andy Hamilton"
       ],
       "topics": [
         "andy",
@@ -3532,13 +2897,7 @@
       "itunes_duration": "54:14",
       "speakers": [
         "Karl Howman Karl Howman",
-        "Brush Strokes",
-        "Buster Briggs",
-        "Secret Spitfires",
-        "Donal Macintyre",
-        "Karl Howman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Brush Strokes"
       ],
       "topics": [
         "karl",
@@ -3557,14 +2916,7 @@
       "enclosure_length": "132427781",
       "itunes_duration": "1:08:58",
       "speakers": [
-        "Griff Rhys Jones",
-        "Mel Smith",
-        "Michael Fenton Stevens",
-        "Ruth Jones",
-        "David Baddiel",
-        "Joe Pasquale",
-        "Ruthie Henshall",
-        "John Fenton-Stevens"
+        "Griff Rhys Jones"
       ],
       "topics": [
         "griff",
@@ -3585,9 +2937,7 @@
       "enclosure_length": "69367936",
       "itunes_duration": "57:48",
       "speakers": [
-        "Arthur Smith",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Arthur Smith"
       ],
       "topics": [
         "arthur",
@@ -3608,10 +2958,7 @@
       "enclosure_length": "74320373",
       "itunes_duration": "1:01:55",
       "speakers": [
-        "Comedian Arthur Smith",
-        "Arthur Smith",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Comedian Arthur Smith"
       ],
       "topics": [
         "arthur",
@@ -3632,10 +2979,7 @@
       "itunes_duration": "57:22",
       "speakers": [
         "Maria McErlane",
-        "Graham Norton",
-        "Jean-Paul Gaultier",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Graham Norton"
       ],
       "topics": [
         "maria",
@@ -3655,9 +2999,7 @@
       "enclosure_length": "63909532",
       "itunes_duration": "53:15",
       "speakers": [
-        "Ian Macmillan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Will Eaves Will Eaves"
       ],
       "topics": []
     },
@@ -3673,13 +3015,7 @@
       "enclosure_length": "66200471",
       "itunes_duration": "55:09",
       "speakers": [
-        "Chris Moyles",
-        "Johnny Vaughn",
-        "Toby Tarrant",
-        "Chris Tarrant",
-        "Michael Fenton Stevens",
-        "bill payer",
-        "John Fenton-Stevens"
+        "Toby Tarrant Toby Tarrant"
       ],
       "topics": [
         "toby",
@@ -3699,11 +3035,7 @@
       "itunes_duration": "54:51",
       "speakers": [
         "Chris Cantrill",
-        "Edinburgh Comedy Award",
-        "Harry Hill",
-        "Amy Gledhill",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Edinburgh Comedy Award"
       ],
       "topics": [
         "chris",
@@ -3722,12 +3054,7 @@
       "enclosure_length": "59253989",
       "itunes_duration": "49:22",
       "speakers": [
-        "Peter York",
-        "Ann Barr",
-        "Charles Jennings",
-        "Martin Rowson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Peter York"
       ],
       "topics": [
         "peter",
@@ -3748,12 +3075,7 @@
       "speakers": [
         "Edinburgh Best Newcomer",
         "Edinburgh Best Show Nominee",
-        "Lauren Pattison",
-        "Comedy Central",
-        "Roast Battle",
-        "Katherine Ryan",
-        "Richard Gadd",
-        "Jenny Eclair"
+        "Lauren Pattison"
       ],
       "topics": [
         "lauren",
@@ -3772,11 +3094,7 @@
       "enclosure_length": "66150316",
       "itunes_duration": "55:07",
       "speakers": [
-        "Eileen Grimshaw",
-        "Yorkshire Ripper",
-        "Mother Superior",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Eileen Grimshaw"
       ],
       "topics": [
         "cleaver"
@@ -3794,11 +3112,7 @@
       "enclosure_length": "71340324",
       "itunes_duration": "59:26",
       "speakers": [
-        "Edinburgh Comedy Award",
-        "Best Show",
-        "Best Comedy",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Edinburgh Comedy Award"
       ],
       "topics": [
         "lyons"
@@ -3816,11 +3130,7 @@
       "enclosure_length": "58050789",
       "itunes_duration": "48:22",
       "speakers": [
-        "Robin Morgan",
-        "Ellie Taylor",
-        "Snip Snip",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Robin Morgan"
       ],
       "topics": [
         "robin",
@@ -3839,11 +3149,7 @@
       "enclosure_length": "81405303",
       "itunes_duration": "1:07:50",
       "speakers": [
-        "Gary Warren",
-        "Cedric Collingford",
-        "Ginger Rogers",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Gary Warren"
       ],
       "topics": [
         "gary",
@@ -3862,11 +3168,7 @@
       "enclosure_length": "92067964",
       "itunes_duration": "1:16:43",
       "speakers": [
-        "Soho Theatre",
-        "Jane Austen",
-        "Christian Brighty",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Christian Brighty Christian Brighty"
       ],
       "topics": [
         "brighty"
@@ -3884,11 +3186,7 @@
       "enclosure_length": "67466887",
       "itunes_duration": "56:13",
       "speakers": [
-        "Chip Chapman",
-        "Lt Col",
-        "Counter Terrorism",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Chip Chapman"
       ],
       "topics": [
         "major",
@@ -3909,10 +3207,7 @@
       "enclosure_length": "57174120",
       "itunes_duration": "47:38",
       "speakers": [
-        "Suzy Perry",
-        "Jason Bradbury",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Suzy Perry"
       ],
       "topics": [
         "suzy",
@@ -3931,8 +3226,7 @@
       "enclosure_length": "49768928",
       "itunes_duration": "41:28",
       "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Anesti Danelis Anesti Danelis"
       ],
       "topics": [
         "anesti",
@@ -3951,14 +3245,7 @@
       "enclosure_length": "46688047",
       "itunes_duration": "38:54",
       "speakers": [
-        "Liam Farrelly",
-        "Runner Up",
-        "Best Newcomer",
-        "Best Breakthrough Act",
-        "Scot Squad",
-        "Michael Fenton Stevens",
-        "Follow Liam Farrelly",
-        "John Fenton-Stevens"
+        "Liam Farrelly"
       ],
       "topics": [
         "liam",
@@ -3977,9 +3264,7 @@
       "enclosure_length": "52176895",
       "itunes_duration": "43:28",
       "speakers": [
-        "Archie Henderson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Archie Henderson"
       ],
       "topics": [
         "jazz",
@@ -3999,10 +3284,7 @@
       "enclosure_length": "46250234",
       "itunes_duration": "38:32",
       "speakers": [
-        "Eric Rushton",
-        "Jason Manford",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Eric Rushton"
       ],
       "topics": [
         "eric",
@@ -4021,10 +3303,7 @@
       "enclosure_length": "60288438",
       "itunes_duration": "50:14",
       "speakers": [
-        "Humble Politician Nograj",
-        "Tell Amma",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Sumukhi Suresh Sumukhi Suresh"
       ],
       "topics": [
         "sumukhi",
@@ -4042,12 +3321,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50752700",
       "itunes_duration": "42:17",
-      "speakers": [
-        "Edinburgh Fringe",
-        "Elvis McGonagall",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "elvis",
         "mcgonagall"
@@ -4065,11 +3339,7 @@
       "enclosure_length": "49791916",
       "itunes_duration": "41:29",
       "speakers": [
-        "Mustafa Algiyadi",
-        "Michael Fenton Stevens",
-        "Mustafa Algiyadi’s Edinburgh",
-        "Follow Mustafa Algiyadi Twitter",
-        "John Fenton-Stevens"
+        "Mustafa Algiyadi"
       ],
       "topics": [
         "mustafa",
@@ -4088,11 +3358,7 @@
       "enclosure_length": "54139736",
       "itunes_duration": "45:06",
       "speakers": [
-        "Rahul Subramanian",
-        "Michael Fenton Stevens",
-        "Rahul Subramanian’s Edinburgh",
-        "Follow Rahul Subramanian",
-        "John Fenton-Stevens"
+        "Rahul Subramanian"
       ],
       "topics": [
         "rahul",
@@ -4112,13 +3378,7 @@
       "itunes_duration": "41:50",
       "speakers": [
         "Juliet Cowan",
-        "Jimmy Carr",
-        "Russell Howard",
-        "Andy Zaltzman",
-        "Amy Winehouse",
-        "Polly Arnold",
-        "Chrissie Jackson",
-        "Michael Fenton Stevens"
+        "Jimmy Car"
       ],
       "topics": [
         "juliet",
@@ -4137,14 +3397,7 @@
       "enclosure_length": "77750250",
       "itunes_duration": "1:04:47",
       "speakers": [
-        "Chelsea Birkby",
-        "James Acaster",
-        "Rachel Parris",
-        "Angela Barnes",
-        "Ed Gamble",
-        "Olga Koch",
-        "Michael Fenton Stevens",
-        "Follow Chelsea Birkby"
+        "Chelsea Birkby"
       ],
       "topics": [
         "chelsea",
@@ -4162,11 +3415,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47668683",
       "itunes_duration": "39:43",
-      "speakers": [
-        "Michael Fenton Stevens",
-        "Hunter’s Edinburgh",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "reginald",
         "hunter"
@@ -4183,13 +3432,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53492944",
       "itunes_duration": "44:34",
-      "speakers": [
-        "Alexis Gay",
-        "Michael Fenton Stevens",
-        "Alexis Gay’s Edinburgh",
-        "Follow Alexis Gay",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "alexis"
       ]
@@ -4206,9 +3449,7 @@
       "enclosure_length": "56708095",
       "itunes_duration": "47:15",
       "speakers": [
-        "Anirban Dasgupta",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Anirban Dasgupta"
       ],
       "topics": [
         "anirban",
@@ -4227,14 +3468,7 @@
       "enclosure_length": "68554626",
       "itunes_duration": "57:07",
       "speakers": [
-        "Sophie Duker",
-        "Frankie Boyle",
-        "Fringe Show",
-        "Dave Gorman’s Terms",
-        "Jonathan Ross",
-        "Comedy Club",
-        "Mel Giedroyc",
-        "Michael Fenton Stevens"
+        "Sophie Duker"
       ],
       "topics": [
         "sophie",
@@ -4253,14 +3487,7 @@
       "enclosure_length": "60835442",
       "itunes_duration": "50:41",
       "speakers": [
-        "Comedian Sara Barron",
-        "Frankie Boyle",
-        "Best Newcomer",
-        "Richard Osman",
-        "Alan Davies",
-        "Roast Battle",
-        "Sara Barron",
-        "Michael Fenton Stevens"
+        "Comedian Sara Barron"
       ],
       "topics": [
         "sara",
@@ -4279,10 +3506,7 @@
       "enclosure_length": "50961679",
       "itunes_duration": "42:27",
       "speakers": [
-        "Michelle Shaughnessy",
-        "Michael Fenton Stevens",
-        "Michelle Shaughnessy’s Edinburgh",
-        "John Fenton-Stevens"
+        "Michelle Shaughnessy"
       ],
       "topics": [
         "michelle",
@@ -4302,13 +3526,7 @@
       "itunes_duration": "1:03:19",
       "speakers": [
         "Colin Hoult",
-        "Ricky Gervais",
-        "Alan Partridge",
-        "Being Human",
-        "Anna Mann",
-        "Michael Fenton Stevens",
-        "Colin Hoult’s Edinburgh",
-        "John Fenton-Stevens"
+        "Ricky Gervais"
       ],
       "topics": [
         "colin",
@@ -4327,13 +3545,7 @@
       "enclosure_length": "63987899",
       "itunes_duration": "53:19",
       "speakers": [
-        "Garrett Millerick",
-        "Comedy Pick",
-        "Jack Dee",
-        "Meera Syal",
-        "Michael Fenton Stevens",
-        "Garrett Millerick’s Edinburgh",
-        "John Fenton-Stevens"
+        "Garrett Millerick"
       ],
       "topics": [
         "garrett",
@@ -4352,13 +3564,7 @@
       "enclosure_length": "55293304",
       "itunes_duration": "46:04",
       "speakers": [
-        "Chloe Radcliffe",
-        "Steven Soderbergh",
-        "Michael Cera",
-        "Taylor Tomlinson",
-        "Michael Fenton Stevens",
-        "Chloe Radcliffe’s Edinburgh",
-        "John Fenton-Stevens"
+        "Chloe Radcliffe"
       ],
       "topics": [
         "chloe",
@@ -4376,15 +3582,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87457875",
       "itunes_duration": "1:12:52",
-      "speakers": [
-        "Miss Scarlet",
-        "Richard Osman",
-        "Jon Richardson’s Ultimate",
-        "Jessie Cave",
-        "Michael Fenton Stevens",
-        "Jessie Cave’s Edinburgh",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "jessie",
         "cave"
@@ -4402,13 +3600,7 @@
       "enclosure_length": "54910348",
       "itunes_duration": "45:45",
       "speakers": [
-        "Steve Bugeja",
-        "Howard Hour",
-        "Russell Howard’s Stand",
-        "Zoe Ball",
-        "Michael Fenton Stevens",
-        "Steve’s Edinburgh",
-        "John Fenton-Stevens"
+        "Steve Bugeja"
       ],
       "topics": [
         "steve",
@@ -4427,9 +3619,7 @@
       "enclosure_length": "53292846",
       "itunes_duration": "44:24",
       "speakers": [
-        "Disability Extravaganza",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Spring Day"
       ],
       "topics": [
         "spring"
@@ -4447,11 +3637,7 @@
       "enclosure_length": "80456014",
       "itunes_duration": "1:07:02",
       "speakers": [
-        "Jason Manford",
-        "Sweeney Todd",
-        "Chitty Chitty Bang Bang",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jason Manford"
       ],
       "topics": [
         "jason",
@@ -4469,14 +3655,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66199426",
       "itunes_duration": "55:09",
-      "speakers": [
-        "Jo Cox",
-        "Yorkshire Scouts",
-        "Theresa May",
-        "Kim Leadbeater",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "leadbeater"
       ]
@@ -4493,14 +3672,7 @@
       "enclosure_length": "49273124",
       "itunes_duration": "41:03",
       "speakers": [
-        "Catherine McCafferty",
-        "Seth Daniel",
-        "Pretty Gay",
-        "Jenna Ortega",
-        "Michael Fenton Stevens",
-        "Catherine’s Edinburgh",
-        "Follow Catherine McCafferty",
-        "John Fenton-Stevens"
+        "Catherine McCafferty"
       ],
       "topics": [
         "catherine",
@@ -4519,14 +3691,7 @@
       "enclosure_length": "65117957",
       "itunes_duration": "54:15",
       "speakers": [
-        "Madeline Smith",
-        "Rodger Moore",
-        "Tim Brooke-Taylor",
-        "Leslie Phillips",
-        "Frankie Howerd",
-        "John Wells",
-        "John Fortune",
-        "Carl Davis"
+        "Madeline Smith"
       ],
       "topics": [
         "madeline",
@@ -4545,9 +3710,7 @@
       "enclosure_length": "65217744",
       "itunes_duration": "54:20",
       "speakers": [
-        "Milo Edwards",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Milo Edwards"
       ],
       "topics": [
         "milo",
@@ -4566,14 +3729,7 @@
       "enclosure_length": "58996422",
       "itunes_duration": "49:09",
       "speakers": [
-        "Stevie Martin",
-        "Gina Martin",
-        "Hbo Max",
-        "Tom Neenan",
-        "Howard Hour",
-        "Michael Fenton Stevens",
-        "Stevie’s Edinburgh",
-        "John Fenton-Stevens"
+        "Stevie Martin"
       ],
       "topics": [
         "stevie",
@@ -4592,9 +3748,7 @@
       "enclosure_length": "65428814",
       "itunes_duration": "54:31",
       "speakers": [
-        "Benji Waterhouse",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Benji Waterhouse"
       ],
       "topics": [
         "benji",
@@ -4613,9 +3767,7 @@
       "enclosure_length": "79609646",
       "itunes_duration": "1:06:20",
       "speakers": [
-        "James O’Brien",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "James O’Brien"
       ],
       "topics": [
         "james"
@@ -4633,10 +3785,7 @@
       "enclosure_length": "73193973",
       "itunes_duration": "1:00:59",
       "speakers": [
-        "Ali Woods",
-        "Russell Kane",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ali Woods"
       ],
       "topics": [
         "woods"
@@ -4654,11 +3803,7 @@
       "enclosure_length": "59997434",
       "itunes_duration": "49:59",
       "speakers": [
-        "Tom Baldwin",
-        "Ed Miliband",
-        "Best Seller",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Tom Baldwin"
       ],
       "topics": [
         "baldwin"
@@ -4676,14 +3821,7 @@
       "enclosure_length": "57150610",
       "itunes_duration": "47:37",
       "speakers": [
-        "Alex Kealy",
-        "Ivo Graham",
-        "Ed Gamble",
-        "Phil Wang",
-        "Lou Sanders",
-        "Tom Rosenthal",
-        "Shaparak Khorsandi",
-        "Michael Fenton Stevens"
+        "Alex Kealy"
       ],
       "topics": [
         "alex",
@@ -4702,9 +3840,7 @@
       "enclosure_length": "59422740",
       "itunes_duration": "49:30",
       "speakers": [
-        "Sonali Shah",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Sonali Shah"
       ],
       "topics": [
         "sonali",
@@ -4724,12 +3860,7 @@
       "itunes_duration": "47:04",
       "speakers": [
         "Helen Fry Dr",
-        "Helen Fry",
-        "Thomas Joseph Kendrick",
-        "David Jason’s Secret Service",
-        "Dr Helen Fry",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Helen Fry"
       ],
       "topics": [
         "helen"
@@ -4747,11 +3878,7 @@
       "enclosure_length": "75240405",
       "itunes_duration": "1:02:41",
       "speakers": [
-        "Rob Deering",
-        "Celebrity Mastermind",
-        "Paul Tonkinson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Rob Deering"
       ],
       "topics": [
         "deering"
@@ -4769,13 +3896,7 @@
       "enclosure_length": "69394724",
       "itunes_duration": "57:49",
       "speakers": [
-        "Sarah Millican",
-        "Justin Moorhouse",
-        "Gary Delaney",
-        "Moths Ate My Doctor",
-        "Toby Hadoke",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Toby Hadoke Toby Hadoke"
       ],
       "topics": [
         "toby",
@@ -4793,15 +3914,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59866299",
       "itunes_duration": "49:53",
-      "speakers": [
-        "Margaret Blaine",
-        "Mrs Glenna Fitzgibbons",
-        "Babe Smith",
-        "Fleur Perkins",
-        "Annette Badland",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "annette",
         "badland"
@@ -4819,11 +3932,7 @@
       "enclosure_length": "57749336",
       "itunes_duration": "48:07",
       "speakers": [
-        "Paul Hendy",
-        "Davina McCall",
-        "Emily Wood",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Paul Hendy"
       ],
       "topics": [
         "paul",
@@ -4842,14 +3951,7 @@
       "enclosure_length": "57808895",
       "itunes_duration": "48:10",
       "speakers": [
-        "Michelle Brasier",
-        "Koala Man",
-        "Hugh Jackman",
-        "Sarah Snook",
-        "Shaun Micallef",
-        "Aunty Donna",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Michelle Brasier"
       ],
       "topics": [
         "michelle",
@@ -4868,13 +3970,7 @@
       "enclosure_length": "65532259",
       "itunes_duration": "54:36",
       "speakers": [
-        "Sam Lake",
-        "Hastings Fringe Newcomer",
-        "Tom Allen",
-        "Edinburgh Fringe",
-        "Michael Fenton Stevens",
-        "Follow Sam Lake",
-        "John Fenton-Stevens"
+        "Sam Lake"
       ],
       "topics": [
         "lake"
@@ -4892,10 +3988,7 @@
       "enclosure_length": "56542479",
       "itunes_duration": "47:06",
       "speakers": [
-        "Ainsley Harriott",
-        "Michael Fenton Stevens",
-        "Follow Ainsley Harriott",
-        "John Fenton-Stevens"
+        "Ainsley Harriott"
       ],
       "topics": [
         "ainsley",
@@ -4914,9 +4007,7 @@
       "enclosure_length": "81785124",
       "itunes_duration": "1:08:09",
       "speakers": [
-        "Stephen Fry",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Stephen Fry"
       ],
       "topics": [
         "stephen",
@@ -4935,11 +4026,7 @@
       "enclosure_length": "63267965",
       "itunes_duration": "52:43",
       "speakers": [
-        "Jamie Oliver",
-        "Stirring Slowly",
-        "Georgina Hayden",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Georgina Hayden Georgina Hayden"
       ],
       "topics": [
         "georgina",
@@ -4958,13 +4045,7 @@
       "enclosure_length": "59047099",
       "itunes_duration": "49:12",
       "speakers": [
-        "Carol Drinkwater",
-        "Helen Herriot",
-        "Laurence Olivier",
-        "Hugh Grant",
-        "Alan Rickman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Carol Drinkwater"
       ],
       "topics": [
         "carol",
@@ -4983,12 +4064,7 @@
       "enclosure_length": "56769744",
       "itunes_duration": "47:18",
       "speakers": [
-        "Chris Lintott",
-        "Patrick Moore",
-        "Brian May",
-        "Michael Fenton Stevens",
-        "Twitter chrislintott",
-        "John Fenton-Stevens"
+        "Chris Lintott"
       ],
       "topics": [
         "professor",
@@ -5009,12 +4085,7 @@
       "itunes_duration": "52:10",
       "speakers": [
         "Nick Newman",
-        "Ian Hislop",
-        "Most Horrid",
-        "Tim Nice-But-Dim",
-        "Burt Reynolds",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ian Hislop"
       ],
       "topics": [
         "nick",
@@ -5034,12 +4105,7 @@
       "itunes_duration": "48:08",
       "speakers": [
         "Comedian Simon Brodkin",
-        "Lee Nelson",
-        "Teressa May",
-        "Hammersmith Apollo",
-        "Simon Brodkin",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Lee Nelson"
       ],
       "topics": [
         "simon",
@@ -5058,11 +4124,7 @@
       "enclosure_length": "53184700",
       "itunes_duration": "44:19",
       "speakers": [
-        "Ann Bryson Ann Bryson",
-        "Sara Crowe",
-        "Ann Bryson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ann Bryson Ann Bryson"
       ],
       "topics": [
         "bryson"
@@ -5080,11 +4142,7 @@
       "enclosure_length": "54556651",
       "itunes_duration": "45:27",
       "speakers": [
-        "Maisie Adam",
-        "Best Newcomer",
-        "Suzi Ruffell",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Maisie Adam"
       ],
       "topics": [
         "maisie",
@@ -5104,12 +4162,7 @@
       "itunes_duration": "51:17",
       "speakers": [
         "Luke Kempner",
-        "Monsieur Thenardier",
-        "Harry Styles",
-        "Ed Sheeran",
-        "Jurgen Klopp",
-        "Steph’s Packed Lunch",
-        "Luke Kempner’s Impression"
+        "Monsieur Thenardier"
       ],
       "topics": [
         "luke",
@@ -5128,9 +4181,7 @@
       "enclosure_length": "67007654",
       "itunes_duration": "55:50",
       "speakers": [
-        "Richard Talman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Richard Talman"
       ],
       "topics": [
         "richard",
@@ -5149,14 +4200,7 @@
       "enclosure_length": "48363018",
       "itunes_duration": "40:17",
       "speakers": [
-        "Liam Withnail",
-        "Socially Distant",
-        "Susan Calman",
-        "Scot Squad",
-        "Edinburgh Fringe",
-        "Michael Fenton Stevens",
-        "Follow Liam Withnail",
-        "John Fenton-Stevens"
+        "Liam Withnail"
       ],
       "topics": [
         "liam",
@@ -5175,11 +4219,7 @@
       "enclosure_length": "69628781",
       "itunes_duration": "58:01",
       "speakers": [
-        "Tom Shakespeare Cbe",
-        "Tom Shakespeare",
-        "Michael Fenton Stevens",
-        "Twitter TommyShakes",
-        "John Fenton-Stevens"
+        "Tom Shakespeare Cbe"
       ],
       "topics": [
         "shakespeare"
@@ -5197,11 +4237,7 @@
       "enclosure_length": "72837663",
       "itunes_duration": "1:00:41",
       "speakers": [
-        "Sophie Scott",
-        "Monkey Cage",
-        "Jimmy Carr",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Sophie Scott"
       ],
       "topics": [
         "professor",
@@ -5221,12 +4257,7 @@
       "enclosure_length": "71975622",
       "itunes_duration": "59:58",
       "speakers": [
-        "Jon Holmes",
-        "Virgin Radio",
-        "Dead Ringers",
-        "Armando Iannucci",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jon Holmes"
       ],
       "topics": [
         "holmes"
@@ -5243,15 +4274,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71113581",
       "itunes_duration": "59:15",
-      "speakers": [
-        "Anakin Skywalker",
-        "Steve Wright",
-        "Jeremy Vine",
-        "Paul McCartney",
-        "Draco Malfoy",
-        "Albus Dumbledore",
-        "Fred Weasley"
-      ],
+      "speakers": [],
       "topics": [
         "lewis",
         "macleod"
@@ -5269,10 +4292,7 @@
       "enclosure_length": "73313614",
       "itunes_duration": "1:01:05",
       "speakers": [
-        "Jess Conrad",
-        "Jack Goode",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jess Conrad"
       ],
       "topics": [
         "jess",
@@ -5291,14 +4311,7 @@
       "enclosure_length": "71595279",
       "itunes_duration": "59:39",
       "speakers": [
-        "Harry Hill",
-        "Roast Battle",
-        "Jools Holland",
-        "Jonathan Ross",
-        "Comedy Club",
-        "Phil Wang",
-        "Joe Lycett",
-        "Nick Helm"
+        "Huge Davies Comedian Huge"
       ],
       "topics": [
         "davy"
@@ -5316,14 +4329,7 @@
       "enclosure_length": "89272862",
       "itunes_duration": "1:14:23",
       "speakers": [
-        "Homeschool History",
-        "Rotten Romans",
-        "Corpse Talk",
-        "Phil Ellis",
-        "Michael Fenton Stevens",
-        "Greg Jenner",
-        "Follow Greg Jenner",
-        "John Fenton-Stevens"
+        "Greg Jenner Greg Jenner"
       ],
       "topics": [
         "greg",
@@ -5342,14 +4348,7 @@
       "enclosure_length": "58257679",
       "itunes_duration": "48:32",
       "speakers": [
-        "Phil Ellis",
-        "Amy Gledhill",
-        "Alexei Sayle",
-        "Sindhu Vee",
-        "Jack Dee",
-        "Lee Mack",
-        "Mark Lamarr",
-        "Sean Lock"
+        "Phil Ellis"
       ],
       "topics": [
         "phil",
@@ -5368,12 +4367,7 @@
       "enclosure_length": "67680569",
       "itunes_duration": "56:23",
       "speakers": [
-        "Alice Roberts",
-        "Royal Autopsy",
-        "Sky History",
-        "Michael Fenton Stevens",
-        "Instagram prof alice roberts",
-        "John Fenton-Stevens"
+        "Alice Roberts"
       ],
       "topics": [
         "professor",
@@ -5394,13 +4388,7 @@
       "itunes_duration": "46:29",
       "speakers": [
         "Njambi McGrath",
-        "Becoming Njambi",
-        "Comedy Central",
-        "Front Row",
-        "Jason Manford",
-        "Michael Fenton Stevens",
-        "Instagram NjambiMcgrath",
-        "John Fenton-Stevens"
+        "Becoming Njambi"
       ],
       "topics": [
         "njambi",
@@ -5419,13 +4407,7 @@
       "enclosure_length": "58189238",
       "itunes_duration": "48:29",
       "speakers": [
-        "Chloe Petts",
-        "Richard Osman",
-        "Jonathan Ross",
-        "Dave’s Hypothetical",
-        "Michael Fenton Stevens",
-        "Follow Chloe Petts",
-        "John Fenton-Stevens"
+        "Chloe Petts"
       ],
       "topics": [
         "chloe",
@@ -5444,14 +4426,7 @@
       "enclosure_length": "52916683",
       "itunes_duration": "44:05",
       "speakers": [
-        "Esther Manito",
-        "Russell Kane",
-        "Alan Davies",
-        "Shappi Khorsandi",
-        "Sindhu Vee",
-        "Jason Mansford",
-        "Jo Brand",
-        "Al Murray"
+        "Esther Manito"
       ],
       "topics": [
         "esther",
@@ -5470,8 +4445,7 @@
       "enclosure_length": "60842757",
       "itunes_duration": "50:41",
       "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Daliso Chaponda Daliso Chaponda"
       ],
       "topics": [
         "daliso",
@@ -5490,14 +4464,7 @@
       "enclosure_length": "61217875",
       "itunes_duration": "51:00",
       "speakers": [
-        "Ed Patrick Ed Patrick",
-        "Charlie Brooker",
-        "Sindhu Vee",
-        "Joe Lycett",
-        "Rose Matafeo",
-        "Matt Lucas",
-        "Jay Rayner",
-        "Phil Hammond"
+        "Ed Patrick Ed Patrick"
       ],
       "topics": [
         "patrick"
@@ -5515,14 +4482,7 @@
       "enclosure_length": "86914005",
       "itunes_duration": "1:12:25",
       "speakers": [
-        "George Monbiot George Monbiot",
-        "Greta Thunberg",
-        "Nelson Mandela",
-        "Peter Kent",
-        "George Monbiot",
-        "Michael Fenton Stevens",
-        "George’s books",
-        "John Fenton-Stevens"
+        "George Monbiot George Monbiot"
       ],
       "topics": [
         "george",
@@ -5541,10 +4501,7 @@
       "enclosure_length": "58287981",
       "itunes_duration": "48:34",
       "speakers": [
-        "Larry Dann",
-        "Joan Littlewood",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Larry Dann"
       ],
       "topics": [
         "larry",
@@ -5563,13 +4520,7 @@
       "enclosure_length": "61142642",
       "itunes_duration": "50:56",
       "speakers": [
-        "Ashley Blaker",
-        "Brendan Murphy",
-        "Rosie Holt",
-        "Michael Fenton Stevens",
-        "Follow Rosie Holt",
-        "Instagram RosieisaHolt",
-        "John Fenton-Stevens"
+        "Rosie Holt Rosie Holt"
       ],
       "topics": [
         "rosie",
@@ -5588,11 +4539,7 @@
       "enclosure_length": "51429793",
       "itunes_duration": "42:51",
       "speakers": [
-        "Ricky Sim Ricky Sim",
-        "Laughter Lab",
-        "Ricky Sim",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ricky Sim Ricky Sim"
       ],
       "topics": [
         "ricky"
@@ -5610,14 +4557,7 @@
       "enclosure_length": "47258561",
       "itunes_duration": "39:22",
       "speakers": [
-        "Harriet Kemsley",
-        "Bobby Mair",
-        "Harriet Crying",
-        "Sunil Patel",
-        "Michael Fenton Stevens",
-        "Follow Harriet Kemsley",
-        "Instagram harrietkemsley",
-        "John Fenton-Stevens"
+        "Harriet Kemsley"
       ],
       "topics": [
         "harriet",
@@ -5636,11 +4576,7 @@
       "enclosure_length": "65396422",
       "itunes_duration": "54:29",
       "speakers": [
-        "Rob Auton",
-        "Rob Delaney",
-        "Harper Collins",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Rob Auton"
       ],
       "topics": [
         "auton"
@@ -5659,13 +4595,7 @@
       "itunes_duration": "55:45",
       "speakers": [
         "Robin Askwith",
-        "Timothy Lea",
-        "Lindsey Anderson",
-        "Sue Holderness",
-        "Sally Lindsay",
-        "Steve Edge",
-        "Michael Fenton Stevens",
-        "Twitter Robin Askwith"
+        "Timothy Lea"
       ],
       "topics": [
         "robin",
@@ -5684,14 +4614,7 @@
       "enclosure_length": "51495100",
       "itunes_duration": "42:54",
       "speakers": [
-        "Peter Kay",
-        "Lee Mack",
-        "Sarah Millican",
-        "Stephen Fry",
-        "David Mitchell",
-        "David Tennant",
-        "Finlay Christie",
-        "Michael Fenton Stevens"
+        "Finlay Christie"
       ],
       "topics": [
         "finlay",
@@ -5710,9 +4633,7 @@
       "enclosure_length": "72816242",
       "itunes_duration": "1:00:40",
       "speakers": [
-        "Iain Stirling",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Iain Stirling"
       ],
       "topics": [
         "iain",
@@ -5733,12 +4654,7 @@
       "speakers": [
         "Tony Robinson",
         "Ted Robbins",
-        "Neil Delamere",
-        "Jim Sweeny",
-        "Samira Ahmed",
-        "Roger Black",
-        "Robert Popper",
-        "Jon Harvey"
+        "Neil Delam"
       ],
       "topics": []
     },
@@ -5757,11 +4673,7 @@
         "Bridget Christie",
         "David Earl",
         "Doug Alan",
-        "Jim Howick",
-        "Lindsey Santoro",
-        "Mathew Crosby",
-        "Catherine Tydesley",
-        "Daniel Foxx"
+        "Jim Howic"
       ],
       "topics": []
     },
@@ -5779,12 +4691,7 @@
       "speakers": [
         "Dave Gorman",
         "Jon Ronson",
-        "Cliff Parasi",
-        "Deirdre O'Kane",
-        "Hywel Roberts",
-        "David Morrissey",
-        "Iain Lee",
-        "Fiona Allen"
+        "Cliff Parasi"
       ],
       "topics": []
     },
@@ -5800,8 +4707,8 @@
       "enclosure_length": "72269761",
       "itunes_duration": "1:00:13",
       "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "My Time Capsule Christmas",
+        "Christmas Party"
       ],
       "topics": [
         "time",
@@ -5822,8 +4729,7 @@
       "enclosure_length": "228909890",
       "itunes_duration": "3:10:45",
       "speakers": [
-        "Charles Dickens",
-        "Michael Fenton Stevens"
+        "Charles Dickens"
       ],
       "topics": [
         "christmas",
@@ -5847,10 +4753,7 @@
         "Joe Wilkinson",
         "Jim Howick",
         "Rosie Holt",
-        "Tom Read-Wilson",
-        "Hywel Roberts",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Tom Read-Wilson"
       ],
       "topics": [
         "christmas",
@@ -5873,11 +4776,7 @@
         "Dave Gorman",
         "Jacqui Oatley",
         "Alasdair Beckett-King",
-        "Ted Robbins",
-        "Turi King",
-        "John Fenton-Stevens",
-        "Rich Wilson",
-        "Michael Fenton Stevens"
+        "Ted Rob"
       ],
       "topics": [
         "christmas",
@@ -5899,12 +4798,7 @@
       "speakers": [
         "Alex Horne",
         "Jon Harvey",
-        "Lindsay Santoro",
-        "Iain Lee",
-        "Gabrielle Glaister",
-        "Matthew Crosby",
-        "Simon Parkin",
-        "Paul Clayton"
+        "Lindsay Santoro"
       ],
       "topics": [
         "christmas",
@@ -5925,13 +4819,7 @@
       "itunes_duration": "48:46",
       "speakers": [
         "Best Show",
-        "Ian Smith",
-        "Girl Stuck",
-        "Edinburgh Fringe",
-        "Amy Gledhill",
-        "Edinburgh Comedy Award Nominated",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ian Smith"
       ],
       "topics": [
         "smith"
@@ -5949,10 +4837,7 @@
       "enclosure_length": "80556846",
       "itunes_duration": "1:07:07",
       "speakers": [
-        "Lemn Sissay",
-        "Michael Fenton Stevens",
-        "Follow Lemn Sissay",
-        "John Fenton-Stevens"
+        "Lemn Sissay Lemn Sissay"
       ],
       "topics": [
         "lemn",
@@ -5972,13 +4857,7 @@
       "itunes_duration": "50:45",
       "speakers": [
         "Edinburgh Comedy Award",
-        "Glenn Moore",
-        "Howard Hour",
-        "Rob Delaney",
-        "Glenny More",
-        "Michael Fenton Stevens",
-        "Alex Horne",
-        "John Fenton-Stevens"
+        "Glenn Moore"
       ],
       "topics": [
         "glenn",
@@ -5997,10 +4876,7 @@
       "enclosure_length": "66385940",
       "itunes_duration": "55:19",
       "speakers": [
-        "Alex Horne",
-        "Alex Horne Presents",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Alex Horne"
       ],
       "topics": [
         "alex",
@@ -6019,14 +4895,7 @@
       "enclosure_length": "71230087",
       "itunes_duration": "59:21",
       "speakers": [
-        "Dave Cohen",
-        "Richie Webb",
-        "David Quantick",
-        "Mike Myers",
-        "Paul Merton",
-        "Al Murray",
-        "Jim Tavare",
-        "Mike Cosgrave"
+        "Dave Cohen"
       ],
       "topics": [
         "dave",
@@ -6045,13 +4914,7 @@
       "enclosure_length": "68849287",
       "itunes_duration": "57:22",
       "speakers": [
-        "Edinburgh Fringe",
-        "Sarah Millican",
-        "Russell Kane",
-        "Milton Jones",
-        "Alfie Moore",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Alfie Moore Alfie Moore"
       ],
       "topics": [
         "alfie",
@@ -6070,14 +4933,7 @@
       "enclosure_length": "71244716",
       "itunes_duration": "59:22",
       "speakers": [
-        "Rich Wilson",
-        "Rachael Wells",
-        "James Acaster",
-        "Scroobius Pip",
-        "Heston Blumenthal",
-        "Tom Allen",
-        "David Baddiel",
-        "Simon Evans"
+        "Rich Wilson"
       ],
       "topics": [
         "rich",
@@ -6096,11 +4952,7 @@
       "enclosure_length": "52907802",
       "itunes_duration": "44:05",
       "speakers": [
-        "Kiell Smith-Bynoe",
-        "Lily Allen",
-        "Richard Osman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Kiell Smith-Bynoe"
       ],
       "topics": [
         "kiell",
@@ -6120,10 +4972,7 @@
       "enclosure_length": "58457777",
       "itunes_duration": "48:42",
       "speakers": [
-        "Simon Parkin",
-        "Andi Peters",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Simon Parkin"
       ],
       "topics": [
         "simon",
@@ -6142,12 +4991,7 @@
       "enclosure_length": "59541859",
       "itunes_duration": "49:36",
       "speakers": [
-        "Samira Ahmed Samira Ahmed",
-        "Celebrity Mastermind",
-        "Samira Ahmed",
-        "Michael Fenton Stevens",
-        "Follow Samira Ahmed",
-        "John Fenton-Stevens"
+        "Samira Ahmed Samira Ahmed"
       ],
       "topics": [
         "samira",
@@ -6166,10 +5010,7 @@
       "enclosure_length": "56744144",
       "itunes_duration": "47:17",
       "speakers": [
-        "Natasha Hodgson",
-        "Mel Brooks",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Natasha Hodgson"
       ],
       "topics": [
         "natasha",
@@ -6188,14 +5029,7 @@
       "enclosure_length": "95831687",
       "itunes_duration": "1:19:51",
       "speakers": [
-        "Barry Cryer",
-        "Victoria Wood’s Christmas Special",
-        "Tom Hardy",
-        "Jonah Hill",
-        "Seth Rogen",
-        "Maid Marion",
-        "Bob Cryer",
-        "Michael Fenton Stevens"
+        "Barry Cryer"
       ],
       "topics": [
         "cryer"
@@ -6213,10 +5047,7 @@
       "enclosure_length": "67443377",
       "itunes_duration": "56:11",
       "speakers": [
-        "Ian Lawman",
-        "Michael Fenton Stevens",
-        "Follow Ian Lawman",
-        "John Fenton-Stevens"
+        "Ian Lawman"
       ],
       "topics": [
         "lawman"
@@ -6234,10 +5065,7 @@
       "enclosure_length": "66826365",
       "itunes_duration": "55:41",
       "speakers": [
-        "Laurence Rickard",
-        "Kylie Minogue",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Laurence Rickard"
       ],
       "topics": [
         "laurence",
@@ -6256,11 +5084,7 @@
       "enclosure_length": "66966381",
       "itunes_duration": "55:48",
       "speakers": [
-        "Sophie Grigson",
-        "Evening Standard",
-        "Michael Fenton Stevens",
-        "Follow Sophie Grigson",
-        "John Fenton-Stevens"
+        "Sophie Grigson"
       ],
       "topics": [
         "sophie",
@@ -6279,8 +5103,7 @@
       "enclosure_length": "71301140",
       "itunes_duration": "59:24",
       "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Aled Jones Aled Jones"
       ],
       "topics": [
         "aled",
@@ -6299,14 +5122,7 @@
       "enclosure_length": "66551557",
       "itunes_duration": "55:27",
       "speakers": [
-        "Fiona Allen",
-        "Doon Mackichan",
-        "Sally Phillips",
-        "Paul Whitehouse",
-        "Waterloo Road",
-        "Michaela Turnbull",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Fiona Allen"
       ],
       "topics": [
         "fiona",
@@ -6325,9 +5141,7 @@
       "enclosure_length": "69629826",
       "itunes_duration": "58:01",
       "speakers": [
-        "Jacqui Oatley",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jacqui Oatley Jacqui Oatley"
       ],
       "topics": [
         "jacqui",
@@ -6346,14 +5160,7 @@
       "enclosure_length": "60525630",
       "itunes_duration": "50:26",
       "speakers": [
-        "Linda John-Pierre",
-        "Sweet Soul Music",
-        "Aretha Franklin",
-        "Sadie Fagin",
-        "Idris Elba",
-        "Gerard Butler",
-        "Morgan Freeman",
-        "Beautiful People"
+        "Linda John-Pierre"
       ],
       "topics": [
         "linda",
@@ -6373,11 +5180,7 @@
       "enclosure_length": "64555279",
       "itunes_duration": "53:47",
       "speakers": [
-        "Best Newcomer",
-        "Frankie Boyle",
-        "Alan Davies",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Best Newcomer"
       ],
       "topics": [
         "dane",
@@ -6397,13 +5200,7 @@
       "itunes_duration": "59:23",
       "speakers": [
         "David Barry",
-        "Frankie Abbott",
-        "John Alderton",
-        "Derek Guyler",
-        "John Edmond",
-        "Bob Larbey",
-        "Michael Fenton Stevens",
-        "Emma Joliffe Pigeonhole"
+        "Frankie Abbott"
       ],
       "topics": [
         "david",
@@ -6422,12 +5219,7 @@
       "enclosure_length": "55855459",
       "itunes_duration": "46:32",
       "speakers": [
-        "Robert Popper",
-        "Peter Serafinowicz",
-        "Jamie Demetriou",
-        "Robin Cooper",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Robert Popper"
       ],
       "topics": [
         "robert",
@@ -6445,11 +5237,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85632438",
       "itunes_duration": "1:11:21",
-      "speakers": [
-        "Remi Adekoya",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "remi",
         "adekoya"
@@ -6467,11 +5255,7 @@
       "enclosure_length": "65692650",
       "itunes_duration": "54:44",
       "speakers": [
-        "Roger Black",
-        "Bronze Olympic",
-        "Michael Johnson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Roger Black"
       ],
       "topics": [
         "roger",
@@ -6490,13 +5274,7 @@
       "enclosure_length": "71887850",
       "itunes_duration": "59:54",
       "speakers": [
-        "Nooruddean Choudry",
-        "Inshallah United",
-        "Manchester United fan",
-        "Hywel Roberts",
-        "Michael Fenton Stevens",
-        "Follow Nooruddean Choudry",
-        "John Fenton-Stevens"
+        "Nooruddean Choudry"
       ],
       "topics": [
         "nooruddean",
@@ -6515,12 +5293,7 @@
       "enclosure_length": "57567524",
       "itunes_duration": "47:58",
       "speakers": [
-        "Lizzie Webb",
-        "Jane Fonda",
-        "Joggy Bear",
-        "Michael Fenton Stevens",
-        "Buy Lizzie",
-        "John Fenton-Stevens"
+        "Lizzie Webb"
       ],
       "topics": [
         "lizzie",
@@ -6539,10 +5312,7 @@
       "enclosure_length": "82551556",
       "itunes_duration": "1:08:47",
       "speakers": [
-        "Hywel Roberts",
-        "Learn Accidentally",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Hywel Roberts"
       ],
       "topics": [
         "hywel",
@@ -6562,12 +5332,7 @@
       "itunes_duration": "1:16:49",
       "speakers": [
         "Jon Harvey",
-        "John Oliver",
-        "Comic Relief",
-        "Steph McGovern",
-        "Joseph Morpurgo",
-        "Rob Newman",
-        "Michael Fenton Stevens"
+        "Teresa Ma"
       ],
       "topics": [
         "harvey",
@@ -6588,13 +5353,7 @@
       "itunes_duration": "1:10:13",
       "speakers": [
         "George Layton",
-        "Paul Collier",
-        "Jonathan Lynn",
-        "Nigel Havers",
-        "Tony Britton",
-        "Geoffrey Palmer",
-        "Penelope Keith",
-        "Michael Fenton Stevens"
+        "Paul Collier"
       ],
       "topics": [
         "george",
@@ -6613,12 +5372,8 @@
       "enclosure_length": "68084422",
       "itunes_duration": "56:44",
       "speakers": [
-        "Leicester Mercury",
-        "Alasdair Beckett-King",
-        "Michael Fenton Stevens",
-        "Cab Calloway St",
-        "Follow Alasdair Beckett-King",
-        "John Fenton-Stevens"
+        "Alasdair Beckett",
+        "King Alasdair Beckett"
       ],
       "topics": [
         "alasdair",
@@ -6638,8 +5393,7 @@
       "enclosure_length": "34228161",
       "itunes_duration": "28:31",
       "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "My Time Capsule"
       ],
       "topics": [
         "debrief",
@@ -6658,14 +5412,7 @@
       "enclosure_length": "51657581",
       "itunes_duration": "43:02",
       "speakers": [
-        "Lou Sanders",
-        "Mel Giedroyc",
-        "Russell Howard",
-        "Aisling Bea",
-        "Karl Pilkington",
-        "Michael Fenton Stevens",
-        "Follow Lou Sanders",
-        "John Fenton-Stevens"
+        "Lou Sanders"
       ],
       "topics": [
         "sanders"
@@ -6683,11 +5430,7 @@
       "enclosure_length": "61098234",
       "itunes_duration": "50:54",
       "speakers": [
-        "Rosie Wilby Rosie Wilby",
-        "Rosie Wilby",
-        "Michael Fenton Stevens",
-        "Follow Rosie Wilby",
-        "John Fenton-Stevens"
+        "Rosie Wilby Rosie Wilby"
       ],
       "topics": [
         "rosie",
@@ -6707,8 +5450,7 @@
       "itunes_duration": "56:24",
       "speakers": [
         "Doug Allan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Frozen Planet"
       ],
       "topics": [
         "doug",
@@ -6727,12 +5469,7 @@
       "enclosure_length": "59790544",
       "itunes_duration": "49:49",
       "speakers": [
-        "Louise Young",
-        "Jason Manford",
-        "Alan Carr",
-        "Michael Fenton Stevens",
-        "Instagram louiseyoungcomedy",
-        "John Fenton-Stevens"
+        "Louise Young"
       ],
       "topics": [
         "louise",
@@ -6751,13 +5488,7 @@
       "enclosure_length": "81027573",
       "itunes_duration": "1:07:31",
       "speakers": [
-        "Neil Mullarkey",
-        "Comedy Store",
-        "Mike Myers",
-        "Austin Powers",
-        "Edie Izard",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Neil Mullarkey"
       ],
       "topics": [
         "neil",
@@ -6776,11 +5507,7 @@
       "enclosure_length": "65407916",
       "itunes_duration": "54:30",
       "speakers": [
-        "Daniel Foxx",
-        "Sofie Hagen",
-        "Graham Norton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Daniel Foxx"
       ],
       "topics": [
         "daniel",
@@ -6799,11 +5526,7 @@
       "enclosure_length": "63146757",
       "itunes_duration": "52:37",
       "speakers": [
-        "Pierre Novellie",
-        "Phil Wang",
-        "Quiet Ones",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Pierre Novellie"
       ],
       "topics": [
         "pierre",
@@ -6821,16 +5544,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71222773",
       "itunes_duration": "59:20",
-      "speakers": [
-        "Top Secret Comedy Club",
-        "Ivo Graham",
-        "Barry Castagnola",
-        "Mark Steel",
-        "Elliot Steel",
-        "Michael Fenton Stevens",
-        "Follow Elliot Steel",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "elliot",
         "steel"
@@ -6848,12 +5562,7 @@
       "enclosure_length": "79134740",
       "itunes_duration": "1:05:56",
       "speakers": [
-        "Turi King",
-        "Richard Iii",
-        "Stacey Dooley",
-        "Patricia Cornwell",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Turi King"
       ],
       "topics": [
         "professor",
@@ -6873,11 +5582,7 @@
       "enclosure_length": "63040699",
       "itunes_duration": "52:31",
       "speakers": [
-        "James Acaster",
-        "Turtle Canyon Comedy",
-        "Stuart Laws",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "James Acaster"
       ],
       "topics": [
         "stuart",
@@ -6897,10 +5602,7 @@
       "itunes_duration": "1:07:16",
       "speakers": [
         "Joe Wells",
-        "Frankie Boyle",
-        "Alexei Sayle",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Frankie Boyle"
       ],
       "topics": [
         "wells"
@@ -6919,13 +5621,7 @@
       "itunes_duration": "52:44",
       "speakers": [
         "Lindsey Santoro",
-        "Joe Lycett",
-        "Leicester Square New Comedian",
-        "Sarah Millican",
-        "Russell Kane",
-        "Pink Tinge",
-        "Edinburgh Fringe",
-        "Michael Fenton Stevens"
+        "Joe Lycett"
       ],
       "topics": [
         "lindsey",
@@ -6944,13 +5640,7 @@
       "enclosure_length": "73603573",
       "itunes_duration": "1:01:19",
       "speakers": [
-        "Ashley Blaker",
-        "Matt Lucas",
-        "David Walliams",
-        "David Rock Profile",
-        "Normal Scmormal",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Ashley Blaker"
       ],
       "topics": [
         "ashley",
@@ -6969,14 +5659,7 @@
       "enclosure_length": "73802103",
       "itunes_duration": "1:01:29",
       "speakers": [
-        "Laura Lexx",
-        "Celebrity Mastermind",
-        "Richard Herring",
-        "Square Theatre",
-        "Sarah Millican’s Standard",
-        "Will Dugan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Laura Lexx"
       ],
       "topics": [
         "laura",
@@ -6995,13 +5678,7 @@
       "enclosure_length": "64890169",
       "itunes_duration": "54:04",
       "speakers": [
-        "Jim Howick",
-        "William Shakespeare",
-        "Danny Boyle",
-        "Aaron Mayford",
-        "Bridget Christie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jim Howick"
       ],
       "topics": [
         "howick"
@@ -7019,8 +5696,7 @@
       "enclosure_length": "85903067",
       "itunes_duration": "1:11:34",
       "speakers": [
-        "John Fenton-Stevens",
-        "Michael Fenton Stevens"
+        "John Fenton-Stevens"
       ],
       "topics": [
         "john",
@@ -7041,9 +5717,7 @@
       "itunes_duration": "1:00:28",
       "speakers": [
         "Dave Gorman",
-        "Michael Fenton Stevens",
-        "Follow Dave Gorman",
-        "John Fenton-Stevens"
+        "Kite Festival"
       ],
       "topics": [
         "dave",
@@ -7064,13 +5738,8 @@
       "enclosure_length": "64445565",
       "itunes_duration": "53:42",
       "speakers": [
-        "Harry Hill",
-        "Kevin Eldon",
-        "Bridget Christie",
-        "Bridget Christie’s Utopia",
-        "John Lloyd",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Bridget Christie Bridget Christie",
+        "Edinburgh Comedy Award"
       ],
       "topics": [
         "bridget",
@@ -7089,14 +5758,7 @@
       "enclosure_length": "68650234",
       "itunes_duration": "57:12",
       "speakers": [
-        "Boy George",
-        "Brendan Coyle",
-        "Stephen Bradley",
-        "Debra Moone",
-        "Moone Boy",
-        "Peter McDonald",
-        "Chris O'Dowd",
-        "Comic Relief"
+        "Kane Deirdre"
       ],
       "topics": [
         "deirdre"
@@ -7114,14 +5776,7 @@
       "enclosure_length": "68440210",
       "itunes_duration": "57:01",
       "speakers": [
-        "Amy Gledhill",
-        "Alan Davies",
-        "Richard Ayoade",
-        "Harry Hill",
-        "Somewhere Boy",
-        "Michael Fenton Stevens",
-        "uk Amy",
-        "John Fenton-Stevens"
+        "Amy Gledhill"
       ],
       "topics": [
         "gledhill"
@@ -7140,13 +5795,7 @@
       "itunes_duration": "56:30",
       "speakers": [
         "Paul Clayton",
-        "Olivia Colman",
-        "David Mitchell",
-        "Robert Webb",
-        "Sarah Solimani",
-        "Kerry Howard",
-        "Joe Wilkinson",
-        "Danny Boy"
+        "Olivia Colman"
       ],
       "topics": [
         "paul",
@@ -7165,14 +5814,7 @@
       "enclosure_length": "65032797",
       "itunes_duration": "54:11",
       "speakers": [
-        "Jake Lambert Jake Lambert",
-        "Michael McIntyre",
-        "Jack Dee",
-        "Seann Walsh",
-        "Kerry Godliman",
-        "Tom Allen",
-        "Rob Beckett",
-        "Bake Off"
+        "Jake Lambert Jake Lambert"
       ],
       "topics": [
         "jake",
@@ -7191,14 +5833,7 @@
       "enclosure_length": "93312960",
       "itunes_duration": "1:17:45",
       "speakers": [
-        "Stuart Goldsmith",
-        "Jimmy Carr",
-        "James Acaster",
-        "Stewart Lee",
-        "Sarah Millican",
-        "Sindhu Vee",
-        "Russell Howard",
-        "Alan Davies"
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stuart",
@@ -7217,10 +5852,7 @@
       "enclosure_length": "66535361",
       "itunes_duration": "55:26",
       "speakers": [
-        "Lana Del Rey",
-        "Chris Martin",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Billboard Cl"
       ],
       "topics": [
         "riopy"
@@ -7237,16 +5869,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58847002",
       "itunes_duration": "49:02",
-      "speakers": [
-        "Sanjeev Bhaskar",
-        "Meera Syal",
-        "Kulvinder Ghir",
-        "Zainab Massood",
-        "Citizen Khan",
-        "Nitin Ganatra",
-        "Nina Wadia",
-        "Michael Fenton Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "nina",
         "wadia"
@@ -7264,14 +5887,7 @@
       "enclosure_length": "70557695",
       "itunes_duration": "58:47",
       "speakers": [
-        "Anita Harris",
-        "Dusty Springfield",
-        "David Nixon",
-        "Cabaret Performer",
-        "Bobby Crush",
-        "Bernie Clifton",
-        "Tommy Canon",
-        "Billy Pearce"
+        "Anita Harris"
       ],
       "topics": [
         "anita",
@@ -7290,9 +5906,7 @@
       "enclosure_length": "66621565",
       "itunes_duration": "55:30",
       "speakers": [
-        "Richard Osman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Cally Beaton Cally Beaton"
       ],
       "topics": [
         "beaton"
@@ -7310,10 +5924,7 @@
       "enclosure_length": "64063132",
       "itunes_duration": "53:22",
       "speakers": [
-        "Sam Teskey",
-        "Half Mile Harvest",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Sam Teskey"
       ],
       "topics": [
         "teskey",
@@ -7332,14 +5943,7 @@
       "enclosure_length": "62197989",
       "itunes_duration": "51:49",
       "speakers": [
-        "Eric Whitacre",
-        "Hans Zimmer",
-        "Laura Mvula",
-        "Imogen Heap",
-        "Annie Lennox",
-        "Michael Fenton Stevens",
-        "Follow Eric Whitacre",
-        "John Fenton-Stevens"
+        "Eric Whitacre"
       ],
       "topics": [
         "eric",
@@ -7358,14 +5962,7 @@
       "enclosure_length": "46956063",
       "itunes_duration": "39:07",
       "speakers": [
-        "Amanda Wakeley",
-        "Harvey Nichols",
-        "Elizabeth Hurley",
-        "Jennifer Lopez",
-        "Queen Rania",
-        "Jasmin Le Bon",
-        "Elaine Page",
-        "James Blunt"
+        "Amanda Wakeley"
       ],
       "topics": [
         "amanda",
@@ -7384,14 +5981,7 @@
       "enclosure_length": "84888993",
       "itunes_duration": "1:10:44",
       "speakers": [
-        "Matthew Crosby",
-        "Matthew Crosby Show",
-        "James Acaster",
-        "Noel Fielding",
-        "Bradley Walsh",
-        "Richard Ayoade",
-        "Matt Lucas",
-        "Sara Pascoe"
+        "Matthew Crosby"
       ],
       "topics": [
         "matthew",
@@ -7410,9 +6000,7 @@
       "enclosure_length": "64160308",
       "itunes_duration": "53:27",
       "speakers": [
-        "Michael Fenton Stevens",
-        "Follow Ria Lina",
-        "John Fenton-Stevens"
+        "Ria Lina Ria Lina"
       ],
       "topics": [
         "lina"
@@ -7430,10 +6018,7 @@
       "enclosure_length": "78459736",
       "itunes_duration": "1:05:22",
       "speakers": [
-        "Jon Richardson Grows",
-        "Al Murray",
-        "Sean Foley",
-        "Michael Heseltine"
+        "Matt Forde Matt Forde"
       ],
       "topics": [
         "matt",
@@ -7452,13 +6037,7 @@
       "enclosure_length": "61806675",
       "itunes_duration": "51:30",
       "speakers": [
-        "Best Newcomer",
-        "Emma Thompson",
-        "Emilia Clarke",
-        "Henry Golding",
-        "Bilal Zafar",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Best Newcomer"
       ],
       "topics": [
         "bilal",
@@ -7477,12 +6056,7 @@
       "enclosure_length": "69840373",
       "itunes_duration": "58:11",
       "speakers": [
-        "David Morrissey",
-        "Good Omens",
-        "John Lennon",
-        "Corelli’s Mandolin",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "David Morris"
       ],
       "topics": [
         "david",
@@ -7503,13 +6077,7 @@
       "itunes_duration": "42:41",
       "speakers": [
         "Gabrielle Glaister",
-        "Patricia Farnham",
-        "Trish Wallace",
-        "Hilary Benshaw",
-        "Roger Daltrey",
-        "Chesney Hawks",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Patricia Farnham"
       ],
       "topics": [
         "gabrielle",
@@ -7528,14 +6096,7 @@
       "enclosure_length": "97488895",
       "itunes_duration": "1:21:14",
       "speakers": [
-        "Jon Ronson",
-        "George Clooney",
-        "Michael Fassbender",
-        "Frank Sidebottom",
-        "Michael Fenton Stevens",
-        "Jon Ronson’s Audible",
-        "Follow Jon Ronson",
-        "John Fenton-Stevens"
+        "Jon Ronson"
       ],
       "topics": [
         "ronson"
@@ -7554,13 +6115,7 @@
       "itunes_duration": "57:59",
       "speakers": [
         "Maggie Habib",
-        "Ben Elton",
-        "Rowan Atkinson",
-        "Matt Lucas",
-        "Upstart Crow",
-        "Marley’s Ghost",
-        "Mina Anwar",
-        "Michael Fenton Stevens"
+        "Ben Elton"
       ],
       "topics": [
         "mina",
@@ -7580,11 +6135,7 @@
       "itunes_duration": "54:07",
       "speakers": [
         "Jamie Morton",
-        "James Cooper",
-        "Alice Levine",
-        "Rocky Flintstone",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "James Cooper"
       ],
       "topics": [
         "jamie",
@@ -7604,14 +6155,7 @@
       "enclosure_length": "70579638",
       "itunes_duration": "58:48",
       "speakers": [
-        "Gordon Kennedy",
-        "Gordon co-hosted",
-        "Anthea Turner",
-        "Little John",
-        "Robin Hood",
-        "Sergeant Bruce Hornsby",
-        "Red Cap",
-        "Stressed Eric"
+        "Gordon Kennedy"
       ],
       "topics": [
         "gordon",
@@ -7629,13 +6173,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100809581",
       "itunes_duration": "1:24:00",
-      "speakers": [
-        "Ricky Gervais",
-        "Thumb Bandits",
-        "Celebrity Soup",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "iain"
       ]
@@ -7653,10 +6191,7 @@
       "itunes_duration": "47:02",
       "speakers": [
         "John Archer",
-        "Tim Vine Travels",
-        "Tim Vine",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Inner Ma"
       ],
       "topics": [
         "john",
@@ -7676,11 +6211,7 @@
       "itunes_duration": "1:04:36",
       "speakers": [
         "Tony Way",
-        "Ricky Gervais",
-        "Bang Bang",
-        "Michael Fenton Stevens",
-        "Follow Tony Way",
-        "John Fenton-Stevens"
+        "Ricky Gervais"
       ],
       "topics": [
         "tony"
@@ -7698,14 +6229,7 @@
       "enclosure_length": "59083148",
       "itunes_duration": "49:13",
       "speakers": [
-        "Annabelle Dowler",
-        "Carey Mulligan",
-        "Helena Bonham Carter",
-        "Meryl Streep",
-        "Michael Fenton Stevens",
-        "Twitter AnnabelleDowler",
-        "Instagram dowlerannabelle",
-        "John Fenton-Stevens"
+        "Annabelle Dowler"
       ],
       "topics": [
         "annabelle",
@@ -7726,12 +6250,7 @@
       "speakers": [
         "Catherine Tyldesley Catherine Tyldesley",
         "Iris Moss",
-        "Karen Norris",
-        "Jason Manford",
-        "Johannes Radebe",
-        "Florence Nightingale",
-        "Abi Peterson",
-        "Catherine Tyldesley"
+        "Eva Pric"
       ],
       "topics": [
         "catherine",
@@ -7750,9 +6269,7 @@
       "enclosure_length": "63621663",
       "itunes_duration": "53:00",
       "speakers": [
-        "Sally Hodgkiss",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Sally Hodgkiss"
       ],
       "topics": [
         "sally",
@@ -7772,12 +6289,7 @@
       "itunes_duration": "58:39",
       "speakers": [
         "David Earl David Earl",
-        "Brian Gittens",
-        "Ricky Gervais",
-        "Joe Wilkinson",
-        "David Earl",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Brian Gittens"
       ],
       "topics": [
         "david",
@@ -7797,9 +6309,7 @@
       "itunes_duration": "51:15",
       "speakers": [
         "Sian Reese-Williams",
-        "Cadi John",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Cadi John"
       ],
       "topics": [
         "sian",
@@ -7819,12 +6329,7 @@
       "enclosure_length": "53455328",
       "itunes_duration": "44:32",
       "speakers": [
-        "Alan Davies",
-        "Celebrity Mastermind",
-        "Michael McIntyre Roadshow",
-        "Zoe Lyons",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Zoe Lyons Zoe Lyons"
       ],
       "topics": [
         "lyons"
@@ -7841,15 +6346,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63830642",
       "itunes_duration": "53:11",
-      "speakers": [
-        "Sarah Solemani",
-        "Joe Wilkinson",
-        "Reggie Perrin",
-        "Finding Joy Murder",
-        "Jack Absolute",
-        "Kerry Howard",
-        "Michael Fenton Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "kerry",
         "howard"
@@ -7868,11 +6365,7 @@
       "itunes_duration": "53:27",
       "speakers": [
         "Tom Read Wilson Actor",
-        "Tom Read Wilson",
-        "Celebrity Mastermind",
-        "Michael Macintyre",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Tom Read Wilson"
       ],
       "topics": [
         "read",
@@ -7891,14 +6384,7 @@
       "enclosure_length": "64428846",
       "itunes_duration": "53:41",
       "speakers": [
-        "Jim Sweeney",
-        "Little Armadillos",
-        "Ben Elton",
-        "Bill Bryson",
-        "John Belushi",
-        "Charles Dickens",
-        "Paul Merton",
-        "Stephen Frost"
+        "Steve Steen Steve Steen"
       ],
       "topics": [
         "steve",
@@ -7917,10 +6403,7 @@
       "enclosure_length": "70176830",
       "itunes_duration": "58:28",
       "speakers": [
-        "Gordon Buchanan",
-        "Snow Wolves",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Gordon Buchanan"
       ],
       "topics": [
         "gordon",
@@ -7939,14 +6422,7 @@
       "enclosure_length": "47445598",
       "itunes_duration": "39:32",
       "speakers": [
-        "John Altman",
-        "Hear My Song",
-        "Richard Gere",
-        "Jennifer Lopez",
-        "Diane Keaton",
-        "Colin Firth",
-        "Minnie Driver",
-        "Heather Graham"
+        "John Altman"
       ],
       "topics": [
         "john",
@@ -7968,11 +6444,7 @@
       "itunes_duration": "57:15",
       "speakers": [
         "David Ames",
-        "Dominic Copeland",
-        "Rafe Spall",
-        "David Tennent",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Dominic Copeland"
       ],
       "topics": [
         "david",
@@ -7991,11 +6463,7 @@
       "enclosure_length": "66174348",
       "itunes_duration": "55:08",
       "speakers": [
-        "Alien Covenant",
-        "Jonathan Creek",
-        "Lorelei King",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Lorelei King Lorelei King"
       ],
       "topics": [
         "lorelei",
@@ -8013,13 +6481,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70620912",
       "itunes_duration": "58:50",
-      "speakers": [
-        "Lizzie Wemyss",
-        "Caitlin O’Ryan",
-        "Michael Fenton Stevens",
-        "Follow Caitlin O’Ryan",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "caitlin"
       ]
@@ -8036,14 +6498,7 @@
       "enclosure_length": "32794561",
       "itunes_duration": "27:19",
       "speakers": [
-        "Tommy Cannon",
-        "Bobby Ball",
-        "Ball Show",
-        "Bob Mortimer",
-        "Vic Reeves",
-        "Lee Mack",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Tommy Cannon"
       ],
       "topics": [
         "tommy",
@@ -8062,14 +6517,7 @@
       "enclosure_length": "73995410",
       "itunes_duration": "1:01:39",
       "speakers": [
-        "Mark Simmons",
-        "Seann Walsh",
-        "Rob Beckett",
-        "Rob Brydon",
-        "Michael McIntyre",
-        "Jack Dee",
-        "Michael Fenton Stevens",
-        "Mark Simmons podfollow com"
+        "Mark Simmons"
       ],
       "topics": [
         "mark",
@@ -8088,14 +6536,7 @@
       "enclosure_length": "62745516",
       "itunes_duration": "52:17",
       "speakers": [
-        "Ronnie Golden",
-        "Tom Jones",
-        "Scott Walker",
-        "Engelbert Humperdinck",
-        "David Bowie",
-        "Fabulous Poodles",
-        "Rik Mayall",
-        "Ben Elton"
+        "Ronnie Golden"
       ],
       "topics": [
         "ronnie",
@@ -8114,12 +6555,7 @@
       "enclosure_length": "76701173",
       "itunes_duration": "1:03:54",
       "speakers": [
-        "Neil Delamere",
-        "Richard Osman",
-        "Celebrity Chase",
-        "Celebrity Mastermind",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Neil Delamere"
       ],
       "topics": [
         "neil",
@@ -8138,13 +6574,7 @@
       "enclosure_length": "65773108",
       "itunes_duration": "54:48",
       "speakers": [
-        "Rachel Fairburn",
-        "Kiri Pritchard McLean",
-        "Ghoul Guide",
-        "Alan Davies",
-        "Richard Osman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Rachel Fairburn"
       ],
       "topics": [
         "rachel",
@@ -8164,13 +6594,7 @@
       "itunes_duration": "1:04:15",
       "speakers": [
         "Jim Sweeney",
-        "Store Players",
-        "Paul Merton",
-        "Josie Lawrence",
-        "Neil Mullarkey",
-        "Richard Vranch",
-        "Sandi Toksvig",
-        "Jeremy Hardy"
+        "Store Players"
       ],
       "topics": [
         "sweeney"
@@ -8189,11 +6613,7 @@
       "itunes_duration": "35:07",
       "speakers": [
         "Minty Peterson",
-        "Fred Buckle",
-        "Kavanagh QC",
-        "Paul Merton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Fred Buckle"
       ],
       "topics": [
         "cliff",
@@ -8212,11 +6632,7 @@
       "enclosure_length": "66147181",
       "itunes_duration": "55:07",
       "speakers": [
-        "Shaun Keaveny",
-        "Liza Tarbuck",
-        "Johnnie Walker",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Shaun Keaveny"
       ],
       "topics": [
         "shaun",
@@ -8237,12 +6653,7 @@
       "speakers": [
         "Ted Robbins",
         "Den Perry",
-        "Peter Kay",
-        "Tony Cluedo",
-        "Crème Brulee",
-        "Jack Whitehall",
-        "Brendan Finch",
-        "Michael Fenton Stevens"
+        "Peter Kay"
       ],
       "topics": [
         "robbins"
@@ -8260,13 +6671,7 @@
       "enclosure_length": "71575426",
       "itunes_duration": "59:38",
       "speakers": [
-        "Tony Robinson",
-        "Maid Marian",
-        "Merry Men",
-        "Terry Pratchett",
-        "Michael Fenton Stevens",
-        "Follow Tony Robinson",
-        "John Fenton-Stevens"
+        "Tony Robinson"
       ],
       "topics": [
         "tony",
@@ -8285,14 +6690,7 @@
       "enclosure_length": "77099801",
       "itunes_duration": "1:04:14",
       "speakers": [
-        "Danny Baker",
-        "Gail Porter",
-        "Hugh Dennis",
-        "Billy Boyd",
-        "Linford Christie",
-        "Michel Roux Jr",
-        "Patrick Stevens",
-        "Danny Robins"
+        "Danny Baker"
       ],
       "topics": [
         "time",
@@ -8312,13 +6710,7 @@
       "itunes_duration": "57:49",
       "speakers": [
         "Harry Hill",
-        "Nicola Stephenson",
-        "John Torode",
-        "Jason Byrne",
-        "Chesney Hawkes",
-        "Jim Piddock",
-        "Mike Grady",
-        "Josh Bolt"
+        "Nicola Stephenson"
       ],
       "topics": [
         "time",
@@ -8338,13 +6730,7 @@
       "itunes_duration": "53:11",
       "speakers": [
         "Harry Hill",
-        "Sanjeev Bhaskar",
-        "Fern Britton",
-        "Joe Pasquale",
-        "Jim Piddock",
-        "Cheryl Baker",
-        "Richard Pitman",
-        "Graham Fellows"
+        "Sanjeev Bh"
       ],
       "topics": [
         "time",
@@ -8363,14 +6749,7 @@
       "enclosure_length": "83766250",
       "itunes_duration": "1:09:48",
       "speakers": [
-        "Joe Pasquale",
-        "Nick Helm",
-        "Sarah Greene",
-        "Jeremy Dyson",
-        "Rob Rouse",
-        "Catherine Russell",
-        "Tim Downie",
-        "Graham Fellows"
+        "My Christmas Time Capsule"
       ],
       "topics": [
         "christmas",
@@ -8390,14 +6769,7 @@
       "enclosure_length": "79253336",
       "itunes_duration": "1:06:02",
       "speakers": [
-        "Cheryl Baker",
-        "Nicola Stephenson",
-        "Joe Pasquale",
-        "Fern Britton",
-        "Jim Piddock",
-        "Mike Grady",
-        "Josh Bolt",
-        "Nicola Bryant"
+        "My Christmas Time Capsule"
       ],
       "topics": [
         "christmas",
@@ -8417,14 +6789,7 @@
       "enclosure_length": "81941858",
       "itunes_duration": "1:08:16",
       "speakers": [
-        "Sanjeev Bhaskar",
-        "Rory McGrath",
-        "Katy Brand",
-        "Paul Mayhew-Archer",
-        "Charlie Higson",
-        "Paul Burke",
-        "Les Dennis",
-        "John O'Farrell"
+        "My Christmas Time Capsule"
       ],
       "topics": [
         "christmas",
@@ -8446,12 +6811,7 @@
       "speakers": [
         "Clive Anderson",
         "Eilidh Doyle",
-        "Andrew Hunter Murray",
-        "Lisa Riley",
-        "Ken Bruce",
-        "Gary Wilmot",
-        "Fred MacAulay",
-        "Kate Thornton"
+        "Andrew Hunter"
       ],
       "topics": [
         "christmas",
@@ -8471,8 +6831,7 @@
       "enclosure_length": "229990837",
       "itunes_duration": "3:11:39",
       "speakers": [
-        "Charles Dickens",
-        "Michael Fenton Stevens"
+        "Charles Dickens"
       ],
       "topics": [
         "christmas",
@@ -8493,14 +6852,7 @@
       "enclosure_length": "72970887",
       "itunes_duration": "1:00:48",
       "speakers": [
-        "Stephen Fry",
-        "Lucy Porter",
-        "John Challis",
-        "Tony Hawks",
-        "Anthony Head",
-        "Janet Ellis",
-        "Rick Wakeman",
-        "Anneka Rice"
+        "Stephen Fry"
       ],
       "topics": [
         "christmas",
@@ -8520,14 +6872,7 @@
       "enclosure_length": "64184340",
       "itunes_duration": "53:29",
       "speakers": [
-        "Arthur Smith",
-        "Andy Hamilton",
-        "Mark Watson",
-        "Paul Mayhew-Archer",
-        "Jan Ravens",
-        "Kevin McNally",
-        "Anthony Head",
-        "Ellie White"
+        "Arthur Sm"
       ],
       "topics": [
         "christmas",
@@ -8547,13 +6892,7 @@
       "enclosure_length": "74680340",
       "itunes_duration": "1:02:13",
       "speakers": [
-        "Rick Edwards",
-        "Rachel Burden",
-        "Jameela Jamil",
-        "Nick Grimshaw",
-        "Michael Brooks",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Rick Edwards"
       ],
       "topics": [
         "rick",
@@ -8572,10 +6911,7 @@
       "enclosure_length": "60385091",
       "itunes_duration": "50:19",
       "speakers": [
-        "Helen Zaltzman",
-        "Michael Fenton Stevens",
-        "Twitter OllyMann",
-        "John Fenton-Stevens"
+        "Olly Mann Olly Mann"
       ],
       "topics": [
         "olly",
@@ -8594,14 +6930,7 @@
       "enclosure_length": "62142087",
       "itunes_duration": "51:46",
       "speakers": [
-        "Steven Spielberg",
-        "Hitchhikers Guide",
-        "David Duchovny",
-        "Gillian Anderson",
-        "Stephen Baxter’s Voyage",
-        "Neil Gaiman",
-        "Terry Pratchett",
-        "Anansi Boys"
+        "Steven Spielberg"
       ],
       "topics": [
         "dirk",
@@ -8620,10 +6949,7 @@
       "enclosure_length": "62680210",
       "itunes_duration": "52:13",
       "speakers": [
-        "Patrick Stevens",
-        "Michael Fenton Stevens",
-        "Follow Patrick Stevens",
-        "John Fenton-Stevens"
+        "Patrick Stevens"
       ],
       "topics": [
         "patrick",
@@ -8643,12 +6969,7 @@
       "itunes_duration": "1:00:45",
       "speakers": [
         "Joe Wilkinson Comedian",
-        "Joe Wilkinson",
-        "Ricky Gervais",
-        "David Earle",
-        "Michael Fenton Stevens",
-        "Follow Joe Wilkinson",
-        "John Fenton-Stevens"
+        "Joe Wilkinson"
       ],
       "topics": [
         "wilkinson"
@@ -8665,13 +6986,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55750446",
       "itunes_duration": "46:27",
-      "speakers": [
-        "Best Newcomer",
-        "Richard Thomas",
-        "Jerry Springer",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "sooz",
         "kempner"
@@ -8689,13 +7004,7 @@
       "enclosure_length": "67508683",
       "itunes_duration": "56:15",
       "speakers": [
-        "Hugh Dennis",
-        "Lee Mack",
-        "Steve Punt",
-        "David Baddiel",
-        "Rob Newman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Hugh Dennis"
       ],
       "topics": [
         "hugh",
@@ -8715,9 +7024,7 @@
       "itunes_duration": "49:47",
       "speakers": [
         "Sian Berry",
-        "Jonathan Bartley",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jonathan Bartley"
       ],
       "topics": [
         "sian",
@@ -8735,13 +7042,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61153091",
       "itunes_duration": "50:57",
-      "speakers": [
-        "Sylvester McCoy",
-        "Jodie Whittaker",
-        "Peter Rabbit",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "sophie",
         "aldred"
@@ -8759,13 +7060,7 @@
       "enclosure_length": "62607589",
       "itunes_duration": "52:10",
       "speakers": [
-        "Lloyd Griffith",
-        "Jonathan Ross",
-        "Drunk History",
-        "St George’s Chapel",
-        "Michael Fenton Stevens",
-        "Follow Lloyd Griffith",
-        "John Fenton-Stevens"
+        "Lloyd Griffith"
       ],
       "topics": [
         "lloyd",
@@ -8785,12 +7080,7 @@
       "itunes_duration": "53:07",
       "speakers": [
         "Jon Culshaw",
-        "Dead Ringers",
-        "Debra Stephenson",
-        "Jonathan Ross",
-        "Head Cases",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Dead Ringers"
       ],
       "topics": [
         "culshaw"
@@ -8809,13 +7099,7 @@
       "itunes_duration": "55:36",
       "speakers": [
         "Lizzie Roper Lizzie Roper",
-        "Sam Lomax",
-        "Ben Miller",
-        "Sarah Alexander",
-        "Alison Steadman",
-        "Geoffrey Whitehead",
-        "Waterloo Road",
-        "Boy Meets Girl"
+        "Sam Lomax"
       ],
       "topics": [
         "lizzie",
@@ -8834,13 +7118,7 @@
       "enclosure_length": "75066952",
       "itunes_duration": "1:02:33",
       "speakers": [
-        "Danny Robins",
-        "Dafne Keen",
-        "Joseph Fiennes",
-        "Alexandra Roach",
-        "Lily Allen",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Danny Robins"
       ],
       "topics": [
         "danny",
@@ -8860,11 +7138,7 @@
       "itunes_duration": "49:01",
       "speakers": [
         "Charlie Baker",
-        "Harry Hill",
-        "Richard Bacon",
-        "Richard Osman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Harry Hill"
       ],
       "topics": [
         "charlie",
@@ -8884,13 +7158,7 @@
       "itunes_duration": "1:01:29",
       "speakers": [
         "Rob Rouse",
-        "Ben Elton",
-        "Upstart Crow",
-        "William Shakespeare",
-        "David Mitchell",
-        "Harry Enfield",
-        "Mark Heap",
-        "Liza Tarbuck"
+        "Ben Elton"
       ],
       "topics": [
         "rouse"
@@ -8908,14 +7176,7 @@
       "enclosure_length": "58045042",
       "itunes_duration": "48:22",
       "speakers": [
-        "Gary Sinyor",
-        "Chris O'Donnell",
-        "Renée Zellweger",
-        "David Frost",
-        "Tom Greene",
-        "Brooke Shields",
-        "Dexter Fletcher",
-        "Linda Hamilton"
+        "Gary Sinyor"
       ],
       "topics": [
         "gary",
@@ -8935,12 +7196,7 @@
       "itunes_duration": "41:33",
       "speakers": [
         "James Dreyfus",
-        "Rowan Atkinson",
-        "Kathy Burke",
-        "Hugh Grant",
-        "Bette Midler",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Rowan Atkins"
       ],
       "topics": [
         "james",
@@ -8959,14 +7215,7 @@
       "enclosure_length": "74729450",
       "itunes_duration": "1:02:16",
       "speakers": [
-        "John Dowie",
-        "Victoria Wood",
-        "Tony Wilson",
-        "Neil Innes",
-        "Arthur Smith",
-        "Barry Cryer",
-        "Ronnie Golden",
-        "Simon Munnery"
+        "John Dowie"
       ],
       "topics": [
         "john",
@@ -8986,11 +7235,7 @@
       "itunes_duration": "52:27",
       "speakers": [
         "Peri Brown",
-        "Peter Davison",
-        "Colin Baker",
-        "Nicola Bryant",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Peter Davi"
       ],
       "topics": [
         "nicola",
@@ -9010,12 +7255,7 @@
       "itunes_duration": "44:49",
       "speakers": [
         "Josh Jones",
-        "Edinburgh Fringe",
-        "Jonathan Ross",
-        "Comedy Club",
-        "Dead Drama",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Edinburgh Fringe"
       ],
       "topics": [
         "josh",
@@ -9034,9 +7274,7 @@
       "enclosure_length": "88133401",
       "itunes_duration": "1:13:26",
       "speakers": [
-        "Danny Baker",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Danny Baker"
       ],
       "topics": [
         "danny",
@@ -9055,9 +7293,7 @@
       "enclosure_length": "92146332",
       "itunes_duration": "1:16:47",
       "speakers": [
-        "Danny Baker",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Danny Baker"
       ],
       "topics": [
         "danny",
@@ -9077,13 +7313,7 @@
       "itunes_duration": "36:48",
       "speakers": [
         "Maggie Ollerenshaw",
-        "Ronnie Barker",
-        "David Jason",
-        "Michael Palin",
-        "Maggie Smith",
-        "Mary Pierrepoint",
-        "Timothy Spall",
-        "Juliet Bravo"
+        "Ronnie Bark"
       ],
       "topics": [
         "maggie",
@@ -9102,9 +7332,7 @@
       "enclosure_length": "60674528",
       "itunes_duration": "50:33",
       "speakers": [
-        "Linford Christie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Linford Christie Linford Christie"
       ],
       "topics": [
         "linford",
@@ -9123,12 +7351,7 @@
       "enclosure_length": "63019801",
       "itunes_duration": "52:30",
       "speakers": [
-        "Lillian Bellamy",
-        "Jane James",
-        "Sunny Ormonde",
-        "Michael Fenton Stevens",
-        "podfollow com",
-        "John Fenton-Stevens"
+        "Lillian Bellamy"
       ],
       "topics": [
         "ormonde"
@@ -9165,13 +7388,7 @@
       "enclosure_length": "65598087",
       "itunes_duration": "54:39",
       "speakers": [
-        "Eleanor Mills",
-        "Mikhail Gorbachev",
-        "Sheryl Sandberg",
-        "Theresa May",
-        "Michael Fenton Stevens",
-        "Follow Eleanor Mills",
-        "John Fenton-Stevens"
+        "Eleanor Mills"
       ],
       "topics": [
         "eleanor",
@@ -9192,13 +7409,8 @@
       "enclosure_length": "47808177",
       "itunes_duration": "39:50",
       "speakers": [
-        "Albert Roux",
-        "Michel Roux",
-        "Kitchen Impossible",
-        "Michel Roux Jr",
-        "Michael Fenton Stevens",
-        "Instagram michel roux jr",
-        "John Fenton-Stevens"
+        "Michel Roux Jr Michel",
+        "Roux Jr"
       ],
       "topics": [
         "michel",
@@ -9218,13 +7430,7 @@
       "itunes_duration": "50:57",
       "speakers": [
         "Carla Mendonça",
-        "Sophie Johnson",
-        "Orla Crawshaw",
-        "Mrs Fitzgerald",
-        "Common People",
-        "Harry Enfield",
-        "Baddiel’s Syndrome",
-        "Roman’s Empire"
+        "Sophie Johnson"
       ],
       "topics": [
         "carla"
@@ -9242,10 +7448,7 @@
       "enclosure_length": "77949826",
       "itunes_duration": "1:04:57",
       "speakers": [
-        "Paul Chowdhry",
-        "Wembley Arena",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Paul Chowdhry"
       ],
       "topics": [
         "paul",
@@ -9265,13 +7468,7 @@
       "itunes_duration": "50:11",
       "speakers": [
         "Richard Hope",
-        "Harris Pascoe",
-        "Jeremy Irons",
-        "Lawrence Olivier Presents",
-        "Victoria Wood",
-        "Midsomer Murders",
-        "John Deed",
-        "Gentleman Jack"
+        "Harris Pascoe"
       ],
       "topics": [
         "richard",
@@ -9290,12 +7487,7 @@
       "enclosure_length": "61209516",
       "itunes_duration": "51:00",
       "speakers": [
-        "David Gower Obe",
-        "Gary Lineker",
-        "David Gower",
-        "Michael Fenton Stevens",
-        "Follow David Gower",
-        "John Fenton-Stevens"
+        "David Gower Obe"
       ],
       "topics": [
         "david",
@@ -9313,13 +7505,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62868814",
       "itunes_duration": "52:23",
-      "speakers": [
-        "Art Avenger",
-        "Olaf Falafel",
-        "Michael Fenton Stevens",
-        "Follow Olaf",
-        "John Fenton-Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "olaf",
         "falafel"
@@ -9337,10 +7523,7 @@
       "enclosure_length": "62475410",
       "itunes_duration": "52:03",
       "speakers": [
-        "Michael Spicer",
-        "James Corden",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Michael Spicer"
       ],
       "topics": [
         "michael",
@@ -9359,14 +7542,7 @@
       "enclosure_length": "60386659",
       "itunes_duration": "50:19",
       "speakers": [
-        "Jack Docherty",
-        "Moray Hunter",
-        "Ben Gary",
-        "Cameron Miekelson",
-        "Scot Squad",
-        "Miller Show",
-        "Stressed Eric",
-        "Michael Fenton Stevens"
+        "Jack Docherty"
       ],
       "topics": [
         "jack",
@@ -9386,13 +7562,7 @@
       "itunes_duration": "48:19",
       "speakers": [
         "Jake Canuso Jake Canuso",
-        "Mateo Castellanos",
-        "Annie Lennox",
-        "Elton John",
-        "Daniel Day Lewis",
-        "Nicole Kidman",
-        "Judi Dench",
-        "Christian Bale"
+        "Mateo Castellanos"
       ],
       "topics": [
         "jake",
@@ -9411,14 +7581,7 @@
       "enclosure_length": "61027704",
       "itunes_duration": "50:51",
       "speakers": [
-        "Mrs Cakeworthy",
-        "John Sullivan",
-        "Martin Freeman",
-        "Doc Martin",
-        "Midsomer Murders",
-        "Steve Coogan",
-        "Ella Kenion",
-        "Michael Fenton Stevens"
+        "Mrs Cakeworthy"
       ],
       "topics": [
         "ella",
@@ -9439,12 +7602,7 @@
       "speakers": [
         "Billy Boyd",
         "Pippin Took",
-        "Peter Jackson",
-        "Barret Bonden",
-        "Russel Crowe",
-        "Gerald Forbes",
-        "Ghost Story",
-        "Moby Dick"
+        "Peter Jackson"
       ],
       "topics": [
         "billy",
@@ -9463,11 +7621,8 @@
       "enclosure_length": "52856079",
       "itunes_duration": "44:02",
       "speakers": [
-        "Urzila Carlson",
-        "Michael Fenton Stevens",
-        "Follow Urzila Carlson",
-        "Instagram UrzilaCarlson",
-        "John Fenton-Stevens"
+        "Urzila Carlson Urzila Carlson",
+        "New Zealand"
       ],
       "topics": [
         "urzila",
@@ -9486,14 +7641,7 @@
       "enclosure_length": "54877957",
       "itunes_duration": "45:43",
       "speakers": [
-        "Nick Helm",
-        "Russell Howard’s Good News",
-        "Celebrity Mastermind",
-        "Keep Hold",
-        "Fosters Edinburgh",
-        "Digital Award",
-        "Michael Fenton Stevens",
-        "Nick’s Edinburgh"
+        "Nick Helm"
       ],
       "topics": [
         "nick",
@@ -9512,14 +7660,7 @@
       "enclosure_length": "63817059",
       "itunes_duration": "53:10",
       "speakers": [
-        "Jason Byrne",
-        "Comedy Annual",
-        "Dave’s One Night Stand",
-        "John Bishop",
-        "Byrne Show",
-        "Paddy Lama Shed Talks",
-        "Michael Fenton Stevens",
-        "Follow Jason Byrne"
+        "Jason Byrne"
       ],
       "topics": [
         "jason",
@@ -9538,10 +7679,7 @@
       "enclosure_length": "66614773",
       "itunes_duration": "55:30",
       "speakers": [
-        "John Torode",
-        "Greg Wallace",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "John Torode"
       ],
       "topics": [
         "john",
@@ -9560,14 +7698,7 @@
       "enclosure_length": "69272993",
       "itunes_duration": "57:43",
       "speakers": [
-        "George Lewis George Lewis",
-        "Andy Parsons",
-        "Elis James",
-        "Josh Widdicomne",
-        "Kerry Godliman",
-        "Russell Kane",
-        "Top Gear Extra Gear",
-        "Celebrity Mastermind"
+        "George Lewis George Lewis"
       ],
       "topics": [
         "george",
@@ -9586,14 +7717,7 @@
       "enclosure_length": "56039883",
       "itunes_duration": "46:41",
       "speakers": [
-        "Andy Nyman",
-        "Eddie Redmayne",
-        "Kick Ass",
-        "Liam Neeson",
-        "Judy Garland",
-        "Rene Zellweger",
-        "Dwayne Johnson",
-        "Jack Whitehall"
+        "Andy Nyman"
       ],
       "topics": [
         "andy",
@@ -9612,11 +7736,7 @@
       "enclosure_length": "45999459",
       "itunes_duration": "38:19",
       "speakers": [
-        "Linda Purl",
-        "Patrick Duffy",
-        "Bobby Ewing",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Linda Purl"
       ],
       "topics": [
         "linda"
@@ -9634,11 +7754,7 @@
       "enclosure_length": "63566283",
       "itunes_duration": "52:58",
       "speakers": [
-        "Chesney Hawkes",
-        "Roger Daltrey",
-        "Len Chip",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Chesney Hawkes"
       ],
       "topics": [
         "chesney",
@@ -9658,9 +7774,7 @@
       "itunes_duration": "54:18",
       "speakers": [
         "Rob Carter",
-        "Christopher Bliss",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Christopher Bliss"
       ],
       "topics": [
         "carter",
@@ -9679,9 +7793,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13732488",
       "itunes_duration": "11:26",
-      "speakers": [
-        "Shirley Temple"
-      ],
+      "speakers": [],
       "topics": [
         "retrospector"
       ]
@@ -9699,12 +7811,7 @@
       "itunes_duration": "51:15",
       "speakers": [
         "Mathew Baynton",
-        "Thomas Thorne",
-        "James Corden",
-        "Doc Martin",
-        "Matthew Baynton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Thomas Thorne"
       ],
       "topics": [
         "mathew",
@@ -9723,13 +7830,7 @@
       "enclosure_length": "69520634",
       "itunes_duration": "57:55",
       "speakers": [
-        "Samantha Baines",
-        "Channing Tatum",
-        "Andrew Neil",
-        "Virgin Radio",
-        "Harriet Versus",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Samantha Baines"
       ],
       "topics": [
         "samantha",
@@ -9749,13 +7850,7 @@
       "itunes_duration": "49:06",
       "speakers": [
         "Tim Downie",
-        "Upstart Crow",
-        "David Jason",
-        "David Hasselhoff",
-        "Brad Pitt",
-        "Les Misérables",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Upstart Crow"
       ],
       "topics": [
         "downie"
@@ -9773,14 +7868,7 @@
       "enclosure_length": "64278903",
       "itunes_duration": "53:33",
       "speakers": [
-        "Taylor Glenn Taylor Glenn",
-        "Martin Freeman",
-        "Daisy Haggard",
-        "Comic Relief",
-        "Taylor Glenn",
-        "Michael Fenton Stevens",
-        "Follow Taylor Glenn",
-        "John Fenton-Stevens"
+        "Taylor Glenn Taylor Glenn"
       ],
       "topics": [
         "taylor",
@@ -9799,14 +7887,7 @@
       "enclosure_length": "78734544",
       "itunes_duration": "1:05:36",
       "speakers": [
-        "Michael Fenton Stevens",
-        "Richard Herring",
-        "Kristen Scott Thomas",
-        "Gary Oldman",
-        "Robert Lindsay",
-        "Pete Versus Life",
-        "Sally Hawkins",
-        "Peter Serafinowicz"
+        "Michael Fenton Stevens"
       ],
       "topics": [
         "michael",
@@ -9826,12 +7907,7 @@
       "enclosure_length": "61784732",
       "itunes_duration": "51:29",
       "speakers": [
-        "Andrew Lynford",
-        "Simon Raymond",
-        "Martine McCutcheon",
-        "Arty Facts",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Andrew Lynford"
       ],
       "topics": [
         "andrew",
@@ -9851,13 +7927,7 @@
       "itunes_duration": "55:25",
       "speakers": [
         "Nicola Stephenson",
-        "Margaret Clemence",
-        "Anna Friel",
-        "lesbian kiss",
-        "Julie Fitzjohn",
-        "Allie Westbrook",
-        "Suzie Davidson",
-        "Clocking Off"
+        "Margaret Clemence"
       ],
       "topics": [
         "nicola",
@@ -9878,12 +7948,7 @@
       "speakers": [
         "Mike Grady",
         "Ken Mills",
-        "Robert Lindsay",
-        "Barry Wilkinson",
-        "Frankie Howard",
-        "Peter Sellers",
-        "Robert Downey Jr",
-        "Jude Law"
+        "Robert Lindsay"
       ],
       "topics": [
         "mike",
@@ -9904,12 +7969,7 @@
       "speakers": [
         "Nicholas Burns",
         "Nathan Barley",
-        "Chris Morris",
-        "Charlie Brooker",
-        "Mighty Boost",
-        "Ed Balls",
-        "Marley’s Ghost",
-        "Maggie Smith"
+        "Chris Morris"
       ],
       "topics": [
         "nicholas",
@@ -9929,12 +7989,7 @@
       "itunes_duration": "45:14",
       "speakers": [
         "Jessica Fostekew",
-        "Harry Hill",
-        "Maggie Cole",
-        "Sharon Horgan",
-        "Holly Walsh",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Dave Edinb"
       ],
       "topics": [
         "jessica",
@@ -9954,13 +8009,7 @@
       "itunes_duration": "58:37",
       "speakers": [
         "Mark Bonner",
-        "Mark Bonnar",
-        "Sharon Horgan",
-        "Rob Delaney’s Catastrophe",
-        "Duncan Hunter",
-        "Sanjeev Baskhar",
-        "Silent Witness",
-        "Eric Morecambe"
+        "Mark Bonnar"
       ],
       "topics": [
         "mark",
@@ -9979,11 +8028,7 @@
       "enclosure_length": "40189826",
       "itunes_duration": "33:29",
       "speakers": [
-        "Gail Porter",
-        "alopecia totalis",
-        "Laid Bare",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Gail Porter"
       ],
       "topics": [
         "gail",
@@ -10002,13 +8047,7 @@
       "enclosure_length": "70160112",
       "itunes_duration": "58:27",
       "speakers": [
-        "Joanna Scanlan",
-        "Lady Gaga",
-        "Jo Brand",
-        "Doc Martin",
-        "Ma Larkin",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Joanna Scanlan"
       ],
       "topics": [
         "joanna",
@@ -10027,14 +8066,7 @@
       "enclosure_length": "51849842",
       "itunes_duration": "43:12",
       "speakers": [
-        "Bobby Crush",
-        "Jack Jones",
-        "Vic Damone",
-        "Julie Andrews",
-        "Billy Flynn",
-        "Keith Harris",
-        "Michael Fenton Stevens",
-        "Follow Bobby Crush"
+        "Bobby Crush"
       ],
       "topics": [
         "bobby",
@@ -10054,13 +8086,7 @@
       "itunes_duration": "51:13",
       "speakers": [
         "Jenny Seagrove",
-        "Rupert Everett",
-        "Tommy Lee Jones",
-        "Michael Caine",
-        "Roger Moore",
-        "Anthony Hopkins",
-        "Jeremy Irons",
-        "Peter Ustinov"
+        "Rupert Everett"
       ],
       "topics": [
         "jenny",
@@ -10079,14 +8105,7 @@
       "enclosure_length": "46580944",
       "itunes_duration": "38:48",
       "speakers": [
-        "Sara Crowe",
-        "Tony Hawks",
-        "Queen Thistle",
-        "Harry Enfield",
-        "Acorn Antiques",
-        "Alan Ayckbourn",
-        "Martini Henry",
-        "Michael Fenton Stevens"
+        "Sara Crowe"
       ],
       "topics": [
         "sara",
@@ -10105,12 +8124,8 @@
       "enclosure_length": "99100128",
       "itunes_duration": "1:22:34",
       "speakers": [
-        "My Mouth",
-        "Brendan O'Connor",
-        "Stephen Fry",
-        "Russel Howard",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jess Thom",
+        "Touretteshero Jess Thom"
       ],
       "topics": [
         "jess",
@@ -10130,13 +8145,7 @@
       "enclosure_length": "112052683",
       "itunes_duration": "46:41",
       "speakers": [
-        "Finty Williams",
-        "Mrs Brown",
-        "Judi Dench",
-        "Michael Williams",
-        "Doc Martin",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Finty Williams"
       ],
       "topics": [
         "finty",
@@ -10155,13 +8164,7 @@
       "enclosure_length": "149684683",
       "itunes_duration": "1:02:22",
       "speakers": [
-        "Jeremy Dyson",
-        "Mark Gatiss",
-        "Steve Pemberton",
-        "Reece Shearsmith",
-        "Andy Nyman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Jeremy Dyson"
       ],
       "topics": [
         "jeremy",
@@ -10180,11 +8183,7 @@
       "enclosure_length": "66868683",
       "itunes_duration": "55:43",
       "speakers": [
-        "Paul Robinson",
-        "Martin Richardson",
-        "Tim Easton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "My Listeners Time Capsule"
       ],
       "topics": [
         "listener",
@@ -10204,13 +8203,7 @@
       "enclosure_length": "63504634",
       "itunes_duration": "52:55",
       "speakers": [
-        "Darren Fewins",
-        "Ryan Williams",
-        "Helen Freeman",
-        "Andre Baron",
-        "Pamela Murphy",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "My Listeners Time Capsule"
       ],
       "topics": [
         "listener",
@@ -10230,10 +8223,7 @@
       "enclosure_length": "77267507",
       "itunes_duration": "1:04:23",
       "speakers": [
-        "Harry Hill",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Harry Hill"
       ],
       "topics": [
         "harry",
@@ -10253,13 +8243,7 @@
       "itunes_duration": "38:16",
       "speakers": [
         "Brigit Forsyth",
-        "Thelma Ferris",
-        "Helen Yeldham",
-        "Agatha Christie",
-        "Alan Bennett",
-        "Michael Aspel",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Thelma Ferris"
       ],
       "topics": [
         "brigit",
@@ -10279,10 +8263,7 @@
       "itunes_duration": "51:46",
       "speakers": [
         "Richard Pitman",
-        "Red Rum",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Red Rum"
       ],
       "topics": [
         "richard",
@@ -10301,14 +8282,7 @@
       "enclosure_length": "74355377",
       "itunes_duration": "1:01:57",
       "speakers": [
-        "Michael Simkins",
-        "Meryl Streep",
-        "Mike Leigh",
-        "Mamma Mia",
-        "John Deed",
-        "Fatty Batter",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Michael Simkins"
       ],
       "topics": [
         "michael",
@@ -10327,11 +8301,7 @@
       "enclosure_length": "51580781",
       "itunes_duration": "42:58",
       "speakers": [
-        "Ben Aaronovitch",
-        "Michael Fenton Stevens",
-        "Follow Ben Aaronovitch",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Ben Aaronovitch Ben Aaronovitch"
       ],
       "topics": [
         "aaronovitch"
@@ -10349,14 +8319,7 @@
       "enclosure_length": "70823099",
       "itunes_duration": "59:00",
       "speakers": [
-        "Mel Hudson",
-        "Alan Partridge",
-        "Nina Vanier",
-        "Lauren Cooper",
-        "Peter Principle",
-        "Blue Jam",
-        "Michael Fenton Stevens",
-        "Follow Mel Hudson"
+        "Mel Hudson"
       ],
       "topics": [
         "hudson"
@@ -10375,13 +8338,7 @@
       "itunes_duration": "47:00",
       "speakers": [
         "Cheryl Baker",
-        "Bucks Fizz",
-        "Record Breakers",
-        "Roy Castle",
-        "Kriss Akabusi",
-        "Mike Nolan",
-        "Jay Aston",
-        "Michael Fenton Stevens"
+        "Bucks Fizz"
       ],
       "topics": [
         "cheryl",
@@ -10401,10 +8358,7 @@
       "itunes_duration": "52:52",
       "speakers": [
         "Julia Patterson Dr",
-        "Julia Patterson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Julia Patterson"
       ],
       "topics": [
         "julia",
@@ -10423,11 +8377,7 @@
       "enclosure_length": "56238936",
       "itunes_duration": "46:51",
       "speakers": [
-        "Roxy Mitchell",
-        "Michael Fenton Stevens",
-        "Follow Rita Simons",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Roxy Mitchell"
       ],
       "topics": [
         "rita",
@@ -10448,12 +8398,7 @@
       "speakers": [
         "Josh Bolt",
         "Rob Dawson",
-        "Raff Greenwood",
-        "George Clooney",
-        "Tom Hanks",
-        "Steven Spielberg’s Masters",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Raff Greenwood"
       ],
       "topics": [
         "josh",
@@ -10473,13 +8418,7 @@
       "itunes_duration": "58:24",
       "speakers": [
         "Jim Piddock",
-        "Christopher Guest",
-        "Mighty Wind",
-        "Russell Brand",
-        "Woody Allen",
-        "Austin Powers Goldmember",
-        "Rock Johnson",
-        "Michael Fenton Stevens"
+        "Christopher Guest"
       ],
       "topics": [
         "piddock"
@@ -10497,14 +8436,7 @@
       "enclosure_length": "74082659",
       "itunes_duration": "1:01:43",
       "speakers": [
-        "Dan Paterson",
-        "Clive Anderson Talks Back",
-        "Clive Anderson All Talk",
-        "Peter Principle",
-        "Kelsey Grammer",
-        "Ben Miller",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Dan Paterson"
       ],
       "topics": [
         "paterson"
@@ -10523,12 +8455,7 @@
       "itunes_duration": "45:42",
       "speakers": [
         "Danny John-Jules Danny John-Jules",
-        "Dwayne Myers",
-        "Maid Marian",
-        "Danny John-Jules",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Dwayne Myer"
       ],
       "topics": [
         "danny",
@@ -10549,13 +8476,7 @@
       "itunes_duration": "41:18",
       "speakers": [
         "Catherine Russell Catherine Russell",
-        "Serena Campbell",
-        "Agatha Christie",
-        "Mamma Mia",
-        "Alan Bennett",
-        "Habeas Corpus",
-        "Patrick Marber",
-        "Catherine Russell"
+        "Serena Campbell"
       ],
       "topics": [
         "catherine",
@@ -10574,11 +8495,7 @@
       "enclosure_length": "83384863",
       "itunes_duration": "1:09:29",
       "speakers": [
-        "Ed Byrne",
-        "Rory McGrath",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Briain Dara"
       ],
       "topics": [
         "dara",
@@ -10597,13 +8514,7 @@
       "enclosure_length": "59346985",
       "itunes_duration": "49:27",
       "speakers": [
-        "Jonny Weldon",
-        "Tracy-Ann Oberman",
-        "John Challis",
-        "Nick Mohammed",
-        "Hannah Waddingham",
-        "Ricky Gervais",
-        "Michael Fenton Stevens"
+        "Jonny Weldon"
       ],
       "topics": [
         "jonny",
@@ -10624,11 +8535,7 @@
       "speakers": [
         "Tim Healy",
         "Dennis Patterson",
-        "Auf Wiedersehen",
-        "David Jason",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Auf Wieder"
       ],
       "topics": [
         "healy"
@@ -10647,13 +8554,7 @@
       "itunes_duration": "52:26",
       "speakers": [
         "Kathleen Rose Perkins",
-        "Carol Rance",
-        "Matt LeBlanc",
-        "Tamsin Greig",
-        "Stephen Mangan",
-        "Ballot Monkeys",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Carol Rance"
       ],
       "topics": [
         "kathleen",
@@ -10674,13 +8575,7 @@
       "itunes_duration": "58:30",
       "speakers": [
         "Sarah Greene",
-        "Blue Peter",
-        "Mike Read",
-        "Phillip Schofield",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Blue Peter"
       ],
       "topics": [
         "sarah",
@@ -10699,14 +8594,7 @@
       "enclosure_length": "62473842",
       "itunes_duration": "52:03",
       "speakers": [
-        "Mike McShane",
-        "Robin Hood",
-        "Friar Tuck",
-        "Kevin Costner",
-        "Morgan Freeman",
-        "Christian Slater",
-        "Alan Rickman",
-        "Michael Fenton Stevens"
+        "Mike McShane"
       ],
       "topics": [
         "mike",
@@ -10725,14 +8613,7 @@
       "enclosure_length": "66890626",
       "itunes_duration": "55:44",
       "speakers": [
-        "Sanjeev Bhaskar",
-        "DI Sunny Khan",
-        "Richard Curtis",
-        "Danny Boyle",
-        "Michael Fenton Stevens",
-        "Follow Sanjeev Bhaskar",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Sanjeev Bhaskar"
       ],
       "topics": [
         "sanjeev",
@@ -10751,14 +8632,7 @@
       "enclosure_length": "60892389",
       "itunes_duration": "50:44",
       "speakers": [
-        "John Keane",
-        "Kofi Annan",
-        "Jon Snow",
-        "Greg Dyke",
-        "Christian Aid",
-        "Michael Fenton Stevens",
-        "Follow John Keane",
-        "John Fenton-Stevens"
+        "John Keane"
       ],
       "topics": [
         "john",
@@ -10777,13 +8651,7 @@
       "enclosure_length": "57952046",
       "itunes_duration": "48:17",
       "speakers": [
-        "Sian Harries",
-        "Sally Phillips",
-        "Rhod Gilbert",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Sian Harries"
       ],
       "topics": [
         "sian",
@@ -10802,14 +8670,7 @@
       "enclosure_length": "63937222",
       "itunes_duration": "53:16",
       "speakers": [
-        "Richard Ayoade",
-        "John Oliver",
-        "John Finnemore",
-        "Ed Reardon",
-        "Matt Green",
-        "Michael Fenton Stevens",
-        "Follow Matt Green",
-        "John Fenton-Stevens"
+        "Matt Green Matt Green"
       ],
       "topics": [
         "matt",
@@ -10828,14 +8689,7 @@
       "enclosure_length": "87536765",
       "itunes_duration": "1:12:56",
       "speakers": [
-        "Joe Pasquale",
-        "Mel Brooks",
-        "Robert Powell",
-        "Frank Spencer",
-        "Bill Murray",
-        "Jim Carey",
-        "Steve Carell",
-        "Michael Fenton Stevens"
+        "Joe Pasquale"
       ],
       "topics": [
         "pasquale"
@@ -10854,13 +8708,7 @@
       "itunes_duration": "46:01",
       "speakers": [
         "Steve Brown",
-        "Glen Ponder",
-        "Steve Coogan",
-        "Alan Partridge",
-        "Harry Hill",
-        "Laura Mvula",
-        "Lenny Henry Goes",
-        "Rory Bremner"
+        "Glen Ponder"
       ],
       "topics": [
         "steve",
@@ -10879,11 +8727,7 @@
       "enclosure_length": "61256536",
       "itunes_duration": "51:02",
       "speakers": [
-        "Toyah Willcox",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Toyah Willcox"
       ],
       "topics": [
         "toyah",
@@ -10903,12 +8747,7 @@
       "itunes_duration": "40:53",
       "speakers": [
         "Fern Britton",
-        "Phillip Schofield",
-        "Ready Steady Cook",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Phillip Schofiel"
       ],
       "topics": [
         "fern",
@@ -10928,11 +8767,7 @@
       "itunes_duration": "53:23",
       "speakers": [
         "Graham Fellows",
-        "John Shuttleworth",
-        "Jilted John",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "John Shuttleworth"
       ],
       "topics": [
         "graham",
@@ -10951,10 +8786,7 @@
       "enclosure_length": "51187900",
       "itunes_duration": "42:39",
       "speakers": [
-        "Robin Windsor",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Robin Windsor"
       ],
       "topics": [
         "robin",
@@ -10973,11 +8805,7 @@
       "enclosure_length": "80605956",
       "itunes_duration": "1:07:10",
       "speakers": [
-        "Scroobius Pip",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Scroobius Pip Scroobius Pip"
       ],
       "topics": [
         "scroobius"
@@ -10995,10 +8823,7 @@
       "enclosure_length": "53272471",
       "itunes_duration": "44:23",
       "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Davies Freddie"
       ],
       "topics": [
         "freddie",
@@ -11019,14 +8844,7 @@
       "enclosure_length": "84245336",
       "itunes_duration": "1:10:12",
       "speakers": [
-        "Nick Knowles",
-        "Anna Chancellor",
-        "Alan Davies",
-        "Adam Wide",
-        "Paul Bradley",
-        "Ed Byrne",
-        "Chris Lang",
-        "Angela Barnes"
+        "Nick Knowles"
       ],
       "topics": [
         "time",
@@ -11045,14 +8863,7 @@
       "enclosure_length": "76385091",
       "itunes_duration": "1:03:39",
       "speakers": [
-        "Elis James",
-        "Mark Thomas",
-        "Simon Evans",
-        "Emma Kennedy",
-        "Gary Wilmot",
-        "Jo Caulfield",
-        "Ken Bruce",
-        "Romola Garai"
+        "Elis James"
       ],
       "topics": [
         "time",
@@ -11073,12 +8884,7 @@
       "speakers": [
         "Ross Noble",
         "Mark Steel",
-        "Rob Brydon",
-        "Shaparak Khorsandi",
-        "John O'Farrell",
-        "Paterson Joseph",
-        "Josie Long",
-        "Les Dennis"
+        "Rob Brydon"
       ],
       "topics": [
         "time",
@@ -11097,14 +8903,7 @@
       "enclosure_length": "84800699",
       "itunes_duration": "1:10:39",
       "speakers": [
-        "Griff Rhys Jones",
-        "Arthur Smith",
-        "Janet Ellis",
-        "Rick Wakeman",
-        "Mark Gatiss",
-        "Anneka Rice",
-        "John Challis",
-        "Ellie White"
+        "Griff Rhys Jones"
       ],
       "topics": [
         "time",
@@ -11125,12 +8924,7 @@
       "speakers": [
         "Stephen Fry",
         "Rick Wakeman",
-        "Lucy Porter",
-        "Shane Richie",
-        "Arabella Weir",
-        "Mark Gatiss",
-        "Doon Mackichan",
-        "David Jason"
+        "Lucy Po"
       ],
       "topics": [
         "time",
@@ -11149,14 +8943,7 @@
       "enclosure_length": "82518120",
       "itunes_duration": "1:08:45",
       "speakers": [
-        "Sanjeev Bhaskar",
-        "Rory McGrath",
-        "Katy Brand",
-        "Paul Mayhew-Archer",
-        "Charlie Higson",
-        "Paul Burke",
-        "Les Dennis",
-        "John O'Farrell"
+        "My Christmas Time Capsule"
       ],
       "topics": [
         "christmas",
@@ -11176,14 +8963,7 @@
       "enclosure_length": "73550805",
       "itunes_duration": "1:01:17",
       "speakers": [
-        "Clive Anderson",
-        "Eilidh Doyle",
-        "Andrew Hunter Murray",
-        "Lisa Riley",
-        "Ken Bruce",
-        "Gary Wilmot",
-        "Fred MacAulay",
-        "Kate Thornton"
+        "My Christmas Time Capsule"
       ],
       "topics": [
         "christmas",
@@ -11203,14 +8983,7 @@
       "enclosure_length": "72719589",
       "itunes_duration": "1:00:35",
       "speakers": [
-        "Stephen Fry",
-        "Lucy Porter",
-        "John Challis",
-        "Tony Hawks",
-        "Anthony Head",
-        "Janet Ellis",
-        "Rick Wakeman",
-        "Anneka Rice"
+        "Stephen Fry"
       ],
       "topics": [
         "christmas",
@@ -11230,9 +9003,7 @@
       "enclosure_length": "114932944",
       "itunes_duration": "3:11:32",
       "speakers": [
-        "Mike Fenton Stevens",
-        "Charles Dickens",
-        "Michael Fenton Stevens"
+        "Mike Fenton Stevens"
       ],
       "topics": [
         "christmas",
@@ -11254,14 +9025,7 @@
       "enclosure_length": "62584601",
       "itunes_duration": "52:09",
       "speakers": [
-        "Arthur Smith",
-        "Andy Hamilton",
-        "Mark Watson",
-        "Paul Mayhew-Archer",
-        "Jan Ravens",
-        "Kevin McNally",
-        "Anthony Head",
-        "Ellie White"
+        "Arthur Sm"
       ],
       "topics": [
         "christmas",
@@ -11281,13 +9045,7 @@
       "enclosure_length": "57375785",
       "itunes_duration": "47:48",
       "speakers": [
-        "Matthew Kelly",
-        "John Steinbeck",
-        "Ian McKellen",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Matthew Kelly"
       ],
       "topics": [
         "matthew",
@@ -11307,13 +9065,7 @@
       "itunes_duration": "1:05:55",
       "speakers": [
         "Henry Normal",
-        "Steve Coogan",
-        "Mighty Boosh",
-        "Alan Partridge",
-        "Mrs Merton Show",
-        "Michael Fenton Stevens",
-        "Follow Henry Normal",
-        "John Fenton-Stevens"
+        "Steve Coogan"
       ],
       "topics": [
         "henry",
@@ -11332,12 +9084,9 @@
       "enclosure_length": "61192797",
       "itunes_duration": "50:59",
       "speakers": [
-        "Celebrity MasterChef",
-        "Michael Fenton Stevens",
-        "Follow Chizzy",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Chizzy Akudolu Chizzy Akudolu",
+        "Mo Effanga",
+        "Holby City"
       ],
       "topics": [
         "chizzy",
@@ -11356,12 +9105,7 @@
       "enclosure_length": "59061206",
       "itunes_duration": "49:12",
       "speakers": [
-        "Emma Fielding",
-        "Silent Witness",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Emma Fielding"
       ],
       "topics": [
         "emma",
@@ -11380,12 +9124,7 @@
       "enclosure_length": "95474854",
       "itunes_duration": "1:19:33",
       "speakers": [
-        "Mark Steel",
-        "Michael Fenton Stevens",
-        "Follow Mark Steel",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Mark Steel"
       ],
       "topics": [
         "mark",
@@ -11403,15 +9142,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49084520",
       "itunes_duration": "40:54",
-      "speakers": [
-        "David Hasselhoff",
-        "Jonathan Creek",
-        "Harry Hill",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "fergus",
         "craig"
@@ -11429,14 +9160,7 @@
       "enclosure_length": "55684618",
       "itunes_duration": "46:24",
       "speakers": [
-        "Nick Knowles",
-        "Dares Wins",
-        "Simon Callow",
-        "Michael Fenton Stevens",
-        "Follow Nick Knowles",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Nick Knowles"
       ],
       "topics": [
         "nick",
@@ -11456,13 +9180,7 @@
       "itunes_duration": "41:15",
       "speakers": [
         "Nathan Bryon Nathan Bryon",
-        "Joey Ellis",
-        "Jamie Bennett",
-        "Nathan Bryon",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Joey Ellis"
       ],
       "topics": [
         "nathan",
@@ -11481,14 +9199,7 @@
       "enclosure_length": "79709956",
       "itunes_duration": "1:06:25",
       "speakers": [
-        "John Robins",
-        "Josh Widdicombe",
-        "Elis James",
-        "Michael Fenton Stevens",
-        "Follow Elis James",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Elis James Elis James"
       ],
       "topics": [
         "elis",
@@ -11507,13 +9218,8 @@
       "enclosure_length": "58630185",
       "itunes_duration": "48:51",
       "speakers": [
-        "John Finnemore",
-        "Sarah Millican",
-        "Margaret Cabourn-Smith",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Margaret Cabourn",
+        "Smith Margaret Cabourn"
       ],
       "topics": [
         "margaret",
@@ -11534,12 +9240,7 @@
       "itunes_duration": "54:10",
       "speakers": [
         "Lisa Riley",
-        "Mandy Dingle",
-        "Harry Hill",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Mandy Dingle"
       ],
       "topics": [
         "lisa",
@@ -11558,14 +9259,7 @@
       "enclosure_length": "35461141",
       "itunes_duration": "29:32",
       "speakers": [
-        "Annie McGrath",
-        "Secret Artists",
-        "Vic Reeves",
-        "Harry Hill",
-        "Josie Long",
-        "Jenny Eclair",
-        "Alex Horne",
-        "Baby Shower"
+        "Annie McGrath"
       ],
       "topics": [
         "annie",
@@ -11584,13 +9278,7 @@
       "enclosure_length": "76958218",
       "itunes_duration": "1:04:07",
       "speakers": [
-        "Josie Long",
-        "Josie Long’s Gambit",
-        "Robin Ince",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Josie Long"
       ],
       "topics": [
         "josie",
@@ -11609,11 +9297,7 @@
       "enclosure_length": "57560210",
       "itunes_duration": "47:57",
       "speakers": [
-        "Steven Hartley",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Steven Hartley"
       ],
       "topics": [
         "steven",
@@ -11634,12 +9318,7 @@
       "speakers": [
         "Paterson Joseph Paterson Joseph",
         "Alan Johnson",
-        "Mark Grace",
-        "Leonardo DiCaprio",
-        "Paterson Joseph",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Mark Grace"
       ],
       "topics": [
         "paterson",
@@ -11658,13 +9337,7 @@
       "enclosure_length": "52976242",
       "itunes_duration": "44:08",
       "speakers": [
-        "Holly Cunningham",
-        "Amanda Clapham",
-        "Michael Fenton Stevens",
-        "Instagram amandaclapham",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Holly Cunningham"
       ],
       "topics": [
         "amanda",
@@ -11684,13 +9357,7 @@
       "itunes_duration": "54:33",
       "speakers": [
         "Shaparak Khorsandi Shaparak Khorsandi",
-        "Shappi Khorsandi",
-        "Kissing Emma",
-        "Shaparak Khorsandi",
-        "Michael Fenton Stevens",
-        "Follow Shaparak Khorsandi",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Shappi Khorsandi"
       ],
       "topics": [
         "shaparak",
@@ -11709,13 +9376,7 @@
       "enclosure_length": "67517565",
       "itunes_duration": "56:15",
       "speakers": [
-        "Julia Davis",
-        "Ben Stiller",
-        "Steve Coogan",
-        "Jackie Chan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Julia Davis"
       ],
       "topics": [
         "rufus",
@@ -11734,10 +9395,7 @@
       "enclosure_length": "69376961",
       "itunes_duration": "57:48",
       "speakers": [
-        "Hal Cruttenden",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Hal Cruttenden Hal Cruttenden"
       ],
       "topics": [
         "cruttenden"
@@ -11755,12 +9413,7 @@
       "enclosure_length": "61096144",
       "itunes_duration": "50:54",
       "speakers": [
-        "Dan Tetsell",
-        "Jim McGinn",
-        "Upstart Crow",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Dan Tetsell"
       ],
       "topics": [
         "tetsell"
@@ -11778,12 +9431,7 @@
       "enclosure_length": "65020781",
       "itunes_duration": "54:10",
       "speakers": [
-        "Anne Hegerty",
-        "Michael Fenton Stevens",
-        "Follow Anne Hegerty",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Anne Hegerty"
       ],
       "topics": [
         "anne",
@@ -11802,14 +9450,7 @@
       "enclosure_length": "65411573",
       "itunes_duration": "54:30",
       "speakers": [
-        "Roast Battle",
-        "Russell Howard’s Stand",
-        "Rhys James",
-        "Michael Fenton Stevens",
-        "Follow Rhys James",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Rhys James Rhys James"
       ],
       "topics": [
         "rhys",
@@ -11829,11 +9470,7 @@
       "itunes_duration": "50:54",
       "speakers": [
         "Richard Wilson",
-        "Victor Meldrew",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Victor Meldrew"
       ],
       "topics": [
         "richard",
@@ -11853,12 +9490,7 @@
       "itunes_duration": "53:06",
       "speakers": [
         "Sanjeev Kohli Sanjeev Kohli",
-        "Navid Harrid",
-        "Sanjeev Kohli",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Navid Harrid"
       ],
       "topics": [
         "sanjeev",
@@ -11878,12 +9510,7 @@
       "itunes_duration": "50:51",
       "speakers": [
         "Jeremy Swift",
-        "Leslie Higgins",
-        "Septimus Spratt",
-        "Maggie Smith",
-        "Mary Poppins Returns",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Leslie Higgins"
       ],
       "topics": [
         "jeremy",
@@ -11902,13 +9529,7 @@
       "enclosure_length": "54751002",
       "itunes_duration": "45:37",
       "speakers": [
-        "Colin Sell",
-        "Willie Rushton",
-        "Barrie Cryer",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Colin Sell"
       ],
       "topics": [
         "colin",
@@ -11927,12 +9548,7 @@
       "enclosure_length": "49692128",
       "itunes_duration": "41:24",
       "speakers": [
-        "Tony Slattery",
-        "Stephen Fry",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Tony Slattery"
       ],
       "topics": [
         "tony",
@@ -11951,14 +9567,7 @@
       "enclosure_length": "59431099",
       "itunes_duration": "49:31",
       "speakers": [
-        "David Quantick",
-        "Harry Hill",
-        "Brass Eye",
-        "Chris Morris",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "David Quantick"
       ],
       "topics": [
         "david",
@@ -11977,13 +9586,7 @@
       "enclosure_length": "75281679",
       "itunes_duration": "1:02:43",
       "speakers": [
-        "Robert Llewellyn",
-        "Robert’s YouTube",
-        "Fully Charged",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Robert Llewellyn"
       ],
       "topics": [
         "robert",
@@ -12002,14 +9605,7 @@
       "enclosure_length": "66796585",
       "itunes_duration": "55:39",
       "speakers": [
-        "Jo Caulfield",
-        "Michael McIntyre",
-        "Comedy Roadshow",
-        "Caulfield Again",
-        "Graham Norton",
-        "Ruby Wax’s Waiting Game",
-        "Michael Fenton Stevens",
-        "Follow Jo Caulfield"
+        "Jo Caulfield"
       ],
       "topics": [
         "caulfield"
@@ -12028,13 +9624,7 @@
       "itunes_duration": "41:11",
       "speakers": [
         "Mark Billingham",
-        "Tom Thorne",
-        "Maid Marian",
-        "Merry Men",
-        "Tony Robinson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Tom Thorne"
       ],
       "topics": [
         "mark",
@@ -12054,12 +9644,7 @@
       "itunes_duration": "45:00",
       "speakers": [
         "Simon Greenall",
-        "Alan Partridge",
-        "Alpha Papa",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Alan Partridge"
       ],
       "topics": [
         "simon",
@@ -12077,14 +9662,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66680601",
       "itunes_duration": "55:33",
-      "speakers": [
-        "Mamma Mia",
-        "Whoopi Goldberg",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "omid",
         "djalili"
@@ -12102,13 +9680,7 @@
       "enclosure_length": "56418659",
       "itunes_duration": "47:00",
       "speakers": [
-        "Mitch Benn Mitch Benn",
-        "Mitch Benn",
-        "Michael Fenton Stevens",
-        "Follow Mitch Benn",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Mitch Benn Mitch Benn"
       ],
       "topics": [
         "mitch",
@@ -12127,13 +9699,7 @@
       "enclosure_length": "53317402",
       "itunes_duration": "44:25",
       "speakers": [
-        "Angela Barnes",
-        "John O'Farrell",
-        "Michael Fenton Stevens",
-        "Follow Angela Barnes",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Angela Barnes"
       ],
       "topics": [
         "angela",
@@ -12152,11 +9718,7 @@
       "enclosure_length": "72418659",
       "itunes_duration": "1:00:20",
       "speakers": [
-        "Dallas Campbell",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Dallas Campbell Dallas Campbell"
       ],
       "topics": [
         "dallas",
@@ -12174,16 +9736,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57496993",
       "itunes_duration": "47:54",
-      "speakers": [
-        "Nick Park",
-        "Chicken Run",
-        "Something Rotten",
-        "Tony Awards",
-        "Michael Fenton Stevens",
-        "Angela Barnes",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
-      ],
+      "speakers": [],
       "topics": [
         "john"
       ]
@@ -12201,13 +9754,7 @@
       "itunes_duration": "42:14",
       "speakers": [
         "Arthur Strong",
-        "Steve Delaney",
-        "Count Arthur Strong",
-        "Count Arthur",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Steve Delaney"
       ],
       "topics": [
         "steve",
@@ -12231,12 +9778,7 @@
       "speakers": [
         "Paul Bradley",
         "Nigel Bates",
-        "Elliot Hope",
-        "Comic Relief",
-        "Stephen Warbeck",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Elliot Hope"
       ],
       "topics": [
         "paul",
@@ -12255,14 +9797,7 @@
       "enclosure_length": "61070544",
       "itunes_duration": "50:53",
       "speakers": [
-        "Helen Trent",
-        "Lady Ellen Hoxley",
-        "Sophia Byrne",
-        "Helena Bonham Carter",
-        "Jane Eyre",
-        "Michael Fassbender",
-        "Judi Dench",
-        "Sophie Ward"
+        "Helen Trent"
       ],
       "topics": [
         "sophie",
@@ -12282,13 +9817,7 @@
       "itunes_duration": "47:11",
       "speakers": [
         "Gary Wilmot",
-        "Gary Wilmot Mbe",
-        "Chitty Chitty Bang Bang",
-        "My Girl",
-        "Dirty Rotten Scoundrels",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Gary Wilmot Mbe"
       ],
       "topics": [
         "gary",
@@ -12307,12 +9836,7 @@
       "enclosure_length": "90236781",
       "itunes_duration": "1:15:11",
       "speakers": [
-        "Kevin Day",
-        "Mark Thomas",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Kevin Day"
       ],
       "topics": [
         "kevin"
@@ -12329,16 +9853,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67642430",
       "itunes_duration": "56:21",
-      "speakers": [
-        "David Mitchell",
-        "Robert Webb",
-        "Man Down",
-        "Michael Fenton Stevens",
-        "Follow Isy Suttie",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "suttie"
       ]
@@ -12355,12 +9870,7 @@
       "enclosure_length": "67839916",
       "itunes_duration": "56:31",
       "speakers": [
-        "Alfie Brown",
-        "Jan Ravens",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Alfie Brown"
       ],
       "topics": [
         "alfie",
@@ -12379,13 +9889,7 @@
       "enclosure_length": "62790446",
       "itunes_duration": "52:19",
       "speakers": [
-        "Davina McCall",
-        "Nicky Campbell",
-        "Michael Fenton Stevens",
-        "Follow Nicky Campbell",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Nicky Campbell Nicky Campbell"
       ],
       "topics": [
         "nicky",
@@ -12404,12 +9908,7 @@
       "enclosure_length": "45809810",
       "itunes_duration": "38:10",
       "speakers": [
-        "Harriet Cross",
-        "Michael Fenton Stevens",
-        "Follow Harriet Cross",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Harriet Cross"
       ],
       "topics": [
         "harriet",
@@ -12428,14 +9927,7 @@
       "enclosure_length": "61794136",
       "itunes_duration": "51:29",
       "speakers": [
-        "Emma Kennedy",
-        "Richard Not Judy",
-        "Richard Herring",
-        "Stewart Lee",
-        "Jonathan Creek",
-        "Katherine Parkinson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Emma Kennedy"
       ],
       "topics": [
         "emma",
@@ -12454,14 +9946,7 @@
       "enclosure_length": "52467900",
       "itunes_duration": "43:43",
       "speakers": [
-        "Alex Macqueen",
-        "Keith Green",
-        "Julius Nicholson",
-        "Peaky Blinders",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Alex Macqueen"
       ],
       "topics": [
         "alex",
@@ -12480,14 +9965,7 @@
       "enclosure_length": "52428716",
       "itunes_duration": "43:41",
       "speakers": [
-        "Barry Cryer",
-        "Dave Allen",
-        "Stanley Baxter",
-        "Jack Benny",
-        "Rory Bremner",
-        "George Burns",
-        "Jasper Carrott",
-        "Tommy Cooper"
+        "Barry Cryer"
       ],
       "topics": [
         "barry",
@@ -12506,14 +9984,7 @@
       "enclosure_length": "48746495",
       "itunes_duration": "40:37",
       "speakers": [
-        "Barry Cryer",
-        "Dave Allen",
-        "Stanley Baxter",
-        "Jack Benny",
-        "Rory Bremner",
-        "George Burns",
-        "Jasper Carrott",
-        "Tommy Cooper"
+        "Barry Cryer"
       ],
       "topics": [
         "barry",
@@ -12532,11 +10003,7 @@
       "enclosure_length": "59542381",
       "itunes_duration": "49:36",
       "speakers": [
-        "Adam Wide",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Adam Wide"
       ],
       "topics": [
         "adam",
@@ -12555,14 +10022,7 @@
       "enclosure_length": "76299410",
       "itunes_duration": "1:03:34",
       "speakers": [
-        "Katy Brand",
-        "Emma Thompson",
-        "Celebrity Mastermind",
-        "Rob Brydon",
-        "Good Luck",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Katy Brand"
       ],
       "topics": [
         "katy",
@@ -12581,14 +10041,7 @@
       "enclosure_length": "63574642",
       "itunes_duration": "52:58",
       "speakers": [
-        "Justin Moorhouse",
-        "Young Kenny",
-        "Ken Loach",
-        "Eric Cantona",
-        "Michael McIntyre",
-        "Comedy Roadshow",
-        "Celebrity Mastermind",
-        "Michael Fenton Stevens"
+        "Justin Moorhouse"
       ],
       "topics": [
         "justin",
@@ -12607,14 +10060,7 @@
       "enclosure_length": "94621173",
       "itunes_duration": "1:18:50",
       "speakers": [
-        "Ross Noble",
-        "Jonathan Ross",
-        "Top Gear",
-        "Mel Brooks",
-        "Mel Brooks Young Frankenstein",
-        "Michael Fenton Stevens",
-        "Follow Ross Noble",
-        "John Fenton-Stevens"
+        "Ross Noble"
       ],
       "topics": [
         "ross",
@@ -12633,14 +10079,7 @@
       "enclosure_length": "49096536",
       "itunes_duration": "40:54",
       "speakers": [
-        "Emma Cunniffe",
-        "Matt Smith",
-        "Clocking Off",
-        "Waterloo Road",
-        "Queen Anne",
-        "Helen Edmundson",
-        "Elizabeth Proctor",
-        "Michael Fenton Stevens"
+        "Emma Cunniffe"
       ],
       "topics": [
         "emma",
@@ -12659,13 +10098,7 @@
       "enclosure_length": "62246577",
       "itunes_duration": "51:52",
       "speakers": [
-        "Alan Davies",
-        "Jonathan Creek",
-        "Michael Fenton Stevens",
-        "Follow Alan Davies",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Alan Davies"
       ],
       "topics": [
         "alan",
@@ -12685,13 +10118,7 @@
       "itunes_duration": "33:32",
       "speakers": [
         "Simon Williams",
-        "James Bellamy",
-        "Charles Cartwright",
-        "Justin Elliott",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "James Bellamy"
       ],
       "topics": [
         "simon",
@@ -12711,12 +10138,7 @@
       "itunes_duration": "48:11",
       "speakers": [
         "Bonnie Langford",
-        "Carmel Kazemi",
-        "Mel Bush",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Carmel Kazemi"
       ],
       "topics": [
         "bonnie",
@@ -12736,13 +10158,7 @@
       "itunes_duration": "44:56",
       "speakers": [
         "Alex Lowe",
-        "Clinton Baptiste",
-        "Steve Wright",
-        "Iain Lee",
-        "Peter Kay Thing",
-        "Michael Fenton Stevens",
-        "Follow Alex",
-        "barryfromwat Barry"
+        "Clinton Baptiste"
       ],
       "topics": [
         "alex",
@@ -12761,14 +10177,7 @@
       "enclosure_length": "61099279",
       "itunes_duration": "50:54",
       "speakers": [
-        "Les Dennis Les Dennis",
-        "Ricky Gervais",
-        "Stephen Merchant",
-        "Michael Rogers",
-        "Les Dennis",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Les Dennis Les Dennis"
       ],
       "topics": [
         "dennis"
@@ -12787,12 +10196,7 @@
       "itunes_duration": "43:08",
       "speakers": [
         "James Moore",
-        "Ryan Stocks",
-        "Michael Fenton Stevens",
-        "Follow My Time Capsule",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Ryan Stocks"
       ],
       "topics": [
         "james",
@@ -12813,12 +10217,7 @@
       "speakers": [
         "John Bradley",
         "Samwell Tarly",
-        "Jon Snow",
-        "Robot Chicken",
-        "John Bradley West",
-        "Michael Fenton Stevens",
-        "Follow My Time Capsule",
-        "John Fenton-Stevens"
+        "Jon Snow"
       ],
       "topics": [
         "john",
@@ -12837,14 +10236,7 @@
       "enclosure_length": "74361646",
       "itunes_duration": "1:01:57",
       "speakers": [
-        "Josie Lawrence",
-        "Manda Best",
-        "Timothy Spall",
-        "Brenda Blethyn",
-        "Jonathan Creek",
-        "Good Omens",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Josie Lawrence"
       ],
       "topics": [
         "josie",
@@ -12864,13 +10256,7 @@
       "itunes_duration": "1:01:15",
       "speakers": [
         "Charlie Higson",
-        "Paul Whitehouse",
-        "Harry Enfield",
-        "Swiss Toni",
-        "Bob Mortimer",
-        "Vic Reeves",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Paul Whitehouse"
       ],
       "topics": [
         "charlie",
@@ -12889,13 +10275,7 @@
       "enclosure_length": "63229304",
       "itunes_duration": "52:41",
       "speakers": [
-        "Simon Evans",
-        "Simon Evans Goes",
-        "Michael Fenton Stevens",
-        "Follow Simon Evans",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Simon Evans"
       ],
       "topics": [
         "simon",
@@ -12914,11 +10294,7 @@
       "enclosure_length": "56846544",
       "itunes_duration": "47:22",
       "speakers": [
-        "Ken Bruce",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Ken Bruce"
       ],
       "topics": [
         "bruce"
@@ -12936,12 +10312,7 @@
       "enclosure_length": "52440732",
       "itunes_duration": "43:41",
       "speakers": [
-        "Kate Thornton",
-        "Marie Claire",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Kate Thornton"
       ],
       "topics": [
         "kate",
@@ -12960,13 +10331,7 @@
       "enclosure_length": "74886185",
       "itunes_duration": "1:02:24",
       "speakers": [
-        "Rob Brydon",
-        "Bryn West",
-        "Steve Coogan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Rob Brydon"
       ],
       "topics": [
         "brydon"
@@ -12984,14 +10349,7 @@
       "enclosure_length": "63134740",
       "itunes_duration": "52:36",
       "speakers": [
-        "Giles Paley-Phillips",
-        "Jim Daly",
-        "Michael Fenton Stevens",
-        "Giles Paley-Phillip",
-        "Buy Giles",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Giles Paley-Phillips"
       ],
       "topics": [
         "giles",
@@ -13012,12 +10370,7 @@
       "itunes_duration": "1:05:51",
       "speakers": [
         "Howard Goodall Emmy",
-        "Howard Goodall",
-        "Rowan Atkinson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Howard Goodall"
       ],
       "topics": [
         "howard",
@@ -13036,11 +10389,8 @@
       "enclosure_length": "56405597",
       "itunes_duration": "47:00",
       "speakers": [
-        "Izzy Mant",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Izzy Mant Izzy Mant",
+        "Peep Show"
       ],
       "topics": [
         "izzy",
@@ -13059,13 +10409,7 @@
       "enclosure_length": "49844161",
       "itunes_duration": "41:32",
       "speakers": [
-        "Tim Vine",
-        "Lee Mack",
-        "Michael Fenton Stevens",
-        "Guy Vine",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Tim Vine"
       ],
       "topics": [
         "vine"
@@ -13083,14 +10427,7 @@
       "enclosure_length": "58339181",
       "itunes_duration": "48:36",
       "speakers": [
-        "Romola Garai",
-        "Liam Neeson",
-        "Laura Linney",
-        "Stephen Poliakoff",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Romola Garai"
       ],
       "topics": [
         "romola",
@@ -13109,12 +10446,7 @@
       "enclosure_length": "60160438",
       "itunes_duration": "50:07",
       "speakers": [
-        "Ed Byrne",
-        "Michael Fenton Stevens",
-        "Follow Ed Byrne",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Ed Byrne"
       ],
       "topics": [
         "byrne"
@@ -13132,13 +10464,7 @@
       "enclosure_length": "60473385",
       "itunes_duration": "50:23",
       "speakers": [
-        "Chris Lang",
-        "Dark Heart",
-        "Hugh Grant",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Chris Lang"
       ],
       "topics": [
         "chris",
@@ -13157,14 +10483,7 @@
       "enclosure_length": "74942610",
       "itunes_duration": "1:02:26",
       "speakers": [
-        "Duck Face",
-        "Caroline Bingley",
-        "Colin Firth",
-        "Downton Abbey",
-        "Anna Chancellor",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Duck Face"
       ],
       "topics": [
         "anna",
@@ -13183,12 +10502,7 @@
       "enclosure_length": "54075475",
       "itunes_duration": "45:03",
       "speakers": [
-        "Catherine Tate",
-        "Michael Fenton Stevens",
-        "Follow Derren Litten",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Catherine Tate"
       ],
       "topics": [
         "derren",
@@ -13208,11 +10522,7 @@
       "itunes_duration": "59:26",
       "speakers": [
         "Seann Walsh",
-        "Comedian Seann Walsh",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Comedian Seann Walsh"
       ],
       "topics": [
         "seann",
@@ -13232,13 +10542,7 @@
       "itunes_duration": "43:12",
       "speakers": [
         "Aurora Burghart",
-        "David Tennant",
-        "Jessica Hynes",
-        "Michael Fenton Stevens",
-        "Follow Aurora Burghart",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Sex Educatio"
       ],
       "topics": [
         "aurora",
@@ -13257,11 +10561,7 @@
       "enclosure_length": "53881124",
       "itunes_duration": "44:53",
       "speakers": [
-        "Mark Watson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Mark Watson"
       ],
       "topics": [
         "mark",
@@ -13281,12 +10581,7 @@
       "itunes_duration": "48:31",
       "speakers": [
         "David Archer",
-        "Tim Bentinck",
-        "Gérard Depardieu",
-        "Chow Yung Fat",
-        "Hidden Dragon",
-        "Michael Fenton Stevens",
-        "Being David Archer"
+        "Tim Bentinck"
       ],
       "topics": [
         "bentinck"
@@ -13304,13 +10599,7 @@
       "enclosure_length": "62837467",
       "itunes_duration": "52:21",
       "speakers": [
-        "Rachel Parris",
-        "Marcus Brigstocke",
-        "Michael Fenton Stevens",
-        "Follow Rachel Parris",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Rachel Parris"
       ],
       "topics": [
         "rachel",
@@ -13331,14 +10620,7 @@
       "enclosure_length": "43759198",
       "itunes_duration": "36:27",
       "speakers": [
-        "Nigel Planer",
-        "Ralph Filthy",
-        "Rick Mayall",
-        "Adrian Edmondson",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Nigel Planer"
       ],
       "topics": [
         "nigel",
@@ -13357,12 +10639,7 @@
       "enclosure_length": "68461630",
       "itunes_duration": "57:02",
       "speakers": [
-        "Mark Thomas Mark Thomas",
-        "Mark Thomas",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Mark Thomas Mark Thomas"
       ],
       "topics": [
         "mark",
@@ -13380,16 +10657,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45388716",
       "itunes_duration": "37:49",
-      "speakers": [
-        "Jo Brand",
-        "Joanna Scanlan",
-        "Julia Davis",
-        "Princess Anne",
-        "Alan Partridge",
-        "Vicki Pepperdine",
-        "Michael Fenton Stevens",
-        "Follow Vicki Pepperdine"
-      ],
+      "speakers": [],
       "topics": [
         "vicki",
         "pepperdine"
@@ -13408,11 +10676,7 @@
       "itunes_duration": "54:36",
       "speakers": [
         "Caroline Quentin",
-        "Jonathan Creek",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Jonathan Creek"
       ],
       "topics": [
         "caroline",
@@ -13431,12 +10695,7 @@
       "enclosure_length": "74111916",
       "itunes_duration": "1:01:45",
       "speakers": [
-        "Clive Anderson",
-        "Clive Anderson All Talk",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Clive Anderson"
       ],
       "topics": [
         "clive",
@@ -13455,14 +10714,7 @@
       "enclosure_length": "65905810",
       "itunes_duration": "54:55",
       "speakers": [
-        "Robin Ince Robin Ince",
-        "Brian Cox",
-        "Josie’s Book Shambles",
-        "Josie Long",
-        "Robin Ince",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Robin Ince Robin Ince"
       ],
       "topics": [
         "robin",
@@ -13481,12 +10733,7 @@
       "enclosure_length": "71560275",
       "itunes_duration": "59:37",
       "speakers": [
-        "Kevin Bishop",
-        "Keith Lemon",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Kevin Bishop"
       ],
       "topics": [
         "kevin",
@@ -13505,13 +10752,7 @@
       "enclosure_length": "82283540",
       "itunes_duration": "1:08:33",
       "speakers": [
-        "Lee Mack",
-        "David Mitchell",
-        "Rob Brydon",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Lee Mack"
       ],
       "topics": [
         "mack"
@@ -13529,12 +10770,7 @@
       "enclosure_length": "58613989",
       "itunes_duration": "48:50",
       "speakers": [
-        "Creative Sauce",
-        "Andi Osho",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Andi Osho Andi Osho"
       ],
       "topics": [
         "andi",
@@ -13553,14 +10789,7 @@
       "enclosure_length": "54556128",
       "itunes_duration": "45:27",
       "speakers": [
-        "Best Newcomer",
-        "Julia Petley",
-        "Good Omens",
-        "Fred Sirieix",
-        "Jayde Adams",
-        "Michael Fenton Stevens",
-        "Follow Jayde Adams",
-        "Instagram msjaydeadams"
+        "Jayde Adams Jayde Adams"
       ],
       "topics": [
         "jayde",
@@ -13579,13 +10808,7 @@
       "enclosure_length": "54729059",
       "itunes_duration": "45:36",
       "speakers": [
-        "Rory McGrath",
-        "Griff Rhys Jones",
-        "Michael Fenton Stevens",
-        "Follow Rory McGrath",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Rory McGrath"
       ],
       "topics": [
         "rory",
@@ -13604,12 +10827,7 @@
       "enclosure_length": "68667475",
       "itunes_duration": "57:13",
       "speakers": [
-        "John Owen-Jones",
-        "Jean Valjean",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "John Owen-Jones"
       ],
       "topics": [
         "john",
@@ -13629,12 +10847,7 @@
       "enclosure_length": "70374316",
       "itunes_duration": "58:38",
       "speakers": [
-        "Fred Macaulay",
-        "Michael Fenton Stevens",
-        "Follow Fred Macaulay",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Fred Macaulay"
       ],
       "topics": [
         "fred",
@@ -13653,11 +10866,7 @@
       "enclosure_length": "50564095",
       "itunes_duration": "42:08",
       "speakers": [
-        "Eilidh Doyle",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Eilidh Doyle"
       ],
       "topics": [
         "eilidh",
@@ -13676,13 +10885,7 @@
       "enclosure_length": "53869630",
       "itunes_duration": "44:53",
       "speakers": [
-        "Andrew Hunter Murray",
-        "Jane Austen",
-        "Michael Fenton Stevens",
-        "Follow Andrew Hunter Murray",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Andrew Hunter Murray"
       ],
       "topics": [
         "andrew",
@@ -13704,13 +10907,9 @@
       "enclosure_length": "64069924",
       "itunes_duration": "53:23",
       "speakers": [
-        "Alan Partridge",
-        "Good Omens",
-        "Doon Mackichan",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Doon Mackichan Actor",
+        "Brass Eye",
+        "Knowing Me"
       ],
       "topics": [
         "doon",
@@ -13729,11 +10928,7 @@
       "enclosure_length": "45753908",
       "itunes_duration": "38:07",
       "speakers": [
-        "Milton Jones",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Milton Jones"
       ],
       "topics": [
         "milton",
@@ -13752,11 +10947,7 @@
       "enclosure_length": "51002430",
       "itunes_duration": "42:29",
       "speakers": [
-        "Arabella Weir",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Arabella Weir"
       ],
       "topics": [
         "arabella",
@@ -13775,11 +10966,8 @@
       "enclosure_length": "59000079",
       "itunes_duration": "49:09",
       "speakers": [
-        "Shane Richie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Shane Richie Shane Richie",
+        "Alfie Moon"
       ],
       "topics": [
         "shane",
@@ -13798,14 +10986,7 @@
       "enclosure_length": "51638251",
       "itunes_duration": "43:01",
       "speakers": [
-        "Danny Wallace",
-        "Dave Gorman",
-        "Jim Carey",
-        "Zoe Deschanel",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Danny Wallace"
       ],
       "topics": [
         "danny",
@@ -13824,11 +11005,7 @@
       "enclosure_length": "67536373",
       "itunes_duration": "56:16",
       "speakers": [
-        "Athena Kugblenu",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Athena Kugblenu Athena Kugblenu"
       ],
       "topics": [
         "athena",
@@ -13847,12 +11024,7 @@
       "enclosure_length": "84361842",
       "itunes_duration": "1:10:17",
       "speakers": [
-        "Dan Schreiber",
-        "John Lloyd",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Dan Schreiber"
       ],
       "topics": [
         "schreiber",
@@ -13873,13 +11045,7 @@
       "itunes_duration": "51:45",
       "speakers": [
         "David Jason",
-        "Derek Del Boy Trotter",
-        "Jack Frost",
-        "Pop Larkin",
-        "Danger Mouse",
-        "Count Duckula",
-        "Michael Fenton Stevens",
-        "Buy David"
+        "Derek Del Boy Trotter"
       ],
       "topics": [
         "david",
@@ -13899,13 +11065,7 @@
       "itunes_duration": "53:46",
       "speakers": [
         "Michael Maloney",
-        "Edward Heath",
-        "Kenneth Branagh",
-        "Juliet Stevenson",
-        "Alan Rickman",
-        "Cate Blanchett",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens"
+        "Edward Heath"
       ],
       "topics": [
         "michael",
@@ -13923,14 +11083,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65021303",
       "itunes_duration": "54:10",
-      "speakers": [
-        "Batty Man",
-        "Michael Fenton Stevens",
-        "Twitter stephenkamos",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "stephen",
         "amos"
@@ -13948,12 +11101,7 @@
       "enclosure_length": "73266071",
       "itunes_duration": "1:01:03",
       "speakers": [
-        "Jimmy Mulville",
-        "Derry Girls",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Jimmy Mulville"
       ],
       "topics": [
         "jimmy",
@@ -13974,12 +11122,7 @@
       "speakers": [
         "Tim McInnerny",
         "Percy Percy",
-        "Rowan Atkinson",
-        "Robett Glover",
-        "Johnny English Reborn",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Rowan Atkinson"
       ],
       "topics": [
         "mcinnerny"
@@ -13999,12 +11142,7 @@
       "speakers": [
         "Jaye Griffiths",
         "Elle Gardner",
-        "Janet Mander",
-        "Ros Henderson",
-        "Elizabeth Croft",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Janet Mander"
       ],
       "topics": [
         "jaye",
@@ -14022,15 +11160,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55639165",
       "itunes_duration": "46:21",
-      "speakers": [
-        "Citizen Smith",
-        "Being Boycie",
-        "John Challis",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "john",
         "challis"
@@ -14048,12 +11178,9 @@
       "enclosure_length": "52851377",
       "itunes_duration": "44:02",
       "speakers": [
-        "Anton du Beke",
-        "Jan Ravens",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Jan Ravens Best",
+        "Dead Ringers",
+        "Spitting Image"
       ],
       "topics": [
         "ravens"
@@ -14072,13 +11199,7 @@
       "itunes_duration": "49:47",
       "speakers": [
         "Robert Bathurst",
-        "David Marsden",
-        "Stephen Fry",
-        "Emma Thompson",
-        "Hugh Laurie",
-        "Michael Fenton Stevens",
-        "Twitter RobertBathurst",
-        "John Fenton-Stevens"
+        "David Marsden"
       ],
       "topics": [
         "robert",
@@ -14098,13 +11219,7 @@
       "itunes_duration": "1:05:00",
       "speakers": [
         "Catherine Mayer Author",
-        "Catherine Mayer",
-        "Sandi Toksvig",
-        "Prince Charles",
-        "Andy Gill",
-        "Michael Fenton Stevens",
-        "Buy Catherine",
-        "Preorder Good Greif"
+        "Catherine Mayer"
       ],
       "topics": [
         "catherine",
@@ -14123,11 +11238,7 @@
       "enclosure_length": "64054250",
       "itunes_duration": "53:22",
       "speakers": [
-        "Anneka Rice",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Anneka Rice"
       ],
       "topics": [
         "anneka",
@@ -14146,12 +11257,7 @@
       "enclosure_length": "80091344",
       "itunes_duration": "1:06:44",
       "speakers": [
-        "Upstart Crow",
-        "David Mitchell",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Upstart Crow"
       ],
       "topics": [
         "david",
@@ -14170,13 +11276,7 @@
       "enclosure_length": "48063655",
       "itunes_duration": "40:03",
       "speakers": [
-        "Mike Barratt",
-        "Dawn French",
-        "Clive Mantle",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Mike Barratt"
       ],
       "topics": [
         "clive",
@@ -14196,12 +11296,7 @@
       "itunes_duration": "54:48",
       "speakers": [
         "Kevin McNally",
-        "Joshamee Gibbs",
-        "Downton Abbey",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Joshamee Gibbs"
       ],
       "topics": [
         "kevin",
@@ -14220,14 +11315,7 @@
       "enclosure_length": "63524487",
       "itunes_duration": "52:56",
       "speakers": [
-        "Tony Hawks",
-        "Stutter Rap",
-        "Morris Minor",
-        "Michael Fenton Stevens",
-        "Follow Tony Hawks",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Tony Hawks"
       ],
       "topics": [
         "tony",
@@ -14246,11 +11334,7 @@
       "enclosure_length": "65644585",
       "itunes_duration": "54:42",
       "speakers": [
-        "Tom Goodman-Hill",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Tom Goodman-Hill"
       ],
       "topics": [
         "goodman",
@@ -14269,12 +11353,7 @@
       "enclosure_length": "66938691",
       "itunes_duration": "55:46",
       "speakers": [
-        "Michael Fenton Stevens",
-        "Follow Russell Grant",
-        "Russell Grant",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Russell Grant Russell Grant"
       ],
       "topics": [
         "russell",
@@ -14293,14 +11372,7 @@
       "enclosure_length": "69130887",
       "itunes_duration": "57:36",
       "speakers": [
-        "Ellie White",
-        "Alan Partridge",
-        "Lee Mack",
-        "Natasia Demetriou",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Ellie White"
       ],
       "topics": [
         "ellie",
@@ -14319,12 +11391,7 @@
       "enclosure_length": "51239622",
       "itunes_duration": "42:41",
       "speakers": [
-        "Craig Ferguson",
-        "James Corden",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Craig Ferguson"
       ],
       "topics": [
         "craig",
@@ -14343,11 +11410,7 @@
       "enclosure_length": "61865189",
       "itunes_duration": "51:33",
       "speakers": [
-        "Lynne Truss",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Lynne Truss"
       ],
       "topics": [
         "lynne",
@@ -14366,14 +11429,7 @@
       "enclosure_length": "60084683",
       "itunes_duration": "50:04",
       "speakers": [
-        "Rita Rudner",
-        "David Letterman",
-        "Johnny Carson",
-        "Barack Obama",
-        "Mark Maron",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Rita Rudner"
       ],
       "topics": [
         "rita",
@@ -14392,12 +11448,7 @@
       "enclosure_length": "62013042",
       "itunes_duration": "51:40",
       "speakers": [
-        "Rick Wakeman",
-        "David Bowie",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Rick Wakeman"
       ],
       "topics": [
         "rick",
@@ -14418,11 +11469,7 @@
       "speakers": [
         "Steve Edge",
         "Peter Kay Thing",
-        "Manford Show",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Jason Ma"
       ],
       "topics": [
         "steve",
@@ -14441,12 +11488,7 @@
       "enclosure_length": "77180781",
       "itunes_duration": "1:04:18",
       "speakers": [
-        "John Lloyd John Lloyd",
-        "Michael Fenton Stevens",
-        "John Lloyd",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "John Lloyd John Lloyd"
       ],
       "topics": [
         "john",
@@ -14465,13 +11507,7 @@
       "enclosure_length": "58693402",
       "itunes_duration": "48:54",
       "speakers": [
-        "Julie Graham Star",
-        "Julie Graham",
-        "Michael Fenton Stevens",
-        "Follow Julie Graham",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Julie Graham Star"
       ],
       "topics": [
         "julie",
@@ -14492,11 +11528,7 @@
       "speakers": [
         "Danny Walters",
         "Keanu Taylor",
-        "Tiger Dyke",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Tiger Dyke"
       ],
       "topics": [
         "danny",
@@ -14515,13 +11547,7 @@
       "enclosure_length": "66566185",
       "itunes_duration": "55:28",
       "speakers": [
-        "Ahir Shah",
-        "Frankie Boyle",
-        "Michael Fenton Stevens",
-        "Follow Ahir Shah",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Ahir Shah"
       ],
       "topics": [
         "ahir",
@@ -14539,12 +11565,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52432373",
       "itunes_duration": "43:41",
-      "speakers": [
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "natascha",
         "mcelhone"
@@ -14562,14 +11583,7 @@
       "enclosure_length": "71666854",
       "itunes_duration": "59:43",
       "speakers": [
-        "Paul Mayhew-Archer",
-        "Mrs Brown’s Boys",
-        "Esio Trot",
-        "Judi Dench",
-        "Dustin Hoffman",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Paul Mayhew-Archer"
       ],
       "topics": [
         "paul",
@@ -14589,11 +11603,7 @@
       "enclosure_length": "66135687",
       "itunes_duration": "55:06",
       "speakers": [
-        "Miles Jupp",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Miles Jupp Standup"
       ],
       "topics": [
         "miles",
@@ -14613,12 +11623,7 @@
       "itunes_duration": "59:03",
       "speakers": [
         "Blue Peter",
-        "Janet Ellis Mbe",
-        "Michael Fenton Stevens",
-        "Janet Ellis",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Janet Ellis Mbe"
       ],
       "topics": [
         "janet",
@@ -14636,15 +11641,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58635410",
       "itunes_duration": "48:51",
-      "speakers": [
-        "Rachel Khoo’s Simple Pleasures",
-        "Rachel Khoo",
-        "Michael Fenton Stevens",
-        "Follow Rachel Khoo",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "rachel",
         "khoo"
@@ -14662,12 +11659,9 @@
       "enclosure_length": "40337157",
       "itunes_duration": "33:36",
       "speakers": [
-        "Tony Gardner",
-        "Michael Fenton Stevens",
-        "Michael FS",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Lead Balloon",
+        "Last Tango",
+        "Fresh Meat"
       ],
       "topics": [
         "tony",
@@ -14686,12 +11680,7 @@
       "enclosure_length": "66797108",
       "itunes_duration": "55:39",
       "speakers": [
-        "Richard Herring",
-        "Stewart Lee",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Richard Herring"
       ],
       "topics": [
         "richard",
@@ -14710,11 +11699,7 @@
       "enclosure_length": "52747932",
       "itunes_duration": "43:57",
       "speakers": [
-        "Andy Hamilton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Andy Hamilton"
       ],
       "topics": [
         "andy",
@@ -14734,13 +11719,7 @@
       "itunes_duration": "54:51",
       "speakers": [
         "Alas Smith",
-        "Olivier Award",
-        "Griff Rhys Jones",
-        "Michael Fenton Stevens",
-        "Follow Griff",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Olivier Award"
       ],
       "topics": [
         "griff",
@@ -14760,13 +11739,9 @@
       "enclosure_length": "44204847",
       "itunes_duration": "36:50",
       "speakers": [
-        "Perrier Award",
-        "Justin Edwards",
-        "Lucy Porter",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Justin Edwards Surprise",
+        "Lockdown Special",
+        "Black Mirror"
       ],
       "topics": [
         "justin",
@@ -14784,13 +11759,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48654544",
       "itunes_duration": "40:32",
-      "speakers": [
-        "Lucy Porter",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
-      ],
+      "speakers": [],
       "topics": [
         "lucy",
         "porter"
@@ -14808,13 +11777,7 @@
       "enclosure_length": "56434332",
       "itunes_duration": "47:01",
       "speakers": [
-        "Bronski Beat",
-        "Rev Richard Coles",
-        "Michael Fenton Stevens",
-        "Richard Coles",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Bronski Beat"
       ],
       "topics": [
         "richard",
@@ -14834,11 +11797,7 @@
       "itunes_duration": "40:40",
       "speakers": [
         "Maria McErlane",
-        "Graham Norton",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Graham Norton"
       ],
       "topics": [
         "maria",
@@ -14859,10 +11818,7 @@
       "speakers": [
         "David Baddiel Comedian",
         "David Baddiel",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Michael Fenton"
       ],
       "topics": [
         "david",
@@ -14881,11 +11837,7 @@
       "enclosure_length": "65717206",
       "itunes_duration": "54:45",
       "speakers": [
-        "Chris Addison",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Chris Addison"
       ],
       "topics": [
         "chris",
@@ -14904,12 +11856,7 @@
       "enclosure_length": "76674005",
       "itunes_duration": "1:03:53",
       "speakers": [
-        "Anthony Head",
-        "Michael Fenton Stevens",
-        "Follow Anthony Head",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Anthony Head"
       ],
       "topics": [
         "anthony",
@@ -14928,11 +11875,7 @@
       "enclosure_length": "60578397",
       "itunes_duration": "50:28",
       "speakers": [
-        "Rufus Hound",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Rufus Hound"
       ],
       "topics": [
         "rufus",
@@ -14951,11 +11894,7 @@
       "enclosure_length": "45365206",
       "itunes_duration": "37:48",
       "speakers": [
-        "Anna Ptaszynski",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Anna Ptaszynski"
       ],
       "topics": [
         "anna",
@@ -14976,11 +11915,7 @@
       "enclosure_length": "85214479",
       "itunes_duration": "1:11:00",
       "speakers": [
-        "Mark Gatiss",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Doctor Who"
       ],
       "topics": [
         "mark",
@@ -14999,11 +11934,7 @@
       "enclosure_length": "61457679",
       "itunes_duration": "51:12",
       "speakers": [
-        "Arthur Smith",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Arthur Smith"
       ],
       "topics": [
         "arthur",
@@ -15022,12 +11953,7 @@
       "enclosure_length": "83545254",
       "itunes_duration": "1:09:37",
       "speakers": [
-        "Alan Partridge",
-        "Rebecca Front",
-        "Michael Fenton Stevens",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Alan Partridge"
       ],
       "topics": [
         "rebecca"
@@ -15046,11 +11972,7 @@
       "itunes_duration": "53:34",
       "speakers": [
         "Stephen Fry",
-        "Michael Fenton Stevens",
-        "Follow Mike",
-        "John Fenton-Stevens",
-        "Matthew Boxall",
-        "Harriet Stevens"
+        "Michael Fenton Stevens"
       ],
       "topics": [
         "stephen"
@@ -15069,12 +11991,7 @@
       "itunes_duration": "2:38",
       "speakers": [
         "Stephen Fry",
-        "Mark Gatiss",
-        "Rufus Hound",
-        "Mike Fenton Stevens",
-        "Follow Mike",
-        "John Fenton-Stevens",
-        "Matthew Boxall"
+        "Mark Gatiss"
       ],
       "topics": [
         "time",
@@ -15088,616 +12005,617 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — Ep. 564 - Neil Pearson - From Drop the Dead Donkey and all four Bridget Jones films — speakers: Neil Pearson, Dave Charnley, Richard Fink, Waterloo Road, Colin Firth, Michael Fenton Stevens, Neil Person, John Fenton-Stevens
-- 2026-02-20 — Ep. 563 - Daisy Doris May - Award winning drag king, writer and performer — speakers: Daisy Doris May, Steve Porters, Catherine Tate, Hannah Gadsby, Drag King, Michael Fenton Stevens, Follow Daisy Doris May, John Fenton-Stevens
-- 2026-02-16 — Ep. 562 - Dara Ó Briain Unedited - One of the UK and Ireland’s most successful comedians — speakers: Ed Byrne, Rory McGrath, Michael Fenton Stevens, John Fenton-Stevens
-- 2026-02-13 — Ep. 561 - Nicky Hambleton-Jones - The host of Channel 4’s makeover series 10 Years Younger — speakers: Nicky Hambleton-Jones, Michael Fenton Stevens, John Fenton-Stevens
-- 2026-02-09 — Ep. 560 - Andy Hamilton Returns! - Writer and director of Outnumbered and Drop the Dead Donkey — speakers: Andy Hamilton, Michael Fenton Stevens, John Fenton-Stevens
-- 2026-02-06 — Ep. 559 - Danny Ward - Winner of the Victoria Wood Award, Ish Comedy Award & Amused Moose Best Show — speakers: Danny Ward Winner, Danny Ward, Mark Simmons, Ian Cognito, Michael Fenton Stevens, Mark Simmons podfollow com, Follow Danny Ward, John Fenton-Stevens
-- 2026-02-02 — Ep. 558 - Mark Simmons Returns! - Winner of Dave’s Funniest Joke of the Fringe 2024 — speakers: Mark Simmons, Seann Walsh, Rob Beckett, Rob Brydon, Michael McIntyre, Jack Dee, Michael Fenton Stevens, Mark Simmons podfollow com
-- 2026-01-30 — Ep. 557 - Alyssa Kyria AKA The Funny Mummy - viral comedian and award nominated actor — speakers: Alyssa Kyria, Stephen Fry, Michael Fenton Stevens, Follow Alyssa, John Fenton-Stevens
-- 2026-01-26 — Ep. 556 - Vittorio Angelone - Edinburgh Comedy Award nominated comedian — speakers: Vittorio Angelone, Russell Howard, Jason Manford, Adam Rowe, Sam Morril, Ivo Graham, Michael Fenton Stevens, John Fenton-Stevens
-- 2026-01-23 — Ep. 555 - Amy Annette - Funny Women award-winner and Best Reviewed Shows of the 25 Edinburgh Fringe — speakers: Edinburgh Fringe Amy Annette, Thick Skin, Lazy Susan, Tom Allen, Aisling Bea, Rose Matafeo, Lou Sanders, Kiell Smith-Bynoe
-- 2026-01-19 — Ep. 554 - John Thomson - Best known for The Fast Show and Cold Feet — speakers: John Thomson Best, John Thompson, Pete Gifford, Steve Coogan, Michael Fenton Stevens, John Fenton-Stevens
-- 2026-01-16 — Ep. 553 - Duncan Maitland - Musician who’s worked with bands Picturehouse, Pugwash and XTC — speakers: Duncan Maitland, David Gary, Ronnie Stone, Shine Box, John Walshe, Bon Jovi, Michael Fenton Stevens, Follow Duncan Maitland
-- 2026-01-12 — Ep. 552 - Naomi Yang - From Peaky Blinders, Wolfe, Olivier-nominated My Neighbour Totoro — speakers: Naomi Yang, Salt Marsh, Kelly Reilly, Rafe Spall, Jonathan Pryce, Harry Lawtey, DI Ray, Jamie Bell
-- 2026-01-09 — Ep. 551 - Lisa Riley (Un-edited) - One of our favourite eps, now 30 minutes longer — speakers: Lisa Riley, Mandy Dingle, Harry Hill, Michael Fenton Stevens, John Fenton-Stevens
-- 2026-01-05 — Ep. 550 - Tom Read Wilson (Re-edit) - A re-edit of our episode with 2025’s I’m a Celeb runner-up — speakers: Tom Read Wilson, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-12-25 — What Christmas is as We Grow Older by Charles Dickens - Read by Michael Fenton Stevens — speakers: Charles Dickens Read, Michael Fenton Stevens, Charles Dickens
-- 2025-12-22 — My Christmas Time Capsule - Best Of - Part 3 — speakers: Joe Wilkinson, Lisa Riley, Sanjeev Bhaskar, Anneka Rice, Griff Rhys Jones, Joe Pasquale, Charlie Higson, Alex Horne
-- 2025-12-19 — My Christmas Time Capsule - Best Of - Part 2 — speakers: Jason Manford, Fern Britton, Les Dennis, Lucy Porter, Arthur Smith, Tony Hawks, Mark Watson, JIm Howick
-- 2025-12-15 — My Christmas Time Capsule - Best Of - Part 1 — speakers: Stephen Fry, Jan Ravens, Andrew Hunter Murray, Emma Kennedy, John O'Farrel, Joe Pasquale, Cheryl Baker, Ted Robbins
-- 2025-12-12 — Ep. 549 - Logan Mersh - From A Knock at the Door with Alan Davies and Nikki Amuka-Bird — speakers: Alan Davies, Logan Mersh, Rose Bruford, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-12-08 — Ep. 548 - Bill Fellows - Stu Carpenter in Coronation Street & George Cartrick in Ted Lasso — speakers: George Cartrick, Bill Fellows, Stu Carpenter, Alan Partridge, Steve Coogan, Julia Ormond, Mark Williams
-- 2025-12-05 — Ep. 547 - Eli Hart - BBC New Comedy Award 2025 winner — speakers: Michael Fenton Stevens, John Fenton-Stevens
-- 2025-12-01 — Ep. 546 - Michael Elwyn - Actor from House of Dragon, Robin Hood and The Audience with Hellen Mirren — speakers: Robin Hood, Hellen Mirren Michael Elwyn, Simon Staunton, Charles Moore, Anthony Eden, Peter Morgan, Stephen Daldry, Hellen Mirren
-- 2025-11-28 — The Battle of Life by Charles Dickens - Part 3 — speakers: Michael Fenton Stevens, Charles Dickens, John Fenton-Stevens
-- 2025-11-28 — The Battle of Life by Charles Dickens - Part 2 — speakers: Michael Fenton Stevens, Charles Dickens, John Fenton-Stevens
-- 2025-11-24 — Ep. 545 - Robin Ince Unedited - now 25 minutes longer! — speakers: Robin Ince Unedited now, Robin Ince, Brian Cox, Nine Lessons, Michael Fenton Stevens, Follow Robin Ince, John Fenton-Stevens
-- 2025-11-21 — An early Christmas gift... The Battle of Life by Charles Dickens — speakers: Charles Dickens, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-11-17 — Ep. 544 - Ella Eyre - BRIT award and double MOBO award winning singer-songwriter — speakers: Ella Eyre, Wiz Khalifa, Meghan Trainor, Becky Hill, Sonny Fodera, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-11-14 — Ep. 543 - Keaton Henson - Critically acclaimed musician, composer, and visual artist — speakers: Keaton Henson Critically, Keaton Henson, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-11-10 — Ep. 542 - Connor Burns - Award winning comedian — speakers: Connor Burns, Daniel Sloss, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-11-07 — Ep. 541 - Matthew Lorenzo - Sports presenter and film maker for BBC, Sky, ITV, GMTV and Channel 4 — speakers: Matthew Lorenzo Sports, Matthew Lorenzo, Bobby Moore, Brighton Stand, Jack Charlton, Eric Cantona, Luck’s Sake, Michael Fenton Stevens
-- 2025-11-03 — Ep. 540 - Rob Brydon Unedited - over 30 minutes of unheard chat! — speakers: Rob Brydon Unedited, Rob Brydon, Bryn West, Steve Coogan, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-10-31 — Ep. 539 - Halloween Special - A compilation of our guests from Halloweens past — speakers: Josie Long, Jaye Griffiths, Bob Cryer, Uncanny Danny Robins, Karl Howman, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-10-27 — Ep. 538 - Beth Rigby - Political Editor of Sky News — speakers: Beth Rigby, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-10-23 — Ep. 537 - Miles Jupp Unedited - over 50 minutes of unheard chat! — speakers: Miles Jupp, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-10-19 — Ep. 536 - Amanda Barrie - Cleopatra in Carry On Cleo, Alma Baldwin in Coronation Street — speakers: Alma Baldwin, Amanda Barrie, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-10-16 — Ep. 535 - Joz Norris - Award winning comedy writer and performer — speakers: Joz Norris Award, Joz Norris, Miranda Holms, Michael Fenton Stevens, Follow Joz Norris, John Fenton-Stevens
-- 2025-10-12 — Ep. 534 - Professor John Duncan - a pioneer of modern cognitive neuroscience — speakers: John Duncan, Michael Posner, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-10-09 — Ep. 533 - Edy Hurst — speakers: Edy Hurst, NextUp Comedy, Best Comedy Show, Hurst Schmurst, Edy Hurst’s Comedy, Jeff Wayne, Literary Version, Orson Welles
-- 2025-10-05 — Ep. 532 - Doug Naylor — speakers: Doug Naylor, Head Writers, Mike Fenton Stevens, Sin Bin Island, Michael Fenton Stevens, Follow Doug Naylor, John Fenton-Stevens
-- 2025-10-02 — Ep. 531 - Ray Bradshaw — speakers: John Bishop, Frankie Boyle, Ray Bradshaw, Michael Fenton Stevens, Follow Ray Bradshaw, John Fenton-Stevens
-- 2025-09-28 — Ep. 530 - Adam Frost — speakers: Adam Frost, Geoff Hamilton, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-09-25 — Ep. 529 - Harriet Dyer — speakers: Harriet Dyer, Howard Hour, Sky Max, Edinburgh Fringe, Michael Fenton Stevens, Follow Harriet Dyer, John Fenton-Stevens
-- 2025-09-21 — Ep. 528 - Reece Dinsdale — speakers: John Thaw, Joe McIntyre, Jim Henson, Reece Dinsdale, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-09-18 — Ep. 527 - Emmanuel Sonubi — speakers: Emmanuel Sonubi, Edinburgh Comedy Award, Best Show, Richard Osmond, Michael Fenton Stevens, Follow Emmanuel Sonubi, John Fenton-Stevens
-- 2025-09-15 — Ep. 526 - Mark Steel Returns! — speakers: Mark Steel, Michael Fenton Stevens, Follow Mark Steel, John Fenton-Stevens
-- 2025-09-11 — Ep. 525 - Josh Jones Returns! — speakers: Josh Jones, Ross Show, Alan Davies, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-09-07 — Ep. 524 - Marcus Brigstocke — speakers: Marcus Brigstocke, Rachel Paris, Giles Wemmbley-Hogg Goes Off, Kerry Godliman, Steph’s Packed Lunch, Vitruvian Mango, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-09-04 — Ep. 523 - Jim Meskimen — speakers: Jim Meskimen, Family Guy, Marion Ross, Mrs Cunningham, Ron Howard, Henry Winkler, Michael Fenton Stevens, Nick Helm
-- 2025-08-31 — Ep. 522 - Nick Helm Returns! — speakers: Nick Helm Returns, Nick Helm, Edinburgh Comedy Award, Russell Howard’s Good News, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-08-28 — Ep. 521 - Billy Boyd (Unedited) — speakers: Billy Boyd, Hobbit Pippin Took, Peter Jackson, Russell Crowe, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-08-24 — Ep. 520 - Emma Doran — speakers: Emma Doran, Eamon Rte, Callan Kicks Rte, Gogglebox Virgin Media, Gill Books, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-08-21 — Ep. 519 - Robert Ross — speakers: Robert Ross, Sid James, Marty Feldman, Colin Baker, Leslie Phillips, Roy Hudd, Doug Bradley, David Tennant
-- 2025-08-17 — Ep. 518 - Suzi Ruffell — speakers: Suzi Ruffell, Ross Show, Edinburgh Fringe, Minded Friends, Tom Allen, Maisie Adam, Michael Fenton Stevens, Buy Suzi
-- 2025-08-14 — Ep. 517 - Roger Taylor — speakers: Roger Taylor, Marcus Buckland, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-08-10 — Ep. 516 - John Michie — speakers: John Michie, Robbie Ross, Karl Munro, Guy Self, Karen Pirie, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-08-07 — Ep. 515 - Anna Hale — speakers: Anna Hale, Audience Favourite, theatre performer, Anna’s Edinburgh, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-08-03 — Ep. 514 - Rory Alexander — speakers: Rory Alexander, Alex Rider, Dark Windows, Mark Rylance, Michael Fenton Stevens, Follow Rory Alexander, John Fenton-Stevens
-- 2025-07-31 — Ep. 513 - Sam Williams — speakers: Sam Williams, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-07-27 — Ep. 512 - Paul Sinha — speakers: Paul Sinha, Paul Sinha’s History Revision, Michael Fenton Stevens, Paul Sinha’s Edinburgh, Buy Paul Sinha, Follow Paul Sinha, John Fenton-Stevens
-- 2025-07-24 — Ep. 511 - Matt Parker — speakers: Matt Parker, Monkey Cage, Getting Triggy, Michael Fenton Stevens, Matt’s Youtube, John Fenton-Stevens
-- 2025-07-20 — Ep. 510 - James Cosmo — speakers: James Cosmo, Ben Hur, Jeor Mormont, Jack Ryan, Karen Pirie, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-07-17 — Ep. 509 - Steve Blacknell — speakers: Steve Blacknell, Kate Bush, Phil Collins, John Peel, Peter Stringfellow, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-07-13 — Ep. 508 - Lost Voice Guy AKA Lee Ridley — speakers: Lee Ridley, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-07-10 — Ep. 507 - Scott Bennett — speakers: Scott Bennett, Sarah Millican, Arthur Smith, Jason Manford, Little Mix, Chris Ramsey, Rob Brydon, John Bishop
-- 2025-07-06 — Ep. 506 - Chris Tarrant — speakers: Chris Tarrant, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-07-03 — Ep. 505 - Carl Donnelly — speakers: Carl Donnelly, Edinburgh Comedy Awards, Russell Howard’s Good News, Dave’s One Night Stand, Alan Davies, Kilkenny Cat Laughs, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-06-29 — Ep. 504 - Sheli McCoy AKA Sabre from Gladiators — speakers: Sheli McCoy, Comic Relief, Robert Gordons university, Michael Fenton Stevens, Follow Sheli McCoy, John Fenton-Stevens
-- 2025-06-26 — Ep. 503 - Kerry Ellis — speakers: Kerry Ellis, Brian May, Barry Manilow, Alan Titchmarsh Show, John Barrowman, Jubilee Concert, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-06-22 — Ep. 502 - Steve Backshall — speakers: Steve Backshall, Lizzie Daly, Sarah Roberts, Michael Fenton Stevens, Follow Steve Backshall, John Fenton-Stevens
-- 2025-06-19 — Ep. 501 - Olia Hercules — speakers: Summer Kitchens, Strong Roots, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-06-16 — Ep. 500 - Josh Widdicombe — speakers: Josh Widdicombe, Alexander Armstrong, Rob Beckett, Michael Fenton Stevens, Follow Josh Widdicombe, John Fenton-Stevens
-- 2025-06-12 — Ep. 100 (Unedited!) - Ross Noble — speakers: Ross Noble, Jonathan Ross, Top Gear, Mel Brooks, Mel Brooks Young Frankenstein, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-06-08 — Ep. 499 - Ute Lemper — speakers: Sally Bowles, Peter Pan, Kurt Weill, Marlene Dietrich, Astor Piazzolla, La Scala, Punishing Kiss, Elvis Costello
-- 2025-06-06 — Ep. 498 - Petroc Trelawny — speakers: Katie Derham, Sean Rafferty, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-06-01 — Ep. 497 - Miranda Raison — speakers: Miranda Raison, Jo Portman, David Hare, Ralph Fiennes, Henry Irving, Ellen Terry, Anne Boleyn, Kenneth Branagh
-- 2025-05-30 — Ep. 496 - Joe Sutherland — speakers: Joe Sutherland, Ellie Taylor, Dave’s Hypothetical, Michael Fenton Stevens, Joe’s Edinburgh, John Fenton-Stevens
-- 2025-05-25 — Ep. 495 - Peter Fincham — speakers: Peter Fincham, Alan Partridge, Jimmy Mulville, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-05-22 — Ep. 494 - Ben Hart — speakers: Ben Hart, Ricky Wilson, Mel Giedroyc, George Square Gardens, Michael Fenton Stevens, Follow Ben Hart, John Fenton-Stevens
-- 2025-05-18 — Ep. 493 - Alexei Sayle — speakers: Alexei Sayle, Sandwich Bar, Gorky Park, Selling Hitler, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-05-15 — Ep. 492 - Christopher Macarthur-Boyd — speakers: Christopher Macarthur-Boyd, Frankie Boyle, Susie McCabe, Pound Gorilla Media, Russell Kane, Michael Fenton Stevens, Christopher’s Edinburgh, John Fenton-Stevens
-- 2025-05-11 — Ep. 491 - Helen Atkinson Wood — speakers: Geoffrey Perkins, Philip Pope, Angus Deayton, Kiss Me Kate, Sarah Millican, John Morton, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-05-08 — Ep. 490 - Liz Guterbock — speakers: Liz Guterbock, Armando Iannucci, Michael Fenton Stevens, Follow Liz Guterbock, John Fenton-Stevens
-- 2025-05-04 — Ep. 489 - David Hepworth — speakers: David Hepworth, Mark Boxer, Paul McCartney, Michael Fenton Stevens, Follow David Hepworth, John Fenton-Stevens
-- 2025-05-01 — Ep. 488 - Charles Collingwood — speakers: Charles Collingwood, Brian Aldridge, Judy Bennett, Shula Hebden Lloyd, Noel Edmonds, Bernard Manning, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-04-27 — Ep. 487 - Limahl — speakers: Horror Story, Michael Fenton Stevens, Follow Limahl, John Fenton-Stevens
-- 2025-04-24 — Ep. 486 - 5th Birthday Special! — speakers: Caroline Quentin, Dave Gorman, Seann Walsh, Jon Ronson, David Jason, Josie Long, George Mombiot, Howard Goodall
-- 2025-04-20 — Ep. 485 - Mark Thomas Unedited — speakers: Mark Thomas, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-04-17 — Ep. 484 - Sam Nicoresti — speakers: Sam Nicoresti, Baby Doomer, Michael Fenton Stevens, Follow Sam Nicoresti, John Fenton-Stevens
-- 2025-04-13 — Ep. 483 - Jessica Martin — speakers: Jessica Martin Jessica Martin, Gary Wilmot, Nellie Forbush, Mrs Lovett, Norma Desmond, Jessica Martin, Michael Fenton Stevens, Follow Jess Robinson
-- 2025-04-10 — Ep. 482 - Natty (Mike's Grandson) — speakers: Chatty Natty, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-04-06 — Ep. 481 - Ignacio Lopez — speakers: Ignacio Lopez, Celebrity Mastermind, Richard Osman, James Dean Bradfield, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-04-03 — Ep. 480 - Jess Robinson — speakers: Jess Robinson, Jim Cartwright, Hammersmith Apollo, Michael Fenton Stevens, Jess’s Elton, John Fenton-Stevens
-- 2025-03-31 — Ep. 479 - Donald Trump — speakers: Michael Fenton Stevens, John Fenton-Stevens
-- 2025-03-30 — Ep. 478 - Kevin Cummins — speakers: Kevin Cummins, Ian Curtis, Iggy Pop, Debbie Harry, Bob Marley, Patti Smith, Helen Mirren, Ralph Fiennes
-- 2025-03-28 — Ep. 477 - Alexis Dubus AKA Marcel Lucont — speakers: Mervyn Stutter, Ricky Gervais, Nathan Barley, Garth Marenghi, Michael Fenton Stevens, Marcel Lucont, John Fenton-Stevens
-- 2025-03-24 — Ep. 476 - Kris Marshall — speakers: Kris Marshall, Nick Harper, DI Humphrey Goodman, Jeremy Irons, Ralph Finnes, Citizen Khan, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-03-21 — Ep. 475 - Dane Buckley — speakers: Dane Buckley, Tom Allen, Rosie Jones, Comedy Central, Daniel Foxx, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-03-17 — Ep. 474 - Paul Zerdin — speakers: Paul Zerdin, Jonathan Ross, Comedy Rocks, Jason Manford, Bruce Forsyth, Bradley Walsh, Christmas Show, Julian Clary
-- 2025-03-14 — Ep. 473 - Pippa Evans — speakers: Pippa Evans, Netflix’s Jack Whitehall, Michael Fenton Stevens, Follow Pippa Evans, John Fenton-Stevens
-- 2025-03-10 — Ep. 472 - John H Stracey — speakers: Muhammad Ali, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-03-07 — Ep. 471 - Ruth Bratt — speakers: Ruth Bratt Ruth Bratt, Rob Brydon, Ricky Gervais, Sarah Millican, Ruth Bratt, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-03-03 — Ep. 470 - Marsha Thomason — speakers: Marsha Thomason, Sara Evers, Eddie Murphy, Naomi Dorrit, Diana Berrigan, Jenn Townsend, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-02-28 — Ep. 469 - Alister Kingsley — speakers: Alister Kingsley, Tim Minchin, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-02-24 — Ep. 468 - Anton Du Beke — speakers: Anton Du Beke, Sarah Stirk, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-02-21 — Ep. 467 - Jena Friedman — speakers: Jena Friedman, David Letterman, Top Ten Comedy Specials, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-02-17 — Ep. 466 - Steve Nallon — speakers: Steve Nallon, Margaret Thatcher, Alan Bennett, Tom Holt, Dick Fiddy, Steve Nallon’s Ghost Stories, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-02-14 — Ep. 465 - Nico Tatarowicz — speakers: Miller Show, Paul Whitehouse, Harry Enfield, Vic Reeves, Sheridan Smith, Carrie Fisher, Jason Hazeley, Nico Tatarowicz
-- 2025-02-10 — Ep. 464 - Jeffrey Holland — speakers: Jeffrey Holland, James Twelvetrees, Russ Abbot’s Madhouse, Victoria Wood, Stan Laurel, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-02-07 — Ep. 463 - Richard Herring (Unedited) — speakers: Richard Herring, Stewart Lee, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-02-03 — Ep. 462 - Angus Deayton — speakers: Angus Deayton, Victor Meldrew, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-01-31 — Ep. 461 - John Challis (Re-edit) — speakers: John Challis, Citizen Smith, Being Boycie, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-01-27 — Ep. 460 - Danny Peacock — speakers: Danny Peacock, Mental Mickey, Trevor Peacock, Robin Hood, Kevin Costner, Morgan Freeman, Alan Rickman, Christian Slater
-- 2025-01-24 — MTC recommends Chatty Natty! — speakers: Chatty Natty, Email Chatty Natty, John Fenton-Stevens
-- 2025-01-20 — Ep. 459 - Rick Wakeman (Re-edit) — speakers: Rick Wakeman, David Bowie, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-01-17 — Ep. 458 - Sarah Roberts — speakers: Sarah Roberts, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-01-13 — Ep. 457 - Duncan Preston — speakers: Duncan Preston, Acorn Antiques, Press Gang, Hetty Wainthropp Investigates, Midsomer Murders, Dennis Stokes, Doug Potts, Harry Enfield
-- 2025-01-10 — Ep. 456 - Stuart Mitchell — speakers: Stuart Mitchell, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-01-06 — Ep. 455 - John Lloyd (Un-edited) — speakers: John Lloyd, Michael Fenton Stevens, John Fenton-Stevens
-- 2025-01-03 — Ep. 454 - Abby Wambaugh — speakers: Comedian Abby Wambaugh, Abby Wambaugh, Michael Fenton Stevens, Follow Abby Wambaugh, John Fenton-Stevens
-- 2024-12-30 — Best of 2024 - Part 2 — speakers: Arthur Smith, Maisie Adam, Rosie Holt, Stephen Fry, David Mitchell, Chip Chapman, Daliso Chapona, Madeline Smith
-- 2024-12-27 — Best of 2024 - Part 1 — speakers: Alice Roberts, Jason Manford, Anette Badland, Chris Lintott, Robin Askwith, Kim Leadbeater, Ainsley Harriott, Colin Hoult
-- 2024-12-23 — My Christmas Time Capsule 2024 — speakers: Jason Manford, Stephen Fry, Arthur Smith, Maria McErlane, Rick Wakeman, Sonali Shah, Lauren Pattison, John O'Farrell
+- 2026-02-27 — Ep. 565 - Holly White - Australian actress who Mike worked with in Panama on a film — speakers: Holly White
+- 2026-02-23 — Ep. 564 - Neil Pearson - From Drop the Dead Donkey and all four Bridget Jones films — speakers: Neil Pearson, Dave Charnley
+- 2026-02-20 — Ep. 563 - Daisy Doris May - Award winning drag king, writer and performer — speakers: Daisy Doris May
+- 2026-02-16 — Ep. 562 - Dara Ó Briain Unedited - One of the UK and Ireland’s most successful comedians
+- 2026-02-13 — Ep. 561 - Nicky Hambleton-Jones - The host of Channel 4’s makeover series 10 Years Younger — speakers: Nicky Hambleton, Years Younger Nicky Hambleton
+- 2026-02-09 — Ep. 560 - Andy Hamilton Returns! - Writer and director of Outnumbered and Drop the Dead Donkey — speakers: Andy Hamilton
+- 2026-02-06 — Ep. 559 - Danny Ward - Winner of the Victoria Wood Award, Ish Comedy Award & Amused Moose Best Show — speakers: Danny Ward Winner, Danny Ward
+- 2026-02-02 — Ep. 558 - Mark Simmons Returns! - Winner of Dave’s Funniest Joke of the Fringe 2024 — speakers: Mark Simmons
+- 2026-01-30 — Ep. 557 - Alyssa Kyria AKA The Funny Mummy - viral comedian and award nominated actor — speakers: Alyssa Kyria
+- 2026-01-26 — Ep. 556 - Vittorio Angelone - Edinburgh Comedy Award nominated comedian — speakers: Vittorio Angelone
+- 2026-01-23 — Ep. 555 - Amy Annette - Funny Women award-winner and Best Reviewed Shows of the 25 Edinburgh Fringe — speakers: Edinburgh Fringe Amy Annette
+- 2026-01-19 — Ep. 554 - John Thomson - Best known for The Fast Show and Cold Feet — speakers: John Thomson Best, John Thompson
+- 2026-01-16 — Ep. 553 - Duncan Maitland - Musician who’s worked with bands Picturehouse, Pugwash and XTC — speakers: Duncan Maitland
+- 2026-01-12 — Ep. 552 - Naomi Yang - From Peaky Blinders, Wolfe, Olivier-nominated My Neighbour Totoro — speakers: Naomi Yang
+- 2026-01-09 — Ep. 551 - Lisa Riley (Un-edited) - One of our favourite eps, now 30 minutes longer — speakers: Lisa Riley
+- 2026-01-05 — Ep. 550 - Tom Read Wilson (Re-edit) - A re-edit of our episode with 2025’s I’m a Celeb runner-up — speakers: Tom Read Wilson
+- 2025-12-25 — What Christmas is as We Grow Older by Charles Dickens - Read by Michael Fenton Stevens — speakers: Charles Dickens Read, Michael Fenton Stevens, Michael Fenton Stev
+- 2025-12-22 — My Christmas Time Capsule - Best Of - Part 3 — speakers: My Christmas Time Capsule
+- 2025-12-19 — My Christmas Time Capsule - Best Of - Part 2 — speakers: My Christmas Time Capsule
+- 2025-12-15 — My Christmas Time Capsule - Best Of - Part 1 — speakers: My Christmas Time Capsule
+- 2025-12-12 — Ep. 549 - Logan Mersh - From A Knock at the Door with Alan Davies and Nikki Amuka-Bird — speakers: Alan Davies, Logan Mersh
+- 2025-12-08 — Ep. 548 - Bill Fellows - Stu Carpenter in Coronation Street & George Cartrick in Ted Lasso — speakers: George Cartrick, Bill Fellows, Stu Carpenter
+- 2025-12-05 — Ep. 547 - Eli Hart - BBC New Comedy Award 2025 winner — speakers: Eli Hart, New Comedy Award, Komedia New
+- 2025-12-01 — Ep. 546 - Michael Elwyn - Actor from House of Dragon, Robin Hood and The Audience with Hellen Mirren — speakers: Robin Hood, Hellen Mirren Michael Elwyn
+- 2025-11-28 — The Battle of Life by Charles Dickens - Part 3 — speakers: Michael Fenton Stevens
+- 2025-11-28 — The Battle of Life by Charles Dickens - Part 2 — speakers: Michael Fenton Stevens
+- 2025-11-24 — Ep. 545 - Robin Ince Unedited - now 25 minutes longer! — speakers: Robin Ince Unedited now, Robin Ince
+- 2025-11-21 — An early Christmas gift... The Battle of Life by Charles Dickens — speakers: Charles Dickens, Michael Fenton Stevens
+- 2025-11-17 — Ep. 544 - Ella Eyre - BRIT award and double MOBO award winning singer-songwriter — speakers: Ella Eyre
+- 2025-11-14 — Ep. 543 - Keaton Henson - Critically acclaimed musician, composer, and visual artist — speakers: Keaton Henson Critically, Keaton Henson
+- 2025-11-10 — Ep. 542 - Connor Burns - Award winning comedian — speakers: Connor Burns
+- 2025-11-07 — Ep. 541 - Matthew Lorenzo - Sports presenter and film maker for BBC, Sky, ITV, GMTV and Channel 4 — speakers: Matthew Lorenzo Sports, Matthew Lorenzo
+- 2025-11-03 — Ep. 540 - Rob Brydon Unedited - over 30 minutes of unheard chat! — speakers: Rob Brydon Unedited, Rob Brydon
+- 2025-10-31 — Ep. 539 - Halloween Special - A compilation of our guests from Halloweens past
+- 2025-10-27 — Ep. 538 - Beth Rigby - Political Editor of Sky News — speakers: Beth Rigby
+- 2025-10-23 — Ep. 537 - Miles Jupp Unedited - over 50 minutes of unheard chat! — speakers: Miles Jupp
+- 2025-10-19 — Ep. 536 - Amanda Barrie - Cleopatra in Carry On Cleo, Alma Baldwin in Coronation Street — speakers: Alma Baldwin
+- 2025-10-16 — Ep. 535 - Joz Norris - Award winning comedy writer and performer — speakers: Joz Norris Award, Joz Norris
+- 2025-10-12 — Ep. 534 - Professor John Duncan - a pioneer of modern cognitive neuroscience — speakers: John Duncan
+- 2025-10-09 — Ep. 533 - Edy Hurst — speakers: Edy Hurst
+- 2025-10-05 — Ep. 532 - Doug Naylor — speakers: Doug Naylor
+- 2025-10-02 — Ep. 531 - Ray Bradshaw — speakers: Ray Bradshaw Ray Bradshaw
+- 2025-09-28 — Ep. 530 - Adam Frost — speakers: Adam Frost
+- 2025-09-25 — Ep. 529 - Harriet Dyer — speakers: Harriet Dyer
+- 2025-09-21 — Ep. 528 - Reece Dinsdale — speakers: John Thaw
+- 2025-09-18 — Ep. 527 - Emmanuel Sonubi — speakers: Emmanuel Sonubi, Edinburgh Comedy Award
+- 2025-09-15 — Ep. 526 - Mark Steel Returns! — speakers: Mark Steel
+- 2025-09-11 — Ep. 525 - Josh Jones Returns! — speakers: Josh Jones
+- 2025-09-07 — Ep. 524 - Marcus Brigstocke — speakers: Marcus Brigstocke
+- 2025-09-04 — Ep. 523 - Jim Meskimen — speakers: Jim Meskimen
+- 2025-08-31 — Ep. 522 - Nick Helm Returns! — speakers: Nick Helm Returns, Nick Helm
+- 2025-08-28 — Ep. 521 - Billy Boyd (Unedited) — speakers: Billy Boyd
+- 2025-08-24 — Ep. 520 - Emma Doran — speakers: Emma Doran
+- 2025-08-21 — Ep. 519 - Robert Ross — speakers: Robert Ross
+- 2025-08-17 — Ep. 518 - Suzi Ruffell — speakers: Suzi Ruffell
+- 2025-08-14 — Ep. 517 - Roger Taylor — speakers: Roger Taylor
+- 2025-08-10 — Ep. 516 - John Michie — speakers: John Michie, Robbie Ross
+- 2025-08-07 — Ep. 515 - Anna Hale — speakers: Anna Hale, Audience Favourite
+- 2025-08-03 — Ep. 514 - Rory Alexander — speakers: Rory Alexander
+- 2025-07-31 — Ep. 513 - Sam Williams — speakers: Sam Williams
+- 2025-07-27 — Ep. 512 - Paul Sinha — speakers: Paul Sinha
+- 2025-07-24 — Ep. 511 - Matt Parker — speakers: Matt Parker
+- 2025-07-20 — Ep. 510 - James Cosmo — speakers: James Cosmo
+- 2025-07-17 — Ep. 509 - Steve Blacknell — speakers: Steve Blacknell, Kate Bush, Phil Collins
+- 2025-07-13 — Ep. 508 - Lost Voice Guy AKA Lee Ridley — speakers: Lee Ridley
+- 2025-07-10 — Ep. 507 - Scott Bennett — speakers: Scott Bennett
+- 2025-07-06 — Ep. 506 - Chris Tarrant — speakers: Chris Tarrant
+- 2025-07-03 — Ep. 505 - Carl Donnelly — speakers: Carl Donnelly
+- 2025-06-29 — Ep. 504 - Sheli McCoy AKA Sabre from Gladiators — speakers: Sheli McCoy
+- 2025-06-26 — Ep. 503 - Kerry Ellis — speakers: Kerry Ellis
+- 2025-06-22 — Ep. 502 - Steve Backshall — speakers: Steve Backshall
+- 2025-06-19 — Ep. 501 - Olia Hercules — speakers: Olia Hercules Olia Hercules
+- 2025-06-16 — Ep. 500 - Josh Widdicombe — speakers: Josh Widdicombe
+- 2025-06-12 — Ep. 100 (Unedited!) - Ross Noble — speakers: Ross Noble Very
+- 2025-06-08 — Ep. 499 - Ute Lemper — speakers: Ute Lemper Ute Lemper
+- 2025-06-06 — Ep. 498 - Petroc Trelawny — speakers: Petroc Trelawny Petroc Trelawny
+- 2025-06-01 — Ep. 497 - Miranda Raison — speakers: Miranda Raison, Jo Portman
+- 2025-05-30 — Ep. 496 - Joe Sutherland — speakers: Joe Sutherland
+- 2025-05-25 — Ep. 495 - Peter Fincham — speakers: Peter Fincham
+- 2025-05-22 — Ep. 494 - Ben Hart — speakers: Ben Hart
+- 2025-05-18 — Ep. 493 - Alexei Sayle
+- 2025-05-15 — Ep. 492 - Christopher Macarthur-Boyd — speakers: Christopher Macarthur-Boyd, Frankie Boyle
+- 2025-05-11 — Ep. 491 - Helen Atkinson Wood
+- 2025-05-08 — Ep. 490 - Liz Guterbock — speakers: Liz Guterbock
+- 2025-05-04 — Ep. 489 - David Hepworth — speakers: David Hepworth
+- 2025-05-01 — Ep. 488 - Charles Collingwood — speakers: Charles Collingwood, Brian Aldridge
+- 2025-04-27 — Ep. 487 - Limahl — speakers: Limahl Limahl
+- 2025-04-24 — Ep. 486 - 5th Birthday Special!
+- 2025-04-20 — Ep. 485 - Mark Thomas Unedited — speakers: Mark Thomas
+- 2025-04-17 — Ep. 484 - Sam Nicoresti — speakers: Sam Nicoresti
+- 2025-04-13 — Ep. 483 - Jessica Martin — speakers: Jessica Martin Jessica Martin
+- 2025-04-10 — Ep. 482 - Natty (Mike's Grandson)
+- 2025-04-06 — Ep. 481 - Ignacio Lopez — speakers: Ignacio Lopez
+- 2025-04-03 — Ep. 480 - Jess Robinson — speakers: Jess Robinson
+- 2025-03-31 — Ep. 479 - Donald Trump
+- 2025-03-30 — Ep. 478 - Kevin Cummins — speakers: Kevin Cummins
+- 2025-03-28 — Ep. 477 - Alexis Dubus AKA Marcel Lucont — speakers: Alexis Dubus, Marcel Lucont Alexis Dubus, Chortle Award
+- 2025-03-24 — Ep. 476 - Kris Marshall — speakers: Kris Marshall, Nick Harper, DI Hump
+- 2025-03-21 — Ep. 475 - Dane Buckley — speakers: Dane Buckley
+- 2025-03-17 — Ep. 474 - Paul Zerdin — speakers: Paul Zerdin
+- 2025-03-14 — Ep. 473 - Pippa Evans — speakers: Pippa Evans
+- 2025-03-10 — Ep. 472 - John H Stracey
+- 2025-03-07 — Ep. 471 - Ruth Bratt — speakers: Ruth Bratt Ruth Bratt
+- 2025-03-03 — Ep. 470 - Marsha Thomason — speakers: Marsha Thomason, Sara Evers
+- 2025-02-28 — Ep. 469 - Alister Kingsley — speakers: Alister Kingsley
+- 2025-02-24 — Ep. 468 - Anton Du Beke — speakers: Anton Du Beke
+- 2025-02-21 — Ep. 467 - Jena Friedman — speakers: Jena Friedman
+- 2025-02-17 — Ep. 466 - Steve Nallon — speakers: Steve Nallon
+- 2025-02-14 — Ep. 465 - Nico Tatarowicz — speakers: Nico Tatarowicz Nico Tatarowicz
+- 2025-02-10 — Ep. 464 - Jeffrey Holland — speakers: Jeffrey Holland
+- 2025-02-07 — Ep. 463 - Richard Herring (Unedited) — speakers: Richard Herring
+- 2025-02-03 — Ep. 462 - Angus Deayton — speakers: Angus Deayton
+- 2025-01-31 — Ep. 461 - John Challis (Re-edit) — speakers: John Challis
+- 2025-01-27 — Ep. 460 - Danny Peacock — speakers: Danny Peacock, Mental Mickey
+- 2025-01-24 — MTC recommends Chatty Natty! — speakers: Chatty Natty
+- 2025-01-20 — Ep. 459 - Rick Wakeman (Re-edit) — speakers: Rick Wakeman
+- 2025-01-17 — Ep. 458 - Sarah Roberts — speakers: Sarah Roberts
+- 2025-01-13 — Ep. 457 - Duncan Preston — speakers: Duncan Preston
+- 2025-01-10 — Ep. 456 - Stuart Mitchell — speakers: Stuart Mitchell
+- 2025-01-06 — Ep. 455 - John Lloyd (Un-edited) — speakers: John Lloyd
+- 2025-01-03 — Ep. 454 - Abby Wambaugh — speakers: Comedian Abby Wambaugh
+- 2024-12-30 — Best of 2024 - Part 2 — speakers: Arthur Smith, Maisie Adam, Rosie Holt
+- 2024-12-27 — Best of 2024 - Part 1 — speakers: Alice Roberts, Jason Manf
+- 2024-12-23 — My Christmas Time Capsule 2024
 - 2024-12-20 — Xmas Present! The Haunted Man and the Ghost's Bargain by Charles Dickens — speakers: Charles Dickens, Michael Fenton Stevens
-- 2024-12-16 — Ep. 453 - Mike Batt — speakers: Mike Batt, Steeleye Span, Art Garfunkel, David Essex, Tim Rice, Alvin Stardust, Katie Melua, Albums Chart
+- 2024-12-16 — Ep. 453 - Mike Batt — speakers: Mike Batt
 - 2024-12-15 — Charles Dickens' A Christmas Tree read by Michael Fenton Stevens — speakers: Charles Dickens, Michael Fenton Stevens
-- 2024-12-13 — Ep. 452 - Richard Vranch — speakers: Richard Vranch, Paul Merton, Suki Webster, Tony Slattery, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-12-09 — Ep. 451 - Angela Barnes Returns! — speakers: Angela Barnes, John O'Farrell, Michael Fenton Stevens, Follow Angela Barnes, John Fenton-Stevens
-- 2024-12-06 — Ep. 450 - Eliot Stein — speakers: Eliot Stein, Lowell Thomas, Solas Awards, Michael Fenton Stevens, Buy Elliot, John Fenton-Stevens
-- 2024-12-02 — Ep. 449 - Andy Zaltzman — speakers: Andy Zaltzman, Michael Fenton Stevens, Follow Andy Zaltzman, John Fenton-Stevens
-- 2024-11-29 — Ep. 448 - David Mitchell (Re-edit) — speakers: David Mitchell, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-11-25 — Ep. 447 - Jeff Dunham — speakers: Jeff Dunham, Billboard’s Top Comedy Tour, Jerry Seinfeld, Chris Rock, Wembley Arena, Manchester’s Co-op, Michael Fenton Stevens, Follow Jeff Dunham
-- 2024-11-22 — Ep. 446 - Paul Putner — speakers: Paul Putner, Stewart Lee’s Comedy Vehicle, Richard Not Judy, Matt Lucas, David Walliams, Come Fly, Downton Abby, Michael Fenton Stevens
-- 2024-11-18 — Ep. 445 - John O’Farrell Returns! — speakers: John O’Farrell, Nick Park, Chicken Run, Chicken Run Dawn, Something Rotten, Tony Awards, Mrs Doubtfire, Michael Fenton Stevens
-- 2024-11-15 — Ep. 444 - Joe Kent-Walters A.K.A Frankie Monroe — speakers: Joe Kent-Walters, Frankie Monroe, Best Newcomer, Michael Fenton Stevens, Joe Kent Walters, John Fenton-Stevens
-- 2024-11-11 — Ep. 443 - Milton Jones Returns! — speakers: Milton Jones, Michael McIntyre, Comedy Roadshow, Milton Impossible, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-11-08 — Ep. 442 - Matilda Thorpe — speakers: Rupert Grint, Nick Frost, Murder Most Horrid, Aunt Melody, Robin Williams, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-11-04 — Ep. 441 - Modi — speakers: Comedy Central, Howard Stern, Woody Allen, Bill De Blasio, Mordechi Modi Rosenfeld Day, Michael Fenton Stevens, Follow Modi, John Fenton-Stevens
-- 2024-11-01 — Ep. 440 - Andy Hamilton (Re-edit) — speakers: Andy Hamilton, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-10-28 — Ep. 439 - Karl Howman — speakers: Karl Howman Karl Howman, Brush Strokes, Buster Briggs, Secret Spitfires, Donal Macintyre, Karl Howman, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-10-24 — Ep. 438 - Griff Rhys Jones (Re-edit) — speakers: Griff Rhys Jones, Mel Smith, Michael Fenton Stevens, Ruth Jones, David Baddiel, Joe Pasquale, Ruthie Henshall, John Fenton-Stevens
-- 2024-10-20 — Ep. 437 - Arthur Smith Returns! (Live at Cheerful Earful Pod Fest) — speakers: Arthur Smith, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-10-17 — Ep. 436 - Arthur Smith (Re-edit) — speakers: Comedian Arthur Smith, Arthur Smith, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-10-13 — Ep. 435 - Maria McErlane Returns! — speakers: Maria McErlane, Graham Norton, Jean-Paul Gaultier, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-10-10 — Ep. 434 - Will Eaves — speakers: Ian Macmillan, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-10-06 — Ep. 433 - Toby Tarrant — speakers: Chris Moyles, Johnny Vaughn, Toby Tarrant, Chris Tarrant, Michael Fenton Stevens, bill payer, John Fenton-Stevens
-- 2024-10-03 — Ep. 432 - Chris Cantrill — speakers: Chris Cantrill, Edinburgh Comedy Award, Harry Hill, Amy Gledhill, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-09-29 — Ep. 431 - Peter York — speakers: Peter York, Ann Barr, Charles Jennings, Martin Rowson, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-09-26 — Ep. 430 - Lauren Pattison — speakers: Edinburgh Best Newcomer, Edinburgh Best Show Nominee, Lauren Pattison, Comedy Central, Roast Battle, Katherine Ryan, Richard Gadd, Jenny Eclair
-- 2024-09-22 — Ep. 429 - Sue Cleaver — speakers: Eileen Grimshaw, Yorkshire Ripper, Mother Superior, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-09-19 — Ep. 428 - Elf Lyons — speakers: Edinburgh Comedy Award, Best Show, Best Comedy, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-09-15 — Ep. 427 - Robin Morgan — speakers: Robin Morgan, Ellie Taylor, Snip Snip, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-09-12 — Ep. 426 - Gary Warren — speakers: Gary Warren, Cedric Collingford, Ginger Rogers, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-09-08 — Ep. 425 - Christian Brighty — speakers: Soho Theatre, Jane Austen, Christian Brighty, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-09-05 — Ep. 424 - Major-General Chip Chapman — speakers: Chip Chapman, Lt Col, Counter Terrorism, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-09-01 — Ep. 423 - Suzy Perry — speakers: Suzy Perry, Jason Bradbury, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-08-26 — Ep. 422 - Anesti Danelis — speakers: Michael Fenton Stevens, John Fenton-Stevens
-- 2024-08-25 — Ep. 421 - Liam Farrelly — speakers: Liam Farrelly, Runner Up, Best Newcomer, Best Breakthrough Act, Scot Squad, Michael Fenton Stevens, Follow Liam Farrelly, John Fenton-Stevens
-- 2024-08-22 — Ep. 420 - Jazz Emu AKA Archie Henderson — speakers: Archie Henderson, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-08-20 — Ep. 419 - Eric Rushton — speakers: Eric Rushton, Jason Manford, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-08-18 — Ep. 418 - Sumukhi Suresh — speakers: Humble Politician Nograj, Tell Amma, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-08-15 — Ep. 417 - Elvis McGonagall — speakers: Edinburgh Fringe, Elvis McGonagall, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-08-13 — Ep. 416 - Mustafa Algiyadi — speakers: Mustafa Algiyadi, Michael Fenton Stevens, Mustafa Algiyadi’s Edinburgh, Follow Mustafa Algiyadi Twitter, John Fenton-Stevens
-- 2024-08-11 — Ep. 415 - Rahul Subramanian — speakers: Rahul Subramanian, Michael Fenton Stevens, Rahul Subramanian’s Edinburgh, Follow Rahul Subramanian, John Fenton-Stevens
-- 2024-08-08 — Ep. 414 - Juliet Cowan — speakers: Juliet Cowan, Jimmy Carr, Russell Howard, Andy Zaltzman, Amy Winehouse, Polly Arnold, Chrissie Jackson, Michael Fenton Stevens
-- 2024-08-06 — Ep. 413 - Chelsea Birkby — speakers: Chelsea Birkby, James Acaster, Rachel Parris, Angela Barnes, Ed Gamble, Olga Koch, Michael Fenton Stevens, Follow Chelsea Birkby
-- 2024-08-04 — Ep. 412 - Reginald D. Hunter — speakers: Michael Fenton Stevens, Hunter’s Edinburgh, John Fenton-Stevens
-- 2024-08-01 — Ep. 411 - Alexis Gay — speakers: Alexis Gay, Michael Fenton Stevens, Alexis Gay’s Edinburgh, Follow Alexis Gay, John Fenton-Stevens
-- 2024-07-30 — Ep. 410 - Anirban Dasgupta — speakers: Anirban Dasgupta, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-07-28 — Ep. 409 - Sophie Duker — speakers: Sophie Duker, Frankie Boyle, Fringe Show, Dave Gorman’s Terms, Jonathan Ross, Comedy Club, Mel Giedroyc, Michael Fenton Stevens
-- 2024-07-25 — Ep. 408 - Sara Barron — speakers: Comedian Sara Barron, Frankie Boyle, Best Newcomer, Richard Osman, Alan Davies, Roast Battle, Sara Barron, Michael Fenton Stevens
-- 2024-07-23 — Ep. 407 - Michelle Shaughnessy — speakers: Michelle Shaughnessy, Michael Fenton Stevens, Michelle Shaughnessy’s Edinburgh, John Fenton-Stevens
-- 2024-07-21 — Ep. 406 - Colin Hoult — speakers: Colin Hoult, Ricky Gervais, Alan Partridge, Being Human, Anna Mann, Michael Fenton Stevens, Colin Hoult’s Edinburgh, John Fenton-Stevens
-- 2024-07-18 — Ep. 405 - Garrett Millerick — speakers: Garrett Millerick, Comedy Pick, Jack Dee, Meera Syal, Michael Fenton Stevens, Garrett Millerick’s Edinburgh, John Fenton-Stevens
-- 2024-07-16 — Ep. 404 - Chloe Radcliffe — speakers: Chloe Radcliffe, Steven Soderbergh, Michael Cera, Taylor Tomlinson, Michael Fenton Stevens, Chloe Radcliffe’s Edinburgh, John Fenton-Stevens
-- 2024-07-14 — Ep. 403 - Jessie Cave — speakers: Miss Scarlet, Richard Osman, Jon Richardson’s Ultimate, Jessie Cave, Michael Fenton Stevens, Jessie Cave’s Edinburgh, John Fenton-Stevens
-- 2024-07-12 — Ep. 402 - Steve Bugeja — speakers: Steve Bugeja, Howard Hour, Russell Howard’s Stand, Zoe Ball, Michael Fenton Stevens, Steve’s Edinburgh, John Fenton-Stevens
-- 2024-07-09 — Ep. 401 - Spring Day — speakers: Disability Extravaganza, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-07-04 — Ep. 400 - Jason Manford — speakers: Jason Manford, Sweeney Todd, Chitty Chitty Bang Bang, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-06-30 — Ep. 399 - Kim Leadbeater MP — speakers: Jo Cox, Yorkshire Scouts, Theresa May, Kim Leadbeater, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-06-27 — Ep. 398 - Catherine McCafferty — speakers: Catherine McCafferty, Seth Daniel, Pretty Gay, Jenna Ortega, Michael Fenton Stevens, Catherine’s Edinburgh, Follow Catherine McCafferty, John Fenton-Stevens
-- 2024-06-23 — Ep. 397 - Madeline Smith — speakers: Madeline Smith, Rodger Moore, Tim Brooke-Taylor, Leslie Phillips, Frankie Howerd, John Wells, John Fortune, Carl Davis
-- 2024-06-20 — Ep. 396 - Milo Edwards — speakers: Milo Edwards, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-06-16 — Ep. 395 - Stevie Martin — speakers: Stevie Martin, Gina Martin, Hbo Max, Tom Neenan, Howard Hour, Michael Fenton Stevens, Stevie’s Edinburgh, John Fenton-Stevens
-- 2024-06-13 — Ep. 394 - Dr Benji Waterhouse — speakers: Benji Waterhouse, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-06-10 — Ep. 393 - James O’Brien — speakers: James O’Brien, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-06-06 — Ep. 392 - Ali Woods — speakers: Ali Woods, Russell Kane, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-06-02 — Ep. 391 - Tom Baldwin — speakers: Tom Baldwin, Ed Miliband, Best Seller, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-30 — Ep. 390 - Alex Kealy — speakers: Alex Kealy, Ivo Graham, Ed Gamble, Phil Wang, Lou Sanders, Tom Rosenthal, Shaparak Khorsandi, Michael Fenton Stevens
-- 2024-05-26 — Ep. 389 - Sonali Shah — speakers: Sonali Shah, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-23 — Ep. 388 - Dr Helen Fry — speakers: Helen Fry Dr, Helen Fry, Thomas Joseph Kendrick, David Jason’s Secret Service, Dr Helen Fry, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-19 — Ep. 387 - Rob Deering — speakers: Rob Deering, Celebrity Mastermind, Paul Tonkinson, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-16 — Ep. 386 - Toby Hadoke — speakers: Sarah Millican, Justin Moorhouse, Gary Delaney, Moths Ate My Doctor, Toby Hadoke, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-12 — Ep. 385 - Annette Badland — speakers: Margaret Blaine, Mrs Glenna Fitzgibbons, Babe Smith, Fleur Perkins, Annette Badland, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-09 — Ep. 384 - Paul Hendy — speakers: Paul Hendy, Davina McCall, Emily Wood, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-05 — Ep. 383 - Michelle Brasier — speakers: Michelle Brasier, Koala Man, Hugh Jackman, Sarah Snook, Shaun Micallef, Aunty Donna, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-05-02 — Ep. 382 - Sam Lake — speakers: Sam Lake, Hastings Fringe Newcomer, Tom Allen, Edinburgh Fringe, Michael Fenton Stevens, Follow Sam Lake, John Fenton-Stevens
-- 2024-04-28 — Ep. 381 - Ainsley Harriott — speakers: Ainsley Harriott, Michael Fenton Stevens, Follow Ainsley Harriott, John Fenton-Stevens
-- 2024-04-25 — Ep. 380 - Stephen Fry (Re-edit) — speakers: Stephen Fry, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-04-21 — Ep. 379 - Georgina Hayden — speakers: Jamie Oliver, Stirring Slowly, Georgina Hayden, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-04-18 — Ep. 378 - Carol Drinkwater — speakers: Carol Drinkwater, Helen Herriot, Laurence Olivier, Hugh Grant, Alan Rickman, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-04-14 — Ep. 377 - Professor Chris Lintott — speakers: Chris Lintott, Patrick Moore, Brian May, Michael Fenton Stevens, Twitter chrislintott, John Fenton-Stevens
-- 2024-04-11 — Ep. 376 - Nick Newman — speakers: Nick Newman, Ian Hislop, Most Horrid, Tim Nice-But-Dim, Burt Reynolds, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-04-07 — Ep. 375 - Simon Brodkin — speakers: Comedian Simon Brodkin, Lee Nelson, Teressa May, Hammersmith Apollo, Simon Brodkin, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-04-04 — Ep. 374 - Ann Bryson — speakers: Ann Bryson Ann Bryson, Sara Crowe, Ann Bryson, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-04-01 — Ep. 373 - Maisie Adam — speakers: Maisie Adam, Best Newcomer, Suzi Ruffell, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-03-29 — Ep. 372 - Luke Kempner — speakers: Luke Kempner, Monsieur Thenardier, Harry Styles, Ed Sheeran, Jurgen Klopp, Steph’s Packed Lunch, Luke Kempner’s Impression
-- 2024-03-25 — Ep. 371 - Richard Talman — speakers: Richard Talman, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-03-22 — Ep. 370 - Liam Withnail — speakers: Liam Withnail, Socially Distant, Susan Calman, Scot Squad, Edinburgh Fringe, Michael Fenton Stevens, Follow Liam Withnail, John Fenton-Stevens
-- 2024-03-18 — Ep. 369 - Tom Shakespeare CBE — speakers: Tom Shakespeare Cbe, Tom Shakespeare, Michael Fenton Stevens, Twitter TommyShakes, John Fenton-Stevens
-- 2024-03-15 — Ep. 368 - Professor Sophie Scott — speakers: Sophie Scott, Monkey Cage, Jimmy Carr, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-03-11 — Ep. 367 - Jon Holmes — speakers: Jon Holmes, Virgin Radio, Dead Ringers, Armando Iannucci, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-03-08 — Ep. 366 - Lewis MacLeod — speakers: Anakin Skywalker, Steve Wright, Jeremy Vine, Paul McCartney, Draco Malfoy, Albus Dumbledore, Fred Weasley
-- 2024-03-04 — Ep. 365 - Jess Conrad — speakers: Jess Conrad, Jack Goode, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-03-01 — Ep. 364 - Huge Davies — speakers: Harry Hill, Roast Battle, Jools Holland, Jonathan Ross, Comedy Club, Phil Wang, Joe Lycett, Nick Helm
-- 2024-02-26 — Ep. 363 - Greg Jenner — speakers: Homeschool History, Rotten Romans, Corpse Talk, Phil Ellis, Michael Fenton Stevens, Greg Jenner, Follow Greg Jenner, John Fenton-Stevens
-- 2024-02-23 — Ep. 362 - Phil Ellis — speakers: Phil Ellis, Amy Gledhill, Alexei Sayle, Sindhu Vee, Jack Dee, Lee Mack, Mark Lamarr, Sean Lock
-- 2024-02-19 — Ep. 361 - Professor Alice Roberts — speakers: Alice Roberts, Royal Autopsy, Sky History, Michael Fenton Stevens, Instagram prof alice roberts, John Fenton-Stevens
-- 2024-02-16 — Ep. 360 - Njambi McGrath — speakers: Njambi McGrath, Becoming Njambi, Comedy Central, Front Row, Jason Manford, Michael Fenton Stevens, Instagram NjambiMcgrath, John Fenton-Stevens
-- 2024-02-12 — Ep. 359 - Chloe Petts — speakers: Chloe Petts, Richard Osman, Jonathan Ross, Dave’s Hypothetical, Michael Fenton Stevens, Follow Chloe Petts, John Fenton-Stevens
-- 2024-02-09 — Ep. 358 - Esther Manito — speakers: Esther Manito, Russell Kane, Alan Davies, Shappi Khorsandi, Sindhu Vee, Jason Mansford, Jo Brand, Al Murray
-- 2024-02-05 — Ep. 357 - Daliso Chaponda — speakers: Michael Fenton Stevens, John Fenton-Stevens
-- 2024-02-02 — Ep. 356 - Ed Patrick — speakers: Ed Patrick Ed Patrick, Charlie Brooker, Sindhu Vee, Joe Lycett, Rose Matafeo, Matt Lucas, Jay Rayner, Phil Hammond
-- 2024-01-29 — Ep. 355 - George Monbiot — speakers: George Monbiot George Monbiot, Greta Thunberg, Nelson Mandela, Peter Kent, George Monbiot, Michael Fenton Stevens, George’s books, John Fenton-Stevens
-- 2024-01-26 — Ep. 354 - Larry Dann — speakers: Larry Dann, Joan Littlewood, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-01-22 — Ep. 353 - Rosie Holt — speakers: Ashley Blaker, Brendan Murphy, Rosie Holt, Michael Fenton Stevens, Follow Rosie Holt, Instagram RosieisaHolt, John Fenton-Stevens
-- 2024-01-19 — Ep. 352 - Ricky Sim — speakers: Ricky Sim Ricky Sim, Laughter Lab, Ricky Sim, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-01-15 — Ep. 351 - Harriet Kemsley — speakers: Harriet Kemsley, Bobby Mair, Harriet Crying, Sunil Patel, Michael Fenton Stevens, Follow Harriet Kemsley, Instagram harrietkemsley, John Fenton-Stevens
-- 2024-01-12 — Ep. 350 - Rob Auton — speakers: Rob Auton, Rob Delaney, Harper Collins, Michael Fenton Stevens, John Fenton-Stevens
-- 2024-01-08 — Ep. 349 - Robin Askwith — speakers: Robin Askwith, Timothy Lea, Lindsey Anderson, Sue Holderness, Sally Lindsay, Steve Edge, Michael Fenton Stevens, Twitter Robin Askwith
-- 2024-01-05 — Ep. 348 - Finlay Christie — speakers: Peter Kay, Lee Mack, Sarah Millican, Stephen Fry, David Mitchell, David Tennant, Finlay Christie, Michael Fenton Stevens
-- 2024-01-01 — Ep. 347 - Iain Stirling — speakers: Iain Stirling, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-12-29 — Best of 2023 - Part 3 — speakers: Tony Robinson, Ted Robbins, Neil Delamere, Jim Sweeny, Samira Ahmed, Roger Black, Robert Popper, Jon Harvey
-- 2023-12-28 — Best of 2023 - Part 2 — speakers: Bridget Christie, David Earl, Doug Alan, Jim Howick, Lindsey Santoro, Mathew Crosby, Catherine Tydesley, Daniel Foxx
-- 2023-12-27 — Best of 2023 - Part 1 — speakers: Dave Gorman, Jon Ronson, Cliff Parasi, Deirdre O'Kane, Hywel Roberts, David Morrissey, Iain Lee, Fiona Allen
-- 2023-12-22 — My Time Capsule Christmas Party! — speakers: Michael Fenton Stevens, John Fenton-Stevens
-- 2023-12-20 — A Christmas Carol - Our Annual Gift — speakers: Charles Dickens, Michael Fenton Stevens
-- 2023-12-18 — My Christmas Time Capsule 2023 - Part 3 — speakers: Joe Wilkinson, Jim Howick, Rosie Holt, Tom Read-Wilson, Hywel Roberts, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-12-15 — My Christmas Time Capsule 2023 - Part 2 — speakers: Dave Gorman, Jacqui Oatley, Alasdair Beckett-King, Ted Robbins, Turi King, John Fenton-Stevens, Rich Wilson, Michael Fenton Stevens
-- 2023-12-11 — My Christmas Time Capsule 2023 - Part 1 — speakers: Alex Horne, Jon Harvey, Lindsay Santoro, Iain Lee, Gabrielle Glaister, Matthew Crosby, Simon Parkin, Paul Clayton
-- 2023-12-08 — Ep. 346 - Ian Smith — speakers: Best Show, Ian Smith, Girl Stuck, Edinburgh Fringe, Amy Gledhill, Edinburgh Comedy Award Nominated, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-12-04 — Ep. 345 - Lemn Sissay — speakers: Lemn Sissay, Michael Fenton Stevens, Follow Lemn Sissay, John Fenton-Stevens
-- 2023-12-01 — Ep. 344 - Glenn Moore — speakers: Edinburgh Comedy Award, Glenn Moore, Howard Hour, Rob Delaney, Glenny More, Michael Fenton Stevens, Alex Horne, John Fenton-Stevens
-- 2023-11-27 — Ep. 343 - Alex Horne — speakers: Alex Horne, Alex Horne Presents, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-11-24 — Ep. 342 - Dave Cohen — speakers: Dave Cohen, Richie Webb, David Quantick, Mike Myers, Paul Merton, Al Murray, Jim Tavare, Mike Cosgrave
-- 2023-11-20 — Ep. 341 - Alfie Moore — speakers: Edinburgh Fringe, Sarah Millican, Russell Kane, Milton Jones, Alfie Moore, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-11-17 — Ep. 340 - Rich Wilson — speakers: Rich Wilson, Rachael Wells, James Acaster, Scroobius Pip, Heston Blumenthal, Tom Allen, David Baddiel, Simon Evans
-- 2023-11-13 — Ep. 339 - Kiell Smith-Bynoe — speakers: Kiell Smith-Bynoe, Lily Allen, Richard Osman, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-11-10 — Ep. 338 - Simon Parkin — speakers: Simon Parkin, Andi Peters, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-11-06 — Ep. 337 - Samira Ahmed — speakers: Samira Ahmed Samira Ahmed, Celebrity Mastermind, Samira Ahmed, Michael Fenton Stevens, Follow Samira Ahmed, John Fenton-Stevens
-- 2023-11-03 — Ep. 336 - Natasha Hodgson — speakers: Natasha Hodgson, Mel Brooks, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-10-30 — Ep. 335 - Bob Cryer — speakers: Barry Cryer, Victoria Wood’s Christmas Special, Tom Hardy, Jonah Hill, Seth Rogen, Maid Marion, Bob Cryer, Michael Fenton Stevens
-- 2023-10-26 — Ep. 334 - Ian Lawman — speakers: Ian Lawman, Michael Fenton Stevens, Follow Ian Lawman, John Fenton-Stevens
-- 2023-10-22 — Ep. 333 - Laurence Rickard — speakers: Laurence Rickard, Kylie Minogue, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-10-19 — Ep. 332 - Sophie Grigson — speakers: Sophie Grigson, Evening Standard, Michael Fenton Stevens, Follow Sophie Grigson, John Fenton-Stevens
-- 2023-10-15 — Ep. 331 - Aled Jones — speakers: Michael Fenton Stevens, John Fenton-Stevens
-- 2023-10-12 — Ep. 330 - Fiona Allen — speakers: Fiona Allen, Doon Mackichan, Sally Phillips, Paul Whitehouse, Waterloo Road, Michaela Turnbull, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-10-08 — Ep. 329 - Jacqui Oatley — speakers: Jacqui Oatley, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-10-05 — Ep. 328 - Linda John-Pierre — speakers: Linda John-Pierre, Sweet Soul Music, Aretha Franklin, Sadie Fagin, Idris Elba, Gerard Butler, Morgan Freeman, Beautiful People
-- 2023-10-01 — Ep. 327 - Dane Baptiste — speakers: Best Newcomer, Frankie Boyle, Alan Davies, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-09-28 — Ep. 326 - David Barry — speakers: David Barry, Frankie Abbott, John Alderton, Derek Guyler, John Edmond, Bob Larbey, Michael Fenton Stevens, Emma Joliffe Pigeonhole
-- 2023-09-24 — Ep. 325 - Robert Popper — speakers: Robert Popper, Peter Serafinowicz, Jamie Demetriou, Robin Cooper, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-09-21 — Ep. 324 - Remi Adekoya — speakers: Remi Adekoya, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-09-17 — Ep. 323 - Roger Black — speakers: Roger Black, Bronze Olympic, Michael Johnson, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-09-14 — Ep. 322 - Nooruddean Choudry — speakers: Nooruddean Choudry, Inshallah United, Manchester United fan, Hywel Roberts, Michael Fenton Stevens, Follow Nooruddean Choudry, John Fenton-Stevens
-- 2023-09-10 — Ep. 321 - Lizzie Webb — speakers: Lizzie Webb, Jane Fonda, Joggy Bear, Michael Fenton Stevens, Buy Lizzie, John Fenton-Stevens
-- 2023-09-07 — Ep. 320 - Hywel Roberts — speakers: Hywel Roberts, Learn Accidentally, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-09-03 — Ep. 319 - Jon Harvey AKA Count Binface — speakers: Jon Harvey, John Oliver, Comic Relief, Steph McGovern, Joseph Morpurgo, Rob Newman, Michael Fenton Stevens
-- 2023-08-31 — Ep. 318 - George Layton — speakers: George Layton, Paul Collier, Jonathan Lynn, Nigel Havers, Tony Britton, Geoffrey Palmer, Penelope Keith, Michael Fenton Stevens
-- 2023-08-27 — Ep. 317 - Alasdair Beckett-King — speakers: Leicester Mercury, Alasdair Beckett-King, Michael Fenton Stevens, Cab Calloway St, Follow Alasdair Beckett-King, John Fenton-Stevens
-- 2023-08-24 — The Debrief - Ep. 1 - Acast+ Preview — speakers: Michael Fenton Stevens, John Fenton-Stevens
-- 2023-08-20 — Ep. 316 - Lou Sanders — speakers: Lou Sanders, Mel Giedroyc, Russell Howard, Aisling Bea, Karl Pilkington, Michael Fenton Stevens, Follow Lou Sanders, John Fenton-Stevens
-- 2023-08-17 — Ep. 315 - Rosie Wilby — speakers: Rosie Wilby Rosie Wilby, Rosie Wilby, Michael Fenton Stevens, Follow Rosie Wilby, John Fenton-Stevens
-- 2023-08-13 — Ep. 314 - Doug Allan — speakers: Doug Allan, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-08-10 — Ep. 313 - Louise Young — speakers: Louise Young, Jason Manford, Alan Carr, Michael Fenton Stevens, Instagram louiseyoungcomedy, John Fenton-Stevens
-- 2023-08-06 — Ep. 312 - Neil Mullarkey — speakers: Neil Mullarkey, Comedy Store, Mike Myers, Austin Powers, Edie Izard, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-08-03 — Ep. 311 - Daniel Foxx — speakers: Daniel Foxx, Sofie Hagen, Graham Norton, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-07-30 — Ep. 310 - Pierre Novellie — speakers: Pierre Novellie, Phil Wang, Quiet Ones, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-07-27 — Ep. 309 - Elliot Steel — speakers: Top Secret Comedy Club, Ivo Graham, Barry Castagnola, Mark Steel, Elliot Steel, Michael Fenton Stevens, Follow Elliot Steel, John Fenton-Stevens
-- 2023-07-23 — Ep. 308 - Professor Turi King — speakers: Turi King, Richard Iii, Stacey Dooley, Patricia Cornwell, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-07-20 — Ep. 307 - Stuart Laws — speakers: James Acaster, Turtle Canyon Comedy, Stuart Laws, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-07-16 — Ep. 306 - Joe Wells — speakers: Joe Wells, Frankie Boyle, Alexei Sayle, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-07-13 — Ep. 305 - Lindsey Santoro — speakers: Lindsey Santoro, Joe Lycett, Leicester Square New Comedian, Sarah Millican, Russell Kane, Pink Tinge, Edinburgh Fringe, Michael Fenton Stevens
-- 2023-07-09 — Ep. 304 - Ashley Blaker — speakers: Ashley Blaker, Matt Lucas, David Walliams, David Rock Profile, Normal Scmormal, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-07-06 — Ep. 303 - Laura Lexx — speakers: Laura Lexx, Celebrity Mastermind, Richard Herring, Square Theatre, Sarah Millican’s Standard, Will Dugan, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-07-02 — Ep. 302 - Jim Howick — speakers: Jim Howick, William Shakespeare, Danny Boyle, Aaron Mayford, Bridget Christie, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-06-29 — Ep. 301 - John Fenton-Stevens — speakers: John Fenton-Stevens, Michael Fenton Stevens
-- 2023-06-25 — Ep. 300 - Dave Gorman (LIVE at Kite Festival) — speakers: Dave Gorman, Michael Fenton Stevens, Follow Dave Gorman, John Fenton-Stevens
-- 2023-06-22 — Ep. 299 - Bridget Christie — speakers: Harry Hill, Kevin Eldon, Bridget Christie, Bridget Christie’s Utopia, John Lloyd, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-06-18 — Ep. 298 - Deirdre O’Kane — speakers: Boy George, Brendan Coyle, Stephen Bradley, Debra Moone, Moone Boy, Peter McDonald, Chris O'Dowd, Comic Relief
-- 2023-06-15 — Ep. 297 - Amy Gledhill — speakers: Amy Gledhill, Alan Davies, Richard Ayoade, Harry Hill, Somewhere Boy, Michael Fenton Stevens, uk Amy, John Fenton-Stevens
-- 2023-06-11 — Ep. 296 - Paul Clayton — speakers: Paul Clayton, Olivia Colman, David Mitchell, Robert Webb, Sarah Solimani, Kerry Howard, Joe Wilkinson, Danny Boy
-- 2023-06-08 — Ep. 295 - Jake Lambert — speakers: Jake Lambert Jake Lambert, Michael McIntyre, Jack Dee, Seann Walsh, Kerry Godliman, Tom Allen, Rob Beckett, Bake Off
-- 2023-06-04 — Ep. 294 - Stuart Goldsmith — speakers: Stuart Goldsmith, Jimmy Carr, James Acaster, Stewart Lee, Sarah Millican, Sindhu Vee, Russell Howard, Alan Davies
-- 2023-06-01 — Ep. 293 - RIOPY — speakers: Lana Del Rey, Chris Martin, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-05-28 — Ep. 292 - Nina Wadia — speakers: Sanjeev Bhaskar, Meera Syal, Kulvinder Ghir, Zainab Massood, Citizen Khan, Nitin Ganatra, Nina Wadia, Michael Fenton Stevens
-- 2023-05-25 — Ep. 291 - Anita Harris — speakers: Anita Harris, Dusty Springfield, David Nixon, Cabaret Performer, Bobby Crush, Bernie Clifton, Tommy Canon, Billy Pearce
-- 2023-05-21 — Ep. 290 - Cally Beaton — speakers: Richard Osman, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-05-18 — Ep. 289 - Sam Teskey (The Teskey Brothers) — speakers: Sam Teskey, Half Mile Harvest, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-05-14 — Ep. 288 - Eric Whitacre — speakers: Eric Whitacre, Hans Zimmer, Laura Mvula, Imogen Heap, Annie Lennox, Michael Fenton Stevens, Follow Eric Whitacre, John Fenton-Stevens
-- 2023-05-11 — Ep. 287 - Amanda Wakeley — speakers: Amanda Wakeley, Harvey Nichols, Elizabeth Hurley, Jennifer Lopez, Queen Rania, Jasmin Le Bon, Elaine Page, James Blunt
-- 2023-05-07 — Ep. 286 - Matthew Crosby — speakers: Matthew Crosby, Matthew Crosby Show, James Acaster, Noel Fielding, Bradley Walsh, Richard Ayoade, Matt Lucas, Sara Pascoe
-- 2023-05-04 — Ep. 285 - Ria Lina — speakers: Michael Fenton Stevens, Follow Ria Lina, John Fenton-Stevens
-- 2023-04-30 — Ep. 284 - Matt Forde — speakers: Jon Richardson Grows, Al Murray, Sean Foley, Michael Heseltine
-- 2023-04-27 — Ep. 283 - Bilal Zafar — speakers: Best Newcomer, Emma Thompson, Emilia Clarke, Henry Golding, Bilal Zafar, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-04-23 — Ep. 282 - David Morrissey (Live at Ink Festival) — speakers: David Morrissey, Good Omens, John Lennon, Corelli’s Mandolin, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-04-20 — Ep. 281 - Gabrielle Glaister — speakers: Gabrielle Glaister, Patricia Farnham, Trish Wallace, Hilary Benshaw, Roger Daltrey, Chesney Hawks, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-04-16 — Ep. 280 - Jon Ronson — speakers: Jon Ronson, George Clooney, Michael Fassbender, Frank Sidebottom, Michael Fenton Stevens, Jon Ronson’s Audible, Follow Jon Ronson, John Fenton-Stevens
-- 2023-04-13 — Ep. 279 - Mina Anwar — speakers: Maggie Habib, Ben Elton, Rowan Atkinson, Matt Lucas, Upstart Crow, Marley’s Ghost, Mina Anwar, Michael Fenton Stevens
-- 2023-04-09 — Ep. 278 - Jamie Morton (My Dad Wrote A Porno) — speakers: Jamie Morton, James Cooper, Alice Levine, Rocky Flintstone, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-04-06 — Ep. 277 - Gordon Kennedy — speakers: Gordon Kennedy, Gordon co-hosted, Anthea Turner, Little John, Robin Hood, Sergeant Bruce Hornsby, Red Cap, Stressed Eric
-- 2023-04-02 — Ep. 276 - Iain Lee — speakers: Ricky Gervais, Thumb Bandits, Celebrity Soup, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-03-30 — Ep. 275 - John Archer — speakers: John Archer, Tim Vine Travels, Tim Vine, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-03-26 — Ep. 274 - Tony Way — speakers: Tony Way, Ricky Gervais, Bang Bang, Michael Fenton Stevens, Follow Tony Way, John Fenton-Stevens
-- 2023-03-24 — Ep. 273 - Annabelle Dowler — speakers: Annabelle Dowler, Carey Mulligan, Helena Bonham Carter, Meryl Streep, Michael Fenton Stevens, Twitter AnnabelleDowler, Instagram dowlerannabelle, John Fenton-Stevens
-- 2023-03-20 — Ep. 272 - Catherine Tyldesley — speakers: Catherine Tyldesley Catherine Tyldesley, Iris Moss, Karen Norris, Jason Manford, Johannes Radebe, Florence Nightingale, Abi Peterson, Catherine Tyldesley
-- 2023-03-17 — Ep. 271 - Sally Hodgkiss — speakers: Sally Hodgkiss, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-03-13 — Ep. 270 - David Earl — speakers: David Earl David Earl, Brian Gittens, Ricky Gervais, Joe Wilkinson, David Earl, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-03-10 — Ep. 269 - Sian Reese-Williams — speakers: Sian Reese-Williams, Cadi John, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-03-06 — Ep. 268 - Zoe Lyons — speakers: Alan Davies, Celebrity Mastermind, Michael McIntyre Roadshow, Zoe Lyons, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-03-03 — Ep. 267 - Kerry Howard — speakers: Sarah Solemani, Joe Wilkinson, Reggie Perrin, Finding Joy Murder, Jack Absolute, Kerry Howard, Michael Fenton Stevens
-- 2023-02-27 — Ep. 266 - Tom Read Wilson — speakers: Tom Read Wilson Actor, Tom Read Wilson, Celebrity Mastermind, Michael Macintyre, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-02-24 — Ep. 265 - Steve Steen — speakers: Jim Sweeney, Little Armadillos, Ben Elton, Bill Bryson, John Belushi, Charles Dickens, Paul Merton, Stephen Frost
-- 2023-02-20 — Ep. 264 - Gordon Buchanan — speakers: Gordon Buchanan, Snow Wolves, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-02-17 — Ep. 263 - John Altman (film composer) — speakers: John Altman, Hear My Song, Richard Gere, Jennifer Lopez, Diane Keaton, Colin Firth, Minnie Driver, Heather Graham
-- 2023-02-13 — Ep. 262 - David Ames — speakers: David Ames, Dominic Copeland, Rafe Spall, David Tennent, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-02-10 — Ep. 261 - Lorelei King — speakers: Alien Covenant, Jonathan Creek, Lorelei King, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-02-06 — Ep. 260 - Caitlin O’Ryan — speakers: Lizzie Wemyss, Caitlin O’Ryan, Michael Fenton Stevens, Follow Caitlin O’Ryan, John Fenton-Stevens
-- 2023-02-03 — Ep. 259 - Tommy Cannon — speakers: Tommy Cannon, Bobby Ball, Ball Show, Bob Mortimer, Vic Reeves, Lee Mack, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-01-30 — Ep. 258 - Mark Simmons — speakers: Mark Simmons, Seann Walsh, Rob Beckett, Rob Brydon, Michael McIntyre, Jack Dee, Michael Fenton Stevens, Mark Simmons podfollow com
-- 2023-01-27 — Ep. 257 - Ronnie Golden — speakers: Ronnie Golden, Tom Jones, Scott Walker, Engelbert Humperdinck, David Bowie, Fabulous Poodles, Rik Mayall, Ben Elton
-- 2023-01-23 — Ep. 256 - Neil Delamere — speakers: Neil Delamere, Richard Osman, Celebrity Chase, Celebrity Mastermind, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-01-20 — Ep. 255 - Rachel Fairburn — speakers: Rachel Fairburn, Kiri Pritchard McLean, Ghoul Guide, Alan Davies, Richard Osman, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-01-16 — Ep. 254 - Jim Sweeney — speakers: Jim Sweeney, Store Players, Paul Merton, Josie Lawrence, Neil Mullarkey, Richard Vranch, Sandi Toksvig, Jeremy Hardy
-- 2023-01-13 — Ep. 253 - Cliff Parisi — speakers: Minty Peterson, Fred Buckle, Kavanagh QC, Paul Merton, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-01-09 — Ep. 252 - Shaun Keaveny — speakers: Shaun Keaveny, Liza Tarbuck, Johnnie Walker, Michael Fenton Stevens, John Fenton-Stevens
-- 2023-01-06 — Ep. 251 - Ted Robbins — speakers: Ted Robbins, Den Perry, Peter Kay, Tony Cluedo, Crème Brulee, Jack Whitehall, Brendan Finch, Michael Fenton Stevens
-- 2023-01-02 — Ep. 250 - Sir Tony Robinson — speakers: Tony Robinson, Maid Marian, Merry Men, Terry Pratchett, Michael Fenton Stevens, Follow Tony Robinson, John Fenton-Stevens
-- 2022-12-30 — Best Of My Time Capsule 2022 - Part 3 — speakers: Danny Baker, Gail Porter, Hugh Dennis, Billy Boyd, Linford Christie, Michel Roux Jr, Patrick Stevens, Danny Robins
-- 2022-12-29 — Best Of My Time Capsule 2022 - Part 2 — speakers: Harry Hill, Nicola Stephenson, John Torode, Jason Byrne, Chesney Hawkes, Jim Piddock, Mike Grady, Josh Bolt
-- 2022-12-28 — Best Of My Time Capsule 2022 - Part 1 — speakers: Harry Hill, Sanjeev Bhaskar, Fern Britton, Joe Pasquale, Jim Piddock, Cheryl Baker, Richard Pitman, Graham Fellows
-- 2022-12-24 — My Christmas Time Capsule 2022 - Part 2 — speakers: Joe Pasquale, Nick Helm, Sarah Greene, Jeremy Dyson, Rob Rouse, Catherine Russell, Tim Downie, Graham Fellows
-- 2022-12-23 — My Christmas Time Capsule 2022 - Part 1 — speakers: Cheryl Baker, Nicola Stephenson, Joe Pasquale, Fern Britton, Jim Piddock, Mike Grady, Josh Bolt, Nicola Bryant
-- 2022-12-19 — My Christmas Time Capsule from 2021 - Part 2 — speakers: Sanjeev Bhaskar, Rory McGrath, Katy Brand, Paul Mayhew-Archer, Charlie Higson, Paul Burke, Les Dennis, John O'Farrell
-- 2022-12-19 — My Christmas Time Capsule from 2021 - Part 1 — speakers: Clive Anderson, Eilidh Doyle, Andrew Hunter Murray, Lisa Riley, Ken Bruce, Gary Wilmot, Fred MacAulay, Kate Thornton
-- 2022-12-18 — A Christmas Carol - A Gift For Our Listeners — speakers: Charles Dickens, Michael Fenton Stevens
-- 2022-12-16 — My Christmas Time Capsule from 2020 - Part 2 — speakers: Stephen Fry, Lucy Porter, John Challis, Tony Hawks, Anthony Head, Janet Ellis, Rick Wakeman, Anneka Rice
-- 2022-12-16 — My Christmas Time Capsule from 2020 - Part 1 — speakers: Arthur Smith, Andy Hamilton, Mark Watson, Paul Mayhew-Archer, Jan Ravens, Kevin McNally, Anthony Head, Ellie White
-- 2022-12-12 — Ep. 249 - Rick Edwards — speakers: Rick Edwards, Rachel Burden, Jameela Jamil, Nick Grimshaw, Michael Brooks, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-12-09 — Ep. 248 - Olly Mann — speakers: Helen Zaltzman, Michael Fenton Stevens, Twitter OllyMann, John Fenton-Stevens
-- 2022-12-05 — Ep. 247 - Dirk Maggs — speakers: Steven Spielberg, Hitchhikers Guide, David Duchovny, Gillian Anderson, Stephen Baxter’s Voyage, Neil Gaiman, Terry Pratchett, Anansi Boys
-- 2022-12-02 — Ep. 246 - Patrick Stevens — speakers: Patrick Stevens, Michael Fenton Stevens, Follow Patrick Stevens, John Fenton-Stevens
-- 2022-11-28 — Ep. 245 - Joe Wilkinson — speakers: Joe Wilkinson Comedian, Joe Wilkinson, Ricky Gervais, David Earle, Michael Fenton Stevens, Follow Joe Wilkinson, John Fenton-Stevens
-- 2022-11-25 — Ep. 244 - Sooz Kempner — speakers: Best Newcomer, Richard Thomas, Jerry Springer, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-11-21 — Ep. 243 - Hugh Dennis — speakers: Hugh Dennis, Lee Mack, Steve Punt, David Baddiel, Rob Newman, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-11-18 — Ep. 242 - Sian Berry — speakers: Sian Berry, Jonathan Bartley, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-11-14 — Ep. 241 - Sophie Aldred — speakers: Sylvester McCoy, Jodie Whittaker, Peter Rabbit, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-11-11 — Ep. 240 - Lloyd Griffith — speakers: Lloyd Griffith, Jonathan Ross, Drunk History, St George’s Chapel, Michael Fenton Stevens, Follow Lloyd Griffith, John Fenton-Stevens
-- 2022-11-07 — Ep. 239 - Jon Culshaw — speakers: Jon Culshaw, Dead Ringers, Debra Stephenson, Jonathan Ross, Head Cases, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-11-04 — Ep. 238 - Lizzie Roper — speakers: Lizzie Roper Lizzie Roper, Sam Lomax, Ben Miller, Sarah Alexander, Alison Steadman, Geoffrey Whitehead, Waterloo Road, Boy Meets Girl
-- 2022-10-31 — Ep. 237 - Danny Robins — speakers: Danny Robins, Dafne Keen, Joseph Fiennes, Alexandra Roach, Lily Allen, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-10-27 — Ep. 236 - Charlie Baker — speakers: Charlie Baker, Harry Hill, Richard Bacon, Richard Osman, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-10-23 — Ep. 235 - Rob Rouse — speakers: Rob Rouse, Ben Elton, Upstart Crow, William Shakespeare, David Mitchell, Harry Enfield, Mark Heap, Liza Tarbuck
-- 2022-10-20 — Ep. 234 - Gary Sinyor — speakers: Gary Sinyor, Chris O'Donnell, Renée Zellweger, David Frost, Tom Greene, Brooke Shields, Dexter Fletcher, Linda Hamilton
-- 2022-10-16 — Ep. 233 - James Dreyfus — speakers: James Dreyfus, Rowan Atkinson, Kathy Burke, Hugh Grant, Bette Midler, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-10-13 — Ep. 232 - John Dowie — speakers: John Dowie, Victoria Wood, Tony Wilson, Neil Innes, Arthur Smith, Barry Cryer, Ronnie Golden, Simon Munnery
-- 2022-10-09 — Ep. 231 - Nicola Bryant — speakers: Peri Brown, Peter Davison, Colin Baker, Nicola Bryant, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-10-06 — Ep. 230 - Josh Jones — speakers: Josh Jones, Edinburgh Fringe, Jonathan Ross, Comedy Club, Dead Drama, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-10-02 — Ep. 229 - Danny Baker - Part 2 — speakers: Danny Baker, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-10-02 — Ep. 229 - Danny Baker - Part 1 — speakers: Danny Baker, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-09-29 — Ep. 228 - Maggie Ollerenshaw — speakers: Maggie Ollerenshaw, Ronnie Barker, David Jason, Michael Palin, Maggie Smith, Mary Pierrepoint, Timothy Spall, Juliet Bravo
-- 2022-09-25 — Ep. 227 - Linford Christie — speakers: Linford Christie, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-09-22 — Ep. 226 - Sunny Ormonde — speakers: Lillian Bellamy, Jane James, Sunny Ormonde, Michael Fenton Stevens, podfollow com, John Fenton-Stevens
+- 2024-12-13 — Ep. 452 - Richard Vranch — speakers: Richard Vranch
+- 2024-12-09 — Ep. 451 - Angela Barnes Returns! — speakers: Angela Barnes
+- 2024-12-06 — Ep. 450 - Eliot Stein — speakers: Eliot Stein
+- 2024-12-02 — Ep. 449 - Andy Zaltzman — speakers: Andy Zaltzman Andy Zaltzman
+- 2024-11-29 — Ep. 448 - David Mitchell (Re-edit) — speakers: David Mitchell, David Mi
+- 2024-11-25 — Ep. 447 - Jeff Dunham — speakers: Jeff Dunham
+- 2024-11-22 — Ep. 446 - Paul Putner — speakers: Paul Putner, Stewart Lee’s Comed
+- 2024-11-18 — Ep. 445 - John O’Farrell Returns! — speakers: John O’Farrell
+- 2024-11-15 — Ep. 444 - Joe Kent-Walters A.K.A Frankie Monroe — speakers: Joe Kent-Walters, Frankie Monroe, Best Newcomer
+- 2024-11-11 — Ep. 443 - Milton Jones Returns! — speakers: Milton Jones
+- 2024-11-08 — Ep. 442 - Matilda Thorpe
+- 2024-11-04 — Ep. 441 - Modi
+- 2024-11-01 — Ep. 440 - Andy Hamilton (Re-edit) — speakers: Andy Hamilton
+- 2024-10-28 — Ep. 439 - Karl Howman — speakers: Karl Howman Karl Howman, Brush Strokes
+- 2024-10-24 — Ep. 438 - Griff Rhys Jones (Re-edit) — speakers: Griff Rhys Jones
+- 2024-10-20 — Ep. 437 - Arthur Smith Returns! (Live at Cheerful Earful Pod Fest) — speakers: Arthur Smith
+- 2024-10-17 — Ep. 436 - Arthur Smith (Re-edit) — speakers: Comedian Arthur Smith
+- 2024-10-13 — Ep. 435 - Maria McErlane Returns! — speakers: Maria McErlane, Graham Norton
+- 2024-10-10 — Ep. 434 - Will Eaves — speakers: Will Eaves Will Eaves
+- 2024-10-06 — Ep. 433 - Toby Tarrant — speakers: Toby Tarrant Toby Tarrant
+- 2024-10-03 — Ep. 432 - Chris Cantrill — speakers: Chris Cantrill, Edinburgh Comedy Award
+- 2024-09-29 — Ep. 431 - Peter York — speakers: Peter York
+- 2024-09-26 — Ep. 430 - Lauren Pattison — speakers: Edinburgh Best Newcomer, Edinburgh Best Show Nominee, Lauren Pattison
+- 2024-09-22 — Ep. 429 - Sue Cleaver — speakers: Eileen Grimshaw
+- 2024-09-19 — Ep. 428 - Elf Lyons — speakers: Edinburgh Comedy Award
+- 2024-09-15 — Ep. 427 - Robin Morgan — speakers: Robin Morgan
+- 2024-09-12 — Ep. 426 - Gary Warren — speakers: Gary Warren
+- 2024-09-08 — Ep. 425 - Christian Brighty — speakers: Christian Brighty Christian Brighty
+- 2024-09-05 — Ep. 424 - Major-General Chip Chapman — speakers: Chip Chapman
+- 2024-09-01 — Ep. 423 - Suzy Perry — speakers: Suzy Perry
+- 2024-08-26 — Ep. 422 - Anesti Danelis — speakers: Anesti Danelis Anesti Danelis
+- 2024-08-25 — Ep. 421 - Liam Farrelly — speakers: Liam Farrelly
+- 2024-08-22 — Ep. 420 - Jazz Emu AKA Archie Henderson — speakers: Archie Henderson
+- 2024-08-20 — Ep. 419 - Eric Rushton — speakers: Eric Rushton
+- 2024-08-18 — Ep. 418 - Sumukhi Suresh — speakers: Sumukhi Suresh Sumukhi Suresh
+- 2024-08-15 — Ep. 417 - Elvis McGonagall
+- 2024-08-13 — Ep. 416 - Mustafa Algiyadi — speakers: Mustafa Algiyadi
+- 2024-08-11 — Ep. 415 - Rahul Subramanian — speakers: Rahul Subramanian
+- 2024-08-08 — Ep. 414 - Juliet Cowan — speakers: Juliet Cowan, Jimmy Car
+- 2024-08-06 — Ep. 413 - Chelsea Birkby — speakers: Chelsea Birkby
+- 2024-08-04 — Ep. 412 - Reginald D. Hunter
+- 2024-08-01 — Ep. 411 - Alexis Gay
+- 2024-07-30 — Ep. 410 - Anirban Dasgupta — speakers: Anirban Dasgupta
+- 2024-07-28 — Ep. 409 - Sophie Duker — speakers: Sophie Duker
+- 2024-07-25 — Ep. 408 - Sara Barron — speakers: Comedian Sara Barron
+- 2024-07-23 — Ep. 407 - Michelle Shaughnessy — speakers: Michelle Shaughnessy
+- 2024-07-21 — Ep. 406 - Colin Hoult — speakers: Colin Hoult, Ricky Gervais
+- 2024-07-18 — Ep. 405 - Garrett Millerick — speakers: Garrett Millerick
+- 2024-07-16 — Ep. 404 - Chloe Radcliffe — speakers: Chloe Radcliffe
+- 2024-07-14 — Ep. 403 - Jessie Cave
+- 2024-07-12 — Ep. 402 - Steve Bugeja — speakers: Steve Bugeja
+- 2024-07-09 — Ep. 401 - Spring Day — speakers: Spring Day
+- 2024-07-04 — Ep. 400 - Jason Manford — speakers: Jason Manford
+- 2024-06-30 — Ep. 399 - Kim Leadbeater MP
+- 2024-06-27 — Ep. 398 - Catherine McCafferty — speakers: Catherine McCafferty
+- 2024-06-23 — Ep. 397 - Madeline Smith — speakers: Madeline Smith
+- 2024-06-20 — Ep. 396 - Milo Edwards — speakers: Milo Edwards
+- 2024-06-16 — Ep. 395 - Stevie Martin — speakers: Stevie Martin
+- 2024-06-13 — Ep. 394 - Dr Benji Waterhouse — speakers: Benji Waterhouse
+- 2024-06-10 — Ep. 393 - James O’Brien — speakers: James O’Brien
+- 2024-06-06 — Ep. 392 - Ali Woods — speakers: Ali Woods
+- 2024-06-02 — Ep. 391 - Tom Baldwin — speakers: Tom Baldwin
+- 2024-05-30 — Ep. 390 - Alex Kealy — speakers: Alex Kealy
+- 2024-05-26 — Ep. 389 - Sonali Shah — speakers: Sonali Shah
+- 2024-05-23 — Ep. 388 - Dr Helen Fry — speakers: Helen Fry Dr, Helen Fry
+- 2024-05-19 — Ep. 387 - Rob Deering — speakers: Rob Deering
+- 2024-05-16 — Ep. 386 - Toby Hadoke — speakers: Toby Hadoke Toby Hadoke
+- 2024-05-12 — Ep. 385 - Annette Badland
+- 2024-05-09 — Ep. 384 - Paul Hendy — speakers: Paul Hendy
+- 2024-05-05 — Ep. 383 - Michelle Brasier — speakers: Michelle Brasier
+- 2024-05-02 — Ep. 382 - Sam Lake — speakers: Sam Lake
+- 2024-04-28 — Ep. 381 - Ainsley Harriott — speakers: Ainsley Harriott
+- 2024-04-25 — Ep. 380 - Stephen Fry (Re-edit) — speakers: Stephen Fry
+- 2024-04-21 — Ep. 379 - Georgina Hayden — speakers: Georgina Hayden Georgina Hayden
+- 2024-04-18 — Ep. 378 - Carol Drinkwater — speakers: Carol Drinkwater
+- 2024-04-14 — Ep. 377 - Professor Chris Lintott — speakers: Chris Lintott
+- 2024-04-11 — Ep. 376 - Nick Newman — speakers: Nick Newman, Ian Hislop
+- 2024-04-07 — Ep. 375 - Simon Brodkin — speakers: Comedian Simon Brodkin, Lee Nelson
+- 2024-04-04 — Ep. 374 - Ann Bryson — speakers: Ann Bryson Ann Bryson
+- 2024-04-01 — Ep. 373 - Maisie Adam — speakers: Maisie Adam
+- 2024-03-29 — Ep. 372 - Luke Kempner — speakers: Luke Kempner, Monsieur Thenardier
+- 2024-03-25 — Ep. 371 - Richard Talman — speakers: Richard Talman
+- 2024-03-22 — Ep. 370 - Liam Withnail — speakers: Liam Withnail
+- 2024-03-18 — Ep. 369 - Tom Shakespeare CBE — speakers: Tom Shakespeare Cbe
+- 2024-03-15 — Ep. 368 - Professor Sophie Scott — speakers: Sophie Scott
+- 2024-03-11 — Ep. 367 - Jon Holmes — speakers: Jon Holmes
+- 2024-03-08 — Ep. 366 - Lewis MacLeod
+- 2024-03-04 — Ep. 365 - Jess Conrad — speakers: Jess Conrad
+- 2024-03-01 — Ep. 364 - Huge Davies — speakers: Huge Davies Comedian Huge
+- 2024-02-26 — Ep. 363 - Greg Jenner — speakers: Greg Jenner Greg Jenner
+- 2024-02-23 — Ep. 362 - Phil Ellis — speakers: Phil Ellis
+- 2024-02-19 — Ep. 361 - Professor Alice Roberts — speakers: Alice Roberts
+- 2024-02-16 — Ep. 360 - Njambi McGrath — speakers: Njambi McGrath, Becoming Njambi
+- 2024-02-12 — Ep. 359 - Chloe Petts — speakers: Chloe Petts
+- 2024-02-09 — Ep. 358 - Esther Manito — speakers: Esther Manito
+- 2024-02-05 — Ep. 357 - Daliso Chaponda — speakers: Daliso Chaponda Daliso Chaponda
+- 2024-02-02 — Ep. 356 - Ed Patrick — speakers: Ed Patrick Ed Patrick
+- 2024-01-29 — Ep. 355 - George Monbiot — speakers: George Monbiot George Monbiot
+- 2024-01-26 — Ep. 354 - Larry Dann — speakers: Larry Dann
+- 2024-01-22 — Ep. 353 - Rosie Holt — speakers: Rosie Holt Rosie Holt
+- 2024-01-19 — Ep. 352 - Ricky Sim — speakers: Ricky Sim Ricky Sim
+- 2024-01-15 — Ep. 351 - Harriet Kemsley — speakers: Harriet Kemsley
+- 2024-01-12 — Ep. 350 - Rob Auton — speakers: Rob Auton
+- 2024-01-08 — Ep. 349 - Robin Askwith — speakers: Robin Askwith, Timothy Lea
+- 2024-01-05 — Ep. 348 - Finlay Christie — speakers: Finlay Christie
+- 2024-01-01 — Ep. 347 - Iain Stirling — speakers: Iain Stirling
+- 2023-12-29 — Best of 2023 - Part 3 — speakers: Tony Robinson, Ted Robbins, Neil Delam
+- 2023-12-28 — Best of 2023 - Part 2 — speakers: Bridget Christie, David Earl, Doug Alan, Jim Howic
+- 2023-12-27 — Best of 2023 - Part 1 — speakers: Dave Gorman, Jon Ronson, Cliff Parasi
+- 2023-12-22 — My Time Capsule Christmas Party! — speakers: My Time Capsule Christmas, Christmas Party
+- 2023-12-20 — A Christmas Carol - Our Annual Gift — speakers: Charles Dickens
+- 2023-12-18 — My Christmas Time Capsule 2023 - Part 3 — speakers: Joe Wilkinson, Jim Howick, Rosie Holt, Tom Read-Wilson
+- 2023-12-15 — My Christmas Time Capsule 2023 - Part 2 — speakers: Dave Gorman, Jacqui Oatley, Alasdair Beckett-King, Ted Rob
+- 2023-12-11 — My Christmas Time Capsule 2023 - Part 1 — speakers: Alex Horne, Jon Harvey, Lindsay Santoro
+- 2023-12-08 — Ep. 346 - Ian Smith — speakers: Best Show, Ian Smith
+- 2023-12-04 — Ep. 345 - Lemn Sissay — speakers: Lemn Sissay Lemn Sissay
+- 2023-12-01 — Ep. 344 - Glenn Moore — speakers: Edinburgh Comedy Award, Glenn Moore
+- 2023-11-27 — Ep. 343 - Alex Horne — speakers: Alex Horne
+- 2023-11-24 — Ep. 342 - Dave Cohen — speakers: Dave Cohen
+- 2023-11-20 — Ep. 341 - Alfie Moore — speakers: Alfie Moore Alfie Moore
+- 2023-11-17 — Ep. 340 - Rich Wilson — speakers: Rich Wilson
+- 2023-11-13 — Ep. 339 - Kiell Smith-Bynoe — speakers: Kiell Smith-Bynoe
+- 2023-11-10 — Ep. 338 - Simon Parkin — speakers: Simon Parkin
+- 2023-11-06 — Ep. 337 - Samira Ahmed — speakers: Samira Ahmed Samira Ahmed
+- 2023-11-03 — Ep. 336 - Natasha Hodgson — speakers: Natasha Hodgson
+- 2023-10-30 — Ep. 335 - Bob Cryer — speakers: Barry Cryer
+- 2023-10-26 — Ep. 334 - Ian Lawman — speakers: Ian Lawman
+- 2023-10-22 — Ep. 333 - Laurence Rickard — speakers: Laurence Rickard
+- 2023-10-19 — Ep. 332 - Sophie Grigson — speakers: Sophie Grigson
+- 2023-10-15 — Ep. 331 - Aled Jones — speakers: Aled Jones Aled Jones
+- 2023-10-12 — Ep. 330 - Fiona Allen — speakers: Fiona Allen
+- 2023-10-08 — Ep. 329 - Jacqui Oatley — speakers: Jacqui Oatley Jacqui Oatley
+- 2023-10-05 — Ep. 328 - Linda John-Pierre — speakers: Linda John-Pierre
+- 2023-10-01 — Ep. 327 - Dane Baptiste — speakers: Best Newcomer
+- 2023-09-28 — Ep. 326 - David Barry — speakers: David Barry, Frankie Abbott
+- 2023-09-24 — Ep. 325 - Robert Popper — speakers: Robert Popper
+- 2023-09-21 — Ep. 324 - Remi Adekoya
+- 2023-09-17 — Ep. 323 - Roger Black — speakers: Roger Black
+- 2023-09-14 — Ep. 322 - Nooruddean Choudry — speakers: Nooruddean Choudry
+- 2023-09-10 — Ep. 321 - Lizzie Webb — speakers: Lizzie Webb
+- 2023-09-07 — Ep. 320 - Hywel Roberts — speakers: Hywel Roberts
+- 2023-09-03 — Ep. 319 - Jon Harvey AKA Count Binface — speakers: Jon Harvey, Teresa Ma
+- 2023-08-31 — Ep. 318 - George Layton — speakers: George Layton, Paul Collier
+- 2023-08-27 — Ep. 317 - Alasdair Beckett-King — speakers: Alasdair Beckett, King Alasdair Beckett
+- 2023-08-24 — The Debrief - Ep. 1 - Acast+ Preview — speakers: My Time Capsule
+- 2023-08-20 — Ep. 316 - Lou Sanders — speakers: Lou Sanders
+- 2023-08-17 — Ep. 315 - Rosie Wilby — speakers: Rosie Wilby Rosie Wilby
+- 2023-08-13 — Ep. 314 - Doug Allan — speakers: Doug Allan, Frozen Planet
+- 2023-08-10 — Ep. 313 - Louise Young — speakers: Louise Young
+- 2023-08-06 — Ep. 312 - Neil Mullarkey — speakers: Neil Mullarkey
+- 2023-08-03 — Ep. 311 - Daniel Foxx — speakers: Daniel Foxx
+- 2023-07-30 — Ep. 310 - Pierre Novellie — speakers: Pierre Novellie
+- 2023-07-27 — Ep. 309 - Elliot Steel
+- 2023-07-23 — Ep. 308 - Professor Turi King — speakers: Turi King
+- 2023-07-20 — Ep. 307 - Stuart Laws — speakers: James Acaster
+- 2023-07-16 — Ep. 306 - Joe Wells — speakers: Joe Wells, Frankie Boyle
+- 2023-07-13 — Ep. 305 - Lindsey Santoro — speakers: Lindsey Santoro, Joe Lycett
+- 2023-07-09 — Ep. 304 - Ashley Blaker — speakers: Ashley Blaker
+- 2023-07-06 — Ep. 303 - Laura Lexx — speakers: Laura Lexx
+- 2023-07-02 — Ep. 302 - Jim Howick — speakers: Jim Howick
+- 2023-06-29 — Ep. 301 - John Fenton-Stevens — speakers: John Fenton-Stevens
+- 2023-06-25 — Ep. 300 - Dave Gorman (LIVE at Kite Festival) — speakers: Dave Gorman, Kite Festival
+- 2023-06-22 — Ep. 299 - Bridget Christie — speakers: Bridget Christie Bridget Christie, Edinburgh Comedy Award
+- 2023-06-18 — Ep. 298 - Deirdre O’Kane — speakers: Kane Deirdre
+- 2023-06-15 — Ep. 297 - Amy Gledhill — speakers: Amy Gledhill
+- 2023-06-11 — Ep. 296 - Paul Clayton — speakers: Paul Clayton, Olivia Colman
+- 2023-06-08 — Ep. 295 - Jake Lambert — speakers: Jake Lambert Jake Lambert
+- 2023-06-04 — Ep. 294 - Stuart Goldsmith — speakers: Stuart Goldsmith
+- 2023-06-01 — Ep. 293 - RIOPY — speakers: Billboard Cl
+- 2023-05-28 — Ep. 292 - Nina Wadia
+- 2023-05-25 — Ep. 291 - Anita Harris — speakers: Anita Harris
+- 2023-05-21 — Ep. 290 - Cally Beaton — speakers: Cally Beaton Cally Beaton
+- 2023-05-18 — Ep. 289 - Sam Teskey (The Teskey Brothers) — speakers: Sam Teskey
+- 2023-05-14 — Ep. 288 - Eric Whitacre — speakers: Eric Whitacre
+- 2023-05-11 — Ep. 287 - Amanda Wakeley — speakers: Amanda Wakeley
+- 2023-05-07 — Ep. 286 - Matthew Crosby — speakers: Matthew Crosby
+- 2023-05-04 — Ep. 285 - Ria Lina — speakers: Ria Lina Ria Lina
+- 2023-04-30 — Ep. 284 - Matt Forde — speakers: Matt Forde Matt Forde
+- 2023-04-27 — Ep. 283 - Bilal Zafar — speakers: Best Newcomer
+- 2023-04-23 — Ep. 282 - David Morrissey (Live at Ink Festival) — speakers: David Morris
+- 2023-04-20 — Ep. 281 - Gabrielle Glaister — speakers: Gabrielle Glaister, Patricia Farnham
+- 2023-04-16 — Ep. 280 - Jon Ronson — speakers: Jon Ronson
+- 2023-04-13 — Ep. 279 - Mina Anwar — speakers: Maggie Habib, Ben Elton
+- 2023-04-09 — Ep. 278 - Jamie Morton (My Dad Wrote A Porno) — speakers: Jamie Morton, James Cooper
+- 2023-04-06 — Ep. 277 - Gordon Kennedy — speakers: Gordon Kennedy
+- 2023-04-02 — Ep. 276 - Iain Lee
+- 2023-03-30 — Ep. 275 - John Archer — speakers: John Archer, Inner Ma
+- 2023-03-26 — Ep. 274 - Tony Way — speakers: Tony Way, Ricky Gervais
+- 2023-03-24 — Ep. 273 - Annabelle Dowler — speakers: Annabelle Dowler
+- 2023-03-20 — Ep. 272 - Catherine Tyldesley — speakers: Catherine Tyldesley Catherine Tyldesley, Iris Moss, Eva Pric
+- 2023-03-17 — Ep. 271 - Sally Hodgkiss — speakers: Sally Hodgkiss
+- 2023-03-13 — Ep. 270 - David Earl — speakers: David Earl David Earl, Brian Gittens
+- 2023-03-10 — Ep. 269 - Sian Reese-Williams — speakers: Sian Reese-Williams, Cadi John
+- 2023-03-06 — Ep. 268 - Zoe Lyons — speakers: Zoe Lyons Zoe Lyons
+- 2023-03-03 — Ep. 267 - Kerry Howard
+- 2023-02-27 — Ep. 266 - Tom Read Wilson — speakers: Tom Read Wilson Actor, Tom Read Wilson
+- 2023-02-24 — Ep. 265 - Steve Steen — speakers: Steve Steen Steve Steen
+- 2023-02-20 — Ep. 264 - Gordon Buchanan — speakers: Gordon Buchanan
+- 2023-02-17 — Ep. 263 - John Altman (film composer) — speakers: John Altman
+- 2023-02-13 — Ep. 262 - David Ames — speakers: David Ames, Dominic Copeland
+- 2023-02-10 — Ep. 261 - Lorelei King — speakers: Lorelei King Lorelei King
+- 2023-02-06 — Ep. 260 - Caitlin O’Ryan
+- 2023-02-03 — Ep. 259 - Tommy Cannon — speakers: Tommy Cannon
+- 2023-01-30 — Ep. 258 - Mark Simmons — speakers: Mark Simmons
+- 2023-01-27 — Ep. 257 - Ronnie Golden — speakers: Ronnie Golden
+- 2023-01-23 — Ep. 256 - Neil Delamere — speakers: Neil Delamere
+- 2023-01-20 — Ep. 255 - Rachel Fairburn — speakers: Rachel Fairburn
+- 2023-01-16 — Ep. 254 - Jim Sweeney — speakers: Jim Sweeney, Store Players
+- 2023-01-13 — Ep. 253 - Cliff Parisi — speakers: Minty Peterson, Fred Buckle
+- 2023-01-09 — Ep. 252 - Shaun Keaveny — speakers: Shaun Keaveny
+- 2023-01-06 — Ep. 251 - Ted Robbins — speakers: Ted Robbins, Den Perry, Peter Kay
+- 2023-01-02 — Ep. 250 - Sir Tony Robinson — speakers: Tony Robinson
+- 2022-12-30 — Best Of My Time Capsule 2022 - Part 3 — speakers: Danny Baker
+- 2022-12-29 — Best Of My Time Capsule 2022 - Part 2 — speakers: Harry Hill, Nicola Stephenson
+- 2022-12-28 — Best Of My Time Capsule 2022 - Part 1 — speakers: Harry Hill, Sanjeev Bh
+- 2022-12-24 — My Christmas Time Capsule 2022 - Part 2 — speakers: My Christmas Time Capsule
+- 2022-12-23 — My Christmas Time Capsule 2022 - Part 1 — speakers: My Christmas Time Capsule
+- 2022-12-19 — My Christmas Time Capsule from 2021 - Part 2 — speakers: My Christmas Time Capsule
+- 2022-12-19 — My Christmas Time Capsule from 2021 - Part 1 — speakers: Clive Anderson, Eilidh Doyle, Andrew Hunter
+- 2022-12-18 — A Christmas Carol - A Gift For Our Listeners — speakers: Charles Dickens
+- 2022-12-16 — My Christmas Time Capsule from 2020 - Part 2 — speakers: Stephen Fry
+- 2022-12-16 — My Christmas Time Capsule from 2020 - Part 1 — speakers: Arthur Sm
+- 2022-12-12 — Ep. 249 - Rick Edwards — speakers: Rick Edwards
+- 2022-12-09 — Ep. 248 - Olly Mann — speakers: Olly Mann Olly Mann
+- 2022-12-05 — Ep. 247 - Dirk Maggs — speakers: Steven Spielberg
+- 2022-12-02 — Ep. 246 - Patrick Stevens — speakers: Patrick Stevens
+- 2022-11-28 — Ep. 245 - Joe Wilkinson — speakers: Joe Wilkinson Comedian, Joe Wilkinson
+- 2022-11-25 — Ep. 244 - Sooz Kempner
+- 2022-11-21 — Ep. 243 - Hugh Dennis — speakers: Hugh Dennis
+- 2022-11-18 — Ep. 242 - Sian Berry — speakers: Sian Berry, Jonathan Bartley
+- 2022-11-14 — Ep. 241 - Sophie Aldred
+- 2022-11-11 — Ep. 240 - Lloyd Griffith — speakers: Lloyd Griffith
+- 2022-11-07 — Ep. 239 - Jon Culshaw — speakers: Jon Culshaw, Dead Ringers
+- 2022-11-04 — Ep. 238 - Lizzie Roper — speakers: Lizzie Roper Lizzie Roper, Sam Lomax
+- 2022-10-31 — Ep. 237 - Danny Robins — speakers: Danny Robins
+- 2022-10-27 — Ep. 236 - Charlie Baker — speakers: Charlie Baker, Harry Hill
+- 2022-10-23 — Ep. 235 - Rob Rouse — speakers: Rob Rouse, Ben Elton
+- 2022-10-20 — Ep. 234 - Gary Sinyor — speakers: Gary Sinyor
+- 2022-10-16 — Ep. 233 - James Dreyfus — speakers: James Dreyfus, Rowan Atkins
+- 2022-10-13 — Ep. 232 - John Dowie — speakers: John Dowie
+- 2022-10-09 — Ep. 231 - Nicola Bryant — speakers: Peri Brown, Peter Davi
+- 2022-10-06 — Ep. 230 - Josh Jones — speakers: Josh Jones, Edinburgh Fringe
+- 2022-10-02 — Ep. 229 - Danny Baker - Part 2 — speakers: Danny Baker
+- 2022-10-02 — Ep. 229 - Danny Baker - Part 1 — speakers: Danny Baker
+- 2022-09-29 — Ep. 228 - Maggie Ollerenshaw — speakers: Maggie Ollerenshaw, Ronnie Bark
+- 2022-09-25 — Ep. 227 - Linford Christie — speakers: Linford Christie Linford Christie
+- 2022-09-22 — Ep. 226 - Sunny Ormonde — speakers: Lillian Bellamy
 - 2022-09-18 — Queen Elizabeth II - 1926-2022 — speakers: Elizabeth II
-- 2022-09-15 — Ep. 225 - Eleanor Mills (live at Primadonna Festival) — speakers: Eleanor Mills, Mikhail Gorbachev, Sheryl Sandberg, Theresa May, Michael Fenton Stevens, Follow Eleanor Mills, John Fenton-Stevens
-- 2022-09-11 — Ep. 224 - Michel Roux Jr — speakers: Albert Roux, Michel Roux, Kitchen Impossible, Michel Roux Jr, Michael Fenton Stevens, Instagram michel roux jr, John Fenton-Stevens
-- 2022-09-08 — Ep. 223 - Carla Mendonça — speakers: Carla Mendonça, Sophie Johnson, Orla Crawshaw, Mrs Fitzgerald, Common People, Harry Enfield, Baddiel’s Syndrome, Roman’s Empire
-- 2022-09-04 — Ep. 222 - Paul Chowdhry — speakers: Paul Chowdhry, Wembley Arena, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-09-01 — Ep. 221 - Richard Hope — speakers: Richard Hope, Harris Pascoe, Jeremy Irons, Lawrence Olivier Presents, Victoria Wood, Midsomer Murders, John Deed, Gentleman Jack
-- 2022-08-28 — Ep. 220 - David Gower — speakers: David Gower Obe, Gary Lineker, David Gower, Michael Fenton Stevens, Follow David Gower, John Fenton-Stevens
-- 2022-08-25 — Ep. 219 - Olaf Falafel — speakers: Art Avenger, Olaf Falafel, Michael Fenton Stevens, Follow Olaf, John Fenton-Stevens
-- 2022-08-21 — Ep. 218 - Michael Spicer — speakers: Michael Spicer, James Corden, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-08-18 — Ep. 217 - Jack Docherty — speakers: Jack Docherty, Moray Hunter, Ben Gary, Cameron Miekelson, Scot Squad, Miller Show, Stressed Eric, Michael Fenton Stevens
-- 2022-08-14 — Ep. 216 - Jake Canuso — speakers: Jake Canuso Jake Canuso, Mateo Castellanos, Annie Lennox, Elton John, Daniel Day Lewis, Nicole Kidman, Judi Dench, Christian Bale
-- 2022-08-11 — Ep. 215 - Ella Kenion — speakers: Mrs Cakeworthy, John Sullivan, Martin Freeman, Doc Martin, Midsomer Murders, Steve Coogan, Ella Kenion, Michael Fenton Stevens
-- 2022-08-07 — Ep. 214 - Billy Boyd — speakers: Billy Boyd, Pippin Took, Peter Jackson, Barret Bonden, Russel Crowe, Gerald Forbes, Ghost Story, Moby Dick
-- 2022-08-04 — Ep. 213 - Urzila Carlson — speakers: Urzila Carlson, Michael Fenton Stevens, Follow Urzila Carlson, Instagram UrzilaCarlson, John Fenton-Stevens
-- 2022-07-31 — Ep. 212 - Nick Helm — speakers: Nick Helm, Russell Howard’s Good News, Celebrity Mastermind, Keep Hold, Fosters Edinburgh, Digital Award, Michael Fenton Stevens, Nick’s Edinburgh
-- 2022-07-28 — Ep. 211 - Jason Byrne — speakers: Jason Byrne, Comedy Annual, Dave’s One Night Stand, John Bishop, Byrne Show, Paddy Lama Shed Talks, Michael Fenton Stevens, Follow Jason Byrne
-- 2022-07-24 — Ep. 210 - John Torode — speakers: John Torode, Greg Wallace, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-07-21 — Ep. 209 - George Lewis — speakers: George Lewis George Lewis, Andy Parsons, Elis James, Josh Widdicomne, Kerry Godliman, Russell Kane, Top Gear Extra Gear, Celebrity Mastermind
-- 2022-07-17 — Ep. 208 - Andy Nyman — speakers: Andy Nyman, Eddie Redmayne, Kick Ass, Liam Neeson, Judy Garland, Rene Zellweger, Dwayne Johnson, Jack Whitehall
-- 2022-07-14 — Ep. 207 - Linda Purl — speakers: Linda Purl, Patrick Duffy, Bobby Ewing, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-07-10 — Ep. 206 - Chesney Hawkes — speakers: Chesney Hawkes, Roger Daltrey, Len Chip, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-07-07 — Ep. 205 - Rob Carter AKA Christopher Bliss — speakers: Rob Carter, Christopher Bliss, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-07-05 — MTC Recommends - The Retrospectors — speakers: Shirley Temple
-- 2022-07-03 — Ep. 204 - Mathew Baynton — speakers: Mathew Baynton, Thomas Thorne, James Corden, Doc Martin, Matthew Baynton, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-06-30 — Ep. 203 - Samantha Baines — speakers: Samantha Baines, Channing Tatum, Andrew Neil, Virgin Radio, Harriet Versus, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-06-26 — Ep. 202 - Tim Downie — speakers: Tim Downie, Upstart Crow, David Jason, David Hasselhoff, Brad Pitt, Les Misérables, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-06-23 — Ep. 201 - Taylor Glenn — speakers: Taylor Glenn Taylor Glenn, Martin Freeman, Daisy Haggard, Comic Relief, Taylor Glenn, Michael Fenton Stevens, Follow Taylor Glenn, John Fenton-Stevens
-- 2022-06-19 — Ep. 200 - Michael Fenton Stevens — speakers: Michael Fenton Stevens, Richard Herring, Kristen Scott Thomas, Gary Oldman, Robert Lindsay, Pete Versus Life, Sally Hawkins, Peter Serafinowicz
-- 2022-06-16 — Ep. 199 - Andrew Lynford — speakers: Andrew Lynford, Simon Raymond, Martine McCutcheon, Arty Facts, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-06-12 — Ep. 198 - Nicola Stephenson — speakers: Nicola Stephenson, Margaret Clemence, Anna Friel, lesbian kiss, Julie Fitzjohn, Allie Westbrook, Suzie Davidson, Clocking Off
-- 2022-06-09 — Ep. 197 - Mike Grady — speakers: Mike Grady, Ken Mills, Robert Lindsay, Barry Wilkinson, Frankie Howard, Peter Sellers, Robert Downey Jr, Jude Law
-- 2022-06-05 — Ep. 196 - Nicholas Burns — speakers: Nicholas Burns, Nathan Barley, Chris Morris, Charlie Brooker, Mighty Boost, Ed Balls, Marley’s Ghost, Maggie Smith
-- 2022-06-02 — Ep. 195 - Jessica Fostekew — speakers: Jessica Fostekew, Harry Hill, Maggie Cole, Sharon Horgan, Holly Walsh, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-05-29 — Ep. 194 - Mark Bonner — speakers: Mark Bonner, Mark Bonnar, Sharon Horgan, Rob Delaney’s Catastrophe, Duncan Hunter, Sanjeev Baskhar, Silent Witness, Eric Morecambe
-- 2022-05-26 — Ep. 193 - Gail Porter — speakers: Gail Porter, alopecia totalis, Laid Bare, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-05-22 — Ep. 192 - Joanna Scanlan — speakers: Joanna Scanlan, Lady Gaga, Jo Brand, Doc Martin, Ma Larkin, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-05-19 — Ep. 191 - Bobby Crush — speakers: Bobby Crush, Jack Jones, Vic Damone, Julie Andrews, Billy Flynn, Keith Harris, Michael Fenton Stevens, Follow Bobby Crush
-- 2022-05-15 — Ep. 190 - Jenny Seagrove — speakers: Jenny Seagrove, Rupert Everett, Tommy Lee Jones, Michael Caine, Roger Moore, Anthony Hopkins, Jeremy Irons, Peter Ustinov
-- 2022-05-12 — Ep. 189 - Sara Crowe — speakers: Sara Crowe, Tony Hawks, Queen Thistle, Harry Enfield, Acorn Antiques, Alan Ayckbourn, Martini Henry, Michael Fenton Stevens
-- 2022-05-08 — Ep. 188 - Jess Thom AKA Touretteshero — speakers: My Mouth, Brendan O'Connor, Stephen Fry, Russel Howard, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-05-05 — Ep. 187 - Finty Williams — speakers: Finty Williams, Mrs Brown, Judi Dench, Michael Williams, Doc Martin, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-05-01 — Ep. 186 - Jeremy Dyson — speakers: Jeremy Dyson, Mark Gatiss, Steve Pemberton, Reece Shearsmith, Andy Nyman, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-04-28 — Ep. 185 - My Listeners Time Capsule - Part 2 — speakers: Paul Robinson, Martin Richardson, Tim Easton, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-04-28 — Ep. 185 - My Listeners Time Capsule - Part 1 — speakers: Darren Fewins, Ryan Williams, Helen Freeman, Andre Baron, Pamela Murphy, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-04-24 — Ep. 184 - Harry Hill — speakers: Harry Hill, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-04-21 — Ep. 183 - Brigit Forsyth — speakers: Brigit Forsyth, Thelma Ferris, Helen Yeldham, Agatha Christie, Alan Bennett, Michael Aspel, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-04-17 — Ep. 182 - Richard Pitman — speakers: Richard Pitman, Red Rum, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-04-14 — Ep. 181 - Michael Simkins — speakers: Michael Simkins, Meryl Streep, Mike Leigh, Mamma Mia, John Deed, Fatty Batter, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-04-10 — Ep. 180 - Ben Aaronovitch — speakers: Ben Aaronovitch, Michael Fenton Stevens, Follow Ben Aaronovitch, John Fenton-Stevens, Matthew Boxall
-- 2022-04-07 — Ep. 179 - Mel Hudson — speakers: Mel Hudson, Alan Partridge, Nina Vanier, Lauren Cooper, Peter Principle, Blue Jam, Michael Fenton Stevens, Follow Mel Hudson
-- 2022-04-03 — Ep. 178 - Cheryl Baker — speakers: Cheryl Baker, Bucks Fizz, Record Breakers, Roy Castle, Kriss Akabusi, Mike Nolan, Jay Aston, Michael Fenton Stevens
-- 2022-03-31 — Ep. 177 - Dr Julia Patterson — speakers: Julia Patterson Dr, Julia Patterson, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-03-27 — Ep. 176 - Rita Simons — speakers: Roxy Mitchell, Michael Fenton Stevens, Follow Rita Simons, John Fenton-Stevens, Matthew Boxall
-- 2022-03-25 — Ep. 175 - Josh Bolt — speakers: Josh Bolt, Rob Dawson, Raff Greenwood, George Clooney, Tom Hanks, Steven Spielberg’s Masters, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-03-21 — Ep. 174 - Jim Piddock — speakers: Jim Piddock, Christopher Guest, Mighty Wind, Russell Brand, Woody Allen, Austin Powers Goldmember, Rock Johnson, Michael Fenton Stevens
-- 2022-03-18 — Ep. 173 - Dan Paterson — speakers: Dan Paterson, Clive Anderson Talks Back, Clive Anderson All Talk, Peter Principle, Kelsey Grammer, Ben Miller, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-03-14 — Ep. 172 - Danny John-Jules — speakers: Danny John-Jules Danny John-Jules, Dwayne Myers, Maid Marian, Danny John-Jules, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-03-11 — Ep. 171 - Catherine Russell — speakers: Catherine Russell Catherine Russell, Serena Campbell, Agatha Christie, Mamma Mia, Alan Bennett, Habeas Corpus, Patrick Marber, Catherine Russell
-- 2022-03-07 — Ep. 170 - Dara Ó Briain — speakers: Ed Byrne, Rory McGrath, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-03-04 — Ep. 169 - Jonny Weldon — speakers: Jonny Weldon, Tracy-Ann Oberman, John Challis, Nick Mohammed, Hannah Waddingham, Ricky Gervais, Michael Fenton Stevens
-- 2022-02-28 — Ep. 168 - Tim Healy — speakers: Tim Healy, Dennis Patterson, Auf Wiedersehen, David Jason, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-02-25 — Ep. 167 - Kathleen Rose Perkins — speakers: Kathleen Rose Perkins, Carol Rance, Matt LeBlanc, Tamsin Greig, Stephen Mangan, Ballot Monkeys, Michael Fenton Stevens, John Fenton-Stevens
-- 2022-02-21 — Ep. 166 - Sarah Greene — speakers: Sarah Greene, Blue Peter, Mike Read, Phillip Schofield, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2022-02-18 — Ep. 165 - Mike McShane — speakers: Mike McShane, Robin Hood, Friar Tuck, Kevin Costner, Morgan Freeman, Christian Slater, Alan Rickman, Michael Fenton Stevens
-- 2022-02-14 — Ep. 164 - Sanjeev Bhaskar — speakers: Sanjeev Bhaskar, DI Sunny Khan, Richard Curtis, Danny Boyle, Michael Fenton Stevens, Follow Sanjeev Bhaskar, John Fenton-Stevens, Matthew Boxall
-- 2022-02-11 — Ep. 163 - John Keane — speakers: John Keane, Kofi Annan, Jon Snow, Greg Dyke, Christian Aid, Michael Fenton Stevens, Follow John Keane, John Fenton-Stevens
-- 2022-02-07 — Ep. 162 - Sian Harries — speakers: Sian Harries, Sally Phillips, Rhod Gilbert, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2022-02-04 — Ep. 161 - Matt Green — speakers: Richard Ayoade, John Oliver, John Finnemore, Ed Reardon, Matt Green, Michael Fenton Stevens, Follow Matt Green, John Fenton-Stevens
-- 2022-01-31 — Ep. 160 - Joe Pasquale — speakers: Joe Pasquale, Mel Brooks, Robert Powell, Frank Spencer, Bill Murray, Jim Carey, Steve Carell, Michael Fenton Stevens
-- 2022-01-28 — Ep. 159 - Steve Brown — speakers: Steve Brown, Glen Ponder, Steve Coogan, Alan Partridge, Harry Hill, Laura Mvula, Lenny Henry Goes, Rory Bremner
-- 2022-01-24 — Ep. 158 - Toyah Willcox — speakers: Toyah Willcox, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2022-01-21 — Ep. 157 - Fern Britton — speakers: Fern Britton, Phillip Schofield, Ready Steady Cook, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2022-01-17 — Ep. 156 - Graham Fellows — speakers: Graham Fellows, John Shuttleworth, Jilted John, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-01-14 — Ep. 155 - Robin Windsor — speakers: Robin Windsor, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2022-01-10 — Ep. 154 - Scroobius Pip — speakers: Scroobius Pip, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2022-01-07 — Ep. 153 - Freddie 'Parrot-Face' Davies — speakers: Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-12-31 — Best Of My Time Capsule 2021 - Part 3 — speakers: Nick Knowles, Anna Chancellor, Alan Davies, Adam Wide, Paul Bradley, Ed Byrne, Chris Lang, Angela Barnes
-- 2021-12-30 — Best Of My Time Capsule 2021 - Part 2 — speakers: Elis James, Mark Thomas, Simon Evans, Emma Kennedy, Gary Wilmot, Jo Caulfield, Ken Bruce, Romola Garai
-- 2021-12-29 — Best Of My Time Capsule 2021 - Part 1 — speakers: Ross Noble, Mark Steel, Rob Brydon, Shaparak Khorsandi, John O'Farrell, Paterson Joseph, Josie Long, Les Dennis
-- 2021-12-28 — Best Of My Time Capsule 2020 - Part 2 — speakers: Griff Rhys Jones, Arthur Smith, Janet Ellis, Rick Wakeman, Mark Gatiss, Anneka Rice, John Challis, Ellie White
-- 2021-12-27 — Best Of My Time Capsule 2020 - Part 1 — speakers: Stephen Fry, Rick Wakeman, Lucy Porter, Shane Richie, Arabella Weir, Mark Gatiss, Doon Mackichan, David Jason
-- 2021-12-24 — My Christmas Time Capsule 2021 - Part 2 — speakers: Sanjeev Bhaskar, Rory McGrath, Katy Brand, Paul Mayhew-Archer, Charlie Higson, Paul Burke, Les Dennis, John O'Farrell
-- 2021-12-23 — My Christmas Time Capsule 2021 - Part 1 — speakers: Clive Anderson, Eilidh Doyle, Andrew Hunter Murray, Lisa Riley, Ken Bruce, Gary Wilmot, Fred MacAulay, Kate Thornton
-- 2021-12-20 — Best Of My Christmas Time Capsule 2020 - Part 2 — speakers: Stephen Fry, Lucy Porter, John Challis, Tony Hawks, Anthony Head, Janet Ellis, Rick Wakeman, Anneka Rice
-- 2021-12-18 — A Christmas Carol - A Gift From My Time Capsule — speakers: Mike Fenton Stevens, Charles Dickens, Michael Fenton Stevens
-- 2021-12-17 — Best Of My Christmas Time Capsule 2020 - Part 1 — speakers: Arthur Smith, Andy Hamilton, Mark Watson, Paul Mayhew-Archer, Jan Ravens, Kevin McNally, Anthony Head, Ellie White
-- 2021-12-13 — Ep. 152 - Matthew Kelly — speakers: Matthew Kelly, John Steinbeck, Ian McKellen, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-12-10 — Ep. 151 - Henry Normal — speakers: Henry Normal, Steve Coogan, Mighty Boosh, Alan Partridge, Mrs Merton Show, Michael Fenton Stevens, Follow Henry Normal, John Fenton-Stevens
-- 2021-12-06 — Ep. 150 - Chizzy Akudolu — speakers: Celebrity MasterChef, Michael Fenton Stevens, Follow Chizzy, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-12-03 — Ep. 149 - Emma Fielding — speakers: Emma Fielding, Silent Witness, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-11-29 — Ep. 148 - Mark Steel — speakers: Mark Steel, Michael Fenton Stevens, Follow Mark Steel, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-11-26 — Ep. 147 - Fergus Craig — speakers: David Hasselhoff, Jonathan Creek, Harry Hill, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-11-22 — Ep. 146 - Nick Knowles — speakers: Nick Knowles, Dares Wins, Simon Callow, Michael Fenton Stevens, Follow Nick Knowles, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-11-19 — Ep. 145 - Nathan Bryon — speakers: Nathan Bryon Nathan Bryon, Joey Ellis, Jamie Bennett, Nathan Bryon, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-11-15 — Ep. 144 - Elis James — speakers: John Robins, Josh Widdicombe, Elis James, Michael Fenton Stevens, Follow Elis James, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-11-12 — Ep. 143 - Margaret Cabourn-Smith — speakers: John Finnemore, Sarah Millican, Margaret Cabourn-Smith, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-11-08 — Ep. 142 - Lisa Riley — speakers: Lisa Riley, Mandy Dingle, Harry Hill, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-11-05 — Ep. 141 - Annie McGrath — speakers: Annie McGrath, Secret Artists, Vic Reeves, Harry Hill, Josie Long, Jenny Eclair, Alex Horne, Baby Shower
-- 2021-11-01 — Ep. 140 - Josie Long — speakers: Josie Long, Josie Long’s Gambit, Robin Ince, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-10-28 — Ep. 139 - Steven Hartley — speakers: Steven Hartley, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-10-24 — Ep. 138 - Paterson Joseph — speakers: Paterson Joseph Paterson Joseph, Alan Johnson, Mark Grace, Leonardo DiCaprio, Paterson Joseph, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-10-21 — Ep. 137 - Amanda Clapham — speakers: Holly Cunningham, Amanda Clapham, Michael Fenton Stevens, Instagram amandaclapham, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-10-17 — Ep. 136 - Shaparak Khorsandi — speakers: Shaparak Khorsandi Shaparak Khorsandi, Shappi Khorsandi, Kissing Emma, Shaparak Khorsandi, Michael Fenton Stevens, Follow Shaparak Khorsandi, John Fenton-Stevens, Matthew Boxall
-- 2021-10-14 — Ep. 135 - Rufus Jones — speakers: Julia Davis, Ben Stiller, Steve Coogan, Jackie Chan, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-10-10 — Ep. 134 - Hal Cruttenden — speakers: Hal Cruttenden, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-10-07 — Ep. 133 - Dan Tetsell — speakers: Dan Tetsell, Jim McGinn, Upstart Crow, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-10-03 — Ep. 132 - Anne Hegerty — speakers: Anne Hegerty, Michael Fenton Stevens, Follow Anne Hegerty, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-30 — Ep. 131 - Rhys James — speakers: Roast Battle, Russell Howard’s Stand, Rhys James, Michael Fenton Stevens, Follow Rhys James, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-26 — Ep. 130 - Richard Wilson — speakers: Richard Wilson, Victor Meldrew, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-23 — Ep. 129 - Sanjeev Kohli — speakers: Sanjeev Kohli Sanjeev Kohli, Navid Harrid, Sanjeev Kohli, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-19 — Ep. 128 - Jeremy Swift — speakers: Jeremy Swift, Leslie Higgins, Septimus Spratt, Maggie Smith, Mary Poppins Returns, Michael Fenton Stevens, John Fenton-Stevens
-- 2021-09-16 — Ep. 127 - Colin Sell — speakers: Colin Sell, Willie Rushton, Barrie Cryer, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-12 — Ep. 126 - Tony Slattery — speakers: Tony Slattery, Stephen Fry, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-09 — Ep. 125 - David Quantick — speakers: David Quantick, Harry Hill, Brass Eye, Chris Morris, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-05 — Ep. 124 - Robert Llewellyn — speakers: Robert Llewellyn, Robert’s YouTube, Fully Charged, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-09-02 — Ep. 123 - Jo Caulfield — speakers: Jo Caulfield, Michael McIntyre, Comedy Roadshow, Caulfield Again, Graham Norton, Ruby Wax’s Waiting Game, Michael Fenton Stevens, Follow Jo Caulfield
-- 2021-08-29 — Ep. 122 - Mark Billingham — speakers: Mark Billingham, Tom Thorne, Maid Marian, Merry Men, Tony Robinson, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-08-26 — Ep. 121 - Simon Greenall — speakers: Simon Greenall, Alan Partridge, Alpha Papa, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-08-22 — Ep. 120 - Omid Djalili — speakers: Mamma Mia, Whoopi Goldberg, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-08-19 — Ep. 119 - Mitch Benn — speakers: Mitch Benn Mitch Benn, Mitch Benn, Michael Fenton Stevens, Follow Mitch Benn, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-08-15 — Ep. 118 - Angela Barnes — speakers: Angela Barnes, John O'Farrell, Michael Fenton Stevens, Follow Angela Barnes, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-08-12 — Ep. 117 - Dallas Campbell — speakers: Dallas Campbell, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-08-08 — Ep. 116 - John O’Farrell — speakers: Nick Park, Chicken Run, Something Rotten, Tony Awards, Michael Fenton Stevens, Angela Barnes, John Fenton-Stevens, Matthew Boxall
-- 2021-08-05 — Ep. 115 - Steve Delaney (Count Arthur Strong) — speakers: Arthur Strong, Steve Delaney, Count Arthur Strong, Count Arthur, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-08-01 — Ep. 114 - Paul Bradley — speakers: Paul Bradley, Nigel Bates, Elliot Hope, Comic Relief, Stephen Warbeck, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-07-29 — Ep. 113 - Sophie Ward — speakers: Helen Trent, Lady Ellen Hoxley, Sophia Byrne, Helena Bonham Carter, Jane Eyre, Michael Fassbender, Judi Dench, Sophie Ward
-- 2021-07-25 — Ep. 112 - Gary Wilmot — speakers: Gary Wilmot, Gary Wilmot Mbe, Chitty Chitty Bang Bang, My Girl, Dirty Rotten Scoundrels, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-07-22 — Ep. 111 - Kevin Day — speakers: Kevin Day, Mark Thomas, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-07-18 — Ep. 110 - Isy Suttie — speakers: David Mitchell, Robert Webb, Man Down, Michael Fenton Stevens, Follow Isy Suttie, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-07-15 — Ep. 109 - Alfie Brown — speakers: Alfie Brown, Jan Ravens, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-07-11 — Ep. 108 - Nicky Campbell — speakers: Davina McCall, Nicky Campbell, Michael Fenton Stevens, Follow Nicky Campbell, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-07-08 — Ep. 107 - Harriet Cross — speakers: Harriet Cross, Michael Fenton Stevens, Follow Harriet Cross, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-07-04 — Ep. 106 - Emma Kennedy — speakers: Emma Kennedy, Richard Not Judy, Richard Herring, Stewart Lee, Jonathan Creek, Katherine Parkinson, Michael Fenton Stevens, John Fenton-Stevens
-- 2021-07-01 — Ep. 105 - Alex Macqueen — speakers: Alex Macqueen, Keith Green, Julius Nicholson, Peaky Blinders, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-06-27 — Ep. 104 - Barry Cryer - Part 2 — speakers: Barry Cryer, Dave Allen, Stanley Baxter, Jack Benny, Rory Bremner, George Burns, Jasper Carrott, Tommy Cooper
-- 2021-06-27 — Ep. 104 - Barry Cryer - Part 1 — speakers: Barry Cryer, Dave Allen, Stanley Baxter, Jack Benny, Rory Bremner, George Burns, Jasper Carrott, Tommy Cooper
-- 2021-06-24 — Ep. 103 - Adam Wide — speakers: Adam Wide, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-06-20 — Ep. 102 - Katy Brand — speakers: Katy Brand, Emma Thompson, Celebrity Mastermind, Rob Brydon, Good Luck, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-06-17 — Ep. 101 - Justin Moorhouse — speakers: Justin Moorhouse, Young Kenny, Ken Loach, Eric Cantona, Michael McIntyre, Comedy Roadshow, Celebrity Mastermind, Michael Fenton Stevens
-- 2021-06-13 — Ep. 100 - Ross Noble — speakers: Ross Noble, Jonathan Ross, Top Gear, Mel Brooks, Mel Brooks Young Frankenstein, Michael Fenton Stevens, Follow Ross Noble, John Fenton-Stevens
-- 2021-06-10 — Ep. 99 - Emma Cunniffe — speakers: Emma Cunniffe, Matt Smith, Clocking Off, Waterloo Road, Queen Anne, Helen Edmundson, Elizabeth Proctor, Michael Fenton Stevens
-- 2021-06-06 — Ep. 98 - Alan Davies — speakers: Alan Davies, Jonathan Creek, Michael Fenton Stevens, Follow Alan Davies, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-06-03 — Ep. 97 - Simon Williams — speakers: Simon Williams, James Bellamy, Charles Cartwright, Justin Elliott, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-05-30 — Ep. 96 - Bonnie Langford — speakers: Bonnie Langford, Carmel Kazemi, Mel Bush, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-05-27 — Ep. 95 - Alex Lowe — speakers: Alex Lowe, Clinton Baptiste, Steve Wright, Iain Lee, Peter Kay Thing, Michael Fenton Stevens, Follow Alex, barryfromwat Barry
-- 2021-05-23 — Ep. 94 - Les Dennis — speakers: Les Dennis Les Dennis, Ricky Gervais, Stephen Merchant, Michael Rogers, Les Dennis, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-05-20 — Ep. 93 - James Moore — speakers: James Moore, Ryan Stocks, Michael Fenton Stevens, Follow My Time Capsule, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-05-16 — Ep. 92 - John Bradley — speakers: John Bradley, Samwell Tarly, Jon Snow, Robot Chicken, John Bradley West, Michael Fenton Stevens, Follow My Time Capsule, John Fenton-Stevens
-- 2021-05-13 — Ep. 91 - Josie Lawrence — speakers: Josie Lawrence, Manda Best, Timothy Spall, Brenda Blethyn, Jonathan Creek, Good Omens, Michael Fenton Stevens, John Fenton-Stevens
-- 2021-05-09 — Ep. 90 - Charlie Higson — speakers: Charlie Higson, Paul Whitehouse, Harry Enfield, Swiss Toni, Bob Mortimer, Vic Reeves, Michael Fenton Stevens, John Fenton-Stevens
-- 2021-05-06 — Ep. 89 - Simon Evans — speakers: Simon Evans, Simon Evans Goes, Michael Fenton Stevens, Follow Simon Evans, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-05-02 — Ep. 88 - Ken Bruce — speakers: Ken Bruce, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-29 — Ep. 87 - Kate Thornton — speakers: Kate Thornton, Marie Claire, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-25 — Ep. 86 - Rob Brydon — speakers: Rob Brydon, Bryn West, Steve Coogan, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-22 — Ep. 85 - Giles Paley-Phillips — speakers: Giles Paley-Phillips, Jim Daly, Michael Fenton Stevens, Giles Paley-Phillip, Buy Giles, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-18 — Ep. 84 - Howard Goodall — speakers: Howard Goodall Emmy, Howard Goodall, Rowan Atkinson, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-15 — Ep. 83 - Izzy Mant — speakers: Izzy Mant, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-11 — Ep. 82 - Tim Vine — speakers: Tim Vine, Lee Mack, Michael Fenton Stevens, Guy Vine, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-08 — Ep. 81 - Romola Garai — speakers: Romola Garai, Liam Neeson, Laura Linney, Stephen Poliakoff, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-04 — Ep. 80 - Ed Byrne — speakers: Ed Byrne, Michael Fenton Stevens, Follow Ed Byrne, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-04-01 — Ep. 79 - Chris Lang — speakers: Chris Lang, Dark Heart, Hugh Grant, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-03-28 — Ep. 78 - Anna Chancellor — speakers: Duck Face, Caroline Bingley, Colin Firth, Downton Abbey, Anna Chancellor, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-03-26 — Ep. 77 - Derren Litten — speakers: Catherine Tate, Michael Fenton Stevens, Follow Derren Litten, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-03-22 — Ep. 76 - Seann Walsh — speakers: Seann Walsh, Comedian Seann Walsh, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-03-19 — Ep. 75 - Aurora Burghart — speakers: Aurora Burghart, David Tennant, Jessica Hynes, Michael Fenton Stevens, Follow Aurora Burghart, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-03-15 — Ep. 74 - Mark Watson — speakers: Mark Watson, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-03-12 — Ep. 73 - Tim Bentinck — speakers: David Archer, Tim Bentinck, Gérard Depardieu, Chow Yung Fat, Hidden Dragon, Michael Fenton Stevens, Being David Archer
-- 2021-03-08 — Ep. 72 - Rachel Parris & Marcus Brigstocke — speakers: Rachel Parris, Marcus Brigstocke, Michael Fenton Stevens, Follow Rachel Parris, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-03-05 — Ep. 71 - Nigel Planer — speakers: Nigel Planer, Ralph Filthy, Rick Mayall, Adrian Edmondson, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-03-01 — Ep. 70 - Mark Thomas — speakers: Mark Thomas Mark Thomas, Mark Thomas, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-02-26 — Ep. 69 - Vicki Pepperdine — speakers: Jo Brand, Joanna Scanlan, Julia Davis, Princess Anne, Alan Partridge, Vicki Pepperdine, Michael Fenton Stevens, Follow Vicki Pepperdine
-- 2021-02-22 — Ep. 68 - Caroline Quentin — speakers: Caroline Quentin, Jonathan Creek, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-02-19 — Ep. 67 - Clive Anderson — speakers: Clive Anderson, Clive Anderson All Talk, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-02-15 — Ep. 66 - Robin Ince — speakers: Robin Ince Robin Ince, Brian Cox, Josie’s Book Shambles, Josie Long, Robin Ince, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2021-02-12 — Ep. 65 - Kevin Bishop — speakers: Kevin Bishop, Keith Lemon, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-02-08 — Ep. 64 - Lee Mack — speakers: Lee Mack, David Mitchell, Rob Brydon, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-02-05 — Ep. 63 - Andi Osho — speakers: Creative Sauce, Andi Osho, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-02-01 — Ep. 62 - Jayde Adams — speakers: Best Newcomer, Julia Petley, Good Omens, Fred Sirieix, Jayde Adams, Michael Fenton Stevens, Follow Jayde Adams, Instagram msjaydeadams
-- 2021-01-29 — Ep. 61 - Rory McGrath — speakers: Rory McGrath, Griff Rhys Jones, Michael Fenton Stevens, Follow Rory McGrath, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-01-25 — Ep. 60 - John Owen-Jones — speakers: John Owen-Jones, Jean Valjean, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-01-18 — Ep. 59 - Fred Macaulay — speakers: Fred Macaulay, Michael Fenton Stevens, Follow Fred Macaulay, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-01-11 — Ep. 58 - Eilidh Doyle — speakers: Eilidh Doyle, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2021-01-04 — Ep. 57 - Andrew Hunter Murray (No Such Thing As A Fish) — speakers: Andrew Hunter Murray, Jane Austen, Michael Fenton Stevens, Follow Andrew Hunter Murray, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-12-28 — Ep. 56 - Doon Mackichan — speakers: Alan Partridge, Good Omens, Doon Mackichan, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-12-21 — Ep. 55 - Milton Jones — speakers: Milton Jones, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-12-14 — Ep. 54 - Arabella Weir — speakers: Arabella Weir, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-12-07 — Ep. 53 - Shane Richie — speakers: Shane Richie, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-11-30 — Ep. 52 - Danny Wallace — speakers: Danny Wallace, Dave Gorman, Jim Carey, Zoe Deschanel, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-11-27 — Ep. 51 - Athena Kugblenu — speakers: Athena Kugblenu, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-11-23 — Ep. 50 - Dan Schreiber (No Such Thing As A Fish) — speakers: Dan Schreiber, John Lloyd, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-11-16 — Ep. 49 - Sir David Jason — speakers: David Jason, Derek Del Boy Trotter, Jack Frost, Pop Larkin, Danger Mouse, Count Duckula, Michael Fenton Stevens, Buy David
-- 2020-11-13 — Ep. 48 - Michael Maloney — speakers: Michael Maloney, Edward Heath, Kenneth Branagh, Juliet Stevenson, Alan Rickman, Cate Blanchett, Michael Fenton Stevens, John Fenton-Stevens
-- 2020-11-09 — Ep. 47 - Stephen K. Amos — speakers: Batty Man, Michael Fenton Stevens, Twitter stephenkamos, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-11-06 — Ep. 46 - Jimmy Mulville — speakers: Jimmy Mulville, Derry Girls, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-11-02 — Ep. 45 - Tim McInnerny — speakers: Tim McInnerny, Percy Percy, Rowan Atkinson, Robett Glover, Johnny English Reborn, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2020-10-30 — Ep. 44 - Jaye Griffiths — speakers: Jaye Griffiths, Elle Gardner, Janet Mander, Ros Henderson, Elizabeth Croft, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2020-10-26 — Ep. 43 - John Challis — speakers: Citizen Smith, Being Boycie, John Challis, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-10-22 — Ep. 42 - Jan Ravens — speakers: Anton du Beke, Jan Ravens, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-10-18 — Ep. 41 - Robert Bathurst — speakers: Robert Bathurst, David Marsden, Stephen Fry, Emma Thompson, Hugh Laurie, Michael Fenton Stevens, Twitter RobertBathurst, John Fenton-Stevens
-- 2020-10-15 — Ep. 40 - Catherine Mayer — speakers: Catherine Mayer Author, Catherine Mayer, Sandi Toksvig, Prince Charles, Andy Gill, Michael Fenton Stevens, Buy Catherine, Preorder Good Greif
-- 2020-10-11 — Ep. 39 - Anneka Rice — speakers: Anneka Rice, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-10-04 — Ep. 38 - David Mitchell — speakers: Upstart Crow, David Mitchell, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-10-01 — Ep. 37 - Clive Mantle — speakers: Mike Barratt, Dawn French, Clive Mantle, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-09-27 — Ep. 36 - Kevin McNally — speakers: Kevin McNally, Joshamee Gibbs, Downton Abbey, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-09-20 — Ep. 35 - Tony Hawks — speakers: Tony Hawks, Stutter Rap, Morris Minor, Michael Fenton Stevens, Follow Tony Hawks, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-09-13 — Ep. 34 - Tom Goodman-Hill — speakers: Tom Goodman-Hill, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-09-10 — Ep. 33 - Russell Grant — speakers: Michael Fenton Stevens, Follow Russell Grant, Russell Grant, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-09-06 — Ep. 32 - Ellie White — speakers: Ellie White, Alan Partridge, Lee Mack, Natasia Demetriou, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-08-30 — Ep. 31 - Craig Ferguson — speakers: Craig Ferguson, James Corden, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-08-27 — Ep. 30 - Lynne Truss — speakers: Lynne Truss, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-08-23 — Ep. 29 - Rita Rudner — speakers: Rita Rudner, David Letterman, Johnny Carson, Barack Obama, Mark Maron, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2020-08-16 — Ep. 28 - Rick Wakeman — speakers: Rick Wakeman, David Bowie, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-08-13 — Ep. 27 - Steve Edge — speakers: Steve Edge, Peter Kay Thing, Manford Show, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-08-09 — Ep. 26 - John Lloyd — speakers: John Lloyd John Lloyd, Michael Fenton Stevens, John Lloyd, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-08-06 — Ep. 25 - Julie Graham — speakers: Julie Graham Star, Julie Graham, Michael Fenton Stevens, Follow Julie Graham, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-08-02 — Ep. 24 - Danny Walters — speakers: Danny Walters, Keanu Taylor, Tiger Dyke, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-07-30 — Ep. 23 - Ahir Shah — speakers: Ahir Shah, Frankie Boyle, Michael Fenton Stevens, Follow Ahir Shah, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-07-26 — Ep. 22 - Natascha McElhone — speakers: Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-07-23 — Ep. 21 - Paul Mayhew-Archer — speakers: Paul Mayhew-Archer, Mrs Brown’s Boys, Esio Trot, Judi Dench, Dustin Hoffman, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall
-- 2020-07-19 — Ep. 20 - Miles Jupp — speakers: Miles Jupp, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-07-16 — Ep. 19 - Janet Ellis — speakers: Blue Peter, Janet Ellis Mbe, Michael Fenton Stevens, Janet Ellis, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-07-12 — Ep. 18 - Rachel Khoo — speakers: Rachel Khoo’s Simple Pleasures, Rachel Khoo, Michael Fenton Stevens, Follow Rachel Khoo, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-07-09 — Ep. 17 - Tony Gardner — speakers: Tony Gardner, Michael Fenton Stevens, Michael FS, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-07-05 — Ep. 16 - Richard Herring — speakers: Richard Herring, Stewart Lee, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-07-02 — Ep. 15 - Andy Hamilton — speakers: Andy Hamilton, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-06-28 — Ep. 14 - Griff Rhys Jones — speakers: Alas Smith, Olivier Award, Griff Rhys Jones, Michael Fenton Stevens, Follow Griff, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-06-25 — Ep. 13 - Justin Edwards — speakers: Perrier Award, Justin Edwards, Lucy Porter, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-06-21 — Ep. 12 - Lucy Porter — speakers: Lucy Porter, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-06-15 — Ep. 11 - Rev Richard Coles — speakers: Bronski Beat, Rev Richard Coles, Michael Fenton Stevens, Richard Coles, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-06-12 — Ep. 10 - Maria McErlane — speakers: Maria McErlane, Graham Norton, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-06-07 — Ep. 9 - David Baddiel — speakers: David Baddiel Comedian, David Baddiel, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-05-31 — Ep. 8 - Chris Addison — speakers: Chris Addison, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-05-24 — Ep. 7 - Anthony Head — speakers: Anthony Head, Michael Fenton Stevens, Follow Anthony Head, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-05-17 — Ep. 6 - Rufus Hound — speakers: Rufus Hound, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-05-10 — Ep. 5 - Anna Ptaszynski (No Such Thing As A Fish) — speakers: Anna Ptaszynski, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-05-04 — Ep. 4 - Mark Gatiss — speakers: Mark Gatiss, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-04-26 — Ep. 3 - Arthur Smith — speakers: Arthur Smith, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-04-26 — Ep. 2 - Rebecca Front — speakers: Alan Partridge, Rebecca Front, Michael Fenton Stevens, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-04-26 — Ep. 1 - Stephen Fry — speakers: Stephen Fry, Michael Fenton Stevens, Follow Mike, John Fenton-Stevens, Matthew Boxall, Harriet Stevens
-- 2020-04-08 — My Time Capsule - Trailer — speakers: Stephen Fry, Mark Gatiss, Rufus Hound, Mike Fenton Stevens, Follow Mike, John Fenton-Stevens, Matthew Boxall
+- 2022-09-15 — Ep. 225 - Eleanor Mills (live at Primadonna Festival) — speakers: Eleanor Mills
+- 2022-09-11 — Ep. 224 - Michel Roux Jr — speakers: Michel Roux Jr Michel, Roux Jr
+- 2022-09-08 — Ep. 223 - Carla Mendonça — speakers: Carla Mendonça, Sophie Johnson
+- 2022-09-04 — Ep. 222 - Paul Chowdhry — speakers: Paul Chowdhry
+- 2022-09-01 — Ep. 221 - Richard Hope — speakers: Richard Hope, Harris Pascoe
+- 2022-08-28 — Ep. 220 - David Gower — speakers: David Gower Obe
+- 2022-08-25 — Ep. 219 - Olaf Falafel
+- 2022-08-21 — Ep. 218 - Michael Spicer — speakers: Michael Spicer
+- 2022-08-18 — Ep. 217 - Jack Docherty — speakers: Jack Docherty
+- 2022-08-14 — Ep. 216 - Jake Canuso — speakers: Jake Canuso Jake Canuso, Mateo Castellanos
+- 2022-08-11 — Ep. 215 - Ella Kenion — speakers: Mrs Cakeworthy
+- 2022-08-07 — Ep. 214 - Billy Boyd — speakers: Billy Boyd, Pippin Took, Peter Jackson
+- 2022-08-04 — Ep. 213 - Urzila Carlson — speakers: Urzila Carlson Urzila Carlson, New Zealand
+- 2022-07-31 — Ep. 212 - Nick Helm — speakers: Nick Helm
+- 2022-07-28 — Ep. 211 - Jason Byrne — speakers: Jason Byrne
+- 2022-07-24 — Ep. 210 - John Torode — speakers: John Torode
+- 2022-07-21 — Ep. 209 - George Lewis — speakers: George Lewis George Lewis
+- 2022-07-17 — Ep. 208 - Andy Nyman — speakers: Andy Nyman
+- 2022-07-14 — Ep. 207 - Linda Purl — speakers: Linda Purl
+- 2022-07-10 — Ep. 206 - Chesney Hawkes — speakers: Chesney Hawkes
+- 2022-07-07 — Ep. 205 - Rob Carter AKA Christopher Bliss — speakers: Rob Carter, Christopher Bliss
+- 2022-07-05 — MTC Recommends - The Retrospectors
+- 2022-07-03 — Ep. 204 - Mathew Baynton — speakers: Mathew Baynton, Thomas Thorne
+- 2022-06-30 — Ep. 203 - Samantha Baines — speakers: Samantha Baines
+- 2022-06-26 — Ep. 202 - Tim Downie — speakers: Tim Downie, Upstart Crow
+- 2022-06-23 — Ep. 201 - Taylor Glenn — speakers: Taylor Glenn Taylor Glenn
+- 2022-06-19 — Ep. 200 - Michael Fenton Stevens — speakers: Michael Fenton Stevens
+- 2022-06-16 — Ep. 199 - Andrew Lynford — speakers: Andrew Lynford
+- 2022-06-12 — Ep. 198 - Nicola Stephenson — speakers: Nicola Stephenson, Margaret Clemence
+- 2022-06-09 — Ep. 197 - Mike Grady — speakers: Mike Grady, Ken Mills, Robert Lindsay
+- 2022-06-05 — Ep. 196 - Nicholas Burns — speakers: Nicholas Burns, Nathan Barley, Chris Morris
+- 2022-06-02 — Ep. 195 - Jessica Fostekew — speakers: Jessica Fostekew, Dave Edinb
+- 2022-05-29 — Ep. 194 - Mark Bonner — speakers: Mark Bonner, Mark Bonnar
+- 2022-05-26 — Ep. 193 - Gail Porter — speakers: Gail Porter
+- 2022-05-22 — Ep. 192 - Joanna Scanlan — speakers: Joanna Scanlan
+- 2022-05-19 — Ep. 191 - Bobby Crush — speakers: Bobby Crush
+- 2022-05-15 — Ep. 190 - Jenny Seagrove — speakers: Jenny Seagrove, Rupert Everett
+- 2022-05-12 — Ep. 189 - Sara Crowe — speakers: Sara Crowe
+- 2022-05-08 — Ep. 188 - Jess Thom AKA Touretteshero — speakers: Jess Thom, Touretteshero Jess Thom
+- 2022-05-05 — Ep. 187 - Finty Williams — speakers: Finty Williams
+- 2022-05-01 — Ep. 186 - Jeremy Dyson — speakers: Jeremy Dyson
+- 2022-04-28 — Ep. 185 - My Listeners Time Capsule - Part 2 — speakers: My Listeners Time Capsule
+- 2022-04-28 — Ep. 185 - My Listeners Time Capsule - Part 1 — speakers: My Listeners Time Capsule
+- 2022-04-24 — Ep. 184 - Harry Hill — speakers: Harry Hill
+- 2022-04-21 — Ep. 183 - Brigit Forsyth — speakers: Brigit Forsyth, Thelma Ferris
+- 2022-04-17 — Ep. 182 - Richard Pitman — speakers: Richard Pitman, Red Rum
+- 2022-04-14 — Ep. 181 - Michael Simkins — speakers: Michael Simkins
+- 2022-04-10 — Ep. 180 - Ben Aaronovitch — speakers: Ben Aaronovitch Ben Aaronovitch
+- 2022-04-07 — Ep. 179 - Mel Hudson — speakers: Mel Hudson
+- 2022-04-03 — Ep. 178 - Cheryl Baker — speakers: Cheryl Baker, Bucks Fizz
+- 2022-03-31 — Ep. 177 - Dr Julia Patterson — speakers: Julia Patterson Dr, Julia Patterson
+- 2022-03-27 — Ep. 176 - Rita Simons — speakers: Roxy Mitchell
+- 2022-03-25 — Ep. 175 - Josh Bolt — speakers: Josh Bolt, Rob Dawson, Raff Greenwood
+- 2022-03-21 — Ep. 174 - Jim Piddock — speakers: Jim Piddock, Christopher Guest
+- 2022-03-18 — Ep. 173 - Dan Paterson — speakers: Dan Paterson
+- 2022-03-14 — Ep. 172 - Danny John-Jules — speakers: Danny John-Jules Danny John-Jules, Dwayne Myer
+- 2022-03-11 — Ep. 171 - Catherine Russell — speakers: Catherine Russell Catherine Russell, Serena Campbell
+- 2022-03-07 — Ep. 170 - Dara Ó Briain — speakers: Briain Dara
+- 2022-03-04 — Ep. 169 - Jonny Weldon — speakers: Jonny Weldon
+- 2022-02-28 — Ep. 168 - Tim Healy — speakers: Tim Healy, Dennis Patterson, Auf Wieder
+- 2022-02-25 — Ep. 167 - Kathleen Rose Perkins — speakers: Kathleen Rose Perkins, Carol Rance
+- 2022-02-21 — Ep. 166 - Sarah Greene — speakers: Sarah Greene, Blue Peter
+- 2022-02-18 — Ep. 165 - Mike McShane — speakers: Mike McShane
+- 2022-02-14 — Ep. 164 - Sanjeev Bhaskar — speakers: Sanjeev Bhaskar
+- 2022-02-11 — Ep. 163 - John Keane — speakers: John Keane
+- 2022-02-07 — Ep. 162 - Sian Harries — speakers: Sian Harries
+- 2022-02-04 — Ep. 161 - Matt Green — speakers: Matt Green Matt Green
+- 2022-01-31 — Ep. 160 - Joe Pasquale — speakers: Joe Pasquale
+- 2022-01-28 — Ep. 159 - Steve Brown — speakers: Steve Brown, Glen Ponder
+- 2022-01-24 — Ep. 158 - Toyah Willcox — speakers: Toyah Willcox
+- 2022-01-21 — Ep. 157 - Fern Britton — speakers: Fern Britton, Phillip Schofiel
+- 2022-01-17 — Ep. 156 - Graham Fellows — speakers: Graham Fellows, John Shuttleworth
+- 2022-01-14 — Ep. 155 - Robin Windsor — speakers: Robin Windsor
+- 2022-01-10 — Ep. 154 - Scroobius Pip — speakers: Scroobius Pip Scroobius Pip
+- 2022-01-07 — Ep. 153 - Freddie 'Parrot-Face' Davies — speakers: Davies Freddie
+- 2021-12-31 — Best Of My Time Capsule 2021 - Part 3 — speakers: Nick Knowles
+- 2021-12-30 — Best Of My Time Capsule 2021 - Part 2 — speakers: Elis James
+- 2021-12-29 — Best Of My Time Capsule 2021 - Part 1 — speakers: Ross Noble, Mark Steel, Rob Brydon
+- 2021-12-28 — Best Of My Time Capsule 2020 - Part 2 — speakers: Griff Rhys Jones
+- 2021-12-27 — Best Of My Time Capsule 2020 - Part 1 — speakers: Stephen Fry, Rick Wakeman, Lucy Po
+- 2021-12-24 — My Christmas Time Capsule 2021 - Part 2 — speakers: My Christmas Time Capsule
+- 2021-12-23 — My Christmas Time Capsule 2021 - Part 1 — speakers: My Christmas Time Capsule
+- 2021-12-20 — Best Of My Christmas Time Capsule 2020 - Part 2 — speakers: Stephen Fry
+- 2021-12-18 — A Christmas Carol - A Gift From My Time Capsule — speakers: Mike Fenton Stevens
+- 2021-12-17 — Best Of My Christmas Time Capsule 2020 - Part 1 — speakers: Arthur Sm
+- 2021-12-13 — Ep. 152 - Matthew Kelly — speakers: Matthew Kelly
+- 2021-12-10 — Ep. 151 - Henry Normal — speakers: Henry Normal, Steve Coogan
+- 2021-12-06 — Ep. 150 - Chizzy Akudolu — speakers: Chizzy Akudolu Chizzy Akudolu, Mo Effanga, Holby City
+- 2021-12-03 — Ep. 149 - Emma Fielding — speakers: Emma Fielding
+- 2021-11-29 — Ep. 148 - Mark Steel — speakers: Mark Steel
+- 2021-11-26 — Ep. 147 - Fergus Craig
+- 2021-11-22 — Ep. 146 - Nick Knowles — speakers: Nick Knowles
+- 2021-11-19 — Ep. 145 - Nathan Bryon — speakers: Nathan Bryon Nathan Bryon, Joey Ellis
+- 2021-11-15 — Ep. 144 - Elis James — speakers: Elis James Elis James
+- 2021-11-12 — Ep. 143 - Margaret Cabourn-Smith — speakers: Margaret Cabourn, Smith Margaret Cabourn
+- 2021-11-08 — Ep. 142 - Lisa Riley — speakers: Lisa Riley, Mandy Dingle
+- 2021-11-05 — Ep. 141 - Annie McGrath — speakers: Annie McGrath
+- 2021-11-01 — Ep. 140 - Josie Long — speakers: Josie Long
+- 2021-10-28 — Ep. 139 - Steven Hartley — speakers: Steven Hartley
+- 2021-10-24 — Ep. 138 - Paterson Joseph — speakers: Paterson Joseph Paterson Joseph, Alan Johnson, Mark Grace
+- 2021-10-21 — Ep. 137 - Amanda Clapham — speakers: Holly Cunningham
+- 2021-10-17 — Ep. 136 - Shaparak Khorsandi — speakers: Shaparak Khorsandi Shaparak Khorsandi, Shappi Khorsandi
+- 2021-10-14 — Ep. 135 - Rufus Jones — speakers: Julia Davis
+- 2021-10-10 — Ep. 134 - Hal Cruttenden — speakers: Hal Cruttenden Hal Cruttenden
+- 2021-10-07 — Ep. 133 - Dan Tetsell — speakers: Dan Tetsell
+- 2021-10-03 — Ep. 132 - Anne Hegerty — speakers: Anne Hegerty
+- 2021-09-30 — Ep. 131 - Rhys James — speakers: Rhys James Rhys James
+- 2021-09-26 — Ep. 130 - Richard Wilson — speakers: Richard Wilson, Victor Meldrew
+- 2021-09-23 — Ep. 129 - Sanjeev Kohli — speakers: Sanjeev Kohli Sanjeev Kohli, Navid Harrid
+- 2021-09-19 — Ep. 128 - Jeremy Swift — speakers: Jeremy Swift, Leslie Higgins
+- 2021-09-16 — Ep. 127 - Colin Sell — speakers: Colin Sell
+- 2021-09-12 — Ep. 126 - Tony Slattery — speakers: Tony Slattery
+- 2021-09-09 — Ep. 125 - David Quantick — speakers: David Quantick
+- 2021-09-05 — Ep. 124 - Robert Llewellyn — speakers: Robert Llewellyn
+- 2021-09-02 — Ep. 123 - Jo Caulfield — speakers: Jo Caulfield
+- 2021-08-29 — Ep. 122 - Mark Billingham — speakers: Mark Billingham, Tom Thorne
+- 2021-08-26 — Ep. 121 - Simon Greenall — speakers: Simon Greenall, Alan Partridge
+- 2021-08-22 — Ep. 120 - Omid Djalili
+- 2021-08-19 — Ep. 119 - Mitch Benn — speakers: Mitch Benn Mitch Benn
+- 2021-08-15 — Ep. 118 - Angela Barnes — speakers: Angela Barnes
+- 2021-08-12 — Ep. 117 - Dallas Campbell — speakers: Dallas Campbell Dallas Campbell
+- 2021-08-08 — Ep. 116 - John O’Farrell
+- 2021-08-05 — Ep. 115 - Steve Delaney (Count Arthur Strong) — speakers: Arthur Strong, Steve Delaney
+- 2021-08-01 — Ep. 114 - Paul Bradley — speakers: Paul Bradley, Nigel Bates, Elliot Hope
+- 2021-07-29 — Ep. 113 - Sophie Ward — speakers: Helen Trent
+- 2021-07-25 — Ep. 112 - Gary Wilmot — speakers: Gary Wilmot, Gary Wilmot Mbe
+- 2021-07-22 — Ep. 111 - Kevin Day — speakers: Kevin Day
+- 2021-07-18 — Ep. 110 - Isy Suttie
+- 2021-07-15 — Ep. 109 - Alfie Brown — speakers: Alfie Brown
+- 2021-07-11 — Ep. 108 - Nicky Campbell — speakers: Nicky Campbell Nicky Campbell
+- 2021-07-08 — Ep. 107 - Harriet Cross — speakers: Harriet Cross
+- 2021-07-04 — Ep. 106 - Emma Kennedy — speakers: Emma Kennedy
+- 2021-07-01 — Ep. 105 - Alex Macqueen — speakers: Alex Macqueen
+- 2021-06-27 — Ep. 104 - Barry Cryer - Part 2 — speakers: Barry Cryer
+- 2021-06-27 — Ep. 104 - Barry Cryer - Part 1 — speakers: Barry Cryer
+- 2021-06-24 — Ep. 103 - Adam Wide — speakers: Adam Wide
+- 2021-06-20 — Ep. 102 - Katy Brand — speakers: Katy Brand
+- 2021-06-17 — Ep. 101 - Justin Moorhouse — speakers: Justin Moorhouse
+- 2021-06-13 — Ep. 100 - Ross Noble — speakers: Ross Noble
+- 2021-06-10 — Ep. 99 - Emma Cunniffe — speakers: Emma Cunniffe
+- 2021-06-06 — Ep. 98 - Alan Davies — speakers: Alan Davies
+- 2021-06-03 — Ep. 97 - Simon Williams — speakers: Simon Williams, James Bellamy
+- 2021-05-30 — Ep. 96 - Bonnie Langford — speakers: Bonnie Langford, Carmel Kazemi
+- 2021-05-27 — Ep. 95 - Alex Lowe — speakers: Alex Lowe, Clinton Baptiste
+- 2021-05-23 — Ep. 94 - Les Dennis — speakers: Les Dennis Les Dennis
+- 2021-05-20 — Ep. 93 - James Moore — speakers: James Moore, Ryan Stocks
+- 2021-05-16 — Ep. 92 - John Bradley — speakers: John Bradley, Samwell Tarly, Jon Snow
+- 2021-05-13 — Ep. 91 - Josie Lawrence — speakers: Josie Lawrence
+- 2021-05-09 — Ep. 90 - Charlie Higson — speakers: Charlie Higson, Paul Whitehouse
+- 2021-05-06 — Ep. 89 - Simon Evans — speakers: Simon Evans
+- 2021-05-02 — Ep. 88 - Ken Bruce — speakers: Ken Bruce
+- 2021-04-29 — Ep. 87 - Kate Thornton — speakers: Kate Thornton
+- 2021-04-25 — Ep. 86 - Rob Brydon — speakers: Rob Brydon
+- 2021-04-22 — Ep. 85 - Giles Paley-Phillips — speakers: Giles Paley-Phillips
+- 2021-04-18 — Ep. 84 - Howard Goodall — speakers: Howard Goodall Emmy, Howard Goodall
+- 2021-04-15 — Ep. 83 - Izzy Mant — speakers: Izzy Mant Izzy Mant, Peep Show
+- 2021-04-11 — Ep. 82 - Tim Vine — speakers: Tim Vine
+- 2021-04-08 — Ep. 81 - Romola Garai — speakers: Romola Garai
+- 2021-04-04 — Ep. 80 - Ed Byrne — speakers: Ed Byrne
+- 2021-04-01 — Ep. 79 - Chris Lang — speakers: Chris Lang
+- 2021-03-28 — Ep. 78 - Anna Chancellor — speakers: Duck Face
+- 2021-03-26 — Ep. 77 - Derren Litten — speakers: Catherine Tate
+- 2021-03-22 — Ep. 76 - Seann Walsh — speakers: Seann Walsh, Comedian Seann Walsh
+- 2021-03-19 — Ep. 75 - Aurora Burghart — speakers: Aurora Burghart, Sex Educatio
+- 2021-03-15 — Ep. 74 - Mark Watson — speakers: Mark Watson
+- 2021-03-12 — Ep. 73 - Tim Bentinck — speakers: David Archer, Tim Bentinck
+- 2021-03-08 — Ep. 72 - Rachel Parris & Marcus Brigstocke — speakers: Rachel Parris
+- 2021-03-05 — Ep. 71 - Nigel Planer — speakers: Nigel Planer
+- 2021-03-01 — Ep. 70 - Mark Thomas — speakers: Mark Thomas Mark Thomas
+- 2021-02-26 — Ep. 69 - Vicki Pepperdine
+- 2021-02-22 — Ep. 68 - Caroline Quentin — speakers: Caroline Quentin, Jonathan Creek
+- 2021-02-19 — Ep. 67 - Clive Anderson — speakers: Clive Anderson
+- 2021-02-15 — Ep. 66 - Robin Ince — speakers: Robin Ince Robin Ince
+- 2021-02-12 — Ep. 65 - Kevin Bishop — speakers: Kevin Bishop
+- 2021-02-08 — Ep. 64 - Lee Mack — speakers: Lee Mack
+- 2021-02-05 — Ep. 63 - Andi Osho — speakers: Andi Osho Andi Osho
+- 2021-02-01 — Ep. 62 - Jayde Adams — speakers: Jayde Adams Jayde Adams
+- 2021-01-29 — Ep. 61 - Rory McGrath — speakers: Rory McGrath
+- 2021-01-25 — Ep. 60 - John Owen-Jones — speakers: John Owen-Jones
+- 2021-01-18 — Ep. 59 - Fred Macaulay — speakers: Fred Macaulay
+- 2021-01-11 — Ep. 58 - Eilidh Doyle — speakers: Eilidh Doyle
+- 2021-01-04 — Ep. 57 - Andrew Hunter Murray (No Such Thing As A Fish) — speakers: Andrew Hunter Murray
+- 2020-12-28 — Ep. 56 - Doon Mackichan — speakers: Doon Mackichan Actor, Brass Eye, Knowing Me
+- 2020-12-21 — Ep. 55 - Milton Jones — speakers: Milton Jones
+- 2020-12-14 — Ep. 54 - Arabella Weir — speakers: Arabella Weir
+- 2020-12-07 — Ep. 53 - Shane Richie — speakers: Shane Richie Shane Richie, Alfie Moon
+- 2020-11-30 — Ep. 52 - Danny Wallace — speakers: Danny Wallace
+- 2020-11-27 — Ep. 51 - Athena Kugblenu — speakers: Athena Kugblenu Athena Kugblenu
+- 2020-11-23 — Ep. 50 - Dan Schreiber (No Such Thing As A Fish) — speakers: Dan Schreiber
+- 2020-11-16 — Ep. 49 - Sir David Jason — speakers: David Jason, Derek Del Boy Trotter
+- 2020-11-13 — Ep. 48 - Michael Maloney — speakers: Michael Maloney, Edward Heath
+- 2020-11-09 — Ep. 47 - Stephen K. Amos
+- 2020-11-06 — Ep. 46 - Jimmy Mulville — speakers: Jimmy Mulville
+- 2020-11-02 — Ep. 45 - Tim McInnerny — speakers: Tim McInnerny, Percy Percy, Rowan Atkinson
+- 2020-10-30 — Ep. 44 - Jaye Griffiths — speakers: Jaye Griffiths, Elle Gardner, Janet Mander
+- 2020-10-26 — Ep. 43 - John Challis
+- 2020-10-22 — Ep. 42 - Jan Ravens — speakers: Jan Ravens Best, Dead Ringers, Spitting Image
+- 2020-10-18 — Ep. 41 - Robert Bathurst — speakers: Robert Bathurst, David Marsden
+- 2020-10-15 — Ep. 40 - Catherine Mayer — speakers: Catherine Mayer Author, Catherine Mayer
+- 2020-10-11 — Ep. 39 - Anneka Rice — speakers: Anneka Rice
+- 2020-10-04 — Ep. 38 - David Mitchell — speakers: Upstart Crow
+- 2020-10-01 — Ep. 37 - Clive Mantle — speakers: Mike Barratt
+- 2020-09-27 — Ep. 36 - Kevin McNally — speakers: Kevin McNally, Joshamee Gibbs
+- 2020-09-20 — Ep. 35 - Tony Hawks — speakers: Tony Hawks
+- 2020-09-13 — Ep. 34 - Tom Goodman-Hill — speakers: Tom Goodman-Hill
+- 2020-09-10 — Ep. 33 - Russell Grant — speakers: Russell Grant Russell Grant
+- 2020-09-06 — Ep. 32 - Ellie White — speakers: Ellie White
+- 2020-08-30 — Ep. 31 - Craig Ferguson — speakers: Craig Ferguson
+- 2020-08-27 — Ep. 30 - Lynne Truss — speakers: Lynne Truss
+- 2020-08-23 — Ep. 29 - Rita Rudner — speakers: Rita Rudner
+- 2020-08-16 — Ep. 28 - Rick Wakeman — speakers: Rick Wakeman
+- 2020-08-13 — Ep. 27 - Steve Edge — speakers: Steve Edge, Peter Kay Thing, Jason Ma
+- 2020-08-09 — Ep. 26 - John Lloyd — speakers: John Lloyd John Lloyd
+- 2020-08-06 — Ep. 25 - Julie Graham — speakers: Julie Graham Star
+- 2020-08-02 — Ep. 24 - Danny Walters — speakers: Danny Walters, Keanu Taylor, Tiger Dyke
+- 2020-07-30 — Ep. 23 - Ahir Shah — speakers: Ahir Shah
+- 2020-07-26 — Ep. 22 - Natascha McElhone
+- 2020-07-23 — Ep. 21 - Paul Mayhew-Archer — speakers: Paul Mayhew-Archer
+- 2020-07-19 — Ep. 20 - Miles Jupp — speakers: Miles Jupp Standup
+- 2020-07-16 — Ep. 19 - Janet Ellis — speakers: Blue Peter, Janet Ellis Mbe
+- 2020-07-12 — Ep. 18 - Rachel Khoo
+- 2020-07-09 — Ep. 17 - Tony Gardner — speakers: Lead Balloon, Last Tango, Fresh Meat
+- 2020-07-05 — Ep. 16 - Richard Herring — speakers: Richard Herring
+- 2020-07-02 — Ep. 15 - Andy Hamilton — speakers: Andy Hamilton
+- 2020-06-28 — Ep. 14 - Griff Rhys Jones — speakers: Alas Smith, Olivier Award
+- 2020-06-25 — Ep. 13 - Justin Edwards — speakers: Justin Edwards Surprise, Lockdown Special, Black Mirror
+- 2020-06-21 — Ep. 12 - Lucy Porter
+- 2020-06-15 — Ep. 11 - Rev Richard Coles — speakers: Bronski Beat
+- 2020-06-12 — Ep. 10 - Maria McErlane — speakers: Maria McErlane, Graham Norton
+- 2020-06-07 — Ep. 9 - David Baddiel — speakers: David Baddiel Comedian, David Baddiel, Michael Fenton
+- 2020-05-31 — Ep. 8 - Chris Addison — speakers: Chris Addison
+- 2020-05-24 — Ep. 7 - Anthony Head — speakers: Anthony Head
+- 2020-05-17 — Ep. 6 - Rufus Hound — speakers: Rufus Hound
+- 2020-05-10 — Ep. 5 - Anna Ptaszynski (No Such Thing As A Fish) — speakers: Anna Ptaszynski
+- 2020-05-04 — Ep. 4 - Mark Gatiss — speakers: Doctor Who
+- 2020-04-26 — Ep. 3 - Arthur Smith — speakers: Arthur Smith
+- 2020-04-26 — Ep. 2 - Rebecca Front — speakers: Alan Partridge
+- 2020-04-26 — Ep. 1 - Stephen Fry — speakers: Stephen Fry, Michael Fenton Stevens
+- 2020-04-08 — My Time Capsule - Trailer — speakers: Stephen Fry, Mark Gatiss
