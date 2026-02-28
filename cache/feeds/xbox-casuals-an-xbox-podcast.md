@@ -2,9 +2,9 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-02-27T21:43:38+00:00`
-- checked_at: `2026-02-27T21:43:38+00:00`
-- etag: `W/"c8eb3-m96OMvTJZCqq0mZqQUP7eYoVh/k"`
+- fetched_at: `2026-02-28T02:40:07+00:00`
+- checked_at: `2026-02-28T02:40:07+00:00`
+- etag: `W/"c860c-rxReBnFyGxpAZoNLIBFQlBgafs0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://bossrush.net/",
   "description": "Xbox Casuals is a biweekly podcast dedicated to everything Xbox, brought to you by Tower Casuals and Boss Rush Media. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Catch new episodes every other Friday on all major podcast platforms and on YouTube via the Tower Casuals channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1754277624394-2c1d8fced3054.jpg",
-  "fetched_at": "2026-02-27T21:43:38+00:00",
+  "fetched_at": "2026-02-28T02:40:07+00:00",
   "owners": [
     "Corey Dirrig",
     "Josh Finney"
@@ -27,35 +27,6 @@
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "21bf6a9209d57bb1e7fb815330876082f7c91055",
-      "title": "Sarah Bond and Phil Spencer are LEAVING XBOX, Asha Sharma New CEO",
-      "published_at": "2026-02-27T17:15:30+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/Sarah-Bond-and-Phil-Spencer-are-LEAVING-XBOX--Asha-Sharma-New-CEO-e3fn46o",
-      "description": "Xbox shocked the gaming world on Friday with major leadership changes. This week on Xbox Casuals, Corey Dirrig and Josh Finney break down the massive news shaking up Xbox. Sarah Bond and Phil Spencer are stepping away from their roles as they help usher in a new era under incoming CEO Asha Sharma. Does Sharma’s resume set her up for success—or could it present challenges as she takes the reins of Microsoft’s gaming brand? Let’s discuss on Xbox Casuals. #XboxCasuals #PhilSpencer #SarahBond #XboxLeadership #XboxPodcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1772212515254-e246611cb6748.jpg",
-      "enclosure_url": "https://anchor.fm/s/1580e714/podcast/play/116149912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2F3d319f07-43f8-06f6-0646-aa638bb2f138.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "82531703",
-      "itunes_duration": "01:08:46",
-      "speakers": [
-        "Sarah Bond",
-        "Phil Spencer",
-        "Leaving Xbox",
-        "Asha Sharma New",
-        "Corey Dirrig",
-        "Josh Finney"
-      ],
-      "topics": [
-        "sarah",
-        "bond",
-        "phil",
-        "spencer",
-        "xbox",
-        "asha",
-        "sharma"
-      ]
-    },
     {
       "key": "8dd63db3f9ecbff50b73cd9f1989033f153ac1b6",
       "title": "Can Xbox Deliver on Halo, Gears of War, Fable, and Forza This Year?",
@@ -5125,7 +5096,6 @@
 
 ## Episodes (newest first)
 
-- 2026-02-27 — Sarah Bond and Phil Spencer are LEAVING XBOX, Asha Sharma New CEO — speakers: Sarah Bond, Phil Spencer, Leaving Xbox, Asha Sharma New, Corey Dirrig, Josh Finney
 - 2026-02-06 — Can Xbox Deliver on Halo, Gears of War, Fable, and Forza This Year? — speakers: Can Xbox Deliver, Xbox Casuals, Corey Dirrig, Josh Finney
 - 2026-01-23 — Xbox Developer Direct Shows Fable Has Major Potential to be Great — speakers: Corey Dirrig, Josh Finney
 - 2026-01-09 — Game of the Year 2025 and Our Most Anticipated Games of 2026 — speakers: Corey Dirrig, Josh Finney

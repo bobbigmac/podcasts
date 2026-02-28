@@ -3,11 +3,9 @@
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
 - fetched_at: `2026-02-26T03:11:10+00:00`
-- checked_at: `2026-02-27T21:43:38+00:00`
+- checked_at: `2026-02-28T02:40:07+00:00`
 - last_modified: `Thu, 26 Feb 2026 00:15:05 GMT`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: `HTTP 503` — Service Unavailable
 
 <!-- FEED_JSON -->
 ```json
@@ -5304,17 +5302,7 @@
         "november"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-02-27T21:43:38+00:00",
-    "status": "error",
-    "checked_at": "2026-02-27T21:43:38+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 503,
-      "message": "Service Unavailable"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
