@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-02-25T16:19:49+00:00`
-- checked_at: `2026-02-25T16:19:49+00:00`
-- last_modified: `Wed, 25 Feb 2026 14:24:13 GMT`
+- fetched_at: `2026-02-28T15:35:14+00:00`
+- checked_at: `2026-02-28T15:35:14+00:00`
+- last_modified: `Sat, 28 Feb 2026 15:31:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/3f50b7a1b1632c03b74bec14bb7de2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-25T16:19:49+00:00",
+  "fetched_at": "2026-02-28T15:35:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "937320b3d2e68ff6fb93eb0d8c235f95dda3b2f5",
+      "title": "506. Trump Attacks Iran: What Happens Now?",
+      "published_at": "2026-02-28T15:15:00+00:00",
+      "link": null,
+      "description": "As Tehran launches retaliatory strikes against Israel and US military bases, how dangerous is this moment for the Middle East and the wider world? Are the attacks an attempt by Trump to shift attention away from the Epstein files? Will any of this lead to regime change in Iran? Join Rory and Alastair as they answer all these questions and more. __________ Join The Rest Is Politics Plus: Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson, Charlie Johnson Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Senior Producer: Callum Hill General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/492456e4-14af-11f1-8c8b-5b01b260c17d/image/18a38dc68ddb07d0b8282052e6ea59e3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2716650209.mp3?updated=1772292094",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3288",
+      "speakers": [
+        "Trump Attacks"
+      ],
+      "topics": [
+        "trump",
+        "attacks",
+        "iran"
+      ]
+    },
     {
       "key": "bca6cdaf944666c21d536ed01f3142bbc8c449d5",
       "title": "505. Are Trump and Putin Underestimating Ukraine?",
@@ -11169,6 +11189,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-28 — 506. Trump Attacks Iran: What Happens Now? — speakers: Trump Attacks
 - 2026-02-25 — 505. Are Trump and Putin Underestimating Ukraine? — speakers: Putin Underestimating Ukraine
 - 2026-02-24 — 504. Is Trump Losing His Tariffs War? (Question Time)
 - 2026-02-23 — Why Trump Wants Greenland — speakers: Trump Wants Greenland

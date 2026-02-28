@@ -2,9 +2,9 @@
 
 - slug: `st-elwicks`
 - source: `https://anchor.fm/s/f6fb9cc/podcast/rss`
-- fetched_at: `2026-02-21T21:37:22+00:00`
-- checked_at: `2026-02-21T21:37:22+00:00`
-- etag: `W/"e604-EKe3k899LC1q6qtmpFcIN38+fCY"`
+- fetched_at: `2026-02-28T15:35:14+00:00`
+- checked_at: `2026-02-28T15:35:14+00:00`
+- etag: `W/"e604-v0dO6DQAJmA9PGPpyLKetjpjIq4"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/joel-porter1",
   "description": "St Elwick's Neighbourhood Association Newsletter Podcast Editor-in-Chief Malcolm Durridge. By Mike Wozniak Produced by Joel Porter",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2489803/2489803-1571730422334-a7600df9d973b.jpg",
-  "fetched_at": "2026-02-21T21:37:22+00:00",
+  "fetched_at": "2026-02-28T15:35:14+00:00",
   "owners": [
     "Mike Wozniak"
   ],
@@ -39,9 +39,7 @@
       "enclosure_length": "11353963",
       "itunes_duration": "00:11:40",
       "speakers": [
-        "Malcolm Durridge",
-        "Mike Wozniak",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "pirate",
@@ -62,8 +60,6 @@
       "itunes_duration": "00:33:33",
       "speakers": [
         "St Elwickian",
-        "Mike Wozniak Guest",
-        "Joel Porter",
         "Mike Wozniak"
       ],
       "topics": [
@@ -83,8 +79,8 @@
       "enclosure_length": "25566016",
       "itunes_duration": "00:17:44",
       "speakers": [
-        "Mike Wozniak",
-        "Joel Porter"
+        "No Local Lives",
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -103,9 +99,7 @@
       "enclosure_length": "72699970",
       "itunes_duration": "00:50:28",
       "speakers": [
-        "St Elwick",
-        "Mike Wozniak Guest",
-        "Joel Porter",
+        "While August",
         "Mike Wozniak"
       ],
       "topics": [
@@ -126,11 +120,6 @@
       "itunes_duration": "01:19:48",
       "speakers": [
         "Hilary Geisler",
-        "Martin Cudlipp",
-        "Mike Wozniak Guest",
-        "Daniel Rigby",
-        "Josh Widdicombe",
-        "Joel Porter",
         "Mike Wozniak"
       ],
       "topics": [
@@ -150,9 +139,7 @@
       "enclosure_length": "10675304",
       "itunes_duration": "00:07:24",
       "speakers": [
-        "Malcolm Durridge",
-        "Mike Wozniak",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "complaint",
@@ -173,8 +160,7 @@
       "itunes_duration": "00:12:37",
       "speakers": [
         "Colin Johnson",
-        "Mike Wozniak",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -193,10 +179,6 @@
       "enclosure_length": "62998309",
       "itunes_duration": "00:32:48",
       "speakers": [
-        "Christine Fingle owner",
-        "Mike Wozniak Guest",
-        "Charlotte Ritchie",
-        "Joel Porter",
         "Mike Wozniak"
       ],
       "topics": [
@@ -216,9 +198,7 @@
       "enclosure_length": "5820282",
       "itunes_duration": "00:03:01",
       "speakers": [
-        "Christine Fingle",
-        "Mike Wozniak",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "notice",
@@ -238,9 +218,9 @@
       "enclosure_length": "7416190",
       "itunes_duration": "00:08:48",
       "speakers": [
-        "Matthew Willebrink",
-        "Mike Wozniak",
-        "Joel Porter"
+        "Council Watch",
+        "Crime Figures",
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -260,8 +240,6 @@
       "itunes_duration": "00:38:54",
       "speakers": [
         "Tony Dowland",
-        "Mike Wozniak Guest",
-        "Joel Porter",
         "Mike Wozniak"
       ],
       "topics": [
@@ -282,9 +260,6 @@
       "itunes_duration": "00:25:14",
       "speakers": [
         "Mark Canning",
-        "Mike Wozniak Guest",
-        "Sarah Kendall",
-        "Joel Porter",
         "Mike Wozniak"
       ],
       "topics": [
@@ -305,8 +280,7 @@
       "itunes_duration": "00:03:03",
       "speakers": [
         "Fayre Flyer",
-        "Mike Wozniak",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "christmas",
@@ -326,10 +300,7 @@
       "enclosure_length": "95051212",
       "itunes_duration": "00:49:29",
       "speakers": [
-        "Jonathan Schweppes",
-        "Mike Wozniak Guest",
-        "Henry Paker",
-        "Joel Porter",
+        "Global Warming",
         "Mike Wozniak"
       ],
       "topics": [
@@ -349,10 +320,7 @@
       "enclosure_length": "35065209",
       "itunes_duration": "00:36:08",
       "speakers": [
-        "Dave Langton",
-        "Mike Wozniak Guest",
-        "Jamali Maddix",
-        "Joel Porter",
+        "Dave Lang",
         "Mike Wozniak"
       ],
       "topics": [
@@ -374,9 +342,7 @@
       "enclosure_length": "50655710",
       "itunes_duration": "00:52:12",
       "speakers": [
-        "Andrea Gamp",
-        "Mike Wozniak Guest",
-        "Joel Porter",
+        "self-proclaimed Community",
         "Mike Wozniak"
       ],
       "topics": [
@@ -397,10 +363,6 @@
       "itunes_duration": "00:23:59",
       "speakers": [
         "Mark Canning",
-        "Tony Corrigan",
-        "Mike Wozniak Guest",
-        "Stephen Morrison",
-        "Joel Porter",
         "Mike Wozniak"
       ],
       "topics": [
@@ -422,9 +384,6 @@
       "itunes_duration": "00:25:39",
       "speakers": [
         "St Elwickian",
-        "Mike Wozniak Guest",
-        "Jessica Ransom",
-        "Joel Porter",
         "Mike Wozniak"
       ],
       "topics": [
@@ -445,10 +404,10 @@
       "enclosure_length": "50091166",
       "itunes_duration": "00:20:51",
       "speakers": [
-        "Erica Fernsby",
-        "Mike Wozniak",
-        "Lily Bevan",
-        "Joel Porter"
+        "Pocket Edition",
+        "Personal Protective Equipment Pocket",
+        "St Elwickians",
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -469,10 +428,7 @@
       "itunes_duration": "00:32:51",
       "speakers": [
         "Sandy Knowles",
-        "St Elwick",
-        "Mike Wozniak",
-        "Ruth Bratt",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -494,9 +450,7 @@
       "speakers": [
         "Local History Edition",
         "Hilary Geisler",
-        "Mike Wozniak",
-        "Daniel Rigby",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -517,9 +471,7 @@
       "itunes_duration": "00:29:03",
       "speakers": [
         "Roger Prunchkin",
-        "Mike Wozniak",
-        "Benjamin Partridge",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -540,9 +492,7 @@
       "itunes_duration": "00:05:14",
       "speakers": [
         "Melissa Ryan",
-        "Mike Wozniak",
-        "Lily Bevan",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -562,9 +512,10 @@
       "enclosure_length": "89841372",
       "itunes_duration": "00:37:25",
       "speakers": [
-        "Hannah Plantagenet",
-        "Mike Wozniak",
-        "Joel Porter"
+        "Pocket Edition",
+        "Crime Special",
+        "St Elwickians",
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -584,9 +535,9 @@
       "enclosure_length": "62653710",
       "itunes_duration": "00:26:05",
       "speakers": [
-        "Angela Glackin",
-        "Mike Wozniak",
-        "Joel Porter"
+        "Pocket Edition",
+        "Key Worker",
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -607,9 +558,7 @@
       "itunes_duration": "00:31:03",
       "speakers": [
         "Joe Threddle",
-        "Mike Wozniak",
-        "James Acaster",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -629,9 +578,9 @@
       "enclosure_length": "32115276",
       "itunes_duration": "00:13:22",
       "speakers": [
-        "Mike Wozniak",
-        "Stephanie Cole",
-        "Joel Porter"
+        "Pocket Edition",
+        "These Pocket Editions",
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -651,9 +600,7 @@
       "enclosure_length": "62891690",
       "itunes_duration": "00:26:11",
       "speakers": [
-        "Mike Wozniak",
-        "Daniel Rigby",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -673,11 +620,7 @@
       "itunes_duration": "00:38:25",
       "speakers": [
         "Lyndsey Mulligan",
-        "Hilary Geisler",
-        "Mike Wozniak",
-        "Yasmine Akram",
-        "Daniel Rigby",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -697,12 +640,7 @@
       "itunes_duration": "00:33:31",
       "speakers": [
         "Hilary Geisler",
-        "Roger Prunchkin",
-        "natter jack",
-        "Mike Wozniak",
-        "Daniel Rigby",
-        "Benjamin Partridge",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -722,9 +660,7 @@
       "itunes_duration": "00:37:10",
       "speakers": [
         "Fayre Flyer",
-        "Mike Wozniak",
-        "Henry Paker",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "christmas",
@@ -744,12 +680,7 @@
       "enclosure_length": "84660340",
       "itunes_duration": "00:44:04",
       "speakers": [
-        "Hilary Geisler",
-        "Sandy Knowles",
-        "Mike Wozniak",
-        "Daniel Rigby",
-        "Ruth Bratt",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -768,10 +699,7 @@
       "enclosure_length": "64001994",
       "itunes_duration": "00:33:19",
       "speakers": [
-        "Jonathan Schweppes",
-        "Mike Wozniak",
-        "Henry Paker",
-        "Joel Porter"
+        "Mike Wozniak"
       ],
       "topics": [
         "podcast",
@@ -785,36 +713,36 @@
 
 ## Episodes (newest first)
 
-- 2021-12-17 — PIRATE BROADCAST EDITION! — speakers: Malcolm Durridge, Mike Wozniak, Joel Porter
-- 2021-10-30 — Podcast Edition 28 — speakers: St Elwickian, Mike Wozniak Guest, Joel Porter, Mike Wozniak
-- 2021-09-30 — Podcast Edition 27 — speakers: Mike Wozniak, Joel Porter
-- 2021-08-31 — Podcast Edition 26 — speakers: St Elwick, Mike Wozniak Guest, Joel Porter, Mike Wozniak
-- 2021-07-20 — Podcast Edition 25 — speakers: Hilary Geisler, Martin Cudlipp, Mike Wozniak Guest, Daniel Rigby, Josh Widdicombe, Joel Porter, Mike Wozniak
-- 2021-07-03 — ADDRESSING COMPLAINTS RE JUNE EDITION — speakers: Malcolm Durridge, Mike Wozniak, Joel Porter
-- 2021-05-31 — Podcast Edition 24 — speakers: Colin Johnson, Mike Wozniak, Joel Porter
-- 2021-04-08 — Podcast Edition 23 — speakers: Christine Fingle owner, Mike Wozniak Guest, Charlotte Ritchie, Joel Porter, Mike Wozniak
-- 2021-03-31 — NOTICE OF CRISIS AND APOLOGY — speakers: Christine Fingle, Mike Wozniak, Joel Porter
-- 2021-02-26 — Podcast Edition 22 — speakers: Matthew Willebrink, Mike Wozniak, Joel Porter
-- 2021-01-30 — Podcast Edition 21 — speakers: Tony Dowland, Mike Wozniak Guest, Joel Porter, Mike Wozniak
-- 2020-12-21 — Podcast Edition 20 — speakers: Mark Canning, Mike Wozniak Guest, Sarah Kendall, Joel Porter, Mike Wozniak
-- 2020-12-04 — Christmas Fayre Flyer 2020 — speakers: Fayre Flyer, Mike Wozniak, Joel Porter
-- 2020-11-28 — Podcast Edition 19 — speakers: Jonathan Schweppes, Mike Wozniak Guest, Henry Paker, Joel Porter, Mike Wozniak
-- 2020-10-29 — Podcast Edition 18: "Muzak Killed My Grandma" — speakers: Dave Langton, Mike Wozniak Guest, Jamali Maddix, Joel Porter, Mike Wozniak
-- 2020-09-30 — Podcast Edition 17 — speakers: Andrea Gamp, Mike Wozniak Guest, Joel Porter, Mike Wozniak
-- 2020-08-06 — Podcast Edition 16 (EMERGENCY EDITION) — speakers: Mark Canning, Tony Corrigan, Mike Wozniak Guest, Stephen Morrison, Joel Porter, Mike Wozniak
-- 2020-07-14 — Podcast Edition 15 (Pocket Edition) — speakers: St Elwickian, Mike Wozniak Guest, Jessica Ransom, Joel Porter, Mike Wozniak
-- 2020-07-01 — Podcast Edition 14 (Pocket Edition) — speakers: Erica Fernsby, Mike Wozniak, Lily Bevan, Joel Porter
-- 2020-06-19 — Podcast Edition 13 (Pocket Edition) — speakers: Sandy Knowles, St Elwick, Mike Wozniak, Ruth Bratt, Joel Porter
-- 2020-05-27 — Podcast Edition 12 (Pocket Edition) — speakers: Local History Edition, Hilary Geisler, Mike Wozniak, Daniel Rigby, Joel Porter
-- 2020-05-10 — Podcast Edition 11 (Pocket Edition) — speakers: Roger Prunchkin, Mike Wozniak, Benjamin Partridge, Joel Porter
-- 2020-04-28 — Podcast Edition 10 (Pocket Edition) — speakers: Melissa Ryan, Mike Wozniak, Lily Bevan, Joel Porter
-- 2020-04-17 — Podcast Edition 9 (Pocket Edition) — speakers: Hannah Plantagenet, Mike Wozniak, Joel Porter
-- 2020-04-07 — Podcast Edition 8 (Pocket Edition) — speakers: Angela Glackin, Mike Wozniak, Joel Porter
-- 2020-03-29 — Podcast Edition 7 (Pocket Edition) — speakers: Joe Threddle, Mike Wozniak, James Acaster, Joel Porter
-- 2020-03-25 — Podcast Edition 6 (Pocket Edition) — speakers: Mike Wozniak, Stephanie Cole, Joel Porter
-- 2020-03-24 — Podcast Edition 5 — speakers: Mike Wozniak, Daniel Rigby, Joel Porter
-- 2020-02-18 — Podcast Edition 4 — speakers: Lyndsey Mulligan, Hilary Geisler, Mike Wozniak, Yasmine Akram, Daniel Rigby, Joel Porter
-- 2020-01-20 — Podcast Edition 3 — speakers: Hilary Geisler, Roger Prunchkin, natter jack, Mike Wozniak, Daniel Rigby, Benjamin Partridge, Joel Porter
-- 2019-12-19 — Christmas Fayre Flyer — speakers: Fayre Flyer, Mike Wozniak, Henry Paker, Joel Porter
-- 2019-11-26 — Podcast Edition 2 — speakers: Hilary Geisler, Sandy Knowles, Mike Wozniak, Daniel Rigby, Ruth Bratt, Joel Porter
-- 2019-10-22 — Podcast Edition 1 — speakers: Jonathan Schweppes, Mike Wozniak, Henry Paker, Joel Porter
+- 2021-12-17 — PIRATE BROADCAST EDITION! — speakers: Mike Wozniak
+- 2021-10-30 — Podcast Edition 28 — speakers: St Elwickian, Mike Wozniak
+- 2021-09-30 — Podcast Edition 27 — speakers: No Local Lives, Mike Wozniak
+- 2021-08-31 — Podcast Edition 26 — speakers: While August, Mike Wozniak
+- 2021-07-20 — Podcast Edition 25 — speakers: Hilary Geisler, Mike Wozniak
+- 2021-07-03 — ADDRESSING COMPLAINTS RE JUNE EDITION — speakers: Mike Wozniak
+- 2021-05-31 — Podcast Edition 24 — speakers: Colin Johnson, Mike Wozniak
+- 2021-04-08 — Podcast Edition 23 — speakers: Mike Wozniak
+- 2021-03-31 — NOTICE OF CRISIS AND APOLOGY — speakers: Mike Wozniak
+- 2021-02-26 — Podcast Edition 22 — speakers: Council Watch, Crime Figures, Mike Wozniak
+- 2021-01-30 — Podcast Edition 21 — speakers: Tony Dowland, Mike Wozniak
+- 2020-12-21 — Podcast Edition 20 — speakers: Mark Canning, Mike Wozniak
+- 2020-12-04 — Christmas Fayre Flyer 2020 — speakers: Fayre Flyer, Mike Wozniak
+- 2020-11-28 — Podcast Edition 19 — speakers: Global Warming, Mike Wozniak
+- 2020-10-29 — Podcast Edition 18: "Muzak Killed My Grandma" — speakers: Dave Lang, Mike Wozniak
+- 2020-09-30 — Podcast Edition 17 — speakers: self-proclaimed Community, Mike Wozniak
+- 2020-08-06 — Podcast Edition 16 (EMERGENCY EDITION) — speakers: Mark Canning, Mike Wozniak
+- 2020-07-14 — Podcast Edition 15 (Pocket Edition) — speakers: St Elwickian, Mike Wozniak
+- 2020-07-01 — Podcast Edition 14 (Pocket Edition) — speakers: Pocket Edition, Personal Protective Equipment Pocket, St Elwickians, Mike Wozniak
+- 2020-06-19 — Podcast Edition 13 (Pocket Edition) — speakers: Sandy Knowles, Mike Wozniak
+- 2020-05-27 — Podcast Edition 12 (Pocket Edition) — speakers: Local History Edition, Hilary Geisler, Mike Wozniak
+- 2020-05-10 — Podcast Edition 11 (Pocket Edition) — speakers: Roger Prunchkin, Mike Wozniak
+- 2020-04-28 — Podcast Edition 10 (Pocket Edition) — speakers: Melissa Ryan, Mike Wozniak
+- 2020-04-17 — Podcast Edition 9 (Pocket Edition) — speakers: Pocket Edition, Crime Special, St Elwickians, Mike Wozniak
+- 2020-04-07 — Podcast Edition 8 (Pocket Edition) — speakers: Pocket Edition, Key Worker, Mike Wozniak
+- 2020-03-29 — Podcast Edition 7 (Pocket Edition) — speakers: Joe Threddle, Mike Wozniak
+- 2020-03-25 — Podcast Edition 6 (Pocket Edition) — speakers: Pocket Edition, These Pocket Editions, Mike Wozniak
+- 2020-03-24 — Podcast Edition 5 — speakers: Mike Wozniak
+- 2020-02-18 — Podcast Edition 4 — speakers: Lyndsey Mulligan, Mike Wozniak
+- 2020-01-20 — Podcast Edition 3 — speakers: Hilary Geisler, Mike Wozniak
+- 2019-12-19 — Christmas Fayre Flyer — speakers: Fayre Flyer, Mike Wozniak
+- 2019-11-26 — Podcast Edition 2 — speakers: Mike Wozniak
+- 2019-10-22 — Podcast Edition 1 — speakers: Mike Wozniak
