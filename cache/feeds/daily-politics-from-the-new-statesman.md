@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-02-28T15:35:14+00:00`
-- checked_at: `2026-02-28T15:35:14+00:00`
-- etag: `"djEuMi4wOjE3NzIyOTIzNjg0MzQ="`
+- fetched_at: `2026-02-28T18:49:36+00:00`
+- checked_at: `2026-02-28T18:49:36+00:00`
+- etag: `"djEuMi4wOjE3NzIyOTgwMzk0MTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-02-28T15:35:14+00:00",
+  "fetched_at": "2026-02-28T18:49:36+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "83e7b37329c9e7074a15882659fe159ff7456e07",
+      "title": "\"I'll handle a sea bass however I like\" | Anoosh & Will's weekly round-up",
+      "published_at": "2026-02-28T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/ill-handle-a-sea-bass-however-i-like",
+      "description": "Martin Lewis ambushed Kemi Badenoch, Your Party think bureaucracy will stop nuclear war, and the Sea Bass handling committee have released exciting new guidance. Anoosh Chakelian and Will Dunn round up the week's political news you might have missed. READ: Abandon all hope at the Your Party hustings SAVE £££ THIS CHRISTMAS: ⭐️ Gift big ideas, bold politics, and proper journalism from just £2 LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772221819093-8c1c9bcd-6f60-476e-889a-8af44a06633f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69a1f5c57221cfbf20d8c848/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49368980",
+      "itunes_duration": "34:16",
+      "speakers": [
+        "Martin Lewis",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "bass",
+        "anoosh",
+        "round"
+      ]
+    },
     {
       "key": "69d6aeaa50d087d1cec17683551a555dfdbbbe48",
       "title": "The end of the Starmer project?",
@@ -30224,6 +30246,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-28 — "I'll handle a sea bass however I like" | Anoosh & Will's weekly round-up — speakers: Martin Lewis, Anoosh Chakelian, Oli Dugmore
 - 2026-02-27 — The end of the Starmer project? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-02-27 — Historic win for the Greens — speakers: Hannah Spencer, Anoosh Chakelian, Oli Dugmore
 - 2026-02-26 — Puberty blockers, blocked — speakers: Anoosh Chakelian, Oli Dugmore
