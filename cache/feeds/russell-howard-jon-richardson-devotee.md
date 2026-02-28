@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-02-28T02:40:07+00:00`
-- checked_at: `2026-02-28T02:40:07+00:00`
-- etag: `W/"1da2c-9oDzZQz5aUqwIPhnILMmN9mWAK4"`
+- fetched_at: `2026-02-28T06:57:20+00:00`
+- checked_at: `2026-02-28T06:57:20+00:00`
+- etag: `W/"1e358-5prAYpg3zlkFlRSrv29WGq4dH/Y"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,53 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-02-28T02:40:07+00:00",
+  "fetched_at": "2026-02-28T06:57:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1b436241b712582b56928dc738ab188b44dce3f7",
+      "title": "#18 Jon Richardson Podcast with David O'Dotherty",
+      "published_at": "2026-02-27T18:40:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/18-Jon-Richardson-Podcast-with-David-ODotherty-e3fljaj",
+      "description": "#18 Jon Richardson Podcast with David O'Dotherty",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772131320784-0a45176744a46.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116099859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F8cdc7d7e-667a-8279-6ee8-01b8fd7f585f.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55603904",
+      "itunes_duration": "01:17:13",
+      "speakers": [
+        "David O'Dotherty"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "david"
+      ]
+    },
+    {
+      "key": "ba6867baccfb20bcaea75ba7ae6523c015f92cc0",
+      "title": "#17 Jon Richardson Podcast with Tom Wrigglesworth",
+      "published_at": "2026-02-27T11:38:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/17-Jon-Richardson-Podcast-with-Tom-Wrigglesworth-e3flj7l",
+      "description": "#17 Jon Richardson Podcast with Tom Wrigglesworth",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772131190663-8f5495e71dfbf.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116099765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F0f7e6b5b-7527-555a-8779-0a4e1e57ce65.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45952736",
+      "itunes_duration": "01:03:49",
+      "speakers": [
+        "Tom Wrigglesworth"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "wrigglesworth"
+      ]
+    },
     {
       "key": "c4bf11e7d1fd965ee8edd014eae25f32d512ba67",
       "title": "#16 Jon Richardson Podcast with Dan Evans",
@@ -2116,6 +2156,8 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — #18 Jon Richardson Podcast with David O'Dotherty — speakers: David O'Dotherty
+- 2026-02-27 — #17 Jon Richardson Podcast with Tom Wrigglesworth — speakers: Tom Wrigglesworth
 - 2026-02-27 — #16 Jon Richardson Podcast with Dan Evans — speakers: Dan Evans
 - 2026-02-26 — #15 Jon Richardson Podcast with Stephen K Amos
 - 2026-02-25 — #14 Jon Richardson Podcast with Sarah Millican — speakers: Sarah Millican

@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-02-27T19:03:11+00:00`
-- checked_at: `2026-02-27T19:03:11+00:00`
-- etag: `"djEuMi4wOjE3NzIyMTQ2OTMwNTE="`
+- fetched_at: `2026-02-28T06:57:20+00:00`
+- checked_at: `2026-02-28T06:57:20+00:00`
+- etag: `"djEuMi4wOjE3NzIyNTg0Mzk1Nzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-02-27T19:03:11+00:00",
+  "fetched_at": "2026-02-28T06:57:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "10f25039f0e72b988dd01709a6b0e5d049a09427",
+      "title": "Can anyone stop the Green Party's surge? Rachel Millward interview",
+      "published_at": "2026-02-28T06:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69a1d9a5f0bb26c2961b488a",
+      "description": "Earlier this week we spoke to Green Party co-deputy leader Rachel Millward about the party's surge in support under Zack Polanski, their prospects as the new party of the left, and the downfall of Labour under Keir Starmer. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69a1d9a5f0bb26c2961b488a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18030150",
+      "itunes_duration": "12:30",
+      "speakers": [
+        "Rachel Millward"
+      ],
+      "topics": [
+        "green",
+        "party",
+        "surge",
+        "rachel",
+        "millward"
+      ]
+    },
     {
       "key": "ff5151cc6a6f79a9f21fec6bcac0adac9ca41c0f",
       "title": "What should we replace the monarchy with? Q&A special",
@@ -11719,6 +11741,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-28 — Can anyone stop the Green Party's surge? Rachel Millward interview — speakers: Rachel Millward
 - 2026-02-26 — What should we replace the monarchy with? Q&A special
 - 2026-02-25 — Fact-checking Keir Starmer's Student Loans claims at PMQs
 - 2026-02-24 — Are MPs about to expose ANOTHER Andrew scandal? — speakers: Peter Mandelson
