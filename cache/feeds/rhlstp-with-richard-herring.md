@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-02-27T07:13:19+00:00`
-- checked_at: `2026-02-27T07:13:19+00:00`
-- etag: `"djEuMi4wOjE3NzIxNjQ2NTk0MTA="`
+- fetched_at: `2026-02-28T13:06:51+00:00`
+- checked_at: `2026-02-28T13:06:51+00:00`
+- etag: `"djEuMi4wOjE3NzIyODM0MjA3NDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-02-27T07:13:19+00:00",
+  "fetched_at": "2026-02-28T13:06:51+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d8cd7a91ace0fd7a31dbc21b2b80c3a05db5b408",
+      "title": "RAACN week 5",
+      "published_at": "2026-02-28T12:57:01+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Tuesday 24th February 2026 - Worse Than Bin Laden - Having missed the scoop of the millennium, Newsround is back in a 30 degree studio to look at the story of the arrests of Mandleson and some other guy whose name keeps changing. With special correspondent reporting from Sandringham, waiting for a massage. Usual rubbish. Spread the word. Wednesday. 25th February 2026 - State of the Galactic Union - President Trump has done the longest State of the Union ever and Rich and Ally are here to fact check his claims. A special report suggests the whole world is in the best shape ever, which will be a great relief to us all, as long as we don’t look out the window. Thursday February 26th 2026 - Quality Sperm - Rich and Ally are back talking about what month of the year sperm is at its friskiest. The lame stream media don’t dare touch stuff like this. Unlike the scientists who put together these reports Friday February 27th 2026 - Galton and Simpson - Rich and Ally are back for the last Newsround of February and it’s a story the lame stream media won’t touch, last night’s by-election. Is this a vindication of Keir Starmer’s right wing policies. With an exclusive interview with the current Prime Minister (at time of recording) plus in depth political analysis from Ally Sloper. This is the only independent news source you can choose. We are delighted that the Greens won. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1772283259198-9f89cefb-6a38-41f3-9599-ec9d03e25adf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69a2e61cbbda7540f4ad7de9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27499628",
+      "itunes_duration": "56:18",
+      "speakers": [
+        "Bin Laden Having",
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "b6240ad8a97fb0fcbf7d434c7c2633c0536b7b27",
       "title": "RHLSTP Book Club 171 - Ian Leslie",
@@ -21577,6 +21597,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-28 — RAACN week 5 — speakers: Bin Laden Having, Richard Herring
 - 2026-02-27 — RHLSTP Book Club 171 - Ian Leslie — speakers: Richard Herring
 - 2026-02-25 — RHLSTP 600 - Fatiha El-Ghorri — speakers: Fatiha El, Paul Hollywood Hand Shandy, Leicester Comedy Festival, Richard Herring
 - 2026-02-23 — Retro RHLSTP 134 - Paul Chowdhry — speakers: Paul Chowdhry, Richard Herring
