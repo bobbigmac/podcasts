@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-02-28T18:49:36+00:00`
-- checked_at: `2026-02-28T18:49:36+00:00`
-- etag: `"djEuMi4wOjE3NzIyOTgwMzk0MTY="`
+- fetched_at: `2026-03-01T07:04:14+00:00`
+- checked_at: `2026-03-01T07:04:14+00:00`
+- etag: `"djEuMi4wOjE3NzIzNDQ4Mzk0ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-02-28T18:49:36+00:00",
+  "fetched_at": "2026-03-01T07:04:14+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ed4d4e01194bfa8e62cc41945feccc7fd4162bc1",
+      "title": "Rare diseases: from lived experience to lasting treatments | Sponsored",
+      "published_at": "2026-03-01T06:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/rare-diseases-from-lived-experience-to-lasting-treatments",
+      "description": "To mark Rare Disease Day, this special Spotlight episode explores why rare diseases - affecting an estimated one in 17 people in the UK – still face years of diagnostic delays and limited treatment options. Host Sarah Darwood speaks to CEO of LifeArc Dr Sam Barrell and Terry Pirovalakis, whose son Michael has been diagnosed with the rare neurological disorder SPG50. Their discussion looks at the reality of the “diagnostic odyssey”; gaps in data, investment and regulatory pathways; and the financial and structural challenges that limit progress in rare conditions. They also explore the growing role of parents as advocates and innovators, the case for a national rare disease champion, and why a more joined-up approach across government, regulators, industry and charities is essential to delivering faster diagnoses and access to life-changing therapies. This New Statesman podcast episode has been fully funded by LifeArc. Find out more about LifeArc’s Taskforce Report and recommendations. SAVE £££ THIS CHRISTMAS: ⭐️ Gift big ideas, bold politics, and proper journalism from just £2 LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772292334219-7dc4bf05-cb33-4baa-98d3-823088b35311.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69a30850e1cf48c7c1ef5cc9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30650667",
+      "itunes_duration": "21:16",
+      "speakers": [
+        "Rare Disease Day",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "disease",
+        "experience",
+        "treatment",
+        "sponsored"
+      ]
+    },
     {
       "key": "83e7b37329c9e7074a15882659fe159ff7456e07",
       "title": "\"I'll handle a sea bass however I like\" | Anoosh & Will's weekly round-up",
@@ -30246,6 +30269,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-01 — Rare diseases: from lived experience to lasting treatments | Sponsored — speakers: Rare Disease Day, Anoosh Chakelian, Oli Dugmore
 - 2026-02-28 — "I'll handle a sea bass however I like" | Anoosh & Will's weekly round-up — speakers: Martin Lewis, Anoosh Chakelian, Oli Dugmore
 - 2026-02-27 — The end of the Starmer project? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-02-27 — Historic win for the Greens — speakers: Hannah Spencer, Anoosh Chakelian, Oli Dugmore

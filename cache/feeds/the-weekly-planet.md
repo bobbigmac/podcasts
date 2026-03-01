@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-03-01T03:23:32+00:00`
-- checked_at: `2026-03-01T03:23:32+00:00`
-- etag: `"djEuMi4wOjE3NzIzMTkxMTMzMDc="`
+- fetched_at: `2026-03-01T07:04:14+00:00`
+- checked_at: `2026-03-01T07:04:14+00:00`
+- etag: `"djEuMi4wOjE3NzIzMzU4MzkyNTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-03-01T03:23:32+00:00",
+  "fetched_at": "2026-03-01T07:04:14+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d1eeb27ac03b26e76baf64fbf937cde6e703e826",
+      "title": "612 Scream 7 & Paramount Wins Warner Bros",
+      "published_at": "2026-03-01T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/612-scream-7-paramount-wins-warner-bros",
+      "description": "In a disappointing turn of events Paramount, a company purchased by ghouls, has now squashed the Netflix deal to buy Warner Brothers. We get into all that this could mean for both companies and the industry in general. Plus we review Scre7m, talk the passing of sci-fi legend Rob Grant, two very different GI Joe movies in development, the first look at Amazon’s God of War live action series, a trailer for Mortal Kombat II and a reboot for SPUMM (the Sony Pictures Universe of Marvel Movies). Thanks for listening! New audio AND video versions of Booque Clubbe out now! James & Maso review 'The Star Wars' comic run on https://bigsandwich.co/ Watch Nick Mason on the Zach & Mish Podcast right here https://www.youtube.com/watch?v=8jgYQhAkdTk PLEASE be aware timecodes may shift up to a few minutes due to inserted ads. 00:00 The Start 11:59 RIP Rob Grant 18:17 Paramount Beats Netflix for Warner Bros 28:59 Max Landis GI Joe Reboot 33:13 God of Wars Series First Look 36:57 Mortal Kombat 2 Trailer 37:15 Venom Animated Movie Announced 39:44 SPUMM Forever! 45:16 Scream 7 Movie Review 56:34 Scream 7 Spoiler Segment 01:08:15 What We Reading, What We Gonna Read 01:16:04 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69a308ebe1cf48c7c1ef76b8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "147524367",
+      "itunes_duration": "1:42:26",
+      "speakers": [
+        "Paramount Wins Warner Bros",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "scream",
+        "paramount",
+        "wins",
+        "warner",
+        "bros"
+      ]
+    },
     {
       "key": "d2ca882642c38562a7948fe413483fb7164f9c82",
       "title": "Sherlock Holmes - Caravan Of Garbage",
@@ -21792,6 +21816,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-01 — 612 Scream 7 & Paramount Wins Warner Bros — speakers: Paramount Wins Warner Bros, James Clement, Nick Mason
 - 2026-02-26 — Sherlock Holmes - Caravan Of Garbage — speakers: Holmes Caravan, James Clement, Nick Mason
 - 2026-02-23 — 611 Best/Worst Crossovers & Wuthering Heights — speakers: Worst Crossovers, James Clement, Nick Mason
 - 2026-02-19 — Return of the Jedi - Caravan Of Garbage — speakers: James Clement, Nick Mason

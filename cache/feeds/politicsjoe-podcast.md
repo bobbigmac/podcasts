@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-02-28T06:57:20+00:00`
-- checked_at: `2026-02-28T06:57:20+00:00`
-- etag: `"djEuMi4wOjE3NzIyNTg0Mzk1Nzg="`
+- fetched_at: `2026-03-01T07:04:14+00:00`
+- checked_at: `2026-03-01T07:04:14+00:00`
+- etag: `"djEuMi4wOjE3NzIzNDQ4Mzk0ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-02-28T06:57:20+00:00",
+  "fetched_at": "2026-03-01T07:04:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "31a87627a95aa269fc453c4b99b4ba1cbf9b71a2",
+      "title": "Palantir is taking over Britain. This is how | Martin Wrigley interview",
+      "published_at": "2026-03-01T06:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69a1d6991432e4060347d899",
+      "description": "Laura is joined by Lib Dem MP Martin Wrigley to find out just how deep Palantir's influence stretches in British society, including in the NHS, the MOD, and even the police. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69a1d6991432e4060347d899/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37178343",
+      "itunes_duration": "25:44",
+      "speakers": [
+        "Martin Wrigley",
+        "Lib Dem"
+      ],
+      "topics": [
+        "palantir",
+        "britain",
+        "martin",
+        "wrigley"
+      ]
+    },
     {
       "key": "10f25039f0e72b988dd01709a6b0e5d049a09427",
       "title": "Can anyone stop the Green Party's surge? Rachel Millward interview",
@@ -11741,6 +11763,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-01 — Palantir is taking over Britain. This is how | Martin Wrigley interview — speakers: Martin Wrigley, Lib Dem
 - 2026-02-28 — Can anyone stop the Green Party's surge? Rachel Millward interview — speakers: Rachel Millward
 - 2026-02-26 — What should we replace the monarchy with? Q&A special
 - 2026-02-25 — Fact-checking Keir Starmer's Student Loans claims at PMQs
