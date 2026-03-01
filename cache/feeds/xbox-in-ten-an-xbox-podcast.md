@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `"0de4a02164c1668f3b7cb6c8faa5e105"`
-- last_modified: `Fri, 20 Feb 2026 22:27:15 GMT`
+- fetched_at: `2026-03-01T21:35:41+00:00`
+- checked_at: `2026-03-01T21:35:41+00:00`
+- etag: `"3a17bf5baad09aaba9196acb948d015e"`
+- last_modified: `Sun, 01 Mar 2026 19:12:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-03-01T21:35:41+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -4170,7 +4170,6 @@
         "Monster Hunter Rise Review",
         "Hour Single Player",
         "Hour Single Player Point",
-        "Pass If",
         "Brandon Rosa"
       ],
       "topics": [
@@ -8858,7 +8857,6 @@
       "enclosure_length": "7418620",
       "itunes_duration": "03:52",
       "speakers": [
-        "Every Monday",
         "Brandon Rosa"
       ],
       "topics": [
@@ -9036,7 +9034,7 @@
 - 2023-02-06 — Is a Smaller 343 Industries Making the Next Halo Game in Unreal? - (Xbox In Ten - Ep. 193) — speakers: Industries Making, Next Halo Game, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2023-01-30 — Xbox & Bethesda Developer_Direct Showcase Summary - (Xbox In Ten - Ep. 192) — speakers: Showcase Summary, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2023-01-23 — Microsoft Layoffs Hit Multiple Xbox Game Studios & Joseph Staten Leaves Halo - (Xbox In Ten - Ep. 191) — speakers: Joseph Staten, Brandon Rosa
-- 2023-01-17 — Monster Hunter Rise Review: A 24 Hour Single Player POV - (Xbox in Ten Podcast Review) — speakers: Monster Hunter Rise Review, Hour Single Player, Hour Single Player Point, Pass If, Brandon Rosa
+- 2023-01-17 — Monster Hunter Rise Review: A 24 Hour Single Player POV - (Xbox in Ten Podcast Review) — speakers: Monster Hunter Rise Review, Hour Single Player, Hour Single Player Point, Brandon Rosa
 - 2023-01-16 — Xbox & Bethesda to Present Developer_Direct Livestream on January 25 - (Xbox In Ten - Ep. 190) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2023-01-09 — Bethesda Reiterates Starfield's Release in First Half of 2023 - (Xbox In Ten - Ep. 189) — speakers: Reiterates Starfield, Brandon Rosa
 - 2023-01-02 — Xbox Game Pass 2023 Games List & Release Dates - (Xbox In Ten - Ep. 188) — speakers: Xbox Game Pass, Brandon Rosa
@@ -9227,4 +9225,4 @@
 - 2019-06-17 — E3 2019 Xbox News Blowout - (Xbox In Ten - Ep. 3) — speakers: Xbox News Blowout, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2019-06-10 — Destiny 2 Cross Saves, Free to Play & New Expansion - (Xbox In Ten - Ep. 2) — speakers: Cross Saves, New Expansion, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2019-06-03 — Call of Duty Modern Warfare Reboot - (Xbox In Ten - Ep. 1) — speakers: Duty Modern Warfare Reboot, Xbox Gaming News, Fun Fact, Brandon Rosa
-- 2019-06-03 — Welcome To The Xbox In Ten Podcast — speakers: Every Monday, Brandon Rosa
+- 2019-06-03 — Welcome To The Xbox In Ten Podcast — speakers: Brandon Rosa
