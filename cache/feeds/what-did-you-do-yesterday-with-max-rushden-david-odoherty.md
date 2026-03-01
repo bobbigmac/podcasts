@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-02-26T03:11:10+00:00`
-- checked_at: `2026-02-26T03:11:10+00:00`
-- last_modified: `Wed, 25 Feb 2026 23:35:45 GMT`
+- fetched_at: `2026-03-01T03:23:32+00:00`
+- checked_at: `2026-03-01T03:23:32+00:00`
+- last_modified: `Sun, 01 Mar 2026 01:43:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-26T03:11:10+00:00",
+  "fetched_at": "2026-03-01T03:23:32+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "62e58dedbfcdfd3cc55560b28495c10933a7bb43",
+      "title": "S4 EP9: Marjolein Robertson",
+      "published_at": "2026-03-01T01:30:00+00:00",
+      "link": null,
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the brilliant comedian - Marjolein Robertson We asked Marjolein what she did yesterday? She told us. That's it... enjoy! Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0b45db8a-150a-11f1-844e-9b391133730e/image/7209ec326b1e02931fbaf342d1c90574.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4335968281.mp3?updated=1772328597",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6949",
+      "speakers": [
+        "Marjolein Robertson",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "marjolein",
+        "robertson"
+      ]
+    },
     {
       "key": "6634ca0a5c7cde45d68dff7436521f0581e232ba",
       "title": "WDWDY #60: Yesterday waits for no man",
@@ -2930,6 +2951,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-01 — S4 EP9: Marjolein Robertson — speakers: Marjolein Robertson, Max Rushden, David O'Doherty
 - 2026-02-25 — WDWDY #60: Yesterday waits for no man — speakers: Max Rushden, David O'Doherty
 - 2026-02-22 — S4 EP8: Fern Brady — speakers: Max Rushden, David O'Doherty
 - 2026-02-18 — WDWDY #59: Fun Facts and Days Before — speakers: Max Rushden, David O'Doherty

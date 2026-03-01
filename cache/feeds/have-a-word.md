@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-02-23T03:19:38+00:00`
-- checked_at: `2026-02-23T03:19:38+00:00`
-- etag: `"djEuMi4wOjE3NzE4MDU0MzkzNjU="`
+- fetched_at: `2026-03-01T03:23:32+00:00`
+- checked_at: `2026-03-01T03:23:32+00:00`
+- etag: `"djEuMi4wOjE3NzIzMjQ1MjY5OTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-02-23T03:19:38+00:00",
+  "fetched_at": "2026-03-01T03:23:32+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -39,12 +39,9 @@
       "enclosure_length": "345512738",
       "itunes_duration": "2:23:57",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Carl's Hip-Ho",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "alfie",
@@ -66,10 +63,7 @@
       "enclosure_length": "335192736",
       "itunes_duration": "2:19:39",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Dan Tiernan",
-        "Lockdown Lock-ins",
+        "Dan Carl's Hip-Ho",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -92,9 +86,7 @@
       "enclosure_length": "315034656",
       "itunes_duration": "2:11:15",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
+        "Dan Carl's Hip-Ho",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -117,9 +109,7 @@
       "enclosure_length": "312593411",
       "itunes_duration": "2:10:14",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
+        "Dan Carl's Hip-Ho",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -142,9 +132,7 @@
       "enclosure_length": "179773033",
       "itunes_duration": "2:01:55",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
+        "Dan Carl's Hip-Ho",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -168,9 +156,7 @@
       "enclosure_length": "308542172",
       "itunes_duration": "2:08:33",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
+        "Dan Carl's Hip-Ho",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -194,9 +180,7 @@
       "enclosure_length": "378114338",
       "itunes_duration": "2:37:32",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
+        "Dan Carl's Hip-Ho",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -220,9 +204,7 @@
       "enclosure_length": "345953374",
       "itunes_duration": "2:24:08",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
+        "Dan Carl's Hip-Ho",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -246,9 +228,7 @@
       "enclosure_length": "356847460",
       "itunes_duration": "2:28:40",
       "speakers": [
-        "Dan Carl's Hip-Hop Night",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
+        "Dan Carl's Hip-Ho",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -272,8 +252,7 @@
       "enclosure_length": "344402974",
       "itunes_duration": "2:23:29",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
+        "Red Richardson",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -296,8 +275,6 @@
       "enclosure_length": "217549254",
       "itunes_duration": "2:26:51",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -322,8 +299,6 @@
       "itunes_duration": "2:10:49",
       "speakers": [
         "Ray Bradshaw",
-        "tv senseicarl",
-        "Lockdown Lock-ins",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -346,10 +321,8 @@
       "enclosure_length": "368624740",
       "itunes_duration": "2:33:35",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jessie",
@@ -371,10 +344,8 @@
       "enclosure_length": "213189732",
       "itunes_duration": "2:25:16",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "mike",
@@ -396,8 +367,6 @@
       "enclosure_length": "194171040",
       "itunes_duration": "2:14:50",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -421,8 +390,6 @@
       "enclosure_length": "182473630",
       "itunes_duration": "2:06:42",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -445,8 +412,6 @@
       "enclosure_length": "209912544",
       "itunes_duration": "2:25:45",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -470,10 +435,8 @@
       "enclosure_length": "193817954",
       "itunes_duration": "2:14:35",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "seann",
@@ -495,10 +458,8 @@
       "enclosure_length": "213547713",
       "itunes_duration": "2:28:17",
       "speakers": [
-        "tv senseicarl",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "stade",
@@ -519,9 +480,8 @@
       "enclosure_length": "204449795",
       "itunes_duration": "2:21:58",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "hutchby",
@@ -542,9 +502,8 @@
       "enclosure_length": "203204483",
       "itunes_duration": "2:21:06",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "mark",
@@ -566,7 +525,6 @@
       "enclosure_length": "191957649",
       "itunes_duration": "2:07:34",
       "speakers": [
-        "Lockdown Lock-ins",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -589,10 +547,9 @@
       "enclosure_length": "199321671",
       "itunes_duration": "2:18:24",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Sandro Ford",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "sandro",
@@ -614,10 +571,8 @@
       "enclosure_length": "191314691",
       "itunes_duration": "2:12:51",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "phil",
@@ -639,11 +594,8 @@
       "enclosure_length": "195172163",
       "itunes_duration": "2:15:31",
       "speakers": [
-        "Manchester Tickets",
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "joey",
@@ -665,11 +617,8 @@
       "enclosure_length": "179638597",
       "itunes_duration": "2:04:44",
       "speakers": [
-        "Manchester Tickets",
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "eshaan",
@@ -691,10 +640,8 @@
       "enclosure_length": "202728707",
       "itunes_duration": "2:20:46",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "freddy",
@@ -716,10 +663,8 @@
       "enclosure_length": "199205315",
       "itunes_duration": "2:18:19",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "abby",
@@ -741,10 +686,9 @@
       "enclosure_length": "192300801",
       "itunes_duration": "2:13:32",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Callum Oakley",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "callum",
@@ -766,10 +710,8 @@
       "enclosure_length": "195480901",
       "itunes_duration": "2:15:44",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "hatty",
@@ -793,10 +735,8 @@
       "enclosure_length": "204381247",
       "itunes_duration": "2:21:55",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "marler",
@@ -817,10 +757,8 @@
       "enclosure_length": "209845187",
       "itunes_duration": "2:25:43",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "mike",
@@ -842,10 +780,8 @@
       "enclosure_length": "222130693",
       "itunes_duration": "2:34:15",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "william",
@@ -867,10 +803,9 @@
       "enclosure_length": "175762111",
       "itunes_duration": "2:02:03",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Carl Tickets",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -890,10 +825,8 @@
       "enclosure_length": "204809797",
       "itunes_duration": "2:22:13",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "danny",
@@ -915,10 +848,8 @@
       "enclosure_length": "198461125",
       "itunes_duration": "2:17:48",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "minah",
@@ -940,10 +871,9 @@
       "enclosure_length": "208099905",
       "itunes_duration": "2:24:30",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dom Joly",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "joly",
@@ -964,10 +894,8 @@
       "enclosure_length": "198712836",
       "itunes_duration": "2:17:59",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "gianmarco",
@@ -989,10 +917,10 @@
       "enclosure_length": "217173636",
       "itunes_duration": "2:30:48",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Nick Helm",
+        "Thomas Green",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "nick",
@@ -1016,10 +944,8 @@
       "enclosure_length": "229677000",
       "itunes_duration": "2:35:01",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveawordpod Lovehoney",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "tallent",
@@ -1040,9 +966,8 @@
       "enclosure_length": "202271372",
       "itunes_duration": "2:20:27",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "michelle",
@@ -1065,9 +990,8 @@
       "itunes_duration": "2:30:04",
       "speakers": [
         "Carl Finn Tickets",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "kyla",
@@ -1091,10 +1015,8 @@
       "itunes_duration": "2:33:51",
       "speakers": [
         "Carl Finn Murderers Row",
-        "Lockdown Lock-ins",
-        "Download Saily",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jarlath",
@@ -1118,9 +1040,8 @@
       "itunes_duration": "1:52:48",
       "speakers": [
         "Carl Finn Murderers Row",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -1141,10 +1062,8 @@
       "enclosure_length": "199833732",
       "itunes_duration": "2:18:46",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "josh",
@@ -1166,10 +1085,9 @@
       "enclosure_length": "202653830",
       "itunes_duration": "2:20:43",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Paddy McDonnell",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "paddy",
@@ -1191,10 +1109,8 @@
       "enclosure_length": "210314628",
       "itunes_duration": "2:26:02",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "marc",
@@ -1216,10 +1132,8 @@
       "enclosure_length": "213991814",
       "itunes_duration": "2:28:35",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "james",
@@ -1241,10 +1155,9 @@
       "enclosure_length": "218674657",
       "itunes_duration": "2:31:51",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Iain Stirling",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "iain",
@@ -1266,10 +1179,8 @@
       "enclosure_length": "209513955",
       "itunes_duration": "2:25:29",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "gabby",
@@ -1291,10 +1202,8 @@
       "enclosure_length": "196115617",
       "itunes_duration": "2:16:11",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jack",
@@ -1316,10 +1225,8 @@
       "enclosure_length": "218106147",
       "itunes_duration": "2:31:27",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jonny",
@@ -1341,10 +1248,8 @@
       "enclosure_length": "193529381",
       "itunes_duration": "2:14:23",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "sophie",
@@ -1368,11 +1273,8 @@
       "enclosure_length": "203086371",
       "itunes_duration": "2:21:01",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "micky",
@@ -1394,11 +1296,8 @@
       "enclosure_length": "192525407",
       "itunes_duration": "2:13:41",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "mulholland",
@@ -1419,11 +1318,8 @@
       "enclosure_length": "204557475",
       "itunes_duration": "2:22:02",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "chris",
@@ -1447,11 +1343,8 @@
       "enclosure_length": "223738275",
       "itunes_duration": "2:35:22",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "grado",
@@ -1474,13 +1367,8 @@
       "enclosure_length": "213936483",
       "itunes_duration": "2:28:33",
       "speakers": [
-        "Karaoke Party",
-        "Elliot's Special",
-        "gSwW nCeoIL",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "elliot",
@@ -1504,11 +1392,8 @@
       "enclosure_length": "205064355",
       "itunes_duration": "2:22:24",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "daniel",
@@ -1530,11 +1415,8 @@
       "enclosure_length": "223373095",
       "itunes_duration": "2:35:06",
       "speakers": [
-        "Karaoke Party",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "russell",
@@ -1556,10 +1438,8 @@
       "enclosure_length": "207494499",
       "itunes_duration": "2:24:05",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "gbemi",
@@ -1583,10 +1463,8 @@
       "enclosure_length": "179333285",
       "itunes_duration": "2:04:31",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "lids",
@@ -1607,10 +1485,8 @@
       "enclosure_length": "199381539",
       "itunes_duration": "2:18:27",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jacob",
@@ -1632,10 +1508,8 @@
       "enclosure_length": "197566555",
       "itunes_duration": "2:17:11",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "paul",
@@ -1657,10 +1531,8 @@
       "enclosure_length": "196391525",
       "itunes_duration": "2:16:22",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "julian",
@@ -1682,10 +1554,8 @@
       "enclosure_length": "180997921",
       "itunes_duration": "2:05:41",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "john",
@@ -1709,10 +1579,8 @@
       "enclosure_length": "184034019",
       "itunes_duration": "2:07:47",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jamie",
@@ -1734,10 +1602,8 @@
       "enclosure_length": "209686177",
       "itunes_duration": "2:25:36",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "rhys",
@@ -1759,10 +1625,8 @@
       "enclosure_length": "191269729",
       "itunes_duration": "2:12:49",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "john",
@@ -1784,10 +1648,8 @@
       "enclosure_length": "198087880",
       "itunes_duration": "2:17:33",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jamali",
@@ -1809,10 +1671,9 @@
       "enclosure_length": "225821124",
       "itunes_duration": "2:36:48",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Tiff Stevenson",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "tiff",
@@ -1834,10 +1695,9 @@
       "enclosure_length": "221817346",
       "itunes_duration": "2:34:02",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Alfie Brown",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "alfie",
@@ -1859,10 +1719,8 @@
       "enclosure_length": "203639366",
       "itunes_duration": "2:21:24",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "grace",
@@ -1884,10 +1742,8 @@
       "enclosure_length": "208553218",
       "itunes_duration": "2:24:49",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "humphries",
@@ -1908,10 +1764,8 @@
       "enclosure_length": "220555912",
       "itunes_duration": "2:33:09",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "taylor",
@@ -1933,10 +1787,8 @@
       "enclosure_length": "219765634",
       "itunes_duration": "2:32:36",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "gabby",
@@ -1958,10 +1810,8 @@
       "enclosure_length": "238817416",
       "itunes_duration": "2:45:50",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "eshaan",
@@ -1985,10 +1835,8 @@
       "enclosure_length": "226047492",
       "itunes_duration": "2:36:58",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "stef",
@@ -2009,10 +1857,8 @@
       "enclosure_length": "225430596",
       "itunes_duration": "2:36:32",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "russell",
@@ -2036,10 +1882,8 @@
       "enclosure_length": "212061634",
       "itunes_duration": "2:27:15",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "thomas",
@@ -2061,10 +1905,8 @@
       "enclosure_length": "191461570",
       "itunes_duration": "2:12:57",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "taylor",
@@ -2085,10 +1927,8 @@
       "enclosure_length": "203472322",
       "itunes_duration": "2:21:17",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "alex",
@@ -2110,10 +1950,8 @@
       "enclosure_length": "188496898",
       "itunes_duration": "2:10:53",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "thomas",
@@ -2134,10 +1972,8 @@
       "enclosure_length": "200705220",
       "itunes_duration": "2:19:22",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "shem",
@@ -2159,10 +1995,8 @@
       "enclosure_length": "240153728",
       "itunes_duration": "2:46:46",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "vittorio",
@@ -2186,10 +2020,8 @@
       "enclosure_length": "221223653",
       "itunes_duration": "2:27:54",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "lucas",
@@ -2211,10 +2043,8 @@
       "enclosure_length": "194378440",
       "itunes_duration": "2:14:58",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "justin",
@@ -2236,10 +2066,8 @@
       "enclosure_length": "194611724",
       "itunes_duration": "2:15:08",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "michelle",
@@ -2261,10 +2089,8 @@
       "enclosure_length": "218019206",
       "itunes_duration": "2:31:23",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "diona",
@@ -2288,10 +2114,8 @@
       "speakers": [
         "John Lynn",
         "Brennan Reece Guest Host",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "john",
@@ -2318,10 +2142,8 @@
       "itunes_duration": "2:32:50",
       "speakers": [
         "Hatty Preston",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "hatty",
@@ -2343,10 +2165,8 @@
       "enclosure_length": "302658778",
       "itunes_duration": "2:33:43",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "tommyinnit",
@@ -2367,10 +2187,8 @@
       "enclosure_length": "198549288",
       "itunes_duration": "2:17:52",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "stone",
@@ -2391,10 +2209,8 @@
       "enclosure_length": "285170816",
       "itunes_duration": "2:25:33",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "chris",
@@ -2416,10 +2232,8 @@
       "enclosure_length": "203804286",
       "itunes_duration": "2:21:31",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -2439,10 +2253,8 @@
       "enclosure_length": "202604786",
       "itunes_duration": "2:20:41",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "richardson",
@@ -2463,10 +2275,8 @@
       "enclosure_length": "172004370",
       "itunes_duration": "1:59:26",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -2486,11 +2296,8 @@
       "enclosure_length": "308260610",
       "itunes_duration": "2:40:32",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "simon",
@@ -2512,11 +2319,8 @@
       "enclosure_length": "136759820",
       "itunes_duration": "2:29:36",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "neil",
@@ -2538,14 +2342,8 @@
       "enclosure_length": "230616826",
       "itunes_duration": "2:40:08",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "com freddyquinne",
-        "Eshaan Akbar",
-        "Brennan Reece"
+        "Adam Rowe"
       ],
       "topics": [
         "stars",
@@ -2569,12 +2367,8 @@
       "enclosure_length": "264685844",
       "itunes_duration": "2:17:51",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Jeff Innocent"
+        "Adam Rowe"
       ],
       "topics": [
         "jeff",
@@ -2596,11 +2390,8 @@
       "enclosure_length": "211864346",
       "itunes_duration": "1:50:20",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -2620,12 +2411,8 @@
       "enclosure_length": "267466065",
       "itunes_duration": "2:19:17",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Danny McLoughlin"
+        "Adam Rowe"
       ],
       "topics": [
         "danny",
@@ -2647,12 +2434,8 @@
       "enclosure_length": "273353513",
       "itunes_duration": "2:22:21",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "William Thompson"
+        "Adam Rowe"
       ],
       "topics": [
         "william",
@@ -2674,12 +2457,8 @@
       "enclosure_length": "281941751",
       "itunes_duration": "2:26:50",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Mark Nelson"
+        "Adam Rowe"
       ],
       "topics": [
         "mark",
@@ -2700,12 +2479,8 @@
       "enclosure_length": "192209088",
       "itunes_duration": "2:13:28",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "com freddyquinne"
+        "Adam Rowe"
       ],
       "topics": [
         "hatty",
@@ -2728,12 +2503,8 @@
       "enclosure_length": "257749414",
       "itunes_duration": "2:14:14",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Horatio Gould"
+        "Adam Rowe"
       ],
       "topics": [
         "horatio",
@@ -2754,11 +2525,8 @@
       "enclosure_length": "258025706",
       "itunes_duration": "2:14:22",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "shane",
@@ -2779,13 +2547,8 @@
       "enclosure_length": "272993677",
       "itunes_duration": "2:22:10",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "com TomStade",
-        "com MickFerry"
+        "Adam Rowe"
       ],
       "topics": [
         "stade",
@@ -2807,12 +2570,8 @@
       "enclosure_length": "291128473",
       "itunes_duration": "2:31:37",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Liam Withnail"
+        "Adam Rowe"
       ],
       "topics": [
         "liam",
@@ -2833,11 +2592,8 @@
       "enclosure_length": "261933880",
       "itunes_duration": "2:16:25",
       "speakers": [
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -2857,12 +2613,8 @@
       "itunes_duration": "2:17:47",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Josh Pugh"
+        "Adam Rowe"
       ],
       "topics": [
         "josh",
@@ -2883,13 +2635,8 @@
       "enclosure_length": "251960460",
       "itunes_duration": "2:11:13",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Oobah Butler"
+        "Adam Rowe"
       ],
       "topics": [
         "oobah",
@@ -2911,13 +2658,8 @@
       "itunes_duration": "2:07:51",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Akaash Singh"
+        "Adam Rowe"
       ],
       "topics": [
         "akaash",
@@ -2938,13 +2680,8 @@
       "enclosure_length": "286610581",
       "itunes_duration": "2:29:16",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Laura Smyth"
+        "Adam Rowe"
       ],
       "topics": [
         "laura",
@@ -2965,13 +2702,8 @@
       "enclosure_length": "250033298",
       "itunes_duration": "2:10:13",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Willa White Adam Rowe"
+        "Adam Rowe"
       ],
       "topics": [
         "willa",
@@ -2993,13 +2725,8 @@
       "itunes_duration": "2:04:15",
       "speakers": [
         "Ray Bradshaw",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "com comedyray"
+        "Adam Rowe"
       ],
       "topics": [
         "bradshaw",
@@ -3020,13 +2747,8 @@
       "itunes_duration": "2:10:57",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Danny Davies"
+        "Adam Rowe"
       ],
       "topics": [
         "danny",
@@ -3047,14 +2769,8 @@
       "enclosure_length": "288636028",
       "itunes_duration": "2:30:19",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Mike Rice",
-        "Dan Tiernan"
+        "Adam Rowe"
       ],
       "topics": [
         "tiernan",
@@ -3076,13 +2792,8 @@
       "enclosure_length": "263804221",
       "itunes_duration": "2:17:23",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Marc Jennings"
+        "Adam Rowe"
       ],
       "topics": [
         "marc",
@@ -3104,13 +2815,8 @@
       "itunes_duration": "2:27:41",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "com callumabroad"
+        "Adam Rowe"
       ],
       "topics": [
         "callum",
@@ -3130,13 +2836,8 @@
       "enclosure_length": "275962807",
       "itunes_duration": "2:23:43",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Lindsey Santoro"
+        "Adam Rowe"
       ],
       "topics": [
         "lindsey",
@@ -3157,12 +2858,8 @@
       "enclosure_length": "268222563",
       "itunes_duration": "2:19:41",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jimeoin",
@@ -3183,13 +2880,8 @@
       "itunes_duration": "2:12:46",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Andrew Schulz"
+        "Adam Rowe"
       ],
       "topics": [
         "andrew",
@@ -3210,12 +2902,8 @@
       "enclosure_length": "243071531",
       "itunes_duration": "2:06:35",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "uk Head",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -3235,11 +2923,8 @@
       "itunes_duration": "2:02:59",
       "speakers": [
         "Mark Normand",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "mark",
@@ -3260,12 +2945,8 @@
       "enclosure_length": "288530859",
       "itunes_duration": "2:30:16",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Kane Brown"
+        "Adam Rowe"
       ],
       "topics": [
         "kane",
@@ -3288,11 +2969,8 @@
       "enclosure_length": "286921691",
       "itunes_duration": "2:29:25",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "shuffle",
@@ -3312,12 +2990,8 @@
       "enclosure_length": "251474574",
       "itunes_duration": "2:10:58",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Gabby Bryan"
+        "Adam Rowe"
       ],
       "topics": [
         "gabby",
@@ -3339,12 +3013,8 @@
       "itunes_duration": "2:09:16",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Thomas Green"
+        "Adam Rowe"
       ],
       "topics": [
         "thomas",
@@ -3365,13 +3035,8 @@
       "enclosure_length": "286760384",
       "itunes_duration": "2:29:20",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Jamie Hutchinson",
-        "Rich Wilson"
+        "Adam Rowe"
       ],
       "topics": [
         "jamie",
@@ -3394,11 +3059,8 @@
       "enclosure_length": "260537134",
       "itunes_duration": "2:15:41",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "kate",
@@ -3419,12 +3081,8 @@
       "enclosure_length": "302478989",
       "itunes_duration": "2:37:32",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Barry Dodds"
+        "Adam Rowe"
       ],
       "topics": [
         "barry",
@@ -3447,12 +3105,8 @@
       "enclosure_length": "255246235",
       "itunes_duration": "2:12:56",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Pete Firman"
+        "Adam Rowe"
       ],
       "topics": [
         "pete",
@@ -3473,13 +3127,8 @@
       "enclosure_length": "324564787",
       "itunes_duration": "2:49:02",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Seann Walsh",
-        "Julian Deane"
+        "Adam Rowe"
       ],
       "topics": [
         "seann",
@@ -3502,12 +3151,8 @@
       "enclosure_length": "281735656",
       "itunes_duration": "2:26:43",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Connor Burns"
+        "Adam Rowe"
       ],
       "topics": [
         "connor",
@@ -3529,12 +3174,8 @@
       "itunes_duration": "2:25:18",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Rob Rouse"
+        "Adam Rowe"
       ],
       "topics": [
         "rouse",
@@ -3554,13 +3195,8 @@
       "enclosure_length": "307387869",
       "itunes_duration": "2:40:05",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Brennan Reece",
-        "Steve Bugeja"
+        "Adam Rowe"
       ],
       "topics": [
         "brennan",
@@ -3584,12 +3220,8 @@
       "itunes_duration": "2:09:25",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Janine Harouni"
+        "Adam Rowe"
       ],
       "topics": [
         "janine",
@@ -3610,12 +3242,8 @@
       "enclosure_length": "282936867",
       "itunes_duration": "2:27:21",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "com TomStadeComic"
+        "Adam Rowe"
       ],
       "topics": [
         "stade",
@@ -3635,12 +3263,8 @@
       "enclosure_length": "236287693",
       "itunes_duration": "2:03:03",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Stephen Bailey"
+        "Adam Rowe"
       ],
       "topics": [
         "stephen",
@@ -3662,11 +3286,8 @@
       "itunes_duration": "2:21:54",
       "speakers": [
         "Daniel Muggleton",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "daniel",
@@ -3688,13 +3309,8 @@
       "itunes_duration": "2:19:12",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Jack Whitehall",
-        "Settle Down"
+        "Adam Rowe"
       ],
       "topics": [
         "stephen",
@@ -3715,13 +3331,8 @@
       "enclosure_length": "288832605",
       "itunes_duration": "2:30:25",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Jack Whitehall",
-        "Settle Down"
+        "Adam Rowe"
       ],
       "topics": [
         "jack",
@@ -3742,12 +3353,8 @@
       "enclosure_length": "273368481",
       "itunes_duration": "2:22:22",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Ari Shaffir"
+        "Adam Rowe"
       ],
       "topics": [
         "shaffir",
@@ -3768,12 +3375,8 @@
       "itunes_duration": "2:39:36",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Mike Rice"
+        "Adam Rowe"
       ],
       "topics": [
         "mike",
@@ -3794,11 +3397,8 @@
       "enclosure_length": "259416639",
       "itunes_duration": "2:15:06",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "michelle",
@@ -3819,12 +3419,8 @@
       "enclosure_length": "289508860",
       "itunes_duration": "2:30:46",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Elliot Steel"
+        "Adam Rowe"
       ],
       "topics": [
         "elliot",
@@ -3845,11 +3441,8 @@
       "enclosure_length": "257982201",
       "itunes_duration": "2:14:21",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "andrew",
@@ -3871,13 +3464,8 @@
       "itunes_duration": "2:19:22",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Luke Kidgell"
+        "Adam Rowe"
       ],
       "topics": [
         "luke",
@@ -3899,13 +3487,8 @@
       "itunes_duration": "2:34:53",
       "speakers": [
         "Jamie Hutchinson",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "com freddyquinne"
+        "Adam Rowe"
       ],
       "topics": [
         "jamie",
@@ -3928,12 +3511,8 @@
       "enclosure_length": "299667774",
       "itunes_duration": "2:36:04",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "ryan",
@@ -3953,13 +3532,8 @@
       "enclosure_length": "275810668",
       "itunes_duration": "2:23:38",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Marise Gaughan"
+        "Adam Rowe"
       ],
       "topics": [
         "marise",
@@ -3980,12 +3554,8 @@
       "enclosure_length": "282659348",
       "itunes_duration": "2:27:12",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "vicky",
@@ -4006,13 +3576,8 @@
       "enclosure_length": "286907483",
       "itunes_duration": "2:29:25",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Jim Jefferies"
+        "Adam Rowe"
       ],
       "topics": [
         "jefferies",
@@ -4032,12 +3597,8 @@
       "enclosure_length": "287620540",
       "itunes_duration": "2:29:47",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "shane",
@@ -4060,13 +3621,8 @@
       "enclosure_length": "252913188",
       "itunes_duration": "2:11:43",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Alfie Brown"
+        "Adam Rowe"
       ],
       "topics": [
         "alfie",
@@ -4087,13 +3643,8 @@
       "enclosure_length": "283848020",
       "itunes_duration": "2:27:49",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Josh Jones"
+        "Adam Rowe"
       ],
       "topics": [
         "josh",
@@ -4115,13 +3666,8 @@
       "itunes_duration": "2:28:12",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Rebecca Goodwin"
+        "Adam Rowe"
       ],
       "topics": [
         "rebecca",
@@ -4142,13 +3688,8 @@
       "enclosure_length": "261652716",
       "itunes_duration": "2:16:16",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Daniel Sloss"
+        "Adam Rowe"
       ],
       "topics": [
         "daniel",
@@ -4169,13 +3710,8 @@
       "enclosure_length": "254804870",
       "itunes_duration": "2:12:42",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Seann Walsh"
+        "Adam Rowe"
       ],
       "topics": [
         "seann",
@@ -4197,13 +3733,8 @@
       "itunes_duration": "2:22:58",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Russell Kane"
+        "Adam Rowe"
       ],
       "topics": [
         "russell",
@@ -4224,11 +3755,8 @@
       "enclosure_length": "261374355",
       "itunes_duration": "2:16:07",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "humphries",
@@ -4248,11 +3776,8 @@
       "enclosure_length": "304989234",
       "itunes_duration": "2:38:50",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "freddy",
@@ -4273,11 +3798,8 @@
       "enclosure_length": "245428822",
       "itunes_duration": "2:07:49",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -4296,12 +3818,8 @@
       "enclosure_length": "277715725",
       "itunes_duration": "2:24:38",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Tom Houghton"
+        "Adam Rowe"
       ],
       "topics": [
         "houghton",
@@ -4321,12 +3839,8 @@
       "enclosure_length": "292300212",
       "itunes_duration": "2:32:14",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Paul Smith"
+        "Adam Rowe"
       ],
       "topics": [
         "paul",
@@ -4347,12 +3861,8 @@
       "enclosure_length": "233248822",
       "itunes_duration": "2:41:53",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Vittorio Angelone"
+        "Adam Rowe"
       ],
       "topics": [
         "vittorio",
@@ -4374,12 +3884,8 @@
       "itunes_duration": "2:24:21",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Jamie Webster"
+        "Adam Rowe"
       ],
       "topics": [
         "jamie",
@@ -4401,12 +3907,8 @@
       "itunes_duration": "2:23:57",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Carl Donnelly"
+        "Adam Rowe"
       ],
       "topics": [
         "carl",
@@ -4427,12 +3929,8 @@
       "enclosure_length": "214948273",
       "itunes_duration": "2:29:11",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "greekcomedian Learn"
+        "Adam Rowe"
       ],
       "topics": [
         "george",
@@ -4455,11 +3953,8 @@
       "enclosure_length": "183816971",
       "itunes_duration": "2:07:34",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -4478,11 +3973,8 @@
       "enclosure_length": "208757882",
       "itunes_duration": "2:24:53",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "jonny",
@@ -4503,12 +3995,8 @@
       "enclosure_length": "209121575",
       "itunes_duration": "2:25:08",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Alfie Brown"
+        "Adam Rowe"
       ],
       "topics": [
         "alfie",
@@ -4529,12 +4017,8 @@
       "enclosure_length": "208735185",
       "itunes_duration": "2:24:52",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Fin Taylor"
+        "Adam Rowe"
       ],
       "topics": [
         "taylor",
@@ -4554,11 +4038,8 @@
       "enclosure_length": "195676211",
       "itunes_duration": "2:15:48",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -4577,13 +4058,8 @@
       "enclosure_length": "216566113",
       "itunes_duration": "2:30:18",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Colum Tyrrell"
+        "Adam Rowe"
       ],
       "topics": [
         "colum",
@@ -4604,13 +4080,8 @@
       "enclosure_length": "219513328",
       "itunes_duration": "2:32:21",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Helen Bauer"
+        "Adam Rowe"
       ],
       "topics": [
         "helen",
@@ -4631,13 +4102,8 @@
       "enclosure_length": "199965410",
       "itunes_duration": "2:18:47",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Mark Watson"
+        "Adam Rowe"
       ],
       "topics": [
         "mark",
@@ -4658,13 +4124,8 @@
       "enclosure_length": "196987442",
       "itunes_duration": "2:16:42",
       "speakers": [
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Doug Stanhope"
+        "Adam Rowe"
       ],
       "topics": [
         "doug",
@@ -4686,13 +4147,8 @@
       "itunes_duration": "2:10:20",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Joanne McNally"
+        "Adam Rowe"
       ],
       "topics": [
         "joanne",
@@ -4713,13 +4169,8 @@
       "enclosure_length": "139024252",
       "itunes_duration": "2:24:41",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "michelle",
@@ -4740,14 +4191,8 @@
       "enclosure_length": "215541811",
       "itunes_duration": "2:29:36",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
         "Dan Nightingale",
-        "com mickferry"
+        "Adam Rowe"
       ],
       "topics": [
         "mick",
@@ -4768,13 +4213,8 @@
       "enclosure_length": "159943210",
       "itunes_duration": "1:50:59",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "word",
@@ -4793,14 +4233,8 @@
       "enclosure_length": "217501942",
       "itunes_duration": "2:30:57",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Phil Chapman"
+        "Adam Rowe"
       ],
       "topics": [
         "phil",
@@ -4821,14 +4255,8 @@
       "enclosure_length": "230106896",
       "itunes_duration": "2:39:43",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
         "Dan Nightingale",
-        "Eshaan Akbar"
+        "Adam Rowe"
       ],
       "topics": [
         "hayley",
@@ -4849,13 +4277,8 @@
       "enclosure_length": "228828861",
       "itunes_duration": "2:38:49",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "freddy",
@@ -4876,13 +4299,8 @@
       "enclosure_length": "225921985",
       "itunes_duration": "2:36:48",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "alun",
@@ -4903,13 +4321,8 @@
       "enclosure_length": "224465774",
       "itunes_duration": "2:35:47",
       "speakers": [
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "whitehead",
@@ -4930,13 +4343,8 @@
       "itunes_duration": "2:24:31",
       "speakers": [
         "Adam Dan",
-        "Lockdown Lock-ins",
-        "Sensei Carl",
-        "haveaword Grab",
-        "Stitch Fix",
-        "Pact Coffee",
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "kane",
@@ -4978,6 +4386,8 @@
       "enclosure_length": "201930617",
       "itunes_duration": "2:20:09",
       "speakers": [
+        "Thomas Green",
+        "Alfie Brown",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -5044,6 +4454,7 @@
       "enclosure_length": "226786842",
       "itunes_duration": "2:37:24",
       "speakers": [
+        "Romesh Ranganathan",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -5066,6 +4477,7 @@
       "enclosure_length": "233147120",
       "itunes_duration": "2:41:50",
       "speakers": [
+        "Shane Todd",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -5111,6 +4523,7 @@
       "enclosure_length": "241662206",
       "itunes_duration": "2:47:44",
       "speakers": [
+        "Shane Gillis",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -5223,6 +4636,7 @@
       "enclosure_length": "220878107",
       "itunes_duration": "2:33:18",
       "speakers": [
+        "Callum Oakley",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -5289,9 +4703,6 @@
       "enclosure_length": "170213286",
       "itunes_duration": "1:58:07",
       "speakers": [
-        "Phil Nichol",
-        "Dean Coughlin",
-        "Eshaan Akbar",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -5312,9 +4723,6 @@
       "enclosure_length": "233896993",
       "itunes_duration": "2:42:21",
       "speakers": [
-        "Phil Nichol",
-        "Dean Coughlin",
-        "Eshaan Akbar",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -5892,6 +5300,7 @@
       "enclosure_length": "222357769",
       "itunes_duration": "2:34:20",
       "speakers": [
+        "Loyiso Gola",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -5936,6 +5345,7 @@
       "enclosure_length": "238680119",
       "itunes_duration": "2:45:40",
       "speakers": [
+        "Helen Bauer",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -6003,6 +5413,7 @@
       "enclosure_length": "235664509",
       "itunes_duration": "2:43:34",
       "speakers": [
+        "Rosie Holt",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -6156,6 +5567,7 @@
       "enclosure_length": "255623615",
       "itunes_duration": "2:57:26",
       "speakers": [
+        "Milo McCabe",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -6765,7 +6177,6 @@
       "enclosure_length": "183283704",
       "itunes_duration": "2:32:38",
       "speakers": [
-        "Kai Humphries",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -7092,7 +6503,7 @@
       "enclosure_length": "105910278",
       "itunes_duration": "1:13:28",
       "speakers": [
-        "samaritans org",
+        "Mental Health Special If",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -7251,7 +6662,6 @@
       "enclosure_length": "182396482",
       "itunes_duration": "2:31:54",
       "speakers": [
-        "YouTube com haveawordpod Learn",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -7276,7 +6686,6 @@
       "itunes_duration": "1:35:04",
       "speakers": [
         "Sensei Carl",
-        "YouTube com haveawordpod Learn",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -7299,7 +6708,7 @@
       "enclosure_length": "145898725",
       "itunes_duration": "2:01:29",
       "speakers": [
-        "YouTube com haveawordpod Learn",
+        "Justin Moorhouse",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -7323,6 +6732,7 @@
       "enclosure_length": "113866465",
       "itunes_duration": "1:19:00",
       "speakers": [
+        "Dan Thanks",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -7966,7 +7376,6 @@
       "enclosure_length": "35428378",
       "itunes_duration": "24:31",
       "speakers": [
-        "Shutdown Dailys",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -8125,7 +7534,7 @@
       "speakers": [
         "Shutdown Pod",
         "Dan Sorry",
-        "Vauxhall Comedy Club",
+        "Vauxhall Com",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -8524,7 +7933,8 @@
       "enclosure_length": "88411420",
       "itunes_duration": "1:13:35",
       "speakers": [
-        "Vauxhall Comedy Club",
+        "Shutdown Pod",
+        "Dan Follow",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -8568,7 +7978,8 @@
       "enclosure_length": "91991258",
       "itunes_duration": "1:16:34",
       "speakers": [
-        "Vauxhall Comedy Club",
+        "Shutdown Pod",
+        "Dan Adam",
         "Dan Nightingale",
         "Adam Rowe"
       ],
@@ -8702,8 +8113,9 @@
       "enclosure_length": "88468949",
       "itunes_duration": "1:13:38",
       "speakers": [
-        "Adam Rowe",
-        "Dan Nightingale"
+        "Adam Rowe li",
+        "Dan Nightingale",
+        "Adam Rowe"
       ],
       "topics": [
         "shutdown",
@@ -9104,213 +8516,213 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — #369 with Alfie Brown - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2026-02-16 — #368 with Dan Tiernan - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Dan Tiernan, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2026-02-09 — #367 with Tom Davis - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2026-02-02 — #366 with The Boys - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2026-01-26 — #365 with Andrew Mensah - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2026-01-19 — #364 with Eleanor Tiernan - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2026-01-12 — #363 with Laura Smyth - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2026-01-05 — #362 with Thomas Green - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-12-29 — #361 with Rachel Fairburn - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Hop Night, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-12-22 — #360 with Red Richardson - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-12-15 — #359 with Jimmy Carr - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-12-08 — #358 with Ray Bradshaw - Have A Word w/Adam, Dan & Carl — speakers: Ray Bradshaw, tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-12-01 — #357 with Jessie Cave - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-11-24 — #356 with Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-11-17 — #355 with Andrew Hamilton - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-11-10 — #354 with Sam Morril - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-11-03 — #353 with Vittorio Angelone - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-10-27 — #352 with Seann Walsh - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-10-19 — #351 with Tom Stade - Have A Word w/Adam, Dan & Carl — speakers: tv senseicarl, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-10-12 — #350 with Will Hutchby - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-10-05 — #349 with Mark Nelson - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-09-28 — #348 with Rob Thomas - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Dan Nightingale, Adam Rowe
-- 2025-09-21 — #347 with Sandro Ford - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-09-14 — #346 with Phil Ellis - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-09-07 — #345 with Joey Dardano - Have A Word w/Adam, Dan & Carl — speakers: Manchester Tickets, Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-08-31 — #344 with Eshaan Akbar - Have A Word w/Adam, Dan & Carl — speakers: Manchester Tickets, Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-08-24 — #343 with Freddy Quinne - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-08-17 — #342 with Abby Boom - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-08-10 — #341 with Callum Oakley - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-08-03 — #340 with Hatty Preston & Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-07-27 — #339 with Joe Marler - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-07-20 — #338 with Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-07-13 — #337 with William Thompson - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-07-06 — #336 - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-06-29 — #335 with Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-06-22 — #334 with Minah Shannon - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-06-15 — #333 with Dom Joly - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-06-08 — #332 with Gianmarco Soresi - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-06-01 — #331 with Nick Helm & Thomas Green - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-05-25 — #330 with Sam Tallent - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveawordpod Lovehoney, Adam Rowe, Dan Nightingale
-- 2025-05-18 — #329 with Michelle Shaughnessy - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-05-11 — #328 with Kyla Cobbler - Have A Word w/Adam, Dan, Carl & Finn — speakers: Carl Finn Tickets, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-05-04 — #327 with Jarlath Regan - Have A Word w/Adam, Dan, Carl & Finn — speakers: Carl Finn Murderers Row, Lockdown Lock-ins, Download Saily, Adam Rowe, Dan Nightingale
-- 2025-04-27 — #326 - Have A Word w/Adam, Dan, Carl & Finn — speakers: Carl Finn Murderers Row, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-04-20 — #325 with Josh Jones - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-04-13 — #324 with Paddy McDonnell - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-04-06 — #323 with Marc Jennings - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-03-30 — #322 with James McCann - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-03-24 — #321 with Iain Stirling - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-03-17 — #320 with Gabby Bryan - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-03-10 — #319 with Jack Skipper - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-03-03 — #318 with Jonny Bongo - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-02-24 — #317 with Sophie McCartney & Brennan Reece - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, Adam Rowe, Dan Nightingale
-- 2025-02-17 — #316 with Micky Bartlett - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2025-02-10 — #315 with Rob Mulholland - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2025-02-03 — #314 with Chris McCausland & Alfie Brown - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2025-01-27 — #313 with Grado & Seann Walsh - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2025-01-20 — #312 with Elliot Steel & Hatty Preston - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Elliot's Special, gSwW nCeoIL, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2025-01-13 — #311 with Daniel Sloss - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2025-01-06 — #310 with Russell Howard - Have A Word w/Adam, Dan & Carl — speakers: Karaoke Party, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-12-30 — #309 with Gbemi Oladipo & Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-12-23 — #308 with The Lids - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-12-16 — #307 with Jacob Hawley - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-12-09 — #306 with Paul Smith - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-12-02 — #305 with Julian Deane - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-11-25 — #304 with John Lynn & Danny Mcloughlin - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-11-18 — #303 with Jamie Hutchinson - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-11-11 — #302 with Rhys James - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-11-04 — #301 with John Bishop - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-10-28 — #300 with Jamali Maddix - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-10-20 — #299 with Tiff Stevenson - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-10-13 — #298 with Alfie Brown - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-10-06 — #297 with Grace Campbell - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-09-29 — #296 with Kai Humphries - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-09-22 — #295 with Taylor Ryan - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-09-15 — #294 with Gabby Bryan - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-09-08 — #293 with Eshaan Akbar & Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-09-01 — #292 with Stef Dag - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-08-25 — #291 with Russell Hicks & Danny Mcloughlin - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-08-18 — #290 with Thomas Green - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-08-11 — #289 with Fin Taylor - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-08-04 — #288 with Alex Brooker - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-07-28 — #287 with Rob Thomas - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-07-21 — #286 with Shem Rock - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-07-14 — #285 with Vittorio Angelone & Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-07-07 — #284 with Lucas Zelnick - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-06-30 — #283 with Justin Moorhouse - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-06-23 — #282 with Michelle de Swarte - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-06-16 — #281 with Diona Doherty - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-06-09 — #280 with John Lynn (Brennan Reece GUEST HOST) - Have A Word w/Adam, Dan & Carl — speakers: John Lynn, Brennan Reece Guest Host, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-06-02 — #279 with Hatty Preston - Have A Word w/Adam, Dan & Carl — speakers: Hatty Preston, Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-05-26 — #278 with TommyInnit - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-05-19 — #277 with Ian Stone - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-05-12 — #276 with Chris Kent - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-05-05 — #275 - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-04-28 — #274 with Red Richardson - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-04-21 — #273 - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-04-14 — #272 with Simon Wozniak - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-04-07 — #271 with Neil Delamere - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-03-31 — #270 with HAW All Stars (Eshaan, Freddy & Brennan) - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, com freddyquinne, Eshaan Akbar, Brennan Reece
-- 2024-03-25 — #269 with Jeff Innocent - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Jeff Innocent
-- 2024-03-18 — #268 - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-03-11 — #267 with Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Danny McLoughlin
-- 2024-03-04 — #266 with William Thompson - Have A Word w/Adam, Dan & Carl — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, William Thompson
-- 2024-02-26 — #265 with Mark Nelson - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Mark Nelson
-- 2024-02-19 — #264 with Hatty Preston & Freddy Quinne - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, com freddyquinne
-- 2024-02-12 — #263 with Horatio Gould - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Horatio Gould
-- 2024-02-05 — #262 with Shane Todd - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-01-29 — #261 with Tom Stade & Mick Ferry - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, com TomStade, com MickFerry
-- 2024-01-22 — #260 with Liam Withnail - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Liam Withnail
-- 2024-01-15 — #259 - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2024-01-08 — #258 with Josh Pugh - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Josh Pugh
-- 2024-01-01 — #257 with Oobah Butler - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Oobah Butler
-- 2023-12-25 — #256 with Akaash Singh - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Akaash Singh
-- 2023-12-18 — #255 with Laura Smyth - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Laura Smyth
-- 2023-12-11 — #254 with Willa White - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Willa White Adam Rowe
-- 2023-12-04 — #253 with Ray Bradshaw - Have A Word w/Adam & Dan — speakers: Ray Bradshaw, Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, com comedyray
-- 2023-11-27 — #252 with Danny Davies - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Danny Davies
-- 2023-11-20 — #251 with Dan Tiernan & Mike Rice - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Mike Rice, Dan Tiernan
-- 2023-11-13 — #250 with Marc Jennings - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Marc Jennings
-- 2023-11-06 — #249 with Callum Abroad - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, com callumabroad
-- 2023-10-30 — #248 with Lindsey Santoro - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Lindsey Santoro
-- 2023-10-22 — #247 with Jimeoin - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2023-10-15 — #246 with Andrew Schulz - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale, Andrew Schulz
-- 2023-10-08 — #245 - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, uk Head, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2023-10-01 — #244 with Mark Normand - Have A Word w/Adam & Dan — speakers: Mark Normand, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2023-09-24 — #243 with Kane Brown & Vittorio Angelone - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Kane Brown
-- 2023-09-17 — #242 with Shuffle T - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2023-09-10 — #241 with Gabby Bryan - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Gabby Bryan
-- 2023-09-03 — #240 with Thomas Green - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Thomas Green
-- 2023-08-27 — #239 with Jamie Hutchinson & Rich Wilson - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Jamie Hutchinson, Rich Wilson
-- 2023-08-20 — #238 with Kate Barron - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2023-08-13 — #237 with Barry Dodds & Freddy Quinne - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Barry Dodds
-- 2023-08-06 — #236 with Pete Firman - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Pete Firman
-- 2023-07-30 — #235 with Seann Walsh & Julian Deane - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Seann Walsh, Julian Deane
-- 2023-07-23 — #234 with Connor Burns - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Connor Burns
-- 2023-07-16 — #233 with Rob Rouse - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Rob Rouse
-- 2023-07-09 — #232 with Brennan Reece & Steve Bugeja - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Brennan Reece, Steve Bugeja
-- 2023-07-02 — #231 with Janine Harouni - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Janine Harouni
-- 2023-06-25 — #230 with Tom Stade - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, com TomStadeComic
-- 2023-06-18 — #229 with Stephen Bailey - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Stephen Bailey
-- 2023-06-11 — #228 with Daniel Muggleton - Have A Word w/Adam & Dan — speakers: Daniel Muggleton, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale
-- 2023-06-04 — #227 with Stephen Tries - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Jack Whitehall, Settle Down
-- 2023-05-28 — #226 with Jack Whitehall - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Adam Rowe, Dan Nightingale, Jack Whitehall, Settle Down
-- 2023-05-21 — #225 with Ari Shaffir - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Ari Shaffir
-- 2023-05-14 — #224 with Mike Rice - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Mike Rice
-- 2023-05-07 — #223 with Michelle de Swarte - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2023-04-30 — #222 with Elliot Steel - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Elliot Steel
-- 2023-04-23 — #221 with Andrew Maxwell - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2023-04-16 — #220 with Luke Kidgell - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Luke Kidgell
-- 2023-04-09 — #219 with Jamie Hutchinson & Freddy Quinne - Have A Word w/Adam & Dan — speakers: Jamie Hutchinson, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, com freddyquinne
-- 2023-04-02 — #218 with Still Ryan - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2023-03-26 — #217 with Marise Gaughan - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Marise Gaughan
-- 2023-03-20 — #216 with Vicky Pattison - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2023-03-13 — #215 with Jim Jefferies - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Jim Jefferies
-- 2023-03-06 — #214 with Shane Todd & Brennan Reece - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2023-02-27 — #213 with Alfie Brown - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Alfie Brown
-- 2023-02-20 — #212 with Josh Jones - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Josh Jones
-- 2023-02-13 — #211 with Rebecca Goodwin - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Rebecca Goodwin
-- 2023-02-06 — #210 with Daniel Sloss - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Daniel Sloss
-- 2023-01-30 — #209 with Seann Walsh - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Seann Walsh
-- 2023-01-23 — #208 with Russell Kane - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Russell Kane
-- 2023-01-16 — #207 with Kai Humphries - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2023-01-09 — #206 with Freddy Quinne - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2023-01-02 — #205 - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2022-12-26 — #204 with Tom Houghton - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Tom Houghton
-- 2022-12-19 — #203 with Paul Smith - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Paul Smith
-- 2022-12-12 — #202 with Vittorio Angelone - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Vittorio Angelone
-- 2022-12-05 — #201 with Jamie Webster - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Jamie Webster
-- 2022-11-28 — #200 with Carl Donnelly - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Carl Donnelly
-- 2022-11-21 — #199 with George Zach & Eshaan Akbar - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, greekcomedian Learn
-- 2022-11-14 — #198 - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2022-11-07 — #197 with Jonny Bongo - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2022-10-31 — #196 with Alfie Brown - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Alfie Brown
-- 2022-10-23 — #195 with Fin Taylor - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale, Fin Taylor
-- 2022-10-16 — #194 - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Adam Rowe, Dan Nightingale
-- 2022-10-09 — #193 with Colum Tyrrell - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale, Colum Tyrrell
-- 2022-10-02 — #192 with Helen Bauer - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale, Helen Bauer
-- 2022-09-25 — #191 with Mark Watson - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale, Mark Watson
-- 2022-09-18 — #190 with Doug Stanhope - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale, Doug Stanhope
-- 2022-09-11 — #189 with Joanne McNally - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale, Joanne McNally
-- 2022-09-04 — #188 with Michelle de Swarte - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale
-- 2022-08-28 — #187 with Mick Ferry - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale, com mickferry
-- 2022-08-21 — #186 - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale
-- 2022-08-14 — #185 with Phil Chapman - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale, Phil Chapman
-- 2022-08-07 — #184 with Hayley Ellis - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale, Eshaan Akbar
-- 2022-07-31 — #183 with Freddy Quinne - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale
-- 2022-07-24 — #182 with Alun Cochrane - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale
-- 2022-07-17 — #181 with JJ Whitehead - Have A Word w/Adam & Dan — speakers: Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale
-- 2022-07-10 — #180 with Kane Brown - Have A Word w/Adam & Dan — speakers: Adam Dan, Lockdown Lock-ins, Sensei Carl, haveaword Grab, Stitch Fix, Pact Coffee, Adam Rowe, Dan Nightingale
+- 2026-02-23 — #369 with Alfie Brown - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2026-02-16 — #368 with Dan Tiernan - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2026-02-09 — #367 with Tom Davis - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2026-02-02 — #366 with The Boys - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2026-01-26 — #365 with Andrew Mensah - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2026-01-19 — #364 with Eleanor Tiernan - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2026-01-12 — #363 with Laura Smyth - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2026-01-05 — #362 with Thomas Green - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2025-12-29 — #361 with Rachel Fairburn - Have A Word w/Adam, Dan & Carl — speakers: Dan Carl's Hip-Ho, Dan Nightingale, Adam Rowe
+- 2025-12-22 — #360 with Red Richardson - Have A Word w/Adam, Dan & Carl — speakers: Red Richardson, Dan Nightingale, Adam Rowe
+- 2025-12-15 — #359 with Jimmy Carr - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-12-08 — #358 with Ray Bradshaw - Have A Word w/Adam, Dan & Carl — speakers: Ray Bradshaw, Dan Nightingale, Adam Rowe
+- 2025-12-01 — #357 with Jessie Cave - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-11-24 — #356 with Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-11-17 — #355 with Andrew Hamilton - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-11-10 — #354 with Sam Morril - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-11-03 — #353 with Vittorio Angelone - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-10-27 — #352 with Seann Walsh - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-10-19 — #351 with Tom Stade - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-10-12 — #350 with Will Hutchby - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-10-05 — #349 with Mark Nelson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-09-28 — #348 with Rob Thomas - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-09-21 — #347 with Sandro Ford - Have A Word w/Adam, Dan & Carl — speakers: Sandro Ford, Dan Nightingale, Adam Rowe
+- 2025-09-14 — #346 with Phil Ellis - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-09-07 — #345 with Joey Dardano - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-08-31 — #344 with Eshaan Akbar - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-08-24 — #343 with Freddy Quinne - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-08-17 — #342 with Abby Boom - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-08-10 — #341 with Callum Oakley - Have A Word w/Adam, Dan & Carl — speakers: Callum Oakley, Dan Nightingale, Adam Rowe
+- 2025-08-03 — #340 with Hatty Preston & Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-07-27 — #339 with Joe Marler - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-07-20 — #338 with Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-07-13 — #337 with William Thompson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-07-06 — #336 - Have A Word w/Adam, Dan & Carl — speakers: Carl Tickets, Dan Nightingale, Adam Rowe
+- 2025-06-29 — #335 with Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-06-22 — #334 with Minah Shannon - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-06-15 — #333 with Dom Joly - Have A Word w/Adam, Dan & Carl — speakers: Dom Joly, Dan Nightingale, Adam Rowe
+- 2025-06-08 — #332 with Gianmarco Soresi - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-06-01 — #331 with Nick Helm & Thomas Green - Have A Word w/Adam, Dan & Carl — speakers: Nick Helm, Thomas Green, Dan Nightingale, Adam Rowe
+- 2025-05-25 — #330 with Sam Tallent - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-05-18 — #329 with Michelle Shaughnessy - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-05-11 — #328 with Kyla Cobbler - Have A Word w/Adam, Dan, Carl & Finn — speakers: Carl Finn Tickets, Dan Nightingale, Adam Rowe
+- 2025-05-04 — #327 with Jarlath Regan - Have A Word w/Adam, Dan, Carl & Finn — speakers: Carl Finn Murderers Row, Dan Nightingale, Adam Rowe
+- 2025-04-27 — #326 - Have A Word w/Adam, Dan, Carl & Finn — speakers: Carl Finn Murderers Row, Dan Nightingale, Adam Rowe
+- 2025-04-20 — #325 with Josh Jones - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-04-13 — #324 with Paddy McDonnell - Have A Word w/Adam, Dan & Carl — speakers: Paddy McDonnell, Dan Nightingale, Adam Rowe
+- 2025-04-06 — #323 with Marc Jennings - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-03-30 — #322 with James McCann - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-03-24 — #321 with Iain Stirling - Have A Word w/Adam, Dan & Carl — speakers: Iain Stirling, Dan Nightingale, Adam Rowe
+- 2025-03-17 — #320 with Gabby Bryan - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-03-10 — #319 with Jack Skipper - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-03-03 — #318 with Jonny Bongo - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-02-24 — #317 with Sophie McCartney & Brennan Reece - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-02-17 — #316 with Micky Bartlett - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-02-10 — #315 with Rob Mulholland - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-02-03 — #314 with Chris McCausland & Alfie Brown - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-01-27 — #313 with Grado & Seann Walsh - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-01-20 — #312 with Elliot Steel & Hatty Preston - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-01-13 — #311 with Daniel Sloss - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2025-01-06 — #310 with Russell Howard - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-12-30 — #309 with Gbemi Oladipo & Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-12-23 — #308 with The Lids - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-12-16 — #307 with Jacob Hawley - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-12-09 — #306 with Paul Smith - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-12-02 — #305 with Julian Deane - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-11-25 — #304 with John Lynn & Danny Mcloughlin - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-11-18 — #303 with Jamie Hutchinson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-11-11 — #302 with Rhys James - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-11-04 — #301 with John Bishop - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-10-28 — #300 with Jamali Maddix - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-10-20 — #299 with Tiff Stevenson - Have A Word w/Adam, Dan & Carl — speakers: Tiff Stevenson, Dan Nightingale, Adam Rowe
+- 2024-10-13 — #298 with Alfie Brown - Have A Word w/Adam, Dan & Carl — speakers: Alfie Brown, Dan Nightingale, Adam Rowe
+- 2024-10-06 — #297 with Grace Campbell - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-09-29 — #296 with Kai Humphries - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-09-22 — #295 with Taylor Ryan - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-09-15 — #294 with Gabby Bryan - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-09-08 — #293 with Eshaan Akbar & Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-09-01 — #292 with Stef Dag - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-08-25 — #291 with Russell Hicks & Danny Mcloughlin - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-08-18 — #290 with Thomas Green - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-08-11 — #289 with Fin Taylor - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-08-04 — #288 with Alex Brooker - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-07-28 — #287 with Rob Thomas - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-07-21 — #286 with Shem Rock - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-07-14 — #285 with Vittorio Angelone & Mike Rice - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-07-07 — #284 with Lucas Zelnick - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-06-30 — #283 with Justin Moorhouse - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-06-23 — #282 with Michelle de Swarte - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-06-16 — #281 with Diona Doherty - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-06-09 — #280 with John Lynn (Brennan Reece GUEST HOST) - Have A Word w/Adam, Dan & Carl — speakers: John Lynn, Brennan Reece Guest Host, Dan Nightingale, Adam Rowe
+- 2024-06-02 — #279 with Hatty Preston - Have A Word w/Adam, Dan & Carl — speakers: Hatty Preston, Dan Nightingale, Adam Rowe
+- 2024-05-26 — #278 with TommyInnit - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-05-19 — #277 with Ian Stone - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-05-12 — #276 with Chris Kent - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-05-05 — #275 - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-04-28 — #274 with Red Richardson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-04-21 — #273 - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-04-14 — #272 with Simon Wozniak - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-04-07 — #271 with Neil Delamere - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-03-31 — #270 with HAW All Stars (Eshaan, Freddy & Brennan) - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-03-25 — #269 with Jeff Innocent - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-03-18 — #268 - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-03-11 — #267 with Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-03-04 — #266 with William Thompson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
+- 2024-02-26 — #265 with Mark Nelson - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2024-02-19 — #264 with Hatty Preston & Freddy Quinne - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2024-02-12 — #263 with Horatio Gould - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2024-02-05 — #262 with Shane Todd - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2024-01-29 — #261 with Tom Stade & Mick Ferry - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2024-01-22 — #260 with Liam Withnail - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2024-01-15 — #259 - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2024-01-08 — #258 with Josh Pugh - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2024-01-01 — #257 with Oobah Butler - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-12-25 — #256 with Akaash Singh - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-12-18 — #255 with Laura Smyth - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-12-11 — #254 with Willa White - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-12-04 — #253 with Ray Bradshaw - Have A Word w/Adam & Dan — speakers: Ray Bradshaw, Dan Nightingale, Adam Rowe
+- 2023-11-27 — #252 with Danny Davies - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-11-20 — #251 with Dan Tiernan & Mike Rice - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-11-13 — #250 with Marc Jennings - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-11-06 — #249 with Callum Abroad - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-10-30 — #248 with Lindsey Santoro - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-10-22 — #247 with Jimeoin - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-10-15 — #246 with Andrew Schulz - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-10-08 — #245 - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-10-01 — #244 with Mark Normand - Have A Word w/Adam & Dan — speakers: Mark Normand, Dan Nightingale, Adam Rowe
+- 2023-09-24 — #243 with Kane Brown & Vittorio Angelone - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-09-17 — #242 with Shuffle T - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-09-10 — #241 with Gabby Bryan - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-09-03 — #240 with Thomas Green - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-08-27 — #239 with Jamie Hutchinson & Rich Wilson - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-08-20 — #238 with Kate Barron - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-08-13 — #237 with Barry Dodds & Freddy Quinne - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-08-06 — #236 with Pete Firman - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-07-30 — #235 with Seann Walsh & Julian Deane - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-07-23 — #234 with Connor Burns - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-07-16 — #233 with Rob Rouse - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-07-09 — #232 with Brennan Reece & Steve Bugeja - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-07-02 — #231 with Janine Harouni - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-06-25 — #230 with Tom Stade - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-06-18 — #229 with Stephen Bailey - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-06-11 — #228 with Daniel Muggleton - Have A Word w/Adam & Dan — speakers: Daniel Muggleton, Dan Nightingale, Adam Rowe
+- 2023-06-04 — #227 with Stephen Tries - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-05-28 — #226 with Jack Whitehall - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-05-21 — #225 with Ari Shaffir - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-05-14 — #224 with Mike Rice - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-05-07 — #223 with Michelle de Swarte - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-04-30 — #222 with Elliot Steel - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-04-23 — #221 with Andrew Maxwell - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-04-16 — #220 with Luke Kidgell - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-04-09 — #219 with Jamie Hutchinson & Freddy Quinne - Have A Word w/Adam & Dan — speakers: Jamie Hutchinson, Dan Nightingale, Adam Rowe
+- 2023-04-02 — #218 with Still Ryan - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-03-26 — #217 with Marise Gaughan - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-03-20 — #216 with Vicky Pattison - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-03-13 — #215 with Jim Jefferies - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-03-06 — #214 with Shane Todd & Brennan Reece - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-02-27 — #213 with Alfie Brown - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-02-20 — #212 with Josh Jones - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-02-13 — #211 with Rebecca Goodwin - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-02-06 — #210 with Daniel Sloss - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-01-30 — #209 with Seann Walsh - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-01-23 — #208 with Russell Kane - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2023-01-16 — #207 with Kai Humphries - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-01-09 — #206 with Freddy Quinne - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2023-01-02 — #205 - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-12-26 — #204 with Tom Houghton - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-12-19 — #203 with Paul Smith - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-12-12 — #202 with Vittorio Angelone - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-12-05 — #201 with Jamie Webster - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2022-11-28 — #200 with Carl Donnelly - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2022-11-21 — #199 with George Zach & Eshaan Akbar - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-11-14 — #198 - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-11-07 — #197 with Jonny Bongo - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-10-31 — #196 with Alfie Brown - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-10-23 — #195 with Fin Taylor - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-10-16 — #194 - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-10-09 — #193 with Colum Tyrrell - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-10-02 — #192 with Helen Bauer - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-09-25 — #191 with Mark Watson - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-09-18 — #190 with Doug Stanhope - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-09-11 — #189 with Joanne McNally - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2022-09-04 — #188 with Michelle de Swarte - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-08-28 — #187 with Mick Ferry - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-08-21 — #186 - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-08-14 — #185 with Phil Chapman - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-08-07 — #184 with Hayley Ellis - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-07-31 — #183 with Freddy Quinne - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-07-24 — #182 with Alun Cochrane - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-07-17 — #181 with JJ Whitehead - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-07-10 — #180 with Kane Brown - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
 - 2022-07-04 — #179 with Tom Stade - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2022-06-27 — #178 with Thomas Green & Alfie Brown - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-06-27 — #178 with Thomas Green & Alfie Brown - Have A Word w/Adam & Dan — speakers: Thomas Green, Alfie Brown, Dan Nightingale, Adam Rowe
 - 2022-06-20 — #177 - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2022-06-13 — #176 with Jamie Hutchinson - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2022-06-06 — #175 with Romesh Ranganathan - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2022-05-30 — #174 with Shane Todd - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-06-06 — #175 with Romesh Ranganathan - Have A Word w/Adam & Dan — speakers: Romesh Ranganathan, Dan Nightingale, Adam Rowe
+- 2022-05-30 — #174 with Shane Todd - Have A Word w/Adam & Dan — speakers: Shane Todd, Dan Nightingale, Adam Rowe
 - 2022-05-23 — #173 with Sarah Keyworth - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
-- 2022-05-16 — #172 with Shane Gillis - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-05-16 — #172 with Shane Gillis - Have A Word w/Adam & Dan — speakers: Shane Gillis, Dan Nightingale, Adam Rowe
 - 2022-05-09 — #171 with Stephen Grant - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
 - 2022-05-02 — #170 with Daniel Sloss - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2022-04-25 — #169 with Pierre Novellie - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
 - 2022-04-18 — #168 with Paul Smith - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2022-04-11 — #167 with Callum Oakley - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-04-11 — #167 with Callum Oakley - Have A Word w/Adam & Dan — speakers: Callum Oakley, Dan Nightingale, Adam Rowe
 - 2022-04-04 — #166 with Jason Manford - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2022-03-28 — #165 with Molly McCann - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2022-03-21 — #164 - Have A Word w/Adam & Dan — speakers: Phil Nichol, Dean Coughlin, Eshaan Akbar, Dan Nightingale, Adam Rowe
-- 2022-03-14 — #163 with Phil Nichol - Have A Word w/Adam & Dan — speakers: Phil Nichol, Dean Coughlin, Eshaan Akbar, Dan Nightingale, Adam Rowe
+- 2022-03-21 — #164 - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2022-03-14 — #163 with Phil Nichol - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2022-03-07 — #162 with Sean McLoughlin - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2022-02-28 — #161 with Paddy ’The Baddy’ Pimblett - Have A Word w/Adam & Dan — speakers: Baddy Pimblett, Dan Nightingale, Adam Rowe
 - 2022-02-21 — #160 with Seann Walsh & Paul McCaffrey - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
@@ -9336,19 +8748,19 @@
 - 2021-10-04 — #140 with Catherine Bohart - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-09-27 — #139 with Dean Coughlin - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-09-20 — #138 with Mark Nelson - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2021-09-13 — #137 with Loyiso Gola - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2021-09-13 — #137 with Loyiso Gola - Have A Word w/Adam & Dan — speakers: Loyiso Gola, Dan Nightingale, Adam Rowe
 - 2021-09-06 — #136 with Eshaan Akbar - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2021-08-30 — #135 with Helen Bauer - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2021-08-30 — #135 with Helen Bauer - Have A Word w/Adam & Dan — speakers: Helen Bauer, Dan Nightingale, Adam Rowe
 - 2021-08-23 — #134 with Vittorio Angelone - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-08-16 — #133 with Russell Kane - Have A Word w/Adam & Dan — speakers: Dan Upcoming, Dan Nightingale, Adam Rowe
-- 2021-08-09 — #132 with Rosie Holt - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2021-08-09 — #132 with Rosie Holt - Have A Word w/Adam & Dan — speakers: Rosie Holt, Dan Nightingale, Adam Rowe
 - 2021-08-02 — #131 with Rob Mulholland - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-07-26 — #130 with Simon Brodkin - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-07-19 — #129 with Kae Kurd - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
 - 2021-07-12 — #128 with James English - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
 - 2021-07-05 — #127 with Lauren Pattison - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-06-28 — #126 with Joe Gilmore - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2021-06-21 — #125 with Milo McCabe - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2021-06-21 — #125 with Milo McCabe - Have A Word w/Adam & Dan — speakers: Milo McCabe, Dan Nightingale, Adam Rowe
 - 2021-06-14 — #124 with Seann Walsh - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-06-07 — #123 with Thomas Green - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
 - 2021-05-31 — #122 with Dane Baptiste - Have A Word w/Adam & Dan — speakers: Dane Baptiste, Dan Nightingale, Adam Rowe
@@ -9375,7 +8787,7 @@
 - 2021-01-04 — #101 with Tom Lucy - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
 - 2020-12-28 — #100 with Rob Thomas - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-12-21 — #99 with John May - IN STUDIO - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
-- 2020-12-14 — #98 with Kai Humphries - IN STUDIO - Have A Word w/Adam & Dan — speakers: Kai Humphries, Dan Nightingale, Adam Rowe
+- 2020-12-14 — #98 with Kai Humphries - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-12-07 — #97 with Rob Mulholland - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-11-30 — #96 with Jonny Bongo - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-11-27 — BONUS EPISODE - Jamali Maddix w/Adam & Dan — speakers: Jamali Maddix, Dan Thanks, Dan Nightingale, Adam Rowe
@@ -9389,17 +8801,17 @@
 - 2020-10-09 — BONUS EPISODE - Steph Johnson — speakers: Steph Johnson Check, Steph scousebirdblogs, Follow Adam, Dan Nightingale, Adam Rowe
 - 2020-10-05 — #88 with Lou Conran - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-09-28 — #87 with Glenn Wool - IN STUDIO - Have A Word w/Adam & Paul Smith (Guest Host) — speakers: Paul Smith, Dan Nightingale, Adam Rowe
-- 2020-09-24 — BONUS EPISODE - Mental Health Special — speakers: samaritans org, Dan Nightingale, Adam Rowe
+- 2020-09-24 — BONUS EPISODE - Mental Health Special — speakers: Mental Health Special If, Dan Nightingale, Adam Rowe
 - 2020-09-21 — #86 with Larry Dean - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-09-14 — #85 with Brennan Reece - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-09-07 — #84 with Stephen Tries - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-08-31 — #83 with The Redmen TV - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-08-24 — #82 with Daniel Sloss - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-08-17 — #81 with Eshaan Akbar - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2020-08-10 — #80 with Steph Johnson - IN STUDIO - Have A Word w/Adam & Dan — speakers: YouTube com haveawordpod Learn, Dan Nightingale, Adam Rowe
-- 2020-08-03 — #79 - IN STUDIO - w/Adam & Dan (...and Sensei Carl) — speakers: Sensei Carl, YouTube com haveawordpod Learn, Dan Nightingale, Adam Rowe
-- 2020-07-31 — #78 with Justin Moorhouse - IN STUDIO - Have A Word w/Adam & Dan — speakers: YouTube com haveawordpod Learn, Dan Nightingale, Adam Rowe
-- 2020-07-27 — #77 - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2020-08-10 — #80 with Steph Johnson - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
+- 2020-08-03 — #79 - IN STUDIO - w/Adam & Dan (...and Sensei Carl) — speakers: Sensei Carl, Dan Nightingale, Adam Rowe
+- 2020-07-31 — #78 with Justin Moorhouse - IN STUDIO - Have A Word w/Adam & Dan — speakers: Justin Moorhouse, Dan Nightingale, Adam Rowe
+- 2020-07-27 — #77 - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Thanks, Dan Nightingale, Adam Rowe
 - 2020-07-24 — #76 with Paul Smith - IN STUDIO - Have A Word w/ Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-07-20 — #75 - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-07-17 — #74 - IN STUDIO - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
@@ -9428,14 +8840,14 @@
 - 2020-05-06 — #51 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-05-05 — #50 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Thanks, Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
 - 2020-05-04 — #49 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2020-05-04 — ATTENTION ALL LIDS!!! -- SPECIAL ANNOUNCMENT --- (*This is not an episode). — speakers: Shutdown Dailys, Dan Nightingale, Adam Rowe
+- 2020-05-04 — ATTENTION ALL LIDS!!! -- SPECIAL ANNOUNCMENT --- (*This is not an episode). — speakers: Dan Nightingale, Adam Rowe
 - 2020-05-02 — #48 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Thanks, Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
 - 2020-05-01 — #47 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-04-30 — #46 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Thanks, Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
 - 2020-04-29 — #45 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Thanks, Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
 - 2020-04-28 — #44 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-04-27 — #43 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
-- 2020-04-25 — #42 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Sorry, Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
+- 2020-04-25 — #42 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Sorry, Vauxhall Com, Dan Nightingale, Adam Rowe
 - 2020-04-24 — #41 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Thanks, Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
 - 2020-04-23 — #40 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2020-04-22 — #39 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Thanks, Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
@@ -9452,15 +8864,15 @@
 - 2020-04-09 — #28 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Thanks, Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
 - 2020-04-08 — #27 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
 - 2020-04-07 — #26 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
-- 2020-04-06 — #25 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
+- 2020-04-06 — #25 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Follow, Dan Nightingale, Adam Rowe
 - 2020-04-04 — #24 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
-- 2020-04-03 — #23 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
+- 2020-04-03 — #23 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Adam, Dan Nightingale, Adam Rowe
 - 2020-04-02 — #22 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Vauxhall Comedy, Dan Nightingale, Adam Rowe
 - 2020-04-01 — #21 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Vauxhall Comedy Club, Dan Nightingale, Adam Rowe
 - 2020-03-31 — #20 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Follow, Dan Nightingale, Adam Rowe
 - 2020-03-30 — #19 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Millenium Lube, Dan Nightingale, Adam Rowe
 - 2020-03-28 — #18 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Shutdown Pod, Dan Nightingale, Adam Rowe
-- 2020-03-27 — #17 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Adam Rowe, Dan Nightingale
+- 2020-03-27 — #17 Shutdown Pod (VIA ZOOM) -w/Adam & Dan — speakers: Adam Rowe li, Dan Nightingale, Adam Rowe
 - 2020-03-26 — #16 of Have A Word (in Dan's Home Studio) w/Adam Rowe & Dan Nightingale — speakers: Kae Kurd, Dan Nightingale, Adam Rowe
 - 2020-03-25 — #15 of Have A Word (in Dan's Home Studio) w/Adam Rowe & Dan Nightingale — speakers: Dan Nightingale, Adam Rowe
 - 2020-03-24 — #14 of Have A Word (in Dan's Home Studio) w/Adam Rowe & Dan Nightingale — speakers: Dan Nightingale, Adam Rowe
