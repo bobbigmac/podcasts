@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-02-23T16:02:43+00:00`
-- checked_at: `2026-02-23T16:02:43+00:00`
-- etag: `"djEuMi4wOjE3NzE4NjExNTk1MDk="`
+- fetched_at: `2026-03-01T18:51:05+00:00`
+- checked_at: `2026-03-01T18:51:05+00:00`
+- etag: `"djEuMi4wOjE3NzIzODA1NTk1NDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-02-23T16:02:43+00:00",
+  "fetched_at": "2026-03-01T18:51:05+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -39,9 +39,7 @@
       "itunes_duration": "1:19:41",
       "speakers": [
         "Mick Lynch Replay",
-        "Mick Lynch",
-        "Zack Polanski",
-        "Lisa Nandy",
+        "Mick Ly",
         "Matt Forde"
       ],
       "topics": [
@@ -63,8 +61,6 @@
       "itunes_duration": "1:28:50",
       "speakers": [
         "David Miliband",
-        "Zack Polanski",
-        "Lisa Nandy",
         "Matt Forde"
       ],
       "topics": [
@@ -107,9 +103,6 @@
       "itunes_duration": "1:16:29",
       "speakers": [
         "Hilary Cass Baroness Cass",
-        "David Miliband",
-        "Zack Polanski",
-        "Lisa Nandy",
         "Matt Forde"
       ],
       "topics": [
@@ -131,10 +124,6 @@
       "speakers": [
         "Lola McEvoy Lola",
         "Pease Pudding",
-        "Lisa Nandy",
-        "Lemon Top",
-        "David Miliband",
-        "Zack Polanski",
         "Matt Forde"
       ],
       "topics": [
@@ -154,9 +143,6 @@
       "enclosure_length": "112121296",
       "itunes_duration": "1:17:51",
       "speakers": [
-        "David Miliband",
-        "Zack Polanski",
-        "Lisa Nandy",
         "Matt Forde"
       ],
       "topics": [
@@ -177,10 +163,6 @@
       "itunes_duration": "1:08:22",
       "speakers": [
         "George Finch George",
-        "Robert Jenrick",
-        "David Miliband",
-        "Zack Polanski",
-        "Lisa Nandy",
         "Matt Forde"
       ],
       "topics": [
@@ -201,10 +183,6 @@
       "itunes_duration": "30:18",
       "speakers": [
         "James Frith",
-        "David Lammy",
-        "David Miliband",
-        "Zack Polanski",
-        "Lisa Nandy",
         "Matt Forde"
       ],
       "topics": [
@@ -224,9 +202,7 @@
       "enclosure_length": "117663752",
       "itunes_duration": "1:21:42",
       "speakers": [
-        "David Miliband",
-        "Zack Polanski",
-        "Lisa Nandy",
+        "Anas Sarwar",
         "Matt Forde"
       ],
       "topics": [
@@ -248,9 +224,6 @@
       "itunes_duration": "58:29",
       "speakers": [
         "Ryan Wain",
-        "David Miliband",
-        "Zack Polanski",
-        "Lisa Nandy",
         "Matt Forde"
       ],
       "topics": [
@@ -272,9 +245,6 @@
       "speakers": [
         "Tom McTague Keynes",
         "Tom McTague",
-        "David Miliband",
-        "Zack Polanski",
-        "Lisa Nandy",
         "Matt Forde"
       ],
       "topics": [
@@ -294,9 +264,6 @@
       "itunes_duration": "59:00",
       "speakers": [
         "Gordon McKee",
-        "Custard Creams",
-        "David Miliband",
-        "Zack Polanski",
         "Matt Forde"
       ],
       "topics": [
@@ -317,9 +284,6 @@
       "itunes_duration": "1:38:21",
       "speakers": [
         "Nick Clegg",
-        "Mark Zuckerberg",
-        "David Miliband",
-        "Zack Polanski",
         "Matt Forde"
       ],
       "topics": [
@@ -340,9 +304,6 @@
       "itunes_duration": "54:01",
       "speakers": [
         "Peray Ahmet",
-        "Nick Clegg January",
-        "David Miliband",
-        "Zack Polanski",
         "Matt Forde"
       ],
       "topics": [
@@ -362,9 +323,8 @@
       "enclosure_length": "61417024",
       "itunes_duration": "42:38",
       "speakers": [
-        "Nick Clegg January",
-        "David Miliband",
-        "Zack Polanski",
+        "Izzy Conn Izzy",
+        "Leading Labour",
         "Matt Forde"
       ],
       "topics": [
@@ -385,7 +345,6 @@
       "itunes_duration": "0:34",
       "speakers": [
         "Group Returns",
-        "Christmas Special",
         "Matt Forde"
       ],
       "topics": [
@@ -409,9 +368,6 @@
       "itunes_duration": "59:16",
       "speakers": [
         "Marie Tidball Marie",
-        "Nick Clegg January",
-        "David Miliband",
-        "Zack Polanski",
         "Matt Forde"
       ],
       "topics": [
@@ -432,10 +388,6 @@
       "itunes_duration": "1:07:08",
       "speakers": [
         "Jack McConnell",
-        "Vladimir Putin",
-        "Nick Clegg January",
-        "David Miliband",
-        "Zack Polanski",
         "Matt Forde"
       ],
       "topics": [
@@ -456,9 +408,6 @@
       "itunes_duration": "1:04:04",
       "speakers": [
         "Bethany Dawson",
-        "Nick Clegg January",
-        "David Miliband",
-        "Zack Polanski",
         "Matt Forde"
       ],
       "topics": [
@@ -479,8 +428,6 @@
       "itunes_duration": "51:21",
       "speakers": [
         "Harriet Cross Harriet",
-        "Nick Clegg January",
-        "David Miliband",
         "Matt Forde"
       ],
       "topics": [
@@ -501,9 +448,6 @@
       "itunes_duration": "59:49",
       "speakers": [
         "Rosamund Adoo-Kissi-Debrah Cbe",
-        "Arnold Schwarzenegger",
-        "Nick Clegg February",
-        "David Miliband",
         "Matt Forde"
       ],
       "topics": [
@@ -526,9 +470,6 @@
       "itunes_duration": "47:35",
       "speakers": [
         "Amy Callaghan Amy",
-        "Jo Swinson",
-        "Nick Clegg February",
-        "David Miliband",
         "Matt Forde"
       ],
       "topics": [
@@ -547,8 +488,6 @@
       "enclosure_length": "96955857",
       "itunes_duration": "1:07:19",
       "speakers": [
-        "Nick Clegg February",
-        "David Miliband",
         "Matt Forde"
       ],
       "topics": [
@@ -569,9 +508,6 @@
       "itunes_duration": "1:10:19",
       "speakers": [
         "Tom Harwood Star",
-        "Bridget Philipson",
-        "Nick Clegg February",
-        "David Miliband",
         "Matt Forde"
       ],
       "topics": [
@@ -612,9 +548,6 @@
       "itunes_duration": "1:12:10",
       "speakers": [
         "Lindsay Hoyle Replay",
-        "Birmingham Glee Club",
-        "Milton Keynes",
-        "Theatre Severn Isle",
         "Matt Forde"
       ],
       "topics": [
@@ -636,9 +569,6 @@
       "itunes_duration": "59:47",
       "speakers": [
         "Mark Pougatch Mark Pougatch",
-        "Birmingham Glee Club",
-        "Milton Keynes",
-        "Theatre Severn Isle",
         "Matt Forde"
       ],
       "topics": [
@@ -659,11 +589,6 @@
       "itunes_duration": "1:03:38",
       "speakers": [
         "Celebrity Masterchef",
-        "Kirsty Wark",
-        "Gregg Wallace",
-        "Birmingham Glee Club",
-        "Milton Keynes",
-        "Theatre Severn Isle",
         "Matt Forde"
       ],
       "topics": [
@@ -683,9 +608,6 @@
       "enclosure_length": "94557174",
       "itunes_duration": "1:05:39",
       "speakers": [
-        "Birmingham Glee Club",
-        "Milton Keynes",
-        "Theatre Severn Isle",
         "Matt Forde"
       ],
       "topics": [
@@ -726,7 +648,6 @@
       "itunes_duration": "58:57",
       "speakers": [
         "Ian Murray",
-        "Joanna Cherry",
         "Matt Forde"
       ],
       "topics": [
@@ -747,9 +668,6 @@
       "speakers": [
         "James Cleverly Replay",
         "James Cleverly",
-        "Ian Murray",
-        "Joanna Cherry",
-        "mattforde Hosted",
         "Matt Forde"
       ],
       "topics": [
@@ -770,9 +688,6 @@
       "enclosure_length": "124211570",
       "itunes_duration": "1:26:14",
       "speakers": [
-        "Ian Murray",
-        "Joanna Cherry",
-        "mattforde Hosted",
         "Matt Forde"
       ],
       "topics": [
@@ -793,9 +708,6 @@
       "itunes_duration": "59:51",
       "speakers": [
         "Coppard Oliver",
-        "Ian Murray",
-        "Joanna Cherry",
-        "campaign mattforde",
         "Matt Forde"
       ],
       "topics": [
@@ -815,8 +727,6 @@
       "enclosure_length": "120912348",
       "itunes_duration": "1:23:57",
       "speakers": [
-        "Ian Murray",
-        "Joanna Cherry",
         "Matt Forde"
       ],
       "topics": [
@@ -837,9 +747,6 @@
       "itunes_duration": "1:00:36",
       "speakers": [
         "Louise Haigh",
-        "Ian Murray",
-        "Joanna Cherry",
-        "campaign mattforde",
         "Matt Forde"
       ],
       "topics": [
@@ -861,9 +768,6 @@
       "speakers": [
         "Sonia Kumar Sonia",
         "Kumar Sonia",
-        "Andy Burnham",
-        "Michael Gove",
-        "campaign mattforde",
         "Matt Forde"
       ],
       "topics": [
@@ -883,8 +787,7 @@
       "enclosure_length": "82015802",
       "itunes_duration": "56:56",
       "speakers": [
-        "Andy Burnham",
-        "Michael Gove",
+        "life events",
         "Matt Forde"
       ],
       "topics": [
@@ -906,9 +809,6 @@
       "speakers": [
         "Nick Thomas-Symonds",
         "Nick Thomas-Symonds Nick",
-        "Andy Burnham",
-        "Michael Gove",
-        "campaign mattforde",
         "Matt Forde"
       ],
       "topics": [
@@ -929,11 +829,7 @@
       "enclosure_length": "111210458",
       "itunes_duration": "1:17:13",
       "speakers": [
-        "Lib Dems",
-        "Andy Burnham",
-        "Michael Gove",
-        "campaign mattforde",
-        "Chelmsford Theatre",
+        "Kemi Badenoch Kemi Badenoch",
         "Matt Forde"
       ],
       "topics": [
@@ -954,9 +850,6 @@
       "itunes_duration": "1:07:42",
       "speakers": [
         "Guto Harri",
-        "Michael Gove",
-        "campaign mattforde",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -977,8 +870,6 @@
       "itunes_duration": "50:37",
       "speakers": [
         "Michelle Clement Delivery",
-        "Michael Gove",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -999,9 +890,6 @@
       "itunes_duration": "59:55",
       "speakers": [
         "Alan Rhodes",
-        "Michael Gove",
-        "campaign mattforde",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -1021,9 +909,6 @@
       "enclosure_length": "117132193",
       "itunes_duration": "1:21:20",
       "speakers": [
-        "Michael Gove",
-        "campaign mattforde",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -1043,10 +928,6 @@
       "itunes_duration": "45:54",
       "speakers": [
         "John McTernan",
-        "Wes Streeting",
-        "Michael Gove",
-        "campaign mattforde",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -1067,10 +948,6 @@
       "itunes_duration": "1:07:47",
       "speakers": [
         "Julie Bindel",
-        "Buy Julie",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -1091,10 +968,6 @@
       "itunes_duration": "56:20",
       "speakers": [
         "Gregor Poynton Gregor",
-        "Robin Cook",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -1115,9 +988,6 @@
       "itunes_duration": "50:02",
       "speakers": [
         "Stockwood Brace",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -1139,9 +1009,6 @@
       "speakers": [
         "Scott Arthur",
         "Scott Arthur Scott",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre",
         "Matt Forde"
       ],
       "topics": [
@@ -1162,9 +1029,6 @@
       "itunes_duration": "1:25:22",
       "speakers": [
         "Anthony Scaramucci",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre Extra",
         "Matt Forde"
       ],
       "topics": [
@@ -1185,10 +1049,6 @@
       "itunes_duration": "53:12",
       "speakers": [
         "Claire Ward",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre Extra",
         "Matt Forde"
       ],
       "topics": [
@@ -1210,10 +1070,6 @@
       "speakers": [
         "Eluned Morgan",
         "Eluned Morgan Eluned",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre Extra",
         "Matt Forde"
       ],
       "topics": [
@@ -1234,10 +1090,6 @@
       "itunes_duration": "55:26",
       "speakers": [
         "Stewart McDonald Everyone",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre Extra",
         "Matt Forde"
       ],
       "topics": [
@@ -1258,10 +1110,6 @@
       "itunes_duration": "1:30:05",
       "speakers": [
         "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre Extra",
         "Matt Forde"
       ],
       "topics": [
@@ -1282,13 +1130,7 @@
       "itunes_duration": "1:03:44",
       "speakers": [
         "Simon Hart Simon",
-        "Rishi Sunak",
-        "Brian Clough",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Michael Gove",
-        "Chelmsford Theatre Extra"
+        "Matt Forde"
       ],
       "topics": [
         "simon",
@@ -1309,11 +1151,6 @@
       "speakers": [
         "Mike Tapp",
         "Mike Tapp Mike",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Michael Gove",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1334,11 +1171,6 @@
       "itunes_duration": "48:30",
       "speakers": [
         "Aurora Mhari",
-        "Joe Rogan",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1358,13 +1190,7 @@
       "enclosure_length": "98324734",
       "itunes_duration": "1:08:16",
       "speakers": [
-        "Yorkshire Pudding",
-        "John Prescott",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Michael Gove",
-        "Glee Club"
+        "Matt Forde"
       ],
       "topics": [
         "rachel",
@@ -1385,11 +1211,6 @@
       "speakers": [
         "Sharon Lockyer Dr",
         "Sharon Lockyer",
-        "Rachel Reeves",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1411,7 +1232,6 @@
       "speakers": [
         "Richard Herring",
         "Mark Steel",
-        "Sam Godfrey",
         "Matt Forde"
       ],
       "topics": [
@@ -1438,11 +1258,6 @@
       "speakers": [
         "Ava Santina-Evans",
         "Ava Santina-Evans Ava",
-        "Rachel Reeves",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting Plus",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1463,11 +1278,6 @@
       "itunes_duration": "1:02:39",
       "speakers": [
         "Gavin Esler Gavin Esler",
-        "Rachel Reeves",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting Plus",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1488,11 +1298,6 @@
       "itunes_duration": "49:14",
       "speakers": [
         "Carling Sam",
-        "Rachel Reeves",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting Plus",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1511,11 +1316,7 @@
       "enclosure_length": "65301542",
       "itunes_duration": "45:20",
       "speakers": [
-        "Rachel Reeves",
-        "Alastair Campbell",
-        "Anthony Scaramucci",
-        "Wes Streeting Plus",
-        "Glee Club",
+        "Tonia Antoniazzi Tonia Antoniazzi",
         "Matt Forde"
       ],
       "topics": [
@@ -1538,9 +1339,6 @@
         "Jess Phillips",
         "Sarah Wollaston",
         "Sarah Wollaston Keep",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1568,9 +1366,6 @@
         "Ed Balls",
         "Alastair Campbell Replay",
         "Alastair Campbell",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1596,9 +1391,6 @@
       "speakers": [
         "Alex Burghart",
         "Alex Burghart Politics",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1619,9 +1411,6 @@
       "itunes_duration": "1:02:25",
       "speakers": [
         "Natalie Fleet",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1642,9 +1431,6 @@
       "itunes_duration": "50:41",
       "speakers": [
         "David Yelland",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1665,9 +1451,6 @@
       "itunes_duration": "48:17",
       "speakers": [
         "Alison McGovern",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1688,9 +1471,6 @@
       "itunes_duration": "1:11:02",
       "speakers": [
         "David Duguid",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1712,9 +1492,6 @@
       "speakers": [
         "Salma Shah State",
         "Salma Shah",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1739,11 +1516,7 @@
       "speakers": [
         "Seth Harris",
         "Seth Harris US Election",
-        "Kamala Harris",
-        "Follow Seth",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club"
+        "Matt Forde"
       ],
       "topics": [
         "seth",
@@ -1763,10 +1536,6 @@
       "itunes_duration": "54:47",
       "speakers": [
         "Darren Jones",
-        "Tunbridge Wells",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1788,10 +1557,6 @@
       "speakers": [
         "Alex Massie",
         "Alex Salmond",
-        "Tunbridge Wells",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1812,10 +1577,6 @@
       "itunes_duration": "1:04:25",
       "speakers": [
         "Graham Brady",
-        "Tunbridge Wells",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1835,10 +1596,7 @@
       "enclosure_length": "89337975",
       "itunes_duration": "1:02:02",
       "speakers": [
-        "Tunbridge Wells",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
+        "Thangam Debbonaire Thangam Debbonaire",
         "Matt Forde"
       ],
       "topics": [
@@ -1859,11 +1617,6 @@
       "itunes_duration": "50:56",
       "speakers": [
         "Duncan-Glancy Pam",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
-        "Chelmsford Theatre Extra",
-        "Glee Club Extra",
-        "Glee Club",
         "Matt Forde"
       ],
       "topics": [
@@ -1883,9 +1636,8 @@
       "enclosure_length": "106531134",
       "itunes_duration": "1:13:58",
       "speakers": [
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
+        "General Secretary",
+        "Labour Party",
         "Matt Forde"
       ],
       "topics": [
@@ -1906,9 +1658,6 @@
       "itunes_duration": "1:11:16",
       "speakers": [
         "Siobhan Baillie",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
         "Matt Forde"
       ],
       "topics": [
@@ -1929,10 +1678,6 @@
       "itunes_duration": "54:20",
       "speakers": [
         "Emma Revell",
-        "Lib Dem",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
         "Matt Forde"
       ],
       "topics": [
@@ -1953,9 +1698,6 @@
       "itunes_duration": "40:16",
       "speakers": [
         "Murdo Fraser",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
         "Matt Forde"
       ],
       "topics": [
@@ -1976,9 +1718,6 @@
       "itunes_duration": "57:37",
       "speakers": [
         "Sarah Brown",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
         "Matt Forde"
       ],
       "topics": [
@@ -2001,9 +1740,6 @@
       "itunes_duration": "1:04:59",
       "speakers": [
         "Jacob Rees-Mogg",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
         "Matt Forde"
       ],
       "topics": [
@@ -2026,9 +1762,6 @@
       "enclosure_length": "94734043",
       "itunes_duration": "1:05:46",
       "speakers": [
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
         "Matt Forde"
       ],
       "topics": [
@@ -2051,11 +1784,6 @@
       "itunes_duration": "42:12",
       "speakers": [
         "James Frith",
-        "Jacob Rees-Mogg",
-        "Sarah Brown",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
         "Matt Forde"
       ],
       "topics": [
@@ -2075,9 +1803,7 @@
       "enclosure_length": "54369724",
       "itunes_duration": "37:45",
       "speakers": [
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells",
+        "Toby Perkins Toby Perkins",
         "Matt Forde"
       ],
       "topics": [
@@ -2099,10 +1825,7 @@
       "speakers": [
         "Jovan Owusu-Nepaul",
         "Jovan Owusu-Nepaul Jovan",
-        "Matt Forde",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells"
+        "Matt Forde"
       ],
       "topics": [
         "jovan",
@@ -2124,11 +1847,7 @@
       "speakers": [
         "Shama Tatler",
         "Shama Tatler Shama",
-        "Iain Duncan Smith",
-        "Matt Forde",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells"
+        "Matt Forde"
       ],
       "topics": [
         "shama",
@@ -2148,11 +1867,7 @@
       "itunes_duration": "49:25",
       "speakers": [
         "Mangnall Anthony",
-        "William Hague",
-        "Matt Forde",
-        "Norwich Playhouse",
-        "Leicester Square Theatre",
-        "Tunbridge Wells"
+        "Matt Forde"
       ],
       "topics": [
         "anthony",
@@ -2194,13 +1909,6 @@
       "enclosure_length": "129021317",
       "itunes_duration": "1:29:35",
       "speakers": [
-        "Ian Murray",
-        "Edinburgh South IanMurrayMP",
-        "Tom Tugendhat",
-        "Uma Kumaran",
-        "Andrew David Green",
-        "Manchester Rusholme",
-        "Tim Leaver",
         "Matt Forde"
       ],
       "topics": [
@@ -2220,11 +1928,7 @@
       "enclosure_length": "116261718",
       "itunes_duration": "1:20:43",
       "speakers": [
-        "Jonathan Ashworth",
-        "Abi McGuire",
-        "Catherine McKinnell",
-        "Glenn Bluff",
-        "Tim Morgan",
+        "Political Christmas Eve",
         "Matt Forde"
       ],
       "topics": [
@@ -2244,12 +1948,7 @@
       "enclosure_length": "83858538",
       "itunes_duration": "58:13",
       "speakers": [
-        "Danielle Newson",
-        "Lib Dem",
-        "Sussex Weald",
-        "Julie Marson",
-        "Stortford JulieMarsonMP",
-        "Jeremy Lee",
+        "Polling Day",
         "Matt Forde"
       ],
       "topics": [
@@ -2269,14 +1968,8 @@
       "enclosure_length": "80479373",
       "itunes_duration": "55:52",
       "speakers": [
-        "Steve Reed",
-        "Croydon North",
-        "Tom Pridham",
-        "Battersea tom pridham",
-        "Lib Dem",
-        "Maida Vale",
-        "James Nelson",
-        "Bradley Stoke JamesNe"
+        "fine wine",
+        "Matt Forde"
       ],
       "topics": [
         "election",
@@ -2295,10 +1988,6 @@
       "enclosure_length": "67352968",
       "itunes_duration": "46:45",
       "speakers": [
-        "Oliver Ryan",
-        "Sharmen Rahman",
-        "Lauren Edwards",
-        "Charlie Davis",
         "Matt Forde"
       ],
       "topics": [
@@ -2318,10 +2007,6 @@
       "enclosure_length": "84832023",
       "itunes_duration": "58:54",
       "speakers": [
-        "Emily Thornberry",
-        "Damian Collins",
-        "Thomas Daw",
-        "Christian Wakeford",
         "Matt Forde"
       ],
       "topics": [
@@ -2341,10 +2026,7 @@
       "enclosure_length": "88434552",
       "itunes_duration": "1:01:24",
       "speakers": [
-        "Jeremy Hunt",
-        "Carla Denyer",
-        "Katie White",
-        "Leeds North West",
+        "cold lagers",
         "Matt Forde"
       ],
       "topics": [
@@ -2364,10 +2046,7 @@
       "enclosure_length": "64850857",
       "itunes_duration": "45:01",
       "speakers": [
-        "Judith Cummins",
-        "Scott Hamilton",
-        "Christopher Bloore",
-        "Redditch ChrisBloore",
+        "Sports Direct",
         "Matt Forde"
       ],
       "topics": [
@@ -2387,10 +2066,6 @@
       "enclosure_length": "74670318",
       "itunes_duration": "51:50",
       "speakers": [
-        "Samia Hersi",
-        "Chris Foren",
-        "Zoe Franklin",
-        "Lib Dem",
         "Matt Forde"
       ],
       "topics": [
@@ -2410,12 +2085,6 @@
       "enclosure_length": "87230205",
       "itunes_duration": "1:00:34",
       "speakers": [
-        "Natasha Irons",
-        "Croydon East",
-        "Conor Burns",
-        "Lib Dem",
-        "Johanna Baxter",
-        "Renfrewshire South",
         "Matt Forde"
       ],
       "topics": [
@@ -2435,12 +2104,6 @@
       "enclosure_length": "81067185",
       "itunes_duration": "56:17",
       "speakers": [
-        "Mark Maguire",
-        "Tim Bearder",
-        "Lib Dem",
-        "Alison Taylor",
-        "Renfrewshire North",
-        "Colin McGrath",
         "Matt Forde"
       ],
       "topics": [
@@ -2460,12 +2123,7 @@
       "enclosure_length": "78845871",
       "itunes_duration": "54:44",
       "speakers": [
-        "Layla Moran",
-        "Lib Dem",
-        "Oxford West",
-        "Anthony Mangnall",
-        "Andy Fitchet",
-        "Will Polland",
+        "all three",
         "Matt Forde"
       ],
       "topics": [
@@ -2485,11 +2143,6 @@
       "enclosure_length": "90400838",
       "itunes_duration": "1:02:46",
       "speakers": [
-        "Sharon Hodgson",
-        "Jake Berry",
-        "Kellie-Jay Keen",
-        "Colin Martin",
-        "Lib Dem",
         "Matt Forde"
       ],
       "topics": [
@@ -2509,12 +2162,7 @@
       "enclosure_length": "85648016",
       "itunes_duration": "59:28",
       "speakers": [
-        "Abena Oppong-Asare",
-        "Lib Dem",
-        "Melanie Onn",
-        "Great Grimsby",
-        "John Gager",
-        "Tunbridge Wells",
+        "General Election",
         "Matt Forde"
       ],
       "topics": [
@@ -2534,11 +2182,6 @@
       "enclosure_length": "75058189",
       "itunes_duration": "52:07",
       "speakers": [
-        "Preet Kaur Gill",
-        "Andy Carter",
-        "Simon Burwood",
-        "Lib Dem",
-        "Ben Pickles",
         "Matt Forde"
       ],
       "topics": [
@@ -2558,10 +2201,7 @@
       "enclosure_length": "102928611",
       "itunes_duration": "1:11:28",
       "speakers": [
-        "Douglas Alexander",
-        "Chris Webb",
-        "Ieuan Môn Williams",
-        "Ynes Môn",
+        "different lives",
         "Matt Forde"
       ],
       "topics": [
@@ -2581,14 +2221,7 @@
       "enclosure_length": "91522665",
       "itunes_duration": "1:03:33",
       "speakers": [
-        "Jess Phillips",
-        "Birmingham Yardley",
-        "Will Sapwell",
-        "Lib Dem",
-        "Lilian Greenwood",
-        "Nottingham South",
-        "Jenny Johnson",
-        "Richard Lloyd"
+        "Matt Forde"
       ],
       "topics": [
         "election",
@@ -2607,12 +2240,6 @@
       "enclosure_length": "102130209",
       "itunes_duration": "1:10:55",
       "speakers": [
-        "Nick Thomas-Symonds",
-        "Michael Shanks",
-        "Charlotte Salomon",
-        "Norwich North",
-        "Calum Miller",
-        "Lib Dems",
         "Matt Forde"
       ],
       "topics": [
@@ -2632,10 +2259,7 @@
       "enclosure_length": "100708561",
       "itunes_duration": "1:09:55",
       "speakers": [
-        "Frederick van Mierlo",
-        "Lib Dems",
-        "Ben Bradley",
-        "Lucy Stephenson",
+        "Marie Trevelyan",
         "Matt Forde"
       ],
       "topics": [
@@ -2655,11 +2279,6 @@
       "enclosure_length": "84198954",
       "itunes_duration": "58:27",
       "speakers": [
-        "Alex Davies-Jones",
-        "Robert Buckland",
-        "Helen Maguire",
-        "Lib Dems",
-        "Andrew Dinsmore",
         "Matt Forde"
       ],
       "topics": [
@@ -2679,10 +2298,6 @@
       "enclosure_length": "112093829",
       "itunes_duration": "1:17:50",
       "speakers": [
-        "Will Goodhand",
-        "Claire Hanna",
-        "Theodore Jupp",
-        "Lib Dems",
         "Matt Forde"
       ],
       "topics": [
@@ -2702,12 +2317,6 @@
       "enclosure_length": "104448450",
       "itunes_duration": "1:12:31",
       "speakers": [
-        "Josh Babarinde",
-        "Rushanara Ali",
-        "Scott Smith",
-        "Manchester Central",
-        "Lib Dems",
-        "Kelly Dougall",
         "Matt Forde"
       ],
       "topics": [
@@ -2727,11 +2336,6 @@
       "enclosure_length": "102951547",
       "itunes_duration": "1:11:29",
       "speakers": [
-        "Ed Davey",
-        "Rosie Duffield",
-        "James Cracknell",
-        "Ellen Nicholson",
-        "Liberal Democrats",
         "Matt Forde"
       ],
       "topics": [
@@ -2751,11 +2355,7 @@
       "enclosure_length": "130216977",
       "itunes_duration": "1:30:25",
       "speakers": [
-        "Alison McGovern",
-        "Michelle Welsh",
-        "Claire Hazelgrove",
-        "Bradley Stoke",
-        "Danielle Dunfield-Prayero",
+        "Political Party Battlebus",
         "Matt Forde"
       ],
       "topics": [
@@ -2775,11 +2375,6 @@
       "enclosure_length": "94203195",
       "itunes_duration": "1:05:24",
       "speakers": [
-        "Wes Streeting",
-        "Ilford North",
-        "Sarah Cooper-Lesadd",
-        "Claire Malcomson",
-        "Vicki Smith",
         "Matt Forde"
       ],
       "topics": [
@@ -2799,10 +2394,7 @@
       "enclosure_length": "67319625",
       "itunes_duration": "46:44",
       "speakers": [
-        "Colum Eastwood",
-        "Birmingham Selly Oak",
-        "Charles Dundas",
-        "Edinburgh East",
+        "Northern Ireland",
         "Matt Forde"
       ],
       "topics": [
@@ -2822,9 +2414,6 @@
       "enclosure_length": "78122165",
       "itunes_duration": "54:14",
       "speakers": [
-        "Stewart McDonald",
-        "Mark Johnston",
-        "Laura Blumenthal",
         "Matt Forde"
       ],
       "topics": [
@@ -2844,11 +2433,6 @@
       "enclosure_length": "64476927",
       "itunes_duration": "44:46",
       "speakers": [
-        "Milton Keynes",
-        "Johnny Luk",
-        "Alison Thewliss",
-        "Glasgow North",
-        "Torcuil Crichton",
         "Matt Forde"
       ],
       "topics": [
@@ -2868,9 +2452,6 @@
       "enclosure_length": "81959261",
       "itunes_duration": "56:54",
       "speakers": [
-        "Kelly Fowler",
-        "Ben Fletcher",
-        "Blair McDougall",
         "Matt Forde"
       ],
       "topics": [
@@ -2890,9 +2471,6 @@
       "enclosure_length": "81209661",
       "itunes_duration": "56:23",
       "speakers": [
-        "James Frith",
-        "Jordan Cowie",
-        "Pamela Nash",
         "Matt Forde"
       ],
       "topics": [
@@ -2914,8 +2492,6 @@
       "speakers": [
         "Mike Amesbury",
         "Runcorn Tim Barnes",
-        "Westminster Laura Weldon",
-        "Laura Weldon",
         "Matt Forde"
       ],
       "topics": [
@@ -2935,10 +2511,6 @@
       "enclosure_length": "99121665",
       "itunes_duration": "1:08:49",
       "speakers": [
-        "Dave Rowntree",
-        "Bim Afolami",
-        "Hitchin Jess Asato",
-        "Lowestoft Sara Gezdari",
         "Matt Forde"
       ],
       "topics": [
@@ -2959,8 +2531,6 @@
       "itunes_duration": "1:01:06",
       "speakers": [
         "Ros Atkins Ros",
-        "Buy Ros",
-        "Twitter Listen",
         "Matt Forde"
       ],
       "topics": [
@@ -2980,8 +2550,6 @@
       "itunes_duration": "1:01:29",
       "speakers": [
         "Nathaniel Dye Nathaniel",
-        "Follow NathanielD",
-        "Twitter Email",
         "Matt Forde"
       ],
       "topics": [
@@ -3000,9 +2568,8 @@
       "enclosure_length": "110470712",
       "itunes_duration": "1:16:42",
       "speakers": [
-        "Nottingham Forest",
-        "Follow nadiawhittomeMP",
-        "Twitter Email",
+        "Nadia Whittome Forest",
+        "Labour Party",
         "Matt Forde"
       ],
       "topics": [
@@ -3025,7 +2592,6 @@
         "Matthew McGregor",
         "Jon Cruddas",
         "Barack Obama",
-        "Twitter Email",
         "Matt Forde"
       ],
       "topics": [
@@ -3046,7 +2612,6 @@
       "itunes_duration": "36:10",
       "speakers": [
         "Tim Loughton Returns",
-        "Twitter Email",
         "Matt Forde"
       ],
       "topics": [
@@ -3067,7 +2632,6 @@
       "itunes_duration": "48:56",
       "speakers": [
         "Greg Cook",
-        "Twitter Email",
         "Matt Forde"
       ],
       "topics": [
@@ -3091,7 +2655,6 @@
       "itunes_duration": "53:34",
       "speakers": [
         "Euan McColm",
-        "Twitter Email",
         "Matt Forde"
       ],
       "topics": [
@@ -3113,8 +2676,6 @@
       "itunes_duration": "44:43",
       "speakers": [
         "Steve Rotheram",
-        "Jeremy Corbyn",
-        "Twitter Email",
         "Matt Forde"
       ],
       "topics": [
@@ -3135,7 +2696,6 @@
       "itunes_duration": "50:22",
       "speakers": [
         "Kevin Schofield",
-        "Twitter Email",
         "Matt Forde"
       ],
       "topics": [
@@ -3156,8 +2716,6 @@
       "itunes_duration": "1:05:25",
       "speakers": [
         "Gloria De Piero",
-        "Lee Anderson",
-        "Twitter Email",
         "Matt Forde"
       ],
       "topics": [
@@ -3178,7 +2736,6 @@
       "itunes_duration": "42:21",
       "speakers": [
         "Kate Fall",
-        "Rishi Sunak",
         "Matt Forde"
       ],
       "topics": [
@@ -3258,7 +2815,6 @@
       "itunes_duration": "53:21",
       "speakers": [
         "Stephen Flynn",
-        "Watch Ray McKinnon",
         "Matt Forde"
       ],
       "topics": [
@@ -3337,6 +2893,8 @@
       "enclosure_length": "91485048",
       "itunes_duration": "1:03:31",
       "speakers": [
+        "Nicola Sturgeon",
+        "Replay Four",
         "Matt Forde"
       ],
       "topics": [
@@ -3357,9 +2915,6 @@
       "enclosure_length": "170271690",
       "itunes_duration": "1:58:14",
       "speakers": [
-        "Heidi Allen",
-        "Mike Gapes",
-        "Ann Coffey",
         "Matt Forde"
       ],
       "topics": [
@@ -3512,6 +3067,8 @@
       "enclosure_length": "113469076",
       "itunes_duration": "1:18:47",
       "speakers": [
+        "Paddy Ashdown",
+        "Replay Another",
         "Matt Forde"
       ],
       "topics": [
@@ -3533,7 +3090,6 @@
       "itunes_duration": "1:17:19",
       "speakers": [
         "Angela Rayner Replay",
-        "Angela Rayner",
         "Matt Forde"
       ],
       "topics": [
@@ -3554,6 +3110,8 @@
       "enclosure_length": "112892378",
       "itunes_duration": "1:18:23",
       "speakers": [
+        "Suella Braverman",
+        "Home Secretary",
         "Matt Forde"
       ],
       "topics": [
@@ -3576,7 +3134,6 @@
       "speakers": [
         "Nick Clegg Replay Recorded",
         "Nick Clegg",
-        "Mark Zuckerberg",
         "Matt Forde"
       ],
       "topics": [
@@ -3681,7 +3238,6 @@
       "itunes_duration": "39:07",
       "speakers": [
         "Lewis Goodall",
-        "Buy Lewis",
         "Matt Forde"
       ],
       "topics": [
@@ -3702,8 +3258,6 @@
       "itunes_duration": "1:04:30",
       "speakers": [
         "Kate Forbes",
-        "Dan Jarvis",
-        "Jason Williamson",
         "Matt Forde"
       ],
       "topics": [
@@ -3725,10 +3279,6 @@
       "enclosure_length": "65001088",
       "itunes_duration": "1:07:42",
       "speakers": [
-        "Angela Rayner",
-        "Kate Forbes",
-        "Dan Jarvis",
-        "Jason Williamson",
         "Matt Forde"
       ],
       "topics": [
@@ -3750,12 +3300,9 @@
       "enclosure_length": "158370496",
       "itunes_duration": "1:05:59",
       "speakers": [
-        "Rishi Sunak",
-        "Joe Wicks",
-        "Angela Rayner",
-        "Kate Forbes",
-        "Dan Jarvis",
-        "Jason Williamson",
+        "Humza Yousaf",
+        "Edinburgh Festival",
+        "First Minister",
         "Matt Forde"
       ],
       "topics": [
@@ -3777,10 +3324,6 @@
       "enclosure_length": "73371285",
       "itunes_duration": "50:56",
       "speakers": [
-        "Angela Rayner",
-        "Kate Forbes",
-        "Dan Jarvis",
-        "Jason Williamson",
         "Matt Forde"
       ],
       "topics": [
@@ -3801,11 +3344,6 @@
       "itunes_duration": "1:27:52",
       "speakers": [
         "Joe Lycett",
-        "David Beckham",
-        "Laura Kuenssberg",
-        "Rishi Sunak",
-        "Dan Jarvis",
-        "Jason Williamson Buy",
         "Matt Forde"
       ],
       "topics": [
@@ -3825,11 +3363,6 @@
       "itunes_duration": "1:34:09",
       "speakers": [
         "Margaret Beckett",
-        "Tony Benn",
-        "John Smith",
-        "Joe Lycett",
-        "Dan Jarvis",
-        "Jason Williamson Buy",
         "Matt Forde"
       ],
       "topics": [
@@ -3850,11 +3383,7 @@
       "itunes_duration": "1:34:11",
       "speakers": [
         "Philip Hammond",
-        "Theresa May",
-        "Margaret Beckett",
-        "Joe Lycett",
-        "Dan Jarvis",
-        "Jason Williamson Buy"
+        "Matt Forde"
       ],
       "topics": [
         "philip",
@@ -3874,12 +3403,7 @@
       "itunes_duration": "1:03:31",
       "speakers": [
         "Rob Burley Rob",
-        "Marr Show",
-        "Andrew Neil",
-        "Buy Rob",
-        "Philip Hammond",
-        "Margaret Beckett",
-        "Joe Lycett October"
+        "Matt Forde"
       ],
       "topics": [
         "burley"
@@ -3898,10 +3422,6 @@
       "itunes_duration": "1:25:22",
       "speakers": [
         "David Blunkett",
-        "Philip Hammond",
-        "Margaret Beckett",
-        "Joe Lycett October",
-        "Jason Williamson",
         "Matt Forde"
       ],
       "topics": [
@@ -3921,14 +3441,7 @@
       "enclosure_length": "81866681",
       "itunes_duration": "56:50",
       "speakers": [
-        "Hillary Clinton",
-        "George Mitchell",
-        "Follow Andrea",
-        "David Blunkett",
-        "Philip Hammond",
-        "Margaret Beckett",
-        "Joe Lycett October",
-        "Jason Williamson"
+        "Matt Forde"
       ],
       "topics": [
         "andrea",
@@ -3948,11 +3461,6 @@
       "itunes_duration": "1:14:26",
       "speakers": [
         "David Aaronovitch",
-        "David Blunkett",
-        "Philip Hammond",
-        "Margaret Beckett",
-        "Joe Lycett October",
-        "Jason Williamson",
         "Matt Forde"
       ],
       "topics": [
@@ -3973,11 +3481,6 @@
       "itunes_duration": "1:37:03",
       "speakers": [
         "Jess Phillips",
-        "Rishi Sunak",
-        "David Blunkett",
-        "Philip Hammond",
-        "Margaret Beckett",
-        "Joe Lycett Plus",
         "Matt Forde"
       ],
       "topics": [
@@ -3997,13 +3500,6 @@
       "enclosure_length": "86187737",
       "itunes_duration": "59:50",
       "speakers": [
-        "London Playbook",
-        "Jeremy Corbyn",
-        "Jess Phillips",
-        "David Blunkett",
-        "Philip Hammond",
-        "Margaret Beckett",
-        "Joe Lycett Plus",
         "Matt Forde"
       ],
       "topics": [
@@ -4023,10 +3519,7 @@
       "enclosure_length": "224501056",
       "itunes_duration": "1:33:32",
       "speakers": [
-        "Jess Phillips",
-        "David Blunkett",
-        "Philip Hammond July",
-        "Joe Lycett Plus",
+        "Scottish Conservatives",
         "Matt Forde"
       ],
       "topics": [
@@ -4046,11 +3539,6 @@
       "enclosure_length": "174751785",
       "itunes_duration": "1:12:48",
       "speakers": [
-        "Jeremy Corbyn",
-        "Ruth Davidson",
-        "Jess Phillips",
-        "David Blunkett",
-        "Philip Hammond Plus",
         "Matt Forde"
       ],
       "topics": [
@@ -4071,13 +3559,7 @@
       "itunes_duration": "1:26:16",
       "speakers": [
         "Krishnan Guru-Murthy",
-        "Steve Baker",
-        "Robert Downey Jr",
-        "Quentin Tarantino",
-        "Jimmy Savile",
-        "Ruth Davidson",
-        "Jess Phillips",
-        "David Blunkett"
+        "Matt Forde"
       ],
       "topics": [
         "krishnan",
@@ -4097,13 +3579,8 @@
       "enclosure_length": "78038528",
       "itunes_duration": "54:11",
       "speakers": [
-        "Gary Lineker",
-        "Brian Clough",
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson",
-        "Jess Phillips",
-        "David Blunkett",
-        "Philip Hammond Plus",
+        "Greg Dyke Greg Dyke",
+        "Director General",
         "Matt Forde"
       ],
       "topics": [
@@ -4124,11 +3601,6 @@
       "itunes_duration": "55:54",
       "speakers": [
         "Ash Regan",
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson",
-        "Jess Phillips",
-        "David Blunkett",
-        "Philip Hammond Plus",
         "Matt Forde"
       ],
       "topics": [
@@ -4147,12 +3619,7 @@
       "enclosure_length": "147793288",
       "itunes_duration": "1:42:37",
       "speakers": [
-        "Abraham Lincoln",
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson",
-        "Jess Phillips",
-        "David Blunkett",
-        "Philip Hammond Plus",
+        "Eddie Izzard",
         "Matt Forde"
       ],
       "topics": [
@@ -4173,10 +3640,6 @@
       "itunes_duration": "1:12:25",
       "speakers": [
         "Kate Forbes",
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson",
-        "David Blunkett",
-        "Philip Hammond Plus",
         "Matt Forde"
       ],
       "topics": [
@@ -4196,11 +3659,6 @@
       "enclosure_length": "137638316",
       "itunes_duration": "1:35:34",
       "speakers": [
-        "Volodmyr Zelensky",
-        "Dominic Raab",
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson",
-        "David Blunkett",
         "Matt Forde"
       ],
       "topics": [
@@ -4220,9 +3678,6 @@
       "enclosure_length": "105238278",
       "itunes_duration": "1:13:04",
       "speakers": [
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson",
-        "David Blunkett",
         "Matt Forde"
       ],
       "topics": [
@@ -4243,9 +3698,6 @@
       "itunes_duration": "42:05",
       "speakers": [
         "Stewart McDonald",
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson",
-        "David Blunkett",
         "Matt Forde"
       ],
       "topics": [
@@ -4268,8 +3720,7 @@
       "enclosure_length": "120630516",
       "itunes_duration": "1:23:45",
       "speakers": [
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson Plus",
+        "Ian Blackford",
         "Matt Forde"
       ],
       "topics": [
@@ -4288,10 +3739,6 @@
       "enclosure_length": "144001488",
       "itunes_duration": "1:39:59",
       "speakers": [
-        "Prince Andrew",
-        "Ian Blackford",
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson Plus",
         "Matt Forde"
       ],
       "topics": [
@@ -4312,9 +3759,7 @@
       "enclosure_length": "111148756",
       "itunes_duration": "1:17:10",
       "speakers": [
-        "Ian Blackford",
-        "Krishnan Guru-Murthy",
-        "Ruth Davidson Plus",
+        "Helen Lewis Helen",
         "Matt Forde"
       ],
       "topics": [
@@ -4334,9 +3779,7 @@
       "enclosure_length": "98809114",
       "itunes_duration": "1:08:36",
       "speakers": [
-        "Glenda Jackson",
-        "Follow Dan",
-        "Buy Dan",
+        "Dan Hodges One",
         "Matt Forde"
       ],
       "topics": [
@@ -4379,8 +3822,6 @@
       "itunes_duration": "42:22",
       "speakers": [
         "Yvette Cooper",
-        "Emily Thornberry",
-        "Ed Balls",
         "Matt Forde"
       ],
       "topics": [
@@ -4404,9 +3845,7 @@
       "enclosure_length": "108251216",
       "itunes_duration": "1:15:10",
       "speakers": [
-        "Matt Hancock",
-        "Yvette Cooper",
-        "Emily Thornberry",
+        "Rachel Reeves",
         "Matt Forde"
       ],
       "topics": [
@@ -4426,9 +3865,8 @@
       "enclosure_length": "94461190",
       "itunes_duration": "1:05:35",
       "speakers": [
-        "Read Stephen",
-        "Yvette Cooper",
-        "Emily Thornberry",
+        "Stephen Noon Stephen",
+        "Chief Strategist",
         "Matt Forde"
       ],
       "topics": [
@@ -4448,9 +3886,6 @@
       "enclosure_length": "127276752",
       "itunes_duration": "1:28:22",
       "speakers": [
-        "Rishi Sunak",
-        "Emily Thornberry",
-        "Jon Sopel",
         "Matt Forde"
       ],
       "topics": [
@@ -4471,9 +3906,6 @@
       "itunes_duration": "1:38:02",
       "speakers": [
         "David Dimbleby",
-        "Buy David",
-        "Jake Berry",
-        "Jon Sopel",
         "Matt Forde"
       ],
       "topics": [
@@ -4493,9 +3925,6 @@
       "enclosure_length": "87695086",
       "itunes_duration": "1:00:53",
       "speakers": [
-        "Follow Gavin",
-        "David Dimbleby",
-        "Jon Sopel",
         "Matt Forde"
       ],
       "topics": [
@@ -4515,9 +3944,7 @@
       "enclosure_length": "146004054",
       "itunes_duration": "1:41:23",
       "speakers": [
-        "Grant Shapps",
-        "David Dimbleby",
-        "Matt Hancock",
+        "Prime Minister",
         "Matt Forde"
       ],
       "topics": [
@@ -4537,9 +3964,6 @@
       "enclosure_length": "137829593",
       "itunes_duration": "1:35:42",
       "speakers": [
-        "Mick Lynch",
-        "David Dimbleby",
-        "Matt Hancock",
         "Matt Forde"
       ],
       "topics": [
@@ -4560,10 +3984,7 @@
       "itunes_duration": "1:11:34",
       "speakers": [
         "David Gauke",
-        "Follow David",
-        "David Dimbleby",
-        "Matt Hancock",
-        "Read David",
+        "David Gau",
         "Matt Forde"
       ],
       "topics": [
@@ -4585,8 +4006,6 @@
       "speakers": [
         "Tom Blenkinsop Patriotic",
         "Tom Blenkinsop",
-        "Jeremy Corbyn",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4605,9 +4024,8 @@
       "enclosure_length": "94406199",
       "itunes_duration": "1:05:33",
       "speakers": [
-        "Jon Sopel",
-        "Matt Hancock",
-        "Follow Matt",
+        "Joanna Cherry",
+        "Edinburgh Festival",
         "Matt Forde"
       ],
       "topics": [
@@ -4629,11 +4047,6 @@
       "enclosure_length": "159630016",
       "itunes_duration": "1:06:30",
       "speakers": [
-        "Comic Con",
-        "Joanna Cherry",
-        "Jon Sopel",
-        "Matt Hancock",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4655,11 +4068,6 @@
       "enclosure_length": "72604820",
       "itunes_duration": "1:00:29",
       "speakers": [
-        "Nelson Mandela",
-        "Joanna Cherry",
-        "Jon Sopel",
-        "Matt Hancock",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4681,9 +4089,6 @@
       "enclosure_length": "109194321",
       "itunes_duration": "1:15:49",
       "speakers": [
-        "Joanna Cherry",
-        "Matt Hancock",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4705,11 +4110,7 @@
       "speakers": [
         "Sam McAlister",
         "Prince Andrew",
-        "Julian Assange",
-        "Steven Seagal",
-        "Amy Schumer",
-        "Buy Sam",
-        "Alan Johnson"
+        "Matt Forde"
       ],
       "topics": [
         "mcalister"
@@ -4728,10 +4129,6 @@
       "itunes_duration": "1:24:00",
       "speakers": [
         "Lindsay Hoyle",
-        "Alan Johnson",
-        "Joanna Cherry",
-        "Matt Hancock",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4751,11 +4148,6 @@
       "enclosure_length": "119469179",
       "itunes_duration": "1:22:57",
       "speakers": [
-        "Michel Barnier",
-        "Lindsay Hoyle",
-        "Alan Johnson",
-        "Matt Hancock",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4776,11 +4168,6 @@
       "itunes_duration": "1:44:49",
       "speakers": [
         "Gary Neville",
-        "Alex Ferguson",
-        "David Davis",
-        "Lindsay Hoyle",
-        "Alan Johnson Email",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4801,10 +4188,6 @@
       "itunes_duration": "1:30:03",
       "speakers": [
         "Wes Streeting",
-        "Gary Neville",
-        "David Davis",
-        "Lindsay Hoyle Email",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4824,12 +4207,6 @@
       "itunes_duration": "1:26:08",
       "speakers": [
         "Lisa Nandy",
-        "Holsten Pils",
-        "Wes Streeting",
-        "Gary Neville",
-        "David Davis",
-        "Lindsay Hoyle Email",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -4850,13 +4227,7 @@
       "itunes_duration": "40:11",
       "speakers": [
         "Vladimir Ashurkov",
-        "Vladimir Putin",
-        "Lisa Nandy",
-        "Wes Streeting",
-        "Gary Neville",
-        "David Davis",
-        "Lindsay Hoyle Email",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "vladimir",
@@ -4875,13 +4246,7 @@
       "enclosure_length": "131232759",
       "itunes_duration": "1:31:07",
       "speakers": [
-        "Andrew Marr",
-        "Jeremy Corbyn",
-        "Lisa Nandy",
-        "Wes Streeting",
-        "Gary Neville",
-        "David Davis",
-        "Lindsay Hoyle Email"
+        "Matt Forde"
       ],
       "topics": [
         "andrew",
@@ -4901,13 +4266,7 @@
       "itunes_duration": "59:03",
       "speakers": [
         "Rosena Allin-Khan",
-        "Follow Rosena",
-        "DrRosena Buy",
-        "Andrew Marr",
-        "Lisa Nandy",
-        "Wes Streeting",
-        "Gary Neville",
-        "David Davis"
+        "Matt Forde"
       ],
       "topics": [
         "rosena",
@@ -4928,13 +4287,7 @@
       "itunes_duration": "1:31:08",
       "speakers": [
         "Rosie Duffield",
-        "Andrew Marr",
-        "Lisa Nandy",
-        "Wes Streeting",
-        "Gary Neville",
-        "David Davis",
-        "Lindsay Hoyle Email",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "rosie",
@@ -4953,13 +4306,7 @@
       "enclosure_length": "150664576",
       "itunes_duration": "1:02:46",
       "speakers": [
-        "Jacob Rees-Mogg",
-        "Rishi Sunak",
-        "Rosie Duffield",
-        "Andrew Marr",
-        "Lisa Nandy",
-        "Wes Streeting",
-        "Gary Neville"
+        "Matt Forde"
       ],
       "topics": [
         "jacob",
@@ -4980,13 +4327,7 @@
       "itunes_duration": "1:28:23",
       "speakers": [
         "James Cleverly",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Rosie Duffield",
-        "Lisa Nandy",
-        "Wes Streeting",
-        "Gary Neville",
-        "David Davis"
+        "Matt Forde"
       ],
       "topics": [
         "james",
@@ -5005,14 +4346,7 @@
       "enclosure_length": "102426944",
       "itunes_duration": "1:11:07",
       "speakers": [
-        "Buy Geoff",
-        "James Cleverly",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Rosie Duffield",
-        "Lisa Nandy",
-        "Gary Neville",
-        "David Davis"
+        "Matt Forde"
       ],
       "topics": [
         "geoff",
@@ -5032,13 +4366,7 @@
       "itunes_duration": "52:11",
       "speakers": [
         "Paul Johnson",
-        "Follow Paul",
-        "James Cleverly",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Rosie Duffield",
-        "Lisa Nandy",
-        "Gary Neville"
+        "Matt Forde"
       ],
       "topics": [
         "paul",
@@ -5060,14 +4388,7 @@
       "enclosure_length": "117557232",
       "itunes_duration": "1:21:37",
       "speakers": [
-        "James Cleverly",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Rosie Duffield",
-        "Lisa Nandy",
-        "Gary Neville",
-        "David Davis",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "tugendhat"
@@ -5086,13 +4407,7 @@
       "itunes_duration": "1:43:19",
       "speakers": [
         "Blair McDougall",
-        "Tom Tugendhat",
-        "James Cleverly",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Rosie Duffield",
-        "Lisa Nandy",
-        "Gary Neville"
+        "Matt Forde"
       ],
       "topics": [
         "blair",
@@ -5111,14 +4426,7 @@
       "enclosure_length": "155091666",
       "itunes_duration": "1:47:41",
       "speakers": [
-        "Neil Kinnock",
-        "Tom Tugendhat",
-        "James Cleverly",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Rosie Duffield",
-        "Lisa Nandy",
-        "Gary Neville"
+        "Matt Forde"
       ],
       "topics": [
         "neil",
@@ -5138,8 +4446,6 @@
       "itunes_duration": "1:12:18",
       "speakers": [
         "Mhairi Hunter",
-        "Follow Mhairi",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5160,10 +4466,6 @@
       "itunes_duration": "1:33:42",
       "speakers": [
         "Edwina Currie",
-        "Margaret Thatcher",
-        "John Major",
-        "Follow Edwina",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5183,12 +4485,6 @@
       "enclosure_length": "123848124",
       "itunes_duration": "1:25:59",
       "speakers": [
-        "Margaret Thatcher",
-        "John Major",
-        "Neil Kinnock",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5209,11 +4505,6 @@
       "itunes_duration": "52:42",
       "speakers": [
         "Gina Miller",
-        "Michael Heseltine",
-        "Neil Kinnock",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5233,12 +4524,6 @@
       "enclosure_length": "137588296",
       "itunes_duration": "1:35:32",
       "speakers": [
-        "Angela Rayner",
-        "Follow Angela",
-        "Michael Heseltine",
-        "Neil Kinnock",
-        "Jacob Rees-Mogg Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5259,11 +4544,6 @@
       "itunes_duration": "57:20",
       "speakers": [
         "Craig Oliver",
-        "Follow Craig",
-        "Angela Rayner Feb",
-        "Michael Heseltine",
-        "Neil Kinnock Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5284,11 +4564,6 @@
       "itunes_duration": "1:32:08",
       "speakers": [
         "Alastair Campbell",
-        "Follow Alastair",
-        "Angela Rayner Feb",
-        "Michael Heseltine",
-        "Neil Kinnock Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5308,11 +4583,7 @@
       "enclosure_length": "77526008",
       "itunes_duration": "53:54",
       "speakers": [
-        "Pippa Crerar",
-        "Barnard Castle",
-        "Follow Pippa",
-        "Angela Rayner Buy",
-        "Follow Matt",
+        "Pippa Cre",
         "Matt Forde"
       ],
       "topics": [
@@ -5332,14 +4603,8 @@
       "enclosure_length": "115378988",
       "itunes_duration": "1:20:14",
       "speakers": [
-        "Tina Stowell",
-        "John Major",
-        "Follow Tina",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Angela Rayner Buy",
-        "Download Tina",
-        "Follow Matt"
+        "Tina Stowel",
+        "Matt Forde"
       ],
       "topics": [
         "tina",
@@ -5361,11 +4626,6 @@
       "itunes_duration": "1:27:42",
       "speakers": [
         "Jeremy Hunt",
-        "Follow Jeremy",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Angela Rayner Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5385,13 +4645,7 @@
       "enclosure_length": "125637868",
       "itunes_duration": "1:27:22",
       "speakers": [
-        "Saddam Hussein",
-        "Follow Ayesha",
-        "Jeremy Hunt",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Neil Kinnock Buy",
-        "Follow Matt",
+        "Ayesha Hazarika If",
         "Matt Forde"
       ],
       "topics": [
@@ -5411,13 +4665,7 @@
       "enclosure_length": "138613602",
       "itunes_duration": "1:36:23",
       "speakers": [
-        "Steve Bannon",
-        "Follow Anthony",
-        "Jeremy Hunt",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Neil Kinnock Buy",
-        "Follow Matt",
+        "Anthony Scaramucci",
         "Matt Forde"
       ],
       "topics": [
@@ -5438,13 +4686,7 @@
       "itunes_duration": "1:05:36",
       "speakers": [
         "Gemma Doyle",
-        "Jeremy Corbyn",
-        "Anthony Scaramucci",
-        "Jeremy Hunt",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Neil Kinnock Buy",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "gemma",
@@ -5463,13 +4705,7 @@
       "enclosure_length": "139275975",
       "itunes_duration": "1:36:42",
       "speakers": [
-        "Follow Anas",
-        "Anthony Scaramucci",
-        "Jeremy Hunt",
-        "Jacob Rees-Mogg",
-        "Rosena Allin-Khan",
-        "Neil Kinnock Buy",
-        "Follow Matt",
+        "Anas Sarwar",
         "Matt Forde"
       ],
       "topics": [
@@ -5491,10 +4727,6 @@
       "speakers": [
         "Stephen Kinnock Kinnock",
         "Stephen Kinnock",
-        "Follow Stephen",
-        "Anthony Scaramucci",
-        "Jeremy Hunt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5515,11 +4747,6 @@
       "itunes_duration": "1:05:58",
       "speakers": [
         "Kevin Brennan",
-        "Follow Kevin",
-        "Anthony Scaramucci",
-        "Jeremy Hunt Pre-order",
-        "Tabernacle Lane",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5540,10 +4767,6 @@
       "itunes_duration": "1:28:07",
       "speakers": [
         "Penny Mordaunt",
-        "Follow Penny",
-        "Anthony Scaramucci",
-        "Jeremy Hunt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5564,9 +4787,6 @@
       "itunes_duration": "1:07:41",
       "speakers": [
         "John Rentoul",
-        "Anthony Scaramucci",
-        "Jeremy Hunt Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5586,11 +4806,6 @@
       "enclosure_length": "127189159",
       "itunes_duration": "1:28:27",
       "speakers": [
-        "Follow Andy",
-        "Anthony Scaramucci",
-        "Jeremy Hunt Buy",
-        "Penny Mordaunt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5611,12 +4826,6 @@
       "itunes_duration": "1:14:27",
       "speakers": [
         "Anna Turley",
-        "Jeremy Corbyn",
-        "Follow Anna",
-        "Andy Burnham",
-        "Anthony Scaramucci",
-        "Jeremy Hunt Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5637,12 +4846,7 @@
       "itunes_duration": "1:56:43",
       "speakers": [
         "Gabriel Milland",
-        "Michael Gove",
-        "Follow Gabriel",
-        "Andy Burnham",
-        "Anthony Scaramucci",
-        "Jeremy Hunt Buy",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "gabriel",
@@ -5661,11 +4865,6 @@
       "enclosure_length": "105585793",
       "itunes_duration": "1:13:19",
       "speakers": [
-        "Follow Lorna",
-        "Andy Burnham",
-        "Anthony Scaramucci",
-        "Jeremy Hunt Buy",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5685,10 +4884,7 @@
       "enclosure_length": "91339989",
       "itunes_duration": "1:03:31",
       "speakers": [
-        "Lib Dems",
-        "Lib Dem",
-        "Andy Burnham",
-        "Follow Matt",
+        "Siobhan Benita Siobhan",
         "Matt Forde"
       ],
       "topics": [
@@ -5709,10 +4905,6 @@
       "itunes_duration": "1:26:18",
       "speakers": [
         "Roh Yakobi",
-        "Follow Roh",
-        "org Buy",
-        "Andy Burnham",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5731,10 +4923,8 @@
       "enclosure_length": "112146971",
       "itunes_duration": "1:17:59",
       "speakers": [
-        "Lib Dems",
-        "Follow Alex",
-        "Andy Burnham",
-        "Follow Matt",
+        "Alex Cole",
+        "Scottish Liberal Democrats",
         "Matt Forde"
       ],
       "topics": [
@@ -5756,8 +4946,6 @@
       "itunes_duration": "56:35",
       "speakers": [
         "Tom Tugendhat",
-        "Andy Burnham",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5778,8 +4966,6 @@
       "itunes_duration": "1:46:22",
       "speakers": [
         "Peter Kyle",
-        "Anita Roddick",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5800,11 +4986,6 @@
       "itunes_duration": "1:22:00",
       "speakers": [
         "Pat McFadden",
-        "Donald Dewar",
-        "John Smith",
-        "Follow Pat",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5823,11 +5004,6 @@
       "enclosure_length": "99417963",
       "itunes_duration": "1:09:02",
       "speakers": [
-        "Isaac Dovere",
-        "Ilhan Omar",
-        "Follow Isaac",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5849,11 +5025,6 @@
       "itunes_duration": "1:08:17",
       "speakers": [
         "Chloe Smith",
-        "Elections Bill",
-        "Follow Chloe",
-        "NorwichChloe Subscribe",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5874,8 +5045,6 @@
       "itunes_duration": "1:01:28",
       "speakers": [
         "Carole Walker",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5895,9 +5064,6 @@
       "enclosure_length": "97556805",
       "itunes_duration": "1:07:50",
       "speakers": [
-        "Follow Toby",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5919,9 +5085,6 @@
       "itunes_duration": "1:14:43",
       "speakers": [
         "Stewart MacDonald",
-        "StewartMacDonald Subscribe",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5942,11 +5105,6 @@
       "itunes_duration": "40:46",
       "speakers": [
         "Frank Luntz",
-        "Newt Gingrich",
-        "Mitt Romney",
-        "Follow Frank",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5966,9 +5124,6 @@
       "enclosure_length": "95546037",
       "itunes_duration": "1:06:20",
       "speakers": [
-        "Follow Jess",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -5989,8 +5144,6 @@
       "itunes_duration": "56:47",
       "speakers": [
         "Esther McVey",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6010,11 +5163,6 @@
       "enclosure_length": "88945553",
       "itunes_duration": "1:01:51",
       "speakers": [
-        "Bob Diamond",
-        "Follow Andrea",
-        "andrealeadsom Subscribe",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6034,10 +5182,7 @@
       "enclosure_length": "64577757",
       "itunes_duration": "44:54",
       "speakers": [
-        "Jess Phillips",
-        "Follow Sayeeda",
-        "Order Matt",
-        "Follow Matt",
+        "Sayeeda Warsi",
         "Matt Forde"
       ],
       "topics": [
@@ -6057,9 +5202,6 @@
       "enclosure_length": "86167865",
       "itunes_duration": "59:55",
       "speakers": [
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6079,10 +5221,6 @@
       "enclosure_length": "107247289",
       "itunes_duration": "1:14:35",
       "speakers": [
-        "Peter Mandelson",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6103,11 +5241,7 @@
       "itunes_duration": "1:58:12",
       "speakers": [
         "David Owen",
-        "Roy Jenkins",
-        "Shirley Williams",
-        "Margaret Thatcher",
-        "Jeremy Corbyn",
-        "James Callaghan"
+        "Matt Forde"
       ],
       "topics": [
         "david",
@@ -6127,12 +5261,7 @@
       "itunes_duration": "2:04:59",
       "speakers": [
         "Louise Casey",
-        "Homelessness Czar",
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom Sold",
-        "Jess Phillips",
-        "Order Matt"
+        "Matt Forde"
       ],
       "topics": [
         "louise",
@@ -6152,10 +5281,7 @@
       "itunes_duration": "1:26:45",
       "speakers": [
         "Greg Cook",
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom Sold",
-        "Jess Phillips"
+        "Matt Forde"
       ],
       "topics": [
         "election",
@@ -6178,12 +5304,7 @@
       "itunes_duration": "1:10:54",
       "speakers": [
         "Paul Williams",
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom Sold",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "hartlepool",
@@ -6206,12 +5327,7 @@
       "itunes_duration": "1:07:18",
       "speakers": [
         "Martin Angus",
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom Sold",
-        "Jess Phillips",
-        "Follow Martin",
-        "Order Matt"
+        "Matt Forde"
       ],
       "topics": [
         "polling",
@@ -6232,13 +5348,9 @@
       "enclosure_length": "87451305",
       "itunes_duration": "1:00:48",
       "speakers": [
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom Sold",
-        "Jess Phillips",
-        "adamprice Email",
-        "Order Matt",
-        "Follow Matt"
+        "Adam Price",
+        "Plaid Cymru",
+        "Matt Forde"
       ],
       "topics": [
         "adam",
@@ -6258,12 +5370,7 @@
       "itunes_duration": "1:10:02",
       "speakers": [
         "Liam Byrne",
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom Sold",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "liam",
@@ -6282,13 +5389,7 @@
       "enclosure_length": "94250297",
       "itunes_duration": "1:05:32",
       "speakers": [
-        "Jackie Weaver",
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom Sold",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "jackie",
@@ -6307,12 +5408,7 @@
       "enclosure_length": "113683801",
       "itunes_duration": "1:19:03",
       "speakers": [
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt",
+        "Humza Yousaf One",
         "Matt Forde"
       ],
       "topics": [
@@ -6333,12 +5429,7 @@
       "itunes_duration": "1:01:02",
       "speakers": [
         "Shaun Bailey",
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "shaun",
@@ -6357,12 +5448,7 @@
       "enclosure_length": "101063049",
       "itunes_duration": "1:10:16",
       "speakers": [
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt",
+        "Marvin Rees Bristol",
         "Matt Forde"
       ],
       "topics": [
@@ -6382,12 +5468,6 @@
       "enclosure_length": "86602551",
       "itunes_duration": "1:00:08",
       "speakers": [
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6406,12 +5486,6 @@
       "enclosure_length": "98169181",
       "itunes_duration": "1:08:10",
       "speakers": [
-        "Peter Mandelson",
-        "Sayeeda Warsi",
-        "Andrea Leadsom",
-        "Jess Phillips",
-        "Order Matt",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6432,7 +5506,6 @@
       "itunes_duration": "1:07:16",
       "speakers": [
         "Annie Wells",
-        "Order Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6452,7 +5525,7 @@
       "enclosure_length": "141049513",
       "itunes_duration": "1:37:56",
       "speakers": [
-        "Order Matt",
+        "Downing Stree",
         "Matt Forde"
       ],
       "topics": [
@@ -6472,7 +5545,7 @@
       "enclosure_length": "86136561",
       "itunes_duration": "59:48",
       "speakers": [
-        "Order Matt",
+        "Paddy Tipping",
         "Matt Forde"
       ],
       "topics": [
@@ -6493,8 +5566,6 @@
       "itunes_duration": "1:12:44",
       "speakers": [
         "Alan Milburn Stop",
-        "Follow Alan",
-        "Order Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6515,7 +5586,6 @@
       "itunes_duration": "1:06:01",
       "speakers": [
         "Jackie Baillie",
-        "Jackie Bailie",
         "Matt Forde"
       ],
       "topics": [
@@ -6538,7 +5608,7 @@
       "enclosure_length": "81022220",
       "itunes_duration": "56:20",
       "speakers": [
-        "Follow Tobias",
+        "Integrated Review",
         "Matt Forde"
       ],
       "topics": [
@@ -6559,9 +5629,6 @@
       "itunes_duration": "1:07:26",
       "speakers": [
         "Jamie Klingler",
-        "Sarah Everard",
-        "Follow Jamie",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -6581,8 +5648,7 @@
       "enclosure_length": "87065620",
       "itunes_duration": "1:00:32",
       "speakers": [
-        "John Lewis tells",
-        "Follow Andy",
+        "Andy Street If",
         "Matt Forde"
       ],
       "topics": [
@@ -6603,7 +5669,6 @@
       "itunes_duration": "1:15:21",
       "speakers": [
         "Paul Johnson",
-        "Follow Paul",
         "Matt Forde"
       ],
       "topics": [
@@ -6625,7 +5690,7 @@
       "enclosure_length": "111144738",
       "itunes_duration": "1:17:17",
       "speakers": [
-        "John Smith",
+        "Margaret Beckett One",
         "Matt Forde"
       ],
       "topics": [
@@ -6645,9 +5710,7 @@
       "enclosure_length": "130386726",
       "itunes_duration": "1:30:40",
       "speakers": [
-        "Mandy Rhodes",
-        "Follow Mandy",
-        "holyroodmandy Subscribe",
+        "Mandy Rhodes If",
         "Matt Forde"
       ],
       "topics": [
@@ -6687,8 +5750,7 @@
       "enclosure_length": "111970422",
       "itunes_duration": "1:17:52",
       "speakers": [
-        "Order Julia",
-        "Ngozi Okonjo-Iweala",
+        "Prime Minister",
         "Matt Forde"
       ],
       "topics": [
@@ -6708,8 +5770,7 @@
       "enclosure_length": "108174994",
       "itunes_duration": "1:15:13",
       "speakers": [
-        "Charlotte Leslie",
-        "Follow Charlotte",
+        "Charlotte Les",
         "Matt Forde"
       ],
       "topics": [
@@ -6750,7 +5811,6 @@
       "itunes_duration": "2:00:39",
       "speakers": [
         "John Sweeney",
-        "Vladimir Putin",
         "Matt Forde"
       ],
       "topics": [
@@ -6771,9 +5831,6 @@
       "itunes_duration": "1:20:37",
       "speakers": [
         "Hilary Benn",
-        "Tony Benn",
-        "Tracey Crouch",
-        "Jose Mourinho",
         "Matt Forde"
       ],
       "topics": [
@@ -6794,8 +5851,6 @@
       "itunes_duration": "1:21:41",
       "speakers": [
         "Nick Robinson",
-        "Wayne Rooney",
-        "Follow Nick",
         "Matt Forde"
       ],
       "topics": [
@@ -6815,8 +5870,6 @@
       "enclosure_length": "106670920",
       "itunes_duration": "1:14:04",
       "speakers": [
-        "Tracey Crouch",
-        "Tottenham Hotspur",
         "Matt Forde"
       ],
       "topics": [
@@ -6857,7 +5910,6 @@
       "itunes_duration": "1:03:26",
       "speakers": [
         "Deborah Mattinson Returns Plug",
-        "Follow Deborah",
         "Matt Forde"
       ],
       "topics": [
@@ -6879,9 +5931,6 @@
       "itunes_duration": "1:10:40",
       "speakers": [
         "Tracy Brabin",
-        "Tricia Armstrong",
-        "Jo Cox",
-        "Follow Tracy",
         "Matt Forde"
       ],
       "topics": [
@@ -6901,7 +5950,6 @@
       "enclosure_length": "119778950",
       "itunes_duration": "1:23:10",
       "speakers": [
-        "Follow Laura",
         "Matt Forde"
       ],
       "topics": [
@@ -6921,6 +5969,7 @@
       "enclosure_length": "141222756",
       "itunes_duration": "1:38:12",
       "speakers": [
+        "Anas Sarwar One",
         "Matt Forde"
       ],
       "topics": [
@@ -6941,7 +5990,6 @@
       "itunes_duration": "1:26:03",
       "speakers": [
         "Chris Bryant",
-        "Follow Chris",
         "Matt Forde"
       ],
       "topics": [
@@ -6963,7 +6011,6 @@
       "speakers": [
         "Anthony Scaramucci",
         "Seth Harris",
-        "Watch Nbc",
         "Matt Forde"
       ],
       "topics": [
@@ -6989,7 +6036,6 @@
       "speakers": [
         "Margaret Hodge",
         "Jeremy Corbyn",
-        "Follow Margaret",
         "Matt Forde"
       ],
       "topics": [
@@ -7010,10 +6056,6 @@
       "itunes_duration": "1:15:47",
       "speakers": [
         "Jeffrey Archer Put",
-        "Jeffrey Archer",
-        "Margaret Thatcher",
-        "John Major",
-        "Follow Jeffrey",
         "Matt Forde"
       ],
       "topics": [
@@ -7033,8 +6075,7 @@
       "enclosure_length": "127537601",
       "itunes_duration": "1:28:33",
       "speakers": [
-        "Follow Angus",
-        "progressscot Email",
+        "Angus Robertson One",
         "Matt Forde"
       ],
       "topics": [
@@ -7054,8 +6095,7 @@
       "enclosure_length": "111196129",
       "itunes_duration": "1:17:12",
       "speakers": [
-        "Order Matt",
-        "Follow Gisela",
+        "Gisela Stuart Oh",
         "Matt Forde"
       ],
       "topics": [
@@ -7076,8 +6116,7 @@
       "itunes_duration": "1:26:36",
       "speakers": [
         "Malcolm Rifkind",
-        "Matt Forde",
-        "Alastair Campbell"
+        "Matt Forde"
       ],
       "topics": [
         "malcolm",
@@ -7096,9 +6135,7 @@
       "enclosure_length": "116946501",
       "itunes_duration": "1:21:19",
       "speakers": [
-        "Matt Forde",
-        "Alastair Campbell",
-        "Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "alison",
@@ -7118,9 +6155,7 @@
       "itunes_duration": "1:03:22",
       "speakers": [
         "Douglas Ross",
-        "Matt Forde",
-        "Alastair Campbell",
-        "Douglas Moray Follow Matt"
+        "Matt Forde"
       ],
       "topics": [
         "douglas",
@@ -7139,9 +6174,9 @@
       "enclosure_length": "134032551",
       "itunes_duration": "1:33:12",
       "speakers": [
-        "Matt Forde",
-        "Alastair Campbell",
-        "Follow Matt"
+        "Iain Dale Publisher",
+        "Iain Dale",
+        "Matt Forde"
       ],
       "topics": [
         "iain",
@@ -7180,8 +6215,6 @@
       "itunes_duration": "1:16:49",
       "speakers": [
         "Nick Timothy Make",
-        "Follow Nick",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -7202,7 +6235,6 @@
       "itunes_duration": "1:00:45",
       "speakers": [
         "Jackie Bailie",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -7243,7 +6275,6 @@
       "itunes_duration": "58:33",
       "speakers": [
         "Bill Browder Bill Browder",
-        "Sergei Magnitsky",
         "Matt Forde"
       ],
       "topics": [
@@ -7264,7 +6295,6 @@
       "itunes_duration": "1:05:54",
       "speakers": [
         "Tom Tugendhat Returns",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -7285,8 +6315,6 @@
       "itunes_duration": "1:00:27",
       "speakers": [
         "Ed Davey",
-        "Follow Ed",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -7306,8 +6334,6 @@
       "itunes_duration": "59:43",
       "speakers": [
         "Layla Moran",
-        "Lib Dems",
-        "Lib Dem",
         "Matt Forde"
       ],
       "topics": [
@@ -7327,10 +6353,6 @@
       "itunes_duration": "1:37:57",
       "speakers": [
         "Barack Obama",
-        "Bill Clinton",
-        "Follow Seth",
-        "MrSethHarris Follow Matt",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7350,10 +6372,6 @@
       "enclosure_length": "118420741",
       "itunes_duration": "1:22:21",
       "speakers": [
-        "Ruth Smeeth",
-        "Jeremy Corbyn",
-        "Follow Ruth",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7373,11 +6391,7 @@
       "enclosure_length": "91376915",
       "itunes_duration": "1:03:32",
       "speakers": [
-        "Shadow Lord",
-        "David Lammy",
-        "Follow David",
-        "Buy David",
-        "Dixon Studio",
+        "Shadow Jus",
         "Matt Forde"
       ],
       "topics": [
@@ -7397,8 +6411,8 @@
       "enclosure_length": "108508979",
       "itunes_duration": "1:15:20",
       "speakers": [
-        "Follow Mark",
-        "Dixon Studio",
+        "Joanna Cherry",
+        "Home Affairs Spokeperson",
         "Matt Forde"
       ],
       "topics": [
@@ -7419,9 +6433,6 @@
       "itunes_duration": "1:08:22",
       "speakers": [
         "James Graham",
-        "Benedict Cumberbatch",
-        "Follow James",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7442,9 +6453,6 @@
       "itunes_duration": "55:42",
       "speakers": [
         "David Frum",
-        "Follow David",
-        "Follow Matt",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7465,9 +6473,6 @@
       "itunes_duration": "56:09",
       "speakers": [
         "Mark Drakeford",
-        "Follow Mark",
-        "Follow Matt",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7487,9 +6492,6 @@
       "enclosure_length": "122603383",
       "itunes_duration": "1:25:08",
       "speakers": [
-        "Follow Edwina",
-        "Buy Edwina",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7509,9 +6511,8 @@
       "enclosure_length": "105726019",
       "itunes_duration": "1:13:24",
       "speakers": [
-        "Tom Tugendhat",
-        "Follow Matt",
-        "Dixon Studio",
+        "Tom Tugendhat Prepare",
+        "Foreign Affairs Select Committ",
         "Matt Forde"
       ],
       "topics": [
@@ -7530,10 +6531,8 @@
       "enclosure_length": "104955059",
       "itunes_duration": "1:12:52",
       "speakers": [
-        "Follow Vernon",
-        "Follow Matt",
-        "Watch Vernon",
-        "Dixon Studio",
+        "Vernon Coaker Vernon Coaker",
+        "Labour Party",
         "Matt Forde"
       ],
       "topics": [
@@ -7554,9 +6553,6 @@
       "itunes_duration": "55:13",
       "speakers": [
         "Rosie Duffield",
-        "Follow Rosie",
-        "Follow Matt",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7577,10 +6573,6 @@
       "itunes_duration": "54:57",
       "speakers": [
         "Jeremy Hunt",
-        "Nanazin Zaghari-Ratcliffe",
-        "Follow Jeremy",
-        "Follow Matt",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7600,9 +6592,7 @@
       "enclosure_length": "118911525",
       "itunes_duration": "1:22:34",
       "speakers": [
-        "Follow Philip",
-        "Follow Matt",
-        "Dixon Studio",
+        "Philip Tetlock One",
         "Matt Forde"
       ],
       "topics": [
@@ -7623,9 +6613,6 @@
       "itunes_duration": "1:21:21",
       "speakers": [
         "Claire Hanna",
-        "Follow Claire",
-        "Follow Matt",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7646,9 +6633,6 @@
       "itunes_duration": "1:02:58",
       "speakers": [
         "Mike Katz",
-        "Follow Mike",
-        "Follow Matt",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7668,8 +6652,7 @@
       "enclosure_length": "99438683",
       "itunes_duration": "1:09:02",
       "speakers": [
-        "Follow Jason",
-        "Dixon Studio",
+        "Jason Leitch Brace",
         "Matt Forde"
       ],
       "topics": [
@@ -7689,7 +6672,9 @@
       "enclosure_length": "66908207",
       "itunes_duration": "46:27",
       "speakers": [
-        "Dixon Studio",
+        "Rosena Allin",
+        "Khan Following",
+        "Labour Deputy Leadership",
         "Matt Forde"
       ],
       "topics": [
@@ -7710,8 +6695,6 @@
       "enclosure_length": "87391099",
       "itunes_duration": "1:00:40",
       "speakers": [
-        "Anthony Scaramucci",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7732,9 +6715,6 @@
       "itunes_duration": "1:00:31",
       "speakers": [
         "Alex Salmond",
-        "Kenny Macaskill",
-        "Follow Euan",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7755,8 +6735,6 @@
       "itunes_duration": "52:38",
       "speakers": [
         "Marianna Spring",
-        "Follow Marianna",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7776,9 +6754,7 @@
       "enclosure_length": "82449816",
       "itunes_duration": "57:15",
       "speakers": [
-        "Ben Page",
-        "Follow Ben",
-        "Dixon Studio",
+        "Ben Page Pour",
         "Matt Forde"
       ],
       "topics": [
@@ -7797,8 +6773,7 @@
       "enclosure_length": "90819394",
       "itunes_duration": "1:03:03",
       "speakers": [
-        "Emily Thornberry",
-        "Dixon Studio",
+        "Emily Thornbe",
         "Matt Forde"
       ],
       "topics": [
@@ -7818,8 +6793,6 @@
       "enclosure_length": "68253347",
       "itunes_duration": "47:27",
       "speakers": [
-        "Torsten Bell",
-        "Dixon Studio",
         "Matt Forde"
       ],
       "topics": [
@@ -7839,11 +6812,6 @@
       "itunes_duration": "55:23",
       "speakers": [
         "Paul Harrison",
-        "Jeremy Hunt",
-        "Follow Chris Whitty",
-        "Patrick Vallance",
-        "Follow Jason Leitch",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -7864,12 +6832,6 @@
       "itunes_duration": "1:11:52",
       "speakers": [
         "Kim McGuinness",
-        "Follow Kim",
-        "Brexit Pursued",
-        "Dixon Studio",
-        "Lemon Tree",
-        "Theatre Severn",
-        "Guildhall May London Bloomsbury",
         "Matt Forde"
       ],
       "topics": [
@@ -7889,12 +6851,6 @@
       "itunes_duration": "1:05:50",
       "speakers": [
         "Laura Kuenssberg",
-        "Follow Rebecca",
-        "Brexit Pursued",
-        "Dixon Studio",
-        "Lemon Tree",
-        "Theatre Severn",
-        "Guildhall May London Bloomsbury",
         "Matt Forde"
       ],
       "topics": [
@@ -7915,13 +6871,7 @@
       "itunes_duration": "1:25:56",
       "speakers": [
         "Rebecca Long-Bailey",
-        "Angela Rayner",
-        "Follow Rebecca",
-        "Brexit Pursued",
-        "Dixon Studio",
-        "Lemon Tree",
-        "Theatre Severn",
-        "Guildhall May London Bloomsbury"
+        "Matt Forde"
       ],
       "topics": [
         "rebecca",
@@ -7941,12 +6891,8 @@
       "enclosure_length": "113768274",
       "itunes_duration": "1:19:07",
       "speakers": [
-        "Follow Rory",
-        "Brexit Pursued",
-        "Dixon Studio",
-        "Lemon Tree",
-        "Theatre Severn",
-        "Guildhall May London Bloomsbury",
+        "Rory Palmer Rory Palmer",
+        "East Midlands",
         "Matt Forde"
       ],
       "topics": [
@@ -7967,11 +6913,6 @@
       "itunes_duration": "1:14:12",
       "speakers": [
         "Gregg Hurwitz Gregg Hurwitz",
-        "Brexit Pursued",
-        "Dixon Studio",
-        "Lemon Tree",
-        "Theatre Severn",
-        "Guildhall May London Bloomsbury",
         "Matt Forde"
       ],
       "topics": [
@@ -7992,13 +6933,7 @@
       "itunes_duration": "58:13",
       "speakers": [
         "Deborah Mattinson",
-        "Follow Deborah",
-        "Read Deborah",
-        "Brexit Pursued",
-        "Dixon Studio",
-        "Lemon Tree",
-        "Theatre Severn",
-        "Guildhall May London Bloomsbury"
+        "Matt Forde"
       ],
       "topics": [
         "deborah",
@@ -8018,11 +6953,6 @@
       "itunes_duration": "1:34:38",
       "speakers": [
         "Lisa Nandy",
-        "Brexit Pursued",
-        "Dixon Studio",
-        "Lemon Tree",
-        "Theatre Severn",
-        "Guildhall May London Bloomsbury",
         "Matt Forde"
       ],
       "topics": [
@@ -8043,12 +6973,6 @@
       "itunes_duration": "1:03:28",
       "speakers": [
         "Robert Colville",
-        "Follow Robert",
-        "Brexit Pursued",
-        "Dixon Studio",
-        "Lemon Tree",
-        "Theatre Severn",
-        "Guildhall May London Bloomsbury",
         "Matt Forde"
       ],
       "topics": [
@@ -8069,8 +6993,6 @@
       "itunes_duration": "1:07:57",
       "speakers": [
         "Lucy Powell",
-        "Jeremy Corbyn",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8091,8 +7013,6 @@
       "itunes_duration": "1:44:16",
       "speakers": [
         "Rosena Allin-Khan Matt",
-        "Rosena Allin-Khan",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8116,9 +7036,6 @@
       "enclosure_length": "9358105",
       "itunes_duration": "9:44",
       "speakers": [
-        "Ian Botham",
-        "Roast Beef",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8140,9 +7057,6 @@
       "itunes_duration": "42:11",
       "speakers": [
         "Craig Oliver",
-        "Follow Craig",
-        "Buy Craig",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8165,10 +7079,6 @@
       "itunes_duration": "30:16",
       "speakers": [
         "Lib Dem",
-        "Pussy Galore",
-        "Follow Miranda",
-        "Follow Matt",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8190,10 +7100,6 @@
       "enclosure_length": "44748050",
       "itunes_duration": "31:06",
       "speakers": [
-        "Andrew Neil",
-        "Noel Gallagher",
-        "Follow Tony",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8215,8 +7121,6 @@
       "enclosure_length": "60215224",
       "itunes_duration": "41:52",
       "speakers": [
-        "Jeremy Corbyn",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8239,7 +7143,6 @@
       "itunes_duration": "1:25:12",
       "speakers": [
         "Len McCluskey",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8261,9 +7164,6 @@
       "itunes_duration": "48:04",
       "speakers": [
         "Anita Boateng",
-        "Jeremy Hunt",
-        "Follow Anita",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8285,7 +7185,6 @@
       "enclosure_length": "65672954",
       "itunes_duration": "45:36",
       "speakers": [
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8307,8 +7206,6 @@
       "enclosure_length": "46304256",
       "itunes_duration": "32:11",
       "speakers": [
-        "Jo Swinson",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8331,9 +7228,6 @@
       "itunes_duration": "1:19:00",
       "speakers": [
         "Alan Duncan",
-        "Peter Mandelson",
-        "Follow Alan",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8357,9 +7251,6 @@
       "speakers": [
         "Martin Angus",
         "Salma Shah",
-        "John Prescott",
-        "Sajid Javid",
-        "Follow Salma",
         "Matt Forde"
       ],
       "topics": [
@@ -8385,9 +7276,6 @@
       "itunes_duration": "30:06",
       "speakers": [
         "Pete Wishart",
-        "Follow Pete",
-        "Watch Runrig",
-        "Loch Lomond",
         "Matt Forde"
       ],
       "topics": [
@@ -8431,7 +7319,6 @@
       "enclosure_length": "59985980",
       "itunes_duration": "41:42",
       "speakers": [
-        "Download Labour",
         "Matt Forde"
       ],
       "topics": [
@@ -8453,9 +7340,6 @@
       "enclosure_length": "80021232",
       "itunes_duration": "55:38",
       "speakers": [
-        "Ruth Davidson",
-        "Follow Ruth",
-        "Follow Jackson",
         "Matt Forde"
       ],
       "topics": [
@@ -8482,7 +7366,6 @@
       "itunes_duration": "22:29",
       "speakers": [
         "Ian Murray",
-        "Follow Ian",
         "Matt Forde"
       ],
       "topics": [
@@ -8506,7 +7389,6 @@
         "James Mills",
         "Jeremy Corbyn",
         "John McDonnell",
-        "Follow James",
         "Matt Forde"
       ],
       "topics": [
@@ -8528,9 +7410,6 @@
       "enclosure_length": "44654142",
       "itunes_duration": "31:03",
       "speakers": [
-        "Jeremy Corbyn",
-        "Matt Hancock",
-        "Follow Matt Forde",
         "Matt Forde"
       ],
       "topics": [
@@ -8553,8 +7432,6 @@
       "itunes_duration": "39:01",
       "speakers": [
         "Luciana Berger",
-        "Lib Dem",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -8577,7 +7454,6 @@
       "itunes_duration": "34:12",
       "speakers": [
         "Bim Afolami",
-        "Follow Bim",
         "Matt Forde"
       ],
       "topics": [
@@ -8599,8 +7475,6 @@
       "itunes_duration": "31:41",
       "speakers": [
         "Gloria de Piero",
-        "Follow Gloria",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -8623,7 +7497,6 @@
       "itunes_duration": "40:31",
       "speakers": [
         "Greg Cook",
-        "Follow Greg",
         "Matt Forde"
       ],
       "topics": [
@@ -8646,9 +7519,6 @@
       "itunes_duration": "30:51",
       "speakers": [
         "Jo Tanner",
-        "Katie Perrior",
-        "Follow Jo",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -8670,7 +7540,6 @@
       "itunes_duration": "36:25",
       "speakers": [
         "Brandon Lewis",
-        "Follow Brandon",
         "Matt Forde"
       ],
       "topics": [
@@ -8693,10 +7562,6 @@
       "itunes_duration": "1:36:30",
       "speakers": [
         "Jo Swinson",
-        "Lib Dems",
-        "Jeremy Corbyn",
-        "Follow Jo",
-        "Khan Email",
         "Matt Forde"
       ],
       "topics": [
@@ -8735,6 +7600,7 @@
       "enclosure_length": "104052791",
       "itunes_duration": "1:12:21",
       "speakers": [
+        "Krishnan Guru",
         "Matt Forde"
       ],
       "topics": [
@@ -8756,7 +7622,6 @@
       "itunes_duration": "1:38:51",
       "speakers": [
         "Ken Clarke",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8775,9 +7640,6 @@
       "enclosure_length": "124203731",
       "itunes_duration": "1:26:22",
       "speakers": [
-        "Lib Dems",
-        "Follow Darren",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -8798,9 +7660,6 @@
       "itunes_duration": "51:14",
       "speakers": [
         "Richard Carr",
-        "Bill Clinton",
-        "Follow Richard",
-        "Richard Carr Buy March",
         "Matt Forde"
       ],
       "topics": [
@@ -8839,8 +7698,7 @@
       "enclosure_length": "89245387",
       "itunes_duration": "1:02:03",
       "speakers": [
-        "Follow Kezia",
-        "Follow Matt",
+        "Kezia Dugdale",
         "Matt Forde"
       ],
       "topics": [
@@ -8880,8 +7738,6 @@
       "enclosure_length": "132737355",
       "itunes_duration": "1:32:18",
       "speakers": [
-        "Michel Barnier",
-        "Brexit Pursued",
         "Matt Forde"
       ],
       "topics": [
@@ -8922,6 +7778,7 @@
       "speakers": [
         "Sam Gyimah",
         "Rory Stewart",
+        "Sam Gyi",
         "Matt Forde"
       ],
       "topics": [
@@ -8943,7 +7800,6 @@
       "itunes_duration": "1:04:59",
       "speakers": [
         "John McTernan",
-        "Julia Gillard",
         "Matt Forde"
       ],
       "topics": [
@@ -8963,8 +7819,8 @@
       "enclosure_length": "117257265",
       "itunes_duration": "1:21:25",
       "speakers": [
-        "Edinburgh Stand",
-        "Glasgow Stand",
+        "Sophie Walker Sophie Walker",
+        "Equality Party",
         "Matt Forde"
       ],
       "topics": [
@@ -8985,8 +7841,6 @@
       "itunes_duration": "1:33:30",
       "speakers": [
         "Suella Braverman",
-        "Edinburgh Stand",
-        "Glasgow Stand",
         "Matt Forde"
       ],
       "topics": [
@@ -9007,9 +7861,6 @@
       "itunes_duration": "1:02:58",
       "speakers": [
         "Arthur Snell",
-        "Christopher Hope",
-        "Edinburgh Stand",
-        "Glasgow Stand",
         "Matt Forde"
       ],
       "topics": [
@@ -9029,9 +7880,8 @@
       "enclosure_length": "61311685",
       "itunes_duration": "1:03:51",
       "speakers": [
-        "Christopher Hope",
-        "Edinburgh Stand",
-        "Glasgow Stand",
+        "Christopher Hope Ten",
+        "Expenses Scandal",
         "Matt Forde"
       ],
       "topics": [
@@ -9052,8 +7902,6 @@
       "itunes_duration": "1:08:28",
       "speakers": [
         "Nick Boles",
-        "Edinburgh Stand",
-        "Glasgow Stand",
         "Matt Forde"
       ],
       "topics": [
@@ -9074,8 +7922,6 @@
       "itunes_duration": "1:45:32",
       "speakers": [
         "George Osborne",
-        "Edinburgh Stand",
-        "Glasgow Stand",
         "Matt Forde"
       ],
       "topics": [
@@ -9096,8 +7942,6 @@
       "itunes_duration": "1:24:19",
       "speakers": [
         "Naomi Smith",
-        "Edinburgh Stand",
-        "Glasgow Stand",
         "Matt Forde"
       ],
       "topics": [
@@ -9117,12 +7961,7 @@
       "enclosure_length": "118100217",
       "itunes_duration": "2:03:01",
       "speakers": [
-        "Ann Coffey",
-        "Mike Gapes",
-        "Heidi Allen",
-        "Chuka Umunna",
-        "Edinburgh Stand",
-        "Glasgow Stand",
+        "Independent Group",
         "Matt Forde"
       ],
       "topics": [
@@ -9143,8 +7982,6 @@
       "itunes_duration": "1:31:11",
       "speakers": [
         "Johnny Mercer",
-        "Edinburgh Stand",
-        "Glasgow Stand",
         "Matt Forde"
       ],
       "topics": [
@@ -9204,7 +8041,6 @@
       "itunes_duration": "1:31:25",
       "speakers": [
         "David Blunkett",
-        "Gloucester Feb",
         "Matt Forde"
       ],
       "topics": [
@@ -9225,7 +8061,6 @@
       "itunes_duration": "1:08:00",
       "speakers": [
         "Sophie Jarvis",
-        "Follow Sophie",
         "Matt Forde"
       ],
       "topics": [
@@ -9247,7 +8082,6 @@
       "speakers": [
         "Alastair Campbell",
         "Adam Boulton",
-        "Follow Alastair",
         "Matt Forde"
       ],
       "topics": [
@@ -9273,8 +8107,6 @@
       "speakers": [
         "Jess Phillips",
         "Sarah Wollaston",
-        "Follow Jess",
-        "Follow Sarah",
         "Matt Forde"
       ],
       "topics": [
@@ -9299,8 +8131,6 @@
       "itunes_duration": "1:18:05",
       "speakers": [
         "Patrick O'Flynn",
-        "Gerrard Batten",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -9319,6 +8149,8 @@
       "enclosure_length": "65553135",
       "itunes_duration": "1:08:17",
       "speakers": [
+        "Prof Philip Cowley Philip",
+        "Queen Mary University",
         "Matt Forde"
       ],
       "topics": [
@@ -9339,10 +8171,7 @@
       "enclosure_length": "78348119",
       "itunes_duration": "1:21:36",
       "speakers": [
-        "Jess Phillips",
-        "Sarah Wollaston",
-        "Alastair Campbell",
-        "EmilyThornberry Follow Matt",
+        "Emily Thornberry",
         "Matt Forde"
       ],
       "topics": [
@@ -9363,7 +8192,6 @@
       "itunes_duration": "1:38:27",
       "speakers": [
         "Kevin Hague",
-        "Follow Kevin",
         "Matt Forde"
       ],
       "topics": [
@@ -9384,8 +8212,6 @@
       "itunes_duration": "1:37:06",
       "speakers": [
         "Aaron Bastani",
-        "Luxury Automated",
-        "Jeremy Corbyn",
         "Matt Forde"
       ],
       "topics": [
@@ -9407,8 +8233,6 @@
       "speakers": [
         "Andrew Cooper",
         "Andrew Cooper Andrew Cooper",
-        "Follow Andrew",
-        "Follow Matt",
         "Matt Forde"
       ],
       "topics": [
@@ -9429,6 +8253,10 @@
       "enclosure_length": "142178044",
       "itunes_duration": "1:38:52",
       "speakers": [
+        "Carwyn Jones",
+        "Carwyn Jones Carwyn Jones",
+        "First Minister",
+        "Welsh Labour Party",
         "Matt Forde"
       ],
       "topics": [
@@ -9449,8 +8277,6 @@
       "itunes_duration": "1:15:14",
       "speakers": [
         "Jane Merrick Jane",
-        "Michael Fallon",
-        "Follow Jane",
         "Matt Forde"
       ],
       "topics": [
@@ -9471,7 +8297,6 @@
       "itunes_duration": "1:13:44",
       "speakers": [
         "Al Murray Al",
-        "Al Murray",
         "Matt Forde"
       ],
       "topics": [
@@ -9531,7 +8356,6 @@
       "speakers": [
         "Tommy Sheridan",
         "Tommy Sheridan Tommy",
-        "Jeremy Corbyn",
         "Matt Forde"
       ],
       "topics": [
@@ -9552,8 +8376,6 @@
       "itunes_duration": "1:30:13",
       "speakers": [
         "Andrew Mitchell",
-        "John Major",
-        "Jeremy Corbyn",
         "Matt Forde"
       ],
       "topics": [
@@ -9574,7 +8396,6 @@
       "itunes_duration": "1:55:20",
       "speakers": [
         "Owen Jones Owen Jones",
-        "Alan Partridge",
         "Matt Forde"
       ],
       "topics": [
@@ -9595,8 +8416,6 @@
       "itunes_duration": "1:34:06",
       "speakers": [
         "Jon Lansman",
-        "Jeremy Corbyn",
-        "Tony Benn",
         "Matt Forde"
       ],
       "topics": [
@@ -9638,7 +8457,6 @@
       "itunes_duration": "1:23:25",
       "speakers": [
         "Angelia Wilson",
-        "Twitter here AngeliaWilson",
         "Matt Forde"
       ],
       "topics": [
@@ -9660,7 +8478,6 @@
       "itunes_duration": "1:09:43",
       "speakers": [
         "Anand Menon",
-        "Buy Anand",
         "Matt Forde"
       ],
       "topics": [
@@ -9784,6 +8601,9 @@
       "enclosure_length": "75039554",
       "itunes_duration": "1:18:09",
       "speakers": [
+        "Laura Round Laura Round",
+        "Laura Round",
+        "Bright Blue",
         "Matt Forde"
       ],
       "topics": [
@@ -9805,8 +8625,6 @@
       "speakers": [
         "Roger Scully",
         "Prof Roger Scully",
-        "Follow Roger",
-        "Order Roger",
         "Matt Forde"
       ],
       "topics": [
@@ -9845,11 +8663,6 @@
       "itunes_duration": "1:16:32",
       "speakers": [
         "Daniel Finkelstein",
-        "John Major",
-        "William Hague",
-        "Theresa May",
-        "Corbyn Czech",
-        "Follow Daniel",
         "Matt Forde"
       ],
       "topics": [
@@ -9910,7 +8723,6 @@
       "itunes_duration": "1:27:32",
       "speakers": [
         "James Cleverly",
-        "Follow James",
         "Matt Forde"
       ],
       "topics": [
@@ -9931,7 +8743,6 @@
       "itunes_duration": "1:06:23",
       "speakers": [
         "Owen Bennett",
-        "Follow Owen",
         "Matt Forde"
       ],
       "topics": [
@@ -9951,8 +8762,6 @@
       "enclosure_length": "94899224",
       "itunes_duration": "1:06:00",
       "speakers": [
-        "Theo Bertram",
-        "George Osborne",
         "Matt Forde"
       ],
       "topics": [
@@ -10081,7 +8890,6 @@
       "itunes_duration": "1:22:32",
       "speakers": [
         "Michael Heseltine",
-        "Margaret Thatcher",
         "Matt Forde"
       ],
       "topics": [
@@ -10101,7 +8909,6 @@
       "enclosure_length": "75219806",
       "itunes_duration": "1:02:44",
       "speakers": [
-        "Alistair Darling",
         "Matt Forde"
       ],
       "topics": [
@@ -10311,7 +9118,6 @@
       "itunes_duration": "1:20:48",
       "speakers": [
         "Jon Ashworth Matt",
-        "Jon Ashworth",
         "Matt Forde"
       ],
       "topics": [
@@ -10602,7 +9408,6 @@
       "enclosure_length": "77438048",
       "itunes_duration": "1:32:11",
       "speakers": [
-        "Angus Robertson",
         "Matt Forde"
       ],
       "topics": [
@@ -10643,7 +9448,7 @@
       "enclosure_length": "47071527",
       "itunes_duration": "1:38:03",
       "speakers": [
-        "Liz Kendall",
+        "Liz Kendal",
         "Matt Forde"
       ],
       "topics": [
@@ -10783,7 +9588,6 @@
       "itunes_duration": "1:42:48",
       "speakers": [
         "Neil Kinnock Recorded",
-        "Neil KinnockFor",
         "Matt Forde"
       ],
       "topics": [
@@ -10847,7 +9651,6 @@
       "itunes_duration": "1:33:45",
       "speakers": [
         "Douglas Alexander Matt",
-        "Douglas Alexander",
         "Matt Forde"
       ],
       "topics": [
@@ -10868,7 +9671,6 @@
       "itunes_duration": "1:18:43",
       "speakers": [
         "Paul Nuttall Matt",
-        "Paul Nuttall",
         "Matt Forde"
       ],
       "topics": [
@@ -10909,7 +9711,7 @@
       "enclosure_length": "77187707",
       "itunes_duration": "1:31:53",
       "speakers": [
-        "Michael Portillo",
+        "Cabinet Mini",
         "Matt Forde"
       ],
       "topics": [
@@ -10929,7 +9731,6 @@
       "enclosure_length": "56432985",
       "itunes_duration": "1:16:14",
       "speakers": [
-        "Tessa Jowell",
         "Matt Forde"
       ],
       "topics": [
@@ -11032,7 +9833,7 @@
       "enclosure_length": "94626969",
       "itunes_duration": "1:36:57",
       "speakers": [
-        "Michael Fabricant",
+        "Michael Fabric",
         "Matt Forde"
       ],
       "topics": [
@@ -11052,7 +9853,7 @@
       "enclosure_length": "92314957",
       "itunes_duration": "1:49:30",
       "speakers": [
-        "Alastair Campbell",
+        "Alastair Camp",
         "Matt Forde"
       ],
       "topics": [
@@ -11114,6 +9915,7 @@
       "itunes_duration": "1:37:33",
       "speakers": [
         "David Davis",
+        "David Davi",
         "Matt Forde"
       ],
       "topics": [
@@ -11324,443 +10126,443 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — Show 391. Mick Lynch - REPLAY — speakers: Mick Lynch Replay, Mick Lynch, Zack Polanski, Lisa Nandy, Matt Forde
-- 2026-02-17 — Show 390. David Miliband - Live — speakers: David Miliband, Zack Polanski, Lisa Nandy, Matt Forde
+- 2026-02-23 — Show 391. Mick Lynch - REPLAY — speakers: Mick Lynch Replay, Mick Ly, Matt Forde
+- 2026-02-17 — Show 390. David Miliband - Live — speakers: David Miliband, Matt Forde
 - 2026-02-13 — *The Matt Forde Focus Group returns – Free tickets* — speakers: Matt Forde
-- 2026-02-09 — Show 389. Hilary Cass — speakers: Hilary Cass Baroness Cass, David Miliband, Zack Polanski, Lisa Nandy, Matt Forde
-- 2026-02-02 — Show 388. Lola McEvoy — speakers: Lola McEvoy Lola, Pease Pudding, Lisa Nandy, Lemon Top, David Miliband, Zack Polanski, Matt Forde
-- 2026-01-27 — Show 387. Keir Starmer - Live — speakers: David Miliband, Zack Polanski, Lisa Nandy, Matt Forde
-- 2026-01-19 — Show 386. George Finch — speakers: George Finch George, Robert Jenrick, David Miliband, Zack Polanski, Lisa Nandy, Matt Forde
-- 2026-01-12 — Show 385. James Frith — speakers: James Frith, David Lammy, David Miliband, Zack Polanski, Lisa Nandy, Matt Forde
-- 2026-01-05 — Anas Sarwar - REPLAY — speakers: David Miliband, Zack Polanski, Lisa Nandy, Matt Forde
-- 2025-12-29 — Show 384. Ryan Wain — speakers: Ryan Wain, David Miliband, Zack Polanski, Lisa Nandy, Matt Forde
-- 2025-12-22 — Show 383. Tom McTague — speakers: Tom McTague Keynes, Tom McTague, David Miliband, Zack Polanski, Lisa Nandy, Matt Forde
-- 2025-12-15 — Show 382. Gordon McKee — speakers: Gordon McKee, Custard Creams, David Miliband, Zack Polanski, Matt Forde
-- 2025-12-10 — Show 381. Nick Clegg - LIVE — speakers: Nick Clegg, Mark Zuckerberg, David Miliband, Zack Polanski, Matt Forde
-- 2025-12-01 — Show 380. Peray Ahmet — speakers: Peray Ahmet, Nick Clegg January, David Miliband, Zack Polanski, Matt Forde
-- 2025-11-24 — Show 379. Izzy Conn — speakers: Nick Clegg January, David Miliband, Zack Polanski, Matt Forde
-- 2025-11-18 — The Matt Forde Focus Group Returns! — speakers: Group Returns, Christmas Special, Matt Forde
-- 2025-11-17 — Show 378. Marie Tidball — speakers: Marie Tidball Marie, Nick Clegg January, David Miliband, Zack Polanski, Matt Forde
-- 2025-11-10 — Show 377. Jack McConnell — speakers: Jack McConnell, Vladimir Putin, Nick Clegg January, David Miliband, Zack Polanski, Matt Forde
-- 2025-11-03 — Show 376. Bethany Dawson — speakers: Bethany Dawson, Nick Clegg January, David Miliband, Zack Polanski, Matt Forde
-- 2025-10-27 — Show 375. Harriet Cross — speakers: Harriet Cross Harriet, Nick Clegg January, David Miliband, Matt Forde
-- 2025-10-20 — Show 374. Rosamund Adoo-Kissi-Debrah CBE — speakers: Rosamund Adoo-Kissi-Debrah Cbe, Arnold Schwarzenegger, Nick Clegg February, David Miliband, Matt Forde
-- 2025-10-13 — Show 373. Amy Callaghan — speakers: Amy Callaghan Amy, Jo Swinson, Nick Clegg February, David Miliband, Matt Forde
-- 2025-10-08 — Show 372. Bridget Phillipson - LIVE — speakers: Nick Clegg February, David Miliband, Matt Forde
-- 2025-09-29 — Show 371. Tom Harwood — speakers: Tom Harwood Star, Bridget Philipson, Nick Clegg February, David Miliband, Matt Forde
+- 2026-02-09 — Show 389. Hilary Cass — speakers: Hilary Cass Baroness Cass, Matt Forde
+- 2026-02-02 — Show 388. Lola McEvoy — speakers: Lola McEvoy Lola, Pease Pudding, Matt Forde
+- 2026-01-27 — Show 387. Keir Starmer - Live — speakers: Matt Forde
+- 2026-01-19 — Show 386. George Finch — speakers: George Finch George, Matt Forde
+- 2026-01-12 — Show 385. James Frith — speakers: James Frith, Matt Forde
+- 2026-01-05 — Anas Sarwar - REPLAY — speakers: Anas Sarwar, Matt Forde
+- 2025-12-29 — Show 384. Ryan Wain — speakers: Ryan Wain, Matt Forde
+- 2025-12-22 — Show 383. Tom McTague — speakers: Tom McTague Keynes, Tom McTague, Matt Forde
+- 2025-12-15 — Show 382. Gordon McKee — speakers: Gordon McKee, Matt Forde
+- 2025-12-10 — Show 381. Nick Clegg - LIVE — speakers: Nick Clegg, Matt Forde
+- 2025-12-01 — Show 380. Peray Ahmet — speakers: Peray Ahmet, Matt Forde
+- 2025-11-24 — Show 379. Izzy Conn — speakers: Izzy Conn Izzy, Leading Labour, Matt Forde
+- 2025-11-18 — The Matt Forde Focus Group Returns! — speakers: Group Returns, Matt Forde
+- 2025-11-17 — Show 378. Marie Tidball — speakers: Marie Tidball Marie, Matt Forde
+- 2025-11-10 — Show 377. Jack McConnell — speakers: Jack McConnell, Matt Forde
+- 2025-11-03 — Show 376. Bethany Dawson — speakers: Bethany Dawson, Matt Forde
+- 2025-10-27 — Show 375. Harriet Cross — speakers: Harriet Cross Harriet, Matt Forde
+- 2025-10-20 — Show 374. Rosamund Adoo-Kissi-Debrah CBE — speakers: Rosamund Adoo-Kissi-Debrah Cbe, Matt Forde
+- 2025-10-13 — Show 373. Amy Callaghan — speakers: Amy Callaghan Amy, Matt Forde
+- 2025-10-08 — Show 372. Bridget Phillipson - LIVE — speakers: Matt Forde
+- 2025-09-29 — Show 371. Tom Harwood — speakers: Tom Harwood Star, Matt Forde
 - 2025-09-22 — Show 370. Tom Tugendhat Returns. Again! — speakers: Tom Tugendhat Returns, Tom Tugendhat, Matt Forde
-- 2025-09-15 — Show 369. Lindsay Hoyle - REPLAY — speakers: Lindsay Hoyle Replay, Birmingham Glee Club, Milton Keynes, Theatre Severn Isle, Matt Forde
-- 2025-09-08 — Show 368. Mark Pougatch — speakers: Mark Pougatch Mark Pougatch, Birmingham Glee Club, Milton Keynes, Theatre Severn Isle, Matt Forde
-- 2025-09-01 — Show 367. Kirsty Wark - LIVE — speakers: Celebrity Masterchef, Kirsty Wark, Gregg Wallace, Birmingham Glee Club, Milton Keynes, Theatre Severn Isle, Matt Forde
-- 2025-08-25 — Show 366. Sadiq Khan - LIVE — speakers: Birmingham Glee Club, Milton Keynes, Theatre Severn Isle, Matt Forde
+- 2025-09-15 — Show 369. Lindsay Hoyle - REPLAY — speakers: Lindsay Hoyle Replay, Matt Forde
+- 2025-09-08 — Show 368. Mark Pougatch — speakers: Mark Pougatch Mark Pougatch, Matt Forde
+- 2025-09-01 — Show 367. Kirsty Wark - LIVE — speakers: Celebrity Masterchef, Matt Forde
+- 2025-08-25 — Show 366. Sadiq Khan - LIVE — speakers: Matt Forde
 - 2025-08-18 — Show 365. Joanna Cherry - LIVE — speakers: Joanna Cherry, Matt Forde
-- 2025-08-11 — Show 364. Ian Murray - LIVE — speakers: Ian Murray, Joanna Cherry, Matt Forde
-- 2025-08-04 — Show 363. James Cleverly - REPLAY — speakers: James Cleverly Replay, James Cleverly, Ian Murray, Joanna Cherry, mattforde Hosted, Matt Forde
-- 2025-07-28 — Show 362. Ed Miliband - REPLAY — speakers: Ian Murray, Joanna Cherry, mattforde Hosted, Matt Forde
-- 2025-07-21 — Show 361. Oliver Coppard — speakers: Coppard Oliver, Ian Murray, Joanna Cherry, campaign mattforde, Matt Forde
-- 2025-07-16 — Show 360. Michael Gove - LIVE — speakers: Ian Murray, Joanna Cherry, Matt Forde
-- 2025-07-07 — Show 359. Louise Haigh - LIVE — speakers: Louise Haigh, Ian Murray, Joanna Cherry, campaign mattforde, Matt Forde
-- 2025-06-30 — Show 358. Sonia Kumar — speakers: Sonia Kumar Sonia, Kumar Sonia, Andy Burnham, Michael Gove, campaign mattforde, Matt Forde
-- 2025-06-23 — Show 357. Mims Davies — speakers: Andy Burnham, Michael Gove, Matt Forde
-- 2025-06-16 — Show 356. Nick Thomas-Symonds — speakers: Nick Thomas-Symonds, Nick Thomas-Symonds Nick, Andy Burnham, Michael Gove, campaign mattforde, Matt Forde
-- 2025-06-11 — Show 395. Kemi Badenoch — speakers: Lib Dems, Andy Burnham, Michael Gove, campaign mattforde, Chelmsford Theatre, Matt Forde
-- 2025-06-02 — Show 394. Guto Harri — speakers: Guto Harri, Michael Gove, campaign mattforde, Chelmsford Theatre, Matt Forde
-- 2025-05-26 — Show 393. Dr Michelle Clement — speakers: Michelle Clement Delivery, Michael Gove, Chelmsford Theatre, Matt Forde
-- 2025-05-19 — Show 392. Alan Rhodes — speakers: Alan Rhodes, Michael Gove, campaign mattforde, Chelmsford Theatre, Matt Forde
-- 2025-05-14 — Show 391. Wes Streeting - LIVE — speakers: Michael Gove, campaign mattforde, Chelmsford Theatre, Matt Forde
-- 2025-05-05 — Show 390. John McTernan — speakers: John McTernan, Wes Streeting, Michael Gove, campaign mattforde, Chelmsford Theatre, Matt Forde
-- 2025-04-28 — Show 389. Julie Bindel — speakers: Julie Bindel, Buy Julie, Wes Streeting, Michael Gove, Chelmsford Theatre, Matt Forde
-- 2025-04-21 — Show 388. Gregor Poynton — speakers: Gregor Poynton Gregor, Robin Cook, Wes Streeting, Michael Gove, Chelmsford Theatre, Matt Forde
-- 2025-04-14 — Show 387. Jason Stockwood — speakers: Stockwood Brace, Wes Streeting, Michael Gove, Chelmsford Theatre, Matt Forde
-- 2025-04-07 — Show 386. Dr Scott Arthur — speakers: Scott Arthur, Scott Arthur Scott, Wes Streeting, Michael Gove, Chelmsford Theatre, Matt Forde
-- 2025-04-03 — Show 385. *LIVE* Anthony Scaramucci — speakers: Anthony Scaramucci, Wes Streeting, Michael Gove, Chelmsford Theatre Extra, Matt Forde
-- 2025-03-31 — Show 384. Claire Ward — speakers: Claire Ward, Anthony Scaramucci, Wes Streeting, Michael Gove, Chelmsford Theatre Extra, Matt Forde
-- 2025-03-24 — Show 383. Eluned Morgan — speakers: Eluned Morgan, Eluned Morgan Eluned, Anthony Scaramucci, Wes Streeting, Michael Gove, Chelmsford Theatre Extra, Matt Forde
-- 2025-03-17 — Show 382. Stewart McDonald — speakers: Stewart McDonald Everyone, Anthony Scaramucci, Wes Streeting, Michael Gove, Chelmsford Theatre Extra, Matt Forde
-- 2025-03-12 — Show 381 *Alastair Campbell - LIVE* — speakers: Alastair Campbell, Anthony Scaramucci, Wes Streeting, Michael Gove, Chelmsford Theatre Extra, Matt Forde
-- 2025-03-03 — Show 380. Simon Hart — speakers: Simon Hart Simon, Rishi Sunak, Brian Clough, Alastair Campbell, Anthony Scaramucci, Wes Streeting, Michael Gove, Chelmsford Theatre Extra
-- 2025-02-24 — Show 379. Mike Tapp — speakers: Mike Tapp, Mike Tapp Mike, Alastair Campbell, Anthony Scaramucci, Wes Streeting, Michael Gove, Glee Club, Matt Forde
-- 2025-02-17 — Show 378. Mhari Aurora — speakers: Aurora Mhari, Joe Rogan, Alastair Campbell, Anthony Scaramucci, Wes Streeting, Glee Club, Matt Forde
-- 2025-02-12 — Show 377 *Rachel Reeves LIVE* — speakers: Yorkshire Pudding, John Prescott, Alastair Campbell, Anthony Scaramucci, Wes Streeting, Michael Gove, Glee Club
-- 2025-02-10 — Show 376. Dr Sharon Lockyer — speakers: Sharon Lockyer Dr, Sharon Lockyer, Rachel Reeves, Alastair Campbell, Anthony Scaramucci, Wes Streeting, Glee Club, Matt Forde
-- 2025-02-07 — *Special episode with Richard Herring and Mark Steel in partnership with Cancer Research UK* — speakers: Richard Herring, Mark Steel, Sam Godfrey, Matt Forde
-- 2025-02-03 — Show 375. Ava Santina-Evans — speakers: Ava Santina-Evans, Ava Santina-Evans Ava, Rachel Reeves, Alastair Campbell, Anthony Scaramucci, Wes Streeting Plus, Glee Club, Matt Forde
-- 2025-01-27 — Show 374. Gavin Esler — speakers: Gavin Esler Gavin Esler, Rachel Reeves, Alastair Campbell, Anthony Scaramucci, Wes Streeting Plus, Glee Club, Matt Forde
-- 2025-01-20 — Show 373. Sam Carling — speakers: Carling Sam, Rachel Reeves, Alastair Campbell, Anthony Scaramucci, Wes Streeting Plus, Glee Club, Matt Forde
-- 2025-01-13 — Show 372. Tonia Antoniazzi — speakers: Rachel Reeves, Alastair Campbell, Anthony Scaramucci, Wes Streeting Plus, Glee Club, Matt Forde
-- 2025-01-06 — Show 371. Replay: Christmas Special with Jess Phillips and Sarah Wollaston — speakers: Jess Phillips, Sarah Wollaston, Sarah Wollaston Keep, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-12-30 — Show 370. Replay: Christmas Special with Ed Balls and Alastair Campbell — speakers: Ed Balls, Alastair Campbell Replay, Alastair Campbell, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-12-23 — Show 369. Alex Burghart — speakers: Alex Burghart, Alex Burghart Politics, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-12-16 — Show 368. Natalie Fleet — speakers: Natalie Fleet, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-12-09 — Show 367. David Yelland — speakers: David Yelland, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-12-02 — Show 366. Alison McGovern — speakers: Alison McGovern, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-11-25 — Show 365. David Duguid — speakers: David Duguid, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-11-18 — Show 364. Salma Shah *State of the Tories Special* — speakers: Salma Shah State, Salma Shah, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-11-11 — Show 363. Seth Harris — speakers: Seth Harris, Seth Harris US Election, Kamala Harris, Follow Seth, Chelmsford Theatre Extra, Glee Club Extra, Glee Club
-- 2024-11-04 — Show 362. Darren Jones — speakers: Darren Jones, Tunbridge Wells, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-10-28 — Show 361. Alex Massie — speakers: Alex Massie, Alex Salmond, Tunbridge Wells, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-10-21 — Show 360. Sir Graham Brady — speakers: Graham Brady, Tunbridge Wells, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-10-14 — Show 359. Thangam Debbonaire — speakers: Tunbridge Wells, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-10-07 — Show 358. Pam Duncan-Glancy — speakers: Duncan-Glancy Pam, Leicester Square Theatre, Tunbridge Wells, Chelmsford Theatre Extra, Glee Club Extra, Glee Club, Matt Forde
-- 2024-09-30 — Show 357. Iain McNicol — speakers: Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-09-23 — Show 356. Siobhan Baillie — speakers: Siobhan Baillie, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-09-16 — Show 355. Emma Revell — speakers: Emma Revell, Lib Dem, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-09-11 — Show 354. Murdo Fraser — speakers: Murdo Fraser, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-09-02 — Show 353. Sarah Brown: LIVE at the Edinburgh Festival — speakers: Sarah Brown, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-08-26 — Show 352. Jacob Rees-Mogg: LIVE at the Edinburgh Festival — speakers: Jacob Rees-Mogg, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-08-19 — Show 351. Anas Sarwar: LIVE at the Edinburgh Festival — speakers: Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-08-12 — Show 350. James Frith — speakers: James Frith, Jacob Rees-Mogg, Sarah Brown, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-08-05 — Show 379. Toby Perkins — speakers: Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells, Matt Forde
-- 2024-07-29 — Show 378. Jovan Owusu-Nepaul — speakers: Jovan Owusu-Nepaul, Jovan Owusu-Nepaul Jovan, Matt Forde, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells
-- 2024-07-22 — Show 377. Shama Tatler — speakers: Shama Tatler, Shama Tatler Shama, Iain Duncan Smith, Matt Forde, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells
-- 2024-07-15 — Show 376. Anthony Magnall — speakers: Mangnall Anthony, William Hague, Matt Forde, Norwich Playhouse, Leicester Square Theatre, Tunbridge Wells
+- 2025-08-11 — Show 364. Ian Murray - LIVE — speakers: Ian Murray, Matt Forde
+- 2025-08-04 — Show 363. James Cleverly - REPLAY — speakers: James Cleverly Replay, James Cleverly, Matt Forde
+- 2025-07-28 — Show 362. Ed Miliband - REPLAY — speakers: Matt Forde
+- 2025-07-21 — Show 361. Oliver Coppard — speakers: Coppard Oliver, Matt Forde
+- 2025-07-16 — Show 360. Michael Gove - LIVE — speakers: Matt Forde
+- 2025-07-07 — Show 359. Louise Haigh - LIVE — speakers: Louise Haigh, Matt Forde
+- 2025-06-30 — Show 358. Sonia Kumar — speakers: Sonia Kumar Sonia, Kumar Sonia, Matt Forde
+- 2025-06-23 — Show 357. Mims Davies — speakers: life events, Matt Forde
+- 2025-06-16 — Show 356. Nick Thomas-Symonds — speakers: Nick Thomas-Symonds, Nick Thomas-Symonds Nick, Matt Forde
+- 2025-06-11 — Show 395. Kemi Badenoch — speakers: Kemi Badenoch Kemi Badenoch, Matt Forde
+- 2025-06-02 — Show 394. Guto Harri — speakers: Guto Harri, Matt Forde
+- 2025-05-26 — Show 393. Dr Michelle Clement — speakers: Michelle Clement Delivery, Matt Forde
+- 2025-05-19 — Show 392. Alan Rhodes — speakers: Alan Rhodes, Matt Forde
+- 2025-05-14 — Show 391. Wes Streeting - LIVE — speakers: Matt Forde
+- 2025-05-05 — Show 390. John McTernan — speakers: John McTernan, Matt Forde
+- 2025-04-28 — Show 389. Julie Bindel — speakers: Julie Bindel, Matt Forde
+- 2025-04-21 — Show 388. Gregor Poynton — speakers: Gregor Poynton Gregor, Matt Forde
+- 2025-04-14 — Show 387. Jason Stockwood — speakers: Stockwood Brace, Matt Forde
+- 2025-04-07 — Show 386. Dr Scott Arthur — speakers: Scott Arthur, Scott Arthur Scott, Matt Forde
+- 2025-04-03 — Show 385. *LIVE* Anthony Scaramucci — speakers: Anthony Scaramucci, Matt Forde
+- 2025-03-31 — Show 384. Claire Ward — speakers: Claire Ward, Matt Forde
+- 2025-03-24 — Show 383. Eluned Morgan — speakers: Eluned Morgan, Eluned Morgan Eluned, Matt Forde
+- 2025-03-17 — Show 382. Stewart McDonald — speakers: Stewart McDonald Everyone, Matt Forde
+- 2025-03-12 — Show 381 *Alastair Campbell - LIVE* — speakers: Alastair Campbell, Matt Forde
+- 2025-03-03 — Show 380. Simon Hart — speakers: Simon Hart Simon, Matt Forde
+- 2025-02-24 — Show 379. Mike Tapp — speakers: Mike Tapp, Mike Tapp Mike, Matt Forde
+- 2025-02-17 — Show 378. Mhari Aurora — speakers: Aurora Mhari, Matt Forde
+- 2025-02-12 — Show 377 *Rachel Reeves LIVE* — speakers: Matt Forde
+- 2025-02-10 — Show 376. Dr Sharon Lockyer — speakers: Sharon Lockyer Dr, Sharon Lockyer, Matt Forde
+- 2025-02-07 — *Special episode with Richard Herring and Mark Steel in partnership with Cancer Research UK* — speakers: Richard Herring, Mark Steel, Matt Forde
+- 2025-02-03 — Show 375. Ava Santina-Evans — speakers: Ava Santina-Evans, Ava Santina-Evans Ava, Matt Forde
+- 2025-01-27 — Show 374. Gavin Esler — speakers: Gavin Esler Gavin Esler, Matt Forde
+- 2025-01-20 — Show 373. Sam Carling — speakers: Carling Sam, Matt Forde
+- 2025-01-13 — Show 372. Tonia Antoniazzi — speakers: Tonia Antoniazzi Tonia Antoniazzi, Matt Forde
+- 2025-01-06 — Show 371. Replay: Christmas Special with Jess Phillips and Sarah Wollaston — speakers: Jess Phillips, Sarah Wollaston, Sarah Wollaston Keep, Matt Forde
+- 2024-12-30 — Show 370. Replay: Christmas Special with Ed Balls and Alastair Campbell — speakers: Ed Balls, Alastair Campbell Replay, Alastair Campbell, Matt Forde
+- 2024-12-23 — Show 369. Alex Burghart — speakers: Alex Burghart, Alex Burghart Politics, Matt Forde
+- 2024-12-16 — Show 368. Natalie Fleet — speakers: Natalie Fleet, Matt Forde
+- 2024-12-09 — Show 367. David Yelland — speakers: David Yelland, Matt Forde
+- 2024-12-02 — Show 366. Alison McGovern — speakers: Alison McGovern, Matt Forde
+- 2024-11-25 — Show 365. David Duguid — speakers: David Duguid, Matt Forde
+- 2024-11-18 — Show 364. Salma Shah *State of the Tories Special* — speakers: Salma Shah State, Salma Shah, Matt Forde
+- 2024-11-11 — Show 363. Seth Harris — speakers: Seth Harris, Seth Harris US Election, Matt Forde
+- 2024-11-04 — Show 362. Darren Jones — speakers: Darren Jones, Matt Forde
+- 2024-10-28 — Show 361. Alex Massie — speakers: Alex Massie, Alex Salmond, Matt Forde
+- 2024-10-21 — Show 360. Sir Graham Brady — speakers: Graham Brady, Matt Forde
+- 2024-10-14 — Show 359. Thangam Debbonaire — speakers: Thangam Debbonaire Thangam Debbonaire, Matt Forde
+- 2024-10-07 — Show 358. Pam Duncan-Glancy — speakers: Duncan-Glancy Pam, Matt Forde
+- 2024-09-30 — Show 357. Iain McNicol — speakers: General Secretary, Labour Party, Matt Forde
+- 2024-09-23 — Show 356. Siobhan Baillie — speakers: Siobhan Baillie, Matt Forde
+- 2024-09-16 — Show 355. Emma Revell — speakers: Emma Revell, Matt Forde
+- 2024-09-11 — Show 354. Murdo Fraser — speakers: Murdo Fraser, Matt Forde
+- 2024-09-02 — Show 353. Sarah Brown: LIVE at the Edinburgh Festival — speakers: Sarah Brown, Matt Forde
+- 2024-08-26 — Show 352. Jacob Rees-Mogg: LIVE at the Edinburgh Festival — speakers: Jacob Rees-Mogg, Matt Forde
+- 2024-08-19 — Show 351. Anas Sarwar: LIVE at the Edinburgh Festival — speakers: Matt Forde
+- 2024-08-12 — Show 350. James Frith — speakers: James Frith, Matt Forde
+- 2024-08-05 — Show 379. Toby Perkins — speakers: Toby Perkins Toby Perkins, Matt Forde
+- 2024-07-29 — Show 378. Jovan Owusu-Nepaul — speakers: Jovan Owusu-Nepaul, Jovan Owusu-Nepaul Jovan, Matt Forde
+- 2024-07-22 — Show 377. Shama Tatler — speakers: Shama Tatler, Shama Tatler Shama, Matt Forde
+- 2024-07-15 — Show 376. Anthony Magnall — speakers: Mangnall Anthony, Matt Forde
 - 2024-07-08 — Election 24 Special, Finale with Lauren Edwards — speakers: Lauren Edwards, Matt Forde
-- 2024-07-04 — Election 24 Special, Ep 32 — speakers: Ian Murray, Edinburgh South IanMurrayMP, Tom Tugendhat, Uma Kumaran, Andrew David Green, Manchester Rusholme, Tim Leaver, Matt Forde
-- 2024-07-03 — Election 24 Special, Ep 31 — speakers: Jonathan Ashworth, Abi McGuire, Catherine McKinnell, Glenn Bluff, Tim Morgan, Matt Forde
-- 2024-07-02 — Election 24 Special, Ep 30 — speakers: Danielle Newson, Lib Dem, Sussex Weald, Julie Marson, Stortford JulieMarsonMP, Jeremy Lee, Matt Forde
-- 2024-06-30 — Election 24 Special, Ep 29 — speakers: Steve Reed, Croydon North, Tom Pridham, Battersea tom pridham, Lib Dem, Maida Vale, James Nelson, Bradley Stoke JamesNe
-- 2024-06-30 — Election 24 Special, Ep 28 — speakers: Oliver Ryan, Sharmen Rahman, Lauren Edwards, Charlie Davis, Matt Forde
-- 2024-06-29 — Election 24 Special, Ep 27 — speakers: Emily Thornberry, Damian Collins, Thomas Daw, Christian Wakeford, Matt Forde
-- 2024-06-28 — Election 24 Special, Ep 26 — speakers: Jeremy Hunt, Carla Denyer, Katie White, Leeds North West, Matt Forde
-- 2024-06-27 — Election 24 Special, Ep 25 — speakers: Judith Cummins, Scott Hamilton, Christopher Bloore, Redditch ChrisBloore, Matt Forde
-- 2024-06-26 — Election 24 Special, Ep 24 — speakers: Samia Hersi, Chris Foren, Zoe Franklin, Lib Dem, Matt Forde
-- 2024-06-25 — Election 24 Special, Ep 23 — speakers: Natasha Irons, Croydon East, Conor Burns, Lib Dem, Johanna Baxter, Renfrewshire South, Matt Forde
-- 2024-06-24 — Election 24 Special, Ep 22 — speakers: Mark Maguire, Tim Bearder, Lib Dem, Alison Taylor, Renfrewshire North, Colin McGrath, Matt Forde
-- 2024-06-23 — Election 24 Special, Ep 21 — speakers: Layla Moran, Lib Dem, Oxford West, Anthony Mangnall, Andy Fitchet, Will Polland, Matt Forde
-- 2024-06-22 — Election 24 Special, Ep 20 — speakers: Sharon Hodgson, Jake Berry, Kellie-Jay Keen, Colin Martin, Lib Dem, Matt Forde
-- 2024-06-21 — Election 24 Special, Ep 19 — speakers: Abena Oppong-Asare, Lib Dem, Melanie Onn, Great Grimsby, John Gager, Tunbridge Wells, Matt Forde
-- 2024-06-20 — Election 24 Special, Ep 18 — speakers: Preet Kaur Gill, Andy Carter, Simon Burwood, Lib Dem, Ben Pickles, Matt Forde
-- 2024-06-19 — Election 24 Special, Ep 17 — speakers: Douglas Alexander, Chris Webb, Ieuan Môn Williams, Ynes Môn, Matt Forde
-- 2024-06-18 — Election 24 Special, Ep 16 — speakers: Jess Phillips, Birmingham Yardley, Will Sapwell, Lib Dem, Lilian Greenwood, Nottingham South, Jenny Johnson, Richard Lloyd
-- 2024-06-17 — Election 24 Special, Ep 15 — speakers: Nick Thomas-Symonds, Michael Shanks, Charlotte Salomon, Norwich North, Calum Miller, Lib Dems, Matt Forde
-- 2024-06-16 — Election 24 Special, Ep 14 — speakers: Frederick van Mierlo, Lib Dems, Ben Bradley, Lucy Stephenson, Matt Forde
-- 2024-06-15 — Election 24 Special, Ep 13 — speakers: Alex Davies-Jones, Robert Buckland, Helen Maguire, Lib Dems, Andrew Dinsmore, Matt Forde
-- 2024-06-14 — Election 24 Special, Ep 12 — speakers: Will Goodhand, Claire Hanna, Theodore Jupp, Lib Dems, Matt Forde
-- 2024-06-13 — Election 24 Special, Ep 11 — speakers: Josh Babarinde, Rushanara Ali, Scott Smith, Manchester Central, Lib Dems, Kelly Dougall, Matt Forde
-- 2024-06-12 — Election 24 Special, Ep 10 — speakers: Ed Davey, Rosie Duffield, James Cracknell, Ellen Nicholson, Liberal Democrats, Matt Forde
-- 2024-06-11 — Election 24 Special, Ep 9 — speakers: Alison McGovern, Michelle Welsh, Claire Hazelgrove, Bradley Stoke, Danielle Dunfield-Prayero, Matt Forde
-- 2024-06-10 — Election 24 Special, Ep 8 — speakers: Wes Streeting, Ilford North, Sarah Cooper-Lesadd, Claire Malcomson, Vicki Smith, Matt Forde
-- 2024-06-09 — Election 24 Special, Ep 7 — speakers: Colum Eastwood, Birmingham Selly Oak, Charles Dundas, Edinburgh East, Matt Forde
-- 2024-06-08 — Election 24 Special, Ep 6 — speakers: Stewart McDonald, Mark Johnston, Laura Blumenthal, Matt Forde
-- 2024-06-07 — Election 24 Special, Ep 5 — speakers: Milton Keynes, Johnny Luk, Alison Thewliss, Glasgow North, Torcuil Crichton, Matt Forde
-- 2024-06-06 — Election 24 Special, Ep 4 — speakers: Kelly Fowler, Ben Fletcher, Blair McDougall, Matt Forde
-- 2024-06-05 — Election 24 Special, Ep 3 — speakers: James Frith, Jordan Cowie, Pamela Nash, Matt Forde
-- 2024-06-04 — Election 24 Special, Ep 2 — speakers: Mike Amesbury, Runcorn Tim Barnes, Westminster Laura Weldon, Laura Weldon, Matt Forde
-- 2024-06-03 — Election 24 Special, Ep 1 — speakers: Dave Rowntree, Bim Afolami, Hitchin Jess Asato, Lowestoft Sara Gezdari, Matt Forde
-- 2024-05-27 — Show 344. Ros Atkins — speakers: Ros Atkins Ros, Buy Ros, Twitter Listen, Matt Forde
-- 2024-05-23 — Show 343. Nathaniel Dye — speakers: Nathaniel Dye Nathaniel, Follow NathanielD, Twitter Email, Matt Forde
-- 2024-05-20 — Show 342. Nadia Whittome — speakers: Nottingham Forest, Follow nadiawhittomeMP, Twitter Email, Matt Forde
-- 2024-05-13 — Show 341. Matthew McGregor — speakers: Matthew McGregor, Jon Cruddas, Barack Obama, Twitter Email, Matt Forde
-- 2024-05-06 — Show 340. Tim Loughton Returns. Again. — speakers: Tim Loughton Returns, Twitter Email, Matt Forde
-- 2024-05-03 — Show 339. *Local Election Results Bonus Episode with Greg Cook* — speakers: Greg Cook, Twitter Email, Matt Forde
-- 2024-04-29 — Show 338 *Humza Resignation Bonus Episode with Euan McColm* — speakers: Euan McColm, Twitter Email, Matt Forde
-- 2024-04-29 — Show 337. Steve Rotheram — speakers: Steve Rotheram, Jeremy Corbyn, Twitter Email, Matt Forde
-- 2024-04-22 — Show 336. Kevin Schofield — speakers: Kevin Schofield, Twitter Email, Matt Forde
-- 2024-04-15 — Show 335. Gloria De Piero — speakers: Gloria De Piero, Lee Anderson, Twitter Email, Matt Forde
-- 2024-04-08 — Show 334. Kate Fall — speakers: Kate Fall, Rishi Sunak, Matt Forde
+- 2024-07-04 — Election 24 Special, Ep 32 — speakers: Matt Forde
+- 2024-07-03 — Election 24 Special, Ep 31 — speakers: Political Christmas Eve, Matt Forde
+- 2024-07-02 — Election 24 Special, Ep 30 — speakers: Polling Day, Matt Forde
+- 2024-06-30 — Election 24 Special, Ep 29 — speakers: fine wine, Matt Forde
+- 2024-06-30 — Election 24 Special, Ep 28 — speakers: Matt Forde
+- 2024-06-29 — Election 24 Special, Ep 27 — speakers: Matt Forde
+- 2024-06-28 — Election 24 Special, Ep 26 — speakers: cold lagers, Matt Forde
+- 2024-06-27 — Election 24 Special, Ep 25 — speakers: Sports Direct, Matt Forde
+- 2024-06-26 — Election 24 Special, Ep 24 — speakers: Matt Forde
+- 2024-06-25 — Election 24 Special, Ep 23 — speakers: Matt Forde
+- 2024-06-24 — Election 24 Special, Ep 22 — speakers: Matt Forde
+- 2024-06-23 — Election 24 Special, Ep 21 — speakers: all three, Matt Forde
+- 2024-06-22 — Election 24 Special, Ep 20 — speakers: Matt Forde
+- 2024-06-21 — Election 24 Special, Ep 19 — speakers: General Election, Matt Forde
+- 2024-06-20 — Election 24 Special, Ep 18 — speakers: Matt Forde
+- 2024-06-19 — Election 24 Special, Ep 17 — speakers: different lives, Matt Forde
+- 2024-06-18 — Election 24 Special, Ep 16 — speakers: Matt Forde
+- 2024-06-17 — Election 24 Special, Ep 15 — speakers: Matt Forde
+- 2024-06-16 — Election 24 Special, Ep 14 — speakers: Marie Trevelyan, Matt Forde
+- 2024-06-15 — Election 24 Special, Ep 13 — speakers: Matt Forde
+- 2024-06-14 — Election 24 Special, Ep 12 — speakers: Matt Forde
+- 2024-06-13 — Election 24 Special, Ep 11 — speakers: Matt Forde
+- 2024-06-12 — Election 24 Special, Ep 10 — speakers: Matt Forde
+- 2024-06-11 — Election 24 Special, Ep 9 — speakers: Political Party Battlebus, Matt Forde
+- 2024-06-10 — Election 24 Special, Ep 8 — speakers: Matt Forde
+- 2024-06-09 — Election 24 Special, Ep 7 — speakers: Northern Ireland, Matt Forde
+- 2024-06-08 — Election 24 Special, Ep 6 — speakers: Matt Forde
+- 2024-06-07 — Election 24 Special, Ep 5 — speakers: Matt Forde
+- 2024-06-06 — Election 24 Special, Ep 4 — speakers: Matt Forde
+- 2024-06-05 — Election 24 Special, Ep 3 — speakers: Matt Forde
+- 2024-06-04 — Election 24 Special, Ep 2 — speakers: Mike Amesbury, Runcorn Tim Barnes, Matt Forde
+- 2024-06-03 — Election 24 Special, Ep 1 — speakers: Matt Forde
+- 2024-05-27 — Show 344. Ros Atkins — speakers: Ros Atkins Ros, Matt Forde
+- 2024-05-23 — Show 343. Nathaniel Dye — speakers: Nathaniel Dye Nathaniel, Matt Forde
+- 2024-05-20 — Show 342. Nadia Whittome — speakers: Nadia Whittome Forest, Labour Party, Matt Forde
+- 2024-05-13 — Show 341. Matthew McGregor — speakers: Matthew McGregor, Jon Cruddas, Barack Obama, Matt Forde
+- 2024-05-06 — Show 340. Tim Loughton Returns. Again. — speakers: Tim Loughton Returns, Matt Forde
+- 2024-05-03 — Show 339. *Local Election Results Bonus Episode with Greg Cook* — speakers: Greg Cook, Matt Forde
+- 2024-04-29 — Show 338 *Humza Resignation Bonus Episode with Euan McColm* — speakers: Euan McColm, Matt Forde
+- 2024-04-29 — Show 337. Steve Rotheram — speakers: Steve Rotheram, Matt Forde
+- 2024-04-22 — Show 336. Kevin Schofield — speakers: Kevin Schofield, Matt Forde
+- 2024-04-15 — Show 335. Gloria De Piero — speakers: Gloria De Piero, Matt Forde
+- 2024-04-08 — Show 334. Kate Fall — speakers: Kate Fall, Matt Forde
 - 2024-04-01 — Show 333. Jonny Owen — speakers: Jonny Owen Jonny Owen, Matt Forde
 - 2024-03-25 — Show 332. John O'Farrell — speakers: John O'Farrell, Matt Forde
 - 2024-03-18 — Show 331. Siobhain McDonagh — speakers: Siobhain McDonagh, Matt Forde
-- 2024-03-11 — Show 330. Stephen Flynn — speakers: Stephen Flynn, Watch Ray McKinnon, Matt Forde
+- 2024-03-11 — Show 330. Stephen Flynn — speakers: Stephen Flynn, Matt Forde
 - 2024-03-04 — Show 329 - Tom Baldwin — speakers: Tom Baldwin, Ed Miliband, Matt Forde
 - 2024-02-26 — Show 328. Bridget Phillipson — speakers: Bridget Phillipson, Matt Forde
 - 2024-02-19 — Show 327. Lee Anderson — speakers: Lee Anderson, Matt Forde
-- 2024-02-13 — Nicola Sturgeon - Replay — speakers: Matt Forde
-- 2024-01-29 — The Independent Group - Replay — speakers: Heidi Allen, Mike Gapes, Ann Coffey, Matt Forde
+- 2024-02-13 — Nicola Sturgeon - Replay — speakers: Nicola Sturgeon, Replay Four, Matt Forde
+- 2024-01-29 — The Independent Group - Replay — speakers: Matt Forde
 - 2024-01-22 — Ken Clarke - Replay — speakers: Ken Clarke Replay, Ken Clarke, Matt Forde
 - 2024-01-08 — Johnny Mercer - Replay — speakers: Johnny Mercer Replay, Johnny Mercer, Matt Forde
 - 2024-01-01 — William Hague - Replay — speakers: William Hague Replay, Matt Forde
 - 2023-12-25 — Michael Heseltine - Replay — speakers: Michael Heseltine Replay, Michael Heseltine, Matt Forde
 - 2023-12-18 — Alastair Campbell and Ed Balls Christmas Special - Replay — speakers: Alastair Campbell, Special Replay, Matt Forde
 - 2023-12-11 — Anna Soubry - Replay — speakers: Anna Soubry Replay, Matt Forde
-- 2023-12-04 — Paddy Ashdown - Replay — speakers: Matt Forde
-- 2023-11-27 — Angela Rayner - Replay — speakers: Angela Rayner Replay, Angela Rayner, Matt Forde
-- 2023-11-20 — Suella Braverman - Replay — speakers: Matt Forde
-- 2023-11-13 — Nick Clegg - Replay — speakers: Nick Clegg Replay Recorded, Nick Clegg, Mark Zuckerberg, Matt Forde
+- 2023-12-04 — Paddy Ashdown - Replay — speakers: Paddy Ashdown, Replay Another, Matt Forde
+- 2023-11-27 — Angela Rayner - Replay — speakers: Angela Rayner Replay, Matt Forde
+- 2023-11-20 — Suella Braverman - Replay — speakers: Suella Braverman, Home Secretary, Matt Forde
+- 2023-11-13 — Nick Clegg - Replay — speakers: Nick Clegg Replay Recorded, Nick Clegg, Matt Forde
 - 2023-11-06 — Keir Starmer - Replay — speakers: Shadow Brexit, Matt Forde
 - 2023-10-30 — Tony Blair - Replay — speakers: Matt Forde
 - 2023-10-23 — Tessa Jowell - Replay — speakers: Tessa Jowell Replay, Tessa Jowell, Matt Forde
 - 2023-10-16 — Show 326 - Michael Dugher — speakers: Michael Dugher, Matt Forde
-- 2023-10-09 — Show 325 - Lewis Goodall — speakers: Lewis Goodall, Buy Lewis, Matt Forde
-- 2023-08-24 — Show 324 - *Kate Forbes - LIVE at the Edinburgh Festival* — speakers: Kate Forbes, Dan Jarvis, Jason Williamson, Matt Forde
-- 2023-08-19 — Show 323 - *Angela Rayner - LIVE at the Edinburgh Festival* — speakers: Angela Rayner, Kate Forbes, Dan Jarvis, Jason Williamson, Matt Forde
-- 2023-08-09 — Show 322 - *Humza Yousaf - LIVE at the Edinburgh Festival* — speakers: Rishi Sunak, Joe Wicks, Angela Rayner, Kate Forbes, Dan Jarvis, Jason Williamson, Matt Forde
-- 2023-07-18 — Show 321 - *Mhairi Black - LIVE* — speakers: Angela Rayner, Kate Forbes, Dan Jarvis, Jason Williamson, Matt Forde
-- 2023-07-04 — Show 320 - *Joe Lycett - LIVE* — speakers: Joe Lycett, David Beckham, Laura Kuenssberg, Rishi Sunak, Dan Jarvis, Jason Williamson Buy, Matt Forde
-- 2023-06-20 — Show 319 - *Margaret Beckett - LIVE* — speakers: Margaret Beckett, Tony Benn, John Smith, Joe Lycett, Dan Jarvis, Jason Williamson Buy, Matt Forde
-- 2023-06-08 — Show 318 - *Philip Hammond - LIVE* — speakers: Philip Hammond, Theresa May, Margaret Beckett, Joe Lycett, Dan Jarvis, Jason Williamson Buy
-- 2023-05-30 — Show 317 - Rob Burley — speakers: Rob Burley Rob, Marr Show, Andrew Neil, Buy Rob, Philip Hammond, Margaret Beckett, Joe Lycett October
-- 2023-05-25 — Show 316 - *David Blunkett LIVE* — speakers: David Blunkett, Philip Hammond, Margaret Beckett, Joe Lycett October, Jason Williamson, Matt Forde
-- 2023-05-11 — Show 315 - Andrea Catherwood — speakers: Hillary Clinton, George Mitchell, Follow Andrea, David Blunkett, Philip Hammond, Margaret Beckett, Joe Lycett October, Jason Williamson
-- 2023-05-04 — Show 314 - David Aaronovitch — speakers: David Aaronovitch, David Blunkett, Philip Hammond, Margaret Beckett, Joe Lycett October, Jason Williamson, Matt Forde
-- 2023-04-18 — Show 313 - *Jess Phillips LIVE* — speakers: Jess Phillips, Rishi Sunak, David Blunkett, Philip Hammond, Margaret Beckett, Joe Lycett Plus, Matt Forde
-- 2023-04-13 — Show 312 - Rosa Prince — speakers: London Playbook, Jeremy Corbyn, Jess Phillips, David Blunkett, Philip Hammond, Margaret Beckett, Joe Lycett Plus, Matt Forde
-- 2023-04-04 — Show 311 - *Ruth Davidson Live* — speakers: Jess Phillips, David Blunkett, Philip Hammond July, Joe Lycett Plus, Matt Forde
-- 2023-03-31 — Show 310 - Johanna Baxter — speakers: Jeremy Corbyn, Ruth Davidson, Jess Phillips, David Blunkett, Philip Hammond Plus, Matt Forde
-- 2023-03-21 — Show 309 - *Krishnan Guru-Murthy LIVE* — speakers: Krishnan Guru-Murthy, Steve Baker, Robert Downey Jr, Quentin Tarantino, Jimmy Savile, Ruth Davidson, Jess Phillips, David Blunkett
-- 2023-03-16 — Show 308 - Greg Dyke — speakers: Gary Lineker, Brian Clough, Krishnan Guru-Murthy, Ruth Davidson, Jess Phillips, David Blunkett, Philip Hammond Plus, Matt Forde
-- 2023-03-14 — Show 307 - Ash Regan — speakers: Ash Regan, Krishnan Guru-Murthy, Ruth Davidson, Jess Phillips, David Blunkett, Philip Hammond Plus, Matt Forde
-- 2023-03-07 — Show 306 - *Eddie Izzard - LIVE* — speakers: Abraham Lincoln, Krishnan Guru-Murthy, Ruth Davidson, Jess Phillips, David Blunkett, Philip Hammond Plus, Matt Forde
-- 2023-02-28 — Show 305 - Kate Forbes — speakers: Kate Forbes, Krishnan Guru-Murthy, Ruth Davidson, David Blunkett, Philip Hammond Plus, Matt Forde
-- 2023-02-21 — Show 304 - *Keir Starmer - LIVE* — speakers: Volodmyr Zelensky, Dominic Raab, Krishnan Guru-Murthy, Ruth Davidson, David Blunkett, Matt Forde
-- 2023-02-17 — Show 303 - Harry Cole — speakers: Krishnan Guru-Murthy, Ruth Davidson, David Blunkett, Matt Forde
-- 2023-02-15 — Show 302 - *Nicola Sturgeon Resignation Bonus Episode with Stewart McDonald MP* — speakers: Stewart McDonald, Krishnan Guru-Murthy, Ruth Davidson, David Blunkett, Matt Forde
-- 2023-02-09 — Show 301 - *Ian Blackford - LIVE* — speakers: Krishnan Guru-Murthy, Ruth Davidson Plus, Matt Forde
-- 2023-01-25 — Show 300 - *Emily Maitlis and Jon Sopel - LIVE* — speakers: Prince Andrew, Ian Blackford, Krishnan Guru-Murthy, Ruth Davidson Plus, Matt Forde
-- 2023-01-16 — Show 299 - Helen Lewis — speakers: Ian Blackford, Krishnan Guru-Murthy, Ruth Davidson Plus, Matt Forde
-- 2023-01-05 — Show 298 - Dan Hodges — speakers: Glenda Jackson, Follow Dan, Buy Dan, Matt Forde
+- 2023-10-09 — Show 325 - Lewis Goodall — speakers: Lewis Goodall, Matt Forde
+- 2023-08-24 — Show 324 - *Kate Forbes - LIVE at the Edinburgh Festival* — speakers: Kate Forbes, Matt Forde
+- 2023-08-19 — Show 323 - *Angela Rayner - LIVE at the Edinburgh Festival* — speakers: Matt Forde
+- 2023-08-09 — Show 322 - *Humza Yousaf - LIVE at the Edinburgh Festival* — speakers: Humza Yousaf, Edinburgh Festival, First Minister, Matt Forde
+- 2023-07-18 — Show 321 - *Mhairi Black - LIVE* — speakers: Matt Forde
+- 2023-07-04 — Show 320 - *Joe Lycett - LIVE* — speakers: Joe Lycett, Matt Forde
+- 2023-06-20 — Show 319 - *Margaret Beckett - LIVE* — speakers: Margaret Beckett, Matt Forde
+- 2023-06-08 — Show 318 - *Philip Hammond - LIVE* — speakers: Philip Hammond, Matt Forde
+- 2023-05-30 — Show 317 - Rob Burley — speakers: Rob Burley Rob, Matt Forde
+- 2023-05-25 — Show 316 - *David Blunkett LIVE* — speakers: David Blunkett, Matt Forde
+- 2023-05-11 — Show 315 - Andrea Catherwood — speakers: Matt Forde
+- 2023-05-04 — Show 314 - David Aaronovitch — speakers: David Aaronovitch, Matt Forde
+- 2023-04-18 — Show 313 - *Jess Phillips LIVE* — speakers: Jess Phillips, Matt Forde
+- 2023-04-13 — Show 312 - Rosa Prince — speakers: Matt Forde
+- 2023-04-04 — Show 311 - *Ruth Davidson Live* — speakers: Scottish Conservatives, Matt Forde
+- 2023-03-31 — Show 310 - Johanna Baxter — speakers: Matt Forde
+- 2023-03-21 — Show 309 - *Krishnan Guru-Murthy LIVE* — speakers: Krishnan Guru-Murthy, Matt Forde
+- 2023-03-16 — Show 308 - Greg Dyke — speakers: Greg Dyke Greg Dyke, Director General, Matt Forde
+- 2023-03-14 — Show 307 - Ash Regan — speakers: Ash Regan, Matt Forde
+- 2023-03-07 — Show 306 - *Eddie Izzard - LIVE* — speakers: Eddie Izzard, Matt Forde
+- 2023-02-28 — Show 305 - Kate Forbes — speakers: Kate Forbes, Matt Forde
+- 2023-02-21 — Show 304 - *Keir Starmer - LIVE* — speakers: Matt Forde
+- 2023-02-17 — Show 303 - Harry Cole — speakers: Matt Forde
+- 2023-02-15 — Show 302 - *Nicola Sturgeon Resignation Bonus Episode with Stewart McDonald MP* — speakers: Stewart McDonald, Matt Forde
+- 2023-02-09 — Show 301 - *Ian Blackford - LIVE* — speakers: Ian Blackford, Matt Forde
+- 2023-01-25 — Show 300 - *Emily Maitlis and Jon Sopel - LIVE* — speakers: Matt Forde
+- 2023-01-16 — Show 299 - Helen Lewis — speakers: Helen Lewis Helen, Matt Forde
+- 2023-01-05 — Show 298 - Dan Hodges — speakers: Dan Hodges One, Matt Forde
 - 2022-12-27 — Show 297 - Christmas Special Part 2 - Yvette Cooper and Emily Thornberry — speakers: Matt Forde
-- 2022-12-21 — Show 296 - Christmas Special Part 1 - Yvette Cooper and Emily Thornberry — speakers: Yvette Cooper, Emily Thornberry, Ed Balls, Matt Forde
-- 2022-12-06 — Show 295 - *Rachel Reeves LIVE* — speakers: Matt Hancock, Yvette Cooper, Emily Thornberry, Matt Forde
-- 2022-11-29 — Show 294 - Stephen Noon — speakers: Read Stephen, Yvette Cooper, Emily Thornberry, Matt Forde
-- 2022-11-15 — Show 293 - *Jake Berry LIVE* — speakers: Rishi Sunak, Emily Thornberry, Jon Sopel, Matt Forde
-- 2022-11-09 — Show 292 - *David Dimbleby Live* — speakers: David Dimbleby, Buy David, Jake Berry, Jon Sopel, Matt Forde
-- 2022-11-04 — Show 291 - Gavin Barwell — speakers: Follow Gavin, David Dimbleby, Jon Sopel, Matt Forde
-- 2022-10-19 — Show 290 - *Grant Shapps Live* — speakers: Grant Shapps, David Dimbleby, Matt Hancock, Matt Forde
-- 2022-10-06 — Show 289 - *Mick Lynch Live* — speakers: Mick Lynch, David Dimbleby, Matt Hancock, Matt Forde
-- 2022-09-28 — Show 288 - David Gauke — speakers: David Gauke, Follow David, David Dimbleby, Matt Hancock, Read David, Matt Forde
-- 2022-09-16 — Show 287 - Tom Blenkinsop — speakers: Tom Blenkinsop Patriotic, Tom Blenkinsop, Jeremy Corbyn, Follow Matt, Matt Forde
-- 2022-08-23 — Show 286 - *Joanna Cherry - LIVE at the Edinburgh Festival* — speakers: Jon Sopel, Matt Hancock, Follow Matt, Matt Forde
-- 2022-08-18 — Show 285 - *Anas Sarwar - LIVE at the Edinburgh Festival* — speakers: Comic Con, Joanna Cherry, Jon Sopel, Matt Hancock, Follow Matt, Matt Forde
-- 2022-08-08 — Show 284 - *Gordon Brown LIVE at the Edinburgh Festival* — speakers: Nelson Mandela, Joanna Cherry, Jon Sopel, Matt Hancock, Follow Matt, Matt Forde
-- 2022-07-27 — Show 283 - *Alan Johnson Live* — speakers: Joanna Cherry, Matt Hancock, Follow Matt, Matt Forde
-- 2022-07-19 — Show 282 - Sam McAlister — speakers: Sam McAlister, Prince Andrew, Julian Assange, Steven Seagal, Amy Schumer, Buy Sam, Alan Johnson
-- 2022-07-13 — Show 281 - *Lindsay Hoyle LIVE* — speakers: Lindsay Hoyle, Alan Johnson, Joanna Cherry, Matt Hancock, Follow Matt, Matt Forde
-- 2022-06-29 — Show 280 - *David Davis LIVE* — speakers: Michel Barnier, Lindsay Hoyle, Alan Johnson, Matt Hancock, Follow Matt, Matt Forde
-- 2022-06-15 — Show 279 - *Gary Neville LIVE* — speakers: Gary Neville, Alex Ferguson, David Davis, Lindsay Hoyle, Alan Johnson Email, Follow Matt, Matt Forde
-- 2022-06-02 — Show 278 - *Wes Streeting - LIVE* — speakers: Wes Streeting, Gary Neville, David Davis, Lindsay Hoyle Email, Follow Matt, Matt Forde
-- 2022-05-20 — Show 277 - *Lisa Nandy LIVE* — speakers: Lisa Nandy, Holsten Pils, Wes Streeting, Gary Neville, David Davis, Lindsay Hoyle Email, Follow Matt, Matt Forde
-- 2022-05-11 — Show 276 - Vladimir Ashurkov — speakers: Vladimir Ashurkov, Vladimir Putin, Lisa Nandy, Wes Streeting, Gary Neville, David Davis, Lindsay Hoyle Email, Follow Matt
-- 2022-05-04 — Show 275 - *Andrew Marr - LIVE* — speakers: Andrew Marr, Jeremy Corbyn, Lisa Nandy, Wes Streeting, Gary Neville, David Davis, Lindsay Hoyle Email
-- 2022-04-25 — Show 274 - *Rosena Allin-Khan - LIVE* — speakers: Rosena Allin-Khan, Follow Rosena, DrRosena Buy, Andrew Marr, Lisa Nandy, Wes Streeting, Gary Neville, David Davis
-- 2022-04-20 — Show 273 - *Rosie Duffield - LIVE* — speakers: Rosie Duffield, Andrew Marr, Lisa Nandy, Wes Streeting, Gary Neville, David Davis, Lindsay Hoyle Email, Follow Matt
-- 2022-04-12 — Show 272 - *Jacob Rees-Mogg LIVE* — speakers: Jacob Rees-Mogg, Rishi Sunak, Rosie Duffield, Andrew Marr, Lisa Nandy, Wes Streeting, Gary Neville
-- 2022-04-06 — Show 271 - *James Cleverly LIVE* — speakers: James Cleverly, Jacob Rees-Mogg, Rosena Allin-Khan, Rosie Duffield, Lisa Nandy, Wes Streeting, Gary Neville, David Davis
-- 2022-03-28 — Show 270 - Geoff Norcott — speakers: Buy Geoff, James Cleverly, Jacob Rees-Mogg, Rosena Allin-Khan, Rosie Duffield, Lisa Nandy, Gary Neville, David Davis
-- 2022-03-25 — Show 269 - Paul Johnson (IFS) - *Spring Statement Special* — speakers: Paul Johnson, Follow Paul, James Cleverly, Jacob Rees-Mogg, Rosena Allin-Khan, Rosie Duffield, Lisa Nandy, Gary Neville
-- 2022-03-22 — Show 268 - *Tom Tugendhat - LIVE * — speakers: James Cleverly, Jacob Rees-Mogg, Rosena Allin-Khan, Rosie Duffield, Lisa Nandy, Gary Neville, David Davis, Follow Matt
-- 2022-03-17 — Show 267 - Blair McDougall — speakers: Blair McDougall, Tom Tugendhat, James Cleverly, Jacob Rees-Mogg, Rosena Allin-Khan, Rosie Duffield, Lisa Nandy, Gary Neville
-- 2022-03-10 — Show 266 *Neil Kinnock - LIVE* — speakers: Neil Kinnock, Tom Tugendhat, James Cleverly, Jacob Rees-Mogg, Rosena Allin-Khan, Rosie Duffield, Lisa Nandy, Gary Neville
-- 2022-03-01 — Show 265 - Mhairi Hunter — speakers: Mhairi Hunter, Follow Mhairi, Follow Matt, Matt Forde
-- 2022-02-23 — Show 264 - *Edwina Currie - LIVE* — speakers: Edwina Currie, Margaret Thatcher, John Major, Follow Edwina, Follow Matt, Matt Forde
-- 2022-02-08 — Show 263 - *Michael Heseltine Live* — speakers: Margaret Thatcher, John Major, Neil Kinnock, Jacob Rees-Mogg, Rosena Allin-Khan Buy, Follow Matt, Matt Forde
-- 2022-01-31 — Show 262 - Gina Miller — speakers: Gina Miller, Michael Heseltine, Neil Kinnock, Jacob Rees-Mogg, Rosena Allin-Khan Buy, Follow Matt, Matt Forde
-- 2022-01-26 — Show 261 - *Angela Rayner Live* — speakers: Angela Rayner, Follow Angela, Michael Heseltine, Neil Kinnock, Jacob Rees-Mogg Buy, Follow Matt, Matt Forde
-- 2022-01-17 — Show 260 - Craig Oliver — speakers: Craig Oliver, Follow Craig, Angela Rayner Feb, Michael Heseltine, Neil Kinnock Buy, Follow Matt, Matt Forde
-- 2022-01-11 — Show 259 - *Alastair Campbell - LIVE* — speakers: Alastair Campbell, Follow Alastair, Angela Rayner Feb, Michael Heseltine, Neil Kinnock Buy, Follow Matt, Matt Forde
-- 2021-12-22 — Show 258 - Pippa Crerar — speakers: Pippa Crerar, Barnard Castle, Follow Pippa, Angela Rayner Buy, Follow Matt, Matt Forde
-- 2021-12-13 — Show 257 - Tina Stowell (Baroness Stowell of Beeston) — speakers: Tina Stowell, John Major, Follow Tina, Jacob Rees-Mogg, Rosena Allin-Khan, Angela Rayner Buy, Download Tina, Follow Matt
-- 2021-12-08 — Show 256 - *Jeremy Hunt - Live* — speakers: Jeremy Hunt, Follow Jeremy, Jacob Rees-Mogg, Rosena Allin-Khan, Angela Rayner Buy, Follow Matt, Matt Forde
-- 2021-11-30 — Show 255 - Ayesha Hazarika — speakers: Saddam Hussein, Follow Ayesha, Jeremy Hunt, Jacob Rees-Mogg, Rosena Allin-Khan, Neil Kinnock Buy, Follow Matt, Matt Forde
-- 2021-11-23 — Show 254 - *Anthony Scaramucci - LIVE* — speakers: Steve Bannon, Follow Anthony, Jeremy Hunt, Jacob Rees-Mogg, Rosena Allin-Khan, Neil Kinnock Buy, Follow Matt, Matt Forde
-- 2021-11-18 — Show 253 - Gemma Doyle — speakers: Gemma Doyle, Jeremy Corbyn, Anthony Scaramucci, Jeremy Hunt, Jacob Rees-Mogg, Rosena Allin-Khan, Neil Kinnock Buy, Follow Matt
-- 2021-11-09 — Show 252 - *Anas Sarwar - LIVE* — speakers: Follow Anas, Anthony Scaramucci, Jeremy Hunt, Jacob Rees-Mogg, Rosena Allin-Khan, Neil Kinnock Buy, Follow Matt, Matt Forde
-- 2021-11-04 — Show 251 - Stephen Kinnock — speakers: Stephen Kinnock Kinnock, Stephen Kinnock, Follow Stephen, Anthony Scaramucci, Jeremy Hunt, Follow Matt, Matt Forde
-- 2021-10-18 — Show 250 - Kevin Brennan — speakers: Kevin Brennan, Follow Kevin, Anthony Scaramucci, Jeremy Hunt Pre-order, Tabernacle Lane, Follow Matt, Matt Forde
-- 2021-10-12 — Show 249 - *Penny Mordaunt - Live* — speakers: Penny Mordaunt, Follow Penny, Anthony Scaramucci, Jeremy Hunt, Follow Matt, Matt Forde
-- 2021-10-06 — Show 248 - John Rentoul — speakers: John Rentoul, Anthony Scaramucci, Jeremy Hunt Buy, Follow Matt, Matt Forde
-- 2021-09-28 — Show 247- *Andy Burnham Live* — speakers: Follow Andy, Anthony Scaramucci, Jeremy Hunt Buy, Penny Mordaunt, Follow Matt, Matt Forde
-- 2021-09-24 — Show 246 - Anna Turley — speakers: Anna Turley, Jeremy Corbyn, Follow Anna, Andy Burnham, Anthony Scaramucci, Jeremy Hunt Buy, Follow Matt, Matt Forde
-- 2021-09-20 — Show 245 - Gabriel Milland — speakers: Gabriel Milland, Michael Gove, Follow Gabriel, Andy Burnham, Anthony Scaramucci, Jeremy Hunt Buy, Follow Matt
-- 2021-09-13 — Show 244 - Lorna Slater — speakers: Follow Lorna, Andy Burnham, Anthony Scaramucci, Jeremy Hunt Buy, Follow Matt, Matt Forde
-- 2021-09-06 — Show 243 - Siobhan Benita — speakers: Lib Dems, Lib Dem, Andy Burnham, Follow Matt, Matt Forde
-- 2021-08-30 — Show 242 - Roh Yakobi — speakers: Roh Yakobi, Follow Roh, org Buy, Andy Burnham, Follow Matt, Matt Forde
-- 2021-08-23 — Show 241 - Alex Cole-Hamilton — speakers: Lib Dems, Follow Alex, Andy Burnham, Follow Matt, Matt Forde
-- 2021-08-18 — Show 240 - Bonus Episode - Afghanistan with Tom Tugendhat — speakers: Tom Tugendhat, Andy Burnham, Follow Matt, Matt Forde
-- 2021-08-16 — Show 239 - Peter Kyle — speakers: Peter Kyle, Anita Roddick, Follow Matt, Matt Forde
-- 2021-08-09 — Show 238 - Pat McFadden — speakers: Pat McFadden, Donald Dewar, John Smith, Follow Pat, Order Matt, Follow Matt, Matt Forde
-- 2021-08-02 — Show 237 - Edward-Isaac Dovere — speakers: Isaac Dovere, Ilhan Omar, Follow Isaac, Order Matt, Follow Matt, Matt Forde
-- 2021-07-26 — Show 236 - Chloe Smith — speakers: Chloe Smith, Elections Bill, Follow Chloe, NorwichChloe Subscribe, Order Matt, Follow Matt, Matt Forde
-- 2021-07-19 — Show 235 – Carole Walker — speakers: Carole Walker, Order Matt, Follow Matt, Matt Forde
-- 2021-07-14 — Show 234 - England with Toby Perkins — speakers: Follow Toby, Order Matt, Follow Matt, Matt Forde
-- 2021-06-28 — Show 233 - Stewart MacDonald — speakers: Stewart MacDonald, StewartMacDonald Subscribe, Order Matt, Follow Matt, Matt Forde
-- 2021-06-21 — Show 232 - Frank Luntz — speakers: Frank Luntz, Newt Gingrich, Mitt Romney, Follow Frank, Order Matt, Follow Matt, Matt Forde
-- 2021-06-14 — Show 231 *Jess Phillips - Live* — speakers: Follow Jess, Order Matt, Follow Matt, Matt Forde
-- 2021-06-11 — Show 230 - *Esther McVey - Live* — speakers: Esther McVey, Order Matt, Follow Matt, Matt Forde
-- 2021-06-04 — Show 229 - *Andrea Leadsom - Live* — speakers: Bob Diamond, Follow Andrea, andrealeadsom Subscribe, Order Matt, Follow Matt, Matt Forde
-- 2021-06-01 — Show 228 - *Sayeeda Warsi Live* — speakers: Jess Phillips, Follow Sayeeda, Order Matt, Follow Matt, Matt Forde
-- 2021-05-28 — Show 227 - *Keir Starmer Live* — speakers: Jess Phillips, Order Matt, Follow Matt, Matt Forde
-- 2021-05-26 — Show 226 - *Peter Mandelson Live* — speakers: Peter Mandelson, Jess Phillips, Order Matt, Follow Matt, Matt Forde
-- 2021-05-21 — Show 225 - David Owen — speakers: David Owen, Roy Jenkins, Shirley Williams, Margaret Thatcher, Jeremy Corbyn, James Callaghan
-- 2021-05-17 — Show 224- Louise Casey — speakers: Louise Casey, Homelessness Czar, Peter Mandelson, Sayeeda Warsi, Andrea Leadsom Sold, Jess Phillips, Order Matt
-- 2021-05-14 — Show 223 - *ELECTION RESULTS SPECIAL* with Greg Cook — speakers: Greg Cook, Peter Mandelson, Sayeeda Warsi, Andrea Leadsom Sold, Jess Phillips
-- 2021-05-11 — Show 222 - *HARTLEPOOL BY-ELECTION SPECIAL* with Paul Williams — speakers: Paul Williams, Peter Mandelson, Sayeeda Warsi, Andrea Leadsom Sold, Jess Phillips, Order Matt, Follow Matt
-- 2021-05-06 — Show 221- *POLLING DAY SPECIAL* with Martin Angus — speakers: Martin Angus, Peter Mandelson, Sayeeda Warsi, Andrea Leadsom Sold, Jess Phillips, Follow Martin, Order Matt
-- 2021-05-04 — Show 220 - Adam Price — speakers: Peter Mandelson, Sayeeda Warsi, Andrea Leadsom Sold, Jess Phillips, adamprice Email, Order Matt, Follow Matt
-- 2021-04-30 — Show 219 - Liam Byrne — speakers: Liam Byrne, Peter Mandelson, Sayeeda Warsi, Andrea Leadsom Sold, Jess Phillips, Order Matt, Follow Matt
-- 2021-04-28 — Show 218 - Jackie Weaver — speakers: Jackie Weaver, Peter Mandelson, Sayeeda Warsi, Andrea Leadsom Sold, Jess Phillips, Order Matt, Follow Matt
-- 2021-04-26 — Show 217 - Humza Yousaf — speakers: Peter Mandelson, Sayeeda Warsi, Andrea Leadsom, Jess Phillips, Order Matt, Follow Matt, Matt Forde
-- 2021-04-23 — Show 216 - Shaun Bailey — speakers: Shaun Bailey, Peter Mandelson, Sayeeda Warsi, Andrea Leadsom, Jess Phillips, Order Matt, Follow Matt
-- 2021-04-19 — Show 215 - Marvin Rees — speakers: Peter Mandelson, Sayeeda Warsi, Andrea Leadsom, Jess Phillips, Order Matt, Follow Matt, Matt Forde
-- 2021-04-16 — Show 214 - Anneliese Dodds — speakers: Peter Mandelson, Sayeeda Warsi, Andrea Leadsom, Jess Phillips, Order Matt, Follow Matt, Matt Forde
-- 2021-04-14 — Show 213 - Jimmy Wales — speakers: Peter Mandelson, Sayeeda Warsi, Andrea Leadsom, Jess Phillips, Order Matt, Follow Matt, Matt Forde
-- 2021-04-12 — Show 212 - Annie Wells — speakers: Annie Wells, Order Matt, Matt Forde
-- 2021-04-05 — Show 211 - Andy Coulson — speakers: Order Matt, Matt Forde
-- 2021-04-02 — Show 210 - Paddy Tipping — speakers: Order Matt, Matt Forde
-- 2021-03-29 — Show 209 - Alan Milburn — speakers: Alan Milburn Stop, Follow Alan, Order Matt, Matt Forde
-- 2021-03-25 — Show 208 - *Ministerial Code Special* with Jackie Baillie — speakers: Jackie Baillie, Jackie Bailie, Matt Forde
-- 2021-03-19 — Show 207 - Tobias Ellwood — speakers: Follow Tobias, Matt Forde
-- 2021-03-15 — Show 206 - Jamie Klingler — speakers: Jamie Klingler, Sarah Everard, Follow Jamie, Follow Matt, Matt Forde
-- 2021-03-12 — Show 205 - Andy Street — speakers: John Lewis tells, Follow Andy, Matt Forde
-- 2021-03-05 — Show 204 - *BUDGET SPECIAL* with Paul Johnson from the IFS — speakers: Paul Johnson, Follow Paul, Matt Forde
-- 2021-03-04 — Show 203 - Margaret Beckett — speakers: John Smith, Matt Forde
-- 2021-03-01 — Show 202 - Mandy Rhodes — speakers: Mandy Rhodes, Follow Mandy, holyroodmandy Subscribe, Matt Forde
+- 2022-12-21 — Show 296 - Christmas Special Part 1 - Yvette Cooper and Emily Thornberry — speakers: Yvette Cooper, Matt Forde
+- 2022-12-06 — Show 295 - *Rachel Reeves LIVE* — speakers: Rachel Reeves, Matt Forde
+- 2022-11-29 — Show 294 - Stephen Noon — speakers: Stephen Noon Stephen, Chief Strategist, Matt Forde
+- 2022-11-15 — Show 293 - *Jake Berry LIVE* — speakers: Matt Forde
+- 2022-11-09 — Show 292 - *David Dimbleby Live* — speakers: David Dimbleby, Matt Forde
+- 2022-11-04 — Show 291 - Gavin Barwell — speakers: Matt Forde
+- 2022-10-19 — Show 290 - *Grant Shapps Live* — speakers: Prime Minister, Matt Forde
+- 2022-10-06 — Show 289 - *Mick Lynch Live* — speakers: Matt Forde
+- 2022-09-28 — Show 288 - David Gauke — speakers: David Gauke, David Gau, Matt Forde
+- 2022-09-16 — Show 287 - Tom Blenkinsop — speakers: Tom Blenkinsop Patriotic, Tom Blenkinsop, Matt Forde
+- 2022-08-23 — Show 286 - *Joanna Cherry - LIVE at the Edinburgh Festival* — speakers: Joanna Cherry, Edinburgh Festival, Matt Forde
+- 2022-08-18 — Show 285 - *Anas Sarwar - LIVE at the Edinburgh Festival* — speakers: Matt Forde
+- 2022-08-08 — Show 284 - *Gordon Brown LIVE at the Edinburgh Festival* — speakers: Matt Forde
+- 2022-07-27 — Show 283 - *Alan Johnson Live* — speakers: Matt Forde
+- 2022-07-19 — Show 282 - Sam McAlister — speakers: Sam McAlister, Prince Andrew, Matt Forde
+- 2022-07-13 — Show 281 - *Lindsay Hoyle LIVE* — speakers: Lindsay Hoyle, Matt Forde
+- 2022-06-29 — Show 280 - *David Davis LIVE* — speakers: Matt Forde
+- 2022-06-15 — Show 279 - *Gary Neville LIVE* — speakers: Gary Neville, Matt Forde
+- 2022-06-02 — Show 278 - *Wes Streeting - LIVE* — speakers: Wes Streeting, Matt Forde
+- 2022-05-20 — Show 277 - *Lisa Nandy LIVE* — speakers: Lisa Nandy, Matt Forde
+- 2022-05-11 — Show 276 - Vladimir Ashurkov — speakers: Vladimir Ashurkov, Matt Forde
+- 2022-05-04 — Show 275 - *Andrew Marr - LIVE* — speakers: Matt Forde
+- 2022-04-25 — Show 274 - *Rosena Allin-Khan - LIVE* — speakers: Rosena Allin-Khan, Matt Forde
+- 2022-04-20 — Show 273 - *Rosie Duffield - LIVE* — speakers: Rosie Duffield, Matt Forde
+- 2022-04-12 — Show 272 - *Jacob Rees-Mogg LIVE* — speakers: Matt Forde
+- 2022-04-06 — Show 271 - *James Cleverly LIVE* — speakers: James Cleverly, Matt Forde
+- 2022-03-28 — Show 270 - Geoff Norcott — speakers: Matt Forde
+- 2022-03-25 — Show 269 - Paul Johnson (IFS) - *Spring Statement Special* — speakers: Paul Johnson, Matt Forde
+- 2022-03-22 — Show 268 - *Tom Tugendhat - LIVE * — speakers: Matt Forde
+- 2022-03-17 — Show 267 - Blair McDougall — speakers: Blair McDougall, Matt Forde
+- 2022-03-10 — Show 266 *Neil Kinnock - LIVE* — speakers: Matt Forde
+- 2022-03-01 — Show 265 - Mhairi Hunter — speakers: Mhairi Hunter, Matt Forde
+- 2022-02-23 — Show 264 - *Edwina Currie - LIVE* — speakers: Edwina Currie, Matt Forde
+- 2022-02-08 — Show 263 - *Michael Heseltine Live* — speakers: Matt Forde
+- 2022-01-31 — Show 262 - Gina Miller — speakers: Gina Miller, Matt Forde
+- 2022-01-26 — Show 261 - *Angela Rayner Live* — speakers: Matt Forde
+- 2022-01-17 — Show 260 - Craig Oliver — speakers: Craig Oliver, Matt Forde
+- 2022-01-11 — Show 259 - *Alastair Campbell - LIVE* — speakers: Alastair Campbell, Matt Forde
+- 2021-12-22 — Show 258 - Pippa Crerar — speakers: Pippa Cre, Matt Forde
+- 2021-12-13 — Show 257 - Tina Stowell (Baroness Stowell of Beeston) — speakers: Tina Stowel, Matt Forde
+- 2021-12-08 — Show 256 - *Jeremy Hunt - Live* — speakers: Jeremy Hunt, Matt Forde
+- 2021-11-30 — Show 255 - Ayesha Hazarika — speakers: Ayesha Hazarika If, Matt Forde
+- 2021-11-23 — Show 254 - *Anthony Scaramucci - LIVE* — speakers: Anthony Scaramucci, Matt Forde
+- 2021-11-18 — Show 253 - Gemma Doyle — speakers: Gemma Doyle, Matt Forde
+- 2021-11-09 — Show 252 - *Anas Sarwar - LIVE* — speakers: Anas Sarwar, Matt Forde
+- 2021-11-04 — Show 251 - Stephen Kinnock — speakers: Stephen Kinnock Kinnock, Stephen Kinnock, Matt Forde
+- 2021-10-18 — Show 250 - Kevin Brennan — speakers: Kevin Brennan, Matt Forde
+- 2021-10-12 — Show 249 - *Penny Mordaunt - Live* — speakers: Penny Mordaunt, Matt Forde
+- 2021-10-06 — Show 248 - John Rentoul — speakers: John Rentoul, Matt Forde
+- 2021-09-28 — Show 247- *Andy Burnham Live* — speakers: Matt Forde
+- 2021-09-24 — Show 246 - Anna Turley — speakers: Anna Turley, Matt Forde
+- 2021-09-20 — Show 245 - Gabriel Milland — speakers: Gabriel Milland, Matt Forde
+- 2021-09-13 — Show 244 - Lorna Slater — speakers: Matt Forde
+- 2021-09-06 — Show 243 - Siobhan Benita — speakers: Siobhan Benita Siobhan, Matt Forde
+- 2021-08-30 — Show 242 - Roh Yakobi — speakers: Roh Yakobi, Matt Forde
+- 2021-08-23 — Show 241 - Alex Cole-Hamilton — speakers: Alex Cole, Scottish Liberal Democrats, Matt Forde
+- 2021-08-18 — Show 240 - Bonus Episode - Afghanistan with Tom Tugendhat — speakers: Tom Tugendhat, Matt Forde
+- 2021-08-16 — Show 239 - Peter Kyle — speakers: Peter Kyle, Matt Forde
+- 2021-08-09 — Show 238 - Pat McFadden — speakers: Pat McFadden, Matt Forde
+- 2021-08-02 — Show 237 - Edward-Isaac Dovere — speakers: Matt Forde
+- 2021-07-26 — Show 236 - Chloe Smith — speakers: Chloe Smith, Matt Forde
+- 2021-07-19 — Show 235 – Carole Walker — speakers: Carole Walker, Matt Forde
+- 2021-07-14 — Show 234 - England with Toby Perkins — speakers: Matt Forde
+- 2021-06-28 — Show 233 - Stewart MacDonald — speakers: Stewart MacDonald, Matt Forde
+- 2021-06-21 — Show 232 - Frank Luntz — speakers: Frank Luntz, Matt Forde
+- 2021-06-14 — Show 231 *Jess Phillips - Live* — speakers: Matt Forde
+- 2021-06-11 — Show 230 - *Esther McVey - Live* — speakers: Esther McVey, Matt Forde
+- 2021-06-04 — Show 229 - *Andrea Leadsom - Live* — speakers: Matt Forde
+- 2021-06-01 — Show 228 - *Sayeeda Warsi Live* — speakers: Sayeeda Warsi, Matt Forde
+- 2021-05-28 — Show 227 - *Keir Starmer Live* — speakers: Matt Forde
+- 2021-05-26 — Show 226 - *Peter Mandelson Live* — speakers: Matt Forde
+- 2021-05-21 — Show 225 - David Owen — speakers: David Owen, Matt Forde
+- 2021-05-17 — Show 224- Louise Casey — speakers: Louise Casey, Matt Forde
+- 2021-05-14 — Show 223 - *ELECTION RESULTS SPECIAL* with Greg Cook — speakers: Greg Cook, Matt Forde
+- 2021-05-11 — Show 222 - *HARTLEPOOL BY-ELECTION SPECIAL* with Paul Williams — speakers: Paul Williams, Matt Forde
+- 2021-05-06 — Show 221- *POLLING DAY SPECIAL* with Martin Angus — speakers: Martin Angus, Matt Forde
+- 2021-05-04 — Show 220 - Adam Price — speakers: Adam Price, Plaid Cymru, Matt Forde
+- 2021-04-30 — Show 219 - Liam Byrne — speakers: Liam Byrne, Matt Forde
+- 2021-04-28 — Show 218 - Jackie Weaver — speakers: Matt Forde
+- 2021-04-26 — Show 217 - Humza Yousaf — speakers: Humza Yousaf One, Matt Forde
+- 2021-04-23 — Show 216 - Shaun Bailey — speakers: Shaun Bailey, Matt Forde
+- 2021-04-19 — Show 215 - Marvin Rees — speakers: Marvin Rees Bristol, Matt Forde
+- 2021-04-16 — Show 214 - Anneliese Dodds — speakers: Matt Forde
+- 2021-04-14 — Show 213 - Jimmy Wales — speakers: Matt Forde
+- 2021-04-12 — Show 212 - Annie Wells — speakers: Annie Wells, Matt Forde
+- 2021-04-05 — Show 211 - Andy Coulson — speakers: Downing Stree, Matt Forde
+- 2021-04-02 — Show 210 - Paddy Tipping — speakers: Paddy Tipping, Matt Forde
+- 2021-03-29 — Show 209 - Alan Milburn — speakers: Alan Milburn Stop, Matt Forde
+- 2021-03-25 — Show 208 - *Ministerial Code Special* with Jackie Baillie — speakers: Jackie Baillie, Matt Forde
+- 2021-03-19 — Show 207 - Tobias Ellwood — speakers: Integrated Review, Matt Forde
+- 2021-03-15 — Show 206 - Jamie Klingler — speakers: Jamie Klingler, Matt Forde
+- 2021-03-12 — Show 205 - Andy Street — speakers: Andy Street If, Matt Forde
+- 2021-03-05 — Show 204 - *BUDGET SPECIAL* with Paul Johnson from the IFS — speakers: Paul Johnson, Matt Forde
+- 2021-03-04 — Show 203 - Margaret Beckett — speakers: Margaret Beckett One, Matt Forde
+- 2021-03-01 — Show 202 - Mandy Rhodes — speakers: Mandy Rhodes If, Matt Forde
 - 2021-02-18 — Show 201 - Dave Rowntree — speakers: Dave Rowntree, Matt Forde
-- 2021-02-12 — Show 200 - Julia Gillard — speakers: Order Julia, Ngozi Okonjo-Iweala, Matt Forde
-- 2021-02-04 — Show 199 - Charlotte Leslie — speakers: Charlotte Leslie, Follow Charlotte, Matt Forde
+- 2021-02-12 — Show 200 - Julia Gillard — speakers: Prime Minister, Matt Forde
+- 2021-02-04 — Show 199 - Charlotte Leslie — speakers: Charlotte Les, Matt Forde
 - 2021-02-02 — Show 198 - Monica Lennon — speakers: Monica Lennon, Matt Forde
-- 2021-01-28 — Show 197 - John Sweeney — speakers: John Sweeney, Vladimir Putin, Matt Forde
-- 2021-01-21 — Show 196 - Hilary Benn — speakers: Hilary Benn, Tony Benn, Tracey Crouch, Jose Mourinho, Matt Forde
-- 2021-01-14 — Show 195 - Nick Robinson — speakers: Nick Robinson, Wayne Rooney, Follow Nick, Matt Forde
-- 2021-01-07 — Show 194 - Tracey Crouch — speakers: Tracey Crouch, Tottenham Hotspur, Matt Forde
+- 2021-01-28 — Show 197 - John Sweeney — speakers: John Sweeney, Matt Forde
+- 2021-01-21 — Show 196 - Hilary Benn — speakers: Hilary Benn, Matt Forde
+- 2021-01-14 — Show 195 - Nick Robinson — speakers: Nick Robinson, Matt Forde
+- 2021-01-07 — Show 194 - Tracey Crouch — speakers: Matt Forde
 - 2020-12-17 — Show 193 - Peter Mandelson — speakers: Peter Mandelson, Matt Forde
-- 2020-12-11 — Show 192 - Deborah Mattinson Returns — speakers: Deborah Mattinson Returns Plug, Follow Deborah, Matt Forde
-- 2020-12-04 — Show 191 - Tracy Brabin — speakers: Tracy Brabin, Tricia Armstrong, Jo Cox, Follow Tracy, Matt Forde
-- 2020-11-27 — Show 190 - Laura Round — speakers: Follow Laura, Matt Forde
-- 2020-11-20 — Show 189 - Anas Sarwar — speakers: Matt Forde
-- 2020-11-13 — Show 188 - Chris Bryant — speakers: Chris Bryant, Follow Chris, Matt Forde
-- 2020-11-06 — Show 187 - USA Election Special: Anthony Scaramucci and Seth Harris — speakers: Anthony Scaramucci, Seth Harris, Watch Nbc, Matt Forde
-- 2020-11-03 — Show 186 - Margaret Hodge — speakers: Margaret Hodge, Jeremy Corbyn, Follow Margaret, Matt Forde
-- 2020-10-30 — Show 185 - Jeffrey Archer — speakers: Jeffrey Archer Put, Jeffrey Archer, Margaret Thatcher, John Major, Follow Jeffrey, Matt Forde
-- 2020-10-23 — Show 184 - Angus Robertson — speakers: Follow Angus, progressscot Email, Matt Forde
-- 2020-10-16 — Show 183 - Gisela Stuart — speakers: Order Matt, Follow Gisela, Matt Forde
-- 2020-10-09 — Show 182 - Malcolm Rifkind — speakers: Malcolm Rifkind, Matt Forde, Alastair Campbell
-- 2020-10-05 — Show 181 - Alison McGovern — speakers: Matt Forde, Alastair Campbell, Follow Matt
-- 2020-09-24 — Show 180 - Douglas Ross — speakers: Douglas Ross, Matt Forde, Alastair Campbell, Douglas Moray Follow Matt
-- 2020-09-18 — Show 179 - Iain Dale — speakers: Matt Forde, Alastair Campbell, Follow Matt
+- 2020-12-11 — Show 192 - Deborah Mattinson Returns — speakers: Deborah Mattinson Returns Plug, Matt Forde
+- 2020-12-04 — Show 191 - Tracy Brabin — speakers: Tracy Brabin, Matt Forde
+- 2020-11-27 — Show 190 - Laura Round — speakers: Matt Forde
+- 2020-11-20 — Show 189 - Anas Sarwar — speakers: Anas Sarwar One, Matt Forde
+- 2020-11-13 — Show 188 - Chris Bryant — speakers: Chris Bryant, Matt Forde
+- 2020-11-06 — Show 187 - USA Election Special: Anthony Scaramucci and Seth Harris — speakers: Anthony Scaramucci, Seth Harris, Matt Forde
+- 2020-11-03 — Show 186 - Margaret Hodge — speakers: Margaret Hodge, Jeremy Corbyn, Matt Forde
+- 2020-10-30 — Show 185 - Jeffrey Archer — speakers: Jeffrey Archer Put, Matt Forde
+- 2020-10-23 — Show 184 - Angus Robertson — speakers: Angus Robertson One, Matt Forde
+- 2020-10-16 — Show 183 - Gisela Stuart — speakers: Gisela Stuart Oh, Matt Forde
+- 2020-10-09 — Show 182 - Malcolm Rifkind — speakers: Malcolm Rifkind, Matt Forde
+- 2020-10-05 — Show 181 - Alison McGovern — speakers: Matt Forde
+- 2020-09-24 — Show 180 - Douglas Ross — speakers: Douglas Ross, Matt Forde
+- 2020-09-18 — Show 179 - Iain Dale — speakers: Iain Dale Publisher, Iain Dale, Matt Forde
 - 2020-09-11 — Show 178 - Louise Haigh — speakers: Matt Forde
-- 2020-09-04 — Show 177 - Nick Timothy — speakers: Nick Timothy Make, Follow Nick, Follow Matt, Matt Forde
-- 2020-08-27 — Show 176 - Jackie Bailie — speakers: Jackie Bailie, Follow Matt, Matt Forde
+- 2020-09-04 — Show 177 - Nick Timothy — speakers: Nick Timothy Make, Matt Forde
+- 2020-08-27 — Show 176 - Jackie Bailie — speakers: Jackie Bailie, Matt Forde
 - 2020-08-20 — Show 175 - Robert Halfon — speakers: Robert Halfon, Matt Forde
-- 2020-07-31 — Show 174 - Bill Browder — speakers: Bill Browder Bill Browder, Sergei Magnitsky, Matt Forde
-- 2020-07-24 — Show 173 - Tom Tugendhat Returns — speakers: Tom Tugendhat Returns, Follow Matt, Matt Forde
-- 2020-07-17 — Show 172 - Ed Davey — speakers: Ed Davey, Follow Ed, Follow Matt, Matt Forde
-- 2020-07-10 — Show 171 - Layla Moran — speakers: Layla Moran, Lib Dems, Lib Dem, Matt Forde
-- 2020-06-26 — Show 170 - Seth Harris — speakers: Barack Obama, Bill Clinton, Follow Seth, MrSethHarris Follow Matt, Dixon Studio, Matt Forde
-- 2020-06-19 — Show 169 - Ruth Smeeth — speakers: Ruth Smeeth, Jeremy Corbyn, Follow Ruth, Dixon Studio, Matt Forde
-- 2020-06-10 — Show 168 - David Lammy — speakers: Shadow Lord, David Lammy, Follow David, Buy David, Dixon Studio, Matt Forde
-- 2020-06-01 — Show 167 - Joanna Cherry QC — speakers: Follow Mark, Dixon Studio, Matt Forde
-- 2020-05-28 — Show 166 - James Graham — speakers: James Graham, Benedict Cumberbatch, Follow James, Dixon Studio, Matt Forde
-- 2020-05-25 — Show 165 - David Frum — speakers: David Frum, Follow David, Follow Matt, Dixon Studio, Matt Forde
-- 2020-05-22 — Show 164 - Mark Drakeford — speakers: Mark Drakeford, Follow Mark, Follow Matt, Dixon Studio, Matt Forde
-- 2020-05-19 — Show 163 - Edwina Currie — speakers: Follow Edwina, Buy Edwina, Dixon Studio, Matt Forde
-- 2020-05-12 — Show 162 - Tom Tugendhat — speakers: Tom Tugendhat, Follow Matt, Dixon Studio, Matt Forde
-- 2020-05-08 — Show 161 - Vernon Coaker — speakers: Follow Vernon, Follow Matt, Watch Vernon, Dixon Studio, Matt Forde
-- 2020-05-05 — Show 160 - Rosie Duffield — speakers: Rosie Duffield, Follow Rosie, Follow Matt, Dixon Studio, Matt Forde
-- 2020-04-30 — Show 159 - Jeremy Hunt — speakers: Jeremy Hunt, Nanazin Zaghari-Ratcliffe, Follow Jeremy, Follow Matt, Dixon Studio, Matt Forde
-- 2020-04-27 — Show 158 - Philip Tetlock — speakers: Follow Philip, Follow Matt, Dixon Studio, Matt Forde
-- 2020-04-21 — Show 157 - Claire Hanna — speakers: Claire Hanna, Follow Claire, Follow Matt, Dixon Studio, Matt Forde
-- 2020-04-17 — Show 156 - Mike Katz — speakers: Mike Katz, Follow Mike, Follow Matt, Dixon Studio, Matt Forde
-- 2020-04-14 — Show 155 - Jason Leitch — speakers: Follow Jason, Dixon Studio, Matt Forde
-- 2020-04-10 — Show 154 - Rosena Allin-Khan — speakers: Dixon Studio, Matt Forde
-- 2020-04-07 — Show 153 - Anthony Scaramucci — speakers: Anthony Scaramucci, Dixon Studio, Matt Forde
-- 2020-04-03 — Show 152 - Euan McColm — speakers: Alex Salmond, Kenny Macaskill, Follow Euan, Dixon Studio, Matt Forde
-- 2020-03-31 — Show 151 - Marianna Spring — speakers: Marianna Spring, Follow Marianna, Dixon Studio, Matt Forde
-- 2020-03-27 — Show 150 - Ben Page — speakers: Ben Page, Follow Ben, Dixon Studio, Matt Forde
-- 2020-03-25 — Show 149 - Emily Thornberry — speakers: Emily Thornberry, Dixon Studio, Matt Forde
-- 2020-03-20 — Show 148 - Torsten Bell — speakers: Torsten Bell, Dixon Studio, Matt Forde
-- 2020-03-18 — Show 147 - Paul Harrison — speakers: Paul Harrison, Jeremy Hunt, Follow Chris Whitty, Patrick Vallance, Follow Jason Leitch, Brexit Pursued, Matt Forde
-- 2020-03-12 — Show 146 - Kim McGuinness — speakers: Kim McGuinness, Follow Kim, Brexit Pursued, Dixon Studio, Lemon Tree, Theatre Severn, Guildhall May London Bloomsbury, Matt Forde
-- 2020-03-05 — Show 145 - Laura Kuenssberg — speakers: Laura Kuenssberg, Follow Rebecca, Brexit Pursued, Dixon Studio, Lemon Tree, Theatre Severn, Guildhall May London Bloomsbury, Matt Forde
-- 2020-02-27 — Show 144 - Rebecca Long-Bailey (Live) — speakers: Rebecca Long-Bailey, Angela Rayner, Follow Rebecca, Brexit Pursued, Dixon Studio, Lemon Tree, Theatre Severn, Guildhall May London Bloomsbury
-- 2020-02-20 — Show 143 - Rory Palmer — speakers: Follow Rory, Brexit Pursued, Dixon Studio, Lemon Tree, Theatre Severn, Guildhall May London Bloomsbury, Matt Forde
-- 2020-02-13 — SHOW 142 - Gregg Hurwitz — speakers: Gregg Hurwitz Gregg Hurwitz, Brexit Pursued, Dixon Studio, Lemon Tree, Theatre Severn, Guildhall May London Bloomsbury, Matt Forde
-- 2020-02-05 — SHOW 141 - Deborah Mattinson — speakers: Deborah Mattinson, Follow Deborah, Read Deborah, Brexit Pursued, Dixon Studio, Lemon Tree, Theatre Severn, Guildhall May London Bloomsbury
-- 2020-01-30 — SHOW 140 - Lisa Nandy (Live) — speakers: Lisa Nandy, Brexit Pursued, Dixon Studio, Lemon Tree, Theatre Severn, Guildhall May London Bloomsbury, Matt Forde
-- 2020-01-22 — SHOW 139 - Robert Colville — speakers: Robert Colville, Follow Robert, Brexit Pursued, Dixon Studio, Lemon Tree, Theatre Severn, Guildhall May London Bloomsbury, Matt Forde
-- 2020-01-14 — SHOW 138 - Lucy Powell — speakers: Lucy Powell, Jeremy Corbyn, Brexit Pursued, Matt Forde
-- 2019-12-20 — SHOW 137 - *Christmas Special* Sadiq Khan and Rosena Allin-Khan — speakers: Rosena Allin-Khan Matt, Rosena Allin-Khan, Brexit Pursued, Matt Forde
-- 2019-12-12 — SHOW 136 - Polling Day (Election Special #24) — speakers: Ian Botham, Roast Beef, Brexit Pursued, Matt Forde
-- 2019-12-11 — SHOW 135 - Craig Oliver (Election Special #23) — speakers: Craig Oliver, Follow Craig, Buy Craig, Brexit Pursued, Matt Forde
-- 2019-12-10 — SHOW 134 - Miranda Green (Election Special #22) — speakers: Lib Dem, Pussy Galore, Follow Miranda, Follow Matt, Brexit Pursued, Matt Forde
-- 2019-12-09 — SHOW 133 - Tony Blair (Election Special #21) — speakers: Andrew Neil, Noel Gallagher, Follow Tony, Brexit Pursued, Matt Forde
-- 2019-12-06 — SHOW 132 - Sian Berry (Election Special #20) — speakers: Jeremy Corbyn, Brexit Pursued, Matt Forde
-- 2019-12-05 — SHOW 131 - Len McCluskey (Election Special #19) — speakers: Len McCluskey, Brexit Pursued, Matt Forde
-- 2019-12-04 — SHOW 130 - Anita Boateng (Election Special #18) — speakers: Anita Boateng, Jeremy Hunt, Follow Anita, Brexit Pursued, Matt Forde
-- 2019-12-03 — SHOW 129 - Colum Eastwood (Election Special #17) — speakers: Brexit Pursued, Matt Forde
-- 2019-12-02 — SHOW 128 - Willie Rennie (Election Special #16) — speakers: Jo Swinson, Brexit Pursued, Matt Forde
-- 2019-11-29 — SHOW 127 - Alan Duncan (Live Election Special #15) — speakers: Alan Duncan, Peter Mandelson, Follow Alan, Brexit Pursued, Matt Forde
-- 2019-11-28 — SHOW 126 - *DISASTER SPECIAL* Martin Angus and Salma Shah (Election Special #14) — speakers: Martin Angus, Salma Shah, John Prescott, Sajid Javid, Follow Salma, Matt Forde
-- 2019-11-27 — SHOW 125 - Pete Wishart (Election Special #13) — speakers: Pete Wishart, Follow Pete, Watch Runrig, Loch Lomond, Matt Forde
+- 2020-07-31 — Show 174 - Bill Browder — speakers: Bill Browder Bill Browder, Matt Forde
+- 2020-07-24 — Show 173 - Tom Tugendhat Returns — speakers: Tom Tugendhat Returns, Matt Forde
+- 2020-07-17 — Show 172 - Ed Davey — speakers: Ed Davey, Matt Forde
+- 2020-07-10 — Show 171 - Layla Moran — speakers: Layla Moran, Matt Forde
+- 2020-06-26 — Show 170 - Seth Harris — speakers: Barack Obama, Matt Forde
+- 2020-06-19 — Show 169 - Ruth Smeeth — speakers: Matt Forde
+- 2020-06-10 — Show 168 - David Lammy — speakers: Shadow Jus, Matt Forde
+- 2020-06-01 — Show 167 - Joanna Cherry QC — speakers: Joanna Cherry, Home Affairs Spokeperson, Matt Forde
+- 2020-05-28 — Show 166 - James Graham — speakers: James Graham, Matt Forde
+- 2020-05-25 — Show 165 - David Frum — speakers: David Frum, Matt Forde
+- 2020-05-22 — Show 164 - Mark Drakeford — speakers: Mark Drakeford, Matt Forde
+- 2020-05-19 — Show 163 - Edwina Currie — speakers: Matt Forde
+- 2020-05-12 — Show 162 - Tom Tugendhat — speakers: Tom Tugendhat Prepare, Foreign Affairs Select Committ, Matt Forde
+- 2020-05-08 — Show 161 - Vernon Coaker — speakers: Vernon Coaker Vernon Coaker, Labour Party, Matt Forde
+- 2020-05-05 — Show 160 - Rosie Duffield — speakers: Rosie Duffield, Matt Forde
+- 2020-04-30 — Show 159 - Jeremy Hunt — speakers: Jeremy Hunt, Matt Forde
+- 2020-04-27 — Show 158 - Philip Tetlock — speakers: Philip Tetlock One, Matt Forde
+- 2020-04-21 — Show 157 - Claire Hanna — speakers: Claire Hanna, Matt Forde
+- 2020-04-17 — Show 156 - Mike Katz — speakers: Mike Katz, Matt Forde
+- 2020-04-14 — Show 155 - Jason Leitch — speakers: Jason Leitch Brace, Matt Forde
+- 2020-04-10 — Show 154 - Rosena Allin-Khan — speakers: Rosena Allin, Khan Following, Labour Deputy Leadership, Matt Forde
+- 2020-04-07 — Show 153 - Anthony Scaramucci — speakers: Matt Forde
+- 2020-04-03 — Show 152 - Euan McColm — speakers: Alex Salmond, Matt Forde
+- 2020-03-31 — Show 151 - Marianna Spring — speakers: Marianna Spring, Matt Forde
+- 2020-03-27 — Show 150 - Ben Page — speakers: Ben Page Pour, Matt Forde
+- 2020-03-25 — Show 149 - Emily Thornberry — speakers: Emily Thornbe, Matt Forde
+- 2020-03-20 — Show 148 - Torsten Bell — speakers: Matt Forde
+- 2020-03-18 — Show 147 - Paul Harrison — speakers: Paul Harrison, Matt Forde
+- 2020-03-12 — Show 146 - Kim McGuinness — speakers: Kim McGuinness, Matt Forde
+- 2020-03-05 — Show 145 - Laura Kuenssberg — speakers: Laura Kuenssberg, Matt Forde
+- 2020-02-27 — Show 144 - Rebecca Long-Bailey (Live) — speakers: Rebecca Long-Bailey, Matt Forde
+- 2020-02-20 — Show 143 - Rory Palmer — speakers: Rory Palmer Rory Palmer, East Midlands, Matt Forde
+- 2020-02-13 — SHOW 142 - Gregg Hurwitz — speakers: Gregg Hurwitz Gregg Hurwitz, Matt Forde
+- 2020-02-05 — SHOW 141 - Deborah Mattinson — speakers: Deborah Mattinson, Matt Forde
+- 2020-01-30 — SHOW 140 - Lisa Nandy (Live) — speakers: Lisa Nandy, Matt Forde
+- 2020-01-22 — SHOW 139 - Robert Colville — speakers: Robert Colville, Matt Forde
+- 2020-01-14 — SHOW 138 - Lucy Powell — speakers: Lucy Powell, Matt Forde
+- 2019-12-20 — SHOW 137 - *Christmas Special* Sadiq Khan and Rosena Allin-Khan — speakers: Rosena Allin-Khan Matt, Matt Forde
+- 2019-12-12 — SHOW 136 - Polling Day (Election Special #24) — speakers: Matt Forde
+- 2019-12-11 — SHOW 135 - Craig Oliver (Election Special #23) — speakers: Craig Oliver, Matt Forde
+- 2019-12-10 — SHOW 134 - Miranda Green (Election Special #22) — speakers: Lib Dem, Matt Forde
+- 2019-12-09 — SHOW 133 - Tony Blair (Election Special #21) — speakers: Matt Forde
+- 2019-12-06 — SHOW 132 - Sian Berry (Election Special #20) — speakers: Matt Forde
+- 2019-12-05 — SHOW 131 - Len McCluskey (Election Special #19) — speakers: Len McCluskey, Matt Forde
+- 2019-12-04 — SHOW 130 - Anita Boateng (Election Special #18) — speakers: Anita Boateng, Matt Forde
+- 2019-12-03 — SHOW 129 - Colum Eastwood (Election Special #17) — speakers: Matt Forde
+- 2019-12-02 — SHOW 128 - Willie Rennie (Election Special #16) — speakers: Matt Forde
+- 2019-11-29 — SHOW 127 - Alan Duncan (Live Election Special #15) — speakers: Alan Duncan, Matt Forde
+- 2019-11-28 — SHOW 126 - *DISASTER SPECIAL* Martin Angus and Salma Shah (Election Special #14) — speakers: Martin Angus, Salma Shah, Matt Forde
+- 2019-11-27 — SHOW 125 - Pete Wishart (Election Special #13) — speakers: Pete Wishart, Matt Forde
 - 2019-11-26 — SHOW 124 - Sir John Curtice (Election Special #12) — speakers: John Curtice, Matt Forde
-- 2019-11-25 — SHOW 123 - Emily Thornberry (Election Special #11) — speakers: Download Labour, Matt Forde
-- 2019-11-22 — SHOW 122 - *DOUBLE BILL* Ruth Davidson & Jackson Carlaw (Election Special #10) — speakers: Ruth Davidson, Follow Ruth, Follow Jackson, Matt Forde
-- 2019-11-21 — SHOW 121 - Ian Murray (Election Special #9) — speakers: Ian Murray, Follow Ian, Matt Forde
-- 2019-11-20 — Show 120 - James Mills (Election Special #8) — speakers: James Mills, Jeremy Corbyn, John McDonnell, Follow James, Matt Forde
-- 2019-11-19 — SHOW 119 - Matt Hancock (Election Special #7) — speakers: Jeremy Corbyn, Matt Hancock, Follow Matt Forde, Matt Forde
-- 2019-11-18 — SHOW 118 - Luciana Berger (Election Special #6) — speakers: Luciana Berger, Lib Dem, Follow Matt, Matt Forde
-- 2019-11-15 — SHOW 117 - Bim Afolami (Election Special #5) — speakers: Bim Afolami, Follow Bim, Matt Forde
-- 2019-11-14 — SHOW 116 - Gloria De Piero (Election Special #4) — speakers: Gloria de Piero, Follow Gloria, Follow Matt, Matt Forde
-- 2019-11-13 — SHOW 115 - Greg Cook (Election Special #3) — speakers: Greg Cook, Follow Greg, Matt Forde
-- 2019-11-12 — SHOW 114 - Jo Tanner (Election Special #2) — speakers: Jo Tanner, Katie Perrior, Follow Jo, Follow Matt, Matt Forde
-- 2019-11-11 — SHOW 113 – Brandon Lewis (Election Special #1) — speakers: Brandon Lewis, Follow Brandon, Matt Forde
-- 2019-11-01 — SHOW 112 - Jo Swinson (LIVE) — speakers: Jo Swinson, Lib Dems, Jeremy Corbyn, Follow Jo, Khan Email, Matt Forde
+- 2019-11-25 — SHOW 123 - Emily Thornberry (Election Special #11) — speakers: Matt Forde
+- 2019-11-22 — SHOW 122 - *DOUBLE BILL* Ruth Davidson & Jackson Carlaw (Election Special #10) — speakers: Matt Forde
+- 2019-11-21 — SHOW 121 - Ian Murray (Election Special #9) — speakers: Ian Murray, Matt Forde
+- 2019-11-20 — Show 120 - James Mills (Election Special #8) — speakers: James Mills, Jeremy Corbyn, John McDonnell, Matt Forde
+- 2019-11-19 — SHOW 119 - Matt Hancock (Election Special #7) — speakers: Matt Forde
+- 2019-11-18 — SHOW 118 - Luciana Berger (Election Special #6) — speakers: Luciana Berger, Matt Forde
+- 2019-11-15 — SHOW 117 - Bim Afolami (Election Special #5) — speakers: Bim Afolami, Matt Forde
+- 2019-11-14 — SHOW 116 - Gloria De Piero (Election Special #4) — speakers: Gloria de Piero, Matt Forde
+- 2019-11-13 — SHOW 115 - Greg Cook (Election Special #3) — speakers: Greg Cook, Matt Forde
+- 2019-11-12 — SHOW 114 - Jo Tanner (Election Special #2) — speakers: Jo Tanner, Matt Forde
+- 2019-11-11 — SHOW 113 – Brandon Lewis (Election Special #1) — speakers: Brandon Lewis, Matt Forde
+- 2019-11-01 — SHOW 112 - Jo Swinson (LIVE) — speakers: Jo Swinson, Matt Forde
 - 2019-10-17 — SHOW 111 - Kate Andrews — speakers: Kate Andrews, Matt Forde
-- 2019-10-10 — SHOW 110 - Krishnan Guru-Murthy — speakers: Matt Forde
-- 2019-09-26 — SHOW 109 - Ken Clarke (LIVE) — speakers: Ken Clarke, Brexit Pursued, Matt Forde
-- 2019-09-18 — SHOW 108 - Darren Grimes — speakers: Lib Dems, Follow Darren, Follow Matt, Matt Forde
-- 2019-09-16 — SHOW 107 - Richard Carr — speakers: Richard Carr, Bill Clinton, Follow Richard, Richard Carr Buy March, Matt Forde
+- 2019-10-10 — SHOW 110 - Krishnan Guru-Murthy — speakers: Krishnan Guru, Matt Forde
+- 2019-09-26 — SHOW 109 - Ken Clarke (LIVE) — speakers: Ken Clarke, Matt Forde
+- 2019-09-18 — SHOW 108 - Darren Grimes — speakers: Matt Forde
+- 2019-09-16 — SHOW 107 - Richard Carr — speakers: Richard Carr, Matt Forde
 - 2019-08-28 — SHOW 106 - Nicola Sturgeon (LIVE) — speakers: Matt Forde
-- 2019-08-22 — SHOW 105 - Kezia Dugdale (LIVE) — speakers: Follow Kezia, Follow Matt, Matt Forde
+- 2019-08-22 — SHOW 105 - Kezia Dugdale (LIVE) — speakers: Kezia Dugdale, Matt Forde
 - 2019-07-12 — SHOW 104 - Deborah Mattinson — speakers: Deborah Mattinson, Matt Forde
-- 2019-07-03 — SHOW 103 - Keir Starmer (LIVE) — speakers: Michel Barnier, Brexit Pursued, Matt Forde
+- 2019-07-03 — SHOW 103 - Keir Starmer (LIVE) — speakers: Matt Forde
 - 2019-06-25 — SHOW 102 - Tom Harris — speakers: Tom Harris, Matt Forde
-- 2019-05-30 — SHOW 101 - Sam Gyimah and Rory Stewart (LIVE) — speakers: Sam Gyimah, Rory Stewart, Matt Forde
-- 2019-05-17 — SHOW 100 - John McTernan — speakers: John McTernan, Julia Gillard, Matt Forde
-- 2019-05-03 — SHOW 99 - Sophie Walker — speakers: Edinburgh Stand, Glasgow Stand, Matt Forde
-- 2019-04-30 — SHOW 98 - Suella Braverman (Live) — speakers: Suella Braverman, Edinburgh Stand, Glasgow Stand, Matt Forde
-- 2019-04-19 — SHOW 97 - Arthur Snell — speakers: Arthur Snell, Christopher Hope, Edinburgh Stand, Glasgow Stand, Matt Forde
-- 2019-04-12 — SHOW 97 - Christopher Hope — speakers: Christopher Hope, Edinburgh Stand, Glasgow Stand, Matt Forde
-- 2019-04-05 — SHOW 96 - Nick Boles — speakers: Nick Boles, Edinburgh Stand, Glasgow Stand, Matt Forde
-- 2019-03-29 — SHOW 95 - George Osborne (Live) — speakers: George Osborne, Edinburgh Stand, Glasgow Stand, Matt Forde
-- 2019-03-22 — SHOW 94 - Naomi Smith — speakers: Naomi Smith, Edinburgh Stand, Glasgow Stand, Matt Forde
-- 2019-03-08 — SHOW 93 - The Independent Group (Live) — speakers: Ann Coffey, Mike Gapes, Heidi Allen, Chuka Umunna, Edinburgh Stand, Glasgow Stand, Matt Forde
-- 2019-03-01 — SHOW 92 - Johnny Mercer — speakers: Johnny Mercer, Edinburgh Stand, Glasgow Stand, Matt Forde
+- 2019-05-30 — SHOW 101 - Sam Gyimah and Rory Stewart (LIVE) — speakers: Sam Gyimah, Rory Stewart, Sam Gyi, Matt Forde
+- 2019-05-17 — SHOW 100 - John McTernan — speakers: John McTernan, Matt Forde
+- 2019-05-03 — SHOW 99 - Sophie Walker — speakers: Sophie Walker Sophie Walker, Equality Party, Matt Forde
+- 2019-04-30 — SHOW 98 - Suella Braverman (Live) — speakers: Suella Braverman, Matt Forde
+- 2019-04-19 — SHOW 97 - Arthur Snell — speakers: Arthur Snell, Matt Forde
+- 2019-04-12 — SHOW 97 - Christopher Hope — speakers: Christopher Hope Ten, Expenses Scandal, Matt Forde
+- 2019-04-05 — SHOW 96 - Nick Boles — speakers: Nick Boles, Matt Forde
+- 2019-03-29 — SHOW 95 - George Osborne (Live) — speakers: George Osborne, Matt Forde
+- 2019-03-22 — SHOW 94 - Naomi Smith — speakers: Naomi Smith, Matt Forde
+- 2019-03-08 — SHOW 93 - The Independent Group (Live) — speakers: Independent Group, Matt Forde
+- 2019-03-01 — SHOW 92 - Johnny Mercer — speakers: Johnny Mercer, Matt Forde
 - 2019-02-15 — SHOW 91 - Jonathan Isaby — speakers: Jonathan Isaby, Matt Forde
 - 2019-02-08 — SHOW 90 - Tony Blair — speakers: Matt Forde
-- 2019-02-01 — SHOW 89 - David Blunkett (Live) — speakers: David Blunkett, Gloucester Feb, Matt Forde
-- 2019-01-25 — SHOW 88 - Sophie Jarvis — speakers: Sophie Jarvis, Follow Sophie, Matt Forde
-- 2019-01-10 — SHOW 87 - Christmas Special 2: Alastair Campbell and Adam Boulton — speakers: Alastair Campbell, Adam Boulton, Follow Alastair, Matt Forde
-- 2019-01-04 — SHOW 86 - Christmas Special 1: Jess Phillips and Sarah Wollaston — speakers: Jess Phillips, Sarah Wollaston, Follow Jess, Follow Sarah, Matt Forde
-- 2018-12-13 — SHOW 85 - PATRICK O'FLYNN — speakers: Patrick O'Flynn, Gerrard Batten, Follow Matt, Matt Forde
-- 2018-12-05 — Show 84 - PROF PHILIP COWLEY — speakers: Matt Forde
-- 2018-12-01 — Show 83 - EMILY THORNBERRY (Live) — speakers: Jess Phillips, Sarah Wollaston, Alastair Campbell, EmilyThornberry Follow Matt, Matt Forde
-- 2018-11-23 — Show 82 - KEVIN HAGUE — speakers: Kevin Hague, Follow Kevin, Matt Forde
-- 2018-11-16 — Show 81 - Aaron Bastani — speakers: Aaron Bastani, Luxury Automated, Jeremy Corbyn, Matt Forde
-- 2018-11-09 — Show 80 - Lord Andrew Cooper — speakers: Andrew Cooper, Andrew Cooper Andrew Cooper, Follow Andrew, Follow Matt, Matt Forde
-- 2018-11-06 — Show 79 - Carwyn Jones (LIVE) — speakers: Matt Forde
-- 2018-10-18 — Show 78 - JANE MERRICK — speakers: Jane Merrick Jane, Michael Fallon, Follow Jane, Matt Forde
-- 2018-10-04 — Show 77 - Al Murray — speakers: Al Murray Al, Al Murray, Matt Forde
+- 2019-02-01 — SHOW 89 - David Blunkett (Live) — speakers: David Blunkett, Matt Forde
+- 2019-01-25 — SHOW 88 - Sophie Jarvis — speakers: Sophie Jarvis, Matt Forde
+- 2019-01-10 — SHOW 87 - Christmas Special 2: Alastair Campbell and Adam Boulton — speakers: Alastair Campbell, Adam Boulton, Matt Forde
+- 2019-01-04 — SHOW 86 - Christmas Special 1: Jess Phillips and Sarah Wollaston — speakers: Jess Phillips, Sarah Wollaston, Matt Forde
+- 2018-12-13 — SHOW 85 - PATRICK O'FLYNN — speakers: Patrick O'Flynn, Matt Forde
+- 2018-12-05 — Show 84 - PROF PHILIP COWLEY — speakers: Prof Philip Cowley Philip, Queen Mary University, Matt Forde
+- 2018-12-01 — Show 83 - EMILY THORNBERRY (Live) — speakers: Emily Thornberry, Matt Forde
+- 2018-11-23 — Show 82 - KEVIN HAGUE — speakers: Kevin Hague, Matt Forde
+- 2018-11-16 — Show 81 - Aaron Bastani — speakers: Aaron Bastani, Matt Forde
+- 2018-11-09 — Show 80 - Lord Andrew Cooper — speakers: Andrew Cooper, Andrew Cooper Andrew Cooper, Matt Forde
+- 2018-11-06 — Show 79 - Carwyn Jones (LIVE) — speakers: Carwyn Jones, Carwyn Jones Carwyn Jones, First Minister, Welsh Labour Party, Matt Forde
+- 2018-10-18 — Show 78 - JANE MERRICK — speakers: Jane Merrick Jane, Matt Forde
+- 2018-10-04 — Show 77 - Al Murray — speakers: Al Murray Al, Matt Forde
 - 2018-09-28 — Show 76 - Justine Greening (LIVE) — speakers: Matt Forde
 - 2018-09-13 — Show 75 - John Swinney (LIVE) — speakers: John Swinney, Matt Forde
-- 2018-09-06 — Show 74 - Tommy Sheridan (LIVE) — speakers: Tommy Sheridan, Tommy Sheridan Tommy, Jeremy Corbyn, Matt Forde
-- 2018-06-28 — Show 73 - Andrew Mitchell (LIVE) — speakers: Andrew Mitchell, John Major, Jeremy Corbyn, Matt Forde
-- 2018-06-21 — Show 72 - Owen Jones — speakers: Owen Jones Owen Jones, Alan Partridge, Matt Forde
-- 2018-06-07 — Show 71 - Jon Lansman (LIVE) — speakers: Jon Lansman, Jeremy Corbyn, Tony Benn, Matt Forde
+- 2018-09-06 — Show 74 - Tommy Sheridan (LIVE) — speakers: Tommy Sheridan, Tommy Sheridan Tommy, Matt Forde
+- 2018-06-28 — Show 73 - Andrew Mitchell (LIVE) — speakers: Andrew Mitchell, Matt Forde
+- 2018-06-21 — Show 72 - Owen Jones — speakers: Owen Jones Owen Jones, Matt Forde
+- 2018-06-07 — Show 71 - Jon Lansman (LIVE) — speakers: Jon Lansman, Matt Forde
 - 2018-05-25 — Show 70 - MATT ZARB-COUSIN — speakers: Matt Zarb-Cousin, Jeremy Corbyn, Matt Forde
-- 2018-05-10 — Show 69 - Professor Angelia Wilson — speakers: Angelia Wilson, Twitter here AngeliaWilson, Matt Forde
-- 2018-05-02 — Show 68 - Professor Anand Menon — speakers: Anand Menon, Buy Anand, Matt Forde
+- 2018-05-10 — Show 69 - Professor Angelia Wilson — speakers: Angelia Wilson, Matt Forde
+- 2018-05-02 — Show 68 - Professor Anand Menon — speakers: Anand Menon, Matt Forde
 - 2018-04-26 — Show 67 - Heidi Allen (LIVE) — speakers: Heidi Allen, Matt Forde
 - 2018-04-19 — Show 66 - Professor Rosie Campbell — speakers: Rosie Campbell, Matt Forde
 - 2018-04-12 — Show 65 - Professor Sarah Childs — speakers: Sarah Childs, Matt Forde
 - 2018-04-06 — Show 64 - Chris Coghlan — speakers: Chris Coghlan, Chris Coghlan Chris, Matt Forde
 - 2018-03-29 — Show 63 - Owen Smith (LIVE) — speakers: Owen Smith, Matt Forde
-- 2018-03-15 — Show 62 - Laura Round — speakers: Matt Forde
-- 2018-03-08 — Show 61 - Prof. Roger Scully — speakers: Roger Scully, Prof Roger Scully, Follow Roger, Order Roger, Matt Forde
+- 2018-03-15 — Show 62 - Laura Round — speakers: Laura Round Laura Round, Laura Round, Bright Blue, Matt Forde
+- 2018-03-08 — Show 61 - Prof. Roger Scully — speakers: Roger Scully, Prof Roger Scully, Matt Forde
 - 2018-03-01 — Show 60 - Ed Miliband (LIVE) — speakers: Ed Miliband, Matt Forde
-- 2018-02-22 — Show 59 - Lord Daniel Finkelstein — speakers: Daniel Finkelstein, John Major, William Hague, Theresa May, Corbyn Czech, Follow Daniel, Matt Forde
+- 2018-02-22 — Show 59 - Lord Daniel Finkelstein — speakers: Daniel Finkelstein, Matt Forde
 - 2018-02-15 — Show 58 - Dr Jan Halper-Hayes — speakers: Jan Halper-Hayes, Matt Forde
 - 2018-02-08 — Show 57 - Paul Staines — speakers: Matt Forde
-- 2018-02-02 — Show 56 - James Cleverly (LIVE) — speakers: James Cleverly, Follow James, Matt Forde
-- 2018-01-25 — Show 55 - Owen Bennett — speakers: Owen Bennett, Follow Owen, Matt Forde
-- 2018-01-19 — Show 54 - Theo Bertram — speakers: Theo Bertram, George Osborne, Matt Forde
+- 2018-02-02 — Show 56 - James Cleverly (LIVE) — speakers: James Cleverly, Matt Forde
+- 2018-01-25 — Show 55 - Owen Bennett — speakers: Owen Bennett, Matt Forde
+- 2018-01-19 — Show 54 - Theo Bertram — speakers: Matt Forde
 - 2018-01-10 — A Special Podcast Announcement — speakers: Matt Forde
 - 2017-12-24 — Show 53 - Christmas Special With Anna Soubry & Ken Livingstone — speakers: Ken Livingstone, Anna Soubry, Matt Forde
 - 2017-12-20 — Show 52 - Christmas Special with Sayeeda Warsi & Nick Clegg — speakers: Nick Clegg, Matt Forde
 - 2017-12-05 — Show 51 - Jacqui Smith — speakers: Jacqui Smith, Matt Forde
 - 2017-10-28 — Show 50 - Clive Lewis — speakers: Clive Lewis, Matt Forde
-- 2017-09-29 — Show 49 - Michael Heseltine — speakers: Michael Heseltine, Margaret Thatcher, Matt Forde
-- 2017-08-18 — Show 48 - Alistair Darling — speakers: Alistair Darling, Matt Forde
+- 2017-09-29 — Show 49 - Michael Heseltine — speakers: Michael Heseltine, Matt Forde
+- 2017-08-18 — Show 48 - Alistair Darling — speakers: Matt Forde
 - 2017-06-30 — Show 47 - William Hague — speakers: William Hague, Matt Forde
 - 2017-06-02 — Show 46 - Chris Huhne — speakers: Chris Huhne Matt, Chris Huhne, Matt Forde
 - 2017-05-11 — Show 45 - Anna Soubry — speakers: Anna Soubry, Matt Forde
@@ -11770,7 +10572,7 @@
 - 2017-03-18 — Unspun Podcast - Show 9 with Harriet Harman — speakers: Harriet Harman, Matt Forde
 - 2017-03-13 — Unspun Podcast - Show 8 with Michael Fabricant — speakers: Michael Fabricant, Matt Forde
 - 2017-03-03 — Unspun Podcast - Show 7 with Tim Farron — speakers: Tim Farron, Matt Forde
-- 2017-02-24 — Show 43 - Jon Ashworth — speakers: Jon Ashworth Matt, Jon Ashworth, Matt Forde
+- 2017-02-24 — Show 43 - Jon Ashworth — speakers: Jon Ashworth Matt, Matt Forde
 - 2017-01-26 — Show 42 - Jess Phillips — speakers: Jess Phillips, Matt Forde
 - 2016-12-16 — Show 41 - Christmas Special with Ed Balls & Alastair Campbell — speakers: Alastair Campbell, Ed Balls, Matt Forde
 - 2016-12-06 — Show 40 - Paddy Ashdown — speakers: Matt Forde
@@ -11784,32 +10586,32 @@
 - 2016-08-19 — Show 37 - Tim Loughton — speakers: Tim Loughton, Andrea Leadsoms Conservative, Matt Forde
 - 2016-06-30 — Show 36 - Nigel Evans — speakers: Nigel Evans, Matt Forde
 - 2016-05-27 — Show 35 - Tim Farron — speakers: Tim Farron, Matt Forde
-- 2016-05-03 — Show 34 - Angus Robertson — speakers: Angus Robertson, Matt Forde
+- 2016-05-03 — Show 34 - Angus Robertson — speakers: Matt Forde
 - 2016-04-04 — Show 33 - Jacob Rees-Mogg — speakers: Jacob Rees-Mogg, Matt Forde
-- 2016-03-31 — Show 32 - Liz Kendall — speakers: Liz Kendall, Matt Forde
+- 2016-03-31 — Show 32 - Liz Kendall — speakers: Liz Kendal, Matt Forde
 - 2016-03-30 — Show 31 - John Bercow — speakers: John Bercow Matt, John Bercow, Matt Forde
 - 2016-02-05 — Show 30 - Tommy Sheppard — speakers: Tommy Sheppard Matt, Tommy Sheppard, Matt Forde
 - 2015-11-27 — Show 29 - Tony Blair — speakers: Matt Forde
 - 2015-11-23 — Show 28 - Suzanne Evans — speakers: Suzanne Evans, Matt Forde
 - 2015-11-16 — Show 27 - Ruth Davidson — speakers: Ruth Davidson, Matt Forde
 - 2015-10-28 — Show 26 - Jim Murphy — speakers: Jim Murphy, Matt Forde
-- 2015-07-09 — Show 26 - Neil Kinnock — speakers: Neil Kinnock Recorded, Neil KinnockFor, Matt Forde
+- 2015-07-09 — Show 26 - Neil Kinnock — speakers: Neil Kinnock Recorded, Matt Forde
 - 2015-06-18 — Show 25 - Tommy Robinson — speakers: Tommy Robinson Matt, Tommy Robinson, Matt Forde
 - 2015-05-07 — Show 24 - David Lammy — speakers: David Lammy Matt, David Lammy, James Studio, Matt Forde
-- 2015-03-06 — Show 23 - Douglas Alexander — speakers: Douglas Alexander Matt, Douglas Alexander, Matt Forde
-- 2015-02-27 — Show 22 - Paul Nuttall — speakers: Paul Nuttall Matt, Paul Nuttall, Matt Forde
+- 2015-03-06 — Show 23 - Douglas Alexander — speakers: Douglas Alexander Matt, Matt Forde
+- 2015-02-27 — Show 22 - Paul Nuttall — speakers: Paul Nuttall Matt, Matt Forde
 - 2015-02-25 — Show 21 - Luciana Berger — speakers: Luciana Berger Matt, Luciana Berger, Matt Forde
-- 2015-01-17 — Show 20 - Michael Portillo — speakers: Michael Portillo, Matt Forde
-- 2014-09-25 — Show 19 - Tessa Jowell — speakers: Tessa Jowell, Matt Forde
+- 2015-01-17 — Show 20 - Michael Portillo — speakers: Cabinet Mini, Matt Forde
+- 2014-09-25 — Show 19 - Tessa Jowell — speakers: Matt Forde
 - 2014-09-24 — Show 18 - Labour Conference Special With John Prescott — speakers: John Prescott, Matt Forde
 - 2014-08-27 — Show 17 - NO To Scottish Independence With Jim Murphy — speakers: Jim Murphy, Matt Forde
 - 2014-08-22 — Show 16 - YES To Scottish Independence with Willie Black — speakers: Willie Black, Matt Forde
 - 2014-07-22 — Show 15 - Maajid Nawaz — speakers: Matt Forde
-- 2014-05-19 — Show 14 - Michael Fabricant — speakers: Michael Fabricant, Matt Forde
-- 2014-04-02 — Show 13 - Alastair Campbell — speakers: Alastair Campbell, Matt Forde
+- 2014-05-19 — Show 14 - Michael Fabricant — speakers: Michael Fabric, Matt Forde
+- 2014-04-02 — Show 13 - Alastair Campbell — speakers: Alastair Camp, Matt Forde
 - 2014-03-25 — Show 12 - John Woodcock — speakers: John Woodcock, Labour Co-operative, Matt Forde
 - 2014-02-11 — Show 11 - Alan Johnson — speakers: Alan Johnson, Matt Forde
-- 2014-01-28 — Show 10 - David Davis — speakers: David Davis, Matt Forde
+- 2014-01-28 — Show 10 - David Davis — speakers: David Davis, David Davi, Matt Forde
 - 2014-01-17 — Show 9 - Stella Creasy — speakers: Matt Forde
 - 2013-11-11 — Show 8 - Tom Watson — speakers: Tom Watson Matt, Tom Watson, Matt Forde
 - 2013-09-11 — Show 7 - Matthew Parris — speakers: Matthew Parris, Matt Forde

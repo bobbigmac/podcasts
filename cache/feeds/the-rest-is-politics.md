@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-02-28T21:34:44+00:00`
-- checked_at: `2026-02-28T21:34:44+00:00`
-- last_modified: `Sat, 28 Feb 2026 21:31:29 GMT`
+- fetched_at: `2026-03-01T18:51:05+00:00`
+- checked_at: `2026-03-01T18:51:05+00:00`
+- last_modified: `Sun, 01 Mar 2026 18:41:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/3f50b7a1b1632c03b74bec14bb7de2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-28T21:34:44+00:00",
+  "fetched_at": "2026-03-01T18:51:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,23 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "6974fe8ef6b1e0eb47cdcb0028aaee8a56b092a4",
+      "title": "507. The Ayatollah Is Killed - REACTION",
+      "published_at": "2026-03-01T17:49:00+00:00",
+      "link": null,
+      "description": "With the confirmation of the death of Iran's Supreme Leader confirmed, where does this leave the regime? Who is being targeted in Iran's retaliation attacks and how have Iranians reacted? Is Trump's bet on regime change his biggest gamble yet? Rory and Alastair discuss. ---------------------------- The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit https://fuseenergy.com/politics ---------------------------- Get our exclusive NordVPN deal here ➼ https://nordvpn.com/restispolitics It's risk-free with Nord's 30-day money-back guarantee ✅ ---------------------------- Tonight, those who are signed up to our free newsletter will receive a special email from across our shows, from me Alastair, but also from Gordon Corera, on the Rest Is Classified, and our friends at TRIP US, Katty and Anthony, rounding up what we all make of the situation unfolding in Iran so far... If you wish to sign up, follow this link: https://mailchi.mp/fa3e66f5e4c7/trip-public-newsletter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c773d0e8-1594-11f1-9c70-6b4b866f7f8f/image/6fd1d3af3337b9ded22a49ad21cd4a64.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1520162215.mp3?updated=1772390790",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3807",
+      "speakers": [],
+      "topics": [
+        "ayatollah",
+        "reaction"
+      ]
+    },
     {
       "key": "937320b3d2e68ff6fb93eb0d8c235f95dda3b2f5",
       "title": "506. Trump Attacks Iran: What Happens Now?",
@@ -11189,6 +11206,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-01 — 507. The Ayatollah Is Killed - REACTION
 - 2026-02-28 — 506. Trump Attacks Iran: What Happens Now? — speakers: Trump Attacks
 - 2026-02-25 — 505. Are Trump and Putin Underestimating Ukraine? — speakers: Putin Underestimating Ukraine
 - 2026-02-24 — 504. Is Trump Losing His Tariffs War? (Question Time)
