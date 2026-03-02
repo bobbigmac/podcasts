@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-02-23T22:02:17+00:00`
-- checked_at: `2026-02-23T22:02:17+00:00`
-- last_modified: `Mon, 23 Feb 2026 19:01:37 GMT`
+- fetched_at: `2026-03-02T03:11:19+00:00`
+- checked_at: `2026-03-02T03:11:19+00:00`
+- last_modified: `Mon, 02 Mar 2026 01:31:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else.",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/9ae4e5793f154f7d5ba3071e631bbf2f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T22:02:17+00:00",
+  "fetched_at": "2026-03-02T03:11:19+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7c3927185ace45ea74925ac9e340ebbccb51a0c8",
+      "title": "MAISIE ADAM: Unconventional Comedy Beginnings, Northern Childhood & Obsession with Men's Torsos",
+      "published_at": "2026-03-02T01:27:00+00:00",
+      "link": null,
+      "description": "Taskmaster Champ Maisie Adam has had an incredible rise on the UK comedy scene. Here we dig into why feeling a lost and directionless in her young adulthood lead to her diving feet first into comedy with an hour long show on her very first performance ! She talks about why seeing bad theatre can be just as inspirational as watching good theatre, the mad characters in her village, the influence of her mum's storytelling ability and her tendency to over analyse. We also get into her teen years as an indie kid with a bedroom wall full of Heat Magazine's Toro's Of The Week! Buy tickets to see Seann on his This Is Tourture Tour! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7070788252.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2949",
+      "speakers": [
+        "Torsos Taskmaster",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "maisie",
+        "adam",
+        "unconventional",
+        "comedy",
+        "beginnings",
+        "northern",
+        "childhood",
+        "obsession",
+        "torsos"
+      ]
+    },
     {
       "key": "6f326c193ab6fbb11f33cc01dd6287e809af054c",
       "title": "ADAM HILLS PART 2: Comedy Philosophy, Reiki & Why The Last Leg is His Ideal Show",
@@ -1148,6 +1175,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — MAISIE ADAM: Unconventional Comedy Beginnings, Northern Childhood & Obsession with Men's Torsos — speakers: Torsos Taskmaster, Seann Walsh
 - 2026-02-23 — ADAM HILLS PART 2: Comedy Philosophy, Reiki & Why The Last Leg is His Ideal Show — speakers: Adam Hills, Comedy Philosophy, Seann Walsh
 - 2026-02-16 — ADAM HILLS: Building Self Belief, Positive Comedy, gigging with Robin Williams, Billy Connolly & Seeing A Young Jim Carrey — speakers: Adam Hills, Robin Williams, Jim Carrey, Seann Walsh
 - 2026-02-09 — SHANE TODD: Disastrous First Gig, John Mulaney and Guinness Faux Pas — speakers: John Mulaney, Shane Todd, Hip Hop, Seann Walsh

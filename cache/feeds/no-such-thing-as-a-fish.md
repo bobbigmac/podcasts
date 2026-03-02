@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-02-27T19:03:11+00:00`
-- checked_at: `2026-02-27T19:03:11+00:00`
-- etag: `W/"013c3254d7ccf42afcafbe8695e3f9e5"`
-- last_modified: `Fri, 27 Feb 2026 16:03:39 GMT`
+- fetched_at: `2026-03-02T03:11:19+00:00`
+- checked_at: `2026-03-02T03:11:19+00:00`
+- etag: `W/"74618dfe5cfbb6f61e8e2974c73be11a"`
+- last_modified: `Sun, 01 Mar 2026 23:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-02-27T19:03:11+00:00",
+  "fetched_at": "2026-03-02T03:11:19+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,32 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "fac8d58cdac1560a839f461e3f9f9c0ac1be24d2",
+      "title": "Little Fish: Full Body Botox",
+      "published_at": "2026-03-01T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8867403",
+      "description": "Dan, James and Andy discuss YOUR facts, including avocado, almonds, Geese and Grace Kelly. James takes us on a hell of a Kentucky Derby ride. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8867403.mp3?modified=1772210191&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1827",
+      "speakers": [
+        "Full Body Botox Dan",
+        "Grace Kelly",
+        "James tak",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "body",
+        "botox"
+      ]
+    },
     {
       "key": "55d087b7972e7be7cdc8d53a2238fa19e5c5944f",
       "title": "No Such Thing As A Hedgehog In A Lifeboat",
@@ -15766,6 +15792,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-01 — Little Fish: Full Body Botox — speakers: Full Body Botox Dan, Grace Kelly, James tak, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-26 — No Such Thing As A Hedgehog In A Lifeboat — speakers: Melanie Bracewell, Selena Gomez, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-22 — Little Fish: See You In The Charts — speakers: Ryan Bingham, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-02-19 — No Such Thing As Magical Fox Phishing — speakers: Ray O'Leary, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

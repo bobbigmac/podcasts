@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-02-28T02:40:07+00:00`
-- checked_at: `2026-02-28T02:40:07+00:00`
-- last_modified: `Fri, 27 Feb 2026 23:11:02 GMT`
+- fetched_at: `2026-03-02T03:11:19+00:00`
+- checked_at: `2026-03-02T03:11:19+00:00`
+- last_modified: `Mon, 02 Mar 2026 00:15:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/2bd761193d6895adbeb3644032f20f68.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-28T02:40:07+00:00",
+  "fetched_at": "2026-03-02T03:11:19+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6f109d814d4864059d2559c60da83b6df24368b1",
+      "title": "Tom Davis On Success, Setbacks & Being a Dad",
+      "published_at": "2026-03-02T00:01:00+00:00",
+      "link": null,
+      "description": "Comedian and actor Tom Davis joins Romesh for a proper deep dive into comedy, his working-class roots to his success and building his career long term. They talk about Tom’s route into stand-up, creating and starring in Murder in Successville and King Gary, and what it takes to survive rejection, hyper-criticism and projects going wrong. There’s rare praise from Romesh, chaos behind the production cenes, doing his own stunts, pranks, and a BIG announcement. Plus an ever important question from Shanthi. They also get into luck in the industry, being a dad, and how success changes your perspective over time. Honest, funny and full of mutual respect and love (with just enough annoyance to keep it interesting). Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dfe83b2c-1428-11f1-a853-e78fac92e415/image/5b6ca66cac8b3488c21905a0948f28c4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3476210456.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4524",
+      "speakers": [
+        "Tom Davis",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "davis",
+        "success",
+        "setbacks"
+      ]
+    },
     {
       "key": "8554e0ce39eec978ab2c024d599aea8d3c580835",
       "title": "Telling Your Sri Lankan Mum You're Dieting...",
@@ -1070,6 +1091,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Tom Davis On Success, Setbacks & Being a Dad — speakers: Tom Davis, Romesh Ranganathan
 - 2026-02-26 — Telling Your Sri Lankan Mum You're Dieting... — speakers: Romesh Ranganathan
 - 2026-02-23 — Josh Widdicombe on Why Podcasts Help Comedians & Leaving London For Devon — speakers: Josh Widdicombe, Romesh Ranganathan
 - 2026-02-19 — Romesh’s Near Death Experience & Solving The Beckham’s Drama — speakers: Near Death Experience, Romesh Ranganathan
