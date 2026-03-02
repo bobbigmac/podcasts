@@ -2,10 +2,10 @@
 
 - slug: `just-a-minute`
 - source: `https://podcasts.files.bbci.co.uk/b006s5dp.rss`
-- fetched_at: `2026-02-23T22:02:17+00:00`
-- checked_at: `2026-02-23T22:02:17+00:00`
-- etag: `"119cbe34f7cdd1bb29cbeb7c79fea888"`
-- last_modified: `Mon, 23 Feb 2026 19:00:06 GMT`
+- fetched_at: `2026-03-02T19:07:06+00:00`
+- checked_at: `2026-03-02T19:07:06+00:00`
+- etag: `"a6c9942e9a214add294100864b3c8e66"`
+- last_modified: `Mon, 02 Mar 2026 19:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b006s5dp",
   "description": "Panel game in which the contestants are challenged to speak for one minute without hesitation, deviation or repetition on any subject that comes up on the cards",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1qz57.jpg",
-  "fetched_at": "2026-02-23T22:02:17+00:00",
+  "fetched_at": "2026-03-02T19:07:06+00:00",
   "owners": [
     "Bbc Radio"
   ],
@@ -29,6 +29,25 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "3d9685627acb6499ebc1c11667e7c98b8ae4dbc3",
+      "title": "5. That's a real headscratcher",
+      "published_at": "2026-03-02T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002rd1y",
+      "description": "Gyles attempts to sing his own version of a Benjamin Britten opera, Emma explains why she can't remember the plot of The Great Gatsby and one of the players finally gets their first minute. Host: Sue Perkins Players: Gyles Brandreth, Emma Sidi, Desiree Burch and Josie Lawrence Producer: Georgia Keating Executive Producer: James Robinson Production Coordinator: Sarah Nicholls Sound Editor: Marc Willcox Additional material by Ruth Husko An EcoAudio certified production. A BBC Studios Production for Radio 4.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0my0dqz.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27168000",
+      "itunes_duration": "1698",
+      "speakers": [
+        "Benjamin Britten",
+        "Bbc Radio"
+      ],
+      "topics": [
+        "headscratcher"
+      ]
+    },
     {
       "key": "fb1657c304f34ee665bb4caf3b375e591d147fb7",
       "title": "4. Do you remember the programme Changing Rooms?",
@@ -1177,6 +1196,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — 5. That's a real headscratcher — speakers: Benjamin Britten, Bbc Radio
 - 2026-02-23 — 4. Do you remember the programme Changing Rooms? — speakers: Changing Rooms, Bbc Radio
 - 2026-02-16 — 3. Do I need to repeat myself? — speakers: Bbc Radio
 - 2026-02-09 — 2. I’ve never seen anything like it! — speakers: Bbc Radio

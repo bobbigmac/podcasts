@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-02-23T22:02:17+00:00`
-- checked_at: `2026-02-23T22:02:17+00:00`
-- etag: `"10716b-64b8346b07dcb"`
-- last_modified: `Mon, 23 Feb 2026 20:04:19 GMT`
+- fetched_at: `2026-03-02T19:07:06+00:00`
+- checked_at: `2026-03-02T19:07:06+00:00`
+- etag: `"1078aa-64c0df0d654ba"`
+- last_modified: `Mon, 02 Mar 2026 17:30:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-02-23T22:02:17+00:00",
+  "fetched_at": "2026-03-02T19:07:06+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cc4e3c39a276241a5174a60738cf81d2709a4ffc",
+      "title": "Cake Rat - S5, Ep.1",
+      "published_at": "2026-03-02T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Today Jenny and Jack revisit the first episode of series 5 to witness Sally's special cuddle, Aisling's 'default jiggle' and question why everyone seems to want to smother Alex in cake. Plus, Jenny tries to do a honking horn and Jack admits wanting to crawl into a great big nana lap. Next week we'll be staying in Series 5, and watching episode 6. Have a homework suggestion for us? Email fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/6b0873ba-8486-4547-b2d7-03b7aeeb29e0.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=6b0873ba-8486-4547-b2d7-03b7aeeb29e0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57645960",
+      "itunes_duration": "56:38",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "cake"
+      ]
+    },
     {
       "key": "7dfefdbc5d3b27a32c67138974e99850ccf3c0fd",
       "title": "Chuck a Duck - S13, Ep. 10",
@@ -4289,6 +4308,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Cake Rat - S5, Ep.1 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-02-23 — Chuck a Duck - S13, Ep. 10 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-02-16 — Leylandii the Menace - S14, Ep. 4 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-02-09 — Calm Down Dear? - S1, Ep.6 — speakers: Calm Down Dear, Jenny Eclair, Jack Bernhardt
