@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-03-01T18:51:05+00:00`
-- checked_at: `2026-03-01T18:51:05+00:00`
-- last_modified: `Sun, 01 Mar 2026 16:15:02 GMT`
+- fetched_at: `2026-03-02T10:06:14+00:00`
+- checked_at: `2026-03-02T10:06:14+00:00`
+- last_modified: `Mon, 02 Mar 2026 07:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-03-01T18:51:05+00:00",
+  "fetched_at": "2026-03-02T10:06:14+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0a13cedae4414ce472ba74bab079024e62f77339",
+      "title": "Avalon High",
+      "published_at": "2026-03-02T07:30:00+00:00",
+      "link": null,
+      "description": "High school these days is tougher than ever, what with the pressures of social media, the looming spectre of AI and, of course, King Arthur's evil half-brother Mordred, who is always shoving you into lockers and putting plastic ants on your hot dogs. Or at least he is if you attend Avalon High, a typical American high school that may also be the setting for the resurrection of King Arthur himself, called back to the mortal realm by a world that needs him now more than ever. But can new Avalon High student Allie discover this reincarnated Arthur's true identity? Can Mordred be stopped before he destroys Arthur and several more barbecues? And would a modern day Merlin be really annoying? The answers to these questions and more await! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched The Avalon High and have your own thoughts, email them to us at momcantcookpod@gmail.com for a chance to have them read out on the show. Next time on Mom Can't Cook! we'll be watching 1997's Toothless. See you then! This episode is sponsored by NordVPN. EXCLUSIVE NordVPN Deal ➼ nordvpn.com/momcantcook . Try it risk-free now with a 30-day money-back guarantee! This episode is also sponsored by Insert Coin Clothing! Visit insertcoinclothing.com and use code EXCALIBURIHARDLYKNOWHER for 10% off online orders. Codes are not applicable on charity items, bundles, gift cards, postage and some products at launch. Codes cannot be combined with other deals or promotions and are valid until June 2026. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch: momcantcookmerch.com and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/rss.art19.com/episodes/7c2fb3bc-c301-4a26-a17d-6466649691d4.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126295980",
+      "itunes_duration": "02:11:33",
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "avalon",
+        "high"
+      ]
+    },
     {
       "key": "8db11a6c651e9ff57b079ceb34b5f69b0ad7b301",
       "title": "The Cheetah Girls: One World",
@@ -1984,6 +2004,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Avalon High — speakers: Luke Westaway, Andy Farrant
 - 2026-02-16 — The Cheetah Girls: One World — speakers: Luke Westaway, Andy Farrant
 - 2026-02-02 — Escape to Witch Mountain — speakers: Luke Westaway, Andy Farrant
 - 2026-01-19 — Mouse Hunt — speakers: Mouse Hunt, Kevin McCallister, Luke Westaway, Andy Farrant

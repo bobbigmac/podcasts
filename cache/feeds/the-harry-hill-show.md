@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-03-02T07:16:30+00:00`
-- checked_at: `2026-03-02T07:16:30+00:00`
-- last_modified: `Mon, 02 Mar 2026 06:09:26 GMT`
+- fetched_at: `2026-03-02T10:06:14+00:00`
+- checked_at: `2026-03-02T10:06:14+00:00`
+- last_modified: `Mon, 02 Mar 2026 09:59:47 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-02T07:16:30+00:00",
+  "fetched_at": "2026-03-02T10:06:14+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -33,10 +33,10 @@
       "link": null,
       "description": "Phil Wang joins Harry for lessons in afrobeat and more low level disruption. This week, we're joined by Professor Chris Lintott, Astrophysics and Citizen Science Lead at University of Oxford to discuss all things 'Big Bang' and melt Harry's brain. \"Phil Wang\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on CMAT. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6145ba22-11aa-11f1-84d1-ffd31e489589/image/0542d66fb66d8ae50b997d12d2a63782.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR1389732503.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR1389732503.mp3?updated=1772445822",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3126",
+      "itunes_duration": "3186",
       "speakers": [
         "Phil Wang",
         "Harry Hill"

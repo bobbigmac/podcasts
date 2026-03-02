@@ -3732,6 +3732,30 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:bb2224026702",
+        "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
+        "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
+        "dedupe_key": "7cae662f7cf3f388c60a1049c6ae34754873a86a",
+        "episode_key": "7cae662f7cf3f388c60a1049c6ae34754873a86a",
+        "title": "Episode 348 – Matthew Crosby and Matthew Crosby (without Rhys James)",
+        "published_at": "2026-03-01T12:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Happy radio lads! Don’t mind if I do.\nNo Ed? And no Rhys too? No problem – Matthew made sure he wasn’t flying solo by booking some of the best names in the biz. On this show: Josh Widdicombe, Alex Horne, Fern Brady, Joel Dommett, Harry Hill, plus a sneaky appearance from Stuart Laws and Ed Gamble himself.\nThanks for do",
+        "audio_url": "https://episodes.captivate.fm/episode/dfbb5d81-b2a5-4511-8cc1-f2b0f078ddaf.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=dfbb5d81-b2a5-4511-8cc1-f2b0f078ddaf",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-348-matthew-crosby-and-matthew-crosby-without/id1467168361?i=1000752309212&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble",
+          "Harry Hill",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -6124,6 +6148,30 @@
       }
     ],
     "harry-hill": [
+      {
+        "feed_slug": "external:apple:bb2224026702",
+        "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
+        "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
+        "dedupe_key": "7cae662f7cf3f388c60a1049c6ae34754873a86a",
+        "episode_key": "7cae662f7cf3f388c60a1049c6ae34754873a86a",
+        "title": "Episode 348 – Matthew Crosby and Matthew Crosby (without Rhys James)",
+        "published_at": "2026-03-01T12:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Happy radio lads! Don’t mind if I do.\nNo Ed? And no Rhys too? No problem – Matthew made sure he wasn’t flying solo by booking some of the best names in the biz. On this show: Josh Widdicombe, Alex Horne, Fern Brady, Joel Dommett, Harry Hill, plus a sneaky appearance from Stuart Laws and Ed Gamble himself.\nThanks for do",
+        "audio_url": "https://episodes.captivate.fm/episode/dfbb5d81-b2a5-4511-8cc1-f2b0f078ddaf.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=dfbb5d81-b2a5-4511-8cc1-f2b0f078ddaf",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-348-matthew-crosby-and-matthew-crosby-without/id1467168361?i=1000752309212&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble",
+          "Harry Hill",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:9142f6f875ff",
         "feed_title": "Japan's Top Business Interviews Podcast By Dale Carnegie Training Tokyo Japan",
@@ -11904,6 +11952,30 @@
     ],
     "alex-horne": [
       {
+        "feed_slug": "external:apple:bb2224026702",
+        "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
+        "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
+        "dedupe_key": "7cae662f7cf3f388c60a1049c6ae34754873a86a",
+        "episode_key": "7cae662f7cf3f388c60a1049c6ae34754873a86a",
+        "title": "Episode 348 – Matthew Crosby and Matthew Crosby (without Rhys James)",
+        "published_at": "2026-03-01T12:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Happy radio lads! Don’t mind if I do.\nNo Ed? And no Rhys too? No problem – Matthew made sure he wasn’t flying solo by booking some of the best names in the biz. On this show: Josh Widdicombe, Alex Horne, Fern Brady, Joel Dommett, Harry Hill, plus a sneaky appearance from Stuart Laws and Ed Gamble himself.\nThanks for do",
+        "audio_url": "https://episodes.captivate.fm/episode/dfbb5d81-b2a5-4511-8cc1-f2b0f078ddaf.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=dfbb5d81-b2a5-4511-8cc1-f2b0f078ddaf",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-348-matthew-crosby-and-matthew-crosby-without/id1467168361?i=1000752309212&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble",
+          "Harry Hill",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
@@ -14982,6 +15054,28 @@
         "description": "With John being absent from the show this week the venerable Lou Sanders joined Elis and Producer Dave in the studio to steady the ‘Good Ship 5 Live’; and there was so much fun to be had! In what was her hat-trick appearance on the show Lou revealed that she once invited Rick Edwards (the new co-host of 5 Live Breakfas",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b2hp6v.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/183-chafing-challenges-lager-sleeves-and-convivial/id1465290044?i=1000540904855&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:96594d663a6c",
+        "feed_title": "RHLSTP with Richard Herring",
+        "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
+        "dedupe_key": "ab2a416f59ede5340ab6871e440e1fa8cc5f3214",
+        "episode_key": "ab2a416f59ede5340ab6871e440e1fa8cc5f3214",
+        "title": "RHLSTP 316 - Lou Sanders",
+        "published_at": "2021-02-24T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#316 Skating With Eight Year Olds - Richard is back at the Clapham Grand in front of a virtual audience of humans and potentially racist puppets. His guest is his ex-Fubar radio sidekick Lou Sanders. \nThey chat about Lou’s new TV show Unforgiveable, why it’s good to discuss your most shameful moments, whether Jesus was",
+        "audio_url": "https://sphinx.acast.com/rhlstp/rhlstp316-lousanders/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-316-lou-sanders/id520831548?i=1000510415358&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-02T03:11:19+00:00`
-- checked_at: `2026-03-02T03:11:19+00:00`
-- last_modified: `Mon, 02 Mar 2026 00:15:09 GMT`
+- fetched_at: `2026-03-02T10:06:14+00:00`
+- checked_at: `2026-03-02T10:06:14+00:00`
+- last_modified: `Mon, 02 Mar 2026 09:51:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/2bd761193d6895adbeb3644032f20f68.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-02T03:11:19+00:00",
+  "fetched_at": "2026-03-02T10:06:14+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -31,9 +31,9 @@
       "title": "Tom Davis On Success, Setbacks & Being a Dad",
       "published_at": "2026-03-02T00:01:00+00:00",
       "link": null,
-      "description": "Comedian and actor Tom Davis joins Romesh for a proper deep dive into comedy, his working-class roots to his success and building his career long term. They talk about Tom’s route into stand-up, creating and starring in Murder in Successville and King Gary, and what it takes to survive rejection, hyper-criticism and projects going wrong. There’s rare praise from Romesh, chaos behind the production cenes, doing his own stunts, pranks, and a BIG announcement. Plus an ever important question from Shanthi. They also get into luck in the industry, being a dad, and how success changes your perspective over time. Honest, funny and full of mutual respect and love (with just enough annoyance to keep it interesting). Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Comedian and actor Tom Davis joins Romesh for a proper deep dive into comedy, his working-class roots to his success and building his career long term. They talk about Tom’s route into stand-up, creating and starring in Murder in Successville and King Gary, and what it takes to survive rejection, hyper-criticism and projects going wrong. There’s rare praise from Romesh, chaos behind the production cenes, doing his own stunts, pranks, and a BIG announcement. Plus an ever important question from Shanthi. They also get into luck in the industry, being a dad, and how success changes your perspective over time. A Ranga Bee Production in partnership with Listen. 00:00 Intro 2:00 A present for Tom 4:00 The Big Five 5:32 Working with Romesh 8:00 Tom’s route to comedy 11:25 Hyper criticism 12:46 Tom's background 14:23 Murder In Successville 21:00 Luck in the industry 23:07 An annoyed Romesh 23:39 Tom's favourite guest 24:49 On success 26:30 Tom's encounter with Rio Ferdinand 27:58 King Gary 30:13 Chaos behind the scenes 34:20 Working Together 36:00 House Of Fools 42:24 Wold & Owl 43:20 Pranks 44:47 A big announcement 46:46 A question from Shanthi 50:00 On being a dad 52:55 Career perspective 56:47 Tom opening for Romesh 01:01:23 Misquoted 01:08:38 An exclusive Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/dfe83b2c-1428-11f1-a853-e78fac92e415/image/5b6ca66cac8b3488c21905a0948f28c4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3476210456.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3476210456.mp3?updated=1772444840",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4524",

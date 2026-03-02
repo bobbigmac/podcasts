@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-02-27T03:08:24+00:00`
-- checked_at: `2026-02-27T03:08:24+00:00`
-- etag: `"djEuMi4wOjE3NzIxNTA1NTkzNTE="`
+- fetched_at: `2026-03-02T10:06:14+00:00`
+- checked_at: `2026-03-02T10:06:14+00:00`
+- etag: `"djEuMi4wOjE3NzI0MzY2OTcwOTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-02-27T03:08:24+00:00",
+  "fetched_at": "2026-03-02T10:06:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8f3fab506d669db772f49856f00ee0bc350ece9b",
+      "title": "Ep. 566 - Robin Ince Returns - Robin returns for a brand new time capsule!",
+      "published_at": "2026-03-02T07:31:27+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-566-robin-ince-returns-robin-returns-for-a-brand-new-time",
+      "description": "Robin Ince returns for a brand new time capsule! Robin Ince is many things. A multi award winning comedian, author, broadcaster, bibliomaniac and a populariser of scientific ideas. He is perhaps best known as the former co-host and co-creator of the Sony Gold Award winning BBC Radio 4 series The Infinite Monkey Cage with Professor Brian Cox. As a stand up Robin has toured the world and as an author he has written four acclaimed books, including Bibliomaniac, earned him the prestigious Booksellers Association Author of the Year award. His fifth, Normally Weird and Weirdly Normal is published in May 2025. He co-created the Cosmic Shambles Network and created the groundbreaking science variety night Nine Lessons and Carols for Curious People which has been adapted worldwide. He has received an Honorary Fellowship of UCL, an honorary doctorate from Royal Holloway College (University of London), and is a fellow of the British Science Association Robin Ince is our guest in episode 564 of My Time Capsule and chats to Michael Fenton Stevens about the five things he'd like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . For everything Robin Ince including his books and live dates, visit - https://robinince.com . Follow Robin Ince on Instagram @robinince1969 . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69a53cd9a48c2e1548710b00/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "183779703",
+      "itunes_duration": "1:16:34",
+      "speakers": [
+        "Robin Ince Returns Robin",
+        "Robin Ince"
+      ],
+      "topics": [
+        "robin",
+        "ince",
+        "returns",
+        "brand",
+        "time",
+        "capsule"
+      ]
+    },
     {
       "key": "b75bcb9d4f4fa2bf0c13059b8458d8abf08f4e8c",
       "title": "Ep. 565 - Holly White - Australian actress who Mike worked with in Panama on a film",
@@ -12005,6 +12029,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Ep. 566 - Robin Ince Returns - Robin returns for a brand new time capsule! — speakers: Robin Ince Returns Robin, Robin Ince
 - 2026-02-27 — Ep. 565 - Holly White - Australian actress who Mike worked with in Panama on a film — speakers: Holly White
 - 2026-02-23 — Ep. 564 - Neil Pearson - From Drop the Dead Donkey and all four Bridget Jones films — speakers: Neil Pearson, Dave Charnley
 - 2026-02-20 — Ep. 563 - Daisy Doris May - Award winning drag king, writer and performer — speakers: Daisy Doris May
