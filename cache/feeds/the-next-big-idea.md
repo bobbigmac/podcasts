@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-02T03:11:19+00:00`
-- checked_at: `2026-03-02T03:11:19+00:00`
-- last_modified: `Sun, 01 Mar 2026 23:46:11 GMT`
+- fetched_at: `2026-03-02T13:35:21+00:00`
+- checked_at: `2026-03-02T13:35:21+00:00`
+- last_modified: `Mon, 02 Mar 2026 10:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-02T03:11:19+00:00",
+  "fetched_at": "2026-03-02T13:35:21+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,25 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "8673b19f7874b03121f35d4946e05cf9a6fdea57",
+      "title": "Do We Even Need Politicians?",
+      "published_at": "2026-03-02T10:30:00+00:00",
+      "link": null,
+      "description": "“The first thing we do, let’s kill all the lawyers,” sneers a rebel henchman in Shakespeare’s “Henry VI.” Hélène Landemore, a political scientist at Yale, has another idea: let’s fire all the politicians. She has a point, doesn’t she? Most of ’em are beholden to donors, allergic to accountability, and more interested in stuffing their reelection coffers than serving the public good. But what’s the alternative? Well, Hélène believes we could break the partisan gridlock and restore public trust by letting ordinary citizens, chosen at random, set the agenda and craft legislation. That may sound preposterous, but in her new book, Politics Without Politicians , she blends examples from ancient Athens to modern-day France to show citizen rule in action and argue that it might just save democracy. This episode was guest-hosted by one of our favorite citizens, Michael Kovnat. If you’d like more of his dulcet tones and shrewd insights, check out his daily podcast ( The Next Big Idea Daily ) and newsletter ( Book of the Day ). Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . Sponsored By: Bitdefender — Get 30% off your plan at ⁠bitdefender.com/idea⁠ Factor — Head to ⁠⁠factormeals.com/idea50off⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠granola.ai/idea⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5579558962.mp3?updated=1772409068",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3295",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "politician"
+      ]
+    },
     {
       "key": "f2fd8b71bc3a22e5303e44c93ea7fa6b51769e21",
       "title": "Inside the Most Creative Friendship in History",
@@ -7253,6 +7272,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Do We Even Need Politicians? — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-02-26 — Inside the Most Creative Friendship in History — speakers: Ian Leslie, Rufus Griscom, Caleb Bissinger
 - 2026-02-23 — Michael Pollan on the Mystery of Consciousness — speakers: Michael Pollan, Rufus Griscom, Caleb Bissinger
 - 2026-02-19 — The Science of Change — speakers: Rufus Griscom, Caleb Bissinger

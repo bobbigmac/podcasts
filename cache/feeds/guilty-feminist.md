@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-03-01T18:51:05+00:00`
-- checked_at: `2026-03-01T18:51:05+00:00`
-- last_modified: `Sun, 01 Mar 2026 16:42:15 GMT`
+- fetched_at: `2026-03-02T13:35:21+00:00`
+- checked_at: `2026-03-02T13:35:21+00:00`
+- last_modified: `Mon, 02 Mar 2026 12:00:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/967914911d6e26f1bb9223e736bc7c12.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-01T18:51:05+00:00",
+  "fetched_at": "2026-03-02T13:35:21+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "47ea75785cac4eeecba9baecf5f604386dffc78b",
+      "title": "472. Ten for Ten #7 with Desiree Burch",
+      "published_at": "2026-03-02T12:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 472. Ten for Ten Presented by Deborah Frances-White with special guest Desiree Burch Recorded 9 February 2026 in London. Released 2 March. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have Donate to reproductive freedom, support MSI Reproductive Choices and visit msichoices.org More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Desiree Burch https://www.instagram.com/destheray https://www.desireeburch.com For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT Come to a live show Zack Polanski and Juno Dawson at The Union Chapel, 5 March . https://www.gigantic.com/the-guilty-feminist-tickets/london-union-chapel/2026-03-05-18-30 31 March Bloomsbury Theatre . https://www.bloomsburytheatre.com/event/2026/03/guilty-feminist-live Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/896445be-1588-11f1-bf2d-07099a936ca6/image/be2a5dd9f62d24c37dc85ae29624ff26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL1763578535.mp3?updated=1772450145",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2808",
+      "speakers": [
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "desiree",
+        "burch"
+      ]
+    },
     {
       "key": "03636932e4faa3e081dd8261ee2e5cd504b84d3a",
       "title": "Deborah Frances-White in conversation with Hannah Spencer",
@@ -17458,6 +17477,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — 472. Ten for Ten #7 with Desiree Burch — speakers: Deborah Frances-White
 - 2026-02-25 — Deborah Frances-White in conversation with Hannah Spencer — speakers: Deborah Frances-White, Hannah Spencer, Hannah Spencer Presented, Deborah Frances-White Recorded
 - 2026-02-23 — 471. ROAD TO GILEAD: The History of Queerphobia with Abigoliah Schamaun and Dr Harry Tanner - part two — speakers: Abigoliah Schamaun, Deborah Frances-White
 - 2026-02-23 — 471. ROAD TO GILEAD: The History of Queerphobia with Abigoliah Schamaun and Dr Harry Tanner - part one — speakers: Abigoliah Schamaun, Deborah Frances-White

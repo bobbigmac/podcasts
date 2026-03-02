@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-01T07:04:14+00:00`
-- checked_at: `2026-03-01T07:04:14+00:00`
-- etag: `"djEuMi4wOjE3NzIzNDQ4Mzk0ODY="`
+- fetched_at: `2026-03-02T13:35:21+00:00`
+- checked_at: `2026-03-02T13:35:21+00:00`
+- etag: `"djEuMi4wOjE3NzI0NTY0MzkzOTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-01T07:04:14+00:00",
+  "fetched_at": "2026-03-02T13:35:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7cdd9a1067a0903319e3f8786d1609492539e67e",
+      "title": "Gorton and Denton goes Green",
+      "published_at": "2026-03-02T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69a570caa48c2e15487e8aa7",
+      "description": "Seán, Ava, and Andy unpack what Hannah Spencer and the Green Party's victory in the Gorton and Denton by-election means for British politics, as well as the attack lines Reform have been putting out since Matt Goodwin's loss. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69a570caa48c2e15487e8aa7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51234965",
+      "itunes_duration": "35:34",
+      "speakers": [
+        "Hannah Spencer"
+      ],
+      "topics": [
+        "gorton",
+        "denton",
+        "green"
+      ]
+    },
     {
       "key": "31a87627a95aa269fc453c4b99b4ba1cbf9b71a2",
       "title": "Palantir is taking over Britain. This is how | Martin Wrigley interview",
@@ -11763,6 +11783,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Gorton and Denton goes Green — speakers: Hannah Spencer
 - 2026-03-01 — Palantir is taking over Britain. This is how | Martin Wrigley interview — speakers: Martin Wrigley, Lib Dem
 - 2026-02-28 — Can anyone stop the Green Party's surge? Rachel Millward interview — speakers: Rachel Millward
 - 2026-02-26 — What should we replace the monarchy with? Q&A special
