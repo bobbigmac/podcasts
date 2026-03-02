@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-02-28T13:06:51+00:00`
-- checked_at: `2026-02-28T13:06:51+00:00`
-- etag: `"djEuMi4wOjE3NzIyODM0MjA3NDA="`
+- fetched_at: `2026-03-02T07:16:30+00:00`
+- checked_at: `2026-03-02T07:16:30+00:00`
+- etag: `"djEuMi4wOjE3NzI0MjM4NTkyMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-02-28T13:06:51+00:00",
+  "fetched_at": "2026-03-02T07:16:30+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c14979e1ec73332e5940d1253307aca4a21f5aa7",
+      "title": "Retro RHLSTP 135 - Sophie Ellis-Bextor",
+      "published_at": "2026-03-02T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#426 Sarah Alabaster - It’s the last show of the series, but never fear, the RHLSTP juggernaut will continue until you have to wrestle the microphone from Herring’s cold, dead hands. His guest is singer, podcaster, 24 hour dancer and lock down internet sensation Sophie Ellis-Bextor. They discuss Richard’s feelings for Sophie's mum, being carried to bed by Joey from Bread, why Sophie was embarrassed when Jarvis Cocker used her toilet, the weird and sometimes horrifying culture of the 1990s, how Sophie has combined being a pop superstar with family life, falling down Esther Rantzen’s staircase and making up with Robbie Williams and how Sophie has made a life long career in a fickle business. Plus how she ended up in Neighbours and Game of Thrones. And how to stop your husband playing golf. Sophie is a truly inspirational person and her book is open and honest. Buy it here - https://uk.bookshop.org/p/books/spinning-plates-music-men-motherhood-and-me-tales-from-our-favourite-24-hour-kitchen-disco-queen-sophie-ellis-bextor/6190400 Come and see us live http://richardherring.com/rhlstp Buy Richard’s new book here http://gofasterstripe.com/ball SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1771443908426-f5f95d33-1a28-4328-acfc-ef5813047679.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6995f7f4f8a4f13cff9a100d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32602076",
+      "itunes_duration": "1:01:33",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "sophie",
+        "ellis",
+        "bextor"
+      ]
+    },
     {
       "key": "d8cd7a91ace0fd7a31dbc21b2b80c3a05db5b408",
       "title": "RAACN week 5",
@@ -21597,6 +21618,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Retro RHLSTP 135 - Sophie Ellis-Bextor — speakers: Richard Herring
 - 2026-02-28 — RAACN week 5 — speakers: Bin Laden Having, Richard Herring
 - 2026-02-27 — RHLSTP Book Club 171 - Ian Leslie — speakers: Richard Herring
 - 2026-02-25 — RHLSTP 600 - Fatiha El-Ghorri — speakers: Fatiha El, Paul Hollywood Hand Shandy, Leicester Comedy Festival, Richard Herring

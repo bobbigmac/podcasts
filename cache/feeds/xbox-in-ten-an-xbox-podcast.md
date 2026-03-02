@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-03-01T21:35:41+00:00`
-- checked_at: `2026-03-01T21:35:41+00:00`
-- etag: `"3a17bf5baad09aaba9196acb948d015e"`
-- last_modified: `Sun, 01 Mar 2026 19:12:59 GMT`
+- fetched_at: `2026-03-02T07:16:30+00:00`
+- checked_at: `2026-03-02T07:16:30+00:00`
+- etag: `"12a8dceb1856c2367cf94e75960c5f6c"`
+- last_modified: `Mon, 02 Mar 2026 05:15:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-03-01T21:35:41+00:00",
+  "fetched_at": "2026-03-02T07:16:30+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f070e14ce7eb6d58529c8a4789c582a762792377",
+      "title": "New Xbox CEO Asha Sharma on the Platform - (Xbox In Ten: An Xbox Podcast - Ep. 353)",
+      "published_at": "2026-03-02T05:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/new-xbox-ceo-asha-sharma-on-the-platform-xbox-in-ten-an-xbox-podcast-ep-353",
+      "description": "Week of: 2-23-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/2/0/b/6/20b6bae7086d392116c3140a3186d450/353.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/353.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20995888",
+      "itunes_duration": "14:35",
+      "speakers": [
+        "Asha Sharma",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "asha",
+        "sharma",
+        "platform",
+        "podcast"
+      ]
+    },
     {
       "key": "b587a5785d21e2e18cd1427aabd9125e6cd886bf",
       "title": "Phil Spencer Retiring, Sarah Bond Out & Matt Booty Promoted - (Xbox In Ten: An Xbox Podcast - Ep. 352)",
@@ -8871,6 +8894,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — New Xbox CEO Asha Sharma on the Platform - (Xbox In Ten: An Xbox Podcast - Ep. 353) — speakers: Asha Sharma, Brandon Rosa
 - 2026-02-20 — Phil Spencer Retiring, Sarah Bond Out & Matt Booty Promoted - (Xbox In Ten: An Xbox Podcast - Ep. 352) — speakers: Phil Spencer Retiring, Sarah Bond Out, Matt Booty Promoted, Brandon Rosa
 - 2026-02-16 — All The Xbox Reveals From February 2026's State Of Play - (Xbox In Ten: An Xbox Podcast - Ep. 351) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-02-09 — Xbox Release Windows Teased For Halo, Gears & More in 2026 - (Xbox In Ten: An Xbox Podcast - Ep. 350) — speakers: Xbox Release Windows Teased, Xbox Gaming News, Fun Fact, Brandon Rosa

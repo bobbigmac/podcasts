@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-02-24T07:16:03+00:00`
-- checked_at: `2026-02-24T07:16:03+00:00`
-- etag: `"ba3f8a4287ef20ba5c2b2dfa18e87e40"`
-- last_modified: `Tue, 24 Feb 2026 05:00:04 GMT`
+- fetched_at: `2026-03-02T07:16:30+00:00`
+- checked_at: `2026-03-02T07:16:30+00:00`
+- etag: `"5ac402eb577084c685e2d5ae87309e30"`
+- last_modified: `Mon, 02 Mar 2026 05:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-02-24T07:16:03+00:00",
+  "fetched_at": "2026-03-02T07:16:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "348242fdb30546da897b8c07d243dc707666c60c",
+      "title": "The Making of Colin Hoult",
+      "published_at": "2026-03-02T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n3rmd3",
+      "description": "An audience show in which Colin explores how his bizarre family made him the man he is today. Now, as a 45 year-old dad, he wonders if it’s too late to do anything about it. Based on his hugely successful 2024 Edinburgh show, Colin weaves anecdotes and musings with all too real stories about his early life, featuring a recurring cast of characters: his perennially pessimistic mum, his not-quite-in-reality brothers and his long-suffering Dad who screams ‘why can’t we just be a normal family?’ Colin asks “is it a surprise my neurodiversity was missed?' But growing up in Nottingham we just had a simple phrase that covered everything - ‘he’s not right’. Colin paints a picture of a childhood full of secrets and lies, dominated by Mum’s terror of ending up in the local ‘madhouse’ whilst espousing paranoid conspiracies and pulling out the Ouija board on Christmas Day. Whilst inherently funny, the craziness is recounted with love and sympathy. A brilliant storyteller, Colin intercuts tales of that childhood life with stories about his own contemporary family and how one has been shaped by the other. What does he want to pass on and what does he absolutely not want to? How does he be the best dad he can when his basic understanding of the world is so scrambled? Each episode begins with Colin telling us how he’s, possibly inappropriately, reacted to something mundane that has just happened or been said to him. He’ll unpick the story across the episode tracing his reaction back to his upbringing with other themes, stories and observations along the way. Colin’s stand-up is intercut with childhood and contemporary scenes. Colin plays all his family members, neighbours, distant relatives, postmen, etc.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n3rlyt.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Colin Hoult"
+      ],
+      "topics": [
+        "making",
+        "colin",
+        "hoult"
+      ]
+    },
     {
       "key": "aa5baa23c45b29f0ec8cc8654235d1877af44964",
       "title": "Evil Animals - Spiders",
@@ -973,6 +993,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — The Making of Colin Hoult — speakers: Colin Hoult
 - 2026-02-23 — Evil Animals - Spiders — speakers: Russell Kane
 - 2026-02-16 — Fatiha El-Ghorri: A Match Made Inshallah — speakers: Fatiha El-Ghorri
 - 2026-02-09 — Finlay Christie Is Younger Than You — speakers: Finlay Christie

@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-02-27T21:43:38+00:00`
-- checked_at: `2026-02-27T21:43:38+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpJeU1qVTFNekUzTkRJPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-02T07:16:30+00:00`
+- checked_at: `2026-03-02T07:16:30+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpJME16RXhOemswTlRBPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-02-27T21:43:38+00:00",
+  "fetched_at": "2026-03-02T07:16:30+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "02fd70be5c96d1e33433a250a15d346a8e3af4dc",
+      "title": "Help I’ve Been Probed In The Wrong Hole | And Jordan’s Got A Swell On",
+      "published_at": "2026-03-02T05:59:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-ive-been-probed-in-the-wrong-hole-and-jordans-got-a-swe",
+      "description": "The boys are having a tough time lately. Jordan’s still recovering from having his wisdom teeth removed and is drooling everywhere, whilst William has ‘misplaced’ his passport - and it’s really not the sort of admin he wants to be dealing with right now. There are also plenty of dilemmas to tackle, including how to tell your mum her wedding outfit is horrible and what you should do when you get probed in the wrong hole. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "45:23",
+      "speakers": [
+        "Jordan’s Got",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "wrong",
+        "hole",
+        "jordan",
+        "swell"
+      ]
+    },
     {
       "key": "e0ca5e9533ed9918676216da4a53fc4227de4ab6",
       "title": "He Unfollowed ME? | And Jordan’s Got The Itch",
@@ -13808,6 +13831,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Help I’ve Been Probed In The Wrong Hole | And Jordan’s Got A Swell On — speakers: Jordan’s Got, William Hanson, Jordan North
 - 2026-02-27 — He Unfollowed ME? | And Jordan’s Got The Itch — speakers: William Hanson, Jordan North
 - 2026-02-24 — Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance — speakers: William Hanson, Jordan North
 - 2026-02-20 — Jordan FAINTS | And Sushi With Half Pints — speakers: William Hanson, Jordan North

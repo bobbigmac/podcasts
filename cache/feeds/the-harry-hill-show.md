@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-02-24T21:51:13+00:00`
-- checked_at: `2026-02-24T21:51:13+00:00`
-- last_modified: `Tue, 24 Feb 2026 19:21:13 GMT`
+- fetched_at: `2026-03-02T07:16:30+00:00`
+- checked_at: `2026-03-02T07:16:30+00:00`
+- last_modified: `Mon, 02 Mar 2026 06:09:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-24T21:51:13+00:00",
+  "fetched_at": "2026-03-02T07:16:30+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1fee3b12610874d559b1609b361d0af52677ed19",
+      "title": "Phil Wang: I've Got A Phil Wang That Tonight's Gonna Be A Good Night",
+      "published_at": "2026-03-02T06:00:00+00:00",
+      "link": null,
+      "description": "Phil Wang joins Harry for lessons in afrobeat and more low level disruption. This week, we're joined by Professor Chris Lintott, Astrophysics and Citizen Science Lead at University of Oxford to discuss all things 'Big Bang' and melt Harry's brain. \"Phil Wang\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on CMAT. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6145ba22-11aa-11f1-84d1-ffd31e489589/image/0542d66fb66d8ae50b997d12d2a63782.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR1389732503.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3126",
+      "speakers": [
+        "Phil Wang",
+        "Harry Hill"
+      ],
+      "topics": [
+        "phil",
+        "wang",
+        "tonight",
+        "night"
+      ]
+    },
     {
       "key": "b67728103c4f623ee290befe9d4332db6e255a5c",
       "title": "Eddie Kadi: A Bag of Wotsits to Attract the Rhino",
@@ -1489,6 +1511,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Phil Wang: I've Got A Phil Wang That Tonight's Gonna Be A Good Night — speakers: Phil Wang, Harry Hill
 - 2026-02-23 — Eddie Kadi: A Bag of Wotsits to Attract the Rhino — speakers: Eddie Kadi, Harry Hill
 - 2026-02-16 — Laura Smyth: Take It Out on Car Aerials and Telephone Boxes — speakers: Laura Smyth, Harry Hill
 - 2026-02-09 — Ed Gamble: They Were Pointing and Whispering. There Goes the Cuckold. — speakers: Harry als, Harry Hill

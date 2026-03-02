@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-03-01T18:51:05+00:00`
-- checked_at: `2026-03-01T18:51:05+00:00`
-- etag: `"djEuMi4wOjE3NzIzODA1NTk1NDk="`
+- fetched_at: `2026-03-02T07:16:30+00:00`
+- checked_at: `2026-03-02T07:16:30+00:00`
+- etag: `"djEuMi4wOjE3NzI0MjQyMTkzMTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-03-01T18:51:05+00:00",
+  "fetched_at": "2026-03-02T07:16:30+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "899b6ddd169db2ed701be85b8b07acc53638877d",
+      "title": "Show 392. Christopher Snowdon",
+      "published_at": "2026-03-02T04:03:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-392-christopher-snowdon",
+      "description": "What is lifestyle economics and why does it matter? The IEA's Christopher Snowdon is a fun-loving political thinker and explains his opposition to puritanism, why we should have more freedom and what that would mean for our policies on smoking, alcohol, gambling and the very existence of the NHS. Also... what are ultra-processed foods and are they necessarily bad? THE POLITICAL PARTY LIVE 9 March: Zack Polanski 30 March: Lisa Nandy 20 April: Shabana Mahmood https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SIGN UP to Matt's mailing list to get free audience tickets to his Radio 4 series: https://www.mattforde.com/mailing-list SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69a4618f7221cfbf205c1e2b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83641904",
+      "itunes_duration": "58:04",
+      "speakers": [
+        "Christopher Snowdon",
+        "Matt Forde"
+      ],
+      "topics": [
+        "christopher",
+        "snowdon"
+      ]
+    },
     {
       "key": "549eaffd348cdbcbac53ef1719184ff31444bc30",
       "title": "Show 391. Mick Lynch - REPLAY",
@@ -10126,6 +10146,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Show 392. Christopher Snowdon — speakers: Christopher Snowdon, Matt Forde
 - 2026-02-23 — Show 391. Mick Lynch - REPLAY — speakers: Mick Lynch Replay, Mick Ly, Matt Forde
 - 2026-02-17 — Show 390. David Miliband - Live — speakers: David Miliband, Matt Forde
 - 2026-02-13 — *The Matt Forde Focus Group returns – Free tickets* — speakers: Matt Forde
