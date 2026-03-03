@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-03T13:32:58+00:00`
-- checked_at: `2026-03-03T13:32:58+00:00`
-- last_modified: `Tue, 03 Mar 2026 10:35:19 GMT`
+- fetched_at: `2026-03-03T16:01:50+00:00`
+- checked_at: `2026-03-03T16:01:50+00:00`
+- last_modified: `Tue, 03 Mar 2026 15:58:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/600cdd1d6e141a95248aded0c6567335.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-03T13:32:58+00:00",
+  "fetched_at": "2026-03-03T16:01:50+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -34,7 +34,7 @@
       "link": null,
       "description": "Did you miss us? Wolf & Owl is back with a new studio, new statues, and now two episodes a week. We chat about the hiatus, the importance of socks, Captain Lawrence Oates, and Tom’s silk bed sheets. Plus, Tom tells Romesh about his fateful trip to Ireland and the unhealthiest of food itineraries – featuring a Krispy Kreme obsession and spice bags with dumpling chasers. Send in your questions for us at wolfowlpod@gmail.com for the chance to have them answered in an upcoming episode. A Ranga Bee Production in partnership with Listen. 00:00 Intro 02:44 The importance of socks 04:05 Romesh’s podcasts 06:06 The hiatus 07:01 Curtains, bedsheets and silk 10:25 Captain Lawrence Oates 11:34 Spud Gun 12:02 Drinking in Ireland 14:55 Spice bags and dumpling chasers 18:29 Krispy Kreme in Belfast 22:45 Two old fashioneds 23:53 Hotel picky bits 26:14 Stomach pain 29:15 The diet that made Tom cry 34:23 Pep talk 36:46 Be kind to yourself 43:18 Diamonds and stones Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/e4717e2e-168f-11f1-9259-7f8f97686d42/image/27eb356284d866632c16ef6dd49ceba2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3857359961.mp3?updated=1772534413",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3857359961.mp3?updated=1772553828",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2927",

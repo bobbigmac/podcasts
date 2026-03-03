@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-03-03T13:32:58+00:00`
-- checked_at: `2026-03-03T13:32:58+00:00`
-- etag: `W/"37438-h9daGYr6FI/ZP1EQmKZcXxdW+jo"`
+- fetched_at: `2026-03-03T16:01:50+00:00`
+- checked_at: `2026-03-03T16:01:50+00:00`
+- etag: `W/"37c21-XxMpJYKxfKEMHb+dFVt0R1iS0Ps"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-03-03T13:32:58+00:00",
+  "fetched_at": "2026-03-03T16:01:50+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "78c402982b4c8b70117b660de4500c4330e0a47f",
+      "title": "We Forced Yahtzee to Watch the New Silent Hill 2 Movie | Windbreaker Podcast",
+      "published_at": "2026-03-03T15:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/We-Forced-Yahtzee-to-Watch-the-New-Silent-Hill-2-Movie--Windbreaker-Podcast-e3frvtc",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty watched Return to Silent Hill, the 2026 film based on Silent Hill 2. And oh boy, do they have some thoughts. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8469603986.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97566302",
+      "itunes_duration": "01:41:37",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "yahtzee",
+        "silent",
+        "hill",
+        "movie",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "a7d4ffe05db9343f5b301545d317e0f16567daac",
       "title": "How Will Xbox Be Remembered? | Windbreaker Podcast",
@@ -2598,6 +2622,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — We Forced Yahtzee to Watch the New Silent Hill 2 Movie | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-24 — How Will Xbox Be Remembered? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-17 — Our Favorite Video Game Couple Is Better Than Your Favorite Video Game Couple | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-10 — The Wide, Weird, and Wild World of Mods | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
