@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-02-27T19:03:11+00:00`
-- checked_at: `2026-02-27T19:03:11+00:00`
-- etag: `"djEuMi4wOjE3NzIyMTM0ODI5MzE="`
+- fetched_at: `2026-03-03T13:32:58+00:00`
+- checked_at: `2026-03-03T13:32:58+00:00`
+- etag: `"djEuMi4wOjE3NzI1Mzg3NjIyOTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-02-27T19:03:11+00:00",
+  "fetched_at": "2026-03-03T13:32:58+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "302c0007291be13c66edfcd05685e1b39b006250",
+      "title": "Audio long read: Many people have no mental imagery. What’s going on in their brains?",
+      "published_at": "2026-03-02T14:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-00626-5",
+      "description": "This is an audio version of our Feature: Many people have no mental imagery. What’s going on in their brains? Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69a1d4ea811eb345587216b4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17693058",
+      "itunes_duration": "18:23",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "read",
+        "people",
+        "imagery",
+        "brain"
+      ]
+    },
     {
       "key": "83499b48dcffcceea7fe2e3f70cd0de1d3f47c3f",
       "title": "Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers",
@@ -19128,6 +19150,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Audio long read: Many people have no mental imagery. What’s going on in their brains? — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-27 — Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-25 — How earthquakes and lightning help explain squeaky sneakers — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-20 — Briefing chat: How hovering bumblebees keep their cool — speakers: Benjamin Thompson, Noah Baker

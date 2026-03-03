@@ -3732,6 +3732,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:ad90399bfbc3",
+        "feed_title": "Chatabix",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT7256806225",
+        "dedupe_key": "5cc55fc64d170289b708bd7728d252579f740502",
+        "episode_key": "5cc55fc64d170289b708bd7728d252579f740502",
+        "title": "S15 Ep 786 Vault Mondays: Guest - Ed Gamble",
+        "published_at": "2026-03-02T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's a classic archive episode this week - Comedian & podcast host Ed Gamble joins David & Joe mid spat. After he’s broken up the argument, Ed talks about Off Menu, getting Ed Sheeran on, chart positions and why they should get a producer. Joe & David start bickering again. Ed leaves.\n\nFirst posted sometime in 2022, ex",
+        "audio_url": "https://traffic.megaphone.fm/KILM8895051466.mp3?updated=1772097463",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s15-ep-786-vault-mondays-guest-ed-gamble/id1560965008?i=1000752383885&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bb2224026702",
         "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
         "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
@@ -7033,6 +7055,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:8e22327570e3",
+        "feed_title": "Sunday Brunch Picky Bits",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68d10529146cfd1a65544aed",
+        "dedupe_key": "9d8f34f2a53b62abdd0bd7d476562237549f21da",
+        "episode_key": "9d8f34f2a53b62abdd0bd7d476562237549f21da",
+        "title": "S2 Ep4 Tiffany, Dame Dr Maggie Aderin, Samantha Womack, Harriet Kemsley, Guvna B & DEADLETTER",
+        "published_at": "2026-03-02T16:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tim Lovejoy and Simon Rimmer interview big names from the worlds of sport, music, entertainment, food and more. The Sunday Brunch Picky Bits podcast presents audio highlights from each weekly TV episode for you to enjoy on the go.\nThis week, we've picked bits from Tim and Simon's interviews with: Tiffany, Dame Dr Maggi",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68d10529146cfd1a65544aed/e/69a4a63ca9760df1fb3d6841/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s2-ep4-tiffany-dame-dr-maggie-aderin-samantha-womack/id1843289955?i=1000752645622&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:5a46c54e4129",
         "feed_title": "The Chris Evans Show with The National Lottery",
         "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
@@ -7289,6 +7333,28 @@
         "description": "From Last One Laughing it’s comedian Harriet Kemsley, who is great company and with some surprising stories; her youth flying in World War Two Fighter Planes to her snowboarding exploits PLUS find out why she could end up imprisoned in Guantanamo Bay… it’s all in this fantastic episode of Five Brilliant Things. \n\n\n\n🎭 H",
         "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6224041151.mp3?updated=1749119058",
         "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley/id1709479236?i=1000712357770&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:dc299526e76a",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0005fdz.rss",
+        "dedupe_key": "4b1e1959c06581f461a6554e5e79efd098a6b647",
+        "episode_key": "4b1e1959c06581f461a6554e5e79efd098a6b647",
+        "title": "#428 - Hunting Aled, Gen Sea and Harriet Kemsley",
+        "published_at": "2025-04-15T15:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Acceptance is the word on everybody’s lips today, but it has different meanings for Elis and John. For John it’s a meaningful form of accepting things as they are in life. For Elis it’s about accepting that his wife Isy will never be interested in the Nations League. Both are valid, I'm sure you'll agree.\nAlso getting ",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l4j307.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/428-hunting-aled-gen-sea-and-harriet-kemsley/id1465290044?i=1000703606597&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
