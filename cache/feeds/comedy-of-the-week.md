@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-02T07:16:30+00:00`
-- checked_at: `2026-03-02T07:16:30+00:00`
-- etag: `"5ac402eb577084c685e2d5ae87309e30"`
-- last_modified: `Mon, 02 Mar 2026 05:00:04 GMT`
+- fetched_at: `2026-03-03T07:11:10+00:00`
+- checked_at: `2026-03-03T07:11:10+00:00`
+- etag: `"a45030e9b80e3443a231eb6f988c3f9d"`
+- last_modified: `Tue, 03 Mar 2026 05:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-02T07:16:30+00:00",
+  "fetched_at": "2026-03-03T07:11:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -966,25 +966,6 @@
         "imaginary",
         "sandwich"
       ]
-    },
-    {
-      "key": "fcedd4b968995c300ef0da5945c1bfd3987afe79",
-      "title": "One Person Found This Helpful",
-      "published_at": "2025-03-03T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0ktq7qt",
-      "description": "Frank & guests Laura Smyth, Sunil Patel, Simon Evans & Kyrah Gray discuss googling, goggling, groping, gropping and the correct way to punch yourself in the face. This is the panel game based on what we all sit down and do at least once a day - shop online and leave a review, as an all-star panel celebrate the good, the bad & the baffling Everyone has an online life, and when the great British public put pen to keyboard to leave a review, they almost always write something hilarious. And our all-star panel have to work out just what they were reviewing – and maybe contribute a few reviews of their own... and more... So if you’re the person who went on Trip Advisor to review Ben Nevis as “Very steep and too high”, this show salutes you! Written by Frank Skinner, Catherine Brinkworth, Sarah Dempster, Jason Hazeley, Rajiv Karia, Karl Minns, Katie Sayer & Peter Tellouche Devised by Jason Hazeley and Simon Evans with the producer David Tyler A Pozzitive Production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ktq7h2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27488000",
-      "itunes_duration": "1718",
-      "speakers": [
-        "Laura Smyth",
-        "Sunil Patel"
-      ],
-      "topics": [
-        "person"
-      ]
     }
   ]
 }
@@ -1042,4 +1023,3 @@
 - 2025-03-24 — DMs Are Open
 - 2025-03-17 — The 13 Million Club — speakers: Million Club More
 - 2025-03-10 — Alexei Sayle's Imaginary Sandwich Bar — speakers: Sandwich Bar, Alexei Sayle
-- 2025-03-03 — One Person Found This Helpful — speakers: Laura Smyth, Sunil Patel
