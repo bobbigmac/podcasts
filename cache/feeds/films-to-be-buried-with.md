@@ -2,10 +2,10 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- last_modified: `Wed, 18 Feb 2026 08:29:00 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-03-03T21:48:00+00:00`
+- checked_at: `2026-03-03T21:48:00+00:00`
+- last_modified: `Tue, 03 Mar 2026 20:20:25 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,15 +17,14 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-03-03T21:48:00+00:00",
   "owners": [
     "Brett Goldstein"
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british",
-    "film",
-    "interviews"
+    "comedy",
+    "film"
   ],
   "episodes": [
     {
@@ -64,7 +63,6 @@
       "itunes_duration": "4852",
       "speakers": [
         "Tig Notaro",
-        "Andrea Gibson",
         "Brett Goldstein"
       ],
       "topics": [
@@ -89,7 +87,6 @@
       "itunes_duration": "4463",
       "speakers": [
         "Matt Forde",
-        "Brick Top off Snatch",
         "Brett Goldstein"
       ],
       "topics": [
@@ -115,8 +112,6 @@
       "itunes_duration": "3391",
       "speakers": [
         "Meera Syal",
-        "Sanjeev Bhaskar",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -235,7 +230,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3441",
       "speakers": [
-        "Arnold Schwarzenegger",
+        "Fortune Feimster",
         "Brett Goldstein"
       ],
       "topics": [
@@ -286,7 +281,6 @@
       "itunes_duration": "3199",
       "speakers": [
         "Osgood Perkins",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -356,8 +350,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2920",
       "speakers": [
-        "Leslie Jones",
-        "Shirley Temple",
         "Brett Goldstein"
       ],
       "topics": [
@@ -381,8 +373,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3560",
       "speakers": [
-        "Jesse James",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -410,10 +400,6 @@
       "itunes_duration": "3091",
       "speakers": [
         "Mark Kermode",
-        "Simon Mayo",
-        "Jason Isaacs",
-        "Linda Ruth Williams",
-        "Simon Amstell",
         "Brett Goldstein"
       ],
       "topics": [
@@ -442,7 +428,6 @@
       "itunes_duration": "3280",
       "speakers": [
         "Adjani Salmon",
-        "Will Smith",
         "Brett Goldstein"
       ],
       "topics": [
@@ -490,7 +475,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3465",
       "speakers": [
-        "Kristen Stewart",
+        "Imogen Poots",
+        "Green Room",
         "Brett Goldstein"
       ],
       "topics": [
@@ -515,7 +501,6 @@
       "itunes_duration": "3016",
       "speakers": [
         "Taylor Kitsch",
-        "Banana Bread",
         "Brett Goldstein"
       ],
       "topics": [
@@ -543,7 +528,6 @@
       "itunes_duration": "2998",
       "speakers": [
         "Chris Columbus",
-        "Voyage Pictures",
         "Brett Goldstein"
       ],
       "topics": [
@@ -568,7 +552,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3357",
       "speakers": [
-        "Steven Cree",
         "Brett Goldstein"
       ],
       "topics": [
@@ -593,8 +576,6 @@
       "itunes_duration": "3189",
       "speakers": [
         "Charlie Day",
-        "Jason Sudeikis",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -616,8 +597,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3590",
       "speakers": [
-        "Zach Braff",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -644,8 +623,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3768",
       "speakers": [
-        "Tony Hale",
-        "Taylor Swift",
         "Brett Goldstein"
       ],
       "topics": [
@@ -789,10 +766,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3342",
       "speakers": [
-        "Adam Scott",
-        "Party Down",
-        "Scott Aukerman",
-        "Comedy Bang Bang",
         "Brett Goldstein"
       ],
       "topics": [
@@ -818,7 +791,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3036",
       "speakers": [
-        "Harold Perrineau",
         "Brett Goldstein"
       ],
       "topics": [
@@ -866,7 +838,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3130",
       "speakers": [
-        "Producer Buddy",
+        "Michael Philippou",
         "Brett Goldstein"
       ],
       "topics": [
@@ -889,8 +861,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4462",
       "speakers": [
-        "Sam Richardson",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -913,10 +883,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4141",
       "speakers": [
-        "Kyle MacLACHLAN",
-        "Dale Cooper",
-        "Twin Peaks",
-        "David Lynch",
         "Brett Goldstein"
       ],
       "topics": [
@@ -944,9 +910,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3498",
       "speakers": [
-        "Bill Hader",
-        "Buddy Peace",
-        "Barry Imdb Seth Bill",
         "Brett Goldstein"
       ],
       "topics": [
@@ -970,7 +933,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3739",
       "speakers": [
-        "Buddy Peace",
         "Brett Goldstein"
       ],
       "topics": [
@@ -995,7 +957,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4016",
       "speakers": [
-        "Buddy Peace",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1022,8 +983,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4521",
       "speakers": [
-        "show friend",
-        "hilarious comic",
+        "Nish Kumar",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1048,8 +1008,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4774",
       "speakers": [
-        "show friend",
-        "hilarious comic",
+        "Nish Kumar",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1101,7 +1060,6 @@
       "itunes_duration": "2640",
       "speakers": [
         "Tim Key",
-        "Alan Partridge",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1126,7 +1084,6 @@
       "itunes_duration": "4558",
       "speakers": [
         "Tim Key",
-        "Alan Partridge",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1151,9 +1108,6 @@
       "itunes_duration": "3814",
       "speakers": [
         "Camille Ucan",
-        "Occasionaly Brett",
-        "James McNicholas",
-        "George Miller",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1179,6 +1133,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2998",
       "speakers": [
+        "Julia Stiles",
+        "Mona Lisa Smile",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1296,7 +1252,6 @@
       "itunes_duration": "5055",
       "speakers": [
         "Jeanette Epps",
-        "Nasa Astronaut",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1344,6 +1299,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3413",
       "speakers": [
+        "Mackenzie Barmen",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1366,8 +1322,6 @@
       "itunes_duration": "4324",
       "speakers": [
         "Leigh Whannell",
-        "James Wan",
-        "Freddie Krueger",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1435,7 +1389,6 @@
       "itunes_duration": "4172",
       "speakers": [
         "Jack Thorne",
-        "Barry Norman",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1462,7 +1415,6 @@
       "itunes_duration": "3017",
       "speakers": [
         "Hasan Minhaj",
-        "Toy Story",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1511,7 +1463,6 @@
       "itunes_duration": "3593",
       "speakers": [
         "Paul Foot",
-        "Nicolas Cage",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1580,7 +1531,6 @@
       "itunes_duration": "3227",
       "speakers": [
         "Ben Mankiewicz",
-        "Citizen Kane",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1605,7 +1555,6 @@
       "itunes_duration": "4060",
       "speakers": [
         "Emma Doran",
-        "Instagram Linktree",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1629,7 +1578,6 @@
       "itunes_duration": "3104",
       "speakers": [
         "Alex Wolff",
-        "Alex played Peter",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1654,7 +1602,6 @@
       "itunes_duration": "3066",
       "speakers": [
         "Michelle Visage",
-        "Youtube Imdb Instagram Drag",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1679,7 +1626,6 @@
       "speakers": [
         "Jason Reitman",
         "Frozen Empire Tully",
-        "James Acaster",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1706,7 +1652,6 @@
       "itunes_duration": "3337",
       "speakers": [
         "Pat Burtscher",
-        "Boy Amelie",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1804,8 +1749,6 @@
       "itunes_duration": "3410",
       "speakers": [
         "Mike Eagle",
-        "Buddy Peace",
-        "Hip Hop",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1914,8 +1857,6 @@
       "itunes_duration": "3038",
       "speakers": [
         "James Wan Films",
-        "James Wan",
-        "Atomic Monster Imdb Instagram",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1937,8 +1878,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3982",
       "speakers": [
-        "Rob Peace",
-        "Rob Peace Imdb",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1962,7 +1901,6 @@
       "itunes_duration": "4579",
       "speakers": [
         "Sara Barron Films",
-        "Edinburgh Fringe",
         "Brett Goldstein"
       ],
       "topics": [
@@ -1986,8 +1924,6 @@
       "itunes_duration": "3538",
       "speakers": [
         "Sam Morril Films",
-        "Sam Morril",
-        "Sam Youtube",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2032,8 +1968,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3655",
       "speakers": [
-        "Zed Campbell",
-        "Catch Ed",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2080,7 +2014,6 @@
       "itunes_duration": "3892",
       "speakers": [
         "Tony Hale Films",
-        "Taylor Swift",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2147,7 +2080,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3380",
       "speakers": [
-        "David Mamet",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2241,8 +2173,6 @@
       "itunes_duration": "3842",
       "speakers": [
         "Quinta Brunson",
-        "Abbott Elementary",
-        "Buddy Peace",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2266,9 +2196,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4556",
       "speakers": [
-        "Lou Sanders",
-        "Buddy Peace",
-        "Hulk Hogan",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2292,7 +2219,6 @@
       "itunes_duration": "5146",
       "speakers": [
         "Desiree Burch",
-        "Buddy Peace",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2317,8 +2243,6 @@
       "itunes_duration": "3292",
       "speakers": [
         "Kiell Smith-Bynoe",
-        "Buddy Peace",
-        "ya worry",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2344,7 +2268,6 @@
       "itunes_duration": "3566",
       "speakers": [
         "Ben Barnes",
-        "Buddy Peace",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2368,7 +2291,6 @@
       "itunes_duration": "4107",
       "speakers": [
         "Kemah Bob",
-        "Buddy Peace",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2392,7 +2314,6 @@
       "itunes_duration": "4014",
       "speakers": [
         "Jamali Maddix",
-        "Buddy Peace",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2417,8 +2338,6 @@
       "itunes_duration": "3446",
       "speakers": [
         "Sharon Stone",
-        "Buddy Peace",
-        "Basic Instinct",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2443,8 +2362,6 @@
       "itunes_duration": "3380",
       "speakers": [
         "Ray Winstone Films",
-        "David Lynch",
-        "Random Harvest",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2467,7 +2384,6 @@
       "itunes_duration": "3514",
       "speakers": [
         "Laura Smyth Films",
-        "Laura Smyth",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2491,10 +2407,6 @@
       "itunes_duration": "3141",
       "speakers": [
         "James Williams Films",
-        "James Williams",
-        "Chris Rock",
-        "Hates Chris",
-        "Abbott Elementary",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2518,8 +2430,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3533",
       "speakers": [
-        "Eddie Marsan",
-        "Jim Broadbent",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2542,7 +2452,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4179",
       "speakers": [
-        "Instagram Stories",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2565,10 +2474,6 @@
       "itunes_duration": "4288",
       "speakers": [
         "Kyle MacLachlan Films",
-        "Dale Cooper",
-        "Kyle Maclachlan",
-        "Mark Frost",
-        "Twin Peaks",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2637,7 +2542,6 @@
       "itunes_duration": "3897",
       "speakers": [
         "Rob Auton Films",
-        "Catch Rob",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2706,7 +2610,6 @@
       "itunes_duration": "3902",
       "speakers": [
         "Leslie Jones Films",
-        "Shirley Temple",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2729,7 +2632,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3566",
       "speakers": [
-        "Arnold Schwarzenegger",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2753,7 +2655,6 @@
       "itunes_duration": "3165",
       "speakers": [
         "Ed Zwick Films",
-        "Blood Diamond",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2776,7 +2677,6 @@
       "itunes_duration": "3081",
       "speakers": [
         "Felicia Day Films",
-        "Enjoy Video",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2798,7 +2698,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3329",
       "speakers": [
-        "armpit hair",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2821,7 +2720,6 @@
       "itunes_duration": "4429",
       "speakers": [
         "Tom Davis Films",
-        "Tom Davis",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2888,7 +2786,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3471",
       "speakers": [
-        "Basically Jen",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2913,7 +2810,6 @@
       "itunes_duration": "4405",
       "speakers": [
         "Athena Kugblenu",
-        "Billy Zane",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2938,7 +2834,6 @@
       "itunes_duration": "3739",
       "speakers": [
         "Sarah Snook",
-        "Emma Stone",
         "Brett Goldstein"
       ],
       "topics": [
@@ -2963,8 +2858,6 @@
       "itunes_duration": "3862",
       "speakers": [
         "Glenn Howerton Films",
-        "Glenn Howerton",
-        "Spider Man Star",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3009,8 +2902,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4331",
       "speakers": [
-        "Ruby McCOLLISTER",
-        "Natasha Lyonne",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3055,7 +2946,6 @@
       "itunes_duration": "3032",
       "speakers": [
         "Harold Perrineau Films",
-        "Harold Perrineau",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3079,7 +2969,6 @@
       "itunes_duration": "3509",
       "speakers": [
         "Lou Taylor Films",
-        "Lou Taylor",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3102,7 +2991,6 @@
       "itunes_duration": "3193",
       "speakers": [
         "Jason Sudeikis",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3126,8 +3014,6 @@
       "itunes_duration": "5164",
       "speakers": [
         "Jason Sudeikis",
-        "Ted Lasso",
-        "Roy Kent",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3151,8 +3037,6 @@
       "itunes_duration": "5400",
       "speakers": [
         "Adam Buxton Films",
-        "Adam Buxton",
-        "Joe Show Books Brett",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3224,8 +3108,7 @@
       "itunes_duration": "5707",
       "speakers": [
         "Pete Holmes",
-        "Brett Goldstein",
-        "Sweet Lady Val"
+        "Brett Goldstein"
       ],
       "topics": [
         "pete",
@@ -3249,8 +3132,7 @@
       "itunes_duration": "3841",
       "speakers": [
         "Pearl Mackie",
-        "Brett Goldstein",
-        "Judy Garland"
+        "Brett Goldstein"
       ],
       "topics": [
         "pearl",
@@ -3295,7 +3177,6 @@
       "itunes_duration": "3284",
       "speakers": [
         "Rob Savage",
-        "Dashcam Host",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3320,8 +3201,6 @@
       "itunes_duration": "4558",
       "speakers": [
         "Sam Richardson Films",
-        "Sam Richardson",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3344,7 +3223,6 @@
       "itunes_duration": "3743",
       "speakers": [
         "Anna Bogutskaya Films",
-        "Anna Bogutskaya",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3367,7 +3245,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5659",
       "speakers": [
-        "Tyler Perry",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3391,9 +3268,6 @@
       "itunes_duration": "3840",
       "speakers": [
         "James Lance Films",
-        "James Lance",
-        "something'll happen",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3417,7 +3291,6 @@
       "itunes_duration": "3974",
       "speakers": [
         "Neal Brennan Films",
-        "Mics Blocks",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3441,7 +3314,6 @@
       "itunes_duration": "3480",
       "speakers": [
         "Wendy Wason Films",
-        "Prince Albert",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3465,7 +3337,6 @@
       "itunes_duration": "3729",
       "speakers": [
         "Resurrection Films",
-        "Edgar Wright",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3489,7 +3360,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3889",
       "speakers": [
-        "Himesh Patel",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3680,9 +3550,7 @@
       "speakers": [
         "Ed Gamble",
         "James Acaster Brett Goldstein",
-        "Brett Goldstein",
-        "James Acaster",
-        "Socials ComicRelief Hashtag"
+        "Brett Goldstein"
       ],
       "topics": [
         "menu",
@@ -3733,8 +3601,7 @@
       "itunes_duration": "3587",
       "speakers": [
         "Barry Jenkins",
-        "Brett Goldstein",
-        "Clare Denis"
+        "Brett Goldstein"
       ],
       "topics": [
         "barry",
@@ -3758,7 +3625,6 @@
       "itunes_duration": "4624",
       "speakers": [
         "Luke Tennie Films",
-        "Luke Tennie",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3782,7 +3648,6 @@
       "itunes_duration": "4050",
       "speakers": [
         "Camille Ucan Judgement",
-        "James Beast",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3807,8 +3672,6 @@
       "itunes_duration": "4281",
       "speakers": [
         "Michael Urie Films",
-        "Michael Urie",
-        "Harrison Ford",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3877,7 +3740,6 @@
       "itunes_duration": "4632",
       "speakers": [
         "John Kearns Films",
-        "Charlie Chocolate",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3900,7 +3762,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3901",
       "speakers": [
-        "Ken Loach",
         "Brett Goldstein"
       ],
       "topics": [
@@ -3992,7 +3853,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3203",
       "speakers": [
-        "Richard Jewell",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4040,7 +3900,6 @@
       "itunes_duration": "3049",
       "speakers": [
         "DJ Yoda Films",
-        "David Lynch",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4063,8 +3922,6 @@
       "itunes_duration": "3871",
       "speakers": [
         "James McNicholas Judgement",
-        "James McNICHOLAS",
-        "James aka Beast",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4207,8 +4064,7 @@
       "itunes_duration": "4013",
       "speakers": [
         "James Acaster",
-        "Brett Goldstein",
-        "James Online Imdb Tour"
+        "Brett Goldstein"
       ],
       "topics": [
         "james",
@@ -4232,7 +4088,6 @@
       "itunes_duration": "4057",
       "speakers": [
         "Russell Howard Films",
-        "Roy Sin",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4279,7 +4134,6 @@
       "itunes_duration": "3907",
       "speakers": [
         "Quinta Brunson Films",
-        "Abbott Elementary",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4303,9 +4157,6 @@
       "itunes_duration": "5184",
       "speakers": [
         "Phil Dunster",
-        "Ted Lasso",
-        "Jamie Tartt du-du-dudu-dudu",
-        "Imdb Instagram Twitter",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4352,8 +4203,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2971",
       "speakers": [
-        "Ted Lasso",
-        "Sam Obisanya",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4422,8 +4271,6 @@
       "itunes_duration": "3753",
       "speakers": [
         "Zach Braff Films",
-        "Zach Braff",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4447,8 +4294,6 @@
       "itunes_duration": "3344",
       "speakers": [
         "Michael Akadiri Films",
-        "Michael Akadiri",
-        "Edinburgh Fringe",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4472,9 +4317,6 @@
       "itunes_duration": "3366",
       "speakers": [
         "Dexter Fletcher Films",
-        "Dexter Fletcher",
-        "Press Gang",
-        "Bohemian Rhapsody",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4499,7 +4341,6 @@
       "speakers": [
         "Jessica Knappett",
         "Elizabeth Hall",
-        "Jessica Knappet",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4526,8 +4367,6 @@
       "itunes_duration": "3921",
       "speakers": [
         "Jim Gaffigan Films",
-        "Jim Gaffigan",
-        "Jim Standup Imdb Instagram",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4550,9 +4389,6 @@
       "itunes_duration": "2789",
       "speakers": [
         "Sarah Niles Films",
-        "Sharon Fieldstone",
-        "Ted Lasso",
-        "Mike Leigh",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4576,7 +4412,6 @@
       "itunes_duration": "3537",
       "speakers": [
         "Bill Hader Films",
-        "Barry Imdb Instagram",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4599,8 +4434,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3227",
       "speakers": [
-        "Wittertainer Mark Kermode",
-        "Mark Kermode",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4625,8 +4458,6 @@
       "itunes_duration": "4655",
       "speakers": [
         "James Acaster Judgement",
-        "James Acaster",
-        "James Online Imdb Tour",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4703,7 +4534,6 @@
       "itunes_duration": "4789",
       "speakers": [
         "Fran Kranz",
-        "Mark Kermode",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4821,8 +4651,6 @@
       "itunes_duration": "3133",
       "speakers": [
         "Fin Taylor Films",
-        "Nick Cage",
-        "Fin Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4845,7 +4673,6 @@
       "itunes_duration": "4170",
       "speakers": [
         "Clara Amfo Films",
-        "Clara Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4893,9 +4720,7 @@
       "speakers": [
         "Ed Gamble",
         "James Acaster Brett Goldstein",
-        "James Acaster",
-        "Brett Goldstein",
-        "Comic Relief"
+        "Brett Goldstein"
       ],
       "topics": [
         "menu",
@@ -4922,7 +4747,6 @@
       "itunes_duration": "3691",
       "speakers": [
         "Joey King Films",
-        "Jesse James",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4946,7 +4770,6 @@
       "itunes_duration": "4173",
       "speakers": [
         "Judd Apatow Films",
-        "Check Judd",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4970,9 +4793,6 @@
       "itunes_duration": "4716",
       "speakers": [
         "Mark Frost Films",
-        "Mark Frost",
-        "David Lynch",
-        "Twin Peaks",
         "Brett Goldstein"
       ],
       "topics": [
@@ -4996,7 +4816,6 @@
       "itunes_duration": "3645",
       "speakers": [
         "Ellie Taylor Films",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5065,9 +4884,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4378",
       "speakers": [
-        "Jameela Jamil here",
-        "Gillian Jacobs",
-        "Mike Links Home Imdb",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5091,8 +4907,6 @@
       "itunes_duration": "3812",
       "speakers": [
         "Daniel Rigby Films",
-        "Daniel’s Laughing Horse",
-        "Karate Kid",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5139,9 +4953,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3978",
       "speakers": [
-        "Danielle Pinnock",
-        "Jersey Girl",
-        "Danielle Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5165,8 +4976,6 @@
       "itunes_duration": "3922",
       "speakers": [
         "Kevin Pollak Films",
-        "Christopher Walken",
-        "Instagram Alchemy",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5215,8 +5024,6 @@
       "itunes_duration": "3618",
       "speakers": [
         "Naomi Ekperigin Films",
-        "Naomi Ekperigin",
-        "Suzy Scribbles",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5262,7 +5069,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4607",
       "speakers": [
-        "Rory Scovel",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5283,7 +5089,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3943",
       "speakers": [
-        "Jim Links Thunder",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5305,7 +5110,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3334",
       "speakers": [
-        "Brendan Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5330,10 +5134,6 @@
       "itunes_duration": "4330",
       "speakers": [
         "Bobcat Goldthwait Films",
-        "Dana Gould",
-        "Robin Williams",
-        "Jimmy Kimmel",
-        "Michael Keaton",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5357,8 +5157,6 @@
       "itunes_duration": "3857",
       "speakers": [
         "Jimmy Carr Films",
-        "Jimmy Carr",
-        "Before Laughter",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5382,7 +5180,6 @@
       "itunes_duration": "6042",
       "speakers": [
         "Pete Holmes Films",
-        "Sweet Lady Val",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5406,9 +5203,6 @@
       "itunes_duration": "4216",
       "speakers": [
         "Zainab Johnson Films",
-        "Zainab Johnson",
-        "Julia Roberts",
-        "Zainab Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5432,7 +5226,6 @@
       "itunes_duration": "3610",
       "speakers": [
         "Ben Barnes Films",
-        "Ben Barnes",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5455,7 +5248,6 @@
       "itunes_duration": "3700",
       "speakers": [
         "Phil Nichol",
-        "Jamie Comedian'S Retraining",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5479,8 +5271,6 @@
       "itunes_duration": "3432",
       "speakers": [
         "Meredith Salenger Films",
-        "Meredith Salenger",
-        "Hear Brett",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5503,7 +5293,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2593",
       "speakers": [
-        "kung fu",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5526,7 +5315,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3475",
       "speakers": [
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5597,7 +5385,6 @@
       "itunes_duration": "3783",
       "speakers": [
         "Nia DaCosta Films",
-        "Nia DaCosta",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5620,9 +5407,6 @@
       "itunes_duration": "3755",
       "speakers": [
         "Resurrection Films",
-        "Camille Ucan",
-        "James McNicholas",
-        "Camille Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5647,9 +5431,6 @@
       "itunes_duration": "3694",
       "speakers": [
         "Barry Jenkins Films",
-        "Barry Jenkins",
-        "Clare Denis",
-        "Barry Links Imdb Twitter",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5673,7 +5454,6 @@
       "itunes_duration": "3383",
       "speakers": [
         "Chaponda Films",
-        "Daliso Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5722,9 +5502,6 @@
       "itunes_duration": "3256",
       "speakers": [
         "Chelsey Crisp Films",
-        "Rhett Reese",
-        "Dutchess Riot",
-        "Chelsey Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5748,10 +5525,6 @@
       "itunes_duration": "4113",
       "speakers": [
         "Danny Wallace Films",
-        "Yes Man",
-        "Danny Wallace",
-        "Danny’s Yes",
-        "Twitter Assembly",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5798,8 +5571,6 @@
       "itunes_duration": "5161",
       "speakers": [
         "Rose Johnson Films",
-        "Birthday Girl Rose Johnson",
-        "Instagram Rose",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5823,7 +5594,6 @@
       "itunes_duration": "4210",
       "speakers": [
         "Pearl Mackie Films",
-        "Judy Garland",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5847,8 +5617,6 @@
       "itunes_duration": "4377",
       "speakers": [
         "Joe Wilkinson Films",
-        "Joe Wilkinson",
-        "Joe Links Imdb",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5871,7 +5639,6 @@
       "itunes_duration": "3472",
       "speakers": [
         "Maisie Williams Films",
-        "Arya Stark",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5894,7 +5661,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3901",
       "speakers": [
-        "Young Pip",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5918,7 +5684,6 @@
       "itunes_duration": "3565",
       "speakers": [
         "Davies Films",
-        "Who Midnight",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5942,9 +5707,6 @@
       "itunes_duration": "4802",
       "speakers": [
         "Chris Addison Films",
-        "Chris Addison",
-        "Edinburgh Fringe",
-        "Chris Links Imdb Instagram",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5968,8 +5730,6 @@
       "itunes_duration": "4288",
       "speakers": [
         "Teri Hatcher Films",
-        "superperson Teri",
-        "Lois Lane",
         "Brett Goldstein"
       ],
       "topics": [
@@ -5993,7 +5753,6 @@
       "itunes_duration": "3145",
       "speakers": [
         "Jenny Johnson Films",
-        "Jenny Johnson",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6062,8 +5821,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4174",
       "speakers": [
-        "fabulouss screenwriter",
-        "Iron Man",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6086,8 +5843,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3297",
       "speakers": [
-        "Ashley Nicole",
-        "Ashley Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6112,7 +5867,6 @@
       "itunes_duration": "3877",
       "speakers": [
         "Doug Benson Films",
-        "Doug Links Twitter Doug",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6181,8 +5935,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4225",
       "speakers": [
-        "Brett Goldstein",
-        "Pat Sharpe"
+        "Brett Goldstein"
       ],
       "topics": [
         "rewind",
@@ -6207,7 +5960,6 @@
       "speakers": [
         "Ed Gamble",
         "James Acaster Brett Goldstein",
-        "Comic Relief",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6234,9 +5986,6 @@
       "itunes_duration": "4396",
       "speakers": [
         "James Gill",
-        "Comedy so",
-        "Buddy Peace",
-        "James Links",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6283,7 +6032,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4377",
       "speakers": [
-        "Gamble Crosby",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6308,8 +6056,6 @@
       "itunes_duration": "3504",
       "speakers": [
         "Kiell Smith-Bynoe Films",
-        "ya worry",
-        "Instagram Youtube",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6334,7 +6080,6 @@
       "itunes_duration": "4046",
       "speakers": [
         "Brene Brown Films",
-        "Ted Talks",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6518,7 +6263,6 @@
       "itunes_duration": "4296",
       "speakers": [
         "James McNicholas",
-        "James Don’T",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6543,8 +6287,6 @@
       "itunes_duration": "3638",
       "speakers": [
         "Christa Miller Films",
-        "Christa Miller",
-        "Cougar Town",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6568,8 +6310,6 @@
       "itunes_duration": "4222",
       "speakers": [
         "Rhett Reese Films",
-        "Paul Wernick",
-        "Ryan Reynolds",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6636,10 +6376,6 @@
       "itunes_duration": "3312",
       "speakers": [
         "Mary Beth Barone Films",
-        "Mary Beth Barone",
-        "Mary Beth",
-        "Chris Nolan",
-        "Instagram Mary Beth",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6664,9 +6400,6 @@
       "itunes_duration": "3548",
       "speakers": [
         "Brendan Hunt Films",
-        "Ted Lasso",
-        "Gary Lineker",
-        "Brendan Hunt",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6690,9 +6423,6 @@
       "itunes_duration": "4661",
       "speakers": [
         "Michael Jibson Films",
-        "Michael Jibson",
-        "Hamilton Michael",
-        "Rob Reiner",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6783,7 +6513,6 @@
       "itunes_duration": "4063",
       "speakers": [
         "Hannah Waddingham",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6807,7 +6536,6 @@
       "itunes_duration": "4453",
       "speakers": [
         "Stuart Laws Films",
-        "Stuart Laws",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6853,7 +6581,6 @@
       "itunes_duration": "4111",
       "speakers": [
         "Flynn Films",
-        "Neil Flynn",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6900,7 +6627,6 @@
       "itunes_duration": "3957",
       "speakers": [
         "Jimoh Films",
-        "Ted Lasso",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6923,7 +6649,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3521",
       "speakers": [
-        "Molotov Jukebox",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6947,7 +6672,6 @@
       "itunes_duration": "3419",
       "speakers": [
         "Rob Delaney Films",
-        "Rob Delaney",
         "Brett Goldstein"
       ],
       "topics": [
@@ -6993,8 +6717,6 @@
       "itunes_duration": "3931",
       "speakers": [
         "Matt Forde Films",
-        "Santa Claus",
-        "Matt Forde",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7017,8 +6739,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3980",
       "speakers": [
-        "n’t Ed",
-        "ED Gamble",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7042,7 +6762,6 @@
       "itunes_duration": "3471",
       "speakers": [
         "Gillian Jacobs Films",
-        "McCauley Culkin",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7135,8 +6854,6 @@
       "itunes_duration": "3427",
       "speakers": [
         "Sharon Stone Films",
-        "Sharon Stone",
-        "Basic Instinct",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7160,9 +6877,6 @@
       "itunes_duration": "4973",
       "speakers": [
         "Brett Goldstein Dearest",
-        "Dane Baptiste",
-        "Wesley Snipes",
-        "Wong Foo",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7211,7 +6925,6 @@
       "itunes_duration": "5993",
       "speakers": [
         "Sarah Millican Films",
-        "Tom Hanks",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7279,7 +6992,6 @@
       "itunes_duration": "4843",
       "speakers": [
         "Tony Way Films",
-        "Salacious Tom Cruise",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7348,8 +7060,6 @@
       "itunes_duration": "3786",
       "speakers": [
         "Sarah Keyworth Films",
-        "Catherine Bohart",
-        "You'LL DO",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7372,7 +7082,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3948",
       "speakers": [
-        "You'LL DO",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7396,7 +7105,6 @@
       "itunes_duration": "3717",
       "speakers": [
         "Nick Mohammed Films",
-        "David Schwimmer",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7419,7 +7127,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5173",
       "speakers": [
-        "Lauryn Hill",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7443,7 +7150,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4038",
       "speakers": [
-        "Edinburgh Fringe",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7536,7 +7242,6 @@
       "itunes_duration": "4777",
       "speakers": [
         "Adam Hess Films",
-        "Adam Hess",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7583,7 +7288,6 @@
       "itunes_duration": "4892",
       "speakers": [
         "Dan Clark Films",
-        "Dan Clark",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7606,7 +7310,6 @@
       "itunes_duration": "4469",
       "speakers": [
         "Tom Neenan Films",
-        "Tom Neenan",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7652,8 +7355,6 @@
       "itunes_duration": "6197",
       "speakers": [
         "Emerald Fennell Films",
-        "Killing Eve",
-        "Steve Buscemi",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7676,7 +7377,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5317",
       "speakers": [
-        "Ben Affleck",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7721,8 +7421,6 @@
       "itunes_duration": "6199",
       "speakers": [
         "Dan Swimer Films",
-        "Simon Amstell",
-        "Emma Thompson",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7744,8 +7442,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4616",
       "speakers": [
-        "Talking Heads",
-        "Joan Cusack",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7769,7 +7465,6 @@
       "itunes_duration": "4334",
       "speakers": [
         "Kevin Smith Films",
-        "Kevin Smith",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7816,7 +7511,6 @@
       "itunes_duration": "5472",
       "speakers": [
         "Joe Cornish Films",
-        "Joe Cornish",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7839,7 +7533,6 @@
       "itunes_duration": "3843",
       "speakers": [
         "Kate Berlant Films",
-        "Kate Berlant",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7863,7 +7556,6 @@
       "itunes_duration": "4869",
       "speakers": [
         "Matthew Shively Films",
-        "Matthew Shively",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7885,7 +7577,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4806",
       "speakers": [
-        "Alan Partridge",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7909,8 +7600,6 @@
       "itunes_duration": "4614",
       "speakers": [
         "Jon DeWalt Films",
-        "Jon Dewalt",
-        "Larry David Curb",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7933,8 +7622,6 @@
       "itunes_duration": "4974",
       "speakers": [
         "Rick Edwards Films",
-        "Rick Edwards",
-        "Ruby Wax",
         "Brett Goldstein"
       ],
       "topics": [
@@ -7981,9 +7668,6 @@
       "itunes_duration": "4002",
       "speakers": [
         "Sam Bain Films",
-        "Sam Bain",
-        "Jesse Armstrong",
-        "Patrick Brice",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8006,7 +7690,6 @@
       "itunes_duration": "5537",
       "speakers": [
         "Anne Edmonds Films",
-        "Anne Edmonds",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8052,7 +7735,6 @@
       "itunes_duration": "4139",
       "speakers": [
         "Roisin Conaty",
-        "Pat Sharpe",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8076,8 +7758,6 @@
       "itunes_duration": "4689",
       "speakers": [
         "Fleischer Films",
-        "John Landis",
-        "Rob Reiner",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8146,7 +7826,6 @@
       "itunes_duration": "5301",
       "speakers": [
         "Rhys James Films",
-        "Rhys Jones",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8169,7 +7848,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3816",
       "speakers": [
-        "Betty Draper",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8193,8 +7871,6 @@
       "itunes_duration": "5173",
       "speakers": [
         "James McNicholas Films",
-        "James McNICHOLAS",
-        "Edinburgh Fringe",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8217,7 +7893,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4325",
       "speakers": [
-        "Stephen King",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8239,7 +7914,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4212",
       "speakers": [
-        "David Hasselhoff",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8266,8 +7940,6 @@
       "itunes_duration": "4408",
       "speakers": [
         "Chris Martin Films",
-        "Chris Martin",
-        "Sensai Keith",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8291,7 +7963,6 @@
       "itunes_duration": "4068",
       "speakers": [
         "Miranda Cosgrove Films",
-        "Bill Lawrence",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8338,7 +8009,6 @@
       "itunes_duration": "3931",
       "speakers": [
         "Jamie Lee Films",
-        "Jamie Lee",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8384,8 +8054,6 @@
       "itunes_duration": "5276",
       "speakers": [
         "Richard Shepard Films",
-        "Ugly Betty",
-        "Lena Dunham",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8435,9 +8103,6 @@
       "itunes_duration": "4407",
       "speakers": [
         "Tom Basden Films",
-        "Tom Basden",
-        "jibber jabber",
-        "David Brent",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8460,9 +8125,6 @@
       "itunes_duration": "3929",
       "speakers": [
         "Punkie Johnson Films",
-        "Punkie Johnson",
-        "poley moley",
-        "Angela Bassett",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8486,7 +8148,6 @@
       "itunes_duration": "4707",
       "speakers": [
         "Andy Nyman Films",
-        "Richard Dreyfuss",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8509,8 +8170,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3595",
       "speakers": [
-        "Tom Cruise",
-        "DJ Shrill-Ex",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8533,9 +8192,6 @@
       "itunes_duration": "4674",
       "speakers": [
         "Mark Kermode Films",
-        "Simon Mayo",
-        "Wim Hof",
-        "Jason Isaacs",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8558,9 +8214,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5410",
       "speakers": [
-        "Camille Ucan",
-        "Beattie Edmonson",
-        "Rose Johnson",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8583,7 +8236,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4426",
       "speakers": [
-        "Funmbi Omotayo",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8630,8 +8282,6 @@
       "itunes_duration": "4660",
       "speakers": [
         "Jameela Jamil Films",
-        "Ted Danson",
-        "Macaulay Culkin",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8655,9 +8305,6 @@
       "itunes_duration": "5699",
       "speakers": [
         "Bill Lawrence Films",
-        "Bill Lawrence",
-        "Cougar Town",
-        "Karaoke Man",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8681,7 +8328,6 @@
       "itunes_duration": "6475",
       "speakers": [
         "Leslye Headland Films",
-        "Netflix’s Russian Doll",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8730,7 +8376,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4579",
       "speakers": [
-        "Billy Zane",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8753,8 +8398,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5842",
       "speakers": [
-        "Valentine’s Day",
-        "Matthew Crosby",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8777,7 +8420,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5259",
       "speakers": [
-        "Ricky Gervais",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8800,7 +8442,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4524",
       "speakers": [
-        "Mandip Gill",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8823,7 +8464,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6379",
       "speakers": [
-        "Dominic Monaghan",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8847,7 +8487,6 @@
       "itunes_duration": "4989",
       "speakers": [
         "Jessie Cave Films",
-        "Jessie Cave",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8895,7 +8534,6 @@
       "itunes_duration": "4906",
       "speakers": [
         "Stu Whiffen Films",
-        "Chris Glasson",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8918,8 +8556,6 @@
       "itunes_duration": "4631",
       "speakers": [
         "Hayley Campbell Films",
-        "Hayley Campbell",
-        "Eddie Campbell",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8942,7 +8578,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3758",
       "speakers": [
-        "Buddy Peace",
+        "Christmas Special",
+        "Lou Sanders",
         "Brett Goldstein"
       ],
       "topics": [
@@ -8988,8 +8625,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4542",
       "speakers": [
-        "Wesley Snipes",
-        "Wong Foo",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9077,7 +8712,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4864",
       "speakers": [
-        "Al Green",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9100,7 +8734,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5093",
       "speakers": [
-        "Jehova’s Witness",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9168,8 +8801,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3478",
       "speakers": [
-        "Wes Anderson",
-        "Enjoy Brett",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9216,8 +8847,6 @@
       "itunes_duration": "4496",
       "speakers": [
         "Jack Whitehall Films",
-        "Jack Whitehall",
-        "Robin Hood",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9241,7 +8870,6 @@
       "itunes_duration": "4846",
       "speakers": [
         "Nathaniel Metcalfe Films",
-        "Nathaniel’s Twitter",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9264,8 +8892,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4673",
       "speakers": [
-        "Edinburgh Fringe",
-        "Wine Gums",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9309,8 +8935,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4943",
       "speakers": [
-        "Edinburgh Fringe",
-        "Hulk Hogan",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9354,8 +8978,6 @@
       "itunes_duration": "4988",
       "speakers": [
         "Kerry Godliman Films",
-        "Ali Wong",
-        "Ken Loach",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9378,7 +9000,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4719",
       "speakers": [
-        "John Carter",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9401,7 +9022,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4592",
       "speakers": [
-        "Jennifer Saunders",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9454,7 +9074,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4695",
       "speakers": [
-        "Scroobius Pip",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9498,8 +9117,6 @@
       "itunes_duration": "2470",
       "speakers": [
         "Katherine Ryan Films",
-        "James Acaster",
-        "Katherine Ryan",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9523,8 +9140,6 @@
       "itunes_duration": "4068",
       "speakers": [
         "James Acaster Films",
-        "James Acaster",
-        "Edinburgh Fringe",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9547,7 +9162,6 @@
       "enclosure_length": "0",
       "itunes_duration": "224",
       "speakers": [
-        "James Acaster",
         "Brett Goldstein"
       ],
       "topics": [
@@ -9563,147 +9177,147 @@
 ## Episodes (newest first)
 
 - 2026-02-18 — Josh Horowitz • (Happy Sad Confused / Who's A Good Guest) • #386 — speakers: Josh Horowitz, Brett Goldstein
-- 2026-02-04 — Tig Notaro (Come See Me In The Good Light / The Morning Show / Handsome Podcast) • #385 — speakers: Tig Notaro, Andrea Gibson, Brett Goldstein
-- 2026-01-21 — Matt Forde • The Resurrection (Spitting Image / Have I Got News For You / Defying Calamity) • #384 — speakers: Matt Forde, Brick Top off Snatch, Brett Goldstein
-- 2026-01-07 — Meera Syal (The Revenge Club / The Kumars At No. 42 / Goodness Gracious Me) • #383 — speakers: Meera Syal, Sanjeev Bhaskar, Ted Lasso, Brett Goldstein
+- 2026-02-04 — Tig Notaro (Come See Me In The Good Light / The Morning Show / Handsome Podcast) • #385 — speakers: Tig Notaro, Brett Goldstein
+- 2026-01-21 — Matt Forde • The Resurrection (Spitting Image / Have I Got News For You / Defying Calamity) • #384 — speakers: Matt Forde, Brett Goldstein
+- 2026-01-07 — Meera Syal (The Revenge Club / The Kumars At No. 42 / Goodness Gracious Me) • #383 — speakers: Meera Syal, Brett Goldstein
 - 2025-12-24 — Buddy Peace Xmas Mixtape! • #382 — speakers: Xmas Mixtape, Brett Goldstein
 - 2025-12-17 — Steve Zahn (The White Lotus / Silo / Out Of Sight) • #381 — speakers: Steve Zahn, Brett Goldstein
 - 2025-12-10 — Doug Naylor (Red Dwarf / Sinbin Island / Spitting Image) • #380 — speakers: Doug Naylor, Brett Goldstein
 - 2025-12-03 — Jessica Knappett • Rewind Classic (Avoidance / Drifters / 'Perfect Day' podcast) • #379 — speakers: Brett Goldstein
-- 2025-11-26 — Fortune Feimster • Rewind Classic ('Crushing It' special / 'Handsome' podcast / FUBAR) • #378 — speakers: Arnold Schwarzenegger, Brett Goldstein
+- 2025-11-26 — Fortune Feimster • Rewind Classic ('Crushing It' special / 'Handsome' podcast / FUBAR) • #378 — speakers: Fortune Feimster, Brett Goldstein
 - 2025-11-19 — Craig Mazin & John August (Big Fish / The Last Of Us / Scriptnotes podcast) • #377 — speakers: Craig Mazin, John August, Brett Goldstein
-- 2025-11-13 — Osgood Perkins (Longlegs / The Monkey / Keeper) • #376 — speakers: Osgood Perkins, Ted Lasso, Brett Goldstein
+- 2025-11-13 — Osgood Perkins (Longlegs / The Monkey / Keeper) • #376 — speakers: Osgood Perkins, Brett Goldstein
 - 2025-11-05 — Edith Bowman (presenter / podcaster / DJ / writer) • #375 — speakers: Edith Bowman, Brett Goldstein
 - 2025-10-29 — Joanna Scanlan (The Thick Of It / After Love / Slow Horses) • #374 — speakers: Joanna Scanlan, Brett Goldstein
-- 2025-10-22 — Leslie Jones • Rewind Classic (Life: Part Two • special out 24/10 on Peacock) • #373 — speakers: Leslie Jones, Shirley Temple, Brett Goldstein
-- 2025-10-15 — Joey King • Rewind Classic (Bullet Train / The Princess / We Were The Lucky Ones) • #372 — speakers: Jesse James, Ted Lasso, Brett Goldstein
-- 2025-10-08 — Mark Kermode • The Resurrection • Rewind Classic ('Take' podcast / 'Screenshot' podcast / 'Surround Sound' book) • #371 — speakers: Mark Kermode, Simon Mayo, Jason Isaacs, Linda Ruth Williams, Simon Amstell, Brett Goldstein
-- 2025-10-01 — Adjani Salmon (Dreaming Whilst Black / Doctor Who / The Perfect Knight) • #370 — speakers: Adjani Salmon, Will Smith, Brett Goldstein
+- 2025-10-22 — Leslie Jones • Rewind Classic (Life: Part Two • special out 24/10 on Peacock) • #373 — speakers: Brett Goldstein
+- 2025-10-15 — Joey King • Rewind Classic (Bullet Train / The Princess / We Were The Lucky Ones) • #372 — speakers: Brett Goldstein
+- 2025-10-08 — Mark Kermode • The Resurrection • Rewind Classic ('Take' podcast / 'Screenshot' podcast / 'Surround Sound' book) • #371 — speakers: Mark Kermode, Brett Goldstein
+- 2025-10-01 — Adjani Salmon (Dreaming Whilst Black / Doctor Who / The Perfect Knight) • #370 — speakers: Adjani Salmon, Brett Goldstein
 - 2025-09-24 — Will Bridges (All Of You / Stranger Things / Black Mirror) • #369 — speakers: Will Bridges, Brett Goldstein
-- 2025-09-17 — Imogen Poots (All Of You / Green Room / Knight Of Cups) • #368 — speakers: Kristen Stewart, Brett Goldstein
-- 2025-09-10 — Taylor Kitsch (American Primeval / Friday Night Lights / Dark Wolf) • #367 — speakers: Taylor Kitsch, Banana Bread, Brett Goldstein
-- 2025-09-03 — Chris Columbus (The Thursday Murder Club / Home Alone / Gremlins) • #366 — speakers: Chris Columbus, Voyage Pictures, Brett Goldstein
-- 2025-08-27 — Steven Cree • The Resurrection (All Of You / Outlander / Heads Of State) • #365 — speakers: Steven Cree, Brett Goldstein
-- 2025-08-20 — Charlie Day (Always Sunny... / Honey Don't / Mythic Quest) • #364 — speakers: Charlie Day, Jason Sudeikis, Ted Lasso, Brett Goldstein
-- 2025-08-13 — Zach Braff • Rewind Classic (A Good Person / Garden State / Scrubs) • #363 — speakers: Zach Braff, Ted Lasso, Brett Goldstein
-- 2025-08-06 — Tony Hale • Rewind Classic (Arrested Development / Inside Out 2 / Veep) • #362 — speakers: Tony Hale, Taylor Swift, Brett Goldstein
+- 2025-09-17 — Imogen Poots (All Of You / Green Room / Knight Of Cups) • #368 — speakers: Imogen Poots, Green Room, Brett Goldstein
+- 2025-09-10 — Taylor Kitsch (American Primeval / Friday Night Lights / Dark Wolf) • #367 — speakers: Taylor Kitsch, Brett Goldstein
+- 2025-09-03 — Chris Columbus (The Thursday Murder Club / Home Alone / Gremlins) • #366 — speakers: Chris Columbus, Brett Goldstein
+- 2025-08-27 — Steven Cree • The Resurrection (All Of You / Outlander / Heads Of State) • #365 — speakers: Brett Goldstein
+- 2025-08-20 — Charlie Day (Always Sunny... / Honey Don't / Mythic Quest) • #364 — speakers: Charlie Day, Brett Goldstein
+- 2025-08-13 — Zach Braff • Rewind Classic (A Good Person / Garden State / Scrubs) • #363 — speakers: Brett Goldstein
+- 2025-08-06 — Tony Hale • Rewind Classic (Arrested Development / Inside Out 2 / Veep) • #362 — speakers: Brett Goldstein
 - 2025-07-30 — Glenn Moore (Mock The Week / Live At The Apollo / Please Sir, Glenn I Have Some Moore?) • #361 — speakers: Glenn Moore, Brett Goldstein
 - 2025-07-23 — Zainab Johnson • The Resurrection (Hijabs Off / She The People / Upload) • #360 — speakers: Zainab Johnson, Brett Goldstein
 - 2025-07-16 — Mark Gatiss (Bookish / The League Of Gentlemen / Sherlock) • #359 — speakers: Mark Gatiss, Brett Goldstein
 - 2025-07-09 — Justin Hartley (Smallville / This Is Us / Tracker) • #358 — speakers: Justin Hartley, Brett Goldstein
 - 2025-07-02 — David Dastmalchian (The Life Of Chuck / Late Night With The Devil / Oppenheimer) • #357 — speakers: David Dastmalchian, Brett Goldstein
-- 2025-06-25 — Adam Scott • Rewind Classic (Severance / Party Down / Parks & Recreation) • #356 — speakers: Adam Scott, Party Down, Scott Aukerman, Comedy Bang Bang, Brett Goldstein
-- 2025-06-18 — Harold Perrineau • Rewind Classic (Oz / Lost / Romeo + Juliet) • #355 — speakers: Harold Perrineau, Brett Goldstein
+- 2025-06-25 — Adam Scott • Rewind Classic (Severance / Party Down / Parks & Recreation) • #356 — speakers: Brett Goldstein
+- 2025-06-18 — Harold Perrineau • Rewind Classic (Oz / Lost / Romeo + Juliet) • #355 — speakers: Brett Goldstein
 - 2025-06-11 — Heléne Yorke • Rewind Classic (The Other Two / Masters Of Sex / The Good Fight) • #354 — speakers: Brett Goldstein
-- 2025-06-04 — Danny & Michael Philippou (RackaRacka / Talk To Me / Bring Her Back) • #353 — speakers: Producer Buddy, Brett Goldstein
-- 2025-05-28 — Sam Richardson • Rewind Classic (I Think You Should Leave / Veep / The Detroiters) • #352 — speakers: Sam Richardson, Ted Lasso, Brett Goldstein
-- 2025-05-21 — Kyle MacLachlan • Rewind Classic (Twin Peaks / Blue Velvet / Dune / Showgirls) • #351 — speakers: Kyle MacLACHLAN, Dale Cooper, Twin Peaks, David Lynch, Brett Goldstein
-- 2025-05-14 — Bill Hader • Rewind Classic (Barry / SNL / Trainwreck) • #350 — speakers: Bill Hader, Buddy Peace, Barry Imdb Seth Bill, Brett Goldstein
-- 2025-05-07 — Taylor Tomlinson • Rewind Classic (Quarter-Life Crisis / Have It All / Look At You) • #349 — speakers: Buddy Peace, Brett Goldstein
-- 2025-04-30 — Judd Apatow • Rewind Classic (40 Year Old Virgin / Knocked Up / King Of Staten Island) • #348 — speakers: Buddy Peace, Brett Goldstein
-- 2025-04-23 — Nish Kumar (The Absolutely On Time Frankly Early Films Of The Year 2O24 Special • Part 2) • #347 — speakers: show friend, hilarious comic, Brett Goldstein
-- 2025-04-16 — Nish Kumar (The Absolutely On Time Frankly Early Films Of The Year 2O24 Special • Part 1) • #346 — speakers: show friend, hilarious comic, Brett Goldstein
+- 2025-06-04 — Danny & Michael Philippou (RackaRacka / Talk To Me / Bring Her Back) • #353 — speakers: Michael Philippou, Brett Goldstein
+- 2025-05-28 — Sam Richardson • Rewind Classic (I Think You Should Leave / Veep / The Detroiters) • #352 — speakers: Brett Goldstein
+- 2025-05-21 — Kyle MacLachlan • Rewind Classic (Twin Peaks / Blue Velvet / Dune / Showgirls) • #351 — speakers: Brett Goldstein
+- 2025-05-14 — Bill Hader • Rewind Classic (Barry / SNL / Trainwreck) • #350 — speakers: Brett Goldstein
+- 2025-05-07 — Taylor Tomlinson • Rewind Classic (Quarter-Life Crisis / Have It All / Look At You) • #349 — speakers: Brett Goldstein
+- 2025-04-30 — Judd Apatow • Rewind Classic (40 Year Old Virgin / Knocked Up / King Of Staten Island) • #348 — speakers: Brett Goldstein
+- 2025-04-23 — Nish Kumar (The Absolutely On Time Frankly Early Films Of The Year 2O24 Special • Part 2) • #347 — speakers: Nish Kumar, Brett Goldstein
+- 2025-04-16 — Nish Kumar (The Absolutely On Time Frankly Early Films Of The Year 2O24 Special • Part 1) • #346 — speakers: Nish Kumar, Brett Goldstein
 - 2025-04-09 — Peter Straughan (Conclave / The Men Who Stare At Goats / Tinker Tailor Soldier Spy) • #345 — speakers: Peter Straughan, Brett Goldstein
-- 2025-04-02 — Tim Key (part 2 of 2) (The Ballad Of Wallis Island / No More Jockeys / Alan Partridge) • #344 — speakers: Tim Key, Alan Partridge, Brett Goldstein
-- 2025-03-26 — Tim Key (part 1 of 2) (The Ballad Of Wallis Island / No More Jockeys / Alan Partridge) • #344 — speakers: Tim Key, Alan Partridge, Brett Goldstein
-- 2025-03-19 — Camille Ucan • The Reincarnation (Three Hens In A Boat / Birthday Girls / sketco!) • #343 — speakers: Camille Ucan, Occasionaly Brett, James McNicholas, George Miller, Brett Goldstein
-- 2025-03-12 — Julia Stiles (Wish You Were Here / Hustlers / Mona Lisa Smile) • #342 — speakers: Brett Goldstein
+- 2025-04-02 — Tim Key (part 2 of 2) (The Ballad Of Wallis Island / No More Jockeys / Alan Partridge) • #344 — speakers: Tim Key, Brett Goldstein
+- 2025-03-26 — Tim Key (part 1 of 2) (The Ballad Of Wallis Island / No More Jockeys / Alan Partridge) • #344 — speakers: Tim Key, Brett Goldstein
+- 2025-03-19 — Camille Ucan • The Reincarnation (Three Hens In A Boat / Birthday Girls / sketco!) • #343 — speakers: Camille Ucan, Brett Goldstein
+- 2025-03-12 — Julia Stiles (Wish You Were Here / Hustlers / Mona Lisa Smile) • #342 — speakers: Julia Stiles, Mona Lisa Smile, Brett Goldstein
 - 2025-03-05 — Zachariah Porter (sketch comedy genius / Camp Counselors podcast) • #341 — speakers: Zachariah Porter, Brett Goldstein
 - 2025-02-26 — Urzila Carlson (Kinda Pregnant / Just No! / That's Enough Already) • #340 — speakers: Urzila Carlson, Brett Goldstein
 - 2025-02-19 — Liza Treyger (Night Owl out now on Netflix) • #339 — speakers: Liza Treyger, Brett Goldstein
 - 2025-02-12 — Sean McLoughlin – JUDGEMENT DAY! (White Elephant show touring now) • #338 — speakers: Sean McLoughlin, Brett Goldstein
-- 2025-02-05 — Jeanette Epps (NASA Astronaut / Aerospace Engineer) • #337 — speakers: Jeanette Epps, Nasa Astronaut, Brett Goldstein
+- 2025-02-05 — Jeanette Epps (NASA Astronaut / Aerospace Engineer) • #337 — speakers: Jeanette Epps, Brett Goldstein
 - 2025-01-29 — Mark Simmons (Quip Off The Mark / Fringe / Mock The Week) • #336 — speakers: Mark Simmons, Brett Goldstein
-- 2025-01-22 — Mackenzie Barmen (TikTok / sketch comic genius) • #335 — speakers: Brett Goldstein
-- 2025-01-15 — Leigh Whannell (The Invisible Man / Saw / Insidious / Wolf Man) • #334 — speakers: Leigh Whannell, James Wan, Freddie Krueger, Brett Goldstein
+- 2025-01-22 — Mackenzie Barmen (TikTok / sketch comic genius) • #335 — speakers: Mackenzie Barmen, Brett Goldstein
+- 2025-01-15 — Leigh Whannell (The Invisible Man / Saw / Insidious / Wolf Man) • #334 — speakers: Leigh Whannell, Brett Goldstein
 - 2025-01-08 — Josh Gad (Frozen / The Book Of Mormon / Central Park) • #333 — speakers: Josh Gad, Brett Goldstein
 - 2025-01-01 — Ego Nwodim (SNL / Scrambled / It's Florida, Man) • #332 — speakers: Ego Nwodim, Brett Goldstein
-- 2024-12-18 — Jack Thorne (writer / playwright / Lord Of The Flies / His Dark Materials) • #330 — speakers: Jack Thorne, Barry Norman, Brett Goldstein
-- 2024-12-11 — Hasan Minhaj (Off With His Head / Patriot Act / The Daily Show) • #329 — speakers: Hasan Minhaj, Toy Story, Brett Goldstein
+- 2024-12-18 — Jack Thorne (writer / playwright / Lord Of The Flies / His Dark Materials) • #330 — speakers: Jack Thorne, Brett Goldstein
+- 2024-12-11 — Hasan Minhaj (Off With His Head / Patriot Act / The Daily Show) • #329 — speakers: Hasan Minhaj, Brett Goldstein
 - 2024-12-04 — Daisy Ridley (Young Woman And The Sea / Star Wars / Magpie) • #328 — speakers: Daisy Ridley, Brett Goldstein
-- 2024-11-27 — Paul Foot (comedian / Dissolve) • #327 — speakers: Paul Foot, Nicolas Cage, Brett Goldstein
+- 2024-11-27 — Paul Foot (comedian / Dissolve) • #327 — speakers: Paul Foot, Brett Goldstein
 - 2024-11-20 — Lisa Gilroy (comedy / Interior Chinatown / Jury Duty) • #326 — speakers: Lisa Gilroy, Brett Goldstein
 - 2024-11-13 — Rhys James – Judgement Day! • #325 — speakers: Rhys James Judgement Day, Brett Goldstein
-- 2024-11-06 — Ben Mankiewicz (Turner Classic Movies / The Young Turks) • #324 — speakers: Ben Mankiewicz, Citizen Kane, Brett Goldstein
-- 2024-10-30 — Emma Doran (comedy / Dilemma / No Worries If Not) • #323 — speakers: Emma Doran, Instagram Linktree, Brett Goldstein
-- 2024-10-23 — Alex Wolff (The Naked Brothers Band / Hereditary / Pig) • #322 — speakers: Alex Wolff, Alex played Peter, Brett Goldstein
-- 2024-10-16 — Michelle Visage (Rupaul's Drag Race) • #321 — speakers: Michelle Visage, Youtube Imdb Instagram Drag, Brett Goldstein
-- 2024-10-09 — Jason Reitman (Saturday Night / Ghostbusters: Frozen Empire / Tully) • #320 — speakers: Jason Reitman, Frozen Empire Tully, James Acaster, Brett Goldstein
-- 2024-10-02 — Pat Burtscher (comedy) • #319 — speakers: Pat Burtscher, Boy Amelie, Brett Goldstein
+- 2024-11-06 — Ben Mankiewicz (Turner Classic Movies / The Young Turks) • #324 — speakers: Ben Mankiewicz, Brett Goldstein
+- 2024-10-30 — Emma Doran (comedy / Dilemma / No Worries If Not) • #323 — speakers: Emma Doran, Brett Goldstein
+- 2024-10-23 — Alex Wolff (The Naked Brothers Band / Hereditary / Pig) • #322 — speakers: Alex Wolff, Brett Goldstein
+- 2024-10-16 — Michelle Visage (Rupaul's Drag Race) • #321 — speakers: Michelle Visage, Brett Goldstein
+- 2024-10-09 — Jason Reitman (Saturday Night / Ghostbusters: Frozen Empire / Tully) • #320 — speakers: Jason Reitman, Frozen Empire Tully, Brett Goldstein
+- 2024-10-02 — Pat Burtscher (comedy) • #319 — speakers: Pat Burtscher, Brett Goldstein
 - 2024-09-25 — Emily Heller (comedy / podcasts / Barry) • #318 — speakers: Emily Heller, Brett Goldstein
 - 2024-09-18 — Phil Wang (comedy / Wang In There Baby! / Taskmaster) • Films To Be Buried With with Brett Goldstein #317 — speakers: Phil Wang, Brett Goldstein
 - 2024-09-11 — Joshua Jackson (Dawsons Creek / The Affair / Doctor Odyssey) • Films To Be Buried With with Brett Goldstein #316 — speakers: Joshua Jackson, Brett Goldstein
-- 2024-09-04 — Open Mike Eagle (raps / podcasts / comedy) • Films To Be Buried With with Brett Goldstein #315 — speakers: Mike Eagle, Buddy Peace, Hip Hop, Brett Goldstein
+- 2024-09-04 — Open Mike Eagle (raps / podcasts / comedy) • Films To Be Buried With with Brett Goldstein #315 — speakers: Mike Eagle, Brett Goldstein
 - 2024-08-28 — Heidi Gardner (Shrinking / SNL / Hustle) • Films To Be Buried With with Brett Goldstein #314 — speakers: Heidi Gardner, Brett Goldstein
 - 2024-08-21 — David Morrissey (Sherwood / Daddy Issues / The Walking Dead) • Films To Be Buried With with Brett Goldstein #313 — speakers: David Morrissey, Brett Goldstein
 - 2024-08-14 — Phil Ellis (comedy / Edinburgh Fringe / Funz & Gamez) • Films To Be Buried With with Brett Goldstein #312 — speakers: Phil Ellis, Edinburgh Fringe Funz Gamez, Brett Goldstein
-- 2024-08-07 — James Wan • Films To Be Buried With with Brett Goldstein #311 — speakers: James Wan Films, James Wan, Atomic Monster Imdb Instagram, Brett Goldstein
-- 2024-07-31 — Chiwetel Ejiofor • Films To Be Buried With with Brett Goldstein #310 — speakers: Rob Peace, Rob Peace Imdb, Brett Goldstein
-- 2024-07-24 — Sara Barron • Films To Be Buried With with Brett Goldstein #309 — speakers: Sara Barron Films, Edinburgh Fringe, Brett Goldstein
-- 2024-07-17 — Sam Morril • Films To Be Buried With with Brett Goldstein #308 — speakers: Sam Morril Films, Sam Morril, Sam Youtube, Brett Goldstein
+- 2024-08-07 — James Wan • Films To Be Buried With with Brett Goldstein #311 — speakers: James Wan Films, Brett Goldstein
+- 2024-07-31 — Chiwetel Ejiofor • Films To Be Buried With with Brett Goldstein #310 — speakers: Brett Goldstein
+- 2024-07-24 — Sara Barron • Films To Be Buried With with Brett Goldstein #309 — speakers: Sara Barron Films, Brett Goldstein
+- 2024-07-17 — Sam Morril • Films To Be Buried With with Brett Goldstein #308 — speakers: Sam Morril Films, Brett Goldstein
 - 2024-07-10 — Garrett Millerick • Films To Be Buried With with Brett Goldstein #307 — speakers: Garrett Millerick Films, Brett Goldstein
-- 2024-07-03 — Ed Gamble • The Reincarnation • Films To Be Buried With with Brett Goldstein #306 — speakers: Zed Campbell, Catch Ed, Brett Goldstein
+- 2024-07-03 — Ed Gamble • The Reincarnation • Films To Be Buried With with Brett Goldstein #306 — speakers: Brett Goldstein
 - 2024-06-26 — Amber Ruffin • Films To Be Buried With with Brett Goldstein #305 — speakers: Ruffin Films, Brett Goldstein
-- 2024-06-19 — Tony Hale • Films To Be Buried With with Brett Goldstein #304 — speakers: Tony Hale Films, Taylor Swift, Brett Goldstein
+- 2024-06-19 — Tony Hale • Films To Be Buried With with Brett Goldstein #304 — speakers: Tony Hale Films, Brett Goldstein
 - 2024-06-12 — Nish Kumar (Films Of 2023 • Part 2) • Films To Be Buried With with Brett Goldstein #303 — speakers: Brett Goldstein
 - 2024-06-05 — Nish Kumar (Films Of 2023 • Part 1) • Films To Be Buried With with Brett Goldstein #302 — speakers: Brett Goldstein
-- 2024-05-29 — William H Macy • Films To Be Buried With with Brett Goldstein #301 — speakers: David Mamet, Brett Goldstein
+- 2024-05-29 — William H Macy • Films To Be Buried With with Brett Goldstein #301 — speakers: Brett Goldstein
 - 2024-05-22 — James Acaster • The Reincarnation • Films To Be Buried With with Brett Goldstein #300 — speakers: James Acaster, Brett Goldstein
 - 2024-05-15 — Wunmi Mosaku • Films To Be Buried With with Brett Goldstein #299 — speakers: Wunmi Mosaku Films, Brett Goldstein
 - 2024-05-08 — Stephen Merchant • Films To Be Buried With with Brett Goldstein #298 — speakers: Stephen Merchant Films, Brett Goldstein
-- 2024-05-01 — Quinta Brunson (episode 214 rewind!) • Films To Be Buried With with Brett Goldstein #297 — speakers: Quinta Brunson, Abbott Elementary, Buddy Peace, Brett Goldstein
-- 2024-04-24 — Ed Gamble (episode 9 rewind!) • Films To Be Buried With with Brett Goldstein #296 — speakers: Lou Sanders, Buddy Peace, Hulk Hogan, Brett Goldstein
-- 2024-04-17 — Desiree Burch (episode 164 rewind!) • Films To Be Buried With with Brett Goldstein #295 — speakers: Desiree Burch, Buddy Peace, Brett Goldstein
-- 2024-04-10 — Kiell Smith-Bynoe (episode 135 rewind!) • Films To Be Buried With with Brett Goldstein #294 — speakers: Kiell Smith-Bynoe, Buddy Peace, ya worry, Brett Goldstein
-- 2024-04-03 — Ben Barnes (episode 169 rewind!) • Films To Be Buried With with Brett Goldstein #293 — speakers: Ben Barnes, Buddy Peace, Brett Goldstein
-- 2024-03-27 — Kemah Bob (episode 122 rewind!) • Films To Be Buried With with Brett Goldstein #292 — speakers: Kemah Bob, Buddy Peace, Brett Goldstein
-- 2024-03-20 — Jamali Maddix (episode 139 rewind!) • Films To Be Buried With with Brett Goldstein #291 — speakers: Jamali Maddix, Buddy Peace, Brett Goldstein
-- 2024-03-13 — Sharon Stone (episode 99 rewind!) • Films To Be Buried With with Brett Goldstein #290 — speakers: Sharon Stone, Buddy Peace, Basic Instinct, Brett Goldstein
-- 2024-03-06 — Ray Winstone • Films To Be Buried With with Brett Goldstein #289 — speakers: Ray Winstone Films, David Lynch, Random Harvest, Brett Goldstein
-- 2024-02-28 — Laura Smyth • Films To Be Buried With with Brett Goldstein #288 — speakers: Laura Smyth Films, Laura Smyth, Brett Goldstein
-- 2024-02-21 — Tyler James Williams • Films To Be Buried With with Brett Goldstein #287 — speakers: James Williams Films, James Williams, Chris Rock, Hates Chris, Abbott Elementary, Brett Goldstein
-- 2024-02-14 — Eddie Marsan • Films To Be Buried With with Brett Goldstein #286 — speakers: Eddie Marsan, Jim Broadbent, Brett Goldstein
-- 2024-02-07 — Leo Reich • Films To Be Buried With with Brett Goldstein #285 — speakers: Instagram Stories, Brett Goldstein
-- 2024-01-31 — Kyle MacLachlan • Films To Be Buried With with Brett Goldstein #284 — speakers: Kyle MacLachlan Films, Dale Cooper, Kyle Maclachlan, Mark Frost, Twin Peaks, Brett Goldstein
+- 2024-05-01 — Quinta Brunson (episode 214 rewind!) • Films To Be Buried With with Brett Goldstein #297 — speakers: Quinta Brunson, Brett Goldstein
+- 2024-04-24 — Ed Gamble (episode 9 rewind!) • Films To Be Buried With with Brett Goldstein #296 — speakers: Brett Goldstein
+- 2024-04-17 — Desiree Burch (episode 164 rewind!) • Films To Be Buried With with Brett Goldstein #295 — speakers: Desiree Burch, Brett Goldstein
+- 2024-04-10 — Kiell Smith-Bynoe (episode 135 rewind!) • Films To Be Buried With with Brett Goldstein #294 — speakers: Kiell Smith-Bynoe, Brett Goldstein
+- 2024-04-03 — Ben Barnes (episode 169 rewind!) • Films To Be Buried With with Brett Goldstein #293 — speakers: Ben Barnes, Brett Goldstein
+- 2024-03-27 — Kemah Bob (episode 122 rewind!) • Films To Be Buried With with Brett Goldstein #292 — speakers: Kemah Bob, Brett Goldstein
+- 2024-03-20 — Jamali Maddix (episode 139 rewind!) • Films To Be Buried With with Brett Goldstein #291 — speakers: Jamali Maddix, Brett Goldstein
+- 2024-03-13 — Sharon Stone (episode 99 rewind!) • Films To Be Buried With with Brett Goldstein #290 — speakers: Sharon Stone, Brett Goldstein
+- 2024-03-06 — Ray Winstone • Films To Be Buried With with Brett Goldstein #289 — speakers: Ray Winstone Films, Brett Goldstein
+- 2024-02-28 — Laura Smyth • Films To Be Buried With with Brett Goldstein #288 — speakers: Laura Smyth Films, Brett Goldstein
+- 2024-02-21 — Tyler James Williams • Films To Be Buried With with Brett Goldstein #287 — speakers: James Williams Films, Brett Goldstein
+- 2024-02-14 — Eddie Marsan • Films To Be Buried With with Brett Goldstein #286 — speakers: Brett Goldstein
+- 2024-02-07 — Leo Reich • Films To Be Buried With with Brett Goldstein #285 — speakers: Brett Goldstein
+- 2024-01-31 — Kyle MacLachlan • Films To Be Buried With with Brett Goldstein #284 — speakers: Kyle MacLachlan Films, Brett Goldstein
 - 2024-01-24 — Vincent D'Onofrio • Films To Be Buried With with Brett Goldstein #283 — speakers: Vincent D'Onofrio Films, Brett Goldstein
 - 2024-01-17 — Joel Kim Booster • Films To Be Buried With with Brett Goldstein #282 — speakers: Joel Kim Booster Films, Brett Goldstein
-- 2024-01-10 — Rob Auton • Films To Be Buried With with Brett Goldstein #281 — speakers: Rob Auton Films, Catch Rob, Brett Goldstein
+- 2024-01-10 — Rob Auton • Films To Be Buried With with Brett Goldstein #281 — speakers: Rob Auton Films, Brett Goldstein
 - 2024-01-03 — Chelsea Peretti • Films To Be Buried With with Brett Goldstein #280 — speakers: Brett Goldstein
 - 2023-12-27 — Buddy Peace Xmas Mix! • Films To Be Buried With with Brett Goldstein — speakers: Xmas Mix, Brett Goldstein
-- 2023-12-20 — Leslie Jones • Films To Be Buried With with Brett Goldstein #279 — speakers: Leslie Jones Films, Shirley Temple, Brett Goldstein
-- 2023-12-13 — Fortune Feimster • Films To Be Buried With with Brett Goldstein #278 — speakers: Arnold Schwarzenegger, Brett Goldstein
-- 2023-12-06 — Ed Zwick • Films To Be Buried With with Brett Goldstein #277 — speakers: Ed Zwick Films, Blood Diamond, Brett Goldstein
-- 2023-11-29 — Felicia Day • Films To Be Buried With with Brett Goldstein #276 — speakers: Felicia Day Films, Enjoy Video, Brett Goldstein
-- 2023-11-22 — Mo Welch • Films To Be Buried With with Brett Goldstein #275 — speakers: armpit hair, Brett Goldstein
-- 2023-11-15 — Tom Davis • Films To Be Buried With with Brett Goldstein #274 — speakers: Tom Davis Films, Tom Davis, Brett Goldstein
+- 2023-12-20 — Leslie Jones • Films To Be Buried With with Brett Goldstein #279 — speakers: Leslie Jones Films, Brett Goldstein
+- 2023-12-13 — Fortune Feimster • Films To Be Buried With with Brett Goldstein #278 — speakers: Brett Goldstein
+- 2023-12-06 — Ed Zwick • Films To Be Buried With with Brett Goldstein #277 — speakers: Ed Zwick Films, Brett Goldstein
+- 2023-11-29 — Felicia Day • Films To Be Buried With with Brett Goldstein #276 — speakers: Felicia Day Films, Brett Goldstein
+- 2023-11-22 — Mo Welch • Films To Be Buried With with Brett Goldstein #275 — speakers: Brett Goldstein
+- 2023-11-15 — Tom Davis • Films To Be Buried With with Brett Goldstein #274 — speakers: Tom Davis Films, Brett Goldstein
 - 2023-11-08 — Nish Kumar (live @ BFI) (episode 76 rewind!) • Films To Be Buried With with Brett Goldstein #273 — speakers: Brett Goldstein
 - 2023-11-01 — Rob Delaney (episode 107 rewind!) • Films To Be Buried With with Brett Goldstein #272 — speakers: Rob Delaney, Brett Goldstein
-- 2023-10-25 — Jen Brister - The Resurrection (episode 115 rewind!) • Films To Be Buried With with Brett Goldstein #271 — speakers: Basically Jen, Brett Goldstein
-- 2023-10-18 — Athena Kugblenu (episode 32 rewind!) • Films To Be Buried With with Brett Goldstein #270 — speakers: Athena Kugblenu, Billy Zane, Brett Goldstein
-- 2023-10-11 — Sarah Snook (episode 79 rewind!) • Films To Be Buried With with Brett Goldstein #269 — speakers: Sarah Snook, Emma Stone, Brett Goldstein
-- 2023-10-04 — Glenn Howerton • Films To Be Buried With with Brett Goldstein #268 — speakers: Glenn Howerton Films, Glenn Howerton, Spider Man Star, Brett Goldstein
+- 2023-10-25 — Jen Brister - The Resurrection (episode 115 rewind!) • Films To Be Buried With with Brett Goldstein #271 — speakers: Brett Goldstein
+- 2023-10-18 — Athena Kugblenu (episode 32 rewind!) • Films To Be Buried With with Brett Goldstein #270 — speakers: Athena Kugblenu, Brett Goldstein
+- 2023-10-11 — Sarah Snook (episode 79 rewind!) • Films To Be Buried With with Brett Goldstein #269 — speakers: Sarah Snook, Brett Goldstein
+- 2023-10-04 — Glenn Howerton • Films To Be Buried With with Brett Goldstein #268 — speakers: Glenn Howerton Films, Brett Goldstein
 - 2023-09-27 — Paul Chowdhry • Films To Be Buried With with Brett Goldstein #267 — speakers: Brett Goldstein
-- 2023-09-20 — Ruby McCollister • Films To Be Buried With with Brett Goldstein #266 — speakers: Ruby McCOLLISTER, Natasha Lyonne, Brett Goldstein
+- 2023-09-20 — Ruby McCollister • Films To Be Buried With with Brett Goldstein #266 — speakers: Brett Goldstein
 - 2023-09-13 — Cally Beaton • Films To Be Buried With with Brett Goldstein #265 — speakers: Brett Goldstein
-- 2023-09-06 — Harold Perrineau • Films To Be Buried With with Brett Goldstein #264 — speakers: Harold Perrineau Films, Harold Perrineau, Brett Goldstein
-- 2023-08-30 — Lou Taylor • Films To Be Buried With with Brett Goldstein #263 — speakers: Lou Taylor Films, Lou Taylor, Brett Goldstein
-- 2023-08-23 — Jason Sudeikis (Part 2) • Films To Be Buried With with Brett Goldstein #262 — speakers: Jason Sudeikis, Ted Lasso, Brett Goldstein
-- 2023-08-16 — Jason Sudeikis (Part 1) • Films To Be Buried With with Brett Goldstein #261 — speakers: Jason Sudeikis, Ted Lasso, Roy Kent, Brett Goldstein
-- 2023-08-09 — Adam Buxton • Films To Be Buried With with Brett Goldstein #260 — speakers: Adam Buxton Films, Adam Buxton, Joe Show Books Brett, Brett Goldstein
+- 2023-09-06 — Harold Perrineau • Films To Be Buried With with Brett Goldstein #264 — speakers: Harold Perrineau Films, Brett Goldstein
+- 2023-08-30 — Lou Taylor • Films To Be Buried With with Brett Goldstein #263 — speakers: Lou Taylor Films, Brett Goldstein
+- 2023-08-23 — Jason Sudeikis (Part 2) • Films To Be Buried With with Brett Goldstein #262 — speakers: Jason Sudeikis, Brett Goldstein
+- 2023-08-16 — Jason Sudeikis (Part 1) • Films To Be Buried With with Brett Goldstein #261 — speakers: Jason Sudeikis, Brett Goldstein
+- 2023-08-09 — Adam Buxton • Films To Be Buried With with Brett Goldstein #260 — speakers: Adam Buxton Films, Brett Goldstein
 - 2023-08-02 — Larry Dean (episode 110 rewind!) • Films To Be Buried With with Brett Goldstein #259 — speakers: Larry Dean, Brett Goldstein
 - 2023-07-26 — Moon Zappa (episode 129 rewind!) • Films To Be Buried With with Brett Goldstein #258 — speakers: Moon Zappa, Brett Goldstein
-- 2023-07-19 — Pete Holmes (episode 171 rewind!) • Films To Be Buried With with Brett Goldstein #257 — speakers: Pete Holmes, Brett Goldstein, Sweet Lady Val
-- 2023-07-12 — Pearl Mackie (episode 153 rewind!) • Films To Be Buried With with Brett Goldstein #256 — speakers: Pearl Mackie, Brett Goldstein, Judy Garland
+- 2023-07-19 — Pete Holmes (episode 171 rewind!) • Films To Be Buried With with Brett Goldstein #257 — speakers: Pete Holmes, Brett Goldstein
+- 2023-07-12 — Pearl Mackie (episode 153 rewind!) • Films To Be Buried With with Brett Goldstein #256 — speakers: Pearl Mackie, Brett Goldstein
 - 2023-07-05 — Heléne Yorke • Films To Be Buried With with Brett Goldstein #255 — speakers: Brett Goldstein
-- 2023-06-28 — Rob Savage (Host / The Boogeyman) • Films To Be Buried With with Brett Goldstein #254 — speakers: Rob Savage, Dashcam Host, Brett Goldstein
-- 2023-06-21 — Sam Richardson • Films To Be Buried With with Brett Goldstein #253 — speakers: Sam Richardson Films, Sam Richardson, Ted Lasso, Brett Goldstein
-- 2023-06-14 — Anna Bogutskaya • Films To Be Buried With with Brett Goldstein #252 — speakers: Anna Bogutskaya Films, Anna Bogutskaya, Brett Goldstein
-- 2023-06-07 — Justin Simien • Films To Be Buried With with Brett Goldstein #251 — speakers: Tyler Perry, Brett Goldstein
-- 2023-05-31 — James Lance • Films To Be Buried With with Brett Goldstein #250 — speakers: James Lance Films, James Lance, something'll happen, Ted Lasso, Brett Goldstein
-- 2023-05-24 — Neal Brennan • Films To Be Buried With with Brett Goldstein #249 — speakers: Neal Brennan Films, Mics Blocks, Brett Goldstein
-- 2023-05-17 — Wendy Wason • Films To Be Buried With with Brett Goldstein #248 — speakers: Wendy Wason Films, Prince Albert, Brett Goldstein
-- 2023-05-10 — Edgar Wright - The Resurrection • Films To Be Buried With with Brett Goldstein #247 — speakers: Resurrection Films, Edgar Wright, Brett Goldstein
-- 2023-05-03 — Himesh Patel • Films To Be Buried With with Brett Goldstein #246 — speakers: Himesh Patel, Brett Goldstein
+- 2023-06-28 — Rob Savage (Host / The Boogeyman) • Films To Be Buried With with Brett Goldstein #254 — speakers: Rob Savage, Brett Goldstein
+- 2023-06-21 — Sam Richardson • Films To Be Buried With with Brett Goldstein #253 — speakers: Sam Richardson Films, Brett Goldstein
+- 2023-06-14 — Anna Bogutskaya • Films To Be Buried With with Brett Goldstein #252 — speakers: Anna Bogutskaya Films, Brett Goldstein
+- 2023-06-07 — Justin Simien • Films To Be Buried With with Brett Goldstein #251 — speakers: Brett Goldstein
+- 2023-05-31 — James Lance • Films To Be Buried With with Brett Goldstein #250 — speakers: James Lance Films, Brett Goldstein
+- 2023-05-24 — Neal Brennan • Films To Be Buried With with Brett Goldstein #249 — speakers: Neal Brennan Films, Brett Goldstein
+- 2023-05-17 — Wendy Wason • Films To Be Buried With with Brett Goldstein #248 — speakers: Wendy Wason Films, Brett Goldstein
+- 2023-05-10 — Edgar Wright - The Resurrection • Films To Be Buried With with Brett Goldstein #247 — speakers: Resurrection Films, Brett Goldstein
+- 2023-05-03 — Himesh Patel • Films To Be Buried With with Brett Goldstein #246 — speakers: Brett Goldstein
 - 2023-04-26 — Nish Kumar - Films Of The Year 2022 (2 of 2) • Films To Be Buried With with Brett Goldstein #245 — speakers: Brett Goldstein
 - 2023-04-19 — Nish Kumar - Films Of The Year 2022 (1 of 2) • Films To Be Buried With with Brett Goldstein #244 — speakers: Brett Goldstein
 - 2023-04-12 — Adam Scott • Films To Be Buried With with Brett Goldstein #243 — speakers: Adam Scott Films, Brett Goldstein
@@ -9711,116 +9325,116 @@
 - 2023-03-29 — Suzi Ruffell (Episode 47 Rewind!) • Films To Be Buried With with Brett Goldstein #241 — speakers: Suzi Ruffell, Brett Goldstein
 - 2023-03-23 — Susan Wokoma (Episode 116 Rewind!) • Films To Be Buried With with Brett Goldstein #240 — speakers: Susan Wokoma, Brett Goldstein
 - 2023-03-16 — Sarah Kendall (live @ Underbelly Festival) (Episode 158 Rewind!) • Films To Be Buried With with Brett Goldstein #239 — speakers: Sarah Kendall, Brett Goldstein
-- 2023-03-12 — Menus To Be Buried With (with Ed Gamble, James Acaster & Brett Goldstein) - Judgement Day! • Comic Relief 2023 — speakers: Ed Gamble, James Acaster Brett Goldstein, Brett Goldstein, James Acaster, Socials ComicRelief Hashtag
+- 2023-03-12 — Menus To Be Buried With (with Ed Gamble, James Acaster & Brett Goldstein) - Judgement Day! • Comic Relief 2023 — speakers: Ed Gamble, James Acaster Brett Goldstein, Brett Goldstein
 - 2023-03-09 — Patton Oswalt (Episode 121 Rewind!) • Films To Be Buried With with Brett Goldstein #238 — speakers: Patton Oswalt, Brett Goldstein
-- 2023-03-02 — Barry Jenkins (Episode 160 Rewind!) • Films To Be Buried With with Brett Goldstein #237 — speakers: Barry Jenkins, Brett Goldstein, Clare Denis
-- 2023-02-23 — Luke Tennie • Films To Be Buried With with Brett Goldstein #236 — speakers: Luke Tennie Films, Luke Tennie, Brett Goldstein
-- 2023-02-16 — Camille Ucan - Judgement Day • Films To Be Buried With with Brett Goldstein #235 — speakers: Camille Ucan Judgement, James Beast, Brett Goldstein
-- 2023-02-09 — Michael Urie • Films To Be Buried With with Brett Goldstein #234 — speakers: Michael Urie Films, Michael Urie, Harrison Ford, Brett Goldstein
+- 2023-03-02 — Barry Jenkins (Episode 160 Rewind!) • Films To Be Buried With with Brett Goldstein #237 — speakers: Barry Jenkins, Brett Goldstein
+- 2023-02-23 — Luke Tennie • Films To Be Buried With with Brett Goldstein #236 — speakers: Luke Tennie Films, Brett Goldstein
+- 2023-02-16 — Camille Ucan - Judgement Day • Films To Be Buried With with Brett Goldstein #235 — speakers: Camille Ucan Judgement, Brett Goldstein
+- 2023-02-09 — Michael Urie • Films To Be Buried With with Brett Goldstein #234 — speakers: Michael Urie Films, Brett Goldstein
 - 2023-02-02 — Taylor Tomlinson • Films To Be Buried With with Brett Goldstein #233 — speakers: Taylor Tomlinson Films, Brett Goldstein
 - 2023-01-26 — Iain Stirling • Films To Be Buried With with Brett Goldstein #232 — speakers: Brett Goldstein
-- 2023-01-19 — John Kearns • Films To Be Buried With with Brett Goldstein #231 — speakers: John Kearns Films, Charlie Chocolate, Brett Goldstein
-- 2023-01-12 — Fern Brady • Films To Be Buried With with Brett Goldstein #230 — speakers: Ken Loach, Brett Goldstein
+- 2023-01-19 — John Kearns • Films To Be Buried With with Brett Goldstein #231 — speakers: John Kearns Films, Brett Goldstein
+- 2023-01-12 — Fern Brady • Films To Be Buried With with Brett Goldstein #230 — speakers: Brett Goldstein
 - 2023-01-05 — Lamorne Morris • Films To Be Buried With with Brett Goldstein #229 — speakers: Morris Films, Brett Goldstein
 - 2022-12-29 — Rachel Fairburn • Films To Be Buried With with Brett Goldstein #228 — speakers: Rachel Fairburn Films, Brett Goldstein
 - 2022-12-22 — Rhys James - The Resurrection! • Films To Be Buried With with Brett Goldstein #227 — speakers: Brett Goldstein
-- 2022-12-15 — Paul Walter Hauser • Films To Be Buried With with Brett Goldstein #226 — speakers: Richard Jewell, Brett Goldstein
+- 2022-12-15 — Paul Walter Hauser • Films To Be Buried With with Brett Goldstein #226 — speakers: Brett Goldstein
 - 2022-12-08 — Chloe Petts • Films To Be Buried With with Brett Goldstein #225 — speakers: Chloe Petts Films, Brett Goldstein
-- 2022-12-01 — DJ Yoda • Films To Be Buried With with Brett Goldstein #224 — speakers: DJ Yoda Films, David Lynch, Brett Goldstein
-- 2022-11-24 — James McNicholas - Judgement Day • Films To Be Buried With with Brett Goldstein #223 — speakers: James McNicholas Judgement, James McNICHOLAS, James aka Beast, Brett Goldstein
+- 2022-12-01 — DJ Yoda • Films To Be Buried With with Brett Goldstein #224 — speakers: DJ Yoda Films, Brett Goldstein
+- 2022-11-24 — James McNicholas - Judgement Day • Films To Be Buried With with Brett Goldstein #223 — speakers: James McNicholas Judgement, Brett Goldstein
 - 2022-11-17 — Helen Bauer • Films To Be Buried With with Brett Goldstein #222 — speakers: Helen Bauer Films, Brett Goldstein
 - 2022-11-10 — Ania Magliano • Films To Be Buried With with Brett Goldstein #221 — speakers: Ania Magliano Films, Brett Goldstein
 - 2022-11-03 — Jamie Demetriou (Episode 57 Rewind!) • Films To Be Buried With with Brett Goldstein #220 — speakers: Jamie Demetriou, Brett Goldstein
 - 2022-10-26 — Romesh Ranganathan (Episode 93 Rewind!) • Films To Be Buried With with Brett Goldstein #219 — speakers: Brett Goldstein
 - 2022-10-19 — Yvette Nicole Brown (Episode 137 Rewind!) • Films To Be Buried With with Brett Goldstein #218 — speakers: Yvette Nicole Brown, Brett Goldstein
-- 2022-10-12 — James Acaster (Episode 1 Rewind!) • Films To Be Buried With with Brett Goldstein #217 — speakers: James Acaster, Brett Goldstein, James Online Imdb Tour
-- 2022-10-05 — Russell Howard • Films To Be Buried With with Brett Goldstein #216 — speakers: Russell Howard Films, Roy Sin, Brett Goldstein
+- 2022-10-12 — James Acaster (Episode 1 Rewind!) • Films To Be Buried With with Brett Goldstein #217 — speakers: James Acaster, Brett Goldstein
+- 2022-10-05 — Russell Howard • Films To Be Buried With with Brett Goldstein #216 — speakers: Russell Howard Films, Brett Goldstein
 - 2022-09-28 — Alyssa Limperis • Films To Be Buried With with Brett Goldstein #215 — speakers: Alyssa Limperis Films, Brett Goldstein
-- 2022-09-21 — Quinta Brunson • Films To Be Buried With with Brett Goldstein #214 — speakers: Quinta Brunson Films, Abbott Elementary, Brett Goldstein
-- 2022-09-14 — Phil Dunster (live @ Hackney Empire) • Films To Be Buried With with Brett Goldstein #213 — speakers: Phil Dunster, Ted Lasso, Jamie Tartt du-du-dudu-dudu, Imdb Instagram Twitter, Brett Goldstein
+- 2022-09-21 — Quinta Brunson • Films To Be Buried With with Brett Goldstein #214 — speakers: Quinta Brunson Films, Brett Goldstein
+- 2022-09-14 — Phil Dunster (live @ Hackney Empire) • Films To Be Buried With with Brett Goldstein #213 — speakers: Phil Dunster, Brett Goldstein
 - 2022-09-07 — Ed Gamble - Judgement Day • Films To Be Buried With with Brett Goldstein #212 — speakers: Brett Goldstein
-- 2022-08-31 — Toheeb Jimoh - The Resurrection! • Films To Be Buried With with Brett Goldstein #211 — speakers: Ted Lasso, Sam Obisanya, Brett Goldstein
+- 2022-08-31 — Toheeb Jimoh - The Resurrection! • Films To Be Buried With with Brett Goldstein #211 — speakers: Brett Goldstein
 - 2022-08-24 — Sikisa • Films To Be Buried With with Brett Goldstein #210 — speakers: Brett Goldstein
 - 2022-08-17 — Sarah Marshall • Films To Be Buried With with Brett Goldstein #209 — speakers: Sarah Marshall Films, Brett Goldstein
-- 2022-08-10 — Zach Braff • Films To Be Buried With with Brett Goldstein #208 — speakers: Zach Braff Films, Zach Braff, Ted Lasso, Brett Goldstein
-- 2022-08-03 — Michael Akadiri • Films To Be Buried With with Brett Goldstein #207 — speakers: Michael Akadiri Films, Michael Akadiri, Edinburgh Fringe, Brett Goldstein
-- 2022-07-27 — Dexter Fletcher • Films To Be Buried With with Brett Goldstein #206 — speakers: Dexter Fletcher Films, Dexter Fletcher, Press Gang, Bohemian Rhapsody, Brett Goldstein
-- 2022-07-20 — Jessica Knappett (live @ Queen Elizabeth Hall) • Films To Be Buried With with Brett Goldstein #205 — speakers: Jessica Knappett, Elizabeth Hall, Jessica Knappet, Brett Goldstein
-- 2022-07-13 — Jim Gaffigan • Films To Be Buried With with Brett Goldstein #204 — speakers: Jim Gaffigan Films, Jim Gaffigan, Jim Standup Imdb Instagram, Brett Goldstein
-- 2022-07-06 — Sarah Niles • Films To Be Buried With with Brett Goldstein #203 — speakers: Sarah Niles Films, Sharon Fieldstone, Ted Lasso, Mike Leigh, Brett Goldstein
-- 2022-06-29 — Bill Hader • Films To Be Buried With with Brett Goldstein #202 — speakers: Bill Hader Films, Barry Imdb Instagram, Brett Goldstein
-- 2022-06-01 — Mark Kermode - The Resurrection! • Films To Be Buried With with Brett Goldstein #201 — speakers: Wittertainer Mark Kermode, Mark Kermode, Brett Goldstein
-- 2022-05-25 — James Acaster - Judgement Day • Films To Be Buried With with Brett Goldstein #200 — speakers: James Acaster Judgement, James Acaster, James Online Imdb Tour, Brett Goldstein
+- 2022-08-10 — Zach Braff • Films To Be Buried With with Brett Goldstein #208 — speakers: Zach Braff Films, Brett Goldstein
+- 2022-08-03 — Michael Akadiri • Films To Be Buried With with Brett Goldstein #207 — speakers: Michael Akadiri Films, Brett Goldstein
+- 2022-07-27 — Dexter Fletcher • Films To Be Buried With with Brett Goldstein #206 — speakers: Dexter Fletcher Films, Brett Goldstein
+- 2022-07-20 — Jessica Knappett (live @ Queen Elizabeth Hall) • Films To Be Buried With with Brett Goldstein #205 — speakers: Jessica Knappett, Elizabeth Hall, Brett Goldstein
+- 2022-07-13 — Jim Gaffigan • Films To Be Buried With with Brett Goldstein #204 — speakers: Jim Gaffigan Films, Brett Goldstein
+- 2022-07-06 — Sarah Niles • Films To Be Buried With with Brett Goldstein #203 — speakers: Sarah Niles Films, Brett Goldstein
+- 2022-06-29 — Bill Hader • Films To Be Buried With with Brett Goldstein #202 — speakers: Bill Hader Films, Brett Goldstein
+- 2022-06-01 — Mark Kermode - The Resurrection! • Films To Be Buried With with Brett Goldstein #201 — speakers: Brett Goldstein
+- 2022-05-25 — James Acaster - Judgement Day • Films To Be Buried With with Brett Goldstein #200 — speakers: James Acaster Judgement, Brett Goldstein
 - 2022-05-18 — The Perfectly On Time Films Of The Year 2021 Special w/ Nish Kumar • Films To Be Buried With with Brett Goldstein #199 — speakers: Brett Goldstein
 - 2022-05-11 — The Perfectly On Time Films Of The Year 2021 Special w/ Nish Kumar • Films To Be Buried With with Brett Goldstein #198 — speakers: Brett Goldstein
-- 2022-05-04 — Fran Kranz (writer/director of Mass) • Films To Be Buried With with Brett Goldstein #197 — speakers: Fran Kranz, Mark Kermode, Brett Goldstein
+- 2022-05-04 — Fran Kranz (writer/director of Mass) • Films To Be Buried With with Brett Goldstein #197 — speakers: Fran Kranz, Brett Goldstein
 - 2022-04-27 — Rob Deering • Films To Be Buried With with Brett Goldstein #196 — speakers: Rob Deering Films, Brett Goldstein
 - 2022-04-20 — Punkie Johnson - The Resurrection! • Films To Be Buried With with Brett Goldstein #195 — speakers: Brett Goldstein
 - 2022-04-13 — Rachel Bloom • Films To Be Buried With with Brett Goldstein #194 — speakers: Rachel Bloom Films, Brett Goldstein
 - 2022-04-06 — Nathaniel Metcalfe - The Resurrection! • Films To Be Buried With with Brett Goldstein #193 — speakers: Brett Goldstein
-- 2022-03-30 — Fin Taylor • Films To Be Buried With with Brett Goldstein #192 — speakers: Fin Taylor Films, Nick Cage, Fin Links, Brett Goldstein
-- 2022-03-24 — Clara Amfo • Films To Be Buried With with Brett Goldstein #191 — speakers: Clara Amfo Films, Clara Links, Brett Goldstein
+- 2022-03-30 — Fin Taylor • Films To Be Buried With with Brett Goldstein #192 — speakers: Fin Taylor Films, Brett Goldstein
+- 2022-03-24 — Clara Amfo • Films To Be Buried With with Brett Goldstein #191 — speakers: Clara Amfo Films, Brett Goldstein
 - 2022-03-17 — Paul Feig • Films To Be Buried With with Brett Goldstein #190 — speakers: Paul Feig Films, Brett Goldstein
-- 2022-03-13 — Menus To Be Buried With (with Ed Gamble, James Acaster & Brett Goldstein) - The Resurrection! • Comic Relief 2022 — speakers: Ed Gamble, James Acaster Brett Goldstein, James Acaster, Brett Goldstein, Comic Relief
-- 2022-03-10 — Joey King • Films To Be Buried With with Brett Goldstein #189 — speakers: Joey King Films, Jesse James, Brett Goldstein
-- 2022-03-03 — Judd Apatow • Films To Be Buried With with Brett Goldstein #188 — speakers: Judd Apatow Films, Check Judd, Brett Goldstein
-- 2022-02-24 — Mark Frost • Films To Be Buried With with Brett Goldstein #187 — speakers: Mark Frost Films, Mark Frost, David Lynch, Twin Peaks, Brett Goldstein
-- 2022-02-17 — Ellie Taylor • Films To Be Buried With with Brett Goldstein #186 — speakers: Ellie Taylor Films, Ted Lasso, Brett Goldstein
+- 2022-03-13 — Menus To Be Buried With (with Ed Gamble, James Acaster & Brett Goldstein) - The Resurrection! • Comic Relief 2022 — speakers: Ed Gamble, James Acaster Brett Goldstein, Brett Goldstein
+- 2022-03-10 — Joey King • Films To Be Buried With with Brett Goldstein #189 — speakers: Joey King Films, Brett Goldstein
+- 2022-03-03 — Judd Apatow • Films To Be Buried With with Brett Goldstein #188 — speakers: Judd Apatow Films, Brett Goldstein
+- 2022-02-24 — Mark Frost • Films To Be Buried With with Brett Goldstein #187 — speakers: Mark Frost Films, Brett Goldstein
+- 2022-02-17 — Ellie Taylor • Films To Be Buried With with Brett Goldstein #186 — speakers: Ellie Taylor Films, Brett Goldstein
 - 2022-02-10 — Dane Baptiste - The Resurrection! • Films To Be Buried With with Brett Goldstein #185 — speakers: Brett Goldstein
 - 2022-02-03 — Rich Wilson • Films To Be Buried With with Brett Goldstein #184 — speakers: Rich Wilson Films, Brett Goldstein
-- 2022-01-27 — Mike Birbiglia • Films To Be Buried With with Brett Goldstein #183 — speakers: Jameela Jamil here, Gillian Jacobs, Mike Links Home Imdb, Brett Goldstein
-- 2022-01-20 — Daniel Rigby • Films To Be Buried With with Brett Goldstein #182 — speakers: Daniel Rigby Films, Daniel’s Laughing Horse, Karate Kid, Brett Goldstein
+- 2022-01-27 — Mike Birbiglia • Films To Be Buried With with Brett Goldstein #183 — speakers: Brett Goldstein
+- 2022-01-20 — Daniel Rigby • Films To Be Buried With with Brett Goldstein #182 — speakers: Daniel Rigby Films, Brett Goldstein
 - 2022-01-13 — Sean McLoughlin - The Resurrection! • Films To Be Buried With with Brett Goldstein #181 — speakers: Sean McLoughlin, Brett Goldstein
-- 2022-01-06 — Danielle Pinnock • Films To Be Buried With with Brett Goldstein #180 — speakers: Danielle Pinnock, Jersey Girl, Danielle Links, Brett Goldstein
-- 2021-12-30 — Kevin Pollak • Films To Be Buried With with Brett Goldstein #179 — speakers: Kevin Pollak Films, Christopher Walken, Instagram Alchemy, Brett Goldstein
+- 2022-01-06 — Danielle Pinnock • Films To Be Buried With with Brett Goldstein #180 — speakers: Brett Goldstein
+- 2021-12-30 — Kevin Pollak • Films To Be Buried With with Brett Goldstein #179 — speakers: Kevin Pollak Films, Brett Goldstein
 - 2021-12-25 — Buddy Peace Xmas Mix Special! • Films To Be Buried With with Brett Goldstein — speakers: Xmas Mix, Brett Goldstein
-- 2021-12-23 — Naomi Ekperigin • Films To Be Buried With with Brett Goldstein #178 — speakers: Naomi Ekperigin Films, Naomi Ekperigin, Suzy Scribbles, Brett Goldstein
+- 2021-12-23 — Naomi Ekperigin • Films To Be Buried With with Brett Goldstein #178 — speakers: Naomi Ekperigin Films, Brett Goldstein
 - 2021-12-16 — Jimmy Pardo • Films To Be Buried With with Brett Goldstein #177 — speakers: Jimmy Pardo Films, Brett Goldstein
-- 2021-12-09 — Rory Scovel • Films To Be Buried With with Brett Goldstein #176 — speakers: Rory Scovel, Brett Goldstein
-- 2021-12-02 — Jim Cummings • Films To Be Buried With with Brett Goldstein #175 — speakers: Jim Links Thunder, Brett Goldstein
-- 2021-11-25 — Brendan Hunt - The Resurrection! • Films To Be Buried With with Brett Goldstein #174 — speakers: Brendan Links, Brett Goldstein
-- 2021-11-18 — Bobcat Goldthwait • Films To Be Buried With with Brett Goldstein #173 — speakers: Bobcat Goldthwait Films, Dana Gould, Robin Williams, Jimmy Kimmel, Michael Keaton, Brett Goldstein
-- 2021-11-11 — Jimmy Carr • Films To Be Buried With with Brett Goldstein #172 — speakers: Jimmy Carr Films, Jimmy Carr, Before Laughter, Brett Goldstein
-- 2021-11-04 — Pete Holmes • Films To Be Buried With with Brett Goldstein #171 — speakers: Pete Holmes Films, Sweet Lady Val, Brett Goldstein
-- 2021-10-27 — Zainab Johnson • Films To Be Buried With with Brett Goldstein #170 — speakers: Zainab Johnson Films, Zainab Johnson, Julia Roberts, Zainab Links, Brett Goldstein
-- 2021-10-20 — Ben Barnes • Films To Be Buried With with Brett Goldstein #169 — speakers: Ben Barnes Films, Ben Barnes, Brett Goldstein
-- 2021-10-13 — Phil Nichol • Films To Be Buried With with Brett Goldstein #168 — speakers: Phil Nichol, Jamie Comedian'S Retraining, Brett Goldstein
-- 2021-10-06 — Meredith Salenger • Films To Be Buried With with Brett Goldstein #167 — speakers: Meredith Salenger Films, Meredith Salenger, Hear Brett, Brett Goldstein
-- 2021-09-29 — Loyiso Gola • Films To Be Buried With with Brett Goldstein #166 — speakers: kung fu, Brett Goldstein
-- 2021-09-22 — Yvette Nicole Brown - The Resurrection • Films To Be Buried With with Brett Goldstein #165 — speakers: Ted Lasso, Brett Goldstein
+- 2021-12-09 — Rory Scovel • Films To Be Buried With with Brett Goldstein #176 — speakers: Brett Goldstein
+- 2021-12-02 — Jim Cummings • Films To Be Buried With with Brett Goldstein #175 — speakers: Brett Goldstein
+- 2021-11-25 — Brendan Hunt - The Resurrection! • Films To Be Buried With with Brett Goldstein #174 — speakers: Brett Goldstein
+- 2021-11-18 — Bobcat Goldthwait • Films To Be Buried With with Brett Goldstein #173 — speakers: Bobcat Goldthwait Films, Brett Goldstein
+- 2021-11-11 — Jimmy Carr • Films To Be Buried With with Brett Goldstein #172 — speakers: Jimmy Carr Films, Brett Goldstein
+- 2021-11-04 — Pete Holmes • Films To Be Buried With with Brett Goldstein #171 — speakers: Pete Holmes Films, Brett Goldstein
+- 2021-10-27 — Zainab Johnson • Films To Be Buried With with Brett Goldstein #170 — speakers: Zainab Johnson Films, Brett Goldstein
+- 2021-10-20 — Ben Barnes • Films To Be Buried With with Brett Goldstein #169 — speakers: Ben Barnes Films, Brett Goldstein
+- 2021-10-13 — Phil Nichol • Films To Be Buried With with Brett Goldstein #168 — speakers: Phil Nichol, Brett Goldstein
+- 2021-10-06 — Meredith Salenger • Films To Be Buried With with Brett Goldstein #167 — speakers: Meredith Salenger Films, Brett Goldstein
+- 2021-09-29 — Loyiso Gola • Films To Be Buried With with Brett Goldstein #166 — speakers: Brett Goldstein
+- 2021-09-22 — Yvette Nicole Brown - The Resurrection • Films To Be Buried With with Brett Goldstein #165 — speakers: Brett Goldstein
 - 2021-09-15 — Desiree Burch • Films To Be Buried With with Brett Goldstein #164 — speakers: Brett Goldstein
 - 2021-09-08 — Annie McGrath • Films To Be Buried With with Brett Goldstein #163 — speakers: Annie McGrath Films, Brett Goldstein
-- 2021-09-01 — Nia DaCosta • Films To Be Buried With with Brett Goldstein #162 — speakers: Nia DaCosta Films, Nia DaCosta, Brett Goldstein
-- 2021-08-25 — Camille Ucan - The Resurrection • Films To Be Buried With with Brett Goldstein #161 — speakers: Resurrection Films, Camille Ucan, James McNicholas, Camille Links, Brett Goldstein
-- 2021-08-18 — Barry Jenkins • Films To Be Buried With with Brett Goldstein #160 — speakers: Barry Jenkins Films, Barry Jenkins, Clare Denis, Barry Links Imdb Twitter, Brett Goldstein
-- 2021-08-11 — Daliso Chaponda • Films To Be Buried With with Brett Goldstein #159 — speakers: Chaponda Films, Daliso Links, Brett Goldstein
+- 2021-09-01 — Nia DaCosta • Films To Be Buried With with Brett Goldstein #162 — speakers: Nia DaCosta Films, Brett Goldstein
+- 2021-08-25 — Camille Ucan - The Resurrection • Films To Be Buried With with Brett Goldstein #161 — speakers: Resurrection Films, Brett Goldstein
+- 2021-08-18 — Barry Jenkins • Films To Be Buried With with Brett Goldstein #160 — speakers: Barry Jenkins Films, Brett Goldstein
+- 2021-08-11 — Daliso Chaponda • Films To Be Buried With with Brett Goldstein #159 — speakers: Chaponda Films, Brett Goldstein
 - 2021-08-04 — Sarah Kendall (live @ Underbelly Festival) • Films To Be Buried With with Brett Goldstein #158 — speakers: Sarah Kendall, Brett Goldstein
-- 2021-07-28 — Chelsey Crisp • Films To Be Buried With with Brett Goldstein #157 — speakers: Chelsey Crisp Films, Rhett Reese, Dutchess Riot, Chelsey Links, Brett Goldstein
-- 2021-07-21 — Danny Wallace • Films To Be Buried With with Brett Goldstein #156 — speakers: Danny Wallace Films, Yes Man, Danny Wallace, Danny’s Yes, Twitter Assembly, Brett Goldstein
+- 2021-07-28 — Chelsey Crisp • Films To Be Buried With with Brett Goldstein #157 — speakers: Chelsey Crisp Films, Brett Goldstein
+- 2021-07-21 — Danny Wallace • Films To Be Buried With with Brett Goldstein #156 — speakers: Danny Wallace Films, Brett Goldstein
 - 2021-07-14 — Romesh Ranganathan - The Resurrection • Films To Be Buried With with Brett Goldstein #155 — speakers: Brett Goldstein
-- 2021-07-07 — Rose Johnson • Films To Be Buried With with Brett Goldstein #154 — speakers: Rose Johnson Films, Birthday Girl Rose Johnson, Instagram Rose, Brett Goldstein
-- 2021-06-30 — Pearl Mackie • Films To Be Buried With with Brett Goldstein #153 — speakers: Pearl Mackie Films, Judy Garland, Brett Goldstein
-- 2021-06-23 — Joe Wilkinson • Films To Be Buried With with Brett Goldstein #152 — speakers: Joe Wilkinson Films, Joe Wilkinson, Joe Links Imdb, Brett Goldstein
-- 2021-06-16 — Maisie Williams • Films To Be Buried With with Brett Goldstein #151 — speakers: Maisie Williams Films, Arya Stark, Brett Goldstein
-- 2021-06-09 — Scroobius Pip - The Resurrection • Films To Be Buried With with Brett Goldstein #150 — speakers: Young Pip, Brett Goldstein
-- 2021-06-02 — Russell T. Davies • Films To Be Buried With with Brett Goldstein #149 — speakers: Davies Films, Who Midnight, Brett Goldstein
-- 2021-05-26 — Chris Addison • Films To Be Buried With with Brett Goldstein #148 — speakers: Chris Addison Films, Chris Addison, Edinburgh Fringe, Chris Links Imdb Instagram, Brett Goldstein
-- 2021-05-19 — Teri Hatcher • Films To Be Buried With with Brett Goldstein #147 — speakers: Teri Hatcher Films, superperson Teri, Lois Lane, Brett Goldstein
-- 2021-05-12 — Jenny Johnson • Films To Be Buried With with Brett Goldstein #146 — speakers: Jenny Johnson Films, Jenny Johnson, Brett Goldstein
+- 2021-07-07 — Rose Johnson • Films To Be Buried With with Brett Goldstein #154 — speakers: Rose Johnson Films, Brett Goldstein
+- 2021-06-30 — Pearl Mackie • Films To Be Buried With with Brett Goldstein #153 — speakers: Pearl Mackie Films, Brett Goldstein
+- 2021-06-23 — Joe Wilkinson • Films To Be Buried With with Brett Goldstein #152 — speakers: Joe Wilkinson Films, Brett Goldstein
+- 2021-06-16 — Maisie Williams • Films To Be Buried With with Brett Goldstein #151 — speakers: Maisie Williams Films, Brett Goldstein
+- 2021-06-09 — Scroobius Pip - The Resurrection • Films To Be Buried With with Brett Goldstein #150 — speakers: Brett Goldstein
+- 2021-06-02 — Russell T. Davies • Films To Be Buried With with Brett Goldstein #149 — speakers: Davies Films, Brett Goldstein
+- 2021-05-26 — Chris Addison • Films To Be Buried With with Brett Goldstein #148 — speakers: Chris Addison Films, Brett Goldstein
+- 2021-05-19 — Teri Hatcher • Films To Be Buried With with Brett Goldstein #147 — speakers: Teri Hatcher Films, Brett Goldstein
+- 2021-05-12 — Jenny Johnson • Films To Be Buried With with Brett Goldstein #146 — speakers: Jenny Johnson Films, Brett Goldstein
 - 2021-05-05 — Neil Marshall (director) • Films To Be Buried With with Brett Goldstein #145 — speakers: Neil Marshall, Brett Goldstein
 - 2021-04-28 — Tiffany Stevenson • Films To Be Buried With with Brett Goldstein #144 — speakers: Brett Goldstein
-- 2021-04-21 — Drew Pearce • Films To Be Buried With with Brett Goldstein #143 — speakers: fabulouss screenwriter, Iron Man, Brett Goldstein
-- 2021-04-14 — Ashley Nicole Black • Films To Be Buried With with Brett Goldstein #142 — speakers: Ashley Nicole, Ashley Links, Brett Goldstein
-- 2021-04-07 — Doug Benson • Films To Be Buried With with Brett Goldstein #141 — speakers: Doug Benson Films, Doug Links Twitter Doug, Brett Goldstein
+- 2021-04-21 — Drew Pearce • Films To Be Buried With with Brett Goldstein #143 — speakers: Brett Goldstein
+- 2021-04-14 — Ashley Nicole Black • Films To Be Buried With with Brett Goldstein #142 — speakers: Brett Goldstein
+- 2021-04-07 — Doug Benson • Films To Be Buried With with Brett Goldstein #141 — speakers: Doug Benson Films, Brett Goldstein
 - 2021-03-31 — Gaby Roslin • Films To Be Buried With with Brett Goldstein #140 — speakers: Gaby Roslin Films, Brett Goldstein
 - 2021-03-25 — Jamali Maddix • Films To Be Buried With with Brett Goldstein #139 — speakers: Jamali Maddix Films, Brett Goldstein
-- 2021-03-18 — FTBBW REWIND! • Roisin Conaty (live @ The BFI) • Films To Be Buried With with Brett Goldstein — speakers: Brett Goldstein, Pat Sharpe
-- 2021-03-14 — Menus To Be Buried With (with Ed Gamble, James Acaster & Brett Goldstein) • Comic Relief 2021 — speakers: Ed Gamble, James Acaster Brett Goldstein, Comic Relief, Brett Goldstein
-- 2021-03-11 — James Gill (live at Always Be Comedy) • Films To Be Buried With with Brett Goldstein #138 — speakers: James Gill, Comedy so, Buddy Peace, James Links, Brett Goldstein
+- 2021-03-18 — FTBBW REWIND! • Roisin Conaty (live @ The BFI) • Films To Be Buried With with Brett Goldstein — speakers: Brett Goldstein
+- 2021-03-14 — Menus To Be Buried With (with Ed Gamble, James Acaster & Brett Goldstein) • Comic Relief 2021 — speakers: Ed Gamble, James Acaster Brett Goldstein, Brett Goldstein
+- 2021-03-11 — James Gill (live at Always Be Comedy) • Films To Be Buried With with Brett Goldstein #138 — speakers: James Gill, Brett Goldstein
 - 2021-03-04 — Yvette Nicole Brown • Films To Be Buried With with Brett Goldstein #137 — speakers: Brett Goldstein
-- 2021-02-25 — Matthew Crosby - The Resurrection • Films To Be Buried With with Brett Goldstein #136 — speakers: Gamble Crosby, Brett Goldstein
-- 2021-02-18 — Kiell Smith-Bynoe • Films To Be Buried With with Brett Goldstein #135 — speakers: Kiell Smith-Bynoe Films, ya worry, Instagram Youtube, Brett Goldstein
-- 2021-02-11 — Brene Brown • Films To Be Buried With with Brett Goldstein #134 — speakers: Brene Brown Films, Ted Talks, Brett Goldstein
+- 2021-02-25 — Matthew Crosby - The Resurrection • Films To Be Buried With with Brett Goldstein #136 — speakers: Brett Goldstein
+- 2021-02-18 — Kiell Smith-Bynoe • Films To Be Buried With with Brett Goldstein #135 — speakers: Kiell Smith-Bynoe Films, Brett Goldstein
+- 2021-02-11 — Brene Brown • Films To Be Buried With with Brett Goldstein #134 — speakers: Brene Brown Films, Brett Goldstein
 - 2021-02-04 — Nish Kumar (Films Of 2020 Special pt. 2 of 2) • Films To Be Buried With with Brett Goldstein #133 — speakers: Brett Goldstein
 - 2021-01-28 — Nish Kumar (Films Of 2020 Special pt. 1 of 2) • Films To Be Buried With with Brett Goldstein #132 — speakers: Brett Goldstein
 - 2021-01-21 — Julian Barratt • Films To Be Buried With with Brett Goldstein #131 — speakers: Julian Barratt Films, Brett Goldstein
@@ -9828,132 +9442,132 @@
 - 2020-12-31 — Curtis Stigers • Films To Be Buried With with Brett Goldstein #128 — speakers: Brett Goldstein
 - 2020-12-24 — Edgar Wright (part 2 of 2) • Films To Be Buried With with Brett Goldstein #127 — speakers: Edgar Wright, Brett Goldstein
 - 2020-12-17 — Edgar Wright (part 1 of 2) • Films To Be Buried With with Brett Goldstein #126 — speakers: Edgar Wright, Brett Goldstein
-- 2020-12-10 — James McNicholas - The Resurrection • Films To Be Buried With with Brett Goldstein #125 — speakers: James McNicholas, James Don’T, Brett Goldstein
-- 2020-12-03 — Christa Miller • Films To Be Buried With with Brett Goldstein #124 — speakers: Christa Miller Films, Christa Miller, Cougar Town, Brett Goldstein
-- 2020-11-26 — Rhett Reese • Films To Be Buried With with Brett Goldstein #123 — speakers: Rhett Reese Films, Paul Wernick, Ryan Reynolds, Brett Goldstein
+- 2020-12-10 — James McNicholas - The Resurrection • Films To Be Buried With with Brett Goldstein #125 — speakers: James McNicholas, Brett Goldstein
+- 2020-12-03 — Christa Miller • Films To Be Buried With with Brett Goldstein #124 — speakers: Christa Miller Films, Brett Goldstein
+- 2020-11-26 — Rhett Reese • Films To Be Buried With with Brett Goldstein #123 — speakers: Rhett Reese Films, Brett Goldstein
 - 2020-11-19 — Kemah Bob • Films To Be Buried With with Brett Goldstein #122 — speakers: Kemah Bob Films, Brett Goldstein
 - 2020-11-12 — Patton Oswalt • Films To Be Buried With with Brett Goldstein #121 — speakers: Brett Goldstein
-- 2020-11-05 — Mary Beth Barone • Films To Be Buried With with Brett Goldstein #120 — speakers: Mary Beth Barone Films, Mary Beth Barone, Mary Beth, Chris Nolan, Instagram Mary Beth, Brett Goldstein
-- 2020-10-29 — Brendan Hunt • Films To Be Buried With with Brett Goldstein #119 — speakers: Brendan Hunt Films, Ted Lasso, Gary Lineker, Brendan Hunt, Brett Goldstein
-- 2020-10-21 — Michael Jibson • Films To Be Buried With with Brett Goldstein #118 — speakers: Michael Jibson Films, Michael Jibson, Hamilton Michael, Rob Reiner, Brett Goldstein
+- 2020-11-05 — Mary Beth Barone • Films To Be Buried With with Brett Goldstein #120 — speakers: Mary Beth Barone Films, Brett Goldstein
+- 2020-10-29 — Brendan Hunt • Films To Be Buried With with Brett Goldstein #119 — speakers: Brendan Hunt Films, Brett Goldstein
+- 2020-10-21 — Michael Jibson • Films To Be Buried With with Brett Goldstein #118 — speakers: Michael Jibson Films, Brett Goldstein
 - 2020-10-14 — Luke McQueen • Films To Be Buried With with Brett Goldstein #117 — speakers: Brett Goldstein
 - 2020-10-07 — Susan Wokoma • Films To Be Buried With with Brett Goldstein #116 — speakers: Susan Wokoma Films, Brett Goldstein
 - 2020-09-30 — Jen Brister - The Resurrection • Films To Be Buried With with Brett Goldstein #115 — speakers: Brett Goldstein
-- 2020-09-23 — Hannah Waddingham • Films To Be Buried With with Brett Goldstein #114 — speakers: Hannah Waddingham, Ted Lasso, Brett Goldstein
-- 2020-09-16 — Stuart Laws • Films To Be Buried With with Brett Goldstein #113 — speakers: Stuart Laws Films, Stuart Laws, Brett Goldstein
+- 2020-09-23 — Hannah Waddingham • Films To Be Buried With with Brett Goldstein #114 — speakers: Hannah Waddingham, Brett Goldstein
+- 2020-09-16 — Stuart Laws • Films To Be Buried With with Brett Goldstein #113 — speakers: Stuart Laws Films, Brett Goldstein
 - 2020-09-09 — Archie Maddocks • Films To Be Buried With with Brett Goldstein #112 — speakers: Brett Goldstein
-- 2020-09-02 — Neil Flynn • Films To Be Buried With with Brett Goldstein #111 — speakers: Flynn Films, Neil Flynn, Brett Goldstein
+- 2020-09-02 — Neil Flynn • Films To Be Buried With with Brett Goldstein #111 — speakers: Flynn Films, Brett Goldstein
 - 2020-08-26 — Larry Dean • Films To Be Buried With with Brett Goldstein #110 — speakers: Larry Dean Films, Brett Goldstein
-- 2020-08-19 — Toheeb Jimoh • Films To Be Buried With with Brett Goldstein #109 — speakers: Jimoh Films, Ted Lasso, Brett Goldstein
-- 2020-08-12 — Natalia Tena • Films To Be Buried With with Brett Goldstein #108 — speakers: Molotov Jukebox, Brett Goldstein
-- 2020-08-05 — Rob Delaney • Films To Be Buried With with Brett Goldstein #107 — speakers: Rob Delaney Films, Rob Delaney, Brett Goldstein
+- 2020-08-19 — Toheeb Jimoh • Films To Be Buried With with Brett Goldstein #109 — speakers: Jimoh Films, Brett Goldstein
+- 2020-08-12 — Natalia Tena • Films To Be Buried With with Brett Goldstein #108 — speakers: Brett Goldstein
+- 2020-08-05 — Rob Delaney • Films To Be Buried With with Brett Goldstein #107 — speakers: Rob Delaney Films, Brett Goldstein
 - 2020-07-29 — Jameela Jamil - The Resurrection • Films To Be Buried With with Brett Goldstein #106 — speakers: Brett Goldstein
-- 2020-07-22 — Matt Forde • Films To Be Buried With with Brett Goldstein #105 — speakers: Matt Forde Films, Santa Claus, Matt Forde, Brett Goldstein
-- 2020-07-15 — Ed Gamble - The Resurrection • Films To Be Buried With with Brett Goldstein #104 — speakers: n’t Ed, ED Gamble, Brett Goldstein
-- 2020-07-08 — Gillian Jacobs • Films To Be Buried With with Brett Goldstein #103 — speakers: Gillian Jacobs Films, McCauley Culkin, Brett Goldstein
+- 2020-07-22 — Matt Forde • Films To Be Buried With with Brett Goldstein #105 — speakers: Matt Forde Films, Brett Goldstein
+- 2020-07-15 — Ed Gamble - The Resurrection • Films To Be Buried With with Brett Goldstein #104 — speakers: Brett Goldstein
+- 2020-07-08 — Gillian Jacobs • Films To Be Buried With with Brett Goldstein #103 — speakers: Gillian Jacobs Films, Brett Goldstein
 - 2020-07-01 — Richard Osman • Films To Be Buried With with Brett Goldstein #102 — speakers: Richard Osman Films, Brett Goldstein
 - 2020-06-24 — Thanyia Moore • Films To Be Buried With with Brett Goldstein #101 — speakers: Thanyia Moore Films, Brett Goldstein
 - 2020-06-17 — James Acaster - The Resurrection • Films To Be Buried With with Brett Goldstein #100 — speakers: Brett Goldstein
-- 2020-06-10 — Sharon Stone • Films To Be Buried With with Brett Goldstein #99 — speakers: Sharon Stone Films, Sharon Stone, Basic Instinct, Brett Goldstein
-- 2020-06-03 — Dane Baptiste (Revisited) • Films To Be Buried With with Brett Goldstein — speakers: Brett Goldstein Dearest, Dane Baptiste, Wesley Snipes, Wong Foo, Brett Goldstein
+- 2020-06-10 — Sharon Stone • Films To Be Buried With with Brett Goldstein #99 — speakers: Sharon Stone Films, Brett Goldstein
+- 2020-06-03 — Dane Baptiste (Revisited) • Films To Be Buried With with Brett Goldstein — speakers: Brett Goldstein Dearest, Brett Goldstein
 - 2020-05-27 — Tom Allen (live @ Islington Town Hall) • Films To Be Buried With with Brett Goldstein #98 — speakers: Tom Allen, Brett Goldstein
-- 2020-05-20 — Sarah Millican • Films To Be Buried With with Brett Goldstein #97 — speakers: Sarah Millican Films, Tom Hanks, Brett Goldstein
+- 2020-05-20 — Sarah Millican • Films To Be Buried With with Brett Goldstein #97 — speakers: Sarah Millican Films, Brett Goldstein
 - 2020-05-13 — Richard Herring • Films To Be Buried With with Brett Goldstein #96 — speakers: Richard Herring Films, Brett Goldstein
 - 2020-05-06 — Dolly Alderton • Films To Be Buried With with Brett Goldstein #95 — speakers: Brett Goldstein
-- 2020-04-29 — Tony Way • Films To Be Buried With with Brett Goldstein #94 — speakers: Tony Way Films, Salacious Tom Cruise, Brett Goldstein
+- 2020-04-29 — Tony Way • Films To Be Buried With with Brett Goldstein #94 — speakers: Tony Way Films, Brett Goldstein
 - 2020-04-22 — Romesh Ranganathan • Films To Be Buried With with Brett Goldstein #93 — speakers: Ranganathan Films, Brett Goldstein
 - 2020-04-15 — Shappi Khorsandi • Films To Be Buried With with Brett Goldstein #92 — speakers: Shappi Khorsandi Films, Brett Goldstein
-- 2020-04-08 — Sarah Keyworth • Films To Be Buried With with Brett Goldstein #91 — speakers: Sarah Keyworth Films, Catherine Bohart, You'LL DO, Brett Goldstein
-- 2020-04-01 — Catherine Bohart • Films To Be Buried With with Brett Goldstein #90 — speakers: You'LL DO, Brett Goldstein
-- 2020-03-26 — Nick Mohammed • Films To Be Buried With with Brett Goldstein #89 — speakers: Nick Mohammed Films, David Schwimmer, Brett Goldstein
-- 2020-03-19 — Kiri Pritchard-McLean • Films To Be Buried With with Brett Goldstein #88 — speakers: Lauryn Hill, Brett Goldstein
-- 2020-03-12 — Sophie Duker • Films To Be Buried With with Brett Goldstein #87 — speakers: Edinburgh Fringe, Brett Goldstein
+- 2020-04-08 — Sarah Keyworth • Films To Be Buried With with Brett Goldstein #91 — speakers: Sarah Keyworth Films, Brett Goldstein
+- 2020-04-01 — Catherine Bohart • Films To Be Buried With with Brett Goldstein #90 — speakers: Brett Goldstein
+- 2020-03-26 — Nick Mohammed • Films To Be Buried With with Brett Goldstein #89 — speakers: Nick Mohammed Films, Brett Goldstein
+- 2020-03-19 — Kiri Pritchard-McLean • Films To Be Buried With with Brett Goldstein #88 — speakers: Brett Goldstein
+- 2020-03-12 — Sophie Duker • Films To Be Buried With with Brett Goldstein #87 — speakers: Brett Goldstein
 - 2020-03-05 — Films Of 2019 & The Decade w/ Nish Kumar (pt. 2) • Films To Be Buried With with Brett Goldstein — speakers: Brett Goldstein
 - 2020-02-27 — Films Of 2019 & The Decade w/ Nish Kumar • Films To Be Buried With with Brett Goldstein — speakers: Brett Goldstein
 - 2020-02-20 — Maisie Adam • Films To Be Buried With with Brett Goldstein #84 — speakers: Maisie Adam Films, Brett Goldstein
-- 2020-02-13 — Adam Hess • Films To Be Buried With with Brett Goldstein #83 — speakers: Adam Hess Films, Adam Hess, Brett Goldstein
+- 2020-02-13 — Adam Hess • Films To Be Buried With with Brett Goldstein #83 — speakers: Adam Hess Films, Brett Goldstein
 - 2020-02-06 — Phoebe Walsh • Films To Be Buried With with Brett Goldstein #82 — speakers: Phoebe Walsh Films, Brett Goldstein
-- 2020-01-30 — Dan Clark • Films To Be Buried With with Brett Goldstein #81 — speakers: Dan Clark Films, Dan Clark, Brett Goldstein
-- 2020-01-23 — Tom Neenan • Films To Be Buried With with Brett Goldstein #80 — speakers: Tom Neenan Films, Tom Neenan, Brett Goldstein
+- 2020-01-30 — Dan Clark • Films To Be Buried With with Brett Goldstein #81 — speakers: Dan Clark Films, Brett Goldstein
+- 2020-01-23 — Tom Neenan • Films To Be Buried With with Brett Goldstein #80 — speakers: Tom Neenan Films, Brett Goldstein
 - 2020-01-16 — Sarah Snook • Films To Be Buried With with Brett Goldstein #79 — speakers: Sarah Snook Films, Brett Goldstein
-- 2020-01-09 — Emerald Fennell • Films To Be Buried With with Brett Goldstein #78 — speakers: Emerald Fennell Films, Killing Eve, Steve Buscemi, Brett Goldstein
-- 2020-01-01 — Rose Matafeo • Films To Be Buried With with Brett Goldstein #77 — speakers: Ben Affleck, Brett Goldstein
+- 2020-01-09 — Emerald Fennell • Films To Be Buried With with Brett Goldstein #78 — speakers: Emerald Fennell Films, Brett Goldstein
+- 2020-01-01 — Rose Matafeo • Films To Be Buried With with Brett Goldstein #77 — speakers: Brett Goldstein
 - 2019-12-26 — Nish Kumar (live @ BFI) • Films To Be Buried With with Brett Goldstein #76 — speakers: Brett Goldstein
-- 2019-12-19 — Dan Swimer • Films To Be Buried With with Brett Goldstein #75 — speakers: Dan Swimer Films, Simon Amstell, Emma Thompson, Brett Goldstein
-- 2019-12-12 — Fergus Craig • Films To Be Buried With with Brett Goldstein #74 — speakers: Talking Heads, Joan Cusack, Brett Goldstein
-- 2019-12-05 — Kevin Smith • Films To Be Buried With with Brett Goldstein #73 — speakers: Kevin Smith Films, Kevin Smith, Brett Goldstein
+- 2019-12-19 — Dan Swimer • Films To Be Buried With with Brett Goldstein #75 — speakers: Dan Swimer Films, Brett Goldstein
+- 2019-12-12 — Fergus Craig • Films To Be Buried With with Brett Goldstein #74 — speakers: Brett Goldstein
+- 2019-12-05 — Kevin Smith • Films To Be Buried With with Brett Goldstein #73 — speakers: Kevin Smith Films, Brett Goldstein
 - 2019-11-28 — Jena Friedman • Films To Be Buried With with Brett Goldstein #72 — speakers: Jena Friedman Films, Brett Goldstein
-- 2019-11-21 — Joe Cornish • Films To Be Buried With with Brett Goldstein #71 — speakers: Joe Cornish Films, Joe Cornish, Brett Goldstein
-- 2019-11-14 — Kate Berlant • Films To Be Buried With with Brett Goldstein #70 — speakers: Kate Berlant Films, Kate Berlant, Brett Goldstein
-- 2019-10-31 — Matthew Shively • Films To Be Buried With with Brett Goldstein #68 — speakers: Matthew Shively Films, Matthew Shively, Brett Goldstein
-- 2019-10-23 — Susannah Fielding • Films To Be Buried With with Brett Goldstein #67 — speakers: Alan Partridge, Brett Goldstein
-- 2019-10-16 — Jon DeWalt • Films To Be Buried With with Brett Goldstein #66 — speakers: Jon DeWalt Films, Jon Dewalt, Larry David Curb, Brett Goldstein
-- 2019-10-09 — Rick Edwards • Films To Be Buried With with Brett Goldstein #65 — speakers: Rick Edwards Films, Rick Edwards, Ruby Wax, Brett Goldstein
+- 2019-11-21 — Joe Cornish • Films To Be Buried With with Brett Goldstein #71 — speakers: Joe Cornish Films, Brett Goldstein
+- 2019-11-14 — Kate Berlant • Films To Be Buried With with Brett Goldstein #70 — speakers: Kate Berlant Films, Brett Goldstein
+- 2019-10-31 — Matthew Shively • Films To Be Buried With with Brett Goldstein #68 — speakers: Matthew Shively Films, Brett Goldstein
+- 2019-10-23 — Susannah Fielding • Films To Be Buried With with Brett Goldstein #67 — speakers: Brett Goldstein
+- 2019-10-16 — Jon DeWalt • Films To Be Buried With with Brett Goldstein #66 — speakers: Jon DeWalt Films, Brett Goldstein
+- 2019-10-09 — Rick Edwards • Films To Be Buried With with Brett Goldstein #65 — speakers: Rick Edwards Films, Brett Goldstein
 - 2019-10-02 — Melissa Stephens • Films To Be Buried With with Brett Goldstein #64 — speakers: Melissa Stephens Films, Brett Goldstein
-- 2019-09-25 — Sam Bain • Films To Be Buried With with Brett Goldstein #63 — speakers: Sam Bain Films, Sam Bain, Jesse Armstrong, Patrick Brice, Brett Goldstein
-- 2019-09-18 — Anne Edmonds • Films To Be Buried With with Brett Goldstein #62 — speakers: Anne Edmonds Films, Anne Edmonds, Brett Goldstein
+- 2019-09-25 — Sam Bain • Films To Be Buried With with Brett Goldstein #63 — speakers: Sam Bain Films, Brett Goldstein
+- 2019-09-18 — Anne Edmonds • Films To Be Buried With with Brett Goldstein #62 — speakers: Anne Edmonds Films, Brett Goldstein
 - 2019-09-11 — Patrick Brice • Films To Be Buried With with Brett Goldstein #61 — speakers: Brett Goldstein
-- 2019-09-04 — Roisin Conaty (live @ The BFI) • Films To Be Buried With with Brett Goldstein #60 — speakers: Roisin Conaty, Pat Sharpe, Brett Goldstein
-- 2019-08-28 — Ruben Fleischer • Films To Be Buried With with Brett Goldstein #59 — speakers: Fleischer Films, John Landis, Rob Reiner, Brett Goldstein
+- 2019-09-04 — Roisin Conaty (live @ The BFI) • Films To Be Buried With with Brett Goldstein #60 — speakers: Roisin Conaty, Brett Goldstein
+- 2019-08-28 — Ruben Fleischer • Films To Be Buried With with Brett Goldstein #59 — speakers: Fleischer Films, Brett Goldstein
 - 2019-08-21 — Barunka O'Shaughnessy • Films To Be Buried With with Brett Goldstein #58 — speakers: Barunka O'Shaughnessy Films, Brett Goldstein
 - 2019-08-14 — Jamie Demetriou • Films To Be Buried With with Brett Goldstein #57 — speakers: Jamie Demetriou Films, Brett Goldstein
-- 2019-08-07 — Rhys James • Films To Be Buried With with Brett Goldstein #56 — speakers: Rhys James Films, Rhys Jones, Brett Goldstein
-- 2019-07-31 — January Jones • Films To Be Buried With with Brett Goldstein #55 — speakers: Betty Draper, Brett Goldstein
-- 2019-07-24 — James McNicholas • Films To Be Buried With with Brett Goldstein #54 — speakers: James McNicholas Films, James McNICHOLAS, Edinburgh Fringe, Brett Goldstein
-- 2019-07-17 — Claudia O'Doherty • Films To Be Buried With with Brett Goldstein #53 — speakers: Stephen King, Brett Goldstein
-- 2019-07-10 — Asim Chaudhry (live @ Brighton Podcast Festival) • Films To Be Buried With with Brett Goldstein #52 — speakers: David Hasselhoff, Brett Goldstein
-- 2019-07-03 — Chris Martin • Films To Be Buried With with Brett Goldstein #51 — speakers: Chris Martin Films, Chris Martin, Sensai Keith, Brett Goldstein
-- 2019-06-26 — Miranda Cosgrove • Films To Be Buried With with Brett Goldstein #50 — speakers: Miranda Cosgrove Films, Bill Lawrence, Brett Goldstein
+- 2019-08-07 — Rhys James • Films To Be Buried With with Brett Goldstein #56 — speakers: Rhys James Films, Brett Goldstein
+- 2019-07-31 — January Jones • Films To Be Buried With with Brett Goldstein #55 — speakers: Brett Goldstein
+- 2019-07-24 — James McNicholas • Films To Be Buried With with Brett Goldstein #54 — speakers: James McNicholas Films, Brett Goldstein
+- 2019-07-17 — Claudia O'Doherty • Films To Be Buried With with Brett Goldstein #53 — speakers: Brett Goldstein
+- 2019-07-10 — Asim Chaudhry (live @ Brighton Podcast Festival) • Films To Be Buried With with Brett Goldstein #52 — speakers: Brett Goldstein
+- 2019-07-03 — Chris Martin • Films To Be Buried With with Brett Goldstein #51 — speakers: Chris Martin Films, Brett Goldstein
+- 2019-06-26 — Miranda Cosgrove • Films To Be Buried With with Brett Goldstein #50 — speakers: Miranda Cosgrove Films, Brett Goldstein
 - 2019-06-19 — Steen Raskopoulos • Films To Be Buried With with Brett Goldstein #49 — speakers: Steen Raskopoulos Films, Brett Goldstein
-- 2019-06-12 — Jamie Lee • Films To Be Buried With with Brett Goldstein #48 — speakers: Jamie Lee Films, Jamie Lee, Brett Goldstein
+- 2019-06-12 — Jamie Lee • Films To Be Buried With with Brett Goldstein #48 — speakers: Jamie Lee Films, Brett Goldstein
 - 2019-06-05 — Suzi Ruffell • Films To Be Buried With with Brett Goldstein #47 — speakers: Suzi Ruffell Films, Brett Goldstein
-- 2019-05-29 — Richard Shepard • Films To Be Buried With with Brett Goldstein #46 — speakers: Richard Shepard Films, Ugly Betty, Lena Dunham, Brett Goldstein
+- 2019-05-29 — Richard Shepard • Films To Be Buried With with Brett Goldstein #46 — speakers: Richard Shepard Films, Brett Goldstein
 - 2019-05-22 — Dave Hill (Game Of Thrones writer) • Films To Be Buried With with Brett Goldstein #45 — speakers: Dave Hill, Brett Goldstein
-- 2019-05-15 — Tom Basden • Films To Be Buried With with Brett Goldstein #44 — speakers: Tom Basden Films, Tom Basden, jibber jabber, David Brent, Brett Goldstein
-- 2019-05-08 — Punkie Johnson • Films To Be Buried With with Brett Goldstein #43 — speakers: Punkie Johnson Films, Punkie Johnson, poley moley, Angela Bassett, Brett Goldstein
-- 2019-05-01 — Andy Nyman • Films To Be Buried With with Brett Goldstein #42 — speakers: Andy Nyman Films, Richard Dreyfuss, Brett Goldstein
-- 2019-04-24 — Lolly Adefope (live @ The BFI) • Films To Be Buried With with Brett Goldstein #41 — speakers: Tom Cruise, DJ Shrill-Ex, Brett Goldstein
-- 2019-04-17 — Mark Kermode • Films To Be Buried With with Brett Goldstein #40 — speakers: Mark Kermode Films, Simon Mayo, Wim Hof, Jason Isaacs, Brett Goldstein
-- 2019-04-10 — Camille Ucan • Films To Be Buried With with Brett Goldstein #39 — speakers: Camille Ucan, Beattie Edmonson, Rose Johnson, Brett Goldstein
-- 2019-04-03 — Funmbi Omotayo • Films To Be Buried With with Brett Goldstein #38 — speakers: Funmbi Omotayo, Brett Goldstein
+- 2019-05-15 — Tom Basden • Films To Be Buried With with Brett Goldstein #44 — speakers: Tom Basden Films, Brett Goldstein
+- 2019-05-08 — Punkie Johnson • Films To Be Buried With with Brett Goldstein #43 — speakers: Punkie Johnson Films, Brett Goldstein
+- 2019-05-01 — Andy Nyman • Films To Be Buried With with Brett Goldstein #42 — speakers: Andy Nyman Films, Brett Goldstein
+- 2019-04-24 — Lolly Adefope (live @ The BFI) • Films To Be Buried With with Brett Goldstein #41 — speakers: Brett Goldstein
+- 2019-04-17 — Mark Kermode • Films To Be Buried With with Brett Goldstein #40 — speakers: Mark Kermode Films, Brett Goldstein
+- 2019-04-10 — Camille Ucan • Films To Be Buried With with Brett Goldstein #39 — speakers: Brett Goldstein
+- 2019-04-03 — Funmbi Omotayo • Films To Be Buried With with Brett Goldstein #38 — speakers: Brett Goldstein
 - 2019-03-28 — John Robins • Films To Be Buried With with Brett Goldstein #37 — speakers: John Robins, Brett Goldstein
-- 2019-03-21 — Jameela Jamil • Films To Be Buried With with Brett Goldstein #36 — speakers: Jameela Jamil Films, Ted Danson, Macaulay Culkin, Brett Goldstein
-- 2019-03-14 — Bill Lawrence • Films To Be Buried With with Brett Goldstein #35 — speakers: Bill Lawrence Films, Bill Lawrence, Cougar Town, Karaoke Man, Brett Goldstein
-- 2019-03-07 — Russian Doll's Leslye Headland - Films To Be Buried With with Brett Goldstein #34 — speakers: Leslye Headland Films, Netflix’s Russian Doll, Brett Goldstein
+- 2019-03-21 — Jameela Jamil • Films To Be Buried With with Brett Goldstein #36 — speakers: Jameela Jamil Films, Brett Goldstein
+- 2019-03-14 — Bill Lawrence • Films To Be Buried With with Brett Goldstein #35 — speakers: Bill Lawrence Films, Brett Goldstein
+- 2019-03-07 — Russian Doll's Leslye Headland - Films To Be Buried With with Brett Goldstein #34 — speakers: Leslye Headland Films, Brett Goldstein
 - 2019-02-28 — Chris Hewitt (Empire Magazine) - Films To Be Buried With with Brett Goldstein #33 — speakers: Chris Hewitt, Brett Goldstein
-- 2019-02-21 — Athena Kugblenu - Films To Be Buried With with Brett Goldstein #32 — speakers: Billy Zane, Brett Goldstein
-- 2019-02-14 — Matthew Crosby - Films To Be Buried With with Brett Goldstein #31 — speakers: Valentine’s Day, Matthew Crosby, Brett Goldstein
-- 2019-02-07 — Sean McLoughlin - Films To Be Buried With with Brett Goldstein #30 — speakers: Ricky Gervais, Brett Goldstein
-- 2019-01-31 — Mandip Gill - Films To Be Buried With with Brett Goldstein #29 — speakers: Mandip Gill, Brett Goldstein
-- 2019-01-24 — Dominic Monaghan - Films To Be Buried With with Brett Goldstein #28 — speakers: Dominic Monaghan, Brett Goldstein
-- 2019-01-17 — Jessie Cave - Films To Be Buried With with Brett Goldstein #27 — speakers: Jessie Cave Films, Jessie Cave, Brett Goldstein
+- 2019-02-21 — Athena Kugblenu - Films To Be Buried With with Brett Goldstein #32 — speakers: Brett Goldstein
+- 2019-02-14 — Matthew Crosby - Films To Be Buried With with Brett Goldstein #31 — speakers: Brett Goldstein
+- 2019-02-07 — Sean McLoughlin - Films To Be Buried With with Brett Goldstein #30 — speakers: Brett Goldstein
+- 2019-01-31 — Mandip Gill - Films To Be Buried With with Brett Goldstein #29 — speakers: Brett Goldstein
+- 2019-01-24 — Dominic Monaghan - Films To Be Buried With with Brett Goldstein #28 — speakers: Brett Goldstein
+- 2019-01-17 — Jessie Cave - Films To Be Buried With with Brett Goldstein #27 — speakers: Jessie Cave Films, Brett Goldstein
 - 2019-01-10 — Films Of 2018 Special with Nish Kumar - Films To Be Buried With with Brett Goldstein — speakers: Brett Goldstein
-- 2019-01-03 — Stu Whiffen - Films To Be Buried With with Brett Goldstein #26 — speakers: Stu Whiffen Films, Chris Glasson, Brett Goldstein
-- 2018-12-27 — Hayley Campbell - Films To Be Buried With with Brett Goldstein #25 — speakers: Hayley Campbell Films, Hayley Campbell, Eddie Campbell, Brett Goldstein
-- 2018-12-25 — Films To Be Buried With Christmas Special with Lou Sanders & Brett Goldstein — speakers: Buddy Peace, Brett Goldstein
+- 2019-01-03 — Stu Whiffen - Films To Be Buried With with Brett Goldstein #26 — speakers: Stu Whiffen Films, Brett Goldstein
+- 2018-12-27 — Hayley Campbell - Films To Be Buried With with Brett Goldstein #25 — speakers: Hayley Campbell Films, Brett Goldstein
+- 2018-12-25 — Films To Be Buried With Christmas Special with Lou Sanders & Brett Goldstein — speakers: Christmas Special, Lou Sanders, Brett Goldstein
 - 2018-12-20 — Jon Drever - Films To Be Buried With with Brett Goldstein #24 — speakers: Jon Drever Films, Brett Goldstein
-- 2018-12-13 — Dane Baptiste - Films To Be Buried With with Brett Goldstein #23 — speakers: Wesley Snipes, Wong Foo, Brett Goldstein
+- 2018-12-13 — Dane Baptiste - Films To Be Buried With with Brett Goldstein #23 — speakers: Brett Goldstein
 - 2018-12-06 — Evelyn Mok - Films To Be Buried With with Brett Goldstein #22 — speakers: Brett Goldstein
 - 2018-11-29 — Will Poulter (Live @ The BFI) - Films To Be Buried With with Brett Goldstein #21 — speakers: Brett Goldstein
 - 2018-11-22 — Ricky Gervais - Films To Be Buried With with Brett Goldstein #20 — speakers: Ricky Gervais Films, Brett Goldstein
-- 2018-11-15 — Alistair Green - Films To Be Buried With with Brett Goldstein #19 — speakers: Al Green, Brett Goldstein
-- 2018-11-08 — Deborah Frances-White - Films To Be Buried With with Brett Goldstein #18 — speakers: Jehova’s Witness, Brett Goldstein
+- 2018-11-15 — Alistair Green - Films To Be Buried With with Brett Goldstein #19 — speakers: Brett Goldstein
+- 2018-11-08 — Deborah Frances-White - Films To Be Buried With with Brett Goldstein #18 — speakers: Brett Goldstein
 - 2018-11-01 — Stu Goldsmith - Films To Be Buried With with Brett Goldstein #17 — speakers: Stu Goldsmith Films, Brett Goldstein
 - 2018-10-24 — Aisling Bea - Films To Be Buried With with Brett Goldstein #16 — speakers: Aisling Bea Films, Brett Goldstein
-- 2018-10-17 — Nick Helm - Films To Be Buried With with Brett Goldstein #15 — speakers: Wes Anderson, Enjoy Brett, Brett Goldstein
+- 2018-10-17 — Nick Helm - Films To Be Buried With with Brett Goldstein #15 — speakers: Brett Goldstein
 - 2018-10-10 — Jayde Adams - Films To Be Buried With with Brett Goldstein #14 — speakers: Jayde Adams Films, Brett Goldstein
-- 2018-10-03 — Jack Whitehall - Films To Be Buried With with Brett Goldstein #13 — speakers: Jack Whitehall Films, Jack Whitehall, Robin Hood, Brett Goldstein
-- 2018-09-26 — Nathaniel Metcalfe - Films To Be Buried With with Brett Goldstein #12 — speakers: Nathaniel Metcalfe Films, Nathaniel’s Twitter, Brett Goldstein
-- 2018-09-19 — Jen Brister - Films To Be Buried With with Brett Goldstein #11 — speakers: Edinburgh Fringe, Wine Gums, Brett Goldstein
+- 2018-10-03 — Jack Whitehall - Films To Be Buried With with Brett Goldstein #13 — speakers: Jack Whitehall Films, Brett Goldstein
+- 2018-09-26 — Nathaniel Metcalfe - Films To Be Buried With with Brett Goldstein #12 — speakers: Nathaniel Metcalfe Films, Brett Goldstein
+- 2018-09-19 — Jen Brister - Films To Be Buried With with Brett Goldstein #11 — speakers: Brett Goldstein
 - 2018-09-12 — Cariad Lloyd - Films To Be Buried With with Brett Goldstein #10 — speakers: Brett Goldstein
-- 2018-09-05 — Ed Gamble - Films To Be Buried With with Brett Goldstein #9 — speakers: Edinburgh Fringe, Hulk Hogan, Brett Goldstein
+- 2018-09-05 — Ed Gamble - Films To Be Buried With with Brett Goldstein #9 — speakers: Brett Goldstein
 - 2018-08-29 — Ola The Comedian - Films To Be Buried With with Brett Goldstein #8 — speakers: Brett Goldstein
-- 2018-08-22 — Kerry Godliman - Films To Be Buried With with Brett Goldstein #7 — speakers: Kerry Godliman Films, Ali Wong, Ken Loach, Brett Goldstein
-- 2018-08-15 — Steven Cree - Films To Be Buried With with Brett Goldstein #6 — speakers: John Carter, Brett Goldstein
-- 2018-08-08 — Beattie Edmondson - Films To Be Buried With with Brett Goldstein #5 — speakers: Jennifer Saunders, Brett Goldstein
+- 2018-08-22 — Kerry Godliman - Films To Be Buried With with Brett Goldstein #7 — speakers: Kerry Godliman Films, Brett Goldstein
+- 2018-08-15 — Steven Cree - Films To Be Buried With with Brett Goldstein #6 — speakers: Brett Goldstein
+- 2018-08-08 — Beattie Edmondson - Films To Be Buried With with Brett Goldstein #5 — speakers: Brett Goldstein
 - 2018-08-06 — David Earl aka Brian Gittins (Edinburgh Fringe bonus) - Films To Be Buried With with Brett Goldstein — speakers: David Earl, Brian Gittins, Edinburgh Fringe, Brett Goldstein Ladies, Brett Goldstein
-- 2018-08-01 — Scroobius Pip - Films To Be Buried With with Brett Goldstein #4 — speakers: Scroobius Pip, Brett Goldstein
+- 2018-08-01 — Scroobius Pip - Films To Be Buried With with Brett Goldstein #4 — speakers: Brett Goldstein
 - 2018-07-25 — Nish Kumar - Films To Be Buried With with Brett Goldstein #3 — speakers: Brett Goldstein
-- 2018-07-18 — Katherine Ryan - Films To Be Buried With with Brett Goldstein #2 — speakers: Katherine Ryan Films, James Acaster, Katherine Ryan, Brett Goldstein
-- 2018-07-11 — James Acaster - Films To Be Buried With with Brett Goldstein #1 — speakers: James Acaster Films, James Acaster, Edinburgh Fringe, Brett Goldstein
-- 2018-07-04 — Films To Be Buried With - official teaser trailer — speakers: James Acaster, Brett Goldstein
+- 2018-07-18 — Katherine Ryan - Films To Be Buried With with Brett Goldstein #2 — speakers: Katherine Ryan Films, Brett Goldstein
+- 2018-07-11 — James Acaster - Films To Be Buried With with Brett Goldstein #1 — speakers: James Acaster Films, Brett Goldstein
+- 2018-07-04 — Films To Be Buried With - official teaser trailer — speakers: Brett Goldstein

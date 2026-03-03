@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:ebcb3ba2e5c7",
+        "feed_title": "Fwends",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5f5c3c6590ac9a2832e89ede",
+        "dedupe_key": "7a980b3ed2ee47e15878aef8c774babbd0ff8ff7",
+        "episode_key": "7a980b3ed2ee47e15878aef8c774babbd0ff8ff7",
+        "title": "Nish Kumar: ADHD, Friendship, and the \"Bees in my Brain\"",
+        "published_at": "2026-03-02T20:02:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We're Back!\nTo kick off the brand new season, we are joined by the incomparable Nish Kumar (Pod Save the UK, Taskmaster, The Bugle). We sat Nish down on the set of Off Menu (we changed the logo on the telly, don't tell Ed and James) to discuss the high-stakes world of international friendship. \nYou can also now watch t",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5f5c3c6590ac9a2832e89ede/e/69a57ad5c9e62804ccea2f31/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-adhd-friendship-and-the-bees-in-my-brain/id1531550405?i=1000752693280&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
