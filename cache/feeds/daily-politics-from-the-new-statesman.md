@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-02T19:07:06+00:00`
-- checked_at: `2026-03-02T19:07:06+00:00`
-- etag: `"djEuMi4wOjE3NzI0NzI3NTM1NjU="`
+- fetched_at: `2026-03-03T19:10:51+00:00`
+- checked_at: `2026-03-03T19:10:51+00:00`
+- etag: `"djEuMi4wOjE3NzI1NTY2MjM4ODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-02T19:07:06+00:00",
+  "fetched_at": "2026-03-03T19:10:51+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "030fa34670415097ba2dfee980fd714a686de698",
+      "title": "Should the phrase \"special relationship\" be banned?",
+      "published_at": "2026-03-03T16:48:08+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/should-the-phrase-special-relationship-be-banned",
+      "description": "Yesterday afternoon in the Commons, Keir Starmer took a stance against Trump's attacks on Iran. The US President has expressed his dissatisfaction with the Prime Minister. Is a rift developing? Should the UK be pivoting away from the US and towards Europe? And should talk of the \"special relationship\" be banned from the government's parlance? Oli Dugmore is joined by journalist, author, and ex-Foreign Office special adviser Ben Judah to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772556120233-000e82af-769c-4a09-be72-36faa6262d1d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69a710c8b5381e1c01fb2618/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76714880",
+      "itunes_duration": "31:55",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "phrase",
+        "relationship"
+      ]
+    },
     {
       "key": "de599a8e1259dc3a8108002603d84b5d0c746807",
       "title": "Iran war: Trump is playing into Putin's hands.",
@@ -30314,6 +30334,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — Should the phrase "special relationship" be banned? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-02 — Iran war: Trump is playing into Putin's hands. — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-01 — Does Trump have an endgame in Iran? — speakers: Fiona Hill, Megan Gibson, Anoosh Chakelian, Oli Dugmore
 - 2026-03-01 — Rare diseases: from lived experience to lasting treatments | Sponsored — speakers: Rare Disease Day, Anoosh Chakelian, Oli Dugmore

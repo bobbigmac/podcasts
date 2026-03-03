@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-02-27T19:03:11+00:00`
-- checked_at: `2026-02-27T19:03:11+00:00`
-- etag: `"46ea9f2115a9b449668c8bcc6dfb4b77"`
-- last_modified: `Fri, 27 Feb 2026 17:55:03 GMT`
+- fetched_at: `2026-03-03T19:10:51+00:00`
+- checked_at: `2026-03-03T19:10:51+00:00`
+- etag: `"0ca91ad8b55c48c0701bf61fe3c5849f"`
+- last_modified: `Tue, 03 Mar 2026 16:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-02-27T19:03:11+00:00",
+  "fetched_at": "2026-03-03T19:10:51+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "4874bce53299098e8c16ee01cd1622849fda9108",
+      "title": "#519 - Big Seed, Big Sad John and Big Voiced Clive",
+      "published_at": "2026-03-03T16:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002s296",
+      "description": "John is not going to dance to their tune. Who’s tune? The people who design the layouts of supermarkets, that’s who. Sure, they can play their seductive little ditties, but Johnny JR ain’t dancing. But someone who is dancing to a tune is Elis James, and that tune is Welsh music (general). With St David’s Day having just passed, the pressure is on Elis to contribute to the national mood. Can he turn around a poor run of form in the Cymru Connection, or will he besmirch the good name of Wales around its big day? Elsewhere, Elis dives headfirst into a cognitive decline casserole, the boys riff a future award-winning feature on the fly, and we take a welcome trip back down the Shame Well. Send in your missives to elisandjohn@bbc.co.uk.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n4bjqd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60640000",
+      "itunes_duration": "3790",
+      "speakers": [
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "seed",
+        "john",
+        "voiced",
+        "clive"
+      ]
+    },
     {
       "key": "102feddb9d3aba4906d5a090f0381b2bd73cf7dc",
       "title": "#518 - An 18 Yard Sprint, Sovereignty Not Dominion and Big Diolch Energy",
@@ -12536,6 +12558,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — #519 - Big Seed, Big Sad John and Big Voiced Clive — speakers: Elis James, John Robins
 - 2026-02-27 — #518 - An 18 Yard Sprint, Sovereignty Not Dominion and Big Diolch Energy — speakers: Yard Sprint, Sovereignty Not Dominion, Big Diolch Energy Elis, Elis James, John Robins
 - 2026-02-24 — #517 - A Peruvian Exit, A 14 Pocket Scenario and A Neyland in the Coffin — speakers: Elis James, John Robins
 - 2026-02-20 — #516 - Master of The Memoir, French Flag Fancy and I Am Full of Eggs — speakers: French Flag Fancy, Am Full, Melvin Brain, Elis James, John Robins

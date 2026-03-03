@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-02-23T13:41:58+00:00`
-- checked_at: `2026-02-23T13:41:58+00:00`
-- etag: `"djEuMi4wOjE3NzE4NDcyNTQ4MjU="`
+- fetched_at: `2026-03-03T19:10:51+00:00`
+- checked_at: `2026-03-03T19:10:51+00:00`
+- etag: `"djEuMi4wOjE3NzI1NTM4MzUwMjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-02-23T13:41:58+00:00",
+  "fetched_at": "2026-03-03T19:10:51+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c3b366af8deb134911943c537c969a616f2b23eb",
+      "title": "Jim Carrey's Face and Maura Higgins' Body",
+      "published_at": "2026-03-03T16:03:54+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/jim-carreys-face-and-maura-higgins-body",
+      "description": "This week, Katherine's Telling Everybody Everything about the family's canceled trip to Dubai amidst the chaos of the recent conflict. She weighs in on whether the sighting of Jim Carrey in France was genuine and also at Maura Higgins' incredible outfits on her American publicity tour. Fevers have struck the Ryan-Kootstra household yet again and Katherine undergoes a six hour total health check. Plus, your letters on how to be a maximum productive young person and an affair after 20 years together. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1772550423805-8c30dcde-da11-4e40-b45b-2d7c8f7559b3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69a7066a47994e3427c2a49f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83079754",
+      "itunes_duration": "57:41",
+      "speakers": [
+        "Jim Carrey",
+        "Maura Higgins Body",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "carrey",
+        "face",
+        "maura",
+        "higgins",
+        "body"
+      ]
+    },
     {
       "key": "1f5451921b0e81a7b4d85f5166225d636be360b0",
       "title": "You Wanna Be On Top?",
@@ -56,7 +80,7 @@
       "enclosure_length": "80289250",
       "itunes_duration": "55:45",
       "speakers": [
-        "Katy Perry",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -75,6 +99,7 @@
       "enclosure_length": "73248727",
       "itunes_duration": "50:51",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -93,7 +118,8 @@
       "enclosure_length": "93699470",
       "itunes_duration": "1:05:03",
       "speakers": [
-        "Andrew Johnston",
+        "True Crime Treat Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -114,7 +140,6 @@
       "enclosure_length": "51082680",
       "itunes_duration": "35:28",
       "speakers": [
-        "Fenna Grace",
         "Katherine Ryan"
       ],
       "topics": [
@@ -134,8 +159,6 @@
       "enclosure_length": "84248368",
       "itunes_duration": "58:30",
       "speakers": [
-        "Brooklyn Beckham",
-        "Baby Holland",
         "Katherine Ryan"
       ],
       "topics": [
@@ -155,6 +178,8 @@
       "enclosure_length": "77864251",
       "itunes_duration": "54:04",
       "speakers": [
+        "Toxic Hollywood Moms Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -176,7 +201,6 @@
       "enclosure_length": "75117632",
       "itunes_duration": "52:09",
       "speakers": [
-        "Gordon Ramsey",
         "Katherine Ryan"
       ],
       "topics": [
@@ -198,7 +222,6 @@
       "enclosure_length": "86637632",
       "itunes_duration": "1:00:09",
       "speakers": [
-        "Brian Cox",
         "Katherine Ryan"
       ],
       "topics": [
@@ -218,9 +241,7 @@
       "enclosure_length": "92601701",
       "itunes_duration": "1:04:18",
       "speakers": [
-        "Katherine Ryan",
-        "Jennifer Lawrence",
-        "Leonardo DiCaprio"
+        "Katherine Ryan"
       ],
       "topics": [
         "sleep",
@@ -239,8 +260,6 @@
       "enclosure_length": "68555464",
       "itunes_duration": "47:36",
       "speakers": [
-        "Fenna Grace",
-        "Bonnie Blue",
         "Katherine Ryan"
       ],
       "topics": [
@@ -259,6 +278,7 @@
       "enclosure_length": "84640832",
       "itunes_duration": "58:46",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -279,10 +299,7 @@
       "enclosure_length": "61029691",
       "itunes_duration": "42:22",
       "speakers": [
-        "Tinsel Town",
-        "Sky Cinema",
-        "Fenna Grace",
-        "Andrew Johnston",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -304,8 +321,6 @@
       "enclosure_length": "98734416",
       "itunes_duration": "1:08:33",
       "speakers": [
-        "Jane Fonda",
-        "Jeffrey Epstein",
         "Katherine Ryan"
       ],
       "topics": [
@@ -325,6 +340,7 @@
       "enclosure_length": "59184610",
       "itunes_duration": "41:05",
       "speakers": [
+        "food poisoni",
         "Katherine Ryan"
       ],
       "topics": []
@@ -341,8 +357,7 @@
       "enclosure_length": "73013625",
       "itunes_duration": "50:42",
       "speakers": [
-        "Katy Perry",
-        "Justin Trudeau",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": []
@@ -378,8 +393,6 @@
       "itunes_duration": "41:35",
       "speakers": [
         "David Harbour",
-        "Justin Trudeau",
-        "Katy Perry",
         "Katherine Ryan"
       ],
       "topics": [
@@ -423,7 +436,6 @@
       "speakers": [
         "Katy Perry",
         "Justin Trudeau",
-        "Kelly Clarkson",
         "Katherine Ryan"
       ],
       "topics": [
@@ -447,8 +459,6 @@
       "enclosure_length": "62899849",
       "itunes_duration": "43:40",
       "speakers": [
-        "Nicki Minaj",
-        "Ian Watkins",
         "Katherine Ryan"
       ],
       "topics": [
@@ -467,8 +477,6 @@
       "enclosure_length": "77828515",
       "itunes_duration": "54:02",
       "speakers": [
-        "Noel Fitzpatrick",
-        "Tik Toks",
         "Katherine Ryan"
       ],
       "topics": [
@@ -489,8 +497,6 @@
       "enclosure_length": "57587170",
       "itunes_duration": "39:59",
       "speakers": [
-        "Legoland Windsor Vip NO",
-        "Steffon Diggs",
         "Katherine Ryan"
       ],
       "topics": [
@@ -534,7 +540,6 @@
       "speakers": [
         "Discuss Taylor",
         "Travis Engagement",
-        "Travis Kelce",
         "Katherine Ryan"
       ],
       "topics": [
@@ -579,7 +584,6 @@
       "enclosure_length": "70695206",
       "itunes_duration": "49:05",
       "speakers": [
-        "Katie Price",
         "Katherine Ryan"
       ],
       "topics": [
@@ -599,6 +603,8 @@
       "enclosure_length": "58859855",
       "itunes_duration": "40:52",
       "speakers": [
+        "Too Fit",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": []
@@ -615,7 +621,6 @@
       "enclosure_length": "95946419",
       "itunes_duration": "1:06:37",
       "speakers": [
-        "Brandy Glanville",
         "Katherine Ryan"
       ],
       "topics": [
@@ -636,9 +641,9 @@
       "enclosure_length": "65951787",
       "itunes_duration": "45:47",
       "speakers": [
-        "Katy Perry",
-        "Justin Trudeau",
-        "Sam Faiers",
+        "Deadbeat Dads",
+        "Oasis Katherine",
+        "Telling Everybody",
         "Katherine Ryan"
       ],
       "topics": [
@@ -680,7 +685,6 @@
       "itunes_duration": "43:51",
       "speakers": [
         "Epstein Files",
-        "Lena Dunham",
         "Katherine Ryan"
       ],
       "topics": [
@@ -704,7 +708,7 @@
       "enclosure_length": "57794059",
       "itunes_duration": "40:07",
       "speakers": [
-        "Lauren Sanchez",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -724,10 +728,9 @@
       "enclosure_length": "70806801",
       "itunes_duration": "49:10",
       "speakers": [
-        "Chris Brown",
-        "Sabrina Carpenter",
-        "Ricki Lake",
-        "Kris Jenner",
+        "Stalker Being Released",
+        "August Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -747,7 +750,6 @@
       "enclosure_length": "58997155",
       "itunes_duration": "40:58",
       "speakers": [
-        "Karen Millen",
         "Katherine Ryan"
       ],
       "topics": [
@@ -767,10 +769,6 @@
       "enclosure_length": "79790207",
       "itunes_duration": "55:24",
       "speakers": [
-        "strawberry custard",
-        "Katie Price",
-        "Justin Bieber",
-        "Will Trump",
         "Katherine Ryan"
       ],
       "topics": [
@@ -791,7 +789,6 @@
       "itunes_duration": "40:45",
       "speakers": [
         "Cancel Mighty Hoopla",
-        "Mighty Hoopla",
         "Katherine Ryan"
       ],
       "topics": [
@@ -831,7 +828,6 @@
       "enclosure_length": "59901828",
       "itunes_duration": "41:35",
       "speakers": [
-        "Kris Jenner",
         "Katherine Ryan"
       ],
       "topics": [
@@ -873,6 +869,7 @@
       "enclosure_length": "70239421",
       "itunes_duration": "48:46",
       "speakers": [
+        "Liam Pay",
         "Katherine Ryan"
       ],
       "topics": [
@@ -895,8 +892,6 @@
       "enclosure_length": "77330726",
       "itunes_duration": "53:41",
       "speakers": [
-        "Gen Zs",
-        "Shannon Sharpe",
         "Katherine Ryan"
       ],
       "topics": [
@@ -918,7 +913,7 @@
       "enclosure_length": "54824250",
       "itunes_duration": "38:04",
       "speakers": [
-        "Aimee Lou Wood",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -939,7 +934,6 @@
       "itunes_duration": "43:45",
       "speakers": [
         "Foxy Knoxy Book",
-        "Amanda Knox",
         "Katherine Ryan"
       ],
       "topics": [
@@ -984,7 +978,7 @@
       "enclosure_length": "55251823",
       "itunes_duration": "38:21",
       "speakers": [
-        "Snow White",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1005,7 +999,6 @@
       "itunes_duration": "37:29",
       "speakers": [
         "Meghan Sussex",
-        "Teddy Melencamp",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1025,7 +1018,6 @@
       "itunes_duration": "38:14",
       "speakers": [
         "Casey Anthony",
-        "Meghan Not-Markle",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1044,7 +1036,7 @@
       "enclosure_length": "55073772",
       "itunes_duration": "38:14",
       "speakers": [
-        "Head Spa",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1063,7 +1055,7 @@
       "enclosure_length": "61542526",
       "itunes_duration": "42:44",
       "speakers": [
-        "Hilaria Baldwin",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1084,7 +1076,6 @@
       "itunes_duration": "41:50",
       "speakers": [
         "Mauricio Timeline",
-        "Rebecca Goodwin",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1125,8 +1116,7 @@
       "enclosure_length": "60323131",
       "itunes_duration": "41:53",
       "speakers": [
-        "Serena Williams",
-        "Armie Hammer",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1148,8 +1138,6 @@
       "itunes_duration": "50:39",
       "speakers": [
         "Kanye Koercive Kontrol",
-        "Kanye West",
-        "Karla Sofía Gascón",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1171,7 +1159,6 @@
       "itunes_duration": "45:03",
       "speakers": [
         "Julia Haart",
-        "Barack Obama",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1212,7 +1199,6 @@
       "itunes_duration": "40:28",
       "speakers": [
         "Bonnie Blue",
-        "Heidi Montag",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1232,7 +1218,6 @@
       "enclosure_length": "52434360",
       "itunes_duration": "36:24",
       "speakers": [
-        "Nikki Glaser",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1252,8 +1237,6 @@
       "enclosure_length": "66450830",
       "itunes_duration": "46:08",
       "speakers": [
-        "Tommy Fury",
-        "Tik Tok",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1275,8 +1258,6 @@
       "enclosure_length": "89977335",
       "itunes_duration": "1:02:28",
       "speakers": [
-        "Blake Lively",
-        "Patrick Mahomes",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1295,7 +1276,6 @@
       "enclosure_length": "82165678",
       "itunes_duration": "57:03",
       "speakers": [
-        "Lindsay Lohan",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1315,8 +1295,9 @@
       "enclosure_length": "54722059",
       "itunes_duration": "37:59",
       "speakers": [
-        "Fenna Grace",
-        "Barry Keoghan",
+        "Wet Katherine",
+        "Telling Everybody Everything",
+        "Got Talent",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1335,8 +1316,8 @@
       "enclosure_length": "63633367",
       "itunes_duration": "44:11",
       "speakers": [
-        "Luigi Mangione",
-        "JonBenet Ramsey",
+        "Hot Assassin Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1383,7 +1364,6 @@
       "itunes_duration": "56:18",
       "speakers": [
         "Gift Giving Guide",
-        "Conor McGregor",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1423,7 +1403,6 @@
       "enclosure_length": "53938386",
       "itunes_duration": "37:27",
       "speakers": [
-        "Ellen Degeneres",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1443,8 +1422,8 @@
       "enclosure_length": "49581161",
       "itunes_duration": "34:25",
       "speakers": [
-        "Nicole Sherzinger",
-        "Tony Award",
+        "Red Flag Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1486,9 +1465,6 @@
       "itunes_duration": "48:52",
       "speakers": [
         "Daughter Sentenced",
-        "Cynthia Erivo",
-        "Nick Cannon",
-        "Tony Hinchcliffe",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1512,6 +1488,8 @@
       "enclosure_length": "54681308",
       "itunes_duration": "37:58",
       "speakers": [
+        "Domingo Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1530,10 +1508,8 @@
       "enclosure_length": "54157188",
       "itunes_duration": "37:36",
       "speakers": [
-        "Mariah Carey",
-        "Khloe Kardashian",
-        "Heidi Klum",
-        "Niagara Falls",
+        "Sleep Divorce Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1553,7 +1529,6 @@
       "enclosure_length": "55323294",
       "itunes_duration": "38:24",
       "speakers": [
-        "Hygiene Freak",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1572,8 +1547,8 @@
       "enclosure_length": "67663957",
       "itunes_duration": "46:59",
       "speakers": [
-        "Fenna Grace",
-        "St Joseph",
+        "God Bless Fenna Grace",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1594,6 +1569,8 @@
       "enclosure_length": "44017080",
       "itunes_duration": "30:33",
       "speakers": [
+        "Stockholm Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1612,6 +1589,8 @@
       "enclosure_length": "55017348",
       "itunes_duration": "38:12",
       "speakers": [
+        "Offspring Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1647,7 +1626,6 @@
       "enclosure_length": "50333488",
       "itunes_duration": "34:57",
       "speakers": [
-        "Tik Tok",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1688,11 +1666,7 @@
       "enclosure_length": "48404397",
       "itunes_duration": "33:36",
       "speakers": [
-        "Dave Grohl",
-        "Lottie Moss",
-        "Kourtney Kardashian",
-        "Casey Anthony",
-        "Katy Perry",
+        "Dave Gro",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1713,7 +1687,6 @@
       "enclosure_length": "55301351",
       "itunes_duration": "38:24",
       "speakers": [
-        "Chapell Roan",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1733,8 +1706,8 @@
       "enclosure_length": "58176492",
       "itunes_duration": "40:23",
       "speakers": [
-        "Katy Perry",
-        "Lily Allen",
+        "Rainbow Park Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1754,6 +1727,8 @@
       "enclosure_length": "60772019",
       "itunes_duration": "42:11",
       "speakers": [
+        "Yoga Studio Update Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1774,9 +1749,8 @@
       "enclosure_length": "57284985",
       "itunes_duration": "39:46",
       "speakers": [
-        "Ben Affleck",
-        "Tommy Fury",
-        "Molly Mae",
+        "Fold Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1798,7 +1772,6 @@
       "speakers": [
         "Scott Peterson",
         "Brain Damage",
-        "Laci Peterson",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1821,7 +1794,6 @@
       "itunes_duration": "30:11",
       "speakers": [
         "Blake Lively Too",
-        "Blake Lively",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1843,7 +1815,6 @@
       "itunes_duration": "48:50",
       "speakers": [
         "Furious Katherine",
-        "Joe Budden",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1901,8 +1872,6 @@
       "enclosure_length": "42105543",
       "itunes_duration": "29:14",
       "speakers": [
-        "Anthony Ammirati",
-        "Robert Kennedy JR",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1923,7 +1892,6 @@
       "enclosure_length": "61372626",
       "itunes_duration": "42:37",
       "speakers": [
-        "Jenny Keane",
         "Katherine Ryan"
       ],
       "topics": [
@@ -1943,8 +1911,6 @@
       "enclosure_length": "61218399",
       "itunes_duration": "42:30",
       "speakers": [
-        "Hannah Neeleman",
-        "Megan Agnew",
         "Katherine Ryan"
       ],
       "topics": []
@@ -1981,8 +1947,6 @@
       "enclosure_length": "58107529",
       "itunes_duration": "40:20",
       "speakers": [
-        "Kim Cattrall",
-        "Armie Hammer",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2021,8 +1985,6 @@
       "enclosure_length": "54083836",
       "itunes_duration": "37:33",
       "speakers": [
-        "Katy Perry",
-        "Alec Baldwin",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2062,6 +2024,7 @@
       "enclosure_length": "51520283",
       "itunes_duration": "35:46",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2082,6 +2045,8 @@
       "enclosure_length": "57701899",
       "itunes_duration": "40:04",
       "speakers": [
+        "Stand Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2102,9 +2067,6 @@
       "itunes_duration": "39:27",
       "speakers": [
         "Holly Willoughby",
-        "Pierce Brosnan",
-        "Hawk Tuah",
-        "Justin Timberlake",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2145,10 +2107,8 @@
       "enclosure_length": "64524874",
       "itunes_duration": "44:48",
       "speakers": [
-        "Justin Timberlake",
-        "Katy Perry",
-        "Dr Luke",
-        "Gypsy Rose Blanchard",
+        "Raw Dogging Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2167,7 +2127,7 @@
       "enclosure_length": "87743552",
       "itunes_duration": "1:00:55",
       "speakers": [
-        "Theo Von",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2187,8 +2147,7 @@
       "enclosure_length": "95284999",
       "itunes_duration": "1:06:09",
       "speakers": [
-        "Alec Baldwin",
-        "Miriam Margoyles",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2207,9 +2166,6 @@
       "enclosure_length": "77204084",
       "itunes_duration": "53:36",
       "speakers": [
-        "Kelly Rowland",
-        "Vivienne Jolie",
-        "Celine Dion",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2230,8 +2186,6 @@
       "enclosure_length": "75831088",
       "itunes_duration": "52:39",
       "speakers": [
-        "Harrison Butker",
-        "Ben Affleck",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2251,8 +2205,6 @@
       "enclosure_length": "81008976",
       "itunes_duration": "56:15",
       "speakers": [
-        "Uncle Buck",
-        "Anne Hathaway",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2272,12 +2224,9 @@
       "enclosure_length": "93559036",
       "itunes_duration": "1:04:58",
       "speakers": [
-        "Nikki Glazer",
-        "Tom Brady",
-        "Sarah Tiana",
-        "Sarah Silverman",
-        "Amy Schumer",
-        "Gisele Bündchen",
+        "Lake Como Katherine",
+        "Telling Everybody Everything",
+        "Netflix Festival",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2297,9 +2246,6 @@
       "enclosure_length": "89698974",
       "itunes_duration": "1:02:17",
       "speakers": [
-        "Barbara Streisand",
-        "Melissa McCarthy",
-        "Jerry-Atric Seinfeld",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2320,9 +2266,6 @@
       "itunes_duration": "53:12",
       "speakers": [
         "Joe Wilkinson",
-        "Kim vs Taylor",
-        "Celine Dion",
-        "Gen Zs",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2343,8 +2286,6 @@
       "itunes_duration": "1:01:51",
       "speakers": [
         "Nicole Brown-Simpson",
-        "Hannah Waddingham",
-        "Gypsy Rose Blanchard",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2363,8 +2304,8 @@
       "enclosure_length": "81501749",
       "itunes_duration": "56:35",
       "speakers": [
-        "YouTube Stars",
-        "Calvin Harris",
+        "Wet Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2383,7 +2324,6 @@
       "enclosure_length": "94733919",
       "itunes_duration": "1:05:46",
       "speakers": [
-        "Abby Hensel",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2403,8 +2343,6 @@
       "itunes_duration": "58:43",
       "speakers": [
         "Hip Hop Epstein Ring",
-        "Kate Middleton",
-        "Tik Tok",
         "Katherine Ryan"
       ],
       "topics": []
@@ -2421,7 +2359,8 @@
       "enclosure_length": "89063258",
       "itunes_duration": "1:01:50",
       "speakers": [
-        "Kate Middleton",
+        "Cut My Finger Off",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2480,7 +2419,6 @@
       "enclosure_length": "64454030",
       "itunes_duration": "44:45",
       "speakers": [
-        "Travis Kelce",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2503,7 +2441,6 @@
       "itunes_duration": "48:34",
       "speakers": [
         "Oscar Snubs",
-        "Z's Brody",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2546,8 +2483,6 @@
       "speakers": [
         "Golden Globes Tough",
         "Jo Koy",
-        "Comedian Kat Williams",
-        "Foster Drama",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2567,8 +2502,6 @@
       "itunes_duration": "1:01:44",
       "speakers": [
         "Potty Trained",
-        "Gypsy Rose",
-        "Sienna Miller",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2607,8 +2540,6 @@
       "itunes_duration": "1:13:26",
       "speakers": [
         "Celine Dion",
-        "Justin Timberlake",
-        "Vanessa Feltz",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2632,6 +2563,9 @@
       "enclosure_length": "112683177",
       "itunes_duration": "1:18:14",
       "speakers": [
+        "Pedicure Katherine",
+        "Telling Everybody Everything",
+        "Do Men Really Want",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2651,8 +2585,6 @@
       "enclosure_length": "77115059",
       "itunes_duration": "53:32",
       "speakers": [
-        "Angelina Jolie",
-        "Brad Pitt",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2773,6 +2705,8 @@
       "enclosure_length": "95654892",
       "itunes_duration": "1:06:25",
       "speakers": [
+        "Glamour Tracksuit Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2808,6 +2742,8 @@
       "enclosure_length": "70021873",
       "itunes_duration": "48:37",
       "speakers": [
+        "Permission Waiver Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2865,6 +2801,7 @@
       "enclosure_length": "73934598",
       "itunes_duration": "51:20",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2883,7 +2820,6 @@
       "enclosure_length": "65093508",
       "itunes_duration": "45:12",
       "speakers": [
-        "Dane Baptiste",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2906,7 +2842,7 @@
       "enclosure_length": "93098863",
       "itunes_duration": "1:04:38",
       "speakers": [
-        "Tarryn Manning",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2964,7 +2900,6 @@
       "enclosure_length": "91809250",
       "itunes_duration": "1:03:45",
       "speakers": [
-        "Carlee Russell",
         "Katherine Ryan"
       ],
       "topics": [
@@ -2984,6 +2919,8 @@
       "enclosure_length": "82816440",
       "itunes_duration": "57:30",
       "speakers": [
+        "Blue Dress Gold Dress",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3025,7 +2962,6 @@
       "itunes_duration": "3:10",
       "speakers": [
         "Kathy Burke",
-        "xx Hosted",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3067,7 +3003,6 @@
       "itunes_duration": "1:08:29",
       "speakers": [
         "Cancel Bobby Katherine",
-        "Fenna Gracie",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3142,6 +3077,8 @@
       "enclosure_length": "90882008",
       "itunes_duration": "1:03:06",
       "speakers": [
+        "Coronation Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3180,6 +3117,9 @@
       "enclosure_length": "92165978",
       "itunes_duration": "1:04:00",
       "speakers": [
+        "Surgery Abroad",
+        "Property Management Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3242,8 +3182,6 @@
       "speakers": [
         "Mark Walhberg",
         "Dad Bod",
-        "Mark Wahlberg",
-        "Joe Lycett",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3263,6 +3201,7 @@
       "enclosure_length": "98030364",
       "itunes_duration": "1:08:04",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3324,7 +3263,8 @@
       "enclosure_length": "80824656",
       "itunes_duration": "56:07",
       "speakers": [
-        "Tik Tok",
+        "Year Old Girlfriend Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3346,6 +3286,7 @@
       "enclosure_length": "80289250",
       "itunes_duration": "55:45",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3381,6 +3322,7 @@
       "enclosure_length": "91387947",
       "itunes_duration": "1:03:27",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3401,7 +3343,6 @@
       "enclosure_length": "79723124",
       "itunes_duration": "55:21",
       "speakers": [
-        "Maya Jama",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3422,7 +3363,6 @@
       "speakers": [
         "Image Katherine",
         "Telling Everybody Everything",
-        "Prince Harry",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3543,6 +3483,8 @@
       "enclosure_length": "91488257",
       "itunes_duration": "1:03:31",
       "speakers": [
+        "Holiday Scams Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3581,8 +3523,8 @@
       "enclosure_length": "76196594",
       "itunes_duration": "52:54",
       "speakers": [
-        "Pete Davidson",
-        "Jennifer Aniston",
+        "Jen Aniston",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3620,7 +3562,6 @@
       "enclosure_length": "98372045",
       "itunes_duration": "1:08:18",
       "speakers": [
-        "Matt Hancock",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3641,6 +3582,8 @@
       "enclosure_length": "96871781",
       "itunes_duration": "1:07:16",
       "speakers": [
+        "Socials Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3661,7 +3604,6 @@
       "itunes_duration": "1:05:29",
       "speakers": [
         "Bill Murray",
-        "Angela Lansbury",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3681,7 +3623,6 @@
       "enclosure_length": "110105831",
       "itunes_duration": "1:16:27",
       "speakers": [
-        "Louis CK",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3719,7 +3660,6 @@
       "enclosure_length": "67889655",
       "itunes_duration": "47:08",
       "speakers": [
-        "Adam Levine",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3740,6 +3680,8 @@
       "enclosure_length": "95931372",
       "itunes_duration": "1:06:36",
       "speakers": [
+        "Tattle Katherine",
+        "Telling Everybody",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3758,7 +3700,6 @@
       "enclosure_length": "76041740",
       "itunes_duration": "52:48",
       "speakers": [
-        "Nick Cannon",
         "Katherine Ryan"
       ],
       "topics": []
@@ -3797,8 +3738,8 @@
       "enclosure_length": "84426419",
       "itunes_duration": "58:37",
       "speakers": [
-        "Jennifer Lopez",
-        "Dunkin Donuts",
+        "Name Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3818,6 +3759,7 @@
       "enclosure_length": "71801126",
       "itunes_duration": "49:51",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3862,7 +3804,6 @@
       "itunes_duration": "1:10:38",
       "speakers": [
         "Meaningful Loads",
-        "Tristan Thompson",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3883,7 +3824,6 @@
       "itunes_duration": "46:01",
       "speakers": [
         "Pancreatitis Katherine",
-        "Travis Barker",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3921,6 +3861,7 @@
       "enclosure_length": "70053220",
       "itunes_duration": "48:38",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": []
@@ -3937,6 +3878,8 @@
       "enclosure_length": "83815154",
       "itunes_duration": "58:12",
       "speakers": [
+        "Impossible Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3955,11 +3898,8 @@
       "enclosure_length": "63633367",
       "itunes_duration": "44:11",
       "speakers": [
-        "Blac Chyna",
-        "Johnny Depp",
-        "Wagatha Christie",
-        "Coleen Rooney",
-        "Rebekah Vardy",
+        "Petty Lawsuits Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -3979,7 +3919,6 @@
       "enclosure_length": "66344251",
       "itunes_duration": "46:04",
       "speakers": [
-        "Pete Davidson",
         "Katherine Ryan"
       ],
       "topics": []
@@ -4014,6 +3953,7 @@
       "enclosure_length": "86862076",
       "itunes_duration": "1:00:19",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": []
@@ -4049,7 +3989,6 @@
       "enclosure_length": "89562301",
       "itunes_duration": "1:02:11",
       "speakers": [
-        "Candice Brathwaite",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4068,6 +4007,8 @@
       "enclosure_length": "86994360",
       "itunes_duration": "1:00:24",
       "speakers": [
+        "Mental Health Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4089,7 +4030,6 @@
       "itunes_duration": "51:02",
       "speakers": [
         "Manny Katherine",
-        "Kim Kardashian Once Again",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4162,6 +4102,8 @@
       "enclosure_length": "46727963",
       "itunes_duration": "32:26",
       "speakers": [
+        "Not Che Diaz Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4180,6 +4122,8 @@
       "enclosure_length": "53325867",
       "itunes_duration": "37:01",
       "speakers": [
+        "Year Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4347,7 +4291,6 @@
       "itunes_duration": "54:05",
       "speakers": [
         "Pete Davidson",
-        "Kim Kardashian",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4387,6 +4330,8 @@
       "enclosure_length": "67093442",
       "itunes_duration": "46:35",
       "speakers": [
+        "Never Going Out Again",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4446,9 +4391,6 @@
       "enclosure_length": "94935167",
       "itunes_duration": "1:05:55",
       "speakers": [
-        "Jimmy Carr",
-        "Rob Beckett",
-        "Geoff Norcott",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4490,6 +4432,8 @@
       "enclosure_length": "65248362",
       "itunes_duration": "45:18",
       "speakers": [
+        "Manufactured Chaos Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4525,6 +4469,8 @@
       "enclosure_length": "82286677",
       "itunes_duration": "57:08",
       "speakers": [
+        "Texas Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4623,6 +4569,8 @@
       "enclosure_length": "60316234",
       "itunes_duration": "41:53",
       "speakers": [
+        "Car Door Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4661,7 +4609,6 @@
       "speakers": [
         "Freedom Day",
         "Telling Everybody Everything",
-        "Love Island",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4700,7 +4647,8 @@
       "enclosure_length": "62349397",
       "itunes_duration": "43:17",
       "speakers": [
-        "Bill Cosby",
+        "Canada Day",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4720,7 +4668,6 @@
       "enclosure_length": "59995242",
       "itunes_duration": "41:39",
       "speakers": [
-        "Matt Hancock",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4762,7 +4709,6 @@
       "itunes_duration": "36:03",
       "speakers": [
         "Birth Story",
-        "Frederick Ryan Kootstra",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4783,6 +4729,7 @@
       "enclosure_length": "61194575",
       "itunes_duration": "42:29",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4802,7 +4749,6 @@
       "enclosure_length": "62849067",
       "itunes_duration": "43:38",
       "speakers": [
-        "Ted Bundy Film",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4823,7 +4769,6 @@
       "itunes_duration": "45:56",
       "speakers": [
         "Eurovision Song Contest",
-        "Diana Panorama",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4842,7 +4787,6 @@
       "enclosure_length": "65417008",
       "itunes_duration": "45:25",
       "speakers": [
-        "Courtney Stodden",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4881,6 +4825,8 @@
       "enclosure_length": "54021769",
       "itunes_duration": "37:30",
       "speakers": [
+        "Mangle Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4900,6 +4846,9 @@
       "enclosure_length": "43778112",
       "itunes_duration": "30:26",
       "speakers": [
+        "Unmissable Movies",
+        "Incredible Shows",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4938,6 +4887,8 @@
       "enclosure_length": "62926180",
       "itunes_duration": "43:41",
       "speakers": [
+        "Ontario Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -4976,7 +4927,6 @@
       "itunes_duration": "40:58",
       "speakers": [
         "Telling Everybody Everything",
-        "Fat Acceptance Movement",
         "Katherine Ryan"
       ],
       "topics": []
@@ -4993,7 +4943,6 @@
       "enclosure_length": "70623735",
       "itunes_duration": "49:02",
       "speakers": [
-        "Hayley Quinn",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5013,8 +4962,8 @@
       "enclosure_length": "52826823",
       "itunes_duration": "36:40",
       "speakers": [
-        "Meghan Mccain",
-        "Virginia Woolf",
+        "Operation Varsity Blues Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5112,7 +5061,6 @@
       "speakers": [
         "Baby Sussex",
         "Tik Toks",
-        "Tik Tok",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5135,6 +5083,8 @@
       "enclosure_length": "49723477",
       "itunes_duration": "34:31",
       "speakers": [
+        "Violet Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5157,7 +5107,6 @@
       "speakers": [
         "Nights Worth Waiting",
         "Hugo Chegwin",
-        "Tweet Jameson uk",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5222,7 +5171,7 @@
       "enclosure_length": "56328277",
       "itunes_duration": "39:06",
       "speakers": [
-        "Tiger Woods",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5263,6 +5212,10 @@
       "enclosure_length": "50070801",
       "itunes_duration": "34:46",
       "speakers": [
+        "Explaining Bean Dad",
+        "Violet Katherine",
+        "Telling Everybody Everything",
+        "Bean Dad",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5282,6 +5235,7 @@
       "enclosure_length": "51761655",
       "itunes_duration": "35:56",
       "speakers": [
+        "Medicine Hat",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5304,7 +5258,6 @@
       "itunes_duration": "34:30",
       "speakers": [
         "Timothée Chalamet",
-        "Timothee Chalamet",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5324,6 +5277,7 @@
       "enclosure_length": "52791088",
       "itunes_duration": "36:39",
       "speakers": [
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5400,6 +5354,8 @@
       "enclosure_length": "46484711",
       "itunes_duration": "32:16",
       "speakers": [
+        "Treacherous Women",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5419,7 +5375,10 @@
       "enclosure_length": "50949769",
       "itunes_duration": "35:22",
       "speakers": [
-        "Michael Franzese",
+        "My Actual Mafia Crime",
+        "Boss Friend Katherine",
+        "Telling Everybody Everything",
+        "New York Mafia",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5461,6 +5420,9 @@
       "enclosure_length": "56179065",
       "itunes_duration": "39:00",
       "speakers": [
+        "Hungry Kids",
+        "My Dad Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5707,7 +5669,6 @@
       "enclosure_length": "50259509",
       "itunes_duration": "34:54",
       "speakers": [
-        "Katherine Knight",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5747,7 +5708,6 @@
       "enclosure_length": "51293331",
       "itunes_duration": "35:37",
       "speakers": [
-        "Verona Rose",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5841,7 +5801,8 @@
       "enclosure_length": "43348136",
       "itunes_duration": "30:06",
       "speakers": [
-        "Bill Cosby",
+        "Had Coronavirus Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5863,7 +5824,6 @@
       "speakers": [
         "Cancel Culture Katherine",
         "Telling Everybody Everything",
-        "Tyra Banks",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5907,6 +5867,9 @@
       "enclosure_length": "40664838",
       "itunes_duration": "28:14",
       "speakers": [
+        "Being Burgled",
+        "Home Katherine",
+        "Telling Everybody Everything",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5927,8 +5890,6 @@
       "speakers": [
         "Tiger King",
         "Queen Violet",
-        "Kim Kardashian",
-        "Carole Baskin",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5950,7 +5911,6 @@
       "enclosure_length": "37882484",
       "itunes_duration": "26:18",
       "speakers": [
-        "dick appointments",
         "Katherine Ryan"
       ],
       "topics": [
@@ -5985,210 +5945,211 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — Jim Carrey's Face and Maura Higgins' Body — speakers: Jim Carrey, Maura Higgins Body, Katherine Ryan
 - 2026-02-23 — You Wanna Be On Top? — speakers: Katherine Ryan
-- 2026-02-18 — Caught Out In My Pants — speakers: Katy Perry, Katherine Ryan
-- 2026-02-10 — The Facelift — speakers: Katherine Ryan
-- 2026-02-02 — LA and a True Crime Treat — speakers: Andrew Johnston, Katherine Ryan
-- 2026-01-25 — Flight Canceled LOL — speakers: Fenna Grace, Katherine Ryan
-- 2026-01-20 — The Beckham Drama Explained — speakers: Brooklyn Beckham, Baby Holland, Katherine Ryan
-- 2026-01-12 — Nudification and Toxic Hollywood Moms — speakers: Katherine Ryan
-- 2026-01-05 — Designer Dogs, Centerparcs & Dead Dad — speakers: Gordon Ramsey, Katherine Ryan
-- 2025-12-29 — Xmas and The Slime Hut — speakers: Brian Cox, Katherine Ryan
-- 2025-12-23 — 2 Sleeps To Christmas! — speakers: Katherine Ryan, Jennifer Lawrence, Leonardo DiCaprio
-- 2025-12-15 — Under The Knife — speakers: Fenna Grace, Bonnie Blue, Katherine Ryan
-- 2025-12-08 — Fenna's Bday, BIG NAPPY, Hot Dads — speakers: Katherine Ryan
-- 2025-12-01 — Storytime: The Life and Loves of LIVVY — speakers: Tinsel Town, Sky Cinema, Fenna Grace, Andrew Johnston, Katherine Ryan
-- 2025-11-24 — Italian Elvis — speakers: Jane Fonda, Jeffrey Epstein, Katherine Ryan
-- 2025-11-17 — The Dog That Hasn't Barked — speakers: Katherine Ryan
-- 2025-11-11 — Have I Got C*nts For You — speakers: Katy Perry, Justin Trudeau, Katherine Ryan
+- 2026-02-18 — Caught Out In My Pants — speakers: Telling Everybody Everything, Katherine Ryan
+- 2026-02-10 — The Facelift — speakers: Telling Everybody Everything, Katherine Ryan
+- 2026-02-02 — LA and a True Crime Treat — speakers: True Crime Treat Katherine, Telling Everybody Everything, Katherine Ryan
+- 2026-01-25 — Flight Canceled LOL — speakers: Katherine Ryan
+- 2026-01-20 — The Beckham Drama Explained — speakers: Katherine Ryan
+- 2026-01-12 — Nudification and Toxic Hollywood Moms — speakers: Toxic Hollywood Moms Katherine, Telling Everybody Everything, Katherine Ryan
+- 2026-01-05 — Designer Dogs, Centerparcs & Dead Dad — speakers: Katherine Ryan
+- 2025-12-29 — Xmas and The Slime Hut — speakers: Katherine Ryan
+- 2025-12-23 — 2 Sleeps To Christmas! — speakers: Katherine Ryan
+- 2025-12-15 — Under The Knife — speakers: Katherine Ryan
+- 2025-12-08 — Fenna's Bday, BIG NAPPY, Hot Dads — speakers: Telling Everybody Everything, Katherine Ryan
+- 2025-12-01 — Storytime: The Life and Loves of LIVVY — speakers: Telling Everybody Everything, Katherine Ryan
+- 2025-11-24 — Italian Elvis — speakers: Katherine Ryan
+- 2025-11-17 — The Dog That Hasn't Barked — speakers: food poisoni, Katherine Ryan
+- 2025-11-11 — Have I Got C*nts For You — speakers: Telling Everybody Everything, Katherine Ryan
 - 2025-11-03 — Just Andrew — speakers: Katherine Ryan
-- 2025-10-29 — David Harbour Says The Quiet Part LOUD — speakers: David Harbour, Justin Trudeau, Katy Perry, Katherine Ryan
+- 2025-10-29 — David Harbour Says The Quiet Part LOUD — speakers: David Harbour, Katherine Ryan
 - 2025-10-20 — Holland Juliette — speakers: Holland Juliette, Katherine Ryan
-- 2025-10-15 — Katy Perry and Justin Trudeau IN JEANS on a Yacht!?! — speakers: Katy Perry, Justin Trudeau, Kelly Clarkson, Katherine Ryan
-- 2025-10-13 — Am I The Drama? — speakers: Nicki Minaj, Ian Watkins, Katherine Ryan
-- 2025-10-01 — Bobby's Micropeen, Tylenol and NFL — speakers: Noel Fitzpatrick, Tik Toks, Katherine Ryan
-- 2025-09-23 — Legoland and Why You Can't Trust A Man With Numbers in His Name — speakers: Legoland Windsor Vip NO, Steffon Diggs, Katherine Ryan
+- 2025-10-15 — Katy Perry and Justin Trudeau IN JEANS on a Yacht!?! — speakers: Katy Perry, Justin Trudeau, Katherine Ryan
+- 2025-10-13 — Am I The Drama? — speakers: Katherine Ryan
+- 2025-10-01 — Bobby's Micropeen, Tylenol and NFL — speakers: Katherine Ryan
+- 2025-09-23 — Legoland and Why You Can't Trust A Man With Numbers in His Name — speakers: Katherine Ryan
 - 2025-09-15 — Another Strictly Cheater, Charlie Kirk and WOMEN — speakers: Charlie Kirk, Katherine Ryan
-- 2025-09-06 — Violet Joins to Discuss Taylor & Travis ENGAGEMENT — speakers: Discuss Taylor, Travis Engagement, Travis Kelce, Katherine Ryan
+- 2025-09-06 — Violet Joins to Discuss Taylor & Travis ENGAGEMENT — speakers: Discuss Taylor, Travis Engagement, Katherine Ryan
 - 2025-08-29 — Cardi B in Court and The Bop House — speakers: Bop House, Katherine Ryan
-- 2025-08-22 — Professional Father — speakers: Katie Price, Katherine Ryan
-- 2025-08-13 — Too Fit to Fly? — speakers: Katherine Ryan
-- 2025-08-06 — Lyme Disease With Bobby K — speakers: Brandy Glanville, Katherine Ryan
-- 2025-08-03 — Deadbeat Dads and Oasis — speakers: Katy Perry, Justin Trudeau, Sam Faiers, Katherine Ryan
+- 2025-08-22 — Professional Father — speakers: Katherine Ryan
+- 2025-08-13 — Too Fit to Fly? — speakers: Too Fit, Telling Everybody Everything, Katherine Ryan
+- 2025-08-06 — Lyme Disease With Bobby K — speakers: Katherine Ryan
+- 2025-08-03 — Deadbeat Dads and Oasis — speakers: Deadbeat Dads, Oasis Katherine, Telling Everybody, Katherine Ryan
 - 2025-07-22 — Coldplay Nerd Alert — speakers: Katherine Ryan
-- 2025-07-16 — Two Weeks Til Stalker, Epstein Files and Diabetic Barbie — speakers: Epstein Files, Lena Dunham, Katherine Ryan
-- 2025-07-09 — The Cuck Chair — speakers: Lauren Sanchez, Katherine Ryan
-- 2025-06-25 — Stalker Being Released in August — speakers: Chris Brown, Sabrina Carpenter, Ricki Lake, Kris Jenner, Katherine Ryan
-- 2025-06-14 — Breastfeeding Rows and Fathers Day — speakers: Karen Millen, Katherine Ryan
-- 2025-06-10 — Bieber's Red Flags and THOSE PIES — speakers: strawberry custard, Katie Price, Justin Bieber, Will Trump, Katherine Ryan
-- 2025-06-04 — Cancel Mighty Hoopla — speakers: Cancel Mighty Hoopla, Mighty Hoopla, Katherine Ryan
+- 2025-07-16 — Two Weeks Til Stalker, Epstein Files and Diabetic Barbie — speakers: Epstein Files, Katherine Ryan
+- 2025-07-09 — The Cuck Chair — speakers: Telling Everybody Everything, Katherine Ryan
+- 2025-06-25 — Stalker Being Released in August — speakers: Stalker Being Released, August Katherine, Telling Everybody Everything, Katherine Ryan
+- 2025-06-14 — Breastfeeding Rows and Fathers Day — speakers: Katherine Ryan
+- 2025-06-10 — Bieber's Red Flags and THOSE PIES — speakers: Katherine Ryan
+- 2025-06-04 — Cancel Mighty Hoopla — speakers: Cancel Mighty Hoopla, Katherine Ryan
 - 2025-06-01 — RIP Meg Ryan — speakers: Rip Meg Ryan, Katherine Ryan
-- 2025-05-28 — Bobby's 9/11 — speakers: Kris Jenner, Katherine Ryan
+- 2025-05-28 — Bobby's 9/11 — speakers: Katherine Ryan
 - 2025-05-21 — Chris Brown, Diddy and Of COURSE I've Seen The Facelift — speakers: Chris Brown, Katherine Ryan
-- 2025-05-08 — *NEW SEASON* Cheryl's Millions, Bey's Kids, Met Gala and More — speakers: Katherine Ryan
-- 2025-04-27 — Would Shannon Sharpe Bang A Woman His Own Age for $50M? — speakers: Gen Zs, Shannon Sharpe, Katherine Ryan
-- 2025-04-17 — Space Up Your Life — speakers: Aimee Lou Wood, Katherine Ryan
-- 2025-04-05 — Foxy Knoxy Book, Kim K's New Man, Kids Swim Lessons — speakers: Foxy Knoxy Book, Amanda Knox, Katherine Ryan
+- 2025-05-08 — *NEW SEASON* Cheryl's Millions, Bey's Kids, Met Gala and More — speakers: Liam Pay, Katherine Ryan
+- 2025-04-27 — Would Shannon Sharpe Bang A Woman His Own Age for $50M? — speakers: Katherine Ryan
+- 2025-04-17 — Space Up Your Life — speakers: Telling Everybody Everything, Katherine Ryan
+- 2025-04-05 — Foxy Knoxy Book, Kim K's New Man, Kids Swim Lessons — speakers: Foxy Knoxy Book, Katherine Ryan
 - 2025-03-28 — Does Herpes Kill Melanoma? — speakers: Herpes Kill Melanoma, Katherine Ryan
-- 2025-03-21 — Reality TV Saved My Life — speakers: Snow White, Katherine Ryan
-- 2025-03-15 — Melanomaniac — speakers: Meghan Sussex, Teddy Melencamp, Katherine Ryan
-- 2025-03-10 — I'm Sussex Now — speakers: Casey Anthony, Meghan Not-Markle, Katherine Ryan
-- 2025-03-04 — Yes He Would — speakers: Head Spa, Katherine Ryan
-- 2025-02-26 — Pitfalls of The Pill — speakers: Hilaria Baldwin, Katherine Ryan
-- 2025-02-21 — Kyle and Mauricio Timeline — speakers: Mauricio Timeline, Rebecca Goodwin, Katherine Ryan
+- 2025-03-21 — Reality TV Saved My Life — speakers: Telling Everybody Everything, Katherine Ryan
+- 2025-03-15 — Melanomaniac — speakers: Meghan Sussex, Katherine Ryan
+- 2025-03-10 — I'm Sussex Now — speakers: Casey Anthony, Katherine Ryan
+- 2025-03-04 — Yes He Would — speakers: Telling Everybody Everything, Katherine Ryan
+- 2025-02-26 — Pitfalls of The Pill — speakers: Telling Everybody Everything, Katherine Ryan
+- 2025-02-21 — Kyle and Mauricio Timeline — speakers: Mauricio Timeline, Katherine Ryan
 - 2025-02-17 — Bikini Bush — speakers: Bikini Bush, Katherine Ryan
-- 2025-02-13 — My Boyfriend Has Two Girlfriends...And A WIFE — speakers: Serena Williams, Armie Hammer, Katherine Ryan
-- 2025-02-05 — Kanye Koercive Kontrol? — speakers: Kanye Koercive Kontrol, Kanye West, Karla Sofía Gascón, Katherine Ryan
-- 2025-01-31 — Julia Haart wins £75M — speakers: Julia Haart, Barack Obama, Katherine Ryan
+- 2025-02-13 — My Boyfriend Has Two Girlfriends...And A WIFE — speakers: Telling Everybody Everything, Katherine Ryan
+- 2025-02-05 — Kanye Koercive Kontrol? — speakers: Kanye Koercive Kontrol, Katherine Ryan
+- 2025-01-31 — Julia Haart wins £75M — speakers: Julia Haart, Katherine Ryan
 - 2025-01-23 — Captain Camp — speakers: Tik Tok, Katherine Ryan
-- 2025-01-17 — Now I Know What a 'Bonnie Blue' Is — speakers: Bonnie Blue, Heidi Montag, Katherine Ryan
-- 2025-01-08 — Another Masked Intruder!? — speakers: Nikki Glaser, Katherine Ryan
-- 2025-01-05 — Molly Mae & Haircut Reunion Rumours? — speakers: Tommy Fury, Tik Tok, Katherine Ryan
-- 2024-12-30 — 2025 Predictions — speakers: Blake Lively, Patrick Mahomes, Katherine Ryan
-- 2024-12-27 — Vicars, Affairs, and More Affairs! — speakers: Lindsay Lohan, Katherine Ryan
-- 2024-12-18 — My Hands Are Still Wet — speakers: Fenna Grace, Barry Keoghan, Katherine Ryan
-- 2024-12-11 — Hot Assassin — speakers: Luigi Mangione, JonBenet Ramsey, Katherine Ryan
+- 2025-01-17 — Now I Know What a 'Bonnie Blue' Is — speakers: Bonnie Blue, Katherine Ryan
+- 2025-01-08 — Another Masked Intruder!? — speakers: Katherine Ryan
+- 2025-01-05 — Molly Mae & Haircut Reunion Rumours? — speakers: Katherine Ryan
+- 2024-12-30 — 2025 Predictions — speakers: Katherine Ryan
+- 2024-12-27 — Vicars, Affairs, and More Affairs! — speakers: Katherine Ryan
+- 2024-12-18 — My Hands Are Still Wet — speakers: Wet Katherine, Telling Everybody Everything, Got Talent, Katherine Ryan
+- 2024-12-11 — Hot Assassin — speakers: Hot Assassin Katherine, Telling Everybody Everything, Katherine Ryan
 - 2024-12-05 — Barry Keoghan, Jacob Rees-Mogg, JonBenet Ramsey — speakers: Barry Keoghan, Jacob Rees-Mogg, JonBenet Ramsey Katherine, Katherine Ryan
-- 2024-12-02 — Gift Giving Guide — speakers: Gift Giving Guide, Conor McGregor, Katherine Ryan
+- 2024-12-02 — Gift Giving Guide — speakers: Gift Giving Guide, Katherine Ryan
 - 2024-11-28 — Hanging Crosses Keeps Mother-In-Law at Bay — speakers: Katherine Ryan
-- 2024-11-26 — Everyone Hates My Christmas Gift — speakers: Ellen Degeneres, Katherine Ryan
-- 2024-11-19 — Space - A Red Flag — speakers: Nicole Sherzinger, Tony Award, Katherine Ryan
+- 2024-11-26 — Everyone Hates My Christmas Gift — speakers: Katherine Ryan
+- 2024-11-19 — Space - A Red Flag — speakers: Red Flag Katherine, Telling Everybody Everything, Katherine Ryan
 - 2024-11-14 — My Neighbour Is In a Cult — speakers: Cult Katherine, Telling Everybody Everything, Katherine Ryan
-- 2024-11-05 — Daughter Sentenced For Putting Dad's Mistress' Pics on Escort Site — speakers: Daughter Sentenced, Cynthia Erivo, Nick Cannon, Tony Hinchcliffe, Katherine Ryan
-- 2024-11-02 — Domingo — speakers: Katherine Ryan
-- 2024-10-23 — Sleep Divorce — speakers: Mariah Carey, Khloe Kardashian, Heidi Klum, Niagara Falls, Katherine Ryan
-- 2024-10-22 — Love Bombed By A Taken Man — speakers: Hygiene Freak, Katherine Ryan
-- 2024-10-17 — God Bless Fenna Grace — speakers: Fenna Grace, St Joseph, Katherine Ryan
-- 2024-10-06 — Q&A in Stockholm — speakers: Katherine Ryan
-- 2024-10-04 — Offset's Offspring — speakers: Katherine Ryan
+- 2024-11-05 — Daughter Sentenced For Putting Dad's Mistress' Pics on Escort Site — speakers: Daughter Sentenced, Katherine Ryan
+- 2024-11-02 — Domingo — speakers: Domingo Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-10-23 — Sleep Divorce — speakers: Sleep Divorce Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-10-22 — Love Bombed By A Taken Man — speakers: Katherine Ryan
+- 2024-10-17 — God Bless Fenna Grace — speakers: God Bless Fenna Grace, Telling Everybody Everything, Katherine Ryan
+- 2024-10-06 — Q&A in Stockholm — speakers: Stockholm Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-10-04 — Offset's Offspring — speakers: Offspring Katherine, Telling Everybody Everything, Katherine Ryan
 - 2024-09-24 — Not To Be Rude... — speakers: Katherine Ryan
-- 2024-09-23 — Freaks and Freak Offs — speakers: Tik Tok, Katherine Ryan
+- 2024-09-23 — Freaks and Freak Offs — speakers: Katherine Ryan
 - 2024-09-15 — How To Be Popular in a Brothel — speakers: Brothel Katherine, Telling Everybody Everything, Katherine Ryan
-- 2024-09-13 — From Teen Spirit to Middle-Aged Divorce? — speakers: Dave Grohl, Lottie Moss, Kourtney Kardashian, Casey Anthony, Katy Perry, Katherine Ryan
-- 2024-09-08 — Our Teen Son is NOT The Father — speakers: Chapell Roan, Katherine Ryan
-- 2024-09-06 — Rainbow Park — speakers: Katy Perry, Lily Allen, Katherine Ryan
-- 2024-08-30 — Yoga Studio Update — speakers: Katherine Ryan
-- 2024-08-29 — Unwelcome To The Scottish Fold — speakers: Ben Affleck, Tommy Fury, Molly Mae, Katherine Ryan
-- 2024-08-26 — Does Scott Peterson Have Brain Damage? — speakers: Scott Peterson, Brain Damage, Laci Peterson, Katherine Ryan
-- 2024-08-21 — Blake Lively - Too Demure? — speakers: Blake Lively Too, Blake Lively, Katherine Ryan
-- 2024-08-16 — Furious — speakers: Furious Katherine, Joe Budden, Katherine Ryan
+- 2024-09-13 — From Teen Spirit to Middle-Aged Divorce? — speakers: Dave Gro, Katherine Ryan
+- 2024-09-08 — Our Teen Son is NOT The Father — speakers: Katherine Ryan
+- 2024-09-06 — Rainbow Park — speakers: Rainbow Park Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-08-30 — Yoga Studio Update — speakers: Yoga Studio Update Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-08-29 — Unwelcome To The Scottish Fold — speakers: Fold Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-08-26 — Does Scott Peterson Have Brain Damage? — speakers: Scott Peterson, Brain Damage, Katherine Ryan
+- 2024-08-21 — Blake Lively - Too Demure? — speakers: Blake Lively Too, Katherine Ryan
+- 2024-08-16 — Furious — speakers: Furious Katherine, Katherine Ryan
 - 2024-08-14 — Internet Breaking — speakers: Katherine Ryan
 - 2024-08-09 — Should I Raise My Baby With My Sugar Daddy? — speakers: Katherine Ryan
-- 2024-08-07 — His Pole Vaulted His Dreams — speakers: Anthony Ammirati, Robert Kennedy JR, Katherine Ryan
-- 2024-08-04 — Can I Ban Dad's Mistress From His Funeral? — speakers: Jenny Keane, Katherine Ryan
-- 2024-08-03 — Are Men Turning Us Against Each Other? — speakers: Hannah Neeleman, Megan Agnew, Katherine Ryan
+- 2024-08-07 — His Pole Vaulted His Dreams — speakers: Katherine Ryan
+- 2024-08-04 — Can I Ban Dad's Mistress From His Funeral? — speakers: Katherine Ryan
+- 2024-08-03 — Are Men Turning Us Against Each Other? — speakers: Katherine Ryan
 - 2024-07-26 — Texting His Mistress During School Panto — speakers: Katherine Ryan
-- 2024-07-25 — A Costly Breakup — speakers: Kim Cattrall, Armie Hammer, Katherine Ryan
+- 2024-07-25 — A Costly Breakup — speakers: Katherine Ryan
 - 2024-07-19 — Is My Husband An Alcoholic? — speakers: Katherine Ryan
-- 2024-07-17 — Bobby's Conspiracies — speakers: Katy Perry, Alec Baldwin, Katherine Ryan
+- 2024-07-17 — Bobby's Conspiracies — speakers: Katherine Ryan
 - 2024-07-12 — Post-Nut Clarity HATE — speakers: Katherine Ryan
-- 2024-07-10 — The Rise and RISE of Celebrity NDAs — speakers: Katherine Ryan
-- 2024-07-05 — Pregnant From One Night Stand — speakers: Katherine Ryan
-- 2024-07-03 — Holly Willoughby Kidnap Plot — speakers: Holly Willoughby, Pierce Brosnan, Hawk Tuah, Justin Timberlake, Katherine Ryan
+- 2024-07-10 — The Rise and RISE of Celebrity NDAs — speakers: Telling Everybody Everything, Katherine Ryan
+- 2024-07-05 — Pregnant From One Night Stand — speakers: Stand Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-07-03 — Holly Willoughby Kidnap Plot — speakers: Holly Willoughby, Katherine Ryan
 - 2024-06-28 — Nearly Murdered On A Country Road? — speakers: Katherine Ryan
-- 2024-06-27 — Raw Dogging — speakers: Justin Timberlake, Katy Perry, Dr Luke, Gypsy Rose Blanchard, Katherine Ryan
-- 2024-06-20 — Tree Surgeons — speakers: Theo Von, Katherine Ryan
-- 2024-06-07 — Hot Rodent — speakers: Alec Baldwin, Miriam Margoyles, Katherine Ryan
-- 2024-05-29 — Bobby's Boys Trip — speakers: Kelly Rowland, Vivienne Jolie, Celine Dion, Katherine Ryan
-- 2024-05-23 — God Says Marry An NFL Player — speakers: Harrison Butker, Ben Affleck, Katherine Ryan
-- 2024-05-15 — The Red Carpet Ecosystem — speakers: Uncle Buck, Anne Hathaway, Katherine Ryan
-- 2024-05-10 — Lake Como — speakers: Nikki Glazer, Tom Brady, Sarah Tiana, Sarah Silverman, Amy Schumer, Gisele Bündchen, Katherine Ryan
-- 2024-05-03 — Should We Hire Extras for Fred? — speakers: Barbara Streisand, Melissa McCarthy, Jerry-Atric Seinfeld, Katherine Ryan
-- 2024-04-25 — Bargain Holidays — speakers: Joe Wilkinson, Kim vs Taylor, Celine Dion, Gen Zs, Katherine Ryan
-- 2024-04-17 — Juice is Loose — speakers: Nicole Brown-Simpson, Hannah Waddingham, Gypsy Rose Blanchard, Katherine Ryan
-- 2024-04-10 — Life's a B...and Her Pu$$y Wet — speakers: YouTube Stars, Calvin Harris, Katherine Ryan
-- 2024-04-03 — What Would You Do For Your Sister? — speakers: Abby Hensel, Katherine Ryan
-- 2024-03-27 — P Did He? — speakers: Hip Hop Epstein Ring, Kate Middleton, Tik Tok, Katherine Ryan
-- 2024-03-09 — The Ambani Pre-Wedding and I Cut My Finger Off — speakers: Kate Middleton, Katherine Ryan
+- 2024-06-27 — Raw Dogging — speakers: Raw Dogging Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-06-20 — Tree Surgeons — speakers: Telling Everybody Everything, Katherine Ryan
+- 2024-06-07 — Hot Rodent — speakers: Telling Everybody Everything, Katherine Ryan
+- 2024-05-29 — Bobby's Boys Trip — speakers: Katherine Ryan
+- 2024-05-23 — God Says Marry An NFL Player — speakers: Katherine Ryan
+- 2024-05-15 — The Red Carpet Ecosystem — speakers: Katherine Ryan
+- 2024-05-10 — Lake Como — speakers: Lake Como Katherine, Telling Everybody Everything, Netflix Festival, Katherine Ryan
+- 2024-05-03 — Should We Hire Extras for Fred? — speakers: Katherine Ryan
+- 2024-04-25 — Bargain Holidays — speakers: Joe Wilkinson, Katherine Ryan
+- 2024-04-17 — Juice is Loose — speakers: Nicole Brown-Simpson, Katherine Ryan
+- 2024-04-10 — Life's a B...and Her Pu$$y Wet — speakers: Wet Katherine, Telling Everybody Everything, Katherine Ryan
+- 2024-04-03 — What Would You Do For Your Sister? — speakers: Katherine Ryan
+- 2024-03-27 — P Did He? — speakers: Hip Hop Epstein Ring, Katherine Ryan
+- 2024-03-09 — The Ambani Pre-Wedding and I Cut My Finger Off — speakers: Cut My Finger Off, Telling Everybody Everything, Katherine Ryan
 - 2024-03-04 — Norovirus and The Black Epstein?! — speakers: Katherine Ryan
 - 2024-02-24 — Coming To a Stage Near YOU! — speakers: Katherine Ryan
-- 2024-02-03 — We're Pronouncing Taylor's Boyfriend's Name Wrong! — speakers: Travis Kelce, Katherine Ryan
-- 2024-01-27 — Oscar Snubs any Paychecks — speakers: Oscar Snubs, Z's Brody, Katherine Ryan
+- 2024-02-03 — We're Pronouncing Taylor's Boyfriend's Name Wrong! — speakers: Katherine Ryan
+- 2024-01-27 — Oscar Snubs any Paychecks — speakers: Oscar Snubs, Katherine Ryan
 - 2024-01-19 — Mean Girls and How Often We Do It — speakers: Mean Girls, Katherine Ryan
-- 2024-01-10 — Golden Globes - Tough Gig — speakers: Golden Globes Tough, Jo Koy, Comedian Kat Williams, Foster Drama, Katherine Ryan
-- 2024-01-04 — Potty Trained By Age 1 — speakers: Potty Trained, Gypsy Rose, Sienna Miller, Katherine Ryan
+- 2024-01-10 — Golden Globes - Tough Gig — speakers: Golden Globes Tough, Jo Koy, Katherine Ryan
+- 2024-01-04 — Potty Trained By Age 1 — speakers: Potty Trained, Katherine Ryan
 - 2023-12-30 — Disneyland with Small Children — speakers: Katherine Ryan
-- 2023-12-22 — Christmas, Celine Dion, Britney, and Humourless Celiacs — speakers: Celine Dion, Justin Timberlake, Vanessa Feltz, Katherine Ryan
-- 2023-12-15 — Wore Tights To A Pedicure — speakers: Katherine Ryan
-- 2023-12-08 — 'Trailer Swift' — speakers: Angelina Jolie, Brad Pitt, Katherine Ryan
+- 2023-12-22 — Christmas, Celine Dion, Britney, and Humourless Celiacs — speakers: Celine Dion, Katherine Ryan
+- 2023-12-15 — Wore Tights To A Pedicure — speakers: Pedicure Katherine, Telling Everybody Everything, Do Men Really Want, Katherine Ryan
+- 2023-12-08 — 'Trailer Swift' — speakers: Katherine Ryan
 - 2023-11-24 — Surrogacy and The Return of Bobby K — speakers: Katherine Ryan
 - 2023-11-16 — Megan's on Viagra — speakers: Katherine Ryan
 - 2023-11-08 — Dreams and Why High Performance Women Cheat — speakers: Why High Performance Women, Cheat Katherine, Telling Everybody Everything, Katherine Ryan
 - 2023-11-01 — Cheating Scandal — speakers: Cheating Scandal Katherine, Telling Everybody Everything, Katherine Ryan
 - 2023-10-26 — Burning Bridges — speakers: Burning Bridges, Katherine Ryan
-- 2023-10-19 — Glamour Tracksuit — speakers: Katherine Ryan
+- 2023-10-19 — Glamour Tracksuit — speakers: Glamour Tracksuit Katherine, Telling Everybody Everything, Katherine Ryan
 - 2023-10-11 — The Dog — speakers: Katherine Ryan
-- 2023-10-03 — Permission Waiver — speakers: Katherine Ryan
+- 2023-10-03 — Permission Waiver — speakers: Permission Waiver Katherine, Telling Everybody Everything, Katherine Ryan
 - 2023-09-21 — A Rainy Day — speakers: Katherine Ryan
 - 2023-09-14 — Prince Harry KNOWS ME — speakers: Katherine Ryan
-- 2023-08-29 — Men Trying To Put Me In Prison — speakers: Katherine Ryan
-- 2023-08-17 — Chatting to My Friend Dane Baptiste About Comedy on Audible — speakers: Dane Baptiste, Katherine Ryan
-- 2023-08-16 — It Was All Over My ARMS — speakers: Tarryn Manning, Katherine Ryan
+- 2023-08-29 — Men Trying To Put Me In Prison — speakers: Telling Everybody Everything, Katherine Ryan
+- 2023-08-17 — Chatting to My Friend Dane Baptiste About Comedy on Audible — speakers: Katherine Ryan
+- 2023-08-16 — It Was All Over My ARMS — speakers: Telling Everybody Everything, Katherine Ryan
 - 2023-08-10 — Montgomery Riverboat Brawl — speakers: Montgomery Riverboat Brawl, Katherine Ryan
 - 2023-08-02 — What's Happening With Lizzo!? — speakers: Katherine Ryan
-- 2023-07-26 — Joanne's Eyebrows — speakers: Carlee Russell, Katherine Ryan
-- 2023-07-19 — Blue Dress Gold Dress — speakers: Katherine Ryan
+- 2023-07-26 — Joanne's Eyebrows — speakers: Katherine Ryan
+- 2023-07-19 — Blue Dress Gold Dress — speakers: Blue Dress Gold Dress, Telling Everybody Everything, Katherine Ryan
 - 2023-07-12 — Leaked Texts To Warn Women — speakers: Jonah Hill, Katherine Ryan
-- 2023-07-10 — Introducing...Kathy Burke's 'Where There's a Will, There's a Wake' — speakers: Kathy Burke, xx Hosted, Katherine Ryan
+- 2023-07-10 — Introducing...Kathy Burke's 'Where There's a Will, There's a Wake' — speakers: Kathy Burke, Katherine Ryan
 - 2023-06-28 — X-Rated Blippi — speakers: Rated Blippi Katherine, Telling Everybody Everything, Katherine Ryan
-- 2023-06-22 — Cancel Bobby — speakers: Cancel Bobby Katherine, Fenna Gracie, Katherine Ryan
+- 2023-06-22 — Cancel Bobby — speakers: Cancel Bobby Katherine, Katherine Ryan
 - 2023-06-06 — Remy Ma is 35 — speakers: Remy Ma, Katherine Ryan
 - 2023-05-31 — Monaco — speakers: Katherine Ryan
 - 2023-05-18 — Nursery — speakers: Katherine Ryan
-- 2023-05-09 — Coronation — speakers: Katherine Ryan
+- 2023-05-09 — Coronation — speakers: Coronation Katherine, Telling Everybody Everything, Katherine Ryan
 - 2023-05-02 — Diggerland — speakers: Diggerland Katherine, Telling Everybody Everything, Katherine Ryan
-- 2023-04-25 — Surgery Abroad and Property Management — speakers: Katherine Ryan
+- 2023-04-25 — Surgery Abroad and Property Management — speakers: Surgery Abroad, Property Management Katherine, Telling Everybody Everything, Katherine Ryan
 - 2023-04-18 — Male Friendships — speakers: Male Friendships, Katherine Ryan
 - 2023-04-12 — Singing At Musicals — speakers: Telling Everybody Everything, Katherine Ryan
-- 2023-04-06 — Mark Walhberg's Dad Bod — speakers: Mark Walhberg, Dad Bod, Mark Wahlberg, Joe Lycett, Katherine Ryan
-- 2023-03-29 — The Devouring Mother — speakers: Katherine Ryan
+- 2023-04-06 — Mark Walhberg's Dad Bod — speakers: Mark Walhberg, Dad Bod, Katherine Ryan
+- 2023-03-29 — The Devouring Mother — speakers: Telling Everybody Everything, Katherine Ryan
 - 2023-03-20 — Mauritius Boob Issues — speakers: Boob Issues, Katherine Ryan
 - 2023-03-12 — Terry Fox and Today's Youth — speakers: Terry Fox, Katherine Ryan
-- 2023-02-24 — Ozempic, BK's Garden and Your 18 Year Old Girlfriend — speakers: Tik Tok, Katherine Ryan
-- 2023-02-16 — 'DayGaming', PR, and The Police — speakers: Katherine Ryan
+- 2023-02-24 — Ozempic, BK's Garden and Your 18 Year Old Girlfriend — speakers: Year Old Girlfriend Katherine, Telling Everybody Everything, Katherine Ryan
+- 2023-02-16 — 'DayGaming', PR, and The Police — speakers: Telling Everybody Everything, Katherine Ryan
 - 2023-02-07 — Uh Oh... — speakers: Katherine Ryan
-- 2023-02-01 — Mastitis and The Masked Singer — speakers: Katherine Ryan
-- 2023-01-21 — BK $3000 Charge! — speakers: Maya Jama, Katherine Ryan
-- 2023-01-11 — Safeguarding and Your Child's Image — speakers: Image Katherine, Telling Everybody Everything, Prince Harry, Katherine Ryan
+- 2023-02-01 — Mastitis and The Masked Singer — speakers: Telling Everybody Everything, Katherine Ryan
+- 2023-01-21 — BK $3000 Charge! — speakers: Katherine Ryan
+- 2023-01-11 — Safeguarding and Your Child's Image — speakers: Image Katherine, Telling Everybody Everything, Katherine Ryan
 - 2023-01-05 — Andrew Tate - You're Welcome — speakers: Andrew Tate You're Welcome, Andrew Tate, Katherine Ryan
 - 2022-12-29 — MISSUS on Sky and NowTV — speakers: Katherine Ryan
 - 2022-12-21 — Positive Homebirth Story — speakers: Homebirth Story, Katherine Ryan
 - 2022-12-14 — Megan Thee Stallion On Trial?! — speakers: Katherine Ryan
 - 2022-12-10 — Harry and Meghan — speakers: Meghan Katherine, Katherine Ryan
-- 2022-12-01 — Holiday Scams — speakers: Katherine Ryan
+- 2022-12-01 — Holiday Scams — speakers: Holiday Scams Katherine, Telling Everybody Everything, Katherine Ryan
 - 2022-11-23 — Poo on the Pool Cover — speakers: Katherine Ryan
-- 2022-11-17 — Jen Aniston IVF — speakers: Pete Davidson, Jennifer Aniston, Katherine Ryan
+- 2022-11-17 — Jen Aniston IVF — speakers: Jen Aniston, Telling Everybody Everything, Katherine Ryan
 - 2022-11-11 — Not a Celebrity, Get Him OUTTA here — speakers: Katherine Ryan
-- 2022-11-02 — Halloween and Elon Musk — speakers: Matt Hancock, Katherine Ryan
-- 2022-10-27 — Why We Started Showing Violet on Socials — speakers: Katherine Ryan
-- 2022-10-18 — Is Bill Murray a Pr*ck?? — speakers: Bill Murray, Angela Lansbury, Katherine Ryan
-- 2022-10-11 — M*sterbating at Work...With Permission — speakers: Louis CK, Katherine Ryan
+- 2022-11-02 — Halloween and Elon Musk — speakers: Katherine Ryan
+- 2022-10-27 — Why We Started Showing Violet on Socials — speakers: Socials Katherine, Telling Everybody Everything, Katherine Ryan
+- 2022-10-18 — Is Bill Murray a Pr*ck?? — speakers: Bill Murray, Katherine Ryan
+- 2022-10-11 — M*sterbating at Work...With Permission — speakers: Katherine Ryan
 - 2022-10-02 — Dahmer — speakers: Katherine Ryan
-- 2022-09-20 — Adam Levine & The Queen — speakers: Adam Levine, Katherine Ryan
-- 2022-09-06 — Tattle — speakers: Katherine Ryan
-- 2022-08-26 — F*ck Off P*do — speakers: Nick Cannon, Katherine Ryan
+- 2022-09-20 — Adam Levine & The Queen — speakers: Katherine Ryan
+- 2022-09-06 — Tattle — speakers: Tattle Katherine, Telling Everybody, Katherine Ryan
+- 2022-08-26 — F*ck Off P*do — speakers: Katherine Ryan
 - 2022-08-19 — Dane Cook's Games Nights — speakers: Dane Cook, Katherine Ryan
-- 2022-08-12 — Britney's Parenting and J-Lo's Name — speakers: Jennifer Lopez, Dunkin Donuts, Katherine Ryan
-- 2022-08-01 — Just For Laughs Montreal — speakers: Katherine Ryan
+- 2022-08-12 — Britney's Parenting and J-Lo's Name — speakers: Name Katherine, Telling Everybody Everything, Katherine Ryan
+- 2022-08-01 — Just For Laughs Montreal — speakers: Telling Everybody Everything, Katherine Ryan
 - 2022-07-19 — Love Island - Thoughts — speakers: Love Island, Thoughts Katherine, Telling Everybody Everything, Love Islanders, Katherine Ryan
-- 2022-07-14 — Meaningful Loads — speakers: Meaningful Loads, Tristan Thompson, Katherine Ryan
-- 2022-07-06 — Pancreatitis — speakers: Pancreatitis Katherine, Travis Barker, Katherine Ryan
+- 2022-07-14 — Meaningful Loads — speakers: Meaningful Loads, Katherine Ryan
+- 2022-07-06 — Pancreatitis — speakers: Pancreatitis Katherine, Katherine Ryan
 - 2022-06-24 — Travel Disruptions — speakers: Katherine Ryan
-- 2022-06-19 — Love The Dads — speakers: Katherine Ryan
-- 2022-06-08 — Impossible — speakers: Katherine Ryan
-- 2022-05-13 — Petty Lawsuits — speakers: Blac Chyna, Johnny Depp, Wagatha Christie, Coleen Rooney, Rebekah Vardy, Katherine Ryan
-- 2022-05-03 — LA and Kim K — speakers: Pete Davidson, Katherine Ryan
+- 2022-06-19 — Love The Dads — speakers: Telling Everybody Everything, Katherine Ryan
+- 2022-06-08 — Impossible — speakers: Impossible Katherine, Telling Everybody Everything, Katherine Ryan
+- 2022-05-13 — Petty Lawsuits — speakers: Petty Lawsuits Katherine, Telling Everybody Everything, Katherine Ryan
+- 2022-05-03 — LA and Kim K — speakers: Katherine Ryan
 - 2022-04-25 — A Bird Tried To Kill Us — speakers: Katherine Ryan
-- 2022-04-07 — soft — speakers: Katherine Ryan
+- 2022-04-07 — soft — speakers: Telling Everybody Everything, Katherine Ryan
 - 2022-03-30 — The Slap — speakers: Telling Everybody Everything, Katherine Ryan
-- 2022-03-23 — Skincare — speakers: Candice Brathwaite, Katherine Ryan
-- 2022-03-18 — Comedy and Mental Health — speakers: Katherine Ryan
-- 2022-03-10 — Manny — speakers: Manny Katherine, Kim Kardashian Once Again, Katherine Ryan
+- 2022-03-23 — Skincare — speakers: Katherine Ryan
+- 2022-03-18 — Comedy and Mental Health — speakers: Mental Health Katherine, Telling Everybody Everything, Katherine Ryan
+- 2022-03-10 — Manny — speakers: Manny Katherine, Katherine Ryan
 - 2022-03-02 — THICC — speakers: Katherine Ryan
 - 2022-02-23 — Bobby K Helps — speakers: Helps Katherine, Katherine Ryan
 - 2022-02-18 — YE — speakers: Telling Everybody Everything, Katherine Ryan
-- 2022-02-09 — Hey, it's Not Che Diaz — speakers: Katherine Ryan
-- 2022-02-02 — You'll Be Happy In a Year — speakers: Katherine Ryan
+- 2022-02-09 — Hey, it's Not Che Diaz — speakers: Not Che Diaz Katherine, Telling Everybody Everything, Katherine Ryan
+- 2022-02-02 — You'll Be Happy In a Year — speakers: Year Katherine, Telling Everybody Everything, Katherine Ryan
 - 2022-01-26 — Was Bobby K Scammed? — speakers: Katherine Ryan
 - 2022-01-19 — SICK — speakers: Katherine Ryan
 - 2022-01-12 — The Same 24 Hours — speakers: Katherine Ryan
@@ -6197,63 +6158,63 @@
 - 2021-12-15 — Sx and The Spoilers — speakers: Katherine Ryan
 - 2021-12-09 — Gigs and Plan B — speakers: Katherine Ryan
 - 2021-12-02 — In Birmingham, Bab — speakers: Katherine Ryan
-- 2021-11-24 — Am I Pete Davidson? — speakers: Pete Davidson, Kim Kardashian, Katherine Ryan
+- 2021-11-24 — Am I Pete Davidson? — speakers: Pete Davidson, Katherine Ryan
 - 2021-11-10 — Tabloid Trouble? — speakers: Tabloid Trouble, Katherine Ryan
-- 2021-11-03 — Never Going Out Again — speakers: Katherine Ryan
+- 2021-11-03 — Never Going Out Again — speakers: Never Going Out Again, Telling Everybody Everything, Katherine Ryan
 - 2021-10-27 — Mad Women — speakers: Katherine Ryan
 - 2021-10-20 — Finding Love In Your Forties — speakers: Kourtney Kardashian, Travis Barker, Katherine Ryan
-- 2021-10-12 — Jimmy, Romesh, Rob, Geoff on Touring w Baby — speakers: Jimmy Carr, Rob Beckett, Geoff Norcott, Katherine Ryan
+- 2021-10-12 — Jimmy, Romesh, Rob, Geoff on Touring w Baby — speakers: Katherine Ryan
 - 2021-10-05 — Brainwashed — speakers: Brainwashed Katherine, Telling Everybody Everything, Katherine Ryan
-- 2021-09-29 — Manufactured Chaos — speakers: Katherine Ryan
+- 2021-09-29 — Manufactured Chaos — speakers: Manufactured Chaos Katherine, Telling Everybody Everything, Katherine Ryan
 - 2021-09-19 — Is It Safe to Walk Dogs? — speakers: Katherine Ryan
-- 2021-09-11 — Texas — speakers: Katherine Ryan
+- 2021-09-11 — Texas — speakers: Texas Katherine, Telling Everybody Everything, Katherine Ryan
 - 2021-08-31 — Leaving Violet Outside Was Your Idea — speakers: Katherine Ryan
 - 2021-08-22 — The Importance of Golf — speakers: Katherine Ryan
 - 2021-08-17 — On Set With Jen and Fiona — speakers: Fiona Katherine, Katherine Ryan
 - 2021-08-09 — Censorship and Women's Health — speakers: Health Katherine, Love Island, Katherine Ryan
-- 2021-08-02 — This Lady Opened My Car Door — speakers: Katherine Ryan
+- 2021-08-02 — This Lady Opened My Car Door — speakers: Car Door Katherine, Telling Everybody Everything, Katherine Ryan
 - 2021-07-25 — I Hate The Cat — speakers: Telling Everybody Everything, Katherine Ryan
-- 2021-07-19 — Freedom Day UK — speakers: Freedom Day, Telling Everybody Everything, Love Island, Katherine Ryan
+- 2021-07-19 — Freedom Day UK — speakers: Freedom Day, Telling Everybody Everything, Katherine Ryan
 - 2021-07-12 — Nick Cannon Has Seven Kids — speakers: Nick Cannon, Katherine Ryan
-- 2021-07-03 — Canada Day and Your Emails — speakers: Bill Cosby, Katherine Ryan
-- 2021-06-27 — The Day Matt Hancock Finally Gained My Respect — speakers: Matt Hancock, Katherine Ryan
+- 2021-07-03 — Canada Day and Your Emails — speakers: Canada Day, Telling Everybody Everything, Katherine Ryan
+- 2021-06-27 — The Day Matt Hancock Finally Gained My Respect — speakers: Katherine Ryan
 - 2021-06-21 — Keeping the Peace in Your Relationship — speakers: Telling Everybody Everything, Katherine Ryan
-- 2021-06-15 — Positive Birth Story — speakers: Birth Story, Frederick Ryan Kootstra, Katherine Ryan
-- 2021-06-07 — Help For Recurrent Miscarriage — speakers: Katherine Ryan
-- 2021-05-30 — Hiding in Plain Sight — speakers: Ted Bundy Film, Katherine Ryan
-- 2021-05-23 — Eurovision — speakers: Eurovision Song Contest, Diana Panorama, Katherine Ryan
-- 2021-05-16 — Chrissy Teigen — speakers: Courtney Stodden, Katherine Ryan
+- 2021-06-15 — Positive Birth Story — speakers: Birth Story, Katherine Ryan
+- 2021-06-07 — Help For Recurrent Miscarriage — speakers: Telling Everybody Everything, Katherine Ryan
+- 2021-05-30 — Hiding in Plain Sight — speakers: Katherine Ryan
+- 2021-05-23 — Eurovision — speakers: Eurovision Song Contest, Katherine Ryan
+- 2021-05-16 — Chrissy Teigen — speakers: Katherine Ryan
 - 2021-05-08 — Catching Up — speakers: Caitlin Jenner, Katherine Ryan
-- 2021-05-03 — Ready to Mangle — speakers: Katherine Ryan
-- 2021-04-29 — NOW Bonus Episode - Unmissable Movies and Incredible Shows on NOW — speakers: Katherine Ryan
+- 2021-05-03 — Ready to Mangle — speakers: Mangle Katherine, Telling Everybody Everything, Katherine Ryan
+- 2021-04-29 — NOW Bonus Episode - Unmissable Movies and Incredible Shows on NOW — speakers: Unmissable Movies, Incredible Shows, Telling Everybody Everything, Katherine Ryan
 - 2021-04-24 — The Divorce Spesh — speakers: Katherine Ryan
-- 2021-04-17 — Ontario — speakers: Katherine Ryan
+- 2021-04-17 — Ontario — speakers: Ontario Katherine, Telling Everybody Everything, Katherine Ryan
 - 2021-04-09 — Mum Got The Vaccine (s) — speakers: Sofia Vergara, Katherine Ryan
-- 2021-04-02 — FAT — speakers: Telling Everybody Everything, Fat Acceptance Movement, Katherine Ryan
-- 2021-03-26 — MATCH bonus episode on Dating! — speakers: Hayley Quinn, Katherine Ryan
-- 2021-03-24 — Operation Varsity Blues — speakers: Meghan Mccain, Virginia Woolf, Katherine Ryan
+- 2021-04-02 — FAT — speakers: Telling Everybody Everything, Katherine Ryan
+- 2021-03-26 — MATCH bonus episode on Dating! — speakers: Katherine Ryan
+- 2021-03-24 — Operation Varsity Blues — speakers: Operation Varsity Blues Katherine, Telling Everybody Everything, Katherine Ryan
 - 2021-03-17 — International and Ancestral Women — speakers: Katherine Ryan
 - 2021-03-10 — Kerrie Got A New Car — speakers: Kerrie Got, Katherine Ryan
 - 2021-03-04 — THAT Oprah Interview — speakers: Katherine Ryan
 - 2021-02-24 — The D Spesh — speakers: Katherine Ryan
-- 2021-02-17 — Baby Sussex, Kourtney & Travis, Tik Toks — speakers: Baby Sussex, Tik Toks, Tik Tok, Katherine Ryan
-- 2021-02-11 — Valentines, Tories, and Violet — speakers: Katherine Ryan
-- 2021-02-04 — BONUS: Nights Worth Waiting For with Kurupt FM's Allan 'Seapa' Mustafa and Hugo Chegwin — speakers: Nights Worth Waiting, Hugo Chegwin, Tweet Jameson uk, Katherine Ryan
+- 2021-02-17 — Baby Sussex, Kourtney & Travis, Tik Toks — speakers: Baby Sussex, Tik Toks, Katherine Ryan
+- 2021-02-11 — Valentines, Tories, and Violet — speakers: Violet Katherine, Telling Everybody Everything, Katherine Ryan
+- 2021-02-04 — BONUS: Nights Worth Waiting For with Kurupt FM's Allan 'Seapa' Mustafa and Hugo Chegwin — speakers: Nights Worth Waiting, Hugo Chegwin, Katherine Ryan
 - 2021-02-03 — Everyone's Cross With Me This Week — speakers: Katherine Ryan
 - 2021-01-26 — Space Trash, Taxes & My Mum — speakers: Space Trash, Katherine Ryan
-- 2021-01-20 — Tiger Woods In Hindsight — speakers: Tiger Woods, Katherine Ryan
+- 2021-01-20 — Tiger Woods In Hindsight — speakers: Telling Everybody Everything, Katherine Ryan
 - 2021-01-12 — The Lost Stand Up Tapes — speakers: Katherine Ryan
-- 2021-01-04 — Explaining Bean Dad to Violet — speakers: Katherine Ryan
-- 2020-12-28 — Love Makes You Crazy - Murder & Mama Drama — speakers: Katherine Ryan
-- 2020-12-21 — Timothée Chalamet for Christmas — speakers: Timothée Chalamet, Timothee Chalamet, Katherine Ryan
-- 2020-12-14 — Letters By The Sea — speakers: Katherine Ryan
+- 2021-01-04 — Explaining Bean Dad to Violet — speakers: Explaining Bean Dad, Violet Katherine, Telling Everybody Everything, Bean Dad, Katherine Ryan
+- 2020-12-28 — Love Makes You Crazy - Murder & Mama Drama — speakers: Medicine Hat, Katherine Ryan
+- 2020-12-21 — Timothée Chalamet for Christmas — speakers: Timothée Chalamet, Katherine Ryan
+- 2020-12-14 — Letters By The Sea — speakers: Telling Everybody Everything, Katherine Ryan
 - 2020-12-07 — Huge C**K But Won't Commit — speakers: Katherine Ryan
 - 2020-11-29 — Basically Eavesdropping on My Convo with Kerrie — speakers: Katherine Ryan
 - 2020-11-21 — Canadian Polygamist Gets A Month In Jail — speakers: Katherine Ryan
-- 2020-11-14 — Treacherous Women and Your Letters — speakers: Katherine Ryan
-- 2020-11-06 — My Actual Mafia Crime Boss Friend — speakers: Michael Franzese, Katherine Ryan
+- 2020-11-14 — Treacherous Women and Your Letters — speakers: Treacherous Women, Telling Everybody Everything, Katherine Ryan
+- 2020-11-06 — My Actual Mafia Crime Boss Friend — speakers: My Actual Mafia Crime, Boss Friend Katherine, Telling Everybody Everything, New York Mafia, Katherine Ryan
 - 2020-10-30 — Halloween Witches — speakers: Witches Katherine, Katherine Ryan
-- 2020-10-23 — Hungry Kids and The Return of My Dad — speakers: Katherine Ryan
+- 2020-10-23 — Hungry Kids and The Return of My Dad — speakers: Hungry Kids, My Dad Katherine, Telling Everybody Everything, Katherine Ryan
 - 2020-10-07 — My Millionaire MLM Friend...Scam? — speakers: Katherine Ryan
 - 2020-10-01 — Celiacs and Celebrity Stand Up — speakers: Celebrity Stand, Katherine Ryan
 - 2020-09-18 — Cardi BDE - Big Duchess Energy — speakers: Duchess Energy, Katherine Ryan
@@ -6265,17 +6226,17 @@
 - 2020-07-22 — Kanye, Scary Movies and Your Letters — speakers: Scary Movies, Telling Everybody Everything, Katherine Ryan
 - 2020-07-15 — Masks and The Return of Violet — speakers: Violet Katherine, Telling Everybody Everything, Katherine Ryan
 - 2020-07-08 — Bobby Let a Stranger See The Kitchen — speakers: Katherine Ryan
-- 2020-07-01 — Canada Day, #MeToo and Murder — speakers: Katherine Knight, Katherine Ryan
+- 2020-07-01 — Canada Day, #MeToo and Murder — speakers: Katherine Ryan
 - 2020-06-24 — Are Women Funny? — speakers: Katherine Ryan
-- 2020-06-17 — What's a Spleen? — speakers: Verona Rose, Katherine Ryan
+- 2020-06-17 — What's a Spleen? — speakers: Katherine Ryan
 - 2020-06-10 — Blind Spots — speakers: Blind Spots Katherine, Telling Everybody Everything, Katherine Ryan
 - 2020-06-03 — Get Less Dumb — speakers: Get Less Dumb Katherine, Telling Everybody Everything, Katherine Ryan
 - 2020-05-27 — Buying Sperm Online — speakers: Katherine Ryan
 - 2020-05-20 — Sexual Fetishes — speakers: Katherine Ryan
-- 2020-05-19 — Convincing My Family They've Had Coronavirus — speakers: Bill Cosby, Katherine Ryan
-- 2020-05-06 — Cancel Culture — speakers: Cancel Culture Katherine, Telling Everybody Everything, Tyra Banks, Katherine Ryan
+- 2020-05-19 — Convincing My Family They've Had Coronavirus — speakers: Had Coronavirus Katherine, Telling Everybody Everything, Katherine Ryan
+- 2020-05-06 — Cancel Culture — speakers: Cancel Culture Katherine, Telling Everybody Everything, Katherine Ryan
 - 2020-04-29 — How To Potty Train a Ten Month Old and Your Letters — speakers: Ten Month Old, Telling Everybody Everything, Elimination Communication, Katherine Ryan
-- 2020-04-22 — Being Burgled at Home — speakers: Katherine Ryan
-- 2020-04-15 — Tiger King and Queen Violet — speakers: Tiger King, Queen Violet, Kim Kardashian, Carole Baskin, Katherine Ryan
-- 2020-04-09 — Romance in Lockdown — speakers: dick appointments, Katherine Ryan
+- 2020-04-22 — Being Burgled at Home — speakers: Being Burgled, Home Katherine, Telling Everybody Everything, Katherine Ryan
+- 2020-04-15 — Tiger King and Queen Violet — speakers: Tiger King, Queen Violet, Katherine Ryan
+- 2020-04-09 — Romance in Lockdown — speakers: Katherine Ryan
 - 2020-04-08 — Pregnancy Loss — speakers: Pregnancy Loss Katherine, Katherine Ryan
