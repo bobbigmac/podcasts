@@ -13645,6 +13645,28 @@
         "feed_slug": "external:apple:f0e5f1b08719",
         "feed_title": "Alex Horne Breaks the News",
         "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "44f272426fe714a09d5b8e67106adb9b09760c58",
+        "episode_key": "44f272426fe714a09d5b8e67106adb9b09760c58",
+        "title": "Alex Horne, Romesh Ranganathan, John Robins and handsome scorer Cat",
+        "published_at": "2014-06-27T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "After an interminable seven day hiatus we welcome back the weekly news podcast with former, present – and hopefully future - host Alex Horne and guest comedians Romesh Ranganathan and John Robins. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-romesh-ranganathan-john-robins-and-handsome-scorer-cat/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-romesh-ranganathan-john-robins-and/id1133204823?i=1000372293477&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
         "dedupe_key": "c3b8cb74666e681f26046cbbd122fcf8a0c39be3",
         "episode_key": "c3b8cb74666e681f26046cbbd122fcf8a0c39be3",
         "title": "Alex Horne, Andy Zaltzman, Liam Williams and deep Sam Pearson",
