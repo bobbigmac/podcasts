@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-02T21:49:55+00:00`
-- checked_at: `2026-03-02T21:49:55+00:00`
-- etag: `W/"1f554-DI4weIHAi+mLJLCNQDaSzI/pPbg"`
+- fetched_at: `2026-03-03T03:14:00+00:00`
+- checked_at: `2026-03-03T03:14:00+00:00`
+- etag: `W/"1ec50-Sz1XWyh4jNw+tEt39YWvOyOYkYo"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,51 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-02T21:49:55+00:00",
+  "fetched_at": "2026-03-03T03:14:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "7bdc118412480a14b7290f0c6256cf12a7b0a943",
-      "title": "#22 Jon Richardson Podcast with Rhod Gilbert",
-      "published_at": "2026-03-02T20:14:35+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/22-Jon-Richardson-Podcast-with-Rhod-Gilbert-e3frdj9",
-      "description": "#22 Jon Richardson Podcast with Rhod Gilbert",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772482454085-9a953a647f32e.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116290601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fd06ad3db-4e3e-13cb-ee98-b0ab996f68b7.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "62310560",
-      "itunes_duration": "01:26:32",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "rhod",
-        "gilbert"
-      ]
-    },
-    {
-      "key": "5d5e4c57bd6680c82485f31cbb256ab738821d08",
-      "title": "#21 Jon Richardson Podcast with Pappys Fun Club",
-      "published_at": "2026-03-02T06:20:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/21-Jon-Richardson-Podcast-with-Pappys-Fun-Club-e3fpoit",
-      "description": "#21 Jon Richardson Podcast with Pappys Fun Club",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772396487452-9c34bf1c75f61.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116236317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-1%2F078b11b6-f2eb-80d8-faa6-257ebd535587.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57207776",
-      "itunes_duration": "01:19:27",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "pappys",
-        "club"
-      ]
-    },
     {
       "key": "75c448890d77bcc1e7dee8c20d4ced54bdbeef2d",
       "title": "#20 Jon Richardson Podcast with Andy Zaltzman",
@@ -2236,8 +2198,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-02 — #22 Jon Richardson Podcast with Rhod Gilbert
-- 2026-03-02 — #21 Jon Richardson Podcast with Pappys Fun Club
 - 2026-03-01 — #20 Jon Richardson Podcast with Andy Zaltzman — speakers: Andy Zaltzman
 - 2026-02-28 — #19 Jon Richardson Podcast with Mark Olver — speakers: Mark Olver
 - 2026-02-27 — #18 Jon Richardson Podcast with David O'Dotherty — speakers: David O'Dotherty
