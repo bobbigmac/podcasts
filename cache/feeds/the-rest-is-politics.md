@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-03-03T21:48:00+00:00`
-- checked_at: `2026-03-03T21:48:00+00:00`
-- last_modified: `Tue, 03 Mar 2026 21:38:59 GMT`
+- fetched_at: `2026-03-04T02:50:53+00:00`
+- checked_at: `2026-03-04T02:50:53+00:00`
+- last_modified: `Wed, 04 Mar 2026 00:00:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/3f50b7a1b1632c03b74bec14bb7de2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-03T21:48:00+00:00",
+  "fetched_at": "2026-03-04T02:50:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "45c45cd7cb6182431b5ff5e0035c56c45bb9cf51",
+      "title": "508. Is Starmer Sleepwalking into War with Iran?",
+      "published_at": "2026-03-04T00:00:00+00:00",
+      "link": null,
+      "description": "Is Keir Starmer sleepwalking into a war Britain never agreed to fight? What are Trump's real objectives in attacking Iran? How far will Iran's retaliation go? Join Rory and Alastair as they answer all these questions and more. __________ Sign up ⁠ HERE ⁠ to the free TRIP newsletter. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . Get our exclusive NordVPN deal here ➼ https://nordvpn.com/restispolitics It's risk-free with Nord's 30-day money-back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson Video Editor: Josh Smith, Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Senior Producer: Callum Hill General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7f624a78-1747-11f1-bb46-874513708585/image/4f5cb456c3c2406b774d0df99378ae96.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7831891142.mp3?updated=1772576149",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3659",
+      "speakers": [],
+      "topics": [
+        "starmer",
+        "sleepwalking",
+        "iran"
+      ]
+    },
     {
       "key": "6974fe8ef6b1e0eb47cdcb0028aaee8a56b092a4",
       "title": "507. The Ayatollah Is Killed - REACTION",
@@ -11206,6 +11224,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — 508. Is Starmer Sleepwalking into War with Iran?
 - 2026-03-01 — 507. The Ayatollah Is Killed - REACTION
 - 2026-02-28 — 506. Trump Attacks Iran: What Happens Now? — speakers: Trump Attacks
 - 2026-02-25 — 505. Are Trump and Putin Underestimating Ukraine? — speakers: Putin Underestimating Ukraine

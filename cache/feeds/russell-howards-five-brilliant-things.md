@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-03-02T13:35:21+00:00`
-- checked_at: `2026-03-02T13:35:21+00:00`
-- last_modified: `Mon, 02 Mar 2026 11:21:55 GMT`
+- fetched_at: `2026-03-04T02:50:53+00:00`
+- checked_at: `2026-03-04T02:50:53+00:00`
+- last_modified: `Wed, 04 Mar 2026 02:07:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Join our Patreon for two shows a week, ad-free listening, early access and much more... Follow this link and get involved! - patreon.com/RussellHoward Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/f49076c57d0c5aac5d76c06956cf8e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-02T13:35:21+00:00",
+  "fetched_at": "2026-03-04T02:50:53+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "82e46c9fe8b5110f9917657869e12c750d85e55d",
+      "title": "Shane Todd",
+      "published_at": "2026-03-04T02:00:00+00:00",
+      "link": null,
+      "description": "You want strong opinions about bananas? You’ve come to the right place. Northern Irish powerhouse comedian Shane Todd has flown in to give Russell his Five Brilliant Things, and bananas are right out of the traps. Even the hardest of hearts will be turned by his impassioned defence of the bendy yellow berry. Shane also make the case for simply pottering around, keeping sock drawers in check and he lets himself off the leash when he gets talking about Irish boybands. It’s all here and it’s flying without wings. 🎭 SHANE’S OFF ON TOUR! His latest massive tour is called ‘Hold Me Back’ and it’s going all over the UK, Ireland and the World throughout 2026. Get tickets and see this remarkable young comic at his best - https://www.shanetoddcomedy.com 🎭 🎟️ YOU WANT MORE LIVE COMEDY? Russell’s brand new tour show ‘Don’t Tell The Algorithm’ is well underway with rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ And so the blurb endeth. What are you still doing here staring at a screen? The weather has changed! You should be out there frolicking in the buff, shocking bus stops full of unsuspecting people with your magnificent buttocks. Go! Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fcdc209c-1624-11f1-87ac-f3af7a952957/image/ac50177827ab534a62a8ffcceddeee6e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7163053698.mp3?updated=1772449371",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3813",
+      "speakers": [
+        "Northern Irish",
+        "Russell Howard"
+      ],
+      "topics": [
+        "shane",
+        "todd"
+      ]
+    },
     {
       "key": "a9fecb7d1ca51c96c6f4b6b5bb667967e4a98ab9",
       "title": "Stevie Martin",
@@ -2733,6 +2753,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Shane Todd — speakers: Northern Irish, Russell Howard
 - 2026-02-25 — Stevie Martin — speakers: Stevie Martin, Russell Howard
 - 2026-02-18 — Harry Enfield — speakers: Harry Enfield, Russell Howard
 - 2026-02-11 — Amy Gledhill — speakers: Amy Gledhill, Russell Howard

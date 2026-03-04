@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-02-28T21:34:44+00:00`
-- checked_at: `2026-02-28T21:34:44+00:00`
-- etag: `"djEuMi4wOjE3NzIzMDcxMDYxMDA="`
+- fetched_at: `2026-03-04T02:50:53+00:00`
+- checked_at: `2026-03-04T02:50:53+00:00`
+- etag: `"djEuMi4wOjE3NzI1ODYwMzk0MTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://audioalways.lnk.to/drunkwomensolvingcrime",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-02-28T21:34:44+00:00",
+  "fetched_at": "2026-03-04T02:50:53+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,29 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "d2fdefccbe47b186ae80730b3ec923faaabfee1f",
+      "title": "Adele Cliff's Original Source",
+      "published_at": "2026-03-04T01:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/adele-cliffs-original-source",
+      "description": "It's a double drop week wayhayy! We're kicking things off by inviting the wonderful Adele Cliff to DWSC HQ so she can tell us about the time she lived in a very desirable residence, people just couldn't stop trying to get in! The team then get involved with a case where we find out if someone called 'Lycole Man' can win an election over a woman dubbed a 'bad mother' ... the results won't shock you, but plenty more will. Finally, we hear from a listener whose crime points the finger at a never usually noticed demographic (its middle-aged women guys). See you on Friday for a very special 'mash up episode with the fantastic 'My Mate Bought a Toaster' podcast! Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69a2cac17221cfbf200877e4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82373943",
+      "itunes_duration": "57:11",
+      "speakers": [
+        "Adele Cliff",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "adele",
+        "cliff",
+        "original",
+        "source"
+      ]
+    },
     {
       "key": "cb993f5fd8b32301b239aff25d32bff03393c8a9",
       "title": "The Naked Truth, with Madeleine Brettingham",
@@ -10724,6 +10747,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Adele Cliff's Original Source — speakers: Adele Cliff, Hannah George, Taylor Glenn
 - 2026-02-25 — The Naked Truth, with Madeleine Brettingham — speakers: Madeleine Brettingham, Hannah George, Taylor Glenn
 - 2026-02-20 — That's the Ticket, with AJ Stubberfield — speakers: Hannah George, Taylor Glenn
 - 2026-02-18 — Frozen, with James Barr — speakers: James Barr Hannah, Hannah George, Taylor Glenn

@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-03-03T10:00:45+00:00`
-- checked_at: `2026-03-03T10:00:45+00:00`
-- last_modified: `Tue, 03 Mar 2026 07:41:38 GMT`
+- fetched_at: `2026-03-04T02:50:53+00:00`
+- checked_at: `2026-03-04T02:50:53+00:00`
+- last_modified: `Wed, 04 Mar 2026 00:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-03T10:00:45+00:00",
+  "fetched_at": "2026-03-04T02:50:53+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "15012e602ab77601288ac35c4e757ee7522274cd",
+      "title": "WDWDY #61: Exceptional Perineum",
+      "published_at": "2026-03-04T00:15:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what David did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d8180628-16cd-11f1-a1fd-ff08d77cf14c/image/f97d2d1144435c04e34487bd7c13ae33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7518840141.mp3?updated=1772521831",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3421",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "exceptional",
+        "perineum"
+      ]
+    },
     {
       "key": "62e58dedbfcdfd3cc55560b28495c10933a7bb43",
       "title": "S4 EP9: Marjolein Robertson",
@@ -2951,6 +2971,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — WDWDY #61: Exceptional Perineum — speakers: Max Rushden, David O'Doherty
 - 2026-03-01 — S4 EP9: Marjolein Robertson — speakers: Marjolein Robertson, Max Rushden, David O'Doherty
 - 2026-02-25 — WDWDY #60: Yesterday waits for no man — speakers: Max Rushden, David O'Doherty
 - 2026-02-22 — S4 EP8: Fern Brady — speakers: Max Rushden, David O'Doherty

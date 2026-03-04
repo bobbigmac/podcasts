@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-02T13:35:21+00:00`
-- checked_at: `2026-03-02T13:35:21+00:00`
-- etag: `"djEuMi4wOjE3NzI0NTMwNzM3MTg="`
+- fetched_at: `2026-03-04T02:50:53+00:00`
+- checked_at: `2026-03-04T02:50:53+00:00`
+- etag: `"djEuMi4wOjE3NzI1ODI0OTk1MzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-02T13:35:21+00:00",
+  "fetched_at": "2026-03-04T02:50:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "daec6fac62dcb81b582c49aa22b64a87afa9e9b6",
+      "title": "HERO FIENNES TIFFIN & DONAL FINN • Young Sherlock premiers on Prime from March 4! #661",
+      "published_at": "2026-03-04T00:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the fabulous actors HERO FIENNES TIFFIN & DONAL FINN ! What with Young Sherlock premiering on Prime TODAY (at time of publishing, that is) - or for those listening later - March 4th, what better pairing than Sherlock Holmes and James Moriarty (and our man Scroobius Pip who also stars in the show!). Guy Ritchie directed it, and it sounded like a very cool and very unique environment to be a part of... We catch Hero and Donal at the very start of the press run, but already they have their off-screen chemistry down to science as they let us all in on the process, which is one that embraces spontaneity while being fully prepared. Along with the blend of loose / tight, we also hear about the musicality of the script which includes meticulous cadence, having room to present ideas and creative input on set, the importance of careful scheduling and also how to portray the Mind Palace. Many have attempted it... What will this iteration look like? Enjoy the episode, and catch the show too of course! PIP'S PATREON PAGE if you're of a supporting nature HERO IMDB HERO IG DONAL IMDB DONAL IG YOUNG SHERLOCK PIP AT PRINCE CHARLES CINEMA! SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1772446094561-e20b48d6-d518-4036-8f0c-cc0688f03866.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69a56a9f16315a936f226fc2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "171799383",
+      "itunes_duration": "1:11:32",
+      "speakers": [],
+      "topics": [
+        "hero",
+        "fiennes",
+        "tiffin",
+        "donal",
+        "sherlock",
+        "premier",
+        "prime",
+        "march"
+      ]
+    },
     {
       "key": "b470d6b4a4d0a0fbbba5615b4aae37a9b8d1c9a1",
       "title": "LUCY PINDER (Smashing Sundays / Me Myself & Di) • Friday Rewind",
@@ -18319,6 +18342,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — HERO FIENNES TIFFIN & DONAL FINN • Young Sherlock premiers on Prime from March 4! #661
 - 2026-02-27 — LUCY PINDER (Smashing Sundays / Me Myself & Di) • Friday Rewind
 - 2026-02-25 — JOEL FRY • further proof that The Bill & Casualty might be acting university (Stitch Head / Our Flag Means Death / Cruella) #660
 - 2026-02-20 — TARON EGERTON (Rocketman / Tetris / Kingsman) • Friday Rewind

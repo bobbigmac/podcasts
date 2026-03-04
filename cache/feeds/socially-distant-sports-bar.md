@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-03-01T13:09:47+00:00`
-- checked_at: `2026-03-01T13:09:47+00:00`
-- etag: `"djEuMi4wOjE3NzIzNjc1OTc3OTc="`
+- fetched_at: `2026-03-04T02:50:53+00:00`
+- checked_at: `2026-03-04T02:50:53+00:00`
+- etag: `"djEuMi4wOjE3NzI1ODYyMTkzNjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "Join Elis James, Mike Bubbins and Steff Garrero in Award winning Podcast \"The Socially Distant Sports Bar\". It's a Comedy & Sports Podcast, but you don't have to like Sports to LOVE it. Comedians Elis James (BBC 5Live, Sky TV's Fantasy Football League) & Mike Bubbins (BBC's Mammoth) are \"Unreasonably hilarious\" The Telegraph. \"Elis James, Mike Bubbins and Steff Garrero created a haven where they ramble on about classic clips and random recollections.\" The Guardian Known to fans as Distant Pod it has won awards at the Sports Podcast Awards & Pod Bible Awards. Hosts of \"Down The Clubhouse\" on TNT Sport another Comedy & Sports show. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-03-01T13:09:47+00:00",
+  "fetched_at": "2026-03-04T02:50:53+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "1edd6e897c80c105d4cd7a553763e2c79eea0c7a",
+      "title": "Mr Sassoon (pt 1)",
+      "published_at": "2026-03-04T01:03:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/mr-sassoon-pt-1",
+      "description": "Episode 301: Mr Sassoon Over 300 episodes in and still finding sporting gold in the strangest corners of the internet, Distant Pod is the weekly podcast where Elis James, Mike Bubbins, and Steff Garrero dive into the best (and worst) clips, documentaries, books, and sporting moments they’ve discovered that week. From iconic brilliance to complete nonsense, it’s a fast-moving, funny tour through sport and culture — with zero expertise required and strong opinions guaranteed. 🏃‍♂️ CHARITY RUN Steff finished the Tokyo Marathon for Orchid Cancer on Sunday , raising vital funds for men’s cancer research and support. 👉 Donate here: https://www.justgiving.com/page/the-socially-distant-sports-bar-podcast-5 🎧 PART 1 – Episode 301 (Free) Mike: Jimmy on Bill Belichick https://www.instagram.com/reel/DUElmtCD6C6/ Mike: LT on Bill Belichick https://www.instagram.com/reel/DUCN1c9DwfA/ Elis: The only Wales try of the 1995 Five Nations https://www.facebook.com/share/v/181HjGn2SP/ Steff: Nutter https://www.youtube.com/watch?v=KkVZm5UuXIs 🔒 Want more? Join Distant Pod Bonus Club on Apple Subscriptions for early, ad-free Parts 1 & 2 — plus Part 3 exclusively as bonus content. Click here for a NORD VPN deal https://nordvpn.com/distant CLICK HERE TO SEE CRWST's SELECTION https://crwst.cymru/collections/shop-all 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com 🎟️ TOUR 2026 Live shows are coming! 🎫 Tickets available now at distantpod.com/live Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69a42bb0bbda7540f4f18ce0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154969920",
+      "itunes_duration": "1:04:34",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "sassoon"
+      ]
+    },
     {
       "key": "1b8123ac7375be04a9cdcca83c3951c2daeb0fe4",
       "title": "KenCafé: Pint Size",
@@ -14081,6 +14101,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Mr Sassoon (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-01 — KenCafé: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-02-27 — Maybe Start With Public Speaking (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-02-25 — Maybe Start With Public Speaking (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero

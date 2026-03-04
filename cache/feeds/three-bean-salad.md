@@ -2,11 +2,11 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"9819d-64968e49e7a99"`
-- last_modified: `Wed, 28 Jan 2026 01:45:21 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-03-04T02:50:53+00:00`
+- checked_at: `2026-03-04T02:50:53+00:00`
+- etag: `"98d8d-64c288da295cb"`
+- last_modified: `Wed, 04 Mar 2026 01:15:18 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-03-04T02:50:53+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -26,9 +26,29 @@
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british"
+    "comedy"
   ],
   "episodes": [
+    {
+      "key": "82cdcd33da2a44d1c0c8a05fe5b499deffbf0243",
+      "title": "The Coastguard",
+      "published_at": "2026-03-04T01:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/the-coastguard",
+      "description": "The coastguard is this week’s topic at the behest of Cat of Ontario, Canada. Given the fact that Canada is the nation with the longest coastline in the world perhaps Cat is hoping to find out whether or not Canada also has the longest coastguards? Although, if so, given that Cat is not only from Canada but is also a member of the the Canadian Coastguard, this seems like the sort of thing they could have found out for themselves. But then again maybe that won’t come up. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
+      "image_url": "https://artwork.captivate.fm/25cecbe4-71ad-4e89-b4b8-899aa4b4398b/S20-E1-The-Coastguard-1.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f7a86f9a-47f9-4d61-b8b0-621de6ce0e53.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=f7a86f9a-47f9-4d61-b8b0-621de6ce0e53",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58009436",
+      "itunes_duration": "01:00:26",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "coastguard"
+      ]
+    },
     {
       "key": "7082edc392ce27522e40154f874c427a2160bea7",
       "title": "Road Trips",
@@ -41,7 +61,7 @@
       "enclosure_length": "62025605",
       "itunes_duration": "01:04:37",
       "speakers": [
-        "Laura Grimshaw",
+        "Road Trips According",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -63,7 +83,7 @@
       "enclosure_length": "62257155",
       "itunes_duration": "01:04:51",
       "speakers": [
-        "Laura Grimshaw",
+        "Stone Age",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -84,7 +104,7 @@
       "enclosure_length": "60755845",
       "itunes_duration": "01:03:17",
       "speakers": [
-        "Laura Grimshaw",
+        "Memory If",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -105,7 +125,7 @@
       "enclosure_length": "62414725",
       "itunes_duration": "01:05:01",
       "speakers": [
-        "Laura Grimshaw",
+        "Bodybuilders Emily",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -128,7 +148,6 @@
       "speakers": [
         "Film Corner Avatar",
         "James Cameron",
-        "Film Corner",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -152,7 +171,6 @@
       "enclosure_length": "71817553",
       "itunes_duration": "01:14:49",
       "speakers": [
-        "Merry Ratmas",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -173,7 +191,6 @@
       "enclosure_length": "63893047",
       "itunes_duration": "01:06:33",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -195,7 +212,7 @@
       "enclosure_length": "54850082",
       "itunes_duration": "57:08",
       "speakers": [
-        "Laura Grimshaw",
+        "Laundry How",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -216,7 +233,6 @@
       "enclosure_length": "68340551",
       "itunes_duration": "01:11:11",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -257,6 +273,10 @@
       "enclosure_length": "4938186",
       "itunes_duration": "05:09",
       "speakers": [
+        "Fifth Wednesday Pod Replacement",
+        "Pod No",
+        "Three Bean Salad",
+        "Wednesday July",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -279,7 +299,6 @@
       "enclosure_length": "60125563",
       "itunes_duration": "01:02:38",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -301,7 +320,7 @@
       "enclosure_length": "58241821",
       "itunes_duration": "01:00:40",
       "speakers": [
-        "Laura Grimshaw",
+        "Donkey Milk Soap Even",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -324,7 +343,6 @@
       "enclosure_length": "63092655",
       "itunes_duration": "01:05:43",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -345,8 +363,8 @@
       "enclosure_length": "62581909",
       "itunes_duration": "01:05:11",
       "speakers": [
-        "Gerard Butler",
-        "Laura Grimshaw",
+        "Sunday Roasts Lee",
+        "Black Country",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -368,8 +386,6 @@
       "enclosure_length": "52900302",
       "itunes_duration": "55:06",
       "speakers": [
-        "Luckily Tom",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -392,7 +408,6 @@
       "itunes_duration": "01:01:31",
       "speakers": [
         "Kitchen Gadgets",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -414,7 +429,7 @@
       "enclosure_length": "69126314",
       "itunes_duration": "01:12:00",
       "speakers": [
-        "Laura Grimshaw",
+        "Australia People",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -436,7 +451,6 @@
       "itunes_duration": "01:04:37",
       "speakers": [
         "Noodles Sam",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -526,8 +540,6 @@
       "enclosure_length": "63910183",
       "itunes_duration": "01:06:34",
       "speakers": [
-        "Laura Grimshaw",
-        "Gareth Gwynn",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -549,8 +561,6 @@
       "itunes_duration": "01:01:24",
       "speakers": [
         "Granny Europe",
-        "Queen Victoria",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -572,7 +582,6 @@
       "enclosure_length": "63312084",
       "itunes_duration": "01:05:57",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -593,8 +602,7 @@
       "enclosure_length": "57140080",
       "itunes_duration": "59:31",
       "speakers": [
-        "Ipsos Mori",
-        "Laura Grimshaw",
+        "Seagulls Dr",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -615,7 +623,8 @@
       "enclosure_length": "58771375",
       "itunes_duration": "01:01:13",
       "speakers": [
-        "Laura Grimshaw",
+        "Old Wives",
+        "Bean Machine",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -637,7 +646,6 @@
       "enclosure_length": "63691173",
       "itunes_duration": "01:06:21",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -658,7 +666,6 @@
       "enclosure_length": "63512286",
       "itunes_duration": "01:06:10",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -679,7 +686,7 @@
       "enclosure_length": "58287796",
       "itunes_duration": "01:00:43",
       "speakers": [
-        "Laura Grimshaw",
+        "Wild Camping Sean",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -747,8 +754,6 @@
       "enclosure_length": "62571878",
       "itunes_duration": "01:05:11",
       "speakers": [
-        "Laura Grimshaw",
-        "beansaladpod Music",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -769,7 +774,7 @@
       "enclosure_length": "57330670",
       "itunes_duration": "59:43",
       "speakers": [
-        "Laura Grimshaw",
+        "Language Ella",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -790,7 +795,6 @@
       "enclosure_length": "56595062",
       "itunes_duration": "58:57",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -811,7 +815,6 @@
       "enclosure_length": "58385181",
       "itunes_duration": "01:00:49",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -832,7 +835,8 @@
       "enclosure_length": "57605687",
       "itunes_duration": "01:00:00",
       "speakers": [
-        "Laura Grimshaw",
+        "Eastern Sweden",
+        "Big Archaeology",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -853,7 +857,7 @@
       "enclosure_length": "64702634",
       "itunes_duration": "01:07:24",
       "speakers": [
-        "Laura Grimshaw",
+        "Gardening What",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -874,7 +878,8 @@
       "enclosure_length": "57868583",
       "itunes_duration": "01:00:17",
       "speakers": [
-        "Laura Grimshaw",
+        "Giants Samuel",
+        "High Street",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -895,7 +900,7 @@
       "enclosure_length": "61692910",
       "itunes_duration": "01:04:16",
       "speakers": [
-        "Laura Grimshaw",
+        "Space Travel Tourism What",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -918,6 +923,7 @@
       "enclosure_length": "12635787",
       "itunes_duration": "13:10",
       "speakers": [
+        "Three Bean Salad",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -964,7 +970,6 @@
       "enclosure_length": "60069556",
       "itunes_duration": "01:02:34",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -983,7 +988,7 @@
       "enclosure_length": "59020897",
       "itunes_duration": "01:01:29",
       "speakers": [
-        "Laura Grimshaw",
+        "Guy Fawkes",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1005,9 +1010,6 @@
       "itunes_duration": "01:04:46",
       "speakers": [
         "Peter Pan",
-        "Darth Vader",
-        "Luke Skywalker",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1028,8 +1030,6 @@
       "enclosure_length": "51386036",
       "itunes_duration": "53:32",
       "speakers": [
-        "Nigel Farage",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1050,7 +1050,6 @@
       "enclosure_length": "61060538",
       "itunes_duration": "01:03:36",
       "speakers": [
-        "Merry Ratmas",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1071,8 +1070,6 @@
       "enclosure_length": "60785102",
       "itunes_duration": "01:03:19",
       "speakers": [
-        "Hans Christian Andersen",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1093,7 +1090,6 @@
       "enclosure_length": "59165511",
       "itunes_duration": "01:01:38",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1114,7 +1110,7 @@
       "enclosure_length": "56876766",
       "itunes_duration": "59:15",
       "speakers": [
-        "Laura Grimshaw",
+        "Interior Design Most",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1136,7 +1132,6 @@
       "enclosure_length": "67498781",
       "itunes_duration": "01:10:19",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1178,7 +1173,9 @@
       "enclosure_length": "5138853",
       "itunes_duration": "05:21",
       "speakers": [
-        "Julian Calendar",
+        "Fifth Wednesday Informationcast No",
+        "Three Bean Salad",
+        "Wednesday October",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1201,7 +1198,7 @@
       "enclosure_length": "60265579",
       "itunes_duration": "01:02:47",
       "speakers": [
-        "Laura Grimshaw",
+        "Budget Airlines Put",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1223,7 +1220,7 @@
       "enclosure_length": "58155721",
       "itunes_duration": "01:00:35",
       "speakers": [
-        "Laura Grimshaw",
+        "Sharks Dan",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1244,7 +1241,6 @@
       "enclosure_length": "62313579",
       "itunes_duration": "01:04:55",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1265,7 +1261,7 @@
       "enclosure_length": "57984776",
       "itunes_duration": "01:00:24",
       "speakers": [
-        "Laura Grimshaw",
+        "Adverts Adverts",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1286,7 +1282,6 @@
       "enclosure_length": "57530036",
       "itunes_duration": "59:56",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1308,7 +1303,6 @@
       "itunes_duration": "58:42",
       "speakers": [
         "Bremington Spa",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1329,8 +1323,7 @@
       "enclosure_length": "66590138",
       "itunes_duration": "01:09:22",
       "speakers": [
-        "Milton Keynes",
-        "Laura Grimshaw",
+        "Jazz Looking",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1351,7 +1344,7 @@
       "enclosure_length": "60577377",
       "itunes_duration": "01:03:06",
       "speakers": [
-        "Laura Grimshaw",
+        "Vampires Play",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1419,7 +1412,6 @@
       "enclosure_length": "59478562",
       "itunes_duration": "01:01:57",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1440,7 +1432,6 @@
       "enclosure_length": "60490859",
       "itunes_duration": "01:03:01",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1461,7 +1452,7 @@
       "enclosure_length": "61247783",
       "itunes_duration": "01:03:48",
       "speakers": [
-        "Laura Grimshaw",
+        "Haircuts Rebecca",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1482,7 +1473,8 @@
       "enclosure_length": "65787238",
       "itunes_duration": "01:08:32",
       "speakers": [
-        "Laura Grimshaw",
+        "My Hot Air Balloon",
+        "Bonjamin Partridge",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1504,7 +1496,6 @@
       "enclosure_length": "64836799",
       "itunes_duration": "01:07:32",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1525,7 +1516,7 @@
       "enclosure_length": "48311111",
       "itunes_duration": "50:19",
       "speakers": [
-        "Laura Grimshaw",
+        "Gameshows Allison",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1546,7 +1537,6 @@
       "enclosure_length": "61248201",
       "itunes_duration": "01:03:48",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1567,7 +1557,6 @@
       "enclosure_length": "56045863",
       "itunes_duration": "58:23",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1609,7 +1598,7 @@
       "enclosure_length": "75222667",
       "itunes_duration": "01:18:21",
       "speakers": [
-        "Laura Grimshaw",
+        "Harris Tweed",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1630,10 +1619,6 @@
       "enclosure_length": "66669086",
       "itunes_duration": "01:09:27",
       "speakers": [
-        "Wang Dang Doodle",
-        "Howlin Wolf",
-        "Jérôme d'Ambrosio",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1654,7 +1639,6 @@
       "enclosure_length": "56135307",
       "itunes_duration": "58:28",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1675,10 +1659,7 @@
       "enclosure_length": "67041906",
       "itunes_duration": "01:09:50",
       "speakers": [
-        "Laura Grimshaw",
-        "beansaladpod Music",
-        "Strauss Jr",
-        "Das Orchester Tsumugi",
+        "Cloche Bleue Cloche Bleue",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1700,7 +1681,6 @@
       "enclosure_length": "59815855",
       "itunes_duration": "01:02:18",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1721,7 +1701,6 @@
       "enclosure_length": "58088848",
       "itunes_duration": "01:00:31",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1742,10 +1721,10 @@
       "enclosure_length": "53194546",
       "itunes_duration": "55:25",
       "speakers": [
-        "Benjamin Partridge",
-        "Laura Grimshaw",
+        "Ghosts Isaac",
         "Mike Wozniak",
-        "Henry Paker"
+        "Henry Paker",
+        "Benjamin Partridge"
       ],
       "topics": [
         "ghost"
@@ -1763,7 +1742,6 @@
       "enclosure_length": "53298200",
       "itunes_duration": "55:31",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1831,7 +1809,6 @@
       "enclosure_length": "61452165",
       "itunes_duration": "01:04:01",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1852,8 +1829,6 @@
       "enclosure_length": "67502125",
       "itunes_duration": "01:10:19",
       "speakers": [
-        "James Bond",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1875,7 +1850,6 @@
       "enclosure_length": "58968652",
       "itunes_duration": "01:01:26",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1896,8 +1870,6 @@
       "enclosure_length": "57601507",
       "itunes_duration": "01:00:00",
       "speakers": [
-        "Sue Barker",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1919,8 +1891,6 @@
       "itunes_duration": "01:01:13",
       "speakers": [
         "Fairytales Emma",
-        "Laura Grimshaw",
-        "Find Crowleytime",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1941,7 +1911,6 @@
       "enclosure_length": "52962578",
       "itunes_duration": "55:10",
       "speakers": [
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -1962,8 +1931,6 @@
       "enclosure_length": "59241579",
       "itunes_duration": "01:01:43",
       "speakers": [
-        "Henry’s Beefcake Journey",
-        "Laura Grimshaw",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2088,6 +2055,7 @@
       "enclosure_length": "56924414",
       "itunes_duration": "59:18",
       "speakers": [
+        "Fashion Thank",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2149,7 +2117,6 @@
       "enclosure_length": "60740381",
       "itunes_duration": "01:03:16",
       "speakers": [
-        "Andie MacDowell",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2273,6 +2240,7 @@
       "enclosure_length": "59111594",
       "itunes_duration": "01:01:34",
       "speakers": [
+        "Cults Megan",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2293,6 +2261,7 @@
       "enclosure_length": "58309112",
       "itunes_duration": "01:00:44",
       "speakers": [
+        "Time Travel How",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2314,8 +2283,6 @@
       "enclosure_length": "57815502",
       "itunes_duration": "01:00:13",
       "speakers": [
-        "Tony Blair",
-        "Silvio Berlusconi",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2354,6 +2321,7 @@
       "enclosure_length": "58109746",
       "itunes_duration": "01:00:32",
       "speakers": [
+        "Fire Hazel",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2435,7 +2403,6 @@
       "itunes_duration": "01:05:11",
       "speakers": [
         "Phillip Kerrigan",
-        "Gareth Richards",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2524,6 +2491,7 @@
       "enclosure_length": "57349896",
       "itunes_duration": "59:44",
       "speakers": [
+        "Ice Cream Gemma",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2630,7 +2598,6 @@
       "enclosure_length": "62979388",
       "itunes_duration": "01:05:36",
       "speakers": [
-        "Three Bean Salad",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2652,7 +2619,6 @@
       "enclosure_length": "60220858",
       "itunes_duration": "01:02:44",
       "speakers": [
-        "Will Helen Hunt",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2675,8 +2641,6 @@
       "enclosure_length": "57335685",
       "itunes_duration": "59:43",
       "speakers": [
-        "Louis Armstrong",
-        "Liam Neeson",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2756,8 +2720,6 @@
       "enclosure_length": "61121978",
       "itunes_duration": "01:03:40",
       "speakers": [
-        "Tim Rice",
-        "suburban cul-de-sac",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2779,7 +2741,8 @@
       "enclosure_length": "59562572",
       "itunes_duration": "01:02:03",
       "speakers": [
-        "Joanna Lumley",
+        "Animal Husbandry Welcome",
+        "Three Bean Salad",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2801,7 +2764,6 @@
       "enclosure_length": "50922938",
       "itunes_duration": "53:03",
       "speakers": [
-        "Amelia Earhart",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2845,7 +2807,6 @@
       "enclosure_length": "63188368",
       "itunes_duration": "01:05:49",
       "speakers": [
-        "Gérard Depardieu",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2866,7 +2827,6 @@
       "enclosure_length": "58758000",
       "itunes_duration": "01:01:12",
       "speakers": [
-        "Phillip Kerrigan",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2907,7 +2867,6 @@
       "enclosure_length": "55511294",
       "itunes_duration": "57:49",
       "speakers": [
-        "Gary Lineker",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2930,7 +2889,7 @@
       "enclosure_length": "58353416",
       "itunes_duration": "01:00:47",
       "speakers": [
-        "beansaladpod Feat",
+        "Bean Machine",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -2971,6 +2930,7 @@
       "enclosure_length": "61338062",
       "itunes_duration": "01:03:54",
       "speakers": [
+        "Hats Steph",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3071,7 +3031,7 @@
       "enclosure_length": "55083721",
       "itunes_duration": "57:23",
       "speakers": [
-        "Hannah Kohler",
+        "Hannah Koh",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3159,8 +3119,8 @@
       "enclosure_length": "57035173",
       "itunes_duration": "59:25",
       "speakers": [
-        "Henry Paker",
         "Mike Wozniak",
+        "Henry Paker",
         "Benjamin Partridge"
       ],
       "topics": [
@@ -3200,7 +3160,6 @@
       "enclosure_length": "57235747",
       "itunes_duration": "59:37",
       "speakers": [
-        "Paul Hogan",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3305,6 +3264,7 @@
       "enclosure_length": "55950151",
       "itunes_duration": "58:17",
       "speakers": [
+        "Snow What",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3371,7 +3331,6 @@
       "itunes_duration": "53:06",
       "speakers": [
         "Bicycles Hazel",
-        "Noel Gallagher",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3392,7 +3351,6 @@
       "enclosure_length": "55123009",
       "itunes_duration": "57:25",
       "speakers": [
-        "Devonshire Megan",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3454,6 +3412,7 @@
       "enclosure_length": "56196329",
       "itunes_duration": "58:32",
       "speakers": [
+        "Spies Casper",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3493,7 +3452,6 @@
       "itunes_duration": "55:24",
       "speakers": [
         "Museums Holly",
-        "Eastern European",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3577,7 +3535,6 @@
       "itunes_duration": "01:00:07",
       "speakers": [
         "Squid Game",
-        "Joss Stone",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3659,7 +3616,7 @@
       "enclosure_length": "61632724",
       "itunes_duration": "01:04:12",
       "speakers": [
-        "beansaladpod Featuring",
+        "Portraiture Portraiture",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3680,7 +3637,6 @@
       "enclosure_length": "53436544",
       "itunes_duration": "55:40",
       "speakers": [
-        "beansaladpod Featuring",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3701,7 +3657,6 @@
       "enclosure_length": "63559934",
       "itunes_duration": "01:06:12",
       "speakers": [
-        "beansaladpod Featuring",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3786,7 +3741,6 @@
       "itunes_duration": "01:02:58",
       "speakers": [
         "Listener Sam",
-        "Andrew Lloyd Webber",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3894,6 +3848,7 @@
       "enclosure_length": "59526627",
       "itunes_duration": "01:02:00",
       "speakers": [
+        "Purple Victoria",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3914,6 +3869,7 @@
       "enclosure_length": "60131414",
       "itunes_duration": "01:02:38",
       "speakers": [
+        "Magic Lynzee",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3955,7 +3911,7 @@
       "enclosure_length": "55092916",
       "itunes_duration": "57:23",
       "speakers": [
-        "Margaret Thatcher",
+        "Sleep Victoria",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -3976,10 +3932,6 @@
       "enclosure_length": "41490017",
       "itunes_duration": "43:13",
       "speakers": [
-        "Steve Davis",
-        "Steve Interesting Davis",
-        "Ginger Magician",
-        "Romford Slim",
         "Mike Wozniak",
         "Henry Paker",
         "Benjamin Partridge"
@@ -4095,191 +4047,192 @@
 
 ## Episodes (newest first)
 
-- 2026-01-28 — Road Trips — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2026-01-21 — Cavemen — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2026-01-14 — Memory — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2026-01-07 — Bodybuilders — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-12-31 — Film Corner - Avatar: Fire And Ash — speakers: Film Corner Avatar, James Cameron, Film Corner, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-12-24 — Ratmas 2025 — speakers: Merry Ratmas, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-12-17 — Organised Crime — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-12-10 — Laundry — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-12-03 — Neighbours — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2026-03-04 — The Coastguard — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2026-01-28 — Road Trips — speakers: Road Trips According, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2026-01-21 — Cavemen — speakers: Stone Age, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2026-01-14 — Memory — speakers: Memory If, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2026-01-07 — Bodybuilders — speakers: Bodybuilders Emily, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-12-31 — Film Corner - Avatar: Fire And Ash — speakers: Film Corner Avatar, James Cameron, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-12-24 — Ratmas 2025 — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-12-17 — Organised Crime — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-12-10 — Laundry — speakers: Laundry How, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-12-03 — Neighbours — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-11-05 — It's November And This Episode Isn't An Episode — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-10-29 — Fifth Wednesday Pod Replacement Pod — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-10-22 — Town Planning — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-10-15 — Donkey Milk Soap — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-10-08 — Antarctica — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-10-01 — Sunday Roasts — speakers: Gerard Butler, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-09-24 — Extreme Sports — speakers: Luckily Tom, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-09-17 — Kitchen Gadgets — speakers: Kitchen Gadgets, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-09-10 — Australia — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-09-03 — Noodles — speakers: Noodles Sam, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-10-29 — Fifth Wednesday Pod Replacement Pod — speakers: Fifth Wednesday Pod Replacement, Pod No, Three Bean Salad, Wednesday July, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-10-22 — Town Planning — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-10-15 — Donkey Milk Soap — speakers: Donkey Milk Soap Even, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-10-08 — Antarctica — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-10-01 — Sunday Roasts — speakers: Sunday Roasts Lee, Black Country, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-09-24 — Extreme Sports — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-09-17 — Kitchen Gadgets — speakers: Kitchen Gadgets, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-09-10 — Australia — speakers: Australia People, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-09-03 — Noodles — speakers: Noodles Sam, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-08-13 — Free Patreon episode - And Then Sparrows Took Their Eyes: Hans The Hedgehog — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-08-06 — It's August! Non-Ep! — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-07-30 — Fifth Wednesday Not-A-Pod Pod — speakers: Fifth Wednesday Not, Pod Pod No, Three Bean Salad, Wednesday July, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-07-23 — Hiking — speakers: Laura Grimshaw, Gareth Gwynn, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-07-16 — Queen Victoria — speakers: Granny Europe, Queen Victoria, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-07-09 — Archery — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-07-02 — Seagulls — speakers: Ipsos Mori, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-06-25 — Old Wives' Tales — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-06-18 — The Sixties — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-06-11 — Moths — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-06-04 — Wild Camping — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-07-23 — Hiking — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-07-16 — Queen Victoria — speakers: Granny Europe, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-07-09 — Archery — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-07-02 — Seagulls — speakers: Seagulls Dr, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-06-25 — Old Wives' Tales — speakers: Old Wives, Bean Machine, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-06-18 — The Sixties — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-06-11 — Moths — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-06-04 — Wild Camping — speakers: Wild Camping Sean, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-05-07 — Non-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-04-30 — Fifth Wednesday back in 10 minutes transmission — speakers: Fifth Wednesday, Three Bean Salad, Wednesday April, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-04-23 — The Renaissance — speakers: Laura Grimshaw, beansaladpod Music, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-04-16 — Language — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-04-09 — Ham Salad — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-04-02 — Festivals — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-03-26 — The Vikings — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-03-19 — Gardening — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-03-12 — Giants — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-03-05 — Space Travel Tourism — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-02-05 — Anti-episode episode-isode — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-04-23 — The Renaissance — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-04-16 — Language — speakers: Language Ella, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-04-09 — Ham Salad — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-04-02 — Festivals — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-03-26 — The Vikings — speakers: Eastern Sweden, Big Archaeology, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-03-19 — Gardening — speakers: Gardening What, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-03-12 — Giants — speakers: Giants Samuel, High Street, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-03-05 — Space Travel Tourism — speakers: Space Travel Tourism What, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-02-05 — Anti-episode episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-01-29 — Fifth Wednesday Advice-cast — speakers: Fifth Wednesday Advice, Three Bean Salad, Wednesday January, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-01-22 — D.I.Y. — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-01-15 — Guy Fawkes — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-01-08 — Peter Pan — speakers: Peter Pan, Darth Vader, Luke Skywalker, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-01-01 — The Railway — speakers: Nigel Farage, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-12-29 — Ratmas — speakers: Merry Ratmas, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-12-25 — Hippos — speakers: Hans Christian Andersen, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-12-18 — Monuments — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-12-11 — Interior Design — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-12-04 — The Netherlands — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-01-22 — D.I.Y. — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-01-15 — Guy Fawkes — speakers: Guy Fawkes, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-01-08 — Peter Pan — speakers: Peter Pan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-01-01 — The Railway — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-12-29 — Ratmas — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-12-25 — Hippos — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-12-18 — Monuments — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-12-11 — Interior Design — speakers: Interior Design Most, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-12-04 — The Netherlands — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-11-06 — Un-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-30 — Fifth Wednesday Informationcast — speakers: Julian Calendar, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-23 — Budget Airlines — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-16 — Sharks — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-09 — The Pyramids — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-02 — Adverts — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-09-25 — Pasta — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-09-18 — Mushrooms — speakers: Bremington Spa, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-09-11 — Jazz — speakers: Milton Keynes, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-09-04 — Vampires — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-30 — Fifth Wednesday Informationcast — speakers: Fifth Wednesday Informationcast No, Three Bean Salad, Wednesday October, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-23 — Budget Airlines — speakers: Budget Airlines Put, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-16 — Sharks — speakers: Sharks Dan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-09 — The Pyramids — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-02 — Adverts — speakers: Adverts Adverts, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-09-25 — Pasta — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-09-18 — Mushrooms — speakers: Bremington Spa, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-09-11 — Jazz — speakers: Jazz Looking, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-09-04 — Vampires — speakers: Vampires Play, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-08-06 — Non-episode-isode-isode-isode-isode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-07-31 — Fifth Wednesday Precaution Alert — speakers: Fifth Wednesday Precaution Alert, Three Bean Salad, Wednesday July, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-24 — Archaeology — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-17 — Boats — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-10 — Haircuts — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-03 — My Hot Air Balloon Ride — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-06-26 — Feudalism — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-06-19 — Gameshows — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-06-12 — Libraries — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-06-05 — Eggs — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-24 — Archaeology — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-17 — Boats — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-10 — Haircuts — speakers: Haircuts Rebecca, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-03 — My Hot Air Balloon Ride — speakers: My Hot Air Balloon, Bonjamin Partridge, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-06-26 — Feudalism — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-06-19 — Gameshows — speakers: Gameshows Allison, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-06-12 — Libraries — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-06-05 — Eggs — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-05-01 — Non-episode caretaker abeyance-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-04-24 — Farming — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-04-17 — Wine — speakers: Wang Dang Doodle, Howlin Wolf, Jérôme d'Ambrosio, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-04-10 — Olives — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-04-03 — Cloche Bleue — speakers: Laura Grimshaw, beansaladpod Music, Strauss Jr, Das Orchester Tsumugi, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-03-27 — The Beach — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-03-20 — Tough Guys — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-03-13 — Ghosts — speakers: Benjamin Partridge, Laura Grimshaw, Mike Wozniak, Henry Paker
-- 2024-03-06 — Stonehenge — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-24 — Farming — speakers: Harris Tweed, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-17 — Wine — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-10 — Olives — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-03 — Cloche Bleue — speakers: Cloche Bleue Cloche Bleue, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-03-27 — The Beach — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-03-20 — Tough Guys — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-03-13 — Ghosts — speakers: Ghosts Isaac, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-03-06 — Stonehenge — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-02-07 — Interim non-episode anti-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-01-31 — Fifth Wednesday Warning Broadcast — speakers: Fifth Wednesday Warning Broadcast, Three Bean Salad, Wednesday January, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-01-24 — Circus — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-01-17 — James Bond — speakers: James Bond, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-01-10 — Castles — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-01-03 — Architecture — speakers: Sue Barker, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-12-27 — Fairytales — speakers: Fairytales Emma, Laura Grimshaw, Find Crowleytime, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-12-20 — Cruises — speakers: Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-12-13 — Disguises — speakers: Henry’s Beefcake Journey, Laura Grimshaw, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-01-24 — Circus — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-01-17 — James Bond — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-01-10 — Castles — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-01-03 — Architecture — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-12-27 — Fairytales — speakers: Fairytales Emma, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-12-20 — Cruises — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-12-13 — Disguises — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-12-06 — Assassinations — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-11-01 — Non-episode-isode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-10-25 — Surfin' — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-10-18 — The Trojan War — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-10-11 — The Higgs Boson/Particles — speakers: Particles Muriel, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-10-03 — Fashion — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-10-03 — Fashion — speakers: Fashion Thank, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-09-27 — Elvis — speakers: Elvis Presley, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-09-20 — Orange — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-09-13 — Pencils — speakers: Andie MacDowell, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-09-13 — Pencils — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-09-06 — Beer — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-08-01 — Non-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-07-26 — Oats — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-07-18 — Urban Legends — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-07-12 — Whales — speakers: Whales Ben, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-07-05 — Cults — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-06-28 — Time Travel — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-06-21 — Volcanoes — speakers: Tony Blair, Silvio Berlusconi, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-07-05 — Cults — speakers: Cults Megan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-06-28 — Time Travel — speakers: Time Travel How, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-06-21 — Volcanoes — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-06-14 — Tea — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-06-07 — Fire — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-06-07 — Fire — speakers: Fire Hazel, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-05-03 — Not an episode non-episode episode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-04-25 — The Essence Of Fear — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-04-19 — Teachers — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-04-12 — Dentists — speakers: Phillip Kerrigan, Gareth Richards, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-04-12 — Dentists — speakers: Phillip Kerrigan, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-04-05 — TV Crime Shows — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-03-29 — Fifth Wednesday Calendar Abberation Broadcast — speakers: Fifth Wednesday Calendar Abberation, Broadcast No, Three Bean Salad, Wednesday March, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-03-22 — Pirates — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-03-15 — Ice Cream — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-03-15 — Ice Cream — speakers: Ice Cream Gemma, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-03-08 — The Arctic — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-03-01 — Zeppelins — speakers: Zeppelins Michael, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-02-15 — Best Of Series Three — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-02-01 — Snappy Little Non-Episode Announcement — speakers: Snappy Little Non, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-01-25 — Avatar 2: The Way Of Water — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-01-18 — The Loch Ness Monster — speakers: Will Helen Hunt, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-01-11 — The Moon — speakers: Louis Armstrong, Liam Neeson, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-01-25 — Avatar 2: The Way Of Water — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-01-18 — The Loch Ness Monster — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-01-11 — The Moon — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-01-04 — Dogs — speakers: Rebecca Abrey, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-12-28 — Crisps — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-12-21 — Forests — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-12-14 — Board Games — speakers: Tim Rice, suburban cul-de-sac, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-12-07 — Animal Husbandry — speakers: Joanna Lumley, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-11-09 — Best Of Series Two — speakers: Amelia Earhart, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-12-14 — Board Games — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-12-07 — Animal Husbandry — speakers: Animal Husbandry Welcome, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-11-09 — Best Of Series Two — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-11-02 — Zero Bean Salad Non-Episode — speakers: Salad Non-Episode, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-10-26 — Glass — speakers: Gérard Depardieu, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-10-19 — Mail — speakers: Phillip Kerrigan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-10-26 — Glass — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-10-19 — Mail — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-10-12 — Sandwiches — speakers: Henry Paker, Mike Wozniak, Benjamin Partridge
-- 2022-10-05 — Going To Disney World And Not Wanting To Be Dressed Up As A Ruffian — speakers: Gary Lineker, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-09-28 — RATS! — speakers: beansaladpod Feat, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-10-05 — Going To Disney World And Not Wanting To Be Dressed Up As A Ruffian — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-09-28 — RATS! — speakers: Bean Machine, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-09-21 — Artificial Intelligence — speakers: Artificial Intelligence Paul, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-09-14 — Hats — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-09-14 — Hats — speakers: Hats Steph, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-09-06 — Teeth — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-08-03 — Non-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-07-26 — Swords — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-07-19 — Canada — speakers: Canada George, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-07-13 — Service Stations — speakers: Hannah Kohler, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-07-13 — Service Stations — speakers: Hannah Koh, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-07-06 — Sitcoms — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-06-29 — Fifth Wednesday Non-Episode Plenary Session — speakers: Fifth Wednesday Non, Three Bean Salad, Wednesday June, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-06-21 — Tubes — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-06-15 — France — speakers: Henry Paker, Mike Wozniak, Benjamin Partridge
+- 2022-06-15 — France — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-06-08 — Prizes — speakers: Phillip Kerrigan, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-06-01 — Bears — speakers: Paul Hogan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-06-01 — Bears — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-05-03 — No Bean Salad Non-Beanisode — speakers: No Bean Salad Non, Beanisode No, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-04-27 — Tusks — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-04-20 — Maps — speakers: Maps Sarah, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-04-13 — Mountains — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-04-06 — Snow — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-04-06 — Snow — speakers: Snow What, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-03-30 — Five Wednesday Month Alert — speakers: Five Wednesday Month Alert, Three Bean Salad, Wednesday March, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-03-23 — Goblins — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-03-16 — Bicycles — speakers: Bicycles Hazel, Noel Gallagher, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-03-09 — Slippers — speakers: Devonshire Megan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-03-16 — Bicycles — speakers: Bicycles Hazel, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-03-09 — Slippers — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-03-02 — S4 E1 - Dinosaurs — speakers: Dinosaurs Roll, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-02-02 — Non-episode Beanorandum Episode — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-01-26 — Spies — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-01-26 — Spies — speakers: Spies Casper, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-01-19 — Aliens — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-01-12 — Museums — speakers: Museums Holly, Eastern European, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-01-12 — Museums — speakers: Museums Holly, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-01-05 — Elevators — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-12-29 — A Message From The Beans — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-12-22 — Zombies — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-12-15 — Biscuits — speakers: Squid Game, Joss Stone, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-12-15 — Biscuits — speakers: Squid Game, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-12-08 — Immortality — speakers: Listener Sam, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-12-01 — Exercise — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-10-20 — The Titanic — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-10-12 — Portraiture — speakers: beansaladpod Featuring, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-10-06 — Pagans — speakers: beansaladpod Featuring, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-09-28 — Jeffreys/Geoffreys — speakers: beansaladpod Featuring, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-10-12 — Portraiture — speakers: Portraiture Portraiture, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-10-06 — Pagans — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-09-28 — Jeffreys/Geoffreys — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-09-21 — Islands — speakers: Islands Olana, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-09-14 — Flags — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-09-07 — Buffets — speakers: Accordionist Alex, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-09-01 — Dystopia — speakers: Listener Sam, Andrew Lloyd Webber, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-09-01 — Dystopia — speakers: Listener Sam, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-08-24 — Romance — speakers: Romance Battling, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-08-18 — Condiments — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-08-10 — Bean Tasting Menu - Highlights Of Series One — speakers: Bean Tasting Menu, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-08-05 — Live Beans Announcement — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-06-29 — Purple — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-06-23 — Magic — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-06-29 — Purple — speakers: Purple Victoria, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-06-23 — Magic — speakers: Magic Lynzee, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-06-16 — Musical Instruments — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-06-08 — Sleep — speakers: Margaret Thatcher, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-06-01 — Asteroids — speakers: Steve Davis, Steve Interesting Davis, Ginger Magician, Romford Slim, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-06-08 — Sleep — speakers: Sleep Victoria, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-06-01 — Asteroids — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-05-26 — Bags — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-05-18 — Submarines — speakers: Submarines Submarines, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-05-11 — Rome — speakers: Russell Crowe, Mike Wozniak, Henry Paker, Benjamin Partridge
