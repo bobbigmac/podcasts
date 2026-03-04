@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-03-04T02:50:53+00:00`
-- checked_at: `2026-03-04T02:50:53+00:00`
-- last_modified: `Tue, 03 Mar 2026 22:22:51 GMT`
+- fetched_at: `2026-03-04T13:22:12+00:00`
+- checked_at: `2026-03-04T13:22:12+00:00`
+- last_modified: `Wed, 04 Mar 2026 12:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/967914911d6e26f1bb9223e736bc7c12.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-04T02:50:53+00:00",
+  "fetched_at": "2026-03-04T13:22:12+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3c4f98a80abaaf01f010282316d94e099feb7c3f",
+      "title": "Birth Keepers with Sirin Kale",
+      "published_at": "2026-03-04T12:00:00+00:00",
+      "link": null,
+      "description": "Birth Keepers with Sirin Kale Presented by Deborah Frances-White with special guest Sirin Kale Recorded 17 February 2026 via Riverside. Released 4 March. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Birth Keepers https://podcasts.apple.com/gb/podcast/the-birth-keepers-the-guardian-investigates/id1731314182 https://www.instagram.com/sirin_kale For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT Come to a live show 31 March Bloomsbury Theatre. https://www.bloomsburytheatre.com/event/2026/03/guilty-feminist-live 30 April, Guilty Feminist x The Nerve. https://www.leicestersquaretheatre.com/show/guilty-feminist-x-the-nerve-road-to-gilead 10 April, 17 April, 14 May, 22 May Museum of Comedy. https://www.museumofcomedy.com/the-guilty-feminist Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a7049426-1749-11f1-aac2-5b92ba6102c0/image/aea95176903d9b56d2288181206bea9b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL5472061727.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1335",
+      "speakers": [
+        "Birth Keepers",
+        "Sirin Kale",
+        "Sirin Kale Presented",
+        "Deborah Frances-White",
+        "Sirin Kale Recor"
+      ],
+      "topics": [
+        "birth",
+        "keepers",
+        "sirin",
+        "kale"
+      ]
+    },
     {
       "key": "47ea75785cac4eeecba9baecf5f604386dffc78b",
       "title": "472. Ten for Ten #7 with Desiree Burch",
@@ -17477,6 +17502,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Birth Keepers with Sirin Kale — speakers: Birth Keepers, Sirin Kale, Sirin Kale Presented, Deborah Frances-White, Sirin Kale Recor
 - 2026-03-02 — 472. Ten for Ten #7 with Desiree Burch — speakers: Deborah Frances-White
 - 2026-02-25 — Deborah Frances-White in conversation with Hannah Spencer — speakers: Deborah Frances-White, Hannah Spencer, Hannah Spencer Presented, Deborah Frances-White Recorded
 - 2026-02-23 — 471. ROAD TO GILEAD: The History of Queerphobia with Abigoliah Schamaun and Dr Harry Tanner - part two — speakers: Abigoliah Schamaun, Deborah Frances-White
