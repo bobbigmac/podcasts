@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-03-03T19:10:51+00:00`
-- checked_at: `2026-03-03T19:10:51+00:00`
-- etag: `"djEuMi4wOjE3NzI1NTYyNDA2NTQ="`
+- fetched_at: `2026-03-04T04:51:03+00:00`
+- checked_at: `2026-03-04T04:51:03+00:00`
+- etag: `"djEuMi4wOjE3NzI1OTY4Mzk4MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-03-03T19:10:51+00:00",
+  "fetched_at": "2026-03-04T04:51:03+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "86964f8fcdebffd297d1dad473a1cdc181322a7b",
+      "title": "Amy Matthews",
+      "published_at": "2026-03-04T04:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/amy-matthews",
+      "description": "Superb stand-up, writer and podcaster Amy Matthews has a table booked this week. But does the Dream Restaurant have the perfect amount of twinkle? Amy Matthews is at the Edinburgh Fringe and on tour with her new show ‘Definitions of Toast’. Dates and tickets info here . Watch Amy’s special ‘I Feel Like I’m Made of Spiders’ on ITVX . Buy Amy’s vinyl ‘Commute With The Foxes’ on Monkey Barrel Records . Follow Amy on Instagram @amyfmatthews Watch the video version of this episode on the Off Menu YouTube on Thu 5 Mar. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1772189738228-086768a0-0612-49fd-bf11-89145eb2d6d0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69a17be70e3095585103fd30/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88268416",
+      "itunes_duration": "1:13:33",
+      "speakers": [
+        "Amy Matthews Superb",
+        "Amy Matthews",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "matthews"
+      ]
+    },
     {
       "key": "80718424b31005b0161e5554c453f23ab5ae0217",
       "title": "Nikesh Patel",
@@ -8239,6 +8261,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Amy Matthews — speakers: Amy Matthews Superb, Amy Matthews, Ed Gamble, James Acaster, Ben Williams
 - 2026-02-25 — Nikesh Patel — speakers: Nikesh Patel Actor, Celebrity Hunted, Ed Gamble, James Acaster, Ben Williams
 - 2026-02-18 — Fern Brady (Tasting Menu) — speakers: Fern Brady, Tasting Menu, Off Menu, Ed Gamble, James Acaster, Ben Williams
 - 2026-02-11 — Sean McLoughlin — speakers: Sean McLoughlin, Ed Gamble, James Acaster, Ben Williams

@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-03-03T19:10:51+00:00`
-- checked_at: `2026-03-03T19:10:51+00:00`
-- etag: `"djEuMi4wOjE3NzI1NTY4OTgxNDI="`
+- fetched_at: `2026-03-04T04:51:03+00:00`
+- checked_at: `2026-03-04T04:51:03+00:00`
+- etag: `"djEuMi4wOjE3NzI1OTY4Mzk4NTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-03-03T19:10:51+00:00",
+  "fetched_at": "2026-03-04T04:51:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d28b61b8e096027260ca9fe543034ff864b12755",
+      "title": "Hilary Duff",
+      "published_at": "2026-03-04T04:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/hilary-duff",
+      "description": "It’s a pop emergency this week as we have Hilary Duff joining us on the podcast! Fresh from her smash sell out London show, Hilary joined us for lunch to talk about her brand new album ‘Luck… Or Something’. We chatted about being a mum of 4, growing up in Texas, we swapped sourdough starter tips, heard about writing the album with her husband, she shared her thoughts on being compared to Sabrina Carpenter, where to eat in LA, and Hilary confesses she actually stopped at Brick Lane for a quick bagel en route to the recording! We can’t wait to see her headline at The O2 later this year when she kicks off her huge world tour. Hilary’s album ‘Luck… Or Something’ is a great record and it’s available to buy everywhere now. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1772556891268-8ff398fa-c7c6-4a5e-b6fa-0e85943655bc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69a6dc1ed00500cf52f58952/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52465579",
+      "itunes_duration": "54:39",
+      "speakers": [
+        "Hilary Duff"
+      ],
+      "topics": [
+        "hilary",
+        "duff"
+      ]
+    },
     {
       "key": "7359cb149e7cad9e4c190a5d3ec09395e7cdb1ff",
       "title": "Hannah Fry",
@@ -6907,6 +6926,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Hilary Duff — speakers: Hilary Duff
 - 2026-02-25 — Hannah Fry — speakers: Hannah Fry
 - 2026-02-18 — Emma Corrin — speakers: Emma Corrin
 - 2026-02-11 — Margot Robbie — speakers: Margot Robbie

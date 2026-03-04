@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-02T07:16:30+00:00`
-- checked_at: `2026-03-02T07:16:30+00:00`
-- etag: `"djEuMi4wOjE3NzI0MjM4NTkyMTg="`
+- fetched_at: `2026-03-04T04:51:03+00:00`
+- checked_at: `2026-03-04T04:51:03+00:00`
+- etag: `"djEuMi4wOjE3NzI1OTY2NTkzNTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-02T07:16:30+00:00",
+  "fetched_at": "2026-03-04T04:51:03+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "489edcc13f518872de8cde5ceae4c652e908dd33",
+      "title": "RHLSTP 601 - Rob Auton",
+      "published_at": "2026-03-04T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #601 - A Bit on the Nose - Richard is back in Leicester and discussing the fear of a public toilet with the lid closed. His guest is poetic comedian and confused philosopher Rob Auton. Rob reveals a terrible thing that just happened to him back stage. The pair discuss not knowing when something is a joke or not, looking to birthdays in the future, whether all maths is wrong, how lucky we are to be alive, acting with Danny Dyer, how so many comedians are doing beautiful amazing work and the feckless public are unaware of the genius, how Rich should be better at this job by now, a Dragon in the audience, when audience interaction goes beautifully and the power of motivation. See Rob on tour (and all his past gigs) here https://www.robauton.co.uk/past-productions Watch the Time Show here https://www.youtube.com/watch?v=ifAnxeFXO2g SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1771965154981-c1c6871f-babd-42af-af8d-498d6a341c8f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/699e0ae943ceb0105d81854d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30533783",
+      "itunes_duration": "57:33",
+      "speakers": [
+        "Rob Auton",
+        "Richard Herring"
+      ],
+      "topics": [
+        "auton"
+      ]
+    },
     {
       "key": "c14979e1ec73332e5940d1253307aca4a21f5aa7",
       "title": "Retro RHLSTP 135 - Sophie Ellis-Bextor",
@@ -21618,6 +21637,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — RHLSTP 601 - Rob Auton — speakers: Rob Auton, Richard Herring
 - 2026-03-02 — Retro RHLSTP 135 - Sophie Ellis-Bextor — speakers: Richard Herring
 - 2026-02-28 — RAACN week 5 — speakers: Bin Laden Having, Richard Herring
 - 2026-02-27 — RHLSTP Book Club 171 - Ian Leslie — speakers: Richard Herring
