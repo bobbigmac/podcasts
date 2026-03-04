@@ -2,10 +2,10 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"djEuMi4wOjE3NzE0MjIwNjAzMzk="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-03-04T15:58:27+00:00`
+- checked_at: `2026-03-04T15:58:27+00:00`
+- etag: `"djEuMi4wOjE3NzI2Mzk1ODgzNDU="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,14 +17,14 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-03-04T15:58:27+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
   "common_speakers": [],
   "categories": [
     "comedy",
-    "news/politics"
+    "politics"
   ],
   "episodes": [
     {
@@ -40,9 +40,6 @@
       "itunes_duration": "48:52",
       "speakers": [
         "Helen Zaltzman",
-        "Chris Skinner",
-        "Laura Turner",
-        "Harry Gordon",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -70,12 +67,6 @@
       "speakers": [
         "Neil Delamere",
         "Alice Fraser",
-        "Peter Mandelson",
-        "Kier Starmer",
-        "Donald Trump",
-        "Chris Skinner",
-        "Laura Turner",
-        "Harry Gordon",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -103,10 +94,6 @@
       "speakers": [
         "Anuvab Pal",
         "Sara Barron",
-        "Melania Trump",
-        "Chris Skinner",
-        "Laura Turner",
-        "Harry Gordon",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -135,10 +122,6 @@
         "Bugle Andy",
         "Tiff Stevenson",
         "Josh Gondelman",
-        "Alex Honnold",
-        "Netflix Daring Doc",
-        "Tour Dates",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -166,10 +149,6 @@
       "speakers": [
         "Alice Fraser",
         "Anuvab Pal",
-        "Robert Jenrick",
-        "Chris Skinner",
-        "Laura Turner",
-        "Harry Gordon",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -194,12 +173,7 @@
       "enclosure_length": "50515799",
       "itunes_duration": "52:37",
       "speakers": [
-        "Andy Zaltzman",
-        "Nish Kumar",
-        "Donald Trump",
-        "Chris Skinner",
-        "Laura Turner",
-        "Harry Gordon"
+        "Andy Zaltzman"
       ],
       "topics": [
         "year"
@@ -217,8 +191,6 @@
       "enclosure_length": "46529723",
       "itunes_duration": "48:28",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -238,8 +210,6 @@
       "enclosure_length": "42498924",
       "itunes_duration": "44:16",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -259,14 +229,8 @@
       "enclosure_length": "106228505",
       "itunes_duration": "1:13:35",
       "speakers": [
-        "Andy Zaltzman",
-        "Lloyd Langford",
-        "Sami Shah",
-        "Alice Fraser",
-        "Donald Trump",
-        "Tom Wright",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zalt",
+        "Andy Zaltzman"
       ],
       "topics": [
         "rage",
@@ -288,11 +252,7 @@
       "enclosure_length": "72619868",
       "itunes_duration": "50:12",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Donald Trump",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "movies",
@@ -314,8 +274,6 @@
         "John Oliver",
         "Alice Fraser",
         "Nish Kumar",
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -340,10 +298,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Josh Gondelman",
-        "Anuvab Pal",
-        "Russian Robot News",
-        "Chris Skinner",
-        "Laura Turner"
+        "Anuvab Pal"
       ],
       "topics": [
         "andy",
@@ -366,11 +321,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Helen Zaltzman",
-        "Josie Long",
-        "Zohran Mamdani",
-        "Donald Trump",
-        "Chris Skinner",
-        "Laura Turner"
+        "Josie Long"
       ],
       "topics": [
         "blue",
@@ -391,11 +342,8 @@
       "enclosure_length": "71268375",
       "itunes_duration": "49:24",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Nish Kumar",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zal",
+        "Andy Zaltzman"
       ],
       "topics": [
         "space",
@@ -418,8 +366,6 @@
       "itunes_duration": "42:39",
       "speakers": [
         "John Oliver",
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -442,10 +388,7 @@
       "itunes_duration": "44:04",
       "speakers": [
         "Andy Zaltzman",
-        "Tom Ballard",
-        "Prince Andrew",
-        "Chris Skinner",
-        "Laura Turner"
+        "Tom Ballard"
       ],
       "topics": [
         "king",
@@ -465,10 +408,7 @@
       "itunes_duration": "45:51",
       "speakers": [
         "Andy Zaltzman",
-        "Alice Fraser",
-        "Tilly Norwood",
-        "Chris Skinner",
-        "Laura Turner"
+        "Alice Fraser"
       ],
       "topics": [
         "windows"
@@ -487,9 +427,7 @@
       "itunes_duration": "46:46",
       "speakers": [
         "Andy Zaltzman",
-        "Helen Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Helen Zaltzman"
       ],
       "topics": []
     },
@@ -508,9 +446,7 @@
         "Sorry Iran",
         "Andy Zaltzman",
         "Josh Gondelman",
-        "James Nokise",
-        "Chris Skinner",
-        "Laura Turner"
+        "James Nokise"
       ],
       "topics": [
         "iran",
@@ -531,11 +467,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Nish Kumar",
-        "Sara Barron",
-        "Jimmy Kimmel",
-        "Donald Trump",
-        "Chris Skinner",
-        "Laura Turner"
+        "Sara Barron"
       ],
       "topics": [
         "state"
@@ -555,10 +487,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Anuvab Pal",
-        "Tiff Stevenson",
-        "Marco Polo",
-        "Chris Skinner",
-        "Laura Turner"
+        "Tiff Stevenson"
       ],
       "topics": [
         "housewife"
@@ -577,9 +506,7 @@
       "itunes_duration": "49:11",
       "speakers": [
         "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner"
+        "Alice Fraser"
       ],
       "topics": [
         "friend"
@@ -597,8 +524,6 @@
       "enclosure_length": "38324766",
       "itunes_duration": "39:55",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -619,10 +544,7 @@
       "enclosure_length": "29489527",
       "itunes_duration": "30:43",
       "speakers": [
-        "Alex Edelman",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle"
@@ -640,10 +562,8 @@
       "enclosure_length": "76914125",
       "itunes_duration": "50:24",
       "speakers": [
-        "Andy Zaltzman",
-        "Sara Barron",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzma",
+        "Andy Zaltzman"
       ],
       "topics": [
         "golf",
@@ -663,11 +583,8 @@
       "enclosure_length": "48005017",
       "itunes_duration": "33:12",
       "speakers": [
-        "Andy Zaltzman",
-        "Jena Friedman",
-        "Laura Turner",
-        "Chris Skinner",
-        "Ross Ramsey-Golding"
+        "Team Bugle",
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -683,11 +600,9 @@
       "enclosure_length": "62890053",
       "itunes_duration": "43:26",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Ross Ramsey-Golding"
+        "Intellectual Cats",
+        "Team Bugle",
+        "Andy Zaltzman"
       ],
       "topics": [
         "world"
@@ -705,11 +620,9 @@
       "enclosure_length": "65787956",
       "itunes_duration": "44:51",
       "speakers": [
-        "Andy Zaltzman",
-        "Ian Smith",
-        "Donald Trump",
-        "Chris Skinner",
-        "Laura Turner"
+        "Palestine Inaction",
+        "Team Bugle",
+        "Andy Zaltzman"
       ],
       "topics": [
         "palestine",
@@ -728,12 +641,8 @@
       "enclosure_length": "61814963",
       "itunes_duration": "42:51",
       "speakers": [
-        "Andy Zaltzman",
-        "Josie Long",
-        "Josh Gondelman",
-        "Chris Skinner",
-        "Laura Turner",
-        "Ross Ramsey-Golding Hosted"
+        "Team Bugle",
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -753,14 +662,7 @@
       "enclosure_length": "53000749",
       "itunes_duration": "36:08",
       "speakers": [
-        "Jeff Bezos",
-        "Tiff Stevenson",
-        "Hari Kondabolu",
-        "Neil Delamere",
-        "Alice Fraser",
-        "Tom Ballard",
-        "James Nokise",
-        "Chris Skinner",
+        "Too Much News",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -780,12 +682,8 @@
       "enclosure_length": "71693215",
       "itunes_duration": "45:56",
       "speakers": [
-        "Andy Zaltzman",
-        "Tiff Stevenson",
-        "Tom Ballard",
-        "Top Story",
-        "Chris Skinner",
-        "Laura Turner"
+        "Middle East",
+        "Andy Zaltzman"
       ],
       "topics": [
         "iran",
@@ -808,12 +706,7 @@
       "itunes_duration": "50:38",
       "speakers": [
         "Massive Madman",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Neil Delamere",
-        "Elon Musk",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "musk",
@@ -834,12 +727,7 @@
       "enclosure_length": "71898255",
       "itunes_duration": "48:05",
       "speakers": [
-        "Andy Zaltzman",
-        "James Nokise",
-        "Elon Musk",
-        "Donald Trump",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "honey",
@@ -859,12 +747,9 @@
       "enclosure_length": "74911821",
       "itunes_duration": "51:11",
       "speakers": [
-        "Andy Zaltzman",
-        "Helen Zaltzman",
-        "Josh Gondelman",
-        "Alice Fraser",
-        "Ped Hunter",
-        "Chris Skinner"
+        "Free Bugle",
+        "Team Bugle",
+        "Andy Zaltzman"
       ],
       "topics": [
         "bleak",
@@ -885,12 +770,7 @@
       "itunes_duration": "46:15",
       "speakers": [
         "Donald Loves Big Guns",
-        "Andy Zaltzman",
-        "Tiff Stevenson",
-        "Hari Kondabolu",
-        "James Comey",
-        "Laura Turner",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "donald",
@@ -910,12 +790,7 @@
       "itunes_duration": "54:41",
       "speakers": [
         "Maga Pope",
-        "Andy Zaltzman",
-        "Tom Ballard",
-        "Top Story",
-        "Woke Pope News",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "maga",
@@ -936,14 +811,8 @@
       "enclosure_length": "46743300",
       "itunes_duration": "48:41",
       "speakers": [
-        "Andy Zaltzman",
-        "David O’Doherty",
-        "Alice Fraser",
-        "Top Story",
-        "Donald Trump",
-        "Tom Wright",
-        "Chris Skinner",
-        "Laura Turner"
+        "Stalin Cosplay",
+        "Andy Zaltzman"
       ],
       "topics": [
         "year",
@@ -965,11 +834,7 @@
       "speakers": [
         "Carney Trumps Maga",
         "Pete Hegseth",
-        "Andy Zaltzman",
-        "Hari Kondabolu",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "carney",
@@ -991,14 +856,7 @@
       "enclosure_length": "36235388",
       "itunes_duration": "37:44",
       "speakers": [
-        "Tier Buglers",
-        "Pope Francis",
-        "Osama Bin Laden",
-        "John Cena",
-        "Chris Skinner",
-        "Laura Turner",
-        "Andy Zaltzman",
-        "John Oliver"
+        "Andy Zaltzman"
       ],
       "topics": [
         "pope",
@@ -1020,8 +878,6 @@
       "speakers": [
         "Evil Set",
         "Josie Long",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1042,11 +898,8 @@
       "enclosure_length": "66375081",
       "itunes_duration": "44:22",
       "speakers": [
-        "Top Story",
-        "Laura Loomer",
-        "Cory Booker",
-        "Laura Turner",
-        "Chris Skinner Hosted",
+        "Liberation Day",
+        "Team Bugle",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1067,10 +920,6 @@
       "itunes_duration": "29:56",
       "speakers": [
         "April Fools",
-        "Alice Fraser",
-        "Al Murray",
-        "Laura Turner",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1090,12 +939,8 @@
       "enclosure_length": "76836174",
       "itunes_duration": "39:45",
       "speakers": [
-        "Molly Malone",
-        "Andy Zaltzman",
-        "Ria Lina",
-        "Neil Delamere",
-        "Chris Skinner",
-        "Laura Turner"
+        "Oh God Why",
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -1111,10 +956,9 @@
       "enclosure_length": "69279192",
       "itunes_duration": "46:31",
       "speakers": [
-        "Andy Zaltzman",
-        "Jackie Kashian",
-        "Chris Skinner",
-        "Laura Turner"
+        "Share Prices May Go",
+        "Team Bugle",
+        "Andy Zaltzman"
       ],
       "topics": [
         "share",
@@ -1133,8 +977,6 @@
       "enclosure_length": "48125769",
       "itunes_duration": "49:30",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1155,10 +997,7 @@
       "itunes_duration": "47:48",
       "speakers": [
         "Anuvab Pal",
-        "Andy Zaltzman",
-        "Liz Truss",
-        "James Bond",
-        "Tiff Stevenson"
+        "Andy Zaltzman"
       ],
       "topics": [
         "resisting"
@@ -1239,11 +1078,10 @@
       "enclosure_length": "42223489",
       "itunes_duration": "43:58",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner"
+        "Radioactive Toddler Waves Arms",
+        "Around Love Sci Fi",
+        "Realms Unknown",
+        "Andy Zaltzman"
       ],
       "topics": [
         "toddler",
@@ -1262,9 +1100,7 @@
       "enclosure_length": "42547826",
       "itunes_duration": "44:19",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -1281,13 +1117,7 @@
       "itunes_duration": "52:57",
       "speakers": [
         "Trump Returns",
-        "Donald Trump",
-        "Elon Musk",
-        "Steve Bannon",
-        "Andy Zaltzman",
-        "Josh Gondelman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "trump",
@@ -1306,11 +1136,8 @@
       "enclosure_length": "52659930",
       "itunes_duration": "54:51",
       "speakers": [
-        "John Oliver",
-        "Andy Zaltzman",
-        "John Oliver Alice Fraser",
-        "Josh Gondelman",
-        "Ahir Shah Hosted"
+        "Willy Wonka",
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle"
@@ -1329,10 +1156,7 @@
       "itunes_duration": "29:47",
       "speakers": [
         "Andy Zaltzman",
-        "John Oliver",
-        "John Oliver Chris",
-        "Chris Skinner",
-        "Laura Turner"
+        "John Oliver"
       ],
       "topics": [
         "john",
@@ -1353,12 +1177,7 @@
       "itunes_duration": "50:03",
       "speakers": [
         "Prince Andrew",
-        "Merry Christmas Buglers",
-        "John Oliver",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "robots",
@@ -1379,9 +1198,7 @@
       "itunes_duration": "56:34",
       "speakers": [
         "John Oliver",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "nepo",
@@ -1401,12 +1218,7 @@
       "enclosure_length": "40778604",
       "itunes_duration": "42:28",
       "speakers": [
-        "Joe Biden",
-        "Andy Zaltzman",
-        "James Nokise",
-        "Lina James Nokise",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "jumped",
@@ -1426,9 +1238,6 @@
       "itunes_duration": "42:36",
       "speakers": [
         "Hari Kondabolu",
-        "Andy Zaltzman Hari Kondabolu",
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1448,11 +1257,7 @@
       "enclosure_length": "36879045",
       "itunes_duration": "38:24",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "influencer",
@@ -1472,10 +1277,7 @@
       "enclosure_length": "69745057",
       "itunes_duration": "48:26",
       "speakers": [
-        "Andy Zaltzman",
-        "Josh Gondelman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "countdown",
@@ -1495,9 +1297,7 @@
       "itunes_duration": "45:09",
       "speakers": [
         "Therapy Andy",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "electoral",
@@ -1518,10 +1318,7 @@
       "itunes_duration": "46:23",
       "speakers": [
         "Andy Zaltzman",
-        "Alice Fraser",
-        "Donald Trump",
-        "Chris Skinner",
-        "Laura Turner"
+        "Alice Fraser"
       ],
       "topics": [
         "pollsters",
@@ -1540,10 +1337,7 @@
       "enclosure_length": "57976921",
       "itunes_duration": "40:03",
       "speakers": [
-        "Alice Fraser",
-        "Josie Long",
-        "Chris Skinner",
-        "Ross Ramsey-Golding Hosted",
+        "Christopher Columbus",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1563,8 +1357,6 @@
       "enclosure_length": "48706245",
       "itunes_duration": "33:49",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1583,10 +1375,6 @@
       "enclosure_length": "44679835",
       "itunes_duration": "46:32",
       "speakers": [
-        "Anuvab Pal",
-        "Tiff Stevenson",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1607,10 +1395,6 @@
       "itunes_duration": "43:57",
       "speakers": [
         "JD Vance",
-        "Alice Fraser",
-        "Hari Kondabolu",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1629,10 +1413,8 @@
       "enclosure_length": "46127646",
       "itunes_duration": "48:02",
       "speakers": [
-        "Tom Ballard",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Raining Cats",
+        "Andy Zaltzman"
       ],
       "topics": [
         "news"
@@ -1650,9 +1432,7 @@
       "enclosure_length": "34286653",
       "itunes_duration": "23:48",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "task",
@@ -1672,9 +1452,7 @@
       "itunes_duration": "43:44",
       "speakers": [
         "Alice Fraser",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "pricing",
@@ -1696,11 +1474,7 @@
       "speakers": [
         "JD Vance",
         "Sofa King Weird",
-        "Alicia Silverstone",
-        "Andy Zaltzman",
-        "Helen Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "vance",
@@ -1721,14 +1495,7 @@
       "enclosure_length": "36428485",
       "itunes_duration": "37:56",
       "speakers": [
-        "Donald Trump",
-        "Taylor Swift",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Addison",
-        "Anuvab Pal",
-        "Tiff Stevenson",
-        "Josh Gondelman"
+        "Andy Zaltzman"
       ],
       "topics": [
         "perfectly",
@@ -1747,9 +1514,7 @@
       "enclosure_length": "25928514",
       "itunes_duration": "27:00",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -1768,13 +1533,7 @@
       "enclosure_length": "54531760",
       "itunes_duration": "37:52",
       "speakers": [
-        "Joe Biden",
-        "Kamala Harris",
-        "Donald Trump",
-        "Andy Zaltzman",
-        "Rich Jarman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "shroedinger",
@@ -1799,10 +1558,6 @@
         "Button Andy",
         "Tom Ballard",
         "Chris Addison",
-        "Donald Trump",
-        "Joe Biden",
-        "Gareth Southgate",
-        "Francis Drake",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1822,9 +1577,6 @@
       "itunes_duration": "43:55",
       "speakers": [
         "Mark Steel",
-        "Andy Zaltzman Mark Steel",
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -1846,11 +1598,7 @@
       "enclosure_length": "43746114",
       "itunes_duration": "45:34",
       "speakers": [
-        "Elon Musk",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "trump",
@@ -1869,9 +1617,7 @@
       "enclosure_length": "9741373",
       "itunes_duration": "10:08",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "primed"
@@ -1889,13 +1635,7 @@
       "enclosure_length": "50857272",
       "itunes_duration": "52:58",
       "speakers": [
-        "Rishi Sunak",
-        "Tiff Stevenson",
-        "Anuvab Pal",
-        "Andy Zaltzman",
-        "Stevenson Anuvab",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "springtime",
@@ -1914,10 +1654,7 @@
       "enclosure_length": "44037850",
       "itunes_duration": "45:52",
       "speakers": [
-        "Andy Zaltzman",
-        "Neil Delamere",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "flounder",
@@ -1936,12 +1673,7 @@
       "enclosure_length": "71473527",
       "itunes_duration": "49:38",
       "speakers": [
-        "Tim Tok",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner",
-        "Faster Stripes"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle"
@@ -1960,13 +1692,7 @@
       "itunes_duration": "45:20",
       "speakers": [
         "Narendra Modi",
-        "Andy Zaltzman",
-        "Josh Gondelman",
-        "Anuvab Pal",
-        "Andy Zaltzman Anuvab Pal",
-        "Chris Skinner",
-        "Scarlett O'Malley",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "trump"
@@ -1985,11 +1711,7 @@
       "itunes_duration": "44:26",
       "speakers": [
         "Raymond Briggs",
-        "Josie Long",
-        "Tom Ballard",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "reverse",
@@ -2009,9 +1731,10 @@
       "enclosure_length": "53534824",
       "itunes_duration": "44:36",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Hot Girl Summer Indictment",
+        "Tour Andy",
+        "Brain Worms",
+        "Andy Zaltzman"
       ],
       "topics": [
         "girl",
@@ -2032,14 +1755,8 @@
       "enclosure_length": "37937632",
       "itunes_duration": "31:36",
       "speakers": [
-        "Nish Kumar",
-        "Alice Fraser",
-        "Hari Kondabolu",
-        "Ahir Shah",
-        "Anuvab Pal",
-        "Al Barrie",
-        "Andy Zaltzman",
-        "Alastair Barrie"
+        "Bees What",
+        "Andy Zaltzman"
       ],
       "topics": [
         "frogs",
@@ -2059,12 +1776,9 @@
       "enclosure_length": "58036348",
       "itunes_duration": "40:18",
       "speakers": [
-        "Alice Fraser",
-        "Alistair Barrie",
-        "Andy Zaltzman",
-        "Alastair Barrie",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Sunak Without",
+        "Trace America",
+        "Andy Zaltzman"
       ],
       "topics": [
         "sunak",
@@ -2083,11 +1797,7 @@
       "enclosure_length": "68133197",
       "itunes_duration": "47:18",
       "speakers": [
-        "Andy Zaltzman",
-        "Ian Smith",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "news",
@@ -2107,9 +1817,6 @@
       "enclosure_length": "68506226",
       "itunes_duration": "47:34",
       "speakers": [
-        "Ahir Shah",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2128,10 +1835,8 @@
       "enclosure_length": "71060374",
       "itunes_duration": "49:20",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Razing Arizona Arizona",
+        "Andy Zaltzman"
       ],
       "topics": [
         "arizona"
@@ -2149,12 +1854,7 @@
       "enclosure_length": "55380008",
       "itunes_duration": "38:27",
       "speakers": [
-        "D'Ancey Laguarde",
-        "Tiff Stevenson",
-        "Alice Fraser",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "creek",
@@ -2173,13 +1873,8 @@
       "enclosure_length": "49779461",
       "itunes_duration": "41:28",
       "speakers": [
-        "Literally Anybody Else",
-        "Andy Zaltzman",
-        "James Nokise",
-        "Josh Gondelman",
-        "James Nokise Josh",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Literally Anybody El",
+        "Andy Zaltzman"
       ],
       "topics": [
         "literally",
@@ -2198,9 +1893,7 @@
       "enclosure_length": "67355166",
       "itunes_duration": "46:46",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "soccer"
@@ -2218,12 +1911,7 @@
       "enclosure_length": "50076734",
       "itunes_duration": "41:43",
       "speakers": [
-        "Anuvab Pal",
-        "Alice Fraser",
-        "Producer Chris",
-        "Andy Zaltzman",
-        "Laura Turner",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "democracy",
@@ -2244,12 +1932,10 @@
       "enclosure_length": "58156093",
       "itunes_duration": "40:23",
       "speakers": [
-        "Neil Delamere",
-        "Alice Fraser",
-        "Josh Gondelman",
-        "Andy Zaltzman",
-        "Laura Turner",
-        "Chris Skinner Hosted"
+        "Barbaric World Super Tuesday",
+        "Theresa May",
+        "Quantum Computers",
+        "Andy Zaltzman"
       ],
       "topics": [
         "barbiturate",
@@ -2270,11 +1956,6 @@
       "enclosure_length": "57236375",
       "itunes_duration": "47:41",
       "speakers": [
-        "Josie Long",
-        "Anuvab Pal",
-        "Andy Zaltzman Anuvab",
-        "Laura Turner",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2295,11 +1976,7 @@
       "enclosure_length": "66831672",
       "itunes_duration": "46:24",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Josh Gondelman",
-        "Laura Turner",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "ceasefire"
@@ -2318,12 +1995,8 @@
       "itunes_duration": "24:19",
       "speakers": [
         "Alice Fraser",
-        "Tom Ballard",
-        "Josh Gondelman",
-        "David O'Doherty",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Tom Balla",
+        "Andy Zaltzman"
       ],
       "topics": [
         "australia",
@@ -2346,12 +2019,7 @@
       "speakers": [
         "Andy Zaltzman",
         "Hari Kondabolu",
-        "Neil Delamere",
-        "Tucker Carlson",
-        "Vladimir Putin",
-        "Andy Zaltzman Hari Kondabolu",
-        "Ped Hunter",
-        "Chris Skinner Hosted"
+        "Neil Delamere"
       ],
       "topics": [
         "world"
@@ -2369,13 +2037,7 @@
       "enclosure_length": "68255783",
       "itunes_duration": "47:14",
       "speakers": [
-        "Chris Addison",
-        "Trump vs Swift",
-        "Joe Biden",
-        "Benjamin Netanyau",
-        "Tucker Carlson",
-        "Vladimir Putin Rishi Sunak",
-        "Liz Truss",
+        "Chris Addiso",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2395,10 +2057,7 @@
       "enclosure_length": "47600952",
       "itunes_duration": "49:34",
       "speakers": [
-        "Andy Zaltzman",
-        "Stevenson Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "minutes",
@@ -2418,11 +2077,7 @@
       "itunes_duration": "40:21",
       "speakers": [
         "Trump Exclusive",
-        "Josh Gondelman",
-        "Andy Zaltzman",
-        "Lina Josh Gondelman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "trump",
@@ -2442,9 +2097,7 @@
       "enclosure_length": "46067878",
       "itunes_duration": "47:59",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "world",
@@ -2463,11 +2116,7 @@
       "enclosure_length": "65209155",
       "itunes_duration": "45:17",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "contest",
@@ -2488,11 +2137,7 @@
       "itunes_duration": "50:44",
       "speakers": [
         "Josh Gondelman",
-        "Alice Fraser",
-        "Andy Zaltzman",
-        "Ped Hunter",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "merry",
@@ -2511,11 +2156,7 @@
       "enclosure_length": "66958314",
       "itunes_duration": "46:29",
       "speakers": [
-        "Tiff Stevenson",
-        "Neil Delamere",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "climate",
@@ -2536,10 +2177,7 @@
       "speakers": [
         "Alice Fraser",
         "Stewart Lee",
-        "James Nokise",
-        "Mark Steel",
-        "Chris Skinner",
-        "Laura Turner Hosted",
+        "James Noki",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2561,10 +2199,7 @@
       "itunes_duration": "45:58",
       "speakers": [
         "Stewart Lee",
-        "Josie Long",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -2580,10 +2215,6 @@
       "enclosure_length": "66408488",
       "itunes_duration": "46:06",
       "speakers": [
-        "Andy Zaltzman Mark Steel",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2604,11 +2235,8 @@
       "enclosure_length": "63234297",
       "itunes_duration": "43:54",
       "speakers": [
-        "Bernie Sanders",
-        "David Cameron",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Bernie San",
+        "Andy Zaltzman"
       ],
       "topics": [
         "world",
@@ -2629,11 +2257,8 @@
       "enclosure_length": "66141412",
       "itunes_duration": "45:55",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "James Nokise",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Middle East",
+        "Andy Zaltzman"
       ],
       "topics": [
         "politic",
@@ -2653,9 +2278,6 @@
       "enclosure_length": "62552188",
       "itunes_duration": "43:26",
       "speakers": [
-        "Andy Zaltzman Hari Kondabolu",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2674,9 +2296,6 @@
       "enclosure_length": "69384567",
       "itunes_duration": "48:10",
       "speakers": [
-        "Andy Zaltzman Tiff Stevenson",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2699,10 +2318,6 @@
       "itunes_duration": "48:24",
       "speakers": [
         "Badger Cam",
-        "Kenyan Lawyer",
-        "Sami Shah",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2723,10 +2338,8 @@
       "enclosure_length": "68003421",
       "itunes_duration": "47:13",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "House Speaker",
+        "Andy Zaltzman"
       ],
       "topics": [
         "happens"
@@ -2744,11 +2357,8 @@
       "enclosure_length": "39425670",
       "itunes_duration": "27:22",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Addison",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Leicester Square Theatre",
+        "Andy Zaltzman"
       ],
       "topics": [
         "britain",
@@ -2768,10 +2378,6 @@
       "itunes_duration": "46:42",
       "speakers": [
         "Spring Break",
-        "Rupert Murdoch",
-        "Andy Zaltzman Ian Smith",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2793,11 +2399,7 @@
       "enclosure_length": "63828008",
       "itunes_duration": "44:19",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Addison",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "crowd",
@@ -2817,11 +2419,7 @@
       "enclosure_length": "68066741",
       "itunes_duration": "47:16",
       "speakers": [
-        "Tom Ballard",
-        "Nish Kumar",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "homeopathic",
@@ -2840,11 +2438,7 @@
       "enclosure_length": "41200743",
       "itunes_duration": "42:54",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -2860,14 +2454,6 @@
       "enclosure_length": "57073997",
       "itunes_duration": "39:38",
       "speakers": [
-        "Chris Addison",
-        "Hari Kondabolu",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Ashes Zaltzcast",
-        "Andy Zaltzman Hari Kondabolu",
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -2889,10 +2475,7 @@
       "enclosure_length": "70447822",
       "itunes_duration": "48:50",
       "speakers": [
-        "Ashes Zaltzcast",
-        "Andy Zaltzman",
-        "Kumar Chris Addison",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "seriously",
@@ -2911,12 +2494,7 @@
       "enclosure_length": "72700446",
       "itunes_duration": "50:29",
       "speakers": [
-        "Ashes Zaltzcast",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal D'Ancey LaGuarde",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "nato",
@@ -2936,11 +2514,7 @@
       "itunes_duration": "44:56",
       "speakers": [
         "Jair Bolsonaro",
-        "Ashes Zaltzcast",
-        "Andy Zaltzman",
-        "Tom Ballard Josh Gondelman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "earth",
@@ -2961,10 +2535,7 @@
       "enclosure_length": "67321311",
       "itunes_duration": "46:45",
       "speakers": [
-        "Producer Chris",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "mercenary"
@@ -2983,13 +2554,7 @@
       "itunes_duration": "51:47",
       "speakers": [
         "Silvio Berlusconi",
-        "Boris Johnson",
-        "Donald Trump",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "horndog",
@@ -3008,10 +2573,6 @@
       "enclosure_length": "67189027",
       "itunes_duration": "46:39",
       "speakers": [
-        "Button Moon",
-        "Andy Zaltzman Anuvab",
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3032,11 +2593,7 @@
       "enclosure_length": "68689292",
       "itunes_duration": "47:42",
       "speakers": [
-        "Hari Kondabolu",
-        "Chris Addison",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "future",
@@ -3059,10 +2616,7 @@
         "Assad Day",
         "Bashar Al Assad",
         "Suella Braverman",
-        "Josie Long",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "assad",
@@ -3082,11 +2636,8 @@
       "enclosure_length": "65209155",
       "itunes_duration": "45:16",
       "speakers": [
-        "Alice Fraser",
-        "Neil Delamere",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "World News Update",
+        "Andy Zaltzman"
       ],
       "topics": [
         "world",
@@ -3106,11 +2657,7 @@
       "enclosure_length": "64419212",
       "itunes_duration": "44:44",
       "speakers": [
-        "Ian Smith",
-        "Andy Zaltzman",
-        "Lina Ian Smith",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "anachronistic",
@@ -3132,10 +2679,7 @@
       "speakers": [
         "Mark Steel",
         "Tom Ballard",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Ped Hunter",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "place",
@@ -3155,10 +2699,7 @@
       "itunes_duration": "45:12",
       "speakers": [
         "Dominic Raab",
-        "King Charles",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "collection",
@@ -3178,11 +2719,9 @@
       "enclosure_length": "64500087",
       "itunes_duration": "44:47",
       "speakers": [
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Cojones India",
+        "Etsy Fascism",
+        "Andy Zaltzman"
       ],
       "topics": [
         "kashmir",
@@ -3202,14 +2741,7 @@
       "enclosure_length": "59962304",
       "itunes_duration": "41:38",
       "speakers": [
-        "Tiff Stevenson",
-        "Mark Thomas",
-        "Andy Zaltzman",
-        "John Oliver Alice Fraser",
-        "Josh Gondelman",
-        "Chris Skinner",
-        "Ped Hunter",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -3229,9 +2761,7 @@
       "enclosure_length": "57451414",
       "itunes_duration": "39:53",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "president"
@@ -3249,12 +2779,7 @@
       "enclosure_length": "63921422",
       "itunes_duration": "44:23",
       "speakers": [
-        "Boris Johnson",
-        "Donald Trump",
-        "Andy Zaltzman",
-        "Josh Gondelman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "boris",
@@ -3274,10 +2799,7 @@
       "enclosure_length": "65600364",
       "itunes_duration": "45:33",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "sore"
@@ -3296,13 +2818,7 @@
       "itunes_duration": "44:15",
       "speakers": [
         "Josie Long",
-        "Andy Zaltzman",
-        "Rupert Murdoch",
-        "Matt Hancock",
-        "Charles Iii",
-        "Ped Hunter",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -3319,13 +2835,7 @@
       "itunes_duration": "34:49",
       "speakers": [
         "Roald Dahl Andy",
-        "Roald Dahl",
-        "Athena Kugblenu",
-        "John Luke Roberts",
-        "Andy Zaltzman",
-        "John Oliver Alice Fraser",
-        "Kumar Ria",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "berlusconi",
@@ -3347,10 +2857,7 @@
       "itunes_duration": "49:23",
       "speakers": [
         "Rail Network",
-        "Andy Zaltzman",
-        "Kumar Anuvab Pal",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "britain",
@@ -3371,10 +2878,7 @@
       "enclosure_length": "52016087",
       "itunes_duration": "36:02",
       "speakers": [
-        "Liz Truss",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Ross Ramsey-Golding"
+        "Andy Zaltzman"
       ],
       "topics": [
         "combat",
@@ -3393,10 +2897,6 @@
       "enclosure_length": "66551430",
       "itunes_duration": "46:12",
       "speakers": [
-        "Liz Truss",
-        "Andy Zaltzman Hari Kondabolu",
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3418,11 +2918,7 @@
       "itunes_duration": "44:26",
       "speakers": [
         "George Santos",
-        "Josh Gondelman",
-        "Mark Steel",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "aclockalypse"
@@ -3442,10 +2938,6 @@
       "speakers": [
         "Mark India",
         "Jacinda Ardern",
-        "Andy Murray",
-        "Andy Zaltzman Anuvab",
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3467,10 +2959,6 @@
       "itunes_duration": "44:26",
       "speakers": [
         "Ian Smith",
-        "Andy Zaltzman Ian Smith",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3493,11 +2981,7 @@
         "Outcasts Andy",
         "Matt Gaetz",
         "George Santos",
-        "Kevin McCarthy",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "speaker",
@@ -3517,13 +3001,7 @@
       "enclosure_length": "51718059",
       "itunes_duration": "35:54",
       "speakers": [
-        "John Oliver",
-        "Andy Zaltzman",
-        "Chris Addison",
-        "Stevenson Anuvab",
-        "John Oliver Alice Fraser",
-        "Chris Skinner",
-        "Laura Turner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -3542,12 +3020,7 @@
       "enclosure_length": "60863842",
       "itunes_duration": "42:15",
       "speakers": [
-        "Liz Truss",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "James Colley",
-        "Anuvab Pal",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -3567,13 +3040,6 @@
       "itunes_duration": "38:50",
       "speakers": [
         "Alice Fraser",
-        "Josh Gondelman",
-        "Eleanor Morton",
-        "Tiff Stevenson",
-        "Sindhu Vee",
-        "John Oliver",
-        "Laura Turner",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3593,13 +3059,7 @@
       "enclosure_length": "51808338",
       "itunes_duration": "35:58",
       "speakers": [
-        "Andy Zaltzman",
-        "Kumar Hari Kondabolu",
-        "John Oliver Nato",
-        "Anuvab Pal Alice Fraser",
-        "Chris Addison",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "year"
@@ -3618,12 +3078,7 @@
       "itunes_duration": "44:03",
       "speakers": [
         "Marion Cotillard",
-        "Elon Musk",
-        "Kurt Vonnegut",
-        "Andy Zaltzman",
-        "Kumar Hari Kondabolu",
-        "Chris Skinner",
-        "Laura Turner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "marion",
@@ -3646,8 +3101,7 @@
         "Nora Barnacle",
         "Alice Fraser",
         "Chris Addison",
-        "Andy Zaltzman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "nora",
@@ -3668,10 +3122,7 @@
       "enclosure_length": "65083140",
       "itunes_duration": "45:11",
       "speakers": [
-        "Chris Skinner",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Kumar Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "sistine",
@@ -3696,7 +3147,6 @@
         "Alice Fraser",
         "Ria Lina",
         "Tiff Stevenson",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3719,8 +3169,6 @@
       "itunes_duration": "42:43",
       "speakers": [
         "Anuvab Pal",
-        "Nancy Pelosi",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3740,8 +3188,7 @@
       "itunes_duration": "34:50",
       "speakers": [
         "John Oliver",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "happy",
@@ -3783,9 +3230,7 @@
       "enclosure_length": "68067346",
       "itunes_duration": "47:09",
       "speakers": [
-        "Andy Zaltzman",
-        "Andy Zaltzman Hari Kondabolu",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -3801,10 +3246,7 @@
       "enclosure_length": "57125406",
       "itunes_duration": "39:40",
       "speakers": [
-        "Ras Putin",
-        "Andy Zaltzman",
-        "Chris Addison",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "sons"
@@ -3822,8 +3264,6 @@
       "enclosure_length": "64600397",
       "itunes_duration": "44:51",
       "speakers": [
-        "Anuvab Pal",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3843,10 +3283,6 @@
       "enclosure_length": "63127718",
       "itunes_duration": "43:50",
       "speakers": [
-        "Liz Truss",
-        "Boris Johnson",
-        "Andy Zaltzman Josh Gondelman",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3867,11 +3303,7 @@
       "speakers": [
         "Electric Boogaloo",
         "Alice Fraser",
-        "Liz Truss PM",
-        "Mikhail Gorbachev",
-        "Andy Zaltzman",
-        "Ped Hunter",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "civil",
@@ -3907,7 +3339,7 @@
       "enclosure_length": "53978173",
       "itunes_duration": "37:29",
       "speakers": [
-        "Vladimir Putin",
+        "Vladimir Puti",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3930,9 +3362,6 @@
       "itunes_duration": "29:54",
       "speakers": [
         "Gargle Andy",
-        "Tiff Stevenson",
-        "James Colley",
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3952,10 +3381,6 @@
       "enclosure_length": "46426069",
       "itunes_duration": "32:14",
       "speakers": [
-        "Alice Fraser",
-        "Chris Skinner",
-        "David O'Doherty",
-        "Chris Addison",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -3975,8 +3400,7 @@
       "itunes_duration": "40:46",
       "speakers": [
         "Alice Fraser",
-        "Andy Zaltzman",
-        "Ross Ramsey-Golding Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "checkmate"
@@ -3995,8 +3419,7 @@
       "itunes_duration": "46:19",
       "speakers": [
         "Chris Addison",
-        "Andy Zaltzman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "world",
@@ -4016,10 +3439,7 @@
       "enclosure_length": "59514670",
       "itunes_duration": "41:19",
       "speakers": [
-        "Boris Johnson",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "boris",
@@ -4038,7 +3458,6 @@
       "enclosure_length": "5058141",
       "itunes_duration": "3:30",
       "speakers": [
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -4059,9 +3478,7 @@
       "itunes_duration": "39:58",
       "speakers": [
         "Neil Delamere",
-        "Andy Zaltzman",
-        "Kumar Neil Delamere",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "nazi",
@@ -4082,10 +3499,7 @@
       "itunes_duration": "42:37",
       "speakers": [
         "Josh Gondelman",
-        "Monkey Pox",
-        "Andy Zaltzman",
-        "Lina Josh Gondelman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "nationalise",
@@ -4106,9 +3520,7 @@
       "itunes_duration": "46:18",
       "speakers": [
         "Hari Kondabolu",
-        "Boris Johnson",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "drag",
@@ -4130,8 +3542,7 @@
         "Goes Platinum",
         "Alice Fraser",
         "Anuvab Pal",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "unit",
@@ -4152,9 +3563,8 @@
       "speakers": [
         "Tom Ballard",
         "Nish Kumar",
-        "Wagatha Christie",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Wagatha Chris",
+        "Andy Zaltzman"
       ],
       "topics": [
         "scomo",
@@ -4175,8 +3585,7 @@
       "speakers": [
         "Alice Fraser",
         "Ria Lina",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "virus",
@@ -4196,8 +3605,7 @@
       "itunes_duration": "47:16",
       "speakers": [
         "Helen Zaltzman",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "class",
@@ -4218,9 +3626,7 @@
       "speakers": [
         "Tiff Stevenson",
         "Neil Delamere",
-        "Boris Johnson",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "chopper"
@@ -4238,11 +3644,7 @@
       "enclosure_length": "67654216",
       "itunes_duration": "46:58",
       "speakers": [
-        "Vladimir Putin",
-        "Boris Johnson",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "everything"
@@ -4261,11 +3663,6 @@
       "itunes_duration": "31:25",
       "speakers": [
         "Bugle Bingo",
-        "Tom Ballard",
-        "John Oliver",
-        "Greta Thunberg",
-        "Ped Hunter",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -4285,10 +3682,6 @@
       "enclosure_length": "39158862",
       "itunes_duration": "27:09",
       "speakers": [
-        "James Nokise",
-        "Tom Neenan",
-        "Andy Zaltzman Anuvab Pal",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -4309,12 +3702,7 @@
       "speakers": [
         "Alice Fraser",
         "Anuvab Pal",
-        "Joe Biden",
-        "Vladimir Putin",
-        "Will Smith",
-        "Chris Rock",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "kremlin",
@@ -4336,8 +3724,6 @@
         "Mark Steel",
         "Hari Kondabolu",
         "Volodymyr Zelensky",
-        "Andy Zaltzman Hari Kondabolu",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -4358,10 +3744,7 @@
       "itunes_duration": "45:24",
       "speakers": [
         "Josh Gondelman",
-        "Shane Warne",
-        "Andy Zaltzman",
-        "Kumar Josh Gondelman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "armageddon"
@@ -4382,8 +3765,7 @@
         "Giant Asteroid",
         "Alice Fraser",
         "Anuvab Pal",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "giant",
@@ -4404,9 +3786,7 @@
       "itunes_duration": "45:50",
       "speakers": [
         "Neil Delamere",
-        "Kristen Dunst",
-        "Andy Zaltzman",
-        "Chris Skinners Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "doll"
@@ -4425,10 +3805,7 @@
       "itunes_duration": "39:50",
       "speakers": [
         "Lloyd Langford",
-        "Andy Zaltzman",
-        "Kumar Lloyd Langford",
-        "Ross Ramsey-Golding",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "putin"
@@ -4447,8 +3824,6 @@
       "itunes_duration": "40:14",
       "speakers": [
         "Helen Zaltzman",
-        "Andy Zaltzman Hari Kondabolu",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -4470,9 +3845,7 @@
       "speakers": [
         "Alice Fraser",
         "Tiff Stevenson",
-        "Andy Zaltzman",
-        "Ross Ramsey Golding",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "ethics",
@@ -4493,9 +3866,6 @@
       "itunes_duration": "46:54",
       "speakers": [
         "Anuvab Pal",
-        "Andy Zaltzman Anuvab Pal",
-        "Chris Skinner",
-        "Ross Ramsey Golding Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -4516,11 +3886,7 @@
       "enclosure_length": "37188753",
       "itunes_duration": "25:49",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "James Colley Nato",
-        "Tom Ballard",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -4543,8 +3909,7 @@
       "speakers": [
         "Alice Fraser",
         "James Colley",
-        "Andy Zaltzman",
-        "James Colley Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "animal",
@@ -4566,8 +3931,7 @@
       "speakers": [
         "Tom Ballard",
         "Lloyd Langford",
-        "Andy Zaltzman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "platypus",
@@ -4586,12 +3950,7 @@
       "enclosure_length": "68973295",
       "itunes_duration": "47:53",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Thurston Anuvab",
-        "Chris Addison",
-        "Tom Ballard Stewart Lee",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -4611,9 +3970,7 @@
       "itunes_duration": "47:20",
       "speakers": [
         "Alice Fraser",
-        "Andy Zaltzman",
-        "Jeff Bezos",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "anti"
@@ -4632,9 +3989,7 @@
       "itunes_duration": "41:28",
       "speakers": [
         "Alice Fraser",
-        "dick pic",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "thing"
@@ -4653,9 +4008,7 @@
       "itunes_duration": "51:14",
       "speakers": [
         "Bread Rolls",
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "butts",
@@ -4676,10 +4029,7 @@
       "itunes_duration": "51:34",
       "speakers": [
         "Stewart Lee",
-        "Squid Game",
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "vice",
@@ -4698,11 +4048,7 @@
       "enclosure_length": "42925216",
       "itunes_duration": "35:46",
       "speakers": [
-        "Andy Zaltzman",
-        "Tiny Revolutions",
-        "Alison Spittle",
-        "Chris Skinner",
-        "Ross Ramsey-Golding"
+        "Andy Zaltzman"
       ],
       "topics": [
         "robot",
@@ -4721,9 +4067,7 @@
       "enclosure_length": "69952152",
       "itunes_duration": "48:36",
       "speakers": [
-        "Andy Zaltzman",
-        "Tiny Revolutions",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "cop26"
@@ -4743,9 +4087,7 @@
       "speakers": [
         "Tom Ballard",
         "Neil Delamere",
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "frazzle",
@@ -4764,11 +4106,7 @@
       "enclosure_length": "64217964",
       "itunes_duration": "44:35",
       "speakers": [
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "James Nokise",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "british",
@@ -4789,9 +4127,6 @@
       "itunes_duration": "47:59",
       "speakers": [
         "Ou Est Le Buffoon",
-        "Tiny Revolutions",
-        "Andy Zaltzman Tiff Stevenson",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -4810,11 +4145,7 @@
       "enclosure_length": "59672031",
       "itunes_duration": "41:26",
       "speakers": [
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "aukus",
@@ -4836,9 +4167,7 @@
         "Alice Fraser",
         "Chris Addison",
         "Producer Chris",
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "satan",
@@ -4857,10 +4186,7 @@
       "enclosure_length": "58308439",
       "itunes_duration": "40:29",
       "speakers": [
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Ross Ramsey Golding Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "partial",
@@ -4879,10 +4205,7 @@
       "enclosure_length": "64209187",
       "itunes_duration": "44:35",
       "speakers": [
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "comeback"
@@ -4900,11 +4223,7 @@
       "enclosure_length": "31500537",
       "itunes_duration": "21:52",
       "speakers": [
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "John Oliver Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -4924,10 +4243,7 @@
       "enclosure_length": "23406758",
       "itunes_duration": "16:15",
       "speakers": [
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Josh Gondelman"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -4948,11 +4264,7 @@
       "itunes_duration": "37:09",
       "speakers": [
         "Sami Shah",
-        "Billionaire Spacemen",
-        "Eric Clapton",
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Alice Fraser"
+        "Andy Zaltzman"
       ],
       "topics": [
         "scottie"
@@ -4970,10 +4282,7 @@
       "enclosure_length": "68572054",
       "itunes_duration": "47:37",
       "speakers": [
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "Chris Addison",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "flare"
@@ -4991,10 +4300,6 @@
       "enclosure_length": "63605445",
       "itunes_duration": "44:10",
       "speakers": [
-        "Tiny Revolutions",
-        "Andy Zaltzman Anuvab Pal",
-        "Alice Fraser",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5014,12 +4319,7 @@
       "itunes_duration": "27:23",
       "speakers": [
         "Really Bad Andy",
-        "John Oliver",
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "John Oliver Nish",
-        "Alice Fraser",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -5035,13 +4335,7 @@
       "enclosure_length": "50420296",
       "itunes_duration": "35:00",
       "speakers": [
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman",
-        "Kumar Josh Gondelman",
-        "Chris Skinner",
-        "Ross Ramsey Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "future",
@@ -5060,11 +4354,7 @@
       "enclosure_length": "38411910",
       "itunes_duration": "26:40",
       "speakers": [
-        "Tiff Stevenson",
-        "Tiny Revolutions",
-        "Andy Zaltzman",
-        "John Oliver Tiff Stevenson",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "dragster",
@@ -5084,13 +4374,7 @@
       "enclosure_length": "59266402",
       "itunes_duration": "41:09",
       "speakers": [
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "sausage",
@@ -5111,11 +4395,7 @@
       "speakers": [
         "Chris Addison",
         "Bob Dylan",
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "dylan",
@@ -5135,11 +4415,6 @@
       "itunes_duration": "41:41",
       "speakers": [
         "Anuvab Pal",
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman Anuvab",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5160,11 +4435,7 @@
       "speakers": [
         "Helen Zaltzman",
         "Alice Fraser",
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "beauty",
@@ -5184,11 +4455,7 @@
       "itunes_duration": "41:41",
       "speakers": [
         "Beast Modi",
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman",
-        "Chris Skinner Hosted"
+        "Andy Zaltzman"
       ],
       "topics": [
         "beast",
@@ -5208,11 +4475,6 @@
       "itunes_duration": "47:33",
       "speakers": [
         "Anuvab Pal",
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman Anuvab",
-        "Chris Skinner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5234,11 +4496,7 @@
       "speakers": [
         "Chris Addison",
         "Alice Fraser",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Ross Ramsey Golding"
+        "Andy Zaltzman"
       ],
       "topics": [
         "boffin"
@@ -5256,13 +4514,7 @@
       "enclosure_length": "60232515",
       "itunes_duration": "41:49",
       "speakers": [
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman",
-        "Ward Nati Green",
-        "Chris Skinner",
-        "Ross Ramsey Golding"
+        "Andy Zaltzman"
       ],
       "topics": [
         "ketchup"
@@ -5282,11 +4534,7 @@
       "speakers": [
         "Tom Ballard",
         "David O'Doherty",
-        "Tiny Revolutions",
-        "Tiff Stevenson",
-        "Armando Iannucci",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "emojency"
@@ -5304,9 +4552,7 @@
       "enclosure_length": "37553004",
       "itunes_duration": "26:04",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "boat"
@@ -5326,8 +4572,6 @@
       "speakers": [
         "Coti Andy",
         "Hari Kondabolu",
-        "Andy Zaltzman Hari Kondabolu",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5347,8 +4591,7 @@
       "itunes_duration": "37:30",
       "speakers": [
         "Tiff Stevenson",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "minimum",
@@ -5369,8 +4612,7 @@
       "speakers": [
         "Josh Gondelman",
         "Alice Fraser",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "final",
@@ -5391,10 +4633,7 @@
       "itunes_duration": "44:33",
       "speakers": [
         "Ted Andy",
-        "Andy Zaltzman",
-        "Thurston Nish",
-        "Ross Ramsey Golding",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": []
     },
@@ -5411,10 +4650,7 @@
       "itunes_duration": "43:42",
       "speakers": [
         "Ted Cruz",
-        "Alice Fraser",
-        "Tiff Stevenson",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "brexit",
@@ -5434,11 +4670,7 @@
       "itunes_duration": "29:22",
       "speakers": [
         "Gargle Andy",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "John Oliver Nato Green",
-        "Ross Ramsey Golding",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "sochi",
@@ -5458,11 +4690,7 @@
       "itunes_duration": "45:44",
       "speakers": [
         "Space Laser",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Ross Ramsey Golding",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "musk",
@@ -5482,9 +4710,7 @@
       "itunes_duration": "47:30",
       "speakers": [
         "Randy Economy Andy",
-        "Randy Economy",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "randy",
@@ -5503,10 +4729,7 @@
       "enclosure_length": "63275048",
       "itunes_duration": "43:56",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Josh Gondelman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "daddy"
@@ -5524,8 +4747,6 @@
       "enclosure_length": "65379682",
       "itunes_duration": "45:24",
       "speakers": [
-        "Hari Kondabolu",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5544,9 +4765,7 @@
       "enclosure_length": "65174046",
       "itunes_duration": "45:15",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "white",
@@ -5567,10 +4786,7 @@
       "speakers": [
         "Spready Mercury",
         "John Oliver",
-        "Snowploughs Trump Covid Brexit",
-        "Alice Fraser",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "spready",
@@ -5589,10 +4805,7 @@
       "enclosure_length": "64632998",
       "itunes_duration": "44:53",
       "speakers": [
-        "Alice Fraser",
-        "David O'Doherty",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "shed",
@@ -5613,7 +4826,6 @@
       "speakers": [
         "Alice Fraser",
         "Chris Skinner",
-        "John Oliver",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5634,8 +4846,6 @@
       "enclosure_length": "66228557",
       "itunes_duration": "45:59",
       "speakers": [
-        "Aditi Mittal",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5657,8 +4867,7 @@
       "itunes_duration": "46:27",
       "speakers": [
         "Rudy Giuliani",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "message",
@@ -5678,10 +4887,7 @@
       "itunes_duration": "45:03",
       "speakers": [
         "Jon Voight",
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Josh Gondelman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "satan",
@@ -5700,8 +4906,7 @@
       "enclosure_length": "65046150",
       "itunes_duration": "45:10",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "voter",
@@ -5720,10 +4925,8 @@
       "enclosure_length": "41251943",
       "itunes_duration": "28:38",
       "speakers": [
-        "Scluten Malvein",
-        "Andy Zaltzman",
-        "John Oliver",
-        "Chris Skinner"
+        "Classic Election Special Andy",
+        "Andy Zaltzman"
       ],
       "topics": [
         "classic",
@@ -5745,8 +4948,7 @@
       "speakers": [
         "Alice Fraser",
         "Nish Kumar",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "evolution",
@@ -5767,8 +4969,7 @@
       "speakers": [
         "Tiff Stevenson",
         "James Nokise",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "election"
@@ -5788,9 +4989,7 @@
       "speakers": [
         "Jet Skis Andy",
         "Alice Fraser",
-        "Donald Trump",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "strikes",
@@ -5810,9 +5009,7 @@
       "itunes_duration": "45:23",
       "speakers": [
         "Covid Andy",
-        "Andy Zaltzman",
-        "Helen Zaltzman Anuvab Pal",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "covid"
@@ -5832,8 +5029,6 @@
       "speakers": [
         "Alice Fraser",
         "Mark Steel",
-        "Andy Zaltzman Mark Steel",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5853,8 +5048,6 @@
       "enclosure_length": "62986030",
       "itunes_duration": "43:44",
       "speakers": [
-        "Andy Zaltzman Tiff Stevenson",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5874,9 +5067,7 @@
       "enclosure_length": "66478079",
       "itunes_duration": "46:09",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "belt"
@@ -5896,10 +5087,7 @@
       "speakers": [
         "randy Andy",
         "John Oliver",
-        "Andy Zaltzman",
-        "John Oliver Nish",
-        "Mark Steel",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -5921,9 +5109,8 @@
       "itunes_duration": "41:25",
       "speakers": [
         "Alice Fraser",
-        "Jerry Falwell",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Jerry Falw",
+        "Andy Zaltzman"
       ],
       "topics": [
         "falwell"
@@ -5942,11 +5129,7 @@
       "itunes_duration": "44:44",
       "speakers": [
         "Tiff Stevenson",
-        "Joe Biden",
-        "Donald Trump",
-        "Andy Zaltzman",
-        "Rich Jarman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "president"
@@ -5964,8 +5147,6 @@
       "enclosure_length": "70403969",
       "itunes_duration": "48:53",
       "speakers": [
-        "Hari Kondabolu",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -5986,8 +5167,6 @@
       "enclosure_length": "65125145",
       "itunes_duration": "45:13",
       "speakers": [
-        "Hari Kondabolu",
-        "Chris Skinner Fub",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6029,9 +5208,7 @@
       "speakers": [
         "Anuvab Pal",
         "Alice Fraser",
-        "Andy Zaltzman",
-        "Chris Skinner",
-        "Ross Ramsey-Golding"
+        "Andy Zaltzman"
       ],
       "topics": [
         "worms",
@@ -6051,8 +5228,7 @@
       "itunes_duration": "31:52",
       "speakers": [
         "Alice Fraser",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6075,11 +5251,6 @@
         "Covid Andy",
         "Alice Fraser",
         "Helen Zaltzman",
-        "Nish Kumar",
-        "James Nokise",
-        "Tiff Stevenson",
-        "Tom Ballard",
-        "John Oliver",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6103,8 +5274,7 @@
       "speakers": [
         "Tiff Stevenson",
         "James Nokise",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6124,9 +5294,7 @@
       "enclosure_length": "86404701",
       "itunes_duration": "1:00:00",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6146,8 +5314,6 @@
       "enclosure_length": "1657625",
       "itunes_duration": "1:09",
       "speakers": [
-        "Hari Kondabolu",
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6168,8 +5334,7 @@
       "speakers": [
         "Alice Fraser",
         "Helen Zaltzman",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6189,8 +5354,9 @@
       "enclosure_length": "66366484",
       "itunes_duration": "46:05",
       "speakers": [
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Statuesque Andy",
+        "Black Lives Matter",
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6209,10 +5375,7 @@
       "enclosure_length": "62476328",
       "itunes_duration": "43:23",
       "speakers": [
-        "Joe Biden",
-        "Andy Zaltzman",
-        "Tom Ballard Hari Kondabolu",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6232,10 +5395,7 @@
       "enclosure_length": "61036877",
       "itunes_duration": "42:23",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6259,8 +5419,6 @@
         "Adverts Andy",
         "Swine Flu",
         "John Oliver",
-        "Alice Fraser",
-        "Wil Anderson",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6302,7 +5460,6 @@
       "enclosure_length": "2458852",
       "itunes_duration": "1:42",
       "speakers": [
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6321,9 +5478,7 @@
       "enclosure_length": "66783398",
       "itunes_duration": "46:22",
       "speakers": [
-        "Elon Musk",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6342,10 +5497,8 @@
       "enclosure_length": "63322696",
       "itunes_duration": "43:58",
       "speakers": [
-        "Andy Zaltzman",
-        "Alice Fraser",
-        "Josh Gondelman",
-        "Chris Skinner"
+        "Beastie Boys",
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6365,9 +5518,7 @@
       "enclosure_length": "66174013",
       "itunes_duration": "45:57",
       "speakers": [
-        "Andy Zaltzman",
-        "Kumar Hari Kondabolu",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6387,8 +5538,7 @@
       "itunes_duration": "45:03",
       "speakers": [
         "Tiff Stevenson",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6410,8 +5560,7 @@
       "speakers": [
         "Alice Fraser",
         "Al Murray",
-        "Andy Zaltzman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -6431,8 +5580,6 @@
       "enclosure_length": "40048012",
       "itunes_duration": "41:42",
       "speakers": [
-        "Anuvab Pal",
-        "Chris Skinner",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6491,7 +5638,6 @@
       "enclosure_length": "41276812",
       "itunes_duration": "42:59",
       "speakers": [
-        "Sclooten Malvein",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6555,8 +5701,7 @@
       "itunes_duration": "32:49",
       "speakers": [
         "Andy Zaltzman",
-        "Alice Fraser",
-        "John Oliver Subscribe"
+        "Alice Fraser"
       ],
       "topics": [
         "bugle",
@@ -6595,6 +5740,7 @@
       "enclosure_length": "44351737",
       "itunes_duration": "46:11",
       "speakers": [
+        "America Special Listen",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6615,7 +5761,6 @@
       "enclosure_length": "42765164",
       "itunes_duration": "44:32",
       "speakers": [
-        "James Nokise",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6637,7 +5782,6 @@
       "speakers": [
         "Al Murray",
         "Anuvab Pal",
-        "Jeff Bezos",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6698,7 +5842,6 @@
       "enclosure_length": "42594219",
       "itunes_duration": "44:22",
       "speakers": [
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6756,6 +5899,7 @@
       "enclosure_length": "49243950",
       "itunes_duration": "51:17",
       "speakers": [
+        "Brelectageddon Britain",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6939,8 +6083,6 @@
       "enclosure_length": "43890310",
       "itunes_duration": "45:43",
       "speakers": [
-        "Elon Musk",
-        "Plus Andy",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6960,6 +6102,9 @@
       "enclosure_length": "34194392",
       "itunes_duration": "44:04",
       "speakers": [
+        "Peak Nigel Special",
+        "Stone Mountain",
+        "Peak Nigel",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -6982,8 +6127,6 @@
       "speakers": [
         "Nish Kumar",
         "Josh Gondelman",
-        "Boris Johnson",
-        "Donald Trump",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7004,7 +6147,6 @@
       "enclosure_length": "44241665",
       "itunes_duration": "45:28",
       "speakers": [
-        "Tom Ballard",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7045,7 +6187,6 @@
       "itunes_duration": "37:14",
       "speakers": [
         "Tom Ballard",
-        "com awryaditi",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7066,7 +6207,6 @@
       "speakers": [
         "Alice Fraser",
         "Mark Steel",
-        "Donald Trump",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7151,7 +6291,6 @@
       "speakers": [
         "Complete Andy",
         "Tom Ballard",
-        "Boris Johnson",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7213,8 +6352,6 @@
       "enclosure_length": "36994833",
       "itunes_duration": "44:23",
       "speakers": [
-        "Donald Trump",
-        "Anuvab Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7253,7 +6390,6 @@
       "enclosure_length": "35404883",
       "itunes_duration": "47:44",
       "speakers": [
-        "Good Omens",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7377,7 +6513,6 @@
       "enclosure_length": "39610654",
       "itunes_duration": "41:15",
       "speakers": [
-        "David Cameron",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7397,6 +6532,7 @@
       "enclosure_length": "33863429",
       "itunes_duration": "44:17",
       "speakers": [
+        "Massive Election",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7439,7 +6575,6 @@
       "itunes_duration": "26:34",
       "speakers": [
         "Producer Chris",
-        "Features Brexit",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7458,14 +6593,6 @@
       "enclosure_length": "33668546",
       "itunes_duration": "36:13",
       "speakers": [
-        "Mark Adams Dan",
-        "Jonathan Kaley-Isley",
-        "Matthew Gwynne",
-        "Gregor Hoffman",
-        "Lucy Perrone",
-        "Siepracki Bat Wench",
-        "Anonymous Donor",
-        "David Dodwell-Bennett",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7488,11 +6615,6 @@
       "itunes_duration": "45:40",
       "speakers": [
         "Matt Forde",
-        "Mark Francois",
-        "Tim Wilkinson Nic Walker",
-        "Ken Roberts",
-        "Tracy DiVito",
-        "David Tully",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7535,7 +6657,6 @@
       "enclosure_length": "29779623",
       "itunes_duration": "35:27",
       "speakers": [
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7557,8 +6678,6 @@
       "enclosure_length": "40535876",
       "itunes_duration": "43:54",
       "speakers": [
-        "Ilhan Omar",
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7579,8 +6698,6 @@
       "enclosure_length": "42639353",
       "itunes_duration": "44:20",
       "speakers": [
-        "Tom Ballard",
-        "John Oliver",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7600,9 +6717,6 @@
       "enclosure_length": "34188341",
       "itunes_duration": "46:10",
       "speakers": [
-        "Michael Cohen",
-        "Josh Gondelman",
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7664,8 +6778,6 @@
       "itunes_duration": "45:35",
       "speakers": [
         "Bin King",
-        "Producer Chris",
-        "Alice Fraser Hari Kondabolu",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7685,7 +6797,6 @@
       "enclosure_length": "32006476",
       "itunes_duration": "42:26",
       "speakers": [
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7727,9 +6838,6 @@
       "itunes_duration": "38:07",
       "speakers": [
         "Anuvab Pal",
-        "James Bond",
-        "Producer Chris",
-        "HelloBuglers Anuvab",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7750,7 +6858,6 @@
       "enclosure_length": "38841933",
       "itunes_duration": "40:14",
       "speakers": [
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7771,14 +6878,7 @@
       "enclosure_length": "28557177",
       "itunes_duration": "35:22",
       "speakers": [
-        "Andy Zaltzman",
-        "David O'Doherty",
-        "Mark Wahlberg",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Matt Forde",
-        "Alex Edelman",
-        "Chris Skinner"
+        "Andy Zaltzman"
       ],
       "topics": [
         "trump",
@@ -7798,13 +6898,8 @@
       "enclosure_length": "33201952",
       "itunes_duration": "40:54",
       "speakers": [
-        "Kim Jong Un",
-        "Andy Zaltzman",
-        "Tom Ballard",
-        "Alice Fraser",
-        "Anuvab Pal",
-        "Chris Skinner",
-        "Tom Wright"
+        "Kim Jon",
+        "Andy Zaltzman"
       ],
       "topics": [
         "kangaroo",
@@ -7867,8 +6962,7 @@
       "enclosure_length": "40934861",
       "itunes_duration": "42:38",
       "speakers": [
-        "Tom Ballard",
-        "Anuvab Pal",
+        "Big Cow",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7887,7 +6981,6 @@
       "enclosure_length": "31646431",
       "itunes_duration": "41:36",
       "speakers": [
-        "Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7927,11 +7020,6 @@
       "enclosure_length": "12538682",
       "itunes_duration": "15:17",
       "speakers": [
-        "Producer Chris",
-        "Jim Acosta",
-        "Abby Phillip",
-        "April Ryan",
-        "John Oliver Alice Fraser",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7955,7 +7043,6 @@
       "speakers": [
         "Al Murray",
         "Tom Ballard",
-        "HelloBuglers Al Murray",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7977,7 +7064,6 @@
       "itunes_duration": "40:00",
       "speakers": [
         "Alice Fraser",
-        "Alice Fraser Aditi Mittal",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -7999,7 +7085,6 @@
       "itunes_duration": "38:39",
       "speakers": [
         "Hari Kondabolu",
-        "Elizabeth Warren",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8230,6 +7315,7 @@
       "enclosure_length": "27644289",
       "itunes_duration": "30:48",
       "speakers": [
+        "editorial decisi",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8457,7 +7543,6 @@
       "enclosure_length": "45886962",
       "itunes_duration": "47:47",
       "speakers": [
-        "Andy Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8539,8 +7624,6 @@
       "itunes_duration": "46:28",
       "speakers": [
         "Tom Ballard",
-        "Donald Trump",
-        "Aditi Mittal",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8584,9 +7667,6 @@
       "itunes_duration": "40:58",
       "speakers": [
         "Alice Fraser",
-        "Pauline Hanson",
-        "Nelson Mandela",
-        "com ProducerChris",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8689,7 +7769,6 @@
       "itunes_duration": "45:04",
       "speakers": [
         "Aunt Doing",
-        "Axel Brown",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8772,7 +7851,6 @@
       "enclosure_length": "34331233",
       "itunes_duration": "35:45",
       "speakers": [
-        "John Oliver",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8817,7 +7895,6 @@
       "speakers": [
         "Nish Kumar",
         "Tom Ballard",
-        "Piers Morgan",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8836,8 +7913,6 @@
       "enclosure_length": "40568928",
       "itunes_duration": "42:15",
       "speakers": [
-        "Alice Fraser",
-        "Hari Kondabolu",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8858,7 +7933,7 @@
       "enclosure_length": "36917094",
       "itunes_duration": "38:27",
       "speakers": [
-        "Bobby Mugs",
+        "Terrible What",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8919,8 +7994,7 @@
       "enclosure_length": "40011361",
       "itunes_duration": "41:40",
       "speakers": [
-        "Tiff Stevenson",
-        "Alice Fraser",
+        "Tiff Stevenso",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8940,8 +8014,6 @@
       "enclosure_length": "41554656",
       "itunes_duration": "43:17",
       "speakers": [
-        "Meghan Markle",
-        "Nish Kumar",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8963,7 +8035,7 @@
       "enclosure_length": "25617115",
       "itunes_duration": "26:41",
       "speakers": [
-        "more sport",
+        "unheard Australia",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -8987,7 +8059,6 @@
         "Robert Mugabe",
         "Silvio Berlusconi",
         "Leonardo Da Vinci",
-        "Louis CK",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9069,7 +8140,6 @@
       "enclosure_length": "34066655",
       "itunes_duration": "35:29",
       "speakers": [
-        "St Helena",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9111,7 +8181,6 @@
       "itunes_duration": "46:38",
       "speakers": [
         "Calendar Andy",
-        "Donald Trump",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9215,7 +8284,6 @@
       "enclosure_length": "37720796",
       "itunes_duration": "39:17",
       "speakers": [
-        "Pauline Hanson",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9284,7 +8352,6 @@
       "speakers": [
         "Mushroom Cloud",
         "Hari Kondabolu",
-        "Eubie Butt",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9305,8 +8372,9 @@
       "enclosure_length": "43128681",
       "itunes_duration": "44:55",
       "speakers": [
-        "Andy Zaltzman",
-        "John Oliver"
+        "Everything August",
+        "Silly Season Andy",
+        "Andy Zaltzman"
       ],
       "topics": [
         "august",
@@ -9326,13 +8394,6 @@
       "enclosure_length": "18121449",
       "itunes_duration": "18:52",
       "speakers": [
-        "Nisk Kumar",
-        "Al Murray",
-        "Hari Kondabolu",
-        "Tiff Stevenson",
-        "Tom Ballard",
-        "Alice Fraser",
-        "Producer Chris",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9373,7 +8434,6 @@
       "itunes_duration": "45:01",
       "speakers": [
         "Producer Chris",
-        "Steve Bannon",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9418,7 +8478,6 @@
       "speakers": [
         "Tom Ballard",
         "Tiff Stevenson",
-        "Aussie Tony",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9482,7 +8541,6 @@
       "enclosure_length": "42649823",
       "itunes_duration": "44:25",
       "speakers": [
-        "Aparna Nancherla",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9502,7 +8560,6 @@
       "enclosure_length": "49246580",
       "itunes_duration": "51:17",
       "speakers": [
-        "Contain Dangerous Content",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9583,9 +8640,6 @@
       "enclosure_length": "41041466",
       "itunes_duration": "42:45",
       "speakers": [
-        "St George",
-        "Zoe Coombs Marr",
-        "Wil Anderson Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9628,9 +8682,6 @@
       "itunes_duration": "32:37",
       "speakers": [
         "Theresa May",
-        "Mrs Hitler",
-        "Alice Fraser",
-        "Nazeem Hussain",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9653,7 +8704,6 @@
         "Sami Shah",
         "Alice Fraser",
         "Sean Spicer",
-        "Pauline Hanson",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9776,7 +8826,6 @@
       "itunes_duration": "36:02",
       "speakers": [
         "Wyatt Cenac",
-        "Donald Trump",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9796,7 +8845,6 @@
       "enclosure_length": "42810349",
       "itunes_duration": "44:35",
       "speakers": [
-        "Roger Federer",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -9897,7 +8945,6 @@
       "enclosure_length": "31166424",
       "itunes_duration": "32:27",
       "speakers": [
-        "Donald Trump",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10003,8 +9050,6 @@
       "enclosure_length": "43606562",
       "itunes_duration": "45:25",
       "speakers": [
-        "Donald Trump",
-        "Boris Johnson",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10025,7 +9070,6 @@
       "itunes_duration": "44:15",
       "speakers": [
         "Wyatt Cenac",
-        "Fidel Castro",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10047,8 +9091,6 @@
       "speakers": [
         "Zaltzman Showdown",
         "Helen Zaltzman",
-        "Tony Blair",
-        "Donald Trump Bugle",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10069,7 +9111,7 @@
       "enclosure_length": "41643825",
       "itunes_duration": "43:22",
       "speakers": [
-        "Anuvab Pal",
+        "RotW correspondent",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10230,7 +9272,6 @@
       "enclosure_length": "75738944",
       "itunes_duration": "39:26",
       "speakers": [
-        "Bugle Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10293,7 +9334,6 @@
       "itunes_duration": "28:04",
       "speakers": [
         "Kim Jong Un",
-        "Vladimir Putin",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10712,7 +9752,6 @@
       "speakers": [
         "Loonies Farage",
         "Le Pen",
-        "Oliver Poo",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10752,7 +9791,6 @@
       "enclosure_length": "24283674",
       "itunes_duration": "25:17",
       "speakers": [
-        "Vladimir Putin",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -10915,7 +9953,6 @@
       "enclosure_length": "39413894",
       "itunes_duration": "33:32",
       "speakers": [
-        "Syria Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11102,7 +10139,6 @@
       "enclosure_length": "36464976",
       "itunes_duration": "37:59",
       "speakers": [
-        "SS Zaltzman",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11141,7 +10177,6 @@
       "enclosure_length": "33264232",
       "itunes_duration": "34:38",
       "speakers": [
-        "Christmas Special",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11162,7 +10197,6 @@
       "enclosure_length": "37589755",
       "itunes_duration": "39:09",
       "speakers": [
-        "Boris Johnson",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11263,7 +10297,6 @@
       "enclosure_length": "33611675",
       "itunes_duration": "35:00",
       "speakers": [
-        "Sachin Tendulkar",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11403,7 +10436,6 @@
       "itunes_duration": "33:15",
       "speakers": [
         "Robert Mugabe",
-        "Silvio Berlusconi",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11687,7 +10719,6 @@
       "enclosure_length": "36379647",
       "itunes_duration": "37:51",
       "speakers": [
-        "Hilary Swanker",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11790,7 +10821,6 @@
       "itunes_duration": "40:11",
       "speakers": [
         "Mad Max",
-        "Barack Obama",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11892,7 +10922,7 @@
       "enclosure_length": "42047313",
       "itunes_duration": "43:45",
       "speakers": [
-        "Iron Sheik",
+        "Papal Proton Packs Don",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -11991,6 +11021,7 @@
       "enclosure_length": "39126583",
       "itunes_duration": "39:54",
       "speakers": [
+        "North Korea",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -12150,7 +11181,6 @@
       "itunes_duration": "41:00",
       "speakers": [
         "Few Bad Men",
-        "Austin Texas Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -12388,7 +11418,6 @@
       "enclosure_length": "40679613",
       "itunes_duration": "42:22",
       "speakers": [
-        "North Korea Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -12427,7 +11456,6 @@
       "enclosure_length": "46039266",
       "itunes_duration": "47:57",
       "speakers": [
-        "Kim Jong Un",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -12449,8 +11477,7 @@
       "itunes_duration": "14:57",
       "speakers": [
         "Andy Zaltzman Speaks",
-        "Andy Zaltzman",
-        "Producer Chris"
+        "Andy Zaltzman"
       ],
       "topics": [
         "bugle",
@@ -12471,7 +11498,6 @@
       "itunes_duration": "11:50",
       "speakers": [
         "John Oliver Speaks",
-        "John Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -12609,6 +11635,7 @@
       "enclosure_length": "44706829",
       "itunes_duration": "46:24",
       "speakers": [
+        "Global Election Round Up",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -12851,7 +11878,6 @@
       "enclosure_length": "38883508",
       "itunes_duration": "40:20",
       "speakers": [
-        "Rick Santorum Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13006,8 +12032,6 @@
       "enclosure_length": "62980387",
       "itunes_duration": "43:44",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13028,8 +12052,6 @@
       "enclosure_length": "56392515",
       "itunes_duration": "39:09",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13050,8 +12072,6 @@
       "enclosure_length": "52506121",
       "itunes_duration": "36:27",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13073,8 +12093,6 @@
       "enclosure_length": "18386848",
       "itunes_duration": "38:18",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13097,8 +12115,6 @@
       "enclosure_length": "53866578",
       "itunes_duration": "37:24",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13117,8 +12133,7 @@
       "enclosure_length": "53829589",
       "itunes_duration": "37:22",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
+        "El Presidente Blair",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13138,8 +12153,6 @@
       "enclosure_length": "52325563",
       "itunes_duration": "36:20",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13158,8 +12171,6 @@
       "enclosure_length": "44912639",
       "itunes_duration": "31:11",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13181,8 +12192,7 @@
       "enclosure_length": "48669256",
       "itunes_duration": "33:47",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
+        "Happy Birthday Communist China",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13203,8 +12213,6 @@
       "enclosure_length": "16842698",
       "itunes_duration": "35:05",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13225,8 +12233,6 @@
       "enclosure_length": "17335754",
       "itunes_duration": "36:06",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13245,8 +12251,6 @@
       "enclosure_length": "16867658",
       "itunes_duration": "35:08",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13268,8 +12272,6 @@
       "enclosure_length": "17496458",
       "itunes_duration": "36:26",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13290,8 +12292,6 @@
       "enclosure_length": "53185723",
       "itunes_duration": "36:56",
       "speakers": [
-        "Chris Skinner",
-        "Laura Turner Hosted",
         "Andy Zaltzman"
       ],
       "topics": [
@@ -13481,7 +12481,6 @@
       "enclosure_length": "17283722",
       "itunes_duration": "36:00",
       "speakers": [
-        "Gordon Brown",
         "Andy Zaltzman",
         "John Oliver"
       ],
@@ -14742,7 +13741,7 @@
       "itunes_duration": "29:48",
       "speakers": [
         "Andy Zaltzman",
-        "John Oliver"
+        "John Olive"
       ],
       "topics": [
         "year",
@@ -14763,7 +13762,7 @@
       "itunes_duration": "29:56",
       "speakers": [
         "Andy Zaltzman",
-        "John Oliver"
+        "John Olive"
       ],
       "topics": [
         "bush",
@@ -14975,297 +13974,297 @@
 
 ## Episodes (newest first)
 
-- 2026-02-18 — Munich Security Conference, Cuban Cigar Crisis and RFK and the Toilet Seat — speakers: Helen Zaltzman, Chris Skinner, Laura Turner, Harry Gordon, Andy Zaltzman
-- 2026-02-11 — Starmer on the ropes, Trump's social media antics and Olympians resulting to penis enlargement to win big! — speakers: Neil Delamere, Alice Fraser, Peter Mandelson, Kier Starmer, Donald Trump, Chris Skinner, Laura Turner, Harry Gordon, Andy Zaltzman
-- 2026-02-04 — Melania hits the Big Screen, Starmer's trip to China and a Potential back-up planet found? — speakers: Anuvab Pal, Sara Barron, Melania Trump, Chris Skinner, Laura Turner, Harry Gordon, Andy Zaltzman
-- 2026-01-28 — Gravity conspiracies, Netflix's daring documentary, and a new portrait of Robert Burns: it's episode 4366 of The Bugle! — speakers: Robert Burns, Bugle Andy, Tiff Stevenson, Josh Gondelman, Alex Honnold, Netflix Daring Doc, Tour Dates, Chris Skinner, Andy Zaltzman
-- 2026-01-21 — London Crime on the Down, Party swapping and Trump trying to buy Greenland - it's THE BUGLE 4365! — speakers: Alice Fraser, Anuvab Pal, Robert Jenrick, Chris Skinner, Laura Turner, Harry Gordon, Andy Zaltzman
-- 2026-01-14 — New Year, Same Ol' USA — speakers: Andy Zaltzman, Nish Kumar, Donald Trump, Chris Skinner, Laura Turner, Harry Gordon
-- 2026-01-07 — THE BUGLE REVIEWS 2025, PART 2 — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2025-12-30 — THE BUGLE REVIEWS 2025, PART 1 — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2025-12-24 — Rage Bait Bugle (Bumper Edition!) — speakers: Andy Zaltzman, Lloyd Langford, Sami Shah, Alice Fraser, Donald Trump, Tom Wright, Chris Skinner, Laura Turner
-- 2025-12-08 — Make Movies Great Again! — speakers: Andy Zaltzman, Alice Fraser, Donald Trump, Chris Skinner, Laura Turner
-- 2025-11-26 — Bonus Bugle: John Oliver meets Nish and Alice, and other exclusives — speakers: John Oliver, Alice Fraser, Nish Kumar, Chris Skinner, Laura Turner, Andy Zaltzman
-- 2025-11-19 — Andy's Random News Balls — speakers: Andy Zaltzman, Josh Gondelman, Anuvab Pal, Russian Robot News, Chris Skinner, Laura Turner
-- 2025-11-12 — The Blue Wave, The Big Tantrum & The BBC - It's Bugle 4360! — speakers: Andy Zaltzman, Helen Zaltzman, Josie Long, Zohran Mamdani, Donald Trump, Chris Skinner, Laura Turner
-- 2025-11-05 — Space Junk, Big Trains & Hot Potatoes - Bugle 4359 — speakers: Andy Zaltzman, Alice Fraser, Nish Kumar, Chris Skinner, Laura Turner Hosted
-- 2025-10-29 — Warships of the Caribbean - With John Oliver — speakers: John Oliver, Chris Skinner, Laura Turner, Andy Zaltzman
-- 2025-10-22 — No Kings, and Barely a Prince — speakers: Andy Zaltzman, Tom Ballard, Prince Andrew, Chris Skinner, Laura Turner
-- 2025-10-15 — Can Russian AI get thrown out of Windows? — speakers: Andy Zaltzman, Alice Fraser, Tilly Norwood, Chris Skinner, Laura Turner
-- 2025-10-08 — This Episode is Tr*mp Free! — speakers: Andy Zaltzman, Helen Zaltzman, Chris Skinner, Laura Turner
-- 2025-10-01 — Sorry Iran, it's Cost-No — speakers: Sorry Iran, Andy Zaltzman, Josh Gondelman, James Nokise, Chris Skinner, Laura Turner
-- 2025-09-24 — What a State — speakers: Andy Zaltzman, Nish Kumar, Sara Barron, Jimmy Kimmel, Donald Trump, Chris Skinner, Laura Turner
-- 2025-09-17 — Real Housewives of the UN — speakers: Andy Zaltzman, Anuvab Pal, Tiff Stevenson, Marco Polo, Chris Skinner, Laura Turner
-- 2025-09-10 — (Strong)men Making Friends — speakers: Andy Zaltzman, Alice Fraser, Chris Skinner, Laura Turner
-- 2025-09-01 — The Bugle Guide to September — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2025-08-18 — The Bugle is LIVE! — speakers: Alex Edelman, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2025-08-01 — Golf, Gaza and skinny men on drugs — speakers: Andy Zaltzman, Sara Barron, Chris Skinner, Laura Turner
-- 2025-07-23 — Slipping on ICE — speakers: Andy Zaltzman, Jena Friedman, Laura Turner, Chris Skinner, Ross Ramsey-Golding
-- 2025-07-18 — Intellectual Cats WILL Run The World — speakers: Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner, Ross Ramsey-Golding
-- 2025-07-11 — Palestine Inaction — speakers: Andy Zaltzman, Ian Smith, Donald Trump, Chris Skinner, Laura Turner
-- 2025-07-02 — BREAKING NEWS: The Future Never Runs Out Of Money — speakers: Andy Zaltzman, Josie Long, Josh Gondelman, Chris Skinner, Laura Turner, Ross Ramsey-Golding Hosted
-- 2025-06-24 — Too Much News - Bonus Edition — speakers: Jeff Bezos, Tiff Stevenson, Hari Kondabolu, Neil Delamere, Alice Fraser, Tom Ballard, James Nokise, Chris Skinner, Andy Zaltzman
-- 2025-06-17 — Iran bans puppies, and other stories from the Middle East — speakers: Andy Zaltzman, Tiff Stevenson, Tom Ballard, Top Story, Chris Skinner, Laura Turner
-- 2025-06-10 — Musk Mess Masked by Massive Madman — speakers: Massive Madman, Andy Zaltzman, Alice Fraser, Neil Delamere, Elon Musk, Chris Skinner, Laura Turner
-- 2025-06-03 — The Honey Badger Bugle — speakers: Andy Zaltzman, James Nokise, Elon Musk, Donald Trump, Chris Skinner, Laura Turner
-- 2025-05-28 — A Mostly F***ING BLEAK-Free Bugle! — speakers: Andy Zaltzman, Helen Zaltzman, Josh Gondelman, Alice Fraser, Ped Hunter, Chris Skinner
-- 2025-05-20 — Donald Loves Big Guns — speakers: Donald Loves Big Guns, Andy Zaltzman, Tiff Stevenson, Hari Kondabolu, James Comey, Laura Turner, Chris Skinner
-- 2025-05-13 — MAGA Pope: Make America Guilty Again — speakers: Maga Pope, Andy Zaltzman, Tom Ballard, Top Story, Woke Pope News, Chris Skinner, Laura Turner
-- 2025-05-07 — 25 years of Stalin Cosplay — speakers: Andy Zaltzman, David O’Doherty, Alice Fraser, Top Story, Donald Trump, Tom Wright, Chris Skinner, Laura Turner
-- 2025-04-30 — Carney Trumps MAGA, and we explain Pete Hegseth — speakers: Carney Trumps Maga, Pete Hegseth, Andy Zaltzman, Hari Kondabolu, Anuvab Pal, Chris Skinner, Laura Turner
-- 2025-04-23 — The Pope, The Wrestler and The Terrorist — speakers: Tier Buglers, Pope Francis, Osama Bin Laden, John Cena, Chris Skinner, Laura Turner, Andy Zaltzman, John Oliver
-- 2025-04-14 — Dr Evil Set To Impose Million Percent Tariffs! — speakers: Evil Set, Josie Long, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2025-04-06 — Liberation Day: Weird, at best — speakers: Top Story, Laura Loomer, Cory Booker, Laura Turner, Chris Skinner Hosted, Andy Zaltzman
-- 2025-03-30 — April Fools! — speakers: April Fools, Alice Fraser, Al Murray, Laura Turner, Chris Skinner Hosted, Andy Zaltzman
-- 2025-03-23 — H A P P Oh God Why!? — speakers: Molly Malone, Andy Zaltzman, Ria Lina, Neil Delamere, Chris Skinner, Laura Turner
-- 2025-03-15 — Share Prices May Go Down, As Well As Really Down — speakers: Andy Zaltzman, Jackie Kashian, Chris Skinner, Laura Turner
-- 2025-03-05 — Ukrainian Comedian Faces Crazed Hecklers — speakers: Chris Skinner, Laura Turner, Andy Zaltzman
-- 2025-02-25 — Stop Resisting — speakers: Anuvab Pal, Andy Zaltzman, Liz Truss, James Bond, Tiff Stevenson
+- 2026-02-18 — Munich Security Conference, Cuban Cigar Crisis and RFK and the Toilet Seat — speakers: Helen Zaltzman, Andy Zaltzman
+- 2026-02-11 — Starmer on the ropes, Trump's social media antics and Olympians resulting to penis enlargement to win big! — speakers: Neil Delamere, Alice Fraser, Andy Zaltzman
+- 2026-02-04 — Melania hits the Big Screen, Starmer's trip to China and a Potential back-up planet found? — speakers: Anuvab Pal, Sara Barron, Andy Zaltzman
+- 2026-01-28 — Gravity conspiracies, Netflix's daring documentary, and a new portrait of Robert Burns: it's episode 4366 of The Bugle! — speakers: Robert Burns, Bugle Andy, Tiff Stevenson, Josh Gondelman, Andy Zaltzman
+- 2026-01-21 — London Crime on the Down, Party swapping and Trump trying to buy Greenland - it's THE BUGLE 4365! — speakers: Alice Fraser, Anuvab Pal, Andy Zaltzman
+- 2026-01-14 — New Year, Same Ol' USA — speakers: Andy Zaltzman
+- 2026-01-07 — THE BUGLE REVIEWS 2025, PART 2 — speakers: Andy Zaltzman
+- 2025-12-30 — THE BUGLE REVIEWS 2025, PART 1 — speakers: Andy Zaltzman
+- 2025-12-24 — Rage Bait Bugle (Bumper Edition!) — speakers: Andy Zalt, Andy Zaltzman
+- 2025-12-08 — Make Movies Great Again! — speakers: Andy Zaltzman
+- 2025-11-26 — Bonus Bugle: John Oliver meets Nish and Alice, and other exclusives — speakers: John Oliver, Alice Fraser, Nish Kumar, Andy Zaltzman
+- 2025-11-19 — Andy's Random News Balls — speakers: Andy Zaltzman, Josh Gondelman, Anuvab Pal
+- 2025-11-12 — The Blue Wave, The Big Tantrum & The BBC - It's Bugle 4360! — speakers: Andy Zaltzman, Helen Zaltzman, Josie Long
+- 2025-11-05 — Space Junk, Big Trains & Hot Potatoes - Bugle 4359 — speakers: Andy Zal, Andy Zaltzman
+- 2025-10-29 — Warships of the Caribbean - With John Oliver — speakers: John Oliver, Andy Zaltzman
+- 2025-10-22 — No Kings, and Barely a Prince — speakers: Andy Zaltzman, Tom Ballard
+- 2025-10-15 — Can Russian AI get thrown out of Windows? — speakers: Andy Zaltzman, Alice Fraser
+- 2025-10-08 — This Episode is Tr*mp Free! — speakers: Andy Zaltzman, Helen Zaltzman
+- 2025-10-01 — Sorry Iran, it's Cost-No — speakers: Sorry Iran, Andy Zaltzman, Josh Gondelman, James Nokise
+- 2025-09-24 — What a State — speakers: Andy Zaltzman, Nish Kumar, Sara Barron
+- 2025-09-17 — Real Housewives of the UN — speakers: Andy Zaltzman, Anuvab Pal, Tiff Stevenson
+- 2025-09-10 — (Strong)men Making Friends — speakers: Andy Zaltzman, Alice Fraser
+- 2025-09-01 — The Bugle Guide to September — speakers: Andy Zaltzman
+- 2025-08-18 — The Bugle is LIVE! — speakers: Andy Zaltzman
+- 2025-08-01 — Golf, Gaza and skinny men on drugs — speakers: Andy Zaltzma, Andy Zaltzman
+- 2025-07-23 — Slipping on ICE — speakers: Team Bugle, Andy Zaltzman
+- 2025-07-18 — Intellectual Cats WILL Run The World — speakers: Intellectual Cats, Team Bugle, Andy Zaltzman
+- 2025-07-11 — Palestine Inaction — speakers: Palestine Inaction, Team Bugle, Andy Zaltzman
+- 2025-07-02 — BREAKING NEWS: The Future Never Runs Out Of Money — speakers: Team Bugle, Andy Zaltzman
+- 2025-06-24 — Too Much News - Bonus Edition — speakers: Too Much News, Andy Zaltzman
+- 2025-06-17 — Iran bans puppies, and other stories from the Middle East — speakers: Middle East, Andy Zaltzman
+- 2025-06-10 — Musk Mess Masked by Massive Madman — speakers: Massive Madman, Andy Zaltzman
+- 2025-06-03 — The Honey Badger Bugle — speakers: Andy Zaltzman
+- 2025-05-28 — A Mostly F***ING BLEAK-Free Bugle! — speakers: Free Bugle, Team Bugle, Andy Zaltzman
+- 2025-05-20 — Donald Loves Big Guns — speakers: Donald Loves Big Guns, Andy Zaltzman
+- 2025-05-13 — MAGA Pope: Make America Guilty Again — speakers: Maga Pope, Andy Zaltzman
+- 2025-05-07 — 25 years of Stalin Cosplay — speakers: Stalin Cosplay, Andy Zaltzman
+- 2025-04-30 — Carney Trumps MAGA, and we explain Pete Hegseth — speakers: Carney Trumps Maga, Pete Hegseth, Andy Zaltzman
+- 2025-04-23 — The Pope, The Wrestler and The Terrorist — speakers: Andy Zaltzman
+- 2025-04-14 — Dr Evil Set To Impose Million Percent Tariffs! — speakers: Evil Set, Josie Long, Andy Zaltzman
+- 2025-04-06 — Liberation Day: Weird, at best — speakers: Liberation Day, Team Bugle, Andy Zaltzman
+- 2025-03-30 — April Fools! — speakers: April Fools, Andy Zaltzman
+- 2025-03-23 — H A P P Oh God Why!? — speakers: Oh God Why, Andy Zaltzman
+- 2025-03-15 — Share Prices May Go Down, As Well As Really Down — speakers: Share Prices May Go, Team Bugle, Andy Zaltzman
+- 2025-03-05 — Ukrainian Comedian Faces Crazed Hecklers — speakers: Andy Zaltzman
+- 2025-02-25 — Stop Resisting — speakers: Anuvab Pal, Andy Zaltzman
 - 2025-02-18 — Peace On Earth! — speakers: Alice Fraser, Josh Gondelman, Andy Zaltzman
 - 2025-02-11 — Woke Submarine exclusive — speakers: Andy Zaltzman
 - 2025-02-04 — Trade Tantrums, Brexit Birthday and Superbowl! — speakers: Brexit Birthday, Andy Zaltzman
-- 2025-01-29 — Radioactive Toddler Waves Arms Around — speakers: Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner, Laura Turner
-- 2025-01-21 — Just 1460 Days To Go! — speakers: Andy Zaltzman, Chris Skinner, Laura Turner
-- 2025-01-15 — Trump Returns, Will He Follow Through? — speakers: Trump Returns, Donald Trump, Elon Musk, Steve Bannon, Andy Zaltzman, Josh Gondelman, Chris Skinner, Laura Turner
-- 2025-01-06 — The Bugle remembers 2024 — speakers: John Oliver, Andy Zaltzman, John Oliver Alice Fraser, Josh Gondelman, Ahir Shah Hosted
-- 2024-12-30 — John and Andy answer your questions! — speakers: Andy Zaltzman, John Oliver, John Oliver Chris, Chris Skinner, Laura Turner
-- 2024-12-23 — Robots, Royals and Wrong 'Uns — speakers: Prince Andrew, Merry Christmas Buglers, John Oliver, Andy Zaltzman, Alice Fraser, Chris Skinner, Laura Turner
-- 2024-12-16 — The Nepo-Dictator's Nadir — speakers: John Oliver, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2024-12-07 — Has 2024 Jumped The Shark? — speakers: Joe Biden, Andy Zaltzman, James Nokise, Lina James Nokise, Chris Skinner, Laura Turner
-- 2024-12-01 — Campaign For Traditional Bullying — speakers: Hari Kondabolu, Andy Zaltzman Hari Kondabolu, Chris Skinner, Laura Turner, Andy Zaltzman
-- 2024-11-24 — Influencer Repeatedly Punches Sick Old Man — speakers: Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner, Laura Turner
-- 2024-11-17 — The Countdown Bugle — speakers: Andy Zaltzman, Josh Gondelman, Chris Skinner, Laura Turner
-- 2024-11-08 — Electoral Shock Therapy — speakers: Therapy Andy, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2024-11-04 — The Pollsters Have Given Up - Bugle 4319 — speakers: Andy Zaltzman, Alice Fraser, Donald Trump, Chris Skinner, Laura Turner
-- 2024-10-24 — The Most American Thing in History... — speakers: Alice Fraser, Josie Long, Chris Skinner, Ross Ramsey-Golding Hosted, Andy Zaltzman
-- 2024-10-15 — Bonus Bugle: Bugle Episode 92 — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2024-10-01 — Netherlands? More like Nether happened! — speakers: Anuvab Pal, Tiff Stevenson, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2024-09-24 — Kiss The Hate Away — speakers: JD Vance, Alice Fraser, Hari Kondabolu, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2024-09-17 — The News: Raining Cats and Dogs — speakers: Tom Ballard, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2024-09-11 — TASK ANDY — speakers: Andy Zaltzman, Chris Skinner, Laura Turner
-- 2024-09-04 — Dynamic Pricing means listen now or The Bugle owns your home — speakers: Alice Fraser, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2024-08-27 — JD Vance: Sofa King Weird — speakers: JD Vance, Sofa King Weird, Alicia Silverstone, Andy Zaltzman, Helen Zaltzman, Chris Skinner, Laura Turner
-- 2024-08-12 — 2024 so far. Perfectly normal. — speakers: Donald Trump, Taylor Swift, Andy Zaltzman, Alice Fraser, Chris Addison, Anuvab Pal, Tiff Stevenson, Josh Gondelman
-- 2024-08-03 — The Bugle 🧡 London 2012 — speakers: Andy Zaltzman, Chris Skinner, Laura Turner
-- 2024-07-25 — Shroedinger’s President: 12 minutes in a McDonald's Drive-Thru? — speakers: Joe Biden, Kamala Harris, Donald Trump, Andy Zaltzman, Rich Jarman, Chris Skinner, Laura Turner
-- 2024-07-16 — Benjamin Big Red Button — speakers: Button Andy, Tom Ballard, Chris Addison, Donald Trump, Joe Biden, Gareth Southgate, Francis Drake, Andy Zaltzman
-- 2024-07-05 — Britain Votes For Basic Competence — speakers: Mark Steel, Andy Zaltzman Mark Steel, Chris Skinner, Laura Turner, Andy Zaltzman
-- 2024-07-03 — Trump Can Now Legally Eat Puppies — speakers: Elon Musk, Andy Zaltzman, Alice Fraser, Chris Skinner, Laura Turner
-- 2024-06-28 — Puns: Primed, Administered — speakers: Andy Zaltzman, Chris Skinner, Laura Turner
-- 2024-06-26 — Springtime for Rishi — speakers: Rishi Sunak, Tiff Stevenson, Anuvab Pal, Andy Zaltzman, Stevenson Anuvab, Chris Skinner, Laura Turner
-- 2024-06-18 — We Shall Flounder On The Beaches — speakers: Andy Zaltzman, Neil Delamere, Chris Skinner, Laura Turner
-- 2024-06-10 — The Bugle's 600th episode special! — speakers: Tim Tok, Andy Zaltzman, Alice Fraser, Chris Skinner, Laura Turner, Faster Stripes
-- 2024-06-02 — Trump: Guilty Of Being Himself — speakers: Narendra Modi, Andy Zaltzman, Josh Gondelman, Anuvab Pal, Andy Zaltzman Anuvab Pal, Chris Skinner, Scarlett O'Malley, Laura Turner Hosted
-- 2024-05-26 — The Reverse Raymond Briggs — speakers: Raymond Briggs, Josie Long, Tom Ballard, Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2024-05-20 — Hot Girl Summer Indictment Tour — speakers: Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2024-05-13 — Bonus: Frogs, Seagulls and Bees — speakers: Nish Kumar, Alice Fraser, Hari Kondabolu, Ahir Shah, Anuvab Pal, Al Barrie, Andy Zaltzman, Alastair Barrie
-- 2024-05-05 — Sunak Without A Trace — speakers: Alice Fraser, Alistair Barrie, Andy Zaltzman, Alastair Barrie, Chris Skinner, Laura Turner Hosted
-- 2024-04-27 — News from Space: It's Boring — speakers: Andy Zaltzman, Ian Smith, Anuvab Pal, Chris Skinner, Laura Turner Hosted
-- 2024-04-21 — Trump on Trial! — speakers: Ahir Shah, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2024-04-14 — Razing Arizona — speakers: Andy Zaltzman, Alice Fraser, Chris Skinner, Laura Turner Hosted
-- 2024-04-08 — Up Sh*t Creek, aka The Thames — speakers: D'Ancey Laguarde, Tiff Stevenson, Alice Fraser, Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2024-03-31 — Literally Anybody Else — speakers: Literally Anybody Else, Andy Zaltzman, James Nokise, Josh Gondelman, James Nokise Josh, Chris Skinner, Laura Turner Hosted
-- 2024-03-26 — Why are soccer kits so woke? — speakers: Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2024-03-19 — Democracy swings (and misses) into action — speakers: Anuvab Pal, Alice Fraser, Producer Chris, Andy Zaltzman, Laura Turner, Chris Skinner Hosted
-- 2024-03-12 — A Barbiturate Girl In a Barbaric World — speakers: Neil Delamere, Alice Fraser, Josh Gondelman, Andy Zaltzman, Laura Turner, Chris Skinner Hosted
-- 2024-03-05 — A World of Pure AImagination — speakers: Josie Long, Anuvab Pal, Andy Zaltzman Anuvab, Laura Turner, Chris Skinner Hosted, Andy Zaltzman
-- 2024-02-27 — Fighting Ceasefire With Ceasefire — speakers: Andy Zaltzman, Alice Fraser, Josh Gondelman, Laura Turner, Chris Skinner Hosted
-- 2024-02-20 — Australia - Ireland - USA - Classic Live Bugles — speakers: Alice Fraser, Tom Ballard, Josh Gondelman, David O'Doherty, Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2024-02-14 — AI is taking over the world! — speakers: Andy Zaltzman, Hari Kondabolu, Neil Delamere, Tucker Carlson, Vladimir Putin, Andy Zaltzman Hari Kondabolu, Ped Hunter, Chris Skinner Hosted
-- 2024-02-07 — UPDATE: America is still f---ing mad — speakers: Chris Addison, Trump vs Swift, Joe Biden, Benjamin Netanyau, Tucker Carlson, Vladimir Putin Rishi Sunak, Liz Truss, Andy Zaltzman
-- 2024-01-30 — 50 Minutes of Bias — speakers: Andy Zaltzman, Stevenson Anuvab Pal, Chris Skinner, Laura Turner Hosted
-- 2024-01-23 — Trump Exclusive: The Moon Is Woke — speakers: Trump Exclusive, Josh Gondelman, Andy Zaltzman, Lina Josh Gondelman, Chris Skinner, Laura Turner Hosted
-- 2024-01-16 — World War Three!? Watch This Space! — speakers: Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2024-01-10 — Contests, Conflicts and The Zaltzprime — speakers: Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner, Laura Turner Hosted
-- 2023-12-22 — Is 2023 Over Yet? Oh, and Merry Christmas — speakers: Josh Gondelman, Alice Fraser, Andy Zaltzman, Ped Hunter, Chris Skinner, Laura Turner Hosted
-- 2023-12-16 — The Climate Crisis Is Over! — speakers: Tiff Stevenson, Neil Delamere, Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2023-12-11 — Quirks and Perks - BONUS BUGLE! — speakers: Alice Fraser, Stewart Lee, James Nokise, Mark Steel, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2023-12-02 — Good COP Bad COP — speakers: Stewart Lee, Josie Long, Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2023-11-25 — Oppenheimlich: Bugle Word Of The Year — speakers: Andy Zaltzman Mark Steel, Alice Fraser, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2023-11-18 — The World Drifts Into Anti-Semanticism — speakers: Bernie Sanders, David Cameron, Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2023-11-11 — Politics: An Audition For Reality TV — speakers: Andy Zaltzman, Alice Fraser, James Nokise, Chris Skinner, Laura Turner Hosted
-- 2023-10-31 — The Early Naughties are Back! — speakers: Andy Zaltzman Hari Kondabolu, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2023-10-24 — Shafts Of Hope: Pikachu Rampage — speakers: Andy Zaltzman Tiff Stevenson, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2023-10-18 — Who needs the Middle East when you have Badger Cam? — speakers: Badger Cam, Kenyan Lawyer, Sami Shah, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2023-10-10 — (More) Sh*t Happens — speakers: Andy Zaltzman, Alice Fraser, Chris Skinner, Laura Turner Hosted
-- 2023-10-03 — Bonus Britain Bugle! — speakers: Andy Zaltzman, Alice Fraser, Chris Addison, Chris Skinner, Laura Turner Hosted
-- 2023-09-26 — Cormack McCarthy's Spring Break — speakers: Spring Break, Rupert Murdoch, Andy Zaltzman Ian Smith, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2023-09-18 — The Crowd Heckled 'Sexy!' — speakers: Andy Zaltzman, Chris Addison, Alice Fraser, Chris Skinner, Laura Turner Hosted
-- 2023-09-12 — G20: Homeopathic Diplomacy — speakers: Tom Ballard, Nish Kumar, Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2023-09-05 — Why The F*** Not — speakers: Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner, Laura Turner Hosted
-- 2023-08-17 — Orcas, AI, Idiots: A summer feast — speakers: Chris Addison, Hari Kondabolu, Alice Fraser, Anuvab Pal, Ashes Zaltzcast, Andy Zaltzman Hari Kondabolu, Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2023-07-18 — It's Seriously F**king Hot — speakers: Ashes Zaltzcast, Andy Zaltzman, Kumar Chris Addison, Chris Skinner
-- 2023-07-13 — NATO commits to committing to Ukraine, one day — speakers: Ashes Zaltzcast, Andy Zaltzman, Alice Fraser, Anuvab Pal D'Ancey LaGuarde, Chris Skinner, Laura Turner Hosted
-- 2023-07-03 — Earth Spins Off Own Axis In Attempt To Escape From Itself — speakers: Jair Bolsonaro, Ashes Zaltzcast, Andy Zaltzman, Tom Ballard Josh Gondelman, Chris Skinner, Laura Turner Hosted
-- 2023-06-27 — The Hot Dog Mercenary — speakers: Producer Chris, Andy Zaltzman, Chris Skinner, Laura Turner Hosted
-- 2023-06-14 — Horndog Special — speakers: Silvio Berlusconi, Boris Johnson, Donald Trump, Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner, Laura Turner
-- 2023-06-06 — The Bugle Welcomes Our Alien Overlords — speakers: Button Moon, Andy Zaltzman Anuvab, Chris Skinner, Laura Turner, Andy Zaltzman
-- 2023-05-31 — Future Of Humanity Update — speakers: Hari Kondabolu, Chris Addison, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2023-05-23 — Assad Day For World Peace — speakers: Assad Day, Bashar Al Assad, Suella Braverman, Josie Long, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2023-05-16 — World News Update — speakers: Alice Fraser, Neil Delamere, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2023-05-10 — Anachronistic Cosplay Fetishism — speakers: Ian Smith, Andy Zaltzman, Lina Ian Smith, Chris Skinner, Laura Turner
-- 2023-05-02 — Know Your Place, Serfs — speakers: Mark Steel, Tom Ballard, Andy Zaltzman, Chris Skinner, Ped Hunter, Laura Turner
-- 2023-04-22 — A Collection Of Perfectly Normal Stories From Across America — speakers: Dominic Raab, King Charles, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2023-04-15 — Kashmir, Cash and Cojones — speakers: Alice Fraser, Anuvab Pal, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2023-04-08 — Bugle Special: Terrible Brits and the original F*ckeulogy — speakers: Tiff Stevenson, Mark Thomas, Andy Zaltzman, John Oliver Alice Fraser, Josh Gondelman, Chris Skinner, Ped Hunter, Laura Turner
-- 2023-04-01 — The Penitentiary President — speakers: Andy Zaltzman, Chris Skinner, Laura Turner
-- 2023-03-25 — Boris Johnson's Testimony Proves There Is No God — speakers: Boris Johnson, Donald Trump, Andy Zaltzman, Josh Gondelman, Chris Skinner, Laura Turner
-- 2023-03-19 — Sea Sore — speakers: Andy Zaltzman, Alice Fraser, Chris Skinner, Laura Turner
-- 2023-03-08 — WTF? We'll tell you the f**k — speakers: Josie Long, Andy Zaltzman, Rupert Murdoch, Matt Hancock, Charles Iii, Ped Hunter, Chris Skinner, Laura Turner
-- 2023-03-02 — Berlusconi, Brexit and, er, Roald Dahl — speakers: Roald Dahl Andy, Roald Dahl, Athena Kugblenu, John Luke Roberts, Andy Zaltzman, John Oliver Alice Fraser, Kumar Ria, Chris Skinner
-- 2023-02-23 — Britain's Rail Network Is Almost As Good As Ukraine's — speakers: Rail Network, Andy Zaltzman, Kumar Anuvab Pal, Chris Skinner, Laura Turner
-- 2023-02-14 — Air Combat For Dummies — speakers: Liz Truss, Andy Zaltzman, Chris Skinner, Ross Ramsey-Golding
-- 2023-02-08 — Whoopie Cushion Warfare — speakers: Liz Truss, Andy Zaltzman Hari Kondabolu, Chris Skinner, Laura Turner, Andy Zaltzman
-- 2023-01-31 — Aclockalypse Soon — speakers: George Santos, Josh Gondelman, Mark Steel, Andy Zaltzman, Chris Skinner, Laura Turner
-- 2023-01-25 — Tendulkar Made India Horny — speakers: Mark India, Jacinda Ardern, Andy Murray, Andy Zaltzman Anuvab, Chris Skinner, Laura Turner, Andy Zaltzman
-- 2023-01-19 — Flippin' Tech — speakers: Ian Smith, Andy Zaltzman Ian Smith, Alice Fraser, Chris Skinner, Laura Turner, Andy Zaltzman
-- 2023-01-11 — Speaker Blocks and Outcasts — speakers: Outcasts Andy, Matt Gaetz, George Santos, Kevin McCarthy, Andy Zaltzman, Alice Fraser, Chris Skinner, Laura Turner
-- 2022-12-23 — THE BUGLE REVIEWS 2022, PART 2 — speakers: John Oliver, Andy Zaltzman, Chris Addison, Stevenson Anuvab, John Oliver Alice Fraser, Chris Skinner, Laura Turner Hosted
-- 2022-12-19 — THE BUGLE REVIEWS 2022, PART 1 — speakers: Liz Truss, Andy Zaltzman, Alice Fraser, James Colley, Anuvab Pal, Chris Skinner Hosted
-- 2022-12-12 — We Are Family! (2022 Edition) — speakers: Alice Fraser, Josh Gondelman, Eleanor Morton, Tiff Stevenson, Sindhu Vee, John Oliver, Laura Turner, Chris Skinner Hosted, Andy Zaltzman
-- 2022-11-19 — 15 Years of Puns! — speakers: Andy Zaltzman, Kumar Hari Kondabolu, John Oliver Nato, Anuvab Pal Alice Fraser, Chris Addison, Chris Skinner, Laura Turner
-- 2022-11-11 — Marion Cotillard's Bugle — speakers: Marion Cotillard, Elon Musk, Kurt Vonnegut, Andy Zaltzman, Kumar Hari Kondabolu, Chris Skinner, Laura Turner
-- 2022-11-06 — Nora Barnacle's Lost Letters — speakers: Nora Barnacle, Alice Fraser, Chris Addison, Andy Zaltzman, Chris Skinner Hosted
-- 2022-11-01 — The Sistine Chapel: The Original PornHub — speakers: Chris Skinner, Andy Zaltzman, Alice Fraser, Kumar Hosted
-- 2022-10-24 — Boris Breaks The News Cycle (4244) — speakers: Boris Breaks, Alice Fraser, Ria Lina, Tiff Stevenson, Chris Skinner, Andy Zaltzman
-- 2022-10-17 — The Rodents Are All Dead (4243) — speakers: Anuvab Pal, Nancy Pelosi, Chris Skinner Hosted, Andy Zaltzman
-- 2022-10-14 — Happy Bugling Birthday! With John Oliver — speakers: John Oliver, Andy Zaltzman, Chris Skinner
+- 2025-01-29 — Radioactive Toddler Waves Arms Around — speakers: Radioactive Toddler Waves Arms, Around Love Sci Fi, Realms Unknown, Andy Zaltzman
+- 2025-01-21 — Just 1460 Days To Go! — speakers: Andy Zaltzman
+- 2025-01-15 — Trump Returns, Will He Follow Through? — speakers: Trump Returns, Andy Zaltzman
+- 2025-01-06 — The Bugle remembers 2024 — speakers: Willy Wonka, Andy Zaltzman
+- 2024-12-30 — John and Andy answer your questions! — speakers: Andy Zaltzman, John Oliver
+- 2024-12-23 — Robots, Royals and Wrong 'Uns — speakers: Prince Andrew, Andy Zaltzman
+- 2024-12-16 — The Nepo-Dictator's Nadir — speakers: John Oliver, Andy Zaltzman
+- 2024-12-07 — Has 2024 Jumped The Shark? — speakers: Andy Zaltzman
+- 2024-12-01 — Campaign For Traditional Bullying — speakers: Hari Kondabolu, Andy Zaltzman
+- 2024-11-24 — Influencer Repeatedly Punches Sick Old Man — speakers: Andy Zaltzman
+- 2024-11-17 — The Countdown Bugle — speakers: Andy Zaltzman
+- 2024-11-08 — Electoral Shock Therapy — speakers: Therapy Andy, Andy Zaltzman
+- 2024-11-04 — The Pollsters Have Given Up - Bugle 4319 — speakers: Andy Zaltzman, Alice Fraser
+- 2024-10-24 — The Most American Thing in History... — speakers: Christopher Columbus, Andy Zaltzman
+- 2024-10-15 — Bonus Bugle: Bugle Episode 92 — speakers: Andy Zaltzman
+- 2024-10-01 — Netherlands? More like Nether happened! — speakers: Andy Zaltzman
+- 2024-09-24 — Kiss The Hate Away — speakers: JD Vance, Andy Zaltzman
+- 2024-09-17 — The News: Raining Cats and Dogs — speakers: Raining Cats, Andy Zaltzman
+- 2024-09-11 — TASK ANDY — speakers: Andy Zaltzman
+- 2024-09-04 — Dynamic Pricing means listen now or The Bugle owns your home — speakers: Alice Fraser, Andy Zaltzman
+- 2024-08-27 — JD Vance: Sofa King Weird — speakers: JD Vance, Sofa King Weird, Andy Zaltzman
+- 2024-08-12 — 2024 so far. Perfectly normal. — speakers: Andy Zaltzman
+- 2024-08-03 — The Bugle 🧡 London 2012 — speakers: Andy Zaltzman
+- 2024-07-25 — Shroedinger’s President: 12 minutes in a McDonald's Drive-Thru? — speakers: Andy Zaltzman
+- 2024-07-16 — Benjamin Big Red Button — speakers: Button Andy, Tom Ballard, Chris Addison, Andy Zaltzman
+- 2024-07-05 — Britain Votes For Basic Competence — speakers: Mark Steel, Andy Zaltzman
+- 2024-07-03 — Trump Can Now Legally Eat Puppies — speakers: Andy Zaltzman
+- 2024-06-28 — Puns: Primed, Administered — speakers: Andy Zaltzman
+- 2024-06-26 — Springtime for Rishi — speakers: Andy Zaltzman
+- 2024-06-18 — We Shall Flounder On The Beaches — speakers: Andy Zaltzman
+- 2024-06-10 — The Bugle's 600th episode special! — speakers: Andy Zaltzman
+- 2024-06-02 — Trump: Guilty Of Being Himself — speakers: Narendra Modi, Andy Zaltzman
+- 2024-05-26 — The Reverse Raymond Briggs — speakers: Raymond Briggs, Andy Zaltzman
+- 2024-05-20 — Hot Girl Summer Indictment Tour — speakers: Hot Girl Summer Indictment, Tour Andy, Brain Worms, Andy Zaltzman
+- 2024-05-13 — Bonus: Frogs, Seagulls and Bees — speakers: Bees What, Andy Zaltzman
+- 2024-05-05 — Sunak Without A Trace — speakers: Sunak Without, Trace America, Andy Zaltzman
+- 2024-04-27 — News from Space: It's Boring — speakers: Andy Zaltzman
+- 2024-04-21 — Trump on Trial! — speakers: Andy Zaltzman
+- 2024-04-14 — Razing Arizona — speakers: Razing Arizona Arizona, Andy Zaltzman
+- 2024-04-08 — Up Sh*t Creek, aka The Thames — speakers: Andy Zaltzman
+- 2024-03-31 — Literally Anybody Else — speakers: Literally Anybody El, Andy Zaltzman
+- 2024-03-26 — Why are soccer kits so woke? — speakers: Andy Zaltzman
+- 2024-03-19 — Democracy swings (and misses) into action — speakers: Andy Zaltzman
+- 2024-03-12 — A Barbiturate Girl In a Barbaric World — speakers: Barbaric World Super Tuesday, Theresa May, Quantum Computers, Andy Zaltzman
+- 2024-03-05 — A World of Pure AImagination — speakers: Andy Zaltzman
+- 2024-02-27 — Fighting Ceasefire With Ceasefire — speakers: Andy Zaltzman
+- 2024-02-20 — Australia - Ireland - USA - Classic Live Bugles — speakers: Alice Fraser, Tom Balla, Andy Zaltzman
+- 2024-02-14 — AI is taking over the world! — speakers: Andy Zaltzman, Hari Kondabolu, Neil Delamere
+- 2024-02-07 — UPDATE: America is still f---ing mad — speakers: Chris Addiso, Andy Zaltzman
+- 2024-01-30 — 50 Minutes of Bias — speakers: Andy Zaltzman
+- 2024-01-23 — Trump Exclusive: The Moon Is Woke — speakers: Trump Exclusive, Andy Zaltzman
+- 2024-01-16 — World War Three!? Watch This Space! — speakers: Andy Zaltzman
+- 2024-01-10 — Contests, Conflicts and The Zaltzprime — speakers: Andy Zaltzman
+- 2023-12-22 — Is 2023 Over Yet? Oh, and Merry Christmas — speakers: Josh Gondelman, Andy Zaltzman
+- 2023-12-16 — The Climate Crisis Is Over! — speakers: Andy Zaltzman
+- 2023-12-11 — Quirks and Perks - BONUS BUGLE! — speakers: Alice Fraser, Stewart Lee, James Noki, Andy Zaltzman
+- 2023-12-02 — Good COP Bad COP — speakers: Stewart Lee, Andy Zaltzman
+- 2023-11-25 — Oppenheimlich: Bugle Word Of The Year — speakers: Andy Zaltzman
+- 2023-11-18 — The World Drifts Into Anti-Semanticism — speakers: Bernie San, Andy Zaltzman
+- 2023-11-11 — Politics: An Audition For Reality TV — speakers: Middle East, Andy Zaltzman
+- 2023-10-31 — The Early Naughties are Back! — speakers: Andy Zaltzman
+- 2023-10-24 — Shafts Of Hope: Pikachu Rampage — speakers: Andy Zaltzman
+- 2023-10-18 — Who needs the Middle East when you have Badger Cam? — speakers: Badger Cam, Andy Zaltzman
+- 2023-10-10 — (More) Sh*t Happens — speakers: House Speaker, Andy Zaltzman
+- 2023-10-03 — Bonus Britain Bugle! — speakers: Leicester Square Theatre, Andy Zaltzman
+- 2023-09-26 — Cormack McCarthy's Spring Break — speakers: Spring Break, Andy Zaltzman
+- 2023-09-18 — The Crowd Heckled 'Sexy!' — speakers: Andy Zaltzman
+- 2023-09-12 — G20: Homeopathic Diplomacy — speakers: Andy Zaltzman
+- 2023-09-05 — Why The F*** Not — speakers: Andy Zaltzman
+- 2023-08-17 — Orcas, AI, Idiots: A summer feast — speakers: Andy Zaltzman
+- 2023-07-18 — It's Seriously F**king Hot — speakers: Andy Zaltzman
+- 2023-07-13 — NATO commits to committing to Ukraine, one day — speakers: Andy Zaltzman
+- 2023-07-03 — Earth Spins Off Own Axis In Attempt To Escape From Itself — speakers: Jair Bolsonaro, Andy Zaltzman
+- 2023-06-27 — The Hot Dog Mercenary — speakers: Andy Zaltzman
+- 2023-06-14 — Horndog Special — speakers: Silvio Berlusconi, Andy Zaltzman
+- 2023-06-06 — The Bugle Welcomes Our Alien Overlords — speakers: Andy Zaltzman
+- 2023-05-31 — Future Of Humanity Update — speakers: Andy Zaltzman
+- 2023-05-23 — Assad Day For World Peace — speakers: Assad Day, Bashar Al Assad, Suella Braverman, Andy Zaltzman
+- 2023-05-16 — World News Update — speakers: World News Update, Andy Zaltzman
+- 2023-05-10 — Anachronistic Cosplay Fetishism — speakers: Andy Zaltzman
+- 2023-05-02 — Know Your Place, Serfs — speakers: Mark Steel, Tom Ballard, Andy Zaltzman
+- 2023-04-22 — A Collection Of Perfectly Normal Stories From Across America — speakers: Dominic Raab, Andy Zaltzman
+- 2023-04-15 — Kashmir, Cash and Cojones — speakers: Cojones India, Etsy Fascism, Andy Zaltzman
+- 2023-04-08 — Bugle Special: Terrible Brits and the original F*ckeulogy — speakers: Andy Zaltzman
+- 2023-04-01 — The Penitentiary President — speakers: Andy Zaltzman
+- 2023-03-25 — Boris Johnson's Testimony Proves There Is No God — speakers: Andy Zaltzman
+- 2023-03-19 — Sea Sore — speakers: Andy Zaltzman
+- 2023-03-08 — WTF? We'll tell you the f**k — speakers: Josie Long, Andy Zaltzman
+- 2023-03-02 — Berlusconi, Brexit and, er, Roald Dahl — speakers: Roald Dahl Andy, Andy Zaltzman
+- 2023-02-23 — Britain's Rail Network Is Almost As Good As Ukraine's — speakers: Rail Network, Andy Zaltzman
+- 2023-02-14 — Air Combat For Dummies — speakers: Andy Zaltzman
+- 2023-02-08 — Whoopie Cushion Warfare — speakers: Andy Zaltzman
+- 2023-01-31 — Aclockalypse Soon — speakers: George Santos, Andy Zaltzman
+- 2023-01-25 — Tendulkar Made India Horny — speakers: Mark India, Jacinda Ardern, Andy Zaltzman
+- 2023-01-19 — Flippin' Tech — speakers: Ian Smith, Andy Zaltzman
+- 2023-01-11 — Speaker Blocks and Outcasts — speakers: Outcasts Andy, Matt Gaetz, George Santos, Andy Zaltzman
+- 2022-12-23 — THE BUGLE REVIEWS 2022, PART 2 — speakers: Andy Zaltzman
+- 2022-12-19 — THE BUGLE REVIEWS 2022, PART 1 — speakers: Andy Zaltzman
+- 2022-12-12 — We Are Family! (2022 Edition) — speakers: Alice Fraser, Andy Zaltzman
+- 2022-11-19 — 15 Years of Puns! — speakers: Andy Zaltzman
+- 2022-11-11 — Marion Cotillard's Bugle — speakers: Marion Cotillard, Andy Zaltzman
+- 2022-11-06 — Nora Barnacle's Lost Letters — speakers: Nora Barnacle, Alice Fraser, Chris Addison, Andy Zaltzman
+- 2022-11-01 — The Sistine Chapel: The Original PornHub — speakers: Andy Zaltzman
+- 2022-10-24 — Boris Breaks The News Cycle (4244) — speakers: Boris Breaks, Alice Fraser, Ria Lina, Tiff Stevenson, Andy Zaltzman
+- 2022-10-17 — The Rodents Are All Dead (4243) — speakers: Anuvab Pal, Andy Zaltzman
+- 2022-10-14 — Happy Bugling Birthday! With John Oliver — speakers: John Oliver, Andy Zaltzman
 - 2022-10-11 — 15 Years, What Just Happened? With Marina Hyde — speakers: Andy Zaltzman
-- 2022-10-04 — Excuse Me While I F**k The Sky (4242) — speakers: Andy Zaltzman, Andy Zaltzman Hari Kondabolu, Chris Skinner
-- 2022-09-28 — Lock Up Your Sons! (4241) — speakers: Ras Putin, Andy Zaltzman, Chris Addison, Chris Skinner Hosted
-- 2022-09-20 — Mourning Has Broken (4240) — speakers: Anuvab Pal, Chris Skinner Hosted, Andy Zaltzman
-- 2022-09-06 — Who? Liz Truss!? — speakers: Liz Truss, Boris Johnson, Andy Zaltzman Josh Gondelman, Chris Skinner Hosted, Andy Zaltzman
-- 2022-09-02 — Civil War 2: Electric Boogaloo — speakers: Electric Boogaloo, Alice Fraser, Liz Truss PM, Mikhail Gorbachev, Andy Zaltzman, Ped Hunter, Chris Skinner Hosted
+- 2022-10-04 — Excuse Me While I F**k The Sky (4242) — speakers: Andy Zaltzman
+- 2022-09-28 — Lock Up Your Sons! (4241) — speakers: Andy Zaltzman
+- 2022-09-20 — Mourning Has Broken (4240) — speakers: Andy Zaltzman
+- 2022-09-06 — Who? Liz Truss!? — speakers: Andy Zaltzman
+- 2022-09-02 — Civil War 2: Electric Boogaloo — speakers: Electric Boogaloo, Alice Fraser, Andy Zaltzman
 - 2022-08-24 — The Best Of The Bin: Part 1 — speakers: Andy Zaltzman
-- 2022-08-16 — Smurfs, Kashmir and other August classics — speakers: Vladimir Putin, Andy Zaltzman
-- 2022-08-09 — Time to Gargle — speakers: Gargle Andy, Tiff Stevenson, James Colley, Alice Fraser, Andy Zaltzman
-- 2022-08-02 — LIVE, AND ALIVE! — speakers: Alice Fraser, Chris Skinner, David O'Doherty, Chris Addison, Andy Zaltzman
-- 2022-07-24 — Checkmate — speakers: Alice Fraser, Andy Zaltzman, Ross Ramsey-Golding Hosted
-- 2022-07-15 — The World’s Most Charming Coup — speakers: Chris Addison, Andy Zaltzman, Chris Skinner Hosted
-- 2022-07-08 — Does Boris think he's Scarface? — speakers: Boris Johnson, Andy Zaltzman, Alice Fraser, Chris Skinner Hosted
-- 2022-07-01 — Some very important Bugle news — speakers: Chris Skinner, Andy Zaltzman
-- 2022-06-24 — Nazi Game Shows — speakers: Neil Delamere, Andy Zaltzman, Kumar Neil Delamere, Chris Skinner Hosted
-- 2022-06-17 — Nationalise Human Trafficking — speakers: Josh Gondelman, Monkey Pox, Andy Zaltzman, Lina Josh Gondelman, Chris Skinner Hosted
-- 2022-06-09 — Arm all the drag queens (4232) — speakers: Hari Kondabolu, Boris Johnson, Andy Zaltzman, Chris Skinner
-- 2022-05-31 — Q Unit Goes Platinum (4231) — speakers: Goes Platinum, Alice Fraser, Anuvab Pal, Andy Zaltzman, Chris Skinner
-- 2022-05-17 — SCOMO versus ALBO — speakers: Tom Ballard, Nish Kumar, Wagatha Christie, Andy Zaltzman, Chris Skinner
-- 2022-05-11 — Viruses are Marvel (4229) — speakers: Alice Fraser, Ria Lina, Andy Zaltzman, Chris Skinner
-- 2022-05-04 — The Class Dominator (4228) — speakers: Helen Zaltzman, Andy Zaltzman, Chris Skinner
-- 2022-04-26 — Le Big Chopper (4227) — speakers: Tiff Stevenson, Neil Delamere, Boris Johnson, Andy Zaltzman, Chris Skinner
-- 2022-04-20 — Everything I Do, I Do It For You (4226) — speakers: Vladimir Putin, Boris Johnson, Andy Zaltzman, Alice Fraser, Chris Skinner
-- 2022-04-15 — Bugle Bingo (4225b) — speakers: Bugle Bingo, Tom Ballard, John Oliver, Greta Thunberg, Ped Hunter, Chris Skinner Hosted, Andy Zaltzman
-- 2022-04-08 — Colonies update (4225a) — speakers: James Nokise, Tom Neenan, Andy Zaltzman Anuvab Pal, Chris Skinner, Andy Zaltzman
-- 2022-03-30 — The Kremlin Gremlin (4225) — speakers: Alice Fraser, Anuvab Pal, Joe Biden, Vladimir Putin, Will Smith, Chris Rock, Andy Zaltzman, Chris Skinner
-- 2022-03-19 — Zelensky's Tight 16 (4224) — speakers: Mark Steel, Hari Kondabolu, Volodymyr Zelensky, Andy Zaltzman Hari Kondabolu, Chris Skinner, Andy Zaltzman
-- 2022-03-08 — Arm in Armageddon (4223) — speakers: Josh Gondelman, Shane Warne, Andy Zaltzman, Kumar Josh Gondelman, Chris Skinner
-- 2022-03-01 — Giant Asteroid, War and Dragons (4222) — speakers: Giant Asteroid, Alice Fraser, Anuvab Pal, Andy Zaltzman, Chris Skinner
-- 2022-02-22 — The Russian Doll (4221) — speakers: Neil Delamere, Kristen Dunst, Andy Zaltzman, Chris Skinners Hosted
-- 2022-02-16 — You're Putin Me Off (4220) — speakers: Lloyd Langford, Andy Zaltzman, Kumar Lloyd Langford, Ross Ramsey-Golding, Chris Skinner
-- 2022-02-09 — Biden His Time (4219) — speakers: Helen Zaltzman, Andy Zaltzman Hari Kondabolu, Chris Skinner, Andy Zaltzman
-- 2022-02-02 — Ethics, Olympics and Bombogenesis (4218) — speakers: Alice Fraser, Tiff Stevenson, Andy Zaltzman, Ross Ramsey Golding, Chris Skinner
-- 2022-01-26 — Ukraine Crumbles, UK cakes (4217) — speakers: Anuvab Pal, Andy Zaltzman Anuvab Pal, Chris Skinner, Ross Ramsey Golding Hosted, Andy Zaltzman
-- 2022-01-19 — Bonus Bugle - Denmark, Nobel and Oysters — speakers: Andy Zaltzman, Alice Fraser, James Colley Nato, Tom Ballard, Chris Skinner Hosted
-- 2022-01-11 — Animals, Bananas and The Pope (4216) — speakers: Alice Fraser, James Colley, Andy Zaltzman, James Colley Hosted
-- 2021-12-24 — Platypus on the Menu! (4215) — speakers: Tom Ballard, Lloyd Langford, Andy Zaltzman, Chris Skinner Hosted
-- 2021-12-19 — The Bugle Review of 2021 — speakers: Andy Zaltzman, Alice Fraser, Thurston Anuvab, Chris Addison, Tom Ballard Stewart Lee, Chris Skinner Hosted
-- 2021-12-06 — Mad Max and Anti Vax (4214) — speakers: Alice Fraser, Andy Zaltzman, Jeff Bezos, Chris Skinner
-- 2021-11-27 — Little Pink Things (4213) — speakers: Alice Fraser, dick pic, Andy Zaltzman, Chris Skinner
-- 2021-11-15 — Cox and Butts and old Bread Rolls (4212) — speakers: Bread Rolls, Tiny Revolutions, Andy Zaltzman, Chris Skinner
-- 2021-11-06 — Vice Signalling (4211) — speakers: Stewart Lee, Squid Game, Tiny Revolutions, Andy Zaltzman, Chris Skinner
-- 2021-10-26 — Egyptian Robot Artists (4210) — speakers: Andy Zaltzman, Tiny Revolutions, Alison Spittle, Chris Skinner, Ross Ramsey-Golding
-- 2021-10-20 — Call the COP26 (4209) — speakers: Andy Zaltzman, Tiny Revolutions, Chris Skinner
-- 2021-10-12 — Frazzles and Chipsticks (4208) — speakers: Tom Ballard, Neil Delamere, Tiny Revolutions, Andy Zaltzman, Chris Skinner Hosted
-- 2021-10-05 — British Pork Is Now Kosher (4207) — speakers: Tiny Revolutions, Andy Zaltzman, Alice Fraser, James Nokise, Chris Skinner Hosted
-- 2021-09-28 — Ou Est Le Buffoon? (4206) — speakers: Ou Est Le Buffoon, Tiny Revolutions, Andy Zaltzman Tiff Stevenson, Chris Skinner Hosted, Andy Zaltzman
-- 2021-09-20 — AUKUS Gets Awkward (4205) — speakers: Tiny Revolutions, Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner Hosted
-- 2021-09-10 — Satan takes the moral high ground (4204) — speakers: Alice Fraser, Chris Addison, Producer Chris, Tiny Revolutions, Andy Zaltzman, Chris Skinner Hosted
-- 2021-08-31 — Partial Recall (4203) — speakers: Tiny Revolutions, Andy Zaltzman, Chris Skinner, Ross Ramsey Golding Hosted
-- 2021-08-21 — Worst Comeback EVER (4202) — speakers: Tiny Revolutions, Andy Zaltzman, Alice Fraser, Chris Skinner Hosted
-- 2021-08-15 — Bonus Bugle - Olympic memories — speakers: Tiny Revolutions, Andy Zaltzman, John Oliver Alice Fraser, Anuvab Pal, Chris Skinner Hosted
-- 2021-07-30 — Bonus Bugle: Gargling with Nish and Josh — speakers: Tiny Revolutions, Andy Zaltzman, Alice Fraser, Josh Gondelman
-- 2021-07-23 — Sh*t away Scottie (4201) — speakers: Sami Shah, Billionaire Spacemen, Eric Clapton, Tiny Revolutions, Andy Zaltzman, Alice Fraser
-- 2021-07-17 — Flare in the Derrière (4200) — speakers: Tiny Revolutions, Andy Zaltzman, Chris Addison, Chris Skinner Hosted
-- 2021-07-10 — The hottest Bugle ever! (4199) — speakers: Tiny Revolutions, Andy Zaltzman Anuvab Pal, Alice Fraser, Chris Skinner Hosted, Andy Zaltzman
-- 2021-07-03 — BONUS: 2020 was Really Bad — speakers: Really Bad Andy, John Oliver, Tiny Revolutions, Andy Zaltzman, John Oliver Nish, Alice Fraser, Chris Skinner Hosted
-- 2021-06-26 — The Future Is The Past (4198) — speakers: Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman, Kumar Josh Gondelman, Chris Skinner, Ross Ramsey Hosted
-- 2021-06-20 — Bonus: Hot Rod, Dragster and a Tiny Revolution (4197a) — speakers: Tiff Stevenson, Tiny Revolutions, Andy Zaltzman, John Oliver Tiff Stevenson, Chris Skinner Hosted
-- 2021-06-10 — Sausage Pricks (4197) — speakers: Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner Hosted
-- 2021-06-01 — Dylan or Cummings (4196) — speakers: Chris Addison, Bob Dylan, Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman, Chris Skinner Hosted
-- 2021-05-25 — Two horses, dead horses (4195) — speakers: Anuvab Pal, Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman Anuvab, Chris Skinner Hosted, Andy Zaltzman
-- 2021-05-18 — Beauty and the Beast (4194) — speakers: Helen Zaltzman, Alice Fraser, Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman, Chris Skinner Hosted
-- 2021-05-11 — Beast Modi (4193) — speakers: Beast Modi, Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman, Chris Skinner Hosted
-- 2021-04-27 — Dibs on Jacinda (4192) — speakers: Anuvab Pal, Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman Anuvab, Chris Skinner Hosted, Andy Zaltzman
-- 2021-04-20 — Not Enough Boffins (4191) — speakers: Chris Addison, Alice Fraser, Tiff Stevenson, Armando Iannucci, Andy Zaltzman, Chris Skinner, Ross Ramsey Golding
-- 2021-04-10 — Ketchup! (4190) — speakers: Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman, Ward Nati Green, Chris Skinner, Ross Ramsey Golding
-- 2021-04-03 — Emojency! 💼⚽💥🇺🇸 (4189) — speakers: Tom Ballard, David O'Doherty, Tiny Revolutions, Tiff Stevenson, Armando Iannucci, Andy Zaltzman, Chris Skinner
-- 2021-03-29 — Boat Got Back (4188) — speakers: Andy Zaltzman, Alice Fraser, Chris Skinner
-- 2021-03-20 — #COTI — speakers: Coti Andy, Hari Kondabolu, Andy Zaltzman Hari Kondabolu, Chris Skinner, Andy Zaltzman
-- 2021-03-14 — Minimum Maximum — speakers: Tiff Stevenson, Andy Zaltzman, Chris Skinner
-- 2021-03-06 — The Final Billion Years — speakers: Josh Gondelman, Alice Fraser, Andy Zaltzman, Chris Skinner
-- 2021-02-28 — Texas(shole) Ted — speakers: Ted Andy, Andy Zaltzman, Thurston Nish, Ross Ramsey Golding, Chris Skinner
-- 2021-02-15 — Brexit Is Just Shellfish🐚 — speakers: Ted Cruz, Alice Fraser, Tiff Stevenson, Andy Zaltzman, Chris Skinner
-- 2021-02-09 — Bonus: Sochi and The Gargle — speakers: Gargle Andy, Andy Zaltzman, Alice Fraser, John Oliver Nato Green, Ross Ramsey Golding, Chris Skinner
-- 2021-02-02 — You Musk Be Joking! 🙊 — speakers: Space Laser, Andy Zaltzman, Alice Fraser, Anuvab Pal, Ross Ramsey Golding, Chris Skinner
-- 2021-01-26 — Randy Economy — speakers: Randy Economy Andy, Randy Economy, Andy Zaltzman, Chris Skinner
-- 2021-01-19 — Daddy Daddy, Please Don't Leave — speakers: Andy Zaltzman, Alice Fraser, Josh Gondelman, Chris Skinner
-- 2021-01-12 — Everything Is Fine — speakers: Hari Kondabolu, Chris Skinner, Andy Zaltzman
-- 2021-01-05 — White Noise — speakers: Andy Zaltzman, Alice Fraser, Chris Skinner
-- 2020-12-18 — Spready Mercury — speakers: Spready Mercury, John Oliver, Snowploughs Trump Covid Brexit, Alice Fraser, Andy Zaltzman, Chris Skinner
-- 2020-12-12 — When The E-Shed's Rockin' — speakers: Alice Fraser, David O'Doherty, Andy Zaltzman, Chris Skinner
-- 2020-12-05 — Bonus Bugle - Your Questions Answered! — speakers: Alice Fraser, Chris Skinner, John Oliver, Andy Zaltzman
-- 2020-11-28 — Covidioms, Carson and the Hand of God — speakers: Aditi Mittal, Chris Skinner, Andy Zaltzman
-- 2020-11-21 — A Message To You Rudy — speakers: Rudy Giuliani, Andy Zaltzman, Chris Skinner
-- 2020-11-14 — Satan Destroys America! — speakers: Jon Voight, Andy Zaltzman, Alice Fraser, Josh Gondelman, Chris Skinner
-- 2020-11-04 — Voters hide ballots in locked boxes — speakers: Andy Zaltzman, Chris Skinner
-- 2020-10-31 — Classic Election Special — speakers: Scluten Malvein, Andy Zaltzman, John Oliver, Chris Skinner
-- 2020-10-25 — 4171 - Evolution Special — speakers: Alice Fraser, Nish Kumar, Andy Zaltzman, Chris Skinner
-- 2020-10-20 — Good guys win elections! — speakers: Tiff Stevenson, James Nokise, Andy Zaltzman, Chris Skinner
-- 2020-10-13 — 4169 Strikes and Jet Skis — speakers: Jet Skis Andy, Alice Fraser, Donald Trump, Andy Zaltzman, Chris Skinner
-- 2020-10-06 — 4168 - Trump too nasty even for Covid — speakers: Covid Andy, Andy Zaltzman, Helen Zaltzman Anuvab Pal, Chris Skinner
-- 2020-09-29 — 4167 - Trump Takes a Mulligan — speakers: Alice Fraser, Mark Steel, Andy Zaltzman Mark Steel, Chris Skinner, Andy Zaltzman
-- 2020-09-22 — 4166 - Five Year Piggiversary — speakers: Andy Zaltzman Tiff Stevenson, Chris Skinner, Andy Zaltzman
-- 2020-09-14 — 4165: Below the Belt — speakers: Andy Zaltzman, Alice Fraser, Chris Skinner
-- 2020-09-04 — BONUS BUGLE: Gaddafi, Gandhi and randy — speakers: randy Andy, John Oliver, Andy Zaltzman, John Oliver Nish, Mark Steel, Chris Skinner
-- 2020-08-28 — 4164: Falwell That Ends Well — speakers: Alice Fraser, Jerry Falwell, Andy Zaltzman, Chris Skinner
-- 2020-08-21 — 4163: WAP (Who Appoints Presidents?) — speakers: Tiff Stevenson, Joe Biden, Donald Trump, Andy Zaltzman, Rich Jarman, Chris Skinner
-- 2020-08-12 — 4162 - Bond, Boris and Boats — speakers: Hari Kondabolu, Chris Skinner, Andy Zaltzman
-- 2020-08-04 — 4161 - Corruption, Covid and Cricket — speakers: Hari Kondabolu, Chris Skinner Fub, Andy Zaltzman
+- 2022-08-16 — Smurfs, Kashmir and other August classics — speakers: Vladimir Puti, Andy Zaltzman
+- 2022-08-09 — Time to Gargle — speakers: Gargle Andy, Andy Zaltzman
+- 2022-08-02 — LIVE, AND ALIVE! — speakers: Andy Zaltzman
+- 2022-07-24 — Checkmate — speakers: Alice Fraser, Andy Zaltzman
+- 2022-07-15 — The World’s Most Charming Coup — speakers: Chris Addison, Andy Zaltzman
+- 2022-07-08 — Does Boris think he's Scarface? — speakers: Andy Zaltzman
+- 2022-07-01 — Some very important Bugle news — speakers: Andy Zaltzman
+- 2022-06-24 — Nazi Game Shows — speakers: Neil Delamere, Andy Zaltzman
+- 2022-06-17 — Nationalise Human Trafficking — speakers: Josh Gondelman, Andy Zaltzman
+- 2022-06-09 — Arm all the drag queens (4232) — speakers: Hari Kondabolu, Andy Zaltzman
+- 2022-05-31 — Q Unit Goes Platinum (4231) — speakers: Goes Platinum, Alice Fraser, Anuvab Pal, Andy Zaltzman
+- 2022-05-17 — SCOMO versus ALBO — speakers: Tom Ballard, Nish Kumar, Wagatha Chris, Andy Zaltzman
+- 2022-05-11 — Viruses are Marvel (4229) — speakers: Alice Fraser, Ria Lina, Andy Zaltzman
+- 2022-05-04 — The Class Dominator (4228) — speakers: Helen Zaltzman, Andy Zaltzman
+- 2022-04-26 — Le Big Chopper (4227) — speakers: Tiff Stevenson, Neil Delamere, Andy Zaltzman
+- 2022-04-20 — Everything I Do, I Do It For You (4226) — speakers: Andy Zaltzman
+- 2022-04-15 — Bugle Bingo (4225b) — speakers: Bugle Bingo, Andy Zaltzman
+- 2022-04-08 — Colonies update (4225a) — speakers: Andy Zaltzman
+- 2022-03-30 — The Kremlin Gremlin (4225) — speakers: Alice Fraser, Anuvab Pal, Andy Zaltzman
+- 2022-03-19 — Zelensky's Tight 16 (4224) — speakers: Mark Steel, Hari Kondabolu, Volodymyr Zelensky, Andy Zaltzman
+- 2022-03-08 — Arm in Armageddon (4223) — speakers: Josh Gondelman, Andy Zaltzman
+- 2022-03-01 — Giant Asteroid, War and Dragons (4222) — speakers: Giant Asteroid, Alice Fraser, Anuvab Pal, Andy Zaltzman
+- 2022-02-22 — The Russian Doll (4221) — speakers: Neil Delamere, Andy Zaltzman
+- 2022-02-16 — You're Putin Me Off (4220) — speakers: Lloyd Langford, Andy Zaltzman
+- 2022-02-09 — Biden His Time (4219) — speakers: Helen Zaltzman, Andy Zaltzman
+- 2022-02-02 — Ethics, Olympics and Bombogenesis (4218) — speakers: Alice Fraser, Tiff Stevenson, Andy Zaltzman
+- 2022-01-26 — Ukraine Crumbles, UK cakes (4217) — speakers: Anuvab Pal, Andy Zaltzman
+- 2022-01-19 — Bonus Bugle - Denmark, Nobel and Oysters — speakers: Andy Zaltzman
+- 2022-01-11 — Animals, Bananas and The Pope (4216) — speakers: Alice Fraser, James Colley, Andy Zaltzman
+- 2021-12-24 — Platypus on the Menu! (4215) — speakers: Tom Ballard, Lloyd Langford, Andy Zaltzman
+- 2021-12-19 — The Bugle Review of 2021 — speakers: Andy Zaltzman
+- 2021-12-06 — Mad Max and Anti Vax (4214) — speakers: Alice Fraser, Andy Zaltzman
+- 2021-11-27 — Little Pink Things (4213) — speakers: Alice Fraser, Andy Zaltzman
+- 2021-11-15 — Cox and Butts and old Bread Rolls (4212) — speakers: Bread Rolls, Andy Zaltzman
+- 2021-11-06 — Vice Signalling (4211) — speakers: Stewart Lee, Andy Zaltzman
+- 2021-10-26 — Egyptian Robot Artists (4210) — speakers: Andy Zaltzman
+- 2021-10-20 — Call the COP26 (4209) — speakers: Andy Zaltzman
+- 2021-10-12 — Frazzles and Chipsticks (4208) — speakers: Tom Ballard, Neil Delamere, Andy Zaltzman
+- 2021-10-05 — British Pork Is Now Kosher (4207) — speakers: Andy Zaltzman
+- 2021-09-28 — Ou Est Le Buffoon? (4206) — speakers: Ou Est Le Buffoon, Andy Zaltzman
+- 2021-09-20 — AUKUS Gets Awkward (4205) — speakers: Andy Zaltzman
+- 2021-09-10 — Satan takes the moral high ground (4204) — speakers: Alice Fraser, Chris Addison, Producer Chris, Andy Zaltzman
+- 2021-08-31 — Partial Recall (4203) — speakers: Andy Zaltzman
+- 2021-08-21 — Worst Comeback EVER (4202) — speakers: Andy Zaltzman
+- 2021-08-15 — Bonus Bugle - Olympic memories — speakers: Andy Zaltzman
+- 2021-07-30 — Bonus Bugle: Gargling with Nish and Josh — speakers: Andy Zaltzman
+- 2021-07-23 — Sh*t away Scottie (4201) — speakers: Sami Shah, Andy Zaltzman
+- 2021-07-17 — Flare in the Derrière (4200) — speakers: Andy Zaltzman
+- 2021-07-10 — The hottest Bugle ever! (4199) — speakers: Andy Zaltzman
+- 2021-07-03 — BONUS: 2020 was Really Bad — speakers: Really Bad Andy, Andy Zaltzman
+- 2021-06-26 — The Future Is The Past (4198) — speakers: Andy Zaltzman
+- 2021-06-20 — Bonus: Hot Rod, Dragster and a Tiny Revolution (4197a) — speakers: Andy Zaltzman
+- 2021-06-10 — Sausage Pricks (4197) — speakers: Andy Zaltzman
+- 2021-06-01 — Dylan or Cummings (4196) — speakers: Chris Addison, Bob Dylan, Andy Zaltzman
+- 2021-05-25 — Two horses, dead horses (4195) — speakers: Anuvab Pal, Andy Zaltzman
+- 2021-05-18 — Beauty and the Beast (4194) — speakers: Helen Zaltzman, Alice Fraser, Andy Zaltzman
+- 2021-05-11 — Beast Modi (4193) — speakers: Beast Modi, Andy Zaltzman
+- 2021-04-27 — Dibs on Jacinda (4192) — speakers: Anuvab Pal, Andy Zaltzman
+- 2021-04-20 — Not Enough Boffins (4191) — speakers: Chris Addison, Alice Fraser, Andy Zaltzman
+- 2021-04-10 — Ketchup! (4190) — speakers: Andy Zaltzman
+- 2021-04-03 — Emojency! 💼⚽💥🇺🇸 (4189) — speakers: Tom Ballard, David O'Doherty, Andy Zaltzman
+- 2021-03-29 — Boat Got Back (4188) — speakers: Andy Zaltzman
+- 2021-03-20 — #COTI — speakers: Coti Andy, Hari Kondabolu, Andy Zaltzman
+- 2021-03-14 — Minimum Maximum — speakers: Tiff Stevenson, Andy Zaltzman
+- 2021-03-06 — The Final Billion Years — speakers: Josh Gondelman, Alice Fraser, Andy Zaltzman
+- 2021-02-28 — Texas(shole) Ted — speakers: Ted Andy, Andy Zaltzman
+- 2021-02-15 — Brexit Is Just Shellfish🐚 — speakers: Ted Cruz, Andy Zaltzman
+- 2021-02-09 — Bonus: Sochi and The Gargle — speakers: Gargle Andy, Andy Zaltzman
+- 2021-02-02 — You Musk Be Joking! 🙊 — speakers: Space Laser, Andy Zaltzman
+- 2021-01-26 — Randy Economy — speakers: Randy Economy Andy, Andy Zaltzman
+- 2021-01-19 — Daddy Daddy, Please Don't Leave — speakers: Andy Zaltzman
+- 2021-01-12 — Everything Is Fine — speakers: Andy Zaltzman
+- 2021-01-05 — White Noise — speakers: Andy Zaltzman
+- 2020-12-18 — Spready Mercury — speakers: Spready Mercury, John Oliver, Andy Zaltzman
+- 2020-12-12 — When The E-Shed's Rockin' — speakers: Andy Zaltzman
+- 2020-12-05 — Bonus Bugle - Your Questions Answered! — speakers: Alice Fraser, Chris Skinner, Andy Zaltzman
+- 2020-11-28 — Covidioms, Carson and the Hand of God — speakers: Andy Zaltzman
+- 2020-11-21 — A Message To You Rudy — speakers: Rudy Giuliani, Andy Zaltzman
+- 2020-11-14 — Satan Destroys America! — speakers: Jon Voight, Andy Zaltzman
+- 2020-11-04 — Voters hide ballots in locked boxes — speakers: Andy Zaltzman
+- 2020-10-31 — Classic Election Special — speakers: Classic Election Special Andy, Andy Zaltzman
+- 2020-10-25 — 4171 - Evolution Special — speakers: Alice Fraser, Nish Kumar, Andy Zaltzman
+- 2020-10-20 — Good guys win elections! — speakers: Tiff Stevenson, James Nokise, Andy Zaltzman
+- 2020-10-13 — 4169 Strikes and Jet Skis — speakers: Jet Skis Andy, Alice Fraser, Andy Zaltzman
+- 2020-10-06 — 4168 - Trump too nasty even for Covid — speakers: Covid Andy, Andy Zaltzman
+- 2020-09-29 — 4167 - Trump Takes a Mulligan — speakers: Alice Fraser, Mark Steel, Andy Zaltzman
+- 2020-09-22 — 4166 - Five Year Piggiversary — speakers: Andy Zaltzman
+- 2020-09-14 — 4165: Below the Belt — speakers: Andy Zaltzman
+- 2020-09-04 — BONUS BUGLE: Gaddafi, Gandhi and randy — speakers: randy Andy, John Oliver, Andy Zaltzman
+- 2020-08-28 — 4164: Falwell That Ends Well — speakers: Alice Fraser, Jerry Falw, Andy Zaltzman
+- 2020-08-21 — 4163: WAP (Who Appoints Presidents?) — speakers: Tiff Stevenson, Andy Zaltzman
+- 2020-08-12 — 4162 - Bond, Boris and Boats — speakers: Andy Zaltzman
+- 2020-08-04 — 4161 - Corruption, Covid and Cricket — speakers: Andy Zaltzman
 - 2020-07-31 — BUGLE MERCH IS BACK — speakers: Andy Zaltzman
-- 2020-07-25 — 4160 - Worms Around The Moon — speakers: Anuvab Pal, Alice Fraser, Andy Zaltzman, Chris Skinner, Ross Ramsey-Golding
-- 2020-07-18 — Bonus Bugle - Spies and Songs — speakers: Alice Fraser, Andy Zaltzman, Chris Skinner
-- 2020-07-12 — Bonus Bugle - Cricket beats Covid — speakers: Covid Andy, Alice Fraser, Helen Zaltzman, Nish Kumar, James Nokise, Tiff Stevenson, Tom Ballard, John Oliver, Andy Zaltzman
-- 2020-07-03 — Bugle 4159 - Putin The Tooth In — speakers: Tiff Stevenson, James Nokise, Andy Zaltzman, Chris Skinner
-- 2020-06-28 — Bugle 4158 - A vector of disease — speakers: Andy Zaltzman, Alice Fraser, Chris Skinner
-- 2020-06-26 — We're live on 27th June — speakers: Hari Kondabolu, Alice Fraser, Andy Zaltzman
-- 2020-06-20 — Bugle 4157 - Fart The Police — speakers: Alice Fraser, Helen Zaltzman, Andy Zaltzman, Chris Skinner
-- 2020-06-13 — Bugle 4156 - Statuesque — speakers: Andy Zaltzman, Chris Skinner
-- 2020-06-06 — Bugle 4155 - Joe Biden's Solution — speakers: Joe Biden, Andy Zaltzman, Tom Ballard Hari Kondabolu, Chris Skinner
-- 2020-05-30 — Bugle 4154 - Terra Firma Warriors — speakers: Andy Zaltzman, Alice Fraser, Anuvab Pal, Chris Skinner
-- 2020-05-24 — Bonus Bugle - Swine Flu, Kerala, Adverts — speakers: Adverts Andy, Swine Flu, John Oliver, Alice Fraser, Wil Anderson, Andy Zaltzman
+- 2020-07-25 — 4160 - Worms Around The Moon — speakers: Anuvab Pal, Alice Fraser, Andy Zaltzman
+- 2020-07-18 — Bonus Bugle - Spies and Songs — speakers: Alice Fraser, Andy Zaltzman
+- 2020-07-12 — Bonus Bugle - Cricket beats Covid — speakers: Covid Andy, Alice Fraser, Helen Zaltzman, Andy Zaltzman
+- 2020-07-03 — Bugle 4159 - Putin The Tooth In — speakers: Tiff Stevenson, James Nokise, Andy Zaltzman
+- 2020-06-28 — Bugle 4158 - A vector of disease — speakers: Andy Zaltzman
+- 2020-06-26 — We're live on 27th June — speakers: Andy Zaltzman
+- 2020-06-20 — Bugle 4157 - Fart The Police — speakers: Alice Fraser, Helen Zaltzman, Andy Zaltzman
+- 2020-06-13 — Bugle 4156 - Statuesque — speakers: Statuesque Andy, Black Lives Matter, Andy Zaltzman
+- 2020-06-06 — Bugle 4155 - Joe Biden's Solution — speakers: Andy Zaltzman
+- 2020-05-30 — Bugle 4154 - Terra Firma Warriors — speakers: Andy Zaltzman
+- 2020-05-24 — Bonus Bugle - Swine Flu, Kerala, Adverts — speakers: Adverts Andy, Swine Flu, John Oliver, Andy Zaltzman
 - 2020-05-18 — Bugle 4153 - A Dutch Village — speakers: Andy Zaltzman, Alice Fraser
-- 2020-05-15 — Watch us live Saturday 16th May — speakers: Alice Fraser, Andy Zaltzman
-- 2020-05-09 — Bugle 4152 - Plague! — speakers: Elon Musk, Andy Zaltzman, Chris Skinner
-- 2020-05-02 — Bugle 4151 - Boris Babies — speakers: Andy Zaltzman, Alice Fraser, Josh Gondelman, Chris Skinner
-- 2020-04-25 — Bugle 4150 - Bleach? Nevermind — speakers: Andy Zaltzman, Kumar Hari Kondabolu, Chris Skinner
-- 2020-04-18 — Bugle 4149 - William The Bonquerer — speakers: Tiff Stevenson, Andy Zaltzman, Chris Skinner
-- 2020-04-10 — Bugle 4148 - Panda Time — speakers: Alice Fraser, Al Murray, Andy Zaltzman, Chris Skinner
-- 2020-04-04 — Bugle 4147 - Urine with a chance — speakers: Anuvab Pal, Chris Skinner, Andy Zaltzman
+- 2020-05-15 — Watch us live Saturday 16th May — speakers: Andy Zaltzman
+- 2020-05-09 — Bugle 4152 - Plague! — speakers: Andy Zaltzman
+- 2020-05-02 — Bugle 4151 - Boris Babies — speakers: Beastie Boys, Andy Zaltzman
+- 2020-04-25 — Bugle 4150 - Bleach? Nevermind — speakers: Andy Zaltzman
+- 2020-04-18 — Bugle 4149 - William The Bonquerer — speakers: Tiff Stevenson, Andy Zaltzman
+- 2020-04-10 — Bugle 4148 - Panda Time — speakers: Alice Fraser, Al Murray, Andy Zaltzman
+- 2020-04-04 — Bugle 4147 - Urine with a chance — speakers: Andy Zaltzman
 - 2020-03-27 — Bugle 4146 - What would Draco do? — speakers: Andy Zaltzman
 - 2020-03-20 — Bugle 4145 - Are we key workers? — speakers: Andy Zaltzman
-- 2020-03-14 — Bugle 4144 - Mo' moons mo' problems — speakers: Sclooten Malvein, Andy Zaltzman
+- 2020-03-14 — Bugle 4144 - Mo' moons mo' problems — speakers: Andy Zaltzman
 - 2020-03-07 — Bugle 4143 - Official Coronavirus Survival Guide — speakers: Josh Gondleman, Anuvab Pal, Andy Zaltzman
 - 2020-02-29 — 4142 - KalashniCough — speakers: Andy Zaltzman
-- 2020-02-22 — Bonus Bugle - Last Post and 104 — speakers: Andy Zaltzman, Alice Fraser, John Oliver Subscribe
+- 2020-02-22 — Bonus Bugle - Last Post and 104 — speakers: Andy Zaltzman, Alice Fraser
 - 2020-02-16 — Bugle 4141 - The Valentine's Day Special — speakers: Andy Zaltzman
-- 2020-02-08 — Bugle 4140 - America Special — speakers: Andy Zaltzman
-- 2020-02-01 — Give Peas a Chance — speakers: James Nokise, Andy Zaltzman
-- 2020-01-25 — Bugle 4138 A Long Tradition of Sedition — speakers: Al Murray, Anuvab Pal, Jeff Bezos, Andy Zaltzman
+- 2020-02-08 — Bugle 4140 - America Special — speakers: America Special Listen, Andy Zaltzman
+- 2020-02-01 — Give Peas a Chance — speakers: Andy Zaltzman
+- 2020-01-25 — Bugle 4138 A Long Tradition of Sedition — speakers: Al Murray, Anuvab Pal, Andy Zaltzman
 - 2020-01-18 — Bugle 4137 - Relationships Special — speakers: Andy Zaltzman
 - 2020-01-11 — Bugle 4136 - 2019 in review — speakers: Andy Zaltzman
-- 2020-01-04 — 4135 - Decade starts badly — speakers: Alice Fraser, Andy Zaltzman
+- 2020-01-04 — 4135 - Decade starts badly — speakers: Andy Zaltzman
 - 2020-01-01 — The Last Post - Episode 1 — speakers: Andy Zaltzman
 - 2019-12-21 — Bugle 4134 - Mike Pence gets horny — speakers: Andy Zaltzman
-- 2019-12-13 — Bugle 4133 - Brelectageddon — speakers: Andy Zaltzman
+- 2019-12-13 — Bugle 4133 - Brelectageddon — speakers: Brelectageddon Britain, Andy Zaltzman
 - 2019-12-06 — Bugle 4132 - Breadgate — speakers: Andy Zaltzman
 - 2019-12-01 — Bonus Bugle - Election Fatigue — speakers: Andy Zaltzman
 - 2019-11-23 — Bugle 4131 - Hot PUSA — speakers: Jena Friedman, Andy Zaltzman
@@ -15274,56 +14273,56 @@
 - 2019-11-02 — Bugle 4128 - Official Brexit Freedom Day Special — speakers: Al Murray, Mark Steel, Andy Zaltzman
 - 2019-10-27 — Bugle 4127 Let's Sit In Silence and Watch a bird go "Honk." — speakers: Andy Zaltzman
 - 2019-10-19 — Bugle 4126 - Silk and Linen — speakers: Linen Trumps, Andy Zaltzman
-- 2019-10-12 — Bugle 4125 - Your Biggest Fears — speakers: Elon Musk, Plus Andy, Andy Zaltzman
-- 2019-10-05 — Bugle 4124 - Peak Nigel — speakers: Andy Zaltzman
-- 2019-09-28 — Bugle 4123 - 7 days of Transatlantic Madness — speakers: Nish Kumar, Josh Gondelman, Boris Johnson, Donald Trump, Andy Zaltzman
-- 2019-09-21 — Bugle 4122 - Dastardly Things — speakers: Tom Ballard, Andy Zaltzman
+- 2019-10-12 — Bugle 4125 - Your Biggest Fears — speakers: Andy Zaltzman
+- 2019-10-05 — Bugle 4124 - Peak Nigel — speakers: Peak Nigel Special, Stone Mountain, Peak Nigel, Andy Zaltzman
+- 2019-09-28 — Bugle 4123 - 7 days of Transatlantic Madness — speakers: Nish Kumar, Josh Gondelman, Andy Zaltzman
+- 2019-09-21 — Bugle 4122 - Dastardly Things — speakers: Andy Zaltzman
 - 2019-09-12 — Bugle 4120 - The Guilty Bugle — speakers: Andy Zaltzman
-- 2019-09-10 — Bugle 4121* WTF is going on? — speakers: Tom Ballard, com awryaditi, Andy Zaltzman
-- 2019-08-31 — Bugle 4119 - Evil but competent — speakers: Alice Fraser, Mark Steel, Donald Trump, Andy Zaltzman
+- 2019-09-10 — Bugle 4121* WTF is going on? — speakers: Tom Ballard, Andy Zaltzman
+- 2019-08-31 — Bugle 4119 - Evil but competent — speakers: Alice Fraser, Mark Steel, Andy Zaltzman
 - 2019-08-24 — Smelly Death Birds - Bugle 4118 — speakers: Tom Ballard, Alice Fraser, Andy Zaltzman
 - 2019-08-17 — Kashmir versus Brexit - Bugle 4117 — speakers: Andy Zaltzman
 - 2019-08-02 — Bonus Bugle - 2019 Summer Holidays special — speakers: Andy Zaltzman
-- 2019-07-28 — Bugle 4116 - The Experiment is Complete — speakers: Complete Andy, Tom Ballard, Boris Johnson, Andy Zaltzman
+- 2019-07-28 — Bugle 4116 - The Experiment is Complete — speakers: Complete Andy, Tom Ballard, Andy Zaltzman
 - 2019-07-20 — Bugle 4115 - Cricket World Cup Souvenir Edition — speakers: Alice Fraser, Andy Zaltzman
 - 2019-07-17 — Bonus Bugle - He's the greatest diver — speakers: Andy Zaltzman
-- 2019-07-06 — Ram the Ramparts - Bugle 4114 — speakers: Donald Trump, Anuvab Hosted, Andy Zaltzman
+- 2019-07-06 — Ram the Ramparts - Bugle 4114 — speakers: Andy Zaltzman
 - 2019-06-29 — Bonus Bugle - England are rubbish — speakers: Andy Zaltzman
-- 2019-06-24 — So many holes - Bugle 4113 — speakers: Good Omens, Andy Zaltzman
+- 2019-06-24 — So many holes - Bugle 4113 — speakers: Andy Zaltzman
 - 2019-06-15 — Bugle 4112 A Human Centipede Of Backstabbing — speakers: Tiff Stevenson, James Nokise, Andy Zaltzman
 - 2019-06-08 — Bugle 4111 - Not Enough Kicking — speakers: Andy Zaltzman
 - 2019-06-01 — (Andy is watching cricket) Bonus Bugle — speakers: Relive Andy, Andy Zaltzman
 - 2019-05-25 — Democramnesia - Bugle 4110 — speakers: Alice Fraser, Mark Steel, Andy Zaltzman
 - 2019-05-18 — The News Stinks - Bugle 4109 — speakers: Andy Zaltzman
-- 2019-05-12 — It's the end of the world and I'm slightly bothered, but not enough really. - Bugle 4108 — speakers: David Cameron, Andy Zaltzman
-- 2019-05-04 — Look at this Massive Election! Bugle 4107 — speakers: Andy Zaltzman
+- 2019-05-12 — It's the end of the world and I'm slightly bothered, but not enough really. - Bugle 4108 — speakers: Andy Zaltzman
+- 2019-05-04 — Look at this Massive Election! Bugle 4107 — speakers: Massive Election, Andy Zaltzman
 - 2019-04-27 — Swede Dreams are Made of Trees - Bugle 4106 — speakers: Andy Zaltzman
-- 2019-04-19 — That Pen is revisited - Bugle 4105B — speakers: Producer Chris, Features Brexit, Andy Zaltzman
-- 2019-04-15 — Black Holes and Brexit - Bugle 4105 — speakers: Mark Adams Dan, Jonathan Kaley-Isley, Matthew Gwynne, Gregor Hoffman, Lucy Perrone, Siepracki Bat Wench, Anonymous Donor, David Dodwell-Bennett, Andy Zaltzman
-- 2019-04-06 — The Reverse Skrillex - Bugle 4104 — speakers: Matt Forde, Mark Francois, Tim Wilkinson Nic Walker, Ken Roberts, Tracy DiVito, David Tully, Andy Zaltzman
+- 2019-04-19 — That Pen is revisited - Bugle 4105B — speakers: Producer Chris, Andy Zaltzman
+- 2019-04-15 — Black Holes and Brexit - Bugle 4105 — speakers: Andy Zaltzman
+- 2019-04-06 — The Reverse Skrillex - Bugle 4104 — speakers: Matt Forde, Andy Zaltzman
 - 2019-04-06 — The Sweet, Sweet Bumhole Of Space – Bugle 4103 — speakers: Sweet Bumhole, Andy Zaltzman
-- 2019-03-22 — Mature Grown Up Politics - Bugle 4102 — speakers: Alice Fraser, Andy Zaltzman
-- 2019-03-16 — Dog Climbs Mountain - Bugle 4101 — speakers: Ilhan Omar, Alice Fraser, Andy Zaltzman
-- 2019-03-09 — 12 Bum Salute - Bugle 4100 — speakers: Tom Ballard, John Oliver, Andy Zaltzman
-- 2019-03-02 — Ross and Rachel – Bugle 4099 — speakers: Michael Cohen, Josh Gondelman, Alice Fraser, Andy Zaltzman
+- 2019-03-22 — Mature Grown Up Politics - Bugle 4102 — speakers: Andy Zaltzman
+- 2019-03-16 — Dog Climbs Mountain - Bugle 4101 — speakers: Andy Zaltzman
+- 2019-03-09 — 12 Bum Salute - Bugle 4100 — speakers: Andy Zaltzman
+- 2019-03-02 — Ross and Rachel – Bugle 4099 — speakers: Andy Zaltzman
 - 2019-02-23 — Independents Day – Bugle 4098 — speakers: Andy Zaltzman
 - 2019-02-16 — Sex and Insects news – Bugle 4097 — speakers: Desiree Burch, Andy Zaltzman
-- 2019-02-09 — The Bin King – Bugle 4096 — speakers: Bin King, Producer Chris, Alice Fraser Hari Kondabolu, Andy Zaltzman
-- 2019-02-01 — Why the dolphins keep leaping – Bugle 4095 — speakers: Alice Fraser, Andy Zaltzman
+- 2019-02-09 — The Bin King – Bugle 4096 — speakers: Bin King, Andy Zaltzman
+- 2019-02-01 — Why the dolphins keep leaping – Bugle 4095 — speakers: Andy Zaltzman
 - 2019-01-19 — Bugle 4094 – Weekend at Bernie’s — speakers: Alice Fraser, Andy Zaltzman
-- 2019-01-12 — Wall Nuts – Bugle 4093 — speakers: Anuvab Pal, James Bond, Producer Chris, HelloBuglers Anuvab, Andy Zaltzman
-- 2019-01-04 — Ferry bad start to the year – Bugle 4092 — speakers: Alice Fraser, Andy Zaltzman
-- 2018-12-29 — 2018, Part Two: Trump, *truth* and Theresa — speakers: Andy Zaltzman, David O'Doherty, Mark Wahlberg, Alice Fraser, Anuvab Pal, Matt Forde, Alex Edelman, Chris Skinner
-- 2018-12-23 — 2018, Part One: Kangaroos, Kim & corruption — speakers: Kim Jong Un, Andy Zaltzman, Tom Ballard, Alice Fraser, Anuvab Pal, Chris Skinner, Tom Wright
+- 2019-01-12 — Wall Nuts – Bugle 4093 — speakers: Anuvab Pal, Andy Zaltzman
+- 2019-01-04 — Ferry bad start to the year – Bugle 4092 — speakers: Andy Zaltzman
+- 2018-12-29 — 2018, Part Two: Trump, *truth* and Theresa — speakers: Andy Zaltzman
+- 2018-12-23 — 2018, Part One: Kangaroos, Kim & corruption — speakers: Kim Jon, Andy Zaltzman
 - 2018-12-14 — Brexray Specs – Bugle 4091 — speakers: Brexray Specs, Tiff Stevenson, Matt Forde, Andy Zaltzman
 - 2018-12-08 — Have we invaded Bhutan? – Bugle 4090 — speakers: Helen Zaltzman, Hari Kondabolu, Andy Zaltzman
-- 2018-11-30 — That’s a Big Cow! – Bugle 4089 — speakers: Tom Ballard, Anuvab Pal, Andy Zaltzman
-- 2018-11-24 — Termites and Populists – Bugle 4088 — speakers: Alice Fraser, Andy Zaltzman
+- 2018-11-30 — That’s a Big Cow! – Bugle 4089 — speakers: Big Cow, Andy Zaltzman
+- 2018-11-24 — Termites and Populists – Bugle 4088 — speakers: Andy Zaltzman
 - 2018-11-16 — Symptomless Blitz: 4087 — speakers: Andy Zaltzman
-- 2018-11-11 — Midterms, appendage art and WOMEN: Bonus Bugle — speakers: Producer Chris, Jim Acosta, Abby Phillip, April Ryan, John Oliver Alice Fraser, Andy Zaltzman
-- 2018-11-03 — It’s easier to build a moon than to Brexit: Bugle 4086 — speakers: Al Murray, Tom Ballard, HelloBuglers Al Murray, Andy Zaltzman
-- 2018-10-26 — Pocket Gods: Bugle 4085 — speakers: Alice Fraser, Alice Fraser Aditi Mittal, Andy Zaltzman
-- 2018-10-19 — Hari Kondabolu Day: Bugle 4084 — speakers: Hari Kondabolu, Elizabeth Warren, Andy Zaltzman
+- 2018-11-11 — Midterms, appendage art and WOMEN: Bonus Bugle — speakers: Andy Zaltzman
+- 2018-11-03 — It’s easier to build a moon than to Brexit: Bugle 4086 — speakers: Al Murray, Tom Ballard, Andy Zaltzman
+- 2018-10-26 — Pocket Gods: Bugle 4085 — speakers: Alice Fraser, Andy Zaltzman
+- 2018-10-19 — Hari Kondabolu Day: Bugle 4084 — speakers: Hari Kondabolu, Andy Zaltzman
 - 2018-10-12 — Wedgie Diplomacy: Bugle 4083 — speakers: Bugle Andy, David O'Doherty, Alice Fraser, Andy Zaltzman
 - 2018-10-12 — Wedgie diplomacy: Bugle 4083 — speakers: Bugle Andy, David O'Doherty, Alice Fraser, Andy Zaltzman
 - 2018-10-05 — Buy lead and horny horses: Bugle 4082 — speakers: Andy Zaltzman
@@ -15334,7 +14333,7 @@
 - 2018-09-02 — Scallop wars and the Maybot: Bugle 4079 — speakers: Theresa May, Andy Zaltzman
 - 2018-08-24 — Bugle 4078 – Truth isn’t Truth — speakers: Anuvab Pal, Andy Zaltzman
 - 2018-08-17 — Bugle 4077 – Space Force — speakers: Alice Fraser, Alex Edelman, Andy Zaltzman
-- 2018-08-10 — Bonus Bugle – Frankenbugle — speakers: Andy Zaltzman
+- 2018-08-10 — Bonus Bugle – Frankenbugle — speakers: editorial decisi, Andy Zaltzman
 - 2018-08-05 — Bonus Bugle – Some Andy and John classics — speakers: Andy Zaltzman
 - 2018-07-27 — Bonus Bugle – Putin, Trump and The Queen’s Brooch — speakers: Andy Zaltzman
 - 2018-07-21 — Bugle 4076 – Space Jam — speakers: Nish Kumar, Alex Edelman, Andy Zaltzman
@@ -15345,83 +14344,83 @@
 - 2018-06-08 — Bugle 4071 – Whale of a Time — speakers: Tiff Stevenson, Alice Fraser, Andy Zaltzman
 - 2018-06-01 — Bugle 4070 – Tit for Tat — speakers: Andy Zaltzman
 - 2018-05-25 — Bugle 4069 – Read the bible, capeesh? — speakers: Andy Zaltzman
-- 2018-05-21 — Bugle 4068 – Megotiations — speakers: Andy Hosted, Andy Zaltzman
+- 2018-05-21 — Bugle 4068 – Megotiations — speakers: Andy Zaltzman
 - 2018-05-14 — Bonus Bugle – Andy on tour — speakers: Andy Zaltzman
 - 2018-05-05 — Bugle 4067 – Celebrate Forgery — speakers: Celebrate Forgery Andy, Anuvab Pal, Andy Zaltzman
 - 2018-04-28 — Bonus Bugle – Space Gravy — speakers: Andy Zaltzman
-- 2018-04-24 — Bugle 4066 – Donald’s a Bugler — speakers: Tom Ballard, Donald Trump, Aditi Mittal, Andy Zaltzman
+- 2018-04-24 — Bugle 4066 – Donald’s a Bugler — speakers: Tom Ballard, Andy Zaltzman
 - 2018-04-15 — Bugle 4065 – Clipart news — speakers: David O'Doherty, Alice Fraser, Andy Zaltzman
-- 2018-03-30 — Bugle 4064 – Mad Mike Versus Science — speakers: Alice Fraser, Pauline Hanson, Nelson Mandela, com ProducerChris, Andy Zaltzman
+- 2018-03-30 — Bugle 4064 – Mad Mike Versus Science — speakers: Alice Fraser, Andy Zaltzman
 - 2018-03-24 — Bugle 4063 – The bots have won — speakers: Cambridge Analytica, Andy Zaltzman
 - 2018-03-17 — Bugle 4062 – Bullwinkle — speakers: Hari Kondabolu, Rex Tillerson, Andy Zaltzman
 - 2018-03-10 — Bonus Bugle: Who Says Comedy Has To Be Entertaining? — speakers: Andy Zaltzman
 - 2018-03-03 — Bugle 4061 – Three Day Heart attacks — speakers: Tiff Stevenson, Andy Zaltzman
-- 2018-02-24 — Bugle 4060 – What’s that Aunt Doing? — speakers: Aunt Doing, Axel Brown, Andy Zaltzman
+- 2018-02-24 — Bugle 4060 – What’s that Aunt Doing? — speakers: Aunt Doing, Andy Zaltzman
 - 2018-02-18 — Bonus Bugle – Late love and Live — speakers: Andy Zaltzman
 - 2018-02-10 — Bugle 4059 – Space, Snow and Super Bowl — speakers: Andy Zaltzman
 - 2018-02-03 — Bugle 4058 – Donald the Bastard — speakers: Al Murray, Jen Kirkman, Andy Zaltzman
-- 2018-01-27 — Bonus Bugle – More LSQ and some Davos Classics — speakers: John Oliver, Andy Zaltzman
+- 2018-01-27 — Bonus Bugle – More LSQ and some Davos Classics — speakers: Andy Zaltzman
 - 2018-01-20 — Bugle 4057 – Britain in Crisis (Live!) — speakers: Alice Fraser, Mark Steel, Andy Zaltzman
-- 2018-01-12 — Bugle 4056 – What does ‘massacre’ mean? — speakers: Nish Kumar, Tom Ballard, Piers Morgan, Andy Zaltzman
-- 2018-01-05 — Bugle 4055 – New Year’s Revelations — speakers: Alice Fraser, Hari Kondabolu, Andy Zaltzman
-- 2017-12-31 — The Bugle 2017 Review: Men are Terrible — speakers: Bobby Mugs, Andy Zaltzman
+- 2018-01-12 — Bugle 4056 – What does ‘massacre’ mean? — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman
+- 2018-01-05 — Bugle 4055 – New Year’s Revelations — speakers: Andy Zaltzman
+- 2017-12-31 — The Bugle 2017 Review: Men are Terrible — speakers: Terrible What, Andy Zaltzman
 - 2017-12-23 — Bugle 4054 – FUChristmas — speakers: Andy Zaltzman
 - 2017-12-15 — Bugle 4053 – Mountains, Monkeys and Moore — speakers: Moore Andy, Andy Zaltzman
-- 2017-12-09 — Bugle 4052 – Brexcitement! — speakers: Tiff Stevenson, Alice Fraser, Andy Zaltzman
-- 2017-12-01 — Bugle 4051 – Trump and the motto of Brexit — speakers: Meghan Markle, Nish Kumar, Andy Zaltzman
-- 2017-11-27 — Bonus Bugle: Australian marriage equality — speakers: more sport, Andy Zaltzman
-- 2017-11-18 — Bugle 4050 – Bad Boys — speakers: Robert Mugabe, Silvio Berlusconi, Leonardo Da Vinci, Louis CK, Andy Zaltzman
+- 2017-12-09 — Bugle 4052 – Brexcitement! — speakers: Tiff Stevenso, Andy Zaltzman
+- 2017-12-01 — Bugle 4051 – Trump and the motto of Brexit — speakers: Andy Zaltzman
+- 2017-11-27 — Bonus Bugle: Australian marriage equality — speakers: unheard Australia, Andy Zaltzman
+- 2017-11-18 — Bugle 4050 – Bad Boys — speakers: Robert Mugabe, Silvio Berlusconi, Leonardo Da Vinci, Andy Zaltzman
 - 2017-11-11 — Bugle 4049 – Grafting Harder Than Ever Before. — speakers: Anuvab Pal, Andy Zaltzman
 - 2017-11-03 — Bugle 4048 – common ground with Osama — speakers: Osama Andy, Osama Bin Laden, Andy Zaltzman
 - 2017-10-28 — Bonus Bugle: A listener quiz for Andy — speakers: Andy Zaltzman
-- 2017-10-21 — Bugle 4047 – A fart wrapped in an illusion — speakers: St Helena, Andy Zaltzman
+- 2017-10-21 — Bugle 4047 – A fart wrapped in an illusion — speakers: Andy Zaltzman
 - 2017-10-13 — Bugle 4046 – Retronauts and prairie skirts — speakers: Andy Zaltzman
-- 2017-10-07 — Bugle 4045 – Calendar means Calendar — speakers: Calendar Andy, Donald Trump, Andy Zaltzman
+- 2017-10-07 — Bugle 4045 – Calendar means Calendar — speakers: Calendar Andy, Andy Zaltzman
 - 2017-10-01 — Bonus Bugle: Where will he be? — speakers: Andy Zaltzman
 - 2017-09-23 — Bugle 4044 – Nuke the Amazon — speakers: Hari Kondabolu, Tiff Stevenson, Andy Zaltzman
 - 2017-09-18 — Bugle 4043 – Questions and Answers — speakers: Helen Zaltzman, Anuvab Pal, Producer Chris, Andy Zaltzman
 - 2017-09-09 — Bugle 4042 – Durable Partners — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman
-- 2017-09-01 — Bugle 4041 – A flood of news, and floods — speakers: Pauline Hanson, Andy Zaltzman
+- 2017-09-01 — Bugle 4041 – A flood of news, and floods — speakers: Andy Zaltzman
 - 2017-08-27 — Bugle 4040 – Despot Death Match — speakers: Al Murray, Tom Ballard, Andy Zaltzman
 - 2017-08-18 — Bugle 4039 – Apologies to South America — speakers: Alice Fraser, Producer Chris, Andy Zaltzman
-- 2017-08-12 — Bugle 4038 – Every Mushroom Cloud… — speakers: Mushroom Cloud, Hari Kondabolu, Eubie Butt, Andy Zaltzman
-- 2017-08-05 — Bonus: Everything August aka Silly Season — speakers: Andy Zaltzman, John Oliver
-- 2017-07-29 — Bonus Bugle – Too Much News #2 — speakers: Nisk Kumar, Al Murray, Hari Kondabolu, Tiff Stevenson, Tom Ballard, Alice Fraser, Producer Chris, Andy Zaltzman
+- 2017-08-12 — Bugle 4038 – Every Mushroom Cloud… — speakers: Mushroom Cloud, Hari Kondabolu, Andy Zaltzman
+- 2017-08-05 — Bonus: Everything August aka Silly Season — speakers: Everything August, Silly Season Andy, Andy Zaltzman
+- 2017-07-29 — Bonus Bugle – Too Much News #2 — speakers: Andy Zaltzman
 - 2017-07-21 — Bonus Live Bugle – “this lie happened last Wednesday or Thursday” — speakers: Andy Zaltzman
-- 2017-07-14 — Bugle 4037 – In the belly of the bull — speakers: Producer Chris, Steve Bannon, Andy Zaltzman
+- 2017-07-14 — Bugle 4037 – In the belly of the bull — speakers: Producer Chris, Andy Zaltzman
 - 2017-07-07 — Bugle 4036 – Paunchy Plutocrats, Inc. — speakers: Alice Fraser, Vegan Goats, Andy Zaltzman
-- 2017-06-30 — Bugle 4035 – Theresa May has ruined leopard print — speakers: Tom Ballard, Tiff Stevenson, Aussie Tony, Andy Zaltzman
+- 2017-06-30 — Bugle 4035 – Theresa May has ruined leopard print — speakers: Tom Ballard, Tiff Stevenson, Andy Zaltzman
 - 2017-06-24 — Bugle 4034 – Judges and prison — speakers: Anuvab Pal, Andy Zaltzman
 - 2017-06-17 — Bugle 4033 – America’s over there — speakers: Hari Kondabolu, Megan Kelly, Andy Zaltzman
-- 2017-06-09 — Bugle 4032 – A truly British democracy — speakers: Aparna Nancherla, Andy Zaltzman
-- 2017-06-03 — Bugle 4031 – Live Election Special — speakers: Contain Dangerous Content, Andy Zaltzman
+- 2017-06-09 — Bugle 4032 – A truly British democracy — speakers: Andy Zaltzman
+- 2017-06-03 — Bugle 4031 – Live Election Special — speakers: Andy Zaltzman
 - 2017-05-27 — Bugle 4030 – AAA — speakers: Al Murray, Alice Fraser, Andy Zaltzman
 - 2017-05-19 — Bugle 4029 – Electile Dysfunction — speakers: Andy Zaltzman
 - 2017-05-12 — Bugle 4028: You’re Fired – Afforced Acquiescence — speakers: Anuvab Pal, Andy Zaltzman
-- 2017-05-07 — Bugle 4027: The Sinister Minister (LIVE) — speakers: St George, Zoe Coombs Marr, Wil Anderson Hosted, Andy Zaltzman
+- 2017-05-07 — Bugle 4027: The Sinister Minister (LIVE) — speakers: Andy Zaltzman
 - 2017-05-01 — Bugle 4026 – LIVE IN AUSTRALIA! — speakers: Tom Ballard, Alice Fraser, Andy Zaltzman
-- 2017-04-21 — Bugle 4025 – Theresa May or may not — speakers: Theresa May, Mrs Hitler, Alice Fraser, Nazeem Hussain, Andy Zaltzman
-- 2017-04-14 — Bugle 4024 – Fart jokes for the Taliban — speakers: Sami Shah, Alice Fraser, Sean Spicer, Pauline Hanson, Andy Zaltzman
+- 2017-04-21 — Bugle 4025 – Theresa May or may not — speakers: Theresa May, Andy Zaltzman
+- 2017-04-14 — Bugle 4024 – Fart jokes for the Taliban — speakers: Sami Shah, Alice Fraser, Sean Spicer, Andy Zaltzman
 - 2017-04-07 — Bugle 4023 – World turned upside down — speakers: David O'Doherty, Tom Ballard, Andy Zaltzman
 - 2017-03-31 — Bonus Bugle – Too Much News #1 — speakers: Too Much News, Andy Zaltzman
 - 2017-03-25 — Bugle 4022 – Not Scared, Bored — speakers: Bored Andy, Andy Zaltzman
 - 2017-03-18 — Bugle 4021 – Geertcha — speakers: Geertcha Andy, Steve King, Andy Zaltzman
 - 2017-03-11 — Bugle 4020 – Gender War — speakers: Andy Zaltzman
-- 2017-03-04 — Bugle 4019 – Donkey — speakers: Wyatt Cenac, Donald Trump, Andy Zaltzman
-- 2017-02-24 — Bugle 4018 – Fashion & Fascism — speakers: Roger Federer, Andy Zaltzman
+- 2017-03-04 — Bugle 4019 – Donkey — speakers: Wyatt Cenac, Andy Zaltzman
+- 2017-02-24 — Bugle 4018 – Fashion & Fascism — speakers: Andy Zaltzman
 - 2017-02-18 — Bugle 4017 – Evolution special — speakers: Andy Zaltzman
 - 2017-02-10 — Bugle 4016 – Terrorists eat cauliflowers — speakers: Anuvab Pal, Andy Zaltzman
 - 2017-02-04 — Bugle 4015 – Tolerance is just laziness — speakers: Lady Gaga, Andy Zaltzman
 - 2017-01-28 — Bugle 4014 – How bad can it get in a week? — speakers: Andy Zaltzman
-- 2017-01-20 — Bugle 4013 – American Carnage — speakers: Donald Trump, Andy Zaltzman
+- 2017-01-20 — Bugle 4013 – American Carnage — speakers: Andy Zaltzman
 - 2017-01-13 — Bugle 4012 – Bashfulness and Shame — speakers: Anuvab Pal, Andy Zaltzman
 - 2017-01-07 — Bugle 4011 – George W Bush Nostalgia — speakers: Bush Nostalgia, Andy Zaltzman
 - 2016-12-23 — Bugle 4010 – Christmas special! — speakers: Andy Zaltzman
 - 2016-12-16 — Bugle 4009 – Trump, Turkey & Trains — speakers: Andy Zaltzman, Anuvab Pal
-- 2016-12-10 — Bugle 4008 – Citation Needed — speakers: Donald Trump, Boris Johnson, Andy Zaltzman
-- 2016-12-03 — Bugle 4007 – Mid Atlantica — speakers: Wyatt Cenac, Fidel Castro, Andy Zaltzman
-- 2016-11-27 — Bugle 4006 – Zaltzman Showdown — speakers: Zaltzman Showdown, Helen Zaltzman, Tony Blair, Donald Trump Bugle, Andy Zaltzman
-- 2016-11-20 — Bugle 4005 – Who Do I Bribe? — speakers: Anuvab Pal, Andy Zaltzman
+- 2016-12-10 — Bugle 4008 – Citation Needed — speakers: Andy Zaltzman
+- 2016-12-03 — Bugle 4007 – Mid Atlantica — speakers: Wyatt Cenac, Andy Zaltzman
+- 2016-11-27 — Bugle 4006 – Zaltzman Showdown — speakers: Zaltzman Showdown, Helen Zaltzman, Andy Zaltzman
+- 2016-11-20 — Bugle 4005 – Who Do I Bribe? — speakers: RotW correspondent, Andy Zaltzman
 - 2016-11-11 — Bugle 4004 – ZERO DT — speakers: Hari Kondabolu, Andy Zaltzman
 - 2016-11-05 — Bugle 4003 – Vote Rochelle — speakers: Rochelle Andy, Wyatt Cenac, Andy Zaltzman
 - 2016-10-29 — Bugle 4002 – Where’s MY Knighthood? — speakers: Andy Zaltzman
@@ -15429,10 +14428,10 @@
 - 2016-10-17 — Buglemas Eve – A Preview — speakers: Buglemas Eve, Andy Zaltzman
 - 2016-09-16 — A Bugle update — speakers: Andy Zaltzman
 - 2016-06-03 — VIB – Very Important Bugle — speakers: Very Important Bugle, Bugle Hosted, Andy Zaltzman
-- 2016-03-11 — Bugle 294 – The Chainsaw of Futuristic Justice — speakers: Bugle Hosted, Andy Zaltzman
+- 2016-03-11 — Bugle 294 – The Chainsaw of Futuristic Justice — speakers: Andy Zaltzman
 - 2015-05-29 — Bugle 293 – Slow cook democracy — speakers: Andy Zaltzman
 - 2015-05-08 — Bugle 292 – A career defining election — speakers: Andy Zaltzman
-- 2015-04-24 — Bugle 291- Resistible force versus movable object — speakers: Kim Jong Un, Vladimir Putin, Andy Zaltzman
+- 2015-04-24 — Bugle 291- Resistible force versus movable object — speakers: Kim Jong Un, Andy Zaltzman
 - 2015-03-13 — Bugle 290 – Love Letters — speakers: worried Buglers, Andy Zaltzman
 - 2015-03-06 — Bugle 289 – Turbo Russia — speakers: John Oliver, Andy Zaltzman Hosted, Andy Zaltzman
 - 2015-02-27 — Bugle 288 – Bear Sick — speakers: Bear Sick Polar Bears, Andy Zaltzman
@@ -15453,9 +14452,9 @@
 - 2014-09-18 — Bugle 273 – Season 2! — speakers: Andy Zaltzman
 - 2014-06-12 — Bugle 272 – WORLD CUP! — speakers: Andy Zaltzman
 - 2014-06-05 — Bugle 271 – Abdicupdate — speakers: Andy Zaltzman
-- 2014-05-30 — Bugle 270 – Fruitcakes and Loonies — speakers: Loonies Farage, Le Pen, Oliver Poo, Andy Zaltzman
+- 2014-05-30 — Bugle 270 – Fruitcakes and Loonies — speakers: Loonies Farage, Le Pen, Andy Zaltzman
 - 2014-05-27 — The Bugle – Maychive II — speakers: Andy Zaltzman
-- 2014-05-15 — Bugle 269 – Fiddlesticks to Russia — speakers: Vladimir Putin, Andy Zaltzman
+- 2014-05-15 — Bugle 269 – Fiddlesticks to Russia — speakers: Andy Zaltzman
 - 2014-05-08 — Bugle 268 BrokeSadleBack Mountain — speakers: Mountain There, Andy Zaltzman
 - 2014-05-04 — Maychive — speakers: Andy Zaltzman
 - 2014-04-18 — Bugle 267 Gaining My Religion — speakers: Andy Zaltzman
@@ -15463,7 +14462,7 @@
 - 2014-04-04 — Bugle 265 – Cup ’em and Cough — speakers: Cough Child, Andy Zaltzman
 - 2014-03-28 — Bugle 264 – Making nothing out of something — speakers: Andy Zaltzman
 - 2014-03-21 — Bugle 263 – Giant Chicken Coops versus Terror — speakers: Jacob Zuma, Andy Zaltzman
-- 2014-03-15 — The Bugle – Marchive — speakers: Syria Hosted, Andy Zaltzman
+- 2014-03-15 — The Bugle – Marchive — speakers: Andy Zaltzman
 - 2014-03-07 — Bugle 262 – Insane in the Ukraine — speakers: Ukraine Russia, Andy Zaltzman
 - 2014-02-28 — Bugle 261 – Crimea River — speakers: Andy Zaltzman
 - 2014-02-14 — Bugle 260 – International Love Triangle — speakers: George Clooney, Andy Zaltzman
@@ -15472,22 +14471,22 @@
 - 2014-01-24 — Bugle 258 – Nazis versus Terrorists — speakers: Andy Zaltzman
 - 2014-01-18 — Bugle 257 – Dancefloor Diplomacy — speakers: Andy Zaltzman
 - 2014-01-11 — Bugle 256 – Troubled Bridge Over Boiling Water — speakers: John Describes, Andy Laments, Andy Zaltzman
-- 2014-01-03 — Bugle 255 — speakers: SS Zaltzman, Andy Zaltzman
+- 2014-01-03 — Bugle 255 — speakers: Andy Zaltzman
 - 2013-12-29 — TheBugle review of the year: 2013 — speakers: Andy Zaltzman
-- 2013-12-20 — Bugle 254 – Christmas Special! — speakers: Christmas Special, Andy Zaltzman
-- 2013-12-13 — Bugle 253 – Lenin in a Dress — speakers: Boris Johnson, Andy Zaltzman
+- 2013-12-20 — Bugle 254 – Christmas Special! — speakers: Andy Zaltzman
+- 2013-12-13 — Bugle 253 – Lenin in a Dress — speakers: Andy Zaltzman
 - 2013-12-06 — Bugle 252 – (Product from) Pigs Might Fly (Off The Shelves) — speakers: Pigs Might Fly, Andy Zaltzman
 - 2013-11-22 — Bonus Bugle – Bugle requests — speakers: Andy Zaltzman
 - 2013-11-15 — Bugle 251 – Nailing the truth to the floor — speakers: Andy Zaltzman
 - 2013-11-01 — Bugle 250 – No one is madder than Obama… — speakers: Andy Zaltzman
-- 2013-10-13 — Bugle 249 – America stands that little bit smaller — speakers: Sachin Tendulkar, Andy Zaltzman
+- 2013-10-13 — Bugle 249 – America stands that little bit smaller — speakers: Andy Zaltzman
 - 2013-10-04 — Bugle 248 – Anarchy in the USA — speakers: Andy Zaltzman
 - 2013-09-22 — Bugle 247 – Mind The Gap! — speakers: Andy Zaltzman
 - 2013-09-13 — Bugle 246 – Selling The Drama (And War and Guns And The Planet) — speakers: Andy Zaltzman
 - 2013-09-06 — Bugle 245 – Syria, too complicated for 5 year olds — speakers: Andy Zaltzman
 - 2013-08-30 — Bugle Elbug Snug in a Rug, Doug — speakers: Bugle Elbug Snug, Andy Zaltzman
 - 2013-08-09 — Bugle 244 – Russian into battle — speakers: Andy Zaltzman
-- 2013-08-02 — Bugle 243 – The gifts that keep giving — speakers: Robert Mugabe, Silvio Berlusconi, Andy Zaltzman
+- 2013-08-02 — Bugle 243 – The gifts that keep giving — speakers: Robert Mugabe, Andy Zaltzman
 - 2013-07-26 — Bugle 242 – Woman gives birth! — speakers: Andy Zaltzman
 - 2013-07-19 — Bugle 241 – Motown breaks down — speakers: Andy Zaltzman
 - 2013-07-17 — Bonus Bugle – The Story of Wills and Kate — speakers: Andy Zaltzman
@@ -15501,22 +14500,22 @@
 - 2013-05-17 — Bugle 235 – The long arm of the lorry — speakers: Andy Zaltzman
 - 2013-05-10 — Bugle 234 – Nuns, guns and nutters — speakers: Andy Zaltzman
 - 2013-05-03 — Bugle 233 – Baby got hack — speakers: Andy Zaltzman
-- 2013-04-26 — Bugle 232 – Mars, Merchandise and Mad Men! — speakers: Hilary Swanker, Andy Zaltzman
+- 2013-04-26 — Bugle 232 – Mars, Merchandise and Mad Men! — speakers: Andy Zaltzman
 - 2013-04-19 — Bugle 231 – The Queen should play poker — speakers: Margaret Thatcher, Andy Zaltzman
 - 2013-04-14 — The Bugle – The Baroness bows out — speakers: Margaret Thatcher, Andy Zaltzman
 - 2013-04-05 — Bugle Q&A – Andy Zaltor Zaltzman — speakers: Andy Zaltzman, Chris Hosted
 - 2013-03-29 — The Bugle – The worst bits of 2013 (so far) — speakers: Andy Zaltzman
-- 2013-03-22 — Bugle 229 – Cyprus ready to go Mad Max — speakers: Mad Max, Barack Obama, Andy Zaltzman
+- 2013-03-22 — Bugle 229 – Cyprus ready to go Mad Max — speakers: Mad Max, Andy Zaltzman
 - 2013-03-14 — Bugle 228 – Rome’s most eligible bachelor — speakers: Andy Zaltzman
 - 2013-03-08 — Bugle 227 – Farewell Bush’s Muse — speakers: Bush’s Muse Andy, Hugo Chavez, Andy Zaltzman
 - 2013-03-01 — Bugle 226 – Salvo For Mali — speakers: Andy Zaltzman
 - 2013-02-22 — Bugle 225 – Waffles are forever — speakers: Andy Zaltzman
-- 2013-02-15 — Bugle 224 – Papal Proton Packs — speakers: Iron Sheik, Andy Zaltzman
+- 2013-02-15 — Bugle 224 – Papal Proton Packs — speakers: Papal Proton Packs Don, Andy Zaltzman
 - 2013-02-08 — Bugle 223 – Invasion of the Asylugrants — speakers: Andy Zaltzman
 - 2013-02-03 — Bugle 222 – Halfrica — speakers: Andy Zaltzman
 - 2013-01-25 — Bugle 221 – Do EU really love Us? — speakers: Andy Zaltzman
 - 2013-01-20 — Bugle 220 – The Cheat Hits The Fan — speakers: Lance Armstrong, Andy Zaltzman
-- 2013-01-11 — Bugle 219 – 5th versus 1st — speakers: Andy Zaltzman
+- 2013-01-11 — Bugle 219 – 5th versus 1st — speakers: North Korea, Andy Zaltzman
 - 2013-01-04 — Bugle 218 – Cliff Diving — speakers: Mohamed Morsi, Andy Zaltzman
 - 2012-12-29 — The Bugle – The Complete 2012 – Part 2 — speakers: Andy Zaltzman
 - 2012-12-21 — The Bugle – The complete 2012 – Part 1 — speakers: Andy Zaltzman
@@ -15524,7 +14523,7 @@
 - 2012-12-07 — Bugle 216 – We’re having a baby! — speakers: Andy Zaltzman
 - 2012-11-30 — Bugle 215 – Let’s Nuke The Moon! — speakers: Andy Zaltzman
 - 2012-11-23 — The Bugle – The Producer Chris Podcast — speakers: Andy Zaltzman
-- 2012-11-16 — Bugle 214 – A Few Bad Men — speakers: Few Bad Men, Austin Texas Hosted, Andy Zaltzman
+- 2012-11-16 — Bugle 214 – A Few Bad Men — speakers: Few Bad Men, Andy Zaltzman
 - 2012-11-09 — Bugle 213 – Free At Last! — speakers: Andy Zaltzman
 - 2012-11-02 — Bugle 212 – Wind of change — speakers: Andy Zaltzman
 - 2012-10-26 — Bugle 211 – Electoral Labour — speakers: Electoral Labour Election, Andy Zaltzman
@@ -15536,18 +14535,18 @@
 - 2012-08-17 — Bugle 205 – The Trojan Horse — speakers: Andy Zaltzman
 - 2012-08-10 — Bugle 204 – What the Feck — speakers: Andy Zaltzman
 - 2012-08-03 — Bugle 203 – No medals for Syria — speakers: Andy Zaltzman
-- 2012-07-27 — Bugle 202 – Sport! — speakers: North Korea Hosted, Andy Zaltzman
+- 2012-07-27 — Bugle 202 – Sport! — speakers: Andy Zaltzman
 - 2012-07-20 — Bugle 201 – Dirty bankers — speakers: Andy Zaltzman
-- 2012-07-13 — Bugle 200 – The horn dog returneth! — speakers: Kim Jong Un, Andy Zaltzman
-- 2012-07-06 — The Bugle – Andy Zaltzman Speaks — speakers: Andy Zaltzman Speaks, Andy Zaltzman, Producer Chris
-- 2012-06-29 — The Bugle – John Oliver Speaks — speakers: John Oliver Speaks, John Hosted, Andy Zaltzman
+- 2012-07-13 — Bugle 200 – The horn dog returneth! — speakers: Andy Zaltzman
+- 2012-07-06 — The Bugle – Andy Zaltzman Speaks — speakers: Andy Zaltzman Speaks, Andy Zaltzman
+- 2012-06-29 — The Bugle – John Oliver Speaks — speakers: John Oliver Speaks, Andy Zaltzman
 - 2012-06-22 — Bugle 199 – This is an ex-president! — speakers: Andy Zaltzman
 - 2012-06-15 — Bugle 198 – Warm up and melt down — speakers: Andy Zaltzman
 - 2012-06-08 — Bugle 197 – Singing in the Reign — speakers: Andy Zaltzman
 - 2012-06-01 — Bugle 196 – Jubilee Special — speakers: Andy Zaltzman
 - 2012-05-25 — Bugle 195 – A drop of Reagan’s Blood — speakers: Andy Zaltzman
 - 2012-05-16 — The Bugle – 194a – Too Good For Context — speakers: Andy Zaltzman
-- 2012-05-11 — Bugle 194 – Global Election Round Up — speakers: Andy Zaltzman
+- 2012-05-11 — Bugle 194 – Global Election Round Up — speakers: Global Election Round Up, Andy Zaltzman
 - 2012-05-04 — Bugle 193 – Happy Deathiversary! — speakers: Osama Bin Laden, Plus Gingrich, Andy Zaltzman
 - 2012-04-27 — Bugle 192 – Uncle Rupert is the real victim — speakers: Andy Zaltzman
 - 2012-04-20 — Bugle 191 – A secret servicing — speakers: Andy Zaltzman
@@ -15559,7 +14558,7 @@
 - 2012-03-09 — Bugle 186 – An Insult to Civic Society — speakers: Andy Zaltzman
 - 2012-03-02 — Bugle 185 – Burning Rings Of Steel — speakers: Angela Merkel, Andy Zaltzman
 - 2012-02-24 — Bugle 184 – Wangderlust — speakers: Man Special, Andy Zaltzman
-- 2012-02-18 — Bugle 183 – Bugle Lady Special — speakers: Rick Santorum Hosted, Andy Zaltzman
+- 2012-02-18 — Bugle 183 – Bugle Lady Special — speakers: Andy Zaltzman
 - 2012-02-11 — Bugle 182 – Stockpiling Humanity — speakers: Andy Zaltzman
 - 2012-02-03 — Bugle 181 – A Knight’s Fail — speakers: Andy Zaltzman
 - 2012-01-27 — Bugle 180 – The truth about lies — speakers: Andy Zaltzman
@@ -15567,20 +14566,20 @@
 - 2012-01-17 — Hello Buglers! — speakers: Hello Buglers, Andy Zaltzman
 - 2011-05-08 — Compromised to a permanent end — speakers: Osama Bin Laden, John Cena, Andy Zaltzman
 - 2010-01-18 — The 100th Episode — speakers: John Oliver, Andy Zaltzman
-- 2009-12-21 — Berlusconi takes a cathedral to the face — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-12-14 — Britain can no longer afford defence against aliens — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-12-07 — Bad news for stupid buildings, Afghanistan & shoes — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-11-23 — Two star review for this year's Queen's Speech — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-11-16 — Walls throughout the ages — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-11-02 — Does the EU really want El Presidente Blair? — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-10-18 — Oil is running out, bring on the new stone age! — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-10-11 — Obama wins first pre-emptive Nobel Peace Prize — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-10-04 — Happy Birthday Communist China! — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-09-27 — United Nations? Not if Gaddafi has anything to do about it — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-09-20 — The Bugle finally returns — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-08-30 — Iran goes for the world record for show trials — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-08-23 — Afghanistan celebrates election with fireworks! — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
-- 2009-08-16 — Burma triumphs at made-up crime prevention — speakers: Chris Skinner, Laura Turner Hosted, Andy Zaltzman
+- 2009-12-21 — Berlusconi takes a cathedral to the face — speakers: Andy Zaltzman
+- 2009-12-14 — Britain can no longer afford defence against aliens — speakers: Andy Zaltzman
+- 2009-12-07 — Bad news for stupid buildings, Afghanistan & shoes — speakers: Andy Zaltzman
+- 2009-11-23 — Two star review for this year's Queen's Speech — speakers: Andy Zaltzman
+- 2009-11-16 — Walls throughout the ages — speakers: Andy Zaltzman
+- 2009-11-02 — Does the EU really want El Presidente Blair? — speakers: El Presidente Blair, Andy Zaltzman
+- 2009-10-18 — Oil is running out, bring on the new stone age! — speakers: Andy Zaltzman
+- 2009-10-11 — Obama wins first pre-emptive Nobel Peace Prize — speakers: Andy Zaltzman
+- 2009-10-04 — Happy Birthday Communist China! — speakers: Happy Birthday Communist China, Andy Zaltzman
+- 2009-09-27 — United Nations? Not if Gaddafi has anything to do about it — speakers: Andy Zaltzman
+- 2009-09-20 — The Bugle finally returns — speakers: Andy Zaltzman
+- 2009-08-30 — Iran goes for the world record for show trials — speakers: Andy Zaltzman
+- 2009-08-23 — Afghanistan celebrates election with fireworks! — speakers: Andy Zaltzman
+- 2009-08-16 — Burma triumphs at made-up crime prevention — speakers: Andy Zaltzman
 - 2009-08-09 — I need a hero! Bill Clinton jets off to North Korea — speakers: Bill Clinton, Andy Zaltzman, John Oliver
 - 2009-08-02 — Will China rule the world in the future? — speakers: Andy Zaltzman, John Oliver
 - 2009-07-26 — Obama: Pay for this or you'll all die! — speakers: Andy Zaltzman, John Oliver
@@ -15589,7 +14588,7 @@
 - 2009-06-28 — Iran, pick on a country your own size! — speakers: Andy Zaltzman, John Oliver
 - 2009-06-21 — Iran's Theocracy: Letting God decide the election — speakers: Andy Zaltzman, John Oliver
 - 2009-06-14 — Apathy or far right idiots? A handful for Europeans decide — speakers: Andy Zaltzman, John Oliver
-- 2009-06-07 — Gordon Brown gets a bad dose of the quits — speakers: Gordon Brown, Andy Zaltzman, John Oliver
+- 2009-06-07 — Gordon Brown gets a bad dose of the quits — speakers: Andy Zaltzman, John Oliver
 - 2009-05-31 — Does Kim Jong Il have the grapes to start a war? — speakers: Kim Jong Il, Andy Zaltzman, John Oliver
 - 2009-05-24 — What to do with Guantanamo Bay? — speakers: Andy Zaltzman, John Oliver
 - 2009-05-17 — Claiming expenses for MPs that do not exist — speakers: Andy Zaltzman, John Oliver
@@ -15650,8 +14649,8 @@
 - 2008-02-11 — Afghanistan in a zen state of chaos — speakers: Andy Zaltzman, John Oliver
 - 2008-02-04 — A Message to You, Rudy — speakers: Andy Zaltzman, John Oliver
 - 2008-01-28 — Money, Money, Money — speakers: Andy Zaltzman, John Oliver
-- 2008-01-21 — After 443 years Sark finally gets democracy — speakers: Andy Zaltzman, John Oliver
-- 2008-01-14 — Bush brings yet more chaos to the Middle East — speakers: Andy Zaltzman, John Oliver
+- 2008-01-21 — After 443 years Sark finally gets democracy — speakers: Andy Zaltzman, John Olive
+- 2008-01-14 — Bush brings yet more chaos to the Middle East — speakers: Andy Zaltzman, John Olive
 - 2008-01-07 — After Iowa, only 302 days left to go — speakers: Andy Zaltzman, John Oliver
 - 2007-12-17 — Have an Adequate Christmas — speakers: Andy Zaltzman, John Oliver
 - 2007-12-10 — Iran: Nukes or No Nukes? — speakers: Andy Zaltzman, John Oliver
