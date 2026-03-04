@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-02-26T21:46:41+00:00`
-- checked_at: `2026-02-26T21:46:41+00:00`
-- etag: `"cf372-64bc032d419d3"`
-- last_modified: `Thu, 26 Feb 2026 20:45:18 GMT`
+- fetched_at: `2026-03-04T19:07:35+00:00`
+- checked_at: `2026-03-04T19:07:35+00:00`
+- etag: `"cf952-64c3665b4c192"`
+- last_modified: `Wed, 04 Mar 2026 17:46:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-02-26T21:46:41+00:00",
+  "fetched_at": "2026-03-04T19:07:35+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4e3f8e8000419651fb2baca0adc3c19391e2d8ab",
+      "title": "Taskmaster Live on Stage - New York",
+      "published_at": "2026-03-04T17:20:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "Here is a second helping of Taskmaster Live on Stage in the US and this time Greg and Alex are in NYC! Once again they are hosted by Josh Gondelman who reads out some brilliant audience questions! To catch up on all things Taskmaster visit channel4.com For all the latest Taskmaster news visit Taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/83489154-29f8-41de-add8-664177f770bf.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=83489154-29f8-41de-add8-664177f770bf",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32334484",
+      "itunes_duration": "33:41",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "stage",
+        "york"
+      ]
+    },
     {
       "key": "3b4796bc9722467e6c457dabf5bf5796d984aded",
       "title": "Taskmaster Live on Stage - Washington D.C.",
@@ -5147,6 +5167,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Taskmaster Live on Stage - New York — speakers: Ed Gamble
 - 2026-02-26 — Taskmaster Live on Stage - Washington D.C. — speakers: Ed Gamble
 - 2026-02-20 — Taskmaster The Podcast Rewind - Series 4 Ep4. With Mel Giedroyc — speakers: Mel Giedroyc, Joining Ed, Mel Gi, Ed Gamble
 - 2026-02-18 — Taskmaster The Podcast Rewind - Series 3 Ep2. With Al Murray — speakers: Al Murray, Ed Gamble

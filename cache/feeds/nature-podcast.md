@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-04T15:58:27+00:00`
-- checked_at: `2026-03-04T15:58:27+00:00`
-- etag: `"djEuMi4wOjE3NzI2MzkyNTI1Njc="`
+- fetched_at: `2026-03-04T19:07:35+00:00`
+- checked_at: `2026-03-04T19:07:35+00:00`
+- etag: `"djEuMi4wOjE3NzI2NDMxMzI0MzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-04T15:58:27+00:00",
+  "fetched_at": "2026-03-04T19:07:35+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "4add9920ff60b5db634f4015e2aaed23513fa99e",
+      "title": "Heart surgery with quick-setting magnetic fluid could prevent strokes",
+      "published_at": "2026-03-04T16:00:00+00:00",
+      "link": "https://shows.acast.com/nature/episodes/heart-surgery-with-quick-setting-magnetic-fluid-could-preven",
+      "description": "Injectable fluid safely fills area in which blood clots can form, in animal trials — plus, strong evidence that an elusive form of diamond has been made in the lab. 00:47 A magnetic seal to stop clots forming in the heart Research Article : Wang et al. News and Views: Magnetic fluid offers better seal in heart-plugging medical procedure Video: Magnetic gel injected into the heart could stop strokes 07:02 Research Highlights Nature: Sewage systems secretly waft pollution into the air Nature: This ant species is composed of only queens — no workers or males 11:31 Making hexagonal diamond Research Article: Lai et al. Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69a84f75345da197e0f483bf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26237931",
+      "itunes_duration": "18:12",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "heart",
+        "surgery",
+        "fluid",
+        "stroke"
+      ]
+    },
     {
       "key": "302c0007291be13c66edfcd05685e1b39b006250",
       "title": "Audio long read: Many people have no mental imagery. What’s going on in their brains?",
@@ -19150,6 +19172,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Heart surgery with quick-setting magnetic fluid could prevent strokes — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-02 — Audio long read: Many people have no mental imagery. What’s going on in their brains? — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-27 — Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-25 — How earthquakes and lightning help explain squeaky sneakers — speakers: Benjamin Thompson, Noah Baker

@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-03T13:32:58+00:00`
-- checked_at: `2026-03-03T13:32:58+00:00`
-- etag: `"djEuMi4wOjE3NzI1NDI4Mzk2NjQ="`
+- fetched_at: `2026-03-04T19:07:35+00:00`
+- checked_at: `2026-03-04T19:07:35+00:00`
+- etag: `"djEuMi4wOjE3NzI2NDY1ODg0MTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-03T13:32:58+00:00",
+  "fetched_at": "2026-03-04T19:07:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b72b0a93ae1c3878f65ae24fc44146f606bdeaa1",
+      "title": "Are the Tories pushing for Iraq 2.0? | PMQs Analysis",
+      "published_at": "2026-03-04T17:49:48+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69a86f38345da197e0ff815f",
+      "description": "Andy, Laura, and Seán react to a particularly heated PMQs showdown between Kemi Badenoch and Keir Starmer, as the Tory leader ramps up the rhetoric over Trump’s escalating conflict with Iran. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69a86f38345da197e0ff815f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55310105",
+      "itunes_duration": "38:24",
+      "speakers": [],
+      "topics": [
+        "tories",
+        "iraq",
+        "analysis"
+      ]
+    },
     {
       "key": "1c0588641086a894e8e3fed824bdae316964c53a",
       "title": "What the media aren't telling you about Trump and Iran | Scott Lucas interview",
@@ -11805,6 +11823,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Are the Tories pushing for Iraq 2.0? | PMQs Analysis
 - 2026-03-03 — What the media aren't telling you about Trump and Iran | Scott Lucas interview — speakers: Scott Lucas
 - 2026-03-02 — Gorton and Denton goes Green — speakers: Hannah Spencer
 - 2026-03-01 — Palantir is taking over Britain. This is how | Martin Wrigley interview — speakers: Martin Wrigley, Lib Dem

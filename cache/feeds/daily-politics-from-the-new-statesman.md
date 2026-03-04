@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-04T15:58:27+00:00`
-- checked_at: `2026-03-04T15:58:27+00:00`
-- etag: `"djEuMi4wOjE3NzI2MzQ2MDk3ODc="`
+- fetched_at: `2026-03-04T19:07:35+00:00`
+- checked_at: `2026-03-04T19:07:35+00:00`
+- etag: `"djEuMi4wOjE3NzI2NDI0MzkzNDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-04T15:58:27+00:00",
+  "fetched_at": "2026-03-04T19:07:35+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3218185dafcbd8006cf1e2a74ebd1a4aa29800a9",
+      "title": "Was Rachel Reeves’ spring statement out of date on arrival?",
+      "published_at": "2026-03-04T16:40:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/was-rachel-reeves-spring-statement-out-of-date-on-arrival",
+      "description": "Yesterday, the Chancellor Rachel Reeves delivered her spring statement - an economic update - to the commons. With the news completely dominated by conflict in the Middle East, you would be forgiven for not noticing. In fact, many have deduced that this was exactly what the government were hoping for. Anoosh Chakelian is joined by Will Dunn to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772634432863-ccc144d4-9dde-47a7-b54d-4688853b5dfe.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69a841f165ff11c8bb988044/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55785230",
+      "itunes_duration": "23:12",
+      "speakers": [
+        "Rachel Reeves",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "rachel",
+        "reeves",
+        "spring",
+        "statement",
+        "date",
+        "arrival"
+      ]
+    },
     {
       "key": "030fa34670415097ba2dfee980fd714a686de698",
       "title": "Should the phrase \"special relationship\" be banned?",
@@ -30334,6 +30359,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Was Rachel Reeves’ spring statement out of date on arrival? — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
 - 2026-03-03 — Should the phrase "special relationship" be banned? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-02 — Iran war: Trump is playing into Putin's hands. — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-01 — Does Trump have an endgame in Iran? — speakers: Fiona Hill, Megan Gibson, Anoosh Chakelian, Oli Dugmore
