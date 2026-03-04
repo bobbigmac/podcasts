@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-03-02T21:49:55+00:00`
-- checked_at: `2026-03-02T21:49:55+00:00`
-- etag: `"djEuMi4wOjE3NzI0NzkwMTI4ODc="`
+- fetched_at: `2026-03-04T07:06:24+00:00`
+- checked_at: `2026-03-04T07:06:24+00:00`
+- etag: `"djEuMi4wOjE3NzI2MDQwOTkzODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-03-02T21:49:55+00:00",
+  "fetched_at": "2026-03-04T07:06:24+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fa25f3fea5dca910a8b5369e2588bcc386b8227c",
+      "title": "S2E38 | Bovril Lavigne",
+      "published_at": "2026-03-04T06:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e38-bovril-lavigne",
+      "description": "This week the buds discuss Pierre's film idea, colour blindness, the invite cloud of orgy and correspondence! Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/69a5e10b99cbc5047732aa7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69128056",
+      "itunes_duration": "47:56",
+      "speakers": [
+        "Bovril Lavigne",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "bovril",
+        "lavigne"
+      ]
+    },
     {
       "key": "5e131d89e3cae78f3fdcac393bff52fae591465c",
       "title": "S2E37 | Illness Cheese",
@@ -7491,6 +7512,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — S2E38 | Bovril Lavigne — speakers: Bovril Lavigne, Phil Wang, Pierre Novellie
 - 2026-02-25 — S2E37 | Illness Cheese — speakers: Phil Wang, Pierre Novellie
 - 2026-02-18 — S2E36 | Prescription Jeans — speakers: Phil Wang, Pierre Novellie
 - 2026-02-11 — S2E35 | Iron Dick — speakers: Iron Dick Full, Phil Wang, Pierre Novellie

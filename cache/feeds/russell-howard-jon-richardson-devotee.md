@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-03T21:48:00+00:00`
-- checked_at: `2026-03-03T21:48:00+00:00`
-- etag: `W/"1f554-DI4weIHAi+mLJLCNQDaSzI/pPbg"`
+- fetched_at: `2026-03-04T07:06:24+00:00`
+- checked_at: `2026-03-04T07:06:24+00:00`
+- etag: `W/"1f9d4-J7bEPe1fv0qsd3rzX1Qmzmz6Hhw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-03T21:48:00+00:00",
+  "fetched_at": "2026-03-04T07:06:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "98d67b87275cb4c73270c5ba7a43b1f32d0439e4",
+      "title": "#23 Jon Richardson Podcast with Danny Buckler",
+      "published_at": "2026-03-03T19:49:07+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/23-Jon-Richardson-Podcast-with-Danny-Buckler-e3ft1mu",
+      "description": "#23 Jon Richardson Podcast with Danny Buckler",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772567330738-e6283c22af8d3.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116343966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2F7e03ec7d-7aa9-3f9f-9b81-913aab01c8b8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53631104",
+      "itunes_duration": "01:14:29",
+      "speakers": [
+        "Danny Buckler"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "danny",
+        "buckler"
+      ]
+    },
     {
       "key": "7bdc118412480a14b7290f0c6256cf12a7b0a943",
       "title": "#22 Jon Richardson Podcast with Rhod Gilbert",
@@ -2236,6 +2257,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — #23 Jon Richardson Podcast with Danny Buckler — speakers: Danny Buckler
 - 2026-03-02 — #22 Jon Richardson Podcast with Rhod Gilbert
 - 2026-03-02 — #21 Jon Richardson Podcast with Pappys Fun Club
 - 2026-03-01 — #20 Jon Richardson Podcast with Andy Zaltzman — speakers: Andy Zaltzman

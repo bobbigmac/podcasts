@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-03-03T16:01:50+00:00`
-- checked_at: `2026-03-03T16:01:50+00:00`
-- last_modified: `Tue, 03 Mar 2026 13:32:27 GMT`
+- fetched_at: `2026-03-04T07:06:24+00:00`
+- checked_at: `2026-03-04T07:06:24+00:00`
+- last_modified: `Wed, 04 Mar 2026 05:16:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-03T16:01:50+00:00",
+  "fetched_at": "2026-03-04T07:06:24+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ad226a92e9cede4a73fa3e8f490b15461a9f669f",
+      "title": "Please Keep Me Anonymous with Stevie Martin",
+      "published_at": "2026-03-04T05:14:00+00:00",
+      "link": null,
+      "description": "On the podcast this week is actor, comedian, podcaster and Rosie's Taskmaster buddy, Stevie Martin! Chris, Rosie and Stevie cover all sorts of topics including veganism, awkward encounters, life at the Edinburgh Fringe and the efficacy of cough medicine! Plus, Stevie reads an out one of YOUR awkward encounters in this week's PKMA. To catch Stevie's show 'Clout' go to steviemartin.com for tickets! If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed ⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e73fd55c-1701-11f1-82a4-aff05a048d2e/image/6768f35cfe83b99612d9193ec1cb7887.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6476328386.mp3?updated=1772543931",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2394",
+      "speakers": [
+        "Stevie Martin",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "stevie",
+        "martin"
+      ]
+    },
     {
       "key": "fb8c19b376273b567c6baece7399b0b7a223c315",
       "title": "A new crush, a tour update and the return of Barry Beef!",
@@ -7835,6 +7857,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Please Keep Me Anonymous with Stevie Martin — speakers: Stevie Martin, Chris Ramsey, Rosie Ramsey
 - 2026-02-27 — A new crush, a tour update and the return of Barry Beef! — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
 - 2026-02-25 — Please Keep Me Anonymous with Sara Pascoe — speakers: Sara Pascoe, Chris Ramsey, Rosie Ramsey
 - 2026-02-20 — Emotions run high watching Lewis Capaldi and Chris has an awkward encounter with a Taxi driver — speakers: Lewis Capaldi, Chris Ramsey, Rosie Ramsey
