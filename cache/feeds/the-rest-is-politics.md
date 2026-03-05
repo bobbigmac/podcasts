@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-03-04T19:07:35+00:00`
-- checked_at: `2026-03-04T19:07:35+00:00`
-- last_modified: `Wed, 04 Mar 2026 18:03:21 GMT`
+- fetched_at: `2026-03-05T03:08:51+00:00`
+- checked_at: `2026-03-05T03:08:51+00:00`
+- last_modified: `Thu, 05 Mar 2026 00:00:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/3f50b7a1b1632c03b74bec14bb7de2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-04T19:07:35+00:00",
+  "fetched_at": "2026-03-05T03:08:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "65b0029efa993d6c32c0d17e79c47d6d881293c7",
+      "title": "509. Labour's Polanski Problem and the Student Loans Scandal (Question Time)",
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "link": null,
+      "description": "Does the Gorton and Denton by-election result suggest Labour has been underestimating the threat of the Green Party? Is the UK's tuition fee system less like a loan and more like a punishing graduate tax? As America retreats from the world stage under Trump, could the UK seize the moment to reassert itself as a cultural superpower? Join Alastair and Rory as they answer all these questions and more. __________ Sign up ⁠⁠ ⁠⁠HERE⁠⁠⁠⁠ to the free TRIP newsletter. Join The Rest Is Politics Plus: Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: ⁠⁠⁠ @restispolitics ⁠⁠⁠ Twitter: ⁠⁠⁠ @restispolitics ⁠⁠⁠ Email: ⁠⁠⁠ therestispolitics@goalhanger.com ⁠⁠⁠ __________ Social Producer: Emma Jackson Video Editor: James Clayden Assistant Producer: Daisy Alston-Horne Producer: Evan Green Senior Producer: Callum Hill General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/26506684-17ee-11f1-aa5f-0b10d37a7bf2/image/32c28376e83c7d3e9cfd98ae0b55acbe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4241551129.mp3?updated=1772646205",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2493",
+      "speakers": [
+        "Polanski Problem"
+      ],
+      "topics": [
+        "labour",
+        "polanski",
+        "problem",
+        "student",
+        "loans",
+        "scandal",
+        "question",
+        "time"
+      ]
+    },
     {
       "key": "45c45cd7cb6182431b5ff5e0035c56c45bb9cf51",
       "title": "508. Is Starmer Sleepwalking into War with Iran?",
@@ -11224,6 +11249,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — 509. Labour's Polanski Problem and the Student Loans Scandal (Question Time) — speakers: Polanski Problem
 - 2026-03-04 — 508. Is Starmer Sleepwalking into War with Iran?
 - 2026-03-01 — 507. The Ayatollah Is Killed - REACTION
 - 2026-02-28 — 506. Trump Attacks Iran: What Happens Now? — speakers: Trump Attacks

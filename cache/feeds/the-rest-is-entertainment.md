@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-03-04T21:49:21+00:00`
-- checked_at: `2026-03-04T21:49:21+00:00`
-- last_modified: `Wed, 04 Mar 2026 20:34:01 GMT`
+- fetched_at: `2026-03-05T03:08:51+00:00`
+- checked_at: `2026-03-05T03:08:51+00:00`
+- last_modified: `Thu, 05 Mar 2026 03:03:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-04T21:49:21+00:00",
+  "fetched_at": "2026-03-05T03:08:51+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "86243c0cf7fcec4c0b5a15da67803724b6d9df6b",
+      "title": "The First Rule of Taskmaster",
+      "published_at": "2026-03-05T00:05:00+00:00",
+      "link": null,
+      "description": "What is the unwritten rule of Taskmaster that every comedian has to follow? How are bubble baths made realistic for movies? And what is Richard's favourite ever quiz? Richard Osman and Marina Hyde answer your questions on the world of TV, movies and much more. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Max Archer Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7740370288.mp3?updated=1772651312",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2004",
+      "speakers": [
+        "Taskmaster What",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "rule",
+        "taskmaster"
+      ]
+    },
     {
       "key": "9d5e49cf4f71e83d2ff014824f3e8428d40777e2",
       "title": "Dubai Influencers vs Iran",
@@ -5331,6 +5352,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — The First Rule of Taskmaster — speakers: Taskmaster What, Richard Osman, Marina Hyde
 - 2026-03-03 — Dubai Influencers vs Iran — speakers: Dubai Influencers, Richard Osman, Marina Hyde
 - 2026-02-26 — The Prince Andrew Newsmageddon — speakers: Andrew Newsmageddon, Andrew Mountbatten-Windsor, Richard Osman, Marina Hyde
 - 2026-02-24 — WTF is Clavicular - And Should You Care? — speakers: Richard Osman, Marina Hyde

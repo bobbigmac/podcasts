@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-03-03T16:01:50+00:00`
-- checked_at: `2026-03-03T16:01:50+00:00`
-- last_modified: `Tue, 03 Mar 2026 14:48:41 GMT`
+- fetched_at: `2026-03-05T03:08:51+00:00`
+- checked_at: `2026-03-05T03:08:51+00:00`
+- last_modified: `Thu, 05 Mar 2026 00:07:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-03T16:01:50+00:00",
+  "fetched_at": "2026-03-05T03:08:51+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,28 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "5f7aace999f5764a42cdea3d2362a3aae42ce276",
+      "title": "Weak Spots: Games You Suck At",
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "link": null,
+      "description": "Stop what you're doing and pay attention, because it's Button Boys time, capeesh? This week's episode is all about the games we're inexplicably terrible at. Crap at CoD? Feeble at FIFA? Deplorable at Dark Souls? The Boys take a long hard look in the mirror as they confront their, and the audience's, gaming flaws. But what have the Boys been up to? Pierre's providing the last line of defence for a planet via touch controls, Glenn's been let down by a flat attempt at a series spin-off, and Sarah's found a holiday game that they simply cannot win. All in all a busy week. To follow along with the Button Boys outside the podcast: Pierre - ⁠ You Sit There, I’ll Stand Here⁠ Glenn - ⁠Please Sir, Glenn I Have Some Moore Glenn and Producer Ben - ⁠ The Audience VS ⁠ ⁠Sarah's Melbourne Show⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Terra Invicta Into the Breach Little Nightmares Dance Dance Revolution Two Point Campus God of War: Sons of Sparta Blasphemous Hercules Aladdin God of War: Ragnarök Ninja Gaiden Shinobi Tubedoku Tony Hawk's Pro Skater Lords of the Fallen L.A. Noire Among Us Guitar Hero Detroit: Become Human Heavy Rain Dark Souls Horizon Forbidden West Middle-earth: Shadow of War Age of Empires II: The Age of Kings Company of Heroes Total War: Shogun 2 Resident Evil 2 Disco Elysium Rocket League Elden Ring Split Fiction Hollow Knight: Silksong Call of Duty: Warzone Baldur’s Gate 3 Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7120289874.mp3?updated=1772549619",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3319",
+      "speakers": [
+        "Button Boys",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "spots",
+        "games"
+      ]
+    },
     {
       "key": "07748a3d63fe90f7b870c49b8495f2848e3120ff",
       "title": "The Sound Effect: The Best and Worst Game Audio",
@@ -790,6 +812,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — Weak Spots: Games You Suck At — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-02-26 — The Sound Effect: The Best and Worst Game Audio — speakers: Worst Game Audio Banging, Button Bo, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-02-19 — Mobile Ports: Phoning It In — speakers: Mobile Ports, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-02-12 — Valentine’s Special: Eat, Play, Love — speakers: Valentine’s Special Eat, Glenn Moore, Sarah Keyworth, Pierre Novellie

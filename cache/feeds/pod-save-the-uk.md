@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-02-26T07:15:52+00:00`
-- checked_at: `2026-02-26T07:15:52+00:00`
-- etag: `W/"c33608a4f314272be6877e34c9317d13"`
-- last_modified: `Thu, 26 Feb 2026 04:00:00 GMT`
+- fetched_at: `2026-03-05T03:08:51+00:00`
+- checked_at: `2026-03-05T03:08:51+00:00`
+- etag: `W/"cbdd3cc2c31dfadfea75a4790cacc7b7"`
+- last_modified: `Wed, 04 Mar 2026 22:33:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-02-26T07:15:52+00:00",
+  "fetched_at": "2026-03-05T03:08:51+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -31,7 +31,7 @@
   "episodes": [
     {
       "key": "c6adf173439d186e93f3543dc47e0a034f568c57",
-      "title": "143: Are we stuck in never-ending political scandal? w/Ash Sarkar",
+      "title": "Are we stuck in never-ending political scandal? w/Ash Sarkar",
       "published_at": "2026-02-26T04:00:00+00:00",
       "link": "https://audioboom.com/posts/8866226",
       "description": "This week Nish and Coco are joined by friend of the pod, Ash Sarkar from Novara Media to talk about political scandal, trust and compromise. Ash’s book, Minority Rule, has a new afterword which talks about two progressive movements which have tried to build different kinds of relationships with voters. Is that the way forward - or are we stuck in an endless cycle of broken promises from our leaders? One of those leaders - Keir Starmer - seems to be lurching from crisis to nightmare, so can he rise above the latest headlines about Peter Mandelson’s arrest and the Labour Together scandal? Plus Reform’s new immigration policies, the new proposals to change the SEND system - and some good news about two protest groups. CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK WISE: https://www.wise.com SURFSHARK: https://www.surfshark.com/podsave CODE: PODSAVE GUESTS Ash Sarkar, Contributing Editor at Novara Media and author of Minority Rule: Adventures in the Culture War - out now in paperback. USEFUL LINKS Jumaane Williams’ thoughtful response following the outcry about the handling of a racial slur at the Baftas. https://www.youtube.com/watch?v=FgaqKIxS4Hs&t=1s CREDITS Daily Express - YouTube Nigel Farage - YouTube @ sendra.uk - Instagram Nida Jafri Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
@@ -52,7 +52,7 @@
     },
     {
       "key": "fc02c68a423c41a1bd7218bf724adb1ca116eda9",
-      "title": "142: Can she fix it? Hannah the plumber and politician on tackling Reform",
+      "title": "Can she fix it? Hannah the plumber and politician on tackling Reform",
       "published_at": "2026-02-19T04:00:00+00:00",
       "link": "https://audioboom.com/posts/8862855",
       "description": "This week Coco is joined by the comedian Cody Dahler while Nish takes a brief break and there’s so much to talk about! The Greens' Hannah Spencer has become the unexpected bookies favourite to win the Gorton and Denton by-election but does she have what it takes to turn good odds into a win at the ballot box? We speak to her about the importance of fighting to improve lives, her favourite false rumour and why walking her dogs helped form her political outlook. Plus Keir Starmer is back with another U-turn and another inquiry. We try to work out what he’s hoping to achieve this week. And Amnesty International’s UK Director of Law and Human Rights, Tom Southerden, updates us on their High Court victory as they challenge the proscription of Palestine Action. CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk GUESTS Hannah Spencer, Green Party candidate, Gorton and Denton by-election Tom Southerden, UK Law and Human Rights Director, Amnesty International USEFUL LINKS Gorton and Denton by-election candidate list https://whocanivotefor.co.uk/elections/parl.gorton-and-denton.by.2026-02-26/gorton-and-denton/ CREDITS TikTok / @mrcodydahler Green Party of England and Wales / Facebook Hannah Spencer / Instagram Paul Holden, Investigative journalist and author of \"The Fraud\" High Court protest reaction - Amnesty International footage @mrcodydahler / Instagram Otto, Budding Comedian Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
@@ -75,7 +75,7 @@
     },
     {
       "key": "5e3fb7546c3b549ef8a8e4c7125362fd87d066c9",
-      "title": "141: McSweeney: the man who made Starmer and his ties to Mandelson",
+      "title": "McSweeney: the man who made Starmer and his ties to Mandelson",
       "published_at": "2026-02-12T04:00:00+00:00",
       "link": "https://audioboom.com/posts/8860082",
       "description": "Prime Minister Keir Starmer’s cabinet circles the wagons as he survives another hellish week in office. One that saw the loss of his chief of staff, Morgan McSweeney, and his director of communications, Tim Allan, as the scandal over Peter Mandelson's ties to sex trafficker Jeffrey Epstein rages on. Nish and Coco are joined by Paul Holden, the “unofficial biographer” of Morgan McSweeney, to discuss his key role in the rise of Keir Starmer to power and his close relationship with Mandelson. Plus - reports that Labour Together hired a PR firm to investigate Paul and others looking into its funding under McSweeney. Also, comedian Stuart Goldsmith on the serious business of being funny about climate change and why it goes all the way to the top of British intelligence. CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES https://www.auraframes.com Code: PSTUK WISE https://www.wise.com GUESTS Paul Holden, Investigative Journalist and author of The Fraud Stuart Goldsmith, Climate Comedian USEFUL LINKS The Fraud: Keir Starmer, Morgan McSweeney, and the Crisis of British Democracy https://orbooks.com/catalog/the-fraud/ Stuart Goldsmith www.stuartgoldsmith.com CREDITS Sky News / YouTube Sky News / YouTube GOP Oversight / YouTube Sky News Australia / YouTube Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
@@ -96,7 +96,7 @@
     },
     {
       "key": "b67e12dc0c334b52ad43e2396604f65c893271d7",
-      "title": "140: Will Mandelson be Starmer’s downfall?",
+      "title": "Will Mandelson be Starmer’s downfall?",
       "published_at": "2026-02-05T04:00:00+00:00",
       "link": "https://audioboom.com/posts/8857067",
       "description": "The release of the latest Epstein files triggered a deluge of revelations, spelling the end for one of UK’s biggest political characters. Nish and Coco chat about Lord Mandelson’s fall and the damage done to Keir Starmer and his government as well as the new police investigation into Andrew Mountbatten-Windsor. Economist Ann Pettifor, one of the few who predicted the 2008 financial crash, is the author of a new book “The Global Casino”. She has a lot to say about the Mandelson scandal, the financial systems that control our lives and what governments need to do to challenge the global billionaires who speculate with our money every day. Plus - move over Barbenheimer, Nish and Coco give their take on two premieres: The Moment and Melania. CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY https://www.shopify.co.uk/podsavetheuk AURA FRAMES https://www.auraframes.com Code: PSTUK GUEST Ann Pettifor, economist and author of ‘The Global Casino’ USEFUL LINKS Nish Tour Tickets https://www.nishkumar.co.uk/gigs/ The Global Casino: How Wall Street Gambles with People and the Planet https://www.versobooks.com/en-gb/products/3258-the-global-casino CREDITS Keir Starmer MP / Parliament TV Lord Mandelson / ‘Sunday with Laura Kuenssberg’ BBC One Melania Trailer Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
@@ -961,7 +961,7 @@
     },
     {
       "key": "96385b0bc4aee24d27135439542307756b51b8f6",
-      "title": "103: The UK Supreme Court ruling and the fight for trans rights",
+      "title": "The UK Supreme Court ruling and the fight for trans rights",
       "published_at": "2025-05-01T04:25:00+00:00",
       "link": "https://audioboom.com/posts/8830162",
       "description": "In the wake of the UK Supreme Court ruling that the legal definition of woman should be based on biological sex, Nish and Zoë speak to LGBTQ+ activist Ellen Jones, author of \"Outrage: Why the fight for LGBTQ+ equality is not yet won and what we can do about it\" about the implications for trans people . They discuss how the campaigning of reactionaries like billionaire author JK Rowling led to the decision that has seen Prime Minister Keir Starmer backflipping on his support for the trans community. Ellen speaks on the dangers of the recent ruling and practical ways to resist and support the trans community. Then, as the Tories flounder ahead of the local elections, Zoë hedges her bets. And we take a look at two shocking attempts to seize the limelight by Liz Truss and Tony Blair. Plus, ahead of the Australian election this weekend, Nish speaks to former Deputy Prime Minister Wayne Swan about how, in the wake of Trump's tariffs and attacks on allies, the commonwealth might be more important than ever and what the US and UK could learn from Australia's compulsory preferential voting system. CORRECTION: In this episode we at one point refer to the EHCR incorrectly, for clarity, it is the Equality and Human Rights Commission. CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES https://www.auraframes.com CODE: PSUK SHOPIFY https://www.shopify.co.uk/podsavetheuk Guests: Ellen Jones Wayne Swan Useful links: Outrage: Why the fight for LGBTQ+ equality is not yet won and what we can do about it by Ellen Jones https://www.panmacmillan.com/authors/ellen-jones/outrage/9781035030606 The Good Law Project Crowdfunder to legally challenge the Supreme Court Decision https://goodlawproject.org/crowdfunder/supreme-court-human-rights-for-trans-people/ Compilation of protests against the Supreme Court Decision https://whatthetrans.com/compilation-of-protests-against-the-supreme-court/ Volunteer at your local trans pride - London Trans Pride call for stewards https://www.instagram.com/londontranspride Write to your MP https://transactual.org.uk/change-actions/write-to-your-mp/ Reclaim the framing of UK trans rights https://docs.google.com/document/d/e/2PACX-1vTWR6sdj_xWKoOGLmwp0JotSL3NBrYSd1Dy3VZOIIKJKy0Ej6cFPt32IIKan3qCq6fG4lpgrw46ewO0/pub?urp=gmail_link Protect the Dolls T-shirt in support of Trans Lifeline, a US-based charity https://connerives.com/products/pre-order-protect-the-dolls-t-shirt Info on voting in the Australian Election abroad: ALPABROAD.ORG Audio Credits Sky News ITV News Pod Save the UK is a Reduced Listening production for Crooked Media. Contact us via email: PSUK@reducedlistening.co.uk Insta: https://instagram.com/podsavetheuk BlueSky: @podsavetheuk.crooked.com Twitter: https://twitter.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk Facebook: https://facebook.com/podsavetheuk Youtube: https://www.youtube.com/@PodSavetheUK Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -986,7 +986,7 @@
     },
     {
       "key": "6d8d539da80f83fee7110066bd563218ffb15388",
-      "title": "102: Nish and Coco spill the tea: your questions answered",
+      "title": "Nish and Coco spill the tea: your questions answered",
       "published_at": "2025-04-17T04:00:00+00:00",
       "link": "https://audioboom.com/posts/8830163",
       "description": "As Parliament sits for Easter Recess, Nish and Coco dive into the PSUK mailbag to answer your burning questions. There’s the serious political questions - who are the real progressive party? How can we fight Reform? Should we all just leave the UK?? But there’s some curveballs, too - like what’s up with Bob Dylan’s instagram posting? Boxers or briefs? And most importantly… Has Nish Kumar ever eaten a pot noodle in the bath? CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is a Reduced Listening production for Crooked Media. Contact us via email: PSUK@reducedlistening.co.uk Insta: https://instagram.com/podsavetheuk Twitter: https://twitter.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk Facebook: https://facebook.com/podsavetheuk Youtube: https://www.youtube.com/@PodSavetheUK Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1000,7 +1000,6 @@
         "Coco Khan"
       ],
       "topics": [
-        "nish",
         "coco",
         "spill",
         "question"
@@ -3541,10 +3540,10 @@
 
 ## Episodes (newest first)
 
-- 2026-02-26 — 143: Are we stuck in never-ending political scandal? w/Ash Sarkar — speakers: Ash Sarkar, Nish Kumar, Coco Khan
-- 2026-02-19 — 142: Can she fix it? Hannah the plumber and politician on tackling Reform — speakers: Cody Dahler, Nish Kumar, Coco Khan
-- 2026-02-12 — 141: McSweeney: the man who made Starmer and his ties to Mandelson — speakers: Nish Kumar, Coco Khan
-- 2026-02-05 — 140: Will Mandelson be Starmer’s downfall? — speakers: Will Mandelson, Nish Kumar, Coco Khan
+- 2026-02-26 — Are we stuck in never-ending political scandal? w/Ash Sarkar — speakers: Ash Sarkar, Nish Kumar, Coco Khan
+- 2026-02-19 — Can she fix it? Hannah the plumber and politician on tackling Reform — speakers: Cody Dahler, Nish Kumar, Coco Khan
+- 2026-02-12 — McSweeney: the man who made Starmer and his ties to Mandelson — speakers: Nish Kumar, Coco Khan
+- 2026-02-05 — Will Mandelson be Starmer’s downfall? — speakers: Will Mandelson, Nish Kumar, Coco Khan
 - 2026-01-29 — Will Starmer’s control freakery deliver victory to Reform? — speakers: Will Starmer, Nish Kumar, Coco Khan
 - 2026-01-22 — Starmer’s new Trump headache and making comedy under occupation — speakers: Nish Kumar, Coco Khan
 - 2026-01-15 — Grok AI Scandal: should we treat Big Tech like Big Tobacco? w/ Rutger Bregman — speakers: Grok AI Scandal, Nish Kumar, Coco Khan
@@ -3582,8 +3581,8 @@
 - 2025-05-22 — Gaza and Benefits: is Starmer changing course? — speakers: Nish Kumar, Coco Khan
 - 2025-05-15 — Pod Save an Island of Strangers — speakers: Pod Save, Strangers Coco, Nish Kumar, Coco Khan
 - 2025-05-08 — How Labour should (but probably won’t) reset after Reform’s big win — speakers: Nish Kumar, Coco Khan
-- 2025-05-01 — 103: The UK Supreme Court ruling and the fight for trans rights — speakers: Supreme Court, Nish Kumar, Coco Khan
-- 2025-04-17 — 102: Nish and Coco spill the tea: your questions answered — speakers: Nish Kumar, Coco Khan
+- 2025-05-01 — The UK Supreme Court ruling and the fight for trans rights — speakers: Supreme Court, Nish Kumar, Coco Khan
+- 2025-04-17 — Nish and Coco spill the tea: your questions answered — speakers: Nish Kumar, Coco Khan
 - 2025-04-10 — Trump’s Tariffs: are you feeling liberated? — speakers: Trump’s Tariffs, Nish Kumar, Coco Khan
 - 2025-04-03 — Waiting For The Apocalypse: tariffs, food security and the right to protest — speakers: Nish Kumar, Coco Khan
 - 2025-03-27 — Austerity 2.0: can Reeves cut her way to growth? — speakers: Nish Kumar, Coco Khan
