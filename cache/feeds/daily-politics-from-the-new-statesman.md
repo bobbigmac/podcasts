@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-04T19:07:35+00:00`
-- checked_at: `2026-03-04T19:07:35+00:00`
-- etag: `"djEuMi4wOjE3NzI2NDI0MzkzNDg="`
+- fetched_at: `2026-03-05T19:35:58+00:00`
+- checked_at: `2026-03-05T19:35:58+00:00`
+- etag: `"djEuMi4wOjE3NzI3MzAwMzk1MDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-04T19:07:35+00:00",
+  "fetched_at": "2026-03-05T19:35:58+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "02ebc1f86c1861bb83d44c5bd8c8aaa452e7c64f",
+      "title": "Exclusive: the progressive voters abandoning Labour",
+      "published_at": "2026-03-05T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/exclusive-the-progressive-voters-abandoning-labour",
+      "description": "Labour is losing the voters it used to count on, a new study reveals. In the aftermath of the Green Party’s triumph in the Gorton and Denton by-election, and with local elections in London councils and other major cities coming up, Labour is losing the left progressive voters it could once rely on having “nowhere else to go”. Now, the biggest study ever of these voters – shared exclusively with the New Statesman – reveals the true risk to Labour’s future of leaving them behind. This work, done by surveying 10,000 voters and a randomised control trial style approach, has found out who the so-called progressive defectors are, why they’re deserting Labour, and what impact this could have on Labour’s electoral prospects. Anoosh Chakelian is joined by Steve Akehurst of Persuasion UK who co-authored this report with 38 Degrees. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772728237744-3a0173eb-4865-472d-b699-5182ab985fe3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69a9b000c2eb2fc3abe11b79/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28883794",
+      "itunes_duration": "20:02",
+      "speakers": [
+        "Labour Labour",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "exclusive",
+        "voter",
+        "labour"
+      ]
+    },
     {
       "key": "3218185dafcbd8006cf1e2a74ebd1a4aa29800a9",
       "title": "Was Rachel Reeves’ spring statement out of date on arrival?",
@@ -30359,6 +30381,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — Exclusive: the progressive voters abandoning Labour — speakers: Labour Labour, Anoosh Chakelian, Oli Dugmore
 - 2026-03-04 — Was Rachel Reeves’ spring statement out of date on arrival? — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
 - 2026-03-03 — Should the phrase "special relationship" be banned? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-02 — Iran war: Trump is playing into Putin's hands. — speakers: Anoosh Chakelian, Oli Dugmore

@@ -10888,6 +10888,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:e01bddc53356",
+        "feed_title": "LONDON PUB REVIEWS (feat. Tim Key)",
+        "source_rss_url": "https://audioboom.com/channels/5145803.rss",
+        "dedupe_key": "27e8e79aaa7e4b7a0e8ad96be9ee0a0362e354b5",
+        "episode_key": "27e8e79aaa7e4b7a0e8ad96be9ee0a0362e354b5",
+        "title": "25. King Charles I",
+        "published_at": "2022-12-31T09:59:05Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "25. King Charles I\n\n\nPintsize reviews of London's finest pubs.\n\n\nWritten by Paul Ewen\n\nPerformed by Tim Key\n\nProduced by Nick Coupe\n\nSound Design by Andy Goddard\n\nArtwork by Max Dorey\n\nExecutive Producer Claire Broughton\n\n\nLondon Pub Reviews is a Hat Trick Podcast\n\n\n Hosted on Acast. See acast.com/privacy for more info",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8617353.mp3?modified=1733135763&sid=5145803&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/25-king-charles-i/id1544416855?i=1000591756457&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -12032,6 +12054,29 @@
         "enclosure_type": null,
         "speakers": [
           "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:94236977612e",
+        "feed_title": "Distraction Pieces Podcast with Scroobius Pip",
+        "source_rss_url": "https://feeds.acast.com/public/shows/ad4e2f12-9862-4cf6-b6af-3ae392c45fad",
+        "dedupe_key": "4e3b1ae1ae6a50a297b9f56e683b34906f7f837b",
+        "episode_key": "4e3b1ae1ae6a50a297b9f56e683b34906f7f837b",
+        "title": "Alex Horne - Distraction Pieces Podcast with Scroobius Pip #181",
+        "published_at": "2017-12-13T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome, welcome and a third customary welcome to YOU, dear Distraction Pieces Podcast listener, and to the one hundred and eighty first episode! A damn fine, properly solid episode it is too, as your loyal host Scroobius Pip is joined by creator and star of 'Taskmaster' (and very good friend of Tim Key), Alex Horne!\nG",
+        "audio_url": "https://sphinx.acast.com/distractionpieces/alexhorne-distractionpiecespodcastwithscroobiuspip-181/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-distraction-pieces-podcast-with-scroobius/id929136539?i=1000397179727&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key",
+          "Alex Horne"
         ],
         "topics": [],
         "external": true

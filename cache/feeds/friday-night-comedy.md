@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-02-27T21:43:38+00:00`
-- checked_at: `2026-02-27T21:43:38+00:00`
-- etag: `"1425a95257781acf8f8aa7d1b4d60158"`
-- last_modified: `Fri, 27 Feb 2026 19:00:05 GMT`
+- fetched_at: `2026-03-05T19:35:58+00:00`
+- checked_at: `2026-03-05T19:35:58+00:00`
+- etag: `"7bb84d423dce10e3ec375a6cab22d0b8"`
+- last_modified: `Thu, 05 Mar 2026 19:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-02-27T21:43:38+00:00",
+  "fetched_at": "2026-03-05T19:35:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5484,32 +5484,6 @@
         "huge",
         "davy"
       ]
-    },
-    {
-      "key": "c6b07a6c50ac7ebb460934d74d21e84d76a3a7b9",
-      "title": "The Now Show - 5th March ft Zoe Lyons, Chris McCausland, Tim Sutton and Sooz Kempner",
-      "published_at": "2021-03-05T19:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p098vdw9",
-      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! This week Chris McCausland Musks up, Zoe Lyons takes a dip whilst Tim Sutton and Sooz Kempner go Gaga... Voice Actors: George Fouracres and Karen Bartke Producer: Adnan Ahmed Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p098vd7k.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26944000",
-      "itunes_duration": "1684",
-      "speakers": [
-        "Chris McCausland",
-        "Tim Sutton",
-        "Steve Punt"
-      ],
-      "topics": [
-        "march",
-        "lyons",
-        "chris",
-        "mccausland",
-        "sutton",
-        "sooz",
-        "kempner"
-      ]
     }
   ]
 }
@@ -5776,4 +5750,3 @@
 - 2021-03-26 — The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris — speakers: Janine Harouni, Rachel Parris, Steve Punt
 - 2021-03-19 — The Now Show - 19th March ft Lucy Porter, Eshaan Akbar and Jess Robinson — speakers: Lucy Porter, Eshaan Akbar, Jess Robinson, Steve Punt
 - 2021-03-12 — The Now Show - 12th March ft Daliso Chaponda, Ellie Taylor and Huge Davies — speakers: Ellie Taylor, Steve Punt
-- 2021-03-05 — The Now Show - 5th March ft Zoe Lyons, Chris McCausland, Tim Sutton and Sooz Kempner — speakers: Chris McCausland, Tim Sutton, Steve Punt

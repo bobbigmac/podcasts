@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-05T16:02:53+00:00`
-- checked_at: `2026-03-05T16:02:53+00:00`
-- last_modified: `Thu, 05 Mar 2026 13:44:31 GMT`
+- fetched_at: `2026-03-05T19:35:58+00:00`
+- checked_at: `2026-03-05T19:35:58+00:00`
+- last_modified: `Thu, 05 Mar 2026 19:07:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-05T16:02:53+00:00",
+  "fetched_at": "2026-03-05T19:35:58+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -28,24 +28,22 @@
   ],
   "episodes": [
     {
-      "key": "cd236189d15be471a2576a198cb32ffdb03e9537",
-      "title": "THE LAST ECONOMY: How AI Will Change Everything in the Next 1,000 Days",
-      "published_at": "2026-03-05T10:30:00+00:00",
+      "key": "8ffccb7febab9e04dd70edddf153990586d413ed",
+      "title": "How AI Could Change Everything in the Next 1,000 Days",
+      "published_at": "2026-03-05T19:00:00+00:00",
       "link": null,
-      "description": "Here are just a few of the dizzying predictions Emad Mostaque makes in today's episode: \"I think it's a good idea to borrow as much as you can right now because the entire economy is going to shift — you probably won't have to repay it.\" \"Within a thousand days, the nature of your job will become economically irrelevant if you work in anything on the other side of a screen.\" \"I don't think the big AI companies are going to survive the next few years.\" Emad co-founded Stability AI, the company behind the text-to-image generator Stable Diffusion, and he now runs Intelligent Internet, which builds open-source AI models. In his new book, The Last Economy , he argues that AI is about to make human intellect so cheap and abundant that the entire economic order — work, money, meaning — will crack apart. And he thinks this will take place within a thousand days. In this episode, he and Rufus talk about what happens if we sleepwalk into this, and what's possible if we don't. Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . The Next Big Idea Club is hosting a members-only Q&A with Michael Pollan on March 10 to discuss his new book, A World Appears. Join now for less than $9/month, and you’ll get invitations to this and other virtual events, access to our chat community, reading guides, ad-free episodes, and tons of other goodies. Visit https://join.nextbigideaclub.com/ to learn more. Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . We love getting fan mail. Sponsored By: Bitdefender — Get 30% off your plan at bitdefender.com/idea Fabric — Join the thousands of parents who trust Fabric to help protect their family at https://www.meetfabric.com/nbi Factor — Head to ⁠factormeals.com/idea50off⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at granola.ai/idea Shopify — Start your $1/month trial at ⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "description": "Emad Mostaque co-founded Stability AI, the company behind the text-to-image generator Stable Diffusion, and he now runs Intelligent Internet, which builds open-source AI models. In his new book, ⁠The Last Economy⁠, he argues that AI is about to make human intellect so cheap and abundant that the entire economic order — work, money, meaning — will crack apart. And he thinks this will take place within a thousand days. In this episode, he and Rufus talk about what happens if we sleepwalk into this, and what's possible if we don't. Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. We love getting fan mail. Sponsored By: Bitdefender — Get 30% off your plan at ⁠bitdefender.com/idea⁠ Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠meetfabric.com/nbi⁠ Factor — Head to ⁠⁠factormeals.com/idea50off⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠granola.ai/idea⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/YAP8890005549.mp3?updated=1772673293",
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3064963790.mp3?updated=1772736615",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4880",
       "speakers": [
-        "Emad Mostaque",
+        "Stable Diffusi",
         "Rufus Griscom",
         "Caleb Bissinger"
       ],
-      "topics": [
-        "economy"
-      ]
+      "topics": []
     },
     {
       "key": "8673b19f7874b03121f35d4946e05cf9a6fdea57",
@@ -7292,7 +7290,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-05 — THE LAST ECONOMY: How AI Will Change Everything in the Next 1,000 Days — speakers: Emad Mostaque, Rufus Griscom, Caleb Bissinger
+- 2026-03-05 — How AI Could Change Everything in the Next 1,000 Days — speakers: Stable Diffusi, Rufus Griscom, Caleb Bissinger
 - 2026-03-02 — Do We Even Need Politicians? — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-02-26 — Inside the Most Creative Friendship in History — speakers: Ian Leslie, Rufus Griscom, Caleb Bissinger
 - 2026-02-23 — Michael Pollan on the Mystery of Consciousness — speakers: Michael Pollan, Rufus Griscom, Caleb Bissinger
