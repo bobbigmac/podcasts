@@ -17211,6 +17211,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:4395c88a0d56",
+        "feed_title": "Making The Cut with Davina McCall & Michael Douglas",
+        "source_rss_url": "https://feeds.acast.com/public/shows/7efdc598-9786-558e-9a1a-c1ae4b17a8af",
+        "dedupe_key": "13c2df885a9c75d53d2cb59f3cb371cad4549751",
+        "episode_key": "13c2df885a9c75d53d2cb59f3cb371cad4549751",
+        "title": "SERIES 2: Episode 5 - Air Fryer, American Murder, Capturing the Friedmans, Salad Chopper, Stewart Lee",
+        "published_at": "2020-10-09T04:00:36Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We're back with another round of Making the Cut! We're literally cutting today with a listener-recommended salad chopper. Plus we're pairing the greens with air-fried chicken wings and chips. In addition to all this we talk TV shows, movies and more. Find us @makingthecutpodcast on Instagram where you can send us your ",
+        "audio_url": "https://sphinx.acast.com/making-the-cut-with-davina-mccall-and-michael-douglas/series2-episode5-airfryer-americanmurder-capturingthefriedmans-saladchopper-stewartlee/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/series-2-episode-5-air-fryer-american-murder-capturing/id1496602892?i=1000494115802&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:366e2e3ee08f",
         "feed_title": "A Good Read",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b006v8jn.rss",
@@ -18850,6 +18872,28 @@
       }
     ],
     "mike-wozniak": [
+      {
+        "feed_slug": "external:apple:4b41555acff3",
+        "feed_title": "The Hard Shoulder",
+        "source_rss_url": "https://rss.podplaystudio.com/2763.xml",
+        "dedupe_key": "55eb20afcb9566a41d4e74ef1a6fe7e08cc6fbc6",
+        "episode_key": "55eb20afcb9566a41d4e74ef1a6fe7e08cc6fbc6",
+        "title": "The Thursday Interview: Mike Wozniak",
+        "published_at": "2026-03-05T18:08:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Actor and Comedian Mike Wozniak joins Ciara and Shane for this week’s Thursday Interview!",
+        "audio_url": "https://bauernordic-pods.sharp-stream.com/ie/2763/thurs_int_edit_a0cfe106_normal.mp3?aw_0_1st.episodeid=364206&aw_0_1st.collectionid=2763",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-thursday-interview-mike-wozniak/id1155118264?i=1000753420846&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:eb09114a066f",
         "feed_title": "Always Be Comedy",
@@ -21521,6 +21565,28 @@
         "description": "LOOK OUT! It’s only Films To Be Buried With!\nJoin your host Brett Goldstein as he talks life, death, love and the universe AND all the films of 2020 (at long last) with NISH KUMAR!\nYou know what it is! A selection of films from the past year, selected by Brett and Nish for your agreement or argument! It’s marginally ov",
         "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1631428293.mp3?updated=1758120630",
         "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-films-of-2020-special-pt-1-of-2-films-to/id1408585620?i=1000506808040&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "a61e580559b2a72bc69c94b328fc294c3e636542",
+        "episode_key": "a61e580559b2a72bc69c94b328fc294c3e636542",
+        "title": "Randy Economy",
+        "published_at": "2021-01-26T18:49:22Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Andy is with Nish and Nato to look at a new dawn in US politics, some other bad people and a man called Randy Economy.\nIf you enjoyed Chris' plug for Travel Hacker at the end you can hear it here: http://pod.link/1480712081 \nBuy a loved one Bugle Merch (or some for yourself, it's allowed).\nWe have a sister show, The La",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/601064328176b16979148d08/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/randy-economy/id265799883?i=1000506655748&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
