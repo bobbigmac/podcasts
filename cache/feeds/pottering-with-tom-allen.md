@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-03-04T21:49:21+00:00`
-- checked_at: `2026-03-04T21:49:21+00:00`
+- fetched_at: `2026-03-05T07:10:32+00:00`
+- checked_at: `2026-03-05T07:10:32+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 04 Mar 2026 19:40:04 GMT`
+- last_modified: `Thu, 05 Mar 2026 05:09:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-04T21:49:21+00:00",
+  "fetched_at": "2026-03-05T07:10:32+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "29b147288dc371ebd2e8a3ca83c284488e9580da",
+      "title": "The Clippings: Part 1",
+      "published_at": "2026-03-05T05:00:00+00:00",
+      "link": null,
+      "description": "Whilst Pottering is taking a little break, we’re bringing you some of my favourite moments from the first series, The Clippings if you will. 🌱 Join us this week to hear from Rob Beckett, Suzi Ruffell, James Gill, Gabby Best, Phil Wang, Lee Peart and Natalie Cassidy. A truly glorious gathering for the garden. We cover everything from Christmas chaos to cocktail creation, with a few horticultural musings along the way, naturally. So, pop on those wellies, pour yourself a Martini, and join me once more for some Pottering. 🌿🍸 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4920979782.mp3?updated=1772653497",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4244",
+      "speakers": [
+        "Whilst Pottering",
+        "Tom Allen"
+      ],
+      "topics": [
+        "clipping"
+      ]
+    },
     {
       "key": "80891cee96c332f1bf4da3c5ddd087a09667efec",
       "title": "A Message From Tom",
@@ -531,6 +550,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — The Clippings: Part 1 — speakers: Whilst Pottering, Tom Allen
 - 2026-02-26 — A Message From Tom — speakers: Tom Hello, Tom Allen
 - 2026-02-19 — Charlie Baker and Sam Battersea — speakers: Charlie Baker, Sam Battersea, Tom Allen
 - 2026-02-12 — Gareth Howells — speakers: Gareth Howells, Tom Allen
