@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-03-04T09:58:05+00:00`
-- checked_at: `2026-03-04T09:58:05+00:00`
-- last_modified: `Wed, 04 Mar 2026 08:29:00 GMT`
+- fetched_at: `2026-03-05T16:02:53+00:00`
+- checked_at: `2026-03-05T16:02:53+00:00`
+- last_modified: `Thu, 05 Mar 2026 14:30:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-04T09:58:05+00:00",
+  "fetched_at": "2026-03-05T16:02:53+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -34,10 +34,10 @@
       "link": null,
       "description": "LOOK OUT! It’s only Films To Be Buried With! A REWIND CLASSIC! Join your host Brett Goldstein as he talks life, death, love and the universe with the fabulous actor HIMESH PATEL ! Original writeup below: You'll likely know the excellent Himesh from films such as Yesterday , or perhaps the pallindromological Tenet , but you are also very likely to be aware of his work on the smaller screen in shows such as Avenue 5 , Station 11 or the behemoth that is Eastenders (the unbingeable one). Well, here is your chance to get acquainted with Himesh himself, as we hear about it all - the act of crying at films becoming a fork in the road for the future, re-examining problematic films, TV vs film process, and the difference in being recognized from both media. A lovely one right here! ⁠ Video and extra audio available on Brett's Patreon! ⁠ ⁠ IMDB ⁠ ⁠ INSTAGRAM ⁠ ⁠ STATION 11 ⁠ ⁠ AVENUE 5 ⁠ ⁠ YESTERDAY ⁠ ⁠ TENET ⁠ ⁠ ENJOY ⁠ / ⁠TWO DOSAS⁠ / ⁠ THE FOX ⁠ ⁠⁠⁠ ⁠ BRETT • X ⁠ ⁠⁠⁠⁠ ⁠⁠⁠⁠ ⁠ BRETT • INSTAGRAM ⁠ ⁠⁠⁠⁠ ⁠⁠⁠⁠ ⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠ ⁠⁠⁠⁠ ⁠⁠⁠⁠ ⁠ TED LASSO ⁠ ⁠⁠⁠⁠ ⁠⁠⁠⁠ ⁠ SHRINKING ⁠ ⁠⁠⁠⁠ ⁠⁠⁠⁠ ⁠ ALL OF YOU ⁠ ⁠⁠⁠⁠ ⁠⁠⁠⁠ ⁠ SOULMATES ⁠ ⁠⁠⁠⁠ ⁠⁠⁠⁠ ⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4982100114.mp3?updated=1772569522",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4982100114.mp3?updated=1772721318",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3846",
+      "itunes_duration": "3906",
       "speakers": [
         "Himesh Patel",
         "Brett Goldstein"

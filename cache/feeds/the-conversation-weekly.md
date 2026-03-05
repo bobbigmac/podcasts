@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-03-05T13:36:49+00:00`
-- checked_at: `2026-03-05T13:36:49+00:00`
-- etag: `"24041e-64c45bac5a5af"`
-- last_modified: `Thu, 05 Mar 2026 12:03:50 GMT`
+- fetched_at: `2026-03-05T16:02:53+00:00`
+- checked_at: `2026-03-05T16:02:53+00:00`
+- etag: `"241d1b-64c489dc93b29"`
+- last_modified: `Thu, 05 Mar 2026 15:30:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-03-05T13:36:49+00:00",
+  "fetched_at": "2026-03-05T16:02:53+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "df83e091b730f7f14c7b940748c84ad843e151ff",
+      "title": "Was the Gulf blindsided on Iran?",
+      "published_at": "2026-03-05T15:30:00+00:00",
+      "link": "https://theconversation.com/the-gulfs-delicate-balancing-act-between-the-us-and-iran-is-now-in-flames-277449",
+      "description": "As Israel and the US continued to bomb Iran after killing the country's supreme leader Ali Khamenei, Iran lashed out at its neighbours with multiple drone strikes, including against the US embassy in Riyadh. Saudi Arabia and Iran have a long and bitter rivalry. Yet, in recent years, the Saudis had begun building new diplomatic relationship with Iran, even as they and other Gulf states continued to host American military bases, and court American investment. Now the Gulf states find themselves in the middle of the very regional conflict many of its leaders hoped to avoid. It's one which threatens longstanding efforts to cement the Gulf as a hub for finance, travel and tourism, and as an oasis of security. Were they blindsided? Or did some actually want the US to attack Iran? With the US and Israel seemingly calling the shots, what will the Gulf states do now? In today's episode, we speak to Simon Mabon , a professor of international relations at Lancaster University in the UK and expert in Saudi-Iran relations, about how the Gulf's delicate balancing act between the US and Iran came toppling down. This episode was written and produced by Mend Mariwany and Katie Flood. The executive producers was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/33d9b883-1957-44f8-93d6-24174463b9b0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41275811",
+      "itunes_duration": "28:40",
+      "speakers": [
+        "Ali Khamenei",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "gulf",
+        "iran"
+      ]
+    },
     {
       "key": "d7e07db7eb65a9f980fbb9ecfbad5af8c5d298c3",
       "title": "South Korea's birth rate is rising, but the population is still shrinking",
@@ -5684,6 +5704,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — Was the Gulf blindsided on Iran? — speakers: Ali Khamenei, Gemma Ware
 - 2026-02-26 — South Korea's birth rate is rising, but the population is still shrinking — speakers: South Korea, Gemma Ware
 - 2026-02-19 — The 'national humiliation' behind Russia's war on Ukraine — speakers: Vladmir Putin, Gemma Ware
 - 2026-02-12 — How Minneapolis is organising against ICE — speakers: How Minneapolis, Gemma Ware

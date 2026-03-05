@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-05T13:36:49+00:00`
-- checked_at: `2026-03-05T13:36:49+00:00`
-- etag: `W/"2074c-m+Yss+Ei00Vzx6Knd3LH/FVvP/4"`
+- fetched_at: `2026-03-05T16:02:53+00:00`
+- checked_at: `2026-03-05T16:02:53+00:00`
+- etag: `W/"1f9d4-J7bEPe1fv0qsd3rzX1Qmzmz6Hhw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,75 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-05T13:36:49+00:00",
+  "fetched_at": "2026-03-05T16:02:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "9c2ea7409c37dc65b99059d6783da033cf4aa015",
-      "title": "#26 Jon Richardson Podcast with John Robins",
-      "published_at": "2026-03-05T11:42:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/26-Jon-Richardson-Podcast-with-John-Robins-e3ful9q",
-      "description": "#26 Jon Richardson Podcast with John Robins",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772653382301-e942c97255bcb.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116396794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-4%2F09aaf153-e87a-f693-18d1-dfd818f41d31.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58104320",
-      "itunes_duration": "01:20:41",
-      "speakers": [
-        "John Robins"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "john",
-        "robins"
-      ]
-    },
-    {
-      "key": "64892fc998d6780df2fc512b3b2ec2e0e42962ed",
-      "title": "#25 Jon Richardson Podcast with Richard Herring",
-      "published_at": "2026-03-05T06:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/25-Jon-Richardson-Podcast-with-Richard-Herring-e3ful6b",
-      "description": "#25 Jon Richardson Podcast with Richard Herring",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772653231407-fe6b7c77a2906.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116396683/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-4%2F0348231f-9f16-2679-e0cd-0382826dfa6d.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57804512",
-      "itunes_duration": "01:20:16",
-      "speakers": [
-        "Richard Herring"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "richard",
-        "herring"
-      ]
-    },
-    {
-      "key": "45c168d3cbc0a2d6384e133fa654142adcf82b6f",
-      "title": "#24 Jon Richardson Podcast with Rob Deering",
-      "published_at": "2026-03-04T19:34:54+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/24-Jon-Richardson-Podcast-with-Rob-Deering-e3fuku5",
-      "description": "#24 Jon Richardson Podcast with Rob Deering",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772652867444-51e1884b27be3.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116396421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-4%2Fa010e1ec-2547-9883-06c8-51e5f54e2544.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "53539808",
-      "itunes_duration": "01:14:21",
-      "speakers": [
-        "Rob Deering"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "deering"
-      ]
-    },
     {
       "key": "98d67b87275cb4c73270c5ba7a43b1f32d0439e4",
       "title": "#23 Jon Richardson Podcast with Danny Buckler",
@@ -2319,9 +2257,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-05 — #26 Jon Richardson Podcast with John Robins — speakers: John Robins
-- 2026-03-05 — #25 Jon Richardson Podcast with Richard Herring — speakers: Richard Herring
-- 2026-03-04 — #24 Jon Richardson Podcast with Rob Deering — speakers: Rob Deering
 - 2026-03-03 — #23 Jon Richardson Podcast with Danny Buckler — speakers: Danny Buckler
 - 2026-03-02 — #22 Jon Richardson Podcast with Rhod Gilbert
 - 2026-03-02 — #21 Jon Richardson Podcast with Pappys Fun Club

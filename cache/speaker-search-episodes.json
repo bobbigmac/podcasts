@@ -6240,6 +6240,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:6a5067c2e100",
+        "feed_title": "TV RELOAD",
+        "source_rss_url": "https://www.omnycontent.com/d/playlist/fa326977-3de5-4283-9b8b-af3500c58607/4a19b358-ac3e-488a-98a2-af4600179ff1/282ca51a-3fe6-49a8-9dc3-af460017a008/podcast.rss",
+        "dedupe_key": "4bc825cb05dfb55b4553f7842cf692c83b8fb80e",
+        "episode_key": "4bc825cb05dfb55b4553f7842cf692c83b8fb80e",
+        "title": "HARRY HILLS - (DIRTY HARRY) - AUSTRALIAN SURVIVOR",
+        "published_at": "2026-03-05T05:24:44Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode of TV Reload, host Benjamin Norris chats with Harry Hills, aka Dirty Harry, about his latest Australian Survivor experience. Harry shares his thoughts on being a returning player, the challenges of playing with a legacy and the impact of his reputation on the game.\n They dive into the drama surrounding ",
+        "audio_url": "https://mgln.ai/e/187/traffic.omny.fm/d/clips/fa326977-3de5-4283-9b8b-af3500c58607/4a19b358-ac3e-488a-98a2-af4600179ff1/ef6021c4-41f3-457d-be87-b40400552ae7/audio.mp3?utm_source=Podcast&in_playlist=282ca51a-3fe6-49a8-9dc3-af460017a008",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hills-dirty-harry-australian-survivor/id1546841378?i=1000753168950&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bb2224026702",
         "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
         "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
@@ -6848,6 +6870,28 @@
         "description": "This week Harry has some time to kill on the railway platform. What will his noise be and when will he make it?\nA Lucky Features and Plosive production.\nMusic by Steve Brown.\nArtwork by Harry Hill.\n Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://sphinx.acast.com/harry-hills-noise/ep15-waitingofatrain/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/ep-15-waiting-for-a-train/id1535626300?i=1000527196827&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5ca3e9cec517",
+        "feed_title": "Harry Hill’s Noise",
+        "source_rss_url": "https://feeds.acast.com/public/shows/9c9a39c5-a525-4006-85e8-c4bb1d12bb5f",
+        "dedupe_key": "c92a5d61d35f6ebdf1bd0e6ac894dd8c5bfd7baf",
+        "episode_key": "c92a5d61d35f6ebdf1bd0e6ac894dd8c5bfd7baf",
+        "title": "Ep 12: Making Popcorn",
+        "published_at": "2021-06-08T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week Harry is treating himself to some homemade popcorn with plenty of butter. What will his noise be and when will he make it?\nA Lucky Features and Plosive production.\nMusic by Steve Brown.\nArtwork by Harry Hill.\n Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/harry-hills-noise/ep12-makingpopcorn/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-12-making-popcorn/id1535626300?i=1000524592958&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -13687,6 +13731,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:94236977612e",
+        "feed_title": "Distraction Pieces Podcast with Scroobius Pip",
+        "source_rss_url": "https://feeds.acast.com/public/shows/ad4e2f12-9862-4cf6-b6af-3ae392c45fad",
+        "dedupe_key": "4e3b1ae1ae6a50a297b9f56e683b34906f7f837b",
+        "episode_key": "4e3b1ae1ae6a50a297b9f56e683b34906f7f837b",
+        "title": "Alex Horne - Distraction Pieces Podcast with Scroobius Pip #181",
+        "published_at": "2017-12-13T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome, welcome and a third customary welcome to YOU, dear Distraction Pieces Podcast listener, and to the one hundred and eighty first episode! A damn fine, properly solid episode it is too, as your loyal host Scroobius Pip is joined by creator and star of 'Taskmaster' (and very good friend of Tim Key), Alex Horne!\nG",
+        "audio_url": "https://sphinx.acast.com/distractionpieces/alexhorne-distractionpiecespodcastwithscroobiuspip-181/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-distraction-pieces-podcast-with-scroobius/id929136539?i=1000397179727&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:edbc4f4d67d5",
         "feed_title": "The Comedian's Comedian Podcast",
         "source_rss_url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
@@ -13824,6 +13890,28 @@
         "feed_slug": "external:apple:f0e5f1b08719",
         "feed_title": "Alex Horne Breaks the News",
         "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "3d091ada9bce65352c691738fa2261903373e354",
+        "episode_key": "3d091ada9bce65352c691738fa2261903373e354",
+        "title": "Alex Horne, Katherine Ryan, Brett Goldstein and Ray Peacock",
+        "published_at": "2014-06-06T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Alex is joined by three, yes three, comedians this week. Ray Peacock, Katherine Ryan and Brett Goldstein. Its a triumvirate of great comedy guests. Triumvirate! there we said it again. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-katherine-ryan-brett-goldstein-and-ray-peacock/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-katherine-ryan-brett-goldstein-and-ray-peacock/id1133204823?i=1000372293464&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
         "dedupe_key": "09d573f21c4f4864e9da4c5805c020f1d265953e",
         "episode_key": "09d573f21c4f4864e9da4c5805c020f1d265953e",
         "title": "Alex Horne, Adam Riches, Craig Campbell and Ian Smith",
@@ -13855,6 +13943,28 @@
         "description": "Andy Zaltzman and Liam Williams join alex at Dave towers for a hefty dose of wit, wonder and whimsy. Oh dear, at least the podcast is better than this intro. Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-andy-zaltzman-liam-williams-and-deep-sam-pearson/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-andy-zaltzman-liam-williams-and-deep-sam-pearson/id1133204823?i=1000372293487&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "40bd600dedd059c69d992935de94d502c9027f98",
+        "episode_key": "40bd600dedd059c69d992935de94d502c9027f98",
+        "title": "Alex Horne and The Walshes",
+        "published_at": "2014-05-16T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Alex is joined by three of the members of Irish sketch wizards Diet of Worms; Shane, Amy and Niall. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-and-the-walshes/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-and-the-walshes/id1133204823?i=1000372293474&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
