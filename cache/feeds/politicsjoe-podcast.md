@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-04T19:07:35+00:00`
-- checked_at: `2026-03-04T19:07:35+00:00`
-- etag: `"djEuMi4wOjE3NzI2NDY1ODg0MTM="`
+- fetched_at: `2026-03-05T13:36:49+00:00`
+- checked_at: `2026-03-05T13:36:49+00:00`
+- etag: `"djEuMi4wOjE3NzI3MTcxMDY3MjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-04T19:07:35+00:00",
+  "fetched_at": "2026-03-05T13:36:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4217d1d01e6e636f03b61da24486b5ec115ebc1e",
+      "title": "I was cancelled for calling the Green Party middle-class",
+      "published_at": "2026-03-05T12:40:10+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69a958ce97f00280f0c80f9b",
+      "description": "Lisa McKenzie is an academic who fell into an online storm when her tweets about Hannah Spencer and class went viral. Lisa joins Andy in our first episode of Cancelled to share her views from the time, whether they've changed, and the wider class dynamics at play in British politics. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69a958ce97f00280f0c80f9b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37719965",
+      "itunes_duration": "26:10",
+      "speakers": [
+        "Lisa McKenzie",
+        "Hannah Spencer"
+      ],
+      "topics": [
+        "green",
+        "party",
+        "class"
+      ]
+    },
     {
       "key": "b72b0a93ae1c3878f65ae24fc44146f606bdeaa1",
       "title": "Are the Tories pushing for Iraq 2.0? | PMQs Analysis",
@@ -11823,6 +11844,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — I was cancelled for calling the Green Party middle-class — speakers: Lisa McKenzie, Hannah Spencer
 - 2026-03-04 — Are the Tories pushing for Iraq 2.0? | PMQs Analysis
 - 2026-03-03 — What the media aren't telling you about Trump and Iran | Scott Lucas interview — speakers: Scott Lucas
 - 2026-03-02 — Gorton and Denton goes Green — speakers: Hannah Spencer

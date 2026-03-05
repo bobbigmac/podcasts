@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-03-05T07:10:32+00:00`
-- checked_at: `2026-03-05T07:10:32+00:00`
-- etag: `W/"14376f71c1932282b2a52e3292922aeb"`
-- last_modified: `Thu, 05 Mar 2026 04:00:00 GMT`
+- fetched_at: `2026-03-05T13:36:49+00:00`
+- checked_at: `2026-03-05T13:36:49+00:00`
+- etag: `W/"31b4807c33359507a478d0dc7ad5fff6"`
+- last_modified: `Thu, 05 Mar 2026 10:51:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-03-05T07:10:32+00:00",
+  "fetched_at": "2026-03-05T13:36:49+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -34,7 +34,7 @@
       "title": "“No Winston Churchill”: is the special relationship over?",
       "published_at": "2026-03-05T04:00:00+00:00",
       "link": "https://audioboom.com/posts/8869417",
-      "description": "A world leader has been assassinated, schools and hospitals have been hit, and Donald Trump thinks that Keir Starmer is no Winston Churchill. It’s all kicking off as the US and Israel’s illegal war escalates across the Middle East. All of this with the open admission of no real plan for what comes next. Struggling to absorb it all? Wondering if there’s another way? British-Iranian peace strategist Sanam Naraghi Anderlini MBE is here to fill us in. She joins Coco and comedian Sophie Duker, who is in the hotseat for Nish this week. Soaring oil prices was not the backdrop Chancellor Rachel Reeves was hoping for ahead of her second Spring Statement. Finalised before the conflict broke out, her economic plan was “Trumped” before it was even delivered - so where does this leave the economy? Plus - just as the UK gets dragged into this latest destabilising conflict, Home Secretary Shabana Mahmood rips up the rules on UK asylum. Got a burning question for Nish or Coco? Big or small - they will be answered in a special episode! Email: psuk@reducedlistening.co.uk CHECK OUT THESE DEALS FROM OUR SPONSORS WISE https://www.wise.com SHOPIFY https://www.shopify.co.uk/podsavetheuk SURFSHARK https://www.surfshark.com/podsave Code: PODSAVE GUEST Sanam Naraghi Anderlini MBE, founder and CEO of the International Civil Society Action Network (ICAN) USEFUL LINKS Sophie Duker https://thesophieduker.com/ CREDITS Sophie Duker - Live at the Apollo / BBC One Keir Starmer / X Parliament TV PBS News Hour / YouTube BBC News Zoe Gardner / IG Manchester Evening News Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "description": "A world leader has been assassinated, schools and hospitals have been hit, and Donald Trump thinks that Keir Starmer is no Winston Churchill. It’s all kicking off as the US and Israel’s illegal war escalates across the Middle East. All of this with the open admission of no real plan for what comes next. Struggling to absorb it all? Wondering if there’s another way? British-Iranian peace strategist Sanam Naraghi Anderlini MBE is here to fill us in. She joins Coco and comedian Sophie Duker, who is in the hotseat for Nish this week. Soaring oil prices was not the backdrop Chancellor Rachel Reeves was hoping for ahead of her second Spring Statement. Finalised before the conflict broke out, her economic plan was “Trumped” before it was even delivered - so where does this leave the UK? Plus - just as the UK gets dragged into this latest destabilising conflict, Home Secretary Shabana Mahmood rips up the rules on UK asylum. Got a burning question for Nish or Coco? Big or small - they will be answered in a special episode! Email: psuk@reducedlistening.co.uk CHECK OUT THESE DEALS FROM OUR SPONSORS WISE https://www.wise.com SHOPIFY https://www.shopify.co.uk/podsavetheuk SURFSHARK https://www.surfshark.com/podsave Code: PODSAVE GUEST Sanam Naraghi Anderlini MBE, founder and CEO of the International Civil Society Action Network (ICAN) USEFUL LINKS Sophie Duker https://thesophieduker.com/ If You Were In Charge with Sanam Naraghi Anderlini and Kavita Nandini Ramdas. https://podcasts.apple.com/gb/podcast/if-you-were-in-charge/id1770618616 CREDITS Sophie Duker - Live at the Apollo / BBC One Keir Starmer / X Parliament TV PBS News Hour / YouTube BBC News Zoe Gardner / IG Manchester Evening News Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43512902.jpg",
       "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8869417.mp3?modified=1772653160&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",

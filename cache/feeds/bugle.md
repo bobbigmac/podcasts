@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-03-04T21:49:21+00:00`
-- checked_at: `2026-03-04T21:49:21+00:00`
-- etag: `"djEuMi4wOjE3NzI2NTE1NTM0NjQ="`
+- fetched_at: `2026-03-05T13:36:49+00:00`
+- checked_at: `2026-03-05T13:36:49+00:00`
+- etag: `"djEuMi4wOjE3NzI3MDU3MzE1NTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-03-04T21:49:21+00:00",
+  "fetched_at": "2026-03-05T13:36:49+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -28,13 +28,13 @@
   ],
   "episodes": [
     {
-      "key": "948eb0faea752577711907f694c7ac2dd1f5c402",
+      "key": "9a297edc59decbf7536d0b113cad4a8189802d6b",
       "title": "Iran, Trump, and Kerala goes through a name change",
-      "published_at": "2026-03-04T16:03:00+00:00",
-      "link": "https://shows.acast.com/thebugle/episodes/iran-trump-and-kerala-goes-through-a-name-change",
+      "published_at": "2026-03-05T10:14:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/iran-trump-kerala-goes-through-a-name-change",
       "description": "On this week of The Bugle, Andy is joined by Ria Lina and Anuvab Pal as they unpack the turbulent week just gone, with attacks across the Middle East and the death of the Ayatollah, the supreme leader of Iran. The trio discuss Trump's next moves as well as it's clear to see he hasn't taken the Nobel Peace snub very well! And there's news from India that Kerala will now on go by a new name, but don't worry it's not too hard to remember. That's Bugle issue number 4370! 🇮🇷 Iran: Andy, Ria and Anuvab unpack the turbulent week, with attacks across the Middle East 🇺🇸 Trump: The trio discuss Trump's reaction and next moves, as he remains bitter over his Nobel Peace snub ﻿ 🇮🇳 Kerala Name Change: Kerala, the most popular tourist spot in the country changes it's name Andy's Links: andyzaltzman.co.uk Ria Lina's Links: https://www.instagram.com/rialina_/ Anuvab Pal's Links: https://anuvabpal.com/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69a85544f413fba64f52e91f/media.mp3",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69a9574f97f00280f0c79654/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44583287",
       "itunes_duration": "46:26",
@@ -13996,7 +13996,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-04 — Iran, Trump, and Kerala goes through a name change — speakers: Anuvab Pal, Andy Zaltzman
+- 2026-03-05 — Iran, Trump, and Kerala goes through a name change — speakers: Anuvab Pal, Andy Zaltzman
 - 2026-02-18 — Munich Security Conference, Cuban Cigar Crisis and RFK and the Toilet Seat — speakers: Helen Zaltzman, Andy Zaltzman
 - 2026-02-11 — Starmer on the ropes, Trump's social media antics and Olympians resulting to penis enlargement to win big! — speakers: Neil Delamere, Alice Fraser, Andy Zaltzman
 - 2026-02-04 — Melania hits the Big Screen, Starmer's trip to China and a Potential back-up planet found? — speakers: Anuvab Pal, Sara Barron, Andy Zaltzman

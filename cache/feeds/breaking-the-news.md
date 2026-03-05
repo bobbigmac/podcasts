@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-02-27T15:52:23+00:00`
-- checked_at: `2026-02-27T15:52:23+00:00`
-- etag: `"43608c0492d2b0cb7a63f58e65780f46"`
-- last_modified: `Fri, 27 Feb 2026 15:26:31 GMT`
+- fetched_at: `2026-03-05T13:36:49+00:00`
+- checked_at: `2026-03-05T13:36:49+00:00`
+- etag: `"25913c8e0de98640b426155f71acdaef"`
+- last_modified: `Thu, 05 Mar 2026 12:34:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-02-27T15:52:23+00:00",
+  "fetched_at": "2026-03-05T13:36:49+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -172,36 +172,6 @@
         "scott",
         "agnew"
       ]
-    },
-    {
-      "key": "71d1b0b605d48a769a5a17d323a4bf4f82bebf42",
-      "title": "Susie McCabe, Ahir Shah, Elaine Malcolmson and Chris Thorburn",
-      "published_at": "2025-12-05T14:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002n0fn",
-      "description": "Des and the teams break up the week's big news. Including: The fallout from Rachel Reeves's Budget, Gaelic and Scots being recognised as official languages, the prickly debate around Christmas trees, travelling from Dull to Vienna, Zarah Sultana’s new political party and more. Lead Writer: Adele Cliff Additional material: Darren Miller & Grant Morrison, Nathan Cowley, Rebecca Bain & Alex Garrick Wright , Andrew Duthie, Skylar Macdonald, Alan Hazlie, Matt Oakley, Chris Willshaw Producer: Chris Quilietti Senior Producer: Lauren Mackay Series Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mlrbwt.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Susie McCabe",
-        "Ahir Shah",
-        "Elaine Malcolmson",
-        "Chris Thorburn",
-        "Rachel Reeves",
-        "Bbc Radio Scotland"
-      ],
-      "topics": [
-        "susie",
-        "mccabe",
-        "ahir",
-        "shah",
-        "elaine",
-        "malcolmson",
-        "chris",
-        "thorburn"
-      ]
     }
   ]
 }
@@ -216,4 +186,3 @@
 - 2025-12-26 — The Best of Unbroadcast — speakers: Unbroadcast Join Des Clarke, Bbc Radio Scotland
 - 2025-12-19 — 10 Years of Breaking the News — speakers: Lead Writer, Laura Major, Bbc Radio Scotland
 - 2025-12-12 — Vittorio Angelone, Kathleen Hughes, Tiffany Stevenson and Scott Agnew — speakers: Vittorio Angelone, Kathleen Hughes, Scott Agnew, Bbc Radio Scotland
-- 2025-12-05 — Susie McCabe, Ahir Shah, Elaine Malcolmson and Chris Thorburn — speakers: Susie McCabe, Ahir Shah, Elaine Malcolmson, Chris Thorburn, Rachel Reeves, Bbc Radio Scotland
