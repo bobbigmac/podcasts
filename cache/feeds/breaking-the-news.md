@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-03-05T13:36:49+00:00`
-- checked_at: `2026-03-05T13:36:49+00:00`
-- etag: `"25913c8e0de98640b426155f71acdaef"`
-- last_modified: `Thu, 05 Mar 2026 12:34:02 GMT`
+- fetched_at: `2026-03-06T15:54:08+00:00`
+- checked_at: `2026-03-06T15:54:08+00:00`
+- etag: `"470b78233897f01185416f26825e00ff"`
+- last_modified: `Fri, 06 Mar 2026 14:16:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-03-05T13:36:49+00:00",
+  "fetched_at": "2026-03-06T15:54:08+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -30,6 +30,34 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "e0fda0a9b1595abb959fe05af6d68783490f4379",
+      "title": "Felicity Ward, Mark Nelson, Kathleen Hughes and James Gardner",
+      "published_at": "2026-03-06T14:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002s4ml",
+      "description": "Des and the teams break up the week's big news. Including: the latest events in the Middle East, new ferry contracts for Ferguson Marine, the use of AI in customer service, research into ‘baby brain’, an exciting new reality show and more. Lead Writer: Gregor Paton Additional material: Stephen Holford, Chris Stanners, Uttom Chowdhury & Steve Trott, James Docherty, Gordon Watson, Nathan Cowley, Cooper Mawhinney Sweryt, Lucienne Cummings, Robbie Taylor-Hunt, Claire Cox, Rachel Powell Producer: Chris Quilietti Senior Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n517z5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Mark Nelson",
+        "Kathleen Hughes",
+        "James Gardner Des",
+        "Bbc Radio Scotland"
+      ],
+      "topics": [
+        "felicity",
+        "ward",
+        "mark",
+        "nelson",
+        "kathleen",
+        "hughes",
+        "james",
+        "gardner"
+      ]
+    },
     {
       "key": "882cf8fe71d2858dc0d78c8d3368ec4db5c14853",
       "title": "Jay Lafferty, Robin Ince, Sam Lake and Amanda Hursy",
@@ -180,6 +208,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — Felicity Ward, Mark Nelson, Kathleen Hughes and James Gardner — speakers: Mark Nelson, Kathleen Hughes, James Gardner Des, Bbc Radio Scotland
 - 2026-02-27 — Jay Lafferty, Robin Ince, Sam Lake and Amanda Hursy — speakers: Jay Lafferty, Robin Ince, Sam Lake, Peter Mandelson, Bbc Radio Scotland
 - 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Bbc Radio Scotland
 - 2026-01-01 — Breaking the Year — speakers: Bbc Radio Scotland

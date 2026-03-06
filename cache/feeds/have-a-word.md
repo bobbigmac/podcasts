@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-03-02T03:11:19+00:00`
-- checked_at: `2026-03-02T03:11:19+00:00`
-- etag: `"djEuMi4wOjE3NzI0MTAyMzkzNDk="`
+- fetched_at: `2026-03-06T15:54:08+00:00`
+- checked_at: `2026-03-06T15:54:08+00:00`
+- etag: `"djEuMi4wOjE3NzI4MDk5NTM3NzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-03-02T03:11:19+00:00",
+  "fetched_at": "2026-03-06T15:54:08+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
