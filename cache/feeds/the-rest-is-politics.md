@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-03-05T21:50:34+00:00`
-- checked_at: `2026-03-05T21:50:34+00:00`
-- last_modified: `Thu, 05 Mar 2026 20:52:39 GMT`
+- fetched_at: `2026-03-06T03:08:29+00:00`
+- checked_at: `2026-03-06T03:08:29+00:00`
+- last_modified: `Fri, 06 Mar 2026 00:00:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/3f50b7a1b1632c03b74bec14bb7de2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-05T21:50:34+00:00",
+  "fetched_at": "2026-03-06T03:08:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "593f0124b9c023b4154d16d3880c55578e70560f",
+      "title": "The Future of Warfare: Anthropic vs Open AI",
+      "published_at": "2026-03-05T23:55:00+00:00",
+      "link": null,
+      "description": "Is Europe sleepwalking into American AI dependency? Are we building toward a world where AI genuinely thinks for itself? And as AI becomes the backbone of modern warfare, who's really in control? Join Rory Stewart and Matt Clifford as they answer all of these questions and more. For the full AI series, sign up at therestispolitics.com For more Goalhanger Podcasts, head to goalhanger.com Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: James Clayden Producer: India Dunkley Assistant Producer: Daisy Alston-Horne Senior Producer: Callum Hill Exec Producer: Tom Whiter For more Goalhanger Podcasts, head to goalhanger.com Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2ba6ffb4-18a0-11f1-9adc-4b6f7ab8dce7/image/4507e44a938e90f363cf741577a98035.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7687754289.mp3?updated=1772753522",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "674",
+      "speakers": [],
+      "topics": [
+        "future",
+        "warfare",
+        "anthropic"
+      ]
+    },
     {
       "key": "65b0029efa993d6c32c0d17e79c47d6d881293c7",
       "title": "509. Labour's Polanski Problem and the Student Loans Scandal (Question Time)",
@@ -11249,6 +11267,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — The Future of Warfare: Anthropic vs Open AI
 - 2026-03-05 — 509. Labour's Polanski Problem and the Student Loans Scandal (Question Time) — speakers: Polanski Problem
 - 2026-03-04 — 508. Is Starmer Sleepwalking into War with Iran?
 - 2026-03-01 — 507. The Ayatollah Is Killed - REACTION

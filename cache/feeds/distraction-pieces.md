@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-04T02:50:53+00:00`
-- checked_at: `2026-03-04T02:50:53+00:00`
-- etag: `"djEuMi4wOjE3NzI1ODI0OTk1MzI="`
+- fetched_at: `2026-03-06T03:08:29+00:00`
+- checked_at: `2026-03-06T03:08:29+00:00`
+- etag: `"djEuMi4wOjE3NzI3NTUyOTk0NTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-04T02:50:53+00:00",
+  "fetched_at": "2026-03-06T03:08:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "67e3823e2fd7b26d40fde705095702dd425bfe23",
+      "title": "JOE CORNISH (The Kid Who Would Be King / Attack The Block / Adam & Joe) • Friday Rewind",
+      "published_at": "2026-03-06T00:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Joe Cornish , originally episode 253 from 2019-02-15. Original writeup below: Consider this the counterpart to the much earlier Adam Buxton episode, if you will, what with Joe being Adam long term co-conspirator and collaborator! Between them they very much had a hand in those early days of podcasting, which was something of a direct offshoot of radio but with a very creative and premeditated approach, not to mention their amazing TV work… With both of them going their separate ways and moving onto a ton of incredible work between them, it’s been hugely inspiring to see the individual sides of the two, and Joe breaks down his recent work and creative projects including of course, ‘Attack The Block’ and brand new film ‘The Kid Who Would Be King’ (showing by the time you read this)! Hear Joe go in on everything else besides too, including film reactions from kids, violence in modern kids films, how he valued seeing himself in kids films (as a young’un), the “Supermarket Sweep of hell” of an approaching film deadline and its many intangible obstacles, how it’s tough to truly enjoy your own film creations as you know too much about them and his own Super8 films back in the day, made with pals Buxton and Louis Theroux! A lot packed into a shorter episode - you’ll dig it for certain! PIP'S PATREON PAGE if you're of a supporting nature JOE CORNISH on THE INTERNET THE KID WHO WOULD BE KING IMDB PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1772452979259-95654bdb-8151-4ec3-82b3-fd0d4c7a2810.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69a57cd1a48c2e1548836252/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110899977",
+      "itunes_duration": "46:09",
+      "speakers": [
+        "Joe Cornish"
+      ],
+      "topics": [
+        "cornish",
+        "king",
+        "attack",
+        "block",
+        "adam",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "daec6fac62dcb81b582c49aa22b64a87afa9e9b6",
       "title": "HERO FIENNES TIFFIN & DONAL FINN • Young Sherlock premiers on Prime from March 4! #661",
@@ -18342,6 +18366,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — JOE CORNISH (The Kid Who Would Be King / Attack The Block / Adam & Joe) • Friday Rewind — speakers: Joe Cornish
 - 2026-03-04 — HERO FIENNES TIFFIN & DONAL FINN • Young Sherlock premiers on Prime from March 4! #661
 - 2026-02-27 — LUCY PINDER (Smashing Sundays / Me Myself & Di) • Friday Rewind
 - 2026-02-25 — JOEL FRY • further proof that The Bill & Casualty might be acting university (Stitch Head / Our Flag Means Death / Cruella) #660

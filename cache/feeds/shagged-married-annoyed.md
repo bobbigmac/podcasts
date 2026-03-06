@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-03-05T19:35:58+00:00`
-- checked_at: `2026-03-05T19:35:58+00:00`
-- last_modified: `Thu, 05 Mar 2026 17:36:33 GMT`
+- fetched_at: `2026-03-06T03:08:29+00:00`
+- checked_at: `2026-03-06T03:08:29+00:00`
+- last_modified: `Fri, 06 Mar 2026 02:08:58 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-05T19:35:58+00:00",
+  "fetched_at": "2026-03-06T03:08:29+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "67b95d9ffd0f131edd880aa42efa1e818abd1f8c",
+      "title": "A bribe, a Tom Jones obsession and some hidden Easter Eggs!",
+      "published_at": "2026-03-06T02:04:00+00:00",
+      "link": null,
+      "description": "On this week's SMA Chris and Rosie discuss their very different parenting styles, hidden easter eggs, late check outs and whether it's okay to bribe a child... They have a very unreasonable ick from a listener which neither Chris or Rosie are onboard with. They have a discussion about favourite colours which somehow leads to a conversation about The Mighty Ducks and a phone call to Kev! There is of course beefs, QFTP's, WhatsApp messages and loads more! If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30. New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4347692391.mp3?updated=1772727114",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3766",
+      "speakers": [
+        "Tom Jones",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "bribe",
+        "jones",
+        "obsession",
+        "easter",
+        "eggs"
+      ]
+    },
     {
       "key": "ad226a92e9cede4a73fa3e8f490b15461a9f669f",
       "title": "Please Keep Me Anonymous with Stevie Martin",
@@ -7857,6 +7881,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — A bribe, a Tom Jones obsession and some hidden Easter Eggs! — speakers: Tom Jones, Chris Ramsey, Rosie Ramsey
 - 2026-03-04 — Please Keep Me Anonymous with Stevie Martin — speakers: Stevie Martin, Chris Ramsey, Rosie Ramsey
 - 2026-02-27 — A new crush, a tour update and the return of Barry Beef! — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
 - 2026-02-25 — Please Keep Me Anonymous with Sara Pascoe — speakers: Sara Pascoe, Chris Ramsey, Rosie Ramsey

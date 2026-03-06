@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-03-04T02:50:53+00:00`
-- checked_at: `2026-03-04T02:50:53+00:00`
-- etag: `"djEuMi4wOjE3NzI1ODYyMTkzNjY="`
+- fetched_at: `2026-03-06T03:08:29+00:00`
+- checked_at: `2026-03-06T03:08:29+00:00`
+- etag: `"djEuMi4wOjE3NzI3NTYzNzkzMTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "Join Elis James, Mike Bubbins and Steff Garrero in Award winning Podcast \"The Socially Distant Sports Bar\". It's a Comedy & Sports Podcast, but you don't have to like Sports to LOVE it. Comedians Elis James (BBC 5Live, Sky TV's Fantasy Football League) & Mike Bubbins (BBC's Mammoth) are \"Unreasonably hilarious\" The Telegraph. \"Elis James, Mike Bubbins and Steff Garrero created a haven where they ramble on about classic clips and random recollections.\" The Guardian Known to fans as Distant Pod it has won awards at the Sports Podcast Awards & Pod Bible Awards. Hosts of \"Down The Clubhouse\" on TNT Sport another Comedy & Sports show. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-03-04T02:50:53+00:00",
+  "fetched_at": "2026-03-06T03:08:29+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "2d058eb1127733c008f1f0e2285ac3d44ba45707",
+      "title": "Mr Sassoon (pt 2)",
+      "published_at": "2026-03-06T00:19:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/mr-sassoon-pt-2",
+      "description": "Episode 301: Mr Sassoon Over 300 episodes deep and still gloriously sidetracked, Distant Pod is where Elis, Mike and Steff explore sport’s brilliance, absurdity and nostalgia through the clips, documentaries and books that caught their attention this week. 🏃‍♂️ CHARITY RUN Steff completed the Tokyo Marathon for Orchid Cancer on sunday 👉 Donate here: https://www.justgiving.com/page/the-socially-distant-sports-bar-podcast-5 🎧 PART 2 – Episode 301 Steff Documentary: The Little Prince and The Big Fight https://www.youtube.com/watch?v=BkEMVd5NjBg Mike Book: The Captain Class by Sam Walker https://amzn.to/3OiNPA2 🔒 Upgrade to Distant Pod Bonus Club on Apple for early, ad-free Parts 1 & 2 — and get Part 3 as exclusive bonus content. Click here for a NORD VPN deal https://nordvpn.com/distant CLICK HERE TO SEE CRWST's SELECTION https://crwst.cymru/collections/shop-all 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com 🎟️ TOUR 2026 Live shows are coming! 🎫 Tickets available now at distantpod.com/live Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69a42ca67221cfbf205257f1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92616960",
+      "itunes_duration": "38:35",
+      "speakers": [
+        "Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "sassoon"
+      ]
+    },
     {
       "key": "1edd6e897c80c105d4cd7a553763e2c79eea0c7a",
       "title": "Mr Sassoon (pt 1)",
@@ -14101,6 +14122,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — Mr Sassoon (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-04 — Mr Sassoon (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-01 — KenCafé: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-02-27 — Maybe Start With Public Speaking (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero

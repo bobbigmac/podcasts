@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-05T16:02:53+00:00`
-- checked_at: `2026-03-05T16:02:53+00:00`
-- etag: `"djEuMi4wOjE3NzI3MjE1NzU1NjQ="`
+- fetched_at: `2026-03-06T03:08:29+00:00`
+- checked_at: `2026-03-06T03:08:29+00:00`
+- etag: `"djEuMi4wOjE3NzI3NTUzNTkzMTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-05T16:02:53+00:00",
+  "fetched_at": "2026-03-06T03:08:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2690234ac2c3217b9b491737af7419dd5ee4855d",
+      "title": "Ep. 567 - Jake Bhardwaj - comedy creator, writer, actor, producer and self-appointed professional comedy quizmaster",
+      "published_at": "2026-03-06T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-567-jake-bhardwaj-comedy-creator-writer-actor-producer-an",
+      "description": "Jake Bhardwaj is a comedy creator, writer, actor and producer, as well as a self-appointed professional comedy quizmaster. After nearly a decade producing major entertainment shows including The Last Leg, Late Night Lycett, The Big Fat Quiz of the Year and Romesh Ranganathan’s Parents’ Evening, he has gained recognition online for his viral comedy sketches and as the creator of Not Another Quiz Night . Following a sell-out, five-star-reviewed run at the Edinburgh Festival Fringe, the high-energy chaos of his live show Not Another Quiz Night returns to the Clapham Grand in April 2026 and will be back at the Edinburgh Fringe for the full month, at 11.20pm at the Assembly Underground. Jake has also recently become the sidekick to Joe Marler on the podcast Joe Marler Will See You Now , ad launched The Pub Quiz Podcast with Liam Shaw, where they, alongside a comedy guest, tackle real pub quizzes from across the UK. Jake Bhardwaj is our guest in episode 567 of My Time Capsule and chats to Michael Fenton Stevens about the five things he'd like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Book tickets for Not Another Quiz Night at the Clapham Grand, 3rd April - https://dice.fm/event/nvwxm3-not-another-quiz-night-3rd-apr-the-clapham-grand-london-tickets . For other tickets and The Pub Quiz Pod, visit - https://www.jakebhardwaj.com . Follow Jake Bhardwaj on Instagram @jakebhardwajtv . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69a99092afc2996636364ca5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "143712046",
+      "itunes_duration": "59:52",
+      "speakers": [
+        "Jake Bhardwaj comedy",
+        "Jake Bhardwaj"
+      ],
+      "topics": [
+        "jake",
+        "bhardwaj",
+        "comedy",
+        "creator",
+        "writer",
+        "actor",
+        "producer",
+        "self",
+        "quizmaster"
+      ]
+    },
     {
       "key": "8f3fab506d669db772f49856f00ee0bc350ece9b",
       "title": "Ep. 566 - Robin Ince Returns - Robin returns for a brand new time capsule!",
@@ -12029,6 +12056,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — Ep. 567 - Jake Bhardwaj - comedy creator, writer, actor, producer and self-appointed professional comedy quizmaster — speakers: Jake Bhardwaj comedy, Jake Bhardwaj
 - 2026-03-02 — Ep. 566 - Robin Ince Returns - Robin returns for a brand new time capsule! — speakers: Robin Ince Returns Robin, Robin Ince
 - 2026-02-27 — Ep. 565 - Holly White - Australian actress who Mike worked with in Panama on a film — speakers: Holly White
 - 2026-02-23 — Ep. 564 - Neil Pearson - From Drop the Dead Donkey and all four Bridget Jones films — speakers: Neil Pearson, Dave Charnley

@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-03-05T10:01:51+00:00`
-- checked_at: `2026-03-05T10:01:51+00:00`
-- etag: `"djEuMi4wOjE3NzI3MDIwNDExNDQ="`
+- fetched_at: `2026-03-06T03:08:29+00:00`
+- checked_at: `2026-03-06T03:08:29+00:00`
+- etag: `"djEuMi4wOjE3NzI3NTg4Mzk0OTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-03-05T10:01:51+00:00",
+  "fetched_at": "2026-03-06T03:08:29+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "604ab0b444fb4e5a5df48f45f1ced23aeb1c6ecc",
+      "title": "My Drunk Woman Solved a Toaster",
+      "published_at": "2026-03-06T01:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/my-drunk-woman-solved-a-toaster",
+      "description": "It's the podcast mash up you always knew you wanted but didn't dare dream would happen, as finally, Drunk Women Solving Crime hosts Hannah George and Taylor Glenn, sat down with My Mate Bought a Toaster's Tom Price so they could rifle through some dubious past online shopping sprees, and hear about the time Tom was the victim of some very unfestive pilfery Our trio of detectives then put their heads together and get to the bottom of a criminal act by a mile high perpetrator who has also appeared on many-a compilation CD. Welcome to My Drunk Women Solved a Toaster.... Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1772305692974-5a4f4dce-127d-452c-ba5d-fe1c2cb0833a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69a33dc0e1cf48c7c1faca4c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77221889",
+      "itunes_duration": "53:37",
+      "speakers": [
+        "My Drunk Woman Solved",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "drunk",
+        "woman",
+        "toaster"
+      ]
+    },
     {
       "key": "d2fdefccbe47b186ae80730b3ec923faaabfee1f",
       "title": "Adele Cliff's Original Source",
@@ -10747,6 +10769,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — My Drunk Woman Solved a Toaster — speakers: My Drunk Woman Solved, Hannah George, Taylor Glenn
 - 2026-03-04 — Adele Cliff's Original Source — speakers: Adele Cliff, Hannah George, Taylor Glenn
 - 2026-02-25 — The Naked Truth, with Madeleine Brettingham — speakers: Madeleine Brettingham, Hannah George, Taylor Glenn
 - 2026-02-20 — That's the Ticket, with AJ Stubberfield — speakers: Hannah George, Taylor Glenn
