@@ -2,6 +2,28 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:edbc4f4d67d5",
+        "feed_title": "The Comedian's Comedian Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
+        "dedupe_key": "daa7dd1ece5365ce39b976b363b44f9d4dc05be9",
+        "episode_key": "daa7dd1ece5365ce39b976b363b44f9d4dc05be9",
+        "title": "James Acaster | Hecklers Welcome (2024): ComCompendium",
+        "published_at": "2026-03-06T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With James Acaster's Hecklers Welcome hitting over 400 cinema screens this weekend - we’re looking back at his 2024 appearance on the show. Originally released in two parts, we go in depth into the creation of the show including:\n\nthe moment that led to James taking breaking from stand-upwhat it was like touring the sh",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69a9a1c96ffdcd81883a44bc/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-hecklers-welcome-2024-comcompendium/id513734888?i=1000753514649&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -15033,6 +15055,28 @@
         "description": "After Ed's stint at the Fringe, Crunch and Crumble were back together in the studio with yet another double guest bonanza. They were joined by the magnificent Sophie Duker and the fabulous Lou Sanders. There was also a surprise appearance from DJ Ed later on too. This is not a show to be missed.\nThanks for downloading ",
         "audio_url": "https://dax.captivate.fm/c522cc86-fe5c-4add-848f-f3f2550d4288/Ed-and-Matt-20th-Aug-FINAL-POD-encoded.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=6c5fd074-d352-46f9-b654-4d4649aa3772",
         "link_url": "https://podcasts.apple.com/gb/podcast/episode-217-sophie-duker-lou-sanders-dj-ed/id1467168361?i=1000625021074&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:965a9c1a2afd",
+        "feed_title": "The Graham Norton Radio Show Podcast with Waitrose",
+        "source_rss_url": "https://feeds.acast.com/public/shows/0fd42346-7544-4948-b3b8-cbf028dca8d6",
+        "dedupe_key": "b3318a77d16f8551b745f2024e07879f042af425",
+        "episode_key": "b3318a77d16f8551b745f2024e07879f042af425",
+        "title": "Nick Grimshaw in for Graham Norton: Lou Sanders",
+        "published_at": "2023-08-19T12:52:28Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Happy Saturday! Today Nick Grimshaw on The Graham Norton Radio Show with Waitrose:\nLou Sanders has a brand new memoir, What’s That Lady Doing?\nShow Chef Martha has all the tips for outdoor eating!\nAnd will there finally have a winner in Word Up?\nSee the interview with Lou Sanders on YouTube, just look up @VirginRadioUK",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/the-graham-norton-podcast/e/64e0bb0c2cfe01001167e278/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nick-grimshaw-in-for-graham-norton-lou-sanders/id1547229368?i=1000624967567&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
