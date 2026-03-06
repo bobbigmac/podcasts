@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-03T19:10:51+00:00`
-- checked_at: `2026-03-03T19:10:51+00:00`
-- etag: `"0ca91ad8b55c48c0701bf61fe3c5849f"`
-- last_modified: `Tue, 03 Mar 2026 16:00:05 GMT`
+- fetched_at: `2026-03-06T13:20:47+00:00`
+- checked_at: `2026-03-06T13:20:47+00:00`
+- etag: `"15ff8967a3a70d00929186edd7cd4dfe"`
+- last_modified: `Fri, 06 Mar 2026 10:07:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-03T19:10:51+00:00",
+  "fetched_at": "2026-03-06T13:20:47+00:00",
   "owners": [
     "Elis James",
     "John Robins"
