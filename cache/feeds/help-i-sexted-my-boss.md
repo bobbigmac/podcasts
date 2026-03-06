@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-05T07:10:32+00:00`
-- checked_at: `2026-03-05T07:10:32+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpJMk9UQTBOREV4TlRNPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-06T07:07:53+00:00`
+- checked_at: `2026-03-06T07:07:53+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpJM056WTNPREF3TkRjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-05T07:10:32+00:00",
+  "fetched_at": "2026-03-06T07:07:53+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "cfef59c72c89cd230ced21beec2fb3d47ebc62f1",
       "title": "William Ruined Jordan’s Birthday | And High-Maintenance Boys",
-      "published_at": "2026-03-05T06:00:00+00:00",
+      "published_at": "2026-03-06T05:59:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/william-ruined-jordans-birthday-and-high-maintenance-boys",
-      "description": "There’s fallout from Jordan’s birthday after William let a key part of the weekend slip through his carefully manicured fingers. There are also heated discussions about Blue Peter badges, Paddington Bear and the revelation that William has NEVER had a KFC. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "There’s fallout from Jordan’s birthday after William let a key part of the weekend slip through his carefully manicured fingers. There are also heated discussions about Blue Peter badges, Paddington Bear and the revelation that William has NEVER had a KFC. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69a889e4b862d80c3fc90922/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=m3jcFie8lDaeODIjGvxwGN-NIwucBLSGv1xdwq1Ai7M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49980337",
       "itunes_duration": "34:29",
       "speakers": [
         "William Ruined Jordan",
@@ -13856,7 +13856,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-05 — William Ruined Jordan’s Birthday | And High-Maintenance Boys — speakers: William Ruined Jordan, William Hanson, Jordan North
+- 2026-03-06 — William Ruined Jordan’s Birthday | And High-Maintenance Boys — speakers: William Ruined Jordan, William Hanson, Jordan North
 - 2026-03-03 — Help I’ve Been Probed In The Wrong Hole | And Jordan’s Got A Swell On — speakers: Jordan’s Got, William Hanson, Jordan North
 - 2026-02-27 — He Unfollowed ME? | And Jordan’s Got The Itch — speakers: William Hanson, Jordan North
 - 2026-02-24 — Help I’m Not Charging Mum’s Vibrator | And William is HIGH Maintenance — speakers: William Hanson, Jordan North

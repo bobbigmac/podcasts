@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-05T13:36:49+00:00`
-- checked_at: `2026-03-05T13:36:49+00:00`
-- etag: `"djEuMi4wOjE3NzI3MTM2ODI3NTY="`
+- fetched_at: `2026-03-06T07:07:53+00:00`
+- checked_at: `2026-03-06T07:07:53+00:00`
+- etag: `"djEuMi4wOjE3NzI3Njk0NTk0MzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-05T13:36:49+00:00",
+  "fetched_at": "2026-03-06T07:07:53+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "334476d7ecbe1a40f37bbd0ab0035e8357f89f20",
+      "title": "RHLSTP Book Club 172 - Mike Rampton",
+      "published_at": "2026-03-06T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #172 - Poo, What, Where? - Rich talks to author Mike Rampton about his latest kids’ book, Poo, What, Where? They chat about why kids (and Richard) are so fascinated by faeces, how Mike assembled his plop based facts, the scourge of celebrities thinking they can cash in with their own kids’ book (if they even write it themselves), the importance of a great illustrator and whether Mike and Rich have come up with the same book idea (and does Rich count as a celebrity author?) Buy the book here - https://uk.bookshop.org/p/books/poo-what-where-the-number-one-book-about-all-things-number-two-mike-rampton/76e1681ddfac69fd SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1771965210397-22ff0890-450d-4a94-8de4-ea5a3e4774f8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/699e0f4743ceb0105d82bfc4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25829881",
+      "itunes_duration": "49:14",
+      "speakers": [
+        "Mike Rampton",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhlstp",
+        "book",
+        "club",
+        "mike",
+        "rampton"
+      ]
+    },
     {
       "key": "489edcc13f518872de8cde5ceae4c652e908dd33",
       "title": "RHLSTP 601 - Rob Auton",
@@ -21637,6 +21660,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — RHLSTP Book Club 172 - Mike Rampton — speakers: Mike Rampton, Richard Herring
 - 2026-03-04 — RHLSTP 601 - Rob Auton — speakers: Rob Auton, Richard Herring
 - 2026-03-02 — Retro RHLSTP 135 - Sophie Ellis-Bextor — speakers: Richard Herring
 - 2026-02-28 — RAACN week 5 — speakers: Bin Laden Having, Richard Herring

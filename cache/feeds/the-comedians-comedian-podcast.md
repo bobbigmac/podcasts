@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-03-05T16:02:53+00:00`
-- checked_at: `2026-03-05T16:02:53+00:00`
-- etag: `"djEuMi4wOjE3NzI3MjQ2ODE5Nzc="`
+- fetched_at: `2026-03-06T07:07:53+00:00`
+- checked_at: `2026-03-06T07:07:53+00:00`
+- etag: `"djEuMi4wOjE3NzI3NzY4Mzk2NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-03-05T16:02:53+00:00",
+  "fetched_at": "2026-03-06T07:07:53+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "55d9f97a01b6d7011f239d760b48f141551660fa",
+      "title": "James Acaster | Hecklers Welcome (2024): ComCompendium",
+      "published_at": "2026-03-06T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/james-acaster-hecklers-welcome-2024-comcompendium",
+      "description": "With James Acaster's Hecklers Welcome hitting over 400 cinema screens this weekend - we’re looking back at his 2024 appearance on the show. Originally released in two parts, we go in depth into the creation of the show including: the moment that led to James taking breaking from stand-up what it was like touring the show and if James still hates hecklers and I put your questions to James, where we talk all things Ghostbusters , Bo Burnham and *that* Oscars moment. Join the Insiders Club at patreon.com/comcompod where you can instantly get access to an exclusive LIVE Insider's Q&A with James from 2021. 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Over an houir of exclusive extra content with James ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly-ish Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Catch Up with James: James Acaster - Cinemagoers Welcome is out now in cinemas, head to www.jamesacasterincinemas.com to find your local venue! Everything I'm up to: Come and see me LIVE including dates in Bristol , London , Manchester , Stoke , Marlborough and Mach ! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1772723821130-8789c656-9554-4bda-878f-37c9fa7dca19.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69a9a1c96ffdcd81883a44bc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136799230",
+      "itunes_duration": "1:34:32",
+      "speakers": [
+        "James Acaster",
+        "Hecklers Welcome",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "james",
+        "acaster",
+        "hecklers",
+        "welcome",
+        "comcompendium"
+      ]
+    },
     {
       "key": "c7903efc9b4b3f470af94a75923d0f7da0892c80",
       "title": "Ken Cheng",
@@ -11205,6 +11229,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — James Acaster | Hecklers Welcome (2024): ComCompendium — speakers: James Acaster, Hecklers Welcome, Stuart Goldsmith
 - 2026-02-27 — Ken Cheng — speakers: Ken Cheng Ken Cheng, Stuart Goldsmith
 - 2026-02-19 — Lindsey Santoro — speakers: Lindsey Santoro, Edinburgh Fringe, Stuart Goldsmith
 - 2026-02-12 — Shenoah Allen — speakers: Shenoah Allen Shenoah Allen, Stuart Goldsmith

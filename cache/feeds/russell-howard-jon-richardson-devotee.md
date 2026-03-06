@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-06T03:08:29+00:00`
-- checked_at: `2026-03-06T03:08:29+00:00`
-- etag: `W/"2074c-m+Yss+Ei00Vzx6Knd3LH/FVvP/4"`
+- fetched_at: `2026-03-06T07:07:53+00:00`
+- checked_at: `2026-03-06T07:07:53+00:00`
+- etag: `W/"20bc0-9YzmhvDhZZTok4TO8JII0Xhq81w"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-06T03:08:29+00:00",
+  "fetched_at": "2026-03-06T07:07:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a7ed985ac56cd3413f46d68bf60cef55dea54ddf",
+      "title": "#27 Jon Richardson Podcast with Al Pitcher",
+      "published_at": "2026-03-05T19:44:31+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/27-Jon-Richardson-Podcast-with-Al-Pitcher-e3g0d1e",
+      "description": "#27 Jon Richardson Podcast with Al Pitcher",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772739843650-cceeb7d63b923.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116453870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-5%2F4b39002e-483c-a5eb-e9f6-3d6b4d198220.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54062240",
+      "itunes_duration": "01:15:05",
+      "speakers": [
+        "Al Pitcher"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "pitcher"
+      ]
+    },
     {
       "key": "9c2ea7409c37dc65b99059d6783da033cf4aa015",
       "title": "#26 Jon Richardson Podcast with John Robins",
@@ -2319,6 +2339,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — #27 Jon Richardson Podcast with Al Pitcher — speakers: Al Pitcher
 - 2026-03-05 — #26 Jon Richardson Podcast with John Robins — speakers: John Robins
 - 2026-03-05 — #25 Jon Richardson Podcast with Richard Herring — speakers: Richard Herring
 - 2026-03-04 — #24 Jon Richardson Podcast with Rob Deering — speakers: Rob Deering
