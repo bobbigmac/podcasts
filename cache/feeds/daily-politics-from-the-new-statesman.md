@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-05T19:35:58+00:00`
-- checked_at: `2026-03-05T19:35:58+00:00`
-- etag: `"djEuMi4wOjE3NzI3MzAwMzk1MDc="`
+- fetched_at: `2026-03-06T19:03:26+00:00`
+- checked_at: `2026-03-06T19:03:26+00:00`
+- etag: `"djEuMi4wOjE3NzI4MTU4MDcyNjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-05T19:35:58+00:00",
+  "fetched_at": "2026-03-06T19:03:26+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a5ce4699d5190f6232ae8d84b41a336fd49a7c77",
+      "title": "What is the future for jury trials?",
+      "published_at": "2026-03-06T16:50:06+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/what-is-the-future-for-jury-trials",
+      "description": "On Tuesday 10 March, MPs will debate the Courts and Tribunals Bill, in what could be the biggest shakeup of the justice system since the 1970s. To tackle the Crown Court backlog of over 80,000 cases, the government has put forward proposals to radically reform which cases are heard where, including restricting the right to a trial by jury in all but the most serious cases. Sarah Sackman, Minister of State for Courts and Legal Services, speaks to Rachel Cunliffe to discuss the legislation and its potential impact on British justice. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772815746642-7f490ac5-8670-4ab2-a6eb-c8f1b93682cb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69ab05bfc2eb2fc3ab39ae44/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73667540",
+      "itunes_duration": "30:40",
+      "speakers": [
+        "Tribunals Bill",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "future",
+        "jury",
+        "trial"
+      ]
+    },
     {
       "key": "02ebc1f86c1861bb83d44c5bd8c8aaa452e7c64f",
       "title": "Exclusive: the progressive voters abandoning Labour",
@@ -30381,6 +30403,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — What is the future for jury trials? — speakers: Tribunals Bill, Anoosh Chakelian, Oli Dugmore
 - 2026-03-05 — Exclusive: the progressive voters abandoning Labour — speakers: Labour Labour, Anoosh Chakelian, Oli Dugmore
 - 2026-03-04 — Was Rachel Reeves’ spring statement out of date on arrival? — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
 - 2026-03-03 — Should the phrase "special relationship" be banned? — speakers: Anoosh Chakelian, Oli Dugmore

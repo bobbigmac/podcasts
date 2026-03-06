@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-03-05T19:35:58+00:00`
-- checked_at: `2026-03-05T19:35:58+00:00`
-- etag: `"7bb84d423dce10e3ec375a6cab22d0b8"`
-- last_modified: `Thu, 05 Mar 2026 19:00:07 GMT`
+- fetched_at: `2026-03-06T19:03:26+00:00`
+- checked_at: `2026-03-06T19:03:26+00:00`
+- etag: `"2be25cc2caabd9d48bd290ddd83f3122"`
+- last_modified: `Fri, 06 Mar 2026 19:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-03-05T19:35:58+00:00",
+  "fetched_at": "2026-03-06T19:03:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "26946c1b7afc22f95afa1b801060fd11002c8ae9",
+      "title": "The News Quiz: Ep8. Flight risks and fly-tips",
+      "published_at": "2026-03-06T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n35zcw",
+      "description": "Joining Andy for the final episode of this series are Simon Evans, Zoe Lyons, Cindy Yu and Ahir Shah and not one of them can be deemed a flight risk. Along with the latest on Peter Mandelson’s arrest they discuss how UK politics is no longer a two-party system with the Greens and Reform taking centre stage in Gorton and Denton, why Trump’s State of the Union address could have been mercifully shorter and why the Chagos Islands are off limits. Written by Andy Zaltzman. With additional material by: Mike Shephard and Pravanya Pillay Producer: Georgia Keating Executive Producer: Richard Morris Production Coordinator: Giulia Lopes Mazzu Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n3r5bt.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27280000",
+      "itunes_duration": "1705",
+      "speakers": [
+        "Joining Andy",
+        "Simon Evans",
+        "Cindy Yu",
+        "Ahir Shah"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "flight",
+        "risk"
+      ]
+    },
     {
       "key": "ac45773a07c374b72c914465fddc7cd3cacf2f91",
       "title": "The News Quiz: Ep7. The worst birthday ever",
@@ -5492,6 +5516,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — The News Quiz: Ep8. Flight risks and fly-tips — speakers: Joining Andy, Simon Evans, Cindy Yu, Ahir Shah
 - 2026-02-27 — The News Quiz: Ep7. The worst birthday ever
 - 2026-02-20 — The News Quiz: Ep6. Is the UK getting sunnier?
 - 2026-02-13 — The News Quiz: Ep5. The Prince of Darkness — speakers: Peter Mandelson

@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-03-06T15:54:08+00:00`
-- checked_at: `2026-03-06T15:54:08+00:00`
-- etag: `W/"317a1-LoNgaugTkgjaAuMIGv+HK8Q0IhE"`
+- fetched_at: `2026-03-06T19:03:26+00:00`
+- checked_at: `2026-03-06T19:03:26+00:00`
+- etag: `W/"30f05-qiJLsPnc3KzE+GRCgnOksGhwE1M"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-03-06T15:54:08+00:00",
+  "fetched_at": "2026-03-06T19:03:26+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,32 +28,6 @@
     "games"
   ],
   "episodes": [
-    {
-      "key": "411a6363b506a6f011dd2ef8a12131226277f3eb",
-      "title": "Resident Evil Requiem and Pokémon Pokopia Are Certified Bangers | Firelink Podcast",
-      "published_at": "2026-03-06T15:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Resident-Evil-Requiem-and-Pokmon-Pokopia-Are-Certified-Bangers--Firelink-Podcast-e3g0tqe",
-      "description": "This week on Firelink, KC, Nick, and Marty chat about the critical and commercial success of Resident Evil Requiem, discuss Sony's move to back away from PC ports, and give some early impressions of Pokémon Pokopia. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/116471054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-6%2Fdf6e6b70-6d8d-0c66-ac5e-27895dfe65fc.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "180001184",
-      "itunes_duration": "02:05:00",
-      "speakers": [
-        "Marty Sliva",
-        "Nick Calandra",
-        "KC Nwosu"
-      ],
-      "topics": [
-        "resident",
-        "evil",
-        "requiem",
-        "pokopia",
-        "bangers",
-        "firelink",
-        "podcast"
-      ]
-    },
     {
       "key": "c71b2b3bb93e801339a8e8dabb34fdd3f767cb28",
       "title": "Pondering the Future of Xbox + Patreon Mailbag | Firelink Podcast",
@@ -2549,7 +2523,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-06 — Resident Evil Requiem and Pokémon Pokopia Are Certified Bangers | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-27 — Pondering the Future of Xbox + Patreon Mailbag | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-20 — Can Spoilers Make or Break a Game? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-13 — Sony State of Play Watchalong + Silent Hill Transmission | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu

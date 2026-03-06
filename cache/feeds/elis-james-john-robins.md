@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-06T13:20:47+00:00`
-- checked_at: `2026-03-06T13:20:47+00:00`
-- etag: `"15ff8967a3a70d00929186edd7cd4dfe"`
-- last_modified: `Fri, 06 Mar 2026 10:07:19 GMT`
+- fetched_at: `2026-03-06T19:03:26+00:00`
+- checked_at: `2026-03-06T19:03:26+00:00`
+- etag: `"7728aa3d52a59eea359da81a172a9276"`
+- last_modified: `Fri, 06 Mar 2026 17:09:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-06T13:20:47+00:00",
+  "fetched_at": "2026-03-06T19:03:26+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,33 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "c5b2435b1bf379182d31de0549715ba353e6d898",
+      "title": "#520 - Moheathcliffe, #FindTheFlax and Che Guevara On QI",
+      "published_at": "2026-03-06T17:05:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n53d26",
+      "description": "What do Sir Steve Redgrave, Neil Armstrong, Buzz Aldrin, Nelson Mandela, Gandhi, David Beckham and John Robins have in common? None of them were asked on QI. Elis has though, and it’s clearly going down very very well with all parties. But today feels significant as we rope in a special guest to digest Elis hammering his friend using his fast twitch fibres. On top of that, John’s having a big day - something which others seriously doubt. “He’s probably just had too much hot sauce on his scrambled egg,” cries Dave. Wrong! In fact he’s being texted by a ghost curry house. Elsewhere the boys ask Adrian *all* the questions you’ve ever wanted to know, and we get a bit nostalgic as John talks of the only cool thing he’s ever done. Email us on elisandjohn@bbc.co.uk Remember, the Bureau is available Saturday morning *only on* BBC Sounds.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n53dpf.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57600000",
+      "itunes_duration": "3600",
+      "speakers": [
+        "Che Guevara",
+        "Steve Redgrave",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Nelson Mandela",
+        "David Beckham",
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "moheathcliffe",
+        "findtheflax",
+        "guevara"
+      ]
+    },
     {
       "key": "4874bce53299098e8c16ee01cd1622849fda9108",
       "title": "#519 - Big Seed, Big Sad John and Big Voiced Clive",
@@ -12558,6 +12585,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — #520 - Moheathcliffe, #FindTheFlax and Che Guevara On QI — speakers: Che Guevara, Steve Redgrave, Neil Armstrong, Buzz Aldrin, Nelson Mandela, David Beckham, Elis James, John Robins
 - 2026-03-03 — #519 - Big Seed, Big Sad John and Big Voiced Clive — speakers: Elis James, John Robins
 - 2026-02-27 — #518 - An 18 Yard Sprint, Sovereignty Not Dominion and Big Diolch Energy — speakers: Yard Sprint, Sovereignty Not Dominion, Big Diolch Energy Elis, Elis James, John Robins
 - 2026-02-24 — #517 - A Peruvian Exit, A 14 Pocket Scenario and A Neyland in the Coffin — speakers: Elis James, John Robins

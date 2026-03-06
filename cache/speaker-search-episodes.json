@@ -12711,6 +12711,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:b0c3a03d01c8",
+        "feed_title": "Late Night with Seth Meyers Podcast",
+        "source_rss_url": "https://rss.art19.com/late-night-with-seth-meyers-podcast",
+        "dedupe_key": "d6d4a8ed249a1cfee4c405dbaf6e4687989904a9",
+        "episode_key": "d6d4a8ed249a1cfee4c405dbaf6e4687989904a9",
+        "title": "Greg Davies & Alex Horne | Panicked Trump Stoops to Selling Bibles, Calls Biden “Buden,” Hit with Gag Order: A Closer Look",
+        "published_at": "2024-03-28T05:49:27Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Seth takes a closer look at a desperate Donald Trump resorting to selling Trump-branded bibles as he drowns in legal bills while simultaneously getting hit with a gag order in his hush money case.\nThen, Greg Davies and Alex Horne talk about how they came up with the original idea for Taskmaster, Greg's favorite insults",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/rss.art19.com/episodes/58f0c3dc-6e59-4f79-8c1f-3018a0c38064.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/greg-davies-alex-horne-panicked-trump-stoops-to-selling/id1182084796?i=1000650693452&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8cc4a7996941",
         "feed_title": "The Chris Moyles Show on Radio X Podcast",
         "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
@@ -13523,6 +13545,28 @@
         "description": "Welcome to The Horne Section Podcast, your (now) weekly dose of musical nonsense and anarchic chat with Alex Horne and his band! This week we're joined in our Ecuadorian studio by comedian Nick Helm. Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://sphinx.acast.com/the-horne-section-podcast/nickhelm/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/nick-helm/id1439618203?i=1000452838651&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:d3a3c6055afb",
+        "feed_title": "The Horne Section Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f",
+        "dedupe_key": "6f146c2f39b9bb559ee35704628254cca6082a2d",
+        "episode_key": "6f146c2f39b9bb559ee35704628254cca6082a2d",
+        "title": "Angellica Bell",
+        "published_at": "2019-10-02T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to The Horne Section Podcast, your (now) weekly dose of musical nonsense and anarchic chat with Alex Horne and his band! This week we're joined in the studio by TV and radio presenter Angellica Bell. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/the-horne-section-podcast/angellicabell/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/angellica-bell/id1439618203?i=1000451990101&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

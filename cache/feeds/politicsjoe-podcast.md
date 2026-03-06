@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-06T13:20:47+00:00`
-- checked_at: `2026-03-06T13:20:47+00:00`
-- etag: `"djEuMi4wOjE3NzI4MDIwMzk1NDc="`
+- fetched_at: `2026-03-06T19:03:26+00:00`
+- checked_at: `2026-03-06T19:03:26+00:00`
+- etag: `"djEuMi4wOjE3NzI4MjE0OTYwOTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,37 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-06T13:20:47+00:00",
+  "fetched_at": "2026-03-06T19:03:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "afedb2ff65fba3a60a64d704b78af67a8ab77f30",
+      "title": "Jeremy Corbyn on Iran, student loans, and electing the king",
+      "published_at": "2026-03-06T18:13:13+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69a98324212ed35aefec6f76",
+      "description": "Laura caught up with Jeremy Corbyn outside parliament yesterday after Rachel Reeves' Spring Forecast speech. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69a98324212ed35aefec6f76/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21857762",
+      "itunes_duration": "15:10",
+      "speakers": [
+        "Jeremy Corbyn",
+        "Rachel Reeves"
+      ],
+      "topics": [
+        "jeremy",
+        "corbyn",
+        "iran",
+        "student",
+        "loan",
+        "king"
+      ]
+    },
     {
       "key": "d5dbf9e0e4ea9dbc2ef49a7c68587effafce800c",
       "title": "Who is funding the Reform Party? | Sam Bright interview",
@@ -11864,6 +11888,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — Jeremy Corbyn on Iran, student loans, and electing the king — speakers: Jeremy Corbyn, Rachel Reeves
 - 2026-03-06 — Who is funding the Reform Party? | Sam Bright interview — speakers: Sam Bright
 - 2026-03-05 — I was cancelled for calling the Green Party middle-class — speakers: Lisa McKenzie, Hannah Spencer
 - 2026-03-04 — Are the Tories pushing for Iraq 2.0? | PMQs Analysis

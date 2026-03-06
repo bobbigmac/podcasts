@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-04T19:07:35+00:00`
-- checked_at: `2026-03-04T19:07:35+00:00`
-- etag: `"djEuMi4wOjE3NzI2NDMxMzI0MzM="`
+- fetched_at: `2026-03-06T19:03:26+00:00`
+- checked_at: `2026-03-06T19:03:26+00:00`
+- etag: `"djEuMi4wOjE3NzI4MTM1NDI3MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-04T19:07:35+00:00",
+  "fetched_at": "2026-03-06T19:03:26+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,32 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "6771a16446419097ef43546790c94b09e2949a37",
+      "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
+      "published_at": "2026-03-06T16:12:22+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-00759-7",
+      "description": "In this episode: 00:25 How paediatricians’ antibodies could treat serious viral infections New Scientist: Paediatricians’ blood used to make new treatments for RSV and colds 04:22 Galileo’s annotations in an ancient text Science: Galileo’s handwritten notes found in ancient astronomy text Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1772813475272-87693431-e8c5-4bc0-bca0-93a5fdf5db36.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69aafce67036d739020709d7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9219863",
+      "itunes_duration": "9:35",
+      "speakers": [
+        "What Galileo",
+        "New Scien",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "briefing",
+        "chat",
+        "galileo",
+        "margin",
+        "note",
+        "journey"
+      ]
+    },
     {
       "key": "4add9920ff60b5db634f4015e2aaed23513fa99e",
       "title": "Heart surgery with quick-setting magnetic fluid could prevent strokes",
@@ -19172,6 +19198,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey — speakers: What Galileo, New Scien, Benjamin Thompson, Noah Baker
 - 2026-03-04 — Heart surgery with quick-setting magnetic fluid could prevent strokes — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-02 — Audio long read: Many people have no mental imagery. What’s going on in their brains? — speakers: Benjamin Thompson, Noah Baker
 - 2026-02-27 — Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers — speakers: Benjamin Thompson, Noah Baker
