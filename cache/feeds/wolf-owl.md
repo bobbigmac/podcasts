@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-05T19:35:58+00:00`
-- checked_at: `2026-03-05T19:35:58+00:00`
-- last_modified: `Thu, 05 Mar 2026 17:36:24 GMT`
+- fetched_at: `2026-03-06T09:56:10+00:00`
+- checked_at: `2026-03-06T09:56:10+00:00`
+- last_modified: `Fri, 06 Mar 2026 08:01:55 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/9546a4cceb2abae1170f9120807cc2b0.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-05T19:35:58+00:00",
+  "fetched_at": "2026-03-06T09:56:10+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ad751130ed9f39e4b32ec2de07ac96cb00cd77be",
+      "title": "Introducing the listener Q&A episodes!",
+      "published_at": "2026-03-06T00:01:00+00:00",
+      "link": null,
+      "description": "What was Romesh like as a teacher? Got a problem? Need some advice? Get your questions answered in the Wolf and Owl weekly bonus episodes. This week we try to help solve a workplace dilemma, discuss when it’s ok to exaggerate a story and help diagnose how sick you are, plus there’s a special appearance from teacher Mr Ranganathan and some role play from Tom. We also learn that Rom is a great friend but not a great boss, while Tom is a great lemming and your knight in shining armour if you need a lightbulb changing (and not just because he can reach). Send in your questions for us at wolfowlpod@gmail.com for the chance to have them answered in an upcoming episode. A Ranga Bee Production in partnership with Listen. 00:00 Intro 1:46 Workplace authority 2:58 Mr Ranganathan 6:21 Rex Buchanan 8:08 Dress for the job 9:45 Lunch duty 10:10 Real advice 11:36 The sexiest version of Rom 13:00 The lying lion 14:28 Tom saves Jaime Winstone 17:32 Story take 3 19:28 Exaggerating vs the truth 21:20 Scale of sickness 25:04 Johnny Vegas 26:03 Get in touch Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ac57fb90-18b4-11f1-8c63-2f7707592291/image/e20b13c0d98b64c57bb3f7303affaad1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3281467996.mp3?updated=1772784045",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1775",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "listener"
+      ]
+    },
     {
       "key": "dbf2a96eec629321561a9563e5244de21940a1ac",
       "title": "This Hiatus is Over: Wolf and Owl is BACK!",
@@ -6241,6 +6260,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — Introducing the listener Q&A episodes! — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-03 — This Hiatus is Over: Wolf and Owl is BACK! — speakers: Romesh Ranganathan, Tom Davis
 - 2026-01-09 — S4 Ep 53: Press Nights and Pokemon Fights — speakers: Rom’s Women, Sheridan Smith, Romesh Ranganathan, Tom Davis
 - 2025-12-31 — S4 Ep 52: Live Tour Highlights Pt 2 - Manchester — speakers: Romesh Ranganathan, Tom Davis

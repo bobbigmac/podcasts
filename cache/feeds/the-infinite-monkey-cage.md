@@ -2,10 +2,10 @@
 
 - slug: `the-infinite-monkey-cage`
 - source: `https://podcasts.files.bbci.co.uk/b00snr0w.rss`
-- fetched_at: `2026-02-20T00:38:53+00:00`
-- checked_at: `2026-02-20T00:38:53+00:00`
-- etag: `"e29abe8da0d7918722d6890ed5c7b860"`
-- last_modified: `Wed, 24 Dec 2025 07:00:08 GMT`
+- fetched_at: `2026-03-06T09:56:10+00:00`
+- checked_at: `2026-03-06T09:56:10+00:00`
+- etag: `"e08510f1ef31f7c0478d5e4d7a7d4f97"`
+- last_modified: `Fri, 06 Mar 2026 08:35:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b00snr0w",
   "description": "Professor Brian Cox and Robin Ince host a witty, irreverent look at the world through scientists’ eyes. Joined by a panel of scientists, experts and celebrity science enthusiasts they investigate life, the universe and everything in between on The Infinite Monkey Cage from the BBC. From the smallest building blocks of life to the furthest stars, the curious monkeys pull apart the latest science to reveal fascinating and often bizarre insights into the world around us and what lies beyond. Can trees talk to each other? Can science help you commit the perfect murder? What might aliens look like and the burning question of our time, are strawberries alive or dead? Join them as each episode they put a different scientific topic under the microscope, from aliens, black holes and hedgehogs, to bacteria, poison and the Big Bang. With past guests including actors Dame Judi Dench and Sir Patrick Stewart, comedians Steve Martin and Conan O’Brien, astronaut Tim Peake, primatologist Jane Goodall and mathematician Hannah Fry, The Infinite Monkey Cage promises to make you laugh, enrich your knowledge and leave you with a deeper appreciation for the universe that we call home. Whether you’re a seasoned scientist or someone who nodded off in physics class, listen in to learn all about funny, fascinating and sometimes ridiculous topics – with the occasional monkey business.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q7wg.jpg",
-  "fetched_at": "2026-02-20T00:38:53+00:00",
+  "fetched_at": "2026-03-06T09:56:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,24 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "329bf943e4020b0bab30648d73f3e9278f5e897c",
+      "title": "Introducing... Life Without",
+      "published_at": "2026-03-06T08:32:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n4t029",
+      "description": "Hosted by Alan Davies, Life Without looks at what would happen to our planet if we removed one thing. Could pulling a single thread from our world really unravel the whole thing?",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mxdrsj.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n4zz6x.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13440000",
+      "itunes_duration": "840",
+      "speakers": [
+        "Alan Davies"
+      ],
+      "topics": [
+        "life"
+      ]
+    },
     {
       "key": "be23b8e834335f0db8f60f19c7d86f9850f2f77c",
       "title": "The North Pole Unwrapped - Russell Kane, Felicity Aston and Lloyd Peck",
@@ -41,11 +59,7 @@
       "speakers": [
         "Lloyd Peck",
         "Brian Cox",
-        "Robin Ince",
-        "Santa Claus",
-        "Russell Kane",
-        "Mel Brown",
-        "Alex Rodway Executive"
+        "Robin Ince"
       ],
       "topics": [
         "north",
@@ -76,9 +90,7 @@
         "Jo Setchell",
         "Monkey Cage",
         "Brian Cox",
-        "Robin Ince",
-        "Robin Dunbar",
-        "Mel Brown"
+        "Robin Ince"
       ],
       "topics": [
         "monkey",
@@ -104,10 +116,7 @@
       "speakers": [
         "Gavin Pretor-Pinney",
         "Amanda Maycock Robin Ince",
-        "Brian Cox",
-        "Amanda Maycock",
-        "Mel Brown",
-        "Alex Rodway Executive"
+        "Brian Cox"
       ],
       "topics": [
         "clouds",
@@ -135,9 +144,7 @@
         "Yasmin Andrew",
         "Howard Wilson",
         "Robin Ince",
-        "Brian Cox",
-        "Ria Lina",
-        "Melanie Brown"
+        "Brian Cox"
       ],
       "topics": [
         "fusion",
@@ -164,9 +171,7 @@
         "David Righton",
         "Caroline Durif",
         "Brian Cox",
-        "Robin Ince",
-        "Melanie Brown",
-        "Olivia Jani Executive"
+        "Robin Ince"
       ],
       "topics": [
         "deal",
@@ -194,8 +199,7 @@
         "Leon Lobo",
         "Louise Devoy",
         "Robin Ince",
-        "Brian Cox",
-        "Melanie Brown"
+        "Brian Cox"
       ],
       "topics": [
         "time",
@@ -222,9 +226,7 @@
         "Phil Wang",
         "Anne Vanhoestenberghe",
         "Brian Cox",
-        "Robin Ince",
-        "Luke Bashford",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "mind",
@@ -250,12 +252,7 @@
       "itunes_duration": "2543",
       "speakers": [
         "Russell Foster",
-        "Bridget Christie",
-        "Brian Cox",
-        "Robin Ince",
-        "Jess Wade",
-        "Melanie Brown",
-        "Olivia Jani Executive"
+        "Bridget Christie"
       ],
       "topics": [
         "light",
@@ -280,11 +277,7 @@
       "itunes_duration": "2528",
       "speakers": [
         "Jane Hill",
-        "Chris Jiggins",
-        "Brian Cox",
-        "Robin Ince",
-        "Katy Brand",
-        "Melanie Brown"
+        "Chris Jiggins"
       ],
       "topics": [
         "moth",
@@ -312,10 +305,7 @@
         "Sarah Gabbott",
         "Mark Miodownik",
         "Aurie Styla Brian Cox",
-        "Robin Ince",
-        "Aurie Styla",
-        "Melanie Brown",
-        "Olivia Jani Executive"
+        "Robin Ince"
       ],
       "topics": [
         "technofossil",
@@ -342,11 +332,7 @@
         "Glenn Bryan",
         "Susan Calman",
         "Robin Ince",
-        "Brian Cox",
-        "Sandy Knapp",
-        "Helen Anahita-Wilson",
-        "Melanie Brown",
-        "Olivia Jani Executive"
+        "Brian Cox"
       ],
       "topics": [
         "mighty",
@@ -375,10 +361,7 @@
         "Steve Haake",
         "Emma Ross",
         "Brian Cox",
-        "Robin Ince",
-        "Helen Glover",
-        "Hugh Dennis who",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "perfect",
@@ -408,11 +391,7 @@
         "Tim Peake",
         "Kelly Weinersmith",
         "Alan Davies Brian Cox",
-        "Robin Ince",
-        "Harwell Campus",
-        "Alan Davies",
-        "Melanie Brown",
-        "Olivia Jani Executive"
+        "Robin Ince"
       ],
       "topics": [
         "space",
@@ -436,13 +415,7 @@
       "itunes_duration": "2555",
       "speakers": [
         "Bonanza Mel Giedroyc",
-        "Deborah Meaden",
-        "Brian Cox",
-        "Robin Ince",
-        "Mel Giedroyc",
-        "Isabel Coman",
-        "Liz Paul",
-        "Ed Hawkins"
+        "Deborah Meaden"
       ],
       "topics": [
         "birthday",
@@ -469,11 +442,7 @@
         "Dave Gorman",
         "Sarah Hart",
         "Thomas Woolley Brian Cox",
-        "Robin Ince",
-        "Thomas Woolley",
-        "Alan Turing",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "nature",
@@ -500,11 +469,7 @@
       "speakers": [
         "Sam Bennett",
         "Trevor Cox Brian Cox",
-        "Robin Ince",
-        "Trevor Cox",
-        "Brian Eno",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "sound",
@@ -528,12 +493,7 @@
       "speakers": [
         "Paul Abel",
         "Michele Dougherty Brian Cox",
-        "Robin Ince",
-        "Team Saturn",
-        "Michele Dougherty",
-        "Kuiper Belt",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "saturn",
@@ -561,10 +521,7 @@
         "Liz Morris",
         "Christoph Salzmann",
         "Robin Ince",
-        "Brian Cox",
-        "Darren Harriott",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Brian Cox"
       ],
       "topics": [
         "adventure",
@@ -591,11 +548,7 @@
       "speakers": [
         "Jo Brand",
         "Steve Jones Brian Cox",
-        "Robin Ince",
-        "Steve Jones",
-        "Matti Wilks",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "brand",
@@ -620,10 +573,7 @@
         "Ana Ferreira",
         "Chris Jackson",
         "Brian Cox",
-        "Robin Ince",
-        "Phil Wang",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "journey",
@@ -649,13 +599,7 @@
       "itunes_duration": "2545",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Prof Helen King",
-        "Mark Walport",
-        "Keith Moore",
-        "Ed Byrne",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "history",
@@ -675,11 +619,7 @@
       "itunes_duration": "2547",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Adam Rutherford",
-        "Susannah Maidment",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "extinction"
@@ -697,13 +637,7 @@
       "enclosure_length": "41024000",
       "itunes_duration": "2564",
       "speakers": [
-        "Robin Ince",
-        "Jessica Fostekew",
-        "Anna Ploszajski",
-        "Prof James Busfield",
-        "Bryony Page",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "fantastic"
@@ -722,12 +656,7 @@
       "itunes_duration": "2520",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Joyce Harper",
-        "Ben Steventon",
-        "Sara Pascoe",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "science",
@@ -748,12 +677,7 @@
       "itunes_duration": "2545",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Maggie Aderin-Pocock",
-        "Roberto Trotta",
-        "John Bishop",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "starless",
@@ -773,12 +697,7 @@
       "itunes_duration": "2554",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Hugh Warwick",
-        "Sophie Lund Rasmussen",
-        "Dr Hedgehog",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Robin Ince"
       ],
       "topics": [
         "hedgehog"
@@ -798,11 +717,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Alan Davies",
-        "Victoria Baines",
-        "Richard Benham",
-        "Melanie Brown",
-        "Olivia Jani"
+        "Alan Davies"
       ],
       "topics": [
         "cyber",
@@ -823,9 +738,7 @@
       "speakers": [
         "Lisa Kaltenegger",
         "Chris Lintott",
-        "Brian Cox",
-        "Russell Kane",
-        "Melanie Brown"
+        "Brian Cox"
       ],
       "topics": [
         "alien",
@@ -853,11 +766,7 @@
         "Matthew Cobb",
         "Victoria Herridge",
         "Keith Moore Brian Cox",
-        "Robin Ince",
-        "Rufus Hound",
-        "Tori Herridge",
-        "Keith Moore",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "history",
@@ -888,8 +797,7 @@
         "Mark Miodownik",
         "Lucy Carpenter",
         "Brian Cox",
-        "Robin Ince",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "dave",
@@ -914,10 +822,7 @@
       "speakers": [
         "Mike Massimino",
         "Britney Schmidt",
-        "Jess Phoenix Brian Cox",
-        "Jess Phoenix",
-        "Anneka Rice",
-        "Melanie Brown"
+        "Jess Phoenix Brian Cox"
       ],
       "topics": [
         "extreme",
@@ -946,9 +851,7 @@
       "speakers": [
         "Adam Kay Brian Cox",
         "Robin Ince",
-        "Steve Backshall",
-        "Adam Kay",
-        "Melanie Brown"
+        "Steve Backshall"
       ],
       "topics": [
         "beastly",
@@ -975,10 +878,7 @@
       "itunes_duration": "2591",
       "speakers": [
         "Dave Neale Brian Cox",
-        "Robin Ince",
-        "Dave Neale",
-        "Jessica Fostekew",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "science",
@@ -1006,9 +906,7 @@
       "speakers": [
         "Tony Kirkham",
         "Tristan Gooley Brian Cox",
-        "Robin Ince",
-        "Tristan Gooley",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "wonder",
@@ -1034,11 +932,7 @@
       "enclosure_length": "21376000",
       "itunes_duration": "1336",
       "speakers": [
-        "Comedian Claire Hooper",
-        "Comedian Noel Fielding",
-        "Joey Ramone",
-        "Alan Moore",
-        "Jonathan Ross"
+        "Audience Favourites"
       ],
       "topics": [
         "infinite",
@@ -1061,9 +955,7 @@
       "itunes_duration": "1328",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Andy Hamilton",
-        "Erica McAlister"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -1083,13 +975,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18928000",
       "itunes_duration": "1183",
-      "speakers": [
-        "Eric Idle",
-        "Lucie Green",
-        "Brian Cox",
-        "Robin Ince",
-        "Chris Addison"
-      ],
+      "speakers": [],
       "topics": [
         "infinite",
         "monkey",
@@ -1110,10 +996,7 @@
       "itunes_duration": "1014",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Charles Darwin",
-        "Alice Roberts",
-        "Chris van Tulleken"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -1135,8 +1018,7 @@
       "itunes_duration": "1156",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Richard Wiseman"
+        "Brian Cox"
       ],
       "topics": [
         "infinite",
@@ -1158,9 +1040,7 @@
       "itunes_duration": "1344",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Eric Idle",
-        "Katy Brand"
+        "Brian Cox"
       ],
       "topics": [
         "infinite",
@@ -1182,8 +1062,7 @@
       "itunes_duration": "1184",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Comedian Conan O’Brien"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -1205,11 +1084,7 @@
       "itunes_duration": "1109",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Ed Byrne",
-        "Mark Spencer",
-        "grey squirrel",
-        "Erica McAllister"
+        "Brian Cox"
       ],
       "topics": [
         "infinite",
@@ -1228,11 +1103,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18960000",
       "itunes_duration": "1185",
-      "speakers": [
-        "Hannah Fry",
-        "Robin Ince",
-        "Brian Cox"
-      ],
+      "speakers": [],
       "topics": [
         "infinite",
         "monkey",
@@ -1253,9 +1124,7 @@
       "itunes_duration": "1234",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Amoret Whitaker",
-        "Julia Shaw"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -1278,11 +1147,7 @@
       "speakers": [
         "Higgs Boson Brian Cox",
         "Robin Ince",
-        "Hadron Collider",
-        "Katy Brand",
-        "Ben Miller",
-        "Clara Nellist",
-        "Melanie Brown"
+        "Hadron Collider"
       ],
       "topics": [
         "higgs",
@@ -1302,11 +1167,7 @@
       "itunes_duration": "2542",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Deborah Meaden",
-        "David Baddiel",
-        "Ben Garrod",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": []
     },
@@ -1322,11 +1183,7 @@
       "enclosure_length": "40720000",
       "itunes_duration": "2545",
       "speakers": [
-        "Robin Ince",
-        "Hugh Dennis",
-        "Andrea Sella",
-        "Kathryn Harkup",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "poison"
@@ -1345,11 +1202,7 @@
       "itunes_duration": "2545",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "John Bishop",
-        "Sara Russell",
-        "Alan Fitzsimmons",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "asteroid"
@@ -1368,12 +1221,7 @@
       "itunes_duration": "2564",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Alan Davies",
-        "Laura London",
-        "Richard Wiseman",
-        "Gustav Kuhn",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "could",
@@ -1393,12 +1241,7 @@
       "itunes_duration": "2544",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Russel Kane",
-        "Lucy Porter",
-        "Egyptologists Rosalie David",
-        "Lidija McKnight",
-        "Melanie Brown"
+        "Robin Ince"
       ],
       "topics": [
         "mummy"
@@ -1416,10 +1259,7 @@
       "enclosure_length": "55088000",
       "itunes_duration": "3443",
       "speakers": [
-        "Robin Ince",
-        "Maggie Aderin Pocock",
-        "Chris Lintott",
-        "Pete Lawrence"
+        "Robin Ince"
       ],
       "topics": [
         "monkey",
@@ -1441,8 +1281,7 @@
         "Jo Brand",
         "Brian Cox",
         "Robin Ince",
-        "Prof Ben Allanach",
-        "Prof Fay Dowker"
+        "Jo Bran"
       ],
       "topics": [
         "brand",
@@ -1463,11 +1302,7 @@
       "itunes_duration": "2543",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Tim Peake",
-        "Nicole Stott",
-        "Susan Kilrain",
-        "Paul Franklin"
+        "Robin Ince"
       ],
       "topics": [
         "hollywood",
@@ -1487,8 +1322,7 @@
       "itunes_duration": "2542",
       "speakers": [
         "Susie Maidment",
-        "Tori Herridge",
-        "Dave Gorman"
+        "Tori Herr"
       ],
       "topics": [
         "scale",
@@ -1509,8 +1343,7 @@
       "itunes_duration": "2577",
       "speakers": [
         "Prof Hannah Fry",
-        "Kate Devlin",
-        "Rufus Hound"
+        "Dr Ka"
       ],
       "topics": []
     },
@@ -1525,11 +1358,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40800000",
       "itunes_duration": "2550",
-      "speakers": [
-        "Sophie Duker",
-        "Marcus Du Sautoy",
-        "David Spiegelhalter"
-      ],
+      "speakers": [],
       "topics": [
         "science",
         "coincidence"
@@ -1547,10 +1376,7 @@
       "enclosure_length": "23008000",
       "itunes_duration": "1438",
       "speakers": [
-        "Susie Maidment",
-        "Jon Culshaw",
-        "Erica McAlister",
-        "Brendan Hunt"
+        "Audience Favourites There"
       ],
       "topics": [
         "infinite",
@@ -1571,11 +1397,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41184000",
       "itunes_duration": "2574",
-      "speakers": [
-        "Tim Lamont",
-        "Amy Courtney",
-        "Russell Kane"
-      ],
+      "speakers": [],
       "topics": [
         "octopus"
       ]
@@ -1592,8 +1414,7 @@
       "enclosure_length": "17440000",
       "itunes_duration": "1090",
       "speakers": [
-        "John Lloyd",
-        "Carlos Frenk"
+        "Infinity Endless"
       ],
       "topics": [
         "infinite",
@@ -1615,13 +1436,7 @@
       "itunes_duration": "1074",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Monkey Cage",
-        "Alice Roberts",
-        "Bill Bailey",
-        "Jane Goodall",
-        "Conan O’Brien",
-        "David Baddiel"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -1642,10 +1457,7 @@
       "enclosure_length": "22800000",
       "itunes_duration": "1425",
       "speakers": [
-        "Lloyd Peck",
-        "Dave Gorman",
-        "Tim Minchin",
-        "Brian Cox"
+        "Oceans If"
       ],
       "topics": [
         "infinite",
@@ -1665,11 +1477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18576000",
       "itunes_duration": "1161",
-      "speakers": [
-        "Rufus Hound",
-        "Matt Lucas",
-        "Eric Idle"
-      ],
+      "speakers": [],
       "topics": [
         "infinite",
         "monkey",
@@ -1690,10 +1498,7 @@
       "itunes_duration": "1394",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Katy Brand",
-        "Rufus Hound",
-        "Susan Calman"
+        "Brian Cox"
       ],
       "topics": [
         "infinite",
@@ -1715,10 +1520,7 @@
       "itunes_duration": "1343",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Ross Noble",
-        "Alan Moore",
-        "Patrick Stewart"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -1742,10 +1544,7 @@
         "Brian Blessed",
         "Patrick Stewart",
         "Nicole Stott",
-        "Charlie Duke",
-        "Brian Cox",
-        "Robin Ince",
-        "Astronaut’s Guide"
+        "Charlie Duke"
       ],
       "topics": [
         "infinite",
@@ -1768,10 +1567,7 @@
       "itunes_duration": "1128",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Steve Martin",
-        "Katie Mack",
-        "Eric Idle"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -1793,8 +1589,7 @@
       "itunes_duration": "1310",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Lucy Beaumont"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -1837,10 +1632,7 @@
       "itunes_duration": "2563",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Matthew Genge",
-        "Penny Wozniakiewicz",
-        "Alan Davies"
+        "Robin Ince"
       ],
       "topics": [
         "dust"
@@ -1860,12 +1652,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Ben Willbond",
-        "Prof Turi King",
-        "Tom Booth",
-        "Paul Nurse",
-        "Richard Iii",
-        "Turi King"
+        "Ben Willbond"
       ],
       "topics": [
         "secret"
@@ -1883,10 +1670,7 @@
       "enclosure_length": "40768000",
       "itunes_duration": "2548",
       "speakers": [
-        "Robin Ince",
-        "Lucy Hawkes",
-        "Isla Hodgson",
-        "Steve Backshall"
+        "Robin Ince"
       ],
       "topics": [
         "life",
@@ -1906,9 +1690,7 @@
       "itunes_duration": "2551",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Merlin Sheldrake",
-        "Katie Field"
+        "Robin Ince"
       ],
       "topics": [
         "magic",
@@ -1928,10 +1710,7 @@
       "itunes_duration": "2571",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Dave Goulson",
-        "Seirian Sumner",
-        "Comedian Catherine Bohart"
+        "Robin Ince"
       ],
       "topics": [
         "wasp"
@@ -1950,10 +1729,7 @@
       "itunes_duration": "2588",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Tamsin Mather",
-        "Chris Jackson",
-        "Rachel Parris"
+        "Robin Ince"
       ],
       "topics": [
         "supervolcanoe"
@@ -1972,10 +1748,7 @@
       "itunes_duration": "2548",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Chris van Tulleken",
-        "Janet Cade",
-        "Harry Hill"
+        "Robin Ince"
       ],
       "topics": []
     },
@@ -1990,13 +1763,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40480000",
       "itunes_duration": "2530",
-      "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Mark Miodownik",
-        "Anna Ploszajski",
-        "Ed Byrne"
-      ],
+      "speakers": [],
       "topics": [
         "magic",
         "materials"
@@ -2016,10 +1783,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Polly McGuigan",
-        "Ben Garrod",
-        "Russell Kane",
-        "Sally Gunnell"
+        "Polly McGuigan"
       ],
       "topics": [
         "human",
@@ -2042,8 +1806,7 @@
         "Robin Ince",
         "Susan Calman",
         "Prof Sue Black",
-        "Julia Shaw",
-        "Monkey Cluedo"
+        "Julia Shaw"
       ],
       "topics": [
         "perfect",
@@ -2065,9 +1828,7 @@
         "Brian Cox",
         "Robin Ince",
         "Jo Brand",
-        "Prof Hannah Fry",
-        "Eugenia Cheng",
-        "Randall Munroe"
+        "Prof Hannah Fry"
       ],
       "topics": [
         "think",
@@ -2087,10 +1848,7 @@
       "itunes_duration": "2547",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Dieter Hochuli",
-        "Mariella Herberstein",
-        "Claire Hooper"
+        "Robin Ince"
       ],
       "topics": [
         "australia",
@@ -2110,9 +1868,7 @@
       "enclosure_length": "40880000",
       "itunes_duration": "2555",
       "speakers": [
-        "Robin Ince",
-        "Devika Kamath",
-        "Ross Noble"
+        "Robin Ince"
       ],
       "topics": [
         "southern",
@@ -2132,11 +1888,7 @@
       "itunes_duration": "2539",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Tim Minchin",
-        "Brian Schmidt",
-        "Mango Parker",
-        "Patricia Williamson"
+        "Robin Ince"
       ],
       "topics": [
         "wine"
@@ -2155,11 +1907,7 @@
       "itunes_duration": "2580",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Astrophysicists Mark Cheung",
-        "Alan Duffy",
-        "Brian Schmidt",
-        "Alice Fraser"
+        "Robin Ince"
       ],
       "topics": [
         "deep",
@@ -2182,9 +1930,7 @@
         "Brian Cox",
         "Robin Ince",
         "David Baddiel",
-        "Prof Karen Douglas",
-        "Prof Matthew Cobb",
-        "Timotheus Vermeulen"
+        "Prof Karen"
       ],
       "topics": [
         "conspiracy"
@@ -2203,10 +1949,7 @@
       "itunes_duration": "2539",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Sarah Kendall",
-        "Linda Partridge",
-        "Andrew Steele"
+        "Robin Ince"
       ],
       "topics": [
         "ageing"
@@ -2225,9 +1968,7 @@
       "itunes_duration": "2551",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Eric Idle",
-        "Jessie Christiansen"
+        "Robin Ince"
       ],
       "topics": [
         "exoplanet"
@@ -2245,9 +1986,7 @@
       "enclosure_length": "40960000",
       "itunes_duration": "2560",
       "speakers": [
-        "Conan O'Brien",
-        "Katie Stack Morgan",
-        "Kevin Hand"
+        "Jet Pro"
       ],
       "topics": [
         "system"
@@ -2266,11 +2005,7 @@
       "itunes_duration": "2575",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Sarah Gilbert",
-        "Immunologist Prof",
-        "Dan Davis",
-        "Chris Van Tulleken"
+        "Robin Ince"
       ],
       "topics": [
         "covid"
@@ -2291,9 +2026,7 @@
         "Brian Cox",
         "Robin Ince",
         "Sara Pascoe",
-        "Prof Hannah Fry",
-        "Matt Parker",
-        "Prof David Spiegelhalter"
+        "Prof Hannah Fry"
       ],
       "topics": [
         "math"
@@ -2333,11 +2066,7 @@
       "itunes_duration": "2561",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Nicole Stott",
-        "Chris Hadfield",
-        "Carolyn Porco",
-        "Katy Brand"
+        "Robin Ince"
       ],
       "topics": [
         "astronaut"
@@ -2358,8 +2087,7 @@
         "Brian Cox",
         "Robin Ince",
         "Eric Idle",
-        "Netta Engelhardt",
-        "Janna Levin"
+        "Netta Engelhard"
       ],
       "topics": [
         "hole"
@@ -2379,10 +2107,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Ted Lasso",
-        "Brendan Hunt",
-        "Suzanne Simard",
-        "Mark Spencer"
+        "Brendan Hunt"
       ],
       "topics": [
         "wood",
@@ -2404,8 +2129,7 @@
         "Brian Cox",
         "Robin Ince",
         "Tim Minchin",
-        "Diva Amon",
-        "Jon Copley"
+        "Diva Amo"
       ],
       "topics": [
         "exploring"
@@ -2424,10 +2148,7 @@
       "itunes_duration": "2569",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Top Trumps",
-        "Erica McAlister",
-        "Dave Gorman"
+        "Robin Ince"
       ],
       "topics": []
     },
@@ -2445,9 +2166,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Ross Noble",
-        "Susie Maidment",
-        "Chris Jackson"
+        "Ross Noble"
       ],
       "topics": [
         "history",
@@ -2466,11 +2185,7 @@
       "enclosure_length": "39648000",
       "itunes_duration": "2478",
       "speakers": [
-        "Robin Ince",
-        "Frank Wilczek",
-        "Janna Levin",
-        "Eric Idle",
-        "Sara Pascoe"
+        "Robin Ince"
       ],
       "topics": [
         "fundamentals",
@@ -2489,11 +2204,7 @@
       "enclosure_length": "41712000",
       "itunes_duration": "2607",
       "speakers": [
-        "Robin Ince",
-        "Katy Brand",
-        "Grace Dent",
-        "Mark Miodownik",
-        "Harold McGee"
+        "Robin Ince"
       ],
       "topics": [
         "science",
@@ -2513,9 +2224,7 @@
       "itunes_duration": "2338",
       "speakers": [
         "Robin Ince",
-        "Alan Davies",
-        "Rebecca Wragg Sykes",
-        "Tori Herridge"
+        "Alan Davies"
       ],
       "topics": [
         "neanderthal"
@@ -2533,11 +2242,7 @@
       "enclosure_length": "55136000",
       "itunes_duration": "3446",
       "speakers": [
-        "Robin Ince",
-        "Jon Culshaw",
-        "Tim Peake",
-        "Lisa Harvey-Smith",
-        "Stuart Clark"
+        "Robin Ince"
       ],
       "topics": [
         "night"
@@ -2557,10 +2262,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Monkey Cage",
-        "David Baddiel",
-        "Erica McAlister",
-        "Matthew Cobb"
+        "Monkey Cage"
       ],
       "topics": [
         "praise"
@@ -2581,8 +2283,7 @@
         "Brian Cox",
         "Robin Ince",
         "Mark Gatiss",
-        "Carlo Rovelli",
-        "Fay Dowker"
+        "Carlo Ro"
       ],
       "topics": [
         "time"
@@ -2603,9 +2304,7 @@
         "Brian Cox",
         "Robin Ince",
         "Jo Brand",
-        "Ross Noble",
-        "Paul Nurse",
-        "Prof Aoife McLysaght"
+        "Ross Noble"
       ],
       "topics": [
         "life"
@@ -2626,8 +2325,7 @@
         "Brian Cox",
         "Robin Ince",
         "Jane Goodall Dbe",
-        "Bill Bailey",
-        "Dr Cat Hobaiter"
+        "Bill Bailey"
       ],
       "topics": [
         "monkeys",
@@ -2646,10 +2344,7 @@
       "enclosure_length": "39056000",
       "itunes_duration": "2441",
       "speakers": [
-        "Robin Ince",
-        "Tim Minchin",
-        "Lucie Green",
-        "Steve Jones"
+        "Robin Ince"
       ],
       "topics": []
     },
@@ -2666,11 +2361,7 @@
       "itunes_duration": "2725",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Helen Sharman",
-        "Chris Hadfield",
-        "Nicole Stott",
-        "Rusty Schweickart"
+        "Robin Ince"
       ],
       "topics": [
         "astronaut",
@@ -2692,9 +2383,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Sara Pascoe",
-        "Alice Roberts",
-        "Sarah Parcak"
+        "Sara Pascoe"
       ],
       "topics": [
         "space",
@@ -2714,10 +2403,7 @@
       "itunes_duration": "2096",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Matt Lucas",
-        "Sean Carroll",
-        "Janna Levin"
+        "Robin Ince"
       ],
       "topics": [
         "hole"
@@ -2736,11 +2422,7 @@
       "itunes_duration": "1680",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Steve Martin",
-        "Eric Idle",
-        "Katie Mack",
-        "Brian Greene"
+        "Robin Ince"
       ],
       "topics": [
         "universe"
@@ -2760,9 +2442,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Lucy Beaumont",
-        "Maggie Aderin-Pocock",
-        "Tim O’Brien"
+        "Lucy Beaum"
       ],
       "topics": [
         "special"
@@ -2782,9 +2462,7 @@
       "speakers": [
         "Lucy Beaumont",
         "Brian Cox",
-        "Robin Ince",
-        "GIll Adams",
-        "Mike Covell"
+        "Robin Ince"
       ],
       "topics": [
         "lucy",
@@ -2807,8 +2485,7 @@
         "Brian Cox",
         "Robin Ince",
         "Katy Brand",
-        "Sean Carroll",
-        "Jim Al-Khalili"
+        "Sean Carro"
       ],
       "topics": [
         "quantum",
@@ -2830,8 +2507,7 @@
         "Brian Cox",
         "Robin Ince",
         "Ed Byrne",
-        "Niamh Nic Daeid",
-        "Adam Rutherford"
+        "Niamh Nic Daeid"
       ],
       "topics": [
         "fire"
@@ -2851,9 +2527,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Marcus Brigstocke",
-        "Callum Roberts",
-        "Heather Koldewey"
+        "Marcus Brigstocke"
       ],
       "topics": [
         "coral",
@@ -2874,9 +2548,7 @@
       "speakers": [
         "Conspiracy Theories Brian Cox",
         "Robin Ince",
-        "Shazia Mirza",
-        "David Robert Grimes",
-        "Prof Karen Douglas"
+        "Shazia Mirza"
       ],
       "topics": [
         "conspiracy",
@@ -2896,9 +2568,7 @@
       "itunes_duration": "2633",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Frank Skinner",
-        "Richard Wiseman"
+        "Robin Ince"
       ],
       "topics": [
         "science",
@@ -2918,10 +2588,7 @@
       "itunes_duration": "3584",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Tim Peake",
-        "Helen Sharman",
-        "Mark Steel"
+        "Robin Ince"
       ],
       "topics": [
         "brit",
@@ -2939,14 +2606,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35552000",
       "itunes_duration": "2222",
-      "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Katy Brand",
-        "Prof Polly Arnold",
-        "Prof Andrea Sella",
-        "Dmitri Mendeleev"
-      ],
+      "speakers": [],
       "topics": [
         "anniversary",
         "periodic",
@@ -2967,8 +2627,7 @@
       "speakers": [
         "Robin Ince",
         "Bridget Christie",
-        "Penny Lewis",
-        "Richard Wiseman"
+        "Penny Lew"
       ],
       "topics": [
         "science"
@@ -2987,10 +2646,7 @@
       "itunes_duration": "2470",
       "speakers": [
         "Robin Ince",
-        "Danny Wallace",
-        "Tim Birkhead",
-        "Helen Scales",
-        "Producer Alexandra Feachem"
+        "Danny Wal"
       ],
       "topics": [
         "clever",
@@ -3010,10 +2666,7 @@
       "itunes_duration": "2809",
       "speakers": [
         "Dinosaurs Brian Cox",
-        "Robin Ince",
-        "Rufus Hound",
-        "Susannah Maidment",
-        "Steve Brusatte"
+        "Robin Ince"
       ],
       "topics": [
         "dinosaur"
@@ -3030,15 +2683,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55712000",
       "itunes_duration": "3482",
-      "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Rusty Schweickart",
-        "Gerry Griffin",
-        "Andy Aldrin",
-        "Nick Rhodes",
-        "Alexandra Feachem"
-      ],
+      "speakers": [],
       "topics": [
         "infinite",
         "moonkey",
@@ -3058,9 +2703,7 @@
       "itunes_duration": "2298",
       "speakers": [
         "Robin Ince",
-        "Jo Brand",
-        "Prof Jo Dunkley",
-        "Adam Masters"
+        "Jo Brand"
       ],
       "topics": [
         "universe"
@@ -3080,9 +2723,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Noel Fitzpatrick",
-        "Kevin Fong",
-        "Lucy Beaumont"
+        "Noel Fitzpat"
       ],
       "topics": [
         "bionic",
@@ -3103,8 +2744,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "David Baddiel",
-        "Adam Rutherford"
+        "David Baddiel"
       ],
       "topics": [
         "human"
@@ -3124,9 +2764,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Hannah Fry",
-        "Matt Parker",
-        "Prof Brian Butterworth"
+        "Dr Ha"
       ],
       "topics": [
         "origin",
@@ -3145,9 +2783,7 @@
       "enclosure_length": "34192000",
       "itunes_duration": "2137",
       "speakers": [
-        "Robin Ince",
-        "Astronomer Royal",
-        "Chris Addison"
+        "Robin Ince"
       ],
       "topics": [
         "future",
@@ -3167,10 +2803,7 @@
       "itunes_duration": "2768",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Ed Byrne",
-        "Dr Jon Copley",
-        "Prof Monica Grady"
+        "Robin Ince"
       ],
       "topics": [
         "microbe",
@@ -3229,8 +2862,7 @@
       "enclosure_length": "36944000",
       "itunes_duration": "2309",
       "speakers": [
-        "Robin Ince",
-        "Prof Trevor Cox"
+        "Robin Ince"
       ],
       "topics": [
         "human",
@@ -3251,8 +2883,7 @@
       "speakers": [
         "Robin Ince",
         "Shappi Khorsandi",
-        "Dan Davis",
-        "Prof Steve Jones"
+        "Dan Davis"
       ],
       "topics": [
         "immune",
@@ -3273,9 +2904,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Phill Jupitus",
-        "Kate Jones",
-        "Mark Spencer"
+        "Phill Jupitus"
       ],
       "topics": [
         "invasion"
@@ -3295,8 +2924,7 @@
       "speakers": [
         "Robin Ince",
         "Danny Wallace",
-        "Hannah Fry",
-        "Timandra Harkness"
+        "Hannah Fry"
       ],
       "topics": [
         "datum"
@@ -3315,13 +2943,7 @@
       "itunes_duration": "3428",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Brian Blessed",
-        "Eric Idle",
-        "Katy Brand",
-        "Dave Gorman",
-        "Andy Hamilton",
-        "Alice Roberts"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -3343,9 +2965,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Jo Brand",
-        "Tamsin Mather",
-        "Clive Oppenheimer"
+        "Jo Brand"
       ],
       "topics": [
         "volcanoes"
@@ -3365,9 +2985,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Rufus Hound",
-        "Lucy Cooke",
-        "Rory Wilson"
+        "Rufus Hound"
       ],
       "topics": [
         "animal"
@@ -3387,9 +3005,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Rory Bremner",
-        "Sarah-Jayne Blakemore",
-        "Matthew Cobb"
+        "Rory Bremner"
       ],
       "topics": [
         "teenage",
@@ -3410,8 +3026,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Chris Addison",
-        "Martha Clokie"
+        "Chris Addison"
       ],
       "topics": [
         "antibiotic"
@@ -3430,9 +3045,7 @@
       "itunes_duration": "2770",
       "speakers": [
         "Robin Ince",
-        "Katy Brand",
-        "Steve Backshall",
-        "Tim Birkhead"
+        "Katy Brand"
       ],
       "topics": [
         "life",
@@ -3453,9 +3066,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Dara O'Briain",
-        "Sheila Rowan",
-        "Nils Andersson"
+        "Dara O'Briain"
       ],
       "topics": [
         "star",
@@ -3474,12 +3085,8 @@
       "enclosure_length": "45888000",
       "itunes_duration": "2868",
       "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Andy Nyman",
-        "Diane Morgan",
-        "Richard Wiseman",
-        "Francesca Stavrakopoulou"
+        "Christmas Special",
+        "Cage Christmas Special"
       ],
       "topics": [
         "christmas",
@@ -3499,13 +3106,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48800000",
       "itunes_duration": "3050",
-      "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Katy Brand",
-        "Uta Frith",
-        "Sophie Scott"
-      ],
+      "speakers": [],
       "topics": [
         "mind",
         "brain"
@@ -3522,14 +3123,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36624000",
       "itunes_duration": "2289",
-      "speakers": [
-        "Elon Musk",
-        "Brian Cox",
-        "Robin Ince",
-        "Phill Jupitus",
-        "Nick Bostrom",
-        "Anil Seth"
-      ],
+      "speakers": [],
       "topics": [
         "simulation"
       ]
@@ -3548,9 +3142,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Dave Gorman",
-        "Tim Cockerill",
-        "Amoret Whitaker"
+        "Dave Gorman"
       ],
       "topics": [
         "earth"
@@ -3569,10 +3161,7 @@
       "itunes_duration": "2340",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Andrea Sella",
-        "Gabrielle Walker",
-        "Sara Pascoe"
+        "Robin Ince"
       ],
       "topics": [
         "oxygen",
@@ -3593,10 +3182,7 @@
       "enclosure_length": "42528000",
       "itunes_duration": "2658",
       "speakers": [
-        "Robin Ince",
-        "Terry Virts",
-        "Claude Nicollier",
-        "Charlie Duke"
+        "Robin Ince"
       ],
       "topics": [
         "astronaut",
@@ -3616,13 +3202,7 @@
       "itunes_duration": "2725",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Sara Pascoe",
-        "Dane Baptiste",
-        "Katy Brand",
-        "Eric Idle",
-        "Charlie Duke",
-        "Monkey Cage"
+        "Robin Ince"
       ],
       "topics": [
         "particle"
@@ -3642,9 +3222,7 @@
       "speakers": [
         "Visible Brian Cox",
         "Robin Ince",
-        "Katy Brand",
-        "Prof Carlos Frenk",
-        "Prof Matthew Cobb"
+        "Katy Brand"
       ],
       "topics": [
         "invisible",
@@ -3664,11 +3242,7 @@
       "itunes_duration": "2437",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Ross Noble",
-        "Danielle Schreve",
-        "Chris Stringer",
-        "Trafalgar Square"
+        "Robin Ince"
       ],
       "topics": [
         "human",
@@ -3689,9 +3263,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Andy Hamilton",
-        "Jon Copley",
-        "Helen Scales"
+        "Andy Hamilton"
       ],
       "topics": [
         "ocean"
@@ -3711,9 +3283,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Rufus Hound",
-        "Alice Roberts",
-        "Adam Rutherford"
+        "Rufus Hound"
       ],
       "topics": [
         "science",
@@ -3733,11 +3303,7 @@
       "itunes_duration": "2539",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Hannah Fry",
-        "Alex Bellos",
-        "Richard Wiseman",
-        "Helen Zaltzman"
+        "Robin Ince"
       ],
       "topics": [
         "house",
@@ -3756,10 +3322,7 @@
       "enclosure_length": "43360000",
       "itunes_duration": "2710",
       "speakers": [
-        "Brian Cox",
-        "Russell Kane",
-        "Helen Czerski",
-        "Danielle George"
+        "Brian Cox"
       ],
       "topics": [
         "science",
@@ -3780,10 +3343,7 @@
       "itunes_duration": "2491",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "deGrasse Tyson",
-        "Mark Gatiss",
-        "Deborah Hyde"
+        "Robin Ince"
       ],
       "topics": [
         "christmas",
@@ -3803,11 +3363,7 @@
       "itunes_duration": "2779",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Jodrell Bank",
-        "Ben Miller",
-        "Paul Abel",
-        "Tim O'Brien"
+        "Robin Ince"
       ],
       "topics": [
         "universe"
@@ -3827,10 +3383,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Mary Shelley",
-        "Noel Fielding",
-        "Nick Lane",
-        "Christopher Frayling"
+        "Mary Shelley"
       ],
       "topics": [
         "year",
@@ -3852,8 +3405,7 @@
         "Brian Cox",
         "Robin Ince",
         "Sophie Scott",
-        "Steve Jones",
-        "Sara Pascoe"
+        "Steve Jones"
       ],
       "topics": [
         "battle"
@@ -3874,8 +3426,7 @@
         "Brian Cox",
         "Robin Ince",
         "Russell Foster",
-        "Richard Wiseman",
-        "Katy Brand"
+        "Richard Wiseman"
       ],
       "topics": [
         "science",
@@ -3894,10 +3445,7 @@
       "enclosure_length": "49664000",
       "itunes_duration": "3104",
       "speakers": [
-        "Robin Ince",
-        "Rufus Hound",
-        "Andrea Sella",
-        "Lucie Green"
+        "Robin Ince"
       ],
       "topics": [
         "recipe",
@@ -3916,13 +3464,7 @@
       "enclosure_length": "41232000",
       "itunes_duration": "2577",
       "speakers": [
-        "Robin Ince",
-        "Matt Kirshen",
-        "KT Tunstall",
-        "Nitin Sawhney",
-        "Lucy Cooke",
-        "Trevor Cox",
-        "Julie Andrews"
+        "Robin Ince"
       ],
       "topics": [
         "sound",
@@ -3965,8 +3507,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Tony Ryan",
-        "Gabrielle Walker"
+        "Tony Ryan"
       ],
       "topics": [
         "climate",
@@ -3986,10 +3527,7 @@
       "itunes_duration": "2788",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Paul Foot",
-        "Hannah Fry",
-        "David Speigelhalter"
+        "Brian Cox"
       ],
       "topics": [
         "math",
@@ -4010,9 +3548,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "David Eagleman",
-        "Sophie Scott",
-        "Bridget Christie"
+        "David Eagleman"
       ],
       "topics": [
         "reality"
@@ -4031,11 +3567,7 @@
       "itunes_duration": "2366",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Jon Culshaw",
-        "Sarah Bridle",
-        "Tim O'Brien",
-        "Dark Matter"
+        "Robin Ince"
       ],
       "topics": [
         "universe"
@@ -4055,9 +3587,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Shappi Khorsandi",
-        "Adam Rutherford",
-        "Mark Thomas"
+        "Shappi Khorsandi"
       ],
       "topics": [
         "race"
@@ -4075,11 +3605,7 @@
       "enclosure_length": "41504000",
       "itunes_duration": "2594",
       "speakers": [
-        "Robin Ince",
-        "Jo Brand",
-        "Anil Seth",
-        "Alan Winfield",
-        "Artificial Intelligence"
+        "Robin Ince"
       ],
       "topics": [
         "artificial",
@@ -4098,11 +3624,7 @@
       "enclosure_length": "44528000",
       "itunes_duration": "2783",
       "speakers": [
-        "Robin Ince",
-        "Ross Noble",
-        "Fay Dowker",
-        "Paul Franklin",
-        "Simon Guerrier"
+        "Robin Ince"
       ],
       "topics": [
         "christmas",
@@ -4137,10 +3659,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28112000",
       "itunes_duration": "1757",
-      "speakers": [
-        "Brian Cox",
-        "Robin Ince"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -4155,11 +3674,7 @@
       "enclosure_length": "47392000",
       "itunes_duration": "2962",
       "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Sue Black",
-        "Mark Spencer",
-        "Rufus Hound"
+        "Brian Cox"
       ],
       "topics": [
         "forensic",
@@ -4179,9 +3694,7 @@
       "itunes_duration": "2834",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Andy Green",
-        "Danielle George"
+        "Robin Ince"
       ],
       "topics": [
         "speed"
@@ -4200,10 +3713,7 @@
       "itunes_duration": "2858",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Seth Shostack",
-        "Dr Carolyn Porco",
-        "Paul Provenza"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -4226,10 +3736,7 @@
       "itunes_duration": "2742",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Peter Sagal",
-        "Paul Sereno",
-        "Jerry Coyne"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -4251,11 +3758,7 @@
       "enclosure_length": "44000000",
       "itunes_duration": "2750",
       "speakers": [
-        "Robin Ince",
-        "Tron Legacy",
-        "Sean Carroll",
-        "Joe Rogan",
-        "Eric Idle"
+        "Robin Ince"
       ],
       "topics": [
         "infinite",
@@ -4277,12 +3780,7 @@
       "enclosure_length": "45760000",
       "itunes_duration": "2860",
       "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Bill Nye",
-        "Janna Levin",
-        "Tim Daly",
-        "Lisa Lampanelli"
+        "Monkey Cage"
       ],
       "topics": [
         "infinite",
@@ -4305,9 +3803,7 @@
       "itunes_duration": "2638",
       "speakers": [
         "Robin Ince",
-        "Lee Mack",
-        "Simon Singh",
-        "Andrea Sella"
+        "Lee Mack"
       ],
       "topics": [
         "serendipity"
@@ -4326,10 +3822,7 @@
       "itunes_duration": "2101",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Jane Langdale",
-        "Jim Al-Khalili",
-        "Ed Byrne"
+        "Robin Ince"
       ],
       "topics": [
         "point",
@@ -4349,9 +3842,7 @@
       "itunes_duration": "2646",
       "speakers": [
         "Robin Ince",
-        "Ben Goldacre",
-        "Jeff Forshaw",
-        "Sara Pascoe"
+        "Ben Goldac"
       ],
       "topics": [
         "quantum"
@@ -4372,8 +3863,7 @@
         "Brian Cox",
         "Robin Ince",
         "Jo Brand",
-        "Monica Grady",
-        "Dr Carolyn Porco"
+        "Monica Grady"
       ],
       "topics": [
         "solar",
@@ -4394,8 +3884,7 @@
       "speakers": [
         "Robin Ince",
         "Steve Backshall",
-        "Lucy Cooke",
-        "Andy Hamilton"
+        "Lucy Cooke"
       ],
       "topics": [
         "fierce",
@@ -4416,9 +3905,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "David Aaronovitch",
-        "Richard Wiseman",
-        "Sophie Scott"
+        "David Aaronovitch"
       ],
       "topics": [
         "deception"
@@ -4437,11 +3924,7 @@
       "itunes_duration": "3013",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Brian Blessed Astronaut",
-        "Chris Hadfield Bible",
-        "Francesca Stavrakopoulou Presenter",
-        "Richard Coles Producer"
+        "Robin Ince"
       ],
       "topics": [
         "christmas",
@@ -4464,8 +3947,7 @@
         "Robin Ince",
         "Josie Long",
         "Paul Foot",
-        "Richard Wiseman",
-        "Stuart Ritchie"
+        "Richard Wise"
       ],
       "topics": [
         "irrationality"
@@ -4483,11 +3965,7 @@
       "enclosure_length": "39648000",
       "itunes_duration": "2478",
       "speakers": [
-        "Robin Ince",
-        "Carlos Frenk",
-        "Faye Dowker",
-        "Ben Miller",
-        "Richard Vranch"
+        "Robin Ince"
       ],
       "topics": [
         "bang"
@@ -4508,9 +3986,7 @@
         "Brian Cox",
         "Robin Ince",
         "Stephen Fry",
-        "Eric Idle",
-        "Tony Ryan",
-        "Lucie Green"
+        "Eric Idle"
       ],
       "topics": [
         "science"
@@ -4530,9 +4006,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Katy Brand",
-        "Philip Ball",
-        "Kevin Fong"
+        "Katy Brand"
       ],
       "topics": [
         "science"
@@ -4551,10 +4025,7 @@
       "itunes_duration": "2768",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Keith Jensen",
-        "Katie Slocombe",
-        "Ross Noble"
+        "Brian Cox"
       ],
       "topics": [
         "humans",
@@ -4573,14 +4044,7 @@
       "enclosure_length": "43488000",
       "itunes_duration": "2718",
       "speakers": [
-        "Monkey Cage",
-        "Brian Cox",
-        "Robin Ince",
-        "Stephen Fry",
-        "Ross Noble",
-        "Katy Brand",
-        "Ben Miller",
-        "Dave Gorman"
+        "Monkey Cage"
       ],
       "topics": [
         "numbers"
@@ -4599,8 +4063,7 @@
       "itunes_duration": "1663",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Rami Tzabar"
+        "Robin Ince"
       ],
       "topics": [
         "brian",
@@ -4623,10 +4086,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Matthew Cobb",
-        "Helen Keen",
-        "James Burke",
-        "Rami Tzabar"
+        "Manchester Univ"
       ],
       "topics": [
         "science",
@@ -4646,11 +4106,7 @@
       "itunes_duration": "2117",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Sandy Knapp",
-        "Simon Watt",
-        "Sara Pascoe",
-        "Rami Tzabar"
+        "Robin Ince"
       ],
       "topics": [
         "pandas"
@@ -4669,11 +4125,7 @@
       "itunes_duration": "2097",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "John Lloyd",
-        "Colva Roney Dougal",
-        "Simon Singh",
-        "Rami Tzabar"
+        "Robin Ince"
       ],
       "topics": [
         "infinity"
@@ -4692,12 +4144,7 @@
       "itunes_duration": "2528",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Dave Martill",
-        "Hermione Cockburn",
-        "Ross Noble",
-        "Eric Idle",
-        "Rami Tzabar"
+        "Robin Ince"
       ],
       "topics": [
         "science",
@@ -4717,11 +4164,7 @@
       "itunes_duration": "2488",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Claudia Hammond",
-        "Beau Lotto",
-        "Alan Moore",
-        "Rami Tzabar"
+        "Robin Ince"
       ],
       "topics": [
         "door",
@@ -4739,14 +4182,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35952000",
       "itunes_duration": "2247",
-      "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "David Spiegelhalter",
-        "Sue Ion",
-        "Graeme Garden",
-        "Rami Tzabar"
-      ],
+      "speakers": [],
       "topics": [
         "risk"
       ]
@@ -4763,11 +4199,7 @@
       "enclosure_length": "42864000",
       "itunes_duration": "2679",
       "speakers": [
-        "Robin Ince",
-        "Josie Long",
-        "Neil deGrasse Tyson",
-        "Richard Holmes",
-        "Doc Brown"
+        "Robin Ince"
       ],
       "topics": [
         "science",
@@ -4788,10 +4220,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Alfred Russel Wallace",
-        "Steve Jones",
-        "Aoife McLysaght",
-        "Tony Law"
+        "Alfred Russel Wallace"
       ],
       "topics": [
         "alfred",
@@ -4813,9 +4242,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Ben Goldacre",
-        "Sophie Scott",
-        "Evan Davis"
+        "Ben Gold"
       ],
       "topics": [
         "science"
@@ -4834,8 +4261,7 @@
       "itunes_duration": "2495",
       "speakers": [
         "Robin Ince",
-        "Brian Blessed",
-        "Kevin Fong"
+        "Brian Blessed"
       ],
       "topics": [
         "space",
@@ -4855,10 +4281,7 @@
       "itunes_duration": "2590",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "KT Tunstall",
-        "Fay Dowker",
-        "Jeff Forshaw"
+        "Robin Ince"
       ],
       "topics": [
         "glastonbury"
@@ -4876,11 +4299,7 @@
       "enclosure_length": "27104000",
       "itunes_duration": "1694",
       "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Katy Brand",
-        "Nick Lane",
-        "Sue Black"
+        "Brian Cox"
       ],
       "topics": [
         "death"
@@ -4899,10 +4318,7 @@
       "itunes_duration": "1697",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Mark Gatiss",
-        "Steve Jones",
-        "Richard Wiseman"
+        "Robin Ince"
       ],
       "topics": [
         "christmas",
@@ -4926,8 +4342,7 @@
         "Robin Ince",
         "Ed Byrne",
         "Adam Rutherford",
-        "Philip Ball",
-        "Brian Cox"
+        "Philip Ball"
       ],
       "topics": [
         "life"
@@ -4946,9 +4361,7 @@
       "itunes_duration": "1697",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Jo Brand",
-        "Brian Butterworth"
+        "Robin Ince"
       ],
       "topics": [
         "brain",
@@ -4969,9 +4382,7 @@
       "speakers": [
         "Robin Ince",
         "Brian Cox",
-        "Dave Gorman",
-        "Simon Singh",
-        "Dr Sue Black"
+        "Dave Gorman"
       ],
       "topics": [
         "science"
@@ -4990,10 +4401,7 @@
       "itunes_duration": "1682",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Marc Abrahams",
-        "Katy Brand",
-        "Matthew Cobb"
+        "Robin Ince"
       ],
       "topics": [
         "science"
@@ -5012,11 +4420,7 @@
       "itunes_duration": "1693",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Jean Luc Picard",
-        "Patrick Stewart",
-        "Ben Miller",
-        "Monica Grady"
+        "Robin Ince"
       ],
       "topics": [
         "space",
@@ -5035,11 +4439,7 @@
       "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "Robin Ince",
-        "Al Murray",
-        "Andrew Pontzen",
-        "Sara Pascoe",
-        "Jonathan Butterworth"
+        "Robin Ince"
       ],
       "topics": [
         "science"
@@ -5058,9 +4458,7 @@
       "itunes_duration": "1693",
       "speakers": [
         "Parallel Universes Brian Cox",
-        "Robin Ince",
-        "John Lloyd",
-        "Martin Rees"
+        "Robin Ince"
       ],
       "topics": [
         "universes"
@@ -5080,8 +4478,7 @@
       "speakers": [
         "Robin Ince",
         "Marcus Du Sautoy",
-        "Adam Rutherford",
-        "Alan Moore"
+        "Adam Ruthe"
       ],
       "topics": [
         "science",
@@ -5103,9 +4500,7 @@
         "Size Matter",
         "Robin Ince",
         "Brian Cox",
-        "Andy Hamilton",
-        "Mark Miodownik",
-        "Eleanor Stride"
+        "Andy Hamilton"
       ],
       "topics": [
         "size",
@@ -5125,12 +4520,7 @@
       "itunes_duration": "1691",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Marcus Brigstocke",
-        "Kevin Fong",
-        "Aoife McLysaght",
-        "Barry Marshall",
-        "Brian Cox Producer"
+        "Robin Ince"
       ],
       "topics": [
         "science",
@@ -5150,11 +4540,7 @@
       "itunes_duration": "1686",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Dave Gorman",
-        "Lloyd Peck",
-        "Bramley Murton",
-        "Brian Cox Producer"
+        "Robin Ince"
       ],
       "topics": [
         "ocean",
@@ -5175,10 +4561,7 @@
       "enclosure_length": "27184000",
       "itunes_duration": "1699",
       "speakers": [
-        "Brian Cox",
-        "Richard Dawkins",
-        "Mark Gatiss",
-        "Roger Highfield"
+        "Brian Cox"
       ],
       "topics": [
         "science",
@@ -5198,11 +4581,7 @@
       "itunes_duration": "1682",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Joining Brian",
-        "Dara O'Briain",
-        "Andrea Sella",
-        "Tony Ryan"
+        "Brian Cox"
       ],
       "topics": [
         "chemist"
@@ -5221,10 +4600,7 @@
       "itunes_duration": "1692",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Trevor Cox",
-        "Chris Plack",
-        "Tom Wrigglesworth"
+        "Brian Cox"
       ],
       "topics": [
         "science",
@@ -5244,10 +4620,7 @@
       "itunes_duration": "1701",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Tim Minchin",
-        "Adam Rutherford",
-        "Nick Lane"
+        "Brian Cox"
       ],
       "topics": [
         "origins",
@@ -5268,8 +4641,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Paul Nurse",
-        "Katy Brand"
+        "Paul Nurse"
       ],
       "topics": [
         "balanced",
@@ -5290,11 +4662,7 @@
       "itunes_duration": "1700",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Jon Culshaw",
-        "Jeff Forshaw",
-        "Matthew Cobb",
-        "Alan Carr"
+        "Brian Cox"
       ],
       "topics": [
         "north"
@@ -5314,9 +4682,7 @@
       "speakers": [
         "Robin Ince",
         "Brian Cox",
-        "Andy Nyman",
-        "Richard Wiseman",
-        "Bruce Hood"
+        "Andy Nyman"
       ],
       "topics": [
         "science",
@@ -5336,12 +4702,8 @@
       "enclosure_length": "28992000",
       "itunes_duration": "1812",
       "speakers": [
-        "Brian Cox",
-        "Robin Ince",
-        "Billy Bragg",
-        "Graham Coxon",
-        "Shappi Khorsandi",
-        "Tony Ryan"
+        "Rational World",
+        "Glastonbury Special Radio"
       ],
       "topics": [
         "room",
@@ -5363,11 +4725,7 @@
       "itunes_duration": "1694",
       "speakers": [
         "Robin Ince",
-        "Brian Cox",
-        "Alan Moore",
-        "Ed Copeland",
-        "Dallas Campbell",
-        "String Theory"
+        "Brian Cox"
       ],
       "topics": [
         "cosmology",
@@ -5388,8 +4746,7 @@
       "speakers": [
         "Robin Ince",
         "Brian Cox",
-        "Helen Keen",
-        "Kevin Fong"
+        "Helen Keen"
       ],
       "topics": [
         "astronaut"
@@ -5409,9 +4766,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Stephen Fry",
-        "Simon Singh",
-        "Russell Crowe"
+        "Stephen Fry"
       ],
       "topics": [
         "degree"
@@ -5430,9 +4785,7 @@
       "itunes_duration": "1670",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Paul Foot",
-        "Steve Jones"
+        "Robin Ince"
       ],
       "topics": []
     },
@@ -5450,9 +4803,7 @@
       "speakers": [
         "Brian Cox",
         "Robin Ince",
-        "Alexei Sayle",
-        "Julian Baggini",
-        "Stephen Hawking"
+        "Alexei Sayle"
       ],
       "topics": [
         "philosophy"
@@ -5471,9 +4822,7 @@
       "itunes_duration": "1685",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Tim Minchin",
-        "Alex Bellos"
+        "Robin Ince"
       ],
       "topics": [
         "randomness"
@@ -5492,8 +4841,7 @@
       "itunes_duration": "1690",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Paul Foot"
+        "Robin Ince"
       ],
       "topics": [
         "modern",
@@ -5513,8 +4861,7 @@
       "itunes_duration": "1681",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Andy Hamilton"
+        "Robin Ince"
       ],
       "topics": [
         "apocalypse"
@@ -5553,9 +4900,7 @@
       "speakers": [
         "Jonathan Ross",
         "Alan Moore",
-        "Brian Greene",
-        "Brian Cox",
-        "Robin Ince"
+        "Brian Greene"
       ],
       "topics": [
         "science",
@@ -5576,9 +4921,7 @@
       "itunes_duration": "1687",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Ben Goldacre",
-        "Dave Gorman"
+        "Robin Ince"
       ],
       "topics": [
         "scientist"
@@ -5597,9 +4940,7 @@
       "itunes_duration": "1685",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Ben Miller",
-        "Robert Winston"
+        "Robin Ince"
       ],
       "topics": [
         "popular",
@@ -5619,10 +4960,7 @@
       "itunes_duration": "1511",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Victor Stock",
-        "Guildford Cathedral",
-        "Adam Rutherford"
+        "Robin Ince"
       ],
       "topics": [
         "science",
@@ -5642,8 +4980,7 @@
       "itunes_duration": "1513",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Ben Miller"
+        "Robin Ince"
       ],
       "topics": [
         "quantum",
@@ -5663,9 +5000,7 @@
       "itunes_duration": "1511",
       "speakers": [
         "Brian Cox",
-        "Robin Ince",
-        "Jon Ronson",
-        "Seth Shostack"
+        "Robin Ince"
       ],
       "topics": [
         "life"
@@ -5685,8 +5020,7 @@
       "speakers": [
         "Dara O'Briain",
         "Alice Roberts",
-        "Brian Cox",
-        "Robin Ince"
+        "Brian Cox"
       ],
       "topics": [
         "science",
@@ -5700,242 +5034,243 @@
 
 ## Episodes (newest first)
 
-- 2025-12-24 — The North Pole Unwrapped - Russell Kane, Felicity Aston and Lloyd Peck — speakers: Lloyd Peck, Brian Cox, Robin Ince, Santa Claus, Russell Kane, Mel Brown, Alex Rodway Executive
-- 2025-12-17 — Monkey Business - Robin Dunbar, Dave Gorman and Jo Setchell — speakers: Monkey Business Robin Dunbar, Dave Gorman, Jo Setchell, Monkey Cage, Brian Cox, Robin Ince, Robin Dunbar, Mel Brown
-- 2025-12-10 — Head in the Clouds - Owain Wyn Evans, Gavin Pretor-Pinney, Amanda Maycock — speakers: Gavin Pretor-Pinney, Amanda Maycock Robin Ince, Brian Cox, Amanda Maycock, Mel Brown, Alex Rodway Executive
-- 2025-12-03 — Fusion – Ria Lina, Yasmin Andrew and Howard Wilson — speakers: Yasmin Andrew, Howard Wilson, Robin Ince, Brian Cox, Ria Lina, Melanie Brown
-- 2025-11-26 — What’s the deal with eels? – Lucy Porter, David Righton and Caroline Durif — speakers: Lucy Porter, David Righton, Caroline Durif, Brian Cox, Robin Ince, Melanie Brown, Olivia Jani Executive
-- 2025-11-19 — What’s the time? - Marcus Brigstocke, Leon Lobo, Louise Devoy — speakers: Marcus Brigstocke, Leon Lobo, Louise Devoy, Robin Ince, Brian Cox, Melanie Brown
-- 2025-11-12 — Mind-reading Computers – Phil Wang, Anne Vanhoestenberghe and Luke Bashford — speakers: Phil Wang, Anne Vanhoestenberghe, Brian Cox, Robin Ince, Luke Bashford, Melanie Brown
-- 2025-08-20 — Illuminating Light - Jess Wade, Russell Foster and Bridget Christie — speakers: Russell Foster, Bridget Christie, Brian Cox, Robin Ince, Jess Wade, Melanie Brown, Olivia Jani Executive
-- 2025-08-13 — Moths v Butterflies - Katy Brand, Jane Hill and Chris Jiggins — speakers: Jane Hill, Chris Jiggins, Brian Cox, Robin Ince, Katy Brand, Melanie Brown
-- 2025-08-06 — Technofossils - Sarah Gabbott, Mark Miodownik and Aurie Styla — speakers: Sarah Gabbott, Mark Miodownik, Aurie Styla Brian Cox, Robin Ince, Aurie Styla, Melanie Brown, Olivia Jani Executive
-- 2025-07-30 — The Mighty Spud - Sandy Knapp, Glenn Bryan and Susan Calman — speakers: Glenn Bryan, Susan Calman, Robin Ince, Brian Cox, Sandy Knapp, Helen Anahita-Wilson, Melanie Brown, Olivia Jani Executive
-- 2025-07-23 — How to Build the Perfect Athlete - Helen Glover, Hugh Dennis, Steve Haake and Emma Ross — speakers: Hugh Dennis, Steve Haake, Emma Ross, Brian Cox, Robin Ince, Helen Glover, Hugh Dennis who, Melanie Brown
-- 2025-07-16 — Should We Settle in Space? - Tim Peake, Kelly Weinersmith and Alan Davies — speakers: Tim Peake, Kelly Weinersmith, Alan Davies Brian Cox, Robin Ince, Harwell Campus, Alan Davies, Melanie Brown, Olivia Jani Executive
-- 2025-07-09 — 201st Birthday Bonanza - Mel Giedroyc, Deborah Meaden and Nish Kumar — speakers: Bonanza Mel Giedroyc, Deborah Meaden, Brian Cox, Robin Ince, Mel Giedroyc, Isabel Coman, Liz Paul, Ed Hawkins
-- 2025-03-26 — Nature's Shapes - Dave Gorman, Sarah Hart and Thomas Woolley — speakers: Dave Gorman, Sarah Hart, Thomas Woolley Brian Cox, Robin Ince, Thomas Woolley, Alan Turing, Melanie Brown, Olivia Jani
-- 2025-03-19 — The Sound of Music - Brian Eno, Sam Bennett and Trevor Cox — speakers: Sam Bennett, Trevor Cox Brian Cox, Robin Ince, Trevor Cox, Brian Eno, Melanie Brown, Olivia Jani
-- 2025-03-12 — Saturn v Jupiter - Katherine Parkinson, Paul Abel and Michele Dougherty — speakers: Paul Abel, Michele Dougherty Brian Cox, Robin Ince, Team Saturn, Michele Dougherty, Kuiper Belt, Melanie Brown, Olivia Jani
-- 2025-03-05 — Adventures on Ice - Darren Harriott, Liz Morris, Christoph Salzmann and Felicity Aston — speakers: Liz Morris, Christoph Salzmann, Robin Ince, Brian Cox, Darren Harriott, Melanie Brown, Olivia Jani
-- 2025-02-26 — How selfish are we really? - Jo Brand, Matti Wilks and Steve Jones — speakers: Jo Brand, Steve Jones Brian Cox, Robin Ince, Steve Jones, Matti Wilks, Melanie Brown, Olivia Jani
-- 2025-02-19 — Journey to the Centre of the Earth - Phil Wang, Ana Ferreira and Chris Jackson — speakers: Ana Ferreira, Chris Jackson, Brian Cox, Robin Ince, Phil Wang, Melanie Brown, Olivia Jani
-- 2024-12-25 — An Unexpected History of the Body — speakers: Brian Cox, Robin Ince, Prof Helen King, Mark Walport, Keith Moore, Ed Byrne, Melanie Brown, Olivia Jani
-- 2024-12-18 — Is Extinction the End? — speakers: Brian Cox, Robin Ince, Adam Rutherford, Susannah Maidment, Melanie Brown, Olivia Jani
-- 2024-12-11 — Fantastic Elastic — speakers: Robin Ince, Jessica Fostekew, Anna Ploszajski, Prof James Busfield, Bryony Page, Melanie Brown, Olivia Jani
-- 2024-12-04 — The Science of Baby Making — speakers: Brian Cox, Robin Ince, Joyce Harper, Ben Steventon, Sara Pascoe, Melanie Brown, Olivia Jani
-- 2024-11-27 — Starless World — speakers: Brian Cox, Robin Ince, Maggie Aderin-Pocock, Roberto Trotta, John Bishop, Melanie Brown, Olivia Jani
-- 2024-11-20 — Hedgehogs — speakers: Brian Cox, Robin Ince, Hugh Warwick, Sophie Lund Rasmussen, Dr Hedgehog, Melanie Brown, Olivia Jani
-- 2024-11-13 — The Cyber Codebreakers — speakers: Brian Cox, Robin Ince, Alan Davies, Victoria Baines, Richard Benham, Melanie Brown, Olivia Jani
-- 2024-08-21 — Alien Life - Russell Kane, Lisa Kaltenegger and Chris Lintott — speakers: Lisa Kaltenegger, Chris Lintott, Brian Cox, Russell Kane, Melanie Brown
-- 2024-08-14 — An Unexpected History of Science - Rufus Hound, Matthew Cobb, Victoria Herridge and Keith Moore — speakers: Matthew Cobb, Victoria Herridge, Keith Moore Brian Cox, Robin Ince, Rufus Hound, Tori Herridge, Keith Moore, Melanie Brown
-- 2024-08-07 — What a Gas! - Dave Gorman, Mark Miodownik and Lucy Carpenter — speakers: Dave Gorman, Mark Miodownik, Lucy Carpenter, Brian Cox, Robin Ince, Melanie Brown
-- 2024-07-31 — Extreme Exploration - Anneka Rice, Mike Massimino, Britney Schmidt and Jess Phoenix — speakers: Mike Massimino, Britney Schmidt, Jess Phoenix Brian Cox, Jess Phoenix, Anneka Rice, Melanie Brown
-- 2024-07-24 — 'Beastly Bodies' Kids Special - Steve Backshall, Jess French and Adam Kay — speakers: Adam Kay Brian Cox, Robin Ince, Steve Backshall, Adam Kay, Melanie Brown
-- 2024-07-17 — Science of Board Games - Jess Fostekew, Marcus du Sautoy and Dave Neale — speakers: Dave Neale Brian Cox, Robin Ince, Dave Neale, Jessica Fostekew, Melanie Brown
-- 2024-07-10 — The Wonder of Trees - Dame Judi Dench, Tony Kirkham and Tristan Gooley — speakers: Tony Kirkham, Tristan Gooley Brian Cox, Robin Ince, Tristan Gooley, Melanie Brown
-- 2024-05-29 — The Infinite Monkey's Guide To… Audience Favourites (Pt 2) — speakers: Comedian Claire Hooper, Comedian Noel Fielding, Joey Ramone, Alan Moore, Jonathan Ross
-- 2024-05-22 — The Infinite Monkey's Guide To… Tiny Things — speakers: Brian Cox, Robin Ince, Andy Hamilton, Erica McAlister
-- 2024-05-15 — The Infinite Monkey's Guide To… The Future — speakers: Eric Idle, Lucie Green, Brian Cox, Robin Ince, Chris Addison
-- 2024-05-08 — The Infinite Monkey's Guide To… Failure — speakers: Brian Cox, Robin Ince, Charles Darwin, Alice Roberts, Chris van Tulleken
-- 2024-05-01 — The Infinite Monkey's Guide To… Gambling — speakers: Robin Ince, Brian Cox, Richard Wiseman
-- 2024-04-24 — The Infinite Monkey's Guide To… The Gods — speakers: Robin Ince, Brian Cox, Eric Idle, Katy Brand
-- 2024-04-17 — The Infinite Monkey's Guide To… Talking to Aliens — speakers: Brian Cox, Robin Ince, Comedian Conan O’Brien
-- 2024-04-10 — The Infinite Monkey's Guide To… Gardening — speakers: Robin Ince, Brian Cox, Ed Byrne, Mark Spencer, grey squirrel, Erica McAllister
-- 2024-04-03 — The Infinite Monkey's Guide To… Love — speakers: Hannah Fry, Robin Ince, Brian Cox
-- 2024-03-27 — The Infinite Monkey's Guide To… Murder — speakers: Brian Cox, Robin Ince, Amoret Whitaker, Julia Shaw
-- 2024-03-20 — Higgs Boson — speakers: Higgs Boson Brian Cox, Robin Ince, Hadron Collider, Katy Brand, Ben Miller, Clara Nellist, Melanie Brown
-- 2024-03-13 — Cats v Dogs — speakers: Brian Cox, Robin Ince, Deborah Meaden, David Baddiel, Ben Garrod, Melanie Brown
-- 2024-03-06 — Poison — speakers: Robin Ince, Hugh Dennis, Andrea Sella, Kathryn Harkup, Melanie Brown
-- 2024-02-28 — Asteroids — speakers: Brian Cox, Robin Ince, John Bishop, Sara Russell, Alan Fitzsimmons, Melanie Brown
-- 2024-02-21 — Could it be magic? — speakers: Brian Cox, Robin Ince, Alan Davies, Laura London, Richard Wiseman, Gustav Kuhn, Melanie Brown
-- 2024-02-14 — Egyptian Mummies — speakers: Brian Cox, Robin Ince, Russel Kane, Lucy Porter, Egyptologists Rosalie David, Lidija McKnight, Melanie Brown
-- 2023-12-20 — The Monkeys meet The Sky at Night — speakers: Robin Ince, Maggie Aderin Pocock, Chris Lintott, Pete Lawrence
-- 2023-12-13 — Jo Brand's Quantum World — speakers: Jo Brand, Brian Cox, Robin Ince, Prof Ben Allanach, Prof Fay Dowker
-- 2023-12-06 — Hollywood in Space — speakers: Brian Cox, Robin Ince, Tim Peake, Nicole Stott, Susan Kilrain, Paul Franklin
-- 2023-11-29 — The Scale of Life (or were dinosaurs just too big?) — speakers: Susie Maidment, Tori Herridge, Dave Gorman
-- 2023-11-22 — How I is AI? — speakers: Prof Hannah Fry, Kate Devlin, Rufus Hound
-- 2023-11-14 — The Science of Coincidence — speakers: Sophie Duker, Marcus Du Sautoy, David Spiegelhalter
-- 2023-11-08 — The Infinite Monkey’s Guide to... Audience Favourites — speakers: Susie Maidment, Jon Culshaw, Erica McAlister, Brendan Hunt
-- 2023-11-08 — Octopuses! — speakers: Tim Lamont, Amy Courtney, Russell Kane
-- 2023-11-01 — The Infinite Monkey’s Guide to... Infinity — speakers: John Lloyd, Carlos Frenk
-- 2023-10-25 — The Infinite Monkey’s Guide to... Being Human — speakers: Brian Cox, Robin Ince, Monkey Cage, Alice Roberts, Bill Bailey, Jane Goodall, Conan O’Brien, David Baddiel
-- 2023-10-18 — The Infinite Monkey’s Guide to... Oceans — speakers: Lloyd Peck, Dave Gorman, Tim Minchin, Brian Cox
-- 2023-10-11 — The Infinite Monkey’s Guide to... Building a Universe — speakers: Rufus Hound, Matt Lucas, Eric Idle
-- 2023-10-04 — The Infinite Monkey’s Guide to... Strawberries — speakers: Robin Ince, Brian Cox, Katy Brand, Rufus Hound, Susan Calman
-- 2023-09-27 — The Infinite Monkey’s Guide to... The Movies — speakers: Brian Cox, Robin Ince, Ross Noble, Alan Moore, Patrick Stewart
-- 2023-09-20 — The Infinite Monkey’s Guide To... Space Travel — speakers: Brian Blessed, Patrick Stewart, Nicole Stott, Charlie Duke, Brian Cox, Robin Ince, Astronaut’s Guide
-- 2023-09-13 — The Infinite Monkey’s Guide To... The Apocalypse — speakers: Brian Cox, Robin Ince, Steve Martin, Katie Mack, Eric Idle
-- 2023-09-06 — The Infinite Monkey’s Guide to... The Supernatural — speakers: Brian Cox, Robin Ince, Lucy Beaumont
+- 2026-03-06 — Introducing... Life Without — speakers: Alan Davies
+- 2025-12-24 — The North Pole Unwrapped - Russell Kane, Felicity Aston and Lloyd Peck — speakers: Lloyd Peck, Brian Cox, Robin Ince
+- 2025-12-17 — Monkey Business - Robin Dunbar, Dave Gorman and Jo Setchell — speakers: Monkey Business Robin Dunbar, Dave Gorman, Jo Setchell, Monkey Cage, Brian Cox, Robin Ince
+- 2025-12-10 — Head in the Clouds - Owain Wyn Evans, Gavin Pretor-Pinney, Amanda Maycock — speakers: Gavin Pretor-Pinney, Amanda Maycock Robin Ince, Brian Cox
+- 2025-12-03 — Fusion – Ria Lina, Yasmin Andrew and Howard Wilson — speakers: Yasmin Andrew, Howard Wilson, Robin Ince, Brian Cox
+- 2025-11-26 — What’s the deal with eels? – Lucy Porter, David Righton and Caroline Durif — speakers: Lucy Porter, David Righton, Caroline Durif, Brian Cox, Robin Ince
+- 2025-11-19 — What’s the time? - Marcus Brigstocke, Leon Lobo, Louise Devoy — speakers: Marcus Brigstocke, Leon Lobo, Louise Devoy, Robin Ince, Brian Cox
+- 2025-11-12 — Mind-reading Computers – Phil Wang, Anne Vanhoestenberghe and Luke Bashford — speakers: Phil Wang, Anne Vanhoestenberghe, Brian Cox, Robin Ince
+- 2025-08-20 — Illuminating Light - Jess Wade, Russell Foster and Bridget Christie — speakers: Russell Foster, Bridget Christie
+- 2025-08-13 — Moths v Butterflies - Katy Brand, Jane Hill and Chris Jiggins — speakers: Jane Hill, Chris Jiggins
+- 2025-08-06 — Technofossils - Sarah Gabbott, Mark Miodownik and Aurie Styla — speakers: Sarah Gabbott, Mark Miodownik, Aurie Styla Brian Cox, Robin Ince
+- 2025-07-30 — The Mighty Spud - Sandy Knapp, Glenn Bryan and Susan Calman — speakers: Glenn Bryan, Susan Calman, Robin Ince, Brian Cox
+- 2025-07-23 — How to Build the Perfect Athlete - Helen Glover, Hugh Dennis, Steve Haake and Emma Ross — speakers: Hugh Dennis, Steve Haake, Emma Ross, Brian Cox, Robin Ince
+- 2025-07-16 — Should We Settle in Space? - Tim Peake, Kelly Weinersmith and Alan Davies — speakers: Tim Peake, Kelly Weinersmith, Alan Davies Brian Cox, Robin Ince
+- 2025-07-09 — 201st Birthday Bonanza - Mel Giedroyc, Deborah Meaden and Nish Kumar — speakers: Bonanza Mel Giedroyc, Deborah Meaden
+- 2025-03-26 — Nature's Shapes - Dave Gorman, Sarah Hart and Thomas Woolley — speakers: Dave Gorman, Sarah Hart, Thomas Woolley Brian Cox, Robin Ince
+- 2025-03-19 — The Sound of Music - Brian Eno, Sam Bennett and Trevor Cox — speakers: Sam Bennett, Trevor Cox Brian Cox, Robin Ince
+- 2025-03-12 — Saturn v Jupiter - Katherine Parkinson, Paul Abel and Michele Dougherty — speakers: Paul Abel, Michele Dougherty Brian Cox, Robin Ince
+- 2025-03-05 — Adventures on Ice - Darren Harriott, Liz Morris, Christoph Salzmann and Felicity Aston — speakers: Liz Morris, Christoph Salzmann, Robin Ince, Brian Cox
+- 2025-02-26 — How selfish are we really? - Jo Brand, Matti Wilks and Steve Jones — speakers: Jo Brand, Steve Jones Brian Cox, Robin Ince
+- 2025-02-19 — Journey to the Centre of the Earth - Phil Wang, Ana Ferreira and Chris Jackson — speakers: Ana Ferreira, Chris Jackson, Brian Cox, Robin Ince
+- 2024-12-25 — An Unexpected History of the Body — speakers: Brian Cox, Robin Ince
+- 2024-12-18 — Is Extinction the End? — speakers: Brian Cox, Robin Ince
+- 2024-12-11 — Fantastic Elastic — speakers: Robin Ince
+- 2024-12-04 — The Science of Baby Making — speakers: Brian Cox, Robin Ince
+- 2024-11-27 — Starless World — speakers: Brian Cox, Robin Ince
+- 2024-11-20 — Hedgehogs — speakers: Brian Cox, Robin Ince
+- 2024-11-13 — The Cyber Codebreakers — speakers: Brian Cox, Robin Ince, Alan Davies
+- 2024-08-21 — Alien Life - Russell Kane, Lisa Kaltenegger and Chris Lintott — speakers: Lisa Kaltenegger, Chris Lintott, Brian Cox
+- 2024-08-14 — An Unexpected History of Science - Rufus Hound, Matthew Cobb, Victoria Herridge and Keith Moore — speakers: Matthew Cobb, Victoria Herridge, Keith Moore Brian Cox, Robin Ince
+- 2024-08-07 — What a Gas! - Dave Gorman, Mark Miodownik and Lucy Carpenter — speakers: Dave Gorman, Mark Miodownik, Lucy Carpenter, Brian Cox, Robin Ince
+- 2024-07-31 — Extreme Exploration - Anneka Rice, Mike Massimino, Britney Schmidt and Jess Phoenix — speakers: Mike Massimino, Britney Schmidt, Jess Phoenix Brian Cox
+- 2024-07-24 — 'Beastly Bodies' Kids Special - Steve Backshall, Jess French and Adam Kay — speakers: Adam Kay Brian Cox, Robin Ince, Steve Backshall
+- 2024-07-17 — Science of Board Games - Jess Fostekew, Marcus du Sautoy and Dave Neale — speakers: Dave Neale Brian Cox, Robin Ince
+- 2024-07-10 — The Wonder of Trees - Dame Judi Dench, Tony Kirkham and Tristan Gooley — speakers: Tony Kirkham, Tristan Gooley Brian Cox, Robin Ince
+- 2024-05-29 — The Infinite Monkey's Guide To… Audience Favourites (Pt 2) — speakers: Audience Favourites
+- 2024-05-22 — The Infinite Monkey's Guide To… Tiny Things — speakers: Brian Cox, Robin Ince
+- 2024-05-15 — The Infinite Monkey's Guide To… The Future
+- 2024-05-08 — The Infinite Monkey's Guide To… Failure — speakers: Brian Cox, Robin Ince
+- 2024-05-01 — The Infinite Monkey's Guide To… Gambling — speakers: Robin Ince, Brian Cox
+- 2024-04-24 — The Infinite Monkey's Guide To… The Gods — speakers: Robin Ince, Brian Cox
+- 2024-04-17 — The Infinite Monkey's Guide To… Talking to Aliens — speakers: Brian Cox, Robin Ince
+- 2024-04-10 — The Infinite Monkey's Guide To… Gardening — speakers: Robin Ince, Brian Cox
+- 2024-04-03 — The Infinite Monkey's Guide To… Love
+- 2024-03-27 — The Infinite Monkey's Guide To… Murder — speakers: Brian Cox, Robin Ince
+- 2024-03-20 — Higgs Boson — speakers: Higgs Boson Brian Cox, Robin Ince, Hadron Collider
+- 2024-03-13 — Cats v Dogs — speakers: Brian Cox, Robin Ince
+- 2024-03-06 — Poison — speakers: Robin Ince
+- 2024-02-28 — Asteroids — speakers: Brian Cox, Robin Ince
+- 2024-02-21 — Could it be magic? — speakers: Brian Cox, Robin Ince
+- 2024-02-14 — Egyptian Mummies — speakers: Brian Cox, Robin Ince
+- 2023-12-20 — The Monkeys meet The Sky at Night — speakers: Robin Ince
+- 2023-12-13 — Jo Brand's Quantum World — speakers: Jo Brand, Brian Cox, Robin Ince, Jo Bran
+- 2023-12-06 — Hollywood in Space — speakers: Brian Cox, Robin Ince
+- 2023-11-29 — The Scale of Life (or were dinosaurs just too big?) — speakers: Susie Maidment, Tori Herr
+- 2023-11-22 — How I is AI? — speakers: Prof Hannah Fry, Dr Ka
+- 2023-11-14 — The Science of Coincidence
+- 2023-11-08 — The Infinite Monkey’s Guide to... Audience Favourites — speakers: Audience Favourites There
+- 2023-11-08 — Octopuses!
+- 2023-11-01 — The Infinite Monkey’s Guide to... Infinity — speakers: Infinity Endless
+- 2023-10-25 — The Infinite Monkey’s Guide to... Being Human — speakers: Brian Cox, Robin Ince
+- 2023-10-18 — The Infinite Monkey’s Guide to... Oceans — speakers: Oceans If
+- 2023-10-11 — The Infinite Monkey’s Guide to... Building a Universe
+- 2023-10-04 — The Infinite Monkey’s Guide to... Strawberries — speakers: Robin Ince, Brian Cox
+- 2023-09-27 — The Infinite Monkey’s Guide to... The Movies — speakers: Brian Cox, Robin Ince
+- 2023-09-20 — The Infinite Monkey’s Guide To... Space Travel — speakers: Brian Blessed, Patrick Stewart, Nicole Stott, Charlie Duke
+- 2023-09-13 — The Infinite Monkey’s Guide To... The Apocalypse — speakers: Brian Cox, Robin Ince
+- 2023-09-06 — The Infinite Monkey’s Guide to... The Supernatural — speakers: Brian Cox, Robin Ince
 - 2023-09-05 — Welcome to The Infinite Monkey's Guide To... — speakers: Brian Cox, Robin Ince
-- 2023-08-05 — Cosmic Dust — speakers: Brian Cox, Robin Ince, Matthew Genge, Penny Wozniakiewicz, Alan Davies
-- 2023-07-29 — Ancient DNA Secrets — speakers: Brian Cox, Robin Ince, Ben Willbond, Prof Turi King, Tom Booth, Paul Nurse, Richard Iii, Turi King
-- 2023-07-22 — The Secret Life of Sharks — speakers: Robin Ince, Lucy Hawkes, Isla Hodgson, Steve Backshall
-- 2023-07-15 — The Magic of Mushrooms — speakers: Brian Cox, Robin Ince, Merlin Sheldrake, Katie Field
-- 2023-07-08 — Bees v Wasps — speakers: Brian Cox, Robin Ince, Dave Goulson, Seirian Sumner, Comedian Catherine Bohart
-- 2023-07-01 — Supervolcanoes — speakers: Brian Cox, Robin Ince, Tamsin Mather, Chris Jackson, Rachel Parris
-- 2023-06-24 — Are we what we eat? — speakers: Brian Cox, Robin Ince, Chris van Tulleken, Janet Cade, Harry Hill
-- 2023-03-25 — Magic Materials — speakers: Brian Cox, Robin Ince, Mark Miodownik, Anna Ploszajski, Ed Byrne
-- 2023-03-18 — How Far Can the Human Body Go? — speakers: Brian Cox, Robin Ince, Polly McGuigan, Ben Garrod, Russell Kane, Sally Gunnell
-- 2023-03-11 — How to Commit the Perfect Murder — speakers: Brian Cox, Robin Ince, Susan Calman, Prof Sue Black, Julia Shaw, Monkey Cluedo
-- 2023-03-04 — How to think like a mathematician — speakers: Brian Cox, Robin Ince, Jo Brand, Prof Hannah Fry, Eugenia Cheng, Randall Munroe
-- 2023-02-25 — Australia’s Scary Spiders — speakers: Brian Cox, Robin Ince, Dieter Hochuli, Mariella Herberstein, Claire Hooper
-- 2023-02-18 — Southern Skies — speakers: Robin Ince, Devika Kamath, Ross Noble
-- 2022-12-24 — Why does wine taste good? — speakers: Brian Cox, Robin Ince, Tim Minchin, Brian Schmidt, Mango Parker, Patricia Williamson
-- 2022-12-17 — The Deep Space Network — speakers: Brian Cox, Robin Ince, Astrophysicists Mark Cheung, Alan Duffy, Brian Schmidt, Alice Fraser
-- 2022-12-10 — The Age of Conspiracy? — speakers: Brian Cox, Robin Ince, David Baddiel, Prof Karen Douglas, Prof Matthew Cobb, Timotheus Vermeulen
-- 2022-12-03 — Can we cure ageing? — speakers: Brian Cox, Robin Ince, Sarah Kendall, Linda Partridge, Andrew Steele
-- 2022-11-26 — Hunting for Exoplanets — speakers: Brian Cox, Robin Ince, Eric Idle, Jessie Christiansen
-- 2022-11-19 — Exploring our solar system — speakers: Conan O'Brien, Katie Stack Morgan, Kevin Hand
-- 2022-11-12 — What have we learnt from Covid? — speakers: Brian Cox, Robin Ince, Sarah Gilbert, Immunologist Prof, Dan Davis, Chris Van Tulleken
-- 2022-09-03 — How to Teach Maths — speakers: Brian Cox, Robin Ince, Sara Pascoe, Prof Hannah Fry, Matt Parker, Prof David Spiegelhalter
+- 2023-08-05 — Cosmic Dust — speakers: Brian Cox, Robin Ince
+- 2023-07-29 — Ancient DNA Secrets — speakers: Brian Cox, Robin Ince, Ben Willbond
+- 2023-07-22 — The Secret Life of Sharks — speakers: Robin Ince
+- 2023-07-15 — The Magic of Mushrooms — speakers: Brian Cox, Robin Ince
+- 2023-07-08 — Bees v Wasps — speakers: Brian Cox, Robin Ince
+- 2023-07-01 — Supervolcanoes — speakers: Brian Cox, Robin Ince
+- 2023-06-24 — Are we what we eat? — speakers: Brian Cox, Robin Ince
+- 2023-03-25 — Magic Materials
+- 2023-03-18 — How Far Can the Human Body Go? — speakers: Brian Cox, Robin Ince, Polly McGuigan
+- 2023-03-11 — How to Commit the Perfect Murder — speakers: Brian Cox, Robin Ince, Susan Calman, Prof Sue Black, Julia Shaw
+- 2023-03-04 — How to think like a mathematician — speakers: Brian Cox, Robin Ince, Jo Brand, Prof Hannah Fry
+- 2023-02-25 — Australia’s Scary Spiders — speakers: Brian Cox, Robin Ince
+- 2023-02-18 — Southern Skies — speakers: Robin Ince
+- 2022-12-24 — Why does wine taste good? — speakers: Brian Cox, Robin Ince
+- 2022-12-17 — The Deep Space Network — speakers: Brian Cox, Robin Ince
+- 2022-12-10 — The Age of Conspiracy? — speakers: Brian Cox, Robin Ince, David Baddiel, Prof Karen
+- 2022-12-03 — Can we cure ageing? — speakers: Brian Cox, Robin Ince
+- 2022-11-26 — Hunting for Exoplanets — speakers: Brian Cox, Robin Ince
+- 2022-11-19 — Exploring our solar system — speakers: Jet Pro
+- 2022-11-12 — What have we learnt from Covid? — speakers: Brian Cox, Robin Ince
+- 2022-09-03 — How to Teach Maths — speakers: Brian Cox, Robin Ince, Sara Pascoe, Prof Hannah Fry
 - 2022-08-27 — Brains — speakers: Brian Cox, Robin Ince, Alan Davies, Prof Uta Frith
-- 2022-08-20 — Astronauts — speakers: Brian Cox, Robin Ince, Nicole Stott, Chris Hadfield, Carolyn Porco, Katy Brand
-- 2022-08-13 — Black Holes — speakers: Brian Cox, Robin Ince, Eric Idle, Netta Engelhardt, Janna Levin
-- 2022-08-06 — The Wood Wide Web — speakers: Brian Cox, Robin Ince, Ted Lasso, Brendan Hunt, Suzanne Simard, Mark Spencer
-- 2022-07-30 — Exploring the Deep — speakers: Brian Cox, Robin Ince, Tim Minchin, Diva Amon, Jon Copley
-- 2022-07-23 — Bats v Flies — speakers: Brian Cox, Robin Ince, Top Trumps, Erica McAlister, Dave Gorman
-- 2021-02-15 — A History of Rock — speakers: Brian Cox, Robin Ince, Ross Noble, Susie Maidment, Chris Jackson
-- 2021-02-08 — The Fundamentals of Reality — speakers: Robin Ince, Frank Wilczek, Janna Levin, Eric Idle, Sara Pascoe
-- 2021-02-01 — The Science of Cooking — speakers: Robin Ince, Katy Brand, Grace Dent, Mark Miodownik, Harold McGee
-- 2021-01-25 — Neanderthals — speakers: Robin Ince, Alan Davies, Rebecca Wragg Sykes, Tori Herridge
-- 2021-01-18 — Under our Night Sky — speakers: Robin Ince, Jon Culshaw, Tim Peake, Lisa Harvey-Smith, Stuart Clark
-- 2021-01-11 — In Praise of Flies — speakers: Brian Cox, Robin Ince, Monkey Cage, David Baddiel, Erica McAlister, Matthew Cobb
-- 2020-08-26 — Does Time Exist? — speakers: Brian Cox, Robin Ince, Mark Gatiss, Carlo Rovelli, Fay Dowker
-- 2020-07-20 — What is Life? — speakers: Brian Cox, Robin Ince, Jo Brand, Ross Noble, Paul Nurse, Prof Aoife McLysaght
-- 2020-06-29 — When the Monkeys Met the Chimps — speakers: Brian Cox, Robin Ince, Jane Goodall Dbe, Bill Bailey, Dr Cat Hobaiter
-- 2020-06-22 — The Sun — speakers: Robin Ince, Tim Minchin, Lucie Green, Steve Jones
-- 2020-06-15 — An Astronaut's Guide to Isolation — speakers: Brian Cox, Robin Ince, Helen Sharman, Chris Hadfield, Nicole Stott, Rusty Schweickart
-- 2020-06-08 — Space Archaeology — speakers: Brian Cox, Robin Ince, Sara Pascoe, Alice Roberts, Sarah Parcak
-- 2020-06-01 — Black Holes — speakers: Brian Cox, Robin Ince, Matt Lucas, Sean Carroll, Janna Levin
-- 2020-05-25 — The End of the Universe — speakers: Brian Cox, Robin Ince, Steve Martin, Eric Idle, Katie Mack, Brian Greene
-- 2020-02-12 — UFO special — speakers: Brian Cox, Robin Ince, Lucy Beaumont, Maggie Aderin-Pocock, Tim O’Brien
-- 2020-02-12 — Lucy Beaumont's Close Encounters — speakers: Lucy Beaumont, Brian Cox, Robin Ince, GIll Adams, Mike Covell
-- 2020-02-10 — Quantum Worlds — speakers: Brian Cox, Robin Ince, Katy Brand, Sean Carroll, Jim Al-Khalili
-- 2020-02-03 — Fire — speakers: Brian Cox, Robin Ince, Ed Byrne, Niamh Nic Daeid, Adam Rutherford
-- 2020-01-27 — Coral Reefs — speakers: Brian Cox, Robin Ince, Marcus Brigstocke, Callum Roberts, Heather Koldewey
-- 2020-01-20 — Conspiracy Theories — speakers: Conspiracy Theories Brian Cox, Robin Ince, Shazia Mirza, David Robert Grimes, Prof Karen Douglas
-- 2020-01-13 — Science of Laughter — speakers: Brian Cox, Robin Ince, Frank Skinner, Richard Wiseman
-- 2019-10-14 — Brits in Space — speakers: Brian Cox, Robin Ince, Tim Peake, Helen Sharman, Mark Steel
-- 2019-10-07 — Anniversary of the Periodic Table — speakers: Brian Cox, Robin Ince, Katy Brand, Prof Polly Arnold, Prof Andrea Sella, Dmitri Mendeleev
-- 2019-09-30 — Science of Dreaming — speakers: Robin Ince, Bridget Christie, Penny Lewis, Richard Wiseman
-- 2019-09-23 — Clever Creatures — speakers: Robin Ince, Danny Wallace, Tim Birkhead, Helen Scales, Producer Alexandra Feachem
-- 2019-09-16 — Dinosaurs — speakers: Dinosaurs Brian Cox, Robin Ince, Rufus Hound, Susannah Maidment, Steve Brusatte
-- 2019-07-20 — The Infinite Moonkey Cage — speakers: Brian Cox, Robin Ince, Rusty Schweickart, Gerry Griffin, Andy Aldrin, Nick Rhodes, Alexandra Feachem
-- 2019-02-11 — How We Measure the Universe — speakers: Robin Ince, Jo Brand, Prof Jo Dunkley, Adam Masters
-- 2019-02-04 — How to Build a Bionic Human — speakers: Brian Cox, Robin Ince, Noel Fitzpatrick, Kevin Fong, Lucy Beaumont
-- 2019-01-28 — Are humans still evolving? — speakers: Brian Cox, Robin Ince, David Baddiel, Adam Rutherford
-- 2019-01-21 — Origin of Numbers — speakers: Brian Cox, Robin Ince, Hannah Fry, Matt Parker, Prof Brian Butterworth
-- 2019-01-14 — The Future of Humanity — speakers: Robin Ince, Astronomer Royal, Chris Addison
-- 2019-01-07 — Microbes: Secret Rulers of the World? — speakers: Brian Cox, Robin Ince, Ed Byrne, Dr Jon Copley, Prof Monica Grady
+- 2022-08-20 — Astronauts — speakers: Brian Cox, Robin Ince
+- 2022-08-13 — Black Holes — speakers: Brian Cox, Robin Ince, Eric Idle, Netta Engelhard
+- 2022-08-06 — The Wood Wide Web — speakers: Brian Cox, Robin Ince, Brendan Hunt
+- 2022-07-30 — Exploring the Deep — speakers: Brian Cox, Robin Ince, Tim Minchin, Diva Amo
+- 2022-07-23 — Bats v Flies — speakers: Brian Cox, Robin Ince
+- 2021-02-15 — A History of Rock — speakers: Brian Cox, Robin Ince, Ross Noble
+- 2021-02-08 — The Fundamentals of Reality — speakers: Robin Ince
+- 2021-02-01 — The Science of Cooking — speakers: Robin Ince
+- 2021-01-25 — Neanderthals — speakers: Robin Ince, Alan Davies
+- 2021-01-18 — Under our Night Sky — speakers: Robin Ince
+- 2021-01-11 — In Praise of Flies — speakers: Brian Cox, Robin Ince, Monkey Cage
+- 2020-08-26 — Does Time Exist? — speakers: Brian Cox, Robin Ince, Mark Gatiss, Carlo Ro
+- 2020-07-20 — What is Life? — speakers: Brian Cox, Robin Ince, Jo Brand, Ross Noble
+- 2020-06-29 — When the Monkeys Met the Chimps — speakers: Brian Cox, Robin Ince, Jane Goodall Dbe, Bill Bailey
+- 2020-06-22 — The Sun — speakers: Robin Ince
+- 2020-06-15 — An Astronaut's Guide to Isolation — speakers: Brian Cox, Robin Ince
+- 2020-06-08 — Space Archaeology — speakers: Brian Cox, Robin Ince, Sara Pascoe
+- 2020-06-01 — Black Holes — speakers: Brian Cox, Robin Ince
+- 2020-05-25 — The End of the Universe — speakers: Brian Cox, Robin Ince
+- 2020-02-12 — UFO special — speakers: Brian Cox, Robin Ince, Lucy Beaum
+- 2020-02-12 — Lucy Beaumont's Close Encounters — speakers: Lucy Beaumont, Brian Cox, Robin Ince
+- 2020-02-10 — Quantum Worlds — speakers: Brian Cox, Robin Ince, Katy Brand, Sean Carro
+- 2020-02-03 — Fire — speakers: Brian Cox, Robin Ince, Ed Byrne, Niamh Nic Daeid
+- 2020-01-27 — Coral Reefs — speakers: Brian Cox, Robin Ince, Marcus Brigstocke
+- 2020-01-20 — Conspiracy Theories — speakers: Conspiracy Theories Brian Cox, Robin Ince, Shazia Mirza
+- 2020-01-13 — Science of Laughter — speakers: Brian Cox, Robin Ince
+- 2019-10-14 — Brits in Space — speakers: Brian Cox, Robin Ince
+- 2019-10-07 — Anniversary of the Periodic Table
+- 2019-09-30 — Science of Dreaming — speakers: Robin Ince, Bridget Christie, Penny Lew
+- 2019-09-23 — Clever Creatures — speakers: Robin Ince, Danny Wal
+- 2019-09-16 — Dinosaurs — speakers: Dinosaurs Brian Cox, Robin Ince
+- 2019-07-20 — The Infinite Moonkey Cage
+- 2019-02-11 — How We Measure the Universe — speakers: Robin Ince, Jo Brand
+- 2019-02-04 — How to Build a Bionic Human — speakers: Brian Cox, Robin Ince, Noel Fitzpat
+- 2019-01-28 — Are humans still evolving? — speakers: Brian Cox, Robin Ince, David Baddiel
+- 2019-01-21 — Origin of Numbers — speakers: Brian Cox, Robin Ince, Dr Ha
+- 2019-01-14 — The Future of Humanity — speakers: Robin Ince
+- 2019-01-07 — Microbes: Secret Rulers of the World? — speakers: Brian Cox, Robin Ince
 - 2018-08-13 — GCHQ — speakers: Robin Ince, Katy Brand
 - 2018-08-09 — Special Bonus Edition — speakers: Robin Ince
-- 2018-08-06 — The Human Voice — speakers: Robin Ince, Prof Trevor Cox
-- 2018-07-30 — Immune System — speakers: Robin Ince, Shappi Khorsandi, Dan Davis, Prof Steve Jones
-- 2018-07-23 — Invasion — speakers: Brian Cox, Robin Ince, Phill Jupitus, Kate Jones, Mark Spencer
-- 2018-07-16 — Big Data — speakers: Robin Ince, Danny Wallace, Hannah Fry, Timandra Harkness
-- 2018-07-11 — The Infinite Monkey Cage 100 — speakers: Brian Cox, Robin Ince, Brian Blessed, Eric Idle, Katy Brand, Dave Gorman, Andy Hamilton, Alice Roberts
-- 2018-02-12 — Volcanoes — speakers: Brian Cox, Robin Ince, Jo Brand, Tamsin Mather, Clive Oppenheimer
-- 2018-02-05 — How Animals Behave — speakers: Brian Cox, Robin Ince, Rufus Hound, Lucy Cooke, Rory Wilson
-- 2018-01-29 — Teenage Brain — speakers: Brian Cox, Robin Ince, Rory Bremner, Sarah-Jayne Blakemore, Matthew Cobb
-- 2018-01-22 — Antibiotics — speakers: Brian Cox, Robin Ince, Chris Addison, Martha Clokie
-- 2018-01-15 — The Secret Life of Birds — speakers: Robin Ince, Katy Brand, Steve Backshall, Tim Birkhead
-- 2018-01-08 — When Two Stars Collide — speakers: Brian Cox, Robin Ince, Dara O'Briain, Sheila Rowan, Nils Andersson
-- 2017-12-25 — Christmas Special 2017: The Science of Magic — speakers: Brian Cox, Robin Ince, Andy Nyman, Diane Morgan, Richard Wiseman, Francesca Stavrakopoulou
-- 2017-08-07 — The Mind v the Brain — speakers: Brian Cox, Robin Ince, Katy Brand, Uta Frith, Sophie Scott
-- 2017-07-31 — Are We Living in a Simulation? — speakers: Elon Musk, Brian Cox, Robin Ince, Phill Jupitus, Nick Bostrom, Anil Seth
-- 2017-07-24 — Will insects inherit the earth? — speakers: Brian Cox, Robin Ince, Dave Gorman, Tim Cockerill, Amoret Whitaker
-- 2017-07-17 — Oxygen: A Matter of Life and Death — speakers: Brian Cox, Robin Ince, Andrea Sella, Gabrielle Walker, Sara Pascoe
-- 2017-07-10 — Astronaut Special — speakers: Robin Ince, Terry Virts, Claude Nicollier, Charlie Duke
-- 2017-07-03 — What Particles Remain to be Discovered? — speakers: Brian Cox, Robin Ince, Sara Pascoe, Dane Baptiste, Katy Brand, Eric Idle, Charlie Duke, Monkey Cage
-- 2017-02-13 — Making the Invisible Visible — speakers: Visible Brian Cox, Robin Ince, Katy Brand, Prof Carlos Frenk, Prof Matthew Cobb
-- 2017-02-06 — The Human Story: How We Got Here and Why We Survived. — speakers: Brian Cox, Robin Ince, Ross Noble, Danielle Schreve, Chris Stringer, Trafalgar Square
-- 2017-01-30 — Oceans: What Remains to Be Discovered? — speakers: Brian Cox, Robin Ince, Andy Hamilton, Jon Copley, Helen Scales
-- 2017-01-23 — Science's Epic Fails — speakers: Brian Cox, Robin Ince, Rufus Hound, Alice Roberts, Adam Rutherford
-- 2017-01-16 — How to Beat the House and Win at Games — speakers: Brian Cox, Robin Ince, Hannah Fry, Alex Bellos, Richard Wiseman, Helen Zaltzman
-- 2017-01-10 — The Science of Everyday Life — speakers: Brian Cox, Russell Kane, Helen Czerski, Danielle George
-- 2016-12-27 — Christmas Special 2016 — speakers: Brian Cox, Robin Ince, deGrasse Tyson, Mark Gatiss, Deborah Hyde
-- 2016-08-01 — The Universe: What Remains to Be Discovered? — speakers: Brian Cox, Robin Ince, Jodrell Bank, Ben Miller, Paul Abel, Tim O'Brien
-- 2016-07-25 — 200 Years of Frankenstein — speakers: Brian Cox, Robin Ince, Mary Shelley, Noel Fielding, Nick Lane, Christopher Frayling
-- 2016-07-18 — Battle of the Sexes — speakers: Brian Cox, Robin Ince, Sophie Scott, Steve Jones, Sara Pascoe
-- 2016-07-11 — Science of Sleep — speakers: Brian Cox, Robin Ince, Russell Foster, Richard Wiseman, Katy Brand
-- 2016-07-04 — The Recipe to Build a Universe — speakers: Robin Ince, Rufus Hound, Andrea Sella, Lucie Green
-- 2016-06-27 — The Sound of Music — speakers: Robin Ince, Matt Kirshen, KT Tunstall, Nitin Sawhney, Lucy Cooke, Trevor Cox, Julie Andrews
+- 2018-08-06 — The Human Voice — speakers: Robin Ince
+- 2018-07-30 — Immune System — speakers: Robin Ince, Shappi Khorsandi, Dan Davis
+- 2018-07-23 — Invasion — speakers: Brian Cox, Robin Ince, Phill Jupitus
+- 2018-07-16 — Big Data — speakers: Robin Ince, Danny Wallace, Hannah Fry
+- 2018-07-11 — The Infinite Monkey Cage 100 — speakers: Brian Cox, Robin Ince
+- 2018-02-12 — Volcanoes — speakers: Brian Cox, Robin Ince, Jo Brand
+- 2018-02-05 — How Animals Behave — speakers: Brian Cox, Robin Ince, Rufus Hound
+- 2018-01-29 — Teenage Brain — speakers: Brian Cox, Robin Ince, Rory Bremner
+- 2018-01-22 — Antibiotics — speakers: Brian Cox, Robin Ince, Chris Addison
+- 2018-01-15 — The Secret Life of Birds — speakers: Robin Ince, Katy Brand
+- 2018-01-08 — When Two Stars Collide — speakers: Brian Cox, Robin Ince, Dara O'Briain
+- 2017-12-25 — Christmas Special 2017: The Science of Magic — speakers: Christmas Special, Cage Christmas Special
+- 2017-08-07 — The Mind v the Brain
+- 2017-07-31 — Are We Living in a Simulation?
+- 2017-07-24 — Will insects inherit the earth? — speakers: Brian Cox, Robin Ince, Dave Gorman
+- 2017-07-17 — Oxygen: A Matter of Life and Death — speakers: Brian Cox, Robin Ince
+- 2017-07-10 — Astronaut Special — speakers: Robin Ince
+- 2017-07-03 — What Particles Remain to be Discovered? — speakers: Brian Cox, Robin Ince
+- 2017-02-13 — Making the Invisible Visible — speakers: Visible Brian Cox, Robin Ince, Katy Brand
+- 2017-02-06 — The Human Story: How We Got Here and Why We Survived. — speakers: Brian Cox, Robin Ince
+- 2017-01-30 — Oceans: What Remains to Be Discovered? — speakers: Brian Cox, Robin Ince, Andy Hamilton
+- 2017-01-23 — Science's Epic Fails — speakers: Brian Cox, Robin Ince, Rufus Hound
+- 2017-01-16 — How to Beat the House and Win at Games — speakers: Brian Cox, Robin Ince
+- 2017-01-10 — The Science of Everyday Life — speakers: Brian Cox
+- 2016-12-27 — Christmas Special 2016 — speakers: Brian Cox, Robin Ince
+- 2016-08-01 — The Universe: What Remains to Be Discovered? — speakers: Brian Cox, Robin Ince
+- 2016-07-25 — 200 Years of Frankenstein — speakers: Brian Cox, Robin Ince, Mary Shelley
+- 2016-07-18 — Battle of the Sexes — speakers: Brian Cox, Robin Ince, Sophie Scott, Steve Jones
+- 2016-07-11 — Science of Sleep — speakers: Brian Cox, Robin Ince, Russell Foster, Richard Wiseman
+- 2016-07-04 — The Recipe to Build a Universe — speakers: Robin Ince
+- 2016-06-27 — The Sound of Music — speakers: Robin Ince
 - 2016-02-25 — Brian and Robin's Infinite Inbox — speakers: Brian Cox, Robin Ince
-- 2016-02-15 — Climate Change — speakers: Brian Cox, Robin Ince, Tony Ryan, Gabrielle Walker
-- 2016-02-08 — Maths of Love and Sex — speakers: Robin Ince, Brian Cox, Paul Foot, Hannah Fry, David Speigelhalter
-- 2016-02-01 — What Is Reality? — speakers: Brian Cox, Robin Ince, David Eagleman, Sophie Scott, Bridget Christie
-- 2016-01-25 — Invisible Universe — speakers: Brian Cox, Robin Ince, Jon Culshaw, Sarah Bridle, Tim O'Brien, Dark Matter
-- 2016-01-18 — What is Race? — speakers: Brian Cox, Robin Ince, Shappi Khorsandi, Adam Rutherford, Mark Thomas
-- 2016-01-12 — Artificial Intelligence — speakers: Robin Ince, Jo Brand, Anil Seth, Alan Winfield, Artificial Intelligence
-- 2015-12-25 — Christmas Special 2015 — speakers: Robin Ince, Ross Noble, Fay Dowker, Paul Franklin, Simon Guerrier
+- 2016-02-15 — Climate Change — speakers: Brian Cox, Robin Ince, Tony Ryan
+- 2016-02-08 — Maths of Love and Sex — speakers: Robin Ince, Brian Cox
+- 2016-02-01 — What Is Reality? — speakers: Brian Cox, Robin Ince, David Eagleman
+- 2016-01-25 — Invisible Universe — speakers: Brian Cox, Robin Ince
+- 2016-01-18 — What is Race? — speakers: Brian Cox, Robin Ince, Shappi Khorsandi
+- 2016-01-12 — Artificial Intelligence — speakers: Robin Ince
+- 2015-12-25 — Christmas Special 2015 — speakers: Robin Ince
 - 2015-12-15 — Episode 2 — speakers: Brian Cox, Robin Ince
-- 2015-12-08 — Episode 1 — speakers: Brian Cox, Robin Ince
-- 2015-08-10 — Forensic Science — speakers: Brian Cox, Robin Ince, Sue Black, Mark Spencer, Rufus Hound
-- 2015-08-03 — Speed — speakers: Brian Cox, Robin Ince, Andy Green, Danielle George
-- 2015-07-27 — The Infinite Monkey Cage USA Tour: San Francisco — speakers: Brian Cox, Robin Ince, Seth Shostack, Dr Carolyn Porco, Paul Provenza
-- 2015-07-20 — The Infinite Monkey Cage USA Tour: Chicago — speakers: Brian Cox, Robin Ince, Peter Sagal, Paul Sereno, Jerry Coyne
-- 2015-07-13 — The Infinite Monkey Cage USA Tour: Los Angeles — speakers: Robin Ince, Tron Legacy, Sean Carroll, Joe Rogan, Eric Idle
-- 2015-07-06 — The Infinite Monkey Cage USA Tour: New York — speakers: Brian Cox, Robin Ince, Bill Nye, Janna Levin, Tim Daly, Lisa Lampanelli
-- 2015-02-23 — Serendipity — speakers: Robin Ince, Lee Mack, Simon Singh, Andrea Sella
-- 2015-02-16 — What Is the Point of Plants? — speakers: Brian Cox, Robin Ince, Jane Langdale, Jim Al-Khalili, Ed Byrne
-- 2015-02-09 — When Quantum Goes Woo — speakers: Robin Ince, Ben Goldacre, Jeff Forshaw, Sara Pascoe
-- 2015-02-02 — Solar System — speakers: Brian Cox, Robin Ince, Jo Brand, Monica Grady, Dr Carolyn Porco
-- 2015-01-26 — Fierce Creatures — speakers: Robin Ince, Steve Backshall, Lucy Cooke, Andy Hamilton
-- 2015-01-19 — Deception — speakers: Brian Cox, Robin Ince, David Aaronovitch, Richard Wiseman, Sophie Scott
-- 2014-12-25 — Christmas Special 2014 — speakers: Brian Cox, Robin Ince, Brian Blessed Astronaut, Chris Hadfield Bible, Francesca Stavrakopoulou Presenter, Richard Coles Producer
-- 2014-08-11 — Irrationality — speakers: Brian Cox, Robin Ince, Josie Long, Paul Foot, Richard Wiseman, Stuart Ritchie
-- 2014-08-04 — Before the Big Bang — speakers: Robin Ince, Carlos Frenk, Faye Dowker, Ben Miller, Richard Vranch
-- 2014-07-28 — Can Science Save Us? — speakers: Brian Cox, Robin Ince, Stephen Fry, Eric Idle, Tony Ryan, Lucie Green
-- 2014-07-21 — Does Science Need War? — speakers: Brian Cox, Robin Ince, Katy Brand, Philip Ball, Kevin Fong
-- 2014-07-14 — Are Humans Uniquely Unique? — speakers: Robin Ince, Brian Cox, Keith Jensen, Katie Slocombe, Ross Noble
-- 2014-07-07 — Numbers Numbers Everywhere — speakers: Monkey Cage, Brian Cox, Robin Ince, Stephen Fry, Ross Noble, Katy Brand, Ben Miller, Dave Gorman
-- 2014-03-10 — Brian and Robin's Infinite Inbox — speakers: Brian Cox, Robin Ince, Rami Tzabar
-- 2013-12-23 — Science and Spin — speakers: Brian Cox, Robin Ince, Matthew Cobb, Helen Keen, James Burke, Rami Tzabar
-- 2013-12-16 — Should We Pander to Pandas? — speakers: Brian Cox, Robin Ince, Sandy Knapp, Simon Watt, Sara Pascoe, Rami Tzabar
-- 2013-12-09 — To Infinity and Beyond — speakers: Brian Cox, Robin Ince, John Lloyd, Colva Roney Dougal, Simon Singh, Rami Tzabar
-- 2013-12-02 — Science Rocks! — speakers: Brian Cox, Robin Ince, Dave Martill, Hermione Cockburn, Ross Noble, Eric Idle, Rami Tzabar
-- 2013-11-25 — Through the Doors of Perception — speakers: Brian Cox, Robin Ince, Claudia Hammond, Beau Lotto, Alan Moore, Rami Tzabar
-- 2013-11-18 — Risk — speakers: Brian Cox, Robin Ince, David Spiegelhalter, Sue Ion, Graeme Garden, Rami Tzabar
-- 2013-07-29 — Science Museum — speakers: Robin Ince, Josie Long, Neil deGrasse Tyson, Richard Holmes, Doc Brown
-- 2013-07-22 — Alfred Russel Wallace — speakers: Brian Cox, Robin Ince, Alfred Russel Wallace, Steve Jones, Aoife McLysaght, Tony Law
-- 2013-07-15 — What Makes Science a Science? — speakers: Brian Cox, Robin Ince, Ben Goldacre, Sophie Scott, Evan Davis
-- 2013-07-08 — Space Tourism — speakers: Robin Ince, Brian Blessed, Kevin Fong
-- 2013-07-01 — Glastonbury — speakers: Brian Cox, Robin Ince, KT Tunstall, Fay Dowker, Jeff Forshaw
-- 2013-06-24 — What Is Death? — speakers: Brian Cox, Robin Ince, Katy Brand, Nick Lane, Sue Black
-- 2012-12-24 — Christmas Special: The Science of Christmas Behaviour — speakers: Brian Cox, Robin Ince, Mark Gatiss, Steve Jones, Richard Wiseman
-- 2012-12-17 — Creating Life — speakers: Robin Ince, Ed Byrne, Adam Rutherford, Philip Ball, Brian Cox
-- 2012-12-10 — Brain Science — speakers: Brian Cox, Robin Ince, Jo Brand, Brian Butterworth
-- 2012-12-03 — Secret Science — speakers: Robin Ince, Brian Cox, Dave Gorman, Simon Singh, Dr Sue Black
-- 2012-11-26 — Improbable Science — speakers: Brian Cox, Robin Ince, Marc Abrahams, Katy Brand, Matthew Cobb
-- 2012-11-19 — Space Exploration — speakers: Brian Cox, Robin Ince, Jean Luc Picard, Patrick Stewart, Ben Miller, Monica Grady
-- 2012-07-23 — Science v Art — speakers: Robin Ince, Al Murray, Andrew Pontzen, Sara Pascoe, Jonathan Butterworth
-- 2012-07-16 — Parallel Universes — speakers: Parallel Universes Brian Cox, Robin Ince, John Lloyd, Martin Rees
-- 2012-07-08 — The Science of Symmetry — speakers: Robin Ince, Marcus Du Sautoy, Adam Rutherford, Alan Moore
-- 2012-07-02 — Does Size Matter? — speakers: Size Matter, Robin Ince, Brian Cox, Andy Hamilton, Mark Miodownik, Eleanor Stride
-- 2012-06-25 — Science Mavericks — speakers: Brian Cox, Robin Ince, Marcus Brigstocke, Kevin Fong, Aoife McLysaght, Barry Marshall, Brian Cox Producer
-- 2012-06-18 — Oceans: The Last Great Unexplored Frontier? — speakers: Brian Cox, Robin Ince, Dave Gorman, Lloyd Peck, Bramley Murton, Brian Cox Producer
-- 2011-12-26 — The Science of Christmas — speakers: Brian Cox, Richard Dawkins, Mark Gatiss, Roger Highfield
-- 2011-12-19 — I'm a Chemist Get Me Out of Here — speakers: Robin Ince, Brian Cox, Joining Brian, Dara O'Briain, Andrea Sella, Tony Ryan
-- 2011-12-12 — The Science of Sound — speakers: Robin Ince, Brian Cox, Trevor Cox, Chris Plack, Tom Wrigglesworth
-- 2011-12-05 — The Origins of Life — speakers: Robin Ince, Brian Cox, Tim Minchin, Adam Rutherford, Nick Lane
-- 2011-11-28 — A Balanced Programme on Balance — speakers: Brian Cox, Robin Ince, Paul Nurse, Katy Brand
-- 2011-11-21 — What's the North Ever Done for Us? — speakers: Robin Ince, Brian Cox, Jon Culshaw, Jeff Forshaw, Matthew Cobb, Alan Carr
-- 2011-07-05 — Science vs The Supernatural: Does Science Kill the Magic? — speakers: Robin Ince, Brian Cox, Andy Nyman, Richard Wiseman, Bruce Hood
-- 2011-06-27 — Is There Room for Mysticism in a Rational World? — speakers: Brian Cox, Robin Ince, Billy Bragg, Graham Coxon, Shappi Khorsandi, Tony Ryan
-- 2011-06-20 — Is Cosmology Really a Science? — speakers: Robin Ince, Brian Cox, Alan Moore, Ed Copeland, Dallas Campbell, String Theory
-- 2011-06-13 — So You Want To Be An Astronaut? — speakers: Robin Ince, Brian Cox, Helen Keen, Kevin Fong
-- 2011-06-06 — Six Degrees — speakers: Brian Cox, Robin Ince, Stephen Fry, Simon Singh, Russell Crowe
-- 2011-05-30 — What Don't We Know? — speakers: Brian Cox, Robin Ince, Paul Foot, Steve Jones
-- 2010-12-06 — Philosophy — speakers: Brian Cox, Robin Ince, Alexei Sayle, Julian Baggini, Stephen Hawking
-- 2010-11-29 — Randomness — speakers: Brian Cox, Robin Ince, Tim Minchin, Alex Bellos
-- 2010-11-22 — Modern World — speakers: Brian Cox, Robin Ince, Paul Foot
-- 2010-11-15 — Apocalypse — speakers: Brian Cox, Robin Ince, Andy Hamilton
+- 2015-12-08 — Episode 1
+- 2015-08-10 — Forensic Science — speakers: Brian Cox
+- 2015-08-03 — Speed — speakers: Brian Cox, Robin Ince
+- 2015-07-27 — The Infinite Monkey Cage USA Tour: San Francisco — speakers: Brian Cox, Robin Ince
+- 2015-07-20 — The Infinite Monkey Cage USA Tour: Chicago — speakers: Brian Cox, Robin Ince
+- 2015-07-13 — The Infinite Monkey Cage USA Tour: Los Angeles — speakers: Robin Ince
+- 2015-07-06 — The Infinite Monkey Cage USA Tour: New York — speakers: Monkey Cage
+- 2015-02-23 — Serendipity — speakers: Robin Ince, Lee Mack
+- 2015-02-16 — What Is the Point of Plants? — speakers: Brian Cox, Robin Ince
+- 2015-02-09 — When Quantum Goes Woo — speakers: Robin Ince, Ben Goldac
+- 2015-02-02 — Solar System — speakers: Brian Cox, Robin Ince, Jo Brand, Monica Grady
+- 2015-01-26 — Fierce Creatures — speakers: Robin Ince, Steve Backshall, Lucy Cooke
+- 2015-01-19 — Deception — speakers: Brian Cox, Robin Ince, David Aaronovitch
+- 2014-12-25 — Christmas Special 2014 — speakers: Brian Cox, Robin Ince
+- 2014-08-11 — Irrationality — speakers: Brian Cox, Robin Ince, Josie Long, Paul Foot, Richard Wise
+- 2014-08-04 — Before the Big Bang — speakers: Robin Ince
+- 2014-07-28 — Can Science Save Us? — speakers: Brian Cox, Robin Ince, Stephen Fry, Eric Idle
+- 2014-07-21 — Does Science Need War? — speakers: Brian Cox, Robin Ince, Katy Brand
+- 2014-07-14 — Are Humans Uniquely Unique? — speakers: Robin Ince, Brian Cox
+- 2014-07-07 — Numbers Numbers Everywhere — speakers: Monkey Cage
+- 2014-03-10 — Brian and Robin's Infinite Inbox — speakers: Brian Cox, Robin Ince
+- 2013-12-23 — Science and Spin — speakers: Brian Cox, Robin Ince, Manchester Univ
+- 2013-12-16 — Should We Pander to Pandas? — speakers: Brian Cox, Robin Ince
+- 2013-12-09 — To Infinity and Beyond — speakers: Brian Cox, Robin Ince
+- 2013-12-02 — Science Rocks! — speakers: Brian Cox, Robin Ince
+- 2013-11-25 — Through the Doors of Perception — speakers: Brian Cox, Robin Ince
+- 2013-11-18 — Risk
+- 2013-07-29 — Science Museum — speakers: Robin Ince
+- 2013-07-22 — Alfred Russel Wallace — speakers: Brian Cox, Robin Ince, Alfred Russel Wallace
+- 2013-07-15 — What Makes Science a Science? — speakers: Brian Cox, Robin Ince, Ben Gold
+- 2013-07-08 — Space Tourism — speakers: Robin Ince, Brian Blessed
+- 2013-07-01 — Glastonbury — speakers: Brian Cox, Robin Ince
+- 2013-06-24 — What Is Death? — speakers: Brian Cox
+- 2012-12-24 — Christmas Special: The Science of Christmas Behaviour — speakers: Brian Cox, Robin Ince
+- 2012-12-17 — Creating Life — speakers: Robin Ince, Ed Byrne, Adam Rutherford, Philip Ball
+- 2012-12-10 — Brain Science — speakers: Brian Cox, Robin Ince
+- 2012-12-03 — Secret Science — speakers: Robin Ince, Brian Cox, Dave Gorman
+- 2012-11-26 — Improbable Science — speakers: Brian Cox, Robin Ince
+- 2012-11-19 — Space Exploration — speakers: Brian Cox, Robin Ince
+- 2012-07-23 — Science v Art — speakers: Robin Ince
+- 2012-07-16 — Parallel Universes — speakers: Parallel Universes Brian Cox, Robin Ince
+- 2012-07-08 — The Science of Symmetry — speakers: Robin Ince, Marcus Du Sautoy, Adam Ruthe
+- 2012-07-02 — Does Size Matter? — speakers: Size Matter, Robin Ince, Brian Cox, Andy Hamilton
+- 2012-06-25 — Science Mavericks — speakers: Brian Cox, Robin Ince
+- 2012-06-18 — Oceans: The Last Great Unexplored Frontier? — speakers: Brian Cox, Robin Ince
+- 2011-12-26 — The Science of Christmas — speakers: Brian Cox
+- 2011-12-19 — I'm a Chemist Get Me Out of Here — speakers: Robin Ince, Brian Cox
+- 2011-12-12 — The Science of Sound — speakers: Robin Ince, Brian Cox
+- 2011-12-05 — The Origins of Life — speakers: Robin Ince, Brian Cox
+- 2011-11-28 — A Balanced Programme on Balance — speakers: Brian Cox, Robin Ince, Paul Nurse
+- 2011-11-21 — What's the North Ever Done for Us? — speakers: Robin Ince, Brian Cox
+- 2011-07-05 — Science vs The Supernatural: Does Science Kill the Magic? — speakers: Robin Ince, Brian Cox, Andy Nyman
+- 2011-06-27 — Is There Room for Mysticism in a Rational World? — speakers: Rational World, Glastonbury Special Radio
+- 2011-06-20 — Is Cosmology Really a Science? — speakers: Robin Ince, Brian Cox
+- 2011-06-13 — So You Want To Be An Astronaut? — speakers: Robin Ince, Brian Cox, Helen Keen
+- 2011-06-06 — Six Degrees — speakers: Brian Cox, Robin Ince, Stephen Fry
+- 2011-05-30 — What Don't We Know? — speakers: Brian Cox, Robin Ince
+- 2010-12-06 — Philosophy — speakers: Brian Cox, Robin Ince, Alexei Sayle
+- 2010-11-29 — Randomness — speakers: Brian Cox, Robin Ince
+- 2010-11-22 — Modern World — speakers: Brian Cox, Robin Ince
+- 2010-11-15 — Apocalypse — speakers: Brian Cox, Robin Ince
 - 2010-07-05 — Things Can Only Get Better? — speakers: Brian Cox, Robin Ince
-- 2010-06-28 — Science Fiction, Science Fact — speakers: Jonathan Ross, Alan Moore, Brian Greene, Brian Cox, Robin Ince
-- 2010-06-21 — Trust me, I'm a Scientist — speakers: Brian Cox, Robin Ince, Ben Goldacre, Dave Gorman
-- 2010-06-14 — Popular Science — speakers: Brian Cox, Robin Ince, Ben Miller, Robert Winston
-- 2009-12-21 — Science and Religion — speakers: Brian Cox, Robin Ince, Victor Stock, Guildford Cathedral, Adam Rutherford
-- 2009-12-14 — Quantum Physics — speakers: Brian Cox, Robin Ince, Ben Miller
-- 2009-12-07 — Extraterrestrial Life — speakers: Brian Cox, Robin Ince, Jon Ronson, Seth Shostack
-- 2009-11-30 — Science and Comedians — speakers: Dara O'Briain, Alice Roberts, Brian Cox, Robin Ince
+- 2010-06-28 — Science Fiction, Science Fact — speakers: Jonathan Ross, Alan Moore, Brian Greene
+- 2010-06-21 — Trust me, I'm a Scientist — speakers: Brian Cox, Robin Ince
+- 2010-06-14 — Popular Science — speakers: Brian Cox, Robin Ince
+- 2009-12-21 — Science and Religion — speakers: Brian Cox, Robin Ince
+- 2009-12-14 — Quantum Physics — speakers: Brian Cox, Robin Ince
+- 2009-12-07 — Extraterrestrial Life — speakers: Brian Cox, Robin Ince
+- 2009-11-30 — Science and Comedians — speakers: Dara O'Briain, Alice Roberts, Brian Cox

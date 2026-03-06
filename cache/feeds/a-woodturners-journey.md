@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-03-06T07:07:53+00:00`
-- checked_at: `2026-03-06T07:07:53+00:00`
-- etag: `"djEuMi4wOjE3NzI3Njk3NTEzMjI="`
+- fetched_at: `2026-03-06T09:56:10+00:00`
+- checked_at: `2026-03-06T09:56:10+00:00`
+- etag: `"djEuMi4wOjE3NzI3ODQwMzk2Nzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-03-06T07:07:53+00:00",
+  "fetched_at": "2026-03-06T09:56:10+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -26,6 +26,24 @@
     "hobbies"
   ],
   "episodes": [
+    {
+      "key": "69034783ba799287cf5dcc92bcc90c7ecf5663d2",
+      "title": "Ep. 33 - Minnesota",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "link": "http://www.instagram.com/awoodturnersjourney",
+      "description": "We get Cremona'd! Join us as we talk with Matthew J. Cremona about his woodturning and woodworking journey. Did you know that it was woodturning that started this Slab Master on his amazingly prolific woodworking journey?!?! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1772769739014-54060bb1-4930-4350-8972-b00fcd76ed02.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/69aa5002b49eecc0b784694a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122110589",
+      "itunes_duration": "1:12:20",
+      "speakers": [
+        "Chris Jacobsen"
+      ],
+      "topics": [
+        "minnesota"
+      ]
+    },
     {
       "key": "dd8eca1b108b701c806bfd6f0d977c9d3f81d8f9",
       "title": "Ep 32 - The Vacuum",
@@ -653,6 +671,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — Ep. 33 - Minnesota — speakers: Chris Jacobsen
 - 2026-02-27 — Ep 32 - The Vacuum — speakers: Chris Jacobsen
 - 2026-02-13 — Ep 31 - WE ARE THE CHAMPIONS — speakers: Chris Jacobsen
 - 2026-01-30 — Ep 30 - Your head got misplaced — speakers: Chris Jacobsen
