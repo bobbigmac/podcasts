@@ -2,9 +2,9 @@
 
 - slug: `athletico-mince`
 - source: `https://feeds.acast.com/public/shows/512e6e5b-1328-4152-869e-16ad11c71e70`
-- fetched_at: `2026-02-27T19:03:11+00:00`
-- checked_at: `2026-02-27T19:03:11+00:00`
-- etag: `"djEuMi4wOjE3NzIyMDg1MjE3MjQ="`
+- fetched_at: `2026-03-07T18:50:30+00:00`
+- checked_at: `2026-03-07T18:50:30+00:00`
+- etag: `"djEuMi4wOjE3NzI5MDQ3OTAyNTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://athleticomince.com",
   "description": "Bob Mortimer and Andy Dawson's podcast - brass hands, blue drink and more. It's not really about football, d'you know what I mean?",
   "image_url": "https://assets.pippa.io/shows/620e4cf6bbc313c2291225d7/55638de6-e973-4375-94e5-11d1669fb19d.png",
-  "fetched_at": "2026-02-27T19:03:11+00:00",
+  "fetched_at": "2026-03-07T18:50:30+00:00",
   "owners": [
     "Bob Mortimer",
     "Andy Dawson"
@@ -28,6 +28,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "5025c3c902e18311f2cb65c51f0cd554b46d3bea",
+      "title": "Boiled Parsnips 53: Cupboard Dogs",
+      "published_at": "2026-03-07T17:32:54+00:00",
+      "link": "https://shows.acast.com/athleticomince/episodes/boiled-parsnips-53-cupboard-dogs",
+      "description": "Names, topics, a tale from Scotland, questions, Hodgson, Martin meets Farke, and vegetarian waiter ASMR. (Originally recorded for Club Parsnips on 30/5/25 https://www.patreon.com/c/athleticomince ) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/620e4cf6bbc313c2291225d7/55638de6-e973-4375-94e5-11d1669fb19d.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/athleticomince/e/69ac6156f6d1583bb81e8b78/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26522330",
+      "itunes_duration": "35:27",
+      "speakers": [
+        "Boiled Parsnips",
+        "Cupboard Dogs Names",
+        "Bob Mortimer",
+        "Andy Dawson"
+      ],
+      "topics": [
+        "parsnip",
+        "cupboard"
+      ]
+    },
     {
       "key": "35216475ff9b1ff58a6107150c84f91f4e6acffc",
       "title": "Boiled Parsnips 52: Lemon Drivel",
@@ -4825,6 +4847,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-07 — Boiled Parsnips 53: Cupboard Dogs — speakers: Boiled Parsnips, Cupboard Dogs Names, Bob Mortimer, Andy Dawson
 - 2026-02-27 — Boiled Parsnips 52: Lemon Drivel — speakers: Boiled Parsnips, Crime Files, Bob Mortimer, Andy Dawson
 - 2025-12-24 — The Crime Files Collection Vol. 4 — speakers: Neil Hunt, Bob Mortimer, Andy Dawson
 - 2025-12-11 — Boiled Parsnips 51: The Power Of Nine — speakers: Boiled Parsnips, Bob Mortimer, Andy Dawson

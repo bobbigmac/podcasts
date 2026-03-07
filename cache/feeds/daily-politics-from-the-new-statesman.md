@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-07T13:09:10+00:00`
-- checked_at: `2026-03-07T13:09:10+00:00`
-- etag: `"djEuMi4wOjE3NzI4ODI3NzA2OTg="`
+- fetched_at: `2026-03-07T18:50:30+00:00`
+- checked_at: `2026-03-07T18:50:30+00:00`
+- etag: `"djEuMi4wOjE3NzI5MDE2Mzk0ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-07T13:09:10+00:00",
+  "fetched_at": "2026-03-07T18:50:30+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "19aac475b2d7167397759d7136cbe71ef3e14a48",
+      "title": "”Won’t somebody think of the labradoodles?” | Will and Anoosh’s weekly round up",
+      "published_at": "2026-03-07T16:40:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/wont-somebody-think-of-the-labradoodles-will-and-anooshs-wee",
+      "description": "Despite Dubai’s proximity to Iran, is it safer than Sadiq Khan’s London? Do young people have a different perspective on class? And could the corgi be banned? Will and Anoosh round up their picks of news stories from the week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1772882588146-4d6d1bff-4dfe-4da4-bd6c-6860dbad09c0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69ac0b527036d7390244fe84/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87350937",
+      "itunes_duration": "36:22",
+      "speakers": [
+        "Khan’s London",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "labradoodle",
+        "anoosh",
+        "round"
+      ]
+    },
     {
       "key": "a5ce4699d5190f6232ae8d84b41a336fd49a7c77",
       "title": "What is the future for jury trials?",
@@ -30403,6 +30425,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-07 — ”Won’t somebody think of the labradoodles?” | Will and Anoosh’s weekly round up — speakers: Khan’s London, Anoosh Chakelian, Oli Dugmore
 - 2026-03-06 — What is the future for jury trials? — speakers: Tribunals Bill, Anoosh Chakelian, Oli Dugmore
 - 2026-03-05 — Exclusive: the progressive voters abandoning Labour — speakers: Labour Labour, Anoosh Chakelian, Oli Dugmore
 - 2026-03-04 — Was Rachel Reeves’ spring statement out of date on arrival? — speakers: Rachel Reeves, Anoosh Chakelian, Oli Dugmore
