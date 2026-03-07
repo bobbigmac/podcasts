@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-03-06T09:56:10+00:00`
-- checked_at: `2026-03-06T09:56:10+00:00`
-- last_modified: `Fri, 06 Mar 2026 09:51:27 GMT`
+- fetched_at: `2026-03-07T02:44:26+00:00`
+- checked_at: `2026-03-07T02:44:26+00:00`
+- last_modified: `Sat, 07 Mar 2026 02:06:54 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Join our Patreon for two shows a week, ad-free listening, early access and much more... Follow this link and get involved! - patreon.com/RussellHoward Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/f49076c57d0c5aac5d76c06956cf8e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-06T09:56:10+00:00",
+  "fetched_at": "2026-03-07T02:44:26+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bd733497b83d1e8de08f59e38f3856d790e5ca71",
+      "title": "February's Moments of the Month",
+      "published_at": "2026-03-07T02:00:00+00:00",
+      "link": null,
+      "description": "Welcome to our best of February's shows, with a little snippet of each of the four shows we slung into the world across the last month. This show features Charlie Higson talking about the wonders of the Voyager Space Probe... Comedian and podcaster Amy Gledhill eulogising about some of the most Northern sandwiches you could imagine... Comedy legend Harry Enfield on the utility and beauty of the 'umble wig... and Taskmaster's Stevie Martin on why she covets other people's sofas. This is just a taster and all full episodes are available wherever you found this one. Back with a new full episode next Wednesday. Until then! Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4199222528.mp3?updated=1772193701",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2757",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "february",
+        "moments",
+        "month"
+      ]
+    },
     {
       "key": "82e46c9fe8b5110f9917657869e12c750d85e55d",
       "title": "Shane Todd",
@@ -1731,6 +1751,25 @@
       ]
     },
     {
+      "key": "bdf94e419295abe12a6c2fca8b1558f63065bc67",
+      "title": "Linford Christie",
+      "published_at": "2024-09-23T13:50:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/50-linford-christie/",
+      "description": "Did Linford Christie take part in the Dad’s race at his kids’s school sports day? Russell and Linford discuss what it’s like to be bloody quick, what it’s like to win an Olympic gold medal, and why Linford used to growl like a tiger at his competitors on the starting blocks. It’s a really interesting and intimate chat with a British legend, seeing a side to him that we rarely get to see. It’s really worth watching the documentary all about Linford’s career and life. It’s called simply ‘Linford’, which is on BBC iPlayer, or if you’re abroad it’s on iPlayer with a VPN (wink wink). It really tells the story well, with fascinating insights and at times it gets pretty emotional. You don’t need me to give you a link to iPlayer. If you can’t find that with a search engine then you deserve to have your internet taken away from you. Russell is back out on the road doing all sorts of bits and bobs, with Canada coming up, also Sweden, Norway…check out his movements at Russell-howard.co.uk That’s all for this week. I’m off for a quick 13 minute nap. That’s the golden number apparently for efficient napping. I’ll let you know how it goes. Goodbye for now, old friend. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3535104455.mp3?updated=1727099745",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3762",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "linford",
+        "christie"
+      ]
+    },
+    {
       "key": "2cafbd446e2182c416b71e38b3d857f96687ea57",
       "title": "David O'Doherty LIVE from the Edinburgh Festival",
       "published_at": "2024-09-23T13:50:00+00:00",
@@ -1749,25 +1788,6 @@
         "david",
         "edinburgh",
         "festival"
-      ]
-    },
-    {
-      "key": "bdf94e419295abe12a6c2fca8b1558f63065bc67",
-      "title": "Linford Christie",
-      "published_at": "2024-09-23T13:50:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/50-linford-christie/",
-      "description": "Did Linford Christie take part in the Dad’s race at his kids’s school sports day? Russell and Linford discuss what it’s like to be bloody quick, what it’s like to win an Olympic gold medal, and why Linford used to growl like a tiger at his competitors on the starting blocks. It’s a really interesting and intimate chat with a British legend, seeing a side to him that we rarely get to see. It’s really worth watching the documentary all about Linford’s career and life. It’s called simply ‘Linford’, which is on BBC iPlayer, or if you’re abroad it’s on iPlayer with a VPN (wink wink). It really tells the story well, with fascinating insights and at times it gets pretty emotional. You don’t need me to give you a link to iPlayer. If you can’t find that with a search engine then you deserve to have your internet taken away from you. Russell is back out on the road doing all sorts of bits and bobs, with Canada coming up, also Sweden, Norway…check out his movements at Russell-howard.co.uk That’s all for this week. I’m off for a quick 13 minute nap. That’s the golden number apparently for efficient napping. I’ll let you know how it goes. Goodbye for now, old friend. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3535104455.mp3?updated=1727099745",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3762",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "linford",
-        "christie"
       ]
     },
     {
@@ -2753,6 +2773,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-07 — February's Moments of the Month — speakers: Russell Howard
 - 2026-03-04 — Shane Todd — speakers: Northern Irish, Russell Howard
 - 2026-02-25 — Stevie Martin — speakers: Stevie Martin, Russell Howard
 - 2026-02-18 — Harry Enfield — speakers: Harry Enfield, Russell Howard
@@ -2838,8 +2859,8 @@
 - 2024-10-09 — Stephen Merchant — speakers: Stephen Merchant, Russell Howard
 - 2024-10-02 — Ashley Roberts — speakers: Ashley Roberts, Russell Howard
 - 2024-09-25 — Adam Hills — speakers: Adam Hills, Russell Howard
-- 2024-09-23 — David O'Doherty LIVE from the Edinburgh Festival — speakers: David O'Doherty, Russell Howard
 - 2024-09-23 — Linford Christie — speakers: Russell Howard
+- 2024-09-23 — David O'Doherty LIVE from the Edinburgh Festival — speakers: David O'Doherty, Russell Howard
 - 2024-08-28 — 48. Matt Forde — speakers: Matt Forde, Russell Howard
 - 2024-08-21 — 47. Jason Byrne LIVE from the Edinburgh Festival — speakers: Russell Howard
 - 2024-08-14 — 46. Larry Dean LIVE from the Fringe — speakers: Larry Dean, Russell Howard
