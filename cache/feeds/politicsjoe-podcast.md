@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-06T19:03:26+00:00`
-- checked_at: `2026-03-06T19:03:26+00:00`
-- etag: `"djEuMi4wOjE3NzI4MjE0OTYwOTk="`
+- fetched_at: `2026-03-07T13:09:10+00:00`
+- checked_at: `2026-03-07T13:09:10+00:00`
+- etag: `"djEuMi4wOjE3NzI4ODQ4MzkzNDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-06T19:03:26+00:00",
+  "fetched_at": "2026-03-07T13:09:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a3ef8c61d17276ac9e1227b699dcd95e95fbb3d3",
+      "title": "The Truth about Donald Trump's war on Iran | David Hearst interview",
+      "published_at": "2026-03-07T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69ab19ae6ffdcd81889cdcfc",
+      "description": "Ava is joined by Editor-in-Chief of Middle East Eye David Hearst to break down the foreign policy nightmare Donald Trump could be facing in his continued war against Iran. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69ab19ae6ffdcd81889cdcfc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34732805",
+      "itunes_duration": "24:05",
+      "speakers": [
+        "David Hearst"
+      ],
+      "topics": [
+        "truth",
+        "donald",
+        "trump",
+        "iran",
+        "david",
+        "hearst"
+      ]
+    },
     {
       "key": "afedb2ff65fba3a60a64d704b78af67a8ab77f30",
       "title": "Jeremy Corbyn on Iran, student loans, and electing the king",
@@ -11888,6 +11911,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-07 — The Truth about Donald Trump's war on Iran | David Hearst interview — speakers: David Hearst
 - 2026-03-06 — Jeremy Corbyn on Iran, student loans, and electing the king — speakers: Jeremy Corbyn, Rachel Reeves
 - 2026-03-06 — Who is funding the Reform Party? | Sam Bright interview — speakers: Sam Bright
 - 2026-03-05 — I was cancelled for calling the Green Party middle-class — speakers: Lisa McKenzie, Hannah Spencer

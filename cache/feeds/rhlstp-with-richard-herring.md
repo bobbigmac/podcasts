@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-06T07:07:53+00:00`
-- checked_at: `2026-03-06T07:07:53+00:00`
-- etag: `"djEuMi4wOjE3NzI3Njk0NTk0MzA="`
+- fetched_at: `2026-03-07T13:09:10+00:00`
+- checked_at: `2026-03-07T13:09:10+00:00`
+- etag: `"djEuMi4wOjE3NzI4ODUxMDQ3Mjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-06T07:07:53+00:00",
+  "fetched_at": "2026-03-07T13:09:10+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b500b9a73e473256a95ccef87381455433826df5",
+      "title": "RAACN week 6",
+      "published_at": "2026-03-07T12:05:04+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Wednesday March 2nd 2026 - Dental Caries - In another tightly scripted Newsround we cover the big news that has broken over the weekend whilst we’ve been away, whether Jim Carrey is the real Jim Carrey or someone pretending to be Jim Carrey and why are they pretending and what is wrong with dim internet idiots that think anything like this could be true? I think that’s all that’s been happening. You’ll all be doing it in the playground tomorrow. Tuesday March 3rd 2026 - House of Boobs - Rich and Ally are back with all the big news. Today a regime has been toppled and a vacuum remains, but who will fill it and will it be Rich and Ally. Surely after doing so many of these, so brilliantly , it can’t be long before TV comes knocking. Unless it’s all part of a bigger show already. I know you know what I mean. Thursday March 3rd 2026 - Bad Influence - Rich and Ally are back after a brief hiatus with breaking news of a war in Iran and the one good consequence of it all. Will the show be heading to Dubai soon to make the most of the tax free status of podcasters and other shills? Only if the money is right. Friday 6th March 2026 - Worse Than Hitler - Richard uses Newsround as a forum for his petty grievances and then uses today’s newsround to chat about am historical figures that younger viewers may not have heard of. Did Hitler have one ball? Did he escape his bunker to go to Argentina? Is he the oldest man in the world but unable to show off about it? All these questions will be answered by someone who clearly has the intelligence and disposition to be on prime time TV. Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1772885013889-99afcf93-5177-4c5e-a046-6ee31e97912b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69ac14706ffdcd8188d16705/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29377632",
+      "itunes_duration": "1:00:13",
+      "speakers": [
+        "Wednesday March",
+        "Dental Caries",
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "334476d7ecbe1a40f37bbd0ab0035e8357f89f20",
       "title": "RHLSTP Book Club 172 - Mike Rampton",
@@ -21660,6 +21681,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-07 — RAACN week 6 — speakers: Wednesday March, Dental Caries, Richard Herring
 - 2026-03-06 — RHLSTP Book Club 172 - Mike Rampton — speakers: Mike Rampton, Richard Herring
 - 2026-03-04 — RHLSTP 601 - Rob Auton — speakers: Rob Auton, Richard Herring
 - 2026-03-02 — Retro RHLSTP 135 - Sophie Ellis-Bextor — speakers: Richard Herring
