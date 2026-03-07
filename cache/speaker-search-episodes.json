@@ -13492,6 +13492,28 @@
         "feed_slug": "external:apple:d3a3c6055afb",
         "feed_title": "The Horne Section Podcast",
         "source_rss_url": "https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f",
+        "dedupe_key": "686fe4d55bf69a1790032f9859ca848e73872902",
+        "episode_key": "686fe4d55bf69a1790032f9859ca848e73872902",
+        "title": "The Horne Section Podcast Returns!",
+        "published_at": "2020-01-22T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Horne Section Podcast is back! Raucous, ridiculous and surprisingly satisfying fun. Join us for every week for the next 8 weeks from the 29th January as host Alex Horne and his band are joined by a very special guest for some musical mayhem and plenty of laughs. Hosted on Acast. See acast.com/privacy for more infor",
+        "audio_url": "https://sphinx.acast.com/the-horne-section-podcast/thehornesectionpodcastreturns-/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-horne-section-podcast-returns/id1439618203?i=1000463339625&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:d3a3c6055afb",
+        "feed_title": "The Horne Section Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f",
         "dedupe_key": "bceb5371df200a871af4462fae86aa9702ff7e74",
         "episode_key": "bceb5371df200a871af4462fae86aa9702ff7e74",
         "title": "Al Murray",
