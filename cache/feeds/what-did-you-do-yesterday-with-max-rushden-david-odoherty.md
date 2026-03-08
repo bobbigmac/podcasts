@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-03-04T02:50:53+00:00`
-- checked_at: `2026-03-04T02:50:53+00:00`
-- last_modified: `Wed, 04 Mar 2026 00:15:00 GMT`
+- fetched_at: `2026-03-08T03:12:19+00:00`
+- checked_at: `2026-03-08T03:12:19+00:00`
+- last_modified: `Sun, 08 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-04T02:50:53+00:00",
+  "fetched_at": "2026-03-08T03:12:19+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "08526c2ecbd8168784c66b6f7cb3d69a0521c797",
+      "title": "S4 EP10: Phil Ellis",
+      "published_at": "2026-03-08T03:00:00+00:00",
+      "link": null,
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the brilliant comedian - Phil Ellis. We asked Phil what he did yesterday? He told us. That's it... enjoy! Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7586d59c-1a70-11f1-8f17-7bff06706ec0/image/7209ec326b1e02931fbaf342d1c90574.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8391360876.mp3?updated=1772922684",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4557",
+      "speakers": [
+        "Phil Ellis",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "phil",
+        "ellis"
+      ]
+    },
     {
       "key": "15012e602ab77601288ac35c4e757ee7522274cd",
       "title": "WDWDY #61: Exceptional Perineum",
@@ -2971,6 +2992,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-08 — S4 EP10: Phil Ellis — speakers: Phil Ellis, Max Rushden, David O'Doherty
 - 2026-03-04 — WDWDY #61: Exceptional Perineum — speakers: Max Rushden, David O'Doherty
 - 2026-03-01 — S4 EP9: Marjolein Robertson — speakers: Marjolein Robertson, Max Rushden, David O'Doherty
 - 2026-02-25 — WDWDY #60: Yesterday waits for no man — speakers: Max Rushden, David O'Doherty

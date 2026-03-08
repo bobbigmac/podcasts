@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-03-07T21:34:21+00:00`
-- checked_at: `2026-03-07T21:34:21+00:00`
-- etag: `"djEuMi4wOjE3NzI5MTg4NTE1OTc="`
+- fetched_at: `2026-03-08T03:12:19+00:00`
+- checked_at: `2026-03-08T03:12:19+00:00`
+- etag: `"djEuMi4wOjE3NzI5MTk3NDU1MzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-03-07T21:34:21+00:00",
+  "fetched_at": "2026-03-08T03:12:19+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -55,7 +55,7 @@
       "title": "Adele Cliff's Original Source",
       "published_at": "2026-03-04T01:00:00+00:00",
       "link": "https://shows.acast.com/drunkwomen/episodes/adele-cliffs-original-source",
-      "description": "It's a double drop week wayhayy! We're kicking things off by inviting the wonderful Adele Cliff to DWSC HQ so she can tell us about the time she lived in a very desirable residence, people just couldn't stop trying to get in! The team then get involved with a case where we find out if someone called 'Lycole Man' can win an election over a woman dubbed a 'bad mother' ... the results won't shock you, but plenty more will. Finally, we hear from a listener whose crime points the finger at a never usually noticed demographic (its middle-aged women guys). See you on Friday for a very special 'mash up episode with the fantastic 'My Mate Bought a Toaster' podcast! Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "It's a double drop week wayhayy! We're kicking things off by inviting the wonderful Adele Cliff to DWSC HQ so she can tell us about the time she lived in a very desirable residence, people just couldn't stop trying to get in! The team then get involved with a case where we find out if someone called 'Lycole Man' can win an election over a woman dubbed a 'bad mother' ... the results won't shock you, but plenty more will. Finally, we hear from a listener whose crime points the finger at a never usually noticed demographic (its middle-aged women guys). See you on Friday for a very special 'mash up episode with the fantastic 'My Mate Bought a Toaster' podcast! Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69a2cac17221cfbf200877e4/media.mp3",
       "enclosure_type": "audio/mpeg",
