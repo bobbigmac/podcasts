@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-07T13:09:10+00:00`
-- checked_at: `2026-03-07T13:09:10+00:00`
-- etag: `"djEuMi4wOjE3NzI4ODQ4MzkzNDQ="`
+- fetched_at: `2026-03-08T07:00:42+00:00`
+- checked_at: `2026-03-08T07:00:42+00:00`
+- etag: `"djEuMi4wOjE3NzI5NDk2Mzk0Mjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-07T13:09:10+00:00",
+  "fetched_at": "2026-03-08T07:00:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "20504f3d50913be780dc945349ad1683c8fdb114",
+      "title": "The Old System is Finished. What Now? Ash Sarkar interview",
+      "published_at": "2026-03-08T06:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69a9be7ee2ffe1fef6f35193",
+      "description": "Today Seán is joined by none other than Ash Sarkar as her book Minority Rule hits paperback. After a turbulent 2025 and an utterly batshit start to 2026, Ash reflects on the permacrisis as it continues to warp and destabilise the fabric of society, and reality as we know it. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69a9be7ee2ffe1fef6f35193/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81123554",
+      "itunes_duration": "56:19",
+      "speakers": [
+        "Ash Sarkar"
+      ],
+      "topics": [
+        "system",
+        "sarkar"
+      ]
+    },
     {
       "key": "a3ef8c61d17276ac9e1227b699dcd95e95fbb3d3",
       "title": "The Truth about Donald Trump's war on Iran | David Hearst interview",
@@ -11911,6 +11930,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-08 — The Old System is Finished. What Now? Ash Sarkar interview — speakers: Ash Sarkar
 - 2026-03-07 — The Truth about Donald Trump's war on Iran | David Hearst interview — speakers: David Hearst
 - 2026-03-06 — Jeremy Corbyn on Iran, student loans, and electing the king — speakers: Jeremy Corbyn, Rachel Reeves
 - 2026-03-06 — Who is funding the Reform Party? | Sam Bright interview — speakers: Sam Bright
