@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-03-08T03:12:19+00:00`
-- checked_at: `2026-03-08T03:12:19+00:00`
-- last_modified: `Sun, 08 Mar 2026 00:33:01 GMT`
+- fetched_at: `2026-03-08T13:10:47+00:00`
+- checked_at: `2026-03-08T13:10:47+00:00`
+- last_modified: `Sun, 08 Mar 2026 12:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/967914911d6e26f1bb9223e736bc7c12.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-08T03:12:19+00:00",
+  "fetched_at": "2026-03-08T13:10:47+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "78ca902fc229f41f3adcac0e8a40768fcb3ea2cd",
+      "title": "The Guilty Feminist in association with MSI Reproductive Choices",
+      "published_at": "2026-03-08T12:00:00+00:00",
+      "link": null,
+      "description": "MSI Reproductive Choices Presented by Deborah Frances-White and Grace Campbell with special guest Sarah Shaw Recorded 2 March 2026 via Riverside. Released 8 March. The Guilty Feminist theme composed by Mark Hodge. Donate today to MSI Reproductive Choices https://www.msichoices.org/guiltyfeminist/ Instagram explainer on the Global Gag Rule https://www.instagram.com/p/DUIJpGLjCe1/?img_index=1 More details on the Global Gag Rule on the MSI website https://www.msichoices.org/latest/explained-the-us-global-gag-rule/ For more information about this and other Guilty Feminist episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT Come to a live show 31 March Bloomsbury Theatre. https://www.bloomsburytheatre.com/event/2026/03/guilty-feminist-live 30 April, Guilty Feminist x The Nerve . https://www.leicestersquaretheatre.com/show/guilty-feminist-x-the-nerve-road-to-gilead 10 April, 17 April, 14 May, 22 May Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5a39c15c-1a73-11f1-a94d-1710b47e466a/image/8246ad1202cd80fb7330edcc3c257861.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL8607405256.mp3?updated=1772922289",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3368",
+      "speakers": [
+        "Deborah Frances-White",
+        "Grace Campbell"
+      ],
+      "topics": [
+        "guilty",
+        "feminist",
+        "association",
+        "reproductive",
+        "choices"
+      ]
+    },
     {
       "key": "3c4f98a80abaaf01f010282316d94e099feb7c3f",
       "title": "Birth Keepers with Sirin Kale",
@@ -17502,6 +17525,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-08 — The Guilty Feminist in association with MSI Reproductive Choices — speakers: Deborah Frances-White, Grace Campbell
 - 2026-03-04 — Birth Keepers with Sirin Kale — speakers: Birth Keepers, Sirin Kale, Sirin Kale Presented, Deborah Frances-White, Sirin Kale Recor
 - 2026-03-02 — 472. Ten for Ten #7 with Desiree Burch — speakers: Deborah Frances-White
 - 2026-02-25 — Deborah Frances-White in conversation with Hannah Spencer — speakers: Deborah Frances-White, Hannah Spencer, Hannah Spencer Presented, Deborah Frances-White Recorded
