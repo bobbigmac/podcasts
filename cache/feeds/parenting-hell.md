@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-03-06T13:20:47+00:00`
-- checked_at: `2026-03-06T13:20:47+00:00`
-- last_modified: `Fri, 06 Mar 2026 09:59:17 GMT`
+- fetched_at: `2026-03-08T18:51:57+00:00`
+- checked_at: `2026-03-08T18:51:57+00:00`
+- last_modified: `Sun, 08 Mar 2026 18:00:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ee65a822a2cfcdbd2a17ff6865516c56.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-06T13:20:47+00:00",
+  "fetched_at": "2026-03-08T18:51:57+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -74,10 +74,10 @@
       "link": null,
       "description": "Joining us this episode to discuss the highs and lows of parenting (and life) it's the return of the brilliant comedian and actor - Tom Davis. Tour dates, tickets and info for Tom's new tour 'SPUDGUN' are available from www.bigtomdavis.com Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3595329017.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3595329017.mp3?updated=1772990213",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3735",
+      "itunes_duration": "3691",
       "speakers": [
         "Tom Davis",
         "Rob Beckett",
