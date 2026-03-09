@@ -2,10 +2,10 @@
 
 - slug: `best-smooth-jazz-host-rod-lucas`
 - source: `https://bsj.podomatic.com/rss2.xml`
-- fetched_at: `2026-03-09T10:06:51+00:00`
-- checked_at: `2026-03-09T10:06:51+00:00`
-- etag: `W/"147c15e5d0a46f5a3ec960d9222c3a1f-gzip"`
-- last_modified: `Mon, 09 Mar 2026 10:05:41 GMT`
+- fetched_at: `2026-03-09T13:40:06+00:00`
+- checked_at: `2026-03-09T13:40:06+00:00`
+- etag: `W/"ea1917ae1da660279592efb30f5afa2d-gzip"`
+- last_modified: `Mon, 09 Mar 2026 11:02:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.podomatic.com/podcasts/bsj",
   "description": "Best Smooth Jazz (BSJ) from London UK is a refreshingly 'chilled' Smooth Jazz radio show - all instrumental. Host Rod Lucas plays a 'cool' selection of new & familiar Smooth Jazz instrumentals. Easy listening Grooves with a Soul & R&B feel and Latin vibes. Jazz with fun feel. London's New Cool Smooth Jazz. Soul lovers will enjoy the grooves too.",
   "image_url": "https://assets.podomatic.net/ts/00/ea/86/marcushayes001/1400x1400_15737164.jpg",
-  "fetched_at": "2026-03-09T10:06:51+00:00",
+  "fetched_at": "2026-03-09T13:40:06+00:00",
   "owners": [
     "Rod Lucas"
   ],
@@ -27,6 +27,30 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "6f3bf27e04d3ee6ce98a5697c56202e579abce03",
+      "title": "Best Smooth Jazz : Host Rod Lucas (March 2026)",
+      "published_at": "2026-03-09T10:26:19+00:00",
+      "link": "https://www.podomatic.com/podcasts/bsj/episodes/2026-03-09T03_26_19-07_00",
+      "description": "Best Smooth Jazz ( March 2026) BSJ is your home for feel-good, instrumental Smooth Jazz — blending timeless favourites with the very latest new releases. Join host Rod Lucas , alongside Angie , as the music flows and the wine glasses clink, bringing a relaxed, fun, and effortlessly smooth vibe to every episode. Perfect for unwinding, driving, or setting the mood, Best Smooth Jazz delivers classy grooves, silky melodies, and plenty of smiles along the way. First aired on BSJ Radio 7th March 2026 . (ref: 1026e)) Runs over 2 hours",
+      "image_url": null,
+      "enclosure_url": "https://bsj.podomatic.com/enclosure/2026-03-09T03_26_19-07_00.mp3?_=1773051996.17709266",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "187209955",
+      "itunes_duration": "7782",
+      "speakers": [
+        "Best Smooth Jazz",
+        "Host Rod Lucas",
+        "Smooth Jazz",
+        "Rod Lucas"
+      ],
+      "topics": [
+        "jazz",
+        "host",
+        "lucas",
+        "march"
+      ]
+    },
     {
       "key": "41a969426c1cc83a1ad326750d8e57df9df7099a",
       "title": "Best Smooth Jazz with Rod Lucas (Feb 2026)",
@@ -778,26 +802,6 @@
         "jazz",
         "lucas"
       ]
-    },
-    {
-      "key": "4b0b342cc63d4aebeff0869c922c1d7038147d5e",
-      "title": "Best Smooth Jazz - 29th Oct 2022",
-      "published_at": "2022-10-30T15:55:46+00:00",
-      "link": "https://www.podomatic.com/podcasts/bsj/episodes/2022-10-30T08_55_46-07_00",
-      "description": "Here comes Rod Lucas with latest Best Smooth Jazz Podcsst~Rodcast. A blend of instrumental Smooth Jazz Grooves with some fun, fine wine and super smooth jazz for Work, Rest & Play.. This show was first aired on BSJ Radio - 29th October 2022 (ref 4322). This is a 'commercial free' show playing new releases and great smooth jazz from yesterday. Show News: https:/BestSmoothJazz.com Leave an audio message: https://BSJVoiceMail.com Watch this show at https://BestSmoothJazz.TV",
-      "image_url": null,
-      "enclosure_url": "https://bsj.podomatic.com/enclosure/2022-10-30T08_55_46-07_00.mp3?_=1667145481.16338399",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "208952711",
-      "itunes_duration": "8706",
-      "speakers": [
-        "Rod Lucas",
-        "Smooth Ja"
-      ],
-      "topics": [
-        "smooth",
-        "jazz"
-      ]
     }
   ]
 }
@@ -806,6 +810,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Best Smooth Jazz : Host Rod Lucas (March 2026) — speakers: Best Smooth Jazz, Host Rod Lucas, Smooth Jazz, Rod Lucas
 - 2026-02-08 — Best Smooth Jazz with Rod Lucas (Feb 2026) — speakers: Smooth Jazz, Rod Lucas
 - 2026-01-13 — BEST SMOOTH JAZZ : Host Rod Lucas (Jan 2026) — speakers: Rod Lucas
 - 2025-11-25 — BEST SMOOTH JAZZ : Host Rod Lucas (Nov 2025) — speakers: Rod Lucas
@@ -840,4 +845,3 @@
 - 2023-01-15 — Best Smooth Jazz l Rod Lucas (14th Jan 2023) — speakers: Rod Lucas
 - 2022-12-18 — Best Smooth Jazz Christmas Show (2022) — speakers: Host Rod Lucas, Rod Lucas
 - 2022-11-20 — Best Smooth Jazz : Rod Lucas (19th Nov 2022) — speakers: Rod Lucas
-- 2022-10-30 — Best Smooth Jazz - 29th Oct 2022 — speakers: Rod Lucas, Smooth Ja

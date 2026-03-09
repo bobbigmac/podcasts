@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-09T10:06:51+00:00`
-- checked_at: `2026-03-09T10:06:51+00:00`
-- etag: `W/"20bc0-9YzmhvDhZZTok4TO8JII0Xhq81w"`
+- fetched_at: `2026-03-09T13:40:06+00:00`
+- checked_at: `2026-03-09T13:40:06+00:00`
+- etag: `W/"2102c-IbAboiGroFJkk+yY2av/KgaM7LE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-09T10:06:51+00:00",
+  "fetched_at": "2026-03-09T13:40:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2c8afa1ba94977dcc4479e189dadfe96e5fef23a",
+      "title": "#28 Jon Richardson Podcast with Tim Vine",
+      "published_at": "2026-03-08T14:40:50+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/28-Jon-Richardson-Podcast-with-Tim-Vine-e3g45v2",
+      "description": "#28 Jon Richardson Podcast with Tim Vine",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772980841323-214c5f7ea9b4d.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116577698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-8%2Fab43daa7-9171-467a-e079-dcb2de72c969.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58103744",
+      "itunes_duration": "01:20:41",
+      "speakers": [
+        "Tim Vine"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "vine"
+      ]
+    },
     {
       "key": "a7ed985ac56cd3413f46d68bf60cef55dea54ddf",
       "title": "#27 Jon Richardson Podcast with Al Pitcher",
@@ -2339,6 +2359,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-08 — #28 Jon Richardson Podcast with Tim Vine — speakers: Tim Vine
 - 2026-03-05 — #27 Jon Richardson Podcast with Al Pitcher — speakers: Al Pitcher
 - 2026-03-05 — #26 Jon Richardson Podcast with John Robins — speakers: John Robins
 - 2026-03-05 — #25 Jon Richardson Podcast with Richard Herring — speakers: Richard Herring

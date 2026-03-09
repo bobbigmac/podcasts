@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-08T07:00:42+00:00`
-- checked_at: `2026-03-08T07:00:42+00:00`
-- etag: `"djEuMi4wOjE3NzI5NDk2Mzk0Mjg="`
+- fetched_at: `2026-03-09T13:40:06+00:00`
+- checked_at: `2026-03-09T13:40:06+00:00`
+- etag: `"djEuMi4wOjE3NzMwNjEyMzkzODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-08T07:00:42+00:00",
+  "fetched_at": "2026-03-09T13:40:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "459d4cd163214ab66007c5b870a1d21865b1943d",
+      "title": "Tony Blair is warmongering again",
+      "published_at": "2026-03-09T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69aeb19df6d1583bb883b941",
+      "description": "At a private lunch last Friday, Tony Blair said that Keir Starmer \"should have backed America from the very beginning\". Andy and Laura discuss the former PM's meddling, as well as anti-trans protestors putting Hannah Spencer at risk, and polling on Gen-Z men's uniquely conservative views. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69aeb19df6d1583bb883b941/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51673205",
+      "itunes_duration": "35:52",
+      "speakers": [],
+      "topics": [
+        "tony",
+        "blair"
+      ]
+    },
     {
       "key": "20504f3d50913be780dc945349ad1683c8fdb114",
       "title": "The Old System is Finished. What Now? Ash Sarkar interview",
@@ -11930,6 +11947,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Tony Blair is warmongering again
 - 2026-03-08 — The Old System is Finished. What Now? Ash Sarkar interview — speakers: Ash Sarkar
 - 2026-03-07 — The Truth about Donald Trump's war on Iran | David Hearst interview — speakers: David Hearst
 - 2026-03-06 — Jeremy Corbyn on Iran, student loans, and electing the king — speakers: Jeremy Corbyn, Rachel Reeves
