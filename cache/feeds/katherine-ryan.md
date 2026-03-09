@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-03-05T21:50:34+00:00`
-- checked_at: `2026-03-05T21:50:34+00:00`
-- etag: `"djEuMi4wOjE3NzI3NDcxMjIzOTk="`
+- fetched_at: `2026-03-09T10:06:51+00:00`
+- checked_at: `2026-03-09T10:06:51+00:00`
+- etag: `"djEuMi4wOjE3NzMwNDMyMzk0MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-03-05T21:50:34+00:00",
+  "fetched_at": "2026-03-09T10:06:51+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d8d3a6a6d3dfc84c26b37fe226dc5d95d028b2a7",
+      "title": "A Listener Letter Catchup",
+      "published_at": "2026-03-09T08:00:00+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/a-listener-letter-catchup",
+      "description": "Katherine's Telling Everybody Everything about how to break free from a 'trauma bond', whether you should tell your coworker's wife that he tried to bang you, how to earn a living wage in the UK without collecting benefits, and more. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1772746862584-fc442638-4524-4cce-a4d3-eb5857c160e2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69a9f9726ffdcd818854802d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46478441",
+      "itunes_duration": "32:16",
+      "speakers": [
+        "Listener Letter Catchup Katherine",
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "listener",
+        "letter",
+        "catchup"
+      ]
+    },
     {
       "key": "c3b366af8deb134911943c537c969a616f2b23eb",
       "title": "Jim Carrey's Face and Maura Higgins' Body",
@@ -5945,6 +5967,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — A Listener Letter Catchup — speakers: Listener Letter Catchup Katherine, Telling Everybody Everything, Katherine Ryan
 - 2026-03-03 — Jim Carrey's Face and Maura Higgins' Body — speakers: Jim Carrey, Maura Higgins Body, Katherine Ryan
 - 2026-02-23 — You Wanna Be On Top? — speakers: Katherine Ryan
 - 2026-02-18 — Caught Out In My Pants — speakers: Telling Everybody Everything, Katherine Ryan

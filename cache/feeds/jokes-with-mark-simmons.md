@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-03-04T15:58:27+00:00`
-- checked_at: `2026-03-04T15:58:27+00:00`
-- etag: `"djEuMi4wOjE3NzI2Mzg5MzUxMTI="`
+- fetched_at: `2026-03-09T10:06:51+00:00`
+- checked_at: `2026-03-09T10:06:51+00:00`
+- etag: `"djEuMi4wOjE3NzMwNDk3OTYxODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-03-04T15:58:27+00:00",
+  "fetched_at": "2026-03-09T10:06:51+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1dc40aed5d36f56eedd31ad6b0665fdacb84aa80",
+      "title": "Tour Talk: King, Queen & Idris Elba",
+      "published_at": "2026-03-09T09:49:55+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-king-queen-idris-elba",
+      "description": "Danny meets King Charles, Queen Camilla & Idris Elba, as well as behind the scenes gossip from Mark's new tour Jest to Impress. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/69ae97c47036d73902b244a1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50921993",
+      "itunes_duration": "35:21",
+      "speakers": [
+        "Idris Elba Danny",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk",
+        "king",
+        "queen",
+        "idris",
+        "elba"
+      ]
+    },
     {
       "key": "251c736f59db892cc73bfd7d9238856026939d41",
       "title": "Tour Talk: Mock The Week",
@@ -7107,6 +7131,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Tour Talk: King, Queen & Idris Elba — speakers: Idris Elba Danny, Mark Simmons
 - 2026-03-04 — Tour Talk: Mock The Week — speakers: Mark Simmons
 - 2026-02-24 — FAQ me #2: Listener Questions — speakers: Listener Questions, Mark Simmons
 - 2026-02-03 — Bob Mills - Part 2 — speakers: Bob Mills, Mark Simmons
