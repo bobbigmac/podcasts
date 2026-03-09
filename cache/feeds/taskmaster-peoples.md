@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-03-02T19:07:06+00:00`
-- checked_at: `2026-03-02T19:07:06+00:00`
-- etag: `"1078aa-64c0df0d654ba"`
-- last_modified: `Mon, 02 Mar 2026 17:30:19 GMT`
+- fetched_at: `2026-03-09T19:10:05+00:00`
+- checked_at: `2026-03-09T19:10:05+00:00`
+- etag: `"107f49-64c9b02179e35"`
+- last_modified: `Mon, 09 Mar 2026 17:48:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-03-02T19:07:06+00:00",
+  "fetched_at": "2026-03-09T19:10:05+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3b0975ddf353e5287f451d842961359673d2f4fd",
+      "title": "We Don’t Swear at Bubbles - S5, Ep. 6",
+      "published_at": "2026-03-09T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "This week Jenny and Jack discuss Series 5, Episode 6 including what it takes to balance Alex, giving birth to incredible footage, and fiddly secret tasks. Next week we’ll be discussing Series 7, Episode 5 if you’d like to follow along. Send us all your Taskmaster thoughts to fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/cd014955-c953-438f-a008-9c993fb5690b.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=cd014955-c953-438f-a008-9c993fb5690b",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55972148",
+      "itunes_duration": "55:04",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "bubbles"
+      ]
+    },
     {
       "key": "cc4e3c39a276241a5174a60738cf81d2709a4ffc",
       "title": "Cake Rat - S5, Ep.1",
@@ -4308,6 +4327,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — We Don’t Swear at Bubbles - S5, Ep. 6 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-03-02 — Cake Rat - S5, Ep.1 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-02-23 — Chuck a Duck - S13, Ep. 10 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-02-16 — Leylandii the Menace - S14, Ep. 4 — speakers: Jenny Eclair, Jack Bernhardt

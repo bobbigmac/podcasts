@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-07T18:50:30+00:00`
-- checked_at: `2026-03-07T18:50:30+00:00`
-- etag: `"djEuMi4wOjE3NzI5MDE2Mzk0ODY="`
+- fetched_at: `2026-03-09T19:10:05+00:00`
+- checked_at: `2026-03-09T19:10:05+00:00`
+- etag: `"djEuMi4wOjE3NzMwNzY1NDk4OTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-07T18:50:30+00:00",
+  "fetched_at": "2026-03-09T19:10:05+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b2848c238a7976a8d4be0456906a4ebd06089ea5",
+      "title": "Starmer and Trump's relationship at an all time low",
+      "published_at": "2026-03-09T17:15:49+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/starmer-and-trumps-relationship-at-an-all-time-low",
+      "description": "Angry about the lack of support for his war in Iran, Donald Trump stated that he didn’t need any help from the UK, despite using British airbases for strikes. In an angry social media rant, he also called Keir Starmer a “loser” and “no Winston Churchill”. Just a day later, the two leaders had a call to discuss military cooperation. Can relations be repaired? And is Westminster telling us the whole story? Anoosh Chakelian is joined by US Correspondent Freddie Hayward. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773076331394-0a213cc1-076b-4a1f-9996-8a9a27d70a81.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69af0045b58ea3074dbde6fd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40402154",
+      "itunes_duration": "28:02",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "starmer",
+        "trump",
+        "relationship",
+        "time"
+      ]
+    },
     {
       "key": "19aac475b2d7167397759d7136cbe71ef3e14a48",
       "title": "”Won’t somebody think of the labradoodles?” | Will and Anoosh’s weekly round up",
@@ -30425,6 +30447,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Starmer and Trump's relationship at an all time low — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-07 — ”Won’t somebody think of the labradoodles?” | Will and Anoosh’s weekly round up — speakers: Khan’s London, Anoosh Chakelian, Oli Dugmore
 - 2026-03-06 — What is the future for jury trials? — speakers: Tribunals Bill, Anoosh Chakelian, Oli Dugmore
 - 2026-03-05 — Exclusive: the progressive voters abandoning Labour — speakers: Labour Labour, Anoosh Chakelian, Oli Dugmore
