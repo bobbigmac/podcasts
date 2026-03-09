@@ -2068,6 +2068,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:f7b0ad5c7df5",
+        "feed_title": "Pappy's Flatshare",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR6478712326",
+        "dedupe_key": "5f6d88984138c791e65d212f3b39c6b1e10e59f4",
+        "episode_key": "5f6d88984138c791e65d212f3b39c6b1e10e59f4",
+        "title": "Slamdown w/ James Acaster and Lou Sanders (Schedule the Zoom) S10E22",
+        "published_at": "2020-06-01T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Neither “Tom!” nor “Ben!” book the Zoom call… so Matthew says we’re gonna have to have a Flatshare Slamdown!\nWith Lou Sanders and James Acaster\nFeatures: Scavenger hunts, dropping trowels and film snobbery\n\nLou Sanders - https://twitter.com/LouSanders\nJames Acaster - https://www.jamesacaster.com/\nPappy’s - https://twit",
+        "audio_url": "https://traffic.megaphone.fm/NSR9003216876.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/slamdown-w-james-acaster-and-lou-sanders-schedule/id437801391?i=1000476481068&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:6690c4405592",
         "feed_title": "James Acaster's Stay Home Special Series",
         "source_rss_url": "https://feeds.sharp-stream.com/content/fubar_radio/feed-files/james_acasters_stay_home_special_series.xml",
@@ -8010,6 +8033,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8cc4a7996941",
+        "feed_title": "The Chris Moyles Show on Radio X Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
+        "dedupe_key": "7dedfc338dc9b4fd18104d89a518286f429e3b51",
+        "episode_key": "7dedfc338dc9b4fd18104d89a518286f429e3b51",
+        "title": "Matt Lucas and David Walliams, Iain Stirling, and your Pubcast reviews #482",
+        "published_at": "2025-02-14T14:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Would you go on a 1950’s murder train?\nWelcome back to The Chris Moyles Show on Radio X Podcast, this week Chris and the team tried their hand at writing some parodies for Radio X’s Johnny Vaughan…\nTo start off the week a hot new bombshell entered the studio, and it was none other than the voice of Love Island himself,",
+        "audio_url": "https://dax.captivate.fm/a316ef92-7312-4582-8489-341a0ded7f06/Podcast-482-01-encoded.mp3?aw_0_1st.showid=ed87f36a-7b44-4e79-beea-f3220752406c&aw_0_1st.episodeid=4ee05da9-0e81-4da7-bfd5-b76a891180bf",
+        "link_url": "https://podcasts.apple.com/gb/podcast/matt-lucas-and-david-walliams-iain-stirling-and/id1042635536?i=1000692252174&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:66a92b32c347",
         "feed_title": "You're Dead to Me",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/p07mdbhg.rss",
@@ -11904,6 +11949,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:e01bddc53356",
+        "feed_title": "LONDON PUB REVIEWS (feat. Tim Key)",
+        "source_rss_url": "https://audioboom.com/channels/5145803.rss",
+        "dedupe_key": "4dbee9cf813d636d39d547f50ad0da061c56be7a",
+        "episode_key": "4dbee9cf813d636d39d547f50ad0da061c56be7a",
+        "title": "LONDON PUB REVIEWS (feat. Tim Key) Trailer",
+        "published_at": "2020-11-16T14:06:25Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "London Pub Reviews trailer.\n\n\nWritten by Paul Ewen and starring Tim Key.\n\n\nProduced by Nick Coupe\n\n\nCover art by Max Dorey\n\n\nStarts Thursday 17th December.\n\n\nA Hat Trick Podcast\n\n\n Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8617379.mp3?modified=1733135933&sid=5145803&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/london-pub-reviews-feat-tim-key-trailer/id1544416855?i=1000502042090&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:c6031f1ae9bf",
         "feed_title": "Hawksbee & Jacobs Daily",
         "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
@@ -12185,6 +12252,29 @@
         "description": "Multi award winning Alex Horne is joined by Gyles Brandreth and Simon Evans as well as  Tim Key as his beautiful assistant. Biscuits seem to be a hot topic of conversation this week. Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-gyles-brandreth-simon-evans-and-tim-key/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-gyles-brandreth-simon-evans-and-tim-key/id1133204823?i=1000372293470&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "c0521eea8a4c634319891ee9df77ff7521b47fed",
+        "episode_key": "c0521eea8a4c634319891ee9df77ff7521b47fed",
+        "title": "Alex Horne, Tim Key, Ardal O’Hanlon and James Alexander-Sinclair",
+        "published_at": "2013-05-24T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tim Key and Ardal O’Hanlon join Alex Horne in our weekly light-hearted exploration of the week’s events - if you imagine that the week’s events are a supermarket aisle - maybe dairy - then we’d be sort of trotting down that aisle, picking up yoghurts, scooting along on the back of the trolley and then occasionally havi",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-tim-key-ardal-o-hanlon-and-james-alexander-sinclair/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-tim-key-ardal-ohanlon-and-james-alexander/id1133204823?i=1000372293459&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -15641,6 +15731,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:bb2224026702",
+        "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
+        "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
+        "dedupe_key": "94dc245b0d01361b2c3ed6c2f43b7ede70775b93",
+        "episode_key": "94dc245b0d01361b2c3ed6c2f43b7ede70775b93",
+        "title": "Episode 65 – Psychedelic Freak Out In Perpetuity",
+        "published_at": "2020-08-23T11:05:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ian Arizona.\nWe’re joined by more guests as we continue through our Edinburgh Fringe replacement scheme – Lou Sanders and Glamrou are on the show!\n\nKeep each other safe.\nThanks for downloading the podcast – remember, you can be an Early Worm and catch the show live on Radio X every Sunday 8am – 11am. \n\nGet in touch on ",
+        "audio_url": "https://dax.captivate.fm/834e4826-7947-4844-b698-43ac4dc9fcb6/65e59a99-9a1a-487b-ab33-f544d5a8b1c9.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=b34a90ad-39cf-4478-8ecf-3bed9fbb8ef6",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-65-psychedelic-freak-out-in-perpetuity/id1467168361?i=1000488912054&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:dc299526e76a",
         "feed_title": "Elis James and John Robins",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0005fdz.rss",
@@ -15657,6 +15769,29 @@
         "enclosure_bytes": null,
         "enclosure_type": null,
         "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f7b0ad5c7df5",
+        "feed_title": "Pappy's Flatshare",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR6478712326",
+        "dedupe_key": "5f6d88984138c791e65d212f3b39c6b1e10e59f4",
+        "episode_key": "5f6d88984138c791e65d212f3b39c6b1e10e59f4",
+        "title": "Slamdown w/ James Acaster and Lou Sanders (Schedule the Zoom) S10E22",
+        "published_at": "2020-06-01T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Neither “Tom!” nor “Ben!” book the Zoom call… so Matthew says we’re gonna have to have a Flatshare Slamdown!\nWith Lou Sanders and James Acaster\nFeatures: Scavenger hunts, dropping trowels and film snobbery\n\nLou Sanders - https://twitter.com/LouSanders\nJames Acaster - https://www.jamesacaster.com/\nPappy’s - https://twit",
+        "audio_url": "https://traffic.megaphone.fm/NSR9003216876.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/slamdown-w-james-acaster-and-lou-sanders-schedule/id437801391?i=1000476481068&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
           "Lou Sanders"
         ],
         "topics": [],
